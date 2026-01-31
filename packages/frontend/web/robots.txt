@@ -1,0 +1,8 @@
+# robots.txt for Metal Drummer Gear
+# Allow all crawlers to index the site
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://metaldrummergear.com/sitemap.xml

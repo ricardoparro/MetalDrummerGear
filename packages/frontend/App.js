@@ -631,6 +631,8 @@ const styles = StyleSheet.create({
     marginBottom: 16,
   },
   videoContainer: {
+    width: '100%',
+    aspectRatio: 16 / 9,
     borderRadius: 8,
     overflow: 'hidden',
     backgroundColor: '#000',
@@ -672,5 +674,17 @@ const styles = StyleSheet.create({
   },
   videoYear: {
     fontSize: 12,
+  },
+  videoLink: {
+    paddingVertical: 40,
+    paddingHorizontal: 20,
+    borderRadius: 8,
+    borderWidth: 1,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  videoLinkText: {
+    fontSize: 16,
+    fontWeight: '600',
   },
 });

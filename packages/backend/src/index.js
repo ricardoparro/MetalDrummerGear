@@ -15,7 +15,7 @@ const drummers = [
     band: 'Metallica',
     genre: 'Thrash Metal',
     country: 'Denmark',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/7/74/Lars_Ulrich_2025_Marvel_Stadium_%286%29.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/7/79/Lars_Ulrich_by_Gage_Skidmore_%28cropped%29.jpg',
     bio: 'Lars Ulrich is a Danish musician and co-founder of Metallica, one of the most influential thrash metal bands in history. Born in 1963, he moved to Los Angeles to pursue his drumming career and formed Metallica with James Hetfield in 1981. Known for his aggressive style and iconic drum fills, Lars has been instrumental in shaping the sound of heavy metal.',
     gear: {
       drums: 'Tama Star Classic Maple',
@@ -25,7 +25,7 @@ const drummers = [
       sticks: 'Ahead Lars Ulrich Signature Drumsticks'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/7/74/Lars_Ulrich_2025_Marvel_Stadium_%286%29.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/7/79/Lars_Ulrich_by_Gage_Skidmore_%28cropped%29.jpg'
     ],
     endorsements: [
       { name: 'Tama Drums', url: 'https://www.tama.com' },

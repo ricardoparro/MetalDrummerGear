@@ -199,9 +199,9 @@ const drummers = [
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
     ],
     videos: [
-      { title: 'Means to an End - Drum Cam (Sepultura)', youtubeId: '4D_Wx3OSzKk', year: 2020 },
-      { title: 'Roots Bloody Roots - Drum Cam (Live)', youtubeId: 'VqjT_wbcKtI', year: 2018 },
-      { title: 'Refuse/Resist - Drum Playthrough', youtubeId: 'PwHxvpjGzIg', year: 2019 }
+      { title: 'Desperate Cry - Sepultura (3.3M views)', youtubeId: '1ktbtG-zD8Y', year: 2017 },
+      { title: 'Means To An End - Official Drum Cam', youtubeId: 'dQe3EwkPcFU', year: 2019 },
+      { title: 'Roots Bloody Roots - Rock in Rio (Official)', youtubeId: 'J9W1CxQmTxI', year: 2022 }
     ]
   },
   {
@@ -228,9 +228,9 @@ const drummers = [
       { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' }
     ],
     videos: [
-      { title: 'Freak on a Leash - Drum Cam (Live)', youtubeId: '7OGIwH5qTWE', year: 2019 },
-      { title: 'Falling Away From Me - Drum Cam', youtubeId: 'HCM2RArDjfU', year: 2017 },
-      { title: 'Here to Stay - Drum Playthrough', youtubeId: 'E8bRSfXyGUI', year: 2020 }
+      { title: 'Freak On A Leash - Vic Firth (5M views)', youtubeId: 'Vp6_NMOzPNw', year: 2015 },
+      { title: 'Korn Medley - UK Drum Show (Vic Firth)', youtubeId: 'xjYHh1D_8Po', year: 2019 },
+      { title: 'Got The Life - GoPro Drum Cam', youtubeId: 'g2k0PpRw2f4', year: 2014 }
     ]
   },
   {
@@ -257,9 +257,9 @@ const drummers = [
       { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' }
     ],
     videos: [
-      { title: 'Break Stuff - Drum Cam (Live)', youtubeId: 'E6YMdI2kFRE', year: 2021 },
-      { title: 'Rollin\' - Drum Cam (Lollapalooza)', youtubeId: 'FLpXfSnNrVE', year: 2021 },
-      { title: 'My Way - Drum Cam (Live)', youtubeId: '7xmALYDk2BU', year: 2019 }
+      { title: 'Boiler - Live Drum Cam Clip', youtubeId: 'pmyWqwaGNbg', year: 2019 },
+      { title: 'Drum Solo (Classic)', youtubeId: '3tWvneQTgRU', year: 2006 },
+      { title: 'Interview and Rollin\' LIVE Drum Cam', youtubeId: 'wTm9KLDxc9k', year: 2024 }
     ]
   },
   {
@@ -286,9 +286,9 @@ const drummers = [
       { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' }
     ],
     videos: [
-      { title: 'Duality - Drum Cam (Slipknot Live)', youtubeId: 'r_FUbTKt0d0', year: 2019 },
-      { title: 'Psychosocial - Drum Cam (Knotfest)', youtubeId: 'BWVKvRPpMIU', year: 2019 },
-      { title: 'The Negative One - Drum Playthrough', youtubeId: 'sgA7KIwKlOE', year: 2014 }
+      { title: 'Unsainted - Zildjian Performance (15M views)', youtubeId: 'hfXUQuQV-4o', year: 2019 },
+      { title: 'Duality - Live Drum Cam (Wacken 2022, Official)', youtubeId: 'sTs1uxjHDzA', year: 2022 },
+      { title: 'Sulfur - Live Drum Cam (Wacken 2022, Official)', youtubeId: 'bQBUGf9dM1w', year: 2022 }
     ]
   },
   {
@@ -315,9 +315,9 @@ const drummers = [
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
     ],
     videos: [
-      { title: 'Walk - Drum Cam (Pantera Live)', youtubeId: 'vTIIMJ9tUc8', year: 2001 },
-      { title: 'Cowboys From Hell - Drum Cam', youtubeId: '2DfYLar2QGI', year: 1997 },
-      { title: 'Domination - Drum Cam (Live)', youtubeId: 'aDACorIaxNw', year: 1997 }
+      { title: 'The MONSTER known as VINNIE PAUL (by Scott Ian)', youtubeId: 'J9FD8_kRVEc', year: 2010 },
+      { title: 'GoPro Drum Cam (Full Show 2011)', youtubeId: 'E4LVFVzgxFo', year: 2011 },
+      { title: 'Hellyeah - Grave (GoPro Drum Cam)', youtubeId: 'ET8IEfaTDhM', year: 2016 }
     ]
   },
   {
@@ -346,9 +346,9 @@ const drummers = [
       { name: 'Roland Electronics', url: 'https://www.roland.com' }
     ],
     videos: [
-      { title: 'Madhouse - Drum Cam (Anthrax Live)', youtubeId: 'UGujMZpFICo', year: 2017 },
-      { title: 'Caught in a Mosh - Drum Playthrough', youtubeId: 'G78pPDHsyBg', year: 2016 },
-      { title: 'Indians - Drum Cam (Big Four Show)', youtubeId: 'fZPvDd-4xFo', year: 2011 }
+      { title: 'Indians - Drumeo Breakdown', youtubeId: 'OR6rUpbFOk0', year: 2023 },
+      { title: 'Caught In A Mosh (Official Channel)', youtubeId: 'Fnn86OK1ZPo', year: 2011 },
+      { title: 'Drum Cam Compilation', youtubeId: 'he7QfNFRdv0', year: 2018 }
     ]
   },
   {
@@ -377,9 +377,9 @@ const drummers = [
       { name: 'Roland Electronics', url: 'https://www.roland.com' }
     ],
     videos: [
-      { title: 'The Dance of Eternity - Drum Cam', youtubeId: 'FwkcRTNMsWs', year: 2000 },
-      { title: 'Metropolis Pt. 1 - Drum Cam (Live)', youtubeId: 'FRHvbqeKMgo', year: 2008 },
-      { title: 'Pull Me Under - Drum Cam', youtubeId: 'mipc-JxrhgU', year: 2019 }
+      { title: 'Instrumedley - The Dance of Instrumentals (4.5M views)', youtubeId: 'XFo8UgrUkNA', year: 2003 },
+      { title: 'Panic Attack - Drumeo (Official)', youtubeId: 'oa7oOdYPOSk', year: 2023 },
+      { title: 'Score - Full Concert Drum & Vox Cam (Official)', youtubeId: 'eUYi4GwN9sg', year: 2006 }
     ]
   }
 ];

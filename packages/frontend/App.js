@@ -68,6 +68,13 @@ function updateDocumentMeta(drummer) {
   });
 }
 
+function SEOHead({ drummer }) {
+  useEffect(() => {
+    updateDocumentMeta(drummer);
+  }, [drummer]);
+  return null;
+}
+
 function DrummerCard({ drummer, theme, onPress }) {
   return (
     <TouchableOpacity

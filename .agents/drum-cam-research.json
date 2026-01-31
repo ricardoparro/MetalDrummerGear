@@ -1,0 +1,396 @@
+{
+  "researchDate": "2026-01-31",
+  "description": "YouTube drum cam videos for metal drummers in MetalDrummerGear",
+  "drummers": {
+    "lars_ulrich": {
+      "name": "Lars Ulrich",
+      "band": "Metallica",
+      "videos": [
+        {
+          "title": "Lars Ulrich drumming Metallica - Sad But True (Amsterdam 4/27/2023)",
+          "videoId": "A96QtqEpqUA",
+          "year": "2023",
+          "channel": "Dutch Generation X",
+          "views": "1.8M",
+          "quality": "High quality, close-up drum cam"
+        },
+        {
+          "title": "Metallica - For Whom The Bell Tolls (Lars Angle) Cunning Stunts",
+          "videoId": "Z_qLd2uj21w",
+          "year": "1997",
+          "channel": "MetallicolombiA Local Chapter",
+          "views": "1.5M",
+          "quality": "Official DVD footage, classic performance"
+        },
+        {
+          "title": "Metallica-Enter Sandman S&M (Lars Cam)",
+          "videoId": "t0cDBuEOdIA",
+          "year": "1999",
+          "channel": "MrThebestdrumme",
+          "views": "165K",
+          "quality": "S&M concert footage with orchestra"
+        }
+      ]
+    },
+    "joey_jordison": {
+      "name": "Joey Jordison",
+      "band": "Slipknot",
+      "videos": [
+        {
+          "title": "Slipknot - Joey Jordison Drum cam - People=Shit (Live at London 2002)",
+          "videoId": "zRS9uKs3Rlk",
+          "year": "2002",
+          "channel": "Дядя Миша говорит",
+          "views": "2.3M",
+          "quality": "Official DVD drum cam footage"
+        },
+        {
+          "title": "Slipknot - JOEY JORDISON (Drum Cam) - 4K Compilation",
+          "videoId": "RdXMcj7xv20",
+          "year": "2000",
+          "channel": "KnotConcerts100",
+          "views": "543K",
+          "quality": "4K remaster, compilation from 2000 shows"
+        },
+        {
+          "title": "Slipknot - Joey Jordison: Disasterpieces Drum Solo (Live)",
+          "videoId": "tUibKh0Z--c",
+          "year": "2002",
+          "channel": "Slipknot (Official)",
+          "views": "5.4M",
+          "quality": "Official channel, iconic drum solo"
+        }
+      ]
+    },
+    "gene_hoglan": {
+      "name": "Gene Hoglan",
+      "band": "Death, Testament",
+      "videos": [
+        {
+          "title": "Gene Hoglan Plays Death Track 'The Philosopher' From Gene's Brand New DVD",
+          "videoId": "eGope68pHf0",
+          "year": "2016",
+          "channel": "GeneHoglanOfficial",
+          "views": "1.5M",
+          "quality": "Official channel, studio drum playthrough"
+        },
+        {
+          "title": "Gene Hoglan Plays Strapping Young Lad Track 'Skeksis' From Gene's Brand New DVD",
+          "videoId": "-eaIvh6ELVg",
+          "year": "2015",
+          "channel": "GeneHoglanOfficial",
+          "views": "986K",
+          "quality": "Official channel, studio drum playthrough"
+        },
+        {
+          "title": "Pearl Artist Gene Hoglan - True American Hate Drum Cam @ Tuska Open Air Metal Festival 2013",
+          "videoId": "wagKFfcbP5s",
+          "year": "2013",
+          "channel": "PearlDrumsFinland",
+          "views": "151K",
+          "quality": "Official Pearl endorsee footage, Testament live"
+        }
+      ]
+    },
+    "dave_lombardo": {
+      "name": "Dave Lombardo",
+      "band": "Slayer",
+      "videos": [
+        {
+          "title": "Dave Lombardo -- War Ensemble -- Yankee Stadium",
+          "videoId": "3ivOfkqFmxg",
+          "year": "2010",
+          "channel": "Dave Lombardo (Official)",
+          "views": "4.3M",
+          "quality": "Official channel, Big 4 concert"
+        },
+        {
+          "title": "Lombardo Drum Cam Angel of Death.mov",
+          "videoId": "ManyDSIC8fQ",
+          "year": "2010",
+          "channel": "KongfooJim",
+          "views": "2.6M",
+          "quality": "Clear drum cam, iconic song"
+        },
+        {
+          "title": "Slayer - LIVE 2003 - St Louis MO - ONSTAGE DAVE LOMBARDO DRUM CAM FULL SHOW",
+          "videoId": "3kBCky31sTg",
+          "year": "2003",
+          "channel": "Brad Nolan Videography",
+          "views": "54K",
+          "quality": "Full show drum cam, rare footage"
+        }
+      ]
+    },
+    "tomas_haake": {
+      "name": "Tomas Haake",
+      "band": "Meshuggah",
+      "videos": [
+        {
+          "title": "Meshuggah - Bleed - Tomas Haake - Wincent Drumsticks",
+          "videoId": "bAJ1WTGNISk",
+          "year": "2013",
+          "channel": "Wincent Drumsticks AB",
+          "views": "8.1M",
+          "quality": "Official endorsee video, studio quality"
+        },
+        {
+          "title": "MESHUGGAH - Clockworks (Drum Playthrough w/ Tomas Haake)",
+          "videoId": "axGn6qeJHcM",
+          "year": "2016",
+          "channel": "Reigning Phoenix Music (Official Label)",
+          "views": "3.1M",
+          "quality": "Official label release, studio playthrough"
+        },
+        {
+          "title": "MESHUGGAH - Tomas Haake - Drumming Footage - New England Metal Fest (OFFICIAL)",
+          "videoId": "kMo5VxRrgcY",
+          "year": "2008",
+          "channel": "Meshuggah (Official)",
+          "views": "333K",
+          "quality": "Official channel, live drum footage"
+        }
+      ]
+    },
+    "george_kollias": {
+      "name": "George Kollias",
+      "band": "Nile",
+      "videos": [
+        {
+          "title": "George Kollias - 'Shall Rise Shall Be Dead'",
+          "videoId": "RqzZmNqdWck",
+          "year": "2012",
+          "channel": "YouGroove",
+          "views": "5M",
+          "quality": "Professional studio footage"
+        },
+        {
+          "title": "George Kollias - US Tour 2013 DrumCam",
+          "videoId": "86YtBw5gmAM",
+          "year": "2013",
+          "channel": "gkdrummer (Official)",
+          "views": "163K",
+          "quality": "Official channel, live tour footage"
+        },
+        {
+          "title": "Pearl Artist George Kollias Drum Cam - Black Seeds Of Vengeance @ Helsinki, Nosturi 7.12.2012",
+          "videoId": "dU-JXLRqjiE",
+          "year": "2012",
+          "channel": "PearlDrumsFinland",
+          "views": "12K",
+          "quality": "Official Pearl endorsee footage, Nile live"
+        }
+      ]
+    },
+    "eloy_casagrande": {
+      "name": "Eloy Casagrande",
+      "band": "Sepultura",
+      "videos": [
+        {
+          "title": "Eloy Casagrande - Sepultura - Desperate Cry",
+          "videoId": "1ktbtG-zD8Y",
+          "year": "2017",
+          "channel": "sickdrummermagazine",
+          "views": "3.3M",
+          "quality": "Professional drum cam, high quality"
+        },
+        {
+          "title": "[Drum Cam] Eloy Casagrande - Means To An End (Sepultura)",
+          "videoId": "dQe3EwkPcFU",
+          "year": "2019",
+          "channel": "Eloy Casagrande (Official)",
+          "views": "883K",
+          "quality": "Official channel, studio footage"
+        },
+        {
+          "title": "'ROOTS BLOODY ROOTS' LIVE AT ROCK IN RIO - ELOY CASAGRANDE",
+          "videoId": "J9W1CxQmTxI",
+          "year": "2022",
+          "channel": "Eloy Casagrande (Official)",
+          "views": "867K",
+          "quality": "Official channel, Rock in Rio with orchestra"
+        }
+      ]
+    },
+    "ray_luzier": {
+      "name": "Ray Luzier",
+      "band": "Korn",
+      "videos": [
+        {
+          "title": "Performance Spotlight: Ray Luzier - 'Freak On A Leash'",
+          "videoId": "Vp6_NMOzPNw",
+          "year": "2015",
+          "channel": "Vic Firth (Official)",
+          "views": "5M",
+          "quality": "Official Vic Firth endorsee footage"
+        },
+        {
+          "title": "RAY LUZIER | KoЯn Medley | UK Drum Show 2019",
+          "videoId": "xjYHh1D_8Po",
+          "year": "2019",
+          "channel": "Vic Firth (Official)",
+          "views": "2.2M",
+          "quality": "Official endorsee, drum clinic performance"
+        },
+        {
+          "title": "Ray Luzier's GoPro Drum Cam 'Got The Life'",
+          "videoId": "g2k0PpRw2f4",
+          "year": "2014",
+          "channel": "The Backbeat Chop Shop",
+          "views": "525K",
+          "quality": "GoPro mounted on kit, live concert"
+        }
+      ]
+    },
+    "john_otto": {
+      "name": "John Otto",
+      "band": "Limp Bizkit",
+      "videos": [
+        {
+          "title": "Limp Bizkit - Boiler (John Otto Live Drum Cam Clip) 2019",
+          "videoId": "pmyWqwaGNbg",
+          "year": "2019",
+          "channel": "Bizkitfeed",
+          "views": "120K",
+          "quality": "Live drum cam clip"
+        },
+        {
+          "title": "John Otto Drum Solo",
+          "videoId": "3tWvneQTgRU",
+          "year": "2006",
+          "channel": "tuffsy46",
+          "views": "650K",
+          "quality": "Classic drum solo footage"
+        },
+        {
+          "title": "John Otto: Interview and Rollin' LIVE (drum cam)",
+          "videoId": "wTm9KLDxc9k",
+          "year": "2024",
+          "channel": "Drummer's Review",
+          "views": "26K",
+          "quality": "Recent interview with live drum cam"
+        }
+      ]
+    },
+    "jay_weinberg": {
+      "name": "Jay Weinberg",
+      "band": "Slipknot",
+      "videos": [
+        {
+          "title": "Jay Weinberg - 'Duality' Live Drum Cam",
+          "videoId": "sTs1uxjHDzA",
+          "year": "2022",
+          "channel": "Jay Weinberg (Official)",
+          "views": "4.6M",
+          "quality": "Official channel, Wacken 2022"
+        },
+        {
+          "title": "Zildjian Performance - Jay Weinberg plays 'Unsainted'",
+          "videoId": "hfXUQuQV-4o",
+          "year": "2019",
+          "channel": "Avedis Zildjian Company (Official)",
+          "views": "15M",
+          "quality": "Official endorsee, professional footage"
+        },
+        {
+          "title": "Jay Weinberg (Slipknot) - 'Sulfur' Live Drum Cam",
+          "videoId": "bQBUGf9dM1w",
+          "year": "2022",
+          "channel": "Jay Weinberg (Official)",
+          "views": "2.6M",
+          "quality": "Official channel, Wacken 2022"
+        }
+      ]
+    },
+    "vinnie_paul": {
+      "name": "Vinnie Paul",
+      "band": "Pantera",
+      "videos": [
+        {
+          "title": "The MONSTER known as VINNIE PAUL",
+          "videoId": "J9FD8_kRVEc",
+          "year": "2010",
+          "channel": "Scott Ian (Official)",
+          "views": "1.5M",
+          "quality": "Filmed from behind kit by Scott Ian"
+        },
+        {
+          "title": "Vinnie Paul - Drum Cam- GoPro - 2011",
+          "videoId": "E4LVFVzgxFo",
+          "year": "2011",
+          "channel": "Robert Moseley",
+          "views": "245K",
+          "quality": "GoPro mounted, full show raw footage"
+        },
+        {
+          "title": "HELLYEAH - GRAVE GOPR0251",
+          "videoId": "ET8IEfaTDhM",
+          "year": "2016",
+          "channel": "Loud & Clear Productions",
+          "views": "92K",
+          "quality": "GoPro drum cam, Hellyeah era"
+        }
+      ]
+    },
+    "mike_portnoy": {
+      "name": "Mike Portnoy",
+      "band": "Dream Theater",
+      "videos": [
+        {
+          "title": "Dream Theater Instrumedley PORTNOY ONLY - 'The Dance of Instrumentals'",
+          "videoId": "XFo8UgrUkNA",
+          "year": "2003",
+          "channel": "Felipe Rodrigues",
+          "views": "4.5M",
+          "quality": "Isolated drum footage, iconic medley"
+        },
+        {
+          "title": "Mike Portnoy Plays 'Panic Attack' | Dream Theater",
+          "videoId": "oa7oOdYPOSk",
+          "year": "2023",
+          "channel": "Drumeo (Official)",
+          "views": "1.4M",
+          "quality": "Official Drumeo, recent studio footage"
+        },
+        {
+          "title": "Mike Portnoy Drum & Vox Cam - Dream Theater Score - Live At Radio City Music Hall - April 1st 2006",
+          "videoId": "eUYi4GwN9sg",
+          "year": "2006",
+          "channel": "Mike Portnoy (Official)",
+          "views": "161K",
+          "quality": "Official channel, full Score concert"
+        }
+      ]
+    },
+    "charlie_benante": {
+      "name": "Charlie Benante",
+      "band": "Anthrax",
+      "videos": [
+        {
+          "title": "The Iconic Drumming Behind 'Indians' | Anthrax",
+          "videoId": "OR6rUpbFOk0",
+          "year": "2023",
+          "channel": "Drumeo (Official)",
+          "views": "217K",
+          "quality": "Official Drumeo, breakdown and performance"
+        },
+        {
+          "title": "Caught In A Mosh",
+          "videoId": "Fnn86OK1ZPo",
+          "year": "2011",
+          "channel": "Charlie Benante (Official)",
+          "views": "206K",
+          "quality": "Official channel, classic performance"
+        },
+        {
+          "title": "CHARLIE BENANTE (ANTHRAX) DRUM CAM!!",
+          "videoId": "he7QfNFRdv0",
+          "year": "2018",
+          "channel": "HARD MUSIC ID",
+          "views": "37K",
+          "quality": "Drum cam compilation"
+        }
+      ]
+    }
+  }
+}

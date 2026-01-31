@@ -1,7 +1,75 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View, Switch, FlatList, ActivityIndicator, Image, TouchableOpacity, ScrollView, Linking, Platform } from 'react-native';
+import { StyleSheet, Text, View, Switch, FlatList, ActivityIndicator, Image, TouchableOpacity, ScrollView, Linking, Platform, useWindowDimensions } from 'react-native';
 import { ThemeProvider, useTheme } from './ThemeContext';
 import { useState, useEffect, useCallback } from 'react';
+
+// YouTube Video Embed Component - Works with React Native Web
+function YouTubeEmbed({ videoId, title, theme }) {
+  const { width } = useWindowDimensions();
+  // Calculate responsive video dimensions (16:9 aspect ratio)
+  const maxWidth = Math.min(width - 72, 560); // Account for padding
+  const videoWidth = maxWidth;
+  const videoHeight = Math.round(videoWidth * 9 / 16);
+
+  if (Platform.OS === 'web') {
+    return (
+      <View style={[styles.videoContainer, { width: videoWidth, height: videoHeight }]}>
+        <iframe
+          width="100%"
+          height="100%"
+          src={`https://www.youtube.com/embed/${videoId}`}
+          title={title}
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowFullScreen
+          style={{ borderRadius: 8 }}
+        />
+      </View>
+    );
+  }
+
+  // For native platforms, show a thumbnail that opens YouTube
+  const thumbnailUrl = `https://img.youtube.com/vi/${videoId}/hqdefault.jpg`;
+  const youtubeUrl = `https://www.youtube.com/watch?v=${videoId}`;
+
+  return (
+    <TouchableOpacity
+      onPress={() => Linking.openURL(youtubeUrl)}
+      style={[styles.videoContainer, { width: videoWidth, height: videoHeight }]}
+      accessibilityRole="link"
+      accessibilityLabel={`Play ${title} on YouTube`}
+    >
+      <Image
+        source={{ uri: thumbnailUrl }}
+        style={styles.videoThumbnail}
+        resizeMode="cover"
+      />
+      <View style={styles.playButtonOverlay}>
+        <View style={[styles.playButton, { backgroundColor: theme.card }]}>
+          <Text style={[styles.playButtonText, { color: theme.text }]}>▶</Text>
+        </View>
+      </View>
+    </TouchableOpacity>
+  );
+}
+
+function VideoCard({ video, theme }) {
+  return (
+    <View style={[styles.videoCard, { borderColor: theme.border }]}>
+      <YouTubeEmbed videoId={video.youtubeId} title={video.title} theme={theme} />
+      <View style={styles.videoInfo}>
+        <Text style={[styles.videoTitle, { color: theme.text }]} numberOfLines={2}>
+          {video.title}
+        </Text>
+        {video.year && (
+          <Text style={[styles.videoYear, { color: theme.secondaryText }]}>
+            {video.year}
+          </Text>
+        )}
+      </View>
+    </View>
+  );
+}
 
 const PLACEHOLDER_IMAGE = 'https://ui-avatars.com/api/?name=Drummer&background=1a1a2e&color=fff&size=200';
 
@@ -215,6 +283,17 @@ function DrummerDetail({ drummer, theme, onBack }) {
               >
                 <Text style={[styles.endorsementText, { color: theme.text }]}>{endorsement.name}</Text>
               </TouchableOpacity>
+            ))}
+          </View>
+        </View>
+      )}
+
+      {drummer.videos && drummer.videos.length > 0 && (
+        <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">Drum Cam Videos</Text>
+          <View style={styles.videosContainer}>
+            {drummer.videos.map((video, index) => (
+              <VideoCard key={index} video={video} theme={theme} />
             ))}
           </View>
         </View>
@@ -544,5 +623,54 @@ const styles = StyleSheet.create({
   endorsementText: {
     fontSize: 14,
     fontWeight: '500',
+  },
+  videosContainer: {
+    gap: 16,
+  },
+  videoCard: {
+    marginBottom: 16,
+  },
+  videoContainer: {
+    borderRadius: 8,
+    overflow: 'hidden',
+    backgroundColor: '#000',
+    position: 'relative',
+  },
+  videoThumbnail: {
+    width: '100%',
+    height: '100%',
+  },
+  playButtonOverlay: {
+    position: 'absolute',
+    top: 0,
+    left: 0,
+    right: 0,
+    bottom: 0,
+    justifyContent: 'center',
+    alignItems: 'center',
+    backgroundColor: 'rgba(0,0,0,0.3)',
+  },
+  playButton: {
+    width: 60,
+    height: 60,
+    borderRadius: 30,
+    justifyContent: 'center',
+    alignItems: 'center',
+    opacity: 0.9,
+  },
+  playButtonText: {
+    fontSize: 24,
+    marginLeft: 4,
+  },
+  videoInfo: {
+    paddingTop: 8,
+  },
+  videoTitle: {
+    fontSize: 14,
+    fontWeight: '600',
+    marginBottom: 4,
+  },
+  videoYear: {
+    fontSize: 12,
   },
 });

@@ -7,7 +7,7 @@ const drummers = [
     band: 'Metallica',
     genre: 'Thrash Metal',
     country: 'Denmark',
-    image: 'https://ui-avatars.com/api/?name=Lars+Ulrich&background=1a1a2e&color=fff&size=200',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/7/74/Lars_Ulrich_2025_Marvel_Stadium_%286%29.jpg',
     bio: 'Lars Ulrich is a Danish musician and co-founder of Metallica, one of the most influential thrash metal bands in history. Born in 1963, he moved to Los Angeles to pursue his drumming career and formed Metallica with James Hetfield in 1981. Known for his aggressive style and iconic drum fills, Lars has been instrumental in shaping the sound of heavy metal.',
     gear: {
       drums: 'Tama Star Classic Maple',
@@ -17,7 +17,7 @@ const drummers = [
       sticks: 'Ahead Lars Ulrich Signature Drumsticks'
     },
     photos: [
-      'https://ui-avatars.com/api/?name=Lars+Ulrich&background=1a1a2e&color=fff&size=200'
+      'https://upload.wikimedia.org/wikipedia/commons/7/74/Lars_Ulrich_2025_Marvel_Stadium_%286%29.jpg'
     ],
     endorsements: [
       { name: 'Tama Drums', url: 'https://www.tama.com' },
@@ -31,7 +31,7 @@ const drummers = [
     band: 'Slipknot',
     genre: 'Nu Metal / Death Metal',
     country: 'USA',
-    image: 'https://ui-avatars.com/api/?name=Joey+Jordison&background=1a1a2e&color=fff&size=200',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/b/b4/JoeyJordison.jpg',
     bio: 'Joey Jordison (1975-2021) was an American musician best known as the original drummer of Slipknot. His blistering speed, technical precision, and theatrical stage presence made him one of the most influential metal drummers of his generation. He also played guitar for Murderdolls and drums for various other projects.',
     gear: {
       drums: 'Pearl Masters Premium Maple',
@@ -41,7 +41,7 @@ const drummers = [
       sticks: 'Promark Joey Jordison Signature TX515W'
     },
     photos: [
-      'https://ui-avatars.com/api/?name=Joey+Jordison&background=1a1a2e&color=fff&size=200'
+      'https://upload.wikimedia.org/wikipedia/commons/b/b4/JoeyJordison.jpg'
     ],
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
@@ -55,7 +55,7 @@ const drummers = [
     band: 'Death / Testament / Dethklok',
     genre: 'Death Metal / Thrash Metal',
     country: 'USA',
-    image: 'https://ui-avatars.com/api/?name=Gene+Hoglan&background=1a1a2e&color=fff&size=200',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/6/60/Gene_Hoglan_-_Testament_%28cropped%29.jpg',
     bio: 'Gene Hoglan, nicknamed "The Atomic Clock" for his precise timing, is one of the most respected drummers in extreme metal. Born in 1967, he has played with Death, Dark Angel, Testament, Strapping Young Lad, Fear Factory, and Dethklok. His combination of speed, power, and musicality has influenced countless metal drummers.',
     gear: {
       drums: 'Tama Starclassic Walnut/Birch',
@@ -65,7 +65,7 @@ const drummers = [
       sticks: 'Vater 5B Wood Tip'
     },
     photos: [
-      'https://ui-avatars.com/api/?name=Gene+Hoglan&background=1a1a2e&color=fff&size=200'
+      'https://upload.wikimedia.org/wikipedia/commons/6/60/Gene_Hoglan_-_Testament_%28cropped%29.jpg'
     ],
     endorsements: [
       { name: 'Tama Drums', url: 'https://www.tama.com' },
@@ -79,7 +79,7 @@ const drummers = [
     band: 'Slayer',
     genre: 'Thrash Metal',
     country: 'Cuba/USA',
-    image: 'https://ui-avatars.com/api/?name=Dave+Lombardo&background=1a1a2e&color=fff&size=200',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/d/df/Dave_Lombardo_8.5.14.jpeg',
     bio: 'Dave Lombardo, born in Cuba in 1965, is widely regarded as one of the greatest drummers in metal history. As the original drummer of Slayer, he pioneered the double bass drumming style that defined thrash metal. His work on albums like "Reign in Blood" is considered groundbreaking. He has also played with Fantomas, Suicidal Tendencies, and Dead Cross.',
     gear: {
       drums: 'Pearl Masters Maple Complete',
@@ -89,7 +89,7 @@ const drummers = [
       sticks: 'Vic Firth American Classic 5B'
     },
     photos: [
-      'https://ui-avatars.com/api/?name=Dave+Lombardo&background=1a1a2e&color=fff&size=200'
+      'https://upload.wikimedia.org/wikipedia/commons/d/df/Dave_Lombardo_8.5.14.jpeg'
     ],
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
@@ -103,7 +103,7 @@ const drummers = [
     band: 'Meshuggah',
     genre: 'Progressive Metal / Djent',
     country: 'Sweden',
-    image: 'https://ui-avatars.com/api/?name=Tomas+Haake&background=1a1a2e&color=fff&size=200',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/7/7b/Meshuggah_-_Rock_am_Ring_2023-44313.jpg',
     bio: 'Tomas Haake, born in 1971, is the drummer and primary lyricist for Swedish extreme metal band Meshuggah. His polyrhythmic drumming style, characterized by complex time signatures and intricate patterns, has been hugely influential in the development of djent and progressive metal. He is known for his metronomic precision and innovative approach.',
     gear: {
       drums: 'Sonor SQ2 Heavy Beech',
@@ -113,7 +113,7 @@ const drummers = [
       sticks: 'Vic Firth Tomas Haake Signature'
     },
     photos: [
-      'https://ui-avatars.com/api/?name=Tomas+Haake&background=1a1a2e&color=fff&size=200'
+      'https://upload.wikimedia.org/wikipedia/commons/7/7b/Meshuggah_-_Rock_am_Ring_2023-44313.jpg'
     ],
     endorsements: [
       { name: 'Sonor Drums', url: 'https://www.sonor.com' },
@@ -127,7 +127,7 @@ const drummers = [
     band: 'Nile',
     genre: 'Technical Death Metal',
     country: 'Greece',
-    image: 'https://ui-avatars.com/api/?name=George+Kollias&background=1a1a2e&color=fff&size=200',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/e/e8/GK_10.jpg',
     bio: 'George Kollias, born in 1977, is a Greek drummer known for his extreme speed and technical proficiency. As the drummer for Nile since 2004, he has pushed the boundaries of death metal drumming with his incredible blast beats and double bass technique. He is also an educator and has released instructional materials.',
     gear: {
       drums: 'Pearl Masterworks Stadium Exotic',
@@ -137,7 +137,7 @@ const drummers = [
       sticks: 'Vic Firth George Kollias Signature'
     },
     photos: [
-      'https://ui-avatars.com/api/?name=George+Kollias&background=1a1a2e&color=fff&size=200'
+      'https://upload.wikimedia.org/wikipedia/commons/e/e8/GK_10.jpg'
     ],
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
@@ -151,7 +151,7 @@ const drummers = [
     band: 'Sepultura / Slipknot',
     genre: 'Thrash Metal / Nu Metal',
     country: 'Brazil',
-    image: 'https://ui-avatars.com/api/?name=Eloy+Casagrande&background=1a1a2e&color=fff&size=200',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/8/86/Sepultura_-_2023219214143_2023-08-07_Sepultura_-_Sven_-_1D_X_MK_II_-_0650_-_AK8I2527.jpg',
     bio: 'Eloy Casagrande, born in 1990, is a Brazilian drummer who became Sepultura\'s drummer in 2011 and joined Slipknot in 2024. Known for his explosive speed, technical prowess, and energetic performances, he brought new life to Sepultura\'s sound. His drumming style combines traditional metal with modern technical elements, making him one of the most exciting drummers in contemporary metal.',
     gear: {
       drums: 'Pearl Reference Pure Shell Pack',
@@ -161,7 +161,7 @@ const drummers = [
       sticks: 'Vic Firth Eloy Casagrande Signature'
     },
     photos: [
-      'https://ui-avatars.com/api/?name=Eloy+Casagrande&background=1a1a2e&color=fff&size=200'
+      'https://upload.wikimedia.org/wikipedia/commons/8/86/Sepultura_-_2023219214143_2023-08-07_Sepultura_-_Sven_-_1D_X_MK_II_-_0650_-_AK8I2527.jpg'
     ],
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
@@ -175,7 +175,7 @@ const drummers = [
     band: 'Korn',
     genre: 'Nu Metal',
     country: 'USA',
-    image: 'https://ui-avatars.com/api/?name=Ray+Luzier&background=1a1a2e&color=fff&size=200',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/c/c8/Ray_Luzier_of_Korn.jpg',
     bio: 'Ray Luzier, born in 1970, is an American drummer who joined Korn in 2007. Before Korn, he was a sought-after session musician, working with artists like David Lee Roth and Army of Anyone. His drumming combines rock solid grooves with technical flair, bringing a fresh energy to Korn\'s signature sound while respecting their nu-metal roots.',
     gear: {
       drums: 'Pearl Masters Maple Complete',
@@ -185,7 +185,7 @@ const drummers = [
       sticks: 'Promark Ray Luzier Signature TX420X'
     },
     photos: [
-      'https://ui-avatars.com/api/?name=Ray+Luzier&background=1a1a2e&color=fff&size=200'
+      'https://upload.wikimedia.org/wikipedia/commons/c/c8/Ray_Luzier_of_Korn.jpg'
     ],
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
@@ -199,7 +199,7 @@ const drummers = [
     band: 'Limp Bizkit',
     genre: 'Nu Metal / Rap Metal',
     country: 'USA',
-    image: 'https://ui-avatars.com/api/?name=John+Otto&background=1a1a2e&color=fff&size=200',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/0/0a/Drummer_John_Otto_of_Limp_Bizkit_in_2006.jpg',
     bio: 'John Otto, born in 1977, is the drummer and a founding member of Limp Bizkit. His hip-hop influenced drumming style, combining tight grooves with funk-inspired beats, was essential in defining the rap-metal sound of the late 90s and early 2000s. His ability to blend rock power with hip-hop feel made Limp Bizkit one of the biggest bands of the nu-metal era.',
     gear: {
       drums: 'Orange County Drum & Percussion (OCDP) Custom',
@@ -209,7 +209,7 @@ const drummers = [
       sticks: 'Promark 747 Rock Wood Tip'
     },
     photos: [
-      'https://ui-avatars.com/api/?name=John+Otto&background=1a1a2e&color=fff&size=200'
+      'https://upload.wikimedia.org/wikipedia/commons/0/0a/Drummer_John_Otto_of_Limp_Bizkit_in_2006.jpg'
     ],
     endorsements: [
       { name: 'OCDP Drums', url: 'https://www.ocdrum.com' },
@@ -223,7 +223,7 @@ const drummers = [
     band: 'Slipknot / Suicidal Tendencies',
     genre: 'Nu Metal / Hardcore',
     country: 'USA',
-    image: 'https://ui-avatars.com/api/?name=Jay+Weinberg&background=1a1a2e&color=fff&size=200',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/4/46/Suicidal_Tendencies_Rockharz_2024_18.jpg',
     bio: 'Jay Weinberg, born in 1990, is the son of E Street Band drummer Max Weinberg. He joined Slipknot in 2014, becoming their drummer after Joey Jordison\'s departure. Before Slipknot, he briefly played with Against Me! and Madball. His powerful, aggressive style honored Slipknot\'s legacy while adding his own intensity. In 2023, he joined Suicidal Tendencies.',
     gear: {
       drums: 'Pearl Masterworks Custom',
@@ -233,7 +233,7 @@ const drummers = [
       sticks: 'Promark ActiveGrip 5B'
     },
     photos: [
-      'https://ui-avatars.com/api/?name=Jay+Weinberg&background=1a1a2e&color=fff&size=200'
+      'https://upload.wikimedia.org/wikipedia/commons/4/46/Suicidal_Tendencies_Rockharz_2024_18.jpg'
     ],
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },

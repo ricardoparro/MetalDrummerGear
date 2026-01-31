@@ -127,7 +127,7 @@ const drummers = [
     band: 'Nile',
     genre: 'Technical Death Metal',
     country: 'Greece',
-    image: 'https://ui-avatars.com/api/?name=Eloy+Casagrande&background=1a1a2e&color=fff&size=200',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/8/86/Sepultura_-_2023219214143_2023-08-07_Sepultura_-_Sven_-_1D_X_MK_II_-_0650_-_AK8I2527.jpg',
     bio: 'George Kollias, born in 1977, is a Greek drummer known for his extreme speed and technical proficiency. As the drummer for Nile since 2004, he has pushed the boundaries of death metal drumming with his incredible blast beats and double bass technique. He is also an educator and has released instructional materials.',
     gear: {
       drums: 'Pearl Masterworks Stadium Exotic',
@@ -137,7 +137,7 @@ const drummers = [
       sticks: 'Vic Firth George Kollias Signature'
     },
     photos: [
-      'https://ui-avatars.com/api/?name=Eloy+Casagrande&background=1a1a2e&color=fff&size=200'
+      'https://upload.wikimedia.org/wikipedia/commons/8/86/Sepultura_-_2023219214143_2023-08-07_Sepultura_-_Sven_-_1D_X_MK_II_-_0650_-_AK8I2527.jpg'
     ],
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
@@ -151,7 +151,7 @@ const drummers = [
     band: 'Sepultura / Slipknot',
     genre: 'Thrash Metal / Nu Metal',
     country: 'Brazil',
-    image: 'https://ui-avatars.com/api/?name=Eloy+Casagrande&background=1a1a2e&color=fff&size=200',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/8/86/Sepultura_-_2023219214143_2023-08-07_Sepultura_-_Sven_-_1D_X_MK_II_-_0650_-_AK8I2527.jpg',
     bio: 'Eloy Casagrande, born in 1990, is a Brazilian drummer who became Sepultura\'s drummer in 2011 and joined Slipknot in 2024. Known for his explosive speed, technical prowess, and energetic performances, he brought new life to Sepultura\'s sound. His drumming style combines traditional metal with modern technical elements, making him one of the most exciting drummers in contemporary metal.',
     gear: {
       drums: 'Pearl Reference Pure Shell Pack',
@@ -161,7 +161,7 @@ const drummers = [
       sticks: 'Vic Firth Eloy Casagrande Signature'
     },
     photos: [
-      'https://ui-avatars.com/api/?name=Eloy+Casagrande&background=1a1a2e&color=fff&size=200'
+      'https://upload.wikimedia.org/wikipedia/commons/8/86/Sepultura_-_2023219214143_2023-08-07_Sepultura_-_Sven_-_1D_X_MK_II_-_0650_-_AK8I2527.jpg'
     ],
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
@@ -175,7 +175,7 @@ const drummers = [
     band: 'Korn',
     genre: 'Nu Metal',
     country: 'USA',
-    image: 'https://ui-avatars.com/api/?name=Ray+Luzier&background=1a1a2e&color=fff&size=200',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/c/c8/Ray_Luzier_of_Korn.jpg',
     bio: 'Ray Luzier, born in 1970, is an American drummer who joined Korn in 2007. Before Korn, he was a sought-after session musician, working with artists like David Lee Roth and Army of Anyone. His drumming combines rock solid grooves with technical flair, bringing a fresh energy to Korn\'s signature sound while respecting their nu-metal roots.',
     gear: {
       drums: 'Pearl Masters Maple Complete',
@@ -185,7 +185,7 @@ const drummers = [
       sticks: 'Promark Ray Luzier Signature TX420X'
     },
     photos: [
-      'https://ui-avatars.com/api/?name=Ray+Luzier&background=1a1a2e&color=fff&size=200'
+      'https://upload.wikimedia.org/wikipedia/commons/c/c8/Ray_Luzier_of_Korn.jpg'
     ],
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
@@ -199,7 +199,7 @@ const drummers = [
     band: 'Limp Bizkit',
     genre: 'Nu Metal / Rap Metal',
     country: 'USA',
-    image: 'https://ui-avatars.com/api/?name=John+Otto&background=1a1a2e&color=fff&size=200',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/0/0a/Drummer_John_Otto_of_Limp_Bizkit_in_2006.jpg',
     bio: 'John Otto, born in 1977, is the drummer and a founding member of Limp Bizkit. His hip-hop influenced drumming style, combining tight grooves with funk-inspired beats, was essential in defining the rap-metal sound of the late 90s and early 2000s. His ability to blend rock power with hip-hop feel made Limp Bizkit one of the biggest bands of the nu-metal era.',
     gear: {
       drums: 'Orange County Drum & Percussion (OCDP) Custom',
@@ -209,7 +209,7 @@ const drummers = [
       sticks: 'Promark 747 Rock Wood Tip'
     },
     photos: [
-      'https://ui-avatars.com/api/?name=John+Otto&background=1a1a2e&color=fff&size=200'
+      'https://upload.wikimedia.org/wikipedia/commons/0/0a/Drummer_John_Otto_of_Limp_Bizkit_in_2006.jpg'
     ],
     endorsements: [
       { name: 'OCDP Drums', url: 'https://www.ocdrum.com' },
@@ -223,7 +223,7 @@ const drummers = [
     band: 'Slipknot / Suicidal Tendencies',
     genre: 'Nu Metal / Hardcore',
     country: 'USA',
-    image: 'https://ui-avatars.com/api/?name=Jay+Weinberg&background=1a1a2e&color=fff&size=200',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/4/46/Suicidal_Tendencies_Rockharz_2024_18.jpg',
     bio: 'Jay Weinberg, born in 1990, is the son of E Street Band drummer Max Weinberg. He joined Slipknot in 2014, becoming their drummer after Joey Jordison\'s departure. Before Slipknot, he briefly played with Against Me! and Madball. His powerful, aggressive style honored Slipknot\'s legacy while adding his own intensity. In 2023, he joined Suicidal Tendencies.',
     gear: {
       drums: 'Pearl Masterworks Custom',
@@ -233,7 +233,7 @@ const drummers = [
       sticks: 'Promark ActiveGrip 5B'
     },
     photos: [
-      'https://ui-avatars.com/api/?name=Jay+Weinberg&background=1a1a2e&color=fff&size=200'
+      'https://upload.wikimedia.org/wikipedia/commons/4/46/Suicidal_Tendencies_Rockharz_2024_18.jpg'
     ],
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },

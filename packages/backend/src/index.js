@@ -39,7 +39,7 @@ const drummers = [
     band: 'Slipknot',
     genre: 'Nu Metal / Death Metal',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/6/68/JoeyJordison_%28headshot%29.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/b/b4/JoeyJordison.jpg',
     bio: 'Joey Jordison (1975-2021) was an American musician best known as the original drummer of Slipknot. His blistering speed, technical precision, and theatrical stage presence made him one of the most influential metal drummers of his generation. He also played guitar for Murderdolls and drums for various other projects.',
     gear: {
       drums: 'Pearl Masters Premium Maple',
@@ -49,7 +49,7 @@ const drummers = [
       sticks: 'Promark Joey Jordison Signature TX515W'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/6/68/JoeyJordison_%28headshot%29.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/b/b4/JoeyJordison.jpg'
     ],
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
@@ -63,7 +63,7 @@ const drummers = [
     band: 'Death / Testament / Dethklok',
     genre: 'Death Metal / Thrash Metal',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/0/03/Gene_Hoglan_%28cropped%29.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/6/60/Gene_Hoglan_-_Testament_%28cropped%29.jpg',
     bio: 'Gene Hoglan, nicknamed "The Atomic Clock" for his precise timing, is one of the most respected drummers in extreme metal. Born in 1967, he has played with Death, Dark Angel, Testament, Strapping Young Lad, Fear Factory, and Dethklok. His combination of speed, power, and musicality has influenced countless metal drummers.',
     gear: {
       drums: 'Tama Starclassic Walnut/Birch',
@@ -73,7 +73,7 @@ const drummers = [
       sticks: 'Vater 5B Wood Tip'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/0/03/Gene_Hoglan_%28cropped%29.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/6/60/Gene_Hoglan_-_Testament_%28cropped%29.jpg'
     ],
     endorsements: [
       { name: 'Tama Drums', url: 'https://www.tama.com' },
@@ -87,7 +87,7 @@ const drummers = [
     band: 'Slayer',
     genre: 'Thrash Metal',
     country: 'Cuba/USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/4/47/Dave_Lombardo.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/d/df/Dave_Lombardo_8.5.14.jpeg',
     bio: 'Dave Lombardo, born in Cuba in 1965, is widely regarded as one of the greatest drummers in metal history. As the original drummer of Slayer, he pioneered the double bass drumming style that defined thrash metal. His work on albums like "Reign in Blood" is considered groundbreaking. He has also played with Fantomas, Suicidal Tendencies, and Dead Cross.',
     gear: {
       drums: 'Pearl Masters Maple Complete',
@@ -97,7 +97,7 @@ const drummers = [
       sticks: 'Vic Firth American Classic 5B'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/4/47/Dave_Lombardo.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/d/df/Dave_Lombardo_8.5.14.jpeg'
     ],
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
@@ -111,7 +111,7 @@ const drummers = [
     band: 'Meshuggah',
     genre: 'Progressive Metal / Djent',
     country: 'Sweden',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/2/28/Meshuggah_2016_Bandmember_Tomas_Haake.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/7/7b/Meshuggah_-_Rock_am_Ring_2023-44313.jpg',
     bio: 'Tomas Haake, born in 1971, is the drummer and primary lyricist for Swedish extreme metal band Meshuggah. His polyrhythmic drumming style, characterized by complex time signatures and intricate patterns, has been hugely influential in the development of djent and progressive metal. He is known for his metronomic precision and innovative approach.',
     gear: {
       drums: 'Sonor SQ2 Heavy Beech',
@@ -121,7 +121,7 @@ const drummers = [
       sticks: 'Vic Firth Tomas Haake Signature'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/2/28/Meshuggah_2016_Bandmember_Tomas_Haake.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/7/7b/Meshuggah_-_Rock_am_Ring_2023-44313.jpg'
     ],
     endorsements: [
       { name: 'Sonor Drums', url: 'https://www.sonor.com' },
@@ -135,7 +135,7 @@ const drummers = [
     band: 'Nile',
     genre: 'Technical Death Metal',
     country: 'Greece',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6f/George_Kollias_Vienna%2C_Austria_%28June%2C_2011%29.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/e/e8/GK_10.jpg',
     bio: 'George Kollias, born in 1977, is a Greek drummer known for his extreme speed and technical proficiency. As the drummer for Nile since 2004, he has pushed the boundaries of death metal drumming with his incredible blast beats and double bass technique. He is also an educator and has released instructional materials.',
     gear: {
       drums: 'Pearl Masterworks Stadium Exotic',
@@ -145,7 +145,7 @@ const drummers = [
       sticks: 'Vic Firth George Kollias Signature'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/6/6f/George_Kollias_Vienna%2C_Austria_%28June%2C_2011%29.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/e/e8/GK_10.jpg'
     ],
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },

@@ -298,6 +298,32 @@ const drummers = [
       { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' },
       { name: 'Roland Electronics', url: 'https://www.roland.com' }
     ]
+  },
+  {
+    id: 13,
+    name: 'Mike Portnoy',
+    band: 'Dream Theater / Liquid Tension Experiment / The Winery Dogs',
+    genre: 'Progressive Metal',
+    country: 'USA',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/a/a4/Mike_Portnoy_-_Adrenaline_Mob%2C_2012-04-13.jpg',
+    bio: 'Mike Portnoy, born in 1967 in Long Beach, New York, is one of the most influential progressive metal drummers of all time. He co-founded Dream Theater in 1985 and was the band\'s drummer and lyricist for 25 years, helping define the progressive metal genre. A recipient of over 30 Drummer of the Year awards from Modern Drummer magazine, Portnoy is known for his technical proficiency, complex time signatures, and theatrical live performances. After leaving Dream Theater in 2010, he has played with numerous projects including Avenged Sevenfold, Adrenaline Mob, The Winery Dogs, Flying Colors, Sons of Apollo, and Liquid Tension Experiment. In 2023, he rejoined Dream Theater for their reunion tour. His drumming style combines jazz fusion influences with heavy metal power, featuring intricate double bass patterns and creative use of electronics.',
+    gear: {
+      drums: 'Tama Starclassic Maple/Birch',
+      snare: 'Tama Mike Portnoy Signature Melody Master 14x5.5"',
+      cymbals: 'Sabian HHX Series (14" Evolution Hi-Hats, 18" & 19" Evolution Crashes, 21" Raw Bell Dry Ride, 10" & 12" Evolution Splashes, 19" O-Zone Crash)',
+      hardware: 'Tama Iron Cobra Power Glide Double Pedal, Tama 1st Chair Ergo-Rider Throne',
+      sticks: 'Promark Mike Portnoy Signature TX420N'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/a/a4/Mike_Portnoy_-_Adrenaline_Mob%2C_2012-04-13.jpg'
+    ],
+    endorsements: [
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
+      { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' },
+      { name: 'Roland Electronics', url: 'https://www.roland.com' }
+    ]
   }
 ];
 

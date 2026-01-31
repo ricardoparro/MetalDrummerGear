@@ -22,7 +22,8 @@ const drummers = [
     endorsements: [
       { name: 'Tama Drums', url: 'https://www.tama.com' },
       { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
-      { name: 'Ahead Drumsticks', url: 'https://www.aheaddrumsticks.com' }
+      { name: 'Ahead Drumsticks', url: 'https://www.aheaddrumsticks.com' },
+      { name: 'Remo Drumheads', url: 'https://remo.com' }
     ],
     videos: [
       { title: 'Sad But True - Drum Cam (Amsterdam 2023)', youtubeId: 'A96QtqEpqUA', year: 2023 },
@@ -51,7 +52,8 @@ const drummers = [
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
       { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
-      { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' }
+      { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ],
     videos: [
       { title: 'Disasterpieces Drum Solo (Official)', youtubeId: 'tUibKh0Z--c', year: 2002 },
@@ -78,9 +80,10 @@ const drummers = [
       'https://upload.wikimedia.org/wikipedia/commons/6/60/Gene_Hoglan_-_Testament_%28cropped%29.jpg'
     ],
     endorsements: [
-      { name: 'Tama Drums', url: 'https://www.tama.com' },
-      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
-      { name: 'Vater Drumsticks', url: 'https://www.vater.com' }
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
+      { name: 'ProMark Sticks', url: 'https://www.daddario.com/promark' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ],
     videos: [
       { title: 'The Philosopher (Death) - Official Playthrough', youtubeId: 'eGope68pHf0', year: 2016 },
@@ -107,9 +110,10 @@ const drummers = [
       'https://upload.wikimedia.org/wikipedia/commons/d/df/Dave_Lombardo_8.5.14.jpeg'
     ],
     endorsements: [
-      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
       { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+      { name: 'ProMark Sticks', url: 'https://www.daddario.com/promark' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ],
     videos: [
       { title: 'War Ensemble - Drum Cam (Yankee Stadium, Official)', youtubeId: '3ivOfkqFmxg', year: 2010 },
@@ -137,8 +141,9 @@ const drummers = [
     ],
     endorsements: [
       { name: 'Sonor Drums', url: 'https://www.sonor.com' },
-      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
+      { name: 'Wincent Drumsticks', url: 'https://www.wincent.se' },
+      { name: 'Remo Drumheads', url: 'https://remo.com' }
     ],
     videos: [
       { title: 'Bleed - Wincent Drumsticks (8.1M views)', youtubeId: 'bAJ1WTGNISk', year: 2013 },
@@ -167,7 +172,8 @@ const drummers = [
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
       { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ],
     videos: [
       { title: 'Shall Rise Shall Be Dead (5M views)', youtubeId: 'RqzZmNqdWck', year: 2012 },
@@ -194,9 +200,10 @@ const drummers = [
       'https://upload.wikimedia.org/wikipedia/commons/8/86/Sepultura_-_2023219214143_2023-08-07_Sepultura_-_Sven_-_1D_X_MK_II_-_0650_-_AK8I2527.jpg'
     ],
     endorsements: [
-      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
-      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
+      { name: 'ProMark Sticks', url: 'https://www.daddario.com/promark' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ],
     videos: [
       { title: 'Desperate Cry - Sepultura (3.3M views)', youtubeId: '1ktbtG-zD8Y', year: 2017 },
@@ -225,7 +232,9 @@ const drummers = [
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
       { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
-      { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' }
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' },
+      { name: 'DW Hardware', url: 'https://www.dwdrums.com' }
     ],
     videos: [
       { title: 'Freak On A Leash - Vic Firth (5M views)', youtubeId: 'Vp6_NMOzPNw', year: 2015 },
@@ -254,7 +263,9 @@ const drummers = [
     endorsements: [
       { name: 'OCDP Drums', url: 'https://www.ocdrum.com' },
       { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
-      { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' }
+      { name: 'Zildjian Drumsticks', url: 'https://zildjian.com' },
+      { name: 'Remo Drumheads', url: 'https://remo.com' },
+      { name: 'Gibraltar Hardware', url: 'https://www.gibraltarhardware.com' }
     ],
     videos: [
       { title: 'Boiler - Live Drum Cam Clip', youtubeId: 'pmyWqwaGNbg', year: 2019 },
@@ -281,9 +292,12 @@ const drummers = [
       'https://upload.wikimedia.org/wikipedia/commons/4/46/Suicidal_Tendencies_Rockharz_2024_18.jpg'
     ],
     endorsements: [
-      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'SJC Custom Drums', url: 'https://www.sjcdrums.com' },
       { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
-      { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' }
+      { name: 'Vater Drumsticks', url: 'https://www.vater.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' },
+      { name: 'DW Hardware', url: 'https://www.dwdrums.com' },
+      { name: 'Roland Electronics', url: 'https://www.roland.com' }
     ],
     videos: [
       { title: 'Unsainted - Zildjian Performance (15M views)', youtubeId: 'hfXUQuQV-4o', year: 2019 },
@@ -312,7 +326,8 @@ const drummers = [
     endorsements: [
       { name: 'ddrum Drums', url: 'https://www.ddrum.com' },
       { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ],
     videos: [
       { title: 'The MONSTER known as VINNIE PAUL (by Scott Ian)', youtubeId: 'J9FD8_kRVEc', year: 2010 },
@@ -372,8 +387,8 @@ const drummers = [
     endorsements: [
       { name: 'Tama Drums', url: 'https://www.tama.com' },
       { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
-      { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' },
+      { name: 'ProMark Sticks', url: 'https://www.daddario.com/promark' },
+      { name: 'Remo Drumheads', url: 'https://remo.com' },
       { name: 'Roland Electronics', url: 'https://www.roland.com' }
     ],
     videos: [

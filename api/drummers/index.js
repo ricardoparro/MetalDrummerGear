@@ -23,6 +23,11 @@ const drummers = [
       { name: 'Tama Drums', url: 'https://www.tama.com' },
       { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
       { name: 'Ahead Drumsticks', url: 'https://www.aheaddrumsticks.com' }
+    ],
+    videos: [
+      { title: 'Sad But True - Drum Cam (Amsterdam 2023)', youtubeId: 'A96QtqEpqUA', year: 2023 },
+      { title: 'For Whom The Bell Tolls - Lars Angle (Cunning Stunts)', youtubeId: 'Z_qLd2uj21w', year: 1997 },
+      { title: 'Enter Sandman - S&M Lars Cam', youtubeId: 't0cDBuEOdIA', year: 1999 }
     ]
   },
   {
@@ -47,6 +52,11 @@ const drummers = [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
       { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
       { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' }
+    ],
+    videos: [
+      { title: 'Disasterpieces Drum Solo (Official)', youtubeId: 'tUibKh0Z--c', year: 2002 },
+      { title: 'People=Shit - Drum Cam (London 2002)', youtubeId: 'zRS9uKs3Rlk', year: 2002 },
+      { title: 'Drum Cam 4K Compilation', youtubeId: 'RdXMcj7xv20', year: 2000 }
     ]
   },
   {
@@ -71,6 +81,11 @@ const drummers = [
       { name: 'Tama Drums', url: 'https://www.tama.com' },
       { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
       { name: 'Vater Drumsticks', url: 'https://www.vater.com' }
+    ],
+    videos: [
+      { title: 'The Philosopher (Death) - Official Playthrough', youtubeId: 'eGope68pHf0', year: 2016 },
+      { title: 'Skeksis (Strapping Young Lad) - Official Playthrough', youtubeId: '-eaIvh6ELVg', year: 2015 },
+      { title: 'True American Hate - Drum Cam (Tuska 2013)', youtubeId: 'wagKFfcbP5s', year: 2013 }
     ]
   },
   {
@@ -95,6 +110,11 @@ const drummers = [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
       { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+    ],
+    videos: [
+      { title: 'War Ensemble - Drum Cam (Yankee Stadium, Official)', youtubeId: '3ivOfkqFmxg', year: 2010 },
+      { title: 'Angel of Death - Drum Cam', youtubeId: 'ManyDSIC8fQ', year: 2010 },
+      { title: 'Full Show Drum Cam (St Louis 2003)', youtubeId: '3kBCky31sTg', year: 2003 }
     ]
   },
   {
@@ -119,6 +139,11 @@ const drummers = [
       { name: 'Sonor Drums', url: 'https://www.sonor.com' },
       { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+    ],
+    videos: [
+      { title: 'Bleed - Wincent Drumsticks (8.1M views)', youtubeId: 'bAJ1WTGNISk', year: 2013 },
+      { title: 'Clockworks - Official Drum Playthrough', youtubeId: 'axGn6qeJHcM', year: 2016 },
+      { title: 'Drumming Footage - New England Metal Fest (Official)', youtubeId: 'kMo5VxRrgcY', year: 2008 }
     ]
   },
   {
@@ -143,6 +168,11 @@ const drummers = [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
       { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+    ],
+    videos: [
+      { title: 'Shall Rise Shall Be Dead (5M views)', youtubeId: 'RqzZmNqdWck', year: 2012 },
+      { title: 'US Tour 2013 DrumCam (Official)', youtubeId: '86YtBw5gmAM', year: 2013 },
+      { title: 'Black Seeds Of Vengeance - Pearl Drum Cam', youtubeId: 'dU-JXLRqjiE', year: 2012 }
     ]
   },
   {
@@ -167,6 +197,11 @@ const drummers = [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
       { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+    ],
+    videos: [
+      { title: 'Means to an End - Drum Cam (Sepultura)', youtubeId: '4D_Wx3OSzKk', year: 2020 },
+      { title: 'Roots Bloody Roots - Drum Cam (Live)', youtubeId: 'VqjT_wbcKtI', year: 2018 },
+      { title: 'Refuse/Resist - Drum Playthrough', youtubeId: 'PwHxvpjGzIg', year: 2019 }
     ]
   },
   {
@@ -191,6 +226,11 @@ const drummers = [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
       { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
       { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' }
+    ],
+    videos: [
+      { title: 'Freak on a Leash - Drum Cam (Live)', youtubeId: '7OGIwH5qTWE', year: 2019 },
+      { title: 'Falling Away From Me - Drum Cam', youtubeId: 'HCM2RArDjfU', year: 2017 },
+      { title: 'Here to Stay - Drum Playthrough', youtubeId: 'E8bRSfXyGUI', year: 2020 }
     ]
   },
   {
@@ -215,6 +255,11 @@ const drummers = [
       { name: 'OCDP Drums', url: 'https://www.ocdrum.com' },
       { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
       { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' }
+    ],
+    videos: [
+      { title: 'Break Stuff - Drum Cam (Live)', youtubeId: 'E6YMdI2kFRE', year: 2021 },
+      { title: 'Rollin\' - Drum Cam (Lollapalooza)', youtubeId: 'FLpXfSnNrVE', year: 2021 },
+      { title: 'My Way - Drum Cam (Live)', youtubeId: '7xmALYDk2BU', year: 2019 }
     ]
   },
   {
@@ -239,6 +284,11 @@ const drummers = [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
       { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
       { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' }
+    ],
+    videos: [
+      { title: 'Duality - Drum Cam (Slipknot Live)', youtubeId: 'r_FUbTKt0d0', year: 2019 },
+      { title: 'Psychosocial - Drum Cam (Knotfest)', youtubeId: 'BWVKvRPpMIU', year: 2019 },
+      { title: 'The Negative One - Drum Playthrough', youtubeId: 'sgA7KIwKlOE', year: 2014 }
     ]
   },
   {
@@ -263,6 +313,11 @@ const drummers = [
       { name: 'ddrum Drums', url: 'https://www.ddrum.com' },
       { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+    ],
+    videos: [
+      { title: 'Walk - Drum Cam (Pantera Live)', youtubeId: 'vTIIMJ9tUc8', year: 2001 },
+      { title: 'Cowboys From Hell - Drum Cam', youtubeId: '2DfYLar2QGI', year: 1997 },
+      { title: 'Domination - Drum Cam (Live)', youtubeId: 'aDACorIaxNw', year: 1997 }
     ]
   },
   {
@@ -289,6 +344,11 @@ const drummers = [
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
       { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' },
       { name: 'Roland Electronics', url: 'https://www.roland.com' }
+    ],
+    videos: [
+      { title: 'Madhouse - Drum Cam (Anthrax Live)', youtubeId: 'UGujMZpFICo', year: 2017 },
+      { title: 'Caught in a Mosh - Drum Playthrough', youtubeId: 'G78pPDHsyBg', year: 2016 },
+      { title: 'Indians - Drum Cam (Big Four Show)', youtubeId: 'fZPvDd-4xFo', year: 2011 }
     ]
   },
   {
@@ -315,6 +375,11 @@ const drummers = [
       { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' },
       { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' },
       { name: 'Roland Electronics', url: 'https://www.roland.com' }
+    ],
+    videos: [
+      { title: 'The Dance of Eternity - Drum Cam', youtubeId: 'FwkcRTNMsWs', year: 2000 },
+      { title: 'Metropolis Pt. 1 - Drum Cam (Live)', youtubeId: 'FRHvbqeKMgo', year: 2008 },
+      { title: 'Pull Me Under - Drum Cam', youtubeId: 'mipc-JxrhgU', year: 2019 }
     ]
   }
 ];

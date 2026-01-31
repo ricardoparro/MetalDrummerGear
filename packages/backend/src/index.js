@@ -247,6 +247,29 @@ const drummers = [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
       { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
       { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' }
+  },
+  {
+    id: 11,
+    name: 'Vinnie Paul',
+    band: 'Pantera',
+    genre: 'Groove Metal / Thrash Metal',
+    country: 'USA',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/3/3e/VinniePaul.jpg',
+    bio: 'Vinnie Paul Abbott (1964-2018) was an American drummer and co-founder of Pantera, one of the most influential metal bands of the 1990s. Along with his brother "Dimebag" Darrell, he helped pioneer groove metal with albums like "Cowboys from Hell," "Vulgar Display of Power," and "Far Beyond Driven." Known for his powerful, groove-driven style and thunderous double bass, Vinnie Paul\'s drumming was characterized by tight, punchy rhythms and impeccable timing. After Pantera disbanded, he formed Damageplan with Darrell, and later founded Hellyeah.',
+    gear: {
+      drums: 'ddrum Vinnie Paul Signature Series',
+      snare: 'ddrum Vinnie Paul Signature 14x8" Maple',
+      cymbals: 'Sabian AA Series (14" Regular Hi-Hats, 18" & 20" Medium Crashes, 22" Medium Ride, 20" Chinese)',
+      hardware: 'DW 5000 Series Double Pedal, Roc-N-Soc Nitro Throne',
+      sticks: 'Vic Firth American Classic 2B'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/3/3e/VinniePaul.jpg'
+    ],
+    endorsements: [
+      { name: 'ddrum', url: 'https://www.ddrum.com' },
+      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
     ]
   }
 ];

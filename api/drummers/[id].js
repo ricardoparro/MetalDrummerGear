@@ -1,4 +1,6 @@
 // Vercel Serverless Function - Get drummer by ID
+// Note: Each drummer must have their own unique photo in both 'image' and 'photos' fields
+// Verified image sources from Wikimedia Commons
 
 const drummers = [
   {

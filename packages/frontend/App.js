@@ -41,12 +41,12 @@ function updateDocumentMeta(drummer) {
   if (Platform.OS !== 'web' || typeof document === 'undefined') return;
 
   const title = drummer
-    ? `${drummer.name} - ${drummer.band} | Drum Gear & Setup | Metal Drummer Gear`
-    : 'Metal Drummer Gear - Legendary Metal Drummers & Their Gear';
+    ? `${drummer.name} Drum Kit & Gear | Metal Drummer Gear`
+    : 'Metal Drummer Gear - Discover What Pro Drummers Play';
 
   const description = drummer
-    ? `Discover ${drummer.name}'s complete drum setup: ${drummer.gear?.drums}, ${drummer.gear?.snare}, ${drummer.gear?.cymbals}. Full gear list and bio.`
-    : 'Explore gear setups of legendary metal drummers including Lars Ulrich, Dave Lombardo, Joey Jordison, and more. Complete drum kits, cymbals, and hardware specs.';
+    ? `Discover what drums and cymbals ${drummer.name} uses. Full gear breakdown for the ${drummer.band} drummer.`
+    : 'Explore the drum kits, cymbals, and gear used by legendary metal drummers including Lars Ulrich, Joey Jordison, Dave Lombardo and more.';
 
   document.title = title;
 

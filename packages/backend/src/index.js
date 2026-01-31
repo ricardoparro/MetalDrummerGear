@@ -15,13 +15,23 @@ const drummers = [
     band: 'Metallica',
     genre: 'Thrash Metal',
     country: 'Denmark',
-    image: 'https://example.com/lars.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Lars_Ulrich_2017.jpg/440px-Lars_Ulrich_2017.jpg',
+    bio: 'Lars Ulrich is a Danish musician and co-founder of Metallica, one of the most influential thrash metal bands in history. Born in 1963, he moved to Los Angeles to pursue his drumming career and formed Metallica with James Hetfield in 1981. Known for his aggressive style and iconic drum fills, Lars has been instrumental in shaping the sound of heavy metal.',
     gear: {
-      drums: 'Tama Star Classic',
-      snare: 'Tama LU1465 Signature',
-      cymbals: 'Zildjian A Custom',
-      hardware: 'Tama Iron Cobra pedals'
-    }
+      drums: 'Tama Star Classic Maple',
+      snare: 'Tama LU1465 Lars Ulrich Signature 14x6.5"',
+      cymbals: 'Zildjian A Custom Series (14" Hi-Hats, 18" & 19" Crashes, 20" China, 22" Ride)',
+      hardware: 'Tama Iron Cobra 900 Power Glide Double Pedal, Tama 1st Chair Throne',
+      sticks: 'Ahead Lars Ulrich Signature Drumsticks'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Lars_Ulrich_2017.jpg/440px-Lars_Ulrich_2017.jpg'
+    ],
+    endorsements: [
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'Ahead Drumsticks', url: 'https://www.aheaddrumsticks.com' }
+    ]
   },
   {
     id: 2,
@@ -29,13 +39,23 @@ const drummers = [
     band: 'Slipknot',
     genre: 'Nu Metal / Death Metal',
     country: 'USA',
-    image: 'https://example.com/joey.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Joey_Jordison_at_Mayhem_Fest_2.jpg/440px-Joey_Jordison_at_Mayhem_Fest_2.jpg',
+    bio: 'Joey Jordison (1975-2021) was an American musician best known as the original drummer of Slipknot. His blistering speed, technical precision, and theatrical stage presence made him one of the most influential metal drummers of his generation. He also played guitar for Murderdolls and drums for various other projects.',
     gear: {
-      drums: 'Pearl Masters Premium',
-      snare: 'Pearl Joey Jordison Signature',
-      cymbals: 'Paiste RUDE',
-      hardware: 'Pearl Demon Drive pedals'
-    }
+      drums: 'Pearl Masters Premium Maple',
+      snare: 'Pearl Joey Jordison Signature 13x6.5"',
+      cymbals: 'Paiste RUDE Series (14" Hi-Hats, 18" & 19" Crashes, 20" Chinas, 22" Power Ride)',
+      hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000 Throne',
+      sticks: 'Promark Joey Jordison Signature TX515W'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Joey_Jordison_at_Mayhem_Fest_2.jpg/440px-Joey_Jordison_at_Mayhem_Fest_2.jpg'
+    ],
+    endorsements: [
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
+      { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' }
+    ]
   },
   {
     id: 3,
@@ -43,13 +63,23 @@ const drummers = [
     band: 'Death / Testament / Dethklok',
     genre: 'Death Metal / Thrash Metal',
     country: 'USA',
-    image: 'https://example.com/gene.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Metalmania_2008_Testament_Gene_Hoglan_01.jpg/440px-Metalmania_2008_Testament_Gene_Hoglan_01.jpg',
+    bio: 'Gene Hoglan, nicknamed "The Atomic Clock" for his precise timing, is one of the most respected drummers in extreme metal. Born in 1967, he has played with Death, Dark Angel, Testament, Strapping Young Lad, Fear Factory, and Dethklok. His combination of speed, power, and musicality has influenced countless metal drummers.',
     gear: {
-      drums: 'Tama Starclassic',
-      snare: 'Tama Gene Hoglan Signature',
-      cymbals: 'Zildjian A Custom',
-      hardware: 'Tama Speed Cobra pedals'
-    }
+      drums: 'Tama Starclassic Walnut/Birch',
+      snare: 'Tama Gene Hoglan Signature 14x8"',
+      cymbals: 'Zildjian A Custom Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China)',
+      hardware: 'Tama Speed Cobra 910 Double Pedal, Tama 1st Chair Round Rider Throne',
+      sticks: 'Vater 5B Wood Tip'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Metalmania_2008_Testament_Gene_Hoglan_01.jpg/440px-Metalmania_2008_Testament_Gene_Hoglan_01.jpg'
+    ],
+    endorsements: [
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'Vater Drumsticks', url: 'https://www.vater.com' }
+    ]
   },
   {
     id: 4,
@@ -57,13 +87,23 @@ const drummers = [
     band: 'Slayer',
     genre: 'Thrash Metal',
     country: 'Cuba/USA',
-    image: 'https://example.com/dave.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Dave_Lombardo_2009.jpg/440px-Dave_Lombardo_2009.jpg',
+    bio: 'Dave Lombardo, born in Cuba in 1965, is widely regarded as one of the greatest drummers in metal history. As the original drummer of Slayer, he pioneered the double bass drumming style that defined thrash metal. His work on albums like "Reign in Blood" is considered groundbreaking. He has also played with Fantomas, Suicidal Tendencies, and Dead Cross.',
     gear: {
-      drums: 'Pearl Masters Maple',
-      snare: 'Pearl Dave Lombardo Signature',
-      cymbals: 'Paiste RUDE / 2002',
-      hardware: 'Pearl Demon Drive pedals'
-    }
+      drums: 'Pearl Masters Maple Complete',
+      snare: 'Pearl Dave Lombardo Signature 14x5.5"',
+      cymbals: 'Paiste RUDE & 2002 Series (14" Hi-Hats, 18" & 19" Crashes, 20" Power Ride, 18" China)',
+      hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000BR Throne',
+      sticks: 'Vic Firth American Classic 5B'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Dave_Lombardo_2009.jpg/440px-Dave_Lombardo_2009.jpg'
+    ],
+    endorsements: [
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+    ]
   },
   {
     id: 5,
@@ -71,13 +111,23 @@ const drummers = [
     band: 'Meshuggah',
     genre: 'Progressive Metal / Djent',
     country: 'Sweden',
-    image: 'https://example.com/tomas.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Tomas_Haake_of_Meshuggah.jpg/440px-Tomas_Haake_of_Meshuggah.jpg',
+    bio: 'Tomas Haake, born in 1971, is the drummer and primary lyricist for Swedish extreme metal band Meshuggah. His polyrhythmic drumming style, characterized by complex time signatures and intricate patterns, has been hugely influential in the development of djent and progressive metal. He is known for his metronomic precision and innovative approach.',
     gear: {
-      drums: 'Sonor SQ2',
-      snare: 'Sonor Tomas Haake Signature',
-      cymbals: 'Meinl Byzance',
-      hardware: 'Sonor Giant Step pedals'
-    }
+      drums: 'Sonor SQ2 Heavy Beech',
+      snare: 'Sonor Tomas Haake Signature 14x6.25"',
+      cymbals: 'Meinl Byzance Series (15" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Dark China)',
+      hardware: 'Sonor Giant Step Double Pedal, Sonor Drummer Throne',
+      sticks: 'Vic Firth Tomas Haake Signature'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Tomas_Haake_of_Meshuggah.jpg/440px-Tomas_Haake_of_Meshuggah.jpg'
+    ],
+    endorsements: [
+      { name: 'Sonor Drums', url: 'https://www.sonor.com' },
+      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+    ]
   },
   {
     id: 6,
@@ -85,13 +135,119 @@ const drummers = [
     band: 'Nile',
     genre: 'Technical Death Metal',
     country: 'Greece',
-    image: 'https://example.com/george.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/George_Kollias_2008.jpg/440px-George_Kollias_2008.jpg',
+    bio: 'George Kollias, born in 1977, is a Greek drummer known for his extreme speed and technical proficiency. As the drummer for Nile since 2004, he has pushed the boundaries of death metal drumming with his incredible blast beats and double bass technique. He is also an educator and has released instructional materials.',
     gear: {
-      drums: 'Pearl Masterworks',
-      snare: 'Pearl George Kollias Signature',
-      cymbals: 'Zildjian A Custom',
-      hardware: 'Pearl Demon Drive pedals'
-    }
+      drums: 'Pearl Masterworks Stadium Exotic',
+      snare: 'Pearl George Kollias Signature 14x6.5"',
+      cymbals: 'Zildjian A Custom Series (14" Hi-Hats, 17" & 18" Crashes, 21" Ride, 18" China)',
+      hardware: 'Pearl Demon Drive Double Pedal, Pearl D-3000 Throne',
+      sticks: 'Vic Firth George Kollias Signature'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/George_Kollias_2008.jpg/440px-George_Kollias_2008.jpg'
+    ],
+    endorsements: [
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+    ]
+  },
+  {
+    id: 7,
+    name: 'Eloy Casagrande',
+    band: 'Sepultura / Slipknot',
+    genre: 'Thrash Metal / Nu Metal',
+    country: 'Brazil',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Eloy_Casagrande_-_2023.jpg/440px-Eloy_Casagrande_-_2023.jpg',
+    bio: 'Eloy Casagrande, born in 1990, is a Brazilian drummer who became Sepultura\'s drummer in 2011 and joined Slipknot in 2024. Known for his explosive speed, technical prowess, and energetic performances, he brought new life to Sepultura\'s sound. His drumming style combines traditional metal with modern technical elements, making him one of the most exciting drummers in contemporary metal.',
+    gear: {
+      drums: 'Pearl Reference Pure Shell Pack',
+      snare: 'Pearl Reference 14x5" Steel',
+      cymbals: 'Meinl Byzance Brilliant Series (14" Heavy Hi-Hats, 18" & 19" Heavy Crashes, 21" Heavy Ride, 18" China Brilliant)',
+      hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000 Throne',
+      sticks: 'Vic Firth Eloy Casagrande Signature'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Eloy_Casagrande_-_2023.jpg/440px-Eloy_Casagrande_-_2023.jpg'
+    ],
+    endorsements: [
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+    ]
+  },
+  {
+    id: 8,
+    name: 'Ray Luzier',
+    band: 'Korn',
+    genre: 'Nu Metal',
+    country: 'USA',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ray_Luzier_2022.jpg/440px-Ray_Luzier_2022.jpg',
+    bio: 'Ray Luzier, born in 1970, is an American drummer who joined Korn in 2007. Before Korn, he was a sought-after session musician, working with artists like David Lee Roth and Army of Anyone. His drumming combines rock solid grooves with technical flair, bringing a fresh energy to Korn\'s signature sound while respecting their nu-metal roots.',
+    gear: {
+      drums: 'Pearl Masters Maple Complete',
+      snare: 'Pearl Reference 14x6.5" Brass',
+      cymbals: 'Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China)',
+      hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000 Roadster Throne',
+      sticks: 'Promark Ray Luzier Signature TX420X'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ray_Luzier_2022.jpg/440px-Ray_Luzier_2022.jpg'
+    ],
+    endorsements: [
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
+      { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' }
+    ]
+  },
+  {
+    id: 9,
+    name: 'John Otto',
+    band: 'Limp Bizkit',
+    genre: 'Nu Metal / Rap Metal',
+    country: 'USA',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LimpBizkit_-_John_Otto.jpg/440px-LimpBizkit_-_John_Otto.jpg',
+    bio: 'John Otto, born in 1977, is the drummer and a founding member of Limp Bizkit. His hip-hop influenced drumming style, combining tight grooves with funk-inspired beats, was essential in defining the rap-metal sound of the late 90s and early 2000s. His ability to blend rock power with hip-hop feel made Limp Bizkit one of the biggest bands of the nu-metal era.',
+    gear: {
+      drums: 'Orange County Drum & Percussion (OCDP) Custom',
+      snare: 'OCDP 14x7" Maple/Ash',
+      cymbals: 'Zildjian K Custom Series (14" Hi-Hats, 17" & 18" Dark Crashes, 20" Ride, 18" China)',
+      hardware: 'DW 9000 Series Double Pedal, DW 9100 Throne',
+      sticks: 'Promark 747 Rock Wood Tip'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LimpBizkit_-_John_Otto.jpg/440px-LimpBizkit_-_John_Otto.jpg'
+    ],
+    endorsements: [
+      { name: 'OCDP Drums', url: 'https://www.ocdrum.com' },
+      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' }
+    ]
+  },
+  {
+    id: 10,
+    name: 'Jay Weinberg',
+    band: 'Slipknot / Suicidal Tendencies',
+    genre: 'Nu Metal / Hardcore',
+    country: 'USA',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Jay_Weinberg_-_Slipknot.jpg/440px-Jay_Weinberg_-_Slipknot.jpg',
+    bio: 'Jay Weinberg, born in 1990, is the son of E Street Band drummer Max Weinberg. He joined Slipknot in 2014, becoming their drummer after Joey Jordison\'s departure. Before Slipknot, he briefly played with Against Me! and Madball. His powerful, aggressive style honored Slipknot\'s legacy while adding his own intensity. In 2023, he joined Suicidal Tendencies.',
+    gear: {
+      drums: 'Pearl Masterworks Custom',
+      snare: 'Pearl Reference 14x6.5" Steel',
+      cymbals: 'Zildjian A Custom & K Custom Series (14" A New Beat Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 19" K China)',
+      hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000 Throne',
+      sticks: 'Promark ActiveGrip 5B'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Jay_Weinberg_-_Slipknot.jpg/440px-Jay_Weinberg_-_Slipknot.jpg'
+    ],
+    endorsements: [
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' }
+    ]
   }
 ];
 
@@ -104,23 +260,23 @@ app.get('/api/health', (req, res) => {
 app.get('/api/drummers', (req, res) => {
   const { genre, search } = req.query;
   let results = drummers;
-  
+
   if (genre) {
-    results = results.filter(d => 
+    results = results.filter(d =>
       d.genre.toLowerCase().includes(genre.toLowerCase())
     );
   }
-  
+
   if (search) {
     const q = search.toLowerCase();
-    results = results.filter(d => 
+    results = results.filter(d =>
       d.name.toLowerCase().includes(q) ||
       d.band.toLowerCase().includes(q)
     );
   }
-  
-  res.json(results.map(({ id, name, band, genre, country }) => ({
-    id, name, band, genre, country
+
+  res.json(results.map(({ id, name, band, genre, country, image }) => ({
+    id, name, band, genre, country, image
   })));
 });
 

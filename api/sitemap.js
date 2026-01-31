@@ -18,6 +18,14 @@ const drummers = [
 
 const BASE_URL = 'https://metalforge.io';
 
+// Generate URL-friendly slug from drummer name
+function generateSlug(name) {
+  return name
+    .toLowerCase()
+    .replace(/\s+/g, '-')
+    .replace(/[^a-z0-9-]/g, '');
+}
+
 export default function handler(req, res) {
   res.setHeader('Content-Type', 'application/xml');
   res.setHeader('Cache-Control', 'public, max-age=86400');
@@ -27,7 +35,7 @@ export default function handler(req, res) {
   const urls = [
     { loc: '/', priority: '1.0', changefreq: 'weekly' },
     ...drummers.map(d => ({
-      loc: `/drummer/${d.id}`,
+      loc: `/drummer/${generateSlug(d.name)}`,
       priority: '0.8',
       changefreq: 'monthly'
     }))

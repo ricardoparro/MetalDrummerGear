@@ -1,7 +1,36 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View, Switch, FlatList, ActivityIndicator, Image, TouchableOpacity, ScrollView, Linking, Platform } from 'react-native';
 import { ThemeProvider, useTheme } from './ThemeContext';
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
+
+const PLACEHOLDER_IMAGE = 'https://ui-avatars.com/api/?name=Drummer&background=1a1a2e&color=fff&size=200';
+
+function ImageWithFallback({ source, style, accessibilityLabel }) {
+  const [hasError, setHasError] = useState(false);
+  const [imageUri, setImageUri] = useState(source?.uri || PLACEHOLDER_IMAGE);
+
+  useEffect(() => {
+    setImageUri(source?.uri || PLACEHOLDER_IMAGE);
+    setHasError(false);
+  }, [source?.uri]);
+
+  const handleError = useCallback(() => {
+    if (!hasError) {
+      setHasError(true);
+      setImageUri(PLACEHOLDER_IMAGE);
+    }
+  }, [hasError]);
+
+  return (
+    <Image
+      source={{ uri: imageUri }}
+      style={style}
+      accessibilityLabel={accessibilityLabel}
+      onError={handleError}
+      resizeMode="cover"
+    />
+  );
+}
 
 // Use relative URL for Vercel serverless, fallback to localhost for dev
 const API_URL = typeof window !== 'undefined' && window.location.hostname !== 'localhost'
@@ -85,7 +114,7 @@ function DrummerCard({ drummer, theme, onPress }) {
     >
       <View style={styles.cardContent}>
         <TouchableOpacity onPress={onPress} accessibilityRole="image">
-          <Image
+          <ImageWithFallback
             source={{ uri: drummer.image }}
             style={styles.cardImage}
             accessibilityLabel={`Photo of ${drummer.name}`}
@@ -128,7 +157,7 @@ function DrummerDetail({ drummer, theme, onBack }) {
       </TouchableOpacity>
 
       <View style={styles.detailHeader}>
-        <Image
+        <ImageWithFallback
           source={{ uri: drummer.image }}
           style={styles.detailImage}
           accessibilityLabel={`Photo of ${drummer.name}`}
@@ -161,7 +190,7 @@ function DrummerDetail({ drummer, theme, onBack }) {
           <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">Photo Gallery</Text>
           <ScrollView horizontal showsHorizontalScrollIndicator={false} style={styles.gallery}>
             {drummer.photos.map((photo, index) => (
-              <Image
+              <ImageWithFallback
                 key={index}
                 source={{ uri: photo }}
                 style={styles.galleryImage}

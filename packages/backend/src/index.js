@@ -15,7 +15,7 @@ const drummers = [
     band: 'Metallica',
     genre: 'Thrash Metal',
     country: 'Denmark',
-    image: 'https://ui-avatars.com/api/?name=Drummer&background=1a1a2e&color=fff&size=200',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/7/74/Lars_Ulrich_2025_Marvel_Stadium_%286%29.jpg',
     bio: 'Lars Ulrich is a Danish musician and co-founder of Metallica, one of the most influential thrash metal bands in history. Born in 1963, he moved to Los Angeles to pursue his drumming career and formed Metallica with James Hetfield in 1981. Known for his aggressive style and iconic drum fills, Lars has been instrumental in shaping the sound of heavy metal.',
     gear: {
       drums: 'Tama Star Classic Maple',
@@ -25,7 +25,7 @@ const drummers = [
       sticks: 'Ahead Lars Ulrich Signature Drumsticks'
     },
     photos: [
-      'https://ui-avatars.com/api/?name=Drummer&background=1a1a2e&color=fff&size=200'
+      'https://upload.wikimedia.org/wikipedia/commons/7/74/Lars_Ulrich_2025_Marvel_Stadium_%286%29.jpg'
     ],
     endorsements: [
       { name: 'Tama Drums', url: 'https://www.tama.com' },
@@ -39,7 +39,7 @@ const drummers = [
     band: 'Slipknot',
     genre: 'Nu Metal / Death Metal',
     country: 'USA',
-    image: 'https://ui-avatars.com/api/?name=Drummer&background=1a1a2e&color=fff&size=200',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/6/68/JoeyJordison_%28headshot%29.jpg',
     bio: 'Joey Jordison (1975-2021) was an American musician best known as the original drummer of Slipknot. His blistering speed, technical precision, and theatrical stage presence made him one of the most influential metal drummers of his generation. He also played guitar for Murderdolls and drums for various other projects.',
     gear: {
       drums: 'Pearl Masters Premium Maple',
@@ -49,7 +49,7 @@ const drummers = [
       sticks: 'Promark Joey Jordison Signature TX515W'
     },
     photos: [
-      'https://ui-avatars.com/api/?name=Drummer&background=1a1a2e&color=fff&size=200'
+      'https://upload.wikimedia.org/wikipedia/commons/6/68/JoeyJordison_%28headshot%29.jpg'
     ],
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
@@ -63,7 +63,7 @@ const drummers = [
     band: 'Death / Testament / Dethklok',
     genre: 'Death Metal / Thrash Metal',
     country: 'USA',
-    image: 'https://ui-avatars.com/api/?name=Drummer&background=1a1a2e&color=fff&size=200',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/0/03/Gene_Hoglan_%28cropped%29.jpg',
     bio: 'Gene Hoglan, nicknamed "The Atomic Clock" for his precise timing, is one of the most respected drummers in extreme metal. Born in 1967, he has played with Death, Dark Angel, Testament, Strapping Young Lad, Fear Factory, and Dethklok. His combination of speed, power, and musicality has influenced countless metal drummers.',
     gear: {
       drums: 'Tama Starclassic Walnut/Birch',
@@ -73,7 +73,7 @@ const drummers = [
       sticks: 'Vater 5B Wood Tip'
     },
     photos: [
-      'https://ui-avatars.com/api/?name=Drummer&background=1a1a2e&color=fff&size=200'
+      'https://upload.wikimedia.org/wikipedia/commons/0/03/Gene_Hoglan_%28cropped%29.jpg'
     ],
     endorsements: [
       { name: 'Tama Drums', url: 'https://www.tama.com' },
@@ -87,7 +87,7 @@ const drummers = [
     band: 'Slayer',
     genre: 'Thrash Metal',
     country: 'Cuba/USA',
-    image: 'https://ui-avatars.com/api/?name=Drummer&background=1a1a2e&color=fff&size=200',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/4/47/Dave_Lombardo.jpg',
     bio: 'Dave Lombardo, born in Cuba in 1965, is widely regarded as one of the greatest drummers in metal history. As the original drummer of Slayer, he pioneered the double bass drumming style that defined thrash metal. His work on albums like "Reign in Blood" is considered groundbreaking. He has also played with Fantomas, Suicidal Tendencies, and Dead Cross.',
     gear: {
       drums: 'Pearl Masters Maple Complete',
@@ -97,7 +97,7 @@ const drummers = [
       sticks: 'Vic Firth American Classic 5B'
     },
     photos: [
-      'https://ui-avatars.com/api/?name=Drummer&background=1a1a2e&color=fff&size=200'
+      'https://upload.wikimedia.org/wikipedia/commons/4/47/Dave_Lombardo.jpg'
     ],
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
@@ -111,7 +111,7 @@ const drummers = [
     band: 'Meshuggah',
     genre: 'Progressive Metal / Djent',
     country: 'Sweden',
-    image: 'https://ui-avatars.com/api/?name=Drummer&background=1a1a2e&color=fff&size=200',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/2/28/Meshuggah_2016_Bandmember_Tomas_Haake.jpg',
     bio: 'Tomas Haake, born in 1971, is the drummer and primary lyricist for Swedish extreme metal band Meshuggah. His polyrhythmic drumming style, characterized by complex time signatures and intricate patterns, has been hugely influential in the development of djent and progressive metal. He is known for his metronomic precision and innovative approach.',
     gear: {
       drums: 'Sonor SQ2 Heavy Beech',
@@ -121,7 +121,7 @@ const drummers = [
       sticks: 'Vic Firth Tomas Haake Signature'
     },
     photos: [
-      'https://ui-avatars.com/api/?name=Drummer&background=1a1a2e&color=fff&size=200'
+      'https://upload.wikimedia.org/wikipedia/commons/2/28/Meshuggah_2016_Bandmember_Tomas_Haake.jpg'
     ],
     endorsements: [
       { name: 'Sonor Drums', url: 'https://www.sonor.com' },
@@ -135,7 +135,7 @@ const drummers = [
     band: 'Nile',
     genre: 'Technical Death Metal',
     country: 'Greece',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/8/86/Sepultura_-_2023219214143_2023-08-07_Sepultura_-_Sven_-_1D_X_MK_II_-_0650_-_AK8I2527.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6f/George_Kollias_Vienna%2C_Austria_%28June%2C_2011%29.jpg',
     bio: 'George Kollias, born in 1977, is a Greek drummer known for his extreme speed and technical proficiency. As the drummer for Nile since 2004, he has pushed the boundaries of death metal drumming with his incredible blast beats and double bass technique. He is also an educator and has released instructional materials.',
     gear: {
       drums: 'Pearl Masterworks Stadium Exotic',
@@ -145,7 +145,7 @@ const drummers = [
       sticks: 'Vic Firth George Kollias Signature'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/8/86/Sepultura_-_2023219214143_2023-08-07_Sepultura_-_Sven_-_1D_X_MK_II_-_0650_-_AK8I2527.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/6/6f/George_Kollias_Vienna%2C_Austria_%28June%2C_2011%29.jpg'
     ],
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },

@@ -324,6 +324,67 @@ const drummers = [
       { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' },
       { name: 'Roland Electronics', url: 'https://www.roland.com' }
     ]
+  },
+  {
+    id: 14,
+    name: 'Danny Carey',
+    band: 'Tool',
+    genre: 'Progressive Metal',
+    country: 'USA',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/3/3d/Tool_%2848541913941%29_%28cropped%29.jpg',
+    bio: 'Danny Carey, born in 1961 in Lawrence, Kansas, is widely regarded as one of the greatest drummers in rock and metal history. As the drummer for Tool since the band\'s formation in 1990, he has developed a unique style that blends complex polyrhythmic patterns with influences from jazz, world music, and progressive rock. His technical proficiency and creative approach to rhythm have earned him numerous accolades, including being voted the best drummer by readers of Modern Drummer magazine. Carey\'s drumming incorporates unusual time signatures, intricate subdivisions, and the use of electronic percussion. Beyond Tool, he has collaborated with artists like Pigface, Zaum, and Volto! His towering presence behind his massive Sonor kit and his dedication to expanding the boundaries of rock drumming have made him an icon in the drumming community.',
+    gear: {
+      drums: 'Sonor SQ2 Heavy Beech',
+      snare: 'Sonor Danny Carey Signature 14x8" Bronze',
+      cymbals: 'Paiste Signature Series (15" Sound Edge Hi-Hats, 18" & 19" Power Crashes, 22" Dry Heavy Ride, 20" & 22" Chinas, various Rude crashes)',
+      hardware: 'Sonor Giant Step Twin Effect Double Pedal, Sonor Drummer Throne, Mandala Drum electronic pads',
+      sticks: 'Vic Firth Danny Carey Signature'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/3/3d/Tool_%2848541913941%29_%28cropped%29.jpg'
+    ],
+    endorsements: [
+      { name: 'Sonor Drums', url: 'https://www.sonor.com' },
+      { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Remo Drumheads', url: 'https://www.remo.com' },
+      { name: 'Mandala Drums', url: 'https://www.mandaladrum.com' }
+    ],
+    videos: [
+      { youtubeId: 'FssULNGSZIA', title: 'Tool - Pneuma (Live Drum Cam)', year: '2019' },
+      { youtubeId: 'qJq9y9xPKWs', title: 'Tool - Forty Six & 2 (Live Drum Cam)', year: '2019' },
+      { youtubeId: 'Z45VCJfnWZ0', title: 'Tool - Chocolate Chip Trip (Live Drum Solo)', year: '2020' }
+    ]
+  },
+  {
+    id: 15,
+    name: 'Mario Duplantier',
+    band: 'Gojira',
+    genre: 'Progressive Death Metal',
+    country: 'France',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/8/84/Gojira_-_Rock_am_Ring_2022-0757_%28cropped%29.jpg',
+    bio: 'Mario Duplantier, born in 1981 in Bayonne, France, is the drummer and co-founder of the critically acclaimed progressive death metal band Gojira, which he formed with his brother Joe Duplantier in 1996. Known for his powerful, precise, and incredibly intense drumming style, Mario combines crushing double bass patterns with complex rhythmic structures that complement Gojira\'s unique blend of death metal and progressive elements. His drumming on albums like "From Mars to Sirius," "The Way of All Flesh," and "Magma" has been praised for its technical excellence and raw energy. Beyond his drumming prowess, Mario is also a talented visual artist who has created artwork for Gojira\'s albums and merchandise. His approach to drumming emphasizes dynamics, groove, and an almost tribal quality that has helped define Gojira\'s distinctive sound.',
+    gear: {
+      drums: 'Tama Starclassic Walnut/Birch',
+      snare: 'Tama S.L.P. 14x6" G-Maple',
+      cymbals: 'Meinl Byzance Series (14" Dark Hi-Hats, 18" & 20" Brilliant Heavy Hammered Crashes, 21" Transition Ride, 18" Extra Dry China)',
+      hardware: 'Tama Iron Cobra 900 Power Glide Double Pedal, Tama 1st Chair Ergo-Rider Throne',
+      sticks: 'Vic Firth X5A'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/8/84/Gojira_-_Rock_am_Ring_2022-0757_%28cropped%29.jpg'
+    ],
+    endorsements: [
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+    ],
+    videos: [
+      { youtubeId: 'BGHlZwMYO9g', title: 'Gojira - Silvera (Live Drum Cam)', year: '2017' },
+      { youtubeId: 'FNdC_3LR2AI', title: 'Gojira - Stranded (Live Drum Cam)', year: '2017' },
+      { youtubeId: 'iqrMFNMgVS0', title: 'Gojira - Flying Whales (Live Drum Cam)', year: '2019' }
+    ]
   }
 ];
 

@@ -240,6 +240,82 @@ const drummers = [
       { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
       { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' }
     ]
+  },
+  {
+    id: 11,
+    name: 'Vinnie Paul',
+    band: 'Pantera / Damageplan / Hellyeah',
+    genre: 'Groove Metal / Heavy Metal',
+    country: 'USA',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/5/55/VinniePaul2008.JPG',
+    bio: 'Vinnie Paul (1964-2018) was the co-founder and drummer of Pantera, one of the most influential heavy metal bands of all time. Alongside his brother Dimebag Darrell, he helped define the groove metal sound. Pantera received four Grammy nominations for Best Metal Performance. After Pantera\'s breakup, he formed Damageplan with his brother, and later Hellyeah. His drumming style featured powerful grooves and innovative double-bass patterns that influenced countless metal drummers. Ranked among the greatest metal drummers of all time.',
+    gear: {
+      drums: 'ddrum Vinnie Paul Signature Series',
+      snare: 'ddrum Vinnie Paul Signature 14x8"',
+      cymbals: 'Sabian AA & AAX Series (14" Hi-Hats, 18" & 19" Crashes, 21" Ride, 18" China)',
+      hardware: 'ddrum Double Pedal, ddrum Throne',
+      sticks: 'Vic Firth American Classic 5B'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/5/55/VinniePaul2008.JPG'
+    ],
+    endorsements: [
+      { name: 'ddrum Drums', url: 'https://www.ddrum.com' },
+      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+    ]
+  },
+  {
+    id: 12,
+    name: 'Charlie Benante',
+    band: 'Anthrax / S.O.D. / Pantera',
+    genre: 'Thrash Metal',
+    country: 'USA',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/0/0a/2017_Anthrax_-_Charlie_Benante_-_by_2eight_-_DSC1986_%28cropped%29.jpg',
+    bio: 'Charlie Benante, born in 1962 in The Bronx, New York, is a pioneer of thrash metal drumming and credited with popularizing the blast beat technique. He joined Anthrax in 1983 and has appeared on all 11 of the band\'s studio albums. Known for his extremely fast double kick technique, Benante is also a talented guitarist who contributed lead guitar to S.O.D.\'s "Speak English or Die" album. He serves as Anthrax\'s main composer and is a graphic artist who created many of their album covers and T-shirt designs. In 2022, he joined the reunited Pantera, filling in for his late friend Vinnie Paul.',
+    gear: {
+      drums: 'Tama Starclassic',
+      snare: 'Tama Charlie Benante Signature 14x6.5"',
+      cymbals: 'Paiste RUDE & 2002 Series (14" Hi-Hats, 18" & 19" Crashes, 20" Power Ride, 18" China)',
+      hardware: 'Tama Speed Cobra Double Pedal, Roland Electronics',
+      sticks: 'Vic Firth Charlie Benante Signature'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/0/0a/2017_Anthrax_-_Charlie_Benante_-_by_2eight_-_DSC1986_%28cropped%29.jpg'
+    ],
+    endorsements: [
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' },
+      { name: 'Roland Electronics', url: 'https://www.roland.com' }
+    ]
+  },
+  {
+    id: 13,
+    name: 'Mike Portnoy',
+    band: 'Dream Theater / Liquid Tension Experiment / The Winery Dogs',
+    genre: 'Progressive Metal',
+    country: 'USA',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/a/a4/Mike_Portnoy_-_Adrenaline_Mob%2C_2012-04-13.jpg',
+    bio: 'Mike Portnoy, born in 1967 in Long Beach, New York, is one of the most influential progressive metal drummers of all time. He co-founded Dream Theater in 1985 and was the band\'s drummer and lyricist for 25 years, helping define the progressive metal genre. A recipient of over 30 Drummer of the Year awards from Modern Drummer magazine, Portnoy is known for his technical proficiency, complex time signatures, and theatrical live performances. After leaving Dream Theater in 2010, he has played with numerous projects including Avenged Sevenfold, Adrenaline Mob, The Winery Dogs, Flying Colors, Sons of Apollo, and Liquid Tension Experiment. In 2023, he rejoined Dream Theater for their reunion tour. His drumming style combines jazz fusion influences with heavy metal power, featuring intricate double bass patterns and creative use of electronics.',
+    gear: {
+      drums: 'Tama Starclassic Maple/Birch',
+      snare: 'Tama Mike Portnoy Signature Melody Master 14x5.5"',
+      cymbals: 'Sabian HHX Series (14" Evolution Hi-Hats, 18" & 19" Evolution Crashes, 21" Raw Bell Dry Ride, 10" & 12" Evolution Splashes, 19" O-Zone Crash)',
+      hardware: 'Tama Iron Cobra Power Glide Double Pedal, Tama 1st Chair Ergo-Rider Throne',
+      sticks: 'Promark Mike Portnoy Signature TX420N'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/a/a4/Mike_Portnoy_-_Adrenaline_Mob%2C_2012-04-13.jpg'
+    ],
+    endorsements: [
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
+      { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' },
+      { name: 'Roland Electronics', url: 'https://www.roland.com' }
+    ]
   }
 ];
 

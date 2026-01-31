@@ -3,7 +3,10 @@ import { StyleSheet, Text, View, Switch, FlatList, ActivityIndicator } from 'rea
 import { ThemeProvider, useTheme } from './ThemeContext';
 import { useState, useEffect } from 'react';
 
-const API_URL = 'http://localhost:3001/api/drummers';
+// Use relative URL for Vercel serverless, fallback to localhost for dev
+const API_URL = typeof window !== 'undefined' && window.location.hostname !== 'localhost' 
+  ? '/api/drummers' 
+  : 'http://localhost:3001/api/drummers';
 
 function DrummerCard({ drummer, theme }) {
   return (

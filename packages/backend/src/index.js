@@ -248,6 +248,32 @@ const drummers = [
       { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
       { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' }
     ]
+  },
+  {
+    id: 11,
+    name: 'Charlie Benante',
+    band: 'Anthrax / S.O.D. / Pantera',
+    genre: 'Thrash Metal',
+    country: 'USA',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/0/0a/2017_Anthrax_-_Charlie_Benante_-_by_2eight_-_DSC1986_%28cropped%29.jpg',
+    bio: 'Charlie Benante, born in 1962 in The Bronx, New York, is a pioneer of thrash metal drumming and credited with popularizing the blast beat technique. He joined Anthrax in 1983 and has appeared on all 11 of the band\'s studio albums. Known for his extremely fast double kick technique, Benante is also a talented guitarist who contributed lead guitar to S.O.D.\'s "Speak English or Die" album. He serves as Anthrax\'s main composer and is a graphic artist who created many of their album covers and T-shirt designs. In 2022, he joined the reunited Pantera, filling in for his late friend Vinnie Paul.',
+    gear: {
+      drums: 'Tama Starclassic',
+      snare: 'Tama Charlie Benante Signature 14x6.5"',
+      cymbals: 'Paiste RUDE & 2002 Series (14" Hi-Hats, 18" & 19" Crashes, 20" Power Ride, 18" China)',
+      hardware: 'Tama Speed Cobra Double Pedal, Roland Electronics',
+      sticks: 'Vic Firth Charlie Benante Signature'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/0/0a/2017_Anthrax_-_Charlie_Benante_-_by_2eight_-_DSC1986_%28cropped%29.jpg'
+    ],
+    endorsements: [
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' },
+      { name: 'Roland Electronics', url: 'https://www.roland.com' }
+    ]
   }
 ];
 

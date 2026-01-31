@@ -2,6 +2,7 @@ import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View, Switch, FlatList, ActivityIndicator, Image, TouchableOpacity, ScrollView, Linking, Platform, useWindowDimensions } from 'react-native';
 import { ThemeProvider, useTheme } from './ThemeContext';
 import { useState, useEffect, useCallback } from 'react';
+import { getAffiliateLinks, extractPrimaryProduct } from './affiliateLinks';
 
 // YouTube Video Embed Component - Works with React Native Web
 function YouTubeEmbed({ videoId, title, theme }) {
@@ -198,11 +199,41 @@ function DrummerCard({ drummer, theme, onPress }) {
   );
 }
 
-function GearSection({ title, content, theme }) {
+function GearSection({ title, content, theme, gearType }) {
+  const primaryProduct = extractPrimaryProduct(content);
+  const affiliateLinks = getAffiliateLinks(primaryProduct, gearType);
+
+  const handleShopPress = (url, store) => {
+    // Open in new tab for web, use Linking for native
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.open(url, '_blank', 'noopener,noreferrer');
+    } else {
+      Linking.openURL(url);
+    }
+  };
+
   return (
     <View style={styles.gearSection}>
       <Text style={[styles.gearTitle, { color: theme.text }]}>{title}</Text>
       <Text style={[styles.gearContent, { color: theme.secondaryText }]}>{content}</Text>
+      <View style={styles.shopLinksContainer}>
+        <TouchableOpacity
+          onPress={() => handleShopPress(affiliateLinks.sweetwater, 'Sweetwater')}
+          style={[styles.shopButton, styles.shopButtonUS, { borderColor: theme.border }]}
+          accessibilityRole="link"
+          accessibilityLabel={`Shop ${primaryProduct} at Sweetwater (US)`}
+        >
+          <Text style={styles.shopButtonText}>Shop US</Text>
+        </TouchableOpacity>
+        <TouchableOpacity
+          onPress={() => handleShopPress(affiliateLinks.thomann, 'Thomann')}
+          style={[styles.shopButton, styles.shopButtonEU, { borderColor: theme.border }]}
+          accessibilityRole="link"
+          accessibilityLabel={`Shop ${primaryProduct} at Thomann (EU)`}
+        >
+          <Text style={styles.shopButtonText}>Shop EU</Text>
+        </TouchableOpacity>
+      </View>
     </View>
   );
 }
@@ -244,12 +275,12 @@ function DrummerDetail({ drummer, theme, onBack }) {
 
       <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
         <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">Gear Setup</Text>
-        <GearSection title="Drums" content={drummer.gear.drums} theme={theme} />
-        <GearSection title="Snare" content={drummer.gear.snare} theme={theme} />
-        <GearSection title="Cymbals" content={drummer.gear.cymbals} theme={theme} />
-        <GearSection title="Hardware" content={drummer.gear.hardware} theme={theme} />
+        <GearSection title="Drums" content={drummer.gear.drums} theme={theme} gearType="drums" />
+        <GearSection title="Snare" content={drummer.gear.snare} theme={theme} gearType="snare" />
+        <GearSection title="Cymbals" content={drummer.gear.cymbals} theme={theme} gearType="cymbals" />
+        <GearSection title="Hardware" content={drummer.gear.hardware} theme={theme} gearType="hardware" />
         {drummer.gear.sticks && (
-          <GearSection title="Sticks" content={drummer.gear.sticks} theme={theme} />
+          <GearSection title="Sticks" content={drummer.gear.sticks} theme={theme} gearType="sticks" />
         )}
       </View>
 
@@ -599,6 +630,28 @@ const styles = StyleSheet.create({
   gearContent: {
     fontSize: 14,
     lineHeight: 20,
+  },
+  shopLinksContainer: {
+    flexDirection: 'row',
+    marginTop: 8,
+    gap: 8,
+  },
+  shopButton: {
+    paddingVertical: 6,
+    paddingHorizontal: 12,
+    borderRadius: 16,
+    borderWidth: 1,
+  },
+  shopButtonUS: {
+    backgroundColor: '#1a5276',
+  },
+  shopButtonEU: {
+    backgroundColor: '#1e8449',
+  },
+  shopButtonText: {
+    color: '#ffffff',
+    fontSize: 12,
+    fontWeight: '600',
   },
   gallery: {
     flexDirection: 'row',

@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Metal Drummer Gear",
-    "slug": "metal-drummer-gear",
+    "name": "MetalForge",
+    "slug": "metalforge",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,8 +24,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png",
-      "name": "Metal Drummer Gear - Discover What Pro Drummers Play",
-      "description": "Explore the drum kits, cymbals, and gear used by legendary metal drummers including Lars Ulrich, Joey Jordison, Dave Lombardo and more."
+      "name": "MetalForge - Discover What Pro Metal Drummers Play",
+      "shortName": "MetalForge",
+      "description": "Explore the drum kits, cymbals, and gear used by legendary metal drummers including Lars Ulrich, Joey Jordison, Dave Lombardo, Mike Portnoy and more.",
+      "themeColor": "#1a1a2e",
+      "backgroundColor": "#1a1a2e"
     }
   }
 }

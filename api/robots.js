@@ -7,7 +7,7 @@ export default function handler(req, res) {
   const robotsTxt = `User-agent: *
 Allow: /
 
-Sitemap: https://metaldrummergear.vercel.app/sitemap.xml
+Sitemap: https://metalforge.io/sitemap.xml
 `;
 
   res.status(200).send(robotsTxt);

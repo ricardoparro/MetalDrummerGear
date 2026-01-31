@@ -16,7 +16,7 @@ const drummers = [
   { id: 13, name: 'Mike Portnoy' },
 ];
 
-const BASE_URL = 'https://metaldrummergear.vercel.app';
+const BASE_URL = 'https://metalforge.io';
 
 export default function handler(req, res) {
   res.setHeader('Content-Type', 'application/xml');

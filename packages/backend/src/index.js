@@ -276,11 +276,11 @@ const drummers = [
   {
     id: 12,
     name: 'Charlie Benante',
-    band: 'Anthrax / S.O.D. / Pantera',
-    genre: 'Thrash Metal',
+    band: 'Anthrax / S.O.D. / Pantera / Metal Allegiance',
+    genre: 'Thrash Metal / Crossover Thrash',
     country: 'USA',
     image: 'https://upload.wikimedia.org/wikipedia/commons/0/0a/2017_Anthrax_-_Charlie_Benante_-_by_2eight_-_DSC1986_%28cropped%29.jpg',
-    bio: 'Charlie Benante, born in 1962 in The Bronx, New York, is a pioneer of thrash metal drumming and credited with popularizing the blast beat technique. He joined Anthrax in 1983 and has appeared on all 11 of the band\'s studio albums. Known for his extremely fast double kick technique, Benante is also a talented guitarist who contributed lead guitar to S.O.D.\'s "Speak English or Die" album. He serves as Anthrax\'s main composer and is a graphic artist who created many of their album covers and T-shirt designs. In 2022, he joined the reunited Pantera, filling in for his late friend Vinnie Paul.',
+    bio: 'Charlie Benante, born in 1962 in The Bronx, New York, is a pioneer of thrash metal drumming and credited with popularizing the blast beat technique. He joined Anthrax in 1983 and has appeared on all 11 of the band\'s studio albums. Known for his extremely fast double kick technique, Benante is also a talented guitarist who contributed lead guitar to S.O.D.\'s "Speak English or Die" album. He serves as Anthrax\'s main composer and is a graphic artist who created many of their album covers and T-shirt designs. In 2021, he released his solo album "Silver Linings." In 2022, he joined the reunited Pantera, filling in for his late friend Vinnie Paul.',
     gear: {
       drums: 'Tama Starclassic',
       snare: 'Tama Charlie Benante Signature 14x6.5"',

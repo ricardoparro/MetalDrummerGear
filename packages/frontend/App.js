@@ -177,6 +177,10 @@ const API_URL = typeof window !== 'undefined' && window.location.hostname !== 'l
   ? '/api/drummers'
   : 'http://localhost:3001/api/drummers';
 
+const GEAR_API_URL = typeof window !== 'undefined' && window.location.hostname !== 'localhost'
+  ? '/api/gear'
+  : 'http://localhost:3001/api/gear';
+
 function updateDocumentMeta(drummer, drummers = []) {
   if (Platform.OS !== 'web' || typeof document === 'undefined') return;
 
@@ -534,7 +538,7 @@ function KitCostCalculator({ drummer, theme }) {
   );
 }
 
-function DrummerDetail({ drummer, theme, onBack }) {
+function DrummerDetail({ drummer, theme, onBack, onSelectGear }) {
   const handleEndorsementPress = (url) => {
     Linking.openURL(url);
   };
@@ -1122,6 +1126,275 @@ function isComparePage() {
   return window.location.pathname === '/compare' || window.location.pathname.startsWith('/compare?');
 }
 
+// Check if we're on a gear page based on URL
+function getGearSlugFromURL() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(/^\/gear\/([a-z0-9-]+)$/);
+  return match ? match[1] : null;
+}
+
+// Update document meta for gear pages
+function updateGearMeta(gear) {
+  if (Platform.OS !== 'web' || typeof document === 'undefined') return;
+
+  const title = `${gear.name} - Specs, Price & Who Uses It | Metal Drummer Gear`;
+  const description = `${gear.description.substring(0, 150)}... See which pro drummers use the ${gear.name} and where to buy it.`;
+
+  document.title = title;
+
+  const setMeta = (name, content, isProperty = false) => {
+    const attr = isProperty ? 'property' : 'name';
+    let meta = document.querySelector(`meta[${attr}="${name}"]`);
+    if (!meta) {
+      meta = document.createElement('meta');
+      meta.setAttribute(attr, name);
+      document.head.appendChild(meta);
+    }
+    meta.setAttribute('content', content);
+  };
+
+  setMeta('description', description);
+  setMeta('keywords', `${gear.name}, ${gear.brand} ${gear.category}, ${gear.category} review, ${gear.brand} drums, metal drumming gear`);
+  setMeta('og:title', title, true);
+  setMeta('og:description', description, true);
+  setMeta('og:type', 'product', true);
+  setMeta('og:image', gear.image, true);
+  setMeta('twitter:card', 'summary_large_image');
+  setMeta('twitter:title', title);
+  setMeta('twitter:description', description);
+
+  // Product schema for gear page
+  let ldScript = document.querySelector('script[data-schema="main"]');
+  if (!ldScript) {
+    ldScript = document.createElement('script');
+    ldScript.type = 'application/ld+json';
+    ldScript.setAttribute('data-schema', 'main');
+    document.head.appendChild(ldScript);
+  }
+
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": gear.name,
+    "description": gear.description,
+    "image": gear.image,
+    "brand": {
+      "@type": "Brand",
+      "name": gear.brand
+    },
+    "category": gear.category,
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "EUR",
+      "lowPrice": gear.priceEur,
+      "highPrice": Math.round(gear.priceEur * 1.2),
+      "offerCount": 2,
+      "availability": "https://schema.org/InStock",
+      "seller": [
+        {
+          "@type": "Organization",
+          "name": "Thomann",
+          "url": "https://www.thomann.de"
+        },
+        {
+          "@type": "Organization",
+          "name": "Sweetwater",
+          "url": "https://www.sweetwater.com"
+        }
+      ]
+    }
+  };
+
+  ldScript.textContent = JSON.stringify(schema);
+
+  // Remove FAQ schema if it exists (not needed for gear pages)
+  const faqScript = document.querySelector('script[data-schema="faq"]');
+  if (faqScript) {
+    faqScript.remove();
+  }
+}
+
+// Gear detail page component
+function GearDetail({ gear, theme, onBack, onSelectDrummer }) {
+  useEffect(() => {
+    updateGearMeta(gear);
+  }, [gear]);
+
+  const affiliateLinks = getAffiliateLinks(gear.name, gear.category);
+
+  const handleShopPress = (url) => {
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.open(url, '_blank', 'noopener,noreferrer');
+    } else {
+      Linking.openURL(url);
+    }
+  };
+
+  const categoryLabels = {
+    drums: 'Drum Kit',
+    snare: 'Snare Drum',
+    cymbals: 'Cymbals',
+    hardware: 'Hardware',
+    sticks: 'Drumsticks'
+  };
+
+  return (
+    <ScrollView style={styles.detailContainer} contentContainerStyle={styles.detailContent}>
+      <TouchableOpacity
+        onPress={onBack}
+        style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+        accessibilityRole="button"
+        accessibilityLabel="Go back"
+      >
+        <Text style={[styles.backButtonText, { color: theme.text }]}>Back to List</Text>
+      </TouchableOpacity>
+
+      <View style={styles.gearDetailHeader}>
+        <ImageWithFallback
+          source={{ uri: gear.image }}
+          style={styles.gearDetailImage}
+          accessibilityLabel={`Photo of ${gear.name}`}
+        />
+        <View style={styles.gearDetailHeaderText}>
+          <View style={[styles.gearCategoryBadge, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.gearCategoryText, { color: theme.secondaryText }]}>
+              {categoryLabels[gear.category] || gear.category}
+            </Text>
+          </View>
+          <Text style={[styles.gearDetailName, { color: theme.text }]} accessibilityRole="header">
+            {gear.name}
+          </Text>
+          <Text style={[styles.gearDetailBrand, { color: theme.secondaryText }]}>{gear.brand}</Text>
+        </View>
+      </View>
+
+      {/* Description */}
+      <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+        <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">About This Gear</Text>
+        <Text style={[styles.bioText, { color: theme.secondaryText }]}>{gear.description}</Text>
+      </View>
+
+      {/* Specs */}
+      {gear.specs && Object.keys(gear.specs).length > 0 && (
+        <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">Specifications</Text>
+          {Object.entries(gear.specs).map(([key, value]) => (
+            <View key={key} style={styles.specRow}>
+              <Text style={[styles.specLabel, { color: theme.text }]}>
+                {key.replace(/([A-Z])/g, ' $1').replace(/^./, str => str.toUpperCase())}
+              </Text>
+              <Text style={[styles.specValue, { color: theme.secondaryText }]}>{value}</Text>
+            </View>
+          ))}
+        </View>
+      )}
+
+      {/* Pricing & Buy Links */}
+      <View style={[styles.section, styles.calculatorSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+        <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">Price & Where to Buy</Text>
+        <View style={styles.gearPriceContainer}>
+          <View style={styles.gearPriceRow}>
+            <Text style={[styles.gearPriceLabel, { color: theme.text }]}>Estimated Price (EUR)</Text>
+            <Text style={[styles.gearPrice, { color: theme.text }]}>{formatPrice(gear.priceEur, 'EUR')}</Text>
+          </View>
+          <View style={styles.gearPriceRow}>
+            <Text style={[styles.gearPriceLabel, { color: theme.text }]}>Estimated Price (USD)</Text>
+            <Text style={[styles.gearPrice, { color: theme.text }]}>{formatPrice(gear.priceUsd, 'USD')}</Text>
+          </View>
+        </View>
+        <View style={styles.buySetupContainer}>
+          <TouchableOpacity
+            onPress={() => handleShopPress(affiliateLinks.sweetwater)}
+            style={[styles.buySetupButton, styles.buySetupButtonUS]}
+            accessibilityRole="link"
+            accessibilityLabel={`Buy ${gear.name} at Sweetwater (US)`}
+          >
+            <Text style={styles.buySetupButtonText}>Buy at Sweetwater (US)</Text>
+          </TouchableOpacity>
+          <TouchableOpacity
+            onPress={() => handleShopPress(affiliateLinks.thomann)}
+            style={[styles.buySetupButton, styles.buySetupButtonEU]}
+            accessibilityRole="link"
+            accessibilityLabel={`Buy ${gear.name} at Thomann (EU)`}
+          >
+            <Text style={styles.buySetupButtonText}>Buy at Thomann (EU)</Text>
+          </TouchableOpacity>
+        </View>
+      </View>
+
+      {/* Which drummers use this gear */}
+      {gear.usedBy && gear.usedBy.length > 0 && (
+        <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">
+            Pro Drummers Who Use This
+          </Text>
+          <Text style={[styles.usedBySubtitle, { color: theme.secondaryText }]}>
+            {gear.usedBy.length} drummer{gear.usedBy.length !== 1 ? 's' : ''} in our database use{gear.usedBy.length === 1 ? 's' : ''} this gear
+          </Text>
+          <View style={styles.usedByContainer}>
+            {gear.usedBy.map((drummer) => (
+              <TouchableOpacity
+                key={drummer.id}
+                onPress={() => onSelectDrummer(drummer.id)}
+                style={[styles.usedByCard, { borderColor: theme.border }]}
+                accessibilityRole="button"
+                accessibilityLabel={`View ${drummer.name}'s gear`}
+              >
+                <ImageWithFallback
+                  source={{ uri: drummer.image }}
+                  style={styles.usedByImage}
+                  accessibilityLabel={`Photo of ${drummer.name}`}
+                />
+                <View style={styles.usedByText}>
+                  <Text style={[styles.usedByName, { color: theme.text }]}>{drummer.name}</Text>
+                  <Text style={[styles.usedByBand, { color: theme.secondaryText }]}>{drummer.band}</Text>
+                </View>
+              </TouchableOpacity>
+            ))}
+          </View>
+        </View>
+      )}
+
+      {/* Related Gear */}
+      {gear.relatedGear && gear.relatedGear.length > 0 && (
+        <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">
+            Related Gear
+          </Text>
+          <View style={styles.relatedGearContainer}>
+            {gear.relatedGear.map((related) => (
+              <TouchableOpacity
+                key={related.id}
+                onPress={() => {
+                  if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                    window.history.pushState({}, '', `/gear/${related.slug}`);
+                    window.dispatchEvent(new PopStateEvent('popstate'));
+                  }
+                }}
+                style={[styles.relatedGearCard, { backgroundColor: theme.background, borderColor: theme.border }]}
+                accessibilityRole="button"
+                accessibilityLabel={`View ${related.name}`}
+              >
+                <ImageWithFallback
+                  source={{ uri: related.image }}
+                  style={styles.relatedGearImage}
+                  accessibilityLabel={`Photo of ${related.name}`}
+                />
+                <Text style={[styles.relatedGearName, { color: theme.text }]} numberOfLines={2}>
+                  {related.name}
+                </Text>
+                <Text style={[styles.relatedGearPrice, { color: theme.secondaryText }]}>
+                  {formatPrice(related.priceEur, 'EUR')}
+                </Text>
+              </TouchableOpacity>
+            ))}
+          </View>
+        </View>
+      )}
+    </ScrollView>
+  );
+}
+
 function AppContent() {
   const { theme, isDarkMode, toggleTheme } = useTheme();
   const [selectedDrummerId, setSelectedDrummerId] = useState(null);
@@ -1131,6 +1404,8 @@ function AppContent() {
   const [loadingDrummers, setLoadingDrummers] = useState(true);
   const [drummersError, setDrummersError] = useState(null);
   const [showCompare, setShowCompare] = useState(() => isComparePage());
+  const [selectedGear, setSelectedGear] = useState(null);
+  const [loadingGear, setLoadingGear] = useState(false);
 
   useEffect(() => {
     const fetchDrummers = async () => {
@@ -1156,18 +1431,60 @@ function AppContent() {
   useEffect(() => {
     if (Platform.OS !== 'web' || typeof window === 'undefined') return;
 
-    const handlePopState = () => {
-      if (isComparePage()) {
+    const handlePopState = async () => {
+      const gearSlug = getGearSlugFromURL();
+      if (gearSlug) {
+        // Load gear page
+        setLoadingGear(true);
+        try {
+          const response = await fetch(`${GEAR_API_URL}/${gearSlug}`);
+          if (response.ok) {
+            const data = await response.json();
+            setSelectedGear(data);
+            setSelectedDrummer(null);
+            setSelectedDrummerId(null);
+            setShowCompare(false);
+          }
+        } catch (err) {
+          console.error('Error fetching gear:', err);
+        } finally {
+          setLoadingGear(false);
+        }
+      } else if (isComparePage()) {
         setShowCompare(true);
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
+        setSelectedGear(null);
       } else {
         setShowCompare(false);
+        setSelectedGear(null);
       }
     };
 
     window.addEventListener('popstate', handlePopState);
     return () => window.removeEventListener('popstate', handlePopState);
+  }, []);
+
+  // Load gear page on initial mount if URL matches
+  useEffect(() => {
+    const loadInitialGear = async () => {
+      const gearSlug = getGearSlugFromURL();
+      if (gearSlug) {
+        setLoadingGear(true);
+        try {
+          const response = await fetch(`${GEAR_API_URL}/${gearSlug}`);
+          if (response.ok) {
+            const data = await response.json();
+            setSelectedGear(data);
+          }
+        } catch (err) {
+          console.error('Error fetching gear:', err);
+        } finally {
+          setLoadingGear(false);
+        }
+      }
+    };
+    loadInitialGear();
   }, []);
 
   const handleSelectDrummer = async (id) => {
@@ -1194,8 +1511,30 @@ function AppContent() {
     setSelectedDrummerId(null);
     setSelectedDrummer(null);
     setShowCompare(false);
+    setSelectedGear(null);
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
       window.history.pushState({}, '', '/');
+    }
+  };
+
+  const handleSelectGear = async (slug) => {
+    setLoadingGear(true);
+    try {
+      const response = await fetch(`${GEAR_API_URL}/${slug}`);
+      if (response.ok) {
+        const data = await response.json();
+        setSelectedGear(data);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setShowCompare(false);
+        if (Platform.OS === 'web' && typeof window !== 'undefined') {
+          window.history.pushState({}, '', `/gear/${slug}`);
+        }
+      }
+    } catch (err) {
+      console.error('Error fetching gear:', err);
+    } finally {
+      setLoadingGear(false);
     }
   };
 
@@ -1208,12 +1547,14 @@ function AppContent() {
     }
   };
 
-  if (loadingDetail) {
+  if (loadingDetail || loadingGear) {
     return (
       <View style={[styles.container, { backgroundColor: theme.background }]}>
         <View style={styles.centerContainer}>
           <ActivityIndicator size="large" color={theme.text} />
-          <Text style={[styles.loadingText, { color: theme.secondaryText }]}>Loading drummer details...</Text>
+          <Text style={[styles.loadingText, { color: theme.secondaryText }]}>
+            {loadingGear ? 'Loading gear details...' : 'Loading drummer details...'}
+          </Text>
         </View>
       </View>
     );
@@ -1221,6 +1562,16 @@ function AppContent() {
 
   // Determine which view to show
   const renderContent = () => {
+    if (selectedGear) {
+      return (
+        <GearDetail
+          gear={selectedGear}
+          theme={theme}
+          onBack={handleBack}
+          onSelectDrummer={handleSelectDrummer}
+        />
+      );
+    }
     if (showCompare) {
       return (
         <CompareView
@@ -1232,7 +1583,7 @@ function AppContent() {
       );
     }
     if (selectedDrummer) {
-      return <DrummerDetail drummer={selectedDrummer} theme={theme} onBack={handleBack} />;
+      return <DrummerDetail drummer={selectedDrummer} theme={theme} onBack={handleBack} onSelectGear={handleSelectGear} />;
     }
     return (
       <View style={styles.mainContent} accessibilityRole="main">
@@ -1250,7 +1601,7 @@ function AppContent() {
 
   return (
     <View style={[styles.container, { backgroundColor: theme.background }]}>
-      {!selectedDrummer && !showCompare && <SEOHead drummers={drummers} />}
+      {!selectedDrummer && !showCompare && !selectedGear && <SEOHead drummers={drummers} />}
       <View style={styles.header} accessibilityRole="banner">
         <Text style={[styles.title, { color: theme.text }]} accessibilityRole="header">
           Metal Drummer Gear
@@ -1935,5 +2286,134 @@ const styles = StyleSheet.create({
     color: '#ffffff',
     fontSize: 13,
     fontWeight: '600',
+  },
+  // Gear detail page styles
+  gearDetailHeader: {
+    flexDirection: 'row',
+    marginBottom: 20,
+    flexWrap: 'wrap',
+  },
+  gearDetailImage: {
+    width: 150,
+    height: 150,
+    borderRadius: 12,
+    marginRight: 20,
+    marginBottom: 10,
+  },
+  gearDetailHeaderText: {
+    flex: 1,
+    minWidth: 200,
+    justifyContent: 'center',
+  },
+  gearCategoryBadge: {
+    paddingVertical: 4,
+    paddingHorizontal: 12,
+    borderRadius: 16,
+    borderWidth: 1,
+    alignSelf: 'flex-start',
+    marginBottom: 8,
+  },
+  gearCategoryText: {
+    fontSize: 12,
+    fontWeight: '600',
+    textTransform: 'uppercase',
+  },
+  gearDetailName: {
+    fontSize: 24,
+    fontWeight: 'bold',
+    marginBottom: 4,
+  },
+  gearDetailBrand: {
+    fontSize: 18,
+    marginBottom: 8,
+  },
+  specRow: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    paddingVertical: 8,
+    borderBottomWidth: 1,
+    borderBottomColor: 'rgba(128, 128, 128, 0.2)',
+  },
+  specLabel: {
+    fontSize: 14,
+    fontWeight: '500',
+    flex: 1,
+  },
+  specValue: {
+    fontSize: 14,
+    flex: 1,
+    textAlign: 'right',
+  },
+  gearPriceContainer: {
+    marginBottom: 16,
+  },
+  gearPriceRow: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    paddingVertical: 8,
+  },
+  gearPriceLabel: {
+    fontSize: 15,
+  },
+  gearPrice: {
+    fontSize: 18,
+    fontWeight: 'bold',
+    fontFamily: Platform.OS === 'ios' ? 'Menlo' : 'monospace',
+  },
+  usedBySubtitle: {
+    fontSize: 14,
+    marginBottom: 16,
+  },
+  usedByContainer: {
+    gap: 12,
+  },
+  usedByCard: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    padding: 12,
+    borderRadius: 8,
+    borderWidth: 1,
+  },
+  usedByImage: {
+    width: 50,
+    height: 50,
+    borderRadius: 25,
+    marginRight: 12,
+  },
+  usedByText: {
+    flex: 1,
+  },
+  usedByName: {
+    fontSize: 16,
+    fontWeight: '600',
+    marginBottom: 2,
+  },
+  usedByBand: {
+    fontSize: 14,
+  },
+  relatedGearContainer: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 12,
+  },
+  relatedGearCard: {
+    width: 150,
+    padding: 12,
+    borderRadius: 8,
+    borderWidth: 1,
+  },
+  relatedGearImage: {
+    width: '100%',
+    height: 100,
+    borderRadius: 6,
+    marginBottom: 8,
+  },
+  relatedGearName: {
+    fontSize: 13,
+    fontWeight: '500',
+    marginBottom: 4,
+  },
+  relatedGearPrice: {
+    fontSize: 12,
   },
 });

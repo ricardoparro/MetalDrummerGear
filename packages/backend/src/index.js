@@ -169,19 +169,20 @@ const drummers = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/8/86/Sepultura_-_2023219214143_2023-08-07_Sepultura_-_Sven_-_1D_X_MK_II_-_0650_-_AK8I2527.jpg',
     bio: 'Eloy Casagrande, born in 1990, is a Brazilian drummer who became Sepultura\'s drummer in 2011 and joined Slipknot in 2024. Known for his explosive speed, technical prowess, and energetic performances, he brought new life to Sepultura\'s sound. His drumming style combines traditional metal with modern technical elements, making him one of the most exciting drummers in contemporary metal.',
     gear: {
-      drums: 'Pearl Reference Pure Shell Pack',
-      snare: 'Pearl Reference 14x5" Steel',
-      cymbals: 'Meinl Byzance Brilliant Series (14" Heavy Hi-Hats, 18" & 19" Heavy Crashes, 21" Heavy Ride, 18" China Brilliant)',
-      hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000 Throne',
-      sticks: 'Vic Firth Eloy Casagrande Signature'
+      drums: 'Tama Starclassic Bubinga',
+      snare: 'Tama Bell Brass 14x6.5"',
+      cymbals: 'Paiste (15" Masters Dark Hi-Hats, 20" Formula 602 Modern Essentials Crash, 20" 2002 Wild Crash, 20" Masters Dark Crash, 20" 2002 Novo China, 20" 2002 Power Ride)',
+      hardware: 'Tama Iron Cobra Power Glide Double Pedal, Tama Road Pro Hardware',
+      sticks: 'Promark (Signature in development)'
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/8/86/Sepultura_-_2023219214143_2023-08-07_Sepultura_-_Sven_-_1D_X_MK_II_-_0650_-_AK8I2527.jpg'
     ],
     endorsements: [
-      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
-      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
+      { name: 'Promark Sticks', url: 'https://www.promark.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ]
   },
   {

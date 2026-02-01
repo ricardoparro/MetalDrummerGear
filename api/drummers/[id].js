@@ -425,7 +425,7 @@ const drummers = [
     videos: [
       { title: 'Tool - Pneuma (Live Drum Cam)', youtubeId: 'FssULNGSZIA', year: 2019 },
       { title: 'Tool - Forty Six & 2 (Live Drum Cam)', youtubeId: 'qJq9y9xPKWs', year: 2019 },
-      { title: 'Tool - Chocolate Chip Trip (Live Drum Solo)', youtubeId: 'Z45VCJfnWZ0', year: 2020 }
+      { title: 'Tool - Cleveland 2002 (Drum Cam)', youtubeId: 'Lawu_5p8Kg4', year: 2002 }
     ]
   },
   {
@@ -483,9 +483,9 @@ const drummers = [
       { name: 'Remo Drumheads', url: 'https://www.remo.com' }
     ],
     videos: [
-      { title: 'Mastodon - Blood and Thunder (Live Drum Cam)', youtubeId: 'Og39wIaLzlQ', year: 2019 },
-      { title: 'Mastodon - Oblivion (Live Drum Cam)', youtubeId: 'hwgqenKiMQw', year: 2018 },
-      { title: 'Mastodon - The Motherload (Drum Playthrough)', youtubeId: 'mLpYJbvwgXg', year: 2017 }
+      { title: 'Mastodon - Blood and Thunder (Meinl Cymbals)', youtubeId: 'q8B4mSW5e88', year: 2012 },
+      { title: 'Mastodon - Steambreather (Drumeo Breakdown)', youtubeId: 'Svz-dGKLeyo', year: 2024 },
+      { title: 'Mastodon - Ghost of Karelia (Meinl Cymbals)', youtubeId: 'HBqyOZdabJA', year: 2020 }
     ]
   },
   {
@@ -515,7 +515,7 @@ const drummers = [
     videos: [
       { title: 'Lamb of God - Laid to Rest (Live Drum Cam)', youtubeId: 'oqdZpxkzNvc', year: 2018 },
       { title: 'Lamb of God - Redneck (Live Drum Cam)', youtubeId: 'HL9kaJZw8iw', year: 2016 },
-      { title: 'Lamb of God - Now You\'ve Got Something to Die For (Drum Playthrough)', youtubeId: '7t2xmGPPw5g', year: 2019 }
+      { title: 'Lamb of God - Blood of the Scribe (Modern Drummer)', youtubeId: 'AInJFYy3yvs', year: 2005 }
     ]
   },
   {
@@ -543,9 +543,9 @@ const drummers = [
       { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ],
     videos: [
-      { title: 'Periphery - Marigold (Live Drum Cam)', youtubeId: 'tUl5Y5GMFM4', year: 2019 },
-      { title: 'Periphery - The Way the News Goes (Drum Playthrough)', youtubeId: 'eLK3xMO1YvY', year: 2017 },
-      { title: 'Periphery - Scarlet (Live Drum Cam)', youtubeId: 'Y8F3B-qCQxk', year: 2020 }
+      { title: 'Periphery - The Bad Thing (Drum Playthrough)', youtubeId: '8dfZo-zmNaU', year: 2019 },
+      { title: 'Periphery - Marigold (Drum Playthrough)', youtubeId: 'DAOcYC2uEJk', year: 2023 },
+      { title: 'Periphery - Dracul Gras (Drum Playthrough)', youtubeId: 'FUk72MwuWrs', year: 2024 }
     ]
   },
   {
@@ -574,8 +574,8 @@ const drummers = [
     ],
     videos: [
       { title: 'Behemoth - Blow Your Trumpets Gabriel (Live Drum Cam)', youtubeId: 'Czx-OIyrQwQ', year: 2018 },
-      { title: 'Behemoth - Ora Pro Nobis Lucifer (Live Drum Cam)', youtubeId: 'NkaslVgXhNw', year: 2019 },
-      { title: 'Behemoth - Bartzabel (Drum Playthrough)', youtubeId: 'MCsoZ_2ROmY', year: 2020 }
+      { title: 'Behemoth - Ora Pro Nobis Lucifer (Brutal Assault 2018)', youtubeId: 'JYQCNgwdMRs', year: 2018 },
+      { title: 'Behemoth - Slaves Shall Serve (Drum Cam)', youtubeId: 'FM5tn8Yy10o', year: 2019 }
     ]
   },
   {
@@ -603,9 +603,9 @@ const drummers = [
       { name: 'Remo Drumheads', url: 'https://www.remo.com' }
     ],
     videos: [
-      { title: 'Mayhem - Freezing Moon (Live Drum Cam)', youtubeId: 'XdV4b1rI4rY', year: 2017 },
-      { title: 'Mayhem - Chainsaw Gutsfuck (Live Drum Cam)', youtubeId: 'bZyvI73vDJs', year: 2018 },
-      { title: 'Mayhem - Pagan Fears (Live Drum Cam)', youtubeId: 'zT2T69bxWH4', year: 2019 }
+      { title: 'Mayhem - Hellhammer Drumcam 2015', youtubeId: '60sr-ttok58', year: 2015 },
+      { title: 'Mayhem - Chainsaw Gutsfuck (Drum Cam)', youtubeId: 'r9PJgQn4SWs', year: 2019 },
+      { title: 'Hellhammer Sound Check 2024', youtubeId: 'm0-G6QOwEug', year: 2024 }
     ]
   },
   {
@@ -633,9 +633,9 @@ const drummers = [
       { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ],
     videos: [
-      { title: 'Morbid Angel - Immortal Rites (Live Drum Cam)', youtubeId: 'QoNbazpnRH4', year: 2017 },
-      { title: 'Morbid Angel - Chapel of Ghouls (Live Drum Cam)', youtubeId: 'O2G7JW6lBz8', year: 2018 },
-      { title: 'Morbid Angel - Maze of Torment (Drum Playthrough)', youtubeId: 'fT_UqTtpZKE', year: 2016 }
+      { title: 'Morbid Angel - Fall from Grace (Drum Cam)', youtubeId: 'HYsMxbzqkZY', year: 2023 },
+      { title: 'Terrorizer - Human Prey (Brutal Assault 2024)', youtubeId: 'JEXGerT8hUs', year: 2024 },
+      { title: 'Morbid Angel - World of Shit (Drum Cam)', youtubeId: 'JWFrrVetdoc', year: 2019 }
     ]
   }
 ];

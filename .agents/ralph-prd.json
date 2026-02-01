@@ -2,7 +2,7 @@
   "project": "MetalForge Data Quality",
   "created": "2026-02-01",
   "maxIterationsPerRun": 20,
-  "lastRun": "2026-02-01T23:05Z",
+  "lastRun": "2026-02-01T23:08Z",
   "tasks": [
     {
       "id": 1,
@@ -193,7 +193,9 @@
       "type": "verify-gear",
       "drummer": "Pete Sandoval",
       "priority": "low",
-      "status": "pending"
+      "notes": "ddrum/Sabian/Ahead setup matches I Am Morbid era endorsements. Research file had Pearl/Paiste for earlier career.",
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 22,
@@ -370,133 +372,152 @@
       "type": "verify-video",
       "youtubeId": "J9W1CxQmTxI",
       "drummer": "Eloy Casagrande",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 44,
       "type": "verify-video",
       "youtubeId": "Vp6_NMOzPNw",
       "drummer": "Ray Luzier",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 45,
       "type": "verify-video",
       "youtubeId": "xjYHh1D_8Po",
       "drummer": "Ray Luzier",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 46,
       "type": "verify-video",
       "youtubeId": "g2k0PpRw2f4",
       "drummer": "Ray Luzier",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 47,
       "type": "verify-video",
       "youtubeId": "pmyWqwaGNbg",
       "drummer": "John Otto",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 48,
       "type": "verify-video",
       "youtubeId": "3tWvneQTgRU",
       "drummer": "John Otto",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 49,
       "type": "verify-video",
       "youtubeId": "wTm9KLDxc9k",
       "drummer": "John Otto",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 50,
       "type": "verify-video",
       "youtubeId": "hfXUQuQV-4o",
       "drummer": "Jay Weinberg",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 51,
       "type": "verify-video",
       "youtubeId": "sTs1uxjHDzA",
       "drummer": "Jay Weinberg",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 52,
       "type": "verify-video",
       "youtubeId": "bQBUGf9dM1w",
       "drummer": "Jay Weinberg",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 53,
       "type": "verify-video",
       "youtubeId": "J9FD8_kRVEc",
       "drummer": "Vinnie Paul",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 54,
       "type": "verify-video",
       "youtubeId": "E4LVFVzgxFo",
       "drummer": "Vinnie Paul",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 55,
       "type": "verify-video",
       "youtubeId": "ET8IEfaTDhM",
       "drummer": "Vinnie Paul",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 56,
       "type": "verify-video",
       "youtubeId": "OR6rUpbFOk0",
       "drummer": "Charlie Benante",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 57,
       "type": "verify-video",
       "youtubeId": "Fnn86OK1ZPo",
       "drummer": "Charlie Benante",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 58,
       "type": "verify-video",
       "youtubeId": "he7QfNFRdv0",
       "drummer": "Charlie Benante",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 59,
       "type": "verify-video",
       "youtubeId": "XFo8UgrUkNA",
       "drummer": "Mike Portnoy",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 60,
       "type": "verify-video",
       "youtubeId": "oa7oOdYPOSk",
       "drummer": "Mike Portnoy",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 61,
       "type": "verify-video",
       "youtubeId": "eUYi4GwN9sg",
       "drummer": "Mike Portnoy",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 62,

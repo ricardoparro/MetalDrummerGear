@@ -70,20 +70,20 @@ const drummers = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/6/60/Gene_Hoglan_-_Testament_%28cropped%29.jpg',
     bio: 'Gene Hoglan, nicknamed "The Atomic Clock" for his precise timing, is one of the most respected drummers in extreme metal. Born in 1967, he has played with Death, Dark Angel, Testament, Strapping Young Lad, Fear Factory, and Dethklok. His combination of speed, power, and musicality has influenced countless metal drummers.',
     gear: {
-      drums: 'Pearl Reference Series',
-      snare: 'Pearl Reference 14x6.5" Steel',
-      cymbals: 'Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China)',
-      hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000 Throne',
-      sticks: 'ProMark 5B Wood Tip'
+      drums: 'Tama Starclassic Walnut/Birch',
+      snare: 'Tama S.L.P. 14x6.5" G-Bubinga',
+      cymbals: 'Zildjian A Custom Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China)',
+      hardware: 'Tama Iron Cobra 900 Double Pedal, Tama 1st Chair Throne',
+      sticks: 'Vic Firth American Classic 5B'
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/6/60/Gene_Hoglan_-_Testament_%28cropped%29.jpg'
     ],
     endorsements: [
-      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
-      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
-      { name: 'ProMark Sticks', url: 'https://www.daddario.com/promark' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Remo Drumheads', url: 'https://remo.com' }
     ],
     videos: [
       { title: 'The Philosopher (Death) - Official Playthrough', youtubeId: 'eGope68pHf0', year: 2016 },
@@ -100,20 +100,20 @@ const drummers = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/d/df/Dave_Lombardo_8.5.14.jpeg',
     bio: 'Dave Lombardo, born in Cuba in 1965, is widely regarded as one of the greatest drummers in metal history. As the original drummer of Slayer, he pioneered the double bass drumming style that defined thrash metal. His work on albums like "Reign in Blood" is considered groundbreaking. He has also played with Fantomas, Suicidal Tendencies, and Dead Cross.',
     gear: {
-      drums: 'Tama Starclassic Maple',
-      snare: 'Tama Bell Brass 14x6.5"',
+      drums: 'Pearl Reference Series',
+      snare: 'Pearl Reference 14x6.5" Brass',
       cymbals: 'Paiste RUDE & 2002 Series (14" Hi-Hats, 18" & 19" Crashes, 20" Power Ride, 18" China)',
-      hardware: 'Tama Iron Cobra Double Pedal, Tama 1st Chair Throne',
-      sticks: 'ProMark 5B Wood Tip'
+      hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000 Throne',
+      sticks: 'Vic Firth American Classic 5B'
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/d/df/Dave_Lombardo_8.5.14.jpeg'
     ],
     endorsements: [
-      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
       { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
-      { name: 'ProMark Sticks', url: 'https://www.daddario.com/promark' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Remo Drumheads', url: 'https://remo.com' }
     ],
     videos: [
       { title: 'War Ensemble - Drum Cam (Yankee Stadium, Official)', youtubeId: '3ivOfkqFmxg', year: 2010 },
@@ -190,19 +190,19 @@ const drummers = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/8/86/Sepultura_-_2023219214143_2023-08-07_Sepultura_-_Sven_-_1D_X_MK_II_-_0650_-_AK8I2527.jpg',
     bio: 'Eloy Casagrande, born in 1990, is a Brazilian drummer who became Sepultura\'s drummer in 2011 and joined Slipknot in 2024. Known for his explosive speed, technical prowess, and energetic performances, he brought new life to Sepultura\'s sound. His drumming style combines traditional metal with modern technical elements, making him one of the most exciting drummers in contemporary metal.',
     gear: {
-      drums: 'Tama Starclassic Bubinga',
-      snare: 'Tama Starclassic 14x6.5"',
+      drums: 'Yamaha PHX Series',
+      snare: 'Yamaha PHX 14x6.5"',
       cymbals: 'Paiste Formula 602 & 2002 Series (15" Modern Essentials Hi-Hats, 20" Wild Crash, 20" Power Ride, 20" Novo China)',
-      hardware: 'Tama Iron Cobra 900 Double Pedal, Tama 1st Chair Throne',
-      sticks: 'ProMark Eloy Casagrande Signature'
+      hardware: 'Yamaha FP-9 Double Pedal, Yamaha DS950 Throne',
+      sticks: 'Vic Firth Eloy Casagrande Signature'
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/8/86/Sepultura_-_2023219214143_2023-08-07_Sepultura_-_Sven_-_1D_X_MK_II_-_0650_-_AK8I2527.jpg'
     ],
     endorsements: [
-      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Yamaha Drums', url: 'https://usa.yamaha.com/products/musical_instruments/drums/' },
       { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
-      { name: 'ProMark Sticks', url: 'https://www.daddario.com/promark' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
       { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ],
     videos: [

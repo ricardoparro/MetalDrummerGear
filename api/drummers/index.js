@@ -70,20 +70,20 @@ const drummers = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/6/60/Gene_Hoglan_-_Testament_%28cropped%29.jpg',
     bio: 'Gene Hoglan, nicknamed "The Atomic Clock" for his precise timing, is one of the most respected drummers in extreme metal. Born in 1967, he has played with Death, Dark Angel, Testament, Strapping Young Lad, Fear Factory, and Dethklok. His combination of speed, power, and musicality has influenced countless metal drummers.',
     gear: {
-      drums: 'Pearl Reference Series',
-      snare: 'Pearl Reference 14x6.5" Steel',
-      cymbals: 'Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China)',
-      hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000 Throne',
-      sticks: 'ProMark 5B Wood Tip'
+      drums: 'Tama Starclassic Walnut/Birch',
+      snare: 'Tama S.L.P. 14x6.5" G-Bubinga',
+      cymbals: 'Zildjian A Custom Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China)',
+      hardware: 'Tama Iron Cobra 900 Double Pedal, Tama 1st Chair Throne',
+      sticks: 'Vic Firth American Classic 5B'
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/6/60/Gene_Hoglan_-_Testament_%28cropped%29.jpg'
     ],
     endorsements: [
-      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
-      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
-      { name: 'ProMark Sticks', url: 'https://www.daddario.com/promark' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Remo Drumheads', url: 'https://remo.com' }
     ],
     videos: [
       { title: 'The Philosopher (Death) - Official Playthrough', youtubeId: 'eGope68pHf0', year: 2016 },
@@ -100,20 +100,20 @@ const drummers = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/d/df/Dave_Lombardo_8.5.14.jpeg',
     bio: 'Dave Lombardo, born in Cuba in 1965, is widely regarded as one of the greatest drummers in metal history. As the original drummer of Slayer, he pioneered the double bass drumming style that defined thrash metal. His work on albums like "Reign in Blood" is considered groundbreaking. He has also played with Fantomas, Suicidal Tendencies, and Dead Cross.',
     gear: {
-      drums: 'Tama Starclassic Maple',
-      snare: 'Tama Bell Brass 14x6.5"',
+      drums: 'Pearl Reference Series',
+      snare: 'Pearl Reference 14x6.5" Brass',
       cymbals: 'Paiste RUDE & 2002 Series (14" Hi-Hats, 18" & 19" Crashes, 20" Power Ride, 18" China)',
-      hardware: 'Tama Iron Cobra Double Pedal, Tama 1st Chair Throne',
-      sticks: 'ProMark 5B Wood Tip'
+      hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000 Throne',
+      sticks: 'Vic Firth American Classic 5B'
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/d/df/Dave_Lombardo_8.5.14.jpeg'
     ],
     endorsements: [
-      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
       { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
-      { name: 'ProMark Sticks', url: 'https://www.daddario.com/promark' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Remo Drumheads', url: 'https://remo.com' }
     ],
     videos: [
       { title: 'War Ensemble - Drum Cam (Yankee Stadium, Official)', youtubeId: '3ivOfkqFmxg', year: 2010 },
@@ -190,19 +190,19 @@ const drummers = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/8/86/Sepultura_-_2023219214143_2023-08-07_Sepultura_-_Sven_-_1D_X_MK_II_-_0650_-_AK8I2527.jpg',
     bio: 'Eloy Casagrande, born in 1990, is a Brazilian drummer who became Sepultura\'s drummer in 2011 and joined Slipknot in 2024. Known for his explosive speed, technical prowess, and energetic performances, he brought new life to Sepultura\'s sound. His drumming style combines traditional metal with modern technical elements, making him one of the most exciting drummers in contemporary metal.',
     gear: {
-      drums: 'Tama Starclassic Bubinga',
-      snare: 'Tama Starclassic 14x6.5"',
+      drums: 'Yamaha PHX Series',
+      snare: 'Yamaha PHX 14x6.5"',
       cymbals: 'Paiste Formula 602 & 2002 Series (15" Modern Essentials Hi-Hats, 20" Wild Crash, 20" Power Ride, 20" Novo China)',
-      hardware: 'Tama Iron Cobra 900 Double Pedal, Tama 1st Chair Throne',
-      sticks: 'ProMark Eloy Casagrande Signature'
+      hardware: 'Yamaha FP-9 Double Pedal, Yamaha DS950 Throne',
+      sticks: 'Vic Firth Eloy Casagrande Signature'
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/8/86/Sepultura_-_2023219214143_2023-08-07_Sepultura_-_Sven_-_1D_X_MK_II_-_0650_-_AK8I2527.jpg'
     ],
     endorsements: [
-      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Yamaha Drums', url: 'https://usa.yamaha.com/products/musical_instruments/drums/' },
       { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
-      { name: 'ProMark Sticks', url: 'https://www.daddario.com/promark' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
       { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ],
     videos: [
@@ -467,18 +467,18 @@ const drummers = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/0/06/Brann_Dailor_2015.jpg',
     bio: 'Brann Dailor, born in 1975 in Rochester, New York, is the drummer and vocalist for progressive sludge metal band Mastodon. His drumming style is characterized by complex fills, jazz-influenced patterns, and an almost melodic approach to the drums that sets him apart from traditional metal drummers. Dailor\'s work on albums like "Leviathan," "Blood Mountain," and "Crack the Skye" has earned him widespread acclaim. He began singing lead vocals on Mastodon\'s later albums, adding another dimension to the band\'s sound. His technical proficiency combined with his musical creativity has made him one of the most influential drummers in modern metal.',
     gear: {
-      drums: 'DW Collector\'s Series Maple',
-      snare: 'DW Collector\'s Series 14x6.5" Brass',
-      cymbals: 'Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Raw Bell Dry Ride, 18" Chinese)',
-      hardware: 'DW 9000 Series Double Pedal, DW 9100 Throne',
+      drums: 'Tama Starclassic Walnut/Birch',
+      snare: 'Tama S.L.P. 14x6.5" G-Maple',
+      cymbals: 'Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant Heavy Hammered Crashes, 21" Transition Ride, 18" Extra Dry China)',
+      hardware: 'Tama Iron Cobra 900 Double Pedal, Tama 1st Chair Throne',
       sticks: 'Vater Brann Dailor Signature'
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/0/06/Brann_Dailor_2015.jpg'
     ],
     endorsements: [
-      { name: 'DW Drums', url: 'https://www.dwdrums.com' },
-      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
       { name: 'Vater Drumsticks', url: 'https://www.vater.com' },
       { name: 'Remo Drumheads', url: 'https://www.remo.com' }
     ],
@@ -527,19 +527,19 @@ const drummers = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/3/35/Periphery-Matt_Halpern-4893_%28cropped%29.jpg',
     bio: 'Matt Halpern, born in 1984, is the drummer for progressive metal band Periphery and one of the most influential figures in the djent movement. His drumming combines polyrhythmic complexity with electronic elements and modern production techniques. Halpern\'s ability to navigate complex time signatures while maintaining groove has made him a role model for a new generation of progressive metal drummers. He is also an accomplished drum educator, sharing his knowledge through clinics and online platforms.',
     gear: {
-      drums: 'Mapex Saturn V MH Exotic',
-      snare: 'Mapex Black Panther Sledgehammer 14x6.5"',
+      drums: 'Pearl Reference Series',
+      snare: 'Pearl Reference 14x6.5" Brass',
       cymbals: 'Meinl Byzance Series (15" Dark Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Transition Ride, 18" Extra Dry China)',
-      hardware: 'Mapex Falcon Double Pedal, Mapex T865 Throne',
-      sticks: 'Vic Firth Matt Halpern Signature'
+      hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000 Throne',
+      sticks: 'Promark Matt Halpern Signature'
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/3/35/Periphery-Matt_Halpern-4893_%28cropped%29.jpg'
     ],
     endorsements: [
-      { name: 'Mapex Drums', url: 'https://www.mapexdrums.com' },
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
       { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'ProMark Sticks', url: 'https://www.daddario.com/promark' },
       { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ],
     videos: [
@@ -587,17 +587,17 @@ const drummers = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/8/8c/Jan_Axel_Blomberg_2012.jpg',
     bio: 'Jan Axel Blomberg, known as Hellhammer, born in 1969, is a Norwegian drummer best known for his work with black metal pioneers Mayhem. He joined Mayhem in 1988 and has been a constant presence through the band\'s turbulent history. Hellhammer is credited with helping define the black metal drumming style, characterized by fast blast beats and raw, aggressive playing. Beyond Mayhem, he has played with numerous projects including Arcturus, Dimmu Borgir, and Shining. His influence on extreme metal drumming is immeasurable.',
     gear: {
-      drums: 'Pearl Masters Premium',
-      snare: 'Pearl Sensitone 14x5.5" Steel',
+      drums: 'Sonor SQ2 Heavy Beech',
+      snare: 'Sonor SQ2 14x5.5" Maple',
       cymbals: 'Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 20" Dark Ride, 18" Dark China)',
-      hardware: 'Pearl Eliminator Double Pedal, Pearl D-1500 Throne',
+      hardware: 'Sonor Giant Step Double Pedal, Sonor Drummer Throne',
       sticks: 'Vic Firth American Classic 5B'
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/8/8c/Jan_Axel_Blomberg_2012.jpg'
     ],
     endorsements: [
-      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Sonor Drums', url: 'https://www.sonor.com' },
       { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
       { name: 'Remo Drumheads', url: 'https://www.remo.com' }

@@ -1,0 +1,608 @@
+{
+  "project": "MetalForge Data Quality",
+  "created": "2026-02-01",
+  "maxIterationsPerRun": 20,
+  "tasks": [
+    {
+      "id": 1,
+      "type": "verify-gear",
+      "drummer": "Eloy Casagrande",
+      "priority": "critical",
+      "notes": "Recently joined Slipknot - likely switched to Pearl",
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "type": "verify-gear",
+      "drummer": "Jay Weinberg",
+      "priority": "critical",
+      "notes": "Left Slipknot - endorsements may have changed",
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "type": "verify-gear",
+      "drummer": "John Otto",
+      "priority": "critical",
+      "notes": "Stick brand incorrect - verify actual brand",
+      "status": "pending"
+    },
+    {
+      "id": 4,
+      "type": "verify-gear",
+      "drummer": "Lars Ulrich",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "id": 5,
+      "type": "verify-gear",
+      "drummer": "Joey Jordison",
+      "priority": "high",
+      "notes": "Deceased 2021 - verify last known gear",
+      "status": "pending"
+    },
+    {
+      "id": 6,
+      "type": "verify-gear",
+      "drummer": "Gene Hoglan",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "id": 7,
+      "type": "verify-gear",
+      "drummer": "Dave Lombardo",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "id": 8,
+      "type": "verify-gear",
+      "drummer": "Tomas Haake",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "id": 9,
+      "type": "verify-gear",
+      "drummer": "George Kollias",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "id": 10,
+      "type": "verify-gear",
+      "drummer": "Ray Luzier",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "id": 11,
+      "type": "verify-gear",
+      "drummer": "Vinnie Paul",
+      "priority": "medium",
+      "notes": "Deceased 2018 - verify last known gear",
+      "status": "pending"
+    },
+    {
+      "id": 12,
+      "type": "verify-gear",
+      "drummer": "Charlie Benante",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "id": 13,
+      "type": "verify-gear",
+      "drummer": "Mike Portnoy",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "id": 14,
+      "type": "verify-gear",
+      "drummer": "Danny Carey",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "id": 15,
+      "type": "verify-gear",
+      "drummer": "Mario Duplantier",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "id": 16,
+      "type": "verify-gear",
+      "drummer": "Brann Dailor",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "id": 17,
+      "type": "verify-gear",
+      "drummer": "Chris Adler",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "id": 18,
+      "type": "verify-gear",
+      "drummer": "Matt Halpern",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "id": 19,
+      "type": "verify-gear",
+      "drummer": "Inferno",
+      "priority": "low",
+      "status": "pending"
+    },
+    {
+      "id": 20,
+      "type": "verify-gear",
+      "drummer": "Hellhammer",
+      "priority": "low",
+      "status": "pending"
+    },
+    {
+      "id": 21,
+      "type": "verify-gear",
+      "drummer": "Pete Sandoval",
+      "priority": "low",
+      "status": "pending"
+    },
+    {
+      "id": 22,
+      "type": "verify-video",
+      "youtubeId": "7t2xmGPPw5g",
+      "drummer": "Chris Adler",
+      "title": "Now You've Got Something to Die For",
+      "priority": "critical",
+      "notes": "Confirmed 404",
+      "status": "pending"
+    },
+    {
+      "id": 23,
+      "type": "verify-video",
+      "youtubeId": "A96QtqEpqUA",
+      "drummer": "Lars Ulrich",
+      "status": "pending"
+    },
+    {
+      "id": 24,
+      "type": "verify-video",
+      "youtubeId": "Z_qLd2uj21w",
+      "drummer": "Lars Ulrich",
+      "status": "pending"
+    },
+    {
+      "id": 25,
+      "type": "verify-video",
+      "youtubeId": "t0cDBuEOdIA",
+      "drummer": "Lars Ulrich",
+      "status": "pending"
+    },
+    {
+      "id": 26,
+      "type": "verify-video",
+      "youtubeId": "tUibKh0Z--c",
+      "drummer": "Joey Jordison",
+      "status": "pending"
+    },
+    {
+      "id": 27,
+      "type": "verify-video",
+      "youtubeId": "zRS9uKs3Rlk",
+      "drummer": "Joey Jordison",
+      "status": "pending"
+    },
+    {
+      "id": 28,
+      "type": "verify-video",
+      "youtubeId": "RdXMcj7xv20",
+      "drummer": "Joey Jordison",
+      "status": "pending"
+    },
+    {
+      "id": 29,
+      "type": "verify-video",
+      "youtubeId": "eGope68pHf0",
+      "drummer": "Gene Hoglan",
+      "status": "pending"
+    },
+    {
+      "id": 30,
+      "type": "verify-video",
+      "youtubeId": "-eaIvh6ELVg",
+      "drummer": "Gene Hoglan",
+      "status": "pending"
+    },
+    {
+      "id": 31,
+      "type": "verify-video",
+      "youtubeId": "wagKFfcbP5s",
+      "drummer": "Gene Hoglan",
+      "status": "pending"
+    },
+    {
+      "id": 32,
+      "type": "verify-video",
+      "youtubeId": "3ivOfkqFmxg",
+      "drummer": "Dave Lombardo",
+      "status": "pending"
+    },
+    {
+      "id": 33,
+      "type": "verify-video",
+      "youtubeId": "ManyDSIC8fQ",
+      "drummer": "Dave Lombardo",
+      "status": "pending"
+    },
+    {
+      "id": 34,
+      "type": "verify-video",
+      "youtubeId": "3kBCky31sTg",
+      "drummer": "Dave Lombardo",
+      "status": "pending"
+    },
+    {
+      "id": 35,
+      "type": "verify-video",
+      "youtubeId": "bAJ1WTGNISk",
+      "drummer": "Tomas Haake",
+      "status": "pending"
+    },
+    {
+      "id": 36,
+      "type": "verify-video",
+      "youtubeId": "axGn6qeJHcM",
+      "drummer": "Tomas Haake",
+      "status": "pending"
+    },
+    {
+      "id": 37,
+      "type": "verify-video",
+      "youtubeId": "kMo5VxRrgcY",
+      "drummer": "Tomas Haake",
+      "status": "pending"
+    },
+    {
+      "id": 38,
+      "type": "verify-video",
+      "youtubeId": "RqzZmNqdWck",
+      "drummer": "George Kollias",
+      "status": "pending"
+    },
+    {
+      "id": 39,
+      "type": "verify-video",
+      "youtubeId": "86YtBw5gmAM",
+      "drummer": "George Kollias",
+      "status": "pending"
+    },
+    {
+      "id": 40,
+      "type": "verify-video",
+      "youtubeId": "dU-JXLRqjiE",
+      "drummer": "George Kollias",
+      "status": "pending"
+    },
+    {
+      "id": 41,
+      "type": "verify-video",
+      "youtubeId": "1ktbtG-zD8Y",
+      "drummer": "Eloy Casagrande",
+      "status": "pending"
+    },
+    {
+      "id": 42,
+      "type": "verify-video",
+      "youtubeId": "dQe3EwkPcFU",
+      "drummer": "Eloy Casagrande",
+      "status": "pending"
+    },
+    {
+      "id": 43,
+      "type": "verify-video",
+      "youtubeId": "J9W1CxQmTxI",
+      "drummer": "Eloy Casagrande",
+      "status": "pending"
+    },
+    {
+      "id": 44,
+      "type": "verify-video",
+      "youtubeId": "Vp6_NMOzPNw",
+      "drummer": "Ray Luzier",
+      "status": "pending"
+    },
+    {
+      "id": 45,
+      "type": "verify-video",
+      "youtubeId": "xjYHh1D_8Po",
+      "drummer": "Ray Luzier",
+      "status": "pending"
+    },
+    {
+      "id": 46,
+      "type": "verify-video",
+      "youtubeId": "g2k0PpRw2f4",
+      "drummer": "Ray Luzier",
+      "status": "pending"
+    },
+    {
+      "id": 47,
+      "type": "verify-video",
+      "youtubeId": "pmyWqwaGNbg",
+      "drummer": "John Otto",
+      "status": "pending"
+    },
+    {
+      "id": 48,
+      "type": "verify-video",
+      "youtubeId": "3tWvneQTgRU",
+      "drummer": "John Otto",
+      "status": "pending"
+    },
+    {
+      "id": 49,
+      "type": "verify-video",
+      "youtubeId": "wTm9KLDxc9k",
+      "drummer": "John Otto",
+      "status": "pending"
+    },
+    {
+      "id": 50,
+      "type": "verify-video",
+      "youtubeId": "hfXUQuQV-4o",
+      "drummer": "Jay Weinberg",
+      "status": "pending"
+    },
+    {
+      "id": 51,
+      "type": "verify-video",
+      "youtubeId": "sTs1uxjHDzA",
+      "drummer": "Jay Weinberg",
+      "status": "pending"
+    },
+    {
+      "id": 52,
+      "type": "verify-video",
+      "youtubeId": "bQBUGf9dM1w",
+      "drummer": "Jay Weinberg",
+      "status": "pending"
+    },
+    {
+      "id": 53,
+      "type": "verify-video",
+      "youtubeId": "J9FD8_kRVEc",
+      "drummer": "Vinnie Paul",
+      "status": "pending"
+    },
+    {
+      "id": 54,
+      "type": "verify-video",
+      "youtubeId": "E4LVFVzgxFo",
+      "drummer": "Vinnie Paul",
+      "status": "pending"
+    },
+    {
+      "id": 55,
+      "type": "verify-video",
+      "youtubeId": "ET8IEfaTDhM",
+      "drummer": "Vinnie Paul",
+      "status": "pending"
+    },
+    {
+      "id": 56,
+      "type": "verify-video",
+      "youtubeId": "OR6rUpbFOk0",
+      "drummer": "Charlie Benante",
+      "status": "pending"
+    },
+    {
+      "id": 57,
+      "type": "verify-video",
+      "youtubeId": "Fnn86OK1ZPo",
+      "drummer": "Charlie Benante",
+      "status": "pending"
+    },
+    {
+      "id": 58,
+      "type": "verify-video",
+      "youtubeId": "he7QfNFRdv0",
+      "drummer": "Charlie Benante",
+      "status": "pending"
+    },
+    {
+      "id": 59,
+      "type": "verify-video",
+      "youtubeId": "XFo8UgrUkNA",
+      "drummer": "Mike Portnoy",
+      "status": "pending"
+    },
+    {
+      "id": 60,
+      "type": "verify-video",
+      "youtubeId": "oa7oOdYPOSk",
+      "drummer": "Mike Portnoy",
+      "status": "pending"
+    },
+    {
+      "id": 61,
+      "type": "verify-video",
+      "youtubeId": "eUYi4GwN9sg",
+      "drummer": "Mike Portnoy",
+      "status": "pending"
+    },
+    {
+      "id": 62,
+      "type": "verify-video",
+      "youtubeId": "FssULNGSZIA",
+      "drummer": "Danny Carey",
+      "status": "pending"
+    },
+    {
+      "id": 63,
+      "type": "verify-video",
+      "youtubeId": "qJq9y9xPKWs",
+      "drummer": "Danny Carey",
+      "status": "pending"
+    },
+    {
+      "id": 64,
+      "type": "verify-video",
+      "youtubeId": "Z45VCJfnWZ0",
+      "drummer": "Danny Carey",
+      "status": "pending"
+    },
+    {
+      "id": 65,
+      "type": "verify-video",
+      "youtubeId": "BGHlZwMYO9g",
+      "drummer": "Mario Duplantier",
+      "status": "pending"
+    },
+    {
+      "id": 66,
+      "type": "verify-video",
+      "youtubeId": "FNdC_3LR2AI",
+      "drummer": "Mario Duplantier",
+      "status": "pending"
+    },
+    {
+      "id": 67,
+      "type": "verify-video",
+      "youtubeId": "iqrMFNMgVS0",
+      "drummer": "Mario Duplantier",
+      "status": "pending"
+    },
+    {
+      "id": 68,
+      "type": "verify-video",
+      "youtubeId": "Og39wIaLzlQ",
+      "drummer": "Brann Dailor",
+      "status": "pending"
+    },
+    {
+      "id": 69,
+      "type": "verify-video",
+      "youtubeId": "hwgqenKiMQw",
+      "drummer": "Brann Dailor",
+      "status": "pending"
+    },
+    {
+      "id": 70,
+      "type": "verify-video",
+      "youtubeId": "mLpYJbvwgXg",
+      "drummer": "Brann Dailor",
+      "status": "pending"
+    },
+    {
+      "id": 71,
+      "type": "verify-video",
+      "youtubeId": "oqdZpxkzNvc",
+      "drummer": "Chris Adler",
+      "status": "pending"
+    },
+    {
+      "id": 72,
+      "type": "verify-video",
+      "youtubeId": "HL9kaJZw8iw",
+      "drummer": "Chris Adler",
+      "status": "pending"
+    },
+    {
+      "id": 73,
+      "type": "verify-video",
+      "youtubeId": "tUl5Y5GMFM4",
+      "drummer": "Matt Halpern",
+      "status": "pending"
+    },
+    {
+      "id": 74,
+      "type": "verify-video",
+      "youtubeId": "eLK3xMO1YvY",
+      "drummer": "Matt Halpern",
+      "status": "pending"
+    },
+    {
+      "id": 75,
+      "type": "verify-video",
+      "youtubeId": "Y8F3B-qCQxk",
+      "drummer": "Matt Halpern",
+      "status": "pending"
+    },
+    {
+      "id": 76,
+      "type": "verify-video",
+      "youtubeId": "Czx-OIyrQwQ",
+      "drummer": "Inferno",
+      "status": "pending"
+    },
+    {
+      "id": 77,
+      "type": "verify-video",
+      "youtubeId": "NkaslVgXhNw",
+      "drummer": "Inferno",
+      "status": "pending"
+    },
+    {
+      "id": 78,
+      "type": "verify-video",
+      "youtubeId": "MCsoZ_2ROmY",
+      "drummer": "Inferno",
+      "status": "pending"
+    },
+    {
+      "id": 79,
+      "type": "verify-video",
+      "youtubeId": "XdV4b1rI4rY",
+      "drummer": "Hellhammer",
+      "status": "pending"
+    },
+    {
+      "id": 80,
+      "type": "verify-video",
+      "youtubeId": "bZyvI73vDJs",
+      "drummer": "Hellhammer",
+      "status": "pending"
+    },
+    {
+      "id": 81,
+      "type": "verify-video",
+      "youtubeId": "zT2T69bxWH4",
+      "drummer": "Hellhammer",
+      "status": "pending"
+    },
+    {
+      "id": 82,
+      "type": "verify-video",
+      "youtubeId": "QoNbazpnRH4",
+      "drummer": "Pete Sandoval",
+      "status": "pending"
+    },
+    {
+      "id": 83,
+      "type": "verify-video",
+      "youtubeId": "O2G7JW6lBz8",
+      "drummer": "Pete Sandoval",
+      "status": "pending"
+    },
+    {
+      "id": 84,
+      "type": "verify-video",
+      "youtubeId": "fT_UqTtpZKE",
+      "drummer": "Pete Sandoval",
+      "status": "pending"
+    }
+  ],
+  "instructions": {
+    "verify-gear": "1. Search official brand pages (SOURCES.md) for drummer. 2. Cross-check with Tier 2 sources. 3. Update gear in api/drummers/index.js and [id].js if wrong. 4. Mark verified:true with sources array. 5. Update status to 'done'.",
+    "verify-video": "1. Check if video exists: curl -s -o /dev/null -w '%{http_code}' 'https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=VIDEO_ID&format=json'. 2. If 404: find replacement video. 3. Update api/drummers files. 4. Mark status 'done' or 'needs-replacement'."
+  },
+  "relatedIssues": ["#62", "#63"]
+}

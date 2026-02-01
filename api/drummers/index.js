@@ -12,11 +12,12 @@ const drummers = [
     gear: {
       drums: 'Tama Starclassic Maple',
       snare: 'Tama LU1465 Lars Ulrich Signature 14x6.5"',
-      cymbals: 'Zildjian A Custom Series (14" Hi-Hats, 16", 17" & 18" Rock Crashes, 20" China, 22" Ride)',
+      cymbals: 'Zildjian A Custom Series (14" Dyno Beat Hi-Hats, 16", 17" & 18" Rock Crashes, 20" Z Custom China, 22" Ride)',
       hardware: 'Tama Iron Cobra 900 Power Glide Double Pedal, Tama 1st Chair Throne',
       sticks: 'Ahead Lars Ulrich Signature Drumsticks',
+      heads: 'Remo',
       verified: true,
-      sources: ['https://www.tama.com/usa/artists/detail/98.html', 'https://zildjian.com']
+      sources: ['https://www.tama.com/usa/artists/detail/98.html', 'https://zildjian.com/artists', 'https://aheaddrumsticks.com/artists/']
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/7/79/Lars_Ulrich_by_Gage_Skidmore_%28cropped%29.jpg'
@@ -42,11 +43,12 @@ const drummers = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/b/b4/JoeyJordison.jpg',
     bio: 'Joey Jordison (1975-2021) was an American musician best known as the original drummer of Slipknot. His blistering speed, technical precision, and theatrical stage presence made him one of the most influential metal drummers of his generation. He also played guitar for Murderdolls and drums for various other projects.',
     gear: {
-      drums: 'Pearl Masters Premium Maple',
+      drums: 'Pearl Reference Series',
       snare: 'Pearl Joey Jordison Signature 13x6.5"',
-      cymbals: 'Paiste RUDE Series (14" Hi-Hats, 18" & 19" Crashes, 20" Chinas, 22" Power Ride)',
-      hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000 Throne',
+      cymbals: 'Paiste RUDE & 2002 Series (14" Wild Hi-Hats, 16", 17", 18", 19" Power Crashes, 20" & 22" Wild Chinas, 22" Power Ride)',
+      hardware: 'Pearl Demon Drive Double Pedal, Pearl DR-501C Icon Rack, Pearl D-2000BR Throne',
       sticks: 'Promark Joey Jordison Signature TX515W',
+      heads: 'Evans',
       verified: true,
       sources: ['https://pearldrum.com/en/artist/joey-jordison', 'https://www.paiste.com/en/musicians/joey-jordison']
     },
@@ -79,6 +81,7 @@ const drummers = [
       cymbals: 'Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China)',
       hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000 Throne',
       sticks: 'Promark 5B',
+      heads: 'Evans',
       verified: true,
       sources: ['https://pearldrum.com/en/artist/gene-hoglan', 'https://www.drumeo.com/beat/gene-hoglans-drum-kit/']
     },
@@ -138,11 +141,14 @@ const drummers = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/7/7b/Meshuggah_-_Rock_am_Ring_2023-44313.jpg',
     bio: 'Tomas Haake, born in 1971, is the drummer and primary lyricist for Swedish extreme metal band Meshuggah. His polyrhythmic drumming style, characterized by complex time signatures and intricate patterns, has been hugely influential in the development of djent and progressive metal. He is known for his metronomic precision and innovative approach.',
     gear: {
-      drums: 'Sonor SQ2 Heavy Beech',
-      snare: 'Sonor Tomas Haake Signature 14x6.25"',
-      cymbals: 'Sabian HHX Series (14" Rock Hi-Hats, 19" & 20" Stage Crashes, 22" Legacy Ride, 19" AAXtreme China)',
-      hardware: 'Trick Pro 1-V Bigfoot Double Pedal, Sonor Drummer Throne',
-      sticks: 'Wincent Tomas Haake Signature'
+      drums: 'Sonor SQ2 Heavy Beech (24"x18" Bass, 10"x8", 12"x9", 13"x10", 16"x14", 18"x16" Toms)',
+      snare: 'Sonor Tomas Haake Signature 14x6.5" & Artist Series Bronze',
+      cymbals: 'Sabian HHX & AAX Series (14" HHX Compression Hi-Hats, 15" Artisan Hi-Hats, 19" & 20" & 21" HHX Stage Crashes, 22" Legacy Ride, 19" AAXtreme China)',
+      hardware: 'Tama Speed Cobra Single Pedals (x2), Porter & Davies BC2 Throne',
+      sticks: 'Wincent Tomas Haake Signature',
+      heads: 'Remo',
+      verified: true,
+      sources: ['https://www.sonor.com/drums/artists/artists-detail/tomas-haake', 'https://sabian.com/artist/tomas-haake/', 'https://www.wincent.se']
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/7/7b/Meshuggah_-_Rock_am_Ring_2023-44313.jpg'
@@ -168,11 +174,14 @@ const drummers = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/e/e8/GK_10.jpg',
     bio: 'George Kollias, born in 1977, is a Greek drummer known for his extreme speed and technical proficiency. As the drummer for Nile since 2004, he has pushed the boundaries of death metal drumming with his incredible blast beats and double bass technique. He is also an educator and has released instructional materials.',
     gear: {
-      drums: 'Pearl Masterworks Stadium Exotic',
+      drums: 'Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware)',
       snare: 'Pearl George Kollias Signature 14x6.5"',
-      cymbals: 'Zildjian A Custom Series (14" Hi-Hats, 17" & 18" Crashes, 21" Ride, 18" China)',
-      hardware: 'Pearl Demon Drive Double Pedal, Pearl D-3000 Throne',
-      sticks: 'Vic Firth George Kollias Signature'
+      cymbals: 'Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China)',
+      hardware: 'Pearl Demon XR Double Pedal (Co-designed), Pearl D-3000 Throne',
+      sticks: 'Vic Firth George Kollias Signature SGK',
+      heads: 'Evans',
+      verified: true,
+      sources: ['https://pearldrum.com/en/artist/george-kollias/15801', 'https://zildjian.com/artists', 'https://vicfirth.com/products/signature-series-george-kollias']
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/e/e8/GK_10.jpg'
@@ -262,11 +271,14 @@ const drummers = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/0/0a/Drummer_John_Otto_of_Limp_Bizkit_in_2006.jpg',
     bio: 'John Otto, born in 1977, is the drummer and a founding member of Limp Bizkit. His hip-hop influenced drumming style, combining tight grooves with funk-inspired beats, was essential in defining the rap-metal sound of the late 90s and early 2000s. His ability to blend rock power with hip-hop feel made Limp Bizkit one of the biggest bands of the nu-metal era.',
     gear: {
-      drums: 'Orange County Drum & Percussion (OCDP) Custom',
-      snare: 'OCDP 14x7" Maple/Ash',
-      cymbals: 'Zildjian K Custom Series (14" Hi-Hats, 17" & 18" Dark Crashes, 20" Ride, 18" China)',
-      hardware: 'DW 9000 Series Double Pedal, DW 9100 Throne',
-      sticks: 'Zildjian John Otto Signature'
+      drums: 'Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic',
+      snare: 'OCDP 14x6.5" 40-ply Vented, OCDP 10x6" 20-ply',
+      cymbals: 'Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom Projection Crashes, 20" A Custom EFX, 20" FX Oriental Crash of Doom)',
+      hardware: 'Gibraltar G Class Bass Drum Pedals, Gibraltar Custom Racks',
+      sticks: 'Zildjian Artist Series',
+      heads: 'Remo Emperor Coated',
+      verified: true,
+      sources: ['https://remo.com/profile/john-otto', 'https://www.moderndrummer.com/2024/10/john-otto-limp-bizkit-modern-drummer-podcast-with-david-frangioni-16/']
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/0/0a/Drummer_John_Otto_of_Limp_Bizkit_in_2006.jpg'
@@ -287,17 +299,20 @@ const drummers = [
   {
     id: 10,
     name: 'Jay Weinberg',
-    band: 'Slipknot / Suicidal Tendencies',
-    genre: 'Nu Metal / Hardcore',
+    band: 'Suicidal Tendencies',
+    genre: 'Hardcore / Thrash Crossover',
     country: 'USA',
     image: 'https://upload.wikimedia.org/wikipedia/commons/4/46/Suicidal_Tendencies_Rockharz_2024_18.jpg',
-    bio: 'Jay Weinberg, born in 1990, is the son of E Street Band drummer Max Weinberg. He joined Slipknot in 2014, becoming their drummer after Joey Jordison\'s departure. Before Slipknot, he briefly played with Against Me! and Madball. His powerful, aggressive style honored Slipknot\'s legacy while adding his own intensity. In 2023, he joined Suicidal Tendencies.',
+    bio: 'Jay Weinberg, born in 1990, is the son of E Street Band drummer Max Weinberg. He joined Slipknot in 2014, becoming their drummer after Joey Jordison\'s departure. Before Slipknot, he briefly played with Against Me! and Madball. His powerful, aggressive style honored Slipknot\'s legacy while adding his own intensity. In 2023, he parted ways with Slipknot and joined Suicidal Tendencies, touring with them on Metallica\'s M72 World Stadium Tour.',
     gear: {
-      drums: 'SJC Custom Drums',
-      snare: 'SJC Jay Weinberg "The Crucible" 14x6.5" Brass',
-      cymbals: 'Zildjian A Custom & K Custom Series (14" A New Beat Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 19" K China)',
+      drums: 'SJC Custom Drums (OBEY x ST Collaboration Kit)',
+      snare: 'SJC Jay Weinberg "The Crucible" 14x6.5" 48-ply Brass',
+      cymbals: 'Zildjian (14" A New Beat Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 19" K China, 7" FX Break Bell)',
       hardware: 'DW 9000 Series Double Pedal, DW 9100 Throne',
-      sticks: 'Vater Jay Weinberg 908 Signature'
+      sticks: 'Vater Jay Weinberg 908 Signature',
+      heads: 'Evans Black Chrome',
+      verified: true,
+      sources: ['https://www.jayweinbergofficial.com/gear', 'https://sjcdrums.com/pages/artists', 'https://vater.com/artists/']
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/4/46/Suicidal_Tendencies_Rockharz_2024_18.jpg'

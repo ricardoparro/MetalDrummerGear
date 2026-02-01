@@ -2,7 +2,8 @@ import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View, Switch, FlatList, ActivityIndicator, Image, TouchableOpacity, ScrollView, Linking, Platform, useWindowDimensions } from 'react-native';
 import { ThemeProvider, useTheme } from './ThemeContext';
 import { useState, useEffect, useCallback } from 'react';
-import { getAffiliateLinks, extractPrimaryProduct } from './affiliateLinks';
+import { getAffiliateLinks, extractPrimaryProduct, getThomannLink, getSweetwaterLink } from './affiliateLinks';
+import { calculateKitCost, formatPrice } from './gearPrices';
 
 // YouTube Video Embed Component - Works with React Native Web
 function YouTubeEmbed({ videoId, title, theme }) {
@@ -109,12 +110,15 @@ const API_URL = typeof window !== 'undefined' && window.location.hostname !== 'l
 function updateDocumentMeta(drummer) {
   if (Platform.OS !== 'web' || typeof document === 'undefined') return;
 
+  // Calculate kit cost for SEO if drummer exists
+  const kitCost = drummer ? calculateKitCost(drummer.gear) : null;
+
   const title = drummer
     ? `${drummer.name} Drum Kit & Gear | Metal Drummer Gear`
     : 'Metal Drummer Gear - Discover What Pro Drummers Play';
 
   const description = drummer
-    ? `Discover what drums and cymbals ${drummer.name} uses. Full gear breakdown for the ${drummer.band} drummer.`
+    ? `${drummer.name}'s complete drum setup costs approximately ${formatPrice(kitCost?.totalEur || 0, 'EUR')}. Full gear breakdown for the ${drummer.band} drummer including drums, cymbals, and hardware.`
     : 'Explore the drum kits, cymbals, and gear used by legendary metal drummers including Lars Ulrich, Joey Jordison, Dave Lombardo and more.';
 
   document.title = title;
@@ -131,7 +135,9 @@ function updateDocumentMeta(drummer) {
   };
 
   setMeta('description', description);
-  setMeta('keywords', 'metal drummer, drum gear, drum kit, cymbals, snare drum, double bass pedal, metal drumming');
+  setMeta('keywords', drummer
+    ? `${drummer.name} drums, ${drummer.name} drum kit, ${drummer.band} drummer gear, ${drummer.name} cymbals, drum kit cost`
+    : 'metal drummer, drum gear, drum kit, cymbals, snare drum, double bass pedal, metal drumming');
   setMeta('og:title', title, true);
   setMeta('og:description', description, true);
   setMeta('og:type', 'website', true);
@@ -146,24 +152,50 @@ function updateDocumentMeta(drummer) {
     ldScript.type = 'application/ld+json';
     document.head.appendChild(ldScript);
   }
-  ldScript.textContent = JSON.stringify(drummer ? {
+
+  // Enhanced structured data with pricing for drummer pages
+  const structuredData = drummer ? {
     "@context": "https://schema.org",
-    "@type": "Person",
-    "name": drummer.name,
-    "description": drummer.bio,
-    "image": drummer.image,
-    "jobTitle": "Drummer",
-    "memberOf": {
-      "@type": "MusicGroup",
-      "name": drummer.band
-    }
+    "@graph": [
+      {
+        "@type": "Person",
+        "name": drummer.name,
+        "description": drummer.bio,
+        "image": drummer.image,
+        "jobTitle": "Drummer",
+        "memberOf": {
+          "@type": "MusicGroup",
+          "name": drummer.band
+        }
+      },
+      {
+        "@type": "Product",
+        "name": `${drummer.name}'s Complete Drum Kit`,
+        "description": `Professional drum setup used by ${drummer.name} of ${drummer.band}`,
+        "image": drummer.image,
+        "offers": {
+          "@type": "AggregateOffer",
+          "priceCurrency": "EUR",
+          "lowPrice": kitCost?.totalEur || 0,
+          "highPrice": Math.round((kitCost?.totalEur || 0) * 1.2),
+          "offerCount": 5,
+          "availability": "https://schema.org/InStock"
+        },
+        "brand": {
+          "@type": "Brand",
+          "name": extractPrimaryProduct(drummer.gear?.drums)?.split(' ')[0] || "Various"
+        }
+      }
+    ]
   } : {
     "@context": "https://schema.org",
     "@type": "WebSite",
     "name": "Metal Drummer Gear",
     "description": description,
     "url": typeof window !== 'undefined' ? window.location.href : ''
-  });
+  };
+
+  ldScript.textContent = JSON.stringify(structuredData);
 }
 
 function SEOHead({ drummer }) {
@@ -238,6 +270,110 @@ function GearSection({ title, content, theme, gearType }) {
   );
 }
 
+function KitCostCalculator({ drummer, theme }) {
+  const kitCost = calculateKitCost(drummer.gear);
+
+  if (!kitCost) return null;
+
+  const handleBuySetupPress = (store) => {
+    // Create a combined search query for the full kit
+    const primaryDrums = extractPrimaryProduct(drummer.gear.drums);
+    let url;
+    if (store === 'thomann') {
+      url = getThomannLink(primaryDrums, 'full-kit');
+    } else {
+      url = getSweetwaterLink(primaryDrums, 'full-kit');
+    }
+
+    // Track "Buy Setup" clicks separately with utm_campaign=buy-full-setup
+    url = url.replace(/utm_campaign=[^&]+/, 'utm_campaign=buy-full-setup');
+
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.open(url, '_blank', 'noopener,noreferrer');
+    } else {
+      Linking.openURL(url);
+    }
+  };
+
+  const gearLabels = {
+    drums: 'Drums',
+    snare: 'Snare',
+    cymbals: 'Cymbals',
+    hardware: 'Hardware',
+    sticks: 'Sticks',
+  };
+
+  return (
+    <View style={[styles.section, styles.calculatorSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+      <Text style={[styles.sectionTitle, styles.calculatorTitle, { color: theme.text }]} accessibilityRole="header">
+        Kit Cost Calculator
+      </Text>
+      <Text style={[styles.calculatorSubtitle, { color: theme.secondaryText }]}>
+        Estimated cost of {drummer.name}'s setup
+      </Text>
+
+      <View style={styles.calculatorItems}>
+        {Object.entries(kitCost.items).map(([key, price]) => (
+          price > 0 && (
+            <View key={key} style={styles.calculatorRow}>
+              <Text style={[styles.calculatorLabel, { color: theme.text }]}>
+                {gearLabels[key]}
+              </Text>
+              <Text style={[styles.calculatorPrice, { color: theme.secondaryText }]}>
+                {formatPrice(price, 'EUR')}
+              </Text>
+            </View>
+          )
+        ))}
+      </View>
+
+      <View style={[styles.calculatorDivider, { backgroundColor: theme.border }]} />
+
+      <View style={styles.calculatorTotals}>
+        <View style={styles.calculatorRow}>
+          <Text style={[styles.calculatorTotalLabel, { color: theme.text }]}>
+            Total (EUR)
+          </Text>
+          <Text style={[styles.calculatorTotalPrice, { color: theme.text }]}>
+            {formatPrice(kitCost.totalEur, 'EUR')}
+          </Text>
+        </View>
+        <View style={styles.calculatorRow}>
+          <Text style={[styles.calculatorTotalLabel, { color: theme.text }]}>
+            Total (USD)
+          </Text>
+          <Text style={[styles.calculatorTotalPrice, { color: theme.text }]}>
+            {formatPrice(kitCost.totalUsd, 'USD')}
+          </Text>
+        </View>
+      </View>
+
+      <Text style={[styles.calculatorDisclaimer, { color: theme.secondaryText }]}>
+        * Prices are estimates based on typical retail pricing. Visit retailers for current prices.
+      </Text>
+
+      <View style={styles.buySetupContainer}>
+        <TouchableOpacity
+          onPress={() => handleBuySetupPress('sweetwater')}
+          style={[styles.buySetupButton, styles.buySetupButtonUS]}
+          accessibilityRole="link"
+          accessibilityLabel={`Buy ${drummer.name}'s setup at Sweetwater`}
+        >
+          <Text style={styles.buySetupButtonText}>Buy This Setup (US)</Text>
+        </TouchableOpacity>
+        <TouchableOpacity
+          onPress={() => handleBuySetupPress('thomann')}
+          style={[styles.buySetupButton, styles.buySetupButtonEU]}
+          accessibilityRole="link"
+          accessibilityLabel={`Buy ${drummer.name}'s setup at Thomann`}
+        >
+          <Text style={styles.buySetupButtonText}>Buy This Setup (EU)</Text>
+        </TouchableOpacity>
+      </View>
+    </View>
+  );
+}
+
 function DrummerDetail({ drummer, theme, onBack }) {
   const handleEndorsementPress = (url) => {
     Linking.openURL(url);
@@ -283,6 +419,8 @@ function DrummerDetail({ drummer, theme, onBack }) {
           <GearSection title="Sticks" content={drummer.gear.sticks} theme={theme} gearType="sticks" />
         )}
       </View>
+
+      <KitCostCalculator drummer={drummer} theme={theme} />
 
       {drummer.photos && drummer.photos.length > 0 && (
         <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
@@ -739,5 +877,79 @@ const styles = StyleSheet.create({
   videoLinkText: {
     fontSize: 16,
     fontWeight: '600',
+  },
+  // Kit Cost Calculator styles
+  calculatorSection: {
+    borderWidth: 2,
+  },
+  calculatorTitle: {
+    marginBottom: 4,
+  },
+  calculatorSubtitle: {
+    fontSize: 14,
+    marginBottom: 16,
+  },
+  calculatorItems: {
+    gap: 8,
+  },
+  calculatorRow: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    paddingVertical: 4,
+  },
+  calculatorLabel: {
+    fontSize: 15,
+  },
+  calculatorPrice: {
+    fontSize: 15,
+    fontFamily: Platform.OS === 'ios' ? 'Menlo' : 'monospace',
+  },
+  calculatorDivider: {
+    height: 1,
+    marginVertical: 12,
+  },
+  calculatorTotals: {
+    gap: 4,
+    marginBottom: 8,
+  },
+  calculatorTotalLabel: {
+    fontSize: 16,
+    fontWeight: '600',
+  },
+  calculatorTotalPrice: {
+    fontSize: 18,
+    fontWeight: 'bold',
+    fontFamily: Platform.OS === 'ios' ? 'Menlo' : 'monospace',
+  },
+  calculatorDisclaimer: {
+    fontSize: 11,
+    fontStyle: 'italic',
+    marginTop: 8,
+    marginBottom: 16,
+  },
+  buySetupContainer: {
+    flexDirection: 'row',
+    gap: 12,
+    flexWrap: 'wrap',
+  },
+  buySetupButton: {
+    flex: 1,
+    minWidth: 140,
+    paddingVertical: 14,
+    paddingHorizontal: 20,
+    borderRadius: 8,
+    alignItems: 'center',
+  },
+  buySetupButtonUS: {
+    backgroundColor: '#1a5276',
+  },
+  buySetupButtonEU: {
+    backgroundColor: '#1e8449',
+  },
+  buySetupButtonText: {
+    color: '#ffffff',
+    fontSize: 14,
+    fontWeight: 'bold',
   },
 });

@@ -39,6 +39,10 @@ Common problems to check:
 - [ ] Horizontal scroll (content overflow)
 - [ ] Dropdowns not native/usable
 - [ ] Fixed elements blocking content
+- [ ] **Z-index issues** — Elements overlapping incorrectly
+- [ ] **Text overlap** — Labels/text bleeding into other elements
+- [ ] **Dropdown overlays** — Dropdown lists rendering behind other content
+- [ ] **Position bugs** — Absolute/fixed positioned elements misaligned
 
 ### 5. Key User Flows
 Test complete user journeys:

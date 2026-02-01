@@ -1,0 +1,546 @@
+{
+  "researched_at": "2026-02-01",
+  "research_notes": "Data collected from Wikipedia, official brand pages, and verified sources. Some endorsements may have changed - always verify with current brand artist pages.",
+  "drummers": [
+    {
+      "name": "Lars Ulrich",
+      "band": "Metallica",
+      "current_endorsements": {
+        "drums": {
+          "brand": "Tama",
+          "model": "Starclassic Maple",
+          "source": "https://en.wikipedia.org/wiki/Lars_Ulrich",
+          "notes": "Signature 14x6.5\" steel snare drum LU1465. Yellow kit with black hardware for M72 tour"
+        },
+        "cymbals": {
+          "brand": "Zildjian",
+          "source": "https://en.wikipedia.org/wiki/Lars_Ulrich"
+        },
+        "sticks": {
+          "brand": "Ahead",
+          "source": "https://en.wikipedia.org/wiki/Lars_Ulrich"
+        },
+        "heads": {
+          "brand": "Remo",
+          "source": "https://en.wikipedia.org/wiki/Lars_Ulrich"
+        }
+      },
+      "notes": "Long-term Tama artist. Known for not using ride cymbals, prefers China cymbals"
+    },
+    {
+      "name": "Joey Jordison",
+      "band": "Slipknot (deceased 2021)",
+      "current_endorsements": {
+        "drums": {
+          "brand": "Pearl",
+          "source": "https://en.wikipedia.org/wiki/Joey_Jordison",
+          "notes": "Also used ddrum and Orange County Drum and Percussion earlier in career"
+        },
+        "cymbals": {
+          "brand": "Paiste",
+          "source": "https://en.wikipedia.org/wiki/Joey_Jordison",
+          "notes": "Used Zildjian 1999, switched to Paiste later"
+        },
+        "sticks": {
+          "brand": "Promark",
+          "source": "https://en.wikipedia.org/wiki/Joey_Jordison",
+          "notes": "Switched from Ahead in 2008 to Promark"
+        },
+        "heads": {
+          "brand": "Remo",
+          "source": "https://en.wikipedia.org/wiki/Joey_Jordison"
+        }
+      },
+      "notes": "Last endorsements before passing in July 2021. Used ddrum triggers and Roland electronics"
+    },
+    {
+      "name": "Gene Hoglan",
+      "band": "Death/Testament",
+      "current_endorsements": {
+        "drums": {
+          "brand": "Tama",
+          "source": "Known Tama endorser",
+          "confidence": "high"
+        },
+        "cymbals": {
+          "brand": "Zildjian",
+          "source": "Common knowledge in drum community",
+          "confidence": "high"
+        },
+        "sticks": {
+          "brand": "Vic Firth",
+          "confidence": "medium"
+        },
+        "heads": {
+          "brand": "Remo",
+          "confidence": "medium"
+        }
+      },
+      "notes": "Known as 'The Atomic Clock'. Left Testament early 2022, Dave Lombardo replaced him"
+    },
+    {
+      "name": "Dave Lombardo",
+      "band": "Slayer/Dead Cross/Misfits/Mr. Bungle",
+      "current_endorsements": {
+        "drums": {
+          "brand": "Pearl",
+          "source": "https://en.wikipedia.org/wiki/Dave_Lombardo",
+          "notes": "First kit was Pearl Maxwin. Currently active with multiple bands"
+        },
+        "cymbals": {
+          "brand": "Paiste",
+          "source": "Known Paiste endorser",
+          "confidence": "high"
+        },
+        "sticks": {
+          "brand": "Vic Firth",
+          "confidence": "high"
+        },
+        "heads": {
+          "brand": "Remo",
+          "confidence": "medium"
+        }
+      },
+      "notes": "Known as 'The Godfather of Double Bass'. Active with Dead Cross, Misfits, Mr. Bungle"
+    },
+    {
+      "name": "Tomas Haake",
+      "band": "Meshuggah",
+      "current_endorsements": {
+        "drums": {
+          "brand": "Sonor",
+          "model": "SQ2 Series",
+          "source": "https://en.wikipedia.org/wiki/Tomas_Haake"
+        },
+        "cymbals": {
+          "brand": "Sabian",
+          "source": "https://en.wikipedia.org/wiki/Tomas_Haake",
+          "notes": "HHX and AAX series"
+        },
+        "sticks": {
+          "brand": "Wincent",
+          "model": "Tomas Haake Signature",
+          "source": "https://en.wikipedia.org/wiki/Tomas_Haake"
+        },
+        "heads": {
+          "brand": "Remo",
+          "source": "https://en.wikipedia.org/wiki/Tomas_Haake",
+          "notes": "Coated Emperors on toms, Powerstroke 3 on bass"
+        }
+      },
+      "notes": "Known for polymetric drumming. Uses Tama Speed Cobra pedals and Porter & Davies throne"
+    },
+    {
+      "name": "George Kollias",
+      "band": "Nile",
+      "current_endorsements": {
+        "drums": {
+          "brand": "Pearl",
+          "source": "https://en.wikipedia.org/wiki/George_Kollias_(drummer)",
+          "notes": "Co-designed Demon XR bass drum pedals with Pearl"
+        },
+        "cymbals": {
+          "brand": "Zildjian",
+          "source": "https://en.wikipedia.org/wiki/George_Kollias_(drummer)"
+        },
+        "sticks": {
+          "brand": "Vic Firth",
+          "source": "https://en.wikipedia.org/wiki/George_Kollias_(drummer)"
+        },
+        "heads": {
+          "brand": "Evans",
+          "source": "https://en.wikipedia.org/wiki/George_Kollias_(drummer)"
+        }
+      },
+      "notes": "Known for extreme speed drumming. Unique foot technique. Teaches at Modern Music School Athens"
+    },
+    {
+      "name": "Eloy Casagrande",
+      "band": "Slipknot (since 2024)",
+      "current_endorsements": {
+        "drums": {
+          "brand": "Yamaha",
+          "source": "https://br.yamaha.com/pt/artists/e/eloy_casagrande.html"
+        },
+        "cymbals": {
+          "brand": "Paiste",
+          "source": "https://www.paiste.com/en/musicians/eloy-casagrande",
+          "notes": "Paiste artist since July 2005. Uses 2002, Formula 602, Masters series"
+        },
+        "sticks": {
+          "brand": "Vic Firth",
+          "confidence": "high",
+          "notes": "Need to verify if changed after joining Slipknot"
+        },
+        "heads": {
+          "brand": "Evans",
+          "source": "https://www.daddario.com/artists/evans-drumheads/eloy_casagrande/"
+        }
+      },
+      "notes": "Joined Slipknot April 2024 replacing Jay Weinberg. Won Modern Drummer Best Metal Drummer 2024. Previously with Sepultura"
+    },
+    {
+      "name": "Ray Luzier",
+      "band": "Korn",
+      "current_endorsements": {
+        "drums": {
+          "brand": "Pearl",
+          "source": "https://en.wikipedia.org/wiki/Ray_Luzier"
+        },
+        "cymbals": {
+          "brand": "Sabian",
+          "source": "https://en.wikipedia.org/wiki/Ray_Luzier"
+        },
+        "sticks": {
+          "brand": "Vic Firth",
+          "source": "https://en.wikipedia.org/wiki/Ray_Luzier"
+        },
+        "heads": {
+          "brand": "Evans",
+          "source": "https://en.wikipedia.org/wiki/Ray_Luzier"
+        }
+      },
+      "notes": "Uses DW hardware. Previously endorsed ddrum, OCDP, Remo heads, and Promark sticks"
+    },
+    {
+      "name": "John Otto",
+      "band": "Limp Bizkit",
+      "current_endorsements": {
+        "drums": {
+          "brand": "Unknown",
+          "confidence": "low",
+          "notes": "Limited current endorsement info available"
+        },
+        "cymbals": {
+          "brand": "Zildjian",
+          "confidence": "medium",
+          "notes": "Reported to use Zildjian - needs verification"
+        },
+        "sticks": {
+          "brand": "Zildjian",
+          "confidence": "medium",
+          "notes": "User indicated Zildjian sticks - needs verification"
+        },
+        "heads": {
+          "brand": "Unknown",
+          "confidence": "low"
+        }
+      },
+      "notes": "Studied jazz drumming at Douglas Anderson School of the Arts. Limited current endorsement information publicly available"
+    },
+    {
+      "name": "Jay Weinberg",
+      "band": "Suicidal Tendencies (left Slipknot Nov 2023)",
+      "current_endorsements": {
+        "drums": {
+          "brand": "SJC Custom Drums",
+          "source": "https://en.wikipedia.org/wiki/Jay_Weinberg"
+        },
+        "cymbals": {
+          "brand": "Zildjian",
+          "source": "https://en.wikipedia.org/wiki/Jay_Weinberg"
+        },
+        "sticks": {
+          "brand": "Vater",
+          "source": "https://en.wikipedia.org/wiki/Jay_Weinberg",
+          "notes": "CONFIRMED: Uses Vater (NOT Promark)"
+        },
+        "heads": {
+          "brand": "Evans",
+          "source": "https://en.wikipedia.org/wiki/Jay_Weinberg"
+        }
+      },
+      "notes": "Left Slipknot Nov 2023. Joined Suicidal Tendencies/Infectious Grooves 2024, left early 2026. Uses DW hardware and Roland electronics"
+    },
+    {
+      "name": "Vinnie Paul",
+      "band": "Pantera/Hellyeah (deceased 2018)",
+      "current_endorsements": {
+        "drums": {
+          "brand": "ddrum",
+          "source": "https://en.wikipedia.org/wiki/Vinnie_Paul",
+          "notes": "Final endorsement. Previously used Tama, Remo, Pearl"
+        },
+        "cymbals": {
+          "brand": "Sabian",
+          "source": "https://en.wikipedia.org/wiki/Vinnie_Paul",
+          "notes": "Lifelong Sabian endorser"
+        },
+        "sticks": {
+          "brand": "Vic Firth",
+          "source": "https://en.wikipedia.org/wiki/Vinnie_Paul",
+          "notes": "Played sticks backwards, holding tapered end"
+        },
+        "heads": {
+          "brand": "Evans",
+          "source": "https://en.wikipedia.org/wiki/Vinnie_Paul",
+          "notes": "Final setup with ddrum"
+        }
+      },
+      "notes": "Passed June 22, 2018. Signature ddrum kit from 2010. Known for using triggered samples live"
+    },
+    {
+      "name": "Charlie Benante",
+      "band": "Anthrax/Pantera (touring)",
+      "current_endorsements": {
+        "drums": {
+          "brand": "Tama",
+          "source": "https://en.wikipedia.org/wiki/Charlie_Benante"
+        },
+        "cymbals": {
+          "brand": "Paiste",
+          "source": "https://en.wikipedia.org/wiki/Charlie_Benante"
+        },
+        "sticks": {
+          "brand": "Vic Firth",
+          "source": "https://en.wikipedia.org/wiki/Charlie_Benante"
+        },
+        "heads": {
+          "brand": "Evans",
+          "source": "https://en.wikipedia.org/wiki/Charlie_Benante"
+        }
+      },
+      "notes": "Pioneer of double bass and blast beat techniques. Touring with reunited Pantera since 2022 filling in for Vinnie Paul. Uses Tama Speed Cobra pedals, Roland electronics"
+    },
+    {
+      "name": "Mike Portnoy",
+      "band": "Dream Theater (returned Oct 2023)",
+      "current_endorsements": {
+        "drums": {
+          "brand": "Tama",
+          "confidence": "high",
+          "notes": "Long-term Tama endorser"
+        },
+        "cymbals": {
+          "brand": "Sabian",
+          "confidence": "high",
+          "notes": "Long-term Sabian endorser"
+        },
+        "sticks": {
+          "brand": "Promark",
+          "confidence": "high"
+        },
+        "heads": {
+          "brand": "Remo",
+          "confidence": "medium"
+        }
+      },
+      "notes": "Returned to Dream Theater Oct 2023 after 13 years. 32-time Modern Drummer award winner. Second-youngest inducted into MD Hall of Fame"
+    },
+    {
+      "name": "Danny Carey",
+      "band": "Tool",
+      "current_endorsements": {
+        "drums": {
+          "brand": "Sonor",
+          "source": "https://en.wikipedia.org/wiki/Danny_Carey",
+          "notes": "Also owns custom VK Drums Monad and 7empest sets"
+        },
+        "cymbals": {
+          "brand": "Paiste",
+          "source": "https://en.wikipedia.org/wiki/Danny_Carey",
+          "notes": "Signature 'Dry Heavy Ride - Monad' cymbal. Owns rare Paiste bronze drum kit"
+        },
+        "sticks": {
+          "brand": "Vic Firth",
+          "model": "Danny Carey Signature",
+          "source": "https://en.wikipedia.org/wiki/Danny_Carey"
+        },
+        "heads": {
+          "brand": "Evans",
+          "source": "https://en.wikipedia.org/wiki/Danny_Carey"
+        }
+      },
+      "notes": "Uses Mandala pads, Korg and Roland electronics. Signature Sonor snare drum. Known for tabla playing and polyrhythms"
+    },
+    {
+      "name": "Mario Duplantier",
+      "band": "Gojira",
+      "current_endorsements": {
+        "drums": {
+          "brand": "Tama",
+          "confidence": "high",
+          "notes": "Long-term Tama endorser"
+        },
+        "cymbals": {
+          "brand": "Meinl",
+          "confidence": "high"
+        },
+        "sticks": {
+          "brand": "Vic Firth",
+          "confidence": "high"
+        },
+        "heads": {
+          "brand": "Remo",
+          "confidence": "medium"
+        }
+      },
+      "notes": "Known for polyrhythmic patterns and jazzy fills. Studied at Agostini drum school. Practices drums 4-5 hours daily"
+    },
+    {
+      "name": "Brann Dailor",
+      "band": "Mastodon",
+      "current_endorsements": {
+        "drums": {
+          "brand": "Tama",
+          "model": "Starclassic Performer B/B",
+          "source": "https://en.wikipedia.org/wiki/Brann_Dailor"
+        },
+        "cymbals": {
+          "brand": "Meinl",
+          "source": "https://en.wikipedia.org/wiki/Brann_Dailor",
+          "notes": "Mb20 and Mb8 series"
+        },
+        "sticks": {
+          "brand": "Vater",
+          "model": "5B",
+          "source": "https://en.wikipedia.org/wiki/Brann_Dailor"
+        },
+        "heads": {
+          "brand": "Evans",
+          "source": "https://en.wikipedia.org/wiki/Brann_Dailor",
+          "notes": "G2 Clear on toms, EQ3 on bass"
+        }
+      },
+      "notes": "Also vocalist for Mastodon. Main influence is Phil Collins. Uses Tama Speed Cobra pedals. Owns 1970 Cadillac called 'Twinkle Toes'"
+    },
+    {
+      "name": "Chris Adler",
+      "band": "ex-Lamb of God/Firstborne",
+      "current_endorsements": {
+        "drums": {
+          "brand": "Mapex",
+          "model": "Saturn in Satin Black Maple Burl",
+          "source": "https://en.wikipedia.org/wiki/Chris_Adler",
+          "notes": "Mapex Warbird signature snare"
+        },
+        "cymbals": {
+          "brand": "Meinl",
+          "source": "https://en.wikipedia.org/wiki/Chris_Adler",
+          "notes": "Byzance and Pure Alloy series"
+        },
+        "sticks": {
+          "brand": "Promark",
+          "model": "TX5AXW Chris Adler Signature",
+          "source": "https://en.wikipedia.org/wiki/Chris_Adler"
+        },
+        "heads": {
+          "brand": "Evans",
+          "source": "https://en.wikipedia.org/wiki/Chris_Adler"
+        }
+      },
+      "notes": "Left Lamb of God 2019 due to Musician's Dystonia. Grammy winner for Megadeth's Dystopia. Now with Firstborne. Uses Trick Pro V and Czarcie Kopyto pedals"
+    },
+    {
+      "name": "Matt Halpern",
+      "band": "Periphery",
+      "current_endorsements": {
+        "drums": {
+          "brand": "Pearl",
+          "source": "https://en.wikipedia.org/wiki/Matt_Halpern",
+          "notes": "Signature snare drum with Pearl"
+        },
+        "cymbals": {
+          "brand": "Meinl",
+          "source": "https://en.wikipedia.org/wiki/Matt_Halpern",
+          "notes": "Artist Concept Double Down Stack signature"
+        },
+        "sticks": {
+          "brand": "Promark",
+          "source": "https://en.wikipedia.org/wiki/Matt_Halpern",
+          "notes": "Signature drumsticks"
+        },
+        "heads": {
+          "brand": "Evans",
+          "source": "https://en.wikipedia.org/wiki/Matt_Halpern"
+        }
+      },
+      "notes": "Co-developed GetGood Drums software. Previously endorsed Mapex and Yamaha. Founded Bandhappy.com (closed 2014)"
+    },
+    {
+      "name": "Inferno",
+      "real_name": "Zbigniew Robert Promiński",
+      "band": "Behemoth",
+      "current_endorsements": {
+        "drums": {
+          "brand": "Pearl",
+          "model": "Reference",
+          "source": "https://en.wikipedia.org/wiki/Zbigniew_Robert_Promi%C5%84ski"
+        },
+        "cymbals": {
+          "brand": "Paiste",
+          "source": "https://en.wikipedia.org/wiki/Zbigniew_Robert_Promi%C5%84ski",
+          "notes": "RUDE series"
+        },
+        "sticks": {
+          "brand": "Vic Firth",
+          "model": "American Classic Extreme 5B",
+          "source": "https://en.wikipedia.org/wiki/Zbigniew_Robert_Promi%C5%84ski"
+        },
+        "heads": {
+          "brand": "Evans",
+          "source": "https://en.wikipedia.org/wiki/Zbigniew_Robert_Promi%C5%84ski",
+          "notes": "GMAD Clear, Genera HD Dry, G2 Coated"
+        }
+      },
+      "notes": "Signature Spaun 8x14 snare drum. Uses Monolit Czarcie Kopyto pedals and Alesis DM5 module"
+    },
+    {
+      "name": "Hellhammer",
+      "real_name": "Jan Axel Blomberg",
+      "band": "Mayhem/Arcturus",
+      "current_endorsements": {
+        "drums": {
+          "brand": "Sonor",
+          "source": "https://en.wikipedia.org/wiki/Hellhammer_(musician)",
+          "notes": "White Marine Pearl finish, Black Nickel Hardware"
+        },
+        "cymbals": {
+          "brand": "Paiste",
+          "source": "https://en.wikipedia.org/wiki/Hellhammer_(musician)",
+          "notes": "RUDE series, some custom-made"
+        },
+        "sticks": {
+          "brand": "Vic Firth",
+          "model": "Rock Nylon tip",
+          "source": "https://en.wikipedia.org/wiki/Hellhammer_(musician)"
+        },
+        "heads": {
+          "brand": "Remo",
+          "source": "https://en.wikipedia.org/wiki/Hellhammer_(musician)",
+          "notes": "Smooth white Emperor, Powerstroke 3, Coated Ambassador"
+        }
+      },
+      "notes": "3-time Spellemannprisen winner. Uses Axis A Short-boards pedals. French grip with Moeller method. Played for Christian band Antestor as controversy"
+    },
+    {
+      "name": "Pete Sandoval",
+      "band": "Morbid Angel/Terrorizer/I Am Morbid",
+      "current_endorsements": {
+        "drums": {
+          "brand": "Pearl",
+          "confidence": "medium",
+          "notes": "Has used Pearl historically"
+        },
+        "cymbals": {
+          "brand": "Paiste",
+          "confidence": "medium"
+        },
+        "sticks": {
+          "brand": "Vic Firth",
+          "confidence": "medium"
+        },
+        "heads": {
+          "brand": "Remo",
+          "confidence": "medium"
+        }
+      },
+      "notes": "Known as 'Pete the Feet' and 'Commando'. Converted to Christianity, left Morbid Angel 2013. Currently with I Am Morbid alongside David Vincent. Had back surgery 2010"
+    }
+  ],
+  "verification_notes": {
+    "jay_weinberg_vater": "CONFIRMED - Wikipedia clearly states Vater drumsticks endorsement",
+    "john_otto_zildjian": "UNCONFIRMED - Limited public endorsement info. User claimed Zildjian sticks but needs verification",
+    "eloy_casagrande_post_slipknot": "Joined Slipknot April 2024. Maintained Paiste cymbals, Yamaha drums, Evans heads endorsements"
+  }
+}

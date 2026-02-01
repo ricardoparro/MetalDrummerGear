@@ -96,6 +96,55 @@ function VideoCard({ video, theme }) {
 
 const PLACEHOLDER_IMAGE = 'https://ui-avatars.com/api/?name=Drummer&background=1a1a2e&color=fff&size=200';
 
+// Genre color mapping for consistent UI
+const GENRE_COLORS = {
+  'Thrash Metal': { bg: '#dc2626', text: '#ffffff' },
+  'Death Metal': { bg: '#7f1d1d', text: '#ffffff' },
+  'Black Metal': { bg: '#1f2937', text: '#ffffff' },
+  'Progressive Metal': { bg: '#7c3aed', text: '#ffffff' },
+  'Nu-Metal': { bg: '#ea580c', text: '#ffffff' },
+  'Groove Metal': { bg: '#65a30d', text: '#ffffff' },
+  'Power Metal': { bg: '#0284c7', text: '#ffffff' },
+  'Metalcore/Djent': { bg: '#0891b2', text: '#ffffff' },
+};
+
+const getGenreColors = (genre) => {
+  return GENRE_COLORS[genre] || { bg: '#6b7280', text: '#ffffff' };
+};
+
+function GenreTag({ genre, size = 'small' }) {
+  const colors = getGenreColors(genre);
+  const isSmall = size === 'small';
+
+  return (
+    <View style={[
+      styles.genreTag,
+      { backgroundColor: colors.bg },
+      isSmall ? styles.genreTagSmall : styles.genreTagLarge
+    ]}>
+      <Text style={[
+        styles.genreTagText,
+        { color: colors.text },
+        isSmall ? styles.genreTagTextSmall : styles.genreTagTextLarge
+      ]}>
+        {genre}
+      </Text>
+    </View>
+  );
+}
+
+function GenreTags({ genres, size = 'small' }) {
+  if (!genres || genres.length === 0) return null;
+
+  return (
+    <View style={styles.genreTagsContainer}>
+      {genres.map((genre, index) => (
+        <GenreTag key={index} genre={genre} size={size} />
+      ))}
+    </View>
+  );
+}
+
 function ImageWithFallback({ source, style, accessibilityLabel }) {
   const [hasError, setHasError] = useState(false);
   const [imageUri, setImageUri] = useState(source?.uri || PLACEHOLDER_IMAGE);
@@ -335,7 +384,7 @@ function DrummerCard({ drummer, theme, onPress }) {
         <View style={styles.cardText}>
           <Text style={[styles.drummerName, { color: theme.text }]}>{drummer.name}</Text>
           <Text style={[styles.drummerBand, { color: theme.secondaryText }]}>{drummer.band}</Text>
-          <Text style={[styles.drummerGenre, { color: theme.secondaryText }]}>{drummer.genre}</Text>
+          <GenreTags genres={drummer.genres} size="small" />
         </View>
       </View>
     </TouchableOpacity>
@@ -511,7 +560,8 @@ function DrummerDetail({ drummer, theme, onBack }) {
         <View style={styles.detailHeaderText}>
           <Text style={[styles.detailName, { color: theme.text }]} accessibilityRole="header">{drummer.name}</Text>
           <Text style={[styles.detailBand, { color: theme.secondaryText }]}>{drummer.band}</Text>
-          <Text style={[styles.detailMeta, { color: theme.secondaryText }]}>{drummer.genre} | {drummer.country}</Text>
+          <GenreTags genres={drummer.genres} size="large" />
+          <Text style={[styles.detailMeta, { color: theme.secondaryText }]}>{drummer.country}</Text>
         </View>
       </View>
 
@@ -1508,6 +1558,33 @@ const styles = StyleSheet.create({
     color: '#ffffff',
     fontSize: 14,
     fontWeight: 'bold',
+  },
+// Genre tag styles
+  genreTagsContainer: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 6,
+    marginTop: 4,
+  },
+  genreTag: {
+    borderRadius: 12,
+  },
+  genreTagSmall: {
+    paddingVertical: 2,
+    paddingHorizontal: 8,
+  },
+  genreTagLarge: {
+    paddingVertical: 4,
+    paddingHorizontal: 12,
+  },
+  genreTagText: {
+    fontWeight: '600',
+  },
+  genreTagTextSmall: {
+    fontSize: 10,
+  },
+  genreTagTextLarge: {
+    fontSize: 12,
   },
   // Compare feature styles
   listWrapper: {

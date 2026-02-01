@@ -54,7 +54,13 @@ When new drummers are added:
 3. Suggest Wikimedia Commons as source for replacement images
 4. This is CRITICAL — broken images break the site
 
-### 5. ID Integrity
+### 5. YouTube Video Validation ⭐ NEW
+- **All YouTube videos must be available** (not removed/private)
+- Test with: `curl -s -o /dev/null -w '%{http_code}' 'https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=VIDEO_ID&format=json'`
+- 200 = available, 404 = unavailable
+- If video unavailable → Create issue to find replacement
+
+### 6. ID Integrity
 - No duplicate IDs
 - IDs should be sequential (no gaps)
 

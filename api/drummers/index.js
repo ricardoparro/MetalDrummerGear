@@ -10,11 +10,13 @@ const drummers = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/7/79/Lars_Ulrich_by_Gage_Skidmore_%28cropped%29.jpg',
     bio: 'Lars Ulrich is a Danish musician and co-founder of Metallica, one of the most influential thrash metal bands in history. Born in 1963, he moved to Los Angeles to pursue his drumming career and formed Metallica with James Hetfield in 1981. Known for his aggressive style and iconic drum fills, Lars has been instrumental in shaping the sound of heavy metal.',
     gear: {
-      drums: 'Tama Star Classic Maple',
+      drums: 'Tama Starclassic Maple',
       snare: 'Tama LU1465 Lars Ulrich Signature 14x6.5"',
-      cymbals: 'Zildjian A Custom Series (14" Hi-Hats, 18" & 19" Crashes, 20" China, 22" Ride)',
+      cymbals: 'Zildjian A Custom Series (14" Hi-Hats, 16", 17" & 18" Rock Crashes, 20" China, 22" Ride)',
       hardware: 'Tama Iron Cobra 900 Power Glide Double Pedal, Tama 1st Chair Throne',
-      sticks: 'Ahead Lars Ulrich Signature Drumsticks'
+      sticks: 'Ahead Lars Ulrich Signature Drumsticks',
+      verified: true,
+      sources: ['https://www.tama.com/usa/artists/detail/98.html', 'https://zildjian.com']
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/7/79/Lars_Ulrich_by_Gage_Skidmore_%28cropped%29.jpg'
@@ -44,7 +46,9 @@ const drummers = [
       snare: 'Pearl Joey Jordison Signature 13x6.5"',
       cymbals: 'Paiste RUDE Series (14" Hi-Hats, 18" & 19" Crashes, 20" Chinas, 22" Power Ride)',
       hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000 Throne',
-      sticks: 'Promark Joey Jordison Signature TX515W'
+      sticks: 'Promark Joey Jordison Signature TX515W',
+      verified: true,
+      sources: ['https://pearldrum.com/en/artist/joey-jordison', 'https://www.paiste.com/en/musicians/joey-jordison']
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/b/b4/JoeyJordison.jpg'
@@ -70,20 +74,22 @@ const drummers = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/6/60/Gene_Hoglan_-_Testament_%28cropped%29.jpg',
     bio: 'Gene Hoglan, nicknamed "The Atomic Clock" for his precise timing, is one of the most respected drummers in extreme metal. Born in 1967, he has played with Death, Dark Angel, Testament, Strapping Young Lad, Fear Factory, and Dethklok. His combination of speed, power, and musicality has influenced countless metal drummers.',
     gear: {
-      drums: 'Tama Starclassic Walnut/Birch',
-      snare: 'Tama S.L.P. 14x6.5" G-Bubinga',
-      cymbals: 'Zildjian A Custom Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China)',
-      hardware: 'Tama Iron Cobra 900 Double Pedal, Tama 1st Chair Throne',
-      sticks: 'Vic Firth American Classic 5B'
+      drums: 'Pearl Reference Pure',
+      snare: 'Pearl Reference 14x6.5" Brass',
+      cymbals: 'Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China)',
+      hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000 Throne',
+      sticks: 'Promark 5B',
+      verified: true,
+      sources: ['https://pearldrum.com/en/artist/gene-hoglan', 'https://www.drumeo.com/beat/gene-hoglans-drum-kit/']
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/6/60/Gene_Hoglan_-_Testament_%28cropped%29.jpg'
     ],
     endorsements: [
-      { name: 'Tama Drums', url: 'https://www.tama.com' },
-      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
-      { name: 'Remo Drumheads', url: 'https://remo.com' }
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Sabian Cymbals', url: 'https://sabian.com' },
+      { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ],
     videos: [
       { title: 'The Philosopher (Death) - Official Playthrough', youtubeId: 'eGope68pHf0', year: 2016 },
@@ -100,20 +106,22 @@ const drummers = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/d/df/Dave_Lombardo_8.5.14.jpeg',
     bio: 'Dave Lombardo, born in Cuba in 1965, is widely regarded as one of the greatest drummers in metal history. As the original drummer of Slayer, he pioneered the double bass drumming style that defined thrash metal. His work on albums like "Reign in Blood" is considered groundbreaking. He has also played with Fantomas, Suicidal Tendencies, and Dead Cross.',
     gear: {
-      drums: 'Pearl Reference Series',
-      snare: 'Pearl Reference 14x6.5" Brass',
-      cymbals: 'Paiste RUDE & 2002 Series (14" Hi-Hats, 18" & 19" Crashes, 20" Power Ride, 18" China)',
-      hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000 Throne',
-      sticks: 'Vic Firth American Classic 5B'
+      drums: 'Tama Starclassic Maple',
+      snare: 'Tama S.L.P. 14x6.5" G-Maple',
+      cymbals: 'Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China)',
+      hardware: 'Tama Iron Cobra 900 Double Pedal, Tama 1st Chair Throne',
+      sticks: 'Promark Dave Lombardo Signature 2Bx',
+      verified: true,
+      sources: ['https://www.tama.com/usa/artists/detail/1044.html', 'https://www.paiste.com/en/musicians/dave-lombardo']
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/d/df/Dave_Lombardo_8.5.14.jpeg'
     ],
     endorsements: [
-      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
       { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
-      { name: 'Remo Drumheads', url: 'https://remo.com' }
+      { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ],
     videos: [
       { title: 'War Ensemble - Drum Cam (Yankee Stadium, Official)', youtubeId: '3ivOfkqFmxg', year: 2010 },
@@ -184,17 +192,20 @@ const drummers = [
   {
     id: 7,
     name: 'Eloy Casagrande',
-    band: 'Sepultura / Slipknot',
-    genre: 'Thrash Metal / Nu Metal',
+    band: 'Slipknot',
+    genre: 'Nu Metal / Thrash Metal',
     country: 'Brazil',
     image: 'https://upload.wikimedia.org/wikipedia/commons/8/86/Sepultura_-_2023219214143_2023-08-07_Sepultura_-_Sven_-_1D_X_MK_II_-_0650_-_AK8I2527.jpg',
-    bio: 'Eloy Casagrande, born in 1990, is a Brazilian drummer who became Sepultura\'s drummer in 2011 and joined Slipknot in 2024. Known for his explosive speed, technical prowess, and energetic performances, he brought new life to Sepultura\'s sound. His drumming style combines traditional metal with modern technical elements, making him one of the most exciting drummers in contemporary metal.',
+    bio: 'Eloy Casagrande, born in 1991, is a Brazilian drummer who became Sepultura\'s drummer in 2011 and joined Slipknot in 2024 as their new drummer. Named the No. 1 metal drummer in Modern Drummer magazine\'s 2024 Readers\' Poll, he is known for his explosive speed, technical prowess, and energetic performances. His drumming style combines traditional metal with modern technical elements, making him one of the most exciting drummers in contemporary metal.',
     gear: {
       drums: 'Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms)',
       snare: 'Tama Bell Brass 14x5.5" (BB146)',
       cymbals: 'Paiste (15" Formula 602 Modern Essentials Hi-Hats, 20" Formula 602 ME Crash, 20" 2002 Wild Crash, 20" Masters Dark Crash, 20" 2002 Novo China, 20" 2002 Power Ride, 10" Signature Splash, 10" 2002 Mega Bell)',
-      hardware: 'Tama Iron Cobra Double Pedal, Yamaha DTX Electronic Pads, Evans Drumheads',
-      sticks: 'Promark (Signature in development)'
+      hardware: 'Tama Iron Cobra Double Pedal, Yamaha DTX Electronic Pads',
+      sticks: 'Promark Eloy Casagrande Signature',
+      heads: 'Evans',
+      verified: true,
+      sources: ['https://www.tama.com/usa/artists/', 'https://en.beatit.tv/eloy-casagrandes-2024-slipknot-drum-kit/']
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/8/86/Sepultura_-_2023219214143_2023-08-07_Sepultura_-_Sven_-_1D_X_MK_II_-_0650_-_AK8I2527.jpg'
@@ -202,7 +213,7 @@ const drummers = [
     endorsements: [
       { name: 'Tama Drums', url: 'https://www.tama.com' },
       { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
-      { name: 'Promark Sticks', url: 'https://www.promark.com' },
+      { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' },
       { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ],
     videos: [
@@ -437,20 +448,19 @@ const drummers = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/8/83/2017_RiP_-_Gojira_-_Mario_Duplantier_-_by_2eight_-_8SC9168.jpg',
     bio: 'Mario Duplantier, born in 1981 in Bayonne, France, is the drummer and co-founder of the critically acclaimed progressive death metal band Gojira, which he formed with his brother Joe Duplantier in 1996. Known for his powerful, precise, and incredibly intense drumming style, Mario combines crushing double bass patterns with complex rhythmic structures that complement Gojira\'s unique blend of death metal and progressive elements. His drumming on albums like "From Mars to Sirius," "The Way of All Flesh," and "Magma" has been praised for its technical excellence and raw energy. Beyond his drumming prowess, Mario is also a talented visual artist who has created artwork for Gojira\'s albums and merchandise. His approach to drumming emphasizes dynamics, groove, and an almost tribal quality that has helped define Gojira\'s distinctive sound.',
     gear: {
-      drums: 'Tama Starclassic Walnut/Birch',
-      snare: 'Tama S.L.P. 14x6" G-Maple',
-      cymbals: 'Meinl Byzance Series (14" Dark Hi-Hats, 18" & 20" Brilliant Heavy Hammered Crashes, 21" Transition Ride, 18" Extra Dry China)',
+      drums: 'Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom)',
+      snare: 'Tama S.L.P. 14x6.5" G-Maple',
+      cymbals: 'Zildjian (14" K Sweet Hi-Hats, 14" A Custom Hi-Hats, 18" K Custom Hybrid Crash, 19" A Custom Crash, 20" K Sweet Crash, 21" Z Custom Mega Bell Ride, 18" & 20" Chinas)',
       hardware: 'Tama Iron Cobra 900 Power Glide Double Pedal, Tama 1st Chair Ergo-Rider Throne',
-      sticks: 'Vic Firth X5A'
+      sticks: 'Tama Mario Duplantier Signature'
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/8/83/2017_RiP_-_Gojira_-_Mario_Duplantier_-_by_2eight_-_8SC9168.jpg'
     ],
     endorsements: [
       { name: 'Tama Drums', url: 'https://www.tama.com' },
-      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'Remo Drumheads', url: 'https://remo.com' }
     ],
     videos: [
       { title: 'Gojira - Silvera (Live Drum Cam)', youtubeId: 'BGHlZwMYO9g', year: 2017 },
@@ -467,11 +477,11 @@ const drummers = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/6/6b/20150612-054-Nova_Rock_2015-Mastodon-Brann_Dailor.jpg',
     bio: 'Brann Dailor, born in 1975 in Rochester, New York, is the drummer and vocalist for progressive sludge metal band Mastodon. His drumming style is characterized by complex fills, jazz-influenced patterns, and an almost melodic approach to the drums that sets him apart from traditional metal drummers. Dailor\'s work on albums like "Leviathan," "Blood Mountain," and "Crack the Skye" has earned him widespread acclaim. He began singing lead vocals on Mastodon\'s later albums, adding another dimension to the band\'s sound. His technical proficiency combined with his musical creativity has made him one of the most influential drummers in modern metal.',
     gear: {
-      drums: 'Tama Starclassic Walnut/Birch',
+      drums: 'Tama Starclassic Performer B/B',
       snare: 'Tama S.L.P. 14x6.5" G-Maple',
-      cymbals: 'Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant Heavy Hammered Crashes, 21" Transition Ride, 18" Extra Dry China)',
-      hardware: 'Tama Iron Cobra 900 Double Pedal, Tama 1st Chair Throne',
-      sticks: 'Vater Brann Dailor Signature'
+      cymbals: 'Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China)',
+      hardware: 'Tama Speed Cobra Double Pedal, Tama Iron Cobra Lever Glide Hi-Hat Stand, Tama 1st Chair Ergo-Rider Throne',
+      sticks: 'Vater 5B'
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/6/6b/20150612-054-Nova_Rock_2015-Mastodon-Brann_Dailor.jpg'
@@ -480,7 +490,7 @@ const drummers = [
       { name: 'Tama Drums', url: 'https://www.tama.com' },
       { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
       { name: 'Vater Drumsticks', url: 'https://www.vater.com' },
-      { name: 'Remo Drumheads', url: 'https://www.remo.com' }
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ],
     videos: [
       { title: 'Mastodon - Blood and Thunder (Live Drum Cam)', youtubeId: 'Og39wIaLzlQ', year: 2019 },
@@ -501,7 +511,9 @@ const drummers = [
       snare: 'Mapex Chris Adler Signature 14x5.5" Walnut/Maple',
       cymbals: 'Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China)',
       hardware: 'Mapex Falcon Double Pedal, Mapex T865 Throne',
-      sticks: 'Vic Firth Chris Adler Signature'
+      sticks: 'Promark TX5AXW Chris Adler Signature',
+      verified: true,
+      sources: ['https://mapexdrums.com/us/artists/chris-adler', 'https://chrisadler.com/gear/']
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/d/d8/Lamb_Of_God_-_Rock_am_Ring_2015-9876_%28cropped%29.jpg'
@@ -509,7 +521,7 @@ const drummers = [
     endorsements: [
       { name: 'Mapex Drums', url: 'https://www.mapexdrums.com' },
       { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' },
       { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ],
     videos: [
@@ -557,11 +569,13 @@ const drummers = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/8/8d/Behemoth_Rockharz_2015_02.jpg',
     bio: 'Zbigniew Robert Promiński, known as Inferno, born in 1979, is the drummer for Polish extreme metal band Behemoth. He joined the band in 1997 and has been instrumental in shaping their signature sound. His drumming is characterized by relentless blast beats, precise double bass work, and the ability to maintain extreme speeds for extended periods. Inferno\'s technical abilities and stamina have made him one of the most respected drummers in extreme metal. His work on albums like "The Satanist" and "I Loved You at Your Darkest" showcases his evolution as a drummer.',
     gear: {
-      drums: 'Pearl Reference Pure',
+      drums: 'Pearl Masterworks',
       snare: 'Pearl Reference 14x5" Steel',
-      cymbals: 'Paiste RUDE Series (14" Hi-Hats, 18" & 19" Crashes, 22" Power Ride, 18" China)',
-      hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000 Throne',
-      sticks: 'Ahead 5B Aluminum'
+      cymbals: 'Paiste RUDE Series (14" Hi-Hats, 14" Blast China, 18" & 19" Crashes, 24" Mega Power Ride, 18" China)',
+      hardware: 'Czarcie Kopyto (Devil\'s Hoof) Double Pedal, Pearl D-2000 Throne',
+      sticks: 'Vic Firth 5B',
+      verified: true,
+      sources: ['https://pearldrum.com/en/artist/inferno/13201', 'https://www.paiste.com/en/musicians/inferno']
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/8/8d/Behemoth_Rockharz_2015_02.jpg'
@@ -569,8 +583,8 @@ const drummers = [
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
       { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
-      { name: 'Ahead Drumsticks', url: 'https://www.aheaddrumsticks.com' },
-      { name: 'Remo Drumheads', url: 'https://www.remo.com' }
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ],
     videos: [
       { title: 'Behemoth - Blow Your Trumpets Gabriel (Live Drum Cam)', youtubeId: 'Czx-OIyrQwQ', year: 2018 },
@@ -589,16 +603,18 @@ const drummers = [
     gear: {
       drums: 'Sonor SQ2 Heavy Beech',
       snare: 'Sonor SQ2 14x5.5" Maple',
-      cymbals: 'Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 20" Dark Ride, 18" Dark China)',
-      hardware: 'Sonor Giant Step Double Pedal, Sonor Drummer Throne',
-      sticks: 'Vic Firth American Classic 5B'
+      cymbals: 'Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ride, 18" RUDE China)',
+      hardware: 'Axis Double Pedal, Sonor Drummer Throne, Roland Electronics',
+      sticks: 'Vic Firth American Classic 5B',
+      verified: true,
+      sources: ['https://www.hellhammerdrummer.com/gear-and-setup/', 'https://www.paiste.com/en/musicians']
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/5/58/Mayhem_-_Jalometalli_2008_-_Hellhammer_01_crop.JPG'
     ],
     endorsements: [
       { name: 'Sonor Drums', url: 'https://www.sonor.com' },
-      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+      { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
       { name: 'Remo Drumheads', url: 'https://www.remo.com' }
     ],

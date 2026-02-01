@@ -41,10 +41,18 @@ Every drummer must have:
 - `api/drummers/index.js` and `api/drummers/[id].js` must have identical data
 - All drummers in index must be in [id] and vice versa
 
-### 4. URL Validation
-- All image URLs must be accessible (HTTP 200)
+### 4. URL Validation ⭐ CRITICAL
+- **All image URLs must return HTTP 200** (not 404!)
+- Test with: `curl -s -o /dev/null -w '%{http_code}' 'URL'`
 - All endorsement URLs must be valid domains
 - All YouTube IDs must be 11 characters
+
+### 4b. New Drummer Photo Check ⭐ PRIORITY
+When new drummers are added:
+1. Verify image URL returns 200
+2. If 404 or error → Create issue with `ai-fix` label immediately
+3. Suggest Wikimedia Commons as source for replacement images
+4. This is CRITICAL — broken images break the site
 
 ### 5. ID Integrity
 - No duplicate IDs

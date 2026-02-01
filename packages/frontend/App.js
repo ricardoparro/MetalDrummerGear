@@ -2027,6 +2027,8 @@ const styles = StyleSheet.create({
     flexWrap: 'wrap',
     gap: 16,
     marginBottom: 24,
+    zIndex: 1000,
+    position: 'relative',
   },
   selectorsMobile: {
     flexDirection: 'column',
@@ -2034,6 +2036,7 @@ const styles = StyleSheet.create({
   selectorWrapper: {
     flex: 1,
     minWidth: 200,
+    zIndex: 1000,
   },
   selectorWrapperMobile: {
     minWidth: '100%',

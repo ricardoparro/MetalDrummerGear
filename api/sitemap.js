@@ -14,6 +14,28 @@ const drummers = [
   { id: 11, name: 'Vinnie Paul' },
   { id: 12, name: 'Charlie Benante' },
   { id: 13, name: 'Mike Portnoy' },
+  { id: 14, name: 'Danny Carey' },
+  { id: 15, name: 'Mario Duplantier' },
+  { id: 16, name: 'Brann Dailor' },
+  { id: 17, name: 'Chris Adler' },
+  { id: 18, name: 'Matt Halpern' },
+  { id: 19, name: 'Inferno' },
+  { id: 20, name: 'Hellhammer' },
+  { id: 21, name: 'Pete Sandoval' },
+];
+
+// Top 10 gear items for SEO
+const gearItems = [
+  { slug: 'tama-iron-cobra-900-double-pedal', name: 'Tama Iron Cobra 900 Power Glide Double Pedal' },
+  { slug: 'meinl-byzance-series-cymbals', name: 'Meinl Byzance Series Cymbals' },
+  { slug: 'paiste-rude-series-cymbals', name: 'Paiste RUDE Series Cymbals' },
+  { slug: 'zildjian-a-custom-series-cymbals', name: 'Zildjian A Custom Series Cymbals' },
+  { slug: 'vic-firth-american-classic-5b', name: 'Vic Firth American Classic 5B Drumsticks' },
+  { slug: 'pearl-demon-drive-double-pedal', name: 'Pearl Demon Drive Double Pedal' },
+  { slug: 'tama-starclassic-walnut-birch-drums', name: 'Tama Starclassic Walnut/Birch Drums' },
+  { slug: 'pearl-reference-series-drums', name: 'Pearl Reference Series Drums' },
+  { slug: 'sonor-sq2-heavy-beech-drums', name: 'Sonor SQ2 Heavy Beech Drums' },
+  { slug: 'sabian-hhx-series-cymbals', name: 'Sabian HHX Series Cymbals' },
 ];
 
 const BASE_URL = 'https://metalforge.io';
@@ -34,9 +56,16 @@ export default function handler(req, res) {
 
   const urls = [
     { loc: '/', priority: '1.0', changefreq: 'weekly' },
+    // Drummer pages
     ...drummers.map(d => ({
       loc: `/drummer/${generateSlug(d.name)}`,
       priority: '0.8',
+      changefreq: 'monthly'
+    })),
+    // Gear pages
+    ...gearItems.map(g => ({
+      loc: `/gear/${g.slug}`,
+      priority: '0.7',
       changefreq: 'monthly'
     }))
   ];

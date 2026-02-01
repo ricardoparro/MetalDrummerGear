@@ -396,6 +396,247 @@ const drummers = [
       { title: 'Panic Attack - Drumeo (Official)', youtubeId: 'oa7oOdYPOSk', year: 2023 },
       { title: 'Score - Full Concert Drum & Vox Cam (Official)', youtubeId: 'eUYi4GwN9sg', year: 2006 }
     ]
+  },
+  {
+    id: 14,
+    name: 'Danny Carey',
+    band: 'Tool',
+    genre: 'Progressive Metal',
+    country: 'USA',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/3/3d/Tool_%2848541913941%29_%28cropped%29.jpg',
+    bio: 'Danny Carey, born in 1961 in Lawrence, Kansas, is widely regarded as one of the greatest drummers in rock and metal history. As the drummer for Tool since the band\'s formation in 1990, he has developed a unique style that blends complex polyrhythmic patterns with influences from jazz, world music, and progressive rock. His technical proficiency and creative approach to rhythm have earned him numerous accolades, including being voted the best drummer by readers of Modern Drummer magazine. Carey\'s drumming incorporates unusual time signatures, intricate subdivisions, and the use of electronic percussion. Beyond Tool, he has collaborated with artists like Pigface, Zaum, and Volto! His towering presence behind his massive Sonor kit and his dedication to expanding the boundaries of rock drumming have made him an icon in the drumming community.',
+    gear: {
+      drums: 'Sonor SQ2 Heavy Beech',
+      snare: 'Sonor Danny Carey Signature 14x8" Bronze',
+      cymbals: 'Paiste Signature Series (15" Sound Edge Hi-Hats, 18" & 19" Power Crashes, 22" Dry Heavy Ride, 20" & 22" Chinas, various Rude crashes)',
+      hardware: 'Sonor Giant Step Twin Effect Double Pedal, Sonor Drummer Throne, Mandala Drum electronic pads',
+      sticks: 'Vic Firth Danny Carey Signature'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/3/3d/Tool_%2848541913941%29_%28cropped%29.jpg'
+    ],
+    endorsements: [
+      { name: 'Sonor Drums', url: 'https://www.sonor.com' },
+      { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Remo Drumheads', url: 'https://www.remo.com' },
+      { name: 'Mandala Drums', url: 'https://www.mandaladrum.com' }
+    ],
+    videos: [
+      { title: 'Tool - Pneuma (Live Drum Cam)', youtubeId: 'FssULNGSZIA', year: 2019 },
+      { title: 'Tool - Forty Six & 2 (Live Drum Cam)', youtubeId: 'qJq9y9xPKWs', year: 2019 },
+      { title: 'Tool - Chocolate Chip Trip (Live Drum Solo)', youtubeId: 'Z45VCJfnWZ0', year: 2020 }
+    ]
+  },
+  {
+    id: 15,
+    name: 'Mario Duplantier',
+    band: 'Gojira',
+    genre: 'Progressive Death Metal',
+    country: 'France',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/8/84/Gojira_-_Rock_am_Ring_2022-0757_%28cropped%29.jpg',
+    bio: 'Mario Duplantier, born in 1981 in Bayonne, France, is the drummer and co-founder of the critically acclaimed progressive death metal band Gojira, which he formed with his brother Joe Duplantier in 1996. Known for his powerful, precise, and incredibly intense drumming style, Mario combines crushing double bass patterns with complex rhythmic structures that complement Gojira\'s unique blend of death metal and progressive elements. His drumming on albums like "From Mars to Sirius," "The Way of All Flesh," and "Magma" has been praised for its technical excellence and raw energy. Beyond his drumming prowess, Mario is also a talented visual artist who has created artwork for Gojira\'s albums and merchandise. His approach to drumming emphasizes dynamics, groove, and an almost tribal quality that has helped define Gojira\'s distinctive sound.',
+    gear: {
+      drums: 'Tama Starclassic Walnut/Birch',
+      snare: 'Tama S.L.P. 14x6" G-Maple',
+      cymbals: 'Meinl Byzance Series (14" Dark Hi-Hats, 18" & 20" Brilliant Heavy Hammered Crashes, 21" Transition Ride, 18" Extra Dry China)',
+      hardware: 'Tama Iron Cobra 900 Power Glide Double Pedal, Tama 1st Chair Ergo-Rider Throne',
+      sticks: 'Vic Firth X5A'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/8/84/Gojira_-_Rock_am_Ring_2022-0757_%28cropped%29.jpg'
+    ],
+    endorsements: [
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+    ],
+    videos: [
+      { title: 'Gojira - Silvera (Live Drum Cam)', youtubeId: 'BGHlZwMYO9g', year: 2017 },
+      { title: 'Gojira - Stranded (Live Drum Cam)', youtubeId: 'FNdC_3LR2AI', year: 2017 },
+      { title: 'Gojira - Flying Whales (Live Drum Cam)', youtubeId: 'iqrMFNMgVS0', year: 2019 }
+    ]
+  },
+  {
+    id: 16,
+    name: 'Brann Dailor',
+    band: 'Mastodon',
+    genre: 'Progressive/Sludge Metal',
+    country: 'USA',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/0/06/Brann_Dailor_2015.jpg',
+    bio: 'Brann Dailor, born in 1975 in Rochester, New York, is the drummer and vocalist for progressive sludge metal band Mastodon. His drumming style is characterized by complex fills, jazz-influenced patterns, and an almost melodic approach to the drums that sets him apart from traditional metal drummers. Dailor\'s work on albums like "Leviathan," "Blood Mountain," and "Crack the Skye" has earned him widespread acclaim. He began singing lead vocals on Mastodon\'s later albums, adding another dimension to the band\'s sound. His technical proficiency combined with his musical creativity has made him one of the most influential drummers in modern metal.',
+    gear: {
+      drums: 'DW Collector\'s Series Maple',
+      snare: 'DW Collector\'s Series 14x6.5" Brass',
+      cymbals: 'Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Raw Bell Dry Ride, 18" Chinese)',
+      hardware: 'DW 9000 Series Double Pedal, DW 9100 Throne',
+      sticks: 'Vater Brann Dailor Signature'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/0/06/Brann_Dailor_2015.jpg'
+    ],
+    endorsements: [
+      { name: 'DW Drums', url: 'https://www.dwdrums.com' },
+      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
+      { name: 'Vater Drumsticks', url: 'https://www.vater.com' },
+      { name: 'Remo Drumheads', url: 'https://www.remo.com' }
+    ],
+    videos: [
+      { title: 'Mastodon - Blood and Thunder (Live Drum Cam)', youtubeId: 'Og39wIaLzlQ', year: 2019 },
+      { title: 'Mastodon - Oblivion (Live Drum Cam)', youtubeId: 'hwgqenKiMQw', year: 2018 },
+      { title: 'Mastodon - The Motherload (Drum Playthrough)', youtubeId: 'mLpYJbvwgXg', year: 2017 }
+    ]
+  },
+  {
+    id: 17,
+    name: 'Chris Adler',
+    band: 'Lamb of God',
+    genre: 'Groove Metal',
+    country: 'USA',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/4/4d/Chris_Adler_%28Lamb_of_God%29.jpg',
+    bio: 'Chris Adler, born in 1972 in Richmond, Virginia, is best known as the co-founder and former drummer of Lamb of God. His precision double bass drumming and innovative groove patterns helped define the New Wave of American Heavy Metal. Adler\'s work on albums like "Ashes of the Wake" and "Sacrament" showcased his ability to combine technical proficiency with raw power. He briefly played with Megadeth on their 2016 album "Dystopia." His drumming style emphasizes groove, power, and precision, influencing a generation of metal drummers.',
+    gear: {
+      drums: 'Mapex Black Panther Design Lab',
+      snare: 'Mapex Chris Adler Signature 14x5.5" Walnut/Maple',
+      cymbals: 'Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China)',
+      hardware: 'Mapex Falcon Double Pedal, Mapex T865 Throne',
+      sticks: 'Vic Firth Chris Adler Signature'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/4/4d/Chris_Adler_%28Lamb_of_God%29.jpg'
+    ],
+    endorsements: [
+      { name: 'Mapex Drums', url: 'https://www.mapexdrums.com' },
+      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+    ],
+    videos: [
+      { title: 'Lamb of God - Laid to Rest (Live Drum Cam)', youtubeId: 'oqdZpxkzNvc', year: 2018 },
+      { title: 'Lamb of God - Redneck (Live Drum Cam)', youtubeId: 'HL9kaJZw8iw', year: 2016 },
+      { title: 'Lamb of God - Now You\'ve Got Something to Die For (Drum Playthrough)', youtubeId: '7t2xmGPPw5g', year: 2019 }
+    ]
+  },
+  {
+    id: 18,
+    name: 'Matt Halpern',
+    band: 'Periphery',
+    genre: 'Progressive/Djent',
+    country: 'USA',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/3/35/Periphery-Matt_Halpern-4893_%28cropped%29.jpg',
+    bio: 'Matt Halpern, born in 1984, is the drummer for progressive metal band Periphery and one of the most influential figures in the djent movement. His drumming combines polyrhythmic complexity with electronic elements and modern production techniques. Halpern\'s ability to navigate complex time signatures while maintaining groove has made him a role model for a new generation of progressive metal drummers. He is also an accomplished drum educator, sharing his knowledge through clinics and online platforms.',
+    gear: {
+      drums: 'Mapex Saturn V MH Exotic',
+      snare: 'Mapex Black Panther Sledgehammer 14x6.5"',
+      cymbals: 'Meinl Byzance Series (15" Dark Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Transition Ride, 18" Extra Dry China)',
+      hardware: 'Mapex Falcon Double Pedal, Mapex T865 Throne',
+      sticks: 'Vic Firth Matt Halpern Signature'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/3/35/Periphery-Matt_Halpern-4893_%28cropped%29.jpg'
+    ],
+    endorsements: [
+      { name: 'Mapex Drums', url: 'https://www.mapexdrums.com' },
+      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+    ],
+    videos: [
+      { title: 'Periphery - Marigold (Live Drum Cam)', youtubeId: 'tUl5Y5GMFM4', year: 2019 },
+      { title: 'Periphery - The Way the News Goes (Drum Playthrough)', youtubeId: 'eLK3xMO1YvY', year: 2017 },
+      { title: 'Periphery - Scarlet (Live Drum Cam)', youtubeId: 'Y8F3B-qCQxk', year: 2020 }
+    ]
+  },
+  {
+    id: 19,
+    name: 'Inferno',
+    band: 'Behemoth',
+    genre: 'Black/Death Metal',
+    country: 'Poland',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6f/Behemoth_Rockharz_2018_12.jpg',
+    bio: 'Zbigniew Robert Promiński, known as Inferno, born in 1979, is the drummer for Polish extreme metal band Behemoth. He joined the band in 1997 and has been instrumental in shaping their signature sound. His drumming is characterized by relentless blast beats, precise double bass work, and the ability to maintain extreme speeds for extended periods. Inferno\'s technical abilities and stamina have made him one of the most respected drummers in extreme metal. His work on albums like "The Satanist" and "I Loved You at Your Darkest" showcases his evolution as a drummer.',
+    gear: {
+      drums: 'Pearl Reference Pure',
+      snare: 'Pearl Reference 14x5" Steel',
+      cymbals: 'Paiste RUDE Series (14" Hi-Hats, 18" & 19" Crashes, 22" Power Ride, 18" China)',
+      hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000 Throne',
+      sticks: 'Ahead 5B Aluminum'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/6/6f/Behemoth_Rockharz_2018_12.jpg'
+    ],
+    endorsements: [
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
+      { name: 'Ahead Drumsticks', url: 'https://www.aheaddrumsticks.com' },
+      { name: 'Remo Drumheads', url: 'https://www.remo.com' }
+    ],
+    videos: [
+      { title: 'Behemoth - Blow Your Trumpets Gabriel (Live Drum Cam)', youtubeId: 'Czx-OIyrQwQ', year: 2018 },
+      { title: 'Behemoth - Ora Pro Nobis Lucifer (Live Drum Cam)', youtubeId: 'NkaslVgXhNw', year: 2019 },
+      { title: 'Behemoth - Bartzabel (Drum Playthrough)', youtubeId: 'MCsoZ_2ROmY', year: 2020 }
+    ]
+  },
+  {
+    id: 20,
+    name: 'Hellhammer',
+    band: 'Mayhem',
+    genre: 'Black Metal',
+    country: 'Norway',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/8/8c/Jan_Axel_Blomberg_2012.jpg',
+    bio: 'Jan Axel Blomberg, known as Hellhammer, born in 1969, is a Norwegian drummer best known for his work with black metal pioneers Mayhem. He joined Mayhem in 1988 and has been a constant presence through the band\'s turbulent history. Hellhammer is credited with helping define the black metal drumming style, characterized by fast blast beats and raw, aggressive playing. Beyond Mayhem, he has played with numerous projects including Arcturus, Dimmu Borgir, and Shining. His influence on extreme metal drumming is immeasurable.',
+    gear: {
+      drums: 'Pearl Masters Premium',
+      snare: 'Pearl Sensitone 14x5.5" Steel',
+      cymbals: 'Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 20" Dark Ride, 18" Dark China)',
+      hardware: 'Pearl Eliminator Double Pedal, Pearl D-1500 Throne',
+      sticks: 'Vic Firth American Classic 5B'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/8/8c/Jan_Axel_Blomberg_2012.jpg'
+    ],
+    endorsements: [
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Remo Drumheads', url: 'https://www.remo.com' }
+    ],
+    videos: [
+      { title: 'Mayhem - Freezing Moon (Live Drum Cam)', youtubeId: 'XdV4b1rI4rY', year: 2017 },
+      { title: 'Mayhem - Chainsaw Gutsfuck (Live Drum Cam)', youtubeId: 'bZyvI73vDJs', year: 2018 },
+      { title: 'Mayhem - Pagan Fears (Live Drum Cam)', youtubeId: 'zT2T69bxWH4', year: 2019 }
+    ]
+  },
+  {
+    id: 21,
+    name: 'Pete Sandoval',
+    band: 'Morbid Angel',
+    genre: 'Death Metal',
+    country: 'USA',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/a/a4/Pete_Sandoval.jpg',
+    bio: 'Pedro "Pete" Sandoval, born in 1960 in El Salvador, is a legendary death metal drummer best known for his work with Morbid Angel and Terrorizer. He is credited with pioneering and perfecting the gravity blast technique, which revolutionized extreme metal drumming. His work on classic Morbid Angel albums like "Altars of Madness," "Blessed Are the Sick," and "Covenant" set the standard for death metal drumming. Sandoval\'s combination of speed, precision, and endurance influenced countless drummers in the extreme metal genre.',
+    gear: {
+      drums: 'ddrum Dios Series',
+      snare: 'ddrum Dios 14x6.5" Maple',
+      cymbals: 'Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 20" Stage Ride, 18" Chinese)',
+      hardware: 'ddrum Mercury Double Pedal, ddrum Throne',
+      sticks: 'Ahead Lars Ulrich Signature'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/a/a4/Pete_Sandoval.jpg'
+    ],
+    endorsements: [
+      { name: 'ddrum Drums', url: 'https://www.ddrum.com' },
+      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
+      { name: 'Ahead Drumsticks', url: 'https://www.aheaddrumsticks.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+    ],
+    videos: [
+      { title: 'Morbid Angel - Immortal Rites (Live Drum Cam)', youtubeId: 'QoNbazpnRH4', year: 2017 },
+      { title: 'Morbid Angel - Chapel of Ghouls (Live Drum Cam)', youtubeId: 'O2G7JW6lBz8', year: 2018 },
+      { title: 'Morbid Angel - Maze of Torment (Drum Playthrough)', youtubeId: 'fT_UqTtpZKE', year: 2016 }
+    ]
   }
 ];
 

@@ -107,7 +107,7 @@ const API_URL = typeof window !== 'undefined' && window.location.hostname !== 'l
   ? '/api/drummers'
   : 'http://localhost:3001/api/drummers';
 
-function updateDocumentMeta(drummer) {
+function updateDocumentMeta(drummer, drummers = []) {
   if (Platform.OS !== 'web' || typeof document === 'undefined') return;
 
   // Calculate kit cost for SEO if drummer exists
@@ -146,62 +146,152 @@ function updateDocumentMeta(drummer) {
   setMeta('twitter:title', title);
   setMeta('twitter:description', description);
 
-  let ldScript = document.querySelector('script[type="application/ld+json"]');
+  // Person/WebSite schema
+  let ldScript = document.querySelector('script[data-schema="main"]');
   if (!ldScript) {
     ldScript = document.createElement('script');
     ldScript.type = 'application/ld+json';
+    ldScript.setAttribute('data-schema', 'main');
     document.head.appendChild(ldScript);
   }
 
-  // Enhanced structured data with pricing for drummer pages
-  const structuredData = drummer ? {
-    "@context": "https://schema.org",
-    "@graph": [
+  // Build schema based on context
+  let schema;
+  if (drummer) {
+    // Enhanced structured data with Person + Product pricing for drummer pages
+    schema = {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Person",
+          "name": drummer.name,
+          "description": drummer.bio,
+          "image": drummer.image,
+          "jobTitle": "Drummer",
+          "memberOf": {
+            "@type": "MusicGroup",
+            "name": drummer.band
+          }
+        },
+        {
+          "@type": "Product",
+          "name": `${drummer.name}'s Complete Drum Kit`,
+          "description": `Professional drum setup used by ${drummer.name} of ${drummer.band}`,
+          "image": drummer.image,
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "EUR",
+            "lowPrice": kitCost?.totalEur || 0,
+            "highPrice": Math.round((kitCost?.totalEur || 0) * 1.2),
+            "offerCount": 5,
+            "availability": "https://schema.org/InStock"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": extractPrimaryProduct(drummer.gear?.drums)?.split(' ')[0] || "Various"
+          }
+        }
+      ]
+    };
+  } else {
+    // Homepage schema with ItemList for drummers collection
+    const baseUrl = "https://metalforge.io";
+    schema = [
       {
-        "@type": "Person",
-        "name": drummer.name,
-        "description": drummer.bio,
-        "image": drummer.image,
-        "jobTitle": "Drummer",
-        "memberOf": {
-          "@type": "MusicGroup",
-          "name": drummer.band
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Metal Drummer Gear",
+        "description": description,
+        "url": typeof window !== 'undefined' ? window.location.href : ''
+      }
+    ];
+
+    // Add ItemList schema if drummers are available
+    if (drummers && drummers.length > 0) {
+      schema.push({
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Pro Metal Drummers and Their Gear",
+        "description": "A comprehensive collection of legendary metal drummers and the gear they use",
+        "numberOfItems": drummers.length,
+        "itemListElement": drummers.map((d, i) => ({
+          "@type": "ListItem",
+          "position": i + 1,
+          "name": d.name,
+          "description": d.bio ? d.bio.substring(0, 150) : `${d.name} - ${d.band} drummer`,
+          "url": `${baseUrl}/drummer/${d.id}`
+        }))
+      });
+    }
+  }
+
+  ldScript.textContent = JSON.stringify(schema);
+
+  // FAQPage schema for drummer pages (LLM optimization)
+  let faqScript = document.querySelector('script[data-schema="faq"]');
+  if (drummer) {
+    if (!faqScript) {
+      faqScript = document.createElement('script');
+      faqScript.type = 'application/ld+json';
+      faqScript.setAttribute('data-schema', 'faq');
+      document.head.appendChild(faqScript);
+    }
+
+    const faqItems = [
+      {
+        "@type": "Question",
+        "name": `What drums does ${drummer.name} play?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `${drummer.name} plays ${drummer.gear.drums}.`
         }
       },
       {
-        "@type": "Product",
-        "name": `${drummer.name}'s Complete Drum Kit`,
-        "description": `Professional drum setup used by ${drummer.name} of ${drummer.band}`,
-        "image": drummer.image,
-        "offers": {
-          "@type": "AggregateOffer",
-          "priceCurrency": "EUR",
-          "lowPrice": kitCost?.totalEur || 0,
-          "highPrice": Math.round((kitCost?.totalEur || 0) * 1.2),
-          "offerCount": 5,
-          "availability": "https://schema.org/InStock"
-        },
-        "brand": {
-          "@type": "Brand",
-          "name": extractPrimaryProduct(drummer.gear?.drums)?.split(' ')[0] || "Various"
+        "@type": "Question",
+        "name": `What cymbals does ${drummer.name} use?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `${drummer.name} uses ${drummer.gear.cymbals}.`
+        }
+      },
+      {
+        "@type": "Question",
+        "name": `What bands is ${drummer.name} known for?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `${drummer.name} is known for playing drums in ${drummer.band}.`
         }
       }
-    ]
-  } : {
-    "@context": "https://schema.org",
-    "@type": "WebSite",
-    "name": "Metal Drummer Gear",
-    "description": description,
-    "url": typeof window !== 'undefined' ? window.location.href : ''
-  };
+    ];
 
-  ldScript.textContent = JSON.stringify(structuredData);
+    // Add endorsements FAQ if available
+    if (drummer.endorsements && drummer.endorsements.length > 0) {
+      const endorsementNames = drummer.endorsements.map(e => e.name).join(', ');
+      faqItems.push({
+        "@type": "Question",
+        "name": `What are ${drummer.name}'s gear endorsements?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `${drummer.name} is endorsed by ${endorsementNames}.`
+        }
+      });
+    }
+
+    faqScript.textContent = JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": faqItems
+    });
+  } else if (faqScript) {
+    // Remove FAQ schema when not on a drummer page
+    faqScript.remove();
+  }
 }
 
-function SEOHead({ drummer }) {
+function SEOHead({ drummer, drummers = [] }) {
   useEffect(() => {
-    updateDocumentMeta(drummer);
-  }, [drummer]);
+    updateDocumentMeta(drummer, drummers);
+  }, [drummer, drummers]);
   return null;
 }
 
@@ -471,32 +561,7 @@ function DrummerDetail({ drummer, theme, onBack }) {
   );
 }
 
-function DrummerList({ theme, onSelectDrummer }) {
-  const [drummers, setDrummers] = useState([]);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(null);
-
-  useEffect(() => {
-    fetchDrummers();
-  }, []);
-
-  const fetchDrummers = async () => {
-    try {
-      setLoading(true);
-      setError(null);
-      const response = await fetch(API_URL);
-      if (!response.ok) {
-        throw new Error('Failed to fetch drummers');
-      }
-      const data = await response.json();
-      setDrummers(data);
-    } catch (err) {
-      setError(err.message);
-    } finally {
-      setLoading(false);
-    }
-  };
-
+function DrummerList({ theme, onSelectDrummer, drummers, loading, error }) {
   if (loading) {
     return (
       <View style={styles.centerContainer}>
@@ -538,6 +603,29 @@ function AppContent() {
   const [selectedDrummerId, setSelectedDrummerId] = useState(null);
   const [selectedDrummer, setSelectedDrummer] = useState(null);
   const [loadingDetail, setLoadingDetail] = useState(false);
+  const [drummers, setDrummers] = useState([]);
+  const [loadingDrummers, setLoadingDrummers] = useState(true);
+  const [drummersError, setDrummersError] = useState(null);
+
+  useEffect(() => {
+    const fetchDrummers = async () => {
+      try {
+        setLoadingDrummers(true);
+        setDrummersError(null);
+        const response = await fetch(API_URL);
+        if (!response.ok) {
+          throw new Error('Failed to fetch drummers');
+        }
+        const data = await response.json();
+        setDrummers(data);
+      } catch (err) {
+        setDrummersError(err.message);
+      } finally {
+        setLoadingDrummers(false);
+      }
+    };
+    fetchDrummers();
+  }, []);
 
   const handleSelectDrummer = async (id) => {
     setLoadingDetail(true);
@@ -577,7 +665,7 @@ function AppContent() {
 
   return (
     <View style={[styles.container, { backgroundColor: theme.background }]}>
-      {!selectedDrummer && <SEOHead />}
+      {!selectedDrummer && <SEOHead drummers={drummers} />}
       <View style={styles.header} accessibilityRole="banner">
         <Text style={[styles.title, { color: theme.text }]} accessibilityRole="header">
           Metal Drummer Gear
@@ -599,7 +687,7 @@ function AppContent() {
         <DrummerDetail drummer={selectedDrummer} theme={theme} onBack={handleBack} />
       ) : (
         <View style={styles.mainContent} accessibilityRole="main">
-          <DrummerList theme={theme} onSelectDrummer={handleSelectDrummer} />
+          <DrummerList theme={theme} onSelectDrummer={handleSelectDrummer} drummers={drummers} loading={loadingDrummers} error={drummersError} />
         </View>
       )}
       <StatusBar style={isDarkMode ? 'light' : 'dark'} />

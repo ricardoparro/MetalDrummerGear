@@ -70,11 +70,11 @@ const drummers = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/6/60/Gene_Hoglan_-_Testament_%28cropped%29.jpg',
     bio: 'Gene Hoglan, nicknamed "The Atomic Clock" for his precise timing, is one of the most respected drummers in extreme metal. Born in 1967, he has played with Death, Dark Angel, Testament, Strapping Young Lad, Fear Factory, and Dethklok. His combination of speed, power, and musicality has influenced countless metal drummers.',
     gear: {
-      drums: 'Tama Starclassic Walnut/Birch',
-      snare: 'Tama Gene Hoglan Signature 14x8"',
-      cymbals: 'Zildjian A Custom Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China)',
-      hardware: 'Tama Speed Cobra 910 Double Pedal, Tama 1st Chair Round Rider Throne',
-      sticks: 'Vater 5B Wood Tip'
+      drums: 'Pearl Reference Series',
+      snare: 'Pearl Reference 14x6.5" Steel',
+      cymbals: 'Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China)',
+      hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000 Throne',
+      sticks: 'ProMark 5B Wood Tip'
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/6/60/Gene_Hoglan_-_Testament_%28cropped%29.jpg'
@@ -100,11 +100,11 @@ const drummers = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/d/df/Dave_Lombardo_8.5.14.jpeg',
     bio: 'Dave Lombardo, born in Cuba in 1965, is widely regarded as one of the greatest drummers in metal history. As the original drummer of Slayer, he pioneered the double bass drumming style that defined thrash metal. His work on albums like "Reign in Blood" is considered groundbreaking. He has also played with Fantomas, Suicidal Tendencies, and Dead Cross.',
     gear: {
-      drums: 'Pearl Masters Maple Complete',
-      snare: 'Pearl Dave Lombardo Signature 14x5.5"',
+      drums: 'Tama Starclassic Maple',
+      snare: 'Tama Bell Brass 14x6.5"',
       cymbals: 'Paiste RUDE & 2002 Series (14" Hi-Hats, 18" & 19" Crashes, 20" Power Ride, 18" China)',
-      hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000BR Throne',
-      sticks: 'Vic Firth American Classic 5B'
+      hardware: 'Tama Iron Cobra Double Pedal, Tama 1st Chair Throne',
+      sticks: 'ProMark 5B Wood Tip'
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/d/df/Dave_Lombardo_8.5.14.jpeg'
@@ -132,9 +132,9 @@ const drummers = [
     gear: {
       drums: 'Sonor SQ2 Heavy Beech',
       snare: 'Sonor Tomas Haake Signature 14x6.25"',
-      cymbals: 'Meinl Byzance Series (15" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Dark China)',
-      hardware: 'Sonor Giant Step Double Pedal, Sonor Drummer Throne',
-      sticks: 'Vic Firth Tomas Haake Signature'
+      cymbals: 'Sabian HHX Series (14" Rock Hi-Hats, 19" & 20" Stage Crashes, 22" Legacy Ride, 19" AAXtreme China)',
+      hardware: 'Trick Pro 1-V Bigfoot Double Pedal, Sonor Drummer Throne',
+      sticks: 'Wincent Tomas Haake Signature'
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/7/7b/Meshuggah_-_Rock_am_Ring_2023-44313.jpg'
@@ -190,11 +190,11 @@ const drummers = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/8/86/Sepultura_-_2023219214143_2023-08-07_Sepultura_-_Sven_-_1D_X_MK_II_-_0650_-_AK8I2527.jpg',
     bio: 'Eloy Casagrande, born in 1990, is a Brazilian drummer who became Sepultura\'s drummer in 2011 and joined Slipknot in 2024. Known for his explosive speed, technical prowess, and energetic performances, he brought new life to Sepultura\'s sound. His drumming style combines traditional metal with modern technical elements, making him one of the most exciting drummers in contemporary metal.',
     gear: {
-      drums: 'Pearl Reference Pure Shell Pack',
-      snare: 'Pearl Reference 14x5" Steel',
-      cymbals: 'Meinl Byzance Brilliant Series (14" Heavy Hi-Hats, 18" & 19" Heavy Crashes, 21" Heavy Ride, 18" China Brilliant)',
-      hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000 Throne',
-      sticks: 'Vic Firth Eloy Casagrande Signature'
+      drums: 'Tama Starclassic Bubinga',
+      snare: 'Tama Starclassic 14x6.5"',
+      cymbals: 'Paiste Formula 602 & 2002 Series (15" Modern Essentials Hi-Hats, 20" Wild Crash, 20" Power Ride, 20" Novo China)',
+      hardware: 'Tama Iron Cobra 900 Double Pedal, Tama 1st Chair Throne',
+      sticks: 'ProMark Eloy Casagrande Signature'
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/8/86/Sepultura_-_2023219214143_2023-08-07_Sepultura_-_Sven_-_1D_X_MK_II_-_0650_-_AK8I2527.jpg'
@@ -220,11 +220,11 @@ const drummers = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/c/c8/Ray_Luzier_of_Korn.jpg',
     bio: 'Ray Luzier, born in 1970, is an American drummer who joined Korn in 2007. Before Korn, he was a sought-after session musician, working with artists like David Lee Roth and Army of Anyone. His drumming combines rock solid grooves with technical flair, bringing a fresh energy to Korn\'s signature sound while respecting their nu-metal roots.',
     gear: {
-      drums: 'Pearl Masters Maple Complete',
+      drums: 'Pearl Reference Series',
       snare: 'Pearl Reference 14x6.5" Brass',
       cymbals: 'Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China)',
-      hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000 Roadster Throne',
-      sticks: 'Promark Ray Luzier Signature TX420X'
+      hardware: 'DW 9002 Double Pedal, Pearl D-2000 Roadster Throne',
+      sticks: 'Vic Firth Ray Luzier Signature'
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/c/c8/Ray_Luzier_of_Korn.jpg'
@@ -255,7 +255,7 @@ const drummers = [
       snare: 'OCDP 14x7" Maple/Ash',
       cymbals: 'Zildjian K Custom Series (14" Hi-Hats, 17" & 18" Dark Crashes, 20" Ride, 18" China)',
       hardware: 'DW 9000 Series Double Pedal, DW 9100 Throne',
-      sticks: 'Promark 747 Rock Wood Tip'
+      sticks: 'Zildjian John Otto Signature'
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/0/0a/Drummer_John_Otto_of_Limp_Bizkit_in_2006.jpg'
@@ -282,11 +282,11 @@ const drummers = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/4/46/Suicidal_Tendencies_Rockharz_2024_18.jpg',
     bio: 'Jay Weinberg, born in 1990, is the son of E Street Band drummer Max Weinberg. He joined Slipknot in 2014, becoming their drummer after Joey Jordison\'s departure. Before Slipknot, he briefly played with Against Me! and Madball. His powerful, aggressive style honored Slipknot\'s legacy while adding his own intensity. In 2023, he joined Suicidal Tendencies.',
     gear: {
-      drums: 'Pearl Masterworks Custom',
-      snare: 'Pearl Reference 14x6.5" Steel',
+      drums: 'SJC Custom Drums',
+      snare: 'SJC Jay Weinberg "The Crucible" 14x6.5" Brass',
       cymbals: 'Zildjian A Custom & K Custom Series (14" A New Beat Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 19" K China)',
-      hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000 Throne',
-      sticks: 'Promark ActiveGrip 5B'
+      hardware: 'DW 9000 Series Double Pedal, DW 9100 Throne',
+      sticks: 'Vater Jay Weinberg 908 Signature'
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/4/46/Suicidal_Tendencies_Rockharz_2024_18.jpg'

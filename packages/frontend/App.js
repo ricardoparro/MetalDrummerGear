@@ -106,7 +106,7 @@ const API_URL = typeof window !== 'undefined' && window.location.hostname !== 'l
   ? '/api/drummers'
   : 'http://localhost:3001/api/drummers';
 
-function updateDocumentMeta(drummer) {
+function updateDocumentMeta(drummer, drummers = []) {
   if (Platform.OS !== 'web' || typeof document === 'undefined') return;
 
   const title = drummer
@@ -146,30 +146,61 @@ function updateDocumentMeta(drummer) {
     ldScript.type = 'application/ld+json';
     document.head.appendChild(ldScript);
   }
-  ldScript.textContent = JSON.stringify(drummer ? {
-    "@context": "https://schema.org",
-    "@type": "Person",
-    "name": drummer.name,
-    "description": drummer.bio,
-    "image": drummer.image,
-    "jobTitle": "Drummer",
-    "memberOf": {
-      "@type": "MusicGroup",
-      "name": drummer.band
+
+  // Build schema based on context
+  let schema;
+  if (drummer) {
+    schema = {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": drummer.name,
+      "description": drummer.bio,
+      "image": drummer.image,
+      "jobTitle": "Drummer",
+      "memberOf": {
+        "@type": "MusicGroup",
+        "name": drummer.band
+      }
+    };
+  } else {
+    // Homepage schema with ItemList for drummers collection
+    const baseUrl = "https://metalforge.io";
+    schema = [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Metal Drummer Gear",
+        "description": description,
+        "url": typeof window !== 'undefined' ? window.location.href : ''
+      }
+    ];
+
+    // Add ItemList schema if drummers are available
+    if (drummers && drummers.length > 0) {
+      schema.push({
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Pro Metal Drummers and Their Gear",
+        "description": "A comprehensive collection of legendary metal drummers and the gear they use",
+        "numberOfItems": drummers.length,
+        "itemListElement": drummers.map((d, i) => ({
+          "@type": "ListItem",
+          "position": i + 1,
+          "name": d.name,
+          "description": d.bio ? d.bio.substring(0, 150) : `${d.name} - ${d.band} drummer`,
+          "url": `${baseUrl}/drummer/${d.id}`
+        }))
+      });
     }
-  } : {
-    "@context": "https://schema.org",
-    "@type": "WebSite",
-    "name": "Metal Drummer Gear",
-    "description": description,
-    "url": typeof window !== 'undefined' ? window.location.href : ''
-  });
+  }
+
+  ldScript.textContent = JSON.stringify(schema);
 }
 
-function SEOHead({ drummer }) {
+function SEOHead({ drummer, drummers = [] }) {
   useEffect(() => {
-    updateDocumentMeta(drummer);
-  }, [drummer]);
+    updateDocumentMeta(drummer, drummers);
+  }, [drummer, drummers]);
   return null;
 }
 
@@ -333,32 +364,7 @@ function DrummerDetail({ drummer, theme, onBack }) {
   );
 }
 
-function DrummerList({ theme, onSelectDrummer }) {
-  const [drummers, setDrummers] = useState([]);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(null);
-
-  useEffect(() => {
-    fetchDrummers();
-  }, []);
-
-  const fetchDrummers = async () => {
-    try {
-      setLoading(true);
-      setError(null);
-      const response = await fetch(API_URL);
-      if (!response.ok) {
-        throw new Error('Failed to fetch drummers');
-      }
-      const data = await response.json();
-      setDrummers(data);
-    } catch (err) {
-      setError(err.message);
-    } finally {
-      setLoading(false);
-    }
-  };
-
+function DrummerList({ theme, onSelectDrummer, drummers, loading, error }) {
   if (loading) {
     return (
       <View style={styles.centerContainer}>
@@ -400,6 +406,29 @@ function AppContent() {
   const [selectedDrummerId, setSelectedDrummerId] = useState(null);
   const [selectedDrummer, setSelectedDrummer] = useState(null);
   const [loadingDetail, setLoadingDetail] = useState(false);
+  const [drummers, setDrummers] = useState([]);
+  const [loadingDrummers, setLoadingDrummers] = useState(true);
+  const [drummersError, setDrummersError] = useState(null);
+
+  useEffect(() => {
+    const fetchDrummers = async () => {
+      try {
+        setLoadingDrummers(true);
+        setDrummersError(null);
+        const response = await fetch(API_URL);
+        if (!response.ok) {
+          throw new Error('Failed to fetch drummers');
+        }
+        const data = await response.json();
+        setDrummers(data);
+      } catch (err) {
+        setDrummersError(err.message);
+      } finally {
+        setLoadingDrummers(false);
+      }
+    };
+    fetchDrummers();
+  }, []);
 
   const handleSelectDrummer = async (id) => {
     setLoadingDetail(true);
@@ -439,7 +468,7 @@ function AppContent() {
 
   return (
     <View style={[styles.container, { backgroundColor: theme.background }]}>
-      {!selectedDrummer && <SEOHead />}
+      {!selectedDrummer && <SEOHead drummers={drummers} />}
       <View style={styles.header} accessibilityRole="banner">
         <Text style={[styles.title, { color: theme.text }]} accessibilityRole="header">
           Metal Drummer Gear
@@ -461,7 +490,7 @@ function AppContent() {
         <DrummerDetail drummer={selectedDrummer} theme={theme} onBack={handleBack} />
       ) : (
         <View style={styles.mainContent} accessibilityRole="main">
-          <DrummerList theme={theme} onSelectDrummer={handleSelectDrummer} />
+          <DrummerList theme={theme} onSelectDrummer={handleSelectDrummer} drummers={drummers} loading={loadingDrummers} error={drummersError} />
         </View>
       )}
       <StatusBar style={isDarkMode ? 'light' : 'dark'} />

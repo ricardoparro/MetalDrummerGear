@@ -209,12 +209,13 @@ const drummers = [
     gear: {
       drums: 'Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms)',
       snare: 'Tama Bell Brass 14x5.5" (BB146)',
-      cymbals: 'Paiste (15" Formula 602 Modern Essentials Hi-Hats, 20" Formula 602 ME Crash, 20" 2002 Wild Crash, 20" Masters Dark Crash, 20" 2002 Novo China, 20" 2002 Power Ride, 10" Signature Splash, 10" 2002 Mega Bell)',
+      cymbals: 'Paiste (15" Masters Dark Hi-Hats, 20" Masters Dark Ride, 20" & 20" 602 Crashes, 10" Rude Splash, 20" Masters Dark Crash, 20" 2002 Heavy Ride, 20" 2002 Novo China, 10" 2002 Mega Bell, Symphonic Gong)',
       hardware: 'Tama Iron Cobra Double Pedal, Yamaha DTX Electronic Pads',
       sticks: 'Promark Eloy Casagrande Signature',
       heads: 'Evans',
       verified: true,
-      sources: ['https://www.tama.com/usa/artists/', 'https://en.beatit.tv/eloy-casagrandes-2024-slipknot-drum-kit/']
+      verifiedAt: '2026-02-01',
+      sources: ['https://www.tama.com/usa/artists/', 'https://en.beatit.tv/eloy-casagrandes-2024-slipknot-drum-kit/', 'https://www.paiste.com/en/musicians']
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/8/86/Sepultura_-_2023219214143_2023-08-07_Sepultura_-_Sven_-_1D_X_MK_II_-_0650_-_AK8I2527.jpg'

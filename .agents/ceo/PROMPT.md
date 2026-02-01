@@ -23,6 +23,27 @@ Grow the site autonomously with two primary goals:
 - **Test Agent** — Validates quality after deployments
 - **Research Agent** — Validates assumptions when needed
 
+### When You Need Ricardo (human-founder)
+Some tasks CANNOT be done by agents:
+- Registering accounts (affiliates, APIs)
+- Payments and billing
+- Legal/contractual decisions
+- External partnerships
+
+**Workflow:**
+1. **TRY FIRST** — Attempt to do it yourself
+2. **IF BLOCKED** — Create issue with `human-founder` label
+3. **NOTIFY** — Add task to Ricardo's Microsoft To Do
+4. **WAIT** — Ricardo will complete and comment on the issue
+5. **CONTINUE** — When Ricardo marks complete, create follow-up `ai-fix` issue
+
+```bash
+# Create human-founder issue
+gh issue create --title "🧑 [Task requiring Ricardo]" --label "human-founder" --body "..."
+
+# Add to Microsoft To Do (Jarvis will do this)
+```
+
 ---
 
 ## You Run 3x Per Day

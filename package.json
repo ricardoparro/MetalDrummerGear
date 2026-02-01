@@ -10,7 +10,8 @@
     "backend": "npm run start --workspace=packages/backend",
     "dev": "concurrently \"npm run backend\" \"npm run frontend\"",
     "build": "npm run build --workspace=packages/frontend",
-    "test": "npm run test --workspaces --if-present"
+    "test": "npm run test --workspaces --if-present",
+    "validate": "node scripts/validate-data.js"
   },
   "devDependencies": {
     "concurrently": "^8.2.2"

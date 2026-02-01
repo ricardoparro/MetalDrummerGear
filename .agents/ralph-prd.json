@@ -2,7 +2,7 @@
   "project": "MetalForge Data Quality",
   "created": "2026-02-01",
   "maxIterationsPerRun": 20,
-  "lastRun": "2026-02-01T23:00Z",
+  "lastRun": "2026-02-01T23:05Z",
   "tasks": [
     {
       "id": 1,
@@ -210,140 +210,160 @@
       "type": "verify-video",
       "youtubeId": "A96QtqEpqUA",
       "drummer": "Lars Ulrich",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 24,
       "type": "verify-video",
       "youtubeId": "Z_qLd2uj21w",
       "drummer": "Lars Ulrich",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 25,
       "type": "verify-video",
       "youtubeId": "t0cDBuEOdIA",
       "drummer": "Lars Ulrich",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 26,
       "type": "verify-video",
       "youtubeId": "tUibKh0Z--c",
       "drummer": "Joey Jordison",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 27,
       "type": "verify-video",
       "youtubeId": "zRS9uKs3Rlk",
       "drummer": "Joey Jordison",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 28,
       "type": "verify-video",
       "youtubeId": "RdXMcj7xv20",
       "drummer": "Joey Jordison",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 29,
       "type": "verify-video",
       "youtubeId": "eGope68pHf0",
       "drummer": "Gene Hoglan",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 30,
       "type": "verify-video",
       "youtubeId": "-eaIvh6ELVg",
       "drummer": "Gene Hoglan",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 31,
       "type": "verify-video",
       "youtubeId": "wagKFfcbP5s",
       "drummer": "Gene Hoglan",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 32,
       "type": "verify-video",
       "youtubeId": "3ivOfkqFmxg",
       "drummer": "Dave Lombardo",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 33,
       "type": "verify-video",
       "youtubeId": "ManyDSIC8fQ",
       "drummer": "Dave Lombardo",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 34,
       "type": "verify-video",
       "youtubeId": "3kBCky31sTg",
       "drummer": "Dave Lombardo",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 35,
       "type": "verify-video",
       "youtubeId": "bAJ1WTGNISk",
       "drummer": "Tomas Haake",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 36,
       "type": "verify-video",
       "youtubeId": "axGn6qeJHcM",
       "drummer": "Tomas Haake",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 37,
       "type": "verify-video",
       "youtubeId": "kMo5VxRrgcY",
       "drummer": "Tomas Haake",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 38,
       "type": "verify-video",
       "youtubeId": "RqzZmNqdWck",
       "drummer": "George Kollias",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 39,
       "type": "verify-video",
       "youtubeId": "86YtBw5gmAM",
       "drummer": "George Kollias",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 40,
       "type": "verify-video",
       "youtubeId": "dU-JXLRqjiE",
       "drummer": "George Kollias",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 41,
       "type": "verify-video",
       "youtubeId": "1ktbtG-zD8Y",
       "drummer": "Eloy Casagrande",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 42,
       "type": "verify-video",
       "youtubeId": "dQe3EwkPcFU",
       "drummer": "Eloy Casagrande",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 43,

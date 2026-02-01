@@ -140,10 +140,12 @@ function updateDocumentMeta(drummer, drummers = []) {
   setMeta('twitter:title', title);
   setMeta('twitter:description', description);
 
-  let ldScript = document.querySelector('script[type="application/ld+json"]');
+  // Person/WebSite schema
+  let ldScript = document.querySelector('script[data-schema="main"]');
   if (!ldScript) {
     ldScript = document.createElement('script');
     ldScript.type = 'application/ld+json';
+    ldScript.setAttribute('data-schema', 'main');
     document.head.appendChild(ldScript);
   }
 
@@ -195,6 +197,66 @@ function updateDocumentMeta(drummer, drummers = []) {
   }
 
   ldScript.textContent = JSON.stringify(schema);
+
+  // FAQPage schema for drummer pages (LLM optimization)
+  let faqScript = document.querySelector('script[data-schema="faq"]');
+  if (drummer) {
+    if (!faqScript) {
+      faqScript = document.createElement('script');
+      faqScript.type = 'application/ld+json';
+      faqScript.setAttribute('data-schema', 'faq');
+      document.head.appendChild(faqScript);
+    }
+
+    const faqItems = [
+      {
+        "@type": "Question",
+        "name": `What drums does ${drummer.name} play?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `${drummer.name} plays ${drummer.gear.drums}.`
+        }
+      },
+      {
+        "@type": "Question",
+        "name": `What cymbals does ${drummer.name} use?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `${drummer.name} uses ${drummer.gear.cymbals}.`
+        }
+      },
+      {
+        "@type": "Question",
+        "name": `What bands is ${drummer.name} known for?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `${drummer.name} is known for playing drums in ${drummer.band}.`
+        }
+      }
+    ];
+
+    // Add endorsements FAQ if available
+    if (drummer.endorsements && drummer.endorsements.length > 0) {
+      const endorsementNames = drummer.endorsements.map(e => e.name).join(', ');
+      faqItems.push({
+        "@type": "Question",
+        "name": `What are ${drummer.name}'s gear endorsements?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `${drummer.name} is endorsed by ${endorsementNames}.`
+        }
+      });
+    }
+
+    faqScript.textContent = JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": faqItems
+    });
+  } else if (faqScript) {
+    // Remove FAQ schema when not on a drummer page
+    faqScript.remove();
+  }
 }
 
 function SEOHead({ drummer, drummers = [] }) {

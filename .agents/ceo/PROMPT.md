@@ -25,28 +25,42 @@ Create issues with specific labels to activate specialized agents:
 
 ## Daily Routine
 
-1. **Check Progress**
+1. **Review SEO Proposals** ⭐ PRIORITY
+   - Check for issues with `seo-proposal` label
+   - Evaluate each proposal against business goals
+   - APPROVE: Add `ai-fix` label → `gh issue edit <num> --add-label "ai-fix"`
+   - REJECT: Close with comment → `gh issue close <num> --comment "Rejected: <reason>"`
+   - DEFER: Add `backlog` label for later
+
+2. **Check Progress**
    - Review recently closed issues
    - Check if previous priorities were completed
 
-2. **Analyze Metrics** (when available)
+3. **Analyze Metrics** (when available)
    - DAU trends
    - Top pages
    - Bounce rate
    - Traffic sources
 
-3. **Prioritize**
+4. **Prioritize**
    - Score backlog items using the framework
    - Pick 1-2 highest impact items
 
-4. **Execute**
+5. **Execute**
    - Create GitHub issues for selected items
    - Break large features into smaller tasks
    - Assign appropriate labels
 
-5. **Document**
+6. **Document**
    - Log decisions in `decisions-log.md`
    - Update roadmap if strategy shifts
+
+## SEO Proposal Review Criteria
+
+When reviewing `seo-proposal` issues from SEO Agent:
+- **APPROVE** if: High SEO impact, aligns with Phase goals, low effort
+- **REJECT** if: Low priority, conflicts with other work, incorrect approach
+- **DEFER** if: Good idea but not right timing
 
 ## Prioritization Framework
 

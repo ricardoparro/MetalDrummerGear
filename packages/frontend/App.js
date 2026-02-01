@@ -1,9 +1,30 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View, Switch, FlatList, ActivityIndicator, Image, TouchableOpacity, ScrollView, Linking, Platform, useWindowDimensions } from 'react-native';
+import { StyleSheet, Text, View, Switch, FlatList, ActivityIndicator, Image, TouchableOpacity, ScrollView, Linking, Platform, useWindowDimensions, TextInput } from 'react-native';
 import { ThemeProvider, useTheme } from './ThemeContext';
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useCallback, useMemo } from 'react';
 import { getAffiliateLinks, extractPrimaryProduct, getThomannLink, getSweetwaterLink } from './affiliateLinks';
 import { calculateKitCost, formatPrice } from './gearPrices';
+
+// Helper to get/set URL params for shareable comparisons
+function getCompareParamsFromURL() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return [];
+  const params = new URLSearchParams(window.location.search);
+  const drummers = [];
+  if (params.get('d1')) drummers.push(params.get('d1'));
+  if (params.get('d2')) drummers.push(params.get('d2'));
+  if (params.get('d3')) drummers.push(params.get('d3'));
+  return drummers;
+}
+
+function updateCompareURL(drummerIds) {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return;
+  const params = new URLSearchParams();
+  drummerIds.forEach((id, index) => {
+    if (id) params.set(`d${index + 1}`, id);
+  });
+  const newPath = drummerIds.length > 0 ? `/compare?${params.toString()}` : '/';
+  window.history.replaceState({}, '', newPath);
+}
 
 // YouTube Video Embed Component - Works with React Native Web
 function YouTubeEmbed({ videoId, title, theme }) {
@@ -561,7 +582,384 @@ function DrummerDetail({ drummer, theme, onBack }) {
   );
 }
 
-function DrummerList({ theme, onSelectDrummer, drummers, loading, error }) {
+// Dropdown selector for drummer comparison
+function DrummerSelector({ drummers, selectedId, onSelect, placeholder, theme, excludeIds = [] }) {
+  const [isOpen, setIsOpen] = useState(false);
+  const [searchText, setSearchText] = useState('');
+
+  const filteredDrummers = useMemo(() => {
+    return drummers
+      .filter(d => !excludeIds.includes(d.id.toString()) || d.id.toString() === selectedId)
+      .filter(d =>
+        d.name.toLowerCase().includes(searchText.toLowerCase()) ||
+        d.band.toLowerCase().includes(searchText.toLowerCase())
+      );
+  }, [drummers, excludeIds, selectedId, searchText]);
+
+  const selectedDrummer = drummers.find(d => d.id.toString() === selectedId);
+
+  return (
+    <View style={styles.selectorContainer}>
+      <TouchableOpacity
+        onPress={() => setIsOpen(!isOpen)}
+        style={[styles.selectorButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+      >
+        <Text style={[styles.selectorText, { color: selectedDrummer ? theme.text : theme.secondaryText }]}>
+          {selectedDrummer ? `${selectedDrummer.name} (${selectedDrummer.band})` : placeholder}
+        </Text>
+        <Text style={[styles.selectorArrow, { color: theme.secondaryText }]}>
+          {isOpen ? '▲' : '▼'}
+        </Text>
+      </TouchableOpacity>
+      {isOpen && (
+        <View style={[styles.selectorDropdown, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <TextInput
+            style={[styles.selectorSearch, { backgroundColor: theme.background, borderColor: theme.border, color: theme.text }]}
+            placeholder="Search drummers..."
+            placeholderTextColor={theme.secondaryText}
+            value={searchText}
+            onChangeText={setSearchText}
+          />
+          <ScrollView style={styles.selectorList} nestedScrollEnabled>
+            {selectedId && (
+              <TouchableOpacity
+                onPress={() => {
+                  onSelect(null);
+                  setIsOpen(false);
+                  setSearchText('');
+                }}
+                style={[styles.selectorOption, { borderBottomColor: theme.border }]}
+              >
+                <Text style={[styles.selectorOptionText, { color: theme.error }]}>Clear selection</Text>
+              </TouchableOpacity>
+            )}
+            {filteredDrummers.map(drummer => (
+              <TouchableOpacity
+                key={drummer.id}
+                onPress={() => {
+                  onSelect(drummer.id.toString());
+                  setIsOpen(false);
+                  setSearchText('');
+                }}
+                style={[
+                  styles.selectorOption,
+                  { borderBottomColor: theme.border },
+                  drummer.id.toString() === selectedId && { backgroundColor: theme.border }
+                ]}
+              >
+                <Text style={[styles.selectorOptionText, { color: theme.text }]}>{drummer.name}</Text>
+                <Text style={[styles.selectorOptionSubtext, { color: theme.secondaryText }]}>{drummer.band}</Text>
+              </TouchableOpacity>
+            ))}
+          </ScrollView>
+        </View>
+      )}
+    </View>
+  );
+}
+
+// Gear comparison row that highlights differences
+function GearComparisonRow({ label, items, theme }) {
+  const values = items.map(d => d?.gear?.[label.toLowerCase()] || '-');
+  const allSame = values.every(v => v === values[0]);
+
+  return (
+    <View style={styles.comparisonRow}>
+      <Text style={[styles.comparisonLabel, { color: theme.text }]}>{label}</Text>
+      <View style={styles.comparisonValues}>
+        {values.map((value, index) => (
+          <View key={index} style={[
+            styles.comparisonValue,
+            !allSame && value !== '-' && { backgroundColor: 'rgba(255, 193, 7, 0.15)' }
+          ]}>
+            <Text style={[styles.comparisonValueText, { color: theme.secondaryText }]}>
+              {value}
+            </Text>
+          </View>
+        ))}
+      </View>
+    </View>
+  );
+}
+
+// Social share buttons
+function ShareButtons({ drummerIds, drummerNames, theme }) {
+  const shareUrl = typeof window !== 'undefined'
+    ? `${window.location.origin}/compare?${drummerIds.map((id, i) => `d${i+1}=${id}`).join('&')}`
+    : '';
+
+  const shareText = `Compare drum gear: ${drummerNames.join(' vs ')} - Metal Drummer Gear`;
+
+  const handleTwitterShare = () => {
+    const twitterUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(shareUrl)}`;
+    if (Platform.OS === 'web') {
+      window.open(twitterUrl, '_blank', 'noopener,noreferrer');
+    } else {
+      Linking.openURL(twitterUrl);
+    }
+  };
+
+  const handleFacebookShare = () => {
+    const facebookUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(shareUrl)}`;
+    if (Platform.OS === 'web') {
+      window.open(facebookUrl, '_blank', 'noopener,noreferrer');
+    } else {
+      Linking.openURL(facebookUrl);
+    }
+  };
+
+  const handleCopyLink = async () => {
+    if (Platform.OS === 'web' && navigator.clipboard) {
+      await navigator.clipboard.writeText(shareUrl);
+      alert('Link copied to clipboard!');
+    }
+  };
+
+  return (
+    <View style={styles.shareContainer}>
+      <Text style={[styles.shareTitle, { color: theme.text }]}>Share this comparison:</Text>
+      <View style={styles.shareButtons}>
+        <TouchableOpacity
+          onPress={handleTwitterShare}
+          style={[styles.shareButton, { backgroundColor: '#1DA1F2' }]}
+          accessibilityLabel="Share on Twitter"
+        >
+          <Text style={styles.shareButtonText}>Twitter</Text>
+        </TouchableOpacity>
+        <TouchableOpacity
+          onPress={handleFacebookShare}
+          style={[styles.shareButton, { backgroundColor: '#4267B2' }]}
+          accessibilityLabel="Share on Facebook"
+        >
+          <Text style={styles.shareButtonText}>Facebook</Text>
+        </TouchableOpacity>
+        {Platform.OS === 'web' && (
+          <TouchableOpacity
+            onPress={handleCopyLink}
+            style={[styles.shareButton, { backgroundColor: theme.secondaryText }]}
+            accessibilityLabel="Copy link"
+          >
+            <Text style={styles.shareButtonText}>Copy Link</Text>
+          </TouchableOpacity>
+        )}
+      </View>
+    </View>
+  );
+}
+
+// Main comparison view component
+function CompareView({ theme, onBack, drummers, onNavigateToCompare }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+
+  // Initialize from URL params if available
+  const [selectedIds, setSelectedIds] = useState(() => {
+    const urlParams = getCompareParamsFromURL();
+    return urlParams.length > 0 ? urlParams : [null, null];
+  });
+  const [comparedDrummers, setComparedDrummers] = useState([]);
+  const [loading, setLoading] = useState(false);
+
+  // Fetch drummer details when selection changes
+  useEffect(() => {
+    const fetchDrummers = async () => {
+      const idsToFetch = selectedIds.filter(id => id !== null);
+      if (idsToFetch.length === 0) {
+        setComparedDrummers([]);
+        return;
+      }
+
+      setLoading(true);
+      try {
+        const results = await Promise.all(
+          idsToFetch.map(async (id) => {
+            const detailUrl = typeof window !== 'undefined' && window.location.hostname !== 'localhost'
+              ? `/api/drummers/${id}`
+              : `http://localhost:3001/api/drummers/${id}`;
+            const response = await fetch(detailUrl);
+            if (!response.ok) return null;
+            return response.json();
+          })
+        );
+        setComparedDrummers(results.filter(Boolean));
+      } catch (err) {
+        console.error('Error fetching drummers for comparison:', err);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    fetchDrummers();
+    updateCompareURL(selectedIds.filter(Boolean));
+  }, [selectedIds]);
+
+  const handleSelectDrummer = (index, id) => {
+    const newIds = [...selectedIds];
+    newIds[index] = id;
+    setSelectedIds(newIds);
+  };
+
+  const handleAddSlot = () => {
+    if (selectedIds.length < 3) {
+      setSelectedIds([...selectedIds, null]);
+    }
+  };
+
+  const handleRemoveSlot = (index) => {
+    if (selectedIds.length > 2) {
+      const newIds = selectedIds.filter((_, i) => i !== index);
+      setSelectedIds(newIds);
+    }
+  };
+
+  const excludeIds = selectedIds.filter(Boolean);
+  const hasComparison = comparedDrummers.length >= 2;
+
+  // Update SEO for comparison page
+  useEffect(() => {
+    if (Platform.OS === 'web' && typeof document !== 'undefined') {
+      if (hasComparison) {
+        const names = comparedDrummers.map(d => d.name).join(' vs ');
+        document.title = `${names} Gear Comparison | Metal Drummer Gear`;
+      } else {
+        document.title = 'Compare Drummer Gear | Metal Drummer Gear';
+      }
+    }
+  }, [hasComparison, comparedDrummers]);
+
+  return (
+    <ScrollView style={styles.detailContainer} contentContainerStyle={styles.detailContent}>
+      <TouchableOpacity
+        onPress={onBack}
+        style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+        accessibilityRole="button"
+        accessibilityLabel="Go back to drummer list"
+      >
+        <Text style={[styles.backButtonText, { color: theme.text }]}>Back to List</Text>
+      </TouchableOpacity>
+
+      <Text style={[styles.compareTitle, { color: theme.text }]} accessibilityRole="header">
+        Compare Drummer Gear
+      </Text>
+      <Text style={[styles.compareSubtitle, { color: theme.secondaryText }]}>
+        Select 2-3 drummers to compare their complete setups side-by-side
+      </Text>
+
+      {/* Drummer Selectors */}
+      <View style={[styles.selectorsContainer, isMobile && styles.selectorsMobile]}>
+        {selectedIds.map((id, index) => (
+          <View key={index} style={[styles.selectorWrapper, isMobile && styles.selectorWrapperMobile]}>
+            <View style={styles.selectorHeader}>
+              <Text style={[styles.selectorLabel, { color: theme.text }]}>Drummer {index + 1}</Text>
+              {selectedIds.length > 2 && (
+                <TouchableOpacity onPress={() => handleRemoveSlot(index)}>
+                  <Text style={[styles.removeSlot, { color: theme.error }]}>Remove</Text>
+                </TouchableOpacity>
+              )}
+            </View>
+            <DrummerSelector
+              drummers={drummers}
+              selectedId={id}
+              onSelect={(newId) => handleSelectDrummer(index, newId)}
+              placeholder={`Select drummer ${index + 1}...`}
+              theme={theme}
+              excludeIds={excludeIds}
+            />
+          </View>
+        ))}
+        {selectedIds.length < 3 && (
+          <TouchableOpacity
+            onPress={handleAddSlot}
+            style={[styles.addSlotButton, { borderColor: theme.border }]}
+          >
+            <Text style={[styles.addSlotText, { color: theme.secondaryText }]}>+ Add Third Drummer</Text>
+          </TouchableOpacity>
+        )}
+      </View>
+
+      {/* Loading state */}
+      {loading && (
+        <View style={styles.compareLoading}>
+          <ActivityIndicator size="large" color={theme.text} />
+        </View>
+      )}
+
+      {/* Comparison display */}
+      {!loading && hasComparison && (
+        <View style={styles.comparisonContainer}>
+          {/* Drummer Headers */}
+          <View style={[styles.comparisonHeaderRow, isMobile && styles.comparisonHeaderRowMobile]}>
+            {comparedDrummers.map((drummer, index) => (
+              <View key={index} style={[styles.drummerHeader, isMobile && styles.drummerHeaderMobile]}>
+                <ImageWithFallback
+                  source={{ uri: drummer.image }}
+                  style={[styles.compareImage, isMobile && styles.compareImageMobile]}
+                  accessibilityLabel={`Photo of ${drummer.name}`}
+                />
+                <Text style={[styles.compareName, { color: theme.text }]} numberOfLines={1}>{drummer.name}</Text>
+                <Text style={[styles.compareBand, { color: theme.secondaryText }]} numberOfLines={1}>{drummer.band}</Text>
+                <Text style={[styles.compareGenre, { color: theme.secondaryText }]}>{drummer.genre}</Text>
+              </View>
+            ))}
+          </View>
+
+          {/* Gear Comparison Table */}
+          <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>Gear Comparison</Text>
+            <Text style={[styles.comparisonHint, { color: theme.secondaryText }]}>
+              Differences are highlighted in yellow
+            </Text>
+
+            <GearComparisonRow label="Drums" items={comparedDrummers} theme={theme} />
+            <GearComparisonRow label="Snare" items={comparedDrummers} theme={theme} />
+            <GearComparisonRow label="Cymbals" items={comparedDrummers} theme={theme} />
+            <GearComparisonRow label="Hardware" items={comparedDrummers} theme={theme} />
+            <GearComparisonRow label="Sticks" items={comparedDrummers} theme={theme} />
+          </View>
+
+          {/* Kit Cost Comparison */}
+          <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>Kit Cost Comparison</Text>
+            <View style={[styles.costComparisonContainer, isMobile && styles.costComparisonContainerMobile]}>
+              {comparedDrummers.map((drummer, index) => {
+                const kitCost = calculateKitCost(drummer.gear);
+                return (
+                  <View key={index} style={[styles.costCard, isMobile && styles.costCardMobile]}>
+                    <Text style={[styles.costName, { color: theme.text }]}>{drummer.name}</Text>
+                    <Text style={[styles.costPrice, { color: theme.text }]}>
+                      {kitCost ? formatPrice(kitCost.totalEur, 'EUR') : 'N/A'}
+                    </Text>
+                    <Text style={[styles.costPriceUsd, { color: theme.secondaryText }]}>
+                      {kitCost ? formatPrice(kitCost.totalUsd, 'USD') : ''}
+                    </Text>
+                  </View>
+                );
+              })}
+            </View>
+          </View>
+
+          {/* Share buttons */}
+          <ShareButtons
+            drummerIds={selectedIds.filter(Boolean)}
+            drummerNames={comparedDrummers.map(d => d.name)}
+            theme={theme}
+          />
+        </View>
+      )}
+
+      {/* Empty state */}
+      {!loading && !hasComparison && selectedIds.some(id => id !== null) && (
+        <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.emptyStateText, { color: theme.secondaryText }]}>
+            Select at least 2 drummers to see the comparison
+          </Text>
+        </View>
+      )}
+    </ScrollView>
+  );
+}
+
+function DrummerList({ theme, onSelectDrummer, drummers, loading, error, onNavigateToCompare }) {
   if (loading) {
     return (
       <View style={styles.centerContainer}>
@@ -583,19 +981,35 @@ function DrummerList({ theme, onSelectDrummer, drummers, loading, error }) {
   }
 
   return (
-    <FlatList
-      data={drummers}
-      keyExtractor={(item) => item.id.toString()}
-      renderItem={({ item }) => (
-        <DrummerCard
-          drummer={item}
-          theme={theme}
-          onPress={() => onSelectDrummer(item.id)}
-        />
-      )}
-      contentContainerStyle={styles.listContainer}
-    />
+    <View style={styles.listWrapper}>
+      <TouchableOpacity
+        onPress={onNavigateToCompare}
+        style={[styles.compareButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+        accessibilityRole="button"
+        accessibilityLabel="Compare drummers side by side"
+      >
+        <Text style={[styles.compareButtonText, { color: theme.text }]}>Compare Drummers</Text>
+      </TouchableOpacity>
+      <FlatList
+        data={drummers}
+        keyExtractor={(item) => item.id.toString()}
+        renderItem={({ item }) => (
+          <DrummerCard
+            drummer={item}
+            theme={theme}
+            onPress={() => onSelectDrummer(item.id)}
+          />
+        )}
+        contentContainerStyle={styles.listContainer}
+      />
+    </View>
   );
+}
+
+// Check if we're on the compare page based on URL
+function isComparePage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  return window.location.pathname === '/compare' || window.location.pathname.startsWith('/compare?');
 }
 
 function AppContent() {
@@ -606,6 +1020,7 @@ function AppContent() {
   const [drummers, setDrummers] = useState([]);
   const [loadingDrummers, setLoadingDrummers] = useState(true);
   const [drummersError, setDrummersError] = useState(null);
+  const [showCompare, setShowCompare] = useState(() => isComparePage());
 
   useEffect(() => {
     const fetchDrummers = async () => {
@@ -625,6 +1040,24 @@ function AppContent() {
       }
     };
     fetchDrummers();
+  }, []);
+
+  // Handle browser back/forward navigation
+  useEffect(() => {
+    if (Platform.OS !== 'web' || typeof window === 'undefined') return;
+
+    const handlePopState = () => {
+      if (isComparePage()) {
+        setShowCompare(true);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+      } else {
+        setShowCompare(false);
+      }
+    };
+
+    window.addEventListener('popstate', handlePopState);
+    return () => window.removeEventListener('popstate', handlePopState);
   }, []);
 
   const handleSelectDrummer = async (id) => {
@@ -650,6 +1083,19 @@ function AppContent() {
   const handleBack = () => {
     setSelectedDrummerId(null);
     setSelectedDrummer(null);
+    setShowCompare(false);
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/');
+    }
+  };
+
+  const handleNavigateToCompare = () => {
+    setShowCompare(true);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/compare');
+    }
   };
 
   if (loadingDetail) {
@@ -663,9 +1109,38 @@ function AppContent() {
     );
   }
 
+  // Determine which view to show
+  const renderContent = () => {
+    if (showCompare) {
+      return (
+        <CompareView
+          theme={theme}
+          onBack={handleBack}
+          drummers={drummers}
+          onNavigateToCompare={handleNavigateToCompare}
+        />
+      );
+    }
+    if (selectedDrummer) {
+      return <DrummerDetail drummer={selectedDrummer} theme={theme} onBack={handleBack} />;
+    }
+    return (
+      <View style={styles.mainContent} accessibilityRole="main">
+        <DrummerList
+          theme={theme}
+          onSelectDrummer={handleSelectDrummer}
+          drummers={drummers}
+          loading={loadingDrummers}
+          error={drummersError}
+          onNavigateToCompare={handleNavigateToCompare}
+        />
+      </View>
+    );
+  };
+
   return (
     <View style={[styles.container, { backgroundColor: theme.background }]}>
-      {!selectedDrummer && <SEOHead drummers={drummers} />}
+      {!selectedDrummer && !showCompare && <SEOHead drummers={drummers} />}
       <View style={styles.header} accessibilityRole="banner">
         <Text style={[styles.title, { color: theme.text }]} accessibilityRole="header">
           Metal Drummer Gear
@@ -683,13 +1158,7 @@ function AppContent() {
           />
         </View>
       </View>
-      {selectedDrummer ? (
-        <DrummerDetail drummer={selectedDrummer} theme={theme} onBack={handleBack} />
-      ) : (
-        <View style={styles.mainContent} accessibilityRole="main">
-          <DrummerList theme={theme} onSelectDrummer={handleSelectDrummer} drummers={drummers} loading={loadingDrummers} error={drummersError} />
-        </View>
-      )}
+      {renderContent()}
       <StatusBar style={isDarkMode ? 'light' : 'dark'} />
     </View>
   );
@@ -1039,5 +1508,258 @@ const styles = StyleSheet.create({
     color: '#ffffff',
     fontSize: 14,
     fontWeight: 'bold',
+  },
+  // Compare feature styles
+  listWrapper: {
+    flex: 1,
+  },
+  compareButton: {
+    marginHorizontal: 20,
+    marginBottom: 16,
+    padding: 14,
+    borderRadius: 8,
+    borderWidth: 1,
+    alignItems: 'center',
+  },
+  compareButtonText: {
+    fontSize: 16,
+    fontWeight: '600',
+  },
+  compareTitle: {
+    fontSize: 24,
+    fontWeight: 'bold',
+    marginBottom: 8,
+  },
+  compareSubtitle: {
+    fontSize: 14,
+    marginBottom: 20,
+  },
+  selectorsContainer: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 16,
+    marginBottom: 24,
+  },
+  selectorsMobile: {
+    flexDirection: 'column',
+  },
+  selectorWrapper: {
+    flex: 1,
+    minWidth: 200,
+  },
+  selectorWrapperMobile: {
+    minWidth: '100%',
+  },
+  selectorHeader: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    marginBottom: 8,
+  },
+  selectorLabel: {
+    fontSize: 14,
+    fontWeight: '600',
+  },
+  removeSlot: {
+    fontSize: 12,
+  },
+  selectorContainer: {
+    position: 'relative',
+    zIndex: 1000,
+  },
+  selectorButton: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    padding: 12,
+    borderRadius: 8,
+    borderWidth: 1,
+  },
+  selectorText: {
+    fontSize: 14,
+    flex: 1,
+  },
+  selectorArrow: {
+    fontSize: 10,
+    marginLeft: 8,
+  },
+  selectorDropdown: {
+    position: 'absolute',
+    top: '100%',
+    left: 0,
+    right: 0,
+    borderRadius: 8,
+    borderWidth: 1,
+    marginTop: 4,
+    maxHeight: 250,
+    zIndex: 1001,
+  },
+  selectorSearch: {
+    padding: 10,
+    borderBottomWidth: 1,
+    fontSize: 14,
+  },
+  selectorList: {
+    maxHeight: 200,
+  },
+  selectorOption: {
+    padding: 12,
+    borderBottomWidth: 1,
+  },
+  selectorOptionText: {
+    fontSize: 14,
+    fontWeight: '500',
+  },
+  selectorOptionSubtext: {
+    fontSize: 12,
+    marginTop: 2,
+  },
+  addSlotButton: {
+    padding: 14,
+    borderRadius: 8,
+    borderWidth: 1,
+    borderStyle: 'dashed',
+    alignItems: 'center',
+    justifyContent: 'center',
+    minWidth: 200,
+  },
+  addSlotText: {
+    fontSize: 14,
+  },
+  compareLoading: {
+    padding: 40,
+    alignItems: 'center',
+  },
+  comparisonContainer: {
+    gap: 16,
+  },
+  comparisonHeaderRow: {
+    flexDirection: 'row',
+    gap: 16,
+    marginBottom: 16,
+  },
+  comparisonHeaderRowMobile: {
+    flexDirection: 'column',
+  },
+  drummerHeader: {
+    flex: 1,
+    alignItems: 'center',
+    padding: 12,
+  },
+  drummerHeaderMobile: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'flex-start',
+    gap: 12,
+  },
+  compareImage: {
+    width: 80,
+    height: 80,
+    borderRadius: 40,
+    marginBottom: 8,
+  },
+  compareImageMobile: {
+    width: 60,
+    height: 60,
+    borderRadius: 30,
+    marginBottom: 0,
+  },
+  compareName: {
+    fontSize: 16,
+    fontWeight: 'bold',
+    textAlign: 'center',
+  },
+  compareBand: {
+    fontSize: 14,
+    textAlign: 'center',
+  },
+  compareGenre: {
+    fontSize: 12,
+    fontStyle: 'italic',
+    textAlign: 'center',
+  },
+  comparisonHint: {
+    fontSize: 12,
+    marginBottom: 16,
+    fontStyle: 'italic',
+  },
+  comparisonRow: {
+    marginBottom: 16,
+  },
+  comparisonLabel: {
+    fontSize: 14,
+    fontWeight: '600',
+    marginBottom: 8,
+  },
+  comparisonValues: {
+    flexDirection: 'row',
+    gap: 12,
+  },
+  comparisonValue: {
+    flex: 1,
+    padding: 10,
+    borderRadius: 6,
+  },
+  comparisonValueText: {
+    fontSize: 13,
+    lineHeight: 18,
+  },
+  costComparisonContainer: {
+    flexDirection: 'row',
+    gap: 16,
+  },
+  costComparisonContainerMobile: {
+    flexDirection: 'column',
+  },
+  costCard: {
+    flex: 1,
+    padding: 16,
+    alignItems: 'center',
+  },
+  costCardMobile: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+  },
+  costName: {
+    fontSize: 14,
+    fontWeight: '600',
+    marginBottom: 8,
+  },
+  costPrice: {
+    fontSize: 18,
+    fontWeight: 'bold',
+  },
+  costPriceUsd: {
+    fontSize: 14,
+    marginTop: 4,
+  },
+  emptyStateText: {
+    fontSize: 14,
+    textAlign: 'center',
+    padding: 20,
+  },
+  shareContainer: {
+    marginTop: 8,
+  },
+  shareTitle: {
+    fontSize: 14,
+    fontWeight: '600',
+    marginBottom: 12,
+  },
+  shareButtons: {
+    flexDirection: 'row',
+    gap: 10,
+    flexWrap: 'wrap',
+  },
+  shareButton: {
+    paddingVertical: 10,
+    paddingHorizontal: 16,
+    borderRadius: 6,
+  },
+  shareButtonText: {
+    color: '#ffffff',
+    fontSize: 13,
+    fontWeight: '600',
   },
 });

@@ -633,28 +633,74 @@ function DrummerDetail({ drummer, theme, onBack }) {
 }
 
 // Dropdown selector for drummer comparison
-function DrummerSelector({ drummers, selectedId, onSelect, placeholder, theme, excludeIds = [] }) {
+function DrummerSelector({ drummers, selectedId, onSelect, placeholder, theme, excludeIds = [], isMobile = false }) {
   const [isOpen, setIsOpen] = useState(false);
   const [searchText, setSearchText] = useState('');
 
+  const availableDrummers = useMemo(() => {
+    return drummers.filter(d => !excludeIds.includes(d.id.toString()) || d.id.toString() === selectedId);
+  }, [drummers, excludeIds, selectedId]);
+
   const filteredDrummers = useMemo(() => {
-    return drummers
-      .filter(d => !excludeIds.includes(d.id.toString()) || d.id.toString() === selectedId)
-      .filter(d =>
-        d.name.toLowerCase().includes(searchText.toLowerCase()) ||
-        d.band.toLowerCase().includes(searchText.toLowerCase())
-      );
-  }, [drummers, excludeIds, selectedId, searchText]);
+    return availableDrummers.filter(d =>
+      d.name.toLowerCase().includes(searchText.toLowerCase()) ||
+      d.band.toLowerCase().includes(searchText.toLowerCase())
+    );
+  }, [availableDrummers, searchText]);
 
   const selectedDrummer = drummers.find(d => d.id.toString() === selectedId);
 
+  // Use native select on mobile web for better UX
+  if (isMobile && Platform.OS === 'web') {
+    return (
+      <View style={styles.selectorContainer}>
+        <select
+          value={selectedId || ''}
+          onChange={(e) => onSelect(e.target.value || null)}
+          style={{
+            width: '100%',
+            minHeight: 48,
+            padding: '14px 16px',
+            fontSize: 16,
+            backgroundColor: theme.card,
+            color: selectedId ? theme.text : theme.secondaryText,
+            border: `1px solid ${theme.border}`,
+            borderRadius: 8,
+            appearance: 'none',
+            WebkitAppearance: 'none',
+            backgroundImage: `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='${encodeURIComponent(theme.secondaryText)}' d='M6 8L1 3h10z'/%3E%3C/svg%3E")`,
+            backgroundRepeat: 'no-repeat',
+            backgroundPosition: 'right 16px center',
+            cursor: 'pointer',
+          }}
+          aria-label={placeholder}
+        >
+          <option value="">{placeholder}</option>
+          {availableDrummers.map(drummer => (
+            <option key={drummer.id} value={drummer.id.toString()}>
+              {drummer.name} ({drummer.band})
+            </option>
+          ))}
+        </select>
+      </View>
+    );
+  }
+
   return (
-    <View style={styles.selectorContainer}>
+    <View style={[styles.selectorContainer, isMobile && styles.selectorContainerMobile]}>
       <TouchableOpacity
         onPress={() => setIsOpen(!isOpen)}
-        style={[styles.selectorButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+        style={[
+          styles.selectorButton,
+          isMobile && styles.selectorButtonMobile,
+          { backgroundColor: theme.card, borderColor: theme.border }
+        ]}
       >
-        <Text style={[styles.selectorText, { color: selectedDrummer ? theme.text : theme.secondaryText }]}>
+        <Text style={[
+          styles.selectorText,
+          isMobile && styles.selectorTextMobile,
+          { color: selectedDrummer ? theme.text : theme.secondaryText }
+        ]}>
           {selectedDrummer ? `${selectedDrummer.name} (${selectedDrummer.band})` : placeholder}
         </Text>
         <Text style={[styles.selectorArrow, { color: theme.secondaryText }]}>
@@ -662,15 +708,23 @@ function DrummerSelector({ drummers, selectedId, onSelect, placeholder, theme, e
         </Text>
       </TouchableOpacity>
       {isOpen && (
-        <View style={[styles.selectorDropdown, { backgroundColor: theme.card, borderColor: theme.border }]}>
+        <View style={[
+          styles.selectorDropdown,
+          isMobile && styles.selectorDropdownMobile,
+          { backgroundColor: theme.card, borderColor: theme.border }
+        ]}>
           <TextInput
-            style={[styles.selectorSearch, { backgroundColor: theme.background, borderColor: theme.border, color: theme.text }]}
+            style={[
+              styles.selectorSearch,
+              isMobile && styles.selectorSearchMobile,
+              { backgroundColor: theme.background, borderColor: theme.border, color: theme.text }
+            ]}
             placeholder="Search drummers..."
             placeholderTextColor={theme.secondaryText}
             value={searchText}
             onChangeText={setSearchText}
           />
-          <ScrollView style={styles.selectorList} nestedScrollEnabled>
+          <ScrollView style={[styles.selectorList, isMobile && styles.selectorListMobile]} nestedScrollEnabled>
             {selectedId && (
               <TouchableOpacity
                 onPress={() => {
@@ -678,7 +732,11 @@ function DrummerSelector({ drummers, selectedId, onSelect, placeholder, theme, e
                   setIsOpen(false);
                   setSearchText('');
                 }}
-                style={[styles.selectorOption, { borderBottomColor: theme.border }]}
+                style={[
+                  styles.selectorOption,
+                  isMobile && styles.selectorOptionMobile,
+                  { borderBottomColor: theme.border }
+                ]}
               >
                 <Text style={[styles.selectorOptionText, { color: theme.error }]}>Clear selection</Text>
               </TouchableOpacity>
@@ -693,6 +751,7 @@ function DrummerSelector({ drummers, selectedId, onSelect, placeholder, theme, e
                 }}
                 style={[
                   styles.selectorOption,
+                  isMobile && styles.selectorOptionMobile,
                   { borderBottomColor: theme.border },
                   drummer.id.toString() === selectedId && { backgroundColor: theme.border }
                 ]}
@@ -914,6 +973,7 @@ function CompareView({ theme, onBack, drummers, onNavigateToCompare }) {
               placeholder={`Select drummer ${index + 1}...`}
               theme={theme}
               excludeIds={excludeIds}
+              isMobile={isMobile}
             />
           </View>
         ))}
@@ -1690,6 +1750,43 @@ const styles = StyleSheet.create({
   selectorOptionSubtext: {
     fontSize: 12,
     marginTop: 2,
+  },
+  // Mobile-specific selector styles for better touch targets and rendering
+  selectorContainerMobile: {
+    zIndex: 1000,
+  },
+  selectorButtonMobile: {
+    minHeight: 48,
+    paddingVertical: 14,
+    paddingHorizontal: 16,
+  },
+  selectorTextMobile: {
+    fontSize: 16,
+  },
+  selectorDropdownMobile: {
+    position: 'absolute',
+    maxHeight: 300,
+    zIndex: 1001,
+    shadowColor: '#000',
+    shadowOffset: { width: 0, height: 4 },
+    shadowOpacity: 0.25,
+    shadowRadius: 8,
+    elevation: 8,
+  },
+  selectorSearchMobile: {
+    minHeight: 48,
+    paddingVertical: 14,
+    paddingHorizontal: 16,
+    fontSize: 16,
+  },
+  selectorListMobile: {
+    maxHeight: 240,
+  },
+  selectorOptionMobile: {
+    minHeight: 52,
+    paddingVertical: 14,
+    paddingHorizontal: 16,
+    justifyContent: 'center',
   },
   addSlotButton: {
     padding: 14,

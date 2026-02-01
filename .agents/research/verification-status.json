@@ -1,0 +1,107 @@
+{
+  "schema_version": "2.0",
+  "last_updated": "2026-02-01",
+  "verification_summary": {
+    "total_drummers": 25,
+    "fully_verified": 0,
+    "partially_verified": 0,
+    "unverified": 25,
+    "needs_review": 0
+  },
+  "drummers": {
+    "lars-ulrich": {
+      "name": "Lars Ulrich",
+      "status": "unverified",
+      "gear": {
+        "drums": { "verified": false, "sources": [], "lastChecked": null },
+        "cymbals": { "verified": false, "sources": [], "lastChecked": null },
+        "sticks": { "verified": false, "sources": [], "lastChecked": null },
+        "heads": { "verified": false, "sources": [], "lastChecked": null }
+      },
+      "notes": "Wikipedia only - needs Tier 1 verification"
+    },
+    "joey-jordison": {
+      "name": "Joey Jordison",
+      "status": "unverified",
+      "gear": {
+        "drums": { "verified": false, "sources": [], "lastChecked": null },
+        "cymbals": { "verified": false, "sources": [], "lastChecked": null },
+        "sticks": { "verified": false, "sources": [], "lastChecked": null },
+        "heads": { "verified": false, "sources": [], "lastChecked": null }
+      },
+      "notes": "Deceased 2021 - verify last known gear"
+    },
+    "gene-hoglan": {
+      "name": "Gene Hoglan",
+      "status": "unverified",
+      "gear": {
+        "drums": { "verified": false, "sources": [], "lastChecked": null },
+        "cymbals": { "verified": false, "sources": [], "lastChecked": null },
+        "sticks": { "verified": false, "sources": [], "lastChecked": null },
+        "heads": { "verified": false, "sources": [], "lastChecked": null }
+      },
+      "notes": "Added 2026-02-01 - needs full verification"
+    },
+    "dave-lombardo": {
+      "name": "Dave Lombardo",
+      "status": "unverified",
+      "gear": {
+        "drums": { "verified": false, "sources": [], "lastChecked": null },
+        "cymbals": { "verified": false, "sources": [], "lastChecked": null },
+        "sticks": { "verified": false, "sources": [], "lastChecked": null },
+        "heads": { "verified": false, "sources": [], "lastChecked": null }
+      },
+      "notes": "Added 2026-02-01 - needs full verification"
+    },
+    "tomas-haake": {
+      "name": "Tomas Haake",
+      "status": "unverified",
+      "gear": {
+        "drums": { "verified": false, "sources": [], "lastChecked": null },
+        "cymbals": { "verified": false, "sources": [], "lastChecked": null },
+        "sticks": { "verified": false, "sources": [], "lastChecked": null },
+        "heads": { "verified": false, "sources": [], "lastChecked": null }
+      },
+      "notes": "Added 2026-02-01 - needs full verification"
+    },
+    "george-kollias": {
+      "name": "George Kollias",
+      "status": "unverified",
+      "gear": {
+        "drums": { "verified": false, "sources": [], "lastChecked": null },
+        "cymbals": { "verified": false, "sources": [], "lastChecked": null },
+        "sticks": { "verified": false, "sources": [], "lastChecked": null },
+        "heads": { "verified": false, "sources": [], "lastChecked": null }
+      },
+      "notes": "Added 2026-02-01 - needs full verification"
+    }
+  },
+  "priority_queue": [
+    "eloy-casagrande",
+    "jay-weinberg", 
+    "john-otto",
+    "lars-ulrich",
+    "joey-jordison",
+    "gene-hoglan",
+    "dave-lombardo",
+    "tomas-haake",
+    "george-kollias"
+  ],
+  "known_issues": [
+    {
+      "drummer": "eloy-casagrande",
+      "issue": "Recently joined Slipknot, likely new Pearl endorsement",
+      "flagged": "2026-02-01"
+    },
+    {
+      "drummer": "jay-weinberg",
+      "issue": "Left Slipknot - endorsements may have changed",
+      "flagged": "2026-02-01"
+    },
+    {
+      "drummer": "john-otto",
+      "issue": "Incorrectly listed as Promark - verify actual stick brand",
+      "flagged": "2026-02-01"
+    }
+  ]
+}

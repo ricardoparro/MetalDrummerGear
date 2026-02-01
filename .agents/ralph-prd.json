@@ -2,7 +2,7 @@
   "project": "MetalForge Data Quality",
   "created": "2026-02-01",
   "maxIterationsPerRun": 20,
-  "lastRun": "2026-02-01T23:08Z",
+  "lastRun": "2026-02-01T23:11Z",
   "tasks": [
     {
       "id": 1,
@@ -524,140 +524,160 @@
       "type": "verify-video",
       "youtubeId": "FssULNGSZIA",
       "drummer": "Danny Carey",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 63,
       "type": "verify-video",
       "youtubeId": "qJq9y9xPKWs",
       "drummer": "Danny Carey",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 64,
       "type": "verify-video",
       "youtubeId": "Z45VCJfnWZ0",
       "drummer": "Danny Carey",
-      "status": "pending"
+      "status": "needs-replacement",
+      "notes": "404 - video unavailable"
     },
     {
       "id": 65,
       "type": "verify-video",
       "youtubeId": "BGHlZwMYO9g",
       "drummer": "Mario Duplantier",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 66,
       "type": "verify-video",
       "youtubeId": "FNdC_3LR2AI",
       "drummer": "Mario Duplantier",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 67,
       "type": "verify-video",
       "youtubeId": "iqrMFNMgVS0",
       "drummer": "Mario Duplantier",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 68,
       "type": "verify-video",
       "youtubeId": "Og39wIaLzlQ",
       "drummer": "Brann Dailor",
-      "status": "pending"
+      "status": "needs-replacement",
+      "notes": "404 - video unavailable"
     },
     {
       "id": 69,
       "type": "verify-video",
       "youtubeId": "hwgqenKiMQw",
       "drummer": "Brann Dailor",
-      "status": "pending"
+      "status": "needs-replacement",
+      "notes": "404 - video unavailable"
     },
     {
       "id": 70,
       "type": "verify-video",
       "youtubeId": "mLpYJbvwgXg",
       "drummer": "Brann Dailor",
-      "status": "pending"
+      "status": "needs-replacement",
+      "notes": "404 - video unavailable"
     },
     {
       "id": 71,
       "type": "verify-video",
       "youtubeId": "oqdZpxkzNvc",
       "drummer": "Chris Adler",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 72,
       "type": "verify-video",
       "youtubeId": "HL9kaJZw8iw",
       "drummer": "Chris Adler",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 73,
       "type": "verify-video",
       "youtubeId": "tUl5Y5GMFM4",
       "drummer": "Matt Halpern",
-      "status": "pending"
+      "status": "needs-replacement",
+      "notes": "404 - video unavailable"
     },
     {
       "id": 74,
       "type": "verify-video",
       "youtubeId": "eLK3xMO1YvY",
       "drummer": "Matt Halpern",
-      "status": "pending"
+      "status": "needs-replacement",
+      "notes": "404 - video unavailable"
     },
     {
       "id": 75,
       "type": "verify-video",
       "youtubeId": "Y8F3B-qCQxk",
       "drummer": "Matt Halpern",
-      "status": "pending"
+      "status": "needs-replacement",
+      "notes": "404 - video unavailable"
     },
     {
       "id": 76,
       "type": "verify-video",
       "youtubeId": "Czx-OIyrQwQ",
       "drummer": "Inferno",
-      "status": "pending"
+      "status": "done",
+      "verifiedAt": "2026-02-01"
     },
     {
       "id": 77,
       "type": "verify-video",
       "youtubeId": "NkaslVgXhNw",
       "drummer": "Inferno",
-      "status": "pending"
+      "status": "needs-replacement",
+      "notes": "404 - video unavailable"
     },
     {
       "id": 78,
       "type": "verify-video",
       "youtubeId": "MCsoZ_2ROmY",
       "drummer": "Inferno",
-      "status": "pending"
+      "status": "needs-replacement",
+      "notes": "404 - video unavailable"
     },
     {
       "id": 79,
       "type": "verify-video",
       "youtubeId": "XdV4b1rI4rY",
       "drummer": "Hellhammer",
-      "status": "pending"
+      "status": "needs-replacement",
+      "notes": "404 - video unavailable"
     },
     {
       "id": 80,
       "type": "verify-video",
       "youtubeId": "bZyvI73vDJs",
       "drummer": "Hellhammer",
-      "status": "pending"
+      "status": "needs-replacement",
+      "notes": "404 - video unavailable"
     },
     {
       "id": 81,
       "type": "verify-video",
       "youtubeId": "zT2T69bxWH4",
       "drummer": "Hellhammer",
-      "status": "pending"
+      "status": "needs-replacement",
+      "notes": "404 - video unavailable"
     },
     {
       "id": 82,
@@ -685,5 +705,8 @@
     "verify-gear": "1. Search official brand pages (SOURCES.md) for drummer. 2. Cross-check with Tier 2 sources. 3. Update gear in api/drummers/index.js and [id].js if wrong. 4. Mark verified:true with sources array. 5. Update status to 'done'.",
     "verify-video": "1. Check if video exists: curl -s -o /dev/null -w '%{http_code}' 'https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=VIDEO_ID&format=json'. 2. If 404: find replacement video. 3. Update api/drummers files. 4. Mark status 'done' or 'needs-replacement'."
   },
-  "relatedIssues": ["#62", "#63"]
+  "relatedIssues": [
+    "#62",
+    "#63"
+  ]
 }

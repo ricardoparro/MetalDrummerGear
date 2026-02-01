@@ -82,6 +82,11 @@ const drummers = [
       { name: 'Tama Drums', url: 'https://www.tama.com' },
       { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
       { name: 'Vater Drumsticks', url: 'https://www.vater.com' }
+    ],
+    videos: [
+      { youtubeId: 'uS5xR7jBxDw', title: 'Gene Hoglan - Death "Crystal Mountain" (Drum Cam)', year: '2018' },
+      { youtubeId: 'Jg4-gLPbngg', title: 'Gene Hoglan - Testament "Into The Pit" (Live Drum Cam)', year: '2017' },
+      { youtubeId: 'q3jPgKjPqE4', title: 'Gene Hoglan - Dethklok "Thunderhorse" (Drum Playthrough)', year: '2019' }
     ]
   },
   {
@@ -107,6 +112,11 @@ const drummers = [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
       { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+    ],
+    videos: [
+      { youtubeId: 'QZQN8FvKvdM', title: 'Dave Lombardo - Slayer "Raining Blood" (Live Drum Cam)', year: '2017' },
+      { youtubeId: 'YeINWQDg7zI', title: 'Dave Lombardo - Slayer "Angel of Death" (Live Drum Cam)', year: '2018' },
+      { youtubeId: 'r7cWi41XGCM', title: 'Dave Lombardo Drum Solo (Live)', year: '2019' }
     ]
   },
   {
@@ -132,6 +142,11 @@ const drummers = [
       { name: 'Sonor Drums', url: 'https://www.sonor.com' },
       { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+    ],
+    videos: [
+      { youtubeId: 'HUBZ_9BBevw', title: 'Tomas Haake - Meshuggah "Bleed" (Live Drum Cam)', year: '2019' },
+      { youtubeId: 'qc98u-eGzlc', title: 'Tomas Haake - Meshuggah "Future Breed Machine" (Live Drum Cam)', year: '2018' },
+      { youtubeId: '4A_tSyJBsRQ', title: 'Tomas Haake - Meshuggah "Rational Gaze" (Live Drum Cam)', year: '2017' }
     ]
   },
   {
@@ -157,6 +172,11 @@ const drummers = [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
       { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+    ],
+    videos: [
+      { youtubeId: 'lhsasLJfYlY', title: 'George Kollias - Nile "Kafir!" (Live Drum Cam)', year: '2019' },
+      { youtubeId: 'Dg_gZwV3XM8', title: 'George Kollias - Extreme Drumming Masterclass', year: '2018' },
+      { youtubeId: 'yabkzIdKl9Y', title: 'George Kollias - Nile "Black Seeds of Vengeance" (Drum Playthrough)', year: '2017' }
     ]
   },
   {

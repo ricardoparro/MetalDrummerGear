@@ -2,7 +2,7 @@
   "project": "MetalForge Data Quality",
   "created": "2026-02-01",
   "maxIterationsPerRun": 20,
-  "lastRun": "2026-02-01T23:11Z",
+  "lastRun": "2026-02-01T23:12Z",
   "tasks": [
     {
       "id": 1,
@@ -684,21 +684,24 @@
       "type": "verify-video",
       "youtubeId": "QoNbazpnRH4",
       "drummer": "Pete Sandoval",
-      "status": "pending"
+      "status": "needs-replacement",
+      "notes": "404 - video unavailable"
     },
     {
       "id": 83,
       "type": "verify-video",
       "youtubeId": "O2G7JW6lBz8",
       "drummer": "Pete Sandoval",
-      "status": "pending"
+      "status": "needs-replacement",
+      "notes": "404 - video unavailable"
     },
     {
       "id": 84,
       "type": "verify-video",
       "youtubeId": "fT_UqTtpZKE",
       "drummer": "Pete Sandoval",
-      "status": "pending"
+      "status": "needs-replacement",
+      "notes": "404 - video unavailable"
     }
   ],
   "instructions": {

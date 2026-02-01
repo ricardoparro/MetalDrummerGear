@@ -403,7 +403,7 @@ const drummers = [
     band: 'Tool',
     genre: 'Progressive Metal',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/3/3d/Tool_%2848541913941%29_%28cropped%29.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/c/c1/Danny_Carey_Hellfest_2019.jpg',
     bio: 'Danny Carey, born in 1961 in Lawrence, Kansas, is widely regarded as one of the greatest drummers in rock and metal history. As the drummer for Tool since the band\'s formation in 1990, he has developed a unique style that blends complex polyrhythmic patterns with influences from jazz, world music, and progressive rock. His technical proficiency and creative approach to rhythm have earned him numerous accolades, including being voted the best drummer by readers of Modern Drummer magazine. Carey\'s drumming incorporates unusual time signatures, intricate subdivisions, and the use of electronic percussion. Beyond Tool, he has collaborated with artists like Pigface, Zaum, and Volto! His towering presence behind his massive Sonor kit and his dedication to expanding the boundaries of rock drumming have made him an icon in the drumming community.',
     gear: {
       drums: 'Sonor SQ2 Heavy Beech',
@@ -413,7 +413,7 @@ const drummers = [
       sticks: 'Vic Firth Danny Carey Signature'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/3/3d/Tool_%2848541913941%29_%28cropped%29.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/c/c1/Danny_Carey_Hellfest_2019.jpg'
     ],
     endorsements: [
       { name: 'Sonor Drums', url: 'https://www.sonor.com' },
@@ -434,7 +434,7 @@ const drummers = [
     band: 'Gojira',
     genre: 'Progressive Death Metal',
     country: 'France',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/8/84/Gojira_-_Rock_am_Ring_2022-0757_%28cropped%29.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/8/83/2017_RiP_-_Gojira_-_Mario_Duplantier_-_by_2eight_-_8SC9168.jpg',
     bio: 'Mario Duplantier, born in 1981 in Bayonne, France, is the drummer and co-founder of the critically acclaimed progressive death metal band Gojira, which he formed with his brother Joe Duplantier in 1996. Known for his powerful, precise, and incredibly intense drumming style, Mario combines crushing double bass patterns with complex rhythmic structures that complement Gojira\'s unique blend of death metal and progressive elements. His drumming on albums like "From Mars to Sirius," "The Way of All Flesh," and "Magma" has been praised for its technical excellence and raw energy. Beyond his drumming prowess, Mario is also a talented visual artist who has created artwork for Gojira\'s albums and merchandise. His approach to drumming emphasizes dynamics, groove, and an almost tribal quality that has helped define Gojira\'s distinctive sound.',
     gear: {
       drums: 'Tama Starclassic Walnut/Birch',
@@ -444,7 +444,7 @@ const drummers = [
       sticks: 'Vic Firth X5A'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/8/84/Gojira_-_Rock_am_Ring_2022-0757_%28cropped%29.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/8/83/2017_RiP_-_Gojira_-_Mario_Duplantier_-_by_2eight_-_8SC9168.jpg'
     ],
     endorsements: [
       { name: 'Tama Drums', url: 'https://www.tama.com' },
@@ -464,7 +464,7 @@ const drummers = [
     band: 'Mastodon',
     genre: 'Progressive/Sludge Metal',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/0/06/Brann_Dailor_2015.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6b/20150612-054-Nova_Rock_2015-Mastodon-Brann_Dailor.jpg',
     bio: 'Brann Dailor, born in 1975 in Rochester, New York, is the drummer and vocalist for progressive sludge metal band Mastodon. His drumming style is characterized by complex fills, jazz-influenced patterns, and an almost melodic approach to the drums that sets him apart from traditional metal drummers. Dailor\'s work on albums like "Leviathan," "Blood Mountain," and "Crack the Skye" has earned him widespread acclaim. He began singing lead vocals on Mastodon\'s later albums, adding another dimension to the band\'s sound. His technical proficiency combined with his musical creativity has made him one of the most influential drummers in modern metal.',
     gear: {
       drums: 'Tama Starclassic Walnut/Birch',
@@ -474,7 +474,7 @@ const drummers = [
       sticks: 'Vater Brann Dailor Signature'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/0/06/Brann_Dailor_2015.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/6/6b/20150612-054-Nova_Rock_2015-Mastodon-Brann_Dailor.jpg'
     ],
     endorsements: [
       { name: 'Tama Drums', url: 'https://www.tama.com' },
@@ -494,7 +494,7 @@ const drummers = [
     band: 'Lamb of God',
     genre: 'Groove Metal',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/4/4d/Chris_Adler_%28Lamb_of_God%29.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/d/d8/Lamb_Of_God_-_Rock_am_Ring_2015-9876_%28cropped%29.jpg',
     bio: 'Chris Adler, born in 1972 in Richmond, Virginia, is best known as the co-founder and former drummer of Lamb of God. His precision double bass drumming and innovative groove patterns helped define the New Wave of American Heavy Metal. Adler\'s work on albums like "Ashes of the Wake" and "Sacrament" showcased his ability to combine technical proficiency with raw power. He briefly played with Megadeth on their 2016 album "Dystopia." His drumming style emphasizes groove, power, and precision, influencing a generation of metal drummers.',
     gear: {
       drums: 'Mapex Black Panther Design Lab',
@@ -504,7 +504,7 @@ const drummers = [
       sticks: 'Vic Firth Chris Adler Signature'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/4/4d/Chris_Adler_%28Lamb_of_God%29.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/d/d8/Lamb_Of_God_-_Rock_am_Ring_2015-9876_%28cropped%29.jpg'
     ],
     endorsements: [
       { name: 'Mapex Drums', url: 'https://www.mapexdrums.com' },
@@ -524,7 +524,7 @@ const drummers = [
     band: 'Periphery',
     genre: 'Progressive/Djent',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/3/35/Periphery-Matt_Halpern-4893_%28cropped%29.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/2/26/20151122_Eindhoven_Epic_Metal_Fest_Periphery_0116.jpg',
     bio: 'Matt Halpern, born in 1984, is the drummer for progressive metal band Periphery and one of the most influential figures in the djent movement. His drumming combines polyrhythmic complexity with electronic elements and modern production techniques. Halpern\'s ability to navigate complex time signatures while maintaining groove has made him a role model for a new generation of progressive metal drummers. He is also an accomplished drum educator, sharing his knowledge through clinics and online platforms.',
     gear: {
       drums: 'Pearl Reference Series',
@@ -534,7 +534,7 @@ const drummers = [
       sticks: 'Promark Matt Halpern Signature'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/3/35/Periphery-Matt_Halpern-4893_%28cropped%29.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/2/26/20151122_Eindhoven_Epic_Metal_Fest_Periphery_0116.jpg'
     ],
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
@@ -554,7 +554,7 @@ const drummers = [
     band: 'Behemoth',
     genre: 'Black/Death Metal',
     country: 'Poland',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6f/Behemoth_Rockharz_2018_12.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/8/8d/Behemoth_Rockharz_2015_02.jpg',
     bio: 'Zbigniew Robert Promiński, known as Inferno, born in 1979, is the drummer for Polish extreme metal band Behemoth. He joined the band in 1997 and has been instrumental in shaping their signature sound. His drumming is characterized by relentless blast beats, precise double bass work, and the ability to maintain extreme speeds for extended periods. Inferno\'s technical abilities and stamina have made him one of the most respected drummers in extreme metal. His work on albums like "The Satanist" and "I Loved You at Your Darkest" showcases his evolution as a drummer.',
     gear: {
       drums: 'Pearl Reference Pure',
@@ -564,7 +564,7 @@ const drummers = [
       sticks: 'Ahead 5B Aluminum'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/6/6f/Behemoth_Rockharz_2018_12.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/8/8d/Behemoth_Rockharz_2015_02.jpg'
     ],
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
@@ -584,7 +584,7 @@ const drummers = [
     band: 'Mayhem',
     genre: 'Black Metal',
     country: 'Norway',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/8/8c/Jan_Axel_Blomberg_2012.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/5/58/Mayhem_-_Jalometalli_2008_-_Hellhammer_01_crop.JPG',
     bio: 'Jan Axel Blomberg, known as Hellhammer, born in 1969, is a Norwegian drummer best known for his work with black metal pioneers Mayhem. He joined Mayhem in 1988 and has been a constant presence through the band\'s turbulent history. Hellhammer is credited with helping define the black metal drumming style, characterized by fast blast beats and raw, aggressive playing. Beyond Mayhem, he has played with numerous projects including Arcturus, Dimmu Borgir, and Shining. His influence on extreme metal drumming is immeasurable.',
     gear: {
       drums: 'Sonor SQ2 Heavy Beech',
@@ -594,7 +594,7 @@ const drummers = [
       sticks: 'Vic Firth American Classic 5B'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/8/8c/Jan_Axel_Blomberg_2012.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/5/58/Mayhem_-_Jalometalli_2008_-_Hellhammer_01_crop.JPG'
     ],
     endorsements: [
       { name: 'Sonor Drums', url: 'https://www.sonor.com' },
@@ -614,7 +614,7 @@ const drummers = [
     band: 'Morbid Angel',
     genre: 'Death Metal',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/a/a4/Pete_Sandoval.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/1/1b/Pete_Sandoval.jpg',
     bio: 'Pedro "Pete" Sandoval, born in 1960 in El Salvador, is a legendary death metal drummer best known for his work with Morbid Angel and Terrorizer. He is credited with pioneering and perfecting the gravity blast technique, which revolutionized extreme metal drumming. His work on classic Morbid Angel albums like "Altars of Madness," "Blessed Are the Sick," and "Covenant" set the standard for death metal drumming. Sandoval\'s combination of speed, precision, and endurance influenced countless drummers in the extreme metal genre.',
     gear: {
       drums: 'ddrum Dios Series',
@@ -624,7 +624,7 @@ const drummers = [
       sticks: 'Ahead Lars Ulrich Signature'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/a/a4/Pete_Sandoval.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/1/1b/Pete_Sandoval.jpg'
     ],
     endorsements: [
       { name: 'ddrum Drums', url: 'https://www.ddrum.com' },

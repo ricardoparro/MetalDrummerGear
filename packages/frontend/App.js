@@ -2425,13 +2425,20 @@ function AppContent() {
           <Text style={[styles.toggleLabel, { color: theme.secondaryText }]}>
             {isDarkMode ? 'Dark Mode' : 'Light Mode'}
           </Text>
-          <Switch
-            value={isDarkMode}
-            onValueChange={toggleTheme}
-            trackColor={{ false: '#767577', true: '#81b0ff' }}
-            thumbColor={isDarkMode ? '#f5dd4b' : '#f4f3f4'}
+          <TouchableOpacity
+            onPress={toggleTheme}
+            style={styles.switchTouchTarget}
+            accessibilityRole="switch"
+            accessibilityState={{ checked: isDarkMode }}
             accessibilityLabel={`Toggle ${isDarkMode ? 'light' : 'dark'} mode`}
-          />
+          >
+            <Switch
+              value={isDarkMode}
+              onValueChange={toggleTheme}
+              trackColor={{ false: '#767577', true: '#81b0ff' }}
+              thumbColor={isDarkMode ? '#f5dd4b' : '#f4f3f4'}
+            />
+          </TouchableOpacity>
         </View>
       </View>
       {renderContent()}
@@ -2468,6 +2475,12 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     gap: 10,
     minHeight: 44, // WCAG AA touch target minimum
+  },
+  switchTouchTarget: {
+    minWidth: 44,
+    minHeight: 44,
+    justifyContent: 'center',
+    alignItems: 'center',
   },
   toggleLabel: {
     fontSize: 16,

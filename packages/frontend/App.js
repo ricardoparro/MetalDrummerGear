@@ -2871,7 +2871,7 @@ function NewsletterFooter({ theme }) {
             <View style={[
               styles.newsletterInputWrapper,
               isMobile && styles.newsletterInputWrapperMobile,
-              { backgroundColor: theme.background, borderColor: status === 'error' ? theme.error : '#666' }
+              { backgroundColor: theme.background, borderColor: status === 'error' ? theme.error : '#777' }
             ]}>
               <TextInput
                 style={[styles.newsletterInput, { color: theme.text }]}
@@ -4836,7 +4836,7 @@ const styles = StyleSheet.create({
   // Newsletter Footer styles
   newsletterFooter: {
     borderTopWidth: 1,
-    paddingVertical: 12,
+    paddingVertical: 8,
     paddingHorizontal: 20,
     marginTop: 'auto',
   },
@@ -4848,7 +4848,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'space-between',
     flexWrap: 'wrap',
-    gap: 12,
+    gap: 10,
   },
   newsletterContainerMobile: {
     flexDirection: 'column',
@@ -4861,7 +4861,7 @@ const styles = StyleSheet.create({
   newsletterTitle: {
     fontSize: 18,
     fontWeight: 'bold',
-    marginBottom: 4,
+    marginBottom: 2,
   },
   newsletterSubtitle: {
     fontSize: 14,
@@ -4869,7 +4869,7 @@ const styles = StyleSheet.create({
   newsletterForm: {
     flexDirection: 'row',
     alignItems: 'center',
-    gap: 12,
+    gap: 8,
     flex: 1,
     maxWidth: 400,
   },
@@ -4877,11 +4877,12 @@ const styles = StyleSheet.create({
     flexDirection: 'column',
     maxWidth: '100%',
     width: '100%',
+    gap: 8,
   },
   newsletterInputWrapper: {
     flex: 1,
     borderRadius: 8,
-    borderWidth: 1.5,
+    borderWidth: 2,
     overflow: 'hidden',
   },
   newsletterInputWrapperMobile: {

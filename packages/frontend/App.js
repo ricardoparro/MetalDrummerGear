@@ -1633,6 +1633,24 @@ function getGearSlugFromURL() {
   return match ? match[1] : null;
 }
 
+// Check if we're on a drummer profile page based on URL
+function getDrummerSlugFromURL() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(/^\/drummer\/([a-z0-9-]+)$/i);
+  return match ? match[1] : null;
+}
+
+// Convert drummer name to URL slug
+function toSlug(name) {
+  return name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+}
+
+// Find drummer by slug (matching against slugified name)
+function findDrummerBySlug(drummers, slug) {
+  if (!slug || !drummers.length) return null;
+  return drummers.find(d => toSlug(d.name) === slug.toLowerCase());
+}
+
 // Update document meta for gear pages
 function updateGearMeta(gear) {
   if (Platform.OS !== 'web' || typeof document === 'undefined') return;
@@ -1935,7 +1953,8 @@ function AppContent() {
   const { theme, isDarkMode, toggleTheme } = useTheme();
   const [selectedDrummerId, setSelectedDrummerId] = useState(null);
   const [selectedDrummer, setSelectedDrummer] = useState(null);
-  const [loadingDetail, setLoadingDetail] = useState(false);
+  // Initialize loadingDetail to true if URL has a drummer slug (for deep linking support)
+  const [loadingDetail, setLoadingDetail] = useState(() => getDrummerSlugFromURL() !== null);
   const [drummers, setDrummers] = useState([]);
   const [loadingDrummers, setLoadingDrummers] = useState(true);
   const [drummersError, setDrummersError] = useState(null);
@@ -2147,6 +2166,8 @@ function AppContent() {
 
     const handlePopState = async () => {
       const gearSlug = getGearSlugFromURL();
+      const drummerSlug = getDrummerSlugFromURL();
+
       if (gearSlug) {
         // Load gear page
         setLoadingGear(true);
@@ -2164,20 +2185,46 @@ function AppContent() {
         } finally {
           setLoadingGear(false);
         }
+      } else if (drummerSlug && drummers.length > 0) {
+        // Load drummer profile page
+        const drummer = findDrummerBySlug(drummers, drummerSlug);
+        if (drummer) {
+          setLoadingDetail(true);
+          try {
+            const detailUrl = window.location.hostname !== 'localhost'
+              ? `/api/drummers/${drummer.id}`
+              : `http://localhost:3001/api/drummers/${drummer.id}`;
+            const response = await fetch(detailUrl);
+            if (response.ok) {
+              const data = await response.json();
+              setSelectedDrummer(data);
+              setSelectedDrummerId(drummer.id);
+              setSelectedGear(null);
+              setShowCompare(false);
+            }
+          } catch (err) {
+            console.error('Error fetching drummer:', err);
+          } finally {
+            setLoadingDetail(false);
+          }
+        }
       } else if (isComparePage()) {
         setShowCompare(true);
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
       } else {
+        // Back to home page
         setShowCompare(false);
         setSelectedGear(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
       }
     };
 
     window.addEventListener('popstate', handlePopState);
     return () => window.removeEventListener('popstate', handlePopState);
-  }, []);
+  }, [drummers]);
 
   // Load gear page on initial mount if URL matches
   useEffect(() => {
@@ -2201,7 +2248,45 @@ function AppContent() {
     loadInitialGear();
   }, []);
 
-  const handleSelectDrummer = async (id) => {
+  // Load drummer profile page on initial mount if URL matches /drummer/:slug
+  useEffect(() => {
+    const loadInitialDrummer = async () => {
+      const drummerSlug = getDrummerSlugFromURL();
+      if (!drummerSlug) return;
+
+      if (drummers.length > 0) {
+        const drummer = findDrummerBySlug(drummers, drummerSlug);
+        if (drummer) {
+          setLoadingDetail(true);
+          try {
+            const detailUrl = typeof window !== 'undefined' && window.location.hostname !== 'localhost'
+              ? `/api/drummers/${drummer.id}`
+              : `http://localhost:3001/api/drummers/${drummer.id}`;
+            const response = await fetch(detailUrl);
+            if (response.ok) {
+              const data = await response.json();
+              setSelectedDrummer(data);
+              setSelectedDrummerId(drummer.id);
+            } else {
+              // API error - redirect to home
+              setLoadingDetail(false);
+            }
+          } catch (err) {
+            console.error('Error fetching drummer:', err);
+            setLoadingDetail(false);
+          } finally {
+            setLoadingDetail(false);
+          }
+        } else {
+          // Invalid slug - drummer not found, redirect to home
+          setLoadingDetail(false);
+        }
+      }
+    };
+    loadInitialDrummer();
+  }, [drummers]);
+
+  const handleSelectDrummer = async (id, skipUrlUpdate = false) => {
     setLoadingDetail(true);
     try {
       const detailUrl = typeof window !== 'undefined' && window.location.hostname !== 'localhost'
@@ -2214,6 +2299,11 @@ function AppContent() {
       const data = await response.json();
       setSelectedDrummer(data);
       setSelectedDrummerId(id);
+      // Update URL to reflect the drummer profile
+      if (!skipUrlUpdate && Platform.OS === 'web' && typeof window !== 'undefined') {
+        const slug = toSlug(data.name);
+        window.history.pushState({}, '', `/drummer/${slug}`);
+      }
     } catch (err) {
       console.error('Error fetching drummer details:', err);
     } finally {

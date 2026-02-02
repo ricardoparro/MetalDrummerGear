@@ -1,9 +1,81 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View, Switch, FlatList, ActivityIndicator, Image, TouchableOpacity, ScrollView, Linking, Platform, useWindowDimensions, TextInput } from 'react-native';
 import { ThemeProvider, useTheme } from './ThemeContext';
-import { useState, useEffect, useCallback, useMemo } from 'react';
+import { useState, useEffect, useCallback, useMemo, useRef } from 'react';
 import { getAffiliateLinks, extractPrimaryProduct, getThomannLink, getSweetwaterLink } from './affiliateLinks';
 import { calculateKitCost, formatPrice } from './gearPrices';
+
+// Filter options configuration
+const FILTER_OPTIONS = {
+  genres: [
+    { value: 'thrash', label: 'Thrash Metal' },
+    { value: 'death', label: 'Death Metal' },
+    { value: 'black', label: 'Black Metal' },
+    { value: 'progressive', label: 'Progressive' },
+    { value: 'nu-metal', label: 'Nu-Metal' },
+    { value: 'groove', label: 'Groove Metal' },
+    { value: 'metalcore', label: 'Metalcore/Djent' },
+    { value: 'hardcore', label: 'Hardcore' },
+  ],
+  brands: [
+    { value: 'tama', label: 'Tama' },
+    { value: 'pearl', label: 'Pearl' },
+    { value: 'dw', label: 'DW' },
+    { value: 'sonor', label: 'Sonor' },
+    { value: 'mapex', label: 'Mapex' },
+    { value: 'ddrum', label: 'ddrum' },
+    { value: 'sjc', label: 'SJC' },
+    { value: 'ocdp', label: 'OCDP' },
+    { value: 'zildjian', label: 'Zildjian' },
+    { value: 'sabian', label: 'Sabian' },
+    { value: 'meinl', label: 'Meinl' },
+    { value: 'paiste', label: 'Paiste' },
+  ],
+  eras: [
+    { value: '80s', label: '80s' },
+    { value: '90s', label: '90s' },
+    { value: '2000s', label: '2000s' },
+    { value: '2010s', label: '2010s' },
+    { value: 'current', label: 'Current' },
+  ],
+  countries: [
+    { value: 'usa', label: 'USA' },
+    { value: 'uk', label: 'UK' },
+    { value: 'sweden', label: 'Sweden' },
+    { value: 'norway', label: 'Norway' },
+    { value: 'denmark', label: 'Denmark' },
+    { value: 'brazil', label: 'Brazil' },
+    { value: 'poland', label: 'Poland' },
+    { value: 'france', label: 'France' },
+    { value: 'greece', label: 'Greece' },
+  ],
+};
+
+// Helper to get/set URL params for filters
+function getFiltersFromURL() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return { search: '', genre: '', brand: '', era: '', country: '' };
+  const params = new URLSearchParams(window.location.search);
+  return {
+    search: params.get('search') || '',
+    genre: params.get('genre') || '',
+    brand: params.get('brand') || '',
+    era: params.get('era') || '',
+    country: params.get('country') || '',
+  };
+}
+
+function updateFiltersURL(filters) {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return;
+  const params = new URLSearchParams();
+  if (filters.search) params.set('search', filters.search);
+  if (filters.genre) params.set('genre', filters.genre);
+  if (filters.brand) params.set('brand', filters.brand);
+  if (filters.era) params.set('era', filters.era);
+  if (filters.country) params.set('country', filters.country);
+  const queryString = params.toString();
+  const newPath = queryString ? `/drummers?${queryString}` : '/';
+  window.history.pushState({}, '', newPath);
+}
 
 // Helper to get/set URL params for shareable comparisons
 function getCompareParamsFromURL() {
@@ -145,6 +217,273 @@ function GenreTags({ genres, size = 'small' }) {
   );
 }
 
+// Search Bar Component with autocomplete
+function SearchBar({ value, onChange, onFocus, onClear, suggestions, onSelectSuggestion, showSuggestions, theme, inputRef }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+
+  return (
+    <View style={styles.searchContainer}>
+      <View style={[styles.searchInputWrapper, { backgroundColor: theme.card, borderColor: theme.border }]}>
+        <Text style={[styles.searchIcon, { color: theme.secondaryText }]}>🔍</Text>
+        <TextInput
+          ref={inputRef}
+          style={[styles.searchInput, { color: theme.text }]}
+          placeholder="Search drummers, bands, gear..."
+          placeholderTextColor={theme.secondaryText}
+          value={value}
+          onChangeText={onChange}
+          onFocus={onFocus}
+          accessibilityLabel="Search drummers by name, band, or gear brand"
+        />
+        {value ? (
+          <TouchableOpacity onPress={onClear} style={styles.searchClearButton}>
+            <Text style={[styles.searchClearText, { color: theme.secondaryText }]}>✕</Text>
+          </TouchableOpacity>
+        ) : (
+          !isMobile && (
+            <View style={[styles.searchShortcut, { backgroundColor: theme.background, borderColor: theme.border }]}>
+              <Text style={[styles.searchShortcutText, { color: theme.secondaryText }]}>⌘K</Text>
+            </View>
+          )
+        )}
+      </View>
+      {showSuggestions && suggestions.length > 0 && (
+        <View style={[styles.suggestionsContainer, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          {suggestions.slice(0, 6).map((suggestion, index) => (
+            <TouchableOpacity
+              key={`${suggestion.type}-${suggestion.id || index}`}
+              style={[styles.suggestionItem, { borderBottomColor: theme.border }]}
+              onPress={() => onSelectSuggestion(suggestion)}
+            >
+              <View style={styles.suggestionContent}>
+                {suggestion.image && (
+                  <Image source={{ uri: suggestion.image }} style={styles.suggestionImage} />
+                )}
+                <View style={styles.suggestionText}>
+                  <Text style={[styles.suggestionTitle, { color: theme.text }]}>{suggestion.name}</Text>
+                  <Text style={[styles.suggestionSubtitle, { color: theme.secondaryText }]}>
+                    {suggestion.type === 'drummer' ? suggestion.band : suggestion.type}
+                  </Text>
+                </View>
+              </View>
+              <Text style={[styles.suggestionType, { color: theme.secondaryText }]}>
+                {suggestion.type === 'drummer' ? '👤' : suggestion.type === 'band' ? '🎸' : '🥁'}
+              </Text>
+            </TouchableOpacity>
+          ))}
+        </View>
+      )}
+    </View>
+  );
+}
+
+// Filter chip component
+function FilterChip({ label, isActive, onPress, theme }) {
+  return (
+    <TouchableOpacity
+      onPress={onPress}
+      style={[
+        styles.filterChip,
+        { borderColor: theme.border },
+        isActive && { backgroundColor: theme.text, borderColor: theme.text }
+      ]}
+    >
+      <Text style={[
+        styles.filterChipText,
+        { color: isActive ? theme.background : theme.text }
+      ]}>
+        {label}
+      </Text>
+    </TouchableOpacity>
+  );
+}
+
+// Filter dropdown component
+function FilterDropdown({ title, options, selectedValue, onSelect, theme, isOpen, onToggle }) {
+  return (
+    <View style={styles.filterDropdownContainer}>
+      <TouchableOpacity
+        onPress={onToggle}
+        style={[styles.filterDropdownButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+      >
+        <Text style={[styles.filterDropdownLabel, { color: selectedValue ? theme.text : theme.secondaryText }]}>
+          {selectedValue ? options.find(o => o.value === selectedValue)?.label : title}
+        </Text>
+        <Text style={[styles.filterDropdownArrow, { color: theme.secondaryText }]}>
+          {isOpen ? '▲' : '▼'}
+        </Text>
+      </TouchableOpacity>
+      {isOpen && (
+        <View style={[styles.filterDropdownMenu, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <TouchableOpacity
+            onPress={() => onSelect('')}
+            style={[styles.filterDropdownItem, { borderBottomColor: theme.border }]}
+          >
+            <Text style={[styles.filterDropdownItemText, { color: theme.secondaryText }]}>All</Text>
+          </TouchableOpacity>
+          {options.map((option) => (
+            <TouchableOpacity
+              key={option.value}
+              onPress={() => onSelect(option.value)}
+              style={[
+                styles.filterDropdownItem,
+                { borderBottomColor: theme.border },
+                selectedValue === option.value && { backgroundColor: theme.border }
+              ]}
+            >
+              <Text style={[styles.filterDropdownItemText, { color: theme.text }]}>{option.label}</Text>
+            </TouchableOpacity>
+          ))}
+        </View>
+      )}
+    </View>
+  );
+}
+
+// Filter bar component
+function FilterBar({ filters, onFilterChange, totalCount, filteredCount, onClearAll, theme }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const [isExpanded, setIsExpanded] = useState(false);
+  const [openDropdown, setOpenDropdown] = useState(null);
+
+  const hasActiveFilters = filters.genre || filters.brand || filters.era || filters.country;
+
+  const handleDropdownToggle = (dropdownName) => {
+    setOpenDropdown(openDropdown === dropdownName ? null : dropdownName);
+  };
+
+  const handleFilterSelect = (filterName, value) => {
+    onFilterChange({ ...filters, [filterName]: value });
+    setOpenDropdown(null);
+  };
+
+  // Mobile: collapsible filter panel
+  if (isMobile) {
+    return (
+      <View style={styles.filterBarMobile}>
+        <View style={styles.filterBarHeader}>
+          <TouchableOpacity
+            onPress={() => setIsExpanded(!isExpanded)}
+            style={[styles.filterToggleButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          >
+            <Text style={[styles.filterToggleText, { color: theme.text }]}>
+              {isExpanded ? 'Hide Filters' : 'Show Filters'}
+              {hasActiveFilters ? ` (${[filters.genre, filters.brand, filters.era, filters.country].filter(Boolean).length})` : ''}
+            </Text>
+            <Text style={[styles.filterToggleArrow, { color: theme.secondaryText }]}>
+              {isExpanded ? '▲' : '▼'}
+            </Text>
+          </TouchableOpacity>
+          <Text style={[styles.filterResultCount, { color: theme.secondaryText }]}>
+            {filteredCount === totalCount ? `${totalCount} drummers` : `${filteredCount} of ${totalCount}`}
+          </Text>
+        </View>
+        {isExpanded && (
+          <View style={[styles.filterPanelMobile, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <FilterDropdown
+              title="Genre"
+              options={FILTER_OPTIONS.genres}
+              selectedValue={filters.genre}
+              onSelect={(v) => handleFilterSelect('genre', v)}
+              theme={theme}
+              isOpen={openDropdown === 'genre'}
+              onToggle={() => handleDropdownToggle('genre')}
+            />
+            <FilterDropdown
+              title="Brand"
+              options={FILTER_OPTIONS.brands}
+              selectedValue={filters.brand}
+              onSelect={(v) => handleFilterSelect('brand', v)}
+              theme={theme}
+              isOpen={openDropdown === 'brand'}
+              onToggle={() => handleDropdownToggle('brand')}
+            />
+            <FilterDropdown
+              title="Country"
+              options={FILTER_OPTIONS.countries}
+              selectedValue={filters.country}
+              onSelect={(v) => handleFilterSelect('country', v)}
+              theme={theme}
+              isOpen={openDropdown === 'country'}
+              onToggle={() => handleDropdownToggle('country')}
+            />
+            {hasActiveFilters && (
+              <TouchableOpacity
+                onPress={onClearAll}
+                style={[styles.clearFiltersButton, { borderColor: theme.error }]}
+              >
+                <Text style={[styles.clearFiltersText, { color: theme.error }]}>Clear All Filters</Text>
+              </TouchableOpacity>
+            )}
+          </View>
+        )}
+      </View>
+    );
+  }
+
+  // Desktop: horizontal filter bar
+  return (
+    <View style={styles.filterBar}>
+      <View style={styles.filterChipsContainer}>
+        <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={styles.filterChipsScroll}>
+          <Text style={[styles.filterLabel, { color: theme.secondaryText }]}>Genre:</Text>
+          {FILTER_OPTIONS.genres.slice(0, 6).map((option) => (
+            <FilterChip
+              key={option.value}
+              label={option.label}
+              isActive={filters.genre === option.value}
+              onPress={() => onFilterChange({ ...filters, genre: filters.genre === option.value ? '' : option.value })}
+              theme={theme}
+            />
+          ))}
+          <View style={styles.filterSeparator} />
+          <Text style={[styles.filterLabel, { color: theme.secondaryText }]}>Brand:</Text>
+          {FILTER_OPTIONS.brands.slice(0, 4).map((option) => (
+            <FilterChip
+              key={option.value}
+              label={option.label}
+              isActive={filters.brand === option.value}
+              onPress={() => onFilterChange({ ...filters, brand: filters.brand === option.value ? '' : option.value })}
+              theme={theme}
+            />
+          ))}
+          <FilterDropdown
+            title="More Brands"
+            options={FILTER_OPTIONS.brands}
+            selectedValue={filters.brand}
+            onSelect={(v) => handleFilterSelect('brand', v)}
+            theme={theme}
+            isOpen={openDropdown === 'brand'}
+            onToggle={() => handleDropdownToggle('brand')}
+          />
+          <View style={styles.filterSeparator} />
+          <FilterDropdown
+            title="Country"
+            options={FILTER_OPTIONS.countries}
+            selectedValue={filters.country}
+            onSelect={(v) => handleFilterSelect('country', v)}
+            theme={theme}
+            isOpen={openDropdown === 'country'}
+            onToggle={() => handleDropdownToggle('country')}
+          />
+        </ScrollView>
+      </View>
+      <View style={styles.filterResultsContainer}>
+        <Text style={[styles.filterResultCount, { color: theme.secondaryText }]}>
+          {filteredCount === totalCount ? `Showing ${totalCount} drummers` : `Showing ${filteredCount} of ${totalCount} drummers`}
+        </Text>
+        {hasActiveFilters && (
+          <TouchableOpacity onPress={onClearAll} style={styles.clearFiltersLink}>
+            <Text style={[styles.clearFiltersLinkText, { color: theme.error }]}>Clear all</Text>
+          </TouchableOpacity>
+        )}
+      </View>
+    </View>
+  );
+}
+
 function ImageWithFallback({ source, style, accessibilityLabel }) {
   const [hasError, setHasError] = useState(false);
   const [imageUri, setImageUri] = useState(source?.uri || PLACEHOLDER_IMAGE);
@@ -181,19 +520,49 @@ const GEAR_API_URL = typeof window !== 'undefined' && window.location.hostname !
   ? '/api/gear'
   : 'http://localhost:3001/api/gear';
 
-function updateDocumentMeta(drummer, drummers = []) {
+function updateDocumentMeta(drummer, drummers = [], filters = {}) {
   if (Platform.OS !== 'web' || typeof document === 'undefined') return;
 
   // Calculate kit cost for SEO if drummer exists
   const kitCost = drummer ? calculateKitCost(drummer.gear) : null;
 
+  // Build dynamic title and description based on filters
+  const hasFilters = filters.genre || filters.brand || filters.country || filters.search;
+  let filterTitle = '';
+  let filterDescription = '';
+
+  if (hasFilters && !drummer) {
+    const filterParts = [];
+    if (filters.genre) {
+      const genreLabel = FILTER_OPTIONS.genres.find(g => g.value === filters.genre)?.label || filters.genre;
+      filterParts.push(genreLabel);
+    }
+    if (filters.brand) {
+      const brandLabel = FILTER_OPTIONS.brands.find(b => b.value === filters.brand)?.label || filters.brand;
+      filterParts.push(`${brandLabel} Users`);
+    }
+    if (filters.country) {
+      const countryLabel = FILTER_OPTIONS.countries.find(c => c.value === filters.country)?.label || filters.country;
+      filterParts.push(`from ${countryLabel}`);
+    }
+    if (filters.search) {
+      filterParts.push(`matching "${filters.search}"`);
+    }
+    filterTitle = `${filterParts.join(' ')} Drummers | Metal Drummer Gear`;
+    filterDescription = `Discover ${filterParts.join(' ').toLowerCase()} drummers and their professional drum gear setups. Browse complete gear lists, kit costs, and equipment details.`;
+  }
+
   const title = drummer
     ? `${drummer.name} Drum Kit & Gear | Metal Drummer Gear`
-    : 'Metal Drummer Gear - Discover What Pro Drummers Play';
+    : hasFilters
+      ? filterTitle
+      : 'Metal Drummer Gear - Discover What Pro Drummers Play';
 
   const description = drummer
     ? `${drummer.name}'s complete drum setup costs approximately ${formatPrice(kitCost?.totalEur || 0, 'EUR')}. Full gear breakdown for the ${drummer.band} drummer including drums, cymbals, and hardware.`
-    : 'Explore the drum kits, cymbals, and gear used by legendary metal drummers including Lars Ulrich, Joey Jordison, Dave Lombardo and more.';
+    : hasFilters
+      ? filterDescription
+      : 'Explore the drum kits, cymbals, and gear used by legendary metal drummers including Lars Ulrich, Joey Jordison, Dave Lombardo and more.';
 
   document.title = title;
 
@@ -403,10 +772,10 @@ function updateDocumentMeta(drummer, drummers = []) {
   }
 }
 
-function SEOHead({ drummer, drummers = [] }) {
+function SEOHead({ drummer, drummers = [], filters = {} }) {
   useEffect(() => {
-    updateDocumentMeta(drummer, drummers);
-  }, [drummer, drummers]);
+    updateDocumentMeta(drummer, drummers, filters);
+  }, [drummer, drummers, filters]);
   return null;
 }
 
@@ -1148,7 +1517,25 @@ function CompareView({ theme, onBack, drummers, onNavigateToCompare }) {
   );
 }
 
-function DrummerList({ theme, onSelectDrummer, drummers, loading, error, onNavigateToCompare }) {
+function DrummerList({
+  theme,
+  onSelectDrummer,
+  drummers,
+  loading,
+  error,
+  onNavigateToCompare,
+  filters,
+  onFilterChange,
+  filteredDrummers,
+  searchValue,
+  onSearchChange,
+  onSearchClear,
+  suggestions,
+  showSuggestions,
+  onSearchFocus,
+  onSelectSuggestion,
+  searchInputRef
+}) {
   if (loading) {
     return (
       <View style={styles.centerContainer}>
@@ -1169,8 +1556,34 @@ function DrummerList({ theme, onSelectDrummer, drummers, loading, error, onNavig
     );
   }
 
+  const handleClearAllFilters = () => {
+    onFilterChange({ search: '', genre: '', brand: '', era: '', country: '' });
+    onSearchClear();
+  };
+
   return (
     <View style={styles.listWrapper}>
+      <View style={styles.searchFilterContainer}>
+        <SearchBar
+          value={searchValue}
+          onChange={onSearchChange}
+          onFocus={onSearchFocus}
+          onClear={onSearchClear}
+          suggestions={suggestions}
+          onSelectSuggestion={onSelectSuggestion}
+          showSuggestions={showSuggestions}
+          theme={theme}
+          inputRef={searchInputRef}
+        />
+        <FilterBar
+          filters={filters}
+          onFilterChange={onFilterChange}
+          totalCount={drummers.length}
+          filteredCount={filteredDrummers.length}
+          onClearAll={handleClearAllFilters}
+          theme={theme}
+        />
+      </View>
       <TouchableOpacity
         onPress={onNavigateToCompare}
         style={[styles.compareButton, { backgroundColor: theme.card, borderColor: theme.border }]}
@@ -1179,18 +1592,29 @@ function DrummerList({ theme, onSelectDrummer, drummers, loading, error, onNavig
       >
         <Text style={[styles.compareButtonText, { color: theme.text }]}>Compare Drummers</Text>
       </TouchableOpacity>
-      <FlatList
-        data={drummers}
-        keyExtractor={(item) => item.id.toString()}
-        renderItem={({ item }) => (
-          <DrummerCard
-            drummer={item}
-            theme={theme}
-            onPress={() => onSelectDrummer(item.id)}
-          />
-        )}
-        contentContainerStyle={styles.listContainer}
-      />
+      {filteredDrummers.length === 0 ? (
+        <View style={styles.noResultsContainer}>
+          <Text style={[styles.noResultsText, { color: theme.secondaryText }]}>
+            No drummers found matching your criteria
+          </Text>
+          <TouchableOpacity onPress={handleClearAllFilters} style={[styles.clearFiltersButtonLarge, { borderColor: theme.text }]}>
+            <Text style={[styles.clearFiltersButtonText, { color: theme.text }]}>Clear All Filters</Text>
+          </TouchableOpacity>
+        </View>
+      ) : (
+        <FlatList
+          data={filteredDrummers}
+          keyExtractor={(item) => item.id.toString()}
+          renderItem={({ item }) => (
+            <DrummerCard
+              drummer={item}
+              theme={theme}
+              onPress={() => onSelectDrummer(item.id)}
+            />
+          )}
+          contentContainerStyle={styles.listContainer}
+        />
+      )}
     </View>
   );
 }
@@ -1518,6 +1942,191 @@ function AppContent() {
   const [selectedGear, setSelectedGear] = useState(null);
   const [loadingGear, setLoadingGear] = useState(false);
 
+  // Search and filter state
+  const [filters, setFilters] = useState(() => getFiltersFromURL());
+  const [searchValue, setSearchValue] = useState(() => getFiltersFromURL().search || '');
+  const [showSuggestions, setShowSuggestions] = useState(false);
+  const searchInputRef = useRef(null);
+
+  // Filter drummers based on search and filters
+  const filteredDrummers = useMemo(() => {
+    let results = drummers;
+
+    // Search filter
+    if (searchValue) {
+      const query = searchValue.toLowerCase();
+      results = results.filter(d =>
+        d.name.toLowerCase().includes(query) ||
+        d.band.toLowerCase().includes(query) ||
+        (d.genre && d.genre.toLowerCase().includes(query))
+      );
+    }
+
+    // Genre filter
+    if (filters.genre) {
+      results = results.filter(d =>
+        d.genre && d.genre.toLowerCase().includes(filters.genre.toLowerCase())
+      );
+    }
+
+    // Brand filter (matches drums or cymbals gear info)
+    if (filters.brand) {
+      // Note: For brand filtering, we'd need full drummer data with gear info
+      // Since list API only returns basic info, we filter by known brand associations
+      // This is a client-side approximation; ideally the API would support brand filtering
+      results = results.filter(d => {
+        // Map known drummer IDs to brands based on our data
+        const drummerBrands = {
+          // Tama users
+          1: ['tama', 'zildjian'], // Lars Ulrich
+          4: ['tama', 'zildjian'], // Dave Lombardo
+          7: ['tama', 'zildjian', 'sabian'], // Igor Cavalera
+          13: ['tama', 'zildjian'], // Charlie Benante
+          14: ['tama', 'sabian', 'meinl'], // Mike Portnoy
+          16: ['tama', 'meinl'], // Mario Duplantier
+          17: ['tama', 'paiste'], // Brann Dailor
+          // Pearl users
+          2: ['pearl', 'paiste'], // Joey Jordison
+          3: ['pearl', 'sabian'], // Gene Hoglan
+          8: ['pearl', 'paiste'], // Abe Cunningham
+          20: ['pearl', 'meinl'], // Matt Halpern
+          19: ['pearl', 'meinl'], // Inferno
+          // Sonor users
+          5: ['sonor', 'meinl'], // Tomas Haake
+          15: ['sonor', 'meinl'], // Mike Mangini
+          21: ['sonor', 'meinl'], // Frost
+          // ddrum users
+          11: ['ddrum', 'sabian'], // Vinnie Paul
+          // Mapex users
+          18: ['mapex', 'zildjian'], // Art Cruz
+          // SJC users
+          10: ['sjc', 'zildjian'], // Travis Barker
+          // OCDP users
+          9: ['ocdp', 'zildjian'], // Brad Wilk
+          // DW users
+          6: ['dw', 'meinl'], // George Kollias
+          12: ['dw', 'paiste'], // Paul Bostaph
+        };
+        const brands = drummerBrands[d.id] || [];
+        return brands.includes(filters.brand.toLowerCase());
+      });
+    }
+
+    // Country filter
+    if (filters.country) {
+      results = results.filter(d =>
+        d.country && d.country.toLowerCase().includes(filters.country.toLowerCase())
+      );
+    }
+
+    return results;
+  }, [drummers, searchValue, filters]);
+
+  // Generate search suggestions
+  const suggestions = useMemo(() => {
+    if (!searchValue || searchValue.length < 2) return [];
+
+    const query = searchValue.toLowerCase();
+    const results = [];
+
+    // Add matching drummers
+    drummers
+      .filter(d => d.name.toLowerCase().includes(query))
+      .slice(0, 3)
+      .forEach(d => results.push({ type: 'drummer', ...d }));
+
+    // Add matching bands
+    const matchingBands = [...new Set(
+      drummers
+        .filter(d => d.band.toLowerCase().includes(query))
+        .map(d => d.band)
+    )].slice(0, 2);
+    matchingBands.forEach(band => {
+      const drummer = drummers.find(d => d.band === band);
+      results.push({ type: 'band', name: band, id: `band-${band}`, image: drummer?.image });
+    });
+
+    return results;
+  }, [drummers, searchValue]);
+
+  // Handle filter changes and update URL
+  const handleFilterChange = useCallback((newFilters) => {
+    setFilters(newFilters);
+    updateFiltersURL(newFilters);
+  }, []);
+
+  // Handle search input changes
+  const handleSearchChange = useCallback((text) => {
+    setSearchValue(text);
+    setShowSuggestions(true);
+    handleFilterChange({ ...filters, search: text });
+  }, [filters, handleFilterChange]);
+
+  // Handle search clear
+  const handleSearchClear = useCallback(() => {
+    setSearchValue('');
+    setShowSuggestions(false);
+    handleFilterChange({ ...filters, search: '' });
+  }, [filters, handleFilterChange]);
+
+  // Handle suggestion selection
+  const handleSelectSuggestion = useCallback((suggestion) => {
+    setShowSuggestions(false);
+    if (suggestion.type === 'drummer') {
+      handleSelectDrummer(suggestion.id);
+    } else if (suggestion.type === 'band') {
+      setSearchValue(suggestion.name);
+      handleFilterChange({ ...filters, search: suggestion.name });
+    }
+  }, [filters, handleFilterChange]);
+
+  // Keyboard shortcut (Cmd/Ctrl + K)
+  useEffect(() => {
+    if (Platform.OS !== 'web' || typeof window === 'undefined') return;
+
+    const handleKeyDown = (e) => {
+      if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+        e.preventDefault();
+        searchInputRef.current?.focus();
+      }
+      // Close suggestions on Escape
+      if (e.key === 'Escape') {
+        setShowSuggestions(false);
+      }
+    };
+
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, []);
+
+  // Close suggestions when clicking outside
+  useEffect(() => {
+    if (Platform.OS !== 'web' || typeof window === 'undefined') return;
+
+    const handleClickOutside = () => {
+      setShowSuggestions(false);
+    };
+
+    // Delayed to avoid immediate close on input focus
+    const timeout = setTimeout(() => {
+      window.addEventListener('click', handleClickOutside);
+    }, 100);
+
+    return () => {
+      clearTimeout(timeout);
+      window.removeEventListener('click', handleClickOutside);
+    };
+  }, [showSuggestions]);
+
+  // Load filters from URL on initial mount
+  useEffect(() => {
+    const urlFilters = getFiltersFromURL();
+    if (urlFilters.search || urlFilters.genre || urlFilters.brand || urlFilters.era || urlFilters.country) {
+      setFilters(urlFilters);
+      setSearchValue(urlFilters.search || '');
+    }
+  }, []);
+
   useEffect(() => {
     const fetchDrummers = async () => {
       try {
@@ -1702,9 +2311,20 @@ function AppContent() {
           theme={theme}
           onSelectDrummer={handleSelectDrummer}
           drummers={drummers}
+          filteredDrummers={filteredDrummers}
           loading={loadingDrummers}
           error={drummersError}
           onNavigateToCompare={handleNavigateToCompare}
+          filters={filters}
+          onFilterChange={handleFilterChange}
+          searchValue={searchValue}
+          onSearchChange={handleSearchChange}
+          onSearchClear={handleSearchClear}
+          suggestions={suggestions}
+          showSuggestions={showSuggestions}
+          onSearchFocus={() => setShowSuggestions(true)}
+          onSelectSuggestion={handleSelectSuggestion}
+          searchInputRef={searchInputRef}
         />
       </View>
     );
@@ -1712,7 +2332,7 @@ function AppContent() {
 
   return (
     <View style={[styles.container, { backgroundColor: theme.background }]}>
-      {!selectedDrummer && !showCompare && !selectedGear && <SEOHead drummers={drummers} />}
+      {!selectedDrummer && !showCompare && !selectedGear && <SEOHead drummers={drummers} filters={filters} />}
       <View style={styles.header} accessibilityRole="banner">
         <Text style={[styles.title, { color: theme.text }]} accessibilityRole="header">
           Metal Drummer Gear
@@ -2542,5 +3162,258 @@ const styles = StyleSheet.create({
   },
   relatedGearPrice: {
     fontSize: 12,
+  },
+  // Search and Filter styles
+  searchFilterContainer: {
+    paddingHorizontal: 20,
+    marginBottom: 16,
+    zIndex: 100,
+  },
+  searchContainer: {
+    position: 'relative',
+    zIndex: 101,
+    marginBottom: 12,
+  },
+  searchInputWrapper: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    borderRadius: 8,
+    borderWidth: 1,
+    paddingHorizontal: 12,
+    height: 44,
+  },
+  searchIcon: {
+    fontSize: 16,
+    marginRight: 8,
+  },
+  searchInput: {
+    flex: 1,
+    fontSize: 16,
+    height: '100%',
+    outlineStyle: 'none',
+  },
+  searchClearButton: {
+    padding: 4,
+  },
+  searchClearText: {
+    fontSize: 14,
+  },
+  searchShortcut: {
+    paddingHorizontal: 6,
+    paddingVertical: 2,
+    borderRadius: 4,
+    borderWidth: 1,
+  },
+  searchShortcutText: {
+    fontSize: 12,
+    fontFamily: Platform.OS === 'ios' ? 'Menlo' : 'monospace',
+  },
+  suggestionsContainer: {
+    position: 'absolute',
+    top: '100%',
+    left: 0,
+    right: 0,
+    borderRadius: 8,
+    borderWidth: 1,
+    marginTop: 4,
+    maxHeight: 300,
+    zIndex: 102,
+    shadowColor: '#000',
+    shadowOffset: { width: 0, height: 4 },
+    shadowOpacity: 0.15,
+    shadowRadius: 8,
+    elevation: 8,
+  },
+  suggestionItem: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    padding: 12,
+    borderBottomWidth: 1,
+  },
+  suggestionContent: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    flex: 1,
+  },
+  suggestionImage: {
+    width: 36,
+    height: 36,
+    borderRadius: 18,
+    marginRight: 12,
+  },
+  suggestionText: {
+    flex: 1,
+  },
+  suggestionTitle: {
+    fontSize: 14,
+    fontWeight: '500',
+  },
+  suggestionSubtitle: {
+    fontSize: 12,
+    marginTop: 2,
+  },
+  suggestionType: {
+    fontSize: 16,
+    marginLeft: 8,
+  },
+  // Filter bar styles
+  filterBar: {
+    zIndex: 99,
+  },
+  filterChipsContainer: {
+    marginBottom: 8,
+  },
+  filterChipsScroll: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 8,
+    paddingVertical: 4,
+  },
+  filterLabel: {
+    fontSize: 12,
+    fontWeight: '600',
+    marginRight: 4,
+  },
+  filterSeparator: {
+    width: 1,
+    height: 20,
+    backgroundColor: 'rgba(128, 128, 128, 0.3)',
+    marginHorizontal: 8,
+  },
+  filterChip: {
+    paddingHorizontal: 12,
+    paddingVertical: 6,
+    borderRadius: 16,
+    borderWidth: 1,
+  },
+  filterChipText: {
+    fontSize: 12,
+    fontWeight: '500',
+  },
+  filterDropdownContainer: {
+    position: 'relative',
+    zIndex: 100,
+  },
+  filterDropdownButton: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    paddingHorizontal: 12,
+    paddingVertical: 6,
+    borderRadius: 16,
+    borderWidth: 1,
+    gap: 6,
+  },
+  filterDropdownLabel: {
+    fontSize: 12,
+    fontWeight: '500',
+  },
+  filterDropdownArrow: {
+    fontSize: 8,
+  },
+  filterDropdownMenu: {
+    position: 'absolute',
+    top: '100%',
+    left: 0,
+    minWidth: 150,
+    borderRadius: 8,
+    borderWidth: 1,
+    marginTop: 4,
+    zIndex: 101,
+    shadowColor: '#000',
+    shadowOffset: { width: 0, height: 4 },
+    shadowOpacity: 0.15,
+    shadowRadius: 8,
+    elevation: 8,
+  },
+  filterDropdownItem: {
+    padding: 10,
+    borderBottomWidth: 1,
+  },
+  filterDropdownItemText: {
+    fontSize: 13,
+  },
+  filterResultsContainer: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    marginTop: 4,
+  },
+  filterResultCount: {
+    fontSize: 13,
+  },
+  clearFiltersLink: {
+    padding: 4,
+  },
+  clearFiltersLinkText: {
+    fontSize: 12,
+    fontWeight: '500',
+  },
+  // Mobile filter styles
+  filterBarMobile: {
+    zIndex: 99,
+  },
+  filterBarHeader: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    marginBottom: 8,
+  },
+  filterToggleButton: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    paddingHorizontal: 14,
+    paddingVertical: 10,
+    borderRadius: 8,
+    borderWidth: 1,
+    gap: 8,
+  },
+  filterToggleText: {
+    fontSize: 14,
+    fontWeight: '500',
+  },
+  filterToggleArrow: {
+    fontSize: 10,
+  },
+  filterPanelMobile: {
+    padding: 12,
+    borderRadius: 8,
+    borderWidth: 1,
+    marginBottom: 8,
+    gap: 12,
+  },
+  clearFiltersButton: {
+    paddingVertical: 10,
+    paddingHorizontal: 16,
+    borderRadius: 8,
+    borderWidth: 1,
+    alignItems: 'center',
+    marginTop: 4,
+  },
+  clearFiltersText: {
+    fontSize: 14,
+    fontWeight: '500',
+  },
+  // No results styles
+  noResultsContainer: {
+    flex: 1,
+    alignItems: 'center',
+    justifyContent: 'center',
+    padding: 40,
+  },
+  noResultsText: {
+    fontSize: 16,
+    textAlign: 'center',
+    marginBottom: 16,
+  },
+  clearFiltersButtonLarge: {
+    paddingVertical: 12,
+    paddingHorizontal: 24,
+    borderRadius: 8,
+    borderWidth: 1,
+  },
+  clearFiltersButtonText: {
+    fontSize: 14,
+    fontWeight: '600',
   },
 });

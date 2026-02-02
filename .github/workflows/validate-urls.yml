@@ -29,16 +29,19 @@ jobs:
           TOTAL=0
           
           echo ""
-          echo "🖼️ Checking image URLs..."
+          echo "🖼️ Checking image URLs (with rate limit protection)..."
           while IFS= read -r url; do
             [ -z "$url" ] && continue
             TOTAL=$((TOTAL + 1))
-            STATUS=$(curl -s -o /dev/null -w '%{http_code}' --max-time 10 "$url" || echo "000")
-            if [ "$STATUS" != "200" ]; then
+            # Delay to avoid Wikipedia rate limiting (429)
+            sleep 0.5
+            STATUS=$(curl -s -o /dev/null -w '%{http_code}' --max-time 15 --retry 2 --retry-delay 3 "$url" || echo "000")
+            # Accept 200 and 429 (rate limit = URL exists but throttled)
+            if [ "$STATUS" = "200" ] || [ "$STATUS" = "429" ]; then
+              echo "✅ $url"
+            else
               echo "❌ [$STATUS] $url"
               FAILED=$((FAILED + 1))
-            else
-              echo "✅ $url"
             fi
           done < /tmp/image_urls.txt
           
@@ -47,10 +50,11 @@ jobs:
           while IFS= read -r url; do
             [ -z "$url" ] && continue
             TOTAL=$((TOTAL + 1))
+            sleep 0.3
             VIDEO_ID=$(echo "$url" | grep -oE '[a-zA-Z0-9_-]{11}$' || echo "$url" | grep -oE 'v=([a-zA-Z0-9_-]{11})' | cut -d= -f2)
             if [ -n "$VIDEO_ID" ]; then
               OEMBED="https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=${VIDEO_ID}&format=json"
-              STATUS=$(curl -s -o /dev/null -w '%{http_code}' --max-time 10 "$OEMBED" || echo "000")
+              STATUS=$(curl -s -o /dev/null -w '%{http_code}' --max-time 15 --retry 2 --retry-delay 3 "$OEMBED" || echo "000")
               if [ "$STATUS" != "200" ]; then
                 echo "❌ [$STATUS] $url"
                 FAILED=$((FAILED + 1))

@@ -2495,27 +2495,15 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
     }
   };
 
-  const handleNewsletterSubmit = async () => {
-    if (!email.trim() || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
-      return;
-    }
-    
-    setNewsletterStatus('loading');
-    
-    try {
-      if (Platform.OS === 'web' && typeof window !== 'undefined') {
-        const subscribers = JSON.parse(localStorage.getItem('newsletter_subscribers') || '[]');
-        if (!subscribers.includes(email)) {
-          subscribers.push(email);
-          localStorage.setItem('newsletter_subscribers', JSON.stringify(subscribers));
-        }
+  // Check if user just subscribed (redirected back from FormSubmit)
+  useEffect(() => {
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      const params = new URLSearchParams(window.location.search);
+      if (params.get('subscribed') === 'true') {
+        setNewsletterStatus('success');
       }
-      await new Promise(resolve => setTimeout(resolve, 500));
-      setNewsletterStatus('success');
-    } catch (err) {
-      setNewsletterStatus('error');
     }
-  };
+  }, []);
 
   // Results View
   if (showResults && results) {
@@ -2647,33 +2635,63 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
               <Text style={[styles.newsletterSuccess, { color: '#4ade80' }]}>
                 ✓ You're subscribed! Thanks for joining.
               </Text>
-            ) : (
-              <View style={styles.quizNewsletterForm}>
-                <TextInput
-                  style={[styles.quizNewsletterInput, { 
-                    backgroundColor: theme.background, 
-                    borderColor: theme.border,
-                    color: theme.text 
-                  }]}
+            ) : Platform.OS === 'web' ? (
+              <form
+                action="https://formsubmit.co/ricardo@boomstrategy.io"
+                method="POST"
+                style={{
+                  display: 'flex',
+                  flexDirection: 'row',
+                  gap: 8,
+                  marginTop: 12,
+                  flexWrap: 'wrap',
+                }}
+              >
+                {/* FormSubmit.co hidden fields */}
+                <input type="hidden" name="_subject" value="MetalForge Newsletter Signup (Quiz)" />
+                <input type="hidden" name="_captcha" value="false" />
+                <input type="hidden" name="_template" value="table" />
+                <input type="hidden" name="_next" value="https://metalforge.io/quiz?subscribed=true" />
+                {/* Honeypot spam protection */}
+                <input type="text" name="_honey" style={{ display: 'none' }} />
+                
+                <input
+                  type="email"
+                  name="email"
                   placeholder="Enter your email"
-                  placeholderTextColor={theme.secondaryText}
-                  value={email}
-                  onChangeText={setEmail}
-                  keyboardType="email-address"
-                  autoCapitalize="none"
+                  required
+                  style={{
+                    flex: 1,
+                    minWidth: 200,
+                    padding: '12px 16px',
+                    fontSize: 16,
+                    borderRadius: 8,
+                    border: '2px solid #555',
+                    backgroundColor: '#2a2a2a',
+                    color: theme.text,
+                    outline: 'none',
+                  }}
                 />
-                <TouchableOpacity
-                  onPress={handleNewsletterSubmit}
-                  style={[styles.quizNewsletterButton, { 
-                    backgroundColor: newsletterStatus === 'loading' ? theme.secondaryText : '#dc2626' 
-                  }]}
-                  disabled={newsletterStatus === 'loading'}
+                <button
+                  type="submit"
+                  style={{
+                    backgroundColor: '#dc2626',
+                    padding: '12px 20px',
+                    borderRadius: 8,
+                    border: 'none',
+                    cursor: 'pointer',
+                    fontSize: 14,
+                    fontWeight: 600,
+                    color: '#ffffff',
+                  }}
                 >
-                  <Text style={styles.quizNewsletterButtonText}>
-                    {newsletterStatus === 'loading' ? '...' : 'Subscribe'}
-                  </Text>
-                </TouchableOpacity>
-              </View>
+                  Subscribe
+                </button>
+              </form>
+            ) : (
+              <Text style={[styles.quizNewsletterSubtitle, { color: theme.secondaryText, marginTop: 8 }]}>
+                Visit metalforge.io to subscribe!
+              </Text>
             )}
           </View>
 
@@ -2785,69 +2803,105 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
 function NewsletterFooter({ theme }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
-  const [email, setEmail] = useState('');
-  const [status, setStatus] = useState('idle'); // idle, loading, success, error
-  const [errorMessage, setErrorMessage] = useState('');
-
-  // Email validation regex
-  const isValidEmail = (email) => {
-    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-    return emailRegex.test(email);
-  };
-
-  const handleSubmit = async () => {
-    // Reset previous error
-    setErrorMessage('');
-
-    // Validate email format
-    if (!email.trim()) {
-      setErrorMessage('Please enter your email address');
-      setStatus('error');
-      return;
+  
+  // Check if user just subscribed (redirected back from FormSubmit)
+  const [isSubscribed, setIsSubscribed] = useState(() => {
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      const params = new URLSearchParams(window.location.search);
+      return params.get('subscribed') === 'true';
     }
+    return false;
+  });
 
-    if (!isValidEmail(email)) {
-      setErrorMessage('Please enter a valid email address');
-      setStatus('error');
-      return;
-    }
+  // For web, render native HTML form for FormSubmit.co
+  if (Platform.OS === 'web') {
+    return (
+      <View style={[styles.newsletterFooter, { backgroundColor: theme.card, borderTopColor: theme.border }]}>
+        <View style={[styles.newsletterContainer, isMobile && styles.newsletterContainerMobile]}>
+          <View style={styles.newsletterTextSection}>
+            <Text style={[styles.newsletterTitle, { color: theme.text }]}>
+              🥁 Stay in the Loop
+            </Text>
+            <Text style={[styles.newsletterSubtitle, { color: theme.secondaryText }]}>
+              Get updates on new drummers and gear
+            </Text>
+          </View>
 
-    setStatus('loading');
+          {isSubscribed ? (
+            <View style={styles.newsletterSuccessContainer}>
+              <Text style={[styles.newsletterSuccess, { color: '#4ade80' }]}>
+                ✓ You're subscribed! Thanks for joining.
+              </Text>
+            </View>
+          ) : (
+            <form
+              action="https://formsubmit.co/ricardo@boomstrategy.io"
+              method="POST"
+              style={{
+                display: 'flex',
+                flexDirection: isMobile ? 'column' : 'row',
+                alignItems: 'center',
+                gap: 8,
+                flex: 1,
+                maxWidth: isMobile ? '100%' : 400,
+                width: isMobile ? '100%' : 'auto',
+              }}
+            >
+              {/* FormSubmit.co hidden fields */}
+              <input type="hidden" name="_subject" value="MetalForge Newsletter Signup" />
+              <input type="hidden" name="_captcha" value="false" />
+              <input type="hidden" name="_template" value="table" />
+              <input type="hidden" name="_next" value="https://metalforge.io/?subscribed=true" />
+              {/* Honeypot spam protection */}
+              <input type="text" name="_honey" style={{ display: 'none' }} />
+              
+              <input
+                type="email"
+                name="email"
+                placeholder="Enter your email"
+                required
+                style={{
+                  flex: 1,
+                  width: isMobile ? '100%' : 'auto',
+                  padding: '12px 16px',
+                  fontSize: 16,
+                  borderRadius: 8,
+                  border: '2px solid #555',
+                  backgroundColor: '#2a2a2a',
+                  color: theme.text,
+                  outline: 'none',
+                  height: 48,
+                  boxSizing: 'border-box',
+                }}
+                aria-label="Email address for newsletter signup"
+              />
+              <button
+                type="submit"
+                style={{
+                  backgroundColor: '#f59e0b',
+                  padding: '12px 24px',
+                  borderRadius: 8,
+                  border: 'none',
+                  height: 48,
+                  minWidth: 120,
+                  width: isMobile ? '100%' : 'auto',
+                  cursor: 'pointer',
+                  fontSize: 16,
+                  fontWeight: 600,
+                  color: '#000000',
+                }}
+                aria-label="Subscribe to newsletter"
+              >
+                Subscribe
+              </button>
+            </form>
+          )}
+        </View>
+      </View>
+    );
+  }
 
-    try {
-      // Placeholder: log to console and store in localStorage for now
-      // Real email service integration will come later
-      console.log('Newsletter signup:', email);
-      
-      if (Platform.OS === 'web' && typeof window !== 'undefined') {
-        const subscribers = JSON.parse(localStorage.getItem('newsletter_subscribers') || '[]');
-        if (subscribers.includes(email)) {
-          setErrorMessage('This email is already subscribed');
-          setStatus('error');
-          return;
-        }
-        subscribers.push(email);
-        localStorage.setItem('newsletter_subscribers', JSON.stringify(subscribers));
-      }
-
-      // Simulate a short delay for UX
-      await new Promise(resolve => setTimeout(resolve, 500));
-
-      setStatus('success');
-      setEmail('');
-    } catch (err) {
-      console.error('Newsletter signup error:', err);
-      setErrorMessage('Something went wrong. Please try again.');
-      setStatus('error');
-    }
-  };
-
-  const handleKeyPress = (e) => {
-    if (e.key === 'Enter' || e.nativeEvent?.key === 'Enter') {
-      handleSubmit();
-    }
-  };
-
+  // For native platforms, keep simple UI (no form submission)
   return (
     <View style={[styles.newsletterFooter, { backgroundColor: theme.card, borderTopColor: theme.border }]}>
       <View style={[styles.newsletterContainer, isMobile && styles.newsletterContainerMobile]}>
@@ -2856,65 +2910,9 @@ function NewsletterFooter({ theme }) {
             🥁 Stay in the Loop
           </Text>
           <Text style={[styles.newsletterSubtitle, { color: theme.secondaryText }]}>
-            Get updates on new drummers and gear
+            Visit metalforge.io to subscribe to our newsletter!
           </Text>
         </View>
-
-        {status === 'success' ? (
-          <View style={styles.newsletterSuccessContainer}>
-            <Text style={[styles.newsletterSuccess, { color: '#4ade80' }]}>
-              ✓ You're subscribed! Thanks for joining.
-            </Text>
-          </View>
-        ) : (
-          <View style={[styles.newsletterForm, isMobile && styles.newsletterFormMobile]}>
-            <View style={[
-              styles.newsletterInputWrapper,
-              isMobile && styles.newsletterInputWrapperMobile,
-              { backgroundColor: theme.background, borderColor: status === 'error' ? theme.error : '#777' }
-            ]}>
-              <TextInput
-                style={[styles.newsletterInput, { color: theme.text }]}
-                placeholder="Enter your email"
-                placeholderTextColor="#888"
-                value={email}
-                onChangeText={(text) => {
-                  setEmail(text);
-                  if (status === 'error') setStatus('idle');
-                }}
-                onKeyPress={handleKeyPress}
-                keyboardType="email-address"
-                autoCapitalize="none"
-                autoCorrect={false}
-                editable={status !== 'loading'}
-                accessibilityLabel="Email address for newsletter signup"
-              />
-            </View>
-            <TouchableOpacity
-              onPress={handleSubmit}
-              disabled={status === 'loading'}
-              style={[
-                styles.newsletterButton,
-                isMobile && styles.newsletterButtonMobile,
-                status === 'loading' && styles.newsletterButtonDisabled
-              ]}
-              accessibilityRole="button"
-              accessibilityLabel="Subscribe to newsletter"
-            >
-              {status === 'loading' ? (
-                <ActivityIndicator size="small" color="#000000" />
-              ) : (
-                <Text style={styles.newsletterButtonText}>Subscribe</Text>
-              )}
-            </TouchableOpacity>
-          </View>
-        )}
-
-        {status === 'error' && errorMessage && (
-          <Text style={[styles.newsletterError, { color: theme.error }]}>
-            {errorMessage}
-          </Text>
-        )}
       </View>
     </View>
   );

@@ -206,11 +206,12 @@ function GenreTag({ genre, size = 'small' }) {
 }
 
 function GenreTags({ genres, size = 'small' }) {
-  if (!genres || genres.length === 0) return null;
+  const validGenres = (genres || []).filter(g => g && g.trim());
+  if (validGenres.length === 0) return null;
 
   return (
     <View style={styles.genreTagsContainer}>
-      {genres.map((genre, index) => (
+      {validGenres.map((genre, index) => (
         <GenreTag key={index} genre={genre} size={size} />
       ))}
     </View>

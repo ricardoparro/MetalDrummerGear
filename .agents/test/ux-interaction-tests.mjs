@@ -10,9 +10,9 @@ import { chromium } from 'playwright';
 const BASE_URL = process.env.TEST_URL || 'https://metalforge.io';
 const TIMEOUT = 20000;
 
-// Drummer card selector - these are buttons in the grid with drummer info
+// Drummer card selector - these are links in the grid with drummer info
 // Use role-based selector since these have aria-labels with "gear details"
-const DRUMMER_CARD_SELECTOR = 'role=button[name*="gear details"]';
+const DRUMMER_CARD_SELECTOR = 'role=link[name*="gear details"]';
 
 /**
  * Wait for selector with retry logic - reloads page once on failure

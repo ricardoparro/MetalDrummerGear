@@ -1915,6 +1915,145 @@ function GearDetail({ gear, theme, onBack, onSelectDrummer }) {
   );
 }
 
+// Newsletter Signup Footer Component
+function NewsletterFooter({ theme }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const [email, setEmail] = useState('');
+  const [status, setStatus] = useState('idle'); // idle, loading, success, error
+  const [errorMessage, setErrorMessage] = useState('');
+
+  // Email validation regex
+  const isValidEmail = (email) => {
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    return emailRegex.test(email);
+  };
+
+  const handleSubmit = async () => {
+    // Reset previous error
+    setErrorMessage('');
+
+    // Validate email format
+    if (!email.trim()) {
+      setErrorMessage('Please enter your email address');
+      setStatus('error');
+      return;
+    }
+
+    if (!isValidEmail(email)) {
+      setErrorMessage('Please enter a valid email address');
+      setStatus('error');
+      return;
+    }
+
+    setStatus('loading');
+
+    try {
+      // Placeholder: log to console and store in localStorage for now
+      // Real email service integration will come later
+      console.log('Newsletter signup:', email);
+      
+      if (Platform.OS === 'web' && typeof window !== 'undefined') {
+        const subscribers = JSON.parse(localStorage.getItem('newsletter_subscribers') || '[]');
+        if (subscribers.includes(email)) {
+          setErrorMessage('This email is already subscribed');
+          setStatus('error');
+          return;
+        }
+        subscribers.push(email);
+        localStorage.setItem('newsletter_subscribers', JSON.stringify(subscribers));
+      }
+
+      // Simulate a short delay for UX
+      await new Promise(resolve => setTimeout(resolve, 500));
+
+      setStatus('success');
+      setEmail('');
+    } catch (err) {
+      console.error('Newsletter signup error:', err);
+      setErrorMessage('Something went wrong. Please try again.');
+      setStatus('error');
+    }
+  };
+
+  const handleKeyPress = (e) => {
+    if (e.key === 'Enter' || e.nativeEvent?.key === 'Enter') {
+      handleSubmit();
+    }
+  };
+
+  return (
+    <View style={[styles.newsletterFooter, { backgroundColor: theme.card, borderTopColor: theme.border }]}>
+      <View style={[styles.newsletterContainer, isMobile && styles.newsletterContainerMobile]}>
+        <View style={styles.newsletterTextSection}>
+          <Text style={[styles.newsletterTitle, { color: theme.text }]}>
+            🥁 Stay in the Loop
+          </Text>
+          <Text style={[styles.newsletterSubtitle, { color: theme.secondaryText }]}>
+            Get updates on new drummers and gear
+          </Text>
+        </View>
+
+        {status === 'success' ? (
+          <View style={styles.newsletterSuccessContainer}>
+            <Text style={[styles.newsletterSuccess, { color: '#4ade80' }]}>
+              ✓ You're subscribed! Thanks for joining.
+            </Text>
+          </View>
+        ) : (
+          <View style={[styles.newsletterForm, isMobile && styles.newsletterFormMobile]}>
+            <View style={[
+              styles.newsletterInputWrapper,
+              isMobile && styles.newsletterInputWrapperMobile,
+              { backgroundColor: theme.background, borderColor: status === 'error' ? theme.error : theme.border }
+            ]}>
+              <TextInput
+                style={[styles.newsletterInput, { color: theme.text }]}
+                placeholder="Enter your email"
+                placeholderTextColor={theme.secondaryText}
+                value={email}
+                onChangeText={(text) => {
+                  setEmail(text);
+                  if (status === 'error') setStatus('idle');
+                }}
+                onKeyPress={handleKeyPress}
+                keyboardType="email-address"
+                autoCapitalize="none"
+                autoCorrect={false}
+                editable={status !== 'loading'}
+                accessibilityLabel="Email address for newsletter signup"
+              />
+            </View>
+            <TouchableOpacity
+              onPress={handleSubmit}
+              disabled={status === 'loading'}
+              style={[
+                styles.newsletterButton,
+                isMobile && styles.newsletterButtonMobile,
+                status === 'loading' && styles.newsletterButtonDisabled
+              ]}
+              accessibilityRole="button"
+              accessibilityLabel="Subscribe to newsletter"
+            >
+              {status === 'loading' ? (
+                <ActivityIndicator size="small" color="#000000" />
+              ) : (
+                <Text style={styles.newsletterButtonText}>Subscribe</Text>
+              )}
+            </TouchableOpacity>
+          </View>
+        )}
+
+        {status === 'error' && errorMessage && (
+          <Text style={[styles.newsletterError, { color: theme.error }]}>
+            {errorMessage}
+          </Text>
+        )}
+      </View>
+    </View>
+  );
+}
+
 function AppContent() {
   const { theme, isDarkMode, toggleTheme } = useTheme();
   const [selectedDrummerId, setSelectedDrummerId] = useState(null);
@@ -2401,6 +2540,7 @@ function AppContent() {
         </View>
       </View>
       {renderContent()}
+      <NewsletterFooter theme={theme} />
       <StatusBar style={isDarkMode ? 'light' : 'dark'} />
     </View>
   );
@@ -3473,5 +3613,101 @@ const styles = StyleSheet.create({
   clearFiltersButtonText: {
     fontSize: 14,
     fontWeight: '600',
+  },
+  // Newsletter Footer styles
+  newsletterFooter: {
+    borderTopWidth: 1,
+    paddingVertical: 24,
+    paddingHorizontal: 20,
+    marginTop: 'auto',
+  },
+  newsletterContainer: {
+    maxWidth: 800,
+    marginHorizontal: 'auto',
+    width: '100%',
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    flexWrap: 'wrap',
+    gap: 16,
+  },
+  newsletterContainerMobile: {
+    flexDirection: 'column',
+    alignItems: 'stretch',
+  },
+  newsletterTextSection: {
+    flex: 1,
+    minWidth: 200,
+  },
+  newsletterTitle: {
+    fontSize: 18,
+    fontWeight: 'bold',
+    marginBottom: 4,
+  },
+  newsletterSubtitle: {
+    fontSize: 14,
+  },
+  newsletterForm: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 12,
+    flex: 1,
+    maxWidth: 400,
+  },
+  newsletterFormMobile: {
+    flexDirection: 'column',
+    maxWidth: '100%',
+    width: '100%',
+  },
+  newsletterInputWrapper: {
+    flex: 1,
+    borderRadius: 8,
+    borderWidth: 1,
+    overflow: 'hidden',
+  },
+  newsletterInputWrapperMobile: {
+    width: '100%',
+  },
+  newsletterInput: {
+    paddingHorizontal: 16,
+    paddingVertical: 12,
+    fontSize: 16,
+    height: 48,
+    outlineStyle: 'none',
+  },
+  newsletterButton: {
+    backgroundColor: '#f59e0b',
+    paddingHorizontal: 24,
+    paddingVertical: 12,
+    borderRadius: 8,
+    height: 48,
+    justifyContent: 'center',
+    alignItems: 'center',
+    minWidth: 120,
+  },
+  newsletterButtonMobile: {
+    width: '100%',
+  },
+  newsletterButtonDisabled: {
+    opacity: 0.7,
+  },
+  newsletterButtonText: {
+    color: '#000000',
+    fontSize: 16,
+    fontWeight: '600',
+  },
+  newsletterSuccessContainer: {
+    flex: 1,
+    maxWidth: 400,
+  },
+  newsletterSuccess: {
+    fontSize: 16,
+    fontWeight: '500',
+  },
+  newsletterError: {
+    fontSize: 14,
+    marginTop: 8,
+    width: '100%',
+    textAlign: 'center',
   },
 });

@@ -46,8 +46,10 @@ gh issue create --title "🧑 [Task requiring Ricardo]" --label "human-founder" 
 
 ---
 
-## You Run 3x Per Day
+## You Run 5x Per Day
 - **09:00** — Morning: Plan the day, review founder ideas
+- **10:00** — Research: Competitor analysis, content gaps, SEO opportunities
+- **12:00** — Midday: Quick status check, keep pipeline moving
 - **14:00** — Afternoon: Check progress, adjust priorities
 - **18:00** — Evening: Daily review, plan tomorrow
 
@@ -68,6 +70,31 @@ gh issue create --title "🧑 [Task requiring Ricardo]" --label "human-founder" 
 - Check backlog.md — Any old ideas worth revisiting?
 - Research trends — What's new in drummer gear / metal scene?
 - Add your ideas to `ceo-ideas.md` with full Impact Timeline analysis
+
+### 2b. Research Tasks (10:00 Session)
+**Competitive Intelligence & Growth Opportunities:**
+
+1. **Competitor Analysis** — Rotate through these sites:
+   - equipboard.com (gear database)
+   - drummerworld.com (drummer info)
+   - moderndrummer.com (industry news)
+   - Use `web_fetch` to analyze pages
+   - Document findings in `competitors.md`
+
+2. **Content Gap Analysis:**
+   - Which famous metal drummers are we missing?
+   - Which gear brands are underrepresented?
+   - What drummer/gear combos have high search volume?
+
+3. **SEO Opportunities:**
+   - What drummer-related searches could we rank for?
+   - Any trending topics in metal drumming?
+   - Long-tail keyword opportunities?
+
+4. **Feature Research:**
+   - What do competitors have that we don't?
+   - What unique features could differentiate us?
+   - Community features? User submissions? Gear reviews?
 
 ### 3. Review SEO Proposals
 - Check issues with `seo-proposal` label

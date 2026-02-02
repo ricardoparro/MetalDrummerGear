@@ -11,7 +11,44 @@ Ensure data integrity by running automated tests and creating issues when proble
 
 ## Test Suite
 
-### 1. Gear vs Endorsements Consistency
+### ⛔ 1. URL VALIDATION — RUN FIRST, ALWAYS
+
+**This is the #1 priority check. If URLs fail, STOP and create issue immediately.**
+
+#### 1a. Image URL Check (BLOCKING)
+```bash
+# For EVERY drummer, test image URL
+for each drummer:
+  code=$(curl -s -o /dev/null -w '%{http_code}' "$drummer.image" --max-time 5)
+  if [ "$code" != "200" ]; then
+    FAIL — create issue immediately
+  fi
+```
+
+❌ **If ANY image returns non-200 → Create issue with `ai-fix` label IMMEDIATELY**
+
+#### 1b. YouTube Video Check (BLOCKING)
+```bash
+# For EVERY video of EVERY drummer
+for each drummer:
+  for each video in drummer.videos:
+    if [ -z "$video.youtubeId" ] || [ "$video.youtubeId" = "null" ]; then
+      FAIL — missing video ID
+    fi
+    code=$(curl -s -o /dev/null -w '%{http_code}' "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=$video.youtubeId&format=json" --max-time 5)
+    if [ "$code" != "200" ]; then
+      FAIL — video unavailable
+    fi
+```
+
+❌ **If ANY video is missing or unavailable → Create issue with `ai-fix` label IMMEDIATELY**
+
+#### Why This Is First
+Broken images/videos are **immediately visible to users**. Other data issues are invisible. Fix visible bugs first.
+
+---
+
+### 2. Gear vs Endorsements Consistency
 For each drummer, verify:
 - Drum brand in `gear.drums` matches an endorsement
 - Cymbal brand in `gear.cymbals` matches an endorsement
@@ -24,43 +61,24 @@ gear.drums = "Tama Star Classic Maple"  // Brand: Tama
 endorsements = ["Tama Drums", ...]       // ✅ Match
 ```
 
-### 2. Required Fields
+### 3. Required Fields
 Every drummer must have:
 - `id` (unique integer)
 - `name` (non-empty string)
 - `band` (non-empty string)
 - `genre` (non-empty string)
 - `country` (non-empty string)
-- `image` (valid URL)
+- `image` (valid URL that returns 200)
 - `bio` (min 100 characters)
 - `gear.drums`, `gear.snare`, `gear.cymbals`, `gear.hardware`, `gear.sticks`
 - `endorsements` (min 1 item with name and url)
-- `videos` (min 1 item with title and youtubeId)
+- `videos` (min 1 item with title and valid youtubeId)
 
-### 3. Data Sync
+### 4. Data Sync
 - `api/drummers/index.js` and `api/drummers/[id].js` must have identical data
 - All drummers in index must be in [id] and vice versa
 
-### 4. URL Validation ⭐ CRITICAL
-- **All image URLs must return HTTP 200** (not 404!)
-- Test with: `curl -s -o /dev/null -w '%{http_code}' 'URL'`
-- All endorsement URLs must be valid domains
-- All YouTube IDs must be 11 characters
-
-### 4b. New Drummer Photo Check ⭐ PRIORITY
-When new drummers are added:
-1. Verify image URL returns 200
-2. If 404 or error → Create issue with `ai-fix` label immediately
-3. Suggest Wikimedia Commons as source for replacement images
-4. This is CRITICAL — broken images break the site
-
-### 5. YouTube Video Validation ⭐ NEW
-- **All YouTube videos must be available** (not removed/private)
-- Test with: `curl -s -o /dev/null -w '%{http_code}' 'https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=VIDEO_ID&format=json'`
-- 200 = available, 404 = unavailable
-- If video unavailable → Create issue to find replacement
-
-### 6. ID Integrity
+### 5. ID Integrity
 - No duplicate IDs
 - IDs should be sequential (no gaps)
 

@@ -1,0 +1,244 @@
+#!/usr/bin/env node
+/**
+ * UX Interaction Tests for MetalForge
+ * Run with: node .agents/test/ux-interaction-tests.mjs
+ * Requires: playwright installed
+ */
+
+import { chromium } from 'playwright';
+
+const BASE_URL = process.env.TEST_URL || 'https://metalforge.io';
+const TIMEOUT = 10000;
+
+const results = {
+  passed: [],
+  failed: [],
+  warnings: []
+};
+
+function log(type, message) {
+  const icons = { pass: '✅', fail: '❌', warn: '⚠️', info: 'ℹ️' };
+  console.log(`${icons[type] || ''} ${message}`);
+  
+  if (type === 'pass') results.passed.push(message);
+  if (type === 'fail') results.failed.push(message);
+  if (type === 'warn') results.warnings.push(message);
+}
+
+async function testFilterChips(page) {
+  console.log('\n--- Filter Chip Tests ---\n');
+  
+  // Navigate to homepage
+  await page.goto(BASE_URL, { waitUntil: 'networkidle' });
+  
+  // Get initial drummer count
+  const initialCards = await page.locator('[class*="drummerCard"]').count();
+  log('info', `Initial drummer count: ${initialCards}`);
+  
+  // Test: Click Pearl filter
+  try {
+    // Find and click Pearl chip
+    const pearlChip = page.locator('text=Pearl').first();
+    await pearlChip.click();
+    await page.waitForTimeout(500);
+    
+    // Check URL updated
+    const url = page.url();
+    if (url.includes('brand=pearl')) {
+      log('pass', 'URL updates with filter param');
+    } else {
+      log('fail', 'URL does not include brand=pearl');
+    }
+    
+    // Check filtered count
+    const filteredCards = await page.locator('[class*="drummerCard"]').count();
+    if (filteredCards < initialCards) {
+      log('pass', `Filter reduces results: ${initialCards} → ${filteredCards}`);
+    } else {
+      log('warn', 'Filter did not reduce results');
+    }
+    
+  } catch (e) {
+    log('fail', `Filter chip test failed: ${e.message}`);
+  }
+}
+
+async function testComponentConsistency(page) {
+  console.log('\n--- Component Consistency Tests ---\n');
+  
+  await page.goto(BASE_URL, { waitUntil: 'networkidle' });
+  
+  try {
+    // Click Pearl filter chip
+    const pearlChip = page.locator('text=Pearl').first();
+    await pearlChip.click();
+    await page.waitForTimeout(500);
+    
+    // Check if any dropdown shows "Pearl" as its label (it shouldn't)
+    const dropdownButtons = await page.locator('[class*="filterDropdown"] button, [class*="Dropdown"] button').all();
+    
+    for (const btn of dropdownButtons) {
+      const text = await btn.textContent();
+      if (text && text.trim() === 'Pearl' || text && text.includes('Pearl ▼')) {
+        log('fail', `Dropdown shows "Pearl" instead of static label - COMPONENT CONFLICT`);
+        return;
+      }
+    }
+    
+    log('pass', 'No dropdown shows selected filter value as label');
+    
+  } catch (e) {
+    log('fail', `Component consistency test failed: ${e.message}`);
+  }
+}
+
+async function testFilterLogic(page) {
+  console.log('\n--- Filter Logic Tests ---\n');
+  
+  await page.goto(BASE_URL, { waitUntil: 'networkidle' });
+  
+  try {
+    // Test Thrash filter
+    const thrashChip = page.locator('text=Thrash').first();
+    if (await thrashChip.isVisible()) {
+      await thrashChip.click();
+      await page.waitForTimeout(500);
+      
+      // Check that Lars Ulrich appears (Thrash Metal)
+      const larsCard = page.locator('text=Lars Ulrich');
+      if (await larsCard.isVisible()) {
+        log('pass', 'Thrash filter shows Lars Ulrich (correct)');
+      } else {
+        log('fail', 'Thrash filter should show Lars Ulrich');
+      }
+    }
+    
+    // Clear and test Clear All
+    const clearBtn = page.locator('text=Clear').first();
+    if (await clearBtn.isVisible()) {
+      await clearBtn.click();
+      await page.waitForTimeout(500);
+      
+      const url = page.url();
+      if (!url.includes('genre=') && !url.includes('brand=')) {
+        log('pass', 'Clear All removes filter params from URL');
+      } else {
+        log('fail', 'Clear All did not remove filter params');
+      }
+    }
+    
+  } catch (e) {
+    log('fail', `Filter logic test failed: ${e.message}`);
+  }
+}
+
+async function testDeepLinks(page) {
+  console.log('\n--- Deep Link Tests ---\n');
+  
+  try {
+    // Test direct navigation to drummer profile
+    await page.goto(`${BASE_URL}/drummer/1`, { waitUntil: 'networkidle' });
+    
+    // Check if Lars Ulrich page loaded
+    const pageContent = await page.textContent('body');
+    if (pageContent.includes('Lars Ulrich')) {
+      log('pass', 'Deep link to /drummer/1 loads Lars Ulrich');
+    } else {
+      log('fail', 'Deep link /drummer/1 did not load correct drummer');
+    }
+    
+    // Test filter deep link
+    await page.goto(`${BASE_URL}?brand=pearl`, { waitUntil: 'networkidle' });
+    await page.waitForTimeout(500);
+    
+    // Pearl should be active/selected
+    const url = page.url();
+    if (url.includes('brand=pearl')) {
+      log('pass', 'Filter deep link preserves params');
+    } else {
+      log('fail', 'Filter deep link did not preserve params');
+    }
+    
+  } catch (e) {
+    log('fail', `Deep link test failed: ${e.message}`);
+  }
+}
+
+async function testMobileTouchTargets(page) {
+  console.log('\n--- Mobile Touch Target Tests ---\n');
+  
+  // Set mobile viewport
+  await page.setViewportSize({ width: 375, height: 667 });
+  await page.goto(BASE_URL, { waitUntil: 'networkidle' });
+  
+  try {
+    // Check common interactive elements
+    const buttons = await page.locator('button, [role="button"], a').all();
+    let smallTargets = 0;
+    
+    for (const btn of buttons.slice(0, 20)) { // Check first 20
+      const box = await btn.boundingBox();
+      if (box && (box.width < 44 || box.height < 44)) {
+        smallTargets++;
+        const text = await btn.textContent();
+        log('warn', `Small touch target: ${text?.slice(0, 20) || 'unnamed'} (${Math.round(box.width)}x${Math.round(box.height)})`);
+      }
+    }
+    
+    if (smallTargets === 0) {
+      log('pass', 'All touch targets >= 44x44px');
+    } else {
+      log('warn', `${smallTargets} elements have small touch targets`);
+    }
+    
+  } catch (e) {
+    log('fail', `Mobile touch target test failed: ${e.message}`);
+  }
+}
+
+async function runTests() {
+  console.log('🧪 MetalForge UX Interaction Tests');
+  console.log('==================================');
+  console.log(`Testing: ${BASE_URL}\n`);
+  
+  const browser = await chromium.launch({ headless: true });
+  const context = await browser.newContext();
+  const page = await context.newPage();
+  page.setDefaultTimeout(TIMEOUT);
+  
+  try {
+    await testFilterChips(page);
+    await testComponentConsistency(page);
+    await testFilterLogic(page);
+    await testDeepLinks(page);
+    await testMobileTouchTargets(page);
+  } finally {
+    await browser.close();
+  }
+  
+  // Summary
+  console.log('\n==================================');
+  console.log('📊 SUMMARY');
+  console.log('==================================');
+  console.log(`✅ Passed: ${results.passed.length}`);
+  console.log(`❌ Failed: ${results.failed.length}`);
+  console.log(`⚠️ Warnings: ${results.warnings.length}`);
+  
+  if (results.failed.length > 0) {
+    console.log('\n❌ FAILURES:');
+    results.failed.forEach(f => console.log(`   - ${f}`));
+  }
+  
+  if (results.warnings.length > 0) {
+    console.log('\n⚠️ WARNINGS:');
+    results.warnings.forEach(w => console.log(`   - ${w}`));
+  }
+  
+  // Exit code
+  process.exit(results.failed.length > 0 ? 1 : 0);
+}
+
+runTests().catch(e => {
+  console.error('Test runner error:', e);
+  process.exit(1);
+});

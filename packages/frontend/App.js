@@ -301,15 +301,16 @@ function FilterChip({ label, isActive, onPress, theme }) {
 }
 
 // Filter dropdown component
-function FilterDropdown({ title, options, selectedValue, onSelect, theme, isOpen, onToggle }) {
+function FilterDropdown({ title, options, selectedValue, onSelect, theme, isOpen, onToggle, alwaysShowTitle }) {
+  const displayLabel = alwaysShowTitle ? title : (selectedValue ? options.find(o => o.value === selectedValue)?.label : title);
   return (
     <View style={styles.filterDropdownContainer}>
       <TouchableOpacity
         onPress={onToggle}
         style={[styles.filterDropdownButton, { backgroundColor: theme.card, borderColor: theme.border }]}
       >
-        <Text style={[styles.filterDropdownLabel, { color: selectedValue ? theme.text : theme.secondaryText }]}>
-          {selectedValue ? options.find(o => o.value === selectedValue)?.label : title}
+        <Text style={[styles.filterDropdownLabel, { color: selectedValue && !alwaysShowTitle ? theme.text : theme.secondaryText }]}>
+          {displayLabel}
         </Text>
         <Text style={[styles.filterDropdownArrow, { color: theme.secondaryText }]}>
           {isOpen ? '▲' : '▼'}
@@ -458,6 +459,7 @@ function FilterBar({ filters, onFilterChange, totalCount, filteredCount, onClear
             theme={theme}
             isOpen={openDropdown === 'brand'}
             onToggle={() => handleDropdownToggle('brand')}
+            alwaysShowTitle
           />
           <View style={styles.filterSeparator} />
           <FilterDropdown

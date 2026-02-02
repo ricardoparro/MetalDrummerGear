@@ -2556,6 +2556,30 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
   const [results, setResults] = useState(null);
   const [email, setEmail] = useState('');
   const [newsletterStatus, setNewsletterStatus] = useState('idle');
+  const [sharedMatch, setSharedMatch] = useState(null);
+
+  // Check for shared match in URL on mount
+  useEffect(() => {
+    if (drummers.length > 0) {
+      const matchSlug = getQuizMatchFromURL();
+      if (matchSlug) {
+        const matchedDrummer = findDrummerBySlug(drummers, matchSlug);
+        if (matchedDrummer) {
+          // Create a result object for the shared match
+          const profile = DRUMMER_PROFILES[matchedDrummer.id];
+          const reasons = profile ? ['shared result'] : [];
+          setResults([{ drummer: matchedDrummer, score: 85, reasons }]);
+          setShowResults(true);
+          setSharedMatch(matchedDrummer);
+          // Update meta tags for shared result
+          updateQuizMeta(matchedDrummer, 85);
+        }
+      } else {
+        // Quiz page without result - show default meta
+        updateQuizMeta(null, null);
+      }
+    }
+  }, [drummers]);
 
   const progress = ((currentQuestion + 1) / QUIZ_QUESTIONS.length) * 100;
 

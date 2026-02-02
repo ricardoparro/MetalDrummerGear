@@ -736,7 +736,7 @@ const drummers = [
     band: 'ex-Trivium / Arkaik / Dragonlord',
     genre: 'Heavy Metal / Thrash Metal / Technical Death Metal',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/b/b5/Trivium_-_2017216185025_2017-08-04_Wacken_-_Sven_-_1D_X_MK_II_-_0978_-_B70I0450.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/5/59/Trivium_%2836826824775%29_%28cropped%29.jpg',
     bio: 'Alex Bent, born January 31, 1993, in Oakland, California, is a versatile drummer known for his technical proficiency across multiple metal subgenres. He joined Trivium in 2017, replacing Paul Wandtke, and recorded three critically acclaimed albums with the band: "The Sin and the Sentence" (2017), "What the Dead Men Say" (2020), and "In the Court of the Dragon" (2021). Before Trivium, he played with technical death metal bands Arkaik and Brain Drill, and filled in for Gene Hoglan on Testament tours. He also drums for Eric Peterson\'s Dragonlord. Self-taught from age 11, Bent competed in Guitar Center Drum Off competitions and brings a unique blend of death metal technicality and thrash metal power to his playing.',
     gear: {
       drums: 'Pearl Reference Pure Series',
@@ -746,7 +746,7 @@ const drummers = [
       sticks: 'Vic Firth American Classic 5B'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/b/b5/Trivium_-_2017216185025_2017-08-04_Wacken_-_Sven_-_1D_X_MK_II_-_0978_-_B70I0450.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/5/59/Trivium_%2836826824775%29_%28cropped%29.jpg'
     ],
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },

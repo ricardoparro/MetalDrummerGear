@@ -38,29 +38,17 @@ const FILTER_OPTIONS = {
     { value: '2010s', label: '2010s' },
     { value: 'current', label: 'Current' },
   ],
-  countries: [
-    { value: 'usa', label: 'USA' },
-    { value: 'cuba', label: 'Cuba/USA' },
-    { value: 'denmark', label: 'Denmark' },
-    { value: 'sweden', label: 'Sweden' },
-    { value: 'norway', label: 'Norway' },
-    { value: 'brazil', label: 'Brazil' },
-    { value: 'poland', label: 'Poland' },
-    { value: 'france', label: 'France' },
-    { value: 'greece', label: 'Greece' },
-  ],
 };
 
 // Helper to get/set URL params for filters
 function getFiltersFromURL() {
-  if (Platform.OS !== 'web' || typeof window === 'undefined') return { search: '', genre: '', brand: '', era: '', country: '' };
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return { search: '', genre: '', brand: '', era: '' };
   const params = new URLSearchParams(window.location.search);
   return {
     search: params.get('search') || '',
     genre: params.get('genre') || '',
     brand: params.get('brand') || '',
     era: params.get('era') || '',
-    country: params.get('country') || '',
   };
 }
 
@@ -71,7 +59,6 @@ function updateFiltersURL(filters) {
   if (filters.genre) params.set('genre', filters.genre);
   if (filters.brand) params.set('brand', filters.brand);
   if (filters.era) params.set('era', filters.era);
-  if (filters.country) params.set('country', filters.country);
   const queryString = params.toString();
   const newPath = queryString ? `/drummers?${queryString}` : '/';
   window.history.pushState({}, '', newPath);
@@ -349,7 +336,7 @@ function FilterBar({ filters, onFilterChange, totalCount, filteredCount, onClear
   const [isExpanded, setIsExpanded] = useState(false);
   const [openDropdown, setOpenDropdown] = useState(null);
 
-  const hasActiveFilters = filters.genre || filters.brand || filters.era || filters.country;
+  const hasActiveFilters = filters.genre || filters.brand || filters.era;
 
   const handleDropdownToggle = (dropdownName) => {
     setOpenDropdown(openDropdown === dropdownName ? null : dropdownName);
@@ -371,7 +358,7 @@ function FilterBar({ filters, onFilterChange, totalCount, filteredCount, onClear
           >
             <Text style={[styles.filterToggleText, { color: theme.text }]}>
               {isExpanded ? 'Hide Filters' : 'Show Filters'}
-              {hasActiveFilters ? ` (${[filters.genre, filters.brand, filters.era, filters.country].filter(Boolean).length})` : ''}
+              {hasActiveFilters ? ` (${[filters.genre, filters.brand, filters.era].filter(Boolean).length})` : ''}
             </Text>
             <Text style={[styles.filterToggleArrow, { color: theme.secondaryText }]}>
               {isExpanded ? '▲' : '▼'}
@@ -400,15 +387,6 @@ function FilterBar({ filters, onFilterChange, totalCount, filteredCount, onClear
               theme={theme}
               isOpen={openDropdown === 'brand'}
               onToggle={() => handleDropdownToggle('brand')}
-            />
-            <FilterDropdown
-              title="Country"
-              options={FILTER_OPTIONS.countries}
-              selectedValue={filters.country}
-              onSelect={(v) => handleFilterSelect('country', v)}
-              theme={theme}
-              isOpen={openDropdown === 'country'}
-              onToggle={() => handleDropdownToggle('country')}
             />
             {hasActiveFilters && (
               <TouchableOpacity
@@ -458,16 +436,6 @@ function FilterBar({ filters, onFilterChange, totalCount, filteredCount, onClear
             theme={theme}
             isOpen={openDropdown === 'brand'}
             onToggle={() => handleDropdownToggle('brand')}
-          />
-          <View style={styles.filterSeparator} />
-          <FilterDropdown
-            title="Country"
-            options={FILTER_OPTIONS.countries}
-            selectedValue={filters.country}
-            onSelect={(v) => handleFilterSelect('country', v)}
-            theme={theme}
-            isOpen={openDropdown === 'country'}
-            onToggle={() => handleDropdownToggle('country')}
           />
         </ScrollView>
       </View>
@@ -528,7 +496,7 @@ function updateDocumentMeta(drummer, drummers = [], filters = {}) {
   const kitCost = drummer ? calculateKitCost(drummer.gear) : null;
 
   // Build dynamic title and description based on filters
-  const hasFilters = filters.genre || filters.brand || filters.country || filters.search;
+  const hasFilters = filters.genre || filters.brand || filters.search;
   let filterTitle = '';
   let filterDescription = '';
 
@@ -541,10 +509,6 @@ function updateDocumentMeta(drummer, drummers = [], filters = {}) {
     if (filters.brand) {
       const brandLabel = FILTER_OPTIONS.brands.find(b => b.value === filters.brand)?.label || filters.brand;
       filterParts.push(`${brandLabel} Users`);
-    }
-    if (filters.country) {
-      const countryLabel = FILTER_OPTIONS.countries.find(c => c.value === filters.country)?.label || filters.country;
-      filterParts.push(`from ${countryLabel}`);
     }
     if (filters.search) {
       filterParts.push(`matching "${filters.search}"`);
@@ -1558,7 +1522,7 @@ function DrummerList({
   }
 
   const handleClearAllFilters = () => {
-    onFilterChange({ search: '', genre: '', brand: '', era: '', country: '' });
+    onFilterChange({ search: '', genre: '', brand: '', era: '' });
     onSearchClear();
   };
 
@@ -2025,13 +1989,6 @@ function AppContent() {
       });
     }
 
-    // Country filter
-    if (filters.country) {
-      results = results.filter(d =>
-        d.country && d.country.toLowerCase().includes(filters.country.toLowerCase())
-      );
-    }
-
     return results;
   }, [drummers, searchValue, filters]);
 
@@ -2134,7 +2091,7 @@ function AppContent() {
   // Load filters from URL on initial mount
   useEffect(() => {
     const urlFilters = getFiltersFromURL();
-    if (urlFilters.search || urlFilters.genre || urlFilters.brand || urlFilters.era || urlFilters.country) {
+    if (urlFilters.search || urlFilters.genre || urlFilters.brand || urlFilters.era) {
       setFilters(urlFilters);
       setSearchValue(urlFilters.search || '');
     }

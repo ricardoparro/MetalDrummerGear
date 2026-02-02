@@ -78,6 +78,41 @@ When researching, output:
 
 ---
 
+## ⛔ CRITICAL: URL Validation Before Commit
+
+**NEVER commit drummer data without validating URLs first!**
+
+### Image Validation
+```bash
+# Must return 200, not 404
+curl -s -o /dev/null -w '%{http_code}' 'IMAGE_URL'
+```
+
+✅ 200 = Valid, commit allowed
+❌ 404/403/other = STOP, find different image
+
+**Preferred sources:** Wikimedia Commons (stable URLs)
+
+### Video Validation  
+```bash
+# Must return 200 (video available)
+curl -s -o /dev/null -w '%{http_code}' 'https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=VIDEO_ID&format=json'
+```
+
+✅ 200 = Video available
+❌ 404 = Video removed/private, find replacement
+
+### Checklist Before Committing New Drummer
+
+- [ ] Image URL returns HTTP 200
+- [ ] At least 3 YouTube videos validated (oembed 200)
+- [ ] Gear matches endorsements
+- [ ] Both `index.js` and `[id].js` updated identically
+
+**If validation fails, DO NOT commit. Find valid URLs first.**
+
+---
+
 ## Red Flags
 
 Watch for these issues:

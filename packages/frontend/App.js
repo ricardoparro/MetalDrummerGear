@@ -1977,35 +1977,27 @@ function AppContent() {
       results = results.filter(d => {
         // Map known drummer IDs to brands based on our data
         const drummerBrands = {
-          // Tama users
           1: ['tama', 'zildjian'], // Lars Ulrich
-          4: ['tama', 'zildjian'], // Dave Lombardo
-          7: ['tama', 'zildjian', 'sabian'], // Igor Cavalera
-          13: ['tama', 'zildjian'], // Charlie Benante
-          14: ['tama', 'sabian', 'meinl'], // Mike Portnoy
-          16: ['tama', 'meinl'], // Mario Duplantier
-          17: ['tama', 'paiste'], // Brann Dailor
-          // Pearl users
           2: ['pearl', 'paiste'], // Joey Jordison
           3: ['pearl', 'sabian'], // Gene Hoglan
-          8: ['pearl', 'paiste'], // Abe Cunningham
-          20: ['pearl', 'meinl'], // Matt Halpern
-          19: ['pearl', 'meinl'], // Inferno
-          // Sonor users
-          5: ['sonor', 'meinl'], // Tomas Haake
-          15: ['sonor', 'meinl'], // Mike Mangini
-          21: ['sonor', 'meinl'], // Frost
-          // ddrum users
+          4: ['tama', 'paiste'], // Dave Lombardo
+          5: ['sonor', 'sabian'], // Tomas Haake
+          6: ['pearl', 'zildjian'], // George Kollias
+          7: ['tama', 'meinl'], // Eloy Casagrande
+          8: ['pearl', 'zildjian'], // Ray Luzier
+          9: ['pearl', 'zildjian'], // John Otto
+          10: ['sjc', 'zildjian'], // Jay Weinberg
           11: ['ddrum', 'sabian'], // Vinnie Paul
-          // Mapex users
-          18: ['mapex', 'zildjian'], // Art Cruz
-          // SJC users
-          10: ['sjc', 'zildjian'], // Travis Barker
-          // OCDP users
-          9: ['ocdp', 'zildjian'], // Brad Wilk
-          // DW users
-          6: ['dw', 'meinl'], // George Kollias
-          12: ['dw', 'paiste'], // Paul Bostaph
+          12: ['tama', 'zildjian'], // Charlie Benante
+          13: ['tama', 'sabian'], // Mike Portnoy
+          14: ['sonor', 'paiste'], // Danny Carey
+          15: ['tama', 'meinl'], // Mario Duplantier
+          16: ['dw', 'meinl'], // Brann Dailor
+          17: ['mapex', 'meinl'], // Chris Adler
+          18: ['pearl', 'meinl'], // Matt Halpern
+          19: ['pearl', 'meinl'], // Inferno
+          20: ['pearl', 'zildjian'], // Hellhammer
+          21: ['ddrum', 'sabian'], // Pete Sandoval
         };
         const brands = drummerBrands[d.id] || [];
         return brands.includes(filters.brand.toLowerCase());

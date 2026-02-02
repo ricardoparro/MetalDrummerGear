@@ -85,6 +85,72 @@ function updateCompareURL(drummerIds) {
   window.history.replaceState({}, '', newPath);
 }
 
+// Helper to get quiz match slug from URL (supports /quiz?match=slug)
+function getQuizMatchFromURL() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
+  const params = new URLSearchParams(window.location.search);
+  return params.get('match') || null;
+}
+
+// Helper to update quiz result URL
+function updateQuizResultURL(drummerSlug) {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return;
+  const newPath = drummerSlug ? `/quiz?match=${drummerSlug}` : '/quiz';
+  window.history.replaceState({}, '', newPath);
+}
+
+// Update document meta tags for quiz social sharing (Open Graph + Twitter Cards)
+function updateQuizMeta(drummer, matchPercentage) {
+  if (Platform.OS !== 'web' || typeof document === 'undefined') return;
+
+  const setMeta = (name, content, isProperty = false) => {
+    const attr = isProperty ? 'property' : 'name';
+    let meta = document.querySelector(`meta[${attr}="${name}"]`);
+    if (!meta) {
+      meta = document.createElement('meta');
+      meta.setAttribute(attr, name);
+      document.head.appendChild(meta);
+    }
+    meta.setAttribute('content', content);
+  };
+
+  if (drummer) {
+    // Shared result page meta
+    const title = `I matched with ${drummer.name} (${drummer.band}) - ${matchPercentage}% Match! | Metal Drummer Quiz`;
+    const description = `Take the Metal Drummer Quiz and discover which legendary metal drummer matches your playing style! I got ${drummer.name} from ${drummer.band}.`;
+    const imageUrl = drummer.image || 'https://metalforge.io/og-quiz.png';
+    const shareUrl = `https://metalforge.io/quiz?match=${toSlug(drummer.name)}`;
+
+    document.title = title;
+    setMeta('description', description);
+    setMeta('og:title', title, true);
+    setMeta('og:description', description, true);
+    setMeta('og:type', 'website', true);
+    setMeta('og:image', imageUrl, true);
+    setMeta('og:url', shareUrl, true);
+    setMeta('twitter:card', 'summary_large_image');
+    setMeta('twitter:title', title);
+    setMeta('twitter:description', description);
+    setMeta('twitter:image', imageUrl);
+  } else {
+    // Default quiz page meta
+    const title = 'Find Your Drummer Match | Metal Drummer Quiz';
+    const description = 'Take our quiz to discover which legendary metal drummer matches your playing style! Answer 7 questions and find your drummer soulmate.';
+
+    document.title = title;
+    setMeta('description', description);
+    setMeta('og:title', title, true);
+    setMeta('og:description', description, true);
+    setMeta('og:type', 'website', true);
+    setMeta('og:image', 'https://metalforge.io/og-quiz.png', true);
+    setMeta('og:url', 'https://metalforge.io/quiz', true);
+    setMeta('twitter:card', 'summary_large_image');
+    setMeta('twitter:title', title);
+    setMeta('twitter:description', description);
+    setMeta('twitter:image', 'https://metalforge.io/og-quiz.png');
+  }
+}
+
 // YouTube Video Embed Component - Works with React Native Web
 function YouTubeEmbed({ videoId, title, theme }) {
   const { width } = useWindowDimensions();
@@ -1057,37 +1123,45 @@ function KitCostCalculator({ drummer, theme }) {
 }
 
 function DrummerDetail({ drummer, theme, onBack, onSelectGear }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+
   const handleEndorsementPress = (url) => {
     Linking.openURL(url);
   };
 
   return (
-    <ScrollView style={styles.detailContainer} contentContainerStyle={styles.detailContent}>
-      <SEOHead drummer={drummer} />
-      <TouchableOpacity
-        onPress={onBack}
-        style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
-        accessibilityRole="button"
-        accessibilityLabel="Go back to drummer list"
-      >
-        <Text style={[styles.backButtonText, { color: theme.text }]}>Back to List</Text>
-      </TouchableOpacity>
-
-      <View style={styles.detailHeader}>
-        <ImageWithFallback
-          source={{ uri: drummer.image }}
-          style={styles.detailImage}
-          accessibilityLabel={`Photo of ${drummer.name}`}
-        />
-        <View style={styles.detailHeaderText}>
-          <Text style={[styles.detailName, { color: theme.text }]} accessibilityRole="header">{drummer.name}</Text>
-          <Text style={[styles.detailBand, { color: theme.secondaryText }]}>{drummer.band}</Text>
-          <GenreTags genres={drummer.genres} size="large" />
-          <Text style={[styles.detailMeta, { color: theme.secondaryText }]}>{drummer.country}</Text>
-        </View>
-      </View>
-
+    <View style={styles.drummerDetailWrapper}>
+      {/* Share buttons - positioned outside scroll for proper sticky/fixed behavior */}
       <ProfileShareButtons drummer={drummer} theme={theme} />
+      
+      <ScrollView 
+        style={[styles.detailContainer, !isMobile && styles.detailContainerWithSideRail]} 
+        contentContainerStyle={[styles.detailContent, isMobile && styles.detailContentMobile]}
+      >
+        <SEOHead drummer={drummer} />
+        <TouchableOpacity
+          onPress={onBack}
+          style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          accessibilityRole="button"
+          accessibilityLabel="Go back to drummer list"
+        >
+          <Text style={[styles.backButtonText, { color: theme.text }]}>Back to List</Text>
+        </TouchableOpacity>
+
+        <View style={styles.detailHeader}>
+          <ImageWithFallback
+            source={{ uri: drummer.image }}
+            style={styles.detailImage}
+            accessibilityLabel={`Photo of ${drummer.name}`}
+          />
+          <View style={styles.detailHeaderText}>
+            <Text style={[styles.detailName, { color: theme.text }]} accessibilityRole="header">{drummer.name}</Text>
+            <Text style={[styles.detailBand, { color: theme.secondaryText }]}>{drummer.band}</Text>
+            <GenreTags genres={drummer.genres} size="large" />
+            <Text style={[styles.detailMeta, { color: theme.secondaryText }]}>{drummer.country}</Text>
+          </View>
+        </View>
 
       <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
         <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">Biography</Text>
@@ -1154,7 +1228,8 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear }) {
           </View>
         </View>
       )}
-    </ScrollView>
+      </ScrollView>
+    </View>
   );
 }
 
@@ -1318,8 +1393,11 @@ function GearComparisonRow({ label, items, theme }) {
 }
 
 // Profile share buttons for drummer pages
+// Desktop: Side rail (left side, sticky)
+// Mobile: Floating bottom bar
 function ProfileShareButtons({ drummer, theme }) {
   const [copied, setCopied] = useState(false);
+  const [toastVisible, setToastVisible] = useState(false);
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
 
@@ -1327,7 +1405,7 @@ function ProfileShareButtons({ drummer, theme }) {
     ? `${window.location.origin}/drummer/${drummer.id}`
     : `https://metalforge.io/drummer/${drummer.id}`;
 
-  const shareText = `Check out ${drummer.name}'s complete gear setup on MetalForge! 🥁`;
+  const shareText = `Check out ${drummer.name}'s complete gear setup on MetalForge! 🥁 #metaldrumming`;
 
   // GA4 event tracking
   const trackShare = (platform) => {
@@ -1343,7 +1421,7 @@ function ProfileShareButtons({ drummer, theme }) {
 
   const handleTwitterShare = () => {
     trackShare('twitter');
-    const twitterUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(shareUrl)}`;
+    const twitterUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(shareUrl)}&hashtags=metaldrumming`;
     if (Platform.OS === 'web') {
       window.open(twitterUrl, '_blank', 'noopener,noreferrer');
     } else {
@@ -1366,7 +1444,11 @@ function ProfileShareButtons({ drummer, theme }) {
     if (Platform.OS === 'web' && navigator.clipboard) {
       await navigator.clipboard.writeText(shareUrl);
       setCopied(true);
-      setTimeout(() => setCopied(false), 2000);
+      setToastVisible(true);
+      setTimeout(() => {
+        setCopied(false);
+        setToastVisible(false);
+      }, 2000);
     }
   };
 
@@ -1391,58 +1473,92 @@ function ProfileShareButtons({ drummer, theme }) {
   // Check if Web Share API is available (typically mobile)
   const canNativeShare = Platform.OS === 'web' && typeof navigator !== 'undefined' && navigator.share;
 
-  // On mobile with native share support, show native share + copy only
-  if (isMobile && canNativeShare) {
+  // Toast notification component
+  const Toast = () => {
+    if (!toastVisible) return null;
     return (
-      <View style={styles.profileShareContainer}>
-        <TouchableOpacity
-          onPress={handleNativeShare}
-          style={[styles.profileShareButton, styles.profileShareButtonNative, { borderColor: theme.border }]}
-          accessibilityLabel="Share this profile"
-        >
-          <Text style={styles.profileShareIcon}>📤</Text>
-          <Text style={[styles.profileShareText, { color: theme.text }]}>Share</Text>
-        </TouchableOpacity>
-        <TouchableOpacity
-          onPress={handleCopyLink}
-          style={[styles.profileShareButton, styles.profileShareButtonCopy, { borderColor: theme.border }]}
-          accessibilityLabel="Copy link to clipboard"
-        >
-          <Text style={styles.profileShareIcon}>{copied ? '✓' : '🔗'}</Text>
-          <Text style={[styles.profileShareText, { color: theme.text }]}>{copied ? 'Copied!' : 'Copy'}</Text>
-        </TouchableOpacity>
+      <View style={[styles.shareToast, { backgroundColor: theme.text }]}>
+        <Text style={[styles.shareToastText, { color: theme.background }]}>✓ Link copied to clipboard!</Text>
       </View>
+    );
+  };
+
+  // Mobile: Floating bottom bar with native share support
+  if (isMobile) {
+    return (
+      <>
+        <Toast />
+        <View style={[styles.shareFloatingBar, { backgroundColor: theme.card, borderTopColor: theme.border }]}>
+          <Text style={[styles.shareFloatingLabel, { color: theme.secondaryText }]}>Share</Text>
+          <View style={styles.shareFloatingButtons}>
+            {canNativeShare ? (
+              <TouchableOpacity
+                onPress={handleNativeShare}
+                style={[styles.shareFloatingButton, styles.shareFloatingButtonNative]}
+                accessibilityLabel="Share this profile"
+              >
+                <Text style={styles.shareFloatingIcon}>📤</Text>
+              </TouchableOpacity>
+            ) : (
+              <>
+                <TouchableOpacity
+                  onPress={handleTwitterShare}
+                  style={[styles.shareFloatingButton, styles.shareFloatingButtonTwitter]}
+                  accessibilityLabel="Share on Twitter/X"
+                >
+                  <Text style={styles.shareFloatingIcon}>𝕏</Text>
+                </TouchableOpacity>
+                <TouchableOpacity
+                  onPress={handleFacebookShare}
+                  style={[styles.shareFloatingButton, styles.shareFloatingButtonFacebook]}
+                  accessibilityLabel="Share on Facebook"
+                >
+                  <Text style={styles.shareFloatingIcon}>f</Text>
+                </TouchableOpacity>
+              </>
+            )}
+            <TouchableOpacity
+              onPress={handleCopyLink}
+              style={[styles.shareFloatingButton, styles.shareFloatingButtonCopy, { borderColor: theme.border }]}
+              accessibilityLabel="Copy link to clipboard"
+            >
+              <Text style={styles.shareFloatingIcon}>{copied ? '✓' : '🔗'}</Text>
+            </TouchableOpacity>
+          </View>
+        </View>
+      </>
     );
   }
 
-  // Desktop: show Twitter, Facebook, Copy Link buttons
+  // Desktop: Side rail (sticky, left side of content)
   return (
-    <View style={styles.profileShareContainer}>
-      <TouchableOpacity
-        onPress={handleTwitterShare}
-        style={[styles.profileShareButton, styles.profileShareButtonTwitter]}
-        accessibilityLabel="Share on Twitter/X"
-      >
-        <Text style={styles.profileShareIcon}>𝕏</Text>
-        <Text style={styles.profileShareTextLight}>Tweet</Text>
-      </TouchableOpacity>
-      <TouchableOpacity
-        onPress={handleFacebookShare}
-        style={[styles.profileShareButton, styles.profileShareButtonFacebook]}
-        accessibilityLabel="Share on Facebook"
-      >
-        <Text style={styles.profileShareIcon}>f</Text>
-        <Text style={styles.profileShareTextLight}>Share</Text>
-      </TouchableOpacity>
-      <TouchableOpacity
-        onPress={handleCopyLink}
-        style={[styles.profileShareButton, styles.profileShareButtonCopy, { borderColor: theme.border }]}
-        accessibilityLabel="Copy link to clipboard"
-      >
-        <Text style={styles.profileShareIcon}>{copied ? '✓' : '🔗'}</Text>
-        <Text style={[styles.profileShareText, { color: theme.text }]}>{copied ? 'Copied!' : 'Copy Link'}</Text>
-      </TouchableOpacity>
-    </View>
+    <>
+      <Toast />
+      <View style={[styles.shareSideRail, { backgroundColor: theme.card, borderColor: theme.border }]}>
+        <Text style={[styles.shareSideRailLabel, { color: theme.secondaryText }]}>Share</Text>
+        <TouchableOpacity
+          onPress={handleTwitterShare}
+          style={[styles.shareSideRailButton, styles.shareSideRailButtonTwitter]}
+          accessibilityLabel="Share on Twitter/X"
+        >
+          <Text style={styles.shareSideRailIcon}>𝕏</Text>
+        </TouchableOpacity>
+        <TouchableOpacity
+          onPress={handleFacebookShare}
+          style={[styles.shareSideRailButton, styles.shareSideRailButtonFacebook]}
+          accessibilityLabel="Share on Facebook"
+        >
+          <Text style={styles.shareSideRailIcon}>f</Text>
+        </TouchableOpacity>
+        <TouchableOpacity
+          onPress={handleCopyLink}
+          style={[styles.shareSideRailButton, styles.shareSideRailButtonCopy, { borderColor: theme.border }]}
+          accessibilityLabel="Copy link to clipboard"
+        >
+          <Text style={styles.shareSideRailIcon}>{copied ? '✓' : '🔗'}</Text>
+        </TouchableOpacity>
+      </View>
+    </>
   );
 }
 
@@ -1996,6 +2112,102 @@ function updateGearMeta(gear) {
   breadcrumbScript.textContent = JSON.stringify(breadcrumbSchema);
 }
 
+// Update document meta for quiz result pages (Open Graph for sharing)
+function updateQuizMeta(drummer, matchPercent) {
+  if (Platform.OS !== 'web' || typeof document === 'undefined') return;
+
+  const baseUrl = 'https://metalforge.io';
+  
+  let title, description, image, url;
+  
+  if (drummer && matchPercent) {
+    // Result page meta
+    title = `I matched with ${drummer.name} (${drummer.band}) - ${matchPercent}% | Metal Drummer Quiz`;
+    description = `Take the Metal Drummer Quiz and find out which legendary drummer matches your style! I got ${drummer.name} from ${drummer.band}. 🥁🤘`;
+    image = drummer.image || `${baseUrl}/og-quiz-default.jpg`;
+    url = `${baseUrl}/quiz?match=${drummer.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')}`;
+  } else {
+    // Default quiz page meta
+    title = 'Find Your Drummer Match - Metal Drummer Personality Quiz | MetalForge';
+    description = 'Answer 6 questions to discover which legendary metal drummer matches your playing style. Match with icons like Lars Ulrich, Joey Jordison, Dave Lombardo, and more!';
+    image = `${baseUrl}/og-quiz-default.jpg`;
+    url = `${baseUrl}/quiz`;
+  }
+
+  document.title = title;
+
+  const setMeta = (name, content, isProperty = false) => {
+    const attr = isProperty ? 'property' : 'name';
+    let meta = document.querySelector(`meta[${attr}="${name}"]`);
+    if (!meta) {
+      meta = document.createElement('meta');
+      meta.setAttribute(attr, name);
+      document.head.appendChild(meta);
+    }
+    meta.setAttribute('content', content);
+  };
+
+  // Standard meta tags
+  setMeta('description', description);
+  setMeta('keywords', 'metal drummer quiz, drummer personality test, find your drummer match, metal drumming style, Lars Ulrich, Joey Jordison, Dave Lombardo, drum quiz');
+  
+  // Open Graph tags (Facebook, LinkedIn, etc.)
+  setMeta('og:title', title, true);
+  setMeta('og:description', description, true);
+  setMeta('og:type', 'website', true);
+  setMeta('og:url', url, true);
+  setMeta('og:image', image, true);
+  setMeta('og:image:width', '1200', true);
+  setMeta('og:image:height', '630', true);
+  setMeta('og:site_name', 'MetalForge', true);
+  
+  // Twitter Card tags
+  setMeta('twitter:card', 'summary_large_image');
+  setMeta('twitter:title', title);
+  setMeta('twitter:description', description);
+  setMeta('twitter:image', image);
+  setMeta('twitter:site', '@metalforgeio');
+
+  // Quiz schema for SEO
+  let ldScript = document.querySelector('script[data-schema="main"]');
+  if (!ldScript) {
+    ldScript = document.createElement('script');
+    ldScript.type = 'application/ld+json';
+    ldScript.setAttribute('data-schema', 'main');
+    document.head.appendChild(ldScript);
+  }
+
+  const schema = drummer ? {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": title,
+    "description": description,
+    "url": url,
+    "image": image,
+    "mainEntity": {
+      "@type": "Person",
+      "name": drummer.name,
+      "description": `${drummer.name} is the drummer for ${drummer.band}`,
+      "image": drummer.image,
+      "jobTitle": "Drummer"
+    }
+  } : {
+    "@context": "https://schema.org",
+    "@type": "Quiz",
+    "name": "Find Your Drummer Match - Metal Drummer Personality Quiz",
+    "description": description,
+    "url": url,
+    "educationalLevel": "beginner",
+    "numberOfQuestions": 6,
+    "about": {
+      "@type": "Thing",
+      "name": "Metal Drumming"
+    }
+  };
+
+  ldScript.textContent = JSON.stringify(schema);
+}
+
 // Gear detail page component
 function GearDetail({ gear, theme, onBack, onSelectDrummer }) {
   useEffect(() => {
@@ -2292,6 +2504,7 @@ const DRUMMER_PROFILES = {
     brands: ['sonor'],
     personalities: ['perfectionist', 'innovator'],
     eras: ['90s', '2000s'],
+    energies: ['focused', 'dynamic'],
   },
   6: { // George Kollias
     genres: ['death'],
@@ -2300,6 +2513,7 @@ const DRUMMER_PROFILES = {
     brands: ['pearl'],
     personalities: ['perfectionist', 'pioneer'],
     eras: ['2000s'],
+    energies: ['intense', 'focused'],
   },
   7: { // Eloy Casagrande
     genres: ['thrash', 'nu-metal'],
@@ -2308,6 +2522,7 @@ const DRUMMER_PROFILES = {
     brands: ['tama'],
     personalities: ['showman', 'servant'],
     eras: ['2010s'],
+    energies: ['explosive', 'intense'],
   },
   8: { // Ray Luzier
     genres: ['nu-metal'],
@@ -2316,6 +2531,7 @@ const DRUMMER_PROFILES = {
     brands: ['pearl'],
     personalities: ['servant', 'perfectionist'],
     eras: ['2000s'],
+    energies: ['groovy', 'dynamic'],
   },
   9: { // John Otto
     genres: ['nu-metal'],
@@ -2324,6 +2540,7 @@ const DRUMMER_PROFILES = {
     brands: ['any'],
     personalities: ['servant', 'innovator'],
     eras: ['90s'],
+    energies: ['groovy', 'explosive'],
   },
   10: { // Jay Weinberg
     genres: ['nu-metal'],
@@ -2332,6 +2549,7 @@ const DRUMMER_PROFILES = {
     brands: ['pearl'],
     personalities: ['showman', 'servant'],
     eras: ['2010s'],
+    energies: ['explosive', 'intense'],
   },
   11: { // Vinnie Paul
     genres: ['groove', 'thrash'],
@@ -2340,6 +2558,7 @@ const DRUMMER_PROFILES = {
     brands: ['any'],
     personalities: ['pioneer', 'showman'],
     eras: ['80s', '90s'],
+    energies: ['groovy', 'explosive'],
   },
   12: { // Charlie Benante
     genres: ['thrash'],
@@ -2348,6 +2567,7 @@ const DRUMMER_PROFILES = {
     brands: ['tama'],
     personalities: ['pioneer', 'innovator'],
     eras: ['80s'],
+    energies: ['intense', 'focused'],
   },
   13: { // Mike Portnoy
     genres: ['progressive'],
@@ -2356,6 +2576,7 @@ const DRUMMER_PROFILES = {
     brands: ['tama'],
     personalities: ['showman', 'innovator'],
     eras: ['80s', '90s', '2000s'],
+    energies: ['explosive', 'dynamic'],
   },
   14: { // Danny Carey
     genres: ['progressive'],
@@ -2364,6 +2585,7 @@ const DRUMMER_PROFILES = {
     brands: ['sonor'],
     personalities: ['innovator', 'perfectionist'],
     eras: ['90s'],
+    energies: ['dynamic', 'focused'],
   },
   15: { // Mario Duplantier
     genres: ['death', 'progressive'],
@@ -2372,6 +2594,7 @@ const DRUMMER_PROFILES = {
     brands: ['tama'],
     personalities: ['servant', 'perfectionist'],
     eras: ['2000s'],
+    energies: ['intense', 'dynamic'],
   },
   16: { // Brann Dailor
     genres: ['progressive', 'groove'],
@@ -2380,6 +2603,7 @@ const DRUMMER_PROFILES = {
     brands: ['dw'],
     personalities: ['innovator', 'servant'],
     eras: ['2000s'],
+    energies: ['dynamic', 'groovy'],
   },
   17: { // Chris Adler
     genres: ['groove'],
@@ -2388,6 +2612,7 @@ const DRUMMER_PROFILES = {
     brands: ['mapex'],
     personalities: ['perfectionist', 'servant'],
     eras: ['2000s'],
+    energies: ['intense', 'groovy'],
   },
   18: { // Matt Halpern
     genres: ['progressive'],
@@ -2396,6 +2621,7 @@ const DRUMMER_PROFILES = {
     brands: ['mapex'],
     personalities: ['innovator', 'servant'],
     eras: ['2010s'],
+    energies: ['focused', 'dynamic'],
   },
   19: { // Inferno
     genres: ['black', 'death'],
@@ -2404,6 +2630,7 @@ const DRUMMER_PROFILES = {
     brands: ['pearl'],
     personalities: ['perfectionist', 'servant'],
     eras: ['90s'],
+    energies: ['intense', 'focused'],
   },
   20: { // Hellhammer
     genres: ['black'],
@@ -2412,6 +2639,7 @@ const DRUMMER_PROFILES = {
     brands: ['pearl'],
     personalities: ['pioneer', 'perfectionist'],
     eras: ['80s', '90s'],
+    energies: ['intense', 'focused'],
   },
   21: { // Pete Sandoval
     genres: ['death'],
@@ -2420,6 +2648,7 @@ const DRUMMER_PROFILES = {
     brands: ['any'],
     personalities: ['pioneer', 'perfectionist'],
     eras: ['80s'],
+    energies: ['intense', 'explosive'],
   },
   22: { // Art Cruz
     genres: ['groove', 'thrash'],
@@ -2428,6 +2657,7 @@ const DRUMMER_PROFILES = {
     brands: ['any'],
     personalities: ['servant', 'perfectionist'],
     eras: ['2010s'],
+    energies: ['explosive', 'intense'],
   },
   23: { // Arin Ilejay
     genres: ['thrash', 'progressive'],
@@ -2436,6 +2666,7 @@ const DRUMMER_PROFILES = {
     brands: ['mapex'],
     personalities: ['servant', 'perfectionist'],
     eras: ['2010s'],
+    energies: ['explosive', 'dynamic'],
   },
   24: { // Navene Koperweis
     genres: ['progressive', 'death'],
@@ -2444,6 +2675,7 @@ const DRUMMER_PROFILES = {
     brands: ['dw'],
     personalities: ['innovator', 'perfectionist'],
     eras: ['2010s'],
+    energies: ['focused', 'dynamic'],
   },
   25: { // Alex Bent
     genres: ['thrash', 'death'],
@@ -2452,6 +2684,7 @@ const DRUMMER_PROFILES = {
     brands: ['pearl'],
     personalities: ['perfectionist', 'servant'],
     eras: ['2010s'],
+    energies: ['intense', 'focused'],
   },
   26: { // Shannon Larkin
     genres: ['nu-metal', 'groove'],
@@ -2460,6 +2693,7 @@ const DRUMMER_PROFILES = {
     brands: ['pearl'],
     personalities: ['servant', 'showman'],
     eras: ['90s', '2000s'],
+    energies: ['groovy', 'explosive'],
   },
   27: { // Raymond Herrera
     genres: ['groove', 'death'],
@@ -2468,6 +2702,7 @@ const DRUMMER_PROFILES = {
     brands: ['tama'],
     personalities: ['perfectionist', 'innovator'],
     eras: ['90s'],
+    energies: ['focused', 'intense'],
   },
   28: { // Morgan Ågren
     genres: ['progressive'],
@@ -2476,6 +2711,25 @@ const DRUMMER_PROFILES = {
     brands: ['sonor'],
     personalities: ['innovator', 'perfectionist'],
     eras: ['90s', '2000s'],
+    energies: ['dynamic', 'focused'],
+  },
+  29: { // Igor Cavalera
+    genres: ['thrash', 'groove', 'death'],
+    styles: ['power', 'groove'],
+    kits: ['classic', 'massive'],
+    brands: ['tama'],
+    personalities: ['pioneer', 'innovator'],
+    eras: ['80s', '90s'],
+    energies: ['explosive', 'groovy'],
+  },
+  30: { // Bill Ward
+    genres: ['groove'],
+    styles: ['groove', 'versatile'],
+    kits: ['classic'],
+    brands: ['any'],
+    personalities: ['pioneer', 'servant'],
+    eras: ['80s'],
+    energies: ['dynamic', 'groovy'],
   },
 };
 
@@ -2524,6 +2778,12 @@ function calculateMatches(answers, drummers) {
     if (answers.era && profile.eras.includes(answers.era)) {
       score += 5;
       reasons.push('era influence');
+    }
+
+    // Energy/stage presence match
+    if (answers.energy && profile.energies && profile.energies.includes(answers.energy)) {
+      score += 10;
+      reasons.push('live energy');
     }
 
     return { drummer, score, reasons };
@@ -2597,11 +2857,18 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
         setResults(matches);
         setShowResults(true);
         
-        // Track completion
+        // Track completion and update URL/meta for sharing
         if (matches[0]) {
           const maxScore = 100; // theoretical max
-          const matchPercentage = Math.round((matches[0].score / maxScore) * 100);
+          const matchPercentage = Math.min(99, Math.max(50, Math.round((matches[0].score / maxScore) * 100)));
           trackQuizCompletion(matches[0].drummer, matchPercentage);
+          
+          // Update URL for shareable result
+          const drummerSlug = matches[0].drummer.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+          updateQuizResultURL(drummerSlug);
+          
+          // Update meta tags for social sharing
+          updateQuizMeta(matches[0].drummer, matchPercentage);
         }
       }
     }, 300);
@@ -4599,7 +4866,136 @@ const styles = StyleSheet.create({
     fontSize: 13,
     fontWeight: '600',
   },
-  // Profile share buttons (drummer pages)
+  // Drummer detail wrapper for share button positioning
+  drummerDetailWrapper: {
+    flex: 1,
+    position: 'relative',
+  },
+  detailContainerWithSideRail: {
+    marginLeft: 70, // Make room for side rail on desktop
+  },
+  detailContentMobile: {
+    paddingBottom: 80, // Make room for floating bottom bar on mobile
+  },
+  // Desktop: Side rail share buttons (sticky, left side)
+  shareSideRail: {
+    position: Platform.OS === 'web' ? 'fixed' : 'absolute',
+    left: 20,
+    top: 120,
+    width: 50,
+    borderRadius: 25,
+    borderWidth: 1,
+    paddingVertical: 12,
+    paddingHorizontal: 8,
+    alignItems: 'center',
+    gap: 8,
+    zIndex: 100,
+    ...(Platform.OS === 'web' && { boxShadow: '0 2px 8px rgba(0, 0, 0, 0.15)' }),
+  },
+  shareSideRailLabel: {
+    fontSize: 10,
+    fontWeight: '600',
+    textTransform: 'uppercase',
+    letterSpacing: 0.5,
+    marginBottom: 4,
+  },
+  shareSideRailButton: {
+    width: 36,
+    height: 36,
+    borderRadius: 18,
+    alignItems: 'center',
+    justifyContent: 'center',
+    borderWidth: 1,
+    borderColor: 'transparent',
+  },
+  shareSideRailButtonTwitter: {
+    backgroundColor: '#000000',
+    borderColor: '#333333',
+  },
+  shareSideRailButtonFacebook: {
+    backgroundColor: '#1877F2',
+  },
+  shareSideRailButtonCopy: {
+    backgroundColor: 'transparent',
+  },
+  shareSideRailIcon: {
+    fontSize: 16,
+    color: '#ffffff',
+  },
+  // Mobile: Floating bottom bar share buttons
+  shareFloatingBar: {
+    position: Platform.OS === 'web' ? 'fixed' : 'absolute',
+    bottom: 0,
+    left: 0,
+    right: 0,
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'center',
+    paddingVertical: 12,
+    paddingHorizontal: 20,
+    borderTopWidth: 1,
+    gap: 16,
+    zIndex: 100,
+    ...(Platform.OS === 'web' && { boxShadow: '0 -2px 8px rgba(0, 0, 0, 0.1)' }),
+  },
+  shareFloatingLabel: {
+    fontSize: 13,
+    fontWeight: '600',
+    marginRight: 8,
+  },
+  shareFloatingButtons: {
+    flexDirection: 'row',
+    gap: 12,
+  },
+  shareFloatingButton: {
+    width: 44,
+    height: 44,
+    borderRadius: 22,
+    alignItems: 'center',
+    justifyContent: 'center',
+    borderWidth: 1,
+    borderColor: 'transparent',
+  },
+  shareFloatingButtonTwitter: {
+    backgroundColor: '#000000',
+    borderColor: '#333333',
+  },
+  shareFloatingButtonFacebook: {
+    backgroundColor: '#1877F2',
+  },
+  shareFloatingButtonCopy: {
+    backgroundColor: 'transparent',
+  },
+  shareFloatingButtonNative: {
+    backgroundColor: 'rgba(100, 100, 100, 0.2)',
+  },
+  shareFloatingIcon: {
+    fontSize: 18,
+    color: '#ffffff',
+  },
+  // Toast notification for copy success
+  shareToast: {
+    position: Platform.OS === 'web' ? 'fixed' : 'absolute',
+    bottom: Platform.OS === 'web' ? 80 : 100,
+    left: '50%',
+    transform: [{ translateX: -100 }],
+    width: 200,
+    paddingVertical: 10,
+    paddingHorizontal: 16,
+    borderRadius: 8,
+    alignItems: 'center',
+    justifyContent: 'center',
+    zIndex: 200,
+    ...(Platform.OS === 'web' && { 
+      boxShadow: '0 4px 12px rgba(0, 0, 0, 0.15)',
+      transform: 'translateX(-50%)',
+    }),
+  },
+  shareToastText: {
+    fontSize: 14,
+    fontWeight: '500',
+  },
+  // Legacy profile share styles (kept for comparison page compatibility)
   profileShareContainer: {
     flexDirection: 'row',
     alignItems: 'center',

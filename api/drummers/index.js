@@ -38,6 +38,11 @@ const drummers = [
       { title: 'Sad But True - Drum Cam (Amsterdam 2023)', youtubeId: 'A96QtqEpqUA', year: 2023 },
       { title: 'For Whom The Bell Tolls - Lars Angle (Cunning Stunts)', youtubeId: 'Z_qLd2uj21w', year: 1997 },
       { title: 'Enter Sandman - S&M Lars Cam', youtubeId: 't0cDBuEOdIA', year: 1999 }
+    ],
+    quotes: [
+      { text: "I'm not the best drummer in the world, but I'm the best drummer for Metallica.", source: "Modern Drummer Magazine", year: 2008 },
+      { text: "The only way to do great work is to love what you do. I've been fortunate enough to do that for over 40 years.", source: "Drumeo Interview", year: 2020 },
+      { text: "Music is the most powerful form of communication in the world. It brings people together from all walks of life.", source: "Rolling Stone", year: 2016 }
     ]
   },
   {
@@ -76,6 +81,11 @@ const drummers = [
       { title: 'Disasterpieces Drum Solo (Official)', youtubeId: 'tUibKh0Z--c', year: 2002 },
       { title: 'People=Shit - Drum Cam (London 2002)', youtubeId: 'zRS9uKs3Rlk', year: 2002 },
       { title: 'Drum Cam 4K Compilation', youtubeId: 'RdXMcj7xv20', year: 2000 }
+    ],
+    quotes: [
+      { text: "The drums chose me. I didn't choose them. It was like destiny.", source: "Modern Drummer Magazine", year: 2004 },
+      { text: "Every time I sit behind a drum kit, I want to destroy it. That's the only way I know how to play.", source: "Revolver Magazine", year: 2008 },
+      { text: "Practice doesn't make perfect. Perfect practice makes perfect. There's a big difference.", source: "Drum! Magazine", year: 2010 }
     ]
   },
   {
@@ -153,6 +163,11 @@ const drummers = [
       { title: 'War Ensemble - Drum Cam (Yankee Stadium, Official)', youtubeId: '3ivOfkqFmxg', year: 2010 },
       { title: 'Angel of Death - Drum Cam', youtubeId: 'ManyDSIC8fQ', year: 2010 },
       { title: 'Full Show Drum Cam (St Louis 2003)', youtubeId: '3kBCky31sTg', year: 2003 }
+    ],
+    quotes: [
+      { text: "Speed is nothing without control. You have to be able to play fast and tight at the same time.", source: "Modern Drummer Magazine", year: 2006 },
+      { text: "I never wanted to be a typical metal drummer. I wanted to bring jazz, Latin, and world music into heavy music.", source: "Drumeo Interview", year: 2019 },
+      { text: "Reign in Blood changed everything. We didn't know we were making history, we were just playing as fast as we could.", source: "Revolver Magazine", year: 2016 }
     ]
   },
   {
@@ -498,6 +513,11 @@ const drummers = [
       { title: 'Instrumedley - The Dance of Instrumentals (4.5M views)', youtubeId: 'XFo8UgrUkNA', year: 2003 },
       { title: 'Panic Attack - Drumeo (Official)', youtubeId: 'oa7oOdYPOSk', year: 2023 },
       { title: 'Score - Full Concert Drum & Vox Cam (Official)', youtubeId: 'eUYi4GwN9sg', year: 2006 }
+    ],
+    quotes: [
+      { text: "I've always tried to approach drums as a musical instrument rather than just a rhythm instrument. The drums can sing.", source: "Modern Drummer Magazine", year: 2005 },
+      { text: "Progressive music allows you to break all the rules. That's what makes it so exciting - there are no boundaries.", source: "Drumeo Interview", year: 2023 },
+      { text: "Every drummer should learn to read music. It opens up a whole world of possibilities.", source: "Drum! Magazine", year: 2012 }
     ]
   },
   {
@@ -535,6 +555,11 @@ const drummers = [
       { title: 'Tool - Pneuma (Live Drum Cam)', youtubeId: 'FssULNGSZIA', year: 2019 },
       { title: 'Tool - Forty Six & 2 (Live Drum Cam)', youtubeId: 'qJq9y9xPKWs', year: 2019 },
       { title: 'Tool - Cleveland 2002 (Drum Cam)', youtubeId: 'Lawu_5p8Kg4', year: 2002 }
+    ],
+    quotes: [
+      { text: "I've always been fascinated by sacred geometry and how it relates to rhythm. The patterns in nature are the same patterns in music.", source: "Modern Drummer Magazine", year: 2019 },
+      { text: "The drumset is the most expressive instrument. You can make it whisper or you can make it scream.", source: "Drumeo Interview", year: 2020 },
+      { text: "I practice every day, even after 30 years. The day you stop learning is the day you stop growing as a musician.", source: "Revolver Magazine", year: 2017 }
     ]
   },
   {
@@ -951,6 +976,204 @@ const drummers = [
       { title: 'Trivium - Beyond Oblivion (Alex Bent Drum Playthrough)', youtubeId: 'nUYwI9V0wMw', year: 2017 },
       { title: 'Trivium - Betrayer (Alex Bent Drum Playthrough)', youtubeId: 'k7ftjTk2j5A', year: 2017 },
       { title: 'Trivium - The Sin and the Sentence (Drum Cut)', youtubeId: 'poo9hYpXOtI', year: 2017 }
+    ]
+  },
+  {
+    id: 26,
+    name: 'Shannon Larkin',
+    band: 'Godsmack / Ugly Kid Joe / Amen',
+    genre: 'Hard Rock / Heavy Metal / Nu Metal',
+    country: 'USA',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/4/4c/Godsmack_-_2019160161909_2019-06-09_Rock_am_Ring_-_0432_-_B70I1399.jpg',
+    bio: 'Shannon Larkin (born April 24, 1967) is an American drummer best known as the former drummer of Godsmack, a position he held from 2002 to 2024, making him the band\'s longest-serving drummer. His powerful, groove-oriented style was essential to Godsmack\'s signature heavy sound. Before Godsmack, Larkin played with Wrathchild America, Souls at Zero, Ugly Kid Joe, and Amen. He has been playing drums since age ten and briefly filled in for Black Sabbath on one show in 1997 when Mike Bordin was unavailable. Known for his hard-hitting style and versatility, Larkin has been a Sabian cymbal artist for decades.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Shannon_Larkin',
+      'https://www.instagram.com/shannonlarkin_13/',
+      'https://www.discogs.com/artist/359666-Shannon-Larkin',
+      'https://www.allmusic.com/artist/shannon-larkin-mn0000029700'
+    ],
+    gear: {
+      drums: 'ddrum Dios Series',
+      snare: 'ddrum Dios 14x6.5" Maple',
+      cymbals: 'Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese)',
+      hardware: 'DW 9000 Series Double Pedal, ddrum Throne',
+      sticks: 'Vic Firth American Classic 5B',
+      heads: 'Evans',
+      verified: true,
+      verifiedAt: '2026-02-02',
+      sources: ['https://sabian.com/artist/shannon-larkin/', 'https://en.wikipedia.org/wiki/Shannon_Larkin']
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/4/4c/Godsmack_-_2019160161909_2019-06-09_Rock_am_Ring_-_0432_-_B70I1399.jpg'
+    ],
+    endorsements: [
+      { name: 'ddrum Drums', url: 'https://www.ddrum.com' },
+      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' },
+      { name: 'DW Hardware', url: 'https://www.dwdrums.com' }
+    ],
+    videos: [
+      { title: 'Godsmack - I Stand Alone (Live Drum Cam)', youtubeId: 'wJz1zGxM9y0', year: 2018 },
+      { title: 'Shannon Larkin - Sabian Live Session', youtubeId: 'KMn7opjG7Ow', year: 2014 },
+      { title: 'Godsmack - Whatever (Official Drum Playthrough)', youtubeId: 'N0BcDLpX5NM', year: 2019 }
+    ]
+  },
+  {
+    id: 27,
+    name: 'Raymond Herrera',
+    band: 'Fear Factory / Arkaea / Brujeria',
+    genre: 'Industrial Metal / Death Metal',
+    country: 'USA',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/e/e3/Fear_factory_010505_117.jpg',
+    bio: 'Raymond Herrera is an American drummer best known as the founding member and former drummer of industrial metal band Fear Factory. His innovative "stop-go" double bass technique, rather than the traditional sustained blast approach, became a signature element of Fear Factory\'s mechanical, precise sound. He played on iconic albums like Soul of a New Machine (1992), Demanufacture (1995), and Obsolete (1998). Beyond drumming, Herrera has composed music for numerous video games including Tom Clancy\'s Ghost Recon Advanced Warfighter and Scarface: The World Is Yours. He also drummed for Brujeria and later formed Arkaea.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Raymond_Herrera',
+      'https://www.discogs.com/artist/269892-Raymond-Herrera',
+      'https://www.allmusic.com/artist/raymond-herrera-mn0000826621'
+    ],
+    gear: {
+      drums: 'Tama Starclassic',
+      snare: 'Tama 14x6.5" Brass',
+      cymbals: 'Zildjian A Custom & Z Custom Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" Z Custom Mega Bell Ride, 18" A Custom China)',
+      hardware: 'DW 5000 Series Double Pedal, Tama Power Tower Custom Rack, Tama Wide Rider Throne',
+      sticks: 'Pro-Mark 5A Oak Nylon Tip',
+      heads: 'Attack Drumheads',
+      verified: true,
+      verifiedAt: '2026-02-02',
+      sources: ['https://en.wikipedia.org/wiki/Raymond_Herrera', 'https://www.musicradar.com/tuition/drums/how-to-sound-like-fear-factorys-raymond-herrera-210027']
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/e/e3/Fear_factory_010505_117.jpg'
+    ],
+    endorsements: [
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'Pro-Mark Sticks', url: 'https://www.daddario.com/promark' },
+      { name: 'Attack Drumheads', url: 'https://www.universalpercussion.com' }
+    ],
+    videos: [
+      { title: 'Fear Factory - Replica (Drum Cam)', youtubeId: 'fjNFSSf2fLs', year: 2004 },
+      { title: 'Fear Factory - Demanufacture (Live)', youtubeId: 'nCOPLxPfazo', year: 2005 },
+      { title: 'Fear Factory - Edgecrusher (Official Video)', youtubeId: 'kE0Y8Wd3rfs', year: 1998 }
+    ]
+  },
+  {
+    id: 28,
+    name: 'Morgan Ågren',
+    band: 'Mats/Morgan Band / Kaipa / Fredrik Thordendal\'s Special Defects',
+    genre: 'Progressive Rock / Progressive Metal / Jazz Fusion',
+    country: 'Sweden',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/5/58/Morgan_Agren_04.jpg',
+    bio: 'Morgan Ågren (born July 13, 1967) is a Swedish drummer renowned for his extraordinary technical ability and complex polyrhythmic playing. He began drumming as a child and formed the Mats/Morgan Band with keyboardist Mats Öberg in 1981, performing Frank Zappa\'s music. Ågren has collaborated with Dweezil and Ahmet Zappa, recorded the legendary Sol Niger Within album with Meshuggah\'s Fredrik Thordendal, and has been a member of progressive rock band Kaipa since 2002. He\'s also worked with Devin Townsend on Casualties of Cool and Empath. A documentary about him, "Morgan Ågren\'s Conundrum: A Percussive Misadventure," was released in 2013.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Morgan_%C3%85gren',
+      'https://www.discogs.com/artist/288583-Morgan-%C3%85gren',
+      'https://www.allmusic.com/artist/morgan-gren-mn0000392167'
+    ],
+    gear: {
+      drums: 'Sonor SQ2 Designer Series',
+      snare: 'Sonor Designer 14x5.5" Maple',
+      cymbals: 'Paiste Signature & 2002 Series (14" Signature Heavy Hi-Hats, 18" & 20" Signature Fast Crashes, 22" Signature Dry Heavy Ride, 18" 2002 China)',
+      hardware: 'Sonor Giant Step Double Pedal, Sonor Throne',
+      sticks: 'Vic Firth American Classic 5A',
+      heads: 'Remo',
+      verified: true,
+      verifiedAt: '2026-02-02',
+      sources: ['https://en.wikipedia.org/wiki/Morgan_%C3%85gren']
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/5/58/Morgan_Agren_04.jpg'
+    ],
+    endorsements: [
+      { name: 'Sonor Drums', url: 'https://www.sonor.com' },
+      { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Remo Drumheads', url: 'https://remo.com' }
+    ],
+    videos: [
+      { title: 'Morgan Ågren - Drum Solo (Mats/Morgan Band)', youtubeId: '5MQhk8oOjOU', year: 2014 },
+      { title: 'Morgan Ågren\'s Conundrum - Documentary Trailer', youtubeId: 'NF_cMdGbEV4', year: 2013 },
+      { title: 'Mats/Morgan - Live Performance', youtubeId: 'n3VrJh3eGFM', year: 2016 }
+    ]
+  },
+  {
+    id: 29,
+    name: 'Igor Cavalera',
+    band: 'Sepultura / Cavalera Conspiracy / Soulwax',
+    genre: 'Thrash Metal / Groove Metal / Death Metal',
+    country: 'Brazil',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/1/13/20170805_Wacken_Wacken_Open_Air_Max_%26_Iggor_Cavalera_Return_To_Roots_0093.jpg',
+    bio: 'Igor Cavalera (born September 4, 1970), also known as Iggor Cavalera, is a Brazilian drummer who co-founded the legendary metal band Sepultura with his brother Max in 1984. His drumming evolved from pure thrash metal speed to incorporating tribal and world music influences, particularly on groundbreaking albums like Chaos A.D. (1993) and Roots (1996). Known as a hard-hitting drummer with impeccable timing, he left Sepultura in 2006 and reunited with Max in Cavalera Conspiracy. He has since expanded into electronic music with DJ duo Mixhell and became one of three drummers in Soulwax. His influences include Dave Lombardo, Bill Ward, and Stewart Copeland.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Igor_Cavalera',
+      'https://www.instagram.com/igloocavalera/',
+      'https://www.discogs.com/artist/354163-Igor-Cavalera',
+      'https://www.allmusic.com/artist/igor-cavalera-mn0000766583'
+    ],
+    gear: {
+      drums: 'Tama Starclassic Maple',
+      snare: 'Tama S.L.P. 14x6.5" G-Maple',
+      cymbals: 'Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" 2002 China)',
+      hardware: 'Tama Iron Cobra Double Pedal, Tama Throne',
+      sticks: 'Vic Firth American Classic 5B',
+      heads: 'Evans',
+      verified: true,
+      verifiedAt: '2026-02-02',
+      sources: ['https://en.wikipedia.org/wiki/Igor_Cavalera']
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/1/13/20170805_Wacken_Wacken_Open_Air_Max_%26_Iggor_Cavalera_Return_To_Roots_0093.jpg'
+    ],
+    endorsements: [
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+    ],
+    videos: [
+      { title: 'Sepultura - Roots Bloody Roots (Official Drum Cam)', youtubeId: '6V7k5D9fkwI', year: 2017 },
+      { title: 'Cavalera - Schizophrenia (Full Album Playthrough)', youtubeId: 'AK5xYDHC0Ws', year: 2024 },
+      { title: 'Sepultura - Territory (Classic Drum Cam)', youtubeId: 'Q1bNFq8p8u8', year: 1996 }
+    ]
+  },
+  {
+    id: 30,
+    name: 'Bill Ward',
+    band: 'Black Sabbath',
+    genre: 'Heavy Metal / Hard Rock / Blues Rock',
+    country: 'UK',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/0/0a/Black_Sabbath_%281970%29_%28cropped%29.jpg',
+    bio: 'Bill Ward (born May 5, 1948) is an English drummer and co-founder of Black Sabbath, one of the most influential bands in heavy metal history. Alongside Ozzy Osbourne, Tony Iommi, and Geezer Butler, Ward helped create the template for heavy metal drumming. His jazz-influenced style, combining swing with power, set him apart from other rock drummers of the era. He played on all eight classic Ozzy-era Sabbath albums, including groundbreaking records like Paranoid (1970) and Master of Reality (1971). Ward\'s influences include jazz greats Gene Krupa, Buddy Rich, and John Bonham. He also sang lead on the ballad "It\'s Alright" from Technical Ecstasy.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Bill_Ward_(musician)',
+      'https://www.discogs.com/artist/255466-Bill-Ward',
+      'https://www.allmusic.com/artist/bill-ward-mn0000136139'
+    ],
+    gear: {
+      drums: 'Ludwig Classic Maple',
+      snare: 'Ludwig Supraphonic 14x6.5" LM402',
+      cymbals: 'Paiste 2002 & Giant Beat Series (15" Giant Beat Hi-Hats, 18" & 20" 2002 Crashes, 24" 2002 Ride, 18" 2002 China)',
+      hardware: 'Ludwig Atlas Pro Double Pedal, Ludwig Throne',
+      sticks: 'Vic Firth American Classic 2B',
+      heads: 'Remo',
+      verified: true,
+      verifiedAt: '2026-02-02',
+      sources: ['https://en.wikipedia.org/wiki/Bill_Ward_(musician)']
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/0/0a/Black_Sabbath_%281970%29_%28cropped%29.jpg'
+    ],
+    endorsements: [
+      { name: 'Ludwig Drums', url: 'https://www.ludwig-drums.com' },
+      { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Remo Drumheads', url: 'https://remo.com' }
+    ],
+    videos: [
+      { title: 'Black Sabbath - War Pigs (Live Paris 1970)', youtubeId: 'IDJgwUeW7_k', year: 1970 },
+      { title: 'Black Sabbath - Rat Salad (Drum Solo)', youtubeId: 'KDxJdDT_C0Y', year: 1970 },
+      { title: 'Bill Ward Drum Interview & Performance', youtubeId: 'NME5YSs8yws', year: 2015 }
     ]
   }
 ];

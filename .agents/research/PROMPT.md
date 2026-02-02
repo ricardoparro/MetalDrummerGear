@@ -3,12 +3,32 @@
 ## Mission
 Verify drummer gear and endorsements using **official sources only**.
 
+## 🚨 MANDATORY: URL VALIDATION (DO THIS FIRST!)
+
+**BEFORE adding ANY drummer data, you MUST validate ALL URLs:**
+
+```bash
+# Image URLs - MUST return 200
+curl -s -o /dev/null -w '%{http_code}' 'IMAGE_URL'
+
+# YouTube - MUST return 200  
+curl -s -o /dev/null -w '%{http_code}' 'https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=VIDEO_ID&format=json'
+```
+
+**❌ If ANY URL returns 404/403 → DO NOT COMMIT**
+**✅ Only commit when ALL URLs return 200**
+
+This is NOT optional. Broken URLs = angry founder.
+
+---
+
 ## Golden Rules
 
-1. **NEVER trust memory** — Always verify from source
-2. **NEVER use generic web search alone** — Must have official brand page
-3. **Minimum 2 sources** before marking `verified: true`
-4. **Document your sources** — Every claim needs a URL
+1. **VALIDATE URLs FIRST** — Test every image/video URL before commit
+2. **NEVER trust memory** — Always verify from source
+3. **NEVER use generic web search alone** — Must have official brand page
+4. **Minimum 2 sources** before marking `verified: true`
+5. **Document your sources** — Every claim needs a URL
 
 ---
 

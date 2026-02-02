@@ -124,4 +124,45 @@ Sticks: Vic Firth, Promark, Vater, Ahead, Wincent, Zildjian
 
 ---
 
+## UX Interaction Testing ⭐ NEW
+
+In addition to data quality, the Test Agent now validates **UX interactions**.
+
+See `UX-TESTS.md` for full specification.
+
+### Quick Summary
+
+| Category | What We Test |
+|----------|--------------|
+| Interaction | Click element → state changes correctly |
+| Consistency | Related elements don't show conflicting info |
+| Filter Logic | Filters show correct drummers |
+| URL State | Params persist on refresh/share |
+| Mobile | Touch targets >= 44x44px |
+
+### Running UX Tests
+
+```bash
+cd ~/code/MetalDrummerGear
+node .agents/test/ux-interaction-tests.mjs
+```
+
+### Key Rules
+
+1. **Component Consistency:** If filter X selected in chips, dropdown must NOT show X as label
+2. **Filter Logic:** Results must match filter criteria exactly
+3. **State Sync:** URL, chips, and results must all reflect same state
+4. **Mobile First:** All touch targets minimum 44x44px (WCAG AA)
+
+### On UX Failure
+
+Create issue with labels: `ai-fix`, `ux-bug`
+
+Include:
+- Steps to reproduce
+- Expected vs actual behavior
+- Screenshot if possible
+
+---
+
 *Quality is not an act, it's a habit.*

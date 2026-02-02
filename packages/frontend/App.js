@@ -2660,6 +2660,7 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
                   name="email"
                   placeholder="Enter your email"
                   required
+                  className="newsletter-input"
                   style={{
                     flex: 1,
                     minWidth: 200,
@@ -2668,7 +2669,7 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
                     borderRadius: 8,
                     border: '2px solid #555',
                     backgroundColor: '#2a2a2a',
-                    color: theme.text,
+                    color: '#ffffff',
                     outline: 'none',
                   }}
                 />
@@ -2860,6 +2861,7 @@ function NewsletterFooter({ theme }) {
                 name="email"
                 placeholder="Enter your email"
                 required
+                className="newsletter-input"
                 style={{
                   flex: 1,
                   width: isMobile ? '100%' : 'auto',
@@ -2868,7 +2870,7 @@ function NewsletterFooter({ theme }) {
                   borderRadius: 8,
                   border: '2px solid #555',
                   backgroundColor: '#2a2a2a',
-                  color: theme.text,
+                  color: '#ffffff',
                   outline: 'none',
                   height: 48,
                   boxSizing: 'border-box',

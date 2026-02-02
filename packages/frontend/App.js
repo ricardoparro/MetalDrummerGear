@@ -2871,12 +2871,12 @@ function NewsletterFooter({ theme }) {
             <View style={[
               styles.newsletterInputWrapper,
               isMobile && styles.newsletterInputWrapperMobile,
-              { backgroundColor: theme.background, borderColor: status === 'error' ? theme.error : theme.border }
+              { backgroundColor: theme.background, borderColor: status === 'error' ? theme.error : '#666' }
             ]}>
               <TextInput
                 style={[styles.newsletterInput, { color: theme.text }]}
                 placeholder="Enter your email"
-                placeholderTextColor={theme.secondaryText}
+                placeholderTextColor="#888"
                 value={email}
                 onChangeText={(text) => {
                   setEmail(text);
@@ -4836,7 +4836,7 @@ const styles = StyleSheet.create({
   // Newsletter Footer styles
   newsletterFooter: {
     borderTopWidth: 1,
-    paddingVertical: 24,
+    paddingVertical: 12,
     paddingHorizontal: 20,
     marginTop: 'auto',
   },
@@ -4848,7 +4848,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'space-between',
     flexWrap: 'wrap',
-    gap: 16,
+    gap: 12,
   },
   newsletterContainerMobile: {
     flexDirection: 'column',
@@ -4881,7 +4881,7 @@ const styles = StyleSheet.create({
   newsletterInputWrapper: {
     flex: 1,
     borderRadius: 8,
-    borderWidth: 1,
+    borderWidth: 1.5,
     overflow: 'hidden',
   },
   newsletterInputWrapperMobile: {

@@ -301,6 +301,46 @@ function updateDocumentMeta(drummer, drummers = []) {
 
   ldScript.textContent = JSON.stringify(schema);
 
+  // BreadcrumbList schema for drummer pages
+  let breadcrumbScript = document.querySelector('script[data-schema="breadcrumb"]');
+  if (drummer) {
+    if (!breadcrumbScript) {
+      breadcrumbScript = document.createElement('script');
+      breadcrumbScript.type = 'application/ld+json';
+      breadcrumbScript.setAttribute('data-schema', 'breadcrumb');
+      document.head.appendChild(breadcrumbScript);
+    }
+
+    const baseUrl = "https://metalforge.io";
+    const breadcrumbSchema = {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": baseUrl + "/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Drummers",
+          "item": baseUrl + "/#drummers"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": drummer.name,
+          "item": baseUrl + "/drummer/" + drummer.id
+        }
+      ]
+    };
+    breadcrumbScript.textContent = JSON.stringify(breadcrumbSchema);
+  } else if (breadcrumbScript) {
+    breadcrumbScript.remove();
+  }
+
   // FAQPage schema for drummer pages (LLM optimization)
   let faqScript = document.querySelector('script[data-schema="faq"]');
   if (drummer) {
@@ -1212,6 +1252,42 @@ function updateGearMeta(gear) {
   if (faqScript) {
     faqScript.remove();
   }
+
+  // BreadcrumbList schema for gear pages
+  let breadcrumbScript = document.querySelector('script[data-schema="breadcrumb"]');
+  if (!breadcrumbScript) {
+    breadcrumbScript = document.createElement('script');
+    breadcrumbScript.type = 'application/ld+json';
+    breadcrumbScript.setAttribute('data-schema', 'breadcrumb');
+    document.head.appendChild(breadcrumbScript);
+  }
+
+  const baseUrl = "https://metalforge.io";
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": baseUrl + "/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Gear",
+        "item": baseUrl + "/#gear"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": gear.name,
+        "item": baseUrl + "/gear/" + gear.slug
+      }
+    ]
+  };
+  breadcrumbScript.textContent = JSON.stringify(breadcrumbSchema);
 }
 
 // Gear detail page component

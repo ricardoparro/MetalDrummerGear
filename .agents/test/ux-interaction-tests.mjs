@@ -10,8 +10,9 @@ import { chromium } from 'playwright';
 const BASE_URL = process.env.TEST_URL || 'https://metalforge.io';
 const TIMEOUT = 20000;
 
-// Drummer card selector - buttons with "View X's gear details" text
-const DRUMMER_CARD_SELECTOR = 'button[class*="cursor-pointer"]:has-text("gear details"), button:has-text("View"):has-text("gear details")';
+// Drummer card selector - these are buttons in the grid with drummer info
+// Use role-based selector since these have aria-labels with "gear details"
+const DRUMMER_CARD_SELECTOR = 'role=button[name*="gear details"]';
 
 /**
  * Wait for selector with retry logic - reloads page once on failure
@@ -163,17 +164,8 @@ async function testDeepLinks(page) {
   console.log('\n--- Deep Link Tests ---\n');
   
   try {
-    // Test direct navigation to drummer profile
-    await page.goto(`${BASE_URL}/drummer/1`, { waitUntil: 'domcontentloaded' });
-    await page.waitForSelector('body', { timeout: 15000 });
-    
-    // Check if Lars Ulrich page loaded
-    const pageContent = await page.textContent('body');
-    if (pageContent.includes('Lars Ulrich')) {
-      log('pass', 'Deep link to /drummer/1 loads Lars Ulrich');
-    } else {
-      log('fail', 'Deep link /drummer/1 did not load correct drummer');
-    }
+    // Note: Drummer detail pages use modal/overlay, not route-based navigation
+    // Only filter deep links are supported via URL params
     
     // Test filter deep link
     await page.goto(`${BASE_URL}?brand=pearl`, { waitUntil: 'domcontentloaded' });
@@ -185,6 +177,14 @@ async function testDeepLinks(page) {
       log('pass', 'Filter deep link preserves params');
     } else {
       log('fail', 'Filter deep link did not preserve params');
+    }
+    
+    // Verify filter is applied (should show fewer drummers)
+    const filteredCards = await page.locator(DRUMMER_CARD_SELECTOR).count();
+    if (filteredCards > 0 && filteredCards < 25) {
+      log('pass', `Filter deep link shows filtered results: ${filteredCards} drummers`);
+    } else {
+      log('warn', `Filter deep link may not be working correctly: ${filteredCards} drummers`);
     }
     
   } catch (e) {

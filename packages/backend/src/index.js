@@ -430,7 +430,7 @@ const drummers = [
     genres: ['Progressive Metal'],
     country: 'USA',
     era: '80s',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/d/d1/Dream_Theater-3_%2854625221983%29_%28cropped%29_-_Adrenaline_Mob%2C_2012-04-13.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/d/d1/Dream_Theater-3_%2854625221983%29_%28cropped%29.jpg',
     bio: 'Mike Portnoy, born in 1967 in Long Beach, New York, is one of the most influential progressive metal drummers of all time. He co-founded Dream Theater in 1985 and was the band\'s drummer and lyricist for 25 years, helping define the progressive metal genre. A recipient of over 30 Drummer of the Year awards from Modern Drummer magazine, Portnoy is known for his technical proficiency, complex time signatures, and theatrical live performances. After leaving Dream Theater in 2010, he has played with numerous projects including Avenged Sevenfold, Adrenaline Mob, The Winery Dogs, Flying Colors, Sons of Apollo, and Liquid Tension Experiment. In 2023, he rejoined Dream Theater for their reunion tour. His drumming style combines jazz fusion influences with heavy metal power, featuring intricate double bass patterns and creative use of electronics.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Mike_Portnoy',
@@ -447,7 +447,7 @@ const drummers = [
       sticks: 'Promark Mike Portnoy Signature TX420N'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/d/d1/Dream_Theater-3_%2854625221983%29_%28cropped%29_-_Adrenaline_Mob%2C_2012-04-13.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/d/d1/Dream_Theater-3_%2854625221983%29_%28cropped%29.jpg'
     ],
     endorsements: [
       { name: 'Tama Drums', url: 'https://www.tama.com' },

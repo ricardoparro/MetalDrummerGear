@@ -10,9 +10,9 @@ import { chromium } from 'playwright';
 const BASE_URL = process.env.TEST_URL || 'https://metalforge.io';
 const TIMEOUT = 20000;
 
-// Drummer card selector - these are buttons in the grid with drummer info
-// Use role-based selector since these have aria-labels with "gear details"
-const DRUMMER_CARD_SELECTOR = 'role=button[name*="gear details"]';
+// Drummer card selector - anchor tags linking to /drummer/ profile pages
+// Updated to use actual anchor tags for SEO and accessibility (see issue #115)
+const DRUMMER_CARD_SELECTOR = 'a[href*="/drummer/"]';
 
 /**
  * Wait for selector with retry logic - reloads page once on failure
@@ -54,7 +54,7 @@ async function testFilterChips(page) {
   
   // Navigate to homepage
   await page.goto(BASE_URL, { waitUntil: 'domcontentloaded' });
-  // Wait for drummer cards to appear (they are buttons with "gear details" text)
+  // Wait for drummer cards to appear (anchor tags with href containing /drummer/)
   await waitForSelectorWithRetry(page, DRUMMER_CARD_SELECTOR, 30000);
   
   // Get initial drummer count

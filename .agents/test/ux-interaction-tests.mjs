@@ -30,10 +30,11 @@ async function testFilterChips(page) {
   
   // Navigate to homepage
   await page.goto(BASE_URL, { waitUntil: 'domcontentloaded' });
-  await page.waitForSelector('[class*="drummerCard"]', { timeout: 15000 });
+  // Wait for drummer cards to appear (they link to /drummer/ URLs)
+  await page.waitForSelector('a[href*="/drummer/"]', { timeout: 20000 });
   
   // Get initial drummer count
-  const initialCards = await page.locator('[class*="drummerCard"]').count();
+  const initialCards = await page.locator('a[href*="/drummer/"]').count();
   log('info', `Initial drummer count: ${initialCards}`);
   
   // Test: Click Pearl filter
@@ -52,7 +53,7 @@ async function testFilterChips(page) {
     }
     
     // Check filtered count
-    const filteredCards = await page.locator('[class*="drummerCard"]').count();
+    const filteredCards = await page.locator('a[href*="/drummer/"]').count();
     if (filteredCards < initialCards) {
       log('pass', `Filter reduces results: ${initialCards} → ${filteredCards}`);
     } else {
@@ -68,7 +69,7 @@ async function testComponentConsistency(page) {
   console.log('\n--- Component Consistency Tests ---\n');
   
   await page.goto(BASE_URL, { waitUntil: 'domcontentloaded' });
-  await page.waitForSelector('[class*="drummerCard"]', { timeout: 15000 });
+  await page.waitForSelector('a[href*="/drummer/"]', { timeout: 15000 });
   
   try {
     // Click Pearl filter chip
@@ -98,7 +99,7 @@ async function testFilterLogic(page) {
   console.log('\n--- Filter Logic Tests ---\n');
   
   await page.goto(BASE_URL, { waitUntil: 'domcontentloaded' });
-  await page.waitForSelector('[class*="drummerCard"]', { timeout: 15000 });
+  await page.waitForSelector('a[href*="/drummer/"]', { timeout: 15000 });
   
   try {
     // Test Thrash filter
@@ -153,7 +154,7 @@ async function testDeepLinks(page) {
     
     // Test filter deep link
     await page.goto(`${BASE_URL}?brand=pearl`, { waitUntil: 'domcontentloaded' });
-    await page.waitForSelector('[class*="drummerCard"]', { timeout: 15000 });
+    await page.waitForSelector('a[href*="/drummer/"]', { timeout: 15000 });
     
     // Pearl should be active/selected
     const url = page.url();
@@ -174,7 +175,7 @@ async function testMobileTouchTargets(page) {
   // Set mobile viewport
   await page.setViewportSize({ width: 375, height: 667 });
   await page.goto(BASE_URL, { waitUntil: 'domcontentloaded' });
-  await page.waitForSelector('[class*="drummerCard"]', { timeout: 15000 });
+  await page.waitForSelector('a[href*="/drummer/"]', { timeout: 15000 });
   
   try {
     // Check common interactive elements

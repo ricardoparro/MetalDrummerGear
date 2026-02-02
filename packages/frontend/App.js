@@ -153,6 +153,45 @@ function VideoCard({ video, theme }) {
   );
 }
 
+// Collapsible Notable Quotes Section
+function QuotesSection({ quotes, drummerName, theme }) {
+  const [isExpanded, setIsExpanded] = useState(false);
+
+  if (!quotes || quotes.length === 0) return null;
+
+  return (
+    <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+      <TouchableOpacity
+        onPress={() => setIsExpanded(!isExpanded)}
+        style={styles.quotesSectionHeader}
+        accessibilityRole="button"
+        accessibilityLabel={`${isExpanded ? 'Collapse' : 'Expand'} notable quotes section`}
+      >
+        <Text style={[styles.sectionTitle, { color: theme.text, marginBottom: 0 }]} accessibilityRole="header">
+          Notable Quotes
+        </Text>
+        <Text style={[styles.quotesExpandIcon, { color: theme.secondaryText }]}>
+          {isExpanded ? '▲' : '▼'}
+        </Text>
+      </TouchableOpacity>
+      {isExpanded && (
+        <View style={styles.quotesContainer}>
+          {quotes.map((quote, index) => (
+            <View key={index} style={[styles.quoteCard, { borderColor: theme.border }]}>
+              <Text style={[styles.quoteText, { color: theme.text }]}>
+                "{quote.text}"
+              </Text>
+              <Text style={[styles.quoteSource, { color: theme.secondaryText }]}>
+                — {drummerName}, {quote.source}{quote.year ? ` (${quote.year})` : ''}
+              </Text>
+            </View>
+          ))}
+        </View>
+      )}
+    </View>
+  );
+}
+
 const PLACEHOLDER_IMAGE = 'https://ui-avatars.com/api/?name=Drummer&background=1a1a2e&color=fff&size=200';
 
 // Genre color mapping for consistent UI
@@ -737,6 +776,40 @@ function updateDocumentMeta(drummer, drummers = [], filters = {}) {
     // Remove FAQ schema when not on a drummer page
     faqScript.remove();
   }
+
+  // Quotation schema for drummer quotes (SEO optimization)
+  let quotesScript = document.querySelector('script[data-schema="quotes"]');
+  if (drummer && drummer.quotes && drummer.quotes.length > 0) {
+    if (!quotesScript) {
+      quotesScript = document.createElement('script');
+      quotesScript.type = 'application/ld+json';
+      quotesScript.setAttribute('data-schema', 'quotes');
+      document.head.appendChild(quotesScript);
+    }
+
+    const baseUrl = "https://metalforge.io";
+    const quotesSchema = drummer.quotes.map((quote) => ({
+      "@context": "https://schema.org",
+      "@type": "Quotation",
+      "text": quote.text,
+      "creator": {
+        "@type": "Person",
+        "name": drummer.name,
+        "url": `${baseUrl}/drummer/${drummer.id}`
+      },
+      "spokenByCharacter": {
+        "@type": "Person",
+        "name": drummer.name
+      },
+      ...(quote.source && { "citation": quote.source }),
+      ...(quote.year && { "dateCreated": quote.year.toString() })
+    }));
+
+    quotesScript.textContent = JSON.stringify(quotesSchema);
+  } else if (quotesScript) {
+    // Remove quotes schema when not on a drummer page with quotes
+    quotesScript.remove();
+  }
 }
 
 function SEOHead({ drummer, drummers = [], filters = {} }) {
@@ -1020,6 +1093,8 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear }) {
         <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">Biography</Text>
         <Text style={[styles.bioText, { color: theme.secondaryText }]}>{drummer.bio}</Text>
       </View>
+
+      <QuotesSection quotes={drummer.quotes} drummerName={drummer.name} theme={theme} />
 
       <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
         <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">Gear Setup</Text>
@@ -2378,6 +2453,30 @@ const DRUMMER_PROFILES = {
     personalities: ['perfectionist', 'servant'],
     eras: ['2010s'],
   },
+  26: { // Shannon Larkin
+    genres: ['nu-metal', 'groove'],
+    styles: ['groove', 'power'],
+    kits: ['classic', 'massive'],
+    brands: ['pearl'],
+    personalities: ['servant', 'showman'],
+    eras: ['90s', '2000s'],
+  },
+  27: { // Raymond Herrera
+    genres: ['groove', 'death'],
+    styles: ['technical', 'power'],
+    kits: ['massive'],
+    brands: ['tama'],
+    personalities: ['perfectionist', 'innovator'],
+    eras: ['90s'],
+  },
+  28: { // Morgan Ågren
+    genres: ['progressive'],
+    styles: ['technical', 'versatile'],
+    kits: ['hybrid', 'classic'],
+    brands: ['sonor'],
+    personalities: ['innovator', 'perfectionist'],
+    eras: ['90s', '2000s'],
+  },
 };
 
 // Calculate match scores for all drummers
@@ -3025,6 +3124,13 @@ function AppContent() {
           19: ['pearl', 'meinl'], // Inferno
           20: ['pearl', 'zildjian'], // Hellhammer
           21: ['ddrum', 'sabian'], // Pete Sandoval
+          22: ['ludwig', 'zildjian'], // Art Cruz
+          23: ['mapex', 'zildjian'], // Arin Ilejay
+          24: ['dw', 'meinl'], // Navene Koperweis
+          25: ['pearl', 'zildjian'], // Alex Bent
+          26: ['pearl', 'sabian'], // Shannon Larkin
+          27: ['tama', 'zildjian'], // Raymond Herrera
+          28: ['sonor', 'meinl'], // Morgan Ågren
         };
         const brands = drummerBrands[d.id] || [];
         return brands.includes(filters.brand.toLowerCase());
@@ -3642,6 +3748,36 @@ const styles = StyleSheet.create({
   bioText: {
     fontSize: 16,
     lineHeight: 24,
+  },
+  // Notable Quotes styles
+  quotesSectionHeader: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    paddingVertical: 4,
+  },
+  quotesExpandIcon: {
+    fontSize: 14,
+    fontWeight: '600',
+  },
+  quotesContainer: {
+    marginTop: 16,
+  },
+  quoteCard: {
+    marginBottom: 16,
+    paddingLeft: 16,
+    borderLeftWidth: 3,
+    borderLeftColor: '#dc2626',
+  },
+  quoteText: {
+    fontSize: 16,
+    lineHeight: 24,
+    fontStyle: 'italic',
+    marginBottom: 8,
+  },
+  quoteSource: {
+    fontSize: 13,
+    fontWeight: '500',
   },
   gearSection: {
     marginBottom: 12,

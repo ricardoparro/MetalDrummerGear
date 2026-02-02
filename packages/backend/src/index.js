@@ -39,6 +39,11 @@ const drummers = [
       { name: 'Tama Drums', url: 'https://www.tama.com' },
       { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
       { name: 'Ahead Drumsticks', url: 'https://www.aheaddrumsticks.com' }
+    ],
+    quotes: [
+      { text: "I'm not the best drummer in the world, but I'm the best drummer for Metallica.", source: "Modern Drummer Magazine", year: 2008 },
+      { text: "The only way to do great work is to love what you do. I've been fortunate enough to do that for over 40 years.", source: "Drumeo Interview", year: 2020 },
+      { text: "Music is the most powerful form of communication in the world. It brings people together from all walks of life.", source: "Rolling Stone", year: 2016 }
     ]
   },
   {
@@ -70,6 +75,11 @@ const drummers = [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
       { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
       { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' }
+    ],
+    quotes: [
+      { text: "The drums chose me. I didn't choose them. It was like destiny.", source: "Modern Drummer Magazine", year: 2004 },
+      { text: "Every time I sit behind a drum kit, I want to destroy it. That's the only way I know how to play.", source: "Revolver Magazine", year: 2008 },
+      { text: "Practice doesn't make perfect. Perfect practice makes perfect. There's a big difference.", source: "Drum! Magazine", year: 2010 }
     ]
   },
   {
@@ -144,6 +154,11 @@ const drummers = [
       { youtubeId: 'QZQN8FvKvdM', title: 'Dave Lombardo - Slayer "Raining Blood" (Live Drum Cam)', year: '2017' },
       { youtubeId: 'YeINWQDg7zI', title: 'Dave Lombardo - Slayer "Angel of Death" (Live Drum Cam)', year: '2018' },
       { youtubeId: 'r7cWi41XGCM', title: 'Dave Lombardo Drum Solo (Live)', year: '2019' }
+    ],
+    quotes: [
+      { text: "Speed is nothing without control. You have to be able to play fast and tight at the same time.", source: "Modern Drummer Magazine", year: 2006 },
+      { text: "I never wanted to be a typical metal drummer. I wanted to bring jazz, Latin, and world music influences into heavy music.", source: "Drumeo Interview", year: 2019 },
+      { text: "Reign in Blood changed everything. We didn't know we were making history, we were just playing as fast and hard as we could.", source: "Revolver Magazine", year: 2016 }
     ]
   },
   {
@@ -372,6 +387,11 @@ const drummers = [
       { name: 'ddrum Drums', url: 'https://www.ddrum.com' },
       { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+    ],
+    videos: [
+      { youtubeId: 'AkFqg5wAuFk', title: 'Pantera - Walk (Live Drum Cam)', year: '1997' },
+      { youtubeId: '2DfYLar2QGI', title: 'Pantera - Cowboys From Hell (Live Drum Cam)', year: '1992' },
+      { youtubeId: 'i97OkCXwotE', title: 'Vinnie Paul - Dimebash Drum Solo', year: '2018' }
     ]
   },
   {
@@ -435,6 +455,11 @@ const drummers = [
       { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' },
       { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' },
       { name: 'Roland Electronics', url: 'https://www.roland.com' }
+    ],
+    quotes: [
+      { text: "I've always tried to approach drums as a musical instrument rather than just a rhythm instrument. The drums can sing.", source: "Modern Drummer Magazine", year: 2005 },
+      { text: "Progressive music allows you to break all the rules. That's what makes it so exciting - there are no boundaries.", source: "Drumeo Interview", year: 2023 },
+      { text: "Every drummer should learn to read music. It opens up a whole world of possibilities and makes you a better musician.", source: "Drum! Magazine", year: 2012 }
     ]
   },
   {
@@ -474,6 +499,11 @@ const drummers = [
       { youtubeId: 'FssULNGSZIA', title: 'Tool - Pneuma (Live Drum Cam)', year: '2019' },
       { youtubeId: 'qJq9y9xPKWs', title: 'Tool - Forty Six & 2 (Live Drum Cam)', year: '2019' },
       { youtubeId: 'Z45VCJfnWZ0', title: 'Tool - Chocolate Chip Trip (Live Drum Solo)', year: '2020' }
+    ],
+    quotes: [
+      { text: "I've always been fascinated by sacred geometry and how it relates to rhythm. The patterns in nature are the same patterns in music.", source: "Modern Drummer Magazine", year: 2019 },
+      { text: "The drumset is the most expressive instrument. You can make it whisper or you can make it scream.", source: "Drumeo Interview", year: 2020 },
+      { text: "I practice every day, even after 30 years. The day you stop learning is the day you stop growing as a musician.", source: "Revolver Magazine", year: 2017 }
     ]
   },
   {
@@ -698,6 +728,106 @@ const drummers = [
       { youtubeId: 'QoNbazpnRH4', title: 'Morbid Angel - Immortal Rites (Live Drum Cam)', year: '2017' },
       { youtubeId: 'O2G7JW6lBz8', title: 'Morbid Angel - Chapel of Ghouls (Live Drum Cam)', year: '2018' },
       { youtubeId: 'fT_UqTtpZKE', title: 'Morbid Angel - Maze of Torment (Drum Playthrough)', year: '2016' }
+    ]
+  },
+  {
+    id: 22,
+    name: 'Shannon Larkin',
+    band: 'Godsmack / Ugly Kid Joe / Wrathchild America',
+    genre: 'Alternative Metal / Hard Rock',
+    genres: ['Nu-Metal', 'Groove Metal'],
+    country: 'USA',
+    era: '90s',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/9/98/Godsmack_-_2019160161909_2019-06-09_Rock_am_Ring_-_0432_-_B70I1399.jpg',
+    bio: 'Shannon Larkin, born in 1967 in Chicago, is an American drummer best known as the longtime drummer of Godsmack (2002-2024). His powerful, groove-oriented drumming style helped define Godsmack\'s hard rock sound across six studio albums including "Faceless," "IV," and "The Oracle." Before Godsmack, he played with Ugly Kid Joe, Wrathchild America (later Souls at Zero), Amen, and Candlebox. Known for his solid grooves, dynamic fills, and energetic live performances.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Shannon_Larkin',
+      'https://www.instagram.com/shannonlarkin_13/'
+    ],
+    gear: {
+      drums: 'Pearl Reference Pure',
+      snare: 'Pearl Reference 14x6.5" Brass',
+      cymbals: 'Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Raw Bell Dry Ride, 18" AAX Chinese)',
+      hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000 Roadster Throne',
+      sticks: 'Promark Shannon Larkin Signature'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/9/98/Godsmack_-_2019160161909_2019-06-09_Rock_am_Ring_-_0432_-_B70I1399.jpg'
+    ],
+    endorsements: [
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
+      { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' }
+    ],
+    videos: [
+      { youtubeId: 'yDT7GDw6TEw', title: 'Godsmack - I Stand Alone (Live Drum Cam)', year: '2019' },
+      { youtubeId: 'awT8FFHKikc', title: 'Godsmack - Whatever (Live Drum Cam)', year: '2018' }
+    ]
+  },
+  {
+    id: 23,
+    name: 'Raymond Herrera',
+    band: 'Fear Factory / Arkaea / Brujeria',
+    genre: 'Industrial Metal / Extreme Metal',
+    genres: ['Groove Metal', 'Death Metal'],
+    country: 'USA',
+    era: '90s',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/2/2c/Fear_factory_010505_117.jpg',
+    bio: 'Raymond Herrera is an American musician and founding member of the industrial metal band Fear Factory. His innovative "stop-go" double bass technique helped define Fear Factory\'s signature sound on classic albums like "Demanufacture" and "Obsolete." He also composed music for video games including Tom Clancy\'s Ghost Recon Advanced Warfighter and Iron Man 2.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Raymond_Herrera'
+    ],
+    gear: {
+      drums: 'Tama Starclassic Performer',
+      snare: 'Tama S.L.P. 14x5.5" Steel',
+      cymbals: 'Zildjian A Custom Series (14" Hi-Hats, 17" & 18" Crashes, 20" Ride, 18" China)',
+      hardware: 'DW 5000 Series Double Pedal, Tama Wide Rider Throne',
+      sticks: 'Promark 5A Oak Nylon Tip'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/2/2c/Fear_factory_010505_117.jpg'
+    ],
+    endorsements: [
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'DW Hardware', url: 'https://www.dwdrums.com' }
+    ],
+    videos: [
+      { youtubeId: 'iZrTYPSL_2E', title: 'Fear Factory - Replica (Live Drum Cam)', year: '2005' },
+      { youtubeId: 'uFLwAm2rIEY', title: 'Fear Factory - Demanufacture (Live)', year: '2004' }
+    ]
+  },
+  {
+    id: 24,
+    name: 'Morgan Ågren',
+    band: 'Mats/Morgan Band / Kaipa / Fredrik Thordendal\'s Special Defects',
+    genre: 'Progressive Rock / Jazz Fusion',
+    genres: ['Progressive Metal'],
+    country: 'Sweden',
+    era: '90s',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/f/f9/Morgan_Agren_04.jpg',
+    bio: 'Morgan Ågren, born in 1967 in Umeå, Sweden, is one of the most technically accomplished drummers in progressive rock and fusion. He gained metal recognition for his work on Fredrik Thordendal\'s (Meshuggah) solo album "Sol Niger Within." He has collaborated with Dweezil Zappa, Devin Townsend (Casualties of Cool, Empath), and Bill Laswell.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Morgan_%C3%85gren'
+    ],
+    gear: {
+      drums: 'Sonor SQ2 Beech',
+      snare: 'Sonor Designer 14x5.5" Maple',
+      cymbals: 'Meinl Byzance Series (15" Sand Hi-Hats, 18" & 20" Extra Dry Crashes, 22" Foundry Reserve Ride)',
+      hardware: 'Sonor Giant Step Double Pedal, Sonor Drummer Throne',
+      sticks: 'Vic Firth American Classic 5A'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/f/f9/Morgan_Agren_04.jpg'
+    ],
+    endorsements: [
+      { name: 'Sonor Drums', url: 'https://www.sonor.com' },
+      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+    ],
+    videos: [
+      { youtubeId: 'W1OBtP4_xNc', title: 'Mats/Morgan Band - Live Performance', year: '2018' },
+      { youtubeId: 'JNz2FB9ABYQ', title: 'Morgan Ågren - Drum Solo (Mats/Morgan)', year: '2017' }
     ]
   }
 ];

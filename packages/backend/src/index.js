@@ -989,7 +989,7 @@ const drummers = [
     genres: ['Death Metal', 'Progressive Metal'],
     country: 'USA',
     era: '90s',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/9/9e/Sal%2C_Leyla_%26_Richard_Christy_%284902556102%29.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/8/8f/Sal%2C_Leyla_%26_Richard_Christy_%284902556102%29.jpg',
     bio: 'Richard Christy, born in 1974 in Fort Scott, Kansas, is an American drummer known for his work with Death, Control Denied, Iced Earth, and his own band Charred Walls of the Damned. His drumming on Death\'s "The Sound of Perseverance" and Control Denied\'s "The Fragile Art of Existence" showcased his exceptional technical ability and musicality. Christy later joined Iced Earth before transitioning to entertainment on The Howard Stern Show.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Richard_Christy',
@@ -1005,7 +1005,7 @@ const drummers = [
       sticks: 'Vater Power 5B'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/9/9e/Sal%2C_Leyla_%26_Richard_Christy_%284902556102%29.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/8/8f/Sal%2C_Leyla_%26_Richard_Christy_%284902556102%29.jpg'
     ],
     endorsements: [
       { name: 'Tama Drums', url: 'https://www.tama.com' },
@@ -1027,7 +1027,7 @@ const drummers = [
     genres: ['Death Metal'],
     country: 'USA',
     era: '2000s',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/5/5f/Derek_Roddy_2003_%28cropped%29.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/d/d7/Derek_Roddy_2003_%28cropped%29.jpg',
     bio: 'Derek Roddy, born in 1972 in Myrtle Beach, South Carolina, is an American drummer known for his extreme speed and technical proficiency. His ability to record entire drum tracks in one or two takes earned him the nickname "One Take." He gained prominence with Hate Eternal, recording "King of All Kings" and "I, Monarch," and also recorded with Nile, Malevolent Creation, and Today Is the Day. Roddy is also an accomplished drum educator.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Derek_Roddy',
@@ -1043,7 +1043,7 @@ const drummers = [
       sticks: 'Vater Derek Roddy Signature'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/5/5f/Derek_Roddy_2003_%28cropped%29.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/d/d7/Derek_Roddy_2003_%28cropped%29.jpg'
     ],
     endorsements: [
       { name: 'DW Drums', url: 'https://www.dwdrums.com' },

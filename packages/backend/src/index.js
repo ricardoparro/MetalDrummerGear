@@ -18,6 +18,12 @@ const drummers = [
     country: 'Denmark',
     image: 'https://upload.wikimedia.org/wikipedia/commons/7/79/Lars_Ulrich_by_Gage_Skidmore_%28cropped%29.jpg',
     bio: 'Lars Ulrich is a Danish musician and co-founder of Metallica, one of the most influential thrash metal bands in history. Born in 1963, he moved to Los Angeles to pursue his drumming career and formed Metallica with James Hetfield in 1981. Known for his aggressive style and iconic drum fills, Lars has been instrumental in shaping the sound of heavy metal.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Lars_Ulrich',
+      'https://www.instagram.com/larsulrich/',
+      'https://www.discogs.com/artist/252889-Lars-Ulrich',
+      'https://www.allmusic.com/artist/lars-ulrich-mn0000849521'
+    ],
     gear: {
       drums: 'Tama Star Classic Maple',
       snare: 'Tama LU1465 Lars Ulrich Signature 14x6.5"',
@@ -43,6 +49,11 @@ const drummers = [
     country: 'USA',
     image: 'https://upload.wikimedia.org/wikipedia/commons/b/b4/JoeyJordison.jpg',
     bio: 'Joey Jordison (1975-2021) was an American musician best known as the original drummer of Slipknot. His blistering speed, technical precision, and theatrical stage presence made him one of the most influential metal drummers of his generation. He also played guitar for Murderdolls and drums for various other projects.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Joey_Jordison',
+      'https://www.discogs.com/artist/355738-Joey-Jordison',
+      'https://www.allmusic.com/artist/joey-jordison-mn0000796491'
+    ],
     gear: {
       drums: 'Pearl Masters Premium Maple',
       snare: 'Pearl Joey Jordison Signature 13x6.5"',
@@ -68,6 +79,12 @@ const drummers = [
     country: 'USA',
     image: 'https://upload.wikimedia.org/wikipedia/commons/6/60/Gene_Hoglan_-_Testament_%28cropped%29.jpg',
     bio: 'Gene Hoglan, nicknamed "The Atomic Clock" for his precise timing, is one of the most respected drummers in extreme metal. Born in 1967, he has played with Death, Dark Angel, Testament, Strapping Young Lad, Fear Factory, and Dethklok. His combination of speed, power, and musicality has influenced countless metal drummers.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Gene_Hoglan',
+      'https://www.instagram.com/gene_hoglan/',
+      'https://www.discogs.com/artist/252919-Gene-Hoglan',
+      'https://www.allmusic.com/artist/gene-hoglan-mn0000646612'
+    ],
     gear: {
       drums: 'Tama Starclassic Walnut/Birch',
       snare: 'Tama Gene Hoglan Signature 14x8"',
@@ -98,6 +115,12 @@ const drummers = [
     country: 'Cuba/USA',
     image: 'https://upload.wikimedia.org/wikipedia/commons/d/df/Dave_Lombardo_8.5.14.jpeg',
     bio: 'Dave Lombardo, born in Cuba in 1965, is widely regarded as one of the greatest drummers in metal history. As the original drummer of Slayer, he pioneered the double bass drumming style that defined thrash metal. His work on albums like "Reign in Blood" is considered groundbreaking. He has also played with Fantomas, Suicidal Tendencies, and Dead Cross.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Dave_Lombardo',
+      'https://www.instagram.com/davelombardo/',
+      'https://www.discogs.com/artist/252908-Dave-Lombardo',
+      'https://www.allmusic.com/artist/dave-lombardo-mn0000134767'
+    ],
     gear: {
       drums: 'Pearl Masters Maple Complete',
       snare: 'Pearl Dave Lombardo Signature 14x5.5"',
@@ -128,6 +151,11 @@ const drummers = [
     country: 'Sweden',
     image: 'https://upload.wikimedia.org/wikipedia/commons/7/7b/Meshuggah_-_Rock_am_Ring_2023-44313.jpg',
     bio: 'Tomas Haake, born in 1971, is the drummer and primary lyricist for Swedish extreme metal band Meshuggah. His polyrhythmic drumming style, characterized by complex time signatures and intricate patterns, has been hugely influential in the development of djent and progressive metal. He is known for his metronomic precision and innovative approach.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Tomas_Haake',
+      'https://www.discogs.com/artist/281578-Tomas-Haake',
+      'https://www.allmusic.com/artist/tomas-haake-mn0001678091'
+    ],
     gear: {
       drums: 'Sonor SQ2 Heavy Beech',
       snare: 'Sonor Tomas Haake Signature 14x6.25"',
@@ -158,6 +186,12 @@ const drummers = [
     country: 'Greece',
     image: 'https://upload.wikimedia.org/wikipedia/commons/e/e8/GK_10.jpg',
     bio: 'George Kollias, born in 1977, is a Greek drummer known for his extreme speed and technical proficiency. As the drummer for Nile since 2004, he has pushed the boundaries of death metal drumming with his incredible blast beats and double bass technique. He is also an educator and has released instructional materials.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/George_Kollias_(drummer)',
+      'https://www.instagram.com/george_kollias/',
+      'https://www.discogs.com/artist/544679-George-Kollias',
+      'https://www.allmusic.com/artist/george-kollias-mn0001019714'
+    ],
     gear: {
       drums: 'Pearl Masterworks Stadium Exotic',
       snare: 'Pearl George Kollias Signature 14x6.5"',
@@ -188,6 +222,12 @@ const drummers = [
     country: 'Brazil',
     image: 'https://upload.wikimedia.org/wikipedia/commons/8/86/Sepultura_-_2023219214143_2023-08-07_Sepultura_-_Sven_-_1D_X_MK_II_-_0650_-_AK8I2527.jpg',
     bio: 'Eloy Casagrande, born in 1990, is a Brazilian drummer who became Sepultura\'s drummer in 2011 and joined Slipknot in 2024. Known for his explosive speed, technical prowess, and energetic performances, he brought new life to Sepultura\'s sound. His drumming style combines traditional metal with modern technical elements, making him one of the most exciting drummers in contemporary metal.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Eloy_Casagrande',
+      'https://www.instagram.com/eloycasagrande/',
+      'https://www.discogs.com/artist/1665217-Eloy-Casagrande',
+      'https://www.allmusic.com/artist/eloy-casagrande-mn0002596379'
+    ],
     gear: {
       drums: 'Tama Starclassic Bubinga',
       snare: 'Tama Bell Brass 14x6.5"',
@@ -214,6 +254,12 @@ const drummers = [
     country: 'USA',
     image: 'https://upload.wikimedia.org/wikipedia/commons/c/c8/Ray_Luzier_of_Korn.jpg',
     bio: 'Ray Luzier, born in 1970, is an American drummer who joined Korn in 2007. Before Korn, he was a sought-after session musician, working with artists like David Lee Roth and Army of Anyone. His drumming combines rock solid grooves with technical flair, bringing a fresh energy to Korn\'s signature sound while respecting their nu-metal roots.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Ray_Luzier',
+      'https://www.instagram.com/rikirockett/',
+      'https://www.discogs.com/artist/356148-Ray-Luzier',
+      'https://www.allmusic.com/artist/ray-luzier-mn0000356844'
+    ],
     gear: {
       drums: 'Pearl Masters Maple Complete',
       snare: 'Pearl Reference 14x6.5" Brass',
@@ -239,6 +285,12 @@ const drummers = [
     country: 'USA',
     image: 'https://upload.wikimedia.org/wikipedia/commons/0/0a/Drummer_John_Otto_of_Limp_Bizkit_in_2006.jpg',
     bio: 'John Otto, born in 1977, is the drummer and a founding member of Limp Bizkit. His hip-hop influenced drumming style, combining tight grooves with funk-inspired beats, was essential in defining the rap-metal sound of the late 90s and early 2000s. His ability to blend rock power with hip-hop feel made Limp Bizkit one of the biggest bands of the nu-metal era.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/John_Otto_(musician)',
+      'https://www.instagram.com/johnotto/',
+      'https://www.discogs.com/artist/360637-John-Otto',
+      'https://www.allmusic.com/artist/john-otto-mn0000192831'
+    ],
     gear: {
       drums: 'Orange County Drum & Percussion (OCDP) Custom',
       snare: 'OCDP 14x7" Maple/Ash',
@@ -264,6 +316,12 @@ const drummers = [
     country: 'USA',
     image: 'https://upload.wikimedia.org/wikipedia/commons/4/46/Suicidal_Tendencies_Rockharz_2024_18.jpg',
     bio: 'Jay Weinberg, born in 1990, is the son of E Street Band drummer Max Weinberg. He joined Slipknot in 2014, becoming their drummer after Joey Jordison\'s departure. Before Slipknot, he briefly played with Against Me! and Madball. His powerful, aggressive style honored Slipknot\'s legacy while adding his own intensity. In 2023, he joined Suicidal Tendencies.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Jay_Weinberg',
+      'https://www.instagram.com/jayweinberg/',
+      'https://www.discogs.com/artist/1940247-Jay-Weinberg',
+      'https://www.allmusic.com/artist/jay-weinberg-mn0002419959'
+    ],
     gear: {
       drums: 'Pearl Masterworks Custom',
       snare: 'Pearl Reference 14x6.5" Steel',
@@ -341,6 +399,13 @@ const drummers = [
     country: 'USA',
     image: 'https://upload.wikimedia.org/wikipedia/commons/a/a4/Mike_Portnoy_-_Adrenaline_Mob%2C_2012-04-13.jpg',
     bio: 'Mike Portnoy, born in 1967 in Long Beach, New York, is one of the most influential progressive metal drummers of all time. He co-founded Dream Theater in 1985 and was the band\'s drummer and lyricist for 25 years, helping define the progressive metal genre. A recipient of over 30 Drummer of the Year awards from Modern Drummer magazine, Portnoy is known for his technical proficiency, complex time signatures, and theatrical live performances. After leaving Dream Theater in 2010, he has played with numerous projects including Avenged Sevenfold, Adrenaline Mob, The Winery Dogs, Flying Colors, Sons of Apollo, and Liquid Tension Experiment. In 2023, he rejoined Dream Theater for their reunion tour. His drumming style combines jazz fusion influences with heavy metal power, featuring intricate double bass patterns and creative use of electronics.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Mike_Portnoy',
+      'https://www.instagram.com/mikeportnoycom/',
+      'https://twitter.com/MikePortnoy',
+      'https://www.discogs.com/artist/252951-Mike-Portnoy',
+      'https://www.allmusic.com/artist/mike-portnoy-mn0000375541'
+    ],
     gear: {
       drums: 'Tama Starclassic Maple/Birch',
       snare: 'Tama Mike Portnoy Signature Melody Master 14x5.5"',
@@ -368,6 +433,12 @@ const drummers = [
     country: 'USA',
     image: 'https://upload.wikimedia.org/wikipedia/commons/3/3d/Tool_%2848541913941%29_%28cropped%29.jpg',
     bio: 'Danny Carey, born in 1961 in Lawrence, Kansas, is widely regarded as one of the greatest drummers in rock and metal history. As the drummer for Tool since the band\'s formation in 1990, he has developed a unique style that blends complex polyrhythmic patterns with influences from jazz, world music, and progressive rock. His technical proficiency and creative approach to rhythm have earned him numerous accolades, including being voted the best drummer by readers of Modern Drummer magazine. Carey\'s drumming incorporates unusual time signatures, intricate subdivisions, and the use of electronic percussion. Beyond Tool, he has collaborated with artists like Pigface, Zaum, and Volto! His towering presence behind his massive Sonor kit and his dedication to expanding the boundaries of rock drumming have made him an icon in the drumming community.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Danny_Carey',
+      'https://www.instagram.com/dannycareyofficial/',
+      'https://www.discogs.com/artist/252943-Danny-Carey',
+      'https://www.allmusic.com/artist/danny-carey-mn0000137137'
+    ],
     gear: {
       drums: 'Sonor SQ2 Heavy Beech',
       snare: 'Sonor Danny Carey Signature 14x8" Bronze',

@@ -40,10 +40,10 @@ const FILTER_OPTIONS = {
   ],
   countries: [
     { value: 'usa', label: 'USA' },
-    { value: 'uk', label: 'UK' },
+    { value: 'cuba', label: 'Cuba/USA' },
+    { value: 'denmark', label: 'Denmark' },
     { value: 'sweden', label: 'Sweden' },
     { value: 'norway', label: 'Norway' },
-    { value: 'denmark', label: 'Denmark' },
     { value: 'brazil', label: 'Brazil' },
     { value: 'poland', label: 'Poland' },
     { value: 'france', label: 'France' },

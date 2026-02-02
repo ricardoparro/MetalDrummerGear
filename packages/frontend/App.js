@@ -1737,10 +1737,12 @@ function isComparePage() {
   return window.location.pathname === '/compare' || window.location.pathname.startsWith('/compare?');
 }
 
-// Check if we're on the quiz page based on URL
+// Check if we're on the quiz page based on URL (supports /quiz and /find-your-match)
 function isQuizPage() {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
-  return window.location.pathname === '/quiz' || window.location.pathname.startsWith('/quiz');
+  const pathname = window.location.pathname;
+  return pathname === '/quiz' || pathname.startsWith('/quiz?') || 
+         pathname === '/find-your-match' || pathname.startsWith('/find-your-match?');
 }
 
 // Check if we're on a gear page based on URL
@@ -2309,6 +2311,38 @@ const DRUMMER_PROFILES = {
     brands: ['any'],
     personalities: ['pioneer', 'perfectionist'],
     eras: ['80s'],
+  },
+  22: { // Art Cruz
+    genres: ['groove', 'thrash'],
+    styles: ['power', 'groove'],
+    kits: ['massive'],
+    brands: ['any'],
+    personalities: ['servant', 'perfectionist'],
+    eras: ['2010s'],
+  },
+  23: { // Arin Ilejay
+    genres: ['thrash', 'progressive'],
+    styles: ['power', 'versatile'],
+    kits: ['classic', 'massive'],
+    brands: ['mapex'],
+    personalities: ['servant', 'perfectionist'],
+    eras: ['2010s'],
+  },
+  24: { // Navene Koperweis
+    genres: ['progressive', 'death'],
+    styles: ['technical', 'groove'],
+    kits: ['hybrid', 'massive'],
+    brands: ['dw'],
+    personalities: ['innovator', 'perfectionist'],
+    eras: ['2010s'],
+  },
+  25: { // Alex Bent
+    genres: ['thrash', 'death'],
+    styles: ['technical', 'speed'],
+    kits: ['massive'],
+    brands: ['pearl'],
+    personalities: ['perfectionist', 'servant'],
+    eras: ['2010s'],
   },
 };
 

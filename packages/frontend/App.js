@@ -980,6 +980,8 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear }) {
         </View>
       </View>
 
+      <ProfileShareButtons drummer={drummer} theme={theme} />
+
       <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
         <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">Biography</Text>
         <Text style={[styles.bioText, { color: theme.secondaryText }]}>{drummer.bio}</Text>
@@ -1206,7 +1208,136 @@ function GearComparisonRow({ label, items, theme }) {
   );
 }
 
-// Social share buttons
+// Profile share buttons for drummer pages
+function ProfileShareButtons({ drummer, theme }) {
+  const [copied, setCopied] = useState(false);
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+
+  const shareUrl = typeof window !== 'undefined'
+    ? `${window.location.origin}/drummer/${drummer.id}`
+    : `https://metalforge.io/drummer/${drummer.id}`;
+
+  const shareText = `Check out ${drummer.name}'s complete gear setup on MetalForge! 🥁`;
+
+  // GA4 event tracking
+  const trackShare = (platform) => {
+    if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
+      window.gtag('event', 'share', {
+        method: platform,
+        content_type: 'drummer_profile',
+        item_id: drummer.id,
+        drummer_name: drummer.name,
+      });
+    }
+  };
+
+  const handleTwitterShare = () => {
+    trackShare('twitter');
+    const twitterUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(shareUrl)}`;
+    if (Platform.OS === 'web') {
+      window.open(twitterUrl, '_blank', 'noopener,noreferrer');
+    } else {
+      Linking.openURL(twitterUrl);
+    }
+  };
+
+  const handleFacebookShare = () => {
+    trackShare('facebook');
+    const facebookUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(shareUrl)}&quote=${encodeURIComponent(shareText)}`;
+    if (Platform.OS === 'web') {
+      window.open(facebookUrl, '_blank', 'noopener,noreferrer');
+    } else {
+      Linking.openURL(facebookUrl);
+    }
+  };
+
+  const handleCopyLink = async () => {
+    trackShare('copy_link');
+    if (Platform.OS === 'web' && navigator.clipboard) {
+      await navigator.clipboard.writeText(shareUrl);
+      setCopied(true);
+      setTimeout(() => setCopied(false), 2000);
+    }
+  };
+
+  const handleNativeShare = async () => {
+    trackShare('native_share');
+    if (typeof navigator !== 'undefined' && navigator.share) {
+      try {
+        await navigator.share({
+          title: `${drummer.name}'s Drum Gear`,
+          text: shareText,
+          url: shareUrl,
+        });
+      } catch (err) {
+        // User cancelled or share failed - fallback to copy
+        if (err.name !== 'AbortError') {
+          handleCopyLink();
+        }
+      }
+    }
+  };
+
+  // Check if Web Share API is available (typically mobile)
+  const canNativeShare = Platform.OS === 'web' && typeof navigator !== 'undefined' && navigator.share;
+
+  // On mobile with native share support, show native share + copy only
+  if (isMobile && canNativeShare) {
+    return (
+      <View style={styles.profileShareContainer}>
+        <TouchableOpacity
+          onPress={handleNativeShare}
+          style={[styles.profileShareButton, styles.profileShareButtonNative, { borderColor: theme.border }]}
+          accessibilityLabel="Share this profile"
+        >
+          <Text style={styles.profileShareIcon}>📤</Text>
+          <Text style={[styles.profileShareText, { color: theme.text }]}>Share</Text>
+        </TouchableOpacity>
+        <TouchableOpacity
+          onPress={handleCopyLink}
+          style={[styles.profileShareButton, styles.profileShareButtonCopy, { borderColor: theme.border }]}
+          accessibilityLabel="Copy link to clipboard"
+        >
+          <Text style={styles.profileShareIcon}>{copied ? '✓' : '🔗'}</Text>
+          <Text style={[styles.profileShareText, { color: theme.text }]}>{copied ? 'Copied!' : 'Copy'}</Text>
+        </TouchableOpacity>
+      </View>
+    );
+  }
+
+  // Desktop: show Twitter, Facebook, Copy Link buttons
+  return (
+    <View style={styles.profileShareContainer}>
+      <TouchableOpacity
+        onPress={handleTwitterShare}
+        style={[styles.profileShareButton, styles.profileShareButtonTwitter]}
+        accessibilityLabel="Share on Twitter/X"
+      >
+        <Text style={styles.profileShareIcon}>𝕏</Text>
+        <Text style={styles.profileShareTextLight}>Tweet</Text>
+      </TouchableOpacity>
+      <TouchableOpacity
+        onPress={handleFacebookShare}
+        style={[styles.profileShareButton, styles.profileShareButtonFacebook]}
+        accessibilityLabel="Share on Facebook"
+      >
+        <Text style={styles.profileShareIcon}>f</Text>
+        <Text style={styles.profileShareTextLight}>Share</Text>
+      </TouchableOpacity>
+      <TouchableOpacity
+        onPress={handleCopyLink}
+        style={[styles.profileShareButton, styles.profileShareButtonCopy, { borderColor: theme.border }]}
+        accessibilityLabel="Copy link to clipboard"
+      >
+        <Text style={styles.profileShareIcon}>{copied ? '✓' : '🔗'}</Text>
+        <Text style={[styles.profileShareText, { color: theme.text }]}>{copied ? 'Copied!' : 'Copy Link'}</Text>
+      </TouchableOpacity>
+    </View>
+  );
+}
+
+// Social share buttons for comparison pages
 function ShareButtons({ drummerIds, drummerNames, theme }) {
   const shareUrl = typeof window !== 'undefined'
     ? `${window.location.origin}/compare?${drummerIds.map((id, i) => `d${i+1}=${id}`).join('&')}`
@@ -3239,6 +3370,52 @@ const styles = StyleSheet.create({
     color: '#ffffff',
     fontSize: 13,
     fontWeight: '600',
+  },
+  // Profile share buttons (drummer pages)
+  profileShareContainer: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'center',
+    gap: 12,
+    marginVertical: 16,
+    paddingHorizontal: 16,
+  },
+  profileShareButton: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 6,
+    paddingVertical: 8,
+    paddingHorizontal: 14,
+    borderRadius: 20,
+    borderWidth: 1,
+    borderColor: 'transparent',
+    transition: 'all 0.2s ease',
+  },
+  profileShareButtonTwitter: {
+    backgroundColor: '#000000',
+    borderColor: '#333333',
+  },
+  profileShareButtonFacebook: {
+    backgroundColor: '#1877F2',
+  },
+  profileShareButtonCopy: {
+    backgroundColor: 'transparent',
+  },
+  profileShareButtonNative: {
+    backgroundColor: 'rgba(255, 255, 255, 0.1)',
+  },
+  profileShareIcon: {
+    fontSize: 14,
+    color: '#ffffff',
+  },
+  profileShareText: {
+    fontSize: 13,
+    fontWeight: '500',
+  },
+  profileShareTextLight: {
+    fontSize: 13,
+    fontWeight: '500',
+    color: '#ffffff',
   },
   // Gear detail page styles
   gearDetailHeader: {

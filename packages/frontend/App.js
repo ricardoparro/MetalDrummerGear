@@ -2383,6 +2383,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     gap: 10,
+    minHeight: 44, // WCAG AA touch target minimum
   },
   toggleLabel: {
     fontSize: 16,
@@ -2453,12 +2454,13 @@ const styles = StyleSheet.create({
     padding: 20,
   },
   backButton: {
-    paddingVertical: 10,
+    paddingVertical: 12, // Increased for WCAG AA touch target (was 10)
     paddingHorizontal: 16,
     borderRadius: 8,
     borderWidth: 1,
     alignSelf: 'flex-start',
     marginBottom: 20,
+    minHeight: 48, // WCAG AA touch target minimum
   },
   backButtonText: {
     fontSize: 16,
@@ -3180,7 +3182,7 @@ const styles = StyleSheet.create({
     borderRadius: 8,
     borderWidth: 1,
     paddingHorizontal: 12,
-    height: 44,
+    height: 48, // WCAG AA touch target (was 44)
   },
   searchIcon: {
     fontSize: 16,

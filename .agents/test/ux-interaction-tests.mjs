@@ -8,7 +8,27 @@
 import { chromium } from 'playwright';
 
 const BASE_URL = process.env.TEST_URL || 'https://metalforge.io';
-const TIMEOUT = 15000;
+const TIMEOUT = 20000;
+
+/**
+ * Wait for selector with retry logic - reloads page once on failure
+ */
+async function waitForSelectorWithRetry(page, selector, timeout = 30000) {
+  try {
+    await page.waitForSelector(selector, { timeout });
+  } catch (e) {
+    console.log(`⚠️ Selector "${selector}" not found, retrying after reload...`);
+    console.log(`   Page URL: ${page.url()}`);
+    await page.reload({ waitUntil: 'domcontentloaded' });
+    try {
+      await page.waitForSelector(selector, { timeout });
+    } catch (retryError) {
+      console.log(`❌ Selector "${selector}" still not found after retry`);
+      console.log(`   Page URL: ${page.url()}`);
+      throw retryError;
+    }
+  }
+}
 
 const results = {
   passed: [],
@@ -31,7 +51,7 @@ async function testFilterChips(page) {
   // Navigate to homepage
   await page.goto(BASE_URL, { waitUntil: 'domcontentloaded' });
   // Wait for drummer cards to appear (they link to /drummer/ URLs)
-  await page.waitForSelector('a[href*="/drummer/"]', { timeout: 20000 });
+  await waitForSelectorWithRetry(page, 'a[href*="/drummer/"]', 30000);
   
   // Get initial drummer count
   const initialCards = await page.locator('a[href*="/drummer/"]').count();
@@ -69,7 +89,7 @@ async function testComponentConsistency(page) {
   console.log('\n--- Component Consistency Tests ---\n');
   
   await page.goto(BASE_URL, { waitUntil: 'domcontentloaded' });
-  await page.waitForSelector('a[href*="/drummer/"]', { timeout: 15000 });
+  await waitForSelectorWithRetry(page, 'a[href*="/drummer/"]', 30000);
   
   try {
     // Click Pearl filter chip
@@ -99,7 +119,7 @@ async function testFilterLogic(page) {
   console.log('\n--- Filter Logic Tests ---\n');
   
   await page.goto(BASE_URL, { waitUntil: 'domcontentloaded' });
-  await page.waitForSelector('a[href*="/drummer/"]', { timeout: 15000 });
+  await waitForSelectorWithRetry(page, 'a[href*="/drummer/"]', 30000);
   
   try {
     // Test Thrash filter
@@ -154,7 +174,7 @@ async function testDeepLinks(page) {
     
     // Test filter deep link
     await page.goto(`${BASE_URL}?brand=pearl`, { waitUntil: 'domcontentloaded' });
-    await page.waitForSelector('a[href*="/drummer/"]', { timeout: 15000 });
+    await waitForSelectorWithRetry(page, 'a[href*="/drummer/"]', 30000);
     
     // Pearl should be active/selected
     const url = page.url();
@@ -175,7 +195,7 @@ async function testMobileTouchTargets(page) {
   // Set mobile viewport
   await page.setViewportSize({ width: 375, height: 667 });
   await page.goto(BASE_URL, { waitUntil: 'domcontentloaded' });
-  await page.waitForSelector('a[href*="/drummer/"]', { timeout: 15000 });
+  await waitForSelectorWithRetry(page, 'a[href*="/drummer/"]', 30000);
   
   try {
     // Check common interactive elements

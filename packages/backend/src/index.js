@@ -430,7 +430,7 @@ const drummers = [
     genres: ['Progressive Metal'],
     country: 'USA',
     era: '80s',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/d/d1/Dream_Theater-3_%2854625221983%29_%28cropped%29.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/2/28/Mike_Portnoy_2025_Tons_of_Rock-2.jpg',
     bio: 'Mike Portnoy, born in 1967 in Long Beach, New York, is one of the most influential progressive metal drummers of all time. He co-founded Dream Theater in 1985 and was the band\'s drummer and lyricist for 25 years, helping define the progressive metal genre. A recipient of over 30 Drummer of the Year awards from Modern Drummer magazine, Portnoy is known for his technical proficiency, complex time signatures, and theatrical live performances. After leaving Dream Theater in 2010, he has played with numerous projects including Avenged Sevenfold, Adrenaline Mob, The Winery Dogs, Flying Colors, Sons of Apollo, and Liquid Tension Experiment. In 2023, he rejoined Dream Theater for their reunion tour. His drumming style combines jazz fusion influences with heavy metal power, featuring intricate double bass patterns and creative use of electronics.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Mike_Portnoy',
@@ -447,7 +447,7 @@ const drummers = [
       sticks: 'Promark Mike Portnoy Signature TX420N'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/d/d1/Dream_Theater-3_%2854625221983%29_%28cropped%29.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/2/28/Mike_Portnoy_2025_Tons_of_Rock-2.jpg'
     ],
     endorsements: [
       { name: 'Tama Drums', url: 'https://www.tama.com' },
@@ -738,7 +738,7 @@ const drummers = [
     genres: ['Nu-Metal', 'Groove Metal'],
     country: 'USA',
     era: '90s',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6e/Godsmack_-_2019160161909_2019-06-09_Rock_am_Ring_-_0432_-_B70I1399.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/e/eb/2019_RiP_Godsmack_-_by_2eight_-_8SC8529_%28cropped%29.jpg',
     bio: 'Shannon Larkin, born in 1967 in Chicago, is an American drummer best known as the longtime drummer of Godsmack (2002-2024). His powerful, groove-oriented drumming style helped define Godsmack\'s hard rock sound across six studio albums including "Faceless," "IV," and "The Oracle." Before Godsmack, he played with Ugly Kid Joe, Wrathchild America (later Souls at Zero), Amen, and Candlebox. Known for his solid grooves, dynamic fills, and energetic live performances.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Shannon_Larkin',
@@ -752,7 +752,7 @@ const drummers = [
       sticks: 'Promark Shannon Larkin Signature'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/6/6e/Godsmack_-_2019160161909_2019-06-09_Rock_am_Ring_-_0432_-_B70I1399.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/e/eb/2019_RiP_Godsmack_-_by_2eight_-_8SC8529_%28cropped%29.jpg'
     ],
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
@@ -876,7 +876,7 @@ const drummers = [
     genres: ['Thrash Metal', 'Progressive Metal'],
     country: 'USA',
     era: '80s',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/3/32/Scott_Travis2005.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/8/83/Scott_Travis.jpg',
     bio: 'Scott Travis, born in 1961 in Norfolk, Virginia, is an American drummer best known as the drummer for Judas Priest since 1989. He made his debut on the landmark album "Painkiller," which reinvigorated the band with its aggressive, speed metal approach. Travis was the first non-British member of Judas Priest and brought a new level of technical proficiency to the band. Before Priest, he played with Racer X and has since also performed with Thin Lizzy, Fight, and Elegant Weapons. He was inducted into the Rock and Roll Hall of Fame as a member of Judas Priest in 2022.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Scott_Travis',
@@ -891,7 +891,7 @@ const drummers = [
       sticks: 'Vic Firth American Classic 5B'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/3/32/Scott_Travis2005.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/8/83/Scott_Travis.jpg'
     ],
     endorsements: [
       { name: 'DW Drums', url: 'https://www.dwdrums.com' },
@@ -913,7 +913,7 @@ const drummers = [
     genres: ['Thrash Metal'],
     country: 'USA',
     era: '90s',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/a/a6/Slayer_-_With_Full_Force_2013_-_27-06-2013.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/b/b7/Paul_Bostaph_with_Slayer_in_2013_%28cropped%29.jpg',
     bio: 'Paul Bostaph, born in 1964 in Newark, California, is an American drummer best known for his tenure with Slayer, serving as their drummer from 1992-2001, 2013-2019, and returning for their 2024 reunion. He replaced Dave Lombardo and recorded classic albums including "Divine Intervention" and "Diabolus in Musica." Before Slayer, he was a founding member of Forbidden, recording "Forbidden Evil" and "Twisted into Form." He has also played with Testament, Exodus, and Systematic.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Paul_Bostaph',
@@ -929,7 +929,7 @@ const drummers = [
       sticks: 'Vic Firth American Classic 5B'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/a/a6/Slayer_-_With_Full_Force_2013_-_27-06-2013.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/b/b7/Paul_Bostaph_with_Slayer_in_2013_%28cropped%29.jpg'
     ],
     endorsements: [
       { name: 'ddrum Drums', url: 'https://www.ddrum.com' },
@@ -951,7 +951,7 @@ const drummers = [
     genres: ['Death Metal'],
     country: 'Canada',
     era: '90s',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/b/bc/Cryptopsy_Party.San_Metal_Open_Air_2017_20.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/8/89/Cryptopsy_Party.San_Metal_Open_Air_2017_10.jpg',
     bio: 'Flo Mounier is a Canadian drummer and the only constant member of technical death metal pioneers Cryptopsy since joining in 1992. His drumming on landmark albums like "None So Vile" and "Whisper Supremacy" set new standards for extreme metal drumming, featuring incredibly fast blast beats, complex patterns, and inhuman stamina. Mounier is widely regarded as one of the most technically proficient drummers in death metal.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Cryptopsy',
@@ -967,7 +967,7 @@ const drummers = [
       sticks: 'Vater Power 5B'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/b/bc/Cryptopsy_Party.San_Metal_Open_Air_2017_20.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/8/89/Cryptopsy_Party.San_Metal_Open_Air_2017_10.jpg'
     ],
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
@@ -1107,7 +1107,7 @@ const gearItems = [
     category: 'hardware',
     brand: 'Tama',
     description: 'The Tama Iron Cobra 900 is one of the most popular double bass pedals in metal drumming. Known for its smooth Power Glide cam, quick response, and durability, it has been the pedal of choice for many legendary drummers. The Iron Cobra features a rolling glide design that provides a linear feel throughout the stroke.',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bass_drum_pedals.jpg/440px-Bass_drum_pedals.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg',
     specs: {
       camType: 'Power Glide',
       beaterType: 'Dual-surface (felt/plastic)',
@@ -1125,7 +1125,7 @@ const gearItems = [
     category: 'cymbals',
     brand: 'Meinl',
     description: 'Meinl Byzance cymbals are hand-hammered in Turkey using traditional B20 bronze alloy. The series offers a wide range of sounds from dark and trashy to bright and cutting. Popular with progressive and extreme metal drummers for their complex overtones and dynamic response.',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Meinl_Byzance_Brilliant_Medium_Thin_Crash_18%22.jpg/440px-Meinl_Byzance_Brilliant_Medium_Thin_Crash_18%22.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/4/49/2006-07-06_crash_paiste_16.jpg',
     specs: {
       material: 'B20 Bronze',
       finish: 'Traditional/Brilliant/Extra Dry',
@@ -1143,7 +1143,7 @@ const gearItems = [
     category: 'cymbals',
     brand: 'Paiste',
     description: 'Paiste RUDE cymbals are designed specifically for heavy hitting drummers. Made from CuSn8 bronze (2002 Bronze), they deliver cutting, aggressive tones that cut through the loudest stage volumes. A staple in thrash and death metal drumming since the 1980s.',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/b/b8/Paiste_cymbal.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/f/fb/Paiste_cymbal_close.jpg',
     specs: {
       material: 'CuSn8 Bronze (2002 Bronze)',
       finish: 'Colored finish (various)',
@@ -1161,7 +1161,7 @@ const gearItems = [
     category: 'cymbals',
     brand: 'Zildjian',
     description: 'The Zildjian A Custom series delivers bright, cutting tones with a quick response. Created with a proprietary process that includes machine hammering and brilliant finishing, A Customs have become a standard in rock and metal drumming for their projection and clarity.',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/b/b5/Zildjian_Cymbals.JPG',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/a/af/Zildjian_a_18_inch_china_cymbal.JPG',
     specs: {
       material: 'B20 Bronze',
       finish: 'Brilliant',
@@ -1197,7 +1197,7 @@ const gearItems = [
     category: 'hardware',
     brand: 'Pearl',
     description: 'The Pearl Demon Drive is an advanced double bass pedal featuring the innovative NiNjA Bearing technology for ultra-smooth action. With interchangeable cams and click-lock spring tension, it offers unparalleled customization for demanding drummers.',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bass_drum_pedals.jpg/440px-Bass_drum_pedals.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg',
     specs: {
       camType: 'Interchangeable (Direct/Standard)',
       beaterType: 'Demon Beater (switchable)',
@@ -1269,7 +1269,7 @@ const gearItems = [
     category: 'cymbals',
     brand: 'Sabian',
     description: 'Sabian HHX cymbals combine hand-hammering with modern manufacturing for a dark, complex sound. The HHX line offers excellent dynamic range and musical warmth, making them popular with progressive and modern metal drummers.',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/b/b5/Zildjian_Cymbals.JPG',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/a/af/Zildjian_a_18_inch_china_cymbal.JPG',
     specs: {
       material: 'B20 Bronze',
       finish: 'Natural/Brilliant',

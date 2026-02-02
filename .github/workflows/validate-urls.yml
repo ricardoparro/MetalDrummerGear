@@ -1,0 +1,74 @@
+name: Validate URLs
+
+on:
+  pull_request:
+    paths:
+      - 'packages/backend/src/index.js'
+      - 'packages/frontend/src/pages/drummer/**'
+      - 'packages/data/**'
+
+jobs:
+  validate-urls:
+    runs-on: ubuntu-latest
+    name: Check Image & Video URLs
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Extract and Validate URLs
+        run: |
+          echo "🔍 Extracting URLs from drummer data..."
+          
+          # Extract image URLs
+          grep -ohE "image:\s*['\"]https?://[^'\"]+['\"]" packages/backend/src/index.js | \
+            sed -E "s/image:\s*['\"]([^'\"]+)['\"]/\1/" > /tmp/image_urls.txt || true
+          
+          # Extract YouTube video IDs and build URLs
+          grep -ohE "https?://(www\.)?(youtube\.com/watch\?v=|youtu\.be/)[a-zA-Z0-9_-]+" packages/backend/src/index.js > /tmp/video_urls.txt || true
+          
+          FAILED=0
+          
+          echo ""
+          echo "🖼️ Checking image URLs..."
+          while IFS= read -r url; do
+            [ -z "$url" ] && continue
+            STATUS=$(curl -s -o /dev/null -w '%{http_code}' --max-time 10 "$url" || echo "000")
+            if [ "$STATUS" != "200" ]; then
+              echo "❌ [$STATUS] $url"
+              FAILED=$((FAILED + 1))
+            else
+              echo "✅ $url"
+            fi
+          done < /tmp/image_urls.txt
+          
+          echo ""
+          echo "🎬 Checking YouTube URLs..."
+          while IFS= read -r url; do
+            [ -z "$url" ] && continue
+            # Extract video ID
+            VIDEO_ID=$(echo "$url" | grep -oE '[a-zA-Z0-9_-]{11}$' || echo "$url" | grep -oE 'v=([a-zA-Z0-9_-]{11})' | cut -d= -f2)
+            if [ -n "$VIDEO_ID" ]; then
+              OEMBED_URL="https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=${VIDEO_ID}&format=json"
+              STATUS=$(curl -s -o /dev/null -w '%{http_code}' --max-time 10 "$OEMBED_URL" || echo "000")
+              if [ "$STATUS" != "200" ]; then
+                echo "❌ [$STATUS] $url"
+                FAILED=$((FAILED + 1))
+              else
+                echo "✅ $url"
+              fi
+            fi
+          done < /tmp/video_urls.txt
+          
+          echo ""
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+          if [ $FAILED -gt 0 ]; then
+            echo "❌ VALIDATION FAILED: $FAILED broken URL(s)"
+            echo "Fix all broken URLs before merging!"
+            exit 1
+          else
+            echo "✅ All URLs validated successfully"
+          fi

@@ -8,7 +8,7 @@
 import { chromium } from 'playwright';
 
 const BASE_URL = process.env.TEST_URL || 'https://metalforge.io';
-const TIMEOUT = 10000;
+const TIMEOUT = 15000;
 
 const results = {
   passed: [],
@@ -29,7 +29,8 @@ async function testFilterChips(page) {
   console.log('\n--- Filter Chip Tests ---\n');
   
   // Navigate to homepage
-  await page.goto(BASE_URL, { waitUntil: 'networkidle' });
+  await page.goto(BASE_URL, { waitUntil: 'domcontentloaded' });
+  await page.waitForSelector('[class*="drummerCard"]', { timeout: 15000 });
   
   // Get initial drummer count
   const initialCards = await page.locator('[class*="drummerCard"]').count();
@@ -66,7 +67,8 @@ async function testFilterChips(page) {
 async function testComponentConsistency(page) {
   console.log('\n--- Component Consistency Tests ---\n');
   
-  await page.goto(BASE_URL, { waitUntil: 'networkidle' });
+  await page.goto(BASE_URL, { waitUntil: 'domcontentloaded' });
+  await page.waitForSelector('[class*="drummerCard"]', { timeout: 15000 });
   
   try {
     // Click Pearl filter chip
@@ -95,7 +97,8 @@ async function testComponentConsistency(page) {
 async function testFilterLogic(page) {
   console.log('\n--- Filter Logic Tests ---\n');
   
-  await page.goto(BASE_URL, { waitUntil: 'networkidle' });
+  await page.goto(BASE_URL, { waitUntil: 'domcontentloaded' });
+  await page.waitForSelector('[class*="drummerCard"]', { timeout: 15000 });
   
   try {
     // Test Thrash filter
@@ -137,7 +140,8 @@ async function testDeepLinks(page) {
   
   try {
     // Test direct navigation to drummer profile
-    await page.goto(`${BASE_URL}/drummer/1`, { waitUntil: 'networkidle' });
+    await page.goto(`${BASE_URL}/drummer/1`, { waitUntil: 'domcontentloaded' });
+    await page.waitForSelector('body', { timeout: 15000 });
     
     // Check if Lars Ulrich page loaded
     const pageContent = await page.textContent('body');
@@ -148,8 +152,8 @@ async function testDeepLinks(page) {
     }
     
     // Test filter deep link
-    await page.goto(`${BASE_URL}?brand=pearl`, { waitUntil: 'networkidle' });
-    await page.waitForTimeout(500);
+    await page.goto(`${BASE_URL}?brand=pearl`, { waitUntil: 'domcontentloaded' });
+    await page.waitForSelector('[class*="drummerCard"]', { timeout: 15000 });
     
     // Pearl should be active/selected
     const url = page.url();
@@ -169,7 +173,8 @@ async function testMobileTouchTargets(page) {
   
   // Set mobile viewport
   await page.setViewportSize({ width: 375, height: 667 });
-  await page.goto(BASE_URL, { waitUntil: 'networkidle' });
+  await page.goto(BASE_URL, { waitUntil: 'domcontentloaded' });
+  await page.waitForSelector('[class*="drummerCard"]', { timeout: 15000 });
   
   try {
     // Check common interactive elements

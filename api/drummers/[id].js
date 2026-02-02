@@ -637,6 +637,129 @@ const drummers = [
       { title: 'Terrorizer - Human Prey (Brutal Assault 2024)', youtubeId: 'JEXGerT8hUs', year: 2024 },
       { title: 'Morbid Angel - World of Shit (Drum Cam)', youtubeId: 'JWFrrVetdoc', year: 2019 }
     ]
+  },
+  {
+    id: 22,
+    name: 'Art Cruz',
+    band: 'Lamb of God',
+    genre: 'Groove Metal / Thrash Metal',
+    country: 'USA',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/0/0b/Lamb_of_God_Full_Force_2019_01.jpg',
+    bio: 'Art Cruz, born May 27, 1988, in Downey, California, is the current drummer of Lamb of God. He joined the band in 2019, replacing Chris Adler, after first filling in on their North American tour supporting Slayer\'s farewell tour in 2018. Cruz rose to prominence as one of the genre\'s top touring drummers, previously playing with Winds of Plague and Prong. His first studio album with Lamb of God was their 2020 self-titled release, followed by "Omens" in 2022. Known for his aggressive style, explosive dynamics, and precise double bass work, Cruz has reenergized Lamb of God\'s overall sound while honoring the band\'s legacy.',
+    gear: {
+      drums: 'Ludwig Drums',
+      snare: 'Ludwig 14x6.5" Black Beauty',
+      cymbals: 'Zildjian (14" A Custom Mastersound Hi-Hats, 18" A Custom EFX, 18" A Custom Medium Crash, 19" A Custom Projection Crash, 20" A Custom Crash, 21" A Zildjian Mega Bell Ride, 19" A Ultra Hammered Chinas, 17" K China w/ EFX Holes, 9" FX Trash Splashes, FX Blast Bell)',
+      hardware: 'Trick Pro 1-V Double Pedal, Gibraltar Hardware, Ludwig Atlas Throne',
+      sticks: 'Vic Firth American Classic 5B'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/0/0b/Lamb_of_God_Full_Force_2019_01.jpg'
+    ],
+    endorsements: [
+      { name: 'Ludwig Drums', url: 'https://www.ludwig-drums.com' },
+      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' },
+      { name: 'Trick Pedals', url: 'https://www.trickdrums.com' },
+      { name: 'Gibraltar Hardware', url: 'https://www.gibraltarhardware.com' }
+    ],
+    videos: [
+      { title: 'Lamb of God - Memento Mori (Art Cruz Drum Cam)', youtubeId: 'KBGN7gVXd2A', year: 2020 },
+      { title: 'Lamb of God - Laid to Rest (Live Drum Cam 2022)', youtubeId: '7aNxE3Xshgs', year: 2022 },
+      { title: 'Art Cruz Drum Solo - Lamb of God Live', youtubeId: 'V1p7wRXhJGE', year: 2023 }
+    ]
+  },
+  {
+    id: 23,
+    name: 'Arin Ilejay',
+    band: 'ex-Avenged Sevenfold',
+    genre: 'Heavy Metal / Hard Rock',
+    country: 'USA',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/1/1b/Avenged_Sevenfold%2C_Hail_to_the_King_Tour%2C_2013_%28cropped%29.jpg',
+    bio: 'Arin Ilejay, born October 17, 1988, is an American drummer best known for his tenure with Avenged Sevenfold from 2011 to 2015. He joined A7X following the tragic death of founding drummer Jimmy "The Rev" Sullivan. Ilejay recorded one studio album with the band - "Hail to the King" (2013), which debuted at number 1 on the Billboard 200 and multiple international charts. His powerful, straightforward drumming style complemented the album\'s classic heavy metal approach. Before A7X, he played with Confide, and after his departure, he has been active with various projects including his solo work and session drumming.',
+    gear: {
+      drums: 'Mapex Saturn Series',
+      snare: 'Mapex Black Panther 14x6.5"',
+      cymbals: 'Zildjian (14" A Custom Mastersound Hi-Hats, 18" & 19" A Custom Crashes, 21" A Sweet Ride, 18" A Custom China)',
+      hardware: 'Mapex Falcon Double Pedal, Mapex T865 Throne',
+      sticks: 'Vic Firth American Classic 5A'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/1/1b/Avenged_Sevenfold%2C_Hail_to_the_King_Tour%2C_2013_%28cropped%29.jpg'
+    ],
+    endorsements: [
+      { name: 'Mapex Drums', url: 'https://www.mapexdrums.com' },
+      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+    ],
+    videos: [
+      { title: 'Avenged Sevenfold - Hail to the King (Drum Cover by Arin)', youtubeId: 'DelhLppPSxY', year: 2013 },
+      { title: 'Arin Ilejay - Shepherd of Fire Live Drum Cam', youtubeId: 'GKn2FQ7PTzM', year: 2014 },
+      { title: 'Avenged Sevenfold - This Means War (Arin Ilejay Era)', youtubeId: 'NTnmfCCbGcI', year: 2014 }
+    ]
+  },
+  {
+    id: 24,
+    name: 'Navene Koperweis',
+    band: 'Entheos / ex-Animals as Leaders',
+    genre: 'Progressive Metal / Djent / Technical Death Metal',
+    country: 'USA',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/9/95/Navene_Koperweis.jpg',
+    bio: 'Navene Koperweis, born May 31, 1985, in San Jose, California, is a drummer, producer, and multi-instrumentalist known for his work with Entheos, Animals as Leaders, Animosity, and The Faceless. He started drumming at age eleven and has become one of the most innovative drummers in the progressive metal scene. Beyond his drumming prowess, Navene is a skilled producer and runs the technical death metal project Fleshwrought. He has also served as session drummer for Job for a Cowboy, Machine Head, and Whitechapel. His playing combines extreme technical proficiency with electronic and djent influences.',
+    gear: {
+      drums: 'DW Drums Performance Series',
+      snare: 'DW Performance 14x6.5" Steel',
+      cymbals: 'Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China, 10" Splash)',
+      hardware: 'DW 9000 Series Double Pedal, DW Throne',
+      sticks: 'Vic Firth American Classic 5B'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/9/95/Navene_Koperweis.jpg'
+    ],
+    endorsements: [
+      { name: 'DW Drums', url: 'https://www.dwdrums.com' },
+      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+    ],
+    videos: [
+      { title: 'Entheos - The World Without Us (Drum Playthrough)', youtubeId: 'Vl8VRe2Xyig', year: 2021 },
+      { title: 'Navene Koperweis - CAFO (Animals as Leaders Drum Cam)', youtubeId: '61D1yWzTsKs', year: 2012 },
+      { title: 'Entheos - Remember You Are Dust (Drum Playthrough)', youtubeId: 'CKDMCVNcWzE', year: 2023 }
+    ]
+  },
+  {
+    id: 25,
+    name: 'Alex Bent',
+    band: 'ex-Trivium / Arkaik / Dragonlord',
+    genre: 'Heavy Metal / Thrash Metal / Technical Death Metal',
+    country: 'USA',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/b/b5/Trivium_%2836826824775%29.jpg',
+    bio: 'Alex Bent, born January 31, 1993, in Oakland, California, is a versatile drummer known for his technical proficiency across multiple metal subgenres. He joined Trivium in 2017, replacing Paul Wandtke, and recorded three critically acclaimed albums with the band: "The Sin and the Sentence" (2017), "What the Dead Men Say" (2020), and "In the Court of the Dragon" (2021). Before Trivium, he played with technical death metal bands Arkaik and Brain Drill, and filled in for Gene Hoglan on Testament tours. He also drums for Eric Peterson\'s Dragonlord. Self-taught from age 11, Bent competed in Guitar Center Drum Off competitions and brings a unique blend of death metal technicality and thrash metal power to his playing.',
+    gear: {
+      drums: 'Pearl Reference Pure Series',
+      snare: 'Pearl Reference 14x5" Brass',
+      cymbals: 'Zildjian (14" K Custom Hybrid Hi-Hats, 18" & 19" K Custom Hybrid Crashes, 21" K Custom Hybrid Ride, 18" A Custom China)',
+      hardware: 'Axis A Longboard Double Pedal, Pearl D-3000 Throne',
+      sticks: 'Vic Firth American Classic 5B'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/b/b5/Trivium_%2836826824775%29.jpg'
+    ],
+    endorsements: [
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Remo Drumheads', url: 'https://remo.com' },
+      { name: 'Axis Percussion', url: 'https://www.axispercussion.com' }
+    ],
+    videos: [
+      { title: 'Trivium - The Sin and the Sentence (Drum Playthrough)', youtubeId: 'Sj6D9sKHVvI', year: 2017 },
+      { title: 'Trivium - Catastrophist (Alex Bent Drum Cam)', youtubeId: 'w3lWbLj1yXM', year: 2020 },
+      { title: 'Alex Bent - In The Court of the Dragon (Drum Playthrough)', youtubeId: 'Pn0WdJx-Wkw', year: 2021 }
+    ]
   }
 ];
 

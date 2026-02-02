@@ -829,6 +829,234 @@ const drummers = [
       { youtubeId: 'W1OBtP4_xNc', title: 'Mats/Morgan Band - Live Performance', year: '2018' },
       { youtubeId: 'JNz2FB9ABYQ', title: 'Morgan Ågren - Drum Solo (Mats/Morgan)', year: '2017' }
     ]
+  },
+  {
+    id: 25,
+    name: 'Igor Cavalera',
+    band: 'Sepultura / Cavalera Conspiracy / Soulwax',
+    genre: 'Thrash Metal / Groove Metal',
+    genres: ['Thrash Metal', 'Groove Metal'],
+    country: 'Brazil',
+    era: '80s',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/e/e5/20170805_Wacken_Wacken_Open_Air_Max_%26_Iggor_Cavalera_Return_To_Roots_0093.jpg',
+    bio: 'Igor Cavalera, born in 1970 in Belo Horizonte, Brazil, is best known as the co-founder and original drummer of Sepultura, one of the most influential thrash/death metal bands to emerge from South America. He co-founded the band with his brother Max in 1984 when he was just 13 years old. His tribal-influenced drumming style helped define Sepultura\'s unique sound, particularly on landmark albums like "Beneath the Remains," "Arise," and "Roots." After leaving Sepultura in 2006, he reunited with Max in Cavalera Conspiracy and has expanded into electronic music with his DJ project Mixhell.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Igor_Cavalera',
+      'https://www.instagram.com/igloocavalera/',
+      'https://www.discogs.com/artist/252932-Igor-Cavalera',
+      'https://www.allmusic.com/artist/igor-cavalera-mn0000080913'
+    ],
+    gear: {
+      drums: 'ddrum Hybrid Kit',
+      snare: 'ddrum 14x6.5" Maple',
+      cymbals: 'Zildjian A Custom Series (14" Hi-Hats, 18" & 19" Crashes, 21" Ride, 18" China)',
+      hardware: 'DW 5000 Series Double Pedal, ddrum Throne',
+      sticks: 'Vic Firth American Classic 5B'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/e/e5/20170805_Wacken_Wacken_Open_Air_Max_%26_Iggor_Cavalera_Return_To_Roots_0093.jpg'
+    ],
+    endorsements: [
+      { name: 'ddrum Drums', url: 'https://www.ddrum.com' },
+      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Remo Drumheads', url: 'https://www.remo.com' }
+    ],
+    videos: [
+      { youtubeId: 'F_6IjeprfEs', title: 'Sepultura - Roots Bloody Roots (Live Drum Cam)', year: '1996' },
+      { youtubeId: '6ODNxy3YOPU', title: 'Sepultura - Arise (Live Drum Cam)', year: '2017' },
+      { youtubeId: 'NiwqRSCWw2g', title: 'Cavalera Conspiracy - Inflikted (Live)', year: '2018' }
+    ]
+  },
+  {
+    id: 26,
+    name: 'Scott Travis',
+    band: 'Judas Priest / Racer X / Thin Lizzy',
+    genre: 'Heavy Metal / Speed Metal',
+    genres: ['Thrash Metal', 'Progressive Metal'],
+    country: 'USA',
+    era: '80s',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/5/59/Scott_Travis2005.jpg',
+    bio: 'Scott Travis, born in 1961 in Norfolk, Virginia, is an American drummer best known as the drummer for Judas Priest since 1989. He made his debut on the landmark album "Painkiller," which reinvigorated the band with its aggressive, speed metal approach. Travis was the first non-British member of Judas Priest and brought a new level of technical proficiency to the band. Before Priest, he played with Racer X and has since also performed with Thin Lizzy, Fight, and Elegant Weapons. He was inducted into the Rock and Roll Hall of Fame as a member of Judas Priest in 2022.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Scott_Travis',
+      'https://www.discogs.com/artist/271377-Scott-Travis',
+      'https://www.allmusic.com/artist/scott-travis-mn0000301024'
+    ],
+    gear: {
+      drums: 'DW Collector\'s Series Maple',
+      snare: 'DW Collector\'s 14x6.5" Bronze',
+      cymbals: 'Paiste RUDE & 2002 Series (14" Hi-Hats, 18" & 19" Crashes, 22" Power Ride, 20" China)',
+      hardware: 'DW 9000 Series Double Pedal, DW 9100 Throne',
+      sticks: 'Vic Firth American Classic 5B'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/5/59/Scott_Travis2005.jpg'
+    ],
+    endorsements: [
+      { name: 'DW Drums', url: 'https://www.dwdrums.com' },
+      { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Remo Drumheads', url: 'https://www.remo.com' }
+    ],
+    videos: [
+      { youtubeId: 'nM__lPTWThU', title: 'Judas Priest - Painkiller (Live Drum Cam)', year: '2019' },
+      { youtubeId: 'TQtpmHbcL_o', title: 'Judas Priest - Electric Eye (Live Drum Cam)', year: '2018' },
+      { youtubeId: '0p_1QSUsbsM', title: 'Scott Travis Drum Solo (Judas Priest Live)', year: '2019' }
+    ]
+  },
+  {
+    id: 27,
+    name: 'Paul Bostaph',
+    band: 'Slayer / Testament / Forbidden / Exodus',
+    genre: 'Thrash Metal',
+    genres: ['Thrash Metal'],
+    country: 'USA',
+    era: '90s',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/1/15/Slayer_-_With_Full_Force_2013_-_27-06-2013.jpg',
+    bio: 'Paul Bostaph, born in 1964 in Newark, California, is an American drummer best known for his tenure with Slayer, serving as their drummer from 1992-2001, 2013-2019, and returning for their 2024 reunion. He replaced Dave Lombardo and recorded classic albums including "Divine Intervention" and "Diabolus in Musica." Before Slayer, he was a founding member of Forbidden, recording "Forbidden Evil" and "Twisted into Form." He has also played with Testament, Exodus, and Systematic.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Paul_Bostaph',
+      'https://www.instagram.com/paulbostaph/',
+      'https://www.discogs.com/artist/252900-Paul-Bostaph',
+      'https://www.allmusic.com/artist/paul-bostaph-mn0000339180'
+    ],
+    gear: {
+      drums: 'ddrum Paladin Series',
+      snare: 'ddrum Paladin 14x6.5" Maple',
+      cymbals: 'Zildjian A Custom Series (14" Hi-Hats, 18" & 19" Crashes, 21" Ride, 18" China)',
+      hardware: 'ddrum Mercury Double Pedal, ddrum Throne',
+      sticks: 'Vic Firth American Classic 5B'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/1/15/Slayer_-_With_Full_Force_2013_-_27-06-2013.jpg'
+    ],
+    endorsements: [
+      { name: 'ddrum Drums', url: 'https://www.ddrum.com' },
+      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+    ],
+    videos: [
+      { youtubeId: 'z8ZqFlw6hYg', title: 'Slayer - Raining Blood (Live Drum Cam)', year: '2018' },
+      { youtubeId: 'r7cWi41XGCM', title: 'Slayer - Angel of Death (Live Drum Cam)', year: '2019' },
+      { youtubeId: 'K6_zsJ8KPP0', title: 'Paul Bostaph - Slayer Drum Solo', year: '2017' }
+    ]
+  },
+  {
+    id: 28,
+    name: 'Flo Mounier',
+    band: 'Cryptopsy',
+    genre: 'Technical Death Metal',
+    genres: ['Death Metal'],
+    country: 'Canada',
+    era: '90s',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/4/4a/Cryptopsy_Party.San_Metal_Open_Air_2017_20.jpg',
+    bio: 'Flo Mounier is a Canadian drummer and the only constant member of technical death metal pioneers Cryptopsy since joining in 1992. His drumming on landmark albums like "None So Vile" and "Whisper Supremacy" set new standards for extreme metal drumming, featuring incredibly fast blast beats, complex patterns, and inhuman stamina. Mounier is widely regarded as one of the most technically proficient drummers in death metal.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Cryptopsy',
+      'https://www.instagram.com/flomounier/',
+      'https://www.discogs.com/artist/306936-Flo-Mounier',
+      'https://www.allmusic.com/artist/flo-mounier-mn0001545138'
+    ],
+    gear: {
+      drums: 'Pearl Reference Series',
+      snare: 'Pearl Reference 14x5" Steel',
+      cymbals: 'Sabian AAX Series (14" Stage Hi-Hats, 17" & 18" X-Plosion Crashes, 21" Raw Bell Dry Ride, 18" AAXtreme China)',
+      hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000 Throne',
+      sticks: 'Vater Power 5B'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/4/4a/Cryptopsy_Party.San_Metal_Open_Air_2017_20.jpg'
+    ],
+    endorsements: [
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
+      { name: 'Vater Drumsticks', url: 'https://www.vater.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+    ],
+    videos: [
+      { youtubeId: 'q3JeR9z3_GA', title: 'Cryptopsy - Phobophile (Live Drum Cam)', year: '2018' },
+      { youtubeId: 'PXTY7IUcDjA', title: 'Cryptopsy - Crown of Horns (Live Drum Cam)', year: '2017' },
+      { youtubeId: 'VA0qlVIw0hw', title: 'Flo Mounier - Extreme Drumming Masterclass', year: '2019' }
+    ]
+  },
+  {
+    id: 29,
+    name: 'Richard Christy',
+    band: 'Death / Control Denied / Iced Earth / Charred Walls of the Damned',
+    genre: 'Technical Death Metal / Progressive Metal',
+    genres: ['Death Metal', 'Progressive Metal'],
+    country: 'USA',
+    era: '90s',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/9/9e/Sal%2C_Leyla_%26_Richard_Christy_%284902556102%29.jpg',
+    bio: 'Richard Christy, born in 1974 in Fort Scott, Kansas, is an American drummer known for his work with Death, Control Denied, Iced Earth, and his own band Charred Walls of the Damned. His drumming on Death\'s "The Sound of Perseverance" and Control Denied\'s "The Fragile Art of Existence" showcased his exceptional technical ability and musicality. Christy later joined Iced Earth before transitioning to entertainment on The Howard Stern Show.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Richard_Christy',
+      'https://www.instagram.com/richardchristy/',
+      'https://www.discogs.com/artist/254393-Richard-Christy',
+      'https://www.allmusic.com/artist/richard-christy-mn0000321789'
+    ],
+    gear: {
+      drums: 'Tama Starclassic Maple',
+      snare: 'Tama S.L.P. 14x6.5" G-Maple',
+      cymbals: 'Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China)',
+      hardware: 'Tama Iron Cobra 900 Double Pedal, Tama 1st Chair Throne',
+      sticks: 'Vater Power 5B'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/9/9e/Sal%2C_Leyla_%26_Richard_Christy_%284902556102%29.jpg'
+    ],
+    endorsements: [
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+      { name: 'Vater Drumsticks', url: 'https://www.vater.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+    ],
+    videos: [
+      { youtubeId: 'l5x7D0DJyYg', title: 'Death - The Flesh and the Power It Holds (Drum Cam)', year: '2018' },
+      { youtubeId: 'zqfFrJUrKbw', title: 'Iced Earth - Dracula (Live Drum Cam)', year: '2017' },
+      { youtubeId: 'bKdMXv2k8d8', title: 'Charred Walls of the Damned - Ghost Town (Drum Playthrough)', year: '2019' }
+    ]
+  },
+  {
+    id: 30,
+    name: 'Derek Roddy',
+    band: 'Hate Eternal / Nile / Malevolent Creation / Serpents Rise',
+    genre: 'Technical Death Metal',
+    genres: ['Death Metal'],
+    country: 'USA',
+    era: '2000s',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/5/5f/Derek_Roddy_2003_%28cropped%29.jpg',
+    bio: 'Derek Roddy, born in 1972 in Myrtle Beach, South Carolina, is an American drummer known for his extreme speed and technical proficiency. His ability to record entire drum tracks in one or two takes earned him the nickname "One Take." He gained prominence with Hate Eternal, recording "King of All Kings" and "I, Monarch," and also recorded with Nile, Malevolent Creation, and Today Is the Day. Roddy is also an accomplished drum educator.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Derek_Roddy',
+      'https://www.instagram.com/derekroddyofficial/',
+      'https://www.discogs.com/artist/301166-Derek-Roddy',
+      'https://www.allmusic.com/artist/derek-roddy-mn0000657182'
+    ],
+    gear: {
+      drums: 'DW Collector\'s Series Maple',
+      snare: 'DW Collector\'s 14x6.5" Bronze',
+      cymbals: 'Meinl Byzance Series (13" Serpents Hi-Hats, 16" & 18" Soundcaster Crashes, 21" Byzance Serpents Ride, 18" Mb20 Rock China)',
+      hardware: 'Axis A Longboard Double Pedal, DW 9100 Throne',
+      sticks: 'Vater Derek Roddy Signature'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/5/5f/Derek_Roddy_2003_%28cropped%29.jpg'
+    ],
+    endorsements: [
+      { name: 'DW Drums', url: 'https://www.dwdrums.com' },
+      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+      { name: 'Vater Drumsticks', url: 'https://www.vater.com' },
+      { name: 'Axis Percussion', url: 'https://www.axispercussion.com' },
+      { name: 'Remo Drumheads', url: 'https://www.remo.com' }
+    ],
+    videos: [
+      { youtubeId: 'Jx7rHzP9fXg', title: 'Hate Eternal - King of All Kings (Live Drum Cam)', year: '2018' },
+      { youtubeId: 'RzK3nJh6c2g', title: 'Nile - Black Seeds of Vengeance (Drum Playthrough)', year: '2017' },
+      { youtubeId: '9fD_xYRBhNQ', title: 'Derek Roddy - Extreme Drumming Techniques', year: '2019' }
+    ]
   }
 ];
 

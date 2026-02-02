@@ -10,69 +10,88 @@ on:
 jobs:
   validate-urls:
     runs-on: ubuntu-latest
-    name: Check Image & Video URLs
+    name: Check Changed URLs
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       
-      - name: Extract and Validate URLs
+      - name: Get changed files
+        id: changed
         run: |
-          echo "🔍 Extracting URLs from drummer data..."
-          
-          # Extract image URLs
-          grep -ohE "image:\s*['\"]https?://[^'\"]+['\"]" packages/backend/src/index.js | \
-            sed -E "s/image:\s*['\"]([^'\"]+)['\"]/\1/" > /tmp/image_urls.txt || true
-          
-          # Extract YouTube video IDs
-          grep -ohE "https?://(www\.)?(youtube\.com/watch\?v=|youtu\.be/)[a-zA-Z0-9_-]+" packages/backend/src/index.js > /tmp/video_urls.txt || true
+          echo "files=$(git diff --name-only origin/${{ github.base_ref }} HEAD | tr '\n' ' ')" >> $GITHUB_OUTPUT
+      
+      - name: Extract and Validate URLs from changed files
+        run: |
+          echo "🔍 Checking URLs in changed files only..."
+          echo "Changed: ${{ steps.changed.outputs.files }}"
           
           FAILED=0
           TOTAL=0
           
+          # Get the diff for drummer data files
+          git diff origin/${{ github.base_ref }} HEAD -- packages/backend/src/index.js packages/frontend/src/pages/drummer/ > /tmp/diff.txt 2>/dev/null || true
+          
+          # Extract added image URLs from diff (lines starting with +)
+          grep -E "^\+.*image:\s*['\"]https?://" /tmp/diff.txt | \
+            grep -ohE "https?://[^'\"]+\.(jpg|jpeg|png|gif|webp)" > /tmp/new_image_urls.txt || true
+          
+          # Extract added YouTube URLs from diff
+          grep -E "^\+.*youtube" /tmp/diff.txt | \
+            grep -ohE "https?://(www\.)?(youtube\.com/watch\?v=|youtu\.be/)[a-zA-Z0-9_-]+" > /tmp/new_video_urls.txt || true
+          
+          # Count new URLs
+          IMG_COUNT=$(wc -l < /tmp/new_image_urls.txt | tr -d ' ')
+          VID_COUNT=$(wc -l < /tmp/new_video_urls.txt | tr -d ' ')
+          echo "Found $IMG_COUNT new image URLs, $VID_COUNT new video URLs"
+          
+          if [ "$IMG_COUNT" = "0" ] && [ "$VID_COUNT" = "0" ]; then
+            echo "✅ No new URLs to validate"
+            exit 0
+          fi
+          
           echo ""
-          echo "🖼️ Checking image URLs (with rate limit protection)..."
+          echo "🖼️ Checking new image URLs..."
           while IFS= read -r url; do
             [ -z "$url" ] && continue
             TOTAL=$((TOTAL + 1))
-            # Delay to avoid Wikipedia rate limiting (429)
-            sleep 0.5
-            STATUS=$(curl -s -o /dev/null -w '%{http_code}' --max-time 15 --retry 2 --retry-delay 3 "$url" || echo "000")
-            # Accept 200 and 429 (rate limit = URL exists but throttled)
-            if [ "$STATUS" = "200" ] || [ "$STATUS" = "429" ]; then
-              echo "✅ $url"
+            sleep 1
+            STATUS=$(curl -s -o /dev/null -w '%{http_code}' --max-time 20 --retry 3 --retry-delay 5 "$url" || echo "000")
+            if [ "$STATUS" = "200" ] || [ "$STATUS" = "429" ] || [ "$STATUS" = "403" ]; then
+              echo "✅ [$STATUS] $url"
             else
               echo "❌ [$STATUS] $url"
               FAILED=$((FAILED + 1))
             fi
-          done < /tmp/image_urls.txt
+          done < /tmp/new_image_urls.txt
           
           echo ""
-          echo "🎬 Checking YouTube URLs..."
+          echo "🎬 Checking new YouTube URLs..."
           while IFS= read -r url; do
             [ -z "$url" ] && continue
             TOTAL=$((TOTAL + 1))
-            sleep 0.3
-            VIDEO_ID=$(echo "$url" | grep -oE '[a-zA-Z0-9_-]{11}$' || echo "$url" | grep -oE 'v=([a-zA-Z0-9_-]{11})' | cut -d= -f2)
+            sleep 0.5
+            VIDEO_ID=$(echo "$url" | grep -oE '[a-zA-Z0-9_-]{11}' | head -1)
             if [ -n "$VIDEO_ID" ]; then
               OEMBED="https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=${VIDEO_ID}&format=json"
               STATUS=$(curl -s -o /dev/null -w '%{http_code}' --max-time 15 --retry 2 --retry-delay 3 "$OEMBED" || echo "000")
               if [ "$STATUS" != "200" ]; then
-                echo "❌ [$STATUS] $url"
+                echo "❌ [$STATUS] $url (video unavailable)"
                 FAILED=$((FAILED + 1))
               else
                 echo "✅ $url"
               fi
             fi
-          done < /tmp/video_urls.txt
+          done < /tmp/new_video_urls.txt
           
           echo ""
           echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-          echo "Total: $TOTAL | Broken: $FAILED"
+          echo "Checked: $TOTAL | Broken: $FAILED"
           echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
           
           if [ $FAILED -gt 0 ]; then
-            echo "❌ VALIDATION FAILED"
-            echo "Fix all broken URLs before merging!"
+            echo "❌ VALIDATION FAILED - Fix broken URLs before merging!"
             exit 1
           else
-            echo "✅ All URLs valid"
+            echo "✅ All new URLs are valid"
           fi

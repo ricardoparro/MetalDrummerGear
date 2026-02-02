@@ -480,6 +480,31 @@ function KitCostCalculator({ drummer, theme }) {
 
   if (!kitCost) return null;
 
+  const handleShareCost = () => {
+    const shareText = `💰 ${drummer.name}'s drum kit costs ${formatPrice(kitCost.totalEur, 'EUR')} (${formatPrice(kitCost.totalUsd, 'USD')})! Check out the full gear breakdown:`;
+    const shareUrl = typeof window !== 'undefined' 
+      ? `${window.location.origin}/drummer/${drummer.id}`
+      : `https://metalforge.io/drummer/${drummer.id}`;
+
+    // Try native share first (mobile)
+    if (Platform.OS !== 'web' && typeof navigator !== 'undefined' && navigator.share) {
+      navigator.share({
+        title: `${drummer.name}'s Drum Kit Cost`,
+        text: shareText,
+        url: shareUrl,
+      }).catch(() => {});
+      return;
+    }
+
+    // Web: open Twitter share
+    const twitterUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(shareUrl)}`;
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.open(twitterUrl, '_blank', 'noopener,noreferrer');
+    } else {
+      Linking.openURL(twitterUrl);
+    }
+  };
+
   const handleBuySetupPress = (store) => {
     // Create a combined search query for the full kit
     const primaryDrums = extractPrimaryProduct(drummer.gear.drums);
@@ -575,6 +600,15 @@ function KitCostCalculator({ drummer, theme }) {
           <Text style={styles.buySetupButtonText}>Buy This Setup (EU)</Text>
         </TouchableOpacity>
       </View>
+
+      <TouchableOpacity
+        onPress={handleShareCost}
+        style={[styles.shareCostButton, { borderColor: theme.border }]}
+        accessibilityRole="button"
+        accessibilityLabel={`Share ${drummer.name}'s kit cost`}
+      >
+        <Text style={[styles.shareCostButtonText, { color: theme.text }]}>📤 Share This Kit Cost</Text>
+      </TouchableOpacity>
     </View>
   );
 }
@@ -2046,6 +2080,19 @@ const styles = StyleSheet.create({
     color: '#ffffff',
     fontSize: 14,
     fontWeight: 'bold',
+  },
+  shareCostButton: {
+    marginTop: 12,
+    paddingVertical: 10,
+    paddingHorizontal: 16,
+    borderWidth: 1,
+    borderRadius: 8,
+    alignItems: 'center',
+    backgroundColor: 'transparent',
+  },
+  shareCostButtonText: {
+    fontSize: 14,
+    fontWeight: '500',
   },
 // Genre tag styles
   genreTagsContainer: {

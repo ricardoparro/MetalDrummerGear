@@ -282,7 +282,6 @@ const drummers = [
     bio: 'Ray Luzier, born in 1970, is an American drummer who joined Korn in 2007. Before Korn, he was a sought-after session musician, working with artists like David Lee Roth and Army of Anyone. His drumming combines rock solid grooves with technical flair, bringing a fresh energy to Korn\'s signature sound while respecting their nu-metal roots.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Ray_Luzier',
-      'https://www.instagram.com/rikirockett/',
       'https://www.discogs.com/artist/356148-Ray-Luzier',
       'https://www.allmusic.com/artist/ray-luzier-mn0000356844'
     ],

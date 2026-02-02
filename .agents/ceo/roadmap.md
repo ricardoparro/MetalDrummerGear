@@ -33,9 +33,17 @@ Become the #1 resource for metal drummer gear information, driving traffic throu
 - [x] sameAs entity links (Wikipedia, Instagram, Discogs)
 
 ### Monetization ⏳
-- [ ] **Affiliate links integration** — BLOCKED on #51 (Ricardo action)
-  - Thomann (EU)
-  - Sweetwater (US)
+- [ ] **Affiliate links integration** — BLOCKED on traffic/social goals
+  - Thomann (EU) — requires 500 daily views OR 5,000 social followers
+  - Sweetwater (US) — follow up separately
+
+### 🎯 GROWTH GOALS (Required for Thomann)
+| Goal | Current | Target | Status |
+|------|---------|--------|--------|
+| Daily Website Views | ? | **500** | Track via GA4 |
+| Social Media Followers | 0 | **5,000** | Need to create accounts |
+
+**Priority:** Hit either threshold to unlock affiliate revenue
 
 ---
 
@@ -69,12 +77,15 @@ Become the #1 resource for metal drummer gear information, driving traffic throu
 
 ## KPIs
 
-| Metric | Current | Day 30 | Day 60 | Day 90 |
-|--------|---------|--------|--------|--------|
-| Drummers | 21 | 25 | 40 | 50 |
-| DAU | ? | 50 | 200 | 500 |
-| Affiliate Revenue | €0 | €50 | €200 | €500 |
-| Newsletter Subs | 0 | 100 | 500 | 1000 |
+| Metric | Current | Target | Day 30 | Day 60 | Day 90 |
+|--------|---------|--------|--------|--------|--------|
+| **Daily Views** | ? | **500** ⭐ | 200 | 500 | 1000 |
+| **Social Followers** | 0 | **5,000** ⭐ | 500 | 2,000 | 5,000 |
+| Drummers | 25 | 50 | 30 | 40 | 50 |
+| Affiliate Revenue | €0 | €500/mo | €50 | €200 | €500 |
+| Newsletter Subs | 0 | 1000 | 100 | 500 | 1000 |
+
+⭐ = Required for Thomann affiliate activation
 
 ---
 
@@ -92,10 +103,11 @@ Become the #1 resource for metal drummer gear information, driving traffic throu
 
 ## Strategic Priorities
 
-1. **Monetize NOW** — Affiliate registration is the #1 blocker
-2. **Content Quality** — Verified gear from official sources
-3. **SEO Foundation** — Schemas, sameAs, structured data
-4. **Engagement Next** — Quiz and newsletter after monetization
+1. **🎯 GROWTH: Hit 500 daily views OR 5,000 followers** — Required to unlock Thomann affiliate
+2. **Viral Features** — Quiz + Social Sharing to drive traffic
+3. **Social Presence** — Create and grow Twitter/X account
+4. **Content Quality** — Verified gear from official sources
+5. **SEO Foundation** — Schemas, sameAs, structured data
 
 ---
 

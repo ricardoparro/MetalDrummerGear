@@ -56,8 +56,16 @@ jobs:
           while IFS= read -r url; do
             [ -z "$url" ] && continue
             TOTAL=$((TOTAL + 1))
-            sleep 2
-            STATUS=$(curl -s -o /dev/null -w '%{http_code}' --max-time 30 --retry 3 --retry-delay 10 "$url" || echo "000")
+            sleep 3
+            # Use User-Agent and generous timeouts to handle Wikimedia rate limiting
+            STATUS=$(curl -s -o /dev/null -w '%{http_code}' \
+              --max-time 45 \
+              --connect-timeout 20 \
+              --retry 5 \
+              --retry-delay 15 \
+              --retry-all-errors \
+              -A "Mozilla/5.0 (compatible; MetalDrummerGear-CI/1.0; +https://github.com/ricardoparro/MetalDrummerGear)" \
+              "$url" || echo "000")
             if [ "$STATUS" = "200" ] || [ "$STATUS" = "429" ] || [ "$STATUS" = "403" ]; then
               echo "✅ [$STATUS] $url"
             elif [ "$STATUS" = "000" ]; then

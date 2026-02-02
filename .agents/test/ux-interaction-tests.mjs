@@ -10,6 +10,9 @@ import { chromium } from 'playwright';
 const BASE_URL = process.env.TEST_URL || 'https://metalforge.io';
 const TIMEOUT = 20000;
 
+// Drummer card selector - buttons with "View X's gear details" text
+const DRUMMER_CARD_SELECTOR = 'button[class*="cursor-pointer"]:has-text("gear details"), button:has-text("View"):has-text("gear details")';
+
 /**
  * Wait for selector with retry logic - reloads page once on failure
  */
@@ -50,11 +53,11 @@ async function testFilterChips(page) {
   
   // Navigate to homepage
   await page.goto(BASE_URL, { waitUntil: 'domcontentloaded' });
-  // Wait for drummer cards to appear (they link to /drummer/ URLs)
-  await waitForSelectorWithRetry(page, 'a[href*="/drummer/"]', 30000);
+  // Wait for drummer cards to appear (they are buttons with "gear details" text)
+  await waitForSelectorWithRetry(page, DRUMMER_CARD_SELECTOR, 30000);
   
   // Get initial drummer count
-  const initialCards = await page.locator('a[href*="/drummer/"]').count();
+  const initialCards = await page.locator(DRUMMER_CARD_SELECTOR).count();
   log('info', `Initial drummer count: ${initialCards}`);
   
   // Test: Click Pearl filter
@@ -73,7 +76,7 @@ async function testFilterChips(page) {
     }
     
     // Check filtered count
-    const filteredCards = await page.locator('a[href*="/drummer/"]').count();
+    const filteredCards = await page.locator(DRUMMER_CARD_SELECTOR).count();
     if (filteredCards < initialCards) {
       log('pass', `Filter reduces results: ${initialCards} → ${filteredCards}`);
     } else {
@@ -89,7 +92,7 @@ async function testComponentConsistency(page) {
   console.log('\n--- Component Consistency Tests ---\n');
   
   await page.goto(BASE_URL, { waitUntil: 'domcontentloaded' });
-  await waitForSelectorWithRetry(page, 'a[href*="/drummer/"]', 30000);
+  await waitForSelectorWithRetry(page, DRUMMER_CARD_SELECTOR, 30000);
   
   try {
     // Click Pearl filter chip
@@ -119,7 +122,7 @@ async function testFilterLogic(page) {
   console.log('\n--- Filter Logic Tests ---\n');
   
   await page.goto(BASE_URL, { waitUntil: 'domcontentloaded' });
-  await waitForSelectorWithRetry(page, 'a[href*="/drummer/"]', 30000);
+  await waitForSelectorWithRetry(page, DRUMMER_CARD_SELECTOR, 30000);
   
   try {
     // Test Thrash filter
@@ -174,7 +177,7 @@ async function testDeepLinks(page) {
     
     // Test filter deep link
     await page.goto(`${BASE_URL}?brand=pearl`, { waitUntil: 'domcontentloaded' });
-    await waitForSelectorWithRetry(page, 'a[href*="/drummer/"]', 30000);
+    await waitForSelectorWithRetry(page, DRUMMER_CARD_SELECTOR, 30000);
     
     // Pearl should be active/selected
     const url = page.url();
@@ -195,7 +198,7 @@ async function testMobileTouchTargets(page) {
   // Set mobile viewport
   await page.setViewportSize({ width: 375, height: 667 });
   await page.goto(BASE_URL, { waitUntil: 'domcontentloaded' });
-  await waitForSelectorWithRetry(page, 'a[href*="/drummer/"]', 30000);
+  await waitForSelectorWithRetry(page, DRUMMER_CARD_SELECTOR, 30000);
   
   try {
     // Check common interactive elements

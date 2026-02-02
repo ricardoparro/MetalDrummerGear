@@ -1962,10 +1962,11 @@ function AppContent() {
       );
     }
 
-    // Genre filter
+    // Genre filter (normalize hyphens to spaces for matching, e.g., 'nu-metal' matches 'Nu Metal')
     if (filters.genre) {
+      const normalizedFilterGenre = filters.genre.replace(/-/g, ' ').toLowerCase();
       results = results.filter(d =>
-        d.genre && d.genre.toLowerCase().includes(filters.genre.toLowerCase())
+        d.genre && d.genre.toLowerCase().includes(normalizedFilterGenre)
       );
     }
 

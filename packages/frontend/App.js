@@ -1622,6 +1622,7 @@ function DrummerList({
   loading,
   error,
   onNavigateToCompare,
+  onNavigateToQuiz,
   filters,
   onFilterChange,
   filteredDrummers,
@@ -1685,14 +1686,24 @@ function DrummerList({
           theme={theme}
         />
       </View>
-      <TouchableOpacity
-        onPress={onNavigateToCompare}
-        style={[styles.compareButton, { backgroundColor: theme.card, borderColor: theme.border }]}
-        accessibilityRole="button"
-        accessibilityLabel="Compare drummers side by side"
-      >
-        <Text style={[styles.compareButtonText, { color: theme.text }]}>Compare Drummers</Text>
-      </TouchableOpacity>
+      <View style={styles.actionButtonsRow}>
+        <TouchableOpacity
+          onPress={onNavigateToCompare}
+          style={[styles.compareButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          accessibilityRole="button"
+          accessibilityLabel="Compare drummers side by side"
+        >
+          <Text style={[styles.compareButtonText, { color: theme.text }]}>Compare Drummers</Text>
+        </TouchableOpacity>
+        <TouchableOpacity
+          onPress={onNavigateToQuiz}
+          style={[styles.quizButton, { backgroundColor: '#dc2626', borderColor: '#dc2626' }]}
+          accessibilityRole="button"
+          accessibilityLabel="Take the drummer personality quiz"
+        >
+          <Text style={[styles.quizButtonText, { color: '#ffffff' }]}>🥁 Find Your Match</Text>
+        </TouchableOpacity>
+      </View>
       {filteredDrummers.length === 0 ? (
         <View style={styles.noResultsContainer}>
           <Text style={[styles.noResultsText, { color: theme.secondaryText }]}>
@@ -1724,6 +1735,12 @@ function DrummerList({
 function isComparePage() {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
   return window.location.pathname === '/compare' || window.location.pathname.startsWith('/compare?');
+}
+
+// Check if we're on the quiz page based on URL
+function isQuizPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  return window.location.pathname === '/quiz' || window.location.pathname.startsWith('/quiz');
 }
 
 // Check if we're on a gear page based on URL
@@ -2049,6 +2066,687 @@ function GearDetail({ gear, theme, onBack, onSelectDrummer }) {
   );
 }
 
+// ===============================================
+// QUIZ: "Find Your Match" Drummer Personality Quiz
+// ===============================================
+
+// Quiz Questions Data
+const QUIZ_QUESTIONS = [
+  {
+    id: 'genre',
+    question: "What's your preferred metal subgenre?",
+    options: [
+      { value: 'thrash', label: '🤘 Thrash Metal', description: 'Fast riffs, aggressive drumming' },
+      { value: 'death', label: '💀 Death Metal', description: 'Brutal blast beats, technical precision' },
+      { value: 'progressive', label: '🌀 Progressive Metal', description: 'Complex time signatures, musical exploration' },
+      { value: 'nu-metal', label: '🔥 Nu-Metal', description: 'Groovy, hip-hop influenced' },
+      { value: 'black', label: '⚫ Black Metal', description: 'Raw, atmospheric, relentless' },
+      { value: 'groove', label: '💪 Groove Metal', description: 'Heavy grooves, powerful rhythms' },
+    ]
+  },
+  {
+    id: 'style',
+    question: "How would you describe your playing style?",
+    options: [
+      { value: 'speed', label: '⚡ Speed Demon', description: 'Faster is better, blast beats all day' },
+      { value: 'groove', label: '🎯 Groove Master', description: 'Lock in the pocket, make heads bang' },
+      { value: 'technical', label: '🧠 Technical Wizard', description: 'Complex patterns, odd time signatures' },
+      { value: 'power', label: '💥 Power Hitter', description: 'Heavy and loud, shake the stage' },
+      { value: 'versatile', label: '🎭 Versatile Player', description: 'Adapt to any situation' },
+    ]
+  },
+  {
+    id: 'kit',
+    question: "What's your ideal drum kit setup?",
+    options: [
+      { value: 'massive', label: '🏔️ Massive Kit', description: 'Double bass, multiple toms, all the cymbals' },
+      { value: 'minimal', label: '🎯 Minimal Setup', description: 'Just the essentials, stripped down' },
+      { value: 'hybrid', label: '🔌 Hybrid Kit', description: 'Acoustic + electronic triggers' },
+      { value: 'classic', label: '🥁 Classic 4-Piece', description: 'Traditional setup, timeless sound' },
+    ]
+  },
+  {
+    id: 'brand',
+    question: "Which drum brand speaks to you?",
+    options: [
+      { value: 'tama', label: 'Tama', description: 'Precision engineering, versatile sound' },
+      { value: 'pearl', label: 'Pearl', description: 'Industry standard, reliable power' },
+      { value: 'sonor', label: 'Sonor', description: 'German craftsmanship, unique tone' },
+      { value: 'dw', label: 'DW', description: 'Premium quality, custom options' },
+      { value: 'mapex', label: 'Mapex', description: 'Innovation meets value' },
+      { value: 'any', label: "Doesn't matter", description: 'Sound over brand' },
+    ]
+  },
+  {
+    id: 'personality',
+    question: "What drives you as a drummer?",
+    options: [
+      { value: 'pioneer', label: '🚀 Pioneer', description: 'Push boundaries, create new sounds' },
+      { value: 'perfectionist', label: '✨ Perfectionist', description: 'Every note must be precise' },
+      { value: 'showman', label: '🎪 Showman', description: 'Entertain the crowd, visual spectacle' },
+      { value: 'servant', label: '🎵 Song Servant', description: 'Serve the music, support the band' },
+      { value: 'innovator', label: '💡 Innovator', description: 'Experiment with new techniques' },
+    ]
+  },
+  {
+    id: 'era',
+    question: "Which era of metal drumming inspires you most?",
+    options: [
+      { value: '80s', label: '🎸 80s', description: 'Birth of thrash, classic metal' },
+      { value: '90s', label: '📼 90s', description: 'Death metal peak, nu-metal rise' },
+      { value: '2000s', label: '💿 2000s', description: 'Metalcore, djent emergence' },
+      { value: '2010s', label: '📱 2010s+', description: 'Modern technical mastery' },
+    ]
+  },
+];
+
+// Drummer matching profiles (maps answers to drummer traits)
+const DRUMMER_PROFILES = {
+  1: { // Lars Ulrich
+    genres: ['thrash'],
+    styles: ['power', 'groove'],
+    kits: ['massive', 'classic'],
+    brands: ['tama'],
+    personalities: ['pioneer', 'showman'],
+    eras: ['80s'],
+  },
+  2: { // Joey Jordison
+    genres: ['nu-metal', 'death'],
+    styles: ['speed', 'technical'],
+    kits: ['massive', 'hybrid'],
+    brands: ['pearl'],
+    personalities: ['showman', 'innovator'],
+    eras: ['90s', '2000s'],
+  },
+  3: { // Gene Hoglan
+    genres: ['death', 'thrash', 'progressive'],
+    styles: ['technical', 'speed'],
+    kits: ['massive'],
+    brands: ['tama'],
+    personalities: ['perfectionist', 'innovator'],
+    eras: ['80s', '90s'],
+  },
+  4: { // Dave Lombardo
+    genres: ['thrash'],
+    styles: ['speed', 'power'],
+    kits: ['classic', 'massive'],
+    brands: ['pearl', 'tama'],
+    personalities: ['pioneer', 'perfectionist'],
+    eras: ['80s'],
+  },
+  5: { // Tomas Haake
+    genres: ['progressive'],
+    styles: ['technical', 'groove'],
+    kits: ['hybrid', 'massive'],
+    brands: ['sonor'],
+    personalities: ['perfectionist', 'innovator'],
+    eras: ['90s', '2000s'],
+  },
+  6: { // George Kollias
+    genres: ['death'],
+    styles: ['speed', 'technical'],
+    kits: ['massive'],
+    brands: ['pearl'],
+    personalities: ['perfectionist', 'pioneer'],
+    eras: ['2000s'],
+  },
+  7: { // Eloy Casagrande
+    genres: ['thrash', 'nu-metal'],
+    styles: ['speed', 'versatile'],
+    kits: ['massive'],
+    brands: ['tama'],
+    personalities: ['showman', 'servant'],
+    eras: ['2010s'],
+  },
+  8: { // Ray Luzier
+    genres: ['nu-metal'],
+    styles: ['groove', 'versatile'],
+    kits: ['classic', 'massive'],
+    brands: ['pearl'],
+    personalities: ['servant', 'perfectionist'],
+    eras: ['2000s'],
+  },
+  9: { // John Otto
+    genres: ['nu-metal'],
+    styles: ['groove'],
+    kits: ['classic'],
+    brands: ['any'],
+    personalities: ['servant', 'innovator'],
+    eras: ['90s'],
+  },
+  10: { // Jay Weinberg
+    genres: ['nu-metal'],
+    styles: ['power', 'speed'],
+    kits: ['massive'],
+    brands: ['pearl'],
+    personalities: ['showman', 'servant'],
+    eras: ['2010s'],
+  },
+  11: { // Vinnie Paul
+    genres: ['groove', 'thrash'],
+    styles: ['groove', 'power'],
+    kits: ['massive'],
+    brands: ['any'],
+    personalities: ['pioneer', 'showman'],
+    eras: ['80s', '90s'],
+  },
+  12: { // Charlie Benante
+    genres: ['thrash'],
+    styles: ['speed', 'technical'],
+    kits: ['classic', 'hybrid'],
+    brands: ['tama'],
+    personalities: ['pioneer', 'innovator'],
+    eras: ['80s'],
+  },
+  13: { // Mike Portnoy
+    genres: ['progressive'],
+    styles: ['technical', 'versatile'],
+    kits: ['massive', 'hybrid'],
+    brands: ['tama'],
+    personalities: ['showman', 'innovator'],
+    eras: ['80s', '90s', '2000s'],
+  },
+  14: { // Danny Carey
+    genres: ['progressive'],
+    styles: ['technical', 'groove'],
+    kits: ['massive', 'hybrid'],
+    brands: ['sonor'],
+    personalities: ['innovator', 'perfectionist'],
+    eras: ['90s'],
+  },
+  15: { // Mario Duplantier
+    genres: ['death', 'progressive'],
+    styles: ['power', 'technical'],
+    kits: ['classic', 'massive'],
+    brands: ['tama'],
+    personalities: ['servant', 'perfectionist'],
+    eras: ['2000s'],
+  },
+  16: { // Brann Dailor
+    genres: ['progressive', 'groove'],
+    styles: ['technical', 'versatile'],
+    kits: ['classic'],
+    brands: ['dw'],
+    personalities: ['innovator', 'servant'],
+    eras: ['2000s'],
+  },
+  17: { // Chris Adler
+    genres: ['groove'],
+    styles: ['groove', 'power'],
+    kits: ['classic', 'massive'],
+    brands: ['mapex'],
+    personalities: ['perfectionist', 'servant'],
+    eras: ['2000s'],
+  },
+  18: { // Matt Halpern
+    genres: ['progressive'],
+    styles: ['technical', 'groove'],
+    kits: ['hybrid', 'massive'],
+    brands: ['mapex'],
+    personalities: ['innovator', 'servant'],
+    eras: ['2010s'],
+  },
+  19: { // Inferno
+    genres: ['black', 'death'],
+    styles: ['speed', 'power'],
+    kits: ['massive'],
+    brands: ['pearl'],
+    personalities: ['perfectionist', 'servant'],
+    eras: ['90s'],
+  },
+  20: { // Hellhammer
+    genres: ['black'],
+    styles: ['speed', 'power'],
+    kits: ['classic'],
+    brands: ['pearl'],
+    personalities: ['pioneer', 'perfectionist'],
+    eras: ['80s', '90s'],
+  },
+  21: { // Pete Sandoval
+    genres: ['death'],
+    styles: ['speed', 'technical'],
+    kits: ['massive'],
+    brands: ['any'],
+    personalities: ['pioneer', 'perfectionist'],
+    eras: ['80s'],
+  },
+};
+
+// Calculate match scores for all drummers
+function calculateMatches(answers, drummers) {
+  const scores = drummers.map(drummer => {
+    const profile = DRUMMER_PROFILES[drummer.id];
+    if (!profile) return { drummer, score: 0, reasons: [] };
+
+    let score = 0;
+    const reasons = [];
+
+    // Genre match (high weight)
+    if (answers.genre && profile.genres.includes(answers.genre)) {
+      score += 30;
+      reasons.push('genre preference');
+    }
+
+    // Style match (high weight)
+    if (answers.style && profile.styles.includes(answers.style)) {
+      score += 25;
+      reasons.push('playing style');
+    }
+
+    // Kit preference match
+    if (answers.kit && profile.kits.includes(answers.kit)) {
+      score += 15;
+      reasons.push('kit setup');
+    }
+
+    // Brand affinity (lower weight since "any" is common)
+    if (answers.brand && answers.brand !== 'any') {
+      if (profile.brands.includes(answers.brand) || profile.brands.includes('any')) {
+        score += 10;
+        reasons.push('brand preference');
+      }
+    }
+
+    // Personality match
+    if (answers.personality && profile.personalities.includes(answers.personality)) {
+      score += 15;
+      reasons.push('drumming philosophy');
+    }
+
+    // Era match
+    if (answers.era && profile.eras.includes(answers.era)) {
+      score += 5;
+      reasons.push('era influence');
+    }
+
+    return { drummer, score, reasons };
+  });
+
+  // Sort by score descending
+  return scores.sort((a, b) => b.score - a.score);
+}
+
+// Track quiz completion in GA4
+function trackQuizCompletion(matchedDrummer, matchPercentage) {
+  if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
+    window.gtag('event', 'quiz_complete', {
+      event_category: 'engagement',
+      event_label: matchedDrummer.name,
+      value: matchPercentage,
+      matched_drummer: matchedDrummer.name,
+      matched_drummer_id: matchedDrummer.id,
+    });
+  }
+}
+
+// Quiz View Component
+function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const [currentQuestion, setCurrentQuestion] = useState(0);
+  const [answers, setAnswers] = useState({});
+  const [showResults, setShowResults] = useState(false);
+  const [results, setResults] = useState(null);
+  const [email, setEmail] = useState('');
+  const [newsletterStatus, setNewsletterStatus] = useState('idle');
+
+  const progress = ((currentQuestion + 1) / QUIZ_QUESTIONS.length) * 100;
+
+  const handleAnswer = (questionId, value) => {
+    const newAnswers = { ...answers, [questionId]: value };
+    setAnswers(newAnswers);
+
+    // Auto-advance after a short delay
+    setTimeout(() => {
+      if (currentQuestion < QUIZ_QUESTIONS.length - 1) {
+        setCurrentQuestion(currentQuestion + 1);
+      } else {
+        // Calculate results
+        const matches = calculateMatches(newAnswers, drummers);
+        setResults(matches);
+        setShowResults(true);
+        
+        // Track completion
+        if (matches[0]) {
+          const maxScore = 100; // theoretical max
+          const matchPercentage = Math.round((matches[0].score / maxScore) * 100);
+          trackQuizCompletion(matches[0].drummer, matchPercentage);
+        }
+      }
+    }, 300);
+  };
+
+  const handlePrevious = () => {
+    if (currentQuestion > 0) {
+      setCurrentQuestion(currentQuestion - 1);
+    }
+  };
+
+  const handleRestart = () => {
+    setCurrentQuestion(0);
+    setAnswers({});
+    setShowResults(false);
+    setResults(null);
+  };
+
+  const handleShare = async (platform) => {
+    if (!results || !results[0]) return;
+    
+    const topMatch = results[0].drummer;
+    const matchPercent = Math.round((results[0].score / 100) * 100);
+    const shareText = `I matched with ${topMatch.name} (${topMatch.band}) at ${matchPercent}% on the Metal Drummer Quiz! 🥁🤘`;
+    const shareUrl = typeof window !== 'undefined' ? window.location.origin + '/quiz' : 'https://metalforge.io/quiz';
+
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      let url;
+      switch (platform) {
+        case 'twitter':
+          url = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(shareUrl)}`;
+          break;
+        case 'facebook':
+          url = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(shareUrl)}&quote=${encodeURIComponent(shareText)}`;
+          break;
+        case 'copy':
+          try {
+            await navigator.clipboard.writeText(`${shareText}\n${shareUrl}`);
+            alert('Copied to clipboard!');
+          } catch (err) {
+            console.error('Failed to copy:', err);
+          }
+          return;
+        default:
+          return;
+      }
+      window.open(url, '_blank', 'width=600,height=400');
+    }
+  };
+
+  const handleNewsletterSubmit = async () => {
+    if (!email.trim() || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+      return;
+    }
+    
+    setNewsletterStatus('loading');
+    
+    try {
+      if (Platform.OS === 'web' && typeof window !== 'undefined') {
+        const subscribers = JSON.parse(localStorage.getItem('newsletter_subscribers') || '[]');
+        if (!subscribers.includes(email)) {
+          subscribers.push(email);
+          localStorage.setItem('newsletter_subscribers', JSON.stringify(subscribers));
+        }
+      }
+      await new Promise(resolve => setTimeout(resolve, 500));
+      setNewsletterStatus('success');
+    } catch (err) {
+      setNewsletterStatus('error');
+    }
+  };
+
+  // Results View
+  if (showResults && results) {
+    const topMatch = results[0];
+    const maxScore = 100;
+    const matchPercent = Math.min(99, Math.max(50, Math.round((topMatch.score / maxScore) * 100)));
+    const runnerUps = results.slice(1, 4);
+
+    return (
+      <ScrollView style={[styles.quizContainer, { backgroundColor: theme.background }]}>
+        <View style={styles.quizContent}>
+          {/* Back Button */}
+          <TouchableOpacity
+            onPress={onBack}
+            style={[styles.backButton, { borderColor: theme.border }]}
+            accessibilityRole="button"
+            accessibilityLabel="Back to home"
+          >
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+          </TouchableOpacity>
+
+          {/* Results Header */}
+          <View style={styles.resultsHeader}>
+            <Text style={[styles.resultsTitle, { color: theme.text }]}>
+              🎉 Your Drummer Match!
+            </Text>
+          </View>
+
+          {/* Top Match Card */}
+          <View style={[styles.topMatchCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <View style={styles.matchPercentBadge}>
+              <Text style={styles.matchPercentText}>{matchPercent}% Match</Text>
+            </View>
+            
+            <Image
+              source={{ uri: topMatch.drummer.image || PLACEHOLDER_IMAGE }}
+              style={styles.topMatchImage}
+            />
+            
+            <Text style={[styles.topMatchName, { color: theme.text }]}>
+              {topMatch.drummer.name}
+            </Text>
+            <Text style={[styles.topMatchBand, { color: theme.secondaryText }]}>
+              {topMatch.drummer.band}
+            </Text>
+            
+            {topMatch.reasons.length > 0 && (
+              <Text style={[styles.matchReasons, { color: theme.secondaryText }]}>
+                Matched on: {topMatch.reasons.join(', ')}
+              </Text>
+            )}
+
+            <TouchableOpacity
+              onPress={() => onSelectDrummer(topMatch.drummer.id)}
+              style={[styles.viewProfileButton, { backgroundColor: '#dc2626' }]}
+              accessibilityRole="button"
+            >
+              <Text style={styles.viewProfileButtonText}>View Full Profile →</Text>
+            </TouchableOpacity>
+          </View>
+
+          {/* Share Buttons */}
+          <View style={styles.shareSection}>
+            <Text style={[styles.shareTitle, { color: theme.text }]}>Share Your Result</Text>
+            <View style={styles.shareButtons}>
+              <TouchableOpacity
+                onPress={() => handleShare('twitter')}
+                style={[styles.shareButton, { backgroundColor: '#1DA1F2' }]}
+              >
+                <Text style={styles.shareButtonText}>𝕏 Twitter</Text>
+              </TouchableOpacity>
+              <TouchableOpacity
+                onPress={() => handleShare('facebook')}
+                style={[styles.shareButton, { backgroundColor: '#4267B2' }]}
+              >
+                <Text style={styles.shareButtonText}>Facebook</Text>
+              </TouchableOpacity>
+              <TouchableOpacity
+                onPress={() => handleShare('copy')}
+                style={[styles.shareButton, { backgroundColor: theme.border }]}
+              >
+                <Text style={[styles.shareButtonText, { color: theme.text }]}>📋 Copy</Text>
+              </TouchableOpacity>
+            </View>
+          </View>
+
+          {/* Runner Ups */}
+          {runnerUps.length > 0 && (
+            <View style={styles.runnerUpsSection}>
+              <Text style={[styles.runnerUpsTitle, { color: theme.text }]}>
+                Other Strong Matches
+              </Text>
+              {runnerUps.map((match, index) => (
+                <TouchableOpacity
+                  key={match.drummer.id}
+                  onPress={() => onSelectDrummer(match.drummer.id)}
+                  style={[styles.runnerUpCard, { backgroundColor: theme.card, borderColor: theme.border }]}
+                >
+                  <Image
+                    source={{ uri: match.drummer.image || PLACEHOLDER_IMAGE }}
+                    style={styles.runnerUpImage}
+                  />
+                  <View style={styles.runnerUpInfo}>
+                    <Text style={[styles.runnerUpName, { color: theme.text }]}>
+                      {match.drummer.name}
+                    </Text>
+                    <Text style={[styles.runnerUpBand, { color: theme.secondaryText }]}>
+                      {match.drummer.band}
+                    </Text>
+                  </View>
+                  <Text style={[styles.runnerUpPercent, { color: theme.secondaryText }]}>
+                    {Math.round((match.score / maxScore) * 100)}%
+                  </Text>
+                </TouchableOpacity>
+              ))}
+            </View>
+          )}
+
+          {/* Newsletter CTA */}
+          <View style={[styles.quizNewsletter, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.quizNewsletterTitle, { color: theme.text }]}>
+              🥁 Want More Drummer Content?
+            </Text>
+            <Text style={[styles.quizNewsletterSubtitle, { color: theme.secondaryText }]}>
+              Get updates on new drummers, gear reviews, and exclusive content!
+            </Text>
+            
+            {newsletterStatus === 'success' ? (
+              <Text style={[styles.newsletterSuccess, { color: '#4ade80' }]}>
+                ✓ You're subscribed! Thanks for joining.
+              </Text>
+            ) : (
+              <View style={styles.quizNewsletterForm}>
+                <TextInput
+                  style={[styles.quizNewsletterInput, { 
+                    backgroundColor: theme.background, 
+                    borderColor: theme.border,
+                    color: theme.text 
+                  }]}
+                  placeholder="Enter your email"
+                  placeholderTextColor={theme.secondaryText}
+                  value={email}
+                  onChangeText={setEmail}
+                  keyboardType="email-address"
+                  autoCapitalize="none"
+                />
+                <TouchableOpacity
+                  onPress={handleNewsletterSubmit}
+                  style={[styles.quizNewsletterButton, { 
+                    backgroundColor: newsletterStatus === 'loading' ? theme.secondaryText : '#dc2626' 
+                  }]}
+                  disabled={newsletterStatus === 'loading'}
+                >
+                  <Text style={styles.quizNewsletterButtonText}>
+                    {newsletterStatus === 'loading' ? '...' : 'Subscribe'}
+                  </Text>
+                </TouchableOpacity>
+              </View>
+            )}
+          </View>
+
+          {/* Restart Quiz */}
+          <TouchableOpacity
+            onPress={handleRestart}
+            style={[styles.restartButton, { borderColor: theme.border }]}
+          >
+            <Text style={[styles.restartButtonText, { color: theme.text }]}>
+              🔄 Take Quiz Again
+            </Text>
+          </TouchableOpacity>
+        </View>
+      </ScrollView>
+    );
+  }
+
+  // Quiz Questions View
+  const question = QUIZ_QUESTIONS[currentQuestion];
+
+  return (
+    <ScrollView style={[styles.quizContainer, { backgroundColor: theme.background }]}>
+      <View style={styles.quizContent}>
+        {/* Back Button */}
+        <TouchableOpacity
+          onPress={onBack}
+          style={[styles.backButton, { borderColor: theme.border }]}
+          accessibilityRole="button"
+          accessibilityLabel="Back to home"
+        >
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+        </TouchableOpacity>
+
+        {/* Quiz Header */}
+        <View style={styles.quizHeader}>
+          <Text style={[styles.quizTitle, { color: theme.text }]}>
+            🥁 Find Your Drummer Match
+          </Text>
+          <Text style={[styles.quizSubtitle, { color: theme.secondaryText }]}>
+            Answer {QUIZ_QUESTIONS.length} questions to discover which legendary metal drummer matches your style!
+          </Text>
+        </View>
+
+        {/* Progress Bar */}
+        <View style={styles.progressContainer}>
+          <View style={[styles.progressBar, { backgroundColor: theme.border }]}>
+            <View 
+              style={[styles.progressFill, { width: `${progress}%`, backgroundColor: '#dc2626' }]} 
+            />
+          </View>
+          <Text style={[styles.progressText, { color: theme.secondaryText }]}>
+            Question {currentQuestion + 1} of {QUIZ_QUESTIONS.length}
+          </Text>
+        </View>
+
+        {/* Question */}
+        <View style={styles.questionSection}>
+          <Text style={[styles.questionText, { color: theme.text }]}>
+            {question.question}
+          </Text>
+        </View>
+
+        {/* Options */}
+        <View style={styles.optionsContainer}>
+          {question.options.map((option) => {
+            const isSelected = answers[question.id] === option.value;
+            return (
+              <TouchableOpacity
+                key={option.value}
+                onPress={() => handleAnswer(question.id, option.value)}
+                style={[
+                  styles.optionCard,
+                  { 
+                    backgroundColor: isSelected ? '#dc262620' : theme.card,
+                    borderColor: isSelected ? '#dc2626' : theme.border,
+                  }
+                ]}
+                accessibilityRole="button"
+                accessibilityState={{ selected: isSelected }}
+              >
+                <Text style={[styles.optionLabel, { color: theme.text }]}>
+                  {option.label}
+                </Text>
+                <Text style={[styles.optionDescription, { color: theme.secondaryText }]}>
+                  {option.description}
+                </Text>
+              </TouchableOpacity>
+            );
+          })}
+        </View>
+
+        {/* Navigation */}
+        {currentQuestion > 0 && (
+          <TouchableOpacity
+            onPress={handlePrevious}
+            style={[styles.prevButton, { borderColor: theme.border }]}
+          >
+            <Text style={[styles.prevButtonText, { color: theme.secondaryText }]}>
+              ← Previous Question
+            </Text>
+          </TouchableOpacity>
+        )}
+      </View>
+    </ScrollView>
+  );
+}
+
 // Newsletter Signup Footer Component
 function NewsletterFooter({ theme }) {
   const { width } = useWindowDimensions();
@@ -2198,6 +2896,7 @@ function AppContent() {
   const [loadingDrummers, setLoadingDrummers] = useState(true);
   const [drummersError, setDrummersError] = useState(null);
   const [showCompare, setShowCompare] = useState(() => isComparePage());
+  const [showQuiz, setShowQuiz] = useState(() => isQuizPage());
   const [selectedGear, setSelectedGear] = useState(null);
   const [loadingGear, setLoadingGear] = useState(false);
 
@@ -2447,12 +3146,20 @@ function AppContent() {
         }
       } else if (isComparePage()) {
         setShowCompare(true);
+        setShowQuiz(false);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+      } else if (isQuizPage()) {
+        setShowQuiz(true);
+        setShowCompare(false);
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
       } else {
         // Back to home page
         setShowCompare(false);
+        setShowQuiz(false);
         setSelectedGear(null);
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
@@ -2552,6 +3259,7 @@ function AppContent() {
     setSelectedDrummerId(null);
     setSelectedDrummer(null);
     setShowCompare(false);
+    setShowQuiz(false);
     setSelectedGear(null);
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
       window.history.pushState({}, '', '/');
@@ -2568,6 +3276,7 @@ function AppContent() {
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setShowCompare(false);
+        setShowQuiz(false);
         if (Platform.OS === 'web' && typeof window !== 'undefined') {
           window.history.pushState({}, '', `/gear/${slug}`);
         }
@@ -2581,10 +3290,22 @@ function AppContent() {
 
   const handleNavigateToCompare = () => {
     setShowCompare(true);
+    setShowQuiz(false);
     setSelectedDrummer(null);
     setSelectedDrummerId(null);
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
       window.history.pushState({}, '', '/compare');
+    }
+  };
+
+  const handleNavigateToQuiz = () => {
+    setShowQuiz(true);
+    setShowCompare(false);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/quiz');
     }
   };
 
@@ -2623,6 +3344,16 @@ function AppContent() {
         />
       );
     }
+    if (showQuiz) {
+      return (
+        <QuizView
+          theme={theme}
+          onBack={handleBack}
+          drummers={drummers}
+          onSelectDrummer={handleSelectDrummer}
+        />
+      );
+    }
     if (selectedDrummer) {
       return <DrummerDetail drummer={selectedDrummer} theme={theme} onBack={handleBack} onSelectGear={handleSelectGear} />;
     }
@@ -2636,6 +3367,7 @@ function AppContent() {
           loading={loadingDrummers}
           error={drummersError}
           onNavigateToCompare={handleNavigateToCompare}
+          onNavigateToQuiz={handleNavigateToQuiz}
           filters={filters}
           onFilterChange={handleFilterChange}
           searchValue={searchValue}
@@ -2653,7 +3385,7 @@ function AppContent() {
 
   return (
     <View style={[styles.container, { backgroundColor: theme.background }]}>
-      {!selectedDrummer && !showCompare && !selectedGear && <SEOHead drummers={drummers} filters={filters} />}
+      {!selectedDrummer && !showCompare && !showQuiz && !selectedGear && <SEOHead drummers={drummers} filters={filters} />}
       <View style={styles.header} accessibilityRole="banner">
         <Text style={[styles.title, { color: theme.text }]} accessibilityRole="header">
           Metal Drummer Gear
@@ -3082,15 +3814,283 @@ const styles = StyleSheet.create({
   listWrapper: {
     flex: 1,
   },
-  compareButton: {
+  actionButtonsRow: {
+    flexDirection: 'row',
     marginHorizontal: 20,
     marginBottom: 16,
+    gap: 12,
+  },
+  compareButton: {
+    flex: 1,
     padding: 14,
     borderRadius: 8,
     borderWidth: 1,
     alignItems: 'center',
   },
   compareButtonText: {
+    fontSize: 16,
+    fontWeight: '600',
+  },
+  quizButton: {
+    flex: 1,
+    padding: 14,
+    borderRadius: 8,
+    borderWidth: 1,
+    alignItems: 'center',
+  },
+  quizButtonText: {
+    fontSize: 16,
+    fontWeight: '600',
+  },
+  // Quiz Styles
+  quizContainer: {
+    flex: 1,
+  },
+  quizContent: {
+    padding: 20,
+    maxWidth: 600,
+    alignSelf: 'center',
+    width: '100%',
+  },
+  quizHeader: {
+    marginBottom: 24,
+    alignItems: 'center',
+  },
+  quizTitle: {
+    fontSize: 28,
+    fontWeight: 'bold',
+    marginBottom: 12,
+    textAlign: 'center',
+  },
+  quizSubtitle: {
+    fontSize: 16,
+    textAlign: 'center',
+    lineHeight: 24,
+  },
+  progressContainer: {
+    marginBottom: 24,
+  },
+  progressBar: {
+    height: 8,
+    borderRadius: 4,
+    overflow: 'hidden',
+    marginBottom: 8,
+  },
+  progressFill: {
+    height: '100%',
+    borderRadius: 4,
+  },
+  progressText: {
+    fontSize: 14,
+    textAlign: 'center',
+  },
+  questionSection: {
+    marginBottom: 24,
+  },
+  questionText: {
+    fontSize: 22,
+    fontWeight: '600',
+    textAlign: 'center',
+  },
+  optionsContainer: {
+    gap: 12,
+  },
+  optionCard: {
+    padding: 16,
+    borderRadius: 12,
+    borderWidth: 2,
+  },
+  optionLabel: {
+    fontSize: 18,
+    fontWeight: '600',
+    marginBottom: 4,
+  },
+  optionDescription: {
+    fontSize: 14,
+  },
+  prevButton: {
+    marginTop: 24,
+    padding: 12,
+    borderRadius: 8,
+    borderWidth: 1,
+    alignItems: 'center',
+  },
+  prevButtonText: {
+    fontSize: 14,
+  },
+  // Quiz Results Styles
+  resultsHeader: {
+    marginBottom: 24,
+    alignItems: 'center',
+  },
+  resultsTitle: {
+    fontSize: 28,
+    fontWeight: 'bold',
+    textAlign: 'center',
+  },
+  topMatchCard: {
+    padding: 24,
+    borderRadius: 16,
+    borderWidth: 1,
+    alignItems: 'center',
+    marginBottom: 24,
+    position: 'relative',
+  },
+  matchPercentBadge: {
+    position: 'absolute',
+    top: -12,
+    right: 16,
+    backgroundColor: '#dc2626',
+    paddingHorizontal: 12,
+    paddingVertical: 6,
+    borderRadius: 20,
+  },
+  matchPercentText: {
+    color: '#ffffff',
+    fontWeight: 'bold',
+    fontSize: 14,
+  },
+  topMatchImage: {
+    width: 120,
+    height: 120,
+    borderRadius: 60,
+    marginBottom: 16,
+  },
+  topMatchName: {
+    fontSize: 24,
+    fontWeight: 'bold',
+    marginBottom: 4,
+    textAlign: 'center',
+  },
+  topMatchBand: {
+    fontSize: 18,
+    marginBottom: 12,
+    textAlign: 'center',
+  },
+  matchReasons: {
+    fontSize: 14,
+    marginBottom: 16,
+    textAlign: 'center',
+  },
+  viewProfileButton: {
+    paddingHorizontal: 24,
+    paddingVertical: 12,
+    borderRadius: 8,
+  },
+  viewProfileButtonText: {
+    color: '#ffffff',
+    fontWeight: '600',
+    fontSize: 16,
+  },
+  shareSection: {
+    marginBottom: 24,
+    alignItems: 'center',
+  },
+  shareTitle: {
+    fontSize: 18,
+    fontWeight: '600',
+    marginBottom: 12,
+  },
+  shareButtons: {
+    flexDirection: 'row',
+    gap: 12,
+  },
+  shareButton: {
+    paddingHorizontal: 16,
+    paddingVertical: 10,
+    borderRadius: 8,
+  },
+  shareButtonText: {
+    color: '#ffffff',
+    fontWeight: '600',
+    fontSize: 14,
+  },
+  runnerUpsSection: {
+    marginBottom: 24,
+  },
+  runnerUpsTitle: {
+    fontSize: 18,
+    fontWeight: '600',
+    marginBottom: 12,
+    textAlign: 'center',
+  },
+  runnerUpCard: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    padding: 12,
+    borderRadius: 12,
+    borderWidth: 1,
+    marginBottom: 8,
+  },
+  runnerUpImage: {
+    width: 48,
+    height: 48,
+    borderRadius: 24,
+    marginRight: 12,
+  },
+  runnerUpInfo: {
+    flex: 1,
+  },
+  runnerUpName: {
+    fontSize: 16,
+    fontWeight: '600',
+  },
+  runnerUpBand: {
+    fontSize: 14,
+  },
+  runnerUpPercent: {
+    fontSize: 16,
+    fontWeight: '600',
+  },
+  quizNewsletter: {
+    padding: 20,
+    borderRadius: 12,
+    borderWidth: 1,
+    marginBottom: 24,
+    alignItems: 'center',
+  },
+  quizNewsletterTitle: {
+    fontSize: 18,
+    fontWeight: '600',
+    marginBottom: 8,
+    textAlign: 'center',
+  },
+  quizNewsletterSubtitle: {
+    fontSize: 14,
+    textAlign: 'center',
+    marginBottom: 16,
+  },
+  quizNewsletterForm: {
+    flexDirection: 'row',
+    gap: 8,
+    width: '100%',
+    maxWidth: 400,
+  },
+  quizNewsletterInput: {
+    flex: 1,
+    padding: 12,
+    borderRadius: 8,
+    borderWidth: 1,
+    fontSize: 16,
+  },
+  quizNewsletterButton: {
+    paddingHorizontal: 20,
+    paddingVertical: 12,
+    borderRadius: 8,
+  },
+  quizNewsletterButtonText: {
+    color: '#ffffff',
+    fontWeight: '600',
+    fontSize: 16,
+  },
+  restartButton: {
+    padding: 14,
+    borderRadius: 8,
+    borderWidth: 1,
+    alignItems: 'center',
+    marginBottom: 40,
+  },
+  restartButtonText: {
     fontSize: 16,
     fontWeight: '600',
   },
@@ -3894,5 +4894,254 @@ const styles = StyleSheet.create({
     marginTop: 8,
     width: '100%',
     textAlign: 'center',
+  },
+  // Quiz styles
+  quizButton: {
+    marginHorizontal: 20,
+    marginBottom: 12,
+    padding: 14,
+    borderRadius: 8,
+    borderWidth: 2,
+    alignItems: 'center',
+    flexDirection: 'row',
+    justifyContent: 'center',
+    gap: 8,
+  },
+  quizButtonText: {
+    fontSize: 16,
+    fontWeight: '700',
+  },
+  quizContainer: {
+    flex: 1,
+  },
+  quizContent: {
+    padding: 20,
+    maxWidth: 600,
+    width: '100%',
+    alignSelf: 'center',
+  },
+  quizHeader: {
+    marginBottom: 24,
+  },
+  quizTitle: {
+    fontSize: 28,
+    fontWeight: 'bold',
+    textAlign: 'center',
+    marginBottom: 8,
+  },
+  quizSubtitle: {
+    fontSize: 16,
+    textAlign: 'center',
+    lineHeight: 24,
+  },
+  progressContainer: {
+    marginBottom: 24,
+  },
+  progressBar: {
+    height: 8,
+    borderRadius: 4,
+    overflow: 'hidden',
+    marginBottom: 8,
+  },
+  progressFill: {
+    height: '100%',
+    borderRadius: 4,
+    transition: 'width 0.3s ease',
+  },
+  progressText: {
+    fontSize: 14,
+    textAlign: 'center',
+  },
+  questionSection: {
+    marginBottom: 20,
+  },
+  questionText: {
+    fontSize: 22,
+    fontWeight: '600',
+    textAlign: 'center',
+    lineHeight: 32,
+  },
+  optionsContainer: {
+    gap: 12,
+    marginBottom: 20,
+  },
+  optionCard: {
+    padding: 16,
+    borderRadius: 12,
+    borderWidth: 2,
+    minHeight: 72,
+    justifyContent: 'center',
+  },
+  optionLabel: {
+    fontSize: 18,
+    fontWeight: '600',
+    marginBottom: 4,
+  },
+  optionDescription: {
+    fontSize: 14,
+    lineHeight: 20,
+  },
+  prevButton: {
+    padding: 12,
+    borderRadius: 8,
+    borderWidth: 1,
+    alignItems: 'center',
+    marginTop: 8,
+  },
+  prevButtonText: {
+    fontSize: 14,
+  },
+  // Quiz Results styles
+  resultsHeader: {
+    marginBottom: 24,
+    alignItems: 'center',
+  },
+  resultsTitle: {
+    fontSize: 32,
+    fontWeight: 'bold',
+    textAlign: 'center',
+  },
+  topMatchCard: {
+    padding: 24,
+    borderRadius: 16,
+    borderWidth: 2,
+    alignItems: 'center',
+    marginBottom: 24,
+    position: 'relative',
+  },
+  matchPercentBadge: {
+    position: 'absolute',
+    top: -12,
+    backgroundColor: '#22c55e',
+    paddingHorizontal: 16,
+    paddingVertical: 6,
+    borderRadius: 20,
+  },
+  matchPercentText: {
+    color: '#ffffff',
+    fontWeight: 'bold',
+    fontSize: 14,
+  },
+  topMatchImage: {
+    width: 150,
+    height: 150,
+    borderRadius: 75,
+    marginTop: 12,
+    marginBottom: 16,
+  },
+  topMatchName: {
+    fontSize: 28,
+    fontWeight: 'bold',
+    textAlign: 'center',
+    marginBottom: 4,
+  },
+  topMatchBand: {
+    fontSize: 18,
+    textAlign: 'center',
+    marginBottom: 12,
+  },
+  matchReasons: {
+    fontSize: 14,
+    textAlign: 'center',
+    fontStyle: 'italic',
+    marginBottom: 16,
+  },
+  viewProfileButton: {
+    paddingHorizontal: 24,
+    paddingVertical: 14,
+    borderRadius: 8,
+    marginTop: 8,
+  },
+  viewProfileButtonText: {
+    color: '#ffffff',
+    fontSize: 16,
+    fontWeight: '600',
+  },
+  shareSection: {
+    marginBottom: 24,
+  },
+  runnerUpsSection: {
+    marginBottom: 24,
+  },
+  runnerUpsTitle: {
+    fontSize: 20,
+    fontWeight: '600',
+    marginBottom: 12,
+  },
+  runnerUpCard: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    padding: 12,
+    borderRadius: 8,
+    borderWidth: 1,
+    marginBottom: 8,
+  },
+  runnerUpImage: {
+    width: 50,
+    height: 50,
+    borderRadius: 25,
+    marginRight: 12,
+  },
+  runnerUpInfo: {
+    flex: 1,
+  },
+  runnerUpName: {
+    fontSize: 16,
+    fontWeight: '600',
+  },
+  runnerUpBand: {
+    fontSize: 14,
+  },
+  runnerUpPercent: {
+    fontSize: 16,
+    fontWeight: '600',
+  },
+  quizNewsletter: {
+    padding: 20,
+    borderRadius: 12,
+    borderWidth: 1,
+    marginBottom: 20,
+  },
+  quizNewsletterTitle: {
+    fontSize: 18,
+    fontWeight: 'bold',
+    textAlign: 'center',
+    marginBottom: 8,
+  },
+  quizNewsletterSubtitle: {
+    fontSize: 14,
+    textAlign: 'center',
+    marginBottom: 16,
+  },
+  quizNewsletterForm: {
+    flexDirection: 'row',
+    gap: 8,
+  },
+  quizNewsletterInput: {
+    flex: 1,
+    paddingHorizontal: 16,
+    paddingVertical: 12,
+    borderRadius: 8,
+    borderWidth: 1,
+    fontSize: 16,
+  },
+  quizNewsletterButton: {
+    paddingHorizontal: 20,
+    paddingVertical: 12,
+    borderRadius: 8,
+  },
+  quizNewsletterButtonText: {
+    color: '#ffffff',
+    fontWeight: '600',
+  },
+  restartButton: {
+    padding: 16,
+    borderRadius: 8,
+    borderWidth: 1,
+    alignItems: 'center',
+    marginBottom: 40,
+  },
+  restartButtonText: {
+    fontSize: 16,
   },
 });

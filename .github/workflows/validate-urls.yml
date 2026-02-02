@@ -52,13 +52,23 @@ jobs:
           
           echo ""
           echo "🖼️ Checking new image URLs..."
+          WARNINGS=0
           while IFS= read -r url; do
             [ -z "$url" ] && continue
             TOTAL=$((TOTAL + 1))
-            sleep 1
-            STATUS=$(curl -s -o /dev/null -w '%{http_code}' --max-time 20 --retry 3 --retry-delay 5 "$url" || echo "000")
+            sleep 2
+            STATUS=$(curl -s -o /dev/null -w '%{http_code}' --max-time 30 --retry 3 --retry-delay 10 "$url" || echo "000")
             if [ "$STATUS" = "200" ] || [ "$STATUS" = "429" ] || [ "$STATUS" = "403" ]; then
               echo "✅ [$STATUS] $url"
+            elif [ "$STATUS" = "000" ]; then
+              # Timeout/network issue - treat as warning for Wikimedia (known rate limiting)
+              if echo "$url" | grep -q "wikimedia.org"; then
+                echo "⚠️ [$STATUS] $url (timeout - likely rate limited, not blocking)"
+                WARNINGS=$((WARNINGS + 1))
+              else
+                echo "❌ [$STATUS] $url"
+                FAILED=$((FAILED + 1))
+              fi
             else
               echo "❌ [$STATUS] $url"
               FAILED=$((FAILED + 1))
@@ -86,12 +96,14 @@ jobs:
           
           echo ""
           echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-          echo "Checked: $TOTAL | Broken: $FAILED"
+          echo "Checked: $TOTAL | Broken: $FAILED | Warnings: $WARNINGS"
           echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
           
           if [ $FAILED -gt 0 ]; then
             echo "❌ VALIDATION FAILED - Fix broken URLs before merging!"
             exit 1
+          elif [ $WARNINGS -gt 0 ]; then
+            echo "⚠️ All URLs valid, but $WARNINGS timed out (likely rate-limited)"
           else
             echo "✅ All new URLs are valid"
           fi

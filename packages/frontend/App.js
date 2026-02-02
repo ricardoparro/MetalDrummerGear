@@ -747,6 +747,53 @@ function SEOHead({ drummer, drummers = [], filters = {} }) {
 }
 
 function DrummerCard({ drummer, theme, onPress }) {
+  const cardContent = (
+    <View style={styles.cardContent}>
+      <View>
+        <ImageWithFallback
+          source={{ uri: drummer.image }}
+          style={styles.cardImage}
+          accessibilityLabel={`Photo of ${drummer.name}`}
+        />
+      </View>
+      <View style={styles.cardText}>
+        <Text style={[styles.drummerName, { color: theme.text }]}>{drummer.name}</Text>
+        <Text style={[styles.drummerBand, { color: theme.secondaryText }]}>{drummer.band}</Text>
+        <GenreTags genres={drummer.genres} size="small" />
+      </View>
+    </View>
+  );
+
+  // Use actual anchor tag on web for SEO and accessibility
+  if (Platform.OS === 'web') {
+    const drummerUrl = `/drummer/${drummer.id}`;
+    return (
+      <a
+        href={drummerUrl}
+        onClick={(e) => {
+          e.preventDefault();
+          onPress();
+        }}
+        style={{
+          textDecoration: 'none',
+          display: 'block',
+          backgroundColor: theme.card,
+          borderColor: theme.border,
+          borderWidth: 1,
+          borderStyle: 'solid',
+          borderRadius: 12,
+          marginBottom: 16,
+          overflow: 'hidden',
+          cursor: 'pointer',
+        }}
+        aria-label={`View ${drummer.name}'s gear details`}
+      >
+        {cardContent}
+      </a>
+    );
+  }
+
+  // Use TouchableOpacity on native platforms
   return (
     <TouchableOpacity
       onPress={onPress}
@@ -754,20 +801,7 @@ function DrummerCard({ drummer, theme, onPress }) {
       accessibilityRole="button"
       accessibilityLabel={`View ${drummer.name}'s gear details`}
     >
-      <View style={styles.cardContent}>
-        <TouchableOpacity onPress={onPress} accessibilityRole="image">
-          <ImageWithFallback
-            source={{ uri: drummer.image }}
-            style={styles.cardImage}
-            accessibilityLabel={`Photo of ${drummer.name}`}
-          />
-        </TouchableOpacity>
-        <View style={styles.cardText}>
-          <Text style={[styles.drummerName, { color: theme.text }]}>{drummer.name}</Text>
-          <Text style={[styles.drummerBand, { color: theme.secondaryText }]}>{drummer.band}</Text>
-          <GenreTags genres={drummer.genres} size="small" />
-        </View>
-      </View>
+      {cardContent}
     </TouchableOpacity>
   );
 }

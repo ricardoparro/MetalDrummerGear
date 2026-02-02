@@ -1524,7 +1524,10 @@ function DrummerList({
   }
 
   const handleClearAllFilters = () => {
+    // Clear all filters in one call - this updates URL to '/'
     onFilterChange({ search: '', genre: '', brand: '', era: '' });
+    // Clear search input visual state (handleSearchClear now uses functional update
+    // so it won't overwrite filters with stale closure values)
     onSearchClear();
   };
 
@@ -2177,8 +2180,13 @@ function AppContent() {
   const handleSearchClear = useCallback(() => {
     setSearchValue('');
     setShowSuggestions(false);
-    handleFilterChange({ ...filters, search: '' });
-  }, [filters, handleFilterChange]);
+    // Use functional update to get latest filters, avoiding stale closure
+    setFilters(currentFilters => {
+      const newFilters = { ...currentFilters, search: '' };
+      updateFiltersURL(newFilters);
+      return newFilters;
+    });
+  }, []);
 
   // Handle suggestion selection
   const handleSelectSuggestion = useCallback((suggestion) => {

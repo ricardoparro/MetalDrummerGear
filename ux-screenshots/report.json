@@ -1,0 +1,32 @@
+{
+  "date": "2026-02-02T10:23:02.336Z",
+  "issues": [
+    {
+      "viewport": "mobile",
+      "page": "homepage",
+      "url": "https://metalforge.io/",
+      "issues": [
+        "Small touch targets: INPUT (40x20)"
+      ],
+      "screenshot": "ux-screenshots/mobile-homepage.png"
+    },
+    {
+      "viewport": "mobile",
+      "page": "compare",
+      "url": "https://metalforge.io/compare",
+      "issues": [
+        "Small touch targets: INPUT (40x20)"
+      ],
+      "screenshot": "ux-screenshots/mobile-compare.png"
+    },
+    {
+      "viewport": "mobile",
+      "page": "drummer-lars",
+      "url": "https://metalforge.io/drummer/lars-ulrich",
+      "issues": [
+        "Small touch targets: INPUT (40x20)"
+      ],
+      "screenshot": "ux-screenshots/mobile-drummer-lars.png"
+    }
+  ]
+}

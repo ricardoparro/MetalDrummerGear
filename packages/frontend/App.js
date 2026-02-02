@@ -1737,10 +1737,12 @@ function isComparePage() {
   return window.location.pathname === '/compare' || window.location.pathname.startsWith('/compare?');
 }
 
-// Check if we're on the quiz page based on URL
+// Check if we're on the quiz page based on URL (supports /quiz and /find-your-match)
 function isQuizPage() {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
-  return window.location.pathname === '/quiz' || window.location.pathname.startsWith('/quiz');
+  const pathname = window.location.pathname;
+  return pathname === '/quiz' || pathname.startsWith('/quiz?') || 
+         pathname === '/find-your-match' || pathname.startsWith('/find-your-match?');
 }
 
 // Check if we're on a gear page based on URL
@@ -2309,6 +2311,38 @@ const DRUMMER_PROFILES = {
     brands: ['any'],
     personalities: ['pioneer', 'perfectionist'],
     eras: ['80s'],
+  },
+  22: { // Art Cruz
+    genres: ['groove', 'thrash'],
+    styles: ['power', 'groove'],
+    kits: ['massive'],
+    brands: ['any'],
+    personalities: ['servant', 'perfectionist'],
+    eras: ['2010s'],
+  },
+  23: { // Arin Ilejay
+    genres: ['thrash', 'progressive'],
+    styles: ['power', 'versatile'],
+    kits: ['classic', 'massive'],
+    brands: ['mapex'],
+    personalities: ['servant', 'perfectionist'],
+    eras: ['2010s'],
+  },
+  24: { // Navene Koperweis
+    genres: ['progressive', 'death'],
+    styles: ['technical', 'groove'],
+    kits: ['hybrid', 'massive'],
+    brands: ['dw'],
+    personalities: ['innovator', 'perfectionist'],
+    eras: ['2010s'],
+  },
+  25: { // Alex Bent
+    genres: ['thrash', 'death'],
+    styles: ['technical', 'speed'],
+    kits: ['massive'],
+    brands: ['pearl'],
+    personalities: ['perfectionist', 'servant'],
+    eras: ['2010s'],
   },
 };
 
@@ -4894,254 +4928,5 @@ const styles = StyleSheet.create({
     marginTop: 8,
     width: '100%',
     textAlign: 'center',
-  },
-  // Quiz styles
-  quizButton: {
-    marginHorizontal: 20,
-    marginBottom: 12,
-    padding: 14,
-    borderRadius: 8,
-    borderWidth: 2,
-    alignItems: 'center',
-    flexDirection: 'row',
-    justifyContent: 'center',
-    gap: 8,
-  },
-  quizButtonText: {
-    fontSize: 16,
-    fontWeight: '700',
-  },
-  quizContainer: {
-    flex: 1,
-  },
-  quizContent: {
-    padding: 20,
-    maxWidth: 600,
-    width: '100%',
-    alignSelf: 'center',
-  },
-  quizHeader: {
-    marginBottom: 24,
-  },
-  quizTitle: {
-    fontSize: 28,
-    fontWeight: 'bold',
-    textAlign: 'center',
-    marginBottom: 8,
-  },
-  quizSubtitle: {
-    fontSize: 16,
-    textAlign: 'center',
-    lineHeight: 24,
-  },
-  progressContainer: {
-    marginBottom: 24,
-  },
-  progressBar: {
-    height: 8,
-    borderRadius: 4,
-    overflow: 'hidden',
-    marginBottom: 8,
-  },
-  progressFill: {
-    height: '100%',
-    borderRadius: 4,
-    transition: 'width 0.3s ease',
-  },
-  progressText: {
-    fontSize: 14,
-    textAlign: 'center',
-  },
-  questionSection: {
-    marginBottom: 20,
-  },
-  questionText: {
-    fontSize: 22,
-    fontWeight: '600',
-    textAlign: 'center',
-    lineHeight: 32,
-  },
-  optionsContainer: {
-    gap: 12,
-    marginBottom: 20,
-  },
-  optionCard: {
-    padding: 16,
-    borderRadius: 12,
-    borderWidth: 2,
-    minHeight: 72,
-    justifyContent: 'center',
-  },
-  optionLabel: {
-    fontSize: 18,
-    fontWeight: '600',
-    marginBottom: 4,
-  },
-  optionDescription: {
-    fontSize: 14,
-    lineHeight: 20,
-  },
-  prevButton: {
-    padding: 12,
-    borderRadius: 8,
-    borderWidth: 1,
-    alignItems: 'center',
-    marginTop: 8,
-  },
-  prevButtonText: {
-    fontSize: 14,
-  },
-  // Quiz Results styles
-  resultsHeader: {
-    marginBottom: 24,
-    alignItems: 'center',
-  },
-  resultsTitle: {
-    fontSize: 32,
-    fontWeight: 'bold',
-    textAlign: 'center',
-  },
-  topMatchCard: {
-    padding: 24,
-    borderRadius: 16,
-    borderWidth: 2,
-    alignItems: 'center',
-    marginBottom: 24,
-    position: 'relative',
-  },
-  matchPercentBadge: {
-    position: 'absolute',
-    top: -12,
-    backgroundColor: '#22c55e',
-    paddingHorizontal: 16,
-    paddingVertical: 6,
-    borderRadius: 20,
-  },
-  matchPercentText: {
-    color: '#ffffff',
-    fontWeight: 'bold',
-    fontSize: 14,
-  },
-  topMatchImage: {
-    width: 150,
-    height: 150,
-    borderRadius: 75,
-    marginTop: 12,
-    marginBottom: 16,
-  },
-  topMatchName: {
-    fontSize: 28,
-    fontWeight: 'bold',
-    textAlign: 'center',
-    marginBottom: 4,
-  },
-  topMatchBand: {
-    fontSize: 18,
-    textAlign: 'center',
-    marginBottom: 12,
-  },
-  matchReasons: {
-    fontSize: 14,
-    textAlign: 'center',
-    fontStyle: 'italic',
-    marginBottom: 16,
-  },
-  viewProfileButton: {
-    paddingHorizontal: 24,
-    paddingVertical: 14,
-    borderRadius: 8,
-    marginTop: 8,
-  },
-  viewProfileButtonText: {
-    color: '#ffffff',
-    fontSize: 16,
-    fontWeight: '600',
-  },
-  shareSection: {
-    marginBottom: 24,
-  },
-  runnerUpsSection: {
-    marginBottom: 24,
-  },
-  runnerUpsTitle: {
-    fontSize: 20,
-    fontWeight: '600',
-    marginBottom: 12,
-  },
-  runnerUpCard: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    padding: 12,
-    borderRadius: 8,
-    borderWidth: 1,
-    marginBottom: 8,
-  },
-  runnerUpImage: {
-    width: 50,
-    height: 50,
-    borderRadius: 25,
-    marginRight: 12,
-  },
-  runnerUpInfo: {
-    flex: 1,
-  },
-  runnerUpName: {
-    fontSize: 16,
-    fontWeight: '600',
-  },
-  runnerUpBand: {
-    fontSize: 14,
-  },
-  runnerUpPercent: {
-    fontSize: 16,
-    fontWeight: '600',
-  },
-  quizNewsletter: {
-    padding: 20,
-    borderRadius: 12,
-    borderWidth: 1,
-    marginBottom: 20,
-  },
-  quizNewsletterTitle: {
-    fontSize: 18,
-    fontWeight: 'bold',
-    textAlign: 'center',
-    marginBottom: 8,
-  },
-  quizNewsletterSubtitle: {
-    fontSize: 14,
-    textAlign: 'center',
-    marginBottom: 16,
-  },
-  quizNewsletterForm: {
-    flexDirection: 'row',
-    gap: 8,
-  },
-  quizNewsletterInput: {
-    flex: 1,
-    paddingHorizontal: 16,
-    paddingVertical: 12,
-    borderRadius: 8,
-    borderWidth: 1,
-    fontSize: 16,
-  },
-  quizNewsletterButton: {
-    paddingHorizontal: 20,
-    paddingVertical: 12,
-    borderRadius: 8,
-  },
-  quizNewsletterButtonText: {
-    color: '#ffffff',
-    fontWeight: '600',
-  },
-  restartButton: {
-    padding: 16,
-    borderRadius: 8,
-    borderWidth: 1,
-    alignItems: 'center',
-    marginBottom: 40,
-  },
-  restartButtonText: {
-    fontSize: 16,
   },
 });

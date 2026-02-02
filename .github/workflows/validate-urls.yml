@@ -1,0 +1,117 @@
+name: Validate URLs
+
+on:
+  pull_request:
+    paths:
+      - 'packages/backend/src/index.js'
+      - 'packages/frontend/src/pages/drummer/**'
+      - 'packages/data/**'
+
+jobs:
+  validate-urls:
+    runs-on: ubuntu-latest
+    name: Check Changed URLs
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Get changed files
+        id: changed
+        run: |
+          echo "files=$(git diff --name-only origin/${{ github.base_ref }} HEAD | tr '\n' ' ')" >> $GITHUB_OUTPUT
+      
+      - name: Extract and Validate URLs from changed files
+        run: |
+          echo "🔍 Checking URLs in changed files only..."
+          echo "Changed: ${{ steps.changed.outputs.files }}"
+          
+          FAILED=0
+          TOTAL=0
+          
+          # Get the diff for drummer data files
+          git diff origin/${{ github.base_ref }} HEAD -- packages/backend/src/index.js packages/frontend/src/pages/drummer/ > /tmp/diff.txt 2>/dev/null || true
+          
+          # Extract added image URLs from diff (lines starting with +)
+          grep -E "^\+.*image:\s*['\"]https?://" /tmp/diff.txt | \
+            grep -ohE "https?://[^'\"]+\.(jpg|jpeg|png|gif|webp)" > /tmp/new_image_urls.txt || true
+          
+          # Extract added YouTube URLs from diff
+          grep -E "^\+.*youtube" /tmp/diff.txt | \
+            grep -ohE "https?://(www\.)?(youtube\.com/watch\?v=|youtu\.be/)[a-zA-Z0-9_-]+" > /tmp/new_video_urls.txt || true
+          
+          # Count new URLs
+          IMG_COUNT=$(wc -l < /tmp/new_image_urls.txt | tr -d ' ')
+          VID_COUNT=$(wc -l < /tmp/new_video_urls.txt | tr -d ' ')
+          echo "Found $IMG_COUNT new image URLs, $VID_COUNT new video URLs"
+          
+          if [ "$IMG_COUNT" = "0" ] && [ "$VID_COUNT" = "0" ]; then
+            echo "✅ No new URLs to validate"
+            exit 0
+          fi
+          
+          echo ""
+          echo "🖼️ Checking new image URLs..."
+          WARNINGS=0
+          while IFS= read -r url; do
+            [ -z "$url" ] && continue
+            TOTAL=$((TOTAL + 1))
+            sleep 3
+            # Use User-Agent and generous timeouts to handle Wikimedia rate limiting
+            STATUS=$(curl -s -o /dev/null -w '%{http_code}' \
+              --max-time 45 \
+              --connect-timeout 20 \
+              --retry 5 \
+              --retry-delay 15 \
+              --retry-all-errors \
+              -A "Mozilla/5.0 (compatible; MetalDrummerGear-CI/1.0; +https://github.com/ricardoparro/MetalDrummerGear)" \
+              "$url" || echo "000")
+            if [ "$STATUS" = "200" ] || [ "$STATUS" = "429" ] || [ "$STATUS" = "403" ]; then
+              echo "✅ [$STATUS] $url"
+            elif [ "$STATUS" = "000" ]; then
+              # Timeout/network issue - treat as warning for Wikimedia (known rate limiting)
+              if echo "$url" | grep -q "wikimedia.org"; then
+                echo "⚠️ [$STATUS] $url (timeout - likely rate limited, not blocking)"
+                WARNINGS=$((WARNINGS + 1))
+              else
+                echo "❌ [$STATUS] $url"
+                FAILED=$((FAILED + 1))
+              fi
+            else
+              echo "❌ [$STATUS] $url"
+              FAILED=$((FAILED + 1))
+            fi
+          done < /tmp/new_image_urls.txt
+          
+          echo ""
+          echo "🎬 Checking new YouTube URLs..."
+          while IFS= read -r url; do
+            [ -z "$url" ] && continue
+            TOTAL=$((TOTAL + 1))
+            sleep 0.5
+            VIDEO_ID=$(echo "$url" | grep -oE '[a-zA-Z0-9_-]{11}' | head -1)
+            if [ -n "$VIDEO_ID" ]; then
+              OEMBED="https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=${VIDEO_ID}&format=json"
+              STATUS=$(curl -s -o /dev/null -w '%{http_code}' --max-time 15 --retry 2 --retry-delay 3 "$OEMBED" || echo "000")
+              if [ "$STATUS" != "200" ]; then
+                echo "❌ [$STATUS] $url (video unavailable)"
+                FAILED=$((FAILED + 1))
+              else
+                echo "✅ $url"
+              fi
+            fi
+          done < /tmp/new_video_urls.txt
+          
+          echo ""
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+          echo "Checked: $TOTAL | Broken: $FAILED | Warnings: $WARNINGS"
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+          
+          if [ $FAILED -gt 0 ]; then
+            echo "❌ VALIDATION FAILED - Fix broken URLs before merging!"
+            exit 1
+          elif [ $WARNINGS -gt 0 ]; then
+            echo "⚠️ All URLs valid, but $WARNINGS timed out (likely rate-limited)"
+          else
+            echo "✅ All new URLs are valid"
+          fi

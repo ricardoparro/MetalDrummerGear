@@ -838,7 +838,7 @@ const drummers = [
     genres: ['Thrash Metal', 'Groove Metal'],
     country: 'Brazil',
     era: '80s',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/e/e5/20170805_Wacken_Wacken_Open_Air_Max_%26_Iggor_Cavalera_Return_To_Roots_0093.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/b/b6/20170805_Wacken_Wacken_Open_Air_Max_%26_Iggor_Cavalera_Return_To_Roots_0093.jpg',
     bio: 'Igor Cavalera, born in 1970 in Belo Horizonte, Brazil, is best known as the co-founder and original drummer of Sepultura, one of the most influential thrash/death metal bands to emerge from South America. He co-founded the band with his brother Max in 1984 when he was just 13 years old. His tribal-influenced drumming style helped define Sepultura\'s unique sound, particularly on landmark albums like "Beneath the Remains," "Arise," and "Roots." After leaving Sepultura in 2006, he reunited with Max in Cavalera Conspiracy and has expanded into electronic music with his DJ project Mixhell.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Igor_Cavalera',
@@ -854,7 +854,7 @@ const drummers = [
       sticks: 'Vic Firth American Classic 5B'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/e/e5/20170805_Wacken_Wacken_Open_Air_Max_%26_Iggor_Cavalera_Return_To_Roots_0093.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/b/b6/20170805_Wacken_Wacken_Open_Air_Max_%26_Iggor_Cavalera_Return_To_Roots_0093.jpg'
     ],
     endorsements: [
       { name: 'ddrum Drums', url: 'https://www.ddrum.com' },
@@ -876,7 +876,7 @@ const drummers = [
     genres: ['Thrash Metal', 'Progressive Metal'],
     country: 'USA',
     era: '80s',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/5/59/Scott_Travis2005.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/3/32/Scott_Travis2005.jpg',
     bio: 'Scott Travis, born in 1961 in Norfolk, Virginia, is an American drummer best known as the drummer for Judas Priest since 1989. He made his debut on the landmark album "Painkiller," which reinvigorated the band with its aggressive, speed metal approach. Travis was the first non-British member of Judas Priest and brought a new level of technical proficiency to the band. Before Priest, he played with Racer X and has since also performed with Thin Lizzy, Fight, and Elegant Weapons. He was inducted into the Rock and Roll Hall of Fame as a member of Judas Priest in 2022.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Scott_Travis',
@@ -891,7 +891,7 @@ const drummers = [
       sticks: 'Vic Firth American Classic 5B'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/5/59/Scott_Travis2005.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/3/32/Scott_Travis2005.jpg'
     ],
     endorsements: [
       { name: 'DW Drums', url: 'https://www.dwdrums.com' },
@@ -913,7 +913,7 @@ const drummers = [
     genres: ['Thrash Metal'],
     country: 'USA',
     era: '90s',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/1/15/Slayer_-_With_Full_Force_2013_-_27-06-2013.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/a/a6/Slayer_-_With_Full_Force_2013_-_27-06-2013.jpg',
     bio: 'Paul Bostaph, born in 1964 in Newark, California, is an American drummer best known for his tenure with Slayer, serving as their drummer from 1992-2001, 2013-2019, and returning for their 2024 reunion. He replaced Dave Lombardo and recorded classic albums including "Divine Intervention" and "Diabolus in Musica." Before Slayer, he was a founding member of Forbidden, recording "Forbidden Evil" and "Twisted into Form." He has also played with Testament, Exodus, and Systematic.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Paul_Bostaph',
@@ -929,7 +929,7 @@ const drummers = [
       sticks: 'Vic Firth American Classic 5B'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/1/15/Slayer_-_With_Full_Force_2013_-_27-06-2013.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/a/a6/Slayer_-_With_Full_Force_2013_-_27-06-2013.jpg'
     ],
     endorsements: [
       { name: 'ddrum Drums', url: 'https://www.ddrum.com' },
@@ -951,7 +951,7 @@ const drummers = [
     genres: ['Death Metal'],
     country: 'Canada',
     era: '90s',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/4/4a/Cryptopsy_Party.San_Metal_Open_Air_2017_20.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/b/bc/Cryptopsy_Party.San_Metal_Open_Air_2017_20.jpg',
     bio: 'Flo Mounier is a Canadian drummer and the only constant member of technical death metal pioneers Cryptopsy since joining in 1992. His drumming on landmark albums like "None So Vile" and "Whisper Supremacy" set new standards for extreme metal drumming, featuring incredibly fast blast beats, complex patterns, and inhuman stamina. Mounier is widely regarded as one of the most technically proficient drummers in death metal.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Cryptopsy',
@@ -967,7 +967,7 @@ const drummers = [
       sticks: 'Vater Power 5B'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/4/4a/Cryptopsy_Party.San_Metal_Open_Air_2017_20.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/b/bc/Cryptopsy_Party.San_Metal_Open_Air_2017_20.jpg'
     ],
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
@@ -989,7 +989,7 @@ const drummers = [
     genres: ['Death Metal', 'Progressive Metal'],
     country: 'USA',
     era: '90s',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/9/9e/Sal%2C_Leyla_%26_Richard_Christy_%284902556102%29.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/8/8f/Sal%2C_Leyla_%26_Richard_Christy_%284902556102%29.jpg',
     bio: 'Richard Christy, born in 1974 in Fort Scott, Kansas, is an American drummer known for his work with Death, Control Denied, Iced Earth, and his own band Charred Walls of the Damned. His drumming on Death\'s "The Sound of Perseverance" and Control Denied\'s "The Fragile Art of Existence" showcased his exceptional technical ability and musicality. Christy later joined Iced Earth before transitioning to entertainment on The Howard Stern Show.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Richard_Christy',
@@ -1005,7 +1005,7 @@ const drummers = [
       sticks: 'Vater Power 5B'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/9/9e/Sal%2C_Leyla_%26_Richard_Christy_%284902556102%29.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/8/8f/Sal%2C_Leyla_%26_Richard_Christy_%284902556102%29.jpg'
     ],
     endorsements: [
       { name: 'Tama Drums', url: 'https://www.tama.com' },
@@ -1027,7 +1027,7 @@ const drummers = [
     genres: ['Death Metal'],
     country: 'USA',
     era: '2000s',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/5/5f/Derek_Roddy_2003_%28cropped%29.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/d/d7/Derek_Roddy_2003_%28cropped%29.jpg',
     bio: 'Derek Roddy, born in 1972 in Myrtle Beach, South Carolina, is an American drummer known for his extreme speed and technical proficiency. His ability to record entire drum tracks in one or two takes earned him the nickname "One Take." He gained prominence with Hate Eternal, recording "King of All Kings" and "I, Monarch," and also recorded with Nile, Malevolent Creation, and Today Is the Day. Roddy is also an accomplished drum educator.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Derek_Roddy',
@@ -1043,7 +1043,7 @@ const drummers = [
       sticks: 'Vater Derek Roddy Signature'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/5/5f/Derek_Roddy_2003_%28cropped%29.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/d/d7/Derek_Roddy_2003_%28cropped%29.jpg'
     ],
     endorsements: [
       { name: 'DW Drums', url: 'https://www.dwdrums.com' },
@@ -1107,7 +1107,7 @@ const gearItems = [
     category: 'hardware',
     brand: 'Tama',
     description: 'The Tama Iron Cobra 900 is one of the most popular double bass pedals in metal drumming. Known for its smooth Power Glide cam, quick response, and durability, it has been the pedal of choice for many legendary drummers. The Iron Cobra features a rolling glide design that provides a linear feel throughout the stroke.',
-    image: 'https://www.tama.com/usa/products/images/HP900PTWN_main.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/2/2e/Speed_Cobra_Single.jpg',
     specs: {
       camType: 'Power Glide',
       beaterType: 'Dual-surface (felt/plastic)',
@@ -1125,7 +1125,7 @@ const gearItems = [
     category: 'cymbals',
     brand: 'Meinl',
     description: 'Meinl Byzance cymbals are hand-hammered in Turkey using traditional B20 bronze alloy. The series offers a wide range of sounds from dark and trashy to bright and cutting. Popular with progressive and extreme metal drummers for their complex overtones and dynamic response.',
-    image: 'https://meinlcymbals.com/images/products/cymbal_byzance.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/4/49/2006-07-06_crash_paiste_16.jpg',
     specs: {
       material: 'B20 Bronze',
       finish: 'Traditional/Brilliant/Extra Dry',
@@ -1143,7 +1143,7 @@ const gearItems = [
     category: 'cymbals',
     brand: 'Paiste',
     description: 'Paiste RUDE cymbals are designed specifically for heavy hitting drummers. Made from CuSn8 bronze (2002 Bronze), they deliver cutting, aggressive tones that cut through the loudest stage volumes. A staple in thrash and death metal drumming since the 1980s.',
-    image: 'https://www.paiste.com/images/products/rude.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/f/fb/Paiste_cymbal_close.jpg',
     specs: {
       material: 'CuSn8 Bronze (2002 Bronze)',
       finish: 'Colored finish (various)',
@@ -1161,7 +1161,7 @@ const gearItems = [
     category: 'cymbals',
     brand: 'Zildjian',
     description: 'The Zildjian A Custom series delivers bright, cutting tones with a quick response. Created with a proprietary process that includes machine hammering and brilliant finishing, A Customs have become a standard in rock and metal drumming for their projection and clarity.',
-    image: 'https://zildjian.com/images/products/a-custom.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/a/af/Zildjian_a_18_inch_china_cymbal.JPG',
     specs: {
       material: 'B20 Bronze',
       finish: 'Brilliant',
@@ -1179,7 +1179,7 @@ const gearItems = [
     category: 'sticks',
     brand: 'Vic Firth',
     description: 'The Vic Firth American Classic 5B is one of the most popular drumstick models in the world. Slightly larger than a 5A with a bold sound and full feel, the 5B offers excellent balance and durability. The tear drop tip produces a rich, full tone on cymbals.',
-    image: 'https://vicfirth.zildjian.com/images/products/5b.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/2/26/Drumsticks.jpg',
     specs: {
       length: '16"',
       diameter: '.595"',
@@ -1197,7 +1197,7 @@ const gearItems = [
     category: 'hardware',
     brand: 'Pearl',
     description: 'The Pearl Demon Drive is an advanced double bass pedal featuring the innovative NiNjA Bearing technology for ultra-smooth action. With interchangeable cams and click-lock spring tension, it offers unparalleled customization for demanding drummers.',
-    image: 'https://pearldrum.com/images/products/demon-drive.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/5/59/Bass_drum_pedals.jpg',
     specs: {
       camType: 'Interchangeable (Direct/Standard)',
       beaterType: 'Demon Beater (switchable)',
@@ -1215,7 +1215,7 @@ const gearItems = [
     category: 'drums',
     brand: 'Tama',
     description: 'Tama Starclassic Walnut/Birch drums combine the warmth and low-end of walnut with the attack and projection of birch. This hybrid shell construction delivers a versatile sound suitable for studio and stage, favored by many professional metal drummers.',
-    image: 'https://www.tama.com/images/products/starclassic-wb.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/a/a1/Schlagzeug2.jpg',
     specs: {
       shells: 'Walnut/Birch hybrid',
       plies: '6mm (5-ply)',
@@ -1233,7 +1233,7 @@ const gearItems = [
     category: 'drums',
     brand: 'Pearl',
     description: 'Pearl Reference drums feature the innovative Reference Shell construction with birch, maple, and mahogany plies. Each shell size is specifically designed with optimal wood combinations for that drum\'s role, delivering focused tone and maximum projection.',
-    image: 'https://pearldrum.com/images/products/reference.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/a/a1/Schlagzeug2.jpg',
     specs: {
       shells: 'Birch/Maple/Mahogany hybrid',
       plies: 'Size-specific',
@@ -1251,7 +1251,7 @@ const gearItems = [
     category: 'drums',
     brand: 'Sonor',
     description: 'Sonor SQ2 drums with Heavy Beech shells are custom-built in Germany. The dense beech wood delivers powerful projection and sustain, making them ideal for heavy music. The SQ2 system allows complete customization of shell configurations.',
-    image: 'https://www.sonor.com/images/products/sq2.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/a/a1/Schlagzeug2.jpg',
     specs: {
       shells: 'Heavy Beech',
       plies: '9mm (7-ply)',
@@ -1269,7 +1269,7 @@ const gearItems = [
     category: 'cymbals',
     brand: 'Sabian',
     description: 'Sabian HHX cymbals combine hand-hammering with modern manufacturing for a dark, complex sound. The HHX line offers excellent dynamic range and musical warmth, making them popular with progressive and modern metal drummers.',
-    image: 'https://www.sabian.com/images/products/hhx.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/9/99/Zildjian_ride_cymbal.jpg',
     specs: {
       material: 'B20 Bronze',
       finish: 'Natural/Brilliant',

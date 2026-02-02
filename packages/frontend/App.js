@@ -245,7 +245,8 @@ function updateDocumentMeta(drummer, drummers = []) {
           "memberOf": {
             "@type": "MusicGroup",
             "name": drummer.band
-          }
+          },
+          ...(drummer.sameAs && drummer.sameAs.length > 0 && { "sameAs": drummer.sameAs })
         },
         {
           "@type": "Product",

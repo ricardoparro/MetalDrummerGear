@@ -9,6 +9,12 @@ const drummers = [
     country: 'Denmark',
     image: 'https://upload.wikimedia.org/wikipedia/commons/7/79/Lars_Ulrich_by_Gage_Skidmore_%28cropped%29.jpg',
     bio: 'Lars Ulrich is a Danish musician and co-founder of Metallica, one of the most influential thrash metal bands in history. Born in 1963, he moved to Los Angeles to pursue his drumming career and formed Metallica with James Hetfield in 1981. Known for his aggressive style and iconic drum fills, Lars has been instrumental in shaping the sound of heavy metal.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Lars_Ulrich',
+      'https://www.instagram.com/larsulrich/',
+      'https://www.discogs.com/artist/252889-Lars-Ulrich',
+      'https://www.allmusic.com/artist/lars-ulrich-mn0000849521'
+    ],
     gear: {
       drums: 'Tama Starclassic Maple',
       snare: 'Tama LU1465 Lars Ulrich Signature 14x6.5"',
@@ -42,6 +48,11 @@ const drummers = [
     country: 'USA',
     image: 'https://upload.wikimedia.org/wikipedia/commons/b/b4/JoeyJordison.jpg',
     bio: 'Joey Jordison (1975-2021) was an American musician best known as the original drummer of Slipknot. His blistering speed, technical precision, and theatrical stage presence made him one of the most influential metal drummers of his generation. He also played guitar for Murderdolls and drums for various other projects.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Joey_Jordison',
+      'https://www.discogs.com/artist/355738-Joey-Jordison',
+      'https://www.allmusic.com/artist/joey-jordison-mn0000796491'
+    ],
     gear: {
       drums: 'Pearl Reference Series',
       snare: 'Pearl Joey Jordison Signature 13x6.5"',
@@ -75,6 +86,12 @@ const drummers = [
     country: 'USA',
     image: 'https://upload.wikimedia.org/wikipedia/commons/6/60/Gene_Hoglan_-_Testament_%28cropped%29.jpg',
     bio: 'Gene Hoglan, nicknamed "The Atomic Clock" for his precise timing, is one of the most respected drummers in extreme metal. Born in 1967, he has played with Death, Dark Angel, Testament, Strapping Young Lad, Fear Factory, and Dethklok. His combination of speed, power, and musicality has influenced countless metal drummers.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Gene_Hoglan',
+      'https://www.instagram.com/gene_hoglan/',
+      'https://www.discogs.com/artist/252919-Gene-Hoglan',
+      'https://www.allmusic.com/artist/gene-hoglan-mn0000646612'
+    ],
     gear: {
       drums: 'Pearl Reference Pure',
       snare: 'Pearl Reference 14x6.5" Brass',
@@ -108,6 +125,12 @@ const drummers = [
     country: 'Cuba/USA',
     image: 'https://upload.wikimedia.org/wikipedia/commons/d/df/Dave_Lombardo_8.5.14.jpeg',
     bio: 'Dave Lombardo, born in Cuba in 1965, is widely regarded as one of the greatest drummers in metal history. As the original drummer of Slayer, he pioneered the double bass drumming style that defined thrash metal. His work on albums like "Reign in Blood" is considered groundbreaking. He has also played with Fantomas, Suicidal Tendencies, and Dead Cross.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Dave_Lombardo',
+      'https://www.instagram.com/davelombardo/',
+      'https://www.discogs.com/artist/252908-Dave-Lombardo',
+      'https://www.allmusic.com/artist/dave-lombardo-mn0000134767'
+    ],
     gear: {
       drums: 'Tama Starclassic Maple',
       snare: 'Tama S.L.P. 14x6.5" G-Maple',
@@ -140,6 +163,11 @@ const drummers = [
     country: 'Sweden',
     image: 'https://upload.wikimedia.org/wikipedia/commons/7/7b/Meshuggah_-_Rock_am_Ring_2023-44313.jpg',
     bio: 'Tomas Haake, born in 1971, is the drummer and primary lyricist for Swedish extreme metal band Meshuggah. His polyrhythmic drumming style, characterized by complex time signatures and intricate patterns, has been hugely influential in the development of djent and progressive metal. He is known for his metronomic precision and innovative approach.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Tomas_Haake',
+      'https://www.discogs.com/artist/281578-Tomas-Haake',
+      'https://www.allmusic.com/artist/tomas-haake-mn0001678091'
+    ],
     gear: {
       drums: 'Sonor SQ2 Heavy Beech (24"x18" Bass, 10"x8", 12"x9", 13"x10", 16"x14", 18"x16" Toms)',
       snare: 'Sonor Tomas Haake Signature 14x6.5" & Artist Series Bronze',
@@ -173,6 +201,12 @@ const drummers = [
     country: 'Greece',
     image: 'https://upload.wikimedia.org/wikipedia/commons/e/e8/GK_10.jpg',
     bio: 'George Kollias, born in 1977, is a Greek drummer known for his extreme speed and technical proficiency. As the drummer for Nile since 2004, he has pushed the boundaries of death metal drumming with his incredible blast beats and double bass technique. He is also an educator and has released instructional materials.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/George_Kollias_(drummer)',
+      'https://www.instagram.com/george_kollias/',
+      'https://www.discogs.com/artist/544679-George-Kollias',
+      'https://www.allmusic.com/artist/george-kollias-mn0001019714'
+    ],
     gear: {
       drums: 'Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware)',
       snare: 'Pearl George Kollias Signature 14x6.5"',
@@ -206,6 +240,12 @@ const drummers = [
     country: 'Brazil',
     image: 'https://upload.wikimedia.org/wikipedia/commons/8/86/Sepultura_-_2023219214143_2023-08-07_Sepultura_-_Sven_-_1D_X_MK_II_-_0650_-_AK8I2527.jpg',
     bio: 'Eloy Casagrande, born in 1991, is a Brazilian drummer who became Sepultura\'s drummer in 2011 and joined Slipknot in 2024 as their new drummer. Named the No. 1 metal drummer in Modern Drummer magazine\'s 2024 Readers\' Poll, he is known for his explosive speed, technical prowess, and energetic performances. His drumming style combines traditional metal with modern technical elements, making him one of the most exciting drummers in contemporary metal.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Eloy_Casagrande',
+      'https://www.instagram.com/eloycasagrande/',
+      'https://www.discogs.com/artist/1665217-Eloy-Casagrande',
+      'https://www.allmusic.com/artist/eloy-casagrande-mn0002596379'
+    ],
     gear: {
       drums: 'Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms)',
       snare: 'Tama Bell Brass 14x5.5" (BB146)',
@@ -240,6 +280,12 @@ const drummers = [
     country: 'USA',
     image: 'https://upload.wikimedia.org/wikipedia/commons/c/c8/Ray_Luzier_of_Korn.jpg',
     bio: 'Ray Luzier, born in 1970, is an American drummer who joined Korn in 2007. Before Korn, he was a sought-after session musician, working with artists like David Lee Roth and Army of Anyone. His drumming combines rock solid grooves with technical flair, bringing a fresh energy to Korn\'s signature sound while respecting their nu-metal roots.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Ray_Luzier',
+      'https://www.instagram.com/rikirockett/',
+      'https://www.discogs.com/artist/356148-Ray-Luzier',
+      'https://www.allmusic.com/artist/ray-luzier-mn0000356844'
+    ],
     gear: {
       drums: 'Pearl Reference Series',
       snare: 'Pearl Reference 14x6.5" Brass',
@@ -271,6 +317,12 @@ const drummers = [
     country: 'USA',
     image: 'https://upload.wikimedia.org/wikipedia/commons/0/0a/Drummer_John_Otto_of_Limp_Bizkit_in_2006.jpg',
     bio: 'John Otto, born in 1977, is the drummer and a founding member of Limp Bizkit. His hip-hop influenced drumming style, combining tight grooves with funk-inspired beats, was essential in defining the rap-metal sound of the late 90s and early 2000s. His ability to blend rock power with hip-hop feel made Limp Bizkit one of the biggest bands of the nu-metal era.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/John_Otto_(musician)',
+      'https://www.instagram.com/johnotto/',
+      'https://www.discogs.com/artist/360637-John-Otto',
+      'https://www.allmusic.com/artist/john-otto-mn0000192831'
+    ],
     gear: {
       drums: 'Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic',
       snare: 'OCDP 14x6.5" 40-ply Vented, OCDP 10x6" 20-ply',
@@ -305,6 +357,12 @@ const drummers = [
     country: 'USA',
     image: 'https://upload.wikimedia.org/wikipedia/commons/4/46/Suicidal_Tendencies_Rockharz_2024_18.jpg',
     bio: 'Jay Weinberg, born in 1990, is the son of E Street Band drummer Max Weinberg. He joined Slipknot in 2014, becoming their drummer after Joey Jordison\'s departure. Before Slipknot, he briefly played with Against Me! and Madball. His powerful, aggressive style honored Slipknot\'s legacy while adding his own intensity. In 2023, he parted ways with Slipknot and joined Suicidal Tendencies, touring with them on Metallica\'s M72 World Stadium Tour.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Jay_Weinberg',
+      'https://www.instagram.com/jayweinberg/',
+      'https://www.discogs.com/artist/1940247-Jay-Weinberg',
+      'https://www.allmusic.com/artist/jay-weinberg-mn0002419959'
+    ],
     gear: {
       drums: 'SJC Custom Drums (OBEY x ST Collaboration Kit)',
       snare: 'SJC Jay Weinberg "The Crucible" 14x6.5" 48-ply Brass',
@@ -340,6 +398,11 @@ const drummers = [
     country: 'USA',
     image: 'https://upload.wikimedia.org/wikipedia/commons/5/55/VinniePaul2008.JPG',
     bio: 'Vinnie Paul (1964-2018) was the co-founder and drummer of Pantera, one of the most influential heavy metal bands of all time. Alongside his brother Dimebag Darrell, he helped define the groove metal sound. Pantera received four Grammy nominations for Best Metal Performance. After Pantera\'s breakup, he formed Damageplan with his brother, and later Hellyeah. His drumming style featured powerful grooves and innovative double-bass patterns that influenced countless metal drummers. Ranked among the greatest metal drummers of all time.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Vinnie_Paul',
+      'https://www.discogs.com/artist/271569-Vinnie-Paul',
+      'https://www.allmusic.com/artist/vinnie-paul-mn0000594023'
+    ],
     gear: {
       drums: 'ddrum Vinnie Paul Signature Series',
       snare: 'ddrum Vinnie Paul Signature 14x8"',
@@ -370,6 +433,13 @@ const drummers = [
     country: 'USA',
     image: 'https://upload.wikimedia.org/wikipedia/commons/1/11/2017_Anthrax_-_Charlie_Benante_-_by_2eight_-_DSC1986_%28cropped%29.jpg',
     bio: 'Charlie Benante, born in 1962 in The Bronx, New York, is a pioneer of thrash metal drumming and credited with popularizing the blast beat technique. He joined Anthrax in 1983 and has appeared on all 11 of the band\'s studio albums. Known for his extremely fast double kick technique, Benante is also a talented guitarist who contributed lead guitar to S.O.D.\'s "Speak English or Die" album. He serves as Anthrax\'s main composer and is a graphic artist who created many of their album covers and T-shirt designs. In 2022, he joined the reunited Pantera, filling in for his late friend Vinnie Paul.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Charlie_Benante',
+      'https://www.instagram.com/charliebenante/',
+      'https://twitter.com/Charlie_Benante',
+      'https://www.discogs.com/artist/252877-Charlie-Benante',
+      'https://www.allmusic.com/artist/charlie-benante-mn0000765091'
+    ],
     gear: {
       drums: 'Tama Starclassic',
       snare: 'Tama Charlie Benante Signature 14x6.5"',
@@ -401,6 +471,13 @@ const drummers = [
     country: 'USA',
     image: 'https://upload.wikimedia.org/wikipedia/commons/7/77/Mike_Portnoy.jpg',
     bio: 'Mike Portnoy, born in 1967 in Long Beach, New York, is one of the most influential progressive metal drummers of all time. He co-founded Dream Theater in 1985 and was the band\'s drummer and lyricist for 25 years, helping define the progressive metal genre. A recipient of over 30 Drummer of the Year awards from Modern Drummer magazine, Portnoy is known for his technical proficiency, complex time signatures, and theatrical live performances. After leaving Dream Theater in 2010, he has played with numerous projects including Avenged Sevenfold, Adrenaline Mob, The Winery Dogs, Flying Colors, Sons of Apollo, and Liquid Tension Experiment. In 2023, he rejoined Dream Theater for their reunion tour. His drumming style combines jazz fusion influences with heavy metal power, featuring intricate double bass patterns and creative use of electronics.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Mike_Portnoy',
+      'https://www.instagram.com/mikeportnoycom/',
+      'https://twitter.com/MikePortnoy',
+      'https://www.discogs.com/artist/252951-Mike-Portnoy',
+      'https://www.allmusic.com/artist/mike-portnoy-mn0000375541'
+    ],
     gear: {
       drums: 'Tama Starclassic Maple/Birch',
       snare: 'Tama Mike Portnoy Signature Melody Master 14x5.5"',
@@ -432,6 +509,12 @@ const drummers = [
     country: 'USA',
     image: 'https://upload.wikimedia.org/wikipedia/commons/c/c1/Danny_Carey_Hellfest_2019.jpg',
     bio: 'Danny Carey, born in 1961 in Lawrence, Kansas, is widely regarded as one of the greatest drummers in rock and metal history. As the drummer for Tool since the band\'s formation in 1990, he has developed a unique style that blends complex polyrhythmic patterns with influences from jazz, world music, and progressive rock. His technical proficiency and creative approach to rhythm have earned him numerous accolades, including being voted the best drummer by readers of Modern Drummer magazine. Carey\'s drumming incorporates unusual time signatures, intricate subdivisions, and the use of electronic percussion. Beyond Tool, he has collaborated with artists like Pigface, Zaum, and Volto! His towering presence behind his massive Sonor kit and his dedication to expanding the boundaries of rock drumming have made him an icon in the drumming community.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Danny_Carey',
+      'https://www.instagram.com/dannycareyofficial/',
+      'https://www.discogs.com/artist/252943-Danny-Carey',
+      'https://www.allmusic.com/artist/danny-carey-mn0000137137'
+    ],
     gear: {
       drums: 'Sonor SQ2 Heavy Beech',
       snare: 'Sonor Danny Carey Signature 14x8" Bronze',
@@ -463,6 +546,12 @@ const drummers = [
     country: 'France',
     image: 'https://upload.wikimedia.org/wikipedia/commons/8/83/2017_RiP_-_Gojira_-_Mario_Duplantier_-_by_2eight_-_8SC9168.jpg',
     bio: 'Mario Duplantier, born in 1981 in Bayonne, France, is the drummer and co-founder of the critically acclaimed progressive death metal band Gojira, which he formed with his brother Joe Duplantier in 1996. Known for his powerful, precise, and incredibly intense drumming style, Mario combines crushing double bass patterns with complex rhythmic structures that complement Gojira\'s unique blend of death metal and progressive elements. His drumming on albums like "From Mars to Sirius," "The Way of All Flesh," and "Magma" has been praised for its technical excellence and raw energy. Beyond his drumming prowess, Mario is also a talented visual artist who has created artwork for Gojira\'s albums and merchandise. His approach to drumming emphasizes dynamics, groove, and an almost tribal quality that has helped define Gojira\'s distinctive sound.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Mario_Duplantier',
+      'https://www.instagram.com/mario_duplantier/',
+      'https://www.discogs.com/artist/599195-Mario-Duplantier',
+      'https://www.allmusic.com/artist/mario-duplantier-mn0001953826'
+    ],
     gear: {
       drums: 'Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom)',
       snare: 'Tama S.L.P. 14x6.5" G-Maple',
@@ -492,6 +581,12 @@ const drummers = [
     country: 'USA',
     image: 'https://upload.wikimedia.org/wikipedia/commons/6/6b/20150612-054-Nova_Rock_2015-Mastodon-Brann_Dailor.jpg',
     bio: 'Brann Dailor, born in 1975 in Rochester, New York, is the drummer and vocalist for progressive sludge metal band Mastodon. His drumming style is characterized by complex fills, jazz-influenced patterns, and an almost melodic approach to the drums that sets him apart from traditional metal drummers. Dailor\'s work on albums like "Leviathan," "Blood Mountain," and "Crack the Skye" has earned him widespread acclaim. He began singing lead vocals on Mastodon\'s later albums, adding another dimension to the band\'s sound. His technical proficiency combined with his musical creativity has made him one of the most influential drummers in modern metal.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Brann_Dailor',
+      'https://www.instagram.com/branndailor/',
+      'https://www.discogs.com/artist/468737-Brann-Dailor',
+      'https://www.allmusic.com/artist/brann-dailor-mn0000761098'
+    ],
     gear: {
       drums: 'Tama Starclassic Performer B/B',
       snare: 'Tama S.L.P. 14x6.5" G-Maple',
@@ -522,6 +617,12 @@ const drummers = [
     country: 'USA',
     image: 'https://upload.wikimedia.org/wikipedia/commons/d/d8/Lamb_Of_God_-_Rock_am_Ring_2015-9876_%28cropped%29.jpg',
     bio: 'Chris Adler, born in 1972 in Richmond, Virginia, is best known as the co-founder and former drummer of Lamb of God. His precision double bass drumming and innovative groove patterns helped define the New Wave of American Heavy Metal. Adler\'s work on albums like "Ashes of the Wake" and "Sacrament" showcased his ability to combine technical proficiency with raw power. He briefly played with Megadeth on their 2016 album "Dystopia." His drumming style emphasizes groove, power, and precision, influencing a generation of metal drummers.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Chris_Adler',
+      'https://www.instagram.com/chrisadlerdrums/',
+      'https://www.discogs.com/artist/357890-Chris-Adler',
+      'https://www.allmusic.com/artist/chris-adler-mn0000766295'
+    ],
     gear: {
       drums: 'Mapex Black Panther Design Lab',
       snare: 'Mapex Chris Adler Signature 14x5.5" Walnut/Maple',
@@ -554,6 +655,12 @@ const drummers = [
     country: 'USA',
     image: 'https://upload.wikimedia.org/wikipedia/commons/2/26/20151122_Eindhoven_Epic_Metal_Fest_Periphery_0116.jpg',
     bio: 'Matt Halpern, born in 1984, is the drummer for progressive metal band Periphery and one of the most influential figures in the djent movement. His drumming combines polyrhythmic complexity with electronic elements and modern production techniques. Halpern\'s ability to navigate complex time signatures while maintaining groove has made him a role model for a new generation of progressive metal drummers. He is also an accomplished drum educator, sharing his knowledge through clinics and online platforms.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Matt_Halpern',
+      'https://www.instagram.com/matthalpernofficial/',
+      'https://www.discogs.com/artist/2020577-Matt-Halpern',
+      'https://www.allmusic.com/artist/matt-halpern-mn0002620896'
+    ],
     gear: {
       drums: 'Pearl Reference Series',
       snare: 'Pearl Reference 14x6.5" Brass',
@@ -584,6 +691,12 @@ const drummers = [
     country: 'Poland',
     image: 'https://upload.wikimedia.org/wikipedia/commons/8/8d/Behemoth_Rockharz_2015_02.jpg',
     bio: 'Zbigniew Robert Promiński, known as Inferno, born in 1979, is the drummer for Polish extreme metal band Behemoth. He joined the band in 1997 and has been instrumental in shaping their signature sound. His drumming is characterized by relentless blast beats, precise double bass work, and the ability to maintain extreme speeds for extended periods. Inferno\'s technical abilities and stamina have made him one of the most respected drummers in extreme metal. His work on albums like "The Satanist" and "I Loved You at Your Darkest" showcases his evolution as a drummer.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Inferno_(musician)',
+      'https://www.instagram.com/infaboruta/',
+      'https://www.discogs.com/artist/355826-Inferno-4',
+      'https://www.allmusic.com/artist/inferno-mn0000386476'
+    ],
     gear: {
       drums: 'Pearl Masterworks',
       snare: 'Pearl Reference 14x5" Steel',
@@ -616,6 +729,11 @@ const drummers = [
     country: 'Norway',
     image: 'https://upload.wikimedia.org/wikipedia/commons/5/58/Mayhem_-_Jalometalli_2008_-_Hellhammer_01_crop.JPG',
     bio: 'Jan Axel Blomberg, known as Hellhammer, born in 1969, is a Norwegian drummer best known for his work with black metal pioneers Mayhem. He joined Mayhem in 1988 and has been a constant presence through the band\'s turbulent history. Hellhammer is credited with helping define the black metal drumming style, characterized by fast blast beats and raw, aggressive playing. Beyond Mayhem, he has played with numerous projects including Arcturus, Dimmu Borgir, and Shining. His influence on extreme metal drumming is immeasurable.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Hellhammer_(musician)',
+      'https://www.discogs.com/artist/288798-Hellhammer-2',
+      'https://www.allmusic.com/artist/hellhammer-mn0001545752'
+    ],
     gear: {
       drums: 'Sonor SQ2 Heavy Beech',
       snare: 'Sonor SQ2 14x5.5" Maple',
@@ -648,6 +766,11 @@ const drummers = [
     country: 'USA',
     image: 'https://upload.wikimedia.org/wikipedia/commons/1/1b/Pete_Sandoval.jpg',
     bio: 'Pedro "Pete" Sandoval, born in 1960 in El Salvador, is a legendary death metal drummer best known for his work with Morbid Angel and Terrorizer. He is credited with pioneering and perfecting the gravity blast technique, which revolutionized extreme metal drumming. His work on classic Morbid Angel albums like "Altars of Madness," "Blessed Are the Sick," and "Covenant" set the standard for death metal drumming. Sandoval\'s combination of speed, precision, and endurance influenced countless drummers in the extreme metal genre.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Pete_Sandoval',
+      'https://www.discogs.com/artist/279619-Pete-Sandoval',
+      'https://www.allmusic.com/artist/pete-sandoval-mn0000310251'
+    ],
     gear: {
       drums: 'ddrum Dios Series',
       snare: 'ddrum Dios 14x6.5" Maple',

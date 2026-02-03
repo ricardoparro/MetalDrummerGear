@@ -1,0 +1,52 @@
+name: Health Check
+
+on:
+  deployment_status:
+
+jobs:
+  health-check:
+    if: github.event.deployment_status.state == 'success'
+    runs-on: ubuntu-latest
+    name: Verify Site Loads
+    steps:
+      - name: Wait for deployment to propagate
+        run: sleep 30
+      
+      - name: Check site returns content
+        run: |
+          echo "🔍 Checking https://metalforge.io..."
+          
+          # Get page content
+          CONTENT=$(curl -s --max-time 30 https://metalforge.io)
+          
+          # Check for critical elements
+          if echo "$CONTENT" | grep -q "MetalForge"; then
+            echo "✅ Title found"
+          else
+            echo "❌ Title missing"
+            exit 1
+          fi
+          
+          # Check JS bundle loads
+          JS_URL=$(echo "$CONTENT" | grep -oE '/_expo/static/js/web/[^"]+\.js' | head -1)
+          if [ -n "$JS_URL" ]; then
+            JS_STATUS=$(curl -s -o /dev/null -w '%{http_code}' "https://metalforge.io$JS_URL")
+            if [ "$JS_STATUS" = "200" ]; then
+              echo "✅ JS bundle loads ($JS_URL)"
+            else
+              echo "❌ JS bundle failed: $JS_STATUS"
+              exit 1
+            fi
+          else
+            echo "❌ No JS bundle found in HTML"
+            exit 1
+          fi
+          
+          # Check content length (blank page = very short)
+          CONTENT_LENGTH=${#CONTENT}
+          if [ $CONTENT_LENGTH -lt 500 ]; then
+            echo "❌ Page content too short ($CONTENT_LENGTH bytes) - likely blank"
+            exit 1
+          fi
+          
+          echo "✅ Health check passed"

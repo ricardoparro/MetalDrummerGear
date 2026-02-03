@@ -2979,8 +2979,6 @@ function DrummerList({
   onNavigateToSpotlights,
   onNavigateToQuotes,
   spotlight,
-  onNavigateToSpotlights,
-  spotlightDrummer,
   filters,
   onFilterChange,
   filteredDrummers,
@@ -7959,5 +7957,225 @@ const styles = StyleSheet.create({
     color: '#ffffff',
     fontSize: 16,
     fontWeight: '700',
+  },
+  // ==========================================
+  // DRUMMER SPOTLIGHT STYLES
+  // ==========================================
+  spotlightContainer: {
+    marginBottom: 20,
+    borderRadius: 16,
+    borderWidth: 1,
+    overflow: 'hidden',
+  },
+  spotlightHeader: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    paddingHorizontal: 16,
+    paddingVertical: 12,
+    borderBottomWidth: 1,
+    borderBottomColor: 'rgba(128, 128, 128, 0.2)',
+  },
+  spotlightLabel: {
+    fontSize: 12,
+    fontWeight: '700',
+    letterSpacing: 1,
+  },
+  spotlightWeek: {
+    fontSize: 12,
+    fontWeight: '500',
+  },
+  spotlightContent: {
+    flexDirection: 'row',
+    padding: 16,
+    gap: 20,
+  },
+  spotlightContentMobile: {
+    flexDirection: 'column',
+    alignItems: 'center',
+  },
+  spotlightImageContainer: {
+    flexShrink: 0,
+  },
+  spotlightImage: {
+    width: 140,
+    height: 140,
+    borderRadius: 12,
+  },
+  spotlightImageMobile: {
+    width: 120,
+    height: 120,
+    marginBottom: 16,
+  },
+  spotlightInfo: {
+    flex: 1,
+  },
+  spotlightInfoMobile: {
+    alignItems: 'center',
+    width: '100%',
+  },
+  spotlightName: {
+    fontSize: 22,
+    fontWeight: '700',
+    marginBottom: 4,
+  },
+  spotlightBand: {
+    fontSize: 16,
+    marginBottom: 16,
+  },
+  spotlightQuickFacts: {
+    marginBottom: 16,
+    width: '100%',
+  },
+  spotlightSectionTitle: {
+    fontSize: 14,
+    fontWeight: '600',
+    marginBottom: 8,
+  },
+  spotlightFactRow: {
+    flexDirection: 'row',
+    alignItems: 'flex-start',
+    marginBottom: 6,
+  },
+  spotlightFactBullet: {
+    fontSize: 14,
+    marginRight: 8,
+    fontWeight: '700',
+  },
+  spotlightFactText: {
+    flex: 1,
+    fontSize: 13,
+    lineHeight: 19,
+  },
+  spotlightIconicSection: {
+    marginBottom: 16,
+    width: '100%',
+  },
+  spotlightIconicText: {
+    fontSize: 14,
+    lineHeight: 21,
+    fontStyle: 'italic',
+  },
+  spotlightGearSection: {
+    marginBottom: 16,
+    width: '100%',
+    paddingVertical: 12,
+    paddingHorizontal: 14,
+    backgroundColor: 'rgba(220, 38, 38, 0.1)',
+    borderRadius: 8,
+  },
+  spotlightGearHighlight: {
+    fontSize: 13,
+    fontWeight: '500',
+    lineHeight: 19,
+  },
+  spotlightCTAs: {
+    flexDirection: 'row',
+    gap: 12,
+    width: '100%',
+  },
+  spotlightCTAsMobile: {
+    flexDirection: 'column',
+  },
+  spotlightCTAPrimary: {
+    flex: 1,
+    paddingVertical: 12,
+    paddingHorizontal: 20,
+    borderRadius: 8,
+    alignItems: 'center',
+  },
+  spotlightCTAPrimaryText: {
+    color: '#ffffff',
+    fontSize: 14,
+    fontWeight: '600',
+  },
+  spotlightCTASecondary: {
+    flex: 1,
+    paddingVertical: 12,
+    paddingHorizontal: 20,
+    borderRadius: 8,
+    borderWidth: 1,
+    alignItems: 'center',
+  },
+  spotlightCTASecondaryText: {
+    fontSize: 14,
+    fontWeight: '500',
+  },
+  // ==========================================
+  // SPOTLIGHTS ARCHIVE PAGE STYLES
+  // ==========================================
+  spotlightsArchiveTitle: {
+    fontSize: 28,
+    fontWeight: '700',
+    marginBottom: 8,
+    marginTop: 16,
+  },
+  spotlightsArchiveSubtitle: {
+    fontSize: 16,
+    marginBottom: 24,
+    lineHeight: 24,
+  },
+  spotlightsGrid: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 16,
+    marginTop: 16,
+  },
+  spotlightsGridMobile: {
+    flexDirection: 'column',
+  },
+  spotlightArchiveCard: {
+    borderRadius: 12,
+    borderWidth: 1,
+    overflow: 'hidden',
+    flex: 1,
+    minWidth: 280,
+    maxWidth: 350,
+    marginBottom: 16,
+  },
+  spotlightArchiveImage: {
+    width: '100%',
+    height: 180,
+  },
+  spotlightArchiveInfo: {
+    padding: 16,
+  },
+  spotlightArchiveName: {
+    fontSize: 18,
+    fontWeight: '600',
+    marginBottom: 4,
+  },
+  spotlightArchiveBand: {
+    fontSize: 14,
+    marginBottom: 8,
+  },
+  spotlightArchiveTeaser: {
+    fontSize: 13,
+    lineHeight: 18,
+    fontStyle: 'italic',
+  },
+  currentSpotlightBadge: {
+    position: 'absolute',
+    top: 12,
+    right: 12,
+    backgroundColor: '#f59e0b',
+    paddingHorizontal: 10,
+    paddingVertical: 4,
+    borderRadius: 12,
+    zIndex: 1,
+  },
+  currentSpotlightBadgeText: {
+    color: '#000000',
+    fontSize: 10,
+    fontWeight: '700',
+    letterSpacing: 1,
+  },
+  noSpotlightsContainer: {
+    padding: 40,
+    alignItems: 'center',
+  },
+  noSpotlightsText: {
+    fontSize: 16,
+    textAlign: 'center',
   },
 });

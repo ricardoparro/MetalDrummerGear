@@ -23,11 +23,14 @@ jobs:
       
       - name: Extract and Validate URLs from changed files
         run: |
+          set +e  # Don't exit on error - we handle exit codes manually
+          
           echo "🔍 Checking URLs in changed files only..."
           echo "Changed: ${{ steps.changed.outputs.files }}"
           
           FAILED=0
           TOTAL=0
+          WARNINGS=0
           
           # Get the diff for drummer data files
           git diff origin/${{ github.base_ref }} HEAD -- packages/backend/src/index.js packages/frontend/src/pages/drummer/ > /tmp/diff.txt 2>/dev/null || true
@@ -40,9 +43,9 @@ jobs:
           grep -E "^\+.*youtube" /tmp/diff.txt | \
             grep -ohE "https?://(www\.)?(youtube\.com/watch\?v=|youtu\.be/)[a-zA-Z0-9_-]+" > /tmp/new_video_urls.txt || true
           
-          # Count new URLs
-          IMG_COUNT=$(wc -l < /tmp/new_image_urls.txt | tr -d ' ')
-          VID_COUNT=$(wc -l < /tmp/new_video_urls.txt | tr -d ' ')
+          # Count new URLs (handle empty files)
+          IMG_COUNT=$(cat /tmp/new_image_urls.txt 2>/dev/null | grep -c . || echo "0")
+          VID_COUNT=$(cat /tmp/new_video_urls.txt 2>/dev/null | grep -c . || echo "0")
           echo "Found $IMG_COUNT new image URLs, $VID_COUNT new video URLs"
           
           if [ "$IMG_COUNT" = "0" ] && [ "$VID_COUNT" = "0" ]; then
@@ -52,29 +55,71 @@ jobs:
           
           echo ""
           echo "🖼️ Checking new image URLs..."
-          WARNINGS=0
+          
+          # Function to check URL with retries and rate limit handling
+          check_image_url() {
+            local url="$1"
+            local max_retries=3
+            local retry=0
+            local status=""
+            
+            while [ $retry -le $max_retries ]; do
+              status=$(curl -s -o /dev/null -w '%{http_code}' \
+                --max-time 30 \
+                --connect-timeout 15 \
+                -A "Mozilla/5.0 (compatible; MetalDrummerGear-CI/1.0; +https://github.com/ricardoparro/MetalDrummerGear)" \
+                "$url" 2>/dev/null || echo "000")
+              
+              # Success
+              if [ "$status" = "200" ]; then
+                echo "OK"
+                return 0
+              fi
+              
+              # Rate limited - exponential backoff retry
+              if [ "$status" = "429" ]; then
+                retry=$((retry + 1))
+                if [ $retry -le $max_retries ]; then
+                  local wait=$((5 * retry))
+                  echo "RETRY:$wait" >&2
+                  sleep $wait
+                  continue
+                fi
+              fi
+              
+              break
+            done
+            
+            echo "$status"
+            return 1
+          }
+          
           while IFS= read -r url; do
             [ -z "$url" ] && continue
             TOTAL=$((TOTAL + 1))
-            sleep 3
-            # Use User-Agent and generous timeouts to handle Wikimedia rate limiting
-            STATUS=$(curl -s -o /dev/null -w '%{http_code}' \
-              --max-time 45 \
-              --connect-timeout 20 \
-              --retry 5 \
-              --retry-delay 15 \
-              --retry-all-errors \
-              -A "Mozilla/5.0 (compatible; MetalDrummerGear-CI/1.0; +https://github.com/ricardoparro/MetalDrummerGear)" \
-              "$url" || echo "000")
-            if [ "$STATUS" = "200" ] || [ "$STATUS" = "429" ] || [ "$STATUS" = "403" ]; then
-              echo "✅ [$STATUS] $url"
+            
+            # Rate limiting delay - longer for Wikimedia
+            if echo "$url" | grep -q "wikimedia.org\|wikipedia.org"; then
+              sleep 4
+            else
+              sleep 2
+            fi
+            
+            STATUS=$(check_image_url "$url")
+            
+            if [ "$STATUS" = "OK" ]; then
+              echo "✅ [200] $url"
+            elif [ "$STATUS" = "429" ] || [ "$STATUS" = "403" ]; then
+              # Rate limited after retries - treat as warning (URL likely valid)
+              echo "⚠️ [$STATUS] $url (rate limited - treating as valid)"
+              WARNINGS=$((WARNINGS + 1))
             elif [ "$STATUS" = "000" ]; then
-              # Timeout/network issue - treat as warning for Wikimedia (known rate limiting)
-              if echo "$url" | grep -q "wikimedia.org"; then
-                echo "⚠️ [$STATUS] $url (timeout - likely rate limited, not blocking)"
+              # Timeout - treat as warning for Wikimedia (known rate limiting behavior)
+              if echo "$url" | grep -q "wikimedia.org\|wikipedia.org"; then
+                echo "⚠️ [$STATUS] $url (timeout - likely rate limited)"
                 WARNINGS=$((WARNINGS + 1))
               else
-                echo "❌ [$STATUS] $url"
+                echo "❌ [$STATUS] $url (timeout)"
                 FAILED=$((FAILED + 1))
               fi
             else
@@ -88,30 +133,35 @@ jobs:
           while IFS= read -r url; do
             [ -z "$url" ] && continue
             TOTAL=$((TOTAL + 1))
-            sleep 0.5
+            sleep 1
             VIDEO_ID=$(echo "$url" | grep -oE '[a-zA-Z0-9_-]{11}' | head -1)
             if [ -n "$VIDEO_ID" ]; then
               OEMBED="https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=${VIDEO_ID}&format=json"
-              STATUS=$(curl -s -o /dev/null -w '%{http_code}' --max-time 15 --retry 2 --retry-delay 3 "$OEMBED" || echo "000")
-              if [ "$STATUS" != "200" ]; then
+              STATUS=$(curl -s -o /dev/null -w '%{http_code}' --max-time 15 --retry 2 --retry-delay 3 "$OEMBED" 2>/dev/null || echo "000")
+              if [ "$STATUS" = "200" ]; then
+                echo "✅ $url"
+              elif [ "$STATUS" = "429" ]; then
+                echo "⚠️ [$STATUS] $url (rate limited)"
+                WARNINGS=$((WARNINGS + 1))
+              else
                 echo "❌ [$STATUS] $url (video unavailable)"
                 FAILED=$((FAILED + 1))
-              else
-                echo "✅ $url"
               fi
             fi
           done < /tmp/new_video_urls.txt
           
           echo ""
           echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-          echo "Checked: $TOTAL | Broken: $FAILED | Warnings: $WARNINGS"
+          echo "Checked: $TOTAL | Valid: $((TOTAL - FAILED - WARNINGS)) | Warnings: $WARNINGS | Broken: $FAILED"
           echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
           
           if [ $FAILED -gt 0 ]; then
             echo "❌ VALIDATION FAILED - Fix broken URLs before merging!"
             exit 1
           elif [ $WARNINGS -gt 0 ]; then
-            echo "⚠️ All URLs valid, but $WARNINGS timed out (likely rate-limited)"
+            echo "⚠️ PASSED with warnings - $WARNINGS URLs rate-limited but likely valid"
+            exit 0
           else
             echo "✅ All new URLs are valid"
+            exit 0
           fi

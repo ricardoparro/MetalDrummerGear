@@ -38,7 +38,68 @@ const FILTER_OPTIONS = {
     { value: '2010s', label: '2010s' },
     { value: 'current', label: 'Current' },
   ],
+  budgets: [
+    { value: 'entry', label: 'Entry Level (<$2K)' },
+    { value: 'intermediate', label: 'Intermediate ($2K-$5K)' },
+    { value: 'professional', label: 'Professional ($5K-$15K)' },
+    { value: 'premium', label: 'Premium ($15K+)' },
+  ],
 };
+
+// Budget tier configuration with colors and ranges
+const BUDGET_TIERS = {
+  entry: {
+    id: 'entry',
+    label: 'Entry Level',
+    shortLabel: 'Entry',
+    emoji: '🎯',
+    color: '#22c55e',
+    minPrice: 0,
+    maxPrice: 2000,
+    description: 'Great setups for beginners and budget-conscious drummers',
+  },
+  intermediate: {
+    id: 'intermediate',
+    label: 'Intermediate',
+    shortLabel: 'Intermediate',
+    emoji: '🔥',
+    color: '#f59e0b',
+    minPrice: 2000,
+    maxPrice: 5000,
+    description: 'Solid professional-grade gear without breaking the bank',
+  },
+  professional: {
+    id: 'professional',
+    label: 'Professional',
+    shortLabel: 'Pro',
+    emoji: '⭐',
+    color: '#3b82f6',
+    minPrice: 5000,
+    maxPrice: 15000,
+    description: 'High-end setups used by touring professionals',
+  },
+  premium: {
+    id: 'premium',
+    label: 'Premium',
+    shortLabel: 'Premium',
+    emoji: '👑',
+    color: '#a855f7',
+    minPrice: 15000,
+    maxPrice: Infinity,
+    description: 'The absolute best - signature series and custom builds',
+  },
+};
+
+// Get budget tier for a given price
+function getBudgetTierForPrice(priceUsd) {
+  if (!priceUsd || priceUsd <= 0) return null;
+  for (const tier of Object.values(BUDGET_TIERS)) {
+    if (priceUsd >= tier.minPrice && priceUsd < tier.maxPrice) {
+      return tier.id;
+    }
+  }
+  return 'premium'; // Fallback for very high prices
+}
 
 // ==========================================
 // SPOTLIGHT HELPERS - Weekly Featured Drummer
@@ -1185,6 +1246,137 @@ function KitCostCalculator({ drummer, theme }) {
   );
 }
 
+// Affordable Alternatives Component - Shows budget-friendly gear options
+function AffordableAlternatives({ drummer, theme, onSelectGear }) {
+  const [gearItems, setGearItems] = useState([]);
+  const [loading, setLoading] = useState(true);
+  const [isExpanded, setIsExpanded] = useState(false);
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+
+  const kitCost = calculateKitCost(drummer.gear);
+  const drummerBudgetTier = kitCost ? getBudgetTier(kitCost.totalEur) : 'professional';
+
+  // Fetch all gear to find alternatives
+  useEffect(() => {
+    const fetchGear = async () => {
+      try {
+        const response = await fetch(
+          typeof window !== 'undefined' && window.location.hostname !== 'localhost'
+            ? '/api/gear'
+            : 'http://localhost:3001/api/gear'
+        );
+        if (response.ok) {
+          const data = await response.json();
+          setGearItems(data);
+        }
+      } catch (err) {
+        console.error('Error fetching gear for alternatives:', err);
+      } finally {
+        setLoading(false);
+      }
+    };
+    fetchGear();
+  }, []);
+
+  // Find affordable alternatives (gear in lower price tiers)
+  const alternatives = useMemo(() => {
+    if (gearItems.length === 0) return [];
+
+    // Get the drummer's gear categories
+    const drummerCategories = ['drums', 'cymbals', 'hardware'];
+    const tierOrder = ['entry', 'intermediate', 'professional', 'premium'];
+    const drummerTierIndex = tierOrder.indexOf(drummerBudgetTier);
+
+    // Find gear that's in a lower price tier but same category
+    return gearItems
+      .filter(item => {
+        const itemTier = getBudgetTier(item.priceEur);
+        const itemTierIndex = tierOrder.indexOf(itemTier);
+        // Only show items from lower tiers
+        return drummerCategories.includes(item.category) && itemTierIndex < drummerTierIndex;
+      })
+      .sort((a, b) => b.priceEur - a.priceEur) // Sort by price descending (best alternatives first)
+      .slice(0, 6); // Show max 6 alternatives
+  }, [gearItems, drummerBudgetTier]);
+
+  // Don't show if drummer already uses entry-level gear or no alternatives found
+  if (drummerBudgetTier === 'entry' || alternatives.length === 0 || loading) {
+    return null;
+  }
+
+  return (
+    <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+      <TouchableOpacity
+        onPress={() => setIsExpanded(!isExpanded)}
+        style={styles.affordableAlternativesHeader}
+        accessibilityRole="button"
+        accessibilityLabel={`${isExpanded ? 'Collapse' : 'Expand'} affordable alternatives section`}
+      >
+        <View>
+          <Text style={[styles.sectionTitle, { color: theme.text, marginBottom: 0 }]} accessibilityRole="header">
+            💰 Affordable Alternatives
+          </Text>
+          <Text style={[styles.affordableAlternativesSubtitle, { color: theme.secondaryText }]}>
+            Quality gear at lower price points
+          </Text>
+        </View>
+        <Text style={[styles.expandIcon, { color: theme.secondaryText }]}>
+          {isExpanded ? '▲' : '▼'}
+        </Text>
+      </TouchableOpacity>
+
+      {isExpanded && (
+        <View style={styles.affordableAlternativesContent}>
+          <Text style={[styles.affordableAlternativesDescription, { color: theme.secondaryText }]}>
+            Looking to achieve a similar sound on a budget? Check out these highly-rated alternatives:
+          </Text>
+          <View style={[styles.alternativesGrid, isMobile && styles.alternativesGridMobile]}>
+            {alternatives.map((item) => (
+              <TouchableOpacity
+                key={item.id}
+                onPress={() => onSelectGear && onSelectGear(item.slug)}
+                style={[styles.alternativeCard, { backgroundColor: theme.background, borderColor: theme.border }]}
+                accessibilityRole="button"
+                accessibilityLabel={`View ${item.name}`}
+              >
+                <View style={styles.alternativeInfo}>
+                  <Text style={[styles.alternativeBrand, { color: theme.secondaryText }]}>{item.brand}</Text>
+                  <Text style={[styles.alternativeName, { color: theme.text }]} numberOfLines={2}>{item.name}</Text>
+                  <View style={styles.alternativePriceRow}>
+                    <Text style={[styles.alternativePrice, { color: theme.text }]}>
+                      {formatPrice(item.priceEur, 'EUR')}
+                    </Text>
+                    <View style={[styles.alternativeTierBadge, { backgroundColor: theme.border }]}>
+                      <Text style={[styles.alternativeTierText, { color: theme.text }]}>
+                        {getBudgetTierEmoji(getBudgetTier(item.priceEur))} {getBudgetTierLabel(getBudgetTier(item.priceEur))}
+                      </Text>
+                    </View>
+                  </View>
+                </View>
+              </TouchableOpacity>
+            ))}
+          </View>
+          <TouchableOpacity
+            onPress={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.location.href = '/gear-by-budget';
+              }
+            }}
+            style={[styles.viewAllAlternativesButton, { borderColor: theme.border }]}
+            accessibilityRole="link"
+            accessibilityLabel="View all gear by budget"
+          >
+            <Text style={[styles.viewAllAlternativesText, { color: theme.text }]}>
+              View All Gear by Budget →
+            </Text>
+          </TouchableOpacity>
+        </View>
+      )}
+    </View>
+  );
+}
+
 // Gear Timeline Component - Shows evolution of drummer's gear through their career
 function GearTimeline({ timeline, drummerName, theme }) {
   const [isExpanded, setIsExpanded] = useState(false);
@@ -1377,7 +1569,7 @@ function GearTimeline({ timeline, drummerName, theme }) {
   );
 }
 
-function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit }) {
+function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit, allDrummers = [] }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
 
@@ -1437,6 +1629,25 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit 
       </View>
 
       <KitCostCalculator drummer={drummer} theme={theme} />
+
+      {/* Affordable Alternatives Section */}
+      {allDrummers.length > 0 && (
+        <AffordableAlternativesSection
+          drummer={drummer}
+          allDrummers={allDrummers}
+          theme={theme}
+          onSelectDrummer={(id) => {
+            // Navigate to the drummer
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              const targetDrummer = allDrummers.find(d => d.id === id);
+              if (targetDrummer) {
+                window.history.pushState({}, '', `/drummer/${toSlug(targetDrummer.name)}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }
+          }}
+        />
+      )}
 
       {/* Compare Your Kit CTA */}
       <View style={[styles.section, styles.compareYourKitCTA, { backgroundColor: theme.card, borderColor: '#dc2626' }]}>
@@ -2978,6 +3189,7 @@ function DrummerList({
   onNavigateToQuiz,
   onNavigateToSpotlights,
   onNavigateToQuotes,
+  onNavigateToGearByBudget,
   spotlight,
   filters,
   onFilterChange,
@@ -3063,11 +3275,19 @@ function DrummerList({
       <View style={[styles.actionButtonsRow, { marginTop: -8 }]}>
         <TouchableOpacity
           onPress={onNavigateToQuotes}
-          style={[styles.compareButton, { backgroundColor: theme.card, borderColor: theme.border, flex: 1 }]}
+          style={[styles.compareButton, { backgroundColor: theme.card, borderColor: theme.border }]}
           accessibilityRole="button"
           accessibilityLabel="Browse drummer interview quotes"
         >
-          <Text style={[styles.compareButtonText, { color: theme.text }]}>💬 Drummer Quotes</Text>
+          <Text style={[styles.compareButtonText, { color: theme.text }]}>💬 Quotes</Text>
+        </TouchableOpacity>
+        <TouchableOpacity
+          onPress={onNavigateToGearByBudget}
+          style={[styles.compareButton, { backgroundColor: '#22c55e', borderColor: '#22c55e' }]}
+          accessibilityRole="button"
+          accessibilityLabel="Browse gear by budget"
+        >
+          <Text style={[styles.compareButtonText, { color: '#ffffff' }]}>💰 Gear by Budget</Text>
         </TouchableOpacity>
       </View>
       {/* Drummer Spotlight Section */}
@@ -3133,6 +3353,29 @@ function isQuotesPage() {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
   const pathname = window.location.pathname;
   return pathname === '/quotes' || pathname.startsWith('/quotes?');
+}
+
+// Check if we're on the gear-by-budget page based on URL
+function isGearByBudgetPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  const pathname = window.location.pathname;
+  return pathname === '/gear-by-budget' || pathname.startsWith('/gear-by-budget?') ||
+         pathname === '/budget' || pathname.startsWith('/budget?');
+}
+
+// Get budget tier from URL params
+function getBudgetTierFromURL() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
+  const params = new URLSearchParams(window.location.search);
+  const tier = params.get('tier');
+  return tier && BUDGET_TIERS[tier] ? tier : null;
+}
+
+// Update URL for budget tier filter
+function updateBudgetTierURL(tier) {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return;
+  const newPath = tier ? `/gear-by-budget?tier=${tier}` : '/gear-by-budget';
+  window.history.replaceState({}, '', newPath);
 }
 
 // Check if we're on a gear page based on URL
@@ -3477,6 +3720,17 @@ const QUIZ_QUESTIONS = [
     ]
   },
   {
+    id: 'tempo',
+    question: "What's your preferred playing tempo?",
+    options: [
+      { value: 'extreme', label: '🚀 Extreme (220+ BPM)', description: 'Blast beats, grindcore speed' },
+      { value: 'fast', label: '⚡ Fast (180-220 BPM)', description: 'Thrash and speed metal territory' },
+      { value: 'medium', label: '🎯 Medium (120-180 BPM)', description: 'Groove-friendly, headbang zone' },
+      { value: 'slow', label: '🌊 Slow & Heavy (<120 BPM)', description: 'Doom, sludge, crushing weight' },
+      { value: 'varied', label: '🔄 All Over the Map', description: 'Love tempo changes and dynamics' },
+    ]
+  },
+  {
     id: 'style',
     question: "How would you describe your playing style?",
     options: [
@@ -3538,267 +3792,271 @@ const DRUMMER_PROFILES = {
     genres: ['thrash'],
     styles: ['power', 'groove'],
     kits: ['massive', 'classic'],
-    brands: ['tama'],
-    personalities: ['pioneer', 'showman'],
     eras: ['80s'],
+    tempos: ['fast', 'medium'],
+    fills: ['power', 'minimal'],
+    doubleBass: ['moderate', 'occasional'],
   },
   2: { // Joey Jordison
     genres: ['nu-metal', 'death'],
     styles: ['speed', 'technical'],
     kits: ['massive', 'hybrid'],
-    brands: ['pearl'],
-    personalities: ['showman', 'innovator'],
     eras: ['90s', '2000s'],
+    tempos: ['extreme', 'fast'],
+    fills: ['flashy', 'technical'],
+    doubleBass: ['essential', 'important'],
   },
   3: { // Gene Hoglan
     genres: ['death', 'thrash', 'progressive'],
     styles: ['technical', 'speed'],
     kits: ['massive'],
-    brands: ['tama'],
-    personalities: ['perfectionist', 'innovator'],
     eras: ['80s', '90s'],
+    tempos: ['extreme', 'fast', 'varied'],
+    fills: ['technical', 'creative'],
+    doubleBass: ['essential', 'important'],
   },
   4: { // Dave Lombardo
     genres: ['thrash'],
     styles: ['speed', 'power'],
     kits: ['classic', 'massive'],
-    brands: ['pearl', 'tama'],
-    personalities: ['pioneer', 'perfectionist'],
     eras: ['80s'],
+    tempos: ['extreme', 'fast'],
+    fills: ['flashy', 'power'],
+    doubleBass: ['essential', 'important'],
   },
   5: { // Tomas Haake
     genres: ['progressive'],
     styles: ['technical', 'groove'],
     kits: ['hybrid', 'massive'],
-    brands: ['sonor'],
-    personalities: ['perfectionist', 'innovator'],
     eras: ['90s', '2000s'],
-    energies: ['focused', 'dynamic'],
+    tempos: ['medium', 'varied'],
+    fills: ['technical', 'creative'],
+    doubleBass: ['important', 'moderate'],
   },
   6: { // George Kollias
     genres: ['death'],
     styles: ['speed', 'technical'],
     kits: ['massive'],
-    brands: ['pearl'],
-    personalities: ['perfectionist', 'pioneer'],
     eras: ['2000s'],
-    energies: ['intense', 'focused'],
+    tempos: ['extreme'],
+    fills: ['technical', 'flashy'],
+    doubleBass: ['essential'],
   },
   7: { // Eloy Casagrande
     genres: ['thrash', 'nu-metal'],
     styles: ['speed', 'versatile'],
     kits: ['massive'],
-    brands: ['tama'],
-    personalities: ['showman', 'servant'],
     eras: ['2010s'],
-    energies: ['explosive', 'intense'],
+    tempos: ['extreme', 'fast', 'varied'],
+    fills: ['flashy', 'technical'],
+    doubleBass: ['essential', 'important'],
   },
   8: { // Ray Luzier
     genres: ['nu-metal'],
     styles: ['groove', 'versatile'],
     kits: ['classic', 'massive'],
-    brands: ['pearl'],
-    personalities: ['servant', 'perfectionist'],
     eras: ['2000s'],
-    energies: ['groovy', 'dynamic'],
+    tempos: ['medium', 'varied'],
+    fills: ['creative', 'technical'],
+    doubleBass: ['moderate', 'important'],
   },
   9: { // John Otto
     genres: ['nu-metal'],
     styles: ['groove'],
     kits: ['classic'],
-    brands: ['any'],
-    personalities: ['servant', 'innovator'],
     eras: ['90s'],
-    energies: ['groovy', 'explosive'],
+    tempos: ['medium', 'slow'],
+    fills: ['minimal', 'creative'],
+    doubleBass: ['occasional', 'minimal'],
   },
   10: { // Jay Weinberg
     genres: ['nu-metal'],
     styles: ['power', 'speed'],
     kits: ['massive'],
-    brands: ['pearl'],
-    personalities: ['showman', 'servant'],
     eras: ['2010s'],
-    energies: ['explosive', 'intense'],
+    tempos: ['fast', 'extreme'],
+    fills: ['power', 'flashy'],
+    doubleBass: ['essential', 'important'],
   },
   11: { // Vinnie Paul
     genres: ['groove', 'thrash'],
     styles: ['groove', 'power'],
     kits: ['massive'],
-    brands: ['any'],
-    personalities: ['pioneer', 'showman'],
     eras: ['80s', '90s'],
-    energies: ['groovy', 'explosive'],
+    tempos: ['medium', 'fast'],
+    fills: ['power', 'flashy'],
+    doubleBass: ['important', 'essential'],
   },
   12: { // Charlie Benante
     genres: ['thrash'],
     styles: ['speed', 'technical'],
     kits: ['classic', 'hybrid'],
-    brands: ['tama'],
-    personalities: ['pioneer', 'innovator'],
     eras: ['80s'],
-    energies: ['intense', 'focused'],
+    tempos: ['fast', 'extreme'],
+    fills: ['technical', 'flashy'],
+    doubleBass: ['essential', 'important'],
   },
   13: { // Mike Portnoy
     genres: ['progressive'],
     styles: ['technical', 'versatile'],
     kits: ['massive', 'hybrid'],
-    brands: ['tama'],
-    personalities: ['showman', 'innovator'],
     eras: ['80s', '90s', '2000s'],
-    energies: ['explosive', 'dynamic'],
+    tempos: ['varied', 'fast', 'medium'],
+    fills: ['flashy', 'technical', 'creative'],
+    doubleBass: ['important', 'essential'],
   },
   14: { // Danny Carey
     genres: ['progressive'],
     styles: ['technical', 'groove'],
     kits: ['massive', 'hybrid'],
-    brands: ['sonor'],
-    personalities: ['innovator', 'perfectionist'],
     eras: ['90s'],
-    energies: ['dynamic', 'focused'],
+    tempos: ['medium', 'varied'],
+    fills: ['creative', 'technical'],
+    doubleBass: ['moderate', 'important'],
   },
   15: { // Mario Duplantier
     genres: ['death', 'progressive'],
     styles: ['power', 'technical'],
     kits: ['classic', 'massive'],
-    brands: ['tama'],
-    personalities: ['servant', 'perfectionist'],
     eras: ['2000s'],
-    energies: ['intense', 'dynamic'],
+    tempos: ['fast', 'varied'],
+    fills: ['creative', 'power'],
+    doubleBass: ['essential', 'important'],
   },
   16: { // Brann Dailor
     genres: ['progressive', 'groove'],
     styles: ['technical', 'versatile'],
     kits: ['classic'],
-    brands: ['dw'],
-    personalities: ['innovator', 'servant'],
     eras: ['2000s'],
-    energies: ['dynamic', 'groovy'],
+    tempos: ['varied', 'fast'],
+    fills: ['technical', 'creative'],
+    doubleBass: ['moderate', 'occasional'],
   },
   17: { // Chris Adler
     genres: ['groove'],
     styles: ['groove', 'power'],
     kits: ['classic', 'massive'],
-    brands: ['mapex'],
-    personalities: ['perfectionist', 'servant'],
     eras: ['2000s'],
-    energies: ['intense', 'groovy'],
+    tempos: ['fast', 'medium'],
+    fills: ['power', 'technical'],
+    doubleBass: ['essential', 'important'],
   },
   18: { // Matt Halpern
     genres: ['progressive'],
     styles: ['technical', 'groove'],
     kits: ['hybrid', 'massive'],
-    brands: ['mapex'],
-    personalities: ['innovator', 'servant'],
     eras: ['2010s'],
-    energies: ['focused', 'dynamic'],
+    tempos: ['medium', 'varied'],
+    fills: ['technical', 'creative'],
+    doubleBass: ['important', 'moderate'],
   },
   19: { // Inferno
     genres: ['black', 'death'],
     styles: ['speed', 'power'],
     kits: ['massive'],
-    brands: ['pearl'],
-    personalities: ['perfectionist', 'servant'],
     eras: ['90s'],
-    energies: ['intense', 'focused'],
+    tempos: ['extreme'],
+    fills: ['flashy', 'power'],
+    doubleBass: ['essential'],
   },
   20: { // Hellhammer
     genres: ['black'],
     styles: ['speed', 'power'],
     kits: ['classic'],
-    brands: ['pearl'],
-    personalities: ['pioneer', 'perfectionist'],
     eras: ['80s', '90s'],
-    energies: ['intense', 'focused'],
+    tempos: ['extreme', 'fast'],
+    fills: ['power', 'minimal'],
+    doubleBass: ['essential', 'important'],
   },
   21: { // Pete Sandoval
     genres: ['death'],
     styles: ['speed', 'technical'],
     kits: ['massive'],
-    brands: ['any'],
-    personalities: ['pioneer', 'perfectionist'],
     eras: ['80s'],
-    energies: ['intense', 'explosive'],
+    tempos: ['extreme'],
+    fills: ['flashy', 'technical'],
+    doubleBass: ['essential'],
   },
   22: { // Art Cruz
     genres: ['groove', 'thrash'],
     styles: ['power', 'groove'],
     kits: ['massive'],
-    brands: ['any'],
-    personalities: ['servant', 'perfectionist'],
     eras: ['2010s'],
-    energies: ['explosive', 'intense'],
+    tempos: ['fast', 'medium'],
+    fills: ['power', 'flashy'],
+    doubleBass: ['essential', 'important'],
   },
   23: { // Arin Ilejay
     genres: ['thrash', 'progressive'],
     styles: ['power', 'versatile'],
     kits: ['classic', 'massive'],
-    brands: ['mapex'],
-    personalities: ['servant', 'perfectionist'],
     eras: ['2010s'],
-    energies: ['explosive', 'dynamic'],
+    tempos: ['fast', 'medium', 'varied'],
+    fills: ['power', 'technical'],
+    doubleBass: ['important', 'moderate'],
   },
   24: { // Navene Koperweis
     genres: ['progressive', 'death'],
     styles: ['technical', 'groove'],
     kits: ['hybrid', 'massive'],
-    brands: ['dw'],
-    personalities: ['innovator', 'perfectionist'],
     eras: ['2010s'],
-    energies: ['focused', 'dynamic'],
+    tempos: ['varied', 'medium'],
+    fills: ['creative', 'technical'],
+    doubleBass: ['moderate', 'important'],
   },
   25: { // Alex Bent
     genres: ['thrash', 'death'],
     styles: ['technical', 'speed'],
     kits: ['massive'],
-    brands: ['pearl'],
-    personalities: ['perfectionist', 'servant'],
     eras: ['2010s'],
-    energies: ['intense', 'focused'],
+    tempos: ['extreme', 'fast'],
+    fills: ['technical', 'flashy'],
+    doubleBass: ['essential', 'important'],
   },
   26: { // Shannon Larkin
     genres: ['nu-metal', 'groove'],
     styles: ['groove', 'power'],
     kits: ['classic', 'massive'],
-    brands: ['pearl'],
-    personalities: ['servant', 'showman'],
     eras: ['90s', '2000s'],
-    energies: ['groovy', 'explosive'],
+    tempos: ['medium', 'slow'],
+    fills: ['power', 'minimal'],
+    doubleBass: ['moderate', 'occasional'],
   },
   27: { // Raymond Herrera
     genres: ['groove', 'death'],
     styles: ['technical', 'power'],
     kits: ['massive'],
-    brands: ['tama'],
-    personalities: ['perfectionist', 'innovator'],
     eras: ['90s'],
-    energies: ['focused', 'intense'],
+    tempos: ['fast', 'extreme'],
+    fills: ['technical', 'power'],
+    doubleBass: ['essential', 'important'],
   },
   28: { // Morgan Ågren
     genres: ['progressive'],
     styles: ['technical', 'versatile'],
     kits: ['hybrid', 'classic'],
-    brands: ['sonor'],
-    personalities: ['innovator', 'perfectionist'],
     eras: ['90s', '2000s'],
-    energies: ['dynamic', 'focused'],
+    tempos: ['varied'],
+    fills: ['creative', 'technical'],
+    doubleBass: ['moderate', 'occasional'],
   },
   29: { // Igor Cavalera
     genres: ['thrash', 'groove', 'death'],
     styles: ['power', 'groove'],
     kits: ['classic', 'massive'],
-    brands: ['tama'],
-    personalities: ['pioneer', 'innovator'],
     eras: ['80s', '90s'],
-    energies: ['explosive', 'groovy'],
+    tempos: ['fast', 'medium'],
+    fills: ['power', 'creative'],
+    doubleBass: ['important', 'essential'],
   },
   30: { // Bill Ward
     genres: ['groove'],
     styles: ['groove', 'versatile'],
     kits: ['classic'],
-    brands: ['any'],
-    personalities: ['pioneer', 'servant'],
     eras: ['80s'],
-    energies: ['dynamic', 'groovy'],
+    tempos: ['slow', 'medium'],
+    fills: ['creative', 'minimal'],
+    doubleBass: ['minimal', 'occasional'],
   },
 };
 
@@ -3811,48 +4069,46 @@ function calculateMatches(answers, drummers) {
     let score = 0;
     const reasons = [];
 
-    // Genre match (high weight)
+    // Genre match (high weight - 25 points)
     if (answers.genre && profile.genres.includes(answers.genre)) {
-      score += 30;
+      score += 25;
       reasons.push('genre preference');
     }
 
-    // Style match (high weight)
+    // Tempo match (high weight - 20 points)
+    if (answers.tempo && profile.tempos && profile.tempos.includes(answers.tempo)) {
+      score += 20;
+      reasons.push('tempo preference');
+    }
+
+    // Style match (high weight - 20 points)
     if (answers.style && profile.styles.includes(answers.style)) {
-      score += 25;
+      score += 20;
       reasons.push('playing style');
     }
 
-    // Kit preference match
+    // Fill preference match (medium weight - 12 points)
+    if (answers.fills && profile.fills && profile.fills.includes(answers.fills)) {
+      score += 12;
+      reasons.push('fill style');
+    }
+
+    // Double bass importance match (medium weight - 12 points)
+    if (answers.doubleBass && profile.doubleBass && profile.doubleBass.includes(answers.doubleBass)) {
+      score += 12;
+      reasons.push('double bass approach');
+    }
+
+    // Kit preference match (lower weight - 6 points)
     if (answers.kit && profile.kits.includes(answers.kit)) {
-      score += 15;
+      score += 6;
       reasons.push('kit setup');
     }
 
-    // Brand affinity (lower weight since "any" is common)
-    if (answers.brand && answers.brand !== 'any') {
-      if (profile.brands.includes(answers.brand) || profile.brands.includes('any')) {
-        score += 10;
-        reasons.push('brand preference');
-      }
-    }
-
-    // Personality match
-    if (answers.personality && profile.personalities.includes(answers.personality)) {
-      score += 15;
-      reasons.push('drumming philosophy');
-    }
-
-    // Era match
+    // Era match (lower weight - 5 points)
     if (answers.era && profile.eras.includes(answers.era)) {
       score += 5;
       reasons.push('era influence');
-    }
-
-    // Energy/stage presence match
-    if (answers.energy && profile.energies && profile.energies.includes(answers.energy)) {
-      score += 10;
-      reasons.push('live energy');
     }
 
     return { drummer, score, reasons };
@@ -5675,8 +5931,23 @@ function AppContent() {
         />
       );
     }
+    if (showGearByBudget) {
+      return (
+        <GearByBudgetPage
+          theme={theme}
+          onBack={() => {
+            setShowGearByBudget(false);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/');
+            }
+          }}
+          drummers={drummers}
+          onSelectDrummer={handleSelectDrummer}
+        />
+      );
+    }
     if (selectedDrummer) {
-      return <DrummerDetail drummer={selectedDrummer} theme={theme} onBack={handleBack} onSelectGear={handleSelectGear} onCompareYourKit={handleCompareYourKit} />;
+      return <DrummerDetail drummer={selectedDrummer} theme={theme} onBack={handleBack} onSelectGear={handleSelectGear} onCompareYourKit={handleCompareYourKit} allDrummers={drummers} />;
     }
     return (
       <View style={styles.mainContent} accessibilityRole="main">

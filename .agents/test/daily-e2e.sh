@@ -211,7 +211,8 @@ main() {
   local media_output=""
   local media_exit=0
   
-  media_output=$(node .agents/test/drummer-media-tests.mjs 2>&1) || media_exit=$?
+  # Use absolute path since cd in run_tests_with_retry was in a subshell
+  media_output=$(node "$PROJECT_DIR/.agents/test/drummer-media-tests.mjs" 2>&1) || media_exit=$?
   
   echo "$media_output" >> "$LOG_FILE"
   

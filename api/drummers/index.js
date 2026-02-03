@@ -1542,7 +1542,7 @@ const drummers = [
     band: 'ex-Trivium',
     genre: 'Metalcore / Thrash Metal',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/8/8c/Nick_Augusto_2016.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/1/10/Trivium_2012.JPG',
     bio: 'Nick Augusto (born August 4, 1986) is an American drummer best known for his tenure with Trivium from 2009 to 2014. Before joining Trivium, he was the drummer for the grindcore band Maruta and played in Metal Militia alongside future Trivium bassist Paolo Gregoletto. Augusto initially joined Trivium as their drum technician before stepping in as a fill-in drummer after Travis Smith went on hiatus. His powerful, speedy drumming style contributed to two studio albums: "In Waves" (2011) and "Vengeance Falls" (2013). Known for his aggressive playing and technical proficiency, Augusto brought a fresh energy to Trivium\'s live performances. After parting ways with Trivium, he formed the band Corrosion and has continued touring with bands like Light the Torch.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Nick_Augusto',
@@ -1560,7 +1560,7 @@ const drummers = [
       notes: 'Gear from Trivium era (2009-2014)'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/8/8c/Nick_Augusto_2016.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/1/10/Trivium_2012.JPG'
     ],
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
@@ -1580,7 +1580,7 @@ const drummers = [
     band: 'Oceans Ate Alaska',
     genre: 'Progressive Metalcore',
     country: 'UK',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/1/17/Oceans_Ate_Alaska_0002.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/d/dc/Oceans_Ate_Alaska_With_Full_Force_2018_10.jpg',
     bio: 'Chris Turner is a British drummer and founding member of the progressive metalcore band Oceans Ate Alaska, formed in 2010 in Birmingham. Known for his exceptionally technical and polyrhythmic drumming style, Turner has been praised for pushing the boundaries of modern metalcore drumming. His playing incorporates complex time signatures, intricate blast beats, and fusion-influenced patterns that have earned him recognition as one of the most innovative drummers in contemporary metal. Oceans Ate Alaska\'s unique blend of metalcore with Japanese musical influences, particularly on their album "Hikari" (2017), showcases Turner\'s versatility and creativity. He has cited drummers like Matt Halpern and Matt Garstka as influences.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Oceans_Ate_Alaska',
@@ -1599,7 +1599,7 @@ const drummers = [
       sources: ['https://meinlcymbals.com/en/artists', 'https://www.youtube.com/@ChrisTurnerDrums']
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/1/17/Oceans_Ate_Alaska_0002.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/d/dc/Oceans_Ate_Alaska_With_Full_Force_2018_10.jpg'
     ],
     endorsements: [
       { name: 'Tama Drums', url: 'https://www.tama.com' },
@@ -1619,7 +1619,7 @@ const drummers = [
     band: 'August Burns Red',
     genre: 'Metalcore / Christian Metal',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/3/3b/2017_Matt_Greiner_%28cropped%29.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/f/f8/August_Burns_Red_%E2%80%93_Elbriot_2014_04.jpg',
     bio: 'Matthew Wilson Greiner (born October 28, 1985) is an American drummer and founding member of the metalcore band August Burns Red, formed in 2003 in Manheim, Pennsylvania. Known for his highly technical drumming style, Greiner combines blazing double bass patterns with intricate fills and creative use of dynamics. His work on albums like "Messengers," "Constellations," and "Phantom Anthem" has earned him widespread acclaim in the metal community. In 2012, he co-founded the drum company Greiner & Kilmer with fellow drummer Kaleb Kilmer. A Grammy-nominated artist (Best Metal Performance for "Identity"), Greiner is considered one of the most influential metalcore drummers of his generation. Beyond drumming, he is also an accomplished pianist and an outspoken Christian.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Matt_Greiner',
@@ -1639,7 +1639,7 @@ const drummers = [
       sources: ['https://meinlcymbals.com/en/artists', 'https://en.wikipedia.org/wiki/Matt_Greiner']
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/3/3b/2017_Matt_Greiner_%28cropped%29.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/f/f8/August_Burns_Red_%E2%80%93_Elbriot_2014_04.jpg'
     ],
     endorsements: [
       { name: 'Greiner & Kilmer Drums', url: 'https://www.greinerkilmer.com' },
@@ -1664,7 +1664,7 @@ const drummers = [
     band: 'Between the Buried and Me',
     genre: 'Progressive Metal / Technical Death Metal',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/4/4a/Between_the_Buried_and_Me_%C3%A0_Aarau_%2844226638080%29.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/1/1b/Between_the_Buried_and_Me_%40_Euroblast_2015_08.jpg',
     bio: 'Cartland Blake Richardson (born June 29, 1984) is the drummer for American progressive metal band Between the Buried and Me, as well as Glass Casket. Joining BTBAM in early 2005, Richardson replaced former drummer Jason Roe and has been integral to the band\'s evolution ever since. His drumming is characterized by a fusion of death metal precision with jazz influences, featuring complex blast beats, odd time signatures, and fill-heavy arrangements. Richardson\'s work on landmark albums like "Colors," "The Great Misdirect," and "Colors II" has earned him Grammy nominations and widespread acclaim. Inspired by drummers like Terry Bozzio, Dennis Chambers, and Tomas Haake, he is considered one of the most creative and technically proficient drummers in modern progressive metal.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Blake_Richardson_(drummer)',
@@ -1684,7 +1684,7 @@ const drummers = [
       sources: ['https://en.wikipedia.org/wiki/Blake_Richardson_(drummer)', 'https://sabian.com/artists']
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/4/4a/Between_the_Buried_and_Me_%C3%A0_Aarau_%2844226638080%29.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/1/1b/Between_the_Buried_and_Me_%40_Euroblast_2015_08.jpg'
     ],
     endorsements: [
       { name: 'Tama Drums', url: 'https://www.tama.com' },
@@ -1791,7 +1791,7 @@ const drummers = [
     band: 'Shadows Fall / Overkill / Category 7',
     genre: 'Thrash Metal / Heavy Metal',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/3/3c/Overkill_Party.San_Metal_Open_Air_2017_13.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/7/74/Overkill_Party.San_Metal_Open_Air_2017_21.jpg',
     bio: 'Jason Bittner (born January 11, 1970) is an American drummer best known for his work with Shadows Fall, Overkill, Flotsam and Jetsam, and supergroup Category 7. A Berklee College of Music alumnus, Bittner combines technical precision with raw power, making him a standout in the thrash metal scene. He joined Shadows Fall in 2001 and was integral to their commercial breakthrough, winning multiple "Best Metal Drummer" awards from Modern Drummer magazine. His playing on albums like "The Art of Balance" and "The War Within" earned him widespread recognition. Bittner joined Overkill in 2017, bringing his technical chops to the legendary thrash band. He has also filled in for Charlie Benante of Anthrax on multiple occasions. An accomplished educator, he has released instructional DVDs and written for drum publications worldwide.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Jason_Bittner',
@@ -1811,7 +1811,7 @@ const drummers = [
       sources: ['https://en.wikipedia.org/wiki/Jason_Bittner', 'https://mapexdrums.com/artists']
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/3/3c/Overkill_Party.San_Metal_Open_Air_2017_13.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/7/74/Overkill_Party.San_Metal_Open_Air_2017_21.jpg'
     ],
     endorsements: [
       { name: 'Mapex Drums', url: 'https://www.mapexdrums.com' },
@@ -1835,7 +1835,7 @@ const drummers = [
     band: 'Soen / ex-Opeth',
     genre: 'Progressive Metal / Progressive Death Metal',
     country: 'Sweden',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/2/29/Soen_2019.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/2/2c/Soen_%40_Euroblast_Festival_2018-10-06_030.jpg',
     bio: 'Martín Walter López Cardozo (born May 20, 1978) is a Swedish-Uruguayan drummer best known as the former drummer of Opeth and current member/co-founder of progressive metal band Soen. López joined Opeth in 1997 after leaving Amon Amarth, and his drumming was central to their classic albums including "Blackwater Park," "Deliverance," "Damnation," and "Ghost Reveries." His dynamic playing style combines jazz finesse with metal power, featuring creative use of ghost notes, complex hi-hat patterns, and melodic tom work. Health issues led to his departure from Opeth in 2006. In 2010, he co-founded Soen with bassist Steve Di Giorgio, creating a new vehicle for his progressive vision. López\'s drumming emphasizes feel and musicality over pure technicality, making him one of the most tasteful drummers in progressive metal.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Martin_Lopez',
@@ -1854,7 +1854,7 @@ const drummers = [
       sources: ['https://en.wikipedia.org/wiki/Martin_Lopez', 'https://zildjian.com/artists']
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/2/29/Soen_2019.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/2/2c/Soen_%40_Euroblast_Festival_2018-10-06_030.jpg'
     ],
     endorsements: [
       { name: 'Noble & Cooley Drums', url: 'https://www.noblecooley.com' },
@@ -1879,7 +1879,7 @@ const drummers = [
     band: 'Darkest Hour / ex-Periphery',
     genre: 'Thrash Metal / Progressive Metal / Djent',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/2/2f/Darkest_Hour_Metal_Frenzy_2017_07.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/3/3e/Darkest_Hour_%282%29.jpg',
     bio: 'Travis Orbin (born August 26, 1985) is an American drummer known for his work with Darkest Hour and as the original studio drummer for Periphery. A self-taught drummer from New York, Orbin rose to prominence recording Periphery\'s groundbreaking self-titled debut album (2010), which helped define the djent movement. His complex polyrhythmic patterns, precise double bass work, and creative use of electronic triggers set a new standard for modern metal drumming. After leaving Periphery, he joined thrash metal band Darkest Hour in 2013. Orbin is also a prolific session musician and runs the "Travis Orbin Drum" YouTube channel where he posts playthroughs of his studio work. His influences include Gene Hoglan, Tomas Haake, and Matt Garstka.',
     sameAs: [
       'https://www.instagram.com/travisorbin/',
@@ -1898,7 +1898,7 @@ const drummers = [
       sources: ['https://sjcdrums.com/pages/artists', 'https://zildjian.com/artists']
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/2/2f/Darkest_Hour_Metal_Frenzy_2017_07.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/3/3e/Darkest_Hour_%282%29.jpg'
     ],
     endorsements: [
       { name: 'SJC Custom Drums', url: 'https://www.sjcdrums.com' },
@@ -1920,7 +1920,7 @@ const drummers = [
     band: 'Devin Townsend Project',
     genre: 'Progressive Metal / Extreme Metal',
     country: 'Canada',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/5/55/Devin_Townsend_Project_2015.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/e/e1/Devin_Townsend_Project_%E2%80%93_Wacken_Open_Air_2014_03.jpg',
     bio: 'Ryan Van Poederooyen is a Canadian drummer best known for his longtime collaboration with Devin Townsend in the Devin Townsend Band and Devin Townsend Project. A Montreal native, Van Poederooyen\'s powerful yet dynamic drumming style has been central to Townsend\'s music since the early 2000s. His ability to navigate Townsend\'s complex, genre-defying compositions—from ambient passages to crushing metal sections—showcases his versatility. Key albums include "Accelerated Evolution," "Synchestra," "Addicted," "Deconstruction," and "Transcendence." Van Poederooyen combines heavy metal power with prog-rock finesse, featuring creative tom patterns, tasteful cymbal work, and thunderous double bass. He has also worked as a session drummer and drum teacher in the Montreal area.',
     sameAs: [
       'https://www.instagram.com/ryanvanp/',
@@ -1938,7 +1938,7 @@ const drummers = [
       sources: ['https://pearldrum.com/en/artists', 'https://sabian.com/artists']
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/5/55/Devin_Townsend_Project_2015.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/e/e1/Devin_Townsend_Project_%E2%80%93_Wacken_Open_Air_2014_03.jpg'
     ],
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },

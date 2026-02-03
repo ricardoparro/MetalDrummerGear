@@ -45,6 +45,15 @@ const drummers = [
       { text: "The only way to do great work is to love what you do. I've been fortunate enough to do that for over 40 years.", source: "Drumeo Interview", year: 2020 },
       { text: "Music is the most powerful form of communication in the world. It brings people together from all walks of life.", source: "Rolling Stone", year: 2016 }
     ],
+    spotlight: {
+      quickFacts: [
+        "Co-founded Metallica in a Los Angeles newspaper ad in 1981",
+        "Has played over 1,500 live shows with Metallica",
+        "First drummer to use Ahead aluminum drumsticks professionally"
+      ],
+      iconicMoment: "The Black Album sessions (1991) - helping craft the most commercially successful metal album of all time",
+      gearHighlight: "His signature Tama LU1465 snare drum, known for its cutting attack and projection"
+    },
     gearTimeline: [
       {
         era: 'Early Years',
@@ -112,7 +121,16 @@ const drummers = [
         },
         notes: 'Current setup optimized for massive stadium tours. Uses Ahead aluminum sticks for durability.'
       }
-    ]
+    ],
+    spotlight: {
+      quickFacts: [
+        'Co-founded Metallica in 1981 with James Hetfield in Los Angeles',
+        'First Danish musician inducted into the Rock and Roll Hall of Fame',
+        'Known for his aggressive fills and iconic double bass patterns on classic thrash albums'
+      ],
+      iconicMoment: 'His drumming on "Master of Puppets" helped define the thrash metal sound that influenced generations',
+      gearHighlight: 'His Tama Starclassic Maple kit and signature snare deliver the punchy attack Metallica is known for'
+    }
   },
   {
     id: 2,
@@ -149,6 +167,15 @@ const drummers = [
       { text: "Every time I sit behind a drum kit, I want to destroy it. That's the only way I know how to play.", source: "Revolver Magazine", year: 2008 },
       { text: "Practice doesn't make perfect. Perfect practice makes perfect. There's a big difference.", source: "Drum! Magazine", year: 2010 }
     ],
+    spotlight: {
+      quickFacts: [
+        "Recorded drums for Iowa album in just 10 days",
+        "Designed the iconic #1 mask himself as part of Slipknot's visual identity",
+        "Could play at 280+ BPM with precision timing"
+      ],
+      iconicMoment: "The Iowa era (2001) - creating the most brutal and technically demanding Slipknot album",
+      gearHighlight: "His signature 13\" Pearl snare drum designed for machine-gun fills and rapid-fire patterns"
+    },
     gearTimeline: [
       {
         era: 'Pre-Slipknot',
@@ -253,6 +280,15 @@ const drummers = [
       { youtubeId: 'Jg4-gLPbngg', title: 'Gene Hoglan - Testament "Into The Pit" (Live Drum Cam)', year: '2017' },
       { youtubeId: 'q3jPgKjPqE4', title: 'Gene Hoglan - Dethklok "Thunderhorse" (Drum Playthrough)', year: '2019' }
     ],
+    spotlight: {
+      quickFacts: [
+        "Nicknamed 'The Atomic Clock' for his metronomic precision without click tracks",
+        "Dark Angel's 'Time Does Not Heal' features 246 riffs - he memorized the entire 60-minute album",
+        "Stands 6'3\" and weighs over 250 lbs, earning him the nickname 'The Human Drum Machine'"
+      ],
+      iconicMoment: "Recording Death's 'Individual Thought Patterns' (1993) - elevating progressive death metal drumming to new heights",
+      gearHighlight: "His signature Tama 14x8\" deep snare, designed for thunderous power and cutting attack"
+    },
     gearTimeline: [
       {
         era: 'Dark Angel Era',
@@ -362,7 +398,16 @@ const drummers = [
       { text: "Speed is nothing without control. You have to be able to play fast and tight at the same time.", source: "Modern Drummer Magazine", year: 2006 },
       { text: "I never wanted to be a typical metal drummer. I wanted to bring jazz, Latin, and world music influences into heavy music.", source: "Drumeo Interview", year: 2019 },
       { text: "Reign in Blood changed everything. We didn't know we were making history, we were just playing as fast and hard as we could.", source: "Revolver Magazine", year: 2016 }
-    ]
+    ],
+    spotlight: {
+      quickFacts: [
+        "Born in Havana, Cuba - brought Latin rhythmic sensibility to thrash metal",
+        "Reign in Blood (1986) was recorded in just 3 weeks",
+        "Has collaborated with Mike Patton, John Zorn, and Fantômas outside of metal"
+      ],
+      iconicMoment: "Recording 'Reign in Blood' (1986) - 28 minutes that redefined extreme metal drumming forever",
+      gearHighlight: "His signature Pearl snare and preference for Paiste RUDE cymbals that cut through Slayer's wall of sound"
+    }
   },
   {
     id: 5,
@@ -1537,6 +1582,46 @@ app.get('/api/gear/:slug', (req, res) => {
     ...gear,
     usedBy,
     relatedGear
+  });
+});
+
+// Get all drummers with spotlight data
+app.get('/api/spotlights', (req, res) => {
+  const spotlightDrummers = drummers
+    .filter(d => d.spotlight)
+    .map(({ id, name, band, genre, genres, country, image, spotlight }) => ({
+      id, name, band, genre, genres, country, image, spotlight
+    }));
+  res.json(spotlightDrummers);
+});
+
+// Get current week's spotlight drummer (deterministic based on week number)
+app.get('/api/spotlight/current', (req, res) => {
+  const spotlightDrummers = drummers.filter(d => d.spotlight);
+  if (spotlightDrummers.length === 0) {
+    return res.status(404).json({ error: 'No spotlight drummers available' });
+  }
+  
+  // Get week number of the year for rotation
+  const now = new Date();
+  const startOfYear = new Date(now.getFullYear(), 0, 1);
+  const weekNumber = Math.floor((now - startOfYear) / (7 * 24 * 60 * 60 * 1000));
+  
+  // Use week number to select a drummer (cycles through available spotlights)
+  const index = weekNumber % spotlightDrummers.length;
+  const drummer = spotlightDrummers[index];
+  
+  res.json({
+    id: drummer.id,
+    name: drummer.name,
+    band: drummer.band,
+    genre: drummer.genre,
+    genres: drummer.genres,
+    country: drummer.country,
+    image: drummer.image,
+    spotlight: drummer.spotlight,
+    weekNumber: weekNumber,
+    totalSpotlights: spotlightDrummers.length
   });
 });
 

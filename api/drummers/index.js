@@ -313,6 +313,11 @@ const drummers = [
         },
         notes: 'At 57+, Gene continues to be one of the most in-demand drummers in extreme metal.'
       }
+    ],
+    quotes: [
+      { text: "I was always the guy who wanted to be the best. Not the fastest, but the most musical, the most precise.", source: "Modern Drummer Magazine", year: 2015 },
+      { text: "Speed is useless without control. I'd rather play something perfectly at 180 BPM than sloppily at 220.", source: "Drumeo Interview", year: 2018 },
+      { text: "Working with Chuck Schuldiner on Death taught me that extreme music can be intelligent and emotional, not just brutal.", source: "Revolver Magazine", year: 2016 }
     ]
   },
   {
@@ -538,6 +543,11 @@ const drummers = [
         },
         notes: 'Tomas\'s influence on modern metal drumming cannot be overstated. He defined an entire subgenre.'
       }
+    ],
+    quotes: [
+      { text: "The polyrhythmic approach came from wanting to create something that felt both mechanical and organic at the same time.", source: "Modern Drummer Magazine", year: 2012 },
+      { text: "I use two single pedals instead of a double pedal because I want more independence and control over each foot.", source: "Drumeo Interview", year: 2019 },
+      { text: "'Bleed' took me six months of daily practice to play consistently. Some things just take time.", source: "Gear Gods Interview", year: 2017 }
     ]
   },
   {

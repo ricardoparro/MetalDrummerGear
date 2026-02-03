@@ -1703,24 +1703,8 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
 
       <KitCostCalculator drummer={drummer} theme={theme} />
 
-      {/* Affordable Alternatives Section */}
-      {allDrummers.length > 0 && (
-        <AffordableAlternativesSection
-          drummer={drummer}
-          allDrummers={allDrummers}
-          theme={theme}
-          onSelectDrummer={(id) => {
-            // Navigate to the drummer
-            if (Platform.OS === 'web' && typeof window !== 'undefined') {
-              const targetDrummer = allDrummers.find(d => d.id === id);
-              if (targetDrummer) {
-                window.history.pushState({}, '', `/drummer/${toSlug(targetDrummer.name)}`);
-                window.dispatchEvent(new PopStateEvent('popstate'));
-              }
-            }
-          }}
-        />
-      )}
+      {/* Similar Drummers Section - TEMPORARILY DISABLED - component needs to be restored from PR #158 */}
+      {/* TODO: Restore SimilarDrummersSection from feature/issue-157-similar-drummers branch */}
 
       {/* Compare Your Kit CTA */}
       <View style={[styles.section, styles.compareYourKitCTA, { backgroundColor: theme.card, borderColor: '#dc2626' }]}>

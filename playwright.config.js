@@ -1,9 +1,7 @@
 // @ts-check
 const { defineConfig, devices } = require('@playwright/test');
 
-// Use production URL by default, override with env vars for local testing
 const BASE_URL = process.env.BASE_URL || 'https://metalforge.io';
-const API_URL = process.env.API_URL || 'https://metalforge.io';
 
 module.exports = defineConfig({
   testDir: './e2e',

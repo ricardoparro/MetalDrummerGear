@@ -1286,7 +1286,7 @@ function KitCostCalculator({ drummer, theme }) {
 }
 
 // Affordable Alternatives Component - Shows budget-friendly gear options
-function AffordableAlternatives({ drummer, theme, onSelectGear }) {
+function AffordableAlternativesSection({ drummer, allDrummers, theme, onSelectDrummer }) {
   const [gearItems, setGearItems] = useState([]);
   const [loading, setLoading] = useState(true);
   const [isExpanded, setIsExpanded] = useState(false);
@@ -1608,6 +1608,301 @@ function GearTimeline({ timeline, drummerName, theme }) {
   );
 }
 
+// ==========================================
+// SIMILAR DRUMMERS - Helper Functions & Component (Issue #157)
+// ==========================================
+
+// Extract drum brand from gear description
+function extractDrumBrand(gearDescription) {
+  if (!gearDescription) return null;
+  const brands = ['Tama', 'Pearl', 'DW', 'Sonor', 'Mapex', 'ddrum', 'SJC', 'OCDP', 'Ludwig', 'Gretsch', 'Yamaha'];
+  const lowerDesc = gearDescription.toLowerCase();
+  for (const brand of brands) {
+    if (lowerDesc.includes(brand.toLowerCase())) {
+      return brand;
+    }
+  }
+  return null;
+}
+
+// Extract cymbal brand from gear description
+function extractCymbalBrand(gearDescription) {
+  if (!gearDescription) return null;
+  const brands = ['Zildjian', 'Sabian', 'Meinl', 'Paiste'];
+  const lowerDesc = gearDescription.toLowerCase();
+  for (const brand of brands) {
+    if (lowerDesc.includes(brand.toLowerCase())) {
+      return brand;
+    }
+  }
+  return null;
+}
+
+// Get era decade from the drummer's era field
+function getEraPeriod(era) {
+  if (!era) return null;
+  const lowerEra = era.toLowerCase();
+  if (lowerEra.includes('80')) return '80s';
+  if (lowerEra.includes('90')) return '90s';
+  if (lowerEra.includes('2000') || lowerEra.includes('00s')) return '2000s';
+  if (lowerEra.includes('2010') || lowerEra.includes('10s')) return '2010s';
+  if (lowerEra.includes('current') || lowerEra.includes('2020')) return '2020s';
+  return era;
+}
+
+// Calculate similarity score between two drummers
+function calculateDrummerSimilarity(drummer1, drummer2) {
+  if (!drummer1 || !drummer2 || drummer1.id === drummer2.id) return 0;
+  
+  let score = 0;
+  const weights = {
+    primaryGenre: 40,      // Highest weight for primary genre match
+    secondaryGenre: 20,    // Secondary genre overlap
+    drumBrand: 15,         // Same drum kit brand
+    cymbalBrand: 10,       // Same cymbal brand
+    era: 15,               // Same era/generation
+  };
+  
+  // Get genres (from genres array or genre field)
+  const genres1 = drummer1.genres || (drummer1.genre ? [drummer1.genre] : []);
+  const genres2 = drummer2.genres || (drummer2.genre ? [drummer2.genre] : []);
+  
+  // Primary genre match (first genre in array)
+  if (genres1.length > 0 && genres2.length > 0) {
+    if (genres1[0] === genres2[0]) {
+      score += weights.primaryGenre;
+    } else {
+      // Partial match for related genres (using short codes like 'thrash', 'death', etc.)
+      const relatedGenres = {
+        'thrash': ['groove', 'death'],
+        'death': ['thrash', 'black', 'progressive'],
+        'black': ['death'],
+        'progressive': ['metalcore', 'death'],
+        'nu-metal': ['groove', 'metalcore'],
+        'groove': ['thrash', 'nu-metal'],
+        'metalcore': ['progressive', 'nu-metal'],
+        'hardcore': ['metalcore', 'thrash'],
+      };
+      const related = relatedGenres[genres1[0]] || [];
+      if (related.includes(genres2[0])) {
+        score += weights.primaryGenre * 0.5;
+      }
+    }
+  }
+  
+  // Secondary genre overlap
+  if (genres1.length > 1 && genres2.length > 1) {
+    const secondaryOverlap = genres1.slice(1).some(g => genres2.includes(g)) ||
+                             genres2.slice(1).some(g => genres1.includes(g));
+    if (secondaryOverlap) {
+      score += weights.secondaryGenre;
+    }
+  }
+  
+  // Drum brand match
+  const drumBrand1 = extractDrumBrand(drummer1.gear?.drums);
+  const drumBrand2 = extractDrumBrand(drummer2.gear?.drums);
+  if (drumBrand1 && drumBrand2 && drumBrand1 === drumBrand2) {
+    score += weights.drumBrand;
+  }
+  
+  // Cymbal brand match
+  const cymbalBrand1 = extractCymbalBrand(drummer1.gear?.cymbals);
+  const cymbalBrand2 = extractCymbalBrand(drummer2.gear?.cymbals);
+  if (cymbalBrand1 && cymbalBrand2 && cymbalBrand1 === cymbalBrand2) {
+    score += weights.cymbalBrand;
+  }
+  
+  // Era match
+  const era1 = getEraPeriod(drummer1.era);
+  const era2 = getEraPeriod(drummer2.era);
+  if (era1 && era2) {
+    if (era1 === era2) {
+      score += weights.era;
+    } else {
+      // Adjacent eras get partial score
+      const eraOrder = ['80s', '90s', '2000s', '2010s', '2020s'];
+      const idx1 = eraOrder.indexOf(era1);
+      const idx2 = eraOrder.indexOf(era2);
+      if (idx1 >= 0 && idx2 >= 0 && Math.abs(idx1 - idx2) === 1) {
+        score += weights.era * 0.5;
+      }
+    }
+  }
+  
+  return Math.round(score);
+}
+
+// Get similar drummers sorted by similarity score
+function getSimilarDrummers(drummer, allDrummers, count = 4) {
+  if (!drummer || !allDrummers || allDrummers.length === 0) return [];
+  
+  const similarities = allDrummers
+    .filter(d => d.id !== drummer.id)
+    .map(d => ({
+      drummer: d,
+      similarity: calculateDrummerSimilarity(drummer, d),
+    }))
+    .filter(item => item.similarity > 0)
+    .sort((a, b) => b.similarity - a.similarity)
+    .slice(0, count);
+  
+  return similarities;
+}
+
+// Get a standout gear item for display
+function getStandoutGear(drummer) {
+  if (!drummer?.gear) return null;
+  
+  // Priority: Snare > Drums > Cymbals
+  if (drummer.gear.snare) {
+    // Extract just the brand and model (first few words)
+    const snare = drummer.gear.snare.split(',')[0].split('(')[0].trim();
+    return snare.length > 40 ? snare.substring(0, 37) + '...' : snare;
+  }
+  if (drummer.gear.drums) {
+    const drums = drummer.gear.drums.split(',')[0].split('(')[0].trim();
+    return drums.length > 40 ? drums.substring(0, 37) + '...' : drums;
+  }
+  if (drummer.gear.cymbals) {
+    // Extract just the brand and series
+    const match = drummer.gear.cymbals.match(/^([A-Za-z]+\s+[A-Za-z]+(\s+[A-Za-z]+)?)/);
+    return match ? match[1] : null;
+  }
+  return null;
+}
+
+// Similar Drummers Section Component
+function SimilarDrummersSection({ drummer, allDrummers, theme, onSelectDrummer }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  
+  const similarDrummers = useMemo(() => {
+    return getSimilarDrummers(drummer, allDrummers, 4);
+  }, [drummer, allDrummers]);
+  
+  if (similarDrummers.length === 0) {
+    return null;
+  }
+  
+  const handleDrummerPress = (targetDrummer) => {
+    if (onSelectDrummer) {
+      onSelectDrummer(targetDrummer.id);
+    }
+  };
+  
+  return (
+    <View style={[styles.section, styles.similarDrummersSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+      <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">
+        🎯 Similar Drummers
+      </Text>
+      <Text style={[styles.similarDrummersSubtitle, { color: theme.secondaryText }]}>
+        Drummers with similar style, genre, or gear preferences
+      </Text>
+      
+      <View style={[styles.similarDrummersGrid, isMobile && styles.similarDrummersGridMobile]}>
+        {similarDrummers.map(({ drummer: similarDrummer, similarity }) => {
+          const standoutGear = getStandoutGear(similarDrummer);
+          const genres = similarDrummer.genres || (similarDrummer.genre ? [similarDrummer.genre] : []);
+          
+          if (Platform.OS === 'web') {
+            const drummerUrl = `/drummer/${toSlug(similarDrummer.name)}`;
+            return (
+              <a
+                key={similarDrummer.id}
+                href={drummerUrl}
+                onClick={(e) => {
+                  e.preventDefault();
+                  handleDrummerPress(similarDrummer);
+                }}
+                style={{
+                  textDecoration: 'none',
+                  display: 'block',
+                  width: isMobile ? '100%' : '48%',
+                }}
+              >
+                <View style={[styles.similarDrummerCard, { backgroundColor: theme.background, borderColor: theme.border }]}>
+                  <ImageWithFallback
+                    source={{ uri: similarDrummer.image }}
+                    style={styles.similarDrummerImage}
+                    accessibilityLabel={`Photo of ${similarDrummer.name}`}
+                  />
+                  <View style={styles.similarDrummerInfo}>
+                    <Text style={[styles.similarDrummerName, { color: theme.text }]} numberOfLines={1}>
+                      {similarDrummer.name}
+                    </Text>
+                    <Text style={[styles.similarDrummerBand, { color: theme.secondaryText }]} numberOfLines={1}>
+                      {similarDrummer.band}
+                    </Text>
+                    {genres.length > 0 && (
+                      <View style={styles.similarDrummerGenres}>
+                        {genres.slice(0, 2).map((genre, idx) => (
+                          <GenreTag key={idx} genre={genre} size="small" />
+                        ))}
+                      </View>
+                    )}
+                    {standoutGear && (
+                      <Text style={[styles.similarDrummerGear, { color: theme.secondaryText }]} numberOfLines={1}>
+                        🥁 {standoutGear}
+                      </Text>
+                    )}
+                  </View>
+                  <View style={[styles.similarityBadge, { backgroundColor: theme.border }]}>
+                    <Text style={[styles.similarityText, { color: theme.text }]}>
+                      {similarity}%
+                    </Text>
+                  </View>
+                </View>
+              </a>
+            );
+          }
+          
+          return (
+            <TouchableOpacity
+              key={similarDrummer.id}
+              onPress={() => handleDrummerPress(similarDrummer)}
+              style={[styles.similarDrummerCard, { backgroundColor: theme.background, borderColor: theme.border }, isMobile && styles.similarDrummerCardMobile]}
+              accessibilityRole="button"
+              accessibilityLabel={`View ${similarDrummer.name}'s profile`}
+            >
+              <ImageWithFallback
+                source={{ uri: similarDrummer.image }}
+                style={styles.similarDrummerImage}
+                accessibilityLabel={`Photo of ${similarDrummer.name}`}
+              />
+              <View style={styles.similarDrummerInfo}>
+                <Text style={[styles.similarDrummerName, { color: theme.text }]} numberOfLines={1}>
+                  {similarDrummer.name}
+                </Text>
+                <Text style={[styles.similarDrummerBand, { color: theme.secondaryText }]} numberOfLines={1}>
+                  {similarDrummer.band}
+                </Text>
+                {genres.length > 0 && (
+                  <View style={styles.similarDrummerGenres}>
+                    {genres.slice(0, 2).map((genre, idx) => (
+                      <GenreTag key={idx} genre={genre} size="small" />
+                    ))}
+                  </View>
+                )}
+                {standoutGear && (
+                  <Text style={[styles.similarDrummerGear, { color: theme.secondaryText }]} numberOfLines={1}>
+                    🥁 {standoutGear}
+                  </Text>
+                )}
+              </View>
+              <View style={[styles.similarityBadge, { backgroundColor: theme.border }]}>
+                <Text style={[styles.similarityText, { color: theme.text }]}>
+                  {similarity}%
+                </Text>
+              </View>
+            </TouchableOpacity>
+          );
+        })}
+      </View>
+    </View>
+  );
+}
+
 function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit, allDrummers = [] }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
@@ -1750,6 +2045,25 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
             ))}
           </View>
         </View>
+      )}
+
+      {/* Similar Drummers Section - Issue #157 */}
+      {allDrummers.length > 0 && (
+        <SimilarDrummersSection
+          drummer={drummer}
+          allDrummers={allDrummers}
+          theme={theme}
+          onSelectDrummer={(id) => {
+            // Navigate to the selected drummer's profile
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              const targetDrummer = allDrummers.find(d => d.id === id);
+              if (targetDrummer) {
+                window.history.pushState({}, '', `/drummer/${toSlug(targetDrummer.name)}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }
+          }}
+        />
       )}
       </ScrollView>
     </View>
@@ -3229,6 +3543,7 @@ function DrummerList({
   onNavigateToSpotlights,
   onNavigateToQuotes,
   onNavigateToGearByBudget,
+  onNavigateToGearFinder,
   spotlight,
   filters,
   onFilterChange,
@@ -3329,6 +3644,16 @@ function DrummerList({
           <Text style={[styles.compareButtonText, { color: '#ffffff' }]}>💰 Gear by Budget</Text>
         </TouchableOpacity>
       </View>
+      <View style={[styles.actionButtonsRow, { marginTop: -8 }]}>
+        <TouchableOpacity
+          onPress={onNavigateToGearFinder}
+          style={[styles.quizButton, { backgroundColor: '#8b5cf6', borderColor: '#8b5cf6', flex: 1 }]}
+          accessibilityRole="button"
+          accessibilityLabel="Search drummers by gear"
+        >
+          <Text style={[styles.quizButtonText, { color: '#ffffff' }]}>🔍 Gear Finder</Text>
+        </TouchableOpacity>
+      </View>
       {/* Drummer Spotlight Section */}
       {spotlight && (
         <DrummerSpotlight
@@ -3414,6 +3739,27 @@ function getBudgetTierFromURL() {
 function updateBudgetTierURL(tier) {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return;
   const newPath = tier ? `/gear-by-budget?tier=${tier}` : '/gear-by-budget';
+  window.history.replaceState({}, '', newPath);
+}
+
+// Check if we're on the gear finder page based on URL
+function isGearFinderPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  const pathname = window.location.pathname;
+  return pathname === '/gear-finder' || pathname.startsWith('/gear-finder?');
+}
+
+// Get gear finder search query from URL params
+function getGearFinderQueryFromURL() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return '';
+  const params = new URLSearchParams(window.location.search);
+  return params.get('q') || '';
+}
+
+// Update URL for gear finder search
+function updateGearFinderURL(query) {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return;
+  const newPath = query ? `/gear-finder?q=${encodeURIComponent(query)}` : '/gear-finder';
   window.history.replaceState({}, '', newPath);
 }
 
@@ -5385,6 +5731,8 @@ function AppContent() {
   const [showPrivacy, setShowPrivacy] = useState(() => isPrivacyPage());
   const [showQuotes, setShowQuotes] = useState(() => isQuotesPage());
   const [showSpotlights, setShowSpotlights] = useState(() => isSpotlightsPage());
+  const [showGearByBudget, setShowGearByBudget] = useState(() => isGearByBudgetPage());
+  const [showGearFinder, setShowGearFinder] = useState(() => isGearFinderPage());
   const [selectedGear, setSelectedGear] = useState(null);
   const [loadingGear, setLoadingGear] = useState(false);
   // Compare Your Kit state
@@ -5812,6 +6160,7 @@ function AppContent() {
     setShowQuotes(false);
     setShowSpotlights(false);
     setShowGearByBudget(false);
+    setShowGearFinder(false);
     setSelectedDrummer(null);
     setSelectedDrummerId(null);
     setSelectedGear(null);
@@ -5826,6 +6175,7 @@ function AppContent() {
     setShowQuotes(false);
     setShowSpotlights(false);
     setShowGearByBudget(false);
+    setShowGearFinder(false);
     setSelectedDrummer(null);
     setSelectedDrummerId(null);
     setSelectedGear(null);
@@ -5841,6 +6191,7 @@ function AppContent() {
     setShowPrivacy(false);
     setShowSpotlights(false);
     setShowGearByBudget(false);
+    setShowGearFinder(false);
     setSelectedDrummer(null);
     setSelectedDrummerId(null);
     setSelectedGear(null);
@@ -5856,6 +6207,7 @@ function AppContent() {
     setShowPrivacy(false);
     setShowQuotes(false);
     setShowGearByBudget(false);
+    setShowGearFinder(false);
     setSelectedDrummer(null);
     setSelectedDrummerId(null);
     setSelectedGear(null);
@@ -5866,6 +6218,7 @@ function AppContent() {
 
   const handleNavigateToGearByBudget = () => {
     setShowGearByBudget(true);
+    setShowGearFinder(false);
     setShowSpotlights(false);
     setShowQuiz(false);
     setShowCompare(false);
@@ -5876,6 +6229,22 @@ function AppContent() {
     setSelectedGear(null);
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
       window.history.pushState({}, '', '/gear-by-budget');
+    }
+  };
+
+  const handleNavigateToGearFinder = () => {
+    setShowGearFinder(true);
+    setShowGearByBudget(false);
+    setShowSpotlights(false);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowPrivacy(false);
+    setShowQuotes(false);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/gear-finder');
     }
   };
 
@@ -6008,6 +6377,21 @@ function AppContent() {
         />
       );
     }
+    if (showGearFinder) {
+      return (
+        <GearFinderPage
+          theme={theme}
+          onBack={() => {
+            setShowGearFinder(false);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/');
+            }
+          }}
+          drummers={drummers}
+          onSelectDrummer={handleSelectDrummer}
+        />
+      );
+    }
     if (selectedDrummer) {
       return <DrummerDetail drummer={selectedDrummer} theme={theme} onBack={handleBack} onSelectGear={handleSelectGear} onCompareYourKit={handleCompareYourKit} allDrummers={drummers} />;
     }
@@ -6025,6 +6409,7 @@ function AppContent() {
           onNavigateToQuotes={handleNavigateToQuotes}
           onNavigateToSpotlights={handleNavigateToSpotlights}
           onNavigateToGearByBudget={handleNavigateToGearByBudget}
+          onNavigateToGearFinder={handleNavigateToGearFinder}
           spotlight={getCurrentSpotlightDrummer(drummers)}
           filters={filters}
           onFilterChange={handleFilterChange}
@@ -8763,5 +9148,76 @@ const styles = StyleSheet.create({
   viewAllBudgetText: {
     fontSize: 14,
     fontWeight: '500',
+  },
+
+  // Similar Drummers Section Styles (Issue #157)
+  similarDrummersSection: {
+    marginTop: 16,
+  },
+  similarDrummersSubtitle: {
+    fontSize: 14,
+    marginBottom: 16,
+  },
+  similarDrummersGrid: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 12,
+  },
+  similarDrummersGridMobile: {
+    flexDirection: 'column',
+  },
+  similarDrummerCard: {
+    width: '48%',
+    padding: 12,
+    borderRadius: 12,
+    borderWidth: 1,
+    flexDirection: 'row',
+    alignItems: 'flex-start',
+    position: 'relative',
+  },
+  similarDrummerCardMobile: {
+    width: '100%',
+  },
+  similarDrummerImage: {
+    width: 60,
+    height: 60,
+    borderRadius: 30,
+    marginRight: 12,
+  },
+  similarDrummerInfo: {
+    flex: 1,
+    paddingRight: 40,
+  },
+  similarDrummerName: {
+    fontSize: 14,
+    fontWeight: '600',
+    marginBottom: 2,
+  },
+  similarDrummerBand: {
+    fontSize: 12,
+    marginBottom: 6,
+  },
+  similarDrummerGenres: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 4,
+    marginBottom: 4,
+  },
+  similarDrummerGear: {
+    fontSize: 11,
+    marginTop: 6,
+    fontStyle: 'italic',
+  },
+  similarityBadge: {
+    position: 'absolute',
+    top: 8,
+    right: 8,
+    paddingHorizontal: 8,
+    paddingVertical: 4,
+    borderRadius: 12,
+  },
+  similarityText: {
+    fontSize: 11,
+    fontWeight: '600',
   },
 });

@@ -40,6 +40,43 @@ const FILTER_OPTIONS = {
   ],
 };
 
+// ==========================================
+// SPOTLIGHT HELPERS - Weekly Featured Drummer
+// ==========================================
+
+// Get the current week number since epoch for deterministic rotation
+function getWeekNumber() {
+  const now = new Date();
+  const epochStart = new Date('2024-01-01'); // Start date for rotation
+  const msPerWeek = 7 * 24 * 60 * 60 * 1000;
+  return Math.floor((now - epochStart) / msPerWeek);
+}
+
+// Get the current spotlight drummer index based on weekly rotation
+function getCurrentSpotlightIndex(totalDrummers) {
+  const week = getWeekNumber();
+  return week % totalDrummers;
+}
+
+// Get all drummers with spotlight data
+function getSpotlightDrummers(drummers) {
+  return drummers.filter(d => d.spotlight);
+}
+
+// Get this week's spotlight drummer (client-side computed)
+function getCurrentSpotlightDrummer(drummers) {
+  const spotlightDrummers = getSpotlightDrummers(drummers);
+  if (spotlightDrummers.length === 0) return null;
+  const index = getCurrentSpotlightIndex(spotlightDrummers.length);
+  return spotlightDrummers[index];
+}
+
+// Check if on spotlights archive page
+function isSpotlightsPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  return window.location.pathname === '/spotlights';
+}
+
 // Helper to get/set URL params for filters
 function getFiltersFromURL() {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return { search: '', genre: '', brand: '', era: '' };

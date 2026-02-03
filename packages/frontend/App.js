@@ -342,6 +342,12 @@ function YouTubeEmbed({ videoId, title, theme }) {
   const thumbnailUrl = `https://img.youtube.com/vi/${videoId}/hqdefault.jpg`;
   const youtubeUrl = `https://www.youtube.com/watch?v=${videoId}`;
 
+  // Web-specific props for lazy loading
+  const webProps = Platform.OS === 'web' ? {
+    loading: 'lazy',
+    decoding: 'async',
+  } : {};
+
   return (
     <TouchableOpacity
       onPress={() => Linking.openURL(youtubeUrl)}
@@ -353,6 +359,7 @@ function YouTubeEmbed({ videoId, title, theme }) {
         source={{ uri: thumbnailUrl }}
         style={styles.videoThumbnail}
         resizeMode="cover"
+        {...webProps}
       />
       <View style={styles.playButtonOverlay}>
         <View style={[styles.playButton, { backgroundColor: theme.card }]}>
@@ -513,7 +520,11 @@ function SearchBar({ value, onChange, onFocus, onClear, suggestions, onSelectSug
             >
               <View style={styles.suggestionContent}>
                 {suggestion.image && (
-                  <Image source={{ uri: suggestion.image }} style={styles.suggestionImage} />
+                  <Image 
+                    source={{ uri: suggestion.image }} 
+                    style={styles.suggestionImage}
+                    {...(Platform.OS === 'web' ? { loading: 'lazy', decoding: 'async' } : {})}
+                  />
                 )}
                 <View style={styles.suggestionText}>
                   <Text style={[styles.suggestionTitle, { color: theme.text }]}>{suggestion.name}</Text>
@@ -722,7 +733,17 @@ function FilterBar({ filters, onFilterChange, totalCount, filteredCount, onClear
   );
 }
 
-function ImageWithFallback({ source, style, accessibilityLabel }) {
+/**
+ * ImageWithFallback - Optimized image component with lazy loading support
+ * 
+ * @param {Object} props
+ * @param {Object} props.source - Image source object with uri property
+ * @param {Object} props.style - Style object for the image
+ * @param {string} props.accessibilityLabel - Accessibility label for the image
+ * @param {boolean} props.priority - If true, loads eagerly (above-fold images)
+ * @param {string} props.loading - 'lazy' (default) or 'eager' for loading strategy
+ */
+function ImageWithFallback({ source, style, accessibilityLabel, priority = false, loading }) {
   const [hasError, setHasError] = useState(false);
   const [imageUri, setImageUri] = useState(source?.uri || PLACEHOLDER_IMAGE);
 
@@ -738,6 +759,19 @@ function ImageWithFallback({ source, style, accessibilityLabel }) {
     }
   }, [hasError]);
 
+  // Determine loading strategy: priority images load eagerly, others lazy
+  const loadingStrategy = priority ? 'eager' : (loading || 'lazy');
+
+  // On web, we can use native lazy loading via the loading attribute
+  // React Native Web forwards unknown props to the underlying img element
+  const webProps = Platform.OS === 'web' ? {
+    loading: loadingStrategy,
+    // Add fetchpriority for LCP optimization on priority images
+    ...(priority && { fetchpriority: 'high' }),
+    // Add decoding async for non-priority images to not block main thread
+    decoding: priority ? 'sync' : 'async',
+  } : {};
+
   return (
     <Image
       source={{ uri: imageUri }}
@@ -745,6 +779,7 @@ function ImageWithFallback({ source, style, accessibilityLabel }) {
       accessibilityLabel={accessibilityLabel}
       onError={handleError}
       resizeMode="cover"
+      {...webProps}
     />
   );
 }
@@ -1038,6 +1073,65 @@ function updateDocumentMeta(drummer, drummers = [], filters = {}) {
     // Remove quotes schema when not on a drummer page with quotes
     quotesScript.remove();
   }
+
+  // SpeakableSpecification schema for voice search optimization
+  let speakableScript = document.querySelector('script[data-schema="speakable"]');
+  if (drummer) {
+    // Add speakable schema for drummer pages
+    if (!speakableScript) {
+      speakableScript = document.createElement('script');
+      speakableScript.type = 'application/ld+json';
+      speakableScript.setAttribute('data-schema', 'speakable');
+      document.head.appendChild(speakableScript);
+    }
+
+    const baseUrl = "https://metalforge.io";
+    const speakableSchema = {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": `${drummer.name} Drum Kit & Gear`,
+      "url": `${baseUrl}/drummer/${drummer.id}`,
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#drummer-name",
+          "#drummer-band",
+          "#drummer-bio",
+          "#drummer-gear"
+        ]
+      }
+    };
+
+    speakableScript.textContent = JSON.stringify(speakableSchema);
+  } else if (drummers && drummers.length > 0) {
+    // Add speakable schema for homepage
+    if (!speakableScript) {
+      speakableScript = document.createElement('script');
+      speakableScript.type = 'application/ld+json';
+      speakableScript.setAttribute('data-schema', 'speakable');
+      document.head.appendChild(speakableScript);
+    }
+
+    const baseUrl = "https://metalforge.io";
+    const speakableSchema = {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Metal Drummer Gear - Discover What Pro Drummers Play",
+      "url": baseUrl,
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#site-title",
+          "#site-description"
+        ]
+      }
+    };
+
+    speakableScript.textContent = JSON.stringify(speakableSchema);
+  } else if (speakableScript) {
+    // Remove speakable schema when not applicable
+    speakableScript.remove();
+  }
 }
 
 function SEOHead({ drummer, drummers = [], filters = {} }) {
@@ -1047,7 +1141,7 @@ function SEOHead({ drummer, drummers = [], filters = {} }) {
   return null;
 }
 
-function DrummerCard({ drummer, theme, onPress }) {
+function DrummerCard({ drummer, theme, onPress, priority = false }) {
   const cardContent = (
     <View style={styles.cardContent}>
       <View>
@@ -1055,6 +1149,7 @@ function DrummerCard({ drummer, theme, onPress }) {
           source={{ uri: drummer.image }}
           style={styles.cardImage}
           accessibilityLabel={`Photo of ${drummer.name}`}
+          priority={priority}
         />
       </View>
       <View style={styles.cardText}>
@@ -1640,10 +1735,11 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
             source={{ uri: drummer.image }}
             style={styles.detailImage}
             accessibilityLabel={`Photo of ${drummer.name}`}
+            priority={true}
           />
           <View style={styles.detailHeaderText}>
-            <Text style={[styles.detailName, { color: theme.text }]} accessibilityRole="header">{drummer.name}</Text>
-            <Text style={[styles.detailBand, { color: theme.secondaryText }]}>{drummer.band}</Text>
+            <Text nativeID="drummer-name" style={[styles.detailName, { color: theme.text }]} accessibilityRole="header">{drummer.name}</Text>
+            <Text nativeID="drummer-band" style={[styles.detailBand, { color: theme.secondaryText }]}>{drummer.band}</Text>
             <GenreTags genres={drummer.genres} size="large" />
             <Text style={[styles.detailMeta, { color: theme.secondaryText }]}>{drummer.country}</Text>
           </View>
@@ -1651,12 +1747,12 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
 
       <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
         <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">Biography</Text>
-        <Text style={[styles.bioText, { color: theme.secondaryText }]}>{drummer.bio}</Text>
+        <Text nativeID="drummer-bio" style={[styles.bioText, { color: theme.secondaryText }]}>{drummer.bio}</Text>
       </View>
 
       <QuotesSection quotes={drummer.quotes} drummerName={drummer.name} theme={theme} />
 
-      <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+      <View nativeID="drummer-gear" style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
         <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">Gear Setup</Text>
         <GearSection title="Drums" content={drummer.gear.drums} theme={theme} gearType="drums" />
         <GearSection title="Snare" content={drummer.gear.snare} theme={theme} gearType="snare" />
@@ -3060,6 +3156,7 @@ function DrummerSpotlight({ drummer, theme, onSelectDrummer, onViewAllSpotlights
             source={{ uri: drummer.image }}
             style={[styles.spotlightImage, isMobile && styles.spotlightImageMobile]}
             accessibilityLabel={`Photo of ${drummer.name}`}
+            priority={true}
           />
         </TouchableOpacity>
         
@@ -3351,11 +3448,12 @@ function DrummerList({
         <FlatList
           data={filteredDrummers}
           keyExtractor={(item) => item.id.toString()}
-          renderItem={({ item }) => (
+          renderItem={({ item, index }) => (
             <DrummerCard
               drummer={item}
               theme={theme}
               onPress={() => onSelectDrummer(item.id)}
+              priority={index < 4}
             />
           )}
           contentContainerStyle={styles.listContainer}
@@ -3599,6 +3697,7 @@ function GearDetail({ gear, theme, onBack, onSelectDrummer }) {
           source={{ uri: gear.image }}
           style={styles.gearDetailImage}
           accessibilityLabel={`Photo of ${gear.name}`}
+          priority={true}
         />
         <View style={styles.gearDetailHeaderText}>
           <View style={[styles.gearCategoryBadge, { backgroundColor: theme.card, borderColor: theme.border }]}>
@@ -6048,8 +6147,11 @@ function AppContent() {
     <View style={[styles.container, { backgroundColor: theme.background }]}>
       {!selectedDrummer && !showCompare && !showQuiz && !showPrivacy && !showQuotes && !selectedGear && <SEOHead drummers={drummers} filters={filters} />}
       <View style={styles.header} accessibilityRole="banner">
-        <Text style={[styles.title, { color: theme.text }]} accessibilityRole="header">
+        <Text nativeID="site-title" style={[styles.title, { color: theme.text }]} accessibilityRole="header">
           Metal Drummer Gear
+        </Text>
+        <Text nativeID="site-description" style={[styles.siteTagline, { color: theme.secondaryText }]}>
+          Explore the drum kits, cymbals, and gear used by legendary metal drummers
         </Text>
         <View style={styles.toggleContainer}>
           <Text style={[styles.toggleLabel, { color: theme.secondaryText }]}>
@@ -6099,7 +6201,14 @@ const styles = StyleSheet.create({
   title: {
     fontSize: 24,
     fontWeight: 'bold',
+    marginBottom: 4,
+  },
+  siteTagline: {
+    fontSize: 14,
+    textAlign: 'center',
     marginBottom: 15,
+    maxWidth: 400,
+    lineHeight: 20,
   },
   toggleContainer: {
     flexDirection: 'row',

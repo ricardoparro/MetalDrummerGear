@@ -90,7 +90,7 @@ const BUDGET_TIERS = {
   },
 };
 
-// Get budget tier for a given price
+// Get budget tier for a given price (USD)
 function getBudgetTierForPrice(priceUsd) {
   if (!priceUsd || priceUsd <= 0) return null;
   for (const tier of Object.values(BUDGET_TIERS)) {
@@ -99,6 +99,45 @@ function getBudgetTierForPrice(priceUsd) {
     }
   }
   return 'premium'; // Fallback for very high prices
+}
+
+// Get budget tier for a given price (EUR - converts to USD internally)
+function getBudgetTier(priceEur) {
+  if (!priceEur || priceEur <= 0) return null;
+  // Convert EUR to USD using the rate from gearPrices.js
+  const priceUsd = Math.round(priceEur * 1.08);
+  return getBudgetTierForPrice(priceUsd);
+}
+
+// Get budget tier label
+function getBudgetTierLabel(tierId) {
+  const tier = BUDGET_TIERS[tierId];
+  return tier ? tier.shortLabel : 'Unknown';
+}
+
+// Get budget tier emoji
+function getBudgetTierEmoji(tierId) {
+  const tier = BUDGET_TIERS[tierId];
+  return tier ? tier.emoji : '🥁';
+}
+
+// Get budget tier full info
+function getBudgetTierInfo(tierId) {
+  return BUDGET_TIERS[tierId] || null;
+}
+
+// Get budget tier color
+function getBudgetTierColor(tierId) {
+  const tier = BUDGET_TIERS[tierId];
+  return tier ? tier.color : '#6b7280';
+}
+
+// Format price range for display
+function formatPriceRange(minPrice, maxPrice) {
+  if (maxPrice === Infinity) {
+    return `$${minPrice.toLocaleString()}+`;
+  }
+  return `$${minPrice.toLocaleString()} - $${maxPrice.toLocaleString()}`;
 }
 
 // ==========================================
@@ -5771,8 +5810,11 @@ function AppContent() {
     setShowCompare(true);
     setShowQuiz(false);
     setShowQuotes(false);
+    setShowSpotlights(false);
+    setShowGearByBudget(false);
     setSelectedDrummer(null);
     setSelectedDrummerId(null);
+    setSelectedGear(null);
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
       window.history.pushState({}, '', '/compare');
     }
@@ -5781,6 +5823,9 @@ function AppContent() {
   const handleNavigateToQuiz = () => {
     setShowQuiz(true);
     setShowCompare(false);
+    setShowQuotes(false);
+    setShowSpotlights(false);
+    setShowGearByBudget(false);
     setSelectedDrummer(null);
     setSelectedDrummerId(null);
     setSelectedGear(null);
@@ -5795,6 +5840,7 @@ function AppContent() {
     setShowCompare(false);
     setShowPrivacy(false);
     setShowSpotlights(false);
+    setShowGearByBudget(false);
     setSelectedDrummer(null);
     setSelectedDrummerId(null);
     setSelectedGear(null);
@@ -5809,11 +5855,27 @@ function AppContent() {
     setShowCompare(false);
     setShowPrivacy(false);
     setShowQuotes(false);
+    setShowGearByBudget(false);
     setSelectedDrummer(null);
     setSelectedDrummerId(null);
     setSelectedGear(null);
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
       window.history.pushState({}, '', '/spotlights');
+    }
+  };
+
+  const handleNavigateToGearByBudget = () => {
+    setShowGearByBudget(true);
+    setShowSpotlights(false);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowPrivacy(false);
+    setShowQuotes(false);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/gear-by-budget');
     }
   };
 
@@ -5962,7 +6024,8 @@ function AppContent() {
           onNavigateToQuiz={handleNavigateToQuiz}
           onNavigateToQuotes={handleNavigateToQuotes}
           onNavigateToSpotlights={handleNavigateToSpotlights}
-          spotlightDrummer={getCurrentSpotlightDrummer(drummers)}
+          onNavigateToGearByBudget={handleNavigateToGearByBudget}
+          spotlight={getCurrentSpotlightDrummer(drummers)}
           filters={filters}
           onFilterChange={handleFilterChange}
           searchValue={searchValue}
@@ -8448,5 +8511,257 @@ const styles = StyleSheet.create({
   noSpotlightsText: {
     fontSize: 16,
     textAlign: 'center',
+  },
+  // ==========================================
+  // GEAR BY BUDGET PAGE STYLES
+  // ==========================================
+  budgetPageTitle: {
+    fontSize: 32,
+    fontWeight: 'bold',
+    marginBottom: 8,
+    marginTop: 16,
+  },
+  budgetPageSubtitle: {
+    fontSize: 16,
+    lineHeight: 24,
+    marginBottom: 24,
+  },
+  budgetTierButtons: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 12,
+    marginBottom: 16,
+  },
+  budgetTierButtonsMobile: {
+    flexDirection: 'column',
+    gap: 10,
+  },
+  budgetTierButton: {
+    flex: 1,
+    minWidth: 140,
+    padding: 16,
+    borderRadius: 12,
+    borderWidth: 2,
+    alignItems: 'center',
+  },
+  budgetTierButtonEmoji: {
+    fontSize: 28,
+    marginBottom: 8,
+  },
+  budgetTierButtonLabel: {
+    fontSize: 16,
+    fontWeight: '700',
+    marginBottom: 4,
+  },
+  budgetTierButtonRange: {
+    fontSize: 13,
+    marginBottom: 4,
+  },
+  budgetTierButtonCount: {
+    fontSize: 12,
+  },
+  clearBudgetFilter: {
+    padding: 12,
+    borderRadius: 8,
+    borderWidth: 1,
+    alignItems: 'center',
+    marginBottom: 24,
+  },
+  clearBudgetFilterText: {
+    fontSize: 14,
+    fontWeight: '500',
+  },
+  budgetTierSection: {
+    marginBottom: 32,
+  },
+  budgetTierHeader: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'baseline',
+    marginBottom: 8,
+  },
+  budgetTierSectionTitle: {
+    fontSize: 24,
+    fontWeight: '700',
+  },
+  budgetTierSectionRange: {
+    fontSize: 14,
+  },
+  budgetTierDescription: {
+    fontSize: 14,
+    marginBottom: 16,
+    lineHeight: 20,
+  },
+  budgetDrummerGrid: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 16,
+  },
+  budgetDrummerGridMobile: {
+    flexDirection: 'column',
+    gap: 12,
+  },
+  budgetDrummerCard: {
+    width: '48%',
+    padding: 16,
+    borderRadius: 12,
+    borderWidth: 1,
+    flexDirection: 'row',
+    alignItems: 'center',
+  },
+  budgetDrummerImage: {
+    width: 60,
+    height: 60,
+    borderRadius: 30,
+    marginRight: 12,
+  },
+  budgetDrummerInfo: {
+    flex: 1,
+  },
+  budgetDrummerName: {
+    fontSize: 16,
+    fontWeight: '600',
+    marginBottom: 2,
+  },
+  budgetDrummerBand: {
+    fontSize: 13,
+    marginBottom: 6,
+  },
+  budgetDrummerCost: {
+    flexDirection: 'row',
+    alignItems: 'baseline',
+    flexWrap: 'wrap',
+  },
+  budgetDrummerPrice: {
+    fontSize: 16,
+    fontWeight: '700',
+    marginRight: 6,
+  },
+  budgetDrummerPriceUsd: {
+    fontSize: 12,
+  },
+  noBudgetDrummers: {
+    padding: 40,
+    alignItems: 'center',
+  },
+  noBudgetDrummersText: {
+    fontSize: 16,
+    textAlign: 'center',
+  },
+  suggestionButton: {
+    padding: 16,
+    borderRadius: 8,
+    borderWidth: 2,
+    alignItems: 'center',
+    marginBottom: 12,
+  },
+  suggestionButtonText: {
+    fontSize: 16,
+    fontWeight: '600',
+  },
+  // ==========================================
+  // AFFORDABLE ALTERNATIVES SECTION STYLES
+  // ==========================================
+  affordableSection: {
+    borderWidth: 2,
+  },
+  affordableHeader: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'flex-start',
+    paddingBottom: 8,
+  },
+  affordableSubtitle: {
+    fontSize: 14,
+    marginTop: 4,
+  },
+  affordableExpandIcon: {
+    fontSize: 16,
+    paddingLeft: 16,
+  },
+  affordableContent: {
+    paddingTop: 16,
+  },
+  affordableDescription: {
+    fontSize: 14,
+    lineHeight: 20,
+    marginBottom: 16,
+  },
+  affordableGrid: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 12,
+  },
+  affordableGridMobile: {
+    flexDirection: 'column',
+  },
+  affordableCard: {
+    width: '48%',
+    padding: 12,
+    borderRadius: 12,
+    borderWidth: 1,
+    flexDirection: 'row',
+    alignItems: 'center',
+  },
+  affordableCardImage: {
+    width: 50,
+    height: 50,
+    borderRadius: 25,
+    marginRight: 10,
+  },
+  affordableCardInfo: {
+    flex: 1,
+  },
+  affordableCardName: {
+    fontSize: 14,
+    fontWeight: '600',
+    marginBottom: 2,
+  },
+  affordableCardBand: {
+    fontSize: 12,
+    marginBottom: 4,
+  },
+  affordableCardPricing: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    flexWrap: 'wrap',
+    gap: 6,
+    marginBottom: 4,
+  },
+  affordableCardPrice: {
+    fontSize: 14,
+    fontWeight: '700',
+  },
+  affordableSavingsBadge: {
+    paddingHorizontal: 6,
+    paddingVertical: 2,
+    borderRadius: 4,
+  },
+  affordableSavingsText: {
+    color: '#ffffff',
+    fontSize: 10,
+    fontWeight: '600',
+  },
+  affordableTierBadge: {
+    paddingHorizontal: 8,
+    paddingVertical: 4,
+    borderRadius: 4,
+    borderWidth: 1,
+    alignSelf: 'flex-start',
+  },
+  affordableTierText: {
+    fontSize: 10,
+    fontWeight: '600',
+  },
+  viewAllBudgetButton: {
+    padding: 14,
+    borderRadius: 8,
+    borderWidth: 1,
+    alignItems: 'center',
+    marginTop: 16,
+  },
+  viewAllBudgetText: {
+    fontSize: 14,
+    fontWeight: '500',
   },
 });

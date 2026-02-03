@@ -4679,6 +4679,34 @@ function updateGearFinderURL(query) {
   window.history.replaceState({}, '', newPath);
 }
 
+// Check if we're on the list index page (/lists)
+function isListIndexPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  const pathname = window.location.pathname;
+  return pathname === '/lists' || pathname === '/lists/';
+}
+
+// Check if we're on a specific list page (/lists/[slug])
+function isListPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  const pathname = window.location.pathname;
+  return pathname.startsWith('/lists/') && pathname !== '/lists/';
+}
+
+// Get list slug from URL
+function getListSlugFromURL() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(/^\/lists\/([a-z0-9-]+)$/);
+  return match ? match[1] : null;
+}
+
+// Update URL for list page
+function updateListURL(slug) {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return;
+  const newPath = slug ? `/lists/${slug}` : '/lists';
+  window.history.replaceState({}, '', newPath);
+}
+
 // Check if we're on a gear page based on URL
 function getGearSlugFromURL() {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return null;

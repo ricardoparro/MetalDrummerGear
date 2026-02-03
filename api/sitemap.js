@@ -38,6 +38,15 @@ const gearItems = [
   { slug: 'sabian-hhx-series-cymbals', name: 'Sabian HHX Series Cymbals' },
 ];
 
+// Top 10 Lists for SEO
+const top10Lists = [
+  { slug: 'fastest-drummers', name: 'Top 10 Fastest Metal Drummers' },
+  { slug: 'death-metal-drummers', name: 'Top 10 Death Metal Drummers' },
+  { slug: 'most-innovative-drummers', name: 'Top 10 Most Innovative Metal Drummers' },
+  { slug: 'thrash-metal-drummers', name: 'Top 10 Thrash Metal Drummers' },
+  { slug: 'progressive-metal-drummers', name: 'Top 10 Progressive Metal Drummers' },
+];
+
 const BASE_URL = 'https://metalforge.io';
 
 // Generate URL-friendly slug from drummer name
@@ -56,6 +65,14 @@ export default function handler(req, res) {
 
   const urls = [
     { loc: '/', priority: '1.0', changefreq: 'weekly' },
+    // Top 10 Lists index
+    { loc: '/lists', priority: '0.9', changefreq: 'weekly' },
+    // Individual Top 10 List pages
+    ...top10Lists.map(l => ({
+      loc: `/lists/${l.slug}`,
+      priority: '0.8',
+      changefreq: 'monthly'
+    })),
     // Drummer pages
     ...drummers.map(d => ({
       loc: `/drummer/${generateSlug(d.name)}`,

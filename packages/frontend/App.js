@@ -1,5 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View, Switch, FlatList, ActivityIndicator, Image, TouchableOpacity, ScrollView, Linking, Platform, useWindowDimensions, TextInput } from 'react-native';
+import { StyleSheet, Text, View, Switch, FlatList, ActivityIndicator, TouchableOpacity, ScrollView, Linking, Platform, useWindowDimensions, TextInput } from 'react-native';
+import { Image } from 'expo-image';
 import { ThemeProvider, useTheme } from './ThemeContext';
 import { useState, useEffect, useCallback, useMemo, useRef } from 'react';
 import { getAffiliateLinks, extractPrimaryProduct, getThomannLink, getSweetwaterLink } from './affiliateLinks';
@@ -352,7 +353,10 @@ function YouTubeEmbed({ videoId, title, theme }) {
       <Image
         source={{ uri: thumbnailUrl }}
         style={styles.videoThumbnail}
-        resizeMode="cover"
+        contentFit="cover"
+        placeholder={{ blurhash: BLUR_HASH }}
+        transition={300}
+        cachePolicy="memory-disk"
       />
       <View style={styles.playButtonOverlay}>
         <View style={[styles.playButton, { backgroundColor: theme.card }]}>
@@ -513,7 +517,14 @@ function SearchBar({ value, onChange, onFocus, onClear, suggestions, onSelectSug
             >
               <View style={styles.suggestionContent}>
                 {suggestion.image && (
-                  <Image source={{ uri: suggestion.image }} style={styles.suggestionImage} />
+                  <Image 
+                    source={{ uri: suggestion.image }} 
+                    style={styles.suggestionImage}
+                    contentFit="cover"
+                    placeholder={{ blurhash: BLUR_HASH }}
+                    transition={200}
+                    cachePolicy="memory-disk"
+                  />
                 )}
                 <View style={styles.suggestionText}>
                   <Text style={[styles.suggestionTitle, { color: theme.text }]}>{suggestion.name}</Text>
@@ -722,7 +733,10 @@ function FilterBar({ filters, onFilterChange, totalCount, filteredCount, onClear
   );
 }
 
-function ImageWithFallback({ source, style, accessibilityLabel }) {
+// Blurhash placeholder for smooth image loading (gray tone matching dark theme)
+const BLUR_HASH = 'L6Pj0^jt.mfQ~qfQfQfQ~qfQfQfQ';
+
+function ImageWithFallback({ source, style, accessibilityLabel, priority = false }) {
   const [hasError, setHasError] = useState(false);
   const [imageUri, setImageUri] = useState(source?.uri || PLACEHOLDER_IMAGE);
 
@@ -744,7 +758,11 @@ function ImageWithFallback({ source, style, accessibilityLabel }) {
       style={style}
       accessibilityLabel={accessibilityLabel}
       onError={handleError}
-      resizeMode="cover"
+      contentFit="cover"
+      placeholder={{ blurhash: BLUR_HASH }}
+      transition={300}
+      priority={priority ? 'high' : 'low'}
+      cachePolicy="memory-disk"
     />
   );
 }
@@ -1047,7 +1065,9 @@ function SEOHead({ drummer, drummers = [], filters = {} }) {
   return null;
 }
 
-function DrummerCard({ drummer, theme, onPress }) {
+function DrummerCard({ drummer, theme, onPress, index = 0 }) {
+  // First 6 cards are above-fold and get priority loading
+  const isAboveFold = index < 6;
   const cardContent = (
     <View style={styles.cardContent}>
       <View>
@@ -1055,6 +1075,7 @@ function DrummerCard({ drummer, theme, onPress }) {
           source={{ uri: drummer.image }}
           style={styles.cardImage}
           accessibilityLabel={`Photo of ${drummer.name}`}
+          priority={isAboveFold}
         />
       </View>
       <View style={styles.cardText}>
@@ -1640,6 +1661,7 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
             source={{ uri: drummer.image }}
             style={styles.detailImage}
             accessibilityLabel={`Photo of ${drummer.name}`}
+            priority={true}
           />
           <View style={styles.detailHeaderText}>
             <Text style={[styles.detailName, { color: theme.text }]} accessibilityRole="header">{drummer.name}</Text>
@@ -3351,11 +3373,12 @@ function DrummerList({
         <FlatList
           data={filteredDrummers}
           keyExtractor={(item) => item.id.toString()}
-          renderItem={({ item }) => (
+          renderItem={({ item, index }) => (
             <DrummerCard
               drummer={item}
               theme={theme}
               onPress={() => onSelectDrummer(item.id)}
+              index={index}
             />
           )}
           contentContainerStyle={styles.listContainer}
@@ -4329,6 +4352,11 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
             <Image
               source={{ uri: topMatch.drummer.image || PLACEHOLDER_IMAGE }}
               style={styles.topMatchImage}
+              contentFit="cover"
+              placeholder={{ blurhash: BLUR_HASH }}
+              transition={300}
+              priority="high"
+              cachePolicy="memory-disk"
             />
             
             <Text style={[styles.topMatchName, { color: theme.text }]}>
@@ -4393,6 +4421,10 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
                   <Image
                     source={{ uri: match.drummer.image || PLACEHOLDER_IMAGE }}
                     style={styles.runnerUpImage}
+                    contentFit="cover"
+                    placeholder={{ blurhash: BLUR_HASH }}
+                    transition={300}
+                    cachePolicy="memory-disk"
                   />
                   <View style={styles.runnerUpInfo}>
                     <Text style={[styles.runnerUpName, { color: theme.text }]}>

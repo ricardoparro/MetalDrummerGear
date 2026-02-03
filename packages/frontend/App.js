@@ -1072,6 +1072,65 @@ function updateDocumentMeta(drummer, drummers = [], filters = {}) {
     // Remove quotes schema when not on a drummer page with quotes
     quotesScript.remove();
   }
+
+  // SpeakableSpecification schema for voice search optimization
+  let speakableScript = document.querySelector('script[data-schema="speakable"]');
+  if (drummer) {
+    // Add speakable schema for drummer pages
+    if (!speakableScript) {
+      speakableScript = document.createElement('script');
+      speakableScript.type = 'application/ld+json';
+      speakableScript.setAttribute('data-schema', 'speakable');
+      document.head.appendChild(speakableScript);
+    }
+
+    const baseUrl = "https://metalforge.io";
+    const speakableSchema = {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": `${drummer.name} Drum Kit & Gear`,
+      "url": `${baseUrl}/drummer/${drummer.id}`,
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#drummer-name",
+          "#drummer-band",
+          "#drummer-bio",
+          "#drummer-gear"
+        ]
+      }
+    };
+
+    speakableScript.textContent = JSON.stringify(speakableSchema);
+  } else if (drummers && drummers.length > 0) {
+    // Add speakable schema for homepage
+    if (!speakableScript) {
+      speakableScript = document.createElement('script');
+      speakableScript.type = 'application/ld+json';
+      speakableScript.setAttribute('data-schema', 'speakable');
+      document.head.appendChild(speakableScript);
+    }
+
+    const baseUrl = "https://metalforge.io";
+    const speakableSchema = {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Metal Drummer Gear - Discover What Pro Drummers Play",
+      "url": baseUrl,
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#site-title",
+          "#site-description"
+        ]
+      }
+    };
+
+    speakableScript.textContent = JSON.stringify(speakableSchema);
+  } else if (speakableScript) {
+    // Remove speakable schema when not applicable
+    speakableScript.remove();
+  }
 }
 
 function SEOHead({ drummer, drummers = [], filters = {} }) {

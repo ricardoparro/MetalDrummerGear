@@ -4628,8 +4628,9 @@ function DrummerList({
     onSearchClear();
   };
 
-  return (
-    <View style={styles.listWrapper}>
+  // Header content that scrolls with the list
+  const ListHeader = () => (
+    <>
       <View style={styles.searchFilterContainer}>
         <SearchBar
           value={searchValue}
@@ -4708,31 +4709,38 @@ function DrummerList({
       )}
       {/* Top 10 Lists Section */}
       <TopListsSection theme={theme} onNavigateToList={onNavigateToList} />
-      {filteredDrummers.length === 0 ? (
-        <View style={styles.noResultsContainer}>
-          <Text style={[styles.noResultsText, { color: theme.secondaryText }]}>
-            No drummers found matching your criteria
-          </Text>
-          <TouchableOpacity onPress={handleClearAllFilters} style={[styles.clearFiltersButtonLarge, { borderColor: theme.text }]}>
-            <Text style={[styles.clearFiltersButtonText, { color: theme.text }]}>Clear All Filters</Text>
-          </TouchableOpacity>
-        </View>
-      ) : (
-        <FlatList
-          data={filteredDrummers}
-          keyExtractor={(item) => item.id.toString()}
-          renderItem={({ item, index }) => (
-            <DrummerCard
-              drummer={item}
-              theme={theme}
-              onPress={() => onSelectDrummer(item.id)}
-              index={index}
-            />
-          )}
-          contentContainerStyle={styles.listContainer}
+    </>
+  );
+
+  // Empty list message
+  const ListEmpty = () => (
+    <View style={styles.noResultsContainer}>
+      <Text style={[styles.noResultsText, { color: theme.secondaryText }]}>
+        No drummers found matching your criteria
+      </Text>
+      <TouchableOpacity onPress={handleClearAllFilters} style={[styles.clearFiltersButtonLarge, { borderColor: theme.text }]}>
+        <Text style={[styles.clearFiltersButtonText, { color: theme.text }]}>Clear All Filters</Text>
+      </TouchableOpacity>
+    </View>
+  );
+
+  return (
+    <FlatList
+      style={styles.listWrapper}
+      data={filteredDrummers}
+      keyExtractor={(item) => item.id.toString()}
+      renderItem={({ item, index }) => (
+        <DrummerCard
+          drummer={item}
+          theme={theme}
+          onPress={() => onSelectDrummer(item.id)}
+          index={index}
         />
       )}
-    </View>
+      ListHeaderComponent={ListHeader}
+      ListEmptyComponent={ListEmpty}
+      contentContainerStyle={styles.listContainer}
+    />
   );
 }
 

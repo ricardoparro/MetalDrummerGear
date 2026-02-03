@@ -1122,6 +1122,198 @@ function KitCostCalculator({ drummer, theme }) {
   );
 }
 
+// Gear Timeline Component - Shows evolution of drummer's gear through their career
+function GearTimeline({ timeline, drummerName, theme }) {
+  const [isExpanded, setIsExpanded] = useState(false);
+  const [selectedEra, setSelectedEra] = useState(null);
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const scrollViewRef = useRef(null);
+
+  if (!timeline || timeline.length === 0) {
+    return null;
+  }
+
+  const handleEraPress = (era) => {
+    setSelectedEra(selectedEra?.era === era.era ? null : era);
+  };
+
+  const toggleExpanded = () => {
+    setIsExpanded(!isExpanded);
+    if (!isExpanded) {
+      setSelectedEra(null);
+    }
+  };
+
+  return (
+    <View style={[styles.section, styles.timelineSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+      <TouchableOpacity 
+        onPress={toggleExpanded}
+        style={styles.timelineHeader}
+        accessibilityRole="button"
+        accessibilityLabel={`${isExpanded ? 'Collapse' : 'Expand'} gear timeline`}
+        accessibilityState={{ expanded: isExpanded }}
+      >
+        <View style={styles.timelineTitleRow}>
+          <Text style={[styles.sectionTitle, { color: theme.text, marginBottom: 0 }]} accessibilityRole="header">
+            ⏱️ Gear Timeline
+          </Text>
+          <View style={[styles.timelineBadge, { backgroundColor: theme.accent || '#dc2626' }]}>
+            <Text style={styles.timelineBadgeText}>{timeline.length} Eras</Text>
+          </View>
+        </View>
+        <Text style={[styles.timelineSubtitle, { color: theme.secondaryText }]}>
+          See how {drummerName}'s gear evolved through their career
+        </Text>
+        <Text style={[styles.quotesExpandIcon, { color: theme.secondaryText }]}>
+          {isExpanded ? '▲ Collapse' : '▼ View Full Timeline'}
+        </Text>
+      </TouchableOpacity>
+
+      {isExpanded && (
+        <View style={styles.timelineContent}>
+          {/* Horizontal scrollable timeline */}
+          <ScrollView
+            ref={scrollViewRef}
+            horizontal
+            showsHorizontalScrollIndicator={false}
+            style={styles.timelineScroll}
+            contentContainerStyle={styles.timelineScrollContent}
+          >
+            {timeline.map((era, index) => (
+              <View key={era.era} style={styles.timelineEraWrapper}>
+                {/* Era Card */}
+                <TouchableOpacity
+                  onPress={() => handleEraPress(era)}
+                  style={[
+                    styles.timelineEraCard,
+                    selectedEra?.era === era.era && styles.timelineEraCardSelected,
+                    { 
+                      backgroundColor: selectedEra?.era === era.era ? (theme.accent || '#dc2626') : theme.background,
+                      borderColor: selectedEra?.era === era.era ? (theme.accent || '#dc2626') : theme.border
+                    }
+                  ]}
+                  accessibilityRole="button"
+                  accessibilityLabel={`${era.era}: ${era.years}. ${era.description}`}
+                  accessibilityState={{ selected: selectedEra?.era === era.era }}
+                >
+                  <Text style={[
+                    styles.timelineEraYears,
+                    { color: selectedEra?.era === era.era ? '#fff' : theme.secondaryText }
+                  ]}>
+                    {era.years}
+                  </Text>
+                  <Text style={[
+                    styles.timelineEraName,
+                    { color: selectedEra?.era === era.era ? '#fff' : theme.text }
+                  ]} numberOfLines={2}>
+                    {era.era}
+                  </Text>
+                  {era.albums && era.albums.length > 0 && (
+                    <Text style={[
+                      styles.timelineEraAlbums,
+                      { color: selectedEra?.era === era.era ? 'rgba(255,255,255,0.8)' : theme.secondaryText }
+                    ]} numberOfLines={1}>
+                      {era.albums.length} album{era.albums.length > 1 ? 's' : ''}
+                    </Text>
+                  )}
+                </TouchableOpacity>
+                
+                {/* Connector line between eras */}
+                {index < timeline.length - 1 && (
+                  <View style={[styles.timelineConnector, { backgroundColor: theme.border }]} />
+                )}
+              </View>
+            ))}
+          </ScrollView>
+
+          {/* Swipe hint for mobile */}
+          {isMobile && (
+            <Text style={[styles.timelineSwipeHint, { color: theme.secondaryText }]}>
+              ← Swipe to explore eras →
+            </Text>
+          )}
+
+          {/* Selected Era Details */}
+          {selectedEra && (
+            <View style={[styles.timelineDetail, { backgroundColor: theme.background, borderColor: theme.border }]}>
+              <View style={styles.timelineDetailHeader}>
+                <Text style={[styles.timelineDetailTitle, { color: theme.text }]}>
+                  {selectedEra.era}
+                </Text>
+                <Text style={[styles.timelineDetailYears, { color: theme.secondaryText }]}>
+                  {selectedEra.years}
+                </Text>
+              </View>
+              
+              {selectedEra.description && (
+                <Text style={[styles.timelineDetailDescription, { color: theme.secondaryText }]}>
+                  {selectedEra.description}
+                </Text>
+              )}
+
+              {selectedEra.albums && selectedEra.albums.length > 0 && (
+                <View style={styles.timelineAlbumsSection}>
+                  <Text style={[styles.timelineDetailLabel, { color: theme.text }]}>Albums:</Text>
+                  <View style={styles.timelineAlbumsList}>
+                    {selectedEra.albums.map((album, idx) => (
+                      <View key={idx} style={[styles.timelineAlbumTag, { backgroundColor: theme.card, borderColor: theme.border }]}>
+                        <Text style={[styles.timelineAlbumText, { color: theme.text }]}>{album}</Text>
+                      </View>
+                    ))}
+                  </View>
+                </View>
+              )}
+
+              <View style={styles.timelineGearSection}>
+                <Text style={[styles.timelineDetailLabel, { color: theme.text }]}>Gear Used:</Text>
+                {selectedEra.gear.drums && (
+                  <View style={styles.timelineGearItem}>
+                    <Text style={[styles.timelineGearLabel, { color: theme.secondaryText }]}>🥁 Drums:</Text>
+                    <Text style={[styles.timelineGearValue, { color: theme.text }]}>{selectedEra.gear.drums}</Text>
+                  </View>
+                )}
+                {selectedEra.gear.snare && (
+                  <View style={styles.timelineGearItem}>
+                    <Text style={[styles.timelineGearLabel, { color: theme.secondaryText }]}>🔵 Snare:</Text>
+                    <Text style={[styles.timelineGearValue, { color: theme.text }]}>{selectedEra.gear.snare}</Text>
+                  </View>
+                )}
+                {selectedEra.gear.cymbals && (
+                  <View style={styles.timelineGearItem}>
+                    <Text style={[styles.timelineGearLabel, { color: theme.secondaryText }]}>🔔 Cymbals:</Text>
+                    <Text style={[styles.timelineGearValue, { color: theme.text }]}>{selectedEra.gear.cymbals}</Text>
+                  </View>
+                )}
+                {selectedEra.gear.hardware && (
+                  <View style={styles.timelineGearItem}>
+                    <Text style={[styles.timelineGearLabel, { color: theme.secondaryText }]}>⚙️ Hardware:</Text>
+                    <Text style={[styles.timelineGearValue, { color: theme.text }]}>{selectedEra.gear.hardware}</Text>
+                  </View>
+                )}
+                {selectedEra.gear.sticks && (
+                  <View style={styles.timelineGearItem}>
+                    <Text style={[styles.timelineGearLabel, { color: theme.secondaryText }]}>🥢 Sticks:</Text>
+                    <Text style={[styles.timelineGearValue, { color: theme.text }]}>{selectedEra.gear.sticks}</Text>
+                  </View>
+                )}
+              </View>
+
+              {selectedEra.notes && (
+                <View style={[styles.timelineNotes, { backgroundColor: theme.card, borderColor: theme.border }]}>
+                  <Text style={[styles.timelineNotesText, { color: theme.secondaryText }]}>
+                    💡 {selectedEra.notes}
+                  </Text>
+                </View>
+              )}
+            </View>
+          )}
+        </View>
+      )}
+    </View>
+  );
+}
+
 function DrummerDetail({ drummer, theme, onBack, onSelectGear }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
@@ -1182,6 +1374,8 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear }) {
       </View>
 
       <KitCostCalculator drummer={drummer} theme={theme} />
+
+      <GearTimeline timeline={drummer.gearTimeline} drummerName={drummer.name} theme={theme} />
 
       {drummer.photos && drummer.photos.length > 0 && (
         <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
@@ -3133,97 +3327,196 @@ function NewsletterFooter({ theme }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
   
-  // Check if user just subscribed (redirected back from FormSubmit)
+  // Check localStorage for previous subscription
   const [isSubscribed, setIsSubscribed] = useState(() => {
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
-      const params = new URLSearchParams(window.location.search);
-      return params.get('subscribed') === 'true';
+      try {
+        return localStorage.getItem('metalforge_subscribed') === 'true';
+      } catch {
+        return false;
+      }
     }
     return false;
   });
+  
+  const [email, setEmail] = useState('');
+  const [gdprConsent, setGdprConsent] = useState(false);
+  const [isLoading, setIsLoading] = useState(false);
+  const [error, setError] = useState('');
+  const [successMessage, setSuccessMessage] = useState('');
 
-  // For web, render native HTML form for FormSubmit.co
+  const handleSubmit = async (e) => {
+    e.preventDefault();
+    setError('');
+    setSuccessMessage('');
+    
+    if (!email) {
+      setError('Please enter your email address');
+      return;
+    }
+    
+    if (!gdprConsent) {
+      setError('Please agree to receive emails to subscribe');
+      return;
+    }
+    
+    setIsLoading(true);
+    
+    try {
+      const response = await fetch('/api/newsletter/subscribe', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email, gdprConsent: true }),
+      });
+      
+      const data = await response.json();
+      
+      if (!response.ok) {
+        throw new Error(data.error || 'Failed to subscribe');
+      }
+      
+      setSuccessMessage(data.message);
+      setIsSubscribed(true);
+      setEmail('');
+      setGdprConsent(false);
+      
+      // Save to localStorage
+      try {
+        localStorage.setItem('metalforge_subscribed', 'true');
+      } catch {}
+      
+    } catch (err) {
+      setError(err.message || 'Something went wrong. Please try again.');
+    } finally {
+      setIsLoading(false);
+    }
+  };
+
+  // For web, render the newsletter form
   if (Platform.OS === 'web') {
     return (
       <View style={[styles.newsletterFooter, { backgroundColor: theme.card, borderTopColor: theme.border }]}>
         <View style={[styles.newsletterContainer, isMobile && styles.newsletterContainerMobile]}>
           <View style={styles.newsletterTextSection}>
             <Text style={[styles.newsletterTitle, { color: theme.text }]}>
-              🥁 Stay in the Loop
+              🥁 Get Gear Updates from the Legends
             </Text>
             <Text style={[styles.newsletterSubtitle, { color: theme.secondaryText }]}>
-              Get updates on new drummers and gear
+              Join fellow metal drummers — new gear, pro setups, and exclusive content
             </Text>
           </View>
 
-          {isSubscribed ? (
+          {isSubscribed || successMessage ? (
             <View style={styles.newsletterSuccessContainer}>
               <Text style={[styles.newsletterSuccess, { color: '#4ade80' }]}>
-                ✓ You're subscribed! Thanks for joining.
+                {successMessage || "✓ You're subscribed! Welcome to the community. 🤘"}
               </Text>
             </View>
           ) : (
             <form
-              action="https://formsubmit.co/ricardo@boomstrategy.io"
-              method="POST"
+              onSubmit={handleSubmit}
               style={{
                 display: 'flex',
-                flexDirection: isMobile ? 'column' : 'row',
-                alignItems: 'center',
-                gap: 8,
+                flexDirection: 'column',
+                gap: 12,
                 flex: 1,
-                maxWidth: isMobile ? '100%' : 400,
+                maxWidth: isMobile ? '100%' : 420,
                 width: isMobile ? '100%' : 'auto',
               }}
             >
-              {/* FormSubmit.co hidden fields */}
-              <input type="hidden" name="_subject" value="MetalForge Newsletter Signup" />
-              <input type="hidden" name="_captcha" value="false" />
-              <input type="hidden" name="_template" value="table" />
-              <input type="hidden" name="_next" value="https://metalforge.io/?subscribed=true" />
-              {/* Honeypot spam protection */}
-              <input type="text" name="_honey" style={{ display: 'none' }} />
+              <div style={{
+                display: 'flex',
+                flexDirection: isMobile ? 'column' : 'row',
+                gap: 8,
+              }}>
+                <input
+                  type="email"
+                  value={email}
+                  onChange={(e) => setEmail(e.target.value)}
+                  placeholder="Enter your email"
+                  disabled={isLoading}
+                  className="newsletter-input"
+                  style={{
+                    flex: 1,
+                    width: isMobile ? '100%' : 'auto',
+                    padding: '12px 16px',
+                    fontSize: 16,
+                    borderRadius: 8,
+                    border: `2px solid ${error ? '#ef4444' : '#555'}`,
+                    backgroundColor: '#2a2a2a',
+                    color: '#ffffff',
+                    outline: 'none',
+                    height: 48,
+                    boxSizing: 'border-box',
+                    opacity: isLoading ? 0.7 : 1,
+                  }}
+                  aria-label="Email address for newsletter signup"
+                />
+                <button
+                  type="submit"
+                  disabled={isLoading}
+                  style={{
+                    backgroundColor: isLoading ? '#a3a3a3' : '#f59e0b',
+                    padding: '12px 24px',
+                    borderRadius: 8,
+                    border: 'none',
+                    height: 48,
+                    minWidth: 120,
+                    width: isMobile ? '100%' : 'auto',
+                    cursor: isLoading ? 'not-allowed' : 'pointer',
+                    fontSize: 16,
+                    fontWeight: 600,
+                    color: '#000000',
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                  }}
+                  aria-label="Subscribe to newsletter"
+                >
+                  {isLoading ? 'Subscribing...' : 'Subscribe'}
+                </button>
+              </div>
               
-              <input
-                type="email"
-                name="email"
-                placeholder="Enter your email"
-                required
-                className="newsletter-input"
-                style={{
-                  flex: 1,
-                  width: isMobile ? '100%' : 'auto',
-                  padding: '12px 16px',
-                  fontSize: 16,
-                  borderRadius: 8,
-                  border: '2px solid #555',
-                  backgroundColor: '#2a2a2a',
-                  color: '#ffffff',
-                  outline: 'none',
-                  height: 48,
-                  boxSizing: 'border-box',
-                }}
-                aria-label="Email address for newsletter signup"
-              />
-              <button
-                type="submit"
-                style={{
-                  backgroundColor: '#f59e0b',
-                  padding: '12px 24px',
-                  borderRadius: 8,
-                  border: 'none',
-                  height: 48,
-                  minWidth: 120,
-                  width: isMobile ? '100%' : 'auto',
-                  cursor: 'pointer',
-                  fontSize: 16,
-                  fontWeight: 600,
-                  color: '#000000',
-                }}
-                aria-label="Subscribe to newsletter"
-              >
-                Subscribe
-              </button>
+              {/* GDPR Consent Checkbox */}
+              <label style={{
+                display: 'flex',
+                alignItems: 'flex-start',
+                gap: 8,
+                cursor: 'pointer',
+                fontSize: 12,
+                color: theme.secondaryText,
+                lineHeight: 1.4,
+              }}>
+                <input
+                  type="checkbox"
+                  checked={gdprConsent}
+                  onChange={(e) => setGdprConsent(e.target.checked)}
+                  disabled={isLoading}
+                  style={{
+                    marginTop: 2,
+                    accentColor: '#f59e0b',
+                    cursor: isLoading ? 'not-allowed' : 'pointer',
+                  }}
+                />
+                <span>
+                  I agree to receive newsletter emails about gear updates and drummer content. 
+                  You can unsubscribe anytime. See our{' '}
+                  <a 
+                    href="/privacy" 
+                    style={{ color: '#f59e0b', textDecoration: 'underline' }}
+                    onClick={(e) => e.stopPropagation()}
+                  >
+                    Privacy Policy
+                  </a>.
+                </span>
+              </label>
+              
+              {/* Error Message */}
+              {error && (
+                <Text style={{ color: '#ef4444', fontSize: 13, marginTop: -4 }}>
+                  {error}
+                </Text>
+              )}
             </form>
           )}
         </View>
@@ -3237,7 +3530,7 @@ function NewsletterFooter({ theme }) {
       <View style={[styles.newsletterContainer, isMobile && styles.newsletterContainerMobile]}>
         <View style={styles.newsletterTextSection}>
           <Text style={[styles.newsletterTitle, { color: theme.text }]}>
-            🥁 Stay in the Loop
+            🥁 Get Gear Updates from the Legends
           </Text>
           <Text style={[styles.newsletterSubtitle, { color: theme.secondaryText }]}>
             Visit metalforge.io to subscribe to our newsletter!
@@ -3259,6 +3552,7 @@ function AppContent() {
   const [drummersError, setDrummersError] = useState(null);
   const [showCompare, setShowCompare] = useState(() => isComparePage());
   const [showQuiz, setShowQuiz] = useState(() => isQuizPage());
+  const [showPrivacy, setShowPrivacy] = useState(() => isPrivacyPage());
   const [selectedGear, setSelectedGear] = useState(null);
   const [loadingGear, setLoadingGear] = useState(false);
 
@@ -3522,6 +3816,14 @@ function AppContent() {
       } else if (isQuizPage()) {
         setShowQuiz(true);
         setShowCompare(false);
+        setShowPrivacy(false);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+      } else if (isPrivacyPage()) {
+        setShowPrivacy(true);
+        setShowQuiz(false);
+        setShowCompare(false);
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
@@ -3529,6 +3831,7 @@ function AppContent() {
         // Back to home page
         setShowCompare(false);
         setShowQuiz(false);
+        setShowPrivacy(false);
         setSelectedGear(null);
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
@@ -3629,6 +3932,7 @@ function AppContent() {
     setSelectedDrummer(null);
     setShowCompare(false);
     setShowQuiz(false);
+    setShowPrivacy(false);
     setSelectedGear(null);
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
       window.history.pushState({}, '', '/');
@@ -3723,6 +4027,19 @@ function AppContent() {
         />
       );
     }
+    if (showPrivacy) {
+      return (
+        <PrivacyPolicyPage
+          theme={theme}
+          onBack={() => {
+            setShowPrivacy(false);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/');
+            }
+          }}
+        />
+      );
+    }
     if (selectedDrummer) {
       return <DrummerDetail drummer={selectedDrummer} theme={theme} onBack={handleBack} onSelectGear={handleSelectGear} />;
     }
@@ -3754,7 +4071,7 @@ function AppContent() {
 
   return (
     <View style={[styles.container, { backgroundColor: theme.background }]}>
-      {!selectedDrummer && !showCompare && !showQuiz && !selectedGear && <SEOHead drummers={drummers} filters={filters} />}
+      {!selectedDrummer && !showCompare && !showQuiz && !showPrivacy && !selectedGear && <SEOHead drummers={drummers} filters={filters} />}
       <View style={styles.header} accessibilityRole="banner">
         <Text style={[styles.title, { color: theme.text }]} accessibilityRole="header">
           Metal Drummer Gear
@@ -3974,6 +4291,181 @@ const styles = StyleSheet.create({
     fontSize: 13,
     fontWeight: '500',
   },
+  // Gear Timeline styles
+  timelineSectionHeader: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    paddingVertical: 4,
+  },
+  timelineTitleContainer: {
+    flex: 1,
+  },
+  timelineSubtitle: {
+    fontSize: 13,
+    marginTop: 2,
+  },
+  timelineExpandIcon: {
+    fontSize: 14,
+    fontWeight: '600',
+  },
+  timelineContainer: {
+    marginTop: 16,
+  },
+  timelineScrollView: {
+    marginHorizontal: -20,
+    paddingHorizontal: 0,
+  },
+  timelineScroll: {
+    paddingHorizontal: 20,
+    paddingBottom: 8,
+    gap: 12,
+  },
+  timelineEraCard: {
+    width: 260,
+    padding: 16,
+    borderRadius: 12,
+    borderWidth: 2,
+    position: 'relative',
+    overflow: 'visible',
+  },
+  timelineEraCardMobile: {
+    width: 280,
+    minHeight: 180,
+  },
+  timelineMarker: {
+    position: 'absolute',
+    top: -12,
+    left: 20,
+    width: 24,
+    height: 24,
+    borderRadius: 12,
+    justifyContent: 'center',
+    alignItems: 'center',
+    zIndex: 2,
+  },
+  timelineMarkerText: {
+    color: '#ffffff',
+    fontSize: 12,
+    fontWeight: 'bold',
+  },
+  timelineLine: {
+    position: 'absolute',
+    top: 0,
+    right: -14,
+    width: 14,
+    height: 2,
+    zIndex: 1,
+  },
+  timelineEraTitle: {
+    fontSize: 18,
+    fontWeight: 'bold',
+    marginTop: 8,
+    marginBottom: 4,
+  },
+  timelineYears: {
+    fontSize: 14,
+    fontWeight: '600',
+    marginBottom: 8,
+  },
+  timelineDescription: {
+    fontSize: 13,
+    lineHeight: 18,
+    marginBottom: 12,
+  },
+  timelineAlbumBadge: {
+    alignSelf: 'flex-start',
+    paddingHorizontal: 10,
+    paddingVertical: 4,
+    borderRadius: 12,
+  },
+  timelineAlbumCount: {
+    fontSize: 12,
+    fontWeight: '500',
+  },
+  timelineSelectedIndicator: {
+    position: 'absolute',
+    bottom: -20,
+    left: '50%',
+    transform: [{ translateX: -30 }],
+  },
+  timelineSelectedText: {
+    fontSize: 11,
+    color: 'rgba(255,255,255,0.7)',
+    fontWeight: '500',
+  },
+  timelineSwipeHint: {
+    alignItems: 'center',
+    paddingVertical: 8,
+  },
+  timelineSwipeText: {
+    fontSize: 12,
+    fontStyle: 'italic',
+  },
+  timelineDetail: {
+    marginTop: 24,
+    padding: 16,
+    borderRadius: 12,
+    borderWidth: 1,
+  },
+  timelineDetailHeader: {
+    marginBottom: 16,
+    paddingBottom: 12,
+    borderBottomWidth: 1,
+    borderBottomColor: 'rgba(128,128,128,0.2)',
+  },
+  timelineDetailTitle: {
+    fontSize: 20,
+    fontWeight: 'bold',
+    marginBottom: 4,
+  },
+  timelineDetailYears: {
+    fontSize: 16,
+    fontWeight: '600',
+  },
+  timelineDetailSection: {
+    marginBottom: 16,
+  },
+  timelineDetailLabel: {
+    fontSize: 12,
+    fontWeight: '600',
+    textTransform: 'uppercase',
+    letterSpacing: 1,
+    marginBottom: 8,
+  },
+  timelineAlbumsList: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 8,
+  },
+  timelineAlbumChip: {
+    paddingHorizontal: 12,
+    paddingVertical: 6,
+    borderRadius: 16,
+  },
+  timelineAlbumName: {
+    fontSize: 13,
+    fontWeight: '500',
+  },
+  timelineGearGrid: {
+    gap: 12,
+  },
+  timelineGearItem: {
+    marginBottom: 4,
+  },
+  timelineGearLabel: {
+    fontSize: 12,
+    marginBottom: 2,
+  },
+  timelineGearValue: {
+    fontSize: 14,
+    lineHeight: 20,
+  },
+  timelineNotes: {
+    fontSize: 14,
+    lineHeight: 22,
+    fontStyle: 'italic',
+  },
   gearSection: {
     marginBottom: 12,
   },
@@ -4016,6 +4508,165 @@ const styles = StyleSheet.create({
     height: 150,
     borderRadius: 8,
     marginRight: 12,
+  },
+  // Gear Timeline styles
+  timelineSection: {
+    overflow: 'hidden',
+  },
+  timelineHeader: {
+    paddingBottom: 8,
+  },
+  timelineTitleRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 12,
+    marginBottom: 4,
+  },
+  timelineBadge: {
+    paddingHorizontal: 8,
+    paddingVertical: 2,
+    borderRadius: 12,
+  },
+  timelineBadgeText: {
+    color: '#fff',
+    fontSize: 11,
+    fontWeight: '600',
+  },
+  timelineSubtitle: {
+    fontSize: 14,
+    marginBottom: 8,
+  },
+  timelineContent: {
+    marginTop: 16,
+  },
+  timelineScroll: {
+    marginBottom: 8,
+  },
+  timelineScrollContent: {
+    paddingRight: 16,
+    paddingVertical: 8,
+  },
+  timelineEraWrapper: {
+    flexDirection: 'row',
+    alignItems: 'center',
+  },
+  timelineEraCard: {
+    width: 140,
+    padding: 12,
+    borderRadius: 12,
+    borderWidth: 2,
+    alignItems: 'center',
+    justifyContent: 'center',
+    minHeight: 100,
+  },
+  timelineEraCardSelected: {
+    transform: [{ scale: 1.02 }],
+  },
+  timelineEraYears: {
+    fontSize: 12,
+    fontWeight: '600',
+    marginBottom: 4,
+  },
+  timelineEraName: {
+    fontSize: 14,
+    fontWeight: 'bold',
+    textAlign: 'center',
+    marginBottom: 4,
+  },
+  timelineEraAlbums: {
+    fontSize: 11,
+    marginTop: 4,
+  },
+  timelineConnector: {
+    width: 24,
+    height: 2,
+    marginHorizontal: 4,
+  },
+  timelineSwipeHint: {
+    fontSize: 12,
+    textAlign: 'center',
+    marginTop: 8,
+    marginBottom: 16,
+    fontStyle: 'italic',
+  },
+  timelineDetail: {
+    marginTop: 16,
+    padding: 16,
+    borderRadius: 12,
+    borderWidth: 1,
+  },
+  timelineDetailHeader: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    marginBottom: 8,
+    flexWrap: 'wrap',
+    gap: 8,
+  },
+  timelineDetailTitle: {
+    fontSize: 18,
+    fontWeight: 'bold',
+  },
+  timelineDetailYears: {
+    fontSize: 14,
+    fontWeight: '600',
+  },
+  timelineDetailDescription: {
+    fontSize: 14,
+    marginBottom: 12,
+    lineHeight: 20,
+  },
+  timelineDetailLabel: {
+    fontSize: 14,
+    fontWeight: '600',
+    marginBottom: 8,
+  },
+  timelineAlbumsSection: {
+    marginBottom: 16,
+  },
+  timelineAlbumsList: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 8,
+  },
+  timelineAlbumTag: {
+    paddingHorizontal: 10,
+    paddingVertical: 4,
+    borderRadius: 16,
+    borderWidth: 1,
+  },
+  timelineAlbumText: {
+    fontSize: 12,
+  },
+  timelineGearSection: {
+    marginBottom: 16,
+  },
+  timelineGearItem: {
+    marginBottom: 8,
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+  },
+  timelineGearLabel: {
+    fontSize: 13,
+    fontWeight: '500',
+    marginRight: 4,
+    minWidth: 80,
+  },
+  timelineGearValue: {
+    fontSize: 13,
+    flex: 1,
+    flexWrap: 'wrap',
+  },
+  timelineNotes: {
+    padding: 12,
+    borderRadius: 8,
+    borderWidth: 1,
+    marginTop: 8,
+  },
+  timelineNotesText: {
+    fontSize: 13,
+    lineHeight: 20,
+    fontStyle: 'italic',
   },
   endorsements: {
     flexDirection: 'row',

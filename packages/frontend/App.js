@@ -5391,6 +5391,9 @@ function AppContent() {
   const [showCompareYourKit, setShowCompareYourKit] = useState(false);
   const [compareKitDrummer, setCompareKitDrummer] = useState(null);
 
+  // Gear by Budget state
+  const [showGearByBudget, setShowGearByBudget] = useState(false);
+
   // Search and filter state
   const [filters, setFilters] = useState(() => getFiltersFromURL());
   const [searchValue, setSearchValue] = useState(() => getFiltersFromURL().search || '');

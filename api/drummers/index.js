@@ -216,7 +216,16 @@ const drummers = [
         },
         notes: 'Joey battled transverse myelitis but continued performing until his passing in 2021.'
       }
-    ]
+    ],
+    spotlight: {
+      quickFacts: [
+        'Recorded drums for Iowa album in just 10 days',
+        'Famous for playing on a rotating/inverted drum riser',
+        "Voted #1 in Revolver's Greatest Metal Drummers list"
+      ],
+      iconicMoment: "His blistering performance on Slipknot's Iowa album is considered one of the most intense drumming recordings in metal history.",
+      gearHighlight: 'The Pearl Joey Jordison Signature snare (13x6.5") became the go-to snare for aggressive nu-metal and death metal drummers worldwide.'
+    }
   },
   {
     id: 3,
@@ -318,7 +327,16 @@ const drummers = [
       { text: "I was always the guy who wanted to be the best. Not the fastest, but the most musical, the most precise.", source: "Modern Drummer Magazine", year: 2015 },
       { text: "Speed is useless without control. I'd rather play something perfectly at 180 BPM than sloppily at 220.", source: "Drumeo Interview", year: 2018 },
       { text: "Working with Chuck Schuldiner on Death taught me that extreme music can be intelligent and emotional, not just brutal.", source: "Revolver Magazine", year: 2016 }
-    ]
+    ],
+    spotlight: {
+      quickFacts: [
+        'Nicknamed "The Atomic Clock" for metronomic precision',
+        "Played on Death's legendary Individual Thought Patterns",
+        'Has performed with over 20 major metal bands'
+      ],
+      iconicMoment: 'His work with Death on Symbolic elevated technical death metal drumming to an art form, inspiring countless drummers.',
+      gearHighlight: "Gene's Pearl Reference Pure kit delivers the perfect balance of power and articulation for extreme metal."
+    }
   },
   {
     id: 4,

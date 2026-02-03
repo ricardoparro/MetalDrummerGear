@@ -443,7 +443,16 @@ const drummers = [
       { youtubeId: 'HUBZ_9BBevw', title: 'Tomas Haake - Meshuggah "Bleed" (Live Drum Cam)', year: '2019' },
       { youtubeId: 'qc98u-eGzlc', title: 'Tomas Haake - Meshuggah "Future Breed Machine" (Live Drum Cam)', year: '2018' },
       { youtubeId: '4A_tSyJBsRQ', title: 'Tomas Haake - Meshuggah "Rational Gaze" (Live Drum Cam)', year: '2017' }
-    ]
+    ],
+    spotlight: {
+      quickFacts: [
+        "Pioneer of polyrhythmic drumming - plays in 4/4 while guitars play in odd meters",
+        "The song 'Bleed' took him 6 months to master due to its insane double bass pattern",
+        "Uses a custom Sonor kit tuned extremely low for Meshuggah's signature sound"
+      ],
+      iconicMoment: "Recording 'obZen' (2008) - the album that cemented Meshuggah's influence on the djent movement",
+      gearHighlight: "His signature Sonor snare and Meinl Byzance cymbals deliver the dry, cutting tones essential to Meshuggah's sound"
+    }
   },
   {
     id: 6,

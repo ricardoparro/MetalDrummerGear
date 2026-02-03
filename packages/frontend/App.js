@@ -2978,8 +2978,6 @@ function DrummerList({
   onNavigateToQuiz,
   onNavigateToSpotlights,
   onNavigateToQuotes,
-  spotlight,
-  onNavigateToSpotlights,
   spotlightDrummer,
   filters,
   onFilterChange,

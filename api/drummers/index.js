@@ -23,26 +23,66 @@ const drummers = [
       sticks: 'Ahead Lars Ulrich Signature Drumsticks',
       heads: 'Remo',
       verified: true,
-      sources: ['https://www.tama.com/usa/artists/detail/98.html', 'https://zildjian.com/artists', 'https://aheaddrumsticks.com/artists/']
+      sources: [
+        'https://www.tama.com/usa/artists/detail/98.html',
+        'https://zildjian.com/artists',
+        'https://aheaddrumsticks.com/artists/'
+      ]
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/7/79/Lars_Ulrich_by_Gage_Skidmore_%28cropped%29.jpg'
     ],
     endorsements: [
-      { name: 'Tama Drums', url: 'https://www.tama.com' },
-      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
-      { name: 'Ahead Drumsticks', url: 'https://www.aheaddrumsticks.com' },
-      { name: 'Remo Drumheads', url: 'https://remo.com' }
+      {
+        name: 'Tama Drums',
+        url: 'https://www.tama.com'
+      },
+      {
+        name: 'Zildjian Cymbals',
+        url: 'https://zildjian.com'
+      },
+      {
+        name: 'Ahead Drumsticks',
+        url: 'https://www.aheaddrumsticks.com'
+      },
+      {
+        name: 'Remo Drumheads',
+        url: 'https://remo.com'
+      }
     ],
     videos: [
-      { title: 'Sad But True - Drum Cam (Amsterdam 2023)', youtubeId: 'A96QtqEpqUA', year: 2023 },
-      { title: 'For Whom The Bell Tolls - Lars Angle (Cunning Stunts)', youtubeId: 'Z_qLd2uj21w', year: 1997 },
-      { title: 'Enter Sandman - S&M Lars Cam', youtubeId: 't0cDBuEOdIA', year: 1999 }
+      {
+        title: 'Sad But True - Drum Cam (Amsterdam 2023)',
+        youtubeId: 'A96QtqEpqUA',
+        year: 2023
+      },
+      {
+        title: 'For Whom The Bell Tolls - Lars Angle (Cunning Stunts)',
+        youtubeId: 'Z_qLd2uj21w',
+        year: 1997
+      },
+      {
+        title: 'Enter Sandman - S&M Lars Cam',
+        youtubeId: 't0cDBuEOdIA',
+        year: 1999
+      }
     ],
     quotes: [
-      { text: "I'm not the best drummer in the world, but I'm the best drummer for Metallica.", source: "Modern Drummer Magazine", year: 2008 },
-      { text: "The only way to do great work is to love what you do. I've been fortunate enough to do that for over 40 years.", source: "Drumeo Interview", year: 2020 },
-      { text: "Music is the most powerful form of communication in the world. It brings people together from all walks of life.", source: "Rolling Stone", year: 2016 }
+      {
+        text: 'I\'m not the best drummer in the world, but I\'m the best drummer for Metallica.',
+        source: 'Modern Drummer Magazine',
+        year: 2008
+      },
+      {
+        text: 'The only way to do great work is to love what you do. I\'ve been fortunate enough to do that for over 40 years.',
+        source: 'Drumeo Interview',
+        year: 2020
+      },
+      {
+        text: 'Music is the most powerful form of communication in the world. It brings people together from all walks of life.',
+        source: 'Rolling Stone',
+        year: 2016
+      }
     ],
     gearTimeline: [
       {
@@ -115,7 +155,16 @@ const drummers = [
         },
         notes: 'Lars continues to use his signature Tama setup refined over decades of touring and recording.'
       }
-    ]
+    ],
+    spotlight: {
+      quickFacts: [
+        'Co-founded Metallica with James Hetfield in 1981 in Los Angeles',
+        'First metal drummer inducted into Rock and Roll Hall of Fame (2009)',
+        'Co-produced every Metallica album since the Black Album'
+      ],
+      iconicMoment: 'His double bass work on \'One\' (1988) became a blueprint for thrash drumming. The Monsters of Rock 1991 performance drew 1.6 million fans.',
+      gearHighlight: 'Tama Starclassic Maple with signature LU1465 snare and Ahead aluminum sticks for durability.'
+    }
   },
   {
     id: 2,
@@ -138,26 +187,63 @@ const drummers = [
       sticks: 'Promark Joey Jordison Signature TX515W',
       heads: 'Evans',
       verified: true,
-      sources: ['https://pearldrum.com/en/artist/joey-jordison', 'https://www.paiste.com/en/musicians/joey-jordison']
+      sources: [
+        'https://pearldrum.com/en/artist/joey-jordison',
+        'https://www.paiste.com/en/musicians/joey-jordison'
+      ]
     },
-    photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/b/b4/JoeyJordison.jpg'
-    ],
+    photos: ['https://upload.wikimedia.org/wikipedia/commons/b/b4/JoeyJordison.jpg'],
     endorsements: [
-      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
-      { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
-      { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+      {
+        name: 'Pearl Drums',
+        url: 'https://pearldrum.com'
+      },
+      {
+        name: 'Paiste Cymbals',
+        url: 'https://www.paiste.com'
+      },
+      {
+        name: 'Promark Sticks',
+        url: 'https://www.daddario.com/promark'
+      },
+      {
+        name: 'Evans Drumheads',
+        url: 'https://www.daddario.com/evans'
+      }
     ],
     videos: [
-      { title: 'Disasterpieces Drum Solo (Official)', youtubeId: 'tUibKh0Z--c', year: 2002 },
-      { title: 'People=Shit - Drum Cam (London 2002)', youtubeId: 'zRS9uKs3Rlk', year: 2002 },
-      { title: 'Drum Cam 4K Compilation', youtubeId: 'RdXMcj7xv20', year: 2000 }
+      {
+        title: 'Disasterpieces Drum Solo (Official)',
+        youtubeId: 'tUibKh0Z--c',
+        year: 2002
+      },
+      {
+        title: 'People=Shit - Drum Cam (London 2002)',
+        youtubeId: 'zRS9uKs3Rlk',
+        year: 2002
+      },
+      {
+        title: 'Drum Cam 4K Compilation',
+        youtubeId: 'RdXMcj7xv20',
+        year: 2000
+      }
     ],
     quotes: [
-      { text: "The drums chose me. I didn't choose them. It was like destiny.", source: "Modern Drummer Magazine", year: 2004 },
-      { text: "Every time I sit behind a drum kit, I want to destroy it. That's the only way I know how to play.", source: "Revolver Magazine", year: 2008 },
-      { text: "Practice doesn't make perfect. Perfect practice makes perfect. There's a big difference.", source: "Drum! Magazine", year: 2010 }
+      {
+        text: 'The drums chose me. I didn\'t choose them. It was like destiny.',
+        source: 'Modern Drummer Magazine',
+        year: 2004
+      },
+      {
+        text: 'Every time I sit behind a drum kit, I want to destroy it. That\'s the only way I know how to play.',
+        source: 'Revolver Magazine',
+        year: 2008
+      },
+      {
+        text: 'Practice doesn\'t make perfect. Perfect practice makes perfect. There\'s a big difference.',
+        source: 'Drum! Magazine',
+        year: 2010
+      }
     ],
     gearTimeline: [
       {
@@ -216,7 +302,16 @@ const drummers = [
         },
         notes: 'Joey battled transverse myelitis but continued performing until his passing in 2021.'
       }
-    ]
+    ],
+    spotlight: {
+      quickFacts: [
+        'Performed on a rotating/inverting drum platform during Slipknot\'s legendary live shows',
+        'Voted #1 drummer by Rhythm magazine and won Kerrang! \'Best Drummer\' award',
+        'Also played guitar for Murderdolls and filled in for Metallica and Korn'
+      ],
+      iconicMoment: 'The \'Disasterpieces\' drum solo (2002) - playing at superhuman speed while spinning upside-down became one of metal\'s most legendary performances.',
+      gearHighlight: 'Pearl Reference Series with signature 13x6.5" snare and the iconic rotating drum platform.'
+    }
   },
   {
     id: 3,
@@ -240,21 +335,48 @@ const drummers = [
       sticks: 'Promark 5B',
       heads: 'Evans',
       verified: true,
-      sources: ['https://pearldrum.com/en/artist/gene-hoglan', 'https://www.drumeo.com/beat/gene-hoglans-drum-kit/']
+      sources: [
+        'https://pearldrum.com/en/artist/gene-hoglan',
+        'https://www.drumeo.com/beat/gene-hoglans-drum-kit/'
+      ]
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/6/60/Gene_Hoglan_-_Testament_%28cropped%29.jpg'
     ],
     endorsements: [
-      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
-      { name: 'Sabian Cymbals', url: 'https://sabian.com' },
-      { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+      {
+        name: 'Pearl Drums',
+        url: 'https://pearldrum.com'
+      },
+      {
+        name: 'Sabian Cymbals',
+        url: 'https://sabian.com'
+      },
+      {
+        name: 'Promark Sticks',
+        url: 'https://www.daddario.com/promark'
+      },
+      {
+        name: 'Evans Drumheads',
+        url: 'https://www.daddario.com/evans'
+      }
     ],
     videos: [
-      { title: 'The Philosopher (Death) - Official Playthrough', youtubeId: 'eGope68pHf0', year: 2016 },
-      { title: 'Skeksis (Strapping Young Lad) - Official Playthrough', youtubeId: '-eaIvh6ELVg', year: 2015 },
-      { title: 'True American Hate - Drum Cam (Tuska 2013)', youtubeId: 'wagKFfcbP5s', year: 2013 }
+      {
+        title: 'The Philosopher (Death) - Official Playthrough',
+        youtubeId: 'eGope68pHf0',
+        year: 2016
+      },
+      {
+        title: 'Skeksis (Strapping Young Lad) - Official Playthrough',
+        youtubeId: '-eaIvh6ELVg',
+        year: 2015
+      },
+      {
+        title: 'True American Hate - Drum Cam (Tuska 2013)',
+        youtubeId: 'wagKFfcbP5s',
+        year: 2013
+      }
     ],
     gearTimeline: [
       {
@@ -303,7 +425,12 @@ const drummers = [
         era: 'Testament & Dethklok',
         years: '2007-Present',
         description: 'Gene became Testament\'s drummer while also recording with the animated band Dethklok.',
-        albums: ['The Formation of Damnation', 'Dark Roots of Earth', 'Titans of Creation', 'Dethalbum I, II, III'],
+        albums: [
+          'The Formation of Damnation',
+          'Dark Roots of Earth',
+          'Titans of Creation',
+          'Dethalbum I, II, III'
+        ],
         gear: {
           drums: 'Pearl Reference Pure',
           snare: 'Pearl Reference 14x6.5" Brass',
@@ -315,10 +442,31 @@ const drummers = [
       }
     ],
     quotes: [
-      { text: "I was always the guy who wanted to be the best. Not the fastest, but the most musical, the most precise.", source: "Modern Drummer Magazine", year: 2015 },
-      { text: "Speed is useless without control. I'd rather play something perfectly at 180 BPM than sloppily at 220.", source: "Drumeo Interview", year: 2018 },
-      { text: "Working with Chuck Schuldiner on Death taught me that extreme music can be intelligent and emotional, not just brutal.", source: "Revolver Magazine", year: 2016 }
-    ]
+      {
+        text: 'I was always the guy who wanted to be the best. Not the fastest, but the most musical, the most precise.',
+        source: 'Modern Drummer Magazine',
+        year: 2015
+      },
+      {
+        text: 'Speed is useless without control. I\'d rather play something perfectly at 180 BPM than sloppily at 220.',
+        source: 'Drumeo Interview',
+        year: 2018
+      },
+      {
+        text: 'Working with Chuck Schuldiner on Death taught me that extreme music can be intelligent and emotional, not just brutal.',
+        source: 'Revolver Magazine',
+        year: 2016
+      }
+    ],
+    spotlight: {
+      quickFacts: [
+        'Nicknamed \'The Atomic Clock\' for his metronomic precision at extreme speeds',
+        'Has recorded with 40+ bands including Death, Testament, Strapping Young Lad, and Dethklok',
+        'Completely self-taught - never took a formal drum lesson in his life'
+      ],
+      iconicMoment: 'His work on Death\'s \'Individual Thought Patterns\' (1993) redefined technical death metal, combining jazz musicality with extreme power.',
+      gearHighlight: 'Pearl Reference Pure with 15" Sabian AAX Hi-Hats and two single pedals instead of a double for maximum control.'
+    }
   },
   {
     id: 4,
@@ -341,26 +489,63 @@ const drummers = [
       hardware: 'Tama Iron Cobra 900 Double Pedal, Tama 1st Chair Throne',
       sticks: 'Promark Dave Lombardo Signature 2Bx',
       verified: true,
-      sources: ['https://www.tama.com/usa/artists/detail/1044.html', 'https://www.paiste.com/en/musicians/dave-lombardo']
+      sources: [
+        'https://www.tama.com/usa/artists/detail/1044.html',
+        'https://www.paiste.com/en/musicians/dave-lombardo'
+      ]
     },
-    photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/d/df/Dave_Lombardo_8.5.14.jpeg'
-    ],
+    photos: ['https://upload.wikimedia.org/wikipedia/commons/d/df/Dave_Lombardo_8.5.14.jpeg'],
     endorsements: [
-      { name: 'Tama Drums', url: 'https://www.tama.com' },
-      { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
-      { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+      {
+        name: 'Tama Drums',
+        url: 'https://www.tama.com'
+      },
+      {
+        name: 'Paiste Cymbals',
+        url: 'https://www.paiste.com'
+      },
+      {
+        name: 'Promark Sticks',
+        url: 'https://www.daddario.com/promark'
+      },
+      {
+        name: 'Evans Drumheads',
+        url: 'https://www.daddario.com/evans'
+      }
     ],
     videos: [
-      { title: 'War Ensemble - Drum Cam (Yankee Stadium, Official)', youtubeId: '3ivOfkqFmxg', year: 2010 },
-      { title: 'Angel of Death - Drum Cam', youtubeId: 'ManyDSIC8fQ', year: 2010 },
-      { title: 'Full Show Drum Cam (St Louis 2003)', youtubeId: '3kBCky31sTg', year: 2003 }
+      {
+        title: 'War Ensemble - Drum Cam (Yankee Stadium, Official)',
+        youtubeId: '3ivOfkqFmxg',
+        year: 2010
+      },
+      {
+        title: 'Angel of Death - Drum Cam',
+        youtubeId: 'ManyDSIC8fQ',
+        year: 2010
+      },
+      {
+        title: 'Full Show Drum Cam (St Louis 2003)',
+        youtubeId: '3kBCky31sTg',
+        year: 2003
+      }
     ],
     quotes: [
-      { text: "Speed is nothing without control. You have to be able to play fast and tight at the same time.", source: "Modern Drummer Magazine", year: 2006 },
-      { text: "I never wanted to be a typical metal drummer. I wanted to bring jazz, Latin, and world music into heavy music.", source: "Drumeo Interview", year: 2019 },
-      { text: "Reign in Blood changed everything. We didn't know we were making history, we were just playing as fast as we could.", source: "Revolver Magazine", year: 2016 }
+      {
+        text: 'Speed is nothing without control. You have to be able to play fast and tight at the same time.',
+        source: 'Modern Drummer Magazine',
+        year: 2006
+      },
+      {
+        text: 'I never wanted to be a typical metal drummer. I wanted to bring jazz, Latin, and world music into heavy music.',
+        source: 'Drumeo Interview',
+        year: 2019
+      },
+      {
+        text: 'Reign in Blood changed everything. We didn\'t know we were making history, we were just playing as fast as we could.',
+        source: 'Revolver Magazine',
+        year: 2016
+      }
     ],
     gearTimeline: [
       {
@@ -423,7 +608,11 @@ const drummers = [
         era: 'Post-Slayer Projects',
         years: '2013-Present',
         description: 'Dave continues with Dead Cross, Suicidal Tendencies, and Mr. Bungle reunion.',
-        albums: ['Dead Cross - Dead Cross', 'Dead Cross - II', 'Mr. Bungle - The Raging Wrath of the Easter Bunny Demo'],
+        albums: [
+          'Dead Cross - Dead Cross',
+          'Dead Cross - II',
+          'Mr. Bungle - The Raging Wrath of the Easter Bunny Demo'
+        ],
         gear: {
           drums: 'Tama Starclassic Walnut/Birch',
           snare: 'Tama S.L.P. 14x6.5" G-Maple',
@@ -433,7 +622,16 @@ const drummers = [
         },
         notes: 'At nearly 60, Dave remains one of the most active and influential drummers in extreme music.'
       }
-    ]
+    ],
+    spotlight: {
+      quickFacts: [
+        'Born in Cuba, moved to LA at age 2 - became the \'Godfather of Double Bass\'',
+        'Pioneered the double bass drumming style that defined thrash metal in the 1980s',
+        'Has collaborated with Mike Patton in Fantomas, Dead Cross, and Mr. Bungle'
+      ],
+      iconicMoment: '\'Reign in Blood\' (1986) - 29 minutes of the fastest, most intense drumming ever recorded, redefining what was possible in metal.',
+      gearHighlight: 'Tama Starclassic with Paiste RUDE cymbals and his signature Promark 2Bx sticks for power and speed.'
+    }
   },
   {
     id: 5,
@@ -456,21 +654,49 @@ const drummers = [
       sticks: 'Wincent Tomas Haake Signature',
       heads: 'Remo',
       verified: true,
-      sources: ['https://www.sonor.com/drums/artists/artists-detail/tomas-haake', 'https://sabian.com/artist/tomas-haake/', 'https://www.wincent.se']
+      sources: [
+        'https://www.sonor.com/drums/artists/artists-detail/tomas-haake',
+        'https://sabian.com/artist/tomas-haake/',
+        'https://www.wincent.se'
+      ]
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/7/7b/Meshuggah_-_Rock_am_Ring_2023-44313.jpg'
     ],
     endorsements: [
-      { name: 'Sonor Drums', url: 'https://www.sonor.com' },
-      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
-      { name: 'Wincent Drumsticks', url: 'https://www.wincent.se' },
-      { name: 'Remo Drumheads', url: 'https://remo.com' }
+      {
+        name: 'Sonor Drums',
+        url: 'https://www.sonor.com'
+      },
+      {
+        name: 'Sabian Cymbals',
+        url: 'https://www.sabian.com'
+      },
+      {
+        name: 'Wincent Drumsticks',
+        url: 'https://www.wincent.se'
+      },
+      {
+        name: 'Remo Drumheads',
+        url: 'https://remo.com'
+      }
     ],
     videos: [
-      { title: 'Bleed - Wincent Drumsticks (8.1M views)', youtubeId: 'bAJ1WTGNISk', year: 2013 },
-      { title: 'Clockworks - Official Drum Playthrough', youtubeId: 'axGn6qeJHcM', year: 2016 },
-      { title: 'Drumming Footage - New England Metal Fest (Official)', youtubeId: 'kMo5VxRrgcY', year: 2008 }
+      {
+        title: 'Bleed - Wincent Drumsticks (8.1M views)',
+        youtubeId: 'bAJ1WTGNISk',
+        year: 2013
+      },
+      {
+        title: 'Clockworks - Official Drum Playthrough',
+        youtubeId: 'axGn6qeJHcM',
+        year: 2016
+      },
+      {
+        title: 'Drumming Footage - New England Metal Fest (Official)',
+        youtubeId: 'kMo5VxRrgcY',
+        year: 2008
+      }
     ],
     gearTimeline: [
       {
@@ -545,10 +771,31 @@ const drummers = [
       }
     ],
     quotes: [
-      { text: "The polyrhythmic approach came from wanting to create something that felt both mechanical and organic at the same time.", source: "Modern Drummer Magazine", year: 2012 },
-      { text: "I use two single pedals instead of a double pedal because I want more independence and control over each foot.", source: "Drumeo Interview", year: 2019 },
-      { text: "'Bleed' took me six months of daily practice to play consistently. Some things just take time.", source: "Gear Gods Interview", year: 2017 }
-    ]
+      {
+        text: 'The polyrhythmic approach came from wanting to create something that felt both mechanical and organic at the same time.',
+        source: 'Modern Drummer Magazine',
+        year: 2012
+      },
+      {
+        text: 'I use two single pedals instead of a double pedal because I want more independence and control over each foot.',
+        source: 'Drumeo Interview',
+        year: 2019
+      },
+      {
+        text: '\'Bleed\' took me six months of daily practice to play consistently. Some things just take time.',
+        source: 'Gear Gods Interview',
+        year: 2017
+      }
+    ],
+    spotlight: {
+      quickFacts: [
+        'Pioneered polyrhythmic drumming that spawned the entire \'djent\' movement',
+        'Uses two single pedals instead of a double for independent foot control',
+        '\'Bleed\' took 6 months of daily practice - now considered one of metal\'s hardest drum tracks'
+      ],
+      iconicMoment: 'The mind-bending polyrhythms on \'obZen\' (2008) that seem to defy physics, playing in multiple time signatures simultaneously.',
+      gearHighlight: 'Sonor SQ2 Heavy Beech with 24"x18" bass drum and Wincent signature sticks - massive sound, surgical precision.'
+    }
   },
   {
     id: 6,
@@ -572,22 +819,57 @@ const drummers = [
       sticks: 'Vic Firth George Kollias Signature SGK',
       heads: 'Evans',
       verified: true,
-      sources: ['https://pearldrum.com/en/artist/george-kollias/15801', 'https://zildjian.com/artists', 'https://vicfirth.com/products/signature-series-george-kollias']
+      sources: [
+        'https://pearldrum.com/en/artist/george-kollias/15801',
+        'https://zildjian.com/artists',
+        'https://vicfirth.com/products/signature-series-george-kollias'
+      ]
     },
-    photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/e/e8/GK_10.jpg'
-    ],
+    photos: ['https://upload.wikimedia.org/wikipedia/commons/e/e8/GK_10.jpg'],
     endorsements: [
-      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
-      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+      {
+        name: 'Pearl Drums',
+        url: 'https://pearldrum.com'
+      },
+      {
+        name: 'Zildjian Cymbals',
+        url: 'https://zildjian.com'
+      },
+      {
+        name: 'Vic Firth Sticks',
+        url: 'https://vicfirth.zildjian.com'
+      },
+      {
+        name: 'Evans Drumheads',
+        url: 'https://www.daddario.com/evans'
+      }
     ],
     videos: [
-      { title: 'Shall Rise Shall Be Dead (5M views)', youtubeId: 'RqzZmNqdWck', year: 2012 },
-      { title: 'US Tour 2013 DrumCam (Official)', youtubeId: '86YtBw5gmAM', year: 2013 },
-      { title: 'Black Seeds Of Vengeance - Pearl Drum Cam', youtubeId: 'dU-JXLRqjiE', year: 2012 }
-    ]
+      {
+        title: 'Shall Rise Shall Be Dead (5M views)',
+        youtubeId: 'RqzZmNqdWck',
+        year: 2012
+      },
+      {
+        title: 'US Tour 2013 DrumCam (Official)',
+        youtubeId: '86YtBw5gmAM',
+        year: 2013
+      },
+      {
+        title: 'Black Seeds Of Vengeance - Pearl Drum Cam',
+        youtubeId: 'dU-JXLRqjiE',
+        year: 2012
+      }
+    ],
+    spotlight: {
+      quickFacts: [
+        'Holds multiple speed records - consistently clocks 280+ BPM single-stroke rolls',
+        'Co-designed the Pearl Demon XR double pedal with Pearl engineers',
+        'Runs a successful drum school in Athens and has released acclaimed instructional DVDs'
+      ],
+      iconicMoment: 'The \'Shall Rise Shall Be Dead\' playthrough (5M+ views) showcasing extreme speed while discussing technique - the gold standard for death metal drumming tutorials.',
+      gearHighlight: 'Pearl Masterworks Stadium Exotic with signature 14x6.5" snare and Vic Firth SGK signature sticks.'
+    }
   },
   {
     id: 7,
@@ -612,21 +894,49 @@ const drummers = [
       heads: 'Evans',
       verified: true,
       verifiedAt: '2026-02-01',
-      sources: ['https://www.tama.com/usa/artists/', 'https://en.beatit.tv/eloy-casagrandes-2024-slipknot-drum-kit/', 'https://www.paiste.com/en/musicians']
+      sources: [
+        'https://www.tama.com/usa/artists/',
+        'https://en.beatit.tv/eloy-casagrandes-2024-slipknot-drum-kit/',
+        'https://www.paiste.com/en/musicians'
+      ]
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/8/86/Sepultura_-_2023219214143_2023-08-07_Sepultura_-_Sven_-_1D_X_MK_II_-_0650_-_AK8I2527.jpg'
     ],
     endorsements: [
-      { name: 'Tama Drums', url: 'https://www.tama.com' },
-      { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
-      { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+      {
+        name: 'Tama Drums',
+        url: 'https://www.tama.com'
+      },
+      {
+        name: 'Paiste Cymbals',
+        url: 'https://www.paiste.com'
+      },
+      {
+        name: 'Promark Sticks',
+        url: 'https://www.daddario.com/promark'
+      },
+      {
+        name: 'Evans Drumheads',
+        url: 'https://www.daddario.com/evans'
+      }
     ],
     videos: [
-      { title: 'Desperate Cry - Sepultura (3.3M views)', youtubeId: '1ktbtG-zD8Y', year: 2017 },
-      { title: 'Means To An End - Official Drum Cam', youtubeId: 'dQe3EwkPcFU', year: 2019 },
-      { title: 'Roots Bloody Roots - Rock in Rio (Official)', youtubeId: 'J9W1CxQmTxI', year: 2022 }
+      {
+        title: 'Desperate Cry - Sepultura (3.3M views)',
+        youtubeId: '1ktbtG-zD8Y',
+        year: 2017
+      },
+      {
+        title: 'Means To An End - Official Drum Cam',
+        youtubeId: 'dQe3EwkPcFU',
+        year: 2019
+      },
+      {
+        title: 'Roots Bloody Roots - Rock in Rio (Official)',
+        youtubeId: 'J9W1CxQmTxI',
+        year: 2022
+      }
     ]
   },
   {
@@ -649,20 +959,45 @@ const drummers = [
       hardware: 'DW 9002 Double Pedal, Pearl D-2000 Roadster Throne',
       sticks: 'Vic Firth Ray Luzier Signature'
     },
-    photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/c/c8/Ray_Luzier_of_Korn.jpg'
-    ],
+    photos: ['https://upload.wikimedia.org/wikipedia/commons/c/c8/Ray_Luzier_of_Korn.jpg'],
     endorsements: [
-      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
-      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' },
-      { name: 'DW Hardware', url: 'https://www.dwdrums.com' }
+      {
+        name: 'Pearl Drums',
+        url: 'https://pearldrum.com'
+      },
+      {
+        name: 'Sabian Cymbals',
+        url: 'https://www.sabian.com'
+      },
+      {
+        name: 'Vic Firth Sticks',
+        url: 'https://vicfirth.zildjian.com'
+      },
+      {
+        name: 'Evans Drumheads',
+        url: 'https://www.daddario.com/evans'
+      },
+      {
+        name: 'DW Hardware',
+        url: 'https://www.dwdrums.com'
+      }
     ],
     videos: [
-      { title: 'Freak On A Leash - Vic Firth (5M views)', youtubeId: 'Vp6_NMOzPNw', year: 2015 },
-      { title: 'Korn Medley - UK Drum Show (Vic Firth)', youtubeId: 'xjYHh1D_8Po', year: 2019 },
-      { title: 'Got The Life - GoPro Drum Cam', youtubeId: 'g2k0PpRw2f4', year: 2014 }
+      {
+        title: 'Freak On A Leash - Vic Firth (5M views)',
+        youtubeId: 'Vp6_NMOzPNw',
+        year: 2015
+      },
+      {
+        title: 'Korn Medley - UK Drum Show (Vic Firth)',
+        youtubeId: 'xjYHh1D_8Po',
+        year: 2019
+      },
+      {
+        title: 'Got The Life - GoPro Drum Cam',
+        youtubeId: 'g2k0PpRw2f4',
+        year: 2014
+      }
     ]
   },
   {
@@ -687,22 +1022,52 @@ const drummers = [
       sticks: 'Zildjian Artist Series',
       heads: 'Remo Emperor Coated',
       verified: true,
-      sources: ['https://remo.com/profile/john-otto', 'https://www.moderndrummer.com/2024/10/john-otto-limp-bizkit-modern-drummer-podcast-with-david-frangioni-16/']
+      sources: [
+        'https://remo.com/profile/john-otto',
+        'https://www.moderndrummer.com/2024/10/john-otto-limp-bizkit-modern-drummer-podcast-with-david-frangioni-16/'
+      ]
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/0/0a/Drummer_John_Otto_of_Limp_Bizkit_in_2006.jpg'
     ],
     endorsements: [
-      { name: 'OCDP Drums', url: 'https://www.ocdrum.com' },
-      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
-      { name: 'Zildjian Drumsticks', url: 'https://zildjian.com' },
-      { name: 'Remo Drumheads', url: 'https://remo.com' },
-      { name: 'Gibraltar Hardware', url: 'https://www.gibraltarhardware.com' }
+      {
+        name: 'OCDP Drums',
+        url: 'https://www.ocdrum.com'
+      },
+      {
+        name: 'Zildjian Cymbals',
+        url: 'https://zildjian.com'
+      },
+      {
+        name: 'Zildjian Drumsticks',
+        url: 'https://zildjian.com'
+      },
+      {
+        name: 'Remo Drumheads',
+        url: 'https://remo.com'
+      },
+      {
+        name: 'Gibraltar Hardware',
+        url: 'https://www.gibraltarhardware.com'
+      }
     ],
     videos: [
-      { title: 'Boiler - Live Drum Cam Clip', youtubeId: 'pmyWqwaGNbg', year: 2019 },
-      { title: 'Drum Solo (Classic)', youtubeId: '3tWvneQTgRU', year: 2006 },
-      { title: 'Interview and Rollin\' LIVE Drum Cam', youtubeId: 'wTm9KLDxc9k', year: 2024 }
+      {
+        title: 'Boiler - Live Drum Cam Clip',
+        youtubeId: 'pmyWqwaGNbg',
+        year: 2019
+      },
+      {
+        title: 'Drum Solo (Classic)',
+        youtubeId: '3tWvneQTgRU',
+        year: 2006
+      },
+      {
+        title: 'Interview and Rollin\' LIVE Drum Cam',
+        youtubeId: 'wTm9KLDxc9k',
+        year: 2024
+      }
     ]
   },
   {
@@ -727,23 +1092,57 @@ const drummers = [
       sticks: 'Vater Jay Weinberg 908 Signature',
       heads: 'Evans Black Chrome',
       verified: true,
-      sources: ['https://www.jayweinbergofficial.com/gear', 'https://sjcdrums.com/pages/artists', 'https://vater.com/artists/']
+      sources: [
+        'https://www.jayweinbergofficial.com/gear',
+        'https://sjcdrums.com/pages/artists',
+        'https://vater.com/artists/'
+      ]
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/4/46/Suicidal_Tendencies_Rockharz_2024_18.jpg'
     ],
     endorsements: [
-      { name: 'SJC Custom Drums', url: 'https://www.sjcdrums.com' },
-      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
-      { name: 'Vater Drumsticks', url: 'https://www.vater.com' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' },
-      { name: 'DW Hardware', url: 'https://www.dwdrums.com' },
-      { name: 'Roland Electronics', url: 'https://www.roland.com' }
+      {
+        name: 'SJC Custom Drums',
+        url: 'https://www.sjcdrums.com'
+      },
+      {
+        name: 'Zildjian Cymbals',
+        url: 'https://zildjian.com'
+      },
+      {
+        name: 'Vater Drumsticks',
+        url: 'https://www.vater.com'
+      },
+      {
+        name: 'Evans Drumheads',
+        url: 'https://www.daddario.com/evans'
+      },
+      {
+        name: 'DW Hardware',
+        url: 'https://www.dwdrums.com'
+      },
+      {
+        name: 'Roland Electronics',
+        url: 'https://www.roland.com'
+      }
     ],
     videos: [
-      { title: 'Unsainted - Zildjian Performance (15M views)', youtubeId: 'hfXUQuQV-4o', year: 2019 },
-      { title: 'Duality - Live Drum Cam (Wacken 2022, Official)', youtubeId: 'sTs1uxjHDzA', year: 2022 },
-      { title: 'Sulfur - Live Drum Cam (Wacken 2022, Official)', youtubeId: 'bQBUGf9dM1w', year: 2022 }
+      {
+        title: 'Unsainted - Zildjian Performance (15M views)',
+        youtubeId: 'hfXUQuQV-4o',
+        year: 2019
+      },
+      {
+        title: 'Duality - Live Drum Cam (Wacken 2022, Official)',
+        youtubeId: 'sTs1uxjHDzA',
+        year: 2022
+      },
+      {
+        title: 'Sulfur - Live Drum Cam (Wacken 2022, Official)',
+        youtubeId: 'bQBUGf9dM1w',
+        year: 2022
+      }
     ]
   },
   {
@@ -766,20 +1165,51 @@ const drummers = [
       hardware: 'ddrum Double Pedal, ddrum Throne',
       sticks: 'Vic Firth American Classic 5B'
     },
-    photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/5/55/VinniePaul2008.JPG'
-    ],
+    photos: ['https://upload.wikimedia.org/wikipedia/commons/5/55/VinniePaul2008.JPG'],
     endorsements: [
-      { name: 'ddrum Drums', url: 'https://www.ddrum.com' },
-      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+      {
+        name: 'ddrum Drums',
+        url: 'https://www.ddrum.com'
+      },
+      {
+        name: 'Sabian Cymbals',
+        url: 'https://www.sabian.com'
+      },
+      {
+        name: 'Vic Firth Sticks',
+        url: 'https://vicfirth.zildjian.com'
+      },
+      {
+        name: 'Evans Drumheads',
+        url: 'https://www.daddario.com/evans'
+      }
     ],
     videos: [
-      { title: 'The MONSTER known as VINNIE PAUL (by Scott Ian)', youtubeId: 'J9FD8_kRVEc', year: 2010 },
-      { title: 'GoPro Drum Cam (Full Show 2011)', youtubeId: 'E4LVFVzgxFo', year: 2011 },
-      { title: 'Hellyeah - Grave (GoPro Drum Cam)', youtubeId: 'ET8IEfaTDhM', year: 2016 }
-    ]
+      {
+        title: 'The MONSTER known as VINNIE PAUL (by Scott Ian)',
+        youtubeId: 'J9FD8_kRVEc',
+        year: 2010
+      },
+      {
+        title: 'GoPro Drum Cam (Full Show 2011)',
+        youtubeId: 'E4LVFVzgxFo',
+        year: 2011
+      },
+      {
+        title: 'Hellyeah - Grave (GoPro Drum Cam)',
+        youtubeId: 'ET8IEfaTDhM',
+        year: 2016
+      }
+    ],
+    spotlight: {
+      quickFacts: [
+        'Co-founded Pantera with brother Dimebag Darrell - defined the groove metal sound',
+        'Pantera received four Grammy nominations for Best Metal Performance',
+        'His massive double bass sound influenced an entire generation of metal drummers'
+      ],
+      iconicMoment: 'The crushing groove on \'Walk\' (1992) and \'Cowboys From Hell\' created the template for groove metal that countless bands still follow today.',
+      gearHighlight: 'ddrum Vinnie Paul Signature Series with massive 14x8" signature snare - the heaviest sound in metal.'
+    }
   },
   {
     id: 12,
@@ -807,16 +1237,43 @@ const drummers = [
       'https://upload.wikimedia.org/wikipedia/commons/1/11/2017_Anthrax_-_Charlie_Benante_-_by_2eight_-_DSC1986_%28cropped%29.jpg'
     ],
     endorsements: [
-      { name: 'Tama Drums', url: 'https://www.tama.com' },
-      { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' },
-      { name: 'Roland Electronics', url: 'https://www.roland.com' }
+      {
+        name: 'Tama Drums',
+        url: 'https://www.tama.com'
+      },
+      {
+        name: 'Paiste Cymbals',
+        url: 'https://www.paiste.com'
+      },
+      {
+        name: 'Vic Firth Sticks',
+        url: 'https://vicfirth.zildjian.com'
+      },
+      {
+        name: 'Evans Drumheads',
+        url: 'https://www.daddario.com/evans'
+      },
+      {
+        name: 'Roland Electronics',
+        url: 'https://www.roland.com'
+      }
     ],
     videos: [
-      { title: 'Indians - Drumeo Breakdown', youtubeId: 'OR6rUpbFOk0', year: 2023 },
-      { title: 'Caught In A Mosh (Official Channel)', youtubeId: 'Fnn86OK1ZPo', year: 2011 },
-      { title: 'Drum Cam Compilation', youtubeId: 'he7QfNFRdv0', year: 2018 }
+      {
+        title: 'Indians - Drumeo Breakdown',
+        youtubeId: 'OR6rUpbFOk0',
+        year: 2023
+      },
+      {
+        title: 'Caught In A Mosh (Official Channel)',
+        youtubeId: 'Fnn86OK1ZPo',
+        year: 2011
+      },
+      {
+        title: 'Drum Cam Compilation',
+        youtubeId: 'he7QfNFRdv0',
+        year: 2018
+      }
     ]
   },
   {
@@ -841,26 +1298,72 @@ const drummers = [
       hardware: 'Tama Iron Cobra Power Glide Double Pedal, Tama 1st Chair Ergo-Rider Throne',
       sticks: 'Promark Mike Portnoy Signature TX420N'
     },
-    photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/7/77/Mike_Portnoy.jpg'
-    ],
+    photos: ['https://upload.wikimedia.org/wikipedia/commons/7/77/Mike_Portnoy.jpg'],
     endorsements: [
-      { name: 'Tama Drums', url: 'https://www.tama.com' },
-      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
-      { name: 'ProMark Sticks', url: 'https://www.daddario.com/promark' },
-      { name: 'Remo Drumheads', url: 'https://remo.com' },
-      { name: 'Roland Electronics', url: 'https://www.roland.com' }
+      {
+        name: 'Tama Drums',
+        url: 'https://www.tama.com'
+      },
+      {
+        name: 'Sabian Cymbals',
+        url: 'https://www.sabian.com'
+      },
+      {
+        name: 'ProMark Sticks',
+        url: 'https://www.daddario.com/promark'
+      },
+      {
+        name: 'Remo Drumheads',
+        url: 'https://remo.com'
+      },
+      {
+        name: 'Roland Electronics',
+        url: 'https://www.roland.com'
+      }
     ],
     videos: [
-      { title: 'Instrumedley - The Dance of Instrumentals (4.5M views)', youtubeId: 'XFo8UgrUkNA', year: 2003 },
-      { title: 'Panic Attack - Drumeo (Official)', youtubeId: 'oa7oOdYPOSk', year: 2023 },
-      { title: 'Score - Full Concert Drum & Vox Cam (Official)', youtubeId: 'eUYi4GwN9sg', year: 2006 }
+      {
+        title: 'Instrumedley - The Dance of Instrumentals (4.5M views)',
+        youtubeId: 'XFo8UgrUkNA',
+        year: 2003
+      },
+      {
+        title: 'Panic Attack - Drumeo (Official)',
+        youtubeId: 'oa7oOdYPOSk',
+        year: 2023
+      },
+      {
+        title: 'Score - Full Concert Drum & Vox Cam (Official)',
+        youtubeId: 'eUYi4GwN9sg',
+        year: 2006
+      }
     ],
     quotes: [
-      { text: "I've always tried to approach drums as a musical instrument rather than just a rhythm instrument. The drums can sing.", source: "Modern Drummer Magazine", year: 2005 },
-      { text: "Progressive music allows you to break all the rules. That's what makes it so exciting - there are no boundaries.", source: "Drumeo Interview", year: 2023 },
-      { text: "Every drummer should learn to read music. It opens up a whole world of possibilities.", source: "Drum! Magazine", year: 2012 }
-    ]
+      {
+        text: 'I\'ve always tried to approach drums as a musical instrument rather than just a rhythm instrument. The drums can sing.',
+        source: 'Modern Drummer Magazine',
+        year: 2005
+      },
+      {
+        text: 'Progressive music allows you to break all the rules. That\'s what makes it so exciting - there are no boundaries.',
+        source: 'Drumeo Interview',
+        year: 2023
+      },
+      {
+        text: 'Every drummer should learn to read music. It opens up a whole world of possibilities.',
+        source: 'Drum! Magazine',
+        year: 2012
+      }
+    ],
+    spotlight: {
+      quickFacts: [
+        'Won 30+ \'Drummer of the Year\' awards from Modern Drummer magazine readers',
+        'Co-founded Dream Theater and defined progressive metal drumming for 25 years',
+        'Rejoined Dream Theater in 2023 after 13 years - one of metal\'s most anticipated reunions'
+      ],
+      iconicMoment: 'The \'Instrumedley\' performance (4.5M views) - 15+ minutes of seamlessly transitioning between Dream Theater\'s most complex sections.',
+      gearHighlight: 'Tama Starclassic with Sabian HHX cymbals and signature Melody Master snare - the progressive metal standard.'
+    }
   },
   {
     id: 14,
@@ -887,22 +1390,70 @@ const drummers = [
       'https://upload.wikimedia.org/wikipedia/commons/c/c1/Danny_Carey_Hellfest_2019.jpg'
     ],
     endorsements: [
-      { name: 'Sonor Drums', url: 'https://www.sonor.com' },
-      { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
-      { name: 'Remo Drumheads', url: 'https://www.remo.com' },
-      { name: 'Mandala Drums', url: 'https://www.mandaladrum.com' }
+      {
+        name: 'Sonor Drums',
+        url: 'https://www.sonor.com'
+      },
+      {
+        name: 'Paiste Cymbals',
+        url: 'https://www.paiste.com'
+      },
+      {
+        name: 'Vic Firth Sticks',
+        url: 'https://vicfirth.zildjian.com'
+      },
+      {
+        name: 'Remo Drumheads',
+        url: 'https://www.remo.com'
+      },
+      {
+        name: 'Mandala Drums',
+        url: 'https://www.mandaladrum.com'
+      }
     ],
     videos: [
-      { title: 'Tool - Pneuma (Live Drum Cam)', youtubeId: 'FssULNGSZIA', year: 2019 },
-      { title: 'Tool - Forty Six & 2 (Live Drum Cam)', youtubeId: 'qJq9y9xPKWs', year: 2019 },
-      { title: 'Tool - Cleveland 2002 (Drum Cam)', youtubeId: 'Lawu_5p8Kg4', year: 2002 }
+      {
+        title: 'Tool - Pneuma (Live Drum Cam)',
+        youtubeId: 'FssULNGSZIA',
+        year: 2019
+      },
+      {
+        title: 'Tool - Forty Six & 2 (Live Drum Cam)',
+        youtubeId: 'qJq9y9xPKWs',
+        year: 2019
+      },
+      {
+        title: 'Tool - Cleveland 2002 (Drum Cam)',
+        youtubeId: 'Lawu_5p8Kg4',
+        year: 2002
+      }
     ],
     quotes: [
-      { text: "I've always been fascinated by sacred geometry and how it relates to rhythm. The patterns in nature are the same patterns in music.", source: "Modern Drummer Magazine", year: 2019 },
-      { text: "The drumset is the most expressive instrument. You can make it whisper or you can make it scream.", source: "Drumeo Interview", year: 2020 },
-      { text: "I practice every day, even after 30 years. The day you stop learning is the day you stop growing as a musician.", source: "Revolver Magazine", year: 2017 }
-    ]
+      {
+        text: 'I\'ve always been fascinated by sacred geometry and how it relates to rhythm. The patterns in nature are the same patterns in music.',
+        source: 'Modern Drummer Magazine',
+        year: 2019
+      },
+      {
+        text: 'The drumset is the most expressive instrument. You can make it whisper or you can make it scream.',
+        source: 'Drumeo Interview',
+        year: 2020
+      },
+      {
+        text: 'I practice every day, even after 30 years. The day you stop learning is the day you stop growing as a musician.',
+        source: 'Revolver Magazine',
+        year: 2017
+      }
+    ],
+    spotlight: {
+      quickFacts: [
+        'Voted best drummer by Modern Drummer readers multiple times',
+        'Incorporates sacred geometry and occult symbolism into his drumming approach',
+        'Stands 6\'5" and plays one of the largest drum kits in rock music'
+      ],
+      iconicMoment: 'The 10+ minute drum performance in \'Pneuma\' showcasing polyrhythmic mastery - his live drum cam videos have tens of millions of views.',
+      gearHighlight: 'Sonor SQ2 Heavy Beech with massive 14x8" bronze signature snare and Mandala electronic pads.'
+    }
   },
   {
     id: 15,
@@ -929,14 +1480,35 @@ const drummers = [
       'https://upload.wikimedia.org/wikipedia/commons/8/83/2017_RiP_-_Gojira_-_Mario_Duplantier_-_by_2eight_-_8SC9168.jpg'
     ],
     endorsements: [
-      { name: 'Tama Drums', url: 'https://www.tama.com' },
-      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
-      { name: 'Remo Drumheads', url: 'https://remo.com' }
+      {
+        name: 'Tama Drums',
+        url: 'https://www.tama.com'
+      },
+      {
+        name: 'Zildjian Cymbals',
+        url: 'https://zildjian.com'
+      },
+      {
+        name: 'Remo Drumheads',
+        url: 'https://remo.com'
+      }
     ],
     videos: [
-      { title: 'Gojira - Silvera (Live Drum Cam)', youtubeId: 'BGHlZwMYO9g', year: 2017 },
-      { title: 'Gojira - Stranded (Live Drum Cam)', youtubeId: 'FNdC_3LR2AI', year: 2017 },
-      { title: 'Gojira - Flying Whales (Live Drum Cam)', youtubeId: 'iqrMFNMgVS0', year: 2019 }
+      {
+        title: 'Gojira - Silvera (Live Drum Cam)',
+        youtubeId: 'BGHlZwMYO9g',
+        year: 2017
+      },
+      {
+        title: 'Gojira - Stranded (Live Drum Cam)',
+        youtubeId: 'FNdC_3LR2AI',
+        year: 2017
+      },
+      {
+        title: 'Gojira - Flying Whales (Live Drum Cam)',
+        youtubeId: 'iqrMFNMgVS0',
+        year: 2019
+      }
     ]
   },
   {
@@ -964,15 +1536,39 @@ const drummers = [
       'https://upload.wikimedia.org/wikipedia/commons/6/6b/20150612-054-Nova_Rock_2015-Mastodon-Brann_Dailor.jpg'
     ],
     endorsements: [
-      { name: 'Tama Drums', url: 'https://www.tama.com' },
-      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
-      { name: 'Vater Drumsticks', url: 'https://www.vater.com' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+      {
+        name: 'Tama Drums',
+        url: 'https://www.tama.com'
+      },
+      {
+        name: 'Meinl Cymbals',
+        url: 'https://meinlcymbals.com'
+      },
+      {
+        name: 'Vater Drumsticks',
+        url: 'https://www.vater.com'
+      },
+      {
+        name: 'Evans Drumheads',
+        url: 'https://www.daddario.com/evans'
+      }
     ],
     videos: [
-      { title: 'Mastodon - Blood and Thunder (Meinl Cymbals)', youtubeId: 'q8B4mSW5e88', year: 2012 },
-      { title: 'Mastodon - Steambreather (Drumeo Breakdown)', youtubeId: 'Svz-dGKLeyo', year: 2024 },
-      { title: 'Mastodon - Ghost of Karelia (Meinl Cymbals)', youtubeId: 'HBqyOZdabJA', year: 2020 }
+      {
+        title: 'Mastodon - Blood and Thunder (Meinl Cymbals)',
+        youtubeId: 'q8B4mSW5e88',
+        year: 2012
+      },
+      {
+        title: 'Mastodon - Steambreather (Drumeo Breakdown)',
+        youtubeId: 'Svz-dGKLeyo',
+        year: 2024
+      },
+      {
+        title: 'Mastodon - Ghost of Karelia (Meinl Cymbals)',
+        youtubeId: 'HBqyOZdabJA',
+        year: 2020
+      }
     ]
   },
   {
@@ -1002,15 +1598,39 @@ const drummers = [
       'https://upload.wikimedia.org/wikipedia/commons/d/d8/Lamb_Of_God_-_Rock_am_Ring_2015-9876_%28cropped%29.jpg'
     ],
     endorsements: [
-      { name: 'Mapex Drums', url: 'https://www.mapexdrums.com' },
-      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
-      { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+      {
+        name: 'Mapex Drums',
+        url: 'https://www.mapexdrums.com'
+      },
+      {
+        name: 'Meinl Cymbals',
+        url: 'https://meinlcymbals.com'
+      },
+      {
+        name: 'Promark Sticks',
+        url: 'https://www.daddario.com/promark'
+      },
+      {
+        name: 'Evans Drumheads',
+        url: 'https://www.daddario.com/evans'
+      }
     ],
     videos: [
-      { title: 'Lamb of God - Laid to Rest (Live Drum Cam)', youtubeId: 'oqdZpxkzNvc', year: 2018 },
-      { title: 'Lamb of God - Redneck (Live Drum Cam)', youtubeId: 'HL9kaJZw8iw', year: 2016 },
-      { title: 'Lamb of God - Blood of the Scribe (Modern Drummer)', youtubeId: 'AInJFYy3yvs', year: 2005 }
+      {
+        title: 'Lamb of God - Laid to Rest (Live Drum Cam)',
+        youtubeId: 'oqdZpxkzNvc',
+        year: 2018
+      },
+      {
+        title: 'Lamb of God - Redneck (Live Drum Cam)',
+        youtubeId: 'HL9kaJZw8iw',
+        year: 2016
+      },
+      {
+        title: 'Lamb of God - Blood of the Scribe (Modern Drummer)',
+        youtubeId: 'AInJFYy3yvs',
+        year: 2005
+      }
     ]
   },
   {
@@ -1038,15 +1658,39 @@ const drummers = [
       'https://upload.wikimedia.org/wikipedia/commons/2/26/20151122_Eindhoven_Epic_Metal_Fest_Periphery_0116.jpg'
     ],
     endorsements: [
-      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
-      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
-      { name: 'ProMark Sticks', url: 'https://www.daddario.com/promark' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+      {
+        name: 'Pearl Drums',
+        url: 'https://pearldrum.com'
+      },
+      {
+        name: 'Meinl Cymbals',
+        url: 'https://meinlcymbals.com'
+      },
+      {
+        name: 'ProMark Sticks',
+        url: 'https://www.daddario.com/promark'
+      },
+      {
+        name: 'Evans Drumheads',
+        url: 'https://www.daddario.com/evans'
+      }
     ],
     videos: [
-      { title: 'Periphery - The Bad Thing (Drum Playthrough)', youtubeId: '8dfZo-zmNaU', year: 2019 },
-      { title: 'Periphery - Marigold (Drum Playthrough)', youtubeId: 'DAOcYC2uEJk', year: 2023 },
-      { title: 'Periphery - Dracul Gras (Drum Playthrough)', youtubeId: 'FUk72MwuWrs', year: 2024 }
+      {
+        title: 'Periphery - The Bad Thing (Drum Playthrough)',
+        youtubeId: '8dfZo-zmNaU',
+        year: 2019
+      },
+      {
+        title: 'Periphery - Marigold (Drum Playthrough)',
+        youtubeId: 'DAOcYC2uEJk',
+        year: 2023
+      },
+      {
+        title: 'Periphery - Dracul Gras (Drum Playthrough)',
+        youtubeId: 'FUk72MwuWrs',
+        year: 2024
+      }
     ]
   },
   {
@@ -1070,21 +1714,48 @@ const drummers = [
       hardware: 'Czarcie Kopyto (Devil\'s Hoof) Double Pedal, Pearl D-2000 Throne',
       sticks: 'Vic Firth 5B',
       verified: true,
-      sources: ['https://pearldrum.com/en/artist/inferno/13201', 'https://www.paiste.com/en/musicians/inferno']
+      sources: [
+        'https://pearldrum.com/en/artist/inferno/13201',
+        'https://www.paiste.com/en/musicians/inferno'
+      ]
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/8/8d/Behemoth_Rockharz_2015_02.jpg'
     ],
     endorsements: [
-      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
-      { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+      {
+        name: 'Pearl Drums',
+        url: 'https://pearldrum.com'
+      },
+      {
+        name: 'Paiste Cymbals',
+        url: 'https://www.paiste.com'
+      },
+      {
+        name: 'Vic Firth Sticks',
+        url: 'https://vicfirth.zildjian.com'
+      },
+      {
+        name: 'Evans Drumheads',
+        url: 'https://www.daddario.com/evans'
+      }
     ],
     videos: [
-      { title: 'Behemoth - Blow Your Trumpets Gabriel (Live Drum Cam)', youtubeId: 'Czx-OIyrQwQ', year: 2018 },
-      { title: 'Behemoth - Ora Pro Nobis Lucifer (Brutal Assault 2018)', youtubeId: 'JYQCNgwdMRs', year: 2018 },
-      { title: 'Behemoth - Slaves Shall Serve (Drum Cam)', youtubeId: 'FM5tn8Yy10o', year: 2019 }
+      {
+        title: 'Behemoth - Blow Your Trumpets Gabriel (Live Drum Cam)',
+        youtubeId: 'Czx-OIyrQwQ',
+        year: 2018
+      },
+      {
+        title: 'Behemoth - Ora Pro Nobis Lucifer (Brutal Assault 2018)',
+        youtubeId: 'JYQCNgwdMRs',
+        year: 2018
+      },
+      {
+        title: 'Behemoth - Slaves Shall Serve (Drum Cam)',
+        youtubeId: 'FM5tn8Yy10o',
+        year: 2019
+      }
     ]
   },
   {
@@ -1107,21 +1778,48 @@ const drummers = [
       hardware: 'Axis Double Pedal, Sonor Drummer Throne, Roland Electronics',
       sticks: 'Vic Firth American Classic 5B',
       verified: true,
-      sources: ['https://www.hellhammerdrummer.com/gear-and-setup/', 'https://www.paiste.com/en/musicians']
+      sources: [
+        'https://www.hellhammerdrummer.com/gear-and-setup/',
+        'https://www.paiste.com/en/musicians'
+      ]
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/5/58/Mayhem_-_Jalometalli_2008_-_Hellhammer_01_crop.JPG'
     ],
     endorsements: [
-      { name: 'Sonor Drums', url: 'https://www.sonor.com' },
-      { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
-      { name: 'Remo Drumheads', url: 'https://www.remo.com' }
+      {
+        name: 'Sonor Drums',
+        url: 'https://www.sonor.com'
+      },
+      {
+        name: 'Paiste Cymbals',
+        url: 'https://www.paiste.com'
+      },
+      {
+        name: 'Vic Firth Sticks',
+        url: 'https://vicfirth.zildjian.com'
+      },
+      {
+        name: 'Remo Drumheads',
+        url: 'https://www.remo.com'
+      }
     ],
     videos: [
-      { title: 'Mayhem - Hellhammer Drumcam 2015', youtubeId: '60sr-ttok58', year: 2015 },
-      { title: 'Mayhem - Chainsaw Gutsfuck (Drum Cam)', youtubeId: 'r9PJgQn4SWs', year: 2019 },
-      { title: 'Hellhammer Sound Check 2024', youtubeId: 'm0-G6QOwEug', year: 2024 }
+      {
+        title: 'Mayhem - Hellhammer Drumcam 2015',
+        youtubeId: '60sr-ttok58',
+        year: 2015
+      },
+      {
+        title: 'Mayhem - Chainsaw Gutsfuck (Drum Cam)',
+        youtubeId: 'r9PJgQn4SWs',
+        year: 2019
+      },
+      {
+        title: 'Hellhammer Sound Check 2024',
+        youtubeId: 'm0-G6QOwEug',
+        year: 2024
+      }
     ]
   },
   {
@@ -1144,19 +1842,41 @@ const drummers = [
       hardware: 'ddrum Mercury Double Pedal, ddrum Throne',
       sticks: 'Ahead Lars Ulrich Signature'
     },
-    photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/1/1b/Pete_Sandoval.jpg'
-    ],
+    photos: ['https://upload.wikimedia.org/wikipedia/commons/1/1b/Pete_Sandoval.jpg'],
     endorsements: [
-      { name: 'ddrum Drums', url: 'https://www.ddrum.com' },
-      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
-      { name: 'Ahead Drumsticks', url: 'https://www.aheaddrumsticks.com' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+      {
+        name: 'ddrum Drums',
+        url: 'https://www.ddrum.com'
+      },
+      {
+        name: 'Sabian Cymbals',
+        url: 'https://www.sabian.com'
+      },
+      {
+        name: 'Ahead Drumsticks',
+        url: 'https://www.aheaddrumsticks.com'
+      },
+      {
+        name: 'Evans Drumheads',
+        url: 'https://www.daddario.com/evans'
+      }
     ],
     videos: [
-      { title: 'Morbid Angel - Fall from Grace (Drum Cam)', youtubeId: 'HYsMxbzqkZY', year: 2023 },
-      { title: 'Terrorizer - Human Prey (Brutal Assault 2024)', youtubeId: 'JEXGerT8hUs', year: 2024 },
-      { title: 'Morbid Angel - World of Shit (Drum Cam)', youtubeId: 'JWFrrVetdoc', year: 2019 }
+      {
+        title: 'Morbid Angel - Fall from Grace (Drum Cam)',
+        youtubeId: 'HYsMxbzqkZY',
+        year: 2023
+      },
+      {
+        title: 'Terrorizer - Human Prey (Brutal Assault 2024)',
+        youtubeId: 'JEXGerT8hUs',
+        year: 2024
+      },
+      {
+        title: 'Morbid Angel - World of Shit (Drum Cam)',
+        youtubeId: 'JWFrrVetdoc',
+        year: 2019
+      }
     ]
   },
   {
@@ -1182,23 +1902,56 @@ const drummers = [
       heads: 'Evans',
       verified: true,
       verifiedAt: '2026-02-02',
-      sources: ['https://en.wikipedia.org/wiki/Art_Cruz', 'https://zildjian.com/blogs/artist/art-cruz']
+      sources: [
+        'https://en.wikipedia.org/wiki/Art_Cruz',
+        'https://zildjian.com/blogs/artist/art-cruz'
+      ]
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/a/a0/Lamb_of_God_Full_Force_2019_01.jpg'
     ],
     endorsements: [
-      { name: 'Ludwig Drums', url: 'https://www.ludwig-drums.com' },
-      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' },
-      { name: 'Trick Pedals', url: 'https://www.trickdrums.com' },
-      { name: 'Gibraltar Hardware', url: 'https://www.gibraltarhardware.com' }
+      {
+        name: 'Ludwig Drums',
+        url: 'https://www.ludwig-drums.com'
+      },
+      {
+        name: 'Zildjian Cymbals',
+        url: 'https://zildjian.com'
+      },
+      {
+        name: 'Vic Firth Sticks',
+        url: 'https://vicfirth.zildjian.com'
+      },
+      {
+        name: 'Evans Drumheads',
+        url: 'https://www.daddario.com/evans'
+      },
+      {
+        name: 'Trick Pedals',
+        url: 'https://www.trickdrums.com'
+      },
+      {
+        name: 'Gibraltar Hardware',
+        url: 'https://www.gibraltarhardware.com'
+      }
     ],
     videos: [
-      { title: 'Art Cruz - Lamb of God - Laid to Rest (Drum Cam)', youtubeId: 'OHu6kVs3flY', year: 2022 },
-      { title: 'Lamb of God - Nevermore (Art Cruz Drum Cam)', youtubeId: 'nIfi05bMed0', year: 2022 },
-      { title: 'Lamb of God - Memento Mori (Art Cruz Drum Playthrough)', youtubeId: 'xHBuQUt7rJQ', year: 2020 }
+      {
+        title: 'Art Cruz - Lamb of God - Laid to Rest (Drum Cam)',
+        youtubeId: 'OHu6kVs3flY',
+        year: 2022
+      },
+      {
+        title: 'Lamb of God - Nevermore (Art Cruz Drum Cam)',
+        youtubeId: 'nIfi05bMed0',
+        year: 2022
+      },
+      {
+        title: 'Lamb of God - Memento Mori (Art Cruz Drum Playthrough)',
+        youtubeId: 'xHBuQUt7rJQ',
+        year: 2020
+      }
     ]
   },
   {
@@ -1225,19 +1978,41 @@ const drummers = [
       verified: false,
       notes: 'Gear from A7X era (2011-2015)'
     },
-    photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/b/b9/Arin.1280.jpg'
-    ],
+    photos: ['https://upload.wikimedia.org/wikipedia/commons/b/b9/Arin.1280.jpg'],
     endorsements: [
-      { name: 'Mapex Drums', url: 'https://www.mapexdrums.com' },
-      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+      {
+        name: 'Mapex Drums',
+        url: 'https://www.mapexdrums.com'
+      },
+      {
+        name: 'Zildjian Cymbals',
+        url: 'https://zildjian.com'
+      },
+      {
+        name: 'Vic Firth Sticks',
+        url: 'https://vicfirth.zildjian.com'
+      },
+      {
+        name: 'Evans Drumheads',
+        url: 'https://www.daddario.com/evans'
+      }
     ],
     videos: [
-      { title: 'Arin Ilejay Drum Solo + Band Jam @ Avenged Sevenfold Barcelona', youtubeId: 'ao-U54ohWa8', year: 2013 },
-      { title: 'Sound Legacy - Arin Ilejay (Zildjian)', youtubeId: 'owgFKcWXp4s', year: 2014 },
-      { title: 'Avenged Sevenfold - Afterlife (Drum Cam) Arin Ilejay', youtubeId: 'vyQXze7WPrk', year: 2014 }
+      {
+        title: 'Arin Ilejay Drum Solo + Band Jam @ Avenged Sevenfold Barcelona',
+        youtubeId: 'ao-U54ohWa8',
+        year: 2013
+      },
+      {
+        title: 'Sound Legacy - Arin Ilejay (Zildjian)',
+        youtubeId: 'owgFKcWXp4s',
+        year: 2014
+      },
+      {
+        title: 'Avenged Sevenfold - Afterlife (Drum Cam) Arin Ilejay',
+        youtubeId: 'vyQXze7WPrk',
+        year: 2014
+      }
     ]
   },
   {
@@ -1262,21 +2037,46 @@ const drummers = [
       sticks: 'Vic Firth American Classic 5B',
       heads: 'Evans',
       verified: true,
-      sources: ['https://meinlcymbals.com/artists', 'https://en.wikipedia.org/wiki/Navene_Koperweis']
+      sources: [
+        'https://meinlcymbals.com/artists',
+        'https://en.wikipedia.org/wiki/Navene_Koperweis'
+      ]
     },
-    photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/4/43/Navene_Koperweis.jpg'
-    ],
+    photos: ['https://upload.wikimedia.org/wikipedia/commons/4/43/Navene_Koperweis.jpg'],
     endorsements: [
-      { name: 'DW Drums', url: 'https://www.dwdrums.com' },
-      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+      {
+        name: 'DW Drums',
+        url: 'https://www.dwdrums.com'
+      },
+      {
+        name: 'Meinl Cymbals',
+        url: 'https://meinlcymbals.com'
+      },
+      {
+        name: 'Vic Firth Sticks',
+        url: 'https://vicfirth.zildjian.com'
+      },
+      {
+        name: 'Evans Drumheads',
+        url: 'https://www.daddario.com/evans'
+      }
     ],
     videos: [
-      { title: 'Navene Koperweis - ENTHEOS - All For Nothing (Live Drum Performance)', youtubeId: 'lMDDiKkjhwo', year: 2024 },
-      { title: 'Navene Koperweis - ENTHEOS - The Sinking Sun (Drum Playthrough)', youtubeId: 'J8SNuR8Tb4g', year: 2023 },
-      { title: 'Entheos - Life In Slow Motion | Navene Koperweis Drum Playthrough', youtubeId: 'SSNOG4oRcsc', year: 2024 }
+      {
+        title: 'Navene Koperweis - ENTHEOS - All For Nothing (Live Drum Performance)',
+        youtubeId: 'lMDDiKkjhwo',
+        year: 2024
+      },
+      {
+        title: 'Navene Koperweis - ENTHEOS - The Sinking Sun (Drum Playthrough)',
+        youtubeId: 'J8SNuR8Tb4g',
+        year: 2023
+      },
+      {
+        title: 'Entheos - Life In Slow Motion | Navene Koperweis Drum Playthrough',
+        youtubeId: 'SSNOG4oRcsc',
+        year: 2024
+      }
     ]
   },
   {
@@ -1302,22 +2102,52 @@ const drummers = [
       heads: 'Remo',
       verified: true,
       verifiedAt: '2026-02-02',
-      sources: ['https://en.wikipedia.org/wiki/Alex_Bent', 'https://www.axispercussion.com/artists-a-f/']
+      sources: [
+        'https://en.wikipedia.org/wiki/Alex_Bent',
+        'https://www.axispercussion.com/artists-a-f/'
+      ]
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/5/59/Trivium_%2836826824775%29_%28cropped%29.jpg'
     ],
     endorsements: [
-      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
-      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
-      { name: 'Remo Drumheads', url: 'https://remo.com' },
-      { name: 'Axis Percussion', url: 'https://www.axispercussion.com' }
+      {
+        name: 'Pearl Drums',
+        url: 'https://pearldrum.com'
+      },
+      {
+        name: 'Zildjian Cymbals',
+        url: 'https://zildjian.com'
+      },
+      {
+        name: 'Vic Firth Sticks',
+        url: 'https://vicfirth.zildjian.com'
+      },
+      {
+        name: 'Remo Drumheads',
+        url: 'https://remo.com'
+      },
+      {
+        name: 'Axis Percussion',
+        url: 'https://www.axispercussion.com'
+      }
     ],
     videos: [
-      { title: 'Trivium - Beyond Oblivion (Alex Bent Drum Playthrough)', youtubeId: 'nUYwI9V0wMw', year: 2017 },
-      { title: 'Trivium - Betrayer (Alex Bent Drum Playthrough)', youtubeId: 'k7ftjTk2j5A', year: 2017 },
-      { title: 'Trivium - The Sin and the Sentence (Drum Cut)', youtubeId: 'poo9hYpXOtI', year: 2017 }
+      {
+        title: 'Trivium - Beyond Oblivion (Alex Bent Drum Playthrough)',
+        youtubeId: 'nUYwI9V0wMw',
+        year: 2017
+      },
+      {
+        title: 'Trivium - Betrayer (Alex Bent Drum Playthrough)',
+        youtubeId: 'k7ftjTk2j5A',
+        year: 2017
+      },
+      {
+        title: 'Trivium - The Sin and the Sentence (Drum Cut)',
+        youtubeId: 'poo9hYpXOtI',
+        year: 2017
+      }
     ]
   },
   {
@@ -1343,22 +2173,52 @@ const drummers = [
       heads: 'Evans',
       verified: true,
       verifiedAt: '2026-02-02',
-      sources: ['https://sabian.com/artist/shannon-larkin/', 'https://en.wikipedia.org/wiki/Shannon_Larkin']
+      sources: [
+        'https://sabian.com/artist/shannon-larkin/',
+        'https://en.wikipedia.org/wiki/Shannon_Larkin'
+      ]
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/4/4c/Godsmack_-_2019160161909_2019-06-09_Rock_am_Ring_-_0432_-_B70I1399.jpg'
     ],
     endorsements: [
-      { name: 'ddrum Drums', url: 'https://www.ddrum.com' },
-      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' },
-      { name: 'DW Hardware', url: 'https://www.dwdrums.com' }
+      {
+        name: 'ddrum Drums',
+        url: 'https://www.ddrum.com'
+      },
+      {
+        name: 'Sabian Cymbals',
+        url: 'https://www.sabian.com'
+      },
+      {
+        name: 'Vic Firth Sticks',
+        url: 'https://vicfirth.zildjian.com'
+      },
+      {
+        name: 'Evans Drumheads',
+        url: 'https://www.daddario.com/evans'
+      },
+      {
+        name: 'DW Hardware',
+        url: 'https://www.dwdrums.com'
+      }
     ],
     videos: [
-      { title: 'Godsmack - I Stand Alone (Live Drum Cam)', youtubeId: 'wJz1zGxM9y0', year: 2018 },
-      { title: 'Shannon Larkin - Sabian Live Session', youtubeId: 'KMn7opjG7Ow', year: 2014 },
-      { title: 'Godsmack - Whatever (Official Drum Playthrough)', youtubeId: 'N0BcDLpX5NM', year: 2019 }
+      {
+        title: 'Godsmack - I Stand Alone (Live Drum Cam)',
+        youtubeId: 'wJz1zGxM9y0',
+        year: 2018
+      },
+      {
+        title: 'Shannon Larkin - Sabian Live Session',
+        youtubeId: 'KMn7opjG7Ow',
+        year: 2014
+      },
+      {
+        title: 'Godsmack - Whatever (Official Drum Playthrough)',
+        youtubeId: 'N0BcDLpX5NM',
+        year: 2019
+      }
     ]
   },
   {
@@ -1383,21 +2243,48 @@ const drummers = [
       heads: 'Attack Drumheads',
       verified: true,
       verifiedAt: '2026-02-02',
-      sources: ['https://en.wikipedia.org/wiki/Raymond_Herrera', 'https://www.musicradar.com/tuition/drums/how-to-sound-like-fear-factorys-raymond-herrera-210027']
+      sources: [
+        'https://en.wikipedia.org/wiki/Raymond_Herrera',
+        'https://www.musicradar.com/tuition/drums/how-to-sound-like-fear-factorys-raymond-herrera-210027'
+      ]
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/e/e3/Fear_factory_010505_117.jpg'
     ],
     endorsements: [
-      { name: 'Tama Drums', url: 'https://www.tama.com' },
-      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
-      { name: 'Pro-Mark Sticks', url: 'https://www.daddario.com/promark' },
-      { name: 'Attack Drumheads', url: 'https://www.universalpercussion.com' }
+      {
+        name: 'Tama Drums',
+        url: 'https://www.tama.com'
+      },
+      {
+        name: 'Zildjian Cymbals',
+        url: 'https://zildjian.com'
+      },
+      {
+        name: 'Pro-Mark Sticks',
+        url: 'https://www.daddario.com/promark'
+      },
+      {
+        name: 'Attack Drumheads',
+        url: 'https://www.universalpercussion.com'
+      }
     ],
     videos: [
-      { title: 'Fear Factory - Replica (Drum Cam)', youtubeId: 'fjNFSSf2fLs', year: 2004 },
-      { title: 'Fear Factory - Demanufacture (Live)', youtubeId: 'nCOPLxPfazo', year: 2005 },
-      { title: 'Fear Factory - Edgecrusher (Official Video)', youtubeId: 'kE0Y8Wd3rfs', year: 1998 }
+      {
+        title: 'Fear Factory - Replica (Drum Cam)',
+        youtubeId: 'fjNFSSf2fLs',
+        year: 2004
+      },
+      {
+        title: 'Fear Factory - Demanufacture (Live)',
+        youtubeId: 'nCOPLxPfazo',
+        year: 2005
+      },
+      {
+        title: 'Fear Factory - Edgecrusher (Official Video)',
+        youtubeId: 'kE0Y8Wd3rfs',
+        year: 1998
+      }
     ]
   },
   {
@@ -1424,19 +2311,41 @@ const drummers = [
       verifiedAt: '2026-02-02',
       sources: ['https://en.wikipedia.org/wiki/Morgan_%C3%85gren']
     },
-    photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/5/58/Morgan_Agren_04.jpg'
-    ],
+    photos: ['https://upload.wikimedia.org/wikipedia/commons/5/58/Morgan_Agren_04.jpg'],
     endorsements: [
-      { name: 'Sonor Drums', url: 'https://www.sonor.com' },
-      { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
-      { name: 'Remo Drumheads', url: 'https://remo.com' }
+      {
+        name: 'Sonor Drums',
+        url: 'https://www.sonor.com'
+      },
+      {
+        name: 'Paiste Cymbals',
+        url: 'https://www.paiste.com'
+      },
+      {
+        name: 'Vic Firth Sticks',
+        url: 'https://vicfirth.zildjian.com'
+      },
+      {
+        name: 'Remo Drumheads',
+        url: 'https://remo.com'
+      }
     ],
     videos: [
-      { title: 'Morgan Ågren - Drum Solo (Mats/Morgan Band)', youtubeId: '5MQhk8oOjOU', year: 2014 },
-      { title: 'Morgan Ågren\'s Conundrum - Documentary Trailer', youtubeId: 'NF_cMdGbEV4', year: 2013 },
-      { title: 'Mats/Morgan - Live Performance', youtubeId: 'n3VrJh3eGFM', year: 2016 }
+      {
+        title: 'Morgan Ågren - Drum Solo (Mats/Morgan Band)',
+        youtubeId: '5MQhk8oOjOU',
+        year: 2014
+      },
+      {
+        title: 'Morgan Ågren\'s Conundrum - Documentary Trailer',
+        youtubeId: 'NF_cMdGbEV4',
+        year: 2013
+      },
+      {
+        title: 'Mats/Morgan - Live Performance',
+        youtubeId: 'n3VrJh3eGFM',
+        year: 2016
+      }
     ]
   },
   {
@@ -1468,16 +2377,49 @@ const drummers = [
       'https://upload.wikimedia.org/wikipedia/commons/1/13/20170805_Wacken_Wacken_Open_Air_Max_%26_Iggor_Cavalera_Return_To_Roots_0093.jpg'
     ],
     endorsements: [
-      { name: 'Tama Drums', url: 'https://www.tama.com' },
-      { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+      {
+        name: 'Tama Drums',
+        url: 'https://www.tama.com'
+      },
+      {
+        name: 'Paiste Cymbals',
+        url: 'https://www.paiste.com'
+      },
+      {
+        name: 'Vic Firth Sticks',
+        url: 'https://vicfirth.zildjian.com'
+      },
+      {
+        name: 'Evans Drumheads',
+        url: 'https://www.daddario.com/evans'
+      }
     ],
     videos: [
-      { title: 'Sepultura - Roots Bloody Roots (Official Drum Cam)', youtubeId: '6V7k5D9fkwI', year: 2017 },
-      { title: 'Cavalera - Schizophrenia (Full Album Playthrough)', youtubeId: 'AK5xYDHC0Ws', year: 2024 },
-      { title: 'Sepultura - Territory (Classic Drum Cam)', youtubeId: 'Q1bNFq8p8u8', year: 1996 }
-    ]
+      {
+        title: 'Sepultura - Roots Bloody Roots (Official Drum Cam)',
+        youtubeId: '6V7k5D9fkwI',
+        year: 2017
+      },
+      {
+        title: 'Cavalera - Schizophrenia (Full Album Playthrough)',
+        youtubeId: 'AK5xYDHC0Ws',
+        year: 2024
+      },
+      {
+        title: 'Sepultura - Territory (Classic Drum Cam)',
+        youtubeId: 'Q1bNFq8p8u8',
+        year: 1996
+      }
+    ],
+    spotlight: {
+      quickFacts: [
+        'Co-founded Sepultura with brother Max in 1984 at age 14',
+        'Pioneered the blend of thrash metal with tribal/world music influences',
+        'Now explores electronic music with Mixhell and plays with Soulwax'
+      ],
+      iconicMoment: 'The tribal drumming on \'Roots\' (1996) fused Brazilian percussion with extreme metal, creating a genre-defining album that influenced countless bands.',
+      gearHighlight: 'Tama Starclassic Maple with Paiste RUDE cymbals - from thrash speed to tribal grooves.'
+    }
   },
   {
     id: 30,
@@ -1507,15 +2449,39 @@ const drummers = [
       'https://upload.wikimedia.org/wikipedia/commons/0/0a/Black_Sabbath_%281970%29_%28cropped%29.jpg'
     ],
     endorsements: [
-      { name: 'Ludwig Drums', url: 'https://www.ludwig-drums.com' },
-      { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
-      { name: 'Remo Drumheads', url: 'https://remo.com' }
+      {
+        name: 'Ludwig Drums',
+        url: 'https://www.ludwig-drums.com'
+      },
+      {
+        name: 'Paiste Cymbals',
+        url: 'https://www.paiste.com'
+      },
+      {
+        name: 'Vic Firth Sticks',
+        url: 'https://vicfirth.zildjian.com'
+      },
+      {
+        name: 'Remo Drumheads',
+        url: 'https://remo.com'
+      }
     ],
     videos: [
-      { title: 'Black Sabbath - War Pigs (Live Paris 1970)', youtubeId: 'IDJgwUeW7_k', year: 1970 },
-      { title: 'Black Sabbath - Rat Salad (Drum Solo)', youtubeId: 'KDxJdDT_C0Y', year: 1970 },
-      { title: 'Bill Ward Drum Interview & Performance', youtubeId: 'NME5YSs8yws', year: 2015 }
+      {
+        title: 'Black Sabbath - War Pigs (Live Paris 1970)',
+        youtubeId: 'IDJgwUeW7_k',
+        year: 1970
+      },
+      {
+        title: 'Black Sabbath - Rat Salad (Drum Solo)',
+        youtubeId: 'KDxJdDT_C0Y',
+        year: 1970
+      },
+      {
+        title: 'Bill Ward Drum Interview & Performance',
+        youtubeId: 'NME5YSs8yws',
+        year: 2015
+      }
     ]
   },
   {
@@ -1541,19 +2507,41 @@ const drummers = [
       verified: false,
       notes: 'Gear from Trivium era (2009-2014)'
     },
-    photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/8/8c/Nick_Augusto_2016.jpg'
-    ],
+    photos: ['https://upload.wikimedia.org/wikipedia/commons/8/8c/Nick_Augusto_2016.jpg'],
     endorsements: [
-      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
-      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+      {
+        name: 'Pearl Drums',
+        url: 'https://pearldrum.com'
+      },
+      {
+        name: 'Sabian Cymbals',
+        url: 'https://www.sabian.com'
+      },
+      {
+        name: 'Vic Firth Sticks',
+        url: 'https://vicfirth.zildjian.com'
+      },
+      {
+        name: 'Evans Drumheads',
+        url: 'https://www.daddario.com/evans'
+      }
     ],
     videos: [
-      { title: 'Trivium - In Waves (Official Drum Cam)', youtubeId: 'Rp6QU2f2nDQ', year: 2012 },
-      { title: 'Trivium - Built to Fall (Live Drum Cam)', youtubeId: 'x_f7c4cLjYQ', year: 2012 },
-      { title: 'Trivium - Pull Harder On The Strings Of Your Martyr (Live)', youtubeId: 'C8vbP4VzXDA', year: 2013 }
+      {
+        title: 'Trivium - In Waves (Official Drum Cam)',
+        youtubeId: 'Rp6QU2f2nDQ',
+        year: 2012
+      },
+      {
+        title: 'Trivium - Built to Fall (Live Drum Cam)',
+        youtubeId: 'x_f7c4cLjYQ',
+        year: 2012
+      },
+      {
+        title: 'Trivium - Pull Harder On The Strings Of Your Martyr (Live)',
+        youtubeId: 'C8vbP4VzXDA',
+        year: 2013
+      }
     ]
   },
   {
@@ -1578,21 +2566,48 @@ const drummers = [
       heads: 'Evans',
       verified: true,
       verifiedAt: '2026-02-03',
-      sources: ['https://meinlcymbals.com/en/artists', 'https://www.youtube.com/@ChrisTurnerDrums']
+      sources: [
+        'https://meinlcymbals.com/en/artists',
+        'https://www.youtube.com/@ChrisTurnerDrums'
+      ]
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/1/17/Oceans_Ate_Alaska_0002.jpg'
     ],
     endorsements: [
-      { name: 'Tama Drums', url: 'https://www.tama.com' },
-      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+      {
+        name: 'Tama Drums',
+        url: 'https://www.tama.com'
+      },
+      {
+        name: 'Meinl Cymbals',
+        url: 'https://meinlcymbals.com'
+      },
+      {
+        name: 'Vic Firth Sticks',
+        url: 'https://vicfirth.zildjian.com'
+      },
+      {
+        name: 'Evans Drumheads',
+        url: 'https://www.daddario.com/evans'
+      }
     ],
     videos: [
-      { title: 'Oceans Ate Alaska - Hansha (Official Drum Playthrough)', youtubeId: 'aCwkNBdqrPk', year: 2017 },
-      { title: 'Chris Turner - Metamorph (Drum Playthrough)', youtubeId: 'yN4zLJxHl0Y', year: 2020 },
-      { title: 'Oceans Ate Alaska - Covert (Drum Cam)', youtubeId: 'vR7rQBaKpOk', year: 2017 }
+      {
+        title: 'Oceans Ate Alaska - Hansha (Official Drum Playthrough)',
+        youtubeId: 'aCwkNBdqrPk',
+        year: 2017
+      },
+      {
+        title: 'Chris Turner - Metamorph (Drum Playthrough)',
+        youtubeId: 'yN4zLJxHl0Y',
+        year: 2020
+      },
+      {
+        title: 'Oceans Ate Alaska - Covert (Drum Cam)',
+        youtubeId: 'vR7rQBaKpOk',
+        year: 2017
+      }
     ]
   },
   {
@@ -1618,26 +2633,64 @@ const drummers = [
       heads: 'Evans',
       verified: true,
       verifiedAt: '2026-02-03',
-      sources: ['https://meinlcymbals.com/en/artists', 'https://en.wikipedia.org/wiki/Matt_Greiner']
+      sources: [
+        'https://meinlcymbals.com/en/artists',
+        'https://en.wikipedia.org/wiki/Matt_Greiner'
+      ]
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/3/3b/2017_Matt_Greiner_%28cropped%29.jpg'
     ],
     endorsements: [
-      { name: 'Greiner & Kilmer Drums', url: 'https://www.greinerkilmer.com' },
-      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' },
-      { name: 'DW Hardware', url: 'https://www.dwdrums.com' }
+      {
+        name: 'Greiner & Kilmer Drums',
+        url: 'https://www.greinerkilmer.com'
+      },
+      {
+        name: 'Meinl Cymbals',
+        url: 'https://meinlcymbals.com'
+      },
+      {
+        name: 'Vic Firth Sticks',
+        url: 'https://vicfirth.zildjian.com'
+      },
+      {
+        name: 'Evans Drumheads',
+        url: 'https://www.daddario.com/evans'
+      },
+      {
+        name: 'DW Hardware',
+        url: 'https://www.dwdrums.com'
+      }
     ],
     videos: [
-      { title: 'August Burns Red - White Washed (Meinl Cymbals Drum Playthrough)', youtubeId: 'qC-VtlrpYrk', year: 2017 },
-      { title: 'August Burns Red - Paramount (Drum Playthrough)', youtubeId: 'G0cZ-qPgFog', year: 2019 },
-      { title: 'August Burns Red - Identity (Grammy Nominated Performance)', youtubeId: 'XhOvZFx9eKE', year: 2016 }
+      {
+        title: 'August Burns Red - White Washed (Meinl Cymbals Drum Playthrough)',
+        youtubeId: 'qC-VtlrpYrk',
+        year: 2017
+      },
+      {
+        title: 'August Burns Red - Paramount (Drum Playthrough)',
+        youtubeId: 'G0cZ-qPgFog',
+        year: 2019
+      },
+      {
+        title: 'August Burns Red - Identity (Grammy Nominated Performance)',
+        youtubeId: 'XhOvZFx9eKE',
+        year: 2016
+      }
     ],
     quotes: [
-      { text: "I want my drumming to serve the song first. The technical stuff is fun, but it has to make musical sense.", source: "Modern Drummer Magazine", year: 2017 },
-      { text: "Being homeschooled gave me extra time to practice. I'd spend 6-8 hours a day just playing drums.", source: "Drumeo Interview", year: 2019 }
+      {
+        text: 'I want my drumming to serve the song first. The technical stuff is fun, but it has to make musical sense.',
+        source: 'Modern Drummer Magazine',
+        year: 2017
+      },
+      {
+        text: 'Being homeschooled gave me extra time to practice. I\'d spend 6-8 hours a day just playing drums.',
+        source: 'Drumeo Interview',
+        year: 2019
+      }
     ]
   },
   {
@@ -1663,25 +2716,60 @@ const drummers = [
       heads: 'Evans (Hybrid on snare, EMAD on kicks, EC2 SST on toms)',
       verified: true,
       verifiedAt: '2026-02-03',
-      sources: ['https://en.wikipedia.org/wiki/Blake_Richardson_(drummer)', 'https://sabian.com/artists']
+      sources: [
+        'https://en.wikipedia.org/wiki/Blake_Richardson_(drummer)',
+        'https://sabian.com/artists'
+      ]
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/4/4a/Between_the_Buried_and_Me_%C3%A0_Aarau_%2844226638080%29.jpg'
     ],
     endorsements: [
-      { name: 'Tama Drums', url: 'https://www.tama.com' },
-      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+      {
+        name: 'Tama Drums',
+        url: 'https://www.tama.com'
+      },
+      {
+        name: 'Sabian Cymbals',
+        url: 'https://www.sabian.com'
+      },
+      {
+        name: 'Vic Firth Sticks',
+        url: 'https://vicfirth.zildjian.com'
+      },
+      {
+        name: 'Evans Drumheads',
+        url: 'https://www.daddario.com/evans'
+      }
     ],
     videos: [
-      { title: 'BTBAM - Selkies: The Endless Obsession (Drum Cam)', youtubeId: 'mT0YYjM9BcU', year: 2018 },
-      { title: 'BTBAM - Fix the Error (Drum Playthrough)', youtubeId: 'lX-q9fD4Nz4', year: 2021 },
-      { title: 'BTBAM - Condemned to the Gallows (Grammy Nominated)', youtubeId: 'WyN1_OgUQFc', year: 2019 }
+      {
+        title: 'BTBAM - Selkies: The Endless Obsession (Drum Cam)',
+        youtubeId: 'mT0YYjM9BcU',
+        year: 2018
+      },
+      {
+        title: 'BTBAM - Fix the Error (Drum Playthrough)',
+        youtubeId: 'lX-q9fD4Nz4',
+        year: 2021
+      },
+      {
+        title: 'BTBAM - Condemned to the Gallows (Grammy Nominated)',
+        youtubeId: 'WyN1_OgUQFc',
+        year: 2019
+      }
     ],
     quotes: [
-      { text: "I try to approach drums melodically. Every fill, every pattern should have a musical purpose.", source: "Modern Drummer Magazine", year: 2012 },
-      { text: "Playing with Mike Portnoy at Progressive Nation 2008 was a dream come true. That guy is a legend.", source: "Drumeo Interview", year: 2021 }
+      {
+        text: 'I try to approach drums melodically. Every fill, every pattern should have a musical purpose.',
+        source: 'Modern Drummer Magazine',
+        year: 2012
+      },
+      {
+        text: 'Playing with Mike Portnoy at Progressive Nation 2008 was a dream come true. That guy is a legend.',
+        source: 'Drumeo Interview',
+        year: 2021
+      }
     ]
   },
   {
@@ -1713,15 +2801,39 @@ const drummers = [
       'https://upload.wikimedia.org/wikipedia/commons/5/5d/Converge_%40_Roadburn_Festival_2018-04-19_002.jpg'
     ],
     endorsements: [
-      { name: 'Tama Drums', url: 'https://www.tama.com' },
-      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
-      { name: 'Remo Drumheads', url: 'https://remo.com' }
+      {
+        name: 'Tama Drums',
+        url: 'https://www.tama.com'
+      },
+      {
+        name: 'Zildjian Cymbals',
+        url: 'https://zildjian.com'
+      },
+      {
+        name: 'Vic Firth Sticks',
+        url: 'https://vicfirth.zildjian.com'
+      },
+      {
+        name: 'Remo Drumheads',
+        url: 'https://remo.com'
+      }
     ],
     videos: [
-      { title: 'Converge - A Single Tear (Live Drum Cam)', youtubeId: 'hYR0qvh_K8A', year: 2018 },
-      { title: 'Mutoid Man - Melt Your Mind (Drum Playthrough)', youtubeId: 'BNXJJeGTb3Y', year: 2017 },
-      { title: 'Converge - Jane Doe (Full Album Drum Cam)', youtubeId: 'Q_4c_H21nXg', year: 2021 }
+      {
+        title: 'Converge - A Single Tear (Live Drum Cam)',
+        youtubeId: 'hYR0qvh_K8A',
+        year: 2018
+      },
+      {
+        title: 'Mutoid Man - Melt Your Mind (Drum Playthrough)',
+        youtubeId: 'BNXJJeGTb3Y',
+        year: 2017
+      },
+      {
+        title: 'Converge - Jane Doe (Full Album Drum Cam)',
+        youtubeId: 'Q_4c_H21nXg',
+        year: 2021
+      }
     ]
   },
   {
@@ -1752,19 +2864,51 @@ const drummers = [
       'https://upload.wikimedia.org/wikipedia/commons/f/f4/Cryptopsy_Party.San_Metal_Open_Air_2017_20.jpg'
     ],
     endorsements: [
-      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
-      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+      {
+        name: 'Pearl Drums',
+        url: 'https://pearldrum.com'
+      },
+      {
+        name: 'Sabian Cymbals',
+        url: 'https://www.sabian.com'
+      },
+      {
+        name: 'Vic Firth Sticks',
+        url: 'https://vicfirth.zildjian.com'
+      },
+      {
+        name: 'Evans Drumheads',
+        url: 'https://www.daddario.com/evans'
+      }
     ],
     videos: [
-      { title: 'Cryptopsy - Phobophile (Drum Cam)', youtubeId: 'pSXvnVdjPQQ', year: 2016 },
-      { title: 'Flo Mounier - None So Vile Full Album Playthrough', youtubeId: 'B5yDrVPV8PU', year: 2019 },
-      { title: 'Cryptopsy - Cold Hate, Warm Blood (Live Drum Cam)', youtubeId: 'gKQl6RNPN0Q', year: 2018 }
+      {
+        title: 'Cryptopsy - Phobophile (Drum Cam)',
+        youtubeId: 'pSXvnVdjPQQ',
+        year: 2016
+      },
+      {
+        title: 'Flo Mounier - None So Vile Full Album Playthrough',
+        youtubeId: 'B5yDrVPV8PU',
+        year: 2019
+      },
+      {
+        title: 'Cryptopsy - Cold Hate, Warm Blood (Live Drum Cam)',
+        youtubeId: 'gKQl6RNPN0Q',
+        year: 2018
+      }
     ],
     quotes: [
-      { text: "Speed means nothing without control. I practice slow to play fast.", source: "Modern Drummer Magazine", year: 2008 },
-      { text: "The gravity blast was born out of necessity. I wanted to go faster than traditional blasts would allow.", source: "Drumeo Interview", year: 2020 }
+      {
+        text: 'Speed means nothing without control. I practice slow to play fast.',
+        source: 'Modern Drummer Magazine',
+        year: 2008
+      },
+      {
+        text: 'The gravity blast was born out of necessity. I wanted to go faster than traditional blasts would allow.',
+        source: 'Drumeo Interview',
+        year: 2020
+      }
     ]
   },
   {
@@ -1796,19 +2940,51 @@ const drummers = [
       'https://upload.wikimedia.org/wikipedia/commons/3/3c/Overkill_Party.San_Metal_Open_Air_2017_13.jpg'
     ],
     endorsements: [
-      { name: 'Mapex Drums', url: 'https://www.mapexdrums.com' },
-      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
-      { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+      {
+        name: 'Mapex Drums',
+        url: 'https://www.mapexdrums.com'
+      },
+      {
+        name: 'Zildjian Cymbals',
+        url: 'https://zildjian.com'
+      },
+      {
+        name: 'Promark Sticks',
+        url: 'https://www.daddario.com/promark'
+      },
+      {
+        name: 'Evans Drumheads',
+        url: 'https://www.daddario.com/evans'
+      }
     ],
     videos: [
-      { title: 'Shadows Fall - The Light That Blinds (Drum Cam)', youtubeId: 'dLCYn7AoJ0I', year: 2007 },
-      { title: 'Overkill - Ironbound (Live Drum Cam)', youtubeId: '1Dj5TYhxTNo', year: 2019 },
-      { title: 'Jason Bittner - What Drives the Beat (Instructional DVD)', youtubeId: 'RkqZF7j-q8E', year: 2008 }
+      {
+        title: 'Shadows Fall - The Light That Blinds (Drum Cam)',
+        youtubeId: 'dLCYn7AoJ0I',
+        year: 2007
+      },
+      {
+        title: 'Overkill - Ironbound (Live Drum Cam)',
+        youtubeId: '1Dj5TYhxTNo',
+        year: 2019
+      },
+      {
+        title: 'Jason Bittner - What Drives the Beat (Instructional DVD)',
+        youtubeId: 'RkqZF7j-q8E',
+        year: 2008
+      }
     ],
     quotes: [
-      { text: "Berklee taught me discipline, but the road taught me how to play metal.", source: "Modern Drummer Magazine", year: 2006 },
-      { text: "Filling in for Charlie Benante was terrifying and amazing. Those are big shoes to fill.", source: "Drumeo Interview", year: 2018 }
+      {
+        text: 'Berklee taught me discipline, but the road taught me how to play metal.',
+        source: 'Modern Drummer Magazine',
+        year: 2006
+      },
+      {
+        text: 'Filling in for Charlie Benante was terrifying and amazing. Those are big shoes to fill.',
+        source: 'Drumeo Interview',
+        year: 2018
+      }
     ]
   },
   {
@@ -1835,24 +3011,57 @@ const drummers = [
       verifiedAt: '2026-02-03',
       sources: ['https://en.wikipedia.org/wiki/Martin_Lopez', 'https://zildjian.com/artists']
     },
-    photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/2/29/Soen_2019.jpg'
-    ],
+    photos: ['https://upload.wikimedia.org/wikipedia/commons/2/29/Soen_2019.jpg'],
     endorsements: [
-      { name: 'Noble & Cooley Drums', url: 'https://www.noblecooley.com' },
-      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
-      { name: 'Axis Percussion', url: 'https://www.axispercussion.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
-      { name: 'Remo Drumheads', url: 'https://remo.com' }
+      {
+        name: 'Noble & Cooley Drums',
+        url: 'https://www.noblecooley.com'
+      },
+      {
+        name: 'Zildjian Cymbals',
+        url: 'https://zildjian.com'
+      },
+      {
+        name: 'Axis Percussion',
+        url: 'https://www.axispercussion.com'
+      },
+      {
+        name: 'Vic Firth Sticks',
+        url: 'https://vicfirth.zildjian.com'
+      },
+      {
+        name: 'Remo Drumheads',
+        url: 'https://remo.com'
+      }
     ],
     videos: [
-      { title: 'Soen - Lotus (Drum Playthrough)', youtubeId: 'jXBEKz2BTU8', year: 2019 },
-      { title: 'Opeth - Blackwater Park (Classic Drum Cam)', youtubeId: '7GUKHxPHhj8', year: 2003 },
-      { title: 'Soen - Rival (Live Drum Cam)', youtubeId: 'r2LpBhGZyL0', year: 2021 }
+      {
+        title: 'Soen - Lotus (Drum Playthrough)',
+        youtubeId: 'jXBEKz2BTU8',
+        year: 2019
+      },
+      {
+        title: 'Opeth - Blackwater Park (Classic Drum Cam)',
+        youtubeId: '7GUKHxPHhj8',
+        year: 2003
+      },
+      {
+        title: 'Soen - Rival (Live Drum Cam)',
+        youtubeId: 'r2LpBhGZyL0',
+        year: 2021
+      }
     ],
     quotes: [
-      { text: "Less is more. The spaces between the notes are just as important as the notes themselves.", source: "Modern Drummer Magazine", year: 2014 },
-      { text: "Playing with Opeth taught me that heavy music can be beautiful and subtle at the same time.", source: "Drumeo Interview", year: 2019 }
+      {
+        text: 'Less is more. The spaces between the notes are just as important as the notes themselves.',
+        source: 'Modern Drummer Magazine',
+        year: 2014
+      },
+      {
+        text: 'Playing with Opeth taught me that heavy music can be beautiful and subtle at the same time.',
+        source: 'Drumeo Interview',
+        year: 2019
+      }
     ]
   },
   {
@@ -1883,17 +3092,47 @@ const drummers = [
       'https://upload.wikimedia.org/wikipedia/commons/2/2f/Darkest_Hour_Metal_Frenzy_2017_07.jpg'
     ],
     endorsements: [
-      { name: 'SJC Custom Drums', url: 'https://www.sjcdrums.com' },
-      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' },
-      { name: 'Roland Electronics', url: 'https://www.roland.com' },
-      { name: 'DW Hardware', url: 'https://www.dwdrums.com' }
+      {
+        name: 'SJC Custom Drums',
+        url: 'https://www.sjcdrums.com'
+      },
+      {
+        name: 'Zildjian Cymbals',
+        url: 'https://zildjian.com'
+      },
+      {
+        name: 'Vic Firth Sticks',
+        url: 'https://vicfirth.zildjian.com'
+      },
+      {
+        name: 'Evans Drumheads',
+        url: 'https://www.daddario.com/evans'
+      },
+      {
+        name: 'Roland Electronics',
+        url: 'https://www.roland.com'
+      },
+      {
+        name: 'DW Hardware',
+        url: 'https://www.dwdrums.com'
+      }
     ],
     videos: [
-      { title: 'Periphery - Icarus Lives! (Drum Playthrough)', youtubeId: 'spCmStMOiHE', year: 2012 },
-      { title: 'Darkest Hour - Those Who Survived (Drum Playthrough)', youtubeId: 'xBKCQd5Tr5g', year: 2017 },
-      { title: 'Travis Orbin - Letter Experiment (Full Playthrough)', youtubeId: 'aJr3h7MhLC0', year: 2014 }
+      {
+        title: 'Periphery - Icarus Lives! (Drum Playthrough)',
+        youtubeId: 'spCmStMOiHE',
+        year: 2012
+      },
+      {
+        title: 'Darkest Hour - Those Who Survived (Drum Playthrough)',
+        youtubeId: 'xBKCQd5Tr5g',
+        year: 2017
+      },
+      {
+        title: 'Travis Orbin - Letter Experiment (Full Playthrough)',
+        youtubeId: 'aJr3h7MhLC0',
+        year: 2014
+      }
     ]
   },
   {
@@ -1923,19 +3162,51 @@ const drummers = [
       'https://upload.wikimedia.org/wikipedia/commons/5/55/Devin_Townsend_Project_2015.jpg'
     ],
     endorsements: [
-      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
-      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+      {
+        name: 'Pearl Drums',
+        url: 'https://pearldrum.com'
+      },
+      {
+        name: 'Sabian Cymbals',
+        url: 'https://www.sabian.com'
+      },
+      {
+        name: 'Vic Firth Sticks',
+        url: 'https://vicfirth.zildjian.com'
+      },
+      {
+        name: 'Evans Drumheads',
+        url: 'https://www.daddario.com/evans'
+      }
     ],
     videos: [
-      { title: 'Devin Townsend Project - Supercrush! (Drum Cam)', youtubeId: '4DOPkHrW5wQ', year: 2012 },
-      { title: 'Devin Townsend - Kingdom (Live Drum Cam)', youtubeId: 'nubJjB95VdY', year: 2016 },
-      { title: 'Devin Townsend Project - Addicted (Full Show Drum Cam)', youtubeId: 'hVd2n3lFZaE', year: 2011 }
+      {
+        title: 'Devin Townsend Project - Supercrush! (Drum Cam)',
+        youtubeId: '4DOPkHrW5wQ',
+        year: 2012
+      },
+      {
+        title: 'Devin Townsend - Kingdom (Live Drum Cam)',
+        youtubeId: 'nubJjB95VdY',
+        year: 2016
+      },
+      {
+        title: 'Devin Townsend Project - Addicted (Full Show Drum Cam)',
+        youtubeId: 'hVd2n3lFZaE',
+        year: 2011
+      }
     ],
     quotes: [
-      { text: "Working with Devin is never boring. Every album is a completely different challenge.", source: "Modern Drummer Magazine", year: 2015 },
-      { text: "I try to approach each song as a unique puzzle. What does the music need from me?", source: "Canadian Musician", year: 2018 }
+      {
+        text: 'Working with Devin is never boring. Every album is a completely different challenge.',
+        source: 'Modern Drummer Magazine',
+        year: 2015
+      },
+      {
+        text: 'I try to approach each song as a unique puzzle. What does the music need from me?',
+        source: 'Canadian Musician',
+        year: 2018
+      }
     ]
   }
 ];

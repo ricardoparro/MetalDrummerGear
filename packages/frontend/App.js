@@ -722,7 +722,19 @@ function FilterBar({ filters, onFilterChange, totalCount, filteredCount, onClear
   );
 }
 
-function ImageWithFallback({ source, style, accessibilityLabel }) {
+/**
+ * ImageWithFallback - Optimized image component with lazy loading support
+ * 
+ * For Core Web Vitals optimization (LCP, CLS):
+ * - Above-fold images: use priority={true} for eager loading
+ * - Below-fold images: default lazy loading with decoding="async"
+ * 
+ * @param {Object} props.source - Image source object with uri property
+ * @param {Object} props.style - Style object for the image
+ * @param {string} props.accessibilityLabel - Accessibility label
+ * @param {boolean} props.priority - If true, loads eagerly (above-fold images)
+ */
+function ImageWithFallback({ source, style, accessibilityLabel, priority = false }) {
   const [hasError, setHasError] = useState(false);
   const [imageUri, setImageUri] = useState(source?.uri || PLACEHOLDER_IMAGE);
 
@@ -738,6 +750,13 @@ function ImageWithFallback({ source, style, accessibilityLabel }) {
     }
   }, [hasError]);
 
+  // Web-specific props for lazy loading and priority optimization
+  const webProps = Platform.OS === 'web' ? {
+    loading: priority ? 'eager' : 'lazy',
+    ...(priority && { fetchpriority: 'high' }),
+    decoding: priority ? 'sync' : 'async',
+  } : {};
+
   return (
     <Image
       source={{ uri: imageUri }}
@@ -745,6 +764,7 @@ function ImageWithFallback({ source, style, accessibilityLabel }) {
       accessibilityLabel={accessibilityLabel}
       onError={handleError}
       resizeMode="cover"
+      {...webProps}
     />
   );
 }
@@ -1122,9 +1142,9 @@ function GearSection({ title, content, theme, gearType }) {
   };
 
   return (
-    <View style={styles.gearSection}>
+    <View style={styles.gearSection} nativeID={`speakable-gear-${gearType}`}>
       <Text style={[styles.gearTitle, { color: theme.text }]}>{title}</Text>
-      <Text style={[styles.gearContent, { color: theme.secondaryText }]}>{content}</Text>
+      <Text style={[styles.gearContent, { color: theme.secondaryText }]} nativeID={`speakable-gear-${gearType}-content`}>{content}</Text>
       <View style={styles.shopLinksContainer}>
         <TouchableOpacity
           onPress={() => handleShopPress(affiliateLinks.sweetwater, 'Sweetwater')}
@@ -3351,11 +3371,12 @@ function DrummerList({
         <FlatList
           data={filteredDrummers}
           keyExtractor={(item) => item.id.toString()}
-          renderItem={({ item }) => (
+          renderItem={({ item, index }) => (
             <DrummerCard
               drummer={item}
               theme={theme}
               onPress={() => onSelectDrummer(item.id)}
+              priority={index < 4}
             />
           )}
           contentContainerStyle={styles.listContainer}
@@ -5392,7 +5413,7 @@ function AppContent() {
   const [compareKitDrummer, setCompareKitDrummer] = useState(null);
 
   // Gear by Budget state
-  const [showGearByBudget, setShowGearByBudget] = useState(false);
+  const [showGearByBudget, setShowGearByBudget] = useState(() => isGearByBudgetPage());
 
   // Search and filter state
   const [filters, setFilters] = useState(() => getFiltersFromURL());

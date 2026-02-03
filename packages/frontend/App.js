@@ -71,6 +71,31 @@ function getCurrentSpotlightDrummer(drummers) {
   return spotlightDrummers[index];
 }
 
+// Get spotlight history for archive page (deterministic past weeks)
+function getSpotlightHistory(drummers, numWeeks = 12) {
+  const spotlightDrummers = getSpotlightDrummers(drummers);
+  if (spotlightDrummers.length === 0) return [];
+  
+  const currentWeek = getWeekNumber();
+  const history = [];
+  const msPerWeek = 7 * 24 * 60 * 60 * 1000;
+  const epochStart = new Date('2024-01-01');
+  
+  for (let i = 0; i < numWeeks; i++) {
+    const weekNum = currentWeek - i;
+    const drummerIndex = weekNum % spotlightDrummers.length;
+    const weekStart = new Date(epochStart.getTime() + weekNum * msPerWeek);
+    
+    history.push({
+      drummer: spotlightDrummers[drummerIndex],
+      weekStart,
+      isCurrent: i === 0
+    });
+  }
+  
+  return history;
+}
+
 // Check if on spotlights archive page
 function isSpotlightsPage() {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
@@ -2758,6 +2783,191 @@ function CompareView({ theme, onBack, drummers, onNavigateToCompare }) {
   );
 }
 
+// Drummer Spotlight Component - Featured drummer on homepage
+function DrummerSpotlight({ drummer, theme, onSelectDrummer, onViewAllSpotlights }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+
+  if (!drummer || !drummer.spotlight) return null;
+
+  const { spotlight } = drummer;
+
+  return (
+    <View style={[styles.spotlightContainer, { backgroundColor: theme.card, borderColor: theme.border }]}>
+      <View style={styles.spotlightHeader}>
+        <Text style={[styles.spotlightLabel, { color: '#f59e0b' }]}>⭐ DRUMMER SPOTLIGHT</Text>
+        <Text style={[styles.spotlightWeek, { color: theme.secondaryText }]}>This Week</Text>
+      </View>
+      
+      <View style={[styles.spotlightContent, isMobile && styles.spotlightContentMobile]}>
+        <TouchableOpacity 
+          onPress={() => onSelectDrummer(drummer.id)}
+          style={styles.spotlightImageContainer}
+          accessibilityRole="button"
+          accessibilityLabel={`View ${drummer.name}'s profile`}
+        >
+          <ImageWithFallback
+            source={{ uri: drummer.image }}
+            style={[styles.spotlightImage, isMobile && styles.spotlightImageMobile]}
+            accessibilityLabel={`Photo of ${drummer.name}`}
+          />
+        </TouchableOpacity>
+        
+        <View style={[styles.spotlightInfo, isMobile && styles.spotlightInfoMobile]}>
+          <TouchableOpacity onPress={() => onSelectDrummer(drummer.id)}>
+            <Text style={[styles.spotlightName, { color: theme.text }]}>{drummer.name}</Text>
+          </TouchableOpacity>
+          <Text style={[styles.spotlightBand, { color: theme.secondaryText }]}>{drummer.band}</Text>
+          
+          {/* Quick Facts */}
+          <View style={styles.spotlightQuickFacts}>
+            <Text style={[styles.spotlightSectionTitle, { color: theme.text }]}>Quick Facts</Text>
+            {spotlight.quickFacts.map((fact, index) => (
+              <View key={index} style={styles.spotlightFactRow}>
+                <Text style={[styles.spotlightFactBullet, { color: '#f59e0b' }]}>•</Text>
+                <Text style={[styles.spotlightFactText, { color: theme.secondaryText }]}>{fact}</Text>
+              </View>
+            ))}
+          </View>
+          
+          {/* Why They're Iconic */}
+          <View style={styles.spotlightIconicSection}>
+            <Text style={[styles.spotlightSectionTitle, { color: theme.text }]}>Why They're Iconic</Text>
+            <Text style={[styles.spotlightIconicText, { color: theme.secondaryText }]}>
+              {spotlight.iconicMoment}
+            </Text>
+          </View>
+          
+          {/* Gear Highlight */}
+          <View style={styles.spotlightGearSection}>
+            <Text style={[styles.spotlightGearHighlight, { color: theme.text }]}>
+              🥁 {spotlight.gearHighlight}
+            </Text>
+          </View>
+          
+          {/* CTA Buttons */}
+          <View style={[styles.spotlightCTAs, isMobile && styles.spotlightCTAsMobile]}>
+            <TouchableOpacity
+              onPress={() => onSelectDrummer(drummer.id)}
+              style={[styles.spotlightCTAPrimary, { backgroundColor: '#dc2626' }]}
+              accessibilityRole="button"
+            >
+              <Text style={styles.spotlightCTAPrimaryText}>View Full Profile →</Text>
+            </TouchableOpacity>
+            <TouchableOpacity
+              onPress={onViewAllSpotlights}
+              style={[styles.spotlightCTASecondary, { borderColor: theme.border }]}
+              accessibilityRole="button"
+            >
+              <Text style={[styles.spotlightCTASecondaryText, { color: theme.text }]}>Past Spotlights</Text>
+            </TouchableOpacity>
+          </View>
+        </View>
+      </View>
+    </View>
+  );
+}
+
+// Spotlights Archive Page - Shows all drummers with spotlight data
+function SpotlightsArchivePage({ theme, onBack, drummers, onSelectDrummer }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  
+  // Get all drummers with spotlight data
+  const spotlightDrummers = getSpotlightDrummers(drummers);
+  const currentIndex = getCurrentSpotlightIndex(spotlightDrummers.length);
+
+  // Update SEO for spotlights page
+  useEffect(() => {
+    if (Platform.OS === 'web' && typeof document !== 'undefined') {
+      document.title = 'Drummer Spotlights Archive | Metal Drummer Gear';
+      const setMeta = (name, content, isProperty = false) => {
+        const attr = isProperty ? 'property' : 'name';
+        let meta = document.querySelector(`meta[${attr}="${name}"]`);
+        if (!meta) {
+          meta = document.createElement('meta');
+          meta.setAttribute(attr, name);
+          document.head.appendChild(meta);
+        }
+        meta.setAttribute('content', content);
+      };
+      setMeta('description', 'Explore our weekly Drummer Spotlight archive featuring legendary metal drummers, their gear, and what makes them iconic.');
+      setMeta('og:title', 'Drummer Spotlights Archive | Metal Drummer Gear', true);
+      setMeta('og:description', 'Explore our weekly Drummer Spotlight archive featuring legendary metal drummers.', true);
+    }
+  }, []);
+
+  return (
+    <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+      <View style={styles.detailContent}>
+        <TouchableOpacity
+          onPress={onBack}
+          style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          accessibilityRole="button"
+          accessibilityLabel="Go back to home"
+        >
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Home</Text>
+        </TouchableOpacity>
+
+        <Text style={[styles.spotlightsArchiveTitle, { color: theme.text }]} accessibilityRole="header">
+          ⭐ Drummer Spotlights
+        </Text>
+        <Text style={[styles.spotlightsArchiveSubtitle, { color: theme.secondaryText }]}>
+          Each week we feature a legendary metal drummer. Explore our archive of past spotlights.
+        </Text>
+
+        <View style={[styles.spotlightsGrid, isMobile && styles.spotlightsGridMobile]}>
+          {spotlightDrummers.map((drummer, index) => (
+            <TouchableOpacity
+              key={drummer.id}
+              onPress={() => onSelectDrummer(drummer.id)}
+              style={[
+                styles.spotlightArchiveCard,
+                { backgroundColor: theme.card, borderColor: theme.border },
+                index === currentIndex && { borderColor: '#f59e0b', borderWidth: 2 }
+              ]}
+              accessibilityRole="button"
+              accessibilityLabel={`View ${drummer.name}'s spotlight`}
+            >
+              {index === currentIndex && (
+                <View style={styles.currentSpotlightBadge}>
+                  <Text style={styles.currentSpotlightBadgeText}>THIS WEEK</Text>
+                </View>
+              )}
+              <ImageWithFallback
+                source={{ uri: drummer.image }}
+                style={styles.spotlightArchiveImage}
+                accessibilityLabel={`Photo of ${drummer.name}`}
+              />
+              <View style={styles.spotlightArchiveInfo}>
+                <Text style={[styles.spotlightArchiveName, { color: theme.text }]} numberOfLines={1}>
+                  {drummer.name}
+                </Text>
+                <Text style={[styles.spotlightArchiveBand, { color: theme.secondaryText }]} numberOfLines={1}>
+                  {drummer.band}
+                </Text>
+                {drummer.spotlight && (
+                  <Text style={[styles.spotlightArchiveTeaser, { color: theme.secondaryText }]} numberOfLines={2}>
+                    {drummer.spotlight.iconicMoment.substring(0, 80)}...
+                  </Text>
+                )}
+              </View>
+            </TouchableOpacity>
+          ))}
+        </View>
+
+        {spotlightDrummers.length === 0 && (
+          <View style={styles.noSpotlightsContainer}>
+            <Text style={[styles.noSpotlightsText, { color: theme.secondaryText }]}>
+              No spotlight data available yet.
+            </Text>
+          </View>
+        )}
+      </View>
+    </ScrollView>
+  );
+}
+
 function DrummerList({
   theme,
   onSelectDrummer,
@@ -2766,6 +2976,11 @@ function DrummerList({
   error,
   onNavigateToCompare,
   onNavigateToQuiz,
+  onNavigateToSpotlights,
+  onNavigateToQuotes,
+  spotlight,
+  onNavigateToSpotlights,
+  spotlightDrummer,
   filters,
   onFilterChange,
   filteredDrummers,
@@ -2847,6 +3062,25 @@ function DrummerList({
           <Text style={[styles.quizButtonText, { color: '#ffffff' }]}>🥁 Find Your Match</Text>
         </TouchableOpacity>
       </View>
+      <View style={[styles.actionButtonsRow, { marginTop: -8 }]}>
+        <TouchableOpacity
+          onPress={onNavigateToQuotes}
+          style={[styles.compareButton, { backgroundColor: theme.card, borderColor: theme.border, flex: 1 }]}
+          accessibilityRole="button"
+          accessibilityLabel="Browse drummer interview quotes"
+        >
+          <Text style={[styles.compareButtonText, { color: theme.text }]}>💬 Drummer Quotes</Text>
+        </TouchableOpacity>
+      </View>
+      {/* Drummer Spotlight Section */}
+      {spotlight && (
+        <DrummerSpotlight
+          drummer={spotlight}
+          theme={theme}
+          onSelectDrummer={onSelectDrummer}
+          onViewAllSpotlights={onNavigateToSpotlights}
+        />
+      )}
       {filteredDrummers.length === 0 ? (
         <View style={styles.noResultsContainer}>
           <Text style={[styles.noResultsText, { color: theme.secondaryText }]}>
@@ -2894,6 +3128,13 @@ function isPrivacyPage() {
   const pathname = window.location.pathname;
   return pathname === '/privacy' || pathname.startsWith('/privacy?') ||
          pathname === '/privacy-policy' || pathname.startsWith('/privacy-policy?');
+}
+
+// Check if we're on the quotes page based on URL
+function isQuotesPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  const pathname = window.location.pathname;
+  return pathname === '/quotes' || pathname.startsWith('/quotes?');
 }
 
 // Check if we're on a gear page based on URL
@@ -4849,6 +5090,8 @@ function AppContent() {
   const [showCompare, setShowCompare] = useState(() => isComparePage());
   const [showQuiz, setShowQuiz] = useState(() => isQuizPage());
   const [showPrivacy, setShowPrivacy] = useState(() => isPrivacyPage());
+  const [showQuotes, setShowQuotes] = useState(() => isQuotesPage());
+  const [showSpotlights, setShowSpotlights] = useState(() => isSpotlightsPage());
   const [selectedGear, setSelectedGear] = useState(null);
   const [loadingGear, setLoadingGear] = useState(false);
   // Compare Your Kit state
@@ -5123,6 +5366,15 @@ function AppContent() {
         setShowPrivacy(true);
         setShowQuiz(false);
         setShowCompare(false);
+        setShowQuotes(false);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+      } else if (isQuotesPage()) {
+        setShowQuotes(true);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
@@ -5131,6 +5383,7 @@ function AppContent() {
         setShowCompare(false);
         setShowQuiz(false);
         setShowPrivacy(false);
+        setShowQuotes(false);
         setSelectedGear(null);
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
@@ -5263,6 +5516,7 @@ function AppContent() {
   const handleNavigateToCompare = () => {
     setShowCompare(true);
     setShowQuiz(false);
+    setShowQuotes(false);
     setSelectedDrummer(null);
     setSelectedDrummerId(null);
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
@@ -5278,6 +5532,34 @@ function AppContent() {
     setSelectedGear(null);
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
       window.history.pushState({}, '', '/quiz');
+    }
+  };
+
+  const handleNavigateToQuotes = () => {
+    setShowQuotes(true);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowPrivacy(false);
+    setShowSpotlights(false);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/quotes');
+    }
+  };
+
+  const handleNavigateToSpotlights = () => {
+    setShowSpotlights(true);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowPrivacy(false);
+    setShowQuotes(false);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/spotlights');
     }
   };
 
@@ -5365,6 +5647,36 @@ function AppContent() {
         />
       );
     }
+    if (showQuotes) {
+      return (
+        <QuotesPage
+          theme={theme}
+          onBack={() => {
+            setShowQuotes(false);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/');
+            }
+          }}
+          drummers={drummers}
+          onSelectDrummer={handleSelectDrummer}
+        />
+      );
+    }
+    if (showSpotlights) {
+      return (
+        <SpotlightsArchivePage
+          theme={theme}
+          onBack={() => {
+            setShowSpotlights(false);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/');
+            }
+          }}
+          drummers={drummers}
+          onSelectDrummer={handleSelectDrummer}
+        />
+      );
+    }
     if (selectedDrummer) {
       return <DrummerDetail drummer={selectedDrummer} theme={theme} onBack={handleBack} onSelectGear={handleSelectGear} onCompareYourKit={handleCompareYourKit} />;
     }
@@ -5379,6 +5691,9 @@ function AppContent() {
           error={drummersError}
           onNavigateToCompare={handleNavigateToCompare}
           onNavigateToQuiz={handleNavigateToQuiz}
+          onNavigateToQuotes={handleNavigateToQuotes}
+          onNavigateToSpotlights={handleNavigateToSpotlights}
+          spotlightDrummer={getCurrentSpotlightDrummer(drummers)}
           filters={filters}
           onFilterChange={handleFilterChange}
           searchValue={searchValue}
@@ -5396,7 +5711,7 @@ function AppContent() {
 
   return (
     <View style={[styles.container, { backgroundColor: theme.background }]}>
-      {!selectedDrummer && !showCompare && !showQuiz && !showPrivacy && !selectedGear && <SEOHead drummers={drummers} filters={filters} />}
+      {!selectedDrummer && !showCompare && !showQuiz && !showPrivacy && !showQuotes && !selectedGear && <SEOHead drummers={drummers} filters={filters} />}
       <View style={styles.header} accessibilityRole="banner">
         <Text style={[styles.title, { color: theme.text }]} accessibilityRole="header">
           Metal Drummer Gear

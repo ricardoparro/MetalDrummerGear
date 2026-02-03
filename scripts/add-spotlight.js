@@ -1,4 +1,4 @@
-// Script to add spotlight data to drummers
+// Script to add spotlight data to drummers - FIXED VERSION
 const fs = require('fs');
 const path = require('path');
 
@@ -16,7 +16,7 @@ const spotlightData = {
     iconicMoment: "His double bass work on 'One' (1988) became a blueprint for thrash drumming. The Monsters of Rock 1991 performance drew 1.6 million fans.",
     gearHighlight: "Tama Starclassic Maple with signature LU1465 snare and Ahead aluminum sticks for durability."
   },
-  2: { // Joey Jordison
+  2: { // Joey Jordison - already has spotlight, will update
     quickFacts: [
       "Performed on a rotating/inverting drum platform during Slipknot's legendary live shows",
       "Voted #1 drummer by Rhythm magazine and won Kerrang! 'Best Drummer' award",
@@ -25,7 +25,7 @@ const spotlightData = {
     iconicMoment: "The 'Disasterpieces' drum solo (2002) - playing at superhuman speed while spinning upside-down became one of metal's most legendary performances.",
     gearHighlight: "Pearl Reference Series with signature 13x6.5\" snare and the iconic rotating drum platform."
   },
-  3: { // Gene Hoglan
+  3: { // Gene Hoglan - already has spotlight, will update
     quickFacts: [
       "Nicknamed 'The Atomic Clock' for his metronomic precision at extreme speeds",
       "Has recorded with 40+ bands including Death, Testament, Strapping Young Lad, and Dethklok",
@@ -99,42 +99,80 @@ const spotlightData = {
   }
 };
 
-// Find each drummer by id and add spotlight after videos/quotes
-for (const [id, spotlight] of Object.entries(spotlightData)) {
-  const idNum = parseInt(id);
-  
-  // Create the spotlight object string
-  const spotlightStr = `,
-    spotlight: {
-      quickFacts: ${JSON.stringify(spotlight.quickFacts, null, 8).replace(/\n/g, '\n    ')},
+function createSpotlightString(spotlight) {
+  return `    spotlight: {
+      quickFacts: [
+        "${spotlight.quickFacts[0]}",
+        "${spotlight.quickFacts[1]}",
+        "${spotlight.quickFacts[2]}"
+      ],
       iconicMoment: "${spotlight.iconicMoment.replace(/"/g, '\\"')}",
       gearHighlight: "${spotlight.gearHighlight.replace(/"/g, '\\"')}"
     }`;
+}
+
+// For each drummer, find the end of their entry (the closing }), and insert spotlight before it
+// We need to find each drummer by their id and add/update spotlight
+
+for (const [id, spotlight] of Object.entries(spotlightData)) {
+  const idNum = parseInt(id);
+  const spotlightStr = createSpotlightString(spotlight);
   
-  // Find the pattern: end of drummer object before next id
-  // We need to find the closing ] of videos or quotes array, followed by closing }
-  // Then insert the spotlight before the }
+  // Check if this drummer already has spotlight
+  // Find the drummer's entry by locating `id: X,` followed by their content
+  const drummerStartRegex = new RegExp(`(\\s{4}id: ${idNum},\\n)`);
+  const startMatch = content.match(drummerStartRegex);
   
-  // Pattern: look for the drummer by id and find where to insert
-  const idPattern = new RegExp(`(id: ${idNum},\\s*\\n[\\s\\S]*?)(\\n  \\},\\n  \\{\\n    id: ${idNum + 1},|\\n];\\n\\nexport)`, 'm');
-  
-  const match = content.match(idPattern);
-  if (match && !match[1].includes('spotlight:')) {
-    // Find the last ] before the closing }
-    const drummerContent = match[1];
-    const lastArrayClose = drummerContent.lastIndexOf('    ]');
-    if (lastArrayClose !== -1) {
-      const insertPos = drummerContent.indexOf('\n', lastArrayClose);
-      const beforeInsert = drummerContent.substring(0, insertPos);
-      const afterInsert = drummerContent.substring(insertPos);
-      const newDrummerContent = beforeInsert + spotlightStr + afterInsert;
-      content = content.replace(match[1], newDrummerContent);
-      console.log(`Added spotlight to drummer id ${id}`);
-    }
-  } else if (match && match[1].includes('spotlight:')) {
-    console.log(`Spotlight already exists for drummer id ${id}`);
-  } else {
+  if (!startMatch) {
     console.log(`Could not find drummer id ${id}`);
+    continue;
+  }
+  
+  const startIndex = content.indexOf(startMatch[0]);
+  
+  // Find the next drummer's start (or end of array)
+  const nextDrummerRegex = new RegExp(`\\n  \\},\\n  \\{\\n    id: ${idNum + 1},`);
+  const endMatch = content.slice(startIndex).match(nextDrummerRegex);
+  
+  let endIndex;
+  if (endMatch) {
+    endIndex = startIndex + content.slice(startIndex).indexOf(endMatch[0]);
+  } else {
+    // This might be the last drummer, find the closing ];
+    const endArrayMatch = content.slice(startIndex).match(/\n  \}\n\];/);
+    if (endArrayMatch) {
+      endIndex = startIndex + content.slice(startIndex).indexOf(endArrayMatch[0]);
+    } else {
+      console.log(`Could not find end of drummer id ${id}`);
+      continue;
+    }
+  }
+  
+  const drummerContent = content.slice(startIndex, endIndex);
+  
+  // Check if already has spotlight
+  if (drummerContent.includes('spotlight:')) {
+    // Replace existing spotlight
+    const oldSpotlightRegex = /    spotlight: \{[\s\S]*?\n    \}/;
+    const newDrummerContent = drummerContent.replace(oldSpotlightRegex, spotlightStr);
+    content = content.slice(0, startIndex) + newDrummerContent + content.slice(endIndex);
+    console.log(`Updated spotlight for drummer id ${id}`);
+  } else {
+    // Add new spotlight - insert before the closing }
+    // Find the last ] (closing array) in the drummer's content
+    const lastArrayCloseIndex = drummerContent.lastIndexOf('    ]');
+    if (lastArrayCloseIndex === -1) {
+      console.log(`Could not find array close for drummer id ${id}`);
+      continue;
+    }
+    
+    // Find the newline after the ]
+    const newlineAfterArray = drummerContent.indexOf('\n', lastArrayCloseIndex + 5);
+    const insertPoint = startIndex + newlineAfterArray;
+    
+    // Insert spotlight after the ]
+    content = content.slice(0, insertPoint) + ',\n' + spotlightStr + content.slice(insertPoint);
+    console.log(`Added spotlight to drummer id ${id}`);
   }
 }
 

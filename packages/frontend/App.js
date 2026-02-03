@@ -2979,8 +2979,6 @@ function DrummerList({
   onNavigateToSpotlights,
   onNavigateToQuotes,
   spotlight,
-  onNavigateToSpotlights,
-  spotlightDrummer,
   filters,
   onFilterChange,
   filteredDrummers,

@@ -925,6 +925,7 @@ function DrummerCard({ drummer, theme, onPress }) {
           overflow: 'hidden',
           cursor: 'pointer',
         }}
+        role="link"
         aria-label={`View ${drummer.name}'s gear details`}
       >
         {cardContent}

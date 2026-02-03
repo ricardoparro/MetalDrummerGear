@@ -848,7 +848,11 @@ function updateDocumentMeta(drummer, drummers = [], filters = {}) {
   setMeta('og:title', title, true);
   setMeta('og:description', description, true);
   setMeta('og:type', 'website', true);
-  if (drummer) setMeta('og:image', drummer.image, true);
+  if (drummer) {
+    setMeta('og:image', drummer.image, true);
+    setMeta('og:url', `https://metalforge.io/drummer/${drummer.id}`, true);
+    setMeta('twitter:image', drummer.image);
+  }
   setMeta('twitter:card', 'summary_large_image');
   setMeta('twitter:title', title);
   setMeta('twitter:description', description);
@@ -1942,11 +1946,16 @@ function ProfileShareButtons({ drummer, theme }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
 
-  const shareUrl = typeof window !== 'undefined'
-    ? `${window.location.origin}/drummer/${drummer.id}`
-    : `https://metalforge.io/drummer/${drummer.id}`;
+  // Build share URL with UTM parameters for tracking
+  const getShareUrl = (platform) => {
+    const baseUrl = typeof window !== 'undefined'
+      ? `${window.location.origin}/drummer/${drummer.id}`
+      : `https://metalforge.io/drummer/${drummer.id}`;
+    return `${baseUrl}?utm_source=social&utm_medium=${platform}&utm_campaign=drummer_share`;
+  };
 
-  const shareText = `Check out ${drummer.name}'s complete gear setup on MetalForge! 🥁 #metaldrumming`;
+  // Share text matching spec: "[Drummer Name]'s complete gear breakdown - check out their setup! @MetalForgeGear"
+  const shareText = `${drummer.name}'s complete gear breakdown - check out their setup! @MetalForgeGear`;
 
   // GA4 event tracking
   const trackShare = (platform) => {
@@ -1962,7 +1971,8 @@ function ProfileShareButtons({ drummer, theme }) {
 
   const handleTwitterShare = () => {
     trackShare('twitter');
-    const twitterUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(shareUrl)}&hashtags=metaldrumming`;
+    const shareUrl = getShareUrl('twitter');
+    const twitterUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(shareUrl)}`;
     if (Platform.OS === 'web') {
       window.open(twitterUrl, '_blank', 'noopener,noreferrer');
     } else {
@@ -1972,6 +1982,7 @@ function ProfileShareButtons({ drummer, theme }) {
 
   const handleFacebookShare = () => {
     trackShare('facebook');
+    const shareUrl = getShareUrl('facebook');
     const facebookUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(shareUrl)}&quote=${encodeURIComponent(shareText)}`;
     if (Platform.OS === 'web') {
       window.open(facebookUrl, '_blank', 'noopener,noreferrer');
@@ -1982,6 +1993,7 @@ function ProfileShareButtons({ drummer, theme }) {
 
   const handleCopyLink = async () => {
     trackShare('copy_link');
+    const shareUrl = getShareUrl('copy_link');
     if (Platform.OS === 'web' && navigator.clipboard) {
       await navigator.clipboard.writeText(shareUrl);
       setCopied(true);
@@ -1995,6 +2007,7 @@ function ProfileShareButtons({ drummer, theme }) {
 
   const handleNativeShare = async () => {
     trackShare('native_share');
+    const shareUrl = getShareUrl('native');
     if (typeof navigator !== 'undefined' && navigator.share) {
       try {
         await navigator.share({
@@ -7827,15 +7840,15 @@ const styles = StyleSheet.create({
     position: 'relative',
   },
   detailContainerWithSideRail: {
-    marginLeft: 70, // Make room for side rail on desktop
+    marginRight: 70, // Make room for side rail on desktop (right side)
   },
   detailContentMobile: {
     paddingBottom: 80, // Make room for floating bottom bar on mobile
   },
-  // Desktop: Side rail share buttons (sticky, left side)
+  // Desktop: Side rail share buttons (sticky, right side)
   shareSideRail: {
     position: Platform.OS === 'web' ? 'fixed' : 'absolute',
-    left: 20,
+    right: 20,
     top: 120,
     width: 50,
     borderRadius: 25,

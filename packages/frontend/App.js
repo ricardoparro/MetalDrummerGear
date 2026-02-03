@@ -3532,6 +3532,497 @@ function SpotlightsArchivePage({ theme, onBack, drummers, onSelectDrummer }) {
   );
 }
 
+// ==========================================
+// GEAR BY BUDGET PAGE
+// ==========================================
+
+function GearByBudgetPage({ theme, onBack, drummers, onSelectDrummer }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const [selectedTier, setSelectedTier] = useState(() => getBudgetTierFromURL());
+
+  // Update SEO for gear by budget page
+  useEffect(() => {
+    if (Platform.OS === 'web' && typeof document !== 'undefined') {
+      const tierLabel = selectedTier ? BUDGET_TIERS[selectedTier]?.label : '';
+      document.title = tierLabel 
+        ? `${tierLabel} Drum Gear | Metal Drummer Gear`
+        : 'Gear by Budget | Metal Drummer Gear';
+      const setMeta = (name, content, isProperty = false) => {
+        const attr = isProperty ? 'property' : 'name';
+        let meta = document.querySelector(`meta[${attr}="${name}"]`);
+        if (!meta) {
+          meta = document.createElement('meta');
+          meta.setAttribute(attr, name);
+          document.head.appendChild(meta);
+        }
+        meta.setAttribute('content', content);
+      };
+      setMeta('description', 'Explore drum gear organized by budget tier. Find professional setups from entry level to premium.');
+      setMeta('og:title', 'Gear by Budget | Metal Drummer Gear', true);
+      setMeta('og:description', 'Find the perfect drum setup for your budget.', true);
+    }
+  }, [selectedTier]);
+
+  const handleTierSelect = (tier) => {
+    setSelectedTier(tier === selectedTier ? null : tier);
+    updateBudgetTierURL(tier === selectedTier ? null : tier);
+  };
+
+  // Group drummers by their kit cost tier
+  const drummersByTier = useMemo(() => {
+    const grouped = { entry: [], intermediate: [], professional: [], premium: [] };
+    drummers.forEach(drummer => {
+      if (drummer.gear) {
+        const kitCost = calculateKitCost(drummer.gear);
+        if (kitCost) {
+          const tier = getBudgetTier(kitCost.totalEur);
+          if (tier && grouped[tier]) {
+            grouped[tier].push({ ...drummer, kitCost });
+          }
+        }
+      }
+    });
+    return grouped;
+  }, [drummers]);
+
+  const tiersToShow = selectedTier ? [selectedTier] : Object.keys(BUDGET_TIERS);
+
+  return (
+    <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+      <View style={styles.detailContent}>
+        <TouchableOpacity
+          onPress={onBack}
+          style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          accessibilityRole="button"
+          accessibilityLabel="Go back to home"
+        >
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Home</Text>
+        </TouchableOpacity>
+
+        <Text style={[styles.spotlightsArchiveTitle, { color: theme.text }]} accessibilityRole="header">
+          💰 Gear by Budget
+        </Text>
+        <Text style={[styles.spotlightsArchiveSubtitle, { color: theme.secondaryText }]}>
+          Find drum setups that match your budget. Click a tier to filter.
+        </Text>
+
+        {/* Budget Tier Filter Buttons */}
+        <View style={[styles.budgetTierButtons, isMobile && styles.budgetTierButtonsMobile]}>
+          {Object.values(BUDGET_TIERS).map((tier) => (
+            <TouchableOpacity
+              key={tier.id}
+              onPress={() => handleTierSelect(tier.id)}
+              style={[
+                styles.budgetTierButton,
+                { backgroundColor: selectedTier === tier.id ? tier.color : theme.card, borderColor: tier.color },
+                isMobile && styles.budgetTierButtonMobile
+              ]}
+              accessibilityRole="button"
+              accessibilityState={{ selected: selectedTier === tier.id }}
+            >
+              <Text style={[styles.budgetTierButtonEmoji]}>{tier.emoji}</Text>
+              <Text style={[
+                styles.budgetTierButtonText, 
+                { color: selectedTier === tier.id ? '#ffffff' : theme.text }
+              ]}>
+                {tier.label}
+              </Text>
+              <Text style={[
+                styles.budgetTierButtonRange, 
+                { color: selectedTier === tier.id ? 'rgba(255,255,255,0.8)' : theme.secondaryText }
+              ]}>
+                {formatPriceRange(tier.minPrice, tier.maxPrice)}
+              </Text>
+            </TouchableOpacity>
+          ))}
+        </View>
+
+        {/* Drummers by Tier */}
+        {tiersToShow.map((tierId) => {
+          const tier = BUDGET_TIERS[tierId];
+          const tierDrummers = drummersByTier[tierId] || [];
+          if (tierDrummers.length === 0) return null;
+          
+          return (
+            <View key={tierId} style={styles.budgetTierSection}>
+              <View style={[styles.budgetTierHeader, { borderLeftColor: tier.color }]}>
+                <Text style={[styles.budgetTierTitle, { color: theme.text }]}>
+                  {tier.emoji} {tier.label}
+                </Text>
+                <Text style={[styles.budgetTierRange, { color: theme.secondaryText }]}>
+                  {formatPriceRange(tier.minPrice, tier.maxPrice)}
+                </Text>
+              </View>
+              <Text style={[styles.budgetTierDescription, { color: theme.secondaryText }]}>
+                {tier.description}
+              </Text>
+              <View style={[styles.budgetDrummerGrid, isMobile && styles.budgetDrummerGridMobile]}>
+                {tierDrummers.map((drummer) => (
+                  <TouchableOpacity
+                    key={drummer.id}
+                    onPress={() => onSelectDrummer(drummer.id)}
+                    style={[styles.budgetDrummerCard, { backgroundColor: theme.card, borderColor: theme.border }]}
+                    accessibilityRole="button"
+                    accessibilityLabel={`View ${drummer.name}'s gear - ${formatPrice(drummer.kitCost.totalEur, 'EUR')}`}
+                  >
+                    <ImageWithFallback
+                      source={{ uri: drummer.image }}
+                      style={styles.budgetDrummerImage}
+                      accessibilityLabel={`Photo of ${drummer.name}`}
+                    />
+                    <View style={styles.budgetDrummerInfo}>
+                      <Text style={[styles.budgetDrummerName, { color: theme.text }]} numberOfLines={1}>
+                        {drummer.name}
+                      </Text>
+                      <Text style={[styles.budgetDrummerBand, { color: theme.secondaryText }]} numberOfLines={1}>
+                        {drummer.band}
+                      </Text>
+                      <Text style={[styles.budgetDrummerCost, { color: tier.color }]}>
+                        {formatPrice(drummer.kitCost.totalEur, 'EUR')}
+                      </Text>
+                    </View>
+                  </TouchableOpacity>
+                ))}
+              </View>
+            </View>
+          );
+        })}
+      </View>
+    </ScrollView>
+  );
+}
+
+// ==========================================
+// GEAR FINDER PAGE - Search drummers by specific gear
+// ==========================================
+
+function GearFinderPage({ theme, onBack, drummers, onSelectDrummer, onSelectGear }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  
+  // Initialize from URL params
+  const [searchQuery, setSearchQuery] = useState(() => getGearSearchFromURL().query);
+  const [selectedCategory, setSelectedCategory] = useState(() => getGearSearchFromURL().category);
+  const [gearResults, setGearResults] = useState([]);
+  const [loading, setLoading] = useState(false);
+  const [popularGear, setPopularGear] = useState([]);
+
+  const categories = [
+    { value: '', label: 'All Gear' },
+    { value: 'drums', label: '🥁 Drums' },
+    { value: 'snare', label: '🔵 Snare' },
+    { value: 'cymbals', label: '🔔 Cymbals' },
+    { value: 'hardware', label: '⚙️ Hardware' },
+    { value: 'sticks', label: '🥢 Sticks' },
+  ];
+
+  // Update SEO for gear finder page
+  useEffect(() => {
+    if (Platform.OS === 'web' && typeof document !== 'undefined') {
+      const title = searchQuery 
+        ? `"${searchQuery}" - Who Uses It? | Metal Drummer Gear`
+        : 'Gear Finder - Search Drummers by Gear | Metal Drummer Gear';
+      document.title = title;
+      const setMeta = (name, content, isProperty = false) => {
+        const attr = isProperty ? 'property' : 'name';
+        let meta = document.querySelector(`meta[${attr}="${name}"]`);
+        if (!meta) {
+          meta = document.createElement('meta');
+          meta.setAttribute(attr, name);
+          document.head.appendChild(meta);
+        }
+        meta.setAttribute('content', content);
+      };
+      setMeta('description', searchQuery 
+        ? `Find all metal drummers who use ${searchQuery}. Discover who plays with this gear.`
+        : 'Search for any drum gear and find which pro metal drummers use it. Gear-centric search for drums, cymbals, hardware, and more.');
+      setMeta('og:title', title, true);
+      setMeta('og:description', 'Find drummers by the gear they use.', true);
+    }
+  }, [searchQuery]);
+
+  // Fetch popular gear on mount
+  useEffect(() => {
+    const fetchPopularGear = async () => {
+      try {
+        const url = typeof window !== 'undefined' && window.location.hostname !== 'localhost'
+          ? '/api/gear/search?popular=true&limit=10'
+          : 'http://localhost:3001/api/gear/search?popular=true&limit=10';
+        const response = await fetch(url);
+        if (response.ok) {
+          const data = await response.json();
+          setPopularGear(data.items || []);
+        }
+      } catch (err) {
+        console.error('Error fetching popular gear:', err);
+      }
+    };
+    fetchPopularGear();
+  }, []);
+
+  // Search gear when query or category changes
+  useEffect(() => {
+    const searchGear = async () => {
+      if (!searchQuery && !selectedCategory) {
+        setGearResults([]);
+        return;
+      }
+      
+      setLoading(true);
+      try {
+        const params = new URLSearchParams();
+        if (searchQuery) params.set('q', searchQuery);
+        if (selectedCategory) params.set('category', selectedCategory);
+        if (!searchQuery && !selectedCategory) params.set('all', 'true');
+        
+        const baseUrl = typeof window !== 'undefined' && window.location.hostname !== 'localhost'
+          ? '/api/gear/search'
+          : 'http://localhost:3001/api/gear/search';
+        
+        const response = await fetch(`${baseUrl}?${params.toString()}`);
+        if (response.ok) {
+          const data = await response.json();
+          setGearResults(data.items || []);
+        }
+      } catch (err) {
+        console.error('Error searching gear:', err);
+      } finally {
+        setLoading(false);
+      }
+    };
+    
+    // Debounce search
+    const timeout = setTimeout(searchGear, 300);
+    return () => clearTimeout(timeout);
+  }, [searchQuery, selectedCategory]);
+
+  // Update URL when search changes
+  useEffect(() => {
+    updateGearFinderURL(searchQuery, selectedCategory);
+  }, [searchQuery, selectedCategory]);
+
+  const handleCategorySelect = (category) => {
+    setSelectedCategory(category);
+  };
+
+  const handleGearItemClick = (gearItem) => {
+    // If the gear item has a slug, navigate to its detail page
+    if (gearItem.slug && onSelectGear) {
+      onSelectGear(gearItem.slug);
+    }
+  };
+
+  return (
+    <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+      <View style={styles.detailContent}>
+        <TouchableOpacity
+          onPress={onBack}
+          style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          accessibilityRole="button"
+          accessibilityLabel="Go back to home"
+        >
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Home</Text>
+        </TouchableOpacity>
+
+        <Text style={[styles.spotlightsArchiveTitle, { color: theme.text }]} accessibilityRole="header">
+          🔍 Gear Finder
+        </Text>
+        <Text style={[styles.spotlightsArchiveSubtitle, { color: theme.secondaryText }]}>
+          Search for any gear and find which drummers use it
+        </Text>
+
+        {/* Search Input */}
+        <View style={[styles.gearFinderSearchContainer, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <TextInput
+            style={[styles.gearFinderSearchInput, { color: theme.text }]}
+            placeholder="Search gear (e.g., Tama Starclassic, Zildjian A Custom...)"
+            placeholderTextColor={theme.secondaryText}
+            value={searchQuery}
+            onChangeText={setSearchQuery}
+            accessibilityLabel="Search for drum gear"
+          />
+          {searchQuery && (
+            <TouchableOpacity onPress={() => setSearchQuery('')} style={styles.gearFinderClearButton}>
+              <Text style={[styles.gearFinderClearText, { color: theme.secondaryText }]}>✕</Text>
+            </TouchableOpacity>
+          )}
+        </View>
+
+        {/* Category Filter */}
+        <ScrollView 
+          horizontal 
+          showsHorizontalScrollIndicator={false} 
+          style={styles.gearFinderCategoryScroll}
+          contentContainerStyle={styles.gearFinderCategoryContainer}
+        >
+          {categories.map((cat) => (
+            <TouchableOpacity
+              key={cat.value}
+              onPress={() => handleCategorySelect(cat.value)}
+              style={[
+                styles.gearFinderCategoryChip,
+                { 
+                  backgroundColor: selectedCategory === cat.value ? theme.text : theme.card,
+                  borderColor: theme.border 
+                }
+              ]}
+              accessibilityRole="button"
+              accessibilityState={{ selected: selectedCategory === cat.value }}
+            >
+              <Text style={[
+                styles.gearFinderCategoryText,
+                { color: selectedCategory === cat.value ? theme.background : theme.text }
+              ]}>
+                {cat.label}
+              </Text>
+            </TouchableOpacity>
+          ))}
+        </ScrollView>
+
+        {/* Loading State */}
+        {loading && (
+          <View style={styles.gearFinderLoading}>
+            <ActivityIndicator size="small" color={theme.text} />
+            <Text style={[styles.gearFinderLoadingText, { color: theme.secondaryText }]}>Searching...</Text>
+          </View>
+        )}
+
+        {/* Search Results */}
+        {!loading && gearResults.length > 0 && (
+          <View style={styles.gearFinderResults}>
+            <Text style={[styles.gearFinderResultsTitle, { color: theme.text }]}>
+              Found {gearResults.length} gear item{gearResults.length !== 1 ? 's' : ''}
+            </Text>
+            {gearResults.map((item, index) => (
+              <View 
+                key={`${item.slug}-${index}`} 
+                style={[styles.gearFinderResultCard, { backgroundColor: theme.card, borderColor: theme.border }]}
+              >
+                <View style={styles.gearFinderResultHeader}>
+                  <View style={styles.gearFinderResultInfo}>
+                    <Text style={[styles.gearFinderResultCategory, { color: theme.secondaryText }]}>
+                      {item.category.toUpperCase()}
+                    </Text>
+                    <TouchableOpacity onPress={() => handleGearItemClick(item)}>
+                      <Text style={[styles.gearFinderResultName, { color: theme.text }]}>
+                        {item.name}
+                      </Text>
+                    </TouchableOpacity>
+                  </View>
+                  <View style={[styles.gearFinderDrummerCount, { backgroundColor: '#dc2626' }]}>
+                    <Text style={styles.gearFinderDrummerCountText}>
+                      {item.drummers?.length || 0} drummer{item.drummers?.length !== 1 ? 's' : ''}
+                    </Text>
+                  </View>
+                </View>
+                
+                {/* Drummers who use this gear */}
+                {item.drummers && item.drummers.length > 0 && (
+                  <View style={styles.gearFinderDrummerList}>
+                    {item.drummers.map((drummer) => (
+                      <TouchableOpacity
+                        key={drummer.id}
+                        onPress={() => onSelectDrummer(drummer.id)}
+                        style={[styles.gearFinderDrummerChip, { backgroundColor: theme.background, borderColor: theme.border }]}
+                        accessibilityRole="button"
+                        accessibilityLabel={`View ${drummer.name}'s gear`}
+                      >
+                        <ImageWithFallback
+                          source={{ uri: drummer.image }}
+                          style={styles.gearFinderDrummerImage}
+                          accessibilityLabel={`Photo of ${drummer.name}`}
+                        />
+                        <View style={styles.gearFinderDrummerChipInfo}>
+                          <Text style={[styles.gearFinderDrummerName, { color: theme.text }]} numberOfLines={1}>
+                            {drummer.name}
+                          </Text>
+                          <Text style={[styles.gearFinderDrummerBand, { color: theme.secondaryText }]} numberOfLines={1}>
+                            {drummer.band}
+                          </Text>
+                        </View>
+                      </TouchableOpacity>
+                    ))}
+                  </View>
+                )}
+              </View>
+            ))}
+          </View>
+        )}
+
+        {/* No Results */}
+        {!loading && searchQuery && gearResults.length === 0 && (
+          <View style={styles.gearFinderNoResults}>
+            <Text style={[styles.gearFinderNoResultsText, { color: theme.secondaryText }]}>
+              No gear found matching "{searchQuery}"
+            </Text>
+            <Text style={[styles.gearFinderNoResultsHint, { color: theme.secondaryText }]}>
+              Try searching for brand names like "Tama", "Zildjian", or "Pearl"
+            </Text>
+          </View>
+        )}
+
+        {/* Popular Gear Section (when no search) */}
+        {!searchQuery && !loading && popularGear.length > 0 && (
+          <View style={styles.gearFinderPopular}>
+            <Text style={[styles.gearFinderPopularTitle, { color: theme.text }]}>
+              🔥 Popular Gear
+            </Text>
+            <Text style={[styles.gearFinderPopularSubtitle, { color: theme.secondaryText }]}>
+              Most-used gear across our drummer database
+            </Text>
+            {popularGear.map((item, index) => (
+              <TouchableOpacity
+                key={`popular-${item.slug}-${index}`}
+                onPress={() => setSearchQuery(item.name)}
+                style={[styles.gearFinderPopularItem, { backgroundColor: theme.card, borderColor: theme.border }]}
+                accessibilityRole="button"
+                accessibilityLabel={`Search for ${item.name}`}
+              >
+                <View style={styles.gearFinderPopularInfo}>
+                  <Text style={[styles.gearFinderPopularCategory, { color: theme.secondaryText }]}>
+                    {item.category.toUpperCase()}
+                  </Text>
+                  <Text style={[styles.gearFinderPopularName, { color: theme.text }]}>
+                    {item.name}
+                  </Text>
+                </View>
+                <View style={[styles.gearFinderPopularCount, { backgroundColor: theme.border }]}>
+                  <Text style={[styles.gearFinderPopularCountText, { color: theme.text }]}>
+                    {item.drummers?.length || 0}
+                  </Text>
+                </View>
+              </TouchableOpacity>
+            ))}
+          </View>
+        )}
+
+        {/* Quick Search Suggestions (when no search) */}
+        {!searchQuery && (
+          <View style={styles.gearFinderSuggestions}>
+            <Text style={[styles.gearFinderSuggestionsTitle, { color: theme.text }]}>
+              Try searching for:
+            </Text>
+            <View style={styles.gearFinderSuggestionChips}>
+              {['Tama Starclassic', 'Zildjian A Custom', 'Pearl Demon Drive', 'Meinl Byzance', 'Vic Firth 5B'].map((suggestion) => (
+                <TouchableOpacity
+                  key={suggestion}
+                  onPress={() => setSearchQuery(suggestion)}
+                  style={[styles.gearFinderSuggestionChip, { backgroundColor: theme.card, borderColor: theme.border }]}
+                  accessibilityRole="button"
+                  accessibilityLabel={`Search for ${suggestion}`}
+                >
+                  <Text style={[styles.gearFinderSuggestionText, { color: theme.text }]}>{suggestion}</Text>
+                </TouchableOpacity>
+              ))}
+            </View>
+          </View>
+        )}
+      </View>
+    </ScrollView>
+  );
+}
+
 function DrummerList({
   theme,
   onSelectDrummer,
@@ -6389,6 +6880,7 @@ function AppContent() {
           }}
           drummers={drummers}
           onSelectDrummer={handleSelectDrummer}
+          onSelectGear={handleSelectGear}
         />
       );
     }
@@ -9219,5 +9711,303 @@ const styles = StyleSheet.create({
   similarityText: {
     fontSize: 11,
     fontWeight: '600',
+  },
+
+  // ==========================================
+  // GEAR BY BUDGET PAGE STYLES
+  // ==========================================
+  budgetTierButtons: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 12,
+    marginBottom: 24,
+    marginTop: 16,
+  },
+  budgetTierButtonsMobile: {
+    flexDirection: 'column',
+  },
+  budgetTierButton: {
+    flex: 1,
+    minWidth: 120,
+    padding: 16,
+    borderRadius: 12,
+    borderWidth: 2,
+    alignItems: 'center',
+  },
+  budgetTierButtonMobile: {
+    flex: 0,
+    width: '100%',
+  },
+  budgetTierButtonEmoji: {
+    fontSize: 24,
+    marginBottom: 4,
+  },
+  budgetTierButtonText: {
+    fontSize: 14,
+    fontWeight: '600',
+    marginBottom: 2,
+  },
+  budgetTierButtonRange: {
+    fontSize: 11,
+  },
+  budgetTierSection: {
+    marginBottom: 32,
+  },
+  budgetTierHeader: {
+    borderLeftWidth: 4,
+    paddingLeft: 12,
+    marginBottom: 8,
+  },
+  budgetTierTitle: {
+    fontSize: 20,
+    fontWeight: 'bold',
+  },
+  budgetTierRange: {
+    fontSize: 14,
+    marginTop: 2,
+  },
+  budgetTierDescription: {
+    fontSize: 14,
+    marginBottom: 16,
+    paddingLeft: 16,
+  },
+  budgetDrummerGrid: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 12,
+  },
+  budgetDrummerGridMobile: {
+    flexDirection: 'column',
+  },
+  budgetDrummerCard: {
+    width: '48%',
+    padding: 12,
+    borderRadius: 12,
+    borderWidth: 1,
+    flexDirection: 'row',
+    alignItems: 'center',
+  },
+  budgetDrummerImage: {
+    width: 50,
+    height: 50,
+    borderRadius: 25,
+    marginRight: 12,
+  },
+  budgetDrummerInfo: {
+    flex: 1,
+  },
+  budgetDrummerName: {
+    fontSize: 14,
+    fontWeight: '600',
+    marginBottom: 2,
+  },
+  budgetDrummerBand: {
+    fontSize: 12,
+    marginBottom: 4,
+  },
+  budgetDrummerCost: {
+    fontSize: 14,
+    fontWeight: 'bold',
+  },
+
+  // ==========================================
+  // GEAR FINDER PAGE STYLES
+  // ==========================================
+  gearFinderSearchContainer: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    borderRadius: 12,
+    borderWidth: 1,
+    paddingHorizontal: 16,
+    marginBottom: 16,
+    marginTop: 16,
+  },
+  gearFinderSearchInput: {
+    flex: 1,
+    fontSize: 16,
+    paddingVertical: 14,
+    outlineStyle: 'none',
+  },
+  gearFinderClearButton: {
+    padding: 8,
+  },
+  gearFinderClearText: {
+    fontSize: 16,
+  },
+  gearFinderCategoryScroll: {
+    marginBottom: 20,
+  },
+  gearFinderCategoryContainer: {
+    flexDirection: 'row',
+    gap: 8,
+  },
+  gearFinderCategoryChip: {
+    paddingHorizontal: 16,
+    paddingVertical: 8,
+    borderRadius: 20,
+    borderWidth: 1,
+  },
+  gearFinderCategoryText: {
+    fontSize: 14,
+    fontWeight: '500',
+  },
+  gearFinderLoading: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'center',
+    padding: 20,
+    gap: 8,
+  },
+  gearFinderLoadingText: {
+    fontSize: 14,
+  },
+  gearFinderResults: {
+    marginBottom: 24,
+  },
+  gearFinderResultsTitle: {
+    fontSize: 16,
+    fontWeight: '600',
+    marginBottom: 16,
+  },
+  gearFinderResultCard: {
+    padding: 16,
+    borderRadius: 12,
+    borderWidth: 1,
+    marginBottom: 12,
+  },
+  gearFinderResultHeader: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'flex-start',
+    marginBottom: 12,
+  },
+  gearFinderResultInfo: {
+    flex: 1,
+    marginRight: 12,
+  },
+  gearFinderResultCategory: {
+    fontSize: 11,
+    fontWeight: '600',
+    marginBottom: 4,
+  },
+  gearFinderResultName: {
+    fontSize: 16,
+    fontWeight: '600',
+  },
+  gearFinderDrummerCount: {
+    paddingHorizontal: 10,
+    paddingVertical: 4,
+    borderRadius: 12,
+  },
+  gearFinderDrummerCountText: {
+    color: '#ffffff',
+    fontSize: 12,
+    fontWeight: '600',
+  },
+  gearFinderDrummerList: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 8,
+  },
+  gearFinderDrummerChip: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    padding: 8,
+    borderRadius: 8,
+    borderWidth: 1,
+  },
+  gearFinderDrummerImage: {
+    width: 32,
+    height: 32,
+    borderRadius: 16,
+    marginRight: 8,
+  },
+  gearFinderDrummerChipInfo: {
+    maxWidth: 120,
+  },
+  gearFinderDrummerName: {
+    fontSize: 13,
+    fontWeight: '500',
+  },
+  gearFinderDrummerBand: {
+    fontSize: 11,
+  },
+  gearFinderNoResults: {
+    alignItems: 'center',
+    padding: 40,
+  },
+  gearFinderNoResultsText: {
+    fontSize: 16,
+    textAlign: 'center',
+    marginBottom: 8,
+  },
+  gearFinderNoResultsHint: {
+    fontSize: 14,
+    textAlign: 'center',
+  },
+  gearFinderPopular: {
+    marginTop: 24,
+  },
+  gearFinderPopularTitle: {
+    fontSize: 18,
+    fontWeight: 'bold',
+    marginBottom: 4,
+  },
+  gearFinderPopularSubtitle: {
+    fontSize: 14,
+    marginBottom: 16,
+  },
+  gearFinderPopularItem: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    padding: 12,
+    borderRadius: 8,
+    borderWidth: 1,
+    marginBottom: 8,
+  },
+  gearFinderPopularInfo: {
+    flex: 1,
+  },
+  gearFinderPopularCategory: {
+    fontSize: 10,
+    fontWeight: '600',
+    marginBottom: 2,
+  },
+  gearFinderPopularName: {
+    fontSize: 14,
+    fontWeight: '500',
+  },
+  gearFinderPopularCount: {
+    width: 32,
+    height: 32,
+    borderRadius: 16,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  gearFinderPopularCountText: {
+    fontSize: 14,
+    fontWeight: 'bold',
+  },
+  gearFinderSuggestions: {
+    marginTop: 24,
+  },
+  gearFinderSuggestionsTitle: {
+    fontSize: 14,
+    marginBottom: 12,
+  },
+  gearFinderSuggestionChips: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 8,
+  },
+  gearFinderSuggestionChip: {
+    paddingHorizontal: 14,
+    paddingVertical: 8,
+    borderRadius: 16,
+    borderWidth: 1,
+  },
+  gearFinderSuggestionText: {
+    fontSize: 13,
   },
 });

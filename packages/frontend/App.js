@@ -5962,7 +5962,7 @@ function AppContent() {
           onNavigateToQuiz={handleNavigateToQuiz}
           onNavigateToQuotes={handleNavigateToQuotes}
           onNavigateToSpotlights={handleNavigateToSpotlights}
-          spotlightDrummer={getCurrentSpotlightDrummer(drummers)}
+          spotlight={getCurrentSpotlightDrummer(drummers)}
           filters={filters}
           onFilterChange={handleFilterChange}
           searchValue={searchValue}

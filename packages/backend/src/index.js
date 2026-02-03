@@ -44,6 +44,74 @@ const drummers = [
       { text: "I'm not the best drummer in the world, but I'm the best drummer for Metallica.", source: "Modern Drummer Magazine", year: 2008 },
       { text: "The only way to do great work is to love what you do. I've been fortunate enough to do that for over 40 years.", source: "Drumeo Interview", year: 2020 },
       { text: "Music is the most powerful form of communication in the world. It brings people together from all walks of life.", source: "Rolling Stone", year: 2016 }
+    ],
+    gearTimeline: [
+      {
+        era: 'Early Years',
+        years: '1981-1985',
+        description: "Metallica's formation and first albums",
+        albums: ["Kill 'Em All", "Ride the Lightning"],
+        gear: {
+          drums: 'Camco Drums',
+          snare: 'Camco 14x5" Snare',
+          cymbals: 'Zildjian A Series',
+          hardware: 'Standard hardware'
+        },
+        notes: "Lars started with modest gear, using second-hand Camco drums during Metallica's early days in the LA thrash scene."
+      },
+      {
+        era: 'Thrash Explosion',
+        years: '1986-1991',
+        description: 'Master of Puppets through the Black Album',
+        albums: ['Master of Puppets', '...And Justice for All', 'The Black Album'],
+        gear: {
+          drums: 'Tama Artstar II',
+          snare: 'Tama Bell Brass 14x6.5"',
+          cymbals: 'Zildjian A Custom Series',
+          hardware: 'Tama Titan Hardware, DW 5000 Double Pedal'
+        },
+        notes: 'Switched to Tama, developing his signature sound. The Black Album marked a refined, stadium-ready setup.'
+      },
+      {
+        era: 'Load Era',
+        years: '1992-1999',
+        description: 'Experimentation and mainstream success',
+        albums: ['Load', 'ReLoad', 'Garage Inc.'],
+        gear: {
+          drums: 'Tama Granstar',
+          snare: 'Tama Lars Ulrich Signature 14x6.5"',
+          cymbals: 'Zildjian A Custom Series',
+          hardware: 'Tama Iron Cobra Double Pedal'
+        },
+        notes: 'First signature snare drum introduced. Larger kit configurations for arena shows.'
+      },
+      {
+        era: 'St. Anger & Return',
+        years: '2000-2010',
+        description: 'Documentary era and return to form',
+        albums: ['St. Anger', 'Death Magnetic'],
+        gear: {
+          drums: 'Tama Starclassic Maple',
+          snare: 'Tama LU1465 Signature 14x6.5" (St. Anger: snare wires off)',
+          cymbals: 'Zildjian A Custom Series',
+          hardware: 'Tama Iron Cobra 900 Double Pedal'
+        },
+        notes: 'St. Anger featured controversial snare sound without snare wires. Death Magnetic returned to classic setup.'
+      },
+      {
+        era: 'Modern Era',
+        years: '2011-Present',
+        description: 'Hardwired and touring machine',
+        albums: ['Hardwired... to Self-Destruct', '72 Seasons'],
+        gear: {
+          drums: 'Tama Star Classic Maple',
+          snare: 'Tama LU1465 Lars Ulrich Signature 14x6.5"',
+          cymbals: 'Zildjian A Custom Series',
+          hardware: 'Tama Iron Cobra 900 Power Glide Double Pedal',
+          sticks: 'Ahead Lars Ulrich Signature'
+        },
+        notes: 'Current setup optimized for massive stadium tours. Uses Ahead aluminum sticks for durability.'
+      }
     ]
   },
   {
@@ -80,6 +148,73 @@ const drummers = [
       { text: "The drums chose me. I didn't choose them. It was like destiny.", source: "Modern Drummer Magazine", year: 2004 },
       { text: "Every time I sit behind a drum kit, I want to destroy it. That's the only way I know how to play.", source: "Revolver Magazine", year: 2008 },
       { text: "Practice doesn't make perfect. Perfect practice makes perfect. There's a big difference.", source: "Drum! Magazine", year: 2010 }
+    ],
+    gearTimeline: [
+      {
+        era: 'Pre-Slipknot',
+        years: '1991-1995',
+        description: 'Des Moines local scene and early bands',
+        albums: ['Modifidious demos', 'The Pale Ones demos'],
+        gear: {
+          drums: 'Various second-hand kits',
+          snare: 'Generic 14x5.5"',
+          cymbals: 'Zildjian ZBT Series',
+          hardware: 'Mixed brands'
+        },
+        notes: 'Joey developed his skills playing in local Des Moines bands, using whatever gear he could afford.'
+      },
+      {
+        era: 'Slipknot Rise',
+        years: '1996-2001',
+        description: "Slipknot's breakthrough era",
+        albums: ['Mate. Feed. Kill. Repeat.', 'Slipknot', 'Iowa'],
+        gear: {
+          drums: 'Pearl Export (early), Pearl Masters MMX',
+          snare: 'Pearl Masters 14x6.5" Steel',
+          cymbals: 'Paiste 2002 & RUDE Series',
+          hardware: 'Pearl P-2002C Power Shifter Double Pedal'
+        },
+        notes: 'Signed with Pearl. Iowa era featured brutal sound with RUDE cymbals cutting through the chaos.'
+      },
+      {
+        era: 'Signature Series',
+        years: '2002-2008',
+        description: 'Vol. 3 and All Hope Is Gone',
+        albums: ['Vol. 3: (The Subliminal Verses)', 'All Hope Is Gone'],
+        gear: {
+          drums: 'Pearl Masters Premium Maple',
+          snare: 'Pearl Joey Jordison Signature 13x6.5"',
+          cymbals: 'Paiste RUDE Series',
+          hardware: 'Pearl Demon Drive Double Pedal'
+        },
+        notes: 'First signature snare released - 13" diameter for rapid response and machine-gun fills.'
+      },
+      {
+        era: 'Side Projects',
+        years: '2009-2013',
+        description: 'Murderdolls, Rob Zombie, Scar the Martyr',
+        albums: ['Women and Children Last', 'Scar the Martyr'],
+        gear: {
+          drums: 'Pearl Reference Pure',
+          snare: 'Pearl Joey Jordison Signature 13x6.5"',
+          cymbals: 'Paiste RUDE & Signature Series',
+          hardware: 'Pearl Demon Drive Double Pedal'
+        },
+        notes: 'Expanded his sound with different projects, temporarily played with Rob Zombie.'
+      },
+      {
+        era: 'VIMIC & Legacy',
+        years: '2014-2021',
+        description: 'New projects and final years',
+        albums: ['VIMIC demos', 'Sinsaenum'],
+        gear: {
+          drums: 'ddrum Hybrid Series',
+          snare: 'ddrum 14x6.5" Maple',
+          cymbals: 'Paiste RUDE Series',
+          hardware: 'ddrum Mercury Double Pedal'
+        },
+        notes: 'Switched to ddrum. Battled health issues but continued performing and recording until his passing in 2021.'
+      }
     ]
   },
   {
@@ -117,6 +252,74 @@ const drummers = [
       { youtubeId: 'uS5xR7jBxDw', title: 'Gene Hoglan - Death "Crystal Mountain" (Drum Cam)', year: '2018' },
       { youtubeId: 'Jg4-gLPbngg', title: 'Gene Hoglan - Testament "Into The Pit" (Live Drum Cam)', year: '2017' },
       { youtubeId: 'q3jPgKjPqE4', title: 'Gene Hoglan - Dethklok "Thunderhorse" (Drum Playthrough)', year: '2019' }
+    ],
+    gearTimeline: [
+      {
+        era: 'Dark Angel Era',
+        years: '1983-1991',
+        description: 'Pioneering extreme thrash metal',
+        albums: ['We Have Arrived', 'Darkness Descends', 'Leave Scars', 'Time Does Not Heal'],
+        gear: {
+          drums: 'Tama Superstar',
+          snare: 'Tama Superstar 14x6.5"',
+          cymbals: 'Zildjian A Series',
+          hardware: 'Tama Camco-style pedals'
+        },
+        notes: 'Developed his "Atomic Clock" precision during this era. Time Does Not Heal featured 246 tempo changes.'
+      },
+      {
+        era: 'Death Era',
+        years: '1991-1995',
+        description: 'Death metal complexity with Chuck Schuldiner',
+        albums: ['Individual Thought Patterns', 'Symbolic'],
+        gear: {
+          drums: 'Tama Artstar II',
+          snare: 'Tama Bell Brass 14x6.5"',
+          cymbals: 'Zildjian A Custom Series',
+          hardware: 'Tama Iron Cobra Double Pedal'
+        },
+        notes: 'Brought technical finesse to Death\'s progressive death metal sound. "Atomic Clock" nickname solidified.'
+      },
+      {
+        era: 'Strapping Young Lad',
+        years: '1995-2007',
+        description: 'Industrial extreme metal with Devin Townsend',
+        albums: ['Heavy as a Really Heavy Thing', 'City', 'Alien', 'The New Black'],
+        gear: {
+          drums: 'Tama Starclassic Performer',
+          snare: 'Tama Bell Brass 14x8"',
+          cymbals: 'Zildjian A Custom Projection',
+          hardware: 'Tama Iron Cobra 900 Double Pedal'
+        },
+        notes: "Massive sound to match Devin's wall of sound. Moved to deeper snare drums during this period."
+      },
+      {
+        era: 'Testament & Dethklok',
+        years: '2008-2017',
+        description: 'Dual roles in thrash revival and animated metal',
+        albums: ['The Formation of Damnation', 'Dark Roots of Earth', 'The Dethalbum II & III'],
+        gear: {
+          drums: 'Tama Starclassic Bubinga',
+          snare: 'Tama Gene Hoglan Signature 14x8"',
+          cymbals: 'Zildjian A Custom Series',
+          hardware: 'Tama Speed Cobra 910 Double Pedal'
+        },
+        notes: 'First signature snare - 14x8" deep for thunderous sound. Balanced live thrash with studio animation work.'
+      },
+      {
+        era: 'Modern Era',
+        years: '2018-Present',
+        description: 'Testament continued, guest appearances, clinics',
+        albums: ['Titans of Creation', 'Galaktikon II'],
+        gear: {
+          drums: 'Tama Starclassic Walnut/Birch',
+          snare: 'Tama Gene Hoglan Signature 14x8"',
+          cymbals: 'Zildjian A Custom Series',
+          hardware: 'Tama Speed Cobra 910 Double Pedal',
+          sticks: 'Vater 5B Wood Tip'
+        },
+        notes: 'Current setup refined for touring. Known for marathon clinics sharing decades of metal drumming wisdom.'
+      }
     ]
   },
   {

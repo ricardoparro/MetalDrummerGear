@@ -2164,6 +2164,14 @@ function isQuizPage() {
          pathname === '/find-your-match' || pathname.startsWith('/find-your-match?');
 }
 
+// Check if we're on the privacy policy page based on URL
+function isPrivacyPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  const pathname = window.location.pathname;
+  return pathname === '/privacy' || pathname.startsWith('/privacy?') ||
+         pathname === '/privacy-policy' || pathname.startsWith('/privacy-policy?');
+}
+
 // Check if we're on a gear page based on URL
 function getGearSlugFromURL() {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return null;

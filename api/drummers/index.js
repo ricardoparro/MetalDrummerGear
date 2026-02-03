@@ -1708,7 +1708,7 @@ const drummers = [
     band: 'Converge / Mutoid Man / Killer Be Killed',
     genre: 'Metalcore / Hardcore Punk / Grindcore',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/5/5d/Converge_%40_Roadburn_Festival_2018-04-19_002.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/8/8a/Converge_%40_Roadburn_Festival_2018-04-19_002.jpg',
     bio: 'Ben Koller (born July 29, 1980) is an American drummer known for his work with Converge, Mutoid Man, Killer Be Killed, and All Pigs Must Die. Joining Converge in late 1999, Koller has been central to the band\'s legendary status, playing on landmark albums like "Jane Doe," "You Fail Me," and "The Dusk in Us." His drumming style combines blistering speed with creative dynamics, drawing from hardcore punk, grindcore, and experimental rock. Beyond Converge, he co-founded the heavy rock band Mutoid Man with Stephen Brodsky of Cave In, and joined the supergroup Killer Be Killed alongside members of Mastodon, The Dillinger Escape Plan, and Soulfly. Koller\'s versatility and intensity have made him one of the most respected drummers in extreme music.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Ben_Koller',
@@ -1728,7 +1728,7 @@ const drummers = [
       sources: ['https://en.wikipedia.org/wiki/Ben_Koller', 'https://zildjian.com/artists']
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/5/5d/Converge_%40_Roadburn_Festival_2018-04-19_002.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/8/8a/Converge_%40_Roadburn_Festival_2018-04-19_002.jpg'
     ],
     endorsements: [
       { name: 'Tama Drums', url: 'https://www.tama.com' },

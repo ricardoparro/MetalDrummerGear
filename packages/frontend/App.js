@@ -2978,8 +2978,6 @@ function DrummerList({
   onNavigateToQuiz,
   onNavigateToSpotlights,
   onNavigateToQuotes,
-  spotlight,
-  onNavigateToSpotlights,
   spotlightDrummer,
   filters,
   onFilterChange,
@@ -3073,9 +3071,9 @@ function DrummerList({
         </TouchableOpacity>
       </View>
       {/* Drummer Spotlight Section */}
-      {spotlight && (
+      {spotlightDrummer && (
         <DrummerSpotlight
-          drummer={spotlight}
+          drummer={spotlightDrummer}
           theme={theme}
           onSelectDrummer={onSelectDrummer}
           onViewAllSpotlights={onNavigateToSpotlights}

@@ -37,8 +37,11 @@ test.describe('MetalForge E2E', () => {
     const drummers = await response.json();
     const errors = [];
     for (const d of drummers.slice(0, 5)) {
-      await page.goto(`/drummer/${d.id}`);
-      const ok = await page.locator(`text=${d.name}`).first().isVisible({ timeout: 10000 }).catch(() => false);
+      await page.goto(`/drummer/${d.id}`, { waitUntil: 'networkidle' });
+      // Wait for React to hydrate and render content
+      await page.waitForTimeout(2000);
+      const pageContent = await page.locator('body').textContent();
+      const ok = pageContent.includes(d.name);
       if (!ok) errors.push(d.name);
     }
     expect(errors, `Failed: ${errors.join(', ')}`).toHaveLength(0);

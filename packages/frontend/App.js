@@ -1,5 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View, Switch, FlatList, ActivityIndicator, Image, TouchableOpacity, ScrollView, Linking, Platform, useWindowDimensions, TextInput } from 'react-native';
+import { StyleSheet, Text, View, Switch, FlatList, ActivityIndicator, TouchableOpacity, ScrollView, Linking, Platform, useWindowDimensions, TextInput } from 'react-native';
+import { Image } from 'expo-image';
 import { ThemeProvider, useTheme } from './ThemeContext';
 import { useState, useEffect, useCallback, useMemo, useRef } from 'react';
 import { getAffiliateLinks, extractPrimaryProduct, getThomannLink, getSweetwaterLink } from './affiliateLinks';
@@ -352,7 +353,10 @@ function YouTubeEmbed({ videoId, title, theme }) {
       <Image
         source={{ uri: thumbnailUrl }}
         style={styles.videoThumbnail}
-        resizeMode="cover"
+        contentFit="cover"
+        placeholder={{ blurhash: BLUR_HASH }}
+        transition={300}
+        cachePolicy="memory-disk"
       />
       <View style={styles.playButtonOverlay}>
         <View style={[styles.playButton, { backgroundColor: theme.card }]}>
@@ -513,7 +517,14 @@ function SearchBar({ value, onChange, onFocus, onClear, suggestions, onSelectSug
             >
               <View style={styles.suggestionContent}>
                 {suggestion.image && (
-                  <Image source={{ uri: suggestion.image }} style={styles.suggestionImage} />
+                  <Image 
+                    source={{ uri: suggestion.image }} 
+                    style={styles.suggestionImage}
+                    contentFit="cover"
+                    placeholder={{ blurhash: BLUR_HASH }}
+                    transition={200}
+                    cachePolicy="memory-disk"
+                  />
                 )}
                 <View style={styles.suggestionText}>
                   <Text style={[styles.suggestionTitle, { color: theme.text }]}>{suggestion.name}</Text>
@@ -722,12 +733,15 @@ function FilterBar({ filters, onFilterChange, totalCount, filteredCount, onClear
   );
 }
 
+// Blurhash placeholder for smooth image loading (gray tone matching dark theme)
+const BLUR_HASH = 'L6Pj0^jt.mfQ~qfQfQfQ~qfQfQfQ';
+
 /**
- * ImageWithFallback - Optimized image component with lazy loading support
+ * ImageWithFallback - Optimized image component with expo-image
  * 
  * For Core Web Vitals optimization (LCP, CLS):
  * - Above-fold images: use priority={true} for eager loading
- * - Below-fold images: default lazy loading with decoding="async"
+ * - Below-fold images: automatic lazy loading with blurhash placeholder
  * 
  * @param {Object} props.source - Image source object with uri property
  * @param {Object} props.style - Style object for the image
@@ -750,21 +764,17 @@ function ImageWithFallback({ source, style, accessibilityLabel, priority = false
     }
   }, [hasError]);
 
-  // Web-specific props for lazy loading and priority optimization
-  const webProps = Platform.OS === 'web' ? {
-    loading: priority ? 'eager' : 'lazy',
-    ...(priority && { fetchpriority: 'high' }),
-    decoding: priority ? 'sync' : 'async',
-  } : {};
-
   return (
     <Image
       source={{ uri: imageUri }}
       style={style}
       accessibilityLabel={accessibilityLabel}
       onError={handleError}
-      resizeMode="cover"
-      {...webProps}
+      contentFit="cover"
+      placeholder={{ blurhash: BLUR_HASH }}
+      transition={300}
+      priority={priority ? 'high' : 'low'}
+      cachePolicy="memory-disk"
     />
   );
 }
@@ -1067,7 +1077,9 @@ function SEOHead({ drummer, drummers = [], filters = {} }) {
   return null;
 }
 
-function DrummerCard({ drummer, theme, onPress }) {
+function DrummerCard({ drummer, theme, onPress, index = 0 }) {
+  // First 6 cards are above-fold and get priority loading
+  const isAboveFold = index < 6;
   const cardContent = (
     <View style={styles.cardContent}>
       <View>
@@ -1075,6 +1087,7 @@ function DrummerCard({ drummer, theme, onPress }) {
           source={{ uri: drummer.image }}
           style={styles.cardImage}
           accessibilityLabel={`Photo of ${drummer.name}`}
+          priority={isAboveFold}
         />
       </View>
       <View style={styles.cardText}>
@@ -1660,6 +1673,7 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
             source={{ uri: drummer.image }}
             style={styles.detailImage}
             accessibilityLabel={`Photo of ${drummer.name}`}
+            priority={true}
           />
           <View style={styles.detailHeaderText}>
             <Text style={[styles.detailName, { color: theme.text }]} accessibilityRole="header">{drummer.name}</Text>
@@ -3431,6 +3445,187 @@ function GearByBudgetPage({ theme, onBack, drummers, onSelectDrummer }) {
   );
 }
 
+// Quotes Page - Browse all drummer quotes
+function QuotesPage({ theme, onBack, drummers, onSelectDrummer }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const [searchQuery, setSearchQuery] = useState('');
+  const [selectedDrummerFilter, setSelectedDrummerFilter] = useState(null);
+
+  // Collect all quotes from all drummers
+  const allQuotes = useMemo(() => {
+    const quotes = [];
+    drummers.forEach(drummer => {
+      if (drummer.quotes && drummer.quotes.length > 0) {
+        drummer.quotes.forEach(quote => {
+          quotes.push({
+            ...quote,
+            drummer: drummer,
+          });
+        });
+      }
+    });
+    return quotes;
+  }, [drummers]);
+
+  // Filter quotes by search and drummer
+  const filteredQuotes = useMemo(() => {
+    let results = allQuotes;
+    
+    if (searchQuery) {
+      const query = searchQuery.toLowerCase();
+      results = results.filter(q => 
+        q.text.toLowerCase().includes(query) ||
+        q.drummer.name.toLowerCase().includes(query) ||
+        q.drummer.band.toLowerCase().includes(query) ||
+        (q.source && q.source.toLowerCase().includes(query))
+      );
+    }
+    
+    if (selectedDrummerFilter) {
+      results = results.filter(q => q.drummer.id === selectedDrummerFilter);
+    }
+    
+    return results;
+  }, [allQuotes, searchQuery, selectedDrummerFilter]);
+
+  // Get drummers that have quotes for the filter dropdown
+  const drummersWithQuotes = useMemo(() => {
+    return drummers.filter(d => d.quotes && d.quotes.length > 0);
+  }, [drummers]);
+
+  // Update SEO
+  useEffect(() => {
+    if (Platform.OS === 'web' && typeof document !== 'undefined') {
+      document.title = 'Drummer Quotes - Wisdom from Metal Legends | MetalForge';
+      const setMeta = (name, content, isProperty = false) => {
+        const attr = isProperty ? 'property' : 'name';
+        let meta = document.querySelector(`meta[${attr}="${name}"]`);
+        if (!meta) {
+          meta = document.createElement('meta');
+          meta.setAttribute(attr, name);
+          document.head.appendChild(meta);
+        }
+        meta.setAttribute('content', content);
+      };
+      setMeta('description', 'Browse quotes and wisdom from legendary metal drummers. Insights on drumming, music, and life from the greats.');
+      setMeta('og:title', 'Drummer Quotes | MetalForge', true);
+      setMeta('og:description', 'Wisdom from legendary metal drummers.', true);
+    }
+  }, []);
+
+  return (
+    <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+      <View style={styles.detailContent}>
+        <TouchableOpacity
+          onPress={onBack}
+          style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          accessibilityRole="button"
+          accessibilityLabel="Go back to home"
+        >
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Home</Text>
+        </TouchableOpacity>
+
+        <Text style={[styles.quotesPageTitle, { color: theme.text }]} accessibilityRole="header">
+          💬 Drummer Quotes
+        </Text>
+        <Text style={[styles.quotesPageSubtitle, { color: theme.secondaryText }]}>
+          Wisdom, insights, and memorable words from legendary metal drummers.
+        </Text>
+
+        {/* Search and Filter */}
+        <View style={[styles.quotesFilters, isMobile && styles.quotesFiltersMobile]}>
+          <TextInput
+            style={[styles.quotesSearchInput, { backgroundColor: theme.card, borderColor: theme.border, color: theme.text }]}
+            placeholder="Search quotes..."
+            placeholderTextColor={theme.secondaryText}
+            value={searchQuery}
+            onChangeText={setSearchQuery}
+          />
+          <View style={[styles.quotesDropdown, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <TouchableOpacity
+              onPress={() => setSelectedDrummerFilter(null)}
+              style={[
+                styles.quotesDropdownItem,
+                !selectedDrummerFilter && { backgroundColor: theme.border }
+              ]}
+            >
+              <Text style={[styles.quotesDropdownText, { color: theme.text }]}>All Drummers</Text>
+            </TouchableOpacity>
+            {drummersWithQuotes.slice(0, 10).map(drummer => (
+              <TouchableOpacity
+                key={drummer.id}
+                onPress={() => setSelectedDrummerFilter(drummer.id)}
+                style={[
+                  styles.quotesDropdownItem,
+                  selectedDrummerFilter === drummer.id && { backgroundColor: theme.border }
+                ]}
+              >
+                <Text style={[styles.quotesDropdownText, { color: theme.text }]} numberOfLines={1}>
+                  {drummer.name}
+                </Text>
+              </TouchableOpacity>
+            ))}
+          </View>
+        </View>
+
+        <Text style={[styles.quotesCount, { color: theme.secondaryText }]}>
+          {filteredQuotes.length} quote{filteredQuotes.length !== 1 ? 's' : ''} found
+        </Text>
+
+        {/* Quotes List */}
+        <View style={styles.quotesGrid}>
+          {filteredQuotes.map((quote, index) => (
+            <TouchableOpacity
+              key={`${quote.drummer.id}-${index}`}
+              onPress={() => onSelectDrummer(quote.drummer.id)}
+              style={[styles.quotePageCard, { backgroundColor: theme.card, borderColor: theme.border }]}
+              accessibilityRole="button"
+              accessibilityLabel={`Quote by ${quote.drummer.name}: ${quote.text.substring(0, 50)}...`}
+            >
+              <Text style={[styles.quotePageText, { color: theme.text }]}>
+                "{quote.text}"
+              </Text>
+              <View style={styles.quotePageFooter}>
+                <View style={styles.quotePageDrummer}>
+                  <ImageWithFallback
+                    source={{ uri: quote.drummer.image }}
+                    style={styles.quotePageImage}
+                    accessibilityLabel={`Photo of ${quote.drummer.name}`}
+                  />
+                  <View>
+                    <Text style={[styles.quotePageName, { color: theme.text }]}>
+                      {quote.drummer.name}
+                    </Text>
+                    <Text style={[styles.quotePageBand, { color: theme.secondaryText }]}>
+                      {quote.drummer.band}
+                    </Text>
+                  </View>
+                </View>
+                {quote.source && (
+                  <Text style={[styles.quotePageSource, { color: theme.secondaryText }]}>
+                    — {quote.source}{quote.year ? ` (${quote.year})` : ''}
+                  </Text>
+                )}
+              </View>
+            </TouchableOpacity>
+          ))}
+        </View>
+
+        {filteredQuotes.length === 0 && (
+          <View style={styles.noQuotesContainer}>
+            <Text style={[styles.noQuotesText, { color: theme.secondaryText }]}>
+              {searchQuery || selectedDrummerFilter 
+                ? 'No quotes match your search.' 
+                : 'No quotes available yet.'}
+            </Text>
+          </View>
+        )}
+      </View>
+    </ScrollView>
+  );
+}
+
 function DrummerList({
   theme,
   onSelectDrummer,
@@ -3569,7 +3764,7 @@ function DrummerList({
               drummer={item}
               theme={theme}
               onPress={() => onSelectDrummer(item.id)}
-              priority={index < 4}
+              index={index}
             />
           )}
           contentContainerStyle={styles.listContainer}
@@ -4543,6 +4738,11 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
             <Image
               source={{ uri: topMatch.drummer.image || PLACEHOLDER_IMAGE }}
               style={styles.topMatchImage}
+              contentFit="cover"
+              placeholder={{ blurhash: BLUR_HASH }}
+              transition={300}
+              priority="high"
+              cachePolicy="memory-disk"
             />
             
             <Text style={[styles.topMatchName, { color: theme.text }]}>
@@ -4607,6 +4807,10 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
                   <Image
                     source={{ uri: match.drummer.image || PLACEHOLDER_IMAGE }}
                     style={styles.runnerUpImage}
+                    contentFit="cover"
+                    placeholder={{ blurhash: BLUR_HASH }}
+                    transition={300}
+                    cachePolicy="memory-disk"
                   />
                   <View style={styles.runnerUpInfo}>
                     <Text style={[styles.runnerUpName, { color: theme.text }]}>

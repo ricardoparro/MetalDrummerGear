@@ -3267,6 +3267,8 @@ function GearByBudgetPage({ theme, onBack, drummers, onSelectDrummer }) {
       premium: [],
     };
 
+    if (!drummers || !Array.isArray(drummers)) return tiers;
+    
     drummers.forEach(drummer => {
       const kitCost = calculateKitCost(drummer.gear);
       if (kitCost && kitCost.totalUsd) {
@@ -3454,9 +3456,10 @@ function QuotesPage({ theme, onBack, drummers, onSelectDrummer }) {
 
   // Collect all quotes from all drummers
   const allQuotes = useMemo(() => {
+    if (!drummers || !Array.isArray(drummers)) return [];
     const quotes = [];
     drummers.forEach(drummer => {
-      if (drummer.quotes && drummer.quotes.length > 0) {
+      if (drummer && drummer.quotes && drummer.quotes.length > 0) {
         drummer.quotes.forEach(quote => {
           quotes.push({
             ...quote,
@@ -3491,7 +3494,8 @@ function QuotesPage({ theme, onBack, drummers, onSelectDrummer }) {
 
   // Get drummers that have quotes for the filter dropdown
   const drummersWithQuotes = useMemo(() => {
-    return drummers.filter(d => d.quotes && d.quotes.length > 0);
+    if (!drummers || !Array.isArray(drummers)) return [];
+    return drummers.filter(d => d && d.quotes && d.quotes.length > 0);
   }, [drummers]);
 
   // Update SEO

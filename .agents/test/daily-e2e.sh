@@ -204,12 +204,34 @@ main() {
     exit 1
   fi
   
-  log "✅ E2E Tests PASSED"
+  log "✅ UX Tests PASSED"
+  
+  # Run media validation tests
+  log "🎬 Running Drummer Media Tests..."
+  local media_output=""
+  local media_exit=0
+  
+  media_output=$(node .agents/test/drummer-media-tests.mjs 2>&1) || media_exit=$?
+  
+  echo "$media_output" >> "$LOG_FILE"
+  
+  if [[ $media_exit -ne 0 ]]; then
+    local media_errors=$(echo "$media_output" | grep -E "^✗|→" | head -10 || echo "Media validation failed")
+    
+    file_bug "$media_errors" "$media_output"
+    
+    log "❌ Media Tests FAILED - Bug filed"
+    exit 1
+  fi
+  
+  log "✅ Media Tests PASSED"
   
   # Print summary
   echo ""
   echo "================================"
-  echo "$test_output" | tail -20
+  echo "$test_output" | tail -10
+  echo ""
+  echo "$media_output" | tail -15
 }
 
 main "$@"

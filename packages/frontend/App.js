@@ -4680,18 +4680,8 @@ function DrummerList({
           <Text style={[styles.compareButtonText, { color: theme.text }]}>💬 Quotes</Text>
         </TouchableOpacity>
         <TouchableOpacity
-          onPress={onNavigateToGearByBudget}
-          style={[styles.compareButton, { backgroundColor: '#22c55e', borderColor: '#22c55e' }]}
-          accessibilityRole="button"
-          accessibilityLabel="Browse gear by budget"
-        >
-          <Text style={[styles.compareButtonText, { color: '#ffffff' }]}>💰 Gear by Budget</Text>
-        </TouchableOpacity>
-      </View>
-      <View style={[styles.actionButtonsRow, { marginTop: -8 }]}>
-        <TouchableOpacity
           onPress={onNavigateToGearFinder}
-          style={[styles.quizButton, { backgroundColor: '#8b5cf6', borderColor: '#8b5cf6', flex: 1 }]}
+          style={[styles.quizButton, { backgroundColor: '#8b5cf6', borderColor: '#8b5cf6' }]}
           accessibilityRole="button"
           accessibilityLabel="Search drummers by gear"
         >

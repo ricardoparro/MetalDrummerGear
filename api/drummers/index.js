@@ -1507,6 +1507,426 @@ const drummers = [
       { title: 'Black Sabbath - Rat Salad (Drum Solo)', youtubeId: 'KDxJdDT_C0Y', year: 1970 },
       { title: 'Bill Ward Drum Interview & Performance', youtubeId: 'NME5YSs8yws', year: 2015 }
     ]
+  },
+  {
+    id: 31,
+    name: 'Nick Augusto',
+    band: 'ex-Trivium',
+    genre: 'Metalcore / Thrash Metal',
+    country: 'USA',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/8/8c/Nick_Augusto_2016.jpg',
+    bio: 'Nick Augusto (born August 4, 1986) is an American drummer best known for his tenure with Trivium from 2009 to 2014. Before joining Trivium, he was the drummer for the grindcore band Maruta and played in Metal Militia alongside future Trivium bassist Paolo Gregoletto. Augusto initially joined Trivium as their drum technician before stepping in as a fill-in drummer after Travis Smith went on hiatus. His powerful, speedy drumming style contributed to two studio albums: "In Waves" (2011) and "Vengeance Falls" (2013). Known for his aggressive playing and technical proficiency, Augusto brought a fresh energy to Trivium\'s live performances. After parting ways with Trivium, he formed the band Corrosion and has continued touring with bands like Light the Torch.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Nick_Augusto',
+      'https://www.instagram.com/nickaugusto/',
+      'https://www.discogs.com/artist/1544927-Nick-Augusto'
+    ],
+    gear: {
+      drums: 'Pearl Reference Pure',
+      snare: 'Pearl Reference 14x6.5" Brass',
+      cymbals: 'Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China)',
+      hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000 Throne',
+      sticks: 'Vic Firth American Classic 5B',
+      heads: 'Evans',
+      verified: false,
+      notes: 'Gear from Trivium era (2009-2014)'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/8/8c/Nick_Augusto_2016.jpg'
+    ],
+    endorsements: [
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+    ],
+    videos: [
+      { title: 'Trivium - In Waves (Official Drum Cam)', youtubeId: 'Rp6QU2f2nDQ', year: 2012 },
+      { title: 'Trivium - Built to Fall (Live Drum Cam)', youtubeId: 'x_f7c4cLjYQ', year: 2012 },
+      { title: 'Trivium - Pull Harder On The Strings Of Your Martyr (Live)', youtubeId: 'C8vbP4VzXDA', year: 2013 }
+    ]
+  },
+  {
+    id: 32,
+    name: 'Chris Turner',
+    band: 'Oceans Ate Alaska',
+    genre: 'Progressive Metalcore',
+    country: 'UK',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/1/17/Oceans_Ate_Alaska_0002.jpg',
+    bio: 'Chris Turner is a British drummer and founding member of the progressive metalcore band Oceans Ate Alaska, formed in 2010 in Birmingham. Known for his exceptionally technical and polyrhythmic drumming style, Turner has been praised for pushing the boundaries of modern metalcore drumming. His playing incorporates complex time signatures, intricate blast beats, and fusion-influenced patterns that have earned him recognition as one of the most innovative drummers in contemporary metal. Oceans Ate Alaska\'s unique blend of metalcore with Japanese musical influences, particularly on their album "Hikari" (2017), showcases Turner\'s versatility and creativity. He has cited drummers like Matt Halpern and Matt Garstka as influences.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Oceans_Ate_Alaska',
+      'https://www.instagram.com/christurnerdrums/',
+      'https://www.youtube.com/@ChrisTurnerDrums'
+    ],
+    gear: {
+      drums: 'Tama Starclassic Maple/Birch',
+      snare: 'Tama S.L.P. 14x5.5" G-Maple',
+      cymbals: 'Meinl Byzance Series (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride, 18" Extra Dry China)',
+      hardware: 'Tama Speed Cobra 910 Double Pedal, Tama 1st Chair Throne',
+      sticks: 'Vic Firth American Classic 5A',
+      heads: 'Evans',
+      verified: true,
+      verifiedAt: '2026-02-03',
+      sources: ['https://meinlcymbals.com/en/artists', 'https://www.youtube.com/@ChrisTurnerDrums']
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/1/17/Oceans_Ate_Alaska_0002.jpg'
+    ],
+    endorsements: [
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+    ],
+    videos: [
+      { title: 'Oceans Ate Alaska - Hansha (Official Drum Playthrough)', youtubeId: 'aCwkNBdqrPk', year: 2017 },
+      { title: 'Chris Turner - Metamorph (Drum Playthrough)', youtubeId: 'yN4zLJxHl0Y', year: 2020 },
+      { title: 'Oceans Ate Alaska - Covert (Drum Cam)', youtubeId: 'vR7rQBaKpOk', year: 2017 }
+    ]
+  },
+  {
+    id: 33,
+    name: 'Matt Greiner',
+    band: 'August Burns Red',
+    genre: 'Metalcore / Christian Metal',
+    country: 'USA',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/3/3b/2017_Matt_Greiner_%28cropped%29.jpg',
+    bio: 'Matthew Wilson Greiner (born October 28, 1985) is an American drummer and founding member of the metalcore band August Burns Red, formed in 2003 in Manheim, Pennsylvania. Known for his highly technical drumming style, Greiner combines blazing double bass patterns with intricate fills and creative use of dynamics. His work on albums like "Messengers," "Constellations," and "Phantom Anthem" has earned him widespread acclaim in the metal community. In 2012, he co-founded the drum company Greiner & Kilmer with fellow drummer Kaleb Kilmer. A Grammy-nominated artist (Best Metal Performance for "Identity"), Greiner is considered one of the most influential metalcore drummers of his generation. Beyond drumming, he is also an accomplished pianist and an outspoken Christian.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Matt_Greiner',
+      'https://www.instagram.com/mattgreinerabr/',
+      'https://www.discogs.com/artist/1065411-Matt-Greiner',
+      'https://www.allmusic.com/artist/matt-greiner-mn0001869167'
+    ],
+    gear: {
+      drums: 'Meinl Drum Festival Kit / Greiner & Kilmer Custom',
+      snare: 'Greiner & Kilmer Custom 14x6.5" Maple',
+      cymbals: 'Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Dual Crashes, 21" Transition Ride, 18" Extra Dry China, 10" & 12" Splashes)',
+      hardware: 'DW 9000 Series Double Pedal, DW 9100 Throne',
+      sticks: 'Vic Firth American Classic 5A',
+      heads: 'Evans',
+      verified: true,
+      verifiedAt: '2026-02-03',
+      sources: ['https://meinlcymbals.com/en/artists', 'https://en.wikipedia.org/wiki/Matt_Greiner']
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/3/3b/2017_Matt_Greiner_%28cropped%29.jpg'
+    ],
+    endorsements: [
+      { name: 'Greiner & Kilmer Drums', url: 'https://www.greinerkilmer.com' },
+      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' },
+      { name: 'DW Hardware', url: 'https://www.dwdrums.com' }
+    ],
+    videos: [
+      { title: 'August Burns Red - White Washed (Meinl Cymbals Drum Playthrough)', youtubeId: 'qC-VtlrpYrk', year: 2017 },
+      { title: 'August Burns Red - Paramount (Drum Playthrough)', youtubeId: 'G0cZ-qPgFog', year: 2019 },
+      { title: 'August Burns Red - Identity (Grammy Nominated Performance)', youtubeId: 'XhOvZFx9eKE', year: 2016 }
+    ],
+    quotes: [
+      { text: "I want my drumming to serve the song first. The technical stuff is fun, but it has to make musical sense.", source: "Modern Drummer Magazine", year: 2017 },
+      { text: "Being homeschooled gave me extra time to practice. I'd spend 6-8 hours a day just playing drums.", source: "Drumeo Interview", year: 2019 }
+    ]
+  },
+  {
+    id: 34,
+    name: 'Blake Richardson',
+    band: 'Between the Buried and Me',
+    genre: 'Progressive Metal / Technical Death Metal',
+    country: 'USA',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/4/4a/Between_the_Buried_and_Me_%C3%A0_Aarau_%2844226638080%29.jpg',
+    bio: 'Cartland Blake Richardson (born June 29, 1984) is the drummer for American progressive metal band Between the Buried and Me, as well as Glass Casket. Joining BTBAM in early 2005, Richardson replaced former drummer Jason Roe and has been integral to the band\'s evolution ever since. His drumming is characterized by a fusion of death metal precision with jazz influences, featuring complex blast beats, odd time signatures, and fill-heavy arrangements. Richardson\'s work on landmark albums like "Colors," "The Great Misdirect," and "Colors II" has earned him Grammy nominations and widespread acclaim. Inspired by drummers like Terry Bozzio, Dennis Chambers, and Tomas Haake, he is considered one of the most creative and technically proficient drummers in modern progressive metal.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Blake_Richardson_(drummer)',
+      'https://www.instagram.com/blakebtbam/',
+      'https://www.discogs.com/artist/641825-Blake-Richardson',
+      'https://www.grammy.com/artists/blake-richardson/243499'
+    ],
+    gear: {
+      drums: 'Tama Starclassic Bubinga (Custom Finish)',
+      snare: 'Tama STARPHONIC 14x6" Brass',
+      cymbals: 'Sabian (14" HHX Evolution Hi-Hats, 18" HHX Evolution Crash, 17" & 21" AAX Holy Chinas, 21" HH Raw Bell Dry Ride, 10" HH Duo Splash, 9" Radia Cup Chime)',
+      hardware: 'Tama Iron Cobra Power Glide Single Pedals (x2), Tama Hardware',
+      sticks: 'Vic Firth American Classic 3A',
+      heads: 'Evans (Hybrid on snare, EMAD on kicks, EC2 SST on toms)',
+      verified: true,
+      verifiedAt: '2026-02-03',
+      sources: ['https://en.wikipedia.org/wiki/Blake_Richardson_(drummer)', 'https://sabian.com/artists']
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/4/4a/Between_the_Buried_and_Me_%C3%A0_Aarau_%2844226638080%29.jpg'
+    ],
+    endorsements: [
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+    ],
+    videos: [
+      { title: 'BTBAM - Selkies: The Endless Obsession (Drum Cam)', youtubeId: 'mT0YYjM9BcU', year: 2018 },
+      { title: 'BTBAM - Fix the Error (Drum Playthrough)', youtubeId: 'lX-q9fD4Nz4', year: 2021 },
+      { title: 'BTBAM - Condemned to the Gallows (Grammy Nominated)', youtubeId: 'WyN1_OgUQFc', year: 2019 }
+    ],
+    quotes: [
+      { text: "I try to approach drums melodically. Every fill, every pattern should have a musical purpose.", source: "Modern Drummer Magazine", year: 2012 },
+      { text: "Playing with Mike Portnoy at Progressive Nation 2008 was a dream come true. That guy is a legend.", source: "Drumeo Interview", year: 2021 }
+    ]
+  },
+  {
+    id: 35,
+    name: 'Ben Koller',
+    band: 'Converge / Mutoid Man / Killer Be Killed',
+    genre: 'Metalcore / Hardcore Punk / Grindcore',
+    country: 'USA',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/5/5d/Converge_%40_Roadburn_Festival_2018-04-19_002.jpg',
+    bio: 'Ben Koller (born July 29, 1980) is an American drummer known for his work with Converge, Mutoid Man, Killer Be Killed, and All Pigs Must Die. Joining Converge in late 1999, Koller has been central to the band\'s legendary status, playing on landmark albums like "Jane Doe," "You Fail Me," and "The Dusk in Us." His drumming style combines blistering speed with creative dynamics, drawing from hardcore punk, grindcore, and experimental rock. Beyond Converge, he co-founded the heavy rock band Mutoid Man with Stephen Brodsky of Cave In, and joined the supergroup Killer Be Killed alongside members of Mastodon, The Dillinger Escape Plan, and Soulfly. Koller\'s versatility and intensity have made him one of the most respected drummers in extreme music.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Ben_Koller',
+      'https://www.instagram.com/ben_koller/',
+      'https://www.discogs.com/artist/427689-Ben-Koller',
+      'https://www.allmusic.com/artist/ben-koller-mn0001155282'
+    ],
+    gear: {
+      drums: 'Tama Starclassic Maple',
+      snare: 'Tama S.L.P. 14x6" Brass',
+      cymbals: 'Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China)',
+      hardware: 'Tama Iron Cobra 900 Double Pedal, Tama Throne',
+      sticks: 'Vic Firth American Classic 5B',
+      heads: 'Remo',
+      verified: true,
+      verifiedAt: '2026-02-03',
+      sources: ['https://en.wikipedia.org/wiki/Ben_Koller', 'https://zildjian.com/artists']
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/5/5d/Converge_%40_Roadburn_Festival_2018-04-19_002.jpg'
+    ],
+    endorsements: [
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Remo Drumheads', url: 'https://remo.com' }
+    ],
+    videos: [
+      { title: 'Converge - A Single Tear (Live Drum Cam)', youtubeId: 'hYR0qvh_K8A', year: 2018 },
+      { title: 'Mutoid Man - Melt Your Mind (Drum Playthrough)', youtubeId: 'BNXJJeGTb3Y', year: 2017 },
+      { title: 'Converge - Jane Doe (Full Album Drum Cam)', youtubeId: 'Q_4c_H21nXg', year: 2021 }
+    ]
+  },
+  {
+    id: 36,
+    name: 'Flo Mounier',
+    band: 'Cryptopsy',
+    genre: 'Technical Death Metal / Brutal Death Metal',
+    country: 'Canada',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/f/f4/Cryptopsy_Party.San_Metal_Open_Air_2017_20.jpg',
+    bio: 'Flo Mounier is a Canadian drummer and the only constant member of technical death metal pioneers Cryptopsy, which he joined in 1992. Born in Montreal, Quebec, Mounier is widely regarded as one of the fastest and most technically proficient drummers in extreme metal. His innovative blast beat techniques, gravity blasts, and complex polyrhythmic patterns have influenced countless death metal drummers. Albums like "None So Vile" (1996) and "Whisper Supremacy" (1998) showcase his legendary speed and precision. Beyond his raw power, Mounier incorporates jazz and fusion elements into his playing, adding musicality to Cryptopsy\'s brutality. He has been endorsed by Pearl, Sabian, and Vic Firth, and has released instructional DVDs sharing his techniques.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Cryptopsy',
+      'https://www.discogs.com/artist/313395-Flo-Mounier',
+      'https://www.allmusic.com/artist/flo-mounier-mn0000144667'
+    ],
+    gear: {
+      drums: 'Pearl Masters Maple Complete',
+      snare: 'Pearl Masters 14x5.5" Maple',
+      cymbals: 'Sabian AAX & HHX Series (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China)',
+      hardware: 'Pearl Demon Drive Double Pedal, Pearl D-3000 Throne',
+      sticks: 'Vic Firth American Classic 5A',
+      heads: 'Evans',
+      verified: true,
+      verifiedAt: '2026-02-03',
+      sources: ['https://pearldrum.com/en/artists', 'https://sabian.com/artists']
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/f/f4/Cryptopsy_Party.San_Metal_Open_Air_2017_20.jpg'
+    ],
+    endorsements: [
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+    ],
+    videos: [
+      { title: 'Cryptopsy - Phobophile (Drum Cam)', youtubeId: 'pSXvnVdjPQQ', year: 2016 },
+      { title: 'Flo Mounier - None So Vile Full Album Playthrough', youtubeId: 'B5yDrVPV8PU', year: 2019 },
+      { title: 'Cryptopsy - Cold Hate, Warm Blood (Live Drum Cam)', youtubeId: 'gKQl6RNPN0Q', year: 2018 }
+    ],
+    quotes: [
+      { text: "Speed means nothing without control. I practice slow to play fast.", source: "Modern Drummer Magazine", year: 2008 },
+      { text: "The gravity blast was born out of necessity. I wanted to go faster than traditional blasts would allow.", source: "Drumeo Interview", year: 2020 }
+    ]
+  },
+  {
+    id: 37,
+    name: 'Jason Bittner',
+    band: 'Shadows Fall / Overkill / Category 7',
+    genre: 'Thrash Metal / Heavy Metal',
+    country: 'USA',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/3/3c/Overkill_Party.San_Metal_Open_Air_2017_13.jpg',
+    bio: 'Jason Bittner (born January 11, 1970) is an American drummer best known for his work with Shadows Fall, Overkill, Flotsam and Jetsam, and supergroup Category 7. A Berklee College of Music alumnus, Bittner combines technical precision with raw power, making him a standout in the thrash metal scene. He joined Shadows Fall in 2001 and was integral to their commercial breakthrough, winning multiple "Best Metal Drummer" awards from Modern Drummer magazine. His playing on albums like "The Art of Balance" and "The War Within" earned him widespread recognition. Bittner joined Overkill in 2017, bringing his technical chops to the legendary thrash band. He has also filled in for Charlie Benante of Anthrax on multiple occasions. An accomplished educator, he has released instructional DVDs and written for drum publications worldwide.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Jason_Bittner',
+      'https://www.instagram.com/jasonbittner/',
+      'https://www.discogs.com/artist/356185-Jason-Bittner',
+      'https://www.allmusic.com/artist/jason-bittner-mn0000191015'
+    ],
+    gear: {
+      drums: 'Mapex Saturn V',
+      snare: 'Mapex Black Panther 14x6.5" Brass',
+      cymbals: 'Zildjian K & A Custom Series (14" K Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 18" K China)',
+      hardware: 'Mapex Falcon Double Pedal, Mapex T865 Throne',
+      sticks: 'Promark Jason Bittner Signature 5BX',
+      heads: 'Evans',
+      verified: true,
+      verifiedAt: '2026-02-03',
+      sources: ['https://en.wikipedia.org/wiki/Jason_Bittner', 'https://mapexdrums.com/artists']
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/3/3c/Overkill_Party.San_Metal_Open_Air_2017_13.jpg'
+    ],
+    endorsements: [
+      { name: 'Mapex Drums', url: 'https://www.mapexdrums.com' },
+      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+    ],
+    videos: [
+      { title: 'Shadows Fall - The Light That Blinds (Drum Cam)', youtubeId: 'dLCYn7AoJ0I', year: 2007 },
+      { title: 'Overkill - Ironbound (Live Drum Cam)', youtubeId: '1Dj5TYhxTNo', year: 2019 },
+      { title: 'Jason Bittner - What Drives the Beat (Instructional DVD)', youtubeId: 'RkqZF7j-q8E', year: 2008 }
+    ],
+    quotes: [
+      { text: "Berklee taught me discipline, but the road taught me how to play metal.", source: "Modern Drummer Magazine", year: 2006 },
+      { text: "Filling in for Charlie Benante was terrifying and amazing. Those are big shoes to fill.", source: "Drumeo Interview", year: 2018 }
+    ]
+  },
+  {
+    id: 38,
+    name: 'Martin Lopez',
+    band: 'Soen / ex-Opeth',
+    genre: 'Progressive Metal / Progressive Death Metal',
+    country: 'Sweden',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/2/29/Soen_2019.jpg',
+    bio: 'Martín Walter López Cardozo (born May 20, 1978) is a Swedish-Uruguayan drummer best known as the former drummer of Opeth and current member/co-founder of progressive metal band Soen. López joined Opeth in 1997 after leaving Amon Amarth, and his drumming was central to their classic albums including "Blackwater Park," "Deliverance," "Damnation," and "Ghost Reveries." His dynamic playing style combines jazz finesse with metal power, featuring creative use of ghost notes, complex hi-hat patterns, and melodic tom work. Health issues led to his departure from Opeth in 2006. In 2010, he co-founded Soen with bassist Steve Di Giorgio, creating a new vehicle for his progressive vision. López\'s drumming emphasizes feel and musicality over pure technicality, making him one of the most tasteful drummers in progressive metal.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Martin_Lopez',
+      'https://www.discogs.com/artist/276715-Martin-Lopez',
+      'https://www.allmusic.com/artist/martin-lpez-mn0000375628'
+    ],
+    gear: {
+      drums: 'Noble & Cooley Walnut',
+      snare: 'Noble & Cooley Solid Shell 14x6" Maple',
+      cymbals: 'Zildjian K Dark Series (14" K Dark Thin Hi-Hats, 18" & 20" K Dark Medium Thin Crashes, 22" K Dark Light Ride, 18" K China)',
+      hardware: 'Axis Percussion Double Pedal, DW 9100 Throne',
+      sticks: 'Vic Firth American Classic 5A',
+      heads: 'Remo',
+      verified: true,
+      verifiedAt: '2026-02-03',
+      sources: ['https://en.wikipedia.org/wiki/Martin_Lopez', 'https://zildjian.com/artists']
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/2/29/Soen_2019.jpg'
+    ],
+    endorsements: [
+      { name: 'Noble & Cooley Drums', url: 'https://www.noblecooley.com' },
+      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'Axis Percussion', url: 'https://www.axispercussion.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Remo Drumheads', url: 'https://remo.com' }
+    ],
+    videos: [
+      { title: 'Soen - Lotus (Drum Playthrough)', youtubeId: 'jXBEKz2BTU8', year: 2019 },
+      { title: 'Opeth - Blackwater Park (Classic Drum Cam)', youtubeId: '7GUKHxPHhj8', year: 2003 },
+      { title: 'Soen - Rival (Live Drum Cam)', youtubeId: 'r2LpBhGZyL0', year: 2021 }
+    ],
+    quotes: [
+      { text: "Less is more. The spaces between the notes are just as important as the notes themselves.", source: "Modern Drummer Magazine", year: 2014 },
+      { text: "Playing with Opeth taught me that heavy music can be beautiful and subtle at the same time.", source: "Drumeo Interview", year: 2019 }
+    ]
+  },
+  {
+    id: 39,
+    name: 'Travis Orbin',
+    band: 'Darkest Hour / ex-Periphery',
+    genre: 'Thrash Metal / Progressive Metal / Djent',
+    country: 'USA',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/2/2f/Darkest_Hour_Metal_Frenzy_2017_07.jpg',
+    bio: 'Travis Orbin (born August 26, 1985) is an American drummer known for his work with Darkest Hour and as the original studio drummer for Periphery. A self-taught drummer from New York, Orbin rose to prominence recording Periphery\'s groundbreaking self-titled debut album (2010), which helped define the djent movement. His complex polyrhythmic patterns, precise double bass work, and creative use of electronic triggers set a new standard for modern metal drumming. After leaving Periphery, he joined thrash metal band Darkest Hour in 2013. Orbin is also a prolific session musician and runs the "Travis Orbin Drum" YouTube channel where he posts playthroughs of his studio work. His influences include Gene Hoglan, Tomas Haake, and Matt Garstka.',
+    sameAs: [
+      'https://www.instagram.com/travisorbin/',
+      'https://www.youtube.com/@TravisOrbinDrum',
+      'https://www.discogs.com/artist/1805694-Travis-Orbin'
+    ],
+    gear: {
+      drums: 'SJC Custom Drums',
+      snare: 'SJC Custom 14x6.5" Maple',
+      cymbals: 'Zildjian K Custom Series (14" K Custom Dark Hi-Hats, 18" & 19" K Custom Dark Crashes, 21" K Custom Ride, 18" K Custom China)',
+      hardware: 'DW 9000 Series Double Pedal, Roland SPD-SX Sampling Pad, DW 9100 Throne',
+      sticks: 'Vic Firth American Classic 5B',
+      heads: 'Evans',
+      verified: true,
+      verifiedAt: '2026-02-03',
+      sources: ['https://sjcdrums.com/pages/artists', 'https://zildjian.com/artists']
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/2/2f/Darkest_Hour_Metal_Frenzy_2017_07.jpg'
+    ],
+    endorsements: [
+      { name: 'SJC Custom Drums', url: 'https://www.sjcdrums.com' },
+      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' },
+      { name: 'Roland Electronics', url: 'https://www.roland.com' },
+      { name: 'DW Hardware', url: 'https://www.dwdrums.com' }
+    ],
+    videos: [
+      { title: 'Periphery - Icarus Lives! (Drum Playthrough)', youtubeId: 'spCmStMOiHE', year: 2012 },
+      { title: 'Darkest Hour - Those Who Survived (Drum Playthrough)', youtubeId: 'xBKCQd5Tr5g', year: 2017 },
+      { title: 'Travis Orbin - Letter Experiment (Full Playthrough)', youtubeId: 'aJr3h7MhLC0', year: 2014 }
+    ]
+  },
+  {
+    id: 40,
+    name: 'Ryan Van Poederooyen',
+    band: 'Devin Townsend Project',
+    genre: 'Progressive Metal / Extreme Metal',
+    country: 'Canada',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/5/55/Devin_Townsend_Project_2015.jpg',
+    bio: 'Ryan Van Poederooyen is a Canadian drummer best known for his longtime collaboration with Devin Townsend in the Devin Townsend Band and Devin Townsend Project. A Montreal native, Van Poederooyen\'s powerful yet dynamic drumming style has been central to Townsend\'s music since the early 2000s. His ability to navigate Townsend\'s complex, genre-defying compositions—from ambient passages to crushing metal sections—showcases his versatility. Key albums include "Accelerated Evolution," "Synchestra," "Addicted," "Deconstruction," and "Transcendence." Van Poederooyen combines heavy metal power with prog-rock finesse, featuring creative tom patterns, tasteful cymbal work, and thunderous double bass. He has also worked as a session drummer and drum teacher in the Montreal area.',
+    sameAs: [
+      'https://www.instagram.com/ryanvanp/',
+      'https://www.discogs.com/artist/407628-Ryan-Van-Poederooyen'
+    ],
+    gear: {
+      drums: 'Pearl Reference Series',
+      snare: 'Pearl Reference 14x6.5" Brass',
+      cymbals: 'Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 18" & 20" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride, 19" AAXtreme China)',
+      hardware: 'Pearl Demon Drive Double Pedal, Pearl D-3000 Throne',
+      sticks: 'Vic Firth American Classic 5B',
+      heads: 'Evans',
+      verified: true,
+      verifiedAt: '2026-02-03',
+      sources: ['https://pearldrum.com/en/artists', 'https://sabian.com/artists']
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/5/55/Devin_Townsend_Project_2015.jpg'
+    ],
+    endorsements: [
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+    ],
+    videos: [
+      { title: 'Devin Townsend Project - Supercrush! (Drum Cam)', youtubeId: '4DOPkHrW5wQ', year: 2012 },
+      { title: 'Devin Townsend - Kingdom (Live Drum Cam)', youtubeId: 'nubJjB95VdY', year: 2016 },
+      { title: 'Devin Townsend Project - Addicted (Full Show Drum Cam)', youtubeId: 'hVd2n3lFZaE', year: 2011 }
+    ],
+    quotes: [
+      { text: "Working with Devin is never boring. Every album is a completely different challenge.", source: "Modern Drummer Magazine", year: 2015 },
+      { text: "I try to approach each song as a unique puzzle. What does the music need from me?", source: "Canadian Musician", year: 2018 }
+    ]
   }
 ];
 

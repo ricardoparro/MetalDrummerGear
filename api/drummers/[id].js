@@ -1120,6 +1120,307 @@ const drummers = [
       { title: 'Trivium - Beyond Oblivion (Alex Bent Drum Playthrough)', youtubeId: 'nUYwI9V0wMw', year: 2017 },
       { title: 'Trivium - The Phalanx (Alex Bent Drum Playthrough @ The Hangar)', youtubeId: 'el8BntKgzYk', year: 2023 }
     ]
+  },
+  {
+    id: 31,
+    name: 'Nick Augusto',
+    band: 'ex-Trivium / Corrosion',
+    genre: 'Metalcore / Thrash Metal',
+    country: 'USA',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/0/06/Nick_Augusto_2016.jpg',
+    bio: 'Nick Augusto (born August 4, 1986) is an American drummer best known for his tenure with Trivium from 2009 to 2014. Originally the band\'s drum technician, he stepped up to fill in for founding drummer Travis Smith and eventually became the full-time drummer. His speedy, aggressive style was perfect for Trivium\'s thrash-influenced metalcore. Augusto recorded two studio albums with Trivium: "In Waves" (2011) and "Vengeance Falls" (2013). Before Trivium, he played in the Florida grindcore band Maruta and Metal Militia with Trivium bassist Paolo Gregoletto. After leaving Trivium in 2014, he formed Corrosion and later toured as the drummer for Light the Torch (2016-2017).',
+    gear: {
+      drums: 'Pearl Reference Series',
+      snare: 'Pearl Reference 14x6.5" Brass',
+      cymbals: 'Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAX Chinese)',
+      hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000 Throne',
+      sticks: 'Vic Firth American Classic 5B'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/0/06/Nick_Augusto_2016.jpg'
+    ],
+    endorsements: [
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+    ],
+    videos: [
+      { title: 'Trivium - In Waves (Drum Cam)', youtubeId: 'QV0ysKPuNvI', year: 2012 },
+      { title: 'Trivium - Strife (Official Video)', youtubeId: 'rQVhH3CQKqU', year: 2013 },
+      { title: 'Nick Augusto Drum Solo (Trivium)', youtubeId: 'MK_Qj3wXSIA', year: 2012 }
+    ]
+  },
+  {
+    id: 32,
+    name: 'Matt Greiner',
+    band: 'August Burns Red',
+    genre: 'Metalcore / Christian Metal',
+    country: 'USA',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/1/1e/2017_Matt_Greiner_%28cropped%29.jpg',
+    bio: 'Matthew Wilson Greiner (born October 28, 1985) is a founding member and drummer of Grammy-nominated metalcore band August Burns Red. Known for his technical proficiency, complex fills, and dynamic playing style, Greiner has been a driving force behind ABR\'s sound since their formation in 2003 in his basement. He co-founded the drum company Greiner & Kilmer in 2012. An outspoken Christian, Greiner is considered one of the most influential drummers in the Christian metal and metalcore genres. August Burns Red\'s "Identity" was nominated for a Grammy for Best Metal Performance. He also plays piano and has contributed keyboards to ABR\'s recordings.',
+    gear: {
+      drums: 'Meinl Cymbals & Greiner Kilmer Drums',
+      snare: 'Greiner Kilmer 14x6.5" Maple',
+      cymbals: 'Meinl Byzance Series (15" Dark Hi-Hats, 18" & 19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China, 10" Splash)',
+      hardware: 'DW 9000 Series Double Pedal, DW Throne',
+      sticks: 'Vic Firth American Classic 5B'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/1/1e/2017_Matt_Greiner_%28cropped%29.jpg'
+    ],
+    endorsements: [
+      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+      { name: 'Greiner Kilmer Drums', url: 'https://greinerkilmer.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' },
+      { name: 'DW Hardware', url: 'https://www.dwdrums.com' }
+    ],
+    videos: [
+      { title: 'August Burns Red - White Washed (Drum Playthrough)', youtubeId: 'qxMUk0MmHWo', year: 2019 },
+      { title: 'Matt Greiner - Meinl Cymbals Session', youtubeId: 'nXRxBwsj6WE', year: 2018 },
+      { title: 'August Burns Red - Identity (Drum Cam)', youtubeId: 'V8jlX6qFyLs', year: 2017 }
+    ]
+  },
+  {
+    id: 33,
+    name: 'Blake Richardson',
+    band: 'Between the Buried and Me',
+    genre: 'Progressive Metal / Technical Death Metal',
+    country: 'USA',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6b/Between_the_Buried_and_Me_%C3%A0_Aarau_%2844226638080%29.jpg',
+    bio: 'Cartland Blake Richardson (born June 29, 1984) is the drummer for progressive metal titans Between the Buried and Me, joining in 2005. His drumming is characterized by a fusion of death metal blast beats, jazz influences, odd time signatures, and fill-heavy style. Richardson\'s work on albums like "Colors" (2007), "The Parallax" duology, and "Automata" has earned him widespread recognition as one of the most technically accomplished drummers in progressive metal. He also drums for Glass Casket. Nominated for a Grammy Award for Best Metal Performance for "Condemned to the Gallows." His influences include Terry Bozzio, Dennis Chambers, Dave Weckl, Morgan Ågren, and Tomas Haake.',
+    gear: {
+      drums: 'Tama Starclassic Bubinga (Custom Finish, 2x 22"x14" Kicks, 10"x6.5", 12"x7", 14"x14", 16"x14" Toms, 20"x14" Gong Bass)',
+      snare: 'Tama STARPHONIC Brass 14x6"',
+      cymbals: 'Sabian (9" Radia Cup Chime, 10" HH Duo Splash, 14" HHX Evolution Hi-Hats, 17" AAX X-treme China, 18" HHX Evolution Crash, 19" AAX Holy China, 21" HH Raw Bell Dry Ride, 21" AA Holy China, 12" Chopper)',
+      hardware: 'Tama Iron Cobra Power Glide Single Pedals, Tama Hardware',
+      sticks: 'Vic Firth 3A'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/6/6b/Between_the_Buried_and_Me_%C3%A0_Aarau_%2844226638080%29.jpg'
+    ],
+    endorsements: [
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+    ],
+    videos: [
+      { title: 'Between the Buried and Me - Selkies: The Endless Obsession (Drum Cam)', youtubeId: 'nXPT3xW3mDI', year: 2019 },
+      { title: 'BTBAM - The Coma Machine (Drum Playthrough)', youtubeId: 'PH7woLKk0JA', year: 2015 },
+      { title: 'Blake Richardson Drum Solo (Progressive Nation 2008)', youtubeId: 'KiLhG5X91bo', year: 2008 }
+    ]
+  },
+  {
+    id: 34,
+    name: 'Ben Koller',
+    band: 'Converge / Mutoid Man / Killer Be Killed',
+    genre: 'Hardcore / Metalcore / Heavy Metal',
+    country: 'USA',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/5/52/Converge_%40_Roadburn_Festival_2018-04-19_002.jpg',
+    bio: 'Ben Koller (born July 29, 1980) is an American drummer known for his work with influential hardcore band Converge since 1999, as well as Mutoid Man, Killer Be Killed, and All Pigs Must Die. His drumming on Converge\'s landmark album "Jane Doe" (2001) is considered a defining moment in hardcore and metalcore. Koller\'s style combines blistering speed, chaotic energy, and dynamic control. He has also contributed to recordings by Cave In, The Armed, and Carpenter Brut. His ability to seamlessly move between hardcore punk aggression and more melodic, groove-oriented playing has made him one of the most respected drummers in heavy music.',
+    gear: {
+      drums: 'Sonor SQ2',
+      snare: 'Sonor SQ2 14x5.5" Brass',
+      cymbals: 'Zildjian A Custom & K Series (14" K Custom Dark Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 18" A Custom China)',
+      hardware: 'DW 9000 Series Double Pedal, DW Throne',
+      sticks: 'Vic Firth American Classic 5B'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/5/52/Converge_%40_Roadburn_Festival_2018-04-19_002.jpg'
+    ],
+    endorsements: [
+      { name: 'Sonor Drums', url: 'https://www.sonor.com' },
+      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Remo Drumheads', url: 'https://remo.com' }
+    ],
+    videos: [
+      { title: 'Converge - Jane Doe (Live Drum Cam)', youtubeId: 'G_Gsa7OqH3k', year: 2019 },
+      { title: 'Mutoid Man - Melt Your Mind (Drum Playthrough)', youtubeId: 'yYd8_RYHxPs', year: 2017 },
+      { title: 'Converge - All We Love We Leave Behind (Live)', youtubeId: 'pXrqV4T_cEI', year: 2013 }
+    ]
+  },
+  {
+    id: 35,
+    name: 'Flo Mounier',
+    band: 'Cryptopsy',
+    genre: 'Technical Death Metal / Brutal Death Metal',
+    country: 'Canada',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/9/9a/Cryptopsy_Party.San_Metal_Open_Air_2017_20.jpg',
+    bio: 'Flo Mounier is a Canadian drummer and the only constant member of influential technical death metal band Cryptopsy since joining in 1992 (originally known as Necrosis). His work on landmark albums like "None So Vile" (1996) and "Whisper Supremacy" (1998) set new standards for extreme metal drumming. Mounier is renowned for his incredible speed, precision, and ability to incorporate jazz and fusion elements into brutal death metal. His innovative approach to blast beats, gravity blasts, and complex polyrhythmic patterns has influenced countless extreme metal drummers. He is also an accomplished drum educator.',
+    gear: {
+      drums: 'Tama Starclassic Maple',
+      snare: 'Tama S.L.P. 14x6.5" Bronze',
+      cymbals: 'Sabian AAX & HHX Series (14" HHX Evolution Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAX Chinese)',
+      hardware: 'Tama Speed Cobra Double Pedal, Tama 1st Chair Throne',
+      sticks: 'Vic Firth American Classic 5B'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/9/9a/Cryptopsy_Party.San_Metal_Open_Air_2017_20.jpg'
+    ],
+    endorsements: [
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+    ],
+    videos: [
+      { title: 'Cryptopsy - Phobophile (Drum Cam)', youtubeId: '5sWMcSHHSUw', year: 2018 },
+      { title: 'Flo Mounier - Extreme Drumming Tutorial', youtubeId: 'OJ4KqCKgp38', year: 2016 },
+      { title: 'Cryptopsy - Slit Your Guts (Live)', youtubeId: 'l2kh6L_KY8g', year: 2019 }
+    ]
+  },
+  {
+    id: 36,
+    name: 'Paul Mazurkiewicz',
+    band: 'Cannibal Corpse',
+    genre: 'Death Metal',
+    country: 'USA',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/3/3b/Cannibal_Corpse_-_2024275214539_2024-10-01_Cannibal_Corpse_-_Sven_-_1D_X_MK_II_-_1326_-_AK8I0150_%28cropped%29.jpg',
+    bio: 'Paul Mazurkiewicz Jr. (born September 8, 1968) is a founding member and drummer of legendary death metal band Cannibal Corpse since 1988. Along with bassist Alex Webster, he is one of two remaining original members. Mazurkiewicz developed his craft by emulating Pete Sandoval of Morbid Angel and cites Dave Lombardo as his biggest influence. Beyond drumming, he plays guitar and is the band\'s primary lyricist, composing songs like "Frantic Disembowelment" and "Dead Human Collection." A self-taught drummer, he spray-painted his first drum kit black because it "wasn\'t metal enough." He also co-founded the 70s-style hard rock project Umbilicus and plays in crossover thrash band Heaven\'s Gate with Municipal Waste\'s Tony Foresta.',
+    gear: {
+      drums: 'Pearl Masters Premium',
+      snare: 'Pearl Masters 14x6.5" Maple',
+      cymbals: 'Zildjian A Custom Series (14" A Custom Mastersound Hi-Hats, 18" & 19" A Custom Crashes, 21" A Custom Ride, 18" A Custom China)',
+      hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000 Throne',
+      sticks: 'Vic Firth American Classic 5B'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/3/3b/Cannibal_Corpse_-_2024275214539_2024-10-01_Cannibal_Corpse_-_Sven_-_1D_X_MK_II_-_1326_-_AK8I0150_%28cropped%29.jpg'
+    ],
+    endorsements: [
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+    ],
+    videos: [
+      { title: 'Cannibal Corpse - Hammer Smashed Face (Live Drum Cam)', youtubeId: 'xyRhUC0Xfag', year: 2014 },
+      { title: 'Cannibal Corpse - Stripped, Raped and Strangled (Live)', youtubeId: 'z9XpCOT8VhE', year: 2019 },
+      { title: 'Paul Mazurkiewicz - Zildjian Sound Legacy', youtubeId: 'xyRhUC0Xfag', year: 2014 }
+    ]
+  },
+  {
+    id: 37,
+    name: 'Dirk Verbeuren',
+    band: 'Megadeth / ex-Soilwork',
+    genre: 'Thrash Metal / Melodic Death Metal',
+    country: 'Belgium',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/0/09/Megadeth_-_Wacken_Open_Air_2023_01_%28cropped%29.jpg',
+    bio: 'Dirk Verbeuren (born January 8, 1975) is a Belgian drummer who joined thrash metal legends Megadeth in 2016 after 12 years with Swedish melodic death metal band Soilwork. His precision, speed, and versatility have made him one of the most sought-after drummers in extreme metal. With Megadeth, he recorded "The Sick, the Dying... and the Dead!" (2022). Verbeuren has worked with numerous bands including Scarve, Bent Sea, Aborted, and The Project Hate MCMXCIX. He cites Dave Lombardo and Gene Hoglan among his major influences. He is also a prolific session musician and has created MIDI drum packs for Toontrack. Verbeuren is vegan.',
+    gear: {
+      drums: 'Tama Starclassic Walnut/Birch',
+      snare: 'Tama S.L.P. 14x6.5" G-Maple',
+      cymbals: 'Meinl Byzance Series (15" Byzance Dark Hi-Hats, 18" & 19" Byzance Brilliant Heavy Hammered Crashes, 21" Byzance Transition Ride, 18" Byzance Extra Dry China)',
+      hardware: 'Tama Speed Cobra Double Pedal, Tama 1st Chair Throne',
+      sticks: 'Tama Dirk Verbeuren Signature'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/0/09/Megadeth_-_Wacken_Open_Air_2023_01_%28cropped%29.jpg'
+    ],
+    endorsements: [
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+      { name: 'Tama Drumsticks', url: 'https://www.tama.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' },
+      { name: 'Toontrack', url: 'https://www.toontrack.com' }
+    ],
+    videos: [
+      { title: 'Megadeth - Hangar 18 (Dirk Verbeuren Drum Cam)', youtubeId: 'tJXKFSCjWy8', year: 2023 },
+      { title: 'Megadeth - Holy Wars (Live Drum Cam)', youtubeId: 'xP9aQP0bkEQ', year: 2022 },
+      { title: 'Dirk Verbeuren - Meinl Cymbals Performance', youtubeId: 'DyBfLvN5v4k', year: 2019 }
+    ]
+  },
+  {
+    id: 38,
+    name: 'Abe Cunningham',
+    band: 'Deftones',
+    genre: 'Alternative Metal / Nu Metal / Post-Metal',
+    country: 'USA',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/1/1a/Deftones_-_Rock_am_Ring_2016_-2016156214257_2016-06-04_Rock_am_Ring_-_Sven_-_1D_X_-_0105_-_DV3P9764_mod.jpg',
+    bio: 'Abraham Benjamin Cunningham (born July 27, 1973) is the drummer for alternative metal pioneers Deftones since 1988. Known for his frantic, pounding rhythms and clever usage of tempo, Cunningham notably refuses to indulge in the double bass drum setup common in metal, creating his signature sound through single kick creativity. A BBC reviewer praised his style for displaying "the assured expressiveness of a musician whose abilities stretch further than most metal-scene sticksmen." His influences include Stewart Copeland, Ginger Baker, and Mitch Mitchell. Cunningham has been a long-time endorser of Tama Drums and Zildjian Cymbals, and revealed his Vater "Cool Breeze" signature sticks at NAMM 2017.',
+    gear: {
+      drums: 'Tama Starclassic Maple',
+      snare: 'Tama S.L.P. 14x6" G-Maple',
+      cymbals: 'Zildjian (14" K Custom Dark Hi-Hats, 18" & 19" K Custom Dark Crashes, 21" K Custom Ride, 18" A Custom China)',
+      hardware: 'Tama Iron Cobra Single Pedal, Tama 1st Chair Throne',
+      sticks: 'Vater Abe Cunningham "Cool Breeze" Signature'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/1/1a/Deftones_-_Rock_am_Ring_2016_-2016156214257_2016-06-04_Rock_am_Ring_-_Sven_-_1D_X_-_0105_-_DV3P9764_mod.jpg'
+    ],
+    endorsements: [
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'Vater Drumsticks', url: 'https://www.vater.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+    ],
+    videos: [
+      { title: 'Deftones - My Own Summer (Shove It) (Live Drum Cam)', youtubeId: 'KvknOXGPzCQ', year: 2017 },
+      { title: 'Deftones - Change (In the House of Flies) (Live)', youtubeId: 'WPpDyIJdasg', year: 2018 },
+      { title: 'Abe Cunningham - Zildjian Sound Legacy', youtubeId: 'X7wSL-6Xw_k', year: 2011 }
+    ]
+  },
+  {
+    id: 39,
+    name: 'Jean-Paul Gaster',
+    band: 'Clutch / The Bakerton Group',
+    genre: 'Hard Rock / Stoner Rock / Blues Rock',
+    country: 'USA',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/9/97/2015_RiP_Clutch_Jean_Paul_Gaster_by_2eight_-_3SC4893.jpg',
+    bio: 'Jean-Paul Gaster (born June 19, 1971) is the drummer for hard rock/stoner rock band Clutch since their formation in 1991. His drumming combines influences from 1960s-70s heavy rock (Jimi Hendrix, Cream, Black Sabbath), Washington D.C.\'s Go-go music scene, and jazz drummers like Elvin Jones and Jack DeJohnette. He studied with legendary D.C. drummer and educator Walter Salb. Gaster\'s signature setup has remained largely unchanged since Clutch\'s early days: 14x26 bass drum, 9x13 tom, 16x16 floor tom, and 5.5x14 chrome over brass snare. He notably refuses to use china cymbals, finding them "awful and obnoxious sounding." He has collaborated with Wino, Five Horse Johnson, Mike Westcott, and Mark Morton.',
+    gear: {
+      drums: 'Ludwig / Gretsch / Slingerland (various vintage and modern)',
+      snare: 'Ludwig 5.5x14" Chrome Over Brass (various vintage snares)',
+      cymbals: 'Meinl Byzance Series (23" & 24" Medium/Heavy Rides, 20" & 22" Sand Rides, 22" Spectrum Ride, 14" & 15" Vintage Pure Hi-Hats)',
+      hardware: 'Ludwig Hardware, Vintage Bass Drum Pedal',
+      sticks: 'Vic Firth American Classic 5A'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/9/97/2015_RiP_Clutch_Jean_Paul_Gaster_by_2eight_-_3SC4893.jpg'
+    ],
+    endorsements: [
+      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+    ],
+    videos: [
+      { title: 'Clutch - Electric Worry (Live Drum Cam)', youtubeId: 's4ABpbxIPFI', year: 2018 },
+      { title: 'Jean-Paul Gaster - Meinl Cymbals Session', youtubeId: 'r7q0kCRB_08', year: 2017 },
+      { title: 'Clutch - A Quick Death in Texas (Live)', youtubeId: 'N0EL-LB8SX8', year: 2019 }
+    ]
+  },
+  {
+    id: 40,
+    name: 'Chris Turner',
+    band: 'Oceans Ate Alaska',
+    genre: 'Progressive Metalcore / Djent',
+    country: 'UK',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/3/30/Oceans_Ate_Alaska_-_2018154174826_2018-06-03_Rock_am_Ring_-_1D_X_MK_II_-_0668_-_AK8I0364.jpg',
+    bio: 'Chris Turner is a British drummer known for his mind-bending work with progressive metalcore band Oceans Ate Alaska. His drumming showcases extreme technical proficiency, featuring complex polyrhythms, intricate fills, and lightning-fast blast beats combined with djent-influenced grooves. Turner\'s playthrough videos have amassed millions of views on YouTube, earning him recognition as one of the most technically skilled drummers in modern metal. His ability to execute incredibly complex patterns with precision while maintaining musicality has made him a major influence on the younger generation of metal drummers. He is known for his innovative use of odd time signatures and his seamless blending of progressive metal and deathcore elements.',
+    gear: {
+      drums: 'Tama Starclassic Walnut/Birch',
+      snare: 'Tama S.L.P. 14x6.5" G-Maple',
+      cymbals: 'Meinl Byzance Series (15" Byzance Dark Hi-Hats, 18" & 19" Byzance Brilliant Medium Crashes, 21" Byzance Transition Ride, 18" Byzance Extra Dry China, 10" Byzance Splash)',
+      hardware: 'Tama Speed Cobra Double Pedal, Tama 1st Chair Throne',
+      sticks: 'Vic Firth American Classic 5B'
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/3/30/Oceans_Ate_Alaska_-_2018154174826_2018-06-03_Rock_am_Ring_-_1D_X_MK_II_-_0668_-_AK8I0364.jpg'
+    ],
+    endorsements: [
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+    ],
+    videos: [
+      { title: 'Oceans Ate Alaska - Hikari (Drum Playthrough)', youtubeId: 'Lt3jTvDqLQY', year: 2018 },
+      { title: 'Chris Turner - Hansha (Drum Playthrough)', youtubeId: 'K-Po0LPJ0Hs', year: 2019 },
+      { title: 'Oceans Ate Alaska - Covert (Live Drum Cam)', youtubeId: 'tz4qgBdHpEI', year: 2019 }
+    ]
   }
 ];
 

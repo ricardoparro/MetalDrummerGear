@@ -541,6 +541,136 @@ function QuotesSection({ quotes, drummerName, theme }) {
   );
 }
 
+// ==========================================
+// TOP LISTS SECTION - Horizontal scroll on homepage
+// ==========================================
+
+function TopListsSection({ theme, onNavigateToList }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const lists = getAllTop10Lists();
+
+  return (
+    <View style={[styles.topListsSection, { backgroundColor: 'transparent' }]}>
+      <View style={styles.topListsHeader}>
+        <Text style={[styles.topListsTitle, { color: theme.text }]}>🏆 Top 10 Lists</Text>
+        <Text style={[styles.topListsSubtitle, { color: theme.secondaryText }]}>
+          Curated drummer rankings by category
+        </Text>
+      </View>
+      <ScrollView
+        horizontal
+        showsHorizontalScrollIndicator={false}
+        contentContainerStyle={styles.topListsScroll}
+      >
+        {lists.map((list) => (
+          <TouchableOpacity
+            key={list.slug}
+            style={[styles.topListCard, { backgroundColor: theme.card, borderColor: theme.border }]}
+            onPress={() => onNavigateToList(list.slug)}
+            accessibilityRole="button"
+            accessibilityLabel={`View ${list.title}`}
+          >
+            <Text style={styles.topListEmoji}>{list.emoji}</Text>
+            <Text style={[styles.topListCardTitle, { color: theme.text }]} numberOfLines={2}>
+              {list.title.replace('Top 10 ', '')}
+            </Text>
+            <Text style={[styles.topListCardCount, { color: theme.secondaryText }]}>
+              10 drummers →
+            </Text>
+          </TouchableOpacity>
+        ))}
+      </ScrollView>
+    </View>
+  );
+}
+
+// ==========================================
+// TOP LIST PAGE - Individual list view
+// ==========================================
+
+function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const list = getTop10ListBySlug(listSlug);
+
+  if (!list) {
+    return (
+      <View style={[styles.container, { backgroundColor: theme.background }]}>
+        <TouchableOpacity onPress={onBack} style={styles.backButton}>
+          <Text style={[styles.backButtonText, { color: theme.primary }]}>← Back</Text>
+        </TouchableOpacity>
+        <Text style={[styles.errorText, { color: theme.text }]}>List not found</Text>
+      </View>
+    );
+  }
+
+  // Get drummers in ranked order
+  const rankedDrummers = list.drummerIds
+    .map(id => drummers.find(d => d.id === id))
+    .filter(Boolean);
+
+  return (
+    <ScrollView style={[styles.container, { backgroundColor: theme.background }]}>
+      <TouchableOpacity onPress={onBack} style={styles.backButton}>
+        <Text style={[styles.backButtonText, { color: theme.primary }]}>← Back to Home</Text>
+      </TouchableOpacity>
+
+      <View style={styles.topListPageHeader}>
+        <Text style={styles.topListPageEmoji}>{list.emoji}</Text>
+        <Text style={[styles.topListPageTitle, { color: theme.text }]}>{list.title}</Text>
+        <Text style={[styles.topListPageDescription, { color: theme.secondaryText }]}>
+          {list.description}
+        </Text>
+      </View>
+
+      <View style={[styles.topListRankings, isMobile && styles.topListRankingsMobile]}>
+        {rankedDrummers.map((drummer, index) => {
+          const ranking = list.rankings[drummer.id];
+          const rank = ranking?.rank || index + 1;
+          
+          return (
+            <TouchableOpacity
+              key={drummer.id}
+              style={[styles.topListRankCard, { backgroundColor: theme.card, borderColor: theme.border }]}
+              onPress={() => onSelectDrummer(drummer)}
+              accessibilityRole="button"
+              accessibilityLabel={`#${rank} ${drummer.name}`}
+            >
+              <View style={[styles.topListRankBadge, rank <= 3 && styles.topListRankBadgeTop3]}>
+                <Text style={styles.topListRankNumber}>#{rank}</Text>
+              </View>
+              <ImageWithFallback
+                source={{ uri: drummer.imageUrl || PLACEHOLDER_IMAGE }}
+                style={styles.topListDrummerImage}
+                fallbackText={drummer.name}
+              />
+              <View style={styles.topListDrummerInfo}>
+                <Text style={[styles.topListDrummerName, { color: theme.text }]}>{drummer.name}</Text>
+                <Text style={[styles.topListDrummerBand, { color: theme.secondaryText }]}>
+                  {drummer.band}
+                </Text>
+                {ranking?.highlight && (
+                  <Text style={[styles.topListHighlight, { color: theme.primary }]}>
+                    {ranking.highlight}
+                  </Text>
+                )}
+                {ranking?.reason && (
+                  <Text style={[styles.topListReason, { color: theme.secondaryText }]} numberOfLines={2}>
+                    {ranking.reason}
+                  </Text>
+                )}
+              </View>
+            </TouchableOpacity>
+          );
+        })}
+      </View>
+
+      <View style={{ height: 40 }} />
+    </ScrollView>
+  );
+}
+
 const PLACEHOLDER_IMAGE = 'https://ui-avatars.com/api/?name=Drummer&background=1a1a2e&color=fff&size=200';
 
 // Genre color mapping for consistent UI
@@ -10724,5 +10854,126 @@ const styles = StyleSheet.create({
   gearFinderSeoText: {
     fontSize: 15,
     lineHeight: 24,
+  },
+  // Top Lists Section styles
+  topListsSection: {
+    marginVertical: 24,
+    paddingHorizontal: 0,
+  },
+  topListsHeader: {
+    paddingHorizontal: 20,
+    marginBottom: 16,
+  },
+  topListsTitle: {
+    fontSize: 24,
+    fontWeight: '700',
+    marginBottom: 4,
+  },
+  topListsSubtitle: {
+    fontSize: 14,
+  },
+  topListsScroll: {
+    paddingHorizontal: 20,
+    gap: 12,
+  },
+  topListCard: {
+    width: 160,
+    padding: 16,
+    borderRadius: 12,
+    borderWidth: 1,
+    alignItems: 'center',
+  },
+  topListEmoji: {
+    fontSize: 32,
+    marginBottom: 8,
+  },
+  topListCardTitle: {
+    fontSize: 14,
+    fontWeight: '600',
+    textAlign: 'center',
+    marginBottom: 8,
+  },
+  topListCardCount: {
+    fontSize: 12,
+  },
+  // Top List Page styles
+  topListPageHeader: {
+    alignItems: 'center',
+    paddingHorizontal: 20,
+    paddingVertical: 24,
+  },
+  topListPageEmoji: {
+    fontSize: 48,
+    marginBottom: 12,
+  },
+  topListPageTitle: {
+    fontSize: 28,
+    fontWeight: '700',
+    textAlign: 'center',
+    marginBottom: 12,
+  },
+  topListPageDescription: {
+    fontSize: 16,
+    lineHeight: 24,
+    textAlign: 'center',
+    maxWidth: 600,
+  },
+  topListRankings: {
+    paddingHorizontal: 20,
+    gap: 16,
+  },
+  topListRankingsMobile: {
+    paddingHorizontal: 16,
+  },
+  topListRankCard: {
+    flexDirection: 'row',
+    padding: 16,
+    borderRadius: 12,
+    borderWidth: 1,
+    alignItems: 'center',
+  },
+  topListRankBadge: {
+    width: 40,
+    height: 40,
+    borderRadius: 20,
+    backgroundColor: '#374151',
+    alignItems: 'center',
+    justifyContent: 'center',
+    marginRight: 12,
+  },
+  topListRankBadgeTop3: {
+    backgroundColor: '#dc2626',
+  },
+  topListRankNumber: {
+    color: '#fff',
+    fontWeight: '700',
+    fontSize: 14,
+  },
+  topListDrummerImage: {
+    width: 60,
+    height: 60,
+    borderRadius: 30,
+    marginRight: 14,
+  },
+  topListDrummerInfo: {
+    flex: 1,
+  },
+  topListDrummerName: {
+    fontSize: 16,
+    fontWeight: '700',
+    marginBottom: 2,
+  },
+  topListDrummerBand: {
+    fontSize: 14,
+    marginBottom: 4,
+  },
+  topListHighlight: {
+    fontSize: 13,
+    fontWeight: '600',
+    marginBottom: 4,
+  },
+  topListReason: {
+    fontSize: 12,
+    lineHeight: 18,
   },
 });

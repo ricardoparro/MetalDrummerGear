@@ -43,6 +43,78 @@ const drummers = [
       { text: "I'm not the best drummer in the world, but I'm the best drummer for Metallica.", source: "Modern Drummer Magazine", year: 2008 },
       { text: "The only way to do great work is to love what you do. I've been fortunate enough to do that for over 40 years.", source: "Drumeo Interview", year: 2020 },
       { text: "Music is the most powerful form of communication in the world. It brings people together from all walks of life.", source: "Rolling Stone", year: 2016 }
+    ],
+    gearTimeline: [
+      {
+        era: 'Early Thrash Era',
+        years: '1981-1986',
+        description: 'The formative years of Metallica, from garage band to major label. Lars developed his aggressive thrash style on budget gear.',
+        albums: ['Kill \'Em All', 'Ride the Lightning', 'Master of Puppets'],
+        gear: {
+          drums: 'Camco Drums (various sizes)',
+          snare: 'Ludwig Supraphonic 14x6.5"',
+          cymbals: 'Zildjian A Series (14" Hi-Hats, 16" & 18" Crashes, 20" Ride)',
+          hardware: 'Standard bass drum pedal',
+          sticks: 'Regal Tip 5B'
+        },
+        notes: 'Lars played Camco drums during the early albums, known for their punchy sound that defined early thrash.'
+      },
+      {
+        era: 'Commercial Breakthrough',
+        years: '1986-1991',
+        description: 'Metallica became the biggest metal band in the world. Lars upgraded to Tama and refined his signature sound.',
+        albums: ['...And Justice for All', 'Metallica (Black Album)'],
+        gear: {
+          drums: 'Tama Artstar II',
+          snare: 'Tama Bell Brass 14x6.5"',
+          cymbals: 'Zildjian Z Custom Series (14" Hi-Hats, 17" & 18" Crashes, 20" China, 22" Ride)',
+          hardware: 'Tama Iron Cobra Double Pedal',
+          sticks: 'Zildjian Lars Ulrich Artist Series'
+        },
+        notes: 'The Black Album era saw Lars adopt the tight, punchy drum sound that became his trademark.'
+      },
+      {
+        era: 'Load/ReLoad Era',
+        years: '1996-1999',
+        description: 'Metallica experimented with alternative rock and blues influences. Larger kit with more toms.',
+        albums: ['Load', 'ReLoad', 'Garage Inc.'],
+        gear: {
+          drums: 'Tama Starclassic Maple',
+          snare: 'Tama Lars Ulrich Signature 14x6.5" (prototype)',
+          cymbals: 'Zildjian A Custom (14" Hi-Hats, 16", 17", 18" Crashes, 20" China, 22" Ride)',
+          hardware: 'Tama Iron Cobra 900 Double Pedal',
+          sticks: 'Ahead Lars Ulrich Signature (first aluminum sticks)'
+        },
+        notes: 'Lars began using Ahead aluminum drumsticks for durability during long tours.'
+      },
+      {
+        era: 'St. Anger & Rebirth',
+        years: '2003-2008',
+        description: 'Raw, lo-fi production with the infamous snare sound. A polarizing but defining moment.',
+        albums: ['St. Anger', 'Death Magnetic'],
+        gear: {
+          drums: 'Tama Starclassic Maple',
+          snare: 'Tama Brass Snare (no snare wires on St. Anger)',
+          cymbals: 'Zildjian A Custom Series',
+          hardware: 'Tama Iron Cobra 900 Power Glide Double Pedal',
+          sticks: 'Ahead Lars Ulrich Signature'
+        },
+        notes: 'St. Anger featured the controversial "trash can" snare sound achieved by disabling snare wires.'
+      },
+      {
+        era: 'Modern Era',
+        years: '2016-Present',
+        description: 'Return to thrash roots with modern production. Current touring and recording setup.',
+        albums: ['Hardwired...to Self-Destruct', '72 Seasons'],
+        gear: {
+          drums: 'Tama Starclassic Maple',
+          snare: 'Tama LU1465 Lars Ulrich Signature 14x6.5"',
+          cymbals: 'Zildjian A Custom Series (14" Dyno Beat Hi-Hats, 16", 17" & 18" Rock Crashes, 20" Z Custom China, 22" Ride)',
+          hardware: 'Tama Iron Cobra 900 Power Glide Double Pedal, Tama 1st Chair Throne',
+          sticks: 'Ahead Lars Ulrich Signature Drumsticks'
+        },
+        notes: 'Lars continues to use his signature Tama setup refined over decades of touring and recording.'
+      }
     ]
   },
   {
@@ -86,6 +158,64 @@ const drummers = [
       { text: "The drums chose me. I didn't choose them. It was like destiny.", source: "Modern Drummer Magazine", year: 2004 },
       { text: "Every time I sit behind a drum kit, I want to destroy it. That's the only way I know how to play.", source: "Revolver Magazine", year: 2008 },
       { text: "Practice doesn't make perfect. Perfect practice makes perfect. There's a big difference.", source: "Drum! Magazine", year: 2010 }
+    ],
+    gearTimeline: [
+      {
+        era: 'Early Slipknot',
+        years: '1995-1999',
+        description: 'The underground years. Joey built Slipknot\'s sound in Des Moines basements with aggressive, chaotic drumming.',
+        albums: ['Mate. Feed. Kill. Repeat.', 'Slipknot'],
+        gear: {
+          drums: 'ddrum Custom Kit',
+          snare: 'Pearl Free Floating 14x6.5" Steel',
+          cymbals: 'Paiste 2002 Series (14" Hi-Hats, 18" Crashes, 20" Ride, 18" China)',
+          hardware: 'DW 5000 Double Pedal',
+          sticks: 'Promark 5B'
+        },
+        notes: 'Joey\'s early setup was aggressive and utilitarian, built for the brutal underground scene.'
+      },
+      {
+        era: 'Breakthrough & Iowa',
+        years: '1999-2004',
+        description: 'Slipknot exploded globally. Joey refined his iconic rotating drum riser setup and pushed technical limits.',
+        albums: ['Iowa', 'Vol. 3: (The Subliminal Verses)'],
+        gear: {
+          drums: 'Pearl MasterWorks Series (Custom Purple)',
+          snare: 'Pearl Joey Jordison Signature 13x6.5"',
+          cymbals: 'Paiste RUDE & 2002 Series (14" Wild Hi-Hats, 17", 18", 19" Power Crashes, 20" Wild China, 22" Power Ride)',
+          hardware: 'Pearl Demon Drive Double Pedal, Pearl Icon Rack System',
+          sticks: 'Promark Joey Jordison Signature TX515W'
+        },
+        notes: 'The Iowa era featured the famous rotating/inverted drum platform for theatrical live shows.'
+      },
+      {
+        era: 'All Hope Is Gone Era',
+        years: '2008-2013',
+        description: 'Slipknot\'s most commercially successful period. Joey\'s playing became more refined while maintaining intensity.',
+        albums: ['All Hope Is Gone'],
+        gear: {
+          drums: 'Pearl Reference Series (Granite Sparkle)',
+          snare: 'Pearl Joey Jordison Signature 13x6.5"',
+          cymbals: 'Paiste RUDE & 2002 Series (14" Wild Hi-Hats, 16", 17", 18", 19" Power Crashes, 20" & 22" Wild Chinas, 22" Power Ride)',
+          hardware: 'Pearl Demon Drive Double Pedal, Pearl DR-501C Icon Rack, Pearl D-2000BR Throne',
+          sticks: 'Promark Joey Jordison Signature TX515W'
+        },
+        notes: 'Peak of Joey\'s technical abilities and showmanship with Slipknot.'
+      },
+      {
+        era: 'Post-Slipknot Projects',
+        years: '2013-2021',
+        description: 'After leaving Slipknot, Joey focused on Sinsaenum, Vimic, and other projects while battling health issues.',
+        albums: ['Sinsaenum - Echoes of the Tortured', 'Vimic - Open Your Omen'],
+        gear: {
+          drums: 'SJC Custom Drums',
+          snare: 'SJC Custom 14x6.5"',
+          cymbals: 'Paiste RUDE Series',
+          hardware: 'Pearl Demon Drive Double Pedal',
+          sticks: 'Promark Joey Jordison Signature TX515W'
+        },
+        notes: 'Joey battled transverse myelitis but continued performing until his passing in 2021.'
+      }
     ]
   },
   {
@@ -125,6 +255,64 @@ const drummers = [
       { title: 'The Philosopher (Death) - Official Playthrough', youtubeId: 'eGope68pHf0', year: 2016 },
       { title: 'Skeksis (Strapping Young Lad) - Official Playthrough', youtubeId: '-eaIvh6ELVg', year: 2015 },
       { title: 'True American Hate - Drum Cam (Tuska 2013)', youtubeId: 'wagKFfcbP5s', year: 2013 }
+    ],
+    gearTimeline: [
+      {
+        era: 'Dark Angel Era',
+        years: '1984-1989',
+        description: 'Gene\'s breakthrough years with Dark Angel, establishing the "Human Drum Machine" nickname.',
+        albums: ['Darkness Descends', 'Leave Scars', 'Time Does Not Heal'],
+        gear: {
+          drums: 'Tama Superstar',
+          snare: 'Tama 14x6.5" Steel',
+          cymbals: 'Zildjian A Series (14" Hi-Hats, 18" Crashes, 20" Ride, 18" China)',
+          hardware: 'Tama Camco Double Pedal',
+          sticks: 'Pro-Mark 5B'
+        },
+        notes: 'Gene earned the nickname "Human Drum Machine" for his metronomic precision on Darkness Descends.'
+      },
+      {
+        era: 'Death Era',
+        years: '1991-1995',
+        description: 'Gene joined Chuck Schuldiner\'s Death, bringing technical death metal drumming to new heights.',
+        albums: ['Individual Thought Patterns', 'Symbolic'],
+        gear: {
+          drums: 'Tama Artstar II',
+          snare: 'Tama Bell Brass 14x6.5"',
+          cymbals: 'Zildjian A Custom (14" Hi-Hats, 17" & 18" Crashes, 21" Ride, 18" China)',
+          hardware: 'Tama Iron Cobra Double Pedal',
+          sticks: 'Zildjian Artist Series'
+        },
+        notes: 'His work with Death is considered some of the finest technical death metal drumming ever recorded.'
+      },
+      {
+        era: 'Strapping Young Lad',
+        years: '1997-2007',
+        description: 'Alongside Devin Townsend, Gene pushed extreme metal boundaries with industrial and progressive elements.',
+        albums: ['City', 'SYL', 'Alien', 'The New Black'],
+        gear: {
+          drums: 'Tama Starclassic',
+          snare: 'Tama Brass 14x6.5"',
+          cymbals: 'Sabian AAX Series (14" Hi-Hats, 18" & 19" Crashes, 21" Ride, 19" China)',
+          hardware: 'Tama Speed Cobra Double Pedal',
+          sticks: 'Promark 5B'
+        },
+        notes: 'City is often cited as one of the heaviest albums ever made, showcasing Gene\'s versatility.'
+      },
+      {
+        era: 'Testament & Dethklok',
+        years: '2007-Present',
+        description: 'Gene became Testament\'s drummer while also recording with the animated band Dethklok.',
+        albums: ['The Formation of Damnation', 'Dark Roots of Earth', 'Titans of Creation', 'Dethalbum I, II, III'],
+        gear: {
+          drums: 'Pearl Reference Pure',
+          snare: 'Pearl Reference 14x6.5" Brass',
+          cymbals: 'Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China)',
+          hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000 Throne',
+          sticks: 'Promark 5B'
+        },
+        notes: 'At 57+, Gene continues to be one of the most in-demand drummers in extreme metal.'
+      }
     ]
   },
   {
@@ -168,6 +356,78 @@ const drummers = [
       { text: "Speed is nothing without control. You have to be able to play fast and tight at the same time.", source: "Modern Drummer Magazine", year: 2006 },
       { text: "I never wanted to be a typical metal drummer. I wanted to bring jazz, Latin, and world music into heavy music.", source: "Drumeo Interview", year: 2019 },
       { text: "Reign in Blood changed everything. We didn't know we were making history, we were just playing as fast as we could.", source: "Revolver Magazine", year: 2016 }
+    ],
+    gearTimeline: [
+      {
+        era: 'Early Slayer',
+        years: '1981-1986',
+        description: 'The birth of thrash metal. Dave pioneered double bass technique that would define the genre.',
+        albums: ['Show No Mercy', 'Haunting the Chapel', 'Hell Awaits'],
+        gear: {
+          drums: 'Tama Imperialstar',
+          snare: 'Tama 14x6.5" Steel',
+          cymbals: 'Zildjian A Series (14" Hi-Hats, 16" & 18" Crashes, 20" Ride, 18" China)',
+          hardware: 'Tama Camco Double Pedal',
+          sticks: 'Pro-Mark 5A'
+        },
+        notes: 'Dave developed his signature double bass technique during these early years in LA.'
+      },
+      {
+        era: 'Reign in Blood Era',
+        years: '1986-1990',
+        description: 'The golden age of Slayer. Reign in Blood redefined speed and aggression in metal.',
+        albums: ['Reign in Blood', 'South of Heaven', 'Seasons in the Abyss'],
+        gear: {
+          drums: 'Tama Artstar II',
+          snare: 'Tama Bell Brass 14x6.5"',
+          cymbals: 'Paiste RUDE Series (14" Sound Edge Hi-Hats, 18" & 19" Crashes, 20" Ride, 18" China)',
+          hardware: 'Tama Iron Cobra Double Pedal',
+          sticks: 'Promark 2B'
+        },
+        notes: 'Reign in Blood is widely considered one of the most influential thrash albums ever recorded.'
+      },
+      {
+        era: 'First Departure',
+        years: '1992-2001',
+        description: 'After leaving Slayer, Dave explored diverse projects including Grip Inc. and Fantômas.',
+        albums: ['Grip Inc. - Power of Inner Strength', 'Fantômas - Fantômas'],
+        gear: {
+          drums: 'Tama Starclassic',
+          snare: 'Tama 14x6.5" Maple',
+          cymbals: 'Paiste 2002 & RUDE Series',
+          hardware: 'Tama Iron Cobra 900 Double Pedal',
+          sticks: 'Promark Dave Lombardo Signature'
+        },
+        notes: 'Dave explored jazz, Latin, and experimental music with Mike Patton\'s Fantômas.'
+      },
+      {
+        era: 'Slayer Reunion',
+        years: '2001-2013',
+        description: 'Dave rejoined Slayer for their final classic era before his second departure.',
+        albums: ['God Hates Us All', 'Christ Illusion', 'World Painted Blood'],
+        gear: {
+          drums: 'Tama Starclassic Maple',
+          snare: 'Tama S.L.P. 14x6.5" G-Maple',
+          cymbals: 'Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China)',
+          hardware: 'Tama Iron Cobra 900 Double Pedal, Tama 1st Chair Throne',
+          sticks: 'Promark Dave Lombardo Signature 2Bx'
+        },
+        notes: 'Christ Illusion won a Grammy for Best Metal Performance.'
+      },
+      {
+        era: 'Post-Slayer Projects',
+        years: '2013-Present',
+        description: 'Dave continues with Dead Cross, Suicidal Tendencies, and Mr. Bungle reunion.',
+        albums: ['Dead Cross - Dead Cross', 'Dead Cross - II', 'Mr. Bungle - The Raging Wrath of the Easter Bunny Demo'],
+        gear: {
+          drums: 'Tama Starclassic Walnut/Birch',
+          snare: 'Tama S.L.P. 14x6.5" G-Maple',
+          cymbals: 'Paiste RUDE & 2002 Series',
+          hardware: 'Tama Iron Cobra 900 Double Pedal',
+          sticks: 'Promark Dave Lombardo Signature 2Bx'
+        },
+        notes: 'At nearly 60, Dave remains one of the most active and influential drummers in extreme music.'
+      }
     ]
   },
   {
@@ -206,6 +466,78 @@ const drummers = [
       { title: 'Bleed - Wincent Drumsticks (8.1M views)', youtubeId: 'bAJ1WTGNISk', year: 2013 },
       { title: 'Clockworks - Official Drum Playthrough', youtubeId: 'axGn6qeJHcM', year: 2016 },
       { title: 'Drumming Footage - New England Metal Fest (Official)', youtubeId: 'kMo5VxRrgcY', year: 2008 }
+    ],
+    gearTimeline: [
+      {
+        era: 'Early Meshuggah',
+        years: '1987-1994',
+        description: 'The formation years, transitioning from thrash to their signature polyrhythmic style.',
+        albums: ['Contradictions Collapse', 'None'],
+        gear: {
+          drums: 'Pearl Export',
+          snare: 'Pearl 14x6.5" Steel',
+          cymbals: 'Sabian AA Series (14" Hi-Hats, 16" & 18" Crashes, 20" Ride)',
+          hardware: 'Pearl P-900 Double Pedal',
+          sticks: 'Vic Firth 5B'
+        },
+        notes: 'Tomas was still developing the polyrhythmic approach that would define Meshuggah.'
+      },
+      {
+        era: 'Destroy Erase Improve Era',
+        years: '1995-1998',
+        description: 'Meshuggah\'s breakthrough album introduced their revolutionary polyrhythmic concepts.',
+        albums: ['Destroy Erase Improve', 'The True Human Design'],
+        gear: {
+          drums: 'Sonor Designer Series',
+          snare: 'Sonor 14x6.5" Bronze',
+          cymbals: 'Sabian HH Series (14" Hi-Hats, 18" & 19" Crashes, 21" Ride, 18" China)',
+          hardware: 'Tama Iron Cobra Double Pedal',
+          sticks: 'Vic Firth Extreme 5B'
+        },
+        notes: 'Destroy Erase Improve is often cited as one of the most influential metal albums of the 90s.'
+      },
+      {
+        era: 'Chaosphere/Nothing',
+        years: '1998-2005',
+        description: 'The sound became heavier and the polyrhythms more complex. Spawned countless imitators.',
+        albums: ['Chaosphere', 'Nothing', 'I'],
+        gear: {
+          drums: 'Sonor SQ2',
+          snare: 'Sonor Tomas Haake Signature 14x6.5"',
+          cymbals: 'Sabian HHX Series (14" Compression Hi-Hats, 19" & 20" Stage Crashes, 22" Ride, 19" China)',
+          hardware: 'Tama Speed Cobra Single Pedals (x2)',
+          sticks: 'Wincent 5B'
+        },
+        notes: 'Tomas began using two single pedals instead of a double pedal for more control.'
+      },
+      {
+        era: 'Djent Influence Era',
+        years: '2005-2012',
+        description: 'Meshuggah inspired the entire djent movement. Tomas\'s drumming became the gold standard.',
+        albums: ['Catch Thirtythree', 'obZen', 'Koloss'],
+        gear: {
+          drums: 'Sonor SQ2 Heavy Beech',
+          snare: 'Sonor Tomas Haake Signature 14x6.5" & Artist Series Bronze',
+          cymbals: 'Sabian HHX & AAX Series (14" HHX Compression Hi-Hats, 19" & 20" HHX Stage Crashes, 22" Legacy Ride, 19" AAXtreme China)',
+          hardware: 'Tama Speed Cobra Single Pedals (x2), Porter & Davies BC2 Throne',
+          sticks: 'Wincent Tomas Haake Signature'
+        },
+        notes: 'obZen\'s "Bleed" became one of the most technically demanding drum tracks in metal history.'
+      },
+      {
+        era: 'Modern Era',
+        years: '2016-Present',
+        description: 'Meshuggah continues to push boundaries while Tomas refines his signature approach.',
+        albums: ['The Violent Sleep of Reason', 'Immutable'],
+        gear: {
+          drums: 'Sonor SQ2 Heavy Beech (24"x18" Bass, 10"x8", 12"x9", 13"x10", 16"x14", 18"x16" Toms)',
+          snare: 'Sonor Tomas Haake Signature 14x6.5" & Artist Series Bronze',
+          cymbals: 'Sabian HHX & AAX Series (14" HHX Compression Hi-Hats, 15" Artisan Hi-Hats, 19" & 20" & 21" HHX Stage Crashes, 22" Legacy Ride, 19" AAXtreme China)',
+          hardware: 'Tama Speed Cobra Single Pedals (x2), Porter & Davies BC2 Throne',
+          sticks: 'Wincent Tomas Haake Signature'
+        },
+        notes: 'Tomas\'s influence on modern metal drumming cannot be overstated. He defined an entire subgenre.'
+      }
     ]
   },
   {

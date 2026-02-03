@@ -1315,7 +1315,7 @@ function GearTimeline({ timeline, drummerName, theme }) {
   );
 }
 
-function DrummerDetail({ drummer, theme, onBack, onSelectGear }) {
+function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
 
@@ -1375,6 +1375,22 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear }) {
       </View>
 
       <KitCostCalculator drummer={drummer} theme={theme} />
+
+      {/* Compare Your Kit CTA */}
+      <View style={[styles.section, styles.compareYourKitCTA, { backgroundColor: theme.card, borderColor: '#dc2626' }]}>
+        <Text style={[styles.sectionTitle, { color: theme.text }]}>🥁 Compare Your Kit</Text>
+        <Text style={[styles.compareYourKitDescription, { color: theme.secondaryText }]}>
+          See how your drum setup matches up with {drummer.name}'s legendary gear!
+        </Text>
+        <TouchableOpacity
+          onPress={() => onCompareYourKit(drummer)}
+          style={[styles.compareYourKitButton]}
+          accessibilityRole="button"
+          accessibilityLabel={`Compare your kit with ${drummer.name}'s gear`}
+        >
+          <Text style={styles.compareYourKitButtonText}>Compare My Kit</Text>
+        </TouchableOpacity>
+      </View>
 
       <GearTimeline timeline={drummer.gearTimeline} drummerName={drummer.name} theme={theme} />
 
@@ -1818,6 +1834,676 @@ function ShareButtons({ drummerIds, drummerNames, theme }) {
           </TouchableOpacity>
         )}
       </View>
+    </View>
+  );
+}
+
+// ==========================================
+// COMPARE YOUR KIT - User gear comparison tool
+// ==========================================
+
+// Gear options for user kit selection
+const USER_GEAR_OPTIONS = {
+  drums: [
+    { value: '', label: 'Select your drums...' },
+    // Tama
+    { value: 'Tama Starclassic Maple', label: 'Tama Starclassic Maple', brand: 'Tama' },
+    { value: 'Tama Starclassic Walnut/Birch', label: 'Tama Starclassic Walnut/Birch', brand: 'Tama' },
+    { value: 'Tama Starclassic Bubinga', label: 'Tama Starclassic Bubinga', brand: 'Tama' },
+    { value: 'Tama Superstar Classic', label: 'Tama Superstar Classic', brand: 'Tama' },
+    { value: 'Tama Imperialstar', label: 'Tama Imperialstar', brand: 'Tama' },
+    // Pearl
+    { value: 'Pearl Masters Premium Maple', label: 'Pearl Masters Premium Maple', brand: 'Pearl' },
+    { value: 'Pearl Reference Pure', label: 'Pearl Reference Pure', brand: 'Pearl' },
+    { value: 'Pearl Masterworks', label: 'Pearl Masterworks', brand: 'Pearl' },
+    { value: 'Pearl Session Studio Select', label: 'Pearl Session Studio Select', brand: 'Pearl' },
+    { value: 'Pearl Export', label: 'Pearl Export', brand: 'Pearl' },
+    // DW
+    { value: 'DW Collector\'s Series Maple', label: 'DW Collector\'s Series Maple', brand: 'DW' },
+    { value: 'DW Performance Series', label: 'DW Performance Series', brand: 'DW' },
+    { value: 'DW Design Series', label: 'DW Design Series', brand: 'DW' },
+    // Sonor
+    { value: 'Sonor SQ2', label: 'Sonor SQ2', brand: 'Sonor' },
+    { value: 'Sonor SQ1', label: 'Sonor SQ1', brand: 'Sonor' },
+    { value: 'Sonor AQ2', label: 'Sonor AQ2', brand: 'Sonor' },
+    // Mapex
+    { value: 'Mapex Saturn V', label: 'Mapex Saturn V', brand: 'Mapex' },
+    { value: 'Mapex Armory', label: 'Mapex Armory', brand: 'Mapex' },
+    { value: 'Mapex Mars', label: 'Mapex Mars', brand: 'Mapex' },
+    // Others
+    { value: 'ddrum Dios Series', label: 'ddrum Dios Series', brand: 'ddrum' },
+    { value: 'OCDP Custom', label: 'OCDP Custom', brand: 'OCDP' },
+    { value: 'Ludwig Classic Maple', label: 'Ludwig Classic Maple', brand: 'Ludwig' },
+    { value: 'Gretsch USA Custom', label: 'Gretsch USA Custom', brand: 'Gretsch' },
+    { value: 'Yamaha Recording Custom', label: 'Yamaha Recording Custom', brand: 'Yamaha' },
+    { value: 'Other', label: 'Other / Custom', brand: 'Other' },
+  ],
+  snare: [
+    { value: '', label: 'Select your snare...' },
+    // Tama
+    { value: 'Tama S.L.P.', label: 'Tama S.L.P.', brand: 'Tama' },
+    { value: 'Tama Bell Brass', label: 'Tama Bell Brass', brand: 'Tama' },
+    { value: 'Tama Starphonic', label: 'Tama Starphonic', brand: 'Tama' },
+    { value: 'Tama Metalworks', label: 'Tama Metalworks', brand: 'Tama' },
+    // Pearl
+    { value: 'Pearl Sensitone', label: 'Pearl Sensitone', brand: 'Pearl' },
+    { value: 'Pearl Reference', label: 'Pearl Reference', brand: 'Pearl' },
+    { value: 'Pearl Masters Maple', label: 'Pearl Masters Maple', brand: 'Pearl' },
+    { value: 'Pearl Free Floating', label: 'Pearl Free Floating', brand: 'Pearl' },
+    // DW
+    { value: 'DW Collector\'s Series', label: 'DW Collector\'s Series', brand: 'DW' },
+    { value: 'DW Performance Series', label: 'DW Performance Series', brand: 'DW' },
+    // Sonor
+    { value: 'Sonor SQ2', label: 'Sonor SQ2', brand: 'Sonor' },
+    { value: 'Sonor One of a Kind', label: 'Sonor One of a Kind', brand: 'Sonor' },
+    // Mapex
+    { value: 'Mapex Black Panther', label: 'Mapex Black Panther', brand: 'Mapex' },
+    { value: 'Mapex Armory', label: 'Mapex Armory', brand: 'Mapex' },
+    // Others
+    { value: 'Ludwig Supraphonic', label: 'Ludwig Supraphonic', brand: 'Ludwig' },
+    { value: 'Ludwig Black Beauty', label: 'Ludwig Black Beauty', brand: 'Ludwig' },
+    { value: 'Gretsch USA', label: 'Gretsch USA', brand: 'Gretsch' },
+    { value: 'Yamaha Recording Custom', label: 'Yamaha Recording Custom', brand: 'Yamaha' },
+    { value: 'Other', label: 'Other / Custom', brand: 'Other' },
+  ],
+  cymbals: [
+    { value: '', label: 'Select your cymbals...' },
+    // Zildjian
+    { value: 'Zildjian A Custom', label: 'Zildjian A Custom', brand: 'Zildjian' },
+    { value: 'Zildjian K Custom', label: 'Zildjian K Custom', brand: 'Zildjian' },
+    { value: 'Zildjian A', label: 'Zildjian A', brand: 'Zildjian' },
+    { value: 'Zildjian K', label: 'Zildjian K', brand: 'Zildjian' },
+    { value: 'Zildjian S', label: 'Zildjian S', brand: 'Zildjian' },
+    // Sabian
+    { value: 'Sabian AAX', label: 'Sabian AAX', brand: 'Sabian' },
+    { value: 'Sabian HHX', label: 'Sabian HHX', brand: 'Sabian' },
+    { value: 'Sabian AA', label: 'Sabian AA', brand: 'Sabian' },
+    { value: 'Sabian B8X', label: 'Sabian B8X', brand: 'Sabian' },
+    // Paiste
+    { value: 'Paiste RUDE', label: 'Paiste RUDE', brand: 'Paiste' },
+    { value: 'Paiste 2002', label: 'Paiste 2002', brand: 'Paiste' },
+    { value: 'Paiste Signature', label: 'Paiste Signature', brand: 'Paiste' },
+    { value: 'Paiste Formula 602', label: 'Paiste Formula 602', brand: 'Paiste' },
+    // Meinl
+    { value: 'Meinl Byzance', label: 'Meinl Byzance', brand: 'Meinl' },
+    { value: 'Meinl Byzance Brilliant', label: 'Meinl Byzance Brilliant', brand: 'Meinl' },
+    { value: 'Meinl Classics Custom', label: 'Meinl Classics Custom', brand: 'Meinl' },
+    { value: 'Meinl Pure Alloy', label: 'Meinl Pure Alloy', brand: 'Meinl' },
+    { value: 'Other', label: 'Other / Mixed', brand: 'Other' },
+  ],
+  hardware: [
+    { value: '', label: 'Select your hardware...' },
+    // Tama
+    { value: 'Tama Iron Cobra', label: 'Tama Iron Cobra', brand: 'Tama' },
+    { value: 'Tama Speed Cobra', label: 'Tama Speed Cobra', brand: 'Tama' },
+    { value: 'Tama Dyna-Sync', label: 'Tama Dyna-Sync', brand: 'Tama' },
+    // Pearl
+    { value: 'Pearl Demon Drive', label: 'Pearl Demon Drive', brand: 'Pearl' },
+    { value: 'Pearl Eliminator', label: 'Pearl Eliminator', brand: 'Pearl' },
+    { value: 'Pearl P-3000D Demon', label: 'Pearl P-3000D Demon', brand: 'Pearl' },
+    // DW
+    { value: 'DW 9000 Series', label: 'DW 9000 Series', brand: 'DW' },
+    { value: 'DW 5000 Series', label: 'DW 5000 Series', brand: 'DW' },
+    { value: 'DW MDD', label: 'DW MDD (Direct Drive)', brand: 'DW' },
+    // Sonor
+    { value: 'Sonor Giant Step', label: 'Sonor Giant Step', brand: 'Sonor' },
+    { value: 'Sonor Perfect Balance', label: 'Sonor Perfect Balance', brand: 'Sonor' },
+    // Mapex
+    { value: 'Mapex Falcon', label: 'Mapex Falcon', brand: 'Mapex' },
+    { value: 'Mapex Armory', label: 'Mapex Armory', brand: 'Mapex' },
+    // Others
+    { value: 'Axis A Longboard', label: 'Axis A Longboard', brand: 'Axis' },
+    { value: 'Trick Pro 1-V', label: 'Trick Pro 1-V', brand: 'Trick' },
+    { value: 'Other', label: 'Other / Mixed', brand: 'Other' },
+  ],
+  sticks: [
+    { value: '', label: 'Select your sticks...' },
+    // Vic Firth
+    { value: 'Vic Firth 5A', label: 'Vic Firth 5A', brand: 'Vic Firth' },
+    { value: 'Vic Firth 5B', label: 'Vic Firth 5B', brand: 'Vic Firth' },
+    { value: 'Vic Firth 7A', label: 'Vic Firth 7A', brand: 'Vic Firth' },
+    { value: 'Vic Firth X5A', label: 'Vic Firth X5A', brand: 'Vic Firth' },
+    { value: 'Vic Firth Signature', label: 'Vic Firth Signature Series', brand: 'Vic Firth' },
+    // Promark
+    { value: 'Promark 5A', label: 'Promark 5A', brand: 'Promark' },
+    { value: 'Promark 5B', label: 'Promark 5B', brand: 'Promark' },
+    { value: 'Promark ActiveGrip', label: 'Promark ActiveGrip', brand: 'Promark' },
+    { value: 'Promark Signature', label: 'Promark Signature Series', brand: 'Promark' },
+    // Vater
+    { value: 'Vater 5A', label: 'Vater 5A', brand: 'Vater' },
+    { value: 'Vater 5B', label: 'Vater 5B', brand: 'Vater' },
+    { value: 'Vater Power 5B', label: 'Vater Power 5B', brand: 'Vater' },
+    // Ahead
+    { value: 'Ahead', label: 'Ahead (Aluminum)', brand: 'Ahead' },
+    // Others
+    { value: 'Zildjian', label: 'Zildjian', brand: 'Zildjian' },
+    { value: 'Other', label: 'Other', brand: 'Other' },
+  ],
+};
+
+// Helper to get brand from gear description
+function extractBrand(gearDescription) {
+  if (!gearDescription) return '';
+  const brands = ['Tama', 'Pearl', 'DW', 'Sonor', 'Mapex', 'ddrum', 'OCDP', 'Ludwig', 'Gretsch', 'Yamaha', 
+                  'Zildjian', 'Sabian', 'Paiste', 'Meinl', 'Vic Firth', 'Promark', 'Vater', 'Ahead', 'Axis', 'Trick'];
+  for (const brand of brands) {
+    if (gearDescription.toLowerCase().includes(brand.toLowerCase())) {
+      return brand;
+    }
+  }
+  return '';
+}
+
+// Calculate match score between user kit and drummer kit
+function calculateKitMatch(userKit, drummerGear) {
+  if (!userKit || !drummerGear) return { percentage: 0, matches: [], upgrades: [] };
+  
+  const categories = ['drums', 'snare', 'cymbals', 'hardware', 'sticks'];
+  const matches = [];
+  const upgrades = [];
+  let totalScore = 0;
+  let maxScore = 0;
+  
+  categories.forEach(category => {
+    const userValue = userKit[category] || '';
+    const drummerValue = drummerGear[category] || '';
+    
+    if (!userValue || !drummerValue) return;
+    
+    maxScore += 100;
+    
+    const userBrand = extractBrand(userValue);
+    const drummerBrand = extractBrand(drummerValue);
+    
+    // Exact match
+    if (drummerValue.toLowerCase().includes(userValue.toLowerCase()) || 
+        userValue.toLowerCase().includes(drummerValue.split(' ').slice(0, 3).join(' ').toLowerCase())) {
+      totalScore += 100;
+      matches.push({ category, userGear: userValue, drummerGear: drummerValue, matchType: 'exact' });
+    }
+    // Same brand
+    else if (userBrand && drummerBrand && userBrand.toLowerCase() === drummerBrand.toLowerCase()) {
+      totalScore += 60;
+      matches.push({ category, userGear: userValue, drummerGear: drummerValue, matchType: 'brand' });
+    }
+    // Different
+    else {
+      upgrades.push({ category, userGear: userValue, drummerGear: drummerValue });
+    }
+  });
+  
+  const percentage = maxScore > 0 ? Math.round((totalScore / maxScore) * 100) : 0;
+  
+  return { percentage, matches, upgrades };
+}
+
+// localStorage key for user kit
+const USER_KIT_STORAGE_KEY = 'metalforge_user_kit';
+
+// Load user kit from localStorage
+function loadUserKit() {
+  if (Platform.OS !== 'web' || typeof localStorage === 'undefined') return null;
+  try {
+    const saved = localStorage.getItem(USER_KIT_STORAGE_KEY);
+    return saved ? JSON.parse(saved) : null;
+  } catch {
+    return null;
+  }
+}
+
+// Save user kit to localStorage
+function saveUserKit(kit) {
+  if (Platform.OS !== 'web' || typeof localStorage === 'undefined') return;
+  try {
+    localStorage.setItem(USER_KIT_STORAGE_KEY, JSON.stringify(kit));
+  } catch {
+    // Storage full or unavailable
+  }
+}
+
+// Get user kit params from URL for sharing
+function getKitParamsFromURL() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
+  const params = new URLSearchParams(window.location.search);
+  if (!params.get('mykit')) return null;
+  return {
+    drums: params.get('drums') || '',
+    snare: params.get('snare') || '',
+    cymbals: params.get('cymbals') || '',
+    hardware: params.get('hardware') || '',
+    sticks: params.get('sticks') || '',
+  };
+}
+
+// Gear selector dropdown for user kit
+function UserGearSelector({ category, value, onChange, theme, isMobile }) {
+  const options = USER_GEAR_OPTIONS[category] || [];
+  
+  if (Platform.OS === 'web') {
+    return (
+      <select
+        value={value}
+        onChange={(e) => onChange(e.target.value)}
+        style={{
+          width: '100%',
+          minHeight: isMobile ? 48 : 44,
+          padding: '12px 16px',
+          fontSize: isMobile ? 16 : 14,
+          backgroundColor: theme.card,
+          color: value ? theme.text : theme.secondaryText,
+          border: `1px solid ${theme.border}`,
+          borderRadius: 8,
+          appearance: 'none',
+          WebkitAppearance: 'none',
+          backgroundImage: `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='${encodeURIComponent(theme.secondaryText)}' d='M6 8L1 3h10z'/%3E%3C/svg%3E")`,
+          backgroundRepeat: 'no-repeat',
+          backgroundPosition: 'right 16px center',
+          cursor: 'pointer',
+        }}
+        aria-label={`Select your ${category}`}
+      >
+        {options.map(opt => (
+          <option key={opt.value} value={opt.value}>{opt.label}</option>
+        ))}
+      </select>
+    );
+  }
+  
+  // Native fallback (basic TextInput)
+  return (
+    <TextInput
+      value={value}
+      onChangeText={onChange}
+      placeholder={`Enter your ${category}...`}
+      placeholderTextColor={theme.secondaryText}
+      style={{
+        backgroundColor: theme.card,
+        color: theme.text,
+        borderColor: theme.border,
+        borderWidth: 1,
+        borderRadius: 8,
+        padding: 12,
+        fontSize: 14,
+      }}
+    />
+  );
+}
+
+// Compare Your Kit Modal/View
+function CompareYourKitModal({ drummer, theme, onClose }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  
+  // Initialize from localStorage or URL params
+  const [userKit, setUserKit] = useState(() => {
+    const urlKit = getKitParamsFromURL();
+    if (urlKit) return urlKit;
+    const savedKit = loadUserKit();
+    return savedKit || { drums: '', snare: '', cymbals: '', hardware: '', sticks: '' };
+  });
+  
+  const [showResults, setShowResults] = useState(false);
+  const [copied, setCopied] = useState(false);
+  
+  // Calculate match whenever user kit changes
+  const matchResult = useMemo(() => {
+    return calculateKitMatch(userKit, drummer.gear);
+  }, [userKit, drummer.gear]);
+  
+  // Save to localStorage when kit changes
+  useEffect(() => {
+    if (userKit.drums || userKit.snare || userKit.cymbals || userKit.hardware || userKit.sticks) {
+      saveUserKit(userKit);
+    }
+  }, [userKit]);
+  
+  const handleGearChange = (category, value) => {
+    setUserKit(prev => ({ ...prev, [category]: value }));
+    setShowResults(false);
+  };
+  
+  const handleCompare = () => {
+    setShowResults(true);
+    // Track comparison event
+    if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
+      window.gtag('event', 'compare_kit', {
+        drummer_name: drummer.name,
+        match_percentage: matchResult.percentage,
+      });
+    }
+  };
+  
+  const handleClearKit = () => {
+    setUserKit({ drums: '', snare: '', cymbals: '', hardware: '', sticks: '' });
+    setShowResults(false);
+    if (Platform.OS === 'web' && typeof localStorage !== 'undefined') {
+      localStorage.removeItem(USER_KIT_STORAGE_KEY);
+    }
+  };
+  
+  // Generate shareable URL
+  const generateShareUrl = () => {
+    if (Platform.OS !== 'web' || typeof window === 'undefined') return '';
+    const baseUrl = window.location.origin;
+    const slug = toSlug(drummer.name);
+    const params = new URLSearchParams();
+    params.set('mykit', '1');
+    if (userKit.drums) params.set('drums', userKit.drums);
+    if (userKit.snare) params.set('snare', userKit.snare);
+    if (userKit.cymbals) params.set('cymbals', userKit.cymbals);
+    if (userKit.hardware) params.set('hardware', userKit.hardware);
+    if (userKit.sticks) params.set('sticks', userKit.sticks);
+    return `${baseUrl}/drummer/${slug}?${params.toString()}`;
+  };
+  
+  const handleShare = async () => {
+    const shareUrl = generateShareUrl();
+    const shareText = `My kit is ${matchResult.percentage}% similar to ${drummer.name}'s setup! 🥁 Compare your kit on MetalForge`;
+    
+    // Track share event
+    if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
+      window.gtag('event', 'share_kit_comparison', {
+        drummer_name: drummer.name,
+        match_percentage: matchResult.percentage,
+      });
+    }
+    
+    if (typeof navigator !== 'undefined' && navigator.share) {
+      try {
+        await navigator.share({
+          title: `Kit Comparison: ${matchResult.percentage}% Match with ${drummer.name}`,
+          text: shareText,
+          url: shareUrl,
+        });
+      } catch (err) {
+        if (err.name !== 'AbortError') {
+          handleCopyLink();
+        }
+      }
+    } else {
+      handleCopyLink();
+    }
+  };
+  
+  const handleCopyLink = async () => {
+    const shareUrl = generateShareUrl();
+    if (Platform.OS === 'web' && navigator.clipboard) {
+      await navigator.clipboard.writeText(shareUrl);
+      setCopied(true);
+      setTimeout(() => setCopied(false), 2000);
+    }
+  };
+  
+  const handleTwitterShare = () => {
+    const shareUrl = generateShareUrl();
+    const shareText = `My kit is ${matchResult.percentage}% similar to ${drummer.name}'s setup! 🥁`;
+    const twitterUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(shareUrl)}&hashtags=metaldrumming,drumgear`;
+    if (Platform.OS === 'web') {
+      window.open(twitterUrl, '_blank', 'noopener,noreferrer');
+    } else {
+      Linking.openURL(twitterUrl);
+    }
+  };
+  
+  const hasUserGear = userKit.drums || userKit.snare || userKit.cymbals || userKit.hardware || userKit.sticks;
+  
+  // Match percentage color
+  const getMatchColor = (percentage) => {
+    if (percentage >= 80) return '#22c55e'; // green
+    if (percentage >= 60) return '#eab308'; // yellow
+    if (percentage >= 40) return '#f97316'; // orange
+    return '#ef4444'; // red
+  };
+  
+  return (
+    <View style={[styles.kitCompareModal, { backgroundColor: theme.background }]}>
+      <ScrollView contentContainerStyle={styles.kitCompareContent}>
+        {/* Header */}
+        <View style={styles.kitCompareHeader}>
+          <TouchableOpacity
+            onPress={onClose}
+            style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+            accessibilityRole="button"
+            accessibilityLabel="Close comparison"
+          >
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Profile</Text>
+          </TouchableOpacity>
+        </View>
+        
+        <Text style={[styles.kitCompareTitle, { color: theme.text }]}>
+          Compare Your Kit
+        </Text>
+        <Text style={[styles.kitCompareSubtitle, { color: theme.secondaryText }]}>
+          See how your drum gear stacks up against {drummer.name}'s setup
+        </Text>
+        
+        {/* Drummer mini profile */}
+        <View style={[styles.kitCompareDrummerCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <ImageWithFallback
+            source={{ uri: drummer.image }}
+            style={styles.kitCompareDrummerImage}
+            accessibilityLabel={`Photo of ${drummer.name}`}
+          />
+          <View style={styles.kitCompareDrummerInfo}>
+            <Text style={[styles.kitCompareDrummerName, { color: theme.text }]}>{drummer.name}</Text>
+            <Text style={[styles.kitCompareDrummerBand, { color: theme.secondaryText }]}>{drummer.band}</Text>
+          </View>
+        </View>
+        
+        {/* User gear input form */}
+        <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <View style={styles.kitFormHeader}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>Your Kit</Text>
+            {hasUserGear && (
+              <TouchableOpacity onPress={handleClearKit}>
+                <Text style={[styles.kitClearButton, { color: theme.error }]}>Clear All</Text>
+              </TouchableOpacity>
+            )}
+          </View>
+          
+          <View style={styles.kitFormGrid}>
+            <View style={styles.kitFormRow}>
+              <Text style={[styles.kitFormLabel, { color: theme.text }]}>🥁 Drums</Text>
+              <UserGearSelector
+                category="drums"
+                value={userKit.drums}
+                onChange={(v) => handleGearChange('drums', v)}
+                theme={theme}
+                isMobile={isMobile}
+              />
+            </View>
+            
+            <View style={styles.kitFormRow}>
+              <Text style={[styles.kitFormLabel, { color: theme.text }]}>🔔 Snare</Text>
+              <UserGearSelector
+                category="snare"
+                value={userKit.snare}
+                onChange={(v) => handleGearChange('snare', v)}
+                theme={theme}
+                isMobile={isMobile}
+              />
+            </View>
+            
+            <View style={styles.kitFormRow}>
+              <Text style={[styles.kitFormLabel, { color: theme.text }]}>🎵 Cymbals</Text>
+              <UserGearSelector
+                category="cymbals"
+                value={userKit.cymbals}
+                onChange={(v) => handleGearChange('cymbals', v)}
+                theme={theme}
+                isMobile={isMobile}
+              />
+            </View>
+            
+            <View style={styles.kitFormRow}>
+              <Text style={[styles.kitFormLabel, { color: theme.text }]}>⚙️ Hardware</Text>
+              <UserGearSelector
+                category="hardware"
+                value={userKit.hardware}
+                onChange={(v) => handleGearChange('hardware', v)}
+                theme={theme}
+                isMobile={isMobile}
+              />
+            </View>
+            
+            <View style={styles.kitFormRow}>
+              <Text style={[styles.kitFormLabel, { color: theme.text }]}>🥢 Sticks</Text>
+              <UserGearSelector
+                category="sticks"
+                value={userKit.sticks}
+                onChange={(v) => handleGearChange('sticks', v)}
+                theme={theme}
+                isMobile={isMobile}
+              />
+            </View>
+          </View>
+          
+          <TouchableOpacity
+            onPress={handleCompare}
+            disabled={!hasUserGear}
+            style={[
+              styles.kitCompareButton,
+              { backgroundColor: hasUserGear ? '#dc2626' : theme.border }
+            ]}
+            accessibilityRole="button"
+            accessibilityLabel="Compare your kit"
+          >
+            <Text style={styles.kitCompareButtonText}>
+              {showResults ? '🔄 Update Comparison' : '⚡ Compare My Kit'}
+            </Text>
+          </TouchableOpacity>
+        </View>
+        
+        {/* Results */}
+        {showResults && hasUserGear && (
+          <>
+            {/* Match percentage */}
+            <View style={[styles.section, styles.kitMatchSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+              <View style={styles.kitMatchPercentageContainer}>
+                <Text style={[styles.kitMatchPercentage, { color: getMatchColor(matchResult.percentage) }]}>
+                  {matchResult.percentage}%
+                </Text>
+                <Text style={[styles.kitMatchLabel, { color: theme.text }]}>
+                  Kit Match
+                </Text>
+                <Text style={[styles.kitMatchDescription, { color: theme.secondaryText }]}>
+                  {matchResult.percentage >= 80 && "🤘 Almost twins! You're rocking very similar gear."}
+                  {matchResult.percentage >= 60 && matchResult.percentage < 80 && "🎸 Nice! You share the same taste in several key pieces."}
+                  {matchResult.percentage >= 40 && matchResult.percentage < 60 && "🥁 Some common ground! A few upgrades could get you closer."}
+                  {matchResult.percentage < 40 && "🔥 Different paths, but that's what makes your sound unique!"}
+                </Text>
+              </View>
+            </View>
+            
+            {/* Matches */}
+            {matchResult.matches.length > 0 && (
+              <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+                <Text style={[styles.sectionTitle, { color: theme.text }]}>✅ Gear You Share</Text>
+                {matchResult.matches.map((match, index) => (
+                  <View key={index} style={[styles.kitMatchRow, { borderBottomColor: theme.border }]}>
+                    <View style={styles.kitMatchInfo}>
+                      <Text style={[styles.kitMatchCategory, { color: theme.secondaryText }]}>
+                        {match.category.charAt(0).toUpperCase() + match.category.slice(1)}
+                      </Text>
+                      <Text style={[styles.kitMatchGear, { color: theme.text }]}>
+                        {match.userGear}
+                      </Text>
+                    </View>
+                    <View style={[
+                      styles.kitMatchBadge,
+                      { backgroundColor: match.matchType === 'exact' ? '#22c55e20' : '#eab30820' }
+                    ]}>
+                      <Text style={[
+                        styles.kitMatchBadgeText,
+                        { color: match.matchType === 'exact' ? '#22c55e' : '#eab308' }
+                      ]}>
+                        {match.matchType === 'exact' ? 'Exact Match!' : 'Same Brand'}
+                      </Text>
+                    </View>
+                  </View>
+                ))}
+              </View>
+            )}
+            
+            {/* Upgrades / Differences */}
+            {matchResult.upgrades.length > 0 && (
+              <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+                <Text style={[styles.sectionTitle, { color: theme.text }]}>🎯 Upgrade to Match</Text>
+                <Text style={[styles.kitUpgradeHint, { color: theme.secondaryText }]}>
+                  These gear pieces differ from {drummer.name}'s setup
+                </Text>
+                {matchResult.upgrades.map((upgrade, index) => (
+                  <View key={index} style={[styles.kitUpgradeRow, { borderBottomColor: theme.border }]}>
+                    <Text style={[styles.kitUpgradeCategory, { color: theme.secondaryText }]}>
+                      {upgrade.category.charAt(0).toUpperCase() + upgrade.category.slice(1)}
+                    </Text>
+                    <View style={styles.kitUpgradeComparison}>
+                      <View style={styles.kitUpgradeItem}>
+                        <Text style={[styles.kitUpgradeLabel, { color: theme.secondaryText }]}>Your gear</Text>
+                        <Text style={[styles.kitUpgradeValue, { color: theme.text }]}>{upgrade.userGear}</Text>
+                      </View>
+                      <Text style={[styles.kitUpgradeArrow, { color: theme.secondaryText }]}>→</Text>
+                      <View style={styles.kitUpgradeItem}>
+                        <Text style={[styles.kitUpgradeLabel, { color: theme.secondaryText }]}>{drummer.name}'s</Text>
+                        <Text style={[styles.kitUpgradeValue, { color: '#dc2626' }]}>{upgrade.drummerGear}</Text>
+                      </View>
+                    </View>
+                  </View>
+                ))}
+              </View>
+            )}
+            
+            {/* Share results */}
+            <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+              <Text style={[styles.sectionTitle, { color: theme.text }]}>📤 Share Your Result</Text>
+              <Text style={[styles.kitShareHint, { color: theme.secondaryText }]}>
+                Show off your kit comparison to fellow drummers!
+              </Text>
+              <View style={styles.kitShareButtons}>
+                <TouchableOpacity
+                  onPress={handleTwitterShare}
+                  style={[styles.kitShareButton, { backgroundColor: '#000000' }]}
+                >
+                  <Text style={styles.kitShareButtonText}>𝕏 Tweet</Text>
+                </TouchableOpacity>
+                <TouchableOpacity
+                  onPress={handleShare}
+                  style={[styles.kitShareButton, { backgroundColor: '#dc2626' }]}
+                >
+                  <Text style={styles.kitShareButtonText}>{copied ? '✓ Copied!' : '🔗 Copy Link'}</Text>
+                </TouchableOpacity>
+              </View>
+            </View>
+          </>
+        )}
+        
+        {/* Drummer's full gear for reference */}
+        <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.sectionTitle, { color: theme.text }]}>{drummer.name}'s Full Setup</Text>
+          <View style={styles.kitReferenceGrid}>
+            <View style={styles.kitReferenceRow}>
+              <Text style={[styles.kitReferenceLabel, { color: theme.secondaryText }]}>Drums</Text>
+              <Text style={[styles.kitReferenceValue, { color: theme.text }]}>{drummer.gear.drums || '-'}</Text>
+            </View>
+            <View style={styles.kitReferenceRow}>
+              <Text style={[styles.kitReferenceLabel, { color: theme.secondaryText }]}>Snare</Text>
+              <Text style={[styles.kitReferenceValue, { color: theme.text }]}>{drummer.gear.snare || '-'}</Text>
+            </View>
+            <View style={styles.kitReferenceRow}>
+              <Text style={[styles.kitReferenceLabel, { color: theme.secondaryText }]}>Cymbals</Text>
+              <Text style={[styles.kitReferenceValue, { color: theme.text }]}>{drummer.gear.cymbals || '-'}</Text>
+            </View>
+            <View style={styles.kitReferenceRow}>
+              <Text style={[styles.kitReferenceLabel, { color: theme.secondaryText }]}>Hardware</Text>
+              <Text style={[styles.kitReferenceValue, { color: theme.text }]}>{drummer.gear.hardware || '-'}</Text>
+            </View>
+            <View style={styles.kitReferenceRow}>
+              <Text style={[styles.kitReferenceLabel, { color: theme.secondaryText }]}>Sticks</Text>
+              <Text style={[styles.kitReferenceValue, { color: theme.text }]}>{drummer.gear.sticks || '-'}</Text>
+            </View>
+          </View>
+        </View>
+      </ScrollView>
     </View>
   );
 }
@@ -3331,6 +4017,570 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
   );
 }
 
+// ===============================================
+// COMPARE YOUR KIT: User Gear Comparison Tool
+// ===============================================
+
+// Helper to get/set user kit from localStorage
+function getUserKitFromStorage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
+  try {
+    const stored = localStorage.getItem('metalforge_user_kit');
+    return stored ? JSON.parse(stored) : null;
+  } catch {
+    return null;
+  }
+}
+
+function saveUserKitToStorage(kit) {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return;
+  try {
+    localStorage.setItem('metalforge_user_kit', JSON.stringify(kit));
+  } catch {}
+}
+
+// Helper to get compare-kit params from URL
+function getCompareKitSlugFromURL() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(/^\/compare-kit\/([a-z0-9-]+)$/i);
+  return match ? match[1] : null;
+}
+
+// Update URL for shareable comparison
+function updateCompareKitURL(drummerSlug) {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return;
+  const newPath = drummerSlug ? `/compare-kit/${drummerSlug}` : '/';
+  window.history.pushState({}, '', newPath);
+}
+
+// Calculate gear match percentage and details
+function calculateGearMatch(userKit, drummerGear) {
+  if (!userKit || !drummerGear) return { percentage: 0, matches: [], differences: [] };
+  
+  const gearCategories = ['drums', 'snare', 'cymbals', 'hardware', 'sticks'];
+  const matches = [];
+  const differences = [];
+  let totalScore = 0;
+  let maxScore = 0;
+  
+  gearCategories.forEach(category => {
+    const userValue = (userKit[category] || '').toLowerCase().trim();
+    const drummerValue = (drummerGear[category] || '').toLowerCase().trim();
+    
+    if (!drummerValue) return; // Skip if drummer doesn't have this category
+    
+    maxScore += 100;
+    
+    if (!userValue) {
+      differences.push({
+        category,
+        userGear: null,
+        drummerGear: drummerGear[category],
+        matchType: 'missing'
+      });
+      return;
+    }
+    
+    // Extract brand names for comparison
+    const userBrands = userValue.split(/[\s,]+/).filter(w => w.length > 2);
+    const drummerBrands = drummerValue.split(/[\s,]+/).filter(w => w.length > 2);
+    
+    // Check for brand matches
+    const brandMatches = userBrands.filter(ub => 
+      drummerBrands.some(db => db.includes(ub) || ub.includes(db))
+    );
+    
+    // Check for exact or partial match
+    if (userValue === drummerValue) {
+      totalScore += 100;
+      matches.push({
+        category,
+        userGear: userKit[category],
+        drummerGear: drummerGear[category],
+        matchType: 'exact'
+      });
+    } else if (brandMatches.length > 0) {
+      // Brand match gives partial credit
+      const brandScore = Math.min(80, brandMatches.length * 40);
+      totalScore += brandScore;
+      matches.push({
+        category,
+        userGear: userKit[category],
+        drummerGear: drummerGear[category],
+        matchType: 'brand',
+        matchedBrands: brandMatches
+      });
+    } else {
+      differences.push({
+        category,
+        userGear: userKit[category],
+        drummerGear: drummerGear[category],
+        matchType: 'different'
+      });
+    }
+  });
+  
+  const percentage = maxScore > 0 ? Math.round((totalScore / maxScore) * 100) : 0;
+  
+  return { percentage, matches, differences };
+}
+
+// Update document meta for compare-kit page
+function updateCompareKitMeta(drummer, matchPercentage) {
+  if (Platform.OS !== 'web' || typeof document === 'undefined') return;
+
+  const setMeta = (name, content, isProperty = false) => {
+    const attr = isProperty ? 'property' : 'name';
+    let meta = document.querySelector(`meta[${attr}="${name}"]`);
+    if (!meta) {
+      meta = document.createElement('meta');
+      meta.setAttribute(attr, name);
+      document.head.appendChild(meta);
+    }
+    meta.setAttribute('content', content);
+  };
+
+  if (drummer && matchPercentage !== null) {
+    const title = `My kit is ${matchPercentage}% match with ${drummer.name}! | Metal Drummer Gear`;
+    const description = `Compare your drum kit with ${drummer.name}'s legendary gear setup. See what gear you share and find upgrades to match your idol's sound!`;
+    const shareUrl = `https://metalforge.io/compare-kit/${toSlug(drummer.name)}`;
+
+    document.title = title;
+    setMeta('description', description);
+    setMeta('og:title', title, true);
+    setMeta('og:description', description, true);
+    setMeta('og:type', 'website', true);
+    setMeta('og:image', drummer.image || 'https://metalforge.io/og-compare.png', true);
+    setMeta('og:url', shareUrl, true);
+    setMeta('twitter:card', 'summary_large_image');
+    setMeta('twitter:title', title);
+    setMeta('twitter:description', description);
+    setMeta('twitter:image', drummer.image);
+  } else {
+    const title = 'Compare Your Kit | Metal Drummer Gear';
+    const description = 'Compare your drum kit with legendary metal drummers. See what gear you share and discover upgrades to match their sound!';
+
+    document.title = title;
+    setMeta('description', description);
+    setMeta('og:title', title, true);
+    setMeta('og:description', description, true);
+  }
+}
+
+// Gear Input Form Component
+function GearInputForm({ userKit, onKitChange, theme, isMobile }) {
+  const gearFields = [
+    { key: 'drums', label: 'Drums', placeholder: 'e.g., Tama Starclassic, Pearl Masters...' },
+    { key: 'snare', label: 'Snare', placeholder: 'e.g., Tama Starphonic Steel 14x6...' },
+    { key: 'cymbals', label: 'Cymbals', placeholder: 'e.g., Zildjian A Custom, Sabian AAX...' },
+    { key: 'hardware', label: 'Hardware', placeholder: 'e.g., DW 9000 pedals, Pearl stands...' },
+    { key: 'sticks', label: 'Sticks', placeholder: 'e.g., Vic Firth 5A, Zildjian 5B...' },
+  ];
+
+  return (
+    <View style={styles.gearInputForm}>
+      {gearFields.map(field => (
+        <View key={field.key} style={styles.gearInputField}>
+          <Text style={[styles.gearInputLabel, { color: theme.text }]}>{field.label}</Text>
+          {Platform.OS === 'web' ? (
+            <input
+              type="text"
+              value={userKit[field.key] || ''}
+              onChange={(e) => onKitChange({ ...userKit, [field.key]: e.target.value })}
+              placeholder={field.placeholder}
+              style={{
+                width: '100%',
+                padding: '12px 16px',
+                fontSize: 14,
+                borderRadius: 8,
+                border: `1px solid ${theme.border}`,
+                backgroundColor: theme.background,
+                color: theme.text,
+                outline: 'none',
+              }}
+            />
+          ) : (
+            <TextInput
+              value={userKit[field.key] || ''}
+              onChangeText={(text) => onKitChange({ ...userKit, [field.key]: text })}
+              placeholder={field.placeholder}
+              placeholderTextColor={theme.secondaryText}
+              style={[styles.gearInputText, { 
+                backgroundColor: theme.background, 
+                borderColor: theme.border, 
+                color: theme.text 
+              }]}
+            />
+          )}
+        </View>
+      ))}
+    </View>
+  );
+}
+
+// Comparison Result Card Component
+function ComparisonResultCard({ match, drummer, theme, isMobile }) {
+  const categoryLabels = {
+    drums: '🥁 Drums',
+    snare: '🔵 Snare',
+    cymbals: '🔔 Cymbals',
+    hardware: '⚙️ Hardware',
+    sticks: '🥢 Sticks',
+  };
+
+  const getMatchBadge = (matchType) => {
+    switch (matchType) {
+      case 'exact':
+        return { text: '✓ Perfect Match!', color: '#22c55e' };
+      case 'brand':
+        return { text: '⚡ Brand Match', color: '#f59e0b' };
+      case 'missing':
+        return { text: '➕ Add Gear', color: '#6b7280' };
+      case 'different':
+        return { text: '↑ Upgrade Path', color: '#dc2626' };
+      default:
+        return { text: '', color: theme.secondaryText };
+    }
+  };
+
+  const handleUpgradePress = (category, gearName) => {
+    const searchTerm = encodeURIComponent(gearName);
+    const url = `https://www.thomann.de/intl/search_dir.html?sw=${searchTerm}`;
+    if (Platform.OS === 'web') {
+      window.open(url, '_blank', 'noopener,noreferrer');
+    } else {
+      Linking.openURL(url);
+    }
+  };
+
+  return (
+    <View style={[styles.comparisonResultCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
+      {/* Match Percentage Header */}
+      <View style={styles.matchPercentageHeader}>
+        <Text style={[styles.matchPercentageValue, { color: theme.text }]}>
+          {match.percentage}%
+        </Text>
+        <Text style={[styles.matchPercentageLabel, { color: theme.secondaryText }]}>
+          Match with {drummer.name}
+        </Text>
+      </View>
+
+      {/* Matches Section */}
+      {match.matches.length > 0 && (
+        <View style={styles.matchesSection}>
+          <Text style={[styles.matchesSectionTitle, { color: '#22c55e' }]}>
+            ✓ Shared Gear ({match.matches.length})
+          </Text>
+          {match.matches.map((item, index) => {
+            const badge = getMatchBadge(item.matchType);
+            return (
+              <View key={index} style={[styles.matchItem, { backgroundColor: 'rgba(34, 197, 94, 0.1)' }]}>
+                <View style={styles.matchItemHeader}>
+                  <Text style={[styles.matchItemCategory, { color: theme.text }]}>
+                    {categoryLabels[item.category]}
+                  </Text>
+                  <View style={[styles.matchBadge, { backgroundColor: badge.color }]}>
+                    <Text style={styles.matchBadgeText}>{badge.text}</Text>
+                  </View>
+                </View>
+                <Text style={[styles.matchItemGear, { color: theme.secondaryText }]}>
+                  Your gear: {item.userGear}
+                </Text>
+                {item.matchType === 'brand' && item.matchedBrands && (
+                  <Text style={[styles.matchItemNote, { color: '#f59e0b' }]}>
+                    Matched brands: {item.matchedBrands.join(', ')}
+                  </Text>
+                )}
+              </View>
+            );
+          })}
+        </View>
+      )}
+
+      {/* Differences Section */}
+      {match.differences.length > 0 && (
+        <View style={styles.differencesSection}>
+          <Text style={[styles.differencesSectionTitle, { color: '#dc2626' }]}>
+            ↑ Upgrade Opportunities ({match.differences.length})
+          </Text>
+          {match.differences.map((item, index) => {
+            const badge = getMatchBadge(item.matchType);
+            return (
+              <View key={index} style={[styles.differenceItem, { backgroundColor: 'rgba(220, 38, 38, 0.1)' }]}>
+                <View style={styles.matchItemHeader}>
+                  <Text style={[styles.matchItemCategory, { color: theme.text }]}>
+                    {categoryLabels[item.category]}
+                  </Text>
+                  <View style={[styles.matchBadge, { backgroundColor: badge.color }]}>
+                    <Text style={styles.matchBadgeText}>{badge.text}</Text>
+                  </View>
+                </View>
+                {item.userGear && (
+                  <Text style={[styles.matchItemGear, { color: theme.secondaryText }]}>
+                    Your gear: {item.userGear}
+                  </Text>
+                )}
+                <Text style={[styles.drummerGearLabel, { color: theme.text }]}>
+                  {drummer.name}'s gear:
+                </Text>
+                <Text style={[styles.drummerGearValue, { color: '#dc2626' }]}>
+                  {item.drummerGear}
+                </Text>
+                <TouchableOpacity
+                  onPress={() => handleUpgradePress(item.category, item.drummerGear)}
+                  style={styles.upgradeButton}
+                  accessibilityRole="link"
+                  accessibilityLabel={`Shop ${item.drummerGear}`}
+                >
+                  <Text style={styles.upgradeButtonText}>🛒 Shop This Gear</Text>
+                </TouchableOpacity>
+              </View>
+            );
+          })}
+        </View>
+      )}
+    </View>
+  );
+}
+
+// Compare Your Kit View Component
+function CompareYourKitView({ theme, onBack, drummer, onSelectDrummer }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  
+  const [userKit, setUserKit] = useState(() => getUserKitFromStorage() || {
+    drums: '',
+    snare: '',
+    cymbals: '',
+    hardware: '',
+    sticks: '',
+  });
+  const [showResults, setShowResults] = useState(false);
+  const [matchResult, setMatchResult] = useState(null);
+
+  // Save user kit to localStorage whenever it changes
+  useEffect(() => {
+    if (Object.values(userKit).some(v => v.trim())) {
+      saveUserKitToStorage(userKit);
+    }
+  }, [userKit]);
+
+  // Calculate match when showing results
+  useEffect(() => {
+    if (showResults && drummer) {
+      const result = calculateGearMatch(userKit, drummer.gear);
+      setMatchResult(result);
+      updateCompareKitMeta(drummer, result.percentage);
+      updateCompareKitURL(toSlug(drummer.name));
+    }
+  }, [showResults, drummer, userKit]);
+
+  const handleCompare = () => {
+    const hasGear = Object.values(userKit).some(v => v.trim());
+    if (!hasGear) {
+      if (Platform.OS === 'web') {
+        alert('Please enter at least one piece of gear to compare!');
+      }
+      return;
+    }
+    setShowResults(true);
+  };
+
+  const handleEditKit = () => {
+    setShowResults(false);
+    setMatchResult(null);
+  };
+
+  const handleShare = async (platform) => {
+    if (!matchResult || !drummer) return;
+    
+    const shareText = `My drum kit is ${matchResult.percentage}% match with ${drummer.name} (${drummer.band})! 🥁 Compare your kit:`;
+    const shareUrl = typeof window !== 'undefined' 
+      ? `${window.location.origin}/compare-kit/${toSlug(drummer.name)}`
+      : `https://metalforge.io/compare-kit/${toSlug(drummer.name)}`;
+
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      let url;
+      switch (platform) {
+        case 'twitter':
+          url = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(shareUrl)}`;
+          break;
+        case 'facebook':
+          url = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(shareUrl)}&quote=${encodeURIComponent(shareText)}`;
+          break;
+        case 'copy':
+          try {
+            await navigator.clipboard.writeText(`${shareText}\n${shareUrl}`);
+            alert('Copied to clipboard!');
+          } catch (err) {
+            console.error('Failed to copy:', err);
+          }
+          return;
+        default:
+          return;
+      }
+      window.open(url, '_blank', 'width=600,height=400');
+    }
+  };
+
+  // Results View
+  if (showResults && matchResult) {
+    return (
+      <ScrollView style={[styles.compareKitContainer, { backgroundColor: theme.background }]}>
+        <View style={styles.compareKitContent}>
+          {/* Back Button */}
+          <TouchableOpacity
+            onPress={handleEditKit}
+            style={[styles.backButton, { borderColor: theme.border }]}
+            accessibilityRole="button"
+            accessibilityLabel="Edit your kit"
+          >
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Edit My Kit</Text>
+          </TouchableOpacity>
+
+          {/* Results Header */}
+          <View style={styles.compareKitResultsHeader}>
+            <ImageWithFallback
+              source={{ uri: drummer.image }}
+              style={styles.compareKitDrummerImage}
+              accessibilityLabel={`Photo of ${drummer.name}`}
+            />
+            <Text style={[styles.compareKitResultsTitle, { color: theme.text }]}>
+              Your Kit vs {drummer.name}
+            </Text>
+            <Text style={[styles.compareKitResultsSubtitle, { color: theme.secondaryText }]}>
+              {drummer.band}
+            </Text>
+          </View>
+
+          {/* Comparison Result Card */}
+          <ComparisonResultCard 
+            match={matchResult} 
+            drummer={drummer} 
+            theme={theme} 
+            isMobile={isMobile} 
+          />
+
+          {/* Share Buttons */}
+          <View style={styles.shareSection}>
+            <Text style={[styles.shareTitle, { color: theme.text }]}>Share Your Comparison</Text>
+            <View style={styles.shareButtons}>
+              <TouchableOpacity
+                onPress={() => handleShare('twitter')}
+                style={[styles.shareButton, { backgroundColor: '#000000' }]}
+              >
+                <Text style={styles.shareButtonText}>𝕏 Twitter</Text>
+              </TouchableOpacity>
+              <TouchableOpacity
+                onPress={() => handleShare('facebook')}
+                style={[styles.shareButton, { backgroundColor: '#1877F2' }]}
+              >
+                <Text style={styles.shareButtonText}>Facebook</Text>
+              </TouchableOpacity>
+              <TouchableOpacity
+                onPress={() => handleShare('copy')}
+                style={[styles.shareButton, { backgroundColor: theme.border }]}
+              >
+                <Text style={[styles.shareButtonText, { color: theme.text }]}>📋 Copy</Text>
+              </TouchableOpacity>
+            </View>
+          </View>
+
+          {/* View Drummer Profile CTA */}
+          <TouchableOpacity
+            onPress={() => onSelectDrummer(drummer.id)}
+            style={[styles.viewProfileButton, { backgroundColor: '#dc2626' }]}
+            accessibilityRole="button"
+          >
+            <Text style={styles.viewProfileButtonText}>View {drummer.name}'s Full Gear →</Text>
+          </TouchableOpacity>
+
+          {/* Back to Drummer */}
+          <TouchableOpacity
+            onPress={onBack}
+            style={[styles.restartButton, { borderColor: theme.border }]}
+          >
+            <Text style={[styles.restartButtonText, { color: theme.text }]}>
+              ← Back to {drummer.name}'s Profile
+            </Text>
+          </TouchableOpacity>
+        </View>
+      </ScrollView>
+    );
+  }
+
+  // Gear Input View
+  return (
+    <ScrollView style={[styles.compareKitContainer, { backgroundColor: theme.background }]}>
+      <View style={styles.compareKitContent}>
+        {/* Back Button */}
+        <TouchableOpacity
+          onPress={onBack}
+          style={[styles.backButton, { borderColor: theme.border }]}
+          accessibilityRole="button"
+          accessibilityLabel="Back to drummer profile"
+        >
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+        </TouchableOpacity>
+
+        {/* Header */}
+        <View style={styles.compareKitHeader}>
+          <Text style={[styles.compareKitTitle, { color: theme.text }]}>
+            🥁 Compare Your Kit
+          </Text>
+          <Text style={[styles.compareKitSubtitle, { color: theme.secondaryText }]}>
+            Enter your drum gear below to see how it matches up with {drummer.name}'s legendary setup!
+          </Text>
+        </View>
+
+        {/* Drummer Info Card */}
+        <View style={[styles.compareKitDrummerCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <ImageWithFallback
+            source={{ uri: drummer.image }}
+            style={styles.compareKitDrummerThumb}
+            accessibilityLabel={`Photo of ${drummer.name}`}
+          />
+          <View style={styles.compareKitDrummerInfo}>
+            <Text style={[styles.compareKitDrummerName, { color: theme.text }]}>{drummer.name}</Text>
+            <Text style={[styles.compareKitDrummerBand, { color: theme.secondaryText }]}>{drummer.band}</Text>
+          </View>
+        </View>
+
+        {/* Gear Input Form */}
+        <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.sectionTitle, { color: theme.text }]}>Your Gear</Text>
+          <Text style={[styles.compareKitFormHint, { color: theme.secondaryText }]}>
+            Enter your gear brands and models. The more detail, the better the match!
+          </Text>
+          <GearInputForm 
+            userKit={userKit} 
+            onKitChange={setUserKit} 
+            theme={theme} 
+            isMobile={isMobile}
+          />
+        </View>
+
+        {/* Compare Button */}
+        <TouchableOpacity
+          onPress={handleCompare}
+          style={[styles.compareKitSubmitButton]}
+          accessibilityRole="button"
+          accessibilityLabel="Compare your kit"
+        >
+          <Text style={styles.compareKitSubmitButtonText}>Compare My Kit 🔍</Text>
+        </TouchableOpacity>
+
+        {/* Saved Kit Note */}
+        {Object.values(userKit).some(v => v.trim()) && (
+          <Text style={[styles.savedKitNote, { color: theme.secondaryText }]}>
+            💾 Your kit is saved and will be remembered for future comparisons!
+          </Text>
+        )}
+      </View>
+    </ScrollView>
+  );
+}
+
 // Newsletter Signup Footer Component
 function NewsletterFooter({ theme }) {
   const { width } = useWindowDimensions();
@@ -3564,6 +4814,9 @@ function AppContent() {
   const [showPrivacy, setShowPrivacy] = useState(() => isPrivacyPage());
   const [selectedGear, setSelectedGear] = useState(null);
   const [loadingGear, setLoadingGear] = useState(false);
+  // Compare Your Kit state
+  const [showCompareYourKit, setShowCompareYourKit] = useState(false);
+  const [compareKitDrummer, setCompareKitDrummer] = useState(null);
 
   // Search and filter state
   const [filters, setFilters] = useState(() => getFiltersFromURL());
@@ -3991,6 +5244,22 @@ function AppContent() {
     }
   };
 
+  const handleCompareYourKit = (drummer) => {
+    setCompareKitDrummer(drummer);
+    setShowCompareYourKit(true);
+    // Track event
+    if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
+      window.gtag('event', 'open_compare_kit', {
+        drummer_name: drummer.name,
+      });
+    }
+  };
+
+  const handleCloseCompareYourKit = () => {
+    setShowCompareYourKit(false);
+    setCompareKitDrummer(null);
+  };
+
   if (loadingDetail || loadingGear) {
     return (
       <View style={[styles.container, { backgroundColor: theme.background }]}>
@@ -4006,6 +5275,16 @@ function AppContent() {
 
   // Determine which view to show
   const renderContent = () => {
+    // Compare Your Kit modal (full-screen view)
+    if (showCompareYourKit && compareKitDrummer) {
+      return (
+        <CompareYourKitModal
+          drummer={compareKitDrummer}
+          theme={theme}
+          onClose={handleCloseCompareYourKit}
+        />
+      );
+    }
     if (selectedGear) {
       return (
         <GearDetail
@@ -4050,7 +5329,7 @@ function AppContent() {
       );
     }
     if (selectedDrummer) {
-      return <DrummerDetail drummer={selectedDrummer} theme={theme} onBack={handleBack} onSelectGear={handleSelectGear} />;
+      return <DrummerDetail drummer={selectedDrummer} theme={theme} onBack={handleBack} onSelectGear={handleSelectGear} onCompareYourKit={handleCompareYourKit} />;
     }
     return (
       <View style={styles.mainContent} accessibilityRole="main">
@@ -6083,5 +7362,250 @@ const styles = StyleSheet.create({
     marginTop: 8,
     width: '100%',
     textAlign: 'center',
+  },
+  // ==========================================
+  // COMPARE YOUR KIT STYLES
+  // ==========================================
+  kitCompareModal: {
+    flex: 1,
+  },
+  kitCompareContent: {
+    padding: 20,
+    paddingBottom: 40,
+  },
+  kitCompareHeader: {
+    marginBottom: 16,
+  },
+  kitCompareTitle: {
+    fontSize: 28,
+    fontWeight: 'bold',
+    marginBottom: 8,
+  },
+  kitCompareSubtitle: {
+    fontSize: 16,
+    marginBottom: 20,
+  },
+  kitCompareDrummerCard: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    padding: 16,
+    borderRadius: 12,
+    borderWidth: 1,
+    marginBottom: 20,
+  },
+  kitCompareDrummerImage: {
+    width: 60,
+    height: 60,
+    borderRadius: 30,
+    marginRight: 16,
+  },
+  kitCompareDrummerInfo: {
+    flex: 1,
+  },
+  kitCompareDrummerName: {
+    fontSize: 18,
+    fontWeight: '600',
+    marginBottom: 4,
+  },
+  kitCompareDrummerBand: {
+    fontSize: 14,
+  },
+  kitFormHeader: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    marginBottom: 16,
+  },
+  kitClearButton: {
+    fontSize: 14,
+    fontWeight: '500',
+  },
+  kitFormGrid: {
+    gap: 16,
+  },
+  kitFormRow: {
+    gap: 8,
+  },
+  kitFormLabel: {
+    fontSize: 14,
+    fontWeight: '600',
+  },
+  kitCompareButton: {
+    marginTop: 20,
+    paddingVertical: 16,
+    paddingHorizontal: 24,
+    borderRadius: 8,
+    alignItems: 'center',
+  },
+  kitCompareButtonText: {
+    color: '#ffffff',
+    fontSize: 16,
+    fontWeight: '700',
+  },
+  kitMatchSection: {
+    alignItems: 'center',
+    paddingVertical: 32,
+  },
+  kitMatchPercentageContainer: {
+    alignItems: 'center',
+  },
+  kitMatchPercentage: {
+    fontSize: 72,
+    fontWeight: '900',
+    fontFamily: Platform.OS === 'ios' ? 'Menlo' : 'monospace',
+  },
+  kitMatchLabel: {
+    fontSize: 20,
+    fontWeight: '600',
+    marginTop: 8,
+  },
+  kitMatchDescription: {
+    fontSize: 15,
+    textAlign: 'center',
+    marginTop: 12,
+    maxWidth: 300,
+    lineHeight: 22,
+  },
+  kitMatchRow: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    paddingVertical: 12,
+    borderBottomWidth: 1,
+  },
+  kitMatchInfo: {
+    flex: 1,
+  },
+  kitMatchCategory: {
+    fontSize: 12,
+    textTransform: 'uppercase',
+    marginBottom: 4,
+  },
+  kitMatchGear: {
+    fontSize: 15,
+    fontWeight: '500',
+  },
+  kitMatchBadge: {
+    paddingVertical: 6,
+    paddingHorizontal: 12,
+    borderRadius: 16,
+    marginLeft: 12,
+  },
+  kitMatchBadgeText: {
+    fontSize: 12,
+    fontWeight: '600',
+  },
+  kitUpgradeHint: {
+    fontSize: 14,
+    marginBottom: 16,
+  },
+  kitUpgradeRow: {
+    paddingVertical: 16,
+    borderBottomWidth: 1,
+  },
+  kitUpgradeCategory: {
+    fontSize: 12,
+    textTransform: 'uppercase',
+    marginBottom: 12,
+  },
+  kitUpgradeComparison: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 12,
+  },
+  kitUpgradeItem: {
+    flex: 1,
+  },
+  kitUpgradeLabel: {
+    fontSize: 11,
+    marginBottom: 4,
+  },
+  kitUpgradeValue: {
+    fontSize: 14,
+    fontWeight: '500',
+  },
+  kitUpgradeArrow: {
+    fontSize: 20,
+  },
+  kitShareHint: {
+    fontSize: 14,
+    marginBottom: 16,
+  },
+  kitShareButtons: {
+    flexDirection: 'row',
+    gap: 12,
+    flexWrap: 'wrap',
+  },
+  kitShareButton: {
+    flex: 1,
+    minWidth: 120,
+    paddingVertical: 12,
+    paddingHorizontal: 20,
+    borderRadius: 8,
+    alignItems: 'center',
+  },
+  kitShareButtonText: {
+    color: '#ffffff',
+    fontSize: 14,
+    fontWeight: '600',
+  },
+  kitReferenceGrid: {
+    gap: 8,
+  },
+  kitReferenceRow: {
+    flexDirection: 'row',
+    paddingVertical: 8,
+    borderBottomWidth: 1,
+    borderBottomColor: 'rgba(128, 128, 128, 0.2)',
+  },
+  kitReferenceLabel: {
+    width: 80,
+    fontSize: 13,
+    fontWeight: '500',
+  },
+  kitReferenceValue: {
+    flex: 1,
+    fontSize: 13,
+  },
+  // Compare Your Kit button on drummer profile
+  compareKitButton: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'center',
+    paddingVertical: 14,
+    paddingHorizontal: 20,
+    borderRadius: 8,
+    gap: 8,
+    marginBottom: 16,
+  },
+  compareKitButtonText: {
+    color: '#ffffff',
+    fontSize: 15,
+    fontWeight: '600',
+  },
+  // Compare Your Kit CTA section on drummer profile
+  compareYourKitCTA: {
+    borderWidth: 2,
+    alignItems: 'center',
+    textAlign: 'center',
+  },
+  compareYourKitDescription: {
+    fontSize: 15,
+    textAlign: 'center',
+    marginBottom: 16,
+    lineHeight: 22,
+  },
+  compareYourKitButton: {
+    backgroundColor: '#dc2626',
+    paddingVertical: 14,
+    paddingHorizontal: 28,
+    borderRadius: 8,
+    minWidth: 180,
+    alignItems: 'center',
+  },
+  compareYourKitButtonText: {
+    color: '#ffffff',
+    fontSize: 16,
+    fontWeight: '700',
   },
 });

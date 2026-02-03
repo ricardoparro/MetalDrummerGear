@@ -6186,16 +6186,20 @@ function AppContent() {
   }, [drummers, drummersError]);
 
   const handleSelectDrummer = async (id, skipUrlUpdate = false) => {
+    console.log('[DEBUG] handleSelectDrummer called with id:', id);
     setLoadingDetail(true);
     try {
       const detailUrl = typeof window !== 'undefined' && window.location.hostname !== 'localhost'
         ? `/api/drummers/${id}`
         : `http://localhost:3001/api/drummers/${id}`;
+      console.log('[DEBUG] Fetching from:', detailUrl);
       const response = await fetch(detailUrl);
+      console.log('[DEBUG] Response status:', response.status);
       if (!response.ok) {
         throw new Error('Failed to fetch drummer details');
       }
       const data = await response.json();
+      console.log('[DEBUG] Got data for:', data.name);
       setSelectedDrummer(data);
       setSelectedDrummerId(id);
       // Update URL to reflect the drummer profile
@@ -6204,8 +6208,9 @@ function AppContent() {
         window.history.pushState({}, '', `/drummer/${slug}`);
       }
     } catch (err) {
-      console.error('Error fetching drummer details:', err);
+      console.error('[DEBUG] Error fetching drummer details:', err);
     } finally {
+      console.log('[DEBUG] Setting loadingDetail to false');
       setLoadingDetail(false);
     }
   };
@@ -6447,6 +6452,7 @@ function AppContent() {
       );
     }
     if (selectedDrummer) {
+      console.log('[DEBUG] Rendering DrummerDetail for:', selectedDrummer.name);
       return <DrummerDetail drummer={selectedDrummer} theme={theme} onBack={handleBack} onSelectGear={handleSelectGear} onCompareYourKit={handleCompareYourKit} allDrummers={drummers} />;
     }
     return (

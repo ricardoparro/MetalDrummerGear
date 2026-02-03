@@ -1344,7 +1344,7 @@ const drummers = [
     band: 'Godsmack / Ugly Kid Joe / Amen',
     genre: 'Hard Rock / Heavy Metal / Nu Metal',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/4/4c/Godsmack_-_2019160161909_2019-06-09_Rock_am_Ring_-_0432_-_B70I1399.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6e/Godsmack_-_2019160161909_2019-06-09_Rock_am_Ring_-_0432_-_B70I1399.jpg',
     bio: 'Shannon Larkin (born April 24, 1967) is an American drummer best known as the former drummer of Godsmack, a position he held from 2002 to 2024, making him the band\'s longest-serving drummer. His powerful, groove-oriented style was essential to Godsmack\'s signature heavy sound. Before Godsmack, Larkin played with Wrathchild America, Souls at Zero, Ugly Kid Joe, and Amen. He has been playing drums since age ten and briefly filled in for Black Sabbath on one show in 1997 when Mike Bordin was unavailable. Known for his hard-hitting style and versatility, Larkin has been a Sabian cymbal artist for decades.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Shannon_Larkin',
@@ -1364,7 +1364,7 @@ const drummers = [
       sources: ['https://sabian.com/artist/shannon-larkin/', 'https://en.wikipedia.org/wiki/Shannon_Larkin']
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/4/4c/Godsmack_-_2019160161909_2019-06-09_Rock_am_Ring_-_0432_-_B70I1399.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/6/6e/Godsmack_-_2019160161909_2019-06-09_Rock_am_Ring_-_0432_-_B70I1399.jpg'
     ],
     endorsements: [
       { name: 'ddrum Drums', url: 'https://www.ddrum.com' },
@@ -1385,7 +1385,7 @@ const drummers = [
     band: 'Fear Factory / Arkaea / Brujeria',
     genre: 'Industrial Metal / Death Metal',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/e/e3/Fear_factory_010505_117.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/7/71/Fear_factory_010505_117.jpg',
     bio: 'Raymond Herrera is an American drummer best known as the founding member and former drummer of industrial metal band Fear Factory. His innovative "stop-go" double bass technique, rather than the traditional sustained blast approach, became a signature element of Fear Factory\'s mechanical, precise sound. He played on iconic albums like Soul of a New Machine (1992), Demanufacture (1995), and Obsolete (1998). Beyond drumming, Herrera has composed music for numerous video games including Tom Clancy\'s Ghost Recon Advanced Warfighter and Scarface: The World Is Yours. He also drummed for Brujeria and later formed Arkaea.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Raymond_Herrera',
@@ -1404,7 +1404,7 @@ const drummers = [
       sources: ['https://en.wikipedia.org/wiki/Raymond_Herrera', 'https://www.musicradar.com/tuition/drums/how-to-sound-like-fear-factorys-raymond-herrera-210027']
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/e/e3/Fear_factory_010505_117.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/7/71/Fear_factory_010505_117.jpg'
     ],
     endorsements: [
       { name: 'Tama Drums', url: 'https://www.tama.com' },
@@ -1424,7 +1424,7 @@ const drummers = [
     band: 'Mats/Morgan Band / Kaipa / Fredrik Thordendal\'s Special Defects',
     genre: 'Progressive Rock / Progressive Metal / Jazz Fusion',
     country: 'Sweden',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/5/58/Morgan_Agren_04.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/1/12/Morgan_Agren_04.jpg',
     bio: 'Morgan Ågren (born July 13, 1967) is a Swedish drummer renowned for his extraordinary technical ability and complex polyrhythmic playing. He began drumming as a child and formed the Mats/Morgan Band with keyboardist Mats Öberg in 1981, performing Frank Zappa\'s music. Ågren has collaborated with Dweezil and Ahmet Zappa, recorded the legendary Sol Niger Within album with Meshuggah\'s Fredrik Thordendal, and has been a member of progressive rock band Kaipa since 2002. He\'s also worked with Devin Townsend on Casualties of Cool and Empath. A documentary about him, "Morgan Ågren\'s Conundrum: A Percussive Misadventure," was released in 2013.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Morgan_%C3%85gren',
@@ -1443,7 +1443,7 @@ const drummers = [
       sources: ['https://en.wikipedia.org/wiki/Morgan_%C3%85gren']
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/5/58/Morgan_Agren_04.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/1/12/Morgan_Agren_04.jpg'
     ],
     endorsements: [
       { name: 'Sonor Drums', url: 'https://www.sonor.com' },
@@ -1463,7 +1463,7 @@ const drummers = [
     band: 'Sepultura / Cavalera Conspiracy / Soulwax',
     genre: 'Thrash Metal / Groove Metal / Death Metal',
     country: 'Brazil',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/1/13/20170805_Wacken_Wacken_Open_Air_Max_%26_Iggor_Cavalera_Return_To_Roots_0093.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/b/b6/20170805_Wacken_Wacken_Open_Air_Max_%26_Iggor_Cavalera_Return_To_Roots_0093.jpg',
     bio: 'Igor Cavalera (born September 4, 1970), also known as Iggor Cavalera, is a Brazilian drummer who co-founded the legendary metal band Sepultura with his brother Max in 1984. His drumming evolved from pure thrash metal speed to incorporating tribal and world music influences, particularly on groundbreaking albums like Chaos A.D. (1993) and Roots (1996). Known as a hard-hitting drummer with impeccable timing, he left Sepultura in 2006 and reunited with Max in Cavalera Conspiracy. He has since expanded into electronic music with DJ duo Mixhell and became one of three drummers in Soulwax. His influences include Dave Lombardo, Bill Ward, and Stewart Copeland.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Igor_Cavalera',
@@ -1483,7 +1483,7 @@ const drummers = [
       sources: ['https://en.wikipedia.org/wiki/Igor_Cavalera']
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/1/13/20170805_Wacken_Wacken_Open_Air_Max_%26_Iggor_Cavalera_Return_To_Roots_0093.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/b/b6/20170805_Wacken_Wacken_Open_Air_Max_%26_Iggor_Cavalera_Return_To_Roots_0093.jpg'
     ],
     endorsements: [
       { name: 'Tama Drums', url: 'https://www.tama.com' },
@@ -1503,7 +1503,7 @@ const drummers = [
     band: 'Black Sabbath',
     genre: 'Heavy Metal / Hard Rock / Blues Rock',
     country: 'UK',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/0/0a/Black_Sabbath_%281970%29_%28cropped%29.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/7/7d/Black_Sabbath_%281970%29_%28cropped%29.jpg',
     bio: 'Bill Ward (born May 5, 1948) is an English drummer and co-founder of Black Sabbath, one of the most influential bands in heavy metal history. Alongside Ozzy Osbourne, Tony Iommi, and Geezer Butler, Ward helped create the template for heavy metal drumming. His jazz-influenced style, combining swing with power, set him apart from other rock drummers of the era. He played on all eight classic Ozzy-era Sabbath albums, including groundbreaking records like Paranoid (1970) and Master of Reality (1971). Ward\'s influences include jazz greats Gene Krupa, Buddy Rich, and John Bonham. He also sang lead on the ballad "It\'s Alright" from Technical Ecstasy.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Bill_Ward_(musician)',
@@ -1522,7 +1522,7 @@ const drummers = [
       sources: ['https://en.wikipedia.org/wiki/Bill_Ward_(musician)']
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/0/0a/Black_Sabbath_%281970%29_%28cropped%29.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/7/7d/Black_Sabbath_%281970%29_%28cropped%29.jpg'
     ],
     endorsements: [
       { name: 'Ludwig Drums', url: 'https://www.ludwig-drums.com' },
@@ -1748,7 +1748,7 @@ const drummers = [
     band: 'Cryptopsy',
     genre: 'Technical Death Metal / Brutal Death Metal',
     country: 'Canada',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/f/f4/Cryptopsy_Party.San_Metal_Open_Air_2017_20.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/b/bc/Cryptopsy_Party.San_Metal_Open_Air_2017_20.jpg',
     bio: 'Flo Mounier is a Canadian drummer and the only constant member of technical death metal pioneers Cryptopsy, which he joined in 1992. Born in Montreal, Quebec, Mounier is widely regarded as one of the fastest and most technically proficient drummers in extreme metal. His innovative blast beat techniques, gravity blasts, and complex polyrhythmic patterns have influenced countless death metal drummers. Albums like "None So Vile" (1996) and "Whisper Supremacy" (1998) showcase his legendary speed and precision. Beyond his raw power, Mounier incorporates jazz and fusion elements into his playing, adding musicality to Cryptopsy\'s brutality. He has been endorsed by Pearl, Sabian, and Vic Firth, and has released instructional DVDs sharing his techniques.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Cryptopsy',
@@ -1767,7 +1767,7 @@ const drummers = [
       sources: ['https://pearldrum.com/en/artists', 'https://sabian.com/artists']
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/f/f4/Cryptopsy_Party.San_Metal_Open_Air_2017_20.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/b/bc/Cryptopsy_Party.San_Metal_Open_Air_2017_20.jpg'
     ],
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },

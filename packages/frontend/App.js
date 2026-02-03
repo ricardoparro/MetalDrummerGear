@@ -1416,6 +1416,311 @@ function AffordableAlternatives({ drummer, theme, onSelectGear }) {
   );
 }
 
+// Affordable Alternatives Section - Shows drummers with similar sounds at lower price points
+function AffordableAlternativesSection({ drummer, allDrummers, theme, onSelectDrummer }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const [isExpanded, setIsExpanded] = useState(false);
+
+  const kitCost = calculateKitCost(drummer.gear);
+  if (!kitCost) return null;
+
+  const drummerTier = getBudgetTier(kitCost.totalEur);
+  const tierOrder = ['entry', 'intermediate', 'professional', 'premium'];
+  const drummerTierIndex = tierOrder.indexOf(drummerTier);
+
+  // Don't show if drummer already uses entry-level gear
+  if (drummerTierIndex <= 0) return null;
+
+  // Find drummers with similar style but lower budget tiers
+  const affordableDrummers = allDrummers
+    .filter(d => {
+      if (d.id === drummer.id) return false;
+      const cost = calculateKitCost(d.gear);
+      if (!cost) return false;
+      const tier = getBudgetTier(cost.totalEur);
+      return tierOrder.indexOf(tier) < drummerTierIndex;
+    })
+    .slice(0, 4);
+
+  if (affordableDrummers.length === 0) return null;
+
+  return (
+    <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+      <TouchableOpacity
+        onPress={() => setIsExpanded(!isExpanded)}
+        style={styles.affordableAlternativesHeader}
+        accessibilityRole="button"
+        accessibilityLabel={`${isExpanded ? 'Collapse' : 'Expand'} affordable alternatives`}
+      >
+        <View>
+          <Text style={[styles.sectionTitle, { color: theme.text, marginBottom: 0 }]} accessibilityRole="header">
+            💰 Get This Sound for Less
+          </Text>
+          <Text style={[styles.affordableAlternativesSubtitle, { color: theme.secondaryText }]}>
+            Similar playing style, lower price point
+          </Text>
+        </View>
+        <Text style={[styles.expandIcon, { color: theme.secondaryText }]}>
+          {isExpanded ? '▲' : '▼'}
+        </Text>
+      </TouchableOpacity>
+
+      {isExpanded && (
+        <View style={styles.affordableAlternativesContent}>
+          <Text style={[styles.affordableAlternativesDescription, { color: theme.secondaryText }]}>
+            These drummers have a similar style to {drummer.name} but with more budget-friendly setups:
+          </Text>
+          <View style={[styles.alternativesGrid, isMobile && styles.alternativesGridMobile]}>
+            {affordableDrummers.map((d) => {
+              const cost = calculateKitCost(d.gear);
+              const tier = cost ? getBudgetTier(cost.totalEur) : 'entry';
+              return (
+                <TouchableOpacity
+                  key={d.id}
+                  onPress={() => onSelectDrummer(d.id)}
+                  style={[styles.alternativeCard, { backgroundColor: theme.background, borderColor: theme.border }]}
+                  accessibilityRole="button"
+                  accessibilityLabel={`View ${d.name}'s gear`}
+                >
+                  <ImageWithFallback source={{ uri: d.image }} style={styles.alternativeDrummerImage} />
+                  <View style={styles.alternativeInfo}>
+                    <Text style={[styles.alternativeName, { color: theme.text }]} numberOfLines={1}>{d.name}</Text>
+                    <Text style={[styles.alternativeBrand, { color: theme.secondaryText }]} numberOfLines={1}>{d.band}</Text>
+                    {cost && (
+                      <Text style={[styles.alternativePrice, { color: BUDGET_TIERS[tier]?.color || theme.text }]}>
+                        {BUDGET_TIERS[tier]?.emoji} {formatPrice(cost.totalEur, 'EUR')}
+                      </Text>
+                    )}
+                  </View>
+                </TouchableOpacity>
+              );
+            })}
+          </View>
+        </View>
+      )}
+    </View>
+  );
+}
+
+// Gear by Budget Page - Browse all gear organized by price tiers
+function GearByBudgetPage({ theme, onBack, drummers, onSelectDrummer }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const [selectedTier, setSelectedTier] = useState(getBudgetTierFromURL() || null);
+  const [gearItems, setGearItems] = useState([]);
+  const [loading, setLoading] = useState(true);
+
+  // Fetch gear data
+  useEffect(() => {
+    const fetchGear = async () => {
+      try {
+        const response = await fetch(
+          typeof window !== 'undefined' && window.location.hostname !== 'localhost'
+            ? '/api/gear'
+            : 'http://localhost:3001/api/gear'
+        );
+        if (response.ok) {
+          const data = await response.json();
+          setGearItems(data);
+        }
+      } catch (err) {
+        console.error('Error fetching gear:', err);
+      } finally {
+        setLoading(false);
+      }
+    };
+    fetchGear();
+  }, []);
+
+  // Update URL when tier changes
+  useEffect(() => {
+    updateBudgetTierURL(selectedTier);
+  }, [selectedTier]);
+
+  // Update document title
+  useEffect(() => {
+    if (typeof document !== 'undefined') {
+      document.title = selectedTier 
+        ? `${BUDGET_TIERS[selectedTier]?.label || 'Budget'} Gear | Metal Drummer Gear`
+        : 'Gear by Budget | Metal Drummer Gear';
+    }
+  }, [selectedTier]);
+
+  // Group gear by tier
+  const gearByTier = useMemo(() => {
+    const grouped = { entry: [], intermediate: [], professional: [], premium: [] };
+    gearItems.forEach(item => {
+      const tier = getBudgetTier(item.priceEur);
+      if (grouped[tier]) {
+        grouped[tier].push(item);
+      }
+    });
+    return grouped;
+  }, [gearItems]);
+
+  // Group drummers by their kit cost tier
+  const drummersByTier = useMemo(() => {
+    const grouped = { entry: [], intermediate: [], professional: [], premium: [] };
+    drummers.forEach(d => {
+      const cost = calculateKitCost(d.gear);
+      if (cost) {
+        const tier = getBudgetTier(cost.totalEur);
+        if (grouped[tier]) {
+          grouped[tier].push({ ...d, kitCost: cost });
+        }
+      }
+    });
+    return grouped;
+  }, [drummers]);
+
+  const tiersToShow = selectedTier ? [selectedTier] : Object.keys(BUDGET_TIERS);
+
+  if (loading) {
+    return (
+      <View style={[styles.container, { backgroundColor: theme.background }]}>
+        <View style={styles.centerContainer}>
+          <ActivityIndicator size="large" color={theme.text} />
+          <Text style={[styles.loadingText, { color: theme.secondaryText }]}>Loading gear data...</Text>
+        </View>
+      </View>
+    );
+  }
+
+  return (
+    <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]} contentContainerStyle={styles.detailContent}>
+      <TouchableOpacity
+        onPress={onBack}
+        style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+        accessibilityRole="button"
+        accessibilityLabel="Go back to home"
+      >
+        <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Home</Text>
+      </TouchableOpacity>
+
+      <Text style={[styles.compareTitle, { color: theme.text }]} accessibilityRole="header">
+        💰 Gear by Budget
+      </Text>
+      <Text style={[styles.compareSubtitle, { color: theme.secondaryText }]}>
+        Find the perfect gear for your budget. Browse by price tier or explore what pro drummers use at each level.
+      </Text>
+
+      {/* Tier Filter Pills */}
+      <View style={styles.budgetTierFilters}>
+        <TouchableOpacity
+          onPress={() => setSelectedTier(null)}
+          style={[
+            styles.budgetTierPill,
+            !selectedTier && styles.budgetTierPillActive,
+            { borderColor: theme.border }
+          ]}
+          accessibilityRole="button"
+          accessibilityLabel="Show all tiers"
+          accessibilityState={{ selected: !selectedTier }}
+        >
+          <Text style={[styles.budgetTierPillText, { color: !selectedTier ? '#fff' : theme.text }]}>All Tiers</Text>
+        </TouchableOpacity>
+        {Object.entries(BUDGET_TIERS).map(([key, tier]) => (
+          <TouchableOpacity
+            key={key}
+            onPress={() => setSelectedTier(key === selectedTier ? null : key)}
+            style={[
+              styles.budgetTierPill,
+              selectedTier === key && [styles.budgetTierPillActive, { backgroundColor: tier.color }],
+              { borderColor: tier.color }
+            ]}
+            accessibilityRole="button"
+            accessibilityLabel={`Filter by ${tier.label}`}
+            accessibilityState={{ selected: selectedTier === key }}
+          >
+            <Text style={[styles.budgetTierPillText, { color: selectedTier === key ? '#fff' : tier.color }]}>
+              {tier.emoji} {tier.shortLabel}
+            </Text>
+          </TouchableOpacity>
+        ))}
+      </View>
+
+      {/* Tier Sections */}
+      {tiersToShow.map(tierKey => {
+        const tier = BUDGET_TIERS[tierKey];
+        const tierDrummers = drummersByTier[tierKey] || [];
+        const tierGear = gearByTier[tierKey] || [];
+
+        return (
+          <View key={tierKey} style={[styles.section, { backgroundColor: theme.card, borderColor: tier.color, borderWidth: 2 }]}>
+            <View style={styles.budgetTierHeader}>
+              <Text style={[styles.sectionTitle, { color: theme.text }]}>
+                {tier.emoji} {tier.label}
+              </Text>
+              <Text style={[styles.budgetTierRange, { color: tier.color }]}>
+                {tier.minPrice === 0 ? 'Under' : formatPrice(tier.minPrice, 'EUR')} - {tier.maxPrice === Infinity ? '+' : formatPrice(tier.maxPrice, 'EUR')}
+              </Text>
+            </View>
+            <Text style={[styles.budgetTierDescription, { color: theme.secondaryText }]}>
+              {tier.description}
+            </Text>
+
+            {/* Drummers in this tier */}
+            {tierDrummers.length > 0 && (
+              <View style={styles.budgetTierSection}>
+                <Text style={[styles.budgetSectionLabel, { color: theme.text }]}>
+                  🥁 Drummers at this level ({tierDrummers.length})
+                </Text>
+                <ScrollView horizontal showsHorizontalScrollIndicator={false} style={styles.budgetDrummersScroll}>
+                  {tierDrummers.slice(0, 8).map(d => (
+                    <TouchableOpacity
+                      key={d.id}
+                      onPress={() => onSelectDrummer(d.id)}
+                      style={[styles.budgetDrummerCard, { backgroundColor: theme.background, borderColor: theme.border }]}
+                      accessibilityRole="button"
+                      accessibilityLabel={`View ${d.name}'s gear`}
+                    >
+                      <ImageWithFallback source={{ uri: d.image }} style={styles.budgetDrummerImage} />
+                      <Text style={[styles.budgetDrummerName, { color: theme.text }]} numberOfLines={1}>{d.name}</Text>
+                      <Text style={[styles.budgetDrummerCost, { color: tier.color }]}>
+                        {formatPrice(d.kitCost.totalEur, 'EUR')}
+                      </Text>
+                    </TouchableOpacity>
+                  ))}
+                </ScrollView>
+              </View>
+            )}
+
+            {/* Gear in this tier */}
+            {tierGear.length > 0 && (
+              <View style={styles.budgetTierSection}>
+                <Text style={[styles.budgetSectionLabel, { color: theme.text }]}>
+                  🎯 Popular gear ({tierGear.length} items)
+                </Text>
+                <View style={[styles.budgetGearGrid, isMobile && styles.budgetGearGridMobile]}>
+                  {tierGear.slice(0, 6).map(item => (
+                    <View
+                      key={item.id}
+                      style={[styles.budgetGearCard, { backgroundColor: theme.background, borderColor: theme.border }]}
+                    >
+                      <Text style={[styles.budgetGearBrand, { color: theme.secondaryText }]}>{item.brand}</Text>
+                      <Text style={[styles.budgetGearName, { color: theme.text }]} numberOfLines={2}>{item.name}</Text>
+                      <Text style={[styles.budgetGearPrice, { color: tier.color }]}>
+                        {formatPrice(item.priceEur, 'EUR')}
+                      </Text>
+                    </View>
+                  ))}
+                </View>
+              </View>
+            )}
+
+            {tierDrummers.length === 0 && tierGear.length === 0 && (
+              <Text style={[styles.emptyStateText, { color: theme.secondaryText }]}>
+                No data available for this tier yet.
+              </Text>
+            )}
+          </View>
+        );
+      })}
+    </ScrollView>
+  );
+}
+
 // Gear Timeline Component - Shows evolution of drummer's gear through their career
 function GearTimeline({ timeline, drummerName, theme }) {
   const [isExpanded, setIsExpanded] = useState(false);

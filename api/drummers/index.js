@@ -116,12 +116,7 @@ const drummers = [
         notes: 'Lars continues to use his signature Tama setup refined over decades of touring and recording.'
       }
     ]
-  ,
-    spotlight: {
-      quickFacts: ["Co-founded Metallica in 1981 after a classified ad","First Danish musician inducted into Rock Hall of Fame","Infamously sued Napster in 2000 over file sharing"],
-      iconicMoment: "The double bass intro to \"One\" that redefined thrash drumming",
-      gearHighlight: "Ahead aluminum drumsticks - pioneered their use in metal"
-    }},
+  },
   {
     id: 2,
     name: 'Joey Jordison',
@@ -222,12 +217,7 @@ const drummers = [
         notes: 'Joey battled transverse myelitis but continued performing until his passing in 2021.'
       }
     ]
-  ,
-    spotlight: {
-      quickFacts: ["Played on a rotating/inverted drum platform live","Recorded Slipknot's debut at age 23","Could play at 260+ BPM with precision"],
-      iconicMoment: "The 6-minute drum solo in \"Disasterpieces\" while spinning upside down",
-      gearHighlight: "Pearl 13x6.5\" signature snare - smaller for faster response"
-    }},
+  },
   {
     id: 3,
     name: 'Gene Hoglan',
@@ -329,12 +319,7 @@ const drummers = [
       { text: "Speed is useless without control. I'd rather play something perfectly at 180 BPM than sloppily at 220.", source: "Drumeo Interview", year: 2018 },
       { text: "Working with Chuck Schuldiner on Death taught me that extreme music can be intelligent and emotional, not just brutal.", source: "Revolver Magazine", year: 2016 }
     ]
-  ,
-    spotlight: {
-      quickFacts: ["Nicknamed \"The Atomic Clock\" for metronomic timing","Self-taught through playing along to Rush albums","Has recorded with over 20 major metal bands"],
-      iconicMoment: "The complex polyrhythms on Death's \"Symbolic\" album",
-      gearHighlight: "Uses a relatively small kit despite extreme metal credentials"
-    }},
+  },
   {
     id: 4,
     name: 'Dave Lombardo',
@@ -449,12 +434,7 @@ const drummers = [
         notes: 'At nearly 60, Dave remains one of the most active and influential drummers in extreme music.'
       }
     ]
-  ,
-    spotlight: {
-      quickFacts: ["Called \"The Godfather of Double Bass\"","Joined Slayer at just 16 years old","Has collaborated with John Zorn and Fantômas"],
-      iconicMoment: "The relentless double bass on \"Angel of Death\" intro",
-      gearHighlight: "Tama Speed Cobra pedals - requires finesse over brute force"
-    }},
+  },
   {
     id: 5,
     name: 'Tomas Haake',
@@ -569,12 +549,7 @@ const drummers = [
       { text: "I use two single pedals instead of a double pedal because I want more independence and control over each foot.", source: "Drumeo Interview", year: 2019 },
       { text: "'Bleed' took me six months of daily practice to play consistently. Some things just take time.", source: "Gear Gods Interview", year: 2017 }
     ]
-  ,
-    spotlight: {
-      quickFacts: ["Pioneer of polymetric/djent drumming","Programs Meshuggah's click tracks himself","Plays complex patterns on electronic V-Drums for writing"],
-      iconicMoment: "The mind-bending 23/16 groove on \"Bleed\" - took 6 months to master",
-      gearHighlight: "Minimal kit setup that produces maximum complexity"
-    }},
+  },
   {
     id: 6,
     name: 'George Kollias',
@@ -613,12 +588,7 @@ const drummers = [
       { title: 'US Tour 2013 DrumCam (Official)', youtubeId: '86YtBw5gmAM', year: 2013 },
       { title: 'Black Seeds Of Vengeance - Pearl Drum Cam', youtubeId: 'dU-JXLRqjiE', year: 2012 }
     ]
-  ,
-    spotlight: {
-      quickFacts: ["Holds speed records for single and double bass","Runs his own drum instructional program","Played Nile's complex Egyptian-themed death metal since 2004"],
-      iconicMoment: "Performing \"Kafir!\" live - 280 BPM blast beats sustained",
-      gearHighlight: "Uses heel-toe technique for blazing single pedal speed"
-    }},
+  },
   {
     id: 7,
     name: 'Eloy Casagrande',
@@ -810,12 +780,7 @@ const drummers = [
       { title: 'GoPro Drum Cam (Full Show 2011)', youtubeId: 'E4LVFVzgxFo', year: 2011 },
       { title: 'Hellyeah - Grave (GoPro Drum Cam)', youtubeId: 'ET8IEfaTDhM', year: 2016 }
     ]
-  ,
-    spotlight: {
-      quickFacts: ["Founded Pantera with brother Dimebag Darrell","Invented the \"Pantera groove\" with half-time feels","Built his own recording studio: Chasin' Jason Studios"],
-      iconicMoment: "The iconic groove intro to \"Walk\" - simple but perfect",
-      gearHighlight: "Massive 26\" kick drums for his huge low-end sound"
-    }},
+  },
   {
     id: 12,
     name: 'Charlie Benante',
@@ -853,12 +818,7 @@ const drummers = [
       { title: 'Caught In A Mosh (Official Channel)', youtubeId: 'Fnn86OK1ZPo', year: 2011 },
       { title: 'Drum Cam Compilation', youtubeId: 'he7QfNFRdv0', year: 2018 }
     ]
-  ,
-    spotlight: {
-      quickFacts: ["One of thrash metal's founding drummers in Anthrax","Also plays guitar and contributes to songwriting","First to incorporate blast beats in thrash (1984)"],
-      iconicMoment: "The proto-blast beats on \"Deathrider\" predating death metal",
-      gearHighlight: "Pearl signature kit with extra-deep toms for power"
-    }},
+  },
   {
     id: 13,
     name: 'Mike Portnoy',
@@ -1439,12 +1399,7 @@ const drummers = [
       { title: 'Fear Factory - Demanufacture (Live)', youtubeId: 'nCOPLxPfazo', year: 2005 },
       { title: 'Fear Factory - Edgecrusher (Official Video)', youtubeId: 'kE0Y8Wd3rfs', year: 1998 }
     ]
-  ,
-    spotlight: {
-      quickFacts: ["Pioneering industrial metal drummer with Fear Factory","Known for precise, machine-like double bass","His patterns influenced djent and industrial metal"],
-      iconicMoment: "The mechanical precision on \"Replica\" - man vs machine",
-      gearHighlight: "Used triggers early to achieve his signature industrial sound"
-    }},
+  },
   {
     id: 28,
     name: 'Morgan Ågren',
@@ -1523,12 +1478,7 @@ const drummers = [
       { title: 'Cavalera - Schizophrenia (Full Album Playthrough)', youtubeId: 'AK5xYDHC0Ws', year: 2024 },
       { title: 'Sepultura - Territory (Classic Drum Cam)', youtubeId: 'Q1bNFq8p8u8', year: 1996 }
     ]
-  ,
-    spotlight: {
-      quickFacts: ["Founded Sepultura with brother Max at age 14","Pioneered incorporating tribal rhythms into metal","Now explores electronic music as a DJ"],
-      iconicMoment: "The tribal percussion breakdown on \"Roots Bloody Roots\"",
-      gearHighlight: "Integrated Brazilian percussion into his metal kit"
-    }},
+  },
   {
     id: 30,
     name: 'Bill Ward',

@@ -736,6 +736,18 @@ function FilterBar({ filters, onFilterChange, totalCount, filteredCount, onClear
 // Blurhash placeholder for smooth image loading (gray tone matching dark theme)
 const BLUR_HASH = 'L6Pj0^jt.mfQ~qfQfQfQ~qfQfQfQ';
 
+/**
+ * ImageWithFallback - Optimized image component with expo-image
+ * 
+ * For Core Web Vitals optimization (LCP, CLS):
+ * - Above-fold images: use priority={true} for eager loading
+ * - Below-fold images: automatic lazy loading with blurhash placeholder
+ * 
+ * @param {Object} props.source - Image source object with uri property
+ * @param {Object} props.style - Style object for the image
+ * @param {string} props.accessibilityLabel - Accessibility label
+ * @param {boolean} props.priority - If true, loads eagerly (above-fold images)
+ */
 function ImageWithFallback({ source, style, accessibilityLabel, priority = false }) {
   const [hasError, setHasError] = useState(false);
   const [imageUri, setImageUri] = useState(source?.uri || PLACEHOLDER_IMAGE);
@@ -1143,9 +1155,9 @@ function GearSection({ title, content, theme, gearType }) {
   };
 
   return (
-    <View style={styles.gearSection}>
+    <View style={styles.gearSection} nativeID={`speakable-gear-${gearType}`}>
       <Text style={[styles.gearTitle, { color: theme.text }]}>{title}</Text>
-      <Text style={[styles.gearContent, { color: theme.secondaryText }]}>{content}</Text>
+      <Text style={[styles.gearContent, { color: theme.secondaryText }]} nativeID={`speakable-gear-${gearType}-content`}>{content}</Text>
       <View style={styles.shopLinksContainer}>
         <TouchableOpacity
           onPress={() => handleShopPress(affiliateLinks.sweetwater, 'Sweetwater')}
@@ -3232,6 +3244,380 @@ function SpotlightsArchivePage({ theme, onBack, drummers, onSelectDrummer }) {
           <View style={styles.noSpotlightsContainer}>
             <Text style={[styles.noSpotlightsText, { color: theme.secondaryText }]}>
               No spotlight data available yet.
+            </Text>
+          </View>
+        )}
+      </View>
+    </ScrollView>
+  );
+}
+
+// Gear By Budget Page - shows drummers organized by kit cost
+function GearByBudgetPage({ theme, onBack, drummers, onSelectDrummer }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const [selectedTier, setSelectedTier] = useState(null);
+
+  // Calculate kit costs and organize by tier
+  const drummersByTier = useMemo(() => {
+    const tiers = {
+      entry: [],
+      intermediate: [],
+      professional: [],
+      premium: [],
+    };
+
+    drummers.forEach(drummer => {
+      const kitCost = calculateKitCost(drummer.gear);
+      if (kitCost && kitCost.totalUsd) {
+        const tier = getBudgetTierForPrice(kitCost.totalUsd);
+        if (tiers[tier]) {
+          tiers[tier].push({
+            ...drummer,
+            kitCost,
+          });
+        }
+      }
+    });
+
+    // Sort each tier by price (lowest first)
+    Object.keys(tiers).forEach(tier => {
+      tiers[tier].sort((a, b) => a.kitCost.totalUsd - b.kitCost.totalUsd);
+    });
+
+    return tiers;
+  }, [drummers]);
+
+  // Update SEO
+  useEffect(() => {
+    if (Platform.OS === 'web' && typeof document !== 'undefined') {
+      document.title = 'Gear by Budget - Find Drum Kits in Your Price Range | MetalForge';
+      const setMeta = (name, content, isProperty = false) => {
+        const attr = isProperty ? 'property' : 'name';
+        let meta = document.querySelector(`meta[${attr}="${name}"]`);
+        if (!meta) {
+          meta = document.createElement('meta');
+          meta.setAttribute(attr, name);
+          document.head.appendChild(meta);
+        }
+        meta.setAttribute('content', content);
+      };
+      setMeta('description', 'Find professional drum setups that fit your budget. Browse gear from entry level to premium, used by legendary metal drummers.');
+      setMeta('og:title', 'Gear by Budget | MetalForge', true);
+      setMeta('og:description', 'Find professional drum setups that fit your budget.', true);
+    }
+  }, []);
+
+  const tierOrder = ['entry', 'intermediate', 'professional', 'premium'];
+  const tiersToShow = selectedTier ? [selectedTier] : tierOrder;
+
+  return (
+    <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+      <View style={styles.detailContent}>
+        <TouchableOpacity
+          onPress={onBack}
+          style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          accessibilityRole="button"
+          accessibilityLabel="Go back to home"
+        >
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Home</Text>
+        </TouchableOpacity>
+
+        <Text style={[styles.budgetPageTitle, { color: theme.text }]} accessibilityRole="header">
+          💰 Gear by Budget
+        </Text>
+        <Text style={[styles.budgetPageSubtitle, { color: theme.secondaryText }]}>
+          Find pro drum setups that fit your budget. See what legendary drummers use at every price point.
+        </Text>
+
+        {/* Tier Filter Buttons */}
+        <View style={[styles.budgetTierButtons, isMobile && styles.budgetTierButtonsMobile]}>
+          {tierOrder.map(tierId => {
+            const tier = BUDGET_TIERS[tierId];
+            const count = drummersByTier[tierId].length;
+            const isSelected = selectedTier === tierId;
+            return (
+              <TouchableOpacity
+                key={tierId}
+                onPress={() => setSelectedTier(isSelected ? null : tierId)}
+                style={[
+                  styles.budgetTierButton,
+                  { 
+                    backgroundColor: isSelected ? tier.color : theme.card,
+                    borderColor: tier.color,
+                  }
+                ]}
+                accessibilityRole="button"
+                accessibilityState={{ selected: isSelected }}
+              >
+                <Text style={styles.budgetTierButtonEmoji}>{tier.emoji}</Text>
+                <Text style={[styles.budgetTierButtonLabel, { color: isSelected ? '#fff' : theme.text }]}>
+                  {tier.label}
+                </Text>
+                <Text style={[styles.budgetTierButtonRange, { color: isSelected ? 'rgba(255,255,255,0.8)' : theme.secondaryText }]}>
+                  {tier.maxPrice === Infinity ? `$${tier.minPrice.toLocaleString()}+` : `$${tier.minPrice.toLocaleString()} - $${tier.maxPrice.toLocaleString()}`}
+                </Text>
+                <Text style={[styles.budgetTierButtonCount, { color: isSelected ? 'rgba(255,255,255,0.8)' : theme.secondaryText }]}>
+                  {count} drummer{count !== 1 ? 's' : ''}
+                </Text>
+              </TouchableOpacity>
+            );
+          })}
+        </View>
+
+        {selectedTier && (
+          <TouchableOpacity
+            onPress={() => setSelectedTier(null)}
+            style={[styles.clearBudgetFilter, { borderColor: theme.border }]}
+          >
+            <Text style={[styles.clearBudgetFilterText, { color: theme.text }]}>
+              Show All Tiers
+            </Text>
+          </TouchableOpacity>
+        )}
+
+        {/* Drummer Lists by Tier */}
+        {tiersToShow.map(tierId => {
+          const tier = BUDGET_TIERS[tierId];
+          const tierDrummers = drummersByTier[tierId];
+          if (tierDrummers.length === 0) return null;
+
+          return (
+            <View key={tierId} style={styles.budgetTierSection}>
+              <View style={styles.budgetTierHeader}>
+                <Text style={[styles.budgetTierSectionTitle, { color: tier.color }]}>
+                  {tier.emoji} {tier.label}
+                </Text>
+                <Text style={[styles.budgetTierSectionRange, { color: theme.secondaryText }]}>
+                  {tier.maxPrice === Infinity ? `$${tier.minPrice.toLocaleString()}+` : `$${tier.minPrice.toLocaleString()} - $${tier.maxPrice.toLocaleString()}`}
+                </Text>
+              </View>
+              <Text style={[styles.budgetTierDescription, { color: theme.secondaryText }]}>
+                {tier.description}
+              </Text>
+              
+              <View style={[styles.budgetDrummerGrid, isMobile && styles.budgetDrummerGridMobile]}>
+                {tierDrummers.map(drummer => (
+                  <TouchableOpacity
+                    key={drummer.id}
+                    onPress={() => onSelectDrummer(drummer.id)}
+                    style={[styles.budgetDrummerCard, { backgroundColor: theme.card, borderColor: theme.border }]}
+                    accessibilityRole="button"
+                    accessibilityLabel={`View ${drummer.name}'s gear - ${formatPrice(drummer.kitCost.totalEur, 'EUR')}`}
+                  >
+                    <ImageWithFallback
+                      source={{ uri: drummer.image }}
+                      style={styles.budgetDrummerImage}
+                      accessibilityLabel={`Photo of ${drummer.name}`}
+                    />
+                    <View style={styles.budgetDrummerInfo}>
+                      <Text style={[styles.budgetDrummerName, { color: theme.text }]} numberOfLines={1}>
+                        {drummer.name}
+                      </Text>
+                      <Text style={[styles.budgetDrummerBand, { color: theme.secondaryText }]} numberOfLines={1}>
+                        {drummer.band}
+                      </Text>
+                      <View style={styles.budgetDrummerCost}>
+                        <Text style={[styles.budgetDrummerPrice, { color: tier.color }]}>
+                          {formatPrice(drummer.kitCost.totalEur, 'EUR')}
+                        </Text>
+                        <Text style={[styles.budgetDrummerPriceUsd, { color: theme.secondaryText }]}>
+                          ({formatPrice(drummer.kitCost.totalUsd, 'USD')})
+                        </Text>
+                      </View>
+                    </View>
+                  </TouchableOpacity>
+                ))}
+              </View>
+            </View>
+          );
+        })}
+
+        {tiersToShow.every(tierId => drummersByTier[tierId].length === 0) && (
+          <View style={styles.noBudgetDrummers}>
+            <Text style={[styles.noBudgetDrummersText, { color: theme.secondaryText }]}>
+              No drummers found in this budget range.
+            </Text>
+          </View>
+        )}
+      </View>
+    </ScrollView>
+  );
+}
+
+// Quotes Page - Browse all drummer quotes
+function QuotesPage({ theme, onBack, drummers, onSelectDrummer }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const [searchQuery, setSearchQuery] = useState('');
+  const [selectedDrummerFilter, setSelectedDrummerFilter] = useState(null);
+
+  // Collect all quotes from all drummers
+  const allQuotes = useMemo(() => {
+    const quotes = [];
+    drummers.forEach(drummer => {
+      if (drummer.quotes && drummer.quotes.length > 0) {
+        drummer.quotes.forEach(quote => {
+          quotes.push({
+            ...quote,
+            drummer: drummer,
+          });
+        });
+      }
+    });
+    return quotes;
+  }, [drummers]);
+
+  // Filter quotes by search and drummer
+  const filteredQuotes = useMemo(() => {
+    let results = allQuotes;
+    
+    if (searchQuery) {
+      const query = searchQuery.toLowerCase();
+      results = results.filter(q => 
+        q.text.toLowerCase().includes(query) ||
+        q.drummer.name.toLowerCase().includes(query) ||
+        q.drummer.band.toLowerCase().includes(query) ||
+        (q.source && q.source.toLowerCase().includes(query))
+      );
+    }
+    
+    if (selectedDrummerFilter) {
+      results = results.filter(q => q.drummer.id === selectedDrummerFilter);
+    }
+    
+    return results;
+  }, [allQuotes, searchQuery, selectedDrummerFilter]);
+
+  // Get drummers that have quotes for the filter dropdown
+  const drummersWithQuotes = useMemo(() => {
+    return drummers.filter(d => d.quotes && d.quotes.length > 0);
+  }, [drummers]);
+
+  // Update SEO
+  useEffect(() => {
+    if (Platform.OS === 'web' && typeof document !== 'undefined') {
+      document.title = 'Drummer Quotes - Wisdom from Metal Legends | MetalForge';
+      const setMeta = (name, content, isProperty = false) => {
+        const attr = isProperty ? 'property' : 'name';
+        let meta = document.querySelector(`meta[${attr}="${name}"]`);
+        if (!meta) {
+          meta = document.createElement('meta');
+          meta.setAttribute(attr, name);
+          document.head.appendChild(meta);
+        }
+        meta.setAttribute('content', content);
+      };
+      setMeta('description', 'Browse quotes and wisdom from legendary metal drummers. Insights on drumming, music, and life from the greats.');
+      setMeta('og:title', 'Drummer Quotes | MetalForge', true);
+      setMeta('og:description', 'Wisdom from legendary metal drummers.', true);
+    }
+  }, []);
+
+  return (
+    <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+      <View style={styles.detailContent}>
+        <TouchableOpacity
+          onPress={onBack}
+          style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          accessibilityRole="button"
+          accessibilityLabel="Go back to home"
+        >
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Home</Text>
+        </TouchableOpacity>
+
+        <Text style={[styles.quotesPageTitle, { color: theme.text }]} accessibilityRole="header">
+          💬 Drummer Quotes
+        </Text>
+        <Text style={[styles.quotesPageSubtitle, { color: theme.secondaryText }]}>
+          Wisdom, insights, and memorable words from legendary metal drummers.
+        </Text>
+
+        {/* Search and Filter */}
+        <View style={[styles.quotesFilters, isMobile && styles.quotesFiltersMobile]}>
+          <TextInput
+            style={[styles.quotesSearchInput, { backgroundColor: theme.card, borderColor: theme.border, color: theme.text }]}
+            placeholder="Search quotes..."
+            placeholderTextColor={theme.secondaryText}
+            value={searchQuery}
+            onChangeText={setSearchQuery}
+          />
+          <View style={[styles.quotesDropdown, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <TouchableOpacity
+              onPress={() => setSelectedDrummerFilter(null)}
+              style={[
+                styles.quotesDropdownItem,
+                !selectedDrummerFilter && { backgroundColor: theme.border }
+              ]}
+            >
+              <Text style={[styles.quotesDropdownText, { color: theme.text }]}>All Drummers</Text>
+            </TouchableOpacity>
+            {drummersWithQuotes.slice(0, 10).map(drummer => (
+              <TouchableOpacity
+                key={drummer.id}
+                onPress={() => setSelectedDrummerFilter(drummer.id)}
+                style={[
+                  styles.quotesDropdownItem,
+                  selectedDrummerFilter === drummer.id && { backgroundColor: theme.border }
+                ]}
+              >
+                <Text style={[styles.quotesDropdownText, { color: theme.text }]} numberOfLines={1}>
+                  {drummer.name}
+                </Text>
+              </TouchableOpacity>
+            ))}
+          </View>
+        </View>
+
+        <Text style={[styles.quotesCount, { color: theme.secondaryText }]}>
+          {filteredQuotes.length} quote{filteredQuotes.length !== 1 ? 's' : ''} found
+        </Text>
+
+        {/* Quotes List */}
+        <View style={styles.quotesGrid}>
+          {filteredQuotes.map((quote, index) => (
+            <TouchableOpacity
+              key={`${quote.drummer.id}-${index}`}
+              onPress={() => onSelectDrummer(quote.drummer.id)}
+              style={[styles.quotePageCard, { backgroundColor: theme.card, borderColor: theme.border }]}
+              accessibilityRole="button"
+              accessibilityLabel={`Quote by ${quote.drummer.name}: ${quote.text.substring(0, 50)}...`}
+            >
+              <Text style={[styles.quotePageText, { color: theme.text }]}>
+                "{quote.text}"
+              </Text>
+              <View style={styles.quotePageFooter}>
+                <View style={styles.quotePageDrummer}>
+                  <ImageWithFallback
+                    source={{ uri: quote.drummer.image }}
+                    style={styles.quotePageImage}
+                    accessibilityLabel={`Photo of ${quote.drummer.name}`}
+                  />
+                  <View>
+                    <Text style={[styles.quotePageName, { color: theme.text }]}>
+                      {quote.drummer.name}
+                    </Text>
+                    <Text style={[styles.quotePageBand, { color: theme.secondaryText }]}>
+                      {quote.drummer.band}
+                    </Text>
+                  </View>
+                </View>
+                {quote.source && (
+                  <Text style={[styles.quotePageSource, { color: theme.secondaryText }]}>
+                    — {quote.source}{quote.year ? ` (${quote.year})` : ''}
+                  </Text>
+                )}
+              </View>
+            </TouchableOpacity>
+          ))}
+        </View>
+
+        {filteredQuotes.length === 0 && (
+          <View style={styles.noQuotesContainer}>
+            <Text style={[styles.noQuotesText, { color: theme.secondaryText }]}>
+              {searchQuery || selectedDrummerFilter 
+                ? 'No quotes match your search.' 
+                : 'No quotes available yet.'}
             </Text>
           </View>
         )}
@@ -5424,7 +5810,7 @@ function AppContent() {
   const [compareKitDrummer, setCompareKitDrummer] = useState(null);
 
   // Gear by Budget state
-  const [showGearByBudget, setShowGearByBudget] = useState(false);
+  const [showGearByBudget, setShowGearByBudget] = useState(() => isGearByBudgetPage());
 
   // Search and filter state
   const [filters, setFilters] = useState(() => getFiltersFromURL());

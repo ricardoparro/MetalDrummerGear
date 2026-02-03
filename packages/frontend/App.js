@@ -204,13 +204,14 @@ function isSpotlightsPage() {
 
 // Helper to get/set URL params for filters
 function getFiltersFromURL() {
-  if (Platform.OS !== 'web' || typeof window === 'undefined') return { search: '', genre: '', brand: '', era: '' };
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return { search: '', genre: '', brand: '', era: '', budget: '' };
   const params = new URLSearchParams(window.location.search);
   return {
     search: params.get('search') || '',
     genre: params.get('genre') || '',
     brand: params.get('brand') || '',
     era: params.get('era') || '',
+    budget: params.get('budget') || '',
   };
 }
 
@@ -221,6 +222,7 @@ function updateFiltersURL(filters) {
   if (filters.genre) params.set('genre', filters.genre);
   if (filters.brand) params.set('brand', filters.brand);
   if (filters.era) params.set('era', filters.era);
+  if (filters.budget) params.set('budget', filters.budget);
   const queryString = params.toString();
   const newPath = queryString ? `/drummers?${queryString}` : '/';
   window.history.pushState({}, '', newPath);
@@ -604,7 +606,7 @@ function FilterBar({ filters, onFilterChange, totalCount, filteredCount, onClear
   const [isExpanded, setIsExpanded] = useState(false);
   const [openDropdown, setOpenDropdown] = useState(null);
 
-  const hasActiveFilters = filters.genre || filters.brand || filters.era;
+  const hasActiveFilters = filters.genre || filters.brand || filters.era || filters.budget;
 
   const handleDropdownToggle = (dropdownName) => {
     setOpenDropdown(openDropdown === dropdownName ? null : dropdownName);
@@ -626,7 +628,7 @@ function FilterBar({ filters, onFilterChange, totalCount, filteredCount, onClear
           >
             <Text style={[styles.filterToggleText, { color: theme.text }]}>
               {isExpanded ? 'Hide Filters' : 'Show Filters'}
-              {hasActiveFilters ? ` (${[filters.genre, filters.brand, filters.era].filter(Boolean).length})` : ''}
+              {hasActiveFilters ? ` (${[filters.genre, filters.brand, filters.era, filters.budget].filter(Boolean).length})` : ''}
             </Text>
             <Text style={[styles.filterToggleArrow, { color: theme.secondaryText }]}>
               {isExpanded ? '▲' : '▼'}
@@ -655,6 +657,15 @@ function FilterBar({ filters, onFilterChange, totalCount, filteredCount, onClear
               theme={theme}
               isOpen={openDropdown === 'brand'}
               onToggle={() => handleDropdownToggle('brand')}
+            />
+            <FilterDropdown
+              title="Budget"
+              options={FILTER_OPTIONS.budgets}
+              selectedValue={filters.budget}
+              onSelect={(v) => handleFilterSelect('budget', v)}
+              theme={theme}
+              isOpen={openDropdown === 'budget'}
+              onToggle={() => handleDropdownToggle('budget')}
             />
             {hasActiveFilters && (
               <TouchableOpacity
@@ -3218,6 +3229,335 @@ function SpotlightsArchivePage({ theme, onBack, drummers, onSelectDrummer }) {
   );
 }
 
+// Quotes Page - Browse all drummer quotes
+function QuotesPage({ theme, onBack, drummers, onSelectDrummer }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  
+  // Get all quotes from all drummers with drummer context
+  const allQuotes = useMemo(() => {
+    const quotes = [];
+    drummers.forEach(drummer => {
+      if (drummer.quotes && drummer.quotes.length > 0) {
+        drummer.quotes.forEach(quote => {
+          quotes.push({
+            ...quote,
+            drummerName: drummer.name,
+            drummerBand: drummer.band,
+            drummerImage: drummer.image,
+            drummerId: drummer.id,
+          });
+        });
+      }
+    });
+    // Sort by year (newest first) if available
+    return quotes.sort((a, b) => (b.year || 0) - (a.year || 0));
+  }, [drummers]);
+
+  // Update SEO
+  useEffect(() => {
+    if (Platform.OS === 'web' && typeof document !== 'undefined') {
+      document.title = 'Metal Drummer Quotes | Metal Drummer Gear';
+      const setMeta = (name, content, isProperty = false) => {
+        const attr = isProperty ? 'property' : 'name';
+        let meta = document.querySelector(`meta[${attr}="${name}"]`);
+        if (!meta) {
+          meta = document.createElement('meta');
+          meta.setAttribute(attr, name);
+          document.head.appendChild(meta);
+        }
+        meta.setAttribute('content', content);
+      };
+      setMeta('description', 'Read inspiring quotes from legendary metal drummers about drumming, music, and life.');
+      setMeta('og:title', 'Metal Drummer Quotes | Metal Drummer Gear', true);
+      setMeta('og:description', 'Read inspiring quotes from legendary metal drummers.', true);
+    }
+  }, []);
+
+  return (
+    <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+      <View style={styles.detailContent}>
+        <TouchableOpacity
+          onPress={onBack}
+          style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          accessibilityRole="button"
+          accessibilityLabel="Go back to home"
+        >
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Home</Text>
+        </TouchableOpacity>
+
+        <Text style={[styles.quotesPageTitle, { color: theme.text }]} accessibilityRole="header">
+          💬 Drummer Quotes
+        </Text>
+        <Text style={[styles.quotesPageSubtitle, { color: theme.secondaryText }]}>
+          Words of wisdom from legendary metal drummers
+        </Text>
+
+        <View style={styles.quotesPageGrid}>
+          {allQuotes.map((quote, index) => (
+            <TouchableOpacity
+              key={`${quote.drummerId}-${index}`}
+              onPress={() => onSelectDrummer(quote.drummerId)}
+              style={[styles.quotesPageCard, { backgroundColor: theme.card, borderColor: theme.border }]}
+            >
+              <Text style={[styles.quotesPageQuoteText, { color: theme.text }]}>
+                "{quote.text}"
+              </Text>
+              <View style={styles.quotesPageAttribution}>
+                <ImageWithFallback
+                  source={{ uri: quote.drummerImage }}
+                  style={styles.quotesPageDrummerImage}
+                  accessibilityLabel={`Photo of ${quote.drummerName}`}
+                />
+                <View style={styles.quotesPageDrummerInfo}>
+                  <Text style={[styles.quotesPageDrummerName, { color: theme.text }]}>
+                    {quote.drummerName}
+                  </Text>
+                  <Text style={[styles.quotesPageDrummerBand, { color: theme.secondaryText }]}>
+                    {quote.drummerBand}
+                  </Text>
+                  {quote.source && (
+                    <Text style={[styles.quotesPageSource, { color: theme.secondaryText }]}>
+                      — {quote.source}{quote.year ? ` (${quote.year})` : ''}
+                    </Text>
+                  )}
+                </View>
+              </View>
+            </TouchableOpacity>
+          ))}
+        </View>
+
+        {allQuotes.length === 0 && (
+          <View style={styles.noQuotesContainer}>
+            <Text style={[styles.noQuotesText, { color: theme.secondaryText }]}>
+              No quotes available yet.
+            </Text>
+          </View>
+        )}
+      </View>
+    </ScrollView>
+  );
+}
+
+// Gear by Budget Page - Browse gear setups by price tier
+function GearByBudgetPage({ theme, onBack, drummers, onSelectDrummer }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const [selectedTier, setSelectedTier] = useState(() => getBudgetTierFromURL());
+
+  // Calculate kit costs for all drummers and categorize by tier
+  const drummersByTier = useMemo(() => {
+    const tiers = {
+      entry: [],
+      intermediate: [],
+      professional: [],
+      premium: [],
+    };
+
+    drummers.forEach(drummer => {
+      if (drummer.gear) {
+        const kitCost = calculateKitCost(drummer.gear);
+        if (kitCost && kitCost.totalUsd > 0) {
+          const tier = getBudgetTierForPrice(kitCost.totalUsd);
+          if (tier && tiers[tier]) {
+            tiers[tier].push({
+              ...drummer,
+              kitCost,
+            });
+          }
+        }
+      }
+    });
+
+    // Sort each tier by price
+    Object.keys(tiers).forEach(tier => {
+      tiers[tier].sort((a, b) => a.kitCost.totalUsd - b.kitCost.totalUsd);
+    });
+
+    return tiers;
+  }, [drummers]);
+
+  const handleTierSelect = (tierId) => {
+    setSelectedTier(selectedTier === tierId ? null : tierId);
+    updateBudgetTierURL(selectedTier === tierId ? null : tierId);
+  };
+
+  // Update SEO
+  useEffect(() => {
+    if (Platform.OS === 'web' && typeof document !== 'undefined') {
+      const tierName = selectedTier ? BUDGET_TIERS[selectedTier].label : 'All Budgets';
+      document.title = `Gear by Budget - ${tierName} | Metal Drummer Gear`;
+      const setMeta = (name, content, isProperty = false) => {
+        const attr = isProperty ? 'property' : 'name';
+        let meta = document.querySelector(`meta[${attr}="${name}"]`);
+        if (!meta) {
+          meta = document.createElement('meta');
+          meta.setAttribute(attr, name);
+          document.head.appendChild(meta);
+        }
+        meta.setAttribute('content', content);
+      };
+      setMeta('description', 'Find metal drummer gear setups organized by budget. From entry-level kits under $2,000 to premium setups over $15,000.');
+      setMeta('og:title', `Gear by Budget - ${tierName} | Metal Drummer Gear`, true);
+      setMeta('og:description', 'Browse drummer gear by budget tier and find affordable setups inspired by your favorite drummers.', true);
+    }
+  }, [selectedTier]);
+
+  const tiersToShow = selectedTier ? [selectedTier] : Object.keys(BUDGET_TIERS);
+
+  return (
+    <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+      <View style={styles.detailContent}>
+        <TouchableOpacity
+          onPress={onBack}
+          style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          accessibilityRole="button"
+          accessibilityLabel="Go back to home"
+        >
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Home</Text>
+        </TouchableOpacity>
+
+        <Text style={[styles.budgetPageTitle, { color: theme.text }]} accessibilityRole="header">
+          💰 Gear by Budget
+        </Text>
+        <Text style={[styles.budgetPageSubtitle, { color: theme.secondaryText }]}>
+          Find drum setups that match your budget, inspired by legendary metal drummers
+        </Text>
+
+        {/* Budget Tier Selector */}
+        <View style={[styles.budgetTierSelector, isMobile && styles.budgetTierSelectorMobile]}>
+          {Object.values(BUDGET_TIERS).map(tier => (
+            <TouchableOpacity
+              key={tier.id}
+              onPress={() => handleTierSelect(tier.id)}
+              style={[
+                styles.budgetTierButton,
+                { borderColor: tier.color },
+                selectedTier === tier.id && { backgroundColor: tier.color },
+                isMobile && styles.budgetTierButtonMobile
+              ]}
+              accessibilityRole="button"
+              accessibilityLabel={`Filter by ${tier.label}`}
+              accessibilityState={{ selected: selectedTier === tier.id }}
+            >
+              <Text style={[
+                styles.budgetTierEmoji,
+                selectedTier === tier.id && { color: '#fff' }
+              ]}>
+                {tier.emoji}
+              </Text>
+              <Text style={[
+                styles.budgetTierLabel,
+                { color: selectedTier === tier.id ? '#fff' : theme.text }
+              ]}>
+                {isMobile ? tier.shortLabel : tier.label}
+              </Text>
+              <Text style={[
+                styles.budgetTierRange,
+                { color: selectedTier === tier.id ? 'rgba(255,255,255,0.8)' : theme.secondaryText }
+              ]}>
+                {tier.maxPrice === Infinity 
+                  ? `$${tier.minPrice.toLocaleString()}+` 
+                  : `$${tier.minPrice.toLocaleString()} - $${tier.maxPrice.toLocaleString()}`}
+              </Text>
+              <Text style={[
+                styles.budgetTierCount,
+                { color: selectedTier === tier.id ? 'rgba(255,255,255,0.7)' : theme.secondaryText }
+              ]}>
+                {drummersByTier[tier.id].length} {drummersByTier[tier.id].length === 1 ? 'setup' : 'setups'}
+              </Text>
+            </TouchableOpacity>
+          ))}
+        </View>
+
+        {/* Budget Tier Sections */}
+        {tiersToShow.map(tierId => {
+          const tier = BUDGET_TIERS[tierId];
+          const drummersInTier = drummersByTier[tierId];
+          
+          if (drummersInTier.length === 0) return null;
+
+          return (
+            <View key={tierId} style={styles.budgetTierSection}>
+              <View style={[styles.budgetTierHeader, { borderLeftColor: tier.color }]}>
+                <Text style={[styles.budgetTierTitle, { color: theme.text }]}>
+                  {tier.emoji} {tier.label}
+                </Text>
+                <Text style={[styles.budgetTierDescription, { color: theme.secondaryText }]}>
+                  {tier.description}
+                </Text>
+              </View>
+
+              <View style={[styles.budgetDrummerGrid, isMobile && styles.budgetDrummerGridMobile]}>
+                {drummersInTier.map(drummer => (
+                  <TouchableOpacity
+                    key={drummer.id}
+                    onPress={() => onSelectDrummer(drummer.id)}
+                    style={[styles.budgetDrummerCard, { backgroundColor: theme.card, borderColor: theme.border }]}
+                    accessibilityRole="button"
+                    accessibilityLabel={`View ${drummer.name}'s gear - ${formatPrice(drummer.kitCost.totalUsd, 'USD')}`}
+                  >
+                    <ImageWithFallback
+                      source={{ uri: drummer.image }}
+                      style={styles.budgetDrummerImage}
+                      accessibilityLabel={`Photo of ${drummer.name}`}
+                    />
+                    <View style={styles.budgetDrummerInfo}>
+                      <Text style={[styles.budgetDrummerName, { color: theme.text }]} numberOfLines={1}>
+                        {drummer.name}
+                      </Text>
+                      <Text style={[styles.budgetDrummerBand, { color: theme.secondaryText }]} numberOfLines={1}>
+                        {drummer.band}
+                      </Text>
+                      <View style={[styles.budgetPriceTag, { backgroundColor: tier.color }]}>
+                        <Text style={styles.budgetPriceText}>
+                          {formatPrice(drummer.kitCost.totalUsd, 'USD')}
+                        </Text>
+                      </View>
+                    </View>
+                    {/* Gear Preview */}
+                    {drummer.gear && (
+                      <View style={styles.budgetGearPreview}>
+                        {drummer.gear.drums && (
+                          <Text style={[styles.budgetGearItem, { color: theme.secondaryText }]} numberOfLines={1}>
+                            🥁 {drummer.gear.drums.split(' ').slice(0, 3).join(' ')}
+                          </Text>
+                        )}
+                        {drummer.gear.cymbals && (
+                          <Text style={[styles.budgetGearItem, { color: theme.secondaryText }]} numberOfLines={1}>
+                            🔔 {drummer.gear.cymbals.split(' ').slice(0, 3).join(' ')}
+                          </Text>
+                        )}
+                      </View>
+                    )}
+                  </TouchableOpacity>
+                ))}
+              </View>
+            </View>
+          );
+        })}
+
+        {/* SEO-friendly content */}
+        <View style={[styles.budgetSEOSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.budgetSEOTitle, { color: theme.text }]}>
+            Building Your Metal Drum Kit on a Budget
+          </Text>
+          <Text style={[styles.budgetSEOText, { color: theme.secondaryText }]}>
+            Whether you're just starting out or looking to upgrade, finding the right drum kit at the right price is crucial. 
+            Our collection shows you exactly what gear professional metal drummers use, organized by budget tier. 
+            From entry-level setups under $2,000 to premium custom kits, you can find inspiration at every price point.
+          </Text>
+          <Text style={[styles.budgetSEOText, { color: theme.secondaryText }]}>
+            Many legendary drummers started with modest gear before upgrading. The key is finding quality instruments 
+            that inspire you to practice and grow. Use this guide to discover affordable alternatives and plan your 
+            upgrade path towards your dream kit.
+          </Text>
+        </View>
+      </View>
+    </ScrollView>
+  );
+}
+
 function DrummerList({
   theme,
   onSelectDrummer,
@@ -5385,6 +5725,7 @@ function AppContent() {
   const [showPrivacy, setShowPrivacy] = useState(() => isPrivacyPage());
   const [showQuotes, setShowQuotes] = useState(() => isQuotesPage());
   const [showSpotlights, setShowSpotlights] = useState(() => isSpotlightsPage());
+  const [showGearByBudget, setShowGearByBudget] = useState(() => isGearByBudgetPage());
   const [selectedGear, setSelectedGear] = useState(null);
   const [loadingGear, setLoadingGear] = useState(false);
   // Compare Your Kit state
@@ -5459,6 +5800,49 @@ function AppContent() {
         const brands = drummerBrands[d.id] || [];
         return brands.includes(filters.brand.toLowerCase());
       });
+    }
+
+    // Budget filter (matches kit cost to budget tier)
+    if (filters.budget) {
+      const tier = BUDGET_TIERS[filters.budget];
+      if (tier) {
+        results = results.filter(d => {
+          // Map drummer IDs to their estimated kit costs (USD)
+          // Based on gear data from backend
+          const drummerKitCosts = {
+            1: 7000,   // Lars Ulrich - Professional
+            2: 6500,   // Joey Jordison - Professional
+            3: 7200,   // Gene Hoglan - Professional
+            4: 6800,   // Dave Lombardo - Professional
+            5: 9500,   // Tomas Haake - Professional
+            6: 8000,   // George Kollias - Professional
+            7: 8200,   // Eloy Casagrande - Professional
+            8: 6500,   // Ray Luzier - Professional
+            9: 6000,   // John Otto - Professional
+            10: 7000,  // Jay Weinberg - Professional
+            11: 5500,  // Vinnie Paul - Professional
+            12: 7500,  // Charlie Benante - Professional
+            13: 8500,  // Mike Portnoy - Professional
+            14: 11000, // Danny Carey - Professional
+            15: 7800,  // Mario Duplantier - Professional
+            16: 9000,  // Brann Dailor - Professional
+            17: 5200,  // Chris Adler - Professional
+            18: 5800,  // Matt Halpern - Professional
+            19: 6200,  // Inferno - Professional
+            20: 5500,  // Hellhammer - Professional
+            21: 4800,  // Pete Sandoval - Intermediate
+            22: 5000,  // Art Cruz - Intermediate
+            23: 4500,  // Arin Ilejay - Intermediate
+            24: 8500,  // Navene Koperweis - Professional
+            25: 6000,  // Alex Bent - Professional
+            26: 5800,  // Shannon Larkin - Professional
+            27: 6500,  // Raymond Herrera - Professional
+            28: 9200,  // Morgan Ågren - Professional
+          };
+          const cost = drummerKitCosts[d.id] || 5000;
+          return cost >= tier.minPrice && cost < tier.maxPrice;
+        });
+      }
     }
 
     return results;
@@ -8763,5 +9147,205 @@ const styles = StyleSheet.create({
   viewAllBudgetText: {
     fontSize: 14,
     fontWeight: '500',
+  },
+  // ==========================================
+  // QUOTES PAGE STYLES
+  // ==========================================
+  quotesPageTitle: {
+    fontSize: 28,
+    fontWeight: '700',
+    marginBottom: 8,
+    marginTop: 16,
+  },
+  quotesPageSubtitle: {
+    fontSize: 16,
+    marginBottom: 24,
+    lineHeight: 24,
+  },
+  quotesPageGrid: {
+    gap: 16,
+  },
+  quotesPageCard: {
+    padding: 20,
+    borderRadius: 12,
+    borderWidth: 1,
+    marginBottom: 16,
+  },
+  quotesPageQuoteText: {
+    fontSize: 18,
+    fontStyle: 'italic',
+    lineHeight: 28,
+    marginBottom: 16,
+  },
+  quotesPageAttribution: {
+    flexDirection: 'row',
+    alignItems: 'center',
+  },
+  quotesPageDrummerImage: {
+    width: 50,
+    height: 50,
+    borderRadius: 25,
+    marginRight: 12,
+  },
+  quotesPageDrummerInfo: {
+    flex: 1,
+  },
+  quotesPageDrummerName: {
+    fontSize: 16,
+    fontWeight: '600',
+    marginBottom: 2,
+  },
+  quotesPageDrummerBand: {
+    fontSize: 14,
+    marginBottom: 2,
+  },
+  quotesPageSource: {
+    fontSize: 12,
+    fontStyle: 'italic',
+  },
+  noQuotesContainer: {
+    padding: 40,
+    alignItems: 'center',
+  },
+  noQuotesText: {
+    fontSize: 16,
+    textAlign: 'center',
+  },
+  // ==========================================
+  // GEAR BY BUDGET PAGE STYLES
+  // ==========================================
+  budgetPageTitle: {
+    fontSize: 28,
+    fontWeight: '700',
+    marginBottom: 8,
+    marginTop: 16,
+  },
+  budgetPageSubtitle: {
+    fontSize: 16,
+    marginBottom: 24,
+    lineHeight: 24,
+  },
+  budgetTierSelector: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 12,
+    marginBottom: 32,
+  },
+  budgetTierSelectorMobile: {
+    flexDirection: 'column',
+  },
+  budgetTierButton: {
+    flex: 1,
+    minWidth: 150,
+    padding: 16,
+    borderRadius: 12,
+    borderWidth: 2,
+    alignItems: 'center',
+  },
+  budgetTierButtonMobile: {
+    minWidth: '100%',
+    flexDirection: 'row',
+    justifyContent: 'flex-start',
+    gap: 12,
+  },
+  budgetTierEmoji: {
+    fontSize: 24,
+    marginBottom: 8,
+  },
+  budgetTierLabel: {
+    fontSize: 16,
+    fontWeight: '600',
+    marginBottom: 4,
+  },
+  budgetTierRange: {
+    fontSize: 12,
+    marginBottom: 4,
+  },
+  budgetTierCount: {
+    fontSize: 11,
+  },
+  budgetTierSection: {
+    marginBottom: 32,
+  },
+  budgetTierHeader: {
+    borderLeftWidth: 4,
+    paddingLeft: 16,
+    marginBottom: 16,
+  },
+  budgetTierTitle: {
+    fontSize: 22,
+    fontWeight: '700',
+    marginBottom: 4,
+  },
+  budgetTierDescription: {
+    fontSize: 14,
+    lineHeight: 20,
+  },
+  budgetDrummerGrid: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 16,
+  },
+  budgetDrummerGridMobile: {
+    flexDirection: 'column',
+  },
+  budgetDrummerCard: {
+    flex: 1,
+    minWidth: 280,
+    maxWidth: 350,
+    borderRadius: 12,
+    borderWidth: 1,
+    overflow: 'hidden',
+  },
+  budgetDrummerImage: {
+    width: '100%',
+    height: 160,
+  },
+  budgetDrummerInfo: {
+    padding: 16,
+  },
+  budgetDrummerName: {
+    fontSize: 18,
+    fontWeight: '600',
+    marginBottom: 4,
+  },
+  budgetDrummerBand: {
+    fontSize: 14,
+    marginBottom: 8,
+  },
+  budgetPriceTag: {
+    paddingHorizontal: 12,
+    paddingVertical: 6,
+    borderRadius: 6,
+    alignSelf: 'flex-start',
+  },
+  budgetPriceText: {
+    color: '#ffffff',
+    fontSize: 16,
+    fontWeight: '700',
+  },
+  budgetGearPreview: {
+    paddingHorizontal: 16,
+    paddingBottom: 16,
+  },
+  budgetGearItem: {
+    fontSize: 12,
+    marginBottom: 4,
+  },
+  budgetSEOSection: {
+    padding: 24,
+    borderRadius: 12,
+    borderWidth: 1,
+    marginTop: 16,
+  },
+  budgetSEOTitle: {
+    fontSize: 20,
+    fontWeight: '600',
+    marginBottom: 12,
+  },
+  budgetSEOText: {
+    fontSize: 14,
+    lineHeight: 22,
+    marginBottom: 12,
   },
 });

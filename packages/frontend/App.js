@@ -8865,6 +8865,106 @@ const styles = StyleSheet.create({
     fontSize: 16,
     textAlign: 'center',
   },
+  // ==========================================
+  // QUOTES PAGE STYLES
+  // ==========================================
+  quotesPageTitle: {
+    fontSize: 32,
+    fontWeight: 'bold',
+    marginBottom: 8,
+    marginTop: 16,
+  },
+  quotesPageSubtitle: {
+    fontSize: 16,
+    marginBottom: 24,
+    lineHeight: 24,
+  },
+  quotesFilters: {
+    flexDirection: 'row',
+    gap: 12,
+    marginBottom: 16,
+  },
+  quotesFiltersMobile: {
+    flexDirection: 'column',
+  },
+  quotesSearchInput: {
+    flex: 1,
+    padding: 12,
+    borderRadius: 8,
+    borderWidth: 1,
+    fontSize: 16,
+  },
+  quotesDropdown: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 8,
+    borderRadius: 8,
+    padding: 8,
+    borderWidth: 1,
+  },
+  quotesDropdownItem: {
+    paddingHorizontal: 12,
+    paddingVertical: 6,
+    borderRadius: 16,
+  },
+  quotesDropdownText: {
+    fontSize: 14,
+  },
+  quotesCount: {
+    fontSize: 14,
+    marginBottom: 16,
+  },
+  quotesGrid: {
+    gap: 16,
+  },
+  quotePageCard: {
+    borderRadius: 12,
+    borderWidth: 1,
+    padding: 20,
+    marginBottom: 16,
+  },
+  quotePageText: {
+    fontSize: 18,
+    lineHeight: 28,
+    fontStyle: 'italic',
+    marginBottom: 16,
+  },
+  quotePageFooter: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'flex-end',
+    flexWrap: 'wrap',
+    gap: 12,
+  },
+  quotePageDrummer: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 12,
+  },
+  quotePageImage: {
+    width: 48,
+    height: 48,
+    borderRadius: 24,
+  },
+  quotePageName: {
+    fontSize: 16,
+    fontWeight: '600',
+  },
+  quotePageBand: {
+    fontSize: 14,
+  },
+  quotePageSource: {
+    fontSize: 13,
+    fontStyle: 'italic',
+  },
+  noQuotesContainer: {
+    padding: 40,
+    alignItems: 'center',
+  },
+  noQuotesText: {
+    fontSize: 16,
+    textAlign: 'center',
+  },
   suggestionButton: {
     padding: 16,
     borderRadius: 8,

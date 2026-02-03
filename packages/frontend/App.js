@@ -3849,10 +3849,17 @@ function toSlug(name) {
   return name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
 }
 
-// Find drummer by slug (matching against slugified name)
-function findDrummerBySlug(drummers, slug) {
-  if (!slug || !drummers.length) return null;
-  return drummers.find(d => toSlug(d.name) === slug.toLowerCase());
+// Find drummer by slug or ID (matching against slugified name or numeric ID)
+function findDrummerBySlug(drummers, slugOrId) {
+  if (!slugOrId || !drummers.length) return null;
+  // First try to match by numeric ID
+  const numericId = parseInt(slugOrId, 10);
+  if (!isNaN(numericId)) {
+    const byId = drummers.find(d => d.id === numericId);
+    if (byId) return byId;
+  }
+  // Fall back to slug matching
+  return drummers.find(d => toSlug(d.name) === slugOrId.toLowerCase());
 }
 
 // Update document meta for gear pages
@@ -6140,6 +6147,12 @@ function AppContent() {
       const drummerSlug = getDrummerSlugFromURL();
       if (!drummerSlug) return;
 
+      // If drummers failed to load, clear loading state to show homepage
+      if (drummersError) {
+        setLoadingDetail(false);
+        return;
+      }
+
       if (drummers.length > 0) {
         const drummer = findDrummerBySlug(drummers, drummerSlug);
         if (drummer) {
@@ -6170,7 +6183,7 @@ function AppContent() {
       }
     };
     loadInitialDrummer();
-  }, [drummers]);
+  }, [drummers, drummersError]);
 
   const handleSelectDrummer = async (id, skipUrlUpdate = false) => {
     setLoadingDetail(true);

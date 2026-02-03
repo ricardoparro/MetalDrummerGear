@@ -7,7 +7,7 @@ const drummers = [
     band: 'Metallica',
     genre: 'Thrash Metal',
     country: 'Denmark',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/7/79/Lars_Ulrich_by_Gage_Skidmore_%28cropped%29.jpg',
+    image: '/images/drummers/1.jpg',
     bio: 'Lars Ulrich is a Danish musician and co-founder of Metallica, one of the most influential thrash metal bands in history. Born in 1963, he moved to Los Angeles to pursue his drumming career and formed Metallica with James Hetfield in 1981. Known for his aggressive style and iconic drum fills, Lars has been instrumental in shaping the sound of heavy metal.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Lars_Ulrich',
@@ -123,7 +123,7 @@ const drummers = [
     band: 'Slipknot',
     genre: 'Nu Metal / Death Metal',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/b/b4/JoeyJordison.jpg',
+    image: '/images/drummers/2.jpg',
     bio: 'Joey Jordison (1975-2021) was an American musician best known as the original drummer of Slipknot. His blistering speed, technical precision, and theatrical stage presence made him one of the most influential metal drummers of his generation. He also played guitar for Murderdolls and drums for various other projects.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Joey_Jordison',
@@ -233,7 +233,7 @@ const drummers = [
     band: 'Death / Testament / Dethklok',
     genre: 'Death Metal / Thrash Metal',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/6/60/Gene_Hoglan_-_Testament_%28cropped%29.jpg',
+    image: '/images/drummers/3.jpg',
     bio: 'Gene Hoglan, nicknamed "The Atomic Clock" for his precise timing, is one of the most respected drummers in extreme metal. Born in 1967, he has played with Death, Dark Angel, Testament, Strapping Young Lad, Fear Factory, and Dethklok. His combination of speed, power, and musicality has influenced countless metal drummers.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Gene_Hoglan',
@@ -344,7 +344,7 @@ const drummers = [
     band: 'Slayer',
     genre: 'Thrash Metal',
     country: 'Cuba/USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/d/df/Dave_Lombardo_8.5.14.jpeg',
+    image: '/images/drummers/4.jpg',
     bio: 'Dave Lombardo, born in Cuba in 1965, is widely regarded as one of the greatest drummers in metal history. As the original drummer of Slayer, he pioneered the double bass drumming style that defined thrash metal. His work on albums like "Reign in Blood" is considered groundbreaking. He has also played with Fantomas, Suicidal Tendencies, and Dead Cross.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Dave_Lombardo',
@@ -459,7 +459,7 @@ const drummers = [
     band: 'Meshuggah',
     genre: 'Progressive Metal / Djent',
     country: 'Sweden',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/7/7b/Meshuggah_-_Rock_am_Ring_2023-44313.jpg',
+    image: '/images/drummers/5.jpg',
     bio: 'Tomas Haake, born in 1971, is the drummer and primary lyricist for Swedish extreme metal band Meshuggah. His polyrhythmic drumming style, characterized by complex time signatures and intricate patterns, has been hugely influential in the development of djent and progressive metal. He is known for his metronomic precision and innovative approach.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Tomas_Haake',
@@ -574,7 +574,7 @@ const drummers = [
     band: 'Nile',
     genre: 'Technical Death Metal',
     country: 'Greece',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/e/e8/GK_10.jpg',
+    image: '/images/drummers/6.jpg',
     bio: 'George Kollias, born in 1977, is a Greek drummer known for his extreme speed and technical proficiency. As the drummer for Nile since 2004, he has pushed the boundaries of death metal drumming with his incredible blast beats and double bass technique. He is also an educator and has released instructional materials.',
     sameAs: [
       'https://en.wikipedia.org/wiki/George_Kollias_(drummer)',
@@ -613,7 +613,7 @@ const drummers = [
     band: 'Slipknot',
     genre: 'Nu Metal / Thrash Metal',
     country: 'Brazil',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/8/86/Sepultura_-_2023219214143_2023-08-07_Sepultura_-_Sven_-_1D_X_MK_II_-_0650_-_AK8I2527.jpg',
+    image: '/images/drummers/7.jpg',
     bio: 'Eloy Casagrande, born in 1991, is a Brazilian drummer who became Sepultura\'s drummer in 2011 and joined Slipknot in 2024 as their new drummer. Named the No. 1 metal drummer in Modern Drummer magazine\'s 2024 Readers\' Poll, he is known for his explosive speed, technical prowess, and energetic performances. His drumming style combines traditional metal with modern technical elements, making him one of the most exciting drummers in contemporary metal.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Eloy_Casagrande',
@@ -653,7 +653,7 @@ const drummers = [
     band: 'Korn',
     genre: 'Nu Metal',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/c/c8/Ray_Luzier_of_Korn.jpg',
+    image: '/images/drummers/8.jpg',
     bio: 'Ray Luzier, born in 1970, is an American drummer who joined Korn in 2007. Before Korn, he was a sought-after session musician, working with artists like David Lee Roth and Army of Anyone. His drumming combines rock solid grooves with technical flair, bringing a fresh energy to Korn\'s signature sound while respecting their nu-metal roots.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Ray_Luzier',
@@ -689,7 +689,7 @@ const drummers = [
     band: 'Limp Bizkit',
     genre: 'Nu Metal / Rap Metal',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/0/0a/Drummer_John_Otto_of_Limp_Bizkit_in_2006.jpg',
+    image: '/images/drummers/9.jpg',
     bio: 'John Otto, born in 1977, is the drummer and a founding member of Limp Bizkit. His hip-hop influenced drumming style, combining tight grooves with funk-inspired beats, was essential in defining the rap-metal sound of the late 90s and early 2000s. His ability to blend rock power with hip-hop feel made Limp Bizkit one of the biggest bands of the nu-metal era.',
     sameAs: [
       'https://en.wikipedia.org/wiki/John_Otto_(musician)',
@@ -729,7 +729,7 @@ const drummers = [
     band: 'Suicidal Tendencies',
     genre: 'Hardcore / Thrash Crossover',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/4/46/Suicidal_Tendencies_Rockharz_2024_18.jpg',
+    image: '/images/drummers/10.jpg',
     bio: 'Jay Weinberg, born in 1990, is the son of E Street Band drummer Max Weinberg. He joined Slipknot in 2014, becoming their drummer after Joey Jordison\'s departure. Before Slipknot, he briefly played with Against Me! and Madball. His powerful, aggressive style honored Slipknot\'s legacy while adding his own intensity. In 2023, he parted ways with Slipknot and joined Suicidal Tendencies, touring with them on Metallica\'s M72 World Stadium Tour.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Jay_Weinberg',
@@ -770,7 +770,7 @@ const drummers = [
     band: 'Pantera / Damageplan / Hellyeah',
     genre: 'Groove Metal / Heavy Metal',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/5/55/VinniePaul2008.JPG',
+    image: '/images/drummers/11.jpg',
     bio: 'Vinnie Paul (1964-2018) was the co-founder and drummer of Pantera, one of the most influential heavy metal bands of all time. Alongside his brother Dimebag Darrell, he helped define the groove metal sound. Pantera received four Grammy nominations for Best Metal Performance. After Pantera\'s breakup, he formed Damageplan with his brother, and later Hellyeah. His drumming style featured powerful grooves and innovative double-bass patterns that influenced countless metal drummers. Ranked among the greatest metal drummers of all time.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Vinnie_Paul',
@@ -805,7 +805,7 @@ const drummers = [
     band: 'Anthrax / S.O.D. / Pantera',
     genre: 'Thrash Metal',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/1/11/2017_Anthrax_-_Charlie_Benante_-_by_2eight_-_DSC1986_%28cropped%29.jpg',
+    image: '/images/drummers/12.jpg',
     bio: 'Charlie Benante, born in 1962 in The Bronx, New York, is a pioneer of thrash metal drumming and credited with popularizing the blast beat technique. He joined Anthrax in 1983 and has appeared on all 11 of the band\'s studio albums. Known for his extremely fast double kick technique, Benante is also a talented guitarist who contributed lead guitar to S.O.D.\'s "Speak English or Die" album. He serves as Anthrax\'s main composer and is a graphic artist who created many of their album covers and T-shirt designs. In 2022, he joined the reunited Pantera, filling in for his late friend Vinnie Paul.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Charlie_Benante',
@@ -843,7 +843,7 @@ const drummers = [
     band: 'Dream Theater / Liquid Tension Experiment / The Winery Dogs',
     genre: 'Progressive Metal',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/7/77/Mike_Portnoy.jpg',
+    image: '/images/drummers/13.jpg',
     bio: 'Mike Portnoy, born in 1967 in Long Beach, New York, is one of the most influential progressive metal drummers of all time. He co-founded Dream Theater in 1985 and was the band\'s drummer and lyricist for 25 years, helping define the progressive metal genre. A recipient of over 30 Drummer of the Year awards from Modern Drummer magazine, Portnoy is known for his technical proficiency, complex time signatures, and theatrical live performances. After leaving Dream Theater in 2010, he has played with numerous projects including Avenged Sevenfold, Adrenaline Mob, The Winery Dogs, Flying Colors, Sons of Apollo, and Liquid Tension Experiment. In 2023, he rejoined Dream Theater for their reunion tour. His drumming style combines jazz fusion influences with heavy metal power, featuring intricate double bass patterns and creative use of electronics.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Mike_Portnoy',
@@ -886,7 +886,7 @@ const drummers = [
     band: 'Tool',
     genre: 'Progressive Metal',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/c/c1/Danny_Carey_Hellfest_2019.jpg',
+    image: '/images/drummers/14.jpg',
     bio: 'Danny Carey, born in 1961 in Lawrence, Kansas, is widely regarded as one of the greatest drummers in rock and metal history. As the drummer for Tool since the band\'s formation in 1990, he has developed a unique style that blends complex polyrhythmic patterns with influences from jazz, world music, and progressive rock. His technical proficiency and creative approach to rhythm have earned him numerous accolades, including being voted the best drummer by readers of Modern Drummer magazine. Carey\'s drumming incorporates unusual time signatures, intricate subdivisions, and the use of electronic percussion. Beyond Tool, he has collaborated with artists like Pigface, Zaum, and Volto! His towering presence behind his massive Sonor kit and his dedication to expanding the boundaries of rock drumming have made him an icon in the drumming community.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Danny_Carey',
@@ -928,7 +928,7 @@ const drummers = [
     band: 'Gojira',
     genre: 'Progressive Death Metal',
     country: 'France',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/8/83/2017_RiP_-_Gojira_-_Mario_Duplantier_-_by_2eight_-_8SC9168.jpg',
+    image: '/images/drummers/15.jpg',
     bio: 'Mario Duplantier, born in 1981 in Bayonne, France, is the drummer and co-founder of the critically acclaimed progressive death metal band Gojira, which he formed with his brother Joe Duplantier in 1996. Known for his powerful, precise, and incredibly intense drumming style, Mario combines crushing double bass patterns with complex rhythmic structures that complement Gojira\'s unique blend of death metal and progressive elements. His drumming on albums like "From Mars to Sirius," "The Way of All Flesh," and "Magma" has been praised for its technical excellence and raw energy. Beyond his drumming prowess, Mario is also a talented visual artist who has created artwork for Gojira\'s albums and merchandise. His approach to drumming emphasizes dynamics, groove, and an almost tribal quality that has helped define Gojira\'s distinctive sound.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Mario_Duplantier',
@@ -963,7 +963,7 @@ const drummers = [
     band: 'Mastodon',
     genre: 'Progressive/Sludge Metal',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6b/20150612-054-Nova_Rock_2015-Mastodon-Brann_Dailor.jpg',
+    image: '/images/drummers/16.jpg',
     bio: 'Brann Dailor, born in 1975 in Rochester, New York, is the drummer and vocalist for progressive sludge metal band Mastodon. His drumming style is characterized by complex fills, jazz-influenced patterns, and an almost melodic approach to the drums that sets him apart from traditional metal drummers. Dailor\'s work on albums like "Leviathan," "Blood Mountain," and "Crack the Skye" has earned him widespread acclaim. He began singing lead vocals on Mastodon\'s later albums, adding another dimension to the band\'s sound. His technical proficiency combined with his musical creativity has made him one of the most influential drummers in modern metal.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Brann_Dailor',
@@ -999,7 +999,7 @@ const drummers = [
     band: 'Lamb of God',
     genre: 'Groove Metal',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/d/d8/Lamb_Of_God_-_Rock_am_Ring_2015-9876_%28cropped%29.jpg',
+    image: '/images/drummers/17.jpg',
     bio: 'Chris Adler, born in 1972 in Richmond, Virginia, is best known as the co-founder and former drummer of Lamb of God. His precision double bass drumming and innovative groove patterns helped define the New Wave of American Heavy Metal. Adler\'s work on albums like "Ashes of the Wake" and "Sacrament" showcased his ability to combine technical proficiency with raw power. He briefly played with Megadeth on their 2016 album "Dystopia." His drumming style emphasizes groove, power, and precision, influencing a generation of metal drummers.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Chris_Adler',
@@ -1037,7 +1037,7 @@ const drummers = [
     band: 'Periphery',
     genre: 'Progressive/Djent',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/2/26/20151122_Eindhoven_Epic_Metal_Fest_Periphery_0116.jpg',
+    image: '/images/drummers/18.jpg',
     bio: 'Matt Halpern, born in 1984, is the drummer for progressive metal band Periphery and one of the most influential figures in the djent movement. His drumming combines polyrhythmic complexity with electronic elements and modern production techniques. Halpern\'s ability to navigate complex time signatures while maintaining groove has made him a role model for a new generation of progressive metal drummers. He is also an accomplished drum educator, sharing his knowledge through clinics and online platforms.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Matt_Halpern',
@@ -1073,7 +1073,7 @@ const drummers = [
     band: 'Behemoth',
     genre: 'Black/Death Metal',
     country: 'Poland',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/8/8d/Behemoth_Rockharz_2015_02.jpg',
+    image: '/images/drummers/19.jpg',
     bio: 'Zbigniew Robert Promiński, known as Inferno, born in 1979, is the drummer for Polish extreme metal band Behemoth. He joined the band in 1997 and has been instrumental in shaping their signature sound. His drumming is characterized by relentless blast beats, precise double bass work, and the ability to maintain extreme speeds for extended periods. Inferno\'s technical abilities and stamina have made him one of the most respected drummers in extreme metal. His work on albums like "The Satanist" and "I Loved You at Your Darkest" showcases his evolution as a drummer.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Inferno_(musician)',
@@ -1111,7 +1111,7 @@ const drummers = [
     band: 'Mayhem',
     genre: 'Black Metal',
     country: 'Norway',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/5/58/Mayhem_-_Jalometalli_2008_-_Hellhammer_01_crop.JPG',
+    image: '/images/drummers/20.jpg',
     bio: 'Jan Axel Blomberg, known as Hellhammer, born in 1969, is a Norwegian drummer best known for his work with black metal pioneers Mayhem. He joined Mayhem in 1988 and has been a constant presence through the band\'s turbulent history. Hellhammer is credited with helping define the black metal drumming style, characterized by fast blast beats and raw, aggressive playing. Beyond Mayhem, he has played with numerous projects including Arcturus, Dimmu Borgir, and Shining. His influence on extreme metal drumming is immeasurable.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Hellhammer_(musician)',
@@ -1148,7 +1148,7 @@ const drummers = [
     band: 'Morbid Angel',
     genre: 'Death Metal',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/1/1b/Pete_Sandoval.jpg',
+    image: '/images/drummers/21.jpg',
     bio: 'Pedro "Pete" Sandoval, born in 1960 in El Salvador, is a legendary death metal drummer best known for his work with Morbid Angel and Terrorizer. He is credited with pioneering and perfecting the gravity blast technique, which revolutionized extreme metal drumming. His work on classic Morbid Angel albums like "Altars of Madness," "Blessed Are the Sick," and "Covenant" set the standard for death metal drumming. Sandoval\'s combination of speed, precision, and endurance influenced countless drummers in the extreme metal genre.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Pete_Sandoval',
@@ -1183,7 +1183,7 @@ const drummers = [
     band: 'Lamb of God',
     genre: 'Groove Metal / Thrash Metal',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/a/a0/Lamb_of_God_Full_Force_2019_01.jpg',
+    image: '/images/drummers/22.jpg',
     bio: 'Art Cruz, born May 27, 1988, in Downey, California, is the current drummer of Lamb of God. He joined the band in 2019, replacing Chris Adler, after first filling in on their North American tour supporting Slayer\'s farewell tour in 2018. Cruz rose to prominence as one of the genre\'s top touring drummers, previously playing with Winds of Plague and Prong. His first studio album with Lamb of God was their 2020 self-titled release, followed by "Omens" in 2022. Known for his aggressive style, explosive dynamics, and precise double bass work, Cruz has reenergized Lamb of God\'s overall sound while honoring the band\'s legacy.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Art_Cruz',
@@ -1225,7 +1225,7 @@ const drummers = [
     band: 'ex-Avenged Sevenfold',
     genre: 'Heavy Metal / Hard Rock',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/b/b9/Arin.1280.jpg',
+    image: '/images/drummers/23.jpg',
     bio: 'Arin Ilejay, born October 17, 1988, is an American drummer best known for his tenure with Avenged Sevenfold from 2011 to 2015. He joined A7X following the tragic death of founding drummer Jimmy "The Rev" Sullivan. Ilejay recorded one studio album with the band - "Hail to the King" (2013), which debuted at number 1 on the Billboard 200 and multiple international charts. His powerful, straightforward drumming style complemented the album\'s classic heavy metal approach. Before A7X, he played with Confide, and after his departure, he has been active with various projects including his solo work and session drumming.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Arin_Ilejay',
@@ -1264,7 +1264,7 @@ const drummers = [
     band: 'Entheos / ex-Animals as Leaders',
     genre: 'Progressive Metal / Djent / Technical Death Metal',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/4/43/Navene_Koperweis.jpg',
+    image: '/images/drummers/24.jpg',
     bio: 'Navene Koperweis, born May 31, 1985, in San Jose, California, is a drummer, producer, and multi-instrumentalist known for his work with Entheos, Animals as Leaders, Animosity, and The Faceless. He started drumming at age eleven and has become one of the most innovative drummers in the progressive metal scene. Beyond his drumming prowess, Navene is a skilled producer and runs the technical death metal project Fleshwrought. He has also served as session drummer for Job for a Cowboy, Machine Head, and Whitechapel. His playing combines extreme technical proficiency with electronic and djent influences.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Navene_Koperweis',
@@ -1303,7 +1303,7 @@ const drummers = [
     band: 'ex-Trivium / Arkaik / Dragonlord',
     genre: 'Heavy Metal / Thrash Metal / Technical Death Metal',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/5/59/Trivium_%2836826824775%29_%28cropped%29.jpg',
+    image: '/images/drummers/25.jpg',
     bio: 'Alex Bent, born January 31, 1993, in Oakland, California, is a versatile drummer known for his technical proficiency across multiple metal subgenres. He joined Trivium in 2017, replacing Paul Wandtke, and recorded three critically acclaimed albums with the band: "The Sin and the Sentence" (2017), "What the Dead Men Say" (2020), and "In the Court of the Dragon" (2021). Before Trivium, he played with technical death metal bands Arkaik and Brain Drill, and filled in for Gene Hoglan on Testament tours. He also drums for Eric Peterson\'s Dragonlord. Self-taught from age 11, Bent competed in Guitar Center Drum Off competitions and brings a unique blend of death metal technicality and thrash metal power to his playing.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Alex_Bent',
@@ -1344,7 +1344,7 @@ const drummers = [
     band: 'Godsmack / Ugly Kid Joe / Amen',
     genre: 'Hard Rock / Heavy Metal / Nu Metal',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/4/4c/Godsmack_-_2019160161909_2019-06-09_Rock_am_Ring_-_0432_-_B70I1399.jpg',
+    image: '/images/drummers/26.jpg',
     bio: 'Shannon Larkin (born April 24, 1967) is an American drummer best known as the former drummer of Godsmack, a position he held from 2002 to 2024, making him the band\'s longest-serving drummer. His powerful, groove-oriented style was essential to Godsmack\'s signature heavy sound. Before Godsmack, Larkin played with Wrathchild America, Souls at Zero, Ugly Kid Joe, and Amen. He has been playing drums since age ten and briefly filled in for Black Sabbath on one show in 1997 when Mike Bordin was unavailable. Known for his hard-hitting style and versatility, Larkin has been a Sabian cymbal artist for decades.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Shannon_Larkin',
@@ -1364,7 +1364,7 @@ const drummers = [
       sources: ['https://sabian.com/artist/shannon-larkin/', 'https://en.wikipedia.org/wiki/Shannon_Larkin']
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/4/4c/Godsmack_-_2019160161909_2019-06-09_Rock_am_Ring_-_0432_-_B70I1399.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/6/6e/Godsmack_-_2019160161909_2019-06-09_Rock_am_Ring_-_0432_-_B70I1399.jpg'
     ],
     endorsements: [
       { name: 'ddrum Drums', url: 'https://www.ddrum.com' },
@@ -1385,7 +1385,7 @@ const drummers = [
     band: 'Fear Factory / Arkaea / Brujeria',
     genre: 'Industrial Metal / Death Metal',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/e/e3/Fear_factory_010505_117.jpg',
+    image: '/images/drummers/27.jpg',
     bio: 'Raymond Herrera is an American drummer best known as the founding member and former drummer of industrial metal band Fear Factory. His innovative "stop-go" double bass technique, rather than the traditional sustained blast approach, became a signature element of Fear Factory\'s mechanical, precise sound. He played on iconic albums like Soul of a New Machine (1992), Demanufacture (1995), and Obsolete (1998). Beyond drumming, Herrera has composed music for numerous video games including Tom Clancy\'s Ghost Recon Advanced Warfighter and Scarface: The World Is Yours. He also drummed for Brujeria and later formed Arkaea.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Raymond_Herrera',
@@ -1404,7 +1404,7 @@ const drummers = [
       sources: ['https://en.wikipedia.org/wiki/Raymond_Herrera', 'https://www.musicradar.com/tuition/drums/how-to-sound-like-fear-factorys-raymond-herrera-210027']
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/e/e3/Fear_factory_010505_117.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/7/71/Fear_factory_010505_117.jpg'
     ],
     endorsements: [
       { name: 'Tama Drums', url: 'https://www.tama.com' },
@@ -1424,7 +1424,7 @@ const drummers = [
     band: 'Mats/Morgan Band / Kaipa / Fredrik Thordendal\'s Special Defects',
     genre: 'Progressive Rock / Progressive Metal / Jazz Fusion',
     country: 'Sweden',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/5/58/Morgan_Agren_04.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/1/12/Morgan_Agren_04.jpg',
     bio: 'Morgan Ågren (born July 13, 1967) is a Swedish drummer renowned for his extraordinary technical ability and complex polyrhythmic playing. He began drumming as a child and formed the Mats/Morgan Band with keyboardist Mats Öberg in 1981, performing Frank Zappa\'s music. Ågren has collaborated with Dweezil and Ahmet Zappa, recorded the legendary Sol Niger Within album with Meshuggah\'s Fredrik Thordendal, and has been a member of progressive rock band Kaipa since 2002. He\'s also worked with Devin Townsend on Casualties of Cool and Empath. A documentary about him, "Morgan Ågren\'s Conundrum: A Percussive Misadventure," was released in 2013.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Morgan_%C3%85gren',
@@ -1443,7 +1443,7 @@ const drummers = [
       sources: ['https://en.wikipedia.org/wiki/Morgan_%C3%85gren']
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/5/58/Morgan_Agren_04.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/1/12/Morgan_Agren_04.jpg'
     ],
     endorsements: [
       { name: 'Sonor Drums', url: 'https://www.sonor.com' },
@@ -1463,7 +1463,7 @@ const drummers = [
     band: 'Sepultura / Cavalera Conspiracy / Soulwax',
     genre: 'Thrash Metal / Groove Metal / Death Metal',
     country: 'Brazil',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/1/13/20170805_Wacken_Wacken_Open_Air_Max_%26_Iggor_Cavalera_Return_To_Roots_0093.jpg',
+    image: '/images/drummers/29.jpg',
     bio: 'Igor Cavalera (born September 4, 1970), also known as Iggor Cavalera, is a Brazilian drummer who co-founded the legendary metal band Sepultura with his brother Max in 1984. His drumming evolved from pure thrash metal speed to incorporating tribal and world music influences, particularly on groundbreaking albums like Chaos A.D. (1993) and Roots (1996). Known as a hard-hitting drummer with impeccable timing, he left Sepultura in 2006 and reunited with Max in Cavalera Conspiracy. He has since expanded into electronic music with DJ duo Mixhell and became one of three drummers in Soulwax. His influences include Dave Lombardo, Bill Ward, and Stewart Copeland.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Igor_Cavalera',
@@ -1483,7 +1483,7 @@ const drummers = [
       sources: ['https://en.wikipedia.org/wiki/Igor_Cavalera']
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/1/13/20170805_Wacken_Wacken_Open_Air_Max_%26_Iggor_Cavalera_Return_To_Roots_0093.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/b/b6/20170805_Wacken_Wacken_Open_Air_Max_%26_Iggor_Cavalera_Return_To_Roots_0093.jpg'
     ],
     endorsements: [
       { name: 'Tama Drums', url: 'https://www.tama.com' },
@@ -1503,7 +1503,7 @@ const drummers = [
     band: 'Black Sabbath',
     genre: 'Heavy Metal / Hard Rock / Blues Rock',
     country: 'UK',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/0/0a/Black_Sabbath_%281970%29_%28cropped%29.jpg',
+    image: '/images/drummers/30.jpg',
     bio: 'Bill Ward (born May 5, 1948) is an English drummer and co-founder of Black Sabbath, one of the most influential bands in heavy metal history. Alongside Ozzy Osbourne, Tony Iommi, and Geezer Butler, Ward helped create the template for heavy metal drumming. His jazz-influenced style, combining swing with power, set him apart from other rock drummers of the era. He played on all eight classic Ozzy-era Sabbath albums, including groundbreaking records like Paranoid (1970) and Master of Reality (1971). Ward\'s influences include jazz greats Gene Krupa, Buddy Rich, and John Bonham. He also sang lead on the ballad "It\'s Alright" from Technical Ecstasy.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Bill_Ward_(musician)',
@@ -1522,7 +1522,7 @@ const drummers = [
       sources: ['https://en.wikipedia.org/wiki/Bill_Ward_(musician)']
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/0/0a/Black_Sabbath_%281970%29_%28cropped%29.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/7/7d/Black_Sabbath_%281970%29_%28cropped%29.jpg'
     ],
     endorsements: [
       { name: 'Ludwig Drums', url: 'https://www.ludwig-drums.com' },
@@ -1708,7 +1708,7 @@ const drummers = [
     band: 'Converge / Mutoid Man / Killer Be Killed',
     genre: 'Metalcore / Hardcore Punk / Grindcore',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/5/5d/Converge_%40_Roadburn_Festival_2018-04-19_002.jpg',
+    image: '/images/drummers/35.jpg',
     bio: 'Ben Koller (born July 29, 1980) is an American drummer known for his work with Converge, Mutoid Man, Killer Be Killed, and All Pigs Must Die. Joining Converge in late 1999, Koller has been central to the band\'s legendary status, playing on landmark albums like "Jane Doe," "You Fail Me," and "The Dusk in Us." His drumming style combines blistering speed with creative dynamics, drawing from hardcore punk, grindcore, and experimental rock. Beyond Converge, he co-founded the heavy rock band Mutoid Man with Stephen Brodsky of Cave In, and joined the supergroup Killer Be Killed alongside members of Mastodon, The Dillinger Escape Plan, and Soulfly. Koller\'s versatility and intensity have made him one of the most respected drummers in extreme music.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Ben_Koller',
@@ -1728,7 +1728,7 @@ const drummers = [
       sources: ['https://en.wikipedia.org/wiki/Ben_Koller', 'https://zildjian.com/artists']
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/5/5d/Converge_%40_Roadburn_Festival_2018-04-19_002.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/8/8a/Converge_%40_Roadburn_Festival_2018-04-19_002.jpg'
     ],
     endorsements: [
       { name: 'Tama Drums', url: 'https://www.tama.com' },
@@ -1748,7 +1748,7 @@ const drummers = [
     band: 'Cryptopsy',
     genre: 'Technical Death Metal / Brutal Death Metal',
     country: 'Canada',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/f/f4/Cryptopsy_Party.San_Metal_Open_Air_2017_20.jpg',
+    image: '/images/drummers/36.jpg',
     bio: 'Flo Mounier is a Canadian drummer and the only constant member of technical death metal pioneers Cryptopsy, which he joined in 1992. Born in Montreal, Quebec, Mounier is widely regarded as one of the fastest and most technically proficient drummers in extreme metal. His innovative blast beat techniques, gravity blasts, and complex polyrhythmic patterns have influenced countless death metal drummers. Albums like "None So Vile" (1996) and "Whisper Supremacy" (1998) showcase his legendary speed and precision. Beyond his raw power, Mounier incorporates jazz and fusion elements into his playing, adding musicality to Cryptopsy\'s brutality. He has been endorsed by Pearl, Sabian, and Vic Firth, and has released instructional DVDs sharing his techniques.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Cryptopsy',
@@ -1767,7 +1767,7 @@ const drummers = [
       sources: ['https://pearldrum.com/en/artists', 'https://sabian.com/artists']
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/f/f4/Cryptopsy_Party.San_Metal_Open_Air_2017_20.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/b/bc/Cryptopsy_Party.San_Metal_Open_Air_2017_20.jpg'
     ],
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },

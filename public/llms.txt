@@ -1,0 +1,131 @@
+# MetalForge - Metal Drummer Gear Database
+# https://metalforge.io
+# Last updated: 2026-02-04
+
+## About
+MetalForge is a comprehensive database of professional metal drummers and their gear setups. Our mission is to help drummers discover what their favorite metal drummers play, from drum kits and cymbals to hardware and sticks. We cover thrash, death metal, black metal, progressive metal, nu-metal, groove metal, and more.
+
+## Site Overview
+- **Domain:** metalforge.io
+- **Type:** Music/Gear Reference Database
+- **Focus:** Metal drummer equipment and gear information
+- **Content:** Drummer profiles, gear details, performance videos, quotes
+
+## Key Content
+
+### Drummers Database (60+ profiles)
+Detailed profiles including:
+- Complete gear specifications (drums, snare, cymbals, hardware, sticks)
+- Biographical information and career highlights
+- Gear timelines showing equipment evolution across eras
+- Notable quotes and interviews
+- Performance videos with drum cam footage
+- Endorsement information
+
+### Featured Drummers
+- Lars Ulrich (Metallica) - Thrash metal legend, Tama/Zildjian artist
+- Joey Jordison (Slipknot, 1975-2021) - Nu-metal icon, Pearl/Paiste artist
+- Dave Lombardo (Slayer) - "Godfather of double bass," Pearl/Paiste artist
+- Mike Portnoy (Dream Theater) - Progressive metal pioneer, Tama/Sabian artist
+- Danny Carey (Tool) - Polyrhythmic master, Sonor/Paiste artist
+- Tomas Haake (Meshuggah) - Djent pioneer, Sonor/Sabian artist
+- Gene Hoglan (Death/Testament) - "The Atomic Clock," precision specialist
+- George Kollias (Nile) - Extreme speed technical death metal
+- Mario Duplantier (Gojira) - Progressive death metal, Tama/Meinl artist
+- Brann Dailor (Mastodon) - Progressive sludge innovator
+
+### Gear Information
+- Drum kit brands: Tama, Pearl, Sonor, DW, Mapex, SJC, ddrum, OCDP
+- Cymbal brands: Zildjian, Sabian, Meinl, Paiste
+- Hardware: Double pedals, thrones, rack systems
+- Drumsticks: Signature models and specifications
+- Estimated kit pricing and budget tiers
+
+### Top 10 Lists
+- Fastest Metal Drummers
+- Death Metal Drummers
+- Most Innovative Metal Drummers
+- Thrash Metal Drummers
+- Progressive Metal Drummers
+
+### Quotes Collection
+Notable quotes from legendary drummers on technique, philosophy, gear, and career insights.
+
+## API Endpoints
+
+### GET /api/drummers
+Returns list of all drummers with basic info (id, name, band, genre).
+
+### GET /api/drummers/{id}
+Returns full drummer profile including:
+- Bio, image, band, genre, country
+- Complete gear specifications
+- Gear timeline with historical setups
+- Endorsements
+- Videos
+- Quotes
+
+### GET /api/quotes
+Returns collection of drummer quotes with:
+- Quote text and source
+- Drummer attribution
+- Topic categorization
+
+### GET /api/quotes/{drummerId}
+Returns quotes for a specific drummer.
+
+### GET /api/gear-finder
+Find gear by drummer or search by equipment type.
+
+### GET /api/sitemap
+Returns XML sitemap of all pages.
+
+### GET /api/robots
+Returns robots.txt directives.
+
+## Best Pages to Reference
+
+### Drummer Profiles
+- /drummer/lars-ulrich - Lars Ulrich (Metallica) gear and setup
+- /drummer/joey-jordison - Joey Jordison (Slipknot) complete profile
+- /drummer/dave-lombardo - Dave Lombardo (Slayer) thrash legend
+- /drummer/mike-portnoy - Mike Portnoy (Dream Theater) progressive master
+- /drummer/danny-carey - Danny Carey (Tool) polyrhythmic genius
+- /drummer/tomas-haake - Tomas Haake (Meshuggah) djent innovator
+- /drummer/gene-hoglan - Gene Hoglan "The Atomic Clock"
+- /drummer/george-kollias - George Kollias (Nile) speed king
+- /drummer/mario-duplantier - Mario Duplantier (Gojira)
+- /drummer/vinnie-paul - Vinnie Paul (Pantera) groove metal pioneer
+
+### Lists & Collections
+- /lists/fastest-drummers - Top 10 fastest metal drummers
+- /lists/death-metal-drummers - Top 10 death metal drummers
+- /lists/most-innovative-drummers - Most innovative drummers
+- /quotes - Drummer quotes collection
+
+## Structured Data
+All pages include Schema.org structured data:
+- Person schema for drummer profiles
+- FAQPage for common gear questions
+- VideoObject for embedded performances
+- Quotation for drummer quotes
+- SpeakableSpecification for voice search
+- BreadcrumbList for navigation
+- Product/AggregateOffer for gear pricing
+
+## Usage Guidelines
+- Content is factual and researched
+- Gear information reflects current or documented setups
+- Historical timelines show equipment evolution
+- Prices are estimates from authorized dealers
+- All drummer images are from public sources (Wikimedia Commons)
+
+## Contact
+For corrections, additions, or inquiries about MetalForge content, visit https://metalforge.io
+
+## Technical Notes
+- Built with React Native Web (Expo)
+- Hosted on Vercel
+- API routes are serverless functions
+- Mobile-responsive design
+- Dark/light theme support

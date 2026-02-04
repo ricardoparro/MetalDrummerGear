@@ -8,6 +8,9 @@ export default function handler(req, res) {
 Allow: /
 
 Sitemap: https://metalforge.io/sitemap.xml
+
+# LLM/AI Discovery
+# See https://metalforge.io/llms.txt for AI-friendly site information
 `;
 
   res.status(200).send(robotsTxt);

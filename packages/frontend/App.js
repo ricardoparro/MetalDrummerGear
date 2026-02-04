@@ -469,7 +469,7 @@ function YouTubeEmbed({ videoId, title, theme }) {
     >
       <Image
         source={{ uri: thumbnailUrl }}
-        style={styles.videoThumbnail}
+        style={[{ width: videoWidth, height: videoHeight }, styles.videoThumbnail]}
         contentFit="cover"
         placeholder={{ blurhash: BLUR_HASH }}
         transition={300}
@@ -643,7 +643,9 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
               <ImageWithFallback
                 source={{ uri: drummer.imageUrl || PLACEHOLDER_IMAGE }}
                 style={styles.topListDrummerImage}
-                fallbackText={drummer.name}
+                accessibilityLabel={`Photo of ${drummer.name}`}
+                width={60}
+                height={60}
               />
               <View style={styles.topListDrummerInfo}>
                 <Text style={[styles.topListDrummerName, { color: theme.text }]}>{drummer.name}</Text>
@@ -766,7 +768,7 @@ function SearchBar({ value, onChange, onFocus, onClear, suggestions, onSelectSug
                 {suggestion.image && (
                   <Image 
                     source={{ uri: suggestion.image }} 
-                    style={styles.suggestionImage}
+                    style={[{ width: 36, height: 36 }, styles.suggestionImage]}
                     contentFit="cover"
                     placeholder={{ blurhash: BLUR_HASH }}
                     transition={200}
@@ -989,13 +991,16 @@ const BLUR_HASH = 'L6Pj0^jt.mfQ~qfQfQfQ~qfQfQfQ';
  * For Core Web Vitals optimization (LCP, CLS):
  * - Above-fold images: use priority={true} for eager loading
  * - Below-fold images: automatic lazy loading with blurhash placeholder
+ * - Always specify width/height to prevent Cumulative Layout Shift (CLS)
  * 
  * @param {Object} props.source - Image source object with uri property
  * @param {Object} props.style - Style object for the image
  * @param {string} props.accessibilityLabel - Accessibility label
  * @param {boolean} props.priority - If true, loads eagerly (above-fold images)
+ * @param {number} props.width - Explicit width for CLS prevention
+ * @param {number} props.height - Explicit height for CLS prevention
  */
-function ImageWithFallback({ source, style, accessibilityLabel, priority = false }) {
+function ImageWithFallback({ source, style, accessibilityLabel, priority = false, width, height }) {
   const [hasError, setHasError] = useState(false);
   const [imageUri, setImageUri] = useState(source?.uri || PLACEHOLDER_IMAGE);
 
@@ -1011,10 +1016,15 @@ function ImageWithFallback({ source, style, accessibilityLabel, priority = false
     }
   }, [hasError]);
 
+  // Combine explicit dimensions with style for CLS prevention
+  const imageStyle = width && height 
+    ? [{ width, height }, style]
+    : style;
+
   return (
     <Image
       source={{ uri: imageUri }}
-      style={style}
+      style={imageStyle}
       accessibilityLabel={accessibilityLabel}
       onError={handleError}
       contentFit="cover"
@@ -1429,6 +1439,8 @@ function DrummerCard({ drummer, theme, onPress, index = 0 }) {
           style={styles.cardImage}
           accessibilityLabel={`Photo of ${drummer.name}`}
           priority={isAboveFold}
+          width={60}
+          height={60}
         />
       </View>
       <View style={styles.cardText}>
@@ -2200,6 +2212,8 @@ function SimilarDrummersSection({ drummer, allDrummers, theme, onSelectDrummer }
                     source={{ uri: similarDrummer.image }}
                     style={styles.similarDrummerImage}
                     accessibilityLabel={`Photo of ${similarDrummer.name}`}
+                    width={60}
+                    height={60}
                   />
                   <View style={styles.similarDrummerInfo}>
                     <Text style={[styles.similarDrummerName, { color: theme.text }]} numberOfLines={1}>
@@ -2243,6 +2257,8 @@ function SimilarDrummersSection({ drummer, allDrummers, theme, onSelectDrummer }
                 source={{ uri: similarDrummer.image }}
                 style={styles.similarDrummerImage}
                 accessibilityLabel={`Photo of ${similarDrummer.name}`}
+                width={60}
+                height={60}
               />
               <View style={styles.similarDrummerInfo}>
                 <Text style={[styles.similarDrummerName, { color: theme.text }]} numberOfLines={1}>
@@ -2310,6 +2326,8 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
             style={styles.detailImage}
             accessibilityLabel={`Photo of ${drummer.name}`}
             priority={true}
+            width={120}
+            height={120}
           />
           <View style={styles.detailHeaderText}>
             <Text style={[styles.detailName, { color: theme.text }]} accessibilityRole="header">{drummer.name}</Text>
@@ -2370,6 +2388,8 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
                 source={{ uri: photo }}
                 style={styles.galleryImage}
                 accessibilityLabel={`${drummer.name} photo ${index + 1}`}
+                width={200}
+                height={150}
               />
             ))}
           </ScrollView>
@@ -3277,6 +3297,8 @@ function CompareYourKitModal({ drummer, theme, onClose }) {
             source={{ uri: drummer.image }}
             style={styles.kitCompareDrummerImage}
             accessibilityLabel={`Photo of ${drummer.name}`}
+            width={60}
+            height={60}
           />
           <View style={styles.kitCompareDrummerInfo}>
             <Text style={[styles.kitCompareDrummerName, { color: theme.text }]}>{drummer.name}</Text>
@@ -3651,6 +3673,8 @@ function CompareView({ theme, onBack, drummers, onNavigateToCompare }) {
                   source={{ uri: drummer.image }}
                   style={[styles.compareImage, isMobile && styles.compareImageMobile]}
                   accessibilityLabel={`Photo of ${drummer.name}`}
+                  width={isMobile ? 60 : 80}
+                  height={isMobile ? 60 : 80}
                 />
                 <Text style={[styles.compareName, { color: theme.text }]} numberOfLines={1}>{drummer.name}</Text>
                 <Text style={[styles.compareBand, { color: theme.secondaryText }]} numberOfLines={1}>{drummer.band}</Text>
@@ -3742,6 +3766,9 @@ function DrummerSpotlight({ drummer, theme, onSelectDrummer, onViewAllSpotlights
             source={{ uri: drummer.image }}
             style={[styles.spotlightImage, isMobile && styles.spotlightImageMobile]}
             accessibilityLabel={`Photo of ${drummer.name}`}
+            priority={true}
+            width={isMobile ? 100 : 140}
+            height={isMobile ? 100 : 140}
           />
         </TouchableOpacity>
         
@@ -3870,6 +3897,7 @@ function SpotlightsArchivePage({ theme, onBack, drummers, onSelectDrummer }) {
                 source={{ uri: drummer.image }}
                 style={styles.spotlightArchiveImage}
                 accessibilityLabel={`Photo of ${drummer.name}`}
+                height={180}
               />
               <View style={styles.spotlightArchiveInfo}>
                 <Text style={[styles.spotlightArchiveName, { color: theme.text }]} numberOfLines={1}>
@@ -4059,6 +4087,8 @@ function GearByBudgetPage({ theme, onBack, drummers, onSelectDrummer }) {
                       source={{ uri: drummer.image }}
                       style={styles.budgetDrummerImage}
                       accessibilityLabel={`Photo of ${drummer.name}`}
+                      width={60}
+                      height={60}
                     />
                     <View style={styles.budgetDrummerInfo}>
                       <Text style={[styles.budgetDrummerName, { color: theme.text }]} numberOfLines={1}>
@@ -4352,6 +4382,8 @@ function GearFinderPage({ theme, onBack, drummers, onSelectDrummer }) {
                       source={{ uri: result.image }}
                       style={styles.gearFinderResultImage}
                       accessibilityLabel={`Photo of ${result.name}`}
+                      width={70}
+                      height={70}
                     />
                     <View style={styles.gearFinderResultInfo}>
                       <Text style={[styles.gearFinderResultName, { color: theme.text }]} numberOfLines={1}>
@@ -4571,6 +4603,8 @@ function QuotesPage({ theme, onBack, drummers, onSelectDrummer }) {
                     source={{ uri: quote.drummer.image }}
                     style={styles.quotePageImage}
                     accessibilityLabel={`Photo of ${quote.drummer.name}`}
+                    width={48}
+                    height={48}
                   />
                   <View>
                     <Text style={[styles.quotePageName, { color: theme.text }]}>
@@ -5055,6 +5089,8 @@ function GearDetail({ gear, theme, onBack, onSelectDrummer }) {
           source={{ uri: gear.image }}
           style={styles.gearDetailImage}
           accessibilityLabel={`Photo of ${gear.name}`}
+          width={150}
+          height={150}
         />
         <View style={styles.gearDetailHeaderText}>
           <View style={[styles.gearCategoryBadge, { backgroundColor: theme.card, borderColor: theme.border }]}>
@@ -5145,6 +5181,8 @@ function GearDetail({ gear, theme, onBack, onSelectDrummer }) {
                   source={{ uri: drummer.image }}
                   style={styles.usedByImage}
                   accessibilityLabel={`Photo of ${drummer.name}`}
+                  width={50}
+                  height={50}
                 />
                 <View style={styles.usedByText}>
                   <Text style={[styles.usedByName, { color: theme.text }]}>{drummer.name}</Text>
@@ -5180,6 +5218,7 @@ function GearDetail({ gear, theme, onBack, onSelectDrummer }) {
                   source={{ uri: related.image }}
                   style={styles.relatedGearImage}
                   accessibilityLabel={`Photo of ${related.name}`}
+                  height={100}
                 />
                 <Text style={[styles.relatedGearName, { color: theme.text }]} numberOfLines={2}>
                   {related.name}
@@ -5784,7 +5823,7 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
             
             <Image
               source={{ uri: topMatch.drummer.image || PLACEHOLDER_IMAGE }}
-              style={styles.topMatchImage}
+              style={[{ width: 120, height: 120 }, styles.topMatchImage]}
               contentFit="cover"
               placeholder={{ blurhash: BLUR_HASH }}
               transition={300}
@@ -5853,7 +5892,7 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
                 >
                   <Image
                     source={{ uri: match.drummer.image || PLACEHOLDER_IMAGE }}
-                    style={styles.runnerUpImage}
+                    style={[{ width: 48, height: 48 }, styles.runnerUpImage]}
                     contentFit="cover"
                     placeholder={{ blurhash: BLUR_HASH }}
                     transition={300}
@@ -6480,6 +6519,8 @@ function CompareYourKitView({ theme, onBack, drummer, onSelectDrummer }) {
               source={{ uri: drummer.image }}
               style={styles.compareKitDrummerImage}
               accessibilityLabel={`Photo of ${drummer.name}`}
+              width={60}
+              height={60}
             />
             <Text style={[styles.compareKitResultsTitle, { color: theme.text }]}>
               Your Kit vs {drummer.name}
@@ -6575,6 +6616,8 @@ function CompareYourKitView({ theme, onBack, drummer, onSelectDrummer }) {
             source={{ uri: drummer.image }}
             style={styles.compareKitDrummerThumb}
             accessibilityLabel={`Photo of ${drummer.name}`}
+            width={60}
+            height={60}
           />
           <View style={styles.compareKitDrummerInfo}>
             <Text style={[styles.compareKitDrummerName, { color: theme.text }]}>{drummer.name}</Text>

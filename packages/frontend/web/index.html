@@ -27,13 +27,27 @@
     <meta name="twitter:description" content="Comprehensive database of 60+ pro metal drummers and their gear. Discover what drums, cymbals, and hardware legends like Lars Ulrich, Joey Jordison, Dave Lombardo, Mike Portnoy, and Danny Carey use." />
     <meta name="twitter:image" content="https://metalforge.io/og-image.png" />
 
-    <!-- Google Analytics (GA4) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-HKLHH1DCC7"></script>
+    <!-- Google Analytics (GA4) - Skip for CI tests -->
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-HKLHH1DCC7');
+      (function() {
+        // Skip GA4 for CI/E2E tests to avoid inflating analytics
+        if (window.location.search.includes('ci_test')) {
+          console.log('[GA4] Skipped - CI test detected');
+          return;
+        }
+        
+        // Load GA4 script dynamically
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = 'https://www.googletagmanager.com/gtag/js?id=G-HKLHH1DCC7';
+        document.head.appendChild(script);
+        
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        window.gtag = gtag;
+        gtag('js', new Date());
+        gtag('config', 'G-HKLHH1DCC7');
+      })();
     </script>
     
     <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->

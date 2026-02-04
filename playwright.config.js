@@ -1,7 +1,9 @@
 // @ts-check
 const { defineConfig, devices } = require('@playwright/test');
 
+// Append ci_test parameter in CI to exclude from Google Analytics tracking
 const BASE_URL = process.env.BASE_URL || 'https://metalforge.io';
+const TEST_BASE_URL = process.env.CI ? `${BASE_URL}?ci_test=1` : BASE_URL;
 
 module.exports = defineConfig({
   testDir: './e2e',
@@ -19,7 +21,7 @@ module.exports = defineConfig({
     ...(process.env.CI ? [['github']] : []),
   ],
   use: {
-    baseURL: BASE_URL,
+    baseURL: TEST_BASE_URL,
     trace: 'on-first-retry',
     screenshot: 'only-on-failure',
     video: 'on-first-retry',

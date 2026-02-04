@@ -61,14 +61,18 @@ test.describe('Drummer Detail Pages', () => {
   });
 
   test('all drummer detail pages render without errors', async ({ page, request }) => {
+    // Increase timeout for multi-page iteration test
+    test.setTimeout(60000);
+    
     const response = await request.get(`${BASE_URL}/api/drummers`);
     const drummers = await response.json();
     
     const errors = [];
     // Test first 5 drummers to stay within timeout
     for (const d of drummers.slice(0, 5)) {
-      await page.goto(`/drummer/${d.id}`, { waitUntil: 'networkidle' });
-      await page.waitForTimeout(1000);
+      // Use 'load' instead of 'networkidle' - GA scripts prevent networkidle from settling
+      await page.goto(`/drummer/${d.id}`, { waitUntil: 'load' });
+      await page.waitForTimeout(1500);
       
       const pageContent = await page.locator('body').textContent();
       

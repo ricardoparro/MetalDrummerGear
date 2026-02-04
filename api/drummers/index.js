@@ -2518,7 +2518,7 @@ const drummers = [
     band: 'Children of Bodom',
     genre: 'Melodic Death Metal / Power Metal',
     country: 'Finland',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/6/68/Jaska_Raatikainen_-_Ilosaarirock_2009_2.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/c/c1/Jaska_Raatikainen_-_Ilosaarirock_2009_%28cropped%29.jpg',
     bio: 'Jaska Raatikainen (born July 18, 1979) was the drummer and co-founder of Finnish melodic death metal band Children of Bodom, formed in 1993. Alongside the late Alexi Laiho, Raatikainen helped create the band\'s signature sound that blended neoclassical melodies with aggressive death metal.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Jaska_Raatikainen',
@@ -2582,7 +2582,7 @@ const drummers = [
     band: 'Dimmu Borgir / Vader',
     genre: 'Black Metal / Death Metal',
     country: 'Poland',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/e/e7/Dimmu_Borgir_Tuska_2019_%281%29.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/4/49/Dariusz_Brzozowski.jpg',
     bio: 'Dariusz "Daray" Brzozowski (born August 23, 1984) is a Polish drummer known for his work with Norwegian symphonic black metal band Dimmu Borgir (since 2008) and Polish death metal legends Vader (2006-2016). His drumming combines extreme speed, technical precision, and theatrical flair.',
     sameAs: [
       'https://www.discogs.com/artist/868449-Daray'

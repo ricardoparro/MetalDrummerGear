@@ -1,6 +1,8 @@
 // Vercel Serverless Function - List all quotes with filtering
+// Note: This file exists for Vercel routing compatibility (some versions need quotes.js
+// in addition to quotes/index.js for the /api/quotes endpoint to work)
 
-const quotesData = require('../quotes-data.js');
+const quotesData = require('./quotes-data.js');
 
 module.exports = (req, res) => {
   res.setHeader('Access-Control-Allow-Origin', '*');

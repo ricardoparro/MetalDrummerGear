@@ -1,6 +1,15 @@
 const { test, expect } = require('@playwright/test');
 const BASE_URL = process.env.BASE_URL || 'https://metalforge.io';
 
+/**
+ * Add CI cache-busting parameter to URLs for consistent test behavior.
+ * Prevents cached responses from affecting test results in CI environments.
+ */
+function ciParam(url) {
+  const separator = url.includes('?') ? '&' : '?';
+  return `${url}${separator}ci=${Date.now()}`;
+}
+
 test.describe('Quotes Feature', () => {
   test('quotes API returns data', async ({ request }) => {
     const response = await request.get(`${BASE_URL}/api/quotes`);

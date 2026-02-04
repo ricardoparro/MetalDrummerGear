@@ -989,13 +989,16 @@ const BLUR_HASH = 'L6Pj0^jt.mfQ~qfQfQfQ~qfQfQfQ';
  * For Core Web Vitals optimization (LCP, CLS):
  * - Above-fold images: use priority={true} for eager loading
  * - Below-fold images: automatic lazy loading with blurhash placeholder
+ * - Always specify width/height to prevent Cumulative Layout Shift (CLS)
  * 
  * @param {Object} props.source - Image source object with uri property
  * @param {Object} props.style - Style object for the image
  * @param {string} props.accessibilityLabel - Accessibility label
  * @param {boolean} props.priority - If true, loads eagerly (above-fold images)
+ * @param {number} props.width - Explicit width for CLS prevention
+ * @param {number} props.height - Explicit height for CLS prevention
  */
-function ImageWithFallback({ source, style, accessibilityLabel, priority = false }) {
+function ImageWithFallback({ source, style, accessibilityLabel, priority = false, width, height }) {
   const [hasError, setHasError] = useState(false);
   const [imageUri, setImageUri] = useState(source?.uri || PLACEHOLDER_IMAGE);
 
@@ -3711,6 +3714,7 @@ function DrummerSpotlight({ drummer, theme, onSelectDrummer, onViewAllSpotlights
             source={{ uri: drummer.image }}
             style={[styles.spotlightImage, isMobile && styles.spotlightImageMobile]}
             accessibilityLabel={`Photo of ${drummer.name}`}
+            priority={true}
           />
         </TouchableOpacity>
         

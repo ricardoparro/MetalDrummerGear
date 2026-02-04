@@ -4485,28 +4485,27 @@ function GearFinderPage({ theme, onBack, drummers, onSelectDrummer }) {
 }
 
 // Quotes Page - Browse all drummer quotes
-function QuotesPage({ theme, onBack, drummers, onSelectDrummer }) {
+function QuotesPage({ theme, onBack, onSelectDrummer }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedDrummerFilter, setSelectedDrummerFilter] = useState(null);
+  const [allQuotes, setAllQuotes] = useState([]);
+  const [loading, setLoading] = useState(true);
 
-  // Collect all quotes from all drummers
-  const allQuotes = useMemo(() => {
-    if (!drummers || !Array.isArray(drummers)) return [];
-    const quotes = [];
-    drummers.forEach(drummer => {
-      if (drummer && drummer.quotes && drummer.quotes.length > 0) {
-        drummer.quotes.forEach(quote => {
-          quotes.push({
-            ...quote,
-            drummer: drummer,
-          });
-        });
-      }
-    });
-    return quotes;
-  }, [drummers]);
+  // Fetch quotes from API
+  useEffect(() => {
+    fetch('/api/quotes')
+      .then(res => res.json())
+      .then(data => {
+        setAllQuotes(data.quotes || []);
+        setLoading(false);
+      })
+      .catch(err => {
+        console.error('Failed to fetch quotes:', err);
+        setLoading(false);
+      });
+  }, []);
 
   // Filter quotes by search and drummer
   const filteredQuotes = useMemo(() => {
@@ -4529,11 +4528,13 @@ function QuotesPage({ theme, onBack, drummers, onSelectDrummer }) {
     return results;
   }, [allQuotes, searchQuery, selectedDrummerFilter]);
 
-  // Get drummers that have quotes for the filter dropdown
+  // Get unique drummers from quotes for the filter dropdown
   const drummersWithQuotes = useMemo(() => {
-    if (!drummers || !Array.isArray(drummers)) return [];
-    return drummers.filter(d => d && d.quotes && d.quotes.length > 0);
-  }, [drummers]);
+    const seen = new Set();
+    return allQuotes
+      .filter(q => q.drummer && !seen.has(q.drummer.id) && seen.add(q.drummer.id))
+      .map(q => q.drummer);
+  }, [allQuotes]);
 
   // Update SEO
   useEffect(() => {
@@ -4611,12 +4612,16 @@ function QuotesPage({ theme, onBack, drummers, onSelectDrummer }) {
         </View>
 
         <Text style={[styles.quotesCount, { color: theme.secondaryText }]}>
-          {filteredQuotes.length} quote{filteredQuotes.length !== 1 ? 's' : ''} found
+          {loading ? 'Loading...' : `${filteredQuotes.length} quote${filteredQuotes.length !== 1 ? 's' : ''} found`}
         </Text>
 
         {/* Quotes List */}
         <View style={styles.quotesGrid}>
-          {filteredQuotes.map((quote, index) => (
+          {loading ? (
+            <Text style={{ color: theme.secondaryText, textAlign: 'center', padding: 20 }}>
+              Loading quotes...
+            </Text>
+          ) : filteredQuotes.map((quote, index) => (
             <TouchableOpacity
               key={`${quote.drummer.id}-${index}`}
               onPress={() => onSelectDrummer(quote.drummer.id)}
@@ -4655,7 +4660,7 @@ function QuotesPage({ theme, onBack, drummers, onSelectDrummer }) {
           ))}
         </View>
 
-        {filteredQuotes.length === 0 && (
+        {!loading && filteredQuotes.length === 0 && (
           <View style={styles.noQuotesContainer}>
             <Text style={[styles.noQuotesText, { color: theme.secondaryText }]}>
               {searchQuery || selectedDrummerFilter 
@@ -7656,7 +7661,6 @@ setShowList(false);
               window.history.pushState({}, '', '/');
             }
           }}
-          drummers={drummers}
           onSelectDrummer={handleSelectDrummer}
         />
       );

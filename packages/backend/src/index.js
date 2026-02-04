@@ -1669,8 +1669,8 @@ app.get('/api/drummers', (req, res) => {
     );
   }
 
-  res.json(results.map(({ id, name, band, genre, genres, country, image }) => ({
-    id, name, band, genre, genres, country, image
+  res.json(results.map(({ id, name, band, genre, genres, country, image, quotes }) => ({
+    id, name, band, genre, genres, country, image, quotes
   })));
 });
 

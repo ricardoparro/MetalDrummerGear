@@ -5,6 +5,7 @@ import { ThemeProvider, useTheme } from './ThemeContext';
 import { useState, useEffect, useCallback, useMemo, useRef } from 'react';
 import { getAffiliateLinks, extractPrimaryProduct, getThomannLink, getSweetwaterLink } from './affiliateLinks';
 import { calculateKitCost, formatPrice } from './gearPrices';
+import { getOptimizedImageUrl, optimizeDrummerImages, imageDefaults, IMAGE_WIDTHS } from './imageUtils';
 
 // Filter options configuration
 const FILTER_OPTIONS = {
@@ -1002,12 +1003,22 @@ const BLUR_HASH = 'L6Pj0^jt.mfQ~qfQfQfQ~qfQfQfQ';
  */
 function ImageWithFallback({ source, style, accessibilityLabel, priority = false, width, height }) {
   const [hasError, setHasError] = useState(false);
-  const [imageUri, setImageUri] = useState(source?.uri || PLACEHOLDER_IMAGE);
+  
+  // Optimize external images through our proxy for CDN caching
+  const optimizedUri = useMemo(() => {
+    const uri = source?.uri;
+    if (!uri) return PLACEHOLDER_IMAGE;
+    if (uri.startsWith('/images/') || uri.startsWith('/api/image')) return uri;
+    const targetWidth = width || 256;
+    return getOptimizedImageUrl(uri, { width: targetWidth });
+  }, [source?.uri, width]);
+  
+  const [imageUri, setImageUri] = useState(optimizedUri);
 
   useEffect(() => {
-    setImageUri(source?.uri || PLACEHOLDER_IMAGE);
+    setImageUri(optimizedUri);
     setHasError(false);
-  }, [source?.uri]);
+  }, [optimizedUri]);
 
   const handleError = useCallback(() => {
     if (!hasError) {
@@ -1029,7 +1040,7 @@ function ImageWithFallback({ source, style, accessibilityLabel, priority = false
       onError={handleError}
       contentFit="cover"
       placeholder={{ blurhash: BLUR_HASH }}
-      transition={300}
+      transition={200}
       priority={priority ? 'high' : 'low'}
       cachePolicy="memory-disk"
     />
@@ -7191,7 +7202,8 @@ function AppContent() {
           throw new Error('Failed to fetch drummers');
         }
         const data = await response.json();
-        setDrummers(data);
+        const optimizedData = data.map(drummer => optimizeDrummerImages(drummer));
+        setDrummers(optimizedData);
       } catch (err) {
         setDrummersError(err.message);
       } finally {
@@ -7238,7 +7250,7 @@ function AppContent() {
             const response = await fetch(detailUrl);
             if (response.ok) {
               const data = await response.json();
-              setSelectedDrummer(data);
+              setSelectedDrummer(optimizeDrummerImages(data));
               setSelectedDrummerId(drummer.id);
               setSelectedGear(null);
               setShowCompare(false);
@@ -7339,7 +7351,7 @@ function AppContent() {
             const response = await fetch(detailUrl);
             if (response.ok) {
               const data = await response.json();
-              setSelectedDrummer(data);
+              setSelectedDrummer(optimizeDrummerImages(data));
               setSelectedDrummerId(drummer.id);
             } else {
               // API error - redirect to home
@@ -7375,7 +7387,7 @@ function AppContent() {
       }
       const data = await response.json();
       console.log('[DEBUG] Got data for:', data.name);
-      setSelectedDrummer(data);
+      setSelectedDrummer(optimizeDrummerImages(data));
       setSelectedDrummerId(id);
       // Update URL to reflect the drummer profile
       if (!skipUrlUpdate && Platform.OS === 'web' && typeof window !== 'undefined') {

@@ -1,28 +1,8 @@
 // Vercel Serverless Function - Get all quote topics
 
-const fs = require('fs');
-const path = require('path');
+const quotesData = require('../quotes-data.js');
 
-function getAllTopics() {
-  const content = fs.readFileSync(path.join(__dirname, '../drummers/index.js'), 'utf8');
-  const topics = new Set();
-  
-  // Find all topic values in quotes
-  const topicPattern = /topic:\s*["'`]([^"'`]+)["'`]/g;
-  let match;
-  while ((match = topicPattern.exec(content)) !== null) {
-    topics.add(match[1]);
-  }
-  
-  // Add default topics if none found (these are commonly used)
-  if (topics.size === 0) {
-    ['gear', 'technique', 'philosophy', 'career'].forEach(t => topics.add(t));
-  }
-  
-  return Array.from(topics).sort();
-}
-
-export default function handler(req, res) {
+module.exports = function handler(req, res) {
   res.setHeader('Access-Control-Allow-Origin', '*');
   res.setHeader('Access-Control-Allow-Methods', 'GET, OPTIONS');
   res.setHeader('Content-Type', 'application/json');
@@ -31,6 +11,15 @@ export default function handler(req, res) {
     return res.status(200).end();
   }
 
-  const topics = getAllTopics();
-  return res.status(200).json(topics);
-}
+  const quotes = quotesData.getAllQuotes();
+  const topics = [...new Set(quotes.map(q => q.topic).filter(Boolean))].sort();
+  
+  // Add default topics if none found
+  if (topics.length === 0) {
+    topics.push('gear', 'technique', 'philosophy', 'career');
+    topics.sort();
+  }
+
+  // Return in expected format with topics array wrapped in object
+  return res.status(200).json({ topics });
+};

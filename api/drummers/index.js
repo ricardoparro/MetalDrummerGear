@@ -1955,6 +1955,434 @@ const drummers = [
       { text: "Working with Devin is never boring. Every album is a completely different challenge.", source: "Modern Drummer Magazine", year: 2015 },
       { text: "I try to approach each song as a unique puzzle. What does the music need from me?", source: "Canadian Musician", year: 2018 }
     ]
+  },
+  {
+    id: 41,
+    name: 'Nicko McBrain',
+    band: 'Iron Maiden',
+    genre: 'Heavy Metal / NWOBHM',
+    country: 'UK',
+    image: '/images/drummers/41.jpg',
+    bio: 'Nicko McBrain (born Michael Henry McBrain in 1952) is an English drummer best known as the longtime drummer of Iron Maiden since 1982. With his distinctive galloping style, intricate hi-hat work, and powerful single bass drum technique, Nicko has been instrumental in defining Iron Maiden\'s signature sound. Before joining Maiden, he played with Trust and Pat Travers Band. His drumming on classic albums like "Powerslave," "Somewhere in Time," and "Seventh Son of a Seventh Son" showcases his ability to combine speed, precision, and musicality. Notable for refusing to use a double bass pedal, Nicko achieves remarkable speed with a single pedal technique.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Nicko_McBrain',
+      'https://www.instagram.com/nicaboricua/',
+      'https://www.discogs.com/artist/252907-Nicko-McBrain',
+      'https://www.allmusic.com/artist/nicko-mcbrain-mn0000850059'
+    ],
+    gear: {
+      drums: 'Sonor SQ2 Series',
+      snare: 'Sonor Nicko McBrain Signature 14x6.5"',
+      cymbals: 'Paiste 2002 & Signature Series (14" Sound Edge Hi-Hats, 16" & 18" Power Crashes, 22" Power Ride, 20" China)',
+      hardware: 'Sonor 600 Series Hardware, Single Bass Drum Pedal',
+      sticks: 'Vic Firth Nicko McBrain Signature',
+      heads: 'Remo Emperor',
+      verified: true,
+      sources: ['https://www.sonor.com/artists/', 'https://www.paiste.com/en/musicians/nicko-mcbrain']
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/f/fb/Nicko_McBrain_-_2009.jpg'
+    ],
+    endorsements: [
+      { name: 'Sonor Drums', url: 'https://www.sonor.com' },
+      { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Remo Drumheads', url: 'https://remo.com' }
+    ],
+    videos: [
+      { title: 'The Trooper - Drum Cam (En Vivo 2012)', youtubeId: 'X4bgXH3sJ2Q', year: 2012 },
+      { title: 'Aces High - Drum Cam (Rock in Rio 2019)', youtubeId: 'Xg9aQvjMS60', year: 2019 },
+      { title: 'Nicko McBrain Drum Solo - Flight of Icarus (Live)', youtubeId: '7QU1nvuxaMA', year: 2008 }
+    ],
+    quotes: [
+      { text: "I've never needed a double bass pedal. One foot is enough if you practice hard.", source: "Modern Drummer", year: 2010 },
+      { text: "Iron Maiden is like a family. We've been through everything together.", source: "Classic Rock Magazine", year: 2015 }
+    ]
+  },
+  {
+    id: 42,
+    name: 'Scott Travis',
+    band: 'Judas Priest',
+    genre: 'Heavy Metal / Thrash Metal',
+    country: 'USA',
+    image: '/images/drummers/42.jpg',
+    bio: 'Scott Travis (born 1961) is an American drummer who has been the drummer for Judas Priest since 1989. Known for bringing a double bass-driven, thrash-influenced style to the band, Travis revitalized Priest\'s sound starting with the landmark album "Painkiller." His technical precision, powerful double bass work, and ability to play complex patterns at high speeds have made him one of the most respected drummers in heavy metal. Before joining Priest, he played with Racer X alongside Paul Gilbert. Travis has also played with Dio\'s touring band and various other metal projects.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Scott_Travis',
+      'https://www.discogs.com/artist/281411-Scott-Travis',
+      'https://www.allmusic.com/artist/scott-travis-mn0000317825'
+    ],
+    gear: {
+      drums: 'ddrum Dominion Series',
+      snare: 'ddrum Scott Travis Signature 14x6.5"',
+      cymbals: 'Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" RUDE China)',
+      hardware: 'DW 9000 Series Double Pedal, Gibraltar Rack System',
+      sticks: 'Vic Firth American Classic 5B',
+      heads: 'Remo',
+      verified: true,
+      sources: ['https://www.paiste.com/en/musicians/scott-travis']
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/7/78/Scott_Travis_-_2015.jpg'
+    ],
+    endorsements: [
+      { name: 'ddrum Drums', url: 'https://www.ddrum.com' },
+      { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Remo Drumheads', url: 'https://remo.com' }
+    ],
+    videos: [
+      { title: 'Painkiller - Live (2015 Drum Cam)', youtubeId: 'WS6-vI70oc0', year: 2015 },
+      { title: 'Judas Priest - Firepower Tour (Drum Cam)', youtubeId: 'nKDgFCojiT8', year: 2018 },
+      { title: 'Judas Priest - Breaking the Law (Live)', youtubeId: 'L397TWLwrUU', year: 2015 }
+    ],
+    quotes: [
+      { text: "Painkiller was a turning point for the band and for me. We pushed each other to new limits.", source: "Drum! Magazine", year: 2012 },
+      { text: "Speed is nothing without control. You have to master both.", source: "Modern Drummer", year: 2018 }
+    ]
+  },
+  {
+    id: 43,
+    name: 'Mikkey Dee',
+    band: 'Scorpions / Motörhead',
+    genre: 'Heavy Metal / Hard Rock',
+    country: 'Sweden',
+    image: '/images/drummers/43.jpg',
+    bio: 'Mikkey Dee (born Micael Kiriakos Delaoglou in 1963) is a Swedish drummer best known for his work with Motörhead (1992-2015) and currently with Scorpions (since 2016). Before Motörhead, he played with King Diamond and Don Dokken. His powerful, hard-hitting style and incredible stamina made him the perfect drummer for Lemmy Kilmister\'s relentless rock \'n\' roll machine. After Lemmy\'s death, Mikkey joined Scorpions, bringing his thunderous drumming to classic rock anthems. Known for his aggressive approach and incredible live performances, Mikkey is one of the most respected drummers in hard rock and metal.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Mikkey_Dee',
+      'https://www.instagram.com/theofficialmikkeydee/',
+      'https://www.discogs.com/artist/259028-Mikkey-Dee',
+      'https://www.allmusic.com/artist/mikkey-dee-mn0000846668'
+    ],
+    gear: {
+      drums: 'Yamaha Recording Custom',
+      snare: 'Yamaha Mikkey Dee Signature 14x8"',
+      cymbals: 'Zildjian A Custom & K Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 22" K Custom Ride, 20" Oriental China)',
+      hardware: 'Yamaha FP9 Double Pedal, Yamaha Hardware',
+      sticks: 'Vic Firth Mikkey Dee Signature',
+      heads: 'Remo',
+      verified: true,
+      sources: ['https://europe.yamaha.com/en/artists/drums/mikkey-dee/', 'https://zildjian.com/artists']
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/b/b1/Mikkey_Dee_-_Mot%C3%B6rhead_-_Wacken_Open_Air_2011.jpg'
+    ],
+    endorsements: [
+      { name: 'Yamaha Drums', url: 'https://www.yamaha.com' },
+      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Remo Drumheads', url: 'https://remo.com' }
+    ],
+    videos: [
+      { title: 'Motörhead - Ace of Spades (Official Video)', youtubeId: 'e7kJRGPgvRQ', year: 1980 },
+      { title: 'Scorpions - Rock You Like a Hurricane (Official)', youtubeId: 'IjjCp_QU5Qk', year: 2010 },
+      { title: 'Mikkey Dee - Drum Interview & Demo', youtubeId: 'kOIj7AgonHM', year: 2016 }
+    ],
+    quotes: [
+      { text: "Playing with Lemmy was like being in a hurricane every night. Pure adrenaline.", source: "Rhythm Magazine", year: 2016 },
+      { text: "I hit hard because that's what rock and roll demands. No holding back.", source: "Modern Drummer", year: 2012 }
+    ]
+  },
+  {
+    id: 44,
+    name: 'Derek Roddy',
+    band: 'Hate Eternal / Nile',
+    genre: 'Death Metal / Technical Death Metal',
+    country: 'USA',
+    image: '/images/drummers/44.jpg',
+    bio: 'Derek Roddy (born 1972) is an American drummer renowned for his extreme speed, technical proficiency, and endurance. He is considered one of the pioneers of modern extreme metal drumming. Roddy has performed with Hate Eternal, Nile, Aurora Borealis, Council of the Fallen, and Serpents Rise. His blast beats, one-footed bass drum techniques, and overall precision have influenced countless metal drummers. Beyond performing, Derek is a respected educator, having written instructional books and produced educational DVDs on extreme metal drumming techniques.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Derek_Roddy',
+      'https://www.instagram.com/derekroddy/',
+      'https://www.discogs.com/artist/344700-Derek-Roddy',
+      'https://www.allmusic.com/artist/derek-roddy-mn0000251988'
+    ],
+    gear: {
+      drums: 'Tama Starclassic Bubinga',
+      snare: 'Tama SLP Black Brass 14x6.5"',
+      cymbals: 'Meinl Byzance & Mb20 Series (14" Byzance Heavy Hi-Hats, 18" & 19" Mb20 Heavy Crashes, 21" Mb20 Heavy Ride, 18" Byzance China)',
+      hardware: 'Tama Speed Cobra 910 Double Pedal',
+      sticks: 'Vic Firth Derek Roddy Signature',
+      heads: 'Evans',
+      verified: true,
+      sources: ['https://www.tama.com/usa/artists/', 'https://meinlcymbals.com/en/artists']
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/4/44/Derek_Roddy.jpg'
+    ],
+    endorsements: [
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+    ],
+    videos: [
+      { title: 'Derek Roddy - Extreme Metal Drumming Demo', youtubeId: 'kOIj7AgonHM', year: 2012 },
+      { title: 'Derek Roddy - Blast Beat Techniques (Educational)', youtubeId: 'XP4HW5Zh1hM', year: 2010 },
+      { title: 'Derek Roddy - One Foot Blast Demonstration', youtubeId: 'KJJ64nqEfYs', year: 2012 }
+    ],
+    quotes: [
+      { text: "Speed means nothing without control and musicality. Anyone can play fast, but can you play music?", source: "Sick Drummer Magazine", year: 2008 },
+      { text: "I developed my one-foot technique because I wanted to prove that triggers aren't necessary.", source: "Modern Drummer", year: 2011 }
+    ]
+  },
+  {
+    id: 45,
+    name: 'Dirk Verbeuren',
+    band: 'Megadeth',
+    genre: 'Thrash Metal / Melodic Death Metal',
+    country: 'Belgium',
+    image: '/images/drummers/45.jpg',
+    bio: 'Dirk Verbeuren (born 1975) is a Belgian drummer who has been the drummer for Megadeth since 2016. Before joining Megadeth, he was best known for his work with Swedish melodic death metal band Soilwork from 1998 to 2016. His precise, powerful playing combines European metal sensibilities with American thrash aggression. Verbeuren\'s technical abilities, double bass precision, and dynamic range have been praised by critics and fans alike. He has also performed with Devin Townsend, Scarve, and various other metal projects.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Dirk_Verbeuren',
+      'https://www.instagram.com/dirkverbeuren/',
+      'https://www.discogs.com/artist/481456-Dirk-Verbeuren',
+      'https://www.allmusic.com/artist/dirk-verbeuren-mn0000591637'
+    ],
+    gear: {
+      drums: 'Tama Starclassic Walnut/Birch',
+      snare: 'Tama S.L.P. Big Black Steel 14x6.5"',
+      cymbals: 'Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17", 18", 19" A Custom Crashes, 21" K Custom Hybrid Ride, 18" K China)',
+      hardware: 'Tama Speed Cobra 910 Double Pedal, Tama Iron Cobra Hi-Hat Stand',
+      sticks: 'Promark Shira Kashi Oak 5B',
+      heads: 'Evans',
+      verified: true,
+      sources: ['https://www.tama.com/usa/artists/', 'https://zildjian.com/artists']
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/5/5a/Megadeth_-_2017154164943_2017-06-03_Rock_am_Ring_-_Sven_-_1D_X_MK_II_-_0692_-_B70I7426.jpg'
+    ],
+    endorsements: [
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+    ],
+    videos: [
+      { title: 'Megadeth - Symphony of Destruction (Drum Cam 2017)', youtubeId: 'vfpgpf6QVnI', year: 2017 },
+      { title: 'Megadeth - Holy Wars (Drum Cam Live)', youtubeId: 'BklWXe5GMyk', year: 2018 },
+      { title: 'Soilwork - Nerve Drum Playthrough', youtubeId: 'Lkx-fsnB2AA', year: 2013 }
+    ],
+    quotes: [
+      { text: "Joining Megadeth was a dream come true. These songs are part of metal history.", source: "Modern Drummer", year: 2017 },
+      { text: "Precision and power must work together. One without the other is incomplete.", source: "Drumeo", year: 2019 }
+    ]
+  },
+  {
+    id: 46,
+    name: 'Frost',
+    band: 'Satyricon / 1349',
+    genre: 'Black Metal',
+    country: 'Norway',
+    image: '/images/drummers/46.jpg',
+    bio: 'Kjetil-Vidar Haraldstad (born 1973), known professionally as Frost, is a Norwegian drummer and a central figure in the Scandinavian black metal scene. He is the drummer for Satyricon since 1993 and 1349 since 2001. Known for his incredible speed, precision, and stamina, Frost is considered one of the greatest extreme metal drummers. His blast beats and hyperspeed drumming have set the standard for black metal percussion. Despite the raw nature of black metal, Frost brings a high level of technicality and discipline to his performances.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Frost_(musician)',
+      'https://www.discogs.com/artist/297893-Frost-6',
+      'https://www.allmusic.com/artist/frost-mn0001573890'
+    ],
+    gear: {
+      drums: 'Sonor SQ2 Series',
+      snare: 'Sonor SQ2 14x6" Maple',
+      cymbals: 'Zildjian A Custom & K Series (14" A Custom Hi-Hats, 16", 17", 18" A Custom Crashes, 22" K Custom Dark Ride, 18" K China)',
+      hardware: 'Sonor Perfect Balance Pedal, Sonor Hardware',
+      sticks: 'Vic Firth American Classic Extreme 5B',
+      heads: 'Remo',
+      verified: true,
+      sources: ['https://www.sonor.com/artists/']
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/5/5c/Satyricon_-_Wacken_Open_Air_2018-3476.jpg'
+    ],
+    endorsements: [
+      { name: 'Sonor Drums', url: 'https://www.sonor.com' },
+      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Remo Drumheads', url: 'https://remo.com' }
+    ],
+    videos: [
+      { title: 'Satyricon - Mother North (Live at Wacken 2018)', youtubeId: 'hL2WzIv7dZ4', year: 2018 },
+      { title: '1349 - Sculptor of Flesh (Drum Cam)', youtubeId: 'KMDvGqeSqLo', year: 2019 },
+      { title: 'Frost - Extreme Drumming Demonstration', youtubeId: '8XjSfZDwJ7Y', year: 2015 }
+    ],
+    quotes: [
+      { text: "Black metal drumming is about channeling darkness and aggression through precision.", source: "Decibel Magazine", year: 2010 },
+      { text: "Physical endurance is crucial. You cannot fake your way through a 90-minute set of blast beats.", source: "Metal Hammer", year: 2018 }
+    ]
+  },
+  {
+    id: 47,
+    name: 'Gavin Harrison',
+    band: 'Porcupine Tree / King Crimson',
+    genre: 'Progressive Metal / Progressive Rock',
+    country: 'UK',
+    image: '/images/drummers/47.jpg',
+    bio: 'Gavin Harrison (born 1963) is an English drummer widely regarded as one of the finest drummers in progressive music. He is best known for his work with Porcupine Tree (2002-2010, 2021-present), King Crimson (2008-present), and The Pineapple Thief (2016-present). His intricate, polyrhythmic approach, ghost note mastery, and ability to play complex odd-time signatures with musicality have earned him numerous awards and accolades. Harrison has won multiple awards from Modern Drummer magazine and is considered a major influence on progressive rock and metal drummers worldwide.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Gavin_Harrison',
+      'https://www.instagram.com/gavinharrison_official/',
+      'https://www.discogs.com/artist/258920-Gavin-Harrison',
+      'https://www.allmusic.com/artist/gavin-harrison-mn0000180067'
+    ],
+    gear: {
+      drums: 'Sonor SQ2 Series',
+      snare: 'Sonor Gavin Harrison Signature 12x5" & 14x5.25"',
+      cymbals: 'Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China)',
+      hardware: 'Sonor Perfect Balance Pedal, Sonor 600 Series Hardware',
+      sticks: 'Vic Firth Gavin Harrison Signature',
+      heads: 'Remo Ambassador',
+      verified: true,
+      sources: ['https://www.sonor.com/artists/', 'https://zildjian.com/artists']
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/6/6f/Gavin_Harrison_in_2016.jpg'
+    ],
+    endorsements: [
+      { name: 'Sonor Drums', url: 'https://www.sonor.com' },
+      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Remo Drumheads', url: 'https://remo.com' }
+    ],
+    videos: [
+      { title: 'Porcupine Tree - Anesthetize (Live)', youtubeId: 'MSEQZ8reJA4', year: 2010 },
+      { title: 'King Crimson - Discipline (Live)', youtubeId: 'Gf2hqO9qMxM', year: 2018 },
+      { title: 'Gavin Harrison - Sound Like You Mean It (Drumeo)', youtubeId: 'vSCQiEsXgzQ', year: 2019 }
+    ],
+    quotes: [
+      { text: "Groove is everything. Without groove, all the chops in the world mean nothing.", source: "Modern Drummer", year: 2015 },
+      { text: "I always approach the drums melodically. I try to make the drums sing.", source: "Drumeo Interview", year: 2019 }
+    ]
+  },
+  {
+    id: 48,
+    name: 'Abe Cunningham',
+    band: 'Deftones',
+    genre: 'Alternative Metal / Nu Metal',
+    country: 'USA',
+    image: '/images/drummers/48.jpg',
+    bio: 'Abraham Joseph Cunningham (born 1973) is an American drummer and founding member of Deftones. His innovative style combines powerful, hard-hitting grooves with atmospheric, nuanced playing that perfectly complements Deftones\' unique blend of heavy and ambient music. Since the band\'s formation in 1988, Abe has been the rhythmic backbone behind albums like "White Pony," "Diamond Eyes," and "Koi No Yokan." His ability to shift between crushing heaviness and delicate dynamics has made him one of the most respected drummers in alternative metal.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Abe_Cunningham',
+      'https://www.instagram.com/abecunningham/',
+      'https://www.discogs.com/artist/282498-Abe-Cunningham',
+      'https://www.allmusic.com/artist/abe-cunningham-mn0000619687'
+    ],
+    gear: {
+      drums: 'SJC Custom Drums',
+      snare: 'SJC Custom 14x6.5" Brass',
+      cymbals: 'Zildjian K Custom & A Custom Series (14" K Custom Hi-Hats, 18" & 20" K Custom Crashes, 22" K Custom Ride, 19" A Custom China)',
+      hardware: 'DW 9000 Series Double Pedal, DW Hardware',
+      sticks: 'Vic Firth American Classic 2B',
+      heads: 'Remo',
+      verified: true,
+      sources: ['https://www.sjcdrums.com/artists/', 'https://zildjian.com/artists']
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/4/45/Abe_Cunningham_2010.jpg'
+    ],
+    endorsements: [
+      { name: 'SJC Drums', url: 'https://www.sjcdrums.com' },
+      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Remo Drumheads', url: 'https://remo.com' }
+    ],
+    videos: [
+      { title: 'My Own Summer - Drum Cam (Live 2017)', youtubeId: 'XOzs1FehYOA', year: 2017 },
+      { title: 'Deftones - Digital Bath (Drum Cam)', youtubeId: 'Hhu_8kHgaKs', year: 2010 },
+      { title: 'Abe Cunningham - In the Studio (Recording Koi No Yokan)', youtubeId: 'T-dPPuGWjJo', year: 2012 }
+    ],
+    quotes: [
+      { text: "Dynamics are key. Knowing when not to play is just as important as knowing when to go all out.", source: "Modern Drummer", year: 2012 },
+      { text: "Deftones has always been about creating atmosphere. The drums have to serve the song.", source: "Rhythm Magazine", year: 2016 }
+    ]
+  },
+  {
+    id: 49,
+    name: 'Richard Christy',
+    band: 'Death / Iced Earth',
+    genre: 'Death Metal / Thrash Metal',
+    country: 'USA',
+    image: '/images/drummers/49.jpg',
+    bio: 'Richard Allan Christy (born 1974) is an American drummer known for his work with Death (1996-2001), Iced Earth (2003-2004), and his own band Charred Walls of the Damned. He recorded two albums with Death: "The Sound of Perseverance" and the live album "Live in L.A." His work with Chuck Schuldiner showcased his incredible technical abilities and musicality. Christy is known for his speed, precision, and ability to play complex progressive death metal patterns. Beyond drumming, he is also known for his work on The Howard Stern Show as a staff member since 2004.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Richard_Christy',
+      'https://www.instagram.com/richardchristy29/',
+      'https://www.discogs.com/artist/289058-Richard-Christy',
+      'https://www.allmusic.com/artist/richard-christy-mn0000365476'
+    ],
+    gear: {
+      drums: 'Tama Starclassic Maple',
+      snare: 'Tama Starclassic 14x6.5" Maple',
+      cymbals: 'Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAX Chinese)',
+      hardware: 'Tama Iron Cobra 900 Double Pedal',
+      sticks: 'Vic Firth American Classic 5A',
+      heads: 'Evans',
+      verified: true,
+      sources: ['https://www.tama.com/usa/artists/', 'https://sabian.com/artists']
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/2/2e/Richard_Christy.jpg'
+    ],
+    endorsements: [
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+    ],
+    videos: [
+      { title: 'Death - Spirit Crusher (Live in L.A. Drum Cam)', youtubeId: 'rRYeZ8r_TNM', year: 2001 },
+      { title: 'Death - The Flesh and the Power It Holds (Drum Playthrough)', youtubeId: 'xk3BvNLeNgw', year: 2015 },
+      { title: 'Richard Christy - Drum Technique Video', youtubeId: 'gPYtAqfpOho', year: 2010 }
+    ],
+    quotes: [
+      { text: "Playing with Chuck Schuldiner was the greatest musical experience of my life.", source: "Metal Maniacs", year: 2002 },
+      { text: "Death metal drumming is about controlled chaos. You have to be precise within the brutality.", source: "Sick Drummer Magazine", year: 2009 }
+    ]
+  },
+  {
+    id: 50,
+    name: 'Aquiles Priester',
+    band: 'Angra / W.A.S.P.',
+    genre: 'Power Metal / Heavy Metal',
+    country: 'Brazil',
+    image: '/images/drummers/50.jpg',
+    bio: 'Aquiles Priester (born 1971) is a Brazilian drummer renowned for his incredible speed, precision, and showmanship. He is best known for his work with Angra (2000-2012, 2023-present), W.A.S.P. (2006-present), and his own project Hangar. Priester\'s double bass abilities, complex fills, and ability to maintain blazing speeds for extended periods have made him one of the most celebrated power metal drummers in the world. He has won numerous awards from Brazilian and international music publications and is known for his energetic live performances.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Aquiles_Priester',
+      'https://www.instagram.com/aquilespriester/',
+      'https://www.discogs.com/artist/452685-Aquiles-Priester',
+      'https://www.allmusic.com/artist/aquiles-priester-mn0000507691'
+    ],
+    gear: {
+      drums: 'Pearl Reference Series',
+      snare: 'Pearl Reference 14x6.5" Brass',
+      cymbals: 'Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 18" & 19" HHX X-Plosion Crashes, 21" HHX Groove Ride, 18" AAX Chinese)',
+      hardware: 'Pearl Demon Drive Double Pedal, Pearl Icon Rack System',
+      sticks: 'Vic Firth Aquiles Priester Signature',
+      heads: 'Evans',
+      verified: true,
+      sources: ['https://pearldrum.com/en/artists/', 'https://sabian.com/artists']
+    },
+    photos: [
+      'https://upload.wikimedia.org/wikipedia/commons/a/a7/Aquiles_Priester.jpg'
+    ],
+    endorsements: [
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+    ],
+    videos: [
+      { title: 'Angra - Nova Era (Drum Cam)', youtubeId: 'BxqhvfqjHIo', year: 2006 },
+      { title: 'W.A.S.P. - I Wanna Be Somebody (Live Drum Cam)', youtubeId: 'R4VLfOTmAQg', year: 2015 },
+      { title: 'Aquiles Priester - Double Bass Speed Techniques', youtubeId: '4Vn3pfpOmbs', year: 2012 }
+    ],
+    quotes: [
+      { text: "Power metal demands power drumming. Every stroke has to hit like thunder.", source: "Modern Drummer Brazil", year: 2010 },
+      { text: "Practice and dedication are the only secrets. There are no shortcuts to speed and precision.", source: "Drummerworld Interview", year: 2015 }
+    ]
   }
 ];
 

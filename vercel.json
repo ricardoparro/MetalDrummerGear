@@ -5,7 +5,33 @@
   "framework": null,
   "headers": [
     {
+      "source": "/api/image(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, s-maxage=31536000, stale-while-revalidate=604800, immutable"
+        },
+        {
+          "key": "Vary",
+          "value": "Accept"
+        }
+      ]
+    },
+    {
       "source": "/images/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, s-maxage=31536000, immutable"
+        },
+        {
+          "key": "Accept-CH",
+          "value": "DPR, Viewport-Width, Width"
+        }
+      ]
+    },
+    {
+      "source": "/_expo/static/(.*)",
       "headers": [
         {
           "key": "Cache-Control",
@@ -14,7 +40,56 @@
       ]
     },
     {
-      "source": "/_next/static/(.*)",
+      "source": "/assets/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
+      "source": "/api/drummers(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, s-maxage=3600, stale-while-revalidate=86400"
+        }
+      ]
+    },
+    {
+      "source": "/api/gear(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, s-maxage=3600, stale-while-revalidate=86400"
+        }
+      ]
+    },
+    {
+      "source": "/api/quotes(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, s-maxage=3600, stale-while-revalidate=86400"
+        }
+      ]
+    },
+    {
+      "source": "/(.*).js",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        },
+        {
+          "key": "Content-Type",
+          "value": "application/javascript; charset=utf-8"
+        }
+      ]
+    },
+    {
+      "source": "/(.*).css",
       "headers": [
         {
           "key": "Cache-Control",
@@ -27,7 +102,7 @@
       "headers": [
         {
           "key": "Cache-Control",
-          "value": "public, s-maxage=86400, stale-while-revalidate"
+          "value": "public, s-maxage=86400, stale-while-revalidate=604800"
         }
       ]
     }

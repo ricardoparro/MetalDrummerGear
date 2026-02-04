@@ -642,7 +642,7 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
                 <Text style={styles.topListRankNumber}>#{rank}</Text>
               </View>
               <ImageWithFallback
-                source={{ uri: drummer.imageUrl || PLACEHOLDER_IMAGE }}
+                source={{ uri: drummer.image || PLACEHOLDER_IMAGE }}
                 style={styles.topListDrummerImage}
                 accessibilityLabel={`Photo of ${drummer.name}`}
                 width={60}

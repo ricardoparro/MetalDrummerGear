@@ -1431,7 +1431,7 @@ const drummers = [
     band: 'Cannibal Corpse',
     genre: 'Death Metal',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/b/b9/20160515_Gelsenkirchen_RockHard_Festival_Cannibal_Corpse_0037_%28cropped%29.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/8/8e/Cannibal_Corpse_Rockharz_2018_03.jpg',
     imageCredit: 'Photo by Markus Felix | PushingPixels, CC BY-SA 3.0, via Wikimedia Commons',
     bio: 'Paul Mazurkiewicz Jr. (born September 8, 1968) is a founding member and drummer of legendary death metal band Cannibal Corpse since 1988. Along with bassist Alex Webster, he is one of two remaining original members. Mazurkiewicz developed his craft by emulating Pete Sandoval of Morbid Angel and cites Dave Lombardo as his biggest influence. Beyond drumming, he plays guitar and is the band\'s primary lyricist, composing songs like "Frantic Disembowelment" and "Dead Human Collection." A self-taught drummer, he spray-painted his first drum kit black because it "wasn\'t metal enough." He also co-founded the 70s-style hard rock project Umbilicus and plays in crossover thrash band Heaven\'s Gate with Municipal Waste\'s Tony Foresta.',
     gear: {
@@ -1442,7 +1442,7 @@ const drummers = [
       sticks: 'Vic Firth American Classic 5B'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/b/b9/20160515_Gelsenkirchen_RockHard_Festival_Cannibal_Corpse_0037_%28cropped%29.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/8/8e/Cannibal_Corpse_Rockharz_2018_03.jpg'
     ],
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
@@ -1852,7 +1852,7 @@ const drummers = [
     band: 'Angra / W.A.S.P.',
     genre: 'Power Metal / Heavy Metal',
     country: 'Brazil',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/a/a7/Aquiles_Priester.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/a/a0/Aquiles_Priester_Cropped_-Aquiles_Priester_El_SALVADOR.jpg',
     bio: 'Aquiles Priester (born 1971) is a Brazilian drummer renowned for his incredible speed, precision, and showmanship. He is best known for his work with Angra (2000-2012, 2023-present), W.A.S.P. (2006-present), and his own project Hangar. Priester\'s double bass abilities, complex fills, and ability to maintain blazing speeds for extended periods have made him one of the most celebrated power metal drummers in the world. He has won numerous awards from Brazilian and international music publications and is known for his energetic live performances.',
     gear: {
       drums: 'Pearl Reference Series',
@@ -1862,7 +1862,7 @@ const drummers = [
       sticks: 'Vic Firth Aquiles Priester Signature'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/a/a7/Aquiles_Priester.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/a/a0/Aquiles_Priester_Cropped_-Aquiles_Priester_El_SALVADOR.jpg'
     ],
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
@@ -1882,7 +1882,7 @@ const drummers = [
     band: 'Cannibal Corpse',
     genre: 'Death Metal',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/b/b9/20160515_Gelsenkirchen_RockHard_Festival_Cannibal_Corpse_0037_%28cropped%29.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/8/8e/Cannibal_Corpse_Rockharz_2018_03.jpg',
     bio: 'Paul Mazurkiewicz (born September 8, 1968) is an American drummer and co-founder of legendary death metal band Cannibal Corpse, formed in Buffalo, New York in 1988. As one of the most consistent and dedicated drummers in extreme metal, Mazurkiewicz has performed on every Cannibal Corpse album since their 1990 debut "Eaten Back to Life." His drumming style combines relentless blast beats, complex double bass patterns, and groove-oriented sections that have helped define the death metal sound. With Cannibal Corpse being the best-selling death metal band of all time, Mazurkiewicz\'s contribution to the genre is immeasurable.',
     gear: {
       drums: 'Pearl Masters Maple Complete',

@@ -6738,16 +6738,17 @@ function NewsletterFooter({ theme }) {
     return false;
   });
 
-  // If dismissed, don't render the component
-  if (isDismissed) {
-    return null;
-  }
-  
+  // All useState hooks must be called before any conditional returns (React Rules of Hooks)
   const [email, setEmail] = useState('');
   const [gdprConsent, setGdprConsent] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState('');
   const [successMessage, setSuccessMessage] = useState('');
+
+  // If dismissed, don't render the component (must be after all hooks)
+  if (isDismissed) {
+    return null;
+  }
 
   const handleSubmit = async (e) => {
     e.preventDefault();

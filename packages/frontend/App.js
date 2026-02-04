@@ -1,5 +1,5 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View, Switch, FlatList, ActivityIndicator, TouchableOpacity, ScrollView, Linking, Platform, useWindowDimensions, TextInput } from 'react-native';
+import { StyleSheet, Text, View, FlatList, ActivityIndicator, TouchableOpacity, ScrollView, Linking, Platform, useWindowDimensions, TextInput } from 'react-native';
 import { Image } from 'expo-image';
 import { ThemeProvider, useTheme } from './ThemeContext';
 import { useState, useEffect, useCallback, useMemo, useRef } from 'react';
@@ -6975,7 +6975,7 @@ function NewsletterFooter({ theme }) {
 }
 
 function AppContent() {
-  const { theme, isDarkMode, toggleTheme } = useTheme();
+  const { theme } = useTheme();
   const [selectedDrummerId, setSelectedDrummerId] = useState(null);
   const [selectedDrummer, setSelectedDrummer] = useState(null);
   // Initialize loadingDetail to true if URL has a drummer slug (for deep linking support)
@@ -7191,7 +7191,9 @@ function AppContent() {
           throw new Error('Failed to fetch drummers');
         }
         const data = await response.json();
-        setDrummers(data);
+        // Optimize images for all drummers to reduce bandwidth
+        const optimizedData = data.map(drummer => optimizeDrummerImages(drummer));
+        setDrummers(optimizedData);
       } catch (err) {
         setDrummersError(err.message);
       } finally {
@@ -7753,29 +7755,10 @@ setShowList(false);
         <Text style={[styles.title, { color: theme.text }]} accessibilityRole="header">
           Metal Drummer Gear
         </Text>
-        <View style={styles.toggleContainer}>
-          <Text style={[styles.toggleLabel, { color: theme.secondaryText }]}>
-            {isDarkMode ? 'Dark Mode' : 'Light Mode'}
-          </Text>
-          <TouchableOpacity
-            onPress={toggleTheme}
-            style={styles.switchTouchTarget}
-            accessibilityRole="switch"
-            accessibilityState={{ checked: isDarkMode }}
-            accessibilityLabel={`Toggle ${isDarkMode ? 'light' : 'dark'} mode`}
-          >
-            <Switch
-              value={isDarkMode}
-              onValueChange={toggleTheme}
-              trackColor={{ false: '#767577', true: '#81b0ff' }}
-              thumbColor={isDarkMode ? '#f5dd4b' : '#f4f3f4'}
-            />
-          </TouchableOpacity>
-        </View>
       </View>
       {renderContent()}
       <NewsletterFooter theme={theme} />
-      <StatusBar style={isDarkMode ? 'light' : 'dark'} />
+      <StatusBar style="light" />
     </View>
   );
 }
@@ -7803,21 +7786,7 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     marginBottom: 15,
   },
-  toggleContainer: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    gap: 10,
-    minHeight: 44, // WCAG AA touch target minimum
-  },
-  switchTouchTarget: {
-    minWidth: 44,
-    minHeight: 44,
-    justifyContent: 'center',
-    alignItems: 'center',
-  },
-  toggleLabel: {
-    fontSize: 16,
-  },
+
   mainContent: {
     flex: 1,
   },

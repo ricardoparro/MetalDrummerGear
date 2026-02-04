@@ -1962,7 +1962,7 @@ const drummers = [
     band: 'Iron Maiden',
     genre: 'Heavy Metal / NWOBHM',
     country: 'UK',
-    image: '/images/drummers/41.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/a/a9/Nicko_McBrain_2.jpg',
     bio: 'Nicko McBrain (born Michael Henry McBrain in 1952) is an English drummer best known as the longtime drummer of Iron Maiden since 1982. With his distinctive galloping style, intricate hi-hat work, and powerful single bass drum technique, Nicko has been instrumental in defining Iron Maiden\'s signature sound. Before joining Maiden, he played with Trust and Pat Travers Band. His drumming on classic albums like "Powerslave," "Somewhere in Time," and "Seventh Son of a Seventh Son" showcases his ability to combine speed, precision, and musicality. Notable for refusing to use a double bass pedal, Nicko achieves remarkable speed with a single pedal technique.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Nicko_McBrain',
@@ -2005,7 +2005,7 @@ const drummers = [
     band: 'Judas Priest',
     genre: 'Heavy Metal / Thrash Metal',
     country: 'USA',
-    image: '/images/drummers/42.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/3/32/Scott_Travis2005.jpg',
     bio: 'Scott Travis (born 1961) is an American drummer who has been the drummer for Judas Priest since 1989. Known for bringing a double bass-driven, thrash-influenced style to the band, Travis revitalized Priest\'s sound starting with the landmark album "Painkiller." His technical precision, powerful double bass work, and ability to play complex patterns at high speeds have made him one of the most respected drummers in heavy metal. Before joining Priest, he played with Racer X alongside Paul Gilbert. Travis has also played with Dio\'s touring band and various other metal projects.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Scott_Travis',
@@ -2047,7 +2047,7 @@ const drummers = [
     band: 'Scorpions / Motörhead',
     genre: 'Heavy Metal / Hard Rock',
     country: 'Sweden',
-    image: '/images/drummers/43.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/b/bb/Mikkey_Dee_%28PK%29_%E2%80%93_Wacken_Open_Air_2015_02.jpg',
     bio: 'Mikkey Dee (born Micael Kiriakos Delaoglou in 1963) is a Swedish drummer best known for his work with Motörhead (1992-2015) and currently with Scorpions (since 2016). Before Motörhead, he played with King Diamond and Don Dokken. His powerful, hard-hitting style and incredible stamina made him the perfect drummer for Lemmy Kilmister\'s relentless rock \'n\' roll machine. After Lemmy\'s death, Mikkey joined Scorpions, bringing his thunderous drumming to classic rock anthems. Known for his aggressive approach and incredible live performances, Mikkey is one of the most respected drummers in hard rock and metal.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Mikkey_Dee',
@@ -2090,7 +2090,7 @@ const drummers = [
     band: 'Hate Eternal / Nile',
     genre: 'Death Metal / Technical Death Metal',
     country: 'USA',
-    image: '/images/drummers/44.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/d/d7/Derek_Roddy_2003_%28cropped%29.jpg',
     bio: 'Derek Roddy (born 1972) is an American drummer renowned for his extreme speed, technical proficiency, and endurance. He is considered one of the pioneers of modern extreme metal drumming. Roddy has performed with Hate Eternal, Nile, Aurora Borealis, Council of the Fallen, and Serpents Rise. His blast beats, one-footed bass drum techniques, and overall precision have influenced countless metal drummers. Beyond performing, Derek is a respected educator, having written instructional books and produced educational DVDs on extreme metal drumming techniques.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Derek_Roddy',
@@ -2133,7 +2133,7 @@ const drummers = [
     band: 'Megadeth',
     genre: 'Thrash Metal / Melodic Death Metal',
     country: 'Belgium',
-    image: '/images/drummers/45.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/e/e0/Megadeth_-_Wacken_Open_Air_2023_01_%28cropped%29.jpg',
     bio: 'Dirk Verbeuren (born 1975) is a Belgian drummer who has been the drummer for Megadeth since 2016. Before joining Megadeth, he was best known for his work with Swedish melodic death metal band Soilwork from 1998 to 2016. His precise, powerful playing combines European metal sensibilities with American thrash aggression. Verbeuren\'s technical abilities, double bass precision, and dynamic range have been praised by critics and fans alike. He has also performed with Devin Townsend, Scarve, and various other metal projects.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Dirk_Verbeuren',
@@ -2176,7 +2176,7 @@ const drummers = [
     band: 'Satyricon / 1349',
     genre: 'Black Metal',
     country: 'Norway',
-    image: '/images/drummers/46.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/4/4c/Satyricon%2C_Tons_of_Rock%2C_Oslo_Norway_%2853845732674%29_%28cropped%29.jpg',
     bio: 'Kjetil-Vidar Haraldstad (born 1973), known professionally as Frost, is a Norwegian drummer and a central figure in the Scandinavian black metal scene. He is the drummer for Satyricon since 1993 and 1349 since 2001. Known for his incredible speed, precision, and stamina, Frost is considered one of the greatest extreme metal drummers. His blast beats and hyperspeed drumming have set the standard for black metal percussion. Despite the raw nature of black metal, Frost brings a high level of technicality and discipline to his performances.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Frost_(musician)',
@@ -2218,7 +2218,7 @@ const drummers = [
     band: 'Porcupine Tree / King Crimson',
     genre: 'Progressive Metal / Progressive Rock',
     country: 'UK',
-    image: '/images/drummers/47.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/4/49/Gavin_Harrison_Drum_Clinic_2011.jpg',
     bio: 'Gavin Harrison (born 1963) is an English drummer widely regarded as one of the finest drummers in progressive music. He is best known for his work with Porcupine Tree (2002-2010, 2021-present), King Crimson (2008-present), and The Pineapple Thief (2016-present). His intricate, polyrhythmic approach, ghost note mastery, and ability to play complex odd-time signatures with musicality have earned him numerous awards and accolades. Harrison has won multiple awards from Modern Drummer magazine and is considered a major influence on progressive rock and metal drummers worldwide.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Gavin_Harrison',
@@ -2261,7 +2261,7 @@ const drummers = [
     band: 'Deftones',
     genre: 'Alternative Metal / Nu Metal',
     country: 'USA',
-    image: '/images/drummers/48.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/f/fe/Deftones_-_Rock_am_Ring_2016_-2016156214257_2016-06-04_Rock_am_Ring_-_Sven_-_1D_X_-_0105_-_DV3P9764_mod.jpg',
     bio: 'Abraham Joseph Cunningham (born 1973) is an American drummer and founding member of Deftones. His innovative style combines powerful, hard-hitting grooves with atmospheric, nuanced playing that perfectly complements Deftones\' unique blend of heavy and ambient music. Since the band\'s formation in 1988, Abe has been the rhythmic backbone behind albums like "White Pony," "Diamond Eyes," and "Koi No Yokan." His ability to shift between crushing heaviness and delicate dynamics has made him one of the most respected drummers in alternative metal.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Abe_Cunningham',
@@ -2304,7 +2304,7 @@ const drummers = [
     band: 'Death / Iced Earth',
     genre: 'Death Metal / Thrash Metal',
     country: 'USA',
-    image: '/images/drummers/49.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/8/8f/Sal%2C_Leyla_%26_Richard_Christy_%284902556102%29.jpg',
     bio: 'Richard Allan Christy (born 1974) is an American drummer known for his work with Death (1996-2001), Iced Earth (2003-2004), and his own band Charred Walls of the Damned. He recorded two albums with Death: "The Sound of Perseverance" and the live album "Live in L.A." His work with Chuck Schuldiner showcased his incredible technical abilities and musicality. Christy is known for his speed, precision, and ability to play complex progressive death metal patterns. Beyond drumming, he is also known for his work on The Howard Stern Show as a staff member since 2004.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Richard_Christy',
@@ -2347,7 +2347,7 @@ const drummers = [
     band: 'Angra / W.A.S.P.',
     genre: 'Power Metal / Heavy Metal',
     country: 'Brazil',
-    image: '/images/drummers/50.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/5/5f/W.A.S.P._-_Wacken_Open_Air_-DAY_4_-8_%2854732202878%29_%28cropped%29.jpg',
     bio: 'Aquiles Priester (born 1971) is a Brazilian drummer renowned for his incredible speed, precision, and showmanship. He is best known for his work with Angra (2000-2012, 2023-present), W.A.S.P. (2006-present), and his own project Hangar. Priester\'s double bass abilities, complex fills, and ability to maintain blazing speeds for extended periods have made him one of the most celebrated power metal drummers in the world. He has won numerous awards from Brazilian and international music publications and is known for his energetic live performances.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Aquiles_Priester',
@@ -2390,7 +2390,7 @@ const drummers = [
     band: 'Cannibal Corpse',
     genre: 'Death Metal',
     country: 'USA',
-    image: '/images/drummers/51.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/c/ce/Cannibal_Corpse_-_2024275214539_2024-10-01_Cannibal_Corpse_-_Sven_-_1D_X_MK_II_-_1326_-_AK8I0150_%28cropped%29.jpg',
     bio: 'Paul Mazurkiewicz (born September 8, 1968) is an American drummer and co-founder of legendary death metal band Cannibal Corpse, formed in Buffalo, New York in 1988. As one of the most consistent and dedicated drummers in extreme metal, Mazurkiewicz has performed on every Cannibal Corpse album since their 1990 debut "Eaten Back to Life." His drumming style combines relentless blast beats, complex double bass patterns, and groove-oriented sections that have helped define the death metal sound. With Cannibal Corpse being the best-selling death metal band of all time, Mazurkiewicz\'s contribution to the genre is immeasurable.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Paul_Mazurkiewicz',
@@ -2422,7 +2422,7 @@ const drummers = [
     band: 'Dream Theater',
     genre: 'Progressive Metal',
     country: 'USA',
-    image: '/images/drummers/52.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/b/bf/Mike_Mangini_at_Moscow_12_Jul_2011_%28cropped%29.jpg',
     bio: 'Mike Mangini (born April 18, 1963) is an American drummer who joined Dream Theater in 2010. A former Berklee College of Music professor, Mangini holds multiple world records for drumming speed. Before Dream Theater, he played with Steve Vai, Extreme, and Annihilator. His technical approach incorporates odd time signatures, complex polyrhythms, and innovative use of hybrid acoustic/electronic setups.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Mike_Mangini',
@@ -2454,7 +2454,7 @@ const drummers = [
     band: 'Animals as Leaders',
     genre: 'Progressive Metal / Djent',
     country: 'USA',
-    image: '/images/drummers/53.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/f/f8/Matt_Garstka_-_2014_NAMM_Show_%28cropped%29.jpg',
     bio: 'Matt Garstka (born April 27, 1989) is an American drummer known for his virtuosic work with instrumental progressive metal band Animals as Leaders since 2012. His playing seamlessly blends jazz fusion, electronic music, and progressive metal, featuring complex polyrhythms, intricate ghost note patterns, and innovative use of dynamics.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Matt_Garstka',
@@ -2486,7 +2486,7 @@ const drummers = [
     band: 'Arch Enemy',
     genre: 'Melodic Death Metal',
     country: 'Sweden',
-    image: '/images/drummers/54.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/f/f4/2023_Rock_im_Park_-_Arch_Enemy_-_Daniel_Erlandsson_-_by_2eight_-_ZSC4502.jpg',
     bio: 'Daniel Erlandsson (born May 22, 1976) is a Swedish drummer and founding member of melodic death metal band Arch Enemy, formed in 1995. His drumming combines Scandinavian death metal intensity with technical precision and musicality. He has also played with Eucharist, Carcass (live), and In Flames.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Daniel_Erlandsson',
@@ -2518,7 +2518,7 @@ const drummers = [
     band: 'Children of Bodom',
     genre: 'Melodic Death Metal / Power Metal',
     country: 'Finland',
-    image: '/images/drummers/55.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/6/68/Jaska_Raatikainen_-_Ilosaarirock_2009_2.jpg',
     bio: 'Jaska Raatikainen (born July 18, 1979) was the drummer and co-founder of Finnish melodic death metal band Children of Bodom, formed in 1993. Alongside the late Alexi Laiho, Raatikainen helped create the band\'s signature sound that blended neoclassical melodies with aggressive death metal.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Jaska_Raatikainen',
@@ -2550,7 +2550,7 @@ const drummers = [
     band: 'Obscura / ex-Necrophagist / Alkaloid',
     genre: 'Technical Death Metal',
     country: 'Germany',
-    image: '/images/drummers/56.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/c/c1/Hannes_wiki2.jpg',
     bio: 'Hannes Grossmann (born September 8, 1982) is a German drummer, composer, and producer known for his work with Obscura, Necrophagist, Blotted Science, and Alkaloid. Widely regarded as one of the most technically proficient drummers in death metal, his playing combines classical music influences with extreme metal precision.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Hannes_Grossmann',
@@ -2582,7 +2582,7 @@ const drummers = [
     band: 'Dimmu Borgir / Vader',
     genre: 'Black Metal / Death Metal',
     country: 'Poland',
-    image: '/images/drummers/57.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/e/e7/Dimmu_Borgir_Tuska_2019_%281%29.jpg',
     bio: 'Dariusz "Daray" Brzozowski (born August 23, 1984) is a Polish drummer known for his work with Norwegian symphonic black metal band Dimmu Borgir (since 2008) and Polish death metal legends Vader (2006-2016). His drumming combines extreme speed, technical precision, and theatrical flair.',
     sameAs: [
       'https://www.discogs.com/artist/868449-Daray'
@@ -2613,7 +2613,7 @@ const drummers = [
     band: 'Amon Amarth',
     genre: 'Melodic Death Metal / Viking Metal',
     country: 'Sweden',
-    image: '/images/drummers/58.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/1/1d/Amon_Amarth_%2827839859354%29.jpg',
     bio: 'Jocke Wallgren (born April 1, 1986) is a Swedish drummer who joined melodic death metal band Amon Amarth in 2016, replacing Fredrik Andersson. His drumming brings a fresh energy to Amon Amarth\'s Viking-themed sound, combining powerful double bass patterns with groove-oriented playing.',
     sameAs: [
       'https://www.discogs.com/artist/2723584-Jocke-Wallgren'
@@ -2644,7 +2644,7 @@ const drummers = [
     band: 'Morbid Angel / Hate Eternal / Vital Remains',
     genre: 'Death Metal / Technical Death Metal',
     country: 'USA',
-    image: '/images/drummers/59.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/7/79/DevineHerecy002_sharp.jpg',
     bio: 'Tim Yeung (born November 27, 1978) is an American extreme metal drummer. He has played with bands such as Hate Eternal, Morbid Angel, Vital Remains, Divine Heresy, and Nile. His incredible speed, precision, and endurance have made him one of the most sought-after drummers in death metal.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Tim_Yeung',
@@ -2676,7 +2676,7 @@ const drummers = [
     band: 'Dying Fetus / Misery Index / Six Feet Under',
     genre: 'Brutal Death Metal / Grindcore',
     country: 'USA',
-    image: '/images/drummers/60.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/a/ad/MiseryIndex_band1.jpg',
     bio: 'Kevin Talley (born May 21, 1979) is an American drummer renowned for his work with brutal death metal and grindcore bands including Dying Fetus, Misery Index, Six Feet Under, Chimaira, and Suffocation. His incredibly fast and precise drumming helped define the brutal death metal sound.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Kevin_Talley',

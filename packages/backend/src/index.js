@@ -1634,6 +1634,86 @@ app.get('/api/spotlight/current', (req, res) => {
   });
 });
 
+// Get all quotes from all drummers
+app.get('/api/quotes', (req, res) => {
+  const limit = parseInt(req.query.limit) || 100;
+  
+  // Extract quotes from all drummers
+  const allQuotes = [];
+  drummers.forEach(drummer => {
+    if (drummer.quotes && Array.isArray(drummer.quotes)) {
+      drummer.quotes.forEach((quote, index) => {
+        allQuotes.push({
+          id: `${drummer.id}-${index}`,
+          text: quote.text,
+          source: quote.source || null,
+          year: quote.year || null,
+          drummer: {
+            id: drummer.id,
+            name: drummer.name,
+            band: drummer.band,
+            image: drummer.image
+          }
+        });
+      });
+    }
+  });
+  
+  // Return limited results
+  res.json({
+    quotes: allQuotes.slice(0, limit),
+    total: allQuotes.length
+  });
+});
+
+// Get a random quote
+app.get('/api/quotes/random', (req, res) => {
+  const allQuotes = [];
+  drummers.forEach(drummer => {
+    if (drummer.quotes && Array.isArray(drummer.quotes)) {
+      drummer.quotes.forEach((quote, index) => {
+        allQuotes.push({
+          id: `${drummer.id}-${index}`,
+          text: quote.text,
+          source: quote.source || null,
+          year: quote.year || null,
+          drummer: {
+            id: drummer.id,
+            name: drummer.name,
+            band: drummer.band,
+            image: drummer.image
+          }
+        });
+      });
+    }
+  });
+  
+  if (allQuotes.length === 0) {
+    return res.status(404).json({ error: 'No quotes available' });
+  }
+  
+  const randomIndex = Math.floor(Math.random() * allQuotes.length);
+  res.json(allQuotes[randomIndex]);
+});
+
+// Get unique topics/drummers with quotes
+app.get('/api/quotes/topics', (req, res) => {
+  const drummersWithQuotes = drummers
+    .filter(d => d.quotes && d.quotes.length > 0)
+    .map(d => ({
+      id: d.id,
+      name: d.name,
+      band: d.band,
+      image: d.image,
+      quoteCount: d.quotes.length
+    }));
+  
+  res.json({
+    topics: drummersWithQuotes,
+    total: drummersWithQuotes.length
+  });
+});
+
 app.listen(PORT, () => {
   console.log(`🥁 Metal Drummer Gear API running on http://localhost:${PORT}`);
 });

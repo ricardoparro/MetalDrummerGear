@@ -63,7 +63,7 @@ test.describe('Quotes Feature', () => {
   });
 
   test('quotes section expands on click', async ({ page }) => {
-    await page.goto('/drummer/1', { waitUntil: 'networkidle' });
+    await page.goto(ciParam('/drummer/1'), { waitUntil: 'networkidle' });
     await page.waitForTimeout(2000);
     
     // Find and click the Notable Quotes header

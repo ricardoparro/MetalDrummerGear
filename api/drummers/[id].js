@@ -1582,7 +1582,7 @@ const drummers = [
     band: 'Iron Maiden',
     genre: 'Heavy Metal / NWOBHM',
     country: 'UK',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/f/fb/Nicko_McBrain_-_2009.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/a/a9/Nicko_McBrain_2.jpg',
     bio: 'Nicko McBrain (born Michael Henry McBrain in 1952) is an English drummer best known as the longtime drummer of Iron Maiden since 1982. With his distinctive galloping style, intricate hi-hat work, and powerful single bass drum technique, Nicko has been instrumental in defining Iron Maiden\'s signature sound. Before joining Maiden, he played with Trust and Pat Travers Band. His drumming on classic albums like "Powerslave," "Somewhere in Time," and "Seventh Son of a Seventh Son" showcases his ability to combine speed, precision, and musicality. Notable for refusing to use a double bass pedal, Nicko achieves remarkable speed with a single pedal technique.',
     gear: {
       drums: 'Sonor SQ2 Series',
@@ -1592,7 +1592,7 @@ const drummers = [
       sticks: 'Vic Firth Nicko McBrain Signature'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/f/fb/Nicko_McBrain_-_2009.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/a/a9/Nicko_McBrain_2.jpg'
     ],
     endorsements: [
       { name: 'Sonor Drums', url: 'https://www.sonor.com' },
@@ -1612,7 +1612,7 @@ const drummers = [
     band: 'Judas Priest',
     genre: 'Heavy Metal / Thrash Metal',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/7/78/Scott_Travis_-_2015.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/3/32/Scott_Travis2005.jpg',
     bio: 'Scott Travis (born 1961) is an American drummer who has been the drummer for Judas Priest since 1989. Known for bringing a double bass-driven, thrash-influenced style to the band, Travis revitalized Priest\'s sound starting with the landmark album "Painkiller." His technical precision, powerful double bass work, and ability to play complex patterns at high speeds have made him one of the most respected drummers in heavy metal. Before joining Priest, he played with Racer X alongside Paul Gilbert. Travis has also played with Dio\'s touring band and various other metal projects.',
     gear: {
       drums: 'ddrum Dominion Series',
@@ -1622,7 +1622,7 @@ const drummers = [
       sticks: 'Vic Firth American Classic 5B'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/7/78/Scott_Travis_-_2015.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/3/32/Scott_Travis2005.jpg'
     ],
     endorsements: [
       { name: 'ddrum Drums', url: 'https://www.ddrum.com' },
@@ -1642,7 +1642,7 @@ const drummers = [
     band: 'Scorpions / Motörhead',
     genre: 'Heavy Metal / Hard Rock',
     country: 'Sweden',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/b/b1/Mikkey_Dee_-_Mot%C3%B6rhead_-_Wacken_Open_Air_2011.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/b/bb/Mikkey_Dee_%28PK%29_%E2%80%93_Wacken_Open_Air_2015_02.jpg',
     bio: 'Mikkey Dee (born Micael Kiriakos Delaoglou in 1963) is a Swedish drummer best known for his work with Motörhead (1992-2015) and currently with Scorpions (since 2016). Before Motörhead, he played with King Diamond and Don Dokken. His powerful, hard-hitting style and incredible stamina made him the perfect drummer for Lemmy Kilmister\'s relentless rock \'n\' roll machine. After Lemmy\'s death, Mikkey joined Scorpions, bringing his thunderous drumming to classic rock anthems. Known for his aggressive approach and incredible live performances, Mikkey is one of the most respected drummers in hard rock and metal.',
     gear: {
       drums: 'Yamaha Recording Custom',
@@ -1652,7 +1652,7 @@ const drummers = [
       sticks: 'Vic Firth Mikkey Dee Signature'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/b/b1/Mikkey_Dee_-_Mot%C3%B6rhead_-_Wacken_Open_Air_2011.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/b/bb/Mikkey_Dee_%28PK%29_%E2%80%93_Wacken_Open_Air_2015_02.jpg'
     ],
     endorsements: [
       { name: 'Yamaha Drums', url: 'https://www.yamaha.com' },
@@ -1672,7 +1672,7 @@ const drummers = [
     band: 'Hate Eternal / Nile',
     genre: 'Death Metal / Technical Death Metal',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/4/44/Derek_Roddy.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/d/d7/Derek_Roddy_2003_%28cropped%29.jpg',
     bio: 'Derek Roddy (born 1972) is an American drummer renowned for his extreme speed, technical proficiency, and endurance. He is considered one of the pioneers of modern extreme metal drumming. Roddy has performed with Hate Eternal, Nile, Aurora Borealis, Council of the Fallen, and Serpents Rise. His blast beats, one-footed bass drum techniques, and overall precision have influenced countless metal drummers. Beyond performing, Derek is a respected educator, having written instructional books and produced educational DVDs on extreme metal drumming techniques.',
     gear: {
       drums: 'Tama Starclassic Bubinga',
@@ -1682,7 +1682,7 @@ const drummers = [
       sticks: 'Vic Firth Derek Roddy Signature'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/4/44/Derek_Roddy.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/d/d7/Derek_Roddy_2003_%28cropped%29.jpg'
     ],
     endorsements: [
       { name: 'Tama Drums', url: 'https://www.tama.com' },
@@ -1702,7 +1702,7 @@ const drummers = [
     band: 'Megadeth',
     genre: 'Thrash Metal / Melodic Death Metal',
     country: 'Belgium',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/5/5a/Megadeth_-_2017154164943_2017-06-03_Rock_am_Ring_-_Sven_-_1D_X_MK_II_-_0692_-_B70I7426.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/e/e0/Megadeth_-_Wacken_Open_Air_2023_01_%28cropped%29.jpg',
     bio: 'Dirk Verbeuren (born 1975) is a Belgian drummer who has been the drummer for Megadeth since 2016. Before joining Megadeth, he was best known for his work with Swedish melodic death metal band Soilwork from 1998 to 2016. His precise, powerful playing combines European metal sensibilities with American thrash aggression. Verbeuren\'s technical abilities, double bass precision, and dynamic range have been praised by critics and fans alike. He has also performed with Devin Townsend, Scarve, and various other metal projects.',
     gear: {
       drums: 'Tama Starclassic Walnut/Birch',
@@ -1712,7 +1712,7 @@ const drummers = [
       sticks: 'Promark Shira Kashi Oak 5B'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/5/5a/Megadeth_-_2017154164943_2017-06-03_Rock_am_Ring_-_Sven_-_1D_X_MK_II_-_0692_-_B70I7426.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/e/e0/Megadeth_-_Wacken_Open_Air_2023_01_%28cropped%29.jpg'
     ],
     endorsements: [
       { name: 'Tama Drums', url: 'https://www.tama.com' },
@@ -1732,7 +1732,7 @@ const drummers = [
     band: 'Satyricon / 1349',
     genre: 'Black Metal',
     country: 'Norway',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/5/5c/Satyricon_-_Wacken_Open_Air_2018-3476.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/4/4c/Satyricon%2C_Tons_of_Rock%2C_Oslo_Norway_%2853845732674%29_%28cropped%29.jpg',
     bio: 'Kjetil-Vidar Haraldstad (born 1973), known professionally as Frost, is a Norwegian drummer and a central figure in the Scandinavian black metal scene. He is the drummer for Satyricon since 1993 and 1349 since 2001. Known for his incredible speed, precision, and stamina, Frost is considered one of the greatest extreme metal drummers. His blast beats and hyperspeed drumming have set the standard for black metal percussion. Despite the raw nature of black metal, Frost brings a high level of technicality and discipline to his performances.',
     gear: {
       drums: 'Sonor SQ2 Series',
@@ -1742,7 +1742,7 @@ const drummers = [
       sticks: 'Vic Firth American Classic Extreme 5B'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/5/5c/Satyricon_-_Wacken_Open_Air_2018-3476.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/4/4c/Satyricon%2C_Tons_of_Rock%2C_Oslo_Norway_%2853845732674%29_%28cropped%29.jpg'
     ],
     endorsements: [
       { name: 'Sonor Drums', url: 'https://www.sonor.com' },
@@ -1762,7 +1762,7 @@ const drummers = [
     band: 'Porcupine Tree / King Crimson',
     genre: 'Progressive Metal / Progressive Rock',
     country: 'UK',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6f/Gavin_Harrison_in_2016.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/4/49/Gavin_Harrison_Drum_Clinic_2011.jpg',
     bio: 'Gavin Harrison (born 1963) is an English drummer widely regarded as one of the finest drummers in progressive music. He is best known for his work with Porcupine Tree (2002-2010, 2021-present), King Crimson (2008-present), and The Pineapple Thief (2016-present). His intricate, polyrhythmic approach, ghost note mastery, and ability to play complex odd-time signatures with musicality have earned him numerous awards and accolades. Harrison has won multiple awards from Modern Drummer magazine and is considered a major influence on progressive rock and metal drummers worldwide.',
     gear: {
       drums: 'Sonor SQ2 Series',
@@ -1772,7 +1772,7 @@ const drummers = [
       sticks: 'Vic Firth Gavin Harrison Signature'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/6/6f/Gavin_Harrison_in_2016.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/4/49/Gavin_Harrison_Drum_Clinic_2011.jpg'
     ],
     endorsements: [
       { name: 'Sonor Drums', url: 'https://www.sonor.com' },
@@ -1792,7 +1792,7 @@ const drummers = [
     band: 'Deftones',
     genre: 'Alternative Metal / Nu Metal',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/4/45/Abe_Cunningham_2010.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/f/fe/Deftones_-_Rock_am_Ring_2016_-2016156214257_2016-06-04_Rock_am_Ring_-_Sven_-_1D_X_-_0105_-_DV3P9764_mod.jpg',
     bio: 'Abraham Joseph Cunningham (born 1973) is an American drummer and founding member of Deftones. His innovative style combines powerful, hard-hitting grooves with atmospheric, nuanced playing that perfectly complements Deftones\' unique blend of heavy and ambient music. Since the band\'s formation in 1988, Abe has been the rhythmic backbone behind albums like "White Pony," "Diamond Eyes," and "Koi No Yokan." His ability to shift between crushing heaviness and delicate dynamics has made him one of the most respected drummers in alternative metal.',
     gear: {
       drums: 'SJC Custom Drums',
@@ -1802,7 +1802,7 @@ const drummers = [
       sticks: 'Vic Firth American Classic 2B'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/4/45/Abe_Cunningham_2010.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/f/fe/Deftones_-_Rock_am_Ring_2016_-2016156214257_2016-06-04_Rock_am_Ring_-_Sven_-_1D_X_-_0105_-_DV3P9764_mod.jpg'
     ],
     endorsements: [
       { name: 'SJC Drums', url: 'https://www.sjcdrums.com' },
@@ -1822,7 +1822,7 @@ const drummers = [
     band: 'Death / Iced Earth',
     genre: 'Death Metal / Thrash Metal',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/2/2e/Richard_Christy.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/8/8f/Sal%2C_Leyla_%26_Richard_Christy_%284902556102%29.jpg',
     bio: 'Richard Allan Christy (born 1974) is an American drummer known for his work with Death (1996-2001), Iced Earth (2003-2004), and his own band Charred Walls of the Damned. He recorded two albums with Death: "The Sound of Perseverance" and the live album "Live in L.A." His work with Chuck Schuldiner showcased his incredible technical abilities and musicality. Christy is known for his speed, precision, and ability to play complex progressive death metal patterns. Beyond drumming, he is also known for his work on The Howard Stern Show as a staff member since 2004.',
     gear: {
       drums: 'Tama Starclassic Maple',
@@ -1832,7 +1832,7 @@ const drummers = [
       sticks: 'Vic Firth American Classic 5A'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/2/2e/Richard_Christy.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/8/8f/Sal%2C_Leyla_%26_Richard_Christy_%284902556102%29.jpg'
     ],
     endorsements: [
       { name: 'Tama Drums', url: 'https://www.tama.com' },

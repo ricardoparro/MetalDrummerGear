@@ -1981,7 +1981,7 @@ const drummers = [
       sources: ['https://www.sonor.com/artists/', 'https://www.paiste.com/en/musicians/nicko-mcbrain']
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/f/fb/Nicko_McBrain_-_2009.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/a/a9/Nicko_McBrain_2.jpg'
     ],
     endorsements: [
       { name: 'Sonor Drums', url: 'https://www.sonor.com' },
@@ -2023,7 +2023,7 @@ const drummers = [
       sources: ['https://www.paiste.com/en/musicians/scott-travis']
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/7/78/Scott_Travis_-_2015.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/3/32/Scott_Travis2005.jpg'
     ],
     endorsements: [
       { name: 'ddrum Drums', url: 'https://www.ddrum.com' },
@@ -2066,7 +2066,7 @@ const drummers = [
       sources: ['https://europe.yamaha.com/en/artists/drums/mikkey-dee/', 'https://zildjian.com/artists']
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/b/b1/Mikkey_Dee_-_Mot%C3%B6rhead_-_Wacken_Open_Air_2011.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/b/bb/Mikkey_Dee_%28PK%29_%E2%80%93_Wacken_Open_Air_2015_02.jpg'
     ],
     endorsements: [
       { name: 'Yamaha Drums', url: 'https://www.yamaha.com' },
@@ -2109,7 +2109,7 @@ const drummers = [
       sources: ['https://www.tama.com/usa/artists/', 'https://meinlcymbals.com/en/artists']
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/4/44/Derek_Roddy.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/d/d7/Derek_Roddy_2003_%28cropped%29.jpg'
     ],
     endorsements: [
       { name: 'Tama Drums', url: 'https://www.tama.com' },
@@ -2152,7 +2152,7 @@ const drummers = [
       sources: ['https://www.tama.com/usa/artists/', 'https://zildjian.com/artists']
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/5/5a/Megadeth_-_2017154164943_2017-06-03_Rock_am_Ring_-_Sven_-_1D_X_MK_II_-_0692_-_B70I7426.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/e/e0/Megadeth_-_Wacken_Open_Air_2023_01_%28cropped%29.jpg'
     ],
     endorsements: [
       { name: 'Tama Drums', url: 'https://www.tama.com' },
@@ -2194,7 +2194,7 @@ const drummers = [
       sources: ['https://www.sonor.com/artists/']
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/5/5c/Satyricon_-_Wacken_Open_Air_2018-3476.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/4/4c/Satyricon%2C_Tons_of_Rock%2C_Oslo_Norway_%2853845732674%29_%28cropped%29.jpg'
     ],
     endorsements: [
       { name: 'Sonor Drums', url: 'https://www.sonor.com' },
@@ -2237,7 +2237,7 @@ const drummers = [
       sources: ['https://www.sonor.com/artists/', 'https://zildjian.com/artists']
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/6/6f/Gavin_Harrison_in_2016.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/4/49/Gavin_Harrison_Drum_Clinic_2011.jpg'
     ],
     endorsements: [
       { name: 'Sonor Drums', url: 'https://www.sonor.com' },
@@ -2280,7 +2280,7 @@ const drummers = [
       sources: ['https://www.sjcdrums.com/artists/', 'https://zildjian.com/artists']
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/4/45/Abe_Cunningham_2010.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/f/fe/Deftones_-_Rock_am_Ring_2016_-2016156214257_2016-06-04_Rock_am_Ring_-_Sven_-_1D_X_-_0105_-_DV3P9764_mod.jpg'
     ],
     endorsements: [
       { name: 'SJC Drums', url: 'https://www.sjcdrums.com' },
@@ -2323,7 +2323,7 @@ const drummers = [
       sources: ['https://www.tama.com/usa/artists/', 'https://sabian.com/artists']
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/2/2e/Richard_Christy.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/8/8f/Sal%2C_Leyla_%26_Richard_Christy_%284902556102%29.jpg'
     ],
     endorsements: [
       { name: 'Tama Drums', url: 'https://www.tama.com' },

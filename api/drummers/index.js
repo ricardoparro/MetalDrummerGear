@@ -2383,6 +2383,324 @@ const drummers = [
       { text: "Power metal demands power drumming. Every stroke has to hit like thunder.", source: "Modern Drummer Brazil", year: 2010 },
       { text: "Practice and dedication are the only secrets. There are no shortcuts to speed and precision.", source: "Drummerworld Interview", year: 2015 }
     ]
+  },
+  {
+    id: 51,
+    name: 'Paul Mazurkiewicz',
+    band: 'Cannibal Corpse',
+    genre: 'Death Metal',
+    country: 'USA',
+    image: '/images/drummers/51.jpg',
+    bio: 'Paul Mazurkiewicz (born September 8, 1968) is an American drummer and co-founder of legendary death metal band Cannibal Corpse, formed in Buffalo, New York in 1988. As one of the most consistent and dedicated drummers in extreme metal, Mazurkiewicz has performed on every Cannibal Corpse album since their 1990 debut "Eaten Back to Life." His drumming style combines relentless blast beats, complex double bass patterns, and groove-oriented sections that have helped define the death metal sound. With Cannibal Corpse being the best-selling death metal band of all time, Mazurkiewicz\'s contribution to the genre is immeasurable.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Paul_Mazurkiewicz',
+      'https://www.discogs.com/artist/257779-Paul-Mazurkiewicz'
+    ],
+    gear: {
+      drums: 'Pearl Masters Maple Complete',
+      snare: 'Pearl Masters 14x6.5" Maple',
+      cymbals: 'Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Raw Bell Dry Ride, 18" AAXtreme China)',
+      hardware: 'Pearl Demon Drive Double Pedal',
+      sticks: 'Vic Firth American Classic 5B',
+      heads: 'Evans',
+      verified: true,
+      sources: ['https://en.wikipedia.org/wiki/Paul_Mazurkiewicz']
+    },
+    photos: [],
+    endorsements: [
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+    ],
+    videos: [
+      { title: 'Cannibal Corpse - Hammer Smashed Face (Drum Cam)', youtubeId: 'InGtiEXQyF0', year: 2018 }
+    ]
+  },
+  {
+    id: 52,
+    name: 'Mike Mangini',
+    band: 'Dream Theater',
+    genre: 'Progressive Metal',
+    country: 'USA',
+    image: '/images/drummers/52.jpg',
+    bio: 'Mike Mangini (born April 18, 1963) is an American drummer who joined Dream Theater in 2010. A former Berklee College of Music professor, Mangini holds multiple world records for drumming speed. Before Dream Theater, he played with Steve Vai, Extreme, and Annihilator. His technical approach incorporates odd time signatures, complex polyrhythms, and innovative use of hybrid acoustic/electronic setups.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Mike_Mangini',
+      'https://www.discogs.com/artist/257048-Mike-Mangini'
+    ],
+    gear: {
+      drums: 'Pearl Reference Series',
+      snare: 'Pearl Reference 14x5" & 14x6.5" Brass',
+      cymbals: 'Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 17", 18", 19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride)',
+      hardware: 'Pearl Demon Drive Double Pedal, Roland SPD-SX Sampling Pad',
+      sticks: 'Vic Firth Mike Mangini Signature',
+      heads: 'Evans',
+      verified: true,
+      sources: ['https://en.wikipedia.org/wiki/Mike_Mangini', 'https://sabian.com/artist/mike-mangini/']
+    },
+    photos: [],
+    endorsements: [
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+    ],
+    videos: [
+      { title: 'Dream Theater - The Dance of Eternity (Drum Cam)', youtubeId: 'FwkcRTNMsWs', year: 2019 }
+    ]
+  },
+  {
+    id: 53,
+    name: 'Matt Garstka',
+    band: 'Animals as Leaders',
+    genre: 'Progressive Metal / Djent',
+    country: 'USA',
+    image: '/images/drummers/53.jpg',
+    bio: 'Matt Garstka (born April 27, 1989) is an American drummer known for his virtuosic work with instrumental progressive metal band Animals as Leaders since 2012. His playing seamlessly blends jazz fusion, electronic music, and progressive metal, featuring complex polyrhythms, intricate ghost note patterns, and innovative use of dynamics.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Matt_Garstka',
+      'https://www.discogs.com/artist/2765180-Matt-Garstka'
+    ],
+    gear: {
+      drums: 'Tama Starclassic Walnut/Birch',
+      snare: 'Tama S.L.P. 14x6" G-Maple',
+      cymbals: 'Meinl Byzance Series (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride)',
+      hardware: 'Tama Speed Cobra 910 Double Pedal',
+      sticks: 'Vic Firth Matt Garstka Signature',
+      heads: 'Evans',
+      verified: true,
+      sources: ['https://en.wikipedia.org/wiki/Matt_Garstka', 'https://meinlcymbals.com/en/artists']
+    },
+    photos: [],
+    endorsements: [
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+    ],
+    videos: [
+      { title: 'Animals as Leaders - Physical Education (Drum Playthrough)', youtubeId: '9P4GsF1zdzM', year: 2014 }
+    ]
+  },
+  {
+    id: 54,
+    name: 'Daniel Erlandsson',
+    band: 'Arch Enemy',
+    genre: 'Melodic Death Metal',
+    country: 'Sweden',
+    image: '/images/drummers/54.jpg',
+    bio: 'Daniel Erlandsson (born May 22, 1976) is a Swedish drummer and founding member of melodic death metal band Arch Enemy, formed in 1995. His drumming combines Scandinavian death metal intensity with technical precision and musicality. He has also played with Eucharist, Carcass (live), and In Flames.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Daniel_Erlandsson',
+      'https://www.discogs.com/artist/276769-Daniel-Erlandsson'
+    ],
+    gear: {
+      drums: 'Pearl Reference Pure',
+      snare: 'Pearl Daniel Erlandsson Signature 14x5.5"',
+      cymbals: 'Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride)',
+      hardware: 'Pearl Demon Drive Double Pedal',
+      sticks: 'Vic Firth American Classic 5B',
+      heads: 'Evans',
+      verified: true,
+      sources: ['https://en.wikipedia.org/wiki/Daniel_Erlandsson']
+    },
+    photos: [],
+    endorsements: [
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+    ],
+    videos: [
+      { title: 'Arch Enemy - Nemesis (Drum Cam)', youtubeId: 'n9AcG0glVu4', year: 2017 }
+    ]
+  },
+  {
+    id: 55,
+    name: 'Jaska Raatikainen',
+    band: 'Children of Bodom',
+    genre: 'Melodic Death Metal / Power Metal',
+    country: 'Finland',
+    image: '/images/drummers/55.jpg',
+    bio: 'Jaska Raatikainen (born July 18, 1979) was the drummer and co-founder of Finnish melodic death metal band Children of Bodom, formed in 1993. Alongside the late Alexi Laiho, Raatikainen helped create the band\'s signature sound that blended neoclassical melodies with aggressive death metal.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Jaska_Raatikainen',
+      'https://www.discogs.com/artist/387099-Jaska-Raatikainen'
+    ],
+    gear: {
+      drums: 'Pearl Masters Premium Maple',
+      snare: 'Pearl Masters 14x5.5" Maple',
+      cymbals: 'Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride)',
+      hardware: 'Pearl Eliminator Double Pedal',
+      sticks: 'Vic Firth American Classic 5A',
+      heads: 'Remo',
+      verified: true,
+      sources: ['https://en.wikipedia.org/wiki/Jaska_Raatikainen']
+    },
+    photos: [],
+    endorsements: [
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+    ],
+    videos: [
+      { title: 'Children of Bodom - In Your Face (Drum Cam)', youtubeId: 'pQvHwCaQYio', year: 2011 }
+    ]
+  },
+  {
+    id: 56,
+    name: 'Hannes Grossmann',
+    band: 'Obscura / ex-Necrophagist / Alkaloid',
+    genre: 'Technical Death Metal',
+    country: 'Germany',
+    image: '/images/drummers/56.jpg',
+    bio: 'Hannes Grossmann (born September 8, 1982) is a German drummer, composer, and producer known for his work with Obscura, Necrophagist, Blotted Science, and Alkaloid. Widely regarded as one of the most technically proficient drummers in death metal, his playing combines classical music influences with extreme metal precision.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Hannes_Grossmann',
+      'https://www.discogs.com/artist/1072649-Hannes-Grossmann'
+    ],
+    gear: {
+      drums: 'DW Collectors Series',
+      snare: 'DW Collectors 14x5.5" Maple',
+      cymbals: 'Meinl Byzance Series (14" Byzance Traditional Hi-Hats, 18" & 19" Byzance Brilliant Crashes, 21" Byzance Traditional Ride)',
+      hardware: 'DW 9000 Series Double Pedal',
+      sticks: 'Vic Firth American Classic 5B',
+      heads: 'Evans',
+      verified: true,
+      sources: ['https://en.wikipedia.org/wiki/Hannes_Grossmann']
+    },
+    photos: [],
+    endorsements: [
+      { name: 'DW Drums', url: 'https://www.dwdrums.com' },
+      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+    ],
+    videos: [
+      { title: 'Obscura - Anticosmic Overload (Drum Playthrough)', youtubeId: 'L4sQvHXaYEE', year: 2016 }
+    ]
+  },
+  {
+    id: 57,
+    name: 'Daray',
+    band: 'Dimmu Borgir / Vader',
+    genre: 'Black Metal / Death Metal',
+    country: 'Poland',
+    image: '/images/drummers/57.jpg',
+    bio: 'Dariusz "Daray" Brzozowski (born August 23, 1984) is a Polish drummer known for his work with Norwegian symphonic black metal band Dimmu Borgir (since 2008) and Polish death metal legends Vader (2006-2016). His drumming combines extreme speed, technical precision, and theatrical flair.',
+    sameAs: [
+      'https://www.discogs.com/artist/868449-Daray'
+    ],
+    gear: {
+      drums: 'Pearl Masterworks Stadium Exotic',
+      snare: 'Pearl Reference 14x5.5" Brass',
+      cymbals: 'Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 17" & 18" RUDE Crashes, 22" RUDE Power Ride)',
+      hardware: 'Pearl Demon XR Double Pedal',
+      sticks: 'Vic Firth American Classic Extreme 5B',
+      heads: 'Evans',
+      verified: true,
+      sources: ['https://pearldrum.com/en/artists']
+    },
+    photos: [],
+    endorsements: [
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+    ],
+    videos: [
+      { title: 'Dimmu Borgir - Progenies of the Great Apocalypse (Drum Cam)', youtubeId: 'joYKnDbwUoI', year: 2018 }
+    ]
+  },
+  {
+    id: 58,
+    name: 'Jocke Wallgren',
+    band: 'Amon Amarth',
+    genre: 'Melodic Death Metal / Viking Metal',
+    country: 'Sweden',
+    image: '/images/drummers/58.jpg',
+    bio: 'Jocke Wallgren (born April 1, 1986) is a Swedish drummer who joined melodic death metal band Amon Amarth in 2016, replacing Fredrik Andersson. His drumming brings a fresh energy to Amon Amarth\'s Viking-themed sound, combining powerful double bass patterns with groove-oriented playing.',
+    sameAs: [
+      'https://www.discogs.com/artist/2723584-Jocke-Wallgren'
+    ],
+    gear: {
+      drums: 'Pearl Reference Pure',
+      snare: 'Pearl Reference 14x6.5" Brass',
+      cymbals: 'Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride)',
+      hardware: 'Pearl Demon Drive Double Pedal',
+      sticks: 'Vic Firth American Classic 5B',
+      heads: 'Evans',
+      verified: true,
+      sources: ['https://pearldrum.com/en/artists']
+    },
+    photos: [],
+    endorsements: [
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+    ],
+    videos: [
+      { title: 'Amon Amarth - Raise Your Horns (Drum Cam)', youtubeId: 'mLpxoixOUPE', year: 2018 }
+    ]
+  },
+  {
+    id: 59,
+    name: 'Tim Yeung',
+    band: 'Morbid Angel / Hate Eternal / Vital Remains',
+    genre: 'Death Metal / Technical Death Metal',
+    country: 'USA',
+    image: '/images/drummers/59.jpg',
+    bio: 'Tim Yeung (born November 27, 1978) is an American extreme metal drummer. He has played with bands such as Hate Eternal, Morbid Angel, Vital Remains, Divine Heresy, and Nile. His incredible speed, precision, and endurance have made him one of the most sought-after drummers in death metal.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Tim_Yeung',
+      'https://www.discogs.com/artist/327188-Tim-Yeung'
+    ],
+    gear: {
+      drums: 'Tama Starclassic Bubinga',
+      snare: 'Tama S.L.P. Big Black Steel 14x6.5"',
+      cymbals: 'Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride)',
+      hardware: 'Tama Speed Cobra 910 Double Pedal',
+      sticks: 'Vic Firth American Classic 5A',
+      heads: 'Evans',
+      verified: true,
+      sources: ['https://en.wikipedia.org/wiki/Tim_Yeung']
+    },
+    photos: [],
+    endorsements: [
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+    ],
+    videos: [
+      { title: 'Morbid Angel - Immortal Rites (Live Drum Cam)', youtubeId: 'xJj5XLSz2Uk', year: 2019 }
+    ]
+  },
+  {
+    id: 60,
+    name: 'Kevin Talley',
+    band: 'Dying Fetus / Misery Index / Six Feet Under',
+    genre: 'Brutal Death Metal / Grindcore',
+    country: 'USA',
+    image: '/images/drummers/60.jpg',
+    bio: 'Kevin Talley (born May 21, 1979) is an American drummer renowned for his work with brutal death metal and grindcore bands including Dying Fetus, Misery Index, Six Feet Under, Chimaira, and Suffocation. His incredibly fast and precise drumming helped define the brutal death metal sound.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Kevin_Talley',
+      'https://www.discogs.com/artist/382628-Kevin-Talley'
+    ],
+    gear: {
+      drums: 'Pearl Masters Premium Legend',
+      snare: 'Pearl Masters 14x5.5" Maple',
+      cymbals: 'Sabian AAX Series (14" Stage Hi-Hats, 17" & 18" X-Plosion Crashes, 20" Stage Ride)',
+      hardware: 'Pearl Eliminator Double Pedal',
+      sticks: 'Vic Firth American Classic 5B',
+      heads: 'Remo',
+      verified: true,
+      sources: ['https://en.wikipedia.org/wiki/Kevin_Talley']
+    },
+    photos: [],
+    endorsements: [
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+    ],
+    videos: [
+      { title: 'Dying Fetus - Destroy the Opposition (Drum Cam)', youtubeId: 'mC6qAs9M3Kk', year: 2008 }
+    ]
   }
 ];
 

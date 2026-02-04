@@ -6665,6 +6665,37 @@ function NewsletterFooter({ theme }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
   
+  // Check localStorage for dismissal (7-day expiration)
+  const [isDismissed, setIsDismissed] = useState(() => {
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      try {
+        const dismissedUntil = localStorage.getItem('metalforge_newsletter_dismissed');
+        if (dismissedUntil) {
+          const dismissedDate = parseInt(dismissedUntil, 10);
+          if (Date.now() < dismissedDate) {
+            return true;
+          }
+          // Expired, remove from storage
+          localStorage.removeItem('metalforge_newsletter_dismissed');
+        }
+        return false;
+      } catch {
+        return false;
+      }
+    }
+    return false;
+  });
+
+  // Handle dismiss - set localStorage with 7-day expiration
+  const handleDismiss = () => {
+    const sevenDaysMs = 7 * 24 * 60 * 60 * 1000;
+    const dismissUntil = Date.now() + sevenDaysMs;
+    try {
+      localStorage.setItem('metalforge_newsletter_dismissed', dismissUntil.toString());
+    } catch {}
+    setIsDismissed(true);
+  };
+
   // Check localStorage for previous subscription
   const [isSubscribed, setIsSubscribed] = useState(() => {
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
@@ -6676,6 +6707,11 @@ function NewsletterFooter({ theme }) {
     }
     return false;
   });
+
+  // If dismissed, don't render the component
+  if (isDismissed) {
+    return null;
+  }
   
   const [email, setEmail] = useState('');
   const [gdprConsent, setGdprConsent] = useState(false);
@@ -6733,7 +6769,27 @@ function NewsletterFooter({ theme }) {
   // For web, render the newsletter form
   if (Platform.OS === 'web') {
     return (
-      <View style={[styles.newsletterFooter, { backgroundColor: theme.card, borderTopColor: theme.border }]}>
+      <View style={[styles.newsletterFooter, { backgroundColor: theme.card, borderTopColor: theme.border, position: 'relative' }]}>
+        {/* Close button */}
+        <TouchableOpacity
+          onPress={handleDismiss}
+          style={{
+            position: 'absolute',
+            top: 12,
+            right: 12,
+            width: 28,
+            height: 28,
+            borderRadius: 14,
+            backgroundColor: 'rgba(255,255,255,0.1)',
+            alignItems: 'center',
+            justifyContent: 'center',
+            zIndex: 10,
+          }}
+          accessibilityLabel="Dismiss newsletter panel"
+          accessibilityRole="button"
+        >
+          <Text style={{ color: theme.secondaryText, fontSize: 16, fontWeight: '600' }}>✕</Text>
+        </TouchableOpacity>
         <View style={[styles.newsletterContainer, isMobile && styles.newsletterContainerMobile]}>
           <View style={styles.newsletterTextSection}>
             <Text style={[styles.newsletterTitle, { color: theme.text }]}>
@@ -6864,7 +6920,27 @@ function NewsletterFooter({ theme }) {
 
   // For native platforms, keep simple UI (no form submission)
   return (
-    <View style={[styles.newsletterFooter, { backgroundColor: theme.card, borderTopColor: theme.border }]}>
+    <View style={[styles.newsletterFooter, { backgroundColor: theme.card, borderTopColor: theme.border, position: 'relative' }]}>
+      {/* Close button */}
+      <TouchableOpacity
+        onPress={handleDismiss}
+        style={{
+          position: 'absolute',
+          top: 12,
+          right: 12,
+          width: 28,
+          height: 28,
+          borderRadius: 14,
+          backgroundColor: 'rgba(255,255,255,0.1)',
+          alignItems: 'center',
+          justifyContent: 'center',
+          zIndex: 10,
+        }}
+        accessibilityLabel="Dismiss newsletter panel"
+        accessibilityRole="button"
+      >
+        <Text style={{ color: theme.secondaryText, fontSize: 16, fontWeight: '600' }}>✕</Text>
+      </TouchableOpacity>
       <View style={[styles.newsletterContainer, isMobile && styles.newsletterContainerMobile]}>
         <View style={styles.newsletterTextSection}>
           <Text style={[styles.newsletterTitle, { color: theme.text }]}>

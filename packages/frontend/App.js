@@ -643,7 +643,9 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
               <ImageWithFallback
                 source={{ uri: drummer.imageUrl || PLACEHOLDER_IMAGE }}
                 style={styles.topListDrummerImage}
-                fallbackText={drummer.name}
+                accessibilityLabel={`Photo of ${drummer.name}`}
+                width={60}
+                height={60}
               />
               <View style={styles.topListDrummerInfo}>
                 <Text style={[styles.topListDrummerName, { color: theme.text }]}>{drummer.name}</Text>
@@ -1014,10 +1016,15 @@ function ImageWithFallback({ source, style, accessibilityLabel, priority = false
     }
   }, [hasError]);
 
+  // Combine explicit dimensions with style for CLS prevention
+  const imageStyle = width && height 
+    ? [{ width, height }, style]
+    : style;
+
   return (
     <Image
       source={{ uri: imageUri }}
-      style={style}
+      style={imageStyle}
       accessibilityLabel={accessibilityLabel}
       onError={handleError}
       contentFit="cover"
@@ -1401,6 +1408,8 @@ function DrummerCard({ drummer, theme, onPress, index = 0 }) {
           style={styles.cardImage}
           accessibilityLabel={`Photo of ${drummer.name}`}
           priority={isAboveFold}
+          width={60}
+          height={60}
         />
       </View>
       <View style={styles.cardText}>
@@ -2172,6 +2181,8 @@ function SimilarDrummersSection({ drummer, allDrummers, theme, onSelectDrummer }
                     source={{ uri: similarDrummer.image }}
                     style={styles.similarDrummerImage}
                     accessibilityLabel={`Photo of ${similarDrummer.name}`}
+                    width={60}
+                    height={60}
                   />
                   <View style={styles.similarDrummerInfo}>
                     <Text style={[styles.similarDrummerName, { color: theme.text }]} numberOfLines={1}>
@@ -2215,6 +2226,8 @@ function SimilarDrummersSection({ drummer, allDrummers, theme, onSelectDrummer }
                 source={{ uri: similarDrummer.image }}
                 style={styles.similarDrummerImage}
                 accessibilityLabel={`Photo of ${similarDrummer.name}`}
+                width={60}
+                height={60}
               />
               <View style={styles.similarDrummerInfo}>
                 <Text style={[styles.similarDrummerName, { color: theme.text }]} numberOfLines={1}>
@@ -2282,6 +2295,8 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
             style={styles.detailImage}
             accessibilityLabel={`Photo of ${drummer.name}`}
             priority={true}
+            width={120}
+            height={120}
           />
           <View style={styles.detailHeaderText}>
             <Text style={[styles.detailName, { color: theme.text }]} accessibilityRole="header">{drummer.name}</Text>
@@ -2342,6 +2357,8 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
                 source={{ uri: photo }}
                 style={styles.galleryImage}
                 accessibilityLabel={`${drummer.name} photo ${index + 1}`}
+                width={200}
+                height={150}
               />
             ))}
           </ScrollView>

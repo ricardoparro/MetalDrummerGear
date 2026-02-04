@@ -1323,7 +1323,7 @@ const drummers = [
     genres: ['Death Metal'],
     country: 'USA',
     era: '80s',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/8/8e/Cannibal_Corpse_Rockharz_2018_03.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/b/b9/20160515_Gelsenkirchen_RockHard_Festival_Cannibal_Corpse_0037_%28cropped%29.jpg',
     bio: 'Paul Mazurkiewicz (born September 8, 1968) is an American drummer and co-founder of legendary death metal band Cannibal Corpse, formed in Buffalo, New York in 1988. As one of the most consistent and dedicated drummers in extreme metal, Mazurkiewicz has performed on every Cannibal Corpse album since their 1990 debut "Eaten Back to Life." His drumming style combines relentless blast beats, complex double bass patterns, and groove-oriented sections that have helped define the death metal sound. With Cannibal Corpse being the best-selling death metal band of all time, Mazurkiewicz\'s contribution to the genre is immeasurable.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Paul_Mazurkiewicz',
@@ -1337,7 +1337,7 @@ const drummers = [
       sticks: 'Vic Firth American Classic 5B'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/8/8e/Cannibal_Corpse_Rockharz_2018_03.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/b/b9/20160515_Gelsenkirchen_RockHard_Festival_Cannibal_Corpse_0037_%28cropped%29.jpg'
     ],
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },

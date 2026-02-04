@@ -1431,7 +1431,7 @@ const drummers = [
     band: 'Cannibal Corpse',
     genre: 'Death Metal',
     country: 'USA',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/3/3b/Cannibal_Corpse_-_2024275214539_2024-10-01_Cannibal_Corpse_-_Sven_-_1D_X_MK_II_-_1326_-_AK8I0150_%28cropped%29.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/c/ce/Cannibal_Corpse_-_2024275214539_2024-10-01_Cannibal_Corpse_-_Sven_-_1D_X_MK_II_-_1326_-_AK8I0150_%28cropped%29.jpg',
     bio: 'Paul Mazurkiewicz Jr. (born September 8, 1968) is a founding member and drummer of legendary death metal band Cannibal Corpse since 1988. Along with bassist Alex Webster, he is one of two remaining original members. Mazurkiewicz developed his craft by emulating Pete Sandoval of Morbid Angel and cites Dave Lombardo as his biggest influence. Beyond drumming, he plays guitar and is the band\'s primary lyricist, composing songs like "Frantic Disembowelment" and "Dead Human Collection." A self-taught drummer, he spray-painted his first drum kit black because it "wasn\'t metal enough." He also co-founded the 70s-style hard rock project Umbilicus and plays in crossover thrash band Heaven\'s Gate with Municipal Waste\'s Tony Foresta.',
     gear: {
       drums: 'Pearl Masters Premium',
@@ -1441,7 +1441,7 @@ const drummers = [
       sticks: 'Vic Firth American Classic 5B'
     },
     photos: [
-      'https://upload.wikimedia.org/wikipedia/commons/3/3b/Cannibal_Corpse_-_2024275214539_2024-10-01_Cannibal_Corpse_-_Sven_-_1D_X_MK_II_-_1326_-_AK8I0150_%28cropped%29.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/c/ce/Cannibal_Corpse_-_2024275214539_2024-10-01_Cannibal_Corpse_-_Sven_-_1D_X_MK_II_-_1326_-_AK8I0150_%28cropped%29.jpg'
     ],
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },

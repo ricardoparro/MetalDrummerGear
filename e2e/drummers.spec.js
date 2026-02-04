@@ -53,13 +53,17 @@ test.describe('MetalForge E2E', () => {
   });
   
   test('first 5 drummers load', async ({ page, request }) => {
+    // Increase timeout for multi-page iteration test
+    test.setTimeout(60000);
+    
     const response = await request.get(`${BASE_URL}/api/drummers`);
     const drummers = await response.json();
     const errors = [];
     for (const d of drummers.slice(0, 5)) {
-      await page.goto(`/drummer/${d.id}`, { waitUntil: 'networkidle' });
+      // Use 'load' instead of 'networkidle' - GA scripts prevent networkidle from settling
+      await page.goto(`/drummer/${d.id}`, { waitUntil: 'load' });
       // Wait for React to hydrate and render content
-      await page.waitForTimeout(2000);
+      await page.waitForTimeout(2500);
       const pageContent = await page.locator('body').textContent();
       const ok = pageContent.includes(d.name);
       if (!ok) errors.push(d.name);

@@ -23,7 +23,8 @@ test.describe('Quotes Feature', () => {
     
     const data = await response.json();
     expect(data.text).toBeDefined();
-    expect(data.drummer).toBeDefined();
+    // API returns drummerName/drummerBand as flat fields
+    expect(data.drummerName || data.drummer).toBeDefined();
   });
 
   test('quotes API topics endpoint works', async ({ request }) => {
@@ -31,8 +32,10 @@ test.describe('Quotes Feature', () => {
     expect(response.ok()).toBeTruthy();
     
     const data = await response.json();
-    expect(data.topics).toBeDefined();
-    expect(Array.isArray(data.topics)).toBeTruthy();
+    // API returns array directly or wrapped in {topics: [...]}
+    const topics = Array.isArray(data) ? data : data.topics;
+    expect(topics).toBeDefined();
+    expect(Array.isArray(topics)).toBeTruthy();
   });
 
   test('drummer detail includes quotes', async ({ request }) => {

@@ -61,5 +61,9 @@ packages/
 .ralph/         # Ralph agent configuration
 ```
 
+## Documentation
+
+- [Vercel Spend Management](docs/vercel-spend-management.md) - Cost controls and usage alerts setup
+
 ---
 *Built for metalheads, by metalheads* 🤘

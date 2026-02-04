@@ -1320,6 +1320,37 @@ function updateDocumentMeta(drummer, drummers = [], filters = {}) {
     quotesScript.remove();
   }
 
+  // VideoObject schema for YouTube embeds on drummer pages
+  let videoScript = document.querySelector('script[data-schema="video"]');
+  if (drummer && drummer.videos && drummer.videos.length > 0) {
+    if (!videoScript) {
+      videoScript = document.createElement('script');
+      videoScript.type = 'application/ld+json';
+      videoScript.setAttribute('data-schema', 'video');
+      document.head.appendChild(videoScript);
+    }
+
+    const videoSchema = drummer.videos.map((video) => ({
+      "@context": "https://schema.org",
+      "@type": "VideoObject",
+      "name": video.title,
+      "description": `${video.title} - ${drummer.name} (${drummer.band})`,
+      "thumbnailUrl": `https://img.youtube.com/vi/${video.youtubeId}/maxresdefault.jpg`,
+      "uploadDate": video.year ? `${video.year}-01-01` : undefined,
+      "embedUrl": `https://www.youtube.com/embed/${video.youtubeId}`,
+      "contentUrl": `https://www.youtube.com/watch?v=${video.youtubeId}`,
+      "publisher": {
+        "@type": "Organization",
+        "name": "YouTube"
+      }
+    }));
+
+    videoScript.textContent = JSON.stringify(videoSchema);
+  } else if (videoScript) {
+    // Remove video schema when not on a drummer page with videos
+    videoScript.remove();
+  }
+
   // SpeakableSpecification schema for voice search optimization
   let speakableScript = document.querySelector('script[data-schema="speakable"]');
   if (drummer) {

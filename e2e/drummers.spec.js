@@ -14,13 +14,21 @@ test.describe('MetalForge E2E', () => {
     for (const d of drummers) {
       if (d.image) {
         const url = d.image.startsWith('http') ? d.image : `${BASE_URL}${d.image}`;
-        const r = await request.head(url).catch(() => null);
-        if (!r || ![200, 301, 302, 304, 405].includes(r.status())) {
-          broken.push(d.name);
+        const r = await request.get(url).catch(() => null);
+        if (!r || ![200, 301, 302, 304].includes(r.status())) {
+          broken.push(`${d.name} (HTTP ${r?.status() || 'error'})`);
+        } else {
+          // Check content-type is actually an image, not HTML fallback
+          const contentType = r.headers()['content-type'] || '';
+          if (!contentType.startsWith('image/')) {
+            broken.push(`${d.name} (not an image: ${contentType})`);
+          }
         }
+      } else {
+        broken.push(`${d.name} (no image URL)`);
       }
     }
-    expect(broken, `Broken: ${broken.join(', ')}`).toHaveLength(0);
+    expect(broken, `Broken images:\n${broken.join('\n')}`).toHaveLength(0);
   });
   
   test('drummer detail renders', async ({ page, request }) => {

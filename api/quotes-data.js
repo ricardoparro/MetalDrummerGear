@@ -1,5 +1,20 @@
 // Shared quotes data - indexed by drummer ID for easy lookup
 
+const drummerMetadata = {
+  1: { name: 'Lars Ulrich', band: 'Metallica' },
+  2: { name: 'Joey Jordison', band: 'Slipknot' },
+  3: { name: 'Gene Hoglan', band: 'Death / Testament' },
+  4: { name: 'Dave Lombardo', band: 'Slayer' },
+  5: { name: 'Tomas Haake', band: 'Meshuggah' },
+  6: { name: 'George Kollias', band: 'Nile' },
+  7: { name: 'Eloy Casagrande', band: 'Slipknot' },
+  11: { name: 'Vinnie Paul', band: 'Pantera' },
+  13: { name: 'Mike Portnoy', band: 'Dream Theater' },
+  14: { name: 'Danny Carey', band: 'Tool' },
+  15: { name: 'Mario Duplantier', band: 'Gojira' },
+  16: { name: 'Brann Dailor', band: 'Mastodon' }
+};
+
 const quotesById = {
   1: [ // Lars Ulrich
     { text: "I'm not the best drummer in the world, but I'm the best drummer for Metallica.", source: "Modern Drummer Magazine", year: 2008, topic: 'philosophy' },
@@ -66,4 +81,30 @@ function getQuotesForDrummer(drummerId) {
   return quotesById[drummerId] || [];
 }
 
-export { quotesById, getQuotesForDrummer };
+function getAllQuotes() {
+  const allQuotes = [];
+  
+  Object.entries(quotesById).forEach(([drummerId, quotes]) => {
+    const id = parseInt(drummerId);
+    const meta = drummerMetadata[id] || { name: 'Unknown', band: 'Unknown' };
+    
+    quotes.forEach((quote, index) => {
+      allQuotes.push({
+        id: `${id}-${index}`,
+        text: quote.text,
+        source: quote.source,
+        year: quote.year,
+        topic: quote.topic,
+        drummer: {
+          id: id,
+          name: meta.name,
+          band: meta.band
+        }
+      });
+    });
+  });
+  
+  return allQuotes;
+}
+
+module.exports = { quotesById, getQuotesForDrummer, getAllQuotes };

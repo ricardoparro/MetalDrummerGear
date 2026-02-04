@@ -65,6 +65,8 @@ export default function handler(req, res) {
 
   const urls = [
     { loc: '/', priority: '1.0', changefreq: 'weekly' },
+    // Quotes collection page
+    { loc: '/quotes', priority: '0.9', changefreq: 'weekly' },
     // Top 10 Lists index
     { loc: '/lists', priority: '0.9', changefreq: 'weekly' },
     // Individual Top 10 List pages

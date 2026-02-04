@@ -1361,10 +1361,10 @@ function updateDocumentMeta(drummer, drummers = [], filters = {}) {
     videoScript.remove();
   }
 
-  // SpeakableSpecification schema for voice search optimization
+  // SpeakableSpecification schema for voice search and AI optimization
   let speakableScript = document.querySelector('script[data-schema="speakable"]');
   if (drummer) {
-    // Add speakable schema for drummer pages
+    // Add speakable schema for drummer pages with expanded content markers
     if (!speakableScript) {
       speakableScript = document.createElement('script');
       speakableScript.type = 'application/ld+json';
@@ -1373,19 +1373,36 @@ function updateDocumentMeta(drummer, drummers = [], filters = {}) {
     }
 
     const baseUrl = "https://metalforge.io";
+    
+    // Build AI-friendly summary for xpath
+    const gearSummary = `${drummer.name} plays ${drummer.gear?.drums || 'drums'} with ${drummer.gear?.cymbals || 'cymbals'}.`;
+    
     const speakableSchema = {
       "@context": "https://schema.org",
       "@type": "WebPage",
       "name": `${drummer.name} Drum Kit & Gear`,
       "url": `${baseUrl}/drummer/${drummer.id}`,
+      "description": `Complete gear profile for ${drummer.name} of ${drummer.band}. ${gearSummary}`,
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
           "#drummer-name",
           "#drummer-band",
           "#drummer-bio",
-          "#drummer-gear"
+          "#drummer-gear",
+          "#drummer-gear-summary",
+          "#drummer-quote",
+          "#drummer-endorsements"
         ]
+      },
+      "mainEntity": {
+        "@type": "Person",
+        "name": drummer.name,
+        "jobTitle": "Drummer",
+        "memberOf": {
+          "@type": "MusicGroup",
+          "name": drummer.band
+        }
       }
     };
 
@@ -1403,13 +1420,15 @@ function updateDocumentMeta(drummer, drummers = [], filters = {}) {
     const speakableSchema = {
       "@context": "https://schema.org",
       "@type": "WebPage",
-      "name": "Metal Drummer Gear - Discover What Pro Drummers Play",
+      "name": "MetalForge - Metal Drummer Gear Database",
       "url": baseUrl,
+      "description": "Comprehensive database of professional metal drummers and their gear setups. Discover what drums, cymbals, and hardware your favorite metal drummers play.",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
           "#site-title",
-          "#site-description"
+          "#site-description",
+          "#drummer-list-summary"
         ]
       }
     };

@@ -34,6 +34,7 @@ module.exports = (req, res) => {
   const total = quotes.length;
   const paginatedQuotes = quotes.slice(parseInt(offset), parseInt(offset) + parseInt(limit));
   
+  res.setHeader('Cache-Control', 's-maxage=3600, stale-while-revalidate=86400');
   res.json({
     quotes: paginatedQuotes,
     total,

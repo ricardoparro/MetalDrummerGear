@@ -6,6 +6,17 @@ export default function handler(req, res) {
 
   const robotsTxt = `User-agent: *
 Allow: /
+Crawl-delay: 10
+
+# Block aggressive bots
+User-agent: AhrefsBot
+Crawl-delay: 30
+
+User-agent: SemrushBot
+Crawl-delay: 30
+
+User-agent: MJ12bot
+Crawl-delay: 30
 
 Sitemap: https://metalforge.io/sitemap.xml
 

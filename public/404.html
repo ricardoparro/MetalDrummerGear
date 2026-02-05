@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <title>404 - Page Not Found | MetalForge</title>
+  <meta name="description" content="The page you're looking for doesn't exist. Explore MetalForge to discover what gear professional metal drummers use." />
+  <meta name="robots" content="noindex, follow" />
+  
+  <!-- Open Graph -->
+  <meta property="og:title" content="404 - Page Not Found | MetalForge" />
+  <meta property="og:description" content="The page you're looking for doesn't exist. Explore MetalForge to discover what gear professional metal drummers use." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://metalforge.io/404" />
+  
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      background: linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 50%, #0d0d0d 100%);
+      color: #e0e0e0;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+    
+    .container {
+      text-align: center;
+      max-width: 700px;
+      width: 100%;
+    }
+    
+    .error-code {
+      font-size: 120px;
+      font-weight: 900;
+      background: linear-gradient(180deg, #ff4444 0%, #8b0000 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      text-shadow: 0 0 30px rgba(255, 68, 68, 0.3);
+      line-height: 1;
+      margin-bottom: 10px;
+    }
+    
+    .skull-icon {
+      font-size: 48px;
+      margin-bottom: 20px;
+    }
+    
+    h1 {
+      font-size: 28px;
+      color: #ffffff;
+      margin-bottom: 16px;
+      font-weight: 700;
+    }
+    
+    .message {
+      font-size: 18px;
+      color: #888;
+      margin-bottom: 40px;
+      line-height: 1.6;
+    }
+    
+    .nav-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 16px;
+      justify-content: center;
+      margin-bottom: 50px;
+    }
+    
+    .nav-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 14px 28px;
+      background: linear-gradient(180deg, #2a2a2a 0%, #1a1a1a 100%);
+      border: 1px solid #333;
+      border-radius: 8px;
+      color: #fff;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 15px;
+      transition: all 0.2s ease;
+    }
+    
+    .nav-link:hover {
+      background: linear-gradient(180deg, #3a3a3a 0%, #2a2a2a 100%);
+      border-color: #ff4444;
+      transform: translateY(-2px);
+      box-shadow: 0 4px 20px rgba(255, 68, 68, 0.2);
+    }
+    
+    .nav-link.primary {
+      background: linear-gradient(180deg, #ff4444 0%, #cc0000 100%);
+      border-color: #ff4444;
+    }
+    
+    .nav-link.primary:hover {
+      background: linear-gradient(180deg, #ff5555 0%, #dd0000 100%);
+      box-shadow: 0 4px 20px rgba(255, 68, 68, 0.4);
+    }
+    
+    .drummers-section {
+      margin-top: 20px;
+    }
+    
+    .drummers-section h2 {
+      font-size: 16px;
+      color: #666;
+      margin-bottom: 20px;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      font-weight: 500;
+    }
+    
+    .drummers-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+      gap: 16px;
+      max-width: 600px;
+      margin: 0 auto;
+    }
+    
+    .drummer-card {
+      background: linear-gradient(180deg, #1e1e1e 0%, #141414 100%);
+      border: 1px solid #2a2a2a;
+      border-radius: 10px;
+      padding: 16px 12px;
+      text-decoration: none;
+      transition: all 0.2s ease;
+    }
+    
+    .drummer-card:hover {
+      border-color: #444;
+      transform: translateY(-3px);
+      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.5);
+    }
+    
+    .drummer-name {
+      color: #fff;
+      font-weight: 600;
+      font-size: 14px;
+      margin-bottom: 4px;
+    }
+    
+    .drummer-band {
+      color: #ff4444;
+      font-size: 12px;
+      font-weight: 500;
+    }
+    
+    .footer-note {
+      margin-top: 50px;
+      color: #444;
+      font-size: 13px;
+    }
+    
+    .footer-note a {
+      color: #666;
+      text-decoration: none;
+    }
+    
+    .footer-note a:hover {
+      color: #ff4444;
+    }
+    
+    @media (max-width: 480px) {
+      .error-code {
+        font-size: 80px;
+      }
+      
+      h1 {
+        font-size: 22px;
+      }
+      
+      .message {
+        font-size: 16px;
+      }
+      
+      .nav-links {
+        flex-direction: column;
+      }
+      
+      .nav-link {
+        width: 100%;
+        justify-content: center;
+      }
+      
+      .drummers-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="skull-icon">💀</div>
+    <div class="error-code">404</div>
+    <h1>Page Not Found</h1>
+    <p class="message">
+      This page has been blast-beaten into oblivion.<br/>
+      Let's get you back on track.
+    </p>
+    
+    <nav class="nav-links">
+      <a href="/" class="nav-link primary">
+        🏠 Homepage
+      </a>
+      <a href="/#drummers" class="nav-link">
+        🥁 Browse Drummers
+      </a>
+      <a href="/#gear-finder" class="nav-link">
+        🔍 Gear Finder
+      </a>
+    </nav>
+    
+    <section class="drummers-section">
+      <h2>Popular Drummers</h2>
+      <div class="drummers-grid">
+        <a href="/#drummer-lars-ulrich" class="drummer-card">
+          <div class="drummer-name">Lars Ulrich</div>
+          <div class="drummer-band">Metallica</div>
+        </a>
+        <a href="/#drummer-joey-jordison" class="drummer-card">
+          <div class="drummer-name">Joey Jordison</div>
+          <div class="drummer-band">Slipknot</div>
+        </a>
+        <a href="/#drummer-dave-lombardo" class="drummer-card">
+          <div class="drummer-name">Dave Lombardo</div>
+          <div class="drummer-band">Slayer</div>
+        </a>
+        <a href="/#drummer-mike-portnoy" class="drummer-card">
+          <div class="drummer-name">Mike Portnoy</div>
+          <div class="drummer-band">Dream Theater</div>
+        </a>
+      </div>
+    </section>
+    
+    <p class="footer-note">
+      <a href="/">MetalForge</a> — Discover What Pro Metal Drummers Play
+    </p>
+  </div>
+</body>
+</html>

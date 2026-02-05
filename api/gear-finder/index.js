@@ -10,7 +10,7 @@ const drummers = [
     name: 'Lars Ulrich',
     band: 'Metallica',
     genre: 'Thrash Metal',
-    image: '/images/drummers/1.jpg',
+    image: '/images/drummers/1.webp',
     gear: {
       drums: 'Tama Starclassic Maple',
       snare: 'Tama LU1465 Lars Ulrich Signature 14x6.5"',
@@ -25,7 +25,7 @@ const drummers = [
     name: 'Joey Jordison',
     band: 'Slipknot',
     genre: 'Nu Metal / Death Metal',
-    image: '/images/drummers/2.jpg',
+    image: '/images/drummers/2.webp',
     gear: {
       drums: 'Pearl Reference Series',
       snare: 'Pearl Joey Jordison Signature 13x6.5"',
@@ -40,7 +40,7 @@ const drummers = [
     name: 'Gene Hoglan',
     band: 'Death / Testament / Dethklok',
     genre: 'Death Metal / Thrash Metal',
-    image: '/images/drummers/3.jpg',
+    image: '/images/drummers/3.webp',
     gear: {
       drums: 'Pearl Reference Pure',
       snare: 'Pearl Reference 14x6.5" Brass',
@@ -55,7 +55,7 @@ const drummers = [
     name: 'Dave Lombardo',
     band: 'Slayer',
     genre: 'Thrash Metal',
-    image: '/images/drummers/4.jpg',
+    image: '/images/drummers/4.webp',
     gear: {
       drums: 'Tama Starclassic Maple',
       snare: 'Tama S.L.P. 14x6.5" G-Maple',
@@ -69,7 +69,7 @@ const drummers = [
     name: 'Tomas Haake',
     band: 'Meshuggah',
     genre: 'Progressive Metal / Djent',
-    image: '/images/drummers/5.jpg',
+    image: '/images/drummers/5.webp',
     gear: {
       drums: 'Sonor SQ2 Heavy Beech (24"x18" Bass, 10"x8", 12"x9", 13"x10", 16"x14", 18"x16" Toms)',
       snare: 'Sonor Tomas Haake Signature 14x6.5" & Artist Series Bronze',
@@ -84,7 +84,7 @@ const drummers = [
     name: 'George Kollias',
     band: 'Nile',
     genre: 'Technical Death Metal',
-    image: '/images/drummers/6.jpg',
+    image: '/images/drummers/6.webp',
     gear: {
       drums: 'Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware)',
       snare: 'Pearl George Kollias Signature 14x6.5"',
@@ -99,7 +99,7 @@ const drummers = [
     name: 'Eloy Casagrande',
     band: 'Slipknot',
     genre: 'Nu Metal / Thrash Metal',
-    image: '/images/drummers/7.jpg',
+    image: '/images/drummers/7.webp',
     gear: {
       drums: 'Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms)',
       snare: 'Tama Bell Brass 14x5.5" (BB146)',
@@ -114,7 +114,7 @@ const drummers = [
     name: 'Ray Luzier',
     band: 'Korn',
     genre: 'Nu Metal',
-    image: '/images/drummers/8.jpg',
+    image: '/images/drummers/8.webp',
     gear: {
       drums: 'Pearl Reference Series',
       snare: 'Pearl Reference 14x6.5" Brass',
@@ -128,7 +128,7 @@ const drummers = [
     name: 'John Otto',
     band: 'Limp Bizkit',
     genre: 'Nu Metal / Rap Metal',
-    image: '/images/drummers/9.jpg',
+    image: '/images/drummers/9.webp',
     gear: {
       drums: 'Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic',
       snare: 'OCDP 14x6.5" 40-ply Vented, OCDP 10x6" 20-ply',
@@ -143,7 +143,7 @@ const drummers = [
     name: 'Jay Weinberg',
     band: 'Suicidal Tendencies',
     genre: 'Hardcore / Thrash Crossover',
-    image: '/images/drummers/10.jpg',
+    image: '/images/drummers/10.webp',
     gear: {
       drums: 'SJC Custom Drums (OBEY x ST Collaboration Kit)',
       snare: 'SJC Jay Weinberg "The Crucible" 14x6.5" 48-ply Brass',
@@ -158,7 +158,7 @@ const drummers = [
     name: 'Vinnie Paul',
     band: 'Pantera / Damageplan / Hellyeah',
     genre: 'Groove Metal / Heavy Metal',
-    image: '/images/drummers/11.jpg',
+    image: '/images/drummers/11.webp',
     gear: {
       drums: 'ddrum Vinnie Paul Signature Series',
       snare: 'ddrum Vinnie Paul Signature 14x8"',
@@ -172,7 +172,7 @@ const drummers = [
     name: 'Charlie Benante',
     band: 'Anthrax / S.O.D. / Pantera',
     genre: 'Thrash Metal',
-    image: '/images/drummers/12.jpg',
+    image: '/images/drummers/12.webp',
     gear: {
       drums: 'Tama Starclassic',
       snare: 'Tama Charlie Benante Signature 14x6.5"',
@@ -186,7 +186,7 @@ const drummers = [
     name: 'Mike Portnoy',
     band: 'Dream Theater / Liquid Tension Experiment / The Winery Dogs',
     genre: 'Progressive Metal',
-    image: '/images/drummers/13.jpg',
+    image: '/images/drummers/13.webp',
     gear: {
       drums: 'Tama Starclassic Maple/Birch',
       snare: 'Tama Mike Portnoy Signature Melody Master 14x5.5"',
@@ -200,7 +200,7 @@ const drummers = [
     name: 'Danny Carey',
     band: 'Tool',
     genre: 'Progressive Metal',
-    image: '/images/drummers/14.jpg',
+    image: '/images/drummers/14.webp',
     gear: {
       drums: 'Sonor SQ2 Heavy Beech',
       snare: 'Sonor Danny Carey Signature 14x8" Bronze',
@@ -214,7 +214,7 @@ const drummers = [
     name: 'Mario Duplantier',
     band: 'Gojira',
     genre: 'Progressive Death Metal',
-    image: '/images/drummers/15.jpg',
+    image: '/images/drummers/15.webp',
     gear: {
       drums: 'Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom)',
       snare: 'Tama S.L.P. 14x6.5" G-Maple',
@@ -228,7 +228,7 @@ const drummers = [
     name: 'Brann Dailor',
     band: 'Mastodon',
     genre: 'Progressive/Sludge Metal',
-    image: '/images/drummers/16.jpg',
+    image: '/images/drummers/16.webp',
     gear: {
       drums: 'Tama Starclassic Performer B/B',
       snare: 'Tama S.L.P. 14x6.5" G-Maple',
@@ -242,7 +242,7 @@ const drummers = [
     name: 'Chris Adler',
     band: 'Lamb of God',
     genre: 'Groove Metal',
-    image: '/images/drummers/17.jpg',
+    image: '/images/drummers/17.webp',
     gear: {
       drums: 'Mapex Black Panther Design Lab',
       snare: 'Mapex Chris Adler Signature 14x5.5" Walnut/Maple',
@@ -256,7 +256,7 @@ const drummers = [
     name: 'Matt Halpern',
     band: 'Periphery',
     genre: 'Progressive/Djent',
-    image: '/images/drummers/18.jpg',
+    image: '/images/drummers/18.webp',
     gear: {
       drums: 'Pearl Reference Series',
       snare: 'Pearl Reference 14x6.5" Brass',
@@ -270,7 +270,7 @@ const drummers = [
     name: 'Inferno',
     band: 'Behemoth',
     genre: 'Black/Death Metal',
-    image: '/images/drummers/19.jpg',
+    image: '/images/drummers/19.webp',
     gear: {
       drums: 'Pearl Masterworks',
       snare: 'Pearl Reference 14x5" Steel',
@@ -284,7 +284,7 @@ const drummers = [
     name: 'Hellhammer',
     band: 'Mayhem',
     genre: 'Black Metal',
-    image: '/images/drummers/20.jpg',
+    image: '/images/drummers/20.webp',
     gear: {
       drums: 'Sonor SQ2 Heavy Beech',
       snare: 'Sonor SQ2 14x5.5" Maple',
@@ -298,7 +298,7 @@ const drummers = [
     name: 'Pete Sandoval',
     band: 'Morbid Angel',
     genre: 'Death Metal',
-    image: '/images/drummers/21.jpg',
+    image: '/images/drummers/21.webp',
     gear: {
       drums: 'ddrum Dios Series',
       snare: 'ddrum Dios 14x6.5" Maple',
@@ -312,7 +312,7 @@ const drummers = [
     name: 'Art Cruz',
     band: 'Lamb of God',
     genre: 'Groove Metal / Thrash Metal',
-    image: '/images/drummers/22.jpg',
+    image: '/images/drummers/22.webp',
     gear: {
       drums: 'Ludwig Drums',
       snare: 'Ludwig 14x6.5" Black Beauty',
@@ -327,7 +327,7 @@ const drummers = [
     name: 'Arin Ilejay',
     band: 'ex-Avenged Sevenfold',
     genre: 'Heavy Metal / Hard Rock',
-    image: '/images/drummers/23.jpg',
+    image: '/images/drummers/23.webp',
     gear: {
       drums: 'Mapex Saturn Series',
       snare: 'Mapex Black Panther 14x6.5"',
@@ -342,7 +342,7 @@ const drummers = [
     name: 'Navene Koperweis',
     band: 'Entheos / ex-Animals as Leaders',
     genre: 'Progressive Metal / Djent / Technical Death Metal',
-    image: '/images/drummers/24.jpg',
+    image: '/images/drummers/24.webp',
     gear: {
       drums: 'DW Drums Performance Series',
       snare: 'DW Performance 14x6.5" Steel',
@@ -357,7 +357,7 @@ const drummers = [
     name: 'Alex Bent',
     band: 'ex-Trivium / Arkaik / Dragonlord',
     genre: 'Heavy Metal / Thrash Metal / Technical Death Metal',
-    image: '/images/drummers/25.jpg',
+    image: '/images/drummers/25.webp',
     gear: {
       drums: 'Pearl Reference Pure Series',
       snare: 'Pearl Reference 14x5" Brass',
@@ -372,7 +372,7 @@ const drummers = [
     name: 'Shannon Larkin',
     band: 'Godsmack / Ugly Kid Joe / Amen',
     genre: 'Hard Rock / Heavy Metal / Nu Metal',
-    image: '/images/drummers/26.jpg',
+    image: '/images/drummers/26.webp',
     gear: {
       drums: 'ddrum Dios Series',
       snare: 'ddrum Dios 14x6.5" Maple',
@@ -387,7 +387,7 @@ const drummers = [
     name: 'Raymond Herrera',
     band: "Fear Factory / Arkaea / Brujeria",
     genre: 'Industrial Metal / Death Metal',
-    image: '/images/drummers/27.jpg',
+    image: '/images/drummers/27.webp',
     gear: {
       drums: 'Tama Starclassic',
       snare: 'Tama 14x6.5" Brass',
@@ -417,7 +417,7 @@ const drummers = [
     name: 'Igor Cavalera',
     band: 'Sepultura / Cavalera Conspiracy / Soulwax',
     genre: 'Thrash Metal / Groove Metal / Death Metal',
-    image: '/images/drummers/29.jpg',
+    image: '/images/drummers/29.webp',
     gear: {
       drums: 'Tama Starclassic Maple',
       snare: 'Tama S.L.P. 14x6.5" G-Maple',
@@ -432,7 +432,7 @@ const drummers = [
     name: 'Bill Ward',
     band: 'Black Sabbath',
     genre: 'Heavy Metal / Hard Rock / Blues Rock',
-    image: '/images/drummers/30.jpg',
+    image: '/images/drummers/30.webp',
     gear: {
       drums: 'Ludwig Classic Maple',
       snare: 'Ludwig Supraphonic 14x6.5" LM402',
@@ -507,7 +507,7 @@ const drummers = [
     name: 'Ben Koller',
     band: 'Converge / Mutoid Man / Killer Be Killed',
     genre: 'Metalcore / Hardcore Punk / Grindcore',
-    image: '/images/drummers/35.jpg',
+    image: '/images/drummers/35.webp',
     gear: {
       drums: 'Tama Starclassic Maple',
       snare: 'Tama S.L.P. 14x6" Brass',
@@ -522,7 +522,7 @@ const drummers = [
     name: 'Flo Mounier',
     band: 'Cryptopsy',
     genre: 'Technical Death Metal / Brutal Death Metal',
-    image: '/images/drummers/36.jpg',
+    image: '/images/drummers/36.webp',
     gear: {
       drums: 'Pearl Reference Series',
       snare: 'Pearl Reference 14x5.5" Brass',

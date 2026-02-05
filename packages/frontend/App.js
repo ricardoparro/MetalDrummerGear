@@ -2182,7 +2182,7 @@ function SimilarDrummersSection({ drummer, allDrummers, theme, onSelectDrummer }
                 height={60}
                 imageContext="thumbnail"
               />
-              <View style={styles.similarDrummerInfo}
+              <View style={styles.similarDrummerInfo}>
                 <Text style={[styles.similarDrummerName, { color: theme.text }]} numberOfLines={1}>
                   {similarDrummer.name}
                 </Text>
@@ -4313,7 +4313,7 @@ function GearFinderPage({ theme, onBack, drummers, onSelectDrummer }) {
                       height={70}
                       imageContext="thumbnail"
                     />
-                    <View style={styles.gearFinderResultInfo>
+                    <View style={styles.gearFinderResultInfo}>
                       <Text style={[styles.gearFinderResultName, { color: theme.text }]} numberOfLines={1}>
                         {result.name}
                       </Text>

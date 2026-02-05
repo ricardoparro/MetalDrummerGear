@@ -1,6 +1,6 @@
 // Vercel Serverless Function - Get drummer by ID
 
-import { getQuotesForDrummer } from '../quotes-data.js';
+const { getQuotesForDrummer } = require('../quotes-data.js');
 
 const drummers = [
   {
@@ -2128,7 +2128,7 @@ const drummers = [
   }
 ];
 
-export default function handler(req, res) {
+module.exports = function handler(req, res) {
   res.setHeader('Access-Control-Allow-Origin', '*');
   res.setHeader('Cache-Control', 's-maxage=3600, stale-while-revalidate=86400');
   res.setHeader('Access-Control-Allow-Methods', 'GET, OPTIONS');

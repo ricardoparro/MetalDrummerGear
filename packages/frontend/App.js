@@ -5,7 +5,7 @@ import { ThemeProvider, useTheme } from './ThemeContext';
 import { useState, useEffect, useCallback, useMemo, useRef, lazy, Suspense } from 'react';
 import { getAffiliateLinks, extractPrimaryProduct, getThomannLink, getSweetwaterLink } from './affiliateLinks';
 import { calculateKitCost, formatPrice } from './gearPrices';
-import { getOptimizedImageUrl, optimizeDrummerImages, imageDefaults, IMAGE_WIDTHS } from './imageUtils';
+import { getOptimizedImageUrl, optimizeDrummerImages, imageDefaults, IMAGE_WIDTHS, generateSrcSet, getSizesAttribute, SRCSET_WIDTHS } from './imageUtils';
 
 // Import extracted data for code splitting
 import { FILTER_OPTIONS } from './data/filterOptions';

@@ -1,0 +1,508 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - heading "Metal Drummer Gear" [level=1] [ref=e5]
+  - main [ref=e6]:
+    - generic [ref=e8]:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e12]:
+            - generic [ref=e13]: 🔍
+            - textbox "Search drummers by name, band, or gear brand" [ref=e14]:
+              - /placeholder: Search drummers, bands, gear...
+            - generic [ref=e16]: ⌘K
+          - generic [ref=e17]:
+            - generic [ref=e20]:
+              - generic [ref=e21]: "Genre:"
+              - generic [ref=e23] [cursor=pointer]: Thrash Metal
+              - generic [ref=e25] [cursor=pointer]: Death Metal
+              - generic [ref=e27] [cursor=pointer]: Black Metal
+              - generic [ref=e29] [cursor=pointer]: Progressive
+              - generic [ref=e31] [cursor=pointer]: Nu-Metal
+              - generic [ref=e33] [cursor=pointer]: Groove Metal
+              - generic [ref=e35]: "Brand:"
+              - generic [ref=e37] [cursor=pointer]: Tama
+              - generic [ref=e39] [cursor=pointer]: Pearl
+              - generic [ref=e41] [cursor=pointer]: DW
+              - generic [ref=e43] [cursor=pointer]: Sonor
+              - generic [ref=e45] [cursor=pointer]:
+                - generic [ref=e46]: More Brands
+                - generic [ref=e47]: ▼
+            - generic [ref=e49]: Showing 60 drummers
+        - generic [ref=e50]:
+          - button "Compare drummers side by side" [ref=e51] [cursor=pointer]:
+            - generic [ref=e52]: Compare Drummers
+          - button "Take the drummer personality quiz" [ref=e53] [cursor=pointer]:
+            - generic [ref=e54]: 🥁 Find Your Match
+        - generic [ref=e55]:
+          - button "Browse drummer interview quotes" [ref=e56] [cursor=pointer]:
+            - generic [ref=e57]: 💬 Quotes
+          - button "Search drummers by gear" [ref=e58] [cursor=pointer]:
+            - generic [ref=e59]: 🔍 Gear Finder
+        - generic [ref=e60]:
+          - generic [ref=e61]:
+            - generic [ref=e62]: 🏆 Top 10 Lists
+            - generic [ref=e63]: Curated drummer rankings by category
+          - generic [ref=e65]:
+            - button "View Top 10 Fastest Metal Drummers" [ref=e66] [cursor=pointer]:
+              - generic [ref=e67]: ⚡
+              - generic [ref=e68]: Fastest Metal Drummers
+              - generic [ref=e69]: 10 drummers →
+            - button "View Top 10 Death Metal Drummers" [ref=e70] [cursor=pointer]:
+              - generic [ref=e71]: 💀
+              - generic [ref=e72]: Death Metal Drummers
+              - generic [ref=e73]: 10 drummers →
+            - button "View Top 10 Most Innovative Metal Drummers" [ref=e74] [cursor=pointer]:
+              - generic [ref=e75]: 🎨
+              - generic [ref=e76]: Most Innovative Metal Drummers
+              - generic [ref=e77]: 10 drummers →
+            - button "View Top 10 Thrash Metal Drummers" [ref=e78] [cursor=pointer]:
+              - generic [ref=e79]: 🔥
+              - generic [ref=e80]: Thrash Metal Drummers
+              - generic [ref=e81]: 10 drummers →
+            - button "View Top 10 Pro Drummers with Budget-Friendly Setups" [ref=e82] [cursor=pointer]:
+              - generic [ref=e83]: 💰
+              - generic [ref=e84]: Pro Drummers with Budget-Friendly Setups
+              - generic [ref=e85]: 10 drummers →
+      - link "View Lars Ulrich's gear details" [ref=e87] [cursor=pointer]:
+        - /url: /drummer/1
+        - generic [ref=e88]:
+          - img "Photo of Lars Ulrich" [ref=e91]
+          - generic [ref=e92]:
+            - generic [ref=e93]: Lars Ulrich
+            - generic [ref=e94]: Metallica
+      - link "View Joey Jordison's gear details" [ref=e96] [cursor=pointer]:
+        - /url: /drummer/2
+        - generic [ref=e97]:
+          - img "Photo of Joey Jordison" [ref=e100]
+          - generic [ref=e101]:
+            - generic [ref=e102]: Joey Jordison
+            - generic [ref=e103]: Slipknot
+      - link "View Gene Hoglan's gear details" [ref=e105] [cursor=pointer]:
+        - /url: /drummer/3
+        - generic [ref=e106]:
+          - img "Photo of Gene Hoglan" [ref=e109]
+          - generic [ref=e110]:
+            - generic [ref=e111]: Gene Hoglan
+            - generic [ref=e112]: Death / Testament / Dethklok
+      - link "View Dave Lombardo's gear details" [ref=e114] [cursor=pointer]:
+        - /url: /drummer/4
+        - generic [ref=e115]:
+          - img "Photo of Dave Lombardo" [ref=e118]
+          - generic [ref=e119]:
+            - generic [ref=e120]: Dave Lombardo
+            - generic [ref=e121]: Slayer
+      - link "View Tomas Haake's gear details" [ref=e123] [cursor=pointer]:
+        - /url: /drummer/5
+        - generic [ref=e124]:
+          - img "Photo of Tomas Haake" [ref=e127]
+          - generic [ref=e128]:
+            - generic [ref=e129]: Tomas Haake
+            - generic [ref=e130]: Meshuggah
+      - link "View George Kollias's gear details" [ref=e132] [cursor=pointer]:
+        - /url: /drummer/6
+        - generic [ref=e133]:
+          - img "Photo of George Kollias" [ref=e136]
+          - generic [ref=e137]:
+            - generic [ref=e138]: George Kollias
+            - generic [ref=e139]: Nile
+      - link "View Eloy Casagrande's gear details" [ref=e141] [cursor=pointer]:
+        - /url: /drummer/7
+        - generic [ref=e142]:
+          - img "Photo of Eloy Casagrande" [ref=e145]
+          - generic [ref=e146]:
+            - generic [ref=e147]: Eloy Casagrande
+            - generic [ref=e148]: Slipknot
+      - link "View Ray Luzier's gear details" [ref=e150] [cursor=pointer]:
+        - /url: /drummer/8
+        - generic [ref=e151]:
+          - img "Photo of Ray Luzier" [ref=e154]
+          - generic [ref=e155]:
+            - generic [ref=e156]: Ray Luzier
+            - generic [ref=e157]: Korn
+      - link "View John Otto's gear details" [ref=e159] [cursor=pointer]:
+        - /url: /drummer/9
+        - generic [ref=e160]:
+          - img "Photo of John Otto" [ref=e163]
+          - generic [ref=e164]:
+            - generic [ref=e165]: John Otto
+            - generic [ref=e166]: Limp Bizkit
+      - link "View Jay Weinberg's gear details" [ref=e168] [cursor=pointer]:
+        - /url: /drummer/10
+        - generic [ref=e169]:
+          - img "Photo of Jay Weinberg" [ref=e172]
+          - generic [ref=e173]:
+            - generic [ref=e174]: Jay Weinberg
+            - generic [ref=e175]: Suicidal Tendencies
+      - link "View Vinnie Paul's gear details" [ref=e177] [cursor=pointer]:
+        - /url: /drummer/11
+        - generic [ref=e178]:
+          - img "Photo of Vinnie Paul" [ref=e181]
+          - generic [ref=e182]:
+            - generic [ref=e183]: Vinnie Paul
+            - generic [ref=e184]: Pantera / Damageplan / Hellyeah
+      - link "View Charlie Benante's gear details" [ref=e186] [cursor=pointer]:
+        - /url: /drummer/12
+        - generic [ref=e187]:
+          - img "Photo of Charlie Benante" [ref=e190]
+          - generic [ref=e191]:
+            - generic [ref=e192]: Charlie Benante
+            - generic [ref=e193]: Anthrax / S.O.D. / Pantera
+      - link "View Mike Portnoy's gear details" [ref=e195] [cursor=pointer]:
+        - /url: /drummer/13
+        - generic [ref=e196]:
+          - img "Photo of Mike Portnoy" [ref=e199]
+          - generic [ref=e200]:
+            - generic [ref=e201]: Mike Portnoy
+            - generic [ref=e202]: Dream Theater / Liquid Tension Experiment / The Winery Dogs
+      - link "View Danny Carey's gear details" [ref=e204] [cursor=pointer]:
+        - /url: /drummer/14
+        - generic [ref=e205]:
+          - img "Photo of Danny Carey" [ref=e208]
+          - generic [ref=e209]:
+            - generic [ref=e210]: Danny Carey
+            - generic [ref=e211]: Tool
+      - link "View Mario Duplantier's gear details" [ref=e213] [cursor=pointer]:
+        - /url: /drummer/15
+        - generic [ref=e214]:
+          - img "Photo of Mario Duplantier" [ref=e217]
+          - generic [ref=e218]:
+            - generic [ref=e219]: Mario Duplantier
+            - generic [ref=e220]: Gojira
+      - link "View Brann Dailor's gear details" [ref=e222] [cursor=pointer]:
+        - /url: /drummer/16
+        - generic [ref=e223]:
+          - img "Photo of Brann Dailor" [ref=e226]
+          - generic [ref=e227]:
+            - generic [ref=e228]: Brann Dailor
+            - generic [ref=e229]: Mastodon
+      - link "View Chris Adler's gear details" [ref=e231] [cursor=pointer]:
+        - /url: /drummer/17
+        - generic [ref=e232]:
+          - img "Photo of Chris Adler" [ref=e235]
+          - generic [ref=e236]:
+            - generic [ref=e237]: Chris Adler
+            - generic [ref=e238]: Lamb of God
+      - link "View Matt Halpern's gear details" [ref=e240] [cursor=pointer]:
+        - /url: /drummer/18
+        - generic [ref=e241]:
+          - img "Photo of Matt Halpern" [ref=e244]
+          - generic [ref=e245]:
+            - generic [ref=e246]: Matt Halpern
+            - generic [ref=e247]: Periphery
+      - link "View Inferno's gear details" [ref=e249] [cursor=pointer]:
+        - /url: /drummer/19
+        - generic [ref=e250]:
+          - img "Photo of Inferno" [ref=e253]
+          - generic [ref=e254]:
+            - generic [ref=e255]: Inferno
+            - generic [ref=e256]: Behemoth
+      - link "View Hellhammer's gear details" [ref=e258] [cursor=pointer]:
+        - /url: /drummer/20
+        - generic [ref=e259]:
+          - img "Photo of Hellhammer" [ref=e262]
+          - generic [ref=e263]:
+            - generic [ref=e264]: Hellhammer
+            - generic [ref=e265]: Mayhem
+      - link "View Pete Sandoval's gear details" [ref=e267] [cursor=pointer]:
+        - /url: /drummer/21
+        - generic [ref=e268]:
+          - img "Photo of Pete Sandoval" [ref=e271]
+          - generic [ref=e272]:
+            - generic [ref=e273]: Pete Sandoval
+            - generic [ref=e274]: Morbid Angel
+      - link "View Art Cruz's gear details" [ref=e276] [cursor=pointer]:
+        - /url: /drummer/22
+        - generic [ref=e277]:
+          - img "Photo of Art Cruz" [ref=e280]
+          - generic [ref=e281]:
+            - generic [ref=e282]: Art Cruz
+            - generic [ref=e283]: Lamb of God
+      - link "View Arin Ilejay's gear details" [ref=e285] [cursor=pointer]:
+        - /url: /drummer/23
+        - generic [ref=e286]:
+          - img "Photo of Arin Ilejay" [ref=e289]
+          - generic [ref=e290]:
+            - generic [ref=e291]: Arin Ilejay
+            - generic [ref=e292]: ex-Avenged Sevenfold
+      - link "View Navene Koperweis's gear details" [ref=e294] [cursor=pointer]:
+        - /url: /drummer/24
+        - generic [ref=e295]:
+          - img "Photo of Navene Koperweis" [ref=e298]
+          - generic [ref=e299]:
+            - generic [ref=e300]: Navene Koperweis
+            - generic [ref=e301]: Entheos / ex-Animals as Leaders
+      - link "View Alex Bent's gear details" [ref=e303] [cursor=pointer]:
+        - /url: /drummer/25
+        - generic [ref=e304]:
+          - img "Photo of Alex Bent" [ref=e307]
+          - generic [ref=e308]:
+            - generic [ref=e309]: Alex Bent
+            - generic [ref=e310]: ex-Trivium / Arkaik / Dragonlord
+      - link "View Shannon Larkin's gear details" [ref=e312] [cursor=pointer]:
+        - /url: /drummer/26
+        - generic [ref=e313]:
+          - img "Photo of Shannon Larkin" [ref=e316]
+          - generic [ref=e317]:
+            - generic [ref=e318]: Shannon Larkin
+            - generic [ref=e319]: Godsmack / Ugly Kid Joe / Amen
+      - link "View Raymond Herrera's gear details" [ref=e321] [cursor=pointer]:
+        - /url: /drummer/27
+        - generic [ref=e322]:
+          - img "Photo of Raymond Herrera" [ref=e325]
+          - generic [ref=e326]:
+            - generic [ref=e327]: Raymond Herrera
+            - generic [ref=e328]: Fear Factory / Arkaea / Brujeria
+      - link "View Morgan Ågren's gear details" [ref=e330] [cursor=pointer]:
+        - /url: /drummer/28
+        - generic [ref=e331]:
+          - img "Photo of Morgan Ågren" [ref=e334]
+          - generic [ref=e335]:
+            - generic [ref=e336]: Morgan Ågren
+            - generic [ref=e337]: Mats/Morgan Band / Kaipa / Fredrik Thordendal's Special Defects
+      - link "View Igor Cavalera's gear details" [ref=e339] [cursor=pointer]:
+        - /url: /drummer/29
+        - generic [ref=e340]:
+          - img "Photo of Igor Cavalera" [ref=e343]
+          - generic [ref=e344]:
+            - generic [ref=e345]: Igor Cavalera
+            - generic [ref=e346]: Sepultura / Cavalera Conspiracy / Soulwax
+      - link "View Bill Ward's gear details" [ref=e348] [cursor=pointer]:
+        - /url: /drummer/30
+        - generic [ref=e349]:
+          - img "Photo of Bill Ward" [ref=e352]
+          - generic [ref=e353]:
+            - generic [ref=e354]: Bill Ward
+            - generic [ref=e355]: Black Sabbath
+      - link "View Nick Augusto's gear details" [ref=e357] [cursor=pointer]:
+        - /url: /drummer/31
+        - generic [ref=e358]:
+          - img "Photo of Nick Augusto" [ref=e361]
+          - generic [ref=e362]:
+            - generic [ref=e363]: Nick Augusto
+            - generic [ref=e364]: ex-Trivium
+      - link "View Chris Turner's gear details" [ref=e366] [cursor=pointer]:
+        - /url: /drummer/32
+        - generic [ref=e367]:
+          - img "Photo of Chris Turner" [ref=e370]
+          - generic [ref=e371]:
+            - generic [ref=e372]: Chris Turner
+            - generic [ref=e373]: Oceans Ate Alaska
+      - link "View Matt Greiner's gear details" [ref=e375] [cursor=pointer]:
+        - /url: /drummer/33
+        - generic [ref=e376]:
+          - img "Photo of Matt Greiner" [ref=e379]
+          - generic [ref=e380]:
+            - generic [ref=e381]: Matt Greiner
+            - generic [ref=e382]: August Burns Red
+      - link "View Blake Richardson's gear details" [ref=e384] [cursor=pointer]:
+        - /url: /drummer/34
+        - generic [ref=e385]:
+          - img "Photo of Blake Richardson" [ref=e388]
+          - generic [ref=e389]:
+            - generic [ref=e390]: Blake Richardson
+            - generic [ref=e391]: Between the Buried and Me
+      - link "View Ben Koller's gear details" [ref=e393] [cursor=pointer]:
+        - /url: /drummer/35
+        - generic [ref=e394]:
+          - img "Photo of Ben Koller" [ref=e397]
+          - generic [ref=e398]:
+            - generic [ref=e399]: Ben Koller
+            - generic [ref=e400]: Converge / Mutoid Man / Killer Be Killed
+      - link "View Flo Mounier's gear details" [ref=e402] [cursor=pointer]:
+        - /url: /drummer/36
+        - generic [ref=e403]:
+          - img "Photo of Flo Mounier" [ref=e406]
+          - generic [ref=e407]:
+            - generic [ref=e408]: Flo Mounier
+            - generic [ref=e409]: Cryptopsy
+      - link "View Jason Bittner's gear details" [ref=e411] [cursor=pointer]:
+        - /url: /drummer/37
+        - generic [ref=e412]:
+          - img "Photo of Jason Bittner" [ref=e415]
+          - generic [ref=e416]:
+            - generic [ref=e417]: Jason Bittner
+            - generic [ref=e418]: Shadows Fall / Overkill / Category 7
+      - link "View Martin Lopez's gear details" [ref=e420] [cursor=pointer]:
+        - /url: /drummer/38
+        - generic [ref=e421]:
+          - img "Photo of Martin Lopez" [ref=e424]
+          - generic [ref=e425]:
+            - generic [ref=e426]: Martin Lopez
+            - generic [ref=e427]: Soen / ex-Opeth
+      - link "View Travis Orbin's gear details" [ref=e429] [cursor=pointer]:
+        - /url: /drummer/39
+        - generic [ref=e430]:
+          - img "Photo of Travis Orbin" [ref=e433]
+          - generic [ref=e434]:
+            - generic [ref=e435]: Travis Orbin
+            - generic [ref=e436]: Darkest Hour / ex-Periphery
+      - link "View Ryan Van Poederooyen's gear details" [ref=e438] [cursor=pointer]:
+        - /url: /drummer/40
+        - generic [ref=e439]:
+          - img "Photo of Ryan Van Poederooyen" [ref=e442]
+          - generic [ref=e443]:
+            - generic [ref=e444]: Ryan Van Poederooyen
+            - generic [ref=e445]: Devin Townsend Project
+      - link "View Nicko McBrain's gear details" [ref=e447] [cursor=pointer]:
+        - /url: /drummer/41
+        - generic [ref=e448]:
+          - img "Photo of Nicko McBrain" [ref=e451]
+          - generic [ref=e452]:
+            - generic [ref=e453]: Nicko McBrain
+            - generic [ref=e454]: Iron Maiden
+      - link "View Scott Travis's gear details" [ref=e456] [cursor=pointer]:
+        - /url: /drummer/42
+        - generic [ref=e457]:
+          - img "Photo of Scott Travis" [ref=e460]
+          - generic [ref=e461]:
+            - generic [ref=e462]: Scott Travis
+            - generic [ref=e463]: Judas Priest
+      - link "View Mikkey Dee's gear details" [ref=e465] [cursor=pointer]:
+        - /url: /drummer/43
+        - generic [ref=e466]:
+          - img "Photo of Mikkey Dee" [ref=e469]
+          - generic [ref=e470]:
+            - generic [ref=e471]: Mikkey Dee
+            - generic [ref=e472]: Scorpions / Motörhead
+      - link "View Derek Roddy's gear details" [ref=e474] [cursor=pointer]:
+        - /url: /drummer/44
+        - generic [ref=e475]:
+          - img "Photo of Derek Roddy" [ref=e478]
+          - generic [ref=e479]:
+            - generic [ref=e480]: Derek Roddy
+            - generic [ref=e481]: Hate Eternal / Nile
+      - link "View Dirk Verbeuren's gear details" [ref=e483] [cursor=pointer]:
+        - /url: /drummer/45
+        - generic [ref=e484]:
+          - img "Photo of Dirk Verbeuren" [ref=e487]
+          - generic [ref=e488]:
+            - generic [ref=e489]: Dirk Verbeuren
+            - generic [ref=e490]: Megadeth
+      - link "View Frost's gear details" [ref=e492] [cursor=pointer]:
+        - /url: /drummer/46
+        - generic [ref=e493]:
+          - img "Photo of Frost" [ref=e496]
+          - generic [ref=e497]:
+            - generic [ref=e498]: Frost
+            - generic [ref=e499]: Satyricon / 1349
+      - link "View Gavin Harrison's gear details" [ref=e501] [cursor=pointer]:
+        - /url: /drummer/47
+        - generic [ref=e502]:
+          - img "Photo of Gavin Harrison" [ref=e505]
+          - generic [ref=e506]:
+            - generic [ref=e507]: Gavin Harrison
+            - generic [ref=e508]: Porcupine Tree / King Crimson
+      - link "View Abe Cunningham's gear details" [ref=e510] [cursor=pointer]:
+        - /url: /drummer/48
+        - generic [ref=e511]:
+          - img "Photo of Abe Cunningham" [ref=e514]
+          - generic [ref=e515]:
+            - generic [ref=e516]: Abe Cunningham
+            - generic [ref=e517]: Deftones
+      - link "View Richard Christy's gear details" [ref=e519] [cursor=pointer]:
+        - /url: /drummer/49
+        - generic [ref=e520]:
+          - img "Photo of Richard Christy" [ref=e523]
+          - generic [ref=e524]:
+            - generic [ref=e525]: Richard Christy
+            - generic [ref=e526]: Death / Iced Earth
+      - link "View Aquiles Priester's gear details" [ref=e528] [cursor=pointer]:
+        - /url: /drummer/50
+        - generic [ref=e529]:
+          - img "Photo of Aquiles Priester" [ref=e532]
+          - generic [ref=e533]:
+            - generic [ref=e534]: Aquiles Priester
+            - generic [ref=e535]: Angra / W.A.S.P.
+      - link "View Paul Mazurkiewicz's gear details" [ref=e537] [cursor=pointer]:
+        - /url: /drummer/51
+        - generic [ref=e538]:
+          - img "Photo of Paul Mazurkiewicz" [ref=e541]
+          - generic [ref=e542]:
+            - generic [ref=e543]: Paul Mazurkiewicz
+            - generic [ref=e544]: Cannibal Corpse
+      - link "View Mike Mangini's gear details" [ref=e546] [cursor=pointer]:
+        - /url: /drummer/52
+        - generic [ref=e547]:
+          - img "Photo of Mike Mangini" [ref=e550]
+          - generic [ref=e551]:
+            - generic [ref=e552]: Mike Mangini
+            - generic [ref=e553]: Dream Theater
+      - link "View Matt Garstka's gear details" [ref=e555] [cursor=pointer]:
+        - /url: /drummer/53
+        - generic [ref=e556]:
+          - img "Photo of Matt Garstka" [ref=e559]
+          - generic [ref=e560]:
+            - generic [ref=e561]: Matt Garstka
+            - generic [ref=e562]: Animals as Leaders
+      - link "View Daniel Erlandsson's gear details" [ref=e564] [cursor=pointer]:
+        - /url: /drummer/54
+        - generic [ref=e565]:
+          - img "Photo of Daniel Erlandsson" [ref=e568]
+          - generic [ref=e569]:
+            - generic [ref=e570]: Daniel Erlandsson
+            - generic [ref=e571]: Arch Enemy
+      - link "View Jaska Raatikainen's gear details" [ref=e573] [cursor=pointer]:
+        - /url: /drummer/55
+        - generic [ref=e574]:
+          - img "Photo of Jaska Raatikainen" [ref=e577]
+          - generic [ref=e578]:
+            - generic [ref=e579]: Jaska Raatikainen
+            - generic [ref=e580]: Children of Bodom
+      - link "View Hannes Grossmann's gear details" [ref=e582] [cursor=pointer]:
+        - /url: /drummer/56
+        - generic [ref=e583]:
+          - img "Photo of Hannes Grossmann" [ref=e586]
+          - generic [ref=e587]:
+            - generic [ref=e588]: Hannes Grossmann
+            - generic [ref=e589]: Obscura / ex-Necrophagist / Alkaloid
+      - link "View Daray's gear details" [ref=e591] [cursor=pointer]:
+        - /url: /drummer/57
+        - generic [ref=e592]:
+          - img "Photo of Daray" [ref=e595]
+          - generic [ref=e596]:
+            - generic [ref=e597]: Daray
+            - generic [ref=e598]: Dimmu Borgir / Vader
+      - link "View Jocke Wallgren's gear details" [ref=e600] [cursor=pointer]:
+        - /url: /drummer/58
+        - generic [ref=e601]:
+          - img "Photo of Jocke Wallgren" [ref=e604]
+          - generic [ref=e605]:
+            - generic [ref=e606]: Jocke Wallgren
+            - generic [ref=e607]: Amon Amarth
+      - link "View Tim Yeung's gear details" [ref=e609] [cursor=pointer]:
+        - /url: /drummer/59
+        - generic [ref=e610]:
+          - img "Photo of Tim Yeung" [ref=e613]
+          - generic [ref=e614]:
+            - generic [ref=e615]: Tim Yeung
+            - generic [ref=e616]: Morbid Angel / Hate Eternal / Vital Remains
+      - link "View Kevin Talley's gear details" [ref=e618] [cursor=pointer]:
+        - /url: /drummer/60
+        - generic [ref=e619]:
+          - img "Photo of Kevin Talley" [ref=e622]
+          - generic [ref=e623]:
+            - generic [ref=e624]: Kevin Talley
+            - generic [ref=e625]: Dying Fetus / Misery Index / Six Feet Under
+  - generic [ref=e626]:
+    - button "Dismiss newsletter panel" [ref=e627] [cursor=pointer]:
+      - generic [ref=e628]: ✕
+    - generic [ref=e629]:
+      - generic [ref=e630]:
+        - generic [ref=e631]: 🥁 Get Gear Updates from the Legends
+        - generic [ref=e632]: Join fellow metal drummers — new gear, pro setups, and exclusive content
+      - generic [ref=e633]:
+        - generic [ref=e634]:
+          - textbox "Email address for newsletter signup" [ref=e635]:
+            - /placeholder: Enter your email
+          - button "Subscribe to newsletter" [ref=e636] [cursor=pointer]: Subscribe
+        - generic [ref=e637] [cursor=pointer]:
+          - checkbox "I agree to receive newsletter emails about gear updates and drummer content. You can unsubscribe anytime. See our Privacy Policy." [ref=e638]
+          - generic [ref=e639]:
+            - text: I agree to receive newsletter emails about gear updates and drummer content. You can unsubscribe anytime. See our
+            - link "Privacy Policy" [ref=e640]:
+              - /url: /privacy
+            - text: .
+```

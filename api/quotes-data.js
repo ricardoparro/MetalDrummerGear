@@ -107,4 +107,4 @@ function getAllQuotes() {
   return allQuotes;
 }
 
-module.exports = { quotesById, getQuotesForDrummer, getAllQuotes };
+export { quotesById, getQuotesForDrummer, getAllQuotes };

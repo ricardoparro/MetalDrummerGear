@@ -30,6 +30,10 @@ import {
 let _top10ListsModule = null;
 let _quizDataModule = null;
 
+// Dynamic import functions for lazy loading
+const loadTop10Lists = () => import('./data/top10Lists');
+const loadQuizData = () => import('./data/quizData');
+
 // Get all top 10 lists (lazy loaded)
 async function getAllTop10ListsAsync() {
   if (!_top10ListsModule) {

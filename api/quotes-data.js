@@ -1,18 +1,18 @@
 // Shared quotes data - indexed by drummer ID for easy lookup
 
 const drummerMetadata = {
-  1: { name: 'Lars Ulrich', band: 'Metallica' },
-  2: { name: 'Joey Jordison', band: 'Slipknot' },
-  3: { name: 'Gene Hoglan', band: 'Death / Testament' },
-  4: { name: 'Dave Lombardo', band: 'Slayer' },
-  5: { name: 'Tomas Haake', band: 'Meshuggah' },
-  6: { name: 'George Kollias', band: 'Nile' },
-  7: { name: 'Eloy Casagrande', band: 'Slipknot' },
-  11: { name: 'Vinnie Paul', band: 'Pantera' },
-  13: { name: 'Mike Portnoy', band: 'Dream Theater' },
-  14: { name: 'Danny Carey', band: 'Tool' },
-  15: { name: 'Mario Duplantier', band: 'Gojira' },
-  16: { name: 'Brann Dailor', band: 'Mastodon' }
+  1: { name: 'Lars Ulrich', band: 'Metallica', image: '/images/drummers/lars-ulrich.webp' },
+  2: { name: 'Joey Jordison', band: 'Slipknot', image: '/images/drummers/joey-jordison.webp' },
+  3: { name: 'Gene Hoglan', band: 'Death / Testament', image: '/images/drummers/gene-hoglan.webp' },
+  4: { name: 'Dave Lombardo', band: 'Slayer', image: '/images/drummers/dave-lombardo.webp' },
+  5: { name: 'Tomas Haake', band: 'Meshuggah', image: '/images/drummers/tomas-haake.webp' },
+  6: { name: 'George Kollias', band: 'Nile', image: '/images/drummers/george-kollias.webp' },
+  7: { name: 'Eloy Casagrande', band: 'Slipknot', image: '/images/drummers/eloy-casagrande.webp' },
+  11: { name: 'Vinnie Paul', band: 'Pantera', image: '/images/drummers/vinnie-paul.webp' },
+  13: { name: 'Mike Portnoy', band: 'Dream Theater', image: '/images/drummers/mike-portnoy.webp' },
+  14: { name: 'Danny Carey', band: 'Tool', image: '/images/drummers/danny-carey.webp' },
+  15: { name: 'Mario Duplantier', band: 'Gojira', image: '/images/drummers/mario-duplantier.webp' },
+  16: { name: 'Brann Dailor', band: 'Mastodon', image: '/images/drummers/brann-dailor.webp' }
 };
 
 const quotesById = {
@@ -98,7 +98,8 @@ function getAllQuotes() {
         drummer: {
           id: id,
           name: meta.name,
-          band: meta.band
+          band: meta.band,
+          image: meta.image
         }
       });
     });

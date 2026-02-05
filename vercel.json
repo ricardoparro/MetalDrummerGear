@@ -116,15 +116,12 @@
       ]
     }
   ],
-  "functions": {
-    "api/**/*.js": {
-      "runtime": "nodejs20.x"
-    }
-  },
   "rewrites": [
     { "source": "/robots.txt", "destination": "/api/robots" },
     { "source": "/sitemap.xml", "destination": "/api/sitemap" },
     { "source": "/llms.txt", "destination": "/llms.txt" },
+    { "source": "/api/drummers/:id", "destination": "/api/drummers/[id]?id=:id" },
+    { "source": "/api/gear/:id", "destination": "/api/gear/[id]?id=:id" },
     { "source": "/:path*", "destination": "/index.html" }
   ]
 }

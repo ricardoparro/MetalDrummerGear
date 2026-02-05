@@ -7,6 +7,7 @@ const TEST_BASE_URL = process.env.CI ? `${BASE_URL}?ci_test=1` : BASE_URL;
 
 module.exports = defineConfig({
   testDir: './e2e',
+  testMatch: '**/*.spec.cjs',
   fullyParallel: true,
   forbidOnly: !!process.env.CI,
   retries: process.env.CI ? 2 : 0,

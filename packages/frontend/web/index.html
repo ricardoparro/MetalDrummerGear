@@ -5,6 +5,19 @@
     <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     
+    <!-- Resource Hints: Reduce HTTP request latency by early DNS/connection -->
+    <!-- Preconnect to critical external domains (DNS + TCP + TLS handshake) -->
+    <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin />
+    <link rel="preconnect" href="https://img.youtube.com" crossorigin />
+    <link rel="preconnect" href="https://ui-avatars.com" crossorigin />
+    
+    <!-- DNS Prefetch for less critical domains -->
+    <link rel="dns-prefetch" href="https://www.youtube.com" />
+    <link rel="dns-prefetch" href="https://www.google-analytics.com" />
+    
+    <!-- Preload critical API endpoint for faster data loading -->
+    <link rel="preload" href="/api/init" as="fetch" crossorigin />
+    
     <!-- SEO Meta Tags -->
     <title>MetalForge - Discover What Pro Metal Drummers Play</title>
     <meta name="description" content="Explore the drum kits, cymbals, and gear used by legendary metal drummers. Discover what Lars Ulrich, Joey Jordison, Dave Lombardo and 50+ pro drummers play, compare setups, and find your perfect gear." />
@@ -27,30 +40,7 @@
     <meta name="twitter:description" content="Explore the drum kits, cymbals, and gear used by legendary metal drummers. Discover what Lars Ulrich, Joey Jordison, Dave Lombardo and 50+ pro drummers play, compare setups, and find your perfect gear." />
     <meta name="twitter:image" content="https://metalforge.io/og-image.png" />
 
-    <!-- Google Analytics (GA4) - Skip for CI tests -->
-    <script>
-      (function() {
-        // Skip GA4 for CI/E2E tests to avoid inflating analytics
-        if (window.location.search.includes('ci_test')) {
-          console.log('[GA4] Skipped - CI test detected');
-          return;
-        }
-        
-        // Load GA4 script dynamically
-        var script = document.createElement('script');
-        script.async = true;
-        script.src = 'https://www.googletagmanager.com/gtag/js?id=G-HKLHH1DCC7';
-        document.head.appendChild(script);
-        
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        window.gtag = gtag;
-        gtag('js', new Date());
-        gtag('config', 'G-HKLHH1DCC7');
-      })();
-    </script>
-    
-    <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
+    <!-- Critical CSS: Inlined for fastest first paint -->
     <style id="expo-reset">
       /* These styles make the body full-height */
       html,
@@ -83,5 +73,37 @@
     </noscript>
     <!-- The root element for your Expo app. -->
     <div id="root"></div>
+    
+    <!-- Google Analytics (GA4) - Deferred to reduce blocking requests -->
+    <!-- Moved to end of body for better page load performance -->
+    <script>
+      // Defer GA4 loading until after page interactive
+      if (typeof requestIdleCallback === 'function') {
+        requestIdleCallback(initGA4);
+      } else {
+        // Fallback for browsers without requestIdleCallback
+        setTimeout(initGA4, 2000);
+      }
+      
+      function initGA4() {
+        // Skip GA4 for CI/E2E tests to avoid inflating analytics
+        if (window.location.search.includes('ci_test')) {
+          console.log('[GA4] Skipped - CI test detected');
+          return;
+        }
+        
+        // Load GA4 script dynamically
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = 'https://www.googletagmanager.com/gtag/js?id=G-HKLHH1DCC7';
+        document.head.appendChild(script);
+        
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        window.gtag = gtag;
+        gtag('js', new Date());
+        gtag('config', 'G-HKLHH1DCC7');
+      }
+    </script>
   </body>
 </html>

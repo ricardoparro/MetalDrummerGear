@@ -2755,3 +2755,6 @@ export default function handler(req, res) {
     id, name, band, genre, country, image
   })));
 }
+
+// Export drummers array for use in combined API endpoints
+export { drummers };

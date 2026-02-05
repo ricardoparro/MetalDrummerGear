@@ -6938,6 +6938,17 @@ function AppContent() {
   const handleSelectDrummer = async (id, skipUrlUpdate = false) => {
     console.log('[DEBUG] handleSelectDrummer called with id:', id);
     setLoadingDetail(true);
+    // Reset all page states so drummer detail view shows
+    setShowQuotes(false);
+    setShowSpotlights(false);
+    setShowList(false);
+    setListSlug(null);
+    setShowGearByBudget(false);
+    setShowGearFinder(false);
+    setShowCompare(false);
+    setShowQuiz(false);
+    setShowPrivacy(false);
+    setSelectedGear(null);
     try {
       const detailUrl = typeof window !== 'undefined' && window.location.hostname !== 'localhost'
         ? `/api/drummers/${id}`

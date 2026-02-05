@@ -1,5 +1,6 @@
-// Top 10 Lists data - extracted for code splitting
-// This file is lazy-loaded only when viewing top 10 lists
+// ==========================================
+// TOP 10 LISTS - Curated drummer rankings
+// ==========================================
 
 export const TOP_10_LISTS = {
   'fastest-metal-drummers': {

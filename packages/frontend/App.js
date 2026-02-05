@@ -6,6 +6,7 @@ import { useState, useEffect, useCallback, useMemo, useRef, lazy, Suspense } fro
 import { getAffiliateLinks, extractPrimaryProduct, getThomannLink, getSweetwaterLink } from './affiliateLinks';
 import { calculateKitCost, formatPrice } from './gearPrices';
 import { getOptimizedImageUrl, optimizeDrummerImages, imageDefaults, IMAGE_WIDTHS } from './imageUtils';
+import { BUDGET_TIERS, getBudgetTier, getBudgetTierEmoji, getBudgetTierLabel, getBudgetTierForPrice } from './data/budgetTiers';
 
 // Import extracted data for code splitting
 import { FILTER_OPTIONS } from './data/filterOptions';
@@ -24,215 +25,57 @@ import {
 const loadTop10Lists = () => import('./data/top10Lists');
 const loadQuizData = () => import('./data/quizData');
 
-// Budget tier configuration with colors and ranges
-const BUDGET_TIERS = {
-  entry: {
-    id: 'entry',
-    label: 'Entry Level',
-    shortLabel: 'Entry',
-    emoji: '🎯',
-    color: '#22c55e',
-    minPrice: 0,
-    maxPrice: 2000,
-    description: 'Great setups for beginners and budget-conscious drummers',
-  },
-  intermediate: {
-    id: 'intermediate',
-    label: 'Intermediate',
-    shortLabel: 'Intermediate',
-    emoji: '🔥',
-    color: '#f59e0b',
-    minPrice: 2000,
-    maxPrice: 5000,
-    description: 'Solid professional-grade gear without breaking the bank',
-  },
-  professional: {
-    id: 'professional',
-    label: 'Professional',
-    shortLabel: 'Pro',
-    emoji: '⭐',
-    color: '#3b82f6',
-    minPrice: 5000,
-    maxPrice: 15000,
-    description: 'High-end setups used by touring professionals',
-  },
-  premium: {
-    id: 'premium',
-    label: 'Premium',
-    shortLabel: 'Premium',
-    emoji: '👑',
-    color: '#a855f7',
-    minPrice: 15000,
-    maxPrice: Infinity,
-    description: 'The absolute best - signature series and custom builds',
-  },
-};
-
-// Get budget tier for a given price (USD)
-function getBudgetTierForPrice(priceUsd) {
-  if (!priceUsd || priceUsd <= 0) return null;
-  for (const tier of Object.values(BUDGET_TIERS)) {
-    if (priceUsd >= tier.minPrice && priceUsd < tier.maxPrice) {
-      return tier.id;
-    }
-  }
-  return 'premium'; // Fallback for very high prices
-}
-
-// Get budget tier for a given price (EUR - converts to USD internally)
-function getBudgetTier(priceEur) {
-  if (!priceEur || priceEur <= 0) return null;
-  // Convert EUR to USD using the rate from gearPrices.js
-  const priceUsd = Math.round(priceEur * 1.08);
-  return getBudgetTierForPrice(priceUsd);
-}
-
-// Get budget tier label
-function getBudgetTierLabel(tierId) {
-  const tier = BUDGET_TIERS[tierId];
-  return tier ? tier.shortLabel : 'Unknown';
-}
-
-// Get budget tier emoji
-function getBudgetTierEmoji(tierId) {
-  const tier = BUDGET_TIERS[tierId];
-  return tier ? tier.emoji : '🥁';
-}
-
-// Get budget tier full info
-function getBudgetTierInfo(tierId) {
-  return BUDGET_TIERS[tierId] || null;
-}
-
-// Get budget tier color
-function getBudgetTierColor(tierId) {
-  const tier = BUDGET_TIERS[tierId];
-  return tier ? tier.color : '#6b7280';
-}
-
-// Format price range for display
-function formatPriceRange(minPrice, maxPrice) {
-  if (maxPrice === Infinity) {
-    return `$${minPrice.toLocaleString()}+`;
-  }
-  return `$${minPrice.toLocaleString()} - $${maxPrice.toLocaleString()}`;
-}
-
 // ==========================================
-// TOP 10 LISTS - Curated drummer rankings
+// TOP 10 LISTS - Loaded dynamically for code splitting
 // ==========================================
+// Data moved to ./data/top10Lists.js for code splitting
+// Use loadTop10Lists() to access
 
-const TOP_10_LISTS = {
-  'fastest-metal-drummers': {
-    slug: 'fastest-metal-drummers',
-    title: 'Top 10 Fastest Metal Drummers',
-    emoji: '⚡',
-    description: 'The speed demons of metal drumming. These drummers are known for their incredible blast beats, rapid double bass, and blistering tempos that push the boundaries of human capability.',
-    seoDescription: 'Discover the fastest metal drummers in the world. From blast beat masters to double bass legends, these drummers define speed in heavy metal.',
-    drummerIds: [6, 19, 21, 5, 15, 7, 17, 20, 25, 22],
-    rankings: {
-      6: { rank: 1, highlight: 'Legendary for 280+ BPM blast beats', reason: 'The fastest feet in death metal with unmatched endurance' },
-      19: { rank: 2, highlight: 'Extreme precision at insane speeds', reason: 'Behemoth\'s relentless blast beat fury' },
-      21: { rank: 3, highlight: 'Pioneer of hyper-speed drumming', reason: 'Set the standard for death metal speed in the 80s' },
-      5: { rank: 4, highlight: 'Polyrhythmic speed master', reason: 'Combines technical precision with blazing double bass' },
-      15: { rank: 5, highlight: 'Progressive speed meets groove', reason: 'Gojira\'s backbone with lightning-fast fills' },
-      7: { rank: 6, highlight: 'Modern speed king', reason: 'Sepultura\'s powerhouse with incredible stamina' },
-      17: { rank: 7, highlight: 'Technical death metal precision', reason: 'Lamb of God\'s groove with bursts of speed' },
-      20: { rank: 8, highlight: 'Black metal velocity', reason: 'Mayhem\'s legendary extreme metal pioneer' },
-      25: { rank: 9, highlight: 'Progressive speed machine', reason: 'Trivium\'s technical prowess and speed' },
-      22: { rank: 10, highlight: 'Thrash revival speed', reason: 'Lamb of God\'s new generation speedster' },
-    },
-  },
-  'death-metal-drummers': {
-    slug: 'death-metal-drummers',
-    title: 'Top 10 Death Metal Drummers',
-    emoji: '💀',
-    description: 'The heaviest hitters in extreme metal. These death metal drummers defined the genre with punishing blast beats, complex patterns, and brutal precision.',
-    seoDescription: 'The greatest death metal drummers of all time. Brutal blast beats, technical precision, and genre-defining performances.',
-    drummerIds: [6, 3, 21, 19, 20, 5, 15, 17, 7, 25],
-    rankings: {
-      6: { rank: 1, highlight: 'The god of death metal drumming', reason: 'Nile\'s technical mastermind with unmatched speed' },
-      3: { rank: 2, highlight: 'The Atomic Clock', reason: 'Death and Dark Angel legend with surgical precision' },
-      21: { rank: 3, highlight: 'Morbid Angel pioneer', reason: 'Defined the death metal drum sound in the late 80s' },
-      19: { rank: 4, highlight: 'Blackened death metal fury', reason: 'Behemoth\'s relentless aggression personified' },
-      20: { rank: 5, highlight: 'Black/death metal crossover', reason: 'Mayhem\'s iconic extreme metal drummer' },
-      5: { rank: 6, highlight: 'Progressive death metal innovator', reason: 'Meshuggah\'s polyrhythmic complexity' },
-      15: { rank: 7, highlight: 'Modern death metal evolution', reason: 'Gojira\'s unique blend of death metal and groove' },
-      17: { rank: 8, highlight: 'Groove-death hybrid master', reason: 'Lamb of God\'s signature sound architect' },
-      7: { rank: 9, highlight: 'Brazilian death/thrash fusion', reason: 'Sepultura\'s intense and technical approach' },
-      25: { rank: 10, highlight: 'Modern technical death', reason: 'Trivium\'s death metal influences shine through' },
-    },
-  },
-  'most-innovative-drummers': {
-    slug: 'most-innovative-drummers',
-    title: 'Top 10 Most Innovative Metal Drummers',
-    emoji: '🎨',
-    description: 'The pioneers who pushed drumming into new territory. These innovative drummers changed the game with unique techniques, unconventional time signatures, and groundbreaking approaches.',
-    seoDescription: 'The most innovative and influential metal drummers who changed drumming forever. Pioneers of new techniques and styles.',
-    drummerIds: [14, 5, 13, 16, 3, 15, 28, 24, 18, 17],
-    rankings: {
-      14: { rank: 1, highlight: 'Polyrhythmic visionary', reason: 'Tool\'s musical genius with unique time signature mastery' },
-      5: { rank: 2, highlight: 'Djent pioneer', reason: 'Meshuggah\'s revolutionary polymetric approach changed metal' },
-      13: { rank: 3, highlight: 'Progressive metal architect', reason: 'Dream Theater\'s technical innovation and showmanship' },
-      16: { rank: 4, highlight: 'Progressive sludge innovator', reason: 'Mastodon\'s creative drumming defies genre boundaries' },
-      3: { rank: 5, highlight: 'Technical precision pioneer', reason: 'Atomic Clock - elevated death metal drumming standards' },
-      15: { rank: 6, highlight: 'Organic metal innovator', reason: 'Gojira\'s unique blend of groove and technicality' },
-      28: { rank: 7, highlight: 'Jazz-metal fusion master', reason: 'Experimental approach crossing genre boundaries' },
-      24: { rank: 8, highlight: 'Electronic-metal hybrid', reason: 'Periphery\'s djent evolution with digital integration' },
-      18: { rank: 9, highlight: 'Modern djent pioneer', reason: 'Periphery\'s technical complexity and groove' },
-      17: { rank: 10, highlight: 'Groove metal evolution', reason: 'Lamb of God\'s signature rhythmic approach' },
-    },
-  },
-  'thrash-metal-drummers': {
-    slug: 'thrash-metal-drummers',
-    title: 'Top 10 Thrash Metal Drummers',
-    emoji: '🔥',
-    description: 'The architects of thrash drumming. These legendary drummers defined the fast, aggressive sound of thrash metal with their relentless double bass and punishing beats.',
-    seoDescription: 'The greatest thrash metal drummers ever. From the Big Four to modern thrash, these drummers defined the genre.',
-    drummerIds: [4, 1, 12, 11, 27, 3, 7, 22, 26, 23],
-    rankings: {
-      4: { rank: 1, highlight: 'Slayer\'s beating heart', reason: 'The definition of thrash drumming intensity' },
-      1: { rank: 2, highlight: 'Metallica\'s foundation', reason: 'Co-founder of the biggest metal band ever' },
-      12: { rank: 3, highlight: 'Anthrax powerhouse', reason: 'Speed and precision defining East Coast thrash' },
-      11: { rank: 4, highlight: 'Pantera/Damageplan legend', reason: 'Groove-thrash hybrid pioneer' },
-      27: { rank: 5, highlight: 'Fear Factory machine', reason: 'Industrial-thrash fusion with mechanical precision' },
-      3: { rank: 6, highlight: 'Testament/Dark Angel master', reason: 'Technical thrash at its finest' },
-      7: { rank: 7, highlight: 'Brazilian thrash fury', reason: 'Sepultura\'s aggressive global thrash sound' },
-      22: { rank: 8, highlight: 'Lamb of God\'s new blood', reason: 'Modern thrash revival energy' },
-      26: { rank: 9, highlight: 'Godsmack\'s power', reason: 'Groove-thrash crossover appeal' },
-      23: { rank: 10, highlight: 'Avenged Sevenfold precision', reason: 'Modern thrash with melodic elements' },
-    },
-  },
-  'drummers-with-budget-friendly-kits': {
-    slug: 'drummers-with-budget-friendly-kits',
-    title: 'Top 10 Pro Drummers with Budget-Friendly Setups',
-    emoji: '💰',
-    description: 'Proof that great drumming doesn\'t require expensive gear. These professional drummers achieve incredible sounds with accessible, budget-conscious equipment choices.',
-    seoDescription: 'Professional metal drummers with affordable gear. Prove you don\'t need expensive equipment to sound great.',
-    drummerIds: [1, 9, 23, 26, 27, 22, 8, 11, 12, 10],
-    rankings: {
-      1: { rank: 1, highlight: 'Minimalist approach', reason: 'Proves simple setups can fill stadiums' },
-      9: { rank: 2, highlight: 'Nu-metal simplicity', reason: 'Limp Bizkit\'s straightforward but effective kit' },
-      23: { rank: 3, highlight: 'Entry-friendly gear', reason: 'Shows beginners the ropes with accessible equipment' },
-      26: { rank: 4, highlight: 'Rock-solid basics', reason: 'Godsmack\'s no-frills powerful approach' },
-      27: { rank: 5, highlight: 'Industrial efficiency', reason: 'Fear Factory\'s precision on modest gear' },
-      22: { rank: 6, highlight: 'Thrash on a budget', reason: 'Lamb of God sound without premium prices' },
-      8: { rank: 7, highlight: 'Arena rock accessible', reason: 'Korn\'s massive sound with practical gear' },
-      11: { rank: 8, highlight: 'Groove over gear', reason: 'Pantera legend focused on feel over flash' },
-      12: { rank: 9, highlight: 'East Coast thrift', reason: 'Anthrax power with sensible equipment' },
-      10: { rank: 10, highlight: 'Modern metal value', reason: 'Slipknot impact with smart gear choices' },
-    },
-  },
-};
+// Dynamic import functions for code splitting
+const loadTop10Lists = () => import('./data/top10Lists.js');
+const loadQuizData = () => import('./data/quizData.js');
 
-// Get list of all top 10 lists
+// State holders for lazy-loaded data
+let _top10ListsModule = null;
+let _quizDataModule = null;
+
+// Get all top 10 lists (lazy loaded)
+async function getAllTop10ListsAsync() {
+  if (!_top10ListsModule) {
+    _top10ListsModule = await loadTop10Lists();
+  }
+  return _top10ListsModule.getAllTop10Lists();
+}
+
+// Get a specific top 10 list by slug (lazy loaded)
+async function getTop10ListBySlugAsync(slug) {
+  if (!_top10ListsModule) {
+    _top10ListsModule = await loadTop10Lists();
+  }
+  return _top10ListsModule.getTop10ListBySlug(slug);
+}
+
+// Synchronous accessors (use after data is loaded)
 function getAllTop10Lists() {
-  return Object.values(TOP_10_LISTS);
+  if (_top10ListsModule) {
+    return _top10ListsModule.getAllTop10Lists();
+  }
+  // Return empty array until loaded
+  return [];
 }
 
-// Get a specific top 10 list by slug
 function getTop10ListBySlug(slug) {
-  return TOP_10_LISTS[slug] || null;
+  if (_top10ListsModule) {
+    return _top10ListsModule.getTop10ListBySlug(slug);
+  }
+  return null;
+}
+
+// Preload top 10 lists when user hovers or when page hints they might navigate
+function preloadTop10Lists() {
+  if (!_top10ListsModule) {
+    loadTop10Lists().then(m => { _top10ListsModule = m; });
+  }
 }
 
 // ==========================================
@@ -525,7 +368,22 @@ function QuotesSection({ quotes, drummerName, theme }) {
 function TopListsSection({ theme, onNavigateToList }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
-  const lists = getAllTop10Lists();
+  const [lists, setLists] = useState([]);
+  const [isLoaded, setIsLoaded] = useState(false);
+
+  // Load top 10 lists data lazily
+  useEffect(() => {
+    loadTop10Lists().then(module => {
+      _top10ListsModule = module;
+      setLists(module.getAllTop10Lists());
+      setIsLoaded(true);
+    });
+  }, []);
+
+  // Don't render until data is loaded
+  if (!isLoaded || lists.length === 0) {
+    return null;
+  }
 
   return (
     <View style={[styles.topListsSection, { backgroundColor: 'transparent' }]}>
@@ -569,7 +427,28 @@ function TopListsSection({ theme, onNavigateToList }) {
 function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
-  const list = getTop10ListBySlug(listSlug);
+  const [list, setList] = useState(null);
+  const [isLoading, setIsLoading] = useState(true);
+
+  // Load list data lazily
+  useEffect(() => {
+    loadTop10Lists().then(module => {
+      _top10ListsModule = module;
+      setList(module.getTop10ListBySlug(listSlug));
+      setIsLoading(false);
+    });
+  }, [listSlug]);
+
+  if (isLoading) {
+    return (
+      <View style={[styles.container, { backgroundColor: theme.background, alignItems: 'center', justifyContent: 'center', paddingTop: 100 }]}>
+        <ActivityIndicator size="large" color={theme.primary} />
+        <Text style={[{ color: theme.secondaryText, marginTop: 16 }]}>
+          Loading list...
+        </Text>
+      </View>
+    );
+  }
 
   if (!list) {
     return (
@@ -5254,418 +5133,39 @@ function GearDetail({ gear, theme, onBack, onSelectDrummer }) {
 // ===============================================
 // QUIZ: "Find Your Match" Drummer Personality Quiz
 // ===============================================
+// Data moved to ./data/quizData.js for code splitting
+// Lazy-loaded when quiz is accessed
 
-// Quiz Questions Data
-const QUIZ_QUESTIONS = [
-  {
-    id: 'genre',
-    question: "What's your preferred metal subgenre?",
-    options: [
-      { value: 'thrash', label: '🤘 Thrash Metal', description: 'Fast riffs, aggressive drumming' },
-      { value: 'death', label: '💀 Death Metal', description: 'Brutal blast beats, technical precision' },
-      { value: 'progressive', label: '🌀 Progressive Metal', description: 'Complex time signatures, musical exploration' },
-      { value: 'nu-metal', label: '🔥 Nu-Metal', description: 'Groovy, hip-hop influenced' },
-      { value: 'black', label: '⚫ Black Metal', description: 'Raw, atmospheric, relentless' },
-      { value: 'groove', label: '💪 Groove Metal', description: 'Heavy grooves, powerful rhythms' },
-    ]
-  },
-  {
-    id: 'tempo',
-    question: "What's your preferred playing tempo?",
-    options: [
-      { value: 'extreme', label: '🚀 Extreme (220+ BPM)', description: 'Blast beats, grindcore speed' },
-      { value: 'fast', label: '⚡ Fast (180-220 BPM)', description: 'Thrash and speed metal territory' },
-      { value: 'medium', label: '🎯 Medium (120-180 BPM)', description: 'Groove-friendly, headbang zone' },
-      { value: 'slow', label: '🌊 Slow & Heavy (<120 BPM)', description: 'Doom, sludge, crushing weight' },
-      { value: 'varied', label: '🔄 All Over the Map', description: 'Love tempo changes and dynamics' },
-    ]
-  },
-  {
-    id: 'style',
-    question: "How would you describe your playing style?",
-    options: [
-      { value: 'speed', label: '⚡ Speed Demon', description: 'Faster is better, blast beats all day' },
-      { value: 'groove', label: '🎯 Groove Master', description: 'Lock in the pocket, make heads bang' },
-      { value: 'technical', label: '🧠 Technical Wizard', description: 'Complex patterns, odd time signatures' },
-      { value: 'power', label: '💥 Power Hitter', description: 'Heavy and loud, shake the stage' },
-      { value: 'versatile', label: '🎭 Versatile Player', description: 'Adapt to any situation' },
-    ]
-  },
-  {
-    id: 'kit',
-    question: "What's your ideal drum kit setup?",
-    options: [
-      { value: 'massive', label: '🏔️ Massive Kit', description: 'Double bass, multiple toms, all the cymbals' },
-      { value: 'minimal', label: '🎯 Minimal Setup', description: 'Just the essentials, stripped down' },
-      { value: 'hybrid', label: '🔌 Hybrid Kit', description: 'Acoustic + electronic triggers' },
-      { value: 'classic', label: '🥁 Classic 4-Piece', description: 'Traditional setup, timeless sound' },
-    ]
-  },
-  {
-    id: 'brand',
-    question: "Which drum brand speaks to you?",
-    options: [
-      { value: 'tama', label: 'Tama', description: 'Precision engineering, versatile sound' },
-      { value: 'pearl', label: 'Pearl', description: 'Industry standard, reliable power' },
-      { value: 'sonor', label: 'Sonor', description: 'German craftsmanship, unique tone' },
-      { value: 'dw', label: 'DW', description: 'Premium quality, custom options' },
-      { value: 'mapex', label: 'Mapex', description: 'Innovation meets value' },
-      { value: 'any', label: "Doesn't matter", description: 'Sound over brand' },
-    ]
-  },
-  {
-    id: 'personality',
-    question: "What drives you as a drummer?",
-    options: [
-      { value: 'pioneer', label: '🚀 Pioneer', description: 'Push boundaries, create new sounds' },
-      { value: 'perfectionist', label: '✨ Perfectionist', description: 'Every note must be precise' },
-      { value: 'showman', label: '🎪 Showman', description: 'Entertain the crowd, visual spectacle' },
-      { value: 'servant', label: '🎵 Song Servant', description: 'Serve the music, support the band' },
-      { value: 'innovator', label: '💡 Innovator', description: 'Experiment with new techniques' },
-    ]
-  },
-  {
-    id: 'era',
-    question: "Which era of metal drumming inspires you most?",
-    options: [
-      { value: '80s', label: '🎸 80s', description: 'Birth of thrash, classic metal' },
-      { value: '90s', label: '📼 90s', description: 'Death metal peak, nu-metal rise' },
-      { value: '2000s', label: '💿 2000s', description: 'Metalcore, djent emergence' },
-      { value: '2010s', label: '📱 2010s+', description: 'Modern technical mastery' },
-    ]
-  },
-];
+// Get quiz questions (lazy loaded)
+async function getQuizQuestionsAsync() {
+  if (!_quizDataModule) {
+    _quizDataModule = await loadQuizData();
+  }
+  return _quizDataModule.QUIZ_QUESTIONS;
+}
 
-// Drummer matching profiles (maps answers to drummer traits)
-const DRUMMER_PROFILES = {
-  1: { // Lars Ulrich
-    genres: ['thrash'],
-    styles: ['power', 'groove'],
-    kits: ['massive', 'classic'],
-    eras: ['80s'],
-    tempos: ['fast', 'medium'],
-    fills: ['power', 'minimal'],
-    doubleBass: ['moderate', 'occasional'],
-  },
-  2: { // Joey Jordison
-    genres: ['nu-metal', 'death'],
-    styles: ['speed', 'technical'],
-    kits: ['massive', 'hybrid'],
-    eras: ['90s', '2000s'],
-    tempos: ['extreme', 'fast'],
-    fills: ['flashy', 'technical'],
-    doubleBass: ['essential', 'important'],
-  },
-  3: { // Gene Hoglan
-    genres: ['death', 'thrash', 'progressive'],
-    styles: ['technical', 'speed'],
-    kits: ['massive'],
-    eras: ['80s', '90s'],
-    tempos: ['extreme', 'fast', 'varied'],
-    fills: ['technical', 'creative'],
-    doubleBass: ['essential', 'important'],
-  },
-  4: { // Dave Lombardo
-    genres: ['thrash'],
-    styles: ['speed', 'power'],
-    kits: ['classic', 'massive'],
-    eras: ['80s'],
-    tempos: ['extreme', 'fast'],
-    fills: ['flashy', 'power'],
-    doubleBass: ['essential', 'important'],
-  },
-  5: { // Tomas Haake
-    genres: ['progressive'],
-    styles: ['technical', 'groove'],
-    kits: ['hybrid', 'massive'],
-    eras: ['90s', '2000s'],
-    tempos: ['medium', 'varied'],
-    fills: ['technical', 'creative'],
-    doubleBass: ['important', 'moderate'],
-  },
-  6: { // George Kollias
-    genres: ['death'],
-    styles: ['speed', 'technical'],
-    kits: ['massive'],
-    eras: ['2000s'],
-    tempos: ['extreme'],
-    fills: ['technical', 'flashy'],
-    doubleBass: ['essential'],
-  },
-  7: { // Eloy Casagrande
-    genres: ['thrash', 'nu-metal'],
-    styles: ['speed', 'versatile'],
-    kits: ['massive'],
-    eras: ['2010s'],
-    tempos: ['extreme', 'fast', 'varied'],
-    fills: ['flashy', 'technical'],
-    doubleBass: ['essential', 'important'],
-  },
-  8: { // Ray Luzier
-    genres: ['nu-metal'],
-    styles: ['groove', 'versatile'],
-    kits: ['classic', 'massive'],
-    eras: ['2000s'],
-    tempos: ['medium', 'varied'],
-    fills: ['creative', 'technical'],
-    doubleBass: ['moderate', 'important'],
-  },
-  9: { // John Otto
-    genres: ['nu-metal'],
-    styles: ['groove'],
-    kits: ['classic'],
-    eras: ['90s'],
-    tempos: ['medium', 'slow'],
-    fills: ['minimal', 'creative'],
-    doubleBass: ['occasional', 'minimal'],
-  },
-  10: { // Jay Weinberg
-    genres: ['nu-metal'],
-    styles: ['power', 'speed'],
-    kits: ['massive'],
-    eras: ['2010s'],
-    tempos: ['fast', 'extreme'],
-    fills: ['power', 'flashy'],
-    doubleBass: ['essential', 'important'],
-  },
-  11: { // Vinnie Paul
-    genres: ['groove', 'thrash'],
-    styles: ['groove', 'power'],
-    kits: ['massive'],
-    eras: ['80s', '90s'],
-    tempos: ['medium', 'fast'],
-    fills: ['power', 'flashy'],
-    doubleBass: ['important', 'essential'],
-  },
-  12: { // Charlie Benante
-    genres: ['thrash'],
-    styles: ['speed', 'technical'],
-    kits: ['classic', 'hybrid'],
-    eras: ['80s'],
-    tempos: ['fast', 'extreme'],
-    fills: ['technical', 'flashy'],
-    doubleBass: ['essential', 'important'],
-  },
-  13: { // Mike Portnoy
-    genres: ['progressive'],
-    styles: ['technical', 'versatile'],
-    kits: ['massive', 'hybrid'],
-    eras: ['80s', '90s', '2000s'],
-    tempos: ['varied', 'fast', 'medium'],
-    fills: ['flashy', 'technical', 'creative'],
-    doubleBass: ['important', 'essential'],
-  },
-  14: { // Danny Carey
-    genres: ['progressive'],
-    styles: ['technical', 'groove'],
-    kits: ['massive', 'hybrid'],
-    eras: ['90s'],
-    tempos: ['medium', 'varied'],
-    fills: ['creative', 'technical'],
-    doubleBass: ['moderate', 'important'],
-  },
-  15: { // Mario Duplantier
-    genres: ['death', 'progressive'],
-    styles: ['power', 'technical'],
-    kits: ['classic', 'massive'],
-    eras: ['2000s'],
-    tempos: ['fast', 'varied'],
-    fills: ['creative', 'power'],
-    doubleBass: ['essential', 'important'],
-  },
-  16: { // Brann Dailor
-    genres: ['progressive', 'groove'],
-    styles: ['technical', 'versatile'],
-    kits: ['classic'],
-    eras: ['2000s'],
-    tempos: ['varied', 'fast'],
-    fills: ['technical', 'creative'],
-    doubleBass: ['moderate', 'occasional'],
-  },
-  17: { // Chris Adler
-    genres: ['groove'],
-    styles: ['groove', 'power'],
-    kits: ['classic', 'massive'],
-    eras: ['2000s'],
-    tempos: ['fast', 'medium'],
-    fills: ['power', 'technical'],
-    doubleBass: ['essential', 'important'],
-  },
-  18: { // Matt Halpern
-    genres: ['progressive'],
-    styles: ['technical', 'groove'],
-    kits: ['hybrid', 'massive'],
-    eras: ['2010s'],
-    tempos: ['medium', 'varied'],
-    fills: ['technical', 'creative'],
-    doubleBass: ['important', 'moderate'],
-  },
-  19: { // Inferno
-    genres: ['black', 'death'],
-    styles: ['speed', 'power'],
-    kits: ['massive'],
-    eras: ['90s'],
-    tempos: ['extreme'],
-    fills: ['flashy', 'power'],
-    doubleBass: ['essential'],
-  },
-  20: { // Hellhammer
-    genres: ['black'],
-    styles: ['speed', 'power'],
-    kits: ['classic'],
-    eras: ['80s', '90s'],
-    tempos: ['extreme', 'fast'],
-    fills: ['power', 'minimal'],
-    doubleBass: ['essential', 'important'],
-  },
-  21: { // Pete Sandoval
-    genres: ['death'],
-    styles: ['speed', 'technical'],
-    kits: ['massive'],
-    eras: ['80s'],
-    tempos: ['extreme'],
-    fills: ['flashy', 'technical'],
-    doubleBass: ['essential'],
-  },
-  22: { // Art Cruz
-    genres: ['groove', 'thrash'],
-    styles: ['power', 'groove'],
-    kits: ['massive'],
-    eras: ['2010s'],
-    tempos: ['fast', 'medium'],
-    fills: ['power', 'flashy'],
-    doubleBass: ['essential', 'important'],
-  },
-  23: { // Arin Ilejay
-    genres: ['thrash', 'progressive'],
-    styles: ['power', 'versatile'],
-    kits: ['classic', 'massive'],
-    eras: ['2010s'],
-    tempos: ['fast', 'medium', 'varied'],
-    fills: ['power', 'technical'],
-    doubleBass: ['important', 'moderate'],
-  },
-  24: { // Navene Koperweis
-    genres: ['progressive', 'death'],
-    styles: ['technical', 'groove'],
-    kits: ['hybrid', 'massive'],
-    eras: ['2010s'],
-    tempos: ['varied', 'medium'],
-    fills: ['creative', 'technical'],
-    doubleBass: ['moderate', 'important'],
-  },
-  25: { // Alex Bent
-    genres: ['thrash', 'death'],
-    styles: ['technical', 'speed'],
-    kits: ['massive'],
-    eras: ['2010s'],
-    tempos: ['extreme', 'fast'],
-    fills: ['technical', 'flashy'],
-    doubleBass: ['essential', 'important'],
-  },
-  26: { // Shannon Larkin
-    genres: ['nu-metal', 'groove'],
-    styles: ['groove', 'power'],
-    kits: ['classic', 'massive'],
-    eras: ['90s', '2000s'],
-    tempos: ['medium', 'slow'],
-    fills: ['power', 'minimal'],
-    doubleBass: ['moderate', 'occasional'],
-  },
-  27: { // Raymond Herrera
-    genres: ['groove', 'death'],
-    styles: ['technical', 'power'],
-    kits: ['massive'],
-    eras: ['90s'],
-    tempos: ['fast', 'extreme'],
-    fills: ['technical', 'power'],
-    doubleBass: ['essential', 'important'],
-  },
-  28: { // Morgan Ågren
-    genres: ['progressive'],
-    styles: ['technical', 'versatile'],
-    kits: ['hybrid', 'classic'],
-    eras: ['90s', '2000s'],
-    tempos: ['varied'],
-    fills: ['creative', 'technical'],
-    doubleBass: ['moderate', 'occasional'],
-  },
-  29: { // Igor Cavalera
-    genres: ['thrash', 'groove', 'death'],
-    styles: ['power', 'groove'],
-    kits: ['classic', 'massive'],
-    eras: ['80s', '90s'],
-    tempos: ['fast', 'medium'],
-    fills: ['power', 'creative'],
-    doubleBass: ['important', 'essential'],
-  },
-  30: { // Bill Ward
-    genres: ['groove'],
-    styles: ['groove', 'versatile'],
-    kits: ['classic'],
-    eras: ['80s'],
-    tempos: ['slow', 'medium'],
-    fills: ['creative', 'minimal'],
-    doubleBass: ['minimal', 'occasional'],
-  },
-};
+// Get quiz questions synchronously (use after data is loaded)
+function getQuizQuestions() {
+  return _quizDataModule ? _quizDataModule.QUIZ_QUESTIONS : [];
+}
 
-// Calculate match scores for all drummers
-function calculateMatches(answers, drummers) {
-  const scores = drummers.map(drummer => {
-    const profile = DRUMMER_PROFILES[drummer.id];
-    if (!profile) return { drummer, score: 0, reasons: [] };
+// Get drummer profiles synchronously (use after data is loaded)
+function getDrummerProfiles() {
+  return _quizDataModule ? _quizDataModule.DRUMMER_PROFILES : {};
+}
 
-    let score = 0;
-    const reasons = [];
+// Calculate matches using lazy-loaded data
+function calculateMatchesSync(answers, drummers) {
+  return _quizDataModule 
+    ? _quizDataModule.calculateMatches(answers, drummers) 
+    : [];
+}
 
-    // Genre match (high weight - 25 points)
-    if (answers.genre && profile.genres.includes(answers.genre)) {
-      score += 25;
-      reasons.push('genre preference');
-    }
-
-    // Tempo match (high weight - 20 points)
-    if (answers.tempo && profile.tempos && profile.tempos.includes(answers.tempo)) {
-      score += 20;
-      reasons.push('tempo preference');
-    }
-
-    // Style match (high weight - 20 points)
-    if (answers.style && profile.styles.includes(answers.style)) {
-      score += 20;
-      reasons.push('playing style');
-    }
-
-    // Fill preference match (medium weight - 12 points)
-    if (answers.fills && profile.fills && profile.fills.includes(answers.fills)) {
-      score += 12;
-      reasons.push('fill style');
-    }
-
-    // Double bass importance match (medium weight - 12 points)
-    if (answers.doubleBass && profile.doubleBass && profile.doubleBass.includes(answers.doubleBass)) {
-      score += 12;
-      reasons.push('double bass approach');
-    }
-
-    // Kit preference match (lower weight - 6 points)
-    if (answers.kit && profile.kits.includes(answers.kit)) {
-      score += 6;
-      reasons.push('kit setup');
-    }
-
-    // Era match (lower weight - 5 points)
-    if (answers.era && profile.eras.includes(answers.era)) {
-      score += 5;
-      reasons.push('era influence');
-    }
-
-    return { drummer, score, reasons };
-  });
-
-  // Sort by score descending
-  return scores.sort((a, b) => b.score - a.score);
+// Preload quiz data when user hovers or when page hints they might navigate
+function preloadQuizData() {
+  if (!_quizDataModule) {
+    loadQuizData().then(m => { _quizDataModule = m; });
+  }
 }
 
 // Track quiz completion in GA4
@@ -5692,16 +5192,27 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
   const [email, setEmail] = useState('');
   const [newsletterStatus, setNewsletterStatus] = useState('idle');
   const [sharedMatch, setSharedMatch] = useState(null);
+  const [quizDataLoaded, setQuizDataLoaded] = useState(false);
+  const [quizQuestions, setQuizQuestions] = useState([]);
+
+  // Load quiz data on mount (lazy loading)
+  useEffect(() => {
+    loadQuizData().then(module => {
+      _quizDataModule = module;
+      setQuizQuestions(module.QUIZ_QUESTIONS);
+      setQuizDataLoaded(true);
+    });
+  }, []);
 
   // Check for shared match in URL on mount
   useEffect(() => {
-    if (drummers.length > 0) {
+    if (drummers.length > 0 && quizDataLoaded) {
       const matchSlug = getQuizMatchFromURL();
       if (matchSlug) {
         const matchedDrummer = findDrummerBySlug(drummers, matchSlug);
         if (matchedDrummer) {
           // Create a result object for the shared match
-          const profile = DRUMMER_PROFILES[matchedDrummer.id];
+          const profile = getDrummerProfiles()[matchedDrummer.id];
           const reasons = profile ? ['shared result'] : [];
           setResults([{ drummer: matchedDrummer, score: 85, reasons }]);
           setShowResults(true);
@@ -5714,9 +5225,9 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
         updateQuizMeta(null, null);
       }
     }
-  }, [drummers]);
+  }, [drummers, quizDataLoaded]);
 
-  const progress = ((currentQuestion + 1) / QUIZ_QUESTIONS.length) * 100;
+  const progress = quizQuestions.length > 0 ? ((currentQuestion + 1) / quizQuestions.length) * 100 : 0;
 
   const handleAnswer = (questionId, value) => {
     const newAnswers = { ...answers, [questionId]: value };
@@ -5724,11 +5235,11 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
 
     // Auto-advance after a short delay
     setTimeout(() => {
-      if (currentQuestion < QUIZ_QUESTIONS.length - 1) {
+      if (currentQuestion < quizQuestions.length - 1) {
         setCurrentQuestion(currentQuestion + 1);
       } else {
-        // Calculate results
-        const matches = calculateMatches(newAnswers, drummers);
+        // Calculate results using lazy-loaded function
+        const matches = calculateMatchesSync(newAnswers, drummers);
         setResults(matches);
         setShowResults(true);
         
@@ -6018,8 +5529,20 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
     );
   }
 
+  // Show loading state while quiz data loads
+  if (!quizDataLoaded || quizQuestions.length === 0) {
+    return (
+      <View style={[styles.quizContainer, { backgroundColor: theme.background, alignItems: 'center', justifyContent: 'center', paddingTop: 100 }]}>
+        <ActivityIndicator size="large" color={theme.primary} />
+        <Text style={[styles.quizSubtitle, { color: theme.secondaryText, marginTop: 16 }]}>
+          Loading quiz...
+        </Text>
+      </View>
+    );
+  }
+
   // Quiz Questions View
-  const question = QUIZ_QUESTIONS[currentQuestion];
+  const question = quizQuestions[currentQuestion];
 
   return (
     <ScrollView style={[styles.quizContainer, { backgroundColor: theme.background }]}>
@@ -6040,7 +5563,7 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
             🥁 Find Your Drummer Match
           </Text>
           <Text style={[styles.quizSubtitle, { color: theme.secondaryText }]}>
-            Answer {QUIZ_QUESTIONS.length} questions to discover which legendary metal drummer matches your style!
+            Answer {quizQuestions.length} questions to discover which legendary metal drummer matches your style!
           </Text>
         </View>
 
@@ -6052,7 +5575,7 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
             />
           </View>
           <Text style={[styles.progressText, { color: theme.secondaryText }]}>
-            Question {currentQuestion + 1} of {QUIZ_QUESTIONS.length}
+            Question {currentQuestion + 1} of {quizQuestions.length}
           </Text>
         </View>
 
@@ -8657,6 +8180,7 @@ const styles = StyleSheet.create({
     height: 120,
     borderRadius: 60,
     marginBottom: 16,
+    aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   topMatchName: {
     fontSize: 24,
@@ -8729,6 +8253,7 @@ const styles = StyleSheet.create({
     height: 48,
     borderRadius: 24,
     marginRight: 12,
+    aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   runnerUpInfo: {
     flex: 1,
@@ -8968,12 +8493,14 @@ const styles = StyleSheet.create({
     height: 80,
     borderRadius: 40,
     marginBottom: 8,
+    aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   compareImageMobile: {
     width: 60,
     height: 60,
     borderRadius: 30,
     marginBottom: 0,
+    aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   compareName: {
     fontSize: 16,
@@ -9260,6 +8787,7 @@ const styles = StyleSheet.create({
     borderRadius: 12,
     marginRight: 20,
     marginBottom: 10,
+    aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   gearDetailHeaderText: {
     flex: 1,
@@ -9340,6 +8868,7 @@ const styles = StyleSheet.create({
     height: 50,
     borderRadius: 25,
     marginRight: 12,
+    aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   usedByText: {
     flex: 1,
@@ -9368,6 +8897,7 @@ const styles = StyleSheet.create({
     height: 100,
     borderRadius: 6,
     marginBottom: 8,
+    aspectRatio: 3 / 2, // Prevent CLS (Issue #248)
   },
   relatedGearName: {
     fontSize: 13,
@@ -9455,6 +8985,7 @@ const styles = StyleSheet.create({
     height: 36,
     borderRadius: 18,
     marginRight: 12,
+    aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   suggestionText: {
     flex: 1,
@@ -9760,8 +9291,10 @@ const styles = StyleSheet.create({
   kitCompareDrummerImage: {
     width: 60,
     height: 60,
+    aspectRatio: 1,
     borderRadius: 30,
     marginRight: 16,
+    aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   kitCompareDrummerInfo: {
     flex: 1,
@@ -10014,11 +9547,14 @@ const styles = StyleSheet.create({
   spotlightImage: {
     width: 140,
     height: 140,
+    aspectRatio: 1,
     borderRadius: 12,
+    aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   spotlightImageMobile: {
     width: 120,
     height: 120,
+    aspectRatio: 1,
     marginBottom: 16,
   },
   spotlightInfo: {
@@ -10150,6 +9686,8 @@ const styles = StyleSheet.create({
   spotlightArchiveImage: {
     width: '100%',
     height: 180,
+    aspectRatio: 16 / 9, // Prevent CLS (Issue #248)
+    aspectRatio: 16 / 9,
   },
   spotlightArchiveInfo: {
     padding: 16,
@@ -10229,8 +9767,10 @@ const styles = StyleSheet.create({
   listItemImage: {
     width: 70,
     height: 70,
+    aspectRatio: 1,
     borderRadius: 35,
     marginHorizontal: 12,
+    aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   listItemInfo: {
     flex: 1,
@@ -10500,6 +10040,7 @@ const styles = StyleSheet.create({
     height: 60,
     borderRadius: 30,
     marginRight: 12,
+    aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   budgetDrummerInfo: {
     flex: 1,
@@ -10614,6 +10155,7 @@ const styles = StyleSheet.create({
     width: 48,
     height: 48,
     borderRadius: 24,
+    aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   quotePageName: {
     fontSize: 16,
@@ -10694,6 +10236,7 @@ const styles = StyleSheet.create({
     height: 50,
     borderRadius: 25,
     marginRight: 10,
+    aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   affordableCardInfo: {
     flex: 1,
@@ -10784,6 +10327,8 @@ const styles = StyleSheet.create({
     height: 60,
     borderRadius: 30,
     marginRight: 12,
+    aspectRatio: 1, // Prevent CLS (Issue #248)
+    aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   similarDrummerInfo: {
     flex: 1,
@@ -10926,6 +10471,7 @@ const styles = StyleSheet.create({
     height: 70,
     borderRadius: 35,
     marginRight: 14,
+    aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   gearFinderResultInfo: {
     flex: 1,
@@ -11096,6 +10642,7 @@ const styles = StyleSheet.create({
     height: 60,
     borderRadius: 30,
     marginRight: 14,
+    aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   topListDrummerInfo: {
     flex: 1,

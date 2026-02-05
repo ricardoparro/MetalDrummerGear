@@ -1,0 +1,40 @@
+// Filter options configuration - extracted for code splitting
+export const FILTER_OPTIONS = {
+  genres: [
+    { value: 'thrash', label: 'Thrash Metal' },
+    { value: 'death', label: 'Death Metal' },
+    { value: 'black', label: 'Black Metal' },
+    { value: 'progressive', label: 'Progressive' },
+    { value: 'nu-metal', label: 'Nu-Metal' },
+    { value: 'groove', label: 'Groove Metal' },
+    { value: 'metalcore', label: 'Metalcore/Djent' },
+    { value: 'hardcore', label: 'Hardcore' },
+  ],
+  brands: [
+    { value: 'tama', label: 'Tama' },
+    { value: 'pearl', label: 'Pearl' },
+    { value: 'dw', label: 'DW' },
+    { value: 'sonor', label: 'Sonor' },
+    { value: 'mapex', label: 'Mapex' },
+    { value: 'ddrum', label: 'ddrum' },
+    { value: 'sjc', label: 'SJC' },
+    { value: 'ocdp', label: 'OCDP' },
+    { value: 'zildjian', label: 'Zildjian' },
+    { value: 'sabian', label: 'Sabian' },
+    { value: 'meinl', label: 'Meinl' },
+    { value: 'paiste', label: 'Paiste' },
+  ],
+  eras: [
+    { value: '80s', label: '80s' },
+    { value: '90s', label: '90s' },
+    { value: '2000s', label: '2000s' },
+    { value: '2010s', label: '2010s' },
+    { value: 'current', label: 'Current' },
+  ],
+  budgets: [
+    { value: 'entry', label: 'Entry Level (<$2K)' },
+    { value: 'intermediate', label: 'Intermediate ($2K-$5K)' },
+    { value: 'professional', label: 'Professional ($5K-$15K)' },
+    { value: 'premium', label: 'Premium ($15K+)' },
+  ],
+};

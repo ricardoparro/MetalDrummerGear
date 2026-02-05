@@ -8667,6 +8667,7 @@ const styles = StyleSheet.create({
     height: 120,
     borderRadius: 60,
     marginBottom: 16,
+    aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   topMatchName: {
     fontSize: 24,
@@ -8739,6 +8740,7 @@ const styles = StyleSheet.create({
     height: 48,
     borderRadius: 24,
     marginRight: 12,
+    aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   runnerUpInfo: {
     flex: 1,
@@ -8978,12 +8980,14 @@ const styles = StyleSheet.create({
     height: 80,
     borderRadius: 40,
     marginBottom: 8,
+    aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   compareImageMobile: {
     width: 60,
     height: 60,
     borderRadius: 30,
     marginBottom: 0,
+    aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   compareName: {
     fontSize: 16,
@@ -9270,6 +9274,7 @@ const styles = StyleSheet.create({
     borderRadius: 12,
     marginRight: 20,
     marginBottom: 10,
+    aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   gearDetailHeaderText: {
     flex: 1,
@@ -9350,6 +9355,7 @@ const styles = StyleSheet.create({
     height: 50,
     borderRadius: 25,
     marginRight: 12,
+    aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   usedByText: {
     flex: 1,
@@ -9378,6 +9384,7 @@ const styles = StyleSheet.create({
     height: 100,
     borderRadius: 6,
     marginBottom: 8,
+    aspectRatio: 3 / 2, // Prevent CLS (Issue #248)
   },
   relatedGearName: {
     fontSize: 13,
@@ -9465,6 +9472,7 @@ const styles = StyleSheet.create({
     height: 36,
     borderRadius: 18,
     marginRight: 12,
+    aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   suggestionText: {
     flex: 1,
@@ -9770,8 +9778,10 @@ const styles = StyleSheet.create({
   kitCompareDrummerImage: {
     width: 60,
     height: 60,
+    aspectRatio: 1,
     borderRadius: 30,
     marginRight: 16,
+    aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   kitCompareDrummerInfo: {
     flex: 1,
@@ -10024,11 +10034,14 @@ const styles = StyleSheet.create({
   spotlightImage: {
     width: 140,
     height: 140,
+    aspectRatio: 1,
     borderRadius: 12,
+    aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   spotlightImageMobile: {
     width: 120,
     height: 120,
+    aspectRatio: 1,
     marginBottom: 16,
   },
   spotlightInfo: {
@@ -10160,6 +10173,8 @@ const styles = StyleSheet.create({
   spotlightArchiveImage: {
     width: '100%',
     height: 180,
+    aspectRatio: 16 / 9, // Prevent CLS (Issue #248)
+    aspectRatio: 16 / 9,
   },
   spotlightArchiveInfo: {
     padding: 16,
@@ -10239,8 +10254,10 @@ const styles = StyleSheet.create({
   listItemImage: {
     width: 70,
     height: 70,
+    aspectRatio: 1,
     borderRadius: 35,
     marginHorizontal: 12,
+    aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   listItemInfo: {
     flex: 1,
@@ -10510,6 +10527,7 @@ const styles = StyleSheet.create({
     height: 60,
     borderRadius: 30,
     marginRight: 12,
+    aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   budgetDrummerInfo: {
     flex: 1,
@@ -10624,6 +10642,7 @@ const styles = StyleSheet.create({
     width: 48,
     height: 48,
     borderRadius: 24,
+    aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   quotePageName: {
     fontSize: 16,
@@ -10704,6 +10723,7 @@ const styles = StyleSheet.create({
     height: 50,
     borderRadius: 25,
     marginRight: 10,
+    aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   affordableCardInfo: {
     flex: 1,
@@ -10794,6 +10814,8 @@ const styles = StyleSheet.create({
     height: 60,
     borderRadius: 30,
     marginRight: 12,
+    aspectRatio: 1, // Prevent CLS (Issue #248)
+    aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   similarDrummerInfo: {
     flex: 1,
@@ -10936,6 +10958,7 @@ const styles = StyleSheet.create({
     height: 70,
     borderRadius: 35,
     marginRight: 14,
+    aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   gearFinderResultInfo: {
     flex: 1,
@@ -11106,6 +11129,7 @@ const styles = StyleSheet.create({
     height: 60,
     borderRadius: 30,
     marginRight: 14,
+    aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   topListDrummerInfo: {
     flex: 1,

@@ -26,6 +26,9 @@ export const IMAGE_WIDTHS = {
   full: 1080,         // Full-width images
 };
 
+// Responsive srcset breakpoints for SEO optimization (Issue #251)
+export const SRCSET_WIDTHS = [400, 800, 1200];
+
 /**
  * Check if a URL should be proxied through our image optimization API
  */
@@ -91,6 +94,44 @@ export function getResponsiveImageSources(originalUrl, widths = [256, 512, 1080]
 }
 
 /**
+ * Generate srcset attribute string for responsive images (Issue #251)
+ * @param {string} originalUrl - The original image URL
+ * @param {number[]} widths - Array of widths to generate (default: 400, 800, 1200)
+ * @returns {string} srcset attribute value
+ */
+export function generateSrcSet(originalUrl, widths = SRCSET_WIDTHS) {
+  if (!originalUrl) return '';
+  
+  return widths
+    .map(width => `${getOptimizedImageUrl(originalUrl, { width })} ${width}w`)
+    .join(', ');
+}
+
+/**
+ * Get sizes attribute for responsive images based on usage context (Issue #251)
+ * @param {'card' | 'detail' | 'gallery' | 'thumbnail'} context - Image usage context
+ * @returns {string} sizes attribute value
+ */
+export function getSizesAttribute(context = 'card') {
+  switch (context) {
+    case 'thumbnail':
+      // Small thumbnails in lists - fixed small size
+      return '60px';
+    case 'card':
+      // Card images - responsive based on card layout
+      return '(max-width: 480px) 100vw, (max-width: 768px) 50vw, 400px';
+    case 'detail':
+      // Detail page hero images - larger on bigger screens
+      return '(max-width: 480px) 100vw, (max-width: 768px) 50vw, 800px';
+    case 'gallery':
+      // Gallery images - medium size with responsive scaling
+      return '(max-width: 480px) 90vw, (max-width: 768px) 45vw, 400px';
+    default:
+      return '(max-width: 768px) 100vw, 800px';
+  }
+}
+
+/**
  * Precomputed optimized URLs for common drummer image sizes
  * Call this when fetching drummer data to pre-optimize URLs
  */
@@ -129,7 +170,10 @@ export const imageDefaults = {
 export default {
   getOptimizedImageUrl,
   getResponsiveImageSources,
+  generateSrcSet,
+  getSizesAttribute,
   optimizeDrummerImages,
   imageDefaults,
   IMAGE_WIDTHS,
+  SRCSET_WIDTHS,
 };

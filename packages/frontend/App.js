@@ -5,7 +5,7 @@ import { ThemeProvider, useTheme } from './ThemeContext';
 import { useState, useEffect, useCallback, useMemo, useRef, lazy, Suspense } from 'react';
 import { getAffiliateLinks, extractPrimaryProduct, getThomannLink, getSweetwaterLink } from './affiliateLinks';
 import { calculateKitCost, formatPrice } from './gearPrices';
-import { getOptimizedImageUrl, optimizeDrummerImages, imageDefaults, IMAGE_WIDTHS } from './imageUtils';
+import { getOptimizedImageUrl, optimizeDrummerImages, imageDefaults, IMAGE_WIDTHS, generateSrcSet, getSizesAttribute, SRCSET_WIDTHS } from './imageUtils';
 
 // Import extracted data for code splitting
 import { FILTER_OPTIONS } from './data/filterOptions';
@@ -850,8 +850,9 @@ const BLUR_HASH = 'L6Pj0^jt.mfQ~qfQfQfQ~qfQfQfQ';
  * @param {boolean} props.priority - If true, loads eagerly (above-fold images)
  * @param {number} props.width - Explicit width for CLS prevention
  * @param {number} props.height - Explicit height for CLS prevention
+ * @param {'card' | 'detail' | 'gallery' | 'thumbnail'} props.imageContext - Context for sizes attribute (Issue #251)
  */
-function ImageWithFallback({ source, style, accessibilityLabel, priority = false, width, height }) {
+function ImageWithFallback({ source, style, accessibilityLabel, priority = false, width, height, imageContext = 'card' }) {
   const [hasError, setHasError] = useState(false);
   
   // Optimize external images through our proxy for CDN caching
@@ -864,6 +865,15 @@ function ImageWithFallback({ source, style, accessibilityLabel, priority = false
   }, [source?.uri, width]);
   
   const [imageUri, setImageUri] = useState(optimizedUri);
+
+  // Generate srcset for responsive images (Issue #251)
+  const srcSet = useMemo(() => {
+    const uri = source?.uri;
+    if (!uri || uri.startsWith('/images/') || hasError) return '';
+    return generateSrcSet(uri, SRCSET_WIDTHS);
+  }, [source?.uri, hasError]);
+
+  const sizes = useMemo(() => getSizesAttribute(imageContext), [imageContext]);
 
   useEffect(() => {
     setImageUri(optimizedUri);
@@ -881,6 +891,29 @@ function ImageWithFallback({ source, style, accessibilityLabel, priority = false
   const imageStyle = width && height 
     ? [{ width, height }, style]
     : style;
+
+  // On web, use native img tag with srcset for SEO (Issue #251)
+  if (Platform.OS === 'web' && srcSet && !hasError) {
+    const flatStyle = StyleSheet.flatten(imageStyle) || {};
+    return (
+      <img
+        src={imageUri}
+        srcSet={srcSet}
+        sizes={sizes}
+        alt={accessibilityLabel || ''}
+        loading={priority ? 'eager' : 'lazy'}
+        decoding="async"
+        onError={handleError}
+        style={{
+          width: flatStyle.width || width,
+          height: flatStyle.height || height,
+          objectFit: 'cover',
+          borderRadius: flatStyle.borderRadius,
+          ...flatStyle,
+        }}
+      />
+    );
+  }
 
   return (
     <Image
@@ -1326,6 +1359,7 @@ function DrummerCard({ drummer, theme, onPress, index = 0 }) {
           priority={isAboveFold}
           width={60}
           height={60}
+          imageContext="thumbnail"
         />
       </View>
       <View style={styles.cardText}>
@@ -2213,6 +2247,7 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
             priority={true}
             width={120}
             height={120}
+            imageContext="detail"
           />
           <View style={styles.detailHeaderText}>
             <Text style={[styles.detailName, { color: theme.text }]} accessibilityRole="header">{drummer.name}</Text>
@@ -2275,6 +2310,7 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
                 accessibilityLabel={`${drummer.name} photo ${index + 1}`}
                 width={200}
                 height={150}
+                imageContext="gallery"
               />
             ))}
           </ScrollView>

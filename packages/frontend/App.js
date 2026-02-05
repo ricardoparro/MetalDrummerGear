@@ -2,62 +2,29 @@ import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View, FlatList, ActivityIndicator, TouchableOpacity, ScrollView, Linking, Platform, useWindowDimensions, TextInput } from 'react-native';
 import { Image } from 'expo-image';
 import { ThemeProvider, useTheme } from './ThemeContext';
-import { useState, useEffect, useCallback, useMemo, useRef } from 'react';
+import { useState, useEffect, useCallback, useMemo, useRef, lazy, Suspense } from 'react';
 import { getAffiliateLinks, extractPrimaryProduct, getThomannLink, getSweetwaterLink } from './affiliateLinks';
 import { calculateKitCost, formatPrice } from './gearPrices';
 import { getOptimizedImageUrl, optimizeDrummerImages, imageDefaults, IMAGE_WIDTHS } from './imageUtils';
-import { BUDGET_TIERS, getBudgetTier, getBudgetTierEmoji, getBudgetTierLabel, getBudgetTierForPrice } from './data/budgetTiers';
 
-// Filter options configuration
-const FILTER_OPTIONS = {
-  genres: [
-    { value: 'thrash', label: 'Thrash Metal' },
-    { value: 'death', label: 'Death Metal' },
-    { value: 'black', label: 'Black Metal' },
-    { value: 'progressive', label: 'Progressive' },
-    { value: 'nu-metal', label: 'Nu-Metal' },
-    { value: 'groove', label: 'Groove Metal' },
-    { value: 'metalcore', label: 'Metalcore/Djent' },
-    { value: 'hardcore', label: 'Hardcore' },
-  ],
-  brands: [
-    { value: 'tama', label: 'Tama' },
-    { value: 'pearl', label: 'Pearl' },
-    { value: 'dw', label: 'DW' },
-    { value: 'sonor', label: 'Sonor' },
-    { value: 'mapex', label: 'Mapex' },
-    { value: 'ddrum', label: 'ddrum' },
-    { value: 'sjc', label: 'SJC' },
-    { value: 'ocdp', label: 'OCDP' },
-    { value: 'zildjian', label: 'Zildjian' },
-    { value: 'sabian', label: 'Sabian' },
-    { value: 'meinl', label: 'Meinl' },
-    { value: 'paiste', label: 'Paiste' },
-  ],
-  eras: [
-    { value: '80s', label: '80s' },
-    { value: '90s', label: '90s' },
-    { value: '2000s', label: '2000s' },
-    { value: '2010s', label: '2010s' },
-    { value: 'current', label: 'Current' },
-  ],
-  budgets: [
-    { value: 'entry', label: 'Entry Level (<$2K)' },
-    { value: 'intermediate', label: 'Intermediate ($2K-$5K)' },
-    { value: 'professional', label: 'Professional ($5K-$15K)' },
-    { value: 'premium', label: 'Premium ($15K+)' },
-  ],
-};
+// Import extracted data for code splitting
+import { FILTER_OPTIONS } from './data/filterOptions';
+import { 
+  BUDGET_TIERS, 
+  getBudgetTierForPrice, 
+  getBudgetTier, 
+  getBudgetTierLabel, 
+  getBudgetTierEmoji, 
+  getBudgetTierInfo, 
+  getBudgetTierColor, 
+  formatPriceRange 
+} from './data/budgetTiers';
 
 // ==========================================
 // TOP 10 LISTS - Loaded dynamically for code splitting
 // ==========================================
 // Data moved to ./data/top10Lists.js for code splitting
 // Use loadTop10Lists() to access
-
-// Dynamic import functions for code splitting
-const loadTop10Lists = () => import('./data/top10Lists.js');
-const loadQuizData = () => import('./data/quizData.js');
 
 // State holders for lazy-loaded data
 let _top10ListsModule = null;
@@ -927,6 +894,11 @@ function ImageWithFallback({ source, style, accessibilityLabel, priority = false
 }
 
 // Use relative URL for Vercel serverless, fallback to localhost for dev
+// INIT_API_URL provides combined data to reduce initial HTTP requests (SEO optimization)
+const INIT_API_URL = typeof window !== 'undefined' && window.location.hostname !== 'localhost'
+  ? '/api/init'
+  : 'http://localhost:3001/api/init';
+
 const API_URL = typeof window !== 'undefined' && window.location.hostname !== 'localhost'
   ? '/api/drummers'
   : 'http://localhost:3001/api/drummers';
@@ -6722,17 +6694,26 @@ function AppContent() {
   }, []);
 
   useEffect(() => {
-    const fetchDrummers = async () => {
+    const fetchInitialData = async () => {
       try {
         setLoadingDrummers(true);
         setDrummersError(null);
-        const response = await fetch(API_URL);
+        // Use combined init endpoint to reduce HTTP requests (SEO optimization)
+        const response = await fetch(INIT_API_URL);
         if (!response.ok) {
-          throw new Error('Failed to fetch drummers');
+          // Fallback to legacy endpoint if init fails
+          const fallbackResponse = await fetch(API_URL);
+          if (!fallbackResponse.ok) {
+            throw new Error('Failed to fetch drummers');
+          }
+          const data = await fallbackResponse.json();
+          const optimizedData = data.map(drummer => optimizeDrummerImages(drummer));
+          setDrummers(optimizedData);
+          return;
         }
-        const data = await response.json();
+        const { drummers: drummersData } = await response.json();
         // Optimize images for all drummers to reduce bandwidth
-        const optimizedData = data.map(drummer => optimizeDrummerImages(drummer));
+        const optimizedData = drummersData.map(drummer => optimizeDrummerImages(drummer));
         setDrummers(optimizedData);
       } catch (err) {
         setDrummersError(err.message);
@@ -6740,7 +6721,7 @@ function AppContent() {
         setLoadingDrummers(false);
       }
     };
-    fetchDrummers();
+    fetchInitialData();
   }, []);
 
   // Handle browser back/forward navigation

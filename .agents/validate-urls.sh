@@ -39,7 +39,15 @@ for arg in "$@"; do
 done
 
 PROJECT_DIR="${PROJECT_DIR:-$(pwd)}"
-DATA_FILE="$PROJECT_DIR/packages/backend/src/index.js"
+# Primary data file - check api/drummers/index.js first, fall back to backend
+if [ -f "$PROJECT_DIR/api/drummers/index.js" ]; then
+    DATA_FILE="$PROJECT_DIR/api/drummers/index.js"
+elif [ -f "$PROJECT_DIR/packages/backend/src/index.js" ]; then
+    DATA_FILE="$PROJECT_DIR/packages/backend/src/index.js"
+else
+    echo "ERROR: Could not find drummer data file"
+    exit 1
+fi
 
 RED='\033[0;31m'
 GREEN='\033[0;32m'

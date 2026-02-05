@@ -26,6 +26,9 @@ export const IMAGE_WIDTHS = {
   full: 1080,         // Full-width images
 };
 
+// Standard srcset widths for responsive images
+export const SRCSET_WIDTHS = [400, 800, 1200];
+
 /**
  * Check if a URL should be proxied through our image optimization API
  */
@@ -91,6 +94,37 @@ export function getResponsiveImageSources(originalUrl, widths = [256, 512, 1080]
 }
 
 /**
+ * Generate srcset string for responsive images
+ * @param {string} originalUrl - The original image URL  
+ * @param {number[]} widths - Array of widths (default: SRCSET_WIDTHS)
+ * @returns {string} srcset string for <img> tag
+ */
+export function generateSrcSet(originalUrl, widths = SRCSET_WIDTHS) {
+  if (!originalUrl) return '';
+  return widths.map(w => `${getOptimizedImageUrl(originalUrl, { width: w })} ${w}w`).join(', ');
+}
+
+/**
+ * Get sizes attribute for responsive images based on context
+ * @param {string} context - Image context: 'thumbnail', 'card', 'detail', 'gallery'
+ * @returns {string} sizes attribute value
+ */
+export function getSizesAttribute(context = 'card') {
+  switch (context) {
+    case 'thumbnail':
+      return '60px';
+    case 'card':
+      return '(max-width: 480px) 100vw, (max-width: 768px) 50vw, 400px';
+    case 'detail':
+      return '(max-width: 480px) 100vw, (max-width: 768px) 50vw, 800px';
+    case 'gallery':
+      return '(max-width: 480px) 90vw, (max-width: 768px) 45vw, 400px';
+    default:
+      return '(max-width: 768px) 100vw, 800px';
+  }
+}
+
+/**
  * Precomputed optimized URLs for common drummer image sizes
  * Call this when fetching drummer data to pre-optimize URLs
  */
@@ -129,7 +163,10 @@ export const imageDefaults = {
 export default {
   getOptimizedImageUrl,
   getResponsiveImageSources,
+  generateSrcSet,
+  getSizesAttribute,
   optimizeDrummerImages,
   imageDefaults,
   IMAGE_WIDTHS,
+  SRCSET_WIDTHS,
 };

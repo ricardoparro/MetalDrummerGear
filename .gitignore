@@ -32,3 +32,4 @@ coverage/
 *.tgz
 .cache/
 .vercel
+.env*.local

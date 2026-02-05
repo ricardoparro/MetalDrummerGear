@@ -200,7 +200,7 @@ async function main() {
     for (const pattern of photoPatterns) {
       updatedContent = updatedContent.replace(
         pattern,
-        `$1'/images/drummers/${slug}.jpg' // Original: ${photoUrl}$2`
+        `$1'/images/drummers/${slug}.webp' // Original: ${photoUrl}$2`
       );
     }
   }
@@ -216,7 +216,7 @@ async function main() {
       if (updatedContent.match(emptyPattern)) {
         updatedContent = updatedContent.replace(
           emptyPattern,
-          `$1\n      '/images/drummers/${slug}.jpg' // Original: ${url}\n    ]`
+          `$1\n      '/images/drummers/${slug}.webp' // Original: ${url}\n    ]`
         );
       }
     }
@@ -226,8 +226,8 @@ async function main() {
   for (const drummer of drummers) {
     const slug = slugMap[drummer.id];
     updatedContent = updatedContent.replace(
-      new RegExp(`(id:\\s*${drummer.id},[\\s\\S]*?image:\\s*)'/images/drummers/${drummer.id}\\.jpg'`, 'g'),
-      `$1'/images/drummers/${slug}.jpg'`
+      new RegExp(`(id:\\s*${drummer.id},[\\s\\S]*?image:\\s*)'/images/drummers/${drummer.id}\\.webp'`, 'g'),
+      `$1'/images/drummers/${slug}.webp'`
     );
   }
   

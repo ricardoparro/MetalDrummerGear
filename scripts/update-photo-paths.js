@@ -90,7 +90,7 @@ for (const r of replacements) {
 for (const drummer of drummers) {
   const slug = slugify(drummer.name);
   const numericPattern = new RegExp(`(image: )'\/images\/drummers\/${drummer.id}\\.jpg'`, 'g');
-  content = content.replace(numericPattern, `$1'/images/drummers/${slug}.jpg'`);
+  content = content.replace(numericPattern, `$1'/images/drummers/${slug}.webp'`);
 }
 
 // Handle drummers 51-60 that might have empty photos arrays

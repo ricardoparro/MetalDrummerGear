@@ -497,6 +497,7 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
                 accessibilityLabel={`Photo of ${drummer.name}`}
                 width={60}
                 height={60}
+                imageContext="thumbnail"
               />
               <View style={styles.topListDrummerInfo}>
                 <Text style={[styles.topListDrummerName, { color: theme.text }]}>{drummer.name}</Text>
@@ -2133,6 +2134,7 @@ function SimilarDrummersSection({ drummer, allDrummers, theme, onSelectDrummer }
                     accessibilityLabel={`Photo of ${similarDrummer.name}`}
                     width={60}
                     height={60}
+                    imageContext="thumbnail"
                   />
                   <View style={styles.similarDrummerInfo}>
                     <Text style={[styles.similarDrummerName, { color: theme.text }]} numberOfLines={1}>
@@ -2178,8 +2180,9 @@ function SimilarDrummersSection({ drummer, allDrummers, theme, onSelectDrummer }
                 accessibilityLabel={`Photo of ${similarDrummer.name}`}
                 width={60}
                 height={60}
+                imageContext="thumbnail"
               />
-              <View style={styles.similarDrummerInfo}>
+              <View style={styles.similarDrummerInfo}
                 <Text style={[styles.similarDrummerName, { color: theme.text }]} numberOfLines={1}>
                   {similarDrummer.name}
                 </Text>
@@ -2310,6 +2313,7 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
                 accessibilityLabel={`${drummer.name} photo ${index + 1}`}
                 width={200}
                 height={150}
+                imageContext="gallery"
               />
             ))}
           </ScrollView>
@@ -3219,6 +3223,7 @@ function CompareYourKitModal({ drummer, theme, onClose }) {
             accessibilityLabel={`Photo of ${drummer.name}`}
             width={60}
             height={60}
+            imageContext="thumbnail"
           />
           <View style={styles.kitCompareDrummerInfo}>
             <Text style={[styles.kitCompareDrummerName, { color: theme.text }]}>{drummer.name}</Text>
@@ -3595,6 +3600,7 @@ function CompareView({ theme, onBack, drummers, onNavigateToCompare }) {
                   accessibilityLabel={`Photo of ${drummer.name}`}
                   width={isMobile ? 60 : 80}
                   height={isMobile ? 60 : 80}
+                  imageContext="thumbnail"
                 />
                 <Text style={[styles.compareName, { color: theme.text }]} numberOfLines={1}>{drummer.name}</Text>
                 <Text style={[styles.compareBand, { color: theme.secondaryText }]} numberOfLines={1}>{drummer.band}</Text>
@@ -4009,6 +4015,7 @@ function GearByBudgetPage({ theme, onBack, drummers, onSelectDrummer }) {
                       accessibilityLabel={`Photo of ${drummer.name}`}
                       width={60}
                       height={60}
+                      imageContext="thumbnail"
                     />
                     <View style={styles.budgetDrummerInfo}>
                       <Text style={[styles.budgetDrummerName, { color: theme.text }]} numberOfLines={1}>
@@ -4304,8 +4311,9 @@ function GearFinderPage({ theme, onBack, drummers, onSelectDrummer }) {
                       accessibilityLabel={`Photo of ${result.name}`}
                       width={70}
                       height={70}
+                      imageContext="thumbnail"
                     />
-                    <View style={styles.gearFinderResultInfo}>
+                    <View style={styles.gearFinderResultInfo>
                       <Text style={[styles.gearFinderResultName, { color: theme.text }]} numberOfLines={1}>
                         {result.name}
                       </Text>
@@ -4530,6 +4538,7 @@ function QuotesPage({ theme, onBack, onSelectDrummer }) {
                     accessibilityLabel={`Photo of ${quote.drummer.name}`}
                     width={48}
                     height={48}
+                    imageContext="thumbnail"
                   />
                   <View>
                     <Text style={[styles.quotePageName, { color: theme.text }]}>
@@ -5016,6 +5025,7 @@ function GearDetail({ gear, theme, onBack, onSelectDrummer }) {
           accessibilityLabel={`Photo of ${gear.name}`}
           width={150}
           height={150}
+          imageContext="detail"
         />
         <View style={styles.gearDetailHeaderText}>
           <View style={[styles.gearCategoryBadge, { backgroundColor: theme.card, borderColor: theme.border }]}>
@@ -5108,6 +5118,7 @@ function GearDetail({ gear, theme, onBack, onSelectDrummer }) {
                   accessibilityLabel={`Photo of ${drummer.name}`}
                   width={50}
                   height={50}
+                  imageContext="thumbnail"
                 />
                 <View style={styles.usedByText}>
                   <Text style={[styles.usedByName, { color: theme.text }]}>{drummer.name}</Text>
@@ -6090,6 +6101,7 @@ function CompareYourKitView({ theme, onBack, drummer, onSelectDrummer }) {
               accessibilityLabel={`Photo of ${drummer.name}`}
               width={60}
               height={60}
+              imageContext="thumbnail"
             />
             <Text style={[styles.compareKitResultsTitle, { color: theme.text }]}>
               Your Kit vs {drummer.name}
@@ -6187,6 +6199,7 @@ function CompareYourKitView({ theme, onBack, drummer, onSelectDrummer }) {
             accessibilityLabel={`Photo of ${drummer.name}`}
             width={60}
             height={60}
+            imageContext="thumbnail"
           />
           <View style={styles.compareKitDrummerInfo}>
             <Text style={[styles.compareKitDrummerName, { color: theme.text }]}>{drummer.name}</Text>

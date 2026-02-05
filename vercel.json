@@ -1,5 +1,5 @@
 {
-  "buildCommand": "cd packages/frontend && npx expo export --platform web && node scripts/inject-ga.js && cp -r ../../public/* dist/",
+  "buildCommand": "cd packages/frontend && npx expo export --platform web && node scripts/inject-ga.cjs && cp -r ../../public/* dist/",
   "outputDirectory": "packages/frontend/dist",
   "installCommand": "npm install",
   "framework": null,

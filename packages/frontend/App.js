@@ -1359,6 +1359,7 @@ function DrummerCard({ drummer, theme, onPress, index = 0 }) {
           priority={isAboveFold}
           width={60}
           height={60}
+          imageContext="thumbnail"
         />
       </View>
       <View style={styles.cardText}>
@@ -2246,6 +2247,7 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
             priority={true}
             width={120}
             height={120}
+            imageContext="detail"
           />
           <View style={styles.detailHeaderText}>
             <Text style={[styles.detailName, { color: theme.text }]} accessibilityRole="header">{drummer.name}</Text>

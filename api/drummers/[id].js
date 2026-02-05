@@ -1,6 +1,6 @@
 // Vercel Serverless Function - Get drummer by ID
 
-const { getQuotesForDrummer } = require('../quotes-data.js');
+const { getQuotesForDrummer } = require('./quotes-data.js');
 
 const drummers = [
   {

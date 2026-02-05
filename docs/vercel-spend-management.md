@@ -92,11 +92,52 @@ Key areas to monitor:
 
 Based on usage data, consider:
 
-- [ ] **Caching** - Add cache headers to static assets
+- [x] **Caching** - Add cache headers to static assets ✅ Configured
 - [ ] **Image Optimization** - Use next/image or optimize before upload
 - [ ] **API Efficiency** - Reduce payload sizes, batch requests
 - [ ] **Edge Functions** - Move compute closer to users
 - [ ] **Regional Routing** - Serve from optimal regions
+
+## CDN Cache Headers Configuration
+
+All static assets are served from Vercel's edge CDN with aggressive caching headers configured in `vercel.json`.
+
+### Current Cache Header Rules
+
+| Resource Pattern | Cache-Control Value | Purpose |
+|-----------------|---------------------|---------|
+| `/images/(.*)` | `public, max-age=31536000, s-maxage=31536000, immutable` | Drummer photos and static images |
+| `/(.*).js` | `public, max-age=31536000, immutable` | JavaScript bundles |
+| `/(.*).css` | `public, max-age=31536000, immutable` | CSS stylesheets |
+| `/_expo/static/(.*)` | `public, max-age=31536000, immutable` | Expo static assets |
+| `/assets/(.*)` | `public, max-age=31536000, immutable` | General assets |
+| `/api/image(.*)` | `public, max-age=31536000, s-maxage=31536000, stale-while-revalidate=604800, immutable` | Image API responses |
+| `/api/drummers(.*)` | `public, s-maxage=3600, stale-while-revalidate=86400` | API data (1hr edge cache) |
+| `/api/gear(.*)` | `public, s-maxage=3600, stale-while-revalidate=86400` | API data (1hr edge cache) |
+| `/(.*)`  | `public, s-maxage=86400, stale-while-revalidate=604800` | Catch-all (24hr edge cache) |
+
+### Cache Header Meanings
+
+- **`max-age=31536000`** - Browser caches for 1 year (365 days)
+- **`s-maxage=31536000`** - CDN edge caches for 1 year
+- **`immutable`** - Asset never changes; browser skips revalidation requests
+- **`stale-while-revalidate`** - Serve stale content while fetching fresh in background
+
+### Benefits
+
+1. **Reduced bandwidth costs** - Returning visitors load from browser cache
+2. **Lower latency** - Assets served from nearest edge location
+3. **Better SEO scores** - Fast loading improves Core Web Vitals
+4. **Reduced origin load** - Edge handles most requests
+
+### Verification
+
+Test cache headers with:
+```bash
+curl -I https://metalforge.io/images/drummers/lars-ulrich.webp | grep -i cache
+```
+
+Expected output should include `Cache-Control: public, max-age=31536000`
 
 ## Current Configuration (MetalDrummerGear)
 

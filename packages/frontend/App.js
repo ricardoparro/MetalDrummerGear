@@ -6,7 +6,6 @@ import { useState, useEffect, useCallback, useMemo, useRef, lazy, Suspense } fro
 import { getAffiliateLinks, extractPrimaryProduct, getThomannLink, getSweetwaterLink } from './affiliateLinks';
 import { calculateKitCost, formatPrice } from './gearPrices';
 import { getOptimizedImageUrl, optimizeDrummerImages, imageDefaults, IMAGE_WIDTHS } from './imageUtils';
-import { BUDGET_TIERS, getBudgetTier, getBudgetTierEmoji, getBudgetTierLabel, getBudgetTierForPrice } from './data/budgetTiers';
 
 // Import extracted data for code splitting
 import { FILTER_OPTIONS } from './data/filterOptions';
@@ -21,19 +20,11 @@ import {
   formatPriceRange 
 } from './data/budgetTiers';
 
-// Lazy-loaded data (only load when needed)
-const loadTop10Lists = () => import('./data/top10Lists');
-const loadQuizData = () => import('./data/quizData');
-
 // ==========================================
 // TOP 10 LISTS - Loaded dynamically for code splitting
 // ==========================================
 // Data moved to ./data/top10Lists.js for code splitting
 // Use loadTop10Lists() to access
-
-// Dynamic import functions for code splitting
-const loadTop10Lists = () => import('./data/top10Lists.js');
-const loadQuizData = () => import('./data/quizData.js');
 
 // State holders for lazy-loaded data
 let _top10ListsModule = null;

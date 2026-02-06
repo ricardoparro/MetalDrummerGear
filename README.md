@@ -61,6 +61,21 @@ packages/
 .ralph/         # Ralph agent configuration
 ```
 
+## Newsletter Email Configuration
+
+The newsletter subscription sends welcome emails via [Resend](https://resend.com). To enable:
+
+1. Create a Resend account at https://resend.com
+2. Add your domain or use the free tier with `onboarding@resend.dev`
+3. Set environment variables in Vercel:
+
+```bash
+RESEND_API_KEY=re_xxxxx          # Your Resend API key
+RESEND_FROM_EMAIL=MetalForge <noreply@metalforge.io>  # Optional, defaults shown
+```
+
+Without `RESEND_API_KEY`, subscriptions still work but no welcome email is sent.
+
 ## Documentation
 
 - [Vercel Spend Management](docs/vercel-spend-management.md) - Cost controls and usage alerts setup

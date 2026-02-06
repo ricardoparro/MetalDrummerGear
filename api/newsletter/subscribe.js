@@ -1,5 +1,7 @@
 // Vercel Serverless Function - Newsletter Subscription
-// Stores emails with rate limiting, validation, and GDPR compliance
+// Stores emails with rate limiting, validation, GDPR compliance, and sends welcome email
+
+import { Resend } from 'resend';
 
 // Common disposable email domains to reject
 const DISPOSABLE_DOMAINS = new Set([
@@ -78,6 +80,141 @@ async function getKV() {
     console.log('KV not available:', e.message);
   }
   return null;
+}
+
+// Generate welcome email HTML
+function getWelcomeEmailHtml(email) {
+  return `
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome to MetalForge!</title>
+</head>
+<body style="margin: 0; padding: 0; background-color: #1a1a1a; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;">
+  <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="background-color: #1a1a1a;">
+    <tr>
+      <td style="padding: 40px 20px;">
+        <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="600" style="margin: 0 auto; background-color: #2a2a2a; border-radius: 12px; overflow: hidden;">
+          <!-- Header -->
+          <tr>
+            <td style="background: linear-gradient(135deg, #dc2626 0%, #991b1b 100%); padding: 40px 30px; text-align: center;">
+              <h1 style="margin: 0; color: #ffffff; font-size: 32px; font-weight: bold;">🥁 MetalForge</h1>
+              <p style="margin: 10px 0 0; color: rgba(255,255,255,0.9); font-size: 16px;">Gear Updates from the Legends</p>
+            </td>
+          </tr>
+          
+          <!-- Content -->
+          <tr>
+            <td style="padding: 40px 30px;">
+              <h2 style="margin: 0 0 20px; color: #ffffff; font-size: 24px;">Welcome to the Community! 🤘</h2>
+              
+              <p style="margin: 0 0 20px; color: #d1d5db; font-size: 16px; line-height: 1.6;">
+                You're now part of an exclusive community of metal drummers who want to stay ahead of the game.
+              </p>
+              
+              <p style="margin: 0 0 20px; color: #d1d5db; font-size: 16px; line-height: 1.6;">
+                Here's what you can expect:
+              </p>
+              
+              <ul style="margin: 0 0 30px; padding-left: 20px; color: #d1d5db; font-size: 16px; line-height: 1.8;">
+                <li>🎯 <strong style="color: #ffffff;">Pro Gear Setups</strong> — Discover what your favorite drummers actually use</li>
+                <li>🆕 <strong style="color: #ffffff;">New Gear Alerts</strong> — Be the first to know about new releases</li>
+                <li>💡 <strong style="color: #ffffff;">Exclusive Tips</strong> — Insights from legendary metal drummers</li>
+                <li>🔥 <strong style="color: #ffffff;">Community Content</strong> — Curated content just for metal drummers</li>
+              </ul>
+              
+              <p style="margin: 0 0 30px; color: #d1d5db; font-size: 16px; line-height: 1.6;">
+                In the meantime, check out our latest gear guides and drummer profiles at <a href="https://metalforge.io" style="color: #dc2626; text-decoration: none; font-weight: bold;">metalforge.io</a>
+              </p>
+              
+              <!-- CTA Button -->
+              <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="margin: 0 auto;">
+                <tr>
+                  <td style="border-radius: 8px; background-color: #dc2626;">
+                    <a href="https://metalforge.io" style="display: inline-block; padding: 16px 32px; color: #ffffff; font-size: 16px; font-weight: bold; text-decoration: none;">
+                      Explore MetalForge →
+                    </a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          
+          <!-- Footer -->
+          <tr>
+            <td style="background-color: #1f1f1f; padding: 30px; text-align: center; border-top: 1px solid #333;">
+              <p style="margin: 0 0 10px; color: #9ca3af; font-size: 14px;">
+                You're receiving this because you subscribed at metalforge.io
+              </p>
+              <p style="margin: 0; color: #6b7280; font-size: 12px;">
+                © ${new Date().getFullYear()} MetalForge. All rights reserved.
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
+`;
+}
+
+// Generate welcome email plain text
+function getWelcomeEmailText() {
+  return `
+Welcome to MetalForge! 🤘
+
+You're now part of an exclusive community of metal drummers who want to stay ahead of the game.
+
+Here's what you can expect:
+- Pro Gear Setups — Discover what your favorite drummers actually use
+- New Gear Alerts — Be the first to know about new releases  
+- Exclusive Tips — Insights from legendary metal drummers
+- Community Content — Curated content just for metal drummers
+
+Check out our latest gear guides and drummer profiles at https://metalforge.io
+
+Rock on! 🥁
+
+---
+You're receiving this because you subscribed at metalforge.io
+© ${new Date().getFullYear()} MetalForge. All rights reserved.
+`;
+}
+
+// Send welcome email via Resend
+async function sendWelcomeEmail(email) {
+  // Check if Resend API key is configured
+  if (!process.env.RESEND_API_KEY) {
+    console.log('RESEND_API_KEY not configured, skipping welcome email');
+    return { success: false, reason: 'api_key_not_configured' };
+  }
+
+  try {
+    const resend = new Resend(process.env.RESEND_API_KEY);
+    
+    const { data, error } = await resend.emails.send({
+      from: process.env.RESEND_FROM_EMAIL || 'MetalForge <noreply@metalforge.io>',
+      to: [email],
+      subject: '🥁 Welcome to MetalForge — You\'re In!',
+      html: getWelcomeEmailHtml(email),
+      text: getWelcomeEmailText(),
+    });
+
+    if (error) {
+      console.error('Resend error:', error);
+      return { success: false, reason: 'send_failed', error };
+    }
+
+    console.log('Welcome email sent:', data?.id);
+    return { success: true, emailId: data?.id };
+  } catch (error) {
+    console.error('Failed to send welcome email:', error);
+    return { success: false, reason: 'exception', error: error.message };
+  }
 }
 
 export default async function handler(req, res) {
@@ -192,9 +329,18 @@ export default async function handler(req, res) {
       }));
     }
 
+    // Send welcome email (non-blocking - don't fail subscription if email fails)
+    const emailResult = await sendWelcomeEmail(normalizedEmail);
+    
+    if (!emailResult.success) {
+      console.warn('Welcome email not sent:', emailResult.reason);
+      // Still return success - subscription was saved
+    }
+
     return res.status(200).json({ 
       success: true,
-      message: 'Successfully subscribed! 🎸 Welcome to the Metal Drummer community.'
+      message: 'Successfully subscribed! 🎸 Welcome to the Metal Drummer community.',
+      emailSent: emailResult.success,
     });
 
   } catch (error) {

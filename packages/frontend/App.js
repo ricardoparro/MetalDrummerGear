@@ -6332,7 +6332,12 @@ function NewsletterFooter({ theme }) {
         throw new Error(data.error || 'Failed to subscribe');
       }
       
-      setSuccessMessage(data.message);
+      // If email wasn't sent (e.g., email service not configured), show different message
+      if (!data.emailSent) {
+        setSuccessMessage("✓ You're subscribed! Welcome to the community. 🤘");
+      } else {
+        setSuccessMessage(data.message);
+      }
       setIsSubscribed(true);
       setEmail('');
       setGdprConsent(false);

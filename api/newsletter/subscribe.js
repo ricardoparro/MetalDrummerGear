@@ -189,15 +189,31 @@ You're receiving this because you subscribed at metalforge.io
 async function sendWelcomeEmail(email) {
   // Check if Resend API key is configured
   if (!process.env.RESEND_API_KEY) {
-    console.log('RESEND_API_KEY not configured, skipping welcome email');
+    console.warn('[Newsletter] RESEND_API_KEY not configured - welcome email will not be sent');
+    console.warn('[Newsletter] To enable welcome emails, add RESEND_API_KEY to your environment variables');
+    console.warn('[Newsletter] Get your API key at https://resend.com');
     return { success: false, reason: 'api_key_not_configured' };
+  }
+
+  // Determine sender address
+  // If RESEND_FROM_EMAIL is set, use it (requires verified domain in Resend)
+  // Otherwise fall back to Resend sandbox (only works for sending to account owner)
+  const fromEmail = process.env.RESEND_FROM_EMAIL || 'MetalForge <onboarding@resend.dev>';
+  const usingSandbox = !process.env.RESEND_FROM_EMAIL;
+  
+  if (usingSandbox) {
+    console.warn('[Newsletter] Using Resend sandbox (onboarding@resend.dev)');
+    console.warn('[Newsletter] Sandbox mode only delivers to the Resend account owner email');
+    console.warn('[Newsletter] For production, set RESEND_FROM_EMAIL with a verified domain');
   }
 
   try {
     const resend = new Resend(process.env.RESEND_API_KEY);
     
+    console.log(`[Newsletter] Sending welcome email to ${email} from ${fromEmail}`);
+    
     const { data, error } = await resend.emails.send({
-      from: process.env.RESEND_FROM_EMAIL || 'MetalForge <noreply@metalforge.io>',
+      from: fromEmail,
       to: [email],
       subject: '🥁 Welcome to MetalForge — You\'re In!',
       html: getWelcomeEmailHtml(email),
@@ -205,14 +221,23 @@ async function sendWelcomeEmail(email) {
     });
 
     if (error) {
-      console.error('Resend error:', error);
-      return { success: false, reason: 'send_failed', error };
+      console.error('[Newsletter] Resend API error:', JSON.stringify(error));
+      
+      // Provide helpful error messages for common issues
+      if (error.message?.includes('domain') || error.name === 'validation_error') {
+        console.error('[Newsletter] This usually means the sender domain is not verified in Resend');
+        console.error('[Newsletter] Either verify your domain at https://resend.com/domains');
+        console.error('[Newsletter] Or remove RESEND_FROM_EMAIL to use the sandbox');
+      }
+      
+      return { success: false, reason: 'send_failed', error: error.message || error };
     }
 
-    console.log('Welcome email sent:', data?.id);
-    return { success: true, emailId: data?.id };
+    console.log(`[Newsletter] Welcome email sent successfully (ID: ${data?.id})`);
+    return { success: true, emailId: data?.id, usingSandbox };
   } catch (error) {
-    console.error('Failed to send welcome email:', error);
+    console.error('[Newsletter] Exception sending welcome email:', error.message);
+    console.error('[Newsletter] Stack:', error.stack);
     return { success: false, reason: 'exception', error: error.message };
   }
 }
@@ -333,14 +358,21 @@ export default async function handler(req, res) {
     const emailResult = await sendWelcomeEmail(normalizedEmail);
     
     if (!emailResult.success) {
-      console.warn('Welcome email not sent:', emailResult.reason);
+      console.warn(`[Newsletter] Welcome email not sent to ${normalizedEmail}: ${emailResult.reason}`);
       // Still return success - subscription was saved
+    }
+
+    // Customize message based on email status
+    let message = 'Successfully subscribed! 🎸 Welcome to the Metal Drummer community.';
+    if (emailResult.success) {
+      message = "Successfully subscribed! 🎸 Check your inbox for a welcome email. Welcome to the Metal Drummer community!";
     }
 
     return res.status(200).json({ 
       success: true,
-      message: 'Successfully subscribed! 🎸 Welcome to the Metal Drummer community.',
+      message,
       emailSent: emailResult.success,
+      emailError: emailResult.success ? undefined : emailResult.reason,
     });
 
   } catch (error) {

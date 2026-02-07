@@ -3,6 +3,8 @@
 // 1. Proxying external images through /api/image with CDN caching
 // 2. Requesting appropriately sized images (Wikipedia thumb URLs)
 // 3. Using responsive width hints
+// 4. Converting to WebP format for modern browsers
+// 5. Implementing lazy loading for below-the-fold images
 
 const IS_PRODUCTION = typeof window !== 'undefined' && 
   window.location && 
@@ -29,6 +31,39 @@ export const IMAGE_WIDTHS = {
 // Standard srcset widths for responsive images
 export const SRCSET_WIDTHS = [400, 800, 1200];
 
+// Check if browser supports WebP
+let webpSupported = null;
+export function supportsWebP() {
+  if (typeof window === 'undefined') return true; // SSR assumes modern browser
+  
+  if (webpSupported !== null) return webpSupported;
+  
+  // Check via canvas
+  try {
+    const canvas = document.createElement('canvas');
+    canvas.width = 1;
+    canvas.height = 1;
+    webpSupported = canvas.toDataURL('image/webp').indexOf('data:image/webp') === 0;
+  } catch {
+    webpSupported = false;
+  }
+  
+  return webpSupported;
+}
+
+// Check if browser supports AVIF (more aggressive check)
+let avifSupported = null;
+export function supportsAVIF() {
+  if (typeof window === 'undefined') return false; // SSR assumes no AVIF
+  
+  if (avifSupported !== null) return avifSupported;
+  
+  // AVIF support is still limited, default to false for now
+  // Can be enabled once browser support is broader
+  avifSupported = false;
+  return avifSupported;
+}
+
 /**
  * Check if a URL should be proxied through our image optimization API
  */
@@ -43,11 +78,21 @@ function shouldProxy(url) {
 }
 
 /**
+ * Get the preferred image format based on browser support
+ */
+function getPreferredFormat() {
+  if (supportsAVIF()) return 'avif';
+  if (supportsWebP()) return 'webp';
+  return null;
+}
+
+/**
  * Get optimized image URL
  * @param {string} originalUrl - The original image URL
  * @param {object} options - Optimization options
  * @param {number} options.width - Desired width (will snap to nearest allowed width)
  * @param {number} options.quality - Quality 10-100 (default 80)
+ * @param {string} options.format - Force format ('webp', 'avif', or null for auto)
  * @returns {string} Optimized image URL
  */
 export function getOptimizedImageUrl(originalUrl, options = {}) {
@@ -63,7 +108,7 @@ export function getOptimizedImageUrl(originalUrl, options = {}) {
     return originalUrl;
   }
   
-  const { width, quality = 80 } = options;
+  const { width, quality = 80, format = null } = options;
   
   // Build proxy URL with optimization parameters
   const params = new URLSearchParams();
@@ -75,6 +120,12 @@ export function getOptimizedImageUrl(originalUrl, options = {}) {
   
   if (quality !== 80) {
     params.set('q', String(quality));
+  }
+  
+  // Request WebP format for supported browsers
+  const preferredFormat = format || getPreferredFormat();
+  if (preferredFormat) {
+    params.set('f', preferredFormat);
   }
   
   return `${API_BASE}/api/image?${params.toString()}`;
@@ -94,7 +145,7 @@ export function getResponsiveImageSources(originalUrl, widths = [256, 512, 1080]
 }
 
 /**
- * Generate srcset string for responsive images
+ * Generate srcset string for responsive images with WebP support
  * @param {string} originalUrl - The original image URL  
  * @param {number[]} widths - Array of widths (default: SRCSET_WIDTHS)
  * @returns {string} srcset string for <img> tag
@@ -102,6 +153,17 @@ export function getResponsiveImageSources(originalUrl, widths = [256, 512, 1080]
 export function generateSrcSet(originalUrl, widths = SRCSET_WIDTHS) {
   if (!originalUrl) return '';
   return widths.map(w => `${getOptimizedImageUrl(originalUrl, { width: w })} ${w}w`).join(', ');
+}
+
+/**
+ * Generate srcset string specifically for WebP format
+ * @param {string} originalUrl - The original image URL  
+ * @param {number[]} widths - Array of widths (default: SRCSET_WIDTHS)
+ * @returns {string} srcset string for WebP source
+ */
+export function generateWebPSrcSet(originalUrl, widths = SRCSET_WIDTHS) {
+  if (!originalUrl) return '';
+  return widths.map(w => `${getOptimizedImageUrl(originalUrl, { width: w, format: 'webp' })} ${w}w`).join(', ');
 }
 
 /**
@@ -125,6 +187,33 @@ export function getSizesAttribute(context = 'card') {
 }
 
 /**
+ * Get lazy loading attribute based on image priority
+ * @param {boolean} priority - Whether image is above the fold
+ * @returns {string} loading attribute value
+ */
+export function getLoadingAttribute(priority = false) {
+  return priority ? 'eager' : 'lazy';
+}
+
+/**
+ * Get decoding attribute for optimal performance
+ * @param {boolean} priority - Whether image is above the fold
+ * @returns {string} decoding attribute value
+ */
+export function getDecodingAttribute(priority = false) {
+  return priority ? 'sync' : 'async';
+}
+
+/**
+ * Get fetchpriority attribute for resource prioritization
+ * @param {boolean} priority - Whether image is above the fold
+ * @returns {string} fetchpriority attribute value
+ */
+export function getFetchPriorityAttribute(priority = false) {
+  return priority ? 'high' : 'low';
+}
+
+/**
  * Precomputed optimized URLs for common drummer image sizes
  * Call this when fetching drummer data to pre-optimize URLs
  */
@@ -141,17 +230,23 @@ export function optimizeDrummerImages(drummer) {
     heroImageUrl: getOptimizedImageUrl(drummer.image, { width: IMAGE_WIDTHS.hero }),
     // Original URL preserved
     originalImageUrl: drummer.image,
+    // WebP URLs for modern browsers
+    webpThumbnailUrl: getOptimizedImageUrl(drummer.image, { width: IMAGE_WIDTHS.thumbnail, format: 'webp' }),
+    webpCardImageUrl: getOptimizedImageUrl(drummer.image, { width: IMAGE_WIDTHS.medium, format: 'webp' }),
+    webpHeroImageUrl: getOptimizedImageUrl(drummer.image, { width: IMAGE_WIDTHS.hero, format: 'webp' }),
     // Optimized photo gallery
     optimizedPhotos: drummer.photos?.map(photo => ({
       thumbnail: getOptimizedImageUrl(photo, { width: IMAGE_WIDTHS.small }),
       full: getOptimizedImageUrl(photo, { width: IMAGE_WIDTHS.full }),
+      webpThumbnail: getOptimizedImageUrl(photo, { width: IMAGE_WIDTHS.small, format: 'webp' }),
+      webpFull: getOptimizedImageUrl(photo, { width: IMAGE_WIDTHS.full, format: 'webp' }),
       original: photo,
     })) || [],
   };
 }
 
 /**
- * expo-image props for optimal performance
+ * expo-image props for optimal performance with lazy loading
  */
 export const imageDefaults = {
   cachePolicy: 'memory-disk',
@@ -160,12 +255,71 @@ export const imageDefaults = {
   placeholder: null,
 };
 
+/**
+ * Get image props optimized for lazy loading
+ * @param {boolean} priority - Whether this image is above the fold
+ * @returns {object} Props object for expo-image or native img
+ */
+export function getLazyLoadingProps(priority = false) {
+  return {
+    loading: getLoadingAttribute(priority),
+    decoding: getDecodingAttribute(priority),
+    fetchPriority: getFetchPriorityAttribute(priority),
+  };
+}
+
+/**
+ * Create a blurhash placeholder for an image
+ * This can be used as a placeholder while the full image loads
+ * @param {string} blurhash - The blurhash string
+ * @param {number} width - Placeholder width
+ * @param {number} height - Placeholder height
+ * @returns {object} Placeholder config for expo-image
+ */
+export function createBlurhashPlaceholder(blurhash, width = 32, height = 32) {
+  if (!blurhash) return null;
+  return {
+    blurhash,
+    width,
+    height,
+  };
+}
+
+/**
+ * Generate picture element sources for WebP with fallback
+ * @param {string} originalUrl - The original image URL
+ * @param {number} width - Desired width
+ * @returns {object} Object with webp and fallback sources
+ */
+export function getPictureSources(originalUrl, width) {
+  if (!originalUrl || !shouldProxy(originalUrl)) {
+    return {
+      webp: null,
+      fallback: originalUrl,
+    };
+  }
+  
+  return {
+    webp: getOptimizedImageUrl(originalUrl, { width, format: 'webp' }),
+    fallback: getOptimizedImageUrl(originalUrl, { width }),
+  };
+}
+
 export default {
   getOptimizedImageUrl,
   getResponsiveImageSources,
   generateSrcSet,
+  generateWebPSrcSet,
   getSizesAttribute,
+  getLoadingAttribute,
+  getDecodingAttribute,
+  getFetchPriorityAttribute,
+  getLazyLoadingProps,
   optimizeDrummerImages,
+  getPictureSources,
+  createBlurhashPlaceholder,
+  supportsWebP,
+  supportsAVIF,
   imageDefaults,
   IMAGE_WIDTHS,
   SRCSET_WIDTHS,

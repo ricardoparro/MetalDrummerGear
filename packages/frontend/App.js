@@ -849,6 +849,210 @@ function FilterBar({ filters, onFilterChange, totalCount, filteredCount, onClear
 const BLUR_HASH = 'L6Pj0^jt.mfQ~qfQfQfQ~qfQfQfQ';
 
 /**
+ * useLazyLoad - Intersection Observer hook for lazy loading images (Issue #296)
+ * 
+ * Uses Intersection Observer API to detect when an element enters the viewport,
+ * enabling more efficient lazy loading than native loading="lazy" with:
+ * - Configurable root margin for preloading before visible
+ * - Single observer instance per component for performance
+ * - Fallback to eager loading for unsupported browsers
+ * 
+ * @param {Object} options - Intersection Observer options
+ * @param {string} options.rootMargin - Margin around root (default: '100px')
+ * @param {number} options.threshold - Visibility threshold (default: 0)
+ * @returns {[React.RefObject, boolean]} - Ref to attach and visibility state
+ */
+function useLazyLoad(options = {}) {
+  const { rootMargin = '100px', threshold = 0 } = options;
+  const elementRef = useRef(null);
+  const [isVisible, setIsVisible] = useState(false);
+
+  useEffect(() => {
+    // Skip on non-web platforms or if already visible
+    if (Platform.OS !== 'web' || isVisible) return;
+    
+    // Fallback for browsers without IntersectionObserver
+    if (typeof IntersectionObserver === 'undefined') {
+      setIsVisible(true);
+      return;
+    }
+
+    const element = elementRef.current;
+    if (!element) return;
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            setIsVisible(true);
+            observer.unobserve(entry.target);
+          }
+        });
+      },
+      { rootMargin, threshold }
+    );
+
+    observer.observe(element);
+
+    return () => {
+      if (element) {
+        observer.unobserve(element);
+      }
+    };
+  }, [rootMargin, threshold, isVisible]);
+
+  // On native platforms, always visible (expo-image handles lazy loading)
+  if (Platform.OS !== 'web') {
+    return [elementRef, true];
+  }
+
+  return [elementRef, isVisible];
+}
+
+/**
+ * LazyGalleryImage - Optimized lazy-loading image for photo galleries (Issue #296)
+ * 
+ * Uses Intersection Observer to only load images when they're about to enter
+ * the viewport, reducing initial page load and bandwidth usage.
+ * 
+ * @param {Object} props.source - Image source object with uri property
+ * @param {Object} props.style - Style object for the image
+ * @param {string} props.accessibilityLabel - Accessibility label
+ * @param {number} props.width - Explicit width
+ * @param {number} props.height - Explicit height
+ */
+function LazyGalleryImage({ source, style, accessibilityLabel, width = 200, height = 150 }) {
+  const [ref, isVisible] = useLazyLoad({ rootMargin: '200px' });
+  const [hasError, setHasError] = useState(false);
+  const [isLoaded, setIsLoaded] = useState(false);
+
+  // Optimize image URL
+  const optimizedUri = useMemo(() => {
+    const uri = source?.uri;
+    if (!uri) return PLACEHOLDER_IMAGE;
+    if (uri.startsWith('/images/') || uri.startsWith('/api/image')) return uri;
+    return getOptimizedImageUrl(uri, { width });
+  }, [source?.uri, width]);
+
+  // Generate srcset for responsive images
+  const srcSet = useMemo(() => {
+    const uri = source?.uri;
+    if (!uri || uri.startsWith('/images/') || hasError) return '';
+    return generateSrcSet(uri, SRCSET_WIDTHS);
+  }, [source?.uri, hasError]);
+
+  const webpSrcSet = useMemo(() => {
+    const uri = source?.uri;
+    if (!uri || uri.startsWith('/images/') || hasError) return '';
+    return generateWebPSrcSet(uri, SRCSET_WIDTHS);
+  }, [source?.uri, hasError]);
+
+  const sizes = getSizesAttribute('gallery');
+  const hasWebPSupport = useMemo(() => supportsWebP(), []);
+
+  const handleError = useCallback(() => {
+    if (!hasError) {
+      setHasError(true);
+    }
+  }, [hasError]);
+
+  const handleLoad = useCallback(() => {
+    setIsLoaded(true);
+  }, []);
+
+  const flatStyle = StyleSheet.flatten(style) || {};
+
+  // Placeholder styles
+  const placeholderStyle = {
+    width: flatStyle.width || width,
+    height: flatStyle.height || height,
+    backgroundColor: '#2a2a2a',
+    borderRadius: flatStyle.borderRadius || 8,
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+  };
+
+  // Image styles with fade-in transition
+  const imageStyle = {
+    width: flatStyle.width || width,
+    height: flatStyle.height || height,
+    objectFit: 'cover',
+    borderRadius: flatStyle.borderRadius || 8,
+    opacity: isLoaded ? 1 : 0,
+    transition: 'opacity 0.3s ease-in-out',
+    ...flatStyle,
+  };
+
+  // On native, use expo-image with built-in lazy loading
+  if (Platform.OS !== 'web') {
+    return (
+      <Image
+        source={{ uri: hasError ? PLACEHOLDER_IMAGE : optimizedUri }}
+        style={[{ width, height }, style]}
+        accessibilityLabel={accessibilityLabel}
+        onError={handleError}
+        contentFit="cover"
+        placeholder={{ blurhash: BLUR_HASH }}
+        transition={200}
+        priority="low"
+        cachePolicy="memory-disk"
+      />
+    );
+  }
+
+  // On web, use Intersection Observer for lazy loading
+  return (
+    <div ref={ref} style={{ ...placeholderStyle, position: 'relative', overflow: 'hidden' }}>
+      {!isVisible ? (
+        // Placeholder while not in viewport
+        <div style={placeholderStyle} aria-hidden="true" />
+      ) : hasError ? (
+        // Error state
+        <img
+          src={PLACEHOLDER_IMAGE}
+          alt={accessibilityLabel || ''}
+          style={imageStyle}
+        />
+      ) : hasWebPSupport && webpSrcSet ? (
+        // WebP with fallback
+        <picture style={{ display: 'contents' }}>
+          <source
+            type="image/webp"
+            srcSet={webpSrcSet}
+            sizes={sizes}
+          />
+          <img
+            src={optimizedUri}
+            srcSet={srcSet}
+            sizes={sizes}
+            alt={accessibilityLabel || ''}
+            onError={handleError}
+            onLoad={handleLoad}
+            style={imageStyle}
+            loading="eager"
+            decoding="async"
+          />
+        </picture>
+      ) : (
+        // Standard image
+        <img
+          src={optimizedUri}
+          srcSet={srcSet}
+          sizes={sizes}
+          alt={accessibilityLabel || ''}
+          onError={handleError}
+          onLoad={handleLoad}
+          style={imageStyle}
+          loading="eager"
+          decoding="async"
+        />
+      )}
+    </div>
+  );
+}
+
+/**
  * ImageWithFallback - Optimized image component with expo-image
  * 
  * For Core Web Vitals optimization (LCP, CLS):
@@ -2361,14 +2565,13 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
           <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">Photo Gallery</Text>
           <ScrollView horizontal showsHorizontalScrollIndicator={false} style={styles.gallery}>
             {drummer.photos.map((photo, index) => (
-              <ImageWithFallback
+              <LazyGalleryImage
                 key={index}
                 source={{ uri: photo }}
                 style={styles.galleryImage}
                 accessibilityLabel={`${drummer.name} photo ${index + 1}`}
                 width={200}
                 height={150}
-                imageContext="gallery"
               />
             ))}
           </ScrollView>

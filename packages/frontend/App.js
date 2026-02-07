@@ -629,13 +629,13 @@ function SearchBar({ value, onChange, onFocus, onClear, suggestions, onSelectSug
             >
               <View style={styles.suggestionContent}>
                 {suggestion.image && (
-                  <Image 
-                    source={{ uri: suggestion.image }} 
-                    style={[{ width: 36, height: 36 }, styles.suggestionImage]}
-                    contentFit="cover"
-                    placeholder={{ blurhash: BLUR_HASH }}
-                    transition={200}
-                    cachePolicy="memory-disk"
+                  <ImageWithFallback
+                    source={{ uri: suggestion.image }}
+                    style={styles.suggestionImage}
+                    accessibilityLabel={`${suggestion.name} thumbnail`}
+                    width={36}
+                    height={36}
+                    imageContext="thumbnail"
                   />
                 )}
                 <View style={styles.suggestionText}>
@@ -5444,14 +5444,14 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
               <Text style={styles.matchPercentText}>{matchPercent}% Match</Text>
             </View>
             
-            <Image
+            <ImageWithFallback
               source={{ uri: topMatch.drummer.image || PLACEHOLDER_IMAGE }}
-              style={[{ width: 120, height: 120 }, styles.topMatchImage]}
-              contentFit="cover"
-              placeholder={{ blurhash: BLUR_HASH }}
-              transition={300}
-              priority="high"
-              cachePolicy="memory-disk"
+              style={styles.topMatchImage}
+              accessibilityLabel={`${topMatch.drummer.name} profile photo`}
+              width={120}
+              height={120}
+              priority={true}
+              imageContext="card"
             />
             
             <Text style={[styles.topMatchName, { color: theme.text }]}>
@@ -5513,13 +5513,13 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
                   onPress={() => onSelectDrummer(match.drummer.id)}
                   style={[styles.runnerUpCard, { backgroundColor: theme.card, borderColor: theme.border }]}
                 >
-                  <Image
+                  <ImageWithFallback
                     source={{ uri: match.drummer.image || PLACEHOLDER_IMAGE }}
-                    style={[{ width: 48, height: 48 }, styles.runnerUpImage]}
-                    contentFit="cover"
-                    placeholder={{ blurhash: BLUR_HASH }}
-                    transition={300}
-                    cachePolicy="memory-disk"
+                    style={styles.runnerUpImage}
+                    accessibilityLabel={`${match.drummer.name} profile photo`}
+                    width={48}
+                    height={48}
+                    imageContext="thumbnail"
                   />
                   <View style={styles.runnerUpInfo}>
                     <Text style={[styles.runnerUpName, { color: theme.text }]}>

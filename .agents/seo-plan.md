@@ -3,7 +3,7 @@
 **Goal:** Become the #1 resource for metal drummer gear information  
 **Site:** https://metalforge.io (Vercel: metal-drummer-gear.vercel.app)
 
-## Current Status (2026-02-04)
+## Current Status (2026-02-07)
 
 ### ✅ Completed — Foundation (Phase 1)
 - **Title & Meta:** "MetalForge - Discover What Pro Metal Drummers Play" (#19)
@@ -28,15 +28,15 @@
 - **BreadcrumbList Schema:** Navigation structure (#66) ✅
 - **sameAs Entity Links:** Wikipedia, social profiles for LLM entity verification (#67) ✅
 - **SpeakableSpecification Schema:** Voice search optimization ✅
+- **VideoObject Schema:** YouTube embeds on drummer pages (#183, #186) ✅
+- **Quotation Schema:** Drummer interview quotes ✅
 
 ### 🔄 In Progress — Performance & Media (Phase 4)
 - [ ] **Core Web Vitals optimization** — HIGH PRIORITY
 - [ ] **Image optimization** (WebP, lazy loading)
-- [ ] **Video schema** for drummer video content
 
 ### 📋 Future Enhancements (Phase 5)
 - [ ] AggregateRating for gear items (requires user reviews feature)
-- [ ] VideoObject schema for YouTube embeds
 - [ ] MusicGroup schema linking drummers to their bands
 - [ ] HowTo schema for gear setup guides (if content added)
 - [ ] SearchAction schema for site search (if implemented)
@@ -69,10 +69,11 @@
 - 21 drummers currently with bios, gear, videos, endorsements
 
 ## Recent Progress
+- **2026-02-07:** Closed #292 — VideoObject schema already implemented (since #183/#186)
 - **2026-02-04:** SEO audit — All Phase 3 work confirmed complete, updated plan
 - **2026-02-02:** Speakable schema implemented
 - **2026-02-02:** BreadcrumbList (#66) and sameAs (#67) completed
 - **2026-02-01:** FAQPage (#36) and ItemList (#37) completed
 
 ---
-*Last updated: 2026-02-04 by SEO Agent*
+*Last updated: 2026-02-07 by SEO Agent*

@@ -5,7 +5,18 @@ import { ThemeProvider, useTheme } from './ThemeContext';
 import { useState, useEffect, useCallback, useMemo, useRef, lazy, Suspense } from 'react';
 import { getAffiliateLinks, extractPrimaryProduct, getThomannLink, getSweetwaterLink } from './affiliateLinks';
 import { calculateKitCost, formatPrice } from './gearPrices';
-import { getOptimizedImageUrl, optimizeDrummerImages, imageDefaults, IMAGE_WIDTHS, SRCSET_WIDTHS, generateSrcSet, getSizesAttribute } from './imageUtils';
+import { 
+  getOptimizedImageUrl, 
+  optimizeDrummerImages, 
+  imageDefaults, 
+  IMAGE_WIDTHS, 
+  SRCSET_WIDTHS, 
+  generateSrcSet, 
+  generateWebPSrcSet,
+  getSizesAttribute,
+  getLazyLoadingProps,
+  supportsWebP 
+} from './imageUtils';
 
 // Import extracted data for code splitting
 import { FILTER_OPTIONS } from './data/filterOptions';
@@ -893,17 +904,61 @@ function ImageWithFallback({ source, style, accessibilityLabel, priority = false
     ? [{ width, height }, style]
     : style;
 
+  // Generate WebP srcset for modern browsers (Issue #291)
+  const webpSrcSet = useMemo(() => {
+    const uri = source?.uri;
+    if (!uri || uri.startsWith('/images/') || hasError) return '';
+    return generateWebPSrcSet(uri, SRCSET_WIDTHS);
+  }, [source?.uri, hasError]);
+
+  // Check WebP support
+  const hasWebPSupport = useMemo(() => supportsWebP(), []);
+
   // On web, use native img tag with srcset for SEO (Issue #251)
+  // Use WebP srcset when browser supports it (Issue #291)
   if (Platform.OS === 'web' && srcSet && !hasError) {
     const flatStyle = StyleSheet.flatten(imageStyle) || {};
+    const lazyProps = getLazyLoadingProps(priority);
+    
+    // Use picture element for WebP with fallback (Issue #291)
+    if (hasWebPSupport && webpSrcSet) {
+      return (
+        <picture>
+          <source
+            type="image/webp"
+            srcSet={webpSrcSet}
+            sizes={sizes}
+          />
+          <img
+            src={imageUri}
+            srcSet={srcSet}
+            sizes={sizes}
+            alt={accessibilityLabel || ''}
+            loading={lazyProps.loading}
+            decoding={lazyProps.decoding}
+            fetchPriority={lazyProps.fetchPriority}
+            onError={handleError}
+            style={{
+              width: flatStyle.width || width,
+              height: flatStyle.height || height,
+              objectFit: 'cover',
+              borderRadius: flatStyle.borderRadius,
+              ...flatStyle,
+            }}
+          />
+        </picture>
+      );
+    }
+    
     return (
       <img
         src={imageUri}
         srcSet={srcSet}
         sizes={sizes}
         alt={accessibilityLabel || ''}
-        loading={priority ? 'eager' : 'lazy'}
-        decoding="async"
+        loading={lazyProps.loading}
+        decoding={lazyProps.decoding}
+        fetchPriority={lazyProps.fetchPriority}
         onError={handleError}
         style={{
           width: flatStyle.width || width,
@@ -6332,7 +6387,12 @@ function NewsletterFooter({ theme }) {
         throw new Error(data.error || 'Failed to subscribe');
       }
       
-      setSuccessMessage(data.message);
+      // If email wasn't sent (e.g., email service not configured), show different message
+      if (!data.emailSent) {
+        setSuccessMessage("✓ You're subscribed! Welcome to the community. 🤘");
+      } else {
+        setSuccessMessage(data.message);
+      }
       setIsSubscribed(true);
       setEmail('');
       setGdprConsent(false);

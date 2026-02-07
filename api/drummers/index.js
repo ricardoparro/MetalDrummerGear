@@ -1575,7 +1575,7 @@ const drummers = [
     ]
   },
   {
-    id: 32,
+    id: 40,
     name: 'Chris Turner',
     band: 'Oceans Ate Alaska',
     genre: 'Progressive Metalcore',
@@ -1614,7 +1614,7 @@ const drummers = [
     ]
   },
   {
-    id: 33,
+    id: 32,
     name: 'Matt Greiner',
     band: 'August Burns Red',
     genre: 'Metalcore / Christian Metal',
@@ -1659,7 +1659,7 @@ const drummers = [
     ]
   },
   {
-    id: 34,
+    id: 33,
     name: 'Blake Richardson',
     band: 'Between the Buried and Me',
     genre: 'Progressive Metal / Technical Death Metal',
@@ -1703,7 +1703,7 @@ const drummers = [
     ]
   },
   {
-    id: 35,
+    id: 34,
     name: 'Ben Koller',
     band: 'Converge / Mutoid Man / Killer Be Killed',
     genre: 'Metalcore / Hardcore Punk / Grindcore',
@@ -1743,7 +1743,7 @@ const drummers = [
     ]
   },
   {
-    id: 36,
+    id: 35,
     name: 'Flo Mounier',
     band: 'Cryptopsy',
     genre: 'Technical Death Metal / Brutal Death Metal',

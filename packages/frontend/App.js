@@ -6864,6 +6864,10 @@ function AppContent() {
   const [showSuggestions, setShowSuggestions] = useState(false);
   const searchInputRef = useRef(null);
 
+  // INP Optimization: Debounce the filter state update to prevent jank during typing
+  // The search input value updates immediately, but filter computation is debounced
+  const debouncedSearchValue = useDebounce(searchValue, 150);
+
   // Filter drummers based on search and filters
   // INP Optimization: Use debounced search value to prevent expensive filtering on every keystroke
   const filteredDrummers = useMemo(() => {
@@ -6958,10 +6962,6 @@ function AppContent() {
 
     return results;
   }, [drummers, searchValue]);
-
-  // INP Optimization: Debounce the filter state update to prevent jank during typing
-  // The search input value updates immediately, but filter computation is debounced
-  const debouncedSearchValue = useDebounce(searchValue, 150);
 
   // Handle filter changes and update URL
   // Uses startTransition for non-urgent state updates (INP optimization)

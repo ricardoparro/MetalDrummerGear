@@ -2,7 +2,7 @@ import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View, FlatList, ActivityIndicator, TouchableOpacity, ScrollView, Linking, Platform, useWindowDimensions, TextInput } from 'react-native';
 import { Image } from 'expo-image';
 import { ThemeProvider, useTheme } from './ThemeContext';
-import { useState, useEffect, useCallback, useMemo, useRef, lazy, Suspense } from 'react';
+import { useState, useEffect, useCallback, useMemo, useRef, lazy, Suspense, startTransition } from 'react';
 import { getAffiliateLinks, extractPrimaryProduct, getThomannLink, getSweetwaterLink } from './affiliateLinks';
 import { calculateKitCost, formatPrice } from './gearPrices';
 import { 
@@ -17,6 +17,26 @@ import {
   getLazyLoadingProps,
   supportsWebP 
 } from './imageUtils';
+
+// Core Web Vitals Optimization Utilities
+import { 
+  useDebounce, 
+  useDebouncedCallback,
+  scheduleNonBlockingUpdate,
+  initWebVitalsMonitoring,
+  getContentVisibilityStyle,
+  SKELETON_DIMENSIONS
+} from './cwvUtils';
+
+// Skeleton Components for CLS Prevention
+import { 
+  DrummerCardSkeleton, 
+  DrummerListSkeleton, 
+  SearchBarSkeleton,
+  FilterBarSkeleton,
+  HeroSectionSkeleton,
+  PageLoadingSkeleton
+} from './Skeletons';
 
 // Import extracted data for code splitting
 import { FILTER_OPTIONS } from './data/filterOptions';
@@ -4857,12 +4877,23 @@ function DrummerList({
   onSelectSuggestion,
   searchInputRef
 }) {
+  // CLS Optimization: Show skeleton loaders instead of spinner
+  // Skeletons match the final layout dimensions to prevent layout shift
   if (loading) {
     return (
-      <View style={styles.centerContainer}>
-        <ActivityIndicator size="large" color={theme.text} />
-        <Text style={[styles.loadingText, { color: theme.secondaryText }]}>Loading drummers...</Text>
-      </View>
+      <ScrollView 
+        style={styles.listContainer}
+        contentContainerStyle={{ paddingBottom: 20 }}
+      >
+        {/* Search bar skeleton - matches SearchBar dimensions */}
+        <SearchBarSkeleton />
+        {/* Filter bar skeleton - matches FilterBar dimensions */}
+        <FilterBarSkeleton />
+        {/* Hero/Spotlight section skeleton */}
+        <HeroSectionSkeleton />
+        {/* Drummer cards skeleton - show 6 to fill viewport */}
+        <DrummerListSkeleton count={6} />
+      </ScrollView>
     );
   }
 
@@ -6832,12 +6863,13 @@ function AppContent() {
   const searchInputRef = useRef(null);
 
   // Filter drummers based on search and filters
+  // INP Optimization: Use debounced search value to prevent expensive filtering on every keystroke
   const filteredDrummers = useMemo(() => {
     let results = drummers;
 
-    // Search filter
-    if (searchValue) {
-      const query = searchValue.toLowerCase();
+    // Search filter - uses debounced value for performance
+    if (debouncedSearchValue) {
+      const query = debouncedSearchValue.toLowerCase();
       results = results.filter(d =>
         d.name.toLowerCase().includes(query) ||
         d.band.toLowerCase().includes(query) ||
@@ -6896,7 +6928,7 @@ function AppContent() {
     }
 
     return results;
-  }, [drummers, searchValue, filters]);
+  }, [drummers, debouncedSearchValue, filters]);
 
   // Generate search suggestions
   const suggestions = useMemo(() => {
@@ -6925,28 +6957,49 @@ function AppContent() {
     return results;
   }, [drummers, searchValue]);
 
+  // INP Optimization: Debounce the filter state update to prevent jank during typing
+  // The search input value updates immediately, but filter computation is debounced
+  const debouncedSearchValue = useDebounce(searchValue, 150);
+
   // Handle filter changes and update URL
+  // Uses startTransition for non-urgent state updates (INP optimization)
   const handleFilterChange = useCallback((newFilters) => {
-    setFilters(newFilters);
+    // URL update is synchronous (fast)
     updateFiltersURL(newFilters);
+    // Filter state update is non-blocking (INP optimization)
+    startTransition(() => {
+      setFilters(newFilters);
+    });
   }, []);
 
   // Handle search input changes
+  // INP Optimization: Input value updates immediately for responsiveness
+  // Filter computation uses debounced value to prevent jank
   const handleSearchChange = useCallback((text) => {
+    // Immediate: Update input value for responsive typing
     setSearchValue(text);
     setShowSuggestions(true);
-    handleFilterChange({ ...filters, search: text });
-  }, [filters, handleFilterChange]);
+    // Non-blocking: Schedule filter update in transition
+    startTransition(() => {
+      setFilters(currentFilters => ({
+        ...currentFilters,
+        search: text
+      }));
+      updateFiltersURL({ ...filters, search: text });
+    });
+  }, [filters]);
 
   // Handle search clear
   const handleSearchClear = useCallback(() => {
     setSearchValue('');
     setShowSuggestions(false);
-    // Use functional update to get latest filters, avoiding stale closure
-    setFilters(currentFilters => {
-      const newFilters = { ...currentFilters, search: '' };
-      updateFiltersURL(newFilters);
-      return newFilters;
+    // Non-blocking filter update
+    startTransition(() => {
+      setFilters(currentFilters => {
+        const newFilters = { ...currentFilters, search: '' };
+        updateFiltersURL(newFilters);
+        return newFilters;
+      });
     });
   }, []);
 
@@ -7005,6 +7058,19 @@ function AppContent() {
     if (urlFilters.search || urlFilters.genre || urlFilters.brand || urlFilters.era) {
       setFilters(urlFilters);
       setSearchValue(urlFilters.search || '');
+    }
+  }, []);
+
+  // Initialize Core Web Vitals monitoring
+  // Reports LCP, CLS, INP, FCP, TTFB to analytics
+  useEffect(() => {
+    initWebVitalsMonitoring();
+    
+    // Mark LCP complete after initial render for CSS animations
+    if (Platform.OS === 'web' && typeof document !== 'undefined') {
+      requestAnimationFrame(() => {
+        document.body.classList.add('lcp-complete');
+      });
     }
   }, []);
 

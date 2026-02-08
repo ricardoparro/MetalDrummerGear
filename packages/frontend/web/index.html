@@ -49,10 +49,19 @@
       html,
       body {
         height: 100%;
+        /* Smooth font rendering */
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        text-rendering: optimizeLegibility;
       }
       /* These styles disable body scrolling if you are using <ScrollView> */
       body {
         overflow: hidden;
+        /* Prevent text size adjustment on orientation change */
+        -webkit-text-size-adjust: 100%;
+        /* Default background to prevent flash */
+        background-color: #0a0a0a;
+        color: #ffffff;
       }
       /* These styles make the root element full-height */
       #root {
@@ -65,6 +74,80 @@
       input[type="email"]::placeholder {
         color: #888888 !important;
         opacity: 1;
+      }
+      
+      /* ====================================
+         CLS Prevention: Reserve space for dynamic content
+         ==================================== */
+      
+      /* Images: Always reserve aspect ratio space */
+      img {
+        max-width: 100%;
+        height: auto;
+        /* Prevent layout shifts from image loading */
+        background-color: #2a2a2a;
+      }
+      
+      /* Skeleton shimmer animation */
+      @keyframes shimmer {
+        0% { background-position: -200% 0; }
+        100% { background-position: 200% 0; }
+      }
+      
+      .skeleton {
+        background: linear-gradient(90deg, #2a2a2a 25%, #3a3a3a 50%, #2a2a2a 75%);
+        background-size: 200% 100%;
+        animation: shimmer 1.5s infinite ease-in-out;
+      }
+      
+      /* Content containment for performance */
+      .contain-content {
+        contain: content;
+      }
+      
+      .contain-layout {
+        contain: layout;
+      }
+      
+      /* Content visibility for off-screen optimization */
+      .content-auto {
+        content-visibility: auto;
+        contain-intrinsic-size: auto 500px;
+      }
+      
+      /* ====================================
+         INP Optimization: Touch/Click responsiveness
+         ==================================== */
+      
+      /* Fast touch response */
+      a, button, [role="button"] {
+        touch-action: manipulation;
+        -webkit-tap-highlight-color: transparent;
+      }
+      
+      /* Ensure pointer events work immediately */
+      * {
+        -webkit-touch-callout: none;
+      }
+      
+      /* ====================================
+         LCP Optimization: Prioritize visible content
+         ==================================== */
+      
+      /* Above-fold content priority */
+      .lcp-priority {
+        /* Hint to browser this is important */
+        will-change: auto;
+      }
+      
+      /* Defer animations until after LCP */
+      @media (prefers-reduced-motion: no-preference) {
+        .animate-after-lcp {
+          animation-play-state: paused;
+        }
+        .lcp-complete .animate-after-lcp {
+          animation-play-state: running;
+        }
       }
     </style>
   </head>

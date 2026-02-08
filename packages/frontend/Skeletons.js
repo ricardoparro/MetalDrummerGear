@@ -1,0 +1,389 @@
+/**
+ * Skeleton Components for CLS (Cumulative Layout Shift) Prevention
+ * 
+ * These components reserve space during loading to prevent layout shifts.
+ * Dimensions match the actual components they replace.
+ * 
+ * Usage:
+ * - Use <DrummerCardSkeleton /> while drummers are loading
+ * - Use <SearchBarSkeleton /> while search initializes
+ * - Use <FilterBarSkeleton /> while filters load
+ */
+
+import { View, StyleSheet, Platform } from 'react-native';
+import { useTheme } from './ThemeContext';
+import { SKELETON_DIMENSIONS } from './cwvUtils';
+
+// Shimmer animation keyframes (web only)
+const shimmerKeyframes = Platform.OS === 'web' ? `
+  @keyframes shimmer {
+    0% { background-position: -200% 0; }
+    100% { background-position: 200% 0; }
+  }
+` : '';
+
+// Inject shimmer animation once
+if (Platform.OS === 'web' && typeof document !== 'undefined') {
+  const existingStyle = document.getElementById('skeleton-shimmer');
+  if (!existingStyle) {
+    const style = document.createElement('style');
+    style.id = 'skeleton-shimmer';
+    style.textContent = shimmerKeyframes;
+    document.head.appendChild(style);
+  }
+}
+
+/**
+ * Base skeleton component with optional shimmer animation
+ */
+function SkeletonBase({ style, shimmer = true, children }) {
+  const { theme } = useTheme();
+
+  const baseStyle = {
+    backgroundColor: theme.card || '#2a2a2a',
+    overflow: 'hidden',
+  };
+
+  // Add shimmer effect on web
+  const webShimmerStyle = Platform.OS === 'web' && shimmer ? {
+    background: `linear-gradient(90deg, ${theme.card || '#2a2a2a'} 25%, ${theme.border || '#3a3a3a'} 50%, ${theme.card || '#2a2a2a'} 75%)`,
+    backgroundSize: '200% 100%',
+    animation: 'shimmer 1.5s infinite ease-in-out',
+  } : {};
+
+  return (
+    <View style={[baseStyle, style, webShimmerStyle]}>
+      {children}
+    </View>
+  );
+}
+
+/**
+ * Drummer Card Skeleton
+ * Matches the layout of DrummerCard component
+ */
+export function DrummerCardSkeleton({ index = 0 }) {
+  const { theme } = useTheme();
+  const dims = SKELETON_DIMENSIONS.drummerCard;
+  const imgDims = SKELETON_DIMENSIONS.images.thumbnail;
+
+  return (
+    <SkeletonBase
+      style={[
+        styles.drummerCard,
+        {
+          height: dims.height,
+          marginBottom: dims.marginBottom,
+          borderRadius: dims.borderRadius,
+          borderWidth: 1,
+          borderColor: theme.border || '#3a3a3a',
+        }
+      ]}
+    >
+      <View style={styles.cardContent}>
+        {/* Image placeholder */}
+        <SkeletonBase
+          style={[
+            styles.imageCircle,
+            {
+              width: imgDims.width,
+              height: imgDims.height,
+              borderRadius: imgDims.width / 2,
+            }
+          ]}
+          shimmer={false}
+        />
+        {/* Text placeholders */}
+        <View style={styles.textContainer}>
+          <SkeletonBase
+            style={[styles.textLine, styles.nameLine]}
+            shimmer={false}
+          />
+          <SkeletonBase
+            style={[styles.textLine, styles.bandLine]}
+            shimmer={false}
+          />
+          <SkeletonBase
+            style={[styles.textLine, styles.genreLine]}
+            shimmer={false}
+          />
+        </View>
+      </View>
+    </SkeletonBase>
+  );
+}
+
+/**
+ * Drummer List Skeleton
+ * Shows multiple card skeletons during initial load
+ */
+export function DrummerListSkeleton({ count = 6 }) {
+  return (
+    <View style={styles.listContainer}>
+      {Array.from({ length: count }).map((_, index) => (
+        <DrummerCardSkeleton key={index} index={index} />
+      ))}
+    </View>
+  );
+}
+
+/**
+ * Search Bar Skeleton
+ * Matches the layout of SearchBar component
+ */
+export function SearchBarSkeleton() {
+  const { theme } = useTheme();
+  const dims = SKELETON_DIMENSIONS.searchBar;
+
+  return (
+    <SkeletonBase
+      style={[
+        styles.searchBar,
+        {
+          height: dims.height,
+          marginBottom: dims.marginBottom,
+          borderRadius: dims.borderRadius,
+          borderWidth: 1,
+          borderColor: theme.border || '#3a3a3a',
+        }
+      ]}
+    >
+      <View style={styles.searchContent}>
+        {/* Search icon placeholder */}
+        <SkeletonBase
+          style={styles.searchIcon}
+          shimmer={false}
+        />
+        {/* Input placeholder */}
+        <SkeletonBase
+          style={styles.searchInput}
+          shimmer={false}
+        />
+      </View>
+    </SkeletonBase>
+  );
+}
+
+/**
+ * Filter Bar Skeleton
+ * Matches the layout of FilterBar component
+ */
+export function FilterBarSkeleton() {
+  const { theme } = useTheme();
+  const dims = SKELETON_DIMENSIONS.filterBar;
+
+  return (
+    <SkeletonBase
+      style={[
+        styles.filterBar,
+        {
+          height: dims.height,
+          marginBottom: dims.marginBottom,
+        }
+      ]}
+    >
+      <View style={styles.filterContent}>
+        {/* Filter chips placeholders */}
+        {[1, 2, 3, 4].map((i) => (
+          <SkeletonBase
+            key={i}
+            style={styles.filterChip}
+            shimmer={false}
+          />
+        ))}
+      </View>
+    </SkeletonBase>
+  );
+}
+
+/**
+ * Hero Section Skeleton
+ * Matches the layout of the spotlight/hero section
+ */
+export function HeroSectionSkeleton() {
+  const { theme } = useTheme();
+  const dims = SKELETON_DIMENSIONS.heroSection;
+
+  return (
+    <SkeletonBase
+      style={[
+        styles.heroSection,
+        {
+          height: dims.height,
+          marginBottom: dims.marginBottom,
+          borderRadius: 16,
+          borderWidth: 1,
+          borderColor: theme.border || '#3a3a3a',
+        }
+      ]}
+    >
+      <View style={styles.heroContent}>
+        {/* Hero image placeholder */}
+        <SkeletonBase
+          style={styles.heroImage}
+          shimmer={false}
+        />
+        {/* Hero text placeholders */}
+        <View style={styles.heroText}>
+          <SkeletonBase style={[styles.textLine, { width: '60%', height: 24 }]} shimmer={false} />
+          <SkeletonBase style={[styles.textLine, { width: '40%', height: 16, marginTop: 8 }]} shimmer={false} />
+          <SkeletonBase style={[styles.textLine, { width: '80%', height: 14, marginTop: 12 }]} shimmer={false} />
+        </View>
+      </View>
+    </SkeletonBase>
+  );
+}
+
+/**
+ * Image Skeleton
+ * Placeholder for images with specific dimensions
+ */
+export function ImageSkeleton({ width = 60, height = 60, borderRadius = 8, style }) {
+  return (
+    <SkeletonBase
+      style={[
+        {
+          width,
+          height,
+          borderRadius,
+        },
+        style
+      ]}
+    />
+  );
+}
+
+/**
+ * Full Page Loading Skeleton
+ * Complete skeleton for initial page load
+ */
+export function PageLoadingSkeleton() {
+  return (
+    <View style={styles.pageContainer}>
+      <SearchBarSkeleton />
+      <FilterBarSkeleton />
+      <HeroSectionSkeleton />
+      <DrummerListSkeleton count={6} />
+    </View>
+  );
+}
+
+const styles = StyleSheet.create({
+  // Drummer Card
+  drummerCard: {
+    overflow: 'hidden',
+  },
+  cardContent: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    padding: 12,
+    height: '100%',
+  },
+  imageCircle: {
+    marginRight: 12,
+  },
+  textContainer: {
+    flex: 1,
+    justifyContent: 'center',
+  },
+  textLine: {
+    height: 12,
+    borderRadius: 6,
+    marginBottom: 6,
+  },
+  nameLine: {
+    width: '70%',
+    height: 16,
+  },
+  bandLine: {
+    width: '50%',
+    height: 12,
+  },
+  genreLine: {
+    width: '40%',
+    height: 10,
+  },
+
+  // List
+  listContainer: {
+    paddingHorizontal: 16,
+  },
+
+  // Search Bar
+  searchBar: {
+    overflow: 'hidden',
+    marginHorizontal: 16,
+  },
+  searchContent: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    paddingHorizontal: 16,
+    height: '100%',
+  },
+  searchIcon: {
+    width: 20,
+    height: 20,
+    borderRadius: 10,
+    marginRight: 12,
+  },
+  searchInput: {
+    flex: 1,
+    height: 16,
+    borderRadius: 8,
+  },
+
+  // Filter Bar
+  filterBar: {
+    marginHorizontal: 16,
+    overflow: 'hidden',
+  },
+  filterContent: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    paddingHorizontal: 8,
+    height: '100%',
+  },
+  filterChip: {
+    width: 80,
+    height: 32,
+    borderRadius: 16,
+    marginHorizontal: 4,
+  },
+
+  // Hero Section
+  heroSection: {
+    marginHorizontal: 16,
+    overflow: 'hidden',
+  },
+  heroContent: {
+    flexDirection: 'row',
+    padding: 16,
+    height: '100%',
+  },
+  heroImage: {
+    width: 120,
+    height: 120,
+    borderRadius: 12,
+    marginRight: 16,
+  },
+  heroText: {
+    flex: 1,
+    justifyContent: 'center',
+  },
+
+  // Page Container
+  pageContainer: {
+    flex: 1,
+    paddingTop: 16,
+  },
+});
+
+export default {
+  DrummerCardSkeleton,
+  DrummerListSkeleton,
+  SearchBarSkeleton,
+  FilterBarSkeleton,
+  HeroSectionSkeleton,
+  ImageSkeleton,
+  PageLoadingSkeleton,
+};

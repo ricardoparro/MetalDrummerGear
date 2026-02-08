@@ -283,7 +283,9 @@ function YouTubeEmbed({ videoId, title, theme }) {
   }
 
   // For native platforms, show a thumbnail that opens YouTube
-  const thumbnailUrl = `https://img.youtube.com/vi/${videoId}/hqdefault.jpg`;
+  // Optimize thumbnail through our image proxy for WebP conversion (#299)
+  const rawThumbnailUrl = `https://img.youtube.com/vi/${videoId}/hqdefault.jpg`;
+  const thumbnailUrl = getOptimizedImageUrl(rawThumbnailUrl, { width: videoWidth });
   const youtubeUrl = `https://www.youtube.com/watch?v=${videoId}`;
 
   return (
@@ -293,13 +295,13 @@ function YouTubeEmbed({ videoId, title, theme }) {
       accessibilityRole="link"
       accessibilityLabel={`Play ${title} on YouTube`}
     >
-      <Image
+      <ImageWithFallback
         source={{ uri: thumbnailUrl }}
-        style={[{ width: videoWidth, height: videoHeight }, styles.videoThumbnail]}
-        contentFit="cover"
-        placeholder={{ blurhash: BLUR_HASH }}
-        transition={300}
-        cachePolicy="memory-disk"
+        style={styles.videoThumbnail}
+        accessibilityLabel={`${title} video thumbnail`}
+        width={videoWidth}
+        height={videoHeight}
+        imageContext="detail"
       />
       <View style={styles.playButtonOverlay}>
         <View style={[styles.playButton, { backgroundColor: theme.card }]}>

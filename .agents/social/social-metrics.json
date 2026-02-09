@@ -1,0 +1,20 @@
+{
+  "account": "@MetalDrumGear",
+  "url": "https://x.com/MetalDrumGear",
+  "followers": 2,
+  "following": 18,
+  "target": 5000,
+  "posts": 3,
+  "lastChecked": "2026-02-07",
+  "launched": "2026-02-06",
+  "weeklyGrowth": [
+    {
+      "date": "2026-02-07",
+      "followers": 2,
+      "growth": 2,
+      "posts": 3
+    }
+  ],
+  "topPosts": [],
+  "notes": "Account launched with first tweet. Strategy: heavy engagement phase (0-100 followers). Authentication required for posting - needs credentials setup for automated cron jobs."
+}

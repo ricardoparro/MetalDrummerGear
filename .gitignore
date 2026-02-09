@@ -33,3 +33,4 @@ coverage/
 .cache/
 .vercel
 .env*.local
+.credentials.env

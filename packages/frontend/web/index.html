@@ -172,13 +172,40 @@
       }
       
       function initGA4() {
-        // Skip GA4 for CI/E2E tests to avoid inflating analytics
-        if (window.location.search.includes('ci_test')) {
-          console.log('[GA4] Skipped - CI test detected');
+        // === CI/BOT DETECTION (Multi-layer protection) ===
+        
+        // Layer 1: URL parameter detection
+        var urlHasCITest = window.location.search.includes('ci_test');
+        
+        // Persist ci_test flag for entire session (survives SPA navigation)
+        if (urlHasCITest) {
+          try { sessionStorage.setItem('ci_test', '1'); } catch(e) {}
+        }
+        
+        // Check both URL and sessionStorage
+        var isCITest = urlHasCITest || 
+          (function() { try { return sessionStorage.getItem('ci_test') === '1'; } catch(e) { return false; } })();
+        
+        // Layer 2: Detect headless/automated browsers (Playwright, Puppeteer, etc)
+        var isAutomated = /HeadlessChrome|Playwright|Puppeteer/i.test(navigator.userAgent);
+        
+        // Layer 3: Detect common bots and crawlers
+        var isBot = /bot|crawl|spider|lighthouse|PageSpeed/i.test(navigator.userAgent);
+        
+        // Skip analytics for CI, automation, or bots
+        if (isCITest || isAutomated || isBot) {
+          console.log('[GA4] Skipped -', isCITest ? 'CI test session' : isAutomated ? 'Automated browser' : 'Bot detected');
           return;
         }
         
-        // Load GA4 script dynamically
+        // Layer 4: Skip non-production domains (Vercel previews, localhost, etc)
+        var isProd = window.location.hostname === 'metalforge.io' || window.location.hostname === 'www.metalforge.io';
+        if (!isProd) {
+          console.log('[GA4] Skipped - Non-production:', window.location.hostname);
+          return;
+        }
+        
+        // === LOAD GA4 ===
         var script = document.createElement('script');
         script.async = true;
         script.src = 'https://www.googletagmanager.com/gtag/js?id=G-HKLHH1DCC7';

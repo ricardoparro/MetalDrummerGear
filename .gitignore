@@ -34,3 +34,7 @@ coverage/
 .vercel
 .env*.local
 .credentials.env
+
+# Playwright
+playwright-report/
+test-results/

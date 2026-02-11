@@ -87,6 +87,9 @@ test.describe('Quotes Feature', () => {
   });
 
   test('multiple drummers have quotes displayed', async ({ page, request }) => {
+    // Increase timeout for multi-page iteration test
+    test.setTimeout(60000);
+    
     // Get drummers with quotes from the quotes API
     const quotesResponse = await request.get(`${BASE_URL}/api/quotes`);
     const quotesData = await quotesResponse.json();
@@ -96,8 +99,9 @@ test.describe('Quotes Feature', () => {
     
     const errors = [];
     for (const id of drummerIds) {
-      await page.goto(`/drummer/${id}`, { waitUntil: 'networkidle' });
-      await page.waitForTimeout(2000);
+      // Use 'load' instead of 'networkidle' - GA scripts prevent networkidle from settling
+      await page.goto(`/drummer/${id}`, { waitUntil: 'load' });
+      await page.waitForTimeout(2500);
       
       const hasQuotesSection = await page.locator('text=Notable Quotes').isVisible({ timeout: 5000 }).catch(() => false);
       if (!hasQuotesSection) {

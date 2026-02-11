@@ -51,6 +51,9 @@ import {
   formatPriceRange 
 } from './data/budgetTiers';
 
+// Extended bios for drummer detail pages (Issue #305)
+import { getExtendedBio, hasExtendedBio } from './data/extendedBios';
+
 // ==========================================
 // TOP 10 LISTS - Loaded dynamically for code splitting
 // ==========================================
@@ -2540,9 +2543,11 @@ function SimilarDrummersSection({ drummer, allDrummers, theme, onSelectDrummer }
   );
 }
 
-function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit, allDrummers = [] }) {
+function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit, allDrummers = [], onNavigateToBio }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
+  const drummerSlug = toSlug(drummer.name);
+  const hasBio = hasExtendedBio(drummerSlug);
 
   const handleEndorsementPress = (url) => {
     Linking.openURL(url);
@@ -2588,6 +2593,34 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
       <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
         <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">Biography</Text>
         <Text style={[styles.bioText, { color: theme.secondaryText }]}>{drummer.bio}</Text>
+        {hasBio && (
+          Platform.OS === 'web' ? (
+            <a
+              href={`/drummer/${drummerSlug}/bio`}
+              onClick={(e) => {
+                e.preventDefault();
+                if (onNavigateToBio) onNavigateToBio(drummerSlug);
+              }}
+              style={{ textDecoration: 'none', display: 'inline-block', marginTop: 12 }}
+              data-testid="bio-more-link"
+            >
+              <Text style={[styles.bioMoreLink, { color: '#dc2626' }]}>
+                Read full biography →
+              </Text>
+            </a>
+          ) : (
+            <TouchableOpacity
+              onPress={() => onNavigateToBio && onNavigateToBio(drummerSlug)}
+              style={{ marginTop: 12 }}
+              accessibilityRole="link"
+              accessibilityLabel={`Read full biography of ${drummer.name}`}
+            >
+              <Text style={[styles.bioMoreLink, { color: '#dc2626' }]}>
+                Read full biography →
+              </Text>
+            </TouchableOpacity>
+          )
+        )}
       </View>
 
       <QuotesSection quotes={drummer.quotes} drummerName={drummer.name} theme={theme} />
@@ -4706,6 +4739,309 @@ function GearFinderPage({ theme, onBack, drummers, onSelectDrummer }) {
   );
 }
 
+// ==========================================
+// DRUMMER BIO PAGE - Extended Biography (Issue #305)
+// ==========================================
+function DrummerBioPage({ theme, onBack, drummer, onSelectDrummer }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const drummerSlug = toSlug(drummer.name);
+  const bio = getExtendedBio(drummerSlug);
+
+  // Update SEO meta tags for bio page
+  useEffect(() => {
+    if (Platform.OS === 'web' && typeof document !== 'undefined' && bio) {
+      document.title = bio.metaTitle;
+      
+      const setMeta = (name, content, isProperty = false) => {
+        const attr = isProperty ? 'property' : 'name';
+        let meta = document.querySelector(`meta[${attr}="${name}"]`);
+        if (!meta) {
+          meta = document.createElement('meta');
+          meta.setAttribute(attr, name);
+          document.head.appendChild(meta);
+        }
+        meta.setAttribute('content', content);
+      };
+
+      // Standard meta tags
+      setMeta('description', bio.metaDescription);
+      setMeta('keywords', `${drummer.name} biography, ${drummer.name} drummer, ${drummer.band} drummer, ${drummer.name} career, ${drummer.name} gear, metal drummer biography`);
+
+      // OpenGraph tags
+      setMeta('og:title', bio.metaTitle, true);
+      setMeta('og:description', bio.metaDescription, true);
+      setMeta('og:type', 'article', true);
+      setMeta('og:image', bio.ogImage || drummer.image, true);
+      setMeta('og:url', `https://metalforge.io/drummer/${drummerSlug}/bio`, true);
+
+      // Twitter Card tags
+      setMeta('twitter:card', 'summary_large_image');
+      setMeta('twitter:title', bio.metaTitle);
+      setMeta('twitter:description', bio.metaDescription);
+      setMeta('twitter:image', bio.ogImage || drummer.image);
+
+      // Article schema
+      const articleSchema = {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": bio.metaTitle,
+        "description": bio.metaDescription,
+        "image": bio.ogImage || drummer.image,
+        "author": {
+          "@type": "Organization",
+          "name": "MetalForge"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "MetalForge",
+          "url": "https://metalforge.io"
+        },
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": `https://metalforge.io/drummer/${drummerSlug}/bio`
+        },
+        "about": {
+          "@type": "Person",
+          "name": drummer.name,
+          "description": bio.sections.overview?.content || drummer.bio,
+          "sameAs": drummer.sameAs || []
+        }
+      };
+
+      let ldScript = document.querySelector('script[data-schema="bio"]');
+      if (!ldScript) {
+        ldScript = document.createElement('script');
+        ldScript.type = 'application/ld+json';
+        ldScript.setAttribute('data-schema', 'bio');
+        document.head.appendChild(ldScript);
+      }
+      ldScript.textContent = JSON.stringify(articleSchema);
+    }
+
+    // Cleanup on unmount
+    return () => {
+      if (Platform.OS === 'web' && typeof document !== 'undefined') {
+        const ldScript = document.querySelector('script[data-schema="bio"]');
+        if (ldScript) ldScript.remove();
+      }
+    };
+  }, [bio, drummer, drummerSlug]);
+
+  if (!bio) {
+    return (
+      <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+        <View style={styles.detailContent}>
+          <TouchableOpacity
+            onPress={onBack}
+            style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+            accessibilityRole="button"
+            accessibilityLabel="Go back to drummer profile"
+          >
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Profile</Text>
+          </TouchableOpacity>
+          <Text style={[styles.bioPageTitle, { color: theme.text }]}>Extended Biography</Text>
+          <Text style={[styles.bioPageSubtitle, { color: theme.secondaryText }]}>
+            Extended biography for {drummer.name} is coming soon. Check back later!
+          </Text>
+        </View>
+      </ScrollView>
+    );
+  }
+
+  return (
+    <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+      <View style={styles.detailContent}>
+        {/* Back button */}
+        <TouchableOpacity
+          onPress={onBack}
+          style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          accessibilityRole="button"
+          accessibilityLabel="Go back to drummer profile"
+        >
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to {drummer.name}'s Profile</Text>
+        </TouchableOpacity>
+
+        {/* Page Header */}
+        <View style={[styles.bioPageHeader, isMobile && styles.bioPageHeaderMobile]}>
+          <ImageWithFallback
+            source={{ uri: drummer.image }}
+            style={[styles.bioPageImage, isMobile && styles.bioPageImageMobile]}
+            accessibilityLabel={`Photo of ${drummer.name}`}
+            priority={true}
+            width={isMobile ? 100 : 150}
+            height={isMobile ? 100 : 150}
+            imageContext="detail"
+          />
+          <View style={styles.bioPageHeaderText}>
+            <Text style={[styles.bioPageTitle, { color: theme.text }]} accessibilityRole="heading" aria-level="1">
+              {drummer.name}
+            </Text>
+            <Text style={[styles.bioPageSubtitle, { color: theme.secondaryText }]}>
+              {drummer.band} • {drummer.country}
+            </Text>
+            <GenreTags genres={drummer.genres} size="medium" />
+          </View>
+        </View>
+
+        {/* Overview Section */}
+        {bio.sections.overview && (
+          <View style={[styles.bioSection, { backgroundColor: theme.card, borderColor: theme.border }]} data-testid="bio-overview">
+            <Text style={[styles.bioSectionTitle, { color: theme.text }]} accessibilityRole="heading" aria-level="2">
+              {bio.sections.overview.title}
+            </Text>
+            <Text style={[styles.bioSectionContent, { color: theme.secondaryText }]}>
+              {bio.sections.overview.content}
+            </Text>
+          </View>
+        )}
+
+        {/* Career Highlights Section */}
+        {bio.sections.careerHighlights && (
+          <View style={[styles.bioSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.bioSectionTitle, { color: theme.text }]} accessibilityRole="heading" aria-level="2">
+              {bio.sections.careerHighlights.title}
+            </Text>
+            <View style={styles.careerTimeline}>
+              {bio.sections.careerHighlights.items.map((item, index) => (
+                <View key={index} style={styles.careerTimelineItem}>
+                  <Text style={[styles.careerTimelineYear, { color: '#dc2626' }]}>{item.year}</Text>
+                  <Text style={[styles.careerTimelineEvent, { color: theme.secondaryText }]}>{item.event}</Text>
+                </View>
+              ))}
+            </View>
+          </View>
+        )}
+
+        {/* Style & Influences Section */}
+        {bio.sections.styleAndInfluences && (
+          <View style={[styles.bioSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.bioSectionTitle, { color: theme.text }]} accessibilityRole="heading" aria-level="2">
+              {bio.sections.styleAndInfluences.title}
+            </Text>
+            <Text style={[styles.bioSectionContent, { color: theme.secondaryText }]}>
+              {bio.sections.styleAndInfluences.content}
+            </Text>
+          </View>
+        )}
+
+        {/* Notable Recordings Section */}
+        {bio.sections.notableRecordings && (
+          <View style={[styles.bioSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.bioSectionTitle, { color: theme.text }]} accessibilityRole="heading" aria-level="2">
+              {bio.sections.notableRecordings.title}
+            </Text>
+            
+            {/* Albums */}
+            {bio.sections.notableRecordings.albums && (
+              <View style={styles.discographySection}>
+                <Text style={[styles.discographyTitle, { color: theme.text }]}>Key Albums</Text>
+                {bio.sections.notableRecordings.albums.map((album, index) => (
+                  <View key={index} style={[styles.albumItem, { borderColor: theme.border }]}>
+                    <View style={styles.albumInfo}>
+                      <Text style={[styles.albumName, { color: theme.text }]}>{album.name}</Text>
+                      <Text style={[styles.albumMeta, { color: theme.secondaryText }]}>
+                        {album.year} • {album.label}
+                      </Text>
+                    </View>
+                    {album.note && (
+                      <Text style={[styles.albumNote, { color: theme.secondaryText }]}>{album.note}</Text>
+                    )}
+                  </View>
+                ))}
+              </View>
+            )}
+
+            {/* Tours */}
+            {bio.sections.notableRecordings.tours && bio.sections.notableRecordings.tours.length > 0 && (
+              <View style={styles.toursSection}>
+                <Text style={[styles.discographyTitle, { color: theme.text }]}>Notable Tours</Text>
+                {bio.sections.notableRecordings.tours.map((tour, index) => (
+                  <View key={index} style={styles.tourItem}>
+                    <Text style={[styles.tourName, { color: theme.text }]}>{tour.name}</Text>
+                    <Text style={[styles.tourMeta, { color: theme.secondaryText }]}>
+                      {tour.year} {tour.note && `• ${tour.note}`}
+                    </Text>
+                  </View>
+                ))}
+              </View>
+            )}
+          </View>
+        )}
+
+        {/* Gear Highlights Section */}
+        {bio.sections.gearHighlights && (
+          <View style={[styles.bioSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.bioSectionTitle, { color: theme.text }]} accessibilityRole="heading" aria-level="2">
+              {bio.sections.gearHighlights.title}
+            </Text>
+            <Text style={[styles.bioSectionContent, { color: theme.secondaryText }]}>
+              {bio.sections.gearHighlights.content}
+            </Text>
+          </View>
+        )}
+
+        {/* Trivia Section */}
+        {bio.sections.trivia && (
+          <View style={[styles.bioSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.bioSectionTitle, { color: theme.text }]} accessibilityRole="heading" aria-level="2">
+              {bio.sections.trivia.title}
+            </Text>
+            <View style={styles.triviaList}>
+              {bio.sections.trivia.items.map((item, index) => (
+                <View key={index} style={styles.triviaItem}>
+                  <Text style={[styles.triviaBullet, { color: '#dc2626' }]}>•</Text>
+                  <Text style={[styles.triviaText, { color: theme.secondaryText }]}>{item}</Text>
+                </View>
+              ))}
+            </View>
+          </View>
+        )}
+
+        {/* Sources Section */}
+        {bio.sections.sources && (
+          <View style={[styles.bioSection, styles.sourcesSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.bioSectionTitle, { color: theme.text }]} accessibilityRole="heading" aria-level="2">
+              {bio.sections.sources.title}
+            </Text>
+            <View style={styles.sourcesList}>
+              {bio.sections.sources.items.map((source, index) => (
+                <TouchableOpacity
+                  key={index}
+                  onPress={() => Linking.openURL(source.url)}
+                  style={styles.sourceItem}
+                  accessibilityRole="link"
+                  accessibilityLabel={`Visit ${source.name}`}
+                >
+                  <Text style={[styles.sourceText, { color: '#60a5fa' }]}>{source.name}</Text>
+                </TouchableOpacity>
+              ))}
+            </View>
+          </View>
+        )}
+
+        {/* CTA to view drummer profile */}
+        <View style={[styles.bioPageCTA, { backgroundColor: theme.card, borderColor: '#dc2626' }]}>
+          <Text style={[styles.bioPageCTATitle, { color: theme.text }]}>
+            🥁 Explore {drummer.name}'s Gear
+          </Text>
+          <Text style={[styles.bioPageCTADescription, { color: theme.secondaryText }]}>
+            See the complete gear setup, videos, photos, and more on the full profile page.
+          </Text>
+          <TouchableOpacity
+            onPress={onBack}
+            style={styles.bioPageCTAButton}
+            accessibilityRole="button"
+            accessibilityLabel={`View ${drummer.name}'s full profile`}
+          >
+            <Text style={styles.bioPageCTAButtonText}>View Full Profile</Text>
+          </TouchableOpacity>
+        </View>
+      </View>
+    </ScrollView>
+  );
+}
+
 // Quotes Page - Browse all drummer quotes
 function QuotesPage({ theme, onBack, onSelectDrummer }) {
   const { width } = useWindowDimensions();
@@ -5179,8 +5515,22 @@ function getGearSlugFromURL() {
 // Check if we're on a drummer profile page based on URL
 function getDrummerSlugFromURL() {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
+  // Match /drummer/:slug but not /drummer/:slug/bio
   const match = window.location.pathname.match(/^\/drummer\/([a-z0-9-]+)$/i);
   return match ? match[1] : null;
+}
+
+// Check if we're on a drummer bio page based on URL (/drummer/:slug/bio)
+function getDrummerBioSlugFromURL() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(/^\/drummer\/([a-z0-9-]+)\/bio$/i);
+  return match ? match[1] : null;
+}
+
+// Check if we're on a bio page
+function isBioPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  return /^\/drummer\/[a-z0-9-]+\/bio$/i.test(window.location.pathname);
 }
 
 // Convert drummer name to URL slug
@@ -6901,6 +7251,9 @@ function AppContent() {
   // Compare Your Kit state
   const [showCompareYourKit, setShowCompareYourKit] = useState(false);
   const [compareKitDrummer, setCompareKitDrummer] = useState(null);
+  // Extended Bio Page state (Issue #305)
+  const [showBioPage, setShowBioPage] = useState(() => isBioPage());
+  const [bioSlug, setBioSlug] = useState(() => getDrummerBioSlugFromURL());
 
   // Search and filter state
   const [filters, setFilters] = useState(() => getFiltersFromURL());
@@ -7158,10 +7511,46 @@ function AppContent() {
     const handlePopState = async () => {
       const gearSlug = getGearSlugFromURL();
       const drummerSlug = getDrummerSlugFromURL();
+      const bioSlugFromURL = getDrummerBioSlugFromURL();
 
-      if (gearSlug) {
+      if (bioSlugFromURL && drummers.length > 0) {
+        // Load bio page
+        const drummer = findDrummerBySlug(drummers, bioSlugFromURL);
+        if (drummer) {
+          setLoadingDetail(true);
+          try {
+            const detailUrl = window.location.hostname !== 'localhost'
+              ? `/api/drummers/${drummer.id}`
+              : `http://localhost:3001/api/drummers/${drummer.id}`;
+            const response = await fetch(detailUrl);
+            if (response.ok) {
+              const data = await response.json();
+              setSelectedDrummer(optimizeDrummerImages(data));
+              setSelectedDrummerId(drummer.id);
+              setShowBioPage(true);
+              setBioSlug(bioSlugFromURL);
+              setSelectedGear(null);
+              setShowCompare(false);
+              setShowQuiz(false);
+              setShowPrivacy(false);
+              setShowQuotes(false);
+              setShowSpotlights(false);
+              setShowGearByBudget(false);
+              setShowGearFinder(false);
+              setShowList(false);
+              setListSlug(null);
+            }
+          } catch (err) {
+            console.error('Error fetching drummer for bio:', err);
+          } finally {
+            setLoadingDetail(false);
+          }
+        }
+      } else if (gearSlug) {
         // Load gear page
         setLoadingGear(true);
+        setShowBioPage(false);
+        setBioSlug(null);
         try {
           const response = await fetch(`${GEAR_API_URL}/${gearSlug}`);
           if (response.ok) {
@@ -7178,6 +7567,8 @@ function AppContent() {
         }
       } else if (drummerSlug && drummers.length > 0) {
         // Load drummer profile page
+        setShowBioPage(false);
+        setBioSlug(null);
         const drummer = findDrummerBySlug(drummers, drummerSlug);
         if (drummer) {
           setLoadingDetail(true);
@@ -7234,6 +7625,8 @@ function AppContent() {
         setShowQuiz(false);
         setShowPrivacy(false);
         setShowQuotes(false);
+        setShowBioPage(false);
+        setBioSlug(null);
         setSelectedGear(null);
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
@@ -7310,6 +7703,49 @@ function AppContent() {
     loadInitialDrummer();
   }, [drummers, drummersError]);
 
+  // Load bio page on initial mount if URL matches /drummer/:slug/bio (Issue #305)
+  useEffect(() => {
+    const loadInitialBio = async () => {
+      const bioSlugFromURL = getDrummerBioSlugFromURL();
+      if (!bioSlugFromURL) return;
+
+      if (drummersError) {
+        setLoadingDetail(false);
+        return;
+      }
+
+      if (drummers.length > 0) {
+        const drummer = findDrummerBySlug(drummers, bioSlugFromURL);
+        if (drummer) {
+          setLoadingDetail(true);
+          try {
+            const detailUrl = typeof window !== 'undefined' && window.location.hostname !== 'localhost'
+              ? `/api/drummers/${drummer.id}`
+              : `http://localhost:3001/api/drummers/${drummer.id}`;
+            const response = await fetch(detailUrl);
+            if (response.ok) {
+              const data = await response.json();
+              setSelectedDrummer(optimizeDrummerImages(data));
+              setSelectedDrummerId(drummer.id);
+              setShowBioPage(true);
+              setBioSlug(bioSlugFromURL);
+            } else {
+              setLoadingDetail(false);
+            }
+          } catch (err) {
+            console.error('Error fetching drummer for bio:', err);
+            setLoadingDetail(false);
+          } finally {
+            setLoadingDetail(false);
+          }
+        } else {
+          setLoadingDetail(false);
+        }
+      }
+    };
+    loadInitialBio();
+  }, [drummers, drummersError]);
+
   const handleSelectDrummer = async (id, skipUrlUpdate = false) => {
     console.log('[DEBUG] handleSelectDrummer called with id:', id);
     setLoadingDetail(true);
@@ -7323,6 +7759,8 @@ function AppContent() {
     setShowCompare(false);
     setShowQuiz(false);
     setShowPrivacy(false);
+    setShowBioPage(false);
+    setBioSlug(null);
     setSelectedGear(null);
     try {
       const detailUrl = typeof window !== 'undefined' && window.location.hostname !== 'localhost'
@@ -7501,11 +7939,68 @@ setShowList(false);
     setShowCompare(false);
     setShowPrivacy(false);
     setShowQuotes(false);
+    setShowBioPage(false);
+    setBioSlug(null);
     setSelectedDrummer(null);
     setSelectedDrummerId(null);
     setSelectedGear(null);
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
       window.history.pushState({}, '', '/gear-finder');
+    }
+  };
+
+  // Navigate to extended bio page (Issue #305)
+  const handleNavigateToBio = async (drummerSlug) => {
+    // First ensure we have the drummer data
+    const drummer = findDrummerBySlug(drummers, drummerSlug);
+    if (!drummer) return;
+
+    // Fetch full drummer details if not already selected
+    if (!selectedDrummer || toSlug(selectedDrummer.name) !== drummerSlug) {
+      try {
+        const detailUrl = typeof window !== 'undefined' && window.location.hostname !== 'localhost'
+          ? `/api/drummers/${drummer.id}`
+          : `http://localhost:3001/api/drummers/${drummer.id}`;
+        const response = await fetch(detailUrl);
+        if (response.ok) {
+          const data = await response.json();
+          setSelectedDrummer(optimizeDrummerImages(data));
+          setSelectedDrummerId(drummer.id);
+        }
+      } catch (err) {
+        console.error('Error fetching drummer for bio:', err);
+        return;
+      }
+    }
+
+    // Show bio page
+    setShowBioPage(true);
+    setBioSlug(drummerSlug);
+    // Reset other views
+    setShowGearFinder(false);
+    setShowGearByBudget(false);
+    setShowList(false);
+    setListSlug(null);
+    setShowSpotlights(false);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowPrivacy(false);
+    setShowQuotes(false);
+    setSelectedGear(null);
+    // Update URL
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', `/drummer/${drummerSlug}/bio`);
+    }
+  };
+
+  // Handle back from bio page
+  const handleBackFromBio = () => {
+    setShowBioPage(false);
+    setBioSlug(null);
+    // Navigate back to drummer profile
+    if (selectedDrummer && Platform.OS === 'web' && typeof window !== 'undefined') {
+      const slug = toSlug(selectedDrummer.name);
+      window.history.pushState({}, '', `/drummer/${slug}`);
     }
   };
 
@@ -7670,9 +8165,20 @@ setShowList(false);
         />
       );
     }
+    // Extended Bio Page (Issue #305)
+    if (showBioPage && selectedDrummer) {
+      return (
+        <DrummerBioPage
+          theme={theme}
+          onBack={handleBackFromBio}
+          drummer={selectedDrummer}
+          onSelectDrummer={handleSelectDrummer}
+        />
+      );
+    }
     if (selectedDrummer) {
       console.log('[DEBUG] Rendering DrummerDetail for:', selectedDrummer.name);
-      return <DrummerDetail drummer={selectedDrummer} theme={theme} onBack={handleBack} onSelectGear={handleSelectGear} onCompareYourKit={handleCompareYourKit} allDrummers={drummers} />;
+      return <DrummerDetail drummer={selectedDrummer} theme={theme} onBack={handleBack} onSelectGear={handleSelectGear} onCompareYourKit={handleCompareYourKit} allDrummers={drummers} onNavigateToBio={handleNavigateToBio} />;
     }
     return (
       <View style={styles.mainContent} accessibilityRole="main">
@@ -7874,6 +8380,185 @@ const styles = StyleSheet.create({
   bioText: {
     fontSize: 16,
     lineHeight: 24,
+  },
+  // "More" link for extended bio (Issue #305)
+  bioMoreLink: {
+    fontSize: 16,
+    fontWeight: '600',
+    textDecorationLine: 'none',
+  },
+  // Extended Bio Page styles (Issue #305)
+  bioPageHeader: {
+    flexDirection: 'row',
+    alignItems: 'flex-start',
+    marginBottom: 24,
+    marginTop: 16,
+  },
+  bioPageHeaderMobile: {
+    flexDirection: 'column',
+    alignItems: 'center',
+    textAlign: 'center',
+  },
+  bioPageImage: {
+    width: 150,
+    height: 150,
+    borderRadius: 75,
+    marginRight: 24,
+  },
+  bioPageImageMobile: {
+    width: 120,
+    height: 120,
+    borderRadius: 60,
+    marginRight: 0,
+    marginBottom: 16,
+  },
+  bioPageHeaderText: {
+    flex: 1,
+  },
+  bioPageTitle: {
+    fontSize: 32,
+    fontWeight: 'bold',
+    marginBottom: 4,
+  },
+  bioPageSubtitle: {
+    fontSize: 18,
+    marginBottom: 12,
+  },
+  bioSection: {
+    padding: 20,
+    borderRadius: 12,
+    borderWidth: 1,
+    marginBottom: 16,
+  },
+  bioSectionTitle: {
+    fontSize: 22,
+    fontWeight: 'bold',
+    marginBottom: 16,
+  },
+  bioSectionContent: {
+    fontSize: 16,
+    lineHeight: 26,
+  },
+  careerTimeline: {
+    gap: 12,
+  },
+  careerTimelineItem: {
+    flexDirection: 'row',
+    gap: 16,
+  },
+  careerTimelineYear: {
+    fontSize: 14,
+    fontWeight: '700',
+    minWidth: 50,
+  },
+  careerTimelineEvent: {
+    flex: 1,
+    fontSize: 15,
+    lineHeight: 22,
+  },
+  discographySection: {
+    marginBottom: 20,
+  },
+  discographyTitle: {
+    fontSize: 18,
+    fontWeight: '600',
+    marginBottom: 12,
+  },
+  albumItem: {
+    paddingVertical: 12,
+    borderBottomWidth: 1,
+  },
+  albumInfo: {
+    marginBottom: 4,
+  },
+  albumName: {
+    fontSize: 16,
+    fontWeight: '600',
+  },
+  albumMeta: {
+    fontSize: 13,
+    marginTop: 2,
+  },
+  albumNote: {
+    fontSize: 13,
+    fontStyle: 'italic',
+    marginTop: 4,
+  },
+  toursSection: {
+    marginTop: 16,
+  },
+  tourItem: {
+    paddingVertical: 8,
+  },
+  tourName: {
+    fontSize: 15,
+    fontWeight: '500',
+  },
+  tourMeta: {
+    fontSize: 13,
+    marginTop: 2,
+  },
+  triviaList: {
+    gap: 10,
+  },
+  triviaItem: {
+    flexDirection: 'row',
+    gap: 12,
+  },
+  triviaBullet: {
+    fontSize: 18,
+    fontWeight: 'bold',
+  },
+  triviaText: {
+    flex: 1,
+    fontSize: 15,
+    lineHeight: 22,
+  },
+  sourcesSection: {
+    marginTop: 8,
+  },
+  sourcesList: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 16,
+  },
+  sourceItem: {
+    paddingVertical: 4,
+  },
+  sourceText: {
+    fontSize: 14,
+    textDecorationLine: 'underline',
+  },
+  bioPageCTA: {
+    padding: 24,
+    borderRadius: 12,
+    borderWidth: 2,
+    marginTop: 16,
+    marginBottom: 24,
+    alignItems: 'center',
+  },
+  bioPageCTATitle: {
+    fontSize: 20,
+    fontWeight: 'bold',
+    marginBottom: 8,
+    textAlign: 'center',
+  },
+  bioPageCTADescription: {
+    fontSize: 15,
+    marginBottom: 16,
+    textAlign: 'center',
+    lineHeight: 22,
+  },
+  bioPageCTAButton: {
+    backgroundColor: '#dc2626',
+    paddingHorizontal: 24,
+    paddingVertical: 12,
+    borderRadius: 8,
+  },
+  bioPageCTAButtonText: {
+    color: '#ffffff',
+    fontSize: 16,
+    fontWeight: '600',
   },
   // Notable Quotes styles
   quotesSectionHeader: {

@@ -36,49 +36,30 @@ jobs:
           npx playwright install --with-deps chromium
       
       - name: Wait for Vercel deployment
-        run: |
-          echo "Waiting for Vercel deployment..."
-          sleep 90
-      
-      - name: Get deployment URL
         id: deployment
-        uses: actions/github-script@v7
+        uses: patrickedqvist/wait-for-vercel-preview@v1.3.2
         with:
-          script: |
-            // For PRs, try to get the Vercel preview URL from deployment statuses
-            if (context.eventName === 'pull_request') {
-              const { data: deployments } = await github.rest.repos.listDeployments({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                ref: context.payload.pull_request.head.ref,
-                per_page: 5
-              });
-              
-              for (const deployment of deployments) {
-                const { data: statuses } = await github.rest.repos.listDeploymentStatuses({
-                  owner: context.repo.owner,
-                  repo: context.repo.repo,
-                  deployment_id: deployment.id
-                });
-                
-                const success = statuses.find(s => s.state === 'success');
-                if (success && success.environment_url) {
-                  console.log('Found preview URL:', success.environment_url);
-                  core.setOutput('url', success.environment_url);
-                  return;
-                }
-              }
-            }
-            
-            // Fallback to production
-            console.log('Using production URL');
-            core.setOutput('url', 'https://metalforge.io');
+          token: ${{ secrets.GITHUB_TOKEN }}
+          max_timeout: 300
+          check_interval: 10
+        continue-on-error: true
+      
+      - name: Set deployment URL
+        id: url
+        run: |
+          if [ -n "${{ steps.deployment.outputs.url }}" ]; then
+            echo "url=${{ steps.deployment.outputs.url }}" >> $GITHUB_OUTPUT
+            echo "Using Vercel preview URL: ${{ steps.deployment.outputs.url }}"
+          else
+            echo "url=https://metalforge.io" >> $GITHUB_OUTPUT
+            echo "Falling back to production URL"
+          fi
       
       - name: Run Playwright E2E tests
         run: npx playwright test --project=chromium
         env:
-          BASE_URL: ${{ steps.deployment.outputs.url }}
-          API_URL: ${{ steps.deployment.outputs.url }}
+          BASE_URL: ${{ steps.url.outputs.url }}
+          API_URL: ${{ steps.url.outputs.url }}
       
       - name: Upload test results
         uses: actions/upload-artifact@v4

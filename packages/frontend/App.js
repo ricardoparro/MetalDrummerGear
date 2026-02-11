@@ -277,6 +277,50 @@ function updateQuizMeta(drummer, matchPercentage) {
   }
 }
 
+// ==========================================
+// THEME TOGGLE COMPONENT - Dark/Light Mode Switcher (Issue #306)
+// ==========================================
+
+function ThemeToggle() {
+  const { theme, isDarkMode, toggleTheme } = useTheme();
+  
+  return (
+    <TouchableOpacity
+      onPress={toggleTheme}
+      style={[
+        themeToggleStyles.button,
+        { 
+          backgroundColor: theme.card,
+          borderColor: theme.border,
+        }
+      ]}
+      accessibilityRole="button"
+      accessibilityLabel={`Switch to ${isDarkMode ? 'light' : 'dark'} mode`}
+      accessibilityHint="Toggles between dark and light color themes"
+    >
+      <Text style={themeToggleStyles.icon}>
+        {isDarkMode ? '☀️' : '🌙'}
+      </Text>
+    </TouchableOpacity>
+  );
+}
+
+// Styles for ThemeToggle component
+const themeToggleStyles = StyleSheet.create({
+  button: {
+    width: 40,
+    height: 40,
+    borderRadius: 20,
+    borderWidth: 1,
+    alignItems: 'center',
+    justifyContent: 'center',
+    marginLeft: 12,
+  },
+  icon: {
+    fontSize: 18,
+  },
+});
+
 // YouTube Video Embed Component - Works with React Native Web
 function YouTubeEmbed({ videoId, title, theme }) {
   const { width } = useWindowDimensions();
@@ -6835,7 +6879,7 @@ function NewsletterFooter({ theme }) {
 }
 
 function AppContent() {
-  const { theme } = useTheme();
+  const { theme, isDarkMode } = useTheme();
   const [selectedDrummerId, setSelectedDrummerId] = useState(null);
   const [selectedDrummer, setSelectedDrummer] = useState(null);
   // Initialize loadingDetail to true if URL has a drummer slug (for deep linking support)
@@ -7666,13 +7710,16 @@ setShowList(false);
     <View style={[styles.container, { backgroundColor: theme.background }]}>
       {!selectedDrummer && !showCompare && !showQuiz && !showPrivacy && !showQuotes && !selectedGear && <SEOHead drummers={drummers} filters={filters} />}
       <View style={styles.header} accessibilityRole="banner">
-        <Text style={[styles.title, { color: theme.text }]} accessibilityRole="header">
-          Metal Drummer Gear
-        </Text>
+        <View style={styles.headerContent}>
+          <Text style={[styles.title, { color: theme.text }]} accessibilityRole="header">
+            Metal Drummer Gear
+          </Text>
+          <ThemeToggle />
+        </View>
       </View>
       {renderContent()}
       <NewsletterFooter theme={theme} />
-      <StatusBar style="light" />
+      <StatusBar style={isDarkMode ? "light" : "dark"} />
     </View>
   );
 }
@@ -7695,10 +7742,17 @@ const styles = StyleSheet.create({
     paddingHorizontal: 20,
     alignItems: 'center',
   },
+  headerContent: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'center',
+    width: '100%',
+    maxWidth: 600,
+  },
   title: {
     fontSize: 24,
     fontWeight: 'bold',
-    marginBottom: 15,
+    marginBottom: 0,
   },
 
   mainContent: {

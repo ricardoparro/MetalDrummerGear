@@ -45,6 +45,66 @@
 
     <!-- Critical CSS: Inlined for fastest first paint -->
     <style id="expo-reset">
+      /* ====================================
+         Theme CSS Variables (Dark/Light Mode Support - Issue #306)
+         ==================================== */
+      
+      /* Dark theme (default) */
+      :root,
+      [data-theme="dark"],
+      .theme-dark {
+        --theme-background: #121212;
+        --theme-background-base: #0a0a0a;
+        --theme-text: #ffffff;
+        --theme-text-secondary: #aaaaaa;
+        --theme-card: #1e1e1e;
+        --theme-border: #333333;
+        --theme-primary: #ef4444;
+        --theme-error: #ef5350;
+        --theme-input-bg: #1e1e1e;
+        --theme-input-placeholder: #888888;
+        --theme-skeleton-base: #2a2a2a;
+        --theme-skeleton-highlight: #3a3a3a;
+        color-scheme: dark;
+      }
+      
+      /* Light theme */
+      [data-theme="light"],
+      .theme-light {
+        --theme-background: #f5f5f5;
+        --theme-background-base: #ffffff;
+        --theme-text: #1a1a1a;
+        --theme-text-secondary: #666666;
+        --theme-card: #ffffff;
+        --theme-border: #e0e0e0;
+        --theme-primary: #dc2626;
+        --theme-error: #d32f2f;
+        --theme-input-bg: #ffffff;
+        --theme-input-placeholder: #999999;
+        --theme-skeleton-base: #e0e0e0;
+        --theme-skeleton-highlight: #f0f0f0;
+        color-scheme: light;
+      }
+      
+      /* Respect system preference when no user preference is set */
+      @media (prefers-color-scheme: light) {
+        :root:not([data-theme]) {
+          --theme-background: #f5f5f5;
+          --theme-background-base: #ffffff;
+          --theme-text: #1a1a1a;
+          --theme-text-secondary: #666666;
+          --theme-card: #ffffff;
+          --theme-border: #e0e0e0;
+          --theme-primary: #dc2626;
+          --theme-error: #d32f2f;
+          --theme-input-bg: #ffffff;
+          --theme-input-placeholder: #999999;
+          --theme-skeleton-base: #e0e0e0;
+          --theme-skeleton-highlight: #f0f0f0;
+          color-scheme: light;
+        }
+      }
+      
       /* These styles make the body full-height */
       html,
       body {
@@ -59,20 +119,24 @@
         overflow: hidden;
         /* Prevent text size adjustment on orientation change */
         -webkit-text-size-adjust: 100%;
-        /* Default background to prevent flash */
-        background-color: #0a0a0a;
-        color: #ffffff;
+        /* Use CSS variables for theme colors */
+        background-color: var(--theme-background-base, #0a0a0a);
+        color: var(--theme-text, #ffffff);
+        /* Smooth color transitions for theme switching */
+        transition: background-color 0.3s ease, color 0.3s ease;
       }
       /* These styles make the root element full-height */
       #root {
         display: flex;
         height: 100%;
         flex: 1;
+        background-color: var(--theme-background, #121212);
+        transition: background-color 0.3s ease;
       }
-      /* Newsletter form placeholder contrast for dark theme */
+      /* Newsletter form placeholder contrast - theme aware */
       .newsletter-input::placeholder,
       input[type="email"]::placeholder {
-        color: #888888 !important;
+        color: var(--theme-input-placeholder, #888888) !important;
         opacity: 1;
       }
       
@@ -84,8 +148,9 @@
       img {
         max-width: 100%;
         height: auto;
-        /* Prevent layout shifts from image loading */
-        background-color: #2a2a2a;
+        /* Prevent layout shifts from image loading - theme aware */
+        background-color: var(--theme-skeleton-base, #2a2a2a);
+        transition: background-color 0.3s ease;
       }
       
       /* Skeleton shimmer animation */
@@ -95,7 +160,7 @@
       }
       
       .skeleton {
-        background: linear-gradient(90deg, #2a2a2a 25%, #3a3a3a 50%, #2a2a2a 75%);
+        background: linear-gradient(90deg, var(--theme-skeleton-base, #2a2a2a) 25%, var(--theme-skeleton-highlight, #3a3a3a) 50%, var(--theme-skeleton-base, #2a2a2a) 75%);
         background-size: 200% 100%;
         animation: shimmer 1.5s infinite ease-in-out;
       }

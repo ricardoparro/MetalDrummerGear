@@ -18,13 +18,13 @@ test.describe('MetalForge E2E', () => {
     for (let i = 0; i < Math.min(images.length, 20); i++) {
       const loadingAttr = await images[i].getAttribute('loading');
       if (loadingAttr === 'lazy') lazyCount++;
-      if (loadingAttr === 'eager') eagerCount++;
+      else if (loadingAttr === 'eager') eagerCount++;
     }
     
-    // Expect at least some lazy images (below fold)
+    // Expect at least some lazy images (below fold) - images after index 6 should be lazy
     expect(lazyCount).toBeGreaterThan(0);
-    // First few images should be eager (above fold)
-    // or at least not lazy (since expo-image might handle it differently)
+    // First 6 images should be eager (above fold)
+    expect(eagerCount).toBeGreaterThanOrEqual(1);
   });
 
   test('images have proper alt text for accessibility (Issue #311)', async ({ page }) => {

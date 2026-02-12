@@ -106,17 +106,19 @@ test.describe('Extended Bio Pages (Issue #305)', () => {
     
     // Navigate directly to bio page
     await page.goto('/drummer/lars-ulrich/bio', { waitUntil: 'load' });
-    await page.waitForTimeout(2000);
+    await page.waitForTimeout(3000); // Allow time for data fetch on direct navigation
 
     // Check page title contains drummer name
-    await expect(page.locator('h1, h2').first()).toContainText('Lars Ulrich', { timeout: 10000 });
+    // Note: first h1 is the site header "Metal Drummer Gear", so we check the bio content h1
+    // which appears after the header within the main content area
+    await expect(page.locator('h1').filter({ hasText: 'Lars Ulrich' })).toBeVisible({ timeout: 10000 });
 
     // Check Overview section exists (key section of extended bio)
-    const overviewSection = page.locator('[data-testid="bio-overview"], text=Overview').first();
+    const overviewSection = page.locator('[data-testid="bio-overview"]').or(page.getByText('Overview', { exact: false })).first();
     await expect(overviewSection).toBeVisible({ timeout: 10000 });
 
     // Check Career Highlights section exists
-    const careerSection = page.locator('text=Career Highlights').first();
+    const careerSection = page.getByText('Career Highlights').first();
     await expect(careerSection).toBeVisible({ timeout: 10000 });
 
     // Check page has substantial content (longer than short bio)
@@ -163,9 +165,13 @@ test.describe('Extended Bio Pages (Issue #305)', () => {
     await page.waitForTimeout(1000);
 
     // Check there's no robots noindex meta tag
-    const robotsMeta = await page.getAttribute('meta[name="robots"]', 'content');
-    if (robotsMeta) {
-      expect(robotsMeta.toLowerCase()).not.toContain('noindex');
+    // First check if the element exists (don't wait forever)
+    const robotsMetaExists = await page.locator('meta[name="robots"]').count();
+    if (robotsMetaExists > 0) {
+      const robotsMeta = await page.locator('meta[name="robots"]').getAttribute('content');
+      if (robotsMeta) {
+        expect(robotsMeta.toLowerCase()).not.toContain('noindex');
+      }
     }
     // If no robots meta, that's also fine (crawlable by default)
   });
@@ -184,9 +190,10 @@ test.describe('Extended Bio Pages (Issue #305)', () => {
     // Should have at least one main heading
     expect(h1Count + h2Count).toBeGreaterThan(0);
 
-    // Check for paragraph content (semantic text)
-    const paragraphCount = await page.locator('p, [style*="line-height"]').count();
-    expect(paragraphCount).toBeGreaterThan(2);
+    // Check for text content (React Native Web uses divs instead of p tags)
+    // Just verify the page has substantial text content
+    const bodyText = await page.locator('body').textContent();
+    expect(bodyText.length).toBeGreaterThan(500); // Bio page should have substantial text
   });
 
   test('bio page has back navigation to drummer profile', async ({ page }) => {

@@ -1,10 +1,14 @@
 // Image optimization utilities for MetalDrummerGear
-// Reduces Vercel bandwidth costs by:
+// Implements Issue #311: Lazy loading and WebP support for images
+//
+// Reduces Vercel bandwidth costs and improves Core Web Vitals by:
 // 1. Proxying external images through /api/image with CDN caching
 // 2. Requesting appropriately sized images (Wikipedia thumb URLs)
-// 3. Using responsive width hints
-// 4. Converting to WebP format for modern browsers
-// 5. Implementing lazy loading for below-the-fold images
+// 3. Using responsive width hints with srcset
+// 4. Converting to WebP format for modern browsers (via <picture> element)
+// 5. Implementing lazy loading for below-the-fold images (loading="lazy")
+// 6. Eager loading for above-the-fold images (loading="eager", priority={true})
+// 7. Using decoding="async" and fetchPriority hints for optimal loading
 
 const IS_PRODUCTION = typeof window !== 'undefined' && 
   window.location && 
@@ -168,7 +172,7 @@ export function generateWebPSrcSet(originalUrl, widths = SRCSET_WIDTHS) {
 
 /**
  * Get sizes attribute for responsive images based on context
- * @param {string} context - Image context: 'thumbnail', 'card', 'detail', 'gallery'
+ * @param {string} context - Image context: 'thumbnail', 'card', 'detail', 'gallery', 'hero', 'spotlight'
  * @returns {string} sizes attribute value
  */
 export function getSizesAttribute(context = 'card') {
@@ -181,6 +185,10 @@ export function getSizesAttribute(context = 'card') {
       return '(max-width: 480px) 100vw, (max-width: 768px) 50vw, 800px';
     case 'gallery':
       return '(max-width: 480px) 90vw, (max-width: 768px) 45vw, 400px';
+    case 'hero':
+    case 'spotlight':
+      // Hero/spotlight images: larger on desktop, constrained on mobile
+      return '(max-width: 480px) 100px, 140px';
     default:
       return '(max-width: 768px) 100vw, 800px';
   }

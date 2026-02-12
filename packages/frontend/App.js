@@ -1187,14 +1187,14 @@ function ImageWithFallback({ source, style, accessibilityLabel, priority = false
   // Check WebP support
   const hasWebPSupport = useMemo(() => supportsWebP(), []);
 
-  // On web, use native img tag with srcset for SEO (Issue #251)
+  // On web, use native img tag for SEO and proper lazy loading (Issue #311)
   // Use WebP srcset when browser supports it (Issue #291)
-  if (Platform.OS === 'web' && srcSet && !hasError) {
+  if (Platform.OS === 'web' && !hasError) {
     const flatStyle = StyleSheet.flatten(imageStyle) || {};
     const lazyProps = getLazyLoadingProps(priority);
     
-    // Use picture element for WebP with fallback (Issue #291)
-    if (hasWebPSupport && webpSrcSet) {
+    // Use picture element for WebP with fallback (Issue #291) - only for external images with srcSet
+    if (srcSet && hasWebPSupport && webpSrcSet) {
       return (
         <picture>
           <source
@@ -1223,11 +1223,13 @@ function ImageWithFallback({ source, style, accessibilityLabel, priority = false
       );
     }
     
+    // Native img with loading attribute for all web images (Issue #311)
+    // This ensures proper lazy loading for local images too
     return (
       <img
         src={imageUri}
-        srcSet={srcSet}
-        sizes={sizes}
+        srcSet={srcSet || undefined}
+        sizes={srcSet ? sizes : undefined}
         alt={accessibilityLabel || ''}
         loading={lazyProps.loading}
         decoding={lazyProps.decoding}
@@ -1244,6 +1246,7 @@ function ImageWithFallback({ source, style, accessibilityLabel, priority = false
     );
   }
 
+  // Native platforms use expo-image with built-in lazy loading
   return (
     <Image
       source={{ uri: imageUri }}

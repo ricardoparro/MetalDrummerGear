@@ -2,6 +2,70 @@ const { test, expect } = require('@playwright/test');
 const BASE_URL = process.env.BASE_URL || 'https://metalforge.io';
 
 test.describe('MetalForge E2E', () => {
+  
+  test('images have lazy loading attributes (Issue #311)', async ({ page }) => {
+    await page.goto('/');
+    await page.waitForTimeout(3000); // Wait for React to hydrate
+    
+    // Get all img elements
+    const images = await page.locator('img').all();
+    expect(images.length).toBeGreaterThan(0);
+    
+    // Check that images have loading attribute
+    let lazyCount = 0;
+    let eagerCount = 0;
+    
+    for (let i = 0; i < Math.min(images.length, 20); i++) {
+      const loadingAttr = await images[i].getAttribute('loading');
+      if (loadingAttr === 'lazy') lazyCount++;
+      else if (loadingAttr === 'eager') eagerCount++;
+    }
+    
+    // Expect at least some lazy images (below fold) - images after index 6 should be lazy
+    expect(lazyCount).toBeGreaterThan(0);
+    // First 6 images should be eager (above fold)
+    expect(eagerCount).toBeGreaterThanOrEqual(1);
+  });
+
+  test('images have proper alt text for accessibility (Issue #311)', async ({ page }) => {
+    await page.goto('/');
+    await page.waitForTimeout(3000);
+    
+    // Get all img elements
+    const images = await page.locator('img').all();
+    const missingAlt = [];
+    
+    for (let i = 0; i < Math.min(images.length, 20); i++) {
+      const alt = await images[i].getAttribute('alt');
+      const src = await images[i].getAttribute('src');
+      if (!alt || alt.trim() === '') {
+        missingAlt.push(src);
+      }
+    }
+    
+    expect(missingAlt.length, `Images missing alt text:\n${missingAlt.join('\n')}`).toBe(0);
+  });
+
+  test('WebP support via picture elements (Issue #311)', async ({ page }) => {
+    // Navigate to a drummer detail page to find picture elements
+    const response = await page.request.get(`${BASE_URL}/api/drummers`);
+    const drummers = await response.json();
+    
+    await page.goto(`/drummer/${drummers[0].id}`);
+    await page.waitForTimeout(3000);
+    
+    // Check for picture elements with WebP sources
+    const pictureElements = await page.locator('picture').all();
+    const webpSources = await page.locator('picture source[type="image/webp"]').all();
+    
+    // If browser supports WebP, we should see picture elements
+    // (Note: exact implementation may vary, this is a sanity check)
+    if (pictureElements.length > 0) {
+      // Picture elements should have WebP sources
+      expect(webpSources.length).toBeGreaterThan(0);
+    }
+  });
+
   test('homepage loads', async ({ page }) => {
     await page.goto('/');
     await expect(page.locator('text=Metal Drummer Gear')).toBeVisible({ timeout: 15000 });

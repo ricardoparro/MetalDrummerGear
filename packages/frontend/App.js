@@ -2605,10 +2605,10 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
                 if (onNavigateToBio) onNavigateToBio(drummerSlug);
               }}
               style={{ textDecoration: 'none', display: 'inline-block', marginTop: 12 }}
-              data-testid="bio-more-link"
+              data-testid="extended-bio-link"
             >
               <Text style={[styles.bioMoreLink, { color: '#dc2626' }]}>
-                Read full biography →
+                Read Extended Bio →
               </Text>
             </a>
           ) : (
@@ -2616,10 +2616,10 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
               onPress={() => onNavigateToBio && onNavigateToBio(drummerSlug)}
               style={{ marginTop: 12 }}
               accessibilityRole="link"
-              accessibilityLabel={`Read full biography of ${drummer.name}`}
+              accessibilityLabel={`Read extended biography of ${drummer.name}`}
             >
               <Text style={[styles.bioMoreLink, { color: '#dc2626' }]}>
-                Read full biography →
+                Read Extended Bio →
               </Text>
             </TouchableOpacity>
           )

@@ -21,8 +21,8 @@ async function checkBioFeatureAvailable(page) {
   await page.goto('/drummer/lars-ulrich', { waitUntil: 'load' });
   await page.waitForTimeout(3000);
   
-  // Check if "Read full biography" link exists (feature indicator)
-  const moreLink = page.locator('text=Read full biography');
+  // Check if "Read Extended Bio" link exists (feature indicator)
+  const moreLink = page.locator('text=Read Extended Bio');
   return await moreLink.isVisible({ timeout: 5000 }).catch(() => false);
 }
 
@@ -79,8 +79,8 @@ test.describe('Extended Bio Pages (Issue #305)', () => {
     const bioSection = page.locator('text=Biography').first();
     await expect(bioSection).toBeVisible({ timeout: 10000 });
     
-    // Check "Read full biography" link exists
-    const moreLink = page.locator('text=Read full biography');
+    // Check "Read Extended Bio" link exists
+    const moreLink = page.locator('text=Read Extended Bio');
     await expect(moreLink).toBeVisible({ timeout: 10000 });
   });
 
@@ -91,8 +91,8 @@ test.describe('Extended Bio Pages (Issue #305)', () => {
     await page.goto('/drummer/lars-ulrich', { waitUntil: 'load' });
     await page.waitForTimeout(2000);
 
-    // Click the "Read full biography" link
-    const moreLink = page.locator('text=Read full biography');
+    // Click the "Read Extended Bio" link
+    const moreLink = page.locator('text=Read Extended Bio');
     await expect(moreLink).toBeVisible({ timeout: 10000 });
     await moreLink.click();
     await page.waitForTimeout(2000);

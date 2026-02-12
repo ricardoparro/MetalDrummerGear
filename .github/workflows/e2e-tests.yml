@@ -55,6 +55,45 @@ jobs:
             echo "Falling back to production URL"
           fi
       
+      - name: Health check deployment
+        id: health
+        run: |
+          URL="${{ steps.url.outputs.url }}"
+          echo "Checking health of: $URL"
+          
+          # Wait for deployment to be ready with retries
+          MAX_RETRIES=10
+          RETRY_DELAY=15
+          
+          for i in $(seq 1 $MAX_RETRIES); do
+            echo "Attempt $i of $MAX_RETRIES..."
+            
+            # Check if homepage returns 200
+            HTTP_STATUS=$(curl -s -o /dev/null -w "%{http_code}" "$URL" || echo "000")
+            echo "Homepage status: $HTTP_STATUS"
+            
+            if [ "$HTTP_STATUS" = "200" ]; then
+              # Check if API returns valid JSON
+              API_RESPONSE=$(curl -s "$URL/api/drummers" | head -c 20)
+              if echo "$API_RESPONSE" | grep -q '^\['; then
+                echo "✅ Deployment is healthy!"
+                echo "healthy=true" >> $GITHUB_OUTPUT
+                exit 0
+              else
+                echo "⚠️ API not returning JSON yet: $API_RESPONSE"
+              fi
+            fi
+            
+            if [ $i -lt $MAX_RETRIES ]; then
+              echo "Waiting ${RETRY_DELAY}s before retry..."
+              sleep $RETRY_DELAY
+            fi
+          done
+          
+          echo "❌ Deployment health check failed after $MAX_RETRIES attempts"
+          echo "healthy=false" >> $GITHUB_OUTPUT
+          exit 1
+      
       - name: Run Playwright E2E tests
         run: npx playwright test --project=chromium
         env:

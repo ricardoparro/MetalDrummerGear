@@ -4041,7 +4041,7 @@ function DrummerSpotlight({ drummer, theme, onSelectDrummer, onViewAllSpotlights
       <View style={[styles.spotlightContent, isMobile && styles.spotlightContentMobile]}>
         <TouchableOpacity 
           onPress={() => onSelectDrummer(drummer.id)}
-          style={styles.spotlightImageContainer}
+          style={[styles.spotlightImageContainer, { width: isMobile ? 100 : 140, height: isMobile ? 100 : 140 }]}
           accessibilityRole="button"
           accessibilityLabel={`View ${drummer.name}'s profile`}
         >
@@ -4052,6 +4052,7 @@ function DrummerSpotlight({ drummer, theme, onSelectDrummer, onViewAllSpotlights
             priority={true}
             width={isMobile ? 100 : 140}
             height={isMobile ? 100 : 140}
+            imageContext="spotlight"
           />
         </TouchableOpacity>
         
@@ -10637,6 +10638,7 @@ const styles = StyleSheet.create({
     borderRadius: 16,
     borderWidth: 1,
     overflow: 'hidden',
+    minHeight: 280, // CLS prevention: reserve space for spotlight content (Issue #312)
   },
   spotlightHeader: {
     flexDirection: 'row',
@@ -10671,13 +10673,12 @@ const styles = StyleSheet.create({
   spotlightImage: {
     width: 140,
     height: 140,
-    aspectRatio: 1,
     borderRadius: 12,
-    aspectRatio: 1, // Prevent CLS (Issue #248)
+    aspectRatio: 1, // Prevent CLS (Issue #248, #312)
   },
   spotlightImageMobile: {
-    width: 120,
-    height: 120,
+    width: 100,
+    height: 100,
     aspectRatio: 1,
     marginBottom: 16,
   },

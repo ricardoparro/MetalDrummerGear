@@ -149,11 +149,20 @@ export const SKELETON_DIMENSIONS = {
     height: 200,
     marginBottom: 24,
   },
+  // Spotlight section skeleton (matches DrummerSpotlight dimensions - Issue #312)
+  spotlightSection: {
+    minHeight: 280,
+    marginHorizontal: 16,
+    marginBottom: 16,
+    borderRadius: 16,
+  },
   // Image placeholders with aspect ratios
   images: {
     thumbnail: { width: 60, height: 60 },
     card: { width: 200, height: 200 },
     hero: { width: '100%', aspectRatio: 16 / 9 },
+    spotlight: { width: 140, height: 140 },
+    spotlightMobile: { width: 100, height: 100 },
     gallery: { width: 200, height: 150 },
   },
 };

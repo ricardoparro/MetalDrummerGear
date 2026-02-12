@@ -180,6 +180,18 @@
         contain-intrinsic-size: auto 500px;
       }
       
+      /* CLS Prevention: Reserve space for spotlight section (Issue #312) */
+      [class*="spotlightContainer"] {
+        min-height: 280px;
+        contain: layout style;
+      }
+      
+      /* CLS Prevention: Reserve space for drummer cards (Issue #312) */
+      [class*="drummerCard"], [class*="card"] {
+        min-height: 80px;
+        contain: layout;
+      }
+      
       /* ====================================
          INP Optimization: Touch/Click responsiveness
          ==================================== */

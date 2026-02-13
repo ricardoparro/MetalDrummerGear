@@ -33,7 +33,7 @@
 
 ### 🔄 In Progress — Performance & Media (Phase 4)
 - [ ] **Core Web Vitals optimization** — HIGH PRIORITY
-- [ ] **Image optimization** (WebP, lazy loading)
+- [x] **Image optimization** (WebP, lazy loading) — #323 ✅
 
 ### 📋 Future Enhancements (Phase 5)
 - [ ] AggregateRating for gear items (requires user reviews feature)

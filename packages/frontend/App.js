@@ -35,6 +35,7 @@ import {
   SearchBarSkeleton,
   FilterBarSkeleton,
   HeroSectionSkeleton,
+  SpotlightSkeleton,
   PageLoadingSkeleton
 } from './Skeletons';
 
@@ -4184,7 +4185,9 @@ function SpotlightsArchivePage({ theme, onBack, drummers, onSelectDrummer }) {
                 source={{ uri: drummer.image }}
                 style={styles.spotlightArchiveImage}
                 accessibilityLabel={`Photo of ${drummer.name}`}
+                width={320}
                 height={180}
+                imageContext="gallery"
               />
               <View style={styles.spotlightArchiveInfo}>
                 <Text style={[styles.spotlightArchiveName, { color: theme.text }]} numberOfLines={1}>
@@ -5843,7 +5846,9 @@ function GearDetail({ gear, theme, onBack, onSelectDrummer }) {
                   source={{ uri: related.image }}
                   style={styles.relatedGearImage}
                   accessibilityLabel={`Photo of ${related.name}`}
+                  width={150}
                   height={100}
+                  imageContext="gallery"
                 />
                 <Text style={[styles.relatedGearName, { color: theme.text }]} numberOfLines={2}>
                   {related.name}

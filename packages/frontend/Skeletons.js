@@ -254,6 +254,75 @@ export function ImageSkeleton({ width = 60, height = 60, borderRadius = 8, style
 }
 
 /**
+ * Spotlight Section Skeleton
+ * Matches the layout of DrummerSpotlight component (Issue #312)
+ * Reserves exact space to prevent CLS
+ */
+export function SpotlightSkeleton() {
+  const { theme } = useTheme();
+  const dims = SKELETON_DIMENSIONS.spotlightSection;
+  const imgDims = SKELETON_DIMENSIONS.images.spotlight;
+
+  return (
+    <SkeletonBase
+      style={[
+        styles.spotlightSection,
+        {
+          minHeight: dims.minHeight,
+          marginHorizontal: dims.marginHorizontal,
+          marginBottom: dims.marginBottom,
+          borderRadius: dims.borderRadius,
+          borderWidth: 1,
+          borderColor: theme.border || '#3a3a3a',
+        }
+      ]}
+    >
+      <View style={styles.spotlightContent}>
+        {/* Spotlight label placeholder */}
+        <View style={styles.spotlightHeader}>
+          <SkeletonBase style={[styles.textLine, { width: 140, height: 14 }]} shimmer={false} />
+          <SkeletonBase style={[styles.textLine, { width: 70, height: 12 }]} shimmer={false} />
+        </View>
+        
+        <View style={styles.spotlightBody}>
+          {/* Spotlight image placeholder */}
+          <SkeletonBase
+            style={[
+              styles.spotlightImage,
+              {
+                width: imgDims.width,
+                height: imgDims.height,
+                borderRadius: 12,
+              }
+            ]}
+            shimmer={false}
+          />
+          
+          {/* Spotlight text content */}
+          <View style={styles.spotlightInfo}>
+            <SkeletonBase style={[styles.textLine, { width: '70%', height: 20 }]} shimmer={false} />
+            <SkeletonBase style={[styles.textLine, { width: '50%', height: 14, marginTop: 6 }]} shimmer={false} />
+            
+            {/* Quick facts placeholders */}
+            <View style={styles.spotlightFacts}>
+              <SkeletonBase style={[styles.textLine, { width: '90%', height: 12, marginTop: 12 }]} shimmer={false} />
+              <SkeletonBase style={[styles.textLine, { width: '80%', height: 12, marginTop: 6 }]} shimmer={false} />
+              <SkeletonBase style={[styles.textLine, { width: '85%', height: 12, marginTop: 6 }]} shimmer={false} />
+            </View>
+            
+            {/* CTA buttons placeholder */}
+            <View style={styles.spotlightCTAs}>
+              <SkeletonBase style={[styles.ctaButton, { width: 120, height: 36 }]} shimmer={false} />
+              <SkeletonBase style={[styles.ctaButton, { width: 100, height: 36, marginLeft: 8 }]} shimmer={false} />
+            </View>
+          </View>
+        </View>
+      </View>
+    </SkeletonBase>
+  );
+}
+
+/**
  * Full Page Loading Skeleton
  * Complete skeleton for initial page load
  */
@@ -262,7 +331,7 @@ export function PageLoadingSkeleton() {
     <View style={styles.pageContainer}>
       <SearchBarSkeleton />
       <FilterBarSkeleton />
-      <HeroSectionSkeleton />
+      <SpotlightSkeleton />
       <DrummerListSkeleton count={6} />
     </View>
   );
@@ -376,6 +445,40 @@ const styles = StyleSheet.create({
     flex: 1,
     paddingTop: 16,
   },
+  
+  // Spotlight Section
+  spotlightSection: {
+    overflow: 'hidden',
+  },
+  spotlightContent: {
+    padding: 16,
+  },
+  spotlightHeader: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    marginBottom: 16,
+  },
+  spotlightBody: {
+    flexDirection: 'row',
+    alignItems: 'flex-start',
+  },
+  spotlightImage: {
+    marginRight: 16,
+  },
+  spotlightInfo: {
+    flex: 1,
+  },
+  spotlightFacts: {
+    marginTop: 8,
+  },
+  spotlightCTAs: {
+    flexDirection: 'row',
+    marginTop: 16,
+  },
+  ctaButton: {
+    borderRadius: 8,
+  },
 });
 
 export default {
@@ -384,6 +487,7 @@ export default {
   SearchBarSkeleton,
   FilterBarSkeleton,
   HeroSectionSkeleton,
+  SpotlightSkeleton,
   ImageSkeleton,
   PageLoadingSkeleton,
 };

@@ -5278,8 +5278,8 @@ function DrummerList({
         <SearchBarSkeleton />
         {/* Filter bar skeleton - matches FilterBar dimensions */}
         <FilterBarSkeleton />
-        {/* Hero/Spotlight section skeleton */}
-        <HeroSectionSkeleton />
+        {/* Spotlight section skeleton - matches DrummerSpotlight dimensions (Issue #324) */}
+        <SpotlightSkeleton />
         {/* Drummer cards skeleton - show 6 to fill viewport */}
         <DrummerListSkeleton count={6} />
       </ScrollView>

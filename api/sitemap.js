@@ -1,6 +1,7 @@
 // Vercel Serverless Function - sitemap.xml
 // Issue #361: Added band pages
 // Issue #339: Added gear category pages for SEO
+// Issue #345: Added gear comparison pages for SEO
 
 const drummers = [
   { id: 1, name: 'Lars Ulrich' }, { id: 2, name: 'Joey Jordison' }, { id: 3, name: 'Gene Hoglan' },
@@ -48,6 +49,25 @@ const gearCategories = [
   { slug: 'hardware', name: 'Metal Drum Hardware' },
 ];
 
+// Issue #345: Gear comparison pages for SEO (high-value brand matchups)
+const gearComparisons = [
+  // Drum kit comparisons
+  { slug: 'tama-vs-pearl-drums', name: 'Tama vs Pearl Drums' },
+  { slug: 'dw-vs-yamaha-drums', name: 'DW vs Yamaha Drums' },
+  { slug: 'mapex-vs-sonor-drums', name: 'Mapex vs Sonor Drums' },
+  { slug: 'tama-vs-dw-drums', name: 'Tama vs DW Drums' },
+  // Cymbal comparisons
+  { slug: 'meinl-vs-zildjian-cymbals', name: 'Meinl vs Zildjian Cymbals' },
+  { slug: 'sabian-vs-paiste-cymbals', name: 'Sabian vs Paiste Cymbals' },
+  { slug: 'zildjian-vs-paiste-cymbals', name: 'Zildjian vs Paiste Cymbals' },
+  // Hardware comparisons
+  { slug: 'iron-cobra-vs-demon-drive', name: 'Iron Cobra vs Demon Drive' },
+  { slug: 'speed-cobra-vs-eliminator', name: 'Speed Cobra vs Eliminator' },
+  // Snare comparisons
+  { slug: 'tama-slp-vs-pearl-sensitone', name: 'Tama S.L.P. vs Pearl Sensitone' },
+  { slug: 'dw-vs-sonor-snares', name: 'DW vs Sonor Snares' },
+];
+
 const BASE_URL = 'https://metalforge.io';
 
 function generateSlug(name) {
@@ -65,6 +85,9 @@ export default function handler(req, res) {
     { loc: '/quotes', priority: '0.9', changefreq: 'weekly' },
     { loc: '/lists', priority: '0.9', changefreq: 'weekly' },
     { loc: '/birthdays', priority: '0.9', changefreq: 'weekly' },
+    // Issue #345: Gear comparisons index and individual pages
+    { loc: '/compare-gear', priority: '0.9', changefreq: 'weekly' },
+    ...gearComparisons.map(c => ({ loc: `/compare-gear/${c.slug}`, priority: '0.8', changefreq: 'monthly' })),
     ...gearCategories.map(c => ({ loc: `/gear/${c.slug}`, priority: '0.9', changefreq: 'weekly' })),
     ...top10Lists.map(l => ({ loc: `/lists/${l.slug}`, priority: '0.8', changefreq: 'monthly' })),
     ...drummers.map(d => ({ loc: `/drummer/${generateSlug(d.name)}`, priority: '0.8', changefreq: 'monthly' })),

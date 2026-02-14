@@ -287,5 +287,15 @@ export function getZodiacSign(month, day) {
   return signs[0]; // Default to Capricorn
 }
 
+// Get month with most birthdays
+export function getMostPopularMonth() {
+  const counts = {};
+  for (let month = 1; month <= 12; month++) {
+    counts[month] = getBirthdaysByMonth(month).length;
+  }
+  const maxMonth = Object.entries(counts).reduce((a, b) => a[1] > b[1] ? a : b)[0];
+  return MONTH_NAMES[parseInt(maxMonth) - 1];
+}
+
 // Export for convenience
 export default drummerBirthdays;

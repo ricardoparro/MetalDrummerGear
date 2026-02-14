@@ -70,10 +70,12 @@ import {
   getAllBirthdaysSorted, 
   getBirthdaysByMonth, 
   getTodaysBirthdays, 
-  getUpcomingBirthdays, 
+  getUpcomingBirthdays,
+  getNextBirthday,
   calculateAge, 
   formatBirthday, 
   getZodiacSign,
+  getMostPopularMonth,
   MONTH_NAMES 
 } from './data/birthdays';
 
@@ -5151,6 +5153,588 @@ function GearFinderPage({ theme, onBack, drummers, onSelectDrummer }) {
             </Text>
           </View>
         )}
+      </View>
+    </ScrollView>
+  );
+}
+
+// ==========================================
+// BPM TAP CALCULATOR PAGE (Issue #342)
+// ==========================================
+
+function BpmCalculatorPage({ theme, onBack, drummers, onSelectDrummer }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  
+  // Tap tempo state
+  const [taps, setTaps] = useState([]);
+  const [bpm, setBpm] = useState(() => getBpmFromURL() || 0);
+  const [isAnimating, setIsAnimating] = useState(false);
+  
+  // Song browser state
+  const [searchQuery, setSearchQuery] = useState('');
+  const [selectedGenre, setSelectedGenre] = useState('');
+  const [sortBy, setSortBy] = useState('bpm');
+  
+  // Database stats and options
+  const stats = useMemo(() => getDatabaseStats(), []);
+  const songGenres = useMemo(() => getAllSongGenres(), []);
+  
+  // Timeout for resetting taps
+  const tapTimeoutRef = useRef(null);
+  
+  // Calculate BPM from tap times
+  const calculateBpm = useCallback((tapTimes) => {
+    if (tapTimes.length < 2) return 0;
+    
+    const intervals = [];
+    for (let i = 1; i < tapTimes.length; i++) {
+      intervals.push(tapTimes[i] - tapTimes[i - 1]);
+    }
+    
+    const avgInterval = intervals.reduce((a, b) => a + b, 0) / intervals.length;
+    return Math.round(60000 / avgInterval);
+  }, []);
+  
+  // Handle tap
+  const handleTap = useCallback(() => {
+    const now = Date.now();
+    
+    if (tapTimeoutRef.current) {
+      clearTimeout(tapTimeoutRef.current);
+    }
+    
+    setTaps(prevTaps => {
+      const newTaps = prevTaps.length > 0 && (now - prevTaps[prevTaps.length - 1] > 2000)
+        ? [now]
+        : [...prevTaps.slice(-7), now];
+      
+      const newBpm = calculateBpm(newTaps);
+      setBpm(newBpm);
+      if (newBpm > 0) {
+        updateBpmURL(newBpm);
+      }
+      
+      return newTaps;
+    });
+    
+    setIsAnimating(true);
+    setTimeout(() => setIsAnimating(false), 100);
+    
+    tapTimeoutRef.current = setTimeout(() => {}, 3000);
+  }, [calculateBpm]);
+  
+  // Reset BPM
+  const handleReset = useCallback(() => {
+    setTaps([]);
+    setBpm(0);
+    updateBpmURL(null);
+  }, []);
+  
+  // Keyboard handler for spacebar tapping
+  useEffect(() => {
+    if (Platform.OS !== 'web' || typeof window === 'undefined') return;
+    
+    const handleKeyDown = (e) => {
+      if (e.code === 'Space' && e.target.tagName !== 'INPUT') {
+        e.preventDefault();
+        handleTap();
+      }
+    };
+    
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [handleTap]);
+  
+  // Find songs matching current BPM
+  const matchingSongs = useMemo(() => {
+    if (bpm === 0) return [];
+    return findSongsNearBpm(bpm, 10, 8);
+  }, [bpm]);
+  
+  // Get current tempo range
+  const tempoRange = useMemo(() => {
+    if (bpm === 0) return null;
+    return getTempoRange(bpm);
+  }, [bpm]);
+  
+  // Filter and sort songs
+  const filteredSongs = useMemo(() => {
+    let songs = [...metalSongs];
+    
+    if (searchQuery) {
+      const query = searchQuery.toLowerCase();
+      songs = songs.filter(s =>
+        s.song.toLowerCase().includes(query) ||
+        s.band.toLowerCase().includes(query) ||
+        s.drummer.toLowerCase().includes(query)
+      );
+    }
+    
+    if (selectedGenre) {
+      songs = songs.filter(s => s.genre === selectedGenre);
+    }
+    
+    if (sortBy === 'bpm') {
+      songs.sort((a, b) => a.bpm - b.bpm);
+    } else if (sortBy === 'bpm-desc') {
+      songs.sort((a, b) => b.bpm - a.bpm);
+    } else if (sortBy === 'band') {
+      songs.sort((a, b) => a.band.localeCompare(b.band));
+    } else if (sortBy === 'year') {
+      songs.sort((a, b) => b.year - a.year);
+    }
+    
+    return songs.slice(0, 50);
+  }, [searchQuery, selectedGenre, sortBy]);
+  
+  // Update SEO
+  useEffect(() => {
+    if (Platform.OS === 'web' && typeof document !== 'undefined') {
+      document.title = 'BPM Tap Calculator - Find Metal Song Tempos | MetalForge';
+      const setMeta = (name, content, isProperty = false) => {
+        const attr = isProperty ? 'property' : 'name';
+        let meta = document.querySelector(`meta[${attr}="${name}"]`);
+        if (!meta) {
+          meta = document.createElement('meta');
+          meta.setAttribute(attr, name);
+          document.head.appendChild(meta);
+        }
+        meta.setAttribute('content', content);
+      };
+      
+      setMeta('description', 'Tap tempo BPM calculator for metal drummers. Find the BPM of any song and discover metal songs at the same tempo.');
+      setMeta('og:title', 'BPM Tap Calculator | MetalForge', true);
+      setMeta('og:description', 'Tap tempo BPM calculator with a database of 150+ metal songs.', true);
+    }
+  }, []);
+  
+  // Find drummer by name
+  const findDrummerByName = (name) => {
+    if (!drummers || !name) return null;
+    return drummers.find(d => 
+      d.name.toLowerCase() === name.toLowerCase()
+    );
+  };
+
+  return (
+    <ScrollView 
+      style={[{ flex: 1, backgroundColor: theme.background }]}
+      contentContainerStyle={{ paddingBottom: 40 }}
+    >
+      <View style={{ padding: isMobile ? 16 : 24, maxWidth: 1200, width: '100%', alignSelf: 'center' }}>
+        {/* Back Button */}
+        <TouchableOpacity
+          onPress={onBack}
+          style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          accessibilityRole="button"
+          accessibilityLabel="Go back to home"
+        >
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Home</Text>
+        </TouchableOpacity>
+
+        {/* Page Header */}
+        <View style={{ marginBottom: 32 }}>
+          <Text style={{ 
+            fontSize: isMobile ? 28 : 36, 
+            fontWeight: 'bold', 
+            color: theme.text,
+            marginBottom: 8
+          }}>
+            🥁 BPM Tap Calculator
+          </Text>
+          <Text style={{ 
+            fontSize: 16, 
+            color: theme.secondaryText,
+            lineHeight: 24
+          }}>
+            Tap the button or press SPACEBAR to find the tempo. Discover metal songs at the same BPM!
+          </Text>
+        </View>
+
+        {/* Main Calculator Card */}
+        <View style={{
+          backgroundColor: theme.card,
+          borderRadius: 16,
+          padding: isMobile ? 20 : 32,
+          marginBottom: 24,
+          borderWidth: 1,
+          borderColor: theme.border,
+          alignItems: 'center',
+        }}>
+          {/* BPM Display */}
+          <View style={{ alignItems: 'center', marginBottom: 32, width: '100%' }}>
+            <Text style={{
+              fontSize: isMobile ? 72 : 96,
+              fontWeight: 'bold',
+              color: bpm > 0 ? '#dc2626' : theme.secondaryText,
+              fontVariant: ['tabular-nums'],
+            }}>
+              {bpm > 0 ? bpm : '---'}
+            </Text>
+            <Text style={{ 
+              fontSize: 20, 
+              color: theme.secondaryText,
+              textTransform: 'uppercase',
+              letterSpacing: 2,
+            }}>
+              BPM
+            </Text>
+            
+            {/* Tempo Range Badge */}
+            {tempoRange && (
+              <View style={{
+                marginTop: 16,
+                paddingHorizontal: 16,
+                paddingVertical: 8,
+                backgroundColor: '#dc2626',
+                borderRadius: 20,
+                flexDirection: 'row',
+                alignItems: 'center',
+              }}>
+                <Text style={{ fontSize: 18, marginRight: 8 }}>{tempoRange.emoji}</Text>
+                <Text style={{ color: '#ffffff', fontWeight: '600' }}>{tempoRange.label}</Text>
+              </View>
+            )}
+          </View>
+
+          {/* Tap Button */}
+          <TouchableOpacity
+            onPress={handleTap}
+            style={{
+              width: isMobile ? 150 : 180,
+              height: isMobile ? 150 : 180,
+              borderRadius: isMobile ? 75 : 90,
+              backgroundColor: isAnimating ? '#b91c1c' : '#dc2626',
+              justifyContent: 'center',
+              alignItems: 'center',
+              marginBottom: 24,
+              transform: [{ scale: isAnimating ? 0.95 : 1 }],
+              shadowColor: '#dc2626',
+              shadowOffset: { width: 0, height: 8 },
+              shadowOpacity: 0.4,
+              shadowRadius: 16,
+              elevation: 8,
+            }}
+            accessibilityRole="button"
+            accessibilityLabel="Tap to calculate BPM"
+          >
+            <Text style={{ 
+              color: '#ffffff', 
+              fontSize: isMobile ? 24 : 28, 
+              fontWeight: 'bold',
+              textTransform: 'uppercase',
+            }}>
+              TAP
+            </Text>
+            <Text style={{ color: 'rgba(255,255,255,0.8)', fontSize: 12, marginTop: 4 }}>
+              or press SPACE
+            </Text>
+          </TouchableOpacity>
+
+          {/* Tap Count */}
+          <Text style={{ color: theme.secondaryText, fontSize: 14, marginBottom: 16 }}>
+            {taps.length > 0 ? `${taps.length} tap${taps.length === 1 ? '' : 's'}` : 'Start tapping to calculate BPM'}
+          </Text>
+
+          {/* Reset Button */}
+          {bpm > 0 && (
+            <TouchableOpacity
+              onPress={handleReset}
+              style={{
+                paddingHorizontal: 24,
+                paddingVertical: 10,
+                borderRadius: 8,
+                borderWidth: 1,
+                borderColor: theme.border,
+              }}
+              accessibilityRole="button"
+              accessibilityLabel="Reset BPM"
+            >
+              <Text style={{ color: theme.text }}>Reset</Text>
+            </TouchableOpacity>
+          )}
+        </View>
+
+        {/* Matching Songs */}
+        {matchingSongs.length > 0 && (
+          <View style={{
+            backgroundColor: theme.card,
+            borderRadius: 16,
+            padding: isMobile ? 16 : 24,
+            marginBottom: 24,
+            borderWidth: 2,
+            borderColor: '#dc2626',
+          }}>
+            <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>
+              🎵 Songs at ~{bpm} BPM
+            </Text>
+            
+            {matchingSongs.map((song, index) => {
+              const drummer = findDrummerByName(song.drummer);
+              return (
+                <TouchableOpacity
+                  key={song.id}
+                  onPress={() => drummer && onSelectDrummer(drummer.id)}
+                  disabled={!drummer}
+                  style={{
+                    flexDirection: 'row',
+                    alignItems: 'center',
+                    justifyContent: 'space-between',
+                    paddingVertical: 12,
+                    borderTopWidth: index > 0 ? 1 : 0,
+                    borderColor: theme.border,
+                  }}
+                >
+                  <View style={{ flex: 1 }}>
+                    <Text style={{ color: theme.text, fontWeight: '600', fontSize: 15 }}>
+                      {song.song}
+                    </Text>
+                    <Text style={{ color: theme.secondaryText, fontSize: 13 }}>
+                      {song.band} • {song.drummer}
+                    </Text>
+                  </View>
+                  <View style={{
+                    backgroundColor: song.diff === 0 ? '#22c55e' : theme.background,
+                    paddingHorizontal: 12,
+                    paddingVertical: 4,
+                    borderRadius: 12,
+                    marginLeft: 8,
+                  }}>
+                    <Text style={{ 
+                      color: song.diff === 0 ? '#ffffff' : theme.text,
+                      fontWeight: '600',
+                      fontSize: 14,
+                    }}>
+                      {song.bpm} BPM
+                    </Text>
+                  </View>
+                </TouchableOpacity>
+              );
+            })}
+          </View>
+        )}
+
+        {/* Tempo Ranges Reference */}
+        <View style={{
+          backgroundColor: theme.card,
+          borderRadius: 16,
+          padding: isMobile ? 16 : 24,
+          marginBottom: 24,
+          borderWidth: 1,
+          borderColor: theme.border,
+        }}>
+          <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>
+            ⚡ Metal Tempo Ranges
+          </Text>
+          
+          <View style={{ flexDirection: isMobile ? 'column' : 'row', flexWrap: 'wrap', gap: 8 }}>
+            {Object.entries(TEMPO_RANGES).map(([key, range]) => (
+              <View
+                key={key}
+                style={{
+                  flex: isMobile ? undefined : 1,
+                  minWidth: isMobile ? '100%' : 150,
+                  backgroundColor: theme.background,
+                  borderRadius: 12,
+                  padding: 12,
+                  borderWidth: tempoRange?.label === range.label ? 2 : 1,
+                  borderColor: tempoRange?.label === range.label ? '#dc2626' : theme.border,
+                }}
+              >
+                <Text style={{ fontSize: 24, marginBottom: 4 }}>{range.emoji}</Text>
+                <Text style={{ color: theme.text, fontWeight: '600', fontSize: 14 }}>{range.label}</Text>
+                <Text style={{ color: theme.secondaryText, fontSize: 12 }}>{range.min}-{range.max} BPM</Text>
+              </View>
+            ))}
+          </View>
+        </View>
+
+        {/* Song Database Browser */}
+        <View style={{
+          backgroundColor: theme.card,
+          borderRadius: 16,
+          padding: isMobile ? 16 : 24,
+          marginBottom: 24,
+          borderWidth: 1,
+          borderColor: theme.border,
+        }}>
+          <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text, marginBottom: 8 }}>
+            📚 Metal Song Database
+          </Text>
+          <Text style={{ color: theme.secondaryText, fontSize: 14, marginBottom: 16 }}>
+            {stats.totalSongs} songs from {stats.totalBands} bands • Average BPM: {stats.avgBpm}
+          </Text>
+
+          {/* Search */}
+          <TextInput
+            value={searchQuery}
+            onChangeText={setSearchQuery}
+            placeholder="Search songs, bands, drummers..."
+            placeholderTextColor={theme.secondaryText}
+            style={{
+              backgroundColor: theme.background,
+              borderRadius: 8,
+              paddingHorizontal: 16,
+              paddingVertical: 12,
+              color: theme.text,
+              fontSize: 15,
+              marginBottom: 12,
+              borderWidth: 1,
+              borderColor: theme.border,
+            }}
+          />
+
+          {/* Filters */}
+          <View style={{ flexDirection: isMobile ? 'column' : 'row', gap: 12, marginBottom: 16 }}>
+            {/* Genre Filter */}
+            {Platform.OS === 'web' && (
+              <View style={{ flex: 1 }}>
+                <Text style={{ color: theme.secondaryText, fontSize: 12, marginBottom: 4 }}>Genre</Text>
+                <select
+                  value={selectedGenre}
+                  onChange={(e) => setSelectedGenre(e.target.value)}
+                  style={{
+                    backgroundColor: theme.background,
+                    color: theme.text,
+                    border: `1px solid ${theme.border}`,
+                    borderRadius: 8,
+                    padding: '10px 12px',
+                    fontSize: 14,
+                    width: '100%',
+                    cursor: 'pointer',
+                  }}
+                >
+                  <option value="">All Genres</option>
+                  {songGenres.map(genre => (
+                    <option key={genre} value={genre}>{genre}</option>
+                  ))}
+                </select>
+              </View>
+            )}
+
+            {/* Sort Filter */}
+            {Platform.OS === 'web' && (
+              <View style={{ flex: 1 }}>
+                <Text style={{ color: theme.secondaryText, fontSize: 12, marginBottom: 4 }}>Sort By</Text>
+                <select
+                  value={sortBy}
+                  onChange={(e) => setSortBy(e.target.value)}
+                  style={{
+                    backgroundColor: theme.background,
+                    color: theme.text,
+                    border: `1px solid ${theme.border}`,
+                    borderRadius: 8,
+                    padding: '10px 12px',
+                    fontSize: 14,
+                    width: '100%',
+                    cursor: 'pointer',
+                  }}
+                >
+                  <option value="bpm">BPM (Low to High)</option>
+                  <option value="bpm-desc">BPM (High to Low)</option>
+                  <option value="band">Band Name</option>
+                  <option value="year">Year (Newest)</option>
+                </select>
+              </View>
+            )}
+          </View>
+
+          {/* Song List */}
+          <View style={{ maxHeight: 500, overflow: 'hidden' }}>
+            {filteredSongs.map((song, index) => {
+              const songTempoRange = getTempoRange(song.bpm);
+              const drummer = findDrummerByName(song.drummer);
+              return (
+                <TouchableOpacity
+                  key={song.id}
+                  onPress={() => drummer && onSelectDrummer(drummer.id)}
+                  disabled={!drummer}
+                  style={{
+                    flexDirection: 'row',
+                    alignItems: 'center',
+                    justifyContent: 'space-between',
+                    paddingVertical: 12,
+                    borderTopWidth: index > 0 ? 1 : 0,
+                    borderColor: theme.border,
+                  }}
+                >
+                  <View style={{ flex: 1 }}>
+                    <View style={{ flexDirection: 'row', alignItems: 'center' }}>
+                      <Text style={{ marginRight: 8 }}>{songTempoRange.emoji}</Text>
+                      <Text style={{ color: theme.text, fontWeight: '600', fontSize: 15 }}>
+                        {song.song}
+                      </Text>
+                    </View>
+                    <Text style={{ color: theme.secondaryText, fontSize: 13, marginLeft: 28 }}>
+                      {song.band} • {song.drummer} • {song.year}
+                    </Text>
+                  </View>
+                  <View style={{
+                    backgroundColor: '#dc2626',
+                    paddingHorizontal: 10,
+                    paddingVertical: 4,
+                    borderRadius: 10,
+                    marginLeft: 8,
+                  }}>
+                    <Text style={{ color: '#ffffff', fontWeight: '600', fontSize: 13 }}>{song.bpm}</Text>
+                  </View>
+                </TouchableOpacity>
+              );
+            })}
+          </View>
+
+          {filteredSongs.length === 0 && (
+            <View style={{ padding: 24, alignItems: 'center' }}>
+              <Text style={{ color: theme.secondaryText }}>No songs found</Text>
+            </View>
+          )}
+        </View>
+
+        {/* Database Stats */}
+        <View style={{
+          backgroundColor: theme.card,
+          borderRadius: 16,
+          padding: isMobile ? 16 : 24,
+          borderWidth: 1,
+          borderColor: theme.border,
+        }}>
+          <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>
+            📊 Tempo Distribution
+          </Text>
+          
+          <View style={{ gap: 12 }}>
+            {Object.entries(TEMPO_RANGES).map(([key, range]) => {
+              const count = stats.tempoDistribution[key] || 0;
+              const percentage = Math.round((count / stats.totalSongs) * 100);
+              return (
+                <View key={key}>
+                  <View style={{ flexDirection: 'row', justifyContent: 'space-between', marginBottom: 4 }}>
+                    <Text style={{ color: theme.text, fontSize: 14 }}>
+                      {range.emoji} {range.label}
+                    </Text>
+                    <Text style={{ color: theme.secondaryText, fontSize: 14 }}>
+                      {count} songs ({percentage}%)
+                    </Text>
+                  </View>
+                  <View style={{
+                    height: 8,
+                    backgroundColor: theme.background,
+                    borderRadius: 4,
+                    overflow: 'hidden',
+                  }}>
+                    <View style={{
+                      width: `${percentage}%`,
+                      height: '100%',
+                      backgroundColor: '#dc2626',
+                      borderRadius: 4,
+                    }} />
+                  </View>
+                </View>
+              );
+            })}
+          </View>
+        </View>
       </View>
     </ScrollView>
   );

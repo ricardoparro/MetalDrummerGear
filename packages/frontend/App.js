@@ -61,6 +61,22 @@ import { getBand, getAllBands, hasBand, getAllBandSlugs } from './data/bands';
 // Genre data for landing pages (Issue #340)
 import { getGenre, getAllGenres, hasGenre, getAllGenreSlugs, getDrummersByGenre, getRelatedGenres } from './data/genres';
 
+// Gear comparison data (Issue #345)
+import { getGearComparisonBySlug, getAllGearComparisons, hasGearComparison, getAllGearComparisonSlugs } from './data/gearComparisons';
+
+// Birthday calendar data (Issue #343)
+import { 
+  drummerBirthdays, 
+  getAllBirthdaysSorted, 
+  getBirthdaysByMonth, 
+  getTodaysBirthdays, 
+  getUpcomingBirthdays, 
+  calculateAge, 
+  formatBirthday, 
+  getZodiacSign,
+  MONTH_NAMES 
+} from './data/birthdays';
+
 // ==========================================
 // TOP 10 LISTS - Loaded dynamically for code splitting
 // ==========================================
@@ -4489,6 +4505,327 @@ function GearByBudgetPage({ theme, onBack, drummers, onSelectDrummer }) {
   );
 }
 
+// Birthday Calendar Page - Shareable evergreen content (Issue #343)
+function BirthdayCalendarPage({ theme, onBack, onSelectDrummer }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const [selectedMonth, setSelectedMonth] = useState(() => getBirthdayMonthFromURL());
+  const [copied, setCopied] = useState(false);
+  
+  // Get birthdays data
+  const allBirthdays = getAllBirthdaysSorted();
+  const todaysBirthdays = getTodaysBirthdays();
+  const upcomingBirthdays = getUpcomingBirthdays(30);
+  
+  // Filter by month if selected
+  const displayBirthdays = selectedMonth 
+    ? getBirthdaysByMonth(selectedMonth)
+    : allBirthdays;
+
+  // Update SEO meta tags
+  useEffect(() => {
+    updateBirthdayCalendarMeta(selectedMonth, todaysBirthdays);
+  }, [selectedMonth, todaysBirthdays.length]);
+
+  // Handle month selection
+  const handleMonthSelect = (month) => {
+    const newMonth = selectedMonth === month ? null : month;
+    setSelectedMonth(newMonth);
+    updateBirthdayURL(newMonth);
+  };
+
+  // Share functionality
+  const handleShare = async () => {
+    const shareUrl = `https://metalforge.io/birthdays${selectedMonth ? `?month=${selectedMonth}` : ''}`;
+    
+    if (Platform.OS === 'web' && navigator.clipboard) {
+      try {
+        await navigator.clipboard.writeText(shareUrl);
+        setCopied(true);
+        setTimeout(() => setCopied(false), 2000);
+      } catch (err) {
+        console.error('Failed to copy:', err);
+      }
+    }
+  };
+
+  const handleTwitterShare = () => {
+    let text;
+    if (todaysBirthdays.length > 0) {
+      const names = todaysBirthdays.map(d => d.name).join(' & ');
+      text = `🎂 Happy Birthday ${names}! Check out the Metal Drummer Birthday Calendar`;
+    } else if (selectedMonth) {
+      text = `🎂 ${MONTH_NAMES[selectedMonth - 1]} Metal Drummer Birthdays`;
+    } else {
+      text = '🎂 Never miss a metal drummer birthday! Check out the Metal Drummer Birthday Calendar';
+    }
+    const shareUrl = `https://metalforge.io/birthdays${selectedMonth ? `?month=${selectedMonth}` : ''}`;
+    const twitterUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}&url=${encodeURIComponent(shareUrl)}&via=MetalDrumGear`;
+    Linking.openURL(twitterUrl);
+  };
+
+  return (
+    <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+      <View style={styles.detailContent}>
+        <TouchableOpacity
+          onPress={onBack}
+          style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          accessibilityRole="button"
+          accessibilityLabel="Go back to home"
+        >
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Home</Text>
+        </TouchableOpacity>
+
+        <Text style={[styles.birthdayCalendarTitle, { color: theme.text }]} accessibilityRole="header">
+          🎂 Metal Drummer Birthday Calendar
+        </Text>
+        <Text style={[styles.birthdayCalendarSubtitle, { color: theme.secondaryText }]}>
+          Never miss a legendary drummer's birthday! Share and celebrate with the metal community.
+        </Text>
+
+        {/* Today's Birthdays Banner */}
+        {todaysBirthdays.length > 0 && (
+          <View style={[styles.todayBirthdayBanner, { backgroundColor: '#dc2626' }]}>
+            <Text style={styles.todayBirthdayEmoji}>🎉</Text>
+            <View style={styles.todayBirthdayContent}>
+              <Text style={styles.todayBirthdayLabel}>TODAY'S BIRTHDAY{todaysBirthdays.length > 1 ? 'S' : ''}</Text>
+              {todaysBirthdays.map((drummer, index) => (
+                <TouchableOpacity 
+                  key={drummer.slug}
+                  onPress={() => onSelectDrummer(drummer.slug)}
+                  accessibilityRole="button"
+                >
+                  <Text style={styles.todayBirthdayName}>
+                    {drummer.name} ({drummer.band}) - {calculateAge(drummer.birthYear, drummer.birthMonth, drummer.birthDay)} years old!
+                  </Text>
+                </TouchableOpacity>
+              ))}
+            </View>
+            <Text style={styles.todayBirthdayEmoji}>🎉</Text>
+          </View>
+        )}
+
+        {/* Share Buttons */}
+        <View style={[styles.birthdayShareSection, { borderColor: theme.border }]}>
+          <Text style={[styles.birthdayShareLabel, { color: theme.secondaryText }]}>
+            Share this calendar:
+          </Text>
+          <View style={styles.birthdayShareButtons}>
+            <TouchableOpacity
+              onPress={handleTwitterShare}
+              style={[styles.birthdayShareButton, { backgroundColor: '#000000' }]}
+            >
+              <Text style={styles.birthdayShareButtonText}>𝕏 Tweet</Text>
+            </TouchableOpacity>
+            <TouchableOpacity
+              onPress={handleShare}
+              style={[styles.birthdayShareButton, { backgroundColor: theme.card, borderColor: theme.border, borderWidth: 1 }]}
+            >
+              <Text style={[styles.birthdayShareButtonText, { color: theme.text }]}>
+                {copied ? '✓ Copied!' : '🔗 Copy Link'}
+              </Text>
+            </TouchableOpacity>
+          </View>
+        </View>
+
+        {/* Upcoming Birthdays */}
+        {!selectedMonth && upcomingBirthdays.length > 0 && (
+          <View style={[styles.birthdaySection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.birthdaySectionTitle, { color: theme.text }]}>
+              🔜 Upcoming Birthdays
+            </Text>
+            <View style={styles.upcomingBirthdaysList}>
+              {upcomingBirthdays.slice(0, 5).map((drummer, index) => (
+                <TouchableOpacity
+                  key={`${drummer.slug}-${index}`}
+                  onPress={() => onSelectDrummer(drummer.slug)}
+                  style={[styles.upcomingBirthdayItem, { borderBottomColor: theme.border }]}
+                  accessibilityRole="button"
+                >
+                  <View style={styles.upcomingBirthdayLeft}>
+                    <Text style={[styles.upcomingBirthdayName, { color: theme.text }]}>
+                      {drummer.name}
+                    </Text>
+                    <Text style={[styles.upcomingBirthdayBand, { color: theme.secondaryText }]}>
+                      {drummer.band}
+                    </Text>
+                  </View>
+                  <View style={styles.upcomingBirthdayRight}>
+                    <Text style={[styles.upcomingBirthdayDate, { color: '#dc2626' }]}>
+                      {formatBirthday(drummer.birthMonth, drummer.birthDay)}
+                    </Text>
+                    <Text style={[styles.upcomingBirthdayDays, { color: theme.secondaryText }]}>
+                      {drummer.daysUntil === 0 ? 'Today!' : drummer.daysUntil === 1 ? 'Tomorrow' : `In ${drummer.daysUntil} days`}
+                    </Text>
+                  </View>
+                </TouchableOpacity>
+              ))}
+            </View>
+          </View>
+        )}
+
+        {/* Month Filter */}
+        <View style={[styles.monthFilterSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.monthFilterTitle, { color: theme.text }]}>
+            Filter by Month
+          </Text>
+          <View style={[styles.monthGrid, isMobile && styles.monthGridMobile]}>
+            {MONTH_NAMES.map((monthName, index) => {
+              const monthNum = index + 1;
+              const monthBirthdays = getBirthdaysByMonth(monthNum);
+              const isSelected = selectedMonth === monthNum;
+              return (
+                <TouchableOpacity
+                  key={monthNum}
+                  onPress={() => handleMonthSelect(monthNum)}
+                  style={[
+                    styles.monthButton,
+                    { 
+                      backgroundColor: isSelected ? '#dc2626' : theme.background,
+                      borderColor: isSelected ? '#dc2626' : theme.border 
+                    }
+                  ]}
+                  accessibilityRole="button"
+                  accessibilityState={{ selected: isSelected }}
+                >
+                  <Text style={[styles.monthButtonText, { color: isSelected ? '#fff' : theme.text }]}>
+                    {monthName.substring(0, 3)}
+                  </Text>
+                  {monthBirthdays.length > 0 && (
+                    <View style={[styles.monthBadge, { backgroundColor: isSelected ? '#fff' : '#dc2626' }]}>
+                      <Text style={[styles.monthBadgeText, { color: isSelected ? '#dc2626' : '#fff' }]}>
+                        {monthBirthdays.length}
+                      </Text>
+                    </View>
+                  )}
+                </TouchableOpacity>
+              );
+            })}
+          </View>
+          {selectedMonth && (
+            <TouchableOpacity
+              onPress={() => handleMonthSelect(null)}
+              style={[styles.clearMonthFilter, { borderColor: theme.border }]}
+            >
+              <Text style={[styles.clearMonthFilterText, { color: theme.text }]}>
+                Show All Months
+              </Text>
+            </TouchableOpacity>
+          )}
+        </View>
+
+        {/* Birthday Cards */}
+        <View style={[styles.birthdayCardsSection]}>
+          <Text style={[styles.birthdaySectionTitle, { color: theme.text }]}>
+            {selectedMonth ? `${MONTH_NAMES[selectedMonth - 1]} Birthdays` : 'All Birthdays'}
+          </Text>
+          <View style={[styles.birthdayCardsGrid, isMobile && styles.birthdayCardsGridMobile]}>
+            {displayBirthdays.map((drummer) => {
+              const zodiac = getZodiacSign(drummer.birthMonth, drummer.birthDay);
+              const age = calculateAge(drummer.birthYear, drummer.birthMonth, drummer.birthDay, drummer.deathDate);
+              
+              return (
+                <TouchableOpacity
+                  key={drummer.slug}
+                  onPress={() => onSelectDrummer(drummer.slug)}
+                  style={[styles.birthdayCard, { backgroundColor: theme.card, borderColor: theme.border }]}
+                  accessibilityRole="button"
+                  accessibilityLabel={`${drummer.name}, born ${formatBirthday(drummer.birthMonth, drummer.birthDay)}`}
+                >
+                  <View style={styles.birthdayCardHeader}>
+                    <View style={styles.birthdayCardDate}>
+                      <Text style={styles.birthdayCardDay}>{drummer.birthDay}</Text>
+                      <Text style={styles.birthdayCardMonth}>{MONTH_NAMES[drummer.birthMonth - 1].substring(0, 3)}</Text>
+                    </View>
+                    <View style={styles.birthdayCardInfo}>
+                      <Text style={[styles.birthdayCardName, { color: theme.text }]} numberOfLines={1}>
+                        {drummer.name}
+                      </Text>
+                      <Text style={[styles.birthdayCardBand, { color: theme.secondaryText }]} numberOfLines={1}>
+                        {drummer.band}
+                      </Text>
+                      <View style={styles.birthdayCardMeta}>
+                        <Text style={[styles.birthdayCardYear, { color: theme.secondaryText }]}>
+                          Born {drummer.birthYear}
+                        </Text>
+                        <Text style={styles.birthdayCardZodiac}>
+                          {zodiac.emoji}
+                        </Text>
+                      </View>
+                    </View>
+                  </View>
+                  <View style={styles.birthdayCardFooter}>
+                    <Text style={[styles.birthdayCardAge, { color: theme.secondaryText }]}>
+                      {drummer.isLiving ? `${age} years old` : `Lived ${age} years (1975-2021)`}
+                    </Text>
+                    <Text style={[styles.birthdayCardPlace, { color: theme.secondaryText }]} numberOfLines={1}>
+                      📍 {drummer.birthPlace}
+                    </Text>
+                  </View>
+                  {!drummer.isLiving && (
+                    <View style={styles.memorialRibbon}>
+                      <Text style={styles.memorialRibbonText}>In Memoriam</Text>
+                    </View>
+                  )}
+                </TouchableOpacity>
+              );
+            })}
+          </View>
+        </View>
+
+        {displayBirthdays.length === 0 && (
+          <View style={styles.noBirthdaysContainer}>
+            <Text style={[styles.noBirthdaysText, { color: theme.secondaryText }]}>
+              No birthdays found for this month.
+            </Text>
+          </View>
+        )}
+
+        {/* Fun Stats */}
+        <View style={[styles.birthdaySection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.birthdaySectionTitle, { color: theme.text }]}>
+            📊 Birthday Fun Facts
+          </Text>
+          <View style={styles.birthdayStats}>
+            <View style={styles.birthdayStatItem}>
+              <Text style={[styles.birthdayStatValue, { color: '#dc2626' }]}>
+                {drummerBirthdays.length}
+              </Text>
+              <Text style={[styles.birthdayStatLabel, { color: theme.secondaryText }]}>
+                Drummers
+              </Text>
+            </View>
+            <View style={styles.birthdayStatItem}>
+              <Text style={[styles.birthdayStatValue, { color: '#dc2626' }]}>
+                {drummerBirthdays.filter(d => d.isLiving).length}
+              </Text>
+              <Text style={[styles.birthdayStatLabel, { color: theme.secondaryText }]}>
+                Still Rocking
+              </Text>
+            </View>
+            <View style={styles.birthdayStatItem}>
+              <Text style={[styles.birthdayStatValue, { color: '#dc2626' }]}>
+                {Math.min(...drummerBirthdays.filter(d => d.isLiving).map(d => calculateAge(d.birthYear, d.birthMonth, d.birthDay)))}
+              </Text>
+              <Text style={[styles.birthdayStatLabel, { color: theme.secondaryText }]}>
+                Youngest Age
+              </Text>
+            </View>
+            <View style={styles.birthdayStatItem}>
+              <Text style={[styles.birthdayStatValue, { color: '#dc2626' }]}>
+                Aug
+              </Text>
+              <Text style={[styles.birthdayStatLabel, { color: theme.secondaryText }]}>
+                Most Popular Month
+              </Text>
+            </View>
+          </View>
+        </View>
+      </View>
+    </ScrollView>
+  );
+}
+
 // Gear Finder Page - Search drummers by specific gear item (Issue #156)
 function GearFinderPage({ theme, onBack, drummers, onSelectDrummer }) {
   const { width } = useWindowDimensions();
@@ -5308,6 +5645,471 @@ function KitBuilderPage({ theme, onBack, drummers, onSelectDrummer }) {
             </View>
           </View>
         )}
+      </View>
+    </ScrollView>
+  );
+}
+
+// ==========================================
+// BPM TAP CALCULATOR PAGE (Issue #342)
+// ==========================================
+function BpmTapPage({ theme, onBack, drummers, onSelectDrummer }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  
+  // Tap state
+  const [taps, setTaps] = useState([]);
+  const [bpm, setBpm] = useState(() => getBpmFromURL());
+  const [isActive, setIsActive] = useState(false);
+  const [copied, setCopied] = useState(false);
+  const timeoutRef = useRef(null);
+  
+  // Song database state
+  const [songFilter, setSongFilter] = useState(() => getSongFilterFromURL());
+  const [selectedGenre, setSelectedGenre] = useState('');
+  const [bpmRange, setBpmRange] = useState({ min: 0, max: 300 });
+  const [sortBy, setSortBy] = useState('bpm');
+  
+  // Get unique genres from database
+  const genres = useMemo(() => {
+    const genreSet = new Set(METAL_SONGS_DATABASE.map(s => s.genre));
+    return ['', ...Array.from(genreSet).sort()];
+  }, []);
+  
+  // Filter and sort songs
+  const filteredSongs = useMemo(() => {
+    let songs = METAL_SONGS_DATABASE;
+    
+    // Filter by search
+    if (songFilter) {
+      const query = songFilter.toLowerCase();
+      songs = songs.filter(s => 
+        s.song.toLowerCase().includes(query) ||
+        s.band.toLowerCase().includes(query) ||
+        s.drummer.toLowerCase().includes(query)
+      );
+    }
+    
+    // Filter by genre
+    if (selectedGenre) {
+      songs = songs.filter(s => s.genre === selectedGenre);
+    }
+    
+    // Filter by BPM range
+    songs = songs.filter(s => s.bpm >= bpmRange.min && s.bpm <= bpmRange.max);
+    
+    // Sort
+    if (sortBy === 'bpm') {
+      songs = [...songs].sort((a, b) => a.bpm - b.bpm);
+    } else if (sortBy === 'bpm-desc') {
+      songs = [...songs].sort((a, b) => b.bpm - a.bpm);
+    } else if (sortBy === 'band') {
+      songs = [...songs].sort((a, b) => a.band.localeCompare(b.band));
+    } else if (sortBy === 'year') {
+      songs = [...songs].sort((a, b) => b.year - a.year);
+    }
+    
+    return songs;
+  }, [songFilter, selectedGenre, bpmRange, sortBy]);
+  
+  // Find songs near the tapped BPM
+  const matchingSongs = useMemo(() => {
+    if (!bpm) return [];
+    const tolerance = 10;
+    return METAL_SONGS_DATABASE
+      .filter(s => Math.abs(s.bpm - bpm) <= tolerance)
+      .sort((a, b) => Math.abs(a.bpm - bpm) - Math.abs(b.bpm - bpm))
+      .slice(0, 5);
+  }, [bpm]);
+  
+  // Handle tap
+  const handleTap = useCallback(() => {
+    const now = Date.now();
+    
+    // Clear timeout for reset
+    if (timeoutRef.current) {
+      clearTimeout(timeoutRef.current);
+    }
+    
+    // Reset if more than 2 seconds since last tap
+    const newTaps = taps.length > 0 && (now - taps[taps.length - 1]) > 2000 
+      ? [now] 
+      : [...taps, now].slice(-8); // Keep last 8 taps
+    
+    setTaps(newTaps);
+    setIsActive(true);
+    
+    // Calculate BPM from taps
+    if (newTaps.length >= 2) {
+      const intervals = [];
+      for (let i = 1; i < newTaps.length; i++) {
+        intervals.push(newTaps[i] - newTaps[i - 1]);
+      }
+      const avgInterval = intervals.reduce((a, b) => a + b, 0) / intervals.length;
+      const calculatedBpm = Math.round(60000 / avgInterval);
+      setBpm(calculatedBpm);
+      updateBpmURL(calculatedBpm, songFilter);
+      updateBpmMeta(calculatedBpm);
+    }
+    
+    // Auto-reset after 3 seconds of inactivity
+    timeoutRef.current = setTimeout(() => {
+      setIsActive(false);
+    }, 3000);
+    
+    // Track event
+    if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
+      window.gtag('event', 'bpm_tap', {
+        tap_count: newTaps.length,
+      });
+    }
+  }, [taps, songFilter]);
+  
+  // Handle reset
+  const handleReset = useCallback(() => {
+    setTaps([]);
+    setBpm(null);
+    setIsActive(false);
+    updateBpmURL(null, songFilter);
+    updateBpmMeta(null);
+  }, [songFilter]);
+  
+  // Handle copy link
+  const handleCopyLink = useCallback(() => {
+    if (Platform.OS === 'web' && typeof navigator !== 'undefined' && navigator.clipboard) {
+      navigator.clipboard.writeText(window.location.href);
+      setCopied(true);
+      setTimeout(() => setCopied(false), 2000);
+      if (window.gtag) {
+        window.gtag('event', 'bpm_share', { method: 'copy_link', bpm });
+      }
+    }
+  }, [bpm]);
+  
+  // Handle share to Twitter
+  const handleShareTwitter = useCallback(() => {
+    const text = bpm 
+      ? `I found the tempo: ${bpm} BPM! 🥁 Check out the BPM Tap Calculator at MetalForge.io`
+      : 'Check out the BPM Tap Calculator for drummers at MetalForge.io! 🥁';
+    const url = encodeURIComponent(window.location.href);
+    const twitterUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}&url=${url}`;
+    if (Platform.OS === 'web') {
+      window.open(twitterUrl, '_blank');
+      if (window.gtag) {
+        window.gtag('event', 'bpm_share', { method: 'twitter', bpm });
+      }
+    }
+  }, [bpm]);
+  
+  // Update meta on mount
+  useEffect(() => {
+    updateBpmMeta(bpm);
+  }, [bpm]);
+  
+  // Keyboard support for spacebar tapping
+  useEffect(() => {
+    if (Platform.OS !== 'web') return;
+    
+    const handleKeyDown = (e) => {
+      if (e.code === 'Space' || e.key === ' ') {
+        e.preventDefault();
+        handleTap();
+      }
+    };
+    
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [handleTap]);
+  
+  const bpmCategory = bpm ? getBpmCategory(bpm) : null;
+  
+  return (
+    <ScrollView 
+      style={[styles.listContainer, { backgroundColor: theme.background }]}
+      contentContainerStyle={{ paddingBottom: 40 }}
+    >
+      {/* Header */}
+      <View style={styles.bpmPageHeader}>
+        <TouchableOpacity onPress={onBack} style={styles.backButton} accessibilityRole="button">
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+        </TouchableOpacity>
+      </View>
+      
+      {/* Title */}
+      <View style={styles.bpmTitleSection}>
+        <Text style={[styles.bpmPageTitle, { color: theme.text }]}>🥁 BPM Tap Calculator</Text>
+        <Text style={[styles.bpmPageSubtitle, { color: theme.secondaryText }]}>
+          Tap to find the tempo of any song. Browse metal songs by BPM.
+        </Text>
+      </View>
+      
+      {/* Tap Area */}
+      <View style={[styles.bpmTapSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+        <TouchableOpacity
+          onPress={handleTap}
+          style={[
+            styles.bpmTapButton,
+            isActive && styles.bpmTapButtonActive,
+            { borderColor: isActive ? '#dc2626' : theme.border }
+          ]}
+          activeOpacity={0.7}
+          accessibilityRole="button"
+          accessibilityLabel="Tap to calculate BPM"
+        >
+          <Text style={styles.bpmTapEmoji}>{isActive ? '🔥' : '👆'}</Text>
+          <Text style={[styles.bpmTapText, { color: theme.text }]}>
+            {isActive ? 'Keep Tapping!' : 'Tap Here'}
+          </Text>
+          <Text style={[styles.bpmTapHint, { color: theme.secondaryText }]}>
+            or press Spacebar
+          </Text>
+        </TouchableOpacity>
+        
+        {/* BPM Display */}
+        {bpm && (
+          <View style={styles.bpmResultSection}>
+            <View style={styles.bpmResultDisplay}>
+              <Text style={[styles.bpmResultValue, { color: bpmCategory?.color || theme.text }]}>
+                {bpm}
+              </Text>
+              <Text style={[styles.bpmResultUnit, { color: theme.secondaryText }]}>BPM</Text>
+            </View>
+            <View style={[styles.bpmResultBadge, { backgroundColor: bpmCategory?.color }]}>
+              <Text style={styles.bpmResultBadgeText}>
+                {bpmCategory?.emoji} {bpmCategory?.label}
+              </Text>
+            </View>
+            <Text style={[styles.bpmTapCount, { color: theme.secondaryText }]}>
+              Based on {taps.length} taps
+            </Text>
+          </View>
+        )}
+        
+        {/* Action Buttons */}
+        <View style={styles.bpmActionButtons}>
+          <TouchableOpacity
+            onPress={handleReset}
+            style={[styles.bpmResetButton, { borderColor: theme.border }]}
+            accessibilityRole="button"
+          >
+            <Text style={[styles.bpmResetButtonText, { color: theme.text }]}>🔄 Reset</Text>
+          </TouchableOpacity>
+          {bpm && (
+            <>
+              <TouchableOpacity
+                onPress={handleCopyLink}
+                style={[styles.bpmShareButton, { backgroundColor: '#8b5cf6' }]}
+                accessibilityRole="button"
+              >
+                <Text style={styles.bpmShareButtonText}>
+                  {copied ? '✓ Copied!' : '📋 Copy Link'}
+                </Text>
+              </TouchableOpacity>
+              <TouchableOpacity
+                onPress={handleShareTwitter}
+                style={[styles.bpmShareButton, { backgroundColor: '#1DA1F2' }]}
+                accessibilityRole="button"
+              >
+                <Text style={styles.bpmShareButtonText}>🐦 Tweet</Text>
+              </TouchableOpacity>
+            </>
+          )}
+        </View>
+      </View>
+      
+      {/* Matching Songs Section */}
+      {matchingSongs.length > 0 && (
+        <View style={[styles.bpmMatchingSection, { backgroundColor: theme.card, borderColor: '#dc2626' }]}>
+          <Text style={[styles.bpmMatchingTitle, { color: theme.text }]}>
+            🎯 Songs near {bpm} BPM
+          </Text>
+          {matchingSongs.map((song, idx) => (
+            <TouchableOpacity
+              key={`${song.band}-${song.song}-${idx}`}
+              style={[styles.bpmSongCard, { borderColor: theme.border }]}
+              onPress={() => {
+                const drummer = drummers.find(d => d.name === song.drummer);
+                if (drummer) onSelectDrummer(drummer.id);
+              }}
+            >
+              <View style={styles.bpmSongInfo}>
+                <Text style={[styles.bpmSongName, { color: theme.text }]}>{song.song}</Text>
+                <Text style={[styles.bpmSongBand, { color: theme.secondaryText }]}>
+                  {song.band} • {song.drummer}
+                </Text>
+              </View>
+              <View style={[styles.bpmSongBpm, { backgroundColor: getBpmCategory(song.bpm).color }]}>
+                <Text style={styles.bpmSongBpmText}>{song.bpm}</Text>
+              </View>
+            </TouchableOpacity>
+          ))}
+        </View>
+      )}
+      
+      {/* Song Database Section */}
+      <View style={styles.bpmDatabaseSection}>
+        <Text style={[styles.bpmDatabaseTitle, { color: theme.text }]}>
+          📀 Metal Song BPM Database
+        </Text>
+        <Text style={[styles.bpmDatabaseSubtitle, { color: theme.secondaryText }]}>
+          {METAL_SONGS_DATABASE.length} songs • Browse by tempo, genre, or search
+        </Text>
+        
+        {/* Filters */}
+        <View style={[styles.bpmFilters, isMobile && styles.bpmFiltersMobile]}>
+          {/* Search */}
+          <View style={styles.bpmFilterItem}>
+            <TextInput
+              style={[styles.bpmSearchInput, { 
+                backgroundColor: theme.card, 
+                borderColor: theme.border,
+                color: theme.text 
+              }]}
+              placeholder="Search songs, bands, drummers..."
+              placeholderTextColor={theme.secondaryText}
+              value={songFilter}
+              onChangeText={(text) => {
+                setSongFilter(text);
+                updateBpmURL(bpm, text);
+              }}
+            />
+          </View>
+          
+          {/* Genre Filter */}
+          <View style={styles.bpmFilterItem}>
+            <Text style={[styles.bpmFilterLabel, { color: theme.secondaryText }]}>Genre</Text>
+            <View style={styles.bpmGenreButtons}>
+              {genres.slice(0, isMobile ? 4 : 8).map(genre => (
+                <TouchableOpacity
+                  key={genre || 'all'}
+                  style={[
+                    styles.bpmGenreButton,
+                    selectedGenre === genre && styles.bpmGenreButtonActive,
+                    { borderColor: selectedGenre === genre ? '#dc2626' : theme.border }
+                  ]}
+                  onPress={() => setSelectedGenre(genre)}
+                >
+                  <Text style={[
+                    styles.bpmGenreButtonText,
+                    { color: selectedGenre === genre ? '#dc2626' : theme.text }
+                  ]}>
+                    {genre || 'All'}
+                  </Text>
+                </TouchableOpacity>
+              ))}
+            </View>
+          </View>
+          
+          {/* Sort */}
+          <View style={styles.bpmFilterItem}>
+            <Text style={[styles.bpmFilterLabel, { color: theme.secondaryText }]}>Sort by</Text>
+            <View style={styles.bpmSortButtons}>
+              {[
+                { key: 'bpm', label: 'BPM ↑' },
+                { key: 'bpm-desc', label: 'BPM ↓' },
+                { key: 'band', label: 'Band' },
+                { key: 'year', label: 'Year' },
+              ].map(opt => (
+                <TouchableOpacity
+                  key={opt.key}
+                  style={[
+                    styles.bpmSortButton,
+                    sortBy === opt.key && styles.bpmSortButtonActive,
+                    { borderColor: sortBy === opt.key ? '#dc2626' : theme.border }
+                  ]}
+                  onPress={() => setSortBy(opt.key)}
+                >
+                  <Text style={[
+                    styles.bpmSortButtonText,
+                    { color: sortBy === opt.key ? '#dc2626' : theme.text }
+                  ]}>
+                    {opt.label}
+                  </Text>
+                </TouchableOpacity>
+              ))}
+            </View>
+          </View>
+        </View>
+        
+        {/* Results Count */}
+        <Text style={[styles.bpmResultsCount, { color: theme.secondaryText }]}>
+          Showing {filteredSongs.length} of {METAL_SONGS_DATABASE.length} songs
+        </Text>
+        
+        {/* Song List */}
+        <View style={styles.bpmSongList}>
+          {filteredSongs.slice(0, 50).map((song, idx) => {
+            const category = getBpmCategory(song.bpm);
+            const drummer = drummers.find(d => d.name === song.drummer);
+            
+            return (
+              <TouchableOpacity
+                key={`${song.band}-${song.song}-${idx}`}
+                style={[styles.bpmSongListItem, { 
+                  backgroundColor: theme.card, 
+                  borderColor: theme.border 
+                }]}
+                onPress={() => {
+                  if (drummer) onSelectDrummer(drummer.id);
+                }}
+              >
+                <View style={[styles.bpmSongBpmBadge, { backgroundColor: category.color }]}>
+                  <Text style={styles.bpmSongBpmBadgeText}>{song.bpm}</Text>
+                  <Text style={styles.bpmSongBpmBadgeUnit}>BPM</Text>
+                </View>
+                <View style={styles.bpmSongDetails}>
+                  <Text style={[styles.bpmSongTitle, { color: theme.text }]} numberOfLines={1}>
+                    {song.song}
+                  </Text>
+                  <Text style={[styles.bpmSongMeta, { color: theme.secondaryText }]} numberOfLines={1}>
+                    {song.band} • {song.album} ({song.year})
+                  </Text>
+                  <Text style={[styles.bpmSongDrummer, { color: theme.secondaryText }]} numberOfLines={1}>
+                    🥁 {song.drummer}
+                  </Text>
+                </View>
+                <View style={[styles.bpmSongGenreBadge, { backgroundColor: theme.background }]}>
+                  <Text style={[styles.bpmSongGenreText, { color: theme.secondaryText }]}>
+                    {song.genre}
+                  </Text>
+                </View>
+              </TouchableOpacity>
+            );
+          })}
+          
+          {filteredSongs.length > 50 && (
+            <Text style={[styles.bpmShowMore, { color: theme.secondaryText }]}>
+              Showing first 50 results. Refine your search to see more.
+            </Text>
+          )}
+          
+          {filteredSongs.length === 0 && (
+            <View style={styles.bpmNoResults}>
+              <Text style={[styles.bpmNoResultsText, { color: theme.secondaryText }]}>
+                No songs found matching your filters.
+              </Text>
+            </View>
+          )}
+        </View>
+      </View>
+      
+      {/* Tips Section */}
+      <View style={[styles.bpmTipsSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+        <Text style={[styles.bpmTipsTitle, { color: theme.text }]}>💡 Pro Tips</Text>
+        <View style={styles.bpmTipsList}>
+          <Text style={[styles.bpmTip, { color: theme.secondaryText }]}>
+            • Tap along with the kick drum or snare for accuracy
+          </Text>
+          <Text style={[styles.bpmTip, { color: theme.secondaryText }]}>
+            • Use at least 4 taps for a reliable BPM reading
+          </Text>
+          <Text style={[styles.bpmTip, { color: theme.secondaryText }]}>
+            • Share your tempo with bandmates using the share button
+          </Text>
+          <Text style={[styles.bpmTip, { color: theme.secondaryText }]}>
+            • Practice songs at similar BPM to improve your speed
+          </Text>
+        </View>
       </View>
     </ScrollView>
   );
@@ -6907,6 +7709,500 @@ function GenresListPage({ onBack, onSelectGenre, theme }) {
   );
 }
 
+// ==========================================
+// GEAR COMPARISON PAGES (Issue #345)
+// ==========================================
+
+// Gear Comparisons Index Page - List all available comparisons
+function GearComparisonsIndexPage({ theme, onBack, onSelectComparison }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const allComparisons = getAllGearComparisons();
+
+  // Group comparisons by category
+  const comparisonsByCategory = useMemo(() => {
+    const groups = {};
+    allComparisons.forEach(c => {
+      if (!groups[c.category]) groups[c.category] = [];
+      groups[c.category].push(c);
+    });
+    return groups;
+  }, [allComparisons]);
+
+  const categoryLabels = {
+    drums: '🥁 Drum Kit Comparisons',
+    cymbals: '🔔 Cymbal Comparisons',
+    hardware: '⚙️ Hardware Comparisons',
+    snares: '🔵 Snare Drum Comparisons',
+  };
+
+  const categoryOrder = ['drums', 'cymbals', 'hardware', 'snares'];
+
+  // Update SEO
+  useEffect(() => {
+    updateGearComparisonMeta(null);
+  }, []);
+
+  return (
+    <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+      <View style={styles.detailContent}>
+        <TouchableOpacity
+          onPress={onBack}
+          style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          accessibilityRole="button"
+          accessibilityLabel="Go back"
+        >
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+        </TouchableOpacity>
+
+        <Text style={[styles.bandPageTitle, { color: theme.text }]}>⚖️ Gear Comparisons</Text>
+        <Text style={[styles.bandPageSubtitle, { color: theme.secondaryText, marginBottom: 24 }]}>
+          Compare top drum brands and gear for metal drumming. Expert analysis, specs, pricing, and pro endorsements.
+        </Text>
+
+        {categoryOrder.map(category => {
+          const comparisons = comparisonsByCategory[category] || [];
+          if (comparisons.length === 0) return null;
+
+          return (
+            <View key={category} style={{ marginBottom: 32 }}>
+              <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>
+                {categoryLabels[category]}
+              </Text>
+              <View style={{ 
+                flexDirection: 'row', 
+                flexWrap: 'wrap', 
+                gap: 16,
+                justifyContent: isMobile ? 'center' : 'flex-start'
+              }}>
+                {comparisons.map(comparison => (
+                  <TouchableOpacity
+                    key={comparison.slug}
+                    style={{
+                      backgroundColor: theme.card,
+                      borderColor: theme.border,
+                      borderWidth: 1,
+                      borderRadius: 12,
+                      padding: 16,
+                      width: isMobile ? '100%' : 'calc(50% - 8px)',
+                      maxWidth: 400,
+                    }}
+                    onPress={() => onSelectComparison(comparison.slug)}
+                    accessibilityRole="button"
+                    accessibilityLabel={`Compare ${comparison.title}`}
+                  >
+                    <View style={{ flexDirection: 'row', alignItems: 'center', marginBottom: 12 }}>
+                      <View style={{ flexDirection: 'row', alignItems: 'center', gap: 8 }}>
+                        <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text }}>
+                          {comparison.items[0].brand}
+                        </Text>
+                        <Text style={{ fontSize: 16, color: theme.secondaryText }}>vs</Text>
+                        <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text }}>
+                          {comparison.items[1].brand}
+                        </Text>
+                      </View>
+                    </View>
+                    <Text style={{ color: theme.secondaryText, fontSize: 14, marginBottom: 8 }}>
+                      {comparison.items[0].model} vs {comparison.items[1].model}
+                    </Text>
+                    <View style={{ flexDirection: 'row', alignItems: 'center', marginTop: 8 }}>
+                      <Text style={{ color: '#dc2626', fontWeight: '600', fontSize: 14 }}>
+                        Compare →
+                      </Text>
+                    </View>
+                  </TouchableOpacity>
+                ))}
+              </View>
+            </View>
+          );
+        })}
+
+        {/* SEO Footer */}
+        <View style={{ marginTop: 24, padding: 20, backgroundColor: theme.card, borderRadius: 12, borderColor: theme.border, borderWidth: 1 }}>
+          <Text style={{ fontSize: 16, fontWeight: '600', color: theme.text, marginBottom: 8 }}>
+            🎯 Finding the Right Gear
+          </Text>
+          <Text style={{ color: theme.secondaryText, fontSize: 14, lineHeight: 22 }}>
+            Our gear comparisons are designed to help metal drummers make informed decisions. We compare specs, pricing, durability, and most importantly—which pro metal drummers use each piece of equipment. Whether you're choosing between Tama and Pearl drums, Meinl and Zildjian cymbals, or Iron Cobra and Demon Drive pedals, we've got you covered.
+          </Text>
+        </View>
+      </View>
+    </ScrollView>
+  );
+}
+
+// Gear Comparison Detail Page - Single comparison view
+function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, drummers }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const comparison = getGearComparisonBySlug(comparisonSlug);
+
+  // Update SEO
+  useEffect(() => {
+    if (comparison) {
+      updateGearComparisonMeta(comparison);
+    }
+  }, [comparison]);
+
+  if (!comparison) {
+    return (
+      <View style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+        <View style={styles.detailContent}>
+          <TouchableOpacity
+            onPress={onBack}
+            style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          >
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+          </TouchableOpacity>
+          <Text style={{ color: theme.text, fontSize: 18, textAlign: 'center', marginTop: 40 }}>
+            Comparison not found
+          </Text>
+        </View>
+      </View>
+    );
+  }
+
+  const item1 = comparison.items[0];
+  const item2 = comparison.items[1];
+
+  // Helper to find drummer by name
+  const findDrummerByName = (name) => {
+    if (!drummers) return null;
+    const normalized = name.toLowerCase().replace(/\s+/g, '-');
+    return drummers.find(d => d.name.toLowerCase().replace(/\s+/g, '-') === normalized);
+  };
+
+  // Render stars for rating
+  const renderRating = (rating) => {
+    const fullStars = Math.floor(rating);
+    const hasHalf = rating % 1 >= 0.5;
+    const stars = [];
+    for (let i = 0; i < fullStars; i++) stars.push('★');
+    if (hasHalf) stars.push('½');
+    return stars.join('');
+  };
+
+  return (
+    <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+      <View style={styles.detailContent}>
+        <TouchableOpacity
+          onPress={onBack}
+          style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          accessibilityRole="button"
+          accessibilityLabel="Go back to comparisons"
+        >
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Comparisons</Text>
+        </TouchableOpacity>
+
+        {/* Header */}
+        <View style={{ alignItems: 'center', marginBottom: 24 }}>
+          <Text style={{ fontSize: 14, color: theme.secondaryText, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>
+            Gear Comparison
+          </Text>
+          <Text style={[styles.bandPageTitle, { color: theme.text, textAlign: 'center' }]}>
+            {comparison.title}
+          </Text>
+        </View>
+
+        {/* VS Card */}
+        <View style={{ 
+          flexDirection: isMobile ? 'column' : 'row', 
+          gap: 16, 
+          marginBottom: 24,
+          alignItems: 'stretch'
+        }}>
+          {/* Item 1 */}
+          <View style={{ 
+            flex: 1, 
+            backgroundColor: theme.card, 
+            borderRadius: 12, 
+            padding: 20, 
+            borderColor: '#dc2626', 
+            borderWidth: 2 
+          }}>
+            <Text style={{ fontSize: 24, fontWeight: 'bold', color: theme.text, marginBottom: 4 }}>
+              {item1.brand}
+            </Text>
+            <Text style={{ fontSize: 16, color: theme.secondaryText, marginBottom: 12 }}>
+              {item1.model}
+            </Text>
+            <View style={{ backgroundColor: theme.background, borderRadius: 8, padding: 12, marginBottom: 12 }}>
+              <Text style={{ color: '#22c55e', fontWeight: '600', fontSize: 18 }}>
+                {item1.priceRange}
+              </Text>
+            </View>
+            <View style={{ flexDirection: 'row', alignItems: 'center', marginBottom: 12 }}>
+              <Text style={{ color: '#fbbf24', fontSize: 16, marginRight: 8 }}>
+                {renderRating(item1.rating)}
+              </Text>
+              <Text style={{ color: theme.secondaryText, fontSize: 14 }}>
+                {item1.rating}/5
+              </Text>
+            </View>
+            <Text style={{ color: theme.secondaryText, fontSize: 13, fontStyle: 'italic' }}>
+              Best for: {item1.bestFor}
+            </Text>
+          </View>
+
+          {/* VS Badge */}
+          <View style={{ 
+            alignItems: 'center', 
+            justifyContent: 'center',
+            paddingVertical: isMobile ? 8 : 0 
+          }}>
+            <View style={{ 
+              backgroundColor: '#dc2626', 
+              width: 50, 
+              height: 50, 
+              borderRadius: 25, 
+              alignItems: 'center', 
+              justifyContent: 'center' 
+            }}>
+              <Text style={{ color: '#ffffff', fontWeight: 'bold', fontSize: 16 }}>VS</Text>
+            </View>
+          </View>
+
+          {/* Item 2 */}
+          <View style={{ 
+            flex: 1, 
+            backgroundColor: theme.card, 
+            borderRadius: 12, 
+            padding: 20, 
+            borderColor: '#3b82f6', 
+            borderWidth: 2 
+          }}>
+            <Text style={{ fontSize: 24, fontWeight: 'bold', color: theme.text, marginBottom: 4 }}>
+              {item2.brand}
+            </Text>
+            <Text style={{ fontSize: 16, color: theme.secondaryText, marginBottom: 12 }}>
+              {item2.model}
+            </Text>
+            <View style={{ backgroundColor: theme.background, borderRadius: 8, padding: 12, marginBottom: 12 }}>
+              <Text style={{ color: '#22c55e', fontWeight: '600', fontSize: 18 }}>
+                {item2.priceRange}
+              </Text>
+            </View>
+            <View style={{ flexDirection: 'row', alignItems: 'center', marginBottom: 12 }}>
+              <Text style={{ color: '#fbbf24', fontSize: 16, marginRight: 8 }}>
+                {renderRating(item2.rating)}
+              </Text>
+              <Text style={{ color: theme.secondaryText, fontSize: 14 }}>
+                {item2.rating}/5
+              </Text>
+            </View>
+            <Text style={{ color: theme.secondaryText, fontSize: 13, fontStyle: 'italic' }}>
+              Best for: {item2.bestFor}
+            </Text>
+          </View>
+        </View>
+
+        {/* Pros & Cons Comparison */}
+        <View style={{ marginBottom: 24 }}>
+          <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>
+            ⚖️ Pros & Cons
+          </Text>
+          <View style={{ flexDirection: isMobile ? 'column' : 'row', gap: 16 }}>
+            {/* Item 1 Pros/Cons */}
+            <View style={{ flex: 1, backgroundColor: theme.card, borderRadius: 12, padding: 16, borderColor: theme.border, borderWidth: 1 }}>
+              <Text style={{ fontSize: 16, fontWeight: '600', color: theme.text, marginBottom: 12 }}>
+                {item1.brand} {item1.model}
+              </Text>
+              <Text style={{ color: '#22c55e', fontWeight: '600', marginBottom: 8 }}>✓ Pros</Text>
+              {item1.pros.map((pro, i) => (
+                <Text key={i} style={{ color: theme.secondaryText, fontSize: 14, marginBottom: 4, paddingLeft: 8 }}>
+                  • {pro}
+                </Text>
+              ))}
+              <Text style={{ color: '#ef4444', fontWeight: '600', marginTop: 12, marginBottom: 8 }}>✗ Cons</Text>
+              {item1.cons.map((con, i) => (
+                <Text key={i} style={{ color: theme.secondaryText, fontSize: 14, marginBottom: 4, paddingLeft: 8 }}>
+                  • {con}
+                </Text>
+              ))}
+            </View>
+            {/* Item 2 Pros/Cons */}
+            <View style={{ flex: 1, backgroundColor: theme.card, borderRadius: 12, padding: 16, borderColor: theme.border, borderWidth: 1 }}>
+              <Text style={{ fontSize: 16, fontWeight: '600', color: theme.text, marginBottom: 12 }}>
+                {item2.brand} {item2.model}
+              </Text>
+              <Text style={{ color: '#22c55e', fontWeight: '600', marginBottom: 8 }}>✓ Pros</Text>
+              {item2.pros.map((pro, i) => (
+                <Text key={i} style={{ color: theme.secondaryText, fontSize: 14, marginBottom: 4, paddingLeft: 8 }}>
+                  • {pro}
+                </Text>
+              ))}
+              <Text style={{ color: '#ef4444', fontWeight: '600', marginTop: 12, marginBottom: 8 }}>✗ Cons</Text>
+              {item2.cons.map((con, i) => (
+                <Text key={i} style={{ color: theme.secondaryText, fontSize: 14, marginBottom: 4, paddingLeft: 8 }}>
+                  • {con}
+                </Text>
+              ))}
+            </View>
+          </View>
+        </View>
+
+        {/* Specs Comparison Table */}
+        <View style={{ marginBottom: 24, backgroundColor: theme.card, borderRadius: 12, padding: 16, borderColor: theme.border, borderWidth: 1 }}>
+          <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>
+            📊 Specifications
+          </Text>
+          <View style={{ borderTopWidth: 1, borderColor: theme.border }}>
+            <View style={{ flexDirection: 'row', backgroundColor: theme.background, paddingVertical: 12, paddingHorizontal: 8 }}>
+              <Text style={{ flex: 1, fontWeight: '600', color: theme.text, fontSize: 14 }}>Feature</Text>
+              <Text style={{ flex: 1, fontWeight: '600', color: '#dc2626', fontSize: 14, textAlign: 'center' }}>{item1.brand}</Text>
+              <Text style={{ flex: 1, fontWeight: '600', color: '#3b82f6', fontSize: 14, textAlign: 'center' }}>{item2.brand}</Text>
+            </View>
+            {Object.keys(item1.specs).map((key, i) => (
+              <View key={key} style={{ 
+                flexDirection: 'row', 
+                paddingVertical: 12, 
+                paddingHorizontal: 8,
+                borderTopWidth: 1,
+                borderColor: theme.border,
+                backgroundColor: i % 2 === 0 ? 'transparent' : theme.background
+              }}>
+                <Text style={{ flex: 1, color: theme.secondaryText, fontSize: 14, textTransform: 'capitalize' }}>
+                  {key.replace(/([A-Z])/g, ' $1').trim()}
+                </Text>
+                <Text style={{ flex: 1, color: theme.text, fontSize: 14, textAlign: 'center' }}>
+                  {item1.specs[key]}
+                </Text>
+                <Text style={{ flex: 1, color: theme.text, fontSize: 14, textAlign: 'center' }}>
+                  {item2.specs[key] || '-'}
+                </Text>
+              </View>
+            ))}
+          </View>
+        </View>
+
+        {/* Head-to-Head Comparison */}
+        <View style={{ marginBottom: 24, backgroundColor: theme.card, borderRadius: 12, padding: 16, borderColor: theme.border, borderWidth: 1 }}>
+          <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>
+            🎯 Head-to-Head
+          </Text>
+          {Object.entries(comparison.comparison).map(([key, value]) => (
+            <View key={key} style={{ marginBottom: 16 }}>
+              <Text style={{ color: theme.text, fontWeight: '600', fontSize: 15, marginBottom: 6, textTransform: 'capitalize' }}>
+                {key === 'forMetal' ? '🤘 For Metal' : `${key.charAt(0).toUpperCase() + key.slice(1)}`}
+              </Text>
+              <Text style={{ color: theme.secondaryText, fontSize: 14, lineHeight: 22 }}>
+                {value}
+              </Text>
+            </View>
+          ))}
+        </View>
+
+        {/* Pro Endorsements */}
+        <View style={{ marginBottom: 24 }}>
+          <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>
+            🎸 Pro Endorsements
+          </Text>
+          <View style={{ flexDirection: isMobile ? 'column' : 'row', gap: 16 }}>
+            {/* Item 1 Users */}
+            <View style={{ flex: 1, backgroundColor: theme.card, borderRadius: 12, padding: 16, borderColor: '#dc2626', borderWidth: 2 }}>
+              <Text style={{ fontSize: 16, fontWeight: '600', color: theme.text, marginBottom: 12 }}>
+                {item1.brand} Users
+              </Text>
+              <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: 8 }}>
+                {item1.usedBy.map((name, i) => {
+                  const drummer = findDrummerByName(name);
+                  return (
+                    <TouchableOpacity
+                      key={i}
+                      style={{
+                        backgroundColor: drummer ? '#dc2626' : theme.background,
+                        paddingHorizontal: 12,
+                        paddingVertical: 6,
+                        borderRadius: 16,
+                      }}
+                      onPress={() => drummer && onSelectDrummer(drummer.id)}
+                      disabled={!drummer}
+                    >
+                      <Text style={{ color: drummer ? '#ffffff' : theme.text, fontSize: 13 }}>
+                        {name}
+                      </Text>
+                    </TouchableOpacity>
+                  );
+                })}
+              </View>
+            </View>
+            {/* Item 2 Users */}
+            <View style={{ flex: 1, backgroundColor: theme.card, borderRadius: 12, padding: 16, borderColor: '#3b82f6', borderWidth: 2 }}>
+              <Text style={{ fontSize: 16, fontWeight: '600', color: theme.text, marginBottom: 12 }}>
+                {item2.brand} Users
+              </Text>
+              <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: 8 }}>
+                {item2.usedBy.map((name, i) => {
+                  const drummer = findDrummerByName(name);
+                  return (
+                    <TouchableOpacity
+                      key={i}
+                      style={{
+                        backgroundColor: drummer ? '#3b82f6' : theme.background,
+                        paddingHorizontal: 12,
+                        paddingVertical: 6,
+                        borderRadius: 16,
+                      }}
+                      onPress={() => drummer && onSelectDrummer(drummer.id)}
+                      disabled={!drummer}
+                    >
+                      <Text style={{ color: drummer ? '#ffffff' : theme.text, fontSize: 13 }}>
+                        {name}
+                      </Text>
+                    </TouchableOpacity>
+                  );
+                })}
+              </View>
+            </View>
+          </View>
+        </View>
+
+        {/* Verdict */}
+        <View style={{ 
+          marginBottom: 24, 
+          backgroundColor: '#dc2626', 
+          borderRadius: 12, 
+          padding: 20 
+        }}>
+          <Text style={{ fontSize: 20, fontWeight: 'bold', color: '#ffffff', marginBottom: 12 }}>
+            🏆 The Verdict
+          </Text>
+          <Text style={{ color: '#ffffff', fontSize: 16, lineHeight: 24 }}>
+            {comparison.verdict}
+          </Text>
+        </View>
+
+        {/* Browse Other Comparisons */}
+        <View style={{ 
+          backgroundColor: theme.card, 
+          borderRadius: 12, 
+          padding: 16, 
+          borderColor: theme.border, 
+          borderWidth: 1,
+          alignItems: 'center'
+        }}>
+          <Text style={{ fontSize: 16, color: theme.text, marginBottom: 12 }}>
+            Looking for more comparisons?
+          </Text>
+          <TouchableOpacity
+            onPress={onBack}
+            style={{
+              backgroundColor: theme.text,
+              paddingHorizontal: 24,
+              paddingVertical: 12,
+              borderRadius: 8,
+            }}
+          >
+            <Text style={{ color: theme.background, fontWeight: '600' }}>
+              Browse All Comparisons →
+            </Text>
+          </TouchableOpacity>
+        </View>
+      </View>
+    </ScrollView>
+  );
+}
+
 // Quotes Page - Browse all drummer quotes
 function QuotesPage({ theme, onBack, onSelectDrummer }) {
   const { width } = useWindowDimensions();
@@ -7112,6 +8408,9 @@ function DrummerList({
   onNavigateToList,
   onNavigateToGearFinder,
   onNavigateToKitBuilder,
+  onNavigateToBpmTap,
+  onNavigateToBirthdayCalendar,
+  onNavigateToGenresList,
   spotlight,
   filters,
   onFilterChange,
@@ -7232,6 +8531,32 @@ function DrummerList({
           accessibilityLabel="Build your custom drum kit"
         >
           <Text style={[styles.quizButtonText, { color: '#ffffff' }]}>🛠️ Kit Builder</Text>
+        </TouchableOpacity>
+        <TouchableOpacity
+          onPress={onNavigateToBpmTap}
+          style={[styles.quizButton, { backgroundColor: '#10b981', borderColor: '#10b981' }]}
+          accessibilityRole="button"
+          accessibilityLabel="BPM tap calculator"
+        >
+          <Text style={[styles.quizButtonText, { color: '#ffffff' }]}>🎵 BPM Tap</Text>
+        </TouchableOpacity>
+      </View>
+      <View style={[styles.actionButtonsRow, { marginTop: -8 }]}>
+        <TouchableOpacity
+          onPress={onNavigateToBirthdayCalendar}
+          style={[styles.compareButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          accessibilityRole="button"
+          accessibilityLabel="View drummer birthday calendar"
+        >
+          <Text style={[styles.compareButtonText, { color: theme.text }]}>🎂 Birthdays</Text>
+        </TouchableOpacity>
+        <TouchableOpacity
+          onPress={onNavigateToGenresList}
+          style={[styles.quizButton, { backgroundColor: '#7c3aed', borderColor: '#7c3aed' }]}
+          accessibilityRole="button"
+          accessibilityLabel="Browse metal genres"
+        >
+          <Text style={[styles.quizButtonText, { color: '#ffffff' }]}>🎸 Browse Genres</Text>
         </TouchableOpacity>
       </View>
       {/* Drummer Spotlight Section */}
@@ -7508,6 +8833,76 @@ function updateGenreURL(slug) {
 }
 
 // ==========================================
+// BIRTHDAY CALENDAR ROUTING (Issue #343)
+// ==========================================
+
+// Check if we're on the birthday calendar page
+function isBirthdayCalendarPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  const pathname = window.location.pathname;
+  return pathname === '/birthdays' || pathname === '/birthdays/' ||
+         pathname === '/birthday-calendar' || pathname === '/birthday-calendar/';
+}
+
+// Get month from URL params for shareable links
+function getBirthdayMonthFromURL() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
+  const params = new URLSearchParams(window.location.search);
+  const month = params.get('month');
+  return month ? parseInt(month, 10) : null;
+}
+
+// Update URL with selected month
+function updateBirthdayURL(month = null) {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return;
+  const newPath = month ? `/birthdays?month=${month}` : '/birthdays';
+  window.history.replaceState({}, '', newPath);
+}
+
+// Update meta tags for birthday calendar SEO
+function updateBirthdayCalendarMeta(month = null, todaysBirthdays = []) {
+  if (Platform.OS !== 'web' || typeof document === 'undefined') return;
+
+  const setMeta = (name, content, isProperty = false) => {
+    const attr = isProperty ? 'property' : 'name';
+    let meta = document.querySelector(`meta[${attr}="${name}"]`);
+    if (!meta) {
+      meta = document.createElement('meta');
+      meta.setAttribute(attr, name);
+      document.head.appendChild(meta);
+    }
+    meta.setAttribute('content', content);
+  };
+
+  let title, description;
+  
+  if (todaysBirthdays.length > 0) {
+    const names = todaysBirthdays.map(d => d.name).join(', ');
+    title = `🎂 Today: ${names} Birthday! | Metal Drummer Birthday Calendar`;
+    description = `Celebrate ${names}'s birthday today! Browse the complete metal drummer birthday calendar.`;
+  } else if (month) {
+    const monthName = MONTH_NAMES[month - 1];
+    title = `${monthName} Metal Drummer Birthdays | MetalForge`;
+    description = `See which legendary metal drummers were born in ${monthName}. Complete birthday calendar for metal drummers.`;
+  } else {
+    title = 'Metal Drummer Birthday Calendar | MetalForge';
+    description = 'Never miss a metal drummer birthday! Browse our complete calendar of legendary drummers\' birthdays. Share and celebrate with the metal community.';
+  }
+
+  document.title = title;
+  setMeta('description', description);
+  setMeta('og:title', title, true);
+  setMeta('og:description', description, true);
+  setMeta('og:type', 'website', true);
+  setMeta('og:image', 'https://metalforge.io/og-birthdays.png', true);
+  setMeta('og:url', `https://metalforge.io/birthdays${month ? `?month=${month}` : ''}`, true);
+  setMeta('twitter:card', 'summary_large_image');
+  setMeta('twitter:title', title);
+  setMeta('twitter:description', description);
+  setMeta('twitter:image', 'https://metalforge.io/og-birthdays.png');
+}
+
+// ==========================================
 // KIT BUILDER ROUTING (Issue #341)
 // ==========================================
 
@@ -7598,6 +8993,380 @@ function updateKitBuilderMeta(kit, totalCost) {
     setMeta('twitter:title', title);
     setMeta('twitter:description', description);
     setMeta('twitter:image', 'https://metalforge.io/og-kit-builder.png');
+  }
+}
+
+// ==========================================
+// BPM TAP CALCULATOR ROUTING (Issue #342)
+// ==========================================
+
+// Check if we're on the BPM tap page
+function isBpmTapPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  const pathname = window.location.pathname;
+  return pathname === '/bpm' || pathname.startsWith('/bpm?') ||
+         pathname === '/bpm-tap' || pathname.startsWith('/bpm-tap?') ||
+         pathname === '/tempo' || pathname.startsWith('/tempo?');
+}
+
+// Get BPM value from URL params
+function getBpmFromURL() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
+  const params = new URLSearchParams(window.location.search);
+  const bpm = params.get('bpm');
+  return bpm ? parseInt(bpm, 10) : null;
+}
+
+// Get song filter from URL params
+function getSongFilterFromURL() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return '';
+  const params = new URLSearchParams(window.location.search);
+  return params.get('song') || params.get('q') || '';
+}
+
+// Update URL with BPM value
+function updateBpmURL(bpm, songFilter = '') {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return;
+  const params = new URLSearchParams();
+  if (bpm) params.set('bpm', Math.round(bpm).toString());
+  if (songFilter) params.set('q', songFilter);
+  const queryString = params.toString();
+  const newUrl = queryString ? `/bpm?${queryString}` : '/bpm';
+  window.history.replaceState({}, '', newUrl);
+}
+
+// Update meta tags for BPM tap calculator sharing
+function updateBpmMeta(bpm) {
+  if (Platform.OS !== 'web' || typeof document === 'undefined') return;
+
+  const setMeta = (name, content, isProperty = false) => {
+    const attr = isProperty ? 'property' : 'name';
+    let meta = document.querySelector(`meta[${attr}="${name}"]`);
+    if (!meta) {
+      meta = document.createElement('meta');
+      meta.setAttribute(attr, name);
+      document.head.appendChild(meta);
+    }
+    meta.setAttribute('content', content);
+  };
+
+  if (bpm) {
+    const title = `${Math.round(bpm)} BPM - Tap Tempo Result | MetalForge`;
+    const description = `Tapped tempo: ${Math.round(bpm)} BPM. Use the BPM Tap Calculator to find the tempo of any song. Browse metal songs by BPM at MetalForge.io!`;
+    const shareUrl = `https://metalforge.io/bpm?bpm=${Math.round(bpm)}`;
+
+    document.title = title;
+    setMeta('description', description);
+    setMeta('og:title', title, true);
+    setMeta('og:description', description, true);
+    setMeta('og:type', 'website', true);
+    setMeta('og:url', shareUrl, true);
+    setMeta('twitter:card', 'summary');
+    setMeta('twitter:title', title);
+    setMeta('twitter:description', description);
+  } else {
+    const title = 'BPM Tap Calculator - Find Song Tempo | MetalForge';
+    const description = 'Tap to find the BPM of any song. Browse metal songs by tempo and discover tracks perfect for your drumming practice. Free tap tempo tool for drummers!';
+
+    document.title = title;
+    setMeta('description', description);
+    setMeta('og:title', title, true);
+    setMeta('og:description', description, true);
+    setMeta('og:type', 'website', true);
+    setMeta('og:url', 'https://metalforge.io/bpm', true);
+    setMeta('twitter:card', 'summary');
+    setMeta('twitter:title', title);
+    setMeta('twitter:description', description);
+  }
+}
+
+// Metal songs database with BPM values
+const METAL_SONGS_DATABASE = [
+  // Metallica
+  { band: 'Metallica', song: 'Master of Puppets', bpm: 212, drummer: 'Lars Ulrich', album: 'Master of Puppets', year: 1986, genre: 'Thrash Metal' },
+  { band: 'Metallica', song: 'One', bpm: 108, drummer: 'Lars Ulrich', album: '...And Justice for All', year: 1988, genre: 'Thrash Metal' },
+  { band: 'Metallica', song: 'Enter Sandman', bpm: 123, drummer: 'Lars Ulrich', album: 'Metallica', year: 1991, genre: 'Heavy Metal' },
+  { band: 'Metallica', song: 'Battery', bpm: 196, drummer: 'Lars Ulrich', album: 'Master of Puppets', year: 1986, genre: 'Thrash Metal' },
+  { band: 'Metallica', song: 'Seek & Destroy', bpm: 140, drummer: 'Lars Ulrich', album: "Kill 'Em All", year: 1983, genre: 'Thrash Metal' },
+  { band: 'Metallica', song: 'Creeping Death', bpm: 206, drummer: 'Lars Ulrich', album: 'Ride the Lightning', year: 1984, genre: 'Thrash Metal' },
+  { band: 'Metallica', song: 'For Whom the Bell Tolls', bpm: 120, drummer: 'Lars Ulrich', album: 'Ride the Lightning', year: 1984, genre: 'Thrash Metal' },
+  { band: 'Metallica', song: 'Nothing Else Matters', bpm: 69, drummer: 'Lars Ulrich', album: 'Metallica', year: 1991, genre: 'Heavy Metal' },
+  
+  // Slipknot
+  { band: 'Slipknot', song: 'Duality', bpm: 135, drummer: 'Joey Jordison', album: 'Vol. 3: (The Subliminal Verses)', year: 2004, genre: 'Nu Metal' },
+  { band: 'Slipknot', song: 'Psychosocial', bpm: 135, drummer: 'Joey Jordison', album: 'All Hope Is Gone', year: 2008, genre: 'Nu Metal' },
+  { band: 'Slipknot', song: 'Before I Forget', bpm: 140, drummer: 'Joey Jordison', album: 'Vol. 3: (The Subliminal Verses)', year: 2004, genre: 'Nu Metal' },
+  { band: 'Slipknot', song: 'Wait and Bleed', bpm: 165, drummer: 'Joey Jordison', album: 'Slipknot', year: 1999, genre: 'Nu Metal' },
+  { band: 'Slipknot', song: 'People = Shit', bpm: 180, drummer: 'Joey Jordison', album: 'Iowa', year: 2001, genre: 'Nu Metal' },
+  { band: 'Slipknot', song: 'Unsainted', bpm: 152, drummer: 'Jay Weinberg', album: 'We Are Not Your Kind', year: 2019, genre: 'Nu Metal' },
+  
+  // Slayer
+  { band: 'Slayer', song: 'Raining Blood', bpm: 210, drummer: 'Dave Lombardo', album: 'Reign in Blood', year: 1986, genre: 'Thrash Metal' },
+  { band: 'Slayer', song: 'Angel of Death', bpm: 210, drummer: 'Dave Lombardo', album: 'Reign in Blood', year: 1986, genre: 'Thrash Metal' },
+  { band: 'Slayer', song: 'South of Heaven', bpm: 86, drummer: 'Dave Lombardo', album: 'South of Heaven', year: 1988, genre: 'Thrash Metal' },
+  { band: 'Slayer', song: 'Seasons in the Abyss', bpm: 112, drummer: 'Dave Lombardo', album: 'Seasons in the Abyss', year: 1990, genre: 'Thrash Metal' },
+  { band: 'Slayer', song: 'War Ensemble', bpm: 230, drummer: 'Dave Lombardo', album: 'Seasons in the Abyss', year: 1990, genre: 'Thrash Metal' },
+  
+  // Meshuggah
+  { band: 'Meshuggah', song: 'Bleed', bpm: 100, drummer: 'Tomas Haake', album: 'obZen', year: 2008, genre: 'Djent' },
+  { band: 'Meshuggah', song: 'Rational Gaze', bpm: 95, drummer: 'Tomas Haake', album: 'Nothing', year: 2002, genre: 'Djent' },
+  { band: 'Meshuggah', song: 'Future Breed Machine', bpm: 120, drummer: 'Tomas Haake', album: 'Destroy Erase Improve', year: 1995, genre: 'Djent' },
+  { band: 'Meshuggah', song: 'Clockworks', bpm: 90, drummer: 'Tomas Haake', album: 'The Violent Sleep of Reason', year: 2016, genre: 'Djent' },
+  
+  // Gojira
+  { band: 'Gojira', song: 'Flying Whales', bpm: 95, drummer: 'Mario Duplantier', album: 'From Mars to Sirius', year: 2005, genre: 'Progressive Metal' },
+  { band: 'Gojira', song: 'Stranded', bpm: 132, drummer: 'Mario Duplantier', album: 'Magma', year: 2016, genre: 'Progressive Metal' },
+  { band: 'Gojira', song: 'Backbone', bpm: 160, drummer: 'Mario Duplantier', album: 'From Mars to Sirius', year: 2005, genre: 'Progressive Metal' },
+  { band: 'Gojira', song: "L'Enfant Sauvage", bpm: 140, drummer: 'Mario Duplantier', album: "L'Enfant Sauvage", year: 2012, genre: 'Progressive Metal' },
+  { band: 'Gojira', song: 'Silvera', bpm: 135, drummer: 'Mario Duplantier', album: 'Magma', year: 2016, genre: 'Progressive Metal' },
+  
+  // Dream Theater
+  { band: 'Dream Theater', song: 'Pull Me Under', bpm: 120, drummer: 'Mike Portnoy', album: 'Images and Words', year: 1992, genre: 'Progressive Metal' },
+  { band: 'Dream Theater', song: 'Metropolis Pt. 1', bpm: 140, drummer: 'Mike Portnoy', album: 'Images and Words', year: 1992, genre: 'Progressive Metal' },
+  { band: 'Dream Theater', song: 'The Dance of Eternity', bpm: 160, drummer: 'Mike Portnoy', album: 'Metropolis Pt. 2', year: 1999, genre: 'Progressive Metal' },
+  { band: 'Dream Theater', song: 'Panic Attack', bpm: 160, drummer: 'Mike Portnoy', album: 'Octavarium', year: 2005, genre: 'Progressive Metal' },
+  
+  // Tool
+  { band: 'Tool', song: 'Schism', bpm: 96, drummer: 'Danny Carey', album: 'Lateralus', year: 2001, genre: 'Progressive Metal' },
+  { band: 'Tool', song: 'Lateralus', bpm: 96, drummer: 'Danny Carey', album: 'Lateralus', year: 2001, genre: 'Progressive Metal' },
+  { band: 'Tool', song: 'Forty Six & 2', bpm: 100, drummer: 'Danny Carey', album: 'Ænima', year: 1996, genre: 'Progressive Metal' },
+  { band: 'Tool', song: 'Pneuma', bpm: 77, drummer: 'Danny Carey', album: 'Fear Inoculum', year: 2019, genre: 'Progressive Metal' },
+  { band: 'Tool', song: 'Sober', bpm: 105, drummer: 'Danny Carey', album: 'Undertow', year: 1993, genre: 'Progressive Metal' },
+  
+  // Mastodon
+  { band: 'Mastodon', song: 'Blood and Thunder', bpm: 173, drummer: 'Brann Dailor', album: 'Leviathan', year: 2004, genre: 'Progressive Metal' },
+  { band: 'Mastodon', song: 'Colony of Birchmen', bpm: 120, drummer: 'Brann Dailor', album: 'Blood Mountain', year: 2006, genre: 'Progressive Metal' },
+  { band: 'Mastodon', song: 'The Motherload', bpm: 115, drummer: 'Brann Dailor', album: 'Once More Round the Sun', year: 2014, genre: 'Progressive Metal' },
+  { band: 'Mastodon', song: 'Oblivion', bpm: 110, drummer: 'Brann Dailor', album: 'Crack the Skye', year: 2009, genre: 'Progressive Metal' },
+  
+  // Lamb of God
+  { band: 'Lamb of God', song: 'Laid to Rest', bpm: 180, drummer: 'Chris Adler', album: 'Ashes of the Wake', year: 2004, genre: 'Groove Metal' },
+  { band: 'Lamb of God', song: 'Redneck', bpm: 200, drummer: 'Chris Adler', album: 'Sacrament', year: 2006, genre: 'Groove Metal' },
+  { band: 'Lamb of God', song: 'Walk with Me in Hell', bpm: 170, drummer: 'Chris Adler', album: 'Sacrament', year: 2006, genre: 'Groove Metal' },
+  { band: 'Lamb of God', song: 'Now You\'ve Got Something to Die For', bpm: 205, drummer: 'Chris Adler', album: 'Ashes of the Wake', year: 2004, genre: 'Groove Metal' },
+  
+  // Pantera
+  { band: 'Pantera', song: 'Walk', bpm: 115, drummer: 'Vinnie Paul', album: 'Vulgar Display of Power', year: 1992, genre: 'Groove Metal' },
+  { band: 'Pantera', song: 'Cowboys from Hell', bpm: 115, drummer: 'Vinnie Paul', album: 'Cowboys from Hell', year: 1990, genre: 'Groove Metal' },
+  { band: 'Pantera', song: 'Domination', bpm: 140, drummer: 'Vinnie Paul', album: 'Cowboys from Hell', year: 1990, genre: 'Groove Metal' },
+  { band: 'Pantera', song: 'Cemetery Gates', bpm: 82, drummer: 'Vinnie Paul', album: 'Cowboys from Hell', year: 1990, genre: 'Groove Metal' },
+  { band: 'Pantera', song: 'I\'m Broken', bpm: 90, drummer: 'Vinnie Paul', album: 'Far Beyond Driven', year: 1994, genre: 'Groove Metal' },
+  
+  // Anthrax
+  { band: 'Anthrax', song: 'Caught in a Mosh', bpm: 200, drummer: 'Charlie Benante', album: 'Among the Living', year: 1987, genre: 'Thrash Metal' },
+  { band: 'Anthrax', song: 'Indians', bpm: 180, drummer: 'Charlie Benante', album: 'Among the Living', year: 1987, genre: 'Thrash Metal' },
+  { band: 'Anthrax', song: 'Madhouse', bpm: 185, drummer: 'Charlie Benante', album: 'Spreading the Disease', year: 1985, genre: 'Thrash Metal' },
+  
+  // Sepultura
+  { band: 'Sepultura', song: 'Roots Bloody Roots', bpm: 125, drummer: 'Igor Cavalera', album: 'Roots', year: 1996, genre: 'Groove Metal' },
+  { band: 'Sepultura', song: 'Refuse/Resist', bpm: 175, drummer: 'Igor Cavalera', album: 'Chaos A.D.', year: 1993, genre: 'Groove Metal' },
+  { band: 'Sepultura', song: 'Territory', bpm: 135, drummer: 'Igor Cavalera', album: 'Chaos A.D.', year: 1993, genre: 'Groove Metal' },
+  { band: 'Sepultura', song: 'Inner Self', bpm: 195, drummer: 'Igor Cavalera', album: 'Beneath the Remains', year: 1989, genre: 'Thrash Metal' },
+  { band: 'Sepultura', song: 'Quadra', bpm: 130, drummer: 'Eloy Casagrande', album: 'Quadra', year: 2020, genre: 'Groove Metal' },
+  
+  // Death
+  { band: 'Death', song: 'Crystal Mountain', bpm: 140, drummer: 'Gene Hoglan', album: 'Symbolic', year: 1995, genre: 'Death Metal' },
+  { band: 'Death', song: 'Symbolic', bpm: 165, drummer: 'Gene Hoglan', album: 'Symbolic', year: 1995, genre: 'Death Metal' },
+  { band: 'Death', song: 'The Philosopher', bpm: 115, drummer: 'Gene Hoglan', album: 'Individual Thought Patterns', year: 1993, genre: 'Death Metal' },
+  { band: 'Death', song: 'Spirit Crusher', bpm: 130, drummer: 'Richard Christy', album: 'The Sound of Perseverance', year: 1998, genre: 'Death Metal' },
+  
+  // Nile
+  { band: 'Nile', song: 'Lashed to the Slave Stick', bpm: 240, drummer: 'George Kollias', album: 'Annihilation of the Wicked', year: 2005, genre: 'Death Metal' },
+  { band: 'Nile', song: 'Kafir!', bpm: 260, drummer: 'George Kollias', album: 'Those Whom the Gods Detest', year: 2009, genre: 'Death Metal' },
+  { band: 'Nile', song: 'Sacrifice Unto Sebek', bpm: 220, drummer: 'George Kollias', album: 'Annihilation of the Wicked', year: 2005, genre: 'Death Metal' },
+  
+  // Behemoth
+  { band: 'Behemoth', song: 'Blow Your Trumpets Gabriel', bpm: 120, drummer: 'Inferno', album: 'The Satanist', year: 2014, genre: 'Death Metal' },
+  { band: 'Behemoth', song: 'Conquer All', bpm: 140, drummer: 'Inferno', album: 'Demigod', year: 2004, genre: 'Death Metal' },
+  { band: 'Behemoth', song: 'Ora Pro Nobis Lucifer', bpm: 145, drummer: 'Inferno', album: 'The Satanist', year: 2014, genre: 'Death Metal' },
+  
+  // Periphery
+  { band: 'Periphery', song: 'Icarus Lives!', bpm: 155, drummer: 'Matt Halpern', album: 'Periphery', year: 2010, genre: 'Djent' },
+  { band: 'Periphery', song: 'Marigold', bpm: 138, drummer: 'Matt Halpern', album: 'Periphery III: Select Difficulty', year: 2016, genre: 'Djent' },
+  { band: 'Periphery', song: 'Scarlet', bpm: 130, drummer: 'Matt Halpern', album: 'Periphery II: This Time It\'s Personal', year: 2012, genre: 'Djent' },
+  
+  // Iron Maiden
+  { band: 'Iron Maiden', song: 'The Trooper', bpm: 164, drummer: 'Nicko McBrain', album: 'Piece of Mind', year: 1983, genre: 'Heavy Metal' },
+  { band: 'Iron Maiden', song: 'Run to the Hills', bpm: 168, drummer: 'Clive Burr', album: 'The Number of the Beast', year: 1982, genre: 'Heavy Metal' },
+  { band: 'Iron Maiden', song: 'Hallowed Be Thy Name', bpm: 110, drummer: 'Clive Burr', album: 'The Number of the Beast', year: 1982, genre: 'Heavy Metal' },
+  { band: 'Iron Maiden', song: 'Aces High', bpm: 150, drummer: 'Nicko McBrain', album: 'Powerslave', year: 1984, genre: 'Heavy Metal' },
+  { band: 'Iron Maiden', song: 'Fear of the Dark', bpm: 142, drummer: 'Nicko McBrain', album: 'Fear of the Dark', year: 1992, genre: 'Heavy Metal' },
+  
+  // Black Sabbath
+  { band: 'Black Sabbath', song: 'Paranoid', bpm: 162, drummer: 'Bill Ward', album: 'Paranoid', year: 1970, genre: 'Heavy Metal' },
+  { band: 'Black Sabbath', song: 'Iron Man', bpm: 76, drummer: 'Bill Ward', album: 'Paranoid', year: 1970, genre: 'Heavy Metal' },
+  { band: 'Black Sabbath', song: 'War Pigs', bpm: 88, drummer: 'Bill Ward', album: 'Paranoid', year: 1970, genre: 'Heavy Metal' },
+  
+  // Korn
+  { band: 'Korn', song: 'Freak on a Leash', bpm: 122, drummer: 'David Silveria', album: 'Follow the Leader', year: 1998, genre: 'Nu Metal' },
+  { band: 'Korn', song: 'Falling Away from Me', bpm: 83, drummer: 'David Silveria', album: 'Issues', year: 1999, genre: 'Nu Metal' },
+  { band: 'Korn', song: 'Here to Stay', bpm: 92, drummer: 'David Silveria', album: 'Untouchables', year: 2002, genre: 'Nu Metal' },
+  { band: 'Korn', song: 'Coming Undone', bpm: 108, drummer: 'Ray Luzier', album: 'See You on the Other Side', year: 2005, genre: 'Nu Metal' },
+  
+  // System of a Down
+  { band: 'System of a Down', song: 'Chop Suey!', bpm: 127, drummer: 'John Dolmayan', album: 'Toxicity', year: 2001, genre: 'Nu Metal' },
+  { band: 'System of a Down', song: 'Toxicity', bpm: 80, drummer: 'John Dolmayan', album: 'Toxicity', year: 2001, genre: 'Nu Metal' },
+  { band: 'System of a Down', song: 'B.Y.O.B.', bpm: 150, drummer: 'John Dolmayan', album: 'Mesmerize', year: 2005, genre: 'Nu Metal' },
+  { band: 'System of a Down', song: 'Sugar', bpm: 144, drummer: 'John Dolmayan', album: 'System of a Down', year: 1998, genre: 'Nu Metal' },
+  
+  // Avenged Sevenfold
+  { band: 'Avenged Sevenfold', song: 'Bat Country', bpm: 140, drummer: 'The Rev', album: 'City of Evil', year: 2005, genre: 'Heavy Metal' },
+  { band: 'Avenged Sevenfold', song: 'Hail to the King', bpm: 114, drummer: 'Arin Ilejay', album: 'Hail to the King', year: 2013, genre: 'Heavy Metal' },
+  { band: 'Avenged Sevenfold', song: 'Nightmare', bpm: 106, drummer: 'Mike Portnoy', album: 'Nightmare', year: 2010, genre: 'Heavy Metal' },
+  { band: 'Avenged Sevenfold', song: 'Beast and the Harlot', bpm: 170, drummer: 'The Rev', album: 'City of Evil', year: 2005, genre: 'Heavy Metal' },
+  
+  // Trivium
+  { band: 'Trivium', song: 'In Waves', bpm: 150, drummer: 'Nick Augusto', album: 'In Waves', year: 2011, genre: 'Heavy Metal' },
+  { band: 'Trivium', song: 'Pull Harder on the Strings of Your Martyr', bpm: 175, drummer: 'Travis Smith', album: 'Ascendancy', year: 2005, genre: 'Heavy Metal' },
+  { band: 'Trivium', song: 'Until the World Goes Cold', bpm: 125, drummer: 'Mat Madiro', album: 'Silence in the Snow', year: 2015, genre: 'Heavy Metal' },
+  { band: 'Trivium', song: 'Catastrophist', bpm: 158, drummer: 'Alex Bent', album: 'What the Dead Men Say', year: 2020, genre: 'Heavy Metal' },
+  
+  // Killswitch Engage
+  { band: 'Killswitch Engage', song: 'My Curse', bpm: 144, drummer: 'Justin Foley', album: 'As Daylight Dies', year: 2006, genre: 'Metalcore' },
+  { band: 'Killswitch Engage', song: 'The End of Heartache', bpm: 130, drummer: 'Justin Foley', album: 'The End of Heartache', year: 2004, genre: 'Metalcore' },
+  { band: 'Killswitch Engage', song: 'Holy Diver', bpm: 150, drummer: 'Justin Foley', album: 'The End of Heartache', year: 2004, genre: 'Metalcore' },
+  
+  // Architects
+  { band: 'Architects', song: 'Doomsday', bpm: 140, drummer: 'Dan Searle', album: 'Holy Hell', year: 2018, genre: 'Metalcore' },
+  { band: 'Architects', song: 'Animals', bpm: 134, drummer: 'Dan Searle', album: 'For Those That Wish to Exist', year: 2021, genre: 'Metalcore' },
+  
+  // Cannibal Corpse
+  { band: 'Cannibal Corpse', song: 'Hammer Smashed Face', bpm: 200, drummer: 'Paul Mazurkiewicz', album: 'Tomb of the Mutilated', year: 1992, genre: 'Death Metal' },
+  { band: 'Cannibal Corpse', song: 'Scourge of Iron', bpm: 110, drummer: 'Paul Mazurkiewicz', album: 'Torture', year: 2012, genre: 'Death Metal' },
+  
+  // Opeth
+  { band: 'Opeth', song: 'Ghost of Perdition', bpm: 95, drummer: 'Martin Lopez', album: 'Ghost Reveries', year: 2005, genre: 'Progressive Metal' },
+  { band: 'Opeth', song: 'Blackwater Park', bpm: 70, drummer: 'Martin Lopez', album: 'Blackwater Park', year: 2001, genre: 'Progressive Metal' },
+  
+  // Deftones
+  { band: 'Deftones', song: 'My Own Summer (Shove It)', bpm: 90, drummer: 'Abe Cunningham', album: 'Around the Fur', year: 1997, genre: 'Nu Metal' },
+  { band: 'Deftones', song: 'Change (In the House of Flies)', bpm: 62, drummer: 'Abe Cunningham', album: 'White Pony', year: 2000, genre: 'Nu Metal' },
+  { band: 'Deftones', song: 'Diamond Eyes', bpm: 102, drummer: 'Abe Cunningham', album: 'Diamond Eyes', year: 2010, genre: 'Nu Metal' },
+  
+  // Rage Against the Machine
+  { band: 'Rage Against the Machine', song: 'Killing in the Name', bpm: 89, drummer: 'Brad Wilk', album: 'Rage Against the Machine', year: 1992, genre: 'Nu Metal' },
+  { band: 'Rage Against the Machine', song: 'Bulls on Parade', bpm: 82, drummer: 'Brad Wilk', album: 'Evil Empire', year: 1996, genre: 'Nu Metal' },
+  { band: 'Rage Against the Machine', song: 'Guerrilla Radio', bpm: 103, drummer: 'Brad Wilk', album: 'The Battle of Los Angeles', year: 1999, genre: 'Nu Metal' },
+  
+  // Darkthrone
+  { band: 'Darkthrone', song: 'Transilvanian Hunger', bpm: 200, drummer: 'Fenriz', album: 'Transilvanian Hunger', year: 1994, genre: 'Black Metal' },
+  
+  // Mayhem
+  { band: 'Mayhem', song: 'Freezing Moon', bpm: 130, drummer: 'Hellhammer', album: 'De Mysteriis Dom Sathanas', year: 1994, genre: 'Black Metal' },
+  { band: 'Mayhem', song: 'Chainsaw Gutsfuck', bpm: 220, drummer: 'Hellhammer', album: 'Deathcrush', year: 1987, genre: 'Black Metal' },
+  
+  // Morbid Angel
+  { band: 'Morbid Angel', song: 'Chapel of Ghouls', bpm: 150, drummer: 'Pete Sandoval', album: 'Altars of Madness', year: 1989, genre: 'Death Metal' },
+  { band: 'Morbid Angel', song: 'Where the Slime Live', bpm: 200, drummer: 'Pete Sandoval', album: 'Covenant', year: 1993, genre: 'Death Metal' },
+  
+  // Kreator
+  { band: 'Kreator', song: 'Pleasure to Kill', bpm: 225, drummer: 'Ventor', album: 'Pleasure to Kill', year: 1986, genre: 'Thrash Metal' },
+  { band: 'Kreator', song: 'Phobia', bpm: 200, drummer: 'Ventor', album: 'Coma of Souls', year: 1990, genre: 'Thrash Metal' },
+  
+  // Testament
+  { band: 'Testament', song: 'Practice What You Preach', bpm: 140, drummer: 'Louie Clemente', album: 'Practice What You Preach', year: 1989, genre: 'Thrash Metal' },
+  { band: 'Testament', song: 'Into the Pit', bpm: 190, drummer: 'Louie Clemente', album: 'The Legacy', year: 1987, genre: 'Thrash Metal' },
+  
+  // Exodus
+  { band: 'Exodus', song: 'Bonded by Blood', bpm: 210, drummer: 'Tom Hunting', album: 'Bonded by Blood', year: 1985, genre: 'Thrash Metal' },
+  { band: 'Exodus', song: 'Toxic Waltz', bpm: 185, drummer: 'Tom Hunting', album: 'Fabulous Disaster', year: 1989, genre: 'Thrash Metal' },
+  
+  // Godsmack
+  { band: 'Godsmack', song: 'I Stand Alone', bpm: 90, drummer: 'Shannon Larkin', album: 'Faceless', year: 2003, genre: 'Heavy Metal' },
+  { band: 'Godsmack', song: 'Bulletproof', bpm: 100, drummer: 'Shannon Larkin', album: 'The Oracle', year: 2010, genre: 'Heavy Metal' },
+  
+  // Disturbed
+  { band: 'Disturbed', song: 'Down with the Sickness', bpm: 97, drummer: 'Mike Wengren', album: 'The Sickness', year: 2000, genre: 'Nu Metal' },
+  { band: 'Disturbed', song: 'Stupify', bpm: 120, drummer: 'Mike Wengren', album: 'The Sickness', year: 2000, genre: 'Nu Metal' },
+  { band: 'Disturbed', song: 'The Sound of Silence', bpm: 72, drummer: 'Mike Wengren', album: 'Immortalized', year: 2015, genre: 'Heavy Metal' },
+  
+  // Five Finger Death Punch
+  { band: 'Five Finger Death Punch', song: 'Lift Me Up', bpm: 140, drummer: 'Jeremy Spencer', album: 'The Wrong Side of Heaven...', year: 2013, genre: 'Heavy Metal' },
+  { band: 'Five Finger Death Punch', song: 'Wash It All Away', bpm: 145, drummer: 'Jeremy Spencer', album: 'Got Your Six', year: 2015, genre: 'Heavy Metal' },
+  
+  // Bullet for My Valentine
+  { band: 'Bullet for My Valentine', song: 'Tears Don\'t Fall', bpm: 128, drummer: 'Michael Thomas', album: 'The Poison', year: 2005, genre: 'Metalcore' },
+  { band: 'Bullet for My Valentine', song: 'Waking the Demon', bpm: 152, drummer: 'Michael Thomas', album: 'Scream Aim Fire', year: 2008, genre: 'Metalcore' },
+];
+
+// Get BPM tempo description
+function getBpmCategory(bpm) {
+  if (bpm < 70) return { label: 'Very Slow', color: '#6366f1', emoji: '🐢' };
+  if (bpm < 100) return { label: 'Slow', color: '#8b5cf6', emoji: '🚶' };
+  if (bpm < 130) return { label: 'Medium', color: '#22c55e', emoji: '🎸' };
+  if (bpm < 160) return { label: 'Fast', color: '#f97316', emoji: '🔥' };
+  if (bpm < 200) return { label: 'Very Fast', color: '#ef4444', emoji: '⚡' };
+  return { label: 'Extreme', color: '#dc2626', emoji: '💀' };
+}
+
+// ==========================================
+// GEAR COMPARISON ROUTING (Issue #345)
+// ==========================================
+
+// Check if we're on a gear comparison page (/compare-gear/:slug)
+function isGearComparisonPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  return /^\/compare-gear\/[a-z0-9-]+$/i.test(window.location.pathname);
+}
+
+// Check if we're on the gear comparisons index page (/compare-gear)
+function isGearComparisonsIndexPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  const pathname = window.location.pathname;
+  return pathname === '/compare-gear' || pathname === '/compare-gear/';
+}
+
+// Get gear comparison slug from URL
+function getGearComparisonSlugFromURL() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(/^\/compare-gear\/([a-z0-9-]+)$/i);
+  return match ? match[1] : null;
+}
+
+// Update URL for gear comparison page
+function updateGearComparisonURL(slug) {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return;
+  const newPath = slug ? `/compare-gear/${slug}` : '/compare-gear';
+  window.history.pushState({}, '', newPath);
+}
+
+// Update meta tags for gear comparison pages
+function updateGearComparisonMeta(comparison) {
+  if (Platform.OS !== 'web' || typeof document === 'undefined') return;
+
+  const setMeta = (name, content, isProperty = false) => {
+    const attr = isProperty ? 'property' : 'name';
+    let meta = document.querySelector(`meta[${attr}="${name}"]`);
+    if (!meta) {
+      meta = document.createElement('meta');
+      meta.setAttribute(attr, name);
+      document.head.appendChild(meta);
+    }
+    meta.setAttribute('content', content);
+  };
+
+  if (comparison) {
+    document.title = comparison.metaTitle;
+    setMeta('description', comparison.metaDescription);
+    setMeta('og:title', comparison.metaTitle, true);
+    setMeta('og:description', comparison.metaDescription, true);
+    setMeta('og:type', 'article', true);
+    setMeta('og:url', `https://metalforge.io/compare-gear/${comparison.slug}`, true);
+    setMeta('twitter:card', 'summary_large_image');
+    setMeta('twitter:title', comparison.metaTitle);
+    setMeta('twitter:description', comparison.metaDescription);
+  } else {
+    const title = 'Gear Comparisons - Tama vs Pearl, Meinl vs Zildjian & More | MetalForge';
+    const description = 'Compare top drum brands and gear for metal drumming. Tama vs Pearl, Meinl vs Zildjian, and more. Expert analysis, specs, and pro drummer endorsements.';
+    document.title = title;
+    setMeta('description', description);
+    setMeta('og:title', title, true);
+    setMeta('og:description', description, true);
+    setMeta('og:type', 'website', true);
+    setMeta('og:url', 'https://metalforge.io/compare-gear', true);
+    setMeta('twitter:card', 'summary_large_image');
+    setMeta('twitter:title', title);
+    setMeta('twitter:description', description);
   }
 }
 
@@ -9337,6 +11106,17 @@ function AppContent() {
   // Kit Builder Page state (Issue #341)
   const [showKitBuilder, setShowKitBuilder] = useState(() => isKitBuilderPage());
 
+  // BPM Tap Calculator Page state (Issue #342)
+  const [showBpmTap, setShowBpmTap] = useState(() => isBpmTapPage());
+
+  // Birthday Calendar Page state (Issue #343)
+  const [showBirthdayCalendar, setShowBirthdayCalendar] = useState(() => isBirthdayCalendarPage());
+
+  // Gear Comparison Page state (Issue #345)
+  const [showGearComparison, setShowGearComparison] = useState(() => isGearComparisonPage());
+  const [gearComparisonSlug, setGearComparisonSlug] = useState(() => getGearComparisonSlugFromURL());
+  const [showGearComparisonsIndex, setShowGearComparisonsIndex] = useState(() => isGearComparisonsIndexPage());
+
   // Gear Category Page state (Issue #339)
   const [showGearIndex, setShowGearIndex] = useState(() => isGearIndexPage());
   const [showGearCategory, setShowGearCategory] = useState(() => isGearCategoryPage());
@@ -9776,6 +11556,8 @@ function AppContent() {
       } else if (isKitBuilderPage()) {
         // Kit Builder page (Issue #341)
         setShowKitBuilder(true);
+        setShowBpmTap(false);
+        setShowBirthdayCalendar(false);
         setShowBandDetail(false);
         setBandSlug(null);
         setShowQuotes(false);
@@ -9791,6 +11573,51 @@ function AppContent() {
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
+      } else if (isBpmTapPage()) {
+        // BPM Tap Calculator page (Issue #342)
+        setShowBpmTap(true);
+        setShowKitBuilder(false);
+        setShowBirthdayCalendar(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowList(false);
+        setListSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowGenresList(false);
+      } else if (isBirthdayCalendarPage()) {
+        // Birthday Calendar page (Issue #343)
+        setShowBirthdayCalendar(true);
+        setShowKitBuilder(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowList(false);
+        setListSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowGenresList(false);
       } else if (isGenreLandingPage()) {
         // Genre landing page (Issue #340)
         const slug = getGenreSlugFromURL();
@@ -9834,6 +11661,55 @@ function AppContent() {
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
+      } else if (isGearComparisonPage()) {
+        // Gear comparison detail page (Issue #345)
+        const slug = getGearComparisonSlugFromURL();
+        setShowGearComparison(true);
+        setGearComparisonSlug(slug);
+        setShowGearComparisonsIndex(false);
+        setShowGenresList(false);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowKitBuilder(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowList(false);
+        setListSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+      } else if (isGearComparisonsIndexPage()) {
+        // Gear comparisons index page (Issue #345)
+        setShowGearComparisonsIndex(true);
+        setShowGearComparison(false);
+        setGearComparisonSlug(null);
+        setShowGenresList(false);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowKitBuilder(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowList(false);
+        setListSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
       } else {
         // Back to home page
         setShowCompare(false);
@@ -9848,10 +11724,14 @@ function AppContent() {
         setGenreSlug(null);
         setShowGenresList(false);
         setShowKitBuilder(false);
+        setShowBirthdayCalendar(false);
         setShowGearIndex(false);
         setShowGearCategory(false);
         setGearCategory(null);
         setGearCategoryData(null);
+        setShowGearComparison(false);
+        setGearComparisonSlug(null);
+        setShowGearComparisonsIndex(false);
         setSelectedGear(null);
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
@@ -10198,6 +12078,57 @@ setShowList(false);
     }
   };
 
+  // Navigate to Birthday Calendar (Issue #343)
+  const handleNavigateToBirthdayCalendar = () => {
+    setShowBirthdayCalendar(true);
+    setShowKitBuilder(false);
+    setShowGearFinder(false);
+    setShowGearByBudget(false);
+    setShowList(false);
+    setListSlug(null);
+    setShowSpotlights(false);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowPrivacy(false);
+    setShowQuotes(false);
+    setShowBioPage(false);
+    setBioSlug(null);
+    setShowBandDetail(false);
+    setBandSlug(null);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/birthdays');
+    }
+  };
+
+  // Navigate to BPM Tap Calculator (Issue #342)
+  const handleNavigateToBpmTap = () => {
+    setShowBpmTap(true);
+    setShowKitBuilder(false);
+    setShowBirthdayCalendar(false);
+    setShowGearFinder(false);
+    setShowGearByBudget(false);
+    setShowList(false);
+    setListSlug(null);
+    setShowSpotlights(false);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowPrivacy(false);
+    setShowQuotes(false);
+    setShowBioPage(false);
+    setBioSlug(null);
+    setShowBandDetail(false);
+    setBandSlug(null);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/bpm');
+    }
+  };
+
   // Navigate to extended bio page (Issue #305)
   const handleNavigateToBio = async (drummerSlug) => {
     // First ensure we have the drummer data
@@ -10288,6 +12219,91 @@ setShowList(false);
     }
   };
 
+  // Navigate to genre landing page (Issue #340)
+  const handleNavigateToGenre = (slug) => {
+    setShowGenrePage(true);
+    setGenreSlug(slug);
+    setShowGenresList(false);
+    // Reset other views
+    setShowKitBuilder(false);
+    setShowGearFinder(false);
+    setShowGearByBudget(false);
+    setShowGearIndex(false);
+    setShowGearCategory(false);
+    setGearCategory(null);
+    setGearCategoryData(null);
+    setShowBandDetail(false);
+    setBandSlug(null);
+    setShowList(false);
+    setListSlug(null);
+    setShowSpotlights(false);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowPrivacy(false);
+    setShowQuotes(false);
+    setShowBioPage(false);
+    setBioSlug(null);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    // Update URL
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', `/genre/${slug}`);
+    }
+  };
+
+  // Navigate to genres list page (Issue #340)
+  const handleNavigateToGenresList = () => {
+    setShowGenresList(true);
+    setShowGenrePage(false);
+    setGenreSlug(null);
+    // Reset other views
+    setShowKitBuilder(false);
+    setShowGearFinder(false);
+    setShowGearByBudget(false);
+    setShowGearIndex(false);
+    setShowGearCategory(false);
+    setGearCategory(null);
+    setGearCategoryData(null);
+    setShowBandDetail(false);
+    setBandSlug(null);
+    setShowList(false);
+    setListSlug(null);
+    setShowSpotlights(false);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowPrivacy(false);
+    setShowQuotes(false);
+    setShowBioPage(false);
+    setBioSlug(null);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    // Update URL
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/genres');
+    }
+  };
+
+  // Handle back from genre landing page (Issue #340)
+  const handleBackFromGenre = () => {
+    setShowGenrePage(false);
+    setGenreSlug(null);
+    // Navigate back to home
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/');
+    }
+  };
+
+  // Handle back from genres list page (Issue #340)
+  const handleBackFromGenresList = () => {
+    setShowGenresList(false);
+    // Navigate back to home
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/');
+    }
+  };
+
   // Navigate to gear category page (Issue #339)
   const handleNavigateToGearCategory = async (category) => {
     setShowGearCategory(true);
@@ -10365,6 +12381,93 @@ setShowList(false);
     // Navigate back to home
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
       window.history.pushState({}, '', '/');
+    }
+  };
+
+  // Navigate to gear comparison page (Issue #345)
+  const handleNavigateToGearComparison = (slug) => {
+    setShowGearComparison(true);
+    setGearComparisonSlug(slug);
+    setShowGearComparisonsIndex(false);
+    // Reset other views
+    setShowGearFinder(false);
+    setShowGearByBudget(false);
+    setShowGearIndex(false);
+    setShowGearCategory(false);
+    setGearCategory(null);
+    setGearCategoryData(null);
+    setShowBandDetail(false);
+    setBandSlug(null);
+    setShowList(false);
+    setListSlug(null);
+    setShowSpotlights(false);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowPrivacy(false);
+    setShowQuotes(false);
+    setShowBioPage(false);
+    setBioSlug(null);
+    setShowGenrePage(false);
+    setGenreSlug(null);
+    setShowGenresList(false);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    // Update URL
+    updateGearComparisonURL(slug);
+  };
+
+  // Navigate to gear comparisons index page (Issue #345)
+  const handleNavigateToGearComparisonsIndex = () => {
+    setShowGearComparisonsIndex(true);
+    setShowGearComparison(false);
+    setGearComparisonSlug(null);
+    // Reset other views
+    setShowGearFinder(false);
+    setShowGearByBudget(false);
+    setShowGearIndex(false);
+    setShowGearCategory(false);
+    setGearCategory(null);
+    setGearCategoryData(null);
+    setShowBandDetail(false);
+    setBandSlug(null);
+    setShowList(false);
+    setListSlug(null);
+    setShowSpotlights(false);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowPrivacy(false);
+    setShowQuotes(false);
+    setShowBioPage(false);
+    setBioSlug(null);
+    setShowGenrePage(false);
+    setGenreSlug(null);
+    setShowGenresList(false);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    // Update URL
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/compare-gear');
+    }
+  };
+
+  // Handle back from gear comparison page (Issue #345)
+  const handleBackFromGearComparison = () => {
+    if (showGearComparison) {
+      // Go back to comparisons index
+      setShowGearComparison(false);
+      setGearComparisonSlug(null);
+      setShowGearComparisonsIndex(true);
+      if (Platform.OS === 'web' && typeof window !== 'undefined') {
+        window.history.pushState({}, '', '/compare-gear');
+      }
+    } else {
+      // Go back to home
+      setShowGearComparisonsIndex(false);
+      if (Platform.OS === 'web' && typeof window !== 'undefined') {
+        window.history.pushState({}, '', '/');
+      }
     }
   };
 
@@ -10530,6 +12633,37 @@ setShowList(false);
         />
       );
     }
+    // BPM Tap Calculator Page (Issue #342)
+    if (showBpmTap) {
+      return (
+        <BpmTapPage
+          theme={theme}
+          onBack={() => {
+            setShowBpmTap(false);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/');
+            }
+          }}
+          drummers={drummers}
+          onSelectDrummer={handleSelectDrummer}
+        />
+      );
+    }
+    // Birthday Calendar Page (Issue #343)
+    if (showBirthdayCalendar) {
+      return (
+        <BirthdayCalendarPage
+          theme={theme}
+          onBack={() => {
+            setShowBirthdayCalendar(false);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/');
+            }
+          }}
+          onSelectDrummer={handleSelectDrummer}
+        />
+      );
+    }
     if (showGearFinder) {
       return (
         <GearFinderPage
@@ -10593,6 +12727,29 @@ setShowList(false);
         />
       );
     }
+    // Genre Landing Page (Issue #340)
+    if (showGenrePage && genreSlug) {
+      return (
+        <GenreLandingPage
+          genreSlug={genreSlug}
+          drummers={drummers}
+          onBack={handleBackFromGenre}
+          onSelectDrummer={handleSelectDrummer}
+          onNavigateGenre={handleNavigateToGenre}
+          theme={theme}
+        />
+      );
+    }
+    // Genres List Page (Issue #340)
+    if (showGenresList) {
+      return (
+        <GenresListPage
+          onBack={handleBackFromGenresList}
+          onSelectGenre={handleNavigateToGenre}
+          theme={theme}
+        />
+      );
+    }
     if (selectedDrummer) {
       console.log('[DEBUG] Rendering DrummerDetail for:', selectedDrummer.name);
       return <DrummerDetail drummer={selectedDrummer} theme={theme} onBack={handleBack} onSelectGear={handleSelectGear} onCompareYourKit={handleCompareYourKit} allDrummers={drummers} onNavigateToBio={handleNavigateToBio} />;
@@ -10614,6 +12771,9 @@ setShowList(false);
           onNavigateToList={handleNavigateToList}
           onNavigateToGearFinder={handleNavigateToGearFinder}
           onNavigateToKitBuilder={handleNavigateToKitBuilder}
+          onNavigateToBpmTap={handleNavigateToBpmTap}
+          onNavigateToBirthdayCalendar={handleNavigateToBirthdayCalendar}
+          onNavigateToGenresList={handleNavigateToGenresList}
           spotlight={getCurrentSpotlightDrummer(drummers)}
           filters={filters}
           onFilterChange={handleFilterChange}
@@ -13781,6 +15941,301 @@ const styles = StyleSheet.create({
   noBudgetDrummersText: {
     fontSize: 16,
     textAlign: 'center',
+  },
+  // ==========================================
+  // BIRTHDAY CALENDAR PAGE STYLES (Issue #343)
+  // ==========================================
+  birthdayCalendarTitle: {
+    fontSize: 32,
+    fontWeight: 'bold',
+    marginBottom: 8,
+    marginTop: 16,
+  },
+  birthdayCalendarSubtitle: {
+    fontSize: 16,
+    lineHeight: 24,
+    marginBottom: 24,
+  },
+  todayBirthdayBanner: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    padding: 16,
+    borderRadius: 12,
+    marginBottom: 20,
+  },
+  todayBirthdayEmoji: {
+    fontSize: 32,
+  },
+  todayBirthdayContent: {
+    flex: 1,
+    marginHorizontal: 12,
+  },
+  todayBirthdayLabel: {
+    color: '#fff',
+    fontSize: 12,
+    fontWeight: '700',
+    letterSpacing: 1,
+    marginBottom: 4,
+  },
+  todayBirthdayName: {
+    color: '#fff',
+    fontSize: 18,
+    fontWeight: '600',
+  },
+  birthdayShareSection: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    padding: 12,
+    borderRadius: 8,
+    borderWidth: 1,
+    marginBottom: 20,
+    flexWrap: 'wrap',
+    gap: 12,
+  },
+  birthdayShareLabel: {
+    fontSize: 14,
+  },
+  birthdayShareButtons: {
+    flexDirection: 'row',
+    gap: 10,
+  },
+  birthdayShareButton: {
+    paddingVertical: 8,
+    paddingHorizontal: 16,
+    borderRadius: 8,
+    minWidth: 100,
+    alignItems: 'center',
+  },
+  birthdayShareButtonText: {
+    color: '#fff',
+    fontWeight: '600',
+    fontSize: 14,
+  },
+  birthdaySection: {
+    padding: 16,
+    borderRadius: 12,
+    borderWidth: 1,
+    marginBottom: 20,
+  },
+  birthdaySectionTitle: {
+    fontSize: 20,
+    fontWeight: '700',
+    marginBottom: 16,
+  },
+  upcomingBirthdaysList: {
+    gap: 8,
+  },
+  upcomingBirthdayItem: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    paddingVertical: 12,
+    borderBottomWidth: 1,
+  },
+  upcomingBirthdayLeft: {
+    flex: 1,
+  },
+  upcomingBirthdayName: {
+    fontSize: 16,
+    fontWeight: '600',
+  },
+  upcomingBirthdayBand: {
+    fontSize: 13,
+    marginTop: 2,
+  },
+  upcomingBirthdayRight: {
+    alignItems: 'flex-end',
+  },
+  upcomingBirthdayDate: {
+    fontSize: 14,
+    fontWeight: '600',
+  },
+  upcomingBirthdayDays: {
+    fontSize: 12,
+    marginTop: 2,
+  },
+  monthFilterSection: {
+    padding: 16,
+    borderRadius: 12,
+    borderWidth: 1,
+    marginBottom: 20,
+  },
+  monthFilterTitle: {
+    fontSize: 16,
+    fontWeight: '600',
+    marginBottom: 12,
+  },
+  monthGrid: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 8,
+  },
+  monthGridMobile: {
+    gap: 6,
+  },
+  monthButton: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'center',
+    paddingVertical: 10,
+    paddingHorizontal: 14,
+    borderRadius: 8,
+    borderWidth: 1,
+    minWidth: 60,
+    position: 'relative',
+  },
+  monthButtonText: {
+    fontSize: 14,
+    fontWeight: '500',
+  },
+  monthBadge: {
+    position: 'absolute',
+    top: -6,
+    right: -6,
+    width: 18,
+    height: 18,
+    borderRadius: 9,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  monthBadgeText: {
+    fontSize: 10,
+    fontWeight: '700',
+  },
+  clearMonthFilter: {
+    padding: 12,
+    borderRadius: 8,
+    borderWidth: 1,
+    alignItems: 'center',
+    marginTop: 12,
+  },
+  clearMonthFilterText: {
+    fontSize: 14,
+    fontWeight: '500',
+  },
+  birthdayCardsSection: {
+    marginBottom: 20,
+  },
+  birthdayCardsGrid: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 16,
+  },
+  birthdayCardsGridMobile: {
+    flexDirection: 'column',
+    gap: 12,
+  },
+  birthdayCard: {
+    width: '48%',
+    padding: 16,
+    borderRadius: 12,
+    borderWidth: 1,
+    position: 'relative',
+    overflow: 'hidden',
+  },
+  birthdayCardHeader: {
+    flexDirection: 'row',
+    alignItems: 'flex-start',
+  },
+  birthdayCardDate: {
+    backgroundColor: '#dc2626',
+    borderRadius: 8,
+    padding: 8,
+    alignItems: 'center',
+    minWidth: 50,
+    marginRight: 12,
+  },
+  birthdayCardDay: {
+    color: '#fff',
+    fontSize: 24,
+    fontWeight: '700',
+    lineHeight: 28,
+  },
+  birthdayCardMonth: {
+    color: '#fff',
+    fontSize: 12,
+    fontWeight: '600',
+    textTransform: 'uppercase',
+  },
+  birthdayCardInfo: {
+    flex: 1,
+  },
+  birthdayCardName: {
+    fontSize: 16,
+    fontWeight: '700',
+    marginBottom: 2,
+  },
+  birthdayCardBand: {
+    fontSize: 13,
+    marginBottom: 4,
+  },
+  birthdayCardMeta: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 8,
+  },
+  birthdayCardYear: {
+    fontSize: 12,
+  },
+  birthdayCardZodiac: {
+    fontSize: 16,
+  },
+  birthdayCardFooter: {
+    marginTop: 12,
+    paddingTop: 12,
+    borderTopWidth: 1,
+    borderTopColor: 'rgba(128, 128, 128, 0.2)',
+  },
+  birthdayCardAge: {
+    fontSize: 13,
+    marginBottom: 4,
+  },
+  birthdayCardPlace: {
+    fontSize: 12,
+  },
+  memorialRibbon: {
+    position: 'absolute',
+    top: 12,
+    right: -30,
+    backgroundColor: '#1f2937',
+    paddingVertical: 4,
+    paddingHorizontal: 30,
+    transform: [{ rotate: '45deg' }],
+  },
+  memorialRibbonText: {
+    color: '#fff',
+    fontSize: 9,
+    fontWeight: '700',
+    textTransform: 'uppercase',
+    letterSpacing: 0.5,
+  },
+  noBirthdaysContainer: {
+    padding: 40,
+    alignItems: 'center',
+  },
+  noBirthdaysText: {
+    fontSize: 16,
+    textAlign: 'center',
+  },
+  birthdayStats: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    justifyContent: 'space-around',
+    gap: 16,
+  },
+  birthdayStatItem: {
+    alignItems: 'center',
+    minWidth: 80,
+  },
+  birthdayStatValue: {
+    fontSize: 28,
+    fontWeight: '700',
+  },
+  birthdayStatLabel: {
+    fontSize: 12,
+    textAlign: 'center',
+    marginTop: 4,
   },
   // ==========================================
   // QUOTES PAGE STYLES

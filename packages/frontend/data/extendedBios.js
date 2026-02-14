@@ -1135,6 +1135,127 @@ Mario's drumming combines crushing power with technical precision, featuring com
         ]
       }
     }
+  },
+
+  // Danny Carey - Tool (Issue #355)
+  'danny-carey': {
+    slug: 'danny-carey',
+    drummerId: 22,
+    name: 'Danny Carey',
+    bands: [
+      { slug: 'tool', period: '1990-present', role: 'Drummer, founding member' },
+      { slug: 'pigmy-love-circus', period: '1989-2003', role: 'Drummer' },
+      { slug: 'volto', period: '2000-present', role: 'Drummer' }
+    ],
+    metaTitle: 'Danny Carey Biography - Tool Drummer, Gear & Career | MetalForge',
+    metaDescription: 'Complete biography of Danny Carey, legendary drummer of Tool. Explore his career, polyrhythmic mastery, signature gear, and influence on progressive metal drumming.',
+    ogImage: '/images/drummers/danny-carey.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Danny Carey (born May 10, 1961, in Lawrence, Kansas) is an American musician best known as the drummer and co-founder of the progressive metal band Tool. Widely regarded as one of the greatest rock drummers of all time, Carey is celebrated for his technical prowess, innovative use of polyrhythms, incorporation of electronic elements, and deep interest in sacred geometry and mathematics.
+
+Standing at 6'5" (196 cm), Carey's imposing physical presence matches his powerful drumming style. His approach combines jazz fusion influences with heavy metal intensity, creating a sound that has helped define progressive metal for over three decades. He was inducted into the Modern Drummer Hall of Fame in 2022.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1990', event: 'Co-founded Tool in Los Angeles with Maynard James Keenan, Adam Jones, and Paul D\'Amour' },
+          { year: '1992', event: 'Released Tool\'s debut EP "Opiate," gaining underground recognition' },
+          { year: '1993', event: 'Released "Undertow," which went triple platinum with hits "Sober" and "Prison Sex"' },
+          { year: '1996', event: 'Released "Ænima," winning Grammy for Best Metal Performance ("Ænema")' },
+          { year: '2001', event: 'Released "Lateralus," featuring the mathematically inspired title track using Fibonacci sequence' },
+          { year: '2002', event: 'Won Grammy for Best Metal Performance ("Schism") and Best Recording Package' },
+          { year: '2006', event: 'Released "10,000 Days," winning another Grammy for "Vicarious"' },
+          { year: '2019', event: 'Released "Fear Inoculum" after 13-year hiatus, debuting at #1 on Billboard 200' },
+          { year: '2022', event: 'Inducted into Modern Drummer Hall of Fame' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Danny Carey's drumming style is a unique fusion of jazz sophistication, progressive complexity, and heavy metal power. His approach to rhythm is deeply influenced by his interest in sacred geometry, mathematics, and occult symbolism, which manifests in his use of complex time signatures and polyrhythmic patterns.
+
+**Key Influences:**
+- **Bill Bruford (King Crimson/Yes)**: Progressive rock complexity and independence
+- **Tony Williams**: Jazz fusion vocabulary and improvisational approach
+- **Michael Shrieve (Santana)**: World rhythms and Latin influences
+- **Billy Cobham**: Technical precision and power
+- **Elvin Jones**: Jazz drumming independence and polyrhythmic layering
+
+**Signature Techniques:**
+- Mastery of odd time signatures (7/8, 9/8, 5/4, and mixed meters)
+- Complex polyrhythms where different limbs play opposing subdivisions
+- Integration of electronic Mandala pads for melodic drumming
+- Use of the Fibonacci sequence in compositions ("Lateralus")
+- Tabla and world percussion influences
+- Extended drum solos incorporating jazz improvisation`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Opiate (EP)', year: 1992, label: 'Zoo Entertainment', note: 'Tool\'s underground debut' },
+          { name: 'Undertow', year: 1993, label: 'Zoo Entertainment', note: '3x Platinum, breakthrough' },
+          { name: 'Ænima', year: 1996, label: 'Zoo Entertainment', note: '3x Platinum, Grammy winner' },
+          { name: 'Lateralus', year: 2001, label: 'Volcano', note: '2x Platinum, progressive masterpiece' },
+          { name: '10,000 Days', year: 2006, label: 'Volcano', note: '2x Platinum, Grammy winner' },
+          { name: 'Fear Inoculum', year: 2019, label: 'Tool Dissectional/Volcano', note: '#1 Billboard debut' }
+        ],
+        tours: [
+          { name: 'Lollapalooza', year: '1993, 1997', note: 'Festival performances that expanded Tool\'s audience' },
+          { name: 'Ænima World Tour', year: '1996-1997', note: 'Global headlining in support of Ænima' },
+          { name: 'Lateralus Tour', year: '2001-2002', note: 'Elaborate visual production' },
+          { name: '10,000 Days Tour', year: '2006-2007', note: 'Extensive worldwide touring' },
+          { name: 'Fear Inoculum Tour', year: '2019-2023', note: 'Most extensive Tool tour, post-pandemic return' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Danny Carey is a longtime Sonor drums endorser and Paiste cymbals artist. His setup is notably large and incorporates both acoustic drums and electronic elements, reflecting his desire to expand the sonic palette of drumming.
+
+**Current Setup:**
+- **Drums**: Sonor Designer Series with custom maple/beech shells
+- **Snare**: Sonor Danny Carey Signature 14"x8" bronze shell
+- **Cymbals**: Paiste Signature series, including Danny Carey Signature rides (22" Dry Heavy and 21")
+- **Hi-Hats**: Paiste Signature 15" Dark Crisp Hi-Hats
+- **Hardware**: DW 9000 series double bass drum pedal
+- **Electronics**: Mandala pads, Roland triggers, various synth triggers
+- **Throne**: Roc-n-Soc with back rest
+- **Sticks**: Vic Firth Danny Carey Signature (5B profile with oval tip)
+- **Heads**: Remo (Emperor coated on snare, Clear Ambassadors on toms)
+
+**Notable Gear Innovations:**
+- Pioneer of integrating Mandala pads into rock/metal drumming
+- Uses electronic elements to add melodic content during drum fills
+- Custom-designed bronze signature snare with Sonor
+- Signature Paiste cymbals designed for both projection and complexity
+- Large kit setup (typically 8+ toms) for extended tonal range`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Stands 6\'5" (196 cm) tall, one of the tallest drummers in rock',
+          'Deeply interested in sacred geometry, the occult, and the work of Aleister Crowley',
+          'The song "Lateralus" incorporates the Fibonacci sequence in its syllable pattern and time signatures',
+          'Plays Mandala drum pads tuned to specific notes, adding melodic elements to fills',
+          'Was originally a jazz drummer before joining Tool, studying at University of Missouri Kansas City',
+          'Has collaborated with artists including Carole King, Pigface, and Green Jellÿ',
+          'His side project Volto! plays jazz fusion in small clubs around LA',
+          'Known for extremely long drum solos in Tool\'s live shows (15+ minutes)',
+          'Was inducted into Modern Drummer Hall of Fame in 2022',
+          'Uses a Paiste gong in Tool\'s live performances'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Sonor Drums Artist Profile', url: 'https://www.sonor.com/artists/danny-carey/' },
+          { name: 'Paiste Artist Profile', url: 'https://www.paiste.com/e/artists.php?menession=65' },
+          { name: 'Modern Drummer Magazine', url: 'https://www.moderndrummer.com' },
+          { name: 'Wikipedia: Danny Carey', url: 'https://en.wikipedia.org/wiki/Danny_Carey' },
+          { name: 'Tool Official', url: 'https://toolband.com' }
+        ]
+      }
+    }
   }
 };
 

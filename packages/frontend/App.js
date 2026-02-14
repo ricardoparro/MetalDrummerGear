@@ -5205,11 +5205,26 @@ function BandDetailPage({ bandSlug, drummers, onBack, onSelectDrummer, theme }) 
       setMeta('og:description', band.metaDescription, true);
       setMeta('og:type', 'website', true);
       setMeta('og:url', `https://metalforge.io/bands/${bandSlug}`, true);
+      if (band.image) {
+        setMeta('og:image', band.image, true);
+      }
 
       // Twitter Card tags
       setMeta('twitter:card', 'summary_large_image');
       setMeta('twitter:title', band.metaTitle);
       setMeta('twitter:description', band.metaDescription);
+      if (band.image) {
+        setMeta('twitter:image', band.image);
+      }
+
+      // Canonical URL
+      let canonicalLink = document.querySelector('link[rel="canonical"]');
+      if (!canonicalLink) {
+        canonicalLink = document.createElement('link');
+        canonicalLink.setAttribute('rel', 'canonical');
+        document.head.appendChild(canonicalLink);
+      }
+      canonicalLink.setAttribute('href', `https://metalforge.io/bands/${bandSlug}`);
 
       // Structured data for band
       const bandSchema = {
@@ -5244,6 +5259,31 @@ function BandDetailPage({ bandSlug, drummers, onBack, onSelectDrummer, theme }) 
         document.head.appendChild(ldScript);
       }
       ldScript.textContent = JSON.stringify(bandSchema);
+
+      // FAQ Schema - Only render if band has FAQ data (Issue #363)
+      if (band.faq && band.faq.length > 0) {
+        const faqSchema = {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": band.faq.map(faqItem => ({
+            "@type": "Question",
+            "name": faqItem.question,
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": faqItem.answer
+            }
+          }))
+        };
+
+        let faqLdScript = document.querySelector('script[data-schema="faq"]');
+        if (!faqLdScript) {
+          faqLdScript = document.createElement('script');
+          faqLdScript.type = 'application/ld+json';
+          faqLdScript.setAttribute('data-schema', 'faq');
+          document.head.appendChild(faqLdScript);
+        }
+        faqLdScript.textContent = JSON.stringify(faqSchema);
+      }
     }
 
     // Cleanup on unmount
@@ -5251,6 +5291,12 @@ function BandDetailPage({ bandSlug, drummers, onBack, onSelectDrummer, theme }) 
       if (Platform.OS === 'web' && typeof document !== 'undefined') {
         const ldScript = document.querySelector('script[data-schema="band"]');
         if (ldScript) ldScript.remove();
+        // Remove FAQ schema
+        const faqLdScript = document.querySelector('script[data-schema="faq"]');
+        if (faqLdScript) faqLdScript.remove();
+        // Remove canonical link added by this page
+        const canonicalLink = document.querySelector('link[rel="canonical"][href*="/bands/"]');
+        if (canonicalLink) canonicalLink.remove();
       }
     };
   }, [band, bandSlug]);

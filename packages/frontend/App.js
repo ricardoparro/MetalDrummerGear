@@ -56,7 +56,7 @@ import {
 import { getExtendedBio, hasExtendedBio } from './data/extendedBios';
 
 // Band data with drummer history (Issue #349)
-import { getBand, getAllBandSlugs, hasBand, getBandsForDrummer } from './data/bands';
+import { getBand, getAllBands, hasBand, getAllBandSlugs, getBandsForDrummer } from './data/bands';
 
 // ==========================================
 // TOP 10 LISTS - Loaded dynamically for code splitting
@@ -468,8 +468,7 @@ function BandLinksSection({ drummerSlug, theme, onNavigateToBand }) {
               data-testid={testId}
             >
               <View style={[styles.bandLinkCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
-                <Text style={styles.bandLinkIcon}>🎸</Text>
-                <Text style={[styles.bandLinkName, { color: '#dc2626' }]}>{band.name}</Text>
+                <Text style={[styles.bandLinkName, { color: theme.text }]}>{band.name}</Text>
               </View>
             </a>
           ) : (
@@ -479,9 +478,9 @@ function BandLinksSection({ drummerSlug, theme, onNavigateToBand }) {
               style={[styles.bandLinkCard, { backgroundColor: theme.card, borderColor: theme.border }]}
               accessibilityRole="link"
               accessibilityLabel={`View ${band.name} band page`}
+              testID={testId}
             >
-              <Text style={styles.bandLinkIcon}>🎸</Text>
-              <Text style={[styles.bandLinkName, { color: '#dc2626' }]}>{band.name}</Text>
+              <Text style={[styles.bandLinkName, { color: theme.text }]}>{band.name}</Text>
             </TouchableOpacity>
           );
         })}
@@ -4986,9 +4985,6 @@ function DrummerBioPage({ theme, onBack, drummer, onSelectDrummer }) {
           </View>
         </View>
 
-        {/* Band Links Section - Issue #351 */}
-        <BandLinksSection drummerSlug={drummerSlug} theme={theme} onNavigateToBand={onNavigateToBand} />
-
         {/* Overview Section */}
         {bio.sections.overview && (
           <View style={[styles.bioSection, { backgroundColor: theme.card, borderColor: theme.border }]} data-testid="bio-overview">
@@ -5148,9 +5144,128 @@ function DrummerBioPage({ theme, onBack, drummer, onSelectDrummer }) {
 }
 
 // ==========================================
-// BAND PAGE - Drummer History Section (Issue #349)
+// BAND DETAIL PAGE WITH DRUMMER HISTORY (Issue #349)
 // ==========================================
-function BandPage({ theme, onBack, bandSlug, drummers, onSelectDrummer }) {
+
+/**
+ * DrummerHistoryItem - Single drummer in the history timeline
+ */
+function DrummerHistoryItem({ entry, drummer, onSelectDrummer, theme, isLast }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+
+  return (
+    <View 
+      style={[
+        styles.drummerHistoryItem, 
+        { 
+          backgroundColor: theme.card, 
+          borderColor: theme.border,
+          borderBottomWidth: isLast ? 0 : 1 
+        }
+      ]}
+    >
+      <View style={styles.drummerHistoryLeft}>
+        <Text style={[styles.drummerHistoryIcon, { color: '#dc2626' }]}>🥁</Text>
+        {drummer && drummer.image && (
+          <ImageWithFallback
+            source={{ uri: drummer.image }}
+            style={styles.drummerHistoryImage}
+            accessibilityLabel={`Photo of ${drummer?.name || entry.drummer}`}
+            width={isMobile ? 40 : 50}
+            height={isMobile ? 40 : 50}
+            imageContext="list"
+          />
+        )}
+      </View>
+      <View style={styles.drummerHistoryContent}>
+        <View style={styles.drummerHistoryHeader}>
+          <Text style={[styles.drummerHistoryName, { color: theme.text }]}>
+            {drummer?.name || entry.drummer.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ')}
+          </Text>
+          <Text style={[styles.drummerHistoryPeriod, { color: theme.secondaryText }]}>
+            ({entry.period})
+          </Text>
+        </View>
+        {entry.notes && (
+          <Text style={[styles.drummerHistoryNotes, { color: theme.secondaryText }]}>
+            {entry.notes}
+          </Text>
+        )}
+        {drummer && (
+          <TouchableOpacity
+            onPress={() => onSelectDrummer(drummer.id)}
+            style={styles.drummerHistoryLink}
+            accessibilityRole="link"
+            accessibilityLabel={`View ${drummer.name}'s profile`}
+            data-testid={`drummer-link-${entry.drummer}`}
+          >
+            <Text style={styles.drummerHistoryLinkText}>→ View Profile</Text>
+          </TouchableOpacity>
+        )}
+      </View>
+    </View>
+  );
+}
+
+/**
+ * DrummerHistorySection - Display the drummer history timeline for a band
+ */
+function DrummerHistorySection({ band, drummers, onSelectDrummer, theme }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+
+  if (!band.drummerHistory || band.drummerHistory.length === 0) {
+    return null;
+  }
+
+  // Map drummer slugs to actual drummer data
+  const resolvedHistory = band.drummerHistory.map(entry => {
+    const drummer = drummers.find(d => 
+      toSlug(d.name) === entry.drummer || 
+      d.name.toLowerCase().replace(/\s+/g, '-') === entry.drummer
+    );
+    return { entry, drummer };
+  });
+
+  return (
+    <View 
+      style={[
+        styles.drummerHistorySection, 
+        { backgroundColor: theme.card, borderColor: theme.border },
+        isMobile && styles.drummerHistorySectionMobile
+      ]}
+      accessibilityRole="region"
+      accessibilityLabel="Drummer History"
+      data-testid="drummer-history"
+    >
+      <Text 
+        style={[styles.drummerHistorySectionTitle, { color: theme.text }]}
+        accessibilityRole="heading"
+        aria-level="2"
+      >
+        DRUMMER HISTORY
+      </Text>
+      <View style={styles.drummerHistoryList}>
+        {resolvedHistory.map(({ entry, drummer }, index) => (
+          <DrummerHistoryItem
+            key={`${entry.drummer}-${entry.period}`}
+            entry={entry}
+            drummer={drummer}
+            onSelectDrummer={onSelectDrummer}
+            theme={theme}
+            isLast={index === resolvedHistory.length - 1}
+          />
+        ))}
+      </View>
+    </View>
+  );
+}
+
+/**
+ * BandDetailPage - Full band detail page with drummer history
+ */
+function BandDetailPage({ bandSlug, drummers, onBack, onSelectDrummer, theme }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
   const band = getBand(bandSlug);
@@ -5158,7 +5273,8 @@ function BandPage({ theme, onBack, bandSlug, drummers, onSelectDrummer }) {
   // Update SEO meta tags for band page
   useEffect(() => {
     if (Platform.OS === 'web' && typeof document !== 'undefined' && band) {
-      document.title = band.metaTitle || `${band.name} - Drummer History | MetalForge`;
+      document.title = band.metaTitle;
+
       const setMeta = (name, content, isProperty = false) => {
         const attr = isProperty ? 'property' : 'name';
         let meta = document.querySelector(`meta[${attr}="${name}"]`);
@@ -5169,55 +5285,149 @@ function BandPage({ theme, onBack, bandSlug, drummers, onSelectDrummer }) {
         }
         meta.setAttribute('content', content);
       };
-      setMeta('description', band.metaDescription || `Complete drummer history for ${band.name}.`);
-      setMeta('keywords', (band.keywords || []).join(', '));
-      setMeta('og:title', band.metaTitle || `${band.name} - Drummer History`, true);
-      setMeta('og:description', band.metaDescription || `Complete drummer history for ${band.name}.`, true);
-      setMeta('og:url', `https://metalforge.io/band/${bandSlug}`, true);
+
+      // Standard meta tags
+      setMeta('description', band.metaDescription);
+      setMeta('keywords', band.keywords.join(', '));
+
+      // OpenGraph tags
+      setMeta('og:title', band.metaTitle, true);
+      setMeta('og:description', band.metaDescription, true);
+      setMeta('og:type', 'website', true);
+      setMeta('og:url', `https://metalforge.io/bands/${bandSlug}`, true);
+      if (band.image) {
+        setMeta('og:image', band.image, true);
+      }
+
+      // Twitter Card tags
+      setMeta('twitter:card', 'summary_large_image');
+      setMeta('twitter:title', band.metaTitle);
+      setMeta('twitter:description', band.metaDescription);
+      if (band.image) {
+        setMeta('twitter:image', band.image);
+      }
+
+      // Canonical URL
+      let canonicalLink = document.querySelector('link[rel="canonical"]');
+      if (!canonicalLink) {
+        canonicalLink = document.createElement('link');
+        canonicalLink.setAttribute('rel', 'canonical');
+        document.head.appendChild(canonicalLink);
+      }
+      canonicalLink.setAttribute('href', `https://metalforge.io/bands/${bandSlug}`);
+
+      // Structured data for band
+      const bandSchema = {
+        "@context": "https://schema.org",
+        "@type": "MusicGroup",
+        "name": band.name,
+        "foundingDate": band.formed.toString(),
+        "foundingLocation": {
+          "@type": "Place",
+          "name": band.origin
+        },
+        "genre": band.genres.map(g => g.replace(/-/g, ' ')),
+        "description": band.summary,
+        "url": `https://metalforge.io/bands/${bandSlug}`,
+        "member": band.drummerHistory.map(h => ({
+          "@type": "OrganizationRole",
+          "member": {
+            "@type": "Person",
+            "name": h.drummer.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ')
+          },
+          "roleName": "Drummer",
+          "startDate": h.period.split('-')[0],
+          "endDate": h.period.includes('present') ? undefined : h.period.split('-')[1]
+        }))
+      };
+
+      let ldScript = document.querySelector('script[data-schema="band"]');
+      if (!ldScript) {
+        ldScript = document.createElement('script');
+        ldScript.type = 'application/ld+json';
+        ldScript.setAttribute('data-schema', 'band');
+        document.head.appendChild(ldScript);
+      }
+      ldScript.textContent = JSON.stringify(bandSchema);
+
+      // FAQ Schema - Only render if band has FAQ data (Issue #363)
+      if (band.faq && band.faq.length > 0) {
+        const faqSchema = {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": band.faq.map(faqItem => ({
+            "@type": "Question",
+            "name": faqItem.question,
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": faqItem.answer
+            }
+          }))
+        };
+
+        let faqLdScript = document.querySelector('script[data-schema="faq"]');
+        if (!faqLdScript) {
+          faqLdScript = document.createElement('script');
+          faqLdScript.type = 'application/ld+json';
+          faqLdScript.setAttribute('data-schema', 'faq');
+          document.head.appendChild(faqLdScript);
+        }
+        faqLdScript.textContent = JSON.stringify(faqSchema);
+      }
     }
+
+    // Cleanup on unmount
+    return () => {
+      if (Platform.OS === 'web' && typeof document !== 'undefined') {
+        const ldScript = document.querySelector('script[data-schema="band"]');
+        if (ldScript) ldScript.remove();
+        // Remove FAQ schema
+        const faqLdScript = document.querySelector('script[data-schema="faq"]');
+        if (faqLdScript) faqLdScript.remove();
+        // Remove canonical link added by this page
+        const canonicalLink = document.querySelector('link[rel="canonical"][href*="/bands/"]');
+        if (canonicalLink) canonicalLink.remove();
+      }
+    };
   }, [band, bandSlug]);
 
-  // Handle drummer click - navigate to drummer profile
-  const handleDrummerClick = useCallback((drummerSlug) => {
-    const drummer = drummers.find(d => toSlug(d.name) === drummerSlug);
-    if (drummer) onSelectDrummer(drummer.id);
-  }, [drummers, onSelectDrummer]);
-
-  // Check if drummer period is current
-  const isCurrent = (period) => period?.toLowerCase().includes('present');
-
+  // Band not found
   if (!band) {
     return (
       <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
         <View style={styles.detailContent}>
           <TouchableOpacity
-            style={[styles.backButton, { borderColor: theme.border, backgroundColor: theme.card }]}
             onPress={onBack}
+            style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
             accessibilityRole="button"
             accessibilityLabel="Go back"
           >
             <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
           </TouchableOpacity>
-          <View style={styles.centerContainer}>
-            <Text style={[styles.errorText, { color: theme.text }]}>Band not found</Text>
-            <Text style={[styles.errorHint, { color: theme.secondaryText }]}>
-              The band "{bandSlug}" could not be found.
-            </Text>
-          </View>
+          <Text style={[styles.bandPageTitle, { color: theme.text }]}>Band Not Found</Text>
+          <Text style={[styles.bandPageSubtitle, { color: theme.secondaryText }]}>
+            The band "{bandSlug}" could not be found. Please check the URL and try again.
+          </Text>
         </View>
       </ScrollView>
     );
   }
 
-  const statusColor = band.status === 'active' ? '#22c55e' : band.status === 'disbanded' ? '#ef4444' : '#f59e0b';
+  // Format genres for display
+  const formatGenre = (genre) => genre.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+  const statusColors = {
+    active: '#22c55e',
+    disbanded: '#ef4444',
+    hiatus: '#f59e0b'
+  };
 
   return (
     <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]} data-testid="band-page">
       <View style={styles.detailContent}>
-        {/* Back Button */}
+        {/* Back button */}
         <TouchableOpacity
-          style={[styles.backButton, { borderColor: theme.border, backgroundColor: theme.card }]}
           onPress={onBack}
+          style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
           accessibilityRole="button"
           accessibilityLabel="Go back"
         >
@@ -5226,142 +5436,86 @@ function BandPage({ theme, onBack, bandSlug, drummers, onSelectDrummer }) {
 
         {/* Band Header */}
         <View style={[styles.bandPageHeader, isMobile && styles.bandPageHeaderMobile]}>
-          <Text style={[styles.bandPageTitle, { color: theme.text }]}>{band.name}</Text>
-          <View style={styles.bandPageMeta}>
-            <Text style={[styles.bandPageMetaText, { color: theme.secondaryText }]}>
+          <View style={styles.bandPageHeaderText}>
+            <View style={styles.bandNameRow}>
+              <Text 
+                style={[styles.bandPageTitle, { color: theme.text }]} 
+                accessibilityRole="heading" 
+                aria-level="1"
+              >
+                {band.name}
+              </Text>
+              <View 
+                style={[
+                  styles.bandStatusBadge, 
+                  { backgroundColor: statusColors[band.status] || '#6b7280' }
+                ]}
+              >
+                <Text style={styles.bandStatusText}>
+                  {band.status.charAt(0).toUpperCase() + band.status.slice(1)}
+                </Text>
+              </View>
+            </View>
+            <Text style={[styles.bandPageSubtitle, { color: theme.secondaryText }]}>
               Est. {band.formed} • {band.origin}
             </Text>
-            <View style={[styles.bandStatusBadge, { backgroundColor: statusColor }]}>
-              <Text style={styles.bandStatusText}>
-                {band.status === 'active' ? '● Active' : band.status === 'hiatus' ? '⏸ Hiatus' : '○ Disbanded'}
-              </Text>
-            </View>
-          </View>
-          {band.genres && (
             <View style={styles.bandGenres}>
               {band.genres.map((genre, index) => (
-                <View key={index} style={[styles.bandGenreBadge, { backgroundColor: theme.card, borderColor: theme.border }]}>
-                  <Text style={[styles.bandGenreText, { color: theme.secondaryText }]}>{genre.replace(/-/g, ' ')}</Text>
+                <View 
+                  key={genre} 
+                  style={[styles.bandGenreTag, { backgroundColor: theme.border }]}
+                >
+                  <Text style={[styles.bandGenreText, { color: theme.text }]}>
+                    {formatGenre(genre)}
+                  </Text>
                 </View>
               ))}
             </View>
-          )}
+          </View>
         </View>
 
         {/* Band Summary */}
-        {band.summary && (
-          <View style={[styles.bandSummarySection, { backgroundColor: theme.card, borderColor: theme.border }]}>
-            <Text style={[styles.bandSummaryText, { color: theme.text }]}>{band.summary}</Text>
-          </View>
-        )}
+        <View style={[styles.bandSummarySection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.bandSummaryText, { color: theme.secondaryText }]}>
+            {band.summary}
+          </Text>
+        </View>
 
-        {/* Drummer History Section */}
-        {band.drummerHistory?.length > 0 && (
-          <View style={styles.drummerHistorySection} data-testid="drummer-history">
-            <Text style={[styles.drummerHistorySectionTitle, { color: theme.text }]}>
-              🥁 Drummer History
-            </Text>
-            <Text style={[styles.drummerHistorySectionSubtitle, { color: theme.secondaryText }]}>
-              All drummers who have played with {band.name}
-            </Text>
-
-            <View style={styles.drummerHistoryList}>
-              {band.drummerHistory.map((entry, index) => {
-                const name = entry.drummer.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
-                const drummerExists = drummers.some(d => toSlug(d.name) === entry.drummer);
-                const current = isCurrent(entry.period);
-                const drummer = drummers.find(d => toSlug(d.name) === entry.drummer);
-
-                const cardContent = (
-                  <View style={[styles.drummerHistoryCard, { backgroundColor: theme.card, borderColor: current ? '#22c55e' : theme.border }]}>
-                    {/* Drummer Image */}
-                    {drummer ? (
-                      <Image
-                        source={{ uri: getOptimizedImageUrl(drummer.image, 80) }}
-                        style={styles.drummerHistoryImage}
-                        contentFit="cover"
-                        placeholder={imageDefaults.placeholder}
-                        transition={200}
-                      />
-                    ) : (
-                      <View style={[styles.drummerHistoryImagePlaceholder, { backgroundColor: theme.border }]}>
-                        <Text style={styles.drummerHistoryImagePlaceholderText}>🥁</Text>
-                      </View>
-                    )}
-                    <View style={styles.drummerHistoryInfo}>
-                      <View style={styles.drummerHistoryNameRow}>
-                        <Text style={[styles.drummerHistoryName, { color: drummerExists ? '#dc2626' : theme.text }]}>{name}</Text>
-                        <View style={[styles.drummerStatusBadge, { backgroundColor: current ? '#22c55e' : '#6b7280' }]} data-testid={current ? 'current-badge' : 'former-badge'}>
-                          <Text style={styles.drummerStatusText}>{current ? 'CURRENT' : 'FORMER'}</Text>
-                        </View>
-                      </View>
-                      <Text style={[styles.drummerHistoryPeriod, { color: theme.secondaryText }]}>📅 {entry.period}</Text>
-                      {entry.notes && <Text style={[styles.drummerHistoryNotes, { color: theme.secondaryText }]}>{entry.notes}</Text>}
-                      {entry.albums?.length > 0 && (
-                        <Text style={[styles.drummerHistoryAlbums, { color: theme.secondaryText }]}>💿 {entry.albums.join(', ')}</Text>
-                      )}
-                    </View>
-                    {drummerExists && <Text style={[styles.drummerHistoryArrow, { color: theme.secondaryText }]}>→</Text>}
-                  </View>
-                );
-
-                return drummerExists && Platform.OS === 'web' ? (
-                  <a
-                    key={`${entry.drummer}-${index}`}
-                    href={`/drummer/${entry.drummer}`}
-                    onClick={(e) => { e.preventDefault(); handleDrummerClick(entry.drummer); }}
-                    style={{ textDecoration: 'none' }}
-                    data-testid={`drummer-link-${entry.drummer}`}
-                  >
-                    {cardContent}
-                  </a>
-                ) : (
-                  <TouchableOpacity
-                    key={`${entry.drummer}-${index}`}
-                    onPress={() => drummerExists && handleDrummerClick(entry.drummer)}
-                    disabled={!drummerExists}
-                    accessibilityRole={drummerExists ? 'link' : 'none'}
-                    accessibilityLabel={drummerExists ? `View ${name} profile` : undefined}
-                  >
-                    {cardContent}
-                  </TouchableOpacity>
-                );
-              })}
-            </View>
-          </View>
-        )}
-
-        {/* FAQ Section */}
-        {band.faq?.length > 0 && (
-          <View style={styles.bandFaqSection}>
-            <Text style={[styles.bandFaqTitle, { color: theme.text }]}>❓ Frequently Asked Questions</Text>
-            {band.faq.map((faq, index) => (
-              <View key={index} style={[styles.bandFaqItem, { backgroundColor: theme.card, borderColor: theme.border }]}>
-                <Text style={[styles.bandFaqQuestion, { color: theme.text }]}>{faq.question || faq.q}</Text>
-                <Text style={[styles.bandFaqAnswer, { color: theme.secondaryText }]}>{faq.answer || faq.a}</Text>
-              </View>
-            ))}
-          </View>
-        )}
+        {/* Drummer History Section - The main feature for Issue #349 */}
+        <DrummerHistorySection 
+          band={band} 
+          drummers={drummers} 
+          onSelectDrummer={onSelectDrummer} 
+          theme={theme} 
+        />
 
         {/* Related Bands */}
-        {band.relatedBands?.length > 0 && (
-          <View style={styles.relatedBandsSection}>
-            <Text style={[styles.relatedBandsTitle, { color: theme.text }]}>🎸 Related Bands</Text>
+        {band.relatedBands && band.relatedBands.length > 0 && (
+          <View style={[styles.relatedBandsSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text 
+              style={[styles.relatedBandsSectionTitle, { color: theme.text }]}
+              accessibilityRole="heading"
+              aria-level="2"
+            >
+              RELATED BANDS
+            </Text>
             <View style={styles.relatedBandsList}>
-              {band.relatedBands.map((relatedSlug, index) => {
+              {band.relatedBands.map((relatedSlug) => {
                 const relatedBand = getBand(relatedSlug);
-                const relatedName = relatedBand?.name || relatedSlug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
-                return Platform.OS === 'web' && relatedBand ? (
-                  <a key={index} href={`/band/${relatedSlug}`} style={{ textDecoration: 'none' }}>
-                    <View style={[styles.relatedBandChip, { backgroundColor: theme.card, borderColor: theme.border }]}>
-                      <Text style={[styles.relatedBandText, { color: '#dc2626' }]}>{relatedName}</Text>
-                    </View>
-                  </a>
-                ) : (
-                  <View key={index} style={[styles.relatedBandChip, { backgroundColor: theme.card, borderColor: theme.border }]}>
-                    <Text style={[styles.relatedBandText, { color: theme.secondaryText }]}>{relatedName}</Text>
-                  </View>
+                return (
+                  <TouchableOpacity
+                    key={relatedSlug}
+                    onPress={() => {
+                      updateBandURL(relatedSlug);
+                    }}
+                    style={[styles.relatedBandTag, { backgroundColor: theme.border }]}
+                    accessibilityRole="link"
+                    accessibilityLabel={`View ${relatedBand?.name || relatedSlug}`}
+                  >
+                    <Text style={[styles.relatedBandText, { color: theme.text }]}>
+                      {relatedBand?.name || relatedSlug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ')}
+                    </Text>
+                  </TouchableOpacity>
                 );
               })}
             </View>
@@ -5835,31 +5989,6 @@ function updateListURL(slug) {
   window.history.replaceState({}, '', newPath);
 }
 
-// ==========================================
-// BAND PAGE URL HELPERS (Issue #349)
-// ==========================================
-
-// Check if we're on a band page based on URL
-function isBandPage() {
-  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
-  const pathname = window.location.pathname;
-  return pathname.startsWith('/band/') && pathname !== '/band/';
-}
-
-// Get band slug from URL
-function getBandSlugFromURL() {
-  if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
-  const match = window.location.pathname.match(/^\/band\/([a-z0-9-]+)$/);
-  return match ? match[1] : null;
-}
-
-// Update URL for band page
-function updateBandURL(slug) {
-  if (Platform.OS !== 'web' || typeof window === 'undefined') return;
-  const newPath = slug ? `/band/${slug}` : '/';
-  window.history.replaceState({}, '', newPath);
-}
-
 // Check if we're on a gear page based on URL
 function getGearSlugFromURL() {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
@@ -5886,6 +6015,35 @@ function getDrummerBioSlugFromURL() {
 function isBioPage() {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
   return /^\/drummer\/[a-z0-9-]+\/bio$/i.test(window.location.pathname);
+}
+
+// ==========================================
+// BAND DETAIL ROUTING (Issue #349)
+// ==========================================
+
+// Check if we're on a band detail page (/bands/:slug)
+function isBandDetailPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  return /^\/bands\/[a-z0-9-]+$/i.test(window.location.pathname);
+}
+
+// Get the band slug from URL
+function getBandSlugFromURL() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(/^\/bands\/([a-z0-9-]+)$/i);
+  return match ? match[1] : null;
+}
+
+// Check if we're on the bands listing page (/bands)
+function isBandsListPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  return window.location.pathname === '/bands' || window.location.pathname === '/bands/';
+}
+
+// Update URL for band detail page
+function updateBandURL(slug) {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return;
+  window.history.pushState({}, '', `/bands/${slug}`);
 }
 
 // Convert drummer name to URL slug
@@ -7611,9 +7769,9 @@ function AppContent() {
   // Extended Bio Page state (Issue #305)
   const [showBioPage, setShowBioPage] = useState(() => isBioPage());
   const [bioSlug, setBioSlug] = useState(() => getDrummerBioSlugFromURL());
-  
-  // Band Page state (Issue #349)
-  const [showBandPage, setShowBandPage] = useState(() => isBandPage());
+
+  // Band Detail Page state (Issue #349)
+  const [showBandDetail, setShowBandDetail] = useState(() => isBandDetailPage());
   const [bandSlug, setBandSlug] = useState(() => getBandSlugFromURL());
 
   // Search and filter state
@@ -7980,6 +8138,20 @@ function AppContent() {
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
+      } else if (isBandDetailPage()) {
+        // Band detail page (Issue #349)
+        const slug = getBandSlugFromURL();
+        setShowBandDetail(true);
+        setBandSlug(slug);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
       } else {
         // Back to home page
         setShowCompare(false);
@@ -7988,6 +8160,8 @@ function AppContent() {
         setShowQuotes(false);
         setShowBioPage(false);
         setBioSlug(null);
+        setShowBandDetail(false);
+        setBandSlug(null);
         setSelectedGear(null);
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
@@ -8107,15 +8281,6 @@ function AppContent() {
     loadInitialBio();
   }, [drummers, drummersError]);
 
-  // Load band page on initial mount if URL matches /band/:slug (Issue #349)
-  useEffect(() => {
-    const bandSlugFromURL = getBandSlugFromURL();
-    if (bandSlugFromURL && hasBand(bandSlugFromURL)) {
-      setShowBandPage(true);
-      setBandSlug(bandSlugFromURL);
-    }
-  }, []);
-
   const handleSelectDrummer = async (id, skipUrlUpdate = false) => {
     console.log('[DEBUG] handleSelectDrummer called with id:', id);
     setLoadingDetail(true);
@@ -8131,8 +8296,6 @@ function AppContent() {
     setShowPrivacy(false);
     setShowBioPage(false);
     setBioSlug(null);
-    setShowBandPage(false);
-    setBandSlug(null);
     setSelectedGear(null);
     try {
       const detailUrl = typeof window !== 'undefined' && window.location.hostname !== 'localhost'
@@ -8376,16 +8539,11 @@ setShowList(false);
     }
   };
 
-  // Navigate to band page (Issue #349)
+  // Navigate to band detail page (Issue #349)
   const handleNavigateToBand = (slug) => {
-    if (!hasBand(slug)) return;
-    setShowBandPage(true);
+    setShowBandDetail(true);
     setBandSlug(slug);
     // Reset other views
-    setSelectedDrummer(null);
-    setSelectedDrummerId(null);
-    setShowBioPage(false);
-    setBioSlug(null);
     setShowGearFinder(false);
     setShowGearByBudget(false);
     setShowList(false);
@@ -8395,16 +8553,22 @@ setShowList(false);
     setShowCompare(false);
     setShowPrivacy(false);
     setShowQuotes(false);
+    setShowBioPage(false);
+    setBioSlug(null);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
     setSelectedGear(null);
+    // Update URL
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
-      window.history.pushState({}, '', `/band/${slug}`);
+      window.history.pushState({}, '', `/bands/${slug}`);
     }
   };
 
-  // Handle back from band page (Issue #349)
+  // Handle back from band detail page
   const handleBackFromBand = () => {
-    setShowBandPage(false);
+    setShowBandDetail(false);
     setBandSlug(null);
+    // Navigate back to home
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
       window.history.pushState({}, '', '/');
     }
@@ -8571,18 +8735,6 @@ setShowList(false);
         />
       );
     }
-    // Band Page (Issue #349)
-    if (showBandPage && bandSlug) {
-      return (
-        <BandPage
-          theme={theme}
-          onBack={handleBackFromBand}
-          bandSlug={bandSlug}
-          drummers={drummers}
-          onSelectDrummer={handleSelectDrummer}
-        />
-      );
-    }
     // Extended Bio Page (Issue #305)
     if (showBioPage && selectedDrummer) {
       return (
@@ -8591,13 +8743,24 @@ setShowList(false);
           onBack={handleBackFromBio}
           drummer={selectedDrummer}
           onSelectDrummer={handleSelectDrummer}
-          onNavigateToBand={handleNavigateToBand}
+        />
+      );
+    }
+    // Band Detail Page (Issue #349)
+    if (showBandDetail && bandSlug) {
+      return (
+        <BandDetailPage
+          bandSlug={bandSlug}
+          drummers={drummers}
+          onBack={handleBackFromBand}
+          onSelectDrummer={handleSelectDrummer}
+          theme={theme}
         />
       );
     }
     if (selectedDrummer) {
       console.log('[DEBUG] Rendering DrummerDetail for:', selectedDrummer.name);
-      return <DrummerDetail drummer={selectedDrummer} theme={theme} onBack={handleBack} onSelectGear={handleSelectGear} onCompareYourKit={handleCompareYourKit} allDrummers={drummers} onNavigateToBio={handleNavigateToBio} onNavigateToBand={handleNavigateToBand} />;
+      return <DrummerDetail drummer={selectedDrummer} theme={theme} onBack={handleBack} onSelectGear={handleSelectGear} onCompareYourKit={handleCompareYourKit} allDrummers={drummers} onNavigateToBio={handleNavigateToBio} />;
     }
     return (
       <View style={styles.mainContent} accessibilityRole="main">
@@ -8858,115 +9021,6 @@ const styles = StyleSheet.create({
     fontSize: 16,
     lineHeight: 26,
   },
-  // Band Links styles (Issue #351)
-  bandLinksContainer: {
-    flexDirection: 'row',
-    flexWrap: 'wrap',
-    gap: 12,
-  },
-  bandLinkItem: {
-    padding: 12,
-    borderRadius: 8,
-    borderWidth: 1,
-    minWidth: 140,
-  },
-  bandLinkName: {
-    fontSize: 16,
-    fontWeight: '600',
-    marginBottom: 4,
-  },
-  bandLinkPeriod: {
-    fontSize: 13,
-  },
-  bandLinkRole: {
-    fontSize: 12,
-    fontStyle: 'italic',
-    marginTop: 2,
-  },
-  // Band Page styles (Issue #351)
-  bandPageHeader: {
-    marginBottom: 24,
-  },
-  bandPageTitle: {
-    fontSize: 32,
-    fontWeight: 'bold',
-    marginBottom: 8,
-  },
-  bandPageMeta: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    gap: 12,
-    marginBottom: 12,
-    flexWrap: 'wrap',
-  },
-  bandPageMetaText: {
-    fontSize: 15,
-  },
-  bandStatusBadge: {
-    paddingHorizontal: 10,
-    paddingVertical: 4,
-    borderRadius: 12,
-  },
-  bandStatusText: {
-    color: '#ffffff',
-    fontSize: 12,
-    fontWeight: '600',
-    textTransform: 'capitalize',
-  },
-  bandGenres: {
-    flexDirection: 'row',
-    flexWrap: 'wrap',
-    gap: 8,
-    marginTop: 8,
-  },
-  drummerHistoryList: {
-    gap: 12,
-  },
-  drummerHistoryItem: {
-    padding: 12,
-    borderRadius: 8,
-    borderWidth: 1,
-  },
-  drummerHistoryName: {
-    fontSize: 16,
-    fontWeight: '600',
-    marginBottom: 4,
-  },
-  drummerHistoryPeriod: {
-    fontSize: 14,
-  },
-  drummerHistoryNotes: {
-    fontSize: 13,
-    fontStyle: 'italic',
-    marginTop: 4,
-  },
-  relatedBandsContainer: {
-    flexDirection: 'row',
-    flexWrap: 'wrap',
-    gap: 10,
-  },
-  relatedBandTag: {
-    paddingHorizontal: 14,
-    paddingVertical: 8,
-    borderRadius: 20,
-    borderWidth: 1,
-  },
-  relatedBandText: {
-    fontSize: 14,
-    fontWeight: '500',
-  },
-  faqItem: {
-    marginBottom: 16,
-  },
-  faqQuestion: {
-    fontSize: 15,
-    fontWeight: '600',
-    marginBottom: 6,
-  },
-  faqAnswer: {
-    fontSize: 14,
-    lineHeight: 22,
-  },
   careerTimeline: {
     gap: 12,
   },
@@ -9088,6 +9142,171 @@ const styles = StyleSheet.create({
     fontSize: 16,
     fontWeight: '600',
   },
+
+  // ==========================================
+  // BAND DETAIL PAGE & DRUMMER HISTORY STYLES (Issue #349)
+  // ==========================================
+  bandPageHeader: {
+    flexDirection: 'row',
+    alignItems: 'flex-start',
+    marginBottom: 24,
+    gap: 20,
+  },
+  bandPageHeaderMobile: {
+    flexDirection: 'column',
+    alignItems: 'center',
+    textAlign: 'center',
+  },
+  bandPageHeaderText: {
+    flex: 1,
+  },
+  bandNameRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 12,
+    marginBottom: 8,
+    flexWrap: 'wrap',
+  },
+  bandPageTitle: {
+    fontSize: 32,
+    fontWeight: 'bold',
+  },
+  bandPageSubtitle: {
+    fontSize: 18,
+    marginBottom: 12,
+  },
+  bandStatusBadge: {
+    paddingHorizontal: 12,
+    paddingVertical: 4,
+    borderRadius: 16,
+  },
+  bandStatusText: {
+    color: '#ffffff',
+    fontSize: 12,
+    fontWeight: '600',
+    textTransform: 'uppercase',
+  },
+  bandGenres: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 8,
+  },
+  bandGenreTag: {
+    paddingHorizontal: 12,
+    paddingVertical: 6,
+    borderRadius: 16,
+  },
+  bandGenreText: {
+    fontSize: 13,
+    fontWeight: '500',
+  },
+  bandSummarySection: {
+    padding: 20,
+    borderRadius: 12,
+    borderWidth: 1,
+    marginBottom: 20,
+  },
+  bandSummaryText: {
+    fontSize: 16,
+    lineHeight: 26,
+  },
+  drummerHistorySection: {
+    padding: 20,
+    borderRadius: 12,
+    borderWidth: 1,
+    marginBottom: 20,
+  },
+  drummerHistorySectionMobile: {
+    padding: 16,
+  },
+  drummerHistorySectionTitle: {
+    fontSize: 18,
+    fontWeight: 'bold',
+    letterSpacing: 1,
+    marginBottom: 16,
+    borderBottomWidth: 2,
+    borderBottomColor: '#dc2626',
+    paddingBottom: 12,
+  },
+  drummerHistoryList: {
+    gap: 0,
+  },
+  drummerHistoryItem: {
+    flexDirection: 'row',
+    paddingVertical: 16,
+    gap: 16,
+    alignItems: 'flex-start',
+  },
+  drummerHistoryLeft: {
+    alignItems: 'center',
+    gap: 8,
+  },
+  drummerHistoryIcon: {
+    fontSize: 20,
+  },
+  drummerHistoryImage: {
+    width: 50,
+    height: 50,
+    borderRadius: 25,
+    overflow: 'hidden',
+  },
+  drummerHistoryContent: {
+    flex: 1,
+  },
+  drummerHistoryHeader: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 8,
+    flexWrap: 'wrap',
+    marginBottom: 4,
+  },
+  drummerHistoryName: {
+    fontSize: 18,
+    fontWeight: '600',
+  },
+  drummerHistoryPeriod: {
+    fontSize: 14,
+  },
+  drummerHistoryNotes: {
+    fontSize: 14,
+    fontStyle: 'italic',
+    marginBottom: 8,
+  },
+  drummerHistoryLink: {
+    marginTop: 4,
+  },
+  drummerHistoryLinkText: {
+    color: '#60a5fa',
+    fontSize: 14,
+    fontWeight: '500',
+  },
+  relatedBandsSection: {
+    padding: 20,
+    borderRadius: 12,
+    borderWidth: 1,
+    marginBottom: 20,
+  },
+  relatedBandsSectionTitle: {
+    fontSize: 18,
+    fontWeight: 'bold',
+    letterSpacing: 1,
+    marginBottom: 16,
+  },
+  relatedBandsList: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 10,
+  },
+  relatedBandTag: {
+    paddingHorizontal: 16,
+    paddingVertical: 8,
+    borderRadius: 20,
+  },
+  relatedBandText: {
+    fontSize: 14,
+    fontWeight: '500',
+  },
+
   // Notable Quotes styles
   quotesSectionHeader: {
     flexDirection: 'row',
@@ -12317,192 +12536,40 @@ const styles = StyleSheet.create({
     fontSize: 12,
     lineHeight: 18,
   },
-  
   // ==========================================
-  // Band Page Styles (Issue #349)
+  // BAND LINKS SECTION STYLES (Issue #351)
   // ==========================================
-  bandPageHeader: {
-    marginBottom: 24,
-  },
-  bandPageHeaderMobile: {
-    marginBottom: 20,
-  },
-  bandPageTitle: {
-    fontSize: 32,
-    fontWeight: '800',
-    marginBottom: 8,
-  },
-  bandPageMeta: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    flexWrap: 'wrap',
-    gap: 12,
-    marginBottom: 12,
-  },
-  bandPageMetaText: {
-    fontSize: 14,
-  },
-  bandStatusBadge: {
-    paddingHorizontal: 10,
-    paddingVertical: 4,
-    borderRadius: 12,
-  },
-  bandStatusText: {
-    color: '#fff',
-    fontSize: 12,
-    fontWeight: '600',
-    textTransform: 'capitalize',
-  },
-  bandGenres: {
-    flexDirection: 'row',
-    flexWrap: 'wrap',
-    gap: 8,
-  },
-  bandGenreBadge: {
-    paddingHorizontal: 12,
-    paddingVertical: 6,
-    borderRadius: 16,
-    borderWidth: 1,
-  },
-  bandGenreText: {
-    fontSize: 12,
-    textTransform: 'capitalize',
-  },
-  bandSummarySection: {
-    padding: 16,
-    borderRadius: 12,
-    borderWidth: 1,
-    marginBottom: 24,
-  },
-  bandSummaryText: {
-    fontSize: 15,
-    lineHeight: 24,
-  },
-  drummerHistorySection: {
-    marginBottom: 32,
-  },
-  drummerHistorySectionTitle: {
-    fontSize: 24,
-    fontWeight: '700',
-    marginBottom: 4,
-  },
-  drummerHistorySectionSubtitle: {
-    fontSize: 14,
-    marginBottom: 20,
-  },
-  drummerHistoryList: {
-    gap: 12,
-  },
-  drummerHistoryCard: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    padding: 16,
-    borderRadius: 12,
-    borderWidth: 2,
-  },
-  drummerHistoryImage: {
-    width: 56,
-    height: 56,
-    borderRadius: 28,
-    marginRight: 14,
-  },
-  drummerHistoryImagePlaceholder: {
-    width: 56,
-    height: 56,
-    borderRadius: 28,
-    marginRight: 14,
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-  drummerHistoryImagePlaceholderText: {
-    fontSize: 24,
-  },
-  drummerHistoryInfo: {
-    flex: 1,
-  },
-  drummerHistoryNameRow: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    flexWrap: 'wrap',
-    gap: 8,
-    marginBottom: 4,
-  },
-  drummerHistoryName: {
-    fontSize: 18,
-    fontWeight: '700',
-  },
-  drummerStatusBadge: {
-    paddingHorizontal: 8,
-    paddingVertical: 2,
-    borderRadius: 10,
-  },
-  drummerStatusText: {
-    color: '#fff',
-    fontSize: 10,
-    fontWeight: '700',
-  },
-  drummerHistoryPeriod: {
-    fontSize: 14,
-    marginBottom: 2,
-  },
-  drummerHistoryNotes: {
-    fontSize: 13,
-    fontStyle: 'italic',
-    marginBottom: 2,
-  },
-  drummerHistoryAlbums: {
-    fontSize: 12,
-    marginTop: 4,
-  },
-  drummerHistoryArrow: {
-    fontSize: 20,
-    marginLeft: 8,
-  },
-  bandFaqSection: {
-    marginBottom: 32,
-  },
-  bandFaqTitle: {
-    fontSize: 22,
-    fontWeight: '700',
+  bandLinksSection: {
     marginBottom: 16,
   },
-  bandFaqItem: {
-    padding: 16,
-    borderRadius: 12,
-    borderWidth: 1,
-    marginBottom: 12,
-  },
-  bandFaqQuestion: {
-    fontSize: 16,
-    fontWeight: '600',
-    marginBottom: 8,
-  },
-  bandFaqAnswer: {
+  bandLinksSubtitle: {
     fontSize: 14,
-    lineHeight: 22,
-  },
-  relatedBandsSection: {
-    marginBottom: 24,
-  },
-  relatedBandsTitle: {
-    fontSize: 22,
-    fontWeight: '700',
     marginBottom: 16,
+    marginTop: -8,
   },
-  relatedBandsList: {
+  bandLinksGrid: {
     flexDirection: 'row',
     flexWrap: 'wrap',
+    gap: 12,
+  },
+  bandLinksGridMobile: {
     gap: 10,
   },
-  relatedBandChip: {
+  bandLinkCard: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    paddingVertical: 12,
     paddingHorizontal: 16,
-    paddingVertical: 10,
-    borderRadius: 20,
+    borderRadius: 10,
     borderWidth: 1,
+    minWidth: 140,
+    gap: 10,
   },
-  relatedBandText: {
+  bandLinkIcon: {
+    fontSize: 20,
+  },
+  bandLinkName: {
     fontSize: 14,
-    fontWeight: '500',
-    textTransform: 'capitalize',
+    fontWeight: '600',
   },
 });

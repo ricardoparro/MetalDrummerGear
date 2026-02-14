@@ -12692,6 +12692,27 @@ setShowList(false);
         />
       );
     }
+    // BPM Range Landing Page (Issue #342)
+    if (showBpmRange) {
+      return (
+        <BpmRangePage
+          rangeSlug={bpmRangeSlug}
+          theme={theme}
+          drummers={drummers}
+          onBack={() => {
+            setShowBpmRange(false);
+            setBpmRangeSlug(null);
+            setShowBpmTap(true);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/bpm');
+            }
+          }}
+          onSelectDrummer={handleSelectDrummer}
+          onNavigateToBpmRange={(slug) => { setBpmRangeSlug(slug); updateBpmRangeURL(slug); }}
+          onNavigateToBpmTap={() => { setShowBpmRange(false); setBpmRangeSlug(null); setShowBpmTap(true); if (Platform.OS === 'web') window.history.pushState({}, '', '/bpm'); }}
+        />
+      );
+    }
     // BPM Tap Calculator Page (Issue #342)
     if (showBpmTap) {
       return (
@@ -12699,6 +12720,8 @@ setShowList(false);
           theme={theme}
           onBack={() => {
             setShowBpmTap(false);
+            setShowBpmRange(false);
+            setBpmRangeSlug(null);
             if (Platform.OS === 'web' && typeof window !== 'undefined') {
               window.history.pushState({}, '', '/');
             }

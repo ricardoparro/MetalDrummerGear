@@ -5417,6 +5417,29 @@ function isComparePage() {
   return window.location.pathname === '/compare' || window.location.pathname.startsWith('/compare?');
 }
 
+// Check if we're on a gear comparison page (Issue #345)
+// Matches /compare/tama-vs-pearl, /compare/zildjian-vs-sabian, etc.
+function isGearComparisonPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  const pathname = window.location.pathname;
+  // Match /compare/xxx-vs-xxx pattern but not /compare (drummer compare)
+  return pathname.startsWith('/compare/') && pathname.includes('-vs-');
+}
+
+// Get comparison slug from URL (e.g., /compare/tama-vs-pearl -> tama-vs-pearl)
+function getComparisonSlugFromURL() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(/^\/compare\/([a-z0-9-]+-vs-[a-z0-9-]+)$/);
+  return match ? match[1] : null;
+}
+
+// Update URL for gear comparison page
+function updateComparisonPageURL(slug) {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return;
+  const newPath = slug ? `/compare/${slug}` : '/';
+  window.history.pushState({}, '', newPath);
+}
+
 // Check if we're on the quiz page based on URL (supports /quiz and /find-your-match)
 function isQuizPage() {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
@@ -7628,6 +7651,45 @@ function AppContent() {
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
+      } else if (isGearListPage()) {
+        // Handle /gear route (Issue #339)
+        setShowGearList(true);
+        setShowGearBrand(false);
+        setGearBrandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+      } else if (isGearBrandPage()) {
+        // Handle /gear/brand/:brand route (Issue #339)
+        const brandSlug = getGearBrandSlugFromURL();
+        setShowGearBrand(true);
+        setGearBrandSlug(brandSlug);
+        setShowGearList(false);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+      } else if (isCalendarPage() || isCalendarDatePage()) {
+        // Handle /calendar and /calendar/:date routes (Issue #343)
+        setShowCalendar(true);
+        setCalendarDateSlug(getCalendarDateSlugFromURL());
+        setShowGearBrand(false);
+        setGearBrandSlug(null);
+        setShowGearList(false);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
       } else {
         // Back to home page
         setShowCompare(false);
@@ -7636,6 +7698,11 @@ function AppContent() {
         setShowQuotes(false);
         setShowBioPage(false);
         setBioSlug(null);
+        setShowGearList(false);
+        setShowGearBrand(false);
+        setGearBrandSlug(null);
+        setShowCalendar(false);
+        setCalendarDateSlug(null);
         setSelectedGear(null);
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
@@ -8174,6 +8241,40 @@ setShowList(false);
         />
       );
     }
+    // Gear List Page (Issue #339)
+    if (showGearList) {
+      return (
+        <GearListPage
+          theme={theme}
+          onBack={() => {
+            setShowGearList(false);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/');
+            }
+          }}
+          onSelectGear={handleSelectGear}
+          onSelectBrand={handleNavigateToGearBrand}
+        />
+      );
+    }
+    // Gear Brand Page (Issue #339)
+    if (showGearBrand && gearBrandSlug) {
+      return (
+        <GearBrandPage
+          theme={theme}
+          onBack={() => {
+            setShowGearBrand(false);
+            setGearBrandSlug(null);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/');
+            }
+          }}
+          onBackToGearList={handleNavigateToGearList}
+          onSelectGear={handleSelectGear}
+          brandSlug={gearBrandSlug}
+        />
+      );
+    }
     // Extended Bio Page (Issue #305)
     if (showBioPage && selectedDrummer) {
       return (
@@ -8223,7 +8324,7 @@ setShowList(false);
 
   return (
     <View style={[styles.container, { backgroundColor: theme.background }]}>
-      {!selectedDrummer && !showCompare && !showQuiz && !showPrivacy && !showQuotes && !selectedGear && <SEOHead drummers={drummers} filters={filters} />}
+      {!selectedDrummer && !showCompare && !showQuiz && !showPrivacy && !showQuotes && !showCalendar && !selectedGear && <SEOHead drummers={drummers} filters={filters} />}
       <View style={styles.header} accessibilityRole="banner">
         <View style={styles.headerContent}>
           <Text style={[styles.title, { color: theme.text }]} accessibilityRole="header">
@@ -11207,6 +11308,302 @@ const styles = StyleSheet.create({
   noBudgetDrummersText: {
     fontSize: 16,
     textAlign: 'center',
+  },
+  // ==========================================
+  // CALENDAR PAGE STYLES (Issue #343)
+  // ==========================================
+  calendarPageTitle: {
+    fontSize: 32,
+    fontWeight: 'bold',
+    marginBottom: 8,
+    marginTop: 16,
+  },
+  calendarPageSubtitle: {
+    fontSize: 16,
+    marginBottom: 24,
+    lineHeight: 24,
+  },
+  calendarTodaySection: {
+    padding: 20,
+    borderRadius: 12,
+    borderWidth: 2,
+    marginBottom: 24,
+  },
+  calendarTodaySectionTitle: {
+    fontSize: 20,
+    fontWeight: 'bold',
+    marginBottom: 16,
+  },
+  calendarTodayDrummers: {
+    gap: 12,
+  },
+  calendarTodayCard: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    padding: 12,
+    borderRadius: 10,
+    borderWidth: 1,
+  },
+  calendarTodayImage: {
+    width: 60,
+    height: 60,
+    borderRadius: 30,
+    marginRight: 12,
+  },
+  calendarTodayInfo: {
+    flex: 1,
+  },
+  calendarTodayName: {
+    fontSize: 18,
+    fontWeight: '600',
+  },
+  calendarTodayBand: {
+    fontSize: 14,
+    marginBottom: 4,
+  },
+  calendarTodayAge: {
+    fontSize: 14,
+    fontWeight: '600',
+  },
+  calendarUpcomingSection: {
+    padding: 20,
+    borderRadius: 12,
+    borderWidth: 1,
+    marginBottom: 24,
+  },
+  calendarUpcomingTitle: {
+    fontSize: 20,
+    fontWeight: 'bold',
+    marginBottom: 16,
+  },
+  calendarUpcomingItem: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    paddingVertical: 12,
+    borderBottomWidth: 1,
+  },
+  calendarUpcomingDate: {
+    width: 50,
+    alignItems: 'center',
+    marginRight: 12,
+  },
+  calendarUpcomingDay: {
+    fontSize: 22,
+    fontWeight: 'bold',
+  },
+  calendarUpcomingMonth: {
+    fontSize: 12,
+    textTransform: 'uppercase',
+  },
+  calendarUpcomingInfo: {
+    flex: 1,
+  },
+  calendarUpcomingName: {
+    fontSize: 16,
+    fontWeight: '600',
+  },
+  calendarUpcomingBand: {
+    fontSize: 13,
+  },
+  calendarUpcomingDays: {
+    fontSize: 13,
+    fontWeight: '500',
+  },
+  calendarBrowseTitle: {
+    fontSize: 20,
+    fontWeight: 'bold',
+    marginBottom: 16,
+  },
+  calendarMonthGrid: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 12,
+    marginBottom: 24,
+  },
+  calendarMonthGridMobile: {
+    gap: 8,
+  },
+  calendarMonthCard: {
+    width: '31%',
+    padding: 16,
+    borderRadius: 10,
+    borderWidth: 1,
+    alignItems: 'center',
+  },
+  calendarMonthName: {
+    fontSize: 16,
+    fontWeight: '600',
+    marginBottom: 4,
+  },
+  calendarMonthCount: {
+    fontSize: 12,
+  },
+  calendarMonthCurrent: {
+    fontSize: 10,
+    color: '#dc2626',
+    fontWeight: '600',
+    marginTop: 4,
+    textTransform: 'uppercase',
+  },
+  calendarExpandedMonth: {
+    padding: 20,
+    borderRadius: 12,
+    borderWidth: 1,
+    marginBottom: 24,
+  },
+  calendarExpandedHeader: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    marginBottom: 16,
+  },
+  calendarExpandedTitle: {
+    fontSize: 20,
+    fontWeight: 'bold',
+  },
+  calendarExpandedClose: {
+    fontSize: 24,
+    padding: 4,
+  },
+  calendarExpandedList: {
+    gap: 0,
+  },
+  calendarExpandedItem: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    paddingVertical: 12,
+    borderBottomWidth: 1,
+  },
+  calendarExpandedDay: {
+    width: 50,
+    fontSize: 16,
+    fontWeight: '600',
+  },
+  calendarExpandedInfo: {
+    flex: 1,
+  },
+  calendarExpandedName: {
+    fontSize: 16,
+    fontWeight: '500',
+  },
+  calendarExpandedBand: {
+    fontSize: 13,
+  },
+  calendarExpandedArrow: {
+    fontSize: 18,
+  },
+  calendarExpandedEmpty: {
+    textAlign: 'center',
+    padding: 20,
+    fontSize: 14,
+  },
+  // Date page styles
+  calendarDateHeader: {
+    padding: 24,
+    borderRadius: 12,
+    borderWidth: 1,
+    marginBottom: 24,
+    alignItems: 'center',
+  },
+  calendarTodayBadge: {
+    backgroundColor: '#dc2626',
+    paddingHorizontal: 12,
+    paddingVertical: 4,
+    borderRadius: 16,
+    marginBottom: 12,
+  },
+  calendarTodayBadgeText: {
+    color: '#fff',
+    fontSize: 12,
+    fontWeight: '700',
+  },
+  calendarDateTitle: {
+    fontSize: 32,
+    fontWeight: 'bold',
+    marginBottom: 8,
+  },
+  calendarDateSubtitle: {
+    fontSize: 16,
+    textAlign: 'center',
+  },
+  calendarDateDrummers: {
+    gap: 16,
+    marginBottom: 24,
+  },
+  calendarDrummerCard: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    padding: 16,
+    borderRadius: 12,
+    borderWidth: 1,
+  },
+  calendarDrummerImage: {
+    width: 80,
+    height: 80,
+    borderRadius: 40,
+    marginRight: 16,
+  },
+  calendarDrummerInfo: {
+    flex: 1,
+  },
+  calendarDrummerName: {
+    fontSize: 20,
+    fontWeight: 'bold',
+    marginBottom: 4,
+  },
+  calendarDrummerBand: {
+    fontSize: 15,
+    marginBottom: 4,
+  },
+  calendarDrummerBirth: {
+    fontSize: 14,
+    marginBottom: 8,
+  },
+  calendarDrummerArrow: {
+    fontSize: 24,
+  },
+  calendarNoResults: {
+    padding: 40,
+    borderRadius: 12,
+    borderWidth: 1,
+    alignItems: 'center',
+    marginBottom: 24,
+  },
+  calendarNoResultsEmoji: {
+    fontSize: 48,
+    marginBottom: 16,
+  },
+  calendarNoResultsText: {
+    fontSize: 16,
+    textAlign: 'center',
+    lineHeight: 24,
+  },
+  calendarShareCard: {
+    padding: 20,
+    borderRadius: 12,
+    borderWidth: 1,
+    alignItems: 'center',
+  },
+  calendarShareTitle: {
+    fontSize: 18,
+    fontWeight: 'bold',
+    marginBottom: 8,
+  },
+  calendarShareText: {
+    fontSize: 14,
+    textAlign: 'center',
+    marginBottom: 16,
+    lineHeight: 20,
+  },
+  calendarShareButton: {
+    paddingHorizontal: 24,
+    paddingVertical: 12,
+    borderRadius: 24,
+  },
+  calendarShareButtonText: {
+    color: '#fff',
+    fontSize: 14,
+    fontWeight: '600',
   },
   // ==========================================
   // QUOTES PAGE STYLES

@@ -11669,6 +11669,8 @@ function AppContent() {
   const [showList, setShowList] = useState(() => isListPage());
   const [listSlug, setListSlug] = useState(() => getListSlugFromURL());
   const [showGearFinder, setShowGearFinder] = useState(() => isGearFinderPage());
+  // BPM Calculator state (Issue #342)
+  const [showBpmCalculator, setShowBpmCalculator] = useState(() => isBpmCalculatorPage());
   const [selectedGear, setSelectedGear] = useState(null);
   const [loadingGear, setLoadingGear] = useState(false);
   // Compare Your Kit state

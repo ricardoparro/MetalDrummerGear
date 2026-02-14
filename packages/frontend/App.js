@@ -7628,6 +7628,18 @@ function AppContent() {
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
+      } else if (isBandDetailPage()) {
+        setShowBandDetail(true);
+        setBandSlug(getBandSlugFromURL());
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
       } else {
         // Back to home page
         setShowCompare(false);
@@ -7636,6 +7648,8 @@ function AppContent() {
         setShowQuotes(false);
         setShowBioPage(false);
         setBioSlug(null);
+        setShowBandDetail(false);
+        setBandSlug(null);
         setSelectedGear(null);
         setSelectedDrummer(null);
         setSelectedDrummerId(null);

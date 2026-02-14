@@ -55,7 +55,22 @@ import {
 // Extended bios for drummer detail pages (Issue #305)
 import { getExtendedBio, hasExtendedBio } from './data/extendedBios';
 
+// BPM Calculator - Metal songs database (Issue #342)
+import { 
+  metalSongs, 
+  findSongsNearBpm, 
+  getTempoRange, 
+  TEMPO_RANGES, 
+  getAllBands, 
+  getAllGenres,
+  searchSongs,
+  getDatabaseStats 
+} from './data/metalSongsBpm';
+
 // Band data with drummer history (Issue #349)
+<<<<<<< HEAD
+import { getBand, getAllBands, hasBand, getAllBandSlugs, getBandsForDrummer } from './data/bands';
+=======
 import { getBand, getAllBands, hasBand, getAllBandSlugs } from './data/bands';
 
 // Genre data for landing pages (Issue #340)
@@ -76,6 +91,7 @@ import {
   getZodiacSign,
   MONTH_NAMES 
 } from './data/birthdays';
+>>>>>>> origin/main
 
 // ==========================================
 // TOP 10 LISTS - Loaded dynamically for code splitting
@@ -455,6 +471,117 @@ function QuotesSection({ quotes, drummerName, theme }) {
           ))}
         </View>
       )}
+    </View>
+  );
+}
+
+// ==========================================
+// BAND LINKS SECTION - Show bands drummer has played with (Issue #351)
+// ==========================================
+function BandLinksSection({ bandLinks, bandName, theme }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+
+  // If no band links provided, don't render
+  if (!bandLinks || bandLinks.length === 0) {
+    return null;
+  }
+
+  // Helper to navigate to band page
+  const handleBandPress = (bandSlug) => {
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState(null, '', `/bands/${bandSlug}`);
+      window.dispatchEvent(new PopStateEvent('popstate'));
+    }
+  };
+
+  return (
+    <View 
+      style={[styles.section, styles.bandLinksSection, { backgroundColor: theme.card, borderColor: theme.border }]}
+      data-testid="band-links-section"
+      accessibilityRole="region"
+      accessibilityLabel="Bands"
+    >
+      <Text 
+        style={[styles.sectionTitle, { color: theme.text }]} 
+        accessibilityRole="header"
+      >
+        Bands
+      </Text>
+      <Text style={[styles.bandLinksSubtitle, { color: theme.secondaryText }]}>
+        Bands this drummer has played with
+      </Text>
+      <View style={[styles.bandLinksGrid, isMobile && styles.bandLinksGridMobile]}>
+        {bandLinks.map((band, index) => {
+          const bandData = getBand(band.slug);
+          const isClickable = hasBand(band.slug);
+
+          const cardContent = (
+            <View 
+              style={[
+                styles.bandLinkCard, 
+                { backgroundColor: theme.background, borderColor: theme.border }
+              ]}
+            >
+              <Text style={styles.bandLinkIcon}>🎸</Text>
+              <View style={{ flex: 1 }}>
+                <Text style={[styles.bandLinkName, { color: isClickable ? '#dc2626' : theme.text }]}>
+                  {bandData?.name || band.slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ')}
+                </Text>
+                {band.period && (
+                  <Text style={[{ fontSize: 12, color: theme.secondaryText }]}>
+                    {band.period}
+                  </Text>
+                )}
+                {band.role && (
+                  <Text style={[{ fontSize: 11, color: theme.secondaryText, fontStyle: 'italic' }]}>
+                    {band.role}
+                  </Text>
+                )}
+              </View>
+              {isClickable && (
+                <Text style={{ color: theme.secondaryText, fontSize: 16 }}>→</Text>
+              )}
+            </View>
+          );
+
+          if (isClickable && Platform.OS === 'web') {
+            return (
+              <a
+                key={band.slug || index}
+                href={`/bands/${band.slug}`}
+                onClick={(e) => {
+                  e.preventDefault();
+                  handleBandPress(band.slug);
+                }}
+                style={{ textDecoration: 'none' }}
+                data-testid={`band-link-${band.slug}`}
+              >
+                {cardContent}
+              </a>
+            );
+          }
+
+          if (isClickable) {
+            return (
+              <TouchableOpacity
+                key={band.slug || index}
+                onPress={() => handleBandPress(band.slug)}
+                accessibilityRole="link"
+                accessibilityLabel={`View ${bandData?.name || band.slug} band page`}
+              >
+                {cardContent}
+              </TouchableOpacity>
+            );
+          }
+
+          return (
+            <View key={band.slug || index}>
+              {cardContent}
+            </View>
+          );
+        })}
+      </View>
     </View>
   );
 }
@@ -2716,7 +2843,11 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
       <QuotesSection quotes={drummer.quotes} drummerName={drummer.name} theme={theme} />
 
       {/* Band Links Section - Issue #351 */}
+<<<<<<< HEAD
+      <BandLinksSection drummer={drummer} theme={theme} />
+=======
       <BandLinksSection bandLinks={drummer.bandLinks} bandName={drummer.band} theme={theme} />
+>>>>>>> origin/main
 
       <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
         <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">Gear Setup</Text>
@@ -6799,6 +6930,8 @@ function BandDetailPage({ bandSlug, drummers, onBack, onSelectDrummer, theme }) 
   );
 }
 
+<<<<<<< HEAD
+=======
 // ==========================================
 // GEAR CATEGORY PAGES (Issue #339)
 // ==========================================
@@ -8203,6 +8336,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
   );
 }
 
+>>>>>>> origin/main
 // Quotes Page - Browse all drummer quotes
 function QuotesPage({ theme, onBack, onSelectDrummer }) {
   const { width } = useWindowDimensions();
@@ -8803,6 +8937,8 @@ function updateBandURL(slug) {
   window.history.pushState({}, '', `/bands/${slug}`);
 }
 
+<<<<<<< HEAD
+=======
 // ==========================================
 // GENRE PAGE ROUTING (Issue #340)
 // ==========================================
@@ -9370,6 +9506,7 @@ function updateGearComparisonMeta(comparison) {
   }
 }
 
+>>>>>>> origin/main
 // Convert drummer name to URL slug
 function toSlug(name) {
   return name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
@@ -11098,6 +11235,8 @@ function AppContent() {
   const [showBandDetail, setShowBandDetail] = useState(() => isBandDetailPage());
   const [bandSlug, setBandSlug] = useState(() => getBandSlugFromURL());
 
+<<<<<<< HEAD
+=======
   // Genre Landing Page state (Issue #340)
   const [showGenrePage, setShowGenrePage] = useState(() => isGenreLandingPage());
   const [genreSlug, setGenreSlug] = useState(() => getGenreSlugFromURL());
@@ -11124,6 +11263,7 @@ function AppContent() {
   const [gearCategoryData, setGearCategoryData] = useState(null);
   const [loadingGearCategory, setLoadingGearCategory] = useState(false);
 
+>>>>>>> origin/main
   // Search and filter state
   const [filters, setFilters] = useState(() => getFiltersFromURL());
   const [searchValue, setSearchValue] = useState(() => getFiltersFromURL().search || '');
@@ -11502,6 +11642,8 @@ function AppContent() {
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
+<<<<<<< HEAD
+=======
       } else if (isGearIndexPage()) {
         // Gear index page (Issue #339)
         setShowGearIndex(true);
@@ -11710,6 +11852,7 @@ function AppContent() {
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
+>>>>>>> origin/main
       } else {
         // Back to home page
         setShowCompare(false);
@@ -11720,6 +11863,8 @@ function AppContent() {
         setBioSlug(null);
         setShowBandDetail(false);
         setBandSlug(null);
+<<<<<<< HEAD
+=======
         setShowGenrePage(false);
         setGenreSlug(null);
         setShowGenresList(false);
@@ -11732,6 +11877,7 @@ function AppContent() {
         setShowGearComparison(false);
         setGearComparisonSlug(null);
         setShowGearComparisonsIndex(false);
+>>>>>>> origin/main
         setSelectedGear(null);
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
@@ -12219,6 +12365,8 @@ setShowList(false);
     }
   };
 
+<<<<<<< HEAD
+=======
   // Navigate to genre landing page (Issue #340)
   const handleNavigateToGenre = (slug) => {
     setShowGenrePage(true);
@@ -12471,6 +12619,7 @@ setShowList(false);
     }
   };
 
+>>>>>>> origin/main
   const handleCompareYourKit = (drummer) => {
     setCompareKitDrummer(drummer);
     setShowCompareYourKit(true);
@@ -12702,6 +12851,8 @@ setShowList(false);
         />
       );
     }
+<<<<<<< HEAD
+=======
     // Gear Index Page (Issue #339)
     if (showGearIndex) {
       return (
@@ -12750,6 +12901,7 @@ setShowList(false);
         />
       );
     }
+>>>>>>> origin/main
     if (selectedDrummer) {
       console.log('[DEBUG] Rendering DrummerDetail for:', selectedDrummer.name);
       return <DrummerDetail drummer={selectedDrummer} theme={theme} onBack={handleBack} onSelectGear={handleSelectGear} onCompareYourKit={handleCompareYourKit} allDrummers={drummers} onNavigateToBio={handleNavigateToBio} />;
@@ -16863,6 +17015,8 @@ const styles = StyleSheet.create({
     fontSize: 14,
     fontWeight: '600',
   },
+<<<<<<< HEAD
+=======
 
   // ==========================================
   // KIT BUILDER STYLES (Issue #341)
@@ -17249,4 +17403,5 @@ const styles = StyleSheet.create({
     fontSize: 15,
     fontWeight: '500',
   },
+>>>>>>> origin/main
 });

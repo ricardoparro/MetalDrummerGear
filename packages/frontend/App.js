@@ -7958,6 +7958,10 @@ setShowList(false);
     }
   };
 
+  // Navigate to BPM tool (Issue #342)
+  const handleNavigateToBpmTool = () => { setShowBpmTool(true); setShowBpmRange(false); setBpmRangeSlug(null); setShowGearFinder(false); setShowGearByBudget(false); setShowList(false); setListSlug(null); setShowSpotlights(false); setShowQuiz(false); setShowCompare(false); setShowPrivacy(false); setShowQuotes(false); setShowBioPage(false); setBioSlug(null); setSelectedDrummer(null); setSelectedDrummerId(null); setSelectedGear(null); if (Platform.OS === 'web') window.history.pushState({}, '', '/tools/bpm'); };
+  const handleNavigateToBpmRange = (slug) => { setShowBpmRange(true); setBpmRangeSlug(slug); setShowBpmTool(false); setShowGearFinder(false); setShowGearByBudget(false); setShowList(false); setListSlug(null); setShowSpotlights(false); setShowQuiz(false); setShowCompare(false); setShowPrivacy(false); setShowQuotes(false); setShowBioPage(false); setBioSlug(null); setSelectedDrummer(null); setSelectedDrummerId(null); setSelectedGear(null); if (Platform.OS === 'web') window.history.pushState({}, '', `/bpm/${slug}`); };
+
   // Navigate to extended bio page (Issue #305)
   const handleNavigateToBio = async (drummerSlug) => {
     // First ensure we have the drummer data
@@ -8174,6 +8178,9 @@ setShowList(false);
         />
       );
     }
+    // BPM Tool (Issue #342)
+    if (showBpmTool) { return <BpmCalculator theme={theme} onBack={() => { setShowBpmTool(false); if (Platform.OS === 'web') window.history.pushState({}, '', '/'); }} drummers={drummers} onSelectDrummer={handleSelectDrummer} onNavigateToBpmRange={handleNavigateToBpmRange} />; }
+    if (showBpmRange && bpmRangeSlug) { return <BpmRangePage theme={theme} onBack={() => { setShowBpmRange(false); setBpmRangeSlug(null); if (Platform.OS === 'web') window.history.pushState({}, '', '/'); }} drummers={drummers} onSelectDrummer={handleSelectDrummer} rangeSlug={bpmRangeSlug} onNavigateToBpmTool={handleNavigateToBpmTool} />; }
     // Extended Bio Page (Issue #305)
     if (showBioPage && selectedDrummer) {
       return (
@@ -11208,6 +11215,67 @@ const styles = StyleSheet.create({
     fontSize: 16,
     textAlign: 'center',
   },
+  // ==========================================
+  // CALENDAR PAGE STYLES (Issue #343)
+  // ==========================================
+  calendarPageTitle: { fontSize: 32, fontWeight: 'bold', marginBottom: 8, marginTop: 16 },
+  calendarPageSubtitle: { fontSize: 16, marginBottom: 24, lineHeight: 24 },
+  calendarTodaySection: { padding: 20, borderRadius: 12, borderWidth: 2, marginBottom: 24 },
+  calendarTodaySectionTitle: { fontSize: 20, fontWeight: 'bold', marginBottom: 16 },
+  calendarTodayCard: { flexDirection: 'row', alignItems: 'center', padding: 12, borderRadius: 10, borderWidth: 1, marginBottom: 8 },
+  calendarTodayImage: { width: 60, height: 60, borderRadius: 30, marginRight: 12 },
+  calendarTodayInfo: { flex: 1 },
+  calendarTodayName: { fontSize: 18, fontWeight: '600' },
+  calendarTodayBand: { fontSize: 14, marginBottom: 4 },
+  calendarTodayAge: { fontSize: 14, fontWeight: '600' },
+  calendarUpcomingSection: { padding: 20, borderRadius: 12, borderWidth: 1, marginBottom: 24 },
+  calendarUpcomingTitle: { fontSize: 20, fontWeight: 'bold', marginBottom: 16 },
+  calendarUpcomingItem: { flexDirection: 'row', alignItems: 'center', paddingVertical: 12, borderBottomWidth: 1 },
+  calendarUpcomingDate: { width: 50, alignItems: 'center', marginRight: 12 },
+  calendarUpcomingDay: { fontSize: 22, fontWeight: 'bold' },
+  calendarUpcomingMonth: { fontSize: 12, textTransform: 'uppercase' },
+  calendarUpcomingInfo: { flex: 1 },
+  calendarUpcomingName: { fontSize: 16, fontWeight: '600' },
+  calendarUpcomingBand: { fontSize: 13 },
+  calendarUpcomingDays: { fontSize: 13, fontWeight: '500' },
+  calendarBrowseTitle: { fontSize: 20, fontWeight: 'bold', marginBottom: 16 },
+  calendarMonthGrid: { flexDirection: 'row', flexWrap: 'wrap', gap: 12, marginBottom: 24 },
+  calendarMonthGridMobile: { gap: 8 },
+  calendarMonthCard: { width: '31%', padding: 16, borderRadius: 10, borderWidth: 1, alignItems: 'center' },
+  calendarMonthName: { fontSize: 16, fontWeight: '600', marginBottom: 4 },
+  calendarMonthCount: { fontSize: 12 },
+  calendarMonthCurrent: { fontSize: 10, color: '#dc2626', fontWeight: '600', marginTop: 4, textTransform: 'uppercase' },
+  calendarExpandedMonth: { padding: 20, borderRadius: 12, borderWidth: 1, marginBottom: 24 },
+  calendarExpandedHeader: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', marginBottom: 16 },
+  calendarExpandedTitle: { fontSize: 20, fontWeight: 'bold' },
+  calendarExpandedClose: { fontSize: 24, padding: 4 },
+  calendarExpandedItem: { flexDirection: 'row', alignItems: 'center', paddingVertical: 12, borderBottomWidth: 1 },
+  calendarExpandedDay: { width: 50, fontSize: 16, fontWeight: '600' },
+  calendarExpandedInfo: { flex: 1 },
+  calendarExpandedName: { fontSize: 16, fontWeight: '500' },
+  calendarExpandedBand: { fontSize: 13 },
+  calendarExpandedArrow: { fontSize: 18 },
+  calendarExpandedEmpty: { textAlign: 'center', padding: 20, fontSize: 14 },
+  calendarDateHeader: { padding: 24, borderRadius: 12, borderWidth: 1, marginBottom: 24, alignItems: 'center' },
+  calendarTodayBadge: { backgroundColor: '#dc2626', paddingHorizontal: 12, paddingVertical: 4, borderRadius: 16, marginBottom: 12 },
+  calendarTodayBadgeText: { color: '#fff', fontSize: 12, fontWeight: '700' },
+  calendarDateTitle: { fontSize: 32, fontWeight: 'bold', marginBottom: 8 },
+  calendarDateSubtitle: { fontSize: 16, textAlign: 'center' },
+  calendarDateDrummers: { gap: 16, marginBottom: 24 },
+  calendarDrummerCard: { flexDirection: 'row', alignItems: 'center', padding: 16, borderRadius: 12, borderWidth: 1 },
+  calendarDrummerImage: { width: 80, height: 80, borderRadius: 40, marginRight: 16 },
+  calendarDrummerInfo: { flex: 1 },
+  calendarDrummerName: { fontSize: 20, fontWeight: 'bold', marginBottom: 4 },
+  calendarDrummerBand: { fontSize: 15, marginBottom: 4 },
+  calendarDrummerBirth: { fontSize: 14, marginBottom: 8 },
+  calendarDrummerArrow: { fontSize: 24 },
+  calendarNoResults: { padding: 40, borderRadius: 12, borderWidth: 1, alignItems: 'center', marginBottom: 24 },
+  calendarNoResultsEmoji: { fontSize: 48, marginBottom: 16 },
+  calendarNoResultsText: { fontSize: 16, textAlign: 'center', lineHeight: 24 },
+  calendarShareCard: { padding: 20, borderRadius: 12, borderWidth: 1, alignItems: 'center' },
+  calendarShareTitle: { fontSize: 18, fontWeight: 'bold', marginBottom: 12 },
+  calendarShareButton: { paddingHorizontal: 24, paddingVertical: 12, borderRadius: 24 },
+  calendarShareButtonText: { color: '#fff', fontSize: 14, fontWeight: '600' },
   // ==========================================
   // QUOTES PAGE STYLES
   // ==========================================

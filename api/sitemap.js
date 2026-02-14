@@ -47,6 +47,27 @@ const top10Lists = [
   { slug: 'progressive-metal-drummers', name: 'Top 10 Progressive Metal Drummers' },
 ];
 
+// Genre pages for SEO (Issue #340)
+const genres = [
+  { slug: 'thrash-metal' },
+  { slug: 'death-metal' },
+  { slug: 'black-metal' },
+  { slug: 'progressive-metal' },
+  { slug: 'nu-metal' },
+  { slug: 'groove-metal' },
+  { slug: 'metalcore' },
+  { slug: 'djent' },
+  { slug: 'heavy-metal' },
+  { slug: 'power-metal' },
+  { slug: 'technical-death-metal' },
+  { slug: 'melodic-death-metal' },
+  { slug: 'sludge-metal' },
+  { slug: 'industrial-metal' },
+  { slug: 'hardcore-punk' },
+  { slug: 'grindcore' },
+  { slug: 'doom-metal' },
+];
+
 const BASE_URL = 'https://metalforge.io';
 
 // Generate URL-friendly slug from drummer name
@@ -69,9 +90,17 @@ export default function handler(req, res) {
     { loc: '/quotes', priority: '0.9', changefreq: 'weekly' },
     // Top 10 Lists index
     { loc: '/lists', priority: '0.9', changefreq: 'weekly' },
+    // Genres index (Issue #340)
+    { loc: '/genres', priority: '0.9', changefreq: 'weekly' },
     // Individual Top 10 List pages
     ...top10Lists.map(l => ({
       loc: `/lists/${l.slug}`,
+      priority: '0.8',
+      changefreq: 'monthly'
+    })),
+    // Genre detail pages (Issue #340)
+    ...genres.map(g => ({
+      loc: `/genres/${g.slug}`,
       priority: '0.8',
       changefreq: 'monthly'
     })),

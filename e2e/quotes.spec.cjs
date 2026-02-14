@@ -63,8 +63,11 @@ test.describe('Quotes Feature', () => {
 
   test('quotes section visible on drummer page', async ({ page }) => {
     // Go to Lars Ulrich page
-    await page.goto('/drummer/1', { waitUntil: 'networkidle' });
-    await page.waitForTimeout(2000);
+    await page.goto('/drummer/1', { waitUntil: 'load' });
+    
+    // Wait for Gear Setup section - indicates drummer data has fully loaded and rendered
+    const gearSection = page.locator('text=Gear Setup');
+    await expect(gearSection).toBeVisible({ timeout: 15000 });
     
     // Look for "Notable Quotes" section
     const quotesSection = page.locator('text=Notable Quotes');
@@ -72,8 +75,11 @@ test.describe('Quotes Feature', () => {
   });
 
   test('quotes section expands on click', async ({ page }) => {
-    await page.goto('/drummer/1', { waitUntil: 'networkidle' });
-    await page.waitForTimeout(2000);
+    await page.goto('/drummer/1', { waitUntil: 'load' });
+    
+    // Wait for Gear Setup section - indicates drummer data has fully loaded and rendered
+    const gearSection = page.locator('text=Gear Setup');
+    await expect(gearSection).toBeVisible({ timeout: 15000 });
     
     // Find and click the Notable Quotes header
     const quotesHeader = page.locator('text=Notable Quotes');
@@ -88,7 +94,7 @@ test.describe('Quotes Feature', () => {
 
   test('multiple drummers have quotes displayed', async ({ page, request }) => {
     // Increase timeout for multi-page iteration test
-    test.setTimeout(60000);
+    test.setTimeout(90000);
     
     // Get drummers with quotes from the quotes API
     const quotesResponse = await request.get(`${BASE_URL}/api/quotes`);
@@ -99,9 +105,11 @@ test.describe('Quotes Feature', () => {
     
     const errors = [];
     for (const id of drummerIds) {
-      // Use 'load' instead of 'networkidle' - GA scripts prevent networkidle from settling
       await page.goto(`/drummer/${id}`, { waitUntil: 'load' });
-      await page.waitForTimeout(2500);
+      
+      // Wait for Gear Setup section - indicates drummer data has fully loaded
+      const gearSection = page.locator('text=Gear Setup');
+      await expect(gearSection).toBeVisible({ timeout: 15000 });
       
       const hasQuotesSection = await page.locator('text=Notable Quotes').isVisible({ timeout: 5000 }).catch(() => false);
       if (!hasQuotesSection) {

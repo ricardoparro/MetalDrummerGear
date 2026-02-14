@@ -61,16 +61,13 @@ import {
   findSongsNearBpm, 
   getTempoRange, 
   TEMPO_RANGES, 
-  getAllBands, 
-  getAllGenres,
+  getAllBands as getAllBpmBands, 
+  getAllGenres as getAllBpmGenres,
   searchSongs,
   getDatabaseStats 
 } from './data/metalSongsBpm';
 
 // Band data with drummer history (Issue #349)
-<<<<<<< HEAD
-import { getBand, getAllBands, hasBand, getAllBandSlugs, getBandsForDrummer } from './data/bands';
-=======
 import { getBand, getAllBands, hasBand, getAllBandSlugs } from './data/bands';
 
 // Genre data for landing pages (Issue #340)
@@ -91,7 +88,6 @@ import {
   getZodiacSign,
   MONTH_NAMES 
 } from './data/birthdays';
->>>>>>> origin/main
 
 // ==========================================
 // TOP 10 LISTS - Loaded dynamically for code splitting
@@ -2696,70 +2692,6 @@ function SimilarDrummersSection({ drummer, allDrummers, theme, onSelectDrummer }
   );
 }
 
-// ==========================================
-// BAND LINKS SECTION (Issue #351)
-// Shows links to band pages for drummers
-// ==========================================
-function BandLinksSection({ bandLinks, bandName, theme }) {
-  const { width } = useWindowDimensions();
-  const isMobile = width < 768;
-
-  // Parse band names from the drummer's band field (e.g., "Metallica" or "Slayer / Slipknot")
-  const getBandsFromName = (name) => {
-    if (!name) return [];
-    return name.split(/\s*[\/,]\s*/).map(b => b.trim()).filter(Boolean);
-  };
-
-  // Convert band name to slug
-  const toBandSlug = (name) => {
-    return name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
-  };
-
-  // Get bands that have pages
-  const bands = bandLinks || getBandsFromName(bandName);
-  const bandsWithPages = bands
-    .map(name => {
-      const slug = toBandSlug(name);
-      return hasBand(slug) ? { name, slug } : null;
-    })
-    .filter(Boolean);
-
-  // Don't render if no bands have pages
-  if (bandsWithPages.length === 0) return null;
-
-  const handleBandPress = (slug) => {
-    if (Platform.OS === 'web' && typeof window !== 'undefined') {
-      window.history.pushState({}, '', `/bands/${slug}`);
-      window.dispatchEvent(new PopStateEvent('popstate'));
-    }
-  };
-
-  return (
-    <View style={[styles.section, styles.bandLinksSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
-      <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">
-        Band {bandsWithPages.length > 1 ? 'Pages' : 'Page'}
-      </Text>
-      <Text style={[styles.bandLinksSubtitle, { color: theme.secondaryText }]}>
-        Explore drummer history and gear for {bandsWithPages.length > 1 ? 'these bands' : 'this band'}
-      </Text>
-      <View style={[styles.bandLinksGrid, isMobile && styles.bandLinksGridMobile]}>
-        {bandsWithPages.map(({ name, slug }) => (
-          <TouchableOpacity
-            key={slug}
-            onPress={() => handleBandPress(slug)}
-            style={[styles.bandLinkCard, { backgroundColor: theme.background, borderColor: theme.border }]}
-            accessibilityRole="link"
-            accessibilityLabel={`View ${name} band page`}
-          >
-            <Text style={styles.bandLinkIcon}>🎸</Text>
-            <Text style={[styles.bandLinkName, { color: theme.text }]}>{name}</Text>
-          </TouchableOpacity>
-        ))}
-      </View>
-    </View>
-  );
-}
-
 function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit, allDrummers = [], onNavigateToBio }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
@@ -2843,11 +2775,7 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
       <QuotesSection quotes={drummer.quotes} drummerName={drummer.name} theme={theme} />
 
       {/* Band Links Section - Issue #351 */}
-<<<<<<< HEAD
-      <BandLinksSection drummer={drummer} theme={theme} />
-=======
       <BandLinksSection bandLinks={drummer.bandLinks} bandName={drummer.band} theme={theme} />
->>>>>>> origin/main
 
       <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
         <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">Gear Setup</Text>
@@ -6247,6 +6175,78 @@ function BpmTapPage({ theme, onBack, drummers, onSelectDrummer }) {
 }
 
 // ==========================================
+// BPM RANGE LANDING PAGE (Issue #342)
+// ==========================================
+function BpmRangePage({ rangeSlug, drummers, onBack, onSelectDrummer, onNavigateToBpmRange, onNavigateToBpmTap, theme }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const rangeData = useMemo(() => parseBpmRange(rangeSlug), [rangeSlug]);
+  const allRanges = useMemo(() => getAllBpmRanges(), []);
+  const filteredSongs = useMemo(() => {
+    if (!rangeData) return [];
+    return METAL_SONGS_DATABASE.filter(s => s.bpm >= rangeData.min && s.bpm <= rangeData.max).sort((a, b) => a.bpm - b.bpm);
+  }, [rangeData]);
+  
+  useEffect(() => {
+    if (rangeData) updateBpmRangeMeta(rangeData, filteredSongs.length);
+    return () => { if (Platform.OS === 'web' && typeof document !== 'undefined') { const s = document.querySelector('script[data-schema="bpm-range"]'); if (s) s.remove(); } };
+  }, [rangeData, filteredSongs.length]);
+  
+  if (!rangeData) {
+    return (
+      <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+        <View style={styles.detailContent}>
+          <TouchableOpacity onPress={onBack} style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}><Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text></TouchableOpacity>
+          <Text style={[styles.bandPageTitle, { color: theme.text }]}>BPM Range Not Found</Text>
+          <Text style={[styles.bandPageSubtitle, { color: theme.secondaryText }]}>Try one of the ranges below.</Text>
+          <View style={[styles.relatedListsGrid, { marginTop: 24 }]}>
+            {allRanges.map(r => (<TouchableOpacity key={r.slug} onPress={() => onNavigateToBpmRange(r.slug)} style={[styles.relatedListCard, { backgroundColor: theme.card, borderColor: theme.border }]}><Text style={styles.relatedListEmoji}>{r.emoji}</Text><Text style={[styles.relatedListName, { color: theme.text }]}>{r.label}</Text></TouchableOpacity>))}
+          </View>
+        </View>
+      </ScrollView>
+    );
+  }
+  
+  return (
+    <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]} contentContainerStyle={{ paddingBottom: 40 }}>
+      <View style={styles.detailContent}>
+        <TouchableOpacity onPress={onBack} style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}><Text style={[styles.backButtonText, { color: theme.text }]}>← Back to BPM Calculator</Text></TouchableOpacity>
+        <View style={styles.bpmTitleSection}>
+          <Text style={[styles.bpmPageTitle, { color: rangeData.color }]}>{rangeData.emoji} {rangeData.title}</Text>
+          <Text style={[styles.bpmPageSubtitle, { color: theme.secondaryText }]}>{rangeData.description}</Text>
+          <Text style={[styles.bpmResultsCount, { color: theme.secondaryText, marginTop: 8 }]}>{filteredSongs.length} songs</Text>
+        </View>
+        <View style={[styles.bpmFilters, { marginBottom: 24 }]}>
+          <Text style={[styles.bpmFilterLabel, { color: theme.secondaryText, marginBottom: 8 }]}>Browse by Tempo:</Text>
+          <View style={styles.bpmGenreButtons}>
+            {allRanges.map(r => (<TouchableOpacity key={r.slug} style={[styles.bpmGenreButton, rangeSlug === r.slug && styles.bpmGenreButtonActive, { borderColor: rangeSlug === r.slug ? r.color : theme.border }]} onPress={() => onNavigateToBpmRange(r.slug)}><Text style={[styles.bpmGenreButtonText, { color: rangeSlug === r.slug ? r.color : theme.text }]}>{r.emoji} {r.label}</Text></TouchableOpacity>))}
+          </View>
+        </View>
+        <View style={styles.bpmSongList}>
+          {filteredSongs.map((song, idx) => {
+            const cat = getBpmCategory(song.bpm);
+            const d = drummers.find(dr => dr.name === song.drummer);
+            return (<TouchableOpacity key={`${song.band}-${song.song}-${idx}`} style={[styles.bpmSongListItem, { backgroundColor: theme.card, borderColor: theme.border }]} onPress={() => { if (d) onSelectDrummer(d.id); }}><View style={[styles.bpmSongBpmBadge, { backgroundColor: cat.color }]}><Text style={styles.bpmSongBpmBadgeText}>{song.bpm}</Text><Text style={styles.bpmSongBpmBadgeUnit}>BPM</Text></View><View style={styles.bpmSongDetails}><Text style={[styles.bpmSongTitle, { color: theme.text }]} numberOfLines={1}>{song.song}</Text><Text style={[styles.bpmSongMeta, { color: theme.secondaryText }]} numberOfLines={1}>{song.band} • {song.album} ({song.year})</Text><Text style={[styles.bpmSongDrummer, { color: theme.secondaryText }]} numberOfLines={1}>🥁 {song.drummer}</Text></View><View style={[styles.bpmSongGenreBadge, { backgroundColor: theme.background }]}><Text style={[styles.bpmSongGenreText, { color: theme.secondaryText }]}>{song.genre}</Text></View></TouchableOpacity>);
+          })}
+          {filteredSongs.length === 0 && <View style={styles.bpmNoResults}><Text style={[styles.bpmNoResultsText, { color: theme.secondaryText }]}>No songs in this range.</Text></View>}
+        </View>
+        <View style={[styles.relatedListsSection, { borderTopColor: theme.border, marginTop: 32 }]}>
+          <Text style={[styles.relatedListsTitle, { color: theme.text }]}>Other Tempo Ranges</Text>
+          <View style={[styles.relatedListsGrid, isMobile && styles.relatedListsGridMobile]}>
+            {allRanges.filter(r => r.slug !== rangeSlug).slice(0, 4).map(r => (<TouchableOpacity key={r.slug} onPress={() => onNavigateToBpmRange(r.slug)} style={[styles.relatedListCard, { backgroundColor: theme.card, borderColor: theme.border }]}><Text style={styles.relatedListEmoji}>{r.emoji}</Text><Text style={[styles.relatedListName, { color: theme.text }]}>{r.label}</Text><Text style={[styles.relatedListDesc, { color: theme.secondaryText }]}>{r.min}-{r.max} BPM</Text></TouchableOpacity>))}
+          </View>
+        </View>
+        <View style={[styles.bpmTipsSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.bpmTipsTitle, { color: theme.text }]}>🥁 Try the BPM Tap Calculator</Text>
+          <Text style={[styles.bpmTip, { color: theme.secondaryText, marginBottom: 16 }]}>Tap along to find any song's BPM!</Text>
+          <TouchableOpacity onPress={onNavigateToBpmTap} style={[styles.bpmShareButton, { backgroundColor: '#dc2626', alignSelf: 'flex-start' }]}><Text style={styles.bpmShareButtonText}>Open Tap Calculator →</Text></TouchableOpacity>
+        </View>
+      </View>
+    </ScrollView>
+  );
+}
+
+// ==========================================
 // DRUMMER BIO PAGE - Extended Biography (Issue #305)
 // ==========================================
 function DrummerBioPage({ theme, onBack, drummer, onSelectDrummer }) {
@@ -6930,8 +6930,6 @@ function BandDetailPage({ bandSlug, drummers, onBack, onSelectDrummer, theme }) 
   );
 }
 
-<<<<<<< HEAD
-=======
 // ==========================================
 // GEAR CATEGORY PAGES (Issue #339)
 // ==========================================
@@ -8336,7 +8334,6 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
   );
 }
 
->>>>>>> origin/main
 // Quotes Page - Browse all drummer quotes
 function QuotesPage({ theme, onBack, onSelectDrummer }) {
   const { width } = useWindowDimensions();
@@ -8937,8 +8934,6 @@ function updateBandURL(slug) {
   window.history.pushState({}, '', `/bands/${slug}`);
 }
 
-<<<<<<< HEAD
-=======
 // ==========================================
 // GENRE PAGE ROUTING (Issue #340)
 // ==========================================
@@ -9214,6 +9209,72 @@ function updateBpmMeta(bpm) {
     setMeta('twitter:title', title);
     setMeta('twitter:description', description);
   }
+}
+
+// ==========================================
+// BPM RANGE LANDING PAGES ROUTING (Issue #342)
+// ==========================================
+
+// BPM range categories for landing pages
+const BPM_RANGE_CATEGORIES = {
+  slow: { min: 40, max: 99, label: 'Slow', title: 'Slow Metal Songs (40-99 BPM)', description: 'Explore doom, sludge, and heavy groove metal songs.', emoji: '🐢', color: '#8b5cf6', keywords: ['doom metal bpm', 'sludge metal', 'slow metal songs'] },
+  mid: { min: 100, max: 139, label: 'Mid-Tempo', title: 'Mid-Tempo Metal Songs (100-139 BPM)', description: 'Groove metal and heavy metal tracks with driving beats.', emoji: '🎸', color: '#22c55e', keywords: ['groove metal bpm', 'heavy metal tempo', 'mid-tempo metal'] },
+  fast: { min: 140, max: 179, label: 'Fast', title: 'Fast Metal Songs (140-179 BPM)', description: 'Thrash, power metal, and metalcore songs.', emoji: '🔥', color: '#f97316', keywords: ['thrash metal bpm', 'power metal', 'fast metal'] },
+  extreme: { min: 180, max: 219, label: 'Very Fast', title: 'Very Fast Metal Songs (180-219 BPM)', description: 'Death metal and technical songs with blistering tempos.', emoji: '⚡', color: '#ef4444', keywords: ['death metal bpm', 'extreme metal', 'technical drumming'] },
+  'blast-beat': { min: 220, max: 400, label: 'Blast Beat', title: 'Blast Beat Metal Songs (220+ BPM)', description: 'The fastest metal songs with blast beats and grindcore.', emoji: '💀', color: '#dc2626', keywords: ['blast beat songs', 'grindcore bpm', 'extreme drumming'] }
+};
+
+function isBpmRangePage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  return /^\/bpm\/(slow|mid|fast|extreme|blast-beat|\d+)$/i.test(window.location.pathname);
+}
+
+function getBpmRangeSlugFromURL() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(/^\/bpm\/([a-z0-9-]+)$/i);
+  return match ? match[1].toLowerCase() : null;
+}
+
+function parseBpmRange(slug) {
+  if (!slug) return null;
+  if (BPM_RANGE_CATEGORIES[slug]) return { ...BPM_RANGE_CATEGORIES[slug], slug };
+  const bpm = parseInt(slug, 10);
+  if (!isNaN(bpm) && bpm > 0 && bpm <= 400) {
+    const tolerance = 15;
+    return { min: Math.max(40, bpm - tolerance), max: Math.min(400, bpm + tolerance), label: `Around ${bpm} BPM`, title: `Metal Songs at ${bpm} BPM`, description: `Metal songs around ${bpm} BPM.`, emoji: getBpmCategory(bpm).emoji, color: getBpmCategory(bpm).color, keywords: [`${bpm} bpm songs`], slug, isNumeric: true };
+  }
+  return null;
+}
+
+function getAllBpmRanges() {
+  return Object.entries(BPM_RANGE_CATEGORIES).map(([slug, data]) => ({ ...data, slug }));
+}
+
+function updateBpmRangeURL(slug) {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return;
+  window.history.pushState({}, '', slug ? `/bpm/${slug}` : '/bpm');
+}
+
+function updateBpmRangeMeta(rangeData, songCount) {
+  if (Platform.OS !== 'web' || typeof document === 'undefined' || !rangeData) return;
+  const setMeta = (name, content, isProperty = false) => {
+    const attr = isProperty ? 'property' : 'name';
+    let meta = document.querySelector(`meta[${attr}="${name}"]`);
+    if (!meta) { meta = document.createElement('meta'); meta.setAttribute(attr, name); document.head.appendChild(meta); }
+    meta.setAttribute('content', content);
+  };
+  const title = `${rangeData.title} | MetalForge BPM Database`;
+  const description = `${rangeData.description} Browse ${songCount} songs.`;
+  document.title = title;
+  setMeta('description', description);
+  setMeta('keywords', rangeData.keywords.join(', '));
+  setMeta('og:title', title, true);
+  setMeta('og:description', description, true);
+  setMeta('og:type', 'website', true);
+  setMeta('og:url', `https://metalforge.io/bpm/${rangeData.slug}`, true);
+  setMeta('twitter:card', 'summary_large_image');
+  setMeta('twitter:title', title);
+  setMeta('twitter:description', description);
 }
 
 // Metal songs database with BPM values
@@ -9506,7 +9567,6 @@ function updateGearComparisonMeta(comparison) {
   }
 }
 
->>>>>>> origin/main
 // Convert drummer name to URL slug
 function toSlug(name) {
   return name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
@@ -11235,8 +11295,6 @@ function AppContent() {
   const [showBandDetail, setShowBandDetail] = useState(() => isBandDetailPage());
   const [bandSlug, setBandSlug] = useState(() => getBandSlugFromURL());
 
-<<<<<<< HEAD
-=======
   // Genre Landing Page state (Issue #340)
   const [showGenrePage, setShowGenrePage] = useState(() => isGenreLandingPage());
   const [genreSlug, setGenreSlug] = useState(() => getGenreSlugFromURL());
@@ -11247,6 +11305,8 @@ function AppContent() {
 
   // BPM Tap Calculator Page state (Issue #342)
   const [showBpmTap, setShowBpmTap] = useState(() => isBpmTapPage());
+  const [showBpmRange, setShowBpmRange] = useState(() => isBpmRangePage());
+  const [bpmRangeSlug, setBpmRangeSlug] = useState(() => getBpmRangeSlugFromURL());
 
   // Birthday Calendar Page state (Issue #343)
   const [showBirthdayCalendar, setShowBirthdayCalendar] = useState(() => isBirthdayCalendarPage());
@@ -11263,7 +11323,6 @@ function AppContent() {
   const [gearCategoryData, setGearCategoryData] = useState(null);
   const [loadingGearCategory, setLoadingGearCategory] = useState(false);
 
->>>>>>> origin/main
   // Search and filter state
   const [filters, setFilters] = useState(() => getFiltersFromURL());
   const [searchValue, setSearchValue] = useState(() => getFiltersFromURL().search || '');
@@ -11642,8 +11701,6 @@ function AppContent() {
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
-<<<<<<< HEAD
-=======
       } else if (isGearIndexPage()) {
         // Gear index page (Issue #339)
         setShowGearIndex(true);
@@ -11715,9 +11772,36 @@ function AppContent() {
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
+      } else if (isBpmRangePage()) {
+        // BPM Range Landing page (Issue #342)
+        setShowBpmRange(true);
+        setBpmRangeSlug(getBpmRangeSlugFromURL());
+        setShowBpmTap(false);
+        setShowKitBuilder(false);
+        setShowBirthdayCalendar(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowList(false);
+        setListSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowGenresList(false);
       } else if (isBpmTapPage()) {
         // BPM Tap Calculator page (Issue #342)
         setShowBpmTap(true);
+        setShowBpmRange(false);
+        setBpmRangeSlug(null);
         setShowKitBuilder(false);
         setShowBirthdayCalendar(false);
         setShowBandDetail(false);
@@ -11852,7 +11936,6 @@ function AppContent() {
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
->>>>>>> origin/main
       } else {
         // Back to home page
         setShowCompare(false);
@@ -11863,8 +11946,6 @@ function AppContent() {
         setBioSlug(null);
         setShowBandDetail(false);
         setBandSlug(null);
-<<<<<<< HEAD
-=======
         setShowGenrePage(false);
         setGenreSlug(null);
         setShowGenresList(false);
@@ -11877,7 +11958,6 @@ function AppContent() {
         setShowGearComparison(false);
         setGearComparisonSlug(null);
         setShowGearComparisonsIndex(false);
->>>>>>> origin/main
         setSelectedGear(null);
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
@@ -12365,8 +12445,6 @@ setShowList(false);
     }
   };
 
-<<<<<<< HEAD
-=======
   // Navigate to genre landing page (Issue #340)
   const handleNavigateToGenre = (slug) => {
     setShowGenrePage(true);
@@ -12619,7 +12697,6 @@ setShowList(false);
     }
   };
 
->>>>>>> origin/main
   const handleCompareYourKit = (drummer) => {
     setCompareKitDrummer(drummer);
     setShowCompareYourKit(true);
@@ -12851,8 +12928,6 @@ setShowList(false);
         />
       );
     }
-<<<<<<< HEAD
-=======
     // Gear Index Page (Issue #339)
     if (showGearIndex) {
       return (
@@ -12901,7 +12976,27 @@ setShowList(false);
         />
       );
     }
->>>>>>> origin/main
+    // Gear Comparison Pages (Issue #345)
+    if (showGearComparison && gearComparisonSlug) {
+      return (
+        <GearComparisonPage
+          comparisonSlug={gearComparisonSlug}
+          theme={theme}
+          onBack={handleBackFromGearComparison}
+          onSelectDrummer={handleSelectDrummer}
+          drummers={drummers}
+        />
+      );
+    }
+    if (showGearComparisonsIndex) {
+      return (
+        <GearComparisonsIndexPage
+          theme={theme}
+          onBack={handleBackFromGearComparison}
+          onSelectComparison={handleNavigateToGearComparison}
+        />
+      );
+    }
     if (selectedDrummer) {
       console.log('[DEBUG] Rendering DrummerDetail for:', selectedDrummer.name);
       return <DrummerDetail drummer={selectedDrummer} theme={theme} onBack={handleBack} onSelectGear={handleSelectGear} onCompareYourKit={handleCompareYourKit} allDrummers={drummers} onNavigateToBio={handleNavigateToBio} />;
@@ -17015,8 +17110,6 @@ const styles = StyleSheet.create({
     fontSize: 14,
     fontWeight: '600',
   },
-<<<<<<< HEAD
-=======
 
   // ==========================================
   // KIT BUILDER STYLES (Issue #341)
@@ -17403,5 +17496,4 @@ const styles = StyleSheet.create({
     fontSize: 15,
     fontWeight: '500',
   },
->>>>>>> origin/main
 });

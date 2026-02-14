@@ -1,6 +1,7 @@
 // Vercel Serverless Function - sitemap.xml
 // Issue #361: Added band pages
 // Issue #339: Added gear category pages for SEO
+// Issue #345: Added gear comparison pages for SEO
 
 const drummers = [
   { id: 1, name: 'Lars Ulrich' }, { id: 2, name: 'Joey Jordison' }, { id: 3, name: 'Gene Hoglan' },
@@ -48,6 +49,16 @@ const gearCategories = [
   { slug: 'hardware', name: 'Metal Drum Hardware' },
 ];
 
+// Issue #345: Gear comparison pages for SEO
+const gearComparisons = [
+  { slug: 'tama-vs-pearl', name: 'Tama vs Pearl Drums' },
+  { slug: 'meinl-vs-zildjian', name: 'Meinl vs Zildjian Cymbals' },
+  { slug: 'tama-iron-cobra-vs-pearl-demon-drive', name: 'Tama Iron Cobra vs Pearl Demon Drive' },
+  { slug: 'paiste-vs-sabian', name: 'Paiste vs Sabian Cymbals' },
+  { slug: 'tama-slp-vs-pearl-sensitone', name: 'Tama SLP vs Pearl Sensitone Snares' },
+  { slug: 'sonor-vs-dw', name: 'Sonor vs DW Drums' },
+];
+
 const BASE_URL = 'https://metalforge.io';
 
 function generateSlug(name) {
@@ -65,7 +76,9 @@ export default function handler(req, res) {
     { loc: '/quotes', priority: '0.9', changefreq: 'weekly' },
     { loc: '/lists', priority: '0.9', changefreq: 'weekly' },
     { loc: '/birthdays', priority: '0.9', changefreq: 'weekly' },
+    { loc: '/compare-gear', priority: '0.9', changefreq: 'weekly' },
     ...gearCategories.map(c => ({ loc: `/gear/${c.slug}`, priority: '0.9', changefreq: 'weekly' })),
+    ...gearComparisons.map(c => ({ loc: `/compare-gear/${c.slug}`, priority: '0.8', changefreq: 'monthly' })),
     ...top10Lists.map(l => ({ loc: `/lists/${l.slug}`, priority: '0.8', changefreq: 'monthly' })),
     ...drummers.map(d => ({ loc: `/drummer/${generateSlug(d.name)}`, priority: '0.8', changefreq: 'monthly' })),
     ...gearItems.map(g => ({ loc: `/gear/item/${g.slug}`, priority: '0.7', changefreq: 'monthly' })),

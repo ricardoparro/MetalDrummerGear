@@ -38,6 +38,22 @@ export const bands = {
 
     // Related
     relatedBands: ["slayer", "megadeth", "anthrax"],
+
+    // FAQ - Issue #352
+    faq: [
+      {
+        q: "Who is Metallica's drummer?",
+        a: "Lars Ulrich, co-founder since 1981.",
+      },
+      {
+        q: "Has Metallica had other drummers?",
+        a: "No, Lars is the only drummer in their history.",
+      },
+      {
+        q: "What drums does Lars Ulrich play?",
+        a: "Tama Starclassic with LU1465 signature snare.",
+      },
+    ],
   },
 
   // Issue #360: Slayer - Big Four of Thrash

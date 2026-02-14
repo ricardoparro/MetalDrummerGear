@@ -7284,6 +7284,625 @@ Hellhammer joined Mayhem in 1988, becoming their most enduring member and the rh
         ]
       }
     }
+  },
+
+  // Nick Augusto - Trivium
+  'nick-augusto': {
+    slug: 'nick-augusto',
+    drummerId: 13,
+    name: 'Nick Augusto',
+    bands: [
+      { slug: 'trivium', period: '2010-2014', role: 'Drummer' }
+    ],
+    metaTitle: 'Nick Augusto Biography - Former Trivium Drummer | MetalForge',
+    metaDescription: 'Complete biography of Nick Augusto, former Trivium drummer (2010-2014). Explore his career, drumming style, work on albums like In Waves and Vengeance Falls, and his influence on modern metal.',
+    ogImage: '/images/drummers/nick-augusto.webp',
+    keywords: ['trivium', 'metalcore', 'thrash metal', 'tama drums', 'in waves', 'vengeance falls', 'orlando drummer', 'modern metal'],
+    relatedDrummers: ['alex-bent', 'travis-smith', 'chris-adler', 'joey-jordison'],
+    summary: 'Nick Augusto, former Trivium drummer (2010-2014). Known for his explosive style on albums like "In Waves" and "Vengeance Falls."',
+    lastUpdated: '2026-02-14',
+    imageAlt: 'Nick Augusto performing live with Trivium behind his Tama drum kit',
+    schemaType: 'Person',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Nick Augusto (born April 16, 1988, in Orlando, Florida) is an American drummer best known for his tenure with thrash/metalcore band Trivium from 2010 to 2014. He joined the band following the departure of Travis Smith, bringing a more aggressive and technically demanding approach to Trivium's sound.
+
+During his four years with Trivium, Augusto recorded two studio albums—"In Waves" (2011) and "Vengeance Falls" (2013)—and toured extensively, helping to expand the band's international fanbase. His drumming style combined thrash metal intensity with metalcore precision, perfectly complementing Trivium's evolving sound.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '2010', event: 'Joined Trivium as drummer, replacing Travis Smith' },
+          { year: '2011', event: 'Recorded "In Waves" with Trivium, reaching #13 on Billboard 200' },
+          { year: '2011', event: 'Performed at major festivals including Download, Rock am Ring, and Wacken' },
+          { year: '2012', event: 'Completed extensive world tour supporting "In Waves" album' },
+          { year: '2013', event: 'Recorded "Vengeance Falls" with producer David Draiman (Disturbed)' },
+          { year: '2013', event: 'Album reached #15 on Billboard 200' },
+          { year: '2014', event: 'Parted ways with Trivium; replaced by Mat Madiro' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Nick Augusto's drumming style is characterized by high energy, powerful double bass work, and aggressive attack. He brought a thrash metal sensibility to Trivium's sound, with crisp execution and driving rhythms that propelled the band's heavier direction.
+
+**Key Influences:**
+- **Lars Ulrich (Metallica)**: Thrash metal foundation
+- **Dave Lombardo (Slayer)**: Speed and intensity
+- **Joey Jordison (Slipknot)**: Modern metal aggression
+- **Chris Adler (Lamb of God)**: Groove metal precision
+
+**Signature Techniques:**
+- Powerful double bass patterns with groove emphasis
+- Aggressive snare attack on backbeats
+- Tight coordination with guitar riffs
+- Dynamic transitions between sections
+- China cymbal accents for metalcore punch`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Trivium - In Waves', year: 2011, label: 'Roadrunner', note: 'First album with band; #13 Billboard 200' },
+          { name: 'Trivium - Vengeance Falls', year: 2013, label: 'Roadrunner', note: 'Produced by David Draiman; #15 Billboard' }
+        ],
+        tours: [
+          { name: 'In Waves World Tour', year: '2011-2012', note: 'Extensive worldwide touring' },
+          { name: 'Vengeance Falls Tour', year: '2013-2014', note: 'Supporting album release' },
+          { name: 'Download Festival', year: '2011, 2012', note: 'Major UK festival appearances' },
+          { name: 'Mayhem Festival', year: '2011', note: 'Premier US metal tour' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `During his time with Trivium, Nick Augusto endorsed Tama Drums, using their Starclassic series for live performances and studio recordings.
+
+**Setup with Trivium:**
+- **Drums**: Tama Starclassic Performer B/B in custom finish
+- **Snare**: Tama S.L.P. 14"x6.5" or Starclassic snare
+- **Cymbals**: Meinl (MB20 and Classics Custom series)
+- **Hardware**: Tama Iron Cobra double pedal
+- **Sticks**: Promark 5B or similar
+- **Heads**: Evans or Remo
+
+**Setup Characteristics:**
+- Punchy, attack-focused tom tuning
+- Tight snare for metalcore snap
+- China cymbals prominently positioned for accents`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Born and raised in Orlando, Florida',
+          'Was relatively unknown before joining Trivium at age 22',
+          '"In Waves" marked Trivium\'s return to a heavier sound after "Shogun"',
+          'David Draiman of Disturbed produced "Vengeance Falls" and influenced the drum sound',
+          'Left Trivium in 2014 citing "creative differences"',
+          'Known for his energetic stage presence and crowd interaction',
+          'Contributed to two of Trivium\'s commercially successful albums',
+          'The "In Waves" tour included over 200 shows worldwide'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'When was Nick Augusto in Trivium?', a: 'Nick Augusto was Trivium\'s drummer from 2010 to 2014, recording two albums with the band.' },
+          { q: 'What albums did Nick Augusto record with Trivium?', a: 'Nick recorded "In Waves" (2011) and "Vengeance Falls" (2013) with Trivium.' },
+          { q: 'What drums did Nick Augusto play?', a: 'Nick Augusto played Tama Starclassic drums with Meinl cymbals and Tama Iron Cobra pedals.' },
+          { q: 'Why did Nick Augusto leave Trivium?', a: 'Nick parted ways with Trivium in 2014, citing creative differences. He was replaced by Mat Madiro.' }
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Trivium Official', url: 'https://www.trivium.org' },
+          { name: 'Blabbermouth', url: 'https://www.blabbermouth.net' },
+          { name: 'Wikipedia: Nick Augusto', url: 'https://en.wikipedia.org/wiki/Nick_Augusto' }
+        ]
+      }
+    }
+  },
+
+  // Chris Turner - Oceans Ate Alaska
+  'chris-turner': {
+    slug: 'chris-turner',
+    drummerId: 14,
+    name: 'Chris Turner',
+    bands: [
+      { slug: 'oceans-ate-alaska', period: '2010-present', role: 'Drummer, founding member' }
+    ],
+    metaTitle: 'Chris Turner Biography - Oceans Ate Alaska Drummer & Technical Metal Virtuoso | MetalForge',
+    metaDescription: 'Complete biography of Chris Turner, founding drummer of Oceans Ate Alaska. Explore his revolutionary technical drumming style, viral videos, and influence on progressive metalcore.',
+    ogImage: '/images/drummers/chris-turner.webp',
+    keywords: ['oceans ate alaska', 'progressive metalcore', 'technical drumming', 'british drummer', 'djent', 'tama drums', 'viral drummer', 'extreme precision'],
+    relatedDrummers: ['matt-greiner', 'matt-halpern', 'tomas-haake', 'chris-adler'],
+    summary: 'Chris Turner, founding drummer of Oceans Ate Alaska and viral technical drumming sensation. Known for extreme precision, speed, and innovative patterns.',
+    lastUpdated: '2026-02-14',
+    imageAlt: 'Chris Turner performing intricate technical patterns with Oceans Ate Alaska',
+    schemaType: 'Person',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Chris Turner (born October 4, 1993, in Birmingham, United Kingdom) is a British drummer and founding member of progressive metalcore band Oceans Ate Alaska. He has gained widespread recognition as one of the most technically proficient drummers in modern metal, known for his jaw-dropping precision, lightning-fast footwork, and complex polyrhythmic patterns.
+
+Turner's drumming videos have gone viral on social media, showcasing his ability to execute incredibly demanding patterns with apparent ease. His style blends djent rhythms, progressive metal complexity, and metalcore intensity, influencing a new generation of drummers in the heavy music scene.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '2010', event: 'Co-founded Oceans Ate Alaska in Birmingham, UK' },
+          { year: '2012', event: 'Released debut EP "Into the Deep" with independent label' },
+          { year: '2015', event: 'Signed to Fearless Records; released debut album "Lost Isles"' },
+          { year: '2017', event: 'Released "Hikari" to critical acclaim; viral drumming videos began gaining millions of views' },
+          { year: '2020', event: 'Social media presence exploded with technical drum playthrough videos' },
+          { year: '2022', event: 'Released third album "Disparity" showcasing even more advanced drumming' },
+          { year: '2023', event: 'Became one of the most followed metal drummers on Instagram and TikTok' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Chris Turner's drumming style is characterized by extreme technical precision, complex polyrhythms, and seamless integration of blast beats, groove patterns, and jazz-influenced fills. His ability to play incredibly demanding patterns while maintaining groove and musicality sets him apart in the progressive metalcore scene.
+
+**Key Influences:**
+- **Tomas Haake (Meshuggah)**: Polyrhythmic concepts
+- **Matt Greiner (August Burns Red)**: Metalcore technicality
+- **Matt Halpern (Periphery)**: Djent drumming approach
+- **Danny Carey (Tool)**: Progressive metal musicality
+
+**Signature Techniques:**
+- Extreme-speed double bass patterns with clarity
+- Complex polyrhythmic patterns over odd time signatures
+- Seamless transitions between blast beats and groove sections
+- Jazz-influenced fills within extreme metal context
+- One-handed blast beats and gravity blasts`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Oceans Ate Alaska - Into the Deep EP', year: 2012, label: 'Independent', note: 'Debut release' },
+          { name: 'Oceans Ate Alaska - Lost Isles', year: 2015, label: 'Fearless', note: 'Debut full-length' },
+          { name: 'Oceans Ate Alaska - Hikari', year: 2017, label: 'Fearless', note: 'Critical breakthrough' },
+          { name: 'Oceans Ate Alaska - Disparity', year: 2022, label: 'Fearless', note: 'Technical masterwork' }
+        ],
+        tours: [
+          { name: 'UK/Europe Tours', year: 'Multiple years', note: 'Building fanbase in Europe' },
+          { name: 'US Tours', year: 'Multiple years', note: 'Support slots with major acts' },
+          { name: 'Festival Appearances', year: '2015-Present', note: 'Slam Dunk, Download, etc.' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Chris Turner endorses Tama Drums and Meinl Cymbals, using high-end equipment designed to withstand his demanding playing style while providing the clarity needed for technical patterns.
+
+**Current Setup:**
+- **Drums**: Tama Starclassic Walnut/Birch in custom finish
+- **Snare**: Tama S.L.P. 14"x5.5" Vintage Hammered Steel
+- **Cymbals**: Meinl (Byzance and Pure Alloy series)
+- **Hardware**: Tama Speed Cobra 910 double pedal
+- **Throne**: Ahead Spinal-G
+- **Sticks**: Promark or Vic Firth 5B
+- **Heads**: Remo (Emperor or Ambassador series)
+
+**Setup Characteristics:**
+- Emphasizes speed and responsiveness
+- Meinl Byzance cymbals for dark, complex tones
+- Speed Cobra pedals optimized for rapid footwork`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Born in Birmingham, England, home of Black Sabbath',
+          'His drumming playthrough videos have accumulated tens of millions of views',
+          'Known for making impossibly difficult patterns look effortless',
+          'Practices extensively with a focus on hand and foot independence',
+          'Band name "Oceans Ate Alaska" references nature\'s power and destruction',
+          '"Hikari" (meaning "light" in Japanese) showcased the band\'s progressive evolution',
+          'Has inspired countless young drummers through social media presence',
+          'Maintains a strict practice regimen despite touring schedule'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drums does Chris Turner play?', a: 'Chris Turner plays Tama Starclassic drums with Meinl cymbals and Tama Speed Cobra pedals.' },
+          { q: 'What band is Chris Turner in?', a: 'Chris Turner is the founding drummer of progressive metalcore band Oceans Ate Alaska since 2010.' },
+          { q: 'Why is Chris Turner famous?', a: 'Chris Turner is known for his extreme technical precision, viral drumming videos, and innovative approach to progressive metalcore drumming.' },
+          { q: 'How fast can Chris Turner play?', a: 'Chris Turner is capable of playing extremely fast double bass patterns (200+ BPM) while maintaining clarity and groove.' }
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Oceans Ate Alaska Official', url: 'https://www.oceansatealaska.com' },
+          { name: 'Tama Drums Artist Profile', url: 'https://www.tama.com' },
+          { name: 'Meinl Cymbals Artist Profile', url: 'https://www.meinlcymbals.com' },
+          { name: 'Wikipedia: Oceans Ate Alaska', url: 'https://en.wikipedia.org/wiki/Oceans_Ate_Alaska' }
+        ]
+      }
+    }
+  },
+
+  // Matt Greiner - August Burns Red
+  'matt-greiner': {
+    slug: 'matt-greiner',
+    drummerId: 15,
+    name: 'Matt Greiner',
+    bands: [
+      { slug: 'august-burns-red', period: '2005-present', role: 'Drummer, founding member' }
+    ],
+    metaTitle: 'Matt Greiner Biography - August Burns Red Drummer & Metalcore Legend | MetalForge',
+    metaDescription: 'Complete biography of Matt Greiner, founding drummer of August Burns Red. Explore his innovative metalcore style, Grammy-nominated work, signature snare drum, and influence on modern metal drumming.',
+    ogImage: '/images/drummers/matt-greiner.webp',
+    keywords: ['august burns red', 'metalcore', 'christian metal', 'meinl cymbals', 'pearl drums', 'grammy nominated', 'lancaster pa', 'technical metalcore'],
+    relatedDrummers: ['chris-turner', 'matt-halpern', 'chris-adler', 'brann-dailor'],
+    summary: 'Matt Greiner, founding drummer of August Burns Red since 2005. Grammy-nominated metalcore virtuoso known for innovative technique and signature snare drum.',
+    lastUpdated: '2026-02-14',
+    imageAlt: 'Matt Greiner performing with August Burns Red showcasing his powerful metalcore drumming',
+    schemaType: 'Person',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Matt Greiner (born May 2, 1985, in Lancaster, Pennsylvania) is an American drummer and founding member of metalcore band August Burns Red. Since the band's formation in 2003, Greiner has established himself as one of the most innovative and influential drummers in the metalcore genre, known for his complex patterns, powerful playing, and creative use of dynamics.
+
+His work with August Burns Red has earned a Grammy nomination and widespread critical acclaim. Greiner is also known for his Pearl signature snare drum and his contributions to drum education through clinics and social media content. His approach combines technical proficiency with musicality, influencing countless drummers in the heavy music scene.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '2003', event: 'Co-founded August Burns Red in Lancaster, Pennsylvania' },
+          { year: '2005', event: 'Released debut album "Thrill Seeker" on Solid State Records' },
+          { year: '2007', event: 'Released "Messengers," establishing ABR as metalcore leaders' },
+          { year: '2009', event: 'Released "Constellations," reaching #24 on Billboard 200' },
+          { year: '2011', event: 'Released "Leveler," reaching #11 on Billboard 200' },
+          { year: '2015', event: 'Released "Found in Far Away Places," Grammy-nominated' },
+          { year: '2017', event: 'Received Pearl Drums Matt Greiner Signature Snare' },
+          { year: '2019', event: 'Released "Guardians," reaching #9 on Billboard 200' },
+          { year: '2020', event: 'Grammy nomination for Best Metal Performance ("Defender")' },
+          { year: '2023', event: 'Released "Death Below" to critical acclaim' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Matt Greiner's drumming style is characterized by powerful, precise playing with a unique approach to metalcore rhythms. He incorporates jazz-influenced dynamics, creative cymbal work, and intricate kick patterns while maintaining the heavy foundation that metalcore demands.
+
+**Key Influences:**
+- **Chris Adler (Lamb of God)**: Groove metal precision and kick patterns
+- **Danny Carey (Tool)**: Progressive approach and musicality
+- **Tony Royster Jr.**: Jazz fusion technique
+- **Brann Dailor (Mastodon)**: Progressive metal creativity
+
+**Signature Techniques:**
+- Rapid-fire double bass with distinctive patterns
+- Creative use of stack cymbals and effects
+- Dynamic range from delicate to crushing
+- Complex hi-hat and ride patterns
+- Seamless odd time signature integration`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'August Burns Red - Thrill Seeker', year: 2005, label: 'Solid State', note: 'Debut album' },
+          { name: 'August Burns Red - Messengers', year: 2007, label: 'Solid State', note: 'Breakthrough album' },
+          { name: 'August Burns Red - Constellations', year: 2009, label: 'Solid State', note: '#24 Billboard 200' },
+          { name: 'August Burns Red - Leveler', year: 2011, label: 'Solid State', note: '#11 Billboard 200' },
+          { name: 'August Burns Red - Rescue & Restore', year: 2013, label: 'Solid State', note: '#9 Billboard 200' },
+          { name: 'August Burns Red - Found in Far Away Places', year: 2015, label: 'Fearless', note: 'Grammy nominated' },
+          { name: 'August Burns Red - Phantom Anthem', year: 2017, label: 'Fearless', note: '#10 Billboard 200' },
+          { name: 'August Burns Red - Guardians', year: 2020, label: 'Fearless', note: 'Grammy nominated' },
+          { name: 'August Burns Red - Death Below', year: 2023, label: 'SharpTone', note: 'Most recent release' }
+        ],
+        tours: [
+          { name: 'Warped Tour', year: 'Multiple years', note: 'Staple Warped Tour band' },
+          { name: 'Headline Tours', year: 'Ongoing', note: 'Extensive worldwide touring' },
+          { name: 'Christmas Burns Red', year: 'Annual', note: 'Popular annual Christmas shows' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Matt Greiner has long-standing endorsements with Pearl Drums and Meinl Cymbals, and has his own signature snare drum from Pearl designed specifically for metalcore applications.
+
+**Current Setup:**
+- **Drums**: Pearl Reference Pure in Piano Black
+- **Snare**: Pearl Matt Greiner Signature 14"x6" (steel shell)
+- **Cymbals**: Meinl Byzance series (Dual, Extra Dry, and Traditional)
+- **Hardware**: Pearl Demon Drive double pedal
+- **Sticks**: Vic Firth Matt Greiner Signature
+- **Heads**: Remo (Emperor or Controlled Sound)
+
+**Signature Products:**
+- Pearl Matt Greiner Signature Snare: 14"x6" steel shell with aggressive attack
+- Vic Firth signature sticks designed for power and control
+- Known for extensive use of Meinl Byzance Dual crashes for metalcore tone`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Born and raised in Lancaster, Pennsylvania (Amish Country)',
+          'August Burns Red is known for their elaborate Christmas albums and shows',
+          'Grammy nomination for Best Metal Performance for "Defender" (2020)',
+          'The band has released multiple critically acclaimed Christmas albums',
+          'Known for his Christian faith, which influences the band\'s lyrics',
+          'His signature Pearl snare was designed for cutting through dense guitar mixes',
+          'Conducts drum clinics worldwide, known for educational approach',
+          'August Burns Red celebrated 20 years as a band in 2023'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drums does Matt Greiner play?', a: 'Matt Greiner plays Pearl Reference Pure drums with Meinl Byzance cymbals and his signature Pearl snare drum.' },
+          { q: 'Does Matt Greiner have a signature snare?', a: 'Yes, Matt has a Pearl Matt Greiner Signature 14"x6" steel snare designed for metalcore drumming.' },
+          { q: 'Has August Burns Red won a Grammy?', a: 'August Burns Red has received multiple Grammy nominations but has not yet won. They were nominated for Best Metal Performance in 2016 and 2020.' },
+          { q: 'How long has Matt Greiner been in August Burns Red?', a: 'Matt Greiner co-founded August Burns Red in 2003 and has been their drummer for over 20 years.' }
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'August Burns Red Official', url: 'https://www.augustburnsred.com' },
+          { name: 'Pearl Drums Artist Profile', url: 'https://pearldrum.com' },
+          { name: 'Meinl Cymbals Artist Profile', url: 'https://meinlcymbals.com' },
+          { name: 'Wikipedia: August Burns Red', url: 'https://en.wikipedia.org/wiki/August_Burns_Red' }
+        ]
+      }
+    }
+  },
+
+  // Blake Richardson - Between the Buried and Me
+  'blake-richardson': {
+    slug: 'blake-richardson',
+    drummerId: 16,
+    name: 'Blake Richardson',
+    bands: [
+      { slug: 'between-the-buried-and-me', period: '2005-present', role: 'Drummer' }
+    ],
+    metaTitle: 'Blake Richardson Biography - Between the Buried and Me Drummer & Prog Metal Master | MetalForge',
+    metaDescription: 'Complete biography of Blake Richardson, drummer of Between the Buried and Me. Explore his progressive metal mastery, work on Colors and The Great Misdirect, and his influence on technical metal.',
+    ogImage: '/images/drummers/blake-richardson.webp',
+    keywords: ['between the buried and me', 'btbam', 'progressive metal', 'meinl cymbals', 'colors album', 'technical metal', 'north carolina', 'prog death'],
+    relatedDrummers: ['danny-carey', 'mario-duplantier', 'brann-dailor', 'matt-halpern'],
+    summary: 'Blake Richardson, drummer of Between the Buried and Me since 2005. Progressive metal virtuoso known for genre-defying technique and musicality.',
+    lastUpdated: '2026-02-14',
+    imageAlt: 'Blake Richardson performing complex progressive metal patterns with Between the Buried and Me',
+    schemaType: 'Person',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Blake Richardson (born February 25, 1984, in Winston-Salem, North Carolina) is an American drummer known for his work with progressive metal band Between the Buried and Me (BTBAM) since 2005. He is widely regarded as one of the most technically proficient and creative drummers in progressive metal, capable of seamlessly blending extreme metal intensity with jazz, fusion, and experimental elements.
+
+Richardson's work on landmark albums like "Colors," "The Great Misdirect," and "The Parallax" series has earned him critical acclaim and a devoted following among drummers. His ability to navigate complex compositions while maintaining musicality and groove has made him an influential figure in modern progressive metal.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '2005', event: 'Joined Between the Buried and Me, replacing original drummer Will Goodyear' },
+          { year: '2006', event: 'Recorded "Alaska," first album with BTBAM' },
+          { year: '2007', event: 'Released "Colors," considered one of the greatest progressive metal albums' },
+          { year: '2009', event: 'Released "The Great Misdirect," featuring "Swim to the Moon"' },
+          { year: '2012', event: 'Released "The Parallax II: Future Sequence," completing the ambitious two-part concept' },
+          { year: '2015', event: 'Released "Coma Ecliptic," a theatrical prog concept album' },
+          { year: '2018', event: 'Released "Automata" parts I and II' },
+          { year: '2021', event: 'Released "Colors II," sequel to landmark 2007 album' },
+          { year: '2024', event: 'Continued touring and creating new material with BTBAM' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Blake Richardson's drumming style defies categorization, seamlessly blending death metal blast beats, jazz fusion sophistication, progressive rock complexity, and experimental textures. His approach prioritizes serving each composition's unique demands while pushing technical boundaries.
+
+**Key Influences:**
+- **Danny Carey (Tool)**: Progressive metal approach and polyrhythms
+- **Sean Reinert (Cynic)**: Jazz fusion in extreme metal
+- **Brann Dailor (Mastodon)**: Progressive metal creativity
+- **Bill Bruford (Yes/King Crimson)**: Prog rock complexity
+- **Jazz Drummers**: Tony Williams, Buddy Rich influence his phrasing
+
+**Signature Techniques:**
+- Seamless genre transitions within single songs
+- Jazz-influenced ghost notes and hi-hat work
+- Blast beats with musicality and dynamics
+- Complex odd time signatures executed naturally
+- Use of space and restraint within extreme contexts`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Between the Buried and Me - Alaska', year: 2006, label: 'Victory', note: 'First album with band' },
+          { name: 'Between the Buried and Me - Colors', year: 2007, label: 'Victory', note: 'Landmark prog metal album' },
+          { name: 'Between the Buried and Me - The Great Misdirect', year: 2009, label: 'Victory', note: 'Contains "Swim to the Moon"' },
+          { name: 'Between the Buried and Me - The Parallax: Hypersleep Dialogues EP', year: 2011, label: 'Metal Blade', note: 'Concept EP' },
+          { name: 'Between the Buried and Me - The Parallax II: Future Sequence', year: 2012, label: 'Metal Blade', note: 'Epic concept album' },
+          { name: 'Between the Buried and Me - Coma Ecliptic', year: 2015, label: 'Metal Blade', note: 'Theatrical prog concept' },
+          { name: 'Between the Buried and Me - Automata I & II', year: 2018, label: 'Sumerian', note: 'Two-part release' },
+          { name: 'Between the Buried and Me - Colors II', year: 2021, label: 'Sumerian', note: 'Sequel to 2007 classic' }
+        ],
+        tours: [
+          { name: 'Colors Anniversary Tour', year: '2017', note: 'Performed Colors in full' },
+          { name: 'An Evening With BTBAM', year: 'Multiple years', note: 'No opening acts, extended sets' },
+          { name: 'Summer Slaughter', year: 'Multiple years', note: 'Premier US extreme metal tour' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Blake Richardson endorses Meinl Cymbals and has used various drum brands throughout his career. His setup emphasizes versatility to handle BTBAM's genre-spanning compositions.
+
+**Current Setup:**
+- **Drums**: Pearl Reference Pure or Masters Maple
+- **Snare**: Various 14" snares depending on tour
+- **Cymbals**: Meinl Byzance series (Dark, Extra Dry, and Traditional)
+- **Hardware**: Pearl Demon Drive double pedal
+- **Sticks**: Vic Firth 5A or 5B
+- **Heads**: Remo (various models)
+
+**Setup Characteristics:**
+- Versatile configuration for diverse musical demands
+- Meinl Byzance cymbals for complex, musical tones
+- Multiple snare options for different sounds
+- Spacious setup for intricate patterns`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Grew up in Winston-Salem, North Carolina',
+          '"Colors" is consistently ranked among the greatest progressive metal albums ever',
+          '"Swim to the Moon" (19+ minutes) showcases his stamina and musicality',
+          'BTBAM songs frequently change genres multiple times within single tracks',
+          'Known for exceptional sight-reading and learning ability',
+          'The band performed "Colors" in its entirety for 10th anniversary',
+          'His jazz background influences his approach to extreme metal',
+          'BTBAM releases are known for their ambition and conceptual depth'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What band is Blake Richardson in?', a: 'Blake Richardson is the drummer for progressive metal band Between the Buried and Me since 2005.' },
+          { q: 'What is Blake Richardson\'s most famous album?', a: 'Between the Buried and Me\'s "Colors" (2007) is widely considered Blake Richardson\'s most iconic work and a landmark progressive metal album.' },
+          { q: 'What cymbals does Blake Richardson use?', a: 'Blake Richardson uses Meinl Byzance cymbals, known for their complex tones suitable for progressive music.' },
+          { q: 'What style does Blake Richardson play?', a: 'Blake Richardson plays progressive metal, seamlessly blending death metal, jazz fusion, and experimental elements within BTBAM\'s genre-defying compositions.' }
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'BTBAM Official', url: 'https://www.betweentheburiedandme.com' },
+          { name: 'Meinl Cymbals Artist Profile', url: 'https://meinlcymbals.com' },
+          { name: 'Modern Drummer Magazine', url: 'https://www.moderndrummer.com' },
+          { name: 'Wikipedia: Between the Buried and Me', url: 'https://en.wikipedia.org/wiki/Between_the_Buried_and_Me' }
+        ]
+      }
+    }
+  },
+
+  // Ben Koller - Converge
+  'ben-koller': {
+    slug: 'ben-koller',
+    drummerId: 17,
+    name: 'Ben Koller',
+    bands: [
+      { slug: 'converge', period: '1999-present', role: 'Drummer' },
+      { slug: 'mutoid-man', period: '2012-present', role: 'Drummer, co-founder' },
+      { slug: 'all-pigs-must-die', period: '2010-present', role: 'Drummer' },
+      { slug: 'killer-be-killed', period: '2011-present', role: 'Drums (studio)' }
+    ],
+    metaTitle: 'Ben Koller Biography - Converge Drummer & Hardcore Legend | MetalForge',
+    metaDescription: 'Complete biography of Ben Koller, legendary Converge drummer since 1999. Explore his genre-defining work on Jane Doe, Mutoid Man projects, and his influence on metalcore and hardcore drumming.',
+    ogImage: '/images/drummers/ben-koller.webp',
+    keywords: ['converge', 'hardcore punk', 'metalcore', 'jane doe', 'mutoid man', 'all pigs must die', 'boston hardcore', 'tama drums'],
+    relatedDrummers: ['brann-dailor', 'dave-lombardo', 'joey-jordison', 'tomas-haake'],
+    summary: 'Ben Koller, Converge drummer since 1999 and hardcore legend. Known for his work on "Jane Doe" and multiple side projects including Mutoid Man.',
+    lastUpdated: '2026-02-14',
+    imageAlt: 'Ben Koller performing with Converge showcasing his intense hardcore drumming style',
+    schemaType: 'Person',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Ben Koller (born March 12, 1978) is an American drummer best known for his work with influential metalcore/hardcore band Converge since 1999. He is widely regarded as one of the most important drummers in heavy music, having helped define the sound of modern metalcore and hardcore through his work on landmark albums like "Jane Doe."
+
+Beyond Converge, Koller maintains an impressive roster of projects including Mutoid Man (with Stephen Brodsky of Cave In), All Pigs Must Die, and Killer Be Killed. His relentless energy, creative approach, and ability to shift between genres while maintaining intensity has made him an icon in underground heavy music.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1999', event: 'Joined Converge, replacing original drummer Damon Bellorado' },
+          { year: '2001', event: 'Recorded "Jane Doe," considered a genre-defining masterpiece' },
+          { year: '2004', event: 'Released "You Fail Me" with Converge' },
+          { year: '2006', event: 'Released "No Heroes" with Converge' },
+          { year: '2009', event: 'Released "Axe to Fall" with Converge' },
+          { year: '2010', event: 'Formed All Pigs Must Die with members of Hope Conspiracy' },
+          { year: '2012', event: 'Co-founded Mutoid Man with Stephen Brodsky (Cave In)' },
+          { year: '2012', event: 'Released "All We Love We Leave Behind" with Converge' },
+          { year: '2017', event: 'Released "The Dusk in Us" with Converge, Grammy-nominated' },
+          { year: '2021', event: 'Released "Bloodmoon: I" with Converge featuring Chelsea Wolfe' },
+          { year: '2024', event: 'Continued touring and recording with multiple projects' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Ben Koller's drumming style is characterized by relentless intensity, creative cymbal work, and an ability to balance chaos with groove. His approach draws from hardcore punk energy, death metal technicality, and progressive experimentation, creating a sound that is both visceral and musical.
+
+**Key Influences:**
+- **Dave Lombardo (Slayer)**: Thrash metal intensity
+- **Pete Sandoval (Morbid Angel)**: Extreme metal precision
+- **Keith Moon (The Who)**: Creative chaos
+- **Damon Che (Don Caballero)**: Math rock complexity
+
+**Signature Techniques:**
+- Controlled chaos and explosive fills
+- Creative cymbal accents and splash work
+- Blast beats with hardcore punk energy
+- Groove-based patterns within chaotic structures
+- Seamless transitions between extreme tempos`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Converge - Jane Doe', year: 2001, label: 'Equal Vision', note: 'Genre-defining masterpiece' },
+          { name: 'Converge - You Fail Me', year: 2004, label: 'Epitaph', note: 'Expanded sonic palette' },
+          { name: 'Converge - No Heroes', year: 2006, label: 'Epitaph', note: 'Return to aggression' },
+          { name: 'Converge - Axe to Fall', year: 2009, label: 'Epitaph', note: 'Guest-heavy collaboration' },
+          { name: 'Converge - All We Love We Leave Behind', year: 2012, label: 'Epitaph', note: 'Critical acclaim' },
+          { name: 'Converge - The Dusk in Us', year: 2017, label: 'Epitaph', note: 'Grammy-nominated' },
+          { name: 'Converge - Bloodmoon: I', year: 2021, label: 'Epitaph', note: 'With Chelsea Wolfe' },
+          { name: 'Mutoid Man - Bleeder', year: 2015, label: 'Sargent House', note: 'Heavy rock project' },
+          { name: 'Mutoid Man - War Moans', year: 2017, label: 'Sargent House', note: 'Rock evolution' },
+          { name: 'All Pigs Must Die - God Is War', year: 2011, label: 'Southern Lord', note: 'Crust/hardcore project' }
+        ],
+        tours: [
+          { name: 'Converge World Tours', year: 'Ongoing', note: '25+ years of touring' },
+          { name: 'This Is Hardcore Fest', year: 'Multiple years', note: 'Philadelphia hardcore festival' },
+          { name: 'Roadburn Festival', year: 'Multiple years', note: 'Dutch experimental metal festival' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Ben Koller uses Tama Drums and Zildjian Cymbals, favoring a stripped-down setup that emphasizes power and response over complexity.
+
+**Current Setup:**
+- **Drums**: Tama Starclassic Performer B/B
+- **Snare**: Tama S.L.P. 14"x6.5" or similar
+- **Cymbals**: Zildjian (K and A Custom series)
+- **Hardware**: Tama Iron Cobra double pedal
+- **Sticks**: Vic Firth or Promark 5B
+- **Heads**: Evans (G2 or EC2)
+
+**Setup Philosophy:**
+- Minimal kit for maximum impact
+- Durable equipment for aggressive touring
+- Quick snare response for blast beats
+- Bright, cutting cymbals for live volume`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          '"Jane Doe" is frequently cited as one of the greatest hardcore/metalcore albums ever',
+          'Converge has been active since 1990, with Koller joining in 1999',
+          'Known for maintaining multiple active bands simultaneously',
+          'Mutoid Man provides an outlet for classic rock and metal influences',
+          'All Pigs Must Die is his crust punk/hardcore project',
+          'Has collaborated with members of Cave In, Killer Be Killed, and Chelsea Wolfe',
+          'The song "Concubine" from Jane Doe is under 1 minute but legendary',
+          'Converge celebrated 30 years as a band with the "Bloodmoon" project'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What band is Ben Koller most known for?', a: 'Ben Koller is best known as the drummer for Converge since 1999, particularly for his work on the landmark "Jane Doe" album.' },
+          { q: 'What other bands is Ben Koller in?', a: 'Ben Koller also plays in Mutoid Man, All Pigs Must Die, and has recorded with Killer Be Killed.' },
+          { q: 'What drums does Ben Koller play?', a: 'Ben Koller plays Tama Starclassic drums with Zildjian cymbals and Tama Iron Cobra pedals.' },
+          { q: 'When did Ben Koller join Converge?', a: 'Ben Koller joined Converge in 1999, replacing original drummer Damon Bellorado.' }
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Converge Official', url: 'https://convergecult.com' },
+          { name: 'Epitaph Records', url: 'https://www.epitaph.com/artists/converge' },
+          { name: 'Modern Drummer Magazine', url: 'https://www.moderndrummer.com' },
+          { name: 'Wikipedia: Converge', url: 'https://en.wikipedia.org/wiki/Converge_(band)' }
+        ]
+      }
+    }
   }
 };
 

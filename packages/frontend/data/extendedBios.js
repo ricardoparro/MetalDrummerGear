@@ -1256,7 +1256,7 @@ Standing at 6'5" (196 cm), Carey's imposing physical presence matches his powerf
         ]
       }
     }
-  }
+  },
 
   // Paul Bostaph - Slayer, Testament, Exodus (Issue #360)
   'paul-bostaph': {

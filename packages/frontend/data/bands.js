@@ -1,7 +1,7 @@
 /**
  * Band data structure for MetalForge
  * Contains band information with drummer history
- * Combined data from multiple PRs
+ * Combined data from multiple PRs (#352, #360, #349)
  */
 
 export const bands = {
@@ -10,30 +10,62 @@ export const bands = {
     name: "Metallica",
     formed: 1981,
     origin: "Los Angeles, California, USA",
-    genres: ["thrash-metal", "heavy-metal"],
+    genres: ["thrash-metal", "heavy-metal", "hard-rock"],
     status: "active",
 
     // SEO fields
-    metaTitle: "Metallica - Drummer History & Gear | MetalForge",
+    metaTitle: "Metallica - Drummer History, Gear & Legacy | MetalForge",
     metaDescription:
-      "Explore Metallica's drumming legacy with Lars Ulrich. Discover his complete gear setup, drumming style, and evolution from thrash pioneers to metal legends.",
+      "Explore Metallica's drumming legacy with Lars Ulrich. Discover his complete gear setup, drumming style, and evolution from thrash pioneers to metal legends. The Big Four of Thrash.",
     summary:
-      "Metallica, formed in 1981 in Los Angeles, is one of the most influential thrash metal bands in history. Co-founded by drummer Lars Ulrich, the band has sold over 125 million albums worldwide.",
+      "Metallica, formed in 1981 in Los Angeles, is one of the most influential and commercially successful heavy metal bands in history. Co-founded by drummer Lars Ulrich and guitarist/vocalist James Hetfield, the band pioneered thrash metal alongside Slayer, Megadeth, and Anthrax—collectively known as the 'Big Four.' Metallica has sold over 125 million albums worldwide, won 9 Grammy Awards, and been inducted into the Rock and Roll Hall of Fame.",
     keywords: [
       "metallica",
       "lars ulrich",
+      "james hetfield",
       "thrash metal",
+      "big four thrash",
       "metal drums",
       "drummer gear",
+      "master of puppets",
+      "black album",
+      "rock hall of fame",
     ],
 
-    // Drummer history
+    // Extended bio/history
+    bio: {
+      formation: `Metallica was formed in Los Angeles, California in October 1981 when Danish drummer Lars Ulrich placed a classified ad in a local newspaper seeking musicians to form a metal band. Guitarist and vocalist James Hetfield responded, and the two became the core of what would become one of the most important bands in heavy metal history.`,
+      earlyYears: `After cycling through several early members including Dave Mustaine (who would later form Megadeth), the classic lineup solidified with Kirk Hammett on lead guitar and Cliff Burton on bass. This lineup recorded the first three albums: "Kill 'Em All" (1983), "Ride the Lightning" (1984), and "Master of Puppets" (1986).`,
+      tragedy: `On September 27, 1986, during a European tour supporting "Master of Puppets," the band's tour bus crashed in Sweden. Bassist Cliff Burton was killed at age 24.`,
+      mainstreamBreakthrough: `The self-titled 1991 album (commonly called "The Black Album") represented a deliberate shift toward more accessible songwriting while maintaining heavy riffs. It has sold over 16 million copies in the US alone.`,
+      modernEra: `After the departure of Jason Newsted in 2001, Metallica returned with "St. Anger" (2003), "Death Magnetic" (2008), "Hardwired...to Self-Destruct" (2016), and "72 Seasons" (2023). Robert Trujillo has been their bassist since 2003.`,
+    },
+
+    // Drummer history with detailed info
     drummerHistory: [
       {
         drummer: "lars-ulrich",
         drummerId: 1,
+        name: "Lars Ulrich",
         period: "1981-present",
-        notes: "Co-founder",
+        notes: "Co-founder, primary drummer, band spokesman",
+        birthDate: "1963-12-26",
+        birthPlace: "Gentofte, Denmark",
+        highlights: [
+          "Co-founded Metallica with James Hetfield in 1981",
+          "First Danish-born musician inducted into Rock Hall of Fame (2009)",
+          "Pioneer of thrash metal drumming style",
+        ],
+        gear: {
+          current: {
+            drums: "Tama Starclassic Maple",
+            snare: "Tama LU1465 Signature (14x6.5 Steel)",
+            cymbals: "Zildjian A Custom series",
+            hardware: "Tama Iron Cobra 900 Power Glide",
+            sticks: "Ahead Lars Ulrich Signature (Aluminum)",
+            heads: "Remo Emperor/Ambassador",
+          },
+        },
         albums: [
           "Kill 'Em All (1983)",
           "Ride the Lightning (1984)",
@@ -45,38 +77,91 @@ export const bands = {
           "St. Anger (2003)",
           "Death Magnetic (2008)",
           "Hardwired... to Self-Destruct (2016)",
-          "72 Seasons (2023)"
+          "72 Seasons (2023)",
         ],
       },
     ],
 
-    // Related
-    relatedBands: ["slayer", "megadeth", "anthrax"],
+    // Discography highlights
+    discography: [
+      {
+        title: "Kill 'Em All",
+        year: 1983,
+        certification: "3x Platinum (US)",
+        notes: "Debut album, established thrash metal template",
+      },
+      {
+        title: "Master of Puppets",
+        year: 1986,
+        certification: "6x Platinum (US)",
+        notes: "Widely considered one of greatest metal albums ever",
+      },
+      {
+        title: "Metallica (The Black Album)",
+        year: 1991,
+        certification: "16x Platinum (US)",
+        notes: "Best-selling album, mainstream breakthrough",
+      },
+      {
+        title: "72 Seasons",
+        year: 2023,
+        certification: "Gold (US)",
+        notes: "Eleventh studio album",
+      },
+    ],
 
-    // FAQ
+    // Notable achievements
+    achievements: [
+      {
+        category: "Sales",
+        items: [
+          "Over 125 million albums sold worldwide",
+          "The Black Album: 16x Platinum in US",
+        ],
+      },
+      {
+        category: "Awards",
+        items: [
+          "9 Grammy Awards (23 nominations)",
+          "Rock and Roll Hall of Fame inductees (2009)",
+        ],
+      },
+    ],
+
+    // FAQ Schema data
     faq: [
       {
-        q: "Who is Metallica's drummer?",
-        a: "Lars Ulrich, co-founder since 1981.",
+        question: "Who is the drummer of Metallica?",
+        answer:
+          "Lars Ulrich has been the drummer and co-founder of Metallica since the band formed in 1981.",
       },
       {
-        q: "Has Metallica had other drummers?",
-        a: "No, Lars is the only drummer in their history.",
+        question: "What drum kit does Lars Ulrich use?",
+        answer:
+          "Lars Ulrich uses Tama Starclassic Maple drums with his signature Tama LU1465 steel snare drum.",
       },
       {
-        q: "What drums does Lars Ulrich play?",
-        a: "Tama Starclassic with LU1465 signature snare.",
+        question: "What is the Big Four of thrash metal?",
+        answer:
+          "The Big Four of thrash metal refers to Metallica, Slayer, Megadeth, and Anthrax.",
+      },
+      {
+        question: "How many albums has Metallica sold?",
+        answer:
+          "Metallica has sold over 125 million albums worldwide.",
       },
     ],
 
-    sameAs: [
-      "https://en.wikipedia.org/wiki/Metallica",
-      "https://www.metallica.com/",
-      "https://www.instagram.com/metallica/",
-      "https://twitter.com/Metallica",
-    ],
+    relatedBands: ["slayer", "megadeth", "anthrax", "pantera", "slipknot", "sepultura"],
     drummerIds: [1],
     associatedBrands: ["Tama", "Zildjian", "Ahead", "Remo"],
+
+    links: {
+      official: "https://www.metallica.com",
+      wikipedia: "https://en.wikipedia.org/wiki/Metallica",
+      instagram: "https://www.instagram.com/metallica",
+      twitter: "https://twitter.com/Metallica",
+    },
   },
 
   slayer: {
@@ -144,23 +229,22 @@ export const bands = {
 
     metaTitle: "Slipknot - Drummer History & Gear | MetalForge",
     metaDescription:
-      "Explore Slipknot's legendary drumming legacy from Joey Jordison to Jay Weinberg to Eloy Casagrande. Discover complete gear setups, drumming styles, and the evolution of one of metal's most iconic bands.",
+      "Explore Slipknot's legendary drumming legacy from Joey Jordison to Jay Weinberg to Eloy Casagrande.",
     summary:
-      "Slipknot, formed in 1995 in Des Moines, Iowa, revolutionized heavy metal with their aggressive sound, theatrical masks, and nine-member lineup. Known for intense drumming and chaotic live shows, they've sold over 30 million albums worldwide and won a Grammy Award.",
+      "Slipknot, formed in 1995 in Des Moines, Iowa, revolutionized heavy metal with their aggressive sound and theatrical masks.",
     keywords: [
       "slipknot",
       "joey jordison",
       "jay weinberg",
       "eloy casagrande",
       "nu metal",
-      "metal drums",
     ],
 
     history: {
       formation:
         "Slipknot was formed in Des Moines, Iowa in 1995 by percussionist Shawn Crahan, drummer Joey Jordison, and bassist Paul Gray.",
       breakthrough:
-        "Their self-titled debut album (1999) went platinum within months, driven by singles 'Wait and Bleed' and '(sic)'.",
+        "Their self-titled debut album (1999) went platinum within months.",
       evolution:
         "The band's sophomore album 'Iowa' (2001) is considered one of the heaviest albums ever recorded.",
       tragedy:
@@ -221,9 +305,9 @@ export const bands = {
 
     metaTitle: "Sepultura Drummer History & Gear | MetalForge",
     metaDescription:
-      "Explore Sepultura's complete drummer history from Igor Cavalera to Eloy Casagrande. Discover the drum kits and gear used by Brazil's legendary thrash metal pioneers.",
+      "Explore Sepultura's complete drummer history from Igor Cavalera to Eloy Casagrande.",
     summary:
-      "Sepultura is a Brazilian heavy metal band formed in 1984 in Belo Horizonte. They are considered one of the most influential bands to emerge from South America.",
+      "Sepultura is a Brazilian heavy metal band formed in 1984. One of the most influential bands from South America.",
     keywords: [
       "sepultura",
       "thrash metal",
@@ -240,7 +324,6 @@ export const bands = {
         period: "1984-2006",
         albums: [
           "Morbid Visions (1986)",
-          "Schizophrenia (1987)",
           "Beneath the Remains (1989)",
           "Arise (1991)",
           "Chaos A.D. (1993)",
@@ -286,9 +369,9 @@ export const bands = {
 
     metaTitle: "Dream Theater Drummer History & Gear | MetalForge",
     metaDescription:
-      "Explore Dream Theater's complete drummer history featuring Mike Portnoy and Mike Mangini. Discover the gear used by progressive metal's most technical drummers.",
+      "Explore Dream Theater's complete drummer history featuring Mike Portnoy and Mike Mangini.",
     summary:
-      "Dream Theater is an American progressive metal band formed in 1985 in Boston. Known for their technical proficiency and complex compositions.",
+      "Dream Theater is an American progressive metal band formed in 1985 in Boston. Known for their technical proficiency.",
     keywords: [
       "dream theater",
       "progressive metal",

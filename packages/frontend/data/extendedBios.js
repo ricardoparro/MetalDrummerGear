@@ -9,6 +9,9 @@ export const extendedBios = {
     slug: 'lars-ulrich',
     drummerId: 1,
     name: 'Lars Ulrich',
+    bands: [
+      { slug: 'metallica', period: '1981-present', role: 'Drummer, co-founder' }
+    ],
     metaTitle: 'Lars Ulrich Biography - Metallica Drummer, Gear & Career | MetalForge',
     metaDescription: 'Complete biography of Lars Ulrich, co-founder and drummer of Metallica. Explore his career from 1981 to present, drumming style, signature gear, and influence on thrash metal.',
     ogImage: '/images/drummers/lars-ulrich.webp',
@@ -119,6 +122,11 @@ Ulrich was the first Danish-born musician inducted into the Rock and Roll Hall o
     slug: 'joey-jordison',
     drummerId: 2,
     name: 'Joey Jordison',
+    bands: [
+      { slug: 'slipknot', period: '1995-2013', role: 'Drummer, founding member' },
+      { slug: 'murderdolls', period: '2002-2011', role: 'Guitar' },
+      { slug: 'sinsaenum', period: '2016-2021', role: 'Drums' }
+    ],
     metaTitle: 'Joey Jordison Biography - Slipknot Drummer Legend (1975-2021) | MetalForge',
     metaDescription: 'Complete biography of Joey Jordison, legendary Slipknot drummer. Explore his incredible career, revolutionary drumming style, rotating drum kit, and lasting influence on metal.',
     ogImage: '/images/drummers/joey-jordison.webp',
@@ -228,6 +236,12 @@ His blistering speed, technical precision, and theatrical stage presence—inclu
     slug: 'gene-hoglan',
     drummerId: 3,
     name: 'Gene Hoglan',
+    bands: [
+      { slug: 'dark-angel', period: '1984-1992', role: 'Drummer' },
+      { slug: 'death', period: '1991-1995', role: 'Drummer' },
+      { slug: 'testament', period: '2007-present', role: 'Drummer' },
+      { slug: 'dethklok', period: '2007-2014', role: 'Drummer' }
+    ],
     metaTitle: 'Gene Hoglan Biography - "The Atomic Clock" Death Metal Drummer | MetalForge',
     metaDescription: 'Complete biography of Gene Hoglan, nicknamed "The Atomic Clock" for his metronomic precision. Explore his work with Death, Testament, Dethklok, and his influence on extreme metal.',
     ogImage: '/images/drummers/gene-hoglan.webp',
@@ -339,6 +353,12 @@ Over a career spanning four decades, Hoglan has performed with over 20 major ban
     slug: 'dave-lombardo',
     drummerId: 4,
     name: 'Dave Lombardo',
+    bands: [
+      { slug: 'slayer', period: '1981-1992, 2001-2013', role: 'Drummer, founding member' },
+      { slug: 'fantomas', period: '1998-present', role: 'Drummer' },
+      { slug: 'dead-cross', period: '2017-present', role: 'Drummer' },
+      { slug: 'mr-bungle', period: '2019-present', role: 'Drummer' }
+    ],
     metaTitle: 'Dave Lombardo Biography - Slayer Drummer & Thrash Metal Pioneer | MetalForge',
     metaDescription: 'Complete biography of Dave Lombardo, Slayer\'s legendary drummer and godfather of thrash metal drumming. Explore his revolutionary style, Reign in Blood legacy, and diverse career.',
     ogImage: '/images/drummers/dave-lombardo.webp',
@@ -451,6 +471,9 @@ His work on landmark albums such as "Reign in Blood," "South of Heaven," and "Se
     slug: 'tomas-haake',
     drummerId: 5,
     name: 'Tomas Haake',
+    bands: [
+      { slug: 'meshuggah', period: '1990-present', role: 'Drummer' }
+    ],
     metaTitle: 'Tomas Haake Biography - Meshuggah Drummer & Djent Pioneer | MetalForge',
     metaDescription: 'Complete biography of Tomas Haake, Meshuggah\'s drummer and architect of the djent movement. Explore his revolutionary polyrhythmic style, the legendary "Bleed" drum part, and his influence on modern metal.',
     ogImage: '/images/drummers/tomas-haake.webp',
@@ -561,6 +584,9 @@ Haake's approach to drumming involves complex polyrhythmic patterns that create 
     slug: 'george-kollias',
     drummerId: 6,
     name: 'George Kollias',
+    bands: [
+      { slug: 'nile', period: '2004-present', role: 'Drummer' }
+    ],
     metaTitle: 'George Kollias Biography - Nile Drummer & Extreme Metal Educator | MetalForge',
     metaDescription: 'Complete biography of George Kollias, Nile\'s drummer known for extreme speed and precision. Explore his career, educational materials, signature gear, and influence on death metal drumming.',
     ogImage: '/images/drummers/george-kollias.webp',
@@ -670,6 +696,10 @@ Beyond his work with Nile, Kollias is an accomplished drum educator, having rele
     slug: 'eloy-casagrande',
     drummerId: 7,
     name: 'Eloy Casagrande',
+    bands: [
+      { slug: 'sepultura', period: '2011-2024', role: 'Drummer' },
+      { slug: 'slipknot', period: '2024-present', role: 'Drummer' }
+    ],
     metaTitle: 'Eloy Casagrande Biography - Slipknot Drummer & Brazilian Metal Prodigy | MetalForge',
     metaDescription: 'Complete biography of Eloy Casagrande, Slipknot\'s new drummer and former Sepultura member. Explore his journey from Brazilian metal prodigy to joining one of metal\'s biggest bands.',
     ogImage: '/images/drummers/eloy-casagrande.webp',
@@ -773,6 +803,11 @@ Starting drums at age 7 and joining Sepultura at just 19, Casagrande represented
     slug: 'mike-portnoy',
     drummerId: 13,
     name: 'Mike Portnoy',
+    bands: [
+      { slug: 'dream-theater', period: '1985-2010, 2023-present', role: 'Drummer, co-founder' },
+      { slug: 'winery-dogs', period: '2012-present', role: 'Drummer' },
+      { slug: 'sons-of-apollo', period: '2017-present', role: 'Drummer' }
+    ],
     metaTitle: 'Mike Portnoy Biography - Dream Theater Drummer & Progressive Metal Icon | MetalForge',
     metaDescription: 'Complete biography of Mike Portnoy, Dream Theater co-founder and progressive metal drumming legend. Explore his 30+ year career, awards, gear, and influence on modern drumming.',
     ogImage: '/images/drummers/mike-portnoy.webp',
@@ -885,6 +920,10 @@ Portnoy's technical proficiency, creative compositions, and theatrical live perf
     slug: 'danny-carey',
     drummerId: 14,
     name: 'Danny Carey',
+    bands: [
+      { slug: 'tool', period: '1990-present', role: 'Drummer' },
+      { slug: 'volto', period: '2000-present', role: 'Drummer' }
+    ],
     metaTitle: 'Danny Carey Biography - Tool Drummer & Polyrhythmic Genius | MetalForge',
     metaDescription: 'Complete biography of Danny Carey, Tool\'s legendary drummer known for complex polyrhythms, sacred geometry, and innovative drumming. Explore his career, philosophy, and gear.',
     ogImage: '/images/drummers/danny-carey.webp',
@@ -994,6 +1033,9 @@ Standing at 6'5" (196 cm), Carey is an imposing presence behind his massive Sono
     slug: 'mario-duplantier',
     drummerId: 15,
     name: 'Mario Duplantier',
+    bands: [
+      { slug: 'gojira', period: '1996-present', role: 'Drummer, co-founder' }
+    ],
     metaTitle: 'Mario Duplantier Biography - Gojira Drummer & Visual Artist | MetalForge',
     metaDescription: 'Complete biography of Mario Duplantier, Gojira\'s powerful drummer known for tribal rhythms and visual art. Explore his career with Gojira, unique style, and creative contributions.',
     ogImage: '/images/drummers/mario-duplantier.webp',

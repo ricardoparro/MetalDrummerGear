@@ -11724,6 +11724,7 @@ function AppContent() {
         setGenreSlug(null);
         setShowGenresList(false);
         setShowKitBuilder(false);
+        setShowBpmTap(false);
         setShowBirthdayCalendar(false);
         setShowGearIndex(false);
         setShowGearCategory(false);

@@ -1890,6 +1890,587 @@ Van Poederooyen's versatile drumming has adapted to Townsend's constantly evolvi
         ]
       }
     }
+  },
+
+  // Shannon Larkin - Godsmack (Issue #330 - Batch 5)
+  'shannon-larkin': {
+    slug: 'shannon-larkin',
+    drummerId: 18,
+    name: 'Shannon Larkin',
+    bands: [
+      { slug: 'godsmack', period: '2002-present', role: 'Drummer' },
+      { slug: 'ugly-kid-joe', period: '1991-1997', role: 'Drummer' },
+      { slug: 'wrathchild-america', period: '1989-1991', role: 'Drummer' },
+      { slug: 'another-animal', period: '2007-2008', role: 'Drummer, vocalist' }
+    ],
+    metaTitle: 'Shannon Larkin Biography - Godsmack Drummer & Hard Rock Legend | MetalForge',
+    metaDescription: 'Complete biography of Shannon Larkin, Godsmack\'s powerful drummer since 2002. Explore his journey from Ugly Kid Joe to becoming one of modern hard rock\'s most respected drummers.',
+    ogImage: '/images/drummers/shannon-larkin.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Shannon Larkin (born April 24, 1967, in Baltimore, Maryland) is an American drummer best known as the drummer for multi-platinum hard rock band Godsmack since 2002. Before Godsmack, Larkin made his mark with Ugly Kid Joe, known for their hit "Everything About You," and thrash band Wrathchild America.
+
+Known for his powerful, groove-oriented drumming style and dynamic stage presence, Larkin has become one of the most recognizable drummers in modern hard rock. His playing combines hard-hitting power with musical sensitivity, perfectly complementing Godsmack's heavy yet accessible sound.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1989', event: 'Joined Wrathchild America, entering the professional metal scene' },
+          { year: '1991', event: 'Joined Ugly Kid Joe; recorded "America\'s Least Wanted"' },
+          { year: '1992', event: '"Everything About You" becomes worldwide hit with Ugly Kid Joe' },
+          { year: '1995', event: 'Released "Menace to Sobriety" with Ugly Kid Joe' },
+          { year: '2002', event: 'Joined Godsmack, replacing Tommy Stewart' },
+          { year: '2003', event: 'First Godsmack album "Faceless" peaks at #1 on Billboard' },
+          { year: '2006', event: 'Released "IV" with Godsmack, achieving platinum status' },
+          { year: '2007', event: 'Formed side project Another Animal with Godsmack\'s Robbie Merrill' },
+          { year: '2014', event: 'Released "1000hp" with Godsmack' },
+          { year: '2018', event: 'Released "When Legends Rise," Godsmack\'s seventh studio album' },
+          { year: '2023', event: 'Released "Lighting Up the Sky," announced as Godsmack\'s final album' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Shannon Larkin's drumming style is characterized by powerful grooves, dynamic control, and a hard-hitting approach that serves the song. He combines rock and metal influences with a deep pocket that makes Godsmack's music instantly recognizable.
+
+**Key Influences:**
+- **John Bonham (Led Zeppelin)**: Powerful groove and feel
+- **Neil Peart (Rush)**: Technical precision within rock context
+- **Tommy Lee (Mötley Crüe)**: Showmanship and hard rock energy
+- **Alex Van Halen**: Hard rock drumming foundation
+
+**Signature Techniques:**
+- Deep pocket playing with powerful backbeat
+- Dynamic control from quiet verses to explosive choruses
+- Effective use of tom patterns and fills
+- Tribal-influenced rhythms in certain songs
+- Consistency and reliability night after night`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Ugly Kid Joe - America\'s Least Wanted', year: 1992, label: 'Stardog/Mercury', note: 'Multi-platinum debut' },
+          { name: 'Ugly Kid Joe - Menace to Sobriety', year: 1995, label: 'Mercury', note: 'Sophomore effort' },
+          { name: 'Godsmack - Faceless', year: 2003, label: 'Universal', note: '#1 Billboard debut' },
+          { name: 'Godsmack - IV', year: 2006, label: 'Universal', note: 'Platinum success' },
+          { name: 'Another Animal - Another Animal', year: 2007, label: 'Republic', note: 'Side project' },
+          { name: 'Godsmack - The Oracle', year: 2010, label: 'Universal', note: '#1 debut' },
+          { name: 'Godsmack - 1000hp', year: 2014, label: 'Republic', note: 'Continued success' },
+          { name: 'Godsmack - When Legends Rise', year: 2018, label: 'BMG', note: 'Modern evolution' },
+          { name: 'Godsmack - Lighting Up the Sky', year: 2023, label: 'BMG', note: 'Final album' }
+        ],
+        tours: [
+          { name: 'Faceless Tour', year: '2003-2004', note: 'First major Godsmack touring cycle' },
+          { name: 'Rockstar Mayhem Festival', year: '2011', note: 'Co-headliner' },
+          { name: 'Lighting Up the Sky Tour', year: '2023-2024', note: 'Final Godsmack tour' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Shannon Larkin is a long-time Ddrum endorser, having helped design signature products with the brand. His setup is built for power and durability on the road.
+
+**Current Setup:**
+- **Drums**: Ddrum Reflex Series (custom finishes)
+- **Snare**: Ddrum Shannon Larkin Signature 14"x6.5"
+- **Cymbals**: Sabian AAX and HHX series (14" Stage Hi-Hats, crashes, 21" Raw Bell Dry Ride)
+- **Hardware**: DW 9000 Series double pedal
+- **Throne**: Pork Pie Big Boy
+- **Sticks**: Vater Shannon Larkin Signature
+- **Heads**: Evans (G2 Coated/EC2)
+
+**Gear Philosophy:**
+- Prefers durable, road-worthy equipment
+- Signature snare designed for powerful, cutting sound
+- Uses relatively simple setup for reliability
+- Focus on sound quality over visual complexity`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Has been with Godsmack for over 20 years, longer than original drummer Tommy Stewart',
+          '"Everything About You" by Ugly Kid Joe became an unexpected worldwide hit in 1992',
+          'Formed Another Animal as a side project, singing lead vocals and playing drums',
+          'Known for his friendly, down-to-earth personality despite rock star status',
+          'Grew up in Baltimore, developing his style in the East Coast metal scene',
+          'Has cited John Bonham as his primary influence',
+          'Godsmack\'s drum-off sequences with Sully Erna are fan favorites',
+          '"Lighting Up the Sky" was announced as Godsmack\'s final studio album',
+          'Has remained remarkably consistent throughout his 30+ year career'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Ddrum Artist Profile', url: 'https://www.ddrum.com' },
+          { name: 'Sabian Artist Profile', url: 'https://sabian.com' },
+          { name: 'Modern Drummer Magazine', url: 'https://www.moderndrummer.com' },
+          { name: 'Wikipedia: Shannon Larkin', url: 'https://en.wikipedia.org/wiki/Shannon_Larkin' }
+        ]
+      }
+    }
+  },
+
+  // Raymond Herrera - Fear Factory (Issue #330 - Batch 5)
+  'raymond-herrera': {
+    slug: 'raymond-herrera',
+    drummerId: 19,
+    name: 'Raymond Herrera',
+    bands: [
+      { slug: 'fear-factory', period: '1990-2009', role: 'Drummer, founding member' },
+      { slug: 'brujeria', period: '1989-present', role: 'Drummer' },
+      { slug: 'arkaea', period: '2008-2011', role: 'Drummer' }
+    ],
+    metaTitle: 'Raymond Herrera Biography - Fear Factory Drummer & Industrial Metal Pioneer | MetalForge',
+    metaDescription: 'Complete biography of Raymond Herrera, founding Fear Factory drummer who pioneered industrial metal drumming. Explore his machine-like precision, triggering techniques, and influence.',
+    ogImage: '/images/drummers/raymond-herrera.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Raymond Herrera (born December 18, 1972, in Los Angeles, California) is an American drummer who co-founded influential industrial metal band Fear Factory in 1990. Known for his machine-like precision and pioneering use of drum triggers, Herrera helped define the sound of industrial metal drumming.
+
+His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obsolete" (1998) combined relentless double bass patterns with mechanical precision, creating the template for countless industrial and groove metal bands. Though he departed Fear Factory in 2009, his influence on modern metal drumming remains significant.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1989', event: 'Joined Brujeria as one of founding members' },
+          { year: '1990', event: 'Co-founded Fear Factory in Los Angeles' },
+          { year: '1992', event: 'Released Fear Factory debut "Soul of a New Machine"' },
+          { year: '1995', event: 'Released "Demanufacture," landmark industrial metal album' },
+          { year: '1998', event: 'Released "Obsolete," Fear Factory\'s commercial peak' },
+          { year: '2001', event: 'Released "Digimortal," featuring hit "Linchpin"' },
+          { year: '2004', event: 'Released "Archetype" after Fear Factory reunion' },
+          { year: '2005', event: 'Released "Transgression" with Fear Factory' },
+          { year: '2008', event: 'Formed Arkaea with Christian Olde Wolbers after Fear Factory split' },
+          { year: '2009', event: 'Officially departed Fear Factory' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Raymond Herrera's drumming style revolutionized industrial metal with its combination of mechanical precision and brutal power. His use of drum triggers to achieve a processed, machine-like sound became a hallmark of Fear Factory's production.
+
+**Key Influences:**
+- **Dave Lombardo (Slayer)**: Thrash metal foundation
+- **Industrial Music**: Electronic precision applied to metal
+- **Discharge/Hardcore Punk**: Relentless rhythmic attack
+- **Godflesh**: Early industrial metal template
+
+**Signature Techniques:**
+- Machine-gun double bass patterns at extreme tempos
+- Precise use of drum triggers for mechanical sound
+- Syncopated groove patterns between blast sections
+- Integration of electronic elements with acoustic drums
+- "Stop-start" rhythmic patterns that defined Fear Factory`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Fear Factory - Soul of a New Machine', year: 1992, label: 'Roadrunner', note: 'Genre-defining debut' },
+          { name: 'Fear Factory - Demanufacture', year: 1995, label: 'Roadrunner', note: 'Industrial metal landmark' },
+          { name: 'Fear Factory - Obsolete', year: 1998, label: 'Roadrunner', note: 'Commercial peak' },
+          { name: 'Fear Factory - Digimortal', year: 2001, label: 'Roadrunner', note: 'Hit "Linchpin"' },
+          { name: 'Fear Factory - Archetype', year: 2004, label: 'Liquid 8', note: 'Return to form' },
+          { name: 'Brujeria - Raza Odiada', year: 1995, label: 'Roadrunner', note: 'Cult classic' },
+          { name: 'Arkaea - Years in the Darkness', year: 2009, label: 'E1 Music', note: 'Post-Fear Factory project' }
+        ],
+        tours: [
+          { name: 'Ozzfest', year: '1997, 1999, 2001, 2006', note: 'Multiple appearances' },
+          { name: 'Fear Factory World Tours', year: '1992-2009', note: 'Extensive worldwide touring' },
+          { name: 'Demanufacture Anniversary Tour', year: '2005', note: 'Classic album tour' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Raymond Herrera was a Pearl Drums endorser during his Fear Factory years, developing a setup optimized for triggered, mechanical precision at extreme tempos.
+
+**Classic Setup (Fear Factory Era):**
+- **Drums**: Pearl Reference Series (with extensive triggering)
+- **Snare**: Pearl Custom 14"x6.5" with trigger
+- **Cymbals**: Zildjian (Z Custom for durability)
+- **Hardware**: Pearl Eliminator Double Pedal (later models)
+- **Triggers**: ddrum/Roland triggers throughout kit
+- **Sticks**: Vater Power 5B
+- **Heads**: Remo (Pinstripe/Ambassador)
+
+**Technical Setup:**
+- Heavy use of triggers for consistent sound
+- Module triggering for electronic integration
+- Setup designed for speed and consistency
+- Focus on reliability for grueling tour schedules`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Co-founded Fear Factory in LA\'s early 90s death/grind scene',
+          '"Demanufacture" is considered one of the most influential industrial metal albums',
+          'His triggered drum sound became a template for countless bands',
+          'Also a founding member of Brujeria, the controversial Spanish-language extreme metal band',
+          'Was capable of sustained double bass speeds exceeding 200 BPM',
+          'Left Fear Factory due to ongoing legal disputes with Burton C. Bell and Dino Cazares',
+          'His drumming on "Replica" is considered a benchmark for industrial metal drumming',
+          'Arkaea continued the Fear Factory sound but never achieved the same success',
+          'Despite departure, his influence is heard in countless modern metal bands'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+          { name: 'Zildjian', url: 'https://zildjian.com' },
+          { name: 'Fear Factory Official', url: 'https://www.fearfactory.com' },
+          { name: 'Wikipedia: Raymond Herrera', url: 'https://en.wikipedia.org/wiki/Raymond_Herrera' }
+        ]
+      }
+    }
+  },
+
+  // Morgan Ågren - Devin Townsend, Frank Zappa (Issue #330 - Batch 5)
+  'morgan-agren': {
+    slug: 'morgan-agren',
+    drummerId: 20,
+    name: 'Morgan Ågren',
+    bands: [
+      { slug: 'devin-townsend-project', period: '2012-2016', role: 'Drummer' },
+      { slug: 'frank-zappa', period: '1988', role: 'Touring drummer' },
+      { slug: 'mats-morgan-band', period: '1981-present', role: 'Drummer, co-founder' },
+      { slug: 'kaipa', period: '2002-2005', role: 'Drummer' }
+    ],
+    metaTitle: 'Morgan Ågren Biography - Devin Townsend Drummer & Prog Virtuoso | MetalForge',
+    metaDescription: 'Complete biography of Morgan Ågren, Swedish drum virtuoso known for work with Devin Townsend and Frank Zappa. Explore his remarkable technique, jazz fusion background, and influence.',
+    ogImage: '/images/drummers/morgan-agren.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Morgan Ågren (born November 4, 1967, in Umeå, Sweden) is a Swedish drummer and multi-instrumentalist renowned for his extraordinary technical ability and musical versatility. A child prodigy who was performing professionally by age 13, Ågren gained international recognition for his work with Frank Zappa's band in 1988 and later with Devin Townsend Project.
+
+Ågren's drumming combines jazz fusion sophistication with rock power, making him one of the most technically accomplished drummers in progressive music. His work with the Mats/Morgan Band alongside keyboardist Mats Öberg showcases his incredible improvisational abilities and compositional skills.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1981', event: 'Formed Mats/Morgan Band with Mats Öberg at age 14' },
+          { year: '1988', event: 'Toured with Frank Zappa\'s band, hand-picked by Zappa himself' },
+          { year: '1991', event: 'Released first Mats/Morgan Band album' },
+          { year: '2002', event: 'Joined Swedish progressive band Kaipa' },
+          { year: '2005', event: 'Released solo album "Morgan Ågren\'s Conundrum"' },
+          { year: '2012', event: 'Joined Devin Townsend Project for "Epicloud" album' },
+          { year: '2014', event: 'Recorded "Z²" with Devin Townsend, including Ziltoid material' },
+          { year: '2016', event: 'Performed on "Transcendence" with Devin Townsend Project' },
+          { year: '2019', event: 'Continued session work and Mats/Morgan Band activities' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Morgan Ågren's drumming style blends jazz fusion complexity with rock intensity. His technique is remarkable, combining incredible independence, odd-time signature mastery, and improvisational brilliance. He approaches drums as a melodic instrument, capable of "singing" through his kit.
+
+**Key Influences:**
+- **Terry Bozzio**: Zappa-era complexity and technique
+- **Vinnie Colaiuta**: Technical precision and versatility
+- **Tony Williams**: Jazz fusion foundation
+- **Frank Zappa**: Compositional complexity and artistic vision
+
+**Signature Techniques:**
+- Extreme four-limb independence
+- Fluid navigation of complex odd time signatures
+- Jazz-influenced touch and dynamics within rock
+- Melodic approach to drum kit
+- Ability to follow and complement complex compositions`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Mats/Morgan Band - Heat Death', year: 2009, label: 'Cuneiform', note: 'Progressive fusion showcase' },
+          { name: 'Devin Townsend Project - Epicloud', year: 2012, label: 'HevyDevy', note: 'First DTP album' },
+          { name: 'Devin Townsend Project - Z²', year: 2014, label: 'HevyDevy', note: 'Double album epic' },
+          { name: 'Devin Townsend Project - Transcendence', year: 2016, label: 'HevyDevy', note: 'Final DTP album' },
+          { name: 'Morgan Ågren\'s Conundrum', year: 2005, label: 'Mascot', note: 'Solo showcase' },
+          { name: 'Kaipa - Keyholder', year: 2003, label: 'Inside Out', note: 'Swedish prog' }
+        ],
+        tours: [
+          { name: 'Frank Zappa Tour', year: '1988', note: 'Touring with Zappa\'s band' },
+          { name: 'Devin Townsend Project Tours', year: '2012-2016', note: 'Multiple world tours' },
+          { name: 'Mats/Morgan European Tours', year: '1991-present', note: 'Ongoing performances' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Morgan Ågren uses Sonor drums and Meinl cymbals, choosing gear that allows for dynamic expression across his diverse musical contexts.
+
+**Current Setup:**
+- **Drums**: Sonor SQ2 Beech (various configurations)
+- **Snare**: Sonor Designer 14"x5" or 14"x6"
+- **Cymbals**: Meinl Byzance series (14" Sand Hi-Hats, various Byzance crashes, 22" Byzance Traditional Ride)
+- **Hardware**: Sonor hardware; DW pedals
+- **Sticks**: Vic Firth (various models)
+- **Heads**: Remo (Ambassador/Emperor)
+
+**Setup Philosophy:**
+- Versatile configuration for different musical contexts
+- Focus on dynamics and expression
+- Quality instruments that respond to subtle playing
+- Customized to each project's needs`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Was personally selected by Frank Zappa to tour with his band in 1988',
+          'Started playing professionally at age 13, a genuine prodigy',
+          'Has collaborated with Mats Öberg for over 40 years in Mats/Morgan Band',
+          'Devin Townsend specifically sought him out for his complex compositions',
+          'Is also an accomplished composer and multi-instrumentalist',
+          'His technique has been studied by drummers worldwide',
+          'Known for maintaining a humble personality despite virtuosic abilities',
+          'Has released multiple solo albums showcasing compositional skills',
+          'Continues to push boundaries well into his 50s'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Sonor Drums', url: 'https://www.sonor.com' },
+          { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+          { name: 'Devin Townsend Official', url: 'https://www.devintownsend.com' },
+          { name: 'Wikipedia: Morgan Ågren', url: 'https://en.wikipedia.org/wiki/Morgan_%C3%85gren' }
+        ]
+      }
+    }
+  },
+
+  // Igor Cavalera - Sepultura (Issue #330 - Batch 5)
+  'igor-cavalera': {
+    slug: 'igor-cavalera',
+    drummerId: 21,
+    name: 'Igor Cavalera',
+    bands: [
+      { slug: 'sepultura', period: '1984-2006', role: 'Drummer, co-founder' },
+      { slug: 'cavalera-conspiracy', period: '2007-present', role: 'Drummer, co-founder' },
+      { slug: 'mixhell', period: '2007-present', role: 'DJ, Producer' },
+      { slug: 'soulwax', period: '2010-present', role: 'Drummer (touring)' }
+    ],
+    metaTitle: 'Igor Cavalera Biography - Sepultura Drummer & Tribal Metal Pioneer | MetalForge',
+    metaDescription: 'Complete biography of Igor Cavalera, legendary Sepultura co-founder who pioneered tribal metal drumming. Explore his revolutionary style, Brazilian percussion fusion, and lasting influence.',
+    ogImage: '/images/drummers/igor-cavalera.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Igor Cavalera (born September 4, 1970, in Belo Horizonte, Brazil) is a Brazilian drummer, DJ, and producer who co-founded the legendary thrash metal band Sepultura in 1984 alongside his brother Max Cavalera. One of the most influential drummers in metal history, Igor pioneered the fusion of Brazilian tribal percussion with extreme metal.
+
+His innovative drumming on albums like "Arise," "Chaos A.D.," and "Roots" helped define the sound of groove metal and nu-metal. After leaving Sepultura in 2006, Igor reunited with Max in Cavalera Conspiracy and expanded into electronic music with Mixhell. His influence can be heard in countless bands that followed.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1984', event: 'Co-founded Sepultura with brother Max in Belo Horizonte, Brazil' },
+          { year: '1986', event: 'Released debut album "Morbid Visions"' },
+          { year: '1989', event: 'Released "Beneath the Remains," international breakthrough' },
+          { year: '1991', event: 'Released "Arise," establishing Sepultura as global thrash leaders' },
+          { year: '1993', event: 'Released "Chaos A.D.," pioneering groove metal with tribal elements' },
+          { year: '1996', event: 'Released "Roots," landmark fusion of metal and Brazilian percussion' },
+          { year: '1998', event: 'Released "Against" with Andreas Kisser and new vocalist Derrick Green' },
+          { year: '2006', event: 'Left Sepultura; formed Cavalera Conspiracy with Max' },
+          { year: '2008', event: 'Released first Cavalera Conspiracy album "Inflikted"' },
+          { year: '2017', event: 'Cavalera Conspiracy released "Psychosis"' },
+          { year: '2024', event: 'Sepultura embarks on final farewell tour (without Igor)' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Igor Cavalera's drumming style revolutionized metal by incorporating Brazilian tribal percussion, Afro-Brazilian rhythms, and world music elements into thrash and groove metal. His approach created a template that influenced nu-metal, groove metal, and countless bands worldwide.
+
+**Key Influences:**
+- **Dave Lombardo (Slayer)**: Thrash metal foundation
+- **Brazilian Percussion**: Tribal rhythms, batucada, candomblé rhythms
+- **Carlinhos Brown**: Brazilian percussionist who collaborated on "Roots"
+- **African and World Percussion**: Polyrhythmic concepts
+
+**Signature Techniques:**
+- Integration of tribal percussion instruments (atabaques, surdo, caixas)
+- Polyrhythmic patterns fusing metal with Brazilian rhythms
+- Powerful, driving groove metal beats
+- Creative use of toms for tribal feel
+- Dynamic range from blast beats to sparse tribal sections`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Sepultura - Morbid Visions', year: 1986, label: 'Cogumelo', note: 'Raw debut' },
+          { name: 'Sepultura - Beneath the Remains', year: 1989, label: 'Roadrunner', note: 'Thrash masterpiece' },
+          { name: 'Sepultura - Arise', year: 1991, label: 'Roadrunner', note: 'Global breakthrough' },
+          { name: 'Sepultura - Chaos A.D.', year: 1993, label: 'Roadrunner', note: 'Groove metal pioneer' },
+          { name: 'Sepultura - Roots', year: 1996, label: 'Roadrunner', note: 'Landmark tribal metal fusion' },
+          { name: 'Cavalera Conspiracy - Inflikted', year: 2008, label: 'Roadrunner', note: 'Cavalera brothers reunited' },
+          { name: 'Cavalera Conspiracy - Psychosis', year: 2017, label: 'Napalm', note: 'Return to brutality' }
+        ],
+        tours: [
+          { name: 'Arise Tour', year: '1991-1992', note: 'Global headlining' },
+          { name: 'Roots World Tour', year: '1996-1997', note: 'With Brazilian percussionists' },
+          { name: 'Ozzfest', year: '1996, 1998', note: 'Festival appearances' },
+          { name: 'Cavalera Conspiracy Tours', year: '2008-present', note: 'Ongoing touring' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Igor Cavalera has used various drum brands throughout his career, including Pearl and Tama. His setup often includes traditional Brazilian percussion instruments alongside standard metal drums.
+
+**Classic Setup (Sepultura Era):**
+- **Drums**: Pearl Masters or Tama Starclassic (configurations varied)
+- **Snare**: Various 14"x6.5" snares (Pearl, Tama)
+- **Cymbals**: Paiste (RUDE series for durability)
+- **Hardware**: Tama Iron Cobra or Pearl Eliminator double pedals
+- **Additional Percussion**: Atabaques, surdo, timbales, tribal percussion
+- **Sticks**: Promark (various models)
+- **Heads**: Remo
+
+**Unique Elements:**
+- Integration of Brazilian tribal drums into metal kit
+- Multiple percussion setups for live performances
+- Custom configurations for "Roots" material
+- Focus on both metal power and world music textures`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Started Sepultura at age 14 with brother Max',
+          '"Roots" featured collaboration with Brazilian percussion group Carlinhos Brown\'s group',
+          'The "Roots" album was partially recorded with the Xavante tribe in Brazil',
+          'His tribal drumming approach influenced nu-metal bands like Korn and Soulfly',
+          'Left Sepultura due to management disputes, not musical differences',
+          'Reunited with Max for Cavalera Conspiracy in 2007',
+          'Has expanded into electronic music as DJ and producer with Mixhell',
+          'His wife Laima Leyton is his partner in Mixhell',
+          'Toured with Soulwax as their drummer for electronic/rock performances',
+          'Considered one of the most innovative drummers in metal history'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Cavalera Conspiracy Official', url: 'https://www.cavalera.net' },
+          { name: 'Paiste', url: 'https://www.paiste.com' },
+          { name: 'Modern Drummer Magazine', url: 'https://www.moderndrummer.com' },
+          { name: 'Wikipedia: Igor Cavalera', url: 'https://en.wikipedia.org/wiki/Igor_Cavalera' }
+        ]
+      }
+    }
+  },
+
+  // Bill Ward - Black Sabbath (Issue #330 - Batch 5)
+  'bill-ward': {
+    slug: 'bill-ward',
+    drummerId: 22,
+    name: 'Bill Ward',
+    bands: [
+      { slug: 'black-sabbath', period: '1968-1980, 1983-1984, 1997-1998, 2011-2012', role: 'Drummer, co-founder' },
+      { slug: 'solo', period: '1990-present', role: 'Solo artist' }
+    ],
+    metaTitle: 'Bill Ward Biography - Black Sabbath Drummer & Heavy Metal Pioneer | MetalForge',
+    metaDescription: 'Complete biography of Bill Ward, founding Black Sabbath drummer who pioneered heavy metal drumming. Explore his jazz-influenced style, classic albums, and enduring influence on metal.',
+    ogImage: '/images/drummers/bill-ward.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Bill Ward (born William Thomas Ward; May 5, 1948, in Aston, Birmingham, England) is an English drummer, singer, and songwriter who co-founded Black Sabbath in 1968 alongside Tony Iommi, Geezer Butler, and Ozzy Osbourne. As one of the originators of heavy metal music, Ward helped create the template for heavy rock drumming.
+
+Ward's drumming style combined jazz influences with proto-metal power, creating a unique approach that emphasized swing and dynamics rather than rigid heaviness. His work on classic albums like "Paranoid," "Master of Reality," and "Vol. 4" established drumming patterns that influenced generations of metal drummers. Beyond Sabbath, Ward has released solo albums showcasing his vocals and songwriting.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1968', event: 'Co-founded Black Sabbath (initially called Earth) in Birmingham' },
+          { year: '1970', event: 'Released "Black Sabbath" debut album, creating heavy metal' },
+          { year: '1970', event: 'Released "Paranoid," featuring iconic songs "War Pigs" and "Iron Man"' },
+          { year: '1971', event: 'Released "Master of Reality," heavier production' },
+          { year: '1972', event: 'Released "Vol. 4," showcasing expanded musical range' },
+          { year: '1973', event: 'Released "Sabbath Bloody Sabbath," critical acclaim' },
+          { year: '1980', event: 'First departure from Black Sabbath due to health issues' },
+          { year: '1983', event: 'Brief reunion with Sabbath for "Born Again" tour' },
+          { year: '1997', event: 'Reunited with original lineup for Ozzfest appearances' },
+          { year: '2006', event: 'Black Sabbath inducted into Rock and Roll Hall of Fame' },
+          { year: '2012', event: 'Did not participate in "13" album due to contract disputes' },
+          { year: '2017', event: 'Black Sabbath plays final show (without Ward)' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Bill Ward's drumming style is characterized by jazz-influenced swing, dynamic range, and a loose, organic feel that set him apart from the more rigid rock drummers of his era. His approach prioritized groove and musicality over technical showmanship.
+
+**Key Influences:**
+- **Gene Krupa**: Jazz drumming and showmanship
+- **Buddy Rich**: Technical precision and power
+- **Joe Morello**: Jazz timing and dynamics
+- **Big band swing**: Rhythmic feel and dynamic control
+
+**Signature Techniques:**
+- Jazz-influenced swing feel applied to heavy rock
+- Dynamic use of hi-hats and ride cymbal
+- Powerful yet musical fills
+- Left-handed playing on right-handed kit (open-handed)
+- Creative use of space and rests
+- Integration of triplet feels into heavy rock patterns`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Black Sabbath', year: 1970, label: 'Vertigo', note: 'Birth of heavy metal' },
+          { name: 'Paranoid', year: 1970, label: 'Vertigo', note: 'Defining metal album' },
+          { name: 'Master of Reality', year: 1971, label: 'Vertigo', note: 'Heavier production' },
+          { name: 'Vol. 4', year: 1972, label: 'Vertigo', note: 'Expanded musical range' },
+          { name: 'Sabbath Bloody Sabbath', year: 1973, label: 'Vertigo', note: 'Progressive elements' },
+          { name: 'Sabotage', year: 1975, label: 'Vertigo', note: 'Complex arrangements' },
+          { name: 'Technical Ecstasy', year: 1976, label: 'Vertigo', note: 'Experimental era' },
+          { name: 'Never Say Die!', year: 1978, label: 'Vertigo', note: 'Final original era album' },
+          { name: 'Bill Ward - Ward One: Along the Way', year: 1990, label: 'Chameleon', note: 'Solo debut' }
+        ],
+        tours: [
+          { name: 'Paranoid World Tour', year: '1970-1971', note: 'Establishing metal live' },
+          { name: 'Vol. 4 Tour', year: '1972-1973', note: 'Peak touring era' },
+          { name: 'Ozzfest Reunion', year: '1997, 1999, 2001, 2004, 2005', note: 'Original lineup reunions' },
+          { name: 'The End Tour', year: '2016-2017', note: 'Final Sabbath tour (without Ward)' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Bill Ward used various drum brands throughout his career, most notably Ludwig and Slingerland during Black Sabbath's classic era. His setup was relatively simple, emphasizing sound quality over complexity.
+
+**Classic Setup (1970s Peak Era):**
+- **Drums**: Ludwig Vistalite or Standard Maple (clear/natural finishes)
+- **Snare**: Ludwig Supraphonic 14"x6.5" (400 series)
+- **Cymbals**: Paiste Giant Beat and 2002 series (large sizes: 18"-22" crashes, 24" ride)
+- **Hardware**: Ludwig Atlas or similar era hardware
+- **Sticks**: Various 2B or 5B sizes
+- **Heads**: Remo (Ambassador/Emperor)
+
+**Notable Gear Choices:**
+- Preferred large cymbals for washier, more musical sound
+- Simple four-piece or five-piece configurations
+- Ludwig Supraphonic snare became signature sound
+- Open-handed playing despite right-handed kit setup`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'One of the four co-founders of heavy metal music with Black Sabbath',
+          'Plays open-handed despite using a right-handed drum setup',
+          'Struggled with alcoholism and health issues throughout career',
+          'His jazz influences set him apart from later metal drummers',
+          'Did not participate in "13" album (2013) due to contract disputes',
+          'Known for catching fire during a prank on tour (suffered burns)',
+          'Has released solo albums showcasing his singing and songwriting',
+          'Inducted into Rock and Roll Hall of Fame with Black Sabbath in 2006',
+          'The song "Rat Salad" features one of early metal\'s iconic drum solos',
+          'His drumming on "Iron Man" and "War Pigs" defined heavy metal drumming'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Rock and Roll Hall of Fame', url: 'https://www.rockhall.com/inductees/black-sabbath' },
+          { name: 'Ludwig Drums', url: 'https://www.ludwig-drums.com' },
+          { name: 'Modern Drummer Magazine', url: 'https://www.moderndrummer.com' },
+          { name: 'Wikipedia: Bill Ward', url: 'https://en.wikipedia.org/wiki/Bill_Ward_(musician)' }
+        ]
+      }
+    }
   }
 };
 

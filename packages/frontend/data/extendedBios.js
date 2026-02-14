@@ -7903,6 +7903,581 @@ Beyond Converge, Koller maintains an impressive roster of projects including Mut
         ]
       }
     }
+  },
+
+  // Pete Sandoval - Morbid Angel, Terrorizer (Issue #329 - Batch 4)
+  'pete-sandoval': {
+    slug: 'pete-sandoval',
+    drummerId: 18,
+    name: 'Pete Sandoval',
+    bands: [
+      { slug: 'morbid-angel', period: '1988-2013', role: 'Drummer' },
+      { slug: 'terrorizer', period: '1986-1989, 2005-present', role: 'Drummer, co-founder' },
+      { slug: 'i-am-morbid', period: '2022-present', role: 'Drummer' }
+    ],
+    metaTitle: 'Pete Sandoval Biography - Morbid Angel Drummer & Blast Beat Pioneer | MetalForge',
+    metaDescription: 'Complete biography of Pete Sandoval, Morbid Angel\'s legendary drummer and pioneer of extreme metal drumming. Explore his career, gravity blast technique, and influence on death metal.',
+    ogImage: '/images/drummers/pete-sandoval.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Pedro Rigoberto "Pete" Sandoval (born May 21, 1964, in Santa Ana, El Salvador) is a Salvadoran-American drummer widely regarded as one of the most influential figures in extreme metal. Known by his nicknames "Commando" and "Pete the Feet," Sandoval's work with Morbid Angel and Terrorizer helped define the sound of death metal and grindcore drumming.
+
+According to AllMusic's Jason Birchmeier, Sandoval "challenges one's perception of how fast a drummer can possibly drum." His pioneering blast beat technique, incredible speed, and relentless work ethic established the template that countless extreme metal drummers have followed. His work on Morbid Angel's "Altars of Madness" (1989) remains a benchmark for death metal drumming.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1986', event: 'Co-founded Terrorizer in Los Angeles, developing early grindcore drumming style' },
+          { year: '1988', event: 'Joined Morbid Angel, replacing original drummer' },
+          { year: '1989', event: 'Recorded "Altars of Madness" with Morbid Angel, revolutionizing death metal drumming' },
+          { year: '1989', event: 'Recorded Terrorizer\'s "World Downfall," a grindcore landmark' },
+          { year: '1991', event: 'Released "Blessed Are the Sick" with Morbid Angel' },
+          { year: '1993', event: 'Released "Covenant" with Morbid Angel, reaching Billboard Top 100' },
+          { year: '2000', event: 'Released "Gateways to Annihilation" with Morbid Angel' },
+          { year: '2006', event: 'Terrorizer reunited; released "Darker Days Ahead"' },
+          { year: '2010', event: 'Underwent spinal disc surgery, temporarily leaving Morbid Angel' },
+          { year: '2013', event: 'Left Morbid Angel permanently' },
+          { year: '2018', event: 'Released "Caustic Attack" with Terrorizer' },
+          { year: '2022', event: 'Reunited with David Vincent in I Am Morbid' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Pete Sandoval's drumming style is characterized by extreme speed, relentless endurance, and pioneering blast beat techniques. His approach to double bass drumming set new standards for what was physically possible, inspiring generations of extreme metal drummers.
+
+**Key Influences:**
+- **Clive Burr (Iron Maiden)**: "A huge influence on my first year of drumming"
+- **Dave Lombardo (Slayer)**: Thrash metal speed and intensity
+- **Gene Hoglan (Death)**: Technical precision
+- **Neil Peart (Rush)**: Progressive complexity
+
+**Signature Techniques:**
+- Pioneering gravity blast technique (one-handed blast beats)
+- Sustained blast beats at extreme tempos with unmatched endurance
+- Powerful, driving double bass patterns learned specifically for Morbid Angel
+- Precision at speeds that seemed impossible before his emergence
+- Seamless transitions between blast sections and groove passages`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Terrorizer - World Downfall', year: 1989, label: 'Earache', note: 'Grindcore essential' },
+          { name: 'Morbid Angel - Altars of Madness', year: 1989, label: 'Earache', note: 'Death metal revolution' },
+          { name: 'Morbid Angel - Blessed Are the Sick', year: 1991, label: 'Earache', note: 'Expanded sonic palette' },
+          { name: 'Morbid Angel - Covenant', year: 1993, label: 'Giant/Warner', note: 'Commercial peak' },
+          { name: 'Morbid Angel - Domination', year: 1995, label: 'Giant', note: 'Heavy groove integration' },
+          { name: 'Morbid Angel - Formulas Fatal to the Flesh', year: 1998, label: 'Earache', note: 'Return to extremity' },
+          { name: 'Morbid Angel - Gateways to Annihilation', year: 2000, label: 'Earache', note: 'Atmospheric death metal' },
+          { name: 'Morbid Angel - Heretic', year: 2003, label: 'Earache', note: 'Final studio album with Sandoval' },
+          { name: 'Terrorizer - Caustic Attack', year: 2018, label: 'The End', note: 'Grindcore return' }
+        ],
+        tours: [
+          { name: 'Morbid Angel World Tours', year: '1989-2010', note: 'Two decades of international touring' },
+          { name: 'European Death Metal Festivals', year: 'Multiple years', note: 'Wacken, Hellfest, etc.' },
+          { name: 'I Am Morbid Tours', year: '2022-present', note: 'Playing classic Morbid Angel material' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Pete Sandoval has been a Pearl Drums endorser for much of his career, using their drums for Morbid Angel's most iconic recordings.
+
+**Classic Setup (Morbid Angel Era):**
+- **Drums**: Pearl Export/Masters series
+- **Snare**: Pearl 14"x6.5" Steel or Brass
+- **Cymbals**: Sabian (AA and AAX series)
+- **Hardware**: Pearl double pedal (PowerShifter or Demon series)
+- **Sticks**: Promark or Vic Firth 5B/2B
+- **Heads**: Remo (Pinstripe or Emperor)
+
+**Notable Gear Facts:**
+- Had never used double bass drums before joining Morbid Angel
+- Practiced relentlessly to develop double bass speed for Morbid Angel material
+- Stories tell of bandmates finding him passed out on the floor from practice sessions`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Born in El Salvador; emigrated to the United States as a young man',
+          'Had never played double bass drums before joining Morbid Angel',
+          'Would practice until passing out from exhaustion, then immediately resume upon waking',
+          'The band once pranked him by making him think a drum machine played faster than him',
+          'Underwent spinal disc surgery in 2010 which required extensive recovery',
+          'Converted to Christianity around 2012, leading to his departure from Morbid Angel',
+          'Recently revealed he lives with autism, diagnosed at age 61',
+          'Reunited with David Vincent in 2022 for I Am Morbid',
+          'His drumming on "Altars of Madness" influenced virtually every death metal drummer that followed',
+          'Jesse Pintado, Terrorizer co-founder, later joined Napalm Death'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Rolling Stone', url: 'https://www.rollingstone.com' },
+          { name: 'AllMusic', url: 'https://www.allmusic.com' },
+          { name: 'Blabbermouth', url: 'https://www.blabbermouth.net' },
+          { name: 'Wikipedia: Pete Sandoval', url: 'https://en.wikipedia.org/wiki/Pete_Sandoval' }
+        ]
+      }
+    }
+  },
+
+  // Art Cruz - Lamb of God (Issue #329 - Batch 4)
+  'art-cruz': {
+    slug: 'art-cruz',
+    drummerId: 19,
+    name: 'Art Cruz',
+    bands: [
+      { slug: 'lamb-of-god', period: '2019-present', role: 'Drummer' },
+      { slug: 'winds-of-plague', period: '2008-2012, 2015-2021', role: 'Drummer' },
+      { slug: 'prong', period: '2012-2018', role: 'Drummer' }
+    ],
+    metaTitle: 'Art Cruz Biography - Lamb of God Drummer & Modern Metal Powerhouse | MetalForge',
+    metaDescription: 'Complete biography of Art Cruz, Lamb of God\'s drummer since 2019. Explore his journey from Winds of Plague to one of metal\'s biggest bands, his powerful style, and gear setup.',
+    ogImage: '/images/drummers/art-cruz.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Arthur Robert T Peyton Cruz (born May 27, 1988, in Downey, California) is an American drummer who has been the drummer for Lamb of God since 2019, following Chris Adler's departure. His powerful, precise drumming has seamlessly integrated with Lamb of God's crushing groove metal sound while bringing his own energy to the band's performances.
+
+Before Lamb of God, Cruz built his reputation through extensive work with Winds of Plague and Prong, developing a reputation as a reliable, hard-hitting drummer capable of handling diverse metal styles. His work with Lamb of God on their 2020 self-titled album and 2022's "Omens" has proven him a worthy successor to Adler's legacy.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '2004-2006', event: 'Played in South El Monte High School marching band percussion section' },
+          { year: '2008', event: 'Joined Winds of Plague; recorded "The Great Stone War"' },
+          { year: '2011', event: 'Released "Against the World" with Winds of Plague (Billboard #60)' },
+          { year: '2012', event: 'Left Winds of Plague; joined Prong' },
+          { year: '2015', event: 'Recorded "Songs from the Black Hole" and subsequent albums with Prong' },
+          { year: '2015', event: 'Returned to Winds of Plague' },
+          { year: '2017', event: 'Released "Blood of My Enemy" with Winds of Plague' },
+          { year: '2018', event: 'Filled in for Chris Adler on Lamb of God\'s North American tour' },
+          { year: '2019', event: 'Officially became Lamb of God\'s drummer following Adler\'s departure' },
+          { year: '2020', event: 'Released self-titled Lamb of God album, first studio album with band' },
+          { year: '2022', event: 'Released "Omens" with Lamb of God' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Art Cruz's drumming style combines powerful groove metal precision with the intensity developed in deathcore and thrash metal. His playing emphasizes power, consistency, and the ability to drive songs with relentless energy while maintaining the groove-oriented approach Lamb of God is known for.
+
+**Key Influences:**
+- **Chris Adler (Lamb of God)**: The foundation of Lamb of God's drum sound
+- **Dave Lombardo (Slayer)**: Thrash metal power and intensity
+- **Groove Metal Drumming**: Syncopated, powerful rhythms
+
+**Signature Techniques:**
+- Powerful, driving double bass patterns
+- Precise, groove-oriented playing that complements Randy Blythe's vocals
+- Consistency and reliability in live performance
+- Ability to replicate Chris Adler's complex parts while adding personal flair
+- Dynamic control across Lamb of God's diverse catalog`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Winds of Plague - The Great Stone War', year: 2009, label: 'Century Media', note: 'Billboard #72' },
+          { name: 'Winds of Plague - Against the World', year: 2011, label: 'Century Media', note: 'Billboard #60' },
+          { name: 'Prong - Songs from the Black Hole', year: 2015, label: 'Steamhammer', note: 'Industrial/groove metal' },
+          { name: 'Prong - X – No Absolutes', year: 2016, label: 'Steamhammer', note: 'Continued evolution' },
+          { name: 'Prong - Zero Days', year: 2017, label: 'Steamhammer', note: 'Final album with Prong' },
+          { name: 'Winds of Plague - Blood of My Enemy', year: 2017, label: 'eOne', note: 'Return album' },
+          { name: 'Lamb of God - Lamb of God', year: 2020, label: 'Nuclear Blast', note: 'First studio album with LOG' },
+          { name: 'Lamb of God - Omens', year: 2022, label: 'Nuclear Blast', note: 'Second album with band' }
+        ],
+        tours: [
+          { name: 'Slayer Farewell Tour Support', year: '2018', note: 'First Lamb of God performances filling in for Adler' },
+          { name: 'Lamb of God World Tours', year: '2019-present', note: 'Extensive touring as official member' },
+          { name: 'European Festivals', year: '2022-2023', note: 'Major festival appearances with Lamb of God' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Art Cruz is a Zildjian Cymbals endorser and uses Ludwig drums. His setup is designed for the powerful, articulate sound required for Lamb of God's groove metal.
+
+**Current Setup:**
+- **Drums**: Ludwig Drums
+- **Snare**: Ludwig 14"x6.5" (various models)
+- **Cymbals**: Zildjian (including A Custom and K series)
+- **Hardware**: Trick Pro 1-V Bigfoot double pedal
+- **Sticks**: Vic Firth
+- **Heads**: Evans
+
+**Additional Endorsements:**
+- Gibraltar Hardware
+- Evans Drumheads`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Attended South El Monte High School in Southern California',
+          'His first major band was Winds of Plague, which he joined in 2008',
+          'Collaborated with Italian alternative metal project Klogr and The Rasmus in 2017',
+          'Was filling in for Chris Adler when Lamb of God realized he should join permanently',
+          'Had to learn Lamb of God\'s entire catalog, including Chris Adler\'s notoriously complex parts',
+          'His first Lamb of God show was supporting Slayer on their farewell tour',
+          'Left Winds of Plague in 2021 to focus exclusively on Lamb of God',
+          'Brings his own energy to Lamb of God while respecting the established sound',
+          'Has proven himself as a worthy successor to Chris Adler\'s legacy'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Zildjian Artist Profile', url: 'https://zildjian.com/blogs/artist/art-cruz' },
+          { name: 'Blabbermouth', url: 'https://www.blabbermouth.net' },
+          { name: 'Metal Injection', url: 'https://metalinjection.net' },
+          { name: 'Wikipedia: Art Cruz', url: 'https://en.wikipedia.org/wiki/Art_Cruz' }
+        ]
+      }
+    }
+  },
+
+  // Arin Ilejay - ex-Avenged Sevenfold (Issue #329 - Batch 4)
+  'arin-ilejay': {
+    slug: 'arin-ilejay',
+    drummerId: 20,
+    name: 'Arin Ilejay',
+    bands: [
+      { slug: 'avenged-sevenfold', period: '2011-2015', role: 'Drummer' },
+      { slug: 'confide', period: '2006-2011', role: 'Drummer' }
+    ],
+    metaTitle: 'Arin Ilejay Biography - ex-Avenged Sevenfold Drummer | MetalForge',
+    metaDescription: 'Complete biography of Arin Ilejay, former Avenged Sevenfold drummer. Explore his journey from Confide to A7X, his work on Hail to the King, and his drumming style.',
+    ogImage: '/images/drummers/arin-ilejay.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Arin Ilejay is an American drummer best known for his tenure with Avenged Sevenfold from 2011 to 2015. He joined the band following the tragic death of founding drummer Jimmy "The Rev" Sullivan in 2009, stepping into enormous shoes during one of the most challenging periods in the band's history.
+
+Ilejay's time with Avenged Sevenfold coincided with their transition to a more classic heavy metal sound on "Hail to the King" (2013), an album that debuted at #1 on the Billboard 200. His powerful, straightforward drumming style proved effective for the band's tribute to their classic rock and metal influences. Before Avenged Sevenfold, Ilejay developed his skills with post-hardcore band Confide.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '2006', event: 'Joined post-hardcore band Confide' },
+          { year: '2009', event: 'Released "Shout the Truth" with Confide' },
+          { year: '2010', event: 'Released "Recover" with Confide' },
+          { year: '2011', event: 'Joined Avenged Sevenfold, replacing The Rev and Mike Portnoy' },
+          { year: '2011', event: 'First touring with Avenged Sevenfold; played major festivals worldwide' },
+          { year: '2013', event: 'Recorded and released "Hail to the King" with Avenged Sevenfold' },
+          { year: '2013', event: '"Hail to the King" debuts at #1 on Billboard 200 and UK Albums Chart' },
+          { year: '2014', event: 'Extensive "Hail to the King" world tour' },
+          { year: '2015', event: 'Left Avenged Sevenfold; replaced by Brooks Wackerman' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Arin Ilejay's drumming style on "Hail to the King" emphasized power, simplicity, and service to the song—a deliberate contrast to The Rev's more complex, progressive approach. The album paid tribute to classic metal and hard rock influences, and Ilejay's drumming reflected that straightforward, driving style.
+
+**Key Influences:**
+- **The Rev (Avenged Sevenfold)**: Foundation of A7X's drum sound
+- **Classic Rock Drummers**: John Bonham-style power and groove
+- **Lars Ulrich (Metallica)**: Heavy metal simplicity and drive
+- **Post-Hardcore Drumming**: Technical background from Confide
+
+**Signature Techniques:**
+- Powerful, driving rhythms that prioritize groove over complexity
+- Clean, punchy snare sound
+- Effective double bass patterns without overuse
+- Dynamic control that supports vocal and guitar melodies
+- Arena-ready performances with visual impact`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Confide - Shout the Truth', year: 2009, label: 'Tragic Hero', note: 'Post-hardcore debut' },
+          { name: 'Confide - Recover', year: 2010, label: 'Tragic Hero', note: 'Post-hardcore evolution' },
+          { name: 'Avenged Sevenfold - Hail to the King', year: 2013, label: 'Warner Bros.', note: '#1 Billboard 200' }
+        ],
+        tours: [
+          { name: 'Avenged Sevenfold World Tours', year: '2011-2014', note: 'Extensive international touring' },
+          { name: 'Hail to the King Tour', year: '2013-2014', note: 'Arena and festival dates worldwide' },
+          { name: 'Major Festival Appearances', year: '2012-2014', note: 'Rock in Rio, Download, etc.' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `During his time with Avenged Sevenfold, Arin Ilejay used a setup designed for the arena-sized venues and powerful sound the band required.
+
+**A7X Era Setup:**
+- **Drums**: DW Collector's Series (or similar high-end kit)
+- **Snare**: Various 14"x6.5" snares for power and cut
+- **Cymbals**: Zildjian or Sabian (bright, powerful series)
+- **Hardware**: DW 9000 series double pedal
+- **Sticks**: Vic Firth or Promark 5B/2B
+- **Heads**: Remo or Evans
+
+**Setup Characteristics:**
+- Large kit suitable for arena performances
+- Emphasis on power and projection
+- Setup designed for the direct, hard-hitting style of "Hail to the King"`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Stepped into one of the most difficult situations in metal—replacing a beloved founding member',
+          'Mike Portnoy (Dream Theater) filled in for The Rev before Ilejay was announced',
+          '"Hail to the King" was written as a tribute to A7X\'s classic rock/metal influences',
+          'The album\'s drumming was intentionally simpler than The Rev\'s progressive style',
+          '"Hail to the King" charted #1 in multiple countries including US, UK, Finland, Brazil, Canada, and Ireland',
+          'Left the band in late 2014; departure wasn\'t announced publicly until 2015',
+          'Replaced by former Bad Religion drummer Brooks Wackerman',
+          '"Hail to the King" remains the only Avenged Sevenfold album featuring Ilejay',
+          'His Confide background gave him post-hardcore technical chops before joining A7X'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Avenged Sevenfold Official', url: 'https://avengedsevenfold.com' },
+          { name: 'Billboard', url: 'https://www.billboard.com' },
+          { name: 'Loudwire', url: 'https://loudwire.com' },
+          { name: 'Wikipedia: Avenged Sevenfold', url: 'https://en.wikipedia.org/wiki/Avenged_Sevenfold' }
+        ]
+      }
+    }
+  },
+
+  // Navene Koperweis - Entheos, Animals as Leaders (Issue #329 - Batch 4)
+  'navene-koperweis': {
+    slug: 'navene-koperweis',
+    drummerId: 21,
+    name: 'Navene Koperweis',
+    bands: [
+      { slug: 'entheos', period: '2015-present', role: 'Drummer' },
+      { slug: 'animals-as-leaders', period: '2010-2012', role: 'Drummer' },
+      { slug: 'animosity', period: '2003-2008', role: 'Drummer' },
+      { slug: 'the-faceless', period: '2006', role: 'Drummer (partial)' },
+      { slug: 'machine-head', period: '2021-present', role: 'Session drummer' }
+    ],
+    metaTitle: 'Navene Koperweis Biography - Entheos Drummer & Electronic Producer | MetalForge',
+    metaDescription: 'Complete biography of Navene Koperweis, Entheos drummer and former Animals as Leaders member. Explore his technical drumming, electronic production, and diverse musical career.',
+    ogImage: '/images/drummers/navene-koperweis.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Navene Koperweis (born May 31, 1985, in San Jose, California) is an American drummer, producer, and multi-instrumentalist known for his work with progressive metal band Entheos and his former tenure with Animals as Leaders. His drumming combines extreme technical precision with creative musical expression, spanning genres from djent to deathcore to electronic music.
+
+Beyond his drumming career, Koperweis is a prolific producer and electronic artist who releases music under the name "Navene K." He runs his own technical death metal project Fleshwrought, where he plays all instruments, demonstrating his versatility as a complete musician. Recently, he has served as session drummer for Machine Head and tour drummer for Job for a Cowboy.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1996', event: 'Started playing drums at age 11' },
+          { year: '2003', event: 'Joined hardcore band Hoods' },
+          { year: '2003', event: 'Joined grindcore/death metal band Animosity' },
+          { year: '2006', event: 'Contributed to The Faceless\' "Akeldama" album (track #4)' },
+          { year: '2007', event: 'Released "Animal" with Animosity' },
+          { year: '2010', event: 'Joined Animals as Leaders; released "Weightless" demo/recordings' },
+          { year: '2011', event: 'Recorded and released "Weightless" with Animals as Leaders' },
+          { year: '2012', event: 'Left Animals as Leaders; released electronic EP "Human Design" as Navene K' },
+          { year: '2014', event: 'Co-produced Animals as Leaders\' "The Joy of Motion" (production credit)' },
+          { year: '2015', event: 'Founded Entheos; released debut EP "Primal"' },
+          { year: '2016', event: 'Released "The Infinite Nothing" with Entheos' },
+          { year: '2021', event: 'Enlisted as session drummer for Machine Head\'s new album' },
+          { year: '2023', event: 'Released "Time Will Take Us All" with Entheos' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Navene Koperweis's drumming style bridges extreme metal precision with electronic music sensibilities. His technical proficiency allows him to navigate complex djent rhythms, death metal blast beats, and intricate polyrhythmic patterns, while his production background informs his approach to tone and dynamics.
+
+**Key Influences:**
+- **Tim Alexander (Primus)**: Creative, unconventional approach
+- **Joey Jordison (Slipknot)**: Extreme metal intensity
+- **Kevin Talley**: Technical death metal precision
+- **John Longstreth (Origin)**: Brutal technicality
+- **Terry Bozzio**: Progressive complexity
+- **Electronic Artists**: Skrillex, Noisia, Deadmau5 influence his production work
+
+**Signature Techniques:**
+- Complex polyrhythmic patterns incorporating djent elements
+- Blast beats with clarity and musicality
+- Integration of electronic elements in metal context
+- Dynamic control within extreme metal
+- Multi-instrumentalist approach to composition`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Animosity - Empires', year: 2005, label: 'Metal Blade', note: 'Technical death metal/grindcore' },
+          { name: 'Animosity - Animal', year: 2007, label: 'Metal Blade', note: 'Deathcore evolution' },
+          { name: 'Fleshwrought - Dementia/Dyslexia', year: 2010, label: 'Unique Leader', note: 'Solo project, all instruments' },
+          { name: 'Animals as Leaders - Weightless', year: 2011, label: 'Prosthetic', note: 'Djent landmark' },
+          { name: 'Entheos - Primal EP', year: 2015, label: 'Independent', note: 'Progressive death metal debut' },
+          { name: 'Entheos - The Infinite Nothing', year: 2016, label: 'Spinefarm', note: 'Full-length debut' },
+          { name: 'Entheos - Dark Future', year: 2017, label: 'Spinefarm', note: 'Continued evolution' },
+          { name: 'Whitechapel - The Valley', year: 2019, label: 'Metal Blade', note: 'Session drums' },
+          { name: 'Entheos - Time Will Take Us All', year: 2023, label: 'Metal Blade', note: 'Most ambitious album' }
+        ],
+        tours: [
+          { name: 'Animals as Leaders Tours', year: '2010-2012', note: 'Progressive metal circuit' },
+          { name: 'Entheos Touring', year: '2015-present', note: 'Technical death metal scene' },
+          { name: 'Job for a Cowboy', year: 'Various', note: 'Session/touring drummer' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Navene Koperweis is a Meinl Cymbals endorser, favoring their Byzance series for its dark, complex tones. His setup is designed for the technical demands of progressive and extreme metal.
+
+**Current Setup:**
+- **Drums**: Various high-end kits (session drummer uses different brands)
+- **Snare**: 14"x5.5" or 14"x6" (various brands)
+- **Cymbals**: Meinl Byzance series (14" Dual Hi-Hats, various crashes, Foundry Reserve Ride)
+- **Hardware**: Various double pedals
+- **Sticks**: Standard 5A or 5B
+- **Heads**: Remo or Evans
+
+**Production Work:**
+- Operates recording studio for drum production
+- Produces electronic music as "Navene K"
+- Has released multiple electronic EPs and singles`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Started playing drums at age 11 in San Jose, California',
+          'Runs his own project Fleshwrought where he plays ALL instruments',
+          'Left Animals as Leaders in 2012 citing desire to pursue other musical interests',
+          'Produces electronic/dubstep music under the name "Navene K"',
+          'Has released multiple electronic EPs including "Human Design" and "Mind"',
+          'Co-produced Animals as Leaders\' "The Joy of Motion" after leaving the band',
+          'Entheos features his wife Chaney Crabb on vocals',
+          'Has served as session drummer for Machine Head and Whitechapel',
+          'Named one of the Top 20 Technical Metal Drummers by MetalSucks',
+          'His influences span from metal to electronic dance music (Skrillex, Deadmau5)'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Meinl Cymbals Artist Profile', url: 'https://meinlcymbals.com/artists/navene-koperweis' },
+          { name: 'MetalSucks', url: 'https://www.metalsucks.net' },
+          { name: 'Modern Drummer', url: 'https://www.moderndrummer.com' },
+          { name: 'Wikipedia: Navene Koperweis', url: 'https://en.wikipedia.org/wiki/Navene_Koperweis' }
+        ]
+      }
+    }
+  },
+
+  // Alex Bent - Trivium, Battlecross (Issue #329 - Batch 4)
+  'alex-bent': {
+    slug: 'alex-bent',
+    drummerId: 22,
+    name: 'Alex Bent',
+    bands: [
+      { slug: 'trivium', period: '2017-2025', role: 'Drummer' },
+      { slug: 'battlecross', period: '2015', role: 'Drummer' },
+      { slug: 'dragonlord', period: '2015-present', role: 'Drummer' },
+      { slug: 'arkaik', period: '2011-present', role: 'Drummer' },
+      { slug: 'brain-drill', period: '2015', role: 'Drummer' }
+    ],
+    metaTitle: 'Alex Bent Biography - Former Trivium Drummer & Technical Metal Prodigy | MetalForge',
+    metaDescription: 'Complete biography of Alex Bent, former Trivium drummer known for his technical precision. Explore his career from Brain Drill to Trivium, and his contributions to modern metal drumming.',
+    ogImage: '/images/drummers/alex-bent.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Alex Bent (born January 31, 1993, in Oakland, California) is an American drummer who served as Trivium's drummer from 2017 to 2025, bringing technical death metal precision to the modern metal giants. His work on Trivium's acclaimed albums "The Sin and the Sentence," "What the Dead Men Say," and "In the Court of the Dragon" elevated the band's rhythmic complexity to new heights.
+
+Bent's background in technical death metal—with bands like Brain Drill, Arkaik, and Battlecross—prepared him for Trivium's demanding catalog. His ability to blend extreme metal technicality with melodic metal accessibility made him an ideal fit for the band's evolved sound. After 9 years with Trivium, Bent departed in October 2025.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '2004', event: 'Started playing drums at age 11 after assembling father\'s old drum kit' },
+          { year: '2005', event: 'Began competing in drum competitions and auditioning for bands' },
+          { year: '2008', event: 'Participated in Guitar Center Drum Off, reaching Regional Finals' },
+          { year: '2011', event: 'Joined technical death metal band Arkaik' },
+          { year: '2012', event: 'Toured with Decrepit Birth and Hatriot' },
+          { year: '2015', event: 'Joined Brain Drill and Dragonlord (Testament guitarist\'s band)' },
+          { year: '2015', event: 'Joined Battlecross; filled in for Gene Hoglan on Testament dates' },
+          { year: '2017', event: 'Joined Trivium at producer Mark Lewis\'s recommendation' },
+          { year: '2017', event: 'Released "The Sin and the Sentence" with Trivium to critical acclaim' },
+          { year: '2020', event: 'Released "What the Dead Men Say" with Trivium' },
+          { year: '2021', event: 'Released "In the Court of the Dragon" with Trivium' },
+          { year: '2025', event: 'Released "Struck Dead" with Trivium; departed from band in October' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Alex Bent's drumming style combines the extreme technicality of death metal with the musicality and accessibility required for modern metal. His ability to perform complex blast beats, intricate fills, and driving grooves with equal proficiency made him ideal for Trivium's diverse songwriting.
+
+**Key Influences:**
+- **Gene Hoglan (Death/Testament)**: Technical precision, filled in for him on Testament dates
+- **Technical Death Metal Drumming**: Blast beats, complex patterns
+- **Classic Metal Drumming**: Power and groove for accessible metal
+- **Jazz Training**: Studied with jazz band, concert band backgrounds
+
+**Signature Techniques:**
+- Technical death metal blast beats with clarity
+- Complex fills that serve the song structure
+- Powerful double bass patterns
+- Dynamic control across extreme and melodic passages
+- Ability to blend technicality with arena-ready groove`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Arkaik - Metamorphignition', year: 2012, label: 'Unique Leader', note: 'Technical death metal' },
+          { name: 'Battlecross - Rise to Power', year: 2015, label: 'Metal Blade', note: 'Thrash metal' },
+          { name: 'Dragonlord - Dominion', year: 2018, label: 'Spinefarm', note: 'Black metal project' },
+          { name: 'Trivium - The Sin and the Sentence', year: 2017, label: 'Roadrunner', note: 'Critical comeback' },
+          { name: 'Trivium - What the Dead Men Say', year: 2020, label: 'Roadrunner', note: 'Pandemic-era release' },
+          { name: 'Trivium - In the Court of the Dragon', year: 2021, label: 'Roadrunner', note: 'Progressive evolution' },
+          { name: 'Trivium - Struck Dead', year: 2025, label: 'Roadrunner', note: 'Final album with Trivium' }
+        ],
+        tours: [
+          { name: 'Testament Fill-In Dates', year: '2015', note: 'Filling in for Gene Hoglan' },
+          { name: 'Trivium European Tour', year: '2017', note: 'First shows with Trivium' },
+          { name: 'Trivium World Tours', year: '2017-2025', note: 'Extensive international touring' },
+          { name: 'Summer Festival Circuit', year: '2017-2024', note: 'Major festival appearances' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Alex Bent used a combination of acoustic and electronic elements for Trivium's live and studio work, designed for technical precision and arena-level power.
+
+**Trivium Era Setup:**
+- **Drums**: Various high-end kits
+- **Snare**: 14"x6.5" for attack and projection
+- **Cymbals**: Sabian or Zildjian (various series)
+- **Hardware**: Axis Percussion double pedal
+- **Sticks**: Various 5B
+- **Heads**: Remo or Evans
+
+**Technical Specifications:**
+- Axis pedals favored for speed and precision
+- Setup designed for both technical death metal and accessible metal
+- Trigger-assisted bass drums for clarity at extreme speeds`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Born in Oakland, California; began drumming at age 11',
+          'Taught himself drums for over a year before competing in drum competitions',
+          'Played in marching band, concert band, jazz band, and Modesto Junior College Jazz Band',
+          'Reached Regional Finals in Guitar Center Drum Off',
+          'Producer Mark Lewis recommended Bent to Trivium after seeing his work',
+          'Was 24 years old when he joined Trivium in 2017',
+          'Filled in for the legendary Gene Hoglan on Testament tour dates before joining Trivium',
+          'His technical death metal background elevated Trivium\'s rhythmic complexity',
+          'Performed first show with Trivium in February 2017 on European tour',
+          'Left Trivium in October 2025 after 9 years with the band'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Axis Percussion Artist Profile', url: 'https://www.axispercussion.com/artists-a-f/#Alex_Bent' },
+          { name: 'Sick Drummer Magazine', url: 'https://sickdrummermagazine.com/the-drummers/future-sicko/alex-bent/' },
+          { name: 'MetalSucks', url: 'https://www.metalsucks.net' },
+          { name: 'Wikipedia: Alex Bent', url: 'https://en.wikipedia.org/wiki/Alex_Bent' }
+        ]
+      }
+    }
   }
 };
 

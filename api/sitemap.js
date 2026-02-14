@@ -1,5 +1,6 @@
 // Vercel Serverless Function - sitemap.xml
 // Issue #361: Added band pages
+// Issue #339: Added gear category pages for SEO
 
 const drummers = [
   { id: 1, name: 'Lars Ulrich' }, { id: 2, name: 'Joey Jordison' }, { id: 3, name: 'Gene Hoglan' },
@@ -37,6 +38,16 @@ const bandPages = [
   { slug: 'death', name: 'Death' },
 ];
 
+// Issue #339: Gear category pages for SEO
+const gearCategories = [
+  { slug: 'cymbals', name: 'Metal Cymbals' },
+  { slug: 'snares', name: 'Metal Snare Drums' },
+  { slug: 'drums', name: 'Metal Drum Kits' },
+  { slug: 'pedals', name: 'Metal Bass Drum Pedals' },
+  { slug: 'sticks', name: 'Metal Drumsticks' },
+  { slug: 'hardware', name: 'Metal Drum Hardware' },
+];
+
 const BASE_URL = 'https://metalforge.io';
 
 function generateSlug(name) {
@@ -49,11 +60,14 @@ export default function handler(req, res) {
   const today = new Date().toISOString().split('T')[0];
   const urls = [
     { loc: '/', priority: '1.0', changefreq: 'weekly' },
+    { loc: '/kit-builder', priority: '0.9', changefreq: 'weekly' },
+    { loc: '/gear', priority: '0.9', changefreq: 'weekly' },
     { loc: '/quotes', priority: '0.9', changefreq: 'weekly' },
     { loc: '/lists', priority: '0.9', changefreq: 'weekly' },
+    ...gearCategories.map(c => ({ loc: `/gear/${c.slug}`, priority: '0.9', changefreq: 'weekly' })),
     ...top10Lists.map(l => ({ loc: `/lists/${l.slug}`, priority: '0.8', changefreq: 'monthly' })),
     ...drummers.map(d => ({ loc: `/drummer/${generateSlug(d.name)}`, priority: '0.8', changefreq: 'monthly' })),
-    ...gearItems.map(g => ({ loc: `/gear/${g.slug}`, priority: '0.7', changefreq: 'monthly' })),
+    ...gearItems.map(g => ({ loc: `/gear/item/${g.slug}`, priority: '0.7', changefreq: 'monthly' })),
     ...bandPages.map(b => ({ loc: `/band/${b.slug}`, priority: '0.8', changefreq: 'monthly' })),
   ];
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>

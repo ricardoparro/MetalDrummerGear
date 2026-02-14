@@ -58,6 +58,9 @@ import { getExtendedBio, hasExtendedBio } from './data/extendedBios';
 // Band data with drummer history (Issue #349)
 import { getBand, getAllBands, hasBand, getAllBandSlugs } from './data/bands';
 
+// Genre data for landing pages (Issue #340)
+import { getGenre, getAllGenres, hasGenre, getAllGenreSlugs, getDrummersByGenre, getRelatedGenres } from './data/genres';
+
 // ==========================================
 // TOP 10 LISTS - Loaded dynamically for code splitting
 // ==========================================
@@ -4753,6 +4756,500 @@ function GearFinderPage({ theme, onBack, drummers, onSelectDrummer }) {
 }
 
 // ==========================================
+// KIT BUILDER PAGE - Interactive Drum Kit Configurator (Issue #341)
+// ==========================================
+
+// Gear catalog data for kit builder - extracted from real drummer setups
+const KIT_BUILDER_CATALOG = {
+  drums: [
+    { id: 'tama-starclassic-maple', name: 'Tama Starclassic Maple', brand: 'Tama', price: 3500, tier: 'pro', usedBy: ['Lars Ulrich', 'Dave Lombardo', 'Charlie Benante'] },
+    { id: 'tama-starclassic-bubinga', name: 'Tama Starclassic Bubinga', brand: 'Tama', price: 4200, tier: 'pro', usedBy: ['Eloy Casagrande'] },
+    { id: 'pearl-reference-pure', name: 'Pearl Reference Pure', brand: 'Pearl', price: 3500, tier: 'pro', usedBy: ['Gene Hoglan'] },
+    { id: 'pearl-reference-series', name: 'Pearl Reference Series', brand: 'Pearl', price: 3200, tier: 'pro', usedBy: ['Joey Jordison', 'Ray Luzier'] },
+    { id: 'pearl-masterworks', name: 'Pearl Masterworks Stadium Exotic', brand: 'Pearl', price: 4800, tier: 'pro', usedBy: ['George Kollias'] },
+    { id: 'pearl-masters', name: 'Pearl Masters Premium Maple', brand: 'Pearl', price: 3200, tier: 'pro', usedBy: ['Matt Halpern'] },
+    { id: 'sonor-sq2', name: 'Sonor SQ2 Heavy Beech', brand: 'Sonor', price: 5500, tier: 'pro', usedBy: ['Tomas Haake', 'Danny Carey'] },
+    { id: 'dw-collectors', name: "DW Collector's Series Maple", brand: 'DW', price: 5000, tier: 'pro', usedBy: ['Brann Dailor'] },
+    { id: 'mapex-saturn', name: 'Mapex Saturn V MH Exotic', brand: 'Mapex', price: 2600, tier: 'mid', usedBy: ['Chris Adler'] },
+    { id: 'ddrum-vinnie', name: 'ddrum Vinnie Paul Signature', brand: 'ddrum', price: 2800, tier: 'mid', usedBy: ['Vinnie Paul'] },
+    { id: 'sjc-custom', name: 'SJC Custom Drums', brand: 'SJC', price: 3500, tier: 'pro', usedBy: ['Jay Weinberg'] },
+    { id: 'ocdp-custom', name: 'OCDP Custom Type 5 Acrylic', brand: 'OCDP', price: 3500, tier: 'pro', usedBy: ['John Otto'] },
+  ],
+  snare: [
+    { id: 'tama-lars-ulrich', name: 'Tama LU1465 Lars Ulrich Signature 14x6.5"', brand: 'Tama', price: 650, tier: 'pro', usedBy: ['Lars Ulrich'] },
+    { id: 'tama-slp', name: 'Tama S.L.P. 14x6.5" G-Maple', brand: 'Tama', price: 450, tier: 'mid', usedBy: ['Dave Lombardo'] },
+    { id: 'tama-bell-brass', name: 'Tama Bell Brass 14x5.5"', brand: 'Tama', price: 800, tier: 'pro', usedBy: ['Eloy Casagrande'] },
+    { id: 'tama-charlie', name: 'Tama Charlie Benante Signature 14x6.5"', brand: 'Tama', price: 550, tier: 'mid', usedBy: ['Charlie Benante'] },
+    { id: 'tama-portnoy', name: 'Tama Mike Portnoy Signature Melody Master', brand: 'Tama', price: 600, tier: 'mid', usedBy: ['Mike Portnoy'] },
+    { id: 'pearl-joey', name: 'Pearl Joey Jordison Signature 13x6.5"', brand: 'Pearl', price: 480, tier: 'mid', usedBy: ['Joey Jordison'] },
+    { id: 'pearl-kollias', name: 'Pearl George Kollias Signature 14x6.5"', brand: 'Pearl', price: 520, tier: 'mid', usedBy: ['George Kollias'] },
+    { id: 'pearl-reference', name: 'Pearl Reference 14x6.5" Brass', brand: 'Pearl', price: 550, tier: 'mid', usedBy: ['Gene Hoglan', 'Ray Luzier'] },
+    { id: 'sonor-haake', name: 'Sonor Tomas Haake Signature 14x6.5"', brand: 'Sonor', price: 700, tier: 'pro', usedBy: ['Tomas Haake'] },
+    { id: 'sonor-danny', name: 'Sonor Danny Carey Signature 14x8" Bronze', brand: 'Sonor', price: 750, tier: 'pro', usedBy: ['Danny Carey'] },
+    { id: 'sjc-crucible', name: 'SJC "The Crucible" 14x6.5" 48-ply Brass', brand: 'SJC', price: 600, tier: 'mid', usedBy: ['Jay Weinberg'] },
+    { id: 'ddrum-vinnie-snare', name: 'ddrum Vinnie Paul Signature 14x8"', brand: 'ddrum', price: 400, tier: 'mid', usedBy: ['Vinnie Paul'] },
+    { id: 'ocdp-vented', name: 'OCDP 14x6.5" 40-ply Vented', brand: 'OCDP', price: 450, tier: 'mid', usedBy: ['John Otto'] },
+  ],
+  cymbals: [
+    { id: 'zildjian-a-custom', name: 'Zildjian A Custom Series', brand: 'Zildjian', price: 2200, tier: 'pro', usedBy: ['Lars Ulrich', 'George Kollias', 'John Otto'] },
+    { id: 'zildjian-k-custom', name: 'Zildjian K Custom Series', brand: 'Zildjian', price: 2500, tier: 'pro', usedBy: ['Jay Weinberg'] },
+    { id: 'paiste-rude', name: 'Paiste RUDE Series', brand: 'Paiste', price: 2000, tier: 'pro', usedBy: ['Joey Jordison', 'Dave Lombardo', 'Charlie Benante'] },
+    { id: 'paiste-2002', name: 'Paiste 2002 Series', brand: 'Paiste', price: 2000, tier: 'pro', usedBy: ['Eloy Casagrande'] },
+    { id: 'paiste-signature', name: 'Paiste Signature Series', brand: 'Paiste', price: 2800, tier: 'pro', usedBy: ['Danny Carey'] },
+    { id: 'sabian-hhx', name: 'Sabian HHX Series', brand: 'Sabian', price: 2200, tier: 'pro', usedBy: ['Tomas Haake', 'Mike Portnoy'] },
+    { id: 'sabian-aax', name: 'Sabian AAX Series', brand: 'Sabian', price: 1800, tier: 'mid', usedBy: ['Gene Hoglan', 'Ray Luzier', 'Vinnie Paul'] },
+    { id: 'meinl-byzance', name: 'Meinl Byzance Series', brand: 'Meinl', price: 2400, tier: 'pro', usedBy: ['Mario Duplantier', 'Brann Dailor', 'Chris Adler', 'Matt Halpern'] },
+  ],
+  hardware: [
+    { id: 'tama-iron-cobra', name: 'Tama Iron Cobra 900 Double Pedal', brand: 'Tama', price: 450, tier: 'pro', usedBy: ['Lars Ulrich', 'Dave Lombardo', 'Charlie Benante'] },
+    { id: 'tama-speed-cobra', name: 'Tama Speed Cobra 910 Double Pedal', brand: 'Tama', price: 500, tier: 'pro', usedBy: ['Tomas Haake'] },
+    { id: 'pearl-demon-drive', name: 'Pearl Demon Drive Double Pedal', brand: 'Pearl', price: 550, tier: 'pro', usedBy: ['Joey Jordison', 'Gene Hoglan', 'George Kollias'] },
+    { id: 'pearl-eliminator', name: 'Pearl Eliminator Double Pedal', brand: 'Pearl', price: 400, tier: 'mid', usedBy: ['Matt Halpern'] },
+    { id: 'dw-9000', name: 'DW 9000 Series Double Pedal', brand: 'DW', price: 700, tier: 'pro', usedBy: ['Jay Weinberg', 'Brann Dailor'] },
+    { id: 'sonor-giant', name: 'Sonor Giant Step Twin Effect Double Pedal', brand: 'Sonor', price: 650, tier: 'pro', usedBy: ['Danny Carey'] },
+    { id: 'mapex-falcon', name: 'Mapex Falcon Double Pedal', brand: 'Mapex', price: 450, tier: 'mid', usedBy: ['Chris Adler'] },
+  ],
+  sticks: [
+    { id: 'ahead-lars', name: 'Ahead Lars Ulrich Signature', brand: 'Ahead', price: 45, tier: 'mid', usedBy: ['Lars Ulrich'] },
+    { id: 'promark-joey', name: 'Promark Joey Jordison Signature TX515W', brand: 'Promark', price: 15, tier: 'budget', usedBy: ['Joey Jordison'] },
+    { id: 'promark-lombardo', name: 'Promark Dave Lombardo Signature 2Bx', brand: 'Promark', price: 15, tier: 'budget', usedBy: ['Dave Lombardo'] },
+    { id: 'promark-portnoy', name: 'Promark Mike Portnoy Signature TX420N', brand: 'Promark', price: 15, tier: 'budget', usedBy: ['Mike Portnoy'] },
+    { id: 'promark-casagrande', name: 'Promark Eloy Casagrande Signature', brand: 'Promark', price: 15, tier: 'budget', usedBy: ['Eloy Casagrande'] },
+    { id: 'vicfirth-kollias', name: 'Vic Firth George Kollias Signature SGK', brand: 'Vic Firth', price: 15, tier: 'budget', usedBy: ['George Kollias'] },
+    { id: 'vicfirth-haake', name: 'Vic Firth Tomas Haake Signature', brand: 'Vic Firth', price: 15, tier: 'budget', usedBy: ['Tomas Haake'] },
+    { id: 'vicfirth-carey', name: 'Vic Firth Danny Carey Signature', brand: 'Vic Firth', price: 15, tier: 'budget', usedBy: ['Danny Carey'] },
+    { id: 'vicfirth-benante', name: 'Vic Firth Charlie Benante Signature', brand: 'Vic Firth', price: 15, tier: 'budget', usedBy: ['Charlie Benante'] },
+    { id: 'vater-weinberg', name: 'Vater Jay Weinberg 908 Signature', brand: 'Vater', price: 15, tier: 'budget', usedBy: ['Jay Weinberg'] },
+    { id: 'wincent-haake', name: 'Wincent Tomas Haake Signature', brand: 'Wincent', price: 18, tier: 'budget', usedBy: ['Tomas Haake'] },
+  ],
+};
+
+// Category icons and labels
+const KIT_CATEGORIES = [
+  { key: 'drums', label: 'Shell Pack', icon: '🥁', description: 'Bass drum, toms & rack' },
+  { key: 'snare', label: 'Snare Drum', icon: '🎯', description: 'The heart of your sound' },
+  { key: 'cymbals', label: 'Cymbals', icon: '🔔', description: 'Hi-hats, crashes & rides' },
+  { key: 'hardware', label: 'Hardware', icon: '⚙️', description: 'Pedals & throne' },
+  { key: 'sticks', label: 'Sticks', icon: '🪵', description: 'Your connection to the kit' },
+];
+
+function KitBuilderPage({ theme, onBack, drummers, onSelectDrummer }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const isTablet = width >= 768 && width < 1024;
+  
+  // Kit state - initialize from URL params
+  const [kit, setKit] = useState(() => {
+    const urlKit = getKitFromURL();
+    return urlKit || {
+      drums: null,
+      snare: null,
+      cymbals: null,
+      hardware: null,
+      sticks: null,
+      kitName: '',
+    };
+  });
+  
+  const [activeCategory, setActiveCategory] = useState('drums');
+  const [showShareModal, setShowShareModal] = useState(false);
+  const [copied, setCopied] = useState(false);
+
+  // Calculate total kit cost
+  const calculateTotal = useCallback(() => {
+    let total = 0;
+    KIT_CATEGORIES.forEach(cat => {
+      const selectedId = kit[cat.key];
+      if (selectedId) {
+        const item = KIT_BUILDER_CATALOG[cat.key].find(i => i.id === selectedId);
+        if (item) total += item.price;
+      }
+    });
+    return total;
+  }, [kit]);
+
+  const totalCost = calculateTotal();
+
+  // Update URL when kit changes
+  useEffect(() => {
+    const kitForUrl = {};
+    if (kit.drums) kitForUrl.drums = kit.drums;
+    if (kit.snare) kitForUrl.snare = kit.snare;
+    if (kit.cymbals) kitForUrl.cymbals = kit.cymbals;
+    if (kit.hardware) kitForUrl.hardware = kit.hardware;
+    if (kit.sticks) kitForUrl.sticks = kit.sticks;
+    if (kit.kitName) kitForUrl.kitName = kit.kitName;
+    updateKitURL(kitForUrl);
+    updateKitBuilderMeta(kitForUrl, totalCost);
+  }, [kit, totalCost]);
+
+  // Find drummers who use similar gear
+  const findSimilarDrummers = useCallback(() => {
+    const selectedGear = [];
+    KIT_CATEGORIES.forEach(cat => {
+      const selectedId = kit[cat.key];
+      if (selectedId) {
+        const item = KIT_BUILDER_CATALOG[cat.key].find(i => i.id === selectedId);
+        if (item) selectedGear.push(...item.usedBy);
+      }
+    });
+    
+    // Count how many items each drummer shares
+    const drummerCounts = {};
+    selectedGear.forEach(name => {
+      drummerCounts[name] = (drummerCounts[name] || 0) + 1;
+    });
+    
+    // Sort by count and return top matches
+    return Object.entries(drummerCounts)
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 5)
+      .map(([name, count]) => ({
+        name,
+        matchCount: count,
+        drummer: drummers.find(d => d.name === name),
+      }))
+      .filter(m => m.drummer);
+  }, [kit, drummers]);
+
+  const similarDrummers = findSimilarDrummers();
+
+  // Handle gear selection
+  const handleSelectGear = useCallback((category, itemId) => {
+    setKit(prev => ({
+      ...prev,
+      [category]: prev[category] === itemId ? null : itemId,
+    }));
+    // Track event
+    if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
+      window.gtag('event', 'kit_builder_select', {
+        category,
+        item_id: itemId,
+      });
+    }
+  }, []);
+
+  // Handle kit name change
+  const handleKitNameChange = useCallback((name) => {
+    setKit(prev => ({ ...prev, kitName: name }));
+  }, []);
+
+  // Clear all selections
+  const handleClearKit = useCallback(() => {
+    setKit({
+      drums: null,
+      snare: null,
+      cymbals: null,
+      hardware: null,
+      sticks: null,
+      kitName: '',
+    });
+  }, []);
+
+  // Copy share link
+  const handleCopyLink = useCallback(() => {
+    if (Platform.OS === 'web' && typeof navigator !== 'undefined' && navigator.clipboard) {
+      navigator.clipboard.writeText(window.location.href);
+      setCopied(true);
+      setTimeout(() => setCopied(false), 2000);
+      // Track event
+      if (window.gtag) {
+        window.gtag('event', 'kit_builder_share', {
+          method: 'copy_link',
+          total_cost: totalCost,
+        });
+      }
+    }
+  }, [totalCost]);
+
+  // Share to Twitter
+  const handleShareTwitter = useCallback(() => {
+    const kitName = kit.kitName || 'My Metal Kit';
+    const text = `Check out my custom drum kit build "${kitName}" - €${totalCost.toLocaleString()} total! Build yours at MetalForge.io 🥁🔥`;
+    const url = encodeURIComponent(window.location.href);
+    const twitterUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}&url=${url}`;
+    if (Platform.OS === 'web') {
+      window.open(twitterUrl, '_blank');
+      if (window.gtag) {
+        window.gtag('event', 'kit_builder_share', {
+          method: 'twitter',
+          total_cost: totalCost,
+        });
+      }
+    }
+  }, [kit.kitName, totalCost]);
+
+  // Get selected item info
+  const getSelectedItem = useCallback((category) => {
+    const selectedId = kit[category];
+    if (!selectedId) return null;
+    return KIT_BUILDER_CATALOG[category].find(i => i.id === selectedId);
+  }, [kit]);
+
+  // Count selected items
+  const selectedCount = KIT_CATEGORIES.filter(cat => kit[cat.key]).length;
+
+  return (
+    <ScrollView style={[styles.container, { backgroundColor: theme.background }]}>
+      <View style={[styles.contentContainer, isMobile && styles.contentContainerMobile]}>
+        {/* Header */}
+        <View style={styles.kitBuilderHeader}>
+          <TouchableOpacity onPress={onBack} style={styles.backButton}>
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+          </TouchableOpacity>
+          <View style={styles.kitBuilderTitleSection}>
+            <Text style={[styles.kitBuilderTitle, { color: theme.text }]}>
+              🥁 Drum Kit Builder
+            </Text>
+            <Text style={[styles.kitBuilderSubtitle, { color: theme.secondaryText }]}>
+              Build your dream metal kit with gear from legendary drummers
+            </Text>
+          </View>
+        </View>
+
+        {/* Kit Name Input */}
+        <View style={[styles.kitNameSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.kitNameLabel, { color: theme.secondaryText }]}>Kit Name (optional)</Text>
+          <TextInput
+            style={[styles.kitNameInput, { color: theme.text, borderColor: theme.border, backgroundColor: theme.background }]}
+            placeholder="My Metal Beast..."
+            placeholderTextColor={theme.secondaryText}
+            value={kit.kitName}
+            onChangeText={handleKitNameChange}
+            maxLength={40}
+          />
+        </View>
+
+        {/* Main Content - Two Column Layout on Desktop */}
+        <View style={[styles.kitBuilderContent, !isMobile && styles.kitBuilderContentDesktop]}>
+          {/* Left Panel - Category Selection & Gear Grid */}
+          <View style={[styles.kitBuilderLeftPanel, !isMobile && styles.kitBuilderLeftPanelDesktop]}>
+            {/* Category Tabs */}
+            <ScrollView 
+              horizontal 
+              showsHorizontalScrollIndicator={false}
+              style={styles.categoryTabs}
+              contentContainerStyle={styles.categoryTabsContent}
+            >
+              {KIT_CATEGORIES.map(cat => {
+                const isSelected = activeCategory === cat.key;
+                const hasGear = !!kit[cat.key];
+                return (
+                  <TouchableOpacity
+                    key={cat.key}
+                    style={[
+                      styles.categoryTab,
+                      { backgroundColor: isSelected ? theme.text : theme.card, borderColor: theme.border },
+                      hasGear && !isSelected && styles.categoryTabHasGear,
+                    ]}
+                    onPress={() => setActiveCategory(cat.key)}
+                  >
+                    <Text style={styles.categoryTabIcon}>{cat.icon}</Text>
+                    <Text style={[
+                      styles.categoryTabLabel,
+                      { color: isSelected ? theme.background : theme.text }
+                    ]}>
+                      {cat.label}
+                    </Text>
+                    {hasGear && (
+                      <View style={styles.categoryTabCheck}>
+                        <Text style={styles.categoryTabCheckIcon}>✓</Text>
+                      </View>
+                    )}
+                  </TouchableOpacity>
+                );
+              })}
+            </ScrollView>
+
+            {/* Category Description */}
+            <View style={[styles.categoryDescription, { backgroundColor: theme.card, borderColor: theme.border }]}>
+              <Text style={[styles.categoryDescriptionText, { color: theme.secondaryText }]}>
+                {KIT_CATEGORIES.find(c => c.key === activeCategory)?.description}
+              </Text>
+            </View>
+
+            {/* Gear Grid */}
+            <View style={styles.gearGrid}>
+              {KIT_BUILDER_CATALOG[activeCategory].map(item => {
+                const isSelected = kit[activeCategory] === item.id;
+                return (
+                  <TouchableOpacity
+                    key={item.id}
+                    style={[
+                      styles.gearCard,
+                      { backgroundColor: theme.card, borderColor: isSelected ? '#dc2626' : theme.border },
+                      isSelected && styles.gearCardSelected,
+                      isMobile && styles.gearCardMobile,
+                    ]}
+                    onPress={() => handleSelectGear(activeCategory, item.id)}
+                  >
+                    <View style={styles.gearCardHeader}>
+                      <Text style={[styles.gearCardBrand, { color: theme.secondaryText }]}>
+                        {item.brand}
+                      </Text>
+                      {isSelected && (
+                        <View style={styles.gearCardSelectedBadge}>
+                          <Text style={styles.gearCardSelectedBadgeText}>✓</Text>
+                        </View>
+                      )}
+                    </View>
+                    <Text style={[styles.gearCardName, { color: theme.text }]} numberOfLines={2}>
+                      {item.name}
+                    </Text>
+                    <Text style={[styles.gearCardPrice, { color: '#dc2626' }]}>
+                      €{item.price.toLocaleString()}
+                    </Text>
+                    <View style={styles.gearCardUsedBy}>
+                      <Text style={[styles.gearCardUsedByLabel, { color: theme.secondaryText }]}>
+                        Used by:
+                      </Text>
+                      <Text style={[styles.gearCardUsedByNames, { color: theme.secondaryText }]} numberOfLines={1}>
+                        {item.usedBy.slice(0, 2).join(', ')}{item.usedBy.length > 2 ? '...' : ''}
+                      </Text>
+                    </View>
+                  </TouchableOpacity>
+                );
+              })}
+            </View>
+          </View>
+
+          {/* Right Panel - Kit Summary */}
+          <View style={[styles.kitBuilderRightPanel, !isMobile && styles.kitBuilderRightPanelDesktop]}>
+            <View style={[styles.kitSummary, { backgroundColor: theme.card, borderColor: theme.border }]}>
+              <Text style={[styles.kitSummaryTitle, { color: theme.text }]}>
+                {kit.kitName || 'Your Kit'} {selectedCount > 0 && `(${selectedCount}/5)`}
+              </Text>
+
+              {/* Selected Items */}
+              <View style={styles.kitSummaryItems}>
+                {KIT_CATEGORIES.map(cat => {
+                  const item = getSelectedItem(cat.key);
+                  return (
+                    <View key={cat.key} style={[styles.kitSummaryItem, { borderColor: theme.border }]}>
+                      <View style={styles.kitSummaryItemLeft}>
+                        <Text style={styles.kitSummaryItemIcon}>{cat.icon}</Text>
+                        <View style={styles.kitSummaryItemInfo}>
+                          <Text style={[styles.kitSummaryItemCategory, { color: theme.secondaryText }]}>
+                            {cat.label}
+                          </Text>
+                          <Text style={[styles.kitSummaryItemName, { color: item ? theme.text : theme.secondaryText }]} numberOfLines={1}>
+                            {item ? item.name : 'Not selected'}
+                          </Text>
+                        </View>
+                      </View>
+                      {item && (
+                        <Text style={[styles.kitSummaryItemPrice, { color: '#dc2626' }]}>
+                          €{item.price.toLocaleString()}
+                        </Text>
+                      )}
+                    </View>
+                  );
+                })}
+              </View>
+
+              {/* Total */}
+              <View style={[styles.kitSummaryTotal, { borderColor: theme.border }]}>
+                <Text style={[styles.kitSummaryTotalLabel, { color: theme.text }]}>
+                  Estimated Total
+                </Text>
+                <Text style={[styles.kitSummaryTotalPrice, { color: '#dc2626' }]}>
+                  €{totalCost.toLocaleString()}
+                </Text>
+              </View>
+
+              {/* Similar Drummers */}
+              {similarDrummers.length > 0 && (
+                <View style={styles.kitSimilarDrummers}>
+                  <Text style={[styles.kitSimilarTitle, { color: theme.text }]}>
+                    🎯 Drummers with Similar Gear
+                  </Text>
+                  {similarDrummers.map(match => (
+                    <TouchableOpacity
+                      key={match.name}
+                      style={[styles.kitSimilarDrummer, { borderColor: theme.border }]}
+                      onPress={() => onSelectDrummer(match.drummer.id)}
+                    >
+                      {match.drummer.image && (
+                        <Image
+                          source={{ uri: match.drummer.image }}
+                          style={styles.kitSimilarDrummerImage}
+                        />
+                      )}
+                      <View style={styles.kitSimilarDrummerInfo}>
+                        <Text style={[styles.kitSimilarDrummerName, { color: theme.text }]}>
+                          {match.name}
+                        </Text>
+                        <Text style={[styles.kitSimilarDrummerMatch, { color: theme.secondaryText }]}>
+                          {match.matchCount} item{match.matchCount > 1 ? 's' : ''} in common
+                        </Text>
+                      </View>
+                      <Text style={[styles.kitSimilarDrummerArrow, { color: theme.secondaryText }]}>→</Text>
+                    </TouchableOpacity>
+                  ))}
+                </View>
+              )}
+
+              {/* Action Buttons */}
+              <View style={styles.kitSummaryActions}>
+                <TouchableOpacity
+                  style={[styles.kitShareButton, selectedCount === 0 && styles.kitShareButtonDisabled]}
+                  onPress={() => setShowShareModal(true)}
+                  disabled={selectedCount === 0}
+                >
+                  <Text style={styles.kitShareButtonText}>📤 Share Kit</Text>
+                </TouchableOpacity>
+                <TouchableOpacity
+                  style={[styles.kitClearButton, { borderColor: theme.border }]}
+                  onPress={handleClearKit}
+                >
+                  <Text style={[styles.kitClearButtonText, { color: theme.secondaryText }]}>🗑️ Clear</Text>
+                </TouchableOpacity>
+              </View>
+            </View>
+          </View>
+        </View>
+
+        {/* Share Modal */}
+        {showShareModal && (
+          <View style={styles.shareModalOverlay}>
+            <View style={[styles.shareModal, { backgroundColor: theme.card, borderColor: theme.border }]}>
+              <Text style={[styles.shareModalTitle, { color: theme.text }]}>Share Your Kit</Text>
+              
+              <View style={styles.shareModalContent}>
+                <Text style={[styles.shareModalLabel, { color: theme.secondaryText }]}>Share Link</Text>
+                <View style={[styles.shareModalLinkBox, { backgroundColor: theme.background, borderColor: theme.border }]}>
+                  <Text style={[styles.shareModalLink, { color: theme.text }]} numberOfLines={1}>
+                    {Platform.OS === 'web' ? window.location.href : 'metalforge.io/kit-builder'}
+                  </Text>
+                </View>
+                
+                <View style={styles.shareModalButtons}>
+                  <TouchableOpacity style={styles.shareModalCopyButton} onPress={handleCopyLink}>
+                    <Text style={styles.shareModalCopyButtonText}>
+                      {copied ? '✓ Copied!' : '📋 Copy Link'}
+                    </Text>
+                  </TouchableOpacity>
+                  <TouchableOpacity style={styles.shareModalTwitterButton} onPress={handleShareTwitter}>
+                    <Text style={styles.shareModalTwitterButtonText}>🐦 Tweet</Text>
+                  </TouchableOpacity>
+                </View>
+              </View>
+
+              <TouchableOpacity
+                style={[styles.shareModalClose, { borderColor: theme.border }]}
+                onPress={() => setShowShareModal(false)}
+              >
+                <Text style={[styles.shareModalCloseText, { color: theme.secondaryText }]}>Close</Text>
+              </TouchableOpacity>
+            </View>
+          </View>
+        )}
+      </View>
+    </ScrollView>
+  );
+}
+
+// ==========================================
 // DRUMMER BIO PAGE - Extended Biography (Issue #305)
 // ==========================================
 function DrummerBioPage({ theme, onBack, drummer, onSelectDrummer }) {
@@ -5436,6 +5933,916 @@ function BandDetailPage({ bandSlug, drummers, onBack, onSelectDrummer, theme }) 
   );
 }
 
+// ==========================================
+// GEAR CATEGORY PAGES (Issue #339)
+// ==========================================
+
+// Gear category metadata for SEO
+const GEAR_CATEGORY_META = {
+  cymbals: {
+    title: 'Metal Cymbals',
+    metaTitle: 'Best Cymbals for Metal Drumming - Professional Metal Cymbals Guide | MetalForge',
+    description: 'Discover the best cymbals for metal drumming. From crashes to rides, hi-hats to chinas - explore professional cymbal setups used by legendary metal drummers.',
+    icon: '🥁',
+  },
+  snares: {
+    title: 'Metal Snare Drums',
+    metaTitle: 'Best Snare Drums for Metal - Professional Metal Snare Guide | MetalForge',
+    description: 'Find the perfect snare drum for metal. Compare steel, brass, and wood snares used by professional metal drummers.',
+    icon: '🥁',
+  },
+  drums: {
+    title: 'Metal Drum Kits',
+    metaTitle: 'Best Drum Kits for Metal - Professional Metal Drums Guide | MetalForge',
+    description: 'Explore professional drum kits used by metal drummers. From Tama Starclassic to Sonor SQ2.',
+    icon: '🥁',
+  },
+  pedals: {
+    title: 'Metal Bass Drum Pedals',
+    metaTitle: 'Best Bass Drum Pedals for Metal - Double Bass Pedal Guide | MetalForge',
+    description: 'Compare the best bass drum pedals for metal drumming. Double pedals and direct drive options.',
+    icon: '🦶',
+  },
+  sticks: {
+    title: 'Metal Drumsticks',
+    metaTitle: 'Best Drumsticks for Metal - Heavy Duty Drumstick Guide | MetalForge',
+    description: 'Find the perfect drumsticks for metal. Heavy-hitting sticks used by professional metal drummers.',
+    icon: '🥢',
+  },
+  hardware: {
+    title: 'Metal Drum Hardware',
+    metaTitle: 'Best Drum Hardware for Metal - Professional Hardware Guide | MetalForge',
+    description: 'Explore professional drum hardware for metal. Hi-hat stands, cymbal stands, thrones, and rack systems.',
+    icon: '🔩',
+  },
+};
+
+/**
+ * GearIndexPage - Main gear landing page with all categories
+ */
+function GearIndexPage({ theme, onBack, onNavigateToCategory, onSelectGear }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+
+  // Update SEO meta tags
+  useEffect(() => {
+    if (Platform.OS === 'web' && typeof document !== 'undefined') {
+      document.title = 'Metal Drumming Gear Guide - Cymbals, Snares, Pedals & More | MetalForge';
+
+      const setMeta = (name, content, isProperty = false) => {
+        const attr = isProperty ? 'property' : 'name';
+        let meta = document.querySelector(`meta[${attr}="${name}"]`);
+        if (!meta) {
+          meta = document.createElement('meta');
+          meta.setAttribute(attr, name);
+          document.head.appendChild(meta);
+        }
+        meta.setAttribute('content', content);
+      };
+
+      const description = 'Complete guide to metal drumming gear. Explore cymbals, snare drums, drum kits, bass drum pedals, and hardware used by legendary metal drummers.';
+      setMeta('description', description);
+      setMeta('keywords', 'metal drumming gear, metal cymbals, metal snares, double bass pedals, drum kits, metal drummers');
+      setMeta('og:title', 'Metal Drumming Gear Guide | MetalForge', true);
+      setMeta('og:description', description, true);
+      setMeta('og:type', 'website', true);
+      setMeta('og:url', 'https://metalforge.io/gear', true);
+      setMeta('twitter:card', 'summary_large_image');
+      setMeta('twitter:title', 'Metal Drumming Gear Guide | MetalForge');
+      setMeta('twitter:description', description);
+
+      // ItemList schema for gear categories
+      const itemListSchema = {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Metal Drumming Gear Categories",
+        "description": description,
+        "itemListElement": Object.entries(GEAR_CATEGORY_META).map(([slug, meta], index) => ({
+          "@type": "ListItem",
+          "position": index + 1,
+          "name": meta.title,
+          "url": `https://metalforge.io/gear/${slug}`
+        }))
+      };
+
+      let ldScript = document.querySelector('script[data-schema="gear-index"]');
+      if (!ldScript) {
+        ldScript = document.createElement('script');
+        ldScript.type = 'application/ld+json';
+        ldScript.setAttribute('data-schema', 'gear-index');
+        document.head.appendChild(ldScript);
+      }
+      ldScript.textContent = JSON.stringify(itemListSchema);
+    }
+
+    return () => {
+      if (Platform.OS === 'web' && typeof document !== 'undefined') {
+        const ldScript = document.querySelector('script[data-schema="gear-index"]');
+        if (ldScript) ldScript.remove();
+      }
+    };
+  }, []);
+
+  const categories = Object.entries(GEAR_CATEGORY_META);
+
+  return (
+    <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+      <View style={[styles.detailContent, { maxWidth: 1000, marginHorizontal: 'auto' }]}>
+        <TouchableOpacity
+          onPress={onBack}
+          style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          accessibilityRole="button"
+          accessibilityLabel="Go back"
+        >
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+        </TouchableOpacity>
+
+        <Text style={[styles.listPageTitle, { color: theme.text }]} accessibilityRole="heading">
+          🥁 Metal Drumming Gear Guide
+        </Text>
+        <Text style={[styles.listPageIntro, { color: theme.secondaryText }]}>
+          Explore the essential gear categories used by legendary metal drummers. From cymbal setups to double bass pedals, 
+          discover what the pros use to create their iconic sounds.
+        </Text>
+
+        <View style={[styles.listIndexGrid, isMobile && styles.listIndexGridMobile]}>
+          {categories.map(([slug, meta]) => (
+            <TouchableOpacity
+              key={slug}
+              onPress={() => onNavigateToCategory(slug)}
+              style={[
+                styles.listIndexCard,
+                { backgroundColor: theme.card, borderColor: theme.border },
+                isMobile && { maxWidth: '100%' }
+              ]}
+              accessibilityRole="link"
+              accessibilityLabel={`Browse ${meta.title}`}
+            >
+              <Text style={styles.listIndexEmoji}>{meta.icon}</Text>
+              <Text style={[styles.listIndexCardTitle, { color: theme.text }]}>
+                {meta.title}
+              </Text>
+              <Text style={[styles.listIndexCardDesc, { color: theme.secondaryText }]}>
+                {meta.description}
+              </Text>
+              <Text style={[styles.listIndexCardCount, { color: '#f59e0b' }]}>
+                Browse gear →
+              </Text>
+            </TouchableOpacity>
+          ))}
+        </View>
+      </View>
+    </ScrollView>
+  );
+}
+
+/**
+ * GearCategoryPage - Individual gear category page with SEO
+ */
+function GearCategoryPage({ category, categoryData, loading, theme, onBack, onSelectGear, onNavigateToCategory }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const meta = GEAR_CATEGORY_META[category] || {};
+
+  // Update SEO meta tags
+  useEffect(() => {
+    if (Platform.OS === 'web' && typeof document !== 'undefined' && categoryData) {
+      document.title = meta.metaTitle || `${meta.title} | MetalForge`;
+
+      const setMeta = (name, content, isProperty = false) => {
+        const attr = isProperty ? 'property' : 'name';
+        let metaTag = document.querySelector(`meta[${attr}="${name}"]`);
+        if (!metaTag) {
+          metaTag = document.createElement('meta');
+          metaTag.setAttribute(attr, name);
+          document.head.appendChild(metaTag);
+        }
+        metaTag.setAttribute('content', content);
+      };
+
+      const description = categoryData.meta?.description || meta.description;
+      const keywords = categoryData.meta?.keywords?.join(', ') || `${category}, metal drumming, drum gear`;
+
+      setMeta('description', description);
+      setMeta('keywords', keywords);
+      setMeta('og:title', meta.metaTitle, true);
+      setMeta('og:description', description, true);
+      setMeta('og:type', 'website', true);
+      setMeta('og:url', `https://metalforge.io/gear/${category}`, true);
+      setMeta('twitter:card', 'summary_large_image');
+      setMeta('twitter:title', meta.metaTitle);
+      setMeta('twitter:description', description);
+
+      // Canonical URL
+      let canonicalLink = document.querySelector('link[rel="canonical"]');
+      if (!canonicalLink) {
+        canonicalLink = document.createElement('link');
+        canonicalLink.setAttribute('rel', 'canonical');
+        document.head.appendChild(canonicalLink);
+      }
+      canonicalLink.setAttribute('href', `https://metalforge.io/gear/${category}`);
+
+      // ProductCollection schema for gear category
+      const collectionSchema = {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": meta.title,
+        "description": categoryData.meta?.longDescription || description,
+        "url": `https://metalforge.io/gear/${category}`,
+        "mainEntity": {
+          "@type": "ItemList",
+          "name": `${meta.title} for Metal Drumming`,
+          "numberOfItems": categoryData.items?.length || 0,
+          "itemListElement": (categoryData.items || []).map((item, index) => ({
+            "@type": "ListItem",
+            "position": index + 1,
+            "item": {
+              "@type": "Product",
+              "name": item.name,
+              "brand": {
+                "@type": "Brand",
+                "name": item.brand
+              },
+              "description": item.shortDescription,
+              "image": item.image,
+              "url": `https://metalforge.io/gear/item/${item.slug}`,
+              "offers": {
+                "@type": "Offer",
+                "priceCurrency": "EUR",
+                "price": item.priceEur,
+                "availability": "https://schema.org/InStock"
+              }
+            }
+          }))
+        },
+        "breadcrumb": {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://metalforge.io" },
+            { "@type": "ListItem", "position": 2, "name": "Gear", "item": "https://metalforge.io/gear" },
+            { "@type": "ListItem", "position": 3, "name": meta.title, "item": `https://metalforge.io/gear/${category}` }
+          ]
+        }
+      };
+
+      let ldScript = document.querySelector('script[data-schema="gear-category"]');
+      if (!ldScript) {
+        ldScript = document.createElement('script');
+        ldScript.type = 'application/ld+json';
+        ldScript.setAttribute('data-schema', 'gear-category');
+        document.head.appendChild(ldScript);
+      }
+      ldScript.textContent = JSON.stringify(collectionSchema);
+    }
+
+    return () => {
+      if (Platform.OS === 'web' && typeof document !== 'undefined') {
+        const ldScript = document.querySelector('script[data-schema="gear-category"]');
+        if (ldScript) ldScript.remove();
+        const canonicalLink = document.querySelector('link[rel="canonical"][href*="/gear/"]');
+        if (canonicalLink) canonicalLink.remove();
+      }
+    };
+  }, [category, categoryData, meta]);
+
+  if (loading) {
+    return (
+      <View style={[styles.container, { backgroundColor: theme.background }]}>
+        <View style={styles.centerContainer}>
+          <ActivityIndicator size="large" color={theme.text} />
+          <Text style={[styles.loadingText, { color: theme.secondaryText }]}>
+            Loading {meta.title}...
+          </Text>
+        </View>
+      </View>
+    );
+  }
+
+  const items = categoryData?.items || [];
+  const brands = categoryData?.brands || [];
+  const otherCategories = Object.entries(GEAR_CATEGORY_META).filter(([slug]) => slug !== category);
+
+  return (
+    <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+      <View style={[styles.detailContent, { maxWidth: 1000, marginHorizontal: 'auto' }]}>
+        {/* Back button */}
+        <TouchableOpacity
+          onPress={onBack}
+          style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          accessibilityRole="button"
+          accessibilityLabel="Go back"
+        >
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+        </TouchableOpacity>
+
+        {/* Page header */}
+        <Text style={[styles.listPageTitle, { color: theme.text }]} accessibilityRole="heading">
+          {meta.icon} {meta.title}
+        </Text>
+        <Text style={[styles.listPageIntro, { color: theme.secondaryText }]}>
+          {categoryData?.meta?.longDescription || meta.description}
+        </Text>
+
+        {/* Brand filters */}
+        {brands.length > 0 && (
+          <View style={{ marginBottom: 24 }}>
+            <Text style={[{ fontSize: 14, fontWeight: '600', marginBottom: 8 }, { color: theme.text }]}>
+              Filter by Brand:
+            </Text>
+            <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: 8 }}>
+              {brands.map(brand => (
+                <TouchableOpacity
+                  key={brand}
+                  style={[
+                    { paddingHorizontal: 12, paddingVertical: 6, borderRadius: 20, borderWidth: 1 },
+                    { backgroundColor: theme.card, borderColor: theme.border }
+                  ]}
+                  accessibilityRole="button"
+                  accessibilityLabel={`Filter by ${brand}`}
+                >
+                  <Text style={{ color: theme.text, fontSize: 13 }}>{brand}</Text>
+                </TouchableOpacity>
+              ))}
+            </View>
+          </View>
+        )}
+
+        {/* Gear items grid */}
+        <View style={[styles.relatedGearContainer, { marginTop: 16 }]}>
+          {items.map(item => (
+            <TouchableOpacity
+              key={item.id}
+              onPress={() => onSelectGear(item.slug)}
+              style={[
+                styles.relatedGearCard,
+                { backgroundColor: theme.card, borderColor: theme.border },
+                isMobile && { width: '100%', maxWidth: '100%' }
+              ]}
+              accessibilityRole="link"
+              accessibilityLabel={`View ${item.name}`}
+            >
+              <ImageWithFallback
+                source={{ uri: item.image }}
+                style={styles.relatedGearImage}
+                accessibilityLabel={`Photo of ${item.name}`}
+                width={150}
+                height={100}
+                imageContext="gallery"
+              />
+              <Text style={[styles.relatedGearName, { color: theme.text }]} numberOfLines={2}>
+                {item.name}
+              </Text>
+              <Text style={[{ fontSize: 12, marginBottom: 4 }, { color: theme.secondaryText }]}>
+                {item.brand}
+              </Text>
+              <Text style={[styles.relatedGearPrice, { color: '#f59e0b' }]}>
+                {formatPrice(item.priceEur, 'EUR')}
+              </Text>
+              {item.drummerCount > 0 && (
+                <Text style={[{ fontSize: 11, marginTop: 4 }, { color: theme.secondaryText }]}>
+                  Used by {item.drummerCount} pro drummer{item.drummerCount !== 1 ? 's' : ''}
+                </Text>
+              )}
+            </TouchableOpacity>
+          ))}
+        </View>
+
+        {/* Related categories */}
+        <View style={[styles.relatedListsSection, { borderTopColor: theme.border }]}>
+          <Text style={[styles.relatedListsTitle, { color: theme.text }]}>
+            Explore Other Gear Categories
+          </Text>
+          <View style={[styles.relatedListsGrid, isMobile && styles.relatedListsGridMobile]}>
+            {otherCategories.slice(0, 4).map(([slug, catMeta]) => (
+              <TouchableOpacity
+                key={slug}
+                onPress={() => onNavigateToCategory(slug)}
+                style={[
+                  styles.relatedListCard,
+                  { backgroundColor: theme.card, borderColor: theme.border }
+                ]}
+                accessibilityRole="link"
+                accessibilityLabel={`Browse ${catMeta.title}`}
+              >
+                <Text style={styles.relatedListEmoji}>{catMeta.icon}</Text>
+                <Text style={[styles.relatedListName, { color: theme.text }]}>
+                  {catMeta.title}
+                </Text>
+              </TouchableOpacity>
+            ))}
+          </View>
+        </View>
+      </View>
+    </ScrollView>
+  );
+}
+
+// ==========================================
+// GENRE LANDING PAGE (Issue #340)
+// ==========================================
+
+// Genre Landing Page - SEO-optimized pages for each metal subgenre
+function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavigateGenre, theme }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const genre = getGenre(genreSlug);
+  const relatedGenres = getRelatedGenres(genreSlug);
+
+  // Filter drummers for this genre
+  const genreDrummers = useMemo(() => {
+    if (!genre || !drummers) return [];
+    return getDrummersByGenre(genreSlug, drummers);
+  }, [genreSlug, drummers, genre]);
+
+  // Update SEO meta tags for genre page
+  useEffect(() => {
+    if (Platform.OS === 'web' && typeof document !== 'undefined' && genre) {
+      const pageTitle = `${genre.name} Drummers - Gear, Videos & Bio | MetalForge`;
+      const pageDescription = genre.description;
+
+      document.title = pageTitle;
+
+      const setMeta = (name, content, isProperty = false) => {
+        const attr = isProperty ? 'property' : 'name';
+        let meta = document.querySelector(`meta[${attr}="${name}"]`);
+        if (!meta) {
+          meta = document.createElement('meta');
+          meta.setAttribute(attr, name);
+          document.head.appendChild(meta);
+        }
+        meta.setAttribute('content', content);
+      };
+
+      // Standard meta tags
+      setMeta('description', pageDescription);
+      setMeta('keywords', genre.keywords.join(', '));
+
+      // OpenGraph tags
+      setMeta('og:title', pageTitle, true);
+      setMeta('og:description', pageDescription, true);
+      setMeta('og:type', 'website', true);
+      setMeta('og:url', `https://metalforge.io/genre/${genreSlug}`, true);
+      setMeta('og:site_name', 'MetalForge', true);
+
+      // Twitter Card tags
+      setMeta('twitter:card', 'summary_large_image');
+      setMeta('twitter:site', '@MetalDrumGear');
+      setMeta('twitter:title', pageTitle);
+      setMeta('twitter:description', pageDescription);
+
+      // Canonical URL
+      let canonicalLink = document.querySelector('link[rel="canonical"]');
+      if (!canonicalLink) {
+        canonicalLink = document.createElement('link');
+        canonicalLink.setAttribute('rel', 'canonical');
+        document.head.appendChild(canonicalLink);
+      }
+      canonicalLink.setAttribute('href', `https://metalforge.io/genre/${genreSlug}`);
+
+      // Schema.org Structured Data - CollectionPage for genre
+      const genreSchema = {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": `${genre.name} Drummers`,
+        "description": genre.description,
+        "url": `https://metalforge.io/genre/${genreSlug}`,
+        "mainEntity": {
+          "@type": "ItemList",
+          "name": `${genre.name} Drummers`,
+          "description": `Professional ${genre.name.toLowerCase()} drummers and their gear`,
+          "numberOfItems": genreDrummers.length,
+          "itemListElement": genreDrummers.slice(0, 10).map((drummer, index) => ({
+            "@type": "ListItem",
+            "position": index + 1,
+            "item": {
+              "@type": "Person",
+              "name": drummer.name,
+              "jobTitle": "Drummer",
+              "worksFor": {
+                "@type": "MusicGroup",
+                "name": drummer.band
+              },
+              "url": `https://metalforge.io/drummer/${drummer.name.toLowerCase().replace(/\s+/g, '-')}`
+            }
+          }))
+        },
+        "about": {
+          "@type": "MusicGenre",
+          "name": genre.name,
+          "description": genre.longDescription
+        },
+        "isPartOf": {
+          "@type": "WebSite",
+          "name": "MetalForge",
+          "url": "https://metalforge.io"
+        }
+      };
+
+      let ldScript = document.querySelector('script[data-schema="genre"]');
+      if (!ldScript) {
+        ldScript = document.createElement('script');
+        ldScript.type = 'application/ld+json';
+        ldScript.setAttribute('data-schema', 'genre');
+        document.head.appendChild(ldScript);
+      }
+      ldScript.textContent = JSON.stringify(genreSchema);
+
+      // FAQ Schema if genre has FAQ
+      if (genre.faq && genre.faq.length > 0) {
+        const faqSchema = {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": genre.faq.map(faqItem => ({
+            "@type": "Question",
+            "name": faqItem.question,
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": faqItem.answer
+            }
+          }))
+        };
+
+        let faqLdScript = document.querySelector('script[data-schema="genre-faq"]');
+        if (!faqLdScript) {
+          faqLdScript = document.createElement('script');
+          faqLdScript.type = 'application/ld+json';
+          faqLdScript.setAttribute('data-schema', 'genre-faq');
+          document.head.appendChild(faqLdScript);
+        }
+        faqLdScript.textContent = JSON.stringify(faqSchema);
+      }
+
+      // BreadcrumbList Schema
+      const breadcrumbSchema = {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://metalforge.io"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Genres",
+            "item": "https://metalforge.io/genres"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": genre.name,
+            "item": `https://metalforge.io/genre/${genreSlug}`
+          }
+        ]
+      };
+
+      let breadcrumbScript = document.querySelector('script[data-schema="genre-breadcrumb"]');
+      if (!breadcrumbScript) {
+        breadcrumbScript = document.createElement('script');
+        breadcrumbScript.type = 'application/ld+json';
+        breadcrumbScript.setAttribute('data-schema', 'genre-breadcrumb');
+        document.head.appendChild(breadcrumbScript);
+      }
+      breadcrumbScript.textContent = JSON.stringify(breadcrumbSchema);
+    }
+
+    // Cleanup on unmount
+    return () => {
+      if (Platform.OS === 'web' && typeof document !== 'undefined') {
+        const ldScript = document.querySelector('script[data-schema="genre"]');
+        if (ldScript) ldScript.remove();
+        const faqLdScript = document.querySelector('script[data-schema="genre-faq"]');
+        if (faqLdScript) faqLdScript.remove();
+        const breadcrumbScript = document.querySelector('script[data-schema="genre-breadcrumb"]');
+        if (breadcrumbScript) breadcrumbScript.remove();
+        const canonicalLink = document.querySelector('link[rel="canonical"][href*="/genre/"]');
+        if (canonicalLink) canonicalLink.remove();
+      }
+    };
+  }, [genre, genreSlug, genreDrummers]);
+
+  // Genre not found
+  if (!genre) {
+    return (
+      <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+        <View style={styles.detailContent}>
+          <TouchableOpacity
+            onPress={onBack}
+            style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+            accessibilityRole="button"
+            accessibilityLabel="Go back"
+          >
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+          </TouchableOpacity>
+          <Text style={[styles.bandPageTitle, { color: theme.text }]}>Genre Not Found</Text>
+          <Text style={[styles.bandPageSubtitle, { color: theme.secondaryText }]}>
+            The genre "{genreSlug}" could not be found. Please check the URL and try again.
+          </Text>
+        </View>
+      </ScrollView>
+    );
+  }
+
+  return (
+    <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+      <View style={styles.detailContent}>
+        {/* Back Button */}
+        <TouchableOpacity
+          onPress={onBack}
+          style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          accessibilityRole="button"
+          accessibilityLabel="Go back to home"
+        >
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+        </TouchableOpacity>
+
+        {/* Genre Header */}
+        <View style={[styles.genreHeader, { marginBottom: 24 }]}>
+          <View style={{ flexDirection: 'row', alignItems: 'center', marginBottom: 8 }}>
+            <Text style={{ fontSize: 40, marginRight: 12 }}>{genre.icon}</Text>
+            <View style={{ flex: 1 }}>
+              <Text style={[styles.bandPageTitle, { color: theme.text, marginBottom: 0 }]}>
+                {genre.name}
+              </Text>
+              <Text style={[styles.genreTagline, { color: theme.accent }]}>
+                {genreDrummers.length} drummer{genreDrummers.length !== 1 ? 's' : ''} • Est. {genre.foundedYear}
+              </Text>
+            </View>
+          </View>
+          <Text style={[styles.bandSummary, { color: theme.secondaryText }]}>
+            {genre.description}
+          </Text>
+        </View>
+
+        {/* Long Description */}
+        <View style={[styles.genreSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.sectionTitle, { color: theme.text }]}>About {genre.name} Drumming</Text>
+          {genre.longDescription.split('\n\n').map((paragraph, index) => (
+            <Text key={index} style={[styles.genreParagraph, { color: theme.secondaryText }]}>
+              {paragraph.startsWith('- **') 
+                ? paragraph.replace(/\*\*([^*]+)\*\*/g, '$1')
+                : paragraph.replace(/\*\*([^*]+)\*\*/g, '$1')}
+            </Text>
+          ))}
+        </View>
+
+        {/* Pioneers Section */}
+        {genre.pioneers && genre.pioneers.length > 0 && (
+          <View style={[styles.genreSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>Genre Pioneers</Text>
+            <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: 8 }}>
+              {genre.pioneers.map((pioneer, index) => {
+                // Find if pioneer is in our drummers list
+                const drummerData = drummers.find(d => 
+                  d.name.toLowerCase() === pioneer.toLowerCase()
+                );
+                return (
+                  <TouchableOpacity
+                    key={index}
+                    style={[styles.pioneerTag, { 
+                      backgroundColor: drummerData ? theme.accent + '20' : theme.background,
+                      borderColor: drummerData ? theme.accent : theme.border,
+                      borderWidth: 1,
+                      paddingHorizontal: 12,
+                      paddingVertical: 8,
+                      borderRadius: 8,
+                    }]}
+                    onPress={() => drummerData && onSelectDrummer(drummerData.id)}
+                    disabled={!drummerData}
+                    accessibilityRole={drummerData ? 'button' : 'text'}
+                  >
+                    <Text style={{ 
+                      color: drummerData ? theme.accent : theme.secondaryText,
+                      fontWeight: drummerData ? '600' : '400'
+                    }}>
+                      {pioneer} {drummerData ? '→' : ''}
+                    </Text>
+                  </TouchableOpacity>
+                );
+              })}
+            </View>
+          </View>
+        )}
+
+        {/* Drummers in this Genre */}
+        {genreDrummers.length > 0 && (
+          <View style={[styles.genreSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>
+              {genre.name} Drummers ({genreDrummers.length})
+            </Text>
+            <View style={{ gap: 12 }}>
+              {genreDrummers.map((drummer) => (
+                <TouchableOpacity
+                  key={drummer.id}
+                  style={[styles.drummerRow, { 
+                    backgroundColor: theme.background,
+                    borderColor: theme.border,
+                    borderWidth: 1,
+                    borderRadius: 8,
+                    padding: 12,
+                    flexDirection: 'row',
+                    alignItems: 'center',
+                  }]}
+                  onPress={() => onSelectDrummer(drummer.id)}
+                  accessibilityRole="button"
+                  accessibilityLabel={`View ${drummer.name}`}
+                >
+                  {drummer.image && (
+                    <Image
+                      source={{ uri: getOptimizedImageUrl(drummer.image, 60) }}
+                      style={{ 
+                        width: 50, 
+                        height: 50, 
+                        borderRadius: 25, 
+                        marginRight: 12,
+                        backgroundColor: theme.border
+                      }}
+                      contentFit="cover"
+                    />
+                  )}
+                  <View style={{ flex: 1 }}>
+                    <Text style={[styles.drummerName, { color: theme.text, fontSize: 16 }]}>
+                      {drummer.name}
+                    </Text>
+                    <Text style={{ color: theme.secondaryText, fontSize: 14 }}>
+                      {drummer.band}
+                    </Text>
+                  </View>
+                  <Text style={{ color: theme.accent, fontSize: 18 }}>→</Text>
+                </TouchableOpacity>
+              ))}
+            </View>
+          </View>
+        )}
+
+        {/* FAQ Section */}
+        {genre.faq && genre.faq.length > 0 && (
+          <View style={[styles.genreSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>Frequently Asked Questions</Text>
+            {genre.faq.map((faqItem, index) => (
+              <View key={index} style={{ marginBottom: index < genre.faq.length - 1 ? 16 : 0 }}>
+                <Text style={[styles.faqQuestion, { color: theme.text }]}>
+                  {faqItem.question}
+                </Text>
+                <Text style={[styles.faqAnswer, { color: theme.secondaryText }]}>
+                  {faqItem.answer}
+                </Text>
+              </View>
+            ))}
+          </View>
+        )}
+
+        {/* Related Genres */}
+        {relatedGenres.length > 0 && (
+          <View style={[styles.genreSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>Related Genres</Text>
+            <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: 8 }}>
+              {relatedGenres.map((related) => (
+                <TouchableOpacity
+                  key={related.slug}
+                  style={[styles.relatedGenreTag, { 
+                    backgroundColor: related.color + '20',
+                    borderColor: related.color,
+                    borderWidth: 1,
+                    paddingHorizontal: 14,
+                    paddingVertical: 10,
+                    borderRadius: 8,
+                  }]}
+                  onPress={() => onNavigateGenre(related.slug)}
+                  accessibilityRole="button"
+                  accessibilityLabel={`Explore ${related.name}`}
+                >
+                  <Text style={{ color: related.color, fontWeight: '600' }}>
+                    {related.icon} {related.name}
+                  </Text>
+                </TouchableOpacity>
+              ))}
+            </View>
+          </View>
+        )}
+
+        {/* Browse All Genres Link */}
+        <View style={{ marginTop: 24, marginBottom: 40 }}>
+          <TouchableOpacity
+            style={[styles.browseAllGenresButton, { 
+              backgroundColor: theme.accent,
+              paddingVertical: 14,
+              paddingHorizontal: 24,
+              borderRadius: 8,
+              alignItems: 'center'
+            }]}
+            onPress={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/genres');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            accessibilityRole="button"
+            accessibilityLabel="Browse all genres"
+          >
+            <Text style={{ color: '#ffffff', fontWeight: '700', fontSize: 16 }}>
+              Browse All Genres
+            </Text>
+          </TouchableOpacity>
+        </View>
+      </View>
+    </ScrollView>
+  );
+}
+
+// Genres List Page - Browse all genres
+function GenresListPage({ onBack, onSelectGenre, theme }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const allGenres = getAllGenres();
+
+  // Update SEO
+  useEffect(() => {
+    if (Platform.OS === 'web' && typeof document !== 'undefined') {
+      document.title = 'Metal Genres - Explore Thrash, Death, Black, Prog & More | MetalForge';
+      const setMeta = (name, content, isProperty = false) => {
+        const attr = isProperty ? 'property' : 'name';
+        let meta = document.querySelector(`meta[${attr}="${name}"]`);
+        if (!meta) {
+          meta = document.createElement('meta');
+          meta.setAttribute(attr, name);
+          document.head.appendChild(meta);
+        }
+        meta.setAttribute('content', content);
+      };
+      setMeta('description', 'Explore metal subgenres and discover the best drummers in thrash, death, black, progressive, nu-metal, groove, metalcore, and more.');
+      setMeta('og:title', 'Metal Genres | MetalForge', true);
+      setMeta('og:description', 'Explore metal subgenres and their drummers.', true);
+      setMeta('og:url', 'https://metalforge.io/genres', true);
+    }
+  }, []);
+
+  return (
+    <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+      <View style={styles.detailContent}>
+        <TouchableOpacity
+          onPress={onBack}
+          style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          accessibilityRole="button"
+          accessibilityLabel="Go back"
+        >
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+        </TouchableOpacity>
+
+        <Text style={[styles.bandPageTitle, { color: theme.text }]}>Metal Genres</Text>
+        <Text style={[styles.bandPageSubtitle, { color: theme.secondaryText, marginBottom: 24 }]}>
+          Explore metal subgenres and discover the drummers who defined them.
+        </Text>
+
+        <View style={{ 
+          flexDirection: 'row', 
+          flexWrap: 'wrap', 
+          gap: 16,
+          justifyContent: isMobile ? 'center' : 'flex-start'
+        }}>
+          {allGenres.map((genre) => (
+            <TouchableOpacity
+              key={genre.slug}
+              style={[styles.genreCard, { 
+                backgroundColor: theme.card,
+                borderColor: genre.color,
+                borderWidth: 2,
+                borderRadius: 12,
+                padding: 16,
+                width: isMobile ? '100%' : 'calc(50% - 8px)',
+                maxWidth: 400,
+              }]}
+              onPress={() => onSelectGenre(genre.slug)}
+              accessibilityRole="button"
+              accessibilityLabel={`Explore ${genre.name}`}
+            >
+              <View style={{ flexDirection: 'row', alignItems: 'center', marginBottom: 8 }}>
+                <Text style={{ fontSize: 28, marginRight: 10 }}>{genre.icon}</Text>
+                <Text style={[styles.genreCardTitle, { color: theme.text, flex: 1 }]}>
+                  {genre.name}
+                </Text>
+              </View>
+              <Text style={{ color: theme.secondaryText, fontSize: 14, lineHeight: 20 }} numberOfLines={3}>
+                {genre.description}
+              </Text>
+              <View style={{ marginTop: 12, flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center' }}>
+                <Text style={{ color: genre.color, fontWeight: '600', fontSize: 12 }}>
+                  Est. {genre.foundedYear}
+                </Text>
+                <Text style={{ color: theme.accent, fontWeight: '600' }}>
+                  Explore →
+                </Text>
+              </View>
+            </TouchableOpacity>
+          ))}
+        </View>
+      </View>
+    </ScrollView>
+  );
+}
+
 // Quotes Page - Browse all drummer quotes
 function QuotesPage({ theme, onBack, onSelectDrummer }) {
   const { width } = useWindowDimensions();
@@ -5640,6 +7047,7 @@ function DrummerList({
   onNavigateToGearByBudget,
   onNavigateToList,
   onNavigateToGearFinder,
+  onNavigateToKitBuilder,
   spotlight,
   filters,
   onFilterChange,
@@ -5750,6 +7158,16 @@ function DrummerList({
           accessibilityLabel="Search drummers by gear"
         >
           <Text style={[styles.quizButtonText, { color: '#ffffff' }]}>🔍 Gear Finder</Text>
+        </TouchableOpacity>
+      </View>
+      <View style={[styles.actionButtonsRow, { marginTop: -8 }]}>
+        <TouchableOpacity
+          onPress={onNavigateToKitBuilder}
+          style={[styles.quizButton, { backgroundColor: '#f97316', borderColor: '#f97316' }]}
+          accessibilityRole="button"
+          accessibilityLabel="Build your custom drum kit"
+        >
+          <Text style={[styles.quizButtonText, { color: '#ffffff' }]}>🛠️ Kit Builder</Text>
         </TouchableOpacity>
       </View>
       {/* Drummer Spotlight Section */}
@@ -5902,8 +7320,48 @@ function updateListURL(slug) {
 // Check if we're on a gear page based on URL
 function getGearSlugFromURL() {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
+  // Match /gear/item/:slug for individual gear items
+  const itemMatch = window.location.pathname.match(/^\/gear\/item\/([a-z0-9-]+)$/);
+  if (itemMatch) return itemMatch[1];
+  // Legacy: also match /gear/:slug if it's a known gear item (not a category)
   const match = window.location.pathname.match(/^\/gear\/([a-z0-9-]+)$/);
-  return match ? match[1] : null;
+  const knownCategories = ['cymbals', 'snares', 'drums', 'pedals', 'sticks', 'hardware'];
+  return match && !knownCategories.includes(match[1]) ? match[1] : null;
+}
+
+// ==========================================
+// GEAR CATEGORY PAGES (Issue #339)
+// ==========================================
+
+// Valid gear categories
+const GEAR_CATEGORIES = ['cymbals', 'snares', 'drums', 'pedals', 'sticks', 'hardware'];
+
+// Check if we're on the gear index page (/gear)
+function isGearIndexPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  const pathname = window.location.pathname;
+  return pathname === '/gear' || pathname === '/gear/';
+}
+
+// Check if we're on a gear category page (/gear/:category)
+function isGearCategoryPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  const match = window.location.pathname.match(/^\/gear\/([a-z0-9-]+)$/);
+  return match && GEAR_CATEGORIES.includes(match[1]);
+}
+
+// Get gear category from URL
+function getGearCategoryFromURL() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(/^\/gear\/([a-z0-9-]+)$/);
+  return match && GEAR_CATEGORIES.includes(match[1]) ? match[1] : null;
+}
+
+// Update URL for gear category page
+function updateGearCategoryURL(category) {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return;
+  const newPath = category ? `/gear/${category}` : '/gear';
+  window.history.pushState({}, '', newPath);
 }
 
 // Check if we're on a drummer profile page based on URL
@@ -5954,6 +7412,129 @@ function isBandsListPage() {
 function updateBandURL(slug) {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return;
   window.history.pushState({}, '', `/bands/${slug}`);
+}
+
+// ==========================================
+// GENRE PAGE ROUTING (Issue #340)
+// ==========================================
+
+// Check if we're on a genre landing page (/genre/:slug)
+function isGenreLandingPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  return /^\/genre\/[a-z0-9-]+$/i.test(window.location.pathname);
+}
+
+// Get the genre slug from URL
+function getGenreSlugFromURL() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(/^\/genre\/([a-z0-9-]+)$/i);
+  return match ? match[1] : null;
+}
+
+// Check if we're on the genres listing page (/genres)
+function isGenresListPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  return window.location.pathname === '/genres' || window.location.pathname === '/genres/';
+}
+
+// Update URL for genre landing page
+function updateGenreURL(slug) {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return;
+  window.history.pushState({}, '', `/genre/${slug}`);
+}
+
+// ==========================================
+// KIT BUILDER ROUTING (Issue #341)
+// ==========================================
+
+// Check if we're on the kit builder page
+function isKitBuilderPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  const pathname = window.location.pathname;
+  return pathname === '/kit-builder' || pathname.startsWith('/kit-builder?') ||
+         pathname === '/build-kit' || pathname.startsWith('/build-kit?');
+}
+
+// Get kit configuration from URL params
+function getKitFromURL() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
+  const params = new URLSearchParams(window.location.search);
+  const kit = {};
+  if (params.get('drums')) kit.drums = params.get('drums');
+  if (params.get('snare')) kit.snare = params.get('snare');
+  if (params.get('cymbals')) kit.cymbals = params.get('cymbals');
+  if (params.get('hardware')) kit.hardware = params.get('hardware');
+  if (params.get('sticks')) kit.sticks = params.get('sticks');
+  if (params.get('name')) kit.kitName = params.get('name');
+  return Object.keys(kit).length > 0 ? kit : null;
+}
+
+// Update URL with kit configuration
+function updateKitURL(kit) {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return;
+  const params = new URLSearchParams();
+  if (kit.drums) params.set('drums', kit.drums);
+  if (kit.snare) params.set('snare', kit.snare);
+  if (kit.cymbals) params.set('cymbals', kit.cymbals);
+  if (kit.hardware) params.set('hardware', kit.hardware);
+  if (kit.sticks) params.set('sticks', kit.sticks);
+  if (kit.kitName) params.set('name', kit.kitName);
+  const queryString = params.toString();
+  const newPath = queryString ? `/kit-builder?${queryString}` : '/kit-builder';
+  window.history.replaceState({}, '', newPath);
+}
+
+// Update meta tags for kit builder social sharing
+function updateKitBuilderMeta(kit, totalCost) {
+  if (Platform.OS !== 'web' || typeof document === 'undefined') return;
+
+  const setMeta = (name, content, isProperty = false) => {
+    const attr = isProperty ? 'property' : 'name';
+    let meta = document.querySelector(`meta[${attr}="${name}"]`);
+    if (!meta) {
+      meta = document.createElement('meta');
+      meta.setAttribute(attr, name);
+      document.head.appendChild(meta);
+    }
+    meta.setAttribute('content', content);
+  };
+
+  const hasKit = kit && (kit.drums || kit.snare || kit.cymbals);
+  const kitName = kit?.kitName || 'My Metal Kit';
+
+  if (hasKit) {
+    const gearItems = [kit.drums, kit.snare, kit.cymbals].filter(Boolean);
+    const title = `${kitName} - Custom Drum Kit Build | MetalForge`;
+    const description = `Check out this custom metal drum kit: ${gearItems.join(', ')}. Total estimated cost: ${totalCost ? `€${totalCost.toLocaleString()}` : 'Calculate yours'}. Build your own kit at MetalForge.io!`;
+    const shareUrl = `https://metalforge.io/kit-builder${window.location.search}`;
+
+    document.title = title;
+    setMeta('description', description);
+    setMeta('og:title', title, true);
+    setMeta('og:description', description, true);
+    setMeta('og:type', 'website', true);
+    setMeta('og:image', 'https://metalforge.io/og-kit-builder.png', true);
+    setMeta('og:url', shareUrl, true);
+    setMeta('twitter:card', 'summary_large_image');
+    setMeta('twitter:title', title);
+    setMeta('twitter:description', description);
+    setMeta('twitter:image', 'https://metalforge.io/og-kit-builder.png');
+  } else {
+    const title = 'Drum Kit Builder - Build Your Dream Metal Kit | MetalForge';
+    const description = 'Build your custom metal drum kit with gear from legendary drummers. Choose drums, snares, cymbals, and hardware. Get price estimates and share your build!';
+
+    document.title = title;
+    setMeta('description', description);
+    setMeta('og:title', title, true);
+    setMeta('og:description', description, true);
+    setMeta('og:type', 'website', true);
+    setMeta('og:image', 'https://metalforge.io/og-kit-builder.png', true);
+    setMeta('og:url', 'https://metalforge.io/kit-builder', true);
+    setMeta('twitter:card', 'summary_large_image');
+    setMeta('twitter:title', title);
+    setMeta('twitter:description', description);
+    setMeta('twitter:image', 'https://metalforge.io/og-kit-builder.png');
+  }
 }
 
 // Convert drummer name to URL slug
@@ -7684,6 +9265,21 @@ function AppContent() {
   const [showBandDetail, setShowBandDetail] = useState(() => isBandDetailPage());
   const [bandSlug, setBandSlug] = useState(() => getBandSlugFromURL());
 
+  // Genre Landing Page state (Issue #340)
+  const [showGenrePage, setShowGenrePage] = useState(() => isGenreLandingPage());
+  const [genreSlug, setGenreSlug] = useState(() => getGenreSlugFromURL());
+  const [showGenresList, setShowGenresList] = useState(() => isGenresListPage());
+
+  // Kit Builder Page state (Issue #341)
+  const [showKitBuilder, setShowKitBuilder] = useState(() => isKitBuilderPage());
+
+  // Gear Category Page state (Issue #339)
+  const [showGearIndex, setShowGearIndex] = useState(() => isGearIndexPage());
+  const [showGearCategory, setShowGearCategory] = useState(() => isGearCategoryPage());
+  const [gearCategory, setGearCategory] = useState(() => getGearCategoryFromURL());
+  const [gearCategoryData, setGearCategoryData] = useState(null);
+  const [loadingGearCategory, setLoadingGearCategory] = useState(false);
+
   // Search and filter state
   const [filters, setFilters] = useState(() => getFiltersFromURL());
   const [searchValue, setSearchValue] = useState(() => getFiltersFromURL().search || '');
@@ -8062,6 +9658,118 @@ function AppContent() {
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
+      } else if (isGearIndexPage()) {
+        // Gear index page (Issue #339)
+        setShowGearIndex(true);
+        setShowGearCategory(false);
+        setGearCategory(null);
+        setGearCategoryData(null);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowList(false);
+        setListSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+      } else if (isGearCategoryPage()) {
+        // Gear category page (Issue #339)
+        const category = getGearCategoryFromURL();
+        setShowGearCategory(true);
+        setGearCategory(category);
+        setShowGearIndex(false);
+        setLoadingGearCategory(true);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowList(false);
+        setListSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+        // Fetch category data
+        fetch(`/api/gear/category/${category}`)
+          .then(response => response.ok ? response.json() : null)
+          .then(data => {
+            if (data) setGearCategoryData(data);
+          })
+          .catch(err => console.error('Error fetching gear category:', err))
+          .finally(() => setLoadingGearCategory(false));
+      } else if (isKitBuilderPage()) {
+        // Kit Builder page (Issue #341)
+        setShowKitBuilder(true);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowList(false);
+        setListSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+      } else if (isGenreLandingPage()) {
+        // Genre landing page (Issue #340)
+        const slug = getGenreSlugFromURL();
+        setShowGenrePage(true);
+        setGenreSlug(slug);
+        setShowGenresList(false);
+        setShowKitBuilder(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowList(false);
+        setListSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+      } else if (isGenresListPage()) {
+        // Genres list page (Issue #340)
+        setShowGenresList(true);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowKitBuilder(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowList(false);
+        setListSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
       } else {
         // Back to home page
         setShowCompare(false);
@@ -8072,6 +9780,14 @@ function AppContent() {
         setBioSlug(null);
         setShowBandDetail(false);
         setBandSlug(null);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowGenresList(false);
+        setShowKitBuilder(false);
+        setShowGearIndex(false);
+        setShowGearCategory(false);
+        setGearCategory(null);
+        setGearCategoryData(null);
         setSelectedGear(null);
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
@@ -8394,6 +10110,30 @@ setShowList(false);
     }
   };
 
+  // Navigate to Kit Builder (Issue #341)
+  const handleNavigateToKitBuilder = () => {
+    setShowKitBuilder(true);
+    setShowGearFinder(false);
+    setShowGearByBudget(false);
+    setShowList(false);
+    setListSlug(null);
+    setShowSpotlights(false);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowPrivacy(false);
+    setShowQuotes(false);
+    setShowBioPage(false);
+    setBioSlug(null);
+    setShowBandDetail(false);
+    setBandSlug(null);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/kit-builder');
+    }
+  };
+
   // Navigate to extended bio page (Issue #305)
   const handleNavigateToBio = async (drummerSlug) => {
     // First ensure we have the drummer data
@@ -8478,6 +10218,86 @@ setShowList(false);
   const handleBackFromBand = () => {
     setShowBandDetail(false);
     setBandSlug(null);
+    // Navigate back to home
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/');
+    }
+  };
+
+  // Navigate to gear category page (Issue #339)
+  const handleNavigateToGearCategory = async (category) => {
+    setShowGearCategory(true);
+    setGearCategory(category);
+    setShowGearIndex(false);
+    setLoadingGearCategory(true);
+    // Reset other views
+    setShowGearFinder(false);
+    setShowGearByBudget(false);
+    setShowBandDetail(false);
+    setBandSlug(null);
+    setShowList(false);
+    setListSlug(null);
+    setShowSpotlights(false);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowPrivacy(false);
+    setShowQuotes(false);
+    setShowBioPage(false);
+    setBioSlug(null);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    // Update URL
+    updateGearCategoryURL(category);
+    // Fetch category data
+    try {
+      const response = await fetch(`/api/gear/category/${category}`);
+      if (response.ok) {
+        const data = await response.json();
+        setGearCategoryData(data);
+      }
+    } catch (err) {
+      console.error('Error fetching gear category:', err);
+    } finally {
+      setLoadingGearCategory(false);
+    }
+  };
+
+  // Navigate to gear index page (Issue #339)
+  const handleNavigateToGearIndex = () => {
+    setShowGearIndex(true);
+    setShowGearCategory(false);
+    setGearCategory(null);
+    setGearCategoryData(null);
+    // Reset other views
+    setShowGearFinder(false);
+    setShowGearByBudget(false);
+    setShowBandDetail(false);
+    setBandSlug(null);
+    setShowList(false);
+    setListSlug(null);
+    setShowSpotlights(false);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowPrivacy(false);
+    setShowQuotes(false);
+    setShowBioPage(false);
+    setBioSlug(null);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    // Update URL
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/gear');
+    }
+  };
+
+  // Handle back from gear category page
+  const handleBackFromGearCategory = () => {
+    setShowGearCategory(false);
+    setGearCategory(null);
+    setGearCategoryData(null);
+    setShowGearIndex(false);
     // Navigate back to home
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
       window.history.pushState({}, '', '/');
@@ -8630,6 +10450,22 @@ setShowList(false);
         />
       );
     }
+    // Kit Builder Page (Issue #341)
+    if (showKitBuilder) {
+      return (
+        <KitBuilderPage
+          theme={theme}
+          onBack={() => {
+            setShowKitBuilder(false);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/');
+            }
+          }}
+          drummers={drummers}
+          onSelectDrummer={handleSelectDrummer}
+        />
+      );
+    }
     if (showGearFinder) {
       return (
         <GearFinderPage
@@ -8668,6 +10504,31 @@ setShowList(false);
         />
       );
     }
+    // Gear Index Page (Issue #339)
+    if (showGearIndex) {
+      return (
+        <GearIndexPage
+          theme={theme}
+          onBack={handleBackFromGearCategory}
+          onNavigateToCategory={handleNavigateToGearCategory}
+          onSelectGear={handleSelectGear}
+        />
+      );
+    }
+    // Gear Category Page (Issue #339)
+    if (showGearCategory && gearCategory) {
+      return (
+        <GearCategoryPage
+          category={gearCategory}
+          categoryData={gearCategoryData}
+          loading={loadingGearCategory}
+          theme={theme}
+          onBack={handleBackFromGearCategory}
+          onSelectGear={handleSelectGear}
+          onNavigateToCategory={handleNavigateToGearCategory}
+        />
+      );
+    }
     if (selectedDrummer) {
       console.log('[DEBUG] Rendering DrummerDetail for:', selectedDrummer.name);
       return <DrummerDetail drummer={selectedDrummer} theme={theme} onBack={handleBack} onSelectGear={handleSelectGear} onCompareYourKit={handleCompareYourKit} allDrummers={drummers} onNavigateToBio={handleNavigateToBio} />;
@@ -8688,6 +10549,7 @@ setShowList(false);
           onNavigateToGearByBudget={handleNavigateToGearByBudget}
           onNavigateToList={handleNavigateToList}
           onNavigateToGearFinder={handleNavigateToGearFinder}
+          onNavigateToKitBuilder={handleNavigateToKitBuilder}
           spotlight={getCurrentSpotlightDrummer(drummers)}
           filters={filters}
           onFilterChange={handleFilterChange}
@@ -12481,5 +14343,391 @@ const styles = StyleSheet.create({
   bandLinkName: {
     fontSize: 14,
     fontWeight: '600',
+  },
+
+  // ==========================================
+  // KIT BUILDER STYLES (Issue #341)
+  // ==========================================
+  kitBuilderHeader: {
+    marginBottom: 24,
+  },
+  kitBuilderTitleSection: {
+    marginTop: 16,
+  },
+  kitBuilderTitle: {
+    fontSize: 28,
+    fontWeight: 'bold',
+    marginBottom: 8,
+  },
+  kitBuilderSubtitle: {
+    fontSize: 16,
+    lineHeight: 24,
+  },
+  kitNameSection: {
+    padding: 16,
+    borderRadius: 12,
+    borderWidth: 1,
+    marginBottom: 20,
+  },
+  kitNameLabel: {
+    fontSize: 13,
+    marginBottom: 8,
+    textTransform: 'uppercase',
+    letterSpacing: 1,
+    fontWeight: '600',
+  },
+  kitNameInput: {
+    fontSize: 16,
+    padding: 12,
+    borderRadius: 8,
+    borderWidth: 1,
+  },
+  kitBuilderContent: {
+    gap: 20,
+  },
+  kitBuilderContentDesktop: {
+    flexDirection: 'row',
+    alignItems: 'flex-start',
+  },
+  kitBuilderLeftPanel: {
+    flex: 1,
+  },
+  kitBuilderLeftPanelDesktop: {
+    flex: 2,
+    marginRight: 20,
+  },
+  kitBuilderRightPanel: {
+    flex: 1,
+  },
+  kitBuilderRightPanelDesktop: {
+    flex: 1,
+    position: 'sticky',
+    top: 20,
+  },
+  categoryTabs: {
+    marginBottom: 16,
+  },
+  categoryTabsContent: {
+    gap: 10,
+    paddingVertical: 4,
+  },
+  categoryTab: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    paddingHorizontal: 16,
+    paddingVertical: 12,
+    borderRadius: 24,
+    borderWidth: 1,
+    gap: 8,
+  },
+  categoryTabHasGear: {
+    borderColor: '#22c55e',
+    borderWidth: 2,
+  },
+  categoryTabIcon: {
+    fontSize: 18,
+  },
+  categoryTabLabel: {
+    fontSize: 14,
+    fontWeight: '600',
+  },
+  categoryTabCheck: {
+    width: 18,
+    height: 18,
+    borderRadius: 9,
+    backgroundColor: '#22c55e',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  categoryTabCheckIcon: {
+    color: '#ffffff',
+    fontSize: 11,
+    fontWeight: 'bold',
+  },
+  categoryDescription: {
+    padding: 12,
+    borderRadius: 8,
+    borderWidth: 1,
+    marginBottom: 16,
+  },
+  categoryDescriptionText: {
+    fontSize: 14,
+    fontStyle: 'italic',
+  },
+  gearGrid: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 12,
+  },
+  gearCard: {
+    width: '48%',
+    padding: 16,
+    borderRadius: 12,
+    borderWidth: 2,
+  },
+  gearCardMobile: {
+    width: '100%',
+  },
+  gearCardSelected: {
+    borderColor: '#dc2626',
+    backgroundColor: 'rgba(220, 38, 38, 0.05)',
+  },
+  gearCardHeader: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    marginBottom: 8,
+  },
+  gearCardBrand: {
+    fontSize: 12,
+    fontWeight: '600',
+    textTransform: 'uppercase',
+    letterSpacing: 0.5,
+  },
+  gearCardSelectedBadge: {
+    width: 22,
+    height: 22,
+    borderRadius: 11,
+    backgroundColor: '#dc2626',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  gearCardSelectedBadgeText: {
+    color: '#ffffff',
+    fontSize: 13,
+    fontWeight: 'bold',
+  },
+  gearCardName: {
+    fontSize: 15,
+    fontWeight: '600',
+    marginBottom: 8,
+    lineHeight: 20,
+  },
+  gearCardPrice: {
+    fontSize: 18,
+    fontWeight: 'bold',
+    marginBottom: 8,
+  },
+  gearCardUsedBy: {
+    marginTop: 4,
+  },
+  gearCardUsedByLabel: {
+    fontSize: 11,
+    textTransform: 'uppercase',
+    letterSpacing: 0.5,
+  },
+  gearCardUsedByNames: {
+    fontSize: 12,
+    marginTop: 2,
+  },
+  kitSummary: {
+    padding: 20,
+    borderRadius: 16,
+    borderWidth: 1,
+  },
+  kitSummaryTitle: {
+    fontSize: 20,
+    fontWeight: 'bold',
+    marginBottom: 16,
+  },
+  kitSummaryItems: {
+    gap: 0,
+  },
+  kitSummaryItem: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    paddingVertical: 12,
+    borderBottomWidth: 1,
+  },
+  kitSummaryItemLeft: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    flex: 1,
+  },
+  kitSummaryItemIcon: {
+    fontSize: 20,
+    marginRight: 12,
+    width: 28,
+  },
+  kitSummaryItemInfo: {
+    flex: 1,
+  },
+  kitSummaryItemCategory: {
+    fontSize: 11,
+    textTransform: 'uppercase',
+    letterSpacing: 0.5,
+    marginBottom: 2,
+  },
+  kitSummaryItemName: {
+    fontSize: 14,
+    fontWeight: '500',
+  },
+  kitSummaryItemPrice: {
+    fontSize: 14,
+    fontWeight: '600',
+  },
+  kitSummaryTotal: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    paddingTop: 16,
+    marginTop: 8,
+    borderTopWidth: 2,
+  },
+  kitSummaryTotalLabel: {
+    fontSize: 16,
+    fontWeight: 'bold',
+  },
+  kitSummaryTotalPrice: {
+    fontSize: 24,
+    fontWeight: 'bold',
+  },
+  kitSimilarDrummers: {
+    marginTop: 20,
+    paddingTop: 16,
+    borderTopWidth: 1,
+    borderTopColor: 'rgba(0,0,0,0.1)',
+  },
+  kitSimilarTitle: {
+    fontSize: 15,
+    fontWeight: '600',
+    marginBottom: 12,
+  },
+  kitSimilarDrummer: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    paddingVertical: 10,
+    borderBottomWidth: 1,
+  },
+  kitSimilarDrummerImage: {
+    width: 36,
+    height: 36,
+    borderRadius: 18,
+    marginRight: 10,
+  },
+  kitSimilarDrummerInfo: {
+    flex: 1,
+  },
+  kitSimilarDrummerName: {
+    fontSize: 14,
+    fontWeight: '600',
+  },
+  kitSimilarDrummerMatch: {
+    fontSize: 12,
+  },
+  kitSimilarDrummerArrow: {
+    fontSize: 16,
+  },
+  kitSummaryActions: {
+    flexDirection: 'row',
+    gap: 10,
+    marginTop: 20,
+  },
+  kitShareButton: {
+    flex: 2,
+    backgroundColor: '#dc2626',
+    paddingVertical: 14,
+    borderRadius: 10,
+    alignItems: 'center',
+  },
+  kitShareButtonDisabled: {
+    backgroundColor: '#9ca3af',
+  },
+  kitShareButtonText: {
+    color: '#ffffff',
+    fontSize: 15,
+    fontWeight: '600',
+  },
+  kitClearButton: {
+    flex: 1,
+    paddingVertical: 14,
+    borderRadius: 10,
+    alignItems: 'center',
+    borderWidth: 1,
+  },
+  kitClearButtonText: {
+    fontSize: 15,
+    fontWeight: '500',
+  },
+  shareModalOverlay: {
+    position: 'absolute',
+    top: 0,
+    left: 0,
+    right: 0,
+    bottom: 0,
+    backgroundColor: 'rgba(0,0,0,0.6)',
+    justifyContent: 'center',
+    alignItems: 'center',
+    zIndex: 1000,
+  },
+  shareModal: {
+    width: '90%',
+    maxWidth: 400,
+    padding: 24,
+    borderRadius: 16,
+    borderWidth: 1,
+  },
+  shareModalTitle: {
+    fontSize: 22,
+    fontWeight: 'bold',
+    marginBottom: 20,
+    textAlign: 'center',
+  },
+  shareModalContent: {
+    marginBottom: 20,
+  },
+  shareModalLabel: {
+    fontSize: 13,
+    marginBottom: 8,
+    textTransform: 'uppercase',
+    letterSpacing: 1,
+  },
+  shareModalLinkBox: {
+    padding: 12,
+    borderRadius: 8,
+    borderWidth: 1,
+    marginBottom: 16,
+  },
+  shareModalLink: {
+    fontSize: 13,
+  },
+  shareModalButtons: {
+    flexDirection: 'row',
+    gap: 10,
+  },
+  shareModalCopyButton: {
+    flex: 1,
+    backgroundColor: '#22c55e',
+    paddingVertical: 12,
+    borderRadius: 8,
+    alignItems: 'center',
+  },
+  shareModalCopyButtonText: {
+    color: '#ffffff',
+    fontSize: 14,
+    fontWeight: '600',
+  },
+  shareModalTwitterButton: {
+    flex: 1,
+    backgroundColor: '#1da1f2',
+    paddingVertical: 12,
+    borderRadius: 8,
+    alignItems: 'center',
+  },
+  shareModalTwitterButtonText: {
+    color: '#ffffff',
+    fontSize: 14,
+    fontWeight: '600',
+  },
+  shareModalClose: {
+    paddingVertical: 12,
+    borderRadius: 8,
+    borderWidth: 1,
+    alignItems: 'center',
+  },
+  shareModalCloseText: {
+    fontSize: 15,
+    fontWeight: '500',
   },
 });

@@ -1,7 +1,7 @@
 /**
  * Band data structure for MetalForge
  * Contains band information with drummer history
- * Issue #360: Added Slayer band data
+ * Combined data from multiple PRs
  */
 
 export const bands = {
@@ -11,7 +11,7 @@ export const bands = {
     formed: 1981,
     origin: "Los Angeles, California, USA",
     genres: ["thrash-metal", "heavy-metal"],
-    status: "active", // active | disbanded | hiatus
+    status: "active",
 
     // SEO fields
     metaTitle: "Metallica - Drummer History & Gear | MetalForge",
@@ -31,15 +31,29 @@ export const bands = {
     drummerHistory: [
       {
         drummer: "lars-ulrich",
+        drummerId: 1,
         period: "1981-present",
         notes: "Co-founder",
+        albums: [
+          "Kill 'Em All (1983)",
+          "Ride the Lightning (1984)",
+          "Master of Puppets (1986)",
+          "...And Justice for All (1988)",
+          "Metallica (1991)",
+          "Load (1996)",
+          "ReLoad (1997)",
+          "St. Anger (2003)",
+          "Death Magnetic (2008)",
+          "Hardwired... to Self-Destruct (2016)",
+          "72 Seasons (2023)"
+        ],
       },
     ],
 
     // Related
     relatedBands: ["slayer", "megadeth", "anthrax"],
 
-    // FAQ - Issue #352
+    // FAQ
     faq: [
       {
         q: "Who is Metallica's drummer?",
@@ -54,26 +68,31 @@ export const bands = {
         a: "Tama Starclassic with LU1465 signature snare.",
       },
     ],
+
+    sameAs: [
+      "https://en.wikipedia.org/wiki/Metallica",
+      "https://www.metallica.com/",
+      "https://www.instagram.com/metallica/",
+      "https://twitter.com/Metallica",
+    ],
+    drummerIds: [1],
+    associatedBrands: ["Tama", "Zildjian", "Ahead", "Remo"],
   },
 
-  // Issue #360: Slayer - Big Four of Thrash
   slayer: {
     slug: "slayer",
     name: "Slayer",
     formed: 1981,
     origin: "Huntington Park, California, USA",
     genres: ["thrash-metal", "speed-metal"],
-    status: "disbanded", // final tour 2019
+    status: "disbanded",
 
-    // SEO fields
     metaTitle: "Slayer Drummer History - Lombardo & Bostaph | MetalForge",
     metaDescription:
       "Slayer drummer history: Dave Lombardo and Paul Bostaph. Reign in Blood legacy.",
-    summary:
-      "Slayer formed 1981, Big Four of thrash, disbanded 2019.",
+    summary: "Slayer formed 1981, Big Four of thrash, disbanded 2019.",
     keywords: ["slayer", "dave lombardo", "reign in blood", "thrash metal"],
 
-    // Drummer history
     drummerHistory: [
       {
         drummer: "dave-lombardo",
@@ -97,10 +116,8 @@ export const bands = {
       },
     ],
 
-    // Related
     relatedBands: ["metallica", "megadeth", "anthrax", "fantomas"],
 
-    // FAQ
     faq: [
       {
         q: "Who was Slayer's drummer?",
@@ -125,7 +142,6 @@ export const bands = {
     genres: ["nu-metal", "alternative-metal", "heavy-metal"],
     status: "active",
 
-    // SEO fields
     metaTitle: "Slipknot - Drummer History & Gear | MetalForge",
     metaDescription:
       "Explore Slipknot's legendary drumming legacy from Joey Jordison to Jay Weinberg to Eloy Casagrande. Discover complete gear setups, drumming styles, and the evolution of one of metal's most iconic bands.",
@@ -138,195 +154,184 @@ export const bands = {
       "eloy casagrande",
       "nu metal",
       "metal drums",
-      "drummer gear",
-      "iowa",
-      "maggots",
     ],
 
-    // Extended band bio/history
     history: {
       formation:
-        "Slipknot was formed in Des Moines, Iowa in 1995 by percussionist Shawn Crahan, drummer Joey Jordison, and bassist Paul Gray. The band evolved from earlier projects including The Pale Ones and Meld.",
+        "Slipknot was formed in Des Moines, Iowa in 1995 by percussionist Shawn Crahan, drummer Joey Jordison, and bassist Paul Gray.",
       breakthrough:
-        "Their self-titled debut album (1999) went platinum within months, driven by singles 'Wait and Bleed' and '(sic)'. The album introduced their signature sound: aggressive vocals, dual percussionists, sampling, and a DJ.",
+        "Their self-titled debut album (1999) went platinum within months, driven by singles 'Wait and Bleed' and '(sic)'.",
       evolution:
-        "The band's sophomore album 'Iowa' (2001) is considered one of the heaviest albums ever recorded. They continued to evolve through 'Vol. 3: (The Subliminal Verses)' (2004), which showed more melodic elements while maintaining their intensity.",
+        "The band's sophomore album 'Iowa' (2001) is considered one of the heaviest albums ever recorded.",
       tragedy:
-        "The band faced significant losses: bassist Paul Gray passed away in 2010, and founding drummer Joey Jordison was dismissed in 2013, later revealed to be due to transverse myelitis. Joey passed away in 2021.",
+        "Bassist Paul Gray passed away in 2010, and founding drummer Joey Jordison was dismissed in 2013. Joey passed away in 2021.",
       modernEra:
-        "Jay Weinberg joined as drummer in 2014, contributing to '.5: The Gray Chapter', 'We Are Not Your Kind', and 'The End, So Far'. In 2023, Jay departed and was replaced by Eloy Casagrande (formerly of Sepultura) in 2024.",
+        "Jay Weinberg joined as drummer in 2014. In 2023, Jay departed and was replaced by Eloy Casagrande in 2024.",
     },
 
-    // Notable achievements
-    achievements: [
-      {
-        year: 2006,
-        achievement: "Grammy Award for Best Metal Performance ('Before I Forget')",
-      },
-      {
-        year: 1999,
-        achievement: "Self-titled album certified 2x Platinum (US)",
-      },
-      {
-        year: 2001,
-        achievement: "'Iowa' debuted at #3 on Billboard 200",
-      },
-      {
-        year: 2004,
-        achievement: "'Vol. 3' reached #2 on Billboard 200, certified Platinum",
-      },
-      {
-        year: 2019,
-        achievement: "'We Are Not Your Kind' debuted at #1 in 12 countries",
-      },
-      {
-        year: 2008,
-        achievement: "'All Hope Is Gone' - first #1 Billboard 200 album",
-      },
-      {
-        year: 2000,
-        achievement: "MTV Video Music Award nomination for 'Wait and Bleed'",
-      },
-      {
-        year: 2020,
-        achievement: "Over 30 million albums sold worldwide",
-      },
-    ],
-
-    // Discography highlights
-    discography: [
-      {
-        album: "Slipknot",
-        year: 1999,
-        drummer: "joey-jordison",
-        notes: "Debut album. 2x Platinum. Defined nu-metal drumming.",
-        highlights: ["'Wait and Bleed'", "'(sic)'", "'Surfacing'"],
-      },
-      {
-        album: "Iowa",
-        year: 2001,
-        drummer: "joey-jordison",
-        notes: "Considered one of the heaviest albums ever. Joey's drumming at its most intense.",
-        highlights: ["'People = Shit'", "'Disasterpiece'", "'My Plague'"],
-      },
-      {
-        album: "Vol. 3: (The Subliminal Verses)",
-        year: 2004,
-        drummer: "joey-jordison",
-        notes: "More melodic approach. Grammy Award for 'Before I Forget'.",
-        highlights: ["'Duality'", "'Before I Forget'", "'Vermilion'"],
-      },
-      {
-        album: "All Hope Is Gone",
-        year: 2008,
-        drummer: "joey-jordison",
-        notes: "First #1 album on Billboard 200. Joey's final album with the band.",
-        highlights: ["'Psychosocial'", "'Dead Memories'", "'Snuff'"],
-      },
-      {
-        album: ".5: The Gray Chapter",
-        year: 2014,
-        drummer: "jay-weinberg",
-        notes: "Tribute to Paul Gray. Jay Weinberg's debut. #1 in multiple countries.",
-        highlights: ["'The Devil in I'", "'Custer'", "'Killpop'"],
-      },
-      {
-        album: "We Are Not Your Kind",
-        year: 2019,
-        drummer: "jay-weinberg",
-        notes: "Critically acclaimed return to heavier sound. #1 in 12 countries.",
-        highlights: ["'Unsainted'", "'Solway Firth'", "'Nero Forte'"],
-      },
-      {
-        album: "The End, So Far",
-        year: 2022,
-        drummer: "jay-weinberg",
-        notes: "Jay Weinberg's final album. Most experimental work to date.",
-        highlights: ["'The Dying Song (Time To Sing)'", "'Yen'", "'Hive Mind'"],
-      },
-    ],
-
-    // Drummer history
     drummerHistory: [
       {
         drummer: "joey-jordison",
         drummerId: 2,
         period: "1995-2013",
-        notes: "Founding member. Defined Slipknot's drumming style. Known for rotating drum riser performances. Ranked among greatest metal drummers of all time.",
+        notes: "Founding member. Defined Slipknot's drumming style.",
         albums: ["Slipknot", "Iowa", "Vol. 3", "All Hope Is Gone"],
       },
       {
         drummer: "jay-weinberg",
         drummerId: 13,
         period: "2014-2023",
-        notes: "Son of E Street Band's Max Weinberg. Maintained band's intensity while adding his own style. Departed November 2023.",
+        notes: "Son of E Street Band's Max Weinberg.",
         albums: [".5: The Gray Chapter", "We Are Not Your Kind", "The End, So Far"],
       },
       {
         drummer: "eloy-casagrande",
         drummerId: 10,
         period: "2024-present",
-        notes: "Former Sepultura drummer. Named #1 Metal Drummer by Modern Drummer 2024. Brazilian technical powerhouse.",
+        notes: "Former Sepultura drummer.",
         albums: [],
       },
     ],
 
-    // FAQ Schema for SEO
     faq: [
       {
         question: "Who is Slipknot's current drummer?",
-        answer:
-          "As of 2024, Slipknot's drummer is Eloy Casagrande, formerly of Sepultura. He replaced Jay Weinberg, who departed the band in November 2023.",
+        answer: "As of 2024, Slipknot's drummer is Eloy Casagrande, formerly of Sepultura.",
       },
       {
         question: "Who was Slipknot's original drummer?",
-        answer:
-          "Joey Jordison was Slipknot's founding drummer from 1995 to 2013. He is widely regarded as one of the greatest metal drummers of all time and defined Slipknot's aggressive drumming style.",
+        answer: "Joey Jordison was Slipknot's founding drummer from 1995 to 2013.",
       },
       {
         question: "How many drummers has Slipknot had?",
-        answer:
-          "Slipknot has had three main drummers: Joey Jordison (1995-2013), Jay Weinberg (2014-2023), and Eloy Casagrande (2024-present).",
-      },
-      {
-        question: "What drums did Joey Jordison use?",
-        answer:
-          "Joey Jordison used Pearl drums throughout most of his career, including Pearl Reference and MasterWorks Series kits. He had his own signature snare drum, the Pearl Joey Jordison Signature 13x6.5\".",
-      },
-      {
-        question: "Why did Jay Weinberg leave Slipknot?",
-        answer:
-          "Jay Weinberg's departure from Slipknot was announced in November 2023. The exact reasons were not publicly detailed. Jay subsequently joined Suicidal Tendencies for their tour with Metallica.",
-      },
-      {
-        question: "What genre is Slipknot?",
-        answer:
-          "Slipknot is primarily classified as nu-metal and alternative metal, though their sound incorporates elements of death metal, thrash metal, and industrial music. Their aggressive style helped define the nu-metal movement of the late 1990s and early 2000s.",
-      },
-      {
-        question: "How many members does Slipknot have?",
-        answer:
-          "Slipknot is known for having nine members, including a DJ, two percussionists (in addition to the drummer), and a sampler. Each member is identified by a number (#0-#8) and wears a unique mask.",
+        answer: "Slipknot has had three main drummers: Joey Jordison, Jay Weinberg, and Eloy Casagrande.",
       },
     ],
 
-    // Related bands
     relatedBands: ["korn", "mudvayne", "mushroomhead", "stone-sour", "sepultura"],
+  },
 
-    // External links for SEO
-    sameAs: [
-      "https://en.wikipedia.org/wiki/Slipknot_(band)",
-      "https://www.instagram.com/slipknot/",
-      "https://twitter.com/slaboracadabra",
-      "https://www.facebook.com/slipknot",
-      "https://www.discogs.com/artist/30295-Slipknot",
+  sepultura: {
+    slug: "sepultura",
+    name: "Sepultura",
+    formed: 1984,
+    origin: "Belo Horizonte, Minas Gerais, Brazil",
+    genres: ["thrash-metal", "groove-metal", "death-metal"],
+    status: "active",
+
+    metaTitle: "Sepultura Drummer History & Gear | MetalForge",
+    metaDescription:
+      "Explore Sepultura's complete drummer history from Igor Cavalera to Eloy Casagrande. Discover the drum kits and gear used by Brazil's legendary thrash metal pioneers.",
+    summary:
+      "Sepultura is a Brazilian heavy metal band formed in 1984 in Belo Horizonte. They are considered one of the most influential bands to emerge from South America.",
+    keywords: [
+      "sepultura",
+      "thrash metal",
+      "brazilian metal",
+      "igor cavalera",
+      "eloy casagrande",
+      "roots",
     ],
 
-    // Band members note (for context)
-    memberNote:
-      "Slipknot is known for its nine-member lineup with numbered members (0-8). The drummer position is #1. Joey Jordison, Jay Weinberg, and Eloy Casagrande have each worn #1 during their tenure.",
+    drummerHistory: [
+      {
+        drummer: "igor-cavalera",
+        drummerId: null,
+        period: "1984-2006",
+        albums: [
+          "Morbid Visions (1986)",
+          "Schizophrenia (1987)",
+          "Beneath the Remains (1989)",
+          "Arise (1991)",
+          "Chaos A.D. (1993)",
+          "Roots (1996)",
+        ],
+        notes: "Co-founder and original drummer.",
+      },
+      {
+        drummer: "jean-dolabella",
+        drummerId: null,
+        period: "2006-2011",
+        albums: ["A-Lex (2009)"],
+        notes: "Brazilian drummer with a more technical approach.",
+      },
+      {
+        drummer: "eloy-casagrande",
+        drummerId: 7,
+        period: "2011-2024",
+        albums: ["Kairos (2011)", "Machine Messiah (2017)", "Quadra (2020)"],
+        notes: "Left in 2024 to join Slipknot.",
+      },
+      {
+        drummer: "greyson-nekrutman",
+        drummerId: null,
+        period: "2024-present",
+        albums: [],
+        notes: "Current touring drummer for the farewell tour.",
+      },
+    ],
+
+    relatedBands: ["soulfly", "cavalera-conspiracy", "slipknot"],
+    drummerIds: [7],
+    associatedBrands: ["Tama", "Paiste", "Promark", "Evans"],
+  },
+
+  "dream-theater": {
+    slug: "dream-theater",
+    name: "Dream Theater",
+    formed: 1985,
+    origin: "Boston, Massachusetts, USA",
+    genres: ["progressive-metal"],
+    status: "active",
+
+    metaTitle: "Dream Theater Drummer History & Gear | MetalForge",
+    metaDescription:
+      "Explore Dream Theater's complete drummer history featuring Mike Portnoy and Mike Mangini. Discover the gear used by progressive metal's most technical drummers.",
+    summary:
+      "Dream Theater is an American progressive metal band formed in 1985 in Boston. Known for their technical proficiency and complex compositions.",
+    keywords: [
+      "dream theater",
+      "progressive metal",
+      "mike portnoy",
+      "mike mangini",
+      "prog metal",
+    ],
+
+    drummerHistory: [
+      {
+        drummer: "mike-portnoy",
+        drummerId: 13,
+        period: "1985-2010, 2023-present",
+        albums: [
+          "When Dream and Day Unite (1989)",
+          "Images and Words (1992)",
+          "Awake (1994)",
+          "Metropolis Pt. 2: Scenes from a Memory (1999)",
+          "Parasomnia (2025)",
+        ],
+        notes: "Co-founder and original drummer. Left in 2010, rejoined in 2023.",
+      },
+      {
+        drummer: "mike-mangini",
+        drummerId: 52,
+        period: "2010-2023",
+        albums: [
+          "A Dramatic Turn of Events (2011)",
+          "Dream Theater (2013)",
+          "Distance over Time (2019)",
+        ],
+        notes: "Selected through a competitive audition process.",
+      },
+    ],
+
+    relatedBands: ["liquid-tension-experiment", "transatlantic", "sons-of-apollo"],
+    drummerIds: [13, 52],
+    associatedBrands: ["Tama", "Pearl", "Sabian", "Vic Firth"],
   },
 };
+
+// Alias for backward compatibility
+export const BANDS = bands;
 
 /**
  * Get a band by its slug
@@ -335,6 +340,19 @@ export const bands = {
  */
 export function getBand(slug) {
   return bands[slug] || null;
+}
+
+// Alias for getBand
+export function getBandBySlug(slug) {
+  return getBand(slug);
+}
+
+/**
+ * Get all bands as array
+ * @returns {object[]} Array of all band objects
+ */
+export function getAllBands() {
+  return Object.values(bands);
 }
 
 /**
@@ -372,6 +390,43 @@ export function hasFaq(slug) {
 export function getBandFaq(slug) {
   const band = bands[slug];
   return band?.faq || null;
+}
+
+/**
+ * Get bands for a specific drummer ID
+ * @param {number} drummerId - The drummer's ID
+ * @returns {object[]} Array of bands featuring that drummer
+ */
+export function getBandsForDrummer(drummerId) {
+  return Object.values(bands).filter(
+    (band) => band.drummerIds && band.drummerIds.includes(drummerId)
+  );
+}
+
+/**
+ * Get drummer history for a band
+ * @param {string} bandSlug - The band's URL slug
+ * @returns {Array} Drummer history array
+ */
+export function getDrummerHistory(bandSlug) {
+  const band = bands[bandSlug];
+  return band ? band.drummerHistory : [];
+}
+
+/**
+ * Search bands by keyword
+ * @param {string} query - Search query
+ * @returns {object[]} Matching bands
+ */
+export function searchBands(query) {
+  if (!query) return [];
+  const q = query.toLowerCase();
+  return Object.values(bands).filter(
+    (band) =>
+      band.name.toLowerCase().includes(q) ||
+      (band.keywords && band.keywords.some((kw) => kw.includes(q))) ||
+      band.genres.some((g) => g.toLowerCase().includes(q))
+  );
 }
 
 export default bands;

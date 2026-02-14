@@ -1903,6 +1903,582 @@ Beyond his drumming, Benante is Anthrax's main composer and a talented graphic a
         ]
       }
     }
+  },
+
+  // Brann Dailor - Mastodon (Issue #328 Batch 3)
+  'brann-dailor': {
+    slug: 'brann-dailor',
+    drummerId: 16,
+    name: 'Brann Dailor',
+    bands: [
+      { slug: 'mastodon', period: '2000-present', role: 'Drummer, vocalist' },
+      { slug: 'today-is-the-day', period: '1996-1999', role: 'Drummer' },
+      { slug: 'lethargy', period: '1990-1999', role: 'Drummer' }
+    ],
+    metaTitle: 'Brann Dailor Biography - Mastodon Drummer & Progressive Metal Innovator | MetalForge',
+    metaDescription: 'Complete biography of Brann Dailor, Mastodon\'s Grammy-winning drummer. Explore his revolutionary drumming style, prog-metal innovation, vocal contributions, and signature gear.',
+    ogImage: '/images/drummers/brann-dailor.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Brann Dailor (born March 19, 1975, in Rochester, New York) is an American musician best known as the drummer and co-vocalist for Grammy-winning progressive sludge metal band Mastodon. His drumming style combines jazz-influenced fills with progressive rock complexity, creating a distinctive, flowing approach that has influenced a generation of metal drummers.
+
+Dailor's drumming is characterized by constant motion—intricate fills that weave around the riffs rather than simply keeping time. His "lead drums" approach treats the drums as a melodic instrument, and his increasingly prominent vocal contributions have added another dimension to Mastodon's sound. He co-founded Mastodon in 2000 with guitarist Bill Kelliher, his longtime collaborator from their days in Lethargy and Today Is the Day.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1990', event: 'Co-founded Lethargy with Bill Kelliher in Rochester, NY' },
+          { year: '1996', event: 'Joined Today Is the Day, recording "Temple of the Morning Star"' },
+          { year: '2000', event: 'Co-founded Mastodon in Atlanta, Georgia' },
+          { year: '2002', event: 'Released "Remission," Mastodon\'s debut album' },
+          { year: '2004', event: 'Released "Leviathan," a concept album inspired by Moby Dick' },
+          { year: '2006', event: 'Released "Blood Mountain," featuring guest vocals from Josh Homme' },
+          { year: '2009', event: 'Released "Crack the Skye," widely considered Mastodon\'s masterpiece' },
+          { year: '2011', event: 'Released "The Hunter," featuring more accessible songwriting' },
+          { year: '2014', event: 'Released "Once More \'Round the Sun"' },
+          { year: '2017', event: 'Won Grammy for Best Metal Performance for "Sultan\'s Curse"' },
+          { year: '2021', event: 'Released "Hushed and Grim," a double album honoring manager Nick John' },
+          { year: '2024', event: 'Continues touring as one of metal\'s premier live acts' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Brann Dailor's drumming defies conventional metal norms. Rather than locking into static patterns, his style features constantly evolving fills and rhythmic variations that flow through songs like a melodic instrument. He has described his approach as "lead drums."
+
+**Key Influences:**
+- **Neil Peart (Rush)**: Progressive complexity and composition
+- **Bill Bruford (Yes/King Crimson)**: Jazz-influenced progressive rock
+- **Stewart Copeland (The Police)**: Rhythmic creativity and dynamics
+- **Gene Hoglan (Death)**: Technical death metal foundation
+
+**Signature Techniques:**
+- "Lead drums" approach with constant fills and variations
+- Jazz-influenced linear patterns and ghost notes
+- Melodic tom work creating almost riff-like patterns
+- Seamless integration of complex rhythms within heavy contexts
+- Use of China cymbals for accents and transitions
+- Increasingly prominent vocal contributions (clean and harsh)`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Mastodon - Remission', year: 2002, label: 'Relapse', note: 'Blistering debut' },
+          { name: 'Mastodon - Leviathan', year: 2004, label: 'Relapse', note: 'Moby Dick concept album' },
+          { name: 'Mastodon - Blood Mountain', year: 2006, label: 'Reprise', note: 'Major label debut' },
+          { name: 'Mastodon - Crack the Skye', year: 2009, label: 'Reprise', note: 'Prog masterpiece' },
+          { name: 'Mastodon - The Hunter', year: 2011, label: 'Reprise', note: 'Accessible evolution' },
+          { name: 'Mastodon - Once More \'Round the Sun', year: 2014, label: 'Reprise', note: 'Continued success' },
+          { name: 'Mastodon - Emperor of Sand', year: 2017, label: 'Reprise', note: 'Grammy-winning album' },
+          { name: 'Mastodon - Hushed and Grim', year: 2021, label: 'Reprise', note: 'Epic double album' },
+          { name: 'Today Is the Day - Temple of the Morning Star', year: 1997, label: 'Relapse', note: 'Pre-Mastodon' }
+        ],
+        tours: [
+          { name: 'Unholy Alliance Tour', year: '2006', note: 'With Slayer and Lamb of God' },
+          { name: 'Download Festival', year: '2007, 2012', note: 'Multiple headlining appearances' },
+          { name: 'An Evening with Mastodon', year: '2022-2023', note: 'Co-headlining with Gojira' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Brann Dailor is a longtime DW Drums endorser, using their Collector's Series drums with custom finishes. He favors a large setup to accommodate his expansive, melodic tom work.
+
+**Current Setup:**
+- **Drums**: DW Collector's Series Maple (custom blue finish)
+- **Snare**: DW Collector's Series 14"x6.5" Maple
+- **Cymbals**: Meinl Byzance series (15" Byzance Dark Hi-Hats, various crashes, 22" Byzance Ride, Classics Custom China)
+- **Hardware**: DW 9000 Series Double Pedal
+- **Throne**: DW 9000 Series Throne
+- **Sticks**: Vic Firth 5A (modified)
+- **Heads**: Remo
+
+**Setup Characteristics:**
+- Large kit with multiple rack toms for melodic patterns
+- Extensive use of China cymbals for accents
+- Quick-response cymbals for fast transition work
+- Angled toms for fluid motion between drums`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'His drumming on "Colony of Birchmen" is considered one of the most complex in mainstream metal',
+          'The album "Crack the Skye" is partially dedicated to his late sister Skye',
+          'Has become one of Mastodon\'s primary vocalists, singing lead on several tracks',
+          'Attended the same high school as Bill Kelliher in Rochester, NY',
+          'Known for his trademark flowing hair and energetic live performances',
+          '"Leviathan" was inspired by Herman Melville\'s novel Moby Dick',
+          'His drumming style has been studied in academic music theory contexts',
+          'Won Grammy for "Sultan\'s Curse" in 2017, one of metal\'s highest honors',
+          'Has cited jazz drummers as major influences despite playing extreme metal'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'DW Drums Artist Profile', url: 'https://www.dwdrums.com/artists/brann-dailor/' },
+          { name: 'Meinl Cymbals Artist Profile', url: 'https://meinlcymbals.com/en/artists/brann-dailor' },
+          { name: 'Modern Drummer Magazine', url: 'https://www.moderndrummer.com' },
+          { name: 'Wikipedia: Brann Dailor', url: 'https://en.wikipedia.org/wiki/Brann_Dailor' }
+        ]
+      }
+    }
+  },
+
+  // Chris Adler - Lamb of God (Issue #328 Batch 3)
+  'chris-adler': {
+    slug: 'chris-adler',
+    drummerId: 17,
+    name: 'Chris Adler',
+    bands: [
+      { slug: 'lamb-of-god', period: '1994-2019', role: 'Drummer, co-founder' },
+      { slug: 'megadeth', period: '2015-2016', role: 'Session/touring drummer' }
+    ],
+    metaTitle: 'Chris Adler Biography - Lamb of God Drummer & Groove Metal Pioneer | MetalForge',
+    metaDescription: 'Complete biography of Chris Adler, Lamb of God\'s founding drummer. Explore his innovative groove metal style, Megadeth collaboration, signature gear, and lasting influence.',
+    ogImage: '/images/drummers/chris-adler.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Chris Adler (born November 23, 1972, in Arlington, Virginia) is an American drummer best known as the co-founder and longtime drummer of Lamb of God, one of the most successful American metal bands of the 21st century. His innovative approach to groove metal drumming, combining technical precision with crushing heaviness, has made him one of the most influential drummers in modern metal.
+
+Adler's drumming is characterized by powerful groove-based patterns, creative use of dynamics, and signature techniques like his "pivot" hi-hat foot work. In 2015, he briefly joined Megadeth to record "Dystopia," which won a Grammy for Best Metal Performance. He departed Lamb of God in 2019, and has since focused on new projects and drum education.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1994', event: 'Co-founded Burn the Priest (later Lamb of God) in Richmond, Virginia' },
+          { year: '2000', event: 'Released "New American Gospel" as Lamb of God' },
+          { year: '2004', event: 'Released "Ashes of the Wake," Lamb of God\'s breakthrough album' },
+          { year: '2006', event: 'Released "Sacrament," debuting at #8 on Billboard 200' },
+          { year: '2009', event: 'Released "Wrath," continuing commercial success' },
+          { year: '2012', event: 'Released "Resolution," touring extensively worldwide' },
+          { year: '2015', event: 'Joined Megadeth to record "Dystopia" album' },
+          { year: '2016', event: 'Won Grammy for Best Metal Performance for "Dystopia"' },
+          { year: '2019', event: 'Departed Lamb of God after 25 years' },
+          { year: '2020+', event: 'Focused on new projects and drumming education' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Chris Adler's drumming style blends thrash metal aggression with groove metal's rhythmic punch. His precise, powerful playing emphasizes the groove while maintaining technical sophistication. He's known for creating memorable drum parts that serve the song.
+
+**Key Influences:**
+- **Dave Lombardo (Slayer)**: Thrash metal foundation
+- **Gene Hoglan (Death)**: Technical precision
+- **Neil Peart (Rush)**: Progressive complexity
+- **Vinnie Paul (Pantera)**: Groove metal power
+
+**Signature Techniques:**
+- "Pivot" hi-hat technique using left foot independently
+- Powerful, syncopated groove patterns
+- Creative use of dynamics within heavy contexts
+- Traditional grip for certain passages
+- Ghost notes and finesse within crushing heaviness
+- Signature double bass patterns that prioritize groove over speed`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Lamb of God - New American Gospel', year: 2000, label: 'Prosthetic', note: 'Debut album' },
+          { name: 'Lamb of God - As the Palaces Burn', year: 2003, label: 'Prosthetic', note: 'Building momentum' },
+          { name: 'Lamb of God - Ashes of the Wake', year: 2004, label: 'Epic', note: 'Major label breakthrough' },
+          { name: 'Lamb of God - Sacrament', year: 2006, label: 'Epic', note: '#8 Billboard debut' },
+          { name: 'Lamb of God - Wrath', year: 2009, label: 'Epic', note: 'Peak commercial era' },
+          { name: 'Lamb of God - Resolution', year: 2012, label: 'Epic', note: 'Continued success' },
+          { name: 'Lamb of God - VII: Sturm und Drang', year: 2015, label: 'Epic', note: 'Addressing legal troubles' },
+          { name: 'Megadeth - Dystopia', year: 2016, label: 'Tradecraft', note: 'Grammy-winning performance' }
+        ],
+        tours: [
+          { name: 'Ozzfest', year: '2004, 2006, 2007', note: 'Multiple main stage appearances' },
+          { name: 'Download Festival', year: '2007, 2012', note: 'UK festival headlining' },
+          { name: 'Mayhem Festival', year: '2009, 2010', note: 'US summer touring' },
+          { name: 'Megadeth World Tour', year: '2016', note: 'Supporting Dystopia album' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Chris Adler was a longtime Mapex Drums endorser and developed signature products with both Mapex and Meinl Cymbals. His setup reflects his groove-focused approach with emphasis on power and precision.
+
+**Signature Setup (Lamb of God Era):**
+- **Drums**: Mapex Black Panther Velvetone Series
+- **Snare**: Mapex Chris Adler Signature Black Panther Warbird 12"x5.5" (smaller for faster response)
+- **Cymbals**: Meinl Byzance series (13" Byzance Traditional Hi-Hats, various crashes, Sand Crash-Ride)
+- **Hardware**: Mapex Falcon Double Pedal
+- **Sticks**: Promark Chris Adler Signature TX5AXW
+- **Throne**: Roc-n-Soc
+- **Heads**: Remo (Controlled Sound on snare)
+
+**Unique Setup Elements:**
+- Uses a smaller 12" snare for faster response
+- Traditional grip for certain patterns
+- Meinl signature "Pure Alloy" Chris Adler crash cymbal
+- Emphasis on quick, responsive gear for groove playing`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Self-taught drummer who developed his unique style through experimentation',
+          'His brother Willie Adler is Lamb of God\'s guitarist',
+          'Developed the "pivot" technique—independent left foot hi-hat work',
+          'Won Grammy with Megadeth for "Dystopia" in 2017',
+          'Survived a serious motorcycle accident in 2018',
+          'Known for his humble, educational approach to drumming clinics',
+          'Uses traditional grip for certain passages, unusual in metal',
+          'His drum parts on "Laid to Rest" are considered groove metal benchmarks',
+          'Left Lamb of God in 2019 after 25 years to pursue other interests'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Mapex Drums', url: 'https://www.mapexdrums.com' },
+          { name: 'Meinl Cymbals Artist Profile', url: 'https://meinlcymbals.com' },
+          { name: 'Promark Drumsticks', url: 'https://www.daddario.com/promark/' },
+          { name: 'Wikipedia: Chris Adler', url: 'https://en.wikipedia.org/wiki/Chris_Adler' }
+        ]
+      }
+    }
+  },
+
+  // Matt Halpern - Periphery (Issue #328 Batch 3)
+  'matt-halpern': {
+    slug: 'matt-halpern',
+    drummerId: 18,
+    name: 'Matt Halpern',
+    bands: [
+      { slug: 'periphery', period: '2009-present', role: 'Drummer' }
+    ],
+    metaTitle: 'Matt Halpern Biography - Periphery Drummer & Djent Pioneer | MetalForge',
+    metaDescription: 'Complete biography of Matt Halpern, Periphery\'s influential drummer who helped define the djent movement. Explore his precise style, educational work, and signature gear.',
+    ogImage: '/images/drummers/matt-halpern.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Matt Halpern (born January 7, 1984, in Hartford, Connecticut) is an American drummer best known as the drummer for progressive metal band Periphery. As one of the architects of the "djent" movement, Halpern has become one of the most influential drummers in modern metal, known for his precise, groove-focused playing and dynamic approach.
+
+A graduate of Berklee College of Music, Halpern brings academic rigor to his drumming while maintaining an organic, musical feel. Beyond Periphery, he is an accomplished educator, running popular drumming clinics and online lessons through platforms like Drumeo. His combination of technical excellence, groove sensibility, and educational outreach has made him a hero to a new generation of metal drummers.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '2002', event: 'Began attending Berklee College of Music in Boston' },
+          { year: '2009', event: 'Joined Periphery shortly after the band\'s formation' },
+          { year: '2010', event: 'Released "Periphery" (self-titled), the djent movement\'s landmark album' },
+          { year: '2012', event: 'Released "Periphery II: This Time It\'s Personal"' },
+          { year: '2015', event: 'Released "Juggernaut: Alpha" and "Juggernaut: Omega" double concept album' },
+          { year: '2016', event: 'Released "Periphery III: Select Difficulty"' },
+          { year: '2017', event: 'Won Grammy nomination for Best Metal Performance ("The Price Is Wrong")' },
+          { year: '2019', event: 'Released "Periphery IV: HAIL STAN"' },
+          { year: '2020+', event: 'Expanded educational content and clinics worldwide' },
+          { year: '2024', event: 'Continues as one of modern metal\'s most influential drummers' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Matt Halpern's drumming combines academic precision with organic groove. His playing navigates complex polyrhythmic territory while maintaining a strong sense of musicality and feel. He excels at translating intricate guitar patterns to drums while adding his own creative flourishes.
+
+**Key Influences:**
+- **Vinnie Colaiuta**: Fusion precision and versatility
+- **Tony Williams**: Jazz innovation and dynamics
+- **Thomas Haake (Meshuggah)**: Polyrhythmic foundation
+- **Chris Coleman**: Gospel/R&B groove influence
+
+**Signature Techniques:**
+- Precise navigation of polyrhythmic patterns
+- Dynamic control within heavy contexts
+- Creative use of ghost notes and accents
+- Groove-focused approach to complex time signatures
+- Linear drumming patterns
+- Modern hybrid playing incorporating electronics`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Periphery', year: 2010, label: 'Sumerian', note: 'Self-titled djent landmark' },
+          { name: 'Periphery II: This Time It\'s Personal', year: 2012, label: 'Sumerian', note: 'Expanded sound' },
+          { name: 'Clear EP', year: 2014, label: 'Sumerian', note: 'Each member writes a song' },
+          { name: 'Juggernaut: Alpha/Omega', year: 2015, label: 'Sumerian', note: 'Double concept album' },
+          { name: 'Periphery III: Select Difficulty', year: 2016, label: 'Sumerian', note: 'Grammy-nominated' },
+          { name: 'Periphery IV: HAIL STAN', year: 2019, label: 'Sumerian', note: '16-minute opening epic' }
+        ],
+        tours: [
+          { name: 'Summer Slaughter', year: 'Multiple years', note: 'US extreme metal festival' },
+          { name: 'Periphery Headline Tours', year: '2010-Present', note: 'Worldwide touring' },
+          { name: 'Drum Clinics', year: 'Ongoing', note: 'Educational events worldwide' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Matt Halpern is a Meinl Cymbals and Tama Drums endorser. He co-developed the Meinl Byzance Foundry Reserve series of cymbals and uses a hybrid acoustic/electronic setup.
+
+**Current Setup:**
+- **Drums**: Tama Starclassic Walnut/Birch
+- **Snare**: Tama S.L.P. 14"x6" G-Maple or Starphonic Brass
+- **Cymbals**: Meinl Byzance series (15" Byzance Extra Dry Hi-Hats, Foundry Reserve crashes, 21" Transition Ride)
+- **Hardware**: Tama Speed Cobra 910 Double Pedal
+- **Electronics**: Roland SPD-SX, various triggers
+- **Throne**: Roc-n-Soc Nitro
+- **Sticks**: Vic Firth 5A or custom signature model
+- **Heads**: Evans
+
+**Unique Setup Elements:**
+- Hybrid setup integrating electronic samples
+- Meinl Foundry Reserve cymbals (hand-selected, unique characteristics)
+- Extensive use of triggering for modern production`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Graduated from Berklee College of Music with a degree in Professional Music',
+          'One of the most prominent educators in modern metal drumming',
+          'His Drumeo lessons have millions of views',
+          'Co-designed the Meinl Foundry Reserve cymbal line',
+          'Known for his warm, approachable teaching style',
+          'Periphery\'s self-titled debut is considered a djent movement cornerstone',
+          'Uses a hybrid acoustic/electronic setup for studio and live work',
+          'Has stated that groove is more important than speed or complexity',
+          'Continues to evolve his approach with each Periphery album'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Tama Drums', url: 'https://www.tama.com' },
+          { name: 'Meinl Cymbals Artist Profile', url: 'https://meinlcymbals.com/en/artists/matt-halpern' },
+          { name: 'Drumeo', url: 'https://www.drumeo.com' },
+          { name: 'Wikipedia: Matt Halpern', url: 'https://en.wikipedia.org/wiki/Matt_Halpern' }
+        ]
+      }
+    }
+  },
+
+  // Inferno - Behemoth (Issue #328 Batch 3)
+  'inferno': {
+    slug: 'inferno',
+    drummerId: 19,
+    name: 'Inferno',
+    bands: [
+      { slug: 'behemoth', period: '1997-present', role: 'Drummer' }
+    ],
+    metaTitle: 'Inferno Biography - Behemoth Drummer & Black/Death Metal Machine | MetalForge',
+    metaDescription: 'Complete biography of Inferno (Zbigniew Robert Promiński), Behemoth\'s devastating drummer. Explore his extreme metal precision, theatrical performances, and gear.',
+    ogImage: '/images/drummers/inferno.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Inferno (born Zbigniew Robert Promiński on March 23, 1979, in Gdańsk, Poland) is a Polish drummer best known as the longtime drummer for blackened death metal titans Behemoth. Since joining in 1997, he has been the rhythmic foundation of one of extreme metal's most successful and controversial bands.
+
+Inferno's drumming combines blistering speed with surgical precision, delivering relentless blast beats and complex patterns that define Behemoth's apocalyptic sound. His theatrical stage presence, featuring elaborate costumes and imposing drum risers, matches the band's grandiose visual aesthetic. He is widely regarded as one of the fastest and most consistent extreme metal drummers in the world.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1997', event: 'Joined Behemoth, replacing Baal Ravenlock' },
+          { year: '1999', event: 'Recorded "Satanica," transitioning Behemoth to death metal' },
+          { year: '2004', event: 'Released "Demigod," Behemoth\'s international breakthrough' },
+          { year: '2007', event: 'Released "The Apostasy," reaching new commercial heights' },
+          { year: '2009', event: 'Released "Evangelion," charting in multiple countries' },
+          { year: '2014', event: 'Released "The Satanist," widely considered Behemoth\'s masterpiece' },
+          { year: '2018', event: 'Released "I Loved You at Your Darkest," continuing success' },
+          { year: '2022', event: 'Released "Opvs Contra Natvram," latest studio album' },
+          { year: '2024', event: 'Continues as extreme metal\'s elite drummer' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Inferno's drumming is characterized by relentless intensity, metronomic precision, and the ability to sustain extreme tempos for extended periods. His playing combines black metal ferocity with death metal technicality.
+
+**Key Influences:**
+- **Pete Sandoval (Morbid Angel)**: Death metal blast beat foundation
+- **Hellhammer (Mayhem)**: Black metal intensity
+- **Gene Hoglan (Death)**: Technical precision
+- **Dave Lombardo (Slayer)**: Thrash metal aggression
+
+**Signature Techniques:**
+- Sustained blast beats at extreme tempos (230+ BPM)
+- Precise double bass patterns with clarity
+- Seamless transitions between blast beats and groove sections
+- Creative use of fills within relentless passages
+- Consistent live performances matching studio precision`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Behemoth - Satanica', year: 1999, label: 'Avantgarde', note: 'Death metal transition' },
+          { name: 'Behemoth - Thelema.6', year: 2000, label: 'Avantgarde', note: 'Sound refinement' },
+          { name: 'Behemoth - Zos Kia Cultus', year: 2002, label: 'Avantgarde', note: 'Technical evolution' },
+          { name: 'Behemoth - Demigod', year: 2004, label: 'Regain', note: 'International breakthrough' },
+          { name: 'Behemoth - The Apostasy', year: 2007, label: 'Regain', note: 'Commercial peak' },
+          { name: 'Behemoth - Evangelion', year: 2009, label: 'Nuclear Blast', note: 'Chart success' },
+          { name: 'Behemoth - The Satanist', year: 2014, label: 'Nuclear Blast', note: 'Masterpiece' },
+          { name: 'Behemoth - I Loved You at Your Darkest', year: 2018, label: 'Nuclear Blast', note: 'Continued evolution' },
+          { name: 'Behemoth - Opvs Contra Natvram', year: 2022, label: 'Nuclear Blast', note: 'Latest album' }
+        ],
+        tours: [
+          { name: 'Ozzfest', year: '2007', note: 'US mainstream exposure' },
+          { name: 'Download Festival', year: '2014, 2019', note: 'UK festival headlining' },
+          { name: 'Behemoth Headline Tours', year: '2004-Present', note: 'Worldwide touring' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Inferno is a Pearl Drums and Paiste Cymbals endorser. His setup is designed for extreme speed, power, and theatrical visual impact.
+
+**Current Setup:**
+- **Drums**: Pearl Masterworks Stadium Exotic
+- **Snare**: Pearl Reference 14"x5" or 14"x6.5" brass
+- **Cymbals**: Paiste RUDE series (15" RUDE Sound Edge Hi-Hats, RUDE crashes, RUDE Ride)
+- **Hardware**: Pearl Demon Drive Double Pedal (long boards)
+- **Throne**: Pearl D-2000
+- **Sticks**: Vic Firth 5B or signature model
+- **Heads**: Remo
+
+**Unique Setup Elements:**
+- Elevated drum riser for theatrical impact
+- RUDE cymbals for durability under extreme playing
+- Long board pedals for speed and power
+- Minimalist, efficient kit layout for rapid movement`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Born Zbigniew Robert Promiński; "Inferno" is his stage name',
+          'Has been Behemoth\'s drummer for over 25 years',
+          'His stamina allows consistent blast beat performances for entire concerts',
+          'Behemoth\'s theatrical stage shows feature elaborate costumes and imagery',
+          'The band faced legal troubles in Poland over alleged religious offense',
+          '"The Satanist" was recorded after Nergal\'s recovery from leukemia',
+          'Known for his professional, almost machine-like consistency live',
+          'Uses long board pedals for maximum speed and power',
+          'Considered one of the most reliable drummers in extreme metal touring'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+          { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
+          { name: 'Behemoth Official', url: 'https://behemoth.pl' },
+          { name: 'Wikipedia: Inferno (musician)', url: 'https://en.wikipedia.org/wiki/Inferno_(musician)' }
+        ]
+      }
+    }
+  },
+
+  // Hellhammer - Mayhem (Issue #328 Batch 3)
+  'hellhammer': {
+    slug: 'hellhammer',
+    drummerId: 20,
+    name: 'Hellhammer',
+    bands: [
+      { slug: 'mayhem', period: '1988-present', role: 'Drummer' },
+      { slug: 'arcturus', period: '1991-1997, 2004-present', role: 'Drummer' },
+      { slug: 'dimmu-borgir', period: '1999-2019', role: 'Session/studio drummer' },
+      { slug: 'shining', period: '2005-present', role: 'Session drummer' }
+    ],
+    metaTitle: 'Hellhammer Biography - Mayhem Drummer & Black Metal Legend | MetalForge',
+    metaDescription: 'Complete biography of Hellhammer (Jan Axel Blomberg), legendary Mayhem drummer. Explore his pivotal role in black metal history, extreme drumming style, and diverse career.',
+    ogImage: '/images/drummers/hellhammer.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Hellhammer (born Jan Axel Blomberg on August 2, 1969, in Oslo, Norway) is a Norwegian drummer widely regarded as one of the most influential figures in black metal history. Best known as the longtime drummer of the pioneering black metal band Mayhem, he has also contributed to numerous other projects including Arcturus, Dimmu Borgir, and Shining.
+
+Hellhammer joined Mayhem in 1988, becoming their most enduring member and the rhythmic foundation of the band through its most turbulent years. His drumming combines raw black metal aggression with surprising technical sophistication, and his influence on the genre cannot be overstated. He has recorded with over 40 different bands and artists.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1988', event: 'Joined Mayhem, becoming their longest-serving drummer' },
+          { year: '1991', event: 'Formed Arcturus as a side project' },
+          { year: '1994', event: 'Released "De Mysteriis Dom Sathanas" with Mayhem, black metal\'s defining album' },
+          { year: '1997', event: 'Released "Arcturus - La Masquerade Infernale," avant-garde metal landmark' },
+          { year: '1999', event: 'Began studio work with Dimmu Borgir' },
+          { year: '2000', event: 'Released "Grand Declaration of War" with Mayhem' },
+          { year: '2004', event: 'Released "Chimera" with Mayhem, returning to black metal roots' },
+          { year: '2007', event: 'Released "Ordo Ad Chao" with Mayhem' },
+          { year: '2014', event: 'Released "Esoteric Warfare" with Mayhem' },
+          { year: '2019', event: 'Released "Daemon" with Mayhem' },
+          { year: '2024', event: 'Continues as Mayhem\'s drummer after 35+ years' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Hellhammer's drumming defined the black metal drum template while incorporating influences from jazz, fusion, and progressive rock. His ability to maintain blast beats while adding subtle variations and dynamics sets him apart from many extreme metal drummers.
+
+**Key Influences:**
+- **Cozy Powell**: Hard rock power and showmanship
+- **Bill Bruford (Yes/King Crimson)**: Progressive complexity
+- **Terry Bozzio**: Technical innovation
+- **Early thrash metal**: Speed and aggression
+
+**Signature Techniques:**
+- Pioneering black metal blast beat techniques
+- Creative variations within seemingly repetitive patterns
+- Unexpected jazz and progressive influences
+- Powerful, resonant drum tones (unusual in black metal)
+- Ability to navigate between raw and technical playing`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Mayhem - De Mysteriis Dom Sathanas', year: 1994, label: 'Deathlike Silence', note: 'Black metal cornerstone' },
+          { name: 'Mayhem - Grand Declaration of War', year: 2000, label: 'Season of Mist', note: 'Experimental era' },
+          { name: 'Mayhem - Chimera', year: 2004, label: 'Season of Mist', note: 'Return to black metal' },
+          { name: 'Mayhem - Ordo Ad Chao', year: 2007, label: 'Season of Mist', note: 'Raw, atmospheric' },
+          { name: 'Mayhem - Esoteric Warfare', year: 2014, label: 'Season of Mist', note: 'Modern production' },
+          { name: 'Mayhem - Daemon', year: 2019, label: 'Century Media', note: 'Latest Mayhem album' },
+          { name: 'Arcturus - La Masquerade Infernale', year: 1997, label: 'Misanthropy', note: 'Avant-garde masterpiece' },
+          { name: 'Dimmu Borgir - Puritanical Euphoric Misanthropia', year: 2001, label: 'Nuclear Blast', note: 'Session drums' },
+          { name: 'Shining - V - Halmstad', year: 2007, label: 'Osmose', note: 'DSBM drumming' }
+        ],
+        tours: [
+          { name: 'Mayhem World Tours', year: '1990-Present', note: 'Decades of black metal touring' },
+          { name: 'Arcturus Live Shows', year: 'Intermittent', note: 'Progressive black metal' },
+          { name: 'Festival Appearances', year: 'Ongoing', note: 'Wacken, Hellfest, etc.' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Hellhammer uses Pearl Drums and has been associated with various cymbal brands. His setup balances raw power with the ability to execute complex patterns.
+
+**Current Setup:**
+- **Drums**: Pearl Reference Series or Masters Series
+- **Snare**: Pearl Reference 14"x5.5" brass or steel
+- **Cymbals**: Paiste (RUDE series for durability) or Zildjian
+- **Hardware**: Pearl Eliminator or Demon Drive double pedal
+- **Sticks**: Vic Firth 5B or similar
+- **Heads**: Remo or Evans
+
+**Setup Philosophy:**
+- Favors resonant, powerful drum tones unlike typical black metal thin sound
+- Uses quality gear despite genre's lo-fi aesthetic
+- Setup designed for both studio precision and live durability`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Has been Mayhem\'s drummer for over 35 years, longer than any other member',
+          'Survived the tumultuous early 90s Norwegian black metal scene',
+          'Has recorded with over 40 different bands and artists',
+          '"De Mysteriis Dom Sathanas" was recorded during Mayhem\'s most tragic period',
+          'The name "Hellhammer" is also shared with an influential Swiss proto-black metal band',
+          'His Arcturus work shows progressive and avant-garde influences',
+          'Dimmu Borgir used him for studio recordings due to his reliability',
+          'Known for being professional and consistent despite black metal\'s chaotic reputation',
+          'One of the few first-generation black metal musicians still actively performing'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+          { name: 'Mayhem Official', url: 'https://thetruemayhem.com' },
+          { name: 'Metal Archives', url: 'https://www.metal-archives.com' },
+          { name: 'Wikipedia: Hellhammer (musician)', url: 'https://en.wikipedia.org/wiki/Hellhammer_(musician)' }
+        ]
+      }
+    }
   }
 };
 

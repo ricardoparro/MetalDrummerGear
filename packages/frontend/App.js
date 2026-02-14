@@ -61,8 +61,8 @@ import {
   findSongsNearBpm, 
   getTempoRange, 
   TEMPO_RANGES, 
-  getAllBands, 
-  getAllGenres,
+  getAllBands as getAllBandsBpm, 
+  getAllGenres as getAllGenresBpm,
   searchSongs,
   getDatabaseStats 
 } from './data/metalSongsBpm';
@@ -2692,70 +2692,6 @@ function SimilarDrummersSection({ drummer, allDrummers, theme, onSelectDrummer }
   );
 }
 
-// ==========================================
-// BAND LINKS SECTION (Issue #351)
-// Shows links to band pages for drummers
-// ==========================================
-function BandLinksSection({ bandLinks, bandName, theme }) {
-  const { width } = useWindowDimensions();
-  const isMobile = width < 768;
-
-  // Parse band names from the drummer's band field (e.g., "Metallica" or "Slayer / Slipknot")
-  const getBandsFromName = (name) => {
-    if (!name) return [];
-    return name.split(/\s*[\/,]\s*/).map(b => b.trim()).filter(Boolean);
-  };
-
-  // Convert band name to slug
-  const toBandSlug = (name) => {
-    return name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
-  };
-
-  // Get bands that have pages
-  const bands = bandLinks || getBandsFromName(bandName);
-  const bandsWithPages = bands
-    .map(name => {
-      const slug = toBandSlug(name);
-      return hasBand(slug) ? { name, slug } : null;
-    })
-    .filter(Boolean);
-
-  // Don't render if no bands have pages
-  if (bandsWithPages.length === 0) return null;
-
-  const handleBandPress = (slug) => {
-    if (Platform.OS === 'web' && typeof window !== 'undefined') {
-      window.history.pushState({}, '', `/bands/${slug}`);
-      window.dispatchEvent(new PopStateEvent('popstate'));
-    }
-  };
-
-  return (
-    <View style={[styles.section, styles.bandLinksSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
-      <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">
-        Band {bandsWithPages.length > 1 ? 'Pages' : 'Page'}
-      </Text>
-      <Text style={[styles.bandLinksSubtitle, { color: theme.secondaryText }]}>
-        Explore drummer history and gear for {bandsWithPages.length > 1 ? 'these bands' : 'this band'}
-      </Text>
-      <View style={[styles.bandLinksGrid, isMobile && styles.bandLinksGridMobile]}>
-        {bandsWithPages.map(({ name, slug }) => (
-          <TouchableOpacity
-            key={slug}
-            onPress={() => handleBandPress(slug)}
-            style={[styles.bandLinkCard, { backgroundColor: theme.background, borderColor: theme.border }]}
-            accessibilityRole="link"
-            accessibilityLabel={`View ${name} band page`}
-          >
-            <Text style={styles.bandLinkIcon}>🎸</Text>
-            <Text style={[styles.bandLinkName, { color: theme.text }]}>{name}</Text>
-          </TouchableOpacity>
-        ))}
-      </View>
-    </View>
-  );
-}
-
 function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit, allDrummers = [], onNavigateToBio }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
@@ -2839,7 +2775,7 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
       <QuotesSection quotes={drummer.quotes} drummerName={drummer.name} theme={theme} />
 
       {/* Band Links Section - Issue #351 */}
-      <BandLinksSection drummer={drummer} theme={theme} />
+      <BandLinksSection bandLinks={getExtendedBio(drummerSlug)?.bands} bandName={drummer.band} theme={theme} />
 
       <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
         <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">Gear Setup</Text>

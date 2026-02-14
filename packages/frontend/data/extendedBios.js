@@ -1135,6 +1135,39 @@ Mario's drumming combines crushing power with technical precision, featuring com
         ]
       }
     }
+
+  // Paul Bostaph - Slayer (#360)
+  'paul-bostaph': {
+    slug: 'paul-bostaph',
+    drummerId: 16,
+    name: 'Paul Bostaph',
+    bands: [{ slug: 'slayer', period: '1992-2001, 2013-2019', role: 'Drummer' }],
+    metaTitle: 'Paul Bostaph - Slayer Drummer | MetalForge',
+    metaDescription: 'Paul Bostaph - Slayer longest-serving drummer.',
+    ogImage: '/images/drummers/paul-bostaph.webp',
+    sections: {
+      overview: { title: 'Overview', content: 'Paul Bostaph is Slayer\'s longest-serving drummer, playing on four albums and their farewell tour.' },
+      careerHighlights: { title: 'Career', items: [{ year: '1992', event: 'Joined Slayer' }, { year: '2019', event: 'Slayer final show' }] },
+      gearHighlights: { title: 'Gear', content: 'DW Collectors drums, Paiste RUDE cymbals.' },
+      sources: { title: 'Sources', items: [{ name: 'Wikipedia', url: 'https://en.wikipedia.org/wiki/Paul_Bostaph' }] }
+    }
+  },
+
+  // Jon Dette - Slayer/Testament (#360)
+  'jon-dette': {
+    slug: 'jon-dette',
+    drummerId: 17,
+    name: 'Jon Dette',
+    bands: [{ slug: 'slayer', period: '1996-1997', role: 'Touring' }, { slug: 'testament', period: '1997-2012', role: 'Drummer' }],
+    metaTitle: 'Jon Dette - Drummer | MetalForge',
+    metaDescription: 'Jon Dette - thrash metal fill-in drummer.',
+    ogImage: '/images/drummers/jon-dette.webp',
+    sections: {
+      overview: { title: 'Overview', content: 'Jon Dette is thrash metal\'s go-to fill-in drummer.' },
+      careerHighlights: { title: 'Career', items: [{ year: '1996', event: 'Slayer fill-in' }, { year: '1999', event: 'Testament The Gathering' }] },
+      gearHighlights: { title: 'Gear', content: 'Pearl, Tama, or DW drums.' },
+      sources: { title: 'Sources', items: [{ name: 'Wikipedia', url: 'https://en.wikipedia.org/wiki/Jon_Dette' }] }
+    }
   }
 };
 

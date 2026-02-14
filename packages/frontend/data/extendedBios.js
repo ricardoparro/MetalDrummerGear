@@ -1327,6 +1327,579 @@ Dette served as Slayer's touring drummer during 1996-1997, filling in when Paul 
         ]
       }
     }
+  },
+
+  // Frost - Satyricon / 1349
+  'frost': {
+    slug: 'frost',
+    drummerId: 46,
+    name: 'Frost',
+    bands: [
+      { slug: 'satyricon', period: '1993-present', role: 'Drummer' },
+      { slug: '1349', period: '2001-present', role: 'Drummer' }
+    ],
+    metaTitle: 'Frost Biography - Satyricon & 1349 Drummer, Black Metal Legend | MetalForge',
+    metaDescription: 'Complete biography of Frost (Kjetil-Vidar Haraldstad), legendary black metal drummer for Satyricon and 1349. Explore his career, hyperspeed blast beats, gear, and influence on extreme metal.',
+    ogImage: '/images/drummers/frost.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Kjetil-Vidar Haraldstad (born June 28, 1973, in Hammerfest, Norway), known professionally as Frost, is a Norwegian drummer and one of the most iconic figures in Scandinavian black metal. He is the longtime drummer for Satyricon since 1993 and 1349 since the band's formation in 2001.
+
+Frost is renowned for his blistering speed, metronomic precision, and seemingly inhuman stamina. His blast beats and hyperspeed drumming have set the technical standard for black metal percussion, combining raw ferocity with disciplined execution. Despite the often chaotic and raw nature of black metal, Frost brings a level of technicality and consistency that has influenced countless extreme metal drummers worldwide.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1993', event: 'Joined Satyricon, establishing a legendary partnership with Satyr' },
+          { year: '1996', event: 'Released "Nemesis Divina" with Satyricon, a black metal landmark' },
+          { year: '1999', event: 'Released "Rebel Extravaganza," pushing black metal into industrial territories' },
+          { year: '2001', event: 'Co-founded 1349, a pure black metal project alongside Ravn and Archaon' },
+          { year: '2003', event: 'Released "Liberation" with 1349, showcasing extreme drumming prowess' },
+          { year: '2005', event: 'Released "Hellfire" with 1349, featuring some of the fastest drumming in black metal' },
+          { year: '2006', event: 'Released "Now, Diabolical" with Satyricon, achieving mainstream metal success' },
+          { year: '2008', event: 'Released "The Age of Nero" with Satyricon' },
+          { year: '2013', event: 'Released "Satyricon" (self-titled), showcasing evolved musical direction' },
+          { year: '2017', event: 'Released "Deep calleth upon Deep" with Satyricon' },
+          { year: '2019', event: 'Released "The Infernal Pathway" with 1349' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Frost's drumming style epitomizes the black metal aesthetic: relentless blast beats, hyperspeed double bass, and an almost mechanical precision that never sacrifices intensity. His ability to maintain extreme tempos for extended periods while staying tight is legendary in the genre.
+
+**Key Influences:**
+- **Hellhammer/Mayhem**: Early Norwegian black metal foundation
+- **Fenriz (Darkthrone)**: Raw black metal approach
+- **Pete Sandoval (Morbid Angel)**: Extreme speed and blast beat technique
+- **Jazz and Fusion drummers**: Technical precision applied to extreme metal
+
+**Signature Techniques:**
+- Sustained blast beats at 240+ BPM with unwavering consistency
+- Hyperspeed double bass patterns that maintain groove
+- Seamless transitions between blast sections and mid-tempo passages
+- Controlled aggression that serves the atmospheric needs of black metal
+- Single-foot blast beats for variation and dynamics`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Satyricon - Nemesis Divina', year: 1996, label: 'Moonfog', note: 'Black metal masterpiece' },
+          { name: 'Satyricon - Rebel Extravaganza', year: 1999, label: 'Moonfog', note: 'Industrial black metal evolution' },
+          { name: 'Satyricon - Volcano', year: 2002, label: 'Capitol', note: 'Mainstream breakthrough' },
+          { name: '1349 - Liberation', year: 2003, label: 'Candlelight', note: 'Pure black metal fury' },
+          { name: '1349 - Hellfire', year: 2005, label: 'Candlelight', note: 'Extreme speed showcase' },
+          { name: 'Satyricon - Now, Diabolical', year: 2006, label: 'Roadrunner', note: 'Commercial success' },
+          { name: '1349 - Revelations of the Black Flame', year: 2009, label: 'Prosthetic', note: 'Experimental direction' },
+          { name: 'Satyricon - Deep calleth upon Deep', year: 2017, label: 'Napalm', note: 'Most recent Satyricon album' },
+          { name: '1349 - The Infernal Pathway', year: 2019, label: 'Season of Mist', note: 'Return to form' }
+        ],
+        tours: [
+          { name: 'Satyricon World Tours', year: '1996-Present', note: 'Extensive global touring' },
+          { name: '1349 Festival Circuit', year: '2003-Present', note: 'Major festival appearances' },
+          { name: 'Wacken Open Air', year: 'Multiple years', note: 'Headline appearances with both bands' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Frost is a longtime Sonor Drums endorser, using their SQ2 series for its powerful tone and durability. His setup is designed for both the extreme speed requirements of black metal and the dynamic needs of Satyricon's evolved sound.
+
+**Current Setup:**
+- **Drums**: Sonor SQ2 Series in custom finishes
+- **Snare**: Sonor SQ2 14"x6" Maple
+- **Cymbals**: Zildjian A Custom & K Series (14" A Custom Hi-Hats, 16", 17", 18" A Custom Crashes, 22" K Custom Dark Ride, 18" K China)
+- **Hardware**: Sonor Perfect Balance Pedal, Sonor hardware
+- **Sticks**: Vic Firth American Classic Extreme 5B
+- **Heads**: Remo
+
+**Setup Philosophy:**
+- Compact kit for quick access during extreme passages
+- Sonor Perfect Balance pedal for speed and control
+- Zildjian K series for dark, washy tones suited to black metal
+- Emphasizes durability for punishing live performances`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Born in Hammerfest, Norway—one of the northernmost cities in the world',
+          'The name "Frost" reflects the cold, harsh Norwegian environment',
+          'Manages to play in two demanding bands (Satyricon and 1349) simultaneously',
+          'Known for his stoic, corpse-painted stage presence',
+          'Has been praised by peers for his professionalism and work ethic',
+          '1349\'s "Hellfire" album is considered a benchmark for extreme drumming',
+          'Despite the extreme speeds, maintains excellent posture and technique to prevent injury',
+          'Has inspired a generation of black metal drummers worldwide',
+          'Often cited as one of the top 10 extreme metal drummers in polls'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Sonor Drums', url: 'https://www.sonor.com/artists/' },
+          { name: 'Wikipedia: Frost (musician)', url: 'https://en.wikipedia.org/wiki/Frost_(musician)' },
+          { name: 'Satyricon Official', url: 'https://www.satyricon.no/' },
+          { name: '1349 Official', url: 'https://www.1349.com/' }
+        ]
+      }
+    }
+  },
+
+  // Gavin Harrison - Porcupine Tree / King Crimson
+  'gavin-harrison': {
+    slug: 'gavin-harrison',
+    drummerId: 47,
+    name: 'Gavin Harrison',
+    bands: [
+      { slug: 'porcupine-tree', period: '2002-2010, 2021-present', role: 'Drummer' },
+      { slug: 'king-crimson', period: '2008-present', role: 'Drummer' },
+      { slug: 'the-pineapple-thief', period: '2016-present', role: 'Drummer' }
+    ],
+    metaTitle: 'Gavin Harrison Biography - Porcupine Tree & King Crimson Drummer | MetalForge',
+    metaDescription: 'Complete biography of Gavin Harrison, acclaimed drummer for Porcupine Tree, King Crimson, and The Pineapple Thief. Explore his polyrhythmic mastery, awards, gear, and progressive drumming influence.',
+    ogImage: '/images/drummers/gavin-harrison.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Gavin Harrison (born May 28, 1963, in Harrow, London, England) is an English drummer widely regarded as one of the finest and most influential drummers in progressive rock and metal. He is best known for his work with Porcupine Tree (2002-2010, reunited 2021), King Crimson (2008-present), and The Pineapple Thief (2016-present).
+
+Harrison's playing is characterized by intricate polyrhythmic patterns, masterful use of ghost notes, and an extraordinary ability to navigate complex odd-time signatures with musicality and groove. His technical prowess combined with tasteful restraint has earned him numerous awards from Modern Drummer magazine and the respect of drummers across all genres.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1980s', event: 'Session drummer in London, working with various pop and rock artists' },
+          { year: '1996', event: 'Released instructional video "Rhythmic Visions"' },
+          { year: '2002', event: 'Joined Porcupine Tree, recording "In Absentia"' },
+          { year: '2005', event: 'Released "Deadwing" with Porcupine Tree to critical acclaim' },
+          { year: '2007', event: 'Released "Fear of a Blank Planet" with Porcupine Tree; won Modern Drummer awards' },
+          { year: '2008', event: 'Joined King Crimson; started "05Ric" collaboration with 05Ric drummer trio' },
+          { year: '2009', event: 'Released "The Incident" with Porcupine Tree' },
+          { year: '2010', event: 'Porcupine Tree went on hiatus; continued with King Crimson' },
+          { year: '2016', event: 'Joined The Pineapple Thief, revitalizing the band\'s sound' },
+          { year: '2021', event: 'Porcupine Tree reunited; released "Closure/Continuation" in 2022' },
+          { year: '2022', event: 'Toured with Porcupine Tree for first time in over a decade' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Gavin Harrison's drumming style is defined by sophisticated polyrhythmic concepts, impeccable dynamics, and a deep understanding of how drums interact with other instruments. His approach emphasizes serving the music while adding subtle complexities that reward repeated listening.
+
+**Key Influences:**
+- **Vinnie Colaiuta**: Technical versatility and musicality
+- **Steve Gadd**: Groove and pocket playing
+- **Bill Bruford**: Progressive rock drumming concepts
+- **Tony Williams**: Jazz fusion polyrhythms
+- **African and World Music**: Polyrhythmic foundations
+
+**Signature Techniques:**
+- Complex polyrhythms layered over simple grooves
+- Masterful ghost notes that add texture and depth
+- Fluid navigation of odd time signatures (7/8, 11/8, 13/8)
+- Linear drumming patterns with musical phrasing
+- Extreme dynamic control from whisper-quiet to thunderous`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Porcupine Tree - In Absentia', year: 2002, label: 'Lava', note: 'First album with PT' },
+          { name: 'Porcupine Tree - Deadwing', year: 2005, label: 'Lava', note: 'Progressive metal excellence' },
+          { name: 'Porcupine Tree - Fear of a Blank Planet', year: 2007, label: 'Roadrunner', note: 'Career-defining album' },
+          { name: 'Porcupine Tree - The Incident', year: 2009, label: 'Roadrunner', note: 'Final pre-hiatus album' },
+          { name: 'King Crimson - Live recordings', year: '2008-Present', label: 'DGM', note: 'Multiple live releases' },
+          { name: 'The Pineapple Thief - Your Wilderness', year: 2016, label: 'Kscope', note: 'First album with TPT' },
+          { name: 'The Pineapple Thief - Dissolution', year: 2018, label: 'Kscope', note: 'Band\'s commercial peak' },
+          { name: 'Porcupine Tree - Closure/Continuation', year: 2022, label: 'Music for Nations', note: 'Reunion album' }
+        ],
+        tours: [
+          { name: 'Porcupine Tree World Tours', year: '2002-2010', note: 'Extensive touring' },
+          { name: 'King Crimson Tours', year: '2014-2021', note: 'Part of three-drummer lineup' },
+          { name: 'The Pineapple Thief Tours', year: '2016-Present', note: 'Ongoing touring' },
+          { name: 'Porcupine Tree Reunion Tour', year: '2022-2023', note: 'Highly anticipated return' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Gavin Harrison is a longtime Sonor Drums endorser and has signature products with both Sonor and Zildjian. His setup emphasizes tonal clarity, dynamic range, and the ability to execute his complex patterns with precision.
+
+**Current Setup:**
+- **Drums**: Sonor SQ2 Series in custom finishes
+- **Snares**: Sonor Gavin Harrison Signature 12"x5" and 14"x5.25"
+- **Cymbals**: Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China)
+- **Hardware**: Sonor Perfect Balance Pedal, Sonor 600 Series Hardware
+- **Sticks**: Vic Firth Gavin Harrison Signature
+- **Heads**: Remo Ambassador
+
+**Signature Product Features:**
+- Sonor signature snares designed for sensitivity and articulation
+- Zildjian K Custom Special Dry cymbals for dry, controlled sound
+- Vic Firth signature sticks with unique taper for control
+- Perfect Balance pedal allows extreme dynamic control`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Has won the Modern Drummer Readers\' Poll multiple times in the Progressive Rock category',
+          'Published the book "Rhythmic Perspectives" on polyrhythmic drumming',
+          'His instructional materials are studied by drummers worldwide',
+          'Part of King Crimson\'s revolutionary three-drummer lineup',
+          'Known for his humble, analytical approach to discussing drumming',
+          'Has stated that dynamics are more important than speed',
+          'Practices with a metronome extensively to maintain timing precision',
+          'His work on "Fear of a Blank Planet" is considered a progressive drumming benchmark',
+          'Collaborated with 05Ric—a trio of three drummers creating interlocking patterns'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Sonor Drums Artist Profile', url: 'https://www.sonor.com/artists/' },
+          { name: 'Zildjian Artist Profile', url: 'https://zildjian.com/artists/gavin-harrison' },
+          { name: 'Wikipedia: Gavin Harrison', url: 'https://en.wikipedia.org/wiki/Gavin_Harrison' },
+          { name: 'Drumeo', url: 'https://www.drumeo.com' }
+        ]
+      }
+    }
+  },
+
+  // Abe Cunningham - Deftones
+  'abe-cunningham': {
+    slug: 'abe-cunningham',
+    drummerId: 48,
+    name: 'Abe Cunningham',
+    bands: [
+      { slug: 'deftones', period: '1988-present', role: 'Drummer, founding member' }
+    ],
+    metaTitle: 'Abe Cunningham Biography - Deftones Drummer & Alternative Metal Pioneer | MetalForge',
+    metaDescription: 'Complete biography of Abe Cunningham, founding drummer of Deftones. Explore his unique drumming style, career spanning 35+ years, signature gear, and influence on alternative metal.',
+    ogImage: '/images/drummers/abe-cunningham.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Abraham "Abe" Cunningham (born July 27, 1973, in Sacramento, California) is an American drummer and founding member of the alternative metal band Deftones since 1988. Over more than three decades, Cunningham has developed a distinctive drumming style that perfectly complements Deftones' signature blend of heavy riffs, atmospheric textures, and shoegaze-influenced soundscapes.
+
+Cunningham's playing is characterized by creative, unconventional patterns that serve the song's emotional arc rather than technical showmanship. His ability to seamlessly transition between crushing heaviness and ethereal delicacy has made him one of the most distinctive and influential drummers in alternative metal.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1988', event: 'Co-founded Deftones in Sacramento, California, as a teenager' },
+          { year: '1995', event: 'Released debut album "Adrenaline" on Maverick Records' },
+          { year: '1997', event: 'Released "Around the Fur," establishing Deftones\' signature sound' },
+          { year: '2000', event: 'Released "White Pony," featuring the Grammy-winning "Elite"' },
+          { year: '2003', event: 'Released "Deftones" (self-titled), exploring darker territories' },
+          { year: '2006', event: 'Released "Saturday Night Wrist" after difficult recording process' },
+          { year: '2010', event: 'Released "Diamond Eyes," critically acclaimed comeback' },
+          { year: '2012', event: 'Released "Koi No Yokan," continuing artistic evolution' },
+          { year: '2016', event: 'Released "Gore," their eighth studio album' },
+          { year: '2020', event: 'Released "Ohms," acclaimed as one of their best albums' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Abe Cunningham's drumming style is immediately recognizable—unconventional patterns, creative use of space, and an intuitive feel for dynamics. Rather than following typical metal drumming conventions, he creates parts that breathe and evolve with the music.
+
+**Key Influences:**
+- **John Bonham (Led Zeppelin)**: Heavy groove and pocket
+- **Stewart Copeland (The Police)**: Creative, unconventional patterns
+- **Chad Sexton (311)**: Syncopated, funk-influenced metal drumming
+- **Dave Grohl**: Power and energy in alternative rock context
+
+**Signature Techniques:**
+- Unconventional snare placements and accents
+- Creative use of hi-hat and ride patterns
+- Seamless transitions between heavy and atmospheric sections
+- Pocket-focused playing that prioritizes groove over complexity
+- Dynamic control that mirrors the song's emotional content`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Adrenaline', year: 1995, label: 'Maverick', note: 'Debut album' },
+          { name: 'Around the Fur', year: 1997, label: 'Maverick', note: 'Breakthrough success' },
+          { name: 'White Pony', year: 2000, label: 'Maverick', note: 'Grammy-winning; career peak' },
+          { name: 'Deftones', year: 2003, label: 'Maverick', note: 'Self-titled dark exploration' },
+          { name: 'Saturday Night Wrist', year: 2006, label: 'Maverick', note: 'Difficult but acclaimed' },
+          { name: 'Diamond Eyes', year: 2010, label: 'Reprise', note: 'Triumphant comeback' },
+          { name: 'Koi No Yokan', year: 2012, label: 'Reprise', note: 'Artistic maturity' },
+          { name: 'Gore', year: 2016, label: 'Reprise', note: 'Continued evolution' },
+          { name: 'Ohms', year: 2020, label: 'Reprise', note: 'Critical acclaim; return to form' }
+        ],
+        tours: [
+          { name: 'Ozzfest', year: '1998, 2000, 2003', note: 'Multiple main stage appearances' },
+          { name: 'Family Values Tour', year: '1998, 2001, 2006', note: 'Festival touring' },
+          { name: 'Deftones Headlining Tours', year: '1995-Present', note: 'Continuous touring' },
+          { name: 'Summer Tour Circuit', year: '2021-Present', note: 'Post-pandemic touring' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Abe Cunningham has been a longtime Tama endorser, using their drums for their punchy attack and durability. His setup is relatively straightforward, reflecting his focus on groove and feel over technical complexity.
+
+**Current Setup:**
+- **Drums**: Tama Starclassic Maple/Bubinga
+- **Snare**: Tama S.L.P. Big Black Steel 14"x8"
+- **Cymbals**: Zildjian (14" A New Beat Hi-Hats, A Custom crashes, K Custom Ride)
+- **Hardware**: Tama Iron Cobra double pedal, Tama hardware
+- **Sticks**: Zildjian Abe Cunningham Artist Series
+- **Heads**: Evans
+
+**Setup Philosophy:**
+- Compact, efficient kit for quick access
+- Deep snare drum for powerful, cutting sound
+- Zildjian signature sticks designed for his playing style
+- Emphasizes feel and tone over extensive kit size`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Has been with Deftones since age 15, when the band formed in Sacramento',
+          'The band was originally formed in a classroom at McClatchy High School',
+          '"Elite" from White Pony won a Grammy for Best Metal Performance in 2001',
+          'Known for his humble, laid-back personality both on and off stage',
+          'Has stated that he tries not to "overplay" and let songs breathe',
+          'Deftones have remained with their original lineup longer than most contemporaries',
+          'His drumming on "Digital Bath" showcases his dynamic range perfectly',
+          'Often cited by younger alternative metal drummers as a primary influence',
+          'Has been described as "the heartbeat" of Deftones\' sound'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Tama Drums', url: 'https://www.tama.com/usa/artists/' },
+          { name: 'Zildjian', url: 'https://zildjian.com/artists' },
+          { name: 'Wikipedia: Abe Cunningham', url: 'https://en.wikipedia.org/wiki/Abe_Cunningham' },
+          { name: 'Deftones Official', url: 'https://www.deftones.com/' }
+        ]
+      }
+    }
+  },
+
+  // Richard Christy - Death / Iced Earth
+  'richard-christy': {
+    slug: 'richard-christy',
+    drummerId: 49,
+    name: 'Richard Christy',
+    bands: [
+      { slug: 'death', period: '1996-2001', role: 'Drummer' },
+      { slug: 'iced-earth', period: '2003-2007', role: 'Drummer' },
+      { slug: 'control-denied', period: '1996-2001', role: 'Drummer' },
+      { slug: 'burning-inside', period: '1997-2002', role: 'Drummer' }
+    ],
+    metaTitle: 'Richard Christy Biography - Death & Iced Earth Drummer | MetalForge',
+    metaDescription: 'Complete biography of Richard Christy, legendary drummer for Death and Iced Earth. Explore his technical death metal mastery, work with Chuck Schuldiner, and career transition to entertainment.',
+    ogImage: '/images/drummers/richard-christy.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Richard Christy (born February 1, 1974, in Fort Scott, Kansas) is an American drummer, comedian, and radio personality. In the metal world, he is renowned for his work with Death (1996-2001), Chuck Schuldiner's Control Denied, and Iced Earth (2003-2007). He is considered one of the most technically proficient death metal drummers of his generation.
+
+Christy's drumming on Death's final two albums—"The Sound of Perseverance" and the posthumously released Control Denied's "The Fragile Art of Existence"—showcased his incredible speed, precision, and musicality. He later transitioned to entertainment, becoming a prominent member of The Howard Stern Show, but his legacy in metal drumming remains influential.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1993', event: 'Moved to Florida to pursue career in death metal drumming' },
+          { year: '1996', event: 'Joined Death and Control Denied, handpicked by Chuck Schuldiner' },
+          { year: '1998', event: 'Recorded "The Sound of Perseverance" with Death—final Death studio album' },
+          { year: '1999', event: 'Recorded "The Fragile Art of Existence" with Control Denied' },
+          { year: '2001', event: 'Death disbanded following Chuck Schuldiner\'s passing' },
+          { year: '2003', event: 'Joined Iced Earth as touring and studio drummer' },
+          { year: '2004', event: 'Joined The Howard Stern Show as writer and contributor' },
+          { year: '2006', event: 'Released "Overture of the Wicked" EP with Iced Earth' },
+          { year: '2007', event: 'Left Iced Earth to focus on entertainment career' },
+          { year: '2012', event: 'Performed with Death To All, honoring Chuck Schuldiner\'s legacy' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Richard Christy's drumming style is characterized by exceptional speed, technical precision, and the ability to execute complex patterns while maintaining groove. His work with Death demonstrated both his death metal credentials and his versatility in progressive metal contexts.
+
+**Key Influences:**
+- **Gene Hoglan (Death)**: Technical death metal approach
+- **Sean Reinert (Cynic/Death)**: Progressive drumming concepts
+- **Dave Lombardo (Slayer)**: Thrash metal foundation
+- **Neil Peart (Rush)**: Progressive compositions and precision
+
+**Signature Techniques:**
+- Blistering double bass at extreme tempos with clarity
+- Complex fills that complement progressive song structures
+- Clean blast beats with musical phrasing
+- Dynamic control within death metal context
+- Seamless transitions between different tempos and feels`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Death - The Sound of Perseverance', year: 1998, label: 'Nuclear Blast', note: 'Final Death album; technical masterpiece' },
+          { name: 'Control Denied - The Fragile Art of Existence', year: 1999, label: 'Nuclear Blast', note: 'Progressive metal showcase' },
+          { name: 'Burning Inside - The Eve of the Entities', year: 1997, label: 'Pavement', note: 'Florida death metal' },
+          { name: 'Iced Earth - The Glorious Burden', year: 2004, label: 'SPV', note: 'First Iced Earth album' },
+          { name: 'Iced Earth - Overture of the Wicked', year: 2006, label: 'SPV', note: 'EP release' },
+          { name: 'Leash Law - Dogface', year: 2003, label: 'Metal Blade', note: 'Side project' }
+        ],
+        tours: [
+          { name: 'Death Tours', year: '1996-2001', note: 'Final era of Death touring' },
+          { name: 'Iced Earth World Tours', year: '2003-2007', note: 'Global touring' },
+          { name: 'Death To All Tours', year: '2012-2013', note: 'Chuck Schuldiner tribute' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `During his peak metal years, Richard Christy used Pearl Drums and various cymbal brands. His setup was designed for the extreme technical demands of Death's music.
+
+**Peak Metal Era Setup:**
+- **Drums**: Pearl Masters Custom
+- **Snare**: Pearl 14"x5.5" or 14"x6.5" Maple
+- **Cymbals**: Sabian (14" AA Hi-Hats, various crashes, AA Ride)
+- **Hardware**: Pearl double pedal, Pearl hardware
+- **Sticks**: Vic Firth American Classic 5A or 5B
+- **Heads**: Remo or Evans
+
+**Setup Notes:**
+- Prioritized durability for touring
+- Used medium-sized kit for accessibility
+- Emphasized clarity and articulation for technical death metal`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Moved to Florida specifically to break into the death metal scene',
+          'Was handpicked by Chuck Schuldiner to join Death after an audition',
+          'Chuck Schuldiner called him one of the best drummers he ever worked with',
+          '"The Sound of Perseverance" showcases some of the most technical death metal drumming ever recorded',
+          'Made a dramatic career shift from metal drumming to comedy and radio',
+          'Has been a writer/contributor on The Howard Stern Show since 2004',
+          'Still occasionally performs with Death To All tribute concerts',
+          'Known for his encyclopedic knowledge of metal and horror films',
+          'His work with Control Denied demonstrated versatility beyond pure death metal'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Death Official', url: 'https://death-band.com/' },
+          { name: 'Wikipedia: Richard Christy', url: 'https://en.wikipedia.org/wiki/Richard_Christy' },
+          { name: 'Modern Drummer Magazine', url: 'https://www.moderndrummer.com' },
+          { name: 'Blabbermouth', url: 'https://www.blabbermouth.net' }
+        ]
+      }
+    }
+  },
+
+  // Aquiles Priester - Angra / W.A.S.P.
+  'aquiles-priester': {
+    slug: 'aquiles-priester',
+    drummerId: 50,
+    name: 'Aquiles Priester',
+    bands: [
+      { slug: 'angra', period: '2000-2012, 2023-present', role: 'Drummer' },
+      { slug: 'wasp', period: '2006-present', role: 'Drummer' },
+      { slug: 'hangar', period: '1996-present', role: 'Drummer, founding member' }
+    ],
+    metaTitle: 'Aquiles Priester Biography - Angra & W.A.S.P. Drummer | MetalForge',
+    metaDescription: 'Complete biography of Aquiles Priester, acclaimed power metal drummer for Angra, W.A.S.P., and Hangar. Explore his incredible speed, double bass mastery, and influence on power metal drumming.',
+    ogImage: '/images/drummers/aquiles-priester.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Aquiles Priester (born June 19, 1971, in São Paulo, Brazil) is a Brazilian drummer renowned for his incredible speed, technical precision, and showmanship. He is best known for his work with Brazilian power metal legends Angra (2000-2012, returning 2023), American heavy metal band W.A.S.P. (2006-present), and his own band Hangar.
+
+Priester is considered one of the greatest power metal drummers in the world. His double bass abilities, complex fills, and capacity to maintain blazing speeds for extended periods have earned him numerous awards from Brazilian and international music publications. His energetic live performances and precise studio work have influenced a generation of metal drummers.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1996', event: 'Founded Hangar, Brazilian power metal band' },
+          { year: '2000', event: 'Joined Angra, replacing Ricardo Confessori' },
+          { year: '2001', event: 'Recorded "Rebirth" with Angra, a power metal landmark' },
+          { year: '2004', event: 'Released "Temple of Shadows" with Angra, critically acclaimed' },
+          { year: '2006', event: 'Joined W.A.S.P. as touring and studio drummer' },
+          { year: '2007', event: 'Released "Aurora Consurgens" with Angra' },
+          { year: '2009', event: 'Released "Babylon" with W.A.S.P.' },
+          { year: '2010', event: 'Released "Aqua" with Angra' },
+          { year: '2012', event: 'Left Angra; continued with W.A.S.P. and Hangar' },
+          { year: '2015', event: 'Released "Golgotha" with W.A.S.P.' },
+          { year: '2023', event: 'Returned to Angra for their latest album cycle' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Aquiles Priester's drumming style combines extreme speed with musicality and showmanship. His double bass technique is among the most impressive in metal, capable of sustained patterns at 220+ BPM while maintaining clarity and groove.
+
+**Key Influences:**
+- **Nicko McBrain (Iron Maiden)**: Galloping rhythms and power metal foundation
+- **Lars Ulrich (Metallica)**: Thrash metal energy
+- **Neil Peart (Rush)**: Progressive complexity and precision
+- **Mike Portnoy (Dream Theater)**: Progressive metal drumming concepts
+
+**Signature Techniques:**
+- Blazing double bass patterns at extreme speeds
+- Complex fills that navigate progressive song structures
+- Powerful snare accents and dynamic control
+- Showmanship during live performances
+- Clean execution of technically demanding passages`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Angra - Rebirth', year: 2001, label: 'Steamhammer', note: 'Power metal renaissance' },
+          { name: 'Angra - Temple of Shadows', year: 2004, label: 'Steamhammer', note: 'Concept album masterpiece' },
+          { name: 'Angra - Aurora Consurgens', year: 2006, label: 'Steamhammer', note: 'Continued excellence' },
+          { name: 'Angra - Aqua', year: 2010, label: 'Steamhammer', note: 'Final album before departure' },
+          { name: 'W.A.S.P. - Dominator', year: 2007, label: 'Demolition', note: 'First W.A.S.P. album' },
+          { name: 'W.A.S.P. - Babylon', year: 2009, label: 'Demolition', note: 'Concept album' },
+          { name: 'W.A.S.P. - Golgotha', year: 2015, label: 'Napalm', note: 'Critical acclaim' },
+          { name: 'Hangar - Various albums', year: '1996-Present', label: 'Various', note: 'Founding band' }
+        ],
+        tours: [
+          { name: 'Angra World Tours', year: '2000-2012', note: 'Global touring with Angra' },
+          { name: 'W.A.S.P. Tours', year: '2006-Present', note: 'Ongoing with Blackie Lawless' },
+          { name: 'South American Festival Circuit', year: 'Ongoing', note: 'Regular festival appearances' },
+          { name: 'European Metal Festivals', year: 'Multiple years', note: 'Wacken, Masters of Rock, etc.' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Aquiles Priester has signature products with both Pearl Drums and Vic Firth. His setup is designed for both extreme speed and powerful stage presence during high-energy performances.
+
+**Current Setup:**
+- **Drums**: Pearl Reference Series (custom finishes)
+- **Snare**: Pearl Reference 14"x6.5" or Signature model
+- **Cymbals**: Meinl Byzance series (14" Byzance Traditional Hi-Hats, crashes, 21" Byzance Ride)
+- **Hardware**: Pearl Demon Chain Drive double pedal
+- **Sticks**: Vic Firth Aquiles Priester Signature
+- **Heads**: Evans
+
+**Signature Product Features:**
+- Vic Firth signature sticks designed for speed and power
+- Pearl Demon Chain pedal for rapid-fire double bass
+- Preference for Reference series drums for projection and clarity`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Has won numerous "Best Drummer" awards in Brazil and internationally',
+          '"Temple of Shadows" is considered one of the greatest power metal albums ever',
+          'Known for his warm personality and fan interaction',
+          'Has released instructional DVDs and online lessons',
+          'Balances work with multiple bands simultaneously (W.A.S.P., Hangar, Angra)',
+          'His return to Angra in 2023 was celebrated by the power metal community',
+          'Often cited as the greatest Brazilian metal drummer',
+          'Has been praised by Blackie Lawless (W.A.S.P.) for his professionalism',
+          'Maintains an extensive practice regimen to keep up with demanding schedules'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+          { name: 'Vic Firth', url: 'https://vicfirth.com' },
+          { name: 'Wikipedia: Aquiles Priester', url: 'https://en.wikipedia.org/wiki/Aquiles_Priester' },
+          { name: 'Angra Official', url: 'https://www.angra.net/' }
+        ]
+      }
+    }
   }
 };
 

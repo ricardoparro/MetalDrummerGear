@@ -1327,6 +1327,582 @@ Dette served as Slayer's touring drummer during 1996-1997, filling in when Paul 
         ]
       }
     }
+  },
+
+  // Ray Luzier - Korn (Issue #327)
+  'ray-luzier': {
+    slug: 'ray-luzier',
+    drummerId: 18,
+    name: 'Ray Luzier',
+    bands: [
+      { slug: 'korn', period: '2007-present', role: 'Drummer' },
+      { slug: 'kxm', period: '2014-present', role: 'Drummer' },
+      { slug: 'army-of-anyone', period: '2006-2007', role: 'Drummer' },
+      { slug: 'david-lee-roth', period: '1997-2005', role: 'Touring drummer' }
+    ],
+    metaTitle: 'Ray Luzier Biography - Korn Drummer & Nu Metal Powerhouse | MetalForge',
+    metaDescription: 'Complete biography of Ray Luzier, Korn\'s drummer since 2007. Explore his career from David Lee Roth to Korn, his technical style, Musicians Institute background, and signature gear.',
+    ogImage: '/images/drummers/ray-luzier.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Ray Luzier (born Raymond Lee Luzier; June 14, 1970, in Pittsburgh, Pennsylvania) is an American drummer best known as the drummer of nu metal band Korn since 2007. A graduate of the Musicians Institute in Hollywood, Luzier is regarded as one of the most technically proficient drummers in modern rock and metal.
+
+Before joining Korn, Luzier built an impressive resume playing with David Lee Roth (1997-2005), Army of Anyone (with the DeLeo brothers of Stone Temple Pilots), and Steel Panther. His combination of technical prowess, versatility across genres, and groove-heavy playing has made him a perfect fit for Korn's complex, syncopated rhythms.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1988', event: 'Moved to Hollywood to attend Musicians Institute; graduated 1989' },
+          { year: '1992', event: 'Began teaching at Musicians Institute (through 2001)' },
+          { year: '1997', event: 'Joined David Lee Roth\'s band; began touring with former Van Halen frontman' },
+          { year: '1997', event: 'Joined Steel Panther (then Metal Shop) as founding drummer' },
+          { year: '2004', event: 'Released instructional DVD through Hal Leonard Publishing' },
+          { year: '2006', event: 'Joined Army of Anyone with Stone Temple Pilots\' DeLeo brothers and Richard Patrick' },
+          { year: '2007', event: 'Auditioned for Korn, learning 30 songs when asked to learn 5' },
+          { year: '2008', event: 'First Korn show on January 13 in Dublin, Ireland' },
+          { year: '2009', event: 'Officially announced as full member of Korn' },
+          { year: '2010', event: 'Filled in for Eric Kretz on Stone Temple Pilots reunion tour dates' },
+          { year: '2014', event: 'Formed supergroup KXM with George Lynch and Doug Pinnick' },
+          { year: '2022', event: 'Released "Requiem" with Korn, their 14th studio album' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Ray Luzier's drumming style combines technical precision with groove-heavy playing, perfectly suited for Korn's syncopated, hip-hop-influenced metal sound. His versatility allows him to seamlessly shift between funk, jazz, and metal techniques within the same song.
+
+**Key Influences:**
+- **Vinnie Colaiuta**: Technical precision and versatility
+- **Dennis Chambers**: Funk and jazz fusion groove
+- **Steve Gadd**: Session drumming mastery
+- **Neil Peart (Rush)**: Complex arrangements
+
+**Signature Techniques:**
+- Syncopated, hip-hop influenced grooves
+- Complex double bass patterns with groove retention
+- Jazz-influenced fills and ghost notes
+- Seamless transitions between funk and metal
+- Technical precision honed from years of teaching`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'David Lee Roth - DLR Band', year: 1998, label: 'Warp', note: 'First major label release' },
+          { name: 'Army of Anyone - Army of Anyone', year: 2006, label: 'RCA', note: 'Supergroup with STP members' },
+          { name: 'Korn - Korn III: Remember Who You Are', year: 2010, label: 'Roadrunner', note: 'First Korn studio album' },
+          { name: 'Korn - The Path of Totality', year: 2011, label: 'Roadrunner', note: 'Dubstep-influenced experiment' },
+          { name: 'Korn - The Paradigm Shift', year: 2013, label: 'Prospect Park', note: 'Return to roots' },
+          { name: 'KXM - KXM', year: 2014, label: 'Rat Pak', note: 'Supergroup with George Lynch' },
+          { name: 'Korn - The Serenity of Suffering', year: 2016, label: 'Roadrunner', note: 'Heavier return' },
+          { name: 'Korn - The Nothing', year: 2019, label: 'Roadrunner', note: 'Emotional depth' },
+          { name: 'Korn - Requiem', year: 2022, label: 'Loma Vista', note: 'Critically acclaimed' }
+        ],
+        tours: [
+          { name: 'David Lee Roth Tours', year: '1997-2005', note: 'Eight years with DLR' },
+          { name: 'Korn World Tours', year: '2008-Present', note: 'Continuous touring with Korn' },
+          { name: 'KXM Tours', year: '2014-2019', note: 'Side project touring' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Ray Luzier is a Pearl Drums and Sabian Cymbals endorser. His setup is designed for versatility, capable of handling Korn's complex grooves and heavy moments with equal precision.
+
+**Current Setup:**
+- **Drums**: Pearl Reference Pure in custom finishes
+- **Snare**: Pearl Reference 14"x5" Brass or Steel
+- **Cymbals**: Sabian (15" HHX Evolution Hi-Hats, AAX and HHX crashes, 21" AAX Raw Bell Dry Ride)
+- **Hardware**: DW 9000 Series double pedal
+- **Sticks**: Vic Firth Ray Luzier Signature
+- **Heads**: Evans
+
+**Equipment Evolution:**
+- Previously endorsed ddrum and Orange County Drum and Percussion (OCDP)
+- Known for adapting kit to match each project's requirements
+- Uses hybrid acoustic/electronic setups for Korn's modern sound`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Grew up on a 118-acre farm in West Newton, Pennsylvania',
+          'Started playing drums at age 5',
+          'Taught rock drumming at Musicians Institute for 9 years (1992-2001)',
+          'When asked to learn 5 Korn songs for audition, learned 30 instead',
+          'Was briefly a member of Steel Panther before their fame',
+          'His father directed him to drums after he was assigned tuba in school',
+          'Recorded drums for Japanese pop group KAT-TUN\'s #1 single',
+          'Has two sons, born in 2011 and 2015',
+          'Known for his warm personality and accessibility at drum clinics'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Pearl Drums Artist Profile', url: 'https://pearldrum.com' },
+          { name: 'Sabian Artist Profile', url: 'https://sabian.com/artist/ray-luzier/' },
+          { name: 'Modern Drummer Magazine', url: 'https://www.moderndrummer.com' },
+          { name: 'Wikipedia: Ray Luzier', url: 'https://en.wikipedia.org/wiki/Ray_Luzier' }
+        ]
+      }
+    }
+  },
+
+  // John Otto - Limp Bizkit (Issue #327)
+  'john-otto': {
+    slug: 'john-otto',
+    drummerId: 19,
+    name: 'John Otto',
+    bands: [
+      { slug: 'limp-bizkit', period: '1994-present', role: 'Drummer, founding member' }
+    ],
+    metaTitle: 'John Otto Biography - Limp Bizkit Drummer & Nu Metal Pioneer | MetalForge',
+    metaDescription: 'Complete biography of John Otto, founding drummer of Limp Bizkit. Explore his career, jazz-influenced style, nu metal legacy, and contributions to one of the biggest bands of the late 90s.',
+    ogImage: '/images/drummers/john-otto.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `John Otto (born John Everett Otto; March 22, 1977, in Jacksonville, Florida) is an American musician best known as the drummer and a founding member of nu metal band Limp Bizkit. Modern Drummer magazine described his playing as "grounded in metal, jazz, and hip-hop" with "fireball rhythms [that] are the grease that makes the Bizkit cook."
+
+Otto studied jazz drumming at the Douglas Anderson School of the Arts and played in local avant-garde bands before co-founding Limp Bizkit with Fred Durst and Sam Rivers. What started as a small Jacksonville band became one of the most successful acts of the late 1990s and early 2000s, selling over 40 million records worldwide.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1994', event: 'Co-founded Limp Bizkit in Jacksonville, Florida with Fred Durst and Sam Rivers' },
+          { year: '1997', event: 'Released "Three Dollar Bill, Y\'all$," Limp Bizkit\'s debut album' },
+          { year: '1999', event: 'Released "Significant Other," selling over 7 million copies in the US' },
+          { year: '1999', event: 'Performed at Woodstock \'99, controversial but career-defining' },
+          { year: '2000', event: 'Released "Chocolate Starfish and the Hot Dog Flavored Water," instant #1' },
+          { year: '2003', event: 'Released "Results May Vary" with new guitarist' },
+          { year: '2005', event: 'Co-wrote "The Channel" on "The Unquestionable Truth (Part 1)"' },
+          { year: '2009', event: 'Reunited with original lineup for comeback world tour' },
+          { year: '2011', event: 'Released "Gold Cobra" with reunited original lineup' },
+          { year: '2021', event: 'Released "Still Sucks," first album in 10 years' },
+          { year: '2022', event: 'Appeared on "Come Dance with Me" TV show with daughter Ava' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `John Otto's drumming style is a unique fusion of metal power, jazz sophistication, and hip-hop groove. His ability to seamlessly blend these disparate genres created the rhythmic foundation for Limp Bizkit's distinctive sound.
+
+**Key Influences:**
+- **Jazz drumming**: Studied at Douglas Anderson School of the Arts
+- **Brazilian and Afro-Cuban percussion**: World music rhythms
+- **Bebop drummers**: Complex jazz vocabulary
+- **Funk and hip-hop**: Groove-heavy playing
+
+**Signature Techniques:**
+- Fusion of metal aggression with jazz complexity
+- Hip-hop influenced grooves and syncopation
+- Funk-derived pocket playing
+- Creative use of dynamics within heavy music
+- Avant-garde influences from early Jacksonville scene`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Limp Bizkit - Three Dollar Bill, Y\'all$', year: 1997, label: 'Flip/Interscope', note: 'Debut album' },
+          { name: 'Limp Bizkit - Significant Other', year: 1999, label: 'Flip/Interscope', note: '7 million US sales' },
+          { name: 'Limp Bizkit - Chocolate Starfish and the Hot Dog Flavored Water', year: 2000, label: 'Flip/Interscope', note: 'Debuted at #1' },
+          { name: 'Limp Bizkit - Results May Vary', year: 2003, label: 'Flip/Interscope', note: 'Post-Wes Borland era' },
+          { name: 'Limp Bizkit - Gold Cobra', year: 2011, label: 'Flip/Interscope', note: 'Original lineup reunion' },
+          { name: 'Limp Bizkit - Still Sucks', year: 2021, label: 'Suretone', note: 'Surprise release' }
+        ],
+        tours: [
+          { name: 'Family Values Tour', year: '1998, 1999', note: 'Co-headlining nu metal package tour' },
+          { name: 'Anger Management Tour', year: '2000, 2003', note: 'With Eminem' },
+          { name: 'Limp Bizkit World Tours', year: '2009-Present', note: 'Reunion and ongoing touring' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `John Otto endorses Orange County Drum and Percussion (OCDP), Zildjian cymbals and sticks, Remo drumheads, and Gibraltar hardware. His setup reflects his diverse musical influences.
+
+**Current Setup:**
+- **Drums**: Orange County Drum and Percussion custom kit
+- **Snare**: OCDP custom snares
+- **Cymbals**: Zildjian (various crashes, hi-hats, and rides)
+- **Hardware**: Gibraltar
+- **Sticks**: Zildjian
+- **Heads**: Remo
+
+**Setup Evolution:**
+- Previously endorsed Pearl hardware for many years
+- Known for customizing setups based on song requirements
+- Uses a relatively straightforward kit despite technical playing ability`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Studied jazz drumming at Douglas Anderson School of the Arts in Jacksonville',
+          'Played in avant-garde bands before joining Limp Bizkit',
+          'Was recommended to Limp Bizkit by bassist Sam Rivers',
+          'Rumors in 2004 that he became a Benedictine monk were debunked by Fred Durst',
+          'Has a rap career under the name "Johnny Ottomatic"',
+          'Formed rap group Sun Zoo with rapper L.A. Jay',
+          'Produced drums on rapper Diabolic\'s 2010 debut album',
+          'Appeared on TV show "Come Dance with Me" in 2022 with his daughter',
+          'Previously lived in Marina del Rey and Santa Clarita, California'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Remo Artist Profile', url: 'https://remo.com/team/member/john-otto/' },
+          { name: 'Modern Drummer Magazine', url: 'https://www.moderndrummer.com/2004/05/john-otto/' },
+          { name: 'Limp Bizkit Official', url: 'https://limpbizkit.com' },
+          { name: 'Wikipedia: John Otto', url: 'https://en.wikipedia.org/wiki/John_Otto_(drummer)' }
+        ]
+      }
+    }
+  },
+
+  // Jay Weinberg - Slipknot (Issue #327)
+  'jay-weinberg': {
+    slug: 'jay-weinberg',
+    drummerId: 20,
+    name: 'Jay Weinberg',
+    bands: [
+      { slug: 'slipknot', period: '2014-2023', role: 'Drummer' },
+      { slug: 'suicidal-tendencies', period: '2024-2026', role: 'Drummer' },
+      { slug: 'against-me', period: '2010-2012', role: 'Drummer' },
+      { slug: 'e-street-band', period: '2008-2009', role: 'Touring drummer (fill-in)' }
+    ],
+    metaTitle: 'Jay Weinberg Biography - Former Slipknot Drummer & Max Weinberg\'s Son | MetalForge',
+    metaDescription: 'Complete biography of Jay Weinberg, Slipknot drummer from 2014-2023. Explore his journey from filling in for his father with Bruce Springsteen to becoming a metal icon with Slipknot.',
+    ogImage: '/images/drummers/jay-weinberg.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Jay Weinberg (born Jay Bradley Weinberg; September 8, 1990, in Middletown Township, New Jersey) is an American drummer best known for his tenure as Slipknot's drummer from 2014 to 2023. He is the son of Max Weinberg, legendary drummer for Bruce Springsteen's E Street Band.
+
+Weinberg's career spans diverse genres: from substituting for his father with Bruce Springsteen, to playing hardcore punk with Against Me! and Madball, to becoming the masked drummer #1 in one of metal's most extreme bands. His ability to honor Joey Jordison's legacy while bringing his own explosive energy made him a fan favorite during his nine years with Slipknot.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '2005', event: 'First performances at age 15 with The Used and Bouncing Souls' },
+          { year: '2008', event: 'First appearance with E Street Band, playing "Born to Run" at Giants Stadium' },
+          { year: '2009', event: 'Toured with Bruce Springsteen, filling in for father Max during Conan Tonight Show conflict' },
+          { year: '2010', event: 'Joined Madball; recorded "Empire" album' },
+          { year: '2011', event: 'Joined Against Me! for touring and recording' },
+          { year: '2014', event: 'Joined Slipknot, replacing Joey Jordison; identity kept secret initially' },
+          { year: '2014', event: 'Recorded ".5: The Gray Chapter" with Slipknot; graduated Stevens Institute of Technology' },
+          { year: '2019', event: 'Released "We Are Not Your Kind" with Slipknot; received widespread acclaim' },
+          { year: '2022', event: 'Released "The End, So Far" with Slipknot' },
+          { year: '2023', event: 'Parted ways with Slipknot in November; expressed being "blindsided"' },
+          { year: '2024', event: 'Joined Infectious Grooves and Suicidal Tendencies' },
+          { year: '2024', event: 'Surprise appearance with E Street Band at Barcelona show' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Jay Weinberg's drumming style combines the technical precision inherited from his father's professional discipline with the raw aggression demanded by Slipknot's extreme metal. His playing honors Joey Jordison's legacy while incorporating his own hardcore punk energy and dynamic sensitivity.
+
+**Key Influences:**
+- **Joey Jordison (Slipknot)**: Speed, precision, and showmanship
+- **Max Weinberg (E Street Band)**: Professional discipline and dynamics
+- **Hardcore punk scene**: Raw energy and intensity
+- **Dave Grohl**: Energetic, long-hair-flying style
+
+**Signature Techniques:**
+- Sustained blast beats with clarity
+- Powerful double bass patterns
+- Dynamic control from arena rock to extreme metal
+- Hardcore punk-influenced intensity
+- Ability to replicate complex Jordison parts authentically`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Madball - Empire', year: 2010, label: 'Nuclear Blast', note: 'Hardcore with Madball' },
+          { name: 'Slipknot - .5: The Gray Chapter', year: 2014, label: 'Roadrunner', note: 'First Slipknot album' },
+          { name: 'Hesitation Wounds - Awake For Everything', year: 2016, label: 'Deathwish', note: 'Hardcore side project' },
+          { name: 'Slipknot - We Are Not Your Kind', year: 2019, label: 'Roadrunner', note: 'Critical acclaim' },
+          { name: 'Slipknot - The End, So Far', year: 2022, label: 'Roadrunner', note: 'Final album with Slipknot' }
+        ],
+        tours: [
+          { name: 'Bruce Springsteen Working on a Dream Tour', year: '2009', note: 'Fill-in for father Max' },
+          { name: 'Slipknot World Tours', year: '2014-2023', note: 'Nine years of touring' },
+          { name: 'Knotfest', year: '2014-2023', note: 'Slipknot\'s own festival' },
+          { name: 'Suicidal Tendencies Tours', year: '2024-2026', note: 'Post-Slipknot era' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Jay Weinberg endorses SJC Custom Drums, Zildjian Cymbals, Evans Drumheads, DW Hardware, Roland electronics, and Vater drumsticks. His setup is designed for the demanding requirements of Slipknot's live show.
+
+**Current Setup:**
+- **Drums**: SJC Custom Drums
+- **Snare**: SJC Custom snares
+- **Cymbals**: Zildjian (various K and A Custom series)
+- **Hardware**: DW 9000 Series
+- **Electronics**: Roland for triggers and samples
+- **Sticks**: Vater
+- **Heads**: Evans
+
+**Setup Characteristics:**
+- Hybrid acoustic/electronic setup for Slipknot's samples
+- Built for durability during intense live performances
+- Custom finishes matching Slipknot's visual aesthetic`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Son of Max Weinberg, Bruce Springsteen\'s E Street Band drummer',
+          'Father took him to Ozzfest to see Slipknot as a child, sparking his metal passion',
+          'Started playing drums at age 14, mostly self-taught using father\'s gear',
+          'Played ice hockey as a goaltender before focusing on drums',
+          'Graduated from Stevens Institute of Technology in 2014 (same year he joined Slipknot)',
+          'His identity as Slipknot\'s drummer was leaked by a former drum tech',
+          'Comparisons to Dave Grohl for his energetic, hair-flying style',
+          'Left Against Me! via Twitter without notifying bandmates first',
+          'Described being "blindsided" and "heartbroken" over Slipknot firing in 2023'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'SJC Custom Drums', url: 'https://sjcdrums.com' },
+          { name: 'Zildjian Artist Profile', url: 'https://zildjian.com/artists' },
+          { name: 'Modern Drummer Magazine', url: 'https://www.moderndrummer.com' },
+          { name: 'Wikipedia: Jay Weinberg', url: 'https://en.wikipedia.org/wiki/Jay_Weinberg' }
+        ]
+      }
+    }
+  },
+
+  // Vinnie Paul - Pantera (Issue #327) - RIP
+  'vinnie-paul': {
+    slug: 'vinnie-paul',
+    drummerId: 21,
+    name: 'Vinnie Paul',
+    bands: [
+      { slug: 'pantera', period: '1981-2003', role: 'Drummer, co-founder' },
+      { slug: 'damageplan', period: '2003-2004', role: 'Drummer, co-founder' },
+      { slug: 'hellyeah', period: '2006-2018', role: 'Drummer' }
+    ],
+    metaTitle: 'Vinnie Paul Biography - Pantera Drummer & Groove Metal Legend (1964-2018) | MetalForge',
+    metaDescription: 'Complete biography of Vinnie Paul, legendary Pantera co-founder and drummer (1964-2018). Explore his revolutionary groove metal style, career with Dimebag Darrell, and lasting influence.',
+    ogImage: '/images/drummers/vinnie-paul.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Vinnie Paul (born Vincent Paul Abbott; March 11, 1964 – June 22, 2018) was an American musician best known as the drummer and co-founder of legendary groove metal band Pantera. Alongside his younger brother "Dimebag" Darrell Abbott, Vinnie Paul helped define the sound of 1990s heavy metal with albums like "Cowboys from Hell," "Vulgar Display of Power," and "Far Beyond Driven."
+
+After Pantera's breakup, Vinnie Paul co-founded Damageplan with Darrell, and following his brother's tragic murder in 2004, eventually formed Hellyeah in 2006. Several outlets have ranked him among the greatest metal drummers of all time. His powerful, groove-oriented style influenced countless drummers and helped establish groove metal as a distinct subgenre.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1981', event: 'Co-founded Pantera in Arlington, Texas with brother Darrell' },
+          { year: '1990', event: 'Released "Cowboys from Hell," Pantera\'s major label breakthrough' },
+          { year: '1992', event: 'Released "Vulgar Display of Power," defining groove metal' },
+          { year: '1994', event: 'Released "Far Beyond Driven," debuting at #1 on Billboard' },
+          { year: '1996', event: 'Released "The Great Southern Trendkill"' },
+          { year: '2000', event: 'Released "Reinventing the Steel," Pantera\'s final studio album' },
+          { year: '2003', event: 'Pantera disbanded; formed Damageplan with Darrell' },
+          { year: '2004', event: 'December 8: Brother Dimebag Darrell murdered on stage; Damageplan disbanded' },
+          { year: '2006', event: 'Founded Big Vin Records; formed Hellyeah supergroup' },
+          { year: '2007', event: 'Released self-titled Hellyeah debut album' },
+          { year: '2018', event: 'Passed away on June 22 in Las Vegas at age 54' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Vinnie Paul's drumming style defined groove metal: powerful, groove-heavy, and perfectly locked in with Dimebag's legendary guitar riffs. He prioritized feel and pocket over technical showmanship, creating a crushing foundation that made Pantera's music so infectious.
+
+**Key Influences:**
+- **Peter Criss (KISS)**: Early rock drumming influence
+- **Alex Van Halen**: Hard rock power and groove
+- **Tommy Aldridge**: Heavy metal drumming foundation
+- **His father Jerry Abbott**: Country music producer who directed him to drums
+
+**Signature Techniques:**
+- Powerful, groove-locked playing that defined Pantera's sound
+- Use of triggered samples mixed with live drums
+- Playing drumsticks backwards (holding tapered end) for power
+- Prioritizing pocket and feel over technical complexity
+- Signature kick patterns that influenced an entire generation`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Pantera - Cowboys from Hell', year: 1990, label: 'Atco', note: 'Major label breakthrough' },
+          { name: 'Pantera - Vulgar Display of Power', year: 1992, label: 'Atco', note: 'Groove metal defining album' },
+          { name: 'Pantera - Far Beyond Driven', year: 1994, label: 'East West', note: 'Debuted at #1' },
+          { name: 'Pantera - The Great Southern Trendkill', year: 1996, label: 'East West', note: 'Intense and personal' },
+          { name: 'Pantera - Reinventing the Steel', year: 2000, label: 'East West', note: 'Final studio album' },
+          { name: 'Damageplan - New Found Power', year: 2004, label: 'Elektra', note: 'Post-Pantera project' },
+          { name: 'Hellyeah - Hellyeah', year: 2007, label: 'Epic', note: 'Supergroup debut' },
+          { name: 'Hellyeah - Welcome Home', year: 2019, label: 'Eleven Seven', note: 'Posthumous final album' }
+        ],
+        tours: [
+          { name: 'Monsters of Rock', year: '1991', note: 'Major festival exposure' },
+          { name: 'Far Beyond Touring', year: '1994-1995', note: 'Supporting #1 album' },
+          { name: 'Ozzfest', year: '1997, 1998, 2000', note: 'Multiple appearances' },
+          { name: 'Hellyeah Tours', year: '2007-2018', note: 'Final touring years' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Vinnie Paul used various drum brands throughout his career, including Tama, Remo, Pearl, and finally ddrum. He endorsed Sabian cymbals and Vic Firth drumsticks consistently.
+
+**Final Setup (Hellyeah Era):**
+- **Drums**: ddrum Vinnie Paul Signature Series
+- **Snare**: ddrum custom snares
+- **Cymbals**: Sabian (AAX, HHX, and signature models)
+- **Hardware**: ddrum and Danmar
+- **Sticks**: Vic Firth (played backwards, holding tapered end)
+- **Heads**: Evans
+- **Electronics**: ddrum and Roland triggers
+
+**Equipment Evolution:**
+- Tama drums during Cowboys from Hell era (1990-1992)
+- Remo drums for Vulgar Display of Power and Far Beyond Driven
+- Pearl drums from 1996-2008
+- ddrum endorsement from 2008 until death`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Originally played tuba in school band; father directed him to drums',
+          'Father Jerry Abbott was a country music songwriter and producer',
+          'Played drumsticks backwards (holding tapered end) for more power',
+          '"Far Beyond Driven" debuted at #1 on Billboard, remarkable for such heavy music',
+          'Grammy nominated four times with Pantera for Best Metal Performance',
+          'Refused to speak to Phil Anselmo after Pantera\'s breakup',
+          'Founded Big Vin Records after Dimebag\'s death',
+          'Wrote a column with Lacuna Coil\'s Cristina Scabbia for Revolver magazine',
+          'Was working on a cookbook "Drumming up an Appetite" before his death (released posthumously 2025)',
+          'Died of dilated cardiomyopathy and coronary artery disease',
+          'Buried beside his mother and brother Dimebag in Arlington, Texas'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Vic Firth Artist Profile', url: 'https://vicfirth.com/artists/vinnie-paul' },
+          { name: 'ddrum Artist Page', url: 'https://ddrum.com' },
+          { name: 'Revolver Magazine', url: 'https://www.revolvermag.com/music/fan-poll-5-greatest-metal-drummers-all-time' },
+          { name: 'Wikipedia: Vinnie Paul', url: 'https://en.wikipedia.org/wiki/Vinnie_Paul' }
+        ]
+      }
+    }
+  },
+
+  // Charlie Benante - Anthrax (Issue #327)
+  'charlie-benante': {
+    slug: 'charlie-benante',
+    drummerId: 22,
+    name: 'Charlie Benante',
+    bands: [
+      { slug: 'anthrax', period: '1983-present', role: 'Drummer' },
+      { slug: 'stormtroopers-of-death', period: '1985-1999', role: 'Drummer' },
+      { slug: 'pantera', period: '2022-present', role: 'Touring drummer' }
+    ],
+    metaTitle: 'Charlie Benante Biography - Anthrax Drummer & Thrash Metal Pioneer | MetalForge',
+    metaDescription: 'Complete biography of Charlie Benante, Anthrax drummer and thrash metal pioneer. Explore his revolutionary double bass and blast beat techniques, Big Four legacy, and current Pantera touring role.',
+    ogImage: '/images/drummers/charlie-benante.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Charlie Benante (born Charles Lee Benante; November 27, 1962, in The Bronx, New York) is an American drummer best known as the drummer for thrash metal band Anthrax and crossover thrash pioneers Stormtroopers of Death (S.O.D.). He is credited as one of the pioneers of double bass drumming in thrash metal and with popularizing the blast beat technique.
+
+Beyond his drumming, Benante is Anthrax's main composer and a talented graphic artist who has created many of the band's album covers and T-shirt designs. Since 2022, he has also toured with the reunited Pantera, filling in for the late Vinnie Paul, his close friend.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1983', event: 'Joined Anthrax prior to recording debut album "Fistful of Metal"' },
+          { year: '1985', event: 'Formed S.O.D.; released "Speak English or Die," pioneering crossover thrash' },
+          { year: '1985', event: 'Released "Spreading the Disease" with Anthrax' },
+          { year: '1987', event: 'Released "Among the Living," Anthrax\'s breakthrough album' },
+          { year: '1988', event: 'Released "State of Euphoria"; helped define thrash metal drumming' },
+          { year: '1991', event: 'Released "Persistence of Time," showcasing technical evolution' },
+          { year: '2011', event: 'Released "Worship Music" with John Bush and reunited classic lineup' },
+          { year: '2016', event: 'Released "For All Kings" with Anthrax' },
+          { year: '2021', event: 'Released solo album "Silver Linings" during COVID pandemic' },
+          { year: '2022', event: 'Joined reunited Pantera as touring drummer, honoring Vinnie Paul' },
+          { year: '2025', event: 'Married singer Carla Harvey' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Charlie Benante is credited with pioneering several techniques that became standard in thrash metal. His double bass work and blast beats influenced an entire generation of extreme metal drummers. Despite his technical prowess, he maintains groove and serves the song.
+
+**Key Influences:**
+- **Neil Peart (Rush)**: Complex arrangements and precision
+- **John Bonham (Led Zeppelin)**: Power and groove
+- **Bill Ward (Black Sabbath)**: Heavy metal foundation
+- **Jazz drummers**: Technical vocabulary applied to metal
+
+**Signature Techniques:**
+- Pioneer of sustained double bass in thrash metal
+- Credited with popularizing the blast beat in metal
+- Complex, progressive arrangements
+- Dynamic control within extreme tempos
+- Ability to compose and arrange while drumming`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Anthrax - Fistful of Metal', year: 1984, label: 'Megaforce', note: 'Debut album' },
+          { name: 'Anthrax - Spreading the Disease', year: 1985, label: 'Megaforce', note: 'Joey Belladonna era begins' },
+          { name: 'S.O.D. - Speak English or Die', year: 1985, label: 'Megaforce', note: 'Crossover thrash classic' },
+          { name: 'Anthrax - Among the Living', year: 1987, label: 'Island', note: 'Breakthrough album' },
+          { name: 'Anthrax - Persistence of Time', year: 1990, label: 'Island', note: 'Technical peak' },
+          { name: 'Anthrax - Worship Music', year: 2011, label: 'Megaforce', note: 'Triumphant return' },
+          { name: 'Anthrax - For All Kings', year: 2016, label: 'Megaforce', note: 'Grammy-nominated' },
+          { name: 'Solo - Silver Linings', year: 2021, label: 'Megaforce', note: 'COVID-era solo album' }
+        ],
+        tours: [
+          { name: 'Big Four Tours', year: '2010-2011', note: 'Historic thrash metal reunions' },
+          { name: 'Clash of the Titans', year: '1991', note: 'With Slayer, Megadeth, Alice in Chains' },
+          { name: 'Pantera Reunion Tour', year: '2022-Present', note: 'Filling in for late Vinnie Paul' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Charlie Benante endorses Tama drums and hardware, Paiste cymbals, Vic Firth sticks, Evans drumheads, and Roland electronics. He was one of few drummers to use Tama's vintage HP35 Camco pedals until switching to Speed Cobra in 2010.
+
+**Current Setup:**
+- **Drums**: Tama Starclassic Maple
+- **Snare**: Tama Charlie Benante Signature
+- **Cymbals**: Paiste (2002, Signature, and RUDE series)
+- **Hardware**: Tama Speed Cobra double pedal (replaced Camco HP35 in 2010)
+- **Sticks**: Vic Firth Charlie Benante Signature
+- **Heads**: Evans
+- **Electronics**: Roland for triggers
+
+**Historical Note:**
+- Used Tama HP35 Camco chain-drive pedals from 1984-2010
+- Known for vintage pedal preference until Tama discontinued them`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Credited with pioneering double bass drumming and popularizing blast beats in thrash metal',
+          'Main composer for Anthrax in addition to drumming duties',
+          'Creates Anthrax\'s album artwork and T-shirt designs',
+          'Massive collector of Jaws (1975 film) merchandise; featured in "The Shark Is Still Working" documentary',
+          'Bassist Frank Bello is his nephew (Benante\'s mother was Bello\'s grandmother)',
+          'Used same Tama Camco pedals from 1984 until their discontinuation in 2010',
+          'Joined Pantera reunion in 2022 to honor close friend Vinnie Paul',
+          'Released solo album "Silver Linings" during COVID lockdowns',
+          'Born and raised in The Bronx, New York',
+          'Married Carla Harvey (formerly of Butcher Babies) in 2025'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Tama Drums Artist Profile', url: 'https://www.tama.com' },
+          { name: 'Paiste Artist Profile', url: 'https://www.paiste.com/en/musicians/charlie-benante' },
+          { name: 'Vic Firth Artist Profile', url: 'https://vicfirth.com/artists/charlie-benante' },
+          { name: 'Wikipedia: Charlie Benante', url: 'https://en.wikipedia.org/wiki/Charlie_Benante' }
+        ]
+      }
+    }
   }
 };
 

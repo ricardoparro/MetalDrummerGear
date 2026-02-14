@@ -56,7 +56,7 @@ import {
 import { getExtendedBio, hasExtendedBio } from './data/extendedBios';
 
 // Band data with drummer history (Issue #349)
-import { getBand, getAllBandSlugs, hasBand } from './data/bands';
+import { getBand, getAllBandSlugs, hasBand, getBandsForDrummer } from './data/bands';
 
 // ==========================================
 // TOP 10 LISTS - Loaded dynamically for code splitting
@@ -396,6 +396,95 @@ function VideoCard({ video, theme }) {
             {video.year}
           </Text>
         )}
+      </View>
+    </View>
+  );
+}
+
+// ==========================================
+// BAND LINKS SECTION - Issue #351
+// Shows links to bands this drummer has played with
+// ==========================================
+function BandLinksSection({ drummerSlug, theme, onNavigateToBand }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  
+  // Get drummer ID from slug - we need to look up the drummer by slug
+  const [drummerId, setDrummerId] = useState(null);
+  const [bands, setBands] = useState([]);
+  
+  useEffect(() => {
+    // Fetch drummer data to get their ID
+    fetch('/api/drummers')
+      .then(res => res.json())
+      .then(data => {
+        const drummer = data.find(d => toSlug(d.name) === drummerSlug);
+        if (drummer) {
+          setDrummerId(drummer.id);
+          const drummerBands = getBandsForDrummer(drummer.id);
+          setBands(drummerBands);
+        }
+      })
+      .catch(err => console.error('Failed to fetch drummers:', err));
+  }, [drummerSlug]);
+  
+  // If no bands found, don't render
+  if (!bands || bands.length === 0) return null;
+
+  const handleBandPress = (bandSlug) => {
+    if (onNavigateToBand) {
+      onNavigateToBand(bandSlug);
+    } else if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', `/bands/${bandSlug}`);
+      window.dispatchEvent(new PopStateEvent('popstate'));
+    }
+  };
+
+  return (
+    <View 
+      style={[styles.section, styles.bandLinksSection, { backgroundColor: theme.card, borderColor: theme.border }]}
+      data-testid="band-links-section"
+    >
+      <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">
+        🎸 Bands
+      </Text>
+      <Text style={[styles.bandLinksSubtitle, { color: theme.secondaryText }]}>
+        Bands this drummer has played with
+      </Text>
+      <View style={[styles.bandLinksGrid, isMobile && styles.bandLinksGridMobile]}>
+        {bands.map((band) => {
+          const bandSlug = band.slug;
+          const testId = `band-link-${bandSlug}`;
+          
+          return Platform.OS === 'web' ? (
+            <a
+              key={bandSlug}
+              href={`/bands/${bandSlug}`}
+              onClick={(e) => {
+                e.preventDefault();
+                handleBandPress(bandSlug);
+              }}
+              style={{ textDecoration: 'none' }}
+              data-testid={testId}
+            >
+              <View style={[styles.bandLinkCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
+                <Text style={styles.bandLinkIcon}>🎸</Text>
+                <Text style={[styles.bandLinkName, { color: '#dc2626' }]}>{band.name}</Text>
+              </View>
+            </a>
+          ) : (
+            <TouchableOpacity
+              key={bandSlug}
+              onPress={() => handleBandPress(bandSlug)}
+              style={[styles.bandLinkCard, { backgroundColor: theme.card, borderColor: theme.border }]}
+              accessibilityRole="link"
+              accessibilityLabel={`View ${band.name} band page`}
+            >
+              <Text style={styles.bandLinkIcon}>🎸</Text>
+              <Text style={[styles.bandLinkName, { color: '#dc2626' }]}>{band.name}</Text>
+            </TouchableOpacity>
+          );
+        })}
       </View>
     </View>
   );
@@ -2631,6 +2720,9 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
       </View>
 
       <QuotesSection quotes={drummer.quotes} drummerName={drummer.name} theme={theme} />
+
+      {/* Band Links Section - Issue #351 */}
+      <BandLinksSection drummerSlug={drummerSlug} theme={theme} />
 
       <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
         <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">Gear Setup</Text>

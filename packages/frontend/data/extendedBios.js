@@ -1135,7 +1135,7 @@ Mario's drumming combines crushing power with technical precision, featuring com
         ]
       }
     }
-  }
+  },
 
   // Paul Bostaph - Slayer, Testament, Exodus (Issue #360)
   'paul-bostaph': {

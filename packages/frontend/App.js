@@ -7958,6 +7958,54 @@ setShowList(false);
     }
   };
 
+  // Navigate to gear list page (Issue #339)
+  const handleNavigateToGearList = () => {
+    setShowGearList(true);
+    setShowGearBrand(false);
+    setGearBrandSlug(null);
+    setShowGearFinder(false);
+    setShowGearByBudget(false);
+    setShowList(false);
+    setListSlug(null);
+    setShowSpotlights(false);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowPrivacy(false);
+    setShowQuotes(false);
+    setShowBioPage(false);
+    setBioSlug(null);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/gear');
+    }
+  };
+
+  // Navigate to gear brand page (Issue #339)
+  const handleNavigateToGearBrand = (brandSlug) => {
+    setShowGearBrand(true);
+    setGearBrandSlug(brandSlug);
+    setShowGearList(false);
+    setShowGearFinder(false);
+    setShowGearByBudget(false);
+    setShowList(false);
+    setListSlug(null);
+    setShowSpotlights(false);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowPrivacy(false);
+    setShowQuotes(false);
+    setShowBioPage(false);
+    setBioSlug(null);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', `/gear/brand/${brandSlug}`);
+    }
+  };
+
   // Navigate to extended bio page (Issue #305)
   const handleNavigateToBio = async (drummerSlug) => {
     // First ensure we have the drummer data

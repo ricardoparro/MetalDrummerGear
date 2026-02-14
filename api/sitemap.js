@@ -69,9 +69,17 @@ export default function handler(req, res) {
     { loc: '/quotes', priority: '0.9', changefreq: 'weekly' },
     // Top 10 Lists index
     { loc: '/lists', priority: '0.9', changefreq: 'weekly' },
+    // Genres index (Issue #340)
+    { loc: '/genres', priority: '0.9', changefreq: 'weekly' },
     // Individual Top 10 List pages
     ...top10Lists.map(l => ({
       loc: `/lists/${l.slug}`,
+      priority: '0.8',
+      changefreq: 'monthly'
+    })),
+    // Genre detail pages (Issue #340)
+    ...genres.map(g => ({
+      loc: `/genres/${g.slug}`,
       priority: '0.8',
       changefreq: 'monthly'
     })),

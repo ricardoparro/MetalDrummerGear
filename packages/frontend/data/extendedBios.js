@@ -1135,6 +1135,7 @@ Mario's drumming combines crushing power with technical precision, featuring com
         ]
       }
     }
+  },
 
   // Paul Bostaph - Slayer (#360)
   'paul-bostaph': {

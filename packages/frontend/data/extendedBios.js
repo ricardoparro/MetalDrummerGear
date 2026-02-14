@@ -1327,6 +1327,598 @@ Dette served as Slayer's touring drummer during 1996-1997, filling in when Paul 
         ]
       }
     }
+  },
+
+  // Paul Mazurkiewicz - Cannibal Corpse (Batch 10)
+  'paul-mazurkiewicz': {
+    slug: 'paul-mazurkiewicz',
+    drummerId: 51,
+    name: 'Paul Mazurkiewicz',
+    bands: [
+      { slug: 'cannibal-corpse', period: '1988-present', role: 'Drummer, co-founder' }
+    ],
+    metaTitle: 'Paul Mazurkiewicz Biography - Cannibal Corpse Drummer & Death Metal Pioneer | MetalForge',
+    metaDescription: 'Complete biography of Paul Mazurkiewicz, co-founder and drummer of Cannibal Corpse. Explore his 35+ year career, brutal drumming style, and influence on death metal.',
+    ogImage: '/images/drummers/paul-mazurkiewicz.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Paul Mazurkiewicz (born September 8, 1968, in Buffalo, New York) is an American drummer and co-founder of legendary death metal band Cannibal Corpse, formed in 1988. As one of the most consistent and dedicated drummers in extreme metal, Mazurkiewicz has performed on every Cannibal Corpse album since their 1990 debut "Eaten Back to Life."
+
+His drumming style combines relentless blast beats, complex double bass patterns, and groove-oriented sections that have helped define the death metal sound. With Cannibal Corpse being the best-selling death metal band of all time (over 2 million albums sold worldwide), Mazurkiewicz's contribution to the genre is immeasurable. His 35+ years of consistent touring and recording make him one of the most enduring figures in extreme metal history.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1988', event: 'Co-founded Cannibal Corpse in Buffalo, New York with Chris Barnes, Bob Rusay, Jack Owen, and Alex Webster' },
+          { year: '1990', event: 'Released debut album "Eaten Back to Life," establishing Cannibal Corpse\'s brutal sound' },
+          { year: '1992', event: 'Released "Tomb of the Mutilated," featuring the iconic "Hammer Smashed Face"' },
+          { year: '1994', event: 'Appeared in the film "Ace Ventura: Pet Detective," performing "Hammer Smashed Face"' },
+          { year: '1995', event: 'George "Corpsegrinder" Fisher joined as vocalist; new era began' },
+          { year: '1996', event: 'Released "Vile," first album with Corpsegrinder and Rob Barrett' },
+          { year: '2006', event: 'Released "Kill," considered one of their most technically proficient albums' },
+          { year: '2012', event: 'Released "Torture," showcasing evolved drumming complexity' },
+          { year: '2017', event: 'Released "Red Before Black," their 14th studio album' },
+          { year: '2021', event: 'Released "Violence Unimagined," demonstrating continued relevance after 30+ years' },
+          { year: '2023', event: 'Continues touring extensively; Cannibal Corpse remains death metal\'s best-selling act' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Paul Mazurkiewicz's drumming style is the foundation of Cannibal Corpse's brutal sound. His approach combines old-school death metal intensity with evolving technical proficiency, maintaining consistency across three decades of extreme metal.
+
+**Key Influences:**
+- **Dave Lombardo (Slayer)**: Thrash metal intensity and double bass foundation
+- **Pete Sandoval (Morbid Angel)**: Death metal blast beat technique
+- **Gene Hoglan (Dark Angel/Death)**: Technical precision in extreme metal
+- **Neil Peart (Rush)**: Progressive elements and composition
+
+**Signature Techniques:**
+- **Relentless blast beats**: Sustained high-speed patterns that define Cannibal Corpse's intensity
+- **Groove-oriented sections**: Contrast brutal blasts with headbang-worthy mid-tempo grooves
+- **Complex double bass patterns**: Intricate kick drum work underlying the wall of sound
+- **Endurance drumming**: Maintaining intensity through 90-minute performances nightly
+- **Song service**: Patterns designed to enhance rather than overshadow the riffs`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Eaten Back to Life', year: 1990, label: 'Metal Blade', note: 'Debut album establishing brutal death metal template' },
+          { name: 'Butchered at Birth', year: 1991, label: 'Metal Blade', note: 'Controversial artwork; refined sound' },
+          { name: 'Tomb of the Mutilated', year: 1992, label: 'Metal Blade', note: 'Contains "Hammer Smashed Face"' },
+          { name: 'The Bleeding', year: 1994, label: 'Metal Blade', note: 'Last album with Chris Barnes' },
+          { name: 'Vile', year: 1996, label: 'Metal Blade', note: 'First album with Corpsegrinder' },
+          { name: 'Gallery of Suicide', year: 1998, label: 'Metal Blade', note: 'Expanded musical complexity' },
+          { name: 'Bloodthirst', year: 1999, label: 'Metal Blade', note: 'Erik Rutan production debut' },
+          { name: 'Gore Obsessed', year: 2002, label: 'Metal Blade', note: 'Continued evolution' },
+          { name: 'The Wretched Spawn', year: 2004, label: 'Metal Blade', note: 'Technical peak of classic era' },
+          { name: 'Kill', year: 2006, label: 'Metal Blade', note: 'Modern Cannibal Corpse defined' },
+          { name: 'Torture', year: 2012, label: 'Metal Blade', note: 'Grammy-nominated' },
+          { name: 'Violence Unimagined', year: 2021, label: 'Metal Blade', note: 'Erik Rutan joins as guitarist' }
+        ],
+        tours: [
+          { name: 'Global Evisceration Tour', year: '2012', note: 'Worldwide touring for Torture' },
+          { name: 'Summer Slaughter', year: 'Multiple years', note: 'Premier North American extreme metal festival' },
+          { name: '30th Anniversary Tour', year: '2018', note: 'Celebrating three decades of brutality' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Paul Mazurkiewicz has been associated with Pearl Drums for much of his career, favoring equipment that can withstand the rigors of extensive touring and intense playing.
+
+**Current Setup:**
+- **Drums**: Pearl Reference Pure (Matte Black finish)
+- **Snare**: Pearl Reference 14"x6.5" Brass
+- **Cymbals**: Sabian AAX and HH series (14" Hi-Hats, various crashes, 22" Ride)
+- **Hardware**: Pearl Eliminator Demon Drive double pedal
+- **Sticks**: Promark 5B hickory
+- **Heads**: Remo Emperor/Ambassador
+
+**Setup Philosophy:**
+- Durability is paramount for 200+ shows per year
+- Consistent setup across all venues for muscle memory
+- Relatively standard kit size for death metal efficiency
+- Emphasis on reliability over complexity`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Has appeared on every Cannibal Corpse album since 1990—the only member besides Alex Webster with this distinction',
+          'The "Ace Ventura: Pet Detective" appearance (1994) introduced millions to death metal',
+          'Cannibal Corpse\'s music was banned in several countries including Germany and Australia',
+          'Despite the band\'s controversial imagery, Mazurkiewicz is known for his friendly, down-to-earth personality',
+          'The band has performed over 3,000 shows across 40+ countries',
+          'Original lyricist for some of Cannibal Corpse\'s most controversial songs',
+          'The band\'s longevity is remarkable in extreme metal—same core lineup for nearly 30 years',
+          '"Hammer Smashed Face" has become a meme and cultural touchstone beyond metal',
+          'Maintains a rigorous physical fitness routine to sustain demanding performance schedule'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Metal Blade Records', url: 'https://www.metalblade.com/cannibalcorpse' },
+          { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+          { name: 'Modern Drummer Magazine', url: 'https://www.moderndrummer.com' },
+          { name: 'Wikipedia: Paul Mazurkiewicz', url: 'https://en.wikipedia.org/wiki/Paul_Mazurkiewicz' }
+        ]
+      }
+    }
+  },
+
+  // Mike Mangini - Dream Theater (Batch 10)
+  'mike-mangini': {
+    slug: 'mike-mangini',
+    drummerId: 52,
+    name: 'Mike Mangini',
+    bands: [
+      { slug: 'dream-theater', period: '2010-present', role: 'Drummer' },
+      { slug: 'extreme', period: '1999-2008, 2014-present', role: 'Drummer' },
+      { slug: 'annihilator', period: '1999', role: 'Drummer' },
+      { slug: 'steve-vai', period: '1996-2000', role: 'Drummer' }
+    ],
+    metaTitle: 'Mike Mangini Biography - Dream Theater Drummer & World Record Holder | MetalForge',
+    metaDescription: 'Complete biography of Mike Mangini, Dream Theater drummer, Berklee professor, and world record holder. Explore his technical mastery, educational contributions, and progressive metal legacy.',
+    ogImage: '/images/drummers/mike-mangini.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Mike Mangini (born April 18, 1963, in Newton, Massachusetts) is an American drummer who joined progressive metal legends Dream Theater in 2010, succeeding founding member Mike Portnoy. A former professor at Berklee College of Music, Mangini holds multiple world records for drumming speed and is widely regarded as one of the most technically proficient drummers alive.
+
+Before Dream Theater, Mangini built an impressive resume with Steve Vai, Extreme, Annihilator, and James LaBrie's solo projects. His academic approach to drumming—combining mathematics, physics, and biomechanics—has revolutionized how drummers approach technique and education. Mangini's ability to navigate Dream Theater's complex compositions while adding his own innovations has cemented his place among progressive metal's elite.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1963', event: 'Born April 18 in Newton, Massachusetts' },
+          { year: '1986', event: 'Set first world record for single-stroke roll speed' },
+          { year: '1996', event: 'Joined Steve Vai\'s band for the "Fire Garden" tour' },
+          { year: '1999', event: 'Recorded with Annihilator on "Criteria for a Black Widow"' },
+          { year: '2002', event: 'Joined Extreme for reunion; began teaching at Berklee College of Music' },
+          { year: '2005', event: 'Set Guinness World Record: 1,203 single strokes in 60 seconds' },
+          { year: '2010', event: 'Won Dream Theater drummer audition; announced as new drummer October 2010' },
+          { year: '2011', event: 'Released "A Dramatic Turn of Events," first Dream Theater album' },
+          { year: '2013', event: 'Released self-titled "Dream Theater" album' },
+          { year: '2016', event: 'Released "The Astonishing," ambitious rock opera double album' },
+          { year: '2019', event: 'Released "Distance Over Time," critically acclaimed return to roots' },
+          { year: '2021', event: 'Released "A View from the Top of the World"' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Mike Mangini's drumming represents the intersection of academic study and practical application. His scientific approach to technique—analyzing angles, physics, and biomechanics—has produced a style that is both mechanically efficient and musically expressive.
+
+**Key Influences:**
+- **Steve Gadd**: Precision and musicality
+- **Vinnie Colaiuta**: Technical versatility
+- **Neil Peart (Rush)**: Progressive rock composition
+- **Buddy Rich**: Speed and showmanship
+- **Tony Williams**: Jazz fusion innovation
+
+**Signature Techniques:**
+- **Moeller technique mastery**: Efficient stick control for sustained speed
+- **Mathematical pattern construction**: Building phrases from polyrhythmic foundations
+- **Ambidextrous playing**: Equal proficiency with both hands
+- **Complex meter navigation**: Seamless transitions between odd time signatures
+- **Hybrid grip variations**: Switching between matched and traditional as needed
+- **"Rhythm Knowledge" system**: His educational framework for understanding time`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Steve Vai - Fire Garden', year: 1996, label: 'Epic', note: 'First major touring gig' },
+          { name: 'Annihilator - Criteria for a Black Widow', year: 1999, label: 'CMC', note: 'Thrash metal precision' },
+          { name: 'Extreme - Saudades de Rock', year: 2008, label: 'Open E', note: 'Reunion album' },
+          { name: 'Dream Theater - A Dramatic Turn of Events', year: 2011, label: 'Roadrunner', note: 'DT debut; Grammy nominated' },
+          { name: 'Dream Theater - Dream Theater', year: 2013, label: 'Roadrunner', note: 'Self-titled statement' },
+          { name: 'Dream Theater - The Astonishing', year: 2016, label: 'Roadrunner', note: 'Ambitious rock opera' },
+          { name: 'Dream Theater - Distance Over Time', year: 2019, label: 'InsideOut', note: 'Return to progressive roots' },
+          { name: 'Dream Theater - A View from the Top of the World', year: 2021, label: 'InsideOut', note: 'Pandemic-era creation' }
+        ],
+        tours: [
+          { name: 'A Dramatic Turn of Events World Tour', year: '2011-2012', note: 'First Dream Theater touring cycle' },
+          { name: 'Along for the Ride Tour', year: '2014', note: 'Self-titled album support' },
+          { name: 'Distance Over Time Tour', year: '2019-2020', note: 'Before pandemic shutdown' },
+          { name: 'Top of the World Tour', year: '2022', note: 'Post-pandemic return' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Mike Mangini uses a massive Pearl Drums kit with numerous electronic and acoustic elements. His setup reflects his technical approach—designed for maximum efficiency and sonic variety.
+
+**Current Setup:**
+- **Drums**: Pearl Masterworks Maple (custom configuration)
+- **Snares**: Pearl Reference 14"x5" and 14"x6.5" (multiple)
+- **Cymbals**: Sabian (HHX Evolution, AAX X-Plosion crashes, custom hi-hats)
+- **Hardware**: Pearl Eliminator Redline double pedal
+- **Sticks**: Vic Firth Mike Mangini Signature
+- **Throne**: Pearl Roadster
+- **Electronics**: Roland TD-50 module for triggers and samples
+
+**Setup Philosophy:**
+- Ergonomically optimized for biomechanical efficiency
+- Multiple snare drums for tonal variety
+- Extensive electronic integration for progressive soundscapes
+- Symmetrical layout where possible
+- Custom positioning based on scientific analysis of motion`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Holds multiple Guinness World Records for drumming speed, including 1,203 single strokes in 60 seconds',
+          'Was a professor at Berklee College of Music before joining Dream Theater',
+          'His "Rhythm Knowledge" educational system breaks down all rhythmic concepts mathematically',
+          'Competed against seven other drummers in Dream Theater\'s publicized audition process',
+          'Has a degree in Computer Science and applies programming logic to rhythm',
+          'Known for warming up with complex mathematical patterns before shows',
+          'His Dream Theater audition was documented in the "The Spirit Carries On" documentary',
+          'Despite his technical reputation, emphasizes musicality over showmanship',
+          'Uses different grip techniques depending on the musical passage requirements',
+          'Has stated that his goal is to make complex time signatures feel natural and groovy'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Pearl Drums Artist Profile', url: 'https://pearldrum.com' },
+          { name: 'Sabian Artist Profile', url: 'https://sabian.com' },
+          { name: 'Vic Firth Artist Profile', url: 'https://vicfirth.com/artists/mike-mangini' },
+          { name: 'Wikipedia: Mike Mangini', url: 'https://en.wikipedia.org/wiki/Mike_Mangini' }
+        ]
+      }
+    }
+  },
+
+  // Matt Garstka - Animals as Leaders (Batch 10)
+  'matt-garstka': {
+    slug: 'matt-garstka',
+    drummerId: 53,
+    name: 'Matt Garstka',
+    bands: [
+      { slug: 'animals-as-leaders', period: '2012-present', role: 'Drummer' }
+    ],
+    metaTitle: 'Matt Garstka Biography - Animals as Leaders Drummer & Modern Prog Pioneer | MetalForge',
+    metaDescription: 'Complete biography of Matt Garstka, Animals as Leaders\' virtuosic drummer. Explore his jazz-fusion approach, polyrhythmic mastery, and influence on modern progressive metal drumming.',
+    ogImage: '/images/drummers/matt-garstka.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Matt Garstka (born April 27, 1989, in Westfield, Massachusetts) is an American drummer known for his virtuosic work with instrumental progressive metal band Animals as Leaders since 2012. His playing seamlessly blends jazz fusion, electronic music, and progressive metal, featuring complex polyrhythms, intricate ghost note patterns, and innovative use of dynamics.
+
+Garstka joined Animals as Leaders after the departure of original drummer Navene Koperweis, bringing a jazz-educated sensibility to the band's technical instrumental music. His approach—combining traditional grip, linear independence, and a deep understanding of metric modulation—has made him one of the most influential drummers of his generation. Beyond Animals as Leaders, Garstka is an in-demand educator and session musician.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1989', event: 'Born April 27 in Westfield, Massachusetts' },
+          { year: '2007', event: 'Began studying at Berklee College of Music' },
+          { year: '2012', event: 'Joined Animals as Leaders, replacing Navene Koperweis' },
+          { year: '2014', event: 'Released "The Joy of Motion" with Animals as Leaders, first album with band' },
+          { year: '2016', event: 'Released "The Madness of Many" to critical acclaim' },
+          { year: '2017', event: 'Featured on Modern Drummer magazine cover' },
+          { year: '2018', event: 'Began extensive educational content creation and clinic touring' },
+          { year: '2019', event: 'Named one of the most influential drummers of the decade by multiple publications' },
+          { year: '2022', event: 'Released "Parrhesia" with Animals as Leaders' },
+          { year: '2023', event: 'Continues international touring and education' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Matt Garstka's drumming represents a new paradigm in progressive metal—combining jazz sophistication with heavy music intensity. His approach emphasizes feel and groove within complex frameworks, making intricate patterns accessible and musical.
+
+**Key Influences:**
+- **Vinnie Colaiuta**: Jazz fusion versatility
+- **Steve Gadd**: Precision and feel
+- **Tony Williams**: Jazz innovation
+- **Jojo Mayer**: Electronic-influenced acoustic drumming
+- **Aaron Spears**: Gospel chops and independence
+
+**Signature Techniques:**
+- **Linear independence**: Each limb operating independently in different patterns
+- **Ghost note vocabulary**: Extensive use of subtle notes for texture
+- **Metric modulation**: Seamlessly shifting between tempos and feels
+- **Traditional grip in metal**: Unusual choice that influences his touch
+- **Polyrhythmic stacking**: Layering multiple rhythmic cycles simultaneously
+- **Dynamic contrast**: Extreme range from whisper-quiet to powerful accents`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Animals as Leaders - The Joy of Motion', year: 2014, label: 'Sumerian', note: 'First album with band; breakthrough' },
+          { name: 'Animals as Leaders - The Madness of Many', year: 2016, label: 'Sumerian', note: 'Showcased evolved technical approach' },
+          { name: 'Animals as Leaders - Parrhesia', year: 2022, label: 'Sumerian', note: 'Most recent, continued evolution' }
+        ],
+        tours: [
+          { name: 'The Joy of Motion World Tour', year: '2014-2015', note: 'First touring cycle with AAL' },
+          { name: 'The Madness of Many Tour', year: '2016-2017', note: 'Extensive global touring' },
+          { name: 'Clinic Tours', year: 'Ongoing', note: 'Educational presentations worldwide' },
+          { name: 'Parrhesia World Tour', year: '2022-2023', note: 'Post-pandemic return' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Matt Garstka is endorsed by Meinl Cymbals and Pearl Drums. His setup reflects his fusion approach—versatile, dynamic, and designed for the full range of expression required by Animals as Leaders' music.
+
+**Current Setup:**
+- **Drums**: Pearl Masterworks Maple (custom sizes)
+- **Snare**: Pearl Matt Garstka Signature 14"x5"
+- **Cymbals**: Meinl Byzance series (including Dual Hi-Hats, Extra Dry crashes, Sand rides)
+- **Hardware**: Pearl Demon Drive double pedal
+- **Sticks**: Vic Firth Matt Garstka Signature
+- **Heads**: Remo (various)
+
+**Setup Philosophy:**
+- Smaller drums for responsiveness and articulation
+- Meinl Byzance cymbals for dark, complex overtones
+- Traditional grip influences positioning and angles
+- Minimal setup compared to many progressive drummers
+- Focus on quality of sound over quantity of drums`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Studied at Berklee College of Music, developing his jazz vocabulary',
+          'Primarily uses traditional grip, unusual in metal and progressive music',
+          'His educational content has millions of views across platforms',
+          'Known for his approachable teaching style despite complex material',
+          'Creates detailed transcriptions of his own parts for educational purposes',
+          'Collaborated with Meinl on signature cymbal developments',
+          'His ghost note patterns are studied by drummers worldwide',
+          'Emphasizes the importance of dynamics in heavy music',
+          'Despite technical abilities, prioritizes serving the music over showmanship',
+          'Has stated jazz drummers like Tony Williams influenced him more than metal drummers'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Pearl Drums Artist Profile', url: 'https://pearldrum.com' },
+          { name: 'Meinl Cymbals Artist Profile', url: 'https://meinlcymbals.com/en/artists/matt-garstka' },
+          { name: 'Vic Firth Artist Profile', url: 'https://vicfirth.com/artists/matt-garstka' },
+          { name: 'Wikipedia: Matt Garstka', url: 'https://en.wikipedia.org/wiki/Matt_Garstka' }
+        ]
+      }
+    }
+  },
+
+  // Daniel Erlandsson - Arch Enemy (Batch 10)
+  'daniel-erlandsson': {
+    slug: 'daniel-erlandsson',
+    drummerId: 54,
+    name: 'Daniel Erlandsson',
+    bands: [
+      { slug: 'arch-enemy', period: '1996-present', role: 'Drummer' },
+      { slug: 'eucharist', period: '1989-1997', role: 'Drummer' },
+      { slug: 'in-flames', period: '1997', role: 'Live drummer' },
+      { slug: 'carcass', period: '2007-2008', role: 'Live drummer' }
+    ],
+    metaTitle: 'Daniel Erlandsson Biography - Arch Enemy Drummer & Melodic Death Metal Pioneer | MetalForge',
+    metaDescription: 'Complete biography of Daniel Erlandsson, Arch Enemy drummer and founding member. Explore his Scandinavian metal legacy, technical precision, and 30+ year career.',
+    ogImage: '/images/drummers/daniel-erlandsson.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Daniel Erlandsson (born May 22, 1976, in Malmö, Sweden) is a Swedish drummer and founding member of melodic death metal band Arch Enemy, formed in 1995 by his brother Michael Erlandsson (later replaced by Christopher Amott) and guitarist Michael Amott. His drumming combines Scandinavian death metal intensity with technical precision and musicality, helping define the melodic death metal genre.
+
+Before Arch Enemy, Erlandsson played with Eucharist, one of the pioneers of the Gothenburg melodic death metal sound. His career spans over three decades, during which he has performed on every Arch Enemy album and established himself as one of the most consistent drummers in extreme metal. His ability to blend blast beats with groove and dynamics has made Arch Enemy accessible while maintaining their metal credibility.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1989', event: 'Joined Eucharist, pioneering Gothenburg melodic death metal' },
+          { year: '1995', event: 'Helped found Arch Enemy with brother Michael and guitarist Michael Amott' },
+          { year: '1996', event: 'Released Arch Enemy debut "Black Earth"' },
+          { year: '1998', event: 'Released "Stigmata," establishing Arch Enemy\'s signature sound' },
+          { year: '2001', event: 'Angela Gossow joined as vocalist; band gained international attention' },
+          { year: '2003', event: 'Released "Anthems of Rebellion," commercial breakthrough' },
+          { year: '2005', event: 'Released "Doomsday Machine," continued success' },
+          { year: '2007', event: 'Toured with Carcass as live drummer' },
+          { year: '2014', event: 'Alissa White-Gluz joined as vocalist; new era began' },
+          { year: '2017', event: 'Released "Will to Power," commercial peak' },
+          { year: '2022', event: 'Released "Deceivers," continuing Arch Enemy\'s evolution' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Daniel Erlandsson's drumming embodies the Swedish melodic death metal approach—combining extreme metal intensity with musical sensibility and technical precision. His style has evolved from raw aggression to refined power over three decades.
+
+**Key Influences:**
+- **Dave Lombardo (Slayer)**: Thrash metal foundation
+- **Pete Sandoval (Morbid Angel)**: Death metal blast beat technique
+- **Nicko McBrain (Iron Maiden)**: Galloping patterns and groove
+- **Bill Ward (Black Sabbath)**: Heavy metal roots
+- **Scandinavian scene**: Gothenburg melodic death metal peers
+
+**Signature Techniques:**
+- **Melodic blast beats**: Blast beats that complement melodic riffs rather than overwhelm
+- **Dynamic transitions**: Seamless moves between intense and atmospheric sections
+- **Groove integration**: Headbang-worthy patterns within death metal framework
+- **Double bass precision**: Clean, articulate kick drum work
+- **Compositional drumming**: Parts that enhance the song structure`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Eucharist - A Velvet Creation', year: 1993, label: 'Wrong Again', note: 'Early melodic death metal' },
+          { name: 'Arch Enemy - Black Earth', year: 1996, label: 'Wrong Again', note: 'Debut album' },
+          { name: 'Arch Enemy - Stigmata', year: 1998, label: 'Century Media', note: 'Sound established' },
+          { name: 'Arch Enemy - Wages of Sin', year: 2001, label: 'Century Media', note: 'First with Angela Gossow' },
+          { name: 'Arch Enemy - Anthems of Rebellion', year: 2003, label: 'Century Media', note: 'Commercial breakthrough' },
+          { name: 'Arch Enemy - Doomsday Machine', year: 2005, label: 'Century Media', note: 'Continued success' },
+          { name: 'Arch Enemy - Rise of the Tyrant', year: 2007, label: 'Century Media', note: 'Critical acclaim' },
+          { name: 'Arch Enemy - War Eternal', year: 2014, label: 'Century Media', note: 'First with Alissa White-Gluz' },
+          { name: 'Arch Enemy - Will to Power', year: 2017, label: 'Century Media', note: 'Commercial peak' },
+          { name: 'Arch Enemy - Deceivers', year: 2022, label: 'Century Media', note: 'Most recent' }
+        ],
+        tours: [
+          { name: 'Ozzfest', year: '2005', note: 'Major US festival exposure' },
+          { name: 'War Eternal World Tour', year: '2014-2015', note: 'New vocalist introduction' },
+          { name: 'Will to Power World Tour', year: '2017-2018', note: 'Extensive global touring' },
+          { name: 'Deceivers World Tour', year: '2022-2023', note: 'Post-pandemic return' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Daniel Erlandsson is a Pearl Drums artist, using their high-end series for both studio and live work. His setup is designed for the combination of power and precision required by Arch Enemy's music.
+
+**Current Setup:**
+- **Drums**: Pearl Reference Pure (custom black finish)
+- **Snare**: Pearl Daniel Erlandsson Signature 14"x5.5"
+- **Cymbals**: Sabian AAX and HHX series (14" Hi-Hats, various crashes, 22" Ride)
+- **Hardware**: Pearl Eliminator double pedal
+- **Sticks**: Promark 5B or custom model
+- **Heads**: Remo (various)
+
+**Setup Philosophy:**
+- Balanced between power and control
+- Consistent setup across all performances
+- Reliability for extensive touring
+- Signature snare drum developed with Pearl
+- Classic rock-solid metal configuration`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Co-founded Arch Enemy with his brother Michael (original rhythm guitarist)',
+          'Has performed on every Arch Enemy studio album since 1996',
+          'Was part of Eucharist, one of the earliest Gothenburg melodic death metal bands',
+          'Toured with Carcass as live drummer during their reunion period',
+          'Known for his professional, workmanlike approach to touring',
+          'Has navigated Arch Enemy through multiple vocalist changes successfully',
+          'The band\'s consistency is largely attributed to his and Michael Amott\'s partnership',
+          'Developed a signature snare drum with Pearl',
+          'Despite decades of extreme metal, has maintained his hearing through careful protection'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Pearl Drums Artist Profile', url: 'https://pearldrum.com' },
+          { name: 'Arch Enemy Official', url: 'https://www.arch-enemy.net' },
+          { name: 'Century Media Records', url: 'https://www.centurymedia.com' },
+          { name: 'Wikipedia: Daniel Erlandsson', url: 'https://en.wikipedia.org/wiki/Daniel_Erlandsson' }
+        ]
+      }
+    }
+  },
+
+  // Jaska Raatikainen - Children of Bodom (Batch 10)
+  'jaska-raatikainen': {
+    slug: 'jaska-raatikainen',
+    drummerId: 55,
+    name: 'Jaska Raatikainen',
+    bands: [
+      { slug: 'children-of-bodom', period: '1993-2019', role: 'Drummer, co-founder' },
+      { slug: 'warmen', period: '1999-present', role: 'Session drummer' },
+      { slug: 'bodom-after-midnight', period: '2020-2021', role: 'N/A (Alexi\'s project)' }
+    ],
+    metaTitle: 'Jaska Raatikainen Biography - Children of Bodom Drummer & Finnish Metal Legend | MetalForge',
+    metaDescription: 'Complete biography of Jaska Raatikainen, Children of Bodom co-founder and drummer. Explore his 26-year career, neoclassical metal style, and legacy in Finnish metal.',
+    ogImage: '/images/drummers/jaska-raatikainen.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Jaska Raatikainen (born July 18, 1979, in Espoo, Finland) was the drummer and co-founder of Finnish melodic death metal band Children of Bodom, formed in 1993 (originally as Inearthed). Alongside the late Alexi Laiho (1979-2020), Raatikainen helped create the band's signature sound that blended neoclassical melodies with aggressive death metal.
+
+Children of Bodom became one of Finland's most successful metal exports, selling over 2 million albums worldwide. Raatikainen's drumming combined blast beats, complex double bass patterns, and progressive elements that complemented Laiho's virtuosic guitar work. The band announced their dissolution in 2019 after 26 years together. Following Alexi Laiho's tragic death in December 2020, Children of Bodom's legacy became permanently sealed in metal history.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1993', event: 'Co-founded Inearthed (later Children of Bodom) with Alexi Laiho in Espoo, Finland' },
+          { year: '1997', event: 'Band renamed to Children of Bodom; released debut "Something Wild"' },
+          { year: '1999', event: 'Released "Hatebreeder," establishing international recognition' },
+          { year: '2000', event: 'Released "Follow the Reaper," breakthrough album' },
+          { year: '2003', event: 'Released "Hate Crew Deathroll," commercial peak' },
+          { year: '2005', event: 'Released "Are You Dead Yet?," mainstream success' },
+          { year: '2008', event: 'Released "Blooddrunk," continued evolution' },
+          { year: '2013', event: 'Released "Halo of Blood," return to melodic roots' },
+          { year: '2015', event: 'Released "I Worship Chaos," continued evolution' },
+          { year: '2019', event: 'Released "Hexed," final Children of Bodom album; band dissolution announced' },
+          { year: '2020', event: 'December 29: Alexi Laiho passes away; Children of Bodom legacy sealed' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Jaska Raatikainen's drumming style perfectly complemented Children of Bodom's unique blend of neoclassical melodic death metal. His playing featured intricate double bass patterns, precise blast beats, and a musical sensibility that supported Alexi Laiho's guitar virtuosity.
+
+**Key Influences:**
+- **Dave Lombardo (Slayer)**: Thrash metal foundation
+- **Pete Sandoval (Morbid Angel)**: Death metal intensity
+- **Vinnie Paul (Pantera)**: Groove and power
+- **Nicko McBrain (Iron Maiden)**: Galloping patterns
+- **Finnish metal scene**: Power metal influences
+
+**Signature Techniques:**
+- **Melodic death metal precision**: Clean execution at high speeds
+- **Neoclassical-complementary patterns**: Drums that enhance keyboard and guitar melodies
+- **Double bass musicality**: Kick patterns that follow melodic contours
+- **Dynamic control**: Ability to shift between intense and atmospheric moments
+- **Consistent live performance**: Reliability across extensive touring`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Something Wild', year: 1997, label: 'Spinefarm', note: 'Debut album' },
+          { name: 'Hatebreeder', year: 1999, label: 'Spinefarm', note: 'International breakthrough' },
+          { name: 'Follow the Reaper', year: 2000, label: 'Spinefarm', note: 'Defining album' },
+          { name: 'Hate Crew Deathroll', year: 2003, label: 'Spinefarm', note: 'Commercial peak' },
+          { name: 'Are You Dead Yet?', year: 2005, label: 'Spinefarm', note: 'Mainstream success' },
+          { name: 'Blooddrunk', year: 2008, label: 'Spinefarm', note: 'Continued evolution' },
+          { name: 'Relentless Reckless Forever', year: 2011, label: 'Spinefarm', note: 'Heavy direction' },
+          { name: 'Halo of Blood', year: 2013, label: 'Nuclear Blast', note: 'Return to melodic roots' },
+          { name: 'I Worship Chaos', year: 2015, label: 'Nuclear Blast', note: 'Modern era' },
+          { name: 'Hexed', year: 2019, label: 'Nuclear Blast', note: 'Final album' }
+        ],
+        tours: [
+          { name: 'Ozzfest', year: '2006', note: 'Major US exposure' },
+          { name: 'Mayhem Festival', year: '2009', note: 'US summer touring' },
+          { name: 'A Chapter Called Children of Bodom Tour', year: '2019', note: 'Final tour; Finland only' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Jaska Raatikainen was a Pearl Drums endorser for much of Children of Bodom's career. His setup was built for the demanding requirements of the band's complex, high-energy material.
+
+**Setup (Final Children of Bodom Era):**
+- **Drums**: Pearl Masters Premium Maple (custom finish)
+- **Snare**: Pearl Masters 14"x6.5"
+- **Cymbals**: Meinl Mb20 series (14" Hi-Hats, crashes, 22" Heavy Bell Ride)
+- **Hardware**: Pearl Eliminator double pedal
+- **Sticks**: Vic Firth 5B
+- **Heads**: Remo Emperor/Ambassador
+
+**Setup Philosophy:**
+- Built for endurance during long, technically demanding sets
+- Maple shells for warmth and projection
+- Consistent configuration for muscle memory
+- Reliable hardware for extensive touring`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Co-founded Children of Bodom at age 14 with Alexi Laiho',
+          'The band was originally called "Inearthed" before adopting the Children of Bodom name',
+          'Children of Bodom is named after the unsolved Lake Bodom murders in Finland',
+          'Performed on every Children of Bodom album from 1997 to 2019',
+          'The band sold over 2 million albums worldwide',
+          'Was known for his professional, no-drama approach in a genre known for excess',
+          'Children of Bodom\'s final show was on December 15, 2019, in Helsinki',
+          'Following Alexi Laiho\'s death in 2020, the remaining members have honored his legacy',
+          'Contributed to Warmen, the keyboard-focused project of CoB keyboardist Janne Wirman',
+          'The band influenced countless melodic death metal and power metal acts'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Nuclear Blast Records', url: 'https://www.nuclearblast.com' },
+          { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+          { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+          { name: 'Wikipedia: Jaska Raatikainen', url: 'https://en.wikipedia.org/wiki/Jaska_Raatikainen' }
+        ]
+      }
+    }
   }
 };
 

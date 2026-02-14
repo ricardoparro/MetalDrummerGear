@@ -7734,9 +7734,10 @@ function GearComparisonsIndexPage({ theme, onBack, onSelectComparison }) {
     cymbals: '🔔 Cymbal Comparisons',
     hardware: '⚙️ Hardware Comparisons',
     snares: '🔵 Snare Drum Comparisons',
+    accessories: '🪘 Accessories Comparisons',
   };
 
-  const categoryOrder = ['drums', 'cymbals', 'hardware', 'snares'];
+  const categoryOrder = ['drums', 'cymbals', 'hardware', 'snares', 'accessories'];
 
   // Update SEO
   useEffect(() => {
@@ -9355,6 +9356,20 @@ function updateGearComparisonMeta(comparison) {
     setMeta('twitter:card', 'summary_large_image');
     setMeta('twitter:title', comparison.metaTitle);
     setMeta('twitter:description', comparison.metaDescription);
+    
+    // Add structured data - Issue #345
+    const existingLd = document.querySelector('script[data-gear-comparison]');
+    if (existingLd) existingLd.remove();
+    const ldScript = document.createElement('script');
+    ldScript.type = 'application/ld+json';
+    ldScript.setAttribute('data-gear-comparison', 'true');
+    ldScript.textContent = JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "ItemPage",
+      "name": comparison.title,
+      "about": comparison.items.map(i => ({"@type": "Brand", "name": i.brand}))
+    });
+    document.head.appendChild(ldScript);
   } else {
     const title = 'Gear Comparisons - Tama vs Pearl, Meinl vs Zildjian & More | MetalForge';
     const description = 'Compare top drum brands and gear for metal drumming. Tama vs Pearl, Meinl vs Zildjian, and more. Expert analysis, specs, and pro drummer endorsements.';
@@ -12747,6 +12762,27 @@ setShowList(false);
           onBack={handleBackFromGenresList}
           onSelectGenre={handleNavigateToGenre}
           theme={theme}
+        />
+      );
+    }
+    // Gear Comparison Pages (Issue #345)
+    if (showGearComparison && gearComparisonSlug) {
+      return (
+        <GearComparisonPage
+          comparisonSlug={gearComparisonSlug}
+          theme={theme}
+          onBack={handleBackFromGearComparison}
+          onSelectDrummer={handleSelectDrummer}
+          drummers={drummers}
+        />
+      );
+    }
+    if (showGearComparisonsIndex) {
+      return (
+        <GearComparisonsIndexPage
+          theme={theme}
+          onBack={handleBackFromGearComparison}
+          onSelectComparison={handleNavigateToGearComparison}
         />
       );
     }

@@ -1516,6 +1516,564 @@ Dette served as Slayer's touring drummer during 1996-1997, filling in when Paul 
         ]
       }
     }
+  },
+
+  // Hannes Grossmann - Obscura, Necrophagist, Alkaloid (Issue #336 - Batch 11)
+  'hannes-grossmann': {
+    slug: 'hannes-grossmann',
+    drummerId: 56,
+    name: 'Hannes Grossmann',
+    bands: [
+      { slug: 'obscura', period: '2007-2014, 2020-present', role: 'Drummer' },
+      { slug: 'necrophagist', period: '2004-2010', role: 'Drummer' },
+      { slug: 'alkaloid', period: '2014-present', role: 'Drummer' },
+      { slug: 'blotted-science', period: '2007-2011', role: 'Drummer' }
+    ],
+    metaTitle: 'Hannes Grossmann Biography - Obscura & Necrophagist Drummer | MetalForge',
+    metaDescription: 'Complete biography of Hannes Grossmann, technical death metal virtuoso known for Obscura, Necrophagist, and Alkaloid. Explore his precision drumming, classical influences, and producer work.',
+    ogImage: '/images/drummers/hannes-grossmann.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Hannes Grossmann (born September 8, 1982, in Freising, Germany) is a German drummer, composer, and producer widely regarded as one of the most technically proficient drummers in extreme metal. His playing combines classical music influences with precision extreme metal technique, creating a unique style that bridges technical death metal with progressive and jazz elements.
+
+Grossmann first gained international recognition as the drummer for Necrophagist (2004-2010), one of the most influential technical death metal bands. He subsequently co-founded Obscura, where he helped define the progressive technical death metal sound. Beyond performing, he is an accomplished composer and producer who has worked on numerous metal productions from his studio in Germany.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1999', event: 'Began serious drum studies, combining metal with classical percussion training' },
+          { year: '2004', event: 'Joined Necrophagist, replacing Steve Rowe' },
+          { year: '2004', event: 'Recorded drum tracks for Necrophagist\'s "Epitaph," a technical death metal landmark' },
+          { year: '2007', event: 'Co-founded Obscura with Steffen Kummerer' },
+          { year: '2007', event: 'Joined Ron Jarzombek\'s Blotted Science project' },
+          { year: '2009', event: 'Released "Cosmogenesis" with Obscura, critical acclaim worldwide' },
+          { year: '2011', event: 'Released "Omnivium" with Obscura, solidifying the band\'s reputation' },
+          { year: '2014', event: 'Co-founded progressive death metal supergroup Alkaloid' },
+          { year: '2014', event: 'Left Obscura to focus on Alkaloid and production work' },
+          { year: '2020', event: 'Rejoined Obscura as drummer' },
+          { year: '2021', event: 'Released "A Dying Wish" with Obscura' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Hannes Grossmann's drumming style is characterized by extraordinary precision, jazz-influenced sophistication, and classical music sensibilities. His approach to extreme metal drumming emphasizes musicality over pure speed, though he is capable of blistering tempos when required.
+
+**Key Influences:**
+- **Steve Gadd**: Jazz precision and groove
+- **Virgil Donati**: Technical fusion drumming
+- **Gene Hoglan (Death)**: Technical death metal foundation
+- **Classical Percussion**: Orchestral training and compositional thinking
+
+**Signature Techniques:**
+- Jazz-influenced ghost notes and dynamic control within death metal
+- Complex polyrhythmic patterns with classical music precision
+- Clean, articulate blast beats at extreme tempos
+- Tasteful use of odd time signatures that feel natural
+- Integration of electronic elements in live and studio settings`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Necrophagist - Epitaph', year: 2004, label: 'Relapse', note: 'Technical death metal essential' },
+          { name: 'Blotted Science - The Machinations of Dementia', year: 2007, label: 'Eclectic Electric', note: 'Instrumental tech metal' },
+          { name: 'Obscura - Cosmogenesis', year: 2009, label: 'Relapse', note: 'Progressive tech death breakthrough' },
+          { name: 'Obscura - Omnivium', year: 2011, label: 'Relapse', note: 'Critical acclaim' },
+          { name: 'Alkaloid - The Malkuth Grimoire', year: 2015, label: 'Independent', note: 'Supergroup debut' },
+          { name: 'Alkaloid - Liquid Anatomy', year: 2018, label: 'Season of Mist', note: 'Progressive death metal evolution' },
+          { name: 'Obscura - A Dying Wish', year: 2021, label: 'Nuclear Blast', note: 'Return to Obscura' },
+          { name: 'Alkaloid - Numen', year: 2023, label: 'Season of Mist', note: 'Most ambitious work' }
+        ],
+        tours: [
+          { name: 'Summer Slaughter', year: 'Multiple years', note: 'Premier US extreme metal festival' },
+          { name: 'European Tech Death Tours', year: '2007-present', note: 'Regular European touring' },
+          { name: 'Obscura World Tours', year: '2020-present', note: 'Current touring cycle' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Hannes Grossmann is a Tama Drums endorser, using their Starclassic series. His setup emphasizes clarity and projection for dense technical death metal arrangements.
+
+**Current Setup:**
+- **Drums**: Tama Starclassic Maple
+- **Snare**: Tama S.L.P. 14"x6" G-Maple
+- **Cymbals**: Meinl Byzance series (14" Dual Hi-Hats, various crashes, 22" Foundry Reserve Ride)
+- **Hardware**: Tama Iron Cobra 900 Power Glide Double Pedal
+- **Sticks**: Vic Firth 5A
+- **Heads**: Remo
+
+**Studio Work:**
+- Operates his own recording studio in Germany
+- Has produced and mixed numerous metal albums
+- Known for achieving natural, organic drum sounds in extreme metal productions`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Holds a degree in classical percussion and music theory',
+          'One of the few drummers to have played on both Necrophagist albums',
+          'His production credits include work for bands across multiple subgenres',
+          'Alkaloid was formed as a creative outlet separate from Obscura\'s style',
+          'Known for his warm, educational approach at drum clinics',
+          'Has released instructional content on technical death metal drumming',
+          'Composes music that incorporates classical and jazz elements',
+          'Necrophagist\'s "Epitaph" remains one of the most influential tech death albums',
+          'Returned to Obscura in 2020 after a 6-year hiatus from the band'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Tama Drums', url: 'https://www.tama.com' },
+          { name: 'Meinl Cymbals', url: 'https://meinl.com' },
+          { name: 'Obscura Official', url: 'https://www.facebook.com/obscaboreal/' },
+          { name: 'Wikipedia: Hannes Grossmann', url: 'https://en.wikipedia.org/wiki/Hannes_Grossmann' }
+        ]
+      }
+    }
+  },
+
+  // Daray - Dimmu Borgir, Vader (Issue #336 - Batch 11)
+  'daray': {
+    slug: 'daray',
+    drummerId: 57,
+    name: 'Daray',
+    bands: [
+      { slug: 'dimmu-borgir', period: '2008-present', role: 'Drummer' },
+      { slug: 'vader', period: '2006-2016', role: 'Drummer' },
+      { slug: 'vesania', period: '2003-present', role: 'Drummer' }
+    ],
+    metaTitle: 'Daray Biography - Dimmu Borgir & Vader Drummer | MetalForge',
+    metaDescription: 'Complete biography of Daray (Dariusz Brzozowski), drummer for Dimmu Borgir and former Vader member. Explore his extreme speed, theatrical flair, and symphonic black metal drumming.',
+    ogImage: '/images/drummers/daray.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Dariusz "Daray" Brzozowski (born August 23, 1984, in Warsaw, Poland) is a Polish drummer renowned for his work with Norwegian symphonic black metal band Dimmu Borgir since 2008 and his 10-year tenure with Polish death metal legends Vader (2006-2016).
+
+Daray's drumming combines extreme speed and technical precision with theatrical flair, making him ideally suited for Dimmu Borgir's grandiose symphonic productions. His ability to perform complex, blistering patterns while maintaining the dynamics required for orchestral metal has established him as one of the premier drummers in extreme metal.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '2003', event: 'Joined Polish black metal band Vesania' },
+          { year: '2006', event: 'Joined Vader, Poland\'s most internationally recognized death metal band' },
+          { year: '2008', event: 'Joined Dimmu Borgir, replacing Hellhammer' },
+          { year: '2010', event: 'Recorded "Abrahadabra" with Dimmu Borgir and full orchestra' },
+          { year: '2011', event: 'Released "Welcome to the Morbid Reich" with Vader' },
+          { year: '2014', event: 'Recorded "Forces of the Northern Night" live album with Dimmu Borgir' },
+          { year: '2016', event: 'Left Vader to focus exclusively on Dimmu Borgir' },
+          { year: '2018', event: 'Released "Eonian" with Dimmu Borgir' },
+          { year: '2023', event: 'Performed at major European festivals with Dimmu Borgir' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Daray's drumming style combines the extreme speed and brutality of death metal with the dynamic range required for symphonic black metal. His ability to balance blistering blast beats with theatrical, orchestral sections makes him uniquely suited for Dimmu Borgir's cinematic sound.
+
+**Key Influences:**
+- **Doc (Vader)**: Polish death metal precision
+- **Hellhammer (Mayhem)**: Black metal foundation
+- **Inferno (Behemoth)**: Polish extreme metal intensity
+- **George Kollias (Nile)**: Technical death metal speed
+
+**Signature Techniques:**
+- Sustained blast beats at extreme tempos with clarity
+- Dynamic control for symphonic/orchestral passages
+- Powerful double bass patterns that complement orchestral arrangements
+- Theatrical stage presence befitting black metal aesthetics
+- Seamless transitions between extreme and ambient sections`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Vesania - Distractive Killusions', year: 2007, label: 'Napalm', note: 'Polish black metal' },
+          { name: 'Vader - XXV', year: 2008, label: 'Nuclear Blast', note: 'Anniversary album' },
+          { name: 'Dimmu Borgir - Abrahadabra', year: 2010, label: 'Nuclear Blast', note: 'Full orchestra production' },
+          { name: 'Vader - Welcome to the Morbid Reich', year: 2011, label: 'Nuclear Blast', note: 'Thrash-influenced death metal' },
+          { name: 'Vader - Tibi et Igni', year: 2014, label: 'Nuclear Blast', note: 'Final album with Daray' },
+          { name: 'Dimmu Borgir - Forces of the Northern Night', year: 2017, label: 'Nuclear Blast', note: 'Live with orchestra' },
+          { name: 'Dimmu Borgir - Eonian', year: 2018, label: 'Nuclear Blast', note: 'Most recent studio album' }
+        ],
+        tours: [
+          { name: 'Wacken Open Air', year: 'Multiple years', note: 'Major European festival appearances' },
+          { name: 'Dimmu Borgir Forces Tour', year: '2018-2019', note: 'Eonian world tour' },
+          { name: 'European Summer Festivals', year: '2022-2023', note: 'Festival circuit with Dimmu Borgir' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Daray is a Pearl Drums endorser, using their Reference Pure series for both studio recording and live performances with Dimmu Borgir.
+
+**Current Setup:**
+- **Drums**: Pearl Reference Pure in custom black finish
+- **Snare**: Pearl Reference 14"x5" Brass
+- **Cymbals**: Paiste (15" Sound Edge Hi-Hats, 2002 and RUDE crashes, 22" RUDE Power Ride)
+- **Hardware**: Pearl Demon Drive double pedal
+- **Sticks**: Promark 5B
+- **Heads**: Remo Emperor/Ambassador
+
+**Live Setup Notes:**
+- Uses in-ear monitoring for orchestra synchronization
+- Custom drum riser for theatrical staging
+- Trigger-assisted drums for consistency at extreme speeds`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Real name is Dariusz Brzozowski; "Daray" is his stage name',
+          'Was simultaneously a member of both Vader and Dimmu Borgir from 2008-2016',
+          'Replaced legendary drummer Hellhammer in Dimmu Borgir',
+          'Performed with full symphony orchestra on Dimmu Borgir productions',
+          'Is one of the most prominent Polish drummers in international metal',
+          'His work with Vader showcased pure death metal speed and precision',
+          'Dimmu Borgir\'s elaborate live shows require meticulous timing for pyrotechnics',
+          'Has appeared in multiple Dimmu Borgir music videos with full corpse paint'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+          { name: 'Dimmu Borgir Official', url: 'https://www.dimmu-borgir.com' },
+          { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
+          { name: 'Wikipedia: Daray', url: 'https://en.wikipedia.org/wiki/Daray_(musician)' }
+        ]
+      }
+    }
+  },
+
+  // Jocke Wallgren - Amon Amarth (Issue #336 - Batch 11)
+  'jocke-wallgren': {
+    slug: 'jocke-wallgren',
+    drummerId: 58,
+    name: 'Jocke Wallgren',
+    bands: [
+      { slug: 'amon-amarth', period: '2016-present', role: 'Drummer' },
+      { slug: 'valkyria', period: '2009-2016', role: 'Drummer' }
+    ],
+    metaTitle: 'Jocke Wallgren Biography - Amon Amarth Drummer | MetalForge',
+    metaDescription: 'Complete biography of Jocke Wallgren, Amon Amarth\'s drummer since 2016. Explore his Viking metal drumming style, transition to Amon Amarth, and powerful live performances.',
+    ogImage: '/images/drummers/jocke-wallgren.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Jocke Wallgren (born April 1, 1986, in Karlstad, Sweden) is a Swedish drummer who joined melodic death metal band Amon Amarth in 2016, replacing longtime drummer Fredrik Andersson. His powerful, groove-oriented drumming style has brought fresh energy to the band's Viking-themed sound while honoring their established musical identity.
+
+Before Amon Amarth, Wallgren was known for his work with Swedish bands including Valkyria. His transition to one of Sweden's most internationally successful metal bands marked a significant career milestone, and he has since become an integral part of Amon Amarth's live and studio work.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '2000s', event: 'Began drumming career in Swedish underground metal scene' },
+          { year: '2009', event: 'Joined Swedish Viking/folk metal band Valkyria' },
+          { year: '2016', event: 'Joined Amon Amarth, replacing Fredrik Andersson' },
+          { year: '2016', event: 'Released "Jomsviking" with Amon Amarth, his first album with the band' },
+          { year: '2017', event: 'Extensive world touring with Amon Amarth' },
+          { year: '2019', event: 'Released "Berserker" with Amon Amarth' },
+          { year: '2022', event: 'Released "The Great Heathen Army" with Amon Amarth' },
+          { year: '2023', event: 'Continued international touring with Amon Amarth' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Jocke Wallgren's drumming style emphasizes power, groove, and consistency. His approach to Amon Amarth's material combines double bass intensity with melodic death metal groove, perfectly complementing the band's anthemic songwriting.
+
+**Key Influences:**
+- **Fredrik Andersson (former Amon Amarth)**: Foundation for the band's drum sound
+- **Dave Lombardo (Slayer)**: Thrash metal power and groove
+- **Scandinavian Melodic Death Metal**: The Gothenburg school approach
+
+**Signature Techniques:**
+- Powerful, driving double bass patterns
+- Groove-focused approach within melodic death metal
+- Consistent, reliable live performances
+- Dynamic accents that complement Viking themes
+- Anthemic drum patterns that support crowd participation`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Amon Amarth - Jomsviking', year: 2016, label: 'Metal Blade', note: 'First album with Amon Amarth' },
+          { name: 'Amon Amarth - Berserker', year: 2019, label: 'Metal Blade', note: 'Second album with band' },
+          { name: 'Amon Amarth - The Great Heathen Army', year: 2022, label: 'Metal Blade', note: 'Most recent studio album' }
+        ],
+        tours: [
+          { name: 'Jomsviking World Tour', year: '2016-2017', note: 'First major touring cycle with Amon Amarth' },
+          { name: 'Berserker World Tour', year: '2019-2020', note: 'Extensive international touring' },
+          { name: 'The Great Heathen Army Tour', year: '2022-2023', note: 'Current touring cycle' },
+          { name: 'Major Festivals', year: '2016-present', note: 'Wacken, Download, Hellfest appearances' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Jocke Wallgren uses a setup designed for the powerful, driving sound Amon Amarth requires in large venue and festival settings.
+
+**Current Setup:**
+- **Drums**: Pearl Masters series (or similar high-end kit)
+- **Snare**: 14"x6.5" Maple or Metal snare for cut and power
+- **Cymbals**: Sabian (various series including AAX and HHX)
+- **Hardware**: DW or Pearl double pedal
+- **Sticks**: Standard 5B or 2B for power
+- **Heads**: Remo or Evans
+
+**Live Requirements:**
+- Durable setup for extensive touring schedule
+- Consistent sound across different venue sizes
+- Setup designed for visual impact on large festival stages`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Was relatively unknown internationally before joining Amon Amarth',
+          'Had to learn Amon Amarth\'s extensive back catalog quickly after joining',
+          'Amon Amarth\'s live shows feature elaborate Viking-themed stage production',
+          'The band\'s songs often require sustained double bass endurance',
+          'Has brought fresh energy to the band\'s live performances',
+          'Performed at some of the world\'s largest metal festivals with Amon Amarth',
+          'The Great Heathen Army tour featured some of the band\'s most elaborate staging',
+          'His steady, powerful style perfectly suits Amon Amarth\'s anthemic songwriting'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Amon Amarth Official', url: 'https://www.amonamarth.com' },
+          { name: 'Metal Blade Records', url: 'https://www.metalblade.com' },
+          { name: 'Blabbermouth', url: 'https://www.blabbermouth.net' },
+          { name: 'Wikipedia: Jocke Wallgren', url: 'https://en.wikipedia.org/wiki/Jocke_Wallgren' }
+        ]
+      }
+    }
+  },
+
+  // Tim Yeung - Morbid Angel, Vital Remains, Hate Eternal (Issue #336 - Batch 11)
+  'tim-yeung': {
+    slug: 'tim-yeung',
+    drummerId: 59,
+    name: 'Tim Yeung',
+    bands: [
+      { slug: 'morbid-angel', period: '2004-2015', role: 'Drummer' },
+      { slug: 'vital-remains', period: '2003-2007', role: 'Drummer' },
+      { slug: 'hate-eternal', period: '2001-2004', role: 'Drummer' },
+      { slug: 'divine-heresy', period: '2006-2011', role: 'Drummer' },
+      { slug: 'nile', period: '2012', role: 'Fill-in drummer' }
+    ],
+    metaTitle: 'Tim Yeung Biography - Morbid Angel & Vital Remains Drummer | MetalForge',
+    metaDescription: 'Complete biography of Tim Yeung, extreme metal drummer for Morbid Angel, Vital Remains, and Hate Eternal. Explore his incredible speed, precision, and death metal drumming career.',
+    ogImage: '/images/drummers/tim-yeung.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Tim Yeung (born November 27, 1978, in Pennsylvania, USA) is an American extreme metal drummer whose incredible speed, precision, and endurance have made him one of the most sought-after drummers in death metal. His resume reads like a who's who of extreme metal, having performed with Morbid Angel, Vital Remains, Hate Eternal, Divine Heresy, and Nile.
+
+Yeung's drumming combines machine-like consistency with the brutal intensity demanded by the most extreme forms of death metal. His ability to maintain clarity and power at sustained high tempos has earned him a reputation as one of the elite drummers in the genre.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1990s', event: 'Began drumming career in the underground death metal scene' },
+          { year: '2001', event: 'Joined Erik Rutan\'s Hate Eternal' },
+          { year: '2002', event: 'Recorded "King of All Kings" with Hate Eternal' },
+          { year: '2003', event: 'Joined Vital Remains, recorded "Dechristianize"' },
+          { year: '2004', event: 'Joined Morbid Angel following Pete Sandoval\'s health issues' },
+          { year: '2006', event: 'Co-founded Divine Heresy with Dino Cazares' },
+          { year: '2011', event: 'Recorded "Illud Divinum Insanus" with Morbid Angel' },
+          { year: '2012', event: 'Filled in for George Kollias on Nile European dates' },
+          { year: '2015', event: 'Left Morbid Angel' },
+          { year: '2023', event: 'Continues session and touring work in extreme metal' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Tim Yeung's drumming style is defined by extreme speed, unwavering consistency, and brutal power. His approach prioritizes technical precision while maintaining the relentless intensity that death metal demands.
+
+**Key Influences:**
+- **Pete Sandoval (Morbid Angel)**: Gravity blast pioneer, the template for Morbid Angel drumming
+- **Dave Lombardo (Slayer)**: Thrash metal foundation
+- **Gene Hoglan (Death)**: Technical precision in death metal
+- **Derek Roddy**: Extreme speed technique
+
+**Signature Techniques:**
+- Sustained blast beats at extreme tempos with clarity
+- Powerful, consistent double bass patterns
+- Gravity blast technique execution
+- Machine-like consistency throughout long sets
+- Ability to adapt to various death metal subgenre requirements`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Hate Eternal - King of All Kings', year: 2002, label: 'Earache', note: 'Brutal technical death metal' },
+          { name: 'Vital Remains - Dechristianize', year: 2003, label: 'Olympic', note: 'Death metal classic with Glen Benton' },
+          { name: 'Vital Remains - Icons of Evil', year: 2007, label: 'Century Media', note: 'Continued brutality' },
+          { name: 'Divine Heresy - Bleed the Fifth', year: 2007, label: 'Roadrunner', note: 'Fear Factory-influenced' },
+          { name: 'Morbid Angel - Illud Divinum Insanus', year: 2011, label: 'Season of Mist', note: 'Controversial return album' },
+          { name: 'Divine Heresy - Bringer of Plagues', year: 2009, label: 'Century Media', note: 'Second Divine Heresy album' }
+        ],
+        tours: [
+          { name: 'Morbid Angel World Tours', year: '2004-2015', note: 'Extensive touring with death metal legends' },
+          { name: 'Vital Remains Tours', year: '2003-2007', note: 'Supporting Dechristianize and Icons of Evil' },
+          { name: 'Nile Fill-In Dates', year: '2012', note: 'European dates for George Kollias' },
+          { name: 'Summer Slaughter', year: 'Multiple years', note: 'US extreme metal festival tour' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Tim Yeung has used various drum setups throughout his career, favoring equipment that can handle the extreme demands of death metal drumming.
+
+**Typical Setup:**
+- **Drums**: Pearl or Tama (Reference or Starclassic series)
+- **Snare**: 14"x6.5" Metal snare for cut and attack
+- **Cymbals**: Zildjian or Sabian (bright, cutting series for extreme metal)
+- **Hardware**: Pearl Demon Drive or Tama Iron Cobra double pedal
+- **Sticks**: Vic Firth or Promark 5B/2B for durability
+- **Heads**: Evans (EMAD or Genera series)
+
+**Setup Philosophy:**
+- Prioritizes durability and consistency for extreme applications
+- Trigger-assisted bass drums for clarity at high speeds
+- Bright, cutting cymbals that penetrate dense guitar tones`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Has been a member of more major death metal bands than almost any other drummer',
+          'Replaced legendary Pete Sandoval in Morbid Angel due to Sandoval\'s back surgery',
+          'Vital Remains\' "Dechristianize" is considered one of the heaviest albums ever recorded',
+          'Divine Heresy featured former Fear Factory guitarist Dino Cazares',
+          'Filled in for George Kollias when Kollias had scheduling conflicts',
+          'Known for his reliability and ability to learn complex material quickly',
+          'One of the few drummers to have played with multiple Florida death metal legends',
+          '"Illud Divinum Insanus" was Morbid Angel\'s controversial industrial-influenced album',
+          'His endurance allows for consistent performance throughout grueling tour schedules'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Morbid Angel Official', url: 'https://www.facebook.com/MorbidAngelBand/' },
+          { name: 'Blabbermouth', url: 'https://www.blabbermouth.net' },
+          { name: 'Season of Mist', url: 'https://www.season-of-mist.com' },
+          { name: 'Wikipedia: Tim Yeung', url: 'https://en.wikipedia.org/wiki/Tim_Yeung' }
+        ]
+      }
+    }
+  },
+
+  // Kevin Talley - Dying Fetus, Chimaira, Misery Index (Issue #336 - Batch 11)
+  'kevin-talley': {
+    slug: 'kevin-talley',
+    drummerId: 60,
+    name: 'Kevin Talley',
+    bands: [
+      { slug: 'dying-fetus', period: '1996-2001, 2007-2008', role: 'Drummer' },
+      { slug: 'misery-index', period: '2001-2003', role: 'Drummer' },
+      { slug: 'chimaira', period: '2009-2011', role: 'Drummer' },
+      { slug: 'suffocation', period: '2005-2007', role: 'Drummer' },
+      { slug: 'six-feet-under', period: '2011-2017', role: 'Drummer' }
+    ],
+    metaTitle: 'Kevin Talley Biography - Dying Fetus & Chimaira Drummer | MetalForge',
+    metaDescription: 'Complete biography of Kevin Talley, brutal death metal drummer for Dying Fetus, Chimaira, Suffocation, and more. Explore his extreme speed and defining role in brutal death metal.',
+    ogImage: '/images/drummers/kevin-talley.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Kevin Talley (born May 21, 1979, in Maryland, USA) is an American drummer renowned for his work with brutal death metal and grindcore bands including Dying Fetus, Misery Index, Chimaira, Suffocation, and Six Feet Under. His incredibly fast and precise drumming helped define the brutal death metal sound that emerged from the Maryland/DC area in the late 1990s.
+
+Talley's drumming combines the technical demands of brutal death metal with the groove-oriented approach that made Dying Fetus influential. His extensive resume across multiple extreme metal bands has established him as one of the go-to drummers in the brutal death metal community.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1996', event: 'Joined Dying Fetus at age 17' },
+          { year: '1998', event: 'Recorded "Killing on Adrenaline" with Dying Fetus' },
+          { year: '2000', event: 'Released "Destroy the Opposition" with Dying Fetus, a brutal death metal landmark' },
+          { year: '2001', event: 'Left Dying Fetus; co-founded Misery Index with Jason Netherton' },
+          { year: '2003', event: 'Released "Retaliate" with Misery Index' },
+          { year: '2005', event: 'Joined Suffocation for "Suffocation" self-titled album' },
+          { year: '2007', event: 'Brief return to Dying Fetus' },
+          { year: '2009', event: 'Joined Chimaira, bringing brutal death metal precision to groove metal' },
+          { year: '2011', event: 'Joined Six Feet Under' },
+          { year: '2017', event: 'Left Six Feet Under; continues session work' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Kevin Talley's drumming style is characterized by extreme speed, technical precision, and the ability to seamlessly integrate groove with brutality. His work with Dying Fetus helped establish the template for brutal death metal drumming.
+
+**Key Influences:**
+- **Pete Sandoval (Morbid Angel)**: Extreme speed and gravity blasts
+- **Dave Lombardo (Slayer)**: Thrash foundation
+- **Derek Roddy**: Technical death metal precision
+- **Hardcore/Grindcore**: Groove and slam-oriented patterns
+
+**Signature Techniques:**
+- Blistering blast beats with precision timing
+- Groove-oriented patterns that complement slams and breakdowns
+- Complex fills that maintain brutality
+- Powerful, driving double bass patterns
+- Adaptability across different extreme metal subgenres`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Dying Fetus - Killing on Adrenaline', year: 1998, label: 'Morbid', note: 'Early brutal death metal essential' },
+          { name: 'Dying Fetus - Destroy the Opposition', year: 2000, label: 'Relapse', note: 'Brutal death metal landmark' },
+          { name: 'Misery Index - Retaliate', year: 2003, label: 'Nuclear Blast', note: 'Grindcore/death metal debut' },
+          { name: 'Suffocation - Suffocation', year: 2006, label: 'Relapse', note: 'Self-titled comeback' },
+          { name: 'Chimaira - The Infection', year: 2009, label: 'Ferret', note: 'Groove metal with extreme drumming' },
+          { name: 'Six Feet Under - Undead', year: 2012, label: 'Metal Blade', note: 'Death metal with Chris Barnes' },
+          { name: 'Six Feet Under - Crypt of the Devil', year: 2015, label: 'Metal Blade', note: 'Cannabis-themed death metal' }
+        ],
+        tours: [
+          { name: 'Dying Fetus Tours', year: '1996-2001, 2007-2008', note: 'Extensive brutal death metal touring' },
+          { name: 'Suffocation World Tours', year: '2005-2007', note: 'Brutal death metal legends touring' },
+          { name: 'Chimaira Tours', year: '2009-2011', note: 'Groove metal circuit' },
+          { name: 'Six Feet Under Tours', year: '2011-2017', note: 'Death metal touring' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Kevin Talley has used various drum setups throughout his career, favoring equipment that can handle the extreme demands of brutal death metal.
+
+**Typical Setup:**
+- **Drums**: Pearl, Tama, or DW (various series depending on period)
+- **Snare**: 14"x5.5" or 14"x6.5" metal snare for attack
+- **Cymbals**: Sabian or Zildjian (bright series for cut)
+- **Hardware**: Double pedal (various manufacturers)
+- **Sticks**: Heavy sticks for durability (5B or 2B)
+- **Heads**: Remo or Evans
+
+**Performance Approach:**
+- Trigger-assisted bass drums for consistency
+- Durable hardware for aggressive playing style
+- Setup optimized for both speed and groove`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Joined Dying Fetus at just 17 years old',
+          '"Destroy the Opposition" is considered one of the greatest brutal death metal albums',
+          'Co-founded Misery Index after leaving Dying Fetus',
+          'One of the few drummers to have played in both Dying Fetus and Suffocation',
+          'His work with Chimaira showed his adaptability to groove metal',
+          'Has been described as one of the architects of the Maryland death metal sound',
+          'Known for his relentless touring schedule across multiple bands',
+          'Misery Index combined Dying Fetus brutality with grindcore intensity',
+          'Six Feet Under tenure lasted 6 years, his longest single band stint'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Dying Fetus Official', url: 'https://www.facebook.com/DyingFetus/' },
+          { name: 'Relapse Records', url: 'https://www.relapse.com' },
+          { name: 'Blabbermouth', url: 'https://www.blabbermouth.net' },
+          { name: 'Wikipedia: Kevin Talley', url: 'https://en.wikipedia.org/wiki/Kevin_Talley' }
+        ]
+      }
+    }
   }
 };
 

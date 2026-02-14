@@ -414,6 +414,34 @@ export const gearComparisons = {
     },
     verdict: 'Sonor SQ2 is the progressive metal standard. DW Collector\'s excels in modern metal with studio versatility.',
   },
+
+  // Issue #345: Accessories comparisons
+  'evans-vs-remo': {
+    slug: 'evans-vs-remo',
+    title: 'Evans vs Remo Drumheads',
+    metaTitle: 'Evans vs Remo Drumheads - Metal Drumheads Compared | MetalForge',
+    metaDescription: 'Compare Evans and Remo drumheads for metal. Attack, durability, tuning stability.',
+    category: 'accessories',
+    items: [
+      { brand: 'Evans', model: 'EMAD / EC2', priceRange: '€15-50', rating: 4.7, bestFor: 'Death metal', pros: ['Level 360 Tech', 'EMAD system'], cons: ['Higher price'], specs: { material: '2-ply', coating: 'UV-cured' }, usedBy: ['Gene Hoglan', 'George Kollias'] },
+      { brand: 'Remo', model: 'Pinstripe / Emperor', priceRange: '€12-45', rating: 4.6, bestFor: 'Thrash metal', pros: ['Industry standard', 'Budget-friendly'], cons: ['Coating wears'], specs: { material: '2-ply Mylar' }, usedBy: ['Lars Ulrich', 'Dave Lombardo'] },
+    ],
+    comparison: { sound: 'Evans: controlled. Remo: classic open tone.', forMetal: 'Evans for death, Remo for thrash.' },
+    verdict: 'Evans for extreme metal precision. Remo for classic thrash.',
+  },
+  'vic-firth-vs-promark': {
+    slug: 'vic-firth-vs-promark',
+    title: 'Vic Firth vs ProMark Drumsticks',
+    metaTitle: 'Vic Firth vs ProMark Sticks - Metal Drumsticks Compared | MetalForge',
+    metaDescription: 'Compare Vic Firth and ProMark drumsticks for metal. Weight, durability, feel.',
+    category: 'accessories',
+    items: [
+      { brand: 'Vic Firth', model: 'American Classic 5B', priceRange: '€10-18', rating: 4.8, bestFor: 'Heavy hitting', pros: ['Perfect Pair matching', 'Premium hickory'], cons: ['Higher price'], specs: { material: 'Hickory' }, usedBy: ['Gene Hoglan', 'Danny Carey'] },
+      { brand: 'ProMark', model: 'FireGrain 5B', priceRange: '€8-16', rating: 4.6, bestFor: 'Technical playing', pros: ['FireGrain durability', 'Budget-friendly'], cons: ['Weight variance'], specs: { material: 'Hickory' }, usedBy: ['Chris Adler', 'Matt Halpern'] },
+    ],
+    comparison: { durability: 'ProMark FireGrain lasts longer.', forMetal: 'Both excellent.' },
+    verdict: 'Vic Firth for consistency. ProMark for budget durability.',
+  },
 };
 
 /**

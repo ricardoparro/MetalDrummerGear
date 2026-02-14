@@ -15,6 +15,12 @@ export const extendedBios = {
     metaTitle: 'Lars Ulrich Biography - Metallica Drummer, Gear & Career | MetalForge',
     metaDescription: 'Complete biography of Lars Ulrich, co-founder and drummer of Metallica. Explore his career from 1981 to present, drumming style, signature gear, and influence on thrash metal.',
     ogImage: '/images/drummers/lars-ulrich.webp',
+    keywords: ['thrash metal', 'metallica', 'big four', 'tama drums', 'danish drummer', 'rock hall of fame', 'master of puppets'],
+    relatedDrummers: ['dave-lombardo', 'joey-jordison', 'gene-hoglan'],
+    summary: 'Lars Ulrich, Metallica co-founder and drummer since 1981. First Danish musician inducted into the Rock and Roll Hall of Fame (2009).',
+    lastUpdated: '2026-02-14',
+    imageAlt: 'Lars Ulrich playing drums live with Metallica on stage',
+    schemaType: 'Person',
     sections: {
       overview: {
         title: 'Overview',
@@ -105,6 +111,16 @@ Ulrich was the first Danish-born musician inducted into the Rock and Roll Hall o
           'Became a US citizen in 2007'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drums does Lars Ulrich play?', a: 'Lars Ulrich plays Tama Starclassic Maple drums with his signature Tama LU1465 steel snare drum.' },
+          { q: 'When did Lars Ulrich co-found Metallica?', a: 'Lars Ulrich co-founded Metallica in 1981 in Los Angeles with James Hetfield.' },
+          { q: 'Is Lars Ulrich in the Rock and Roll Hall of Fame?', a: 'Yes, Lars Ulrich was inducted in 2009 with Metallica, becoming the first Danish musician in the Hall of Fame.' },
+          { q: 'What is Lars Ulrich\'s signature snare drum?', a: 'The Tama LU1465, a 14"x6.5" steel signature snare designed for cutting through heavy guitar.' },
+          { q: 'What drumsticks does Lars Ulrich use?', a: 'Lars uses Ahead aluminum alloy signature sticks, known for their durability during aggressive playing.' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -130,6 +146,12 @@ Ulrich was the first Danish-born musician inducted into the Rock and Roll Hall o
     metaTitle: 'Joey Jordison Biography - Slipknot Drummer Legend (1975-2021) | MetalForge',
     metaDescription: 'Complete biography of Joey Jordison, legendary Slipknot drummer. Explore his incredible career, revolutionary drumming style, rotating drum kit, and lasting influence on metal.',
     ogImage: '/images/drummers/joey-jordison.webp',
+    keywords: ['slipknot', 'nu metal', 'extreme metal', 'pearl drums', 'blast beats', 'rotating drum kit', 'iowa album', 'mask'],
+    relatedDrummers: ['lars-ulrich', 'dave-lombardo', 'gene-hoglan', 'eloy-casagrande'],
+    summary: 'Joey Jordison (1975-2021), Slipknot founding drummer and metal icon. Known for extreme speed, precision, and his legendary rotating drum platform.',
+    lastUpdated: '2026-02-14',
+    imageAlt: 'Joey Jordison performing with Slipknot wearing his signature mask behind Pearl drums',
+    schemaType: 'Person',
     sections: {
       overview: {
         title: 'Overview',
@@ -219,6 +241,16 @@ His blistering speed, technical precision, and theatrical stage presence—inclu
           'Wore mask #1 in Slipknot (Kabuki-style Japanese mask)'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drums did Joey Jordison play?', a: 'Joey Jordison played Pearl Reference Series drums with his signature 13"x6.5" snare throughout his Slipknot career.' },
+          { q: 'When did Joey Jordison die?', a: 'Joey Jordison passed away on July 26, 2021, at age 46. He had been battling transverse myelitis.' },
+          { q: 'Why did Joey Jordison leave Slipknot?', a: 'Joey parted ways with Slipknot in 2013. He later revealed he had been battling transverse myelitis, which affected his drumming ability.' },
+          { q: 'What was Joey Jordison\'s rotating drum kit?', a: 'Joey\'s iconic drum platform could rotate 360 degrees, allowing him to play upside down during performances.' },
+          { q: 'How fast could Joey Jordison play?', a: 'Joey could sustain blast beats at over 200 BPM with precision, making him one of the fastest metal drummers ever.' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -245,6 +277,12 @@ His blistering speed, technical precision, and theatrical stage presence—inclu
     metaTitle: 'Gene Hoglan Biography - "The Atomic Clock" Death Metal Drummer | MetalForge',
     metaDescription: 'Complete biography of Gene Hoglan, nicknamed "The Atomic Clock" for his metronomic precision. Explore his work with Death, Testament, Dethklok, and his influence on extreme metal.',
     ogImage: '/images/drummers/gene-hoglan.webp',
+    keywords: ['death metal', 'the atomic clock', 'pearl drums', 'testament', 'death band', 'dark angel', 'dethklok', 'technical drumming'],
+    relatedDrummers: ['dave-lombardo', 'joey-jordison', 'tomas-haake', 'george-kollias'],
+    summary: 'Gene Hoglan, "The Atomic Clock," legendary death metal drummer known for metronomic precision with Death, Testament, and Dethklok.',
+    lastUpdated: '2026-02-14',
+    imageAlt: 'Gene Hoglan performing live behind his Pearl drum kit with Testament',
+    schemaType: 'Person',
     sections: {
       overview: {
         title: 'Overview',
@@ -336,6 +374,15 @@ Over a career spanning four decades, Hoglan has performed with over 20 major ban
           'Continues to tour extensively well into his 50s'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'Why is Gene Hoglan called "The Atomic Clock"?', a: 'Gene earned this nickname for his incredibly precise, metronomic timing that rarely deviates from perfect tempo.' },
+          { q: 'What drums does Gene Hoglan play?', a: 'Gene Hoglan plays Pearl Reference Pure drums with Sabian AAX cymbals and Pearl Demon Drive double pedals.' },
+          { q: 'What bands has Gene Hoglan played with?', a: 'Gene has played with Death, Testament, Dark Angel, Strapping Young Lad, Dethklok, Fear Factory, and over 20 other bands.' },
+          { q: 'What is Gene Hoglan\'s best album?', a: 'Many consider Death\'s "Symbolic" (1995) to be Gene Hoglan\'s masterpiece, showcasing his technical death metal drumming at its peak.' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -362,6 +409,12 @@ Over a career spanning four decades, Hoglan has performed with over 20 major ban
     metaTitle: 'Dave Lombardo Biography - Slayer Drummer & Thrash Metal Pioneer | MetalForge',
     metaDescription: 'Complete biography of Dave Lombardo, Slayer\'s legendary drummer and godfather of thrash metal drumming. Explore his revolutionary style, Reign in Blood legacy, and diverse career.',
     ogImage: '/images/drummers/dave-lombardo.webp',
+    keywords: ['thrash metal', 'slayer', 'big four', 'tama drums', 'cuban drummer', 'reign in blood', 'double bass pioneer', 'paiste cymbals'],
+    relatedDrummers: ['lars-ulrich', 'gene-hoglan', 'joey-jordison', 'paul-bostaph'],
+    summary: 'Dave Lombardo, Slayer co-founder and godfather of thrash metal drumming. Pioneered double bass technique on iconic "Reign in Blood" album.',
+    lastUpdated: '2026-02-14',
+    imageAlt: 'Dave Lombardo playing drums with Slayer during a live thrash metal performance',
+    schemaType: 'Person',
     sections: {
       overview: {
         title: 'Overview',
@@ -454,6 +507,16 @@ His work on landmark albums such as "Reign in Blood," "South of Heaven," and "Se
           'His drumming on "Angel of Death" is considered a benchmark for thrash metal'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drums does Dave Lombardo play?', a: 'Dave Lombardo plays Tama Starclassic drums with Paiste RUDE and 2002 series cymbals, and Tama Iron Cobra pedals.' },
+          { q: 'Why did Dave Lombardo leave Slayer?', a: 'Lombardo left Slayer twice (1992 and 2013), both times due to financial and business disputes with the band.' },
+          { q: 'Is Dave Lombardo the best thrash metal drummer?', a: 'Dave Lombardo is widely regarded as the "godfather of thrash metal drumming" for pioneering double bass technique on Slayer\'s classic albums.' },
+          { q: 'What is Dave Lombardo\'s signature cymbal?', a: 'Dave collaborated with Paiste on the "Reign Power Ride" cymbal, named after Slayer\'s iconic "Reign in Blood" album.' },
+          { q: 'Does Dave Lombardo play with Pantera?', a: 'Yes, Dave joined the reunited Pantera in 2022 as touring drummer, honoring the legacy of the late Vinnie Paul.' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -477,6 +540,12 @@ His work on landmark albums such as "Reign in Blood," "South of Heaven," and "Se
     metaTitle: 'Tomas Haake Biography - Meshuggah Drummer & Djent Pioneer | MetalForge',
     metaDescription: 'Complete biography of Tomas Haake, Meshuggah\'s drummer and architect of the djent movement. Explore his revolutionary polyrhythmic style, the legendary "Bleed" drum part, and his influence on modern metal.',
     ogImage: '/images/drummers/tomas-haake.webp',
+    keywords: ['djent', 'meshuggah', 'polyrhythmic drumming', 'sonor drums', 'bleed', 'swedish metal', 'progressive metal', 'technical drumming'],
+    relatedDrummers: ['danny-carey', 'gene-hoglan', 'mario-duplantier', 'mike-portnoy'],
+    summary: 'Tomas Haake, Meshuggah drummer and djent pioneer. Known for complex polyrhythms and the legendary "Bleed" drum pattern.',
+    lastUpdated: '2026-02-14',
+    imageAlt: 'Tomas Haake performing with Meshuggah behind his Sonor drum kit executing polyrhythmic patterns',
+    schemaType: 'Person',
     sections: {
       overview: {
         title: 'Overview',
@@ -567,6 +636,16 @@ Haake's approach to drumming involves complex polyrhythmic patterns that create 
           'Despite the complexity, maintains that Meshuggah is a "groove band"'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drums does Tomas Haake play?', a: 'Tomas plays Sonor SQ2 Heavy Beech drums with Sabian HHX cymbals and two Tama Speed Cobra single pedals.' },
+          { q: 'How long did it take to learn "Bleed"?', a: 'Tomas Haake spent six months of daily practice to consistently play the complex kick drum pattern in "Bleed" live.' },
+          { q: 'Why does Tomas Haake use two single pedals?', a: 'Using two single pedals instead of a double pedal allows greater independence between feet for polyrhythmic patterns.' },
+          { q: 'What is djent drumming?', a: 'Djent drumming, pioneered by Tomas Haake, features complex polyrhythms layered over steady 4/4 time, creating multiple time signatures simultaneously.' },
+          { q: 'Is Tomas Haake the best technical drummer?', a: 'Tomas Haake is widely regarded as one of the most innovative drummers in metal, having created the polyrhythmic template for djent music.' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -590,6 +669,12 @@ Haake's approach to drumming involves complex polyrhythmic patterns that create 
     metaTitle: 'George Kollias Biography - Nile Drummer & Extreme Metal Educator | MetalForge',
     metaDescription: 'Complete biography of George Kollias, Nile\'s drummer known for extreme speed and precision. Explore his career, educational materials, signature gear, and influence on death metal drumming.',
     ogImage: '/images/drummers/george-kollias.webp',
+    keywords: ['death metal', 'nile band', 'pearl drums', 'greek drummer', 'blast beats', 'extreme metal', 'drum education', 'gravity blast'],
+    relatedDrummers: ['gene-hoglan', 'tomas-haake', 'joey-jordison', 'dave-lombardo'],
+    summary: 'George Kollias, Nile drummer since 2004 and renowned drum educator. Known for extreme speed, gravity blasts, and instructional DVDs.',
+    lastUpdated: '2026-02-14',
+    imageAlt: 'George Kollias performing extreme blast beats with Nile behind his Pearl drum kit',
+    schemaType: 'Person',
     sections: {
       overview: {
         title: 'Overview',
@@ -679,6 +764,16 @@ Beyond his work with Nile, Kollias is an accomplished drum educator, having rele
           'Maintains strict practice and physical fitness regimens'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drums does George Kollias play?', a: 'George plays Pearl Masterworks Stadium Exotic drums with Zildjian cymbals and the Pearl Demon XR double pedal he co-designed.' },
+          { q: 'What is a gravity blast?', a: 'A gravity blast is a one-handed blast beat technique that George Kollias helped popularize, allowing sustained high-speed patterns.' },
+          { q: 'Does George Kollias have instructional DVDs?', a: 'Yes, George has released "Intense Metal Drumming" (2010) and "Intense Metal Drumming II" (2017) instructional DVDs.' },
+          { q: 'How fast can George Kollias play?', a: 'George can sustain blast beats at 240+ BPM with clarity, making him one of the fastest death metal drummers.' },
+          { q: 'What is George Kollias\'s signature stick?', a: 'The Vic Firth SGK (Signature George Kollias) stick, designed with longer reach and balance for extreme speed playing.' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -703,6 +798,12 @@ Beyond his work with Nile, Kollias is an accomplished drum educator, having rele
     metaTitle: 'Eloy Casagrande Biography - Slipknot Drummer & Brazilian Metal Prodigy | MetalForge',
     metaDescription: 'Complete biography of Eloy Casagrande, Slipknot\'s new drummer and former Sepultura member. Explore his journey from Brazilian metal prodigy to joining one of metal\'s biggest bands.',
     ogImage: '/images/drummers/eloy-casagrande.webp',
+    keywords: ['slipknot', 'sepultura', 'brazilian drummer', 'tama drums', 'thrash metal', 'nu metal', 'modern drummer', 'paiste cymbals'],
+    relatedDrummers: ['joey-jordison', 'dave-lombardo', 'lars-ulrich', 'mario-duplantier'],
+    summary: 'Eloy Casagrande, Slipknot\'s new drummer (2024) and former Sepultura member. Voted #1 metal drummer in Modern Drummer 2024 poll.',
+    lastUpdated: '2026-02-14',
+    imageAlt: 'Eloy Casagrande performing with Slipknot behind his Tama drum kit',
+    schemaType: 'Person',
     sections: {
       overview: {
         title: 'Overview',
@@ -786,6 +887,16 @@ Starting drums at age 7 and joining Sepultura at just 19, Casagrande represented
           'Speaks Portuguese and English fluently'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'When did Eloy Casagrande join Slipknot?', a: 'Eloy Casagrande joined Slipknot in 2024, replacing Jay Weinberg as the band\'s drummer.' },
+          { q: 'What drums does Eloy Casagrande play?', a: 'Eloy plays Tama Starclassic Bubinga drums with dual bass drums, Paiste cymbals, and Tama Iron Cobra pedals.' },
+          { q: 'How old was Eloy when he joined Sepultura?', a: 'Eloy was just 19 years old when he joined Sepultura in 2011, replacing Jean Dolabella.' },
+          { q: 'Is Eloy Casagrande the best metal drummer?', a: 'Eloy was voted #1 metal drummer in Modern Drummer magazine\'s 2024 Readers\' Poll.' },
+          { q: 'Is Eloy Casagrande Brazilian?', a: 'Yes, Eloy was born in São Paulo, Brazil, making him the first Brazilian drummer to join Slipknot.' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -811,6 +922,12 @@ Starting drums at age 7 and joining Sepultura at just 19, Casagrande represented
     metaTitle: 'Mike Portnoy Biography - Dream Theater Drummer & Progressive Metal Icon | MetalForge',
     metaDescription: 'Complete biography of Mike Portnoy, Dream Theater co-founder and progressive metal drumming legend. Explore his 30+ year career, awards, gear, and influence on modern drumming.',
     ogImage: '/images/drummers/mike-portnoy.webp',
+    keywords: ['progressive metal', 'dream theater', 'tama drums', 'berklee', 'odd time signatures', 'modern drummer hall of fame', 'sabian cymbals'],
+    relatedDrummers: ['danny-carey', 'tomas-haake', 'gene-hoglan', 'mario-duplantier'],
+    summary: 'Mike Portnoy, Dream Theater co-founder and progressive metal legend. Modern Drummer Hall of Fame inductee with 30+ awards.',
+    lastUpdated: '2026-02-14',
+    imageAlt: 'Mike Portnoy performing with Dream Theater on his massive Tama drum kit with Sabian cymbals',
+    schemaType: 'Person',
     sections: {
       overview: {
         title: 'Overview',
@@ -903,6 +1020,16 @@ Portnoy's technical proficiency, creative compositions, and theatrical live perf
           'Known for wearing shorts on stage, even in formal prog metal settings'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drums does Mike Portnoy play?', a: 'Mike plays Tama Starclassic drums with Sabian HHX cymbals, Tama Iron Cobra pedals, and his signature Melody Master snare.' },
+          { q: 'When did Mike Portnoy rejoin Dream Theater?', a: 'Mike Portnoy rejoined Dream Theater in 2023 for their reunion tour and new album, 13 years after his departure.' },
+          { q: 'Is Mike Portnoy in the Modern Drummer Hall of Fame?', a: 'Yes, Mike Portnoy was inducted into the Modern Drummer Hall of Fame in 2007.' },
+          { q: 'Why did Mike Portnoy leave Dream Theater?', a: 'Mike left Dream Theater in 2010 citing creative differences and wanting to take a break, though he later expressed regret about the decision.' },
+          { q: 'How many bands is Mike Portnoy in?', a: 'Mike has played in numerous bands including Dream Theater, The Winery Dogs, Sons of Apollo, Flying Colors, and Liquid Tension Experiment.' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -927,6 +1054,12 @@ Portnoy's technical proficiency, creative compositions, and theatrical live perf
     metaTitle: 'Danny Carey Biography - Tool Drummer & Polyrhythmic Genius | MetalForge',
     metaDescription: 'Complete biography of Danny Carey, Tool\'s legendary drummer known for complex polyrhythms, sacred geometry, and innovative drumming. Explore his career, philosophy, and gear.',
     ogImage: '/images/drummers/danny-carey.webp',
+    keywords: ['tool band', 'polyrhythmic drumming', 'sonor drums', 'sacred geometry', 'progressive metal', 'paiste cymbals', 'fibonacci', 'mandala drums'],
+    relatedDrummers: ['tomas-haake', 'mike-portnoy', 'gene-hoglan', 'mario-duplantier'],
+    summary: 'Danny Carey, Tool drummer since 1990. Grammy winner known for polyrhythmic complexity, sacred geometry concepts, and Mandala electronic pads.',
+    lastUpdated: '2026-02-14',
+    imageAlt: 'Danny Carey performing complex polyrhythmic patterns with Tool behind his massive Sonor drum kit',
+    schemaType: 'Person',
     sections: {
       overview: {
         title: 'Overview',
@@ -1016,6 +1149,16 @@ Standing at 6'5" (196 cm), Carey is an imposing presence behind his massive Sono
           'Practices daily, often on a practice pad while watching television'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drums does Danny Carey play?', a: 'Danny plays Sonor SQ2 Heavy Beech drums with his signature bronze snare, Paiste cymbals, and Mandala electronic pads.' },
+          { q: 'How tall is Danny Carey?', a: 'Danny Carey stands 6\'5" (196 cm) tall, making him one of the tallest drummers in rock music.' },
+          { q: 'What are Mandala drums?', a: 'Mandala drums are electronic pads Danny uses to trigger samples and play melodic elements, adding textural depth to Tool\'s sound.' },
+          { q: 'Has Danny Carey won any Grammys?', a: 'Yes, Danny has won multiple Grammys with Tool including Best Metal Performance for "Ænima," "Schism," and "Fear Inoculum."' },
+          { q: 'What is the Fibonacci sequence in Tool\'s music?', a: 'Danny incorporates mathematical concepts like the Fibonacci sequence into his rhythmic patterns and Tool\'s song structures, notably in "Lateralus."' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -1039,6 +1182,12 @@ Standing at 6'5" (196 cm), Carey is an imposing presence behind his massive Sono
     metaTitle: 'Mario Duplantier Biography - Gojira Drummer & Visual Artist | MetalForge',
     metaDescription: 'Complete biography of Mario Duplantier, Gojira\'s powerful drummer known for tribal rhythms and visual art. Explore his career with Gojira, unique style, and creative contributions.',
     ogImage: '/images/drummers/mario-duplantier.webp',
+    keywords: ['gojira', 'french metal', 'tama drums', 'zildjian cymbals', 'tribal drumming', 'environmental metal', 'progressive death metal', 'visual artist'],
+    relatedDrummers: ['tomas-haake', 'danny-carey', 'dave-lombardo', 'eloy-casagrande'],
+    summary: 'Mario Duplantier, Gojira co-founder, drummer, and visual artist. Known for tribal rhythms, environmental activism, and creating all Gojira artwork.',
+    lastUpdated: '2026-02-14',
+    imageAlt: 'Mario Duplantier performing powerful tribal rhythms with Gojira behind his Tama drum kit',
+    schemaType: 'Person',
     sections: {
       overview: {
         title: 'Overview',
@@ -1125,6 +1274,16 @@ Mario's drumming combines crushing power with technical precision, featuring com
           'Often incorporates visual projections of his art during live shows'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drums does Mario Duplantier play?', a: 'Mario plays Tama Starclassic Bubinga drums with dual bass drums, Zildjian cymbals, and his signature Tama sticks.' },
+          { q: 'Does Mario Duplantier create Gojira\'s artwork?', a: 'Yes, Mario is a visual artist who creates all of Gojira\'s album artwork, merchandise designs, and stage visuals.' },
+          { q: 'Are Mario and Joe Duplantier brothers?', a: 'Yes, Mario (drums) and Joe (vocals/guitar) Duplantier are brothers who co-founded Gojira in 1996 in France.' },
+          { q: 'What is Gojira\'s environmental message?', a: 'Gojira promotes environmental awareness through their music, with songs like "Amazonia" supporting rainforest protection causes.' },
+          { q: 'Why does Mario use two bass drums?', a: 'Mario uses dual bass drums for both visual impact on stage and for the fuller, more powerful tone compared to a single kick with double pedal.' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -1151,6 +1310,12 @@ Mario's drumming combines crushing power with technical precision, featuring com
     metaTitle: 'Paul Bostaph Biography - Slayer Drummer & Thrash Metal Legend | MetalForge',
     metaDescription: 'Complete biography of Paul Bostaph, Slayer\'s longest-serving drummer. Explore his career from Forbidden to Slayer, his technical style, and contributions to thrash metal.',
     ogImage: '/images/drummers/paul-bostaph.webp',
+    keywords: ['slayer', 'thrash metal', 'bay area thrash', 'dw drums', 'testament', 'exodus', 'forbidden', 'paiste cymbals'],
+    relatedDrummers: ['dave-lombardo', 'gene-hoglan', 'lars-ulrich', 'jon-dette'],
+    summary: 'Paul Bostaph, Slayer\'s longest-serving drummer (12 years total). Played Slayer\'s final show in 2019 and current Testament drummer.',
+    lastUpdated: '2026-02-14',
+    imageAlt: 'Paul Bostaph performing with Slayer during their final world tour',
+    schemaType: 'Person',
     sections: {
       overview: {
         title: 'Overview',
@@ -1228,6 +1393,15 @@ Before Slayer, Bostaph established his reputation in the Bay Area thrash scene w
           'Has been called one of the most underrated drummers in thrash metal'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'How long was Paul Bostaph in Slayer?', a: 'Paul Bostaph was in Slayer for 12 years total across two tenures (1992-2001 and 2013-2019), making him their longest-serving drummer.' },
+          { q: 'Did Paul Bostaph play Slayer\'s final show?', a: 'Yes, Paul Bostaph was behind the kit for Slayer\'s final show on November 30, 2019, at the Forum in Los Angeles.' },
+          { q: 'What drums does Paul Bostaph play?', a: 'Paul plays DW Collector\'s Series drums with Paiste RUDE cymbals and DW 9000 Series double pedals.' },
+          { q: 'Why did Paul Bostaph leave Slayer twice?', a: 'Paul left Slayer both times when Dave Lombardo rejoined the band, showing professional respect for Lombardo\'s legacy.' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -1252,6 +1426,12 @@ Before Slayer, Bostaph established his reputation in the Bay Area thrash scene w
     metaTitle: 'Jon Dette Biography - Slayer & Testament Touring Drummer | MetalForge',
     metaDescription: 'Complete biography of Jon Dette, touring drummer for Slayer, Testament, and Anthrax. Thrash metal\'s go-to fill-in drummer.',
     ogImage: '/images/drummers/jon-dette.webp',
+    keywords: ['slayer', 'testament', 'anthrax', 'thrash metal', 'touring drummer', 'fill-in drummer', 'big four', 'session drummer'],
+    relatedDrummers: ['paul-bostaph', 'dave-lombardo', 'gene-hoglan', 'lars-ulrich'],
+    summary: 'Jon Dette, thrash metal\'s most versatile fill-in drummer. Toured with Slayer, Testament, and Anthrax—three of the Big Four.',
+    lastUpdated: '2026-02-14',
+    imageAlt: 'Jon Dette performing live with Testament during a thrash metal concert',
+    schemaType: 'Person',
     sections: {
       overview: {
         title: 'Overview',
@@ -1316,6 +1496,15 @@ Dette served as Slayer's touring drummer during 1996-1997, filling in when Paul 
           'One of few drummers to have played with three of the Big Four (Slayer, Anthrax)',
           'The Gathering is considered one of Testament\'s best albums',
           'Praised for professionalism and quick learning ability'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'Did Jon Dette play with Slayer?', a: 'Yes, Jon Dette was Slayer\'s touring drummer in 1996-1997, filling in for Paul Bostaph.' },
+          { q: 'How many Big Four bands has Jon Dette played with?', a: 'Jon Dette has played with three of the Big Four: Slayer, Anthrax (touring), and he recorded with Testament which is often considered honorary Big Four.' },
+          { q: 'What Testament albums did Jon Dette play on?', a: 'Jon played on "The Gathering" (1999), "The Formation of Damnation" (2008), and "Dark Roots of Earth" (2012).' },
+          { q: 'Why is Jon Dette called thrash metal\'s best fill-in drummer?', a: 'Jon\'s ability to quickly learn complex material and professionally fill in for major bands like Slayer and Anthrax earned him this reputation.' }
         ]
       },
       sources: {

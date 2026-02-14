@@ -1135,38 +1135,318 @@ Mario's drumming combines crushing power with technical precision, featuring com
         ]
       }
     }
+  },
 
-  // Paul Bostaph - Slayer (#360)
+  // Danny Carey - Tool (Issue #355)
+  'danny-carey': {
+    slug: 'danny-carey',
+    drummerId: 22,
+    name: 'Danny Carey',
+    bands: [
+      { slug: 'tool', period: '1990-present', role: 'Drummer, founding member' },
+      { slug: 'pigmy-love-circus', period: '1989-2003', role: 'Drummer' },
+      { slug: 'volto', period: '2000-present', role: 'Drummer' }
+    ],
+    metaTitle: 'Danny Carey Biography - Tool Drummer, Gear & Career | MetalForge',
+    metaDescription: 'Complete biography of Danny Carey, legendary drummer of Tool. Explore his career, polyrhythmic mastery, signature gear, and influence on progressive metal drumming.',
+    ogImage: '/images/drummers/danny-carey.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Danny Carey (born May 10, 1961, in Lawrence, Kansas) is an American musician best known as the drummer and co-founder of the progressive metal band Tool. Widely regarded as one of the greatest rock drummers of all time, Carey is celebrated for his technical prowess, innovative use of polyrhythms, incorporation of electronic elements, and deep interest in sacred geometry and mathematics.
+
+Standing at 6'5" (196 cm), Carey's imposing physical presence matches his powerful drumming style. His approach combines jazz fusion influences with heavy metal intensity, creating a sound that has helped define progressive metal for over three decades. He was inducted into the Modern Drummer Hall of Fame in 2022.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1990', event: 'Co-founded Tool in Los Angeles with Maynard James Keenan, Adam Jones, and Paul D\'Amour' },
+          { year: '1992', event: 'Released Tool\'s debut EP "Opiate," gaining underground recognition' },
+          { year: '1993', event: 'Released "Undertow," which went triple platinum with hits "Sober" and "Prison Sex"' },
+          { year: '1996', event: 'Released "Ænima," winning Grammy for Best Metal Performance ("Ænema")' },
+          { year: '2001', event: 'Released "Lateralus," featuring the mathematically inspired title track using Fibonacci sequence' },
+          { year: '2002', event: 'Won Grammy for Best Metal Performance ("Schism") and Best Recording Package' },
+          { year: '2006', event: 'Released "10,000 Days," winning another Grammy for "Vicarious"' },
+          { year: '2019', event: 'Released "Fear Inoculum" after 13-year hiatus, debuting at #1 on Billboard 200' },
+          { year: '2022', event: 'Inducted into Modern Drummer Hall of Fame' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Danny Carey's drumming style is a unique fusion of jazz sophistication, progressive complexity, and heavy metal power. His approach to rhythm is deeply influenced by his interest in sacred geometry, mathematics, and occult symbolism, which manifests in his use of complex time signatures and polyrhythmic patterns.
+
+**Key Influences:**
+- **Bill Bruford (King Crimson/Yes)**: Progressive rock complexity and independence
+- **Tony Williams**: Jazz fusion vocabulary and improvisational approach
+- **Michael Shrieve (Santana)**: World rhythms and Latin influences
+- **Billy Cobham**: Technical precision and power
+- **Elvin Jones**: Jazz drumming independence and polyrhythmic layering
+
+**Signature Techniques:**
+- Mastery of odd time signatures (7/8, 9/8, 5/4, and mixed meters)
+- Complex polyrhythms where different limbs play opposing subdivisions
+- Integration of electronic Mandala pads for melodic drumming
+- Use of the Fibonacci sequence in compositions ("Lateralus")
+- Tabla and world percussion influences
+- Extended drum solos incorporating jazz improvisation`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Opiate (EP)', year: 1992, label: 'Zoo Entertainment', note: 'Tool\'s underground debut' },
+          { name: 'Undertow', year: 1993, label: 'Zoo Entertainment', note: '3x Platinum, breakthrough' },
+          { name: 'Ænima', year: 1996, label: 'Zoo Entertainment', note: '3x Platinum, Grammy winner' },
+          { name: 'Lateralus', year: 2001, label: 'Volcano', note: '2x Platinum, progressive masterpiece' },
+          { name: '10,000 Days', year: 2006, label: 'Volcano', note: '2x Platinum, Grammy winner' },
+          { name: 'Fear Inoculum', year: 2019, label: 'Tool Dissectional/Volcano', note: '#1 Billboard debut' }
+        ],
+        tours: [
+          { name: 'Lollapalooza', year: '1993, 1997', note: 'Festival performances that expanded Tool\'s audience' },
+          { name: 'Ænima World Tour', year: '1996-1997', note: 'Global headlining in support of Ænima' },
+          { name: 'Lateralus Tour', year: '2001-2002', note: 'Elaborate visual production' },
+          { name: '10,000 Days Tour', year: '2006-2007', note: 'Extensive worldwide touring' },
+          { name: 'Fear Inoculum Tour', year: '2019-2023', note: 'Most extensive Tool tour, post-pandemic return' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Danny Carey is a longtime Sonor drums endorser and Paiste cymbals artist. His setup is notably large and incorporates both acoustic drums and electronic elements, reflecting his desire to expand the sonic palette of drumming.
+
+**Current Setup:**
+- **Drums**: Sonor Designer Series with custom maple/beech shells
+- **Snare**: Sonor Danny Carey Signature 14"x8" bronze shell
+- **Cymbals**: Paiste Signature series, including Danny Carey Signature rides (22" Dry Heavy and 21")
+- **Hi-Hats**: Paiste Signature 15" Dark Crisp Hi-Hats
+- **Hardware**: DW 9000 series double bass drum pedal
+- **Electronics**: Mandala pads, Roland triggers, various synth triggers
+- **Throne**: Roc-n-Soc with back rest
+- **Sticks**: Vic Firth Danny Carey Signature (5B profile with oval tip)
+- **Heads**: Remo (Emperor coated on snare, Clear Ambassadors on toms)
+
+**Notable Gear Innovations:**
+- Pioneer of integrating Mandala pads into rock/metal drumming
+- Uses electronic elements to add melodic content during drum fills
+- Custom-designed bronze signature snare with Sonor
+- Signature Paiste cymbals designed for both projection and complexity
+- Large kit setup (typically 8+ toms) for extended tonal range`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Stands 6\'5" (196 cm) tall, one of the tallest drummers in rock',
+          'Deeply interested in sacred geometry, the occult, and the work of Aleister Crowley',
+          'The song "Lateralus" incorporates the Fibonacci sequence in its syllable pattern and time signatures',
+          'Plays Mandala drum pads tuned to specific notes, adding melodic elements to fills',
+          'Was originally a jazz drummer before joining Tool, studying at University of Missouri Kansas City',
+          'Has collaborated with artists including Carole King, Pigface, and Green Jellÿ',
+          'His side project Volto! plays jazz fusion in small clubs around LA',
+          'Known for extremely long drum solos in Tool\'s live shows (15+ minutes)',
+          'Was inducted into Modern Drummer Hall of Fame in 2022',
+          'Uses a Paiste gong in Tool\'s live performances'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Sonor Drums Artist Profile', url: 'https://www.sonor.com/artists/danny-carey/' },
+          { name: 'Paiste Artist Profile', url: 'https://www.paiste.com/e/artists.php?menession=65' },
+          { name: 'Modern Drummer Magazine', url: 'https://www.moderndrummer.com' },
+          { name: 'Wikipedia: Danny Carey', url: 'https://en.wikipedia.org/wiki/Danny_Carey' },
+          { name: 'Tool Official', url: 'https://toolband.com' }
+        ]
+      }
+    }
+  },
+
+  // Paul Bostaph - Slayer, Testament, Exodus (Issue #360)
   'paul-bostaph': {
     slug: 'paul-bostaph',
     drummerId: 16,
     name: 'Paul Bostaph',
-    bands: [{ slug: 'slayer', period: '1992-2001, 2013-2019', role: 'Drummer' }],
-    metaTitle: 'Paul Bostaph - Slayer Drummer | MetalForge',
-    metaDescription: 'Paul Bostaph - Slayer longest-serving drummer.',
+    bands: [
+      { slug: 'slayer', period: '1992-2001, 2013-2019', role: 'Drummer' },
+      { slug: 'testament', period: '1999-2001, 2024-present', role: 'Drummer' },
+      { slug: 'exodus', period: '2005-2007', role: 'Drummer' },
+      { slug: 'forbidden', period: '1987-1989', role: 'Drummer' }
+    ],
+    metaTitle: 'Paul Bostaph Biography - Slayer Drummer & Thrash Metal Legend | MetalForge',
+    metaDescription: 'Complete biography of Paul Bostaph, Slayer\'s longest-serving drummer. Explore his career from Forbidden to Slayer, his technical style, and contributions to thrash metal.',
     ogImage: '/images/drummers/paul-bostaph.webp',
     sections: {
-      overview: { title: 'Overview', content: 'Paul Bostaph is Slayer\'s longest-serving drummer, playing on four albums and their farewell tour.' },
-      careerHighlights: { title: 'Career', items: [{ year: '1992', event: 'Joined Slayer' }, { year: '2019', event: 'Slayer final show' }] },
-      gearHighlights: { title: 'Gear', content: 'DW Collectors drums, Paiste RUDE cymbals.' },
-      sources: { title: 'Sources', items: [{ name: 'Wikipedia', url: 'https://en.wikipedia.org/wiki/Paul_Bostaph' }] }
+      overview: {
+        title: 'Overview',
+        content: `Paul Bostaph (born March 4, 1964, in San Francisco, California) is an American drummer best known for his two tenures with thrash metal legends Slayer. He is Slayer's longest-serving drummer overall, having performed on four studio albums and was behind the kit for the band's final world tour and last show in 2019.
+
+Before Slayer, Bostaph established his reputation in the Bay Area thrash scene with Forbidden and Testament. His powerful, precise drumming style built upon the foundation Dave Lombardo established while adding his own technical flair.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1985', event: 'Began drumming career in San Francisco Bay Area thrash scene' },
+          { year: '1987', event: 'Joined Forbidden (then Forbidden Evil), recorded debut album' },
+          { year: '1992', event: 'Joined Slayer following Dave Lombardo\'s departure' },
+          { year: '1994', event: 'First Slayer studio album "Divine Intervention" released' },
+          { year: '1999', event: 'Joined Testament while on hiatus from Slayer' },
+          { year: '2001', event: 'Left Slayer when Lombardo rejoined' },
+          { year: '2005', event: 'Joined Exodus for "Shovel Headed Kill Machine"' },
+          { year: '2013', event: 'Rejoined Slayer following Lombardo\'s second departure' },
+          { year: '2015', event: 'Recorded "Repentless," first Slayer album without Jeff Hanneman' },
+          { year: '2019', event: 'Performed Slayer\'s final show at the Forum in Los Angeles' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Paul Bostaph's drumming style combines technical precision with relentless power. While he honors the legacy Dave Lombardo established, Bostaph brings his own flavor—tighter, more metronomic, and incredibly consistent night after night.
+
+**Key Influences:**
+- **Dave Lombardo (Slayer)**: The template for thrash metal drumming
+- **Gene Hoglan (Death)**: Technical precision and speed
+- **Bay Area Thrash Scene**: Fast, aggressive drumming culture
+
+**Signature Techniques:**
+- Machine-like double bass consistency at high tempos
+- Tight, controlled fills that serve the song
+- Powerful snare attack with precise placement
+- Ability to replicate complex Lombardo parts while adding personal touches`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Forbidden - Twisted Into Form', year: 1990, label: 'Combat', note: 'Bay Area thrash classic' },
+          { name: 'Slayer - Divine Intervention', year: 1994, label: 'American', note: 'First Slayer album' },
+          { name: 'Slayer - Undisputed Attitude', year: 1996, label: 'American', note: 'Punk covers album' },
+          { name: 'Slayer - Diabolus in Musica', year: 1998, label: 'American', note: 'Groove metal era' },
+          { name: 'Testament - First Strike Still Deadly', year: 2001, label: 'Spitfire', note: 'Re-recorded classics' },
+          { name: 'Exodus - Shovel Headed Kill Machine', year: 2005, label: 'Nuclear Blast', note: 'Thrash revival' },
+          { name: 'Slayer - Repentless', year: 2015, label: 'Nuclear Blast', note: 'Final Slayer album' }
+        ],
+        tours: [
+          { name: 'Divine Intervention Tour', year: '1994-1995', note: 'First major Slayer touring cycle' },
+          { name: 'Ozzfest', year: '1996, 1998', note: 'Multiple appearances with Slayer' },
+          { name: 'Final World Tour', year: '2018-2019', note: 'Slayer\'s farewell tour' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Paul Bostaph has used various drum brands throughout his career, including Pearl, Tama, and DW Drums.
+
+**Recent Setup (Final Slayer Era):**
+- **Drums**: DW Collector's Series Maple/Mahogany
+- **Snare**: DW 14"x6.5" Collector's Maple
+- **Cymbals**: Paiste RUDE series
+- **Hardware**: DW 9000 Series double pedal
+- **Sticks**: Vater Power 5B
+- **Heads**: Remo Emperor/Ambassador`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Slayer\'s longest-serving drummer by total years (12 years across two tenures)',
+          'Played Slayer\'s final show on November 30, 2019, at the Forum in Los Angeles',
+          'Only drummer other than Lombardo to record multiple Slayer studio albums',
+          'Grew up in the San Francisco Bay Area thrash scene',
+          'Left Slayer both times when Lombardo rejoined, showing professional respect',
+          'Has been called one of the most underrated drummers in thrash metal'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'DW Drums', url: 'https://www.dwdrums.com' },
+          { name: 'Slayer Official', url: 'https://www.slayer.net' },
+          { name: 'Wikipedia: Paul Bostaph', url: 'https://en.wikipedia.org/wiki/Paul_Bostaph' }
+        ]
+      }
     }
   },
 
-  // Jon Dette - Slayer/Testament (#360)
+  // Jon Dette - Slayer, Testament, Anthrax (Issue #360)
   'jon-dette': {
     slug: 'jon-dette',
     drummerId: 17,
     name: 'Jon Dette',
-    bands: [{ slug: 'slayer', period: '1996-1997', role: 'Touring' }, { slug: 'testament', period: '1997-2012', role: 'Drummer' }],
-    metaTitle: 'Jon Dette - Drummer | MetalForge',
-    metaDescription: 'Jon Dette - thrash metal fill-in drummer.',
+    bands: [
+      { slug: 'slayer', period: '1996-1997', role: 'Touring drummer' },
+      { slug: 'testament', period: '1997-1999, 2001-2012', role: 'Drummer' },
+      { slug: 'anthrax', period: '2010', role: 'Touring drummer' }
+    ],
+    metaTitle: 'Jon Dette Biography - Slayer & Testament Touring Drummer | MetalForge',
+    metaDescription: 'Complete biography of Jon Dette, touring drummer for Slayer, Testament, and Anthrax. Thrash metal\'s go-to fill-in drummer.',
     ogImage: '/images/drummers/jon-dette.webp',
     sections: {
-      overview: { title: 'Overview', content: 'Jon Dette is thrash metal\'s go-to fill-in drummer.' },
-      careerHighlights: { title: 'Career', items: [{ year: '1996', event: 'Slayer fill-in' }, { year: '1999', event: 'Testament The Gathering' }] },
-      gearHighlights: { title: 'Gear', content: 'Pearl, Tama, or DW drums.' },
-      sources: { title: 'Sources', items: [{ name: 'Wikipedia', url: 'https://en.wikipedia.org/wiki/Jon_Dette' }] }
+      overview: {
+        title: 'Overview',
+        content: `Jon Dette (born August 25, 1967, in Milwaukee, Wisconsin) is an American drummer known for his work as a touring and session drummer with several major thrash metal bands, most notably Slayer and Testament.
+
+Dette served as Slayer's touring drummer during 1996-1997, filling in when Paul Bostaph was temporarily unavailable. He later became a longer-term member of Testament, contributing to their albums and tours. His versatility and professionalism have earned him respect throughout the metal community.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1996', event: 'Joined Slayer as touring drummer, filling in for Paul Bostaph' },
+          { year: '1997', event: 'Left Slayer when Bostaph returned; joined Testament' },
+          { year: '1999', event: 'Recorded "The Gathering" with Testament' },
+          { year: '2008', event: 'Appeared on Testament\'s "The Formation of Damnation"' },
+          { year: '2010', event: 'Filled in for Charlie Benante on Anthrax tour dates' },
+          { year: '2012', event: 'Recorded "Dark Roots of Earth" with Testament' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Jon Dette's drumming style is characterized by technical precision, adaptability, and the ability to faithfully replicate complex drum parts from multiple bands.
+
+**Key Influences:**
+- **Dave Lombardo (Slayer)**: Thrash metal foundation
+- **Gene Hoglan (Death)**: Technical proficiency
+- **Paul Bostaph**: Precision and consistency
+
+**Signature Techniques:**
+- Rapid adaptation to different band's playing styles
+- Powerful, consistent double bass playing
+- Professional approach to maintaining original song integrity`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Testament - The Gathering', year: 1999, label: 'Spitfire', note: 'Career-defining album' },
+          { name: 'Testament - The Formation of Damnation', year: 2008, label: 'Nuclear Blast', note: 'Comeback album' },
+          { name: 'Testament - Dark Roots of Earth', year: 2012, label: 'Nuclear Blast', note: 'Final Testament album with Dette' }
+        ],
+        tours: [
+          { name: 'Slayer World Tour', year: '1996-1997', note: 'Fill-in drummer period' },
+          { name: 'Testament Tours', year: '1997-2012', note: 'Multiple touring cycles' },
+          { name: 'Anthrax Tour', year: '2010', note: 'Fill-in for Charlie Benante' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Jon Dette has used various drum setups throughout his career, adapting to each band's requirements.
+
+**Typical Setup:**
+- **Drums**: Pearl, Tama, or DW depending on period
+- **Snare**: 14"x6.5" metal or maple snares
+- **Cymbals**: Sabian or Zildjian
+- **Hardware**: DW 9000 or Tama Iron Cobra double pedal
+- **Sticks**: Promark or Vater 5B`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Known as thrash metal\'s most reliable fill-in drummer',
+          'Learned entire Slayer setlists quickly when called to tour',
+          'One of few drummers to have played with three of the Big Four (Slayer, Anthrax)',
+          'The Gathering is considered one of Testament\'s best albums',
+          'Praised for professionalism and quick learning ability'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Testament Official', url: 'https://testamentlegions.com' },
+          { name: 'Blabbermouth', url: 'https://www.blabbermouth.net' },
+          { name: 'Wikipedia: Jon Dette', url: 'https://en.wikipedia.org/wiki/Jon_Dette' }
+        ]
+      }
     }
   }
 };

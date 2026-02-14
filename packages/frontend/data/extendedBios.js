@@ -1135,38 +1135,197 @@ Mario's drumming combines crushing power with technical precision, featuring com
         ]
       }
     }
+  },
 
-  // Paul Bostaph - Slayer (#360)
+  // Paul Bostaph - Slayer, Testament, Exodus (Issue #360)
   'paul-bostaph': {
     slug: 'paul-bostaph',
     drummerId: 16,
     name: 'Paul Bostaph',
-    bands: [{ slug: 'slayer', period: '1992-2001, 2013-2019', role: 'Drummer' }],
-    metaTitle: 'Paul Bostaph - Slayer Drummer | MetalForge',
-    metaDescription: 'Paul Bostaph - Slayer longest-serving drummer.',
+    bands: [
+      { slug: 'slayer', period: '1992-2001, 2013-2019', role: 'Drummer' },
+      { slug: 'testament', period: '1999-2001, 2024-present', role: 'Drummer' },
+      { slug: 'exodus', period: '2005-2007', role: 'Drummer' },
+      { slug: 'forbidden', period: '1987-1989', role: 'Drummer' }
+    ],
+    metaTitle: 'Paul Bostaph Biography - Slayer Drummer & Thrash Metal Legend | MetalForge',
+    metaDescription: 'Complete biography of Paul Bostaph, Slayer\'s longest-serving drummer. Explore his career from Forbidden to Slayer, his technical style, and contributions to thrash metal.',
     ogImage: '/images/drummers/paul-bostaph.webp',
     sections: {
-      overview: { title: 'Overview', content: 'Paul Bostaph is Slayer\'s longest-serving drummer, playing on four albums and their farewell tour.' },
-      careerHighlights: { title: 'Career', items: [{ year: '1992', event: 'Joined Slayer' }, { year: '2019', event: 'Slayer final show' }] },
-      gearHighlights: { title: 'Gear', content: 'DW Collectors drums, Paiste RUDE cymbals.' },
-      sources: { title: 'Sources', items: [{ name: 'Wikipedia', url: 'https://en.wikipedia.org/wiki/Paul_Bostaph' }] }
+      overview: {
+        title: 'Overview',
+        content: `Paul Bostaph (born March 4, 1964, in San Francisco, California) is an American drummer best known for his two tenures with thrash metal legends Slayer. He is Slayer's longest-serving drummer overall, having performed on four studio albums and was behind the kit for the band's final world tour and last show in 2019.
+
+Before Slayer, Bostaph established his reputation in the Bay Area thrash scene with Forbidden and Testament. His powerful, precise drumming style built upon the foundation Dave Lombardo established while adding his own technical flair.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1985', event: 'Began drumming career in San Francisco Bay Area thrash scene' },
+          { year: '1987', event: 'Joined Forbidden (then Forbidden Evil), recorded debut album' },
+          { year: '1992', event: 'Joined Slayer following Dave Lombardo\'s departure' },
+          { year: '1994', event: 'First Slayer studio album "Divine Intervention" released' },
+          { year: '1999', event: 'Joined Testament while on hiatus from Slayer' },
+          { year: '2001', event: 'Left Slayer when Lombardo rejoined' },
+          { year: '2005', event: 'Joined Exodus for "Shovel Headed Kill Machine"' },
+          { year: '2013', event: 'Rejoined Slayer following Lombardo\'s second departure' },
+          { year: '2015', event: 'Recorded "Repentless," first Slayer album without Jeff Hanneman' },
+          { year: '2019', event: 'Performed Slayer\'s final show at the Forum in Los Angeles' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Paul Bostaph's drumming style combines technical precision with relentless power. While he honors the legacy Dave Lombardo established, Bostaph brings his own flavor—tighter, more metronomic, and incredibly consistent night after night.
+
+**Key Influences:**
+- **Dave Lombardo (Slayer)**: The template for thrash metal drumming
+- **Gene Hoglan (Death)**: Technical precision and speed
+- **Bay Area Thrash Scene**: Fast, aggressive drumming culture
+
+**Signature Techniques:**
+- Machine-like double bass consistency at high tempos
+- Tight, controlled fills that serve the song
+- Powerful snare attack with precise placement
+- Ability to replicate complex Lombardo parts while adding personal touches`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Forbidden - Twisted Into Form', year: 1990, label: 'Combat', note: 'Bay Area thrash classic' },
+          { name: 'Slayer - Divine Intervention', year: 1994, label: 'American', note: 'First Slayer album' },
+          { name: 'Slayer - Undisputed Attitude', year: 1996, label: 'American', note: 'Punk covers album' },
+          { name: 'Slayer - Diabolus in Musica', year: 1998, label: 'American', note: 'Groove metal era' },
+          { name: 'Testament - First Strike Still Deadly', year: 2001, label: 'Spitfire', note: 'Re-recorded classics' },
+          { name: 'Exodus - Shovel Headed Kill Machine', year: 2005, label: 'Nuclear Blast', note: 'Thrash revival' },
+          { name: 'Slayer - Repentless', year: 2015, label: 'Nuclear Blast', note: 'Final Slayer album' }
+        ],
+        tours: [
+          { name: 'Divine Intervention Tour', year: '1994-1995', note: 'First major Slayer touring cycle' },
+          { name: 'Ozzfest', year: '1996, 1998', note: 'Multiple appearances with Slayer' },
+          { name: 'Final World Tour', year: '2018-2019', note: 'Slayer\'s farewell tour' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Paul Bostaph has used various drum brands throughout his career, including Pearl, Tama, and DW Drums.
+
+**Recent Setup (Final Slayer Era):**
+- **Drums**: DW Collector's Series Maple/Mahogany
+- **Snare**: DW 14"x6.5" Collector's Maple
+- **Cymbals**: Paiste RUDE series
+- **Hardware**: DW 9000 Series double pedal
+- **Sticks**: Vater Power 5B
+- **Heads**: Remo Emperor/Ambassador`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Slayer\'s longest-serving drummer by total years (12 years across two tenures)',
+          'Played Slayer\'s final show on November 30, 2019, at the Forum in Los Angeles',
+          'Only drummer other than Lombardo to record multiple Slayer studio albums',
+          'Grew up in the San Francisco Bay Area thrash scene',
+          'Left Slayer both times when Lombardo rejoined, showing professional respect',
+          'Has been called one of the most underrated drummers in thrash metal'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'DW Drums', url: 'https://www.dwdrums.com' },
+          { name: 'Slayer Official', url: 'https://www.slayer.net' },
+          { name: 'Wikipedia: Paul Bostaph', url: 'https://en.wikipedia.org/wiki/Paul_Bostaph' }
+        ]
+      }
     }
   },
 
-  // Jon Dette - Slayer/Testament (#360)
+  // Jon Dette - Slayer, Testament, Anthrax (Issue #360)
   'jon-dette': {
     slug: 'jon-dette',
     drummerId: 17,
     name: 'Jon Dette',
-    bands: [{ slug: 'slayer', period: '1996-1997', role: 'Touring' }, { slug: 'testament', period: '1997-2012', role: 'Drummer' }],
-    metaTitle: 'Jon Dette - Drummer | MetalForge',
-    metaDescription: 'Jon Dette - thrash metal fill-in drummer.',
+    bands: [
+      { slug: 'slayer', period: '1996-1997', role: 'Touring drummer' },
+      { slug: 'testament', period: '1997-1999, 2001-2012', role: 'Drummer' },
+      { slug: 'anthrax', period: '2010', role: 'Touring drummer' }
+    ],
+    metaTitle: 'Jon Dette Biography - Slayer & Testament Touring Drummer | MetalForge',
+    metaDescription: 'Complete biography of Jon Dette, touring drummer for Slayer, Testament, and Anthrax. Thrash metal\'s go-to fill-in drummer.',
     ogImage: '/images/drummers/jon-dette.webp',
     sections: {
-      overview: { title: 'Overview', content: 'Jon Dette is thrash metal\'s go-to fill-in drummer.' },
-      careerHighlights: { title: 'Career', items: [{ year: '1996', event: 'Slayer fill-in' }, { year: '1999', event: 'Testament The Gathering' }] },
-      gearHighlights: { title: 'Gear', content: 'Pearl, Tama, or DW drums.' },
-      sources: { title: 'Sources', items: [{ name: 'Wikipedia', url: 'https://en.wikipedia.org/wiki/Jon_Dette' }] }
+      overview: {
+        title: 'Overview',
+        content: `Jon Dette (born August 25, 1967, in Milwaukee, Wisconsin) is an American drummer known for his work as a touring and session drummer with several major thrash metal bands, most notably Slayer and Testament.
+
+Dette served as Slayer's touring drummer during 1996-1997, filling in when Paul Bostaph was temporarily unavailable. He later became a longer-term member of Testament, contributing to their albums and tours. His versatility and professionalism have earned him respect throughout the metal community.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1996', event: 'Joined Slayer as touring drummer, filling in for Paul Bostaph' },
+          { year: '1997', event: 'Left Slayer when Bostaph returned; joined Testament' },
+          { year: '1999', event: 'Recorded "The Gathering" with Testament' },
+          { year: '2008', event: 'Appeared on Testament\'s "The Formation of Damnation"' },
+          { year: '2010', event: 'Filled in for Charlie Benante on Anthrax tour dates' },
+          { year: '2012', event: 'Recorded "Dark Roots of Earth" with Testament' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Jon Dette's drumming style is characterized by technical precision, adaptability, and the ability to faithfully replicate complex drum parts from multiple bands.
+
+**Key Influences:**
+- **Dave Lombardo (Slayer)**: Thrash metal foundation
+- **Gene Hoglan (Death)**: Technical proficiency
+- **Paul Bostaph**: Precision and consistency
+
+**Signature Techniques:**
+- Rapid adaptation to different band's playing styles
+- Powerful, consistent double bass playing
+- Professional approach to maintaining original song integrity`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Testament - The Gathering', year: 1999, label: 'Spitfire', note: 'Career-defining album' },
+          { name: 'Testament - The Formation of Damnation', year: 2008, label: 'Nuclear Blast', note: 'Comeback album' },
+          { name: 'Testament - Dark Roots of Earth', year: 2012, label: 'Nuclear Blast', note: 'Final Testament album with Dette' }
+        ],
+        tours: [
+          { name: 'Slayer World Tour', year: '1996-1997', note: 'Fill-in drummer period' },
+          { name: 'Testament Tours', year: '1997-2012', note: 'Multiple touring cycles' },
+          { name: 'Anthrax Tour', year: '2010', note: 'Fill-in for Charlie Benante' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Jon Dette has used various drum setups throughout his career, adapting to each band's requirements.
+
+**Typical Setup:**
+- **Drums**: Pearl, Tama, or DW depending on period
+- **Snare**: 14"x6.5" metal or maple snares
+- **Cymbals**: Sabian or Zildjian
+- **Hardware**: DW 9000 or Tama Iron Cobra double pedal
+- **Sticks**: Promark or Vater 5B`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Known as thrash metal\'s most reliable fill-in drummer',
+          'Learned entire Slayer setlists quickly when called to tour',
+          'One of few drummers to have played with three of the Big Four (Slayer, Anthrax)',
+          'The Gathering is considered one of Testament\'s best albums',
+          'Praised for professionalism and quick learning ability'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Testament Official', url: 'https://testamentlegions.com' },
+          { name: 'Blabbermouth', url: 'https://www.blabbermouth.net' },
+          { name: 'Wikipedia: Jon Dette', url: 'https://en.wikipedia.org/wiki/Jon_Dette' }
+        ]
+      }
     }
   }
 };

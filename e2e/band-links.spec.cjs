@@ -31,15 +31,18 @@ test.describe('Band Links Feature (Issue #351)', () => {
       await page.goto(`${BASE_URL}/drummer/lars-ulrich`, { waitUntil: 'load' });
       await page.waitForTimeout(3000);
       
-      // Look for the band links section
+      // Look for the band links section by test ID (most reliable)
       const bandLinksSection = page.locator('[data-testid="band-links-section"]');
       featureAvailable = await bandLinksSection.isVisible({ timeout: 5000 }).catch(() => false);
       
       if (!featureAvailable) {
-        // Also check for any section with "Bands" heading
-        const bandsHeading = page.locator('text=Bands').first();
+        // Also check for section heading with exact "Bands" text (as heading role)
+        // This is more specific than just text matching
+        const bandsHeading = page.getByRole('heading', { name: /^🎸?\s*Bands$/i });
         featureAvailable = await bandsHeading.isVisible({ timeout: 3000 }).catch(() => false);
       }
+      
+      console.log(`Band links feature available: ${featureAvailable}`);
     } finally {
       await page.close();
     }

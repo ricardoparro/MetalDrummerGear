@@ -1317,13 +1317,576 @@ Dette served as Slayer's touring drummer during 1996-1997, filling in when Paul 
           'The Gathering is considered one of Testament\'s best albums',
           'Praised for professionalism and quick learning ability'
         ]
+  },
+
+  // Flo Mounier - Cryptopsy
+  'flo-mounier': {
+    slug: 'flo-mounier',
+    drummerId: 18,
+    name: 'Flo Mounier',
+    bands: [
+      { slug: 'cryptopsy', period: '1992-present', role: 'Drummer, founding member' }
+    ],
+    metaTitle: 'Flo Mounier Biography - Cryptopsy Drummer & Technical Death Metal Pioneer | MetalForge',
+    metaDescription: 'Complete biography of Flo Mounier, founding drummer of Cryptopsy. Explore his revolutionary technical death metal drumming, signature gear, and influence on extreme metal.',
+    ogImage: '/images/drummers/flo-mounier.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Flo Mounier (born February 4, 1974, in Montreal, Quebec, Canada) is a Canadian drummer and founding member of technical death metal pioneers Cryptopsy. Since forming the band in 1992, Mounier has been widely recognized as one of the most technically proficient and influential drummers in extreme metal history.
+
+His lightning-fast blast beats, complex polyrhythmic patterns, and jazz-influenced approach helped define the technical death metal genre. Albums like "None So Vile" (1996) showcased drumming that was ahead of its time, influencing countless extreme metal drummers. Beyond his work with Cryptopsy, Mounier is an accomplished drum educator, conducting clinics worldwide and releasing instructional content.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1992', event: 'Co-founded Cryptopsy in Montreal, Quebec' },
+          { year: '1994', event: 'Released debut album "Blasphemy Made Flesh"' },
+          { year: '1996', event: 'Released "None So Vile," considered a technical death metal masterpiece' },
+          { year: '1998', event: 'Released "Whisper Supremacy," showcasing continued evolution' },
+          { year: '2000', event: 'Released "And Then You\'ll Beg," pushing technical boundaries' },
+          { year: '2005', event: 'Released "Once Was Not," progressive experimentation' },
+          { year: '2008', event: 'Released "The Unspoken King," controversial deathcore direction' },
+          { year: '2012', event: 'Released self-titled "Cryptopsy," return to roots' },
+          { year: '2015', event: 'Released "The Book of Suffering: Tome 1" EP' },
+          { year: '2023', event: 'Released "As Gomorrah Burns," acclaimed comeback album' },
+          { year: '2023', event: 'Celebrated 30+ years of Cryptopsy with world touring' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Flo Mounier's drumming style is characterized by extreme speed, technical precision, and jazz-influenced creativity. His approach combines death metal brutality with sophisticated rhythmic concepts, making him a pioneer of technical extreme metal drumming.
+
+**Key Influences:**
+- **Buddy Rich**: Jazz technique and speed
+- **Gene Hoglan (Death)**: Technical death metal precision
+- **Pete Sandoval (Morbid Angel)**: Extreme metal blast beats
+- **Dave Weckl**: Fusion drumming concepts
+
+**Signature Techniques:**
+- Sustained blast beats at extreme tempos (280+ BPM)
+- Jazz-influenced fills and polyrhythmic patterns
+- One-footed blast beats with double bass underneath
+- Complex syncopation within brutal death metal framework
+- Dynamic control and ghost notes in extreme contexts`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Blasphemy Made Flesh', year: 1994, label: 'Neoblast', note: 'Debut album' },
+          { name: 'None So Vile', year: 1996, label: 'Wrong Again', note: 'Technical death metal landmark' },
+          { name: 'Whisper Supremacy', year: 1998, label: 'Century Media', note: 'Continued evolution' },
+          { name: 'And Then You\'ll Beg', year: 2000, label: 'Century Media', note: 'Technical extremity' },
+          { name: 'Once Was Not', year: 2005, label: 'Century Media', note: 'Progressive elements' },
+          { name: 'Cryptopsy', year: 2012, label: 'Self-released', note: 'Return to roots' },
+          { name: 'The Book of Suffering: Tome 1', year: 2015, label: 'Self-released', note: 'Brutal EP' },
+          { name: 'As Gomorrah Burns', year: 2023, label: 'Nuclear Blast', note: 'Acclaimed comeback' }
+        ],
+        tours: [
+          { name: 'Summer Slaughter Tour', year: 'Multiple years', note: 'Premier US extreme metal festival' },
+          { name: 'European Festival Circuit', year: 'Ongoing', note: 'Wacken, Hellfest, etc.' },
+          { name: 'Global Clinics', year: 'Ongoing', note: 'Drum education worldwide' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Flo Mounier has been a long-time Tama Drums endorser, using their professional series for Cryptopsy's demanding live and studio work. His setup is designed for speed, precision, and durability.
+
+**Current Setup:**
+- **Drums**: Tama Starclassic Maple
+- **Snare**: Tama S.L.P. 14"x5.5" Bronze (or signature model)
+- **Cymbals**: Sabian AAX and HHX series (14" X-Celerator Hi-Hats, various crashes, rides)
+- **Hardware**: Tama Speed Cobra double pedal
+- **Sticks**: Vic Firth (various models, typically 5A or 5B)
+- **Heads**: Evans (G2 or EC2)
+
+**Notable Features:**
+- Uses relatively small kit for such complex music
+- Emphasizes speed and response over power in gear choices
+- Known for meticulous drum tuning
+- Has signature educational content and drum books`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          '"None So Vile" is frequently cited as one of the greatest death metal albums ever recorded',
+          'Has been the only constant member of Cryptopsy since 1992',
+          'His jazz background significantly influences his extreme metal drumming',
+          'Conducts drum clinics worldwide, sharing his techniques with aspiring drummers',
+          'The song "Phobophile" from "None So Vile" is considered a benchmark for extreme drumming',
+          'Has released instructional DVDs and written educational materials',
+          'Known for his humble, educational approach despite legendary status',
+          'Cryptopsy\'s 2023 comeback was celebrated as a return to form',
+          'His one-footed blast beat technique has been studied and imitated worldwide'
+        ]
       },
       sources: {
         title: 'Sources',
         items: [
-          { name: 'Testament Official', url: 'https://testamentlegions.com' },
-          { name: 'Blabbermouth', url: 'https://www.blabbermouth.net' },
-          { name: 'Wikipedia: Jon Dette', url: 'https://en.wikipedia.org/wiki/Jon_Dette' }
+          { name: 'Tama Drums', url: 'https://www.tama.com' },
+          { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
+          { name: 'Nuclear Blast Records', url: 'https://www.nuclearblast.com' },
+          { name: 'Wikipedia: Flo Mounier', url: 'https://en.wikipedia.org/wiki/Flo_Mounier' }
+        ]
+      }
+    }
+  },
+
+  // Jason Bittner - Shadows Fall / Overkill
+  'jason-bittner': {
+    slug: 'jason-bittner',
+    drummerId: 19,
+    name: 'Jason Bittner',
+    bands: [
+      { slug: 'overkill', period: '2017-present', role: 'Drummer' },
+      { slug: 'shadows-fall', period: '1999-2015', role: 'Drummer' },
+      { slug: 'flotsam-and-jetsam', period: '2013-2017', role: 'Drummer' }
+    ],
+    metaTitle: 'Jason Bittner Biography - Overkill & Shadows Fall Drummer | MetalForge',
+    metaDescription: 'Complete biography of Jason Bittner, drummer for Overkill and Shadows Fall. Explore his career spanning thrash metal and metalcore, his powerful style, and signature gear.',
+    ogImage: '/images/drummers/jason-bittner.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Jason Bittner (born August 19, 1970, in Waterbury, Connecticut) is an American drummer best known for his work with thrash metal legends Overkill and metalcore pioneers Shadows Fall. His powerful, versatile drumming has made him one of the most respected drummers in the American heavy metal scene.
+
+Bittner rose to prominence with Shadows Fall during the early 2000s metalcore explosion, contributing to Grammy-nominated albums. Following Shadows Fall's hiatus, he joined Flotsam and Jetsam before becoming Overkill's drummer in 2017, continuing the legacy of one of thrash metal's most enduring bands.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1999', event: 'Joined Shadows Fall, New England metalcore band' },
+          { year: '2002', event: 'Released "The Art of Balance" with Shadows Fall, commercial breakthrough' },
+          { year: '2004', event: 'Released "The War Within," Grammy-nominated album' },
+          { year: '2005', event: 'Headlined Ozzfest with Shadows Fall' },
+          { year: '2007', event: 'Released "Threads of Life," continued success' },
+          { year: '2009', event: 'Released "Retribution" with Shadows Fall' },
+          { year: '2012', event: 'Released "Fire from the Sky," final Shadows Fall album' },
+          { year: '2013', event: 'Joined Flotsam and Jetsam' },
+          { year: '2017', event: 'Joined Overkill, replacing Ron Lipnicki' },
+          { year: '2019', event: 'Released "The Wings of War" with Overkill' },
+          { year: '2023', event: 'Released "Scorched" with Overkill, first album fully written with Bittner' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Jason Bittner's drumming combines thrash metal power with the groove and heaviness of modern metal. His playing is characterized by powerful double bass, tight snare work, and the ability to adapt to different subgenres while maintaining his distinctive sound.
+
+**Key Influences:**
+- **Dave Lombardo (Slayer)**: Thrash metal foundation
+- **Nicko McBrain (Iron Maiden)**: Galloping rhythms
+- **Vinnie Paul (Pantera)**: Groove-based power drumming
+- **Charlie Benante (Anthrax)**: Thrash versatility
+
+**Signature Techniques:**
+- Powerful, driving double bass patterns
+- Tight, punchy snare work
+- Ability to blend thrash and modern metal elements
+- Consistent, reliable live performances
+- Dynamic control across metal subgenres`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Shadows Fall - The Art of Balance', year: 2002, label: 'Century Media', note: 'Commercial breakthrough' },
+          { name: 'Shadows Fall - The War Within', year: 2004, label: 'Century Media', note: 'Grammy-nominated' },
+          { name: 'Shadows Fall - Threads of Life', year: 2007, label: 'Atlantic', note: 'Major label debut' },
+          { name: 'Shadows Fall - Fire from the Sky', year: 2012, label: 'Razor & Tie', note: 'Final SF album' },
+          { name: 'Flotsam and Jetsam - Flotsam and Jetsam', year: 2016, label: 'AFM', note: 'Self-titled album' },
+          { name: 'Overkill - The Wings of War', year: 2019, label: 'Nuclear Blast', note: 'First Overkill album' },
+          { name: 'Overkill - Scorched', year: 2023, label: 'Nuclear Blast', note: 'Fully collaborative album' }
+        ],
+        tours: [
+          { name: 'Ozzfest', year: '2005', note: 'Headlining with Shadows Fall' },
+          { name: 'New England Metal Fest', year: 'Multiple years', note: 'Home region shows' },
+          { name: 'Overkill World Tours', year: '2017-Present', note: 'Thrash metal touring' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Jason Bittner is a long-time Mapex Drums endorser, using their drums for both Shadows Fall and Overkill. His setup is designed for power and durability.
+
+**Current Setup:**
+- **Drums**: Mapex Saturn V (or Black Panther series)
+- **Snare**: Mapex Black Panther Sledgehammer 14"x6.5"
+- **Cymbals**: Paiste RUDE and 2002 series
+- **Hardware**: Mapex Falcon double pedal
+- **Sticks**: Vic Firth (5B or similar)
+- **Heads**: Evans (G2 Coated, EMAD)
+
+**Setup Philosophy:**
+- Power-oriented setup for thrash metal demands
+- Reliable, road-worthy equipment
+- Paiste RUDE cymbals for durability and cut
+- Emphasis on consistent sound night after night`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Shadows Fall\'s "The War Within" was nominated for a Grammy Award',
+          'Was part of the early 2000s metalcore movement that brought heavy music to mainstream attention',
+          'Known for his enthusiastic, energetic personality',
+          'Has been a drum educator and clinician throughout his career',
+          'Seamlessly transitioned from metalcore to classic thrash with Overkill',
+          'Overkill has cited his work ethic and professionalism as reasons for hiring him',
+          'Connecticut native who has represented New England metal for decades',
+          'Continues to be active with educational content and clinics',
+          'His powerful style has adapted well to Overkill\'s classic thrash sound'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Mapex Drums', url: 'https://www.mapexdrums.com' },
+          { name: 'Paiste', url: 'https://www.paiste.com' },
+          { name: 'Overkill Official', url: 'https://wrfreccords.com/overkill' },
+          { name: 'Wikipedia: Jason Bittner', url: 'https://en.wikipedia.org/wiki/Jason_Bittner' }
+        ]
+      }
+    }
+  },
+
+  // Martin Lopez - Opeth / Soen
+  'martin-lopez': {
+    slug: 'martin-lopez',
+    drummerId: 20,
+    name: 'Martin Lopez',
+    bands: [
+      { slug: 'soen', period: '2010-present', role: 'Drummer, founding member' },
+      { slug: 'opeth', period: '1997-2006', role: 'Drummer' },
+      { slug: 'amon-amarth', period: '1996-1998', role: 'Drummer' }
+    ],
+    metaTitle: 'Martin Lopez Biography - Opeth & Soen Drummer | MetalForge',
+    metaDescription: 'Complete biography of Martin Lopez, drummer for Soen and formerly Opeth. Explore his influential work on classic Opeth albums, his Soen career, and unique drumming style.',
+    ogImage: '/images/drummers/martin-lopez.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Martin Lopez (born February 8, 1978, in Stockholm, Sweden, raised in Mölndal) is a Swedish drummer of Uruguayan descent, best known for his work with progressive metal bands Opeth (1997-2006) and Soen (2010-present). He is widely regarded as one of the most influential progressive metal drummers of his generation.
+
+Lopez's tenure with Opeth spanned some of the band's most critically acclaimed albums, including "Still Life," "Blackwater Park," and "Ghost Reveries." His dynamic, jazz-influenced approach to extreme metal drumming helped define Opeth's signature sound. After leaving Opeth due to health issues, Lopez co-founded Soen in 2010, continuing to showcase his exceptional musicality and versatility.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1996', event: 'Joined Amon Amarth, began professional drumming career' },
+          { year: '1997', event: 'Joined Opeth, replacing original drummer Anders Nordin' },
+          { year: '1999', event: 'Recorded "Still Life" with Opeth, breakthrough album' },
+          { year: '2001', event: 'Released "Blackwater Park," considered a masterpiece of progressive metal' },
+          { year: '2002', event: 'Released "Deliverance" and "Damnation," showcasing his versatility' },
+          { year: '2005', event: 'Released "Ghost Reveries" with Opeth, final album with the band' },
+          { year: '2006', event: 'Left Opeth due to health issues (panic disorder)' },
+          { year: '2010', event: 'Co-founded Soen with former Opeth bassist Martin Mendez' },
+          { year: '2012', event: 'Released "Cognitive" with Soen, debut album' },
+          { year: '2017', event: 'Released "Lykaia" with Soen, critical acclaim' },
+          { year: '2021', event: 'Released "Imperial" with Soen, continued evolution' },
+          { year: '2024', event: 'Released "Memorial" with Soen, latest album' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Martin Lopez's drumming style is characterized by exceptional dynamics, jazz-influenced finesse, and the ability to seamlessly transition between extreme metal brutality and delicate acoustic passages. His playing prioritizes musicality and emotion over pure technical display.
+
+**Key Influences:**
+- **Bill Bruford (Yes/King Crimson)**: Progressive approach and creativity
+- **Tony Williams**: Jazz fusion influence
+- **Vinnie Colaiuta**: Technical versatility and musicality
+- **Terry Bozzio**: Progressive drumming innovation
+
+**Signature Techniques:**
+- Seamless transitions between extreme metal and acoustic sections
+- Jazz-influenced ghost notes and brush work
+- Dynamic control from whisper-quiet to crushing intensity
+- Creative use of odd time signatures
+- Emotional, song-serving approach to drumming`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Opeth - My Arms, Your Hearse', year: 1998, label: 'Candlelight', note: 'First Opeth album' },
+          { name: 'Opeth - Still Life', year: 1999, label: 'Peaceville', note: 'Progressive death metal classic' },
+          { name: 'Opeth - Blackwater Park', year: 2001, label: 'Music for Nations', note: 'Masterpiece' },
+          { name: 'Opeth - Deliverance', year: 2002, label: 'Music for Nations', note: 'Heavy counterpart' },
+          { name: 'Opeth - Damnation', year: 2003, label: 'Music for Nations', note: 'All-acoustic album' },
+          { name: 'Opeth - Ghost Reveries', year: 2005, label: 'Roadrunner', note: 'Final album with band' },
+          { name: 'Soen - Cognitive', year: 2012, label: 'Spinefarm', note: 'Soen debut' },
+          { name: 'Soen - Tellurian', year: 2014, label: 'Spinefarm', note: 'Evolved sound' },
+          { name: 'Soen - Lykaia', year: 2017, label: 'UDR', note: 'Critical acclaim' },
+          { name: 'Soen - Lotus', year: 2019, label: 'Silver Lining', note: 'Continued evolution' },
+          { name: 'Soen - Imperial', year: 2021, label: 'Silver Lining', note: 'Mature sound' },
+          { name: 'Soen - Memorial', year: 2024, label: 'Silver Lining', note: 'Latest release' }
+        ],
+        tours: [
+          { name: 'Opeth World Tours', year: '1997-2006', note: 'Extensive touring during Opeth era' },
+          { name: 'Soen Tours', year: '2012-Present', note: 'Global touring with Soen' },
+          { name: 'European Festival Circuit', year: 'Ongoing', note: 'Regular festival appearances' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Martin Lopez has used various drum brands throughout his career, including Sonor and Pearl. His setup emphasizes tone and dynamics over power.
+
+**Current Setup (Soen Era):**
+- **Drums**: Sonor SQ2 or Pearl (depending on era)
+- **Snare**: Various sizes (14"x5.5" to 14"x6.5")
+- **Cymbals**: Zildjian K and Constantinople series for warm, complex tones
+- **Hardware**: DW or Sonor hardware
+- **Sticks**: Vic Firth (various models)
+- **Heads**: Remo (Ambassador or Emperor)
+
+**Setup Philosophy:**
+- Favors warm, musical tones over harsh attack
+- Uses jazz-style cymbals even in metal context
+- Emphasizes dynamics and expression
+- Relatively compact setup for progressive music`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Born in Stockholm to Uruguayan parents, giving him multicultural influences',
+          '"Blackwater Park" is frequently cited as one of the greatest progressive metal albums',
+          'Left Opeth due to severe panic disorder, which he has spoken about openly',
+          'Co-founded Soen specifically to continue making progressive music at his own pace',
+          'His drumming on "Damnation" showcases remarkable brush work and jazz influence',
+          'Known for his humble, introspective personality',
+          'The transition between heavy and acoustic sections became an Opeth trademark during his tenure',
+          'Has been open about mental health struggles, helping reduce stigma in metal community',
+          'Soen\'s sound deliberately avoids pure metal, showcasing his versatility'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Soen Official', url: 'https://www.soenmusic.com' },
+          { name: 'Opeth Official', url: 'https://www.opeth.com' },
+          { name: 'Modern Drummer Magazine', url: 'https://www.moderndrummer.com' },
+          { name: 'Wikipedia: Martin Lopez', url: 'https://en.wikipedia.org/wiki/Martin_Lopez' }
+        ]
+      }
+    }
+  },
+
+  // Travis Orbin - Periphery
+  'travis-orbin': {
+    slug: 'travis-orbin',
+    drummerId: 21,
+    name: 'Travis Orbin',
+    bands: [
+      { slug: 'periphery', period: '2009-2012', role: 'Drummer' },
+      { slug: 'darkest-hour', period: '2013-2015', role: 'Drummer' },
+      { slug: 'sky-harbor', period: '2012-present', role: 'Drummer' }
+    ],
+    metaTitle: 'Travis Orbin Biography - Periphery Founding Drummer & Djent Pioneer | MetalForge',
+    metaDescription: 'Complete biography of Travis Orbin, founding drummer of Periphery who helped define the djent genre. Explore his technical mastery, solo work, and influence on modern progressive metal.',
+    ogImage: '/images/drummers/travis-orbin.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Travis Orbin (born July 5, 1985, in Baltimore, Maryland) is an American drummer best known as the founding drummer of progressive metal band Periphery. His groundbreaking work on Periphery's self-titled debut album and early EPs helped define the "djent" genre and influenced a generation of progressive metal drummers.
+
+Orbin's technical prowess, creative use of polyrhythms, and ability to navigate complex time signatures made him an instant sensation in the progressive metal community. After leaving Periphery in 2012, he has continued as a session musician, solo artist, and member of bands like Sky Harbor and Darkest Hour, while also producing acclaimed drum playthrough videos and educational content.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '2009', event: 'Joined Periphery during the recording of their debut album' },
+          { year: '2010', event: 'Released "Periphery" debut album, helping launch the djent movement' },
+          { year: '2011', event: 'Released "Icarus" EP with Periphery' },
+          { year: '2012', event: 'Left Periphery; joined Sky Harbor' },
+          { year: '2013', event: 'Joined Darkest Hour for touring' },
+          { year: '2014', event: 'Released "Guiding Lights" with Sky Harbor' },
+          { year: '2016', event: 'Released solo drum interpretations and playthroughs gaining viral attention' },
+          { year: '2018', event: 'Continued session work and educational content' },
+          { year: '2020s', event: 'Active as session drummer, educator, and solo artist' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Travis Orbin's drumming style combines extreme technical proficiency with musicality and creativity. His approach to polyrhythmic playing and odd time signatures influenced the entire djent and progressive metal scene. He emphasizes groove within complexity.
+
+**Key Influences:**
+- **Tomas Haake (Meshuggah)**: Polyrhythmic foundation
+- **Thomas Lang**: Technical independence and facility
+- **Marco Minnemann**: Creative complexity
+- **Gospel and Fusion drummers**: Chops and groove
+
+**Signature Techniques:**
+- Complex polyrhythmic patterns with musical phrasing
+- Seamless navigation of odd time signatures
+- Creative ghost notes and linear patterns
+- Technical double bass work integrated with hand patterns
+- Musical interpretation of djent guitar rhythms`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Periphery - Periphery', year: 2010, label: 'Sumerian', note: 'Djent-defining debut' },
+          { name: 'Periphery - Icarus EP', year: 2011, label: 'Sumerian', note: 'EP before departure' },
+          { name: 'Sky Harbor - Guiding Lights', year: 2014, label: 'eOne', note: 'International progressive metal' },
+          { name: 'Darkest Hour - Various Tours', year: '2013-2015', note: 'Touring drummer' },
+          { name: 'Solo Playthroughs', year: 'Ongoing', note: 'YouTube drum interpretations' }
+        ],
+        tours: [
+          { name: 'Periphery Tours', year: '2009-2012', note: 'US and European touring' },
+          { name: 'Darkest Hour Tours', year: '2013-2015', note: 'Support touring' },
+          { name: 'Clinics and Masterclasses', year: 'Ongoing', note: 'Educational events' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Travis Orbin has used various drum brands throughout his career, with detailed gear explanations in his popular playthrough videos.
+
+**Typical Setup:**
+- **Drums**: Pearl Reference or Mapex Saturn (various eras)
+- **Snare**: 14"x5.5" or 14"x6" (various models)
+- **Cymbals**: Meinl Byzance series (Extra Dry, Traditional)
+- **Hardware**: DW 9000 or Pearl Eliminator double pedal
+- **Sticks**: Vic Firth (various sizes)
+- **Heads**: Evans (G2 or EC2)
+- **Electronics**: Roland triggers and pads for samples
+
+**Notable Features:**
+- Detailed gear breakdowns in playthrough videos
+- Uses triggers for consistency in recordings
+- Emphasizes feel and response in equipment choices
+- Known for meticulous drum tuning`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'His work on Periphery\'s debut album is considered foundational to the djent genre',
+          'Drum playthrough videos have garnered millions of views on YouTube',
+          'Left Periphery on good terms; Matt Halpern has acknowledged his influence',
+          'Known for incredibly detailed, educational playthrough videos',
+          'Has transcribed and performed drum covers of extremely complex music',
+          'Active on social media sharing educational content',
+          'Balances session work with solo artistic projects',
+          'His interpretation of songs often reveals layers not obvious in original recordings',
+          'Based in Baltimore, maintains active presence in local music scene'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Travis Orbin YouTube', url: 'https://www.youtube.com/@TravisOrbin' },
+          { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+          { name: 'Modern Drummer Magazine', url: 'https://www.moderndrummer.com' },
+          { name: 'Wikipedia: Travis Orbin', url: 'https://en.wikipedia.org/wiki/Travis_Orbin' }
+        ]
+      }
+    }
+  },
+
+  // Ryan Van Poederooyen - Devin Townsend
+  'ryan-van-poederooyen': {
+    slug: 'ryan-van-poederooyen',
+    drummerId: 22,
+    name: 'Ryan Van Poederooyen',
+    bands: [
+      { slug: 'devin-townsend', period: '1999-present', role: 'Drummer' },
+      { slug: 'devin-townsend-project', period: '2009-2018', role: 'Drummer' }
+    ],
+    metaTitle: 'Ryan Van Poederooyen Biography - Devin Townsend Drummer | MetalForge',
+    metaDescription: 'Complete biography of Ryan Van Poederooyen, longtime drummer for Devin Townsend. Explore his 25+ year collaboration, versatile drumming style, and contributions to progressive metal.',
+    ogImage: '/images/drummers/ryan-van-poederooyen.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Ryan Van Poederooyen is a Canadian drummer who has been the primary drummer for Devin Townsend and his various projects since 1999. His 25+ year collaboration with Townsend makes him one of the most consistent drummer-artist partnerships in progressive metal history.
+
+Van Poederooyen's versatile drumming has adapted to Townsend's constantly evolving musical vision, from the crushing heaviness of "Terria" and "Deconstruction" to the ambient soundscapes of "Ghost" and "Casualties of Cool." His ability to serve Townsend's diverse musical styles while maintaining powerful, precise drumming has made him an integral part of the Devin Townsend sound.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1999', event: 'Began collaboration with Devin Townsend' },
+          { year: '2001', event: 'Recorded "Terria" with Devin Townsend, acclaimed solo album' },
+          { year: '2003', event: 'Recorded "Accelerated Evolution" with Devin Townsend Band' },
+          { year: '2007', event: 'Recorded "Ziltoid the Omniscient," cult favorite concept album' },
+          { year: '2009', event: 'Joined Devin Townsend Project for new era' },
+          { year: '2011', event: 'Recorded "Deconstruction," one of heaviest Townsend albums' },
+          { year: '2012', event: 'Recorded "Epicloud," accessible yet powerful album' },
+          { year: '2014', event: 'Recorded "Z²: Dark Matters / Sky Blue" double album' },
+          { year: '2019', event: 'Recorded "Empath," ambitious and diverse album' },
+          { year: '2022', event: 'Recorded "Lightwork" with Devin Townsend' },
+          { year: '2023', event: 'Continued touring with Devin Townsend worldwide' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Ryan Van Poederooyen's drumming style is characterized by power, precision, and remarkable versatility. His ability to shift between extreme metal intensity and subtle, ambient playing makes him the perfect drummer for Devin Townsend's eclectic musical vision.
+
+**Key Influences:**
+- **Gene Hoglan**: Technical death/thrash metal drumming (also a Townsend collaborator)
+- **Dave Lombardo (Slayer)**: Thrash metal power and speed
+- **Progressive metal drummers**: Complex time signatures and dynamics
+- **Session drummers**: Versatility and adaptability
+
+**Signature Techniques:**
+- Powerful, driving double bass patterns
+- Ability to play with extreme dynamics (whisper to crushing)
+- Tasteful playing that serves Townsend's complex arrangements
+- Seamless transitions between metal and ambient sections
+- Professional consistency across diverse musical styles`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Devin Townsend - Terria', year: 2001, label: 'HevyDevy', note: 'Ambient metal masterpiece' },
+          { name: 'Devin Townsend Band - Accelerated Evolution', year: 2003, label: 'HevyDevy', note: 'Band format debut' },
+          { name: 'Devin Townsend - Ziltoid the Omniscient', year: 2007, label: 'HevyDevy', note: 'Cult classic concept album' },
+          { name: 'Devin Townsend Project - Ki', year: 2009, label: 'HevyDevy', note: 'DTP launch' },
+          { name: 'Devin Townsend Project - Deconstruction', year: 2011, label: 'HevyDevy', note: 'Extreme metal opus' },
+          { name: 'Devin Townsend Project - Epicloud', year: 2012, label: 'HevyDevy', note: 'Accessible power' },
+          { name: 'Devin Townsend - Transcendence', year: 2016, label: 'HevyDevy', note: 'Collaborative writing' },
+          { name: 'Devin Townsend - Empath', year: 2019, label: 'HevyDevy', note: 'Genre-spanning epic' },
+          { name: 'Devin Townsend - Lightwork', year: 2022, label: 'InsideOut', note: 'Most recent studio album' }
+        ],
+        tours: [
+          { name: 'Devin Townsend World Tours', year: '1999-Present', note: 'Extensive global touring' },
+          { name: 'Retinal Circus', year: '2012', note: 'London spectacular concert' },
+          { name: 'Empath Tour', year: '2019-2020', note: 'Pre-pandemic touring' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Ryan Van Poederooyen has used various drum brands throughout his career, adapting his setup to suit Townsend's diverse musical requirements.
+
+**Typical Setup:**
+- **Drums**: Tama Starclassic or Pearl (various eras)
+- **Snare**: 14"x6.5" (various metals and woods)
+- **Cymbals**: Sabian (AAX, HHX series)
+- **Hardware**: Tama Iron Cobra or DW 9000 double pedal
+- **Sticks**: Vic Firth (various models)
+- **Heads**: Evans or Remo
+
+**Setup Philosophy:**
+- Versatile setup capable of extreme dynamics
+- Reliable equipment for extensive touring
+- Adapts configuration to album/tour requirements
+- Emphasizes power and clarity across diverse musical styles`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'One of the longest-running collaborations in progressive metal (25+ years)',
+          'Has played on nearly every Devin Townsend solo and band album since 1999',
+          'Gene Hoglan (Strapping Young Lad) was Townsend\'s previous drummer, setting a high bar',
+          '"Deconstruction" is considered one of the most demanding drum performances in prog metal',
+          'Known for his professionalism and consistency',
+          'Has adapted to Townsend\'s constantly shifting musical directions',
+          'Canadian musician based in Vancouver area',
+          'Relatively media-shy compared to Townsend, letting drumming speak for itself',
+          'The "Retinal Circus" live performance showcased his versatility across Townsend\'s catalog'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Devin Townsend Official', url: 'https://www.hevydevy.com' },
+          { name: 'Tama Drums', url: 'https://www.tama.com' },
+          { name: 'Sabian', url: 'https://www.sabian.com' },
+          { name: 'Wikipedia: Devin Townsend', url: 'https://en.wikipedia.org/wiki/Devin_Townsend' }
         ]
       }
     }

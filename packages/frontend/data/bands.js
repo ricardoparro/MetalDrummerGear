@@ -1,7 +1,7 @@
 /**
  * Band data structure for MetalForge
  * Contains band information with drummer history
- * Combined data from multiple PRs (#352, #360, #349)
+ * Combined data from multiple PRs (#352, #360, #349, #361)
  */
 
 export const bands = {
@@ -410,6 +410,74 @@ export const bands = {
     relatedBands: ["liquid-tension-experiment", "transatlantic", "sons-of-apollo"],
     drummerIds: [13, 52],
     associatedBrands: ["Tama", "Pearl", "Sabian", "Vic Firth"],
+  },
+
+  death: {
+    slug: "death",
+    name: "Death",
+    formed: 1984,
+    disbanded: 2001,
+    origin: "Altamonte Springs, Florida, USA",
+    genres: ["death-metal", "progressive-death-metal", "technical-death-metal"],
+    status: "disbanded",
+
+    metaTitle: "Death - Pioneers of Death Metal | Drummer History & Legacy | MetalForge",
+    metaDescription:
+      "Discover Death, the pioneering death metal band founded by Chuck Schuldiner. Explore their legendary drummers including Sean Reinert, Gene Hoglan, and Richard Christy.",
+    summary:
+      "Death, formed in 1984 by Chuck Schuldiner, is widely credited as one of the founding bands of the death metal genre.",
+    keywords: [
+      "death",
+      "death metal",
+      "chuck schuldiner",
+      "sean reinert",
+      "gene hoglan",
+      "richard christy",
+      "technical death metal",
+      "florida death metal",
+    ],
+
+    history: {
+      overview:
+        "Death is one of the most important bands in extreme metal. Founded by Chuck Schuldiner in 1984, the band pioneered death metal across seven studio albums.",
+      legacy:
+        "Death helped establish death metal and pushed boundaries with progressive compositions. Chuck Schuldiner passed away December 13, 2001, from brain cancer at age 34.",
+    },
+
+    achievements: [
+      "Pioneers of the death metal genre",
+      "Seven studio albums (1987-1998)",
+      "Influenced countless bands across death metal",
+    ],
+
+    discography: [
+      { album: "Scream Bloody Gore", year: 1987, drummer: "chris-reifert", note: "First true death metal album" },
+      { album: "Leprosy", year: 1988, drummer: "bill-andrews" },
+      { album: "Spiritual Healing", year: 1990, drummer: "bill-andrews" },
+      { album: "Human", year: 1991, drummer: "sean-reinert", note: "Landmark progressive death metal" },
+      { album: "Individual Thought Patterns", year: 1993, drummer: "gene-hoglan", note: "Technical masterpiece" },
+      { album: "Symbolic", year: 1995, drummer: "gene-hoglan", note: "Magnum opus" },
+      { album: "The Sound of Perseverance", year: 1998, drummer: "richard-christy", note: "Final album" },
+    ],
+
+    drummerHistory: [
+      { drummer: "kam-lee", name: "Kam Lee", period: "1984-1985", albums: [], notes: "Original drummer" },
+      { drummer: "chris-reifert", name: "Chris Reifert", period: "1986-1987", albums: ["Scream Bloody Gore"], notes: "Later founded Autopsy" },
+      { drummer: "bill-andrews", name: "Bill Andrews", period: "1987-1990", albums: ["Leprosy", "Spiritual Healing"], notes: "Technical precision" },
+      { drummer: "sean-reinert", name: "Sean Reinert", period: "1991-1992", albums: ["Human"], notes: "Jazz-influenced, later formed Cynic" },
+      { drummer: "gene-hoglan", name: "Gene Hoglan", period: "1993-1995", albums: ["Individual Thought Patterns", "Symbolic"], notes: "The Atomic Clock" },
+      { drummer: "richard-christy", name: "Richard Christy", period: "1996-2001", albums: ["The Sound of Perseverance"], notes: "Final Death drummer" },
+    ],
+
+    relatedBands: ["cynic", "atheist", "pestilence", "obituary", "morbid-angel", "autopsy", "control-denied"],
+
+    faq: [
+      { question: "Who founded Death?", answer: "Death was founded by Chuck Schuldiner in 1984 in Florida." },
+      { question: "Why is Death considered pioneers of death metal?", answer: "Their 1987 debut Scream Bloody Gore is widely regarded as one of the first true death metal albums." },
+      { question: "Who were the drummers in Death?", answer: "Kam Lee, Chris Reifert, Bill Andrews, Sean Reinert, Gene Hoglan, and Richard Christy." },
+      { question: "What happened to Chuck Schuldiner?", answer: "Chuck passed away December 13, 2001, from brain cancer at age 34." },
+      { question: "What is Death's best album?", answer: "Symbolic (1995) and Human (1991) are often cited as Death's greatest albums." },
+    ],
   },
 };
 

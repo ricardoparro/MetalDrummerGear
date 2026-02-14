@@ -25,6 +25,13 @@ const drummers = [
       'https://www.discogs.com/artist/252889-Lars-Ulrich',
       'https://www.allmusic.com/artist/lars-ulrich-mn0000849521'
     ],
+    bandLinks: [
+      { name: 'Official Website', url: 'https://www.metallica.com', icon: '🌐' },
+      { name: 'Spotify', url: 'https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB', icon: '🎵' },
+      { name: 'Instagram', url: 'https://www.instagram.com/metallica/', icon: '📷' },
+      { name: 'YouTube', url: 'https://www.youtube.com/user/MetallicaTV', icon: '📺' },
+      { name: 'Wikipedia', url: 'https://en.wikipedia.org/wiki/Metallica', icon: '📖' }
+    ],
     gear: {
       drums: 'Tama Star Classic Maple',
       snare: 'Tama LU1465 Lars Ulrich Signature 14x6.5"',
@@ -146,6 +153,13 @@ const drummers = [
       'https://en.wikipedia.org/wiki/Joey_Jordison',
       'https://www.discogs.com/artist/355738-Joey-Jordison',
       'https://www.allmusic.com/artist/joey-jordison-mn0000796491'
+    ],
+    bandLinks: [
+      { name: 'Official Website', url: 'https://www.slipknot1.com', icon: '🌐' },
+      { name: 'Spotify', url: 'https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8', icon: '🎵' },
+      { name: 'Instagram', url: 'https://www.instagram.com/slipknot/', icon: '📷' },
+      { name: 'YouTube', url: 'https://www.youtube.com/user/slaboratory', icon: '📺' },
+      { name: 'Wikipedia', url: 'https://en.wikipedia.org/wiki/Slipknot_(band)', icon: '📖' }
     ],
     gear: {
       drums: 'Pearl Masters Premium Maple',
@@ -374,6 +388,13 @@ const drummers = [
       'https://www.discogs.com/artist/252908-Dave-Lombardo',
       'https://www.allmusic.com/artist/dave-lombardo-mn0000134767'
     ],
+    bandLinks: [
+      { name: 'Official Website', url: 'https://www.slayer.net', icon: '🌐' },
+      { name: 'Spotify', url: 'https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk', icon: '🎵' },
+      { name: 'Instagram', url: 'https://www.instagram.com/slaboratoryofficial/', icon: '📷' },
+      { name: 'YouTube', url: 'https://www.youtube.com/user/SLABORATORY', icon: '📺' },
+      { name: 'Wikipedia', url: 'https://en.wikipedia.org/wiki/Slayer', icon: '📖' }
+    ],
     gear: {
       drums: 'Pearl Masters Maple Complete',
       snare: 'Pearl Dave Lombardo Signature 14x5.5"',
@@ -423,6 +444,13 @@ const drummers = [
       'https://en.wikipedia.org/wiki/Tomas_Haake',
       'https://www.discogs.com/artist/281578-Tomas-Haake',
       'https://www.allmusic.com/artist/tomas-haake-mn0001678091'
+    ],
+    bandLinks: [
+      { name: 'Official Website', url: 'https://www.meshuggah.net', icon: '🌐' },
+      { name: 'Spotify', url: 'https://open.spotify.com/artist/5gk5hrCkYAeVj0Uvfp2Iui', icon: '🎵' },
+      { name: 'Instagram', url: 'https://www.instagram.com/mesaborband/', icon: '📷' },
+      { name: 'YouTube', url: 'https://www.youtube.com/user/MeshuggahOfficial', icon: '📺' },
+      { name: 'Wikipedia', url: 'https://en.wikipedia.org/wiki/Meshuggah', icon: '📖' }
     ],
     gear: {
       drums: 'Sonor SQ2 Heavy Beech',
@@ -696,6 +724,13 @@ const drummers = [
       'https://www.discogs.com/artist/252951-Mike-Portnoy',
       'https://www.allmusic.com/artist/mike-portnoy-mn0000375541'
     ],
+    bandLinks: [
+      { name: 'Official Website', url: 'https://dreamtheater.net', icon: '🌐' },
+      { name: 'Spotify', url: 'https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep', icon: '🎵' },
+      { name: 'Instagram', url: 'https://www.instagram.com/dreamtheaterofficial/', icon: '📷' },
+      { name: 'YouTube', url: 'https://www.youtube.com/user/dreamtheater', icon: '📺' },
+      { name: 'Wikipedia', url: 'https://en.wikipedia.org/wiki/Dream_Theater', icon: '📖' }
+    ],
     gear: {
       drums: 'Tama Starclassic Maple/Birch',
       snare: 'Tama Mike Portnoy Signature Melody Master 14x5.5"',
@@ -734,6 +769,13 @@ const drummers = [
       'https://www.instagram.com/dannycareyofficial/',
       'https://www.discogs.com/artist/252943-Danny-Carey',
       'https://www.allmusic.com/artist/danny-carey-mn0000137137'
+    ],
+    bandLinks: [
+      { name: 'Official Website', url: 'https://toolband.com', icon: '🌐' },
+      { name: 'Spotify', url: 'https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8', icon: '🎵' },
+      { name: 'Instagram', url: 'https://www.instagram.com/toolmusic/', icon: '📷' },
+      { name: 'YouTube', url: 'https://www.youtube.com/user/ToolArchive', icon: '📺' },
+      { name: 'Wikipedia', url: 'https://en.wikipedia.org/wiki/Tool_(band)', icon: '📖' }
     ],
     gear: {
       drums: 'Sonor SQ2 Heavy Beech',

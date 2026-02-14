@@ -55,6 +55,9 @@ import {
 // Extended bios for drummer detail pages (Issue #305)
 import { getExtendedBio, hasExtendedBio } from './data/extendedBios';
 
+// Band data with drummer history (Issue #349)
+import { getBand, getAllBands, hasBand, getAllBandSlugs } from './data/bands';
+
 // ==========================================
 // TOP 10 LISTS - Loaded dynamically for code splitting
 // ==========================================
@@ -2547,6 +2550,55 @@ function SimilarDrummersSection({ drummer, allDrummers, theme, onSelectDrummer }
   );
 }
 
+// ==========================================
+// BAND LINKS SECTION - Display band social/website links (Issue #351)
+// ==========================================
+
+function BandLinksSection({ bandLinks, bandName, theme }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+
+  if (!bandLinks || bandLinks.length === 0) {
+    return null;
+  }
+
+  const handleLinkPress = (url) => {
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.open(url, '_blank', 'noopener,noreferrer');
+    } else {
+      Linking.openURL(url);
+    }
+  };
+
+  // Extract primary band name (before any / or ,)
+  const primaryBand = bandName.split(/[\/,]/)[0].trim();
+
+  return (
+    <View style={[styles.section, styles.bandLinksSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+      <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">
+        🎸 {primaryBand} Links
+      </Text>
+      <Text style={[styles.bandLinksSubtitle, { color: theme.secondaryText }]}>
+        Connect with the band on their official channels
+      </Text>
+      <View style={[styles.bandLinksGrid, isMobile && styles.bandLinksGridMobile]}>
+        {bandLinks.map((link, index) => (
+          <TouchableOpacity
+            key={index}
+            onPress={() => handleLinkPress(link.url)}
+            style={[styles.bandLinkCard, { backgroundColor: theme.background, borderColor: theme.border }]}
+            accessibilityRole="link"
+            accessibilityLabel={`Visit ${primaryBand} on ${link.name}`}
+          >
+            <Text style={styles.bandLinkIcon}>{link.icon || '🔗'}</Text>
+            <Text style={[styles.bandLinkName, { color: theme.text }]}>{link.name}</Text>
+          </TouchableOpacity>
+        ))}
+      </View>
+    </View>
+  );
+}
+
 function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit, allDrummers = [], onNavigateToBio }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
@@ -4218,6 +4270,123 @@ function SpotlightsArchivePage({ theme, onBack, drummers, onSelectDrummer }) {
   );
 }
 
+// ==========================================
+// BANDS PAGE - Issue #347
+// ==========================================
+const BANDS_API_URL = typeof window !== 'undefined' && window.location.hostname !== 'localhost' ? '/api/bands' : 'http://localhost:3001/api/bands';
+
+function BandsPage({ theme, onBack, onSelectDrummer }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const [bands, setBands] = useState([]);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
+  const [selectedGenre, setSelectedGenre] = useState('');
+  const [genres, setGenres] = useState([]);
+
+  useEffect(() => {
+    const fetchBands = async () => {
+      setLoading(true);
+      try {
+        const url = selectedGenre ? `${BANDS_API_URL}?genre=${encodeURIComponent(selectedGenre)}` : BANDS_API_URL;
+        const response = await fetch(url);
+        if (!response.ok) throw new Error('Failed to fetch bands');
+        setBands(await response.json());
+      } catch (err) { setError(err.message); }
+      finally { setLoading(false); }
+    };
+    fetchBands();
+  }, [selectedGenre]);
+
+  useEffect(() => {
+    fetch(`${BANDS_API_URL}/meta/genres`).then(r => r.json()).then(setGenres).catch(() => {});
+  }, []);
+
+  useEffect(() => {
+    if (Platform.OS === 'web' && typeof document !== 'undefined') {
+      document.title = 'Metal Bands - Explore Bands and Their Drummers | MetalForge';
+      const setMeta = (name, content, isProperty = false) => { const attr = isProperty ? 'property' : 'name'; let meta = document.querySelector(`meta[${attr}="${name}"]`); if (!meta) { meta = document.createElement('meta'); meta.setAttribute(attr, name); document.head.appendChild(meta); } meta.setAttribute('content', content); };
+      setMeta('description', 'Explore metal bands and their drummer history. From thrash legends to progressive masters.');
+      setMeta('og:title', 'Metal Bands | MetalForge', true);
+      setMeta('og:description', 'Explore metal bands and their drummer history.', true);
+    }
+  }, []);
+
+  if (loading) return (<View style={[styles.centerContainer, { backgroundColor: theme.background }]}><ActivityIndicator size="large" color={theme.primary} /><Text style={[styles.loadingText, { color: theme.secondaryText }]}>Loading bands...</Text></View>);
+  if (error) return (<ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}><View style={styles.detailContent}><TouchableOpacity onPress={onBack} style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}><Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Home</Text></TouchableOpacity><Text style={[styles.errorText, { color: theme.error }]}>{error}</Text></View></ScrollView>);
+
+  return (
+    <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+      <View style={styles.detailContent}>
+        <TouchableOpacity onPress={onBack} style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]} accessibilityRole="button" accessibilityLabel="Go back to home">
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Home</Text>
+        </TouchableOpacity>
+        <Text style={[bandsStyles.pageTitle, { color: theme.text }]} accessibilityRole="header">🎸 Metal Bands</Text>
+        <Text style={[bandsStyles.pageSubtitle, { color: theme.secondaryText }]}>Explore metal bands and their drummer history</Text>
+        <View style={[bandsStyles.filterSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[bandsStyles.filterLabel, { color: theme.text }]}>Filter by Genre:</Text>
+          <ScrollView horizontal showsHorizontalScrollIndicator={false} style={bandsStyles.filterScroll}>
+            <TouchableOpacity onPress={() => setSelectedGenre('')} style={[bandsStyles.filterChip, { backgroundColor: !selectedGenre ? '#dc2626' : theme.border }]}><Text style={[bandsStyles.filterChipText, { color: !selectedGenre ? '#fff' : theme.text }]}>All Genres</Text></TouchableOpacity>
+            {genres.map(genre => (<TouchableOpacity key={genre} onPress={() => setSelectedGenre(genre)} style={[bandsStyles.filterChip, { backgroundColor: selectedGenre === genre ? '#dc2626' : theme.border }]}><Text style={[bandsStyles.filterChipText, { color: selectedGenre === genre ? '#fff' : theme.text }]}>{genre}</Text></TouchableOpacity>))}
+          </ScrollView>
+        </View>
+        <Text style={[bandsStyles.bandsCount, { color: theme.secondaryText }]}>{bands.length} band{bands.length !== 1 ? 's' : ''} found</Text>
+        <View style={[bandsStyles.bandsGrid, isMobile && bandsStyles.bandsGridMobile]}>
+          {bands.map(band => (
+            <View key={band.id} style={[bandsStyles.bandCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
+              <ImageWithFallback source={{ uri: band.image }} style={bandsStyles.bandImage} accessibilityLabel={`${band.name} album art`} width={280} height={180} imageContext="gallery" />
+              <View style={bandsStyles.bandInfo}>
+                <Text style={[bandsStyles.bandName, { color: theme.text }]} numberOfLines={1}>{band.name}</Text>
+                <View style={bandsStyles.bandGenres}>{band.genres.slice(0, 2).map(genre => (<Text key={genre} style={[bandsStyles.genreTag, { backgroundColor: theme.border, color: theme.text }]}>{genre}</Text>))}</View>
+                <Text style={[bandsStyles.bandMeta, { color: theme.secondaryText }]}>{band.country} • Est. {band.formed}</Text>
+                <Text style={[bandsStyles.bandDescription, { color: theme.secondaryText }]} numberOfLines={2}>{band.description}</Text>
+                {band.drummers && band.drummers.length > 0 && (
+                  <View style={bandsStyles.drummersSection}>
+                    <Text style={[bandsStyles.drummersLabel, { color: theme.text }]}>Drummers:</Text>
+                    <View style={bandsStyles.drummersList}>
+                      {band.drummers.map(drummer => (<TouchableOpacity key={drummer.id} onPress={() => onSelectDrummer(drummer.id)} style={[bandsStyles.drummerChip, { backgroundColor: theme.border }]} accessibilityRole="button" accessibilityLabel={`View ${drummer.name}'s profile`}><ImageWithFallback source={{ uri: drummer.image }} style={bandsStyles.drummerChipImage} width={24} height={24} imageContext="thumbnail" /><Text style={[bandsStyles.drummerChipText, { color: theme.text }]}>{drummer.name}</Text></TouchableOpacity>))}
+                    </View>
+                  </View>
+                )}
+              </View>
+            </View>
+          ))}
+        </View>
+        {bands.length === 0 && (<View style={bandsStyles.noBandsContainer}><Text style={[bandsStyles.noBandsText, { color: theme.secondaryText }]}>No bands found{selectedGenre ? ` for "${selectedGenre}"` : ''}.</Text></View>)}
+      </View>
+    </ScrollView>
+  );
+}
+
+const bandsStyles = StyleSheet.create({
+  pageTitle: { fontSize: 32, fontWeight: 'bold', marginBottom: 8, marginTop: 16 },
+  pageSubtitle: { fontSize: 16, marginBottom: 24, lineHeight: 24 },
+  filterSection: { padding: 16, borderRadius: 12, borderWidth: 1, marginBottom: 16 },
+  filterLabel: { fontSize: 14, fontWeight: '600', marginBottom: 12 },
+  filterScroll: { flexDirection: 'row' },
+  filterChip: { paddingHorizontal: 16, paddingVertical: 8, borderRadius: 20, marginRight: 8 },
+  filterChipText: { fontSize: 14, fontWeight: '500' },
+  bandsCount: { fontSize: 14, marginBottom: 16 },
+  bandsGrid: { flexDirection: 'row', flexWrap: 'wrap', gap: 20 },
+  bandsGridMobile: { flexDirection: 'column' },
+  bandCard: { width: '48%', minWidth: 280, borderRadius: 12, borderWidth: 1, overflow: 'hidden' },
+  bandImage: { width: '100%', height: 160, backgroundColor: '#1a1a1a' },
+  bandInfo: { padding: 16 },
+  bandName: { fontSize: 20, fontWeight: '700', marginBottom: 8 },
+  bandGenres: { flexDirection: 'row', flexWrap: 'wrap', gap: 6, marginBottom: 8 },
+  genreTag: { fontSize: 11, paddingHorizontal: 8, paddingVertical: 4, borderRadius: 12, overflow: 'hidden' },
+  bandMeta: { fontSize: 13, marginBottom: 8 },
+  bandDescription: { fontSize: 14, lineHeight: 20, marginBottom: 12 },
+  drummersSection: { marginTop: 8, paddingTop: 12, borderTopWidth: 1, borderTopColor: 'rgba(255,255,255,0.1)' },
+  drummersLabel: { fontSize: 12, fontWeight: '600', marginBottom: 8 },
+  drummersList: { flexDirection: 'row', flexWrap: 'wrap', gap: 8 },
+  drummerChip: { flexDirection: 'row', alignItems: 'center', paddingHorizontal: 10, paddingVertical: 6, borderRadius: 16, gap: 6 },
+  drummerChipImage: { width: 24, height: 24, borderRadius: 12 },
+  drummerChipText: { fontSize: 13, fontWeight: '500' },
+  noBandsContainer: { padding: 40, alignItems: 'center' },
+  noBandsText: { fontSize: 16, textAlign: 'center' },
+});
+
 // Gear By Budget Page - shows drummers organized by kit cost
 function GearByBudgetPage({ theme, onBack, drummers, onSelectDrummer }) {
   const { width } = useWindowDimensions();
@@ -5253,6 +5422,7 @@ function DrummerList({
   onNavigateToGearByBudget,
   onNavigateToList,
   onNavigateToGearFinder,
+  onNavigateToBands,
   spotlight,
   filters,
   onFilterChange,
@@ -5363,6 +5533,16 @@ function DrummerList({
           accessibilityLabel="Search drummers by gear"
         >
           <Text style={[styles.quizButtonText, { color: '#ffffff' }]}>🔍 Gear Finder</Text>
+        </TouchableOpacity>
+      </View>
+      <View style={[styles.actionButtonsRow, { marginTop: -8 }]}>
+        <TouchableOpacity
+          onPress={onNavigateToBands}
+          style={[styles.compareButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          accessibilityRole="button"
+          accessibilityLabel="Explore metal bands and their drummers"
+        >
+          <Text style={[styles.compareButtonText, { color: theme.text }]}>🎸 Bands</Text>
         </TouchableOpacity>
       </View>
       {/* Drummer Spotlight Section */}
@@ -7250,6 +7430,8 @@ function AppContent() {
   const [showQuiz, setShowQuiz] = useState(() => isQuizPage());
   const [showPrivacy, setShowPrivacy] = useState(() => isPrivacyPage());
   const [showQuotes, setShowQuotes] = useState(() => isQuotesPage());
+  const [showGearComparison, setShowGearComparison] = useState(() => isGearComparisonPage());
+  const [comparisonSlug, setComparisonSlug] = useState(() => getComparisonSlugFromURL());
   const [showSpotlights, setShowSpotlights] = useState(() => isSpotlightsPage());
   const [showGearByBudget, setShowGearByBudget] = useState(() => isGearByBudgetPage());
   const [showList, setShowList] = useState(() => isListPage());
@@ -7263,6 +7445,10 @@ function AppContent() {
   // Extended Bio Page state (Issue #305)
   const [showBioPage, setShowBioPage] = useState(() => isBioPage());
   const [bioSlug, setBioSlug] = useState(() => getDrummerBioSlugFromURL());
+
+  // Band Detail Page state (Issue #349)
+  const [showBandDetail, setShowBandDetail] = useState(() => isBandDetailPage());
+  const [bandSlug, setBandSlug] = useState(() => getBandSlugFromURL());
 
   // Search and filter state
   const [filters, setFilters] = useState(() => getFiltersFromURL());
@@ -7628,6 +7814,20 @@ function AppContent() {
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
+      } else if (isBandDetailPage()) {
+        // Band detail page (Issue #349)
+        const slug = getBandSlugFromURL();
+        setShowBandDetail(true);
+        setBandSlug(slug);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
       } else {
         // Back to home page
         setShowCompare(false);
@@ -7636,6 +7836,8 @@ function AppContent() {
         setShowQuotes(false);
         setShowBioPage(false);
         setBioSlug(null);
+        setShowBandDetail(false);
+        setBandSlug(null);
         setSelectedGear(null);
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
@@ -8013,6 +8215,41 @@ setShowList(false);
     }
   };
 
+  // Navigate to band detail page (Issue #349)
+  const handleNavigateToBand = (slug) => {
+    setShowBandDetail(true);
+    setBandSlug(slug);
+    // Reset other views
+    setShowGearFinder(false);
+    setShowGearByBudget(false);
+    setShowList(false);
+    setListSlug(null);
+    setShowSpotlights(false);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowPrivacy(false);
+    setShowQuotes(false);
+    setShowBioPage(false);
+    setBioSlug(null);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    // Update URL
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', `/bands/${slug}`);
+    }
+  };
+
+  // Handle back from band detail page
+  const handleBackFromBand = () => {
+    setShowBandDetail(false);
+    setBandSlug(null);
+    // Navigate back to home
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/');
+    }
+  };
+
   const handleCompareYourKit = (drummer) => {
     setCompareKitDrummer(drummer);
     setShowCompareYourKit(true);
@@ -8174,6 +8411,21 @@ setShowList(false);
         />
       );
     }
+    // Bands Page (Issue #347)
+    if (showBands) {
+      return (
+        <BandsPage
+          theme={theme}
+          onBack={() => {
+            setShowBands(false);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/');
+            }
+          }}
+          onSelectDrummer={handleSelectDrummer}
+        />
+      );
+    }
     // Extended Bio Page (Issue #305)
     if (showBioPage && selectedDrummer) {
       return (
@@ -8182,6 +8434,18 @@ setShowList(false);
           onBack={handleBackFromBio}
           drummer={selectedDrummer}
           onSelectDrummer={handleSelectDrummer}
+        />
+      );
+    }
+    // Band Detail Page (Issue #349)
+    if (showBandDetail && bandSlug) {
+      return (
+        <BandDetailPage
+          bandSlug={bandSlug}
+          drummers={drummers}
+          onBack={handleBackFromBand}
+          onSelectDrummer={handleSelectDrummer}
+          theme={theme}
         />
       );
     }
@@ -8205,6 +8469,7 @@ setShowList(false);
           onNavigateToGearByBudget={handleNavigateToGearByBudget}
           onNavigateToList={handleNavigateToList}
           onNavigateToGearFinder={handleNavigateToGearFinder}
+          onNavigateToBands={handleNavigateToBands}
           spotlight={getCurrentSpotlightDrummer(drummers)}
           filters={filters}
           onFilterChange={handleFilterChange}
@@ -8569,6 +8834,171 @@ const styles = StyleSheet.create({
     fontSize: 16,
     fontWeight: '600',
   },
+
+  // ==========================================
+  // BAND DETAIL PAGE & DRUMMER HISTORY STYLES (Issue #349)
+  // ==========================================
+  bandPageHeader: {
+    flexDirection: 'row',
+    alignItems: 'flex-start',
+    marginBottom: 24,
+    gap: 20,
+  },
+  bandPageHeaderMobile: {
+    flexDirection: 'column',
+    alignItems: 'center',
+    textAlign: 'center',
+  },
+  bandPageHeaderText: {
+    flex: 1,
+  },
+  bandNameRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 12,
+    marginBottom: 8,
+    flexWrap: 'wrap',
+  },
+  bandPageTitle: {
+    fontSize: 32,
+    fontWeight: 'bold',
+  },
+  bandPageSubtitle: {
+    fontSize: 18,
+    marginBottom: 12,
+  },
+  bandStatusBadge: {
+    paddingHorizontal: 12,
+    paddingVertical: 4,
+    borderRadius: 16,
+  },
+  bandStatusText: {
+    color: '#ffffff',
+    fontSize: 12,
+    fontWeight: '600',
+    textTransform: 'uppercase',
+  },
+  bandGenres: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 8,
+  },
+  bandGenreTag: {
+    paddingHorizontal: 12,
+    paddingVertical: 6,
+    borderRadius: 16,
+  },
+  bandGenreText: {
+    fontSize: 13,
+    fontWeight: '500',
+  },
+  bandSummarySection: {
+    padding: 20,
+    borderRadius: 12,
+    borderWidth: 1,
+    marginBottom: 20,
+  },
+  bandSummaryText: {
+    fontSize: 16,
+    lineHeight: 26,
+  },
+  drummerHistorySection: {
+    padding: 20,
+    borderRadius: 12,
+    borderWidth: 1,
+    marginBottom: 20,
+  },
+  drummerHistorySectionMobile: {
+    padding: 16,
+  },
+  drummerHistorySectionTitle: {
+    fontSize: 18,
+    fontWeight: 'bold',
+    letterSpacing: 1,
+    marginBottom: 16,
+    borderBottomWidth: 2,
+    borderBottomColor: '#dc2626',
+    paddingBottom: 12,
+  },
+  drummerHistoryList: {
+    gap: 0,
+  },
+  drummerHistoryItem: {
+    flexDirection: 'row',
+    paddingVertical: 16,
+    gap: 16,
+    alignItems: 'flex-start',
+  },
+  drummerHistoryLeft: {
+    alignItems: 'center',
+    gap: 8,
+  },
+  drummerHistoryIcon: {
+    fontSize: 20,
+  },
+  drummerHistoryImage: {
+    width: 50,
+    height: 50,
+    borderRadius: 25,
+    overflow: 'hidden',
+  },
+  drummerHistoryContent: {
+    flex: 1,
+  },
+  drummerHistoryHeader: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 8,
+    flexWrap: 'wrap',
+    marginBottom: 4,
+  },
+  drummerHistoryName: {
+    fontSize: 18,
+    fontWeight: '600',
+  },
+  drummerHistoryPeriod: {
+    fontSize: 14,
+  },
+  drummerHistoryNotes: {
+    fontSize: 14,
+    fontStyle: 'italic',
+    marginBottom: 8,
+  },
+  drummerHistoryLink: {
+    marginTop: 4,
+  },
+  drummerHistoryLinkText: {
+    color: '#60a5fa',
+    fontSize: 14,
+    fontWeight: '500',
+  },
+  relatedBandsSection: {
+    padding: 20,
+    borderRadius: 12,
+    borderWidth: 1,
+    marginBottom: 20,
+  },
+  relatedBandsSectionTitle: {
+    fontSize: 18,
+    fontWeight: 'bold',
+    letterSpacing: 1,
+    marginBottom: 16,
+  },
+  relatedBandsList: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 10,
+  },
+  relatedBandTag: {
+    paddingHorizontal: 16,
+    paddingVertical: 8,
+    borderRadius: 20,
+  },
+  relatedBandText: {
+    fontSize: 14,
+    fontWeight: '500',
+  },
+
   // Notable Quotes styles
   quotesSectionHeader: {
     flexDirection: 'row',
@@ -11208,6 +11638,8 @@ const styles = StyleSheet.create({
     fontSize: 16,
     textAlign: 'center',
   },
+  // CALENDAR STYLES (#343)
+  calendarPageTitle:{fontSize:32,fontWeight:'bold',marginBottom:8,marginTop:16},calendarPageSubtitle:{fontSize:16,marginBottom:24},calendarTodaySection:{padding:20,borderRadius:12,borderWidth:2,marginBottom:24},calendarTodaySectionTitle:{fontSize:20,fontWeight:'bold',marginBottom:16},calendarTodayCard:{flexDirection:'row',alignItems:'center',padding:12,borderRadius:10,borderWidth:1,marginBottom:8},calendarTodayImage:{width:60,height:60,borderRadius:30,marginRight:12},calendarTodayInfo:{flex:1},calendarTodayName:{fontSize:18,fontWeight:'600'},calendarTodayBand:{fontSize:14,marginBottom:4},calendarTodayAge:{fontSize:14,fontWeight:'600'},calendarUpcomingSection:{padding:20,borderRadius:12,borderWidth:1,marginBottom:24},calendarUpcomingTitle:{fontSize:20,fontWeight:'bold',marginBottom:16},calendarUpcomingItem:{flexDirection:'row',alignItems:'center',paddingVertical:12,borderBottomWidth:1},calendarUpcomingDate:{width:50,alignItems:'center',marginRight:12},calendarUpcomingDay:{fontSize:22,fontWeight:'bold'},calendarUpcomingMonth:{fontSize:12,textTransform:'uppercase'},calendarUpcomingInfo:{flex:1},calendarUpcomingName:{fontSize:16,fontWeight:'600'},calendarUpcomingBand:{fontSize:13},calendarMonthGrid:{flexDirection:'row',flexWrap:'wrap',gap:12,marginBottom:24},calendarMonthGridMobile:{gap:8},calendarMonthCard:{width:'31%',padding:16,borderRadius:10,borderWidth:1,alignItems:'center'},calendarMonthName:{fontSize:16,fontWeight:'600',marginBottom:4},calendarMonthCount:{fontSize:12},calendarMonthCurrent:{fontSize:10,color:'#dc2626',fontWeight:'600',marginTop:4},calendarExpandedMonth:{padding:20,borderRadius:12,borderWidth:1,marginBottom:24},calendarExpandedHeader:{flexDirection:'row',justifyContent:'space-between',alignItems:'center',marginBottom:16},calendarExpandedItem:{flexDirection:'row',alignItems:'center',paddingVertical:12,borderBottomWidth:1},calendarDateHeader:{padding:24,borderRadius:12,borderWidth:1,marginBottom:24,alignItems:'center'},calendarTodayBadge:{backgroundColor:'#dc2626',paddingHorizontal:12,paddingVertical:4,borderRadius:16,marginBottom:12},calendarTodayBadgeText:{color:'#fff',fontSize:12,fontWeight:'700'},calendarDateTitle:{fontSize:32,fontWeight:'bold',marginBottom:8},calendarDateSubtitle:{fontSize:16,textAlign:'center'},calendarDateDrummers:{gap:16,marginBottom:24},calendarDrummerCard:{flexDirection:'row',alignItems:'center',padding:16,borderRadius:12,borderWidth:1},calendarDrummerImage:{width:80,height:80,borderRadius:40,marginRight:16},calendarDrummerInfo:{flex:1},calendarDrummerName:{fontSize:20,fontWeight:'bold',marginBottom:4},calendarDrummerBand:{fontSize:15,marginBottom:4},calendarDrummerBirth:{fontSize:14,marginBottom:8},calendarNoResults:{padding:40,borderRadius:12,borderWidth:1,alignItems:'center',marginBottom:24},calendarNoResultsText:{fontSize:16,textAlign:'center'},calendarShareCard:{padding:20,borderRadius:12,borderWidth:1,alignItems:'center'},calendarShareTitle:{fontSize:18,fontWeight:'bold',marginBottom:12},calendarShareButton:{paddingHorizontal:24,paddingVertical:12,borderRadius:24},calendarShareButtonText:{color:'#fff',fontSize:14,fontWeight:'600'},
   // ==========================================
   // QUOTES PAGE STYLES
   // ==========================================

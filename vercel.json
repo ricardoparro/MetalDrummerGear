@@ -121,6 +121,7 @@
     { "source": "/sitemap.xml", "destination": "/api/sitemap" },
     { "source": "/llms.txt", "destination": "/llms.txt" },
     { "source": "/api/drummers/:id", "destination": "/api/drummers/[id]?id=:id" },
+    { "source": "/api/gear/category/:category", "destination": "/api/gear/category/[category]?category=:category" },
     { "source": "/api/gear/:id", "destination": "/api/gear/[id]?id=:id" },
     { "source": "/:path*", "destination": "/index.html" }
   ]

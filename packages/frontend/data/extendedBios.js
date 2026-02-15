@@ -1317,6 +1317,8 @@ Dette served as Slayer's touring drummer during 1996-1997, filling in when Paul 
           'The Gathering is considered one of Testament\'s best albums',
           'Praised for professionalism and quick learning ability'
         ]
+      }
+    }
   },
 
   // Flo Mounier - Cryptopsy

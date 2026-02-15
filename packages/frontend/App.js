@@ -5377,10 +5377,9 @@ const getPresetKitPrice = (preset) => {
   return total;
 };
 
-// Generate Thomann affiliate link for gear item
-const getThomannLink = (item) => {
-  const searchQuery = encodeURIComponent(`${item.brand} ${item.name}`);
-  return `https://www.thomann.de/search_dir.html?sw=${searchQuery}`;
+// Helper to get Thomann link for kit builder items
+const getKitBuilderThomannLink = (item, category) => {
+  return getThomannLink(item.name, category || 'kit-builder');
 };
 
 // Gear catalog data for kit builder - extracted from real drummer setups
@@ -5845,7 +5844,7 @@ function KitBuilderPage({ theme, onBack, drummers, onSelectDrummer }) {
                         onPress={() => {
                           handleAffiliateClick(item, 'buy');
                           if (Platform.OS === 'web') {
-                            window.open(getThomannLink(item), '_blank');
+                            window.open(getKitBuilderThomannLink(item, activeCategory), '_blank');
                           }
                         }}
                         accessibilityRole="link"
@@ -5894,7 +5893,7 @@ function KitBuilderPage({ theme, onBack, drummers, onSelectDrummer }) {
                             onPress={() => {
                               handleAffiliateClick(item, 'summary_buy');
                               if (Platform.OS === 'web') {
-                                window.open(getThomannLink(item), '_blank');
+                                window.open(getKitBuilderThomannLink(item, cat.key), '_blank');
                               }
                             }}
                             accessibilityRole="link"

@@ -15,6 +15,12 @@ export const extendedBios = {
     metaTitle: 'Lars Ulrich Biography - Metallica Drummer, Gear & Career | MetalForge',
     metaDescription: 'Complete biography of Lars Ulrich, co-founder and drummer of Metallica. Explore his career from 1981 to present, drumming style, signature gear, and influence on thrash metal.',
     ogImage: '/images/drummers/lars-ulrich.webp',
+    keywords: ['thrash metal', 'metallica', 'big four', 'tama drums', 'danish drummer', 'rock hall of fame', 'heavy metal'],
+    relatedDrummers: ['dave-lombardo', 'joey-jordison', 'gene-hoglan'],
+    summary: 'Lars Ulrich, Metallica co-founder & drummer since 1981, first Danish musician in Rock Hall of Fame, thrash metal pioneer.',
+    lastUpdated: '2026-02-15',
+    imageAlt: 'Lars Ulrich playing drums live with Metallica on stage',
+    schemaType: 'Person',
     sections: {
       overview: {
         title: 'Overview',
@@ -105,6 +111,16 @@ Ulrich was the first Danish-born musician inducted into the Rock and Roll Hall o
           'Became a US citizen in 2007'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drums does Lars Ulrich play?', a: 'Lars Ulrich plays Tama Starclassic drums with his signature LU1465 snare drum.' },
+          { q: 'When did Lars Ulrich co-found Metallica?', a: 'Lars Ulrich co-founded Metallica in 1981 in Los Angeles with James Hetfield.' },
+          { q: 'Is Lars Ulrich in the Rock and Roll Hall of Fame?', a: 'Yes, Lars was inducted in 2009 with Metallica, becoming the first Danish-born musician in the Hall.' },
+          { q: 'What is Lars Ulrich known for?', a: 'Lars is known for co-founding Metallica, pioneering thrash metal drumming, and his aggressive style with distinctive fills.' },
+          { q: 'Where is Lars Ulrich from?', a: 'Lars Ulrich was born in Gentofte, Denmark on December 26, 1963.' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -130,6 +146,12 @@ Ulrich was the first Danish-born musician inducted into the Rock and Roll Hall o
     metaTitle: 'Joey Jordison Biography - Slipknot Drummer Legend (1975-2021) | MetalForge',
     metaDescription: 'Complete biography of Joey Jordison, legendary Slipknot drummer. Explore his incredible career, revolutionary drumming style, rotating drum kit, and lasting influence on metal.',
     ogImage: '/images/drummers/joey-jordison.webp',
+    keywords: ['slipknot', 'nu metal', 'pearl drums', 'iowa', 'blast beats', 'masked drummer', 'extreme metal'],
+    relatedDrummers: ['lars-ulrich', 'dave-lombardo', 'gene-hoglan', 'eloy-casagrande'],
+    summary: 'Joey Jordison (1975-2021), Slipknot founding drummer, legendary for speed, rotating drum platform & iconic masked performances.',
+    lastUpdated: '2026-02-15',
+    imageAlt: 'Joey Jordison performing with Slipknot wearing his signature mask behind a Pearl drum kit',
+    schemaType: 'Person',
     sections: {
       overview: {
         title: 'Overview',
@@ -219,6 +241,16 @@ His blistering speed, technical precision, and theatrical stage presence—inclu
           'Wore mask #1 in Slipknot (Kabuki-style Japanese mask)'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drums did Joey Jordison play?', a: 'Joey Jordison played Pearl Reference Series drums with his signature 13"x6.5" snare.' },
+          { q: 'When did Joey Jordison die?', a: 'Joey Jordison passed away on July 26, 2021, at age 46.' },
+          { q: 'Why did Joey Jordison leave Slipknot?', a: 'Joey left Slipknot in 2013; he later revealed he had been battling transverse myelitis.' },
+          { q: 'What was Joey Jordison famous for?', a: 'Joey was famous for his extreme speed, rotating drum platform, and co-founding Slipknot.' },
+          { q: "What was Joey Jordison's mask number?", a: 'Joey wore mask #1 in Slipknot, a Kabuki-style Japanese mask.' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -245,6 +277,12 @@ His blistering speed, technical precision, and theatrical stage presence—inclu
     metaTitle: 'Gene Hoglan Biography - "The Atomic Clock" Death Metal Drummer | MetalForge',
     metaDescription: 'Complete biography of Gene Hoglan, nicknamed "The Atomic Clock" for his metronomic precision. Explore his work with Death, Testament, Dethklok, and his influence on extreme metal.',
     ogImage: '/images/drummers/gene-hoglan.webp',
+    keywords: ['death metal', 'testament', 'death', 'dethklok', 'atomic clock', 'pearl drums', 'technical drumming'],
+    relatedDrummers: ['dave-lombardo', 'joey-jordison', 'george-kollias', 'flo-mounier'],
+    summary: 'Gene Hoglan, "The Atomic Clock," legendary death metal drummer known for precision with Death, Testament & Dethklok.',
+    lastUpdated: '2026-02-15',
+    imageAlt: 'Gene Hoglan playing drums live with Testament on stage',
+    schemaType: 'Person',
     sections: {
       overview: {
         title: 'Overview',
@@ -336,6 +374,15 @@ Over a career spanning four decades, Hoglan has performed with over 20 major ban
           'Continues to tour extensively well into his 50s'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'Why is Gene Hoglan called "The Atomic Clock"?', a: 'Gene earned this nickname for his metronomic timing precision and inhuman accuracy.' },
+          { q: 'What bands has Gene Hoglan played in?', a: 'Gene has played with Death, Testament, Dark Angel, Strapping Young Lad, Dethklok, and Fear Factory.' },
+          { q: 'What drums does Gene Hoglan play?', a: 'Gene Hoglan plays Pearl Reference Pure drums with Sabian AAX cymbals.' },
+          { q: 'Was Gene Hoglan in Death?', a: "Yes, Gene drummed on Death's albums \"Individual Thought Patterns\" (1993) and \"Symbolic\" (1995)." }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -362,6 +409,12 @@ Over a career spanning four decades, Hoglan has performed with over 20 major ban
     metaTitle: 'Dave Lombardo Biography - Slayer Drummer & Thrash Metal Pioneer | MetalForge',
     metaDescription: 'Complete biography of Dave Lombardo, Slayer\'s legendary drummer and godfather of thrash metal drumming. Explore his revolutionary style, Reign in Blood legacy, and diverse career.',
     ogImage: '/images/drummers/dave-lombardo.webp',
+    keywords: ['slayer', 'thrash metal', 'big four', 'reign in blood', 'cuban drummer', 'tama drums', 'double bass'],
+    relatedDrummers: ['lars-ulrich', 'joey-jordison', 'gene-hoglan', 'paul-bostaph'],
+    summary: 'Dave Lombardo, Slayer founding drummer, godfather of thrash metal drumming, known for Reign in Blood & pioneering double bass.',
+    lastUpdated: '2026-02-15',
+    imageAlt: 'Dave Lombardo performing double bass drumming live with Slayer',
+    schemaType: 'Person',
     sections: {
       overview: {
         title: 'Overview',
@@ -454,6 +507,16 @@ His work on landmark albums such as "Reign in Blood," "South of Heaven," and "Se
           'His drumming on "Angel of Death" is considered a benchmark for thrash metal'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drums does Dave Lombardo play?', a: 'Dave Lombardo plays Tama Starclassic drums with Paiste RUDE and 2002 cymbals.' },
+          { q: 'Is Dave Lombardo still in Slayer?', a: 'No, Dave left Slayer in 2013 but tours with the reunited Pantera as of 2022.' },
+          { q: 'Where is Dave Lombardo from?', a: 'Dave was born in Havana, Cuba on February 16, 1965, and emigrated to the US as a child.' },
+          { q: 'What album is Dave Lombardo most famous for?', a: "Dave is most famous for drumming on Slayer's \"Reign in Blood\" (1986), a thrash metal landmark." },
+          { q: 'Did Dave Lombardo found Slayer?', a: 'Yes, Dave co-founded Slayer in 1981 with Kerry King, Jeff Hanneman, and Tom Araya.' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -477,6 +540,12 @@ His work on landmark albums such as "Reign in Blood," "South of Heaven," and "Se
     metaTitle: 'Tomas Haake Biography - Meshuggah Drummer & Djent Pioneer | MetalForge',
     metaDescription: 'Complete biography of Tomas Haake, Meshuggah\'s drummer and architect of the djent movement. Explore his revolutionary polyrhythmic style, the legendary "Bleed" drum part, and his influence on modern metal.',
     ogImage: '/images/drummers/tomas-haake.webp',
+    keywords: ['meshuggah', 'djent', 'polyrhythms', 'sonor drums', 'swedish drummer', 'bleed', 'progressive metal'],
+    relatedDrummers: ['danny-carey', 'mario-duplantier', 'mike-portnoy', 'travis-orbin'],
+    summary: 'Tomas Haake, Meshuggah drummer & djent pioneer, known for complex polyrhythms and the legendary "Bleed" drum pattern.',
+    lastUpdated: '2026-02-15',
+    imageAlt: 'Tomas Haake playing polyrhythmic patterns on his Sonor drum kit with Meshuggah',
+    schemaType: 'Person',
     sections: {
       overview: {
         title: 'Overview',
@@ -567,6 +636,16 @@ Haake's approach to drumming involves complex polyrhythmic patterns that create 
           'Despite the complexity, maintains that Meshuggah is a "groove band"'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drums does Tomas Haake play?', a: 'Tomas plays Sonor SQ2 Heavy Beech drums with Sabian cymbals and two single bass pedals.' },
+          { q: 'Why does Tomas Haake use two single pedals?', a: 'Tomas uses two separate single pedals for greater independence between his feet for polyrhythms.' },
+          { q: 'How long did it take to learn "Bleed"?', a: 'Tomas spent six months practicing daily to consistently play the "Bleed" kick pattern live.' },
+          { q: 'What is djent drumming?', a: 'Djent drumming features polyrhythmic patterns over a 4/4 foundation, pioneered by Tomas with Meshuggah.' },
+          { q: 'Is Tomas Haake in Meshuggah?', a: "Yes, Tomas has been Meshuggah's drummer and lyricist since 1990." }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -590,6 +669,12 @@ Haake's approach to drumming involves complex polyrhythmic patterns that create 
     metaTitle: 'George Kollias Biography - Nile Drummer & Extreme Metal Educator | MetalForge',
     metaDescription: 'Complete biography of George Kollias, Nile\'s drummer known for extreme speed and precision. Explore his career, educational materials, signature gear, and influence on death metal drumming.',
     ogImage: '/images/drummers/george-kollias.webp',
+    keywords: ['nile', 'death metal', 'greek drummer', 'pearl drums', 'blast beats', 'extreme drumming', 'drum educator'],
+    relatedDrummers: ['gene-hoglan', 'flo-mounier', 'joey-jordison', 'dave-lombardo'],
+    summary: 'George Kollias, Nile drummer since 2004, extreme metal educator known for speed, endurance & Pearl signature gear.',
+    lastUpdated: '2026-02-15',
+    imageAlt: 'George Kollias performing extreme blast beats with Nile on his Pearl drum kit',
+    schemaType: 'Person',
     sections: {
       overview: {
         title: 'Overview',
@@ -679,6 +764,16 @@ Beyond his work with Nile, Kollias is an accomplished drum educator, having rele
           'Maintains strict practice and physical fitness regimens'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drums does George Kollias play?', a: 'George plays Pearl Masterworks drums with his signature snare and co-designed Demon XR pedal.' },
+          { q: 'How fast can George Kollias play blast beats?', a: 'George can sustain blast beats at 240+ BPM with clarity and precision.' },
+          { q: 'Where is George Kollias from?', a: 'George Kollias was born on August 30, 1977, in Korinth, Greece.' },
+          { q: 'When did George Kollias join Nile?', a: 'George joined Nile in 2004, replacing Tony Laureano.' },
+          { q: 'Does George Kollias teach drumming?', a: 'Yes, George is an accomplished drum educator with instructional DVDs and worldwide clinics.' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -703,6 +798,12 @@ Beyond his work with Nile, Kollias is an accomplished drum educator, having rele
     metaTitle: 'Eloy Casagrande Biography - Slipknot Drummer & Brazilian Metal Prodigy | MetalForge',
     metaDescription: 'Complete biography of Eloy Casagrande, Slipknot\'s new drummer and former Sepultura member. Explore his journey from Brazilian metal prodigy to joining one of metal\'s biggest bands.',
     ogImage: '/images/drummers/eloy-casagrande.webp',
+    keywords: ['slipknot', 'sepultura', 'brazilian drummer', 'tama drums', 'thrash metal', 'modern drummer poll'],
+    relatedDrummers: ['joey-jordison', 'dave-lombardo', 'lars-ulrich', 'mario-duplantier'],
+    summary: 'Eloy Casagrande, Slipknot drummer (2024) & former Sepultura member, #1 in Modern Drummer 2024 poll, Brazilian metal prodigy.',
+    lastUpdated: '2026-02-15',
+    imageAlt: 'Eloy Casagrande performing live with Slipknot behind his Tama drum kit',
+    schemaType: 'Person',
     sections: {
       overview: {
         title: 'Overview',
@@ -786,6 +887,16 @@ Starting drums at age 7 and joining Sepultura at just 19, Casagrande represented
           'Speaks Portuguese and English fluently'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'When did Eloy Casagrande join Slipknot?', a: 'Eloy joined Slipknot as their drummer in 2024, replacing Jay Weinberg.' },
+          { q: 'What drums does Eloy Casagrande play?', a: 'Eloy plays Tama Starclassic Bubinga drums with Paiste cymbals.' },
+          { q: 'Was Eloy Casagrande in Sepultura?', a: "Yes, Eloy was Sepultura's drummer from 2011 to 2024." },
+          { q: 'Where is Eloy Casagrande from?', a: 'Eloy was born on August 25, 1991, in São Paulo, Brazil.' },
+          { q: 'What awards has Eloy Casagrande won?', a: "Eloy was named #1 metal drummer in the Modern Drummer 2024 Readers' Poll." }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -811,6 +922,12 @@ Starting drums at age 7 and joining Sepultura at just 19, Casagrande represented
     metaTitle: 'Mike Portnoy Biography - Dream Theater Drummer & Progressive Metal Icon | MetalForge',
     metaDescription: 'Complete biography of Mike Portnoy, Dream Theater co-founder and progressive metal drumming legend. Explore his 30+ year career, awards, gear, and influence on modern drumming.',
     ogImage: '/images/drummers/mike-portnoy.webp',
+    keywords: ['dream theater', 'progressive metal', 'tama drums', 'berklee', 'modern drummer hall of fame', 'winery dogs'],
+    relatedDrummers: ['danny-carey', 'tomas-haake', 'mario-duplantier', 'martin-lopez'],
+    summary: 'Mike Portnoy, Dream Theater co-founder, prog metal icon with 30+ Modern Drummer awards, returned to DT in 2023.',
+    lastUpdated: '2026-02-15',
+    imageAlt: 'Mike Portnoy performing on his large Tama drum kit with Dream Theater',
+    schemaType: 'Person',
     sections: {
       overview: {
         title: 'Overview',
@@ -903,6 +1020,16 @@ Portnoy's technical proficiency, creative compositions, and theatrical live perf
           'Known for wearing shorts on stage, even in formal prog metal settings'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drums does Mike Portnoy play?', a: 'Mike Portnoy plays Tama Starclassic drums with Sabian HHX cymbals.' },
+          { q: 'Is Mike Portnoy back in Dream Theater?', a: 'Yes, Mike rejoined Dream Theater in 2023 for their reunion tour and new music.' },
+          { q: 'Why did Mike Portnoy leave Dream Theater?', a: 'Mike left Dream Theater in 2010 after creative differences and a desire to explore other projects.' },
+          { q: 'How many awards has Mike Portnoy won?', a: 'Mike has won over 30 awards from Modern Drummer magazine and was inducted into their Hall of Fame in 2007.' },
+          { q: 'Where did Mike Portnoy go to school?', a: 'Mike attended Berklee College of Music where Dream Theater was formed.' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -927,6 +1054,12 @@ Portnoy's technical proficiency, creative compositions, and theatrical live perf
     metaTitle: 'Danny Carey Biography - Tool Drummer & Polyrhythmic Genius | MetalForge',
     metaDescription: 'Complete biography of Danny Carey, Tool\'s legendary drummer known for complex polyrhythms, sacred geometry, and innovative drumming. Explore his career, philosophy, and gear.',
     ogImage: '/images/drummers/danny-carey.webp',
+    keywords: ['tool', 'progressive metal', 'sonor drums', 'polyrhythms', 'sacred geometry', 'grammy winner', 'mandala drums'],
+    relatedDrummers: ['tomas-haake', 'mike-portnoy', 'mario-duplantier', 'martin-lopez'],
+    summary: 'Danny Carey, Tool drummer since 1990, polyrhythmic genius known for sacred geometry influences & multiple Grammy wins.',
+    lastUpdated: '2026-02-15',
+    imageAlt: 'Danny Carey playing his massive Sonor drum kit with Mandala pads during a Tool performance',
+    schemaType: 'Person',
     sections: {
       overview: {
         title: 'Overview',
@@ -1016,6 +1149,16 @@ Standing at 6'5" (196 cm), Carey is an imposing presence behind his massive Sono
           'Practices daily, often on a practice pad while watching television'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drums does Danny Carey play?', a: 'Danny plays Sonor SQ2 Heavy Beech drums with Paiste cymbals and Mandala electronic pads.' },
+          { q: 'Has Danny Carey won a Grammy?', a: 'Yes, Danny has won multiple Grammys with Tool for Best Metal Performance.' },
+          { q: 'How tall is Danny Carey?', a: 'Danny Carey stands 6\'5" (196 cm), making him one of the tallest drummers in rock.' },
+          { q: 'What are Mandala drums?', a: 'Mandala drums are electronic pads Danny uses for triggering samples and melodic elements.' },
+          { q: 'Is Danny Carey in the Modern Drummer Hall of Fame?', a: 'Yes, Danny was inducted into the Modern Drummer Hall of Fame in 2016.' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -1039,6 +1182,12 @@ Standing at 6'5" (196 cm), Carey is an imposing presence behind his massive Sono
     metaTitle: 'Mario Duplantier Biography - Gojira Drummer & Visual Artist | MetalForge',
     metaDescription: 'Complete biography of Mario Duplantier, Gojira\'s powerful drummer known for tribal rhythms and visual art. Explore his career with Gojira, unique style, and creative contributions.',
     ogImage: '/images/drummers/mario-duplantier.webp',
+    keywords: ['gojira', 'french drummer', 'tama drums', 'progressive death metal', 'visual artist', 'flying whales', 'environmental'],
+    relatedDrummers: ['tomas-haake', 'danny-carey', 'dave-lombardo', 'eloy-casagrande'],
+    summary: 'Mario Duplantier, Gojira co-founder & drummer, known for powerful tribal rhythms, visual artwork & environmental activism.',
+    lastUpdated: '2026-02-15',
+    imageAlt: 'Mario Duplantier performing with Gojira behind his dual bass drum Tama kit',
+    schemaType: 'Person',
     sections: {
       overview: {
         title: 'Overview',
@@ -1123,6 +1272,16 @@ Mario's drumming combines crushing power with technical precision, featuring com
           'The song "Flying Whales" features some of his most recognized drum work',
           'Maintains a humble, grounded personality despite massive success',
           'Often incorporates visual projections of his art during live shows'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drums does Mario Duplantier play?', a: 'Mario plays Tama Starclassic Bubinga drums with dual 22" bass drums and Zildjian cymbals.' },
+          { q: "Does Mario Duplantier create Gojira's artwork?", a: 'Yes, Mario creates all album artwork, merchandise designs, and stage visuals for Gojira.' },
+          { q: 'Are the Duplantier brothers related?', a: 'Yes, Mario and Joe Duplantier are brothers who co-founded Gojira in 1996.' },
+          { q: 'Where is Mario Duplantier from?', a: 'Mario was born in Ondres, France and grew up in the Basque region.' },
+          { q: 'What song is Mario Duplantier most famous for?', a: '"Flying Whales" features some of Mario\'s most recognized and celebrated drum work.' }
         ]
       },
       sources: {

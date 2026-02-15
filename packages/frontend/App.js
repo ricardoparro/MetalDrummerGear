@@ -13079,6 +13079,53 @@ setShowList(false);
         />
       );
     }
+    // Gear Comparison Page (Issue #345)
+    if (showGearComparison && gearComparisonSlug) {
+      return (
+        <GearComparisonPage
+          comparisonSlug={gearComparisonSlug}
+          theme={theme}
+          onBack={handleBackFromGearComparison}
+          onSelectDrummer={handleSelectDrummer}
+          drummers={drummers}
+        />
+      );
+    }
+    // Gear Comparisons Index Page (Issue #345)
+    if (showGearComparisonsIndex) {
+      return (
+        <GearComparisonsIndexPage
+          theme={theme}
+          onBack={handleBackFromGearComparison}
+          onSelectComparison={handleNavigateToGearComparison}
+        />
+      );
+    }
+    // Technique Detail Page (Issue #344)
+    if (showTechniqueDetail && techniqueSlug) {
+      return (
+        <TechniqueDetailPage
+          techniqueSlug={techniqueSlug}
+          theme={theme}
+          onBack={handleBackFromTechnique}
+          onSelectDrummer={handleSelectDrummer}
+          onSelectTechnique={handleNavigateToTechnique}
+          drummers={drummers}
+        />
+      );
+    }
+    // Techniques Index Page (Issue #344)
+    if (showTechniquesIndex) {
+      return (
+        <TechniquesIndexPage
+          theme={theme}
+          onBack={handleBackFromTechnique}
+          onSelectTechnique={handleNavigateToTechnique}
+          onSelectDrummer={handleSelectDrummer}
+          drummers={drummers}
+        />
+      );
+    }
     if (selectedDrummer) {
       console.log('[DEBUG] Rendering DrummerDetail for:', selectedDrummer.name);
       return <DrummerDetail drummer={selectedDrummer} theme={theme} onBack={handleBack} onSelectGear={handleSelectGear} onCompareYourKit={handleCompareYourKit} allDrummers={drummers} onNavigateToBio={handleNavigateToBio} />;

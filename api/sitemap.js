@@ -1,6 +1,7 @@
 // Vercel Serverless Function - sitemap.xml
 // Issue #361: Added band pages
 // Issue #339: Added gear category pages for SEO
+// Issue #344: Added drumming technique pages
 
 const drummers = [
   { id: 1, name: 'Lars Ulrich' }, { id: 2, name: 'Joey Jordison' }, { id: 3, name: 'Gene Hoglan' },
@@ -48,6 +49,20 @@ const gearCategories = [
   { slug: 'hardware', name: 'Metal Drum Hardware' },
 ];
 
+// Issue #344: Drumming technique pages
+const techniques = [
+  { slug: 'blast-beat', name: 'Blast Beat' },
+  { slug: 'double-bass', name: 'Double Bass Drumming' },
+  { slug: 'gravity-blast', name: 'Gravity Blast' },
+  { slug: 'polyrhythms', name: 'Polyrhythms' },
+  { slug: 'odd-time-signatures', name: 'Odd Time Signatures' },
+  { slug: 'one-handed-roll', name: 'One-Handed Roll' },
+  { slug: 'triggered-drums', name: 'Triggered Drums' },
+  { slug: 'groove-drumming', name: 'Groove Metal Drumming' },
+  { slug: 'linear-drumming', name: 'Linear Drumming' },
+  { slug: 'fill-techniques', name: 'Metal Drum Fills' },
+];
+
 const BASE_URL = 'https://metalforge.io';
 
 function generateSlug(name) {
@@ -65,11 +80,13 @@ export default function handler(req, res) {
     { loc: '/quotes', priority: '0.9', changefreq: 'weekly' },
     { loc: '/lists', priority: '0.9', changefreq: 'weekly' },
     { loc: '/birthdays', priority: '0.9', changefreq: 'weekly' },
+    { loc: '/techniques', priority: '0.9', changefreq: 'weekly' },
     ...gearCategories.map(c => ({ loc: `/gear/${c.slug}`, priority: '0.9', changefreq: 'weekly' })),
     ...top10Lists.map(l => ({ loc: `/lists/${l.slug}`, priority: '0.8', changefreq: 'monthly' })),
     ...drummers.map(d => ({ loc: `/drummer/${generateSlug(d.name)}`, priority: '0.8', changefreq: 'monthly' })),
     ...gearItems.map(g => ({ loc: `/gear/item/${g.slug}`, priority: '0.7', changefreq: 'monthly' })),
     ...bandPages.map(b => ({ loc: `/band/${b.slug}`, priority: '0.8', changefreq: 'monthly' })),
+    ...techniques.map(t => ({ loc: `/techniques/${t.slug}`, priority: '0.8', changefreq: 'monthly' })),
   ];
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">

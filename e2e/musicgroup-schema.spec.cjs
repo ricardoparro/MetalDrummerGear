@@ -182,8 +182,8 @@ test.describe('MusicGroup Schema - Issue #429', () => {
 
   testOrSkip('drummer without full band data gets fallback MusicGroup schema', async ({ page }) => {
     // Find a drummer whose band is not in the full bands.js registry
-    // John Otto (Limp Bizkit) - ID 10
-    await page.goto('/drummer/10', { waitUntil: 'load' });
+    // John Otto (Limp Bizkit) - ID 9
+    await page.goto('/drummer/9', { waitUntil: 'load' });
     await page.waitForTimeout(2000);
 
     const ldJsonScript = await page.locator('script[type="application/ld+json"][data-schema="main"]');

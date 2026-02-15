@@ -76,6 +76,20 @@ import { getGenre, getAllGenres, hasGenre, getAllGenreSlugs, getDrummersByGenre,
 // Gear comparison data (Issue #345)
 import { getGearComparisonBySlug, getAllGearComparisons, hasGearComparison, getAllGearComparisonSlugs } from './data/gearComparisons';
 
+// Drumming techniques data (Issue #344)
+import { 
+  getAllTechniques, 
+  getTechniqueBySlug, 
+  hasTechnique, 
+  getAllTechniqueSlugs,
+  getTechniquesByCategory,
+  getTechniquesByDifficulty,
+  getRelatedTechniques,
+  getTechniquesForDrummer,
+  TECHNIQUE_CATEGORIES,
+  DIFFICULTY_LEVELS
+} from './data/techniques';
+
 // Birthday calendar data (Issue #343)
 import { 
   drummerBirthdays, 
@@ -8471,6 +8485,490 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
   );
 }
 
+// ==========================================
+// DRUMMING TECHNIQUES PAGES (Issue #344)
+// ==========================================
+
+// Techniques Index Page - List all drumming techniques
+function TechniquesIndexPage({ theme, onBack, onSelectTechnique, onSelectDrummer, drummers }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const allTechniques = getAllTechniques();
+
+  // Group techniques by category
+  const techniquesByCategory = useMemo(() => {
+    const groups = {};
+    allTechniques.forEach(t => {
+      if (!groups[t.category]) groups[t.category] = [];
+      groups[t.category].push(t);
+    });
+    return groups;
+  }, [allTechniques]);
+
+  const categoryOrder = ['foundational', 'extreme', 'progressive', 'production'];
+
+  // Update SEO
+  useEffect(() => {
+    updateTechniqueMeta(null);
+  }, []);
+
+  const getDifficultyColor = (difficulty) => {
+    const colors = {
+      beginner: '#22c55e',
+      intermediate: '#eab308',
+      advanced: '#f97316',
+      expert: '#dc2626',
+    };
+    return colors[difficulty] || '#6b7280';
+  };
+
+  const getDifficultyLabel = (difficulty) => {
+    const labels = {
+      beginner: 'Beginner',
+      intermediate: 'Intermediate',
+      advanced: 'Advanced',
+      expert: 'Expert',
+    };
+    return labels[difficulty] || difficulty;
+  };
+
+  return (
+    <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+      <View style={styles.detailContent}>
+        <TouchableOpacity
+          onPress={onBack}
+          style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          accessibilityRole="button"
+          accessibilityLabel="Go back"
+        >
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+        </TouchableOpacity>
+
+        <Text style={[styles.bandPageTitle, { color: theme.text }]}>🥁 Metal Drumming Techniques</Text>
+        <Text style={[styles.bandPageSubtitle, { color: theme.secondaryText, marginBottom: 24 }]}>
+          Master the essential techniques of metal drumming. From blast beats to polyrhythms, learn how the pros do it.
+        </Text>
+
+        {categoryOrder.map(category => {
+          const techniques = techniquesByCategory[category] || [];
+          if (techniques.length === 0) return null;
+          const categoryInfo = TECHNIQUE_CATEGORIES[category];
+
+          return (
+            <View key={category} style={{ marginBottom: 32 }}>
+              <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 8 }}>
+                {categoryInfo?.emoji} {categoryInfo?.label || category}
+              </Text>
+              <Text style={{ fontSize: 14, color: theme.secondaryText, marginBottom: 16 }}>
+                {categoryInfo?.description}
+              </Text>
+              <View style={{ 
+                flexDirection: 'row', 
+                flexWrap: 'wrap', 
+                gap: 16,
+                justifyContent: isMobile ? 'center' : 'flex-start'
+              }}>
+                {techniques.map(technique => (
+                  <TouchableOpacity
+                    key={technique.slug}
+                    style={{
+                      backgroundColor: theme.card,
+                      borderColor: theme.border,
+                      borderWidth: 1,
+                      borderRadius: 12,
+                      padding: 16,
+                      width: isMobile ? '100%' : 'calc(50% - 8px)',
+                      maxWidth: 400,
+                    }}
+                    onPress={() => onSelectTechnique(technique.slug)}
+                    accessibilityRole="button"
+                    accessibilityLabel={`Learn ${technique.title} technique`}
+                  >
+                    <View style={{ flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', marginBottom: 8 }}>
+                      <Text style={{ fontSize: 24 }}>{technique.emoji}</Text>
+                      <View style={{ 
+                        backgroundColor: getDifficultyColor(technique.difficulty) + '20',
+                        paddingHorizontal: 8,
+                        paddingVertical: 4,
+                        borderRadius: 6,
+                      }}>
+                        <Text style={{ 
+                          color: getDifficultyColor(technique.difficulty), 
+                          fontWeight: '600', 
+                          fontSize: 12 
+                        }}>
+                          {getDifficultyLabel(technique.difficulty)}
+                        </Text>
+                      </View>
+                    </View>
+                    <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text, marginBottom: 4 }}>
+                      {technique.title}
+                    </Text>
+                    <Text style={{ color: theme.secondaryText, fontSize: 14, marginBottom: 8 }} numberOfLines={2}>
+                      {technique.description.substring(0, 100)}...
+                    </Text>
+                    <View style={{ flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', marginTop: 8 }}>
+                      <Text style={{ color: theme.secondaryText, fontSize: 12 }}>
+                        ⚡ {technique.bpmRange} BPM
+                      </Text>
+                      <Text style={{ color: '#dc2626', fontWeight: '600', fontSize: 14 }}>
+                        Learn →
+                      </Text>
+                    </View>
+                  </TouchableOpacity>
+                ))}
+              </View>
+            </View>
+          );
+        })}
+
+        {/* SEO Footer */}
+        <View style={{ marginTop: 24, padding: 20, backgroundColor: theme.card, borderRadius: 12, borderColor: theme.border, borderWidth: 1 }}>
+          <Text style={{ fontSize: 16, fontWeight: '600', color: theme.text, marginBottom: 8 }}>
+            🎯 Mastering Metal Drumming
+          </Text>
+          <Text style={{ color: theme.secondaryText, fontSize: 14, lineHeight: 22 }}>
+            Whether you're learning blast beats for death metal, mastering double bass for thrash, or exploring polyrhythms for progressive metal, these techniques will take your drumming to the next level. Each guide includes history, learning tips, gear recommendations, and examples from the masters of the technique.
+          </Text>
+        </View>
+      </View>
+    </ScrollView>
+  );
+}
+
+// Technique Detail Page - Single technique view
+function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, onSelectTechnique, drummers }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const technique = getTechniqueBySlug(techniqueSlug);
+  const relatedTechniques = getRelatedTechniques(techniqueSlug);
+
+  // Update SEO
+  useEffect(() => {
+    if (technique) {
+      updateTechniqueMeta(technique);
+    }
+  }, [technique]);
+
+  if (!technique) {
+    return (
+      <View style={[styles.detailContainer, { backgroundColor: theme.background, alignItems: 'center', justifyContent: 'center', padding: 40 }]}>
+        <Text style={{ fontSize: 48, marginBottom: 16 }}>🥁</Text>
+        <Text style={{ fontSize: 24, fontWeight: 'bold', color: theme.text, marginBottom: 8 }}>Technique Not Found</Text>
+        <Text style={{ color: theme.secondaryText, marginBottom: 24 }}>This technique page doesn't exist.</Text>
+        <TouchableOpacity
+          onPress={onBack}
+          style={{ backgroundColor: '#dc2626', paddingHorizontal: 24, paddingVertical: 12, borderRadius: 8 }}
+        >
+          <Text style={{ color: '#fff', fontWeight: '600' }}>Back to Techniques</Text>
+        </TouchableOpacity>
+      </View>
+    );
+  }
+
+  const getDifficultyColor = (difficulty) => {
+    const colors = {
+      beginner: '#22c55e',
+      intermediate: '#eab308',
+      advanced: '#f97316',
+      expert: '#dc2626',
+    };
+    return colors[difficulty] || '#6b7280';
+  };
+
+  const getDifficultyLabel = (difficulty) => {
+    const labels = {
+      beginner: 'Beginner',
+      intermediate: 'Intermediate',
+      advanced: 'Advanced',
+      expert: 'Expert',
+    };
+    return labels[difficulty] || difficulty;
+  };
+
+  // Find drummers who have profiles on the site (for linking)
+  const findDrummerProfile = (slug) => {
+    if (!slug || !drummers) return null;
+    return drummers.find(d => toSlug(d.name) === slug);
+  };
+
+  return (
+    <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+      <View style={styles.detailContent}>
+        <TouchableOpacity
+          onPress={onBack}
+          style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          accessibilityRole="button"
+          accessibilityLabel="Go back"
+        >
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+        </TouchableOpacity>
+
+        {/* Header */}
+        <View style={{ marginBottom: 24 }}>
+          <View style={{ flexDirection: 'row', alignItems: 'center', marginBottom: 12, flexWrap: 'wrap', gap: 12 }}>
+            <Text style={{ fontSize: 48 }}>{technique.emoji}</Text>
+            <View style={{ flex: 1 }}>
+              <Text style={[styles.bandPageTitle, { color: theme.text, marginBottom: 4 }]}>{technique.title}</Text>
+              <View style={{ flexDirection: 'row', alignItems: 'center', gap: 12, flexWrap: 'wrap' }}>
+                <View style={{ 
+                  backgroundColor: getDifficultyColor(technique.difficulty) + '20',
+                  paddingHorizontal: 10,
+                  paddingVertical: 4,
+                  borderRadius: 6,
+                }}>
+                  <Text style={{ 
+                    color: getDifficultyColor(technique.difficulty), 
+                    fontWeight: '600', 
+                    fontSize: 14 
+                  }}>
+                    {getDifficultyLabel(technique.difficulty)}
+                  </Text>
+                </View>
+                <Text style={{ color: theme.secondaryText, fontSize: 14 }}>
+                  ⚡ {technique.bpmRange} BPM
+                </Text>
+                <Text style={{ color: theme.secondaryText, fontSize: 14 }}>
+                  📁 {TECHNIQUE_CATEGORIES[technique.category]?.label}
+                </Text>
+              </View>
+            </View>
+          </View>
+          <Text style={{ color: theme.text, fontSize: 16, lineHeight: 26 }}>
+            {technique.description}
+          </Text>
+        </View>
+
+        {/* History & Origins */}
+        <View style={{ backgroundColor: theme.card, borderRadius: 12, padding: 20, marginBottom: 24, borderColor: theme.border, borderWidth: 1 }}>
+          <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>
+            📜 History & Origins
+          </Text>
+          <Text style={{ color: theme.secondaryText, fontSize: 15, lineHeight: 24 }}>
+            {technique.history}
+          </Text>
+        </View>
+
+        {/* How to Learn */}
+        <View style={{ backgroundColor: theme.card, borderRadius: 12, padding: 20, marginBottom: 24, borderColor: theme.border, borderWidth: 1 }}>
+          <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>
+            📚 How to Learn
+          </Text>
+          {technique.howToLearn.map((step, index) => (
+            <View key={index} style={{ flexDirection: 'row', marginBottom: 12 }}>
+              <View style={{ 
+                width: 24, 
+                height: 24, 
+                borderRadius: 12, 
+                backgroundColor: '#dc262620',
+                alignItems: 'center',
+                justifyContent: 'center',
+                marginRight: 12,
+                marginTop: 2,
+              }}>
+                <Text style={{ color: '#dc2626', fontWeight: 'bold', fontSize: 12 }}>{index + 1}.</Text>
+              </View>
+              <Text style={{ color: theme.text, fontSize: 15, lineHeight: 22, flex: 1 }}>
+                {step}
+              </Text>
+            </View>
+          ))}
+        </View>
+
+        {/* Variations */}
+        {technique.variations && technique.variations.length > 0 && (
+          <View style={{ backgroundColor: theme.card, borderRadius: 12, padding: 20, marginBottom: 24, borderColor: theme.border, borderWidth: 1 }}>
+            <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>
+              🔀 Variations
+            </Text>
+            {technique.variations.map((variation, index) => (
+              <View key={index} style={{ marginBottom: 12, paddingLeft: 12, borderLeftWidth: 3, borderLeftColor: '#dc2626' }}>
+                <Text style={{ color: theme.text, fontWeight: '600', fontSize: 15, marginBottom: 4 }}>
+                  {variation.name}
+                </Text>
+                <Text style={{ color: theme.secondaryText, fontSize: 14, lineHeight: 20 }}>
+                  {variation.description}
+                </Text>
+              </View>
+            ))}
+          </View>
+        )}
+
+        {/* Masters of This Technique */}
+        {technique.masters && technique.masters.length > 0 && (
+          <View style={{ backgroundColor: theme.card, borderRadius: 12, padding: 20, marginBottom: 24, borderColor: theme.border, borderWidth: 1 }}>
+            <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>
+              🏆 Masters of This Technique
+            </Text>
+            <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: 12 }}>
+              {technique.masters.map((master, index) => {
+                const drummerProfile = findDrummerProfile(master.slug);
+                const isClickable = drummerProfile !== null;
+
+                return (
+                  <TouchableOpacity
+                    key={index}
+                    disabled={!isClickable}
+                    onPress={() => isClickable && onSelectDrummer(drummerProfile)}
+                    style={{ 
+                      backgroundColor: theme.background, 
+                      borderRadius: 8, 
+                      padding: 12,
+                      borderColor: theme.border,
+                      borderWidth: 1,
+                      minWidth: isMobile ? '100%' : 'calc(50% - 6px)',
+                      flex: isMobile ? 1 : 0,
+                    }}
+                    accessibilityRole={isClickable ? 'link' : 'text'}
+                    accessibilityLabel={isClickable ? `View ${master.name}'s profile` : master.name}
+                  >
+                    <View style={{ flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between' }}>
+                      <View style={{ flex: 1 }}>
+                        <Text style={{ color: theme.text, fontWeight: '600', fontSize: 15 }}>
+                          {master.name}
+                        </Text>
+                        <Text style={{ color: theme.secondaryText, fontSize: 13 }}>
+                          {master.band}
+                        </Text>
+                        {master.note && (
+                          <Text style={{ color: '#dc2626', fontSize: 12, marginTop: 4, fontStyle: 'italic' }}>
+                            {master.note}
+                          </Text>
+                        )}
+                      </View>
+                      {isClickable && (
+                        <Text style={{ color: '#dc2626', fontWeight: '600' }}>→</Text>
+                      )}
+                    </View>
+                  </TouchableOpacity>
+                );
+              })}
+            </View>
+          </View>
+        )}
+
+        {/* Gear Recommendations */}
+        {technique.gearRecommendations && (
+          <View style={{ backgroundColor: theme.card, borderRadius: 12, padding: 20, marginBottom: 24, borderColor: theme.border, borderWidth: 1 }}>
+            <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>
+              🛠️ Gear Recommendations
+            </Text>
+            {Object.entries(technique.gearRecommendations).map(([category, items]) => {
+              if (category === 'tips') return null;
+              if (!Array.isArray(items) || items.length === 0) return null;
+              
+              const categoryEmojis = {
+                pedals: '🦶',
+                snares: '🥁',
+                sticks: '🥢',
+                kicks: '🦵',
+                heads: '⚪',
+                triggers: '🎛️',
+                modules: '💻',
+                samples: '🔊',
+                electronics: '⚡',
+                cymbals: '🔔',
+                drums: '🥁',
+                toms: '🔵',
+              };
+
+              return (
+                <View key={category} style={{ marginBottom: 16 }}>
+                  <Text style={{ color: theme.text, fontWeight: '600', fontSize: 15, marginBottom: 8, textTransform: 'capitalize' }}>
+                    {categoryEmojis[category] || '•'} {category}
+                  </Text>
+                  {items.map((item, index) => (
+                    <View key={index} style={{ marginBottom: 8, paddingLeft: 12 }}>
+                      <Text style={{ color: theme.text, fontSize: 14 }}>
+                        <Text style={{ fontWeight: '600' }}>{item.name}</Text>
+                        {item.reason && <Text style={{ color: theme.secondaryText }}> — {item.reason}</Text>}
+                      </Text>
+                    </View>
+                  ))}
+                </View>
+              );
+            })}
+            {technique.gearRecommendations.tips && (
+              <View style={{ 
+                marginTop: 12, 
+                padding: 12, 
+                backgroundColor: '#dc262610', 
+                borderRadius: 8,
+                borderLeftWidth: 4,
+                borderLeftColor: '#dc2626'
+              }}>
+                <Text style={{ color: theme.text, fontWeight: '600', marginBottom: 4 }}>
+                  💡 Pro Tip
+                </Text>
+                <Text style={{ color: theme.secondaryText, fontSize: 14, lineHeight: 20 }}>
+                  {technique.gearRecommendations.tips}
+                </Text>
+              </View>
+            )}
+          </View>
+        )}
+
+        {/* Related Techniques */}
+        {relatedTechniques && relatedTechniques.length > 0 && (
+          <View style={{ backgroundColor: theme.card, borderRadius: 12, padding: 20, marginBottom: 24, borderColor: theme.border, borderWidth: 1 }}>
+            <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>
+              🔗 Related Techniques
+            </Text>
+            <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: 12 }}>
+              {relatedTechniques.map(related => (
+                <TouchableOpacity
+                  key={related.slug}
+                  onPress={() => onSelectTechnique(related.slug)}
+                  style={{ 
+                    backgroundColor: theme.background, 
+                    borderRadius: 8, 
+                    padding: 12,
+                    borderColor: theme.border,
+                    borderWidth: 1,
+                    flexDirection: 'row',
+                    alignItems: 'center',
+                    gap: 8,
+                  }}
+                  accessibilityRole="link"
+                  accessibilityLabel={`Learn ${related.title}`}
+                >
+                  <Text style={{ fontSize: 20 }}>{related.emoji}</Text>
+                  <View>
+                    <Text style={{ color: theme.text, fontWeight: '600', fontSize: 14 }}>
+                      {related.title}
+                    </Text>
+                    <Text style={{ color: theme.secondaryText, fontSize: 12 }}>
+                      {DIFFICULTY_LEVELS[related.difficulty]?.label}
+                    </Text>
+                  </View>
+                  <Text style={{ color: '#dc2626', marginLeft: 'auto' }}>→</Text>
+                </TouchableOpacity>
+              ))}
+            </View>
+          </View>
+        )}
+
+        {/* Browse All Techniques Link */}
+        <View style={{ alignItems: 'center', marginTop: 24, marginBottom: 40 }}>
+          <TouchableOpacity
+            onPress={onBack}
+            style={{
+              backgroundColor: '#dc2626',
+              paddingHorizontal: 24,
+              paddingVertical: 12,
+              borderRadius: 8,
+            }}
+          >
+            <Text style={{ color: theme.background, fontWeight: '600' }}>
+              Browse All Techniques →
+            </Text>
+          </TouchableOpacity>
+        </View>
+      </View>
+    </ScrollView>
+  );
+}
+
 // Quotes Page - Browse all drummer quotes
 function QuotesPage({ theme, onBack, onSelectDrummer }) {
   const { width } = useWindowDimensions();
@@ -8679,6 +9177,7 @@ function DrummerList({
   onNavigateToBpmTap,
   onNavigateToBirthdayCalendar,
   onNavigateToGenresList,
+  onNavigateToTechniques,
   spotlight,
   filters,
   onFilterChange,
@@ -8825,6 +9324,16 @@ function DrummerList({
           accessibilityLabel="Browse metal genres"
         >
           <Text style={[styles.quizButtonText, { color: '#ffffff' }]}>🎸 Browse Genres</Text>
+        </TouchableOpacity>
+      </View>
+      <View style={[styles.actionButtonsRow, { marginTop: -8 }]}>
+        <TouchableOpacity
+          onPress={onNavigateToTechniques}
+          style={[styles.quizButton, { backgroundColor: '#dc2626', borderColor: '#dc2626' }]}
+          accessibilityRole="button"
+          accessibilityLabel="Learn drumming techniques"
+        >
+          <Text style={[styles.quizButtonText, { color: '#ffffff' }]}>🥁 Learn Techniques</Text>
         </TouchableOpacity>
       </View>
       {/* Drummer Spotlight Section */}
@@ -9669,6 +10178,83 @@ function updateGearComparisonMeta(comparison) {
     setMeta('twitter:card', 'summary_large_image');
     setMeta('twitter:title', title);
     setMeta('twitter:description', description);
+  }
+}
+
+// ==========================================
+// DRUMMING TECHNIQUES ROUTING (Issue #344)
+// ==========================================
+
+// Check if we're on a technique detail page (/techniques/:slug)
+function isTechniqueDetailPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  return /^\/techniques\/[a-z0-9-]+$/i.test(window.location.pathname);
+}
+
+// Check if we're on the techniques index page (/techniques)
+function isTechniquesIndexPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  const pathname = window.location.pathname;
+  return pathname === '/techniques' || pathname === '/techniques/';
+}
+
+// Get technique slug from URL
+function getTechniqueSlugFromURL() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(/^\/techniques\/([a-z0-9-]+)$/i);
+  return match ? match[1] : null;
+}
+
+// Update URL for technique page
+function updateTechniqueURL(slug) {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return;
+  const newPath = slug ? `/techniques/${slug}` : '/techniques';
+  window.history.pushState({}, '', newPath);
+}
+
+// Update meta tags for technique pages
+function updateTechniqueMeta(technique) {
+  if (Platform.OS !== 'web' || typeof document === 'undefined') return;
+
+  const setMeta = (name, content, isProperty = false) => {
+    const attr = isProperty ? 'property' : 'name';
+    let meta = document.querySelector(`meta[${attr}="${name}"]`);
+    if (!meta) {
+      meta = document.createElement('meta');
+      meta.setAttribute(attr, name);
+      document.head.appendChild(meta);
+    }
+    meta.setAttribute('content', content);
+  };
+
+  if (technique) {
+    document.title = technique.metaTitle;
+    setMeta('description', technique.metaDescription);
+    setMeta('og:title', technique.metaTitle, true);
+    setMeta('og:description', technique.metaDescription, true);
+    setMeta('og:type', 'article', true);
+    setMeta('og:url', `https://metalforge.io/techniques/${technique.slug}`, true);
+    setMeta('twitter:card', 'summary_large_image');
+    setMeta('twitter:title', technique.metaTitle);
+    setMeta('twitter:description', technique.metaDescription);
+    // Add article-specific tags for SEO
+    setMeta('article:section', technique.category, true);
+    if (technique.seoKeywords && technique.seoKeywords.length > 0) {
+      setMeta('keywords', technique.seoKeywords.join(', '));
+    }
+  } else {
+    const title = 'Metal Drumming Techniques - Blast Beats, Double Bass & More | MetalForge';
+    const description = 'Master metal drumming techniques. Learn blast beats, double bass, gravity blasts, polyrhythms and more. Tutorials, pro tips, and gear recommendations.';
+    document.title = title;
+    setMeta('description', description);
+    setMeta('og:title', title, true);
+    setMeta('og:description', description, true);
+    setMeta('og:type', 'website', true);
+    setMeta('og:url', 'https://metalforge.io/techniques', true);
+    setMeta('twitter:card', 'summary_large_image');
+    setMeta('twitter:title', title);
+    setMeta('twitter:description', description);
+    setMeta('keywords', 'metal drumming techniques, blast beat, double bass, gravity blast, polyrhythms, drum tutorial');
   }
 }
 
@@ -11423,6 +12009,11 @@ function AppContent() {
   const [gearComparisonSlug, setGearComparisonSlug] = useState(() => getGearComparisonSlugFromURL());
   const [showGearComparisonsIndex, setShowGearComparisonsIndex] = useState(() => isGearComparisonsIndexPage());
 
+  // Drumming Techniques Page state (Issue #344)
+  const [showTechniqueDetail, setShowTechniqueDetail] = useState(() => isTechniqueDetailPage());
+  const [techniqueSlug, setTechniqueSlug] = useState(() => getTechniqueSlugFromURL());
+  const [showTechniquesIndex, setShowTechniquesIndex] = useState(() => isTechniquesIndexPage());
+
   // Gear Category Page state (Issue #339)
   const [showGearIndex, setShowGearIndex] = useState(() => isGearIndexPage());
   const [showGearCategory, setShowGearCategory] = useState(() => isGearCategoryPage());
@@ -12016,6 +12607,68 @@ function AppContent() {
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
+      } else if (isTechniqueDetailPage()) {
+        // Technique detail page (Issue #344)
+        const slug = getTechniqueSlugFromURL();
+        setShowTechniqueDetail(true);
+        setTechniqueSlug(slug);
+        setShowTechniquesIndex(false);
+        setShowGearComparisonsIndex(false);
+        setShowGearComparison(false);
+        setGearComparisonSlug(null);
+        setShowGenresList(false);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowKitBuilder(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowList(false);
+        setListSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+        // Update meta tags
+        const technique = getTechniqueBySlug(slug);
+        if (technique) {
+          updateTechniqueMeta(technique);
+        }
+      } else if (isTechniquesIndexPage()) {
+        // Techniques index page (Issue #344)
+        setShowTechniquesIndex(true);
+        setShowTechniqueDetail(false);
+        setTechniqueSlug(null);
+        setShowGearComparisonsIndex(false);
+        setShowGearComparison(false);
+        setGearComparisonSlug(null);
+        setShowGenresList(false);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowKitBuilder(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowList(false);
+        setListSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+        // Update meta tags
+        updateTechniqueMeta(null);
       } else {
         // Back to home page
         setShowCompare(false);
@@ -12038,6 +12691,9 @@ function AppContent() {
         setShowGearComparison(false);
         setGearComparisonSlug(null);
         setShowGearComparisonsIndex(false);
+        setShowTechniqueDetail(false);
+        setTechniqueSlug(null);
+        setShowTechniquesIndex(false);
         setSelectedGear(null);
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
@@ -12777,6 +13433,105 @@ setShowList(false);
     }
   };
 
+  // Navigate to technique detail page (Issue #344)
+  const handleNavigateToTechnique = (slug) => {
+    setShowTechniqueDetail(true);
+    setTechniqueSlug(slug);
+    setShowTechniquesIndex(false);
+    // Reset other views
+    setShowGearComparison(false);
+    setGearComparisonSlug(null);
+    setShowGearComparisonsIndex(false);
+    setShowGearFinder(false);
+    setShowGearByBudget(false);
+    setShowGearIndex(false);
+    setShowGearCategory(false);
+    setGearCategory(null);
+    setGearCategoryData(null);
+    setShowBandDetail(false);
+    setBandSlug(null);
+    setShowList(false);
+    setListSlug(null);
+    setShowSpotlights(false);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowPrivacy(false);
+    setShowQuotes(false);
+    setShowBioPage(false);
+    setBioSlug(null);
+    setShowGenrePage(false);
+    setGenreSlug(null);
+    setShowGenresList(false);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    // Update URL and meta tags
+    updateTechniqueURL(slug);
+    const technique = getTechniqueBySlug(slug);
+    if (technique) {
+      updateTechniqueMeta(technique);
+    }
+  };
+
+  // Navigate to techniques index page (Issue #344)
+  const handleNavigateToTechniquesIndex = () => {
+    setShowTechniquesIndex(true);
+    setShowTechniqueDetail(false);
+    setTechniqueSlug(null);
+    // Reset other views
+    setShowGearComparison(false);
+    setGearComparisonSlug(null);
+    setShowGearComparisonsIndex(false);
+    setShowGearFinder(false);
+    setShowGearByBudget(false);
+    setShowGearIndex(false);
+    setShowGearCategory(false);
+    setGearCategory(null);
+    setGearCategoryData(null);
+    setShowBandDetail(false);
+    setBandSlug(null);
+    setShowList(false);
+    setListSlug(null);
+    setShowSpotlights(false);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowPrivacy(false);
+    setShowQuotes(false);
+    setShowBioPage(false);
+    setBioSlug(null);
+    setShowGenrePage(false);
+    setGenreSlug(null);
+    setShowGenresList(false);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    // Update URL and meta tags
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/techniques');
+    }
+    updateTechniqueMeta(null);
+  };
+
+  // Handle back from technique page (Issue #344)
+  const handleBackFromTechnique = () => {
+    if (showTechniqueDetail) {
+      // Go back to techniques index
+      setShowTechniqueDetail(false);
+      setTechniqueSlug(null);
+      setShowTechniquesIndex(true);
+      if (Platform.OS === 'web' && typeof window !== 'undefined') {
+        window.history.pushState({}, '', '/techniques');
+      }
+      updateTechniqueMeta(null);
+    } else {
+      // Go back to home
+      setShowTechniquesIndex(false);
+      if (Platform.OS === 'web' && typeof window !== 'undefined') {
+        window.history.pushState({}, '', '/');
+      }
+    }
+  };
+
   const handleCompareYourKit = (drummer) => {
     setCompareKitDrummer(drummer);
     setShowCompareYourKit(true);
@@ -12939,27 +13694,6 @@ setShowList(false);
         />
       );
     }
-    // BPM Range Landing Page (Issue #342)
-    if (showBpmRange) {
-      return (
-        <BpmRangePage
-          rangeSlug={bpmRangeSlug}
-          theme={theme}
-          drummers={drummers}
-          onBack={() => {
-            setShowBpmRange(false);
-            setBpmRangeSlug(null);
-            setShowBpmTap(true);
-            if (Platform.OS === 'web' && typeof window !== 'undefined') {
-              window.history.pushState({}, '', '/bpm');
-            }
-          }}
-          onSelectDrummer={handleSelectDrummer}
-          onNavigateToBpmRange={(slug) => { setBpmRangeSlug(slug); updateBpmRangeURL(slug); }}
-          onNavigateToBpmTap={() => { setShowBpmRange(false); setBpmRangeSlug(null); setShowBpmTap(true); if (Platform.OS === 'web') window.history.pushState({}, '', '/bpm'); }}
-        />
-      );
-    }
     // BPM Tap Calculator Page (Issue #342)
     if (showBpmTap) {
       return (
@@ -12967,8 +13701,6 @@ setShowList(false);
           theme={theme}
           onBack={() => {
             setShowBpmTap(false);
-            setShowBpmRange(false);
-            setBpmRangeSlug(null);
             if (Platform.OS === 'web' && typeof window !== 'undefined') {
               window.history.pushState({}, '', '/');
             }
@@ -13150,6 +13882,7 @@ setShowList(false);
           onNavigateToBpmTap={handleNavigateToBpmTap}
           onNavigateToBirthdayCalendar={handleNavigateToBirthdayCalendar}
           onNavigateToGenresList={handleNavigateToGenresList}
+          onNavigateToTechniques={handleNavigateToTechniquesIndex}
           spotlight={getCurrentSpotlightDrummer(drummers)}
           filters={filters}
           onFilterChange={handleFilterChange}
@@ -13168,7 +13901,7 @@ setShowList(false);
 
   return (
     <View style={[styles.container, { backgroundColor: theme.background }]}>
-      {!selectedDrummer && !showCompare && !showQuiz && !showPrivacy && !showQuotes && !selectedGear && !showBpmTap && !showBpmRange && !showBirthdayCalendar && !showBandDetail && !showGearFinder && !showBioPage && !showGearIndex && !showGearCategory && !showGearComparison && !showGearComparisonsIndex && !showSpotlights && !showGenrePage && !showGenresList && !showKitBuilder && <SEOHead drummers={drummers} filters={filters} />}
+      {!selectedDrummer && !showCompare && !showQuiz && !showPrivacy && !showQuotes && !selectedGear && !showBpmTap && !showBpmRange && !showBirthdayCalendar && !showBandDetail && !showGearFinder && !showBioPage && !showGearIndex && !showGearCategory && !showGearComparison && !showGearComparisonsIndex && !showSpotlights && !showGenrePage && !showGenresList && !showKitBuilder && !showTechniquesIndex && !showTechniqueDetail && <SEOHead drummers={drummers} filters={filters} />}
       <View style={styles.header} accessibilityRole="banner">
         <View style={styles.headerContent}>
           <Text style={[styles.title, { color: theme.text }]} accessibilityRole="header">

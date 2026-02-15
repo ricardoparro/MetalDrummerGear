@@ -5971,6 +5971,1158 @@ Hellhammer's incredible speed, precision, and versatility have made him the go-t
         ]
       }
     }
+  },
+
+  // Ray Luzier - Korn (Issue #327)
+  'ray-luzier': {
+    slug: 'ray-luzier',
+    drummerId: 18,
+    name: 'Ray Luzier',
+    bands: [
+      { slug: 'korn', period: '2007-present', role: 'Drummer' },
+      { slug: 'kxm', period: '2014-present', role: 'Drummer' },
+      { slug: 'army-of-anyone', period: '2006-2007', role: 'Drummer' },
+      { slug: 'david-lee-roth', period: '1997-2005', role: 'Touring drummer' }
+    ],
+    metaTitle: 'Ray Luzier Biography - Korn Drummer & Nu Metal Powerhouse | MetalForge',
+    metaDescription: 'Complete biography of Ray Luzier, Korn\'s drummer since 2007. Explore his career from David Lee Roth to Korn, his technical style, Musicians Institute background, and signature gear.',
+    ogImage: '/images/drummers/ray-luzier.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Ray Luzier (born Raymond Lee Luzier; June 14, 1970, in Pittsburgh, Pennsylvania) is an American drummer best known as the drummer of nu metal band Korn since 2007. A graduate of the Musicians Institute in Hollywood, Luzier is regarded as one of the most technically proficient drummers in modern rock and metal.
+
+Before joining Korn, Luzier built an impressive resume playing with David Lee Roth (1997-2005), Army of Anyone (with the DeLeo brothers of Stone Temple Pilots), and Steel Panther. His combination of technical prowess, versatility across genres, and groove-heavy playing has made him a perfect fit for Korn's complex, syncopated rhythms.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1988', event: 'Moved to Hollywood to attend Musicians Institute; graduated 1989' },
+          { year: '1992', event: 'Began teaching at Musicians Institute (through 2001)' },
+          { year: '1997', event: 'Joined David Lee Roth\'s band; began touring with former Van Halen frontman' },
+          { year: '1997', event: 'Joined Steel Panther (then Metal Shop) as founding drummer' },
+          { year: '2004', event: 'Released instructional DVD through Hal Leonard Publishing' },
+          { year: '2006', event: 'Joined Army of Anyone with Stone Temple Pilots\' DeLeo brothers and Richard Patrick' },
+          { year: '2007', event: 'Auditioned for Korn, learning 30 songs when asked to learn 5' },
+          { year: '2008', event: 'First Korn show on January 13 in Dublin, Ireland' },
+          { year: '2009', event: 'Officially announced as full member of Korn' },
+          { year: '2010', event: 'Filled in for Eric Kretz on Stone Temple Pilots reunion tour dates' },
+          { year: '2014', event: 'Formed supergroup KXM with George Lynch and Doug Pinnick' },
+          { year: '2022', event: 'Released "Requiem" with Korn, their 14th studio album' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Ray Luzier's drumming style combines technical precision with groove-heavy playing, perfectly suited for Korn's syncopated, hip-hop-influenced metal sound. His versatility allows him to seamlessly shift between funk, jazz, and metal techniques within the same song.
+
+**Key Influences:**
+- **Vinnie Colaiuta**: Technical precision and versatility
+- **Dennis Chambers**: Funk and jazz fusion groove
+- **Steve Gadd**: Session drumming mastery
+- **Neil Peart (Rush)**: Complex arrangements
+
+**Signature Techniques:**
+- Syncopated, hip-hop influenced grooves
+- Complex double bass patterns with groove retention
+- Jazz-influenced fills and ghost notes
+- Seamless transitions between funk and metal
+- Technical precision honed from years of teaching`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'David Lee Roth - DLR Band', year: 1998, label: 'Warp', note: 'First major label release' },
+          { name: 'Army of Anyone - Army of Anyone', year: 2006, label: 'RCA', note: 'Supergroup with STP members' },
+          { name: 'Korn - Korn III: Remember Who You Are', year: 2010, label: 'Roadrunner', note: 'First Korn studio album' },
+          { name: 'Korn - The Path of Totality', year: 2011, label: 'Roadrunner', note: 'Dubstep-influenced experiment' },
+          { name: 'Korn - The Paradigm Shift', year: 2013, label: 'Prospect Park', note: 'Return to roots' },
+          { name: 'KXM - KXM', year: 2014, label: 'Rat Pak', note: 'Supergroup with George Lynch' },
+          { name: 'Korn - The Serenity of Suffering', year: 2016, label: 'Roadrunner', note: 'Heavier return' },
+          { name: 'Korn - The Nothing', year: 2019, label: 'Roadrunner', note: 'Emotional depth' },
+          { name: 'Korn - Requiem', year: 2022, label: 'Loma Vista', note: 'Critically acclaimed' }
+        ],
+        tours: [
+          { name: 'David Lee Roth Tours', year: '1997-2005', note: 'Eight years with DLR' },
+          { name: 'Korn World Tours', year: '2008-Present', note: 'Continuous touring with Korn' },
+          { name: 'KXM Tours', year: '2014-2019', note: 'Side project touring' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Ray Luzier is a Pearl Drums and Sabian Cymbals endorser. His setup is designed for versatility, capable of handling Korn's complex grooves and heavy moments with equal precision.
+
+**Current Setup:**
+- **Drums**: Pearl Reference Pure in custom finishes
+- **Snare**: Pearl Reference 14"x5" Brass or Steel
+- **Cymbals**: Sabian (15" HHX Evolution Hi-Hats, AAX and HHX crashes, 21" AAX Raw Bell Dry Ride)
+- **Hardware**: DW 9000 Series double pedal
+- **Sticks**: Vic Firth Ray Luzier Signature
+- **Heads**: Evans
+
+**Equipment Evolution:**
+- Previously endorsed ddrum and Orange County Drum and Percussion (OCDP)
+- Known for adapting kit to match each project's requirements
+- Uses hybrid acoustic/electronic setups for Korn's modern sound`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Grew up on a 118-acre farm in West Newton, Pennsylvania',
+          'Started playing drums at age 5',
+          'Taught rock drumming at Musicians Institute for 9 years (1992-2001)',
+          'When asked to learn 5 Korn songs for audition, learned 30 instead',
+          'Was briefly a member of Steel Panther before their fame',
+          'His father directed him to drums after he was assigned tuba in school',
+          'Recorded drums for Japanese pop group KAT-TUN\'s #1 single',
+          'Has two sons, born in 2011 and 2015',
+          'Known for his warm personality and accessibility at drum clinics'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Pearl Drums Artist Profile', url: 'https://pearldrum.com' },
+          { name: 'Sabian Artist Profile', url: 'https://sabian.com/artist/ray-luzier/' },
+          { name: 'Modern Drummer Magazine', url: 'https://www.moderndrummer.com' },
+          { name: 'Wikipedia: Ray Luzier', url: 'https://en.wikipedia.org/wiki/Ray_Luzier' }
+        ]
+      }
+    }
+  },
+
+  // John Otto - Limp Bizkit (Issue #327)
+  'john-otto': {
+    slug: 'john-otto',
+    drummerId: 19,
+    name: 'John Otto',
+    bands: [
+      { slug: 'limp-bizkit', period: '1994-present', role: 'Drummer, founding member' }
+    ],
+    metaTitle: 'John Otto Biography - Limp Bizkit Drummer & Nu Metal Pioneer | MetalForge',
+    metaDescription: 'Complete biography of John Otto, founding drummer of Limp Bizkit. Explore his career, jazz-influenced style, nu metal legacy, and contributions to one of the biggest bands of the late 90s.',
+    ogImage: '/images/drummers/john-otto.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `John Otto (born John Everett Otto; March 22, 1977, in Jacksonville, Florida) is an American musician best known as the drummer and a founding member of nu metal band Limp Bizkit. Modern Drummer magazine described his playing as "grounded in metal, jazz, and hip-hop" with "fireball rhythms [that] are the grease that makes the Bizkit cook."
+
+Otto studied jazz drumming at the Douglas Anderson School of the Arts and played in local avant-garde bands before co-founding Limp Bizkit with Fred Durst and Sam Rivers. What started as a small Jacksonville band became one of the most successful acts of the late 1990s and early 2000s, selling over 40 million records worldwide.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1994', event: 'Co-founded Limp Bizkit in Jacksonville, Florida with Fred Durst and Sam Rivers' },
+          { year: '1997', event: 'Released "Three Dollar Bill, Y\'all$," Limp Bizkit\'s debut album' },
+          { year: '1999', event: 'Released "Significant Other," selling over 7 million copies in the US' },
+          { year: '1999', event: 'Performed at Woodstock \'99, controversial but career-defining' },
+          { year: '2000', event: 'Released "Chocolate Starfish and the Hot Dog Flavored Water," instant #1' },
+          { year: '2003', event: 'Released "Results May Vary" with new guitarist' },
+          { year: '2005', event: 'Co-wrote "The Channel" on "The Unquestionable Truth (Part 1)"' },
+          { year: '2009', event: 'Reunited with original lineup for comeback world tour' },
+          { year: '2011', event: 'Released "Gold Cobra" with reunited original lineup' },
+          { year: '2021', event: 'Released "Still Sucks," first album in 10 years' },
+          { year: '2022', event: 'Appeared on "Come Dance with Me" TV show with daughter Ava' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `John Otto's drumming style is a unique fusion of metal power, jazz sophistication, and hip-hop groove. His ability to seamlessly blend these disparate genres created the rhythmic foundation for Limp Bizkit's distinctive sound.
+
+**Key Influences:**
+- **Jazz drumming**: Studied at Douglas Anderson School of the Arts
+- **Brazilian and Afro-Cuban percussion**: World music rhythms
+- **Bebop drummers**: Complex jazz vocabulary
+- **Funk and hip-hop**: Groove-heavy playing
+
+**Signature Techniques:**
+- Fusion of metal aggression with jazz complexity
+- Hip-hop influenced grooves and syncopation
+- Funk-derived pocket playing
+- Creative use of dynamics within heavy music
+- Avant-garde influences from early Jacksonville scene`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Limp Bizkit - Three Dollar Bill, Y\'all$', year: 1997, label: 'Flip/Interscope', note: 'Debut album' },
+          { name: 'Limp Bizkit - Significant Other', year: 1999, label: 'Flip/Interscope', note: '7 million US sales' },
+          { name: 'Limp Bizkit - Chocolate Starfish and the Hot Dog Flavored Water', year: 2000, label: 'Flip/Interscope', note: 'Debuted at #1' },
+          { name: 'Limp Bizkit - Results May Vary', year: 2003, label: 'Flip/Interscope', note: 'Post-Wes Borland era' },
+          { name: 'Limp Bizkit - Gold Cobra', year: 2011, label: 'Flip/Interscope', note: 'Original lineup reunion' },
+          { name: 'Limp Bizkit - Still Sucks', year: 2021, label: 'Suretone', note: 'Surprise release' }
+        ],
+        tours: [
+          { name: 'Family Values Tour', year: '1998, 1999', note: 'Co-headlining nu metal package tour' },
+          { name: 'Anger Management Tour', year: '2000, 2003', note: 'With Eminem' },
+          { name: 'Limp Bizkit World Tours', year: '2009-Present', note: 'Reunion and ongoing touring' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `John Otto endorses Orange County Drum and Percussion (OCDP), Zildjian cymbals and sticks, Remo drumheads, and Gibraltar hardware. His setup reflects his diverse musical influences.
+
+**Current Setup:**
+- **Drums**: Orange County Drum and Percussion custom kit
+- **Snare**: OCDP custom snares
+- **Cymbals**: Zildjian (various crashes, hi-hats, and rides)
+- **Hardware**: Gibraltar
+- **Sticks**: Zildjian
+- **Heads**: Remo
+
+**Setup Evolution:**
+- Previously endorsed Pearl hardware for many years
+- Known for customizing setups based on song requirements
+- Uses a relatively straightforward kit despite technical playing ability`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Studied jazz drumming at Douglas Anderson School of the Arts in Jacksonville',
+          'Played in avant-garde bands before joining Limp Bizkit',
+          'Was recommended to Limp Bizkit by bassist Sam Rivers',
+          'Rumors in 2004 that he became a Benedictine monk were debunked by Fred Durst',
+          'Has a rap career under the name "Johnny Ottomatic"',
+          'Formed rap group Sun Zoo with rapper L.A. Jay',
+          'Produced drums on rapper Diabolic\'s 2010 debut album',
+          'Appeared on TV show "Come Dance with Me" in 2022 with his daughter',
+          'Previously lived in Marina del Rey and Santa Clarita, California'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Remo Artist Profile', url: 'https://remo.com/team/member/john-otto/' },
+          { name: 'Modern Drummer Magazine', url: 'https://www.moderndrummer.com/2004/05/john-otto/' },
+          { name: 'Limp Bizkit Official', url: 'https://limpbizkit.com' },
+          { name: 'Wikipedia: John Otto', url: 'https://en.wikipedia.org/wiki/John_Otto_(drummer)' }
+        ]
+      }
+    }
+  },
+
+  // Jay Weinberg - Slipknot (Issue #327)
+  'jay-weinberg': {
+    slug: 'jay-weinberg',
+    drummerId: 20,
+    name: 'Jay Weinberg',
+    bands: [
+      { slug: 'slipknot', period: '2014-2023', role: 'Drummer' },
+      { slug: 'suicidal-tendencies', period: '2024-2026', role: 'Drummer' },
+      { slug: 'against-me', period: '2010-2012', role: 'Drummer' },
+      { slug: 'e-street-band', period: '2008-2009', role: 'Touring drummer (fill-in)' }
+    ],
+    metaTitle: 'Jay Weinberg Biography - Former Slipknot Drummer & Max Weinberg\'s Son | MetalForge',
+    metaDescription: 'Complete biography of Jay Weinberg, Slipknot drummer from 2014-2023. Explore his journey from filling in for his father with Bruce Springsteen to becoming a metal icon with Slipknot.',
+    ogImage: '/images/drummers/jay-weinberg.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Jay Weinberg (born Jay Bradley Weinberg; September 8, 1990, in Middletown Township, New Jersey) is an American drummer best known for his tenure as Slipknot's drummer from 2014 to 2023. He is the son of Max Weinberg, legendary drummer for Bruce Springsteen's E Street Band.
+
+Weinberg's career spans diverse genres: from substituting for his father with Bruce Springsteen, to playing hardcore punk with Against Me! and Madball, to becoming the masked drummer #1 in one of metal's most extreme bands. His ability to honor Joey Jordison's legacy while bringing his own explosive energy made him a fan favorite during his nine years with Slipknot.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '2005', event: 'First performances at age 15 with The Used and Bouncing Souls' },
+          { year: '2008', event: 'First appearance with E Street Band, playing "Born to Run" at Giants Stadium' },
+          { year: '2009', event: 'Toured with Bruce Springsteen, filling in for father Max during Conan Tonight Show conflict' },
+          { year: '2010', event: 'Joined Madball; recorded "Empire" album' },
+          { year: '2011', event: 'Joined Against Me! for touring and recording' },
+          { year: '2014', event: 'Joined Slipknot, replacing Joey Jordison; identity kept secret initially' },
+          { year: '2014', event: 'Recorded ".5: The Gray Chapter" with Slipknot; graduated Stevens Institute of Technology' },
+          { year: '2019', event: 'Released "We Are Not Your Kind" with Slipknot; received widespread acclaim' },
+          { year: '2022', event: 'Released "The End, So Far" with Slipknot' },
+          { year: '2023', event: 'Parted ways with Slipknot in November; expressed being "blindsided"' },
+          { year: '2024', event: 'Joined Infectious Grooves and Suicidal Tendencies' },
+          { year: '2024', event: 'Surprise appearance with E Street Band at Barcelona show' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Jay Weinberg's drumming style combines the technical precision inherited from his father's professional discipline with the raw aggression demanded by Slipknot's extreme metal. His playing honors Joey Jordison's legacy while incorporating his own hardcore punk energy and dynamic sensitivity.
+
+**Key Influences:**
+- **Joey Jordison (Slipknot)**: Speed, precision, and showmanship
+- **Max Weinberg (E Street Band)**: Professional discipline and dynamics
+- **Hardcore punk scene**: Raw energy and intensity
+- **Dave Grohl**: Energetic, long-hair-flying style
+
+**Signature Techniques:**
+- Sustained blast beats with clarity
+- Powerful double bass patterns
+- Dynamic control from arena rock to extreme metal
+- Hardcore punk-influenced intensity
+- Ability to replicate complex Jordison parts authentically`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Madball - Empire', year: 2010, label: 'Nuclear Blast', note: 'Hardcore with Madball' },
+          { name: 'Slipknot - .5: The Gray Chapter', year: 2014, label: 'Roadrunner', note: 'First Slipknot album' },
+          { name: 'Hesitation Wounds - Awake For Everything', year: 2016, label: 'Deathwish', note: 'Hardcore side project' },
+          { name: 'Slipknot - We Are Not Your Kind', year: 2019, label: 'Roadrunner', note: 'Critical acclaim' },
+          { name: 'Slipknot - The End, So Far', year: 2022, label: 'Roadrunner', note: 'Final album with Slipknot' }
+        ],
+        tours: [
+          { name: 'Bruce Springsteen Working on a Dream Tour', year: '2009', note: 'Fill-in for father Max' },
+          { name: 'Slipknot World Tours', year: '2014-2023', note: 'Nine years of touring' },
+          { name: 'Knotfest', year: '2014-2023', note: 'Slipknot\'s own festival' },
+          { name: 'Suicidal Tendencies Tours', year: '2024-2026', note: 'Post-Slipknot era' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Jay Weinberg endorses SJC Custom Drums, Zildjian Cymbals, Evans Drumheads, DW Hardware, Roland electronics, and Vater drumsticks. His setup is designed for the demanding requirements of Slipknot's live show.
+
+**Current Setup:**
+- **Drums**: SJC Custom Drums
+- **Snare**: SJC Custom snares
+- **Cymbals**: Zildjian (various K and A Custom series)
+- **Hardware**: DW 9000 Series
+- **Electronics**: Roland for triggers and samples
+- **Sticks**: Vater
+- **Heads**: Evans
+
+**Setup Characteristics:**
+- Hybrid acoustic/electronic setup for Slipknot's samples
+- Built for durability during intense live performances
+- Custom finishes matching Slipknot's visual aesthetic`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Son of Max Weinberg, Bruce Springsteen\'s E Street Band drummer',
+          'Father took him to Ozzfest to see Slipknot as a child, sparking his metal passion',
+          'Started playing drums at age 14, mostly self-taught using father\'s gear',
+          'Played ice hockey as a goaltender before focusing on drums',
+          'Graduated from Stevens Institute of Technology in 2014 (same year he joined Slipknot)',
+          'His identity as Slipknot\'s drummer was leaked by a former drum tech',
+          'Comparisons to Dave Grohl for his energetic, hair-flying style',
+          'Left Against Me! via Twitter without notifying bandmates first',
+          'Described being "blindsided" and "heartbroken" over Slipknot firing in 2023'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'SJC Custom Drums', url: 'https://sjcdrums.com' },
+          { name: 'Zildjian Artist Profile', url: 'https://zildjian.com/artists' },
+          { name: 'Modern Drummer Magazine', url: 'https://www.moderndrummer.com' },
+          { name: 'Wikipedia: Jay Weinberg', url: 'https://en.wikipedia.org/wiki/Jay_Weinberg' }
+        ]
+      }
+    }
+  },
+
+  // Vinnie Paul - Pantera (Issue #327) - RIP
+  'vinnie-paul': {
+    slug: 'vinnie-paul',
+    drummerId: 21,
+    name: 'Vinnie Paul',
+    bands: [
+      { slug: 'pantera', period: '1981-2003', role: 'Drummer, co-founder' },
+      { slug: 'damageplan', period: '2003-2004', role: 'Drummer, co-founder' },
+      { slug: 'hellyeah', period: '2006-2018', role: 'Drummer' }
+    ],
+    metaTitle: 'Vinnie Paul Biography - Pantera Drummer & Groove Metal Legend (1964-2018) | MetalForge',
+    metaDescription: 'Complete biography of Vinnie Paul, legendary Pantera co-founder and drummer (1964-2018). Explore his revolutionary groove metal style, career with Dimebag Darrell, and lasting influence.',
+    ogImage: '/images/drummers/vinnie-paul.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Vinnie Paul (born Vincent Paul Abbott; March 11, 1964 – June 22, 2018) was an American musician best known as the drummer and co-founder of legendary groove metal band Pantera. Alongside his younger brother "Dimebag" Darrell Abbott, Vinnie Paul helped define the sound of 1990s heavy metal with albums like "Cowboys from Hell," "Vulgar Display of Power," and "Far Beyond Driven."
+
+After Pantera's breakup, Vinnie Paul co-founded Damageplan with Darrell, and following his brother's tragic murder in 2004, eventually formed Hellyeah in 2006. Several outlets have ranked him among the greatest metal drummers of all time. His powerful, groove-oriented style influenced countless drummers and helped establish groove metal as a distinct subgenre.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1981', event: 'Co-founded Pantera in Arlington, Texas with brother Darrell' },
+          { year: '1990', event: 'Released "Cowboys from Hell," Pantera\'s major label breakthrough' },
+          { year: '1992', event: 'Released "Vulgar Display of Power," defining groove metal' },
+          { year: '1994', event: 'Released "Far Beyond Driven," debuting at #1 on Billboard' },
+          { year: '1996', event: 'Released "The Great Southern Trendkill"' },
+          { year: '2000', event: 'Released "Reinventing the Steel," Pantera\'s final studio album' },
+          { year: '2003', event: 'Pantera disbanded; formed Damageplan with Darrell' },
+          { year: '2004', event: 'December 8: Brother Dimebag Darrell murdered on stage; Damageplan disbanded' },
+          { year: '2006', event: 'Founded Big Vin Records; formed Hellyeah supergroup' },
+          { year: '2007', event: 'Released self-titled Hellyeah debut album' },
+          { year: '2018', event: 'Passed away on June 22 in Las Vegas at age 54' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Vinnie Paul's drumming style defined groove metal: powerful, groove-heavy, and perfectly locked in with Dimebag's legendary guitar riffs. He prioritized feel and pocket over technical showmanship, creating a crushing foundation that made Pantera's music so infectious.
+
+**Key Influences:**
+- **Peter Criss (KISS)**: Early rock drumming influence
+- **Alex Van Halen**: Hard rock power and groove
+- **Tommy Aldridge**: Heavy metal drumming foundation
+- **His father Jerry Abbott**: Country music producer who directed him to drums
+
+**Signature Techniques:**
+- Powerful, groove-locked playing that defined Pantera's sound
+- Use of triggered samples mixed with live drums
+- Playing drumsticks backwards (holding tapered end) for power
+- Prioritizing pocket and feel over technical complexity
+- Signature kick patterns that influenced an entire generation`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Pantera - Cowboys from Hell', year: 1990, label: 'Atco', note: 'Major label breakthrough' },
+          { name: 'Pantera - Vulgar Display of Power', year: 1992, label: 'Atco', note: 'Groove metal defining album' },
+          { name: 'Pantera - Far Beyond Driven', year: 1994, label: 'East West', note: 'Debuted at #1' },
+          { name: 'Pantera - The Great Southern Trendkill', year: 1996, label: 'East West', note: 'Intense and personal' },
+          { name: 'Pantera - Reinventing the Steel', year: 2000, label: 'East West', note: 'Final studio album' },
+          { name: 'Damageplan - New Found Power', year: 2004, label: 'Elektra', note: 'Post-Pantera project' },
+          { name: 'Hellyeah - Hellyeah', year: 2007, label: 'Epic', note: 'Supergroup debut' },
+          { name: 'Hellyeah - Welcome Home', year: 2019, label: 'Eleven Seven', note: 'Posthumous final album' }
+        ],
+        tours: [
+          { name: 'Monsters of Rock', year: '1991', note: 'Major festival exposure' },
+          { name: 'Far Beyond Touring', year: '1994-1995', note: 'Supporting #1 album' },
+          { name: 'Ozzfest', year: '1997, 1998, 2000', note: 'Multiple appearances' },
+          { name: 'Hellyeah Tours', year: '2007-2018', note: 'Final touring years' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Vinnie Paul used various drum brands throughout his career, including Tama, Remo, Pearl, and finally ddrum. He endorsed Sabian cymbals and Vic Firth drumsticks consistently.
+
+**Final Setup (Hellyeah Era):**
+- **Drums**: ddrum Vinnie Paul Signature Series
+- **Snare**: ddrum custom snares
+- **Cymbals**: Sabian (AAX, HHX, and signature models)
+- **Hardware**: ddrum and Danmar
+- **Sticks**: Vic Firth (played backwards, holding tapered end)
+- **Heads**: Evans
+- **Electronics**: ddrum and Roland triggers
+
+**Equipment Evolution:**
+- Tama drums during Cowboys from Hell era (1990-1992)
+- Remo drums for Vulgar Display of Power and Far Beyond Driven
+- Pearl drums from 1996-2008
+- ddrum endorsement from 2008 until death`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Originally played tuba in school band; father directed him to drums',
+          'Father Jerry Abbott was a country music songwriter and producer',
+          'Played drumsticks backwards (holding tapered end) for more power',
+          '"Far Beyond Driven" debuted at #1 on Billboard, remarkable for such heavy music',
+          'Grammy nominated four times with Pantera for Best Metal Performance',
+          'Refused to speak to Phil Anselmo after Pantera\'s breakup',
+          'Founded Big Vin Records after Dimebag\'s death',
+          'Wrote a column with Lacuna Coil\'s Cristina Scabbia for Revolver magazine',
+          'Was working on a cookbook "Drumming up an Appetite" before his death (released posthumously 2025)',
+          'Died of dilated cardiomyopathy and coronary artery disease',
+          'Buried beside his mother and brother Dimebag in Arlington, Texas'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Vic Firth Artist Profile', url: 'https://vicfirth.com/artists/vinnie-paul' },
+          { name: 'ddrum Artist Page', url: 'https://ddrum.com' },
+          { name: 'Revolver Magazine', url: 'https://www.revolvermag.com/music/fan-poll-5-greatest-metal-drummers-all-time' },
+          { name: 'Wikipedia: Vinnie Paul', url: 'https://en.wikipedia.org/wiki/Vinnie_Paul' }
+        ]
+      }
+    }
+  },
+
+  // Charlie Benante - Anthrax (Issue #327)
+  'charlie-benante': {
+    slug: 'charlie-benante',
+    drummerId: 22,
+    name: 'Charlie Benante',
+    bands: [
+      { slug: 'anthrax', period: '1983-present', role: 'Drummer' },
+      { slug: 'stormtroopers-of-death', period: '1985-1999', role: 'Drummer' },
+      { slug: 'pantera', period: '2022-present', role: 'Touring drummer' }
+    ],
+    metaTitle: 'Charlie Benante Biography - Anthrax Drummer & Thrash Metal Pioneer | MetalForge',
+    metaDescription: 'Complete biography of Charlie Benante, Anthrax drummer and thrash metal pioneer. Explore his revolutionary double bass and blast beat techniques, Big Four legacy, and current Pantera touring role.',
+    ogImage: '/images/drummers/charlie-benante.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Charlie Benante (born Charles Lee Benante; November 27, 1962, in The Bronx, New York) is an American drummer best known as the drummer for thrash metal band Anthrax and crossover thrash pioneers Stormtroopers of Death (S.O.D.). He is credited as one of the pioneers of double bass drumming in thrash metal and with popularizing the blast beat technique.
+
+Beyond his drumming, Benante is Anthrax's main composer and a talented graphic artist who has created many of the band's album covers and T-shirt designs. Since 2022, he has also toured with the reunited Pantera, filling in for the late Vinnie Paul, his close friend.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1983', event: 'Joined Anthrax prior to recording debut album "Fistful of Metal"' },
+          { year: '1985', event: 'Formed S.O.D.; released "Speak English or Die," pioneering crossover thrash' },
+          { year: '1985', event: 'Released "Spreading the Disease" with Anthrax' },
+          { year: '1987', event: 'Released "Among the Living," Anthrax\'s breakthrough album' },
+          { year: '1988', event: 'Released "State of Euphoria"; helped define thrash metal drumming' },
+          { year: '1991', event: 'Released "Persistence of Time," showcasing technical evolution' },
+          { year: '2011', event: 'Released "Worship Music" with John Bush and reunited classic lineup' },
+          { year: '2016', event: 'Released "For All Kings" with Anthrax' },
+          { year: '2021', event: 'Released solo album "Silver Linings" during COVID pandemic' },
+          { year: '2022', event: 'Joined reunited Pantera as touring drummer, honoring Vinnie Paul' },
+          { year: '2025', event: 'Married singer Carla Harvey' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Charlie Benante is credited with pioneering several techniques that became standard in thrash metal. His double bass work and blast beats influenced an entire generation of extreme metal drummers. Despite his technical prowess, he maintains groove and serves the song.
+
+**Key Influences:**
+- **Neil Peart (Rush)**: Complex arrangements and precision
+- **John Bonham (Led Zeppelin)**: Power and groove
+- **Bill Ward (Black Sabbath)**: Heavy metal foundation
+- **Jazz drummers**: Technical vocabulary applied to metal
+
+**Signature Techniques:**
+- Pioneer of sustained double bass in thrash metal
+- Credited with popularizing the blast beat in metal
+- Complex, progressive arrangements
+- Dynamic control within extreme tempos
+- Ability to compose and arrange while drumming`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Anthrax - Fistful of Metal', year: 1984, label: 'Megaforce', note: 'Debut album' },
+          { name: 'Anthrax - Spreading the Disease', year: 1985, label: 'Megaforce', note: 'Joey Belladonna era begins' },
+          { name: 'S.O.D. - Speak English or Die', year: 1985, label: 'Megaforce', note: 'Crossover thrash classic' },
+          { name: 'Anthrax - Among the Living', year: 1987, label: 'Island', note: 'Breakthrough album' },
+          { name: 'Anthrax - Persistence of Time', year: 1990, label: 'Island', note: 'Technical peak' },
+          { name: 'Anthrax - Worship Music', year: 2011, label: 'Megaforce', note: 'Triumphant return' },
+          { name: 'Anthrax - For All Kings', year: 2016, label: 'Megaforce', note: 'Grammy-nominated' },
+          { name: 'Solo - Silver Linings', year: 2021, label: 'Megaforce', note: 'COVID-era solo album' }
+        ],
+        tours: [
+          { name: 'Big Four Tours', year: '2010-2011', note: 'Historic thrash metal reunions' },
+          { name: 'Clash of the Titans', year: '1991', note: 'With Slayer, Megadeth, Alice in Chains' },
+          { name: 'Pantera Reunion Tour', year: '2022-Present', note: 'Filling in for late Vinnie Paul' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Charlie Benante endorses Tama drums and hardware, Paiste cymbals, Vic Firth sticks, Evans drumheads, and Roland electronics. He was one of few drummers to use Tama's vintage HP35 Camco pedals until switching to Speed Cobra in 2010.
+
+**Current Setup:**
+- **Drums**: Tama Starclassic Maple
+- **Snare**: Tama Charlie Benante Signature
+- **Cymbals**: Paiste (2002, Signature, and RUDE series)
+- **Hardware**: Tama Speed Cobra double pedal (replaced Camco HP35 in 2010)
+- **Sticks**: Vic Firth Charlie Benante Signature
+- **Heads**: Evans
+- **Electronics**: Roland for triggers
+
+**Historical Note:**
+- Used Tama HP35 Camco chain-drive pedals from 1984-2010
+- Known for vintage pedal preference until Tama discontinued them`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Credited with pioneering double bass drumming and popularizing blast beats in thrash metal',
+          'Main composer for Anthrax in addition to drumming duties',
+          'Creates Anthrax\'s album artwork and T-shirt designs',
+          'Massive collector of Jaws (1975 film) merchandise; featured in "The Shark Is Still Working" documentary',
+          'Bassist Frank Bello is his nephew (Benante\'s mother was Bello\'s grandmother)',
+          'Used same Tama Camco pedals from 1984 until their discontinuation in 2010',
+          'Joined Pantera reunion in 2022 to honor close friend Vinnie Paul',
+          'Released solo album "Silver Linings" during COVID lockdowns',
+          'Born and raised in The Bronx, New York',
+          'Married Carla Harvey (formerly of Butcher Babies) in 2025'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Tama Drums Artist Profile', url: 'https://www.tama.com' },
+          { name: 'Paiste Artist Profile', url: 'https://www.paiste.com/en/musicians/charlie-benante' },
+          { name: 'Vic Firth Artist Profile', url: 'https://vicfirth.com/artists/charlie-benante' },
+          { name: 'Wikipedia: Charlie Benante', url: 'https://en.wikipedia.org/wiki/Charlie_Benante' }
+        ]
+      }
+    }
+  },
+
+  // Brann Dailor - Mastodon (Issue #328 Batch 3)
+  'brann-dailor': {
+    slug: 'brann-dailor',
+    drummerId: 16,
+    name: 'Brann Dailor',
+    bands: [
+      { slug: 'mastodon', period: '2000-present', role: 'Drummer, vocalist' },
+      { slug: 'today-is-the-day', period: '1996-1999', role: 'Drummer' },
+      { slug: 'lethargy', period: '1990-1999', role: 'Drummer' }
+    ],
+    metaTitle: 'Brann Dailor Biography - Mastodon Drummer & Progressive Metal Innovator | MetalForge',
+    metaDescription: 'Complete biography of Brann Dailor, Mastodon\'s Grammy-winning drummer. Explore his revolutionary drumming style, prog-metal innovation, vocal contributions, and signature gear.',
+    ogImage: '/images/drummers/brann-dailor.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Brann Dailor (born March 19, 1975, in Rochester, New York) is an American musician best known as the drummer and co-vocalist for Grammy-winning progressive sludge metal band Mastodon. His drumming style combines jazz-influenced fills with progressive rock complexity, creating a distinctive, flowing approach that has influenced a generation of metal drummers.
+
+Dailor's drumming is characterized by constant motion—intricate fills that weave around the riffs rather than simply keeping time. His "lead drums" approach treats the drums as a melodic instrument, and his increasingly prominent vocal contributions have added another dimension to Mastodon's sound. He co-founded Mastodon in 2000 with guitarist Bill Kelliher, his longtime collaborator from their days in Lethargy and Today Is the Day.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1990', event: 'Co-founded Lethargy with Bill Kelliher in Rochester, NY' },
+          { year: '1996', event: 'Joined Today Is the Day, recording "Temple of the Morning Star"' },
+          { year: '2000', event: 'Co-founded Mastodon in Atlanta, Georgia' },
+          { year: '2002', event: 'Released "Remission," Mastodon\'s debut album' },
+          { year: '2004', event: 'Released "Leviathan," a concept album inspired by Moby Dick' },
+          { year: '2006', event: 'Released "Blood Mountain," featuring guest vocals from Josh Homme' },
+          { year: '2009', event: 'Released "Crack the Skye," widely considered Mastodon\'s masterpiece' },
+          { year: '2011', event: 'Released "The Hunter," featuring more accessible songwriting' },
+          { year: '2014', event: 'Released "Once More \'Round the Sun"' },
+          { year: '2017', event: 'Won Grammy for Best Metal Performance for "Sultan\'s Curse"' },
+          { year: '2021', event: 'Released "Hushed and Grim," a double album honoring manager Nick John' },
+          { year: '2024', event: 'Continues touring as one of metal\'s premier live acts' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Brann Dailor's drumming defies conventional metal norms. Rather than locking into static patterns, his style features constantly evolving fills and rhythmic variations that flow through songs like a melodic instrument. He has described his approach as "lead drums."
+
+**Key Influences:**
+- **Neil Peart (Rush)**: Progressive complexity and composition
+- **Bill Bruford (Yes/King Crimson)**: Jazz-influenced progressive rock
+- **Stewart Copeland (The Police)**: Rhythmic creativity and dynamics
+- **Gene Hoglan (Death)**: Technical death metal foundation
+
+**Signature Techniques:**
+- "Lead drums" approach with constant fills and variations
+- Jazz-influenced linear patterns and ghost notes
+- Melodic tom work creating almost riff-like patterns
+- Seamless integration of complex rhythms within heavy contexts
+- Use of China cymbals for accents and transitions
+- Increasingly prominent vocal contributions (clean and harsh)`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Mastodon - Remission', year: 2002, label: 'Relapse', note: 'Blistering debut' },
+          { name: 'Mastodon - Leviathan', year: 2004, label: 'Relapse', note: 'Moby Dick concept album' },
+          { name: 'Mastodon - Blood Mountain', year: 2006, label: 'Reprise', note: 'Major label debut' },
+          { name: 'Mastodon - Crack the Skye', year: 2009, label: 'Reprise', note: 'Prog masterpiece' },
+          { name: 'Mastodon - The Hunter', year: 2011, label: 'Reprise', note: 'Accessible evolution' },
+          { name: 'Mastodon - Once More \'Round the Sun', year: 2014, label: 'Reprise', note: 'Continued success' },
+          { name: 'Mastodon - Emperor of Sand', year: 2017, label: 'Reprise', note: 'Grammy-winning album' },
+          { name: 'Mastodon - Hushed and Grim', year: 2021, label: 'Reprise', note: 'Epic double album' },
+          { name: 'Today Is the Day - Temple of the Morning Star', year: 1997, label: 'Relapse', note: 'Pre-Mastodon' }
+        ],
+        tours: [
+          { name: 'Unholy Alliance Tour', year: '2006', note: 'With Slayer and Lamb of God' },
+          { name: 'Download Festival', year: '2007, 2012', note: 'Multiple headlining appearances' },
+          { name: 'An Evening with Mastodon', year: '2022-2023', note: 'Co-headlining with Gojira' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Brann Dailor is a longtime DW Drums endorser, using their Collector's Series drums with custom finishes. He favors a large setup to accommodate his expansive, melodic tom work.
+
+**Current Setup:**
+- **Drums**: DW Collector's Series Maple (custom blue finish)
+- **Snare**: DW Collector's Series 14"x6.5" Maple
+- **Cymbals**: Meinl Byzance series (15" Byzance Dark Hi-Hats, various crashes, 22" Byzance Ride, Classics Custom China)
+- **Hardware**: DW 9000 Series Double Pedal
+- **Throne**: DW 9000 Series Throne
+- **Sticks**: Vic Firth 5A (modified)
+- **Heads**: Remo
+
+**Setup Characteristics:**
+- Large kit with multiple rack toms for melodic patterns
+- Extensive use of China cymbals for accents
+- Quick-response cymbals for fast transition work
+- Angled toms for fluid motion between drums`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'His drumming on "Colony of Birchmen" is considered one of the most complex in mainstream metal',
+          'The album "Crack the Skye" is partially dedicated to his late sister Skye',
+          'Has become one of Mastodon\'s primary vocalists, singing lead on several tracks',
+          'Attended the same high school as Bill Kelliher in Rochester, NY',
+          'Known for his trademark flowing hair and energetic live performances',
+          '"Leviathan" was inspired by Herman Melville\'s novel Moby Dick',
+          'His drumming style has been studied in academic music theory contexts',
+          'Won Grammy for "Sultan\'s Curse" in 2017, one of metal\'s highest honors',
+          'Has cited jazz drummers as major influences despite playing extreme metal'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'DW Drums Artist Profile', url: 'https://www.dwdrums.com/artists/brann-dailor/' },
+          { name: 'Meinl Cymbals Artist Profile', url: 'https://meinlcymbals.com/en/artists/brann-dailor' },
+          { name: 'Modern Drummer Magazine', url: 'https://www.moderndrummer.com' },
+          { name: 'Wikipedia: Brann Dailor', url: 'https://en.wikipedia.org/wiki/Brann_Dailor' }
+        ]
+      }
+    }
+  },
+
+  // Chris Adler - Lamb of God (Issue #328 Batch 3)
+  'chris-adler': {
+    slug: 'chris-adler',
+    drummerId: 17,
+    name: 'Chris Adler',
+    bands: [
+      { slug: 'lamb-of-god', period: '1994-2019', role: 'Drummer, co-founder' },
+      { slug: 'megadeth', period: '2015-2016', role: 'Session/touring drummer' }
+    ],
+    metaTitle: 'Chris Adler Biography - Lamb of God Drummer & Groove Metal Pioneer | MetalForge',
+    metaDescription: 'Complete biography of Chris Adler, Lamb of God\'s founding drummer. Explore his innovative groove metal style, Megadeth collaboration, signature gear, and lasting influence.',
+    ogImage: '/images/drummers/chris-adler.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Chris Adler (born November 23, 1972, in Arlington, Virginia) is an American drummer best known as the co-founder and longtime drummer of Lamb of God, one of the most successful American metal bands of the 21st century. His innovative approach to groove metal drumming, combining technical precision with crushing heaviness, has made him one of the most influential drummers in modern metal.
+
+Adler's drumming is characterized by powerful groove-based patterns, creative use of dynamics, and signature techniques like his "pivot" hi-hat foot work. In 2015, he briefly joined Megadeth to record "Dystopia," which won a Grammy for Best Metal Performance. He departed Lamb of God in 2019, and has since focused on new projects and drum education.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1994', event: 'Co-founded Burn the Priest (later Lamb of God) in Richmond, Virginia' },
+          { year: '2000', event: 'Released "New American Gospel" as Lamb of God' },
+          { year: '2004', event: 'Released "Ashes of the Wake," Lamb of God\'s breakthrough album' },
+          { year: '2006', event: 'Released "Sacrament," debuting at #8 on Billboard 200' },
+          { year: '2009', event: 'Released "Wrath," continuing commercial success' },
+          { year: '2012', event: 'Released "Resolution," touring extensively worldwide' },
+          { year: '2015', event: 'Joined Megadeth to record "Dystopia" album' },
+          { year: '2016', event: 'Won Grammy for Best Metal Performance for "Dystopia"' },
+          { year: '2019', event: 'Departed Lamb of God after 25 years' },
+          { year: '2020+', event: 'Focused on new projects and drumming education' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Chris Adler's drumming style blends thrash metal aggression with groove metal's rhythmic punch. His precise, powerful playing emphasizes the groove while maintaining technical sophistication. He's known for creating memorable drum parts that serve the song.
+
+**Key Influences:**
+- **Dave Lombardo (Slayer)**: Thrash metal foundation
+- **Gene Hoglan (Death)**: Technical precision
+- **Neil Peart (Rush)**: Progressive complexity
+- **Vinnie Paul (Pantera)**: Groove metal power
+
+**Signature Techniques:**
+- "Pivot" hi-hat technique using left foot independently
+- Powerful, syncopated groove patterns
+- Creative use of dynamics within heavy contexts
+- Traditional grip for certain passages
+- Ghost notes and finesse within crushing heaviness
+- Signature double bass patterns that prioritize groove over speed`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Lamb of God - New American Gospel', year: 2000, label: 'Prosthetic', note: 'Debut album' },
+          { name: 'Lamb of God - As the Palaces Burn', year: 2003, label: 'Prosthetic', note: 'Building momentum' },
+          { name: 'Lamb of God - Ashes of the Wake', year: 2004, label: 'Epic', note: 'Major label breakthrough' },
+          { name: 'Lamb of God - Sacrament', year: 2006, label: 'Epic', note: '#8 Billboard debut' },
+          { name: 'Lamb of God - Wrath', year: 2009, label: 'Epic', note: 'Peak commercial era' },
+          { name: 'Lamb of God - Resolution', year: 2012, label: 'Epic', note: 'Continued success' },
+          { name: 'Lamb of God - VII: Sturm und Drang', year: 2015, label: 'Epic', note: 'Addressing legal troubles' },
+          { name: 'Megadeth - Dystopia', year: 2016, label: 'Tradecraft', note: 'Grammy-winning performance' }
+        ],
+        tours: [
+          { name: 'Ozzfest', year: '2004, 2006, 2007', note: 'Multiple main stage appearances' },
+          { name: 'Download Festival', year: '2007, 2012', note: 'UK festival headlining' },
+          { name: 'Mayhem Festival', year: '2009, 2010', note: 'US summer touring' },
+          { name: 'Megadeth World Tour', year: '2016', note: 'Supporting Dystopia album' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Chris Adler was a longtime Mapex Drums endorser and developed signature products with both Mapex and Meinl Cymbals. His setup reflects his groove-focused approach with emphasis on power and precision.
+
+**Signature Setup (Lamb of God Era):**
+- **Drums**: Mapex Black Panther Velvetone Series
+- **Snare**: Mapex Chris Adler Signature Black Panther Warbird 12"x5.5" (smaller for faster response)
+- **Cymbals**: Meinl Byzance series (13" Byzance Traditional Hi-Hats, various crashes, Sand Crash-Ride)
+- **Hardware**: Mapex Falcon Double Pedal
+- **Sticks**: Promark Chris Adler Signature TX5AXW
+- **Throne**: Roc-n-Soc
+- **Heads**: Remo (Controlled Sound on snare)
+
+**Unique Setup Elements:**
+- Uses a smaller 12" snare for faster response
+- Traditional grip for certain patterns
+- Meinl signature "Pure Alloy" Chris Adler crash cymbal
+- Emphasis on quick, responsive gear for groove playing`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Self-taught drummer who developed his unique style through experimentation',
+          'His brother Willie Adler is Lamb of God\'s guitarist',
+          'Developed the "pivot" technique—independent left foot hi-hat work',
+          'Won Grammy with Megadeth for "Dystopia" in 2017',
+          'Survived a serious motorcycle accident in 2018',
+          'Known for his humble, educational approach to drumming clinics',
+          'Uses traditional grip for certain passages, unusual in metal',
+          'His drum parts on "Laid to Rest" are considered groove metal benchmarks',
+          'Left Lamb of God in 2019 after 25 years to pursue other interests'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Mapex Drums', url: 'https://www.mapexdrums.com' },
+          { name: 'Meinl Cymbals Artist Profile', url: 'https://meinlcymbals.com' },
+          { name: 'Promark Drumsticks', url: 'https://www.daddario.com/promark/' },
+          { name: 'Wikipedia: Chris Adler', url: 'https://en.wikipedia.org/wiki/Chris_Adler' }
+        ]
+      }
+    }
+  },
+
+  // Matt Halpern - Periphery (Issue #328 Batch 3)
+  'matt-halpern': {
+    slug: 'matt-halpern',
+    drummerId: 18,
+    name: 'Matt Halpern',
+    bands: [
+      { slug: 'periphery', period: '2009-present', role: 'Drummer' }
+    ],
+    metaTitle: 'Matt Halpern Biography - Periphery Drummer & Djent Pioneer | MetalForge',
+    metaDescription: 'Complete biography of Matt Halpern, Periphery\'s influential drummer who helped define the djent movement. Explore his precise style, educational work, and signature gear.',
+    ogImage: '/images/drummers/matt-halpern.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Matt Halpern (born January 7, 1984, in Hartford, Connecticut) is an American drummer best known as the drummer for progressive metal band Periphery. As one of the architects of the "djent" movement, Halpern has become one of the most influential drummers in modern metal, known for his precise, groove-focused playing and dynamic approach.
+
+A graduate of Berklee College of Music, Halpern brings academic rigor to his drumming while maintaining an organic, musical feel. Beyond Periphery, he is an accomplished educator, running popular drumming clinics and online lessons through platforms like Drumeo. His combination of technical excellence, groove sensibility, and educational outreach has made him a hero to a new generation of metal drummers.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '2002', event: 'Began attending Berklee College of Music in Boston' },
+          { year: '2009', event: 'Joined Periphery shortly after the band\'s formation' },
+          { year: '2010', event: 'Released "Periphery" (self-titled), the djent movement\'s landmark album' },
+          { year: '2012', event: 'Released "Periphery II: This Time It\'s Personal"' },
+          { year: '2015', event: 'Released "Juggernaut: Alpha" and "Juggernaut: Omega" double concept album' },
+          { year: '2016', event: 'Released "Periphery III: Select Difficulty"' },
+          { year: '2017', event: 'Won Grammy nomination for Best Metal Performance ("The Price Is Wrong")' },
+          { year: '2019', event: 'Released "Periphery IV: HAIL STAN"' },
+          { year: '2020+', event: 'Expanded educational content and clinics worldwide' },
+          { year: '2024', event: 'Continues as one of modern metal\'s most influential drummers' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Matt Halpern's drumming combines academic precision with organic groove. His playing navigates complex polyrhythmic territory while maintaining a strong sense of musicality and feel. He excels at translating intricate guitar patterns to drums while adding his own creative flourishes.
+
+**Key Influences:**
+- **Vinnie Colaiuta**: Fusion precision and versatility
+- **Tony Williams**: Jazz innovation and dynamics
+- **Thomas Haake (Meshuggah)**: Polyrhythmic foundation
+- **Chris Coleman**: Gospel/R&B groove influence
+
+**Signature Techniques:**
+- Precise navigation of polyrhythmic patterns
+- Dynamic control within heavy contexts
+- Creative use of ghost notes and accents
+- Groove-focused approach to complex time signatures
+- Linear drumming patterns
+- Modern hybrid playing incorporating electronics`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Periphery', year: 2010, label: 'Sumerian', note: 'Self-titled djent landmark' },
+          { name: 'Periphery II: This Time It\'s Personal', year: 2012, label: 'Sumerian', note: 'Expanded sound' },
+          { name: 'Clear EP', year: 2014, label: 'Sumerian', note: 'Each member writes a song' },
+          { name: 'Juggernaut: Alpha/Omega', year: 2015, label: 'Sumerian', note: 'Double concept album' },
+          { name: 'Periphery III: Select Difficulty', year: 2016, label: 'Sumerian', note: 'Grammy-nominated' },
+          { name: 'Periphery IV: HAIL STAN', year: 2019, label: 'Sumerian', note: '16-minute opening epic' }
+        ],
+        tours: [
+          { name: 'Summer Slaughter', year: 'Multiple years', note: 'US extreme metal festival' },
+          { name: 'Periphery Headline Tours', year: '2010-Present', note: 'Worldwide touring' },
+          { name: 'Drum Clinics', year: 'Ongoing', note: 'Educational events worldwide' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Matt Halpern is a Meinl Cymbals and Tama Drums endorser. He co-developed the Meinl Byzance Foundry Reserve series of cymbals and uses a hybrid acoustic/electronic setup.
+
+**Current Setup:**
+- **Drums**: Tama Starclassic Walnut/Birch
+- **Snare**: Tama S.L.P. 14"x6" G-Maple or Starphonic Brass
+- **Cymbals**: Meinl Byzance series (15" Byzance Extra Dry Hi-Hats, Foundry Reserve crashes, 21" Transition Ride)
+- **Hardware**: Tama Speed Cobra 910 Double Pedal
+- **Electronics**: Roland SPD-SX, various triggers
+- **Throne**: Roc-n-Soc Nitro
+- **Sticks**: Vic Firth 5A or custom signature model
+- **Heads**: Evans
+
+**Unique Setup Elements:**
+- Hybrid setup integrating electronic samples
+- Meinl Foundry Reserve cymbals (hand-selected, unique characteristics)
+- Extensive use of triggering for modern production`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Graduated from Berklee College of Music with a degree in Professional Music',
+          'One of the most prominent educators in modern metal drumming',
+          'His Drumeo lessons have millions of views',
+          'Co-designed the Meinl Foundry Reserve cymbal line',
+          'Known for his warm, approachable teaching style',
+          'Periphery\'s self-titled debut is considered a djent movement cornerstone',
+          'Uses a hybrid acoustic/electronic setup for studio and live work',
+          'Has stated that groove is more important than speed or complexity',
+          'Continues to evolve his approach with each Periphery album'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Tama Drums', url: 'https://www.tama.com' },
+          { name: 'Meinl Cymbals Artist Profile', url: 'https://meinlcymbals.com/en/artists/matt-halpern' },
+          { name: 'Drumeo', url: 'https://www.drumeo.com' },
+          { name: 'Wikipedia: Matt Halpern', url: 'https://en.wikipedia.org/wiki/Matt_Halpern' }
+        ]
+      }
+    }
+  },
+
+  // Inferno - Behemoth (Issue #328 Batch 3)
+  'inferno': {
+    slug: 'inferno',
+    drummerId: 19,
+    name: 'Inferno',
+    bands: [
+      { slug: 'behemoth', period: '1997-present', role: 'Drummer' }
+    ],
+    metaTitle: 'Inferno Biography - Behemoth Drummer & Black/Death Metal Machine | MetalForge',
+    metaDescription: 'Complete biography of Inferno (Zbigniew Robert Promiński), Behemoth\'s devastating drummer. Explore his extreme metal precision, theatrical performances, and gear.',
+    ogImage: '/images/drummers/inferno.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Inferno (born Zbigniew Robert Promiński on March 23, 1979, in Gdańsk, Poland) is a Polish drummer best known as the longtime drummer for blackened death metal titans Behemoth. Since joining in 1997, he has been the rhythmic foundation of one of extreme metal's most successful and controversial bands.
+
+Inferno's drumming combines blistering speed with surgical precision, delivering relentless blast beats and complex patterns that define Behemoth's apocalyptic sound. His theatrical stage presence, featuring elaborate costumes and imposing drum risers, matches the band's grandiose visual aesthetic. He is widely regarded as one of the fastest and most consistent extreme metal drummers in the world.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1997', event: 'Joined Behemoth, replacing Baal Ravenlock' },
+          { year: '1999', event: 'Recorded "Satanica," transitioning Behemoth to death metal' },
+          { year: '2004', event: 'Released "Demigod," Behemoth\'s international breakthrough' },
+          { year: '2007', event: 'Released "The Apostasy," reaching new commercial heights' },
+          { year: '2009', event: 'Released "Evangelion," charting in multiple countries' },
+          { year: '2014', event: 'Released "The Satanist," widely considered Behemoth\'s masterpiece' },
+          { year: '2018', event: 'Released "I Loved You at Your Darkest," continuing success' },
+          { year: '2022', event: 'Released "Opvs Contra Natvram," latest studio album' },
+          { year: '2024', event: 'Continues as extreme metal\'s elite drummer' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Inferno's drumming is characterized by relentless intensity, metronomic precision, and the ability to sustain extreme tempos for extended periods. His playing combines black metal ferocity with death metal technicality.
+
+**Key Influences:**
+- **Pete Sandoval (Morbid Angel)**: Death metal blast beat foundation
+- **Hellhammer (Mayhem)**: Black metal intensity
+- **Gene Hoglan (Death)**: Technical precision
+- **Dave Lombardo (Slayer)**: Thrash metal aggression
+
+**Signature Techniques:**
+- Sustained blast beats at extreme tempos (230+ BPM)
+- Precise double bass patterns with clarity
+- Seamless transitions between blast beats and groove sections
+- Creative use of fills within relentless passages
+- Consistent live performances matching studio precision`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Behemoth - Satanica', year: 1999, label: 'Avantgarde', note: 'Death metal transition' },
+          { name: 'Behemoth - Thelema.6', year: 2000, label: 'Avantgarde', note: 'Sound refinement' },
+          { name: 'Behemoth - Zos Kia Cultus', year: 2002, label: 'Avantgarde', note: 'Technical evolution' },
+          { name: 'Behemoth - Demigod', year: 2004, label: 'Regain', note: 'International breakthrough' },
+          { name: 'Behemoth - The Apostasy', year: 2007, label: 'Regain', note: 'Commercial peak' },
+          { name: 'Behemoth - Evangelion', year: 2009, label: 'Nuclear Blast', note: 'Chart success' },
+          { name: 'Behemoth - The Satanist', year: 2014, label: 'Nuclear Blast', note: 'Masterpiece' },
+          { name: 'Behemoth - I Loved You at Your Darkest', year: 2018, label: 'Nuclear Blast', note: 'Continued evolution' },
+          { name: 'Behemoth - Opvs Contra Natvram', year: 2022, label: 'Nuclear Blast', note: 'Latest album' }
+        ],
+        tours: [
+          { name: 'Ozzfest', year: '2007', note: 'US mainstream exposure' },
+          { name: 'Download Festival', year: '2014, 2019', note: 'UK festival headlining' },
+          { name: 'Behemoth Headline Tours', year: '2004-Present', note: 'Worldwide touring' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Inferno is a Pearl Drums and Paiste Cymbals endorser. His setup is designed for extreme speed, power, and theatrical visual impact.
+
+**Current Setup:**
+- **Drums**: Pearl Masterworks Stadium Exotic
+- **Snare**: Pearl Reference 14"x5" or 14"x6.5" brass
+- **Cymbals**: Paiste RUDE series (15" RUDE Sound Edge Hi-Hats, RUDE crashes, RUDE Ride)
+- **Hardware**: Pearl Demon Drive Double Pedal (long boards)
+- **Throne**: Pearl D-2000
+- **Sticks**: Vic Firth 5B or signature model
+- **Heads**: Remo
+
+**Unique Setup Elements:**
+- Elevated drum riser for theatrical impact
+- RUDE cymbals for durability under extreme playing
+- Long board pedals for speed and power
+- Minimalist, efficient kit layout for rapid movement`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Born Zbigniew Robert Promiński; "Inferno" is his stage name',
+          'Has been Behemoth\'s drummer for over 25 years',
+          'His stamina allows consistent blast beat performances for entire concerts',
+          'Behemoth\'s theatrical stage shows feature elaborate costumes and imagery',
+          'The band faced legal troubles in Poland over alleged religious offense',
+          '"The Satanist" was recorded after Nergal\'s recovery from leukemia',
+          'Known for his professional, almost machine-like consistency live',
+          'Uses long board pedals for maximum speed and power',
+          'Considered one of the most reliable drummers in extreme metal touring'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+          { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
+          { name: 'Behemoth Official', url: 'https://behemoth.pl' },
+          { name: 'Wikipedia: Inferno (musician)', url: 'https://en.wikipedia.org/wiki/Inferno_(musician)' }
+        ]
+      }
+    }
+  },
+
+  // Hellhammer - Mayhem (Issue #328 Batch 3)
+  'hellhammer': {
+    slug: 'hellhammer',
+    drummerId: 20,
+    name: 'Hellhammer',
+    bands: [
+      { slug: 'mayhem', period: '1988-present', role: 'Drummer' },
+      { slug: 'arcturus', period: '1991-1997, 2004-present', role: 'Drummer' },
+      { slug: 'dimmu-borgir', period: '1999-2019', role: 'Session/studio drummer' },
+      { slug: 'shining', period: '2005-present', role: 'Session drummer' }
+    ],
+    metaTitle: 'Hellhammer Biography - Mayhem Drummer & Black Metal Legend | MetalForge',
+    metaDescription: 'Complete biography of Hellhammer (Jan Axel Blomberg), legendary Mayhem drummer. Explore his pivotal role in black metal history, extreme drumming style, and diverse career.',
+    ogImage: '/images/drummers/hellhammer.webp',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Hellhammer (born Jan Axel Blomberg on August 2, 1969, in Oslo, Norway) is a Norwegian drummer widely regarded as one of the most influential figures in black metal history. Best known as the longtime drummer of the pioneering black metal band Mayhem, he has also contributed to numerous other projects including Arcturus, Dimmu Borgir, and Shining.
+
+Hellhammer joined Mayhem in 1988, becoming their most enduring member and the rhythmic foundation of the band through its most turbulent years. His drumming combines raw black metal aggression with surprising technical sophistication, and his influence on the genre cannot be overstated. He has recorded with over 40 different bands and artists.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1988', event: 'Joined Mayhem, becoming their longest-serving drummer' },
+          { year: '1991', event: 'Formed Arcturus as a side project' },
+          { year: '1994', event: 'Released "De Mysteriis Dom Sathanas" with Mayhem, black metal\'s defining album' },
+          { year: '1997', event: 'Released "Arcturus - La Masquerade Infernale," avant-garde metal landmark' },
+          { year: '1999', event: 'Began studio work with Dimmu Borgir' },
+          { year: '2000', event: 'Released "Grand Declaration of War" with Mayhem' },
+          { year: '2004', event: 'Released "Chimera" with Mayhem, returning to black metal roots' },
+          { year: '2007', event: 'Released "Ordo Ad Chao" with Mayhem' },
+          { year: '2014', event: 'Released "Esoteric Warfare" with Mayhem' },
+          { year: '2019', event: 'Released "Daemon" with Mayhem' },
+          { year: '2024', event: 'Continues as Mayhem\'s drummer after 35+ years' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Hellhammer's drumming defined the black metal drum template while incorporating influences from jazz, fusion, and progressive rock. His ability to maintain blast beats while adding subtle variations and dynamics sets him apart from many extreme metal drummers.
+
+**Key Influences:**
+- **Cozy Powell**: Hard rock power and showmanship
+- **Bill Bruford (Yes/King Crimson)**: Progressive complexity
+- **Terry Bozzio**: Technical innovation
+- **Early thrash metal**: Speed and aggression
+
+**Signature Techniques:**
+- Pioneering black metal blast beat techniques
+- Creative variations within seemingly repetitive patterns
+- Unexpected jazz and progressive influences
+- Powerful, resonant drum tones (unusual in black metal)
+- Ability to navigate between raw and technical playing`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Mayhem - De Mysteriis Dom Sathanas', year: 1994, label: 'Deathlike Silence', note: 'Black metal cornerstone' },
+          { name: 'Mayhem - Grand Declaration of War', year: 2000, label: 'Season of Mist', note: 'Experimental era' },
+          { name: 'Mayhem - Chimera', year: 2004, label: 'Season of Mist', note: 'Return to black metal' },
+          { name: 'Mayhem - Ordo Ad Chao', year: 2007, label: 'Season of Mist', note: 'Raw, atmospheric' },
+          { name: 'Mayhem - Esoteric Warfare', year: 2014, label: 'Season of Mist', note: 'Modern production' },
+          { name: 'Mayhem - Daemon', year: 2019, label: 'Century Media', note: 'Latest Mayhem album' },
+          { name: 'Arcturus - La Masquerade Infernale', year: 1997, label: 'Misanthropy', note: 'Avant-garde masterpiece' },
+          { name: 'Dimmu Borgir - Puritanical Euphoric Misanthropia', year: 2001, label: 'Nuclear Blast', note: 'Session drums' },
+          { name: 'Shining - V - Halmstad', year: 2007, label: 'Osmose', note: 'DSBM drumming' }
+        ],
+        tours: [
+          { name: 'Mayhem World Tours', year: '1990-Present', note: 'Decades of black metal touring' },
+          { name: 'Arcturus Live Shows', year: 'Intermittent', note: 'Progressive black metal' },
+          { name: 'Festival Appearances', year: 'Ongoing', note: 'Wacken, Hellfest, etc.' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Hellhammer uses Pearl Drums and has been associated with various cymbal brands. His setup balances raw power with the ability to execute complex patterns.
+
+**Current Setup:**
+- **Drums**: Pearl Reference Series or Masters Series
+- **Snare**: Pearl Reference 14"x5.5" brass or steel
+- **Cymbals**: Paiste (RUDE series for durability) or Zildjian
+- **Hardware**: Pearl Eliminator or Demon Drive double pedal
+- **Sticks**: Vic Firth 5B or similar
+- **Heads**: Remo or Evans
+
+**Setup Philosophy:**
+- Favors resonant, powerful drum tones unlike typical black metal thin sound
+- Uses quality gear despite genre's lo-fi aesthetic
+- Setup designed for both studio precision and live durability`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Has been Mayhem\'s drummer for over 35 years, longer than any other member',
+          'Survived the tumultuous early 90s Norwegian black metal scene',
+          'Has recorded with over 40 different bands and artists',
+          '"De Mysteriis Dom Sathanas" was recorded during Mayhem\'s most tragic period',
+          'The name "Hellhammer" is also shared with an influential Swiss proto-black metal band',
+          'His Arcturus work shows progressive and avant-garde influences',
+          'Dimmu Borgir used him for studio recordings due to his reliability',
+          'Known for being professional and consistent despite black metal\'s chaotic reputation',
+          'One of the few first-generation black metal musicians still actively performing'
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+          { name: 'Mayhem Official', url: 'https://thetruemayhem.com' },
+          { name: 'Metal Archives', url: 'https://www.metal-archives.com' },
+          { name: 'Wikipedia: Hellhammer (musician)', url: 'https://en.wikipedia.org/wiki/Hellhammer_(musician)' }
+        ]
+      }
+    }
   }
 };
 

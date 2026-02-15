@@ -5259,6 +5259,130 @@ function GearFinderPage({ theme, onBack, drummers, onSelectDrummer }) {
 // KIT BUILDER PAGE - Interactive Drum Kit Configurator (Issue #341)
 // ==========================================
 
+// Famous drummer preset kits - "Build Like The Pros"
+const PRESET_KITS = [
+  {
+    id: 'lars-ulrich',
+    drummer: 'Lars Ulrich',
+    band: 'Metallica',
+    emoji: '⚡',
+    kit: {
+      drums: 'tama-starclassic-maple',
+      snare: 'tama-lars-ulrich',
+      cymbals: 'zildjian-a-custom',
+      hardware: 'tama-iron-cobra',
+      sticks: 'ahead-lars',
+    },
+  },
+  {
+    id: 'joey-jordison',
+    drummer: 'Joey Jordison',
+    band: 'Slipknot',
+    emoji: '🎭',
+    kit: {
+      drums: 'pearl-reference-series',
+      snare: 'pearl-joey',
+      cymbals: 'paiste-rude',
+      hardware: 'pearl-demon-drive',
+      sticks: 'promark-joey',
+    },
+  },
+  {
+    id: 'danny-carey',
+    drummer: 'Danny Carey',
+    band: 'Tool',
+    emoji: '👁️',
+    kit: {
+      drums: 'sonor-sq2',
+      snare: 'sonor-danny',
+      cymbals: 'paiste-signature',
+      hardware: 'sonor-giant',
+      sticks: 'vicfirth-carey',
+    },
+  },
+  {
+    id: 'tomas-haake',
+    drummer: 'Tomas Haake',
+    band: 'Meshuggah',
+    emoji: '🔧',
+    kit: {
+      drums: 'sonor-sq2',
+      snare: 'sonor-haake',
+      cymbals: 'sabian-hhx',
+      hardware: 'tama-speed-cobra',
+      sticks: 'vicfirth-haake',
+    },
+  },
+  {
+    id: 'george-kollias',
+    drummer: 'George Kollias',
+    band: 'Nile',
+    emoji: '🔥',
+    kit: {
+      drums: 'pearl-masterworks',
+      snare: 'pearl-kollias',
+      cymbals: 'zildjian-a-custom',
+      hardware: 'pearl-demon-drive',
+      sticks: 'vicfirth-kollias',
+    },
+  },
+  {
+    id: 'dave-lombardo',
+    drummer: 'Dave Lombardo',
+    band: 'Slayer',
+    emoji: '💀',
+    kit: {
+      drums: 'tama-starclassic-maple',
+      snare: 'tama-slp',
+      cymbals: 'paiste-rude',
+      hardware: 'tama-iron-cobra',
+      sticks: 'promark-lombardo',
+    },
+  },
+  {
+    id: 'mike-portnoy',
+    drummer: 'Mike Portnoy',
+    band: 'Dream Theater',
+    emoji: '🎵',
+    kit: {
+      drums: 'tama-starclassic-maple',
+      snare: 'tama-portnoy',
+      cymbals: 'sabian-hhx',
+      hardware: 'tama-iron-cobra',
+      sticks: 'promark-portnoy',
+    },
+  },
+  {
+    id: 'jay-weinberg',
+    drummer: 'Jay Weinberg',
+    band: 'Slipknot',
+    emoji: '🔊',
+    kit: {
+      drums: 'sjc-custom',
+      snare: 'sjc-crucible',
+      cymbals: 'zildjian-k-custom',
+      hardware: 'dw-9000',
+      sticks: 'vater-weinberg',
+    },
+  },
+];
+
+// Calculate preset kit total price
+const getPresetKitPrice = (preset) => {
+  let total = 0;
+  Object.entries(preset.kit).forEach(([category, itemId]) => {
+    const item = KIT_BUILDER_CATALOG[category]?.find(i => i.id === itemId);
+    if (item) total += item.price;
+  });
+  return total;
+};
+
+// Generate Thomann affiliate link for gear item
+const getThomannLink = (item) => {
+  const searchQuery = encodeURIComponent(`${item.brand} ${item.name}`);
+  return `https://www.thomann.de/search_dir.html?sw=${searchQuery}`;
+};
+
 // Gear catalog data for kit builder - extracted from real drummer setups
 const KIT_BUILDER_CATALOG = {
   drums: [
@@ -5486,6 +5610,43 @@ function KitBuilderPage({ theme, onBack, drummers, onSelectDrummer }) {
     return KIT_BUILDER_CATALOG[category].find(i => i.id === selectedId);
   }, [kit]);
 
+  // Load a preset kit from a famous drummer
+  const loadPresetKit = useCallback((preset) => {
+    setKit({
+      ...preset.kit,
+      kitName: `${preset.drummer}'s ${preset.band} Kit`,
+    });
+    // Track event
+    if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
+      window.gtag('event', 'kit_builder_preset_load', {
+        preset_id: preset.id,
+        drummer: preset.drummer,
+      });
+    }
+  }, []);
+
+  // Track affiliate click
+  const handleAffiliateClick = useCallback((item, type) => {
+    if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
+      window.gtag('event', 'kit_builder_affiliate_click', {
+        item_id: item.id,
+        item_name: item.name,
+        click_type: type,
+      });
+    }
+  }, []);
+
+  // Find currently active preset (if any)
+  const activePreset = useMemo(() => {
+    return PRESET_KITS.find(p => 
+      p.kit.drums === kit.drums &&
+      p.kit.snare === kit.snare &&
+      p.kit.cymbals === kit.cymbals &&
+      p.kit.hardware === kit.hardware &&
+      p.kit.sticks === kit.sticks
+    );
+  }, [kit]);
+
   // Count selected items
   const selectedCount = KIT_CATEGORIES.filter(cat => kit[cat.key]).length;
 
@@ -5494,7 +5655,12 @@ function KitBuilderPage({ theme, onBack, drummers, onSelectDrummer }) {
       <View style={[styles.contentContainer, isMobile && styles.contentContainerMobile]}>
         {/* Header */}
         <View style={styles.kitBuilderHeader}>
-          <TouchableOpacity onPress={onBack} style={styles.backButton}>
+          <TouchableOpacity 
+            onPress={onBack} 
+            style={styles.backButton}
+            accessibilityRole="button"
+            accessibilityLabel="Back"
+          >
             <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
           </TouchableOpacity>
           <View style={styles.kitBuilderTitleSection}>
@@ -5520,6 +5686,58 @@ function KitBuilderPage({ theme, onBack, drummers, onSelectDrummer }) {
           />
         </View>
 
+        {/* Build Like The Pros - Preset Kits Section */}
+        <View style={[styles.presetKitsSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <View style={styles.presetKitsHeader}>
+            <Text style={[styles.presetKitsTitle, { color: theme.text }]}>
+              ⭐ Build Like The Pros
+            </Text>
+            <Text style={[styles.presetKitsSubtitle, { color: theme.secondaryText }]}>
+              Start with a legendary drummer's setup
+            </Text>
+          </View>
+          <ScrollView 
+            horizontal 
+            showsHorizontalScrollIndicator={false}
+            style={styles.presetKitsScroll}
+            contentContainerStyle={styles.presetKitsScrollContent}
+          >
+            {PRESET_KITS.map(preset => {
+              const presetPrice = getPresetKitPrice(preset);
+              const isActive = activePreset?.id === preset.id;
+              return (
+                <TouchableOpacity
+                  key={preset.id}
+                  style={[
+                    styles.presetKitCard,
+                    { backgroundColor: theme.background, borderColor: isActive ? '#dc2626' : theme.border },
+                    isActive && styles.presetKitCardActive,
+                  ]}
+                  onPress={() => loadPresetKit(preset)}
+                  accessibilityRole="button"
+                  accessibilityLabel={`Load ${preset.drummer}'s kit preset`}
+                >
+                  {isActive && (
+                    <View style={styles.presetKitActiveBadge}>
+                      <Text style={styles.presetKitActiveBadgeText}>✓</Text>
+                    </View>
+                  )}
+                  <Text style={styles.presetKitEmoji}>{preset.emoji}</Text>
+                  <Text style={[styles.presetKitDrummer, { color: theme.text }]} numberOfLines={1}>
+                    {preset.drummer}
+                  </Text>
+                  <Text style={[styles.presetKitBand, { color: theme.secondaryText }]} numberOfLines={1}>
+                    {preset.band}
+                  </Text>
+                  <Text style={styles.presetKitPrice}>
+                    €{presetPrice.toLocaleString()}
+                  </Text>
+                </TouchableOpacity>
+              );
+            })}
+          </ScrollView>
+        </View>
+
         {/* Main Content - Two Column Layout on Desktop */}
         <View style={[styles.kitBuilderContent, !isMobile && styles.kitBuilderContentDesktop]}>
           {/* Left Panel - Category Selection & Gear Grid */}
@@ -5543,6 +5761,8 @@ function KitBuilderPage({ theme, onBack, drummers, onSelectDrummer }) {
                       hasGear && !isSelected && styles.categoryTabHasGear,
                     ]}
                     onPress={() => setActiveCategory(cat.key)}
+                    accessibilityRole="button"
+                    accessibilityLabel={cat.label}
                   >
                     <Text style={styles.categoryTabIcon}>{cat.icon}</Text>
                     <Text style={[
@@ -5607,6 +5827,33 @@ function KitBuilderPage({ theme, onBack, drummers, onSelectDrummer }) {
                         {item.usedBy.slice(0, 2).join(', ')}{item.usedBy.length > 2 ? '...' : ''}
                       </Text>
                     </View>
+                    {/* Affiliate Buttons */}
+                    <View style={styles.gearCardButtons}>
+                      <TouchableOpacity
+                        style={[styles.gearCardButton, styles.gearCardButtonDetails, { borderColor: theme.border }]}
+                        onPress={() => {
+                          handleAffiliateClick(item, 'details');
+                          // Navigate to gear category page
+                        }}
+                        accessibilityRole="button"
+                        accessibilityLabel={`View ${item.name} details`}
+                      >
+                        <Text style={[styles.gearCardButtonText, { color: theme.text }]}>Details</Text>
+                      </TouchableOpacity>
+                      <TouchableOpacity
+                        style={[styles.gearCardButton, styles.gearCardButtonBuy]}
+                        onPress={() => {
+                          handleAffiliateClick(item, 'buy');
+                          if (Platform.OS === 'web') {
+                            window.open(getThomannLink(item), '_blank');
+                          }
+                        }}
+                        accessibilityRole="link"
+                        accessibilityLabel={`Buy ${item.name} at Thomann`}
+                      >
+                        <Text style={styles.gearCardButtonBuyText}>🛒 Buy</Text>
+                      </TouchableOpacity>
+                    </View>
                   </TouchableOpacity>
                 );
               })}
@@ -5638,9 +5885,24 @@ function KitBuilderPage({ theme, onBack, drummers, onSelectDrummer }) {
                         </View>
                       </View>
                       {item && (
-                        <Text style={[styles.kitSummaryItemPrice, { color: '#dc2626' }]}>
-                          €{item.price.toLocaleString()}
-                        </Text>
+                        <View style={styles.kitSummaryItemRight}>
+                          <Text style={[styles.kitSummaryItemPrice, { color: '#dc2626' }]}>
+                            €{item.price.toLocaleString()}
+                          </Text>
+                          <TouchableOpacity
+                            style={styles.kitSummaryBuyLink}
+                            onPress={() => {
+                              handleAffiliateClick(item, 'summary_buy');
+                              if (Platform.OS === 'web') {
+                                window.open(getThomannLink(item), '_blank');
+                              }
+                            }}
+                            accessibilityRole="link"
+                            accessibilityLabel={`Buy ${item.name} at Thomann`}
+                          >
+                            <Text style={styles.kitSummaryBuyLinkText}>🛒</Text>
+                          </TouchableOpacity>
+                        </View>
                       )}
                     </View>
                   );
@@ -5695,12 +5957,16 @@ function KitBuilderPage({ theme, onBack, drummers, onSelectDrummer }) {
                   style={[styles.kitShareButton, selectedCount === 0 && styles.kitShareButtonDisabled]}
                   onPress={() => setShowShareModal(true)}
                   disabled={selectedCount === 0}
+                  accessibilityRole="button"
+                  accessibilityLabel="Share Kit"
                 >
                   <Text style={styles.kitShareButtonText}>📤 Share Kit</Text>
                 </TouchableOpacity>
                 <TouchableOpacity
                   style={[styles.kitClearButton, { borderColor: theme.border }]}
                   onPress={handleClearKit}
+                  accessibilityRole="button"
+                  accessibilityLabel="Clear"
                 >
                   <Text style={[styles.kitClearButtonText, { color: theme.secondaryText }]}>🗑️ Clear</Text>
                 </TouchableOpacity>
@@ -5724,12 +5990,22 @@ function KitBuilderPage({ theme, onBack, drummers, onSelectDrummer }) {
                 </View>
                 
                 <View style={styles.shareModalButtons}>
-                  <TouchableOpacity style={styles.shareModalCopyButton} onPress={handleCopyLink}>
+                  <TouchableOpacity 
+                    style={styles.shareModalCopyButton} 
+                    onPress={handleCopyLink}
+                    accessibilityRole="button"
+                    accessibilityLabel="Copy Link"
+                  >
                     <Text style={styles.shareModalCopyButtonText}>
                       {copied ? '✓ Copied!' : '📋 Copy Link'}
                     </Text>
                   </TouchableOpacity>
-                  <TouchableOpacity style={styles.shareModalTwitterButton} onPress={handleShareTwitter}>
+                  <TouchableOpacity 
+                    style={styles.shareModalTwitterButton} 
+                    onPress={handleShareTwitter}
+                    accessibilityRole="button"
+                    accessibilityLabel="Tweet"
+                  >
                     <Text style={styles.shareModalTwitterButtonText}>🐦 Tweet</Text>
                   </TouchableOpacity>
                 </View>
@@ -5738,6 +6014,8 @@ function KitBuilderPage({ theme, onBack, drummers, onSelectDrummer }) {
               <TouchableOpacity
                 style={[styles.shareModalClose, { borderColor: theme.border }]}
                 onPress={() => setShowShareModal(false)}
+                accessibilityRole="button"
+                accessibilityLabel="Close"
               >
                 <Text style={[styles.shareModalCloseText, { color: theme.secondaryText }]}>Close</Text>
               </TouchableOpacity>
@@ -18437,6 +18715,117 @@ const styles = StyleSheet.create({
   gearCardUsedByNames: {
     fontSize: 12,
     marginTop: 2,
+  },
+  gearCardButtons: {
+    flexDirection: 'row',
+    gap: 8,
+    marginTop: 12,
+  },
+  gearCardButton: {
+    flex: 1,
+    paddingVertical: 8,
+    paddingHorizontal: 12,
+    borderRadius: 6,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  gearCardButtonDetails: {
+    borderWidth: 1,
+    backgroundColor: 'transparent',
+  },
+  gearCardButtonBuy: {
+    backgroundColor: '#dc2626',
+  },
+  gearCardButtonText: {
+    fontSize: 12,
+    fontWeight: '600',
+  },
+  gearCardButtonBuyText: {
+    fontSize: 12,
+    fontWeight: '600',
+    color: '#ffffff',
+  },
+  presetKitsSection: {
+    padding: 16,
+    borderRadius: 16,
+    borderWidth: 1,
+    marginBottom: 20,
+  },
+  presetKitsHeader: {
+    marginBottom: 12,
+  },
+  presetKitsTitle: {
+    fontSize: 18,
+    fontWeight: 'bold',
+    marginBottom: 4,
+  },
+  presetKitsSubtitle: {
+    fontSize: 14,
+  },
+  presetKitsScroll: {
+    marginHorizontal: -8,
+  },
+  presetKitsScrollContent: {
+    paddingHorizontal: 8,
+    gap: 12,
+  },
+  presetKitCard: {
+    width: 130,
+    padding: 12,
+    borderRadius: 12,
+    borderWidth: 2,
+    alignItems: 'center',
+    position: 'relative',
+  },
+  presetKitCardActive: {
+    borderColor: '#dc2626',
+  },
+  presetKitActiveBadge: {
+    position: 'absolute',
+    top: -8,
+    right: -8,
+    width: 24,
+    height: 24,
+    borderRadius: 12,
+    backgroundColor: '#dc2626',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  presetKitActiveBadgeText: {
+    color: '#ffffff',
+    fontSize: 14,
+    fontWeight: 'bold',
+  },
+  presetKitEmoji: {
+    fontSize: 28,
+    marginBottom: 8,
+  },
+  presetKitDrummer: {
+    fontSize: 14,
+    fontWeight: 'bold',
+    textAlign: 'center',
+  },
+  presetKitBand: {
+    fontSize: 12,
+    textAlign: 'center',
+    marginTop: 2,
+  },
+  presetKitPrice: {
+    fontSize: 13,
+    fontWeight: '600',
+    color: '#dc2626',
+    marginTop: 6,
+  },
+  kitSummaryItemRight: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 8,
+  },
+  kitSummaryBuyLink: {
+    padding: 4,
+  },
+  kitSummaryBuyLinkText: {
+    fontSize: 16,
   },
   kitSummary: {
     padding: 20,

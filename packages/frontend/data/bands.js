@@ -17,6 +17,7 @@ export const bands = {
     metaDescription: "Explore Metallica drumming legacy with Lars Ulrich.",
     summary: "Metallica, formed in 1981 in Los Angeles, is one of the most influential thrash metal bands.",
     keywords: ["metallica", "lars ulrich", "thrash metal", "metal drums", "drummer gear"],
+    image: "https://metalforge.io/images/bands/metallica.webp",
     drummerHistory: [{ drummer: "lars-ulrich", period: "1981-present", notes: "Co-founder" }],
     relatedBands: ["slayer", "megadeth", "anthrax"],
     sameAs: [
@@ -37,6 +38,7 @@ export const bands = {
     metaDescription: "Complete Sepultura drummer history from Igor Cavalera to Eloy Casagrande.",
     summary: "Sepultura formed 1984, Brazilian thrash pioneers, disbanded 2024.",
     keywords: ["sepultura", "igor cavalera", "eloy casagrande", "brazilian metal"],
+    image: "https://metalforge.io/images/bands/sepultura.webp",
     drummerHistory: [
       { drummer: "igor-cavalera", period: "1984-2006", notes: "Co-founder with brother Max" },
       { drummer: "jean-dolabella", period: "2006-2011", notes: "" },

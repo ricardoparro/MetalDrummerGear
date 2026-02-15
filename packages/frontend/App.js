@@ -6836,17 +6836,15 @@ function BandDetailPage({ bandSlug, drummers, onBack, onSelectDrummer, theme }) 
       setMeta('og:description', band.metaDescription, true);
       setMeta('og:type', 'website', true);
       setMeta('og:url', `https://metalforge.io/bands/${bandSlug}`, true);
-      if (band.image) {
-        setMeta('og:image', band.image, true);
-      }
+      // Always set og:image with fallback to default image
+      const bandImage = band.image || 'https://metalforge.io/og-default.png';
+      setMeta('og:image', bandImage, true);
 
       // Twitter Card tags
       setMeta('twitter:card', 'summary_large_image');
       setMeta('twitter:title', band.metaTitle);
       setMeta('twitter:description', band.metaDescription);
-      if (band.image) {
-        setMeta('twitter:image', band.image);
-      }
+      setMeta('twitter:image', bandImage);
 
       // Canonical URL
       let canonicalLink = document.querySelector('link[rel="canonical"]');

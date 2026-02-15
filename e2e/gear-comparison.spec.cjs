@@ -13,8 +13,6 @@ const { test, expect } = require('@playwright/test');
  * - Navigation and links
  */
 
-const BASE_URL = 'http://localhost:3000';
-
 // Sample comparison slugs to test
 const COMPARISON_SLUGS = [
   'tama-vs-pearl',
@@ -25,7 +23,7 @@ const COMPARISON_SLUGS = [
 
 test.describe('Gear Comparisons Index Page', () => {
   test.beforeEach(async ({ page }) => {
-    await page.goto(`${BASE_URL}/compare`);
+    await page.goto('/compare');
     // Wait for page to hydrate
     await page.waitForLoadState('networkidle');
   });
@@ -103,7 +101,7 @@ test.describe('Gear Comparisons Index Page', () => {
 
 test.describe('Individual Gear Comparison Page', () => {
   test.beforeEach(async ({ page }) => {
-    await page.goto(`${BASE_URL}/compare/tama-vs-pearl`);
+    await page.goto(`/compare/tama-vs-pearl`);
     await page.waitForLoadState('networkidle');
   });
 
@@ -238,7 +236,7 @@ test.describe('Gear Comparison Mobile Responsiveness', () => {
   test.use({ viewport: { width: 375, height: 667 } }); // iPhone SE
 
   test('should display properly on mobile - index page', async ({ page }) => {
-    await page.goto(`${BASE_URL}/compare`);
+    await page.goto(`/compare`);
     await page.waitForLoadState('networkidle');
 
     // Should still show comparison cards
@@ -251,7 +249,7 @@ test.describe('Gear Comparison Mobile Responsiveness', () => {
   });
 
   test('should display properly on mobile - detail page', async ({ page }) => {
-    await page.goto(`${BASE_URL}/compare/tama-vs-pearl`);
+    await page.goto(`/compare/tama-vs-pearl`);
     await page.waitForLoadState('networkidle');
 
     // VS badge should be visible
@@ -271,7 +269,7 @@ test.describe('Gear Comparison Mobile Responsiveness', () => {
 test.describe('Multiple Comparison Pages', () => {
   for (const slug of COMPARISON_SLUGS) {
     test(`should load comparison page: ${slug}`, async ({ page }) => {
-      await page.goto(`${BASE_URL}/compare/${slug}`);
+      await page.goto(`/compare/${slug}`);
       await page.waitForLoadState('networkidle');
 
       // Page should load without errors
@@ -291,7 +289,7 @@ test.describe('Multiple Comparison Pages', () => {
 
 test.describe('Gear Comparison 404 Handling', () => {
   test('should show not found for invalid comparison slug', async ({ page }) => {
-    await page.goto(`${BASE_URL}/compare/invalid-comparison-slug-xyz`);
+    await page.goto(`/compare/invalid-comparison-slug-xyz`);
     await page.waitForLoadState('networkidle');
 
     // Should show "Comparison not found" message

@@ -914,13 +914,83 @@ const drummers = [
     videos: [
       { title: 'Tool - Pneuma (Live Drum Cam)', youtubeId: 'FssULNGSZIA', year: 2019 },
       { title: 'Tool - Forty Six & 2 (Live Drum Cam)', youtubeId: 'qJq9y9xPKWs', year: 2019 },
-      { title: 'Tool - Cleveland 2002 (Drum Cam)', youtubeId: 'Lawu_5p8Kg4', year: 2002 }
+      { title: 'Tool - Cleveland 2002 (Drum Cam)', youtubeId: 'Lawu_5p8Kg4', year: 2002 },
+      { title: 'Tool - Invincible (Live Drum Cam)', youtubeId: 'NE3kor-Uo7I', year: 2019 },
+      { title: 'Tool - Lateralus (Official Audio)', youtubeId: 'Y7JG63IuaWs', year: 2001 }
     ],
     quotes: [
       { text: "I've always been fascinated by sacred geometry and how it relates to rhythm. The patterns in nature are the same patterns in music.", source: "Modern Drummer Magazine", year: 2019 },
       { text: "The drumset is the most expressive instrument. You can make it whisper or you can make it scream.", source: "Drumeo Interview", year: 2020 },
-      { text: "I practice every day, even after 30 years. The day you stop learning is the day you stop growing as a musician.", source: "Revolver Magazine", year: 2017 }
-    ]
+      { text: "I practice every day, even after 30 years. The day you stop learning is the day you stop growing as a musician.", source: "Revolver Magazine", year: 2017 },
+      { text: "I try to make the drums sing. The drums can be melodic - they're not just about keeping time.", source: "Modern Drummer", year: 2006 }
+    ],
+    gearTimeline: [
+      {
+        era: 'Early Tool Era',
+        years: '1990-1996',
+        description: 'The formation and breakthrough years. Danny established his polyrhythmic approach and began integrating electronic elements.',
+        albums: ['Opiate', 'Undertow'],
+        gear: {
+          drums: 'Sonor Designer Series',
+          snare: 'Sonor Signature Series 14x6"',
+          cymbals: 'Paiste 2002 & Signature Series',
+          hardware: 'Sonor Double Pedal',
+          sticks: 'Vic Firth 5B'
+        },
+        notes: 'Early Tool albums showcased Danny\'s jazz influences merged with alternative metal.'
+      },
+      {
+        era: 'Ænima/Lateralus Era',
+        years: '1996-2006',
+        description: 'Tool\'s artistic peak. Danny\'s sacred geometry influences became prominent as the band explored complex time signatures.',
+        albums: ['Ænima', 'Lateralus'],
+        gear: {
+          drums: 'Sonor SQ2',
+          snare: 'Sonor Bronze 14x8"',
+          cymbals: 'Paiste Signature Series (Sound Edge Hi-Hats, Power crashes, Dry Heavy Ride)',
+          hardware: 'Sonor Giant Step Double Pedal, Mandala Drum pads',
+          sticks: 'Vic Firth Danny Carey Signature'
+        },
+        notes: 'Lateralus features legendary polyrhythmic drumming on tracks like "Ticks & Leeches" and the title track.'
+      },
+      {
+        era: '10,000 Days & Hiatus',
+        years: '2006-2019',
+        description: 'Despite Tool\'s long hiatus, Danny refined his setup and performed with Volto! and other projects.',
+        albums: ['10,000 Days'],
+        gear: {
+          drums: 'Sonor SQ2 Heavy Beech',
+          snare: 'Sonor Danny Carey Signature 14x8" Bronze',
+          cymbals: 'Paiste Signature Series (15" Sound Edge Hi-Hats, various crashes, 22" Dry Heavy Ride)',
+          hardware: 'Sonor Giant Step Twin Effect Double Pedal, Mandala Drum v3',
+          sticks: 'Vic Firth Danny Carey Signature'
+        },
+        notes: '10,000 Days showcased Danny\'s most mature playing, particularly on "Rosetta Stoned" and "Right in Two".'
+      },
+      {
+        era: 'Fear Inoculum Era',
+        years: '2019-Present',
+        description: 'Tool\'s triumphant return after 13 years. Danny\'s drumming reached new creative heights.',
+        albums: ['Fear Inoculum'],
+        gear: {
+          drums: 'Sonor SQ2 Heavy Beech (massive configuration)',
+          snare: 'Sonor Danny Carey Signature 14x8" Bronze',
+          cymbals: 'Paiste Signature Series (15" Sound Edge Hi-Hats, 18" & 19" Power Crashes, 22" Dry Heavy Ride, 20" & 22" Chinas, various Rude crashes)',
+          hardware: 'Sonor Giant Step Twin Effect Double Pedal, Sonor Drummer Throne, Mandala Drum electronic pads',
+          sticks: 'Vic Firth Danny Carey Signature'
+        },
+        notes: '"Pneuma" became one of the most viral drum performances ever, showcasing Danny\'s legendary technique.'
+      }
+    ],
+    spotlight: {
+      quickFacts: [
+        'Inducted into Modern Drummer Hall of Fame in 2016',
+        '4-time Grammy winner with Tool',
+        'Stands 6\'5" (196 cm) - one of the tallest drummers in rock'
+      ],
+      iconicMoment: 'The drum cam video of "Pneuma" from Fear Inoculum went viral with millions of views, showcasing Danny\'s polyrhythmic mastery and cementing his status as one of the greatest drummers alive.',
+      gearHighlight: 'Danny\'s Sonor SQ2 Heavy Beech kit combined with Mandala electronic pads creates Tool\'s signature sound, blending acoustic power with electronic textures.'
+    }
   },
   {
     id: 15,

@@ -63,16 +63,42 @@ export const bands = {
     genres: ["progressive-metal", "alternative-metal", "art-rock"],
     status: "active",
     metaTitle: "Tool - Danny Carey Drummer Profile & Gear | MetalForge",
-    metaDescription: "Discover Tool's legendary drummer Danny Carey and his gear setup.",
-    summary: "Tool, formed in 1990 in Los Angeles, is known for complex time signatures and visual artistry.",
-    keywords: ["tool", "danny carey", "progressive metal", "polyrhythm", "drummer gear"],
-    drummerHistory: [{ drummer: "danny-carey", period: "1990-present", notes: "Founding member" }],
-    relatedBands: ["a-perfect-circle", "puscifer"],
+    metaDescription: "Complete profile of Tool's legendary drummer Danny Carey. Explore his polyrhythmic genius, Sonor drum setup, sacred geometry influences, and Grammy-winning career.",
+    summary: "Tool, formed in 1990 in Los Angeles, is one of the most influential progressive metal bands, known for complex polyrhythmic compositions, unusual time signatures, visual artistry, and philosophical lyrics. With four Grammy wins and five studio albums (including the 13-year-awaited Fear Inoculum), Tool has redefined the boundaries of heavy music.",
+    keywords: ["tool", "danny carey", "progressive metal", "polyrhythm", "drummer gear", "maynard james keenan", "lateralus", "fear inoculum", "sacred geometry", "sonor drums", "grammy winners"],
+    members: [
+      { name: "Danny Carey", role: "Drums", period: "1990-present", notes: "Founding member, polyrhythmic genius" },
+      { name: "Maynard James Keenan", role: "Vocals", period: "1990-present", notes: "Also frontman of A Perfect Circle and Puscifer" },
+      { name: "Adam Jones", role: "Guitar", period: "1990-present", notes: "Founding member, visual effects artist, stop-motion video director" },
+      { name: "Justin Chancellor", role: "Bass", period: "1995-present", notes: "Replaced Paul D'Amour" }
+    ],
+    formerMembers: [
+      { name: "Paul D'Amour", role: "Bass", period: "1990-1995", notes: "Founding member, played on Undertow" }
+    ],
+    drummerHistory: [{ drummer: "danny-carey", period: "1990-present", notes: "Founding member, only drummer in band history" }],
+    relatedBands: ["a-perfect-circle", "puscifer", "volto", "legend-of-the-seagullmen"],
     sameAs: [
       "https://en.wikipedia.org/wiki/Tool_(band)",
       "https://www.discogs.com/artist/24069-Tool",
       "https://musicbrainz.org/artist/66fc5bf8-daa4-4241-b378-9bc9077571d6",
-      "https://www.wikidata.org/wiki/Q184188"
+      "https://www.wikidata.org/wiki/Q184188",
+      "https://www.allmusic.com/artist/tool-mn0000036614"
+    ],
+    discography: [
+      { name: "Opiate", year: 1992, type: "EP" },
+      { name: "Undertow", year: 1993, type: "Album" },
+      { name: "Ænima", year: 1996, type: "Album", note: "Grammy: Best Metal Performance" },
+      { name: "Lateralus", year: 2001, type: "Album", note: "Grammy: Best Metal Performance (Schism)" },
+      { name: "10,000 Days", year: 2006, type: "Album", note: "Grammy: Best Recording Package" },
+      { name: "Fear Inoculum", year: 2019, type: "Album", note: "Grammy: Best Metal Performance" }
+    ],
+    faq: [
+      { q: "Who is Tool's drummer?", a: "Danny Carey has been Tool's only drummer since their formation in 1990. He's known for polyrhythmic patterns and sacred geometry influences." },
+      { q: "Why did Tool take 13 years between albums?", a: "Tool's gap between 10,000 Days (2006) and Fear Inoculum (2019) was due to legal battles with their record label and the band's meticulous creative process." },
+      { q: "How many Grammys has Tool won?", a: "Tool has won four Grammy Awards for Best Metal Performance: Ænima (1998), Schism (2002), 10,000 Days (2006 - packaging), and Fear Inoculum (2020)." },
+      { q: "What drums does Danny Carey play?", a: "Danny Carey plays Sonor SQ2 Heavy Beech drums with Paiste cymbals, Mandala electronic pads, and his signature bronze snare drum." },
+      { q: "What time signature does Tool use?", a: "Tool frequently uses complex and unusual time signatures like 7/8, 5/4, 11/8, and polyrhythms. Songs like 'Schism' famously shift between multiple time signatures." },
+      { q: "Is Danny Carey in the Modern Drummer Hall of Fame?", a: "Yes, Danny Carey was inducted into the Modern Drummer Hall of Fame in 2016." }
     ],
   },
   gojira: {

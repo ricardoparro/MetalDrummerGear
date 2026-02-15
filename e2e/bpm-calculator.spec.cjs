@@ -53,15 +53,16 @@ test.describe('BPM Tap Calculator - Issue #342', () => {
       
       await page.goto('/bpm');
       
-      // Check page title
-      await expect(page).toHaveTitle(/BPM|Tap|Calculator/i);
-      
-      // Check tap button exists
+      // Check tap button exists first (confirms page is rendered)
       const tapButton = page.getByRole('button', { name: /tap/i });
       await expect(tapButton).toBeVisible();
       
       // Check song database section exists
       await expect(page.getByText(/Metal Song BPM Database/i)).toBeVisible();
+      
+      // Wait for title to be set by client-side JS, with generous timeout
+      // The title is set via useEffect after the page component mounts
+      await expect(page).toHaveTitle(/BPM|Tap|Calculator/i, { timeout: 15000 });
     });
     
     test('tap button calculates BPM after multiple taps', async ({ page }) => {

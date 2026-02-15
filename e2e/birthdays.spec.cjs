@@ -53,8 +53,10 @@ test.describe('Birthday Calendar Page', () => {
 
   test('has correct title and heading', async ({ page }) => {
     test.skip(!birthdayFeatureAvailable, 'Birthday feature not available on this deployment');
-    await expect(page).toHaveTitle(/Birthday Calendar|Birthdays/i);
+    // Check heading first (confirms page is rendered)
     await expect(page.getByRole('heading', { name: /birthday/i })).toBeVisible();
+    // Wait for title to be set by client-side JS, with generous timeout
+    await expect(page).toHaveTitle(/Birthday Calendar|Birthdays/i, { timeout: 15000 });
   });
 
   test('displays month filter buttons', async ({ page }) => {

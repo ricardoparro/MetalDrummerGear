@@ -941,7 +941,10 @@ const drummers = [
       snare: 'Tama S.L.P. 14x6.5" G-Maple',
       cymbals: 'Zildjian (14" K Sweet Hi-Hats, 14" A Custom Hi-Hats, 18" K Custom Hybrid Crash, 19" A Custom Crash, 20" K Sweet Crash, 21" Z Custom Mega Bell Ride, 18" & 20" Chinas)',
       hardware: 'Tama Iron Cobra 900 Power Glide Double Pedal, Tama 1st Chair Ergo-Rider Throne',
-      sticks: 'Tama Mario Duplantier Signature'
+      sticks: 'Tama Mario Duplantier Signature',
+      heads: 'Remo Emperor (toms), Remo Powerstroke 3 (bass drums)',
+      verified: true,
+      sources: ['https://www.tama.com/usa/artists/detail/13.html', 'https://zildjian.com/artists/mario-duplantier', 'https://www.drumeo.com/beat/mario-duplantier-gojira/']
     },
     photos: [
       '/images/drummers/mario-duplantier.webp' // Original: https://upload.wikimedia.org/wikipedia/commons/8/83/2017_RiP_-_Gojira_-_Mario_Duplantier_-_by_2eight_-_8SC9168.jpg
@@ -955,7 +958,80 @@ const drummers = [
       { title: 'Gojira - Silvera (Live Drum Cam)', youtubeId: 'BGHlZwMYO9g', year: 2017 },
       { title: 'Gojira - Stranded (Live Drum Cam)', youtubeId: 'FNdC_3LR2AI', year: 2017 },
       { title: 'Gojira - Flying Whales (Live Drum Cam)', youtubeId: 'iqrMFNMgVS0', year: 2019 }
-    ]
+    ],
+    quotes: [
+      { text: "The most important thing for me is to serve the song. Everything I play has to enhance the music, not show off.", source: "Modern Drummer Magazine", year: 2017 },
+      { text: "I grew up listening to death metal, but also a lot of jazz and world music. You can hear all of those influences in how I approach the drums.", source: "Drumeo Interview", year: 2021 },
+      { text: "Playing with your brother is special. We have this telepathic connection that allows Gojira to be what it is.", source: "Revolver Magazine", year: 2016 }
+    ],
+    gearTimeline: [
+      {
+        era: 'Godzilla / Early Era',
+        years: '1996-2001',
+        description: 'The band started as Godzilla in Bayonne, France. Mario developed his raw, powerful style on modest gear.',
+        albums: ['Possessed', 'Maciste All\'Inferno', 'Wisdom Comes (demo)'],
+        gear: {
+          drums: 'Pearl Export Series',
+          snare: 'Pearl 14x5.5" Steel',
+          cymbals: 'Sabian B8 Series (14" Hi-Hats, 16" & 18" Crashes, 20" Ride)',
+          hardware: 'Pearl P-120P Single Pedal (upgraded to double)',
+          sticks: 'Vic Firth 5B'
+        },
+        notes: 'Before the Gojira name change and Tama endorsement, Mario built his chops on affordable gear.'
+      },
+      {
+        era: 'Gojira Formation & Terra Incognita',
+        years: '2001-2005',
+        description: 'Renamed to Gojira and released their debut album. Mario\'s tribal, groove-heavy style began to define the band\'s sound.',
+        albums: ['Terra Incognita', 'The Link'],
+        gear: {
+          drums: 'Tama Rockstar',
+          snare: 'Tama 14x6.5" Maple',
+          cymbals: 'Zildjian A Custom (14" Hi-Hats, 17" & 18" Crashes, 21" Ride, 18" China)',
+          hardware: 'Tama Iron Cobra Double Pedal',
+          sticks: 'Pro-Mark 5B'
+        },
+        notes: 'Mario transitioned to Tama and began refining his signature sound.'
+      },
+      {
+        era: 'International Breakthrough',
+        years: '2005-2012',
+        description: 'From Mars to Sirius brought worldwide recognition. Mario\'s drumming became iconic in progressive metal circles.',
+        albums: ['From Mars to Sirius', 'The Way of All Flesh', 'L\'Enfant Sauvage'],
+        gear: {
+          drums: 'Tama Starclassic Maple (22" Bass x2, 10", 12", 13" Toms, 16" Floor)',
+          snare: 'Tama S.L.P. 14x6.5" G-Maple',
+          cymbals: 'Zildjian K & A Custom Series (14" K Hi-Hats, 18" & 19" A Custom Crashes, 21" A Custom Ride, 18" China)',
+          hardware: 'Tama Iron Cobra 900 Double Pedal, Tama 1st Chair Throne',
+          sticks: 'Tama 5B Oak'
+        },
+        notes: 'Flying Whales became his signature song, showcasing his ability to build massive grooves.'
+      },
+      {
+        era: 'Modern Era & Grammy Recognition',
+        years: '2016-Present',
+        description: 'Magma and Fortitude brought Grammy nominations and mainstream success. Mario\'s setup reached its current peak configuration.',
+        albums: ['Magma', 'Fortitude'],
+        gear: {
+          drums: 'Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom)',
+          snare: 'Tama S.L.P. 14x6.5" G-Maple',
+          cymbals: 'Zildjian (14" K Sweet Hi-Hats, 14" A Custom Hi-Hats, 18" K Custom Hybrid Crash, 19" A Custom Crash, 20" K Sweet Crash, 21" Z Custom Mega Bell Ride, 18" & 20" Chinas)',
+          hardware: 'Tama Iron Cobra 900 Power Glide Double Pedal, Tama 1st Chair Ergo-Rider Throne',
+          sticks: 'Tama Mario Duplantier Signature'
+        },
+        notes: 'Mario received his own Tama signature drumstick model, cementing his status as a drumming legend.'
+      }
+    ],
+    spotlight: {
+      quickFacts: [
+        'Co-founder of Gojira with brother Joe Duplantier (1996)',
+        'Creates visual artwork for Gojira albums and merchandise',
+        'Uses two bass drums instead of a double pedal for a more organic feel',
+        'Grammy-nominated multiple times with Gojira'
+      ],
+      iconicMoment: "The explosive breakdown in 'Flying Whales' showcases Mario's ability to build tension through restraint before unleashing devastating power, becoming one of the most celebrated moments in modern metal drumming.",
+      gearHighlight: 'The Tama Mario Duplantier Signature Drumsticks feature an elongated taper for increased response and a barrel tip for a full, focused sound—perfect for his dynamic playing style.'
+    }
   },
   {
     id: 16,

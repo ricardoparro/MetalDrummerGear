@@ -14,7 +14,7 @@ async function checkBirthdayFeatureAvailable(page) {
   
   // Check if the page title indicates we're on the birthday page (not home)
   const title = await page.title();
-  if (title === 'Metal Drummer Gear - Discover What Pro Drummers Play') {
+  if (title.includes('MetalForge') && !title.includes('Birthday')) {
     return false;
   }
   

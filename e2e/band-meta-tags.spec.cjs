@@ -15,7 +15,7 @@ test.describe('Band Page Meta Tags (#362)', () => {
     
     // Check if we're actually on a band page (not redirected to home)
     const title = await page.title();
-    if (title === 'Metal Drummer Gear - Discover What Pro Drummers Play') {
+    if (title.includes('MetalForge') && !title.includes('Metallica')) {
       test.skip(true, 'Band pages feature not yet deployed');
     }
   });

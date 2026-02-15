@@ -10,6 +10,7 @@ on:
 permissions:
   contents: read
   issues: write
+  pull-requests: read
   statuses: read
   checks: read
 
@@ -41,8 +42,15 @@ jobs:
         uses: actions/github-script@v7
         with:
           script: |
-            const sha = context.payload.pull_request?.head?.sha || context.sha;
-            console.log(`Looking for Vercel deployment for SHA: ${sha}`);
+            const prNumber = context.payload.pull_request?.number;
+            
+            if (!prNumber) {
+              console.log('Not a PR, using production URL');
+              core.setOutput('url', 'https://metalforge.io');
+              return;
+            }
+            
+            console.log(`Looking for Vercel preview URL for PR #${prNumber}`);
             
             // Wait for Vercel deployment (up to 5 minutes)
             const maxAttempts = 30;
@@ -51,79 +59,61 @@ jobs:
             for (let attempt = 1; attempt <= maxAttempts; attempt++) {
               console.log(`Attempt ${attempt}/${maxAttempts}...`);
               
-              // Check commit statuses for Vercel
-              const { data: statuses } = await github.rest.repos.listCommitStatusesForRef({
+              // Get PR comments to find Vercel bot comment
+              const { data: comments } = await github.rest.issues.listComments({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                ref: sha
+                issue_number: prNumber
               });
               
-              const vercelStatus = statuses.find(s => 
-                s.context?.toLowerCase().includes('vercel') && 
-                s.state === 'success' && 
-                s.target_url
+              // Find Vercel bot comment
+              const vercelComment = comments.find(c => 
+                c.body?.includes('[vc]:') || 
+                c.body?.includes('vercel.app') ||
+                c.user?.login?.includes('vercel')
               );
               
-              if (vercelStatus) {
-                // Extract the preview URL from Vercel's target_url
-                // Vercel status URLs are like: https://vercel.com/owner/repo/DEPLOYMENT_ID
-                // The actual preview is at: https://[deployment].vercel.app
-                let previewUrl = vercelStatus.target_url;
+              if (vercelComment) {
+                console.log('Found Vercel comment');
                 
-                // Try to extract from description if it contains the URL
-                if (vercelStatus.description) {
-                  const urlMatch = vercelStatus.description.match(/https:\/\/[^\s]+\.vercel\.app/);
-                  if (urlMatch) {
-                    previewUrl = urlMatch[0];
-                  }
-                }
-                
-                // Fetch the Vercel page to find the actual preview URL
-                console.log(`Found Vercel status, checking: ${vercelStatus.target_url}`);
-                
-                // For PRs, construct the preview URL pattern
-                const prNumber = context.payload.pull_request?.number;
-                if (prNumber) {
-                  // Common Vercel preview URL patterns
-                  const possibleUrls = [
-                    `https://metal-drummer-gear-git-fix-422-e2e-timeout-ricardo-parros-projects.vercel.app`,
-                    `https://metal-drummer-gear-${sha.slice(0, 7)}-ricardo-parros-projects.vercel.app`,
-                    `https://metalforge.io` // fallback to production if preview not found
-                  ];
+                // Extract preview URL from markdown table or JSON
+                // Format: [Preview](https://xxx.vercel.app)
+                const previewMatch = vercelComment.body.match(/\[Preview\]\((https:\/\/[^)]+\.vercel\.app)\)/);
+                if (previewMatch) {
+                  const url = previewMatch[1];
+                  console.log(`Found preview URL: ${url}`);
                   
-                  // Test each URL
-                  for (const url of possibleUrls) {
-                    try {
-                      const response = await fetch(url, { method: 'HEAD' });
-                      if (response.ok) {
-                        console.log(`Found working URL: ${url}`);
-                        core.setOutput('url', url);
-                        return;
-                      }
-                    } catch (e) {
-                      console.log(`URL ${url} not accessible: ${e.message}`);
+                  // Verify URL is accessible
+                  try {
+                    const response = await fetch(url, { method: 'HEAD' });
+                    if (response.ok || response.status === 308) {
+                      console.log(`Preview URL is accessible!`);
+                      core.setOutput('url', url);
+                      return;
                     }
+                    console.log(`URL returned status ${response.status}`);
+                  } catch (e) {
+                    console.log(`URL not accessible yet: ${e.message}`);
                   }
                 }
                 
-                core.setOutput('url', 'https://metalforge.io');
-                return;
-              }
-              
-              // Also check check runs
-              const { data: checkRuns } = await github.rest.checks.listForRef({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                ref: sha
-              });
-              
-              const vercelCheck = checkRuns.check_runs.find(c => 
-                c.name?.toLowerCase().includes('vercel') && 
-                c.conclusion === 'success'
-              );
-              
-              if (vercelCheck) {
-                console.log('Found Vercel check run');
+                // Also try to extract from previewUrl in the encoded JSON
+                const previewUrlMatch = vercelComment.body.match(/"previewUrl":"([^"]+\.vercel\.app)"/);
+                if (previewUrlMatch) {
+                  const url = `https://${previewUrlMatch[1]}`;
+                  console.log(`Found preview URL from JSON: ${url}`);
+                  
+                  try {
+                    const response = await fetch(url, { method: 'HEAD' });
+                    if (response.ok || response.status === 308) {
+                      console.log(`Preview URL is accessible!`);
+                      core.setOutput('url', url);
+                      return;
+                    }
+                  } catch (e) {
+                    console.log(`URL not accessible yet: ${e.message}`);
+                  }
+                }
               }
               
               if (attempt < maxAttempts) {
@@ -134,75 +124,44 @@ jobs:
             
             console.log('Could not find Vercel preview URL, using production');
             core.setOutput('url', 'https://metalforge.io');
-
-      - name: Wait for Vercel deployment
-        id: deployment
+      
+      - name: Health check deployment
+        id: health
         run: |
-          # Construct the expected preview URL based on branch name
-          BRANCH_NAME="${{ github.head_ref || github.ref_name }}"
-          BRANCH_SLUG=$(echo "$BRANCH_NAME" | sed 's/[^a-zA-Z0-9]/-/g' | tr '[:upper:]' '[:lower:]')
+          URL="${{ steps.vercel.outputs.url }}"
           
-          # Common Vercel preview URL patterns
-          PREVIEW_URLS=(
-            "https://metal-drummer-gear-git-${BRANCH_SLUG}-ricardo-parros-projects.vercel.app"
-            "https://metal-drummer-gear-${BRANCH_SLUG}-ricardo-parros-projects.vercel.app"
-          )
+          echo "Testing URL: $URL"
           
-          echo "Branch: $BRANCH_NAME"
-          echo "Slug: $BRANCH_SLUG"
-          
-          # Try each preview URL
-          MAX_ATTEMPTS=30
+          # Wait for deployment to be fully ready
+          MAX_RETRIES=10
           DELAY=10
           
-          for attempt in $(seq 1 $MAX_ATTEMPTS); do
-            echo "Attempt $attempt/$MAX_ATTEMPTS..."
+          for i in $(seq 1 $MAX_RETRIES); do
+            echo "Attempt $i/$MAX_RETRIES..."
             
-            for url in "${PREVIEW_URLS[@]}"; do
-              echo "Checking: $url"
-              HTTP_STATUS=$(curl -s -o /dev/null -w "%{http_code}" "$url" 2>/dev/null || echo "000")
-              
-              if [ "$HTTP_STATUS" = "200" ]; then
-                # Verify API works
-                API_CHECK=$(curl -s "$url/api/drummers" | head -c 5)
-                if [ "$API_CHECK" = "[{\"id" ] || [ "$API_CHECK" = "[{\"na" ]; then
-                  echo "✅ Found working preview: $url"
-                  echo "url=$url" >> $GITHUB_OUTPUT
-                  exit 0
-                fi
+            HTTP_STATUS=$(curl -s -o /dev/null -w "%{http_code}" "$URL")
+            echo "Status: $HTTP_STATUS"
+            
+            if [ "$HTTP_STATUS" = "200" ]; then
+              # Verify API works
+              API_CHECK=$(curl -s "$URL/api/drummers" | head -c 10)
+              if echo "$API_CHECK" | grep -q '^\['; then
+                echo "healthy=true" >> $GITHUB_OUTPUT
+                echo "url=$URL" >> $GITHUB_OUTPUT
+                echo "✅ Deployment healthy!"
+                exit 0
               fi
-            done
+            fi
             
-            if [ $attempt -lt $MAX_ATTEMPTS ]; then
+            if [ $i -lt $MAX_RETRIES ]; then
               echo "Waiting ${DELAY}s..."
               sleep $DELAY
             fi
           done
           
-          # Fallback to production
-          echo "⚠️ Preview not found, using production"
+          echo "healthy=false" >> $GITHUB_OUTPUT
+          echo "❌ Deployment unhealthy, using production fallback"
           echo "url=https://metalforge.io" >> $GITHUB_OUTPUT
-      
-      - name: Health check deployment
-        id: health
-        run: |
-          URL="${{ steps.deployment.outputs.url }}"
-          
-          echo "Testing URL: $URL"
-          
-          # Quick health check
-          HTTP_STATUS=$(curl -s -o /dev/null -w "%{http_code}" "$URL")
-          echo "Status: $HTTP_STATUS"
-          
-          if [ "$HTTP_STATUS" = "200" ]; then
-            echo "healthy=true" >> $GITHUB_OUTPUT
-            echo "url=$URL" >> $GITHUB_OUTPUT
-            echo "✅ Deployment healthy!"
-          else
-            echo "healthy=false" >> $GITHUB_OUTPUT
-            echo "❌ Deployment unhealthy"
-            exit 1
-          fi
       
       - name: Run Playwright E2E tests
         run: npx playwright test --project=chromium

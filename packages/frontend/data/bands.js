@@ -84,15 +84,40 @@ export const bands = {
     status: "active",
     metaTitle: "Gojira - Mario Duplantier Drummer Profile & Gear | MetalForge",
     metaDescription: "Explore Gojira's powerhouse drummer Mario Duplantier and his complete gear setup.",
-    summary: "Gojira, formed in 1996 in France, pioneered eco-conscious progressive death metal.",
-    keywords: ["gojira", "mario duplantier", "progressive death metal", "french metal", "drummer gear"],
-    drummerHistory: [{ drummer: "mario-duplantier", period: "1996-present", notes: "Co-founder with brother Joe" }],
-    relatedBands: ["mastodon", "opeth", "meshuggah"],
+    summary: "Gojira is a French progressive/technical death metal band formed in 1996 in Bayonne by brothers Joe and Mario Duplantier. Originally named Godzilla, they changed to Gojira in 2001. Known for their environmentally-conscious lyrics, crushing grooves, and technical precision, Gojira has become one of the most influential metal bands of the 21st century. Albums like 'From Mars to Sirius' and 'Magma' have earned Grammy nominations and critical acclaim worldwide.",
+    keywords: ["gojira", "mario duplantier", "joe duplantier", "progressive death metal", "french metal", "drummer gear", "flying whales", "environmental metal"],
+    members: [
+      { name: "Joe Duplantier", role: "Vocals, Guitar", period: "1996-present", notes: "Co-founder" },
+      { name: "Mario Duplantier", role: "Drums", period: "1996-present", notes: "Co-founder, visual artist" },
+      { name: "Christian Andreu", role: "Guitar", period: "1996-present", notes: "Co-founder" },
+      { name: "Jean-Michel Labadie", role: "Bass", period: "2001-present", notes: "Joined after Godzilla era" }
+    ],
+    pastMembers: [
+      { name: "Alexandre Cornillon", role: "Bass", period: "1996-2001", notes: "Original bassist during Godzilla era" }
+    ],
+    drummerHistory: [{ drummer: "mario-duplantier", period: "1996-present", notes: "Co-founder with brother Joe, has been the only drummer in band history" }],
+    discography: [
+      { album: "Terra Incognita", year: 2001 },
+      { album: "The Link", year: 2003 },
+      { album: "From Mars to Sirius", year: 2005 },
+      { album: "The Way of All Flesh", year: 2008 },
+      { album: "L'Enfant Sauvage", year: 2012 },
+      { album: "Magma", year: 2016 },
+      { album: "Fortitude", year: 2021 }
+    ],
+    relatedBands: ["mastodon", "opeth", "meshuggah", "lamb-of-god", "periphery"],
     sameAs: [
       "https://en.wikipedia.org/wiki/Gojira_(band)",
       "https://www.discogs.com/artist/283955-Gojira",
       "https://musicbrainz.org/artist/1c5e1c3b-3f69-4bfe-9143-4e60c6ed8bf5",
       "https://www.wikidata.org/wiki/Q645883"
+    ],
+    faq: [
+      { q: "Why is Gojira called Gojira?", a: "The band was originally named Godzilla but changed to Gojira (the Japanese name for Godzilla) in 2001 to avoid trademark issues." },
+      { q: "Are Joe and Mario Duplantier brothers?", a: "Yes, Joe (vocals/guitar) and Mario (drums) Duplantier are brothers who co-founded the band in 1996." },
+      { q: "What is Gojira's most famous song?", a: "'Flying Whales' from the 2005 album 'From Mars to Sirius' is widely considered their signature song and a modern metal classic." },
+      { q: "Has Gojira won a Grammy?", a: "While they haven't won, Gojira has received multiple Grammy nominations including Best Metal Performance for 'Silvera' (2017) and 'Amazonia' (2022)." },
+      { q: "Where is Gojira from?", a: "Gojira is from Bayonne, a city in the Basque region of southwestern France near the Spanish border." }
     ],
   },
   slipknot: {

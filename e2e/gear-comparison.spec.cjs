@@ -115,7 +115,7 @@ test.describe('Individual Gear Comparison Page', () => {
   });
 
   test('should display VS badge', async ({ page }) => {
-    const vsBadge = page.getByText('VS');
+    const vsBadge = page.getByText('VS', { exact: true });
     await expect(vsBadge).toBeVisible();
   });
 
@@ -255,7 +255,7 @@ test.describe('Gear Comparison Mobile Responsiveness', () => {
     await page.waitForLoadState('networkidle');
 
     // VS badge should be visible
-    const vsBadge = page.getByText('VS');
+    const vsBadge = page.getByText('VS', { exact: true });
     await expect(vsBadge).toBeVisible();
 
     // Specs table should be visible
@@ -279,7 +279,7 @@ test.describe('Multiple Comparison Pages', () => {
       expect(pageContent).not.toContain('Comparison not found');
 
       // Should have VS badge
-      const vsBadge = page.getByText('VS');
+      const vsBadge = page.getByText('VS', { exact: true });
       await expect(vsBadge).toBeVisible();
 
       // Should have structured data

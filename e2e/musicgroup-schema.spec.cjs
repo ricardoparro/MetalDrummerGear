@@ -1,0 +1,237 @@
+/**
+ * E2E Tests for MusicGroup Schema (Issue #429)
+ * Tests JSON-LD structured data for band-drummer relationships
+ */
+const { test, expect } = require('@playwright/test');
+const BASE_URL = process.env.BASE_URL || 'https://metalforge.io';
+
+test.describe('MusicGroup Schema - Issue #429', () => {
+  test('drummer page includes MusicGroup in JSON-LD schema', async ({ page }) => {
+    // Go to Lars Ulrich's page (Metallica - has full band data)
+    await page.goto('/drummer/1', { waitUntil: 'load' });
+    await page.waitForTimeout(2000);
+
+    // Get the main JSON-LD script
+    const ldJsonScript = await page.locator('script[type="application/ld+json"][data-schema="main"]');
+    await expect(ldJsonScript).toBeAttached({ timeout: 10000 });
+    
+    const schemaText = await ldJsonScript.textContent();
+    const schema = JSON.parse(schemaText);
+    
+    // Verify @graph structure
+    expect(schema['@context']).toBe('https://schema.org');
+    expect(schema['@graph']).toBeDefined();
+    expect(Array.isArray(schema['@graph'])).toBeTruthy();
+    
+    // Find MusicGroup entity in graph
+    const musicGroup = schema['@graph'].find(entity => entity['@type'] === 'MusicGroup');
+    expect(musicGroup).toBeDefined();
+    expect(musicGroup.name).toBe('Metallica');
+  });
+
+  test('MusicGroup schema includes genre and sameAs for bands with full data', async ({ page }) => {
+    // Go to Lars Ulrich's page (Metallica - has full band data with sameAs)
+    await page.goto('/drummer/1', { waitUntil: 'load' });
+    await page.waitForTimeout(2000);
+
+    const ldJsonScript = await page.locator('script[type="application/ld+json"][data-schema="main"]');
+    const schemaText = await ldJsonScript.textContent();
+    const schema = JSON.parse(schemaText);
+    
+    const musicGroup = schema['@graph'].find(entity => entity['@type'] === 'MusicGroup');
+    expect(musicGroup).toBeDefined();
+    
+    // Verify genre is present
+    expect(musicGroup.genre).toBeDefined();
+    expect(Array.isArray(musicGroup.genre)).toBeTruthy();
+    expect(musicGroup.genre.length).toBeGreaterThan(0);
+    
+    // Verify sameAs links are present (Wikipedia, Discogs, MusicBrainz, Wikidata)
+    expect(musicGroup.sameAs).toBeDefined();
+    expect(Array.isArray(musicGroup.sameAs)).toBeTruthy();
+    expect(musicGroup.sameAs.length).toBeGreaterThan(0);
+    
+    // Check for Wikipedia link
+    const hasWikipedia = musicGroup.sameAs.some(url => url.includes('wikipedia.org'));
+    expect(hasWikipedia).toBeTruthy();
+  });
+
+  test('Person schema references MusicGroup via memberOf', async ({ page }) => {
+    await page.goto('/drummer/1', { waitUntil: 'load' });
+    await page.waitForTimeout(2000);
+
+    const ldJsonScript = await page.locator('script[type="application/ld+json"][data-schema="main"]');
+    const schemaText = await ldJsonScript.textContent();
+    const schema = JSON.parse(schemaText);
+    
+    // Find Person entity
+    const person = schema['@graph'].find(entity => entity['@type'] === 'Person');
+    expect(person).toBeDefined();
+    expect(person.name).toBe('Lars Ulrich');
+    
+    // Verify memberOf references the MusicGroup
+    expect(person.memberOf).toBeDefined();
+    expect(person.memberOf['@id']).toBeDefined();
+    
+    // Find the referenced MusicGroup by @id
+    const musicGroup = schema['@graph'].find(entity => 
+      entity['@type'] === 'MusicGroup' && entity['@id'] === person.memberOf['@id']
+    );
+    expect(musicGroup).toBeDefined();
+    expect(musicGroup.name).toBe('Metallica');
+  });
+
+  test('MusicGroup schema has proper @id for entity linking', async ({ page }) => {
+    await page.goto('/drummer/1', { waitUntil: 'load' });
+    await page.waitForTimeout(2000);
+
+    const ldJsonScript = await page.locator('script[type="application/ld+json"][data-schema="main"]');
+    const schemaText = await ldJsonScript.textContent();
+    const schema = JSON.parse(schemaText);
+    
+    const musicGroup = schema['@graph'].find(entity => entity['@type'] === 'MusicGroup');
+    expect(musicGroup['@id']).toBeDefined();
+    expect(musicGroup['@id']).toContain('metalforge.io/bands/');
+    expect(musicGroup['@id']).toContain('#band');
+  });
+
+  test('Danny Carey page includes Tool MusicGroup schema', async ({ page }) => {
+    // Test Tool (Issue #355 reference)
+    await page.goto('/drummer/14', { waitUntil: 'load' });
+    await page.waitForTimeout(2000);
+
+    const ldJsonScript = await page.locator('script[type="application/ld+json"][data-schema="main"]');
+    const schemaText = await ldJsonScript.textContent();
+    const schema = JSON.parse(schemaText);
+    
+    const musicGroup = schema['@graph'].find(entity => entity['@type'] === 'MusicGroup');
+    expect(musicGroup).toBeDefined();
+    expect(musicGroup.name).toBe('Tool');
+    
+    // Verify Tool has sameAs links
+    expect(musicGroup.sameAs).toBeDefined();
+    expect(musicGroup.sameAs.some(url => url.includes('wikipedia.org/wiki/Tool'))).toBeTruthy();
+  });
+
+  test('Mario Duplantier page includes Gojira MusicGroup schema', async ({ page }) => {
+    // Test Gojira (Issue #357 reference)
+    await page.goto('/drummer/15', { waitUntil: 'load' });
+    await page.waitForTimeout(2000);
+
+    const ldJsonScript = await page.locator('script[type="application/ld+json"][data-schema="main"]');
+    const schemaText = await ldJsonScript.textContent();
+    const schema = JSON.parse(schemaText);
+    
+    const musicGroup = schema['@graph'].find(entity => entity['@type'] === 'MusicGroup');
+    expect(musicGroup).toBeDefined();
+    expect(musicGroup.name).toBe('Gojira');
+    
+    // Verify Gojira has sameAs links
+    expect(musicGroup.sameAs).toBeDefined();
+    expect(musicGroup.sameAs.length).toBeGreaterThan(0);
+  });
+
+  test('MusicGroup includes foundingDate when available', async ({ page }) => {
+    await page.goto('/drummer/1', { waitUntil: 'load' });
+    await page.waitForTimeout(2000);
+
+    const ldJsonScript = await page.locator('script[type="application/ld+json"][data-schema="main"]');
+    const schemaText = await ldJsonScript.textContent();
+    const schema = JSON.parse(schemaText);
+    
+    const musicGroup = schema['@graph'].find(entity => entity['@type'] === 'MusicGroup');
+    expect(musicGroup.foundingDate).toBeDefined();
+    expect(musicGroup.foundingDate).toBe('1981');
+  });
+
+  test('MusicGroup includes foundingLocation when available', async ({ page }) => {
+    await page.goto('/drummer/1', { waitUntil: 'load' });
+    await page.waitForTimeout(2000);
+
+    const ldJsonScript = await page.locator('script[type="application/ld+json"][data-schema="main"]');
+    const schemaText = await ldJsonScript.textContent();
+    const schema = JSON.parse(schemaText);
+    
+    const musicGroup = schema['@graph'].find(entity => entity['@type'] === 'MusicGroup');
+    expect(musicGroup.foundingLocation).toBeDefined();
+    expect(musicGroup.foundingLocation['@type']).toBe('Place');
+    expect(musicGroup.foundingLocation.name).toBeDefined();
+  });
+
+  test('Person schema includes nationality from drummer country', async ({ page }) => {
+    await page.goto('/drummer/1', { waitUntil: 'load' });
+    await page.waitForTimeout(2000);
+
+    const ldJsonScript = await page.locator('script[type="application/ld+json"][data-schema="main"]');
+    const schemaText = await ldJsonScript.textContent();
+    const schema = JSON.parse(schemaText);
+    
+    const person = schema['@graph'].find(entity => entity['@type'] === 'Person');
+    expect(person.nationality).toBeDefined();
+    expect(person.nationality['@type']).toBe('Country');
+    expect(person.nationality.name).toBe('Denmark');
+  });
+
+  test('drummer without full band data gets fallback MusicGroup schema', async ({ page }) => {
+    // Find a drummer whose band is not in the full bands.js registry
+    // John Otto (Limp Bizkit) - ID 10
+    await page.goto('/drummer/10', { waitUntil: 'load' });
+    await page.waitForTimeout(2000);
+
+    const ldJsonScript = await page.locator('script[type="application/ld+json"][data-schema="main"]');
+    const schemaText = await ldJsonScript.textContent();
+    const schema = JSON.parse(schemaText);
+    
+    // Should still have MusicGroup with basic data
+    const musicGroup = schema['@graph'].find(entity => entity['@type'] === 'MusicGroup');
+    expect(musicGroup).toBeDefined();
+    expect(musicGroup.name).toBe('Limp Bizkit');
+    
+    // Fallback should at least have Wikipedia sameAs
+    expect(musicGroup.sameAs).toBeDefined();
+    expect(musicGroup.sameAs.some(url => url.includes('wikipedia.org'))).toBeTruthy();
+  });
+
+  test('all drummers have valid MusicGroup schema', async ({ page, request }) => {
+    // Increase timeout for multi-page test
+    test.setTimeout(120000);
+    
+    const response = await request.get(`${BASE_URL}/api/drummers`);
+    const drummers = await response.json();
+    
+    const errors = [];
+    // Test first 10 drummers
+    for (const d of drummers.slice(0, 10)) {
+      await page.goto(`/drummer/${d.id}`, { waitUntil: 'load' });
+      await page.waitForTimeout(1500);
+      
+      try {
+        const ldJsonScript = await page.locator('script[type="application/ld+json"][data-schema="main"]');
+        const schemaText = await ldJsonScript.textContent();
+        const schema = JSON.parse(schemaText);
+        
+        // Verify MusicGroup exists
+        const musicGroup = schema['@graph']?.find(entity => entity['@type'] === 'MusicGroup');
+        if (!musicGroup) {
+          errors.push(`${d.name} - missing MusicGroup in schema`);
+          continue;
+        }
+        
+        // Verify MusicGroup has name
+        if (!musicGroup.name) {
+          errors.push(`${d.name} - MusicGroup missing name`);
+        }
+        
+        // Verify Person has memberOf
+        const person = schema['@graph']?.find(entity => entity['@type'] === 'Person');
+        if (!person?.memberOf) {
+          errors.push(`${d.name} - Person missing memberOf`);
+        }
+      } catch (e) {
+        errors.push(`${d.name} - Error parsing schema: ${e.message}`);
+      }
+    }
+    
+    expect(errors, `Schema errors:\n${errors.join('\n')}`).toHaveLength(0);
+  });
+});

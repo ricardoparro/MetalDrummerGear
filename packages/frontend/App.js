@@ -67,8 +67,8 @@ import {
   getDatabaseStats 
 } from './data/metalSongsBpm';
 
-// Band data with drummer history (Issue #349)
-import { getBand, getAllBands, hasBand, getAllBandSlugs, getBandsForDrummer } from './data/bands';
+// Band data with drummer history (Issue #349, #429)
+import { getBand, getAllBands, hasBand, getAllBandSlugs, getBandsForDrummer, generateMusicGroupSchemaFromDrummer } from './data/bands';
 
 // Genre data for landing pages (Issue #340)
 import { getGenre, getAllGenres, hasGenre, getAllGenreSlugs, getDrummersByGenre, getRelatedGenres } from './data/genres';
@@ -1503,41 +1503,67 @@ function updateDocumentMeta(drummer, drummers = [], filters = {}) {
   // Build schema based on context
   let schema;
   if (drummer) {
-    // Enhanced structured data with Person + Product pricing for drummer pages
+    // Generate MusicGroup schema with full band data (Issue #429)
+    const musicGroupSchema = generateMusicGroupSchemaFromDrummer(drummer);
+    
+    // Enhanced structured data with Person + MusicGroup + Product pricing for drummer pages
+    const graphEntities = [];
+    
+    // Add MusicGroup as separate entity for stronger entity recognition
+    if (musicGroupSchema) {
+      graphEntities.push(musicGroupSchema);
+    }
+    
+    // Add Person schema with memberOf reference to MusicGroup
+    const personSchema = {
+      "@type": "Person",
+      "@id": `https://metalforge.io/drummer/${drummer.id}#person`,
+      "name": drummer.name,
+      "description": drummer.bio,
+      "image": `https://metalforge.io${drummer.image}`,
+      "jobTitle": "Professional Drummer",
+      "memberOf": musicGroupSchema ? {
+        "@id": musicGroupSchema["@id"]
+      } : {
+        "@type": "MusicGroup",
+        "name": drummer.band
+      },
+      ...(drummer.sameAs && drummer.sameAs.length > 0 && { "sameAs": drummer.sameAs })
+    };
+    
+    // Add nationality if country is available
+    if (drummer.country) {
+      personSchema.nationality = {
+        "@type": "Country",
+        "name": drummer.country
+      };
+    }
+    
+    graphEntities.push(personSchema);
+    
+    // Add Product schema for gear
+    graphEntities.push({
+      "@type": "Product",
+      "name": `${drummer.name}'s Complete Drum Kit`,
+      "description": `Professional drum setup used by ${drummer.name} of ${drummer.band}`,
+      "image": `https://metalforge.io${drummer.image}`,
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "EUR",
+        "lowPrice": kitCost?.totalEur || 0,
+        "highPrice": Math.round((kitCost?.totalEur || 0) * 1.2),
+        "offerCount": 5,
+        "availability": "https://schema.org/InStock"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": extractPrimaryProduct(drummer.gear?.drums)?.split(' ')[0] || "Various"
+      }
+    });
+    
     schema = {
       "@context": "https://schema.org",
-      "@graph": [
-        {
-          "@type": "Person",
-          "name": drummer.name,
-          "description": drummer.bio,
-          "image": drummer.image,
-          "jobTitle": "Drummer",
-          "memberOf": {
-            "@type": "MusicGroup",
-            "name": drummer.band
-          },
-          ...(drummer.sameAs && drummer.sameAs.length > 0 && { "sameAs": drummer.sameAs })
-        },
-        {
-          "@type": "Product",
-          "name": `${drummer.name}'s Complete Drum Kit`,
-          "description": `Professional drum setup used by ${drummer.name} of ${drummer.band}`,
-          "image": drummer.image,
-          "offers": {
-            "@type": "AggregateOffer",
-            "priceCurrency": "EUR",
-            "lowPrice": kitCost?.totalEur || 0,
-            "highPrice": Math.round((kitCost?.totalEur || 0) * 1.2),
-            "offerCount": 5,
-            "availability": "https://schema.org/InStock"
-          },
-          "brand": {
-            "@type": "Brand",
-            "name": extractPrimaryProduct(drummer.gear?.drums)?.split(' ')[0] || "Various"
-          }
-        }
-      ]
+      "@graph": graphEntities
     };
   } else {
     // Homepage schema with ItemList for drummers collection

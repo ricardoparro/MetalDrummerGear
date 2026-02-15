@@ -9382,10 +9382,13 @@ function DrummerList({
   );
 }
 
-// Check if we're on the compare page based on URL
+// Check if we're on the drummer compare page based on URL (requires query params like ?d1=1&d2=2)
 function isComparePage() {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
-  return window.location.pathname === '/compare' || window.location.pathname.startsWith('/compare?');
+  const pathname = window.location.pathname;
+  const hasQueryParams = window.location.search.includes('d1=') || window.location.search.includes('d2=');
+  // Only match /compare with drummer query params, not /compare/:slug
+  return (pathname === '/compare' || pathname === '/compare/') && hasQueryParams;
 }
 
 // Check if we're on the quiz page based on URL (supports /quiz and /find-your-match)
@@ -10114,34 +10117,36 @@ function getBpmCategory(bpm) {
 // GEAR COMPARISON ROUTING (Issue #345)
 // ==========================================
 
-// Check if we're on a gear comparison page (/compare-gear/:slug)
+// Check if we're on a gear comparison page (/compare/:slug)
 function isGearComparisonPage() {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
-  return /^\/compare-gear\/[a-z0-9-]+$/i.test(window.location.pathname);
+  return /^\/compare\/[a-z0-9-]+$/i.test(window.location.pathname);
 }
 
-// Check if we're on the gear comparisons index page (/compare-gear)
+// Check if we're on the gear comparisons index page (/compare without drummer query params)
 function isGearComparisonsIndexPage() {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
   const pathname = window.location.pathname;
-  return pathname === '/compare-gear' || pathname === '/compare-gear/';
+  const hasCompareQueryParams = window.location.search.includes('d1=') || window.location.search.includes('d2=');
+  // Only match /compare without drummer query params (those go to drummer compare)
+  return (pathname === '/compare' || pathname === '/compare/') && !hasCompareQueryParams;
 }
 
 // Get gear comparison slug from URL
 function getGearComparisonSlugFromURL() {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
-  const match = window.location.pathname.match(/^\/compare-gear\/([a-z0-9-]+)$/i);
+  const match = window.location.pathname.match(/^\/compare\/([a-z0-9-]+)$/i);
   return match ? match[1] : null;
 }
 
 // Update URL for gear comparison page
 function updateGearComparisonURL(slug) {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return;
-  const newPath = slug ? `/compare-gear/${slug}` : '/compare-gear';
+  const newPath = slug ? `/compare/${slug}` : '/compare';
   window.history.pushState({}, '', newPath);
 }
 
-// Update meta tags for gear comparison pages
+// Update meta tags and structured data for gear comparison pages
 function updateGearComparisonMeta(comparison) {
   if (Platform.OS !== 'web' || typeof document === 'undefined') return;
 
@@ -10162,11 +10167,134 @@ function updateGearComparisonMeta(comparison) {
     setMeta('og:title', comparison.metaTitle, true);
     setMeta('og:description', comparison.metaDescription, true);
     setMeta('og:type', 'article', true);
-    setMeta('og:url', `https://metalforge.io/compare-gear/${comparison.slug}`, true);
+    setMeta('og:url', `https://metalforge.io/compare/${comparison.slug}`, true);
     setMeta('twitter:card', 'summary_large_image');
     setMeta('twitter:title', comparison.metaTitle);
     setMeta('twitter:description', comparison.metaDescription);
+
+    // Canonical URL
+    let canonicalLink = document.querySelector('link[rel="canonical"]');
+    if (!canonicalLink) {
+      canonicalLink = document.createElement('link');
+      canonicalLink.setAttribute('rel', 'canonical');
+      document.head.appendChild(canonicalLink);
+    }
+    canonicalLink.setAttribute('href', `https://metalforge.io/compare/${comparison.slug}`);
+
+    // Structured Data - ItemPage with comparison schema
+    let ldScript = document.querySelector('script[data-schema="comparison"]');
+    if (!ldScript) {
+      ldScript = document.createElement('script');
+      ldScript.type = 'application/ld+json';
+      ldScript.setAttribute('data-schema', 'comparison');
+      document.head.appendChild(ldScript);
+    }
+
+    const item1 = comparison.items[0];
+    const item2 = comparison.items[1];
+
+    const comparisonSchema = {
+      "@context": "https://schema.org",
+      "@type": "ItemPage",
+      "name": comparison.title,
+      "description": comparison.metaDescription,
+      "url": `https://metalforge.io/compare/${comparison.slug}`,
+      "about": [
+        {
+          "@type": "Brand",
+          "name": item1.brand,
+          "description": `${item1.brand} ${item1.model} - ${item1.bestFor}`
+        },
+        {
+          "@type": "Brand",
+          "name": item2.brand,
+          "description": `${item2.brand} ${item2.model} - ${item2.bestFor}`
+        }
+      ],
+      "mainEntity": {
+        "@type": "ItemList",
+        "name": comparison.title,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Product",
+              "name": `${item1.brand} ${item1.model}`,
+              "brand": { "@type": "Brand", "name": item1.brand },
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": item1.rating,
+                "bestRating": 5,
+                "worstRating": 1
+              },
+              "description": item1.pros.join('. ')
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Product",
+              "name": `${item2.brand} ${item2.model}`,
+              "brand": { "@type": "Brand", "name": item2.brand },
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": item2.rating,
+                "bestRating": 5,
+                "worstRating": 1
+              },
+              "description": item2.pros.join('. ')
+            }
+          }
+        ]
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "MetalForge",
+        "url": "https://metalforge.io"
+      }
+    };
+
+    ldScript.textContent = JSON.stringify(comparisonSchema);
+
+    // BreadcrumbList Schema
+    let breadcrumbScript = document.querySelector('script[data-schema="comparison-breadcrumb"]');
+    if (!breadcrumbScript) {
+      breadcrumbScript = document.createElement('script');
+      breadcrumbScript.type = 'application/ld+json';
+      breadcrumbScript.setAttribute('data-schema', 'comparison-breadcrumb');
+      document.head.appendChild(breadcrumbScript);
+    }
+
+    const breadcrumbSchema = {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://metalforge.io"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gear Comparisons",
+          "item": "https://metalforge.io/compare"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": comparison.title,
+          "item": `https://metalforge.io/compare/${comparison.slug}`
+        }
+      ]
+    };
+    breadcrumbScript.textContent = JSON.stringify(breadcrumbSchema);
+
   } else {
+    // Index page
     const title = 'Gear Comparisons - Tama vs Pearl, Meinl vs Zildjian & More | MetalForge';
     const description = 'Compare top drum brands and gear for metal drumming. Tama vs Pearl, Meinl vs Zildjian, and more. Expert analysis, specs, and pro drummer endorsements.';
     document.title = title;
@@ -10174,10 +10302,59 @@ function updateGearComparisonMeta(comparison) {
     setMeta('og:title', title, true);
     setMeta('og:description', description, true);
     setMeta('og:type', 'website', true);
-    setMeta('og:url', 'https://metalforge.io/compare-gear', true);
+    setMeta('og:url', 'https://metalforge.io/compare', true);
     setMeta('twitter:card', 'summary_large_image');
     setMeta('twitter:title', title);
     setMeta('twitter:description', description);
+
+    // Canonical URL for index
+    let canonicalLink = document.querySelector('link[rel="canonical"]');
+    if (!canonicalLink) {
+      canonicalLink = document.createElement('link');
+      canonicalLink.setAttribute('rel', 'canonical');
+      document.head.appendChild(canonicalLink);
+    }
+    canonicalLink.setAttribute('href', 'https://metalforge.io/compare');
+
+    // CollectionPage schema for index
+    let ldScript = document.querySelector('script[data-schema="comparison"]');
+    if (!ldScript) {
+      ldScript = document.createElement('script');
+      ldScript.type = 'application/ld+json';
+      ldScript.setAttribute('data-schema', 'comparison');
+      document.head.appendChild(ldScript);
+    }
+
+    const allComparisons = getAllGearComparisons();
+    const indexSchema = {
+      "@context": "https://schema.org",
+      "@type": "CollectionPage",
+      "name": "Gear Comparisons",
+      "description": description,
+      "url": "https://metalforge.io/compare",
+      "mainEntity": {
+        "@type": "ItemList",
+        "name": "Metal Drumming Gear Comparisons",
+        "numberOfItems": allComparisons.length,
+        "itemListElement": allComparisons.map((c, index) => ({
+          "@type": "ListItem",
+          "position": index + 1,
+          "item": {
+            "@type": "Article",
+            "name": c.title,
+            "url": `https://metalforge.io/compare/${c.slug}`,
+            "description": c.metaDescription
+          }
+        }))
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "MetalForge",
+        "url": "https://metalforge.io"
+      }
+    };
+
+    ldScript.textContent = JSON.stringify(indexSchema);
   }
 }
 
@@ -13410,7 +13587,7 @@ setShowList(false);
     setSelectedGear(null);
     // Update URL
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
-      window.history.pushState({}, '', '/compare-gear');
+      window.history.pushState({}, '', '/compare');
     }
   };
 
@@ -13422,7 +13599,7 @@ setShowList(false);
       setGearComparisonSlug(null);
       setShowGearComparisonsIndex(true);
       if (Platform.OS === 'web' && typeof window !== 'undefined') {
-        window.history.pushState({}, '', '/compare-gear');
+        window.history.pushState({}, '', '/compare');
       }
     } else {
       // Go back to home

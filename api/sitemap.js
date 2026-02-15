@@ -2,6 +2,7 @@
 // Issue #361: Added band pages
 // Issue #339: Added gear category pages for SEO
 // Issue #344: Added drumming technique pages
+// Issue #345: Added gear comparison pages
 
 const drummers = [
   { id: 1, name: 'Lars Ulrich' }, { id: 2, name: 'Joey Jordison' }, { id: 3, name: 'Gene Hoglan' },
@@ -63,6 +64,16 @@ const techniques = [
   { slug: 'fill-techniques', name: 'Metal Drum Fills' },
 ];
 
+// Issue #345: Gear comparison pages for SEO
+const gearComparisons = [
+  { slug: 'tama-vs-pearl', name: 'Tama vs Pearl Drums' },
+  { slug: 'meinl-vs-zildjian', name: 'Meinl vs Zildjian Cymbals' },
+  { slug: 'tama-iron-cobra-vs-pearl-demon-drive', name: 'Tama Iron Cobra vs Pearl Demon Drive' },
+  { slug: 'paiste-vs-sabian', name: 'Paiste vs Sabian Cymbals' },
+  { slug: 'tama-slp-vs-pearl-sensitone', name: 'Tama SLP vs Pearl Sensitone' },
+  { slug: 'sonor-vs-dw', name: 'Sonor vs DW Drums' },
+];
+
 const BASE_URL = 'https://metalforge.io';
 
 function generateSlug(name) {
@@ -87,6 +98,9 @@ export default function handler(req, res) {
     ...gearItems.map(g => ({ loc: `/gear/item/${g.slug}`, priority: '0.7', changefreq: 'monthly' })),
     ...bandPages.map(b => ({ loc: `/band/${b.slug}`, priority: '0.8', changefreq: 'monthly' })),
     ...techniques.map(t => ({ loc: `/techniques/${t.slug}`, priority: '0.8', changefreq: 'monthly' })),
+    // Issue #345: Gear comparison pages
+    { loc: '/compare', priority: '0.9', changefreq: 'weekly' },
+    ...gearComparisons.map(c => ({ loc: `/compare/${c.slug}`, priority: '0.8', changefreq: 'monthly' })),
   ];
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">

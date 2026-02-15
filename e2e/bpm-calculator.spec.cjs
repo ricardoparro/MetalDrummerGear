@@ -219,13 +219,18 @@ test.describe('BPM Tap Calculator - Issue #342', () => {
       test.skip(!bpmFeatureAvailable, 'BPM feature not available on this deployment');
       
       await page.goto('/bpm/fast');
+      // Wait for page to fully hydrate (networkidle ensures JS has executed)
+      await page.waitForLoadState('networkidle');
       
-      // Check meta description
+      // Wait for page content to be visible (confirms React has rendered)
+      await expect(page.getByText(/Fast Tempo/i).first()).toBeVisible({ timeout: 10000 });
+      
+      // Check meta description (set by React useEffect after hydration)
       const metaDescription = await page.locator('meta[name="description"]').getAttribute('content');
       expect(metaDescription).toBeTruthy();
       expect(metaDescription.length).toBeGreaterThan(50);
       
-      // Check og:title
+      // Check og:title (set by React useEffect after hydration)
       const ogTitle = await page.locator('meta[property="og:title"]').getAttribute('content');
       expect(ogTitle).toBeTruthy();
     });

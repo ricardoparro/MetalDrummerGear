@@ -12650,6 +12650,8 @@ function AppContent() {
       } else if (isBpmTapPage()) {
         // BPM Tap Calculator page (Issue #342)
         setShowBpmTap(true);
+        setShowBpmRange(false);
+        setBpmRangeSlug(null);
         setShowKitBuilder(false);
         setShowBirthdayCalendar(false);
         setShowBandDetail(false);
@@ -12670,6 +12672,38 @@ function AppContent() {
         setShowGenrePage(false);
         setGenreSlug(null);
         setShowGenresList(false);
+      } else if (isBpmRangePage()) {
+        // BPM Range page (Issue #342)
+        const slug = getBpmRangeSlugFromURL();
+        setShowBpmRange(true);
+        setBpmRangeSlug(slug);
+        setShowBpmTap(false);
+        setShowKitBuilder(false);
+        setShowBirthdayCalendar(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowList(false);
+        setListSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowGenresList(false);
+        setShowGearComparison(false);
+        setGearComparisonSlug(null);
+        setShowGearComparisonsIndex(false);
+        setShowTechniquesIndex(false);
+        setShowTechniqueDetail(false);
+        setTechniqueSlug(null);
       } else if (isBirthdayCalendarPage()) {
         // Birthday Calendar page (Issue #343)
         setShowBirthdayCalendar(true);
@@ -13265,6 +13299,43 @@ setShowList(false);
     setSelectedGear(null);
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
       window.history.pushState({}, '', '/bpm');
+    }
+  };
+
+  // Navigate to BPM Range Page (Issue #342)
+  const handleNavigateToBpmRange = (rangeSlug) => {
+    setShowBpmRange(true);
+    setBpmRangeSlug(rangeSlug);
+    setShowBpmTap(false);
+    setShowKitBuilder(false);
+    setShowBirthdayCalendar(false);
+    setShowGearFinder(false);
+    setShowGearByBudget(false);
+    setShowList(false);
+    setListSlug(null);
+    setShowSpotlights(false);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowPrivacy(false);
+    setShowQuotes(false);
+    setShowBioPage(false);
+    setBioSlug(null);
+    setShowBandDetail(false);
+    setBandSlug(null);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    setShowGenrePage(false);
+    setGenreSlug(null);
+    setShowGenresList(false);
+    setShowGearComparison(false);
+    setGearComparisonSlug(null);
+    setShowGearComparisonsIndex(false);
+    setShowTechniquesIndex(false);
+    setShowTechniqueDetail(false);
+    setTechniqueSlug(null);
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', `/bpm/${rangeSlug}`);
     }
   };
 
@@ -13884,6 +13955,26 @@ setShowList(false);
           }}
           drummers={drummers}
           onSelectDrummer={handleSelectDrummer}
+        />
+      );
+    }
+    // BPM Range Page (Issue #342)
+    if (showBpmRange && bpmRangeSlug) {
+      return (
+        <BpmRangePage
+          rangeSlug={bpmRangeSlug}
+          theme={theme}
+          drummers={drummers}
+          onBack={() => {
+            setShowBpmRange(false);
+            setBpmRangeSlug(null);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/');
+            }
+          }}
+          onSelectDrummer={handleSelectDrummer}
+          onNavigateToBpmRange={handleNavigateToBpmRange}
+          onNavigateToBpmTap={handleNavigateToBpmTap}
         />
       );
     }

@@ -13,7 +13,7 @@ const { test, expect } = require('@playwright/test');
  * - Navigation and links
  */
 
-const BASE_URL = 'http://localhost:3000';
+const BASE_URL = process.env.BASE_URL || 'https://metalforge.io';
 
 // Sample comparison slugs to test
 const COMPARISON_SLUGS = [

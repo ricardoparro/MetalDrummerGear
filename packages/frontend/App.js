@@ -13965,6 +13965,28 @@ setShowList(false);
         />
       );
     }
+    // Gear Comparison Detail Page (Issue #345)
+    if (showGearComparison && gearComparisonSlug) {
+      return (
+        <GearComparisonPage
+          comparisonSlug={gearComparisonSlug}
+          theme={theme}
+          onBack={handleBackFromGearComparison}
+          onSelectDrummer={handleSelectDrummer}
+          drummers={drummers}
+        />
+      );
+    }
+    // Gear Comparisons Index Page (Issue #345)
+    if (showGearComparisonsIndex) {
+      return (
+        <GearComparisonsIndexPage
+          theme={theme}
+          onBack={handleBackFromGearComparison}
+          onSelectComparison={handleNavigateToGearComparison}
+        />
+      );
+    }
     // Genre Landing Page (Issue #340)
     if (showGenrePage && genreSlug) {
       return (

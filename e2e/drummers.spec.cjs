@@ -68,7 +68,10 @@ test.describe('MetalForge E2E', () => {
 
   test('homepage loads', async ({ page }) => {
     await page.goto('/');
-    await expect(page.locator('text=Metal Drummer Gear')).toBeVisible({ timeout: 15000 });
+    // Check for either branding (old: "Metal Drummer Gear", new: "MetalForge")
+    const metalForge = page.locator('text=MetalForge');
+    const metalDrummerGear = page.locator('text=Metal Drummer Gear');
+    await expect(metalForge.or(metalDrummerGear)).toBeVisible({ timeout: 15000 });
   });
   
   test('all drummer images load', async ({ request }) => {

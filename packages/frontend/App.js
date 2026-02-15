@@ -6175,6 +6175,189 @@ function BpmTapPage({ theme, onBack, drummers, onSelectDrummer }) {
 }
 
 // ==========================================
+// BPM RANGE LANDING PAGE (Issue #342)
+// Shows songs in a specific BPM range (slow, mid, fast, extreme, blast-beat, or numeric)
+// ==========================================
+function BpmRangePage({ rangeSlug, theme, drummers, onBack, onSelectDrummer, onNavigateToBpmRange, onNavigateToBpmTap }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  
+  // Get range info from slug
+  const getRangeInfo = (slug) => {
+    const ranges = {
+      'slow': { min: 40, max: 89, label: 'Slow Tempo (Doom/Sludge)', emoji: '🐢', description: 'Doom metal, sludge, and slow grooves. Perfect for crushing riffs and atmospheric soundscapes.' },
+      'mid': { min: 90, max: 129, label: 'Mid Tempo (Groove/Heavy)', emoji: '🤘', description: 'Classic heavy metal and groove metal territory. Headbang-friendly BPMs.' },
+      'fast': { min: 130, max: 169, label: 'Fast Tempo (Thrash/Power)', emoji: '⚡', description: 'Thrash metal, power metal, and high-energy tracks. Get your double bass ready!' },
+      'extreme': { min: 170, max: 250, label: 'Extreme Tempo (Death/Black)', emoji: '💀', description: 'Death metal, black metal, and extreme speeds. Blast beats incoming!' },
+      'blast-beat': { min: 251, max: 400, label: 'Blast Beat Territory', emoji: '🔥', description: 'Grindcore and beyond. Pure speed and aggression!' },
+      'blast': { min: 251, max: 400, label: 'Blast Beat Territory', emoji: '🔥', description: 'Grindcore and beyond. Pure speed and aggression!' },
+    };
+    
+    // Check if it's a numeric BPM
+    if (/^\d+$/.test(slug)) {
+      const bpm = parseInt(slug, 10);
+      const tolerance = 10;
+      return { 
+        min: bpm - tolerance, 
+        max: bpm + tolerance, 
+        label: `Songs around ${bpm} BPM`, 
+        emoji: '🎯', 
+        description: `Metal songs with tempo near ${bpm} BPM (±${tolerance}).`,
+        exactBpm: bpm
+      };
+    }
+    
+    return ranges[slug] || null;
+  };
+  
+  const rangeInfo = getRangeInfo(rangeSlug);
+  const isValidRange = rangeInfo !== null;
+  
+  // Filter songs by BPM range
+  const songsInRange = useMemo(() => {
+    if (!rangeInfo) return [];
+    return METAL_SONGS_DATABASE
+      .filter(s => s.bpm >= rangeInfo.min && s.bpm <= rangeInfo.max)
+      .sort((a, b) => a.bpm - b.bpm);
+  }, [rangeInfo]);
+  
+  // Update meta tags on mount
+  useEffect(() => {
+    if (Platform.OS !== 'web' || typeof document === 'undefined') return;
+    
+    if (rangeInfo) {
+      const title = `${rangeInfo.label} Metal Songs | MetalForge`;
+      const description = `${rangeInfo.description} Browse ${songsInRange.length} metal songs at ${rangeInfo.min}-${rangeInfo.max} BPM.`;
+      
+      document.title = title;
+      
+      const setMeta = (name, content, isProperty = false) => {
+        const attr = isProperty ? 'property' : 'name';
+        let meta = document.querySelector(`meta[${attr}="${name}"]`);
+        if (!meta) {
+          meta = document.createElement('meta');
+          meta.setAttribute(attr, name);
+          document.head.appendChild(meta);
+        }
+        meta.setAttribute('content', content);
+      };
+      
+      setMeta('description', description);
+      setMeta('og:title', title, true);
+      setMeta('og:description', description, true);
+      setMeta('og:url', `https://metalforge.io/bpm/${rangeSlug}`, true);
+    }
+  }, [rangeInfo, rangeSlug, songsInRange.length]);
+  
+  // Other range links for navigation
+  const otherRanges = ['slow', 'mid', 'fast', 'extreme', 'blast-beat'].filter(r => r !== rangeSlug);
+  
+  if (!isValidRange) {
+    return (
+      <ScrollView style={[styles.listContainer, { backgroundColor: theme.background }]}>
+        <View style={styles.bpmPageHeader}>
+          <TouchableOpacity onPress={onBack} style={styles.backButton}>
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to BPM Calculator</Text>
+          </TouchableOpacity>
+        </View>
+        <View style={{ padding: 20, alignItems: 'center' }}>
+          <Text style={[styles.bpmPageTitle, { color: theme.text }]}>❓ Invalid BPM Range</Text>
+          <Text style={{ color: theme.secondaryText, marginTop: 10, textAlign: 'center' }}>
+            The range "{rangeSlug}" was not found. Try one of these:
+          </Text>
+          <View style={{ marginTop: 20, flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'center', gap: 10 }}>
+            {['slow', 'mid', 'fast', 'extreme', 'blast-beat'].map(range => (
+              <TouchableOpacity 
+                key={range}
+                style={[styles.bpmRangeButton, { backgroundColor: theme.accent }]}
+                onPress={() => onNavigateToBpmRange(range)}
+              >
+                <Text style={{ color: '#fff', fontWeight: 'bold' }}>{range}</Text>
+              </TouchableOpacity>
+            ))}
+          </View>
+        </View>
+      </ScrollView>
+    );
+  }
+  
+  return (
+    <ScrollView 
+      style={[styles.listContainer, { backgroundColor: theme.background }]}
+      contentContainerStyle={{ paddingBottom: 40 }}
+    >
+      {/* Header */}
+      <View style={styles.bpmPageHeader}>
+        <TouchableOpacity onPress={onNavigateToBpmTap} style={styles.backButton}>
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to BPM Calculator</Text>
+        </TouchableOpacity>
+      </View>
+      
+      {/* Title */}
+      <View style={styles.bpmTitleSection}>
+        <Text style={[styles.bpmPageTitle, { color: theme.text }]}>{rangeInfo.emoji} {rangeInfo.label}</Text>
+        <Text style={{ color: theme.secondaryText, marginTop: 8, textAlign: 'center', maxWidth: 600 }}>
+          {rangeInfo.description}
+        </Text>
+        <Text style={{ color: theme.secondaryText, marginTop: 8 }}>
+          BPM Range: {rangeInfo.min} - {rangeInfo.max} | {songsInRange.length} songs
+        </Text>
+      </View>
+      
+      {/* Songs List */}
+      <View style={[styles.bpmSongsList, { maxWidth: 800, alignSelf: 'center', width: '100%' }]}>
+        <Text style={[styles.sectionTitle, { color: theme.text, marginBottom: 15 }]}>
+          🎵 Songs in this range
+        </Text>
+        {songsInRange.length === 0 ? (
+          <Text style={{ color: theme.secondaryText, textAlign: 'center', padding: 20 }}>
+            No songs found in this BPM range.
+          </Text>
+        ) : (
+          songsInRange.map((song, idx) => (
+            <View 
+              key={`${song.band}-${song.song}-${idx}`}
+              style={[styles.bpmSongItem, { backgroundColor: theme.card, borderColor: theme.border }]}
+            >
+              <View style={{ flex: 1 }}>
+                <Text style={[styles.bpmSongName, { color: theme.text }]}>{song.song}</Text>
+                <Text style={[styles.bpmSongBand, { color: theme.secondaryText }]}>
+                  {song.band} • {song.album} ({song.year})
+                </Text>
+              </View>
+              <View style={styles.bpmBadge}>
+                <Text style={styles.bpmBadgeText}>{song.bpm}</Text>
+              </View>
+            </View>
+          ))
+        )}
+      </View>
+      
+      {/* Other Ranges */}
+      <View style={{ marginTop: 30, paddingHorizontal: 20 }}>
+        <Text style={[styles.sectionTitle, { color: theme.text, marginBottom: 15, textAlign: 'center' }]}>
+          Explore Other Tempos
+        </Text>
+        <View style={{ flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'center', gap: 10 }}>
+          {otherRanges.map(range => {
+            const info = getRangeInfo(range);
+            return (
+              <TouchableOpacity 
+                key={range}
+                style={[styles.bpmRangeButton, { backgroundColor: theme.accent }]}
+                onPress={() => onNavigateToBpmRange(range)}
+              >
+                <Text style={{ color: '#fff', fontWeight: 'bold' }}>{info.emoji} {range}</Text>
+              </TouchableOpacity>
+            );
+          })}
+        </View>
+      </View>
+    </ScrollView>
+  );
+}
+
+// ==========================================
 // DRUMMER BIO PAGE - Extended Biography (Issue #305)
 // ==========================================
 function DrummerBioPage({ theme, onBack, drummer, onSelectDrummer }) {
@@ -9139,6 +9322,40 @@ function updateBpmMeta(bpm) {
   }
 }
 
+// ==========================================
+// BPM RANGE LANDING PAGES ROUTING (Issue #342)
+// ==========================================
+
+// Valid BPM range slugs
+const BPM_RANGE_SLUGS = ['slow', 'mid', 'fast', 'extreme', 'blast-beat', 'blast'];
+
+// Check if we're on a BPM range page (e.g., /bpm/slow, /bpm/fast, /bpm/200)
+function isBpmRangePage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  const pathname = window.location.pathname;
+  // Match /bpm/{slug} where slug is a range name or a number
+  const match = pathname.match(/^\/bpm\/([a-z0-9-]+)$/i);
+  if (!match) return false;
+  const slug = match[1].toLowerCase();
+  // Valid if it's a known range or a numeric BPM
+  return BPM_RANGE_SLUGS.includes(slug) || /^\d+$/.test(slug);
+}
+
+// Get BPM range slug from URL
+function getBpmRangeSlugFromURL() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
+  const pathname = window.location.pathname;
+  const match = pathname.match(/^\/bpm\/([a-z0-9-]+)$/i);
+  if (!match) return null;
+  return match[1].toLowerCase();
+}
+
+// Update URL for BPM range page
+function updateBpmRangeURL(slug) {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return;
+  window.history.pushState({}, '', `/bpm/${slug}`);
+}
+
 // Metal songs database with BPM values
 const METAL_SONGS_DATABASE = [
   // Metallica
@@ -11167,6 +11384,10 @@ function AppContent() {
 
   // BPM Tap Calculator Page state (Issue #342)
   const [showBpmTap, setShowBpmTap] = useState(() => isBpmTapPage());
+  
+  // BPM Range Landing Page state (Issue #342)
+  const [showBpmRange, setShowBpmRange] = useState(() => isBpmRangePage());
+  const [bpmRangeSlug, setBpmRangeSlug] = useState(() => getBpmRangeSlugFromURL());
 
   // Birthday Calendar Page state (Issue #343)
   const [showBirthdayCalendar, setShowBirthdayCalendar] = useState(() => isBirthdayCalendarPage());
@@ -17330,5 +17551,164 @@ const styles = StyleSheet.create({
   shareModalCloseText: {
     fontSize: 15,
     fontWeight: '500',
+  },
+  // BPM Page Styles (Issue #342)
+  bpmPageHeader: {
+    paddingTop: 20,
+    paddingBottom: 10,
+  },
+  bpmTitleSection: {
+    alignItems: 'center',
+    marginBottom: 30,
+    paddingHorizontal: 20,
+  },
+  bpmPageTitle: {
+    fontSize: 28,
+    fontWeight: 'bold',
+    textAlign: 'center',
+  },
+  bpmPageSubtitle: {
+    fontSize: 16,
+    textAlign: 'center',
+    marginTop: 8,
+    maxWidth: 400,
+  },
+  bpmTapSection: {
+    padding: 30,
+    borderRadius: 16,
+    borderWidth: 1,
+    alignItems: 'center',
+    marginHorizontal: 20,
+    marginBottom: 30,
+  },
+  bpmTapButton: {
+    width: 160,
+    height: 160,
+    borderRadius: 80,
+    alignItems: 'center',
+    justifyContent: 'center',
+    marginBottom: 20,
+  },
+  bpmTapEmoji: {
+    fontSize: 48,
+    marginBottom: 8,
+  },
+  bpmTapText: {
+    fontSize: 20,
+    fontWeight: 'bold',
+  },
+  bpmTapHint: {
+    fontSize: 12,
+  },
+  bpmResultValue: {
+    fontSize: 72,
+    fontWeight: 'bold',
+  },
+  bpmResultUnit: {
+    fontSize: 18,
+    marginLeft: 4,
+  },
+  bpmResultBadge: {
+    paddingHorizontal: 16,
+    paddingVertical: 6,
+    borderRadius: 20,
+    marginTop: 8,
+  },
+  bpmResultBadgeText: {
+    color: '#ffffff',
+    fontSize: 14,
+    fontWeight: '600',
+  },
+  bpmTapCount: {
+    fontSize: 14,
+    marginTop: 12,
+  },
+  bpmResetButton: {
+    paddingHorizontal: 20,
+    paddingVertical: 10,
+    borderRadius: 8,
+    borderWidth: 1,
+    marginTop: 16,
+  },
+  bpmResetButtonText: {
+    fontSize: 14,
+    fontWeight: '600',
+  },
+  bpmShareButton: {
+    paddingHorizontal: 16,
+    paddingVertical: 10,
+    borderRadius: 8,
+    marginLeft: 8,
+  },
+  bpmShareButtonText: {
+    color: '#ffffff',
+    fontSize: 14,
+    fontWeight: '600',
+  },
+  bpmMatchingSection: {
+    padding: 20,
+    borderRadius: 12,
+    borderWidth: 2,
+    marginHorizontal: 20,
+    marginBottom: 30,
+  },
+  bpmMatchingTitle: {
+    fontSize: 18,
+    fontWeight: 'bold',
+    marginBottom: 16,
+  },
+  bpmSongCard: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    paddingVertical: 12,
+    borderBottomWidth: 1,
+  },
+  bpmSongName: {
+    fontSize: 16,
+    fontWeight: '600',
+  },
+  bpmSongBand: {
+    fontSize: 14,
+    marginTop: 2,
+  },
+  bpmSongBpm: {
+    paddingHorizontal: 12,
+    paddingVertical: 4,
+    borderRadius: 12,
+    marginLeft: 12,
+  },
+  bpmSongBpmText: {
+    color: '#ffffff',
+    fontSize: 14,
+    fontWeight: 'bold',
+  },
+  bpmSongsList: {
+    paddingHorizontal: 20,
+  },
+  bpmSongItem: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    padding: 16,
+    borderRadius: 12,
+    borderWidth: 1,
+    marginBottom: 10,
+  },
+  bpmBadge: {
+    backgroundColor: '#dc2626',
+    paddingHorizontal: 12,
+    paddingVertical: 6,
+    borderRadius: 12,
+    minWidth: 50,
+    alignItems: 'center',
+  },
+  bpmBadgeText: {
+    color: '#ffffff',
+    fontSize: 14,
+    fontWeight: 'bold',
+  },
+  bpmRangeButton: {
+    paddingHorizontal: 16,
+    paddingVertical: 10,
+    borderRadius: 8,
   },
 });

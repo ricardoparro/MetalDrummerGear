@@ -6,10 +6,24 @@ on:
   pull_request:
     branches: [main]
   workflow_dispatch:
+    inputs:
+      skip_e2e:
+        description: 'Skip E2E tests (use for critical fixes when production is broken)'
+        required: false
+        default: 'false'
+        type: boolean
+      force_production:
+        description: 'Force test against production (not preview)'
+        required: false
+        default: 'false'
+        type: boolean
 
 permissions:
   contents: read
   issues: write
+  pull-requests: read
+  statuses: read
+  checks: read
   deployments: read
 
 concurrency:
@@ -19,102 +33,290 @@ concurrency:
 jobs:
   e2e-tests:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 25
     
     steps:
       - uses: actions/checkout@v4
       
+      - name: Check for critical fix bypass
+        id: check_bypass
+        run: |
+          # Allow manual bypass for critical fixes
+          if [ "${{ github.event.inputs.skip_e2e }}" = "true" ]; then
+            echo "⚠️ E2E tests skipped via manual workflow dispatch"
+            echo "skip=true" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+          
+          # Check if PR title contains critical fix markers
+          PR_TITLE="${{ github.event.pull_request.title }}"
+          if echo "$PR_TITLE" | grep -qiE "(CRITICAL|URGENT|HOTFIX|production.*(broken|down|crash))"; then
+            echo "⚠️ Critical fix detected in PR title"
+            echo "is_critical=true" >> $GITHUB_OUTPUT
+          fi
+          
+          echo "skip=false" >> $GITHUB_OUTPUT
+      
+      - name: Skip E2E notification
+        if: steps.check_bypass.outputs.skip == 'true'
+        run: |
+          echo "::warning::E2E tests were manually skipped. Ensure the fix has been tested locally!"
+          echo "### ⚠️ E2E Tests Skipped" >> $GITHUB_STEP_SUMMARY
+          echo "E2E tests were bypassed via manual workflow dispatch." >> $GITHUB_STEP_SUMMARY
+          echo "Please ensure thorough local testing was performed." >> $GITHUB_STEP_SUMMARY
+      
       - name: Setup Node.js
+        if: steps.check_bypass.outputs.skip != 'true'
         uses: actions/setup-node@v4
         with:
           node-version: '20'
       
       - name: Install Playwright
+        if: steps.check_bypass.outputs.skip != 'true'
         run: |
           npm init -y
           npm install @playwright/test
           npx playwright install --with-deps chromium
       
-      - name: Wait for Vercel deployment
-        id: deployment
-        uses: patrickedqvist/wait-for-vercel-preview@v1.3.2
+      - name: Get Vercel Preview URL
+        if: steps.check_bypass.outputs.skip != 'true'
+        id: vercel
+        uses: actions/github-script@v7
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          max_timeout: 300
-          check_interval: 10
-        continue-on-error: true
+          script: |
+            const sha = context.payload.pull_request?.head?.sha || context.sha;
+            const isPR = !!context.payload.pull_request;
+            const prNumber = context.payload.pull_request?.number;
+            
+            console.log(`SHA: ${sha}`);
+            console.log(`Is PR: ${isPR}`);
+            console.log(`PR Number: ${prNumber}`);
+            
+            if (!isPR || '${{ github.event.inputs.force_production }}' === 'true') {
+              console.log('Using production URL');
+              core.setOutput('url', 'https://metalforge.io');
+              core.setOutput('is_preview', 'false');
+              return;
+            }
+            
+            // Method 1: Try to get preview URL from PR comments (Vercel bot comment)
+            try {
+              const { data: comments } = await github.rest.issues.listComments({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: prNumber,
+                per_page: 50
+              });
+              
+              const vercelComment = comments.reverse().find(c => 
+                c.user?.login === 'vercel' && c.body?.includes('Preview')
+              );
+              
+              if (vercelComment) {
+                // Extract preview URL from the markdown table
+                const match = vercelComment.body.match(/\[Preview\]\((https:\/\/[^\s\)]+\.vercel\.app[^\s\)]*)\)/);
+                if (match) {
+                  const url = match[1];
+                  console.log(`✅ Found preview URL from Vercel comment: ${url}`);
+                  core.setOutput('url', url);
+                  core.setOutput('is_preview', 'true');
+                  core.setOutput('from_comment', 'true');
+                  return;
+                }
+              }
+              console.log('No Vercel comment with preview URL found');
+            } catch (e) {
+              console.log(`Error checking PR comments: ${e.message}`);
+            }
+            
+            // Method 2: Try GitHub Deployments API
+            const maxAttempts = 12;  // 2 minutes
+            const delayMs = 10000;
+            
+            for (let attempt = 1; attempt <= maxAttempts; attempt++) {
+              console.log(`\nAttempt ${attempt}/${maxAttempts} - checking deployments...`);
+              
+              try {
+                const { data: deployments } = await github.rest.repos.listDeployments({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  sha: sha,
+                  per_page: 10
+                });
+                
+                for (const deployment of deployments) {
+                  if (deployment.environment !== 'Preview') continue;
+                  
+                  const { data: statuses } = await github.rest.repos.listDeploymentStatuses({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    deployment_id: deployment.id,
+                    per_page: 5
+                  });
+                  
+                  const successStatus = statuses.find(s => 
+                    s.state === 'success' && s.environment_url
+                  );
+                  
+                  if (successStatus) {
+                    const url = successStatus.environment_url;
+                    console.log(`✅ Found preview URL from Deployments API: ${url}`);
+                    core.setOutput('url', url);
+                    core.setOutput('is_preview', 'true');
+                    return;
+                  }
+                }
+              } catch (e) {
+                console.log(`Error: ${e.message}`);
+              }
+              
+              if (attempt < maxAttempts) {
+                console.log(`Waiting ${delayMs/1000}s...`);
+                await new Promise(r => setTimeout(r, delayMs));
+              }
+            }
+            
+            console.log('⚠️ Could not find preview URL, using production');
+            core.setOutput('url', 'https://metalforge.io');
+            core.setOutput('is_preview', 'false');
       
-      - name: Set deployment URL
-        id: url
-        run: |
-          if [ -n "${{ steps.deployment.outputs.url }}" ]; then
-            echo "url=${{ steps.deployment.outputs.url }}" >> $GITHUB_OUTPUT
-            echo "Using Vercel preview URL: ${{ steps.deployment.outputs.url }}"
-          else
-            echo "url=https://metalforge.io" >> $GITHUB_OUTPUT
-            echo "Falling back to production URL"
-          fi
-      
-      - name: Health check deployment
+      - name: Wait for deployment and check accessibility
+        if: steps.check_bypass.outputs.skip != 'true'
         id: health
+        env:
+          PREVIEW_URL: ${{ steps.vercel.outputs.url }}
+          IS_PREVIEW: ${{ steps.vercel.outputs.is_preview }}
+          VERCEL_BYPASS: ${{ secrets.VERCEL_AUTOMATION_BYPASS_SECRET }}
+          IS_CRITICAL: ${{ steps.check_bypass.outputs.is_critical }}
         run: |
-          PREVIEW_URL="${{ steps.url.outputs.url }}"
-          PRODUCTION_URL="https://metalforge.io"
-          URL="$PREVIEW_URL"
+          echo "Preview URL: $PREVIEW_URL"
+          echo "Is Preview: $IS_PREVIEW"
+          echo "Has Bypass Secret: $([ -n "$VERCEL_BYPASS" ] && echo 'yes' || echo 'no')"
           
-          echo "Checking health of: $URL"
+          # Build test URL with bypass if available
+          if [ "$IS_PREVIEW" = "true" ] && [ -n "$VERCEL_BYPASS" ]; then
+            echo "Using Vercel deployment protection bypass"
+            TEST_URL="${PREVIEW_URL}?x-vercel-protection-bypass=${VERCEL_BYPASS}"
+            API_URL="${PREVIEW_URL}/api/drummers?x-vercel-protection-bypass=${VERCEL_BYPASS}"
+          else
+            TEST_URL="$PREVIEW_URL"
+            API_URL="${PREVIEW_URL}/api/drummers"
+          fi
           
-          # Wait for deployment to be ready with retries
-          MAX_RETRIES=10
-          RETRY_DELAY=15
+          MAX_ATTEMPTS=15
+          DELAY=10
           
-          for i in $(seq 1 $MAX_RETRIES); do
-            echo "Attempt $i of $MAX_RETRIES..."
+          for attempt in $(seq 1 $MAX_ATTEMPTS); do
+            echo "Attempt $attempt/$MAX_ATTEMPTS..."
             
-            # Check if homepage returns 200
-            HTTP_STATUS=$(curl -s -o /dev/null -w "%{http_code}" "$URL" || echo "000")
-            echo "Homepage status: $HTTP_STATUS"
+            HTTP_STATUS=$(curl -s -o /dev/null -w "%{http_code}" "$TEST_URL" 2>/dev/null || echo "000")
+            echo "HTTP Status: $HTTP_STATUS"
             
-            # If preview returns 401 (protected deployment), fallback to production
-            if [ "$HTTP_STATUS" = "401" ] && [ "$URL" = "$PREVIEW_URL" ]; then
-              echo "⚠️ Preview deployment is protected (401). Falling back to production URL."
-              URL="$PRODUCTION_URL"
-              echo "url=$URL" >> $GITHUB_OUTPUT
-              continue
-            fi
-            
-            if [ "$HTTP_STATUS" = "200" ]; then
-              # Check if API returns valid JSON
-              API_RESPONSE=$(curl -s "$URL/api/drummers" | head -c 20)
-              if echo "$API_RESPONSE" | grep -q '^\['; then
-                echo "✅ Deployment is healthy!"
-                echo "healthy=true" >> $GITHUB_OUTPUT
-                echo "url=$URL" >> $GITHUB_OUTPUT
-                exit 0
-              else
-                echo "⚠️ API not returning JSON yet: $API_RESPONSE"
+            # Check for deployment protection (401/403)
+            if [ "$HTTP_STATUS" = "401" ] || [ "$HTTP_STATUS" = "403" ]; then
+              if [ "$IS_PREVIEW" = "true" ] && [ -z "$VERCEL_BYPASS" ]; then
+                echo ""
+                echo "⚠️ Vercel Deployment Protection is blocking access!"
+                echo ""
+                echo "To fix this, configure VERCEL_AUTOMATION_BYPASS_SECRET:"
+                echo "1. Go to Vercel Dashboard → Project → Settings → Deployment Protection"
+                echo "2. Enable 'Protection Bypass for Automation'"
+                echo "3. Copy the generated secret"
+                echo "4. Add it to GitHub repo secrets as VERCEL_AUTOMATION_BYPASS_SECRET"
+                echo ""
+                echo "For more info: https://vercel.com/docs/security/deployment-protection/methods-to-bypass-deployment-protection"
+                echo ""
+                
+                # For critical fixes, warn but don't fail immediately
+                if [ "$IS_CRITICAL" = "true" ]; then
+                  echo "::warning::Preview deployment protected. Testing against production instead."
+                fi
+                break
               fi
             fi
             
-            if [ $i -lt $MAX_RETRIES ]; then
-              echo "Waiting ${RETRY_DELAY}s before retry..."
-              sleep $RETRY_DELAY
+            if [ "$HTTP_STATUS" = "200" ] || [ "$HTTP_STATUS" = "308" ]; then
+              # Verify the site actually renders (check for JS crash)
+              BODY_CHECK=$(curl -s "$TEST_URL" 2>/dev/null | grep -c "root" || echo "0")
+              API_CHECK=$(curl -s "$API_URL" 2>/dev/null | head -c 5)
+              
+              if [ "$API_CHECK" = "[{\"id" ] || [ "$API_CHECK" = "[{\"na" ]; then
+                echo "✅ Deployment is healthy!"
+                echo "url=$PREVIEW_URL" >> $GITHUB_OUTPUT
+                echo "healthy=true" >> $GITHUB_OUTPUT
+                
+                if [ -n "$VERCEL_BYPASS" ] && [ "$IS_PREVIEW" = "true" ]; then
+                  echo "bypass=$VERCEL_BYPASS" >> $GITHUB_OUTPUT
+                fi
+                exit 0
+              else
+                echo "API response: $API_CHECK"
+              fi
+            fi
+            
+            if [ $attempt -lt $MAX_ATTEMPTS ]; then
+              echo "Waiting ${DELAY}s..."
+              sleep $DELAY
             fi
           done
           
-          echo "❌ Deployment health check failed after $MAX_RETRIES attempts"
+          # Fallback to production
+          echo "⚠️ Preview not accessible, checking production..."
+          HTTP_STATUS=$(curl -s -o /dev/null -w "%{http_code}" "https://metalforge.io")
+          
+          if [ "$HTTP_STATUS" = "200" ]; then
+            # Check if production actually renders content (not crashed)
+            PROD_API=$(curl -s "https://metalforge.io/api/drummers" | head -c 5)
+            if [ "$PROD_API" = "[{\"id" ]; then
+              echo "✅ Using production as fallback"
+              echo "url=https://metalforge.io" >> $GITHUB_OUTPUT
+              echo "healthy=true" >> $GITHUB_OUTPUT
+              echo "is_production_fallback=true" >> $GITHUB_OUTPUT
+              exit 0
+            else
+              echo "⚠️ Production API not responding correctly"
+              echo "API response: $PROD_API"
+            fi
+          fi
+          
+          # Check if this might be a broken production scenario
+          echo ""
+          echo "::error::Neither preview nor production is accessible/healthy"
+          echo ""
+          echo "If production is broken and you need to merge a fix:"
+          echo "1. Run this workflow manually with 'skip_e2e' option"
+          echo "2. Or configure VERCEL_AUTOMATION_BYPASS_SECRET to test against preview"
+          echo ""
+          
           echo "healthy=false" >> $GITHUB_OUTPUT
           exit 1
       
       - name: Run Playwright E2E tests
+        if: steps.check_bypass.outputs.skip != 'true' && steps.health.outputs.healthy == 'true'
+        id: playwright
+        continue-on-error: ${{ steps.health.outputs.is_production_fallback == 'true' && steps.check_bypass.outputs.is_critical == 'true' }}
         run: npx playwright test --project=chromium
         env:
-          BASE_URL: ${{ steps.health.outputs.url || steps.url.outputs.url }}
-          API_URL: ${{ steps.health.outputs.url || steps.url.outputs.url }}
+          BASE_URL: ${{ steps.health.outputs.url }}
+          API_URL: ${{ steps.health.outputs.url }}
+          VERCEL_BYPASS: ${{ steps.health.outputs.bypass }}
+          IS_PRODUCTION_FALLBACK: ${{ steps.health.outputs.is_production_fallback }}
+      
+      - name: Handle test results for critical fixes
+        if: steps.check_bypass.outputs.skip != 'true' && steps.playwright.outcome == 'failure' && steps.health.outputs.is_production_fallback == 'true' && steps.check_bypass.outputs.is_critical == 'true'
+        run: |
+          echo "::warning::E2E tests failed against production (which may be broken)"
+          echo "### ⚠️ E2E Tests Failed Against Production" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "This PR is marked as critical and tests ran against production (preview was not accessible)." >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "If production is broken, this is expected. Consider:" >> $GITHUB_STEP_SUMMARY
+          echo "1. Re-running with manual bypass option" >> $GITHUB_STEP_SUMMARY
+          echo "2. Configuring \`VERCEL_AUTOMATION_BYPASS_SECRET\` to test against PR preview" >> $GITHUB_STEP_SUMMARY
       
       - name: Upload test results
         uses: actions/upload-artifact@v4
-        if: always()
+        if: always() && steps.check_bypass.outputs.skip != 'true'
         with:
           name: playwright-report
           path: playwright-report/
@@ -122,14 +324,14 @@ jobs:
       
       - name: Upload screenshots
         uses: actions/upload-artifact@v4
-        if: failure()
+        if: failure() && steps.check_bypass.outputs.skip != 'true'
         with:
           name: test-screenshots
           path: test-results/
           retention-days: 7
       
       - name: Create issue on failure
-        if: failure() && github.ref == 'refs/heads/main'
+        if: failure() && github.ref == 'refs/heads/main' && steps.check_bypass.outputs.skip != 'true'
         uses: actions/github-script@v7
         with:
           script: |

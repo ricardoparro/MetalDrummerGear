@@ -32,7 +32,12 @@
 - **Quotation Schema:** Drummer interview quotes ✅
 
 ### 🔄 In Progress — Performance & Media (Phase 4)
-- [ ] **Core Web Vitals optimization** — HIGH PRIORITY
+- [x] **Core Web Vitals optimization** — #442 ✅
+  - YouTube facade pattern (500KB+ savings per embed)
+  - Above-fold image preloading
+  - Enhanced CLS prevention for videos/images
+  - INP optimizations for faster interactions
+  - YouTube preconnect hints
 - [x] **Image optimization** (WebP, lazy loading) — #323 ✅
 
 ### 📋 Future Enhancements (Phase 5)
@@ -69,6 +74,7 @@
 - 21 drummers currently with bios, gear, videos, endorsements
 
 ## Recent Progress
+- **2026-02-16:** Core Web Vitals optimization (#442) — YouTube facade, image preloading, CLS/INP improvements
 - **2026-02-07:** Closed #292 — VideoObject schema already implemented (since #183/#186)
 - **2026-02-04:** SEO audit — All Phase 3 work confirmed complete, updated plan
 - **2026-02-02:** Speakable schema implemented

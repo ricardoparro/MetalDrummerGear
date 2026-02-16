@@ -374,24 +374,74 @@ const themeToggleStyles = StyleSheet.create({
 });
 
 // YouTube Video Embed Component - Works with React Native Web
+// Optimized for Core Web Vitals (Issue #442):
+// - Uses facade pattern: shows thumbnail, loads iframe on click
+// - Reduces initial page load by ~500KB+ per embed
+// - Uses youtube-nocookie.com for privacy
+// - Lazy loads iframe for better LCP
 function YouTubeEmbed({ videoId, title, theme }) {
   const { width } = useWindowDimensions();
+  const [isActivated, setIsActivated] = useState(false);
+  
   // Calculate responsive video dimensions (16:9 aspect ratio)
   const maxWidth = Math.min(width - 72, 560); // Account for padding
   const videoWidth = maxWidth;
   const videoHeight = Math.round(videoWidth * 9 / 16);
 
   if (Platform.OS === 'web') {
+    // Facade pattern: Show lightweight thumbnail until user clicks
+    // This dramatically improves LCP by not loading YouTube iframe initially
+    if (!isActivated) {
+      const thumbnailUrl = `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`;
+      return (
+        <View 
+          style={[styles.videoContainer, { width: videoWidth, height: videoHeight, cursor: 'pointer', position: 'relative' }]}
+          onClick={() => setIsActivated(true)}
+          role="button"
+          aria-label={`Play ${title}`}
+          tabIndex={0}
+          onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') setIsActivated(true); }}
+        >
+          <img
+            src={thumbnailUrl}
+            alt={`${title} video thumbnail`}
+            width={videoWidth}
+            height={videoHeight}
+            loading="lazy"
+            decoding="async"
+            style={{ 
+              width: '100%', 
+              height: '100%', 
+              objectFit: 'cover', 
+              borderRadius: 8,
+              backgroundColor: '#1a1a1a'
+            }}
+          />
+          {/* Play button overlay */}
+          <View style={styles.playButtonOverlay}>
+            <View style={[styles.youtubePlayButton]}>
+              <svg height="100%" version="1.1" viewBox="0 0 68 48" width="100%">
+                <path d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z" fill="#f00"></path>
+                <path d="M 45,24 27,14 27,34" fill="#fff"></path>
+              </svg>
+            </View>
+          </View>
+        </View>
+      );
+    }
+    
+    // Load actual iframe after user interaction
     return (
       <View style={[styles.videoContainer, { width: videoWidth, height: videoHeight }]}>
         <iframe
           width="100%"
           height="100%"
-          src={`https://www.youtube.com/embed/${videoId}`}
+          src={`https://www.youtube-nocookie.com/embed/${videoId}?autoplay=1`}
           title={title}
           frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowFullScreen
+          loading="lazy"
           style={{ borderRadius: 8 }}
         />
       </View>
@@ -12692,6 +12742,29 @@ function AppContent() {
       });
     }
   }, []);
+  
+  // Preload above-fold drummer images for faster LCP (Issue #442)
+  // This preloads the first 6 drummer card images after data loads
+  useEffect(() => {
+    if (Platform.OS !== 'web' || typeof document === 'undefined') return;
+    if (!drummers || drummers.length === 0) return;
+    
+    // Preload first 6 drummer thumbnails (above-fold)
+    const aboveFoldDrummers = drummers.slice(0, 6);
+    aboveFoldDrummers.forEach((drummer, index) => {
+      if (drummer.thumbnailUrl || drummer.image) {
+        const link = document.createElement('link');
+        link.rel = 'preload';
+        link.as = 'image';
+        link.href = drummer.thumbnailUrl || getOptimizedImageUrl(drummer.image, { width: IMAGE_WIDTHS.thumbnail });
+        // Only high priority for first 2
+        if (index < 2) {
+          link.fetchPriority = 'high';
+        }
+        document.head.appendChild(link);
+      }
+    });
+  }, [drummers]);
 
   useEffect(() => {
     const fetchInitialData = async () => {
@@ -15440,6 +15513,12 @@ const styles = StyleSheet.create({
   playButtonText: {
     fontSize: 24,
     marginLeft: 4,
+  },
+  // YouTube facade play button (CWV optimization - Issue #442)
+  youtubePlayButton: {
+    width: 68,
+    height: 48,
+    opacity: 0.9,
   },
   videoInfo: {
     paddingTop: 8,

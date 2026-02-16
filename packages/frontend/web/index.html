@@ -24,6 +24,10 @@
     <link rel="dns-prefetch" href="https://www.google-analytics.com" />
     <link rel="dns-prefetch" href="https://commons.wikimedia.org" />
     
+    <!-- Preconnect to YouTube for video embeds (deferred to not block LCP) -->
+    <link rel="preconnect" href="https://www.youtube-nocookie.com" crossorigin />
+    <link rel="preconnect" href="https://i.ytimg.com" crossorigin />
+    
     <!-- Preload critical API endpoint for faster data loading -->
     <link rel="preload" href="/api/init" as="fetch" crossorigin />
     
@@ -201,19 +205,42 @@
         contain: layout;
       }
       
+      /* CLS Prevention: Reserve space for video containers (Issue #442) */
+      [class*="videoContainer"], iframe[src*="youtube"] {
+        aspect-ratio: 16 / 9;
+        background-color: #1a1a1a;
+        contain: layout;
+      }
+      
+      /* CLS Prevention: Ensure images have dimensions (Issue #442) */
+      img[width][height] {
+        aspect-ratio: attr(width) / attr(height);
+      }
+      
       /* ====================================
-         INP Optimization: Touch/Click responsiveness
+         INP Optimization: Touch/Click responsiveness (Issue #442)
          ==================================== */
       
       /* Fast touch response */
-      a, button, [role="button"] {
+      a, button, [role="button"], [tabindex="0"] {
         touch-action: manipulation;
         -webkit-tap-highlight-color: transparent;
+      }
+      
+      /* Optimize interactive elements for faster response */
+      a:active, button:active, [role="button"]:active {
+        transform: scale(0.98);
+        transition: transform 0.05s ease-out;
       }
       
       /* Ensure pointer events work immediately */
       * {
         -webkit-touch-callout: none;
+      }
+      
+      /* Reduce paint on scroll */
+      [class*="scroll"], [class*="list"] {
+        will-change: scroll-position;
       }
       
       /* ====================================

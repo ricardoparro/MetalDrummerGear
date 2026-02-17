@@ -1,8 +1,9 @@
 // @ts-check
 const { defineConfig, devices } = require('@playwright/test');
 
-// Base URL for tests - don't append query string here as it breaks path resolution
-const BASE_URL = process.env.BASE_URL || 'https://metalforge.io';
+// Base URL for tests - append ci_test param in CI to exclude from GA4 analytics
+const RAW_BASE_URL = process.env.BASE_URL || 'https://metalforge.io';
+const BASE_URL = process.env.CI ? `${RAW_BASE_URL}?ci_test=1` : RAW_BASE_URL;
 
 module.exports = defineConfig({
   testDir: './e2e',
@@ -25,7 +26,7 @@ module.exports = defineConfig({
     trace: 'on-first-retry',
     screenshot: 'only-on-failure',
     video: 'on-first-retry',
-    // Add ci_test parameter via extra HTTP headers instead of URL to avoid GA tracking in CI
+    // Backup header for server-side CI detection (URL param handles GA4 client-side)
     extraHTTPHeaders: process.env.CI ? { 'X-CI-Test': '1' } : {},
   },
   projects: [

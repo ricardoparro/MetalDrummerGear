@@ -888,6 +888,12 @@ function SearchBar({ value, onChange, onFocus, onClear, suggestions, onSelectSug
           onChangeText={onChange}
           onFocus={onFocus}
           accessibilityLabel="Search drummers by name, band, or gear brand"
+          // Mobile keyboard fix (Issue #469): iOS Safari requires explicit input mode
+          inputMode="text"
+          enterKeyHint="search"
+          autoCapitalize="none"
+          autoCorrect={false}
+          autoComplete="off"
         />
         {value ? (
           <TouchableOpacity onPress={onClear} style={styles.searchClearButton}>
@@ -5198,6 +5204,12 @@ function GearFinderPage({ theme, onBack, drummers, onSelectDrummer }) {
             onChangeText={handleSearchChange}
             autoFocus={!getGearFinderQueryFromURL()}
             accessibilityLabel="Search for drum gear"
+            // Mobile keyboard fix (Issue #469)
+            inputMode="text"
+            enterKeyHint="search"
+            autoCapitalize="none"
+            autoCorrect={false}
+            autoComplete="off"
           />
           {searchQuery.length > 0 && (
             <TouchableOpacity
@@ -6463,6 +6475,12 @@ function BpmTapPage({ theme, onBack, drummers, onSelectDrummer }) {
                 setSongFilter(text);
                 updateBpmURL(bpm, text);
               }}
+              // Mobile keyboard fix (Issue #469)
+              inputMode="text"
+              enterKeyHint="search"
+              autoCapitalize="none"
+              autoCorrect={false}
+              autoComplete="off"
             />
           </View>
           
@@ -9460,6 +9478,12 @@ function QuotesPage({ theme, onBack, onSelectDrummer }) {
             placeholderTextColor={theme.secondaryText}
             value={searchQuery}
             onChangeText={setSearchQuery}
+            // Mobile keyboard fix (Issue #469)
+            inputMode="text"
+            enterKeyHint="search"
+            autoCapitalize="none"
+            autoCorrect={false}
+            autoComplete="off"
           />
           <View style={[styles.quotesDropdown, { backgroundColor: theme.card, borderColor: theme.border }]}>
             <TouchableOpacity
@@ -13471,6 +13495,9 @@ function AppContent() {
     setShowBioPage(false);
     setBioSlug(null);
     setSelectedGear(null);
+    // Fix #470: Reset band detail page states so drummer profile shows
+    setShowBandDetail(false);
+    setBandSlug(null);
     try {
       const detailUrl = typeof window !== 'undefined' && window.location.hostname !== 'localhost'
         ? `/api/drummers/${id}`

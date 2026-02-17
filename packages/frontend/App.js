@@ -2667,7 +2667,8 @@ function SimilarDrummersSection({ drummer, allDrummers, theme, onSelectDrummer }
   
   const handleDrummerPress = (targetDrummer) => {
     if (onSelectDrummer) {
-      onSelectDrummer(targetDrummer.id);
+      // Pass the full drummer object instead of just ID to avoid lookup issues
+      onSelectDrummer(targetDrummer);
     }
   };
   
@@ -2962,14 +2963,12 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
           drummer={drummer}
           allDrummers={allDrummers}
           theme={theme}
-          onSelectDrummer={(id) => {
+          onSelectDrummer={(targetDrummer) => {
             // Navigate to the selected drummer's profile
-            if (Platform.OS === 'web' && typeof window !== 'undefined') {
-              const targetDrummer = allDrummers.find(d => d.id === id);
-              if (targetDrummer) {
-                window.history.pushState({}, '', `/drummer/${toSlug(targetDrummer.name)}`);
-                window.dispatchEvent(new PopStateEvent('popstate'));
-              }
+            // Receives the full drummer object directly to avoid ID type mismatch issues
+            if (Platform.OS === 'web' && typeof window !== 'undefined' && targetDrummer) {
+              window.history.pushState({}, '', `/drummer/${toSlug(targetDrummer.name)}`);
+              window.dispatchEvent(new PopStateEvent('popstate'));
             }
           }}
         />

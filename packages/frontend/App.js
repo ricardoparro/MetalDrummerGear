@@ -78,8 +78,8 @@ function hasExtendedBio(drummerId) {
 }
 
 // BPM Calculator - Metal songs database (Issue #342)
-// NOTE: Import removed - data is inline in METAL_SONGS_DATABASE constant
-// Reduces unused JS by ~15KB (#458)
+// NOTE: Unused import removed - data is inline in METAL_SONGS_DATABASE constant
+// Reduces bundle size by ~15KB (#458)
 
 // Band data with drummer history (Issue #349, #429)
 import { getBand, getAllBands, hasBand, getAllBandSlugs, getBandsForDrummer, generateMusicGroupSchemaFromDrummer, generateAllMusicGroupSchemasFromDrummer, generateMemberOfFromDrummer } from './data/bands';

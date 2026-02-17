@@ -10,7 +10,7 @@ export const themes = {
   dark: {
     background: '#121212',
     text: '#ffffff',
-    secondaryText: '#aaaaaa',
+    secondaryText: '#b3b3b3',
     card: '#1e1e1e',
     border: '#333333',
     error: '#ef5350',
@@ -18,7 +18,7 @@ export const themes = {
     // Additional colors for comprehensive theming
     inputBackground: '#1e1e1e',
     inputText: '#ffffff',
-    inputPlaceholder: '#888888',
+    inputPlaceholder: '#9a9a9a',
     headerBackground: '#0a0a0a',
     buttonBackground: '#ef4444',
     buttonText: '#ffffff',
@@ -27,7 +27,7 @@ export const themes = {
   light: {
     background: '#f5f5f5',
     text: '#1a1a1a',
-    secondaryText: '#666666',
+    secondaryText: '#595959',
     card: '#ffffff',
     border: '#e0e0e0',
     error: '#d32f2f',
@@ -35,7 +35,7 @@ export const themes = {
     // Additional colors for comprehensive theming
     inputBackground: '#ffffff',
     inputText: '#1a1a1a',
-    inputPlaceholder: '#999999',
+    inputPlaceholder: '#767676',
     headerBackground: '#ffffff',
     buttonBackground: '#dc2626',
     buttonText: '#ffffff',

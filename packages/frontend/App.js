@@ -4924,7 +4924,7 @@ function BirthdayCalendarPage({ theme, onBack, onSelectDrummer }) {
                 <TouchableOpacity
                   key={drummer.slug}
                   onPress={() => onSelectDrummer(drummer.slug)}
-                  style={[styles.birthdayCard, { backgroundColor: theme.card, borderColor: theme.border }]}
+                  style={[styles.birthdayCard, isMobile && styles.birthdayCardMobile, { backgroundColor: theme.card, borderColor: theme.border }]}
                   accessibilityRole="button"
                   accessibilityLabel={`${drummer.name}, born ${formatBirthday(drummer.birthMonth, drummer.birthDay)}`}
                 >
@@ -4934,10 +4934,10 @@ function BirthdayCalendarPage({ theme, onBack, onSelectDrummer }) {
                       <Text style={styles.birthdayCardMonth}>{MONTH_NAMES[drummer.birthMonth - 1].substring(0, 3)}</Text>
                     </View>
                     <View style={styles.birthdayCardInfo}>
-                      <Text style={[styles.birthdayCardName, { color: theme.text }]} numberOfLines={1}>
+                      <Text style={[styles.birthdayCardName, { color: theme.text }]} numberOfLines={2}>
                         {drummer.name}
                       </Text>
-                      <Text style={[styles.birthdayCardBand, { color: theme.secondaryText }]} numberOfLines={1}>
+                      <Text style={[styles.birthdayCardBand, { color: theme.secondaryText }]} numberOfLines={2}>
                         {drummer.band}
                       </Text>
                       <View style={styles.birthdayCardMeta}>
@@ -4954,7 +4954,7 @@ function BirthdayCalendarPage({ theme, onBack, onSelectDrummer }) {
                     <Text style={[styles.birthdayCardAge, { color: theme.secondaryText }]}>
                       {drummer.isLiving ? `${age} years old` : `Lived ${age} years (1975-2021)`}
                     </Text>
-                    <Text style={[styles.birthdayCardPlace, { color: theme.secondaryText }]} numberOfLines={1}>
+                    <Text style={[styles.birthdayCardPlace, { color: theme.secondaryText }]} numberOfLines={2}>
                       📍 {drummer.birthPlace}
                     </Text>
                   </View>
@@ -17996,18 +17996,25 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     flexWrap: 'wrap',
     gap: 16,
+    justifyContent: 'flex-start',
   },
   birthdayCardsGridMobile: {
     flexDirection: 'column',
     gap: 12,
   },
   birthdayCard: {
-    width: '48%',
+    width: '100%',
+    maxWidth: 400,
+    minWidth: 280,
     padding: 16,
     borderRadius: 12,
     borderWidth: 1,
     position: 'relative',
     overflow: 'hidden',
+  },
+  birthdayCardMobile: {
+    maxWidth: '100%',
+    minWidth: 0,
   },
   birthdayCardHeader: {
     flexDirection: 'row',
@@ -18035,15 +18042,18 @@ const styles = StyleSheet.create({
   },
   birthdayCardInfo: {
     flex: 1,
+    minWidth: 0,
   },
   birthdayCardName: {
     fontSize: 16,
     fontWeight: '700',
-    marginBottom: 2,
+    marginBottom: 4,
+    flexWrap: 'wrap',
   },
   birthdayCardBand: {
-    fontSize: 13,
-    marginBottom: 4,
+    fontSize: 14,
+    marginBottom: 6,
+    flexWrap: 'wrap',
   },
   birthdayCardMeta: {
     flexDirection: 'row',
@@ -18064,10 +18074,11 @@ const styles = StyleSheet.create({
   },
   birthdayCardAge: {
     fontSize: 13,
-    marginBottom: 4,
+    marginBottom: 6,
   },
   birthdayCardPlace: {
-    fontSize: 12,
+    fontSize: 13,
+    lineHeight: 18,
   },
   memorialRibbon: {
     position: 'absolute',

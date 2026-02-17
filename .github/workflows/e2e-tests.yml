@@ -291,6 +291,17 @@ jobs:
           echo "healthy=false" >> $GITHUB_OUTPUT
           exit 1
       
+      - name: Verify CI analytics exclusion config
+        if: steps.check_bypass.outputs.skip != 'true'
+        run: |
+          if ! grep -q 'ci_test' playwright.config.cjs; then
+            echo '❌ ERROR: playwright.config.cjs must include ci_test parameter'
+            echo 'This is required to exclude CI traffic from Google Analytics.'
+            echo 'See issue #461 for details.'
+            exit 1
+          fi
+          echo '✅ CI analytics exclusion config verified'
+
       - name: Run Playwright E2E tests
         if: steps.check_bypass.outputs.skip != 'true' && steps.health.outputs.healthy == 'true'
         id: playwright

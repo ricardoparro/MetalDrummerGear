@@ -2974,6 +2974,19 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
           }}
         />
       )}
+      
+      {/* Last Updated Timestamp - Issue #449 */}
+      <View style={[styles.lastUpdatedContainer, { borderTopColor: theme.border }]}>
+        {Platform.OS === 'web' ? (
+          <time dateTime="2026-02-17" style={{ color: theme.secondaryText, fontSize: 12 }}>
+            Last updated: February 17, 2026
+          </time>
+        ) : (
+          <Text style={[styles.lastUpdatedText, { color: theme.secondaryText }]}>
+            Last updated: February 17, 2026
+          </Text>
+        )}
+      </View>
       </ScrollView>
     </View>
   );
@@ -9720,6 +9733,21 @@ function DrummerList({
     </View>
   );
 
+  // Footer with Last Updated timestamp (Issue #449)
+  const ListFooter = () => (
+    <View style={[styles.lastUpdatedContainer, { borderTopColor: theme.border }]}>
+      {Platform.OS === 'web' ? (
+        <time dateTime="2026-02-17" style={{ color: theme.secondaryText, fontSize: 12 }}>
+          Last updated: February 17, 2026
+        </time>
+      ) : (
+        <Text style={[styles.lastUpdatedText, { color: theme.secondaryText }]}>
+          Last updated: February 17, 2026
+        </Text>
+      )}
+    </View>
+  );
+
   return (
     <FlatList
       style={styles.listWrapper}
@@ -9735,6 +9763,7 @@ function DrummerList({
       )}
       ListHeaderComponent={ListHeader}
       ListEmptyComponent={ListEmpty}
+      ListFooterComponent={ListFooter}
       contentContainerStyle={styles.listContainer}
     />
   );
@@ -14729,6 +14758,18 @@ const styles = StyleSheet.create({
     borderRadius: 12,
     borderWidth: 1,
     marginBottom: 16,
+  },
+  // Last Updated Timestamp styles (Issue #449)
+  lastUpdatedContainer: {
+    paddingVertical: 16,
+    paddingHorizontal: 4,
+    marginTop: 8,
+    borderTopWidth: 1,
+    alignItems: 'center',
+  },
+  lastUpdatedText: {
+    fontSize: 12,
+    fontStyle: 'italic',
   },
   sectionTitle: {
     fontSize: 20,

@@ -78,6 +78,17 @@ jobs:
           npm install @playwright/test
           npx playwright install --with-deps chromium
       
+      - name: Verify CI analytics exclusion config
+        if: steps.check_bypass.outputs.skip != 'true'
+        run: |
+          if ! grep -q 'ci_test' playwright.config.cjs; then
+            echo 'ERROR: playwright.config.cjs must include ci_test parameter'
+            echo 'This is required to exclude CI traffic from Google Analytics.'
+            echo 'See issue #461 for details.'
+            exit 1
+          fi
+          echo 'CI analytics exclusion config verified'
+      
       - name: Get Vercel Preview URL
         if: steps.check_bypass.outputs.skip != 'true'
         id: vercel

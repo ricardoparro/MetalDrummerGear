@@ -1,7 +1,10 @@
 // @ts-check
 const { defineConfig, devices } = require('@playwright/test');
 
-// Base URL for tests - append ci_test param in CI to exclude from GA4 analytics
+// ⚠️ CRITICAL: DO NOT REMOVE ci_test param!
+// GA4 in index.html checks window.location.search for 'ci_test' to exclude CI traffic.
+// HTTP headers don't work - browser JS cannot see request headers.
+// See issues #214, #461 for history. Removing this WILL pollute analytics.
 const RAW_BASE_URL = process.env.BASE_URL || 'https://metalforge.io';
 const BASE_URL = process.env.CI ? `${RAW_BASE_URL}?ci_test=1` : RAW_BASE_URL;
 

@@ -9475,7 +9475,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
                       {related.title}
                     </Text>
                     <Text style={{ color: theme.secondaryText, fontSize: 12 }}>
-                      {DIFFICULTY_LEVELS[related.difficulty]?.label}
+                      {getDifficultyLevels()[related.difficulty]?.label}
                     </Text>
                   </View>
                   <Text style={{ color: '#dc2626', marginLeft: 'auto' }}>→</Text>

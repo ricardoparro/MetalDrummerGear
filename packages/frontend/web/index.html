@@ -31,8 +31,10 @@
     <!-- Preload critical API endpoint for faster data loading -->
     <link rel="preload" href="/api/init" as="fetch" crossorigin />
     
-    <!-- Preload LCP hero image (first drummer: Lars Ulrich) with high priority -->
-    <link rel="preload" href="/images/drummers/lars-ulrich.webp" as="image" type="image/webp" fetchpriority="high" />
+    <!-- Preload LCP hero image with responsive sizes for mobile performance (#465 #466)
+         Mobile gets 100w image (100px spotlight), Desktop gets 400w (140px spotlight) -->
+    <link rel="preload" href="/images/drummers/lars-ulrich-100w.webp" as="image" type="image/webp" fetchpriority="high" media="(max-width: 767px)" />
+    <link rel="preload" href="/images/drummers/lars-ulrich-400w.webp" as="image" type="image/webp" fetchpriority="high" media="(min-width: 768px)" />
     
     <!-- SEO Meta Tags -->
     <title>MetalForge - Discover What Pro Metal Drummers Play</title>

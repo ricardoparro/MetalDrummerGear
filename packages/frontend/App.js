@@ -15,7 +15,10 @@ import {
   generateWebPSrcSet,
   getSizesAttribute,
   getLazyLoadingProps,
-  supportsWebP 
+  supportsWebP,
+  isLocalDrummerImage,
+  generateLocalDrummerSrcSet,
+  getLocalDrummerImageUrl
 } from './imageUtils';
 
 // Core Web Vitals Optimization Utilities
@@ -1351,9 +1354,17 @@ function ImageWithFallback({ source, style, accessibilityLabel, priority = false
   const [hasError, setHasError] = useState(false);
   
   // Optimize external images through our proxy for CDN caching
+  // For local drummer images, use pre-generated responsive sizes (Issue #465, #466)
   const optimizedUri = useMemo(() => {
     const uri = source?.uri;
     if (!uri) return PLACEHOLDER_IMAGE;
+    
+    // For local drummer images, use the optimized size based on display width
+    if (isLocalDrummerImage(uri)) {
+      const targetWidth = width || 256;
+      return getLocalDrummerImageUrl(uri, targetWidth);
+    }
+    
     if (uri.startsWith('/images/') || uri.startsWith('/api/image')) return uri;
     const targetWidth = width || 256;
     return getOptimizedImageUrl(uri, { width: targetWidth });
@@ -1362,9 +1373,19 @@ function ImageWithFallback({ source, style, accessibilityLabel, priority = false
   const [imageUri, setImageUri] = useState(optimizedUri);
 
   // Generate srcset for responsive images (Issue #251)
+  // For local drummer images, use pre-generated responsive sizes (Issue #465, #466)
   const srcSet = useMemo(() => {
     const uri = source?.uri;
-    if (!uri || uri.startsWith('/images/') || hasError) return '';
+    if (!uri || hasError) return '';
+    
+    // Use pre-generated responsive images for local drummer images
+    if (isLocalDrummerImage(uri)) {
+      return generateLocalDrummerSrcSet(uri);
+    }
+    
+    // Skip external image proxy for /images/ paths
+    if (uri.startsWith('/images/')) return '';
+    
     return generateSrcSet(uri, SRCSET_WIDTHS);
   }, [source?.uri, hasError]);
 

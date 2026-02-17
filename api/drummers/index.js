@@ -5,6 +5,9 @@ const drummers = [
     id: 1,
     name: 'Lars Ulrich',
     band: 'Metallica',
+    bands: [
+      { name: 'Metallica', period: '1981–present', current: true }
+    ],
     genre: 'Thrash Metal',
     country: 'Denmark',
     image: '/images/drummers/lars-ulrich.webp',
@@ -121,6 +124,12 @@ const drummers = [
     id: 2,
     name: 'Joey Jordison',
     band: 'Slipknot',
+    bands: [
+      { name: 'Slipknot', period: '1995–2013', current: false },
+      { name: 'Murderdolls', period: '2002–2011', current: false },
+      { name: 'Sinsaenum', period: '2016–2021', current: false },
+      { name: 'Vimic', period: '2016–2021', current: false }
+    ],
     genre: 'Nu Metal / Death Metal',
     country: 'USA',
     image: '/images/drummers/joey-jordison.webp',
@@ -231,6 +240,14 @@ const drummers = [
     id: 3,
     name: 'Gene Hoglan',
     band: 'Death / Testament / Dethklok',
+    bands: [
+      { name: 'Dark Angel', period: '1984–1992, 2013–present', current: true },
+      { name: 'Death', period: '1993–1995', current: false },
+      { name: 'Testament', period: '2007–2011, 2014–present', current: true },
+      { name: 'Dethklok', period: '2007–2013', current: false },
+      { name: 'Fear Factory', period: '1997–1998', current: false },
+      { name: 'Strapping Young Lad', period: '2003–2006', current: false }
+    ],
     genre: 'Death Metal / Thrash Metal',
     country: 'USA',
     image: '/images/drummers/gene-hoglan.webp',
@@ -342,6 +359,13 @@ const drummers = [
     id: 4,
     name: 'Dave Lombardo',
     band: 'Slayer',
+    bands: [
+      { name: 'Slayer', period: '1981–1992, 2001–2013', current: false },
+      { name: 'Suicidal Tendencies', period: '2016–present', current: true },
+      { name: 'Dead Cross', period: '2017–present', current: true },
+      { name: 'Mr. Bungle', period: '2019–present', current: true },
+      { name: 'Fantômas', period: '1998–2008', current: false }
+    ],
     genre: 'Thrash Metal',
     country: 'Cuba/USA',
     image: '/images/drummers/dave-lombardo.webp',
@@ -457,6 +481,9 @@ const drummers = [
     id: 5,
     name: 'Tomas Haake',
     band: 'Meshuggah',
+    bands: [
+      { name: 'Meshuggah', period: '1990–present', current: true }
+    ],
     genre: 'Progressive Metal / Djent',
     country: 'Sweden',
     image: '/images/drummers/tomas-haake.webp',
@@ -572,6 +599,10 @@ const drummers = [
     id: 6,
     name: 'George Kollias',
     band: 'Nile',
+    bands: [
+      { name: 'Nile', period: '2004–present', current: true },
+      { name: 'Nightfall', period: '2002–2009', current: false }
+    ],
     genre: 'Technical Death Metal',
     country: 'Greece',
     image: '/images/drummers/george-kollias.webp',
@@ -611,6 +642,10 @@ const drummers = [
     id: 7,
     name: 'Eloy Casagrande',
     band: 'Slipknot',
+    bands: [
+      { name: 'Slipknot', period: '2023–present', current: true },
+      { name: 'Sepultura', period: '2011–2024', current: false }
+    ],
     genre: 'Nu Metal / Thrash Metal',
     country: 'Brazil',
     image: '/images/drummers/eloy-casagrande.webp',
@@ -651,6 +686,11 @@ const drummers = [
     id: 8,
     name: 'Ray Luzier',
     band: 'Korn',
+    bands: [
+      { name: 'Korn', period: '2007–present', current: true },
+      { name: 'KXM', period: '2013–present', current: true },
+      { name: 'Army of Anyone', period: '2006–2007', current: false }
+    ],
     genre: 'Nu Metal',
     country: 'USA',
     image: '/images/drummers/ray-luzier.webp',
@@ -687,6 +727,9 @@ const drummers = [
     id: 9,
     name: 'John Otto',
     band: 'Limp Bizkit',
+    bands: [
+      { name: 'Limp Bizkit', period: '1994–present', current: true }
+    ],
     genre: 'Nu Metal / Rap Metal',
     country: 'USA',
     image: '/images/drummers/john-otto.webp',
@@ -727,6 +770,11 @@ const drummers = [
     id: 10,
     name: 'Jay Weinberg',
     band: 'Suicidal Tendencies',
+    bands: [
+      { name: 'Suicidal Tendencies', period: '2023–present', current: true },
+      { name: 'Slipknot', period: '2014–2023', current: false },
+      { name: 'Against Me!', period: '2009–2014', current: false }
+    ],
     genre: 'Hardcore / Thrash Crossover',
     country: 'USA',
     image: '/images/drummers/jay-weinberg.webp',
@@ -768,6 +816,11 @@ const drummers = [
     id: 11,
     name: 'Vinnie Paul',
     band: 'Pantera / Damageplan / Hellyeah',
+    bands: [
+      { name: 'Pantera', period: '1981–2003', current: false },
+      { name: 'Damageplan', period: '2003–2004', current: false },
+      { name: 'Hellyeah', period: '2006–2018', current: false }
+    ],
     genre: 'Groove Metal / Heavy Metal',
     country: 'USA',
     image: '/images/drummers/vinnie-paul.webp',
@@ -803,6 +856,11 @@ const drummers = [
     id: 12,
     name: 'Charlie Benante',
     band: 'Anthrax / S.O.D. / Pantera',
+    bands: [
+      { name: 'Anthrax', period: '1983–present', current: true },
+      { name: 'S.O.D.', period: '1985–1999', current: false },
+      { name: 'Pantera', period: '2022–present', current: true }
+    ],
     genre: 'Thrash Metal',
     country: 'USA',
     image: '/images/drummers/charlie-benante.webp',
@@ -841,6 +899,13 @@ const drummers = [
     id: 13,
     name: 'Mike Portnoy',
     band: 'Dream Theater / Liquid Tension Experiment / The Winery Dogs',
+    bands: [
+      { name: 'Dream Theater', period: '1985–2010, 2023–present', current: true },
+      { name: 'Liquid Tension Experiment', period: '1997–present', current: true },
+      { name: 'The Winery Dogs', period: '2012–present', current: true },
+      { name: 'Transatlantic', period: '1999–present', current: true },
+      { name: 'Sons of Apollo', period: '2017–present', current: true }
+    ],
     genre: 'Progressive Metal',
     country: 'USA',
     image: '/images/drummers/mike-portnoy.webp',
@@ -884,6 +949,11 @@ const drummers = [
     id: 14,
     name: 'Danny Carey',
     band: 'Tool',
+    bands: [
+      { name: 'Tool', period: '1990–present', current: true },
+      { name: 'Volto!', period: '1999–present', current: true },
+      { name: 'Legend of the Seagullmen', period: '2018–present', current: true }
+    ],
     genre: 'Progressive Metal',
     country: 'USA',
     image: '/images/drummers/danny-carey.webp',
@@ -996,6 +1066,9 @@ const drummers = [
     id: 15,
     name: 'Mario Duplantier',
     band: 'Gojira',
+    bands: [
+      { name: 'Gojira', period: '1996–present', current: true }
+    ],
     genre: 'Progressive Death Metal',
     country: 'France',
     image: '/images/drummers/mario-duplantier.webp',
@@ -1107,6 +1180,10 @@ const drummers = [
     id: 16,
     name: 'Brann Dailor',
     band: 'Mastodon',
+    bands: [
+      { name: 'Mastodon', period: '2000–present', current: true },
+      { name: 'Arcadea', period: '2017–present', current: true }
+    ],
     genre: 'Progressive/Sludge Metal',
     country: 'USA',
     image: '/images/drummers/brann-dailor.webp',
@@ -1143,6 +1220,11 @@ const drummers = [
     id: 17,
     name: 'Chris Adler',
     band: 'Lamb of God',
+    bands: [
+      { name: 'Lamb of God', period: '1994–2019', current: false },
+      { name: 'Megadeth', period: '2015–2016', current: false },
+      { name: 'Firstborne', period: '2020–present', current: true }
+    ],
     genre: 'Groove Metal',
     country: 'USA',
     image: '/images/drummers/chris-adler.webp',
@@ -1181,6 +1263,9 @@ const drummers = [
     id: 18,
     name: 'Matt Halpern',
     band: 'Periphery',
+    bands: [
+      { name: 'Periphery', period: '2009–present', current: true }
+    ],
     genre: 'Progressive/Djent',
     country: 'USA',
     image: '/images/drummers/matt-halpern.webp',
@@ -1217,6 +1302,10 @@ const drummers = [
     id: 19,
     name: 'Inferno',
     band: 'Behemoth',
+    bands: [
+      { name: 'Behemoth', period: '1997–present', current: true },
+      { name: 'Azarath', period: '1998–present', current: true }
+    ],
     genre: 'Black/Death Metal',
     country: 'Poland',
     image: '/images/drummers/inferno.webp',
@@ -1255,6 +1344,11 @@ const drummers = [
     id: 20,
     name: 'Hellhammer',
     band: 'Mayhem',
+    bands: [
+      { name: 'Mayhem', period: '1988–present', current: true },
+      { name: 'Arcturus', period: '1991–present', current: true },
+      { name: 'Dimmu Borgir', period: '2005–2010', current: false }
+    ],
     genre: 'Black Metal',
     country: 'Norway',
     image: '/images/drummers/hellhammer.webp',
@@ -1292,6 +1386,10 @@ const drummers = [
     id: 21,
     name: 'Pete Sandoval',
     band: 'Morbid Angel',
+    bands: [
+      { name: 'Morbid Angel', period: '1988–2013', current: false },
+      { name: 'Terrorizer', period: '1986–1989, 2005–present', current: true }
+    ],
     genre: 'Death Metal',
     country: 'USA',
     image: '/images/drummers/pete-sandoval.webp',
@@ -1327,6 +1425,11 @@ const drummers = [
     id: 22,
     name: 'Art Cruz',
     band: 'Lamb of God',
+    bands: [
+      { name: 'Lamb of God', period: '2019–present', current: true },
+      { name: 'Prong', period: '2012–2019', current: false },
+      { name: 'Winds of Plague', period: '2010–2012', current: false }
+    ],
     genre: 'Groove Metal / Thrash Metal',
     country: 'USA',
     image: '/images/drummers/art-cruz.webp',
@@ -1369,6 +1472,9 @@ const drummers = [
     id: 23,
     name: 'Arin Ilejay',
     band: 'ex-Avenged Sevenfold',
+    bands: [
+      { name: 'Avenged Sevenfold', period: '2011–2015', current: false }
+    ],
     genre: 'Heavy Metal / Hard Rock',
     country: 'USA',
     image: '/images/drummers/arin-ilejay.webp',
@@ -1408,6 +1514,10 @@ const drummers = [
     id: 24,
     name: 'Navene Koperweis',
     band: 'Entheos / ex-Animals as Leaders',
+    bands: [
+      { name: 'Entheos', period: '2015–present', current: true },
+      { name: 'Animals as Leaders', period: '2012–2014', current: false }
+    ],
     genre: 'Progressive Metal / Djent / Technical Death Metal',
     country: 'USA',
     image: '/images/drummers/navene-koperweis.webp',
@@ -1447,6 +1557,10 @@ const drummers = [
     id: 25,
     name: 'Alex Bent',
     band: 'ex-Trivium / Arkaik / Dragonlord',
+    bands: [
+      { name: 'Trivium', period: '2016–2024', current: false },
+      { name: 'Arkaik', period: '2008–2017', current: false }
+    ],
     genre: 'Heavy Metal / Thrash Metal / Technical Death Metal',
     country: 'USA',
     image: '/images/drummers/alex-bent.webp',
@@ -1488,6 +1602,11 @@ const drummers = [
     id: 26,
     name: 'Shannon Larkin',
     band: 'Godsmack / Ugly Kid Joe / Amen',
+    bands: [
+      { name: 'Godsmack', period: '2002–present', current: true },
+      { name: 'Ugly Kid Joe', period: '1991–1997', current: false },
+      { name: 'Amen', period: '1999–2002', current: false }
+    ],
     genre: 'Hard Rock / Heavy Metal / Nu Metal',
     country: 'USA',
     image: '/images/drummers/shannon-larkin.webp',
@@ -1529,6 +1648,11 @@ const drummers = [
     id: 27,
     name: 'Raymond Herrera',
     band: 'Fear Factory / Arkaea / Brujeria',
+    bands: [
+      { name: 'Fear Factory', period: '1990–2009', current: false },
+      { name: 'Arkaea', period: '2007–2011', current: false },
+      { name: 'Brujeria', period: '1993–present', current: true }
+    ],
     genre: 'Industrial Metal / Death Metal',
     country: 'USA',
     image: '/images/drummers/raymond-herrera.webp',
@@ -1607,6 +1731,15 @@ const drummers = [
     id: 29,
     name: 'Igor Cavalera',
     band: 'Sepultura / Cavalera Conspiracy / Soulwax',
+    bands: [
+      { name: 'Sepultura', period: '1984–2006', current: false },
+      { name: 'Cavalera Conspiracy', period: '2007–present', current: true },
+      { name: 'Soulfly', period: '2012', current: false }
+    ],
+    bands: [
+      { name: 'Mats/Morgan Band', period: '1985–present', current: true },
+      { name: 'Kaipa', period: '1999–present', current: true }
+    ],
     genre: 'Thrash Metal / Groove Metal / Death Metal',
     country: 'Brazil',
     image: '/images/drummers/igor-cavalera.webp',
@@ -1647,6 +1780,9 @@ const drummers = [
     id: 30,
     name: 'Bill Ward',
     band: 'Black Sabbath',
+    bands: [
+      { name: 'Black Sabbath', period: '1968–1983, 1997–2006', current: false }
+    ],
     genre: 'Heavy Metal / Hard Rock / Blues Rock',
     country: 'UK',
     image: '/images/drummers/bill-ward.webp',
@@ -1686,6 +1822,9 @@ const drummers = [
     id: 31,
     name: 'Nick Augusto',
     band: 'ex-Trivium',
+    bands: [
+      { name: 'Trivium', period: '2010–2014', current: false }
+    ],
     genre: 'Metalcore / Thrash Metal',
     country: 'USA',
     image: '/images/drummers/nick-augusto.webp',
@@ -1724,6 +1863,9 @@ const drummers = [
     id: 40,
     name: 'Chris Turner',
     band: 'Oceans Ate Alaska',
+    bands: [
+      { name: 'Oceans Ate Alaska', period: '2010–present', current: true }
+    ],
     genre: 'Progressive Metalcore',
     country: 'UK',
     image: '/images/drummers/chris-turner.webp',
@@ -1763,6 +1905,9 @@ const drummers = [
     id: 32,
     name: 'Matt Greiner',
     band: 'August Burns Red',
+    bands: [
+      { name: 'August Burns Red', period: '2006–present', current: true }
+    ],
     genre: 'Metalcore / Christian Metal',
     country: 'USA',
     image: '/images/drummers/matt-greiner.webp',
@@ -1808,6 +1953,9 @@ const drummers = [
     id: 33,
     name: 'Blake Richardson',
     band: 'Between the Buried and Me',
+    bands: [
+      { name: 'Between the Buried and Me', period: '2005–present', current: true }
+    ],
     genre: 'Progressive Metal / Technical Death Metal',
     country: 'USA',
     image: '/images/drummers/blake-richardson.webp',
@@ -1852,6 +2000,11 @@ const drummers = [
     id: 34,
     name: 'Ben Koller',
     band: 'Converge / Mutoid Man / Killer Be Killed',
+    bands: [
+      { name: 'Converge', period: '1999–present', current: true },
+      { name: 'Mutoid Man', period: '2012–present', current: true },
+      { name: 'Killer Be Killed', period: '2014–present', current: true }
+    ],
     genre: 'Metalcore / Hardcore Punk / Grindcore',
     country: 'USA',
     image: '/images/drummers/ben-koller.webp',
@@ -1892,6 +2045,9 @@ const drummers = [
     id: 35,
     name: 'Flo Mounier',
     band: 'Cryptopsy',
+    bands: [
+      { name: 'Cryptopsy', period: '1992–present', current: true }
+    ],
     genre: 'Technical Death Metal / Brutal Death Metal',
     country: 'Canada',
     image: '/images/drummers/flo-mounier.webp',
@@ -1935,6 +2091,11 @@ const drummers = [
     id: 37,
     name: 'Jason Bittner',
     band: 'Shadows Fall / Overkill / Category 7',
+    bands: [
+      { name: 'Overkill', period: '2017–present', current: true },
+      { name: 'Shadows Fall', period: '1999–2015', current: false },
+      { name: 'Category 7', period: '2024–present', current: true }
+    ],
     genre: 'Thrash Metal / Heavy Metal',
     country: 'USA',
     image: '/images/drummers/jason-bittner.webp',
@@ -1979,6 +2140,10 @@ const drummers = [
     id: 38,
     name: 'Martin Lopez',
     band: 'Soen / ex-Opeth',
+    bands: [
+      { name: 'Soen', period: '2010–present', current: true },
+      { name: 'Opeth', period: '1997–2006', current: false }
+    ],
     genre: 'Progressive Metal / Progressive Death Metal',
     country: 'Sweden',
     image: '/images/drummers/martin-lopez.webp',
@@ -2023,6 +2188,10 @@ const drummers = [
     id: 39,
     name: 'Travis Orbin',
     band: 'Darkest Hour / ex-Periphery',
+    bands: [
+      { name: 'Darkest Hour', period: '2017–present', current: true },
+      { name: 'Periphery', period: '2005–2012', current: false }
+    ],
     genre: 'Thrash Metal / Progressive Metal / Djent',
     country: 'USA',
     image: '/images/drummers/travis-orbin.webp',
@@ -2064,6 +2233,9 @@ const drummers = [
     id: 40,
     name: 'Ryan Van Poederooyen',
     band: 'Devin Townsend Project',
+    bands: [
+      { name: 'Devin Townsend Project', period: '2009–2018', current: false }
+    ],
     genre: 'Progressive Metal / Extreme Metal',
     country: 'Canada',
     image: '/images/drummers/ryan-van-poederooyen.webp',
@@ -2106,6 +2278,9 @@ const drummers = [
     id: 41,
     name: 'Nicko McBrain',
     band: 'Iron Maiden',
+    bands: [
+      { name: 'Iron Maiden', period: '1982–present', current: true }
+    ],
     genre: 'Heavy Metal / NWOBHM',
     country: 'UK',
     image: '/images/drummers/nicko-mcbrain.webp',
@@ -2149,6 +2324,9 @@ const drummers = [
     id: 42,
     name: 'Scott Travis',
     band: 'Judas Priest',
+    bands: [
+      { name: 'Judas Priest', period: '1989–present', current: true }
+    ],
     genre: 'Heavy Metal / Thrash Metal',
     country: 'USA',
     image: '/images/drummers/scott-travis.webp',
@@ -2191,6 +2369,11 @@ const drummers = [
     id: 43,
     name: 'Mikkey Dee',
     band: 'Scorpions / Motörhead',
+    bands: [
+      { name: 'Scorpions', period: '2016–present', current: true },
+      { name: 'Motörhead', period: '1992–2015', current: false },
+      { name: 'King Diamond', period: '1985–1989', current: false }
+    ],
     genre: 'Heavy Metal / Hard Rock',
     country: 'Sweden',
     image: '/images/drummers/mikkey-dee.webp',
@@ -2234,6 +2417,11 @@ const drummers = [
     id: 44,
     name: 'Derek Roddy',
     band: 'Hate Eternal / Nile',
+    bands: [
+      { name: 'Hate Eternal', period: '2000–2002, 2004–2005', current: false },
+      { name: 'Nile', period: '2000–2002', current: false },
+      { name: 'Malevolent Creation', period: '1996–1999', current: false }
+    ],
     genre: 'Death Metal / Technical Death Metal',
     country: 'USA',
     image: '/images/drummers/derek-roddy.webp',
@@ -2277,6 +2465,10 @@ const drummers = [
     id: 45,
     name: 'Dirk Verbeuren',
     band: 'Megadeth',
+    bands: [
+      { name: 'Megadeth', period: '2016–present', current: true },
+      { name: 'Soilwork', period: '2004–2016', current: false }
+    ],
     genre: 'Thrash Metal / Melodic Death Metal',
     country: 'Belgium',
     image: '/images/drummers/dirk-verbeuren.webp',
@@ -2320,6 +2512,10 @@ const drummers = [
     id: 46,
     name: 'Frost',
     band: 'Satyricon / 1349',
+    bands: [
+      { name: 'Satyricon', period: '1993–present', current: true },
+      { name: '1349', period: '1997–present', current: true }
+    ],
     genre: 'Black Metal',
     country: 'Norway',
     image: '/images/drummers/frost.webp',
@@ -2362,6 +2558,11 @@ const drummers = [
     id: 47,
     name: 'Gavin Harrison',
     band: 'Porcupine Tree / King Crimson',
+    bands: [
+      { name: 'Porcupine Tree', period: '2002–2010, 2021–present', current: true },
+      { name: 'King Crimson', period: '2007–2021', current: false },
+      { name: 'The Pineapple Thief', period: '2016–present', current: true }
+    ],
     genre: 'Progressive Metal / Progressive Rock',
     country: 'UK',
     image: '/images/drummers/gavin-harrison.webp',
@@ -2405,6 +2606,9 @@ const drummers = [
     id: 48,
     name: 'Abe Cunningham',
     band: 'Deftones',
+    bands: [
+      { name: 'Deftones', period: '1988–present', current: true }
+    ],
     genre: 'Alternative Metal / Nu Metal',
     country: 'USA',
     image: '/images/drummers/abe-cunningham.webp',
@@ -2448,6 +2652,11 @@ const drummers = [
     id: 49,
     name: 'Richard Christy',
     band: 'Death / Iced Earth',
+    bands: [
+      { name: 'Death', period: '1996–1999', current: false },
+      { name: 'Iced Earth', period: '2003–2004', current: false },
+      { name: 'Charred Walls of the Damned', period: '2009–present', current: true }
+    ],
     genre: 'Death Metal / Thrash Metal',
     country: 'USA',
     image: '/images/drummers/richard-christy.webp',
@@ -2491,6 +2700,10 @@ const drummers = [
     id: 50,
     name: 'Aquiles Priester',
     band: 'Angra / W.A.S.P.',
+    bands: [
+      { name: 'Angra', period: '2000–2012', current: false },
+      { name: 'W.A.S.P.', period: '2014–2021', current: false }
+    ],
     genre: 'Power Metal / Heavy Metal',
     country: 'Brazil',
     image: '/images/drummers/aquiles-priester.webp',
@@ -2534,6 +2747,9 @@ const drummers = [
     id: 51,
     name: 'Paul Mazurkiewicz',
     band: 'Cannibal Corpse',
+    bands: [
+      { name: 'Cannibal Corpse', period: '1988–present', current: true }
+    ],
     genre: 'Death Metal',
     country: 'USA',
     image: '/images/drummers/paul-mazurkiewicz.webp',
@@ -2569,6 +2785,11 @@ const drummers = [
     id: 52,
     name: 'Mike Mangini',
     band: 'Dream Theater',
+    bands: [
+      { name: 'Dream Theater', period: '2010–2023', current: false },
+      { name: 'Annihilator', period: '2006–2007', current: false },
+      { name: 'Extreme', period: '2004–2008', current: false }
+    ],
     genre: 'Progressive Metal',
     country: 'USA',
     image: '/images/drummers/mike-mangini.webp',
@@ -2603,6 +2824,9 @@ const drummers = [
     id: 53,
     name: 'Matt Garstka',
     band: 'Animals as Leaders',
+    bands: [
+      { name: 'Animals as Leaders', period: '2012–present', current: true }
+    ],
     genre: 'Progressive Metal / Djent',
     country: 'USA',
     image: '/images/drummers/matt-garstka.webp',
@@ -2637,6 +2861,10 @@ const drummers = [
     id: 54,
     name: 'Daniel Erlandsson',
     band: 'Arch Enemy',
+    bands: [
+      { name: 'Arch Enemy', period: '1998–present', current: true },
+      { name: 'Brujeria', period: '2000–present', current: true }
+    ],
     genre: 'Melodic Death Metal',
     country: 'Sweden',
     image: '/images/drummers/daniel-erlandsson.webp',
@@ -2671,6 +2899,9 @@ const drummers = [
     id: 55,
     name: 'Jaska Raatikainen',
     band: 'Children of Bodom',
+    bands: [
+      { name: 'Children of Bodom', period: '1993–2019', current: false }
+    ],
     genre: 'Melodic Death Metal / Power Metal',
     country: 'Finland',
     image: '/images/drummers/jaska-raatikainen.webp',
@@ -2705,6 +2936,11 @@ const drummers = [
     id: 56,
     name: 'Hannes Grossmann',
     band: 'Obscura / ex-Necrophagist / Alkaloid',
+    bands: [
+      { name: 'Alkaloid', period: '2013–present', current: true },
+      { name: 'Obscura', period: '2008–2014', current: false },
+      { name: 'Necrophagist', period: '2001–2004', current: false }
+    ],
     genre: 'Technical Death Metal',
     country: 'Germany',
     image: '/images/drummers/hannes-grossmann.webp',
@@ -2739,6 +2975,10 @@ const drummers = [
     id: 57,
     name: 'Daray',
     band: 'Dimmu Borgir / Vader',
+    bands: [
+      { name: 'Dimmu Borgir', period: '2007–present', current: true },
+      { name: 'Vader', period: '2002–2005', current: false }
+    ],
     genre: 'Black Metal / Death Metal',
     country: 'Poland',
     image: '/images/drummers/daray.webp',
@@ -2772,6 +3012,9 @@ const drummers = [
     id: 58,
     name: 'Jocke Wallgren',
     band: 'Amon Amarth',
+    bands: [
+      { name: 'Amon Amarth', period: '2016–present', current: true }
+    ],
     genre: 'Melodic Death Metal / Viking Metal',
     country: 'Sweden',
     image: '/images/drummers/jocke-wallgren.webp',
@@ -2805,6 +3048,11 @@ const drummers = [
     id: 59,
     name: 'Tim Yeung',
     band: 'Morbid Angel / Hate Eternal / Vital Remains',
+    bands: [
+      { name: 'Hate Eternal', period: '2004–2007, 2015–present', current: true },
+      { name: 'Morbid Angel', period: '2013–2015', current: false },
+      { name: 'Vital Remains', period: '2001–2007', current: false }
+    ],
     genre: 'Death Metal / Technical Death Metal',
     country: 'USA',
     image: '/images/drummers/tim-yeung.webp',
@@ -2839,6 +3087,11 @@ const drummers = [
     id: 60,
     name: 'Kevin Talley',
     band: 'Dying Fetus / Misery Index / Six Feet Under',
+    bands: [
+      { name: 'Dying Fetus', period: '1998–2002', current: false },
+      { name: 'Misery Index', period: '2001–2004', current: false },
+      { name: 'Six Feet Under', period: '2010–2013', current: false }
+    ],
     genre: 'Brutal Death Metal / Grindcore',
     country: 'USA',
     image: '/images/drummers/kevin-talley.webp',

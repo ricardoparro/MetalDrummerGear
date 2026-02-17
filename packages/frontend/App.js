@@ -5883,6 +5883,22 @@ function KitBuilderPage({ theme, onBack, drummers, onSelectDrummer }) {
                         {item.usedBy.slice(0, 2).join(', ')}{item.usedBy.length > 2 ? '...' : ''}
                       </Text>
                     </View>
+                    {/* Action Buttons */}
+                    <View style={styles.gearCardButtons}>
+                      <TouchableOpacity
+                        style={[
+                          styles.gearCardButton, 
+                          isSelected ? styles.gearCardButtonRemove : styles.gearCardButtonAddToKit
+                        ]}
+                        onPress={() => handleSelectGear(activeCategory, item.id)}
+                        accessibilityRole="button"
+                        accessibilityLabel={isSelected ? `Remove ${item.name} from kit` : `Add ${item.name} to kit`}
+                      >
+                        <Text style={styles.gearCardButtonAddToKitText}>
+                          {isSelected ? '✕ Remove' : '+ Add to Kit'}
+                        </Text>
+                      </TouchableOpacity>
+                    </View>
                     {/* Affiliate Buttons */}
                     <View style={styles.gearCardButtons}>
                       <TouchableOpacity
@@ -5957,6 +5973,14 @@ function KitBuilderPage({ theme, onBack, drummers, onSelectDrummer }) {
                             accessibilityLabel={`Buy ${item.name} at Thomann`}
                           >
                             <Text style={styles.kitSummaryBuyLinkText}>🛒</Text>
+                          </TouchableOpacity>
+                          <TouchableOpacity
+                            style={styles.kitSummaryRemoveLink}
+                            onPress={() => handleSelectGear(cat.key, item.id)}
+                            accessibilityRole="button"
+                            accessibilityLabel={`Remove ${item.name} from kit`}
+                          >
+                            <Text style={styles.kitSummaryRemoveLinkText}>✕</Text>
                           </TouchableOpacity>
                         </View>
                       )}
@@ -18821,9 +18845,22 @@ const styles = StyleSheet.create({
   gearCardButtonBuy: {
     backgroundColor: '#dc2626',
   },
+  gearCardButtonAddToKit: {
+    backgroundColor: '#16a34a',
+    flex: 1,
+  },
+  gearCardButtonRemove: {
+    backgroundColor: '#6b7280',
+    flex: 1,
+  },
   gearCardButtonText: {
     fontSize: 12,
     fontWeight: '600',
+  },
+  gearCardButtonAddToKitText: {
+    fontSize: 13,
+    fontWeight: '700',
+    color: '#ffffff',
   },
   gearCardButtonBuyText: {
     fontSize: 12,
@@ -18911,6 +18948,14 @@ const styles = StyleSheet.create({
   },
   kitSummaryBuyLinkText: {
     fontSize: 16,
+  },
+  kitSummaryRemoveLink: {
+    padding: 4,
+    marginLeft: 4,
+  },
+  kitSummaryRemoveLinkText: {
+    fontSize: 14,
+    color: '#6b7280',
   },
   kitSummary: {
     padding: 20,

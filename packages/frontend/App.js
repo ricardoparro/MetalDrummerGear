@@ -13450,6 +13450,9 @@ function AppContent() {
     setShowBioPage(false);
     setBioSlug(null);
     setSelectedGear(null);
+    // Fix #470: Reset band detail page states so drummer profile shows
+    setShowBandDetail(false);
+    setBandSlug(null);
     try {
       const detailUrl = typeof window !== 'undefined' && window.location.hostname !== 'localhost'
         ? `/api/drummers/${id}`

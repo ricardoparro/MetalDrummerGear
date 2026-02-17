@@ -1,5 +1,5 @@
 {
-  "buildCommand": "cd packages/frontend && npx expo export --platform web && node scripts/inject-ga.cjs && cp -r ../../public/* dist/",
+  "buildCommand": "node scripts/generate-llms-full.cjs && node scripts/generate-llms-index.cjs && cd packages/frontend && npx expo export --platform web && node scripts/inject-ga.cjs && cp -r ../../public/* dist/",
   "outputDirectory": "packages/frontend/dist",
   "installCommand": "npm install",
   "framework": null,
@@ -119,7 +119,11 @@
   "rewrites": [
     { "source": "/robots.txt", "destination": "/api/robots" },
     { "source": "/sitemap.xml", "destination": "/api/sitemap" },
+    { "source": "/facts", "destination": "/api/facts" },
     { "source": "/llms.txt", "destination": "/llms.txt" },
+    { "source": "/llms-full.txt", "destination": "/llms-full.txt" },
+    { "source": "/llms/index.md", "destination": "/llms/index.md" },
+    { "source": "/api/drummer/:id/markdown", "destination": "/api/drummer/[id]/markdown?id=:id" },
     { "source": "/api/drummers/:id", "destination": "/api/drummers/[id]?id=:id" },
     { "source": "/api/gear/category/:category", "destination": "/api/gear/category/[category]?category=:category" },
     { "source": "/api/gear/:id", "destination": "/api/gear/[id]?id=:id" },

@@ -56,19 +56,30 @@ import {
 } from './data/budgetTiers';
 
 // Extended bios for drummer detail pages (Issue #305)
-import { getExtendedBio, hasExtendedBio } from './data/extendedBios';
+// Loaded dynamically for code splitting (~9KB of text data) - TBT optimization #460
+let _extendedBiosModule = null;
+const loadExtendedBios = () => import('./data/extendedBios');
+function preloadExtendedBios() {
+  if (!_extendedBiosModule) {
+    loadExtendedBios().then(m => { _extendedBiosModule = m; });
+  }
+}
+function getExtendedBio(drummerId) {
+  if (_extendedBiosModule) {
+    return _extendedBiosModule.getExtendedBio(drummerId);
+  }
+  return null;
+}
+function hasExtendedBio(drummerId) {
+  if (_extendedBiosModule) {
+    return _extendedBiosModule.hasExtendedBio(drummerId);
+  }
+  return false;
+}
 
 // BPM Calculator - Metal songs database (Issue #342)
-import { 
-  metalSongs, 
-  findSongsNearBpm, 
-  getTempoRange, 
-  TEMPO_RANGES, 
-  getAllBands as getAllBandsBpm, 
-  getAllGenres as getAllGenresBpm,
-  searchSongs,
-  getDatabaseStats 
-} from './data/metalSongsBpm';
+// NOTE: Import removed - data is inline in METAL_SONGS_DATABASE constant
+// Reduces unused JS by ~15KB (#458)
 
 // Band data with drummer history (Issue #349, #429)
 import { getBand, getAllBands, hasBand, getAllBandSlugs, getBandsForDrummer, generateMusicGroupSchemaFromDrummer, generateAllMusicGroupSchemasFromDrummer, generateMemberOfFromDrummer } from './data/bands';
@@ -80,18 +91,41 @@ import { getGenre, getAllGenres, hasGenre, getAllGenreSlugs, getDrummersByGenre,
 import { getGearComparisonBySlug, getAllGearComparisons, hasGearComparison, getAllGearComparisonSlugs } from './data/gearComparisons';
 
 // Drumming techniques data (Issue #344)
-import { 
-  getAllTechniques, 
-  getTechniqueBySlug, 
-  hasTechnique, 
-  getAllTechniqueSlugs,
-  getTechniquesByCategory,
-  getTechniquesByDifficulty,
-  getRelatedTechniques,
-  getTechniquesForDrummer,
-  TECHNIQUE_CATEGORIES,
-  DIFFICULTY_LEVELS
-} from './data/techniques';
+// Loaded dynamically for code splitting - TBT optimization #460
+let _techniquesModule = null;
+const loadTechniques = () => import('./data/techniques');
+function preloadTechniques() {
+  if (!_techniquesModule) {
+    loadTechniques().then(m => { _techniquesModule = m; });
+  }
+}
+// Synchronous accessors (use after module is loaded)
+function getAllTechniques() {
+  return _techniquesModule?.getAllTechniques() || [];
+}
+function getTechniqueBySlug(slug) {
+  return _techniquesModule?.getTechniqueBySlug(slug) || null;
+}
+function hasTechnique(slug) {
+  return _techniquesModule?.hasTechnique(slug) || false;
+}
+function getAllTechniqueSlugs() {
+  return _techniquesModule?.getAllTechniqueSlugs() || [];
+}
+function getTechniquesByCategory(category) {
+  return _techniquesModule?.getTechniquesByCategory(category) || [];
+}
+function getTechniquesByDifficulty(difficulty) {
+  return _techniquesModule?.getTechniquesByDifficulty(difficulty) || [];
+}
+function getRelatedTechniques(slug) {
+  return _techniquesModule?.getRelatedTechniques(slug) || [];
+}
+function getTechniquesForDrummer(drummerId) {
+  return _techniquesModule?.getTechniquesForDrummer(drummerId) || [];
+}
+const TECHNIQUE_CATEGORIES = ['speed', 'coordination', 'dynamics', 'rudiments', 'groove'];
+const DIFFICULTY_LEVELS = ['beginner', 'intermediate', 'advanced', 'expert'];
 
 // Birthday calendar data (Issue #343)
 import { 
@@ -13274,6 +13308,7 @@ function AppContent() {
         setSelectedGear(null);
       } else if (isTechniqueDetailPage()) {
         // Technique detail page (Issue #344)
+        preloadTechniques(); // Preload techniques module (TBT optimization #460)
         const slug = getTechniqueSlugFromURL();
         setShowTechniqueDetail(true);
         setTechniqueSlug(slug);
@@ -13307,6 +13342,7 @@ function AppContent() {
         }
       } else if (isTechniquesIndexPage()) {
         // Techniques index page (Issue #344)
+        preloadTechniques(); // Preload techniques module (TBT optimization #460)
         setShowTechniquesIndex(true);
         setShowTechniqueDetail(false);
         setTechniqueSlug(null);
@@ -13480,6 +13516,8 @@ function AppContent() {
 
   const handleSelectDrummer = async (id, skipUrlUpdate = false) => {
     console.log('[DEBUG] handleSelectDrummer called with id:', id);
+    // Preload extended bios module for drummer detail page (TBT optimization #460)
+    preloadExtendedBios();
     setLoadingDetail(true);
     // Reset all page states so drummer detail view shows
     setShowQuotes(false);
@@ -14180,6 +14218,7 @@ setShowList(false);
 
   // Navigate to techniques index page (Issue #344)
   const handleNavigateToTechniquesIndex = () => {
+    preloadTechniques(); // Preload techniques module (TBT optimization #460)
     setShowTechniquesIndex(true);
     setShowTechniqueDetail(false);
     setTechniqueSlug(null);

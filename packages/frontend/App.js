@@ -93,12 +93,42 @@ import { getGearComparisonBySlug, getAllGearComparisons, hasGearComparison, getA
 // Drumming techniques data (Issue #344)
 // Loaded dynamically for code splitting - TBT optimization #460
 let _techniquesModule = null;
+let _techniquesLoadPromise = null;
+let _techniquesLoadListeners = [];
+
 const loadTechniques = () => import('./data/techniques');
+
 function preloadTechniques() {
-  if (!_techniquesModule) {
-    loadTechniques().then(m => { _techniquesModule = m; });
+  if (!_techniquesLoadPromise) {
+    _techniquesLoadPromise = loadTechniques().then(m => { 
+      _techniquesModule = m;
+      // Notify all listeners that the module is loaded
+      _techniquesLoadListeners.forEach(cb => cb());
+      _techniquesLoadListeners = [];
+      return m;
+    });
   }
+  return _techniquesLoadPromise;
 }
+
+// Subscribe to techniques module load - returns unsubscribe function
+function onTechniquesLoaded(callback) {
+  if (_techniquesModule) {
+    // Module already loaded, call immediately
+    callback();
+    return () => {};
+  }
+  _techniquesLoadListeners.push(callback);
+  return () => {
+    _techniquesLoadListeners = _techniquesLoadListeners.filter(cb => cb !== callback);
+  };
+}
+
+// Check if techniques module is loaded
+function isTechniquesLoaded() {
+  return _techniquesModule !== null;
+}
+
 // Synchronous accessors (use after module is loaded)
 function getAllTechniques() {
   return _techniquesModule?.getAllTechniques() || [];
@@ -124,8 +154,12 @@ function getRelatedTechniques(slug) {
 function getTechniquesForDrummer(drummerId) {
   return _techniquesModule?.getTechniquesForDrummer(drummerId) || [];
 }
-const TECHNIQUE_CATEGORIES = ['speed', 'coordination', 'dynamics', 'rudiments', 'groove'];
-const DIFFICULTY_LEVELS = ['beginner', 'intermediate', 'advanced', 'expert'];
+function getTechniqueCategories() {
+  return _techniquesModule?.TECHNIQUE_CATEGORIES || {};
+}
+function getDifficultyLevels() {
+  return _techniquesModule?.DIFFICULTY_LEVELS || {};
+}
 
 // Birthday calendar data (Issue #343)
 import { 
@@ -8936,7 +8970,19 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
 function TechniquesIndexPage({ theme, onBack, onSelectTechnique, onSelectDrummer, drummers }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
+  const [isLoaded, setIsLoaded] = useState(isTechniquesLoaded());
+  
+  // Wait for techniques module to load
+  useEffect(() => {
+    if (!isLoaded) {
+      preloadTechniques();
+      const unsubscribe = onTechniquesLoaded(() => setIsLoaded(true));
+      return unsubscribe;
+    }
+  }, [isLoaded]);
+  
   const allTechniques = getAllTechniques();
+  const TECHNIQUE_CATEGORIES = getTechniqueCategories();
 
   // Group techniques by category
   const techniquesByCategory = useMemo(() => {
@@ -8974,6 +9020,32 @@ function TechniquesIndexPage({ theme, onBack, onSelectTechnique, onSelectDrummer
     };
     return labels[difficulty] || difficulty;
   };
+
+  // Show loading state while module is loading
+  if (!isLoaded) {
+    return (
+      <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+        <View style={styles.detailContent}>
+          <TouchableOpacity
+            onPress={onBack}
+            style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+            accessibilityRole="button"
+            accessibilityLabel="Go back"
+          >
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+          </TouchableOpacity>
+          <Text style={[styles.bandPageTitle, { color: theme.text }]}>🥁 Metal Drumming Techniques</Text>
+          <Text style={[styles.bandPageSubtitle, { color: theme.secondaryText, marginBottom: 24 }]}>
+            Master the essential techniques of metal drumming. From blast beats to polyrhythms, learn how the pros do it.
+          </Text>
+          <View style={{ alignItems: 'center', padding: 40 }}>
+            <Text style={{ fontSize: 32, marginBottom: 12 }}>⏳</Text>
+            <Text style={{ color: theme.secondaryText }}>Loading techniques...</Text>
+          </View>
+        </View>
+      </ScrollView>
+    );
+  }
 
   return (
     <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
@@ -9083,8 +9155,20 @@ function TechniquesIndexPage({ theme, onBack, onSelectTechnique, onSelectDrummer
 function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, onSelectTechnique, drummers }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
+  const [isLoaded, setIsLoaded] = useState(isTechniquesLoaded());
+  
+  // Wait for techniques module to load
+  useEffect(() => {
+    if (!isLoaded) {
+      preloadTechniques();
+      const unsubscribe = onTechniquesLoaded(() => setIsLoaded(true));
+      return unsubscribe;
+    }
+  }, [isLoaded]);
+  
   const technique = getTechniqueBySlug(techniqueSlug);
   const relatedTechniques = getRelatedTechniques(techniqueSlug);
+  const TECHNIQUE_CATEGORIES = getTechniqueCategories();
 
   // Update SEO
   useEffect(() => {
@@ -9092,6 +9176,16 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
       updateTechniqueMeta(technique);
     }
   }, [technique]);
+
+  // Show loading state while module is loading
+  if (!isLoaded) {
+    return (
+      <View style={[styles.detailContainer, { backgroundColor: theme.background, alignItems: 'center', justifyContent: 'center', padding: 40 }]}>
+        <Text style={{ fontSize: 48, marginBottom: 16 }}>⏳</Text>
+        <Text style={{ fontSize: 18, color: theme.secondaryText }}>Loading technique...</Text>
+      </View>
+    );
+  }
 
   if (!technique) {
     return (

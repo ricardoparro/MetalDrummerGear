@@ -352,7 +352,7 @@ export function generateMusicGroupSchema(band) {
  * Generate MusicGroup schema from drummer data (fallback when band data not available)
  * Issue #429: Enhanced schema generation for drummers without full band data
  * @param {Object} drummer - Drummer data object with band and genre fields
- * @returns {Object} MusicGroup schema object
+ * @returns {Object} MusicGroup schema object (for primary band only)
  */
 export function generateMusicGroupSchemaFromDrummer(drummer) {
   if (!drummer || !drummer.band) return null;
@@ -390,6 +390,99 @@ export function generateMusicGroupSchemaFromDrummer(drummer) {
   ];
   
   return schema;
+}
+
+/**
+ * Generate multiple MusicGroup schemas from drummer's bands array
+ * Issue #444: Added for drummer-band relationships with multiple bands
+ * @param {Object} drummer - Drummer data object with bands array
+ * @returns {Array} Array of MusicGroup schema objects
+ */
+export function generateAllMusicGroupSchemasFromDrummer(drummer) {
+  if (!drummer) return [];
+  
+  // Use the bands array if available, otherwise fallback to single band
+  const bandsArray = drummer.bands || (drummer.band ? [{ name: drummer.band }] : []);
+  
+  return bandsArray.map((bandEntry, index) => {
+    const bandName = bandEntry.name || bandEntry;
+    const bandSlug = bandName.toLowerCase()
+      .replace(/[^a-z0-9\s-]/g, '')
+      .replace(/\s+/g, '-')
+      .replace(/-+/g, '-');
+    
+    // Check if we have full band data
+    const bandData = getBand(bandSlug);
+    if (bandData) {
+      const schema = generateMusicGroupSchema(bandData);
+      // Add member reference to the drummer
+      schema.member = {
+        "@type": "Person",
+        "@id": `https://metalforge.io/drummer/${drummer.id}#person`,
+        "name": drummer.name
+      };
+      return schema;
+    }
+    
+    // Fallback: generate basic schema from band entry
+    const schema = {
+      "@type": "MusicGroup",
+      "@id": `https://metalforge.io/bands/${bandSlug}#band`,
+      "name": bandName,
+    };
+    
+    // Add period if available
+    if (bandEntry.period) {
+      schema.description = `${drummer.name} was a member ${bandEntry.period}`;
+    }
+    
+    // Add genre from drummer data (for first/primary band only)
+    if (index === 0 && drummer.genre) {
+      const genres = drummer.genre.split(/\s*[\/,]\s*/).map(g => g.trim());
+      schema.genre = genres;
+    }
+    
+    // Generate basic sameAs links (Wikipedia-based fallback)
+    const wikiSlug = bandName.replace(/\s+/g, '_');
+    schema.sameAs = [
+      `https://en.wikipedia.org/wiki/${encodeURIComponent(wikiSlug)}`
+    ];
+    
+    // Add member reference
+    schema.member = {
+      "@type": "Person",
+      "@id": `https://metalforge.io/drummer/${drummer.id}#person`,
+      "name": drummer.name
+    };
+    
+    return schema;
+  });
+}
+
+/**
+ * Generate memberOf array for Person schema from drummer's bands
+ * Issue #444: Create memberOf references for all bands
+ * @param {Object} drummer - Drummer data object with bands array
+ * @returns {Array} Array of memberOf references
+ */
+export function generateMemberOfFromDrummer(drummer) {
+  if (!drummer) return [];
+  
+  const bandsArray = drummer.bands || (drummer.band ? [{ name: drummer.band }] : []);
+  
+  return bandsArray.map(bandEntry => {
+    const bandName = bandEntry.name || bandEntry;
+    const bandSlug = bandName.toLowerCase()
+      .replace(/[^a-z0-9\s-]/g, '')
+      .replace(/\s+/g, '-')
+      .replace(/-+/g, '-');
+    
+    return {
+      "@type": "MusicGroup",
+      "@id": `https://metalforge.io/bands/${bandSlug}#band`,
+      "name": bandName
+    };
+  });
 }
 
 export default bands;

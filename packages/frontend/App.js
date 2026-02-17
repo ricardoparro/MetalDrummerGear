@@ -68,7 +68,7 @@ import {
 } from './data/metalSongsBpm';
 
 // Band data with drummer history (Issue #349, #429)
-import { getBand, getAllBands, hasBand, getAllBandSlugs, getBandsForDrummer, generateMusicGroupSchemaFromDrummer } from './data/bands';
+import { getBand, getAllBands, hasBand, getAllBandSlugs, getBandsForDrummer, generateMusicGroupSchemaFromDrummer, generateAllMusicGroupSchemasFromDrummer, generateMemberOfFromDrummer } from './data/bands';
 
 // Genre data for landing pages (Issue #340)
 import { getGenre, getAllGenres, hasGenre, getAllGenreSlugs, getDrummersByGenre, getRelatedGenres } from './data/genres';
@@ -1567,18 +1567,25 @@ function updateDocumentMeta(drummer, drummers = [], filters = {}) {
   // Build schema based on context
   let schema;
   if (drummer) {
-    // Generate MusicGroup schema with full band data (Issue #429)
-    const musicGroupSchema = generateMusicGroupSchemaFromDrummer(drummer);
+    // Generate MusicGroup schemas for ALL bands the drummer has played with (Issue #444)
+    const musicGroupSchemas = generateAllMusicGroupSchemasFromDrummer(drummer);
+    // Primary band schema for backward compatibility
+    const musicGroupSchema = musicGroupSchemas.length > 0 ? musicGroupSchemas[0] : generateMusicGroupSchemaFromDrummer(drummer);
     
     // Enhanced structured data with Person + MusicGroup + Product pricing for drummer pages
     const graphEntities = [];
     
-    // Add MusicGroup as separate entity for stronger entity recognition
-    if (musicGroupSchema) {
-      graphEntities.push(musicGroupSchema);
-    }
+    // Add ALL MusicGroup entities for stronger entity recognition (Issue #444)
+    musicGroupSchemas.forEach(schema => {
+      if (schema) {
+        graphEntities.push(schema);
+      }
+    });
     
-    // Add Person schema with memberOf reference to MusicGroup
+    // Generate memberOf array for all bands
+    const memberOfArray = generateMemberOfFromDrummer(drummer);
+    
+    // Add Person schema with memberOf references to ALL MusicGroups (Issue #444)
     const personSchema = {
       "@type": "Person",
       "@id": `https://metalforge.io/drummer/${drummer.id}#person`,
@@ -1586,12 +1593,12 @@ function updateDocumentMeta(drummer, drummers = [], filters = {}) {
       "description": drummer.bio,
       "image": `https://metalforge.io${drummer.image}`,
       "jobTitle": "Professional Drummer",
-      "memberOf": musicGroupSchema ? {
+      "memberOf": memberOfArray.length > 1 ? memberOfArray : (musicGroupSchema ? {
         "@id": musicGroupSchema["@id"]
       } : {
         "@type": "MusicGroup",
         "name": drummer.band
-      },
+      }),
       ...(drummer.sameAs && drummer.sameAs.length > 0 && { "sameAs": drummer.sameAs })
     };
     

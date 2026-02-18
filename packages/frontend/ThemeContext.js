@@ -1,5 +1,6 @@
 import React, { createContext, useContext, useState, useEffect, useCallback } from 'react';
 import { Platform } from 'react-native';
+import { colors } from './colors';
 
 const ThemeContext = createContext();
 
@@ -8,36 +9,82 @@ const THEME_STORAGE_KEY = 'metalforge-theme-preference';
 
 export const themes = {
   dark: {
-    background: '#121212',
-    text: '#ffffff',
-    secondaryText: '#b3b3b3',
-    card: '#1e1e1e',
-    border: '#333333',
-    error: '#ef5350',
-    primary: '#ef4444',
+    // Backgrounds (using new deeper near-black palette)
+    background: colors.bg.primary,           // #0a0a0a (was #121212)
+    surface: colors.bg.secondary,            // #141414 (new)
+    surfaceElevated: colors.bg.elevated,     // #1e1e1e (new)
+    card: colors.bg.secondary,               // #141414 (was #1e1e1e)
+    
+    // Text (zinc palette)
+    text: colors.text.primary,               // #ffffff
+    secondaryText: colors.text.secondary,    // #a1a1aa (was #b3b3b3)
+    mutedText: colors.text.muted,            // #71717a (new)
+    
+    // Brand colors
+    primary: colors.brand.primary,           // #dc2626 (was #ef4444)
+    primaryHover: colors.brand.primaryHover, // #b91c1c (new)
+    
+    // Accent (bronze/gold for gear elements)
+    accent: colors.accent.gold,              // #c9a227 (new)
+    accentHover: colors.accent.goldHover,    // #d4af37 (new)
+    
+    // Borders (zinc)
+    border: colors.border.default,           // #27272a (was #333333)
+    borderHover: colors.border.hover,        // #3f3f46 (new)
+    borderFocus: colors.border.focus,        // #dc2626 (new)
+    
+    // Semantic colors
+    error: colors.semantic.error,            // #ef4444 (was #ef5350)
+    success: colors.semantic.success,        // #22c55e (new)
+    warning: colors.semantic.warning,        // #f97316 (new)
+    info: colors.semantic.info,              // #3b82f6 (new)
+    
     // Additional colors for comprehensive theming
-    inputBackground: '#1e1e1e',
-    inputText: '#ffffff',
-    inputPlaceholder: '#9a9a9a',
-    headerBackground: '#0a0a0a',
-    buttonBackground: '#ef4444',
-    buttonText: '#ffffff',
+    inputBackground: colors.bg.elevated,     // #1e1e1e
+    inputText: colors.text.primary,          // #ffffff
+    inputPlaceholder: colors.text.muted,     // #71717a (was #9a9a9a)
+    headerBackground: colors.bg.primary,     // #0a0a0a
+    buttonBackground: colors.brand.primary,  // #dc2626
+    buttonText: colors.text.primary,         // #ffffff
     shadowColor: '#000000',
   },
   light: {
+    // Backgrounds
     background: '#f5f5f5',
+    surface: '#ffffff',
+    surfaceElevated: '#ffffff',
+    card: '#ffffff',
+    
+    // Text
     text: '#1a1a1a',
     secondaryText: '#595959',
-    card: '#ffffff',
+    mutedText: '#767676',
+    
+    // Brand colors
+    primary: colors.brand.primary,           // #dc2626
+    primaryHover: colors.brand.primaryHover, // #b91c1c
+    
+    // Accent (bronze/gold for gear elements)
+    accent: colors.accent.gold,              // #c9a227
+    accentHover: colors.accent.goldHover,    // #d4af37
+    
+    // Borders
     border: '#e0e0e0',
-    error: '#d32f2f',
-    primary: '#dc2626',
+    borderHover: '#d0d0d0',
+    borderFocus: colors.brand.primary,       // #dc2626
+    
+    // Semantic colors
+    error: colors.semantic.error,            // #ef4444
+    success: colors.semantic.success,        // #22c55e
+    warning: colors.semantic.warning,        // #f97316
+    info: colors.semantic.info,              // #3b82f6
+    
     // Additional colors for comprehensive theming
     inputBackground: '#ffffff',
     inputText: '#1a1a1a',
     inputPlaceholder: '#767676',
     headerBackground: '#ffffff',
-    buttonBackground: '#dc2626',
+    buttonBackground: colors.brand.primary,  // #dc2626
     buttonText: '#ffffff',
     shadowColor: '#000000',
   },
@@ -81,9 +128,9 @@ function updateDocumentTheme(themeName) {
     document.body.classList.remove('theme-dark', 'theme-light');
     document.body.classList.add(`theme-${themeName}`);
     
-    // Update meta theme-color for mobile browsers
+    // Update meta theme-color for mobile browsers (use new deeper background)
     const metaThemeColor = document.querySelector('meta[name="theme-color"]');
-    const bgColor = themeName === 'dark' ? '#0a0a0a' : '#f5f5f5';
+    const bgColor = themeName === 'dark' ? colors.bg.primary : '#f5f5f5';
     if (metaThemeColor) {
       metaThemeColor.setAttribute('content', bgColor);
     } else {

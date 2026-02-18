@@ -2,6 +2,7 @@ import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View, FlatList, ActivityIndicator, TouchableOpacity, ScrollView, Linking, Platform, useWindowDimensions, TextInput } from 'react-native';
 import { Image } from 'expo-image';
 import { ThemeProvider, useTheme } from './ThemeContext';
+import { colors } from './colors';
 import { useState, useEffect, useCallback, useMemo, useRef, lazy, Suspense, startTransition } from 'react';
 import { getAffiliateLinks, extractPrimaryProduct, getThomannLink, getSweetwaterLink } from './affiliateLinks';
 import { calculateKitCost, formatPrice } from './gearPrices';
@@ -485,7 +486,7 @@ function YouTubeEmbed({ videoId, title, theme }) {
               height: '100%', 
               objectFit: 'cover', 
               borderRadius: 8,
-              backgroundColor: '#1a1a1a'
+              backgroundColor: colors.bg.secondary
             }}
           />
           {/* Play button overlay */}
@@ -888,20 +889,20 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
 
 const PLACEHOLDER_IMAGE = 'https://ui-avatars.com/api/?name=Drummer&background=1a1a2e&color=fff&size=200';
 
-// Genre color mapping for consistent UI
+// Genre color mapping for consistent UI (using centralized color tokens)
 const GENRE_COLORS = {
-  'Thrash Metal': { bg: '#dc2626', text: '#ffffff' },
-  'Death Metal': { bg: '#7f1d1d', text: '#ffffff' },
-  'Black Metal': { bg: '#1f2937', text: '#ffffff' },
-  'Progressive Metal': { bg: '#7c3aed', text: '#ffffff' },
-  'Nu-Metal': { bg: '#ea580c', text: '#ffffff' },
-  'Groove Metal': { bg: '#65a30d', text: '#ffffff' },
-  'Power Metal': { bg: '#0284c7', text: '#ffffff' },
-  'Metalcore/Djent': { bg: '#0891b2', text: '#ffffff' },
+  'Thrash Metal': { bg: colors.genre.thrash, text: colors.text.primary },
+  'Death Metal': { bg: colors.genre.death, text: colors.text.primary },
+  'Black Metal': { bg: colors.genre.black, text: colors.text.primary },
+  'Progressive Metal': { bg: colors.genre.progressive, text: colors.text.primary },
+  'Nu-Metal': { bg: colors.genre.nuMetal, text: colors.text.primary },
+  'Groove Metal': { bg: colors.genre.groove, text: colors.text.primary },
+  'Power Metal': { bg: colors.genre.power, text: colors.text.primary },
+  'Metalcore/Djent': { bg: colors.genre.metalcore, text: colors.text.primary },
 };
 
 const getGenreColors = (genre) => {
-  return GENRE_COLORS[genre] || { bg: '#6b7280', text: '#ffffff' };
+  return GENRE_COLORS[genre] || { bg: colors.genre.default, text: colors.text.primary };
 };
 
 function GenreTag({ genre, size = 'small' }) {
@@ -1318,11 +1319,11 @@ function LazyGalleryImage({ source, style, accessibilityLabel, width = 200, heig
 
   const flatStyle = StyleSheet.flatten(style) || {};
 
-  // Placeholder styles
+  // Placeholder styles (using deeper background from color tokens)
   const placeholderStyle = {
     width: flatStyle.width || width,
     height: flatStyle.height || height,
-    backgroundColor: '#2a2a2a',
+    backgroundColor: colors.bg.elevated,
     borderRadius: flatStyle.borderRadius || 8,
     display: 'flex',
     alignItems: 'center',
@@ -2096,9 +2097,13 @@ function GearSection({ title, content, theme, gearType }) {
     }
   };
 
+  // Use gold accent for cymbal-related gear titles
+  const isCymbalRelated = gearType === 'cymbals' || title.toLowerCase().includes('cymbal');
+  const titleColor = isCymbalRelated ? theme.accent : theme.text;
+  
   return (
     <View style={styles.gearSection} nativeID={`speakable-gear-${gearType}`}>
-      <Text style={[styles.gearTitle, { color: theme.text }]}>{title}</Text>
+      <Text style={[styles.gearTitle, { color: titleColor }]}>{title}</Text>
       <Text style={[styles.gearContent, { color: theme.secondaryText }]} nativeID={`speakable-gear-${gearType}-content`}>{content}</Text>
       <View style={styles.shopLinksContainer}>
         <TouchableOpacity
@@ -3024,17 +3029,17 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
 
       {drummer.endorsements && drummer.endorsements.length > 0 && (
         <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
-          <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">Endorsements</Text>
+          <Text style={[styles.sectionTitle, { color: theme.accent }]} accessibilityRole="header">Endorsements</Text>
           <View style={styles.endorsements}>
             {drummer.endorsements.map((endorsement, index) => (
               <TouchableOpacity
                 key={index}
                 onPress={() => handleEndorsementPress(endorsement.url)}
-                style={[styles.endorsementLink, { borderColor: theme.border }]}
+                style={[styles.endorsementLink, { borderColor: theme.accent, backgroundColor: theme.surfaceElevated }]}
                 accessibilityRole="link"
                 accessibilityLabel={`Visit ${endorsement.name} website`}
               >
-                <Text style={[styles.endorsementText, { color: theme.text }]}>{endorsement.name}</Text>
+                <Text style={[styles.endorsementText, { color: theme.accent }]}>{endorsement.name}</Text>
               </TouchableOpacity>
             ))}
           </View>
@@ -3898,12 +3903,12 @@ function CompareYourKitModal({ drummer, theme, onClose }) {
   
   const hasUserGear = userKit.drums || userKit.snare || userKit.cymbals || userKit.hardware || userKit.sticks;
   
-  // Match percentage color
+  // Match percentage color (using semantic colors)
   const getMatchColor = (percentage) => {
-    if (percentage >= 80) return '#22c55e'; // green
+    if (percentage >= 80) return colors.semantic.success; // green
     if (percentage >= 60) return '#eab308'; // yellow
-    if (percentage >= 40) return '#f97316'; // orange
-    return '#ef4444'; // red
+    if (percentage >= 40) return colors.semantic.warning; // orange
+    return colors.semantic.error; // red
   };
   
   return (
@@ -7448,9 +7453,9 @@ function BandDetailPage({ bandSlug, drummers, onBack, onSelectDrummer, theme }) 
   // Format genres for display
   const formatGenre = (genre) => genre.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
   const statusColors = {
-    active: '#22c55e',
-    disbanded: '#ef4444',
-    hiatus: '#f59e0b'
+    active: colors.semantic.success,
+    disbanded: colors.semantic.error,
+    hiatus: colors.semantic.warning
   };
 
   return (
@@ -8766,13 +8771,13 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
               <Text style={{ fontSize: 16, fontWeight: '600', color: theme.text, marginBottom: 12 }}>
                 {item1.brand} {item1.model}
               </Text>
-              <Text style={{ color: '#22c55e', fontWeight: '600', marginBottom: 8 }}>✓ Pros</Text>
+              <Text style={{ color: colors.semantic.success, fontWeight: '600', marginBottom: 8 }}>✓ Pros</Text>
               {item1.pros.map((pro, i) => (
                 <Text key={i} style={{ color: theme.secondaryText, fontSize: 14, marginBottom: 4, paddingLeft: 8 }}>
                   • {pro}
                 </Text>
               ))}
-              <Text style={{ color: '#ef4444', fontWeight: '600', marginTop: 12, marginBottom: 8 }}>✗ Cons</Text>
+              <Text style={{ color: colors.semantic.error, fontWeight: '600', marginTop: 12, marginBottom: 8 }}>✗ Cons</Text>
               {item1.cons.map((con, i) => (
                 <Text key={i} style={{ color: theme.secondaryText, fontSize: 14, marginBottom: 4, paddingLeft: 8 }}>
                   • {con}
@@ -8784,13 +8789,13 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
               <Text style={{ fontSize: 16, fontWeight: '600', color: theme.text, marginBottom: 12 }}>
                 {item2.brand} {item2.model}
               </Text>
-              <Text style={{ color: '#22c55e', fontWeight: '600', marginBottom: 8 }}>✓ Pros</Text>
+              <Text style={{ color: colors.semantic.success, fontWeight: '600', marginBottom: 8 }}>✓ Pros</Text>
               {item2.pros.map((pro, i) => (
                 <Text key={i} style={{ color: theme.secondaryText, fontSize: 14, marginBottom: 4, paddingLeft: 8 }}>
                   • {pro}
                 </Text>
               ))}
-              <Text style={{ color: '#ef4444', fontWeight: '600', marginTop: 12, marginBottom: 8 }}>✗ Cons</Text>
+              <Text style={{ color: colors.semantic.error, fontWeight: '600', marginTop: 12, marginBottom: 8 }}>✗ Cons</Text>
               {item2.cons.map((con, i) => (
                 <Text key={i} style={{ color: theme.secondaryText, fontSize: 14, marginBottom: 4, paddingLeft: 8 }}>
                   • {con}
@@ -10662,14 +10667,14 @@ const METAL_SONGS_DATABASE = [
   { band: 'Bullet for My Valentine', song: 'Waking the Demon', bpm: 152, drummer: 'Michael Thomas', album: 'Scream Aim Fire', year: 2008, genre: 'Metalcore' },
 ];
 
-// Get BPM tempo description
+// Get BPM tempo description (using centralized colors)
 function getBpmCategory(bpm) {
-  if (bpm < 70) return { label: 'Very Slow', color: '#6366f1', emoji: '🐢' };
+  if (bpm < 70) return { label: 'Very Slow', color: colors.semantic.info, emoji: '🐢' };
   if (bpm < 100) return { label: 'Slow', color: '#8b5cf6', emoji: '🚶' };
-  if (bpm < 130) return { label: 'Medium', color: '#22c55e', emoji: '🎸' };
-  if (bpm < 160) return { label: 'Fast', color: '#f97316', emoji: '🔥' };
-  if (bpm < 200) return { label: 'Very Fast', color: '#ef4444', emoji: '⚡' };
-  return { label: 'Extreme', color: '#dc2626', emoji: '💀' };
+  if (bpm < 130) return { label: 'Medium', color: colors.semantic.success, emoji: '🎸' };
+  if (bpm < 160) return { label: 'Fast', color: colors.semantic.warning, emoji: '🔥' };
+  if (bpm < 200) return { label: 'Very Fast', color: colors.semantic.error, emoji: '⚡' };
+  return { label: 'Extreme', color: colors.brand.primary, emoji: '💀' };
 }
 
 // ==========================================
@@ -11675,23 +11680,23 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
                     padding: '12px 16px',
                     fontSize: 16,
                     borderRadius: 8,
-                    border: '2px solid #555',
-                    backgroundColor: '#2a2a2a',
-                    color: '#ffffff',
+                    border: `2px solid ${colors.border.hover}`,
+                    backgroundColor: colors.bg.elevated,
+                    color: colors.text.primary,
                     outline: 'none',
                   }}
                 />
                 <button
                   type="submit"
                   style={{
-                    backgroundColor: '#dc2626',
+                    backgroundColor: colors.brand.primary,
                     padding: '12px 20px',
                     borderRadius: 8,
                     border: 'none',
                     cursor: 'pointer',
                     fontSize: 14,
                     fontWeight: 600,
-                    color: '#ffffff',
+                    color: colors.text.primary,
                   }}
                 >
                   Subscribe
@@ -12572,9 +12577,9 @@ function NewsletterFooter({ theme }) {
                     padding: '12px 16px',
                     fontSize: 16,
                     borderRadius: 8,
-                    border: `2px solid ${error ? '#ef4444' : '#555'}`,
-                    backgroundColor: '#2a2a2a',
-                    color: '#ffffff',
+                    border: `2px solid ${error ? colors.semantic.error : colors.border.hover}`,
+                    backgroundColor: colors.bg.elevated,
+                    color: colors.text.primary,
                     outline: 'none',
                     height: 48,
                     boxSizing: 'border-box',
@@ -12643,7 +12648,7 @@ function NewsletterFooter({ theme }) {
               
               {/* Error Message */}
               {error && (
-                <Text style={{ color: '#ef4444', fontSize: 13, marginTop: -4 }}>
+                <Text style={{ color: colors.semantic.error, fontSize: 13, marginTop: -4 }}>
                   {error}
                 </Text>
               )}

@@ -279,6 +279,186 @@ export const bands = {
       "https://www.wikidata.org/wiki/Q188836"
     ],
   },
+  // Issue #483: Added additional bands for MusicGroup schema coverage
+  korn: {
+    slug: "korn",
+    name: "Korn",
+    formed: 1993,
+    origin: "Bakersfield, California, USA",
+    genres: ["nu-metal", "alternative-metal"],
+    status: "active",
+    metaTitle: "Korn - Drummer History & Gear | MetalForge",
+    metaDescription: "Explore Korn's drummer history from David Silveria to Ray Luzier.",
+    summary: "Korn, formed in 1993 in Bakersfield, California, is credited with pioneering the nu-metal genre.",
+    keywords: ["korn", "ray luzier", "david silveria", "nu metal", "drummer gear"],
+    drummerHistory: [
+      { drummer: "david-silveria", period: "1993-2006", notes: "Founding member" },
+      { drummer: "ray-luzier", period: "2007-present", notes: "Session and touring drummer, later official member" }
+    ],
+    relatedBands: ["limp-bizkit", "deftones", "slipknot"],
+    sameAs: [
+      "https://en.wikipedia.org/wiki/Korn",
+      "https://www.discogs.com/artist/3270-Korn",
+      "https://musicbrainz.org/artist/ac865b2e-bba8-4f5a-8756-dd40d5e39f46",
+      "https://www.wikidata.org/wiki/Q244815"
+    ],
+  },
+  deftones: {
+    slug: "deftones",
+    name: "Deftones",
+    formed: 1988,
+    origin: "Sacramento, California, USA",
+    genres: ["alternative-metal", "nu-metal", "shoegaze"],
+    status: "active",
+    metaTitle: "Deftones - Abe Cunningham Drummer Profile & Gear | MetalForge",
+    metaDescription: "Explore Abe Cunningham's dynamic drumming with Deftones.",
+    summary: "Deftones, formed in 1988 in Sacramento, blend heavy music with atmospheric, shoegaze textures.",
+    keywords: ["deftones", "abe cunningham", "alternative metal", "shoegaze", "drummer gear"],
+    drummerHistory: [
+      { drummer: "abe-cunningham", period: "1988-present", notes: "Founding member" }
+    ],
+    relatedBands: ["korn", "team-sleep"],
+    sameAs: [
+      "https://en.wikipedia.org/wiki/Deftones",
+      "https://www.discogs.com/artist/3279-Deftones",
+      "https://musicbrainz.org/artist/7527f6c2-d762-4b88-b5e2-9244f1e34c46",
+      "https://www.wikidata.org/wiki/Q214839"
+    ],
+  },
+  death: {
+    slug: "death",
+    name: "Death",
+    formed: 1984,
+    origin: "Altamonte Springs, Florida, USA",
+    genres: ["death-metal", "progressive-death-metal"],
+    status: "disbanded",
+    metaTitle: "Death - Drummer History & Gear | MetalForge",
+    metaDescription: "Complete history of drummers for Death, the pioneering death metal band.",
+    summary: "Death, formed in 1984 by Chuck Schuldiner, is considered the pioneer of death metal.",
+    keywords: ["death", "chuck schuldiner", "death metal", "gene hoglan", "richard christy", "drummer gear"],
+    drummerHistory: [
+      { drummer: "gene-hoglan", period: "1993-1995", notes: "Played on Individual Thought Patterns and Symbolic" },
+      { drummer: "richard-christy", period: "1996-1999", notes: "Played on The Sound of Perseverance" }
+    ],
+    relatedBands: ["obituary", "morbid-angel", "cynic"],
+    sameAs: [
+      "https://en.wikipedia.org/wiki/Death_(metal_band)",
+      "https://www.discogs.com/artist/252889-Death",
+      "https://musicbrainz.org/artist/f3f70cdc-6226-44e1-a9f7-d1af77cac979",
+      "https://www.wikidata.org/wiki/Q488464"
+    ],
+  },
+  "limp-bizkit": {
+    slug: "limp-bizkit",
+    name: "Limp Bizkit",
+    formed: 1994,
+    origin: "Jacksonville, Florida, USA",
+    genres: ["nu-metal", "rap-metal"],
+    status: "active",
+    metaTitle: "Limp Bizkit - John Otto Drummer Profile & Gear | MetalForge",
+    metaDescription: "Explore John Otto's hip-hop influenced drumming with Limp Bizkit.",
+    summary: "Limp Bizkit, formed in 1994, fused rap and metal to become one of the biggest nu-metal bands.",
+    keywords: ["limp bizkit", "john otto", "nu metal", "rap metal", "drummer gear"],
+    drummerHistory: [
+      { drummer: "john-otto", period: "1994-present", notes: "Founding member" }
+    ],
+    relatedBands: ["korn", "slipknot", "linkin-park"],
+    sameAs: [
+      "https://en.wikipedia.org/wiki/Limp_Bizkit",
+      "https://www.discogs.com/artist/65858-Limp-Bizkit",
+      "https://musicbrainz.org/artist/e5db18cb-4b1f-496d-a308-548b611090d3",
+      "https://www.wikidata.org/wiki/Q213936"
+    ],
+  },
+  "suicidal-tendencies": {
+    slug: "suicidal-tendencies",
+    name: "Suicidal Tendencies",
+    formed: 1980,
+    origin: "Venice, California, USA",
+    genres: ["crossover-thrash", "hardcore-punk", "thrash-metal"],
+    status: "active",
+    metaTitle: "Suicidal Tendencies - Drummer History & Gear | MetalForge",
+    metaDescription: "Complete history of Suicidal Tendencies drummers.",
+    summary: "Suicidal Tendencies, formed in 1980, pioneered the crossover thrash genre.",
+    keywords: ["suicidal tendencies", "dave lombardo", "jay weinberg", "crossover thrash", "drummer gear"],
+    drummerHistory: [
+      { drummer: "dave-lombardo", period: "2016-present", notes: "Former Slayer drummer" },
+      { drummer: "jay-weinberg", period: "2023-present", notes: "Former Slipknot drummer, touring" }
+    ],
+    relatedBands: ["slayer", "d.r.i.", "excel"],
+    sameAs: [
+      "https://en.wikipedia.org/wiki/Suicidal_Tendencies",
+      "https://www.discogs.com/artist/23913-Suicidal-Tendencies",
+      "https://musicbrainz.org/artist/55d9aa71-5e72-4bc1-b1c0-7bf4e50b4d63",
+      "https://www.wikidata.org/wiki/Q592786"
+    ],
+  },
+  nile: {
+    slug: "nile",
+    name: "Nile",
+    formed: 1993,
+    origin: "Greenville, South Carolina, USA",
+    genres: ["technical-death-metal", "brutal-death-metal"],
+    status: "active",
+    metaTitle: "Nile - George Kollias Drummer Profile & Gear | MetalForge",
+    metaDescription: "Explore George Kollias's extreme drumming with Nile.",
+    summary: "Nile, formed in 1993, combines technical death metal with ancient Egyptian themes.",
+    keywords: ["nile", "george kollias", "technical death metal", "egyptian metal", "drummer gear"],
+    drummerHistory: [
+      { drummer: "george-kollias", period: "2004-present", notes: "Greek drummer known for extreme speed" }
+    ],
+    relatedBands: ["behemoth", "cannibal-corpse", "morbid-angel"],
+    sameAs: [
+      "https://en.wikipedia.org/wiki/Nile_(band)",
+      "https://www.discogs.com/artist/287805-Nile-3",
+      "https://musicbrainz.org/artist/5a6b3210-3d77-417e-ad30-5d2f4ae8aa07",
+      "https://www.wikidata.org/wiki/Q1412988"
+    ],
+  },
+  "cannibal-corpse": {
+    slug: "cannibal-corpse",
+    name: "Cannibal Corpse",
+    formed: 1988,
+    origin: "Buffalo, New York, USA",
+    genres: ["death-metal"],
+    status: "active",
+    metaTitle: "Cannibal Corpse - Paul Mazurkiewicz Drummer Profile & Gear | MetalForge",
+    metaDescription: "Explore Paul Mazurkiewicz's brutal drumming with Cannibal Corpse.",
+    summary: "Cannibal Corpse, formed in 1988, is one of the best-selling and most influential death metal bands.",
+    keywords: ["cannibal corpse", "paul mazurkiewicz", "death metal", "brutal death metal", "drummer gear"],
+    drummerHistory: [
+      { drummer: "paul-mazurkiewicz", period: "1988-present", notes: "Founding member" }
+    ],
+    relatedBands: ["morbid-angel", "deicide", "obituary"],
+    sameAs: [
+      "https://en.wikipedia.org/wiki/Cannibal_Corpse",
+      "https://www.discogs.com/artist/288259-Cannibal-Corpse",
+      "https://musicbrainz.org/artist/9b63b8fa-e219-45b1-9d0e-bbdb8b8b93eb",
+      "https://www.wikidata.org/wiki/Q467574"
+    ],
+  },
+  behemoth: {
+    slug: "behemoth",
+    name: "Behemoth",
+    formed: 1991,
+    origin: "Gdańsk, Poland",
+    genres: ["blackened-death-metal", "death-metal"],
+    status: "active",
+    metaTitle: "Behemoth - Inferno Drummer Profile & Gear | MetalForge",
+    metaDescription: "Explore Inferno's extreme drumming with Polish blackened death metal band Behemoth.",
+    summary: "Behemoth, formed in 1991, evolved from black metal to become a leading blackened death metal band.",
+    keywords: ["behemoth", "inferno", "nergal", "blackened death metal", "polish metal", "drummer gear"],
+    drummerHistory: [
+      { drummer: "inferno", period: "1997-present", notes: "Real name: Zbigniew Promiński" }
+    ],
+    relatedBands: ["nile", "morbid-angel", "vader"],
+    sameAs: [
+      "https://en.wikipedia.org/wiki/Behemoth_(band)",
+      "https://www.discogs.com/artist/278269-Behemoth-3",
+      "https://musicbrainz.org/artist/bdc6da18-a0d4-4f3a-ae33-05dc5af2dec2",
+      "https://www.wikidata.org/wiki/Q213498"
+    ],
+  },
 };
 
 export function getBand(slug) { return bands[slug] || null; }

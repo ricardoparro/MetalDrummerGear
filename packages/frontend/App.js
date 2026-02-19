@@ -292,13 +292,14 @@ function isSpotlightsPage() {
 
 // Helper to get/set URL params for filters
 function getFiltersFromURL() {
-  if (Platform.OS !== 'web' || typeof window === 'undefined') return { search: '', genre: '', brand: '', era: '' };
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return { search: '', genre: '', brand: '', era: '', sort: '' };
   const params = new URLSearchParams(window.location.search);
   return {
     search: params.get('search') || '',
     genre: params.get('genre') || '',
     brand: params.get('brand') || '',
     era: params.get('era') || '',
+    sort: params.get('sort') || '',
   };
 }
 
@@ -309,9 +310,21 @@ function updateFiltersURL(filters) {
   if (filters.genre) params.set('genre', filters.genre);
   if (filters.brand) params.set('brand', filters.brand);
   if (filters.era) params.set('era', filters.era);
+  if (filters.sort) params.set('sort', filters.sort);
   const queryString = params.toString();
   const newPath = queryString ? `/drummers?${queryString}` : '/';
   window.history.pushState({}, '', newPath);
+}
+
+// Helper to get/set sort preference in localStorage
+function getSortPreference() {
+  if (Platform.OS !== 'web' || typeof localStorage === 'undefined') return 'name-asc';
+  return localStorage.getItem('drummerSortPreference') || 'name-asc';
+}
+
+function saveSortPreference(sort) {
+  if (Platform.OS !== 'web' || typeof localStorage === 'undefined') return;
+  localStorage.setItem('drummerSortPreference', sort);
 }
 
 // Helper to get/set URL params for shareable comparisons
@@ -1078,7 +1091,7 @@ function FilterDropdown({ title, options, selectedValue, onSelect, theme, isOpen
 }
 
 // Filter bar component
-function FilterBar({ filters, onFilterChange, totalCount, filteredCount, onClearAll, theme }) {
+function FilterBar({ filters, onFilterChange, totalCount, filteredCount, onClearAll, theme, sortBy, onSortChange }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
   const [isExpanded, setIsExpanded] = useState(false);
@@ -1094,6 +1107,13 @@ function FilterBar({ filters, onFilterChange, totalCount, filteredCount, onClear
     onFilterChange({ ...filters, [filterName]: value });
     setOpenDropdown(null);
   };
+
+  const handleSortSelect = (value) => {
+    onSortChange(value);
+    setOpenDropdown(null);
+  };
+
+  const currentSortLabel = FILTER_OPTIONS.sortOptions.find(s => s.value === sortBy)?.label || 'A-Z (Name)';
 
   // Mobile: collapsible filter panel
   if (isMobile) {
@@ -1118,6 +1138,15 @@ function FilterBar({ filters, onFilterChange, totalCount, filteredCount, onClear
         </View>
         {isExpanded && (
           <View style={[styles.filterPanelMobile, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <FilterDropdown
+              title="Sort"
+              options={FILTER_OPTIONS.sortOptions}
+              selectedValue={sortBy}
+              onSelect={handleSortSelect}
+              theme={theme}
+              isOpen={openDropdown === 'sort'}
+              onToggle={() => handleDropdownToggle('sort')}
+            />
             <FilterDropdown
               title="Genre"
               options={FILTER_OPTIONS.genres}
@@ -1155,6 +1184,18 @@ function FilterBar({ filters, onFilterChange, totalCount, filteredCount, onClear
     <View style={styles.filterBar}>
       <View style={styles.filterChipsContainer}>
         <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={styles.filterChipsScroll}>
+          <Text style={[styles.filterLabel, { color: theme.secondaryText }]}>Sort:</Text>
+          <FilterDropdown
+            title={currentSortLabel}
+            options={FILTER_OPTIONS.sortOptions}
+            selectedValue={sortBy}
+            onSelect={handleSortSelect}
+            theme={theme}
+            isOpen={openDropdown === 'sort'}
+            onToggle={() => handleDropdownToggle('sort')}
+            alwaysShowTitle
+          />
+          <View style={styles.filterSeparator} />
           <Text style={[styles.filterLabel, { color: theme.secondaryText }]}>Genre:</Text>
           {FILTER_OPTIONS.genres.slice(0, 6).map((option) => (
             <FilterChip
@@ -9729,6 +9770,8 @@ function DrummerList({
   spotlight,
   filters,
   onFilterChange,
+  sortBy,
+  onSortChange,
   filteredDrummers,
   searchValue,
   onSearchChange,
@@ -9885,6 +9928,8 @@ function DrummerList({
         filteredCount={filteredDrummers.length}
         onClearAll={handleClearAllFilters}
         theme={theme}
+        sortBy={sortBy}
+        onSortChange={onSortChange}
       />
       {/* Drummer Spotlight Section */}
       {spotlight && (
@@ -12770,6 +12815,12 @@ function AppContent() {
   const [showSuggestions, setShowSuggestions] = useState(false);
   const searchInputRef = useRef(null);
 
+  // Sort state - persisted in localStorage, can be overridden by URL param
+  const [sortBy, setSortBy] = useState(() => {
+    const urlFilters = getFiltersFromURL();
+    return urlFilters.sort || getSortPreference();
+  });
+
   // INP Optimization: Debounce the filter state update to prevent jank during typing
   // The search input value updates immediately, but filter computation is debounced
   const debouncedSearchValue = useDebounce(searchValue, 150);
@@ -12839,8 +12890,34 @@ function AppContent() {
       });
     }
 
-    return results;
-  }, [drummers, debouncedSearchValue, filters]);
+    // Apply sorting
+    const sorted = [...results];
+    switch (sortBy) {
+      case 'name-asc':
+        sorted.sort((a, b) => a.name.localeCompare(b.name));
+        break;
+      case 'name-desc':
+        sorted.sort((a, b) => b.name.localeCompare(a.name));
+        break;
+      case 'band':
+        sorted.sort((a, b) => a.band.localeCompare(b.band));
+        break;
+      case 'genre':
+        sorted.sort((a, b) => (a.genre || '').localeCompare(b.genre || ''));
+        break;
+      case 'country':
+        sorted.sort((a, b) => (a.country || '').localeCompare(b.country || ''));
+        break;
+      case 'recent':
+        // Sort by ID descending (higher IDs are more recently added)
+        sorted.sort((a, b) => b.id - a.id);
+        break;
+      default:
+        sorted.sort((a, b) => a.name.localeCompare(b.name));
+    }
+
+    return sorted;
+  }, [drummers, debouncedSearchValue, filters, sortBy]);
 
   // Generate search suggestions
   const suggestions = useMemo(() => {
@@ -12879,6 +12956,14 @@ function AppContent() {
       setFilters(newFilters);
     });
   }, []);
+
+  // Handle sort changes - persist to localStorage and update URL
+  const handleSortChange = useCallback((newSort) => {
+    setSortBy(newSort);
+    saveSortPreference(newSort);
+    // Update URL with sort param
+    updateFiltersURL({ ...filters, sort: newSort });
+  }, [filters]);
 
   // Handle search input changes
   // INP Optimization: Input value updates immediately for responsiveness
@@ -14773,6 +14858,8 @@ setShowList(false);
           spotlight={getCurrentSpotlightDrummer(drummers)}
           filters={filters}
           onFilterChange={handleFilterChange}
+          sortBy={sortBy}
+          onSortChange={handleSortChange}
           searchValue={searchValue}
           onSearchChange={handleSearchChange}
           onSearchClear={handleSearchClear}

@@ -294,8 +294,26 @@
       
       function initGA4() {
         // === CI/BOT DETECTION (Multi-layer protection) ===
+        // Issue #504: Reinforced detection to eliminate 99% false Direct traffic
         
-        // Layer 1: URL parameter detection
+        // Layer 1: Strict production check - ONLY track metalforge.io
+        var hostname = window.location.hostname;
+        var isProd = hostname === 'metalforge.io';
+        var isPreview = hostname.includes('vercel.app') || hostname.includes('localhost') || hostname.includes('127.0.0.1');
+        if (!isProd || isPreview) {
+          console.log('[GA4] Skipped - Not production:', hostname);
+          return;
+        }
+        
+        // Layer 2: WebDriver/automation framework detection
+        var isWebDriver = navigator.webdriver === true;
+        var hasAutomationFlags = window._phantom || window.__nightmare || window.callPhantom || window._selenium || window.__webdriver_script_fn;
+        if (isWebDriver || hasAutomationFlags) {
+          console.log('[GA4] Skipped - WebDriver/automation detected');
+          return;
+        }
+        
+        // Layer 3: URL parameter detection (CI test flag)
         var urlHasCITest = window.location.search.includes('ci_test');
         
         // Persist ci_test flag for entire session (survives SPA navigation)
@@ -307,26 +325,44 @@
         var isCITest = urlHasCITest || 
           (function() { try { return sessionStorage.getItem('ci_test') === '1'; } catch(e) { return false; } })();
         
-        // Layer 2: Detect headless/automated browsers (Playwright, Puppeteer, etc)
-        var isAutomated = /HeadlessChrome|Playwright|Puppeteer/i.test(navigator.userAgent);
-        
-        // Layer 3: Detect common bots and crawlers
-        var isBot = /bot|crawl|spider|lighthouse|PageSpeed/i.test(navigator.userAgent);
-        
-        // Skip analytics for CI, automation, or bots
-        if (isCITest || isAutomated || isBot) {
-          console.log('[GA4] Skipped -', isCITest ? 'CI test session' : isAutomated ? 'Automated browser' : 'Bot detected');
+        if (isCITest) {
+          console.log('[GA4] Skipped - CI test session detected');
           return;
         }
         
-        // Layer 4: Skip non-production domains (Vercel previews, localhost, etc)
-        var isProd = window.location.hostname === 'metalforge.io' || window.location.hostname === 'www.metalforge.io';
-        if (!isProd) {
-          console.log('[GA4] Skipped - Non-production:', window.location.hostname);
+        // Layer 4: Comprehensive bot/crawler/automation detection (30+ patterns)
+        var botPatterns = [
+          // Headless browsers
+          'HeadlessChrome', 'Puppeteer', 'Playwright', 'Selenium', 'PhantomJS', 'Nightmare',
+          // CI/CD platforms
+          'Vercel', 'Netlify', 'GitHub', 'GitLab', 'Jenkins', 'CircleCI', 'Travis', 'Buildkite',
+          // HTTP clients
+          'node-fetch', 'axios', 'got', 'undici', 'curl', 'wget', 'httpie', 'python-requests',
+          // Generic bot patterns
+          'bot', 'crawl', 'spider', 'scrape',
+          // Performance testing tools
+          'lighthouse', 'PageSpeed', 'GTmetrix', 'pingdom', 'WebPageTest',
+          // AI crawlers
+          'GPTBot', 'ChatGPT', 'ClaudeBot', 'Claude-Web', 'Anthropic', 'Bytespider', 'CCBot',
+          'Google-Extended', 'PerplexityBot', 'YouBot', 'Bingbot', 'Googlebot', 'Applebot'
+        ];
+        var isBot = new RegExp(botPatterns.join('|'), 'i').test(navigator.userAgent);
+        
+        if (isBot) {
+          console.log('[GA4] Skipped - Bot/crawler detected:', navigator.userAgent.substring(0, 100));
           return;
         }
         
-        // === LOAD GA4 ===
+        // Layer 5: Block suspicious CI referrers
+        var referer = document.referrer || '';
+        var isCIReferrer = /github\.com|vercel\.com|localhost|127\.0\.0\.1|netlify\.app/i.test(referer);
+        if (isCIReferrer) {
+          console.log('[GA4] Skipped - CI referrer detected:', referer);
+          return;
+        }
+        
+        // === LOAD GA4 (All checks passed) ===
+        console.log('[GA4] Loading - Production traffic verified');
         var script = document.createElement('script');
         script.async = true;
         script.src = 'https://www.googletagmanager.com/gtag/js?id=G-HKLHH1DCC7';

@@ -657,7 +657,7 @@ function BandLinksSection({ bandLinks, bandName, theme }) {
             >
               <Text style={styles.bandLinkIcon}>🎸</Text>
               <View style={{ flex: 1 }}>
-                <Text style={[styles.bandLinkName, { color: isClickable ? '#dc2626' : theme.text }]}>
+                <Text style={[styles.bandLinkName, { color: isClickable ? theme.primary : theme.text }]}>
                   {bandData?.name || band.slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ')}
                 </Text>
                 {band.period && (
@@ -2432,7 +2432,7 @@ function GearTimeline({ timeline, drummerName, theme }) {
           <Text style={[styles.sectionTitle, { color: theme.text, marginBottom: 0 }]} accessibilityRole="header">
             ⏱️ Gear Timeline
           </Text>
-          <View style={[styles.timelineBadge, { backgroundColor: theme.accent || '#dc2626' }]}>
+          <View style={[styles.timelineBadge, { backgroundColor: theme.accent || theme.primary }]}>
             <Text style={styles.timelineBadgeText}>{timeline.length} Eras</Text>
           </View>
         </View>
@@ -2463,8 +2463,8 @@ function GearTimeline({ timeline, drummerName, theme }) {
                     styles.timelineEraCard,
                     selectedEra?.era === era.era && styles.timelineEraCardSelected,
                     { 
-                      backgroundColor: selectedEra?.era === era.era ? (theme.accent || '#dc2626') : theme.background,
-                      borderColor: selectedEra?.era === era.era ? (theme.accent || '#dc2626') : theme.border
+                      backgroundColor: selectedEra?.era === era.era ? (theme.accent || theme.primary) : theme.background,
+                      borderColor: selectedEra?.era === era.era ? (theme.accent || theme.primary) : theme.border
                     }
                   ]}
                   accessibilityRole="button"
@@ -2473,13 +2473,13 @@ function GearTimeline({ timeline, drummerName, theme }) {
                 >
                   <Text style={[
                     styles.timelineEraYears,
-                    { color: selectedEra?.era === era.era ? '#fff' : theme.secondaryText }
+                    { color: selectedEra?.era === era.era ? theme.text : theme.secondaryText }
                   ]}>
                     {era.years}
                   </Text>
                   <Text style={[
                     styles.timelineEraName,
-                    { color: selectedEra?.era === era.era ? '#fff' : theme.text }
+                    { color: selectedEra?.era === era.era ? theme.text : theme.text }
                   ]} numberOfLines={2}>
                     {era.era}
                   </Text>
@@ -2951,7 +2951,7 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
               style={{ textDecoration: 'none', display: 'inline-block', marginTop: 12 }}
               data-testid="extended-bio-link"
             >
-              <Text style={[styles.bioMoreLink, { color: '#dc2626' }]}>
+              <Text style={[styles.bioMoreLink, { color: theme.primary }]}>
                 Read Extended Bio →
               </Text>
             </a>
@@ -2962,7 +2962,7 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
               accessibilityRole="link"
               accessibilityLabel={`Read extended biography of ${drummer.name}`}
             >
-              <Text style={[styles.bioMoreLink, { color: '#dc2626' }]}>
+              <Text style={[styles.bioMoreLink, { color: theme.primary }]}>
                 Read Extended Bio →
               </Text>
             </TouchableOpacity>
@@ -2992,7 +2992,7 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
       {/* TODO: Restore SimilarDrummersSection from feature/issue-157-similar-drummers branch */}
 
       {/* Compare Your Kit CTA */}
-      <View style={[styles.section, styles.compareYourKitCTA, { backgroundColor: theme.card, borderColor: '#dc2626' }]}>
+      <View style={[styles.section, styles.compareYourKitCTA, { backgroundColor: theme.card, borderColor: theme.primary }]}>
         <Text style={[styles.sectionTitle, { color: theme.text }]}>🥁 Compare Your Kit</Text>
         <Text style={[styles.compareYourKitDescription, { color: theme.secondaryText }]}>
           See how your drum setup matches up with {drummer.name}'s legendary gear!
@@ -4022,7 +4022,7 @@ function CompareYourKitModal({ drummer, theme, onClose }) {
             disabled={!hasUserGear}
             style={[
               styles.kitCompareButton,
-              { backgroundColor: hasUserGear ? '#dc2626' : theme.border }
+              { backgroundColor: hasUserGear ? theme.primary : theme.border }
             ]}
             accessibilityRole="button"
             accessibilityLabel="Compare your kit"
@@ -4070,11 +4070,11 @@ function CompareYourKitModal({ drummer, theme, onClose }) {
                     </View>
                     <View style={[
                       styles.kitMatchBadge,
-                      { backgroundColor: match.matchType === 'exact' ? '#22c55e20' : '#eab30820' }
+                      { backgroundColor: match.matchType === 'exact' ? theme.success + '20' : theme.warning + '20' }
                     ]}>
                       <Text style={[
                         styles.kitMatchBadgeText,
-                        { color: match.matchType === 'exact' ? '#22c55e' : '#eab308' }
+                        { color: match.matchType === 'exact' ? theme.success : '#eab308' }
                       ]}>
                         {match.matchType === 'exact' ? 'Exact Match!' : 'Same Brand'}
                       </Text>
@@ -4104,7 +4104,7 @@ function CompareYourKitModal({ drummer, theme, onClose }) {
                       <Text style={[styles.kitUpgradeArrow, { color: theme.secondaryText }]}>→</Text>
                       <View style={styles.kitUpgradeItem}>
                         <Text style={[styles.kitUpgradeLabel, { color: theme.secondaryText }]}>{drummer.name}'s</Text>
-                        <Text style={[styles.kitUpgradeValue, { color: '#dc2626' }]}>{upgrade.drummerGear}</Text>
+                        <Text style={[styles.kitUpgradeValue, { color: theme.primary }]}>{upgrade.drummerGear}</Text>
                       </View>
                     </View>
                   </View>
@@ -4121,13 +4121,13 @@ function CompareYourKitModal({ drummer, theme, onClose }) {
               <View style={styles.kitShareButtons}>
                 <TouchableOpacity
                   onPress={handleTwitterShare}
-                  style={[styles.kitShareButton, { backgroundColor: '#000000' }]}
+                  style={[styles.kitShareButton, { backgroundColor: theme.shadowColor }]}
                 >
                   <Text style={styles.kitShareButtonText}>𝕏 Tweet</Text>
                 </TouchableOpacity>
                 <TouchableOpacity
                   onPress={handleShare}
-                  style={[styles.kitShareButton, { backgroundColor: '#dc2626' }]}
+                  style={[styles.kitShareButton, { backgroundColor: theme.primary }]}
                 >
                   <Text style={styles.kitShareButtonText}>{copied ? '✓ Copied!' : '🔗 Copy Link'}</Text>
                 </TouchableOpacity>
@@ -4453,7 +4453,7 @@ function DrummerSpotlight({ drummer, theme, onSelectDrummer, onViewAllSpotlights
           <View style={[styles.spotlightCTAs, isMobile && styles.spotlightCTAsMobile]}>
             <TouchableOpacity
               onPress={() => onSelectDrummer(drummer.id)}
-              style={[styles.spotlightCTAPrimary, { backgroundColor: '#dc2626' }]}
+              style={[styles.spotlightCTAPrimary, { backgroundColor: theme.primary }]}
               accessibilityRole="button"
             >
               <Text style={styles.spotlightCTAPrimaryText}>View Full Profile →</Text>
@@ -4676,7 +4676,7 @@ function GearByBudgetPage({ theme, onBack, drummers, onSelectDrummer }) {
                 accessibilityState={{ selected: isSelected }}
               >
                 <Text style={styles.budgetTierButtonEmoji}>{tier.emoji}</Text>
-                <Text style={[styles.budgetTierButtonLabel, { color: isSelected ? '#fff' : theme.text }]}>
+                <Text style={[styles.budgetTierButtonLabel, { color: isSelected ? theme.text : theme.text }]}>
                   {tier.label}
                 </Text>
                 <Text style={[styles.budgetTierButtonRange, { color: isSelected ? 'rgba(255,255,255,0.8)' : theme.secondaryText }]}>
@@ -4853,7 +4853,7 @@ function BirthdayCalendarPage({ theme, onBack, onSelectDrummer }) {
 
         {/* Today's Birthdays Banner */}
         {todaysBirthdays.length > 0 && (
-          <View style={[styles.todayBirthdayBanner, { backgroundColor: '#dc2626' }]}>
+          <View style={[styles.todayBirthdayBanner, { backgroundColor: theme.primary }]}>
             <Text style={styles.todayBirthdayEmoji}>🎉</Text>
             <View style={styles.todayBirthdayContent}>
               <Text style={styles.todayBirthdayLabel}>TODAY'S BIRTHDAY{todaysBirthdays.length > 1 ? 'S' : ''}</Text>
@@ -4881,7 +4881,7 @@ function BirthdayCalendarPage({ theme, onBack, onSelectDrummer }) {
           <View style={styles.birthdayShareButtons}>
             <TouchableOpacity
               onPress={handleTwitterShare}
-              style={[styles.birthdayShareButton, { backgroundColor: '#000000' }]}
+              style={[styles.birthdayShareButton, { backgroundColor: theme.shadowColor }]}
             >
               <Text style={styles.birthdayShareButtonText}>𝕏 Tweet</Text>
             </TouchableOpacity>
@@ -4919,7 +4919,7 @@ function BirthdayCalendarPage({ theme, onBack, onSelectDrummer }) {
                     </Text>
                   </View>
                   <View style={styles.upcomingBirthdayRight}>
-                    <Text style={[styles.upcomingBirthdayDate, { color: '#dc2626' }]}>
+                    <Text style={[styles.upcomingBirthdayDate, { color: theme.primary }]}>
                       {formatBirthday(drummer.birthMonth, drummer.birthDay)}
                     </Text>
                     <Text style={[styles.upcomingBirthdayDays, { color: theme.secondaryText }]}>
@@ -4949,19 +4949,19 @@ function BirthdayCalendarPage({ theme, onBack, onSelectDrummer }) {
                   style={[
                     styles.monthButton,
                     { 
-                      backgroundColor: isSelected ? '#dc2626' : theme.background,
-                      borderColor: isSelected ? '#dc2626' : theme.border 
+                      backgroundColor: isSelected ? theme.primary : theme.background,
+                      borderColor: isSelected ? theme.primary : theme.border 
                     }
                   ]}
                   accessibilityRole="button"
                   accessibilityState={{ selected: isSelected }}
                 >
-                  <Text style={[styles.monthButtonText, { color: isSelected ? '#fff' : theme.text }]}>
+                  <Text style={[styles.monthButtonText, { color: isSelected ? theme.text : theme.text }]}>
                     {monthName.substring(0, 3)}
                   </Text>
                   {monthBirthdays.length > 0 && (
-                    <View style={[styles.monthBadge, { backgroundColor: isSelected ? '#fff' : '#dc2626' }]}>
-                      <Text style={[styles.monthBadgeText, { color: isSelected ? '#dc2626' : '#fff' }]}>
+                    <View style={[styles.monthBadge, { backgroundColor: isSelected ? theme.text : theme.primary }]}>
+                      <Text style={[styles.monthBadgeText, { color: isSelected ? theme.primary : theme.text }]}>
                         {monthBirthdays.length}
                       </Text>
                     </View>
@@ -5056,7 +5056,7 @@ function BirthdayCalendarPage({ theme, onBack, onSelectDrummer }) {
           </Text>
           <View style={styles.birthdayStats}>
             <View style={styles.birthdayStatItem}>
-              <Text style={[styles.birthdayStatValue, { color: '#dc2626' }]}>
+              <Text style={[styles.birthdayStatValue, { color: theme.primary }]}>
                 {drummerBirthdays.length}
               </Text>
               <Text style={[styles.birthdayStatLabel, { color: theme.secondaryText }]}>
@@ -5064,7 +5064,7 @@ function BirthdayCalendarPage({ theme, onBack, onSelectDrummer }) {
               </Text>
             </View>
             <View style={styles.birthdayStatItem}>
-              <Text style={[styles.birthdayStatValue, { color: '#dc2626' }]}>
+              <Text style={[styles.birthdayStatValue, { color: theme.primary }]}>
                 {drummerBirthdays.filter(d => d.isLiving).length}
               </Text>
               <Text style={[styles.birthdayStatLabel, { color: theme.secondaryText }]}>
@@ -5072,7 +5072,7 @@ function BirthdayCalendarPage({ theme, onBack, onSelectDrummer }) {
               </Text>
             </View>
             <View style={styles.birthdayStatItem}>
-              <Text style={[styles.birthdayStatValue, { color: '#dc2626' }]}>
+              <Text style={[styles.birthdayStatValue, { color: theme.primary }]}>
                 {Math.min(...drummerBirthdays.filter(d => d.isLiving).map(d => calculateAge(d.birthYear, d.birthMonth, d.birthDay)))}
               </Text>
               <Text style={[styles.birthdayStatLabel, { color: theme.secondaryText }]}>
@@ -5080,7 +5080,7 @@ function BirthdayCalendarPage({ theme, onBack, onSelectDrummer }) {
               </Text>
             </View>
             <View style={styles.birthdayStatItem}>
-              <Text style={[styles.birthdayStatValue, { color: '#dc2626' }]}>
+              <Text style={[styles.birthdayStatValue, { color: theme.primary }]}>
                 Aug
               </Text>
               <Text style={[styles.birthdayStatLabel, { color: theme.secondaryText }]}>
@@ -5884,7 +5884,7 @@ function KitBuilderPage({ theme, onBack, drummers, onSelectDrummer }) {
                   key={preset.id}
                   style={[
                     styles.presetKitCard,
-                    { backgroundColor: theme.background, borderColor: isActive ? '#dc2626' : theme.border },
+                    { backgroundColor: theme.background, borderColor: isActive ? theme.primary : theme.border },
                     isActive && styles.presetKitCardActive,
                   ]}
                   onPress={() => loadPresetKit(preset)}
@@ -5971,7 +5971,7 @@ function KitBuilderPage({ theme, onBack, drummers, onSelectDrummer }) {
                     key={item.id}
                     style={[
                       styles.gearCard,
-                      { backgroundColor: theme.card, borderColor: isSelected ? '#dc2626' : theme.border },
+                      { backgroundColor: theme.card, borderColor: isSelected ? theme.primary : theme.border },
                       isSelected && styles.gearCardSelected,
                       isMobile && styles.gearCardMobile,
                     ]}
@@ -5990,7 +5990,7 @@ function KitBuilderPage({ theme, onBack, drummers, onSelectDrummer }) {
                     <Text style={[styles.gearCardName, { color: theme.text }]} numberOfLines={2}>
                       {item.name}
                     </Text>
-                    <Text style={[styles.gearCardPrice, { color: '#dc2626' }]}>
+                    <Text style={[styles.gearCardPrice, { color: theme.primary }]}>
                       €{item.price.toLocaleString()}
                     </Text>
                     <View style={styles.gearCardUsedBy}>
@@ -6076,7 +6076,7 @@ function KitBuilderPage({ theme, onBack, drummers, onSelectDrummer }) {
                       </View>
                       {item && (
                         <View style={styles.kitSummaryItemRight}>
-                          <Text style={[styles.kitSummaryItemPrice, { color: '#dc2626' }]}>
+                          <Text style={[styles.kitSummaryItemPrice, { color: theme.primary }]}>
                             €{item.price.toLocaleString()}
                           </Text>
                           <TouchableOpacity
@@ -6112,7 +6112,7 @@ function KitBuilderPage({ theme, onBack, drummers, onSelectDrummer }) {
                 <Text style={[styles.kitSummaryTotalLabel, { color: theme.text }]}>
                   Estimated Total
                 </Text>
-                <Text style={[styles.kitSummaryTotalPrice, { color: '#dc2626' }]}>
+                <Text style={[styles.kitSummaryTotalPrice, { color: theme.primary }]}>
                   €{totalCost.toLocaleString()}
                 </Text>
               </View>
@@ -6425,7 +6425,7 @@ function BpmTapPage({ theme, onBack, drummers, onSelectDrummer }) {
           style={[
             styles.bpmTapButton,
             isActive && styles.bpmTapButtonActive,
-            { borderColor: isActive ? '#dc2626' : theme.border }
+            { borderColor: isActive ? theme.primary : theme.border }
           ]}
           activeOpacity={0.7}
           accessibilityRole="button"
@@ -6494,7 +6494,7 @@ function BpmTapPage({ theme, onBack, drummers, onSelectDrummer }) {
       
       {/* Matching Songs Section */}
       {matchingSongs.length > 0 && (
-        <View style={[styles.bpmMatchingSection, { backgroundColor: theme.card, borderColor: '#dc2626' }]}>
+        <View style={[styles.bpmMatchingSection, { backgroundColor: theme.card, borderColor: theme.primary }]}>
           <Text style={[styles.bpmMatchingTitle, { color: theme.text }]}>
             🎯 Songs near {bpm} BPM
           </Text>
@@ -6566,13 +6566,13 @@ function BpmTapPage({ theme, onBack, drummers, onSelectDrummer }) {
                   style={[
                     styles.bpmGenreButton,
                     selectedGenre === genre && styles.bpmGenreButtonActive,
-                    { borderColor: selectedGenre === genre ? '#dc2626' : theme.border }
+                    { borderColor: selectedGenre === genre ? theme.primary : theme.border }
                   ]}
                   onPress={() => setSelectedGenre(genre)}
                 >
                   <Text style={[
                     styles.bpmGenreButtonText,
-                    { color: selectedGenre === genre ? '#dc2626' : theme.text }
+                    { color: selectedGenre === genre ? theme.primary : theme.text }
                   ]}>
                     {genre || 'All'}
                   </Text>
@@ -6596,13 +6596,13 @@ function BpmTapPage({ theme, onBack, drummers, onSelectDrummer }) {
                   style={[
                     styles.bpmSortButton,
                     sortBy === opt.key && styles.bpmSortButtonActive,
-                    { borderColor: sortBy === opt.key ? '#dc2626' : theme.border }
+                    { borderColor: sortBy === opt.key ? theme.primary : theme.border }
                   ]}
                   onPress={() => setSortBy(opt.key)}
                 >
                   <Text style={[
                     styles.bpmSortButtonText,
-                    { color: sortBy === opt.key ? '#dc2626' : theme.text }
+                    { color: sortBy === opt.key ? theme.primary : theme.text }
                   ]}>
                     {opt.label}
                   </Text>
@@ -6794,7 +6794,7 @@ function BpmRangePage({ rangeSlug, theme, drummers, onBack, onSelectDrummer, onN
                 style={[styles.bpmRangeButton, { backgroundColor: theme.accent }]}
                 onPress={() => onNavigateToBpmRange(range)}
               >
-                <Text style={{ color: '#fff', fontWeight: 'bold' }}>{range}</Text>
+                <Text style={{ color: theme.text, fontWeight: 'bold' }}>{range}</Text>
               </TouchableOpacity>
             ))}
           </View>
@@ -6869,7 +6869,7 @@ function BpmRangePage({ rangeSlug, theme, drummers, onBack, onSelectDrummer, onN
                 style={[styles.bpmRangeButton, { backgroundColor: theme.accent }]}
                 onPress={() => onNavigateToBpmRange(range)}
               >
-                <Text style={{ color: '#fff', fontWeight: 'bold' }}>{info.emoji} {range}</Text>
+                <Text style={{ color: theme.text, fontWeight: 'bold' }}>{info.emoji} {range}</Text>
               </TouchableOpacity>
             );
           })}
@@ -7045,7 +7045,7 @@ function DrummerBioPage({ theme, onBack, drummer, onSelectDrummer }) {
             <View style={styles.careerTimeline}>
               {bio.sections.careerHighlights.items.map((item, index) => (
                 <View key={index} style={styles.careerTimelineItem}>
-                  <Text style={[styles.careerTimelineYear, { color: '#dc2626' }]}>{item.year}</Text>
+                  <Text style={[styles.careerTimelineYear, { color: theme.primary }]}>{item.year}</Text>
                   <Text style={[styles.careerTimelineEvent, { color: theme.secondaryText }]}>{item.event}</Text>
                 </View>
               ))}
@@ -7130,7 +7130,7 @@ function DrummerBioPage({ theme, onBack, drummer, onSelectDrummer }) {
             <View style={styles.triviaList}>
               {bio.sections.trivia.items.map((item, index) => (
                 <View key={index} style={styles.triviaItem}>
-                  <Text style={[styles.triviaBullet, { color: '#dc2626' }]}>•</Text>
+                  <Text style={[styles.triviaBullet, { color: theme.primary }]}>•</Text>
                   <Text style={[styles.triviaText, { color: theme.secondaryText }]}>{item}</Text>
                 </View>
               ))}
@@ -7161,7 +7161,7 @@ function DrummerBioPage({ theme, onBack, drummer, onSelectDrummer }) {
         )}
 
         {/* CTA to view drummer profile */}
-        <View style={[styles.bioPageCTA, { backgroundColor: theme.card, borderColor: '#dc2626' }]}>
+        <View style={[styles.bioPageCTA, { backgroundColor: theme.card, borderColor: theme.primary }]}>
           <Text style={[styles.bioPageCTATitle, { color: theme.text }]}>
             🥁 Explore {drummer.name}'s Gear
           </Text>
@@ -7205,7 +7205,7 @@ function DrummerHistoryItem({ entry, drummer, onSelectDrummer, theme, isLast }) 
       ]}
     >
       <View style={styles.drummerHistoryLeft}>
-        <Text style={[styles.drummerHistoryIcon, { color: '#dc2626' }]}>🥁</Text>
+        <Text style={[styles.drummerHistoryIcon, { color: theme.primary }]}>🥁</Text>
         {drummer && drummer.image && (
           <ImageWithFallback
             source={{ uri: drummer.image }}
@@ -8372,7 +8372,7 @@ function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavi
             accessibilityRole="button"
             accessibilityLabel="Browse all genres"
           >
-            <Text style={{ color: '#ffffff', fontWeight: '700', fontSize: 16 }}>
+            <Text style={{ color: theme.text, fontWeight: '700', fontSize: 16 }}>
               Browse All Genres
             </Text>
           </TouchableOpacity>
@@ -8570,7 +8570,7 @@ function GearComparisonsIndexPage({ theme, onBack, onSelectComparison }) {
                       {comparison.items[0].model} vs {comparison.items[1].model}
                     </Text>
                     <View style={{ flexDirection: 'row', alignItems: 'center', marginTop: 8 }}>
-                      <Text style={{ color: '#dc2626', fontWeight: '600', fontSize: 14 }}>
+                      <Text style={{ color: theme.primary, fontWeight: '600', fontSize: 14 }}>
                         Compare →
                       </Text>
                     </View>
@@ -8681,7 +8681,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
             backgroundColor: theme.card, 
             borderRadius: 12, 
             padding: 20, 
-            borderColor: '#dc2626', 
+            borderColor: theme.primary, 
             borderWidth: 2 
           }}>
             <Text style={{ fontSize: 24, fontWeight: 'bold', color: theme.text, marginBottom: 4 }}>
@@ -8691,7 +8691,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
               {item1.model}
             </Text>
             <View style={{ backgroundColor: theme.background, borderRadius: 8, padding: 12, marginBottom: 12 }}>
-              <Text style={{ color: '#22c55e', fontWeight: '600', fontSize: 18 }}>
+              <Text style={{ color: theme.success, fontWeight: '600', fontSize: 18 }}>
                 {item1.priceRange}
               </Text>
             </View>
@@ -8715,14 +8715,14 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
             paddingVertical: isMobile ? 8 : 0 
           }}>
             <View style={{ 
-              backgroundColor: '#dc2626', 
+              backgroundColor: theme.primary, 
               width: 50, 
               height: 50, 
               borderRadius: 25, 
               alignItems: 'center', 
               justifyContent: 'center' 
             }}>
-              <Text style={{ color: '#ffffff', fontWeight: 'bold', fontSize: 16 }}>VS</Text>
+              <Text style={{ color: theme.text, fontWeight: 'bold', fontSize: 16 }}>VS</Text>
             </View>
           </View>
 
@@ -8742,7 +8742,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
               {item2.model}
             </Text>
             <View style={{ backgroundColor: theme.background, borderRadius: 8, padding: 12, marginBottom: 12 }}>
-              <Text style={{ color: '#22c55e', fontWeight: '600', fontSize: 18 }}>
+              <Text style={{ color: theme.success, fontWeight: '600', fontSize: 18 }}>
                 {item2.priceRange}
               </Text>
             </View>
@@ -8813,7 +8813,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
           <View style={{ borderTopWidth: 1, borderColor: theme.border }}>
             <View style={{ flexDirection: 'row', backgroundColor: theme.background, paddingVertical: 12, paddingHorizontal: 8 }}>
               <Text style={{ flex: 1, fontWeight: '600', color: theme.text, fontSize: 14 }}>Feature</Text>
-              <Text style={{ flex: 1, fontWeight: '600', color: '#dc2626', fontSize: 14, textAlign: 'center' }}>{item1.brand}</Text>
+              <Text style={{ flex: 1, fontWeight: '600', color: theme.primary, fontSize: 14, textAlign: 'center' }}>{item1.brand}</Text>
               <Text style={{ flex: 1, fontWeight: '600', color: '#3b82f6', fontSize: 14, textAlign: 'center' }}>{item2.brand}</Text>
             </View>
             {Object.keys(item1.specs).map((key, i) => (
@@ -8863,7 +8863,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
           </Text>
           <View style={{ flexDirection: isMobile ? 'column' : 'row', gap: 16 }}>
             {/* Item 1 Users */}
-            <View style={{ flex: 1, backgroundColor: theme.card, borderRadius: 12, padding: 16, borderColor: '#dc2626', borderWidth: 2 }}>
+            <View style={{ flex: 1, backgroundColor: theme.card, borderRadius: 12, padding: 16, borderColor: theme.primary, borderWidth: 2 }}>
               <Text style={{ fontSize: 16, fontWeight: '600', color: theme.text, marginBottom: 12 }}>
                 {item1.brand} Users
               </Text>
@@ -8874,7 +8874,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
                     <TouchableOpacity
                       key={i}
                       style={{
-                        backgroundColor: drummer ? '#dc2626' : theme.background,
+                        backgroundColor: drummer ? theme.primary : theme.background,
                         paddingHorizontal: 12,
                         paddingVertical: 6,
                         borderRadius: 16,
@@ -8882,7 +8882,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
                       onPress={() => drummer && onSelectDrummer(drummer.id)}
                       disabled={!drummer}
                     >
-                      <Text style={{ color: drummer ? '#ffffff' : theme.text, fontSize: 13 }}>
+                      <Text style={{ color: drummer ? theme.text : theme.text, fontSize: 13 }}>
                         {name}
                       </Text>
                     </TouchableOpacity>
@@ -8910,7 +8910,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
                       onPress={() => drummer && onSelectDrummer(drummer.id)}
                       disabled={!drummer}
                     >
-                      <Text style={{ color: drummer ? '#ffffff' : theme.text, fontSize: 13 }}>
+                      <Text style={{ color: drummer ? theme.text : theme.text, fontSize: 13 }}>
                         {name}
                       </Text>
                     </TouchableOpacity>
@@ -8924,14 +8924,14 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
         {/* Verdict */}
         <View style={{ 
           marginBottom: 24, 
-          backgroundColor: '#dc2626', 
+          backgroundColor: theme.primary, 
           borderRadius: 12, 
           padding: 20 
         }}>
-          <Text style={{ fontSize: 20, fontWeight: 'bold', color: '#ffffff', marginBottom: 12 }}>
+          <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>
             🏆 The Verdict
           </Text>
-          <Text style={{ color: '#ffffff', fontSize: 16, lineHeight: 24 }}>
+          <Text style={{ color: theme.text, fontSize: 16, lineHeight: 24 }}>
             {comparison.verdict}
           </Text>
         </View>
@@ -9008,10 +9008,10 @@ function TechniquesIndexPage({ theme, onBack, onSelectTechnique, onSelectDrummer
 
   const getDifficultyColor = (difficulty) => {
     const colors = {
-      beginner: '#22c55e',
+      beginner: theme.success,
       intermediate: '#eab308',
-      advanced: '#f97316',
-      expert: '#dc2626',
+      advanced: theme.warning,
+      expert: theme.primary,
     };
     return colors[difficulty] || '#6b7280';
   };
@@ -9131,7 +9131,7 @@ function TechniquesIndexPage({ theme, onBack, onSelectTechnique, onSelectDrummer
                       <Text style={{ color: theme.secondaryText, fontSize: 12 }}>
                         ⚡ {technique.bpmRange} BPM
                       </Text>
-                      <Text style={{ color: '#dc2626', fontWeight: '600', fontSize: 14 }}>
+                      <Text style={{ color: theme.primary, fontWeight: '600', fontSize: 14 }}>
                         Learn →
                       </Text>
                     </View>
@@ -9200,9 +9200,9 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
         <Text style={{ color: theme.secondaryText, marginBottom: 24 }}>This technique page doesn't exist.</Text>
         <TouchableOpacity
           onPress={onBack}
-          style={{ backgroundColor: '#dc2626', paddingHorizontal: 24, paddingVertical: 12, borderRadius: 8 }}
+          style={{ backgroundColor: theme.primary, paddingHorizontal: 24, paddingVertical: 12, borderRadius: 8 }}
         >
-          <Text style={{ color: '#fff', fontWeight: '600' }}>Back to Techniques</Text>
+          <Text style={{ color: theme.text, fontWeight: '600' }}>Back to Techniques</Text>
         </TouchableOpacity>
       </View>
     );
@@ -9210,10 +9210,10 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
 
   const getDifficultyColor = (difficulty) => {
     const colors = {
-      beginner: '#22c55e',
+      beginner: theme.success,
       intermediate: '#eab308',
-      advanced: '#f97316',
-      expert: '#dc2626',
+      advanced: theme.warning,
+      expert: theme.primary,
     };
     return colors[difficulty] || '#6b7280';
   };
@@ -9302,13 +9302,13 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
                 width: 24, 
                 height: 24, 
                 borderRadius: 12, 
-                backgroundColor: '#dc262620',
+                backgroundColor: theme.primary + '20',
                 alignItems: 'center',
                 justifyContent: 'center',
                 marginRight: 12,
                 marginTop: 2,
               }}>
-                <Text style={{ color: '#dc2626', fontWeight: 'bold', fontSize: 12 }}>{index + 1}.</Text>
+                <Text style={{ color: theme.primary, fontWeight: 'bold', fontSize: 12 }}>{index + 1}.</Text>
               </View>
               <Text style={{ color: theme.text, fontSize: 15, lineHeight: 22, flex: 1 }}>
                 {step}
@@ -9324,7 +9324,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
               🔀 Variations
             </Text>
             {technique.variations.map((variation, index) => (
-              <View key={index} style={{ marginBottom: 12, paddingLeft: 12, borderLeftWidth: 3, borderLeftColor: '#dc2626' }}>
+              <View key={index} style={{ marginBottom: 12, paddingLeft: 12, borderLeftWidth: 3, borderLeftColor: theme.primary }}>
                 <Text style={{ color: theme.text, fontWeight: '600', fontSize: 15, marginBottom: 4 }}>
                   {variation.name}
                 </Text>
@@ -9373,13 +9373,13 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
                           {master.band}
                         </Text>
                         {master.note && (
-                          <Text style={{ color: '#dc2626', fontSize: 12, marginTop: 4, fontStyle: 'italic' }}>
+                          <Text style={{ color: theme.primary, fontSize: 12, marginTop: 4, fontStyle: 'italic' }}>
                             {master.note}
                           </Text>
                         )}
                       </View>
                       {isClickable && (
-                        <Text style={{ color: '#dc2626', fontWeight: '600' }}>→</Text>
+                        <Text style={{ color: theme.primary, fontWeight: '600' }}>→</Text>
                       )}
                     </View>
                   </TouchableOpacity>
@@ -9434,10 +9434,10 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
               <View style={{ 
                 marginTop: 12, 
                 padding: 12, 
-                backgroundColor: '#dc262610', 
+                backgroundColor: theme.primary + '10', 
                 borderRadius: 8,
                 borderLeftWidth: 4,
-                borderLeftColor: '#dc2626'
+                borderLeftColor: theme.primary
               }}>
                 <Text style={{ color: theme.text, fontWeight: '600', marginBottom: 4 }}>
                   💡 Pro Tip
@@ -9483,7 +9483,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
                       {getDifficultyLevels()[related.difficulty]?.label}
                     </Text>
                   </View>
-                  <Text style={{ color: '#dc2626', marginLeft: 'auto' }}>→</Text>
+                  <Text style={{ color: theme.primary, marginLeft: 'auto' }}>→</Text>
                 </TouchableOpacity>
               ))}
             </View>
@@ -9495,7 +9495,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
           <TouchableOpacity
             onPress={onBack}
             style={{
-              backgroundColor: '#dc2626',
+              backgroundColor: theme.primary,
               paddingHorizontal: 24,
               paddingVertical: 12,
               borderRadius: 8,
@@ -9813,11 +9813,11 @@ function DrummerList({
         </TouchableOpacity>
         <TouchableOpacity
           onPress={onNavigateToQuiz}
-          style={[styles.quizButton, { backgroundColor: '#dc2626', borderColor: '#dc2626' }]}
+          style={[styles.quizButton, { backgroundColor: theme.primary, borderColor: theme.primary }]}
           accessibilityRole="button"
           accessibilityLabel="Take the drummer personality quiz"
         >
-          <Text style={[styles.quizButtonText, { color: '#ffffff' }]}>🥁 Find Your Match</Text>
+          <Text style={[styles.quizButtonText, { color: theme.text }]}>🥁 Find Your Match</Text>
         </TouchableOpacity>
       </View>
       <View style={[styles.actionButtonsRow, { marginTop: -8 }]}>
@@ -9835,17 +9835,17 @@ function DrummerList({
           accessibilityRole="button"
           accessibilityLabel="Search drummers by gear"
         >
-          <Text style={[styles.quizButtonText, { color: '#ffffff' }]}>🔍 Gear Finder</Text>
+          <Text style={[styles.quizButtonText, { color: theme.text }]}>🔍 Gear Finder</Text>
         </TouchableOpacity>
       </View>
       <View style={[styles.actionButtonsRow, { marginTop: -8 }]}>
         <TouchableOpacity
           onPress={onNavigateToKitBuilder}
-          style={[styles.quizButton, { backgroundColor: '#f97316', borderColor: '#f97316' }]}
+          style={[styles.quizButton, { backgroundColor: theme.warning, borderColor: theme.warning }]}
           accessibilityRole="button"
           accessibilityLabel="Build your custom drum kit"
         >
-          <Text style={[styles.quizButtonText, { color: '#ffffff' }]}>🛠️ Kit Builder</Text>
+          <Text style={[styles.quizButtonText, { color: theme.text }]}>🛠️ Kit Builder</Text>
         </TouchableOpacity>
         <TouchableOpacity
           onPress={onNavigateToBpmTap}
@@ -9853,7 +9853,7 @@ function DrummerList({
           accessibilityRole="button"
           accessibilityLabel="BPM tap calculator"
         >
-          <Text style={[styles.quizButtonText, { color: '#ffffff' }]}>🎵 BPM Tap</Text>
+          <Text style={[styles.quizButtonText, { color: theme.text }]}>🎵 BPM Tap</Text>
         </TouchableOpacity>
       </View>
       <View style={[styles.actionButtonsRow, { marginTop: -8 }]}>
@@ -9871,17 +9871,17 @@ function DrummerList({
           accessibilityRole="button"
           accessibilityLabel="Browse metal genres"
         >
-          <Text style={[styles.quizButtonText, { color: '#ffffff' }]}>🎸 Browse Genres</Text>
+          <Text style={[styles.quizButtonText, { color: theme.text }]}>🎸 Browse Genres</Text>
         </TouchableOpacity>
       </View>
       <View style={[styles.actionButtonsRow, { marginTop: -8 }]}>
         <TouchableOpacity
           onPress={onNavigateToTechniques}
-          style={[styles.quizButton, { backgroundColor: '#dc2626', borderColor: '#dc2626' }]}
+          style={[styles.quizButton, { backgroundColor: theme.primary, borderColor: theme.primary }]}
           accessibilityRole="button"
           accessibilityLabel="Learn drumming techniques"
         >
-          <Text style={[styles.quizButtonText, { color: '#ffffff' }]}>🥁 Learn Techniques</Text>
+          <Text style={[styles.quizButtonText, { color: theme.text }]}>🥁 Learn Techniques</Text>
         </TouchableOpacity>
       </View>
       {/* Drummer Spotlight Section */}
@@ -11567,7 +11567,7 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
 
             <TouchableOpacity
               onPress={() => onSelectDrummer(topMatch.drummer.id)}
-              style={[styles.viewProfileButton, { backgroundColor: '#dc2626' }]}
+              style={[styles.viewProfileButton, { backgroundColor: theme.primary }]}
               accessibilityRole="button"
             >
               <Text style={styles.viewProfileButtonText}>View Full Profile →</Text>
@@ -11765,7 +11765,7 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
         <View style={styles.progressContainer}>
           <View style={[styles.progressBar, { backgroundColor: theme.border }]}>
             <View 
-              style={[styles.progressFill, { width: `${progress}%`, backgroundColor: '#dc2626' }]} 
+              style={[styles.progressFill, { width: `${progress}%`, backgroundColor: theme.primary }]} 
             />
           </View>
           <Text style={[styles.progressText, { color: theme.secondaryText }]}>
@@ -11791,8 +11791,8 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
                 style={[
                   styles.optionCard,
                   { 
-                    backgroundColor: isSelected ? '#dc262620' : theme.card,
-                    borderColor: isSelected ? '#dc2626' : theme.border,
+                    backgroundColor: isSelected ? theme.primary + '20' : theme.card,
+                    borderColor: isSelected ? theme.primary : theme.border,
                   }
                 ]}
                 accessibilityRole="button"
@@ -12039,13 +12039,13 @@ function ComparisonResultCard({ match, drummer, theme, isMobile }) {
   const getMatchBadge = (matchType) => {
     switch (matchType) {
       case 'exact':
-        return { text: '✓ Perfect Match!', color: '#22c55e' };
+        return { text: '✓ Perfect Match!', color: theme.success };
       case 'brand':
         return { text: '⚡ Brand Match', color: '#f59e0b' };
       case 'missing':
         return { text: '➕ Add Gear', color: '#6b7280' };
       case 'different':
-        return { text: '↑ Upgrade Path', color: '#dc2626' };
+        return { text: '↑ Upgrade Path', color: theme.primary };
       default:
         return { text: '', color: theme.secondaryText };
     }
@@ -12076,7 +12076,7 @@ function ComparisonResultCard({ match, drummer, theme, isMobile }) {
       {/* Matches Section */}
       {match.matches.length > 0 && (
         <View style={styles.matchesSection}>
-          <Text style={[styles.matchesSectionTitle, { color: '#22c55e' }]}>
+          <Text style={[styles.matchesSectionTitle, { color: theme.success }]}>
             ✓ Shared Gear ({match.matches.length})
           </Text>
           {match.matches.map((item, index) => {
@@ -12108,7 +12108,7 @@ function ComparisonResultCard({ match, drummer, theme, isMobile }) {
       {/* Differences Section */}
       {match.differences.length > 0 && (
         <View style={styles.differencesSection}>
-          <Text style={[styles.differencesSectionTitle, { color: '#dc2626' }]}>
+          <Text style={[styles.differencesSectionTitle, { color: theme.primary }]}>
             ↑ Upgrade Opportunities ({match.differences.length})
           </Text>
           {match.differences.map((item, index) => {
@@ -12131,7 +12131,7 @@ function ComparisonResultCard({ match, drummer, theme, isMobile }) {
                 <Text style={[styles.drummerGearLabel, { color: theme.text }]}>
                   {drummer.name}'s gear:
                 </Text>
-                <Text style={[styles.drummerGearValue, { color: '#dc2626' }]}>
+                <Text style={[styles.drummerGearValue, { color: theme.primary }]}>
                   {item.drummerGear}
                 </Text>
                 <TouchableOpacity
@@ -12278,7 +12278,7 @@ function CompareYourKitView({ theme, onBack, drummer, onSelectDrummer }) {
             <View style={styles.shareButtons}>
               <TouchableOpacity
                 onPress={() => handleShare('twitter')}
-                style={[styles.shareButton, { backgroundColor: '#000000' }]}
+                style={[styles.shareButton, { backgroundColor: theme.shadowColor }]}
               >
                 <Text style={styles.shareButtonText}>𝕏 Twitter</Text>
               </TouchableOpacity>
@@ -12300,7 +12300,7 @@ function CompareYourKitView({ theme, onBack, drummer, onSelectDrummer }) {
           {/* View Drummer Profile CTA */}
           <TouchableOpacity
             onPress={() => onSelectDrummer(drummer.id)}
-            style={[styles.viewProfileButton, { backgroundColor: '#dc2626' }]}
+            style={[styles.viewProfileButton, { backgroundColor: theme.primary }]}
             accessibilityRole="button"
           >
             <Text style={styles.viewProfileButtonText}>View {drummer.name}'s Full Gear →</Text>
@@ -12601,7 +12601,7 @@ function NewsletterFooter({ theme }) {
                     cursor: isLoading ? 'not-allowed' : 'pointer',
                     fontSize: 16,
                     fontWeight: 600,
-                    color: '#000000',
+                    color: theme.shadowColor,
                     display: 'flex',
                     alignItems: 'center',
                     justifyContent: 'center',

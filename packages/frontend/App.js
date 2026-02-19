@@ -9749,7 +9749,8 @@ function DrummerList({
       >
         {/* Search bar skeleton - matches SearchBar dimensions */}
         <SearchBarSkeleton />
-        {/* Filter bar skeleton - matches FilterBar dimensions */}
+        {/* Action buttons render without data, no skeleton needed */}
+        {/* Filter bar skeleton - below action buttons, above drummer list (Issue #506) */}
         <FilterBarSkeleton />
         {/* Spotlight section skeleton - matches DrummerSpotlight dimensions (Issue #324) */}
         <SpotlightSkeleton />
@@ -9792,14 +9793,6 @@ function DrummerList({
           showSuggestions={showSuggestions}
           theme={theme}
           inputRef={searchInputRef}
-        />
-        <FilterBar
-          filters={filters}
-          onFilterChange={onFilterChange}
-          totalCount={drummers.length}
-          filteredCount={filteredDrummers.length}
-          onClearAll={handleClearAllFilters}
-          theme={theme}
         />
       </View>
       <View style={styles.actionButtonsRow}>
@@ -9884,6 +9877,15 @@ function DrummerList({
           <Text style={[styles.quizButtonText, { color: theme.text }]}>🥁 Learn Techniques</Text>
         </TouchableOpacity>
       </View>
+      {/* Filter Bar - positioned below action buttons, above drummer list (Issue #506) */}
+      <FilterBar
+        filters={filters}
+        onFilterChange={onFilterChange}
+        totalCount={drummers.length}
+        filteredCount={filteredDrummers.length}
+        onClearAll={handleClearAllFilters}
+        theme={theme}
+      />
       {/* Drummer Spotlight Section */}
       {spotlight && (
         <DrummerSpotlight

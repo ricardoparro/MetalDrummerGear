@@ -3468,17 +3468,17 @@ function ShareButtons({ drummerIds, drummerNames, theme }) {
       <View style={styles.shareButtons}>
         <TouchableOpacity
           onPress={handleTwitterShare}
-          style={[styles.shareButton, { backgroundColor: '#1DA1F2' }]}
+          style={[styles.shareButton, { backgroundColor: colors.buttons.ghost.bg, borderWidth: 1, borderColor: colors.buttons.ghost.border }]}
           accessibilityLabel="Share on Twitter"
         >
-          <Text style={styles.shareButtonText}>Twitter</Text>
+          <Text style={[styles.shareButtonText, { color: '#1DA1F2' }]}>𝕏 Twitter</Text>
         </TouchableOpacity>
         <TouchableOpacity
           onPress={handleFacebookShare}
-          style={[styles.shareButton, { backgroundColor: '#4267B2' }]}
+          style={[styles.shareButton, { backgroundColor: colors.buttons.ghost.bg, borderWidth: 1, borderColor: colors.buttons.ghost.border }]}
           accessibilityLabel="Share on Facebook"
         >
-          <Text style={styles.shareButtonText}>Facebook</Text>
+          <Text style={[styles.shareButtonText, { color: '#4267B2' }]}>Facebook</Text>
         </TouchableOpacity>
         {Platform.OS === 'web' && (
           <TouchableOpacity
@@ -6473,19 +6473,19 @@ function BpmTapPage({ theme, onBack, drummers, onSelectDrummer }) {
             <>
               <TouchableOpacity
                 onPress={handleCopyLink}
-                style={[styles.bpmShareButton, { backgroundColor: '#8b5cf6' }]}
+                style={[styles.bpmShareButton, { backgroundColor: colors.buttons.ghost.bg, borderWidth: 1, borderColor: colors.buttons.ghost.border }]}
                 accessibilityRole="button"
               >
-                <Text style={styles.bpmShareButtonText}>
+                <Text style={[styles.bpmShareButtonText, { color: colors.buttons.ghost.text }]}>
                   {copied ? '✓ Copied!' : '📋 Copy Link'}
                 </Text>
               </TouchableOpacity>
               <TouchableOpacity
                 onPress={handleShareTwitter}
-                style={[styles.bpmShareButton, { backgroundColor: '#1DA1F2' }]}
+                style={[styles.bpmShareButton, { backgroundColor: colors.buttons.ghost.bg, borderWidth: 1, borderColor: colors.buttons.ghost.border }]}
                 accessibilityRole="button"
               >
-                <Text style={styles.bpmShareButtonText}>🐦 Tweet</Text>
+                <Text style={[styles.bpmShareButtonText, { color: '#1DA1F2' }]}>🐦 Tweet</Text>
               </TouchableOpacity>
             </>
           )}
@@ -9831,11 +9831,11 @@ function DrummerList({
         </TouchableOpacity>
         <TouchableOpacity
           onPress={onNavigateToGearFinder}
-          style={[styles.quizButton, { backgroundColor: '#8b5cf6', borderColor: '#8b5cf6' }]}
+          style={[styles.quizButton, { backgroundColor: colors.buttons.secondary.bg, borderColor: colors.buttons.secondary.bg }]}
           accessibilityRole="button"
           accessibilityLabel="Search drummers by gear"
         >
-          <Text style={[styles.quizButtonText, { color: theme.text }]}>🔍 Gear Finder</Text>
+          <Text style={[styles.quizButtonText, { color: colors.buttons.secondary.text }]}>🔍 Gear Finder</Text>
         </TouchableOpacity>
       </View>
       <View style={[styles.actionButtonsRow, { marginTop: -8 }]}>
@@ -9849,11 +9849,11 @@ function DrummerList({
         </TouchableOpacity>
         <TouchableOpacity
           onPress={onNavigateToBpmTap}
-          style={[styles.quizButton, { backgroundColor: '#10b981', borderColor: '#10b981' }]}
+          style={[styles.quizButton, { backgroundColor: colors.buttons.secondary.bg, borderColor: colors.buttons.secondary.bg }]}
           accessibilityRole="button"
           accessibilityLabel="BPM tap calculator"
         >
-          <Text style={[styles.quizButtonText, { color: theme.text }]}>🎵 BPM Tap</Text>
+          <Text style={[styles.quizButtonText, { color: colors.buttons.secondary.text }]}>🎵 BPM Tap</Text>
         </TouchableOpacity>
       </View>
       <View style={[styles.actionButtonsRow, { marginTop: -8 }]}>
@@ -9867,11 +9867,11 @@ function DrummerList({
         </TouchableOpacity>
         <TouchableOpacity
           onPress={onNavigateToGenresList}
-          style={[styles.quizButton, { backgroundColor: '#7c3aed', borderColor: '#7c3aed' }]}
+          style={[styles.quizButton, { backgroundColor: colors.buttons.secondary.bg, borderColor: colors.buttons.secondary.bg }]}
           accessibilityRole="button"
           accessibilityLabel="Browse metal genres"
         >
-          <Text style={[styles.quizButtonText, { color: theme.text }]}>🎸 Browse Genres</Text>
+          <Text style={[styles.quizButtonText, { color: colors.buttons.secondary.text }]}>🎸 Browse Genres</Text>
         </TouchableOpacity>
       </View>
       <View style={[styles.actionButtonsRow, { marginTop: -8 }]}>
@@ -11580,15 +11580,15 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
             <View style={styles.shareButtons}>
               <TouchableOpacity
                 onPress={() => handleShare('twitter')}
-                style={[styles.shareButton, { backgroundColor: '#1DA1F2' }]}
+                style={[styles.shareButton, { backgroundColor: colors.buttons.ghost.bg, borderWidth: 1, borderColor: colors.buttons.ghost.border }]}
               >
-                <Text style={styles.shareButtonText}>𝕏 Twitter</Text>
+                <Text style={[styles.shareButtonText, { color: '#1DA1F2' }]}>𝕏 Twitter</Text>
               </TouchableOpacity>
               <TouchableOpacity
                 onPress={() => handleShare('facebook')}
-                style={[styles.shareButton, { backgroundColor: '#4267B2' }]}
+                style={[styles.shareButton, { backgroundColor: colors.buttons.ghost.bg, borderWidth: 1, borderColor: colors.buttons.ghost.border }]}
               >
-                <Text style={styles.shareButtonText}>Facebook</Text>
+                <Text style={[styles.shareButtonText, { color: '#4267B2' }]}>Facebook</Text>
               </TouchableOpacity>
               <TouchableOpacity
                 onPress={() => handleShare('copy')}
@@ -12591,7 +12591,7 @@ function NewsletterFooter({ theme }) {
                   type="submit"
                   disabled={isLoading}
                   style={{
-                    backgroundColor: isLoading ? '#a3a3a3' : '#f59e0b',
+                    backgroundColor: isLoading ? '#a3a3a3' : colors.buttons.accent.bg,
                     padding: '12px 24px',
                     borderRadius: 8,
                     border: 'none',
@@ -15538,10 +15538,10 @@ const styles = StyleSheet.create({
     borderWidth: 1,
   },
   shopButtonUS: {
-    backgroundColor: '#1a5276',
+    backgroundColor: colors.buttons.secondary.bg,
   },
   shopButtonEU: {
-    backgroundColor: '#1e8449',
+    backgroundColor: colors.buttons.secondary.bg,
   },
   shopButtonText: {
     color: '#ffffff',
@@ -15864,10 +15864,10 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   buySetupButtonUS: {
-    backgroundColor: '#1a5276',
+    backgroundColor: colors.buttons.secondary.bg,
   },
   buySetupButtonEU: {
-    backgroundColor: '#1e8449',
+    backgroundColor: colors.buttons.secondary.bg,
   },
   buySetupButtonText: {
     color: '#ffffff',
@@ -17103,7 +17103,7 @@ const styles = StyleSheet.create({
     outlineStyle: 'none',
   },
   newsletterButton: {
-    backgroundColor: '#f59e0b',
+    backgroundColor: colors.buttons.accent.bg,
     paddingHorizontal: 24,
     paddingVertical: 12,
     borderRadius: 8,
@@ -17589,7 +17589,7 @@ const styles = StyleSheet.create({
     position: 'absolute',
     top: 12,
     right: 12,
-    backgroundColor: '#f59e0b',
+    backgroundColor: colors.buttons.accent.bg,
     paddingHorizontal: 10,
     paddingVertical: 4,
     borderRadius: 12,

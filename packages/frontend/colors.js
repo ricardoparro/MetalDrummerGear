@@ -58,6 +58,14 @@ export const colors = {
     error: '#ef4444',
     info: '#3b82f6',
   },
+
+  // Button palette (4-tier system)
+  buttons: {
+    primary: { bg: '#dc2626', text: '#ffffff', hover: '#b91c1c' },
+    secondary: { bg: '#27272a', text: '#fafafa', hover: '#3f3f46' },
+    ghost: { bg: 'transparent', text: '#a1a1aa', border: '#3f3f46', hover: '#27272a' },
+    accent: { bg: '#c9a227', text: '#0a0a0a', hover: '#a68520' },
+  },
 };
 
 /**

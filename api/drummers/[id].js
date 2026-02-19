@@ -111,6 +111,12 @@ const drummers = [
     band: 'Slipknot',
     genre: 'Nu Metal / Death Metal',
     country: 'USA',
+    bands: [
+      { name: 'Slipknot', period: '1995-2013', current: false },
+      { name: 'Murderdolls', period: '2002-2011', current: false },
+      { name: 'Sinsaenum', period: '2016-2021', current: false },
+      { name: 'Vimic', period: '2016-2017', current: false }
+    ],
     image: 'https://upload.wikimedia.org/wikipedia/commons/b/b4/JoeyJordison.jpg',
     bio: 'Joey Jordison (1975-2021) was an American musician best known as the original drummer of Slipknot. His blistering speed, technical precision, and theatrical stage presence made him one of the most influential metal drummers of his generation. He also played guitar for Murderdolls and drums for various other projects.',
     gear: {
@@ -213,6 +219,13 @@ const drummers = [
     band: 'Death / Testament / Dethklok',
     genre: 'Death Metal / Thrash Metal',
     country: 'USA',
+    bands: [
+      { name: 'Dark Angel', period: '1983-1989', current: false },
+      { name: 'Death', period: '1991-1995', current: false },
+      { name: 'Strapping Young Lad', period: '1994-2007', current: false },
+      { name: 'Testament', period: '2007-2017', current: false },
+      { name: 'Dethklok', period: '2007-2014', current: false }
+    ],
     image: 'https://upload.wikimedia.org/wikipedia/commons/6/60/Gene_Hoglan_-_Testament_%28cropped%29.jpg',
     bio: 'Gene Hoglan, nicknamed "The Atomic Clock" for his precise timing, is one of the most respected drummers in extreme metal. Born in 1967, he has played with Death, Dark Angel, Testament, Strapping Young Lad, Fear Factory, and Dethklok. His combination of speed, power, and musicality has influenced countless metal drummers.',
     gear: {
@@ -315,6 +328,12 @@ const drummers = [
     band: 'Slayer',
     genre: 'Thrash Metal',
     country: 'Cuba/USA',
+    bands: [
+      { name: 'Slayer', period: '1981-1992, 2001-2013', current: false },
+      { name: 'Fantômas', period: '1998-present', current: true },
+      { name: 'Suicidal Tendencies', period: '2016-present', current: true },
+      { name: 'Dead Cross', period: '2015-present', current: true }
+    ],
     image: 'https://upload.wikimedia.org/wikipedia/commons/d/df/Dave_Lombardo_8.5.14.jpeg',
     bio: 'Dave Lombardo, born in Cuba in 1965, is widely regarded as one of the greatest drummers in metal history. As the original drummer of Slayer, he pioneered the double bass drumming style that defined thrash metal. His work on albums like "Reign in Blood" is considered groundbreaking. He has also played with Fantomas, Suicidal Tendencies, and Dead Cross.',
     gear: {
@@ -549,6 +568,10 @@ const drummers = [
     band: 'Sepultura / Slipknot',
     genre: 'Thrash Metal / Nu Metal',
     country: 'Brazil',
+    bands: [
+      { name: 'Sepultura', period: '2011-2024', current: false },
+      { name: 'Slipknot', period: '2024-present', current: true }
+    ],
     image: 'https://upload.wikimedia.org/wikipedia/commons/8/86/Sepultura_-_2023219214143_2023-08-07_Sepultura_-_Sven_-_1D_X_MK_II_-_0650_-_AK8I2527.jpg',
     bio: 'Eloy Casagrande, born in 1990, is a Brazilian drummer who became Sepultura\'s drummer in 2011 and joined Slipknot in 2024. Known for his explosive speed, technical prowess, and energetic performances, he brought new life to Sepultura\'s sound. His drumming style combines traditional metal with modern technical elements, making him one of the most exciting drummers in contemporary metal.',
     gear: {
@@ -641,6 +664,12 @@ const drummers = [
     band: 'Slipknot / Suicidal Tendencies',
     genre: 'Nu Metal / Hardcore',
     country: 'USA',
+    bands: [
+      { name: 'Against Me!', period: '2010', current: false },
+      { name: 'Madball', period: '2011-2013', current: false },
+      { name: 'Slipknot', period: '2014-2023', current: false },
+      { name: 'Suicidal Tendencies', period: '2023-present', current: true }
+    ],
     image: 'https://upload.wikimedia.org/wikipedia/commons/4/46/Suicidal_Tendencies_Rockharz_2024_18.jpg',
     bio: 'Jay Weinberg, born in 1990, is the son of E Street Band drummer Max Weinberg. He joined Slipknot in 2014, becoming their drummer after Joey Jordison\'s departure. Before Slipknot, he briefly played with Against Me! and Madball. His powerful, aggressive style honored Slipknot\'s legacy while adding his own intensity. In 2023, he joined Suicidal Tendencies.',
     gear: {
@@ -673,6 +702,11 @@ const drummers = [
     band: 'Pantera / Damageplan / Hellyeah',
     genre: 'Groove Metal / Heavy Metal',
     country: 'USA',
+    bands: [
+      { name: 'Pantera', period: '1981-2003', current: false },
+      { name: 'Damageplan', period: '2003-2004', current: false },
+      { name: 'Hellyeah', period: '2006-2018', current: false }
+    ],
     image: 'https://upload.wikimedia.org/wikipedia/commons/5/55/VinniePaul2008.JPG',
     bio: 'Vinnie Paul (1964-2018) was the co-founder and drummer of Pantera, one of the most influential heavy metal bands of all time. Alongside his brother Dimebag Darrell, he helped define the groove metal sound. Pantera received four Grammy nominations for Best Metal Performance. After Pantera\'s breakup, he formed Damageplan with his brother, and later Hellyeah. His drumming style featured powerful grooves and innovative double-bass patterns that influenced countless metal drummers. Ranked among the greatest metal drummers of all time.',
     gear: {
@@ -703,6 +737,11 @@ const drummers = [
     band: 'Anthrax / S.O.D. / Pantera',
     genre: 'Thrash Metal',
     country: 'USA',
+    bands: [
+      { name: 'Anthrax', period: '1983-present', current: true },
+      { name: 'Stormtroopers of Death', period: '1985-1999', current: false },
+      { name: 'Pantera', period: '2022-present', current: true }
+    ],
     image: 'https://upload.wikimedia.org/wikipedia/commons/1/11/2017_Anthrax_-_Charlie_Benante_-_by_2eight_-_DSC1986_%28cropped%29.jpg',
     bio: 'Charlie Benante, born in 1962 in The Bronx, New York, is a pioneer of thrash metal drumming and credited with popularizing the blast beat technique. He joined Anthrax in 1983 and has appeared on all 11 of the band\'s studio albums. Known for his extremely fast double kick technique, Benante is also a talented guitarist who contributed lead guitar to S.O.D.\'s "Speak English or Die" album. He serves as Anthrax\'s main composer and is a graphic artist who created many of their album covers and T-shirt designs. In 2022, he joined the reunited Pantera, filling in for his late friend Vinnie Paul.',
     gear: {
@@ -734,6 +773,13 @@ const drummers = [
     band: 'Dream Theater / Liquid Tension Experiment / The Winery Dogs',
     genre: 'Progressive Metal',
     country: 'USA',
+    bands: [
+      { name: 'Dream Theater', period: '1985-2010, 2023-present', current: true },
+      { name: 'Liquid Tension Experiment', period: '1997-present', current: true },
+      { name: 'Transatlantic', period: '1999-present', current: true },
+      { name: 'The Winery Dogs', period: '2012-present', current: true },
+      { name: 'Sons of Apollo', period: '2017-present', current: true }
+    ],
     image: 'https://upload.wikimedia.org/wikipedia/commons/7/77/Mike_Portnoy.jpg',
     bio: 'Mike Portnoy, born in 1967 in Long Beach, New York, is one of the most influential progressive metal drummers of all time. He co-founded Dream Theater in 1985 and was the band\'s drummer and lyricist for 25 years, helping define the progressive metal genre. A recipient of over 30 Drummer of the Year awards from Modern Drummer magazine, Portnoy is known for his technical proficiency, complex time signatures, and theatrical live performances. After leaving Dream Theater in 2010, he has played with numerous projects including Avenged Sevenfold, Adrenaline Mob, The Winery Dogs, Flying Colors, Sons of Apollo, and Liquid Tension Experiment. In 2023, he rejoined Dream Theater for their reunion tour. His drumming style combines jazz fusion influences with heavy metal power, featuring intricate double bass patterns and creative use of electronics.',
     gear: {
@@ -946,6 +992,12 @@ const drummers = [
     band: 'Mayhem',
     genre: 'Black Metal',
     country: 'Norway',
+    bands: [
+      { name: 'Mayhem', period: '1988-present', current: true },
+      { name: 'Arcturus', period: '1991-2007', current: false },
+      { name: 'Dimmu Borgir', period: '1999-present', current: true },
+      { name: 'Shining', period: '2011-present', current: true }
+    ],
     image: 'https://upload.wikimedia.org/wikipedia/commons/5/58/Mayhem_-_Jalometalli_2008_-_Hellhammer_01_crop.JPG',
     bio: 'Jan Axel Blomberg, known as Hellhammer, born in 1969, is a Norwegian drummer best known for his work with black metal pioneers Mayhem. He joined Mayhem in 1988 and has been a constant presence through the band\'s turbulent history. Hellhammer is credited with helping define the black metal drumming style, characterized by fast blast beats and raw, aggressive playing. Beyond Mayhem, he has played with numerous projects including Arcturus, Dimmu Borgir, and Shining. His influence on extreme metal drumming is immeasurable.',
     gear: {

@@ -1,5 +1,13 @@
 // Filter options configuration - extracted for code splitting
 export const FILTER_OPTIONS = {
+  sortOptions: [
+    { value: 'name-asc', label: 'A-Z (Name)' },
+    { value: 'name-desc', label: 'Z-A (Name)' },
+    { value: 'band', label: 'By Band' },
+    { value: 'genre', label: 'By Genre' },
+    { value: 'country', label: 'By Country' },
+    { value: 'recent', label: 'Recently Added' },
+  ],
   genres: [
     { value: 'thrash', label: 'Thrash Metal' },
     { value: 'death', label: 'Death Metal' },

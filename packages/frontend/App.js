@@ -4,6 +4,7 @@ import { Image } from 'expo-image';
 import { ThemeProvider, useTheme } from './ThemeContext';
 import { colors } from './colors';
 import { fontSize, lineHeight, fontWeight, textStyles } from './typography';
+import { spacing, space } from './spacing';
 import { useState, useEffect, useCallback, useMemo, useRef, lazy, Suspense, startTransition } from 'react';
 import { getAffiliateLinks, extractPrimaryProduct, getThomannLink, getSweetwaterLink } from './affiliateLinks';
 import { calculateKitCost, formatPrice } from './gearPrices';
@@ -14909,9 +14910,9 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   header: {
-    paddingTop: 50,
-    paddingBottom: 20,
-    paddingHorizontal: 20,
+    paddingTop: spacing[12],       // 48px
+    paddingBottom: spacing[5],     // 20px
+    paddingHorizontal: spacing[5], // 20px
     alignItems: 'center',
   },
   headerContent: {
@@ -14931,13 +14932,13 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   listContainer: {
-    paddingHorizontal: 20,
-    paddingBottom: 20,
+    paddingHorizontal: spacing[5], // 20px
+    paddingBottom: spacing[5],     // 20px
   },
   card: {
-    padding: 16,
-    marginBottom: 12,
-    borderRadius: 8,
+    padding: spacing[4],           // 16px
+    marginBottom: spacing[3],      // 12px
+    borderRadius: spacing[2],      // 8px
     borderWidth: 1,
   },
   cardContent: {
@@ -14948,7 +14949,7 @@ const styles = StyleSheet.create({
     width: 60,
     height: 60,
     borderRadius: 30,
-    marginRight: 16,
+    marginRight: spacing[4],       // 16px
   },
   cardText: {
     flex: 1,
@@ -14956,7 +14957,7 @@ const styles = StyleSheet.create({
   drummerName: {
     fontSize: fontSize.lg,
     fontWeight: fontWeight.bold,
-    marginBottom: 4,
+    marginBottom: spacing[1],      // 4px
   },
   drummerBand: {
     fontSize: fontSize.base,
@@ -14970,10 +14971,10 @@ const styles = StyleSheet.create({
     flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
-    padding: 20,
+    padding: spacing[5],           // 20px
   },
   loadingText: {
-    marginTop: 10,
+    marginTop: spacing[3],         // 12px (was 10)
     fontSize: fontSize.base,
   },
   errorText: {
@@ -14982,7 +14983,7 @@ const styles = StyleSheet.create({
     textAlign: 'center',
   },
   errorHint: {
-    marginTop: 8,
+    marginTop: spacing[2],         // 8px
     fontSize: fontSize.sm,
     textAlign: 'center',
   },
@@ -14990,16 +14991,16 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   detailContent: {
-    padding: 20,
+    padding: spacing[5],           // 20px
   },
   backButton: {
-    paddingVertical: 12, // Increased for WCAG AA touch target (was 10)
-    paddingHorizontal: 16,
-    borderRadius: 8,
+    paddingVertical: spacing[3],   // 12px - WCAG AA touch target
+    paddingHorizontal: spacing[4], // 16px
+    borderRadius: spacing[2],      // 8px
     borderWidth: 1,
     alignSelf: 'flex-start',
-    marginBottom: 20,
-    minHeight: 48, // WCAG AA touch target minimum
+    marginBottom: spacing[5],      // 20px
+    minHeight: spacing[12],        // 48px - WCAG AA touch target minimum
   },
   backButtonText: {
     fontSize: fontSize.base,
@@ -15007,13 +15008,13 @@ const styles = StyleSheet.create({
   },
   detailHeader: {
     flexDirection: 'row',
-    marginBottom: 20,
+    marginBottom: spacing[5],      // 20px
   },
   detailImage: {
     width: 120,
     height: 120,
-    borderRadius: 12,
-    marginRight: 20,
+    borderRadius: spacing[3],      // 12px
+    marginRight: spacing[5],       // 20px
   },
   detailHeaderText: {
     flex: 1,
@@ -15022,27 +15023,27 @@ const styles = StyleSheet.create({
   detailName: {
     fontSize: fontSize.xl,
     fontWeight: fontWeight.bold,
-    marginBottom: 4,
+    marginBottom: spacing[1],      // 4px
   },
   detailBand: {
     fontSize: fontSize.lg,
-    marginBottom: 4,
+    marginBottom: spacing[1],      // 4px
   },
   detailMeta: {
     fontSize: fontSize.sm,
     fontStyle: 'italic',
   },
   section: {
-    padding: 16,
-    borderRadius: 12,
+    padding: spacing[4],           // 16px
+    borderRadius: spacing[3],      // 12px
     borderWidth: 1,
-    marginBottom: 16,
+    marginBottom: spacing[4],      // 16px
   },
   // Last Updated Timestamp styles (Issue #449)
   lastUpdatedContainer: {
-    paddingVertical: 16,
-    paddingHorizontal: 4,
-    marginTop: 8,
+    paddingVertical: spacing[4],   // 16px
+    paddingHorizontal: spacing[1], // 4px
+    marginTop: spacing[2],         // 8px
     borderTopWidth: 1,
     alignItems: 'center',
   },
@@ -15053,7 +15054,7 @@ const styles = StyleSheet.create({
   sectionTitle: {
     fontSize: fontSize.xl,
     fontWeight: fontWeight.bold,
-    marginBottom: 12,
+    marginBottom: spacing[3],      // 12px
   },
   bioText: {
     fontSize: fontSize.base,
@@ -15069,8 +15070,8 @@ const styles = StyleSheet.create({
   bioPageHeader: {
     flexDirection: 'row',
     alignItems: 'flex-start',
-    marginBottom: 24,
-    marginTop: 16,
+    marginBottom: spacing[6],      // 24px
+    marginTop: spacing[4],         // 16px
   },
   bioPageHeaderMobile: {
     flexDirection: 'column',
@@ -15081,14 +15082,14 @@ const styles = StyleSheet.create({
     width: 150,
     height: 150,
     borderRadius: 75,
-    marginRight: 24,
+    marginRight: spacing[6],       // 24px
   },
   bioPageImageMobile: {
     width: 120,
     height: 120,
     borderRadius: 60,
     marginRight: 0,
-    marginBottom: 16,
+    marginBottom: spacing[4],      // 16px
   },
   bioPageHeaderText: {
     flex: 1,
@@ -15096,33 +15097,33 @@ const styles = StyleSheet.create({
   bioPageTitle: {
     fontSize: fontSize['2xl'],
     fontWeight: fontWeight.bold,
-    marginBottom: 4,
+    marginBottom: spacing[1],      // 4px
   },
   bioPageSubtitle: {
     fontSize: fontSize.lg,
-    marginBottom: 12,
+    marginBottom: spacing[3],      // 12px
   },
   bioSection: {
-    padding: 20,
-    borderRadius: 12,
+    padding: spacing[5],           // 20px
+    borderRadius: spacing[3],      // 12px
     borderWidth: 1,
-    marginBottom: 16,
+    marginBottom: spacing[4],      // 16px
   },
   bioSectionTitle: {
     fontSize: fontSize.xl,
     fontWeight: fontWeight.bold,
-    marginBottom: 16,
+    marginBottom: spacing[4],      // 16px
   },
   bioSectionContent: {
     fontSize: fontSize.base,
     lineHeight: lineHeight.lg,
   },
   careerTimeline: {
-    gap: 12,
+    gap: spacing[3],               // 12px
   },
   careerTimelineItem: {
     flexDirection: 'row',
-    gap: 16,
+    gap: spacing[4],               // 16px
   },
   careerTimelineYear: {
     fontSize: fontSize.sm,
@@ -15135,19 +15136,19 @@ const styles = StyleSheet.create({
     lineHeight: lineHeight.sm,
   },
   discographySection: {
-    marginBottom: 20,
+    marginBottom: spacing[5],      // 20px
   },
   discographyTitle: {
     fontSize: fontSize.lg,
     fontWeight: fontWeight.semibold,
-    marginBottom: 12,
+    marginBottom: spacing[3],      // 12px
   },
   albumItem: {
-    paddingVertical: 12,
+    paddingVertical: spacing[3],   // 12px
     borderBottomWidth: 1,
   },
   albumInfo: {
-    marginBottom: 4,
+    marginBottom: spacing[1],      // 4px
   },
   albumName: {
     fontSize: fontSize.base,
@@ -15160,13 +15161,13 @@ const styles = StyleSheet.create({
   albumNote: {
     fontSize: fontSize.sm,
     fontStyle: 'italic',
-    marginTop: 4,
+    marginTop: spacing[1],         // 4px
   },
   toursSection: {
-    marginTop: 16,
+    marginTop: spacing[4],         // 16px
   },
   tourItem: {
-    paddingVertical: 8,
+    paddingVertical: spacing[2],   // 8px
   },
   tourName: {
     fontSize: fontSize.base,
@@ -15177,11 +15178,11 @@ const styles = StyleSheet.create({
     marginTop: 2,
   },
   triviaList: {
-    gap: 10,
+    gap: spacing[3],               // 12px (was 10)
   },
   triviaItem: {
     flexDirection: 'row',
-    gap: 12,
+    gap: spacing[3],               // 12px
   },
   triviaBullet: {
     fontSize: fontSize.lg,
@@ -15193,45 +15194,45 @@ const styles = StyleSheet.create({
     lineHeight: lineHeight.sm,
   },
   sourcesSection: {
-    marginTop: 8,
+    marginTop: spacing[2],         // 8px
   },
   sourcesList: {
     flexDirection: 'row',
     flexWrap: 'wrap',
-    gap: 16,
+    gap: spacing[4],               // 16px
   },
   sourceItem: {
-    paddingVertical: 4,
+    paddingVertical: spacing[1],   // 4px
   },
   sourceText: {
     fontSize: fontSize.sm,
     textDecorationLine: 'underline',
   },
   bioPageCTA: {
-    padding: 24,
-    borderRadius: 12,
+    padding: spacing[6],           // 24px
+    borderRadius: spacing[3],      // 12px
     borderWidth: 2,
-    marginTop: 16,
-    marginBottom: 24,
+    marginTop: spacing[4],         // 16px
+    marginBottom: spacing[6],      // 24px
     alignItems: 'center',
   },
   bioPageCTATitle: {
     fontSize: fontSize.xl,
     fontWeight: fontWeight.bold,
-    marginBottom: 8,
+    marginBottom: spacing[2],      // 8px
     textAlign: 'center',
   },
   bioPageCTADescription: {
     fontSize: fontSize.base,
-    marginBottom: 16,
+    marginBottom: spacing[4],      // 16px
     textAlign: 'center',
     lineHeight: lineHeight.sm,
   },
   bioPageCTAButton: {
     backgroundColor: '#dc2626',
-    paddingHorizontal: 24,
-    paddingVertical: 12,
-    borderRadius: 8,
+    paddingHorizontal: spacing[6], // 24px
+    paddingVertical: spacing[3],   // 12px
+    borderRadius: spacing[2],      // 8px
   },
   bioPageCTAButtonText: {
     color: '#ffffff',
@@ -15245,8 +15246,8 @@ const styles = StyleSheet.create({
   bandPageHeader: {
     flexDirection: 'row',
     alignItems: 'flex-start',
-    marginBottom: 24,
-    gap: 20,
+    marginBottom: spacing[6],      // 24px
+    gap: spacing[5],               // 20px
   },
   bandPageHeaderMobile: {
     flexDirection: 'column',
@@ -15259,8 +15260,8 @@ const styles = StyleSheet.create({
   bandNameRow: {
     flexDirection: 'row',
     alignItems: 'center',
-    gap: 12,
-    marginBottom: 8,
+    gap: spacing[3],               // 12px
+    marginBottom: spacing[2],      // 8px
     flexWrap: 'wrap',
   },
   bandPageTitle: {
@@ -15269,12 +15270,12 @@ const styles = StyleSheet.create({
   },
   bandPageSubtitle: {
     fontSize: fontSize.lg,
-    marginBottom: 12,
+    marginBottom: spacing[3],      // 12px
   },
   bandStatusBadge: {
-    paddingHorizontal: 12,
-    paddingVertical: 4,
-    borderRadius: 16,
+    paddingHorizontal: spacing[3], // 12px
+    paddingVertical: spacing[1],   // 4px
+    borderRadius: spacing[4],      // 16px
   },
   bandStatusText: {
     color: '#ffffff',
@@ -15285,57 +15286,57 @@ const styles = StyleSheet.create({
   bandGenres: {
     flexDirection: 'row',
     flexWrap: 'wrap',
-    gap: 8,
+    gap: spacing[2],               // 8px
   },
   bandGenreTag: {
-    paddingHorizontal: 12,
-    paddingVertical: 6,
-    borderRadius: 16,
+    paddingHorizontal: spacing[3], // 12px
+    paddingVertical: spacing[2],   // 8px (was 6)
+    borderRadius: spacing[4],      // 16px
   },
   bandGenreText: {
     fontSize: fontSize.sm,
     fontWeight: fontWeight.medium,
   },
   bandSummarySection: {
-    padding: 20,
-    borderRadius: 12,
+    padding: spacing[5],           // 20px
+    borderRadius: spacing[3],      // 12px
     borderWidth: 1,
-    marginBottom: 20,
+    marginBottom: spacing[5],      // 20px
   },
   bandSummaryText: {
     fontSize: fontSize.base,
     lineHeight: lineHeight.lg,
   },
   drummerHistorySection: {
-    padding: 20,
-    borderRadius: 12,
+    padding: spacing[5],           // 20px
+    borderRadius: spacing[3],      // 12px
     borderWidth: 1,
-    marginBottom: 20,
+    marginBottom: spacing[5],      // 20px
   },
   drummerHistorySectionMobile: {
-    padding: 16,
+    padding: spacing[4],           // 16px
   },
   drummerHistorySectionTitle: {
     fontSize: fontSize.lg,
     fontWeight: fontWeight.bold,
     letterSpacing: 1,
-    marginBottom: 16,
+    marginBottom: spacing[4],      // 16px
     borderBottomWidth: 2,
     borderBottomColor: '#dc2626',
-    paddingBottom: 12,
+    paddingBottom: spacing[3],     // 12px
   },
   drummerHistoryList: {
     gap: 0,
   },
   drummerHistoryItem: {
     flexDirection: 'row',
-    paddingVertical: 16,
-    gap: 16,
+    paddingVertical: spacing[4],   // 16px
+    gap: spacing[4],               // 16px
     alignItems: 'flex-start',
   },
   drummerHistoryLeft: {
     alignItems: 'center',
-    gap: 8,
+    gap: spacing[2],               // 8px
   },
   drummerHistoryIcon: {
     fontSize: fontSize.xl,
@@ -15352,9 +15353,9 @@ const styles = StyleSheet.create({
   drummerHistoryHeader: {
     flexDirection: 'row',
     alignItems: 'center',
-    gap: 8,
+    gap: spacing[2],               // 8px
     flexWrap: 'wrap',
-    marginBottom: 4,
+    marginBottom: spacing[1],      // 4px
   },
   drummerHistoryName: {
     fontSize: fontSize.lg,
@@ -15366,10 +15367,10 @@ const styles = StyleSheet.create({
   drummerHistoryNotes: {
     fontSize: fontSize.sm,
     fontStyle: 'italic',
-    marginBottom: 8,
+    marginBottom: spacing[2],      // 8px
   },
   drummerHistoryLink: {
-    marginTop: 4,
+    marginTop: spacing[1],         // 4px
   },
   drummerHistoryLinkText: {
     color: '#60a5fa',
@@ -15377,26 +15378,26 @@ const styles = StyleSheet.create({
     fontWeight: fontWeight.medium,
   },
   relatedBandsSection: {
-    padding: 20,
-    borderRadius: 12,
+    padding: spacing[5],           // 20px
+    borderRadius: spacing[3],      // 12px
     borderWidth: 1,
-    marginBottom: 20,
+    marginBottom: spacing[5],      // 20px
   },
   relatedBandsSectionTitle: {
     fontSize: fontSize.lg,
     fontWeight: fontWeight.bold,
     letterSpacing: 1,
-    marginBottom: 16,
+    marginBottom: spacing[4],      // 16px
   },
   relatedBandsList: {
     flexDirection: 'row',
     flexWrap: 'wrap',
-    gap: 10,
+    gap: spacing[3],               // 12px (was 10)
   },
   relatedBandTag: {
-    paddingHorizontal: 16,
-    paddingVertical: 8,
-    borderRadius: 20,
+    paddingHorizontal: spacing[4], // 16px
+    paddingVertical: spacing[2],   // 8px
+    borderRadius: spacing[5],      // 20px
   },
   relatedBandText: {
     fontSize: fontSize.sm,
@@ -15408,18 +15409,18 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     justifyContent: 'space-between',
     alignItems: 'center',
-    paddingVertical: 4,
+    paddingVertical: spacing[1],   // 4px
   },
   quotesExpandIcon: {
     fontSize: fontSize.sm,
     fontWeight: fontWeight.semibold,
   },
   quotesContainer: {
-    marginTop: 16,
+    marginTop: spacing[4],         // 16px
   },
   quoteCard: {
-    marginBottom: 16,
-    paddingLeft: 16,
+    marginBottom: spacing[4],      // 16px
+    paddingLeft: spacing[4],       // 16px
     borderLeftWidth: 3,
     borderLeftColor: '#dc2626',
   },
@@ -15427,7 +15428,7 @@ const styles = StyleSheet.create({
     fontSize: fontSize.base,
     lineHeight: lineHeight.base,
     fontStyle: 'italic',
-    marginBottom: 8,
+    marginBottom: spacing[2],      // 8px
   },
   quoteSource: {
     fontSize: fontSize.sm,
@@ -15438,7 +15439,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     justifyContent: 'space-between',
     alignItems: 'center',
-    paddingVertical: 4,
+    paddingVertical: spacing[1],   // 4px
   },
   timelineTitleContainer: {
     flex: 1,
@@ -15452,21 +15453,21 @@ const styles = StyleSheet.create({
     fontWeight: fontWeight.semibold,
   },
   timelineContainer: {
-    marginTop: 16,
+    marginTop: spacing[4],         // 16px
   },
   timelineScrollView: {
-    marginHorizontal: -20,
+    marginHorizontal: -spacing[5], // -20px
     paddingHorizontal: 0,
   },
   timelineScroll: {
-    paddingHorizontal: 20,
-    paddingBottom: 8,
-    gap: 12,
+    paddingHorizontal: spacing[5], // 20px
+    paddingBottom: spacing[2],     // 8px
+    gap: spacing[3],               // 12px
   },
   timelineEraCard: {
     width: 260,
-    padding: 16,
-    borderRadius: 12,
+    padding: spacing[4],           // 16px
+    borderRadius: spacing[3],      // 12px
     borderWidth: 2,
     position: 'relative',
     overflow: 'visible',
@@ -15477,11 +15478,11 @@ const styles = StyleSheet.create({
   },
   timelineMarker: {
     position: 'absolute',
-    top: -12,
-    left: 20,
-    width: 24,
-    height: 24,
-    borderRadius: 12,
+    top: -spacing[3],              // -12px
+    left: spacing[5],              // 20px
+    width: spacing[6],             // 24px
+    height: spacing[6],            // 24px
+    borderRadius: spacing[3],      // 12px
     justifyContent: 'center',
     alignItems: 'center',
     zIndex: 2,
@@ -15502,24 +15503,24 @@ const styles = StyleSheet.create({
   timelineEraTitle: {
     fontSize: fontSize.lg,
     fontWeight: fontWeight.bold,
-    marginTop: 8,
-    marginBottom: 4,
+    marginTop: spacing[2],         // 8px
+    marginBottom: spacing[1],      // 4px
   },
   timelineYears: {
     fontSize: fontSize.sm,
     fontWeight: fontWeight.semibold,
-    marginBottom: 8,
+    marginBottom: spacing[2],      // 8px
   },
   timelineDescription: {
     fontSize: fontSize.sm,
     lineHeight: lineHeight.xs,
-    marginBottom: 12,
+    marginBottom: spacing[3],      // 12px
   },
   timelineAlbumBadge: {
     alignSelf: 'flex-start',
-    paddingHorizontal: 10,
-    paddingVertical: 4,
-    borderRadius: 12,
+    paddingHorizontal: spacing[3], // 12px (was 10)
+    paddingVertical: spacing[1],   // 4px
+    borderRadius: spacing[3],      // 12px
   },
   timelineAlbumCount: {
     fontSize: fontSize.xs,
@@ -15527,7 +15528,7 @@ const styles = StyleSheet.create({
   },
   timelineSelectedIndicator: {
     position: 'absolute',
-    bottom: -20,
+    bottom: -spacing[5],           // -20px
     left: '50%',
     transform: [{ translateX: -30 }],
   },
@@ -15538,62 +15539,62 @@ const styles = StyleSheet.create({
   },
   timelineSwipeHint: {
     alignItems: 'center',
-    paddingVertical: 8,
+    paddingVertical: spacing[2],   // 8px
   },
   timelineSwipeText: {
     fontSize: fontSize.xs,
     fontStyle: 'italic',
   },
   timelineDetail: {
-    marginTop: 24,
-    padding: 16,
-    borderRadius: 12,
+    marginTop: spacing[6],         // 24px
+    padding: spacing[4],           // 16px
+    borderRadius: spacing[3],      // 12px
     borderWidth: 1,
   },
   timelineDetailHeader: {
-    marginBottom: 16,
-    paddingBottom: 12,
+    marginBottom: spacing[4],      // 16px
+    paddingBottom: spacing[3],     // 12px
     borderBottomWidth: 1,
     borderBottomColor: 'rgba(128,128,128,0.2)',
   },
   timelineDetailTitle: {
     fontSize: fontSize.xl,
     fontWeight: fontWeight.bold,
-    marginBottom: 4,
+    marginBottom: spacing[1],      // 4px
   },
   timelineDetailYears: {
     fontSize: fontSize.base,
     fontWeight: fontWeight.semibold,
   },
   timelineDetailSection: {
-    marginBottom: 16,
+    marginBottom: spacing[4],      // 16px
   },
   timelineDetailLabel: {
     fontSize: fontSize.xs,
     fontWeight: fontWeight.semibold,
     textTransform: 'uppercase',
     letterSpacing: 1,
-    marginBottom: 8,
+    marginBottom: spacing[2],      // 8px
   },
   timelineAlbumsList: {
     flexDirection: 'row',
     flexWrap: 'wrap',
-    gap: 8,
+    gap: spacing[2],               // 8px
   },
   timelineAlbumChip: {
-    paddingHorizontal: 12,
-    paddingVertical: 6,
-    borderRadius: 16,
+    paddingHorizontal: spacing[3], // 12px
+    paddingVertical: spacing[2],   // 8px (was 6)
+    borderRadius: spacing[4],      // 16px
   },
   timelineAlbumName: {
     fontSize: fontSize.sm,
     fontWeight: fontWeight.medium,
   },
   timelineGearGrid: {
-    gap: 12,
+    gap: spacing[3],               // 12px
   },
   timelineGearItem: {
-    marginBottom: 4,
+    marginBottom: spacing[1],      // 4px
   },
   timelineGearLabel: {
     fontSize: fontSize.xs,
@@ -15609,12 +15610,12 @@ const styles = StyleSheet.create({
     fontStyle: 'italic',
   },
   gearSection: {
-    marginBottom: 12,
+    marginBottom: spacing[3],      // 12px
   },
   gearTitle: {
     fontSize: fontSize.base,
     fontWeight: fontWeight.semibold,
-    marginBottom: 4,
+    marginBottom: spacing[1],      // 4px
   },
   gearContent: {
     fontSize: fontSize.sm,
@@ -15622,13 +15623,13 @@ const styles = StyleSheet.create({
   },
   shopLinksContainer: {
     flexDirection: 'row',
-    marginTop: 8,
-    gap: 8,
+    marginTop: spacing[2],         // 8px
+    gap: spacing[2],               // 8px
   },
   shopButton: {
-    paddingVertical: 6,
-    paddingHorizontal: 12,
-    borderRadius: 16,
+    paddingVertical: spacing[2],   // 8px (was 6)
+    paddingHorizontal: spacing[3], // 12px
+    borderRadius: spacing[4],      // 16px
     borderWidth: 1,
   },
   shopButtonUS: {
@@ -15648,26 +15649,26 @@ const styles = StyleSheet.create({
   galleryImage: {
     width: 200,
     height: 150,
-    borderRadius: 8,
-    marginRight: 12,
+    borderRadius: spacing[2],      // 8px
+    marginRight: spacing[3],       // 12px
   },
   // Gear Timeline styles
   timelineSection: {
     overflow: 'hidden',
   },
   timelineHeader: {
-    paddingBottom: 8,
+    paddingBottom: spacing[2],     // 8px
   },
   timelineTitleRow: {
     flexDirection: 'row',
     alignItems: 'center',
-    gap: 12,
-    marginBottom: 4,
+    gap: spacing[3],               // 12px
+    marginBottom: spacing[1],      // 4px
   },
   timelineBadge: {
-    paddingHorizontal: 8,
+    paddingHorizontal: spacing[2], // 8px
     paddingVertical: 2,
-    borderRadius: 12,
+    borderRadius: spacing[3],      // 12px
   },
   timelineBadgeText: {
     color: '#fff',
@@ -15676,17 +15677,17 @@ const styles = StyleSheet.create({
   },
   timelineSubtitle: {
     fontSize: fontSize.sm,
-    marginBottom: 8,
+    marginBottom: spacing[2],      // 8px
   },
   timelineContent: {
-    marginTop: 16,
+    marginTop: spacing[4],         // 16px
   },
   timelineScroll: {
-    marginBottom: 8,
+    marginBottom: spacing[2],      // 8px
   },
   timelineScrollContent: {
-    paddingRight: 16,
-    paddingVertical: 8,
+    paddingRight: spacing[4],      // 16px
+    paddingVertical: spacing[2],   // 8px
   },
   timelineEraWrapper: {
     flexDirection: 'row',
@@ -15694,8 +15695,8 @@ const styles = StyleSheet.create({
   },
   timelineEraCard: {
     width: 140,
-    padding: 12,
-    borderRadius: 12,
+    padding: spacing[3],           // 12px
+    borderRadius: spacing[3],      // 12px
     borderWidth: 2,
     alignItems: 'center',
     justifyContent: 'center',
@@ -15707,43 +15708,43 @@ const styles = StyleSheet.create({
   timelineEraYears: {
     fontSize: fontSize.xs,
     fontWeight: fontWeight.semibold,
-    marginBottom: 4,
+    marginBottom: spacing[1],      // 4px
   },
   timelineEraName: {
     fontSize: fontSize.sm,
     fontWeight: fontWeight.bold,
     textAlign: 'center',
-    marginBottom: 4,
+    marginBottom: spacing[1],      // 4px
   },
   timelineEraAlbums: {
     fontSize: fontSize.xs,
-    marginTop: 4,
+    marginTop: spacing[1],         // 4px
   },
   timelineConnector: {
-    width: 24,
+    width: spacing[6],             // 24px
     height: 2,
-    marginHorizontal: 4,
+    marginHorizontal: spacing[1],  // 4px
   },
   timelineSwipeHint: {
     fontSize: fontSize.xs,
     textAlign: 'center',
-    marginTop: 8,
-    marginBottom: 16,
+    marginTop: spacing[2],         // 8px
+    marginBottom: spacing[4],      // 16px
     fontStyle: 'italic',
   },
   timelineDetail: {
-    marginTop: 16,
-    padding: 16,
-    borderRadius: 12,
+    marginTop: spacing[4],         // 16px
+    padding: spacing[4],           // 16px
+    borderRadius: spacing[3],      // 12px
     borderWidth: 1,
   },
   timelineDetailHeader: {
     flexDirection: 'row',
     justifyContent: 'space-between',
     alignItems: 'center',
-    marginBottom: 8,
+    marginBottom: spacing[2],      // 8px
     flexWrap: 'wrap',
-    gap: 8,
+    gap: spacing[2],               // 8px
   },
   timelineDetailTitle: {
     fontSize: fontSize.lg,
@@ -15755,43 +15756,43 @@ const styles = StyleSheet.create({
   },
   timelineDetailDescription: {
     fontSize: fontSize.sm,
-    marginBottom: 12,
+    marginBottom: spacing[3],      // 12px
     lineHeight: lineHeight.sm,
   },
   timelineDetailLabel: {
     fontSize: fontSize.sm,
     fontWeight: fontWeight.semibold,
-    marginBottom: 8,
+    marginBottom: spacing[2],      // 8px
   },
   timelineAlbumsSection: {
-    marginBottom: 16,
+    marginBottom: spacing[4],      // 16px
   },
   timelineAlbumsList: {
     flexDirection: 'row',
     flexWrap: 'wrap',
-    gap: 8,
+    gap: spacing[2],               // 8px
   },
   timelineAlbumTag: {
-    paddingHorizontal: 10,
-    paddingVertical: 4,
-    borderRadius: 16,
+    paddingHorizontal: spacing[3], // 12px (was 10)
+    paddingVertical: spacing[1],   // 4px
+    borderRadius: spacing[4],      // 16px
     borderWidth: 1,
   },
   timelineAlbumText: {
     fontSize: fontSize.xs,
   },
   timelineGearSection: {
-    marginBottom: 16,
+    marginBottom: spacing[4],      // 16px
   },
   timelineGearItem: {
-    marginBottom: 8,
+    marginBottom: spacing[2],      // 8px
     flexDirection: 'row',
     flexWrap: 'wrap',
   },
   timelineGearLabel: {
     fontSize: fontSize.sm,
     fontWeight: fontWeight.medium,
-    marginRight: 4,
+    marginRight: spacing[1],       // 4px
     minWidth: 80,
   },
   timelineGearValue: {
@@ -15800,10 +15801,10 @@ const styles = StyleSheet.create({
     flexWrap: 'wrap',
   },
   timelineNotes: {
-    padding: 12,
-    borderRadius: 8,
+    padding: spacing[3],           // 12px
+    borderRadius: spacing[2],      // 8px
     borderWidth: 1,
-    marginTop: 8,
+    marginTop: spacing[2],         // 8px
   },
   timelineNotesText: {
     fontSize: fontSize.sm,
@@ -15813,12 +15814,12 @@ const styles = StyleSheet.create({
   endorsements: {
     flexDirection: 'row',
     flexWrap: 'wrap',
-    gap: 10,
+    gap: spacing[3],               // 12px (was 10)
   },
   endorsementLink: {
-    paddingVertical: 8,
-    paddingHorizontal: 16,
-    borderRadius: 20,
+    paddingVertical: spacing[2],   // 8px
+    paddingHorizontal: spacing[4], // 16px
+    borderRadius: spacing[5],      // 20px
     borderWidth: 1,
   },
   endorsementText: {
@@ -15826,15 +15827,15 @@ const styles = StyleSheet.create({
     fontWeight: fontWeight.medium,
   },
   videosContainer: {
-    gap: 16,
+    gap: spacing[4],               // 16px
   },
   videoCard: {
-    marginBottom: 16,
+    marginBottom: spacing[4],      // 16px
   },
   videoContainer: {
     width: '100%',
     aspectRatio: 16 / 9,
-    borderRadius: 8,
+    borderRadius: spacing[2],      // 8px
     overflow: 'hidden',
     backgroundColor: '#000',
     position: 'relative',
@@ -15863,29 +15864,29 @@ const styles = StyleSheet.create({
   },
   playButtonText: {
     fontSize: fontSize.xl,
-    marginLeft: 4,
+    marginLeft: spacing[1],        // 4px
   },
   // YouTube facade play button (CWV optimization - Issue #442)
   youtubePlayButton: {
     width: 68,
-    height: 48,
+    height: spacing[12],           // 48px
     opacity: 0.9,
   },
   videoInfo: {
-    paddingTop: 8,
+    paddingTop: spacing[2],        // 8px
   },
   videoTitle: {
     fontSize: fontSize.sm,
     fontWeight: fontWeight.semibold,
-    marginBottom: 4,
+    marginBottom: spacing[1],      // 4px
   },
   videoYear: {
     fontSize: fontSize.xs,
   },
   videoLink: {
-    paddingVertical: 40,
-    paddingHorizontal: 20,
-    borderRadius: 8,
+    paddingVertical: spacing[10],  // 40px
+    paddingHorizontal: spacing[5], // 20px
+    borderRadius: spacing[2],      // 8px
     borderWidth: 1,
     alignItems: 'center',
     justifyContent: 'center',
@@ -15899,20 +15900,20 @@ const styles = StyleSheet.create({
     borderWidth: 2,
   },
   calculatorTitle: {
-    marginBottom: 4,
+    marginBottom: spacing[1],      // 4px
   },
   calculatorSubtitle: {
     fontSize: fontSize.sm,
-    marginBottom: 16,
+    marginBottom: spacing[4],      // 16px
   },
   calculatorItems: {
-    gap: 8,
+    gap: spacing[2],               // 8px
   },
   calculatorRow: {
     flexDirection: 'row',
     justifyContent: 'space-between',
     alignItems: 'center',
-    paddingVertical: 4,
+    paddingVertical: spacing[1],   // 4px
   },
   calculatorLabel: {
     fontSize: fontSize.base,
@@ -15923,11 +15924,11 @@ const styles = StyleSheet.create({
   },
   calculatorDivider: {
     height: 1,
-    marginVertical: 12,
+    marginVertical: spacing[3],    // 12px
   },
   calculatorTotals: {
-    gap: 4,
-    marginBottom: 8,
+    gap: spacing[1],               // 4px
+    marginBottom: spacing[2],      // 8px
   },
   calculatorTotalLabel: {
     fontSize: fontSize.base,
@@ -15941,20 +15942,20 @@ const styles = StyleSheet.create({
   calculatorDisclaimer: {
     fontSize: fontSize.xs,
     fontStyle: 'italic',
-    marginTop: 8,
-    marginBottom: 16,
+    marginTop: spacing[2],         // 8px
+    marginBottom: spacing[4],      // 16px
   },
   buySetupContainer: {
     flexDirection: 'row',
-    gap: 12,
+    gap: spacing[3],               // 12px
     flexWrap: 'wrap',
   },
   buySetupButton: {
     flex: 1,
     minWidth: 140,
-    paddingVertical: 14,
-    paddingHorizontal: 20,
-    borderRadius: 8,
+    paddingVertical: spacing[4],   // 16px (was 14)
+    paddingHorizontal: spacing[5], // 20px
+    borderRadius: spacing[2],      // 8px
     alignItems: 'center',
   },
   buySetupButtonUS: {
@@ -15969,11 +15970,11 @@ const styles = StyleSheet.create({
     fontWeight: fontWeight.bold,
   },
   shareCostButton: {
-    marginTop: 12,
-    paddingVertical: 10,
-    paddingHorizontal: 16,
+    marginTop: spacing[3],         // 12px
+    paddingVertical: spacing[3],   // 12px (was 10)
+    paddingHorizontal: spacing[4], // 16px
     borderWidth: 1,
-    borderRadius: 8,
+    borderRadius: spacing[2],      // 8px
     alignItems: 'center',
     backgroundColor: 'transparent',
   },
@@ -15985,19 +15986,19 @@ const styles = StyleSheet.create({
   genreTagsContainer: {
     flexDirection: 'row',
     flexWrap: 'wrap',
-    gap: 6,
-    marginTop: 4,
+    gap: spacing[2],               // 8px (was 6)
+    marginTop: spacing[1],         // 4px
   },
   genreTag: {
-    borderRadius: 12,
+    borderRadius: spacing[3],      // 12px
   },
   genreTagSmall: {
     paddingVertical: 2,
-    paddingHorizontal: 8,
+    paddingHorizontal: spacing[2], // 8px
   },
   genreTagLarge: {
-    paddingVertical: 4,
-    paddingHorizontal: 12,
+    paddingVertical: spacing[1],   // 4px
+    paddingHorizontal: spacing[3], // 12px
   },
   genreTagText: {
     fontWeight: '600',
@@ -16014,14 +16015,14 @@ const styles = StyleSheet.create({
   },
   actionButtonsRow: {
     flexDirection: 'row',
-    marginHorizontal: 20,
-    marginBottom: 16,
-    gap: 12,
+    marginHorizontal: spacing[5],  // 20px
+    marginBottom: spacing[4],      // 16px
+    gap: spacing[3],               // 12px
   },
   compareButton: {
     flex: 1,
-    padding: 14,
-    borderRadius: 8,
+    padding: spacing[4],           // 16px (was 14)
+    borderRadius: spacing[2],      // 8px
     borderWidth: 1,
     alignItems: 'center',
   },
@@ -16031,8 +16032,8 @@ const styles = StyleSheet.create({
   },
   quizButton: {
     flex: 1,
-    padding: 14,
-    borderRadius: 8,
+    padding: spacing[4],           // 16px (was 14)
+    borderRadius: spacing[2],      // 8px
     borderWidth: 1,
     alignItems: 'center',
   },
@@ -16045,19 +16046,19 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   quizContent: {
-    padding: 20,
+    padding: spacing[5],           // 20px
     maxWidth: 600,
     alignSelf: 'center',
     width: '100%',
   },
   quizHeader: {
-    marginBottom: 24,
+    marginBottom: spacing[6],      // 24px
     alignItems: 'center',
   },
   quizTitle: {
     fontSize: fontSize.display.sm,
     fontWeight: fontWeight.bold,
-    marginBottom: 12,
+    marginBottom: spacing[3],      // 12px
     textAlign: 'center',
   },
   quizSubtitle: {
@@ -16066,24 +16067,24 @@ const styles = StyleSheet.create({
     lineHeight: lineHeight.base,
   },
   progressContainer: {
-    marginBottom: 24,
+    marginBottom: spacing[6],      // 24px
   },
   progressBar: {
-    height: 8,
-    borderRadius: 4,
+    height: spacing[2],            // 8px
+    borderRadius: spacing[1],      // 4px
     overflow: 'hidden',
-    marginBottom: 8,
+    marginBottom: spacing[2],      // 8px
   },
   progressFill: {
     height: '100%',
-    borderRadius: 4,
+    borderRadius: spacing[1],      // 4px
   },
   progressText: {
     fontSize: fontSize.sm,
     textAlign: 'center',
   },
   questionSection: {
-    marginBottom: 24,
+    marginBottom: spacing[6],      // 24px
   },
   questionText: {
     fontSize: fontSize.xl,
@@ -16091,25 +16092,25 @@ const styles = StyleSheet.create({
     textAlign: 'center',
   },
   optionsContainer: {
-    gap: 12,
+    gap: spacing[3],               // 12px
   },
   optionCard: {
-    padding: 16,
-    borderRadius: 12,
+    padding: spacing[4],           // 16px
+    borderRadius: spacing[3],      // 12px
     borderWidth: 2,
   },
   optionLabel: {
     fontSize: fontSize.lg,
     fontWeight: fontWeight.semibold,
-    marginBottom: 4,
+    marginBottom: spacing[1],      // 4px
   },
   optionDescription: {
     fontSize: fontSize.sm,
   },
   prevButton: {
-    marginTop: 24,
-    padding: 12,
-    borderRadius: 8,
+    marginTop: spacing[6],         // 24px
+    padding: spacing[3],           // 12px
+    borderRadius: spacing[2],      // 8px
     borderWidth: 1,
     alignItems: 'center',
   },
@@ -16118,7 +16119,7 @@ const styles = StyleSheet.create({
   },
   // Quiz Results Styles
   resultsHeader: {
-    marginBottom: 24,
+    marginBottom: spacing[6],      // 24px
     alignItems: 'center',
   },
   resultsTitle: {
@@ -16127,21 +16128,21 @@ const styles = StyleSheet.create({
     textAlign: 'center',
   },
   topMatchCard: {
-    padding: 24,
-    borderRadius: 16,
+    padding: spacing[6],           // 24px
+    borderRadius: spacing[4],      // 16px
     borderWidth: 1,
     alignItems: 'center',
-    marginBottom: 24,
+    marginBottom: spacing[6],      // 24px
     position: 'relative',
   },
   matchPercentBadge: {
     position: 'absolute',
-    top: -12,
-    right: 16,
+    top: -spacing[3],              // -12px
+    right: spacing[4],             // 16px
     backgroundColor: '#dc2626',
-    paddingHorizontal: 12,
-    paddingVertical: 6,
-    borderRadius: 20,
+    paddingHorizontal: spacing[3], // 12px
+    paddingVertical: spacing[2],   // 8px (was 6)
+    borderRadius: spacing[5],      // 20px
   },
   matchPercentText: {
     color: '#ffffff',
@@ -16152,29 +16153,29 @@ const styles = StyleSheet.create({
     width: 120,
     height: 120,
     borderRadius: 60,
-    marginBottom: 16,
+    marginBottom: spacing[4],      // 16px
     aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   topMatchName: {
     fontSize: fontSize.xl,
     fontWeight: fontWeight.bold,
-    marginBottom: 4,
+    marginBottom: spacing[1],      // 4px
     textAlign: 'center',
   },
   topMatchBand: {
     fontSize: fontSize.lg,
-    marginBottom: 12,
+    marginBottom: spacing[3],      // 12px
     textAlign: 'center',
   },
   matchReasons: {
     fontSize: fontSize.sm,
-    marginBottom: 16,
+    marginBottom: spacing[4],      // 16px
     textAlign: 'center',
   },
   viewProfileButton: {
-    paddingHorizontal: 24,
-    paddingVertical: 12,
-    borderRadius: 8,
+    paddingHorizontal: spacing[6], // 24px
+    paddingVertical: spacing[3],   // 12px
+    borderRadius: spacing[2],      // 8px
   },
   viewProfileButtonText: {
     color: '#ffffff',
@@ -16182,22 +16183,22 @@ const styles = StyleSheet.create({
     fontSize: fontSize.base,
   },
   shareSection: {
-    marginBottom: 24,
+    marginBottom: spacing[6],      // 24px
     alignItems: 'center',
   },
   shareTitle: {
     fontSize: fontSize.lg,
     fontWeight: fontWeight.semibold,
-    marginBottom: 12,
+    marginBottom: spacing[3],      // 12px
   },
   shareButtons: {
     flexDirection: 'row',
-    gap: 12,
+    gap: spacing[3],               // 12px
   },
   shareButton: {
-    paddingHorizontal: 16,
-    paddingVertical: 10,
-    borderRadius: 8,
+    paddingHorizontal: spacing[4], // 16px
+    paddingVertical: spacing[3],   // 12px (was 10)
+    borderRadius: spacing[2],      // 8px
   },
   shareButtonText: {
     color: '#ffffff',
@@ -16205,27 +16206,27 @@ const styles = StyleSheet.create({
     fontSize: fontSize.sm,
   },
   runnerUpsSection: {
-    marginBottom: 24,
+    marginBottom: spacing[6],      // 24px
   },
   runnerUpsTitle: {
     fontSize: fontSize.lg,
     fontWeight: fontWeight.semibold,
-    marginBottom: 12,
+    marginBottom: spacing[3],      // 12px
     textAlign: 'center',
   },
   runnerUpCard: {
     flexDirection: 'row',
     alignItems: 'center',
-    padding: 12,
-    borderRadius: 12,
+    padding: spacing[3],           // 12px
+    borderRadius: spacing[3],      // 12px
     borderWidth: 1,
-    marginBottom: 8,
+    marginBottom: spacing[2],      // 8px
   },
   runnerUpImage: {
-    width: 48,
-    height: 48,
-    borderRadius: 24,
-    marginRight: 12,
+    width: spacing[12],            // 48px
+    height: spacing[12],           // 48px
+    borderRadius: spacing[6],      // 24px
+    marginRight: spacing[3],       // 12px
     aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   runnerUpInfo: {
@@ -16243,40 +16244,40 @@ const styles = StyleSheet.create({
     fontWeight: fontWeight.semibold,
   },
   quizNewsletter: {
-    padding: 20,
-    borderRadius: 12,
+    padding: spacing[5],           // 20px
+    borderRadius: spacing[3],      // 12px
     borderWidth: 1,
-    marginBottom: 24,
+    marginBottom: spacing[6],      // 24px
     alignItems: 'center',
   },
   quizNewsletterTitle: {
     fontSize: fontSize.lg,
     fontWeight: fontWeight.semibold,
-    marginBottom: 8,
+    marginBottom: spacing[2],      // 8px
     textAlign: 'center',
   },
   quizNewsletterSubtitle: {
     fontSize: fontSize.sm,
     textAlign: 'center',
-    marginBottom: 16,
+    marginBottom: spacing[4],      // 16px
   },
   quizNewsletterForm: {
     flexDirection: 'row',
-    gap: 8,
+    gap: spacing[2],               // 8px
     width: '100%',
     maxWidth: 400,
   },
   quizNewsletterInput: {
     flex: 1,
-    padding: 12,
-    borderRadius: 8,
+    padding: spacing[3],           // 12px
+    borderRadius: spacing[2],      // 8px
     borderWidth: 1,
     fontSize: fontSize.base,
   },
   quizNewsletterButton: {
-    paddingHorizontal: 20,
-    paddingVertical: 12,
-    borderRadius: 8,
+    paddingHorizontal: spacing[5], // 20px
+    paddingVertical: spacing[3],   // 12px
+    borderRadius: spacing[2],      // 8px
   },
   quizNewsletterButtonText: {
     color: '#ffffff',
@@ -16284,11 +16285,11 @@ const styles = StyleSheet.create({
     fontSize: fontSize.base,
   },
   restartButton: {
-    padding: 14,
-    borderRadius: 8,
+    padding: spacing[4],           // 16px (was 14)
+    borderRadius: spacing[2],      // 8px
     borderWidth: 1,
     alignItems: 'center',
-    marginBottom: 40,
+    marginBottom: spacing[10],     // 40px
   },
   restartButtonText: {
     fontSize: fontSize.base,
@@ -16297,11 +16298,11 @@ const styles = StyleSheet.create({
   compareTitle: {
     fontSize: fontSize.xl,
     fontWeight: fontWeight.bold,
-    marginBottom: 8,
+    marginBottom: spacing[2],      // 8px
   },
   compareSubtitle: {
     fontSize: fontSize.sm,
-    marginBottom: 20,
+    marginBottom: spacing[5],      // 20px
   },
   selectorsContainer: {
     flexDirection: 'row',

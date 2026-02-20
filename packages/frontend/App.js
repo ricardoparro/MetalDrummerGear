@@ -1722,11 +1722,15 @@ function updateDocumentMeta(drummer, drummers = [], filters = {}) {
     // Generate memberOf array for all bands
     const memberOfArray = generateMemberOfFromDrummer(drummer);
     
-    // Add Person schema with memberOf references to ALL MusicGroups (Issue #444)
+    // Generate drummer slug for @id references (Issue #516)
+    const drummerSlug = toSlug(drummer.name);
+    
+    // Add Person schema with memberOf references to ALL MusicGroups (Issue #444, #516)
     const personSchema = {
       "@type": "Person",
-      "@id": `https://metalforge.io/drummer/${drummer.id}#person`,
+      "@id": `https://metalforge.io/drummer/${drummerSlug}#person`,
       "name": drummer.name,
+      "url": `https://metalforge.io/drummer/${drummerSlug}`,
       "description": drummer.bio,
       "image": `https://metalforge.io${drummer.image}`,
       "jobTitle": "Professional Drummer",

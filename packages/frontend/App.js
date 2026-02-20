@@ -3,6 +3,7 @@ import { StyleSheet, Text, View, FlatList, ActivityIndicator, TouchableOpacity, 
 import { Image } from 'expo-image';
 import { ThemeProvider, useTheme } from './ThemeContext';
 import { colors } from './colors';
+import { fontSize, lineHeight, fontWeight, textStyles } from './typography';
 import { useState, useEffect, useCallback, useMemo, useRef, lazy, Suspense, startTransition } from 'react';
 import { getAffiliateLinks, extractPrimaryProduct, getThomannLink, getSweetwaterLink } from './affiliateLinks';
 import { calculateKitCost, formatPrice } from './gearPrices';
@@ -454,7 +455,7 @@ const themeToggleStyles = StyleSheet.create({
     marginLeft: 12,
   },
   icon: {
-    fontSize: 18,
+    fontSize: fontSize.lg,
   },
 });
 
@@ -14921,8 +14922,8 @@ const styles = StyleSheet.create({
     maxWidth: 600,
   },
   title: {
-    fontSize: 24,
-    fontWeight: 'bold',
+    fontSize: fontSize.xl,
+    fontWeight: fontWeight.bold,
     marginBottom: 0,
   },
 
@@ -14953,16 +14954,16 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   drummerName: {
-    fontSize: 18,
-    fontWeight: 'bold',
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.bold,
     marginBottom: 4,
   },
   drummerBand: {
-    fontSize: 16,
+    fontSize: fontSize.base,
     marginBottom: 2,
   },
   drummerGenre: {
-    fontSize: 14,
+    fontSize: fontSize.sm,
     fontStyle: 'italic',
   },
   centerContainer: {
@@ -14973,16 +14974,16 @@ const styles = StyleSheet.create({
   },
   loadingText: {
     marginTop: 10,
-    fontSize: 16,
+    fontSize: fontSize.base,
   },
   errorText: {
-    fontSize: 16,
-    fontWeight: 'bold',
+    fontSize: fontSize.base,
+    fontWeight: fontWeight.bold,
     textAlign: 'center',
   },
   errorHint: {
     marginTop: 8,
-    fontSize: 14,
+    fontSize: fontSize.sm,
     textAlign: 'center',
   },
   detailContainer: {
@@ -15001,8 +15002,8 @@ const styles = StyleSheet.create({
     minHeight: 48, // WCAG AA touch target minimum
   },
   backButtonText: {
-    fontSize: 16,
-    fontWeight: '500',
+    fontSize: fontSize.base,
+    fontWeight: fontWeight.medium,
   },
   detailHeader: {
     flexDirection: 'row',
@@ -15019,16 +15020,16 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   detailName: {
-    fontSize: 24,
-    fontWeight: 'bold',
+    fontSize: fontSize.xl,
+    fontWeight: fontWeight.bold,
     marginBottom: 4,
   },
   detailBand: {
-    fontSize: 18,
+    fontSize: fontSize.lg,
     marginBottom: 4,
   },
   detailMeta: {
-    fontSize: 14,
+    fontSize: fontSize.sm,
     fontStyle: 'italic',
   },
   section: {
@@ -15046,22 +15047,22 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   lastUpdatedText: {
-    fontSize: 12,
+    fontSize: fontSize.xs,
     fontStyle: 'italic',
   },
   sectionTitle: {
-    fontSize: 20,
-    fontWeight: 'bold',
+    fontSize: fontSize.xl,
+    fontWeight: fontWeight.bold,
     marginBottom: 12,
   },
   bioText: {
-    fontSize: 16,
-    lineHeight: 24,
+    fontSize: fontSize.base,
+    lineHeight: lineHeight.base,
   },
   // "More" link for extended bio (Issue #305)
   bioMoreLink: {
-    fontSize: 16,
-    fontWeight: '600',
+    fontSize: fontSize.base,
+    fontWeight: fontWeight.semibold,
     textDecorationLine: 'none',
   },
   // Extended Bio Page styles (Issue #305)
@@ -15093,12 +15094,12 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   bioPageTitle: {
-    fontSize: 32,
-    fontWeight: 'bold',
+    fontSize: fontSize['2xl'],
+    fontWeight: fontWeight.bold,
     marginBottom: 4,
   },
   bioPageSubtitle: {
-    fontSize: 18,
+    fontSize: fontSize.lg,
     marginBottom: 12,
   },
   bioSection: {
@@ -15108,13 +15109,13 @@ const styles = StyleSheet.create({
     marginBottom: 16,
   },
   bioSectionTitle: {
-    fontSize: 22,
-    fontWeight: 'bold',
+    fontSize: fontSize.xl,
+    fontWeight: fontWeight.bold,
     marginBottom: 16,
   },
   bioSectionContent: {
-    fontSize: 16,
-    lineHeight: 26,
+    fontSize: fontSize.base,
+    lineHeight: lineHeight.lg,
   },
   careerTimeline: {
     gap: 12,
@@ -15124,21 +15125,21 @@ const styles = StyleSheet.create({
     gap: 16,
   },
   careerTimelineYear: {
-    fontSize: 14,
-    fontWeight: '700',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.bold,
     minWidth: 50,
   },
   careerTimelineEvent: {
     flex: 1,
-    fontSize: 15,
-    lineHeight: 22,
+    fontSize: fontSize.base,
+    lineHeight: lineHeight.sm,
   },
   discographySection: {
     marginBottom: 20,
   },
   discographyTitle: {
-    fontSize: 18,
-    fontWeight: '600',
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.semibold,
     marginBottom: 12,
   },
   albumItem: {
@@ -15149,15 +15150,15 @@ const styles = StyleSheet.create({
     marginBottom: 4,
   },
   albumName: {
-    fontSize: 16,
-    fontWeight: '600',
+    fontSize: fontSize.base,
+    fontWeight: fontWeight.semibold,
   },
   albumMeta: {
-    fontSize: 13,
+    fontSize: fontSize.sm,
     marginTop: 2,
   },
   albumNote: {
-    fontSize: 13,
+    fontSize: fontSize.sm,
     fontStyle: 'italic',
     marginTop: 4,
   },
@@ -15168,11 +15169,11 @@ const styles = StyleSheet.create({
     paddingVertical: 8,
   },
   tourName: {
-    fontSize: 15,
-    fontWeight: '500',
+    fontSize: fontSize.base,
+    fontWeight: fontWeight.medium,
   },
   tourMeta: {
-    fontSize: 13,
+    fontSize: fontSize.sm,
     marginTop: 2,
   },
   triviaList: {
@@ -15183,13 +15184,13 @@ const styles = StyleSheet.create({
     gap: 12,
   },
   triviaBullet: {
-    fontSize: 18,
-    fontWeight: 'bold',
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.bold,
   },
   triviaText: {
     flex: 1,
-    fontSize: 15,
-    lineHeight: 22,
+    fontSize: fontSize.base,
+    lineHeight: lineHeight.sm,
   },
   sourcesSection: {
     marginTop: 8,
@@ -15203,7 +15204,7 @@ const styles = StyleSheet.create({
     paddingVertical: 4,
   },
   sourceText: {
-    fontSize: 14,
+    fontSize: fontSize.sm,
     textDecorationLine: 'underline',
   },
   bioPageCTA: {
@@ -15215,16 +15216,16 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   bioPageCTATitle: {
-    fontSize: 20,
-    fontWeight: 'bold',
+    fontSize: fontSize.xl,
+    fontWeight: fontWeight.bold,
     marginBottom: 8,
     textAlign: 'center',
   },
   bioPageCTADescription: {
-    fontSize: 15,
+    fontSize: fontSize.base,
     marginBottom: 16,
     textAlign: 'center',
-    lineHeight: 22,
+    lineHeight: lineHeight.sm,
   },
   bioPageCTAButton: {
     backgroundColor: '#dc2626',
@@ -15234,8 +15235,8 @@ const styles = StyleSheet.create({
   },
   bioPageCTAButtonText: {
     color: '#ffffff',
-    fontSize: 16,
-    fontWeight: '600',
+    fontSize: fontSize.base,
+    fontWeight: fontWeight.semibold,
   },
 
   // ==========================================
@@ -15263,11 +15264,11 @@ const styles = StyleSheet.create({
     flexWrap: 'wrap',
   },
   bandPageTitle: {
-    fontSize: 32,
-    fontWeight: 'bold',
+    fontSize: fontSize['2xl'],
+    fontWeight: fontWeight.bold,
   },
   bandPageSubtitle: {
-    fontSize: 18,
+    fontSize: fontSize.lg,
     marginBottom: 12,
   },
   bandStatusBadge: {
@@ -15277,8 +15278,8 @@ const styles = StyleSheet.create({
   },
   bandStatusText: {
     color: '#ffffff',
-    fontSize: 12,
-    fontWeight: '600',
+    fontSize: fontSize.xs,
+    fontWeight: fontWeight.semibold,
     textTransform: 'uppercase',
   },
   bandGenres: {
@@ -15292,8 +15293,8 @@ const styles = StyleSheet.create({
     borderRadius: 16,
   },
   bandGenreText: {
-    fontSize: 13,
-    fontWeight: '500',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.medium,
   },
   bandSummarySection: {
     padding: 20,
@@ -15302,8 +15303,8 @@ const styles = StyleSheet.create({
     marginBottom: 20,
   },
   bandSummaryText: {
-    fontSize: 16,
-    lineHeight: 26,
+    fontSize: fontSize.base,
+    lineHeight: lineHeight.lg,
   },
   drummerHistorySection: {
     padding: 20,
@@ -15315,8 +15316,8 @@ const styles = StyleSheet.create({
     padding: 16,
   },
   drummerHistorySectionTitle: {
-    fontSize: 18,
-    fontWeight: 'bold',
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.bold,
     letterSpacing: 1,
     marginBottom: 16,
     borderBottomWidth: 2,
@@ -15337,7 +15338,7 @@ const styles = StyleSheet.create({
     gap: 8,
   },
   drummerHistoryIcon: {
-    fontSize: 20,
+    fontSize: fontSize.xl,
   },
   drummerHistoryImage: {
     width: 50,
@@ -15356,14 +15357,14 @@ const styles = StyleSheet.create({
     marginBottom: 4,
   },
   drummerHistoryName: {
-    fontSize: 18,
-    fontWeight: '600',
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.semibold,
   },
   drummerHistoryPeriod: {
-    fontSize: 14,
+    fontSize: fontSize.sm,
   },
   drummerHistoryNotes: {
-    fontSize: 14,
+    fontSize: fontSize.sm,
     fontStyle: 'italic',
     marginBottom: 8,
   },
@@ -15372,8 +15373,8 @@ const styles = StyleSheet.create({
   },
   drummerHistoryLinkText: {
     color: '#60a5fa',
-    fontSize: 14,
-    fontWeight: '500',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.medium,
   },
   relatedBandsSection: {
     padding: 20,
@@ -15382,8 +15383,8 @@ const styles = StyleSheet.create({
     marginBottom: 20,
   },
   relatedBandsSectionTitle: {
-    fontSize: 18,
-    fontWeight: 'bold',
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.bold,
     letterSpacing: 1,
     marginBottom: 16,
   },
@@ -15398,8 +15399,8 @@ const styles = StyleSheet.create({
     borderRadius: 20,
   },
   relatedBandText: {
-    fontSize: 14,
-    fontWeight: '500',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.medium,
   },
 
   // Notable Quotes styles
@@ -15410,8 +15411,8 @@ const styles = StyleSheet.create({
     paddingVertical: 4,
   },
   quotesExpandIcon: {
-    fontSize: 14,
-    fontWeight: '600',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.semibold,
   },
   quotesContainer: {
     marginTop: 16,
@@ -15423,14 +15424,14 @@ const styles = StyleSheet.create({
     borderLeftColor: '#dc2626',
   },
   quoteText: {
-    fontSize: 16,
-    lineHeight: 24,
+    fontSize: fontSize.base,
+    lineHeight: lineHeight.base,
     fontStyle: 'italic',
     marginBottom: 8,
   },
   quoteSource: {
-    fontSize: 13,
-    fontWeight: '500',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.medium,
   },
   // Gear Timeline styles
   timelineSectionHeader: {
@@ -15443,12 +15444,12 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   timelineSubtitle: {
-    fontSize: 13,
+    fontSize: fontSize.sm,
     marginTop: 2,
   },
   timelineExpandIcon: {
-    fontSize: 14,
-    fontWeight: '600',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.semibold,
   },
   timelineContainer: {
     marginTop: 16,
@@ -15487,8 +15488,8 @@ const styles = StyleSheet.create({
   },
   timelineMarkerText: {
     color: '#ffffff',
-    fontSize: 12,
-    fontWeight: 'bold',
+    fontSize: fontSize.xs,
+    fontWeight: fontWeight.bold,
   },
   timelineLine: {
     position: 'absolute',
@@ -15499,19 +15500,19 @@ const styles = StyleSheet.create({
     zIndex: 1,
   },
   timelineEraTitle: {
-    fontSize: 18,
-    fontWeight: 'bold',
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.bold,
     marginTop: 8,
     marginBottom: 4,
   },
   timelineYears: {
-    fontSize: 14,
-    fontWeight: '600',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.semibold,
     marginBottom: 8,
   },
   timelineDescription: {
-    fontSize: 13,
-    lineHeight: 18,
+    fontSize: fontSize.sm,
+    lineHeight: lineHeight.xs,
     marginBottom: 12,
   },
   timelineAlbumBadge: {
@@ -15521,8 +15522,8 @@ const styles = StyleSheet.create({
     borderRadius: 12,
   },
   timelineAlbumCount: {
-    fontSize: 12,
-    fontWeight: '500',
+    fontSize: fontSize.xs,
+    fontWeight: fontWeight.medium,
   },
   timelineSelectedIndicator: {
     position: 'absolute',
@@ -15531,16 +15532,16 @@ const styles = StyleSheet.create({
     transform: [{ translateX: -30 }],
   },
   timelineSelectedText: {
-    fontSize: 11,
+    fontSize: fontSize.xs,
     color: 'rgba(255,255,255,0.7)',
-    fontWeight: '500',
+    fontWeight: fontWeight.medium,
   },
   timelineSwipeHint: {
     alignItems: 'center',
     paddingVertical: 8,
   },
   timelineSwipeText: {
-    fontSize: 12,
+    fontSize: fontSize.xs,
     fontStyle: 'italic',
   },
   timelineDetail: {
@@ -15556,20 +15557,20 @@ const styles = StyleSheet.create({
     borderBottomColor: 'rgba(128,128,128,0.2)',
   },
   timelineDetailTitle: {
-    fontSize: 20,
-    fontWeight: 'bold',
+    fontSize: fontSize.xl,
+    fontWeight: fontWeight.bold,
     marginBottom: 4,
   },
   timelineDetailYears: {
-    fontSize: 16,
-    fontWeight: '600',
+    fontSize: fontSize.base,
+    fontWeight: fontWeight.semibold,
   },
   timelineDetailSection: {
     marginBottom: 16,
   },
   timelineDetailLabel: {
-    fontSize: 12,
-    fontWeight: '600',
+    fontSize: fontSize.xs,
+    fontWeight: fontWeight.semibold,
     textTransform: 'uppercase',
     letterSpacing: 1,
     marginBottom: 8,
@@ -15585,8 +15586,8 @@ const styles = StyleSheet.create({
     borderRadius: 16,
   },
   timelineAlbumName: {
-    fontSize: 13,
-    fontWeight: '500',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.medium,
   },
   timelineGearGrid: {
     gap: 12,
@@ -15595,29 +15596,29 @@ const styles = StyleSheet.create({
     marginBottom: 4,
   },
   timelineGearLabel: {
-    fontSize: 12,
+    fontSize: fontSize.xs,
     marginBottom: 2,
   },
   timelineGearValue: {
-    fontSize: 14,
-    lineHeight: 20,
+    fontSize: fontSize.sm,
+    lineHeight: lineHeight.sm,
   },
   timelineNotes: {
-    fontSize: 14,
-    lineHeight: 22,
+    fontSize: fontSize.sm,
+    lineHeight: lineHeight.sm,
     fontStyle: 'italic',
   },
   gearSection: {
     marginBottom: 12,
   },
   gearTitle: {
-    fontSize: 16,
-    fontWeight: '600',
+    fontSize: fontSize.base,
+    fontWeight: fontWeight.semibold,
     marginBottom: 4,
   },
   gearContent: {
-    fontSize: 14,
-    lineHeight: 20,
+    fontSize: fontSize.sm,
+    lineHeight: lineHeight.sm,
   },
   shopLinksContainer: {
     flexDirection: 'row',
@@ -15638,8 +15639,8 @@ const styles = StyleSheet.create({
   },
   shopButtonText: {
     color: '#ffffff',
-    fontSize: 12,
-    fontWeight: '600',
+    fontSize: fontSize.xs,
+    fontWeight: fontWeight.semibold,
   },
   gallery: {
     flexDirection: 'row',
@@ -15670,11 +15671,11 @@ const styles = StyleSheet.create({
   },
   timelineBadgeText: {
     color: '#fff',
-    fontSize: 11,
-    fontWeight: '600',
+    fontSize: fontSize.xs,
+    fontWeight: fontWeight.semibold,
   },
   timelineSubtitle: {
-    fontSize: 14,
+    fontSize: fontSize.sm,
     marginBottom: 8,
   },
   timelineContent: {
@@ -15704,18 +15705,18 @@ const styles = StyleSheet.create({
     transform: [{ scale: 1.02 }],
   },
   timelineEraYears: {
-    fontSize: 12,
-    fontWeight: '600',
+    fontSize: fontSize.xs,
+    fontWeight: fontWeight.semibold,
     marginBottom: 4,
   },
   timelineEraName: {
-    fontSize: 14,
-    fontWeight: 'bold',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.bold,
     textAlign: 'center',
     marginBottom: 4,
   },
   timelineEraAlbums: {
-    fontSize: 11,
+    fontSize: fontSize.xs,
     marginTop: 4,
   },
   timelineConnector: {
@@ -15724,7 +15725,7 @@ const styles = StyleSheet.create({
     marginHorizontal: 4,
   },
   timelineSwipeHint: {
-    fontSize: 12,
+    fontSize: fontSize.xs,
     textAlign: 'center',
     marginTop: 8,
     marginBottom: 16,
@@ -15745,21 +15746,21 @@ const styles = StyleSheet.create({
     gap: 8,
   },
   timelineDetailTitle: {
-    fontSize: 18,
-    fontWeight: 'bold',
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.bold,
   },
   timelineDetailYears: {
-    fontSize: 14,
-    fontWeight: '600',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.semibold,
   },
   timelineDetailDescription: {
-    fontSize: 14,
+    fontSize: fontSize.sm,
     marginBottom: 12,
-    lineHeight: 20,
+    lineHeight: lineHeight.sm,
   },
   timelineDetailLabel: {
-    fontSize: 14,
-    fontWeight: '600',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.semibold,
     marginBottom: 8,
   },
   timelineAlbumsSection: {
@@ -15777,7 +15778,7 @@ const styles = StyleSheet.create({
     borderWidth: 1,
   },
   timelineAlbumText: {
-    fontSize: 12,
+    fontSize: fontSize.xs,
   },
   timelineGearSection: {
     marginBottom: 16,
@@ -15788,13 +15789,13 @@ const styles = StyleSheet.create({
     flexWrap: 'wrap',
   },
   timelineGearLabel: {
-    fontSize: 13,
-    fontWeight: '500',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.medium,
     marginRight: 4,
     minWidth: 80,
   },
   timelineGearValue: {
-    fontSize: 13,
+    fontSize: fontSize.sm,
     flex: 1,
     flexWrap: 'wrap',
   },
@@ -15805,8 +15806,8 @@ const styles = StyleSheet.create({
     marginTop: 8,
   },
   timelineNotesText: {
-    fontSize: 13,
-    lineHeight: 20,
+    fontSize: fontSize.sm,
+    lineHeight: lineHeight.sm,
     fontStyle: 'italic',
   },
   endorsements: {
@@ -15821,8 +15822,8 @@ const styles = StyleSheet.create({
     borderWidth: 1,
   },
   endorsementText: {
-    fontSize: 14,
-    fontWeight: '500',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.medium,
   },
   videosContainer: {
     gap: 16,
@@ -15861,7 +15862,7 @@ const styles = StyleSheet.create({
     opacity: 0.9,
   },
   playButtonText: {
-    fontSize: 24,
+    fontSize: fontSize.xl,
     marginLeft: 4,
   },
   // YouTube facade play button (CWV optimization - Issue #442)
@@ -15874,12 +15875,12 @@ const styles = StyleSheet.create({
     paddingTop: 8,
   },
   videoTitle: {
-    fontSize: 14,
-    fontWeight: '600',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.semibold,
     marginBottom: 4,
   },
   videoYear: {
-    fontSize: 12,
+    fontSize: fontSize.xs,
   },
   videoLink: {
     paddingVertical: 40,
@@ -15890,8 +15891,8 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   videoLinkText: {
-    fontSize: 16,
-    fontWeight: '600',
+    fontSize: fontSize.base,
+    fontWeight: fontWeight.semibold,
   },
   // Kit Cost Calculator styles
   calculatorSection: {
@@ -15901,7 +15902,7 @@ const styles = StyleSheet.create({
     marginBottom: 4,
   },
   calculatorSubtitle: {
-    fontSize: 14,
+    fontSize: fontSize.sm,
     marginBottom: 16,
   },
   calculatorItems: {
@@ -15914,10 +15915,10 @@ const styles = StyleSheet.create({
     paddingVertical: 4,
   },
   calculatorLabel: {
-    fontSize: 15,
+    fontSize: fontSize.base,
   },
   calculatorPrice: {
-    fontSize: 15,
+    fontSize: fontSize.base,
     fontFamily: Platform.OS === 'ios' ? 'Menlo' : 'monospace',
   },
   calculatorDivider: {
@@ -15929,16 +15930,16 @@ const styles = StyleSheet.create({
     marginBottom: 8,
   },
   calculatorTotalLabel: {
-    fontSize: 16,
-    fontWeight: '600',
+    fontSize: fontSize.base,
+    fontWeight: fontWeight.semibold,
   },
   calculatorTotalPrice: {
-    fontSize: 18,
-    fontWeight: 'bold',
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.bold,
     fontFamily: Platform.OS === 'ios' ? 'Menlo' : 'monospace',
   },
   calculatorDisclaimer: {
-    fontSize: 11,
+    fontSize: fontSize.xs,
     fontStyle: 'italic',
     marginTop: 8,
     marginBottom: 16,
@@ -15964,8 +15965,8 @@ const styles = StyleSheet.create({
   },
   buySetupButtonText: {
     color: '#ffffff',
-    fontSize: 14,
-    fontWeight: 'bold',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.bold,
   },
   shareCostButton: {
     marginTop: 12,
@@ -15977,8 +15978,8 @@ const styles = StyleSheet.create({
     backgroundColor: 'transparent',
   },
   shareCostButtonText: {
-    fontSize: 14,
-    fontWeight: '500',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.medium,
   },
 // Genre tag styles
   genreTagsContainer: {
@@ -16002,10 +16003,10 @@ const styles = StyleSheet.create({
     fontWeight: '600',
   },
   genreTagTextSmall: {
-    fontSize: 10,
+    fontSize: fontSize.xs,
   },
   genreTagTextLarge: {
-    fontSize: 12,
+    fontSize: fontSize.xs,
   },
   // Compare feature styles
   listWrapper: {
@@ -16025,8 +16026,8 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   compareButtonText: {
-    fontSize: 16,
-    fontWeight: '600',
+    fontSize: fontSize.base,
+    fontWeight: fontWeight.semibold,
   },
   quizButton: {
     flex: 1,
@@ -16036,8 +16037,8 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   quizButtonText: {
-    fontSize: 16,
-    fontWeight: '600',
+    fontSize: fontSize.base,
+    fontWeight: fontWeight.semibold,
   },
   // Quiz Styles
   quizContainer: {
@@ -16054,15 +16055,15 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   quizTitle: {
-    fontSize: 28,
-    fontWeight: 'bold',
+    fontSize: fontSize.display.sm,
+    fontWeight: fontWeight.bold,
     marginBottom: 12,
     textAlign: 'center',
   },
   quizSubtitle: {
-    fontSize: 16,
+    fontSize: fontSize.base,
     textAlign: 'center',
-    lineHeight: 24,
+    lineHeight: lineHeight.base,
   },
   progressContainer: {
     marginBottom: 24,
@@ -16078,15 +16079,15 @@ const styles = StyleSheet.create({
     borderRadius: 4,
   },
   progressText: {
-    fontSize: 14,
+    fontSize: fontSize.sm,
     textAlign: 'center',
   },
   questionSection: {
     marginBottom: 24,
   },
   questionText: {
-    fontSize: 22,
-    fontWeight: '600',
+    fontSize: fontSize.xl,
+    fontWeight: fontWeight.semibold,
     textAlign: 'center',
   },
   optionsContainer: {
@@ -16098,12 +16099,12 @@ const styles = StyleSheet.create({
     borderWidth: 2,
   },
   optionLabel: {
-    fontSize: 18,
-    fontWeight: '600',
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.semibold,
     marginBottom: 4,
   },
   optionDescription: {
-    fontSize: 14,
+    fontSize: fontSize.sm,
   },
   prevButton: {
     marginTop: 24,
@@ -16113,7 +16114,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   prevButtonText: {
-    fontSize: 14,
+    fontSize: fontSize.sm,
   },
   // Quiz Results Styles
   resultsHeader: {
@@ -16121,8 +16122,8 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   resultsTitle: {
-    fontSize: 28,
-    fontWeight: 'bold',
+    fontSize: fontSize.display.sm,
+    fontWeight: fontWeight.bold,
     textAlign: 'center',
   },
   topMatchCard: {
@@ -16144,8 +16145,8 @@ const styles = StyleSheet.create({
   },
   matchPercentText: {
     color: '#ffffff',
-    fontWeight: 'bold',
-    fontSize: 14,
+    fontWeight: fontWeight.bold,
+    fontSize: fontSize.sm,
   },
   topMatchImage: {
     width: 120,
@@ -16155,18 +16156,18 @@ const styles = StyleSheet.create({
     aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   topMatchName: {
-    fontSize: 24,
-    fontWeight: 'bold',
+    fontSize: fontSize.xl,
+    fontWeight: fontWeight.bold,
     marginBottom: 4,
     textAlign: 'center',
   },
   topMatchBand: {
-    fontSize: 18,
+    fontSize: fontSize.lg,
     marginBottom: 12,
     textAlign: 'center',
   },
   matchReasons: {
-    fontSize: 14,
+    fontSize: fontSize.sm,
     marginBottom: 16,
     textAlign: 'center',
   },
@@ -16177,16 +16178,16 @@ const styles = StyleSheet.create({
   },
   viewProfileButtonText: {
     color: '#ffffff',
-    fontWeight: '600',
-    fontSize: 16,
+    fontWeight: fontWeight.semibold,
+    fontSize: fontSize.base,
   },
   shareSection: {
     marginBottom: 24,
     alignItems: 'center',
   },
   shareTitle: {
-    fontSize: 18,
-    fontWeight: '600',
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.semibold,
     marginBottom: 12,
   },
   shareButtons: {
@@ -16200,15 +16201,15 @@ const styles = StyleSheet.create({
   },
   shareButtonText: {
     color: '#ffffff',
-    fontWeight: '600',
-    fontSize: 14,
+    fontWeight: fontWeight.semibold,
+    fontSize: fontSize.sm,
   },
   runnerUpsSection: {
     marginBottom: 24,
   },
   runnerUpsTitle: {
-    fontSize: 18,
-    fontWeight: '600',
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.semibold,
     marginBottom: 12,
     textAlign: 'center',
   },
@@ -16231,15 +16232,15 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   runnerUpName: {
-    fontSize: 16,
-    fontWeight: '600',
+    fontSize: fontSize.base,
+    fontWeight: fontWeight.semibold,
   },
   runnerUpBand: {
-    fontSize: 14,
+    fontSize: fontSize.sm,
   },
   runnerUpPercent: {
-    fontSize: 16,
-    fontWeight: '600',
+    fontSize: fontSize.base,
+    fontWeight: fontWeight.semibold,
   },
   quizNewsletter: {
     padding: 20,
@@ -16249,13 +16250,13 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   quizNewsletterTitle: {
-    fontSize: 18,
-    fontWeight: '600',
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.semibold,
     marginBottom: 8,
     textAlign: 'center',
   },
   quizNewsletterSubtitle: {
-    fontSize: 14,
+    fontSize: fontSize.sm,
     textAlign: 'center',
     marginBottom: 16,
   },
@@ -16270,7 +16271,7 @@ const styles = StyleSheet.create({
     padding: 12,
     borderRadius: 8,
     borderWidth: 1,
-    fontSize: 16,
+    fontSize: fontSize.base,
   },
   quizNewsletterButton: {
     paddingHorizontal: 20,
@@ -16279,8 +16280,8 @@ const styles = StyleSheet.create({
   },
   quizNewsletterButtonText: {
     color: '#ffffff',
-    fontWeight: '600',
-    fontSize: 16,
+    fontWeight: fontWeight.semibold,
+    fontSize: fontSize.base,
   },
   restartButton: {
     padding: 14,
@@ -16290,16 +16291,16 @@ const styles = StyleSheet.create({
     marginBottom: 40,
   },
   restartButtonText: {
-    fontSize: 16,
-    fontWeight: '600',
+    fontSize: fontSize.base,
+    fontWeight: fontWeight.semibold,
   },
   compareTitle: {
-    fontSize: 24,
-    fontWeight: 'bold',
+    fontSize: fontSize.xl,
+    fontWeight: fontWeight.bold,
     marginBottom: 8,
   },
   compareSubtitle: {
-    fontSize: 14,
+    fontSize: fontSize.sm,
     marginBottom: 20,
   },
   selectorsContainer: {
@@ -16328,11 +16329,11 @@ const styles = StyleSheet.create({
     marginBottom: 8,
   },
   selectorLabel: {
-    fontSize: 14,
-    fontWeight: '600',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.semibold,
   },
   removeSlot: {
-    fontSize: 12,
+    fontSize: fontSize.xs,
   },
   selectorContainer: {
     position: 'relative',
@@ -16347,11 +16348,11 @@ const styles = StyleSheet.create({
     borderWidth: 1,
   },
   selectorText: {
-    fontSize: 14,
+    fontSize: fontSize.sm,
     flex: 1,
   },
   selectorArrow: {
-    fontSize: 10,
+    fontSize: fontSize.xs,
     marginLeft: 8,
   },
   selectorDropdown: {
@@ -16368,7 +16369,7 @@ const styles = StyleSheet.create({
   selectorSearch: {
     padding: 10,
     borderBottomWidth: 1,
-    fontSize: 14,
+    fontSize: fontSize.sm,
   },
   selectorList: {
     maxHeight: 200,
@@ -16378,11 +16379,11 @@ const styles = StyleSheet.create({
     borderBottomWidth: 1,
   },
   selectorOptionText: {
-    fontSize: 14,
-    fontWeight: '500',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.medium,
   },
   selectorOptionSubtext: {
-    fontSize: 12,
+    fontSize: fontSize.xs,
     marginTop: 2,
   },
   // Mobile-specific selector styles for better touch targets and rendering
@@ -16395,7 +16396,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 16,
   },
   selectorTextMobile: {
-    fontSize: 16,
+    fontSize: fontSize.base,
   },
   selectorDropdownMobile: {
     position: 'absolute',
@@ -16411,7 +16412,7 @@ const styles = StyleSheet.create({
     minHeight: 48,
     paddingVertical: 14,
     paddingHorizontal: 16,
-    fontSize: 16,
+    fontSize: fontSize.base,
   },
   selectorListMobile: {
     maxHeight: 240,
@@ -16432,7 +16433,7 @@ const styles = StyleSheet.create({
     minWidth: 200,
   },
   addSlotText: {
-    fontSize: 14,
+    fontSize: fontSize.sm,
   },
   compareLoading: {
     padding: 40,
@@ -16475,21 +16476,21 @@ const styles = StyleSheet.create({
     aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   compareName: {
-    fontSize: 16,
-    fontWeight: 'bold',
+    fontSize: fontSize.base,
+    fontWeight: fontWeight.bold,
     textAlign: 'center',
   },
   compareBand: {
-    fontSize: 14,
+    fontSize: fontSize.sm,
     textAlign: 'center',
   },
   compareGenre: {
-    fontSize: 12,
+    fontSize: fontSize.xs,
     fontStyle: 'italic',
     textAlign: 'center',
   },
   comparisonHint: {
-    fontSize: 12,
+    fontSize: fontSize.xs,
     marginBottom: 16,
     fontStyle: 'italic',
   },
@@ -16497,8 +16498,8 @@ const styles = StyleSheet.create({
     marginBottom: 16,
   },
   comparisonLabel: {
-    fontSize: 14,
-    fontWeight: '600',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.semibold,
     marginBottom: 8,
   },
   comparisonValues: {
@@ -16511,8 +16512,8 @@ const styles = StyleSheet.create({
     borderRadius: 6,
   },
   comparisonValueText: {
-    fontSize: 13,
-    lineHeight: 18,
+    fontSize: fontSize.sm,
+    lineHeight: lineHeight.xs,
   },
   costComparisonContainer: {
     flexDirection: 'row',
@@ -16532,20 +16533,20 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   costName: {
-    fontSize: 14,
-    fontWeight: '600',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.semibold,
     marginBottom: 8,
   },
   costPrice: {
-    fontSize: 18,
-    fontWeight: 'bold',
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.bold,
   },
   costPriceUsd: {
-    fontSize: 14,
+    fontSize: fontSize.sm,
     marginTop: 4,
   },
   emptyStateText: {
-    fontSize: 14,
+    fontSize: fontSize.sm,
     textAlign: 'center',
     padding: 20,
   },
@@ -16553,8 +16554,8 @@ const styles = StyleSheet.create({
     marginTop: 8,
   },
   shareTitle: {
-    fontSize: 14,
-    fontWeight: '600',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.semibold,
     marginBottom: 12,
   },
   shareButtons: {
@@ -16569,8 +16570,8 @@ const styles = StyleSheet.create({
   },
   shareButtonText: {
     color: '#ffffff',
-    fontSize: 13,
-    fontWeight: '600',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.semibold,
   },
   // Drummer detail wrapper for share button positioning
   drummerDetailWrapper: {
@@ -16599,8 +16600,8 @@ const styles = StyleSheet.create({
     ...(Platform.OS === 'web' && { boxShadow: '0 2px 8px rgba(0, 0, 0, 0.15)' }),
   },
   shareSideRailLabel: {
-    fontSize: 10,
-    fontWeight: '600',
+    fontSize: fontSize.xs,
+    fontWeight: fontWeight.semibold,
     textTransform: 'uppercase',
     letterSpacing: 0.5,
     marginBottom: 4,
@@ -16625,7 +16626,7 @@ const styles = StyleSheet.create({
     backgroundColor: 'transparent',
   },
   shareSideRailIcon: {
-    fontSize: 16,
+    fontSize: fontSize.base,
     color: '#ffffff',
   },
   // Mobile: Floating bottom bar share buttons
@@ -16645,8 +16646,8 @@ const styles = StyleSheet.create({
     ...(Platform.OS === 'web' && { boxShadow: '0 -2px 8px rgba(0, 0, 0, 0.1)' }),
   },
   shareFloatingLabel: {
-    fontSize: 13,
-    fontWeight: '600',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.semibold,
     marginRight: 8,
   },
   shareFloatingButtons: {
@@ -16676,7 +16677,7 @@ const styles = StyleSheet.create({
     backgroundColor: 'rgba(100, 100, 100, 0.2)',
   },
   shareFloatingIcon: {
-    fontSize: 18,
+    fontSize: fontSize.lg,
     color: '#ffffff',
   },
   // Toast notification for copy success
@@ -16698,8 +16699,8 @@ const styles = StyleSheet.create({
     }),
   },
   shareToastText: {
-    fontSize: 14,
-    fontWeight: '500',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.medium,
   },
   // Legacy profile share styles (kept for comparison page compatibility)
   profileShareContainer: {
@@ -16735,16 +16736,16 @@ const styles = StyleSheet.create({
     backgroundColor: 'rgba(255, 255, 255, 0.1)',
   },
   profileShareIcon: {
-    fontSize: 14,
+    fontSize: fontSize.sm,
     color: '#ffffff',
   },
   profileShareText: {
-    fontSize: 13,
-    fontWeight: '500',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.medium,
   },
   profileShareTextLight: {
-    fontSize: 13,
-    fontWeight: '500',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.medium,
     color: '#ffffff',
   },
   // Gear detail page styles
@@ -16775,17 +16776,17 @@ const styles = StyleSheet.create({
     marginBottom: 8,
   },
   gearCategoryText: {
-    fontSize: 12,
-    fontWeight: '600',
+    fontSize: fontSize.xs,
+    fontWeight: fontWeight.semibold,
     textTransform: 'uppercase',
   },
   gearDetailName: {
-    fontSize: 24,
-    fontWeight: 'bold',
+    fontSize: fontSize.xl,
+    fontWeight: fontWeight.bold,
     marginBottom: 4,
   },
   gearDetailBrand: {
-    fontSize: 18,
+    fontSize: fontSize.lg,
     marginBottom: 8,
   },
   specRow: {
@@ -16796,12 +16797,12 @@ const styles = StyleSheet.create({
     borderBottomColor: 'rgba(128, 128, 128, 0.2)',
   },
   specLabel: {
-    fontSize: 14,
-    fontWeight: '500',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.medium,
     flex: 1,
   },
   specValue: {
-    fontSize: 14,
+    fontSize: fontSize.sm,
     flex: 1,
     textAlign: 'right',
   },
@@ -16814,15 +16815,15 @@ const styles = StyleSheet.create({
     paddingVertical: 8,
   },
   gearPriceLabel: {
-    fontSize: 15,
+    fontSize: fontSize.base,
   },
   gearPrice: {
-    fontSize: 18,
-    fontWeight: 'bold',
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.bold,
     fontFamily: Platform.OS === 'ios' ? 'Menlo' : 'monospace',
   },
   usedBySubtitle: {
-    fontSize: 14,
+    fontSize: fontSize.sm,
     marginBottom: 16,
   },
   usedByContainer: {
@@ -16846,12 +16847,12 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   usedByName: {
-    fontSize: 16,
-    fontWeight: '600',
+    fontSize: fontSize.base,
+    fontWeight: fontWeight.semibold,
     marginBottom: 2,
   },
   usedByBand: {
-    fontSize: 14,
+    fontSize: fontSize.sm,
   },
   relatedGearContainer: {
     flexDirection: 'row',
@@ -16872,12 +16873,12 @@ const styles = StyleSheet.create({
     aspectRatio: 3 / 2, // Prevent CLS (Issue #248)
   },
   relatedGearName: {
-    fontSize: 13,
-    fontWeight: '500',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.medium,
     marginBottom: 4,
   },
   relatedGearPrice: {
-    fontSize: 12,
+    fontSize: fontSize.xs,
   },
   // Search and Filter styles
   searchFilterContainer: {
@@ -16899,12 +16900,12 @@ const styles = StyleSheet.create({
     height: 48, // WCAG AA touch target (was 44)
   },
   searchIcon: {
-    fontSize: 16,
+    fontSize: fontSize.base,
     marginRight: 8,
   },
   searchInput: {
     flex: 1,
-    fontSize: 16,
+    fontSize: fontSize.base,
     height: '100%',
     outlineStyle: 'none',
   },
@@ -16912,7 +16913,7 @@ const styles = StyleSheet.create({
     padding: 4,
   },
   searchClearText: {
-    fontSize: 14,
+    fontSize: fontSize.sm,
   },
   searchShortcut: {
     paddingHorizontal: 6,
@@ -16921,7 +16922,7 @@ const styles = StyleSheet.create({
     borderWidth: 1,
   },
   searchShortcutText: {
-    fontSize: 12,
+    fontSize: fontSize.xs,
     fontFamily: Platform.OS === 'ios' ? 'Menlo' : 'monospace',
   },
   suggestionsContainer: {
@@ -16963,15 +16964,15 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   suggestionTitle: {
-    fontSize: 14,
-    fontWeight: '500',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.medium,
   },
   suggestionSubtitle: {
-    fontSize: 12,
+    fontSize: fontSize.xs,
     marginTop: 2,
   },
   suggestionType: {
-    fontSize: 16,
+    fontSize: fontSize.base,
     marginLeft: 8,
   },
   // Filter bar styles
@@ -16988,8 +16989,8 @@ const styles = StyleSheet.create({
     paddingVertical: 4,
   },
   filterLabel: {
-    fontSize: 12,
-    fontWeight: '600',
+    fontSize: fontSize.xs,
+    fontWeight: fontWeight.semibold,
     marginRight: 4,
   },
   filterSeparator: {
@@ -17005,8 +17006,8 @@ const styles = StyleSheet.create({
     borderWidth: 1,
   },
   filterChipText: {
-    fontSize: 12,
-    fontWeight: '500',
+    fontSize: fontSize.xs,
+    fontWeight: fontWeight.medium,
   },
   filterDropdownContainer: {
     position: 'relative',
@@ -17022,11 +17023,11 @@ const styles = StyleSheet.create({
     gap: 6,
   },
   filterDropdownLabel: {
-    fontSize: 12,
-    fontWeight: '500',
+    fontSize: fontSize.xs,
+    fontWeight: fontWeight.medium,
   },
   filterDropdownArrow: {
-    fontSize: 8,
+    fontSize: fontSize.xs,
   },
   filterDropdownMenu: {
     position: 'absolute',
@@ -17048,7 +17049,7 @@ const styles = StyleSheet.create({
     borderBottomWidth: 1,
   },
   filterDropdownItemText: {
-    fontSize: 13,
+    fontSize: fontSize.sm,
   },
   filterResultsContainer: {
     flexDirection: 'row',
@@ -17057,14 +17058,14 @@ const styles = StyleSheet.create({
     marginTop: 4,
   },
   filterResultCount: {
-    fontSize: 13,
+    fontSize: fontSize.sm,
   },
   clearFiltersLink: {
     padding: 4,
   },
   clearFiltersLinkText: {
-    fontSize: 12,
-    fontWeight: '500',
+    fontSize: fontSize.xs,
+    fontWeight: fontWeight.medium,
   },
   // Mobile filter styles
   filterBarMobile: {
@@ -17086,11 +17087,11 @@ const styles = StyleSheet.create({
     gap: 8,
   },
   filterToggleText: {
-    fontSize: 14,
-    fontWeight: '500',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.medium,
   },
   filterToggleArrow: {
-    fontSize: 10,
+    fontSize: fontSize.xs,
   },
   filterPanelMobile: {
     padding: 12,
@@ -17108,8 +17109,8 @@ const styles = StyleSheet.create({
     marginTop: 4,
   },
   clearFiltersText: {
-    fontSize: 14,
-    fontWeight: '500',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.medium,
   },
   // No results styles
   noResultsContainer: {
@@ -17119,7 +17120,7 @@ const styles = StyleSheet.create({
     padding: 40,
   },
   noResultsText: {
-    fontSize: 16,
+    fontSize: fontSize.base,
     textAlign: 'center',
     marginBottom: 16,
   },
@@ -17130,8 +17131,8 @@ const styles = StyleSheet.create({
     borderWidth: 1,
   },
   clearFiltersButtonText: {
-    fontSize: 14,
-    fontWeight: '600',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.semibold,
   },
   // Newsletter Footer styles
   newsletterFooter: {
@@ -17159,12 +17160,12 @@ const styles = StyleSheet.create({
     minWidth: 200,
   },
   newsletterTitle: {
-    fontSize: 18,
-    fontWeight: 'bold',
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.bold,
     marginBottom: 2,
   },
   newsletterSubtitle: {
-    fontSize: 14,
+    fontSize: fontSize.sm,
   },
   newsletterForm: {
     flexDirection: 'row',
@@ -17191,7 +17192,7 @@ const styles = StyleSheet.create({
   newsletterInput: {
     paddingHorizontal: 16,
     paddingVertical: 12,
-    fontSize: 16,
+    fontSize: fontSize.base,
     height: 48,
     outlineStyle: 'none',
   },
@@ -17213,19 +17214,19 @@ const styles = StyleSheet.create({
   },
   newsletterButtonText: {
     color: '#000000',
-    fontSize: 16,
-    fontWeight: '600',
+    fontSize: fontSize.base,
+    fontWeight: fontWeight.semibold,
   },
   newsletterSuccessContainer: {
     flex: 1,
     maxWidth: 400,
   },
   newsletterSuccess: {
-    fontSize: 16,
-    fontWeight: '500',
+    fontSize: fontSize.base,
+    fontWeight: fontWeight.medium,
   },
   newsletterError: {
-    fontSize: 14,
+    fontSize: fontSize.sm,
     marginTop: 8,
     width: '100%',
     textAlign: 'center',
@@ -17244,12 +17245,12 @@ const styles = StyleSheet.create({
     marginBottom: 16,
   },
   kitCompareTitle: {
-    fontSize: 28,
-    fontWeight: 'bold',
+    fontSize: fontSize.display.sm,
+    fontWeight: fontWeight.bold,
     marginBottom: 8,
   },
   kitCompareSubtitle: {
-    fontSize: 16,
+    fontSize: fontSize.base,
     marginBottom: 20,
   },
   kitCompareDrummerCard: {
@@ -17272,12 +17273,12 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   kitCompareDrummerName: {
-    fontSize: 18,
-    fontWeight: '600',
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.semibold,
     marginBottom: 4,
   },
   kitCompareDrummerBand: {
-    fontSize: 14,
+    fontSize: fontSize.sm,
   },
   kitFormHeader: {
     flexDirection: 'row',
@@ -17286,8 +17287,8 @@ const styles = StyleSheet.create({
     marginBottom: 16,
   },
   kitClearButton: {
-    fontSize: 14,
-    fontWeight: '500',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.medium,
   },
   kitFormGrid: {
     gap: 16,
@@ -17296,8 +17297,8 @@ const styles = StyleSheet.create({
     gap: 8,
   },
   kitFormLabel: {
-    fontSize: 14,
-    fontWeight: '600',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.semibold,
   },
   kitCompareButton: {
     marginTop: 20,
@@ -17308,8 +17309,8 @@ const styles = StyleSheet.create({
   },
   kitCompareButtonText: {
     color: '#ffffff',
-    fontSize: 16,
-    fontWeight: '700',
+    fontSize: fontSize.base,
+    fontWeight: fontWeight.bold,
   },
   kitMatchSection: {
     alignItems: 'center',
@@ -17319,21 +17320,21 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   kitMatchPercentage: {
-    fontSize: 72,
+    fontSize: fontSize.display.lg,
     fontWeight: '900',
     fontFamily: Platform.OS === 'ios' ? 'Menlo' : 'monospace',
   },
   kitMatchLabel: {
-    fontSize: 20,
-    fontWeight: '600',
+    fontSize: fontSize.xl,
+    fontWeight: fontWeight.semibold,
     marginTop: 8,
   },
   kitMatchDescription: {
-    fontSize: 15,
+    fontSize: fontSize.base,
     textAlign: 'center',
     marginTop: 12,
     maxWidth: 300,
-    lineHeight: 22,
+    lineHeight: lineHeight.sm,
   },
   kitMatchRow: {
     flexDirection: 'row',
@@ -17346,13 +17347,13 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   kitMatchCategory: {
-    fontSize: 12,
+    fontSize: fontSize.xs,
     textTransform: 'uppercase',
     marginBottom: 4,
   },
   kitMatchGear: {
-    fontSize: 15,
-    fontWeight: '500',
+    fontSize: fontSize.base,
+    fontWeight: fontWeight.medium,
   },
   kitMatchBadge: {
     paddingVertical: 6,
@@ -17361,11 +17362,11 @@ const styles = StyleSheet.create({
     marginLeft: 12,
   },
   kitMatchBadgeText: {
-    fontSize: 12,
-    fontWeight: '600',
+    fontSize: fontSize.xs,
+    fontWeight: fontWeight.semibold,
   },
   kitUpgradeHint: {
-    fontSize: 14,
+    fontSize: fontSize.sm,
     marginBottom: 16,
   },
   kitUpgradeRow: {
@@ -17373,7 +17374,7 @@ const styles = StyleSheet.create({
     borderBottomWidth: 1,
   },
   kitUpgradeCategory: {
-    fontSize: 12,
+    fontSize: fontSize.xs,
     textTransform: 'uppercase',
     marginBottom: 12,
   },
@@ -17386,18 +17387,18 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   kitUpgradeLabel: {
-    fontSize: 11,
+    fontSize: fontSize.xs,
     marginBottom: 4,
   },
   kitUpgradeValue: {
-    fontSize: 14,
-    fontWeight: '500',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.medium,
   },
   kitUpgradeArrow: {
-    fontSize: 20,
+    fontSize: fontSize.xl,
   },
   kitShareHint: {
-    fontSize: 14,
+    fontSize: fontSize.sm,
     marginBottom: 16,
   },
   kitShareButtons: {
@@ -17415,8 +17416,8 @@ const styles = StyleSheet.create({
   },
   kitShareButtonText: {
     color: '#ffffff',
-    fontSize: 14,
-    fontWeight: '600',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.semibold,
   },
   kitReferenceGrid: {
     gap: 8,
@@ -17429,12 +17430,12 @@ const styles = StyleSheet.create({
   },
   kitReferenceLabel: {
     width: 80,
-    fontSize: 13,
-    fontWeight: '500',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.medium,
   },
   kitReferenceValue: {
     flex: 1,
-    fontSize: 13,
+    fontSize: fontSize.sm,
   },
   // Compare Your Kit button on drummer profile
   compareKitButton: {
@@ -17449,8 +17450,8 @@ const styles = StyleSheet.create({
   },
   compareKitButtonText: {
     color: '#ffffff',
-    fontSize: 15,
-    fontWeight: '600',
+    fontSize: fontSize.base,
+    fontWeight: fontWeight.semibold,
   },
   // Compare Your Kit CTA section on drummer profile
   compareYourKitCTA: {
@@ -17459,10 +17460,10 @@ const styles = StyleSheet.create({
     textAlign: 'center',
   },
   compareYourKitDescription: {
-    fontSize: 15,
+    fontSize: fontSize.base,
     textAlign: 'center',
     marginBottom: 16,
-    lineHeight: 22,
+    lineHeight: lineHeight.sm,
   },
   compareYourKitButton: {
     backgroundColor: '#dc2626',
@@ -17474,8 +17475,8 @@ const styles = StyleSheet.create({
   },
   compareYourKitButtonText: {
     color: '#ffffff',
-    fontSize: 16,
-    fontWeight: '700',
+    fontSize: fontSize.base,
+    fontWeight: fontWeight.bold,
   },
   // ==========================================
   // DRUMMER SPOTLIGHT STYLES
@@ -17497,13 +17498,13 @@ const styles = StyleSheet.create({
     borderBottomColor: 'rgba(128, 128, 128, 0.2)',
   },
   spotlightLabel: {
-    fontSize: 12,
-    fontWeight: '700',
+    fontSize: fontSize.xs,
+    fontWeight: fontWeight.bold,
     letterSpacing: 1,
   },
   spotlightWeek: {
-    fontSize: 12,
-    fontWeight: '500',
+    fontSize: fontSize.xs,
+    fontWeight: fontWeight.medium,
   },
   spotlightContent: {
     flexDirection: 'row',
@@ -17537,12 +17538,12 @@ const styles = StyleSheet.create({
     width: '100%',
   },
   spotlightName: {
-    fontSize: 22,
-    fontWeight: '700',
+    fontSize: fontSize.xl,
+    fontWeight: fontWeight.bold,
     marginBottom: 4,
   },
   spotlightBand: {
-    fontSize: 16,
+    fontSize: fontSize.base,
     marginBottom: 16,
   },
   spotlightQuickFacts: {
@@ -17550,8 +17551,8 @@ const styles = StyleSheet.create({
     width: '100%',
   },
   spotlightSectionTitle: {
-    fontSize: 14,
-    fontWeight: '600',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.semibold,
     marginBottom: 8,
   },
   spotlightFactRow: {
@@ -17560,22 +17561,22 @@ const styles = StyleSheet.create({
     marginBottom: 6,
   },
   spotlightFactBullet: {
-    fontSize: 14,
+    fontSize: fontSize.sm,
     marginRight: 8,
-    fontWeight: '700',
+    fontWeight: fontWeight.bold,
   },
   spotlightFactText: {
     flex: 1,
-    fontSize: 13,
-    lineHeight: 19,
+    fontSize: fontSize.sm,
+    lineHeight: lineHeight.sm,
   },
   spotlightIconicSection: {
     marginBottom: 16,
     width: '100%',
   },
   spotlightIconicText: {
-    fontSize: 14,
-    lineHeight: 21,
+    fontSize: fontSize.sm,
+    lineHeight: lineHeight.sm,
     fontStyle: 'italic',
   },
   spotlightGearSection: {
@@ -17587,9 +17588,9 @@ const styles = StyleSheet.create({
     borderRadius: 8,
   },
   spotlightGearHighlight: {
-    fontSize: 13,
-    fontWeight: '500',
-    lineHeight: 19,
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.medium,
+    lineHeight: lineHeight.sm,
   },
   spotlightCTAs: {
     flexDirection: 'row',
@@ -17608,8 +17609,8 @@ const styles = StyleSheet.create({
   },
   spotlightCTAPrimaryText: {
     color: '#ffffff',
-    fontSize: 14,
-    fontWeight: '600',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.semibold,
   },
   spotlightCTASecondary: {
     flex: 1,
@@ -17620,8 +17621,8 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   spotlightCTASecondaryText: {
-    fontSize: 14,
-    fontWeight: '500',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.medium,
   },
   // ==========================================
   // SPOTLIGHTS ARCHIVE PAGE STYLES

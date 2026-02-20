@@ -103,6 +103,49 @@ test.describe('MusicGroup Schema - Issue #429', () => {
     expect(musicGroup['@id']).toContain('#band');
   });
 
+  // Issue #516: MusicGroup includes member relationship pointing to Person
+  testOrSkip('MusicGroup schema includes member relationship (Issue #516)', async ({ page }) => {
+    await page.goto('/drummer/1', { waitUntil: 'load' });
+    await page.waitForTimeout(2000);
+
+    const ldJsonScript = await page.locator('script[type="application/ld+json"][data-schema="main"]');
+    const schemaText = await ldJsonScript.textContent();
+    const schema = JSON.parse(schemaText);
+    
+    // Find MusicGroup and verify member relationship
+    const musicGroup = schema['@graph'].find(entity => entity['@type'] === 'MusicGroup');
+    expect(musicGroup).toBeDefined();
+    expect(musicGroup.member).toBeDefined();
+    expect(musicGroup.member['@type']).toBe('Person');
+    expect(musicGroup.member['@id']).toBeDefined();
+    expect(musicGroup.member.name).toBe('Lars Ulrich');
+    
+    // Verify @id uses slug-based URL (not numeric ID)
+    expect(musicGroup.member['@id']).toContain('/drummer/lars-ulrich#person');
+  });
+
+  // Issue #516: Person schema @id uses slug-based URL
+  testOrSkip('Person schema @id uses slug-based URL (Issue #516)', async ({ page }) => {
+    await page.goto('/drummer/1', { waitUntil: 'load' });
+    await page.waitForTimeout(2000);
+
+    const ldJsonScript = await page.locator('script[type="application/ld+json"][data-schema="main"]');
+    const schemaText = await ldJsonScript.textContent();
+    const schema = JSON.parse(schemaText);
+    
+    const person = schema['@graph'].find(entity => entity['@type'] === 'Person');
+    expect(person).toBeDefined();
+    expect(person['@id']).toBeDefined();
+    
+    // @id should use slug-based URL, not numeric ID
+    expect(person['@id']).toContain('/drummer/lars-ulrich#person');
+    expect(person['@id']).not.toContain('/drummer/1#person');
+    
+    // Person should also have url property
+    expect(person.url).toBeDefined();
+    expect(person.url).toContain('/drummer/lars-ulrich');
+  });
+
   testOrSkip('Danny Carey page includes Tool MusicGroup schema', async ({ page }) => {
     // Test Tool (Issue #355 reference)
     await page.goto('/drummer/14', { waitUntil: 'load' });

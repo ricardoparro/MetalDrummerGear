@@ -573,32 +573,45 @@ export function generateMusicGroupSchemaFromDrummer(drummer) {
 }
 
 /**
+ * Helper to generate URL slug from a name
+ * @param {string} name - Name to convert to slug
+ * @returns {string} URL-safe slug
+ */
+function toSlug(name) {
+  return name.toLowerCase()
+    .replace(/[^a-z0-9\s-]/g, '')
+    .replace(/\s+/g, '-')
+    .replace(/-+/g, '-');
+}
+
+/**
  * Generate multiple MusicGroup schemas from drummer's bands array
  * Issue #444: Added for drummer-band relationships with multiple bands
+ * Issue #516: Fixed @id references to use slug-based URLs
  * @param {Object} drummer - Drummer data object with bands array
  * @returns {Array} Array of MusicGroup schema objects
  */
 export function generateAllMusicGroupSchemasFromDrummer(drummer) {
   if (!drummer) return [];
   
+  // Generate drummer slug for @id references (Issue #516)
+  const drummerSlug = toSlug(drummer.name);
+  
   // Use the bands array if available, otherwise fallback to single band
   const bandsArray = drummer.bands || (drummer.band ? [{ name: drummer.band }] : []);
   
   return bandsArray.map((bandEntry, index) => {
     const bandName = bandEntry.name || bandEntry;
-    const bandSlug = bandName.toLowerCase()
-      .replace(/[^a-z0-9\s-]/g, '')
-      .replace(/\s+/g, '-')
-      .replace(/-+/g, '-');
+    const bandSlug = toSlug(bandName);
     
     // Check if we have full band data
     const bandData = getBand(bandSlug);
     if (bandData) {
       const schema = generateMusicGroupSchema(bandData);
-      // Add member reference to the drummer
+      // Add member reference to the drummer (Issue #516: use slug-based @id)
       schema.member = {
         "@type": "Person",
-        "@id": `https://metalforge.io/drummer/${drummer.id}#person`,
+        "@id": `https://metalforge.io/drummer/${drummerSlug}#person`,
         "name": drummer.name
       };
       return schema;
@@ -609,6 +622,7 @@ export function generateAllMusicGroupSchemasFromDrummer(drummer) {
       "@type": "MusicGroup",
       "@id": `https://metalforge.io/bands/${bandSlug}#band`,
       "name": bandName,
+      "url": `https://metalforge.io/bands/${bandSlug}`,
     };
     
     // Add period if available
@@ -628,10 +642,10 @@ export function generateAllMusicGroupSchemasFromDrummer(drummer) {
       `https://en.wikipedia.org/wiki/${encodeURIComponent(wikiSlug)}`
     ];
     
-    // Add member reference
+    // Add member reference (Issue #516: use slug-based @id)
     schema.member = {
       "@type": "Person",
-      "@id": `https://metalforge.io/drummer/${drummer.id}#person`,
+      "@id": `https://metalforge.io/drummer/${drummerSlug}#person`,
       "name": drummer.name
     };
     

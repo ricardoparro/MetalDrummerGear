@@ -31,7 +31,7 @@
 - **VideoObject Schema:** YouTube embeds on drummer pages (#183, #186) ✅
 - **Quotation Schema:** Drummer interview quotes ✅
 
-### 🔄 In Progress — Performance & Media (Phase 4)
+### ✅ Completed — Performance & Media (Phase 4)
 - [x] **Core Web Vitals optimization** — #442 ✅
   - YouTube facade pattern (500KB+ savings per embed)
   - Above-fold image preloading
@@ -40,9 +40,11 @@
   - YouTube preconnect hints
 - [x] **Image optimization** (WebP, lazy loading) — #323 ✅
 
-### 📋 Future Enhancements (Phase 5)
+### ✅ Completed — Entity Relationships (Phase 5a)
+- [x] **MusicGroup schema** linking drummers to bands — #517 ✅
+
+### 📋 Future Enhancements (Phase 5b — Feature-Dependent)
 - [ ] AggregateRating for gear items (requires user reviews feature)
-- [ ] MusicGroup schema linking drummers to their bands
 - [ ] HowTo schema for gear setup guides (if content added)
 - [ ] SearchAction schema for site search (if implemented)
 
@@ -55,8 +57,9 @@
 | 1 | Technical Foundation | ✅ Complete |
 | 2 | Content Optimization | ✅ Complete |
 | 3 | Structured Data / LLM | ✅ Complete |
-| 4 | Performance & Media | 🔄 In Progress |
-| 5 | Future Enhancements | 📋 Planned |
+| 4 | Performance & Media | ✅ Complete |
+| 5a | Entity Relationships | ✅ Complete |
+| 5b | Feature-Dependent | 📋 Blocked |
 
 ---
 
@@ -74,6 +77,7 @@
 - 21 drummers currently with bios, gear, videos, endorsements
 
 ## Recent Progress
+- **2026-02-21:** SEO audit — MusicGroup complete (#517), Phases 1-5a done. Remaining items blocked on features.
 - **2026-02-16:** Core Web Vitals optimization (#442) — YouTube facade, image preloading, CLS/INP improvements
 - **2026-02-07:** Closed #292 — VideoObject schema already implemented (since #183/#186)
 - **2026-02-04:** SEO audit — All Phase 3 work confirmed complete, updated plan
@@ -82,4 +86,4 @@
 - **2026-02-01:** FAQPage (#36) and ItemList (#37) completed
 
 ---
-*Last updated: 2026-02-07 by SEO Agent*
+*Last updated: 2026-02-21 by SEO Agent*

@@ -94,13 +94,32 @@ function hasExtendedBio(drummerId) {
 // Lazy loaded for TBT optimization (#537)
 let _bandsModule = null;
 let _bandsLoadPromise = null;
+let _bandsLoadListeners = [];
 const loadBands = () => import('./data/bands');
 
 function preloadBands() {
   if (!_bandsLoadPromise) {
-    _bandsLoadPromise = loadBands().then(m => { _bandsModule = m; return m; });
+    _bandsLoadPromise = loadBands().then(m => { 
+      _bandsModule = m; 
+      // Notify all listeners that the module is loaded (fix for #541)
+      _bandsLoadListeners.forEach(cb => cb());
+      _bandsLoadListeners = [];
+      return m; 
+    });
   }
   return _bandsLoadPromise;
+}
+// Subscribe to bands module load - returns unsubscribe function (fix for #541)
+function onBandsLoaded(callback) {
+  if (_bandsModule) {
+    // Module already loaded, call immediately
+    callback();
+    return () => {};
+  }
+  _bandsLoadListeners.push(callback);
+  return () => {
+    _bandsLoadListeners = _bandsLoadListeners.filter(cb => cb !== callback);
+  };
 }
 function isBandsLoaded() { return _bandsModule !== null; }
 function getBand(slug) { return _bandsModule?.getBand(slug) || null; }
@@ -136,13 +155,32 @@ function getRelatedGenres(slug) { return _genresModule?.getRelatedGenres(slug) |
 // Lazy loaded for TBT optimization (#537)
 let _gearComparisonsModule = null;
 let _gearComparisonsLoadPromise = null;
+let _gearComparisonsLoadListeners = [];
 const loadGearComparisons = () => import('./data/gearComparisons');
 
 function preloadGearComparisons() {
   if (!_gearComparisonsLoadPromise) {
-    _gearComparisonsLoadPromise = loadGearComparisons().then(m => { _gearComparisonsModule = m; return m; });
+    _gearComparisonsLoadPromise = loadGearComparisons().then(m => { 
+      _gearComparisonsModule = m; 
+      // Notify all listeners that the module is loaded
+      _gearComparisonsLoadListeners.forEach(cb => cb());
+      _gearComparisonsLoadListeners = [];
+      return m; 
+    });
   }
   return _gearComparisonsLoadPromise;
+}
+// Subscribe to gear comparisons module load - returns unsubscribe function
+function onGearComparisonsLoaded(callback) {
+  if (_gearComparisonsModule) {
+    // Module already loaded, call immediately
+    callback();
+    return () => {};
+  }
+  _gearComparisonsLoadListeners.push(callback);
+  return () => {
+    _gearComparisonsLoadListeners = _gearComparisonsLoadListeners.filter(cb => cb !== callback);
+  };
 }
 function isGearComparisonsLoaded() { return _gearComparisonsModule !== null; }
 function getGearComparisonBySlug(slug) { return _gearComparisonsModule?.getGearComparisonBySlug(slug) || null; }
@@ -2126,9 +2164,25 @@ function updateDocumentMeta(drummer, drummers = [], filters = {}) {
 }
 
 function SEOHead({ drummer, drummers = [], filters = {} }) {
+  const [bandsReady, setBandsReady] = useState(isBandsLoaded());
+  
+  // Wait for bands module to load for MusicGroup schema (fix for #541)
   useEffect(() => {
-    updateDocumentMeta(drummer, drummers, filters);
-  }, [drummer, drummers, filters]);
+    if (!bandsReady) {
+      preloadBands();
+      const unsubscribe = onBandsLoaded(() => setBandsReady(true));
+      return unsubscribe;
+    }
+  }, [bandsReady]);
+  
+  // Update meta when drummer changes OR when bands module loads
+  useEffect(() => {
+    // Only update meta when bands are loaded to include MusicGroup schema
+    if (bandsReady || !drummer) {
+      updateDocumentMeta(drummer, drummers, filters);
+    }
+  }, [drummer, drummers, filters, bandsReady]);
+  
   return null;
 }
 
@@ -8614,6 +8668,17 @@ function GenresListPage({ onBack, onSelectGenre, theme }) {
 function GearComparisonsIndexPage({ theme, onBack, onSelectComparison }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
+  const [isLoaded, setIsLoaded] = useState(isGearComparisonsLoaded());
+  
+  // Wait for gear comparisons module to load (fix for #541)
+  useEffect(() => {
+    if (!isLoaded) {
+      preloadGearComparisons();
+      const unsubscribe = onGearComparisonsLoaded(() => setIsLoaded(true));
+      return unsubscribe;
+    }
+  }, [isLoaded]);
+  
   const allComparisons = getAllGearComparisons();
 
   // Group comparisons by category
@@ -8639,6 +8704,32 @@ function GearComparisonsIndexPage({ theme, onBack, onSelectComparison }) {
   useEffect(() => {
     updateGearComparisonMeta(null);
   }, []);
+  
+  // Show loading state while module is loading (fix for #541)
+  if (!isLoaded) {
+    return (
+      <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+        <View style={styles.detailContent}>
+          <TouchableOpacity
+            onPress={onBack}
+            style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+            accessibilityRole="button"
+            accessibilityLabel="Go back"
+          >
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+          </TouchableOpacity>
+          <Text style={[styles.bandPageTitle, { color: theme.text }]}>⚖️ Gear Comparisons</Text>
+          <Text style={[styles.bandPageSubtitle, { color: theme.secondaryText, marginBottom: 24 }]}>
+            Compare top drum brands and gear for metal drumming. Expert analysis, specs, pricing, and pro endorsements.
+          </Text>
+          <View style={{ alignItems: 'center', padding: 40 }}>
+            <Text style={{ fontSize: 32, marginBottom: 12 }}>⏳</Text>
+            <Text style={{ color: theme.secondaryText }}>Loading comparisons...</Text>
+          </View>
+        </View>
+      </ScrollView>
+    );
+  }
 
   return (
     <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
@@ -8732,6 +8823,17 @@ function GearComparisonsIndexPage({ theme, onBack, onSelectComparison }) {
 function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, drummers }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
+  const [isLoaded, setIsLoaded] = useState(isGearComparisonsLoaded());
+  
+  // Wait for gear comparisons module to load (fix for #541)
+  useEffect(() => {
+    if (!isLoaded) {
+      preloadGearComparisons();
+      const unsubscribe = onGearComparisonsLoaded(() => setIsLoaded(true));
+      return unsubscribe;
+    }
+  }, [isLoaded]);
+  
   const comparison = getGearComparisonBySlug(comparisonSlug);
 
   // Update SEO
@@ -8740,6 +8842,28 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
       updateGearComparisonMeta(comparison);
     }
   }, [comparison]);
+  
+  // Show loading state while module is loading (fix for #541)
+  if (!isLoaded) {
+    return (
+      <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+        <View style={styles.detailContent}>
+          <TouchableOpacity
+            onPress={onBack}
+            style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+            accessibilityRole="button"
+            accessibilityLabel="Go back"
+          >
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+          </TouchableOpacity>
+          <View style={{ alignItems: 'center', padding: 40 }}>
+            <Text style={{ fontSize: 32, marginBottom: 12 }}>⏳</Text>
+            <Text style={{ color: theme.secondaryText }}>Loading comparison...</Text>
+          </View>
+        </View>
+      </ScrollView>
+    );
+  }
 
   if (!comparison) {
     return (

@@ -9983,6 +9983,7 @@ function DrummerList({
       style={styles.listWrapper}
       data={filteredDrummers}
       keyExtractor={(item) => item.id.toString()}
+      extraData={sortBy}
       renderItem={({ item, index }) => (
         <DrummerCard
           drummer={item}

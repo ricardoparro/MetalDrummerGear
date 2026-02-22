@@ -5,6 +5,19 @@
   "framework": null,
   "headers": [
     {
+      "source": "/index.html",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, s-maxage=3600, stale-while-revalidate=86400"
+        },
+        {
+          "key": "Link",
+          "value": "<https://metalforge.io>; rel=preconnect, <https://upload.wikimedia.org>; rel=preconnect; crossorigin"
+        }
+      ]
+    },
+    {
       "source": "/api/image(.*)",
       "headers": [
         {

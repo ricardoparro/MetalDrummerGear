@@ -84,14 +84,71 @@ function hasExtendedBio(drummerId) {
 // NOTE: Unused import removed - data is inline in METAL_SONGS_DATABASE constant
 // Reduces bundle size by ~15KB (#458)
 
+// ==========================================
+// LAZY-LOADED DATA MODULES - TBT Optimization (#537)
+// These modules are loaded on-demand to reduce initial JS execution time
+// Deferred: bands (~31KB) + genres (~27KB) + gearComparisons (~17KB) + birthdays (~24KB) = ~99KB
+// ==========================================
+
 // Band data with drummer history (Issue #349, #429)
-import { getBand, getAllBands, hasBand, getAllBandSlugs, getBandsForDrummer, generateMusicGroupSchemaFromDrummer, generateAllMusicGroupSchemasFromDrummer, generateMemberOfFromDrummer } from './data/bands';
+// Lazy loaded for TBT optimization (#537)
+let _bandsModule = null;
+let _bandsLoadPromise = null;
+const loadBands = () => import('./data/bands');
+
+function preloadBands() {
+  if (!_bandsLoadPromise) {
+    _bandsLoadPromise = loadBands().then(m => { _bandsModule = m; return m; });
+  }
+  return _bandsLoadPromise;
+}
+function isBandsLoaded() { return _bandsModule !== null; }
+function getBand(slug) { return _bandsModule?.getBand(slug) || null; }
+function getAllBands() { return _bandsModule?.getAllBands() || []; }
+function hasBand(slug) { return _bandsModule?.hasBand(slug) || false; }
+function getAllBandSlugs() { return _bandsModule?.getAllBandSlugs() || []; }
+function getBandsForDrummer(drummerId) { return _bandsModule?.getBandsForDrummer(drummerId) || []; }
+function generateMusicGroupSchemaFromDrummer(drummer) { return _bandsModule?.generateMusicGroupSchemaFromDrummer(drummer) || null; }
+function generateAllMusicGroupSchemasFromDrummer(drummer) { return _bandsModule?.generateAllMusicGroupSchemasFromDrummer(drummer) || []; }
+function generateMemberOfFromDrummer(drummer) { return _bandsModule?.generateMemberOfFromDrummer(drummer) || []; }
 
 // Genre data for landing pages (Issue #340)
-import { getGenre, getAllGenres, hasGenre, getAllGenreSlugs, getDrummersByGenre, getRelatedGenres } from './data/genres';
+// Lazy loaded for TBT optimization (#537)
+let _genresModule = null;
+let _genresLoadPromise = null;
+const loadGenres = () => import('./data/genres');
+
+function preloadGenres() {
+  if (!_genresLoadPromise) {
+    _genresLoadPromise = loadGenres().then(m => { _genresModule = m; return m; });
+  }
+  return _genresLoadPromise;
+}
+function isGenresLoaded() { return _genresModule !== null; }
+function getGenre(slug) { return _genresModule?.getGenre(slug) || null; }
+function getAllGenres() { return _genresModule?.getAllGenres() || []; }
+function hasGenre(slug) { return _genresModule?.hasGenre(slug) || false; }
+function getAllGenreSlugs() { return _genresModule?.getAllGenreSlugs() || []; }
+function getDrummersByGenre(slug, drummers) { return _genresModule?.getDrummersByGenre(slug, drummers) || []; }
+function getRelatedGenres(slug) { return _genresModule?.getRelatedGenres(slug) || []; }
 
 // Gear comparison data (Issue #345)
-import { getGearComparisonBySlug, getAllGearComparisons, hasGearComparison, getAllGearComparisonSlugs } from './data/gearComparisons';
+// Lazy loaded for TBT optimization (#537)
+let _gearComparisonsModule = null;
+let _gearComparisonsLoadPromise = null;
+const loadGearComparisons = () => import('./data/gearComparisons');
+
+function preloadGearComparisons() {
+  if (!_gearComparisonsLoadPromise) {
+    _gearComparisonsLoadPromise = loadGearComparisons().then(m => { _gearComparisonsModule = m; return m; });
+  }
+  return _gearComparisonsLoadPromise;
+}
+function isGearComparisonsLoaded() { return _gearComparisonsModule !== null; }
+function getGearComparisonBySlug(slug) { return _gearComparisonsModule?.getGearComparisonBySlug(slug) || null; }
+function getAllGearComparisons() { return _gearComparisonsModule?.getAllGearComparisons() || []; }
+function hasGearComparison(slug) { return _gearComparisonsModule?.hasGearComparison(slug) || false; }
+function getAllGearComparisonSlugs() { return _gearComparisonsModule?.getAllGearComparisonSlugs() || []; }
 
 // Drumming techniques data (Issue #344)
 // Loaded dynamically for code splitting - TBT optimization #460
@@ -165,17 +222,28 @@ function getDifficultyLevels() {
 }
 
 // Birthday calendar data (Issue #343)
-import { 
-  drummerBirthdays, 
-  getAllBirthdaysSorted, 
-  getBirthdaysByMonth, 
-  getTodaysBirthdays, 
-  getUpcomingBirthdays, 
-  calculateAge, 
-  formatBirthday, 
-  getZodiacSign,
-  MONTH_NAMES 
-} from './data/birthdays';
+// Lazy loaded for TBT optimization (#537)
+let _birthdaysModule = null;
+let _birthdaysLoadPromise = null;
+const loadBirthdays = () => import('./data/birthdays');
+
+function preloadBirthdays() {
+  if (!_birthdaysLoadPromise) {
+    _birthdaysLoadPromise = loadBirthdays().then(m => { _birthdaysModule = m; return m; });
+  }
+  return _birthdaysLoadPromise;
+}
+function isBirthdaysLoaded() { return _birthdaysModule !== null; }
+function drummerBirthdays() { return _birthdaysModule?.drummerBirthdays || []; }
+function getAllBirthdaysSorted() { return _birthdaysModule?.getAllBirthdaysSorted() || []; }
+function getBirthdaysByMonth(month) { return _birthdaysModule?.getBirthdaysByMonth(month) || []; }
+function getTodaysBirthdays() { return _birthdaysModule?.getTodaysBirthdays() || []; }
+function getUpcomingBirthdays(days) { return _birthdaysModule?.getUpcomingBirthdays(days) || []; }
+function calculateAge(year, month, day) { return _birthdaysModule?.calculateAge(year, month, day) || null; }
+function formatBirthday(dateStr) { return _birthdaysModule?.formatBirthday(dateStr) || ''; }
+function getZodiacSign(dateStr) { return _birthdaysModule?.getZodiacSign(dateStr) || ''; }
+// MONTH_NAMES is a constant, keep inline to avoid extra async load
+const MONTH_NAMES = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
 
 // ==========================================
 // TOP 10 LISTS - Loaded dynamically for code splitting
@@ -4826,8 +4894,16 @@ function BirthdayCalendarPage({ theme, onBack, onSelectDrummer }) {
   const isMobile = width < 768;
   const [selectedMonth, setSelectedMonth] = useState(() => getBirthdayMonthFromURL());
   const [copied, setCopied] = useState(false);
+  const [isLoaded, setIsLoaded] = useState(isBirthdaysLoaded());
   
-  // Get birthdays data
+  // TBT Optimization (#537): Ensure birthdays module is loaded
+  useEffect(() => {
+    if (!isBirthdaysLoaded()) {
+      preloadBirthdays().then(() => setIsLoaded(true));
+    }
+  }, []);
+  
+  // Get birthdays data (safe - returns empty arrays if module not loaded)
   const allBirthdays = getAllBirthdaysSorted();
   const todaysBirthdays = getTodaysBirthdays();
   const upcomingBirthdays = getUpcomingBirthdays(30);
@@ -4836,6 +4912,16 @@ function BirthdayCalendarPage({ theme, onBack, onSelectDrummer }) {
   const displayBirthdays = selectedMonth 
     ? getBirthdaysByMonth(selectedMonth)
     : allBirthdays;
+  
+  // Show loading state while module loads
+  if (!isLoaded) {
+    return (
+      <View style={[styles.detailContainer, { backgroundColor: theme.background, justifyContent: 'center', alignItems: 'center', minHeight: 400 }]}>
+        <ActivityIndicator size="large" color={theme.primary} />
+        <Text style={{ color: theme.secondaryText, marginTop: 16 }}>Loading birthday calendar...</Text>
+      </View>
+    );
+  }
 
   // Update SEO meta tags
   useEffect(() => {
@@ -13073,6 +13159,27 @@ function AppContent() {
       requestAnimationFrame(() => {
         document.body.classList.add('lcp-complete');
       });
+      
+      // TBT Optimization (#537): Preload data modules during idle time
+      // This defers ~99KB of JavaScript parsing to after the page is interactive
+      const preloadDataModules = () => {
+        // Preload in priority order based on user navigation patterns
+        preloadBands();
+        preloadGenres();
+        preloadBirthdays();
+        preloadGearComparisons();
+        preloadTechniques();
+        preloadTop10Lists();
+        preloadExtendedBios();
+      };
+      
+      // Use requestIdleCallback for non-blocking preload
+      if (typeof requestIdleCallback === 'function') {
+        requestIdleCallback(preloadDataModules, { timeout: 3000 });
+      } else {
+        // Fallback: defer by 1 second
+        setTimeout(preloadDataModules, 1000);
+      }
     }
   }, []);
   

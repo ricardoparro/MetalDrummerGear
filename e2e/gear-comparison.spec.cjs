@@ -28,6 +28,18 @@ test.describe('Gear Comparisons Index Page', () => {
     await page.goto(`${BASE_URL}/compare`);
     // Wait for page to hydrate
     await page.waitForLoadState('networkidle');
+    
+    // Wait for lazy-loaded comparison data to load (fix for #541)
+    // The page shows loading state while fetching comparisons data
+    try {
+      const loadingText = page.getByText('Loading comparisons');
+      const isLoading = await loadingText.isVisible({ timeout: 1000 }).catch(() => false);
+      if (isLoading) {
+        await loadingText.waitFor({ state: 'hidden', timeout: 10000 });
+      }
+    } catch {
+      // Loading already finished or not showing - continue with test
+    }
   });
 
   test('should display the comparison index page', async ({ page }) => {
@@ -105,6 +117,20 @@ test.describe('Individual Gear Comparison Page', () => {
   test.beforeEach(async ({ page }) => {
     await page.goto(`${BASE_URL}/compare/tama-vs-pearl`);
     await page.waitForLoadState('networkidle');
+    
+    // Wait for lazy-loaded comparison data to load (fix for #541)
+    // The page shows "Loading comparison..." during load, then either comparison content or "Comparison not found"
+    // We need to wait for the loading state to resolve before assertions
+    try {
+      // First, wait for the loading spinner to disappear (if present)
+      const loadingText = page.getByText('Loading comparison');
+      const isLoading = await loadingText.isVisible({ timeout: 1000 }).catch(() => false);
+      if (isLoading) {
+        await loadingText.waitFor({ state: 'hidden', timeout: 10000 });
+      }
+    } catch {
+      // Loading already finished or not showing - continue with test
+    }
   });
 
   test('should display comparison title with both brands', async ({ page }) => {

@@ -31,10 +31,47 @@
     <!-- Preload critical API endpoint for faster data loading -->
     <link rel="preload" href="/api/init" as="fetch" crossorigin />
     
-    <!-- Preload LCP hero image with responsive sizes for mobile performance (#465 #466)
-         Mobile gets 100w image (100px spotlight), Desktop gets 400w (140px spotlight) -->
-    <link rel="preload" href="/images/drummers/lars-ulrich-100w.webp" as="image" type="image/webp" fetchpriority="high" media="(max-width: 767px)" />
-    <link rel="preload" href="/images/drummers/lars-ulrich-400w.webp" as="image" type="image/webp" fetchpriority="high" media="(min-width: 768px)" />
+    <!-- LCP Optimization: Dynamic preload for weekly rotating spotlight image (#536)
+         Computes current spotlight drummer and injects preload early in page lifecycle
+         Breakpoints match getSizesAttribute('spotlight'): 100px for mobile, 140px for desktop -->
+    <script>
+      (function() {
+        // Spotlight drummers in rotation order (must match frontend logic)
+        var spotlightImages = [
+          'joey-jordison',
+          'gene-hoglan', 
+          'danny-carey',
+          'mario-duplantier'
+        ];
+        // Calculate current week number (same algorithm as frontend)
+        var epochStart = new Date('2024-01-01').getTime();
+        var msPerWeek = 7 * 24 * 60 * 60 * 1000;
+        var weekNumber = Math.floor((Date.now() - epochStart) / msPerWeek);
+        var index = weekNumber % spotlightImages.length;
+        var drummer = spotlightImages[index];
+        
+        // Inject preload links for current spotlight
+        // Mobile (<480px): 100px display → 100w image
+        // Desktop (≥480px): 140px display → 200w image (covers retina at 1.5x)
+        var mobile = document.createElement('link');
+        mobile.rel = 'preload';
+        mobile.href = '/images/drummers/' + drummer + '-100w.webp';
+        mobile.as = 'image';
+        mobile.type = 'image/webp';
+        mobile.setAttribute('fetchpriority', 'high');
+        mobile.media = '(max-width: 479px)';
+        document.head.appendChild(mobile);
+        
+        var desktop = document.createElement('link');
+        desktop.rel = 'preload';
+        desktop.href = '/images/drummers/' + drummer + '-200w.webp';
+        desktop.as = 'image';
+        desktop.type = 'image/webp';
+        desktop.setAttribute('fetchpriority', 'high');
+        desktop.media = '(min-width: 480px)';
+        document.head.appendChild(desktop);
+      })();
+    </script>
     
     <!-- SEO Meta Tags -->
     <title>MetalForge - Discover What Pro Metal Drummers Play</title>

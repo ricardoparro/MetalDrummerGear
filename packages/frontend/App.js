@@ -60,13 +60,21 @@ import {
 
 // Extended bios for drummer detail pages (Issue #305)
 // Loaded dynamically for code splitting (~9KB of text data) - TBT optimization #460
+// Fix for #541: Added Promise caching and listeners for reliable async loading
 let _extendedBiosModule = null;
+let _extendedBiosLoadPromise = null;
 const loadExtendedBios = () => import('./data/extendedBios');
+
 function preloadExtendedBios() {
-  if (!_extendedBiosModule) {
-    loadExtendedBios().then(m => { _extendedBiosModule = m; });
+  if (!_extendedBiosLoadPromise) {
+    _extendedBiosLoadPromise = loadExtendedBios().then(m => { 
+      _extendedBiosModule = m; 
+      return m; 
+    });
   }
+  return _extendedBiosLoadPromise;
 }
+function isExtendedBiosLoaded() { return _extendedBiosModule !== null; }
 function getExtendedBio(drummerId) {
   if (_extendedBiosModule) {
     return _extendedBiosModule.getExtendedBio(drummerId);
@@ -7078,7 +7086,25 @@ function DrummerBioPage({ theme, onBack, drummer, onSelectDrummer }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
   const drummerSlug = toSlug(drummer.name);
-  const bio = getExtendedBio(drummerSlug);
+  
+  // Fix for #541: Use Promise-based loading instead of synchronous access
+  // This prevents race conditions where the module isn't fully loaded
+  const [loadState, setLoadState] = useState({ isLoading: true, bio: null });
+  
+  useEffect(() => {
+    let mounted = true;
+    
+    preloadExtendedBios().then(() => {
+      if (mounted) {
+        const bioData = getExtendedBio(drummerSlug);
+        setLoadState({ isLoading: false, bio: bioData });
+      }
+    });
+    
+    return () => { mounted = false; };
+  }, [drummerSlug]);
+  
+  const bio = loadState.bio;
 
   // Update SEO meta tags for bio page
   useEffect(() => {
@@ -7159,6 +7185,29 @@ function DrummerBioPage({ theme, onBack, drummer, onSelectDrummer }) {
       }
     };
   }, [bio, drummer, drummerSlug]);
+
+  // Show loading state while extended bio module is loading (fix for #541)
+  if (loadState.isLoading) {
+    return (
+      <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+        <View style={styles.detailContent}>
+          <TouchableOpacity
+            onPress={onBack}
+            style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+            accessibilityRole="button"
+            accessibilityLabel="Go back to drummer profile"
+          >
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Profile</Text>
+          </TouchableOpacity>
+          <Text style={[styles.bioPageTitle, { color: theme.text }]}>Extended Biography</Text>
+          <View style={{ alignItems: 'center', padding: 40 }}>
+            <Text style={{ fontSize: 32, marginBottom: 12 }}>⏳</Text>
+            <Text style={{ color: theme.secondaryText }}>Loading biography...</Text>
+          </View>
+        </View>
+      </ScrollView>
+    );
+  }
 
   if (!bio) {
     return (
@@ -8674,13 +8723,9 @@ function GearComparisonsIndexPage({ theme, onBack, onSelectComparison }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
   
-  // Use state to track loading and data together to avoid race conditions (#541)
-  const [loadState, setLoadState] = useState(() => {
-    if (isGearComparisonsLoaded()) {
-      return { isLoading: false, comparisons: getAllGearComparisons() };
-    }
-    return { isLoading: true, comparisons: [] };
-  });
+  // Fix for #541: ALWAYS start with loading state, never try to read data synchronously
+  // This prevents race conditions where the module check passes but data isn't ready
+  const [loadState, setLoadState] = useState({ isLoading: true, comparisons: [] });
   
   // Load gear comparisons module (fix for #541)
   useEffect(() => {
@@ -8838,21 +8883,17 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
   
-  // Use state for both loading and comparison data to avoid race conditions (#541)
-  // This ensures comparison is only accessed AFTER the module is confirmed loaded
-  const [loadState, setLoadState] = useState(() => {
-    if (isGearComparisonsLoaded()) {
-      // Module already loaded, get comparison immediately
-      return { isLoading: false, comparison: getGearComparisonBySlug(comparisonSlug) };
-    }
-    return { isLoading: true, comparison: null };
-  });
+  // Fix for #541: ALWAYS start with loading state, never try to read data synchronously
+  // The initial state check was causing race conditions because isGearComparisonsLoaded()
+  // could return true before the module's exports were fully accessible
+  const [loadState, setLoadState] = useState({ isLoading: true, comparison: null });
   
   // Load gear comparisons module and fetch comparison data (fix for #541)
   useEffect(() => {
     let mounted = true;
     
     // Always ensure module is preloaded, then fetch comparison
+    // This guarantees the module is FULLY loaded before we try to access data
     preloadGearComparisons().then(() => {
       if (mounted) {
         const data = getGearComparisonBySlug(comparisonSlug);

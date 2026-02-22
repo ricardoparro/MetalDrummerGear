@@ -12759,6 +12759,8 @@ function AppContent() {
   const [drummers, setDrummers] = useState([]);
   const [loadingDrummers, setLoadingDrummers] = useState(true);
   const [drummersError, setDrummersError] = useState(null);
+  // Pre-computed spotlight from API for faster LCP (#536)
+  const [apiSpotlight, setApiSpotlight] = useState(null);
   const [showCompare, setShowCompare] = useState(() => isComparePage());
   const [showQuiz, setShowQuiz] = useState(() => isQuizPage());
   const [showPrivacy, setShowPrivacy] = useState(() => isPrivacyPage());
@@ -13115,10 +13117,14 @@ function AppContent() {
           setDrummers(optimizedData);
           return;
         }
-        const { drummers: drummersData } = await response.json();
+        const { drummers: drummersData, currentSpotlight } = await response.json();
         // Optimize images for all drummers to reduce bandwidth
         const optimizedData = drummersData.map(drummer => optimizeDrummerImages(drummer));
         setDrummers(optimizedData);
+        // Store pre-computed spotlight for faster LCP (#536)
+        if (currentSpotlight) {
+          setApiSpotlight(optimizeDrummerImages(currentSpotlight));
+        }
       } catch (err) {
         setDrummersError(err.message);
       } finally {
@@ -14862,7 +14868,7 @@ setShowList(false);
           onNavigateToBirthdayCalendar={handleNavigateToBirthdayCalendar}
           onNavigateToGenresList={handleNavigateToGenresList}
           onNavigateToTechniques={handleNavigateToTechniquesIndex}
-          spotlight={getCurrentSpotlightDrummer(drummers)}
+          spotlight={apiSpotlight || getCurrentSpotlightDrummer(drummers)}
           filters={filters}
           onFilterChange={handleFilterChange}
           sortBy={sortBy}

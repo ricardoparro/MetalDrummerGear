@@ -1,8 +1,21 @@
 // Vercel Serverless Function - Combined initial data endpoint
 // Reduces HTTP requests by bundling drummers list in a single response
 // This eliminates 1 HTTP request on initial page load
+// Issue #536: Now includes spotlight drummer for LCP optimization
 
 import { drummers } from '../drummers/index.js';
+
+// Get current week number for spotlight rotation
+function getWeekNumber() {
+  const epochStart = new Date('2024-01-01').getTime();
+  const msPerWeek = 7 * 24 * 60 * 60 * 1000;
+  return Math.floor((Date.now() - epochStart) / msPerWeek);
+}
+
+// Get current spotlight drummer index
+function getCurrentSpotlightIndex(totalDrummers) {
+  return getWeekNumber() % totalDrummers;
+}
 
 export default function handler(req, res) {
   res.setHeader('Access-Control-Allow-Origin', '*');
@@ -18,10 +31,26 @@ export default function handler(req, res) {
     id, name, band, genre, country, image
   }));
 
+  // Compute current spotlight drummer server-side for faster LCP (#536)
+  const spotlightDrummers = drummers.filter(d => d.spotlight);
+  const spotlightIndex = getCurrentSpotlightIndex(spotlightDrummers.length);
+  const currentSpotlight = spotlightDrummers[spotlightIndex];
+  
+  // Include full spotlight data for immediate rendering
+  const spotlightData = currentSpotlight ? {
+    id: currentSpotlight.id,
+    name: currentSpotlight.name,
+    band: currentSpotlight.band,
+    image: currentSpotlight.image,
+    spotlight: currentSpotlight.spotlight
+  } : null;
+
   // Combined response with version for cache busting if needed
   res.status(200).json({
     drummers: drummersList,
-    version: '1.0',
+    currentSpotlight: spotlightData,
+    spotlightWeek: getWeekNumber(),
+    version: '1.1',
     timestamp: Date.now()
   });
 }

@@ -245,9 +245,11 @@ export function getSizesAttribute(context = 'card') {
     case 'gallery':
       return '(max-width: 480px) 90vw, (max-width: 768px) 45vw, 400px';
     case 'hero':
+      return '(max-width: 480px) 100vw, 640px';
     case 'spotlight':
-      // Hero/spotlight images: larger on desktop, constrained on mobile
-      return '(max-width: 480px) 100px, 140px';
+      // Spotlight images: 100px on mobile, 140px on desktop (matches DrummerSpotlight)
+      // Uses 2x resolution for retina: 200px mobile, 280px desktop
+      return '(max-width: 479px) 100px, 140px';
     default:
       return '(max-width: 768px) 100vw, 800px';
   }

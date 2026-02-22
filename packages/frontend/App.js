@@ -2167,13 +2167,18 @@ function SEOHead({ drummer, drummers = [], filters = {} }) {
   const [bandsReady, setBandsReady] = useState(isBandsLoaded());
   
   // Wait for bands module to load for MusicGroup schema (fix for #541)
+  // Use Promise-based approach to avoid race conditions
   useEffect(() => {
-    if (!bandsReady) {
-      preloadBands();
-      const unsubscribe = onBandsLoaded(() => setBandsReady(true));
-      return unsubscribe;
-    }
-  }, [bandsReady]);
+    let mounted = true;
+    
+    preloadBands().then(() => {
+      if (mounted) {
+        setBandsReady(true);
+      }
+    });
+    
+    return () => { mounted = false; };
+  }, []);
   
   // Update meta when drummer changes OR when bands module loads
   useEffect(() => {
@@ -8668,28 +8673,37 @@ function GenresListPage({ onBack, onSelectGenre, theme }) {
 function GearComparisonsIndexPage({ theme, onBack, onSelectComparison }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
-  const [isLoaded, setIsLoaded] = useState(isGearComparisonsLoaded());
   
-  // Wait for gear comparisons module to load (fix for #541)
-  useEffect(() => {
-    if (!isLoaded) {
-      preloadGearComparisons();
-      const unsubscribe = onGearComparisonsLoaded(() => setIsLoaded(true));
-      return unsubscribe;
+  // Use state to track loading and data together to avoid race conditions (#541)
+  const [loadState, setLoadState] = useState(() => {
+    if (isGearComparisonsLoaded()) {
+      return { isLoading: false, comparisons: getAllGearComparisons() };
     }
-  }, [isLoaded]);
+    return { isLoading: true, comparisons: [] };
+  });
   
-  const allComparisons = getAllGearComparisons();
+  // Load gear comparisons module (fix for #541)
+  useEffect(() => {
+    let mounted = true;
+    
+    preloadGearComparisons().then(() => {
+      if (mounted) {
+        setLoadState({ isLoading: false, comparisons: getAllGearComparisons() });
+      }
+    });
+    
+    return () => { mounted = false; };
+  }, []);
 
   // Group comparisons by category
   const comparisonsByCategory = useMemo(() => {
     const groups = {};
-    allComparisons.forEach(c => {
+    loadState.comparisons.forEach(c => {
       if (!groups[c.category]) groups[c.category] = [];
       groups[c.category].push(c);
     });
     return groups;
-  }, [allComparisons]);
+  }, [loadState.comparisons]);
 
   const categoryLabels = {
     drums: '🥁 Drum Kit Comparisons',
@@ -8706,7 +8720,7 @@ function GearComparisonsIndexPage({ theme, onBack, onSelectComparison }) {
   }, []);
   
   // Show loading state while module is loading (fix for #541)
-  if (!isLoaded) {
+  if (loadState.isLoading) {
     return (
       <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
         <View style={styles.detailContent}>
@@ -8823,28 +8837,41 @@ function GearComparisonsIndexPage({ theme, onBack, onSelectComparison }) {
 function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, drummers }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
-  const [isLoaded, setIsLoaded] = useState(isGearComparisonsLoaded());
   
-  // Wait for gear comparisons module to load (fix for #541)
-  useEffect(() => {
-    if (!isLoaded) {
-      preloadGearComparisons();
-      const unsubscribe = onGearComparisonsLoaded(() => setIsLoaded(true));
-      return unsubscribe;
+  // Use state for both loading and comparison data to avoid race conditions (#541)
+  // This ensures comparison is only accessed AFTER the module is confirmed loaded
+  const [loadState, setLoadState] = useState(() => {
+    if (isGearComparisonsLoaded()) {
+      // Module already loaded, get comparison immediately
+      return { isLoading: false, comparison: getGearComparisonBySlug(comparisonSlug) };
     }
-  }, [isLoaded]);
+    return { isLoading: true, comparison: null };
+  });
   
-  const comparison = getGearComparisonBySlug(comparisonSlug);
+  // Load gear comparisons module and fetch comparison data (fix for #541)
+  useEffect(() => {
+    let mounted = true;
+    
+    // Always ensure module is preloaded, then fetch comparison
+    preloadGearComparisons().then(() => {
+      if (mounted) {
+        const data = getGearComparisonBySlug(comparisonSlug);
+        setLoadState({ isLoading: false, comparison: data });
+      }
+    });
+    
+    return () => { mounted = false; };
+  }, [comparisonSlug]);
 
-  // Update SEO
+  // Update SEO when comparison changes
   useEffect(() => {
-    if (comparison) {
-      updateGearComparisonMeta(comparison);
+    if (loadState.comparison) {
+      updateGearComparisonMeta(loadState.comparison);
     }
-  }, [comparison]);
+  }, [loadState.comparison]);
   
   // Show loading state while module is loading (fix for #541)
-  if (!isLoaded) {
+  if (loadState.isLoading) {
     return (
       <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
         <View style={styles.detailContent}>
@@ -8865,6 +8892,8 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
     );
   }
 
+  const comparison = loadState.comparison;
+  
   if (!comparison) {
     return (
       <View style={[styles.detailContainer, { backgroundColor: theme.background }]}>

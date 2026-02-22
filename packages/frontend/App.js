@@ -2,7 +2,7 @@ import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View, FlatList, ActivityIndicator, TouchableOpacity, ScrollView, Linking, Platform, useWindowDimensions, TextInput } from 'react-native';
 import { Image } from 'expo-image';
 import { ThemeProvider, useTheme } from './ThemeContext';
-import { colors, radius, circleRadius } from './colors';
+import { colors } from './colors';
 import { fontSize, lineHeight, fontWeight, textStyles } from './typography';
 import { spacing, space } from './spacing';
 import { useState, useEffect, useCallback, useMemo, useRef, lazy, Suspense, startTransition } from 'react';
@@ -517,7 +517,7 @@ const themeToggleStyles = StyleSheet.create({
   button: {
     width: 40,
     height: 40,
-    borderRadius: radius.xl,
+    borderRadius: 20,
     borderWidth: 1,
     alignItems: 'center',
     justifyContent: 'center',
@@ -568,7 +568,7 @@ function YouTubeEmbed({ videoId, title, theme }) {
               width: '100%', 
               height: '100%', 
               objectFit: 'cover', 
-              borderRadius: radius.md,
+              borderRadius: 8,
               backgroundColor: colors.bg.secondary
             }}
           />
@@ -597,7 +597,7 @@ function YouTubeEmbed({ videoId, title, theme }) {
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowFullScreen
           loading="lazy"
-          style={{ borderRadius: radius.md }}
+          style={{ borderRadius: 8 }}
         />
       </View>
     );
@@ -1435,7 +1435,7 @@ function LazyGalleryImage({ source, style, accessibilityLabel, width = 200, heig
     width: flatStyle.width || width,
     height: flatStyle.height || height,
     backgroundColor: colors.bg.elevated,
-    borderRadius: flatStyle.borderRadius || radius.md,
+    borderRadius: flatStyle.borderRadius || 8,
     display: 'flex',
     alignItems: 'center',
     justifyContent: 'center',
@@ -1446,7 +1446,7 @@ function LazyGalleryImage({ source, style, accessibilityLabel, width = 200, heig
     width: flatStyle.width || width,
     height: flatStyle.height || height,
     objectFit: 'cover',
-    borderRadius: flatStyle.borderRadius || radius.md,
+    borderRadius: flatStyle.borderRadius || 8,
     opacity: isLoaded ? 1 : 0,
     transition: 'opacity 0.3s ease-in-out',
     ...flatStyle,
@@ -2173,7 +2173,7 @@ function DrummerCard({ drummer, theme, onPress, index = 0 }) {
           borderColor: theme.border,
           borderWidth: 1,
           borderStyle: 'solid',
-          borderRadius: radius.lg,
+          borderRadius: 12,
           marginBottom: 16,
           overflow: 'hidden',
           cursor: 'pointer',
@@ -3239,7 +3239,7 @@ function DrummerSelector({ drummers, selectedId, onSelect, placeholder, theme, e
             backgroundColor: theme.card,
             color: selectedId ? theme.text : theme.secondaryText,
             border: `1px solid ${theme.border}`,
-            borderRadius: radius.md,
+            borderRadius: 8,
             appearance: 'none',
             WebkitAppearance: 'none',
             backgroundImage: `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='${encodeURIComponent(theme.secondaryText)}' d='M6 8L1 3h10z'/%3E%3C/svg%3E")`,
@@ -3863,7 +3863,7 @@ function UserGearSelector({ category, value, onChange, theme, isMobile }) {
           backgroundColor: theme.card,
           color: value ? theme.text : theme.secondaryText,
           border: `1px solid ${theme.border}`,
-          borderRadius: radius.md,
+          borderRadius: 8,
           appearance: 'none',
           WebkitAppearance: 'none',
           backgroundImage: `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='${encodeURIComponent(theme.secondaryText)}' d='M6 8L1 3h10z'/%3E%3C/svg%3E")`,
@@ -3892,7 +3892,7 @@ function UserGearSelector({ category, value, onChange, theme, isMobile }) {
         color: theme.text,
         borderColor: theme.border,
         borderWidth: 1,
-        borderRadius: radius.md,
+        borderRadius: 8,
         padding: 12,
         fontSize: 14,
       }}
@@ -8017,7 +8017,7 @@ function GearCategoryPage({ category, categoryData, loading, theme, onBack, onSe
                 <TouchableOpacity
                   key={brand}
                   style={[
-                    { paddingHorizontal: 12, paddingVertical: 6, borderRadius: radius.xl, borderWidth: 1 },
+                    { paddingHorizontal: 12, paddingVertical: 6, borderRadius: 20, borderWidth: 1 },
                     { backgroundColor: theme.card, borderColor: theme.border }
                   ]}
                   accessibilityRole="button"
@@ -8370,7 +8370,7 @@ function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavi
                       borderWidth: 1,
                       paddingHorizontal: 12,
                       paddingVertical: 8,
-                      borderRadius: radius.md,
+                      borderRadius: 8,
                     }]}
                     onPress={() => drummerData && onSelectDrummer(drummerData.id)}
                     disabled={!drummerData}
@@ -8403,7 +8403,7 @@ function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavi
                     backgroundColor: theme.background,
                     borderColor: theme.border,
                     borderWidth: 1,
-                    borderRadius: radius.md,
+                    borderRadius: 8,
                     padding: 12,
                     flexDirection: 'row',
                     alignItems: 'center',
@@ -8418,7 +8418,7 @@ function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavi
                       style={{ 
                         width: 50, 
                         height: 50, 
-                        borderRadius: radius.full, 
+                        borderRadius: 25, 
                         marginRight: 12,
                         backgroundColor: theme.border
                       }}
@@ -8471,7 +8471,7 @@ function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavi
                     borderWidth: 1,
                     paddingHorizontal: 14,
                     paddingVertical: 10,
-                    borderRadius: radius.md,
+                    borderRadius: 8,
                   }]}
                   onPress={() => onNavigateGenre(related.slug)}
                   accessibilityRole="button"
@@ -8493,7 +8493,7 @@ function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavi
               backgroundColor: theme.accent,
               paddingVertical: 14,
               paddingHorizontal: 24,
-              borderRadius: radius.md,
+              borderRadius: 8,
               alignItems: 'center'
             }]}
             onPress={() => {
@@ -8572,7 +8572,7 @@ function GenresListPage({ onBack, onSelectGenre, theme }) {
                 backgroundColor: theme.card,
                 borderColor: genre.color,
                 borderWidth: 2,
-                borderRadius: radius.lg,
+                borderRadius: 12,
                 padding: 16,
                 width: isMobile ? '100%' : 'calc(50% - 8px)',
                 maxWidth: 400,
@@ -8679,7 +8679,7 @@ function GearComparisonsIndexPage({ theme, onBack, onSelectComparison }) {
                       backgroundColor: theme.card,
                       borderColor: theme.border,
                       borderWidth: 1,
-                      borderRadius: radius.lg,
+                      borderRadius: 12,
                       padding: 16,
                       width: isMobile ? '100%' : 'calc(50% - 8px)',
                       maxWidth: 400,
@@ -8715,7 +8715,7 @@ function GearComparisonsIndexPage({ theme, onBack, onSelectComparison }) {
         })}
 
         {/* SEO Footer */}
-        <View style={{ marginTop: 24, padding: 20, backgroundColor: theme.card, borderRadius: radius.lg, borderColor: theme.border, borderWidth: 1 }}>
+        <View style={{ marginTop: 24, padding: 20, backgroundColor: theme.card, borderRadius: 12, borderColor: theme.border, borderWidth: 1 }}>
           <Text style={{ fontSize: 16, fontWeight: '600', color: theme.text, marginBottom: 8 }}>
             🎯 Finding the Right Gear
           </Text>
@@ -8812,7 +8812,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
           <View style={{ 
             flex: 1, 
             backgroundColor: theme.card, 
-            borderRadius: radius.lg, 
+            borderRadius: 12, 
             padding: 20, 
             borderColor: theme.primary, 
             borderWidth: 2 
@@ -8823,7 +8823,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
             <Text style={{ fontSize: 16, color: theme.secondaryText, marginBottom: 12 }}>
               {item1.model}
             </Text>
-            <View style={{ backgroundColor: theme.background, borderRadius: radius.md, padding: 12, marginBottom: 12 }}>
+            <View style={{ backgroundColor: theme.background, borderRadius: 8, padding: 12, marginBottom: 12 }}>
               <Text style={{ color: theme.success, fontWeight: '600', fontSize: 18 }}>
                 {item1.priceRange}
               </Text>
@@ -8851,7 +8851,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
               backgroundColor: theme.primary, 
               width: 50, 
               height: 50, 
-              borderRadius: radius.full, 
+              borderRadius: 25, 
               alignItems: 'center', 
               justifyContent: 'center' 
             }}>
@@ -8863,7 +8863,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
           <View style={{ 
             flex: 1, 
             backgroundColor: theme.card, 
-            borderRadius: radius.lg, 
+            borderRadius: 12, 
             padding: 20, 
             borderColor: '#3b82f6', 
             borderWidth: 2 
@@ -8874,7 +8874,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
             <Text style={{ fontSize: 16, color: theme.secondaryText, marginBottom: 12 }}>
               {item2.model}
             </Text>
-            <View style={{ backgroundColor: theme.background, borderRadius: radius.md, padding: 12, marginBottom: 12 }}>
+            <View style={{ backgroundColor: theme.background, borderRadius: 8, padding: 12, marginBottom: 12 }}>
               <Text style={{ color: theme.success, fontWeight: '600', fontSize: 18 }}>
                 {item2.priceRange}
               </Text>
@@ -8900,7 +8900,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
           </Text>
           <View style={{ flexDirection: isMobile ? 'column' : 'row', gap: 16 }}>
             {/* Item 1 Pros/Cons */}
-            <View style={{ flex: 1, backgroundColor: theme.card, borderRadius: radius.lg, padding: 16, borderColor: theme.border, borderWidth: 1 }}>
+            <View style={{ flex: 1, backgroundColor: theme.card, borderRadius: 12, padding: 16, borderColor: theme.border, borderWidth: 1 }}>
               <Text style={{ fontSize: 16, fontWeight: '600', color: theme.text, marginBottom: 12 }}>
                 {item1.brand} {item1.model}
               </Text>
@@ -8918,7 +8918,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
               ))}
             </View>
             {/* Item 2 Pros/Cons */}
-            <View style={{ flex: 1, backgroundColor: theme.card, borderRadius: radius.lg, padding: 16, borderColor: theme.border, borderWidth: 1 }}>
+            <View style={{ flex: 1, backgroundColor: theme.card, borderRadius: 12, padding: 16, borderColor: theme.border, borderWidth: 1 }}>
               <Text style={{ fontSize: 16, fontWeight: '600', color: theme.text, marginBottom: 12 }}>
                 {item2.brand} {item2.model}
               </Text>
@@ -8939,7 +8939,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
         </View>
 
         {/* Specs Comparison Table */}
-        <View style={{ marginBottom: 24, backgroundColor: theme.card, borderRadius: radius.lg, padding: 16, borderColor: theme.border, borderWidth: 1 }}>
+        <View style={{ marginBottom: 24, backgroundColor: theme.card, borderRadius: 12, padding: 16, borderColor: theme.border, borderWidth: 1 }}>
           <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>
             📊 Specifications
           </Text>
@@ -8973,7 +8973,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
         </View>
 
         {/* Head-to-Head Comparison */}
-        <View style={{ marginBottom: 24, backgroundColor: theme.card, borderRadius: radius.lg, padding: 16, borderColor: theme.border, borderWidth: 1 }}>
+        <View style={{ marginBottom: 24, backgroundColor: theme.card, borderRadius: 12, padding: 16, borderColor: theme.border, borderWidth: 1 }}>
           <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>
             🎯 Head-to-Head
           </Text>
@@ -8996,7 +8996,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
           </Text>
           <View style={{ flexDirection: isMobile ? 'column' : 'row', gap: 16 }}>
             {/* Item 1 Users */}
-            <View style={{ flex: 1, backgroundColor: theme.card, borderRadius: radius.lg, padding: 16, borderColor: theme.primary, borderWidth: 2 }}>
+            <View style={{ flex: 1, backgroundColor: theme.card, borderRadius: 12, padding: 16, borderColor: theme.primary, borderWidth: 2 }}>
               <Text style={{ fontSize: 16, fontWeight: '600', color: theme.text, marginBottom: 12 }}>
                 {item1.brand} Users
               </Text>
@@ -9010,7 +9010,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
                         backgroundColor: drummer ? theme.primary : theme.background,
                         paddingHorizontal: 12,
                         paddingVertical: 6,
-                        borderRadius: radius.xl,
+                        borderRadius: 16,
                       }}
                       onPress={() => drummer && onSelectDrummer(drummer.id)}
                       disabled={!drummer}
@@ -9024,7 +9024,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
               </View>
             </View>
             {/* Item 2 Users */}
-            <View style={{ flex: 1, backgroundColor: theme.card, borderRadius: radius.lg, padding: 16, borderColor: '#3b82f6', borderWidth: 2 }}>
+            <View style={{ flex: 1, backgroundColor: theme.card, borderRadius: 12, padding: 16, borderColor: '#3b82f6', borderWidth: 2 }}>
               <Text style={{ fontSize: 16, fontWeight: '600', color: theme.text, marginBottom: 12 }}>
                 {item2.brand} Users
               </Text>
@@ -9038,7 +9038,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
                         backgroundColor: drummer ? '#3b82f6' : theme.background,
                         paddingHorizontal: 12,
                         paddingVertical: 6,
-                        borderRadius: radius.xl,
+                        borderRadius: 16,
                       }}
                       onPress={() => drummer && onSelectDrummer(drummer.id)}
                       disabled={!drummer}
@@ -9058,7 +9058,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
         <View style={{ 
           marginBottom: 24, 
           backgroundColor: theme.primary, 
-          borderRadius: radius.lg, 
+          borderRadius: 12, 
           padding: 20 
         }}>
           <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>
@@ -9072,7 +9072,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
         {/* Browse Other Comparisons */}
         <View style={{ 
           backgroundColor: theme.card, 
-          borderRadius: radius.lg, 
+          borderRadius: 12, 
           padding: 16, 
           borderColor: theme.border, 
           borderWidth: 1,
@@ -9087,7 +9087,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
               backgroundColor: theme.text,
               paddingHorizontal: 24,
               paddingVertical: 12,
-              borderRadius: radius.md,
+              borderRadius: 8,
             }}
           >
             <Text style={{ color: theme.background, fontWeight: '600' }}>
@@ -9228,7 +9228,7 @@ function TechniquesIndexPage({ theme, onBack, onSelectTechnique, onSelectDrummer
                       backgroundColor: theme.card,
                       borderColor: theme.border,
                       borderWidth: 1,
-                      borderRadius: radius.lg,
+                      borderRadius: 12,
                       padding: 16,
                       width: isMobile ? '100%' : 'calc(50% - 8px)',
                       maxWidth: 400,
@@ -9243,7 +9243,7 @@ function TechniquesIndexPage({ theme, onBack, onSelectTechnique, onSelectDrummer
                         backgroundColor: getDifficultyColor(technique.difficulty) + '20',
                         paddingHorizontal: 8,
                         paddingVertical: 4,
-                        borderRadius: radius.sm,
+                        borderRadius: 6,
                       }}>
                         <Text style={{ 
                           color: getDifficultyColor(technique.difficulty), 
@@ -9276,7 +9276,7 @@ function TechniquesIndexPage({ theme, onBack, onSelectTechnique, onSelectDrummer
         })}
 
         {/* SEO Footer */}
-        <View style={{ marginTop: 24, padding: 20, backgroundColor: theme.card, borderRadius: radius.lg, borderColor: theme.border, borderWidth: 1 }}>
+        <View style={{ marginTop: 24, padding: 20, backgroundColor: theme.card, borderRadius: 12, borderColor: theme.border, borderWidth: 1 }}>
           <Text style={{ fontSize: 16, fontWeight: '600', color: theme.text, marginBottom: 8 }}>
             🎯 Mastering Metal Drumming
           </Text>
@@ -9333,7 +9333,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
         <Text style={{ color: theme.secondaryText, marginBottom: 24 }}>This technique page doesn't exist.</Text>
         <TouchableOpacity
           onPress={onBack}
-          style={{ backgroundColor: theme.primary, paddingHorizontal: 24, paddingVertical: 12, borderRadius: radius.md }}
+          style={{ backgroundColor: theme.primary, paddingHorizontal: 24, paddingVertical: 12, borderRadius: 8 }}
         >
           <Text style={{ color: theme.text, fontWeight: '600' }}>Back to Techniques</Text>
         </TouchableOpacity>
@@ -9390,7 +9390,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
                   backgroundColor: getDifficultyColor(technique.difficulty) + '20',
                   paddingHorizontal: 10,
                   paddingVertical: 4,
-                  borderRadius: radius.sm,
+                  borderRadius: 6,
                 }}>
                   <Text style={{ 
                     color: getDifficultyColor(technique.difficulty), 
@@ -9415,7 +9415,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
         </View>
 
         {/* History & Origins */}
-        <View style={{ backgroundColor: theme.card, borderRadius: radius.lg, padding: 20, marginBottom: 24, borderColor: theme.border, borderWidth: 1 }}>
+        <View style={{ backgroundColor: theme.card, borderRadius: 12, padding: 20, marginBottom: 24, borderColor: theme.border, borderWidth: 1 }}>
           <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>
             📜 History & Origins
           </Text>
@@ -9425,7 +9425,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
         </View>
 
         {/* How to Learn */}
-        <View style={{ backgroundColor: theme.card, borderRadius: radius.lg, padding: 20, marginBottom: 24, borderColor: theme.border, borderWidth: 1 }}>
+        <View style={{ backgroundColor: theme.card, borderRadius: 12, padding: 20, marginBottom: 24, borderColor: theme.border, borderWidth: 1 }}>
           <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>
             📚 How to Learn
           </Text>
@@ -9434,7 +9434,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
               <View style={{ 
                 width: 24, 
                 height: 24, 
-                borderRadius: radius.lg, 
+                borderRadius: 12, 
                 backgroundColor: theme.primary + '20',
                 alignItems: 'center',
                 justifyContent: 'center',
@@ -9452,7 +9452,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
 
         {/* Variations */}
         {technique.variations && technique.variations.length > 0 && (
-          <View style={{ backgroundColor: theme.card, borderRadius: radius.lg, padding: 20, marginBottom: 24, borderColor: theme.border, borderWidth: 1 }}>
+          <View style={{ backgroundColor: theme.card, borderRadius: 12, padding: 20, marginBottom: 24, borderColor: theme.border, borderWidth: 1 }}>
             <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>
               🔀 Variations
             </Text>
@@ -9471,7 +9471,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
 
         {/* Masters of This Technique */}
         {technique.masters && technique.masters.length > 0 && (
-          <View style={{ backgroundColor: theme.card, borderRadius: radius.lg, padding: 20, marginBottom: 24, borderColor: theme.border, borderWidth: 1 }}>
+          <View style={{ backgroundColor: theme.card, borderRadius: 12, padding: 20, marginBottom: 24, borderColor: theme.border, borderWidth: 1 }}>
             <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>
               🏆 Masters of This Technique
             </Text>
@@ -9487,7 +9487,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
                     onPress={() => isClickable && onSelectDrummer(drummerProfile)}
                     style={{ 
                       backgroundColor: theme.background, 
-                      borderRadius: radius.md, 
+                      borderRadius: 8, 
                       padding: 12,
                       borderColor: theme.border,
                       borderWidth: 1,
@@ -9524,7 +9524,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
 
         {/* Gear Recommendations */}
         {technique.gearRecommendations && (
-          <View style={{ backgroundColor: theme.card, borderRadius: radius.lg, padding: 20, marginBottom: 24, borderColor: theme.border, borderWidth: 1 }}>
+          <View style={{ backgroundColor: theme.card, borderRadius: 12, padding: 20, marginBottom: 24, borderColor: theme.border, borderWidth: 1 }}>
             <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>
               🛠️ Gear Recommendations
             </Text>
@@ -9568,7 +9568,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
                 marginTop: 12, 
                 padding: 12, 
                 backgroundColor: theme.primary + '10', 
-                borderRadius: radius.md,
+                borderRadius: 8,
                 borderLeftWidth: 4,
                 borderLeftColor: theme.primary
               }}>
@@ -9585,7 +9585,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
 
         {/* Related Techniques */}
         {relatedTechniques && relatedTechniques.length > 0 && (
-          <View style={{ backgroundColor: theme.card, borderRadius: radius.lg, padding: 20, marginBottom: 24, borderColor: theme.border, borderWidth: 1 }}>
+          <View style={{ backgroundColor: theme.card, borderRadius: 12, padding: 20, marginBottom: 24, borderColor: theme.border, borderWidth: 1 }}>
             <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>
               🔗 Related Techniques
             </Text>
@@ -9596,7 +9596,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
                   onPress={() => onSelectTechnique(related.slug)}
                   style={{ 
                     backgroundColor: theme.background, 
-                    borderRadius: radius.md, 
+                    borderRadius: 8, 
                     padding: 12,
                     borderColor: theme.border,
                     borderWidth: 1,
@@ -9631,7 +9631,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
               backgroundColor: theme.primary,
               paddingHorizontal: 24,
               paddingVertical: 12,
-              borderRadius: radius.md,
+              borderRadius: 8,
             }}
           >
             <Text style={{ color: theme.background, fontWeight: '600' }}>
@@ -10069,7 +10069,6 @@ function DrummerList({
       style={styles.listWrapper}
       data={filteredDrummers}
       keyExtractor={(item) => item.id.toString()}
-      extraData={sortBy}
       renderItem={({ item, index }) => (
         <DrummerCard
           drummer={item}
@@ -11819,7 +11818,7 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
                     minWidth: 200,
                     padding: '12px 16px',
                     fontSize: 16,
-                    borderRadius: radius.md,
+                    borderRadius: 8,
                     border: `2px solid ${colors.border.hover}`,
                     backgroundColor: colors.bg.elevated,
                     color: colors.text.primary,
@@ -11831,7 +11830,7 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
                   style={{
                     backgroundColor: colors.brand.primary,
                     padding: '12px 20px',
-                    borderRadius: radius.md,
+                    borderRadius: 8,
                     border: 'none',
                     cursor: 'pointer',
                     fontSize: 14,
@@ -12140,7 +12139,7 @@ function GearInputForm({ userKit, onKitChange, theme, isMobile }) {
                 width: '100%',
                 padding: '12px 16px',
                 fontSize: 14,
-                borderRadius: radius.md,
+                borderRadius: 8,
                 border: `1px solid ${theme.border}`,
                 backgroundColor: theme.background,
                 color: theme.text,
@@ -12660,7 +12659,7 @@ function NewsletterFooter({ theme }) {
             right: 12,
             width: 28,
             height: 28,
-            borderRadius: radius.lg,
+            borderRadius: 14,
             backgroundColor: 'rgba(255,255,255,0.1)',
             alignItems: 'center',
             justifyContent: 'center',
@@ -12716,7 +12715,7 @@ function NewsletterFooter({ theme }) {
                     width: isMobile ? '100%' : 'auto',
                     padding: '12px 16px',
                     fontSize: 16,
-                    borderRadius: radius.md,
+                    borderRadius: 8,
                     border: `2px solid ${error ? colors.semantic.error : colors.border.hover}`,
                     backgroundColor: colors.bg.elevated,
                     color: colors.text.primary,
@@ -12733,7 +12732,7 @@ function NewsletterFooter({ theme }) {
                   style={{
                     backgroundColor: isLoading ? '#a3a3a3' : colors.buttons.accent.bg,
                     padding: '12px 24px',
-                    borderRadius: radius.md,
+                    borderRadius: 8,
                     border: 'none',
                     height: 48,
                     minWidth: 120,
@@ -12811,7 +12810,7 @@ function NewsletterFooter({ theme }) {
           right: 12,
           width: 28,
           height: 28,
-          borderRadius: radius.lg,
+          borderRadius: 14,
           backgroundColor: 'rgba(255,255,255,0.1)',
           alignItems: 'center',
           justifyContent: 'center',
@@ -15052,7 +15051,7 @@ const styles = StyleSheet.create({
   card: {
     padding: spacing[4],           // 16px
     marginBottom: spacing[3],      // 12px
-    borderRadius: radius.md,
+    borderRadius: spacing[2],      // 8px
     borderWidth: 1,
   },
   cardContent: {
@@ -15062,7 +15061,7 @@ const styles = StyleSheet.create({
   cardImage: {
     width: 60,
     height: 60,
-    borderRadius: radius.full,
+    borderRadius: 30,
     marginRight: spacing[4],       // 16px
   },
   cardText: {
@@ -15110,7 +15109,7 @@ const styles = StyleSheet.create({
   backButton: {
     paddingVertical: spacing[3],   // 12px - WCAG AA touch target
     paddingHorizontal: spacing[4], // 16px
-    borderRadius: radius.md,
+    borderRadius: spacing[2],      // 8px
     borderWidth: 1,
     alignSelf: 'flex-start',
     marginBottom: spacing[5],      // 20px
@@ -15127,7 +15126,7 @@ const styles = StyleSheet.create({
   detailImage: {
     width: 120,
     height: 120,
-    borderRadius: radius.lg,
+    borderRadius: spacing[3],      // 12px
     marginRight: spacing[5],       // 20px
   },
   detailHeaderText: {
@@ -15149,7 +15148,7 @@ const styles = StyleSheet.create({
   },
   section: {
     padding: spacing[4],           // 16px
-    borderRadius: radius.lg,
+    borderRadius: spacing[3],      // 12px
     borderWidth: 1,
     marginBottom: spacing[4],      // 16px
   },
@@ -15195,13 +15194,13 @@ const styles = StyleSheet.create({
   bioPageImage: {
     width: 150,
     height: 150,
-    borderRadius: circleRadius(150),
+    borderRadius: 75,
     marginRight: spacing[6],       // 24px
   },
   bioPageImageMobile: {
     width: 120,
     height: 120,
-    borderRadius: circleRadius(120),
+    borderRadius: 60,
     marginRight: 0,
     marginBottom: spacing[4],      // 16px
   },
@@ -15219,7 +15218,7 @@ const styles = StyleSheet.create({
   },
   bioSection: {
     padding: spacing[5],           // 20px
-    borderRadius: radius.lg,
+    borderRadius: spacing[3],      // 12px
     borderWidth: 1,
     marginBottom: spacing[4],      // 16px
   },
@@ -15324,7 +15323,7 @@ const styles = StyleSheet.create({
   },
   bioPageCTA: {
     padding: spacing[6],           // 24px
-    borderRadius: radius.lg,
+    borderRadius: spacing[3],      // 12px
     borderWidth: 2,
     marginTop: spacing[4],         // 16px
     marginBottom: spacing[6],      // 24px
@@ -15346,7 +15345,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#dc2626',
     paddingHorizontal: spacing[6], // 24px
     paddingVertical: spacing[3],   // 12px
-    borderRadius: radius.md,
+    borderRadius: spacing[2],      // 8px
   },
   bioPageCTAButtonText: {
     color: '#ffffff',
@@ -15389,7 +15388,7 @@ const styles = StyleSheet.create({
   bandStatusBadge: {
     paddingHorizontal: spacing[3], // 12px
     paddingVertical: spacing[1],   // 4px
-    borderRadius: radius.xl,
+    borderRadius: spacing[4],      // 16px
   },
   bandStatusText: {
     color: '#ffffff',
@@ -15405,7 +15404,7 @@ const styles = StyleSheet.create({
   bandGenreTag: {
     paddingHorizontal: spacing[3], // 12px
     paddingVertical: spacing[2],   // 8px (was 6)
-    borderRadius: radius.xl,
+    borderRadius: spacing[4],      // 16px
   },
   bandGenreText: {
     fontSize: fontSize.sm,
@@ -15413,7 +15412,7 @@ const styles = StyleSheet.create({
   },
   bandSummarySection: {
     padding: spacing[5],           // 20px
-    borderRadius: radius.lg,
+    borderRadius: spacing[3],      // 12px
     borderWidth: 1,
     marginBottom: spacing[5],      // 20px
   },
@@ -15423,7 +15422,7 @@ const styles = StyleSheet.create({
   },
   drummerHistorySection: {
     padding: spacing[5],           // 20px
-    borderRadius: radius.lg,
+    borderRadius: spacing[3],      // 12px
     borderWidth: 1,
     marginBottom: spacing[5],      // 20px
   },
@@ -15458,7 +15457,7 @@ const styles = StyleSheet.create({
   drummerHistoryImage: {
     width: 50,
     height: 50,
-    borderRadius: radius.full,
+    borderRadius: 25,
     overflow: 'hidden',
   },
   drummerHistoryContent: {
@@ -15493,7 +15492,7 @@ const styles = StyleSheet.create({
   },
   relatedBandsSection: {
     padding: spacing[5],           // 20px
-    borderRadius: radius.lg,
+    borderRadius: spacing[3],      // 12px
     borderWidth: 1,
     marginBottom: spacing[5],      // 20px
   },
@@ -15511,7 +15510,7 @@ const styles = StyleSheet.create({
   relatedBandTag: {
     paddingHorizontal: spacing[4], // 16px
     paddingVertical: spacing[2],   // 8px
-    borderRadius: radius.xl,
+    borderRadius: spacing[5],      // 20px
   },
   relatedBandText: {
     fontSize: fontSize.sm,
@@ -15581,7 +15580,7 @@ const styles = StyleSheet.create({
   timelineEraCard: {
     width: 260,
     padding: spacing[4],           // 16px
-    borderRadius: radius.lg,
+    borderRadius: spacing[3],      // 12px
     borderWidth: 2,
     position: 'relative',
     overflow: 'visible',
@@ -15596,7 +15595,7 @@ const styles = StyleSheet.create({
     left: spacing[5],              // 20px
     width: spacing[6],             // 24px
     height: spacing[6],            // 24px
-    borderRadius: radius.lg,
+    borderRadius: spacing[3],      // 12px
     justifyContent: 'center',
     alignItems: 'center',
     zIndex: 2,
@@ -15634,7 +15633,7 @@ const styles = StyleSheet.create({
     alignSelf: 'flex-start',
     paddingHorizontal: spacing[3], // 12px (was 10)
     paddingVertical: spacing[1],   // 4px
-    borderRadius: radius.lg,
+    borderRadius: spacing[3],      // 12px
   },
   timelineAlbumCount: {
     fontSize: fontSize.xs,
@@ -15662,7 +15661,7 @@ const styles = StyleSheet.create({
   timelineDetail: {
     marginTop: spacing[6],         // 24px
     padding: spacing[4],           // 16px
-    borderRadius: radius.lg,
+    borderRadius: spacing[3],      // 12px
     borderWidth: 1,
   },
   timelineDetailHeader: {
@@ -15698,7 +15697,7 @@ const styles = StyleSheet.create({
   timelineAlbumChip: {
     paddingHorizontal: spacing[3], // 12px
     paddingVertical: spacing[2],   // 8px (was 6)
-    borderRadius: radius.xl,
+    borderRadius: spacing[4],      // 16px
   },
   timelineAlbumName: {
     fontSize: fontSize.sm,
@@ -15743,7 +15742,7 @@ const styles = StyleSheet.create({
   shopButton: {
     paddingVertical: spacing[2],   // 8px (was 6)
     paddingHorizontal: spacing[3], // 12px
-    borderRadius: radius.xl,
+    borderRadius: spacing[4],      // 16px
     borderWidth: 1,
   },
   shopButtonUS: {
@@ -15763,7 +15762,7 @@ const styles = StyleSheet.create({
   galleryImage: {
     width: 200,
     height: 150,
-    borderRadius: radius.md,
+    borderRadius: spacing[2],      // 8px
     marginRight: spacing[3],       // 12px
   },
   // Gear Timeline styles
@@ -15782,7 +15781,7 @@ const styles = StyleSheet.create({
   timelineBadge: {
     paddingHorizontal: spacing[2], // 8px
     paddingVertical: 2,
-    borderRadius: radius.lg,
+    borderRadius: spacing[3],      // 12px
   },
   timelineBadgeText: {
     color: '#fff',
@@ -15810,7 +15809,7 @@ const styles = StyleSheet.create({
   timelineEraCard: {
     width: 140,
     padding: spacing[3],           // 12px
-    borderRadius: radius.lg,
+    borderRadius: spacing[3],      // 12px
     borderWidth: 2,
     alignItems: 'center',
     justifyContent: 'center',
@@ -15849,7 +15848,7 @@ const styles = StyleSheet.create({
   timelineDetail: {
     marginTop: spacing[4],         // 16px
     padding: spacing[4],           // 16px
-    borderRadius: radius.lg,
+    borderRadius: spacing[3],      // 12px
     borderWidth: 1,
   },
   timelineDetailHeader: {
@@ -15889,7 +15888,7 @@ const styles = StyleSheet.create({
   timelineAlbumTag: {
     paddingHorizontal: spacing[3], // 12px (was 10)
     paddingVertical: spacing[1],   // 4px
-    borderRadius: radius.xl,
+    borderRadius: spacing[4],      // 16px
     borderWidth: 1,
   },
   timelineAlbumText: {
@@ -15916,7 +15915,7 @@ const styles = StyleSheet.create({
   },
   timelineNotes: {
     padding: spacing[3],           // 12px
-    borderRadius: radius.md,
+    borderRadius: spacing[2],      // 8px
     borderWidth: 1,
     marginTop: spacing[2],         // 8px
   },
@@ -15933,7 +15932,7 @@ const styles = StyleSheet.create({
   endorsementLink: {
     paddingVertical: spacing[2],   // 8px
     paddingHorizontal: spacing[4], // 16px
-    borderRadius: radius.xl,
+    borderRadius: spacing[5],      // 20px
     borderWidth: 1,
   },
   endorsementText: {
@@ -15949,7 +15948,7 @@ const styles = StyleSheet.create({
   videoContainer: {
     width: '100%',
     aspectRatio: 16 / 9,
-    borderRadius: radius.md,
+    borderRadius: spacing[2],      // 8px
     overflow: 'hidden',
     backgroundColor: '#000',
     position: 'relative',
@@ -15971,7 +15970,7 @@ const styles = StyleSheet.create({
   playButton: {
     width: 60,
     height: 60,
-    borderRadius: radius.full,
+    borderRadius: 30,
     justifyContent: 'center',
     alignItems: 'center',
     opacity: 0.9,
@@ -16000,7 +15999,7 @@ const styles = StyleSheet.create({
   videoLink: {
     paddingVertical: spacing[10],  // 40px
     paddingHorizontal: spacing[5], // 20px
-    borderRadius: radius.md,
+    borderRadius: spacing[2],      // 8px
     borderWidth: 1,
     alignItems: 'center',
     justifyContent: 'center',
@@ -16069,7 +16068,7 @@ const styles = StyleSheet.create({
     minWidth: 140,
     paddingVertical: spacing[4],   // 16px (was 14)
     paddingHorizontal: spacing[5], // 20px
-    borderRadius: radius.md,
+    borderRadius: spacing[2],      // 8px
     alignItems: 'center',
   },
   buySetupButtonUS: {
@@ -16088,7 +16087,7 @@ const styles = StyleSheet.create({
     paddingVertical: spacing[3],   // 12px (was 10)
     paddingHorizontal: spacing[4], // 16px
     borderWidth: 1,
-    borderRadius: radius.md,
+    borderRadius: spacing[2],      // 8px
     alignItems: 'center',
     backgroundColor: 'transparent',
   },
@@ -16104,7 +16103,7 @@ const styles = StyleSheet.create({
     marginTop: spacing[1],         // 4px
   },
   genreTag: {
-    borderRadius: radius.lg,
+    borderRadius: spacing[3],      // 12px
   },
   genreTagSmall: {
     paddingVertical: 2,
@@ -16136,7 +16135,7 @@ const styles = StyleSheet.create({
   compareButton: {
     flex: 1,
     padding: spacing[4],           // 16px (was 14)
-    borderRadius: radius.md,
+    borderRadius: spacing[2],      // 8px
     borderWidth: 1,
     alignItems: 'center',
   },
@@ -16147,7 +16146,7 @@ const styles = StyleSheet.create({
   quizButton: {
     flex: 1,
     padding: spacing[4],           // 16px (was 14)
-    borderRadius: radius.md,
+    borderRadius: spacing[2],      // 8px
     borderWidth: 1,
     alignItems: 'center',
   },
@@ -16185,13 +16184,13 @@ const styles = StyleSheet.create({
   },
   progressBar: {
     height: spacing[2],            // 8px
-    borderRadius: radius.sm,
+    borderRadius: spacing[1],      // 4px
     overflow: 'hidden',
     marginBottom: spacing[2],      // 8px
   },
   progressFill: {
     height: '100%',
-    borderRadius: radius.sm,
+    borderRadius: spacing[1],      // 4px
   },
   progressText: {
     fontSize: fontSize.sm,
@@ -16210,7 +16209,7 @@ const styles = StyleSheet.create({
   },
   optionCard: {
     padding: spacing[4],           // 16px
-    borderRadius: radius.lg,
+    borderRadius: spacing[3],      // 12px
     borderWidth: 2,
   },
   optionLabel: {
@@ -16224,7 +16223,7 @@ const styles = StyleSheet.create({
   prevButton: {
     marginTop: spacing[6],         // 24px
     padding: spacing[3],           // 12px
-    borderRadius: radius.md,
+    borderRadius: spacing[2],      // 8px
     borderWidth: 1,
     alignItems: 'center',
   },
@@ -16243,7 +16242,7 @@ const styles = StyleSheet.create({
   },
   topMatchCard: {
     padding: spacing[6],           // 24px
-    borderRadius: radius.xl,
+    borderRadius: spacing[4],      // 16px
     borderWidth: 1,
     alignItems: 'center',
     marginBottom: spacing[6],      // 24px
@@ -16256,7 +16255,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#dc2626',
     paddingHorizontal: spacing[3], // 12px
     paddingVertical: spacing[2],   // 8px (was 6)
-    borderRadius: radius.xl,
+    borderRadius: spacing[5],      // 20px
   },
   matchPercentText: {
     color: '#ffffff',
@@ -16266,7 +16265,7 @@ const styles = StyleSheet.create({
   topMatchImage: {
     width: 120,
     height: 120,
-    borderRadius: circleRadius(120),
+    borderRadius: 60,
     marginBottom: spacing[4],      // 16px
     aspectRatio: 1, // Prevent CLS (Issue #248)
   },
@@ -16289,7 +16288,7 @@ const styles = StyleSheet.create({
   viewProfileButton: {
     paddingHorizontal: spacing[6], // 24px
     paddingVertical: spacing[3],   // 12px
-    borderRadius: radius.md,
+    borderRadius: spacing[2],      // 8px
   },
   viewProfileButtonText: {
     color: '#ffffff',
@@ -16312,7 +16311,7 @@ const styles = StyleSheet.create({
   shareButton: {
     paddingHorizontal: spacing[4], // 16px
     paddingVertical: spacing[3],   // 12px (was 10)
-    borderRadius: radius.md,
+    borderRadius: spacing[2],      // 8px
   },
   shareButtonText: {
     color: '#ffffff',
@@ -16332,14 +16331,14 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     padding: spacing[3],           // 12px
-    borderRadius: radius.lg,
+    borderRadius: spacing[3],      // 12px
     borderWidth: 1,
     marginBottom: spacing[2],      // 8px
   },
   runnerUpImage: {
     width: spacing[12],            // 48px
     height: spacing[12],           // 48px
-    borderRadius: radius.full,
+    borderRadius: spacing[6],      // 24px
     marginRight: spacing[3],       // 12px
     aspectRatio: 1, // Prevent CLS (Issue #248)
   },
@@ -16359,7 +16358,7 @@ const styles = StyleSheet.create({
   },
   quizNewsletter: {
     padding: spacing[5],           // 20px
-    borderRadius: radius.lg,
+    borderRadius: spacing[3],      // 12px
     borderWidth: 1,
     marginBottom: spacing[6],      // 24px
     alignItems: 'center',
@@ -16384,14 +16383,14 @@ const styles = StyleSheet.create({
   quizNewsletterInput: {
     flex: 1,
     padding: spacing[3],           // 12px
-    borderRadius: radius.md,
+    borderRadius: spacing[2],      // 8px
     borderWidth: 1,
     fontSize: fontSize.base,
   },
   quizNewsletterButton: {
     paddingHorizontal: spacing[5], // 20px
     paddingVertical: spacing[3],   // 12px
-    borderRadius: radius.md,
+    borderRadius: spacing[2],      // 8px
   },
   quizNewsletterButtonText: {
     color: '#ffffff',
@@ -16400,7 +16399,7 @@ const styles = StyleSheet.create({
   },
   restartButton: {
     padding: spacing[4],           // 16px (was 14)
-    borderRadius: radius.md,
+    borderRadius: spacing[2],      // 8px
     borderWidth: 1,
     alignItems: 'center',
     marginBottom: spacing[10],     // 40px
@@ -16459,7 +16458,7 @@ const styles = StyleSheet.create({
     justifyContent: 'space-between',
     alignItems: 'center',
     padding: 12,
-    borderRadius: radius.md,
+    borderRadius: 8,
     borderWidth: 1,
   },
   selectorText: {
@@ -16475,7 +16474,7 @@ const styles = StyleSheet.create({
     top: '100%',
     left: 0,
     right: 0,
-    borderRadius: radius.md,
+    borderRadius: 8,
     borderWidth: 1,
     marginTop: 4,
     maxHeight: 250,
@@ -16540,7 +16539,7 @@ const styles = StyleSheet.create({
   },
   addSlotButton: {
     padding: 14,
-    borderRadius: radius.md,
+    borderRadius: 8,
     borderWidth: 1,
     borderStyle: 'dashed',
     alignItems: 'center',
@@ -16579,14 +16578,14 @@ const styles = StyleSheet.create({
   compareImage: {
     width: 80,
     height: 80,
-    borderRadius: radius.full,
+    borderRadius: 40,
     marginBottom: 8,
     aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   compareImageMobile: {
     width: 60,
     height: 60,
-    borderRadius: radius.full,
+    borderRadius: 30,
     marginBottom: 0,
     aspectRatio: 1, // Prevent CLS (Issue #248)
   },
@@ -16624,7 +16623,7 @@ const styles = StyleSheet.create({
   comparisonValue: {
     flex: 1,
     padding: 10,
-    borderRadius: radius.sm,
+    borderRadius: 6,
   },
   comparisonValueText: {
     fontSize: fontSize.sm,
@@ -16681,7 +16680,7 @@ const styles = StyleSheet.create({
   shareButton: {
     paddingVertical: 10,
     paddingHorizontal: 16,
-    borderRadius: radius.sm,
+    borderRadius: 6,
   },
   shareButtonText: {
     color: '#ffffff',
@@ -16705,7 +16704,7 @@ const styles = StyleSheet.create({
     right: 20,
     top: 120,
     width: 50,
-    borderRadius: radius.full,
+    borderRadius: 25,
     borderWidth: 1,
     paddingVertical: 12,
     paddingHorizontal: 8,
@@ -16724,7 +16723,7 @@ const styles = StyleSheet.create({
   shareSideRailButton: {
     width: 36,
     height: 36,
-    borderRadius: radius.xl,
+    borderRadius: 18,
     alignItems: 'center',
     justifyContent: 'center',
     borderWidth: 1,
@@ -16772,7 +16771,7 @@ const styles = StyleSheet.create({
   shareFloatingButton: {
     width: 44,
     height: 44,
-    borderRadius: radius.full,
+    borderRadius: 22,
     alignItems: 'center',
     justifyContent: 'center',
     borderWidth: 1,
@@ -16804,7 +16803,7 @@ const styles = StyleSheet.create({
     width: 200,
     paddingVertical: 10,
     paddingHorizontal: 16,
-    borderRadius: radius.md,
+    borderRadius: 8,
     alignItems: 'center',
     justifyContent: 'center',
     zIndex: 200,
@@ -16832,7 +16831,7 @@ const styles = StyleSheet.create({
     gap: 6,
     paddingVertical: 8,
     paddingHorizontal: 14,
-    borderRadius: radius.xl,
+    borderRadius: 20,
     borderWidth: 1,
     borderColor: 'transparent',
     transition: 'all 0.2s ease',
@@ -16872,7 +16871,7 @@ const styles = StyleSheet.create({
   gearDetailImage: {
     width: 150,
     height: 150,
-    borderRadius: radius.lg,
+    borderRadius: 12,
     marginRight: 20,
     marginBottom: 10,
     aspectRatio: 1, // Prevent CLS (Issue #248)
@@ -16885,7 +16884,7 @@ const styles = StyleSheet.create({
   gearCategoryBadge: {
     paddingVertical: 4,
     paddingHorizontal: 12,
-    borderRadius: radius.xl,
+    borderRadius: 16,
     borderWidth: 1,
     alignSelf: 'flex-start',
     marginBottom: 8,
@@ -16948,13 +16947,13 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     padding: 12,
-    borderRadius: radius.md,
+    borderRadius: 8,
     borderWidth: 1,
   },
   usedByImage: {
     width: 50,
     height: 50,
-    borderRadius: radius.full,
+    borderRadius: 25,
     marginRight: 12,
     aspectRatio: 1, // Prevent CLS (Issue #248)
   },
@@ -16977,13 +16976,13 @@ const styles = StyleSheet.create({
   relatedGearCard: {
     width: 150,
     padding: 12,
-    borderRadius: radius.md,
+    borderRadius: 8,
     borderWidth: 1,
   },
   relatedGearImage: {
     width: '100%',
     height: 100,
-    borderRadius: radius.sm,
+    borderRadius: 6,
     marginBottom: 8,
     aspectRatio: 3 / 2, // Prevent CLS (Issue #248)
   },
@@ -17009,7 +17008,7 @@ const styles = StyleSheet.create({
   searchInputWrapper: {
     flexDirection: 'row',
     alignItems: 'center',
-    borderRadius: radius.md,
+    borderRadius: 8,
     borderWidth: 1,
     paddingHorizontal: 12,
     height: 48, // WCAG AA touch target (was 44)
@@ -17033,7 +17032,7 @@ const styles = StyleSheet.create({
   searchShortcut: {
     paddingHorizontal: 6,
     paddingVertical: 2,
-    borderRadius: radius.sm,
+    borderRadius: 4,
     borderWidth: 1,
   },
   searchShortcutText: {
@@ -17045,7 +17044,7 @@ const styles = StyleSheet.create({
     top: '100%',
     left: 0,
     right: 0,
-    borderRadius: radius.md,
+    borderRadius: 8,
     borderWidth: 1,
     marginTop: 4,
     maxHeight: 300,
@@ -17071,7 +17070,7 @@ const styles = StyleSheet.create({
   suggestionImage: {
     width: 36,
     height: 36,
-    borderRadius: radius.xl,
+    borderRadius: 18,
     marginRight: 12,
     aspectRatio: 1, // Prevent CLS (Issue #248)
   },
@@ -17117,7 +17116,7 @@ const styles = StyleSheet.create({
   filterChip: {
     paddingHorizontal: 12,
     paddingVertical: 6,
-    borderRadius: radius.xl,
+    borderRadius: 16,
     borderWidth: 1,
   },
   filterChipText: {
@@ -17133,7 +17132,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     paddingHorizontal: 12,
     paddingVertical: 6,
-    borderRadius: radius.xl,
+    borderRadius: 16,
     borderWidth: 1,
     gap: 6,
   },
@@ -17149,7 +17148,7 @@ const styles = StyleSheet.create({
     top: '100%',
     left: 0,
     minWidth: 150,
-    borderRadius: radius.md,
+    borderRadius: 8,
     borderWidth: 1,
     marginTop: 4,
     zIndex: 101,
@@ -17197,7 +17196,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     paddingHorizontal: 14,
     paddingVertical: 10,
-    borderRadius: radius.md,
+    borderRadius: 8,
     borderWidth: 1,
     gap: 8,
   },
@@ -17210,7 +17209,7 @@ const styles = StyleSheet.create({
   },
   filterPanelMobile: {
     padding: 12,
-    borderRadius: radius.md,
+    borderRadius: 8,
     borderWidth: 1,
     marginBottom: 8,
     gap: 12,
@@ -17218,7 +17217,7 @@ const styles = StyleSheet.create({
   clearFiltersButton: {
     paddingVertical: 10,
     paddingHorizontal: 16,
-    borderRadius: radius.md,
+    borderRadius: 8,
     borderWidth: 1,
     alignItems: 'center',
     marginTop: 4,
@@ -17242,7 +17241,7 @@ const styles = StyleSheet.create({
   clearFiltersButtonLarge: {
     paddingVertical: 12,
     paddingHorizontal: 24,
-    borderRadius: radius.md,
+    borderRadius: 8,
     borderWidth: 1,
   },
   clearFiltersButtonText: {
@@ -17297,7 +17296,7 @@ const styles = StyleSheet.create({
   },
   newsletterInputWrapper: {
     flex: 1,
-    borderRadius: radius.md,
+    borderRadius: 8,
     borderWidth: 2,
     overflow: 'hidden',
   },
@@ -17315,7 +17314,7 @@ const styles = StyleSheet.create({
     backgroundColor: colors.buttons.accent.bg,
     paddingHorizontal: 24,
     paddingVertical: 12,
-    borderRadius: radius.md,
+    borderRadius: 8,
     height: 48,
     justifyContent: 'center',
     alignItems: 'center',
@@ -17372,7 +17371,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     padding: 16,
-    borderRadius: radius.lg,
+    borderRadius: 12,
     borderWidth: 1,
     marginBottom: 20,
   },
@@ -17380,7 +17379,7 @@ const styles = StyleSheet.create({
     width: 60,
     height: 60,
     aspectRatio: 1,
-    borderRadius: radius.full,
+    borderRadius: 30,
     marginRight: 16,
     aspectRatio: 1, // Prevent CLS (Issue #248)
   },
@@ -17419,7 +17418,7 @@ const styles = StyleSheet.create({
     marginTop: 20,
     paddingVertical: 16,
     paddingHorizontal: 24,
-    borderRadius: radius.md,
+    borderRadius: 8,
     alignItems: 'center',
   },
   kitCompareButtonText: {
@@ -17473,7 +17472,7 @@ const styles = StyleSheet.create({
   kitMatchBadge: {
     paddingVertical: 6,
     paddingHorizontal: 12,
-    borderRadius: radius.xl,
+    borderRadius: 16,
     marginLeft: 12,
   },
   kitMatchBadgeText: {
@@ -17526,7 +17525,7 @@ const styles = StyleSheet.create({
     minWidth: 120,
     paddingVertical: 12,
     paddingHorizontal: 20,
-    borderRadius: radius.md,
+    borderRadius: 8,
     alignItems: 'center',
   },
   kitShareButtonText: {
@@ -17559,7 +17558,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     paddingVertical: 14,
     paddingHorizontal: 20,
-    borderRadius: radius.md,
+    borderRadius: 8,
     gap: 8,
     marginBottom: 16,
   },
@@ -17584,7 +17583,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#dc2626',
     paddingVertical: 14,
     paddingHorizontal: 28,
-    borderRadius: radius.md,
+    borderRadius: 8,
     minWidth: 180,
     alignItems: 'center',
   },
@@ -17598,7 +17597,7 @@ const styles = StyleSheet.create({
   // ==========================================
   spotlightContainer: {
     marginBottom: 20,
-    borderRadius: radius.xl,
+    borderRadius: 16,
     borderWidth: 1,
     overflow: 'hidden',
     minHeight: 280, // CLS prevention: reserve space for spotlight content (Issue #312)
@@ -17636,7 +17635,7 @@ const styles = StyleSheet.create({
   spotlightImage: {
     width: 140,
     height: 140,
-    borderRadius: radius.lg,
+    borderRadius: 12,
     aspectRatio: 1, // Prevent CLS (Issue #248, #312)
   },
   spotlightImageMobile: {
@@ -17700,7 +17699,7 @@ const styles = StyleSheet.create({
     paddingVertical: 12,
     paddingHorizontal: 14,
     backgroundColor: 'rgba(220, 38, 38, 0.1)',
-    borderRadius: radius.md,
+    borderRadius: 8,
   },
   spotlightGearHighlight: {
     fontSize: fontSize.sm,
@@ -17719,7 +17718,7 @@ const styles = StyleSheet.create({
     flex: 1,
     paddingVertical: 12,
     paddingHorizontal: 20,
-    borderRadius: radius.md,
+    borderRadius: 8,
     alignItems: 'center',
   },
   spotlightCTAPrimaryText: {
@@ -17731,7 +17730,7 @@ const styles = StyleSheet.create({
     flex: 1,
     paddingVertical: 12,
     paddingHorizontal: 20,
-    borderRadius: radius.md,
+    borderRadius: 8,
     borderWidth: 1,
     alignItems: 'center',
   },
@@ -17763,7 +17762,7 @@ const styles = StyleSheet.create({
     flexDirection: 'column',
   },
   spotlightArchiveCard: {
-    borderRadius: radius.lg,
+    borderRadius: 12,
     borderWidth: 1,
     overflow: 'hidden',
     flex: 1,
@@ -17801,7 +17800,7 @@ const styles = StyleSheet.create({
     backgroundColor: colors.buttons.accent.bg,
     paddingHorizontal: 10,
     paddingVertical: 4,
-    borderRadius: radius.lg,
+    borderRadius: 12,
     zIndex: 1,
   },
   currentSpotlightBadgeText: {
@@ -17839,7 +17838,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     padding: 16,
-    borderRadius: radius.lg,
+    borderRadius: 12,
     borderWidth: 1,
     marginBottom: 12,
   },
@@ -17856,7 +17855,7 @@ const styles = StyleSheet.create({
     width: 70,
     height: 70,
     aspectRatio: 1,
-    borderRadius: radius.full,
+    borderRadius: 35,
     marginHorizontal: 12,
     aspectRatio: 1, // Prevent CLS (Issue #248)
   },
@@ -17915,7 +17914,7 @@ const styles = StyleSheet.create({
     minWidth: 150,
     maxWidth: 200,
     padding: 16,
-    borderRadius: radius.lg,
+    borderRadius: 12,
     borderWidth: 1,
     alignItems: 'center',
   },
@@ -17954,7 +17953,7 @@ const styles = StyleSheet.create({
     minWidth: 280,
     maxWidth: 350,
     padding: 20,
-    borderRadius: radius.lg,
+    borderRadius: 12,
     borderWidth: 1,
   },
   listIndexEmoji: {
@@ -18009,7 +18008,7 @@ const styles = StyleSheet.create({
   topListCard: {
     width: 160,
     padding: 16,
-    borderRadius: radius.lg,
+    borderRadius: 12,
     borderWidth: 1,
     alignItems: 'center',
   },
@@ -18054,7 +18053,7 @@ const styles = StyleSheet.create({
     flex: 1,
     minWidth: 140,
     padding: 16,
-    borderRadius: radius.lg,
+    borderRadius: 12,
     borderWidth: 2,
     alignItems: 'center',
   },
@@ -18076,7 +18075,7 @@ const styles = StyleSheet.create({
   },
   clearBudgetFilter: {
     padding: 12,
-    borderRadius: radius.md,
+    borderRadius: 8,
     borderWidth: 1,
     alignItems: 'center',
     marginBottom: 24,
@@ -18118,7 +18117,7 @@ const styles = StyleSheet.create({
   budgetDrummerCard: {
     width: '48%',
     padding: 16,
-    borderRadius: radius.lg,
+    borderRadius: 12,
     borderWidth: 1,
     flexDirection: 'row',
     alignItems: 'center',
@@ -18126,7 +18125,7 @@ const styles = StyleSheet.create({
   budgetDrummerImage: {
     width: 60,
     height: 60,
-    borderRadius: radius.full,
+    borderRadius: 30,
     marginRight: 12,
     aspectRatio: 1, // Prevent CLS (Issue #248)
   },
@@ -18181,7 +18180,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     padding: 16,
-    borderRadius: radius.lg,
+    borderRadius: 12,
     marginBottom: 20,
   },
   todayBirthdayEmoji: {
@@ -18208,7 +18207,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'space-between',
     padding: 12,
-    borderRadius: radius.md,
+    borderRadius: 8,
     borderWidth: 1,
     marginBottom: 20,
     flexWrap: 'wrap',
@@ -18224,7 +18223,7 @@ const styles = StyleSheet.create({
   birthdayShareButton: {
     paddingVertical: 8,
     paddingHorizontal: 16,
-    borderRadius: radius.md,
+    borderRadius: 8,
     minWidth: 100,
     alignItems: 'center',
   },
@@ -18235,7 +18234,7 @@ const styles = StyleSheet.create({
   },
   birthdaySection: {
     padding: 16,
-    borderRadius: radius.lg,
+    borderRadius: 12,
     borderWidth: 1,
     marginBottom: 20,
   },
@@ -18278,7 +18277,7 @@ const styles = StyleSheet.create({
   },
   monthFilterSection: {
     padding: 16,
-    borderRadius: radius.lg,
+    borderRadius: 12,
     borderWidth: 1,
     marginBottom: 20,
   },
@@ -18301,7 +18300,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     paddingVertical: 10,
     paddingHorizontal: 14,
-    borderRadius: radius.md,
+    borderRadius: 8,
     borderWidth: 1,
     minWidth: 60,
     position: 'relative',
@@ -18316,7 +18315,7 @@ const styles = StyleSheet.create({
     right: -6,
     width: 18,
     height: 18,
-    borderRadius: radius.md,
+    borderRadius: 9,
     alignItems: 'center',
     justifyContent: 'center',
   },
@@ -18326,7 +18325,7 @@ const styles = StyleSheet.create({
   },
   clearMonthFilter: {
     padding: 12,
-    borderRadius: radius.md,
+    borderRadius: 8,
     borderWidth: 1,
     alignItems: 'center',
     marginTop: 12,
@@ -18353,7 +18352,7 @@ const styles = StyleSheet.create({
     maxWidth: 400,
     minWidth: 280,
     padding: 16,
-    borderRadius: radius.lg,
+    borderRadius: 12,
     borderWidth: 1,
     position: 'relative',
     overflow: 'hidden',
@@ -18368,7 +18367,7 @@ const styles = StyleSheet.create({
   },
   birthdayCardDate: {
     backgroundColor: '#dc2626',
-    borderRadius: radius.md,
+    borderRadius: 8,
     padding: 8,
     alignItems: 'center',
     minWidth: 50,
@@ -18494,7 +18493,7 @@ const styles = StyleSheet.create({
   quotesSearchInput: {
     flex: 1,
     padding: 12,
-    borderRadius: radius.md,
+    borderRadius: 8,
     borderWidth: 1,
     fontSize: 16,
   },
@@ -18502,14 +18501,14 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     flexWrap: 'wrap',
     gap: 8,
-    borderRadius: radius.md,
+    borderRadius: 8,
     padding: 8,
     borderWidth: 1,
   },
   quotesDropdownItem: {
     paddingHorizontal: 12,
     paddingVertical: 6,
-    borderRadius: radius.xl,
+    borderRadius: 16,
   },
   quotesDropdownText: {
     fontSize: 14,
@@ -18522,7 +18521,7 @@ const styles = StyleSheet.create({
     gap: 16,
   },
   quotePageCard: {
-    borderRadius: radius.lg,
+    borderRadius: 12,
     borderWidth: 1,
     padding: 20,
     marginBottom: 16,
@@ -18548,7 +18547,7 @@ const styles = StyleSheet.create({
   quotePageImage: {
     width: 48,
     height: 48,
-    borderRadius: radius.full,
+    borderRadius: 24,
     aspectRatio: 1, // Prevent CLS (Issue #248)
   },
   quotePageName: {
@@ -18572,7 +18571,7 @@ const styles = StyleSheet.create({
   },
   suggestionButton: {
     padding: 16,
-    borderRadius: radius.md,
+    borderRadius: 8,
     borderWidth: 2,
     alignItems: 'center',
     marginBottom: 12,
@@ -18620,7 +18619,7 @@ const styles = StyleSheet.create({
   affordableCard: {
     width: '48%',
     padding: 12,
-    borderRadius: radius.lg,
+    borderRadius: 12,
     borderWidth: 1,
     flexDirection: 'row',
     alignItems: 'center',
@@ -18628,7 +18627,7 @@ const styles = StyleSheet.create({
   affordableCardImage: {
     width: 50,
     height: 50,
-    borderRadius: radius.full,
+    borderRadius: 25,
     marginRight: 10,
     aspectRatio: 1, // Prevent CLS (Issue #248)
   },
@@ -18658,7 +18657,7 @@ const styles = StyleSheet.create({
   affordableSavingsBadge: {
     paddingHorizontal: 6,
     paddingVertical: 2,
-    borderRadius: radius.sm,
+    borderRadius: 4,
   },
   affordableSavingsText: {
     color: '#ffffff',
@@ -18668,7 +18667,7 @@ const styles = StyleSheet.create({
   affordableTierBadge: {
     paddingHorizontal: 8,
     paddingVertical: 4,
-    borderRadius: radius.sm,
+    borderRadius: 4,
     borderWidth: 1,
     alignSelf: 'flex-start',
   },
@@ -18678,7 +18677,7 @@ const styles = StyleSheet.create({
   },
   viewAllBudgetButton: {
     padding: 14,
-    borderRadius: radius.md,
+    borderRadius: 8,
     borderWidth: 1,
     alignItems: 'center',
     marginTop: 16,
@@ -18707,7 +18706,7 @@ const styles = StyleSheet.create({
   similarDrummerCard: {
     width: '48%',
     padding: 12,
-    borderRadius: radius.lg,
+    borderRadius: 12,
     borderWidth: 1,
     flexDirection: 'row',
     alignItems: 'flex-start',
@@ -18719,7 +18718,7 @@ const styles = StyleSheet.create({
   similarDrummerImage: {
     width: 60,
     height: 60,
-    borderRadius: radius.full,
+    borderRadius: 30,
     marginRight: 12,
     aspectRatio: 1, // Prevent CLS (Issue #248)
     aspectRatio: 1, // Prevent CLS (Issue #248)
@@ -18754,7 +18753,7 @@ const styles = StyleSheet.create({
     right: 8,
     paddingHorizontal: 8,
     paddingVertical: 4,
-    borderRadius: radius.lg,
+    borderRadius: 12,
   },
   similarityText: {
     fontSize: 11,
@@ -18775,7 +18774,7 @@ const styles = StyleSheet.create({
   gearFinderSearchContainer: {
     flexDirection: 'row',
     alignItems: 'center',
-    borderRadius: radius.lg,
+    borderRadius: 12,
     borderWidth: 1,
     paddingHorizontal: 16,
     marginBottom: 24,
@@ -18815,7 +18814,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     paddingHorizontal: 14,
     paddingVertical: 10,
-    borderRadius: radius.xl,
+    borderRadius: 20,
     borderWidth: 1,
     gap: 6,
   },
@@ -18852,7 +18851,7 @@ const styles = StyleSheet.create({
   gearFinderResultCard: {
     width: '48%',
     padding: 16,
-    borderRadius: radius.lg,
+    borderRadius: 12,
     borderWidth: 1,
     flexDirection: 'row',
     alignItems: 'flex-start',
@@ -18863,7 +18862,7 @@ const styles = StyleSheet.create({
   gearFinderResultImage: {
     width: 70,
     height: 70,
-    borderRadius: radius.full,
+    borderRadius: 35,
     marginRight: 14,
     aspectRatio: 1, // Prevent CLS (Issue #248)
   },
@@ -18889,7 +18888,7 @@ const styles = StyleSheet.create({
   },
   gearFinderGearMatch: {
     padding: 8,
-    borderRadius: radius.md,
+    borderRadius: 8,
   },
   gearFinderGearCategory: {
     fontSize: 11,
@@ -18961,7 +18960,7 @@ const styles = StyleSheet.create({
   topListCard: {
     width: 160,
     padding: 16,
-    borderRadius: radius.lg,
+    borderRadius: 12,
     borderWidth: 1,
     alignItems: 'center',
   },
@@ -19010,14 +19009,14 @@ const styles = StyleSheet.create({
   topListRankCard: {
     flexDirection: 'row',
     padding: 16,
-    borderRadius: radius.lg,
+    borderRadius: 12,
     borderWidth: 1,
     alignItems: 'center',
   },
   topListRankBadge: {
     width: 40,
     height: 40,
-    borderRadius: radius.xl,
+    borderRadius: 20,
     backgroundColor: '#374151',
     alignItems: 'center',
     justifyContent: 'center',
@@ -19034,7 +19033,7 @@ const styles = StyleSheet.create({
   topListDrummerImage: {
     width: 60,
     height: 60,
-    borderRadius: radius.full,
+    borderRadius: 30,
     marginRight: 14,
     aspectRatio: 1, // Prevent CLS (Issue #248)
   },
@@ -19083,7 +19082,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     paddingVertical: 12,
     paddingHorizontal: 16,
-    borderRadius: radius.lg,
+    borderRadius: 10,
     borderWidth: 1,
     minWidth: 140,
     gap: 10,
@@ -19116,7 +19115,7 @@ const styles = StyleSheet.create({
   },
   kitNameSection: {
     padding: 16,
-    borderRadius: radius.lg,
+    borderRadius: 12,
     borderWidth: 1,
     marginBottom: 20,
   },
@@ -19130,7 +19129,7 @@ const styles = StyleSheet.create({
   kitNameInput: {
     fontSize: 16,
     padding: 12,
-    borderRadius: radius.md,
+    borderRadius: 8,
     borderWidth: 1,
   },
   kitBuilderContent: {
@@ -19167,7 +19166,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     paddingHorizontal: 16,
     paddingVertical: 12,
-    borderRadius: radius.full,
+    borderRadius: 24,
     borderWidth: 1,
     gap: 8,
   },
@@ -19185,7 +19184,7 @@ const styles = StyleSheet.create({
   categoryTabCheck: {
     width: 18,
     height: 18,
-    borderRadius: radius.md,
+    borderRadius: 9,
     backgroundColor: '#22c55e',
     alignItems: 'center',
     justifyContent: 'center',
@@ -19197,7 +19196,7 @@ const styles = StyleSheet.create({
   },
   categoryDescription: {
     padding: 12,
-    borderRadius: radius.md,
+    borderRadius: 8,
     borderWidth: 1,
     marginBottom: 16,
   },
@@ -19213,7 +19212,7 @@ const styles = StyleSheet.create({
   gearCard: {
     width: '48%',
     padding: 16,
-    borderRadius: radius.lg,
+    borderRadius: 12,
     borderWidth: 2,
   },
   gearCardMobile: {
@@ -19238,7 +19237,7 @@ const styles = StyleSheet.create({
   gearCardSelectedBadge: {
     width: 22,
     height: 22,
-    borderRadius: radius.lg,
+    borderRadius: 11,
     backgroundColor: '#dc2626',
     alignItems: 'center',
     justifyContent: 'center',
@@ -19280,7 +19279,7 @@ const styles = StyleSheet.create({
     flex: 1,
     paddingVertical: 8,
     paddingHorizontal: 12,
-    borderRadius: radius.sm,
+    borderRadius: 6,
     alignItems: 'center',
     justifyContent: 'center',
   },
@@ -19315,7 +19314,7 @@ const styles = StyleSheet.create({
   },
   presetKitsSection: {
     padding: 16,
-    borderRadius: radius.xl,
+    borderRadius: 16,
     borderWidth: 1,
     marginBottom: 20,
   },
@@ -19340,7 +19339,7 @@ const styles = StyleSheet.create({
   presetKitCard: {
     width: 130,
     padding: 12,
-    borderRadius: radius.lg,
+    borderRadius: 12,
     borderWidth: 2,
     alignItems: 'center',
     position: 'relative',
@@ -19354,7 +19353,7 @@ const styles = StyleSheet.create({
     right: -8,
     width: 24,
     height: 24,
-    borderRadius: radius.lg,
+    borderRadius: 12,
     backgroundColor: '#dc2626',
     alignItems: 'center',
     justifyContent: 'center',
@@ -19405,7 +19404,7 @@ const styles = StyleSheet.create({
   },
   kitSummary: {
     padding: 20,
-    borderRadius: radius.xl,
+    borderRadius: 16,
     borderWidth: 1,
   },
   kitSummaryTitle: {
@@ -19486,7 +19485,7 @@ const styles = StyleSheet.create({
   kitSimilarDrummerImage: {
     width: 36,
     height: 36,
-    borderRadius: radius.xl,
+    borderRadius: 18,
     marginRight: 10,
   },
   kitSimilarDrummerInfo: {
@@ -19511,7 +19510,7 @@ const styles = StyleSheet.create({
     flex: 2,
     backgroundColor: '#dc2626',
     paddingVertical: 14,
-    borderRadius: radius.lg,
+    borderRadius: 10,
     alignItems: 'center',
   },
   kitShareButtonDisabled: {
@@ -19525,7 +19524,7 @@ const styles = StyleSheet.create({
   kitClearButton: {
     flex: 1,
     paddingVertical: 14,
-    borderRadius: radius.lg,
+    borderRadius: 10,
     alignItems: 'center',
     borderWidth: 1,
   },
@@ -19548,7 +19547,7 @@ const styles = StyleSheet.create({
     width: '90%',
     maxWidth: 400,
     padding: 24,
-    borderRadius: radius.xl,
+    borderRadius: 16,
     borderWidth: 1,
   },
   shareModalTitle: {
@@ -19568,7 +19567,7 @@ const styles = StyleSheet.create({
   },
   shareModalLinkBox: {
     padding: 12,
-    borderRadius: radius.md,
+    borderRadius: 8,
     borderWidth: 1,
     marginBottom: 16,
   },
@@ -19583,7 +19582,7 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: '#22c55e',
     paddingVertical: 12,
-    borderRadius: radius.md,
+    borderRadius: 8,
     alignItems: 'center',
   },
   shareModalCopyButtonText: {
@@ -19595,7 +19594,7 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: '#1da1f2',
     paddingVertical: 12,
-    borderRadius: radius.md,
+    borderRadius: 8,
     alignItems: 'center',
   },
   shareModalTwitterButtonText: {
@@ -19605,7 +19604,7 @@ const styles = StyleSheet.create({
   },
   shareModalClose: {
     paddingVertical: 12,
-    borderRadius: radius.md,
+    borderRadius: 8,
     borderWidth: 1,
     alignItems: 'center',
   },
@@ -19636,7 +19635,7 @@ const styles = StyleSheet.create({
   },
   bpmTapSection: {
     padding: 30,
-    borderRadius: radius.xl,
+    borderRadius: 16,
     borderWidth: 1,
     alignItems: 'center',
     marginHorizontal: 20,
@@ -19645,7 +19644,7 @@ const styles = StyleSheet.create({
   bpmTapButton: {
     width: 160,
     height: 160,
-    borderRadius: circleRadius(160),
+    borderRadius: 80,
     alignItems: 'center',
     justifyContent: 'center',
     marginBottom: 20,
@@ -19672,7 +19671,7 @@ const styles = StyleSheet.create({
   bpmResultBadge: {
     paddingHorizontal: 16,
     paddingVertical: 6,
-    borderRadius: radius.xl,
+    borderRadius: 20,
     marginTop: 8,
   },
   bpmResultBadgeText: {
@@ -19687,7 +19686,7 @@ const styles = StyleSheet.create({
   bpmResetButton: {
     paddingHorizontal: 20,
     paddingVertical: 10,
-    borderRadius: radius.md,
+    borderRadius: 8,
     borderWidth: 1,
     marginTop: 16,
   },
@@ -19698,7 +19697,7 @@ const styles = StyleSheet.create({
   bpmShareButton: {
     paddingHorizontal: 16,
     paddingVertical: 10,
-    borderRadius: radius.md,
+    borderRadius: 8,
     marginLeft: 8,
   },
   bpmShareButtonText: {
@@ -19708,7 +19707,7 @@ const styles = StyleSheet.create({
   },
   bpmMatchingSection: {
     padding: 20,
-    borderRadius: radius.lg,
+    borderRadius: 12,
     borderWidth: 2,
     marginHorizontal: 20,
     marginBottom: 30,
@@ -19735,7 +19734,7 @@ const styles = StyleSheet.create({
   bpmSongBpm: {
     paddingHorizontal: 12,
     paddingVertical: 4,
-    borderRadius: radius.lg,
+    borderRadius: 12,
     marginLeft: 12,
   },
   bpmSongBpmText: {
@@ -19750,7 +19749,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     padding: 16,
-    borderRadius: radius.lg,
+    borderRadius: 12,
     borderWidth: 1,
     marginBottom: 10,
   },
@@ -19758,7 +19757,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#dc2626',
     paddingHorizontal: 12,
     paddingVertical: 6,
-    borderRadius: radius.lg,
+    borderRadius: 12,
     minWidth: 50,
     alignItems: 'center',
   },
@@ -19770,6 +19769,6 @@ const styles = StyleSheet.create({
   bpmRangeButton: {
     paddingHorizontal: 16,
     paddingVertical: 10,
-    borderRadius: radius.md,
+    borderRadius: 8,
   },
 });

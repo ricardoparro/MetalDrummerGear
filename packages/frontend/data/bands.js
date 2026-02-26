@@ -303,6 +303,56 @@ export const bands = {
       "https://www.wikidata.org/wiki/Q244815"
     ],
   },
+  // Issue #543: Added Kublai Khan TX band data
+  "kublai-khan-tx": {
+    slug: "kublai-khan-tx",
+    name: "Kublai Khan TX",
+    formed: 2009,
+    origin: "Sherman, Texas, USA",
+    genres: ["metalcore", "beatdown-hardcore"],
+    status: "active",
+    metaTitle: "Kublai Khan TX - Isaac Lamb Drummer Profile & Gear | MetalForge",
+    metaDescription: "Complete profile of Kublai Khan TX drummer Isaac Lamb. Explore his powerful beatdown hardcore style and the band's crushing breakdowns.",
+    summary: "Kublai Khan TX, formed in 2009 in Sherman, Texas, is a leading force in beatdown hardcore and metalcore. Known for crushing breakdowns and socially conscious lyrics.",
+    keywords: ["kublai khan tx", "isaac lamb", "beatdown hardcore", "metalcore", "texas hardcore", "drummer gear", "heavy breakdowns"],
+    members: [
+      { name: "Matt Honeycutt", role: "Vocals", period: "2009-present", notes: "Founding member" },
+      { name: "Eric English", role: "Bass, Vocals", period: "2013-present", notes: "" },
+      { name: "Isaac Lamb", role: "Drums", period: "2009-present", notes: "Founding member" },
+      { name: "Nicholas Adams", role: "Guitar, Vocals", period: "2025-present", notes: "" }
+    ],
+    formerMembers: [
+      { name: "Nolan Ashley", role: "Guitar", period: "2009-2025", notes: "Founding member" },
+      { name: "Eric Waldrum", role: "Guitar", period: "", notes: "" },
+      { name: "Micah Hutson", role: "Guitar", period: "", notes: "" },
+      { name: "BJ Ownby", role: "Bass", period: "", notes: "" }
+    ],
+    drummerHistory: [
+      { drummer: "isaac-lamb", period: "2009-present", notes: "Founding member, only drummer in band history" }
+    ],
+    discography: [
+      { name: "Youth War", year: 2010, type: "EP", label: "Self-Released" },
+      { name: "Balancing Survival and Happiness", year: 2014, type: "Album", label: "Artery Records" },
+      { name: "New Strength", year: 2015, type: "Album", label: "Artery Records" },
+      { name: "Nomad", year: 2017, type: "Album", label: "Rise Records" },
+      { name: "Absolute", year: 2019, type: "Album", label: "Rise Records" },
+      { name: "Lowest Form of Animal", year: 2022, type: "EP", label: "Rise Records" },
+      { name: "Exhibition of Prowess", year: 2024, type: "Album", label: "Rise Records" }
+    ],
+    relatedBands: ["hatebreed", "terror", "knocked-loose", "malevolence"],
+    sameAs: [
+      "https://en.wikipedia.org/wiki/Kublai_Khan_(band)",
+      "https://www.discogs.com/artist/5066893-Kublai-Khan-5",
+      "https://musicbrainz.org/artist/f67e0b3e-d350-435a-b8ea-9f5a1ab4a4e1",
+      "https://www.wikidata.org/wiki/Q19829437"
+    ],
+    faq: [
+      { q: "Why is Kublai Khan called Kublai Khan TX?", a: "The band added 'TX' to their name due to a legal dispute with a Minnesota thrash metal band also named Kublai Khan." },
+      { q: "Who is Kublai Khan TX's drummer?", a: "Isaac Lamb has been the drummer since the band's formation in 2009—he is a founding member." },
+      { q: "What genre is Kublai Khan TX?", a: "Kublai Khan TX plays beatdown hardcore and metalcore, influenced by bands like Hatebreed, Earth Crisis, and Integrity." },
+      { q: "Where is Kublai Khan TX from?", a: "The band is from Sherman, Texas, about 60 miles north of Dallas." }
+    ],
+  },
   deftones: {
     slug: "deftones",
     name: "Deftones",

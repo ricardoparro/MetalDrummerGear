@@ -9051,6 +9051,135 @@ Bent's background in technical death metal—with bands like Brain Drill, Arkaik
         ]
       }
     }
+  },
+
+  // Isaac Lamb - Kublai Khan TX
+  'isaac-lamb': {
+    slug: 'isaac-lamb',
+    drummerId: 61,
+    name: 'Isaac Lamb',
+    bands: [
+      { slug: 'kublai-khan-tx', period: '2009-present', role: 'Drummer, founding member' }
+    ],
+    metaTitle: 'Isaac Lamb Biography - Kublai Khan TX Drummer & Beatdown Hardcore Pioneer | MetalForge',
+    metaDescription: 'Complete biography of Isaac Lamb, founding drummer of Kublai Khan TX since 2009. Explore his powerful beatdown hardcore style, crushing breakdowns, and influence on the Texas hardcore scene.',
+    ogImage: '/images/drummers/isaac-lamb.webp',
+    keywords: ['kublai khan tx', 'beatdown hardcore', 'metalcore', 'texas hardcore', 'sherman texas', 'heavy breakdowns', 'hardcore drums'],
+    relatedDrummers: ['matt-greiner', 'chris-turner', 'joey-jordison', 'matt-halpern'],
+    summary: 'Isaac Lamb, founding drummer of Kublai Khan TX since 2009. Beatdown hardcore powerhouse known for devastating breakdowns and groove-driven intensity.',
+    lastUpdated: '2026-02-26',
+    imageAlt: 'Isaac Lamb performing with Kublai Khan TX delivering powerful beatdown hardcore drumming',
+    schemaType: 'Person',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Isaac Lamb is an American drummer and founding member of the beatdown hardcore/metalcore band Kublai Khan TX, formed in Sherman, Texas in 2009. As the only consistent drummer in the band's history, Lamb has been instrumental in developing Kublai Khan TX's signature sound—characterized by crushing breakdowns, heavy grooves, and aggressive intensity that has made them one of the most respected bands in modern hardcore.
+
+Kublai Khan TX draws influence from early 1990s metallic hardcore bands like Integrity, Earth Crisis, All Out War, and Hatebreed. Lamb's drumming style emphasizes power, groove, and devastating timing on breakdowns, helping establish the band as leaders in the beatdown hardcore subgenre. The band has released five studio albums and has toured extensively with major acts in the hardcore and metal scenes.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '2009', event: 'Co-founded Kublai Khan in Sherman, Texas with vocalist Matt Honeycutt' },
+          { year: '2010', event: 'Self-released debut EP "Youth War," establishing their beatdown hardcore sound' },
+          { year: '2014', event: 'Signed to Artery Recordings; released debut album "Balancing Survival and Happiness"' },
+          { year: '2015', event: 'Released "New Strength" to critical acclaim in the hardcore community' },
+          { year: '2017', event: 'Signed to Rise Records; released "Nomad," expanding their reach' },
+          { year: '2019', event: 'Released "Absolute," solidifying their position in the heavy music scene' },
+          { year: '2022', event: 'Released "Lowest Form of Animal" EP featuring Scott Vogel of Terror on "Swan Song"' },
+          { year: '2024', event: 'Released "Exhibition of Prowess," their most ambitious album to date' },
+          { year: '2024', event: 'Featured on Lamb of God\'s "Another Nail for Your Coffin" with Malevolence' },
+          { year: '2025', event: 'Released "The Mountain of Corsicana" single; continued extensive touring' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Isaac Lamb's drumming style is defined by powerful, groove-oriented playing that serves Kublai Khan TX's heavy, breakdown-driven sound. His approach prioritizes devastating impact over technical showmanship, creating patterns that hit with maximum force while maintaining a relentless, driving energy.
+
+**Key Influences:**
+- **Hatebreed**: Hardcore intensity and breakdown-driven approach
+- **Earth Crisis**: Metallic hardcore foundation
+- **Integrity**: Raw hardcore power
+- **All Out War**: Beatdown hardcore aggression
+- **Pantera**: Groove metal influence on heavy riffs
+
+**Signature Techniques:**
+- Devastating breakdown accents with precise snare hits
+- Powerful double bass patterns for added weight
+- Groove-focused rhythms that emphasize the "bounce"
+- Dynamic buildup sections leading into crushing breakdowns
+- Tight, punchy playing that cuts through heavily downtuned guitars`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Kublai Khan TX - Youth War EP', year: 2010, label: 'Self-Released', note: 'Debut EP' },
+          { name: 'Kublai Khan TX - Balancing Survival and Happiness', year: 2014, label: 'Artery', note: 'Debut full-length, Alternative Press "Best Albums"' },
+          { name: 'Kublai Khan TX - New Strength', year: 2015, label: 'Artery', note: 'Sophomore breakthrough' },
+          { name: 'Kublai Khan TX - Nomad', year: 2017, label: 'Rise', note: 'Rise Records debut' },
+          { name: 'Kublai Khan TX - Absolute', year: 2019, label: 'Rise', note: 'Critical acclaim' },
+          { name: 'Kublai Khan TX - Lowest Form of Animal EP', year: 2022, label: 'Rise', note: 'Features Scott Vogel' },
+          { name: 'Kublai Khan TX - Exhibition of Prowess', year: 2024, label: 'Rise', note: 'Most ambitious release' }
+        ],
+        tours: [
+          { name: 'US Hardcore Tours', year: 'Multiple years', note: 'Extensive domestic touring' },
+          { name: 'European Tours', year: 'Multiple years', note: 'International expansion' },
+          { name: 'Impericon Festival', year: '2015', note: 'Major European festival appearance' },
+          { name: 'North American Tour', year: '2024-2025', note: 'Headlining in support of Exhibition of Prowess' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Isaac Lamb uses a straightforward, heavy-hitting setup designed for the powerful sound Kublai Khan TX requires. His gear choices emphasize attack, projection, and durability for aggressive live performances.
+
+**Setup Characteristics:**
+- **Drums**: Heavy-duty shells capable of withstanding intense playing
+- **Snare**: Deep snare drum for powerful crack and rimshot projection
+- **Cymbals**: Durable crashes and heavy hi-hats for beatdown dynamics
+- **Hardware**: Double bass pedal for added low-end weight
+- **Sticks**: Heavy sticks (likely 2B or similar) for maximum impact
+- **Heads**: Coated or pinstripe heads for attack and durability
+
+**Sound Philosophy:**
+- Setup prioritizes power and durability over finesse
+- Tuning focused on low, punchy tones that complement downtuned guitars
+- Minimal kit footprint maximizing impact over complexity
+- Emphasis on live performance reliability and consistency`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Has been the only drummer in Kublai Khan TX\'s history since their formation in 2009',
+          'Band name comes from the 13th-century Mongol emperor, grandfather of Genghis Khan',
+          'Added "TX" to band name due to legal dispute with Minnesota thrash band of same name',
+          'Kublai Khan TX is known for socially conscious lyrics addressing racism, police brutality, and violence against women',
+          'Band uses heavily downtuned 7-string guitars (sometimes drop G#) requiring powerful drumming to match',
+          'Sherman, Texas (band\'s hometown) is about 60 miles north of Dallas',
+          'Featured collaboration with Terror\'s Scott Vogel on "Swan Song" (2022)',
+          'Band appeared on Lamb of God\'s "Another Nail for Your Coffin" in 2024',
+          'Kublai Khan TX has become one of the most influential bands in modern beatdown hardcore'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What band is Isaac Lamb in?', a: 'Isaac Lamb is the founding drummer of Kublai Khan TX, a beatdown hardcore/metalcore band from Sherman, Texas formed in 2009.' },
+          { q: 'Why is Kublai Khan called Kublai Khan TX?', a: 'The band added "TX" to their name following a legal dispute with a Minnesota thrash metal band also called Kublai Khan.' },
+          { q: 'What genre is Kublai Khan TX?', a: 'Kublai Khan TX plays beatdown hardcore and metalcore, influenced by 90s metallic hardcore bands like Hatebreed, Earth Crisis, and Integrity.' },
+          { q: 'How long has Isaac Lamb been in Kublai Khan TX?', a: 'Isaac Lamb has been Kublai Khan TX\'s drummer since the band formed in 2009—he is a founding member and the only drummer in their history.' },
+          { q: 'What is Kublai Khan TX\'s most popular song?', a: 'Songs like "The Hammer," "Belligerent," "Swan Song," and "Theory of Mind" are among their most popular tracks.' }
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Wikipedia: Kublai Khan (band)', url: 'https://en.wikipedia.org/wiki/Kublai_Khan_(band)' },
+          { name: 'AllMusic: Kublai Khan', url: 'https://www.allmusic.com/artist/kublai-khan-mn0003460661/biography' },
+          { name: 'Alternative Press', url: 'https://www.altpress.com' },
+          { name: 'Lambgoat', url: 'https://lambgoat.com' }
+        ]
+      }
+    }
   }
 };
 

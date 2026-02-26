@@ -985,7 +985,6 @@ const drummers = [
       { title: 'Tool - Pneuma (Live Drum Cam)', youtubeId: 'FssULNGSZIA', year: 2019 },
       { title: 'Tool - Forty Six & 2 (Live Drum Cam)', youtubeId: 'qJq9y9xPKWs', year: 2019 },
       { title: 'Tool - Cleveland 2002 (Drum Cam)', youtubeId: 'Lawu_5p8Kg4', year: 2002 },
-      { title: 'Tool - Invincible (Live Drum Cam)', youtubeId: 'NE3kor-Uo7I', year: 2019 },
       { title: 'Tool - Lateralus (Official Audio)', youtubeId: 'Y7JG63IuaWs', year: 2001 }
     ],
     quotes: [
@@ -1639,9 +1638,6 @@ const drummers = [
       { name: 'DW Hardware', url: 'https://www.dwdrums.com' }
     ],
     videos: [
-      { title: 'Godsmack - I Stand Alone (Live Drum Cam)', youtubeId: 'wJz1zGxM9y0', year: 2018 },
-      { title: 'Shannon Larkin - Sabian Live Session', youtubeId: 'KMn7opjG7Ow', year: 2014 },
-      { title: 'Godsmack - Whatever (Official Drum Playthrough)', youtubeId: 'N0BcDLpX5NM', year: 2019 }
     ]
   },
   {
@@ -1683,9 +1679,6 @@ const drummers = [
       { name: 'Attack Drumheads', url: 'https://www.universalpercussion.com' }
     ],
     videos: [
-      { title: 'Fear Factory - Replica (Drum Cam)', youtubeId: 'fjNFSSf2fLs', year: 2004 },
-      { title: 'Fear Factory - Demanufacture (Live)', youtubeId: 'nCOPLxPfazo', year: 2005 },
-      { title: 'Fear Factory - Edgecrusher (Official Video)', youtubeId: 'kE0Y8Wd3rfs', year: 1998 }
     ]
   },
   {
@@ -1722,9 +1715,6 @@ const drummers = [
       { name: 'Remo Drumheads', url: 'https://remo.com' }
     ],
     videos: [
-      { title: 'Morgan Ågren - Drum Solo (Mats/Morgan Band)', youtubeId: '5MQhk8oOjOU', year: 2014 },
-      { title: 'Morgan Ågren\'s Conundrum - Documentary Trailer', youtubeId: 'NF_cMdGbEV4', year: 2013 },
-      { title: 'Mats/Morgan - Live Performance', youtubeId: 'n3VrJh3eGFM', year: 2016 }
     ]
   },
   {
@@ -1771,9 +1761,6 @@ const drummers = [
       { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ],
     videos: [
-      { title: 'Sepultura - Roots Bloody Roots (Official Drum Cam)', youtubeId: '6V7k5D9fkwI', year: 2017 },
-      { title: 'Cavalera - Schizophrenia (Full Album Playthrough)', youtubeId: 'AK5xYDHC0Ws', year: 2024 },
-      { title: 'Sepultura - Territory (Classic Drum Cam)', youtubeId: 'Q1bNFq8p8u8', year: 1996 }
     ]
   },
   {
@@ -1814,8 +1801,6 @@ const drummers = [
     ],
     videos: [
       { title: 'Black Sabbath - War Pigs (Live Paris 1970)', youtubeId: 'IDJgwUeW7_k', year: 1970 },
-      { title: 'Black Sabbath - Rat Salad (Drum Solo)', youtubeId: 'KDxJdDT_C0Y', year: 1970 },
-      { title: 'Bill Ward Drum Interview & Performance', youtubeId: 'NME5YSs8yws', year: 2015 }
     ]
   },
   {
@@ -1854,9 +1839,6 @@ const drummers = [
       { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ],
     videos: [
-      { title: 'Trivium - In Waves (Official Drum Cam)', youtubeId: 'Rp6QU2f2nDQ', year: 2012 },
-      { title: 'Trivium - Built to Fall (Live Drum Cam)', youtubeId: 'x_f7c4cLjYQ', year: 2012 },
-      { title: 'Trivium - Pull Harder On The Strings Of Your Martyr (Live)', youtubeId: 'C8vbP4VzXDA', year: 2013 }
     ]
   },
   {
@@ -1896,9 +1878,6 @@ const drummers = [
       { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ],
     videos: [
-      { title: 'Oceans Ate Alaska - Hansha (Official Drum Playthrough)', youtubeId: 'aCwkNBdqrPk', year: 2017 },
-      { title: 'Chris Turner - Metamorph (Drum Playthrough)', youtubeId: 'yN4zLJxHl0Y', year: 2020 },
-      { title: 'Oceans Ate Alaska - Covert (Drum Cam)', youtubeId: 'vR7rQBaKpOk', year: 2017 }
     ]
   },
   {
@@ -1940,9 +1919,6 @@ const drummers = [
       { name: 'DW Hardware', url: 'https://www.dwdrums.com' }
     ],
     videos: [
-      { title: 'August Burns Red - White Washed (Meinl Cymbals Drum Playthrough)', youtubeId: 'qC-VtlrpYrk', year: 2017 },
-      { title: 'August Burns Red - Paramount (Drum Playthrough)', youtubeId: 'G0cZ-qPgFog', year: 2019 },
-      { title: 'August Burns Red - Identity (Grammy Nominated Performance)', youtubeId: 'XhOvZFx9eKE', year: 2016 }
     ],
     quotes: [
       { text: "I want my drumming to serve the song first. The technical stuff is fun, but it has to make musical sense.", source: "Modern Drummer Magazine", year: 2017 },
@@ -1987,9 +1963,6 @@ const drummers = [
       { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ],
     videos: [
-      { title: 'BTBAM - Selkies: The Endless Obsession (Drum Cam)', youtubeId: 'mT0YYjM9BcU', year: 2018 },
-      { title: 'BTBAM - Fix the Error (Drum Playthrough)', youtubeId: 'lX-q9fD4Nz4', year: 2021 },
-      { title: 'BTBAM - Condemned to the Gallows (Grammy Nominated)', youtubeId: 'WyN1_OgUQFc', year: 2019 }
     ],
     quotes: [
       { text: "I try to approach drums melodically. Every fill, every pattern should have a musical purpose.", source: "Modern Drummer Magazine", year: 2012 },
@@ -2036,9 +2009,6 @@ const drummers = [
       { name: 'Remo Drumheads', url: 'https://remo.com' }
     ],
     videos: [
-      { title: 'Converge - A Single Tear (Live Drum Cam)', youtubeId: 'hYR0qvh_K8A', year: 2018 },
-      { title: 'Mutoid Man - Melt Your Mind (Drum Playthrough)', youtubeId: 'BNXJJeGTb3Y', year: 2017 },
-      { title: 'Converge - Jane Doe (Full Album Drum Cam)', youtubeId: 'Q_4c_H21nXg', year: 2021 }
     ]
   },
   {
@@ -2078,9 +2048,6 @@ const drummers = [
       { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ],
     videos: [
-      { title: 'Cryptopsy - Phobophile (Drum Cam)', youtubeId: 'pSXvnVdjPQQ', year: 2016 },
-      { title: 'Flo Mounier - None So Vile Full Album Playthrough', youtubeId: 'B5yDrVPV8PU', year: 2019 },
-      { title: 'Cryptopsy - Cold Hate, Warm Blood (Live Drum Cam)', youtubeId: 'gKQl6RNPN0Q', year: 2018 }
     ],
     quotes: [
       { text: "Speed means nothing without control. I practice slow to play fast.", source: "Modern Drummer Magazine", year: 2008 },
@@ -2127,9 +2094,6 @@ const drummers = [
       { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ],
     videos: [
-      { title: 'Shadows Fall - The Light That Blinds (Drum Cam)', youtubeId: 'dLCYn7AoJ0I', year: 2007 },
-      { title: 'Overkill - Ironbound (Live Drum Cam)', youtubeId: '1Dj5TYhxTNo', year: 2019 },
-      { title: 'Jason Bittner - What Drives the Beat (Instructional DVD)', youtubeId: 'RkqZF7j-q8E', year: 2008 }
     ],
     quotes: [
       { text: "Berklee taught me discipline, but the road taught me how to play metal.", source: "Modern Drummer Magazine", year: 2006 },
@@ -2175,9 +2139,6 @@ const drummers = [
       { name: 'Remo Drumheads', url: 'https://remo.com' }
     ],
     videos: [
-      { title: 'Soen - Lotus (Drum Playthrough)', youtubeId: 'jXBEKz2BTU8', year: 2019 },
-      { title: 'Opeth - Blackwater Park (Classic Drum Cam)', youtubeId: '7GUKHxPHhj8', year: 2003 },
-      { title: 'Soen - Rival (Live Drum Cam)', youtubeId: 'r2LpBhGZyL0', year: 2021 }
     ],
     quotes: [
       { text: "Less is more. The spaces between the notes are just as important as the notes themselves.", source: "Modern Drummer Magazine", year: 2014 },
@@ -2225,8 +2186,6 @@ const drummers = [
     ],
     videos: [
       { title: 'Periphery - Icarus Lives! (Drum Playthrough)', youtubeId: 'spCmStMOiHE', year: 2012 },
-      { title: 'Darkest Hour - Those Who Survived (Drum Playthrough)', youtubeId: 'xBKCQd5Tr5g', year: 2017 },
-      { title: 'Travis Orbin - Letter Experiment (Full Playthrough)', youtubeId: 'aJr3h7MhLC0', year: 2014 }
     ]
   },
   {
@@ -2265,9 +2224,7 @@ const drummers = [
       { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ],
     videos: [
-      { title: 'Devin Townsend Project - Supercrush! (Drum Cam)', youtubeId: '4DOPkHrW5wQ', year: 2012 },
       { title: 'Devin Townsend - Kingdom (Live Drum Cam)', youtubeId: 'nubJjB95VdY', year: 2016 },
-      { title: 'Devin Townsend Project - Addicted (Full Show Drum Cam)', youtubeId: 'hVd2n3lFZaE', year: 2011 }
     ],
     quotes: [
       { text: "Working with Devin is never boring. Every album is a completely different challenge.", source: "Modern Drummer Magazine", year: 2015 },
@@ -2453,8 +2410,6 @@ const drummers = [
     ],
     videos: [
       { title: 'Derek Roddy - Extreme Metal Drumming Demo', youtubeId: 'kOIj7AgonHM', year: 2012 },
-      { title: 'Derek Roddy - Blast Beat Techniques (Educational)', youtubeId: 'XP4HW5Zh1hM', year: 2010 },
-      { title: 'Derek Roddy - One Foot Blast Demonstration', youtubeId: 'KJJ64nqEfYs', year: 2012 }
     ],
     quotes: [
       { text: "Speed means nothing without control and musicality. Anyone can play fast, but can you play music?", source: "Sick Drummer Magazine", year: 2008 },
@@ -2500,8 +2455,6 @@ const drummers = [
     ],
     videos: [
       { title: 'Megadeth - Symphony of Destruction (Drum Cam 2017)', youtubeId: 'vfpgpf6QVnI', year: 2017 },
-      { title: 'Megadeth - Holy Wars (Drum Cam Live)', youtubeId: 'BklWXe5GMyk', year: 2018 },
-      { title: 'Soilwork - Nerve Drum Playthrough', youtubeId: 'Lkx-fsnB2AA', year: 2013 }
     ],
     quotes: [
       { text: "Joining Megadeth was a dream come true. These songs are part of metal history.", source: "Modern Drummer", year: 2017 },
@@ -2545,9 +2498,6 @@ const drummers = [
       { name: 'Remo Drumheads', url: 'https://remo.com' }
     ],
     videos: [
-      { title: 'Satyricon - Mother North (Live at Wacken 2018)', youtubeId: 'hL2WzIv7dZ4', year: 2018 },
-      { title: '1349 - Sculptor of Flesh (Drum Cam)', youtubeId: 'KMDvGqeSqLo', year: 2019 },
-      { title: 'Frost - Extreme Drumming Demonstration', youtubeId: '8XjSfZDwJ7Y', year: 2015 }
     ],
     quotes: [
       { text: "Black metal drumming is about channeling darkness and aggression through precision.", source: "Decibel Magazine", year: 2010 },
@@ -2594,8 +2544,6 @@ const drummers = [
     ],
     videos: [
       { title: 'Porcupine Tree - Anesthetize (Live)', youtubeId: 'MSEQZ8reJA4', year: 2010 },
-      { title: 'King Crimson - Discipline (Live)', youtubeId: 'Gf2hqO9qMxM', year: 2018 },
-      { title: 'Gavin Harrison - Sound Like You Mean It (Drumeo)', youtubeId: 'vSCQiEsXgzQ', year: 2019 }
     ],
     quotes: [
       { text: "Groove is everything. Without groove, all the chops in the world mean nothing.", source: "Modern Drummer", year: 2015 },
@@ -2640,8 +2588,6 @@ const drummers = [
     ],
     videos: [
       { title: 'My Own Summer - Drum Cam (Live 2017)', youtubeId: 'XOzs1FehYOA', year: 2017 },
-      { title: 'Deftones - Digital Bath (Drum Cam)', youtubeId: 'Hhu_8kHgaKs', year: 2010 },
-      { title: 'Abe Cunningham - In the Studio (Recording Koi No Yokan)', youtubeId: 'T-dPPuGWjJo', year: 2012 }
     ],
     quotes: [
       { text: "Dynamics are key. Knowing when not to play is just as important as knowing when to go all out.", source: "Modern Drummer", year: 2012 },
@@ -2687,9 +2633,7 @@ const drummers = [
       { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ],
     videos: [
-      { title: 'Death - Spirit Crusher (Live in L.A. Drum Cam)', youtubeId: 'rRYeZ8r_TNM', year: 2001 },
       { title: 'Death - The Flesh and the Power It Holds (Drum Playthrough)', youtubeId: 'xk3BvNLeNgw', year: 2015 },
-      { title: 'Richard Christy - Drum Technique Video', youtubeId: 'gPYtAqfpOho', year: 2010 }
     ],
     quotes: [
       { text: "Playing with Chuck Schuldiner was the greatest musical experience of my life.", source: "Metal Maniacs", year: 2002 },
@@ -2734,9 +2678,6 @@ const drummers = [
       { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ],
     videos: [
-      { title: 'Angra - Nova Era (Drum Cam)', youtubeId: 'BxqhvfqjHIo', year: 2006 },
-      { title: 'W.A.S.P. - I Wanna Be Somebody (Live Drum Cam)', youtubeId: 'R4VLfOTmAQg', year: 2015 },
-      { title: 'Aquiles Priester - Double Bass Speed Techniques', youtubeId: '4Vn3pfpOmbs', year: 2012 }
     ],
     quotes: [
       { text: "Power metal demands power drumming. Every stroke has to hit like thunder.", source: "Modern Drummer Brazil", year: 2010 },
@@ -2817,7 +2758,6 @@ const drummers = [
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
     ],
     videos: [
-      { title: 'Dream Theater - The Dance of Eternity (Drum Cam)', youtubeId: 'FwkcRTNMsWs', year: 2019 }
     ]
   },
   {
@@ -2929,7 +2869,6 @@ const drummers = [
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
     ],
     videos: [
-      { title: 'Children of Bodom - In Your Face (Drum Cam)', youtubeId: 'pQvHwCaQYio', year: 2011 }
     ]
   },
   {
@@ -2968,7 +2907,6 @@ const drummers = [
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
     ],
     videos: [
-      { title: 'Obscura - Anticosmic Overload (Drum Playthrough)', youtubeId: 'L4sQvHXaYEE', year: 2016 }
     ]
   },
   {
@@ -3041,7 +2979,6 @@ const drummers = [
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
     ],
     videos: [
-      { title: 'Amon Amarth - Raise Your Horns (Drum Cam)', youtubeId: 'mLpxoixOUPE', year: 2018 }
     ]
   },
   {
@@ -3080,7 +3017,6 @@ const drummers = [
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
     ],
     videos: [
-      { title: 'Morbid Angel - Immortal Rites (Live Drum Cam)', youtubeId: 'xJj5XLSz2Uk', year: 2019 }
     ]
   },
   {
@@ -3119,7 +3055,6 @@ const drummers = [
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
     ],
     videos: [
-      { title: 'Dying Fetus - Destroy the Opposition (Drum Cam)', youtubeId: 'mC6qAs9M3Kk', year: 2008 }
     ]
   }
 ];

@@ -1,18 +1,18 @@
 const { test, expect } = require('@playwright/test');
 const BASE_URL = process.env.BASE_URL || 'https://metalforge.io';
 
-// Helper to wait for drummer page content using Playwright auto-retry
+// Helper to wait for drummer page content using Playwright's getByText
 async function waitForDrummerPageContent(page, drummerName = null, timeout = 30000) {
-  await expect(async () => {
-    const bodyText = await page.locator('body').textContent();
-    // Page should contain drummer-related content
-    const hasContent = bodyText.includes('Gear') || 
-                       bodyText.includes('Biography') ||
-                       bodyText.includes('Band') ||
-                       (drummerName && bodyText.includes(drummerName.split(' ')[0])) ||
-                       bodyText.length > 500;
-    expect(hasContent).toBe(true);
-  }).toPass({ timeout });
+  if (drummerName) {
+    // Wait for the drummer's first name to appear
+    const firstName = drummerName.split(' ')[0];
+    await expect(page.getByText(firstName).first()).toBeVisible({ timeout });
+  } else {
+    // Wait for any of these text patterns that indicate the app has rendered
+    const gearText = page.getByText(/Gear/i).first();
+    const bandText = page.getByText(/Band/i).first();
+    await expect(gearText.or(bandText)).toBeVisible({ timeout });
+  }
 }
 
 test.describe('Drummer Detail Pages', () => {

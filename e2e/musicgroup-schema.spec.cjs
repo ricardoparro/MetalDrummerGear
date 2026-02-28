@@ -13,17 +13,14 @@ const IS_PRODUCTION_FALLBACK = process.env.IS_PRODUCTION_FALLBACK === 'true';
 // Skip enhanced MusicGroup tests when running against production (without our changes)
 const testOrSkip = IS_PRODUCTION_FALLBACK ? test.skip : test;
 
-// Helper to wait for drummer page content using Playwright auto-retry
+// Helper to wait for drummer page content using Playwright's getByText
 async function waitForDrummerPage(page, timeout = 30000) {
-  await expect(async () => {
-    const bodyText = await page.locator('body').textContent();
-    const hasContent = bodyText.includes('Gear') || 
-                       bodyText.includes('Biography') ||
-                       bodyText.includes('Band') ||
-                       bodyText.includes('Drummer') ||
-                       bodyText.length > 500;
-    expect(hasContent).toBe(true);
-  }).toPass({ timeout });
+  // Wait for any of these text patterns that indicate the app has rendered
+  const gearText = page.getByText(/Gear/i).first();
+  const bandText = page.getByText(/Band/i).first();
+  const drummerText = page.getByText(/Drummer/i).first();
+  
+  await expect(gearText.or(bandText).or(drummerText)).toBeVisible({ timeout });
 }
 
 // Helper to get schema from page

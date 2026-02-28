@@ -28,16 +28,14 @@ async function isKitQuizAvailable(page) {
   }
 }
 
-// Helper to wait for homepage content using Playwright auto-retry
+// Helper to wait for homepage content using Playwright's getByText
 async function waitForHomepageContent(page, timeout = 30000) {
-  await expect(async () => {
-    const bodyText = await page.locator('body').textContent();
-    const hasContent = bodyText.includes('Drummer') || 
-                       bodyText.includes('Metal') ||
-                       bodyText.includes('Gear') ||
-                       bodyText.length > 300;
-    expect(hasContent).toBe(true);
-  }).toPass({ timeout });
+  // Wait for any of these text patterns that indicate the app has rendered
+  const metalText = page.getByText(/Metal/i).first();
+  const drummerText = page.getByText(/Drummer/i).first();
+  const gearText = page.getByText(/Gear/i).first();
+  
+  await expect(metalText.or(drummerText).or(gearText)).toBeVisible({ timeout });
 }
 
 test.describe('Kit Quiz - Issue #551', () => {
@@ -111,19 +109,13 @@ test.describe('Kit Quiz - Issue #551', () => {
   test.describe('Kit Quiz Page Direct Access', () => {
     test('kit quiz page loads directly', async ({ page }) => {
       await page.goto('/kit-quiz');
-      await page.waitForLoadState('networkidle');
       
-      // Use auto-retry assertion for content check
-      await expect(async () => {
-        const pageContent = await page.locator('body').textContent();
-        // Check for quiz-related content or app content
-        const hasQuizContent = pageContent.includes('Quiz') || 
-                               pageContent.includes('Guess') ||
-                               pageContent.includes('Drummer') ||
-                               pageContent.includes('Metal') ||
-                               pageContent.length > 300;
-        expect(hasQuizContent).toBe(true);
-      }).toPass({ timeout: 25000 });
+      // Wait for any of these text patterns that indicate the app has rendered
+      const quizText = page.getByText(/Quiz/i).first();
+      const drummerText = page.getByText(/Drummer/i).first();
+      const metalText = page.getByText(/Metal/i).first();
+      
+      await expect(quizText.or(drummerText).or(metalText)).toBeVisible({ timeout: 30000 });
       
       console.log('✓ Kit quiz page loaded');
     });

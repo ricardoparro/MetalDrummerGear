@@ -1,19 +1,14 @@
 const { test, expect } = require('@playwright/test');
 const BASE_URL = process.env.BASE_URL || 'https://metalforge.io';
 
-// Helper to wait for drummer page content using Playwright auto-retry
+// Helper to wait for drummer page content using Playwright's getByText
 async function waitForDrummerPageContent(page, timeout = 30000) {
-  // Wait for body to have meaningful content
-  await expect(async () => {
-    const bodyText = await page.locator('body').textContent();
-    // Page should contain some expected content
-    const hasContent = bodyText.includes('Gear') || 
-                       bodyText.includes('Quote') ||
-                       bodyText.includes('Drummer') ||
-                       bodyText.includes('Band') ||
-                       bodyText.length > 500;
-    expect(hasContent).toBe(true);
-  }).toPass({ timeout });
+  // Wait for any of these text patterns that indicate the app has rendered
+  const gearText = page.getByText(/Gear/i).first();
+  const bandText = page.getByText(/Band/i).first();
+  const drummerText = page.getByText(/Drummer/i).first();
+  
+  await expect(gearText.or(bandText).or(drummerText)).toBeVisible({ timeout });
 }
 
 test.describe('Quotes Page', () => {

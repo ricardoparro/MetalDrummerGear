@@ -24,18 +24,14 @@ const COMPARISON_SLUGS = [
   'gene-hoglan-vs-charlie-benante',
 ];
 
-// Helper to wait for comparison page content using Playwright auto-retry
+// Helper to wait for comparison page content using Playwright's getByText
 async function waitForComparisonPage(page, timeout = 30000) {
-  await expect(async () => {
-    const bodyText = await page.locator('body').textContent();
-    const hasContent = bodyText.includes('Showdown') || 
-                       bodyText.includes('Head-to-Head') ||
-                       bodyText.includes('VS') ||
-                       bodyText.includes('Comparison') ||
-                       bodyText.includes('Drummer') ||
-                       bodyText.length > 500;
-    expect(hasContent).toBe(true);
-  }).toPass({ timeout });
+  // Wait for any of these text patterns that indicate the app has rendered
+  const showdownText = page.getByText(/Showdown/i).first();
+  const vsText = page.getByText(/VS/i).first();
+  const drummerText = page.getByText(/Drummer/i).first();
+  
+  await expect(showdownText.or(vsText).or(drummerText)).toBeVisible({ timeout });
 }
 
 test.describe('Drummer Comparisons Index Page', () => {

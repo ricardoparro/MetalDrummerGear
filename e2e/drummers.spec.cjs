@@ -121,19 +121,15 @@ test.describe('MetalForge E2E', () => {
     test.setTimeout(45000); // Extend timeout for slow CI
     
     await page.goto('/');
-    await page.waitForLoadState('networkidle');
     
-    // Use Playwright's auto-waiting assertion - much more reliable than timeout
-    // The homepage should contain some combination of these keywords
-    await expect(async () => {
-      const bodyText = await page.locator('body').textContent();
-      const hasValidContent = bodyText.includes('Metal') || 
-                              bodyText.includes('Drummer') ||
-                              bodyText.includes('Gear') ||
-                              bodyText.includes('drum') ||
-                              bodyText.includes('Forge');
-      expect(hasValidContent).toBe(true);
-    }).toPass({ timeout: 30000 });
+    // Use Playwright's getByText with built-in auto-waiting - this is what works for SPAs
+    // Wait for any of these text patterns that indicate the app has rendered
+    const metalText = page.getByText(/Metal/i).first();
+    const drummerText = page.getByText(/Drummer/i).first();
+    const gearText = page.getByText(/Gear/i).first();
+    
+    // At least one of these should be visible
+    await expect(metalText.or(drummerText).or(gearText)).toBeVisible({ timeout: 30000 });
     
     console.log('✓ Homepage loaded - site content visible');
   });
@@ -180,25 +176,21 @@ test.describe('MetalForge E2E', () => {
     const drummer = drummers[0];
     
     await page.goto(`/drummer/${drummer.id}`);
-    await page.waitForLoadState('networkidle');
     
-    // Use Playwright's auto-waiting assertion for content check
-    await expect(async () => {
-      const bodyText = await page.locator('body').textContent();
-      // Should contain the drummer's name (or part of it for multi-word names)
-      const firstName = drummer.name.split(' ')[0];
-      expect(bodyText).toContain(firstName);
-    }).toPass({ timeout: 30000 });
+    // Use Playwright's getByText to wait for the drummer's name to appear
+    // This handles SPA rendering properly with built-in auto-waiting
+    const firstName = drummer.name.split(' ')[0];
+    await expect(page.getByText(firstName).first()).toBeVisible({ timeout: 30000 });
     
-    // Verify no JS errors in the rendered content
-    const finalText = await page.locator('body').textContent();
-    expect(finalText).not.toContain('is not defined');
+    // Also verify the page doesn't have JavaScript errors
+    const content = await page.locator('body').textContent();
+    expect(content).not.toContain('is not defined');
     
     console.log(`✓ Drummer detail rendered - ${drummer.name}`);
   });
   
   test('first 5 drummers load', async ({ page, request }) => {
-    test.setTimeout(120000); // Extended timeout for multi-page test
+    test.setTimeout(150000); // Extended timeout for multi-page test
     
     const response = await request.get(`${BASE_URL}/api/drummers`);
     const drummers = await response.json();
@@ -206,15 +198,11 @@ test.describe('MetalForge E2E', () => {
     
     for (const d of drummers.slice(0, 5)) {
       await page.goto(`/drummer/${d.id}`);
-      await page.waitForLoadState('networkidle');
       
-      // Use auto-waiting assertion - checks content with retries
+      // Use Playwright's getByText to wait for the drummer's name
       const firstName = d.name.split(' ')[0];
       try {
-        await expect(async () => {
-          const pageContent = await page.locator('body').textContent();
-          expect(pageContent).toContain(firstName);
-        }).toPass({ timeout: 20000 });
+        await expect(page.getByText(firstName).first()).toBeVisible({ timeout: 25000 });
       } catch (e) {
         errors.push(d.name);
       }

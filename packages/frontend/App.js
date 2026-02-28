@@ -10695,6 +10695,7 @@ function DrummerList({
   onNavigateToKitQuiz,
   onNavigateToSpotlights,
   onNavigateToQuotes,
+  onNavigateToNews,
   onNavigateToGearByBudget,
   onNavigateToList,
   onNavigateToGearFinder,
@@ -10865,6 +10866,16 @@ function DrummerList({
           accessibilityLabel="Guess the drummer by kit quiz"
         >
           <Text style={[styles.quizButtonText, { color: '#fff' }]}>🎯 Kit Quiz</Text>
+        </TouchableOpacity>
+      </View>
+      <View style={[styles.actionButtonsRow, { marginTop: -8 }]}>
+        <TouchableOpacity
+          onPress={onNavigateToNews}
+          style={[styles.quizButton, { backgroundColor: '#059669', borderColor: '#059669', flex: 1 }]}
+          accessibilityRole="button"
+          accessibilityLabel="Read latest metal news"
+        >
+          <Text style={[styles.quizButtonText, { color: '#fff' }]}>📰 Metal News</Text>
         </TouchableOpacity>
       </View>
       {/* Filter Bar - positioned below action buttons, above drummer list (Issue #506) */}
@@ -16183,6 +16194,7 @@ setShowList(false);
           onNavigateToQuiz={handleNavigateToQuiz}
           onNavigateToKitQuiz={handleNavigateToKitQuiz}
           onNavigateToQuotes={handleNavigateToQuotes}
+          onNavigateToNews={handleNavigateToNews}
           onNavigateToSpotlights={handleNavigateToSpotlights}
           onNavigateToGearByBudget={handleNavigateToGearByBudget}
           onNavigateToList={handleNavigateToList}
@@ -21216,4 +21228,27 @@ const styles = StyleSheet.create({
     fontSize: 16,
     marginLeft: 8,
   },
+  // NEWS PAGE STYLES (Issue #514 - Phase 6)
+  newsPageHeader: { marginBottom: 24 },
+  newsPageTitle: { fontSize: 32, fontWeight: '700', marginBottom: 8, marginTop: 16 },
+  newsPageSubtitle: { fontSize: 16, marginBottom: 8, lineHeight: 24 },
+  newsLastUpdate: { fontSize: 13, fontStyle: 'italic', marginTop: 8 },
+  newsFilters: { marginBottom: 24 },
+  newsCardLarge: { borderRadius: 12, borderWidth: 1, overflow: 'hidden' },
+  newsCardLargeImage: { width: '100%', height: 200, resizeMode: 'cover' },
+  newsCardLargeContent: { padding: 16 },
+  newsCardLargeTitle: { fontSize: 18, fontWeight: '700', marginBottom: 8, lineHeight: 26 },
+  newsCardLargeSnippet: { fontSize: 14, lineHeight: 22, marginBottom: 12 },
+  newsCardLargeMeta: { flexDirection: 'row', alignItems: 'center', marginTop: 8 },
+  newsTags: { flexDirection: 'row', flexWrap: 'wrap', gap: 8, marginBottom: 12 },
+  newsTag: { paddingHorizontal: 12, paddingVertical: 6, borderRadius: 16 },
+  newsTagDrummer: { backgroundColor: 'rgba(220, 38, 38, 0.15)' },
+  newsTagBand: { backgroundColor: 'rgba(37, 99, 235, 0.15)' },
+  newsTagText: { fontSize: 13, fontWeight: '500' },
+  newsEmpty: { alignItems: 'center', padding: 40 },
+  newsEmptyText: { fontSize: 16, textAlign: 'center', marginBottom: 16 },
+  newsRetryButton: { paddingHorizontal: 24, paddingVertical: 12, borderRadius: 8 },
+  newsRetryText: { color: '#ffffff', fontSize: 14, fontWeight: '600' },
+  newsAttribution: { marginTop: 40, paddingTop: 24, borderTopWidth: 1, marginBottom: 40 },
+  newsAttributionText: { fontSize: 13, textAlign: 'center', lineHeight: 20, fontStyle: 'italic' },
 });

@@ -1875,9 +1875,45 @@ function updateDocumentMeta(drummer, drummers = [], filters = {}) {
   let schema;
   if (drummer) {
     // Generate MusicGroup schemas for ALL bands the drummer has played with (Issue #444)
-    const musicGroupSchemas = generateAllMusicGroupSchemasFromDrummer(drummer);
+    let musicGroupSchemas = generateAllMusicGroupSchemasFromDrummer(drummer);
     // Primary band schema for backward compatibility
-    const musicGroupSchema = musicGroupSchemas.length > 0 ? musicGroupSchemas[0] : generateMusicGroupSchemaFromDrummer(drummer);
+    let musicGroupSchema = musicGroupSchemas.length > 0 ? musicGroupSchemas[0] : generateMusicGroupSchemaFromDrummer(drummer);
+    
+    // Fix #603: When bands module isn't loaded yet, create a fallback MusicGroup schema
+    // This ensures MusicGroup entity is always present in the @graph for E2E tests
+    if (!musicGroupSchema && drummer.band) {
+      const bandSlug = drummer.band.toLowerCase()
+        .replace(/[^a-z0-9\s-]/g, '')
+        .replace(/\s+/g, '-')
+        .replace(/-+/g, '-');
+      const drummerSlugForFallback = toSlug(drummer.name);
+      
+      musicGroupSchema = {
+        "@type": "MusicGroup",
+        "@id": `https://metalforge.io/bands/${bandSlug}#band`,
+        "name": drummer.band,
+        "url": `https://metalforge.io/bands/${bandSlug}`,
+        "member": {
+          "@type": "Person",
+          "@id": `https://metalforge.io/drummer/${drummerSlugForFallback}#person`,
+          "name": drummer.name
+        }
+      };
+      
+      // Add genre from drummer data if available
+      if (drummer.genre) {
+        const genres = drummer.genre.split(/\s*[\/,]\s*/).map(g => g.trim());
+        musicGroupSchema.genre = genres;
+      }
+      
+      // Add basic sameAs link for Wikipedia
+      const wikiSlug = drummer.band.replace(/\s+/g, '_');
+      musicGroupSchema.sameAs = [
+        `https://en.wikipedia.org/wiki/${encodeURIComponent(wikiSlug)}`
+      ];
+      
+      musicGroupSchemas = [musicGroupSchema];
+    }
     
     // Enhanced structured data with Person + MusicGroup + Product pricing for drummer pages
     const graphEntities = [];

@@ -11367,6 +11367,7 @@ function DrummerList({
   onNavigateToBirthdayCalendar,
   onNavigateToGenresList,
   onNavigateToTechniques,
+  onNavigateToDrummers,
   spotlight,
   filters,
   onFilterChange,
@@ -15846,6 +15847,30 @@ setShowList(false);
     }
   };
 
+  // Navigate to drummers page - browse all drummers with filters (Issue #497, fix #575)
+  const handleNavigateToDrummers = () => {
+    setShowDrummersPage(true);
+    setShowSpotlights(false);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowPrivacy(false);
+    setShowQuotes(false);
+    setShowGearByBudget(false);
+    setShowList(false);
+    setListSlug(null);
+    setShowGearFinder(false);
+    setShowBandDetail(false);
+    setBandSlug(null);
+    setShowGenrePage(false);
+    setGenreSlug(null);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/drummers');
+    }
+  };
+
   const handleNavigateToGearByBudget = () => {
     setShowGearByBudget(true);
     setShowGearFinder(false);
@@ -16866,6 +16891,7 @@ setShowList(false);
           onNavigateToBirthdayCalendar={handleNavigateToBirthdayCalendar}
           onNavigateToGenresList={handleNavigateToGenresList}
           onNavigateToTechniques={handleNavigateToTechniquesIndex}
+          onNavigateToDrummers={handleNavigateToDrummers}
           spotlight={apiSpotlight || getFeaturedDrummer(drummers)}
           filters={filters}
           onFilterChange={handleFilterChange}

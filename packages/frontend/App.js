@@ -15090,6 +15090,26 @@ setShowList(false);
     }
   };
 
+  // Kit Quiz navigation (Issue #551) - Fix for #562
+  const handleNavigateToKitQuiz = () => {
+    setShowKitQuiz(true);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowQuotes(false);
+    setShowSpotlights(false);
+    setShowGearByBudget(false);
+    setShowList(false);
+    setListSlug(null);
+    setShowGearFinder(false);
+    setShowNewsPage(false);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/kit-quiz');
+    }
+  };
+
   const handleNavigateToQuotes = () => {
     setShowQuotes(true);
     setShowQuiz(false);

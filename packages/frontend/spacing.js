@@ -36,30 +36,19 @@
  */
 
 // Core spacing scale (8px grid)
-// CRITICAL FIX for #608: Use Object.defineProperty to create string keys at runtime.
-// Metro/Babel bundler aggressively converts numeric-looking keys ('0', '1', etc.) to
-// actual numeric keys (0, 1, etc.) during optimization. This causes the error:
-// "Failed to set indexed property [0] on CSSStyleDeclaration"
-// in react-native-web because numeric keys aren't valid CSS property names.
-//
-// SOLUTION: Use Object.defineProperty() which cannot be statically optimized because
-// the property name comes from a runtime function call (String()). The bundler cannot
-// know at compile time that String(0) === '0', so it won't convert the key.
-// (Issue #591, #596, #600, #601, #605, #608)
-const _createSpacingScale = () => {
-  const scale = Object.create(null);
-  const values = [[0, 0], [1, 4], [2, 8], [3, 12], [4, 16], [5, 20], [6, 24], [8, 32], [10, 40], [12, 48]];
-  for (const [key, value] of values) {
-    Object.defineProperty(scale, String(key), {
-      value: value,
-      enumerable: true,
-      writable: false,
-      configurable: false
-    });
-  }
-  return scale;
-};
-export const spacing = _createSpacingScale();
+// CRITICAL FIX for #605: Use runtime string coercion to prevent bundler key optimization.
+// Metro/Babel converts string number keys (like '0', '1') to numeric keys during bundling.
+// This causes "Failed to set indexed property [0]" CSS error in react-native-web.
+// Using String() at runtime prevents static analysis and key conversion.
+// (Issue #591, #596, #600, #601, #605)
+// 
+// NOTE: The Object.defineProperty approach from #608 caused React app to fail to mount.
+// Reverted to the simpler reduce() approach which is proven to work.
+const _spacingData = [[0, 0], [1, 4], [2, 8], [3, 12], [4, 16], [5, 20], [6, 24], [8, 32], [10, 40], [12, 48]];
+export const spacing = _spacingData.reduce((acc, [key, value]) => {
+  acc[String(key)] = value;
+  return acc;
+}, {});
 
 // Semantic spacing aliases
 export const space = {

@@ -11784,6 +11784,7 @@ function DrummerList({
   error,
   onNavigateToCompare,
   onNavigateToQuiz,
+  onNavigateToKitQuiz,
   onNavigateToSpotlights,
   onNavigateToQuotes,
   onNavigateToGearByBudget,
@@ -16369,6 +16370,26 @@ setShowList(false);
     setSelectedGear(null);
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
       window.history.pushState({}, '', '/quiz');
+    }
+  };
+
+  // Kit Quiz navigation (Issue #551) - Fix for #562, #566 (complete prop fix)
+  const handleNavigateToKitQuiz = () => {
+    setShowKitQuiz(true);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowQuotes(false);
+    setShowSpotlights(false);
+    setShowGearByBudget(false);
+    setShowList(false);
+    setListSlug(null);
+    setShowGearFinder(false);
+    setShowNewsPage(false);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/kit-quiz');
     }
   };
 

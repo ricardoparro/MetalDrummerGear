@@ -11367,6 +11367,7 @@ function DrummerList({
   onNavigateToBirthdayCalendar,
   onNavigateToGenresList,
   onNavigateToTechniques,
+  onNavigateToDrummers,
   spotlight,
   filters,
   onFilterChange,
@@ -16170,6 +16171,54 @@ setShowList(false);
     }
   };
 
+  // Navigate to dedicated drummers page with filters (Issue #497)
+  const handleNavigateToDrummers = (genre = null) => {
+    setShowDrummersPage(true);
+    // Reset other views
+    setShowGenresList(false);
+    setShowGenrePage(false);
+    setGenreSlug(null);
+    setShowKitBuilder(false);
+    setShowGearFinder(false);
+    setShowGearByBudget(false);
+    setShowGearIndex(false);
+    setShowGearCategory(false);
+    setGearCategory(null);
+    setGearCategoryData(null);
+    setShowBandDetail(false);
+    setBandSlug(null);
+    setShowList(false);
+    setListSlug(null);
+    setShowSpotlights(false);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowPrivacy(false);
+    setShowQuotes(false);
+    setShowBioPage(false);
+    setBioSlug(null);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    setShowTechniquesIndex(false);
+    setShowTechniqueDetail(false);
+    setTechniqueSlug(null);
+    setShowNews(false);
+    setShowBpmTap(false);
+    setShowBpmRange(false);
+    setShowBirthdayCalendar(false);
+    setShowGearComparison(false);
+    setShowGearComparisonsIndex(false);
+    // Set genre filter if provided
+    if (genre) {
+      setFilters(prev => ({ ...prev, genre }));
+    }
+    // Update URL
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      const url = genre ? `/drummers?genre=${encodeURIComponent(genre)}` : '/drummers';
+      window.history.pushState({}, '', url);
+    }
+  };
+
   // Handle back from genre landing page (Issue #340)
   const handleBackFromGenre = () => {
     setShowGenrePage(false);
@@ -16585,6 +16634,30 @@ setShowList(false);
         />
       );
     }
+    // Drummers Page with filters (Issue #497)
+    if (showDrummersPage) {
+      return (
+        <DrummersPage
+          theme={theme}
+          drummers={drummers}
+          filteredDrummers={filteredDrummers}
+          onSelectDrummer={handleSelectDrummer}
+          onBack={() => {
+            setShowDrummersPage(false);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/');
+            }
+          }}
+          filters={filters}
+          onFilterChange={handleFilterChange}
+          sortBy={sortBy}
+          onSortChange={handleSortChange}
+          searchValue={searchValue}
+          onSearchChange={handleSearchChange}
+          onSearchClear={handleSearchClear}
+        />
+      );
+    }
     if (showList && listSlug) {
       return (
         <TopListPage
@@ -16866,6 +16939,7 @@ setShowList(false);
           onNavigateToBirthdayCalendar={handleNavigateToBirthdayCalendar}
           onNavigateToGenresList={handleNavigateToGenresList}
           onNavigateToTechniques={handleNavigateToTechniquesIndex}
+          onNavigateToDrummers={handleNavigateToDrummers}
           spotlight={apiSpotlight || getFeaturedDrummer(drummers)}
           filters={filters}
           onFilterChange={handleFilterChange}

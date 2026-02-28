@@ -256,6 +256,51 @@ export function HeroSectionSkeleton() {
 }
 
 /**
+ * Genre Cards Skeleton
+ * Matches the layout of BrowseByGenreSection component (Issue #495)
+ * Reserves exact space to prevent CLS
+ */
+export function GenreCardsSkeleton({ count = 8 }) {
+  const { theme } = useTheme();
+  const { width: screenWidth } = useWindowDimensions();
+  const isMobile = screenWidth < 768;
+
+  return (
+    <View style={{ marginHorizontal: 20, marginVertical: 16 }}>
+      {/* Section title placeholder */}
+      <SkeletonBase 
+        style={[styles.textLine, { width: 140, height: 20, alignSelf: 'center', marginBottom: 12 }]} 
+        shimmer={false} 
+      />
+      
+      {/* Genre cards grid */}
+      <View style={{ 
+        flexDirection: 'row', 
+        flexWrap: 'wrap', 
+        gap: isMobile ? 8 : 12, 
+        justifyContent: 'center' 
+      }}>
+        {Array.from({ length: count }).map((_, i) => (
+          <SkeletonBase
+            key={i}
+            style={{
+              width: isMobile ? '45%' : 100,
+              minWidth: 80,
+              maxWidth: 120,
+              height: 90,
+              borderRadius: 8,
+              borderWidth: 1,
+              borderColor: theme.border || '#3a3a3a',
+            }}
+            shimmer={false}
+          />
+        ))}
+      </View>
+    </View>
+  );
+}
+
+/**
  * Image Skeleton
  * Placeholder for images with specific dimensions
  */
@@ -513,6 +558,7 @@ export default {
   SearchBarSkeleton,
   FilterBarSkeleton,
   HeroSectionSkeleton,
+  GenreCardsSkeleton,
   SpotlightSkeleton,
   ImageSkeleton,
   PageLoadingSkeleton,

@@ -792,12 +792,12 @@ function BandLinksSection({ bandLinks, bandName, theme }) {
               ]}
             >
               <Text style={styles.bandLinkIcon}>🎸</Text>
-              <View style={{ flex: 1 }}>
+              <View style={styles.flex1}>
                 <Text style={[styles.bandLinkName, { color: isClickable ? theme.primary : theme.text }]}>
                   {bandData?.name || band.slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ')}
                 </Text>
                 {band.period && (
-                  <Text style={[{ fontSize: 12, color: theme.secondaryText }]}>
+                  <Text style={[styles.textSecondarySmall, { color: theme.secondaryText }]}>
                     {band.period}
                   </Text>
                 )}
@@ -4779,7 +4779,7 @@ function CompareView({ theme, onBack, drummers, onNavigateToCompare }) {
   );
 }
 
-// Drummer Spotlight Component - Featured drummer on homepage
+// Drummer Spotlight Component - Curated featured drummer on homepage (Issue #494)
 function DrummerSpotlight({ drummer, theme, onSelectDrummer, onViewAllSpotlights }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
@@ -4787,12 +4787,18 @@ function DrummerSpotlight({ drummer, theme, onSelectDrummer, onViewAllSpotlights
   if (!drummer || !drummer.spotlight) return null;
 
   const { spotlight } = drummer;
+  
+  // Get feature reason from curated module (birthday, event, or weekly)
+  const isBirthday = drummer.isBirthdayFeature;
+  const featureReason = drummer.featuredReason || 'This Week';
+  const labelText = isBirthday ? '🎂 BIRTHDAY SPOTLIGHT' : '⭐ DRUMMER SPOTLIGHT';
+  const labelColor = isBirthday ? '#ec4899' : '#f59e0b'; // Pink for birthday, amber for regular
 
   return (
     <View style={[styles.spotlightContainer, { backgroundColor: theme.card, borderColor: theme.border }]}>
       <View style={styles.spotlightHeader}>
-        <Text style={[styles.spotlightLabel, { color: '#f59e0b' }]}>⭐ DRUMMER SPOTLIGHT</Text>
-        <Text style={[styles.spotlightWeek, { color: theme.secondaryText }]}>This Week</Text>
+        <Text style={[styles.spotlightLabel, { color: labelColor }]}>{labelText}</Text>
+        <Text style={[styles.spotlightWeek, { color: theme.secondaryText }]}>{featureReason}</Text>
       </View>
       
       <View style={[styles.spotlightContent, isMobile && styles.spotlightContentMobile]}>
@@ -11124,34 +11130,29 @@ function DrummerList({
     </>
   );
 
-  // Empty list message
+  // Empty list message (should rarely show on homepage since we show featured drummers)
   const ListEmpty = () => (
     <View style={styles.noResultsContainer}>
       <Text style={[styles.noResultsText, { color: theme.secondaryText }]}>
-        No drummers found matching your criteria
+        No drummers available
       </Text>
-      <TouchableOpacity onPress={handleClearAllFilters} style={[styles.clearFiltersButtonLarge, { borderColor: theme.text }]}>
-        <Text style={[styles.clearFiltersButtonText, { color: theme.text }]}>Clear All Filters</Text>
-      </TouchableOpacity>
     </View>
   );
 
-  // Footer with Last Updated timestamp (Issue #449) and View All Drummers button (Issue #496)
+  // Footer with "View All Drummers" button (Issue #497) and Last Updated timestamp (Issue #449)
   const ListFooter = () => (
     <View>
-      {/* View All Drummers button - shown when displaying featured only (Issue #496) */}
-      {!showAllDrummers && !searchValue && !filters.genre && !filters.brand && (
-        <TouchableOpacity
-          onPress={onShowAllDrummers}
-          style={[styles.viewAllDrummersButton, { backgroundColor: theme.primary, borderColor: theme.primary }]}
-          accessibilityRole="button"
-          accessibilityLabel={`View all ${drummers.length} drummers`}
-        >
-          <Text style={[styles.viewAllDrummersText, { color: theme.text }]}>
-            View All {drummers.length} Drummers →
-          </Text>
-        </TouchableOpacity>
-      )}
+      {/* View All Drummers button - navigates to /drummers page (Issue #497) */}
+      <TouchableOpacity
+        onPress={() => onNavigateToDrummers()}
+        style={[styles.viewAllDrummersButton, { backgroundColor: theme.primary, borderColor: theme.primary }]}
+        accessibilityRole="link"
+        accessibilityLabel={`View all ${drummers.length} drummers`}
+      >
+        <Text style={[styles.viewAllDrummersText, { color: theme.text }]}>
+          View All {drummers.length} Drummers →
+        </Text>
+      </TouchableOpacity>
       <View style={[styles.lastUpdatedContainer, { borderTopColor: theme.border }]}>
         {Platform.OS === 'web' ? (
           <time dateTime="2026-02-17" style={{ color: theme.secondaryText, fontSize: 12 }}>
@@ -14203,6 +14204,9 @@ function AppContent() {
 
   // News Page state (Issue #514)
   const [showNewsPage, setShowNewsPage] = useState(() => isNewsPage());
+
+  // Drummers Page state - full list with filters (Issue #497)
+  const [showDrummersPage, setShowDrummersPage] = useState(() => isDrummersPage());
 
   // Drumming Techniques Page state (Issue #344)
   const [showTechniqueDetail, setShowTechniqueDetail] = useState(() => isTechniqueDetailPage());

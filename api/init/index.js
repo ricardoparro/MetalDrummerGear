@@ -2,8 +2,10 @@
 // Reduces HTTP requests by bundling drummers list in a single response
 // This eliminates 1 HTTP request on initial page load
 // Issue #536: Now includes spotlight drummer for LCP optimization
+// Issue #511: Now includes news preview
 
 import { drummers } from '../drummers/index.js';
+import { getNewsCache } from '../../packages/backend/src/data/news.js';
 
 // Get current week number for spotlight rotation
 function getWeekNumber() {
@@ -45,12 +47,18 @@ export default function handler(req, res) {
     spotlight: currentSpotlight.spotlight
   } : null;
 
+  // Get news preview (Phase 3 - #511)
+  const newsCache = getNewsCache();
+  const newsPreview = newsCache.items.slice(0, 5);
+
   // Combined response with version for cache busting if needed
   res.status(200).json({
     drummers: drummersList,
     currentSpotlight: spotlightData,
     spotlightWeek: getWeekNumber(),
-    version: '1.1',
+    newsPreview: newsPreview,
+    newsLastFetch: newsCache.lastFetch,
+    version: '1.2',
     timestamp: Date.now()
   });
 }

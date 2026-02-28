@@ -1,6 +1,7 @@
 // Vercel Serverless Function - Get drummer by ID
 
 import { getQuotesForDrummer } from '../quotes-data.js';
+import { getNewsForDrummer } from '../../packages/backend/src/data/news.js';
 
 const drummers = [
   {
@@ -2199,8 +2200,12 @@ export default function handler(req, res) {
   // Add quotes for this drummer
   const quotes = getQuotesForDrummer(drummer.id);
   
+  // Add news for this drummer (Phase 3 - #511)
+  const drummerNews = getNewsForDrummer(drummer.name).slice(0, 5);
+  
   res.status(200).json({
     ...drummer,
-    quotes: quotes.length > 0 ? quotes : null
+    quotes: quotes.length > 0 ? quotes : null,
+    news: drummerNews.length > 0 ? drummerNews : null,
   });
 }

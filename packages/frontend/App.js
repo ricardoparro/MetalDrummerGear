@@ -10684,6 +10684,226 @@ function HeroSection({
   );
 }
 
+// DrummersPage - Dedicated page for browsing all drummers with filters (Issue #497)
+function DrummersPage({
+  theme,
+  drummers,
+  filteredDrummers,
+  onSelectDrummer,
+  onBack,
+  filters,
+  onFilterChange,
+  sortBy,
+  onSortChange,
+  searchValue,
+  onSearchChange,
+  onSearchClear,
+}) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+
+  // Update SEO meta tags for /drummers page
+  useEffect(() => {
+    if (Platform.OS === 'web' && typeof document !== 'undefined') {
+      const hasFilters = filters.genre || filters.brand || filters.search;
+      let title = 'All Metal Drummers';
+      let description = `Browse all ${drummers.length} legendary metal drummers. Filter by genre, brand, and search by name or band.`;
+      
+      if (hasFilters) {
+        const filterParts = [];
+        if (filters.genre) {
+          const genreLabel = FILTER_OPTIONS.genres.find(g => g.value === filters.genre)?.label || filters.genre;
+          filterParts.push(genreLabel);
+        }
+        if (filters.brand) {
+          const brandLabel = FILTER_OPTIONS.brands.find(b => b.value === filters.brand)?.label || filters.brand;
+          filterParts.push(`${brandLabel} users`);
+        }
+        if (filters.search) {
+          filterParts.push(`"${filters.search}"`);
+        }
+        title = `${filterParts.join(' • ')} Drummers`;
+        description = `${filteredDrummers.length} metal drummers ${filterParts.length ? 'matching: ' + filterParts.join(', ') : ''}. Find your next drumming inspiration.`;
+      }
+      
+      document.title = `${title} | MetalForge`;
+      
+      const setMeta = (name, content, isProperty = false) => {
+        const attr = isProperty ? 'property' : 'name';
+        let meta = document.querySelector(`meta[${attr}="${name}"]`);
+        if (!meta) {
+          meta = document.createElement('meta');
+          meta.setAttribute(attr, name);
+          document.head.appendChild(meta);
+        }
+        meta.setAttribute('content', content);
+      };
+      
+      setMeta('description', description);
+      setMeta('og:title', `${title} | MetalForge`, true);
+      setMeta('og:description', description, true);
+      setMeta('og:url', window.location.href, true);
+    }
+  }, [drummers.length, filteredDrummers.length, filters]);
+
+  const handleClearAllFilters = () => {
+    onFilterChange({ search: '', genre: '', brand: '', era: '' });
+    onSearchClear();
+    // Update URL to /drummers (no query params)
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/drummers');
+    }
+  };
+
+  const hasActiveFilters = filters.genre || filters.brand || searchValue;
+
+  return (
+    <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+      <View style={styles.detailContent}>
+        {/* Back to Home */}
+        <TouchableOpacity
+          onPress={onBack}
+          style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          accessibilityRole="button"
+          accessibilityLabel="Go back to home"
+        >
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Home</Text>
+        </TouchableOpacity>
+
+        {/* Page Header */}
+        <View style={{ marginBottom: 24 }}>
+          <Text style={[styles.quotesPageTitle, { color: theme.text }]} accessibilityRole="header">
+            🥁 All Drummers
+          </Text>
+          <Text style={[styles.quotesPageSubtitle, { color: theme.secondaryText }]}>
+            Browse {drummers.length} legendary metal drummers. Filter by genre, brand, or search for your favorites.
+          </Text>
+        </View>
+
+        {/* Search Input */}
+        <View style={[styles.searchContainer, { marginBottom: 16 }]}>
+          <View style={[styles.searchInputWrapper, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.searchIcon, { color: theme.secondaryText }]}>🔍</Text>
+            <TextInput
+              style={[styles.searchInput, { color: theme.text }]}
+              placeholder="Search drummers, bands..."
+              placeholderTextColor={theme.secondaryText}
+              value={searchValue}
+              onChangeText={onSearchChange}
+              inputMode="text"
+              autoCapitalize="none"
+              autoCorrect={false}
+            />
+            {searchValue ? (
+              <TouchableOpacity onPress={onSearchClear} style={styles.searchClearButton}>
+                <Text style={[styles.searchClearText, { color: theme.secondaryText }]}>✕</Text>
+              </TouchableOpacity>
+            ) : null}
+          </View>
+        </View>
+
+        {/* Filter Bar */}
+        <FilterBar
+          filters={filters}
+          onFilterChange={(newFilters) => {
+            onFilterChange(newFilters);
+            // Update URL with new filters
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              const params = new URLSearchParams();
+              if (newFilters.genre) params.set('genre', newFilters.genre);
+              if (newFilters.brand) params.set('brand', newFilters.brand);
+              if (newFilters.search) params.set('search', newFilters.search);
+              if (newFilters.sort) params.set('sort', newFilters.sort);
+              const queryString = params.toString();
+              window.history.replaceState({}, '', queryString ? `/drummers?${queryString}` : '/drummers');
+            }
+          }}
+          totalCount={drummers.length}
+          filteredCount={filteredDrummers.length}
+          onClearAll={handleClearAllFilters}
+          theme={theme}
+          sortBy={sortBy}
+          onSortChange={onSortChange}
+        />
+
+        {/* Results count */}
+        <View style={{ marginVertical: 16 }}>
+          <Text style={[styles.filterResultCount, { color: theme.secondaryText }]}>
+            {filteredDrummers.length === drummers.length 
+              ? `Showing ${drummers.length} drummers` 
+              : `Showing ${filteredDrummers.length} of ${drummers.length} drummers`}
+            {hasActiveFilters && (
+              <Text style={{ color: theme.error }}> • </Text>
+            )}
+          </Text>
+        </View>
+
+        {/* Drummer Grid */}
+        {filteredDrummers.length > 0 ? (
+          <View style={[styles.gearFinderResultsGrid, isMobile && styles.gearFinderResultsGridMobile]}>
+            {filteredDrummers.map((drummer) => (
+              <TouchableOpacity
+                key={drummer.id}
+                onPress={() => onSelectDrummer(drummer.id)}
+                style={[
+                  styles.card,
+                  isMobile ? { width: '100%' } : { width: '48%' },
+                  { backgroundColor: theme.card, borderColor: theme.border }
+                ]}
+                accessibilityRole="button"
+                accessibilityLabel={`View ${drummer.name}'s profile`}
+              >
+                <View style={styles.cardContent}>
+                  <ImageWithFallback
+                    source={{ uri: drummer.thumbnailUrl || drummer.image }}
+                    style={styles.cardImage}
+                    accessibilityLabel={`Photo of ${drummer.name}`}
+                    width={60}
+                    height={60}
+                    imageContext="thumbnail"
+                  />
+                  <View style={styles.cardText}>
+                    <Text style={[styles.drummerName, { color: theme.text }]}>{drummer.name}</Text>
+                    <Text style={[styles.drummerBand, { color: theme.secondaryText }]}>{drummer.band}</Text>
+                    {drummer.genre && (
+                      <Text style={[styles.drummerGenre, { color: theme.accent }]}>{drummer.genre}</Text>
+                    )}
+                  </View>
+                </View>
+              </TouchableOpacity>
+            ))}
+          </View>
+        ) : (
+          <View style={styles.noResultsContainer}>
+            <Text style={[styles.noResultsText, { color: theme.secondaryText }]}>
+              No drummers found matching your criteria
+            </Text>
+            <TouchableOpacity 
+              onPress={handleClearAllFilters} 
+              style={[styles.clearFiltersButtonLarge, { borderColor: theme.text }]}
+            >
+              <Text style={[styles.clearFiltersButtonText, { color: theme.text }]}>Clear All Filters</Text>
+            </TouchableOpacity>
+          </View>
+        )}
+
+        {/* SEO Content */}
+        <View style={[styles.gearFinderSeoContent, { borderTopColor: theme.border }]}>
+          <Text style={[styles.gearFinderSeoTitle, { color: theme.text }]}>
+            Discover Metal Drumming Legends
+          </Text>
+          <Text style={[styles.gearFinderSeoText, { color: theme.secondaryText }]}>
+            MetalForge is your definitive resource for metal drummer gear, setups, and inspiration. 
+            Browse our comprehensive database of {drummers.length} legendary drummers from thrash, death metal, 
+            black metal, progressive, and more. Each profile includes detailed gear information, 
+            signature setups, and video performances.
+          </Text>
+        </View>
+      </View>
+    </ScrollView>
+  );
+}
+
 function DrummerList({
   theme,
   onSelectDrummer,
@@ -10965,6 +11185,18 @@ function DrummerList({
       contentContainerStyle={styles.listContainer}
     />
   );
+}
+
+
+// ==========================================
+// DRUMMERS PAGE ROUTING (Issue #497)
+// ==========================================
+
+// Check if we are on the /drummers page (full list with filters)
+function isDrummersPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  const pathname = window.location.pathname;
+  return pathname === '/drummers' || pathname.startsWith('/drummers?');
 }
 
 // Check if we're on the drummer compare page based on URL (requires query params like ?d1=1&d2=2)
@@ -21215,5 +21447,216 @@ const styles = StyleSheet.create({
   newsCardArrow: {
     fontSize: 16,
     marginLeft: 8,
+  },
+  
+  // ==========================================
+  // REUSABLE UTILITY STYLES (Issue #521)
+  // Common patterns extracted from inline styles
+  // ==========================================
+  
+  // Flex Row Patterns
+  flexRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+  },
+  flexRowBetween: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+  },
+  flexRowWrap: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+  },
+  flexCenter: {
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  flex1: {
+    flex: 1,
+  },
+  
+  // Text Styles using typography tokens
+  textPageTitle: {
+    ...textStyles.pageTitle,
+  },
+  textSectionTitle: {
+    ...textStyles.sectionTitle,
+  },
+  textCardTitle: {
+    ...textStyles.cardTitle,
+  },
+  textBody: {
+    ...textStyles.body,
+  },
+  textSecondary: {
+    ...textStyles.secondary,
+  },
+  textCaption: {
+    ...textStyles.caption,
+  },
+  textLabel: {
+    ...textStyles.label,
+  },
+  textBold: {
+    fontWeight: fontWeight.bold,
+  },
+  textSemibold: {
+    fontWeight: fontWeight.semibold,
+  },
+  textCenter: {
+    textAlign: 'center',
+  },
+  textItalic: {
+    fontStyle: 'italic',
+  },
+  textUppercase: {
+    textTransform: 'uppercase',
+    letterSpacing: 1,
+  },
+  
+  // Spacing Utility Classes
+  mb1: { marginBottom: spacing[1] },
+  mb2: { marginBottom: spacing[2] },
+  mb3: { marginBottom: spacing[3] },
+  mb4: { marginBottom: spacing[4] },
+  mb5: { marginBottom: spacing[5] },
+  mb6: { marginBottom: spacing[6] },
+  mb8: { marginBottom: spacing[8] },
+  mt1: { marginTop: spacing[1] },
+  mt2: { marginTop: spacing[2] },
+  mt3: { marginTop: spacing[3] },
+  mt4: { marginTop: spacing[4] },
+  mt5: { marginTop: spacing[5] },
+  mt6: { marginTop: spacing[6] },
+  mt8: { marginTop: spacing[8] },
+  mr2: { marginRight: spacing[2] },
+  mr3: { marginRight: spacing[3] },
+  mr4: { marginRight: spacing[4] },
+  ml2: { marginLeft: spacing[2] },
+  p4: { padding: spacing[4] },
+  p5: { padding: spacing[5] },
+  px4: { paddingHorizontal: spacing[4] },
+  px5: { paddingHorizontal: spacing[5] },
+  py3: { paddingVertical: spacing[3] },
+  py4: { paddingVertical: spacing[4] },
+  gap2: { gap: spacing[2] },
+  gap3: { gap: spacing[3] },
+  gap4: { gap: spacing[4] },
+  
+  // Height spacers
+  spacerSm: { height: spacing[5] },
+  spacerMd: { height: spacing[8] },
+  spacerLg: { height: spacing[10] },
+  
+  // Loading State
+  loadingContainer: {
+    alignItems: 'center',
+    padding: spacing[10],
+  },
+  loadingEmoji: {
+    fontSize: fontSize['2xl'],
+    marginBottom: spacing[3],
+  },
+  
+  // Arrow icon
+  arrowIcon: {
+    fontSize: fontSize.lg,
+  },
+  
+  // Brand filters section
+  brandFilterTag: {
+    paddingHorizontal: spacing[3],
+    paddingVertical: spacing[2],
+    borderRadius: spacing[5],
+    borderWidth: 1,
+  },
+  brandFilterTagText: {
+    fontSize: fontSize.xs,
+  },
+  
+  // Genre page styles
+  genreIcon: {
+    fontSize: fontSize.display.sm,
+  },
+  genreDrummerCard: {
+    borderRadius: spacing[3],
+    padding: spacing[4],
+    borderWidth: 1,
+  },
+  genreDrummerName: {
+    fontWeight: fontWeight.semibold,
+    fontSize: fontSize.base,
+  },
+  genreDrummerBand: {
+    fontSize: fontSize.sm,
+  },
+  genreDrummerArrow: {
+    fontSize: fontSize.lg,
+  },
+  genreRelatedTag: {
+    paddingHorizontal: spacing[4],
+    paddingVertical: spacing[3],
+    borderRadius: spacing[2],
+    borderWidth: 1,
+  },
+  genreRelatedTagText: {
+    fontWeight: fontWeight.semibold,
+  },
+  genreSeoCtaText: {
+    fontWeight: fontWeight.bold,
+    fontSize: fontSize.base,
+  },
+  
+  // CTA button
+  ctaButton: {
+    paddingVertical: spacing[4],
+    paddingHorizontal: spacing[6],
+    borderRadius: spacing[2],
+    alignItems: 'center',
+  },
+  
+  // Budget range
+  budgetRangeMaxWidth: {
+    maxWidth: 600,
+  },
+  
+  // Comparisons index page
+  comparisonsIndexSection: {
+    marginBottom: spacing[8],
+  },
+  comparisonsIndexSectionTitle: {
+    fontSize: fontSize.xl,
+    fontWeight: fontWeight.bold,
+    marginBottom: spacing[4],
+  },
+  comparisonsIndexGrid: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: spacing[4],
+  },
+  comparisonsIndexCard: {
+    borderRadius: spacing[3],
+    padding: spacing[4],
+    borderWidth: 1,
+    width: '48%',
+    maxWidth: 400,
+  },
+  comparisonsIndexCardMobile: {
+    width: '100%',
+  },
+  comparisonsIndexCardName: {
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.bold,
+  },
+  comparisonsIndexCardVs: {
+    fontSize: fontSize.base,
+  },
+  comparisonsIndexCardDesc: {
+    fontSize: fontSize.sm,
+  },
+  comparisonsIndexCardLink: {
+    fontWeight: fontWeight.semibold,
+    fontSize: fontSize.sm,
   },
 });

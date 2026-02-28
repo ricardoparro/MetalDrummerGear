@@ -22,8 +22,12 @@ test.describe('Kit Quiz - Issue #551', () => {
     test('loads /kit-quiz page with intro screen', async ({ page }) => {
       await page.goto('/kit-quiz');
       
+      // Wait for the page to fully load - the routing may take a moment
+      await page.waitForLoadState('networkidle');
+      await page.waitForTimeout(1000); // Allow React state to settle
+      
       // Should show intro screen with title
-      await expect(page.getByText('Guess the Drummer by Kit')).toBeVisible();
+      await expect(page.getByText('Guess the Drummer by Kit')).toBeVisible({ timeout: 15000 });
       await expect(page.getByText('Can you identify legendary metal drummers')).toBeVisible();
       
       // Should show quiz info

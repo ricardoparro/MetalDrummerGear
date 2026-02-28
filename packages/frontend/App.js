@@ -382,6 +382,14 @@ function getFeaturedDrummers(drummers) {
   return drummers.filter(d => d.featured);
 }
 
+// Get curated spotlight drummer for client-side fallback (Issue #494)
+function getClientSideSpotlight(drummers, birthdayData = []) {
+  if (!drummers || drummers.length === 0) return null;
+  const featured = getCuratedFeaturedDrummer(drummers, birthdayData);
+  if (!featured || !featured.drummer) return null;
+  return { ...featured.drummer, featuredReason: featured.reason, isBirthdayFeature: featured.isBirthdayFeature };
+}
+
 // Get this week's spotlight drummer (client-side computed)
 function getCurrentSpotlightDrummer(drummers) {
   const spotlightDrummers = getSpotlightDrummers(drummers);
@@ -16866,7 +16874,7 @@ setShowList(false);
           onNavigateToBirthdayCalendar={handleNavigateToBirthdayCalendar}
           onNavigateToGenresList={handleNavigateToGenresList}
           onNavigateToTechniques={handleNavigateToTechniquesIndex}
-          spotlight={apiSpotlight || getFeaturedDrummer(drummers)}
+          spotlight={apiSpotlight || getClientSideSpotlight(drummers, drummerBirthdays())}
           filters={filters}
           onFilterChange={handleFilterChange}
           sortBy={sortBy}

@@ -3328,6 +3328,115 @@ function SimilarDrummersSection({ drummer, allDrummers, theme, onSelectDrummer }
   );
 }
 
+// ==========================================
+// DRUMMER COMPARISONS CTA - Issue #558
+// Shows comparisons featuring the current drummer with link to /vs
+// ==========================================
+
+function DrummerComparisonsCTA({ drummerSlug, drummerName, allDrummers, theme }) {
+  const [isLoaded, setIsLoaded] = useState(isDrummerComparisonsLoaded());
+  
+  useEffect(() => {
+    if (!isLoaded) {
+      preloadDrummerComparisons();
+      const unsubscribe = onDrummerComparisonsLoaded(() => setIsLoaded(true));
+      return unsubscribe;
+    }
+  }, [isLoaded]);
+  
+  const comparisons = getComparisonsForDrummer(drummerSlug);
+  
+  // Don't show if no comparisons or module not loaded
+  if (!isLoaded || comparisons.length === 0) {
+    return null;
+  }
+  
+  const findDrummerBySlug = (slug) => {
+    if (!allDrummers) return null;
+    return allDrummers.find(d => toSlug(d.name) === slug);
+  };
+  
+  return (
+    <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+      <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">
+        ⚔️ Drummer Showdowns
+      </Text>
+      <Text style={{ color: theme.secondaryText, fontSize: 14, marginBottom: 16 }}>
+        See how {drummerName} compares to other metal legends
+      </Text>
+      
+      <View style={{ gap: 12 }}>
+        {comparisons.slice(0, 3).map((comparison) => {
+          const opponent = comparison.drummers.find(d => d !== drummerSlug);
+          const opponentDrummer = findDrummerBySlug(opponent);
+          
+          return (
+            <TouchableOpacity
+              key={comparison.slug}
+              style={{
+                flexDirection: 'row',
+                alignItems: 'center',
+                padding: 12,
+                backgroundColor: theme.background,
+                borderRadius: 8,
+                borderWidth: 1,
+                borderColor: theme.border,
+              }}
+              onPress={() => {
+                if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                  window.history.pushState({}, '', `/vs/${comparison.slug}`);
+                  window.dispatchEvent(new PopStateEvent('popstate'));
+                }
+              }}
+              accessibilityRole="link"
+              accessibilityLabel={`Compare ${drummerName} vs ${opponentDrummer?.name || opponent}`}
+            >
+              <View style={{ 
+                backgroundColor: theme.primary, 
+                width: 36, 
+                height: 36, 
+                borderRadius: 18, 
+                alignItems: 'center', 
+                justifyContent: 'center',
+                marginRight: 12,
+              }}>
+                <Text style={{ color: theme.text, fontWeight: 'bold', fontSize: 12 }}>VS</Text>
+              </View>
+              <View style={{ flex: 1 }}>
+                <Text style={{ color: theme.text, fontWeight: '600', fontSize: 15 }}>
+                  {drummerName} vs {opponentDrummer?.name || opponent}
+                </Text>
+                <Text style={{ color: theme.secondaryText, fontSize: 12 }}>
+                  {opponentDrummer?.band || ''}
+                </Text>
+              </View>
+              <Text style={{ color: theme.primary, fontWeight: '600', fontSize: 13 }}>Compare →</Text>
+            </TouchableOpacity>
+          );
+        })}
+      </View>
+      
+      {comparisons.length > 3 && (
+        <TouchableOpacity
+          style={{ marginTop: 16, alignItems: 'center' }}
+          onPress={() => {
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/vs');
+              window.dispatchEvent(new PopStateEvent('popstate'));
+            }
+          }}
+          accessibilityRole="link"
+          accessibilityLabel="View all drummer comparisons"
+        >
+          <Text style={{ color: theme.primary, fontWeight: '600' }}>
+            View All Comparisons ({getAllDrummerComparisons().length} total) →
+          </Text>
+        </TouchableOpacity>
+      )}
+    </View>
+  );
+}
+
 function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit, allDrummers = [], onNavigateToBio }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
@@ -3514,6 +3623,14 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
           }}
         />
       )}
+
+      {/* Drummer vs Drummer Comparisons CTA - Issue #558 */}
+      <DrummerComparisonsCTA 
+        drummerSlug={drummerSlug} 
+        drummerName={drummer.name}
+        allDrummers={allDrummers}
+        theme={theme} 
+      />
       
       {/* Last Updated Timestamp - Issue #449 */}
       <View style={[styles.lastUpdatedContainer, { borderTopColor: theme.border }]}>
@@ -9756,6 +9873,89 @@ function DrummerVsIndexPage({ theme, onBack, onSelectComparison, onSelectDrummer
   );
 }
 
+// Related Comparisons Component - Shows other comparisons featuring the same drummers
+function RelatedComparisons({ currentSlug, drummerSlugs, theme, allDrummers, onSelectComparison }) {
+  const allComparisons = getAllDrummerComparisons();
+  
+  // Find comparisons that share at least one drummer with the current comparison
+  const relatedComparisons = useMemo(() => {
+    return allComparisons.filter(c => {
+      // Exclude current comparison
+      if (c.slug === currentSlug) return false;
+      // Check if any drummer from current comparison is in this comparison
+      return drummerSlugs.some(slug => c.drummers.includes(slug));
+    }).slice(0, 3);
+  }, [allComparisons, currentSlug, drummerSlugs]);
+  
+  const findDrummerBySlug = (slug) => {
+    if (!allDrummers) return null;
+    return allDrummers.find(d => toSlug(d.name) === slug);
+  };
+  
+  if (relatedComparisons.length === 0) return null;
+  
+  return (
+    <View style={{ marginBottom: 24, backgroundColor: theme.card, borderRadius: 12, padding: 16, borderColor: theme.border, borderWidth: 1 }}>
+      <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>🔗 Related Comparisons</Text>
+      <View style={{ gap: 12 }}>
+        {relatedComparisons.map((comparison) => {
+          const drummer1 = findDrummerBySlug(comparison.drummers[0]);
+          const drummer2 = findDrummerBySlug(comparison.drummers[1]);
+          
+          return (
+            <TouchableOpacity
+              key={comparison.slug}
+              style={{
+                flexDirection: 'row',
+                alignItems: 'center',
+                padding: 12,
+                backgroundColor: theme.background,
+                borderRadius: 8,
+                borderWidth: 1,
+                borderColor: theme.border,
+              }}
+              onPress={() => onSelectComparison(comparison.slug)}
+              accessibilityRole="link"
+              accessibilityLabel={`View ${comparison.title} comparison`}
+            >
+              {/* Mini avatars */}
+              <View style={{ flexDirection: 'row', marginRight: 12 }}>
+                {drummer1?.image ? (
+                  <Image 
+                    source={{ uri: getOptimizedImageUrl(drummer1.image, { width: 40 }) }} 
+                    style={{ width: 32, height: 32, borderRadius: 16, borderWidth: 2, borderColor: theme.primary }} 
+                  />
+                ) : (
+                  <View style={{ width: 32, height: 32, borderRadius: 16, backgroundColor: theme.border, alignItems: 'center', justifyContent: 'center' }}>
+                    <Text style={{ fontSize: 12 }}>🥁</Text>
+                  </View>
+                )}
+                {drummer2?.image ? (
+                  <Image 
+                    source={{ uri: getOptimizedImageUrl(drummer2.image, { width: 40 }) }} 
+                    style={{ width: 32, height: 32, borderRadius: 16, borderWidth: 2, borderColor: '#3b82f6', marginLeft: -8 }} 
+                  />
+                ) : (
+                  <View style={{ width: 32, height: 32, borderRadius: 16, backgroundColor: theme.border, alignItems: 'center', justifyContent: 'center', marginLeft: -8 }}>
+                    <Text style={{ fontSize: 12 }}>🥁</Text>
+                  </View>
+                )}
+              </View>
+              <View style={{ flex: 1 }}>
+                <Text style={{ color: theme.text, fontWeight: '600', fontSize: 14 }}>{comparison.title}</Text>
+                <Text style={{ color: theme.secondaryText, fontSize: 12 }}>
+                  {drummer1?.band} vs {drummer2?.band}
+                </Text>
+              </View>
+              <Text style={{ color: theme.primary, fontWeight: '600', fontSize: 13 }}>→</Text>
+            </TouchableOpacity>
+          );
+        })}
+      </View>
+    </View>
+  );
+}
+
 // Drummer Vs Detail Page - Single comparison view
 function DrummerVsPage({ comparisonSlug, theme, onBack, onSelectDrummer, drummers }) {
   const { width } = useWindowDimensions();
@@ -9971,11 +10171,85 @@ function DrummerVsPage({ comparisonSlug, theme, onBack, onSelectDrummer, drummer
           ))}
         </View>
 
+        {/* Signature Videos */}
+        {((drummer1?.videos && drummer1.videos.length > 0) || (drummer2?.videos && drummer2.videos.length > 0)) && (
+          <View style={{ marginBottom: 24, backgroundColor: theme.card, borderRadius: 12, padding: 16, borderColor: theme.border, borderWidth: 1 }}>
+            <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>🎬 Signature Videos</Text>
+            <View style={{ flexDirection: isMobile ? 'column' : 'row', gap: 16 }}>
+              {/* Drummer 1 Video */}
+              {drummer1?.videos && drummer1.videos.length > 0 && (
+                <View style={{ flex: 1 }}>
+                  <Text style={{ color: theme.primary, fontWeight: '600', fontSize: 14, marginBottom: 8 }}>{drummer1.name}</Text>
+                  <YouTubeEmbed
+                    videoId={drummer1.videos[0].id}
+                    title={`${drummer1.name} - ${drummer1.videos[0].title}`}
+                    theme={theme}
+                  />
+                  <Text style={{ color: theme.secondaryText, fontSize: 12, marginTop: 4 }}>{drummer1.videos[0].title}</Text>
+                </View>
+              )}
+              {/* Drummer 2 Video */}
+              {drummer2?.videos && drummer2.videos.length > 0 && (
+                <View style={{ flex: 1 }}>
+                  <Text style={{ color: '#3b82f6', fontWeight: '600', fontSize: 14, marginBottom: 8 }}>{drummer2.name}</Text>
+                  <YouTubeEmbed
+                    videoId={drummer2.videos[0].id}
+                    title={`${drummer2.name} - ${drummer2.videos[0].title}`}
+                    theme={theme}
+                  />
+                  <Text style={{ color: theme.secondaryText, fontSize: 12, marginTop: 4 }}>{drummer2.videos[0].title}</Text>
+                </View>
+              )}
+            </View>
+          </View>
+        )}
+
+        {/* Career Stats */}
+        <View style={{ marginBottom: 24, backgroundColor: theme.card, borderRadius: 12, padding: 16, borderColor: theme.border, borderWidth: 1 }}>
+          <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>📊 Career Stats</Text>
+          <View style={{ borderTopWidth: 1, borderColor: theme.border }}>
+            <View style={{ flexDirection: 'row', backgroundColor: theme.background, paddingVertical: 12, paddingHorizontal: 8 }}>
+              <Text style={{ flex: 1, fontWeight: '600', color: theme.text, fontSize: 14 }}>Stat</Text>
+              <Text style={{ flex: 1, fontWeight: '600', color: theme.primary, fontSize: 14, textAlign: 'center' }}>{drummer1?.name?.split(' ')[0] || 'D1'}</Text>
+              <Text style={{ flex: 1, fontWeight: '600', color: '#3b82f6', fontSize: 14, textAlign: 'center' }}>{drummer2?.name?.split(' ')[0] || 'D2'}</Text>
+            </View>
+            <View style={{ flexDirection: 'row', paddingVertical: 12, paddingHorizontal: 8, borderTopWidth: 1, borderColor: theme.border }}>
+              <Text style={{ flex: 1, color: theme.secondaryText, fontSize: 13 }}>Primary Band</Text>
+              <Text style={{ flex: 1, color: theme.text, fontSize: 12, textAlign: 'center' }}>{drummer1?.band || '-'}</Text>
+              <Text style={{ flex: 1, color: theme.text, fontSize: 12, textAlign: 'center' }}>{drummer2?.band || '-'}</Text>
+            </View>
+            <View style={{ flexDirection: 'row', paddingVertical: 12, paddingHorizontal: 8, borderTopWidth: 1, borderColor: theme.border, backgroundColor: theme.background }}>
+              <Text style={{ flex: 1, color: theme.secondaryText, fontSize: 13 }}>Genre</Text>
+              <Text style={{ flex: 1, color: theme.text, fontSize: 12, textAlign: 'center' }}>{drummer1?.genre || '-'}</Text>
+              <Text style={{ flex: 1, color: theme.text, fontSize: 12, textAlign: 'center' }}>{drummer2?.genre || '-'}</Text>
+            </View>
+            <View style={{ flexDirection: 'row', paddingVertical: 12, paddingHorizontal: 8, borderTopWidth: 1, borderColor: theme.border }}>
+              <Text style={{ flex: 1, color: theme.secondaryText, fontSize: 13 }}>Country</Text>
+              <Text style={{ flex: 1, color: theme.text, fontSize: 12, textAlign: 'center' }}>{drummer1?.country || '-'}</Text>
+              <Text style={{ flex: 1, color: theme.text, fontSize: 12, textAlign: 'center' }}>{drummer2?.country || '-'}</Text>
+            </View>
+          </View>
+        </View>
+
         {/* Verdict */}
         <View style={{ marginBottom: 24, backgroundColor: theme.primary, borderRadius: 12, padding: 20 }}>
           <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>🏆 The Verdict</Text>
           <Text style={{ color: theme.text, fontSize: 15, lineHeight: 24, opacity: 0.9 }}>{comparison.verdict}</Text>
         </View>
+
+        {/* Related Comparisons */}
+        <RelatedComparisons 
+          currentSlug={comparisonSlug} 
+          drummerSlugs={comparison.drummers}
+          theme={theme} 
+          allDrummers={drummers}
+          onSelectComparison={(slug) => {
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', `/vs/${slug}`);
+              window.dispatchEvent(new PopStateEvent('popstate'));
+            }
+          }}
+        />
 
         {/* Browse More */}
         <View style={{ backgroundColor: theme.card, borderRadius: 12, padding: 16, borderColor: theme.border, borderWidth: 1, alignItems: 'center' }}>
@@ -14849,8 +15123,8 @@ function AppContent() {
   const [showTechniquesIndex, setShowTechniquesIndex] = useState(() => isTechniquesIndexPage());
 
   // Drummer vs Drummer Page state (Issue #558)
-  const [showDrummerVsIndex, setShowDrummerVsIndex] = useState(() => isDrummerVsIndexPage());
-  const [showDrummerVsDetail, setShowDrummerVsDetail] = useState(() => isDrummerVsDetailPage());
+  const [showDrummerVsIndex, setShowDrummerVsIndex] = useState(() => isDrummerComparisonsIndexPage());
+  const [showDrummerVsDetail, setShowDrummerVsDetail] = useState(() => isDrummerComparisonPage());
   const [drummerVsSlug, setDrummerVsSlug] = useState(() => getDrummerComparisonSlugFromURL());
 
   // Gear Category Page state (Issue #339)
@@ -15681,7 +15955,7 @@ function AppContent() {
         setSelectedGear(null);
         // Update meta tags
         updateTechniqueMeta(null);
-      } else if (isDrummerVsDetailPage()) {
+      } else if (isDrummerComparisonPage()) {
         // Drummer vs detail page (Issue #558)
         preloadDrummerComparisons();
         const slug = getDrummerComparisonSlugFromURL();
@@ -15714,7 +15988,7 @@ function AppContent() {
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
-      } else if (isDrummerVsIndexPage()) {
+      } else if (isDrummerComparisonsIndexPage()) {
         // Drummer vs index page (Issue #558)
         preloadDrummerComparisons();
         setShowDrummerVsIndex(true);

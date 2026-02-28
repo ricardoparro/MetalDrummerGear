@@ -210,6 +210,57 @@ export const drummerComparisons = {
     },
     verdict: 'Ray Luzier honors and evolves Korn\'s signature sound. Abe Cunningham pioneered atmospheric metal drumming. Both define alternative metal\'s evolution.',
   },
+
+  // Issue #598: Lars Ulrich vs Joey Jordison - Metal Icons Showdown
+  'lars-ulrich-vs-joey-jordison': {
+    slug: 'lars-ulrich-vs-joey-jordison',
+    title: 'Lars Ulrich vs Joey Jordison',
+    metaTitle: 'Lars Ulrich vs Joey Jordison - Metallica vs Slipknot Drummers | MetalForge',
+    metaDescription: 'Compare Metallica\'s Lars Ulrich and Slipknot\'s Joey Jordison. Thrash metal pioneer vs nu-metal icon. Gear, technique, speed, and legacy compared.',
+    category: 'thrash',
+    drummers: ['lars-ulrich', 'joey-jordison'],
+    comparison: {
+      style: 'Lars defined accessible thrash with groove-oriented power. Joey brought extreme metal intensity to mainstream nu-metal with blast beats and speed.',
+      technique: 'Lars favors mid-tempo stomps with powerful fills and iconic ride patterns. Joey combined death metal speed with theatrical showmanship on a rotating drum kit.',
+      gear: 'Lars plays Tama Starclassic with Zildjian cymbals and Ahead sticks. Joey endorsed Pearl drums with Paiste cymbals for aggressive attack.',
+      influence: 'Lars shaped how millions perceive metal drumming through Metallica\'s commercial success. Joey proved extreme techniques could work in mainstream metal.',
+    },
+    verdict: 'Lars Ulrich co-founded the biggest metal band in history and became the voice of the metal drummer. Joey Jordison revolutionized what a masked metal drummer could achieve. Both transcended their eras to become immortal icons of heavy music.',
+  },
+
+  // Issue #598: Danny Carey vs Mario Duplantier - Progressive Titans
+  'danny-carey-vs-mario-duplantier': {
+    slug: 'danny-carey-vs-mario-duplantier',
+    title: 'Danny Carey vs Mario Duplantier',
+    metaTitle: 'Danny Carey vs Mario Duplantier - Tool vs Gojira Drummers | MetalForge',
+    metaDescription: 'Tool\'s Danny Carey vs Gojira\'s Mario Duplantier. Progressive metal drumming excellence compared. Polyrhythms, power, and artistic vision analyzed.',
+    category: 'progressive',
+    drummers: ['danny-carey', 'mario-duplantier'],
+    comparison: {
+      style: 'Danny creates hypnotic, spiritual progressive rock with occult undertones. Mario combines tribal rhythms with technical death metal for environmental metal.',
+      technique: 'Danny masters polyrhythmic patterns with electronic integration and Fibonacci-based compositions. Mario delivers raw tribal power with explosive accents and relentless endurance.',
+      gear: 'Danny plays Sonor drums with Paiste cymbals and custom Mandala pads. Mario endorses Tama drums with Meinl cymbals for dark, complex tones.',
+      influence: 'Danny defined Tool\'s unique sound and influenced a generation of progressive rock drummers. Mario pioneered the "environmental metal" drumming style with Gojira.',
+    },
+    verdict: 'Danny Carey is the philosopher-drummer whose mathematical approach created Tool\'s sonic universe. Mario Duplantier is the primal force whose organic power drives Gojira\'s environmental message. Both represent the pinnacle of thinking drummers.',
+  },
+
+  // Issue #598: Gene Hoglan vs George Kollias - Speed Demons
+  'gene-hoglan-vs-george-kollias': {
+    slug: 'gene-hoglan-vs-george-kollias',
+    title: 'Gene Hoglan vs George Kollias',
+    metaTitle: 'Gene Hoglan vs George Kollias - Extreme Metal Drumming Legends | MetalForge',
+    metaDescription: 'Gene "The Atomic Clock" Hoglan vs Nile\'s George Kollias. Death metal speed, precision, and technical mastery compared. Who is the ultimate extreme drummer?',
+    category: 'extreme',
+    drummers: ['gene-hoglan', 'george-kollias'],
+    comparison: {
+      style: 'Gene brings scientific precision to progressive death and thrash metal with inhuman timing. George delivers Egyptian-themed technical brutality with sustained extreme tempos.',
+      technique: 'Gene pioneered the gravity blast and is known for impossibly tight double bass and timing. George uses heel-toe technique for sustained blast beats at 280+ BPM.',
+      gear: 'Gene endorses Pearl drums for power and projection with signature sticks. George plays Pearl drums with Pearl Demon Drive pedals for ultimate speed.',
+      influence: 'Gene influenced three decades of extreme metal through Death, Dark Angel, Testament, and more. George raised the bar for technical death metal and extreme speed drumming.',
+    },
+    verdict: 'Gene Hoglan earned "The Atomic Clock" nickname through legendary precision across 40+ years. George Kollias represents the modern evolution of extreme drumming speed and technique. Together they span death metal\'s entire history.',
+  },
 };
 
 /**

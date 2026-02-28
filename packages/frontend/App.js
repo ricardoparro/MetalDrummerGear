@@ -3145,6 +3145,122 @@ function getStandoutGear(drummer) {
   return null;
 }
 
+// Drummer Compare Section Component - Issue #558
+// Shows available comparisons for this drummer with "Compare with..." links
+function DrummerCompareSection({ drummer, theme, onNavigateToComparison }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const drummerSlug = toSlug(drummer.name);
+  
+  // Start with loading state
+  const [loadState, setLoadState] = useState({ isLoading: true, comparisons: [] });
+  
+  // Load drummer comparisons module
+  useEffect(() => {
+    let mounted = true;
+    
+    preloadDrummerComparisons().then(() => {
+      if (mounted) {
+        const comps = getComparisonsForDrummer(drummerSlug);
+        setLoadState({ isLoading: false, comparisons: comps });
+      }
+    });
+    
+    return () => { mounted = false; };
+  }, [drummerSlug]);
+  
+  // Don't show section while loading or if no comparisons
+  if (loadState.isLoading || loadState.comparisons.length === 0) {
+    return null;
+  }
+  
+  const handleComparePress = (slug) => {
+    if (onNavigateToComparison) {
+      onNavigateToComparison(slug);
+    } else if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', `/compare/${slug}`);
+      window.dispatchEvent(new PopStateEvent('popstate'));
+    }
+  };
+  
+  return (
+    <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border, marginTop: 24 }]}>
+      <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">
+        ⚔️ Compare with...
+      </Text>
+      <Text style={{ color: theme.secondaryText, fontSize: 13, marginBottom: 16 }}>
+        See how {drummer.name}'s gear and style compares to other metal drummers
+      </Text>
+      
+      <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: 10 }}>
+        {loadState.comparisons.map((comparison) => {
+          // Get the other drummer's name from the comparison
+          const otherDrummerSlug = comparison.drummers.find(d => d !== drummerSlug);
+          const otherDrummerName = otherDrummerSlug 
+            ? otherDrummerSlug.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase())
+            : '';
+          
+          if (Platform.OS === 'web') {
+            return (
+              <a
+                key={comparison.slug}
+                href={`/compare/${comparison.slug}`}
+                onClick={(e) => {
+                  e.preventDefault();
+                  handleComparePress(comparison.slug);
+                }}
+                style={{ textDecoration: 'none' }}
+              >
+                <View style={{
+                  backgroundColor: theme.background,
+                  borderColor: theme.border,
+                  borderWidth: 1,
+                  borderRadius: 8,
+                  paddingHorizontal: 14,
+                  paddingVertical: 10,
+                  flexDirection: 'row',
+                  alignItems: 'center',
+                  gap: 8
+                }}>
+                  <Text style={{ color: theme.primary, fontWeight: '600', fontSize: 13 }}>VS</Text>
+                  <Text style={{ color: theme.text, fontSize: 13, fontWeight: '500' }}>
+                    {otherDrummerName}
+                  </Text>
+                  <Text style={{ color: theme.secondaryText, fontSize: 11 }}>→</Text>
+                </View>
+              </a>
+            );
+          }
+          
+          return (
+            <TouchableOpacity
+              key={comparison.slug}
+              style={{
+                backgroundColor: theme.background,
+                borderColor: theme.border,
+                borderWidth: 1,
+                borderRadius: 8,
+                paddingHorizontal: 14,
+                paddingVertical: 10,
+                flexDirection: 'row',
+                alignItems: 'center',
+                gap: 8
+              }}
+              onPress={() => handleComparePress(comparison.slug)}
+            >
+              <Text style={{ color: theme.primary, fontWeight: '600', fontSize: 13 }}>VS</Text>
+              <Text style={{ color: theme.text, fontSize: 13, fontWeight: '500' }}>
+                {otherDrummerName}
+              </Text>
+              <Text style={{ color: theme.secondaryText, fontSize: 11 }}>→</Text>
+            </TouchableOpacity>
+          );
+        })}
+      </View>
+    </View>
+  );
+}
+
 // Similar Drummers Section Component
 function SimilarDrummersSection({ drummer, allDrummers, theme, onSelectDrummer }) {
   const { width } = useWindowDimensions();
@@ -3283,7 +3399,7 @@ function SimilarDrummersSection({ drummer, allDrummers, theme, onSelectDrummer }
   );
 }
 
-function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit, allDrummers = [], onNavigateToBio }) {
+function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit, allDrummers = [], onNavigateToBio, onNavigateToComparison }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
   const drummerSlug = toSlug(drummer.name);
@@ -3469,6 +3585,13 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
           }}
         />
       )}
+
+      {/* Compare with... Section - Issue #558 */}
+      <DrummerCompareSection
+        drummer={drummer}
+        theme={theme}
+        onNavigateToComparison={onNavigateToComparison}
+      />
       
       {/* Last Updated Timestamp - Issue #449 */}
       <View style={[styles.lastUpdatedContainer, { borderTopColor: theme.border }]}>
@@ -6640,6 +6763,434 @@ function KitBuilderPage({ theme, onBack, drummers, onSelectDrummer }) {
 }
 
 // ==========================================
+// KIT QUIZ PAGE (Issue #551) - "Guess the Drummer by Kit"
+// Viral quiz feature for social sharing and engagement
+// ==========================================
+function KitQuizPage({ theme, onBack, drummers, onSelectDrummer }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  
+  // Quiz state
+  const [questions, setQuestions] = useState([]);
+  const [currentQuestion, setCurrentQuestion] = useState(0);
+  const [answers, setAnswers] = useState({});
+  const [showResult, setShowResult] = useState(false);
+  const [result, setResult] = useState(null);
+  const [selectedAnswer, setSelectedAnswer] = useState(null);
+  const [isCorrect, setIsCorrect] = useState(null);
+  const [loading, setLoading] = useState(true);
+  const [copied, setCopied] = useState(false);
+  
+  // Load quiz data on mount
+  useEffect(() => {
+    loadKitQuizData().then(module => {
+      // Shuffle questions for variety
+      const shuffled = [...module.KIT_QUIZ_QUESTIONS].sort(() => Math.random() - 0.5);
+      setQuestions(shuffled);
+      setLoading(false);
+    });
+  }, []);
+  
+  // Check URL for shared results
+  useEffect(() => {
+    const urlResult = getKitQuizResultFromURL();
+    if (urlResult && urlResult.correct !== null && urlResult.total !== null) {
+      // Show shared result
+      const percentage = Math.round((urlResult.correct / urlResult.total) * 100);
+      let title, emoji;
+      if (percentage === 100) {
+        title = 'Drum Tech Legend!';
+        emoji = '🏆';
+      } else if (percentage >= 80) {
+        title = 'Gear Expert';
+        emoji = '🥇';
+      } else if (percentage >= 60) {
+        title = 'Kit Connoisseur';
+        emoji = '🥈';
+      } else if (percentage >= 40) {
+        title = 'Aspiring Drummer';
+        emoji = '🥉';
+      } else if (percentage >= 20) {
+        title = 'Drum Newbie';
+        emoji = '🥁';
+      } else {
+        title = 'Keep Practicing!';
+        emoji = '😅';
+      }
+      setResult({
+        correct: urlResult.correct,
+        total: urlResult.total,
+        percentage,
+        title,
+        emoji,
+        score: urlResult.score || urlResult.correct * 10,
+      });
+      setShowResult(true);
+    }
+  }, []);
+  
+  // Handle answer selection
+  const handleAnswer = (answerId) => {
+    if (selectedAnswer !== null) return; // Already answered
+    
+    const question = questions[currentQuestion];
+    const correct = answerId === question.correctDrummerId;
+    
+    setSelectedAnswer(answerId);
+    setIsCorrect(correct);
+    setAnswers(prev => ({ ...prev, [currentQuestion]: answerId }));
+    
+    // Auto-advance after delay
+    setTimeout(() => {
+      if (currentQuestion < questions.length - 1) {
+        setCurrentQuestion(prev => prev + 1);
+        setSelectedAnswer(null);
+        setIsCorrect(null);
+      } else {
+        // Quiz complete
+        const finalAnswers = { ...answers, [currentQuestion]: answerId };
+        calculateResult(finalAnswers);
+      }
+    }, 1500);
+  };
+  
+  // Calculate quiz result
+  const calculateResult = (finalAnswers) => {
+    let correct = 0;
+    const total = questions.length;
+    
+    questions.forEach((question, index) => {
+      if (finalAnswers[index] === question.correctDrummerId) {
+        correct++;
+      }
+    });
+    
+    const percentage = Math.round((correct / total) * 100);
+    
+    let title, emoji;
+    if (percentage === 100) {
+      title = 'Drum Tech Legend!';
+      emoji = '🏆';
+    } else if (percentage >= 80) {
+      title = 'Gear Expert';
+      emoji = '🥇';
+    } else if (percentage >= 60) {
+      title = 'Kit Connoisseur';
+      emoji = '🥈';
+    } else if (percentage >= 40) {
+      title = 'Aspiring Drummer';
+      emoji = '🥉';
+    } else if (percentage >= 20) {
+      title = 'Drum Newbie';
+      emoji = '🥁';
+    } else {
+      title = 'Keep Practicing!';
+      emoji = '😅';
+    }
+    
+    const quizResult = {
+      correct,
+      total,
+      percentage,
+      title,
+      emoji,
+      score: correct * 10,
+    };
+    
+    setResult(quizResult);
+    setShowResult(true);
+    
+    // Track and update URL
+    trackKitQuizCompletion(quizResult);
+    updateKitQuizResultURL(quizResult);
+    updateKitQuizMeta(quizResult);
+  };
+  
+  // Restart quiz
+  const handleRestart = () => {
+    // Re-shuffle questions
+    const shuffled = [...questions].sort(() => Math.random() - 0.5);
+    setQuestions(shuffled);
+    setCurrentQuestion(0);
+    setAnswers({});
+    setShowResult(false);
+    setResult(null);
+    setSelectedAnswer(null);
+    setIsCorrect(null);
+    trackKitQuizStart();
+    
+    // Reset URL
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.replaceState({}, '', '/kit-quiz');
+    }
+    updateKitQuizMeta(null);
+  };
+  
+  // Share on Twitter
+  const handleShareTwitter = () => {
+    if (!result) return;
+    const text = encodeURIComponent(`${result.emoji} I scored ${result.correct}/${result.total} (${result.percentage}%) on the Metal Drummer Kit Quiz! Can you beat me? 🤘`);
+    const url = encodeURIComponent(`https://metalforge.io/kit-quiz?correct=${result.correct}&total=${result.total}&score=${result.score}`);
+    const twitterUrl = `https://twitter.com/intent/tweet?text=${text}&url=${url}`;
+    
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.open(twitterUrl, '_blank', 'width=600,height=400');
+      trackKitQuizShare('twitter', result);
+    }
+  };
+  
+  // Share on Facebook
+  const handleShareFacebook = () => {
+    if (!result) return;
+    const url = encodeURIComponent(`https://metalforge.io/kit-quiz?correct=${result.correct}&total=${result.total}&score=${result.score}`);
+    const facebookUrl = `https://www.facebook.com/sharer/sharer.php?u=${url}`;
+    
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.open(facebookUrl, '_blank', 'width=600,height=400');
+      trackKitQuizShare('facebook', result);
+    }
+  };
+  
+  // Copy share link
+  const handleCopyLink = async () => {
+    if (!result) return;
+    const shareUrl = `https://metalforge.io/kit-quiz?correct=${result.correct}&total=${result.total}&score=${result.score}`;
+    
+    if (Platform.OS === 'web' && typeof navigator !== 'undefined' && navigator.clipboard) {
+      try {
+        await navigator.clipboard.writeText(shareUrl);
+        setCopied(true);
+        setTimeout(() => setCopied(false), 2000);
+        trackKitQuizShare('copy', result);
+      } catch (err) {
+        console.error('Failed to copy:', err);
+      }
+    }
+  };
+  
+  // Loading state
+  if (loading) {
+    return (
+      <ScrollView style={[styles.kitQuizContainer, { backgroundColor: theme.background }]}>
+        <View style={styles.kitQuizHeader}>
+          <TouchableOpacity onPress={onBack} style={styles.backButton}>
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+          </TouchableOpacity>
+        </View>
+        <View style={styles.kitQuizLoading}>
+          <ActivityIndicator size="large" color={theme.primary} />
+          <Text style={[styles.kitQuizLoadingText, { color: theme.secondaryText }]}>Loading quiz...</Text>
+        </View>
+      </ScrollView>
+    );
+  }
+  
+  // Result screen
+  if (showResult && result) {
+    return (
+      <ScrollView style={[styles.kitQuizContainer, { backgroundColor: theme.background }]}>
+        <View style={styles.kitQuizHeader}>
+          <TouchableOpacity onPress={onBack} style={styles.backButton}>
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+          </TouchableOpacity>
+        </View>
+        
+        <View style={[styles.kitQuizResultCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={styles.kitQuizResultEmoji}>{result.emoji}</Text>
+          <Text style={[styles.kitQuizResultTitle, { color: theme.text }]}>{result.title}</Text>
+          <Text style={[styles.kitQuizResultScore, { color: theme.primary }]}>
+            {result.correct}/{result.total}
+          </Text>
+          <Text style={[styles.kitQuizResultPercent, { color: theme.secondaryText }]}>
+            {result.percentage}% Correct
+          </Text>
+          
+          {/* Score breakdown */}
+          <View style={[styles.kitQuizScoreBreakdown, { borderTopColor: theme.border }]}>
+            <View style={styles.kitQuizScoreRow}>
+              <Text style={[styles.kitQuizScoreLabel, { color: theme.secondaryText }]}>Correct Answers</Text>
+              <Text style={[styles.kitQuizScoreValue, { color: theme.text }]}>{result.correct}</Text>
+            </View>
+            <View style={styles.kitQuizScoreRow}>
+              <Text style={[styles.kitQuizScoreLabel, { color: theme.secondaryText }]}>Total Questions</Text>
+              <Text style={[styles.kitQuizScoreValue, { color: theme.text }]}>{result.total}</Text>
+            </View>
+            <View style={styles.kitQuizScoreRow}>
+              <Text style={[styles.kitQuizScoreLabel, { color: theme.secondaryText }]}>Final Score</Text>
+              <Text style={[styles.kitQuizScoreValue, { color: theme.primary }]}>{result.score} pts</Text>
+            </View>
+          </View>
+          
+          {/* Share buttons */}
+          <View style={styles.kitQuizShareSection}>
+            <Text style={[styles.kitQuizShareTitle, { color: theme.text }]}>Share Your Score 🤘</Text>
+            <View style={[styles.kitQuizShareButtons, isMobile && styles.kitQuizShareButtonsMobile]}>
+              <TouchableOpacity
+                style={[styles.kitQuizShareButton, { backgroundColor: '#1DA1F2' }]}
+                onPress={handleShareTwitter}
+              >
+                <Text style={styles.kitQuizShareButtonText}>🐦 Twitter</Text>
+              </TouchableOpacity>
+              <TouchableOpacity
+                style={[styles.kitQuizShareButton, { backgroundColor: '#4267B2' }]}
+                onPress={handleShareFacebook}
+              >
+                <Text style={styles.kitQuizShareButtonText}>📘 Facebook</Text>
+              </TouchableOpacity>
+              <TouchableOpacity
+                style={[styles.kitQuizShareButton, { backgroundColor: theme.primary }]}
+                onPress={handleCopyLink}
+              >
+                <Text style={styles.kitQuizShareButtonText}>{copied ? '✓ Copied!' : '🔗 Copy Link'}</Text>
+              </TouchableOpacity>
+            </View>
+          </View>
+          
+          {/* Action buttons */}
+          <View style={styles.kitQuizActionButtons}>
+            <TouchableOpacity
+              style={[styles.kitQuizRetryButton, { backgroundColor: '#dc2626' }]}
+              onPress={handleRestart}
+            >
+              <Text style={styles.kitQuizRetryText}>🔄 Play Again</Text>
+            </TouchableOpacity>
+            <TouchableOpacity
+              style={[styles.kitQuizHomeButton, { borderColor: theme.border }]}
+              onPress={onBack}
+            >
+              <Text style={[styles.kitQuizHomeText, { color: theme.text }]}>🏠 Home</Text>
+            </TouchableOpacity>
+          </View>
+        </View>
+      </ScrollView>
+    );
+  }
+  
+  // Quiz question screen
+  const question = questions[currentQuestion];
+  if (!question) return null;
+  
+  return (
+    <ScrollView style={[styles.kitQuizContainer, { backgroundColor: theme.background }]}>
+      <View style={styles.kitQuizHeader}>
+        <TouchableOpacity onPress={onBack} style={styles.backButton}>
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+        </TouchableOpacity>
+        <Text style={[styles.kitQuizProgress, { color: theme.secondaryText }]}>
+          Question {currentQuestion + 1} of {questions.length}
+        </Text>
+      </View>
+      
+      {/* Progress bar */}
+      <View style={[styles.kitQuizProgressBar, { backgroundColor: theme.border }]}>
+        <View
+          style={[
+            styles.kitQuizProgressFill,
+            { width: `${((currentQuestion + 1) / questions.length) * 100}%`, backgroundColor: theme.primary }
+          ]}
+        />
+      </View>
+      
+      {/* Question card */}
+      <View style={[styles.kitQuizQuestionCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
+        <Text style={[styles.kitQuizQuestionTitle, { color: theme.text }]}>
+          🎯 Guess the Drummer!
+        </Text>
+        
+        {/* Difficulty badge */}
+        <View style={[
+          styles.kitQuizDifficultyBadge,
+          { backgroundColor: question.difficulty === 'easy' ? '#22c55e' : question.difficulty === 'medium' ? '#f59e0b' : '#ef4444' }
+        ]}>
+          <Text style={styles.kitQuizDifficultyText}>
+            {question.difficulty.charAt(0).toUpperCase() + question.difficulty.slice(1)}
+          </Text>
+        </View>
+        
+        {/* Hint */}
+        <Text style={[styles.kitQuizHint, { color: theme.secondaryText }]}>
+          💡 {question.hint}
+        </Text>
+        
+        {/* Gear details */}
+        <View style={[styles.kitQuizGearSection, { borderColor: theme.border }]}>
+          <Text style={[styles.kitQuizGearTitle, { color: theme.text }]}>🥁 Drum Kit Setup:</Text>
+          <View style={styles.kitQuizGearItem}>
+            <Text style={[styles.kitQuizGearLabel, { color: theme.secondaryText }]}>Drums:</Text>
+            <Text style={[styles.kitQuizGearValue, { color: theme.text }]}>{question.gear.drums}</Text>
+          </View>
+          <View style={styles.kitQuizGearItem}>
+            <Text style={[styles.kitQuizGearLabel, { color: theme.secondaryText }]}>Snare:</Text>
+            <Text style={[styles.kitQuizGearValue, { color: theme.text }]}>{question.gear.snare}</Text>
+          </View>
+          <View style={styles.kitQuizGearItem}>
+            <Text style={[styles.kitQuizGearLabel, { color: theme.secondaryText }]}>Cymbals:</Text>
+            <Text style={[styles.kitQuizGearValue, { color: theme.text }]}>{question.gear.cymbals}</Text>
+          </View>
+          <View style={styles.kitQuizGearItem}>
+            <Text style={[styles.kitQuizGearLabel, { color: theme.secondaryText }]}>Hardware:</Text>
+            <Text style={[styles.kitQuizGearValue, { color: theme.text }]}>{question.gear.hardware}</Text>
+          </View>
+          <View style={styles.kitQuizGearItem}>
+            <Text style={[styles.kitQuizGearLabel, { color: theme.secondaryText }]}>Sticks:</Text>
+            <Text style={[styles.kitQuizGearValue, { color: theme.text }]}>{question.gear.sticks}</Text>
+          </View>
+        </View>
+        
+        {/* Answer options */}
+        <View style={styles.kitQuizOptions}>
+          {question.options.map((option) => {
+            const isSelected = selectedAnswer === option.id;
+            const isCorrectAnswer = option.id === question.correctDrummerId;
+            let buttonStyle = { backgroundColor: theme.card, borderColor: theme.border };
+            let textColor = theme.text;
+            
+            if (selectedAnswer !== null) {
+              if (isCorrectAnswer) {
+                buttonStyle = { backgroundColor: '#22c55e', borderColor: '#22c55e' };
+                textColor = '#fff';
+              } else if (isSelected && !isCorrectAnswer) {
+                buttonStyle = { backgroundColor: '#ef4444', borderColor: '#ef4444' };
+                textColor = '#fff';
+              }
+            }
+            
+            return (
+              <TouchableOpacity
+                key={option.id}
+                style={[styles.kitQuizOption, buttonStyle]}
+                onPress={() => handleAnswer(option.id)}
+                disabled={selectedAnswer !== null}
+              >
+                <Text style={[styles.kitQuizOptionName, { color: textColor }]}>{option.name}</Text>
+                <Text style={[styles.kitQuizOptionBand, { color: selectedAnswer !== null ? (isCorrectAnswer || isSelected ? 'rgba(255,255,255,0.8)' : theme.secondaryText) : theme.secondaryText }]}>
+                  {option.band}
+                </Text>
+                {selectedAnswer !== null && isCorrectAnswer && (
+                  <Text style={styles.kitQuizCorrectBadge}>✓</Text>
+                )}
+                {isSelected && !isCorrectAnswer && (
+                  <Text style={styles.kitQuizWrongBadge}>✗</Text>
+                )}
+              </TouchableOpacity>
+            );
+          })}
+        </View>
+        
+        {/* Feedback message */}
+        {selectedAnswer !== null && (
+          <View style={[styles.kitQuizFeedback, { backgroundColor: isCorrect ? '#22c55e' : '#ef4444' }]}>
+            <Text style={styles.kitQuizFeedbackText}>
+              {isCorrect ? '🎉 Correct!' : `❌ Wrong! It was ${question.options.find(o => o.id === question.correctDrummerId)?.name}`}
+            </Text>
+          </View>
+        )}
+      </View>
+    </ScrollView>
+  );
+}
+
+// ==========================================
 // BPM TAP CALCULATOR PAGE (Issue #342)
 // ==========================================
 function BpmTapPage({ theme, onBack, drummers, onSelectDrummer }) {
@@ -8929,6 +9480,547 @@ function GenresListPage({ onBack, onSelectGenre, theme }) {
 }
 
 // ==========================================
+// DRUMMER VS DRUMMER COMPARISON PAGES (Issue #558)
+// ==========================================
+
+// Drummer vs Drummer Comparison Page
+function DrummerVsPage({ comparisonSlug, theme, onBack, onSelectDrummer, drummers, onNavigateToComparison }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  
+  // Start with loading state
+  const [loadState, setLoadState] = useState({ isLoading: true, comparison: null });
+  const [drummer1, setDrummer1] = useState(null);
+  const [drummer2, setDrummer2] = useState(null);
+  const [loadingDrummers, setLoadingDrummers] = useState(true);
+  
+  // Load drummer comparisons module and fetch comparison data
+  useEffect(() => {
+    let mounted = true;
+    
+    preloadDrummerComparisons().then(() => {
+      if (mounted) {
+        const data = getDrummerComparison(comparisonSlug);
+        setLoadState({ isLoading: false, comparison: data });
+      }
+    });
+    
+    return () => { mounted = false; };
+  }, [comparisonSlug]);
+  
+  // Fetch drummer details when comparison is loaded
+  useEffect(() => {
+    if (!loadState.comparison) return;
+    
+    const fetchDrummers = async () => {
+      setLoadingDrummers(true);
+      try {
+        const [d1Id, d2Id] = loadState.comparison.drummerIds;
+        const baseUrl = typeof window !== 'undefined' && window.location.hostname !== 'localhost'
+          ? ''
+          : 'http://localhost:3001';
+        
+        const [res1, res2] = await Promise.all([
+          fetch(`${baseUrl}/api/drummers/${d1Id}`).then(r => r.ok ? r.json() : null),
+          fetch(`${baseUrl}/api/drummers/${d2Id}`).then(r => r.ok ? r.json() : null)
+        ]);
+        
+        setDrummer1(res1);
+        setDrummer2(res2);
+      } catch (err) {
+        console.error('Error fetching drummers:', err);
+      } finally {
+        setLoadingDrummers(false);
+      }
+    };
+    
+    fetchDrummers();
+  }, [loadState.comparison]);
+  
+  // Update SEO when comparison and drummers are loaded
+  useEffect(() => {
+    if (loadState.comparison && drummer1 && drummer2) {
+      updateDrummerVsMeta(loadState.comparison, drummer1, drummer2);
+    }
+  }, [loadState.comparison, drummer1, drummer2]);
+  
+  // Loading state
+  if (loadState.isLoading) {
+    return (
+      <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+        <View style={styles.detailContent}>
+          <TouchableOpacity
+            onPress={onBack}
+            style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+            accessibilityRole="button"
+            accessibilityLabel="Go back"
+          >
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+          </TouchableOpacity>
+          <View style={{ alignItems: 'center', padding: 40 }}>
+            <Text style={{ fontSize: 32, marginBottom: 12 }}>⚔️</Text>
+            <Text style={{ color: theme.secondaryText }}>Loading comparison...</Text>
+          </View>
+        </View>
+      </ScrollView>
+    );
+  }
+
+  const comparison = loadState.comparison;
+  
+  if (!comparison) {
+    return (
+      <View style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+        <View style={styles.detailContent}>
+          <TouchableOpacity
+            onPress={onBack}
+            style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          >
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+          </TouchableOpacity>
+          <Text style={{ color: theme.text, fontSize: 18, textAlign: 'center', marginTop: 40 }}>
+            Comparison not found
+          </Text>
+        </View>
+      </View>
+    );
+  }
+
+  const stats1 = comparison.careerStats[comparison.drummers[0]];
+  const stats2 = comparison.careerStats[comparison.drummers[1]];
+  
+  // Get comparisons for related drummers
+  const relatedComparisons = comparison.relatedComparisons || [];
+
+  return (
+    <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+      <View style={styles.detailContent}>
+        <TouchableOpacity
+          onPress={onBack}
+          style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          accessibilityRole="button"
+          accessibilityLabel="Go back"
+        >
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+        </TouchableOpacity>
+
+        {/* Header */}
+        <View style={{ alignItems: 'center', marginBottom: 24 }}>
+          <Text style={{ fontSize: 14, color: theme.secondaryText, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>
+            🥁 Drummer Showdown
+          </Text>
+          <Text style={[styles.bandPageTitle, { color: theme.text, textAlign: 'center' }]}>
+            {comparison.title}
+          </Text>
+          <Text style={{ color: theme.secondaryText, fontSize: 14, marginTop: 8, textAlign: 'center', paddingHorizontal: 16 }}>
+            {comparison.matchupDescription}
+          </Text>
+        </View>
+
+        {/* VS Card - Drummer Photos and Basic Info */}
+        <View style={{ 
+          flexDirection: isMobile ? 'column' : 'row', 
+          gap: 16, 
+          marginBottom: 24,
+          alignItems: 'stretch'
+        }}>
+          {/* Drummer 1 */}
+          <TouchableOpacity 
+            style={{ 
+              flex: 1, 
+              backgroundColor: theme.card, 
+              borderRadius: 12, 
+              padding: 20, 
+              borderColor: theme.primary, 
+              borderWidth: 2,
+              alignItems: 'center'
+            }}
+            onPress={() => drummer1 && onSelectDrummer(drummer1.id)}
+            disabled={!drummer1}
+          >
+            {loadingDrummers ? (
+              <View style={{ width: 100, height: 100, borderRadius: 50, backgroundColor: theme.border }} />
+            ) : drummer1 ? (
+              <ImageWithFallback
+                source={{ uri: drummer1.image }}
+                style={{ width: 100, height: 100, borderRadius: 50, marginBottom: 12 }}
+                accessibilityLabel={`Photo of ${drummer1.name}`}
+                width={100}
+                height={100}
+              />
+            ) : null}
+            <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 4, textAlign: 'center' }}>
+              {drummer1?.name || comparison.drummers[0].replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}
+            </Text>
+            <Text style={{ fontSize: 14, color: theme.secondaryText, marginBottom: 8, textAlign: 'center' }}>
+              {drummer1?.band || stats1?.majorBands?.[0]}
+            </Text>
+            <View style={{ backgroundColor: theme.background, borderRadius: 8, paddingHorizontal: 12, paddingVertical: 6 }}>
+              <Text style={{ color: theme.primary, fontWeight: '600', fontSize: 12 }}>
+                {stats1?.yearsActive || 'Active'}
+              </Text>
+            </View>
+            <Text style={{ color: theme.accent, fontSize: 13, marginTop: 12 }}>
+              View Profile →
+            </Text>
+          </TouchableOpacity>
+
+          {/* VS Badge */}
+          <View style={{ 
+            alignItems: 'center', 
+            justifyContent: 'center',
+            paddingVertical: isMobile ? 8 : 0 
+          }}>
+            <View style={{ 
+              backgroundColor: theme.primary, 
+              width: 60, 
+              height: 60, 
+              borderRadius: 30, 
+              alignItems: 'center', 
+              justifyContent: 'center' 
+            }}>
+              <Text style={{ color: theme.text, fontWeight: 'bold', fontSize: 18 }}>VS</Text>
+            </View>
+          </View>
+
+          {/* Drummer 2 */}
+          <TouchableOpacity 
+            style={{ 
+              flex: 1, 
+              backgroundColor: theme.card, 
+              borderRadius: 12, 
+              padding: 20, 
+              borderColor: '#3b82f6', 
+              borderWidth: 2,
+              alignItems: 'center'
+            }}
+            onPress={() => drummer2 && onSelectDrummer(drummer2.id)}
+            disabled={!drummer2}
+          >
+            {loadingDrummers ? (
+              <View style={{ width: 100, height: 100, borderRadius: 50, backgroundColor: theme.border }} />
+            ) : drummer2 ? (
+              <ImageWithFallback
+                source={{ uri: drummer2.image }}
+                style={{ width: 100, height: 100, borderRadius: 50, marginBottom: 12 }}
+                accessibilityLabel={`Photo of ${drummer2.name}`}
+                width={100}
+                height={100}
+              />
+            ) : null}
+            <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 4, textAlign: 'center' }}>
+              {drummer2?.name || comparison.drummers[1].replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}
+            </Text>
+            <Text style={{ fontSize: 14, color: theme.secondaryText, marginBottom: 8, textAlign: 'center' }}>
+              {drummer2?.band || stats2?.majorBands?.[0]}
+            </Text>
+            <View style={{ backgroundColor: theme.background, borderRadius: 8, paddingHorizontal: 12, paddingVertical: 6 }}>
+              <Text style={{ color: '#3b82f6', fontWeight: '600', fontSize: 12 }}>
+                {stats2?.yearsActive || 'Active'}
+              </Text>
+            </View>
+            <Text style={{ color: theme.accent, fontSize: 13, marginTop: 12 }}>
+              View Profile →
+            </Text>
+          </TouchableOpacity>
+        </View>
+
+        {/* Career Stats Comparison */}
+        <View style={{ marginBottom: 24 }}>
+          <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>
+            📊 Career Stats
+          </Text>
+          <View style={{ flexDirection: isMobile ? 'column' : 'row', gap: 16 }}>
+            {/* Drummer 1 Stats */}
+            <View style={{ flex: 1, backgroundColor: theme.card, borderRadius: 12, padding: 16, borderColor: theme.border, borderWidth: 1 }}>
+              <Text style={{ fontSize: 16, fontWeight: '600', color: theme.text, marginBottom: 12 }}>
+                {drummer1?.name || comparison.drummers[0].replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}
+              </Text>
+              <View style={{ gap: 8 }}>
+                <View style={{ flexDirection: 'row', justifyContent: 'space-between' }}>
+                  <Text style={{ color: theme.secondaryText, fontSize: 13 }}>Albums:</Text>
+                  <Text style={{ color: theme.text, fontWeight: '600', fontSize: 13 }}>{stats1?.albumCount || 'N/A'}</Text>
+                </View>
+                <View style={{ flexDirection: 'row', justifyContent: 'space-between' }}>
+                  <Text style={{ color: theme.secondaryText, fontSize: 13 }}>Bands:</Text>
+                  <Text style={{ color: theme.text, fontWeight: '600', fontSize: 13 }}>{stats1?.majorBands?.length || 0}</Text>
+                </View>
+                <View style={{ marginTop: 8 }}>
+                  <Text style={{ color: theme.secondaryText, fontSize: 12, marginBottom: 4 }}>Signature Albums:</Text>
+                  {stats1?.signatureAlbums?.slice(0, 3).map((album, i) => (
+                    <Text key={i} style={{ color: theme.text, fontSize: 12, paddingLeft: 8 }}>• {album}</Text>
+                  ))}
+                </View>
+                {stats1?.awards && (
+                  <View style={{ marginTop: 8 }}>
+                    <Text style={{ color: '#fbbf24', fontSize: 12 }}>🏆 {stats1.awards[0]}</Text>
+                  </View>
+                )}
+              </View>
+            </View>
+            {/* Drummer 2 Stats */}
+            <View style={{ flex: 1, backgroundColor: theme.card, borderRadius: 12, padding: 16, borderColor: theme.border, borderWidth: 1 }}>
+              <Text style={{ fontSize: 16, fontWeight: '600', color: theme.text, marginBottom: 12 }}>
+                {drummer2?.name || comparison.drummers[1].replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}
+              </Text>
+              <View style={{ gap: 8 }}>
+                <View style={{ flexDirection: 'row', justifyContent: 'space-between' }}>
+                  <Text style={{ color: theme.secondaryText, fontSize: 13 }}>Albums:</Text>
+                  <Text style={{ color: theme.text, fontWeight: '600', fontSize: 13 }}>{stats2?.albumCount || 'N/A'}</Text>
+                </View>
+                <View style={{ flexDirection: 'row', justifyContent: 'space-between' }}>
+                  <Text style={{ color: theme.secondaryText, fontSize: 13 }}>Bands:</Text>
+                  <Text style={{ color: theme.text, fontWeight: '600', fontSize: 13 }}>{stats2?.majorBands?.length || 0}</Text>
+                </View>
+                <View style={{ marginTop: 8 }}>
+                  <Text style={{ color: theme.secondaryText, fontSize: 12, marginBottom: 4 }}>Signature Albums:</Text>
+                  {stats2?.signatureAlbums?.slice(0, 3).map((album, i) => (
+                    <Text key={i} style={{ color: theme.text, fontSize: 12, paddingLeft: 8 }}>• {album}</Text>
+                  ))}
+                </View>
+                {stats2?.awards && (
+                  <View style={{ marginTop: 8 }}>
+                    <Text style={{ color: '#fbbf24', fontSize: 12 }}>🏆 {stats2.awards[0]}</Text>
+                  </View>
+                )}
+              </View>
+            </View>
+          </View>
+        </View>
+
+        {/* Style Comparison */}
+        {comparison.styleComparison && (
+          <View style={{ marginBottom: 24 }}>
+            <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>
+              🎯 Style Comparison
+            </Text>
+            <View style={{ backgroundColor: theme.card, borderRadius: 12, padding: 16, borderColor: theme.border, borderWidth: 1, gap: 16 }}>
+              {Object.entries(comparison.styleComparison).map(([key, value]) => (
+                <View key={key}>
+                  <Text style={{ fontSize: 14, fontWeight: '600', color: theme.primary, marginBottom: 4, textTransform: 'capitalize' }}>
+                    {key}
+                  </Text>
+                  <Text style={{ color: theme.secondaryText, fontSize: 13, lineHeight: 20 }}>
+                    {value}
+                  </Text>
+                </View>
+              ))}
+            </View>
+          </View>
+        )}
+
+        {/* Gear Highlights */}
+        {comparison.gearHighlights && (
+          <View style={{ marginBottom: 24 }}>
+            <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>
+              🥁 Gear Highlights
+            </Text>
+            <View style={{ backgroundColor: theme.card, borderRadius: 12, padding: 16, borderColor: theme.border, borderWidth: 1, gap: 12 }}>
+              {Object.entries(comparison.gearHighlights).map(([key, value]) => (
+                <View key={key} style={{ flexDirection: 'row', gap: 8 }}>
+                  <Text style={{ fontSize: 13, fontWeight: '600', color: theme.text, minWidth: 80, textTransform: 'capitalize' }}>
+                    {key}:
+                  </Text>
+                  <Text style={{ color: theme.secondaryText, fontSize: 13, flex: 1 }}>
+                    {value}
+                  </Text>
+                </View>
+              ))}
+            </View>
+          </View>
+        )}
+
+        {/* Gear Comparison Table (if both drummers loaded) */}
+        {drummer1 && drummer2 && drummer1.gear && drummer2.gear && (
+          <View style={{ marginBottom: 24 }}>
+            <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>
+              ⚙️ Full Gear Comparison
+            </Text>
+            <View style={{ backgroundColor: theme.card, borderRadius: 12, borderColor: theme.border, borderWidth: 1, overflow: 'hidden' }}>
+              {['drums', 'snare', 'cymbals', 'hardware', 'sticks'].map((category) => {
+                const gear1 = drummer1.gear?.[category] || '-';
+                const gear2 = drummer2.gear?.[category] || '-';
+                const isDifferent = gear1 !== gear2;
+                return (
+                  <View 
+                    key={category} 
+                    style={{ 
+                      flexDirection: isMobile ? 'column' : 'row',
+                      borderBottomWidth: 1,
+                      borderBottomColor: theme.border,
+                      backgroundColor: isDifferent ? 'rgba(251, 191, 36, 0.1)' : 'transparent'
+                    }}
+                  >
+                    <View style={{ 
+                      width: isMobile ? '100%' : 100, 
+                      padding: 12, 
+                      backgroundColor: theme.background,
+                      borderRightWidth: isMobile ? 0 : 1,
+                      borderRightColor: theme.border
+                    }}>
+                      <Text style={{ color: theme.text, fontWeight: '600', fontSize: 13, textTransform: 'capitalize' }}>
+                        {category}
+                      </Text>
+                    </View>
+                    <View style={{ flex: 1, flexDirection: isMobile ? 'column' : 'row' }}>
+                      <View style={{ flex: 1, padding: 12, borderRightWidth: isMobile ? 0 : 1, borderRightColor: theme.border }}>
+                        <Text style={{ color: theme.secondaryText, fontSize: 12 }}>{gear1}</Text>
+                      </View>
+                      <View style={{ flex: 1, padding: 12 }}>
+                        <Text style={{ color: theme.secondaryText, fontSize: 12 }}>{gear2}</Text>
+                      </View>
+                    </View>
+                  </View>
+                );
+              })}
+            </View>
+            <Text style={{ color: theme.secondaryText, fontSize: 11, marginTop: 8, fontStyle: 'italic' }}>
+              * Highlighted rows indicate different gear choices
+            </Text>
+          </View>
+        )}
+
+        {/* Signature Videos */}
+        {comparison.signatureVideos && (
+          <View style={{ marginBottom: 24 }}>
+            <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>
+              🎬 Signature Performances
+            </Text>
+            <View style={{ flexDirection: isMobile ? 'column' : 'row', gap: 16 }}>
+              {comparison.drummers.map((drummerSlug) => {
+                const video = comparison.signatureVideos[drummerSlug];
+                if (!video) return null;
+                return (
+                  <View key={drummerSlug} style={{ flex: 1 }}>
+                    <Text style={{ color: theme.text, fontWeight: '600', marginBottom: 8, textTransform: 'capitalize' }}>
+                      {drummerSlug.replace(/-/g, ' ')}
+                    </Text>
+                    <TouchableOpacity
+                      style={{ 
+                        backgroundColor: theme.card, 
+                        borderRadius: 12, 
+                        padding: 16, 
+                        borderColor: theme.border, 
+                        borderWidth: 1,
+                        flexDirection: 'row',
+                        alignItems: 'center',
+                        gap: 12
+                      }}
+                      onPress={() => Linking.openURL(`https://youtube.com/watch?v=${video.youtubeId}`)}
+                    >
+                      <View style={{ 
+                        width: 50, 
+                        height: 50, 
+                        borderRadius: 25, 
+                        backgroundColor: '#ff0000', 
+                        alignItems: 'center', 
+                        justifyContent: 'center' 
+                      }}>
+                        <Text style={{ color: '#fff', fontSize: 20 }}>▶</Text>
+                      </View>
+                      <View style={{ flex: 1 }}>
+                        <Text style={{ color: theme.text, fontSize: 14, fontWeight: '500' }} numberOfLines={2}>
+                          {video.title}
+                        </Text>
+                        <Text style={{ color: theme.secondaryText, fontSize: 12, marginTop: 4 }}>
+                          Watch on YouTube →
+                        </Text>
+                      </View>
+                    </TouchableOpacity>
+                  </View>
+                );
+              })}
+            </View>
+          </View>
+        )}
+
+        {/* Related Comparisons */}
+        {relatedComparisons.length > 0 && (
+          <View style={{ marginBottom: 24 }}>
+            <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>
+              🔗 Related Comparisons
+            </Text>
+            <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: 12 }}>
+              {relatedComparisons.map((relSlug) => {
+                const relComparison = getDrummerComparison(relSlug);
+                if (!relComparison) return null;
+                return (
+                  <TouchableOpacity
+                    key={relSlug}
+                    style={{
+                      backgroundColor: theme.card,
+                      borderColor: theme.border,
+                      borderWidth: 1,
+                      borderRadius: 8,
+                      paddingHorizontal: 16,
+                      paddingVertical: 10
+                    }}
+                    onPress={() => onNavigateToComparison(relSlug)}
+                  >
+                    <Text style={{ color: theme.text, fontWeight: '500' }}>
+                      {relComparison.title}
+                    </Text>
+                  </TouchableOpacity>
+                );
+              })}
+            </View>
+          </View>
+        )}
+
+        {/* Share Section */}
+        <View style={{ 
+          backgroundColor: theme.card, 
+          borderRadius: 12, 
+          padding: 20, 
+          borderColor: theme.border, 
+          borderWidth: 1,
+          alignItems: 'center',
+          marginBottom: 24
+        }}>
+          <Text style={{ fontSize: 16, fontWeight: '600', color: theme.text, marginBottom: 12 }}>
+            Share this comparison
+          </Text>
+          <View style={{ flexDirection: 'row', gap: 12 }}>
+            <TouchableOpacity
+              style={{ backgroundColor: '#1da1f2', paddingHorizontal: 20, paddingVertical: 10, borderRadius: 8 }}
+              onPress={() => {
+                const url = `https://metalforge.io/compare/${comparison.slug}`;
+                const text = `${comparison.title} - Who's the better drummer? 🥁`;
+                Linking.openURL(`https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}&url=${encodeURIComponent(url)}`);
+              }}
+            >
+              <Text style={{ color: '#fff', fontWeight: '600' }}>Twitter</Text>
+            </TouchableOpacity>
+            <TouchableOpacity
+              style={{ backgroundColor: theme.primary, paddingHorizontal: 20, paddingVertical: 10, borderRadius: 8 }}
+              onPress={() => {
+                if (typeof navigator !== 'undefined' && navigator.clipboard) {
+                  navigator.clipboard.writeText(`https://metalforge.io/compare/${comparison.slug}`);
+                }
+              }}
+            >
+              <Text style={{ color: theme.text, fontWeight: '600' }}>Copy Link</Text>
+            </TouchableOpacity>
+          </View>
+        </View>
+
+        {/* SEO Footer */}
+        <View style={{ padding: 20, backgroundColor: theme.card, borderRadius: 12, borderColor: theme.border, borderWidth: 1 }}>
+          <Text style={{ fontSize: 16, fontWeight: '600', color: theme.text, marginBottom: 8 }}>
+            🎯 About This Comparison
+          </Text>
+          <Text style={{ color: theme.secondaryText, fontSize: 14, lineHeight: 22 }}>
+            This drummer comparison analyzes playing styles, career achievements, gear choices, and musical influences. 
+            Both drummers have made significant contributions to metal drumming. Use this comparison to understand 
+            what makes each drummer unique and how their approaches differ.
+          </Text>
+        </View>
+      </View>
+    </ScrollView>
+  );
+}
+
+// ==========================================
 // GEAR COMPARISON PAGES (Issue #345)
 // ==========================================
 
@@ -10900,6 +11992,18 @@ function DrummerList({
           </Text>
         </View>
       )}
+      
+      {/* All Drummers Section Header (Issue #496) */}
+      {showAllDrummers && !searchValue && !filters.genre && !filters.brand && (
+        <View style={styles.featuredSection}>
+          <Text style={[styles.featuredSectionTitle, { color: theme.text }]}>
+            🥁 All Drummers
+          </Text>
+          <Text style={[styles.featuredSectionSubtitle, { color: theme.secondaryText }]}>
+            Complete collection of {drummers.length} metal drummers
+          </Text>
+        </View>
+      )}
     </>
   );
 
@@ -10933,12 +12037,12 @@ function DrummerList({
       )}
       <View style={[styles.lastUpdatedContainer, { borderTopColor: theme.border }]}>
         {Platform.OS === 'web' ? (
-          <time dateTime="2026-02-17" style={{ color: theme.secondaryText, fontSize: 12 }}>
-            Last updated: February 17, 2026
+          <time dateTime="2026-02-28" style={{ color: theme.secondaryText, fontSize: 12 }}>
+            Last updated: February 28, 2026
           </time>
         ) : (
           <Text style={[styles.lastUpdatedText, { color: theme.secondaryText }]}>
-            Last updated: February 17, 2026
+            Last updated: February 28, 2026
           </Text>
         )}
       </View>
@@ -11236,6 +12340,23 @@ function updateNewsMeta(lastFetch = null) {
   schemaScript.type = 'application/ld+json';
   schemaScript.textContent = JSON.stringify(schema);
   document.head.appendChild(schemaScript);
+}
+
+// ==========================================
+// DRUMMERS LIST PAGE ROUTING (Issue #496)
+// ==========================================
+
+// Check if we're on the all drummers page (/drummers)
+function isDrummersListPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  const pathname = window.location.pathname;
+  return pathname === '/drummers' || pathname === '/drummers/';
+}
+
+// Navigate to drummers list page
+function navigateToDrummersList() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return;
+  window.history.pushState({}, '', '/drummers');
 }
 
 // ==========================================
@@ -11891,13 +13012,108 @@ function trackKitQuizShare(platform, result) {
 }
 
 // ==========================================
+// DRUMMER VS DRUMMER COMPARISON ROUTING (Issue #558)
+// ==========================================
+
+// Check if we're on a drummer vs drummer comparison page (/compare/:slug where slug is a drummer comparison)
+function isDrummerVsPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  const match = window.location.pathname.match(/^\/compare\/([a-z0-9-]+)$/i);
+  if (!match) return false;
+  const slug = match[1];
+  // Check if this slug is a drummer comparison (contains "-vs-" and matches our data)
+  return slug.includes('-vs-') && hasDrummerComparison(slug);
+}
+
+// Get drummer comparison slug from URL
+function getDrummerVsSlugFromURL() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(/^\/compare\/([a-z0-9-]+)$/i);
+  if (!match) return null;
+  const slug = match[1];
+  // Only return if it's a valid drummer comparison
+  if (slug.includes('-vs-') && hasDrummerComparison(slug)) {
+    return slug;
+  }
+  return null;
+}
+
+// Update URL for drummer vs drummer page
+function updateDrummerVsURL(slug) {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return;
+  const newPath = slug ? `/compare/${slug}` : '/compare';
+  window.history.pushState({}, '', newPath);
+}
+
+// Update meta tags and structured data for drummer vs drummer pages
+function updateDrummerVsMeta(comparison, drummer1, drummer2) {
+  if (Platform.OS !== 'web' || typeof document === 'undefined') return;
+
+  const setMeta = (name, content, isProperty = false) => {
+    const attr = isProperty ? 'property' : 'name';
+    let meta = document.querySelector(`meta[${attr}="${name}"]`);
+    if (!meta) {
+      meta = document.createElement('meta');
+      meta.setAttribute(attr, name);
+      document.head.appendChild(meta);
+    }
+    meta.setAttribute('content', content);
+  };
+
+  if (comparison) {
+    document.title = comparison.metaTitle;
+    setMeta('description', comparison.metaDescription);
+    setMeta('og:title', comparison.metaTitle, true);
+    setMeta('og:description', comparison.metaDescription, true);
+    setMeta('og:type', 'article', true);
+    setMeta('og:url', `https://metalforge.io/compare/${comparison.slug}`, true);
+    setMeta('twitter:card', 'summary_large_image');
+    setMeta('twitter:title', comparison.metaTitle);
+    setMeta('twitter:description', comparison.metaDescription);
+    if (comparison.keywords) {
+      setMeta('keywords', comparison.keywords.join(', '));
+    }
+
+    // Canonical URL
+    let canonicalLink = document.querySelector('link[rel="canonical"]');
+    if (!canonicalLink) {
+      canonicalLink = document.createElement('link');
+      canonicalLink.setAttribute('rel', 'canonical');
+      document.head.appendChild(canonicalLink);
+    }
+    canonicalLink.setAttribute('href', `https://metalforge.io/compare/${comparison.slug}`);
+
+    // Structured Data - Person comparison schema
+    let ldScript = document.querySelector('script[data-schema="drummer-comparison"]');
+    if (!ldScript) {
+      ldScript = document.createElement('script');
+      ldScript.type = 'application/ld+json';
+      ldScript.setAttribute('data-schema', 'drummer-comparison');
+      document.head.appendChild(ldScript);
+    }
+
+    const schema = generateComparisonSchema(comparison, drummer1, drummer2);
+    if (schema) {
+      ldScript.textContent = JSON.stringify(schema);
+    }
+  }
+}
+
+// ==========================================
 // GEAR COMPARISON ROUTING (Issue #345)
 // ==========================================
 
-// Check if we're on a gear comparison page (/compare/:slug)
+// Check if we're on a gear comparison page (/compare/:slug) - excludes drummer comparisons
 function isGearComparisonPage() {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
-  return /^\/compare\/[a-z0-9-]+$/i.test(window.location.pathname);
+  const match = window.location.pathname.match(/^\/compare\/([a-z0-9-]+)$/i);
+  if (!match) return false;
+  const slug = match[1];
+  // Exclude drummer comparisons (those that contain "-vs-" and match drummer comparison data)
+  if (slug.includes('-vs-') && hasDrummerComparison(slug)) {
+    return false;
+  }
+  return true;
 }
 
 // Check if we're on the gear comparisons index page (/compare without drummer query params)
@@ -13968,6 +15184,10 @@ function AppContent() {
   const [gearComparisonSlug, setGearComparisonSlug] = useState(() => getGearComparisonSlugFromURL());
   const [showGearComparisonsIndex, setShowGearComparisonsIndex] = useState(() => isGearComparisonsIndexPage());
 
+  // Drummer vs Drummer Comparison Page state (Issue #558)
+  const [showDrummerVs, setShowDrummerVs] = useState(() => isDrummerVsPage());
+  const [drummerVsSlug, setDrummerVsSlug] = useState(() => getDrummerVsSlugFromURL());
+
   // News Page state (Issue #514)
   const [showNewsPage, setShowNewsPage] = useState(() => isNewsPage());
 
@@ -13989,8 +15209,8 @@ function AppContent() {
   const [showSuggestions, setShowSuggestions] = useState(false);
   const searchInputRef = useRef(null);
   
-  // Show all drummers state - false by default to show only featured drummers on homepage (Issue #496)
-  const [showAllDrummers, setShowAllDrummers] = useState(false);
+  // Show all drummers state - true when on /drummers page, false for homepage (Issue #496)
+  const [showAllDrummers, setShowAllDrummers] = useState(() => isDrummersListPage());
 
   // Sort state - persisted in localStorage, can be overridden by URL param
   const [sortBy, setSortBy] = useState(() => {
@@ -14687,11 +15907,41 @@ function AppContent() {
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
+      } else if (isDrummerVsPage()) {
+        // Drummer vs Drummer comparison page (Issue #558)
+        preloadDrummerComparisons(); // Preload drummer comparisons module
+        const slug = getDrummerVsSlugFromURL();
+        setShowDrummerVs(true);
+        setDrummerVsSlug(slug);
+        setShowGearComparison(false);
+        setGearComparisonSlug(null);
+        setShowGearComparisonsIndex(false);
+        setShowGenresList(false);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowKitBuilder(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowList(false);
+        setListSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
       } else if (isGearComparisonPage()) {
         // Gear comparison detail page (Issue #345)
         const slug = getGearComparisonSlugFromURL();
         setShowGearComparison(true);
         setGearComparisonSlug(slug);
+        setShowDrummerVs(false);
+        setDrummerVsSlug(null);
         setShowGearComparisonsIndex(false);
         setShowGenresList(false);
         setShowGenrePage(false);
@@ -14829,8 +16079,40 @@ function AppContent() {
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
+      } else if (isDrummersListPage()) {
+        // All drummers page (Issue #496)
+        setShowAllDrummers(true);
+        // Reset other views
+        setShowCompare(false);
+        setShowQuiz(false);
+        setShowPrivacy(false);
+        setShowQuotes(false);
+        setShowNewsPage(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowGenresList(false);
+        setShowKitBuilder(false);
+        setShowBirthdayCalendar(false);
+        setShowGearIndex(false);
+        setShowGearCategory(false);
+        setGearCategory(null);
+        setGearCategoryData(null);
+        setShowGearComparison(false);
+        setGearComparisonSlug(null);
+        setShowGearComparisonsIndex(false);
+        setShowTechniqueDetail(false);
+        setTechniqueSlug(null);
+        setShowTechniquesIndex(false);
+        setSelectedGear(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
       } else {
-        // Back to home page
+        // Back to home page (show featured drummers)
+        setShowAllDrummers(false);
         setShowCompare(false);
         setShowQuiz(false);
         setShowPrivacy(false);
@@ -15661,6 +16943,51 @@ setShowList(false);
     }
   };
 
+  // Navigate to drummer vs drummer comparison page (Issue #558)
+  const handleNavigateToDrummerVs = (slug) => {
+    preloadDrummerComparisons();
+    setShowDrummerVs(true);
+    setDrummerVsSlug(slug);
+    // Reset other views
+    setShowGearComparison(false);
+    setGearComparisonSlug(null);
+    setShowGearComparisonsIndex(false);
+    setShowGearFinder(false);
+    setShowGearByBudget(false);
+    setShowGearIndex(false);
+    setShowGearCategory(false);
+    setGearCategory(null);
+    setGearCategoryData(null);
+    setShowBandDetail(false);
+    setBandSlug(null);
+    setShowList(false);
+    setListSlug(null);
+    setShowSpotlights(false);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowPrivacy(false);
+    setShowQuotes(false);
+    setShowBioPage(false);
+    setBioSlug(null);
+    setShowGenrePage(false);
+    setGenreSlug(null);
+    setShowGenresList(false);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    // Update URL
+    updateDrummerVsURL(slug);
+  };
+
+  // Handle back from drummer vs drummer comparison page (Issue #558)
+  const handleBackFromDrummerVs = () => {
+    setShowDrummerVs(false);
+    setDrummerVsSlug(null);
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/');
+    }
+  };
+
   // Navigate to technique detail page (Issue #344)
   const handleNavigateToTechnique = (slug) => {
     setShowTechniqueDetail(true);
@@ -15939,6 +17266,22 @@ setShowList(false);
         />
       );
     }
+    // Kit Quiz Page (Issue #551)
+    if (showKitQuiz) {
+      return (
+        <KitQuizPage
+          theme={theme}
+          onBack={() => {
+            setShowKitQuiz(false);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/');
+            }
+          }}
+          drummers={drummers}
+          onSelectDrummer={handleSelectDrummer}
+        />
+      );
+    }
     // BPM Tap Calculator Page (Issue #342)
     if (showBpmTap) {
       return (
@@ -16050,6 +17393,19 @@ setShowList(false);
           onBack={handleBackFromGearCategory}
           onSelectGear={handleSelectGear}
           onNavigateToCategory={handleNavigateToGearCategory}
+        />
+      );
+    }
+    // Drummer vs Drummer Comparison Page (Issue #558)
+    if (showDrummerVs && drummerVsSlug) {
+      return (
+        <DrummerVsPage
+          comparisonSlug={drummerVsSlug}
+          theme={theme}
+          onBack={handleBackFromDrummerVs}
+          onSelectDrummer={handleSelectDrummer}
+          drummers={drummers}
+          onNavigateToComparison={handleNavigateToDrummerVs}
         />
       );
     }
@@ -16185,7 +17541,10 @@ setShowList(false);
           onSelectSuggestion={handleSelectSuggestion}
           searchInputRef={searchInputRef}
           showAllDrummers={showAllDrummers}
-          onShowAllDrummers={() => setShowAllDrummers(true)}
+          onShowAllDrummers={() => {
+            setShowAllDrummers(true);
+            navigateToDrummersList();
+          }}
         />
       </View>
     );
@@ -20976,6 +22335,236 @@ const styles = StyleSheet.create({
     fontSize: 15,
     fontWeight: '500',
   },
+  // Kit Quiz Page Styles (Issue #551)
+  kitQuizContainer: {
+    flex: 1,
+    paddingHorizontal: 20,
+  },
+  kitQuizHeader: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    paddingVertical: 16,
+  },
+  kitQuizProgress: {
+    fontSize: 14,
+    fontWeight: '500',
+  },
+  kitQuizProgressBar: {
+    height: 6,
+    borderRadius: 3,
+    marginBottom: 20,
+    overflow: 'hidden',
+  },
+  kitQuizProgressFill: {
+    height: '100%',
+    borderRadius: 3,
+  },
+  kitQuizLoading: {
+    flex: 1,
+    alignItems: 'center',
+    justifyContent: 'center',
+    paddingTop: 100,
+  },
+  kitQuizLoadingText: {
+    marginTop: 16,
+    fontSize: 16,
+  },
+  kitQuizQuestionCard: {
+    borderRadius: 16,
+    borderWidth: 1,
+    padding: 24,
+    marginBottom: 20,
+  },
+  kitQuizQuestionTitle: {
+    fontSize: 24,
+    fontWeight: 'bold',
+    textAlign: 'center',
+    marginBottom: 16,
+  },
+  kitQuizDifficultyBadge: {
+    alignSelf: 'center',
+    paddingHorizontal: 12,
+    paddingVertical: 4,
+    borderRadius: 12,
+    marginBottom: 16,
+  },
+  kitQuizDifficultyText: {
+    color: '#fff',
+    fontSize: 12,
+    fontWeight: '600',
+    textTransform: 'uppercase',
+  },
+  kitQuizHint: {
+    fontSize: 16,
+    fontStyle: 'italic',
+    textAlign: 'center',
+    marginBottom: 20,
+    lineHeight: 24,
+  },
+  kitQuizGearSection: {
+    borderWidth: 1,
+    borderRadius: 12,
+    padding: 16,
+    marginBottom: 24,
+  },
+  kitQuizGearTitle: {
+    fontSize: 18,
+    fontWeight: '700',
+    marginBottom: 12,
+  },
+  kitQuizGearItem: {
+    flexDirection: 'row',
+    marginBottom: 8,
+  },
+  kitQuizGearLabel: {
+    fontSize: 14,
+    fontWeight: '600',
+    width: 80,
+  },
+  kitQuizGearValue: {
+    fontSize: 14,
+    flex: 1,
+  },
+  kitQuizOptions: {
+    gap: 12,
+  },
+  kitQuizOption: {
+    padding: 16,
+    borderRadius: 12,
+    borderWidth: 2,
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+  },
+  kitQuizOptionName: {
+    fontSize: 18,
+    fontWeight: '600',
+  },
+  kitQuizOptionBand: {
+    fontSize: 14,
+    marginTop: 2,
+  },
+  kitQuizCorrectBadge: {
+    fontSize: 24,
+    color: '#fff',
+  },
+  kitQuizWrongBadge: {
+    fontSize: 24,
+    color: '#fff',
+  },
+  kitQuizFeedback: {
+    marginTop: 20,
+    padding: 16,
+    borderRadius: 12,
+    alignItems: 'center',
+  },
+  kitQuizFeedbackText: {
+    color: '#fff',
+    fontSize: 18,
+    fontWeight: '600',
+  },
+  kitQuizResultCard: {
+    borderRadius: 20,
+    borderWidth: 1,
+    padding: 32,
+    marginVertical: 20,
+    alignItems: 'center',
+  },
+  kitQuizResultEmoji: {
+    fontSize: 72,
+    marginBottom: 16,
+  },
+  kitQuizResultTitle: {
+    fontSize: 28,
+    fontWeight: 'bold',
+    marginBottom: 8,
+    textAlign: 'center',
+  },
+  kitQuizResultScore: {
+    fontSize: 64,
+    fontWeight: 'bold',
+    marginBottom: 4,
+  },
+  kitQuizResultPercent: {
+    fontSize: 20,
+    marginBottom: 24,
+  },
+  kitQuizScoreBreakdown: {
+    width: '100%',
+    borderTopWidth: 1,
+    paddingTop: 20,
+    marginBottom: 24,
+  },
+  kitQuizScoreRow: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    marginBottom: 8,
+  },
+  kitQuizScoreLabel: {
+    fontSize: 16,
+  },
+  kitQuizScoreValue: {
+    fontSize: 16,
+    fontWeight: '600',
+  },
+  kitQuizShareSection: {
+    width: '100%',
+    marginBottom: 24,
+  },
+  kitQuizShareTitle: {
+    fontSize: 18,
+    fontWeight: '600',
+    textAlign: 'center',
+    marginBottom: 16,
+  },
+  kitQuizShareButtons: {
+    flexDirection: 'row',
+    gap: 12,
+    justifyContent: 'center',
+  },
+  kitQuizShareButtonsMobile: {
+    flexDirection: 'column',
+  },
+  kitQuizShareButton: {
+    paddingHorizontal: 20,
+    paddingVertical: 12,
+    borderRadius: 8,
+    minWidth: 120,
+    alignItems: 'center',
+  },
+  kitQuizShareButtonText: {
+    color: '#fff',
+    fontSize: 14,
+    fontWeight: '600',
+  },
+  kitQuizActionButtons: {
+    flexDirection: 'row',
+    gap: 16,
+    width: '100%',
+  },
+  kitQuizRetryButton: {
+    flex: 1,
+    paddingVertical: 16,
+    borderRadius: 12,
+    alignItems: 'center',
+  },
+  kitQuizRetryText: {
+    color: '#fff',
+    fontSize: 18,
+    fontWeight: '600',
+  },
+  kitQuizHomeButton: {
+    flex: 1,
+    paddingVertical: 16,
+    borderRadius: 12,
+    alignItems: 'center',
+    borderWidth: 2,
+  },
+  kitQuizHomeText: {
+    fontSize: 18,
+    fontWeight: '600',
+  },
   // BPM Page Styles (Issue #342)
   bpmPageHeader: {
     paddingTop: 20,
@@ -21194,5 +22783,35 @@ const styles = StyleSheet.create({
   newsCardArrow: {
     fontSize: 16,
     marginLeft: 8,
+  },
+  // Featured Drummers Section (Issue #496)
+  featuredSection: {
+    paddingHorizontal: 20,
+    paddingVertical: 16,
+    marginBottom: 8,
+  },
+  featuredSectionTitle: {
+    fontSize: 22,
+    fontWeight: '700',
+    marginBottom: 4,
+  },
+  featuredSectionSubtitle: {
+    fontSize: 14,
+    lineHeight: 20,
+  },
+  // View All Drummers Button (Issue #496)
+  viewAllDrummersButton: {
+    marginHorizontal: 20,
+    marginVertical: 24,
+    paddingVertical: 16,
+    paddingHorizontal: 24,
+    borderRadius: 12,
+    borderWidth: 2,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  viewAllDrummersText: {
+    fontSize: 16,
+    fontWeight: '700',
   },
 });

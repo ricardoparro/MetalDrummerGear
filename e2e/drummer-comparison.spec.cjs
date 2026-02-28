@@ -16,12 +16,17 @@ const { test, expect } = require('@playwright/test');
 const BASE_URL = process.env.BASE_URL || 'https://metalforge.io';
 
 // Sample comparison slugs to test
+// Issue #598: Added high-value comparison pages
 const COMPARISON_SLUGS = [
   'lars-ulrich-vs-dave-lombardo',
   'mario-duplantier-vs-tomas-haake',
   'mike-portnoy-vs-danny-carey',
   'george-kollias-vs-pete-sandoval',
   'gene-hoglan-vs-charlie-benante',
+  // Issue #598: New high-value comparisons
+  'lars-ulrich-vs-joey-jordison',
+  'danny-carey-vs-mario-duplantier',
+  'gene-hoglan-vs-george-kollias',
 ];
 
 test.describe('Drummer Comparisons Index Page', () => {

@@ -75,6 +75,7 @@ const gearComparisons = [
 ];
 
 // Issue #558: Drummer vs Drummer comparison pages for SEO
+// Issue #598: Added high-value comparison pages
 const drummerComparisons = [
   { slug: 'lars-ulrich-vs-dave-lombardo', name: 'Lars Ulrich vs Dave Lombardo' },
   { slug: 'mario-duplantier-vs-tomas-haake', name: 'Mario Duplantier vs Tomas Haake' },
@@ -88,6 +89,10 @@ const drummerComparisons = [
   { slug: 'igor-cavalera-vs-eloy-casagrande', name: 'Igor Cavalera vs Eloy Casagrande' },
   { slug: 'vinnie-paul-vs-art-cruz', name: 'Vinnie Paul vs Art Cruz' },
   { slug: 'ray-luzier-vs-abe-cunningham', name: 'Ray Luzier vs Abe Cunningham' },
+  // Issue #598: High-value comparisons targeting competitive keywords
+  { slug: 'lars-ulrich-vs-joey-jordison', name: 'Lars Ulrich vs Joey Jordison' },
+  { slug: 'danny-carey-vs-mario-duplantier', name: 'Danny Carey vs Mario Duplantier' },
+  { slug: 'gene-hoglan-vs-george-kollias', name: 'Gene Hoglan vs George Kollias' },
 ];
 
 const BASE_URL = 'https://metalforge.io';

@@ -47,6 +47,8 @@ import {
 
 // Import extracted data for code splitting
 import { FILTER_OPTIONS } from './data/filterOptions';
+// Curated featured drummer (Issue #494)
+import { getFeaturedDrummer, getFeaturedDrummerInfo } from './data/featuredDrummer';
 import { 
   BUDGET_TIERS, 
   getBudgetTierForPrice, 
@@ -10703,6 +10705,7 @@ function DrummerList({
   onNavigateToBirthdayCalendar,
   onNavigateToGenresList,
   onNavigateToTechniques,
+  onNavigateToNews,
   spotlight,
   filters,
   onFilterChange,
@@ -10752,13 +10755,8 @@ function DrummerList({
     );
   }
 
-  const handleClearAllFilters = () => {
-    // Clear all filters in one call - this updates URL to '/'
-    onFilterChange({ search: '', genre: '', brand: '', era: '' });
-    // Clear search input visual state (handleSearchClear now uses functional update
-    // so it won't overwrite filters with stale closure values)
-    onSearchClear();
-  };
+  // Get featured drummers for homepage display (Issue #497)
+  const featuredDrummers = useMemo(() => getFeaturedDrummers(drummers), [drummers]);
 
   // Header content that scrolls with the list
   const ListHeader = () => (
@@ -10867,17 +10865,39 @@ function DrummerList({
           <Text style={[styles.quizButtonText, { color: '#fff' }]}>🎯 Kit Quiz</Text>
         </TouchableOpacity>
       </View>
-      {/* Filter Bar - positioned below action buttons, above drummer list (Issue #506) */}
-      <FilterBar
-        filters={filters}
-        onFilterChange={onFilterChange}
-        totalCount={drummers.length}
-        filteredCount={filteredDrummers.length}
-        onClearAll={handleClearAllFilters}
-        theme={theme}
-        sortBy={sortBy}
-        onSortChange={onSortChange}
-      />
+      
+      {/* Genre Cards Section - Browse by Genre (Issue #497) */}
+      <View style={{ paddingHorizontal: 20, marginTop: 16, marginBottom: 8 }}>
+        <Text style={[styles.sectionTitle, { color: theme.text, marginBottom: 12 }]}>
+          🎸 Browse by Genre
+        </Text>
+        <ScrollView 
+          horizontal 
+          showsHorizontalScrollIndicator={false} 
+          contentContainerStyle={{ gap: 10 }}
+        >
+          {FILTER_OPTIONS.genres.map((genre) => (
+            <TouchableOpacity
+              key={genre.value}
+              onPress={() => onNavigateToDrummers({ genre: genre.value })}
+              style={[
+                styles.filterChip,
+                { 
+                  backgroundColor: theme.card, 
+                  borderColor: theme.border,
+                  paddingVertical: 12,
+                  paddingHorizontal: 16,
+                }
+              ]}
+              accessibilityRole="button"
+              accessibilityLabel={`Browse ${genre.label} drummers`}
+            >
+              <Text style={[styles.filterChipText, { color: theme.text }]}>{genre.label}</Text>
+            </TouchableOpacity>
+          ))}
+        </ScrollView>
+      </View>
+      
       {/* Drummer Spotlight Section */}
       {spotlight && (
         <DrummerSpotlight
@@ -10890,48 +10910,41 @@ function DrummerList({
       {/* Top 10 Lists Section */}
       <TopListsSection theme={theme} onNavigateToList={onNavigateToList} />
       
-      {/* Featured Drummers Section Header (Issue #496) */}
-      {!showAllDrummers && !searchValue && !filters.genre && !filters.brand && (
-        <View style={styles.featuredSection}>
-          <Text style={[styles.featuredSectionTitle, { color: theme.text }]}>
-            ⭐ Featured Drummers
-          </Text>
-          <Text style={[styles.featuredSectionSubtitle, { color: theme.secondaryText }]}>
-            Legendary metal drummers to explore
-          </Text>
-        </View>
-      )}
+      {/* Featured Drummers Section Header (Issue #497) */}
+      <View style={styles.featuredSection}>
+        <Text style={[styles.featuredSectionTitle, { color: theme.text }]}>
+          ⭐ Featured Drummers
+        </Text>
+        <Text style={[styles.featuredSectionSubtitle, { color: theme.secondaryText }]}>
+          Legendary metal drummers to explore
+        </Text>
+      </View>
     </>
   );
 
-  // Empty list message
+  // Empty list message (shouldn't happen on homepage with featured drummers)
   const ListEmpty = () => (
     <View style={styles.noResultsContainer}>
       <Text style={[styles.noResultsText, { color: theme.secondaryText }]}>
-        No drummers found matching your criteria
+        No drummers available. Please check back later.
       </Text>
-      <TouchableOpacity onPress={handleClearAllFilters} style={[styles.clearFiltersButtonLarge, { borderColor: theme.text }]}>
-        <Text style={[styles.clearFiltersButtonText, { color: theme.text }]}>Clear All Filters</Text>
-      </TouchableOpacity>
     </View>
   );
 
-  // Footer with Last Updated timestamp (Issue #449) and View All Drummers button (Issue #496)
+  // Footer with View All Drummers link and Last Updated timestamp (Issue #449, #497)
   const ListFooter = () => (
     <View>
-      {/* View All Drummers button - shown when displaying featured only (Issue #496) */}
-      {!showAllDrummers && !searchValue && !filters.genre && !filters.brand && (
-        <TouchableOpacity
-          onPress={onShowAllDrummers}
-          style={[styles.viewAllDrummersButton, { backgroundColor: theme.primary, borderColor: theme.primary }]}
-          accessibilityRole="button"
-          accessibilityLabel={`View all ${drummers.length} drummers`}
-        >
-          <Text style={[styles.viewAllDrummersText, { color: theme.text }]}>
-            View All {drummers.length} Drummers →
-          </Text>
-        </TouchableOpacity>
-      )}
+      {/* View All Drummers button - links to /drummers page (Issue #497) */}
+      <TouchableOpacity
+        onPress={() => onNavigateToDrummers({})}
+        style={[styles.viewAllDrummersButton, { backgroundColor: theme.primary, borderColor: theme.primary }]}
+        accessibilityRole="button"
+        accessibilityLabel={`View all ${drummers.length} drummers`}
+      >
+        <Text style={[styles.viewAllDrummersText, { color: theme.text }]}>
+          View All {drummers.length} Drummers →
+        </Text>
+      </TouchableOpacity>
       <View style={[styles.lastUpdatedContainer, { borderTopColor: theme.border }]}>
         {Platform.OS === 'web' ? (
           <time dateTime="2026-02-17" style={{ color: theme.secondaryText, fontSize: 12 }}>
@@ -10949,7 +10962,7 @@ function DrummerList({
   return (
     <FlatList
       style={styles.listWrapper}
-      data={filteredDrummers}
+      data={featuredDrummers}
       keyExtractor={(item) => item.id.toString()}
       renderItem={({ item, index }) => (
         <DrummerCard
@@ -16192,7 +16205,7 @@ setShowList(false);
           onNavigateToBirthdayCalendar={handleNavigateToBirthdayCalendar}
           onNavigateToGenresList={handleNavigateToGenresList}
           onNavigateToTechniques={handleNavigateToTechniquesIndex}
-          spotlight={apiSpotlight || getCurrentSpotlightDrummer(drummers)}
+          spotlight={apiSpotlight || getFeaturedDrummer(drummers)}
           filters={filters}
           onFilterChange={handleFilterChange}
           sortBy={sortBy}

@@ -63,7 +63,9 @@ import {
   getFeaturedDrummer as getCuratedFeaturedDrummer,
   getUpcomingSpotlightBirthdays,
   getFeaturedSchedule,
-  FEATURED_ROTATION
+  getFeaturedHistory,
+  FEATURED_ROTATION,
+  MANUAL_OVERRIDE
 } from './data/featuredDrummer';
 
 // Extended bios for drummer detail pages (Issue #305)
@@ -13723,6 +13725,353 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
 }
 
 // ===============================================
+// KIT QUIZ: "Guess the Drummer by Kit" Viral Quiz (Issue #551)
+// ===============================================
+
+// Kit Quiz View Component - Shows gear setup, users guess the drummer
+function KitQuizView({ theme, onBack, drummers, onSelectDrummer }) {
+  const { width } = useWindowDimensions();
+  const [currentQuestion, setCurrentQuestion] = useState(0);
+  const [answers, setAnswers] = useState([]);
+  const [showResults, setShowResults] = useState(false);
+  const [results, setResults] = useState(null);
+  const [selectedOption, setSelectedOption] = useState(null);
+  const [showHint, setShowHint] = useState(false);
+  const [kitQuizDataLoaded, setKitQuizDataLoaded] = useState(false);
+  const [quizQuestions, setQuizQuestions] = useState([]);
+  const [shuffledOptions, setShuffledOptions] = useState([]);
+  const [quizStarted, setQuizStarted] = useState(false);
+
+  // Load kit quiz data on mount (lazy loading)
+  useEffect(() => {
+    loadKitQuizData().then(module => {
+      _kitQuizDataModule = module;
+      setQuizQuestions(module.KIT_QUIZ_QUESTIONS);
+      const shuffled = module.KIT_QUIZ_QUESTIONS.map(q => 
+        module.shuffleArray ? module.shuffleArray(q.options) : q.options
+      );
+      setShuffledOptions(shuffled);
+      setKitQuizDataLoaded(true);
+    });
+  }, []);
+
+  // Check for shared result in URL on mount
+  useEffect(() => {
+    if (kitQuizDataLoaded) {
+      const urlResult = getKitQuizResultFromURL();
+      if (urlResult && urlResult.correct !== null && urlResult.total !== null) {
+        setResults({
+          correct: urlResult.correct,
+          total: urlResult.total,
+          percentage: Math.round((urlResult.correct / urlResult.total) * 100),
+          score: urlResult.score || urlResult.correct * 10,
+        });
+        setShowResults(true);
+      } else {
+        updateKitQuizMeta(null);
+      }
+    }
+  }, [kitQuizDataLoaded]);
+
+  const progress = quizQuestions.length > 0 ? ((currentQuestion + 1) / quizQuestions.length) * 100 : 0;
+
+  const handleStartQuiz = () => {
+    setQuizStarted(true);
+    trackKitQuizStart();
+  };
+
+  const handleAnswer = (drummerId) => {
+    setSelectedOption(drummerId);
+    const newAnswers = [...answers, drummerId];
+    setAnswers(newAnswers);
+
+    setTimeout(() => {
+      if (currentQuestion < quizQuestions.length - 1) {
+        setCurrentQuestion(currentQuestion + 1);
+        setSelectedOption(null);
+        setShowHint(false);
+      } else {
+        const result = _kitQuizDataModule.calculateKitQuizResult(newAnswers);
+        setResults(result);
+        setShowResults(true);
+        trackKitQuizCompletion(result);
+        updateKitQuizResultURL(result);
+        updateKitQuizMeta(result);
+      }
+    }, 800);
+  };
+
+  const handleRestart = () => {
+    setCurrentQuestion(0);
+    setAnswers([]);
+    setShowResults(false);
+    setResults(null);
+    setSelectedOption(null);
+    setShowHint(false);
+    if (_kitQuizDataModule && _kitQuizDataModule.shuffleArray) {
+      const shuffled = quizQuestions.map(q => _kitQuizDataModule.shuffleArray(q.options));
+      setShuffledOptions(shuffled);
+    }
+  };
+
+  const handleShare = async (platform) => {
+    if (!results) return;
+    
+    const emoji = results.percentage >= 80 ? '🏆' : results.percentage >= 60 ? '🔥' : results.percentage >= 40 ? '🥁' : '😅';
+    const shareText = `${emoji} I got ${results.correct}/${results.total} (${results.percentage}%) on the Metal Drummer Kit Quiz! Can you beat my score? 🤘`;
+    const shareUrl = typeof window !== 'undefined' 
+      ? `${window.location.origin}/kit-quiz?correct=${results.correct}&total=${results.total}` 
+      : 'https://metalforge.io/kit-quiz';
+
+    trackKitQuizShare(platform, results);
+
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      let url;
+      switch (platform) {
+        case 'twitter':
+          url = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(shareUrl)}`;
+          break;
+        case 'facebook':
+          url = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(shareUrl)}&quote=${encodeURIComponent(shareText)}`;
+          break;
+        case 'copy':
+          try {
+            await navigator.clipboard.writeText(`${shareText}\n${shareUrl}`);
+            alert('Copied to clipboard!');
+          } catch (err) {
+            console.error('Failed to copy:', err);
+          }
+          return;
+        default:
+          return;
+      }
+      window.open(url, '_blank', 'width=600,height=400');
+    }
+  };
+
+  // Loading state
+  if (!kitQuizDataLoaded || quizQuestions.length === 0) {
+    return (
+      <ScrollView style={[styles.quizContainer, { backgroundColor: theme.background }]}>
+        <View style={styles.quizContent}>
+          <View style={styles.kitQuizLoading}>
+            <ActivityIndicator size="large" color={theme.primary} />
+            <Text style={[styles.kitQuizLoadingText, { color: theme.secondaryText }]}>
+              Loading Kit Quiz...
+            </Text>
+          </View>
+        </View>
+      </ScrollView>
+    );
+  }
+
+  // Intro Screen
+  if (!quizStarted && !showResults) {
+    return (
+      <ScrollView style={[styles.quizContainer, { backgroundColor: theme.background }]}>
+        <View style={styles.quizContent}>
+          <TouchableOpacity
+            onPress={onBack}
+            style={[styles.backButton, { borderColor: theme.border }]}
+            accessibilityRole="button"
+            accessibilityLabel="Back to home"
+          >
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+          </TouchableOpacity>
+
+          <View style={styles.kitQuizIntro}>
+            <Text style={styles.kitQuizIntroEmoji}>🎯</Text>
+            <Text style={[styles.kitQuizIntroTitle, { color: theme.text }]}>
+              Guess the Drummer by Kit
+            </Text>
+            <Text style={[styles.kitQuizIntroSubtitle, { color: theme.secondaryText }]}>
+              Can you identify legendary metal drummers just by their gear setup?
+            </Text>
+            
+            <View style={[styles.kitQuizInfoBox, { backgroundColor: theme.card, borderColor: theme.border }]}>
+              <Text style={[styles.kitQuizInfoText, { color: theme.text }]}>🥁 {quizQuestions.length} questions</Text>
+              <Text style={[styles.kitQuizInfoText, { color: theme.text }]}>⏱️ ~2 minutes</Text>
+              <Text style={[styles.kitQuizInfoText, { color: theme.text }]}>🏆 Share your score</Text>
+            </View>
+
+            <TouchableOpacity
+              onPress={handleStartQuiz}
+              style={[styles.kitQuizStartButton, { backgroundColor: theme.primary }]}
+              accessibilityRole="button"
+            >
+              <Text style={styles.kitQuizStartButtonText}>Start Quiz 🤘</Text>
+            </TouchableOpacity>
+          </View>
+        </View>
+      </ScrollView>
+    );
+  }
+
+  // Results View
+  if (showResults && results) {
+    const resultMessage = _kitQuizDataModule.getResultMessage 
+      ? _kitQuizDataModule.getResultMessage(results.percentage)
+      : { emoji: '🥁', title: 'Quiz Complete!', message: '' };
+
+    return (
+      <ScrollView style={[styles.quizContainer, { backgroundColor: theme.background }]}>
+        <View style={styles.quizContent}>
+          <TouchableOpacity
+            onPress={onBack}
+            style={[styles.backButton, { borderColor: theme.border }]}
+            accessibilityRole="button"
+            accessibilityLabel="Back to home"
+          >
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+          </TouchableOpacity>
+
+          <View style={styles.kitQuizResultsHeader}>
+            <Text style={styles.kitQuizResultEmoji}>{resultMessage.emoji}</Text>
+            <Text style={[styles.kitQuizResultTitle, { color: theme.text }]}>{resultMessage.title}</Text>
+            <Text style={[styles.kitQuizResultMessage, { color: theme.secondaryText }]}>{resultMessage.message}</Text>
+          </View>
+
+          <View style={[styles.kitQuizScoreCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.kitQuizScoreNumber, { color: theme.primary }]}>{results.correct}/{results.total}</Text>
+            <Text style={[styles.kitQuizScorePercent, { color: theme.text }]}>{results.percentage}% Correct</Text>
+            <View style={[styles.kitQuizScoreBar, { backgroundColor: theme.border }]}>
+              <View style={[styles.kitQuizScoreBarFill, { width: `${results.percentage}%`, backgroundColor: results.percentage >= 70 ? '#4ade80' : results.percentage >= 40 ? '#fbbf24' : '#f87171' }]} />
+            </View>
+          </View>
+
+          <View style={styles.shareSection}>
+            <Text style={[styles.shareTitle, { color: theme.text }]}>Challenge Your Friends!</Text>
+            <View style={styles.shareButtons}>
+              <TouchableOpacity onPress={() => handleShare('twitter')} style={[styles.shareButton, { backgroundColor: colors.buttons.ghost.bg, borderWidth: 1, borderColor: colors.buttons.ghost.border }]}>
+                <Text style={[styles.shareButtonText, { color: '#1DA1F2' }]}>𝕏 Twitter</Text>
+              </TouchableOpacity>
+              <TouchableOpacity onPress={() => handleShare('facebook')} style={[styles.shareButton, { backgroundColor: colors.buttons.ghost.bg, borderWidth: 1, borderColor: colors.buttons.ghost.border }]}>
+                <Text style={[styles.shareButtonText, { color: '#4267B2' }]}>Facebook</Text>
+              </TouchableOpacity>
+              <TouchableOpacity onPress={() => handleShare('copy')} style={[styles.shareButton, { backgroundColor: theme.border }]}>
+                <Text style={[styles.shareButtonText, { color: theme.text }]}>📋 Copy</Text>
+              </TouchableOpacity>
+            </View>
+          </View>
+
+          <View style={styles.kitQuizActions}>
+            <TouchableOpacity onPress={handleRestart} style={[styles.kitQuizActionButton, { backgroundColor: theme.primary }]}>
+              <Text style={styles.kitQuizActionButtonText}>🔄 Play Again</Text>
+            </TouchableOpacity>
+            <TouchableOpacity onPress={onBack} style={[styles.kitQuizActionButtonSecondary, { borderColor: theme.border }]}>
+              <Text style={[styles.kitQuizActionButtonTextSecondary, { color: theme.text }]}>🥁 Explore Drummers</Text>
+            </TouchableOpacity>
+          </View>
+        </View>
+      </ScrollView>
+    );
+  }
+
+  // Question View
+  const question = quizQuestions[currentQuestion];
+  const options = shuffledOptions[currentQuestion] || question.options;
+
+  return (
+    <ScrollView style={[styles.quizContainer, { backgroundColor: theme.background }]}>
+      <View style={styles.quizContent}>
+        <View style={styles.progressContainer}>
+          <View style={[styles.progressBar, { backgroundColor: theme.border }]}>
+            <View style={[styles.progressFill, { width: `${progress}%`, backgroundColor: theme.primary }]} />
+          </View>
+          <Text style={[styles.progressText, { color: theme.secondaryText }]}>Question {currentQuestion + 1} of {quizQuestions.length}</Text>
+        </View>
+
+        <View style={[styles.kitQuizQuestionCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.kitQuizQuestionTitle, { color: theme.text }]}>🥁 Who uses this kit?</Text>
+          
+          <View style={styles.kitQuizGearList}>
+            <View style={styles.kitQuizGearItem}>
+              <Text style={[styles.kitQuizGearLabel, { color: theme.secondaryText }]}>Drums:</Text>
+              <Text style={[styles.kitQuizGearValue, { color: theme.text }]}>{question.gear.drums}</Text>
+            </View>
+            <View style={styles.kitQuizGearItem}>
+              <Text style={[styles.kitQuizGearLabel, { color: theme.secondaryText }]}>Snare:</Text>
+              <Text style={[styles.kitQuizGearValue, { color: theme.text }]}>{question.gear.snare}</Text>
+            </View>
+            <View style={styles.kitQuizGearItem}>
+              <Text style={[styles.kitQuizGearLabel, { color: theme.secondaryText }]}>Cymbals:</Text>
+              <Text style={[styles.kitQuizGearValue, { color: theme.text }]}>{question.gear.cymbals}</Text>
+            </View>
+            <View style={styles.kitQuizGearItem}>
+              <Text style={[styles.kitQuizGearLabel, { color: theme.secondaryText }]}>Hardware:</Text>
+              <Text style={[styles.kitQuizGearValue, { color: theme.text }]}>{question.gear.hardware}</Text>
+            </View>
+            {question.gear.sticks && (
+              <View style={styles.kitQuizGearItem}>
+                <Text style={[styles.kitQuizGearLabel, { color: theme.secondaryText }]}>Sticks:</Text>
+                <Text style={[styles.kitQuizGearValue, { color: theme.text }]}>{question.gear.sticks}</Text>
+              </View>
+            )}
+          </View>
+
+          {!showHint && !selectedOption && (
+            <TouchableOpacity onPress={() => setShowHint(true)} style={[styles.kitQuizHintButton, { borderColor: theme.border }]}>
+              <Text style={[styles.kitQuizHintButtonText, { color: theme.secondaryText }]}>💡 Need a hint?</Text>
+            </TouchableOpacity>
+          )}
+          {showHint && (
+            <View style={[styles.kitQuizHintBox, { backgroundColor: theme.background, borderColor: theme.border }]}>
+              <Text style={[styles.kitQuizHintText, { color: theme.text }]}>{question.hint}</Text>
+            </View>
+          )}
+        </View>
+
+        <View style={styles.kitQuizOptions}>
+          {options.map((drummerId) => {
+            const drummer = drummers.find(d => d.id === drummerId);
+            if (!drummer) return null;
+            
+            const isSelected = selectedOption === drummerId;
+            const isCorrectAnswer = drummerId === question.correctDrummerId;
+            const showFeedback = selectedOption !== null;
+            
+            let optionStyle = [styles.kitQuizOption, { backgroundColor: theme.card, borderColor: theme.border }];
+            if (showFeedback) {
+              if (isCorrectAnswer) {
+                optionStyle = [styles.kitQuizOption, styles.kitQuizOptionCorrect];
+              } else if (isSelected && !isCorrectAnswer) {
+                optionStyle = [styles.kitQuizOption, styles.kitQuizOptionIncorrect];
+              }
+            }
+
+            return (
+              <TouchableOpacity
+                key={drummerId}
+                onPress={() => !selectedOption && handleAnswer(drummerId)}
+                style={optionStyle}
+                disabled={selectedOption !== null}
+                accessibilityRole="button"
+                accessibilityLabel={`${drummer.name} from ${drummer.band}`}
+              >
+                <ImageWithFallback
+                  source={{ uri: drummer.image || PLACEHOLDER_IMAGE }}
+                  style={styles.kitQuizOptionImage}
+                  accessibilityLabel={`${drummer.name} photo`}
+                  width={48}
+                  height={48}
+                  imageContext="thumbnail"
+                />
+                <View style={styles.kitQuizOptionInfo}>
+                  <Text style={[styles.kitQuizOptionName, { color: showFeedback && isCorrectAnswer ? '#fff' : theme.text }]}>{drummer.name}</Text>
+                  <Text style={[styles.kitQuizOptionBand, { color: showFeedback && isCorrectAnswer ? 'rgba(255,255,255,0.8)' : theme.secondaryText }]}>{drummer.band}</Text>
+                </View>
+                {showFeedback && isCorrectAnswer && <Text style={styles.kitQuizOptionCheck}>✓</Text>}
+                {showFeedback && isSelected && !isCorrectAnswer && <Text style={styles.kitQuizOptionX}>✗</Text>}
+              </TouchableOpacity>
+            );
+          })}
+        </View>
+      </View>
+    </ScrollView>
+  );
+}
+
+// ===============================================
 // COMPARE YOUR KIT: User Gear Comparison Tool
 // ===============================================
 
@@ -16952,7 +17301,7 @@ setShowList(false);
           onNavigateToTechniques={handleNavigateToTechniquesIndex}
           onNavigateToDrummers={handleNavigateToDrummers}
           onNavigateToNews={handleNavigateToNews}
-          spotlight={apiSpotlight || getCuratedFeaturedDrummer(drummers)}
+          spotlight={apiSpotlight || getCuratedFeaturedDrummer(drummers, drummerBirthdays())}
           filters={filters}
           onFilterChange={handleFilterChange}
           sortBy={sortBy}

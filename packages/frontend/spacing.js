@@ -38,20 +38,20 @@
 // Core spacing scale (8px grid)
 // NOTE: Metro/Babel converts string number keys like '0' to numeric keys during build.
 // To prevent "Failed to set indexed property [0]" CSS error in react-native-web,
-// we use a helper that creates the object at runtime. (Issue #591, #596, #600)
+// we use a helper that creates the object at runtime with STRING keys. (Issue #591, #596, #600)
 const _spacingValues = [
-  [0, 0],
-  [1, 4],   // Tight: inline elements
-  [2, 8],   // Compact: between related items
-  [3, 12],  // Default: standard gap
-  [4, 16],  // Comfortable: section padding
-  [5, 20],  // Relaxed: (use 24 instead when possible)
-  [6, 24],  // Spacious: between sections
-  [8, 32],  // Large: major section breaks
-  [10, 40], // XL: page sections
-  [12, 48], // XXL: hero padding
+  ['0', 0],
+  ['1', 4],   // Tight: inline elements
+  ['2', 8],   // Compact: between related items
+  ['3', 12],  // Default: standard gap
+  ['4', 16],  // Comfortable: section padding
+  ['5', 20],  // Relaxed: (use 24 instead when possible)
+  ['6', 24],  // Spacious: between sections
+  ['8', 32],  // Large: major section breaks
+  ['10', 40], // XL: page sections
+  ['12', 48], // XXL: hero padding
 ];
-export const spacing = Object.fromEntries(_spacingValues.map(([k, v]) => [String(k), v]));
+export const spacing = Object.fromEntries(_spacingValues);
 
 // Semantic spacing aliases
 export const space = {

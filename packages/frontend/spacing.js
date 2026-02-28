@@ -102,9 +102,13 @@ export function mapToGrid(pixelValue) {
   return 12;
 }
 
+// Build cache buster for issue #600
+export const BUILD_VERSION = '2026-02-28T19:35:00Z';
+
 // Default export for convenient importing
 export default {
   spacing,
   space,
   mapToGrid,
+  BUILD_VERSION,
 };

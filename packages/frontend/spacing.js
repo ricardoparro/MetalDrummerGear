@@ -35,17 +35,19 @@
  */
 
 // Core spacing scale (8px grid)
+// NOTE: Using string keys to avoid Metro bundler issue with numeric object keys
+// that causes "Failed to set indexed property [0]" error in production (Issue #591)
 export const spacing = {
-  0: 0,
-  1: 4,   // Tight: inline elements
-  2: 8,   // Compact: between related items
-  3: 12,  // Default: standard gap
-  4: 16,  // Comfortable: section padding
-  5: 20,  // Relaxed: (use 24 instead when possible)
-  6: 24,  // Spacious: between sections
-  8: 32,  // Large: major section breaks
-  10: 40, // XL: page sections
-  12: 48, // XXL: hero padding
+  '0': 0,
+  '1': 4,   // Tight: inline elements
+  '2': 8,   // Compact: between related items
+  '3': 12,  // Default: standard gap
+  '4': 16,  // Comfortable: section padding
+  '5': 20,  // Relaxed: (use 24 instead when possible)
+  '6': 24,  // Spacious: between sections
+  '8': 32,  // Large: major section breaks
+  '10': 40, // XL: page sections
+  '12': 48, // XXL: hero padding
 };
 
 // Semantic spacing aliases

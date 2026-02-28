@@ -2,7 +2,7 @@
  * Spacing Design System for MetalForge.io
  * 
  * Issue #519: Create spacing tokens using an 8px grid system.
- * Issue #600: Cache bust for production rebuild - 2026-02-28T19:25:00Z
+ * Issue #601: Use string keys to avoid CSS error with react-native-web
  * 
  * 8px Grid Scale:
  * - 0: 0px    - No spacing
@@ -36,22 +36,21 @@
  */
 
 // Core spacing scale (8px grid)
-// NOTE: Metro/Babel converts string number keys like '0' to numeric keys during build.
-// To prevent "Failed to set indexed property [0]" CSS error in react-native-web,
-// we use a helper that creates the object at runtime with STRING keys. (Issue #591, #596, #600)
-const _spacingValues = [
-  ['0', 0],
-  ['1', 4],   // Tight: inline elements
-  ['2', 8],   // Compact: between related items
-  ['3', 12],  // Default: standard gap
-  ['4', 16],  // Comfortable: section padding
-  ['5', 20],  // Relaxed: (use 24 instead when possible)
-  ['6', 24],  // Spacious: between sections
-  ['8', 32],  // Large: major section breaks
-  ['10', 40], // XL: page sections
-  ['12', 48], // XXL: hero padding
-];
-export const spacing = Object.fromEntries(_spacingValues);
+// NOTE: Using string keys to avoid Metro bundler/react-native-web issue with
+// numeric object keys that causes "Failed to set indexed property [0]" error
+// in Playwright and some browsers (Issue #591, #596, #600, #601)
+export const spacing = {
+  '0': 0,
+  '1': 4,   // Tight: inline elements
+  '2': 8,   // Compact: between related items
+  '3': 12,  // Default: standard gap
+  '4': 16,  // Comfortable: section padding
+  '5': 20,  // Relaxed: (use 24 instead when possible)
+  '6': 24,  // Spacious: between sections
+  '8': 32,  // Large: major section breaks
+  '10': 40, // XL: page sections
+  '12': 48, // XXL: hero padding
+};
 
 // Semantic spacing aliases
 export const space = {
@@ -103,13 +102,9 @@ export function mapToGrid(pixelValue) {
   return 12;
 }
 
-// Build cache buster for issue #600
-export const BUILD_VERSION = '2026-02-28T19:35:00Z';
-
 // Default export for convenient importing
 export default {
   spacing,
   space,
   mapToGrid,
-  BUILD_VERSION,
 };

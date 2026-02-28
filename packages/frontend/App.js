@@ -16202,7 +16202,7 @@ setShowList(false);
     setShowTechniquesIndex(false);
     setShowTechniqueDetail(false);
     setTechniqueSlug(null);
-    setShowNews(false);
+    setShowNewsPage(false);
     setShowBpmTap(false);
     setShowBpmRange(false);
     setShowBirthdayCalendar(false);

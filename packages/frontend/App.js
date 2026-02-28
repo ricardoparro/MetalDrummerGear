@@ -2280,10 +2280,9 @@ function SEOHead({ drummer, drummers = [], filters = {} }) {
   
   // Update meta when drummer changes OR when bands module loads
   useEffect(() => {
-    // Only update meta when bands are loaded to include MusicGroup schema
-    if (bandsReady || !drummer) {
-      updateDocumentMeta(drummer, drummers, filters);
-    }
+    // Always update meta - the fallback MusicGroup schema handles cases when bands aren't loaded yet (fix #603, #605)
+    // The bandsReady dependency ensures we re-update once bands load with full data
+    updateDocumentMeta(drummer, drummers, filters);
   }, [drummer, drummers, filters, bandsReady]);
   
   return null;

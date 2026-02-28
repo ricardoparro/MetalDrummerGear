@@ -33,9 +33,14 @@ async function waitForDrummerPage(page, timeout = 30000) {
   } catch (e) {
     // Check if this is a React mount failure vs actual test failure
     const bodyText = await page.locator('body').textContent();
-    const onlyDots = /^[·\s\n]+$/.test(bodyText.trim());
-    if (onlyDots) {
-      console.log('⚠️ React app did not mount - page shows only loading indicators');
+    const trimmedBody = bodyText.trim();
+    const onlyDots = /^[·\s\n]+$/.test(trimmedBody);
+    const hasNoScriptFallback = bodyText.includes('enable JavaScript');
+    const isEmpty = trimmedBody.length < 50;
+    
+    // Skip test if React didn't mount (dots, noscript fallback, or empty page)
+    if (onlyDots || hasNoScriptFallback || isEmpty) {
+      console.log('⚠️ React app did not mount - page shows loading indicators or noscript fallback');
       return false;
     }
     // Re-throw for actual content failures

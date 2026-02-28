@@ -102,6 +102,7 @@ export default function handler(req, res) {
   const today = new Date().toISOString().split('T')[0];
   const urls = [
     { loc: '/', priority: '1.0', changefreq: 'weekly' },
+    { loc: '/kit-quiz', priority: '0.9', changefreq: 'weekly' },
     { loc: '/kit-builder', priority: '0.9', changefreq: 'weekly' },
     { loc: '/gear', priority: '0.9', changefreq: 'weekly' },
     { loc: '/quotes', priority: '0.9', changefreq: 'weekly' },

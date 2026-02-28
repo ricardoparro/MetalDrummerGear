@@ -63,7 +63,9 @@ import {
   getFeaturedDrummer as getCuratedFeaturedDrummer,
   getUpcomingSpotlightBirthdays,
   getFeaturedSchedule,
-  FEATURED_ROTATION
+  getFeaturedHistory,
+  FEATURED_ROTATION,
+  MANUAL_OVERRIDE
 } from './data/featuredDrummer';
 
 // Extended bios for drummer detail pages (Issue #305)
@@ -867,7 +869,7 @@ function BandLinksSection({ bandLinks, bandName, theme }) {
                   e.preventDefault();
                   handleBandPress(band.slug);
                 }}
-                style={styles.textDecor1}
+                style={styles.linkNoDecoration}
                 data-testid={`band-link-${band.slug}`}
               >
                 {cardContent}
@@ -2362,7 +2364,7 @@ function NewsCard({ item, theme }) {
         href={item.link}
         target="_blank"
         rel="noopener noreferrer"
-        style={styles.textDecor1}
+        style={styles.linkNoDecoration}
       >
         <View
           style={[styles.newsCard, { backgroundColor: theme.card, borderColor: theme.border }]}
@@ -2491,7 +2493,7 @@ function DrummerNewsSection({ drummer, theme }) {
             <View style={styles.newsCardContent}>
               <View style={{ height: 14, width: '90%', backgroundColor: theme.border, borderRadius: 4, marginBottom: 6 }} />
               <View style={{ height: 12, width: '70%', backgroundColor: theme.border, borderRadius: 4, marginBottom: 6 }} />
-              <View style={styles.rowLayout1}>
+              <View style={styles.flexRow}>
                 <View style={{ height: 10, width: 60, backgroundColor: theme.border, borderRadius: 4, marginRight: 8 }} />
                 <View style={{ height: 10, width: 40, backgroundColor: theme.border, borderRadius: 4 }} />
               </View>
@@ -3505,7 +3507,7 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
           ) : (
             <TouchableOpacity
               onPress={() => onNavigateToBio && onNavigateToBio(drummerSlug)}
-              style={styles.marginSpacing2}
+              style={styles.mt3}
               accessibilityRole="link"
               accessibilityLabel={`Read extended biography of ${drummer.name}`}
             >
@@ -3635,7 +3637,7 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
       {/* Last Updated Timestamp - Issue #449 */}
       <View style={[styles.lastUpdatedContainer, { borderTopColor: theme.border }]}>
         {Platform.OS === 'web' ? (
-          <time dateTime="2026-02-17" style={{ color: theme.secondaryText, fontSize: 12 }}>
+          <time dateTime="2026-02-17" style={[styles.textXs, { color: theme.secondaryText }]}>
             Last updated: February 17, 2026
           </time>
         ) : (
@@ -8498,11 +8500,11 @@ function GearCategoryPage({ category, categoryData, loading, theme, onBack, onSe
 
         {/* Brand filters */}
         {brands.length > 0 && (
-          <View style={styles.marginSpacing3}>
+          <View style={styles.mb6}>
             <Text style={[{ fontSize: 14, fontWeight: '600', marginBottom: 8 }, { color: theme.text }]}>
               Filter by Brand:
             </Text>
-            <View style={styles.rowLayout4}>
+            <View style={[styles.flexRowWrap, styles.gap2]}>
               {brands.map(brand => (
                 <TouchableOpacity
                   key={brand}
@@ -8813,9 +8815,9 @@ function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavi
 
         {/* Genre Header */}
         <View style={[styles.genreHeader, { marginBottom: 24 }]}>
-          <View style={styles.rowLayout5}>
-            <Text style={styles.emojiText2}>{genre.icon}</Text>
-            <View style={styles.flexOne1}>
+          <View style={[styles.flexRow, styles.mb2]}>
+            <Text style={{ fontSize: 40, marginRight: 12 }}>{genre.icon}</Text>
+            <View style={styles.flex1}>
               <Text style={[styles.bandPageTitle, { color: theme.text, marginBottom: 0 }]}>
                 {genre.name}
               </Text>
@@ -8845,7 +8847,7 @@ function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavi
         {genre.pioneers && genre.pioneers.length > 0 && (
           <View style={[styles.genreSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
             <Text style={[styles.sectionTitle, { color: theme.text }]}>Genre Pioneers</Text>
-            <View style={styles.rowLayout4}>
+            <View style={[styles.flexRowWrap, styles.gap2]}>
               {genre.pioneers.map((pioneer, index) => {
                 // Find if pioneer is in our drummers list
                 const drummerData = drummers.find(d => 
@@ -8919,7 +8921,7 @@ function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavi
                     <Text style={[styles.drummerName, { color: theme.text, fontSize: 16 }]}>
                       {drummer.name}
                     </Text>
-                    <Text style={{ color: theme.secondaryText, fontSize: 14 }}>
+                    <Text style={[styles.textSm, { color: theme.secondaryText }]}>
                       {drummer.band}
                     </Text>
                   </View>
@@ -8951,7 +8953,7 @@ function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavi
         {relatedGenres.length > 0 && (
           <View style={[styles.genreSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
             <Text style={[styles.sectionTitle, { color: theme.text }]}>Related Genres</Text>
-            <View style={styles.rowLayout4}>
+            <View style={[styles.flexRowWrap, styles.gap2]}>
               {relatedGenres.map((related) => (
                 <TouchableOpacity
                   key={related.slug}
@@ -9071,13 +9073,13 @@ function GenresListPage({ onBack, onSelectGenre, theme }) {
               accessibilityRole="button"
               accessibilityLabel={`Explore ${genre.name}`}
             >
-              <View style={styles.rowLayout5}>
-                <Text style={styles.emojiText3}>{genre.icon}</Text>
+              <View style={[styles.flexRow, styles.mb2]}>
+                <Text style={{ fontSize: 28, marginRight: 10 }}>{genre.icon}</Text>
                 <Text style={[styles.genreCardTitle, { color: theme.text, flex: 1 }]}>
                   {genre.name}
                 </Text>
               </View>
-              <Text style={{ color: theme.secondaryText, fontSize: 14, lineHeight: 20 }} numberOfLines={3}>
+              <Text style={[styles.textSm, styles.lineHeightSm, { color: theme.secondaryText }]} numberOfLines={3}>
                 {genre.description}
               </Text>
               <View style={styles.rowLayout6}>
@@ -9194,8 +9196,8 @@ function GearComparisonsIndexPage({ theme, onBack, onSelectComparison }) {
           if (comparisons.length === 0) return null;
 
           return (
-            <View key={category} style={styles.marginSpacing5}>
-              <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>
+            <View key={category} style={styles.mb8}>
+              <Text style={[styles.sectionHeaderXl, { color: theme.text }]}>
                 {categoryLabels[category]}
               </Text>
               <View style={{ 
@@ -9220,8 +9222,8 @@ function GearComparisonsIndexPage({ theme, onBack, onSelectComparison }) {
                     accessibilityRole="button"
                     accessibilityLabel={`Compare ${comparison.title}`}
                   >
-                    <View style={styles.rowLayout7}>
-                      <View style={styles.rowLayout8}>
+                    <View style={[styles.flexRow, styles.mb3]}>
+                      <View style={[styles.flexRow, styles.gap2]}>
                         <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text }}>
                           {comparison.items[0].brand}
                         </Text>
@@ -9234,7 +9236,7 @@ function GearComparisonsIndexPage({ theme, onBack, onSelectComparison }) {
                     <Text style={{ color: theme.secondaryText, fontSize: 14, marginBottom: 8 }}>
                       {comparison.items[0].model} vs {comparison.items[1].model}
                     </Text>
-                    <View style={styles.rowLayout9}>
+                    <View style={[styles.flexRow, styles.mt2]}>
                       <Text style={{ color: theme.primary, fontWeight: '600', fontSize: 14 }}>
                         Compare →
                       </Text>
@@ -9251,7 +9253,7 @@ function GearComparisonsIndexPage({ theme, onBack, onSelectComparison }) {
           <Text style={{ fontSize: 16, fontWeight: '600', color: theme.text, marginBottom: 8 }}>
             🎯 Finding the Right Gear
           </Text>
-          <Text style={{ color: theme.secondaryText, fontSize: 14, lineHeight: 22 }}>
+          <Text style={[styles.textSm, styles.lineHeightSm, { color: theme.secondaryText }]}>
             Our gear comparisons are designed to help metal drummers make informed decisions. We compare specs, pricing, durability, and most importantly—which pro metal drummers use each piece of equipment. Whether you're choosing between Tama and Pearl drums, Meinl and Zildjian cymbals, or Iron Cobra and Demon Drive pedals, we've got you covered.
           </Text>
         </View>
@@ -9368,7 +9370,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
         </TouchableOpacity>
 
         {/* Header */}
-        <View style={styles.centeredLayout3}>
+        <View style={[styles.alignCenter, styles.mb6]}>
           <Text style={{ fontSize: 14, color: theme.secondaryText, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>
             Gear Comparison
           </Text>
@@ -9404,11 +9406,11 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
                 {item1.priceRange}
               </Text>
             </View>
-            <View style={styles.rowLayout7}>
-              <Text style={styles.marginSpacing6}>
+            <View style={[styles.flexRow, styles.mb3]}>
+              <Text style={{ color: '#fbbf24', fontSize: 16, marginRight: 8 }}>
                 {renderRating(item1.rating)}
               </Text>
-              <Text style={{ color: theme.secondaryText, fontSize: 14 }}>
+              <Text style={[styles.textSm, { color: theme.secondaryText }]}>
                 {item1.rating}/5
               </Text>
             </View>
@@ -9455,11 +9457,11 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
                 {item2.priceRange}
               </Text>
             </View>
-            <View style={styles.rowLayout7}>
-              <Text style={styles.marginSpacing6}>
+            <View style={[styles.flexRow, styles.mb3]}>
+              <Text style={{ color: '#fbbf24', fontSize: 16, marginRight: 8 }}>
                 {renderRating(item2.rating)}
               </Text>
-              <Text style={{ color: theme.secondaryText, fontSize: 14 }}>
+              <Text style={[styles.textSm, { color: theme.secondaryText }]}>
                 {item2.rating}/5
               </Text>
             </View>
@@ -9470,8 +9472,8 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
         </View>
 
         {/* Pros & Cons Comparison */}
-        <View style={styles.marginSpacing3}>
-          <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>
+        <View style={styles.mb6}>
+          <Text style={[styles.sectionHeaderXl, { color: theme.text }]}>
             ⚖️ Pros & Cons
           </Text>
           <View style={{ flexDirection: isMobile ? 'column' : 'row', gap: 16 }}>
@@ -9515,8 +9517,8 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
         </View>
 
         {/* Specs Comparison Table */}
-        <View style={{ marginBottom: 24, backgroundColor: theme.card, borderRadius: 12, padding: 16, borderColor: theme.border, borderWidth: 1 }}>
-          <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>
+        <View style={[styles.contentCardMd, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.sectionHeaderXl, { color: theme.text }]}>
             📊 Specifications
           </Text>
           <View style={{ borderTopWidth: 1, borderColor: theme.border }}>
@@ -9549,16 +9551,16 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
         </View>
 
         {/* Head-to-Head Comparison */}
-        <View style={{ marginBottom: 24, backgroundColor: theme.card, borderRadius: 12, padding: 16, borderColor: theme.border, borderWidth: 1 }}>
-          <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>
+        <View style={[styles.contentCardMd, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.sectionHeaderXl, { color: theme.text }]}>
             🎯 Head-to-Head
           </Text>
           {Object.entries(comparison.comparison).map(([key, value]) => (
-            <View key={key} style={styles.marginSpacing7}>
+            <View key={key} style={styles.mb4}>
               <Text style={{ color: theme.text, fontWeight: '600', fontSize: 15, marginBottom: 6, textTransform: 'capitalize' }}>
                 {key === 'forMetal' ? '🤘 For Metal' : `${key.charAt(0).toUpperCase() + key.slice(1)}`}
               </Text>
-              <Text style={{ color: theme.secondaryText, fontSize: 14, lineHeight: 22 }}>
+              <Text style={[styles.textSm, styles.lineHeightSm, { color: theme.secondaryText }]}>
                 {value}
               </Text>
             </View>
@@ -9566,8 +9568,8 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
         </View>
 
         {/* Pro Endorsements */}
-        <View style={styles.marginSpacing3}>
-          <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>
+        <View style={styles.mb6}>
+          <Text style={[styles.sectionHeaderXl, { color: theme.text }]}>
             🎸 Pro Endorsements
           </Text>
           <View style={{ flexDirection: isMobile ? 'column' : 'row', gap: 16 }}>
@@ -9576,7 +9578,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
               <Text style={{ fontSize: 16, fontWeight: '600', color: theme.text, marginBottom: 12 }}>
                 {item1.brand} Users
               </Text>
-              <View style={styles.rowLayout4}>
+              <View style={[styles.flexRowWrap, styles.gap2]}>
                 {item1.usedBy.map((name, i) => {
                   const drummer = findDrummerByName(name);
                   return (
@@ -9604,7 +9606,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
               <Text style={{ fontSize: 16, fontWeight: '600', color: theme.text, marginBottom: 12 }}>
                 {item2.brand} Users
               </Text>
-              <View style={styles.rowLayout4}>
+              <View style={[styles.flexRowWrap, styles.gap2]}>
                 {item2.usedBy.map((name, i) => {
                   const drummer = findDrummerByName(name);
                   return (
@@ -9764,7 +9766,7 @@ function DrummerVsIndexPage({ theme, onBack, onSelectComparison, onSelectDrummer
         </View>
 
         {/* Comparison Cards */}
-        <View style={styles.gappedLayout2}>
+        <View style={styles.gap4}>
           {allComparisons.map((comparison) => {
             const drummer1 = findDrummerBySlug(comparison.drummers[0]);
             const drummer2 = findDrummerBySlug(comparison.drummers[1]);
@@ -9847,7 +9849,7 @@ function DrummerVsIndexPage({ theme, onBack, onSelectComparison, onSelectDrummer
 
                 {/* Footer */}
                 <View style={{ padding: 12, borderTopWidth: 1, borderColor: theme.border, flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center' }}>
-                  <Text style={{ color: theme.secondaryText, fontSize: 12 }}>
+                  <Text style={[styles.textXs, { color: theme.secondaryText }]}>
                     {getCategoryLabel(comparison.category)}
                   </Text>
                   <Text style={{ color: theme.primary, fontWeight: '600', fontSize: 13 }}>
@@ -10076,7 +10078,7 @@ function DrummerVsPage({ comparisonSlug, theme, onBack, onSelectDrummer, drummer
         </TouchableOpacity>
 
         {/* Header */}
-        <View style={styles.centeredLayout3}>
+        <View style={[styles.alignCenter, styles.mb6]}>
           <Text style={{ fontSize: 14, color: theme.secondaryText, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>⚔️ Drummer Showdown</Text>
           <Text style={[styles.bandPageTitle, { color: theme.text, textAlign: 'center' }]}>{comparison.title}</Text>
         </View>
@@ -10113,7 +10115,7 @@ function DrummerVsPage({ comparisonSlug, theme, onBack, onSelectDrummer, drummer
         {/* Community Vote Widget */}
         <View style={{ marginBottom: 24, backgroundColor: theme.card, borderRadius: 12, padding: 20, borderColor: theme.border, borderWidth: 1 }}>
           <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16, textAlign: 'center' }}>🗳️ Who's Your Favorite?</Text>
-          <View style={styles.rowLayout10}>
+          <View style={[styles.flexRow, styles.gap3, styles.mb4]}>
             <TouchableOpacity style={{ flex: 1, backgroundColor: vote === 'drummer1' ? theme.primary : theme.background, padding: 16, borderRadius: 8, borderWidth: 2, borderColor: theme.primary, alignItems: 'center', opacity: hasVoted && vote !== 'drummer1' ? 0.6 : 1 }} onPress={() => handleVote('drummer1')} disabled={hasVoted}>
               <Text style={{ color: theme.text, fontWeight: '600', fontSize: 14 }}>{drummer1?.name || 'Drummer 1'}</Text>
             </TouchableOpacity>
@@ -10127,9 +10129,9 @@ function DrummerVsPage({ comparisonSlug, theme, onBack, onSelectDrummer, drummer
                 <View style={{ flex: drummer1Percent, backgroundColor: theme.primary }} />
                 <View style={{ flex: drummer2Percent, backgroundColor: '#3b82f6' }} />
               </View>
-              <View style={styles.rowLayout12}>
+              <View style={styles.flexRowBetween}>
                 <Text style={{ color: theme.text, fontSize: 14 }}>{drummer1Percent}%</Text>
-                <Text style={{ color: theme.secondaryText, fontSize: 13 }}>{totalVotes} votes</Text>
+                <Text style={[styles.textSm, { color: theme.secondaryText }]}>{totalVotes} votes</Text>
                 <Text style={{ color: theme.text, fontSize: 14 }}>{drummer2Percent}%</Text>
               </View>
             </View>
@@ -10139,8 +10141,8 @@ function DrummerVsPage({ comparisonSlug, theme, onBack, onSelectDrummer, drummer
 
         {/* Gear Comparison */}
         {(drummer1?.gear || drummer2?.gear) && (
-          <View style={{ marginBottom: 24, backgroundColor: theme.card, borderRadius: 12, padding: 16, borderColor: theme.border, borderWidth: 1 }}>
-            <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>🥁 Gear Comparison</Text>
+          <View style={[styles.contentCardMd, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.sectionHeaderXl, { color: theme.text }]}>🥁 Gear Comparison</Text>
             <View style={{ borderTopWidth: 1, borderColor: theme.border }}>
               <View style={{ flexDirection: 'row', backgroundColor: theme.background, paddingVertical: 12, paddingHorizontal: 8 }}>
                 <Text style={{ flex: 1, fontWeight: '600', color: theme.text, fontSize: 14 }}>Gear</Text>
@@ -10159,14 +10161,14 @@ function DrummerVsPage({ comparisonSlug, theme, onBack, onSelectDrummer, drummer
         )}
 
         {/* Head-to-Head Analysis */}
-        <View style={{ marginBottom: 24, backgroundColor: theme.card, borderRadius: 12, padding: 16, borderColor: theme.border, borderWidth: 1 }}>
-          <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>🎯 Head-to-Head</Text>
+        <View style={[styles.contentCardMd, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.sectionHeaderXl, { color: theme.text }]}>🎯 Head-to-Head</Text>
           {Object.entries(comparison.comparison).map(([key, value]) => (
-            <View key={key} style={styles.marginSpacing7}>
+            <View key={key} style={styles.mb4}>
               <Text style={{ color: theme.text, fontWeight: '600', fontSize: 15, marginBottom: 6, textTransform: 'capitalize' }}>
                 {key === 'forMetal' ? '🤘 For Metal' : key === 'style' ? '🎨 Style' : key === 'technique' ? '⚡ Technique' : key === 'gear' ? '🥁 Gear' : key === 'influence' ? '🌟 Influence' : key}
               </Text>
-              <Text style={{ color: theme.secondaryText, fontSize: 14, lineHeight: 22 }}>{value}</Text>
+              <Text style={[styles.textSm, styles.lineHeightSm, { color: theme.secondaryText }]}>{value}</Text>
             </View>
           ))}
         </View>
@@ -10371,7 +10373,7 @@ function TechniquesIndexPage({ theme, onBack, onSelectTechnique, onSelectDrummer
           const categoryInfo = TECHNIQUE_CATEGORIES[category];
 
           return (
-            <View key={category} style={styles.marginSpacing5}>
+            <View key={category} style={styles.mb8}>
               <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 8 }}>
                 {categoryInfo?.emoji} {categoryInfo?.label || category}
               </Text>
@@ -10400,8 +10402,8 @@ function TechniquesIndexPage({ theme, onBack, onSelectTechnique, onSelectDrummer
                     accessibilityRole="button"
                     accessibilityLabel={`Learn ${technique.title} technique`}
                   >
-                    <View style={styles.rowLayout13}>
-                      <Text style={styles.inlineStyle3}>{technique.emoji}</Text>
+                    <View style={{ flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', marginBottom: 8 }}>
+                      <Text style={styles.textXl}>{technique.emoji}</Text>
                       <View style={{ 
                         backgroundColor: getDifficultyColor(technique.difficulty) + '20',
                         paddingHorizontal: 8,
@@ -10423,8 +10425,8 @@ function TechniquesIndexPage({ theme, onBack, onSelectTechnique, onSelectDrummer
                     <Text style={{ color: theme.secondaryText, fontSize: 14, marginBottom: 8 }} numberOfLines={2}>
                       {technique.description.substring(0, 100)}...
                     </Text>
-                    <View style={styles.rowLayout14}>
-                      <Text style={{ color: theme.secondaryText, fontSize: 12 }}>
+                    <View style={{ flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', marginTop: 8 }}>
+                      <Text style={[styles.textXs, { color: theme.secondaryText }]}>
                         ⚡ {technique.bpmRange} BPM
                       </Text>
                       <Text style={{ color: theme.primary, fontWeight: '600', fontSize: 14 }}>
@@ -10443,7 +10445,7 @@ function TechniquesIndexPage({ theme, onBack, onSelectTechnique, onSelectDrummer
           <Text style={{ fontSize: 16, fontWeight: '600', color: theme.text, marginBottom: 8 }}>
             🎯 Mastering Metal Drumming
           </Text>
-          <Text style={{ color: theme.secondaryText, fontSize: 14, lineHeight: 22 }}>
+          <Text style={[styles.textSm, styles.lineHeightSm, { color: theme.secondaryText }]}>
             Whether you're learning blast beats for death metal, mastering double bass for thrash, or exploring polyrhythms for progressive metal, these techniques will take your drumming to the next level. Each guide includes history, learning tips, gear recommendations, and examples from the masters of the technique.
           </Text>
         </View>
@@ -10543,10 +10545,10 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
         </TouchableOpacity>
 
         {/* Header */}
-        <View style={styles.marginSpacing3}>
-          <View style={styles.rowLayout15}>
-            <Text style={styles.emojiText5}>{technique.emoji}</Text>
-            <View style={styles.flexOne1}>
+        <View style={styles.mb6}>
+          <View style={{ flexDirection: 'row', alignItems: 'center', marginBottom: 12, flexWrap: 'wrap', gap: 12 }}>
+            <Text style={styles.loadingEmojiLg}>{technique.emoji}</Text>
+            <View style={styles.flex1}>
               <Text style={[styles.bandPageTitle, { color: theme.text, marginBottom: 4 }]}>{technique.title}</Text>
               <View style={styles.rowLayout16}>
                 <View style={{ 
@@ -10563,10 +10565,10 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
                     {getDifficultyLabel(technique.difficulty)}
                   </Text>
                 </View>
-                <Text style={{ color: theme.secondaryText, fontSize: 14 }}>
+                <Text style={[styles.textSm, { color: theme.secondaryText }]}>
                   ⚡ {technique.bpmRange} BPM
                 </Text>
-                <Text style={{ color: theme.secondaryText, fontSize: 14 }}>
+                <Text style={[styles.textSm, { color: theme.secondaryText }]}>
                   📁 {TECHNIQUE_CATEGORIES[technique.category]?.label}
                 </Text>
               </View>
@@ -10578,8 +10580,8 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
         </View>
 
         {/* History & Origins */}
-        <View style={{ backgroundColor: theme.card, borderRadius: 12, padding: 20, marginBottom: 24, borderColor: theme.border, borderWidth: 1 }}>
-          <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>
+        <View style={[styles.contentCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.sectionHeaderLg, { color: theme.text }]}>
             📜 History & Origins
           </Text>
           <Text style={{ color: theme.secondaryText, fontSize: 15, lineHeight: 24 }}>
@@ -10588,12 +10590,12 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
         </View>
 
         {/* How to Learn */}
-        <View style={{ backgroundColor: theme.card, borderRadius: 12, padding: 20, marginBottom: 24, borderColor: theme.border, borderWidth: 1 }}>
-          <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>
+        <View style={[styles.contentCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.sectionHeaderLg, { color: theme.text }]}>
             📚 How to Learn
           </Text>
           {technique.howToLearn.map((step, index) => (
-            <View key={index} style={styles.rowLayout17}>
+            <View key={index} style={[styles.flexRow, styles.mb3]}>
               <View style={{ 
                 width: 24, 
                 height: 24, 
@@ -10615,8 +10617,8 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
 
         {/* Variations */}
         {technique.variations && technique.variations.length > 0 && (
-          <View style={{ backgroundColor: theme.card, borderRadius: 12, padding: 20, marginBottom: 24, borderColor: theme.border, borderWidth: 1 }}>
-            <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>
+          <View style={[styles.contentCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.sectionHeaderLg, { color: theme.text }]}>
               🔀 Variations
             </Text>
             {technique.variations.map((variation, index) => (
@@ -10624,7 +10626,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
                 <Text style={{ color: theme.text, fontWeight: '600', fontSize: 15, marginBottom: 4 }}>
                   {variation.name}
                 </Text>
-                <Text style={{ color: theme.secondaryText, fontSize: 14, lineHeight: 20 }}>
+                <Text style={[styles.textSm, styles.lineHeightSm, { color: theme.secondaryText }]}>
                   {variation.description}
                 </Text>
               </View>
@@ -10634,11 +10636,11 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
 
         {/* Masters of This Technique */}
         {technique.masters && technique.masters.length > 0 && (
-          <View style={{ backgroundColor: theme.card, borderRadius: 12, padding: 20, marginBottom: 24, borderColor: theme.border, borderWidth: 1 }}>
-            <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>
+          <View style={[styles.contentCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.sectionHeaderLg, { color: theme.text }]}>
               🏆 Masters of This Technique
             </Text>
-            <View style={styles.rowLayout18}>
+            <View style={[styles.flexRowWrap, styles.gap3]}>
               {technique.masters.map((master, index) => {
                 const drummerProfile = findDrummerProfile(master.slug);
                 const isClickable = drummerProfile !== null;
@@ -10660,12 +10662,12 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
                     accessibilityRole={isClickable ? 'link' : 'text'}
                     accessibilityLabel={isClickable ? `View ${master.name}'s profile` : master.name}
                   >
-                    <View style={styles.rowLayout19}>
-                      <View style={styles.flexOne1}>
+                    <View style={styles.flexRowBetween}>
+                      <View style={styles.flex1}>
                         <Text style={{ color: theme.text, fontWeight: '600', fontSize: 15 }}>
                           {master.name}
                         </Text>
-                        <Text style={{ color: theme.secondaryText, fontSize: 13 }}>
+                        <Text style={[styles.textSm, { color: theme.secondaryText }]}>
                           {master.band}
                         </Text>
                         {master.note && (
@@ -10687,8 +10689,8 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
 
         {/* Gear Recommendations */}
         {technique.gearRecommendations && (
-          <View style={{ backgroundColor: theme.card, borderRadius: 12, padding: 20, marginBottom: 24, borderColor: theme.border, borderWidth: 1 }}>
-            <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>
+          <View style={[styles.contentCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.sectionHeaderLg, { color: theme.text }]}>
               🛠️ Gear Recommendations
             </Text>
             {Object.entries(technique.gearRecommendations).map(([category, items]) => {
@@ -10711,7 +10713,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
               };
 
               return (
-                <View key={category} style={styles.marginSpacing7}>
+                <View key={category} style={styles.mb4}>
                   <Text style={{ color: theme.text, fontWeight: '600', fontSize: 15, marginBottom: 8, textTransform: 'capitalize' }}>
                     {categoryEmojis[category] || '•'} {category}
                   </Text>
@@ -10738,7 +10740,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
                 <Text style={{ color: theme.text, fontWeight: '600', marginBottom: 4 }}>
                   💡 Pro Tip
                 </Text>
-                <Text style={{ color: theme.secondaryText, fontSize: 14, lineHeight: 20 }}>
+                <Text style={[styles.textSm, styles.lineHeightSm, { color: theme.secondaryText }]}>
                   {technique.gearRecommendations.tips}
                 </Text>
               </View>
@@ -10748,11 +10750,11 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
 
         {/* Related Techniques */}
         {relatedTechniques && relatedTechniques.length > 0 && (
-          <View style={{ backgroundColor: theme.card, borderRadius: 12, padding: 20, marginBottom: 24, borderColor: theme.border, borderWidth: 1 }}>
-            <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>
+          <View style={[styles.contentCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.sectionHeaderLg, { color: theme.text }]}>
               🔗 Related Techniques
             </Text>
-            <View style={styles.rowLayout18}>
+            <View style={[styles.flexRowWrap, styles.gap3]}>
               {relatedTechniques.map(related => (
                 <TouchableOpacity
                   key={related.slug}
@@ -10775,7 +10777,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
                     <Text style={{ color: theme.text, fontWeight: '600', fontSize: 14 }}>
                       {related.title}
                     </Text>
-                    <Text style={{ color: theme.secondaryText, fontSize: 12 }}>
+                    <Text style={[styles.textXs, { color: theme.secondaryText }]}>
                       {getDifficultyLevels()[related.difficulty]?.label}
                     </Text>
                   </View>
@@ -11016,7 +11018,7 @@ function NewsSkeleton({ count = 5 }) {
   const { theme } = useTheme();
   
   return (
-    <View style={styles.gappedLayout3}>
+    <View style={styles.gap4}>
       {Array.from({ length: count }).map((_, index) => (
         <View 
           key={index} 
@@ -11030,7 +11032,7 @@ function NewsSkeleton({ count = 5 }) {
             <View style={{ height: 20, width: '80%', backgroundColor: theme.border, borderRadius: 4 }} />
             <View style={{ height: 14, width: '100%', backgroundColor: theme.border, borderRadius: 4 }} />
             <View style={{ height: 14, width: '60%', backgroundColor: theme.border, borderRadius: 4 }} />
-            <View style={styles.rowLayout20}>
+            <View style={[styles.flexRow, styles.gap2, styles.mt2]}>
               <View style={{ height: 24, width: 80, backgroundColor: theme.border, borderRadius: 12 }} />
               <View style={{ height: 24, width: 80, backgroundColor: theme.border, borderRadius: 12 }} />
             </View>
@@ -11286,7 +11288,7 @@ function NewsPage({ theme, onBack, onNavigateToDrummer, onNavigateToBand }) {
             </Text>
           </View>
         ) : (
-          <View style={styles.gappedLayout3}>
+          <View style={styles.gap4}>
             {news.map(item => (
               <NewsCardLarge
                 key={item.id}
@@ -11526,7 +11528,7 @@ function DrummersPage({
         </TouchableOpacity>
 
         {/* Page Header */}
-        <View style={styles.marginSpacing3}>
+        <View style={styles.mb6}>
           <Text style={[styles.quotesPageTitle, { color: theme.text }]} accessibilityRole="header">
             🥁 All Drummers
           </Text>
@@ -11582,7 +11584,7 @@ function DrummersPage({
         />
 
         {/* Results count */}
-        <View style={styles.marginSpacing8}>
+        <View style={styles.my4}>
           <Text style={[styles.filterResultCount, { color: theme.secondaryText }]}>
             {filteredDrummers.length === drummers.length 
               ? `Showing ${drummers.length} drummers` 
@@ -11916,7 +11918,7 @@ function DrummerList({
       </TouchableOpacity>
       <View style={[styles.lastUpdatedContainer, { borderTopColor: theme.border }]}>
         {Platform.OS === 'web' ? (
-          <time dateTime="2026-02-17" style={{ color: theme.secondaryText, fontSize: 12 }}>
+          <time dateTime="2026-02-17" style={[styles.textXs, { color: theme.secondaryText }]}>
             Last updated: February 17, 2026
           </time>
         ) : (
@@ -13137,6 +13139,7 @@ function updateGearComparisonMeta(comparison) {
 // Check if we're on a drummer comparison page (/vs/:slug-vs-slug)
 function isDrummerComparisonPage() {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+
   return /^\/vs\/[a-z0-9-]+-vs-[a-z0-9-]+$/i.test(window.location.pathname);
 }
 
@@ -13187,6 +13190,7 @@ function updateDrummerVsMeta(comparison, drummer1, drummer2) {
     setMeta('twitter:title', comparison.metaTitle);
     setMeta('twitter:description', comparison.metaDescription);
 
+
     let canonicalLink = document.querySelector('link[rel="canonical"]');
     if (!canonicalLink) {
       canonicalLink = document.createElement('link');
@@ -13194,6 +13198,7 @@ function updateDrummerVsMeta(comparison, drummer1, drummer2) {
       document.head.appendChild(canonicalLink);
     }
     canonicalLink.setAttribute('href', `https://metalforge.io/vs/${comparison.slug}`);
+
 
     let ldScript = document.querySelector('script[data-schema="drummer-comparison"]');
     if (!ldScript) {
@@ -13210,13 +13215,62 @@ function updateDrummerVsMeta(comparison, drummer1, drummer2) {
       "description": comparison.metaDescription,
       "url": `https://metalforge.io/vs/${comparison.slug}`,
       "about": [
-        { "@type": "Person", "name": drummer1.name, "jobTitle": "Drummer", "worksFor": { "@type": "MusicGroup", "name": drummer1.band } },
-        { "@type": "Person", "name": drummer2.name, "jobTitle": "Drummer", "worksFor": { "@type": "MusicGroup", "name": drummer2.band } }
+        {
+          "@type": "Person",
+          "name": drummer1.name,
+          "description": drummer1.bio?.substring(0, 200) || `${drummer1.name} - ${drummer1.band}`,
+          "jobTitle": "Drummer",
+          "worksFor": {
+            "@type": "MusicGroup",
+            "name": drummer1.band
+          }
+        },
+        {
+          "@type": "Person",
+          "name": drummer2.name,
+          "description": drummer2.bio?.substring(0, 200) || `${drummer2.name} - ${drummer2.band}`,
+          "jobTitle": "Drummer",
+          "worksFor": {
+            "@type": "MusicGroup",
+            "name": drummer2.band
+          }
+        }
       ],
-      "isPartOf": { "@type": "WebSite", "name": "MetalForge", "url": "https://metalforge.io" }
+      "mainEntity": {
+        "@type": "ItemList",
+        "name": comparison.title,
+        "description": `Side-by-side comparison of ${drummer1.name} and ${drummer2.name}`,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Person",
+              "name": drummer1.name,
+              "url": `https://metalforge.io/drummer/${drummer1.name.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Person",
+              "name": drummer2.name,
+              "url": `https://metalforge.io/drummer/${drummer2.name.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`
+            }
+          }
+        ]
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "MetalForge",
+        "url": "https://metalforge.io"
+      }
     };
+
     ldScript.textContent = JSON.stringify(comparisonSchema);
 
+    // BreadcrumbList Schema
     let breadcrumbScript = document.querySelector('script[data-schema="drummer-comparison-breadcrumb"]');
     if (!breadcrumbScript) {
       breadcrumbScript = document.createElement('script');
@@ -13247,6 +13301,7 @@ function updateDrummerVsMeta(comparison, drummer1, drummer2) {
     setMeta('twitter:title', title);
     setMeta('twitter:description', description);
 
+
     let canonicalLink = document.querySelector('link[rel="canonical"]');
     if (!canonicalLink) {
       canonicalLink = document.createElement('link');
@@ -13254,6 +13309,7 @@ function updateDrummerVsMeta(comparison, drummer1, drummer2) {
       document.head.appendChild(canonicalLink);
     }
     canonicalLink.setAttribute('href', 'https://metalforge.io/vs');
+
 
     let ldScript = document.querySelector('script[data-schema="drummer-comparison"]');
     if (!ldScript) {
@@ -13273,12 +13329,22 @@ function updateDrummerVsMeta(comparison, drummer1, drummer2) {
         "@type": "ItemList",
         "name": "Metal Drummer Comparisons",
         "numberOfItems": allComparisons.length,
-        "itemListElement": allComparisons.map((c, i) => ({
-          "@type": "ListItem", "position": i + 1,
-          "item": { "@type": "Article", "name": c.title, "url": `https://metalforge.io/vs/${c.slug}` }
+        "itemListElement": allComparisons.map((c, index) => ({
+          "@type": "ListItem",
+          "position": index + 1,
+          "item": {
+            "@type": "Article",
+            "name": c.title,
+            "url": `https://metalforge.io/vs/${c.slug}`,
+            "description": c.metaDescription
+          }
         }))
       },
-      "isPartOf": { "@type": "WebSite", "name": "MetalForge", "url": "https://metalforge.io" }
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "MetalForge",
+        "url": "https://metalforge.io"
+      }
     };
     ldScript.textContent = JSON.stringify(indexSchema);
   }
@@ -14176,6 +14242,353 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
             </Text>
           </TouchableOpacity>
         )}
+      </View>
+    </ScrollView>
+  );
+}
+
+// ===============================================
+// KIT QUIZ: "Guess the Drummer by Kit" Viral Quiz (Issue #551)
+// ===============================================
+
+// Kit Quiz View Component - Shows gear setup, users guess the drummer
+function KitQuizView({ theme, onBack, drummers, onSelectDrummer }) {
+  const { width } = useWindowDimensions();
+  const [currentQuestion, setCurrentQuestion] = useState(0);
+  const [answers, setAnswers] = useState([]);
+  const [showResults, setShowResults] = useState(false);
+  const [results, setResults] = useState(null);
+  const [selectedOption, setSelectedOption] = useState(null);
+  const [showHint, setShowHint] = useState(false);
+  const [kitQuizDataLoaded, setKitQuizDataLoaded] = useState(false);
+  const [quizQuestions, setQuizQuestions] = useState([]);
+  const [shuffledOptions, setShuffledOptions] = useState([]);
+  const [quizStarted, setQuizStarted] = useState(false);
+
+  // Load kit quiz data on mount (lazy loading)
+  useEffect(() => {
+    loadKitQuizData().then(module => {
+      _kitQuizDataModule = module;
+      setQuizQuestions(module.KIT_QUIZ_QUESTIONS);
+      const shuffled = module.KIT_QUIZ_QUESTIONS.map(q => 
+        module.shuffleArray ? module.shuffleArray(q.options) : q.options
+      );
+      setShuffledOptions(shuffled);
+      setKitQuizDataLoaded(true);
+    });
+  }, []);
+
+  // Check for shared result in URL on mount
+  useEffect(() => {
+    if (kitQuizDataLoaded) {
+      const urlResult = getKitQuizResultFromURL();
+      if (urlResult && urlResult.correct !== null && urlResult.total !== null) {
+        setResults({
+          correct: urlResult.correct,
+          total: urlResult.total,
+          percentage: Math.round((urlResult.correct / urlResult.total) * 100),
+          score: urlResult.score || urlResult.correct * 10,
+        });
+        setShowResults(true);
+      } else {
+        updateKitQuizMeta(null);
+      }
+    }
+  }, [kitQuizDataLoaded]);
+
+  const progress = quizQuestions.length > 0 ? ((currentQuestion + 1) / quizQuestions.length) * 100 : 0;
+
+  const handleStartQuiz = () => {
+    setQuizStarted(true);
+    trackKitQuizStart();
+  };
+
+  const handleAnswer = (drummerId) => {
+    setSelectedOption(drummerId);
+    const newAnswers = [...answers, drummerId];
+    setAnswers(newAnswers);
+
+    setTimeout(() => {
+      if (currentQuestion < quizQuestions.length - 1) {
+        setCurrentQuestion(currentQuestion + 1);
+        setSelectedOption(null);
+        setShowHint(false);
+      } else {
+        const result = _kitQuizDataModule.calculateKitQuizResult(newAnswers);
+        setResults(result);
+        setShowResults(true);
+        trackKitQuizCompletion(result);
+        updateKitQuizResultURL(result);
+        updateKitQuizMeta(result);
+      }
+    }, 800);
+  };
+
+  const handleRestart = () => {
+    setCurrentQuestion(0);
+    setAnswers([]);
+    setShowResults(false);
+    setResults(null);
+    setSelectedOption(null);
+    setShowHint(false);
+    if (_kitQuizDataModule && _kitQuizDataModule.shuffleArray) {
+      const shuffled = quizQuestions.map(q => _kitQuizDataModule.shuffleArray(q.options));
+      setShuffledOptions(shuffled);
+    }
+  };
+
+  const handleShare = async (platform) => {
+    if (!results) return;
+    
+    const emoji = results.percentage >= 80 ? '🏆' : results.percentage >= 60 ? '🔥' : results.percentage >= 40 ? '🥁' : '😅';
+    const shareText = `${emoji} I got ${results.correct}/${results.total} (${results.percentage}%) on the Metal Drummer Kit Quiz! Can you beat my score? 🤘`;
+    const shareUrl = typeof window !== 'undefined' 
+      ? `${window.location.origin}/kit-quiz?correct=${results.correct}&total=${results.total}` 
+      : 'https://metalforge.io/kit-quiz';
+
+    trackKitQuizShare(platform, results);
+
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      let url;
+      switch (platform) {
+        case 'twitter':
+          url = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(shareUrl)}`;
+          break;
+        case 'facebook':
+          url = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(shareUrl)}&quote=${encodeURIComponent(shareText)}`;
+          break;
+        case 'copy':
+          try {
+            await navigator.clipboard.writeText(`${shareText}\n${shareUrl}`);
+            alert('Copied to clipboard!');
+          } catch (err) {
+            console.error('Failed to copy:', err);
+          }
+          return;
+        default:
+          return;
+      }
+      window.open(url, '_blank', 'width=600,height=400');
+    }
+  };
+
+  // Loading state
+  if (!kitQuizDataLoaded || quizQuestions.length === 0) {
+    return (
+      <ScrollView style={[styles.quizContainer, { backgroundColor: theme.background }]}>
+        <View style={styles.quizContent}>
+          <View style={styles.kitQuizLoading}>
+            <ActivityIndicator size="large" color={theme.primary} />
+            <Text style={[styles.kitQuizLoadingText, { color: theme.secondaryText }]}>
+              Loading Kit Quiz...
+            </Text>
+          </View>
+        </View>
+      </ScrollView>
+    );
+  }
+
+  // Intro Screen
+  if (!quizStarted && !showResults) {
+    return (
+      <ScrollView style={[styles.quizContainer, { backgroundColor: theme.background }]}>
+        <View style={styles.quizContent}>
+          <TouchableOpacity
+            onPress={onBack}
+            style={[styles.backButton, { borderColor: theme.border }]}
+            accessibilityRole="button"
+            accessibilityLabel="Back to home"
+          >
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+          </TouchableOpacity>
+
+          <View style={styles.kitQuizIntro}>
+            <Text style={styles.kitQuizIntroEmoji}>🎯</Text>
+            <Text style={[styles.kitQuizIntroTitle, { color: theme.text }]}>
+              Guess the Drummer by Kit
+            </Text>
+            <Text style={[styles.kitQuizIntroSubtitle, { color: theme.secondaryText }]}>
+              Can you identify legendary metal drummers just by their gear setup?
+            </Text>
+            
+            <View style={[styles.kitQuizInfoBox, { backgroundColor: theme.card, borderColor: theme.border }]}>
+              <Text style={[styles.kitQuizInfoText, { color: theme.text }]}>🥁 {quizQuestions.length} questions</Text>
+              <Text style={[styles.kitQuizInfoText, { color: theme.text }]}>⏱️ ~2 minutes</Text>
+              <Text style={[styles.kitQuizInfoText, { color: theme.text }]}>🏆 Share your score</Text>
+            </View>
+
+            <TouchableOpacity
+              onPress={handleStartQuiz}
+              style={[styles.kitQuizStartButton, { backgroundColor: theme.primary }]}
+              accessibilityRole="button"
+            >
+              <Text style={styles.kitQuizStartButtonText}>Start Quiz 🤘</Text>
+            </TouchableOpacity>
+          </View>
+        </View>
+      </ScrollView>
+    );
+  }
+
+  // Results View
+  if (showResults && results) {
+    const resultMessage = _kitQuizDataModule.getResultMessage 
+      ? _kitQuizDataModule.getResultMessage(results.percentage)
+      : { emoji: '🥁', title: 'Quiz Complete!', message: '' };
+
+    return (
+      <ScrollView style={[styles.quizContainer, { backgroundColor: theme.background }]}>
+        <View style={styles.quizContent}>
+          <TouchableOpacity
+            onPress={onBack}
+            style={[styles.backButton, { borderColor: theme.border }]}
+            accessibilityRole="button"
+            accessibilityLabel="Back to home"
+          >
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+          </TouchableOpacity>
+
+          <View style={styles.kitQuizResultsHeader}>
+            <Text style={styles.kitQuizResultEmoji}>{resultMessage.emoji}</Text>
+            <Text style={[styles.kitQuizResultTitle, { color: theme.text }]}>{resultMessage.title}</Text>
+            <Text style={[styles.kitQuizResultMessage, { color: theme.secondaryText }]}>{resultMessage.message}</Text>
+          </View>
+
+          <View style={[styles.kitQuizScoreCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.kitQuizScoreNumber, { color: theme.primary }]}>{results.correct}/{results.total}</Text>
+            <Text style={[styles.kitQuizScorePercent, { color: theme.text }]}>{results.percentage}% Correct</Text>
+            <View style={[styles.kitQuizScoreBar, { backgroundColor: theme.border }]}>
+              <View style={[styles.kitQuizScoreBarFill, { width: `${results.percentage}%`, backgroundColor: results.percentage >= 70 ? '#4ade80' : results.percentage >= 40 ? '#fbbf24' : '#f87171' }]} />
+            </View>
+          </View>
+
+          <View style={styles.shareSection}>
+            <Text style={[styles.shareTitle, { color: theme.text }]}>Challenge Your Friends!</Text>
+            <View style={styles.shareButtons}>
+              <TouchableOpacity onPress={() => handleShare('twitter')} style={[styles.shareButton, { backgroundColor: colors.buttons.ghost.bg, borderWidth: 1, borderColor: colors.buttons.ghost.border }]}>
+                <Text style={[styles.shareButtonText, { color: '#1DA1F2' }]}>𝕏 Twitter</Text>
+              </TouchableOpacity>
+              <TouchableOpacity onPress={() => handleShare('facebook')} style={[styles.shareButton, { backgroundColor: colors.buttons.ghost.bg, borderWidth: 1, borderColor: colors.buttons.ghost.border }]}>
+                <Text style={[styles.shareButtonText, { color: '#4267B2' }]}>Facebook</Text>
+              </TouchableOpacity>
+              <TouchableOpacity onPress={() => handleShare('copy')} style={[styles.shareButton, { backgroundColor: theme.border }]}>
+                <Text style={[styles.shareButtonText, { color: theme.text }]}>📋 Copy</Text>
+              </TouchableOpacity>
+            </View>
+          </View>
+
+          <View style={styles.kitQuizActions}>
+            <TouchableOpacity onPress={handleRestart} style={[styles.kitQuizActionButton, { backgroundColor: theme.primary }]}>
+              <Text style={styles.kitQuizActionButtonText}>🔄 Play Again</Text>
+            </TouchableOpacity>
+            <TouchableOpacity onPress={onBack} style={[styles.kitQuizActionButtonSecondary, { borderColor: theme.border }]}>
+              <Text style={[styles.kitQuizActionButtonTextSecondary, { color: theme.text }]}>🥁 Explore Drummers</Text>
+            </TouchableOpacity>
+          </View>
+        </View>
+      </ScrollView>
+    );
+  }
+
+  // Question View
+  const question = quizQuestions[currentQuestion];
+  const options = shuffledOptions[currentQuestion] || question.options;
+
+  return (
+    <ScrollView style={[styles.quizContainer, { backgroundColor: theme.background }]}>
+      <View style={styles.quizContent}>
+        <View style={styles.progressContainer}>
+          <View style={[styles.progressBar, { backgroundColor: theme.border }]}>
+            <View style={[styles.progressFill, { width: `${progress}%`, backgroundColor: theme.primary }]} />
+          </View>
+          <Text style={[styles.progressText, { color: theme.secondaryText }]}>Question {currentQuestion + 1} of {quizQuestions.length}</Text>
+        </View>
+
+        <View style={[styles.kitQuizQuestionCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.kitQuizQuestionTitle, { color: theme.text }]}>🥁 Who uses this kit?</Text>
+          
+          <View style={styles.kitQuizGearList}>
+            <View style={styles.kitQuizGearItem}>
+              <Text style={[styles.kitQuizGearLabel, { color: theme.secondaryText }]}>Drums:</Text>
+              <Text style={[styles.kitQuizGearValue, { color: theme.text }]}>{question.gear.drums}</Text>
+            </View>
+            <View style={styles.kitQuizGearItem}>
+              <Text style={[styles.kitQuizGearLabel, { color: theme.secondaryText }]}>Snare:</Text>
+              <Text style={[styles.kitQuizGearValue, { color: theme.text }]}>{question.gear.snare}</Text>
+            </View>
+            <View style={styles.kitQuizGearItem}>
+              <Text style={[styles.kitQuizGearLabel, { color: theme.secondaryText }]}>Cymbals:</Text>
+              <Text style={[styles.kitQuizGearValue, { color: theme.text }]}>{question.gear.cymbals}</Text>
+            </View>
+            <View style={styles.kitQuizGearItem}>
+              <Text style={[styles.kitQuizGearLabel, { color: theme.secondaryText }]}>Hardware:</Text>
+              <Text style={[styles.kitQuizGearValue, { color: theme.text }]}>{question.gear.hardware}</Text>
+            </View>
+            {question.gear.sticks && (
+              <View style={styles.kitQuizGearItem}>
+                <Text style={[styles.kitQuizGearLabel, { color: theme.secondaryText }]}>Sticks:</Text>
+                <Text style={[styles.kitQuizGearValue, { color: theme.text }]}>{question.gear.sticks}</Text>
+              </View>
+            )}
+          </View>
+
+          {!showHint && !selectedOption && (
+            <TouchableOpacity onPress={() => setShowHint(true)} style={[styles.kitQuizHintButton, { borderColor: theme.border }]}>
+              <Text style={[styles.kitQuizHintButtonText, { color: theme.secondaryText }]}>💡 Need a hint?</Text>
+            </TouchableOpacity>
+          )}
+          {showHint && (
+            <View style={[styles.kitQuizHintBox, { backgroundColor: theme.background, borderColor: theme.border }]}>
+              <Text style={[styles.kitQuizHintText, { color: theme.text }]}>{question.hint}</Text>
+            </View>
+          )}
+        </View>
+
+        <View style={styles.kitQuizOptions}>
+          {options.map((drummerId) => {
+            const drummer = drummers.find(d => d.id === drummerId);
+            if (!drummer) return null;
+            
+            const isSelected = selectedOption === drummerId;
+            const isCorrectAnswer = drummerId === question.correctDrummerId;
+            const showFeedback = selectedOption !== null;
+            
+            let optionStyle = [styles.kitQuizOption, { backgroundColor: theme.card, borderColor: theme.border }];
+            if (showFeedback) {
+              if (isCorrectAnswer) {
+                optionStyle = [styles.kitQuizOption, styles.kitQuizOptionCorrect];
+              } else if (isSelected && !isCorrectAnswer) {
+                optionStyle = [styles.kitQuizOption, styles.kitQuizOptionIncorrect];
+              }
+            }
+
+            return (
+              <TouchableOpacity
+                key={drummerId}
+                onPress={() => !selectedOption && handleAnswer(drummerId)}
+                style={optionStyle}
+                disabled={selectedOption !== null}
+                accessibilityRole="button"
+                accessibilityLabel={`${drummer.name} from ${drummer.band}`}
+              >
+                <ImageWithFallback
+                  source={{ uri: drummer.image || PLACEHOLDER_IMAGE }}
+                  style={styles.kitQuizOptionImage}
+                  accessibilityLabel={`${drummer.name} photo`}
+                  width={48}
+                  height={48}
+                  imageContext="thumbnail"
+                />
+                <View style={styles.kitQuizOptionInfo}>
+                  <Text style={[styles.kitQuizOptionName, { color: showFeedback && isCorrectAnswer ? '#fff' : theme.text }]}>{drummer.name}</Text>
+                  <Text style={[styles.kitQuizOptionBand, { color: showFeedback && isCorrectAnswer ? 'rgba(255,255,255,0.8)' : theme.secondaryText }]}>{drummer.band}</Text>
+                </View>
+                {showFeedback && isCorrectAnswer && <Text style={styles.kitQuizOptionCheck}>✓</Text>}
+                {showFeedback && isSelected && !isCorrectAnswer && <Text style={styles.kitQuizOptionX}>✗</Text>}
+              </TouchableOpacity>
+            );
+          })}
+        </View>
       </View>
     </ScrollView>
   );
@@ -17613,7 +18026,7 @@ setShowList(false);
           onNavigateToTechniques={handleNavigateToTechniquesIndex}
           onNavigateToDrummers={handleNavigateToDrummers}
           onNavigateToNews={handleNavigateToNews}
-          spotlight={apiSpotlight || getCuratedFeaturedDrummer(drummers)}
+          spotlight={apiSpotlight || getCuratedFeaturedDrummer(drummers, drummerBirthdays())}
           filters={filters}
           onFilterChange={handleFilterChange}
           sortBy={sortBy}
@@ -17635,7 +18048,7 @@ setShowList(false);
 
   return (
     <View style={[styles.container, { backgroundColor: theme.background }]}>
-      {!selectedDrummer && !showCompare && !showQuiz && !showPrivacy && !showQuotes && !selectedGear && !showBpmTap && !showBpmRange && !showBirthdayCalendar && !showBandDetail && !showGearFinder && !showBioPage && !showGearIndex && !showGearCategory && !showGearComparison && !showGearComparisonsIndex && !showSpotlights && !showGenrePage && !showGenresList && !showKitBuilder && !showTechniquesIndex && !showTechniqueDetail && <SEOHead drummers={drummers} filters={filters} />}
+      {!selectedDrummer && !showCompare && !showQuiz && !showPrivacy && !showQuotes && !selectedGear && !showBpmTap && !showBpmRange && !showBirthdayCalendar && !showBandDetail && !showGearFinder && !showBioPage && !showGearIndex && !showGearCategory && !showGearComparison && !showGearComparisonsIndex && !showSpotlights && !showGenrePage && !showGenresList && !showKitBuilder && !showTechniquesIndex && !showTechniqueDetail && !showDrummerVsIndex && !showDrummerVsDetail && <SEOHead drummers={drummers} filters={filters} />}
       <View style={styles.header} accessibilityRole="banner">
         <View style={styles.headerContent}>
           <Text style={[styles.title, { color: theme.text }]} accessibilityRole="header">
@@ -19202,6 +19615,221 @@ const styles = StyleSheet.create({
     color: '#ffffff',
     fontWeight: fontWeight.semibold,
     fontSize: fontSize.base,
+  },
+  // Kit Quiz Styles (Issue #551)
+  kitQuizLoading: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+    padding: spacing[10],
+  },
+  kitQuizLoadingText: {
+    marginTop: spacing[4],
+    fontSize: fontSize.base,
+  },
+  kitQuizIntro: {
+    alignItems: 'center',
+    paddingVertical: spacing[8],
+  },
+  kitQuizIntroEmoji: {
+    fontSize: 64,
+    marginBottom: spacing[4],
+  },
+  kitQuizIntroTitle: {
+    fontSize: fontSize.display.sm,
+    fontWeight: fontWeight.bold,
+    textAlign: 'center',
+    marginBottom: spacing[3],
+  },
+  kitQuizIntroSubtitle: {
+    fontSize: fontSize.lg,
+    textAlign: 'center',
+    lineHeight: lineHeight.lg,
+    marginBottom: spacing[6],
+  },
+  kitQuizInfoBox: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    justifyContent: 'center',
+    gap: spacing[4],
+    padding: spacing[4],
+    borderRadius: spacing[3],
+    borderWidth: 1,
+    marginBottom: spacing[6],
+  },
+  kitQuizInfoText: {
+    fontSize: fontSize.base,
+  },
+  kitQuizStartButton: {
+    paddingHorizontal: spacing[8],
+    paddingVertical: spacing[4],
+    borderRadius: spacing[3],
+  },
+  kitQuizStartButtonText: {
+    color: '#ffffff',
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.bold,
+  },
+  kitQuizQuestionCard: {
+    padding: spacing[5],
+    borderRadius: spacing[4],
+    borderWidth: 1,
+    marginBottom: spacing[5],
+  },
+  kitQuizQuestionTitle: {
+    fontSize: fontSize.xl,
+    fontWeight: fontWeight.bold,
+    textAlign: 'center',
+    marginBottom: spacing[5],
+  },
+  kitQuizGearList: {
+    gap: spacing[3],
+  },
+  kitQuizGearItem: {
+    marginBottom: spacing[2],
+  },
+  kitQuizGearLabel: {
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.semibold,
+    marginBottom: spacing[1],
+  },
+  kitQuizGearValue: {
+    fontSize: fontSize.base,
+    lineHeight: lineHeight.base,
+  },
+  kitQuizHintButton: {
+    alignSelf: 'center',
+    marginTop: spacing[4],
+    padding: spacing[3],
+    borderRadius: spacing[2],
+    borderWidth: 1,
+  },
+  kitQuizHintButtonText: {
+    fontSize: fontSize.sm,
+  },
+  kitQuizHintBox: {
+    marginTop: spacing[4],
+    padding: spacing[3],
+    borderRadius: spacing[2],
+    borderWidth: 1,
+  },
+  kitQuizHintText: {
+    fontSize: fontSize.base,
+    textAlign: 'center',
+    fontStyle: 'italic',
+  },
+  kitQuizOptions: {
+    gap: spacing[3],
+  },
+  kitQuizOption: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    padding: spacing[4],
+    borderRadius: spacing[3],
+    borderWidth: 2,
+  },
+  kitQuizOptionCorrect: {
+    backgroundColor: '#22c55e',
+    borderColor: '#22c55e',
+  },
+  kitQuizOptionIncorrect: {
+    backgroundColor: '#ef4444',
+    borderColor: '#ef4444',
+  },
+  kitQuizOptionImage: {
+    width: 48,
+    height: 48,
+    borderRadius: 24,
+    marginRight: spacing[3],
+  },
+  kitQuizOptionInfo: {
+    flex: 1,
+  },
+  kitQuizOptionName: {
+    fontSize: fontSize.base,
+    fontWeight: fontWeight.semibold,
+  },
+  kitQuizOptionBand: {
+    fontSize: fontSize.sm,
+  },
+  kitQuizOptionCheck: {
+    fontSize: 24,
+    color: '#ffffff',
+    fontWeight: fontWeight.bold,
+  },
+  kitQuizOptionX: {
+    fontSize: 24,
+    color: '#ffffff',
+    fontWeight: fontWeight.bold,
+  },
+  kitQuizResultsHeader: {
+    alignItems: 'center',
+    marginBottom: spacing[6],
+  },
+  kitQuizResultEmoji: {
+    fontSize: 64,
+    marginBottom: spacing[4],
+  },
+  kitQuizResultTitle: {
+    fontSize: fontSize.display.sm,
+    fontWeight: fontWeight.bold,
+    textAlign: 'center',
+    marginBottom: spacing[2],
+  },
+  kitQuizResultMessage: {
+    fontSize: fontSize.base,
+    textAlign: 'center',
+    lineHeight: lineHeight.base,
+  },
+  kitQuizScoreCard: {
+    alignItems: 'center',
+    padding: spacing[6],
+    borderRadius: spacing[4],
+    borderWidth: 1,
+    marginBottom: spacing[6],
+  },
+  kitQuizScoreNumber: {
+    fontSize: fontSize.display.lg,
+    fontWeight: fontWeight.bold,
+    marginBottom: spacing[2],
+  },
+  kitQuizScorePercent: {
+    fontSize: fontSize.lg,
+    marginBottom: spacing[4],
+  },
+  kitQuizScoreBar: {
+    width: '100%',
+    height: spacing[3],
+    borderRadius: spacing[1],
+    overflow: 'hidden',
+  },
+  kitQuizScoreBarFill: {
+    height: '100%',
+    borderRadius: spacing[1],
+  },
+  kitQuizActions: {
+    gap: spacing[3],
+    marginTop: spacing[4],
+  },
+  kitQuizActionButton: {
+    padding: spacing[4],
+    borderRadius: spacing[3],
+    alignItems: 'center',
+  },
+  kitQuizActionButtonText: {
+    color: '#ffffff',
+    fontSize: fontSize.base,
+    fontWeight: fontWeight.semibold,
+  },
+  kitQuizActionButtonSecondary: {
+    padding: spacing[4],
+    borderRadius: spacing[3],
+    borderWidth: 1,
+    alignItems: 'center',
+  },
+  kitQuizActionButtonTextSecondary: {
+    fontSize: fontSize.base,
+    fontWeight: fontWeight.semibold,
   },
   restartButton: {
     padding: spacing[4],           // 16px (was 14)

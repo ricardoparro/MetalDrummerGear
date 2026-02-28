@@ -3056,6 +3056,43 @@ const drummers = [
     ],
     videos: [
     ]
+  },
+  {
+    id: 61,
+    name: 'Isaac Lamb',
+    band: 'Kublai Khan TX',
+    bands: [
+      { name: 'Kublai Khan TX', period: '2009–present', current: true }
+    ],
+    genre: 'Metalcore / Beatdown Hardcore',
+    country: 'USA',
+    image: '/images/drummers/isaac-lamb.webp',
+    bio: 'Isaac Lamb is an American drummer and founding member of the beatdown hardcore/metalcore band Kublai Khan TX, formed in Sherman, Texas in 2009. As the only drummer in the band\'s history, Lamb has been instrumental in developing their signature sound—characterized by crushing breakdowns, heavy grooves, and aggressive intensity that has made them one of the most respected bands in modern hardcore. His drumming style emphasizes power, groove, and devastating timing on breakdowns.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Kublai_Khan_(band)',
+      'https://www.allmusic.com/artist/kublai-khan-mn0003460661'
+    ],
+    gear: {
+      drums: 'SJC Custom Drums',
+      snare: 'SJC Custom 14x6.5"',
+      cymbals: 'Meinl Classics Custom Dark Series (14" Hi-Hats, 18" & 20" Crashes, 21" Ride, 18" China)',
+      hardware: 'DW 9000 Series Double Pedal',
+      sticks: 'Vic Firth American Classic 2B',
+      heads: 'Evans Hydraulic',
+      verified: false,
+      sources: ['https://en.wikipedia.org/wiki/Kublai_Khan_(band)']
+    },
+    photos: [
+      '/images/drummers/isaac-lamb.webp'
+    ],
+    endorsements: [
+      { name: 'SJC Custom Drums', url: 'https://www.sjcdrums.com' },
+      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+    ],
+    videos: [
+      { title: 'Kublai Khan TX - Drum Cam', youtubeId: 'xBFS1A0zOq4', year: 2023 }
+    ]
   }
 ];
 

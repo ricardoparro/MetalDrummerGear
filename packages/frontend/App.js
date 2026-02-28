@@ -18780,6 +18780,221 @@ const styles = StyleSheet.create({
     fontWeight: fontWeight.semibold,
     fontSize: fontSize.base,
   },
+  // Kit Quiz Styles (Issue #551)
+  kitQuizLoading: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+    padding: spacing[10],
+  },
+  kitQuizLoadingText: {
+    marginTop: spacing[4],
+    fontSize: fontSize.base,
+  },
+  kitQuizIntro: {
+    alignItems: 'center',
+    paddingVertical: spacing[8],
+  },
+  kitQuizIntroEmoji: {
+    fontSize: 64,
+    marginBottom: spacing[4],
+  },
+  kitQuizIntroTitle: {
+    fontSize: fontSize.display.sm,
+    fontWeight: fontWeight.bold,
+    textAlign: 'center',
+    marginBottom: spacing[3],
+  },
+  kitQuizIntroSubtitle: {
+    fontSize: fontSize.lg,
+    textAlign: 'center',
+    lineHeight: lineHeight.lg,
+    marginBottom: spacing[6],
+  },
+  kitQuizInfoBox: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    justifyContent: 'center',
+    gap: spacing[4],
+    padding: spacing[4],
+    borderRadius: spacing[3],
+    borderWidth: 1,
+    marginBottom: spacing[6],
+  },
+  kitQuizInfoText: {
+    fontSize: fontSize.base,
+  },
+  kitQuizStartButton: {
+    paddingHorizontal: spacing[8],
+    paddingVertical: spacing[4],
+    borderRadius: spacing[3],
+  },
+  kitQuizStartButtonText: {
+    color: '#ffffff',
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.bold,
+  },
+  kitQuizQuestionCard: {
+    padding: spacing[5],
+    borderRadius: spacing[4],
+    borderWidth: 1,
+    marginBottom: spacing[5],
+  },
+  kitQuizQuestionTitle: {
+    fontSize: fontSize.xl,
+    fontWeight: fontWeight.bold,
+    textAlign: 'center',
+    marginBottom: spacing[5],
+  },
+  kitQuizGearList: {
+    gap: spacing[3],
+  },
+  kitQuizGearItem: {
+    marginBottom: spacing[2],
+  },
+  kitQuizGearLabel: {
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.semibold,
+    marginBottom: spacing[1],
+  },
+  kitQuizGearValue: {
+    fontSize: fontSize.base,
+    lineHeight: lineHeight.base,
+  },
+  kitQuizHintButton: {
+    alignSelf: 'center',
+    marginTop: spacing[4],
+    padding: spacing[3],
+    borderRadius: spacing[2],
+    borderWidth: 1,
+  },
+  kitQuizHintButtonText: {
+    fontSize: fontSize.sm,
+  },
+  kitQuizHintBox: {
+    marginTop: spacing[4],
+    padding: spacing[3],
+    borderRadius: spacing[2],
+    borderWidth: 1,
+  },
+  kitQuizHintText: {
+    fontSize: fontSize.base,
+    textAlign: 'center',
+    fontStyle: 'italic',
+  },
+  kitQuizOptions: {
+    gap: spacing[3],
+  },
+  kitQuizOption: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    padding: spacing[4],
+    borderRadius: spacing[3],
+    borderWidth: 2,
+  },
+  kitQuizOptionCorrect: {
+    backgroundColor: '#22c55e',
+    borderColor: '#22c55e',
+  },
+  kitQuizOptionIncorrect: {
+    backgroundColor: '#ef4444',
+    borderColor: '#ef4444',
+  },
+  kitQuizOptionImage: {
+    width: 48,
+    height: 48,
+    borderRadius: 24,
+    marginRight: spacing[3],
+  },
+  kitQuizOptionInfo: {
+    flex: 1,
+  },
+  kitQuizOptionName: {
+    fontSize: fontSize.base,
+    fontWeight: fontWeight.semibold,
+  },
+  kitQuizOptionBand: {
+    fontSize: fontSize.sm,
+  },
+  kitQuizOptionCheck: {
+    fontSize: 24,
+    color: '#ffffff',
+    fontWeight: fontWeight.bold,
+  },
+  kitQuizOptionX: {
+    fontSize: 24,
+    color: '#ffffff',
+    fontWeight: fontWeight.bold,
+  },
+  kitQuizResultsHeader: {
+    alignItems: 'center',
+    marginBottom: spacing[6],
+  },
+  kitQuizResultEmoji: {
+    fontSize: 64,
+    marginBottom: spacing[4],
+  },
+  kitQuizResultTitle: {
+    fontSize: fontSize.display.sm,
+    fontWeight: fontWeight.bold,
+    textAlign: 'center',
+    marginBottom: spacing[2],
+  },
+  kitQuizResultMessage: {
+    fontSize: fontSize.base,
+    textAlign: 'center',
+    lineHeight: lineHeight.base,
+  },
+  kitQuizScoreCard: {
+    alignItems: 'center',
+    padding: spacing[6],
+    borderRadius: spacing[4],
+    borderWidth: 1,
+    marginBottom: spacing[6],
+  },
+  kitQuizScoreNumber: {
+    fontSize: fontSize.display.lg,
+    fontWeight: fontWeight.bold,
+    marginBottom: spacing[2],
+  },
+  kitQuizScorePercent: {
+    fontSize: fontSize.lg,
+    marginBottom: spacing[4],
+  },
+  kitQuizScoreBar: {
+    width: '100%',
+    height: spacing[3],
+    borderRadius: spacing[1],
+    overflow: 'hidden',
+  },
+  kitQuizScoreBarFill: {
+    height: '100%',
+    borderRadius: spacing[1],
+  },
+  kitQuizActions: {
+    gap: spacing[3],
+    marginTop: spacing[4],
+  },
+  kitQuizActionButton: {
+    padding: spacing[4],
+    borderRadius: spacing[3],
+    alignItems: 'center',
+  },
+  kitQuizActionButtonText: {
+    color: '#ffffff',
+    fontSize: fontSize.base,
+    fontWeight: fontWeight.semibold,
+  },
+  kitQuizActionButtonSecondary: {
+    padding: spacing[4],
+    borderRadius: spacing[3],
+    borderWidth: 1,
+    alignItems: 'center',
+  },
+  kitQuizActionButtonTextSecondary: {
+    fontSize: fontSize.base,
+    fontWeight: fontWeight.semibold,
+  },
   restartButton: {
     padding: spacing[4],           // 16px (was 14)
     borderRadius: spacing[2],      // 8px

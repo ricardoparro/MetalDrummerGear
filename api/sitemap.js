@@ -87,6 +87,8 @@ export default function handler(req, res) {
   const urls = [
     { loc: '/', priority: '1.0', changefreq: 'weekly' },
     { loc: '/kit-builder', priority: '0.9', changefreq: 'weekly' },
+    { loc: '/kit-quiz', priority: '0.9', changefreq: 'weekly' },
+    { loc: '/quiz', priority: '0.9', changefreq: 'weekly' },
     { loc: '/gear', priority: '0.9', changefreq: 'weekly' },
     { loc: '/quotes', priority: '0.9', changefreq: 'weekly' },
     { loc: '/lists', priority: '0.9', changefreq: 'weekly' },

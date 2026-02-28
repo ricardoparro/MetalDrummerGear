@@ -5,6 +5,7 @@ const drummers = [
     id: 1,
     name: 'Lars Ulrich',
     band: 'Metallica',
+    featured: true,
     bands: [
       { name: 'Metallica', period: '1981–present', current: true }
     ],
@@ -124,6 +125,7 @@ const drummers = [
     id: 2,
     name: 'Joey Jordison',
     band: 'Slipknot',
+    featured: true,
     bands: [
       { name: 'Slipknot', period: '1995–2013', current: false },
       { name: 'Murderdolls', period: '2002–2011', current: false },
@@ -240,6 +242,7 @@ const drummers = [
     id: 3,
     name: 'Gene Hoglan',
     band: 'Death / Testament / Dethklok',
+    featured: true,
     bands: [
       { name: 'Dark Angel', period: '1984–1992, 2013–present', current: true },
       { name: 'Death', period: '1993–1995', current: false },
@@ -359,6 +362,7 @@ const drummers = [
     id: 4,
     name: 'Dave Lombardo',
     band: 'Slayer',
+    featured: true,
     bands: [
       { name: 'Slayer', period: '1981–1992, 2001–2013', current: false },
       { name: 'Suicidal Tendencies', period: '2016–present', current: true },
@@ -481,6 +485,7 @@ const drummers = [
     id: 5,
     name: 'Tomas Haake',
     band: 'Meshuggah',
+    featured: true,
     bands: [
       { name: 'Meshuggah', period: '1990–present', current: true }
     ],
@@ -899,6 +904,7 @@ const drummers = [
     id: 13,
     name: 'Mike Portnoy',
     band: 'Dream Theater / Liquid Tension Experiment / The Winery Dogs',
+    featured: true,
     bands: [
       { name: 'Dream Theater', period: '1985–2010, 2023–present', current: true },
       { name: 'Liquid Tension Experiment', period: '1997–present', current: true },
@@ -949,6 +955,7 @@ const drummers = [
     id: 14,
     name: 'Danny Carey',
     band: 'Tool',
+    featured: true,
     bands: [
       { name: 'Tool', period: '1990–present', current: true },
       { name: 'Volto!', period: '1999–present', current: true },
@@ -1064,6 +1071,7 @@ const drummers = [
     id: 15,
     name: 'Mario Duplantier',
     band: 'Gojira',
+    featured: true,
     bands: [
       { name: 'Gojira', period: '1996–present', current: true }
     ],
@@ -3127,43 +3135,6 @@ const drummers = [
       { title: 'Epidemic of Hate Drum Intro - Dying Fetus', youtubeId: 'Rt4TLrHmW4k', year: 2018 },
       { title: 'Subjected to a Beating - Insane Drum Break', youtubeId: '_idv6zoZ8RU', year: 2019 },
       { title: 'Dying Fetus - Live Poland (Drum Cam)', youtubeId: 'nUBHGzfJSzM', year: 2023 }
-    ]
-  },
-  {
-    id: 61,
-    name: 'Isaac Lamb',
-    band: 'Kublai Khan TX',
-    bands: [
-      { name: 'Kublai Khan TX', period: '2009–present', current: true }
-    ],
-    genre: 'Metalcore / Beatdown Hardcore',
-    country: 'USA',
-    image: '/images/drummers/isaac-lamb.webp',
-    bio: 'Isaac Lamb is an American drummer and founding member of the beatdown hardcore/metalcore band Kublai Khan TX, formed in Sherman, Texas in 2009. As the only drummer in the band\'s history, Lamb has been instrumental in developing their signature sound—characterized by crushing breakdowns, heavy grooves, and aggressive intensity that has made them one of the most respected bands in modern hardcore. His drumming style emphasizes power, groove, and devastating timing on breakdowns.',
-    sameAs: [
-      'https://en.wikipedia.org/wiki/Kublai_Khan_(band)',
-      'https://www.allmusic.com/artist/kublai-khan-mn0003460661'
-    ],
-    gear: {
-      drums: 'SJC Custom Drums',
-      snare: 'SJC Custom 14x6.5"',
-      cymbals: 'Meinl Classics Custom Dark Series (14" Hi-Hats, 18" & 20" Crashes, 21" Ride, 18" China)',
-      hardware: 'DW 9000 Series Double Pedal',
-      sticks: 'Vic Firth American Classic 2B',
-      heads: 'Evans Hydraulic',
-      verified: false,
-      sources: ['https://en.wikipedia.org/wiki/Kublai_Khan_(band)']
-    },
-    photos: [
-      '/images/drummers/isaac-lamb.webp'
-    ],
-    endorsements: [
-      { name: 'SJC Custom Drums', url: 'https://www.sjcdrums.com' },
-      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
-    ],
-    videos: [
-      { title: 'Kublai Khan TX - Drum Cam', youtubeId: 'xBFS1A0zOq4', year: 2023 }
     ]
   },
   {

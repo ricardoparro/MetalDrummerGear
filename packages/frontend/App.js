@@ -2273,6 +2273,210 @@ function DrummerCard({ drummer, theme, onPress, index = 0 }) {
   );
 }
 
+// ==========================================
+// NEWS SECTION COMPONENTS (Issue #513)
+// Phase 5: News section on drummer profile
+// ==========================================
+
+/**
+ * Format a date string to relative time (e.g., "2h ago", "3d ago")
+ */
+function formatTimeAgo(dateString) {
+  const date = new Date(dateString);
+  const now = new Date();
+  const diffMs = now - date;
+  const diffMins = Math.floor(diffMs / 60000);
+  const diffHours = Math.floor(diffMins / 60);
+  const diffDays = Math.floor(diffHours / 24);
+  
+  if (diffMins < 60) return `${diffMins}m ago`;
+  if (diffHours < 24) return `${diffHours}h ago`;
+  if (diffDays < 7) return `${diffDays}d ago`;
+  return date.toLocaleDateString();
+}
+
+/**
+ * News item card component
+ * Displays a single news article with image, title, snippet, source, and time
+ */
+function NewsCard({ item, theme }) {
+  const handlePress = () => {
+    if (Platform.OS === 'web') {
+      window.open(item.link, '_blank', 'noopener,noreferrer');
+    } else {
+      Linking.openURL(item.link);
+    }
+  };
+  
+  const timeAgo = formatTimeAgo(item.pubDate);
+  
+  // Web-specific rendering with proper link element for SEO
+  if (Platform.OS === 'web') {
+    return (
+      <a
+        href={item.link}
+        target="_blank"
+        rel="noopener noreferrer"
+        style={{ textDecoration: 'none' }}
+      >
+        <View
+          style={[styles.newsCard, { backgroundColor: theme.card, borderColor: theme.border }]}
+          accessibilityRole="link"
+          accessibilityLabel={`Read: ${item.title}`}
+        >
+          {item.image && (
+            <Image
+              source={{ uri: item.image }}
+              style={styles.newsCardImage}
+              contentFit="cover"
+            />
+          )}
+          <View style={styles.newsCardContent}>
+            <Text style={[styles.newsCardTitle, { color: theme.text }]} numberOfLines={2}>
+              {item.title}
+            </Text>
+            <Text style={[styles.newsCardSnippet, { color: theme.secondaryText }]} numberOfLines={2}>
+              {item.snippet}
+            </Text>
+            <View style={styles.newsCardMeta}>
+              <Text style={[styles.newsCardSource, { color: theme.primary }]}>
+                {item.source}
+              </Text>
+              <Text style={[styles.newsCardTime, { color: theme.secondaryText }]}>
+                {timeAgo}
+              </Text>
+            </View>
+          </View>
+          <Text style={[styles.newsCardArrow, { color: theme.secondaryText }]}>→</Text>
+        </View>
+      </a>
+    );
+  }
+  
+  // Native rendering with TouchableOpacity
+  return (
+    <TouchableOpacity
+      onPress={handlePress}
+      style={[styles.newsCard, { backgroundColor: theme.card, borderColor: theme.border }]}
+      accessibilityRole="link"
+      accessibilityLabel={`Read: ${item.title}`}
+    >
+      {item.image && (
+        <Image
+          source={{ uri: item.image }}
+          style={styles.newsCardImage}
+          contentFit="cover"
+        />
+      )}
+      <View style={styles.newsCardContent}>
+        <Text style={[styles.newsCardTitle, { color: theme.text }]} numberOfLines={2}>
+          {item.title}
+        </Text>
+        <Text style={[styles.newsCardSnippet, { color: theme.secondaryText }]} numberOfLines={2}>
+          {item.snippet}
+        </Text>
+        <View style={styles.newsCardMeta}>
+          <Text style={[styles.newsCardSource, { color: theme.primary }]}>
+            {item.source}
+          </Text>
+          <Text style={[styles.newsCardTime, { color: theme.secondaryText }]}>
+            {timeAgo}
+          </Text>
+        </View>
+      </View>
+      <Text style={[styles.newsCardArrow, { color: theme.secondaryText }]}>→</Text>
+    </TouchableOpacity>
+  );
+}
+
+/**
+ * News section for drummer profile page
+ * Fetches and displays latest news articles about the drummer
+ */
+function DrummerNewsSection({ drummer, theme }) {
+  const [news, setNews] = useState([]);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
+  
+  useEffect(() => {
+    fetchDrummerNews();
+  }, [drummer.name]);
+  
+  const fetchDrummerNews = async () => {
+    try {
+      setLoading(true);
+      setError(null);
+      
+      // Build the API URL - works for both web and development
+      const baseUrl = Platform.OS === 'web' && typeof window !== 'undefined' 
+        ? window.location.origin 
+        : '';
+      const apiUrl = `${baseUrl}/api/news?drummer=${encodeURIComponent(drummer.name)}&limit=5`;
+      
+      const response = await fetch(apiUrl);
+      
+      if (!response.ok) {
+        throw new Error(`HTTP error: ${response.status}`);
+      }
+      
+      const data = await response.json();
+      
+      if (data.items) {
+        setNews(data.items);
+      } else {
+        setNews([]);
+      }
+    } catch (err) {
+      console.error('[DrummerNewsSection] Error fetching news:', err.message);
+      setError(err.message);
+    } finally {
+      setLoading(false);
+    }
+  };
+  
+  // Show loading skeleton - compact skeleton for profile page
+  if (loading) {
+    return (
+      <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+        <Text style={[styles.sectionTitle, { color: theme.text }]}>📰 Latest News</Text>
+        {/* Inline skeleton for compact news cards */}
+        {[1, 2].map((i) => (
+          <View key={i} style={[styles.newsCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <View style={[styles.newsCardImage, { backgroundColor: theme.border }]} />
+            <View style={styles.newsCardContent}>
+              <View style={{ height: 14, width: '90%', backgroundColor: theme.border, borderRadius: 4, marginBottom: 6 }} />
+              <View style={{ height: 12, width: '70%', backgroundColor: theme.border, borderRadius: 4, marginBottom: 6 }} />
+              <View style={{ flexDirection: 'row' }}>
+                <View style={{ height: 10, width: 60, backgroundColor: theme.border, borderRadius: 4, marginRight: 8 }} />
+                <View style={{ height: 10, width: 40, backgroundColor: theme.border, borderRadius: 4 }} />
+              </View>
+            </View>
+          </View>
+        ))}
+      </View>
+    );
+  }
+  
+  // Don't show section if error or no news
+  if (error || news.length === 0) {
+    return null;
+  }
+  
+  return (
+    <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+      <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">
+        📰 Latest News
+      </Text>
+      <Text style={[styles.newsSectionDescription, { color: theme.secondaryText }]}>
+        Recent articles mentioning {drummer.name}
+      </Text>
+      {news.map(item => (
+        <NewsCard key={item.id} item={item} theme={theme} />
+      ))}
+    </View>
+  );
+}
+
 function GearSection({ title, content, theme, gearType }) {
   const primaryProduct = extractPrimaryProduct(content);
   const affiliateLinks = getAffiliateLinks(primaryProduct, gearType);
@@ -3197,6 +3401,9 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
       </View>
 
       <GearTimeline timeline={drummer.gearTimeline} drummerName={drummer.name} theme={theme} />
+
+      {/* News Section - Issue #513 - Phase 5 */}
+      <DrummerNewsSection drummer={drummer} theme={theme} />
 
       {drummer.photos && drummer.photos.length > 0 && (
         <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
@@ -10508,7 +10715,9 @@ function DrummerList({
   showSuggestions,
   onSearchFocus,
   onSelectSuggestion,
-  searchInputRef
+  searchInputRef,
+  showAllDrummers,
+  onShowAllDrummers
 }) {
   // CLS Optimization: Show skeleton loaders instead of spinner
   // Skeletons match the final layout dimensions to prevent layout shift
@@ -10648,6 +10857,14 @@ function DrummerList({
         >
           <Text style={[styles.quizButtonText, { color: theme.text }]}>🥁 Learn Techniques</Text>
         </TouchableOpacity>
+        <TouchableOpacity
+          onPress={onNavigateToKitQuiz}
+          style={[styles.quizButton, { backgroundColor: '#dc2626', borderColor: '#dc2626' }]}
+          accessibilityRole="button"
+          accessibilityLabel="Guess the drummer by kit quiz"
+        >
+          <Text style={[styles.quizButtonText, { color: '#fff' }]}>🎯 Kit Quiz</Text>
+        </TouchableOpacity>
       </View>
       {/* Filter Bar - positioned below action buttons, above drummer list (Issue #506) */}
       <FilterBar
@@ -10671,6 +10888,18 @@ function DrummerList({
       )}
       {/* Top 10 Lists Section */}
       <TopListsSection theme={theme} onNavigateToList={onNavigateToList} />
+      
+      {/* Featured Drummers Section Header (Issue #496) */}
+      {!showAllDrummers && !searchValue && !filters.genre && !filters.brand && (
+        <View style={styles.featuredSection}>
+          <Text style={[styles.featuredSectionTitle, { color: theme.text }]}>
+            ⭐ Featured Drummers
+          </Text>
+          <Text style={[styles.featuredSectionSubtitle, { color: theme.secondaryText }]}>
+            Legendary metal drummers to explore
+          </Text>
+        </View>
+      )}
     </>
   );
 
@@ -10686,18 +10915,33 @@ function DrummerList({
     </View>
   );
 
-  // Footer with Last Updated timestamp (Issue #449)
+  // Footer with Last Updated timestamp (Issue #449) and View All Drummers button (Issue #496)
   const ListFooter = () => (
-    <View style={[styles.lastUpdatedContainer, { borderTopColor: theme.border }]}>
-      {Platform.OS === 'web' ? (
-        <time dateTime="2026-02-17" style={{ color: theme.secondaryText, fontSize: 12 }}>
-          Last updated: February 17, 2026
-        </time>
-      ) : (
-        <Text style={[styles.lastUpdatedText, { color: theme.secondaryText }]}>
-          Last updated: February 17, 2026
-        </Text>
+    <View>
+      {/* View All Drummers button - shown when displaying featured only (Issue #496) */}
+      {!showAllDrummers && !searchValue && !filters.genre && !filters.brand && (
+        <TouchableOpacity
+          onPress={onShowAllDrummers}
+          style={[styles.viewAllDrummersButton, { backgroundColor: theme.primary, borderColor: theme.primary }]}
+          accessibilityRole="button"
+          accessibilityLabel={`View all ${drummers.length} drummers`}
+        >
+          <Text style={[styles.viewAllDrummersText, { color: theme.text }]}>
+            View All {drummers.length} Drummers →
+          </Text>
+        </TouchableOpacity>
       )}
+      <View style={[styles.lastUpdatedContainer, { borderTopColor: theme.border }]}>
+        {Platform.OS === 'web' ? (
+          <time dateTime="2026-02-17" style={{ color: theme.secondaryText, fontSize: 12 }}>
+            Last updated: February 17, 2026
+          </time>
+        ) : (
+          <Text style={[styles.lastUpdatedText, { color: theme.secondaryText }]}>
+            Last updated: February 17, 2026
+          </Text>
+        )}
+      </View>
     </View>
   );
 
@@ -13706,6 +13950,9 @@ function AppContent() {
   // Kit Builder Page state (Issue #341)
   const [showKitBuilder, setShowKitBuilder] = useState(() => isKitBuilderPage());
 
+  // Kit Quiz Page state (Issue #551)
+  const [showKitQuiz, setShowKitQuiz] = useState(() => isKitQuizPage());
+
   // BPM Tap Calculator Page state (Issue #342)
   const [showBpmTap, setShowBpmTap] = useState(() => isBpmTapPage());
   
@@ -14267,6 +14514,7 @@ function AppContent() {
       } else if (isKitBuilderPage()) {
         // Kit Builder page (Issue #341)
         setShowKitBuilder(true);
+        setShowKitQuiz(false);
         setShowBpmTap(false);
         setShowBirthdayCalendar(false);
         setShowBandDetail(false);
@@ -14284,6 +14532,39 @@ function AppContent() {
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
+      } else if (isKitQuizPage()) {
+        // Kit Quiz page (Issue #551)
+        setShowKitQuiz(true);
+        setShowKitBuilder(false);
+        setShowBpmTap(false);
+        setShowBirthdayCalendar(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowList(false);
+        setListSlug(null);
+        setShowBpmRange(false);
+        setBpmRangeSlug(null);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowGenresList(false);
+        setShowGearComparison(false);
+        setGearComparisonSlug(null);
+        setShowGearComparisonsIndex(false);
+        setShowTechniquesIndex(false);
+        setShowTechniqueDetail(false);
+        setTechniqueSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+        updateKitQuizMeta(null);
       } else if (isBpmTapPage()) {
         // BPM Tap Calculator page (Issue #342)
         setShowBpmTap(true);
@@ -14514,17 +14795,47 @@ function AppContent() {
         setShowGearByBudget(false);
         setShowList(false);
         setListSlug(null);
+        setShowNewsPage(false);
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
         // Update meta tags
         updateTechniqueMeta(null);
+      } else if (isNewsPage()) {
+        // News page (Issue #514)
+        setShowNewsPage(true);
+        setShowTechniquesIndex(false);
+        setShowTechniqueDetail(false);
+        setTechniqueSlug(null);
+        setShowGearComparisonsIndex(false);
+        setShowGearComparison(false);
+        setGearComparisonSlug(null);
+        setShowGenresList(false);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowKitBuilder(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowList(false);
+        setListSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
       } else {
         // Back to home page
         setShowCompare(false);
         setShowQuiz(false);
         setShowPrivacy(false);
         setShowQuotes(false);
+        setShowNewsPage(false);
         setShowBioPage(false);
         setBioSlug(null);
         setShowBandDetail(false);
@@ -15849,6 +16160,7 @@ setShowList(false);
           error={drummersError}
           onNavigateToCompare={handleNavigateToCompare}
           onNavigateToQuiz={handleNavigateToQuiz}
+          onNavigateToKitQuiz={handleNavigateToKitQuiz}
           onNavigateToQuotes={handleNavigateToQuotes}
           onNavigateToSpotlights={handleNavigateToSpotlights}
           onNavigateToGearByBudget={handleNavigateToGearByBudget}
@@ -15872,6 +16184,8 @@ setShowList(false);
           onSearchFocus={() => setShowSuggestions(true)}
           onSelectSuggestion={handleSelectSuggestion}
           searchInputRef={searchInputRef}
+          showAllDrummers={showAllDrummers}
+          onShowAllDrummers={() => setShowAllDrummers(true)}
         />
       </View>
     );
@@ -16186,6 +16500,33 @@ const styles = StyleSheet.create({
   lastUpdatedText: {
     fontSize: fontSize.xs,
     fontStyle: 'italic',
+  },
+  // Featured Drummers Section styles (Issue #496)
+  featuredSection: {
+    paddingHorizontal: spacing[4],
+    paddingTop: spacing[5],
+    paddingBottom: spacing[3],
+  },
+  featuredSectionTitle: {
+    fontSize: fontSize.xl,
+    fontWeight: fontWeight.bold,
+    marginBottom: spacing[1],
+  },
+  featuredSectionSubtitle: {
+    fontSize: fontSize.sm,
+  },
+  viewAllDrummersButton: {
+    marginHorizontal: spacing[4],
+    marginVertical: spacing[5],
+    paddingVertical: spacing[4],
+    paddingHorizontal: spacing[5],
+    borderRadius: spacing[2],
+    alignItems: 'center',
+    borderWidth: 1,
+  },
+  viewAllDrummersText: {
+    fontSize: fontSize.base,
+    fontWeight: fontWeight.semibold,
   },
   sectionTitle: {
     fontSize: fontSize.xl,
@@ -20793,5 +21134,65 @@ const styles = StyleSheet.create({
     paddingHorizontal: 16,
     paddingVertical: 10,
     borderRadius: 8,
+  },
+  // ==========================================
+  // NEWS SECTION STYLES (Issue #513 - Phase 5)
+  // ==========================================
+  newsSection: {
+    marginTop: 24,
+    marginBottom: 16,
+  },
+  newsSectionTitle: {
+    fontSize: 20,
+    fontWeight: '700',
+    marginBottom: 12,
+  },
+  newsSectionDescription: {
+    fontSize: 14,
+    marginBottom: 12,
+    opacity: 0.8,
+  },
+  newsCard: {
+    flexDirection: 'row',
+    padding: 12,
+    borderRadius: 8,
+    borderWidth: 1,
+    marginBottom: 8,
+    alignItems: 'center',
+  },
+  newsCardImage: {
+    width: 60,
+    height: 60,
+    borderRadius: 6,
+    marginRight: 12,
+  },
+  newsCardContent: {
+    flex: 1,
+  },
+  newsCardTitle: {
+    fontSize: 14,
+    fontWeight: '600',
+    marginBottom: 4,
+  },
+  newsCardSnippet: {
+    fontSize: 12,
+    marginBottom: 4,
+    lineHeight: 16,
+  },
+  newsCardMeta: {
+    flexDirection: 'row',
+    alignItems: 'center',
+  },
+  newsCardSource: {
+    fontSize: 11,
+    fontWeight: '600',
+    marginRight: 8,
+  },
+  newsCardTime: {
+    fontSize: 11,
+  },
+  newsCardArrow: {
+    fontSize: 16,
+    marginLeft: 8,
   },
 });

@@ -11368,6 +11368,7 @@ function DrummerList({
   onNavigateToGenresList,
   onNavigateToTechniques,
   onNavigateToDrummers,
+  onNavigateToNews,
   spotlight,
   filters,
   onFilterChange,
@@ -11530,6 +11531,16 @@ function DrummerList({
           accessibilityLabel="Guess the drummer by kit quiz"
         >
           <Text style={[styles.quizButtonText, { color: '#fff' }]}>🎯 Kit Quiz</Text>
+        </TouchableOpacity>
+      </View>
+      <View style={[styles.actionButtonsRow, { marginTop: -8 }]}>
+        <TouchableOpacity
+          onPress={onNavigateToNews}
+          style={[styles.compareButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          accessibilityRole="button"
+          accessibilityLabel="View metal news"
+        >
+          <Text style={[styles.compareButtonText, { color: theme.text }]}>📰 Metal News</Text>
         </TouchableOpacity>
       </View>
       {/* Filter Bar - positioned below action buttons, above drummer list (Issue #506) */}
@@ -16940,6 +16951,7 @@ setShowList(false);
           onNavigateToGenresList={handleNavigateToGenresList}
           onNavigateToTechniques={handleNavigateToTechniquesIndex}
           onNavigateToDrummers={handleNavigateToDrummers}
+          onNavigateToNews={handleNavigateToNews}
           spotlight={apiSpotlight || getCuratedFeaturedDrummer(drummers)}
           filters={filters}
           onFilterChange={handleFilterChange}

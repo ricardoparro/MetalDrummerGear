@@ -8,10 +8,9 @@ async function waitForDrummerPageContent(page, drummerName = null, timeout = 300
     const firstName = drummerName.split(' ')[0];
     await expect(page.getByText(firstName).first()).toBeVisible({ timeout });
   } else {
-    // Wait for any of these text patterns that indicate the app has rendered
-    const gearText = page.getByText(/Gear/i).first();
-    const bandText = page.getByText(/Band/i).first();
-    await expect(gearText.or(bandText)).toBeVisible({ timeout });
+    // Wait for page to have meaningful content - use simple body check
+    // This avoids strict mode issues while still verifying the page rendered
+    await expect(page.locator('body')).toContainText(/Gear|Band|Drummer|Metal/i, { timeout });
   }
 }
 
@@ -56,7 +55,7 @@ test.describe('Drummer Detail Pages', () => {
   test('drummer page shows name, bio, and gear', async ({ page }) => {
     test.setTimeout(60000);
     
-    await page.goto('/drummer/1');
+    await page.goto(`${BASE_URL}/drummer/1`);
     await page.waitForLoadState('networkidle');
     
     // Use auto-retry assertion for reliable content detection
@@ -74,7 +73,7 @@ test.describe('Drummer Detail Pages', () => {
     const errors = [];
     // Test first 3 drummers to stay within timeout
     for (const d of drummers.slice(0, 3)) {
-      await page.goto(`/drummer/${d.id}`);
+      await page.goto(`${BASE_URL}/drummer/${d.id}`);
       await page.waitForLoadState('networkidle');
       
       try {

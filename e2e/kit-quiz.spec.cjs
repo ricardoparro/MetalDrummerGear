@@ -30,19 +30,16 @@ async function isKitQuizAvailable(page) {
 
 // Helper to wait for homepage content using Playwright's getByText
 async function waitForHomepageContent(page, timeout = 30000) {
-  // Wait for any of these text patterns that indicate the app has rendered
-  const metalText = page.getByText(/Metal/i).first();
-  const drummerText = page.getByText(/Drummer/i).first();
-  const gearText = page.getByText(/Gear/i).first();
-  
-  await expect(metalText.or(drummerText).or(gearText)).toBeVisible({ timeout });
+  // Wait for page to have meaningful content - use simple body check
+  // This avoids strict mode issues while still verifying the page rendered
+  await expect(page.locator('body')).toContainText(/Metal|Drummer|Gear/i, { timeout });
 }
 
 test.describe('Kit Quiz - Issue #551', () => {
   
   test.describe('Homepage Integration', () => {
     test('Kit Quiz button is visible on homepage', async ({ page }) => {
-      await page.goto('/');
+      await page.goto(BASE_URL);
       await page.waitForLoadState('networkidle');
       
       // Wait for homepage content first
@@ -61,7 +58,7 @@ test.describe('Kit Quiz - Issue #551', () => {
     });
 
     test('Kit Quiz button navigates to quiz page', async ({ page }) => {
-      await page.goto('/');
+      await page.goto(BASE_URL);
       await page.waitForLoadState('networkidle');
       
       // Wait for homepage content first
@@ -97,7 +94,7 @@ test.describe('Kit Quiz - Issue #551', () => {
   test.describe('Shared Results URL', () => {
     test('results page shows score from URL params', async ({ page }) => {
       // Test that shared result URLs preserve params
-      await page.goto('/kit-quiz?correct=7&total=10');
+      await page.goto(`${BASE_URL}/kit-quiz?correct=7&total=10`);
       await page.waitForLoadState('load');
       
       // The app should recognize this as a shared result
@@ -108,14 +105,11 @@ test.describe('Kit Quiz - Issue #551', () => {
 
   test.describe('Kit Quiz Page Direct Access', () => {
     test('kit quiz page loads directly', async ({ page }) => {
-      await page.goto('/kit-quiz');
+      await page.goto(`${BASE_URL}/kit-quiz`);
+      await page.waitForLoadState('networkidle');
       
-      // Wait for any of these text patterns that indicate the app has rendered
-      const quizText = page.getByText(/Quiz/i).first();
-      const drummerText = page.getByText(/Drummer/i).first();
-      const metalText = page.getByText(/Metal/i).first();
-      
-      await expect(quizText.or(drummerText).or(metalText)).toBeVisible({ timeout: 30000 });
+      // Wait for page to have meaningful content
+      await expect(page.locator('body')).toContainText(/Quiz|Drummer|Metal/i, { timeout: 30000 });
       
       console.log('✓ Kit quiz page loaded');
     });
@@ -124,7 +118,7 @@ test.describe('Kit Quiz - Issue #551', () => {
   test.describe('Data Module', () => {
     test('kitQuizData.js exports required functions', async ({ page }) => {
       // This test verifies the app loads correctly, indicating modules are bundled
-      await page.goto('/');
+      await page.goto(BASE_URL);
       await page.waitForLoadState('networkidle');
       
       // Wait for homepage content using auto-retry

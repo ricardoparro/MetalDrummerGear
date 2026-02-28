@@ -122,14 +122,9 @@ test.describe('MetalForge E2E', () => {
     
     await page.goto('/');
     
-    // Use Playwright's getByText with built-in auto-waiting - this is what works for SPAs
-    // Wait for any of these text patterns that indicate the app has rendered
-    const metalText = page.getByText(/Metal/i).first();
-    const drummerText = page.getByText(/Drummer/i).first();
-    const gearText = page.getByText(/Gear/i).first();
-    
-    // At least one of these should be visible
-    await expect(metalText.or(drummerText).or(gearText)).toBeVisible({ timeout: 30000 });
+    // Wait for page to have meaningful content - use simple body check
+    // This avoids strict mode issues while still verifying the page rendered
+    await expect(page.locator('body')).toContainText(/Metal|Drummer|Gear/i, { timeout: 30000 });
     
     console.log('✓ Homepage loaded - site content visible');
   });

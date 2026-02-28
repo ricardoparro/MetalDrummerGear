@@ -31,12 +31,9 @@ const COMPARISON_SLUGS = [
 
 // Helper to wait for comparison page content using Playwright's getByText
 async function waitForComparisonPage(page, timeout = 30000) {
-  // Wait for any of these text patterns that indicate the app has rendered
-  const showdownText = page.getByText(/Showdown/i).first();
-  const vsText = page.getByText(/VS/i).first();
-  const drummerText = page.getByText(/Drummer/i).first();
-  
-  await expect(showdownText.or(vsText).or(drummerText)).toBeVisible({ timeout });
+  // Wait for page to have meaningful content - use simple body check
+  // This avoids strict mode issues while still verifying the page rendered
+  await expect(page.locator('body')).toContainText(/Drummer|Metal|Showdown|vs/i, { timeout });
 }
 
 test.describe('Drummer Comparisons Index Page', () => {

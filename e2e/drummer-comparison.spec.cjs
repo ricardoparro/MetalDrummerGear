@@ -19,9 +19,9 @@ const BASE_URL = process.env.BASE_URL || 'https://metalforge.io';
 const COMPARISON_SLUGS = [
   'lars-ulrich-vs-dave-lombardo',
   'mario-duplantier-vs-tomas-haake',
-  'joey-jordison-vs-gene-hoglan',
-  'danny-carey-vs-tomas-haake',
-  'george-kollias-vs-gene-hoglan',
+  'mike-portnoy-vs-danny-carey',
+  'george-kollias-vs-pete-sandoval',
+  'gene-hoglan-vs-charlie-benante',
 ];
 
 test.describe('Drummer Comparisons Index Page', () => {

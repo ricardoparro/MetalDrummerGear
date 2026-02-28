@@ -10,7 +10,7 @@
  * - Use <FilterBarSkeleton /> while filters load
  */
 
-import { View, StyleSheet, Platform } from 'react-native';
+import { View, StyleSheet, Platform, useWindowDimensions } from 'react-native';
 import { useTheme } from './ThemeContext';
 import { SKELETON_DIMENSIONS } from './cwvUtils';
 

@@ -11368,6 +11368,7 @@ function DrummerList({
   onNavigateToBirthdayCalendar,
   onNavigateToGenresList,
   onNavigateToTechniques,
+  onNavigateToDrummers,
   spotlight,
   filters,
   onFilterChange,
@@ -13905,6 +13906,95 @@ function KitQuizView({ theme, onBack, drummers, onSelectDrummer }) {
 }
 
 // ===============================================
+// KIT QUIZ: "Guess the Drummer by Kit" Viral Quiz (Issue #551)
+// ===============================================
+
+function KitQuizView({ theme, onBack, drummers, onSelectDrummer }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const [currentQuestion, setCurrentQuestion] = useState(0);
+  const [answers, setAnswers] = useState([]);
+  const [showResults, setShowResults] = useState(false);
+  const [results, setResults] = useState(null);
+  const [showHint, setShowHint] = useState(false);
+  const [questionStartTime, setQuestionStartTime] = useState(Date.now());
+  const [kitQuizLoaded, setKitQuizLoaded] = useState(false);
+  const [questions, setQuestions] = useState([]);
+  const [selectedOption, setSelectedOption] = useState(null);
+  const [isCorrect, setIsCorrect] = useState(null);
+
+  useEffect(() => { loadKitQuizData().then(m => { _kitQuizDataModule = m; setQuestions(m.getShuffledQuestions()); setKitQuizLoaded(true); trackKitQuizStart(); }); }, []);
+  useEffect(() => { if (showResults && results) { updateKitQuizMeta(results); updateKitQuizResultURL(results); } else { updateKitQuizMeta(null); } }, [showResults, results]);
+
+  const progress = questions.length > 0 ? ((currentQuestion + 1) / questions.length) * 100 : 0;
+
+  const handleAnswer = (optionId) => {
+    const question = questions[currentQuestion];
+    const timeSeconds = Math.round((Date.now() - questionStartTime) / 1000);
+    const correct = optionId === question.correctAnswer;
+    setSelectedOption(optionId); setIsCorrect(correct);
+    const newAnswers = [...answers, { questionId: question.id, selectedId: optionId, correctId: question.correctAnswer, usedHint: showHint, timeSeconds, correct }];
+    setAnswers(newAnswers);
+    setTimeout(() => {
+      if (currentQuestion < questions.length - 1) { setCurrentQuestion(currentQuestion + 1); setShowHint(false); setSelectedOption(null); setIsCorrect(null); setQuestionStartTime(Date.now()); }
+      else { const finalResults = _kitQuizDataModule.calculateScore(newAnswers, questions); setResults(finalResults); setShowResults(true); trackKitQuizCompletion(finalResults); }
+    }, 1200);
+  };
+
+  const handleRestart = () => { setCurrentQuestion(0); setAnswers([]); setShowResults(false); setResults(null); setShowHint(false); setSelectedOption(null); setIsCorrect(null); setQuestions(_kitQuizDataModule.getShuffledQuestions()); setQuestionStartTime(Date.now()); updateKitQuizMeta(null); if (Platform.OS === 'web' && typeof window !== 'undefined') window.history.replaceState({}, '', '/kit-quiz'); trackKitQuizStart(); };
+
+  const handleShare = async (platform) => {
+    if (!results) return;
+    const emoji = results.percentage >= 80 ? '🏆' : results.percentage >= 60 ? '🔥' : results.percentage >= 40 ? '🥁' : '😅';
+    const shareText = `${emoji} I got ${results.correct}/${results.total} (${results.percentage}%) on the Metal Drummer Kit Quiz! Can you beat my score? 🤘`;
+    const shareUrl = typeof window !== 'undefined' ? `${window.location.origin}/kit-quiz?correct=${results.correct}&total=${results.total}&score=${results.score}` : 'https://metalforge.io/kit-quiz';
+    trackKitQuizShare(platform, results);
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      let url;
+      switch (platform) { case 'twitter': url = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(shareUrl)}`; break; case 'facebook': url = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(shareUrl)}&quote=${encodeURIComponent(shareText)}`; break; case 'copy': try { await navigator.clipboard.writeText(`${shareText}\n${shareUrl}`); alert('Copied to clipboard!'); } catch (err) { console.error('Failed to copy:', err); } return; default: return; }
+      window.open(url, '_blank', 'width=600,height=400');
+    }
+  };
+
+  if (showResults && results) {
+    const { emoji, title, message } = results.message;
+    return (
+      <ScrollView style={[styles.quizContainer, { backgroundColor: theme.background }]}>
+        <View style={styles.quizContent}>
+          <TouchableOpacity onPress={onBack} style={[styles.backButton, { borderColor: theme.border }]} accessibilityRole="button" accessibilityLabel="Back to home"><Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text></TouchableOpacity>
+          <View style={styles.resultsHeader}><Text style={{ fontSize: 64, marginBottom: 16 }}>{emoji}</Text><Text style={[styles.resultsTitle, { color: theme.text }]}>{title}</Text><Text style={[styles.quizSubtitle, { color: theme.secondaryText, marginTop: 8 }]}>{message}</Text></View>
+          <View style={[styles.topMatchCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <View style={styles.kitQuizScoreContainer}><Text style={[styles.kitQuizScoreNumber, { color: theme.primary }]}>{results.correct}/{results.total}</Text><Text style={[styles.kitQuizScoreLabel, { color: theme.secondaryText }]}>Correct Answers</Text></View>
+            <View style={[styles.kitQuizStatRow, { borderTopColor: theme.border }]}><View style={styles.kitQuizStat}><Text style={[styles.kitQuizStatValue, { color: theme.text }]}>{results.percentage}%</Text><Text style={[styles.kitQuizStatLabel, { color: theme.secondaryText }]}>Accuracy</Text></View><View style={styles.kitQuizStat}><Text style={[styles.kitQuizStatValue, { color: theme.text }]}>{results.score}</Text><Text style={[styles.kitQuizStatLabel, { color: theme.secondaryText }]}>Total Points</Text></View></View>
+          </View>
+          <View style={styles.shareSection}><Text style={[styles.shareTitle, { color: theme.text }]}>Challenge Your Friends!</Text><View style={styles.shareButtons}><TouchableOpacity onPress={() => handleShare('twitter')} style={[styles.shareButton, { backgroundColor: colors.buttons.ghost.bg, borderWidth: 1, borderColor: colors.buttons.ghost.border }]}><Text style={[styles.shareButtonText, { color: '#1DA1F2' }]}>𝕏 Twitter</Text></TouchableOpacity><TouchableOpacity onPress={() => handleShare('facebook')} style={[styles.shareButton, { backgroundColor: colors.buttons.ghost.bg, borderWidth: 1, borderColor: colors.buttons.ghost.border }]}><Text style={[styles.shareButtonText, { color: '#4267B2' }]}>Facebook</Text></TouchableOpacity><TouchableOpacity onPress={() => handleShare('copy')} style={[styles.shareButton, { backgroundColor: theme.border }]}><Text style={[styles.shareButtonText, { color: theme.text }]}>📋 Copy</Text></TouchableOpacity></View></View>
+          <View style={[styles.kitQuizReviewSection, { backgroundColor: theme.card, borderColor: theme.border }]}><Text style={[styles.sectionTitle, { color: theme.text }]}>Review Your Answers</Text>{answers.map((answer, index) => { const question = questions[index]; const correctDrummer = question.options.find(o => o.id === question.correctAnswer); const selectedDrummer = question.options.find(o => o.id === answer.selectedId); return (<View key={index} style={[styles.kitQuizReviewItem, { borderBottomColor: theme.border }]}><View style={styles.kitQuizReviewRow}><Text style={[styles.kitQuizReviewNumber, { color: theme.secondaryText }]}>Q{index + 1}</Text><Text style={{ fontSize: 20, marginLeft: 8 }}>{answer.correct ? '✅' : '❌'}</Text><View style={styles.flex1}><Text style={[styles.kitQuizReviewAnswer, { color: theme.text }]}>{answer.correct ? correctDrummer?.name : `${selectedDrummer?.name} → ${correctDrummer?.name}`}</Text><Text style={[styles.kitQuizReviewBand, { color: theme.secondaryText }]}>{correctDrummer?.band}</Text></View></View></View>); })}</View>
+          <TouchableOpacity onPress={handleRestart} style={[styles.restartButton, { borderColor: theme.border }]}><Text style={[styles.restartButtonText, { color: theme.text }]}>🔄 Play Again</Text></TouchableOpacity>
+          <TouchableOpacity onPress={onBack} style={[styles.kitQuizExploreButton, { backgroundColor: theme.primary }]}><Text style={styles.kitQuizExploreButtonText}>Explore All Drummers →</Text></TouchableOpacity>
+        </View>
+      </ScrollView>
+    );
+  }
+
+  if (!kitQuizLoaded || questions.length === 0) return (<View style={[styles.quizContainer, { backgroundColor: theme.background, alignItems: 'center', justifyContent: 'center', paddingTop: 100 }]}><ActivityIndicator size="large" color={theme.primary} /><Text style={[styles.quizSubtitle, { color: theme.secondaryText, marginTop: 16 }]}>Loading quiz...</Text></View>);
+
+  const question = questions[currentQuestion];
+  return (
+    <ScrollView style={[styles.quizContainer, { backgroundColor: theme.background }]}>
+      <View style={styles.quizContent}>
+        <TouchableOpacity onPress={onBack} style={[styles.backButton, { borderColor: theme.border }]} accessibilityRole="button" accessibilityLabel="Back to home"><Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text></TouchableOpacity>
+        <View style={styles.quizHeader}><Text style={[styles.quizTitle, { color: theme.text }]}>🥁 Guess the Drummer by Kit</Text><Text style={[styles.quizSubtitle, { color: theme.secondaryText }]}>Can you identify the metal drummer from their gear setup?</Text></View>
+        <View style={styles.progressContainer}><View style={[styles.progressBar, { backgroundColor: theme.border }]}><View style={[styles.progressFill, { width: `${progress}%`, backgroundColor: theme.primary }]} /></View><Text style={[styles.progressText, { color: theme.secondaryText }]}>Question {currentQuestion + 1} of {questions.length}</Text></View>
+        <View style={[styles.kitQuizImageContainer, { backgroundColor: theme.card, borderColor: theme.border }]}><ImageWithFallback source={{ uri: question.kitImage }} style={styles.kitQuizImage} accessibilityLabel="Drum kit setup" width={isMobile ? width - 80 : 500} height={isMobile ? 200 : 300} imageContext="gallery" /></View>
+        {!showHint && !selectedOption && (<TouchableOpacity onPress={() => setShowHint(true)} style={[styles.kitQuizHintButton, { borderColor: theme.border }]}><Text style={[styles.kitQuizHintButtonText, { color: theme.secondaryText }]}>💡 Need a hint? (-3 points)</Text></TouchableOpacity>)}
+        {showHint && (<View style={[styles.kitQuizHintBox, { backgroundColor: theme.card, borderColor: theme.primary }]}><Text style={[styles.kitQuizHintText, { color: theme.text }]}>💡 {question.hint}</Text></View>)}
+        <View style={styles.optionsContainer}>{question.options.map((option) => { const isSelected = selectedOption === option.id; const isCorrectOption = option.id === question.correctAnswer; const showFeedback = selectedOption !== null; let optionStyle = { backgroundColor: theme.card, borderColor: theme.border }; if (showFeedback) { if (isCorrectOption) optionStyle = { backgroundColor: '#22c55e20', borderColor: '#22c55e' }; else if (isSelected && !isCorrect) optionStyle = { backgroundColor: '#ef444420', borderColor: '#ef4444' }; } return (<TouchableOpacity key={option.id} onPress={() => !selectedOption && handleAnswer(option.id)} disabled={selectedOption !== null} style={[styles.kitQuizOption, optionStyle]} accessibilityRole="button"><View style={styles.kitQuizOptionContent}><Text style={[styles.kitQuizOptionName, { color: theme.text }]}>{option.name}</Text><Text style={[styles.kitQuizOptionBand, { color: theme.secondaryText }]}>{option.band}</Text></View>{showFeedback && isCorrectOption && <Text style={{ fontSize: 24 }}>✅</Text>}{showFeedback && isSelected && !isCorrect && <Text style={{ fontSize: 24 }}>❌</Text>}</TouchableOpacity>); })}</View>
+      </View>
+    </ScrollView>
+  );
+}
+
+// ===============================================
 // COMPARE YOUR KIT: User Gear Comparison Tool
 // ===============================================
 
@@ -14845,6 +14935,11 @@ function AppContent() {
   const [techniqueSlug, setTechniqueSlug] = useState(() => getTechniqueSlugFromURL());
   const [showTechniquesIndex, setShowTechniquesIndex] = useState(() => isTechniquesIndexPage());
 
+  // Drummer vs Drummer Comparison Page state (Issue #558)
+  const [showDrummerVs, setShowDrummerVs] = useState(() => isDrummerVsPage());
+  const [drummerVsSlug, setDrummerVsSlug] = useState(() => getDrummerVsSlugFromURL());
+  const [showDrummerVsIndex, setShowDrummerVsIndex] = useState(() => isDrummerVsIndexPage());
+
   // Gear Category Page state (Issue #339)
   const [showGearIndex, setShowGearIndex] = useState(() => isGearIndexPage());
   const [showGearCategory, setShowGearCategory] = useState(() => isGearCategoryPage());
@@ -15730,6 +15825,71 @@ function AppContent() {
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
+      } else if (isDrummerVsPage()) {
+        // Drummer vs Drummer detail page (Issue #558)
+        preloadDrummerComparisons();
+        const slug = getDrummerVsSlugFromURL();
+        setShowDrummerVs(true);
+        setDrummerVsSlug(slug);
+        setShowDrummerVsIndex(false);
+        setShowNewsPage(false);
+        setShowTechniquesIndex(false);
+        setShowTechniqueDetail(false);
+        setTechniqueSlug(null);
+        setShowGearComparisonsIndex(false);
+        setShowGearComparison(false);
+        setGearComparisonSlug(null);
+        setShowGenresList(false);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowKitBuilder(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowList(false);
+        setListSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+      } else if (isDrummerVsIndexPage()) {
+        // Drummer vs Drummer index page (Issue #558)
+        preloadDrummerComparisons();
+        setShowDrummerVsIndex(true);
+        setShowDrummerVs(false);
+        setDrummerVsSlug(null);
+        setShowNewsPage(false);
+        setShowTechniquesIndex(false);
+        setShowTechniqueDetail(false);
+        setTechniqueSlug(null);
+        setShowGearComparisonsIndex(false);
+        setShowGearComparison(false);
+        setGearComparisonSlug(null);
+        setShowGenresList(false);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowKitBuilder(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowList(false);
+        setListSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
       } else {
         // Back to home page
         setShowCompare(false);
@@ -16051,6 +16211,31 @@ setShowList(false);
     setSelectedGear(null);
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
       window.history.pushState({}, '', '/news');
+    }
+  };
+
+  // Drummers Page navigation - browse all drummers with filters (Issue #497)
+  const handleNavigateToDrummers = () => {
+    setShowDrummersPage(true);
+    setShowNewsPage(false);
+    setShowQuotes(false);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowPrivacy(false);
+    setShowSpotlights(false);
+    setShowGearByBudget(false);
+    setShowList(false);
+    setListSlug(null);
+    setShowGearFinder(false);
+    setShowBandDetail(false);
+    setBandSlug(null);
+    setShowGenrePage(false);
+    setGenreSlug(null);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/drummers');
     }
   };
 
@@ -16451,6 +16636,109 @@ setShowList(false);
       console.error('Error fetching gear category:', err);
     } finally {
       setLoadingGearCategory(false);
+    }
+  };
+
+  // Navigate to drummer vs comparison page (Issue #558)
+  const handleNavigateToDrummerVs = (slug) => {
+    preloadDrummerComparisons();
+    setShowDrummerVs(true);
+    setDrummerVsSlug(slug);
+    setShowDrummerVsIndex(false);
+    // Reset other views
+    setShowTechniqueDetail(false);
+    setTechniqueSlug(null);
+    setShowTechniquesIndex(false);
+    setShowGearComparison(false);
+    setGearComparisonSlug(null);
+    setShowGearComparisonsIndex(false);
+    setShowGearFinder(false);
+    setShowGearByBudget(false);
+    setShowGearIndex(false);
+    setShowGearCategory(false);
+    setGearCategory(null);
+    setGearCategoryData(null);
+    setShowBandDetail(false);
+    setBandSlug(null);
+    setShowList(false);
+    setListSlug(null);
+    setShowSpotlights(false);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowPrivacy(false);
+    setShowQuotes(false);
+    setShowBioPage(false);
+    setBioSlug(null);
+    setShowGenrePage(false);
+    setGenreSlug(null);
+    setShowGenresList(false);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    // Update URL
+    updateDrummerVsURL(slug);
+  };
+
+  // Navigate to drummer vs index page (Issue #558)
+  const handleNavigateToDrummerVsIndex = () => {
+    preloadDrummerComparisons();
+    setShowDrummerVsIndex(true);
+    setShowDrummerVs(false);
+    setDrummerVsSlug(null);
+    // Reset other views
+    setShowTechniqueDetail(false);
+    setTechniqueSlug(null);
+    setShowTechniquesIndex(false);
+    setShowGearComparison(false);
+    setGearComparisonSlug(null);
+    setShowGearComparisonsIndex(false);
+    setShowGearFinder(false);
+    setShowGearByBudget(false);
+    setShowGearIndex(false);
+    setShowGearCategory(false);
+    setGearCategory(null);
+    setGearCategoryData(null);
+    setShowBandDetail(false);
+    setBandSlug(null);
+    setShowList(false);
+    setListSlug(null);
+    setShowSpotlights(false);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowPrivacy(false);
+    setShowQuotes(false);
+    setShowBioPage(false);
+    setBioSlug(null);
+    setShowGenrePage(false);
+    setGenreSlug(null);
+    setShowGenresList(false);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    // Update URL
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/vs');
+    }
+    updateDrummerVsMeta(null, null, null);
+  };
+
+  // Handle back from drummer vs page (Issue #558)
+  const handleBackFromDrummerVs = () => {
+    if (showDrummerVs) {
+      // Go back to vs index
+      setShowDrummerVs(false);
+      setDrummerVsSlug(null);
+      setShowDrummerVsIndex(true);
+      if (Platform.OS === 'web' && typeof window !== 'undefined') {
+        window.history.pushState({}, '', '/vs');
+      }
+      updateDrummerVsMeta(null, null, null);
+    } else {
+      // Go back to home
+      setShowDrummerVsIndex(false);
+      if (Platform.OS === 'web' && typeof window !== 'undefined') {
+        window.history.pushState({}, '', '/');
+      }
     }
   };
 

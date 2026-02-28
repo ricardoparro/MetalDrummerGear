@@ -16192,7 +16192,7 @@ setShowList(false);
           onNavigateToBirthdayCalendar={handleNavigateToBirthdayCalendar}
           onNavigateToGenresList={handleNavigateToGenresList}
           onNavigateToTechniques={handleNavigateToTechniquesIndex}
-          spotlight={apiSpotlight || getCurrentSpotlightDrummer(drummers)}
+          spotlight={apiSpotlight || getFeaturedDrummer(drummers)}
           filters={filters}
           onFilterChange={handleFilterChange}
           sortBy={sortBy}

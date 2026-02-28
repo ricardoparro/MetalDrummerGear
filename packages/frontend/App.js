@@ -16940,7 +16940,7 @@ setShowList(false);
           onNavigateToGenresList={handleNavigateToGenresList}
           onNavigateToTechniques={handleNavigateToTechniquesIndex}
           onNavigateToDrummers={handleNavigateToDrummers}
-          spotlight={apiSpotlight || getFeaturedDrummer(drummers)}
+          spotlight={apiSpotlight || getCuratedFeaturedDrummer(drummers)}
           filters={filters}
           onFilterChange={handleFilterChange}
           sortBy={sortBy}

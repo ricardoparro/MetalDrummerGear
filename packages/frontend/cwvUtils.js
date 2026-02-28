@@ -144,10 +144,12 @@ export const SKELETON_DIMENSIONS = {
     height: 50,
     marginBottom: 16,
   },
-  // Hero section skeleton
+  // Hero section skeleton (Issue #493 - new prominent hero with search CTA)
   heroSection: {
-    height: 200,
-    marginBottom: 24,
+    height: 280,
+    marginBottom: 16,
+    paddingTop: 48,
+    paddingBottom: 32,
   },
   // Spotlight section skeleton (matches DrummerSpotlight dimensions - Issue #312)
   spotlightSection: {

@@ -198,7 +198,7 @@ export function FilterBarSkeleton() {
 
 /**
  * Hero Section Skeleton
- * Matches the layout of the spotlight/hero section
+ * Matches the layout of the new hero section with prominent search CTA (Issue #493)
  */
 export function HeroSectionSkeleton() {
   const { theme } = useTheme();
@@ -209,26 +209,47 @@ export function HeroSectionSkeleton() {
       style={[
         styles.heroSection,
         {
-          height: dims.height,
+          minHeight: dims.height,
           marginBottom: dims.marginBottom,
-          borderRadius: 16,
-          borderWidth: 1,
-          borderColor: theme.border || '#3a3a3a',
+          paddingTop: dims.paddingTop || 48,
+          paddingBottom: dims.paddingBottom || 32,
+          paddingHorizontal: 20,
         }
       ]}
     >
-      <View style={styles.heroContent}>
-        {/* Hero image placeholder */}
+      <View style={styles.heroContentNew}>
+        {/* Emoji placeholder */}
         <SkeletonBase
-          style={styles.heroImage}
+          style={{ width: 48, height: 48, borderRadius: 24, marginBottom: 16 }}
           shimmer={false}
         />
-        {/* Hero text placeholders */}
-        <View style={styles.heroText}>
-          <SkeletonBase style={[styles.textLine, { width: '60%', height: 24 }]} shimmer={false} />
-          <SkeletonBase style={[styles.textLine, { width: '40%', height: 16, marginTop: 8 }]} shimmer={false} />
-          <SkeletonBase style={[styles.textLine, { width: '80%', height: 14, marginTop: 12 }]} shimmer={false} />
-        </View>
+        {/* Headline placeholder */}
+        <SkeletonBase 
+          style={[styles.textLine, { width: '80%', height: 24, marginBottom: 8 }]} 
+          shimmer={false} 
+        />
+        <SkeletonBase 
+          style={[styles.textLine, { width: '60%', height: 24, marginBottom: 24 }]} 
+          shimmer={false} 
+        />
+        {/* Search input placeholder */}
+        <SkeletonBase
+          style={{
+            width: '100%',
+            maxWidth: 600,
+            height: 56,
+            borderRadius: 12,
+            marginBottom: 16,
+            borderWidth: 2,
+            borderColor: theme.border || '#3a3a3a',
+          }}
+          shimmer={false}
+        />
+        {/* Stats line placeholder */}
+        <SkeletonBase 
+          style={[styles.textLine, { width: 200, height: 14 }]} 
+          shimmer={false} 
+        />
       </View>
     </SkeletonBase>
   );
@@ -329,7 +350,7 @@ export function SpotlightSkeleton() {
 export function PageLoadingSkeleton() {
   return (
     <View style={styles.pageContainer}>
-      <SearchBarSkeleton />
+      <HeroSectionSkeleton />
       <FilterBarSkeleton />
       <SpotlightSkeleton />
       <DrummerListSkeleton count={6} />
@@ -421,13 +442,18 @@ const styles = StyleSheet.create({
 
   // Hero Section
   heroSection: {
-    marginHorizontal: 16,
     overflow: 'hidden',
   },
   heroContent: {
     flexDirection: 'row',
     padding: 16,
     height: '100%',
+  },
+  heroContentNew: {
+    alignItems: 'center',
+    maxWidth: 600,
+    alignSelf: 'center',
+    width: '100%',
   },
   heroImage: {
     width: 120,

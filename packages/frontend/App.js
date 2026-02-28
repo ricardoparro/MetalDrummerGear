@@ -300,10 +300,12 @@ const MONTH_NAMES = ['January', 'February', 'March', 'April', 'May', 'June', 'Ju
 // State holders for lazy-loaded data
 let _top10ListsModule = null;
 let _quizDataModule = null;
+let _kitQuizDataModule = null;
 
 // Dynamic import functions for lazy loading
 const loadTop10Lists = () => import('./data/top10Lists');
 const loadQuizData = () => import('./data/quizData');
+const loadKitQuizData = () => import('./data/kitQuizData');
 
 // Get all top 10 lists (lazy loaded)
 async function getAllTop10ListsAsync() {
@@ -365,6 +367,11 @@ function getCurrentSpotlightIndex(totalDrummers) {
 // Get all drummers with spotlight data
 function getSpotlightDrummers(drummers) {
   return drummers.filter(d => d.spotlight);
+}
+
+// Get featured drummers for homepage (Issue #496)
+function getFeaturedDrummers(drummers) {
+  return drummers.filter(d => d.featured);
 }
 
 // Get this week's spotlight drummer (client-side computed)
@@ -10035,6 +10042,441 @@ function QuotesPage({ theme, onBack, onSelectDrummer }) {
   );
 }
 
+// ==========================================
+// NEWS PAGE COMPONENTS (Issue #514)
+// Phase 6: Dedicated /news page
+// ==========================================
+
+/**
+ * News skeleton component for loading states
+ */
+function NewsSkeleton({ count = 5 }) {
+  const { theme } = useTheme();
+  
+  return (
+    <View style={{ gap: 16 }}>
+      {Array.from({ length: count }).map((_, index) => (
+        <View 
+          key={index} 
+          style={[
+            styles.newsCardLarge,
+            { backgroundColor: theme.card, borderColor: theme.border }
+          ]}
+        >
+          <View style={{ height: 180, backgroundColor: theme.border, borderRadius: 8 }} />
+          <View style={{ padding: 16, gap: 8 }}>
+            <View style={{ height: 20, width: '80%', backgroundColor: theme.border, borderRadius: 4 }} />
+            <View style={{ height: 14, width: '100%', backgroundColor: theme.border, borderRadius: 4 }} />
+            <View style={{ height: 14, width: '60%', backgroundColor: theme.border, borderRadius: 4 }} />
+            <View style={{ flexDirection: 'row', gap: 8, marginTop: 8 }}>
+              <View style={{ height: 24, width: 80, backgroundColor: theme.border, borderRadius: 12 }} />
+              <View style={{ height: 24, width: 80, backgroundColor: theme.border, borderRadius: 12 }} />
+            </View>
+          </View>
+        </View>
+      ))}
+    </View>
+  );
+}
+
+/**
+ * Large news card for /news page - shows full article preview with drummer/band tags
+ */
+function NewsCardLarge({ item, theme, onDrummerPress, onBandPress }) {
+  const handlePress = () => {
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.open(item.link, '_blank', 'noopener,noreferrer');
+    } else {
+      Linking.openURL(item.link);
+    }
+  };
+
+  // Format relative time
+  const formatTimeAgo = (dateString) => {
+    if (!dateString) return '';
+    const date = new Date(dateString);
+    const now = new Date();
+    const diffMs = now - date;
+    const diffMins = Math.floor(diffMs / 60000);
+    const diffHours = Math.floor(diffMs / 3600000);
+    const diffDays = Math.floor(diffMs / 86400000);
+    
+    if (diffMins < 60) return `${diffMins} min${diffMins !== 1 ? 's' : ''} ago`;
+    if (diffHours < 24) return `${diffHours} hour${diffHours !== 1 ? 's' : ''} ago`;
+    if (diffDays < 7) return `${diffDays} day${diffDays !== 1 ? 's' : ''} ago`;
+    return date.toLocaleDateString();
+  };
+
+  return (
+    <View style={[styles.newsCardLarge, { backgroundColor: theme.card, borderColor: theme.border }]}>
+      {item.image && (
+        <TouchableOpacity onPress={handlePress} accessibilityRole="link">
+          <ImageWithFallback
+            source={{ uri: item.image }}
+            style={styles.newsCardLargeImage}
+            accessibilityLabel={`${item.title} image`}
+            width={400}
+            height={200}
+            imageContext="detail"
+          />
+        </TouchableOpacity>
+      )}
+      <View style={styles.newsCardLargeContent}>
+        <TouchableOpacity onPress={handlePress} accessibilityRole="link">
+          <Text style={[styles.newsCardLargeTitle, { color: theme.text }]} numberOfLines={3}>
+            {item.title}
+          </Text>
+        </TouchableOpacity>
+        {item.snippet && (
+          <Text style={[styles.newsCardLargeSnippet, { color: theme.secondaryText }]} numberOfLines={3}>
+            {item.snippet}
+          </Text>
+        )}
+        
+        {/* Drummer/Band tags */}
+        {(item.drummers?.length > 0 || item.bands?.length > 0) && (
+          <View style={styles.newsTags}>
+            {item.drummers?.map(d => (
+              <TouchableOpacity
+                key={d.id}
+                onPress={() => onDrummerPress(d)}
+                style={[styles.newsTag, styles.newsTagDrummer]}
+                accessibilityRole="link"
+                accessibilityLabel={`View ${d.name}'s profile`}
+              >
+                <Text style={styles.newsTagText}>🥁 {d.name}</Text>
+              </TouchableOpacity>
+            ))}
+            {item.bands?.map(b => (
+              <TouchableOpacity
+                key={b.slug}
+                onPress={() => onBandPress(b)}
+                style={[styles.newsTag, styles.newsTagBand]}
+                accessibilityRole="link"
+                accessibilityLabel={`View ${b.name} band page`}
+              >
+                <Text style={styles.newsTagText}>🎸 {b.name}</Text>
+              </TouchableOpacity>
+            ))}
+          </View>
+        )}
+        
+        <View style={styles.newsCardLargeMeta}>
+          <Text style={[styles.newsCardSource, { color: theme.primary }]}>
+            {item.source}
+          </Text>
+          <Text style={[styles.newsCardTime, { color: theme.secondaryText }]}>
+            {formatTimeAgo(item.pubDate)}
+          </Text>
+        </View>
+      </View>
+    </View>
+  );
+}
+
+/**
+ * Dedicated news page component - /news route
+ */
+function NewsPage({ theme, onBack, onNavigateToDrummer, onNavigateToBand }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const [news, setNews] = useState([]);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
+  const [filter, setFilter] = useState({ source: null });
+  const [lastFetch, setLastFetch] = useState(null);
+
+  // Format relative time for "Last updated" display
+  const formatTimeAgo = (dateString) => {
+    if (!dateString) return '';
+    const date = new Date(dateString);
+    const now = new Date();
+    const diffMs = now - date;
+    const diffMins = Math.floor(diffMs / 60000);
+    const diffHours = Math.floor(diffMs / 3600000);
+    
+    if (diffMins < 60) return `${diffMins} minute${diffMins !== 1 ? 's' : ''} ago`;
+    if (diffHours < 24) return `${diffHours} hour${diffHours !== 1 ? 's' : ''} ago`;
+    return date.toLocaleDateString();
+  };
+
+  // Fetch news
+  const fetchNews = useCallback(async () => {
+    setLoading(true);
+    setError(null);
+    try {
+      const params = new URLSearchParams();
+      if (filter.source) params.set('source', filter.source);
+      params.set('limit', '50');
+      
+      const response = await fetch(`/api/news?${params}`);
+      if (!response.ok) throw new Error('Failed to fetch news');
+      
+      const data = await response.json();
+      setNews(data.items || []);
+      setLastFetch(data.lastFetch);
+    } catch (err) {
+      setError(err.message);
+    } finally {
+      setLoading(false);
+    }
+  }, [filter]);
+
+  useEffect(() => {
+    fetchNews();
+  }, [fetchNews]);
+
+  // Update SEO meta tags
+  useEffect(() => {
+    updateNewsMeta(lastFetch);
+  }, [lastFetch]);
+
+  // Handle drummer press - navigate to drummer profile
+  const handleDrummerPress = (drummer) => {
+    if (drummer.id) {
+      onNavigateToDrummer(drummer.id);
+    }
+  };
+
+  // Handle band press - navigate to band page
+  const handleBandPress = (band) => {
+    if (band.slug) {
+      onNavigateToBand(band.slug);
+    }
+  };
+
+  return (
+    <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+      <View style={[styles.detailContent, isMobile && { paddingHorizontal: 16 }]}>
+        {/* Header */}
+        <View style={styles.newsPageHeader}>
+          <TouchableOpacity
+            onPress={onBack}
+            style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+            accessibilityRole="button"
+            accessibilityLabel="Go back to home"
+          >
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Home</Text>
+          </TouchableOpacity>
+          
+          <Text style={[styles.newsPageTitle, { color: theme.text }]} accessibilityRole="header">
+            📰 Metal News
+          </Text>
+          <Text style={[styles.newsPageSubtitle, { color: theme.secondaryText }]}>
+            Latest news about drummers and bands in our database
+          </Text>
+          {lastFetch && (
+            <Text style={[styles.newsLastUpdate, { color: theme.secondaryText }]}>
+              Updated {formatTimeAgo(lastFetch)}
+            </Text>
+          )}
+        </View>
+        
+        {/* Source filters */}
+        <View style={styles.newsFilters}>
+          <ScrollView horizontal showsHorizontalScrollIndicator={false}>
+            <FilterChip
+              label="All Sources"
+              isActive={!filter.source}
+              onPress={() => setFilter({ ...filter, source: null })}
+              theme={theme}
+            />
+            <FilterChip
+              label="Blabbermouth"
+              isActive={filter.source === 'blabbermouth'}
+              onPress={() => setFilter({ ...filter, source: 'blabbermouth' })}
+              theme={theme}
+            />
+            <FilterChip
+              label="Loudwire"
+              isActive={filter.source === 'loudwire'}
+              onPress={() => setFilter({ ...filter, source: 'loudwire' })}
+              theme={theme}
+            />
+            <FilterChip
+              label="Metal Injection"
+              isActive={filter.source === 'metalinjection'}
+              onPress={() => setFilter({ ...filter, source: 'metalinjection' })}
+              theme={theme}
+            />
+          </ScrollView>
+        </View>
+        
+        {/* News list */}
+        {loading ? (
+          <NewsSkeleton count={10} />
+        ) : error ? (
+          <View style={styles.newsEmpty}>
+            <Text style={[styles.newsEmptyText, { color: theme.error || '#ff6b6b' }]}>
+              Failed to load news: {error}
+            </Text>
+            <TouchableOpacity
+              onPress={fetchNews}
+              style={[styles.newsRetryButton, { backgroundColor: theme.primary }]}
+            >
+              <Text style={styles.newsRetryText}>Retry</Text>
+            </TouchableOpacity>
+          </View>
+        ) : news.length === 0 ? (
+          <View style={styles.newsEmpty}>
+            <Text style={[styles.newsEmptyText, { color: theme.secondaryText }]}>
+              No news found matching your filters.
+            </Text>
+          </View>
+        ) : (
+          <View style={{ gap: 16 }}>
+            {news.map(item => (
+              <NewsCardLarge
+                key={item.id}
+                item={item}
+                theme={theme}
+                onDrummerPress={handleDrummerPress}
+                onBandPress={handleBandPress}
+              />
+            ))}
+          </View>
+        )}
+        
+        {/* Attribution */}
+        <View style={[styles.newsAttribution, { borderTopColor: theme.border }]}>
+          <Text style={[styles.newsAttributionText, { color: theme.secondaryText }]}>
+            News aggregated from Blabbermouth, Loudwire, and Metal Injection.
+            {'\n\n'}
+            Click articles to read full stories on their original sites.
+          </Text>
+        </View>
+      </View>
+    </ScrollView>
+  );
+}
+
+// ==========================================
+// HERO SECTION - Homepage hero with prominent search CTA (Issue #493)
+// ==========================================
+
+function HeroSection({ 
+  theme, 
+  searchValue, 
+  onSearchChange, 
+  onSearchFocus, 
+  onSearchClear, 
+  suggestions, 
+  onSelectSuggestion, 
+  showSuggestions, 
+  searchInputRef,
+  drummerCount,
+  gearCount 
+}) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+
+  return (
+    <View style={[styles.heroSection, { backgroundColor: theme.background }]}>
+      {/* Gradient overlay for visual depth */}
+      {Platform.OS === 'web' && (
+        <div
+          style={{
+            position: 'absolute',
+            top: 0,
+            left: 0,
+            right: 0,
+            bottom: 0,
+            background: `radial-gradient(ellipse at 50% 0%, ${colors.brand.primary}15 0%, transparent 60%)`,
+            pointerEvents: 'none',
+          }}
+        />
+      )}
+      
+      <View style={styles.heroContent}>
+        {/* Logo/Branding */}
+        <Text style={[styles.heroEmoji, { color: theme.text }]}>🥁</Text>
+        
+        {/* Headline */}
+        <Text 
+          style={[styles.heroHeadline, { color: theme.text }, isMobile && styles.heroHeadlineMobile]}
+          accessibilityRole="header"
+        >
+          Discover what pro metal{'\n'}drummers actually use
+        </Text>
+        
+        {/* Search CTA - Large and prominent */}
+        <View style={styles.heroSearchContainer}>
+          <View style={[styles.heroSearchWrapper, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.heroSearchIcon, { color: theme.secondaryText }]}>🔍</Text>
+            <TextInput
+              ref={searchInputRef}
+              style={[styles.heroSearchInput, { color: theme.text }]}
+              placeholder="Search drummers, bands, gear..."
+              placeholderTextColor={theme.secondaryText}
+              value={searchValue}
+              onChangeText={onSearchChange}
+              onFocus={onSearchFocus}
+              accessibilityLabel="Search drummers by name, band, or gear brand"
+              inputMode="text"
+              enterKeyHint="search"
+              autoCapitalize="none"
+              autoCorrect={false}
+              autoComplete="off"
+            />
+            {searchValue ? (
+              <TouchableOpacity onPress={onSearchClear} style={styles.heroSearchClearButton}>
+                <Text style={[styles.heroSearchClearText, { color: theme.secondaryText }]}>✕</Text>
+              </TouchableOpacity>
+            ) : (
+              !isMobile && (
+                <View style={[styles.heroSearchShortcut, { backgroundColor: theme.background, borderColor: theme.border }]}>
+                  <Text style={[styles.heroSearchShortcutText, { color: theme.secondaryText }]}>⌘K</Text>
+                </View>
+              )
+            )}
+          </View>
+          {/* Search suggestions dropdown */}
+          {showSuggestions && suggestions.length > 0 && (
+            <View style={[styles.heroSuggestionsContainer, { backgroundColor: theme.card, borderColor: theme.border }]}>
+              {suggestions.slice(0, 6).map((suggestion, index) => (
+                <TouchableOpacity
+                  key={`${suggestion.type}-${suggestion.id || index}`}
+                  style={[styles.heroSuggestionItem, { borderBottomColor: theme.border }]}
+                  onPress={() => onSelectSuggestion(suggestion)}
+                >
+                  <View style={styles.heroSuggestionContent}>
+                    {suggestion.image && (
+                      <ImageWithFallback
+                        source={{ uri: suggestion.image }}
+                        style={styles.heroSuggestionImage}
+                        accessibilityLabel={`${suggestion.name} thumbnail`}
+                        width={36}
+                        height={36}
+                        imageContext="thumbnail"
+                      />
+                    )}
+                    <View style={styles.heroSuggestionText}>
+                      <Text style={[styles.heroSuggestionTitle, { color: theme.text }]}>{suggestion.name}</Text>
+                      <Text style={[styles.heroSuggestionSubtitle, { color: theme.secondaryText }]}>
+                        {suggestion.type === 'drummer' ? suggestion.band : suggestion.type}
+                      </Text>
+                    </View>
+                  </View>
+                  <Text style={[styles.heroSuggestionType, { color: theme.secondaryText }]}>
+                    {suggestion.type === 'drummer' ? '👤' : suggestion.type === 'band' ? '🎸' : '🥁'}
+                  </Text>
+                </TouchableOpacity>
+              ))}
+            </View>
+          )}
+        </View>
+        
+        {/* Stats line */}
+        <View style={styles.heroStats}>
+          <Text style={[styles.heroStatsText, { color: theme.secondaryText }]}>
+            {drummerCount || 60} drummers • {gearCount || '500+'} gear items • Verified setups
+          </Text>
+        </View>
+      </View>
+    </View>
+  );
+}
+
 function DrummerList({
   theme,
   onSelectDrummer,
@@ -10076,8 +10518,8 @@ function DrummerList({
         style={styles.listContainer}
         contentContainerStyle={{ paddingBottom: 20 }}
       >
-        {/* Search bar skeleton - matches SearchBar dimensions */}
-        <SearchBarSkeleton />
+        {/* Hero section skeleton - matches HeroSection dimensions (Issue #493) */}
+        <HeroSectionSkeleton />
         {/* Action buttons render without data, no skeleton needed */}
         {/* Filter bar skeleton - below action buttons, above drummer list (Issue #506) */}
         <FilterBarSkeleton />
@@ -10111,19 +10553,20 @@ function DrummerList({
   // Header content that scrolls with the list
   const ListHeader = () => (
     <>
-      <View style={styles.searchFilterContainer}>
-        <SearchBar
-          value={searchValue}
-          onChange={onSearchChange}
-          onFocus={onSearchFocus}
-          onClear={onSearchClear}
-          suggestions={suggestions}
-          onSelectSuggestion={onSelectSuggestion}
-          showSuggestions={showSuggestions}
-          theme={theme}
-          inputRef={searchInputRef}
-        />
-      </View>
+      {/* Hero Section with prominent search CTA (Issue #493) */}
+      <HeroSection
+        theme={theme}
+        searchValue={searchValue}
+        onSearchChange={onSearchChange}
+        onSearchFocus={onSearchFocus}
+        onSearchClear={onSearchClear}
+        suggestions={suggestions}
+        onSelectSuggestion={onSelectSuggestion}
+        showSuggestions={showSuggestions}
+        searchInputRef={searchInputRef}
+        drummerCount={drummers.length}
+        gearCount="500+"
+      />
       <View style={styles.actionButtonsRow}>
         <TouchableOpacity
           onPress={onNavigateToCompare}
@@ -10478,6 +10921,77 @@ function isBandsListPage() {
 function updateBandURL(slug) {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return;
   window.history.pushState({}, '', `/bands/${slug}`);
+}
+
+// ==========================================
+// NEWS PAGE ROUTING (Issue #514)
+// ==========================================
+
+// Check if we're on the news page (/news)
+function isNewsPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  return window.location.pathname === '/news' || window.location.pathname === '/news/';
+}
+
+// Update meta tags for news page SEO
+function updateNewsMeta(lastFetch = null) {
+  if (Platform.OS !== 'web' || typeof document === 'undefined') return;
+
+  const setMeta = (name, content, isProperty = false) => {
+    const attr = isProperty ? 'property' : 'name';
+    let meta = document.querySelector(`meta[${attr}="${name}"]`);
+    if (!meta) {
+      meta = document.createElement('meta');
+      meta.setAttribute(attr, name);
+      document.head.appendChild(meta);
+    }
+    meta.setAttribute('content', content);
+  };
+
+  const title = 'Metal News - Latest Updates on Metal Drummers | MetalForge';
+  const description = 'Stay updated with the latest news about metal drummers and bands. Gear announcements, tour dates, interviews and more from Blabbermouth, Loudwire, and Metal Injection.';
+
+  document.title = title;
+  setMeta('description', description);
+  setMeta('og:title', title, true);
+  setMeta('og:description', description, true);
+  setMeta('og:type', 'website', true);
+  setMeta('og:image', 'https://metalforge.io/og-news.png', true);
+  setMeta('og:url', 'https://metalforge.io/news', true);
+  setMeta('twitter:card', 'summary_large_image');
+  setMeta('twitter:title', title);
+  setMeta('twitter:description', description);
+  setMeta('twitter:image', 'https://metalforge.io/og-news.png');
+
+  // Set canonical URL
+  let canonical = document.querySelector('link[rel="canonical"]');
+  if (!canonical) {
+    canonical = document.createElement('link');
+    canonical.setAttribute('rel', 'canonical');
+    document.head.appendChild(canonical);
+  }
+  canonical.setAttribute('href', 'https://metalforge.io/news');
+
+  // Add CollectionPage schema
+  const schemaId = 'news-page-schema';
+  let existingSchema = document.getElementById(schemaId);
+  if (existingSchema) {
+    existingSchema.remove();
+  }
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Metal News",
+    "description": "Latest news about metal drummers and bands",
+    "url": "https://metalforge.io/news",
+    "isPartOf": { "@id": "https://metalforge.io" },
+    "dateModified": lastFetch || new Date().toISOString(),
+  };
+  const schemaScript = document.createElement('script');
+  schemaScript.id = schemaId;
+  schemaScript.type = 'application/ld+json';
+  schemaScript.textContent = JSON.stringify(schema);
+  document.head.appendChild(schemaScript);
 }
 
 // ==========================================
@@ -11008,6 +11522,128 @@ function getBpmCategory(bpm) {
   if (bpm < 160) return { label: 'Fast', color: colors.semantic.warning, emoji: '🔥' };
   if (bpm < 200) return { label: 'Very Fast', color: colors.semantic.error, emoji: '⚡' };
   return { label: 'Extreme', color: colors.brand.primary, emoji: '💀' };
+}
+
+// ==========================================
+// KIT QUIZ ROUTING (Issue #551)
+// ==========================================
+
+// Check if we're on the kit quiz page
+function isKitQuizPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  const pathname = window.location.pathname;
+  return pathname === '/kit-quiz' || pathname.startsWith('/kit-quiz?') ||
+         pathname === '/guess-the-drummer' || pathname.startsWith('/guess-the-drummer?');
+}
+
+// Get kit quiz result from URL params (for shareable results)
+function getKitQuizResultFromURL() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
+  const params = new URLSearchParams(window.location.search);
+  return {
+    score: params.get('score') ? parseInt(params.get('score'), 10) : null,
+    correct: params.get('correct') ? parseInt(params.get('correct'), 10) : null,
+    total: params.get('total') ? parseInt(params.get('total'), 10) : null,
+  };
+}
+
+// Update URL with kit quiz result
+function updateKitQuizResultURL(result) {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return;
+  const params = new URLSearchParams();
+  if (result.score) params.set('score', result.score.toString());
+  if (result.correct !== undefined) params.set('correct', result.correct.toString());
+  if (result.total) params.set('total', result.total.toString());
+  const queryString = params.toString();
+  const newUrl = queryString ? `/kit-quiz?${queryString}` : '/kit-quiz';
+  window.history.replaceState({}, '', newUrl);
+}
+
+// Update meta tags for kit quiz social sharing
+function updateKitQuizMeta(result) {
+  if (Platform.OS !== 'web' || typeof document === 'undefined') return;
+
+  const setMeta = (name, content, isProperty = false) => {
+    const attr = isProperty ? 'property' : 'name';
+    let meta = document.querySelector(`meta[${attr}="${name}"]`);
+    if (!meta) {
+      meta = document.createElement('meta');
+      meta.setAttribute(attr, name);
+      document.head.appendChild(meta);
+    }
+    meta.setAttribute('content', content);
+  };
+
+  if (result && result.correct !== undefined) {
+    const emoji = result.percentage >= 80 ? '🏆' : result.percentage >= 60 ? '🔥' : result.percentage >= 40 ? '🥁' : '😅';
+    const title = `${emoji} ${result.correct}/${result.total} - Metal Drummer Kit Quiz | MetalForge`;
+    const description = `I got ${result.correct}/${result.total} (${result.percentage}%) on the Metal Drummer Kit Quiz! Can you beat my score? 🤘 Guess the drummer by their drum kit setup.`;
+    const shareUrl = `https://metalforge.io/kit-quiz?correct=${result.correct}&total=${result.total}&score=${result.score}`;
+
+    document.title = title;
+    setMeta('description', description);
+    setMeta('og:title', title, true);
+    setMeta('og:description', description, true);
+    setMeta('og:type', 'website', true);
+    setMeta('og:image', 'https://metalforge.io/og-kit-quiz.png', true);
+    setMeta('og:url', shareUrl, true);
+    setMeta('twitter:card', 'summary_large_image');
+    setMeta('twitter:title', title);
+    setMeta('twitter:description', description);
+    setMeta('twitter:image', 'https://metalforge.io/og-kit-quiz.png');
+  } else {
+    const title = 'Guess the Drummer by Kit - Metal Quiz | MetalForge';
+    const description = 'Can you identify legendary metal drummers just by their gear setup? Test your knowledge with this viral quiz! 🥁🤘';
+
+    document.title = title;
+    setMeta('description', description);
+    setMeta('og:title', title, true);
+    setMeta('og:description', description, true);
+    setMeta('og:type', 'website', true);
+    setMeta('og:image', 'https://metalforge.io/og-kit-quiz.png', true);
+    setMeta('og:url', 'https://metalforge.io/kit-quiz', true);
+    setMeta('twitter:card', 'summary_large_image');
+    setMeta('twitter:title', title);
+    setMeta('twitter:description', description);
+    setMeta('twitter:image', 'https://metalforge.io/og-kit-quiz.png');
+  }
+}
+
+// Track kit quiz completion in GA4
+function trackKitQuizCompletion(result) {
+  if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
+    window.gtag('event', 'kit_quiz_complete', {
+      event_category: 'engagement',
+      event_label: `${result.correct}/${result.total}`,
+      value: result.score,
+      quiz_score: result.score,
+      quiz_correct: result.correct,
+      quiz_total: result.total,
+      quiz_percentage: result.percentage,
+    });
+  }
+}
+
+// Track kit quiz start in GA4
+function trackKitQuizStart() {
+  if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
+    window.gtag('event', 'kit_quiz_start', {
+      event_category: 'engagement',
+    });
+  }
+}
+
+// Track kit quiz share in GA4
+function trackKitQuizShare(platform, result) {
+  if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
+    window.gtag('event', 'kit_quiz_share', {
+      event_category: 'engagement',
+      event_label: platform,
+      value: result.score,
+      share_platform: platform,
+      quiz_score: result.score,
+    });
+  }
 }
 
 // ==========================================
@@ -13085,6 +13721,9 @@ function AppContent() {
   const [gearComparisonSlug, setGearComparisonSlug] = useState(() => getGearComparisonSlugFromURL());
   const [showGearComparisonsIndex, setShowGearComparisonsIndex] = useState(() => isGearComparisonsIndexPage());
 
+  // News Page state (Issue #514)
+  const [showNewsPage, setShowNewsPage] = useState(() => isNewsPage());
+
   // Drumming Techniques Page state (Issue #344)
   const [showTechniqueDetail, setShowTechniqueDetail] = useState(() => isTechniqueDetailPage());
   const [techniqueSlug, setTechniqueSlug] = useState(() => getTechniqueSlugFromURL());
@@ -13102,6 +13741,9 @@ function AppContent() {
   const [searchValue, setSearchValue] = useState(() => getFiltersFromURL().search || '');
   const [showSuggestions, setShowSuggestions] = useState(false);
   const searchInputRef = useRef(null);
+  
+  // Show all drummers state - false by default to show only featured drummers on homepage (Issue #496)
+  const [showAllDrummers, setShowAllDrummers] = useState(false);
 
   // Sort state - persisted in localStorage, can be overridden by URL param
   const [sortBy, setSortBy] = useState(() => {
@@ -13113,10 +13755,18 @@ function AppContent() {
   // The search input value updates immediately, but filter computation is debounced
   const debouncedSearchValue = useDebounce(searchValue, 150);
 
+  // Check if any filters are active (Issue #496)
+  const hasActiveFilters = debouncedSearchValue || filters.genre || filters.brand;
+
   // Filter drummers based on search and filters
   // INP Optimization: Use debounced search value to prevent expensive filtering on every keystroke
   const filteredDrummers = useMemo(() => {
     let results = drummers;
+
+    // Show only featured drummers on homepage when no filters are active (Issue #496)
+    if (!hasActiveFilters && !showAllDrummers) {
+      results = getFeaturedDrummers(drummers);
+    }
 
     // Search filter - uses debounced value for performance
     if (debouncedSearchValue) {
@@ -13205,7 +13855,7 @@ function AppContent() {
     }
 
     return sorted;
-  }, [drummers, debouncedSearchValue, filters, sortBy]);
+  }, [drummers, debouncedSearchValue, filters, sortBy, showAllDrummers, hasActiveFilters]);
 
   // Generate search suggestions
   const suggestions = useMemo(() => {
@@ -14139,11 +14789,36 @@ setShowList(false);
     setShowList(false);
     setListSlug(null);
     setShowGearFinder(false);
+    setShowNewsPage(false);
     setSelectedDrummer(null);
     setSelectedDrummerId(null);
     setSelectedGear(null);
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
       window.history.pushState({}, '', '/quotes');
+    }
+  };
+
+  // News Page navigation (Issue #514)
+  const handleNavigateToNews = () => {
+    setShowNewsPage(true);
+    setShowQuotes(false);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowPrivacy(false);
+    setShowSpotlights(false);
+    setShowGearByBudget(false);
+    setShowList(false);
+    setListSlug(null);
+    setShowGearFinder(false);
+    setShowBandDetail(false);
+    setBandSlug(null);
+    setShowGenrePage(false);
+    setGenreSlug(null);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/news');
     }
   };
 
@@ -14873,6 +15548,22 @@ setShowList(false);
         />
       );
     }
+    // News Page (Issue #514)
+    if (showNewsPage) {
+      return (
+        <NewsPage
+          theme={theme}
+          onBack={() => {
+            setShowNewsPage(false);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/');
+            }
+          }}
+          onNavigateToDrummer={handleSelectDrummer}
+          onNavigateToBand={handleNavigateToBand}
+        />
+      );
+    }
     if (showSpotlights) {
       return (
         <SpotlightsArchivePage
@@ -15238,6 +15929,144 @@ const styles = StyleSheet.create({
   mainContent: {
     flex: 1,
   },
+  
+  // ==========================================
+  // Hero Section Styles (Issue #493)
+  // ==========================================
+  heroSection: {
+    width: '100%',
+    paddingTop: spacing[12],       // 48px
+    paddingBottom: spacing[8],     // 32px
+    paddingHorizontal: spacing[5], // 20px
+    position: 'relative',
+    overflow: 'hidden',
+  },
+  heroContent: {
+    maxWidth: 600,
+    alignSelf: 'center',
+    width: '100%',
+    alignItems: 'center',
+  },
+  heroEmoji: {
+    fontSize: fontSize.display.md, // 48px
+    marginBottom: spacing[4],      // 16px
+  },
+  heroHeadline: {
+    fontSize: fontSize.xl,         // 24px
+    fontWeight: fontWeight.bold,
+    textAlign: 'center',
+    marginBottom: spacing[6],      // 24px
+    lineHeight: lineHeight.xl,
+  },
+  heroHeadlineMobile: {
+    fontSize: fontSize.lg,         // 18px
+    lineHeight: lineHeight.lg,
+  },
+  heroSearchContainer: {
+    width: '100%',
+    position: 'relative',
+    zIndex: 100,
+  },
+  heroSearchWrapper: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    paddingHorizontal: spacing[4], // 16px
+    paddingVertical: spacing[4],   // 16px
+    borderRadius: spacing[3],      // 12px
+    borderWidth: 2,
+    minHeight: spacing[12] + spacing[2], // 56px (larger touch target)
+  },
+  heroSearchIcon: {
+    fontSize: fontSize.lg,
+    marginRight: spacing[3],       // 12px
+  },
+  heroSearchInput: {
+    flex: 1,
+    fontSize: fontSize.base,       // 16px
+    padding: 0,
+    margin: 0,
+    ...Platform.select({
+      web: { outline: 'none' },
+    }),
+  },
+  heroSearchClearButton: {
+    padding: spacing[2],           // 8px
+    marginLeft: spacing[2],        // 8px
+  },
+  heroSearchClearText: {
+    fontSize: fontSize.base,
+    fontWeight: fontWeight.medium,
+  },
+  heroSearchShortcut: {
+    paddingHorizontal: spacing[2], // 8px
+    paddingVertical: spacing[1],   // 4px
+    borderRadius: spacing[1],      // 4px
+    borderWidth: 1,
+    marginLeft: spacing[2],        // 8px
+  },
+  heroSearchShortcutText: {
+    fontSize: fontSize.xs,
+    fontFamily: Platform.OS === 'ios' ? 'Menlo' : 'monospace',
+  },
+  heroSuggestionsContainer: {
+    position: 'absolute',
+    top: '100%',
+    left: 0,
+    right: 0,
+    marginTop: spacing[2],         // 8px
+    borderRadius: spacing[2],      // 8px
+    borderWidth: 1,
+    maxHeight: 320,
+    overflow: 'hidden',
+    ...Platform.select({
+      web: { 
+        boxShadow: '0 4px 20px rgba(0, 0, 0, 0.4)',
+      },
+    }),
+  },
+  heroSuggestionItem: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    padding: spacing[3],           // 12px
+    borderBottomWidth: 1,
+  },
+  heroSuggestionContent: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    flex: 1,
+  },
+  heroSuggestionImage: {
+    width: 36,
+    height: 36,
+    borderRadius: 18,
+    marginRight: spacing[3],       // 12px
+  },
+  heroSuggestionText: {
+    flex: 1,
+  },
+  heroSuggestionTitle: {
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.semibold,
+  },
+  heroSuggestionSubtitle: {
+    fontSize: fontSize.xs,
+    marginTop: 2,
+  },
+  heroSuggestionType: {
+    fontSize: fontSize.base,
+    marginLeft: spacing[2],        // 8px
+  },
+  heroStats: {
+    marginTop: spacing[4],         // 16px
+    alignItems: 'center',
+  },
+  heroStatsText: {
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.medium,
+    letterSpacing: 0.5,
+  },
+  
   listContainer: {
     paddingHorizontal: spacing[5], // 20px
     paddingBottom: spacing[5],     // 20px

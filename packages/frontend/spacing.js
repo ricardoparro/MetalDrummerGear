@@ -36,25 +36,16 @@
  */
 
 // Core spacing scale (8px grid)
-// NOTE: Metro bundler converts string number keys to numeric keys during bundling.
-// To avoid the "Failed to set indexed property [0]" CSS error in react-native-web,
-// we create the object via a function call that the bundler cannot optimize away.
-// (Issue #591, #596, #600, #601)
-function createSpacing() {
-  const s = {};
-  s['0'] = 0;
-  s['1'] = 4;   // Tight: inline elements
-  s['2'] = 8;   // Compact: between related items
-  s['3'] = 12;  // Default: standard gap
-  s['4'] = 16;  // Comfortable: section padding
-  s['5'] = 20;  // Relaxed: (use 24 instead when possible)
-  s['6'] = 24;  // Spacious: between sections
-  s['8'] = 32;  // Large: major section breaks
-  s['10'] = 40; // XL: page sections
-  s['12'] = 48; // XXL: hero padding
-  return s;
-}
-export const spacing = createSpacing();
+// CRITICAL FIX for #605: Use runtime string coercion to prevent bundler key optimization.
+// Metro/Babel converts string number keys (like '0', '1') to numeric keys during bundling.
+// This causes "Failed to set indexed property [0]" CSS error in react-native-web.
+// Using String() at runtime prevents static analysis and key conversion.
+// (Issue #591, #596, #600, #601, #605)
+const _spacingData = [[0, 0], [1, 4], [2, 8], [3, 12], [4, 16], [5, 20], [6, 24], [8, 32], [10, 40], [12, 48]];
+export const spacing = _spacingData.reduce((acc, [key, value]) => {
+  acc[String(key)] = value;
+  return acc;
+}, {});
 
 // Semantic spacing aliases
 export const space = {

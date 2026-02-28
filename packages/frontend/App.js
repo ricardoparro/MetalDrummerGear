@@ -792,7 +792,7 @@ function BandLinksSection({ bandLinks, bandName, theme }) {
               ]}
             >
               <Text style={styles.bandLinkIcon}>🎸</Text>
-              <View style={{ flex: 1 }}>
+              <View style={styles.flex1}>
                 <Text style={[styles.bandLinkName, { color: isClickable ? theme.primary : theme.text }]}>
                   {bandData?.name || band.slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ')}
                 </Text>
@@ -2446,7 +2446,7 @@ function DrummerNewsSection({ drummer, theme }) {
             <View style={styles.newsCardContent}>
               <View style={{ height: 14, width: '90%', backgroundColor: theme.border, borderRadius: 4, marginBottom: 6 }} />
               <View style={{ height: 12, width: '70%', backgroundColor: theme.border, borderRadius: 4, marginBottom: 6 }} />
-              <View style={{ flexDirection: 'row' }}>
+              <View style={styles.flexRow}>
                 <View style={{ height: 10, width: 60, backgroundColor: theme.border, borderRadius: 4, marginRight: 8 }} />
                 <View style={{ height: 10, width: 40, backgroundColor: theme.border, borderRadius: 4 }} />
               </View>
@@ -7255,7 +7255,7 @@ function BpmRangePage({ rangeSlug, theme, drummers, onBack, onSelectDrummer, onN
               key={`${song.band}-${song.song}-${idx}`}
               style={[styles.bpmSongItem, { backgroundColor: theme.card, borderColor: theme.border }]}
             >
-              <View style={{ flex: 1 }}>
+              <View style={styles.flex1}>
                 <Text style={[styles.bpmSongName, { color: theme.text }]}>{song.song}</Text>
                 <Text style={[styles.bpmSongBand, { color: theme.secondaryText }]}>
                   {song.band} • {song.album} ({song.year})
@@ -7414,8 +7414,8 @@ function DrummerBioPage({ theme, onBack, drummer, onSelectDrummer }) {
             <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Profile</Text>
           </TouchableOpacity>
           <Text style={[styles.bioPageTitle, { color: theme.text }]}>Extended Biography</Text>
-          <View style={{ alignItems: 'center', padding: 40 }}>
-            <Text style={{ fontSize: 32, marginBottom: 12 }}>⏳</Text>
+          <View style={styles.loadingContainer}>
+            <Text style={styles.loadingEmoji}>⏳</Text>
             <Text style={{ color: theme.secondaryText }}>Loading biography...</Text>
           </View>
         </View>
@@ -8330,11 +8330,11 @@ function GearCategoryPage({ category, categoryData, loading, theme, onBack, onSe
 
         {/* Brand filters */}
         {brands.length > 0 && (
-          <View style={{ marginBottom: 24 }}>
+          <View style={styles.mb24}>
             <Text style={[{ fontSize: 14, fontWeight: '600', marginBottom: 8 }, { color: theme.text }]}>
               Filter by Brand:
             </Text>
-            <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: 8 }}>
+            <View style={[styles.flexRowWrap, styles.gap8]}>
               {brands.map(brand => (
                 <TouchableOpacity
                   key={brand}
@@ -8647,7 +8647,7 @@ function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavi
         <View style={[styles.genreHeader, { marginBottom: 24 }]}>
           <View style={{ flexDirection: 'row', alignItems: 'center', marginBottom: 8 }}>
             <Text style={{ fontSize: 40, marginRight: 12 }}>{genre.icon}</Text>
-            <View style={{ flex: 1 }}>
+            <View style={styles.flex1}>
               <Text style={[styles.bandPageTitle, { color: theme.text, marginBottom: 0 }]}>
                 {genre.name}
               </Text>
@@ -8677,7 +8677,7 @@ function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavi
         {genre.pioneers && genre.pioneers.length > 0 && (
           <View style={[styles.genreSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
             <Text style={[styles.sectionTitle, { color: theme.text }]}>Genre Pioneers</Text>
-            <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: 8 }}>
+            <View style={[styles.flexRowWrap, styles.gap8]}>
               {genre.pioneers.map((pioneer, index) => {
                 // Find if pioneer is in our drummers list
                 const drummerData = drummers.find(d => 
@@ -8717,18 +8717,13 @@ function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavi
             <Text style={[styles.sectionTitle, { color: theme.text }]}>
               {genre.name} Drummers ({genreDrummers.length})
             </Text>
-            <View style={{ gap: 12 }}>
+            <View style={styles.gap3}>
               {genreDrummers.map((drummer) => (
                 <TouchableOpacity
                   key={drummer.id}
-                  style={[styles.drummerRow, { 
+                  style={[styles.genreDrummerCard, styles.flexRow, { 
                     backgroundColor: theme.background,
                     borderColor: theme.border,
-                    borderWidth: 1,
-                    borderRadius: 8,
-                    padding: 12,
-                    flexDirection: 'row',
-                    alignItems: 'center',
                   }]}
                   onPress={() => onSelectDrummer(drummer.id)}
                   accessibilityRole="button"
@@ -8737,25 +8732,19 @@ function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavi
                   {drummer.image && (
                     <Image
                       source={{ uri: getOptimizedImageUrl(drummer.image, 60) }}
-                      style={{ 
-                        width: 50, 
-                        height: 50, 
-                        borderRadius: 25, 
-                        marginRight: 12,
-                        backgroundColor: theme.border
-                      }}
+                      style={[styles.similarDrummerImage, styles.mr3, { backgroundColor: theme.border }]}
                       contentFit="cover"
                     />
                   )}
-                  <View style={{ flex: 1 }}>
-                    <Text style={[styles.drummerName, { color: theme.text, fontSize: 16 }]}>
+                  <View style={styles.flex1}>
+                    <Text style={[styles.genreDrummerName, { color: theme.text }]}>
                       {drummer.name}
                     </Text>
-                    <Text style={{ color: theme.secondaryText, fontSize: 14 }}>
+                    <Text style={[styles.genreDrummerBand, { color: theme.secondaryText }]}>
                       {drummer.band}
                     </Text>
                   </View>
-                  <Text style={{ color: theme.accent, fontSize: 18 }}>→</Text>
+                  <Text style={[styles.genreDrummerArrow, { color: theme.accent }]}>→</Text>
                 </TouchableOpacity>
               ))}
             </View>
@@ -8783,23 +8772,19 @@ function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavi
         {relatedGenres.length > 0 && (
           <View style={[styles.genreSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
             <Text style={[styles.sectionTitle, { color: theme.text }]}>Related Genres</Text>
-            <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: 8 }}>
+            <View style={[styles.flexRowWrap, styles.gap2]}>
               {relatedGenres.map((related) => (
                 <TouchableOpacity
                   key={related.slug}
-                  style={[styles.relatedGenreTag, { 
+                  style={[styles.genreRelatedTag, { 
                     backgroundColor: related.color + '20',
                     borderColor: related.color,
-                    borderWidth: 1,
-                    paddingHorizontal: 14,
-                    paddingVertical: 10,
-                    borderRadius: 8,
                   }]}
                   onPress={() => onNavigateGenre(related.slug)}
                   accessibilityRole="button"
                   accessibilityLabel={`Explore ${related.name}`}
                 >
-                  <Text style={{ color: related.color, fontWeight: '600' }}>
+                  <Text style={[styles.genreRelatedTagText, { color: related.color }]}>
                     {related.icon} {related.name}
                   </Text>
                 </TouchableOpacity>
@@ -8809,15 +8794,9 @@ function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavi
         )}
 
         {/* Browse All Genres Link */}
-        <View style={{ marginTop: 24, marginBottom: 40 }}>
+        <View style={[styles.mt6, styles.mb8]}>
           <TouchableOpacity
-            style={[styles.browseAllGenresButton, { 
-              backgroundColor: theme.accent,
-              paddingVertical: 14,
-              paddingHorizontal: 24,
-              borderRadius: 8,
-              alignItems: 'center'
-            }]}
+            style={[styles.ctaButton, { backgroundColor: theme.accent }]}
             onPress={() => {
               if (Platform.OS === 'web' && typeof window !== 'undefined') {
                 window.history.pushState({}, '', '/genres');
@@ -8827,7 +8806,7 @@ function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavi
             accessibilityRole="button"
             accessibilityLabel="Browse all genres"
           >
-            <Text style={{ color: theme.text, fontWeight: '700', fontSize: 16 }}>
+            <Text style={[styles.genreSeoCtaText, { color: theme.text }]}>
               Browse All Genres
             </Text>
           </TouchableOpacity>
@@ -8995,8 +8974,8 @@ function GearComparisonsIndexPage({ theme, onBack, onSelectComparison }) {
           <Text style={[styles.bandPageSubtitle, { color: theme.secondaryText, marginBottom: 24 }]}>
             Compare top drum brands and gear for metal drumming. Expert analysis, specs, pricing, and pro endorsements.
           </Text>
-          <View style={{ alignItems: 'center', padding: 40 }}>
-            <Text style={{ fontSize: 32, marginBottom: 12 }}>⏳</Text>
+          <View style={styles.loadingContainer}>
+            <Text style={styles.loadingEmoji}>⏳</Text>
             <Text style={{ color: theme.secondaryText }}>Loading comparisons...</Text>
           </View>
         </View>
@@ -9026,7 +9005,7 @@ function GearComparisonsIndexPage({ theme, onBack, onSelectComparison }) {
           if (comparisons.length === 0) return null;
 
           return (
-            <View key={category} style={{ marginBottom: 32 }}>
+            <View key={category} style={styles.mb32}>
               <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>
                 {categoryLabels[category]}
               </Text>
@@ -9138,8 +9117,8 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
           >
             <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
           </TouchableOpacity>
-          <View style={{ alignItems: 'center', padding: 40 }}>
-            <Text style={{ fontSize: 32, marginBottom: 12 }}>⏳</Text>
+          <View style={styles.loadingContainer}>
+            <Text style={styles.loadingEmoji}>⏳</Text>
             <Text style={{ color: theme.secondaryText }}>Loading comparison...</Text>
           </View>
         </View>
@@ -9302,7 +9281,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
         </View>
 
         {/* Pros & Cons Comparison */}
-        <View style={{ marginBottom: 24 }}>
+        <View style={styles.mb24}>
           <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>
             ⚖️ Pros & Cons
           </Text>
@@ -9386,7 +9365,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
             🎯 Head-to-Head
           </Text>
           {Object.entries(comparison.comparison).map(([key, value]) => (
-            <View key={key} style={{ marginBottom: 16 }}>
+            <View key={key} style={styles.mb16}>
               <Text style={{ color: theme.text, fontWeight: '600', fontSize: 15, marginBottom: 6, textTransform: 'capitalize' }}>
                 {key === 'forMetal' ? '🤘 For Metal' : `${key.charAt(0).toUpperCase() + key.slice(1)}`}
               </Text>
@@ -9398,7 +9377,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
         </View>
 
         {/* Pro Endorsements */}
-        <View style={{ marginBottom: 24 }}>
+        <View style={styles.mb24}>
           <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>
             🎸 Pro Endorsements
           </Text>
@@ -9408,7 +9387,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
               <Text style={{ fontSize: 16, fontWeight: '600', color: theme.text, marginBottom: 12 }}>
                 {item1.brand} Users
               </Text>
-              <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: 8 }}>
+              <View style={[styles.flexRowWrap, styles.gap8]}>
                 {item1.usedBy.map((name, i) => {
                   const drummer = findDrummerByName(name);
                   return (
@@ -9436,7 +9415,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
               <Text style={{ fontSize: 16, fontWeight: '600', color: theme.text, marginBottom: 12 }}>
                 {item2.brand} Users
               </Text>
-              <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: 8 }}>
+              <View style={[styles.flexRowWrap, styles.gap8]}>
                 {item2.usedBy.map((name, i) => {
                   const drummer = findDrummerByName(name);
                   return (
@@ -9584,8 +9563,8 @@ function TechniquesIndexPage({ theme, onBack, onSelectTechnique, onSelectDrummer
           <Text style={[styles.bandPageSubtitle, { color: theme.secondaryText, marginBottom: 24 }]}>
             Master the essential techniques of metal drumming. From blast beats to polyrhythms, learn how the pros do it.
           </Text>
-          <View style={{ alignItems: 'center', padding: 40 }}>
-            <Text style={{ fontSize: 32, marginBottom: 12 }}>⏳</Text>
+          <View style={styles.loadingContainer}>
+            <Text style={styles.loadingEmoji}>⏳</Text>
             <Text style={{ color: theme.secondaryText }}>Loading techniques...</Text>
           </View>
         </View>
@@ -9616,7 +9595,7 @@ function TechniquesIndexPage({ theme, onBack, onSelectTechnique, onSelectDrummer
           const categoryInfo = TECHNIQUE_CATEGORIES[category];
 
           return (
-            <View key={category} style={{ marginBottom: 32 }}>
+            <View key={category} style={styles.mb32}>
               <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 8 }}>
                 {categoryInfo?.emoji} {categoryInfo?.label || category}
               </Text>
@@ -9788,10 +9767,10 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
         </TouchableOpacity>
 
         {/* Header */}
-        <View style={{ marginBottom: 24 }}>
+        <View style={styles.mb24}>
           <View style={{ flexDirection: 'row', alignItems: 'center', marginBottom: 12, flexWrap: 'wrap', gap: 12 }}>
             <Text style={{ fontSize: 48 }}>{technique.emoji}</Text>
-            <View style={{ flex: 1 }}>
+            <View style={styles.flex1}>
               <Text style={[styles.bandPageTitle, { color: theme.text, marginBottom: 4 }]}>{technique.title}</Text>
               <View style={{ flexDirection: 'row', alignItems: 'center', gap: 12, flexWrap: 'wrap' }}>
                 <View style={{ 
@@ -9823,7 +9802,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
         </View>
 
         {/* History & Origins */}
-        <View style={{ backgroundColor: theme.card, borderRadius: 12, padding: 20, marginBottom: 24, borderColor: theme.border, borderWidth: 1 }}>
+        <View style={[styles.contentCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
           <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>
             📜 History & Origins
           </Text>
@@ -9833,7 +9812,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
         </View>
 
         {/* How to Learn */}
-        <View style={{ backgroundColor: theme.card, borderRadius: 12, padding: 20, marginBottom: 24, borderColor: theme.border, borderWidth: 1 }}>
+        <View style={[styles.contentCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
           <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>
             📚 How to Learn
           </Text>
@@ -9860,7 +9839,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
 
         {/* Variations */}
         {technique.variations && technique.variations.length > 0 && (
-          <View style={{ backgroundColor: theme.card, borderRadius: 12, padding: 20, marginBottom: 24, borderColor: theme.border, borderWidth: 1 }}>
+          <View style={[styles.contentCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
             <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>
               🔀 Variations
             </Text>
@@ -9879,11 +9858,11 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
 
         {/* Masters of This Technique */}
         {technique.masters && technique.masters.length > 0 && (
-          <View style={{ backgroundColor: theme.card, borderRadius: 12, padding: 20, marginBottom: 24, borderColor: theme.border, borderWidth: 1 }}>
+          <View style={[styles.contentCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
             <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>
               🏆 Masters of This Technique
             </Text>
-            <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: 12 }}>
+            <View style={[styles.flexRowWrap, styles.gap12]}>
               {technique.masters.map((master, index) => {
                 const drummerProfile = findDrummerProfile(master.slug);
                 const isClickable = drummerProfile !== null;
@@ -9906,7 +9885,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
                     accessibilityLabel={isClickable ? `View ${master.name}'s profile` : master.name}
                   >
                     <View style={{ flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between' }}>
-                      <View style={{ flex: 1 }}>
+                      <View style={styles.flex1}>
                         <Text style={{ color: theme.text, fontWeight: '600', fontSize: 15 }}>
                           {master.name}
                         </Text>
@@ -9932,7 +9911,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
 
         {/* Gear Recommendations */}
         {technique.gearRecommendations && (
-          <View style={{ backgroundColor: theme.card, borderRadius: 12, padding: 20, marginBottom: 24, borderColor: theme.border, borderWidth: 1 }}>
+          <View style={[styles.contentCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
             <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>
               🛠️ Gear Recommendations
             </Text>
@@ -9956,7 +9935,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
               };
 
               return (
-                <View key={category} style={{ marginBottom: 16 }}>
+                <View key={category} style={styles.mb16}>
                   <Text style={{ color: theme.text, fontWeight: '600', fontSize: 15, marginBottom: 8, textTransform: 'capitalize' }}>
                     {categoryEmojis[category] || '•'} {category}
                   </Text>
@@ -9993,11 +9972,11 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
 
         {/* Related Techniques */}
         {relatedTechniques && relatedTechniques.length > 0 && (
-          <View style={{ backgroundColor: theme.card, borderRadius: 12, padding: 20, marginBottom: 24, borderColor: theme.border, borderWidth: 1 }}>
+          <View style={[styles.contentCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
             <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>
               🔗 Related Techniques
             </Text>
-            <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: 12 }}>
+            <View style={[styles.flexRowWrap, styles.gap12]}>
               {relatedTechniques.map(related => (
                 <TouchableOpacity
                   key={related.slug}
@@ -10261,7 +10240,7 @@ function NewsSkeleton({ count = 5 }) {
   const { theme } = useTheme();
   
   return (
-    <View style={{ gap: 16 }}>
+    <View style={styles.gap16}>
       {Array.from({ length: count }).map((_, index) => (
         <View 
           key={index} 
@@ -10531,7 +10510,7 @@ function NewsPage({ theme, onBack, onNavigateToDrummer, onNavigateToBand }) {
             </Text>
           </View>
         ) : (
-          <View style={{ gap: 16 }}>
+          <View style={styles.gap16}>
             {news.map(item => (
               <NewsCardLarge
                 key={item.id}
@@ -10965,6 +10944,18 @@ function DrummerList({
       contentContainerStyle={styles.listContainer}
     />
   );
+}
+
+
+// ==========================================
+// DRUMMERS PAGE ROUTING (Issue #497)
+// ==========================================
+
+// Check if we are on the /drummers page (full list with filters)
+function isDrummersPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  const pathname = window.location.pathname;
+  return pathname === '/drummers' || pathname.startsWith('/drummers?');
 }
 
 // Check if we're on the drummer compare page based on URL (requires query params like ?d1=1&d2=2)
@@ -19124,6 +19115,108 @@ const styles = StyleSheet.create({
     fontWeight: fontWeight.medium,
   },
   // ==========================================
+  // FEATURED DRUMMER SECTION STYLES (Issue #494)
+  // Curated featured drummer with weekly rotation + birthday overrides
+  // ==========================================
+  featuredDrummerContainer: {
+    marginBottom: 20,
+    borderRadius: 16,
+    borderWidth: 1,
+    overflow: 'hidden',
+    minHeight: 180, // CLS prevention: reserve space for content
+  },
+  featuredDrummerHeader: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    paddingHorizontal: 16,
+    paddingVertical: 12,
+    borderBottomWidth: 1,
+    borderBottomColor: 'rgba(128, 128, 128, 0.2)',
+  },
+  featuredDrummerLabel: {
+    fontSize: fontSize.xs,
+    fontWeight: fontWeight.bold,
+    letterSpacing: 1,
+  },
+  featuredDrummerReason: {
+    fontSize: fontSize.xs,
+    fontWeight: fontWeight.medium,
+  },
+  featuredDrummerContent: {
+    flexDirection: 'row',
+    padding: 16,
+    gap: 16,
+  },
+  featuredDrummerContentMobile: {
+    flexDirection: 'column',
+    alignItems: 'center',
+  },
+  featuredDrummerImageContainer: {
+    flexShrink: 0,
+  },
+  featuredDrummerImage: {
+    width: 120,
+    height: 120,
+    borderRadius: 12,
+    aspectRatio: 1, // Prevent CLS
+  },
+  featuredDrummerImageMobile: {
+    width: 100,
+    height: 100,
+    aspectRatio: 1,
+    marginBottom: 12,
+  },
+  featuredDrummerInfo: {
+    flex: 1,
+    justifyContent: 'center',
+  },
+  featuredDrummerInfoMobile: {
+    alignItems: 'center',
+    width: '100%',
+  },
+  featuredDrummerName: {
+    fontSize: fontSize.xl,
+    fontWeight: fontWeight.bold,
+    marginBottom: 4,
+  },
+  featuredDrummerBand: {
+    fontSize: fontSize.base,
+    marginBottom: 8,
+  },
+  featuredDrummerNickname: {
+    fontSize: fontSize.sm,
+    fontStyle: 'italic',
+    marginBottom: 8,
+    fontWeight: fontWeight.medium,
+  },
+  featuredDrummerGenre: {
+    marginBottom: 12,
+  },
+  featuredDrummerCTA: {
+    paddingVertical: 10,
+    paddingHorizontal: 20,
+    borderRadius: 8,
+    alignItems: 'center',
+    alignSelf: 'flex-start',
+  },
+  featuredDrummerCTAText: {
+    color: '#ffffff',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.semibold,
+  },
+  featuredDrummerArchiveLink: {
+    borderTopWidth: 1,
+    borderTopColor: 'rgba(128, 128, 128, 0.2)',
+    paddingVertical: 10,
+    paddingHorizontal: 16,
+    alignItems: 'center',
+  },
+  featuredDrummerArchiveLinkText: {
+    fontSize: fontSize.xs,
+    fontWeight: fontWeight.medium,
+  },
+  // ==========================================
   // SPOTLIGHTS ARCHIVE PAGE STYLES
   // ==========================================
   spotlightsArchiveTitle: {
@@ -21216,4 +21309,65 @@ const styles = StyleSheet.create({
     fontSize: 16,
     marginLeft: 8,
   },
+  
+  // ==========================================
+  // UTILITY STYLES (Issue #521 - Inline Style Migration)
+  // Reduces ~247 inline styles to <50 by extracting common patterns
+  // ==========================================
+  
+  // Flex utilities
+  flex1: { flex: 1 },
+  flexRow: { flexDirection: 'row' },
+  flexRowCenter: { flexDirection: 'row', alignItems: 'center' },
+  flexRowBetween: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between' },
+  flexRowWrap: { flexDirection: 'row', flexWrap: 'wrap' },
+  flexCenter: { alignItems: 'center', justifyContent: 'center' },
+  alignCenter: { alignItems: 'center' },
+  
+  // Gap utilities
+  gap8: { gap: spacing[2] },
+  gap10: { gap: 10 },
+  gap12: { gap: spacing[3] },
+  gap16: { gap: spacing[4] },
+  
+  // Margin utilities
+  mb4: { marginBottom: spacing[1] },
+  mb8: { marginBottom: spacing[2] },
+  mb12: { marginBottom: spacing[3] },
+  mb16: { marginBottom: spacing[4] },
+  mb24: { marginBottom: spacing[6] },
+  mb32: { marginBottom: spacing[8] },
+  mt8: { marginTop: spacing[2] },
+  mt12: { marginTop: spacing[3] },
+  mt16: { marginTop: spacing[4] },
+  mt24: { marginTop: spacing[6] },
+  mr8: { marginRight: spacing[2] },
+  mr12: { marginRight: spacing[3] },
+  
+  // Padding utilities
+  p16: { padding: spacing[4] },
+  p20: { padding: spacing[5] },
+  p40: { padding: spacing[10] },
+  
+  // Common card patterns
+  contentCard: {
+    borderRadius: spacing[3],
+    padding: spacing[5],
+    marginBottom: spacing[6],
+    borderWidth: 1,
+  },
+  
+  // Loading states
+  loadingContainer: { alignItems: 'center', padding: spacing[10] },
+  loadingEmoji: { fontSize: fontSize['2xl'], marginBottom: spacing[3] },
+  
+  // Text utilities  
+  textSecondary: { fontSize: fontSize.sm },
+  textSecondarySmall: { fontSize: fontSize.xs },
+  textCenter: { textAlign: 'center' },
+  textBold: { fontWeight: fontWeight.bold },
+  textSemibold: { fontWeight: fontWeight.semibold },
+  
+  // Icons
+  icon48: { fontSize: fontSize.display.md },
 });

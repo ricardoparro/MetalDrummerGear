@@ -10692,6 +10692,7 @@ function DrummerList({
   error,
   onNavigateToCompare,
   onNavigateToQuiz,
+  onNavigateToKitQuiz,
   onNavigateToSpotlights,
   onNavigateToQuotes,
   onNavigateToGearByBudget,
@@ -15090,7 +15091,7 @@ setShowList(false);
     }
   };
 
-  // Kit Quiz navigation (Issue #551) - Fix for #562
+  // Kit Quiz navigation (Issue #551) - Fix for #562, #566 (complete prop fix)
   const handleNavigateToKitQuiz = () => {
     setShowKitQuiz(true);
     setShowQuiz(false);

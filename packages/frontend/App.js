@@ -204,6 +204,44 @@ function getAllGearComparisons() { return _gearComparisonsModule?.getAllGearComp
 function hasGearComparison(slug) { return _gearComparisonsModule?.hasGearComparison(slug) || false; }
 function getAllGearComparisonSlugs() { return _gearComparisonsModule?.getAllGearComparisonSlugs() || []; }
 
+// Drummer vs Drummer comparison data (Issue #558)
+// Lazy loaded for TBT optimization
+let _drummerComparisonsModule = null;
+let _drummerComparisonsLoadPromise = null;
+let _drummerComparisonsLoadListeners = [];
+const loadDrummerComparisons = () => import('./data/drummerComparisons');
+
+function preloadDrummerComparisons() {
+  if (!_drummerComparisonsLoadPromise) {
+    _drummerComparisonsLoadPromise = loadDrummerComparisons().then(m => { 
+      _drummerComparisonsModule = m; 
+      // Notify all listeners that the module is loaded
+      _drummerComparisonsLoadListeners.forEach(cb => cb());
+      _drummerComparisonsLoadListeners = [];
+      return m; 
+    });
+  }
+  return _drummerComparisonsLoadPromise;
+}
+// Subscribe to drummer comparisons module load - returns unsubscribe function
+function onDrummerComparisonsLoaded(callback) {
+  if (_drummerComparisonsModule) {
+    // Module already loaded, call immediately
+    callback();
+    return () => {};
+  }
+  _drummerComparisonsLoadListeners.push(callback);
+  return () => {
+    _drummerComparisonsLoadListeners = _drummerComparisonsLoadListeners.filter(cb => cb !== callback);
+  };
+}
+function isDrummerComparisonsLoaded() { return _drummerComparisonsModule !== null; }
+function getDrummerComparisonBySlug(slug) { return _drummerComparisonsModule?.getDrummerComparisonBySlug(slug) || null; }
+function getAllDrummerComparisons() { return _drummerComparisonsModule?.getAllDrummerComparisons() || []; }
+function hasDrummerComparison(slug) { return _drummerComparisonsModule?.hasDrummerComparison(slug) || false; }
+function getAllDrummerComparisonSlugs() { return _drummerComparisonsModule?.getAllDrummerComparisonSlugs() || []; }
+function getComparisonsForDrummer(slug) { return _drummerComparisonsModule?.getComparisonsForDrummer(slug) || []; }
+
 // Drumming techniques data (Issue #344)
 // Loaded dynamically for code splitting - TBT optimization #460
 let _techniquesModule = null;
@@ -298,6 +336,48 @@ function formatBirthday(dateStr) { return _birthdaysModule?.formatBirthday(dateS
 function getZodiacSign(dateStr) { return _birthdaysModule?.getZodiacSign(dateStr) || ''; }
 // MONTH_NAMES is a constant, keep inline to avoid extra async load
 const MONTH_NAMES = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+
+// ==========================================
+// DRUMMER COMPARISONS - Lazy loaded (Issue #558)
+// ==========================================
+let _drummerComparisonsModule = null;
+let _drummerComparisonsLoadPromise = null;
+let _drummerComparisonsLoadListeners = [];
+const loadDrummerComparisons = () => import('./data/drummerComparisons');
+
+function preloadDrummerComparisons() {
+  if (!_drummerComparisonsLoadPromise) {
+    _drummerComparisonsLoadPromise = loadDrummerComparisons().then(m => { 
+      _drummerComparisonsModule = m;
+      // Notify all listeners that the module is loaded
+      _drummerComparisonsLoadListeners.forEach(cb => cb());
+      _drummerComparisonsLoadListeners = [];
+      return m;
+    });
+  }
+  return _drummerComparisonsLoadPromise;
+}
+
+// Subscribe to drummer comparisons module load - returns unsubscribe function
+function onDrummerComparisonsLoaded(callback) {
+  if (_drummerComparisonsModule) {
+    // Module already loaded, call immediately
+    callback();
+    return () => {};
+  }
+  _drummerComparisonsLoadListeners.push(callback);
+  return () => {
+    _drummerComparisonsLoadListeners = _drummerComparisonsLoadListeners.filter(cb => cb !== callback);
+  };
+}
+
+function isDrummerComparisonsLoaded() { return _drummerComparisonsModule !== null; }
+function getAllDrummerComparisons() { return _drummerComparisonsModule?.getAllDrummerComparisons() || []; }
+function getDrummerComparisonBySlug(slug) { return _drummerComparisonsModule?.getDrummerComparisonBySlug(slug) || null; }
+function hasDrummerComparison(slug) { return _drummerComparisonsModule?.hasDrummerComparison(slug) || false; }
+function getAllDrummerComparisonSlugs() { return _drummerComparisonsModule?.getAllDrummerComparisonSlugs() || []; }
+function getDrummerComparisonsByCategory(category) { return _drummerComparisonsModule?.getDrummerComparisonsByCategory(category) || []; }
+function getComparisonsForDrummer(drummerSlug) { return _drummerComparisonsModule?.getComparisonsForDrummer(drummerSlug) || []; }
 
 // ==========================================
 // TOP 10 LISTS - Loaded dynamically for code splitting
@@ -658,7 +738,7 @@ function YouTubeEmbed({ videoId, title, theme }) {
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowFullScreen
           loading="lazy"
-          style={{ borderRadius: 8 }}
+          style={styles.inlineStyle1}
         />
       </View>
     );
@@ -830,7 +910,7 @@ function BandLinksSection({ bandLinks, bandName, theme }) {
                   e.preventDefault();
                   handleBandPress(band.slug);
                 }}
-                style={{ textDecoration: 'none' }}
+                style={styles.textDecor1}
                 data-testid={`band-link-${band.slug}`}
               >
                 {cardContent}
@@ -1026,7 +1106,7 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
         })}
       </View>
 
-      <View style={{ height: 40 }} />
+      <View style={styles.inlineStyle2} />
     </ScrollView>
   );
 }
@@ -1545,7 +1625,7 @@ function LazyGalleryImage({ source, style, accessibilityLabel, width = 200, heig
         />
       ) : hasWebPSupport && webpSrcSet ? (
         // WebP with fallback
-        <picture style={{ display: 'contents' }}>
+        <picture style={styles.displayMode1}>
           <source
             type="image/webp"
             srcSet={webpSrcSet}
@@ -2325,7 +2405,7 @@ function NewsCard({ item, theme }) {
         href={item.link}
         target="_blank"
         rel="noopener noreferrer"
-        style={{ textDecoration: 'none' }}
+        style={styles.textDecor1}
       >
         <View
           style={[styles.newsCard, { backgroundColor: theme.card, borderColor: theme.border }]}
@@ -2454,7 +2534,7 @@ function DrummerNewsSection({ drummer, theme }) {
             <View style={styles.newsCardContent}>
               <View style={{ height: 14, width: '90%', backgroundColor: theme.border, borderRadius: 4, marginBottom: 6 }} />
               <View style={{ height: 12, width: '70%', backgroundColor: theme.border, borderRadius: 4, marginBottom: 6 }} />
-              <View style={{ flexDirection: 'row' }}>
+              <View style={styles.rowLayout1}>
                 <View style={{ height: 10, width: 60, backgroundColor: theme.border, borderRadius: 4, marginRight: 8 }} />
                 <View style={{ height: 10, width: 40, backgroundColor: theme.border, borderRadius: 4 }} />
               </View>
@@ -3349,7 +3429,7 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
                 e.preventDefault();
                 if (onNavigateToBio) onNavigateToBio(drummerSlug);
               }}
-              style={{ textDecoration: 'none', display: 'inline-block', marginTop: 12 }}
+              style={styles.marginSpacing1}
               data-testid="extended-bio-link"
             >
               <Text style={[styles.bioMoreLink, { color: theme.primary }]}>
@@ -3359,7 +3439,7 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
           ) : (
             <TouchableOpacity
               onPress={() => onNavigateToBio && onNavigateToBio(drummerSlug)}
-              style={{ marginTop: 12 }}
+              style={styles.marginSpacing2}
               accessibilityRole="link"
               accessibilityLabel={`Read extended biography of ${drummer.name}`}
             >
@@ -7210,12 +7290,12 @@ function BpmRangePage({ rangeSlug, theme, drummers, onBack, onSelectDrummer, onN
             <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to BPM Calculator</Text>
           </TouchableOpacity>
         </View>
-        <View style={{ padding: 20, alignItems: 'center' }}>
+        <View style={styles.centeredLayout1}>
           <Text style={[styles.bpmPageTitle, { color: theme.text }]}>❓ Invalid BPM Range</Text>
           <Text style={{ color: theme.secondaryText, marginTop: 10, textAlign: 'center' }}>
             The range "{rangeSlug}" was not found. Try one of these:
           </Text>
-          <View style={{ marginTop: 20, flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'center', gap: 10 }}>
+          <View style={styles.rowLayout2}>
             {['slow', 'mid', 'fast', 'extreme', 'blast-beat'].map(range => (
               <TouchableOpacity 
                 key={range}
@@ -7269,7 +7349,7 @@ function BpmRangePage({ rangeSlug, theme, drummers, onBack, onSelectDrummer, onN
               key={`${song.band}-${song.song}-${idx}`}
               style={[styles.bpmSongItem, { backgroundColor: theme.card, borderColor: theme.border }]}
             >
-              <View style={{ flex: 1 }}>
+              <View style={styles.flexOne1}>
                 <Text style={[styles.bpmSongName, { color: theme.text }]}>{song.song}</Text>
                 <Text style={[styles.bpmSongBand, { color: theme.secondaryText }]}>
                   {song.band} • {song.album} ({song.year})
@@ -7284,11 +7364,11 @@ function BpmRangePage({ rangeSlug, theme, drummers, onBack, onSelectDrummer, onN
       </View>
       
       {/* Other Ranges */}
-      <View style={{ marginTop: 30, paddingHorizontal: 20 }}>
+      <View style={styles.paddedBox1}>
         <Text style={[styles.sectionTitle, { color: theme.text, marginBottom: 15, textAlign: 'center' }]}>
           Explore Other Tempos
         </Text>
-        <View style={{ flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'center', gap: 10 }}>
+        <View style={styles.rowLayout3}>
           {otherRanges.map(range => {
             const info = getRangeInfo(range);
             return (
@@ -7428,8 +7508,8 @@ function DrummerBioPage({ theme, onBack, drummer, onSelectDrummer }) {
             <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Profile</Text>
           </TouchableOpacity>
           <Text style={[styles.bioPageTitle, { color: theme.text }]}>Extended Biography</Text>
-          <View style={{ alignItems: 'center', padding: 40 }}>
-            <Text style={{ fontSize: 32, marginBottom: 12 }}>⏳</Text>
+          <View style={styles.centeredLayout2}>
+            <Text style={styles.emojiText1}>⏳</Text>
             <Text style={{ color: theme.secondaryText }}>Loading biography...</Text>
           </View>
         </View>
@@ -8344,11 +8424,11 @@ function GearCategoryPage({ category, categoryData, loading, theme, onBack, onSe
 
         {/* Brand filters */}
         {brands.length > 0 && (
-          <View style={{ marginBottom: 24 }}>
+          <View style={styles.marginSpacing3}>
             <Text style={[{ fontSize: 14, fontWeight: '600', marginBottom: 8 }, { color: theme.text }]}>
               Filter by Brand:
             </Text>
-            <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: 8 }}>
+            <View style={styles.rowLayout4}>
               {brands.map(brand => (
                 <TouchableOpacity
                   key={brand}
@@ -8659,9 +8739,9 @@ function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavi
 
         {/* Genre Header */}
         <View style={[styles.genreHeader, { marginBottom: 24 }]}>
-          <View style={{ flexDirection: 'row', alignItems: 'center', marginBottom: 8 }}>
-            <Text style={{ fontSize: 40, marginRight: 12 }}>{genre.icon}</Text>
-            <View style={{ flex: 1 }}>
+          <View style={styles.rowLayout5}>
+            <Text style={styles.emojiText2}>{genre.icon}</Text>
+            <View style={styles.flexOne1}>
               <Text style={[styles.bandPageTitle, { color: theme.text, marginBottom: 0 }]}>
                 {genre.name}
               </Text>
@@ -8691,7 +8771,7 @@ function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavi
         {genre.pioneers && genre.pioneers.length > 0 && (
           <View style={[styles.genreSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
             <Text style={[styles.sectionTitle, { color: theme.text }]}>Genre Pioneers</Text>
-            <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: 8 }}>
+            <View style={styles.rowLayout4}>
               {genre.pioneers.map((pioneer, index) => {
                 // Find if pioneer is in our drummers list
                 const drummerData = drummers.find(d => 
@@ -8731,7 +8811,7 @@ function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavi
             <Text style={[styles.sectionTitle, { color: theme.text }]}>
               {genre.name} Drummers ({genreDrummers.length})
             </Text>
-            <View style={{ gap: 12 }}>
+            <View style={styles.gappedLayout1}>
               {genreDrummers.map((drummer) => (
                 <TouchableOpacity
                   key={drummer.id}
@@ -8761,7 +8841,7 @@ function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavi
                       contentFit="cover"
                     />
                   )}
-                  <View style={{ flex: 1 }}>
+                  <View style={styles.flexOne1}>
                     <Text style={[styles.drummerName, { color: theme.text, fontSize: 16 }]}>
                       {drummer.name}
                     </Text>
@@ -8797,7 +8877,7 @@ function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavi
         {relatedGenres.length > 0 && (
           <View style={[styles.genreSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
             <Text style={[styles.sectionTitle, { color: theme.text }]}>Related Genres</Text>
-            <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: 8 }}>
+            <View style={styles.rowLayout4}>
               {relatedGenres.map((related) => (
                 <TouchableOpacity
                   key={related.slug}
@@ -8823,7 +8903,7 @@ function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavi
         )}
 
         {/* Browse All Genres Link */}
-        <View style={{ marginTop: 24, marginBottom: 40 }}>
+        <View style={styles.marginSpacing4}>
           <TouchableOpacity
             style={[styles.browseAllGenresButton, { 
               backgroundColor: theme.accent,
@@ -8917,8 +8997,8 @@ function GenresListPage({ onBack, onSelectGenre, theme }) {
               accessibilityRole="button"
               accessibilityLabel={`Explore ${genre.name}`}
             >
-              <View style={{ flexDirection: 'row', alignItems: 'center', marginBottom: 8 }}>
-                <Text style={{ fontSize: 28, marginRight: 10 }}>{genre.icon}</Text>
+              <View style={styles.rowLayout5}>
+                <Text style={styles.emojiText3}>{genre.icon}</Text>
                 <Text style={[styles.genreCardTitle, { color: theme.text, flex: 1 }]}>
                   {genre.name}
                 </Text>
@@ -8926,7 +9006,7 @@ function GenresListPage({ onBack, onSelectGenre, theme }) {
               <Text style={{ color: theme.secondaryText, fontSize: 14, lineHeight: 20 }} numberOfLines={3}>
                 {genre.description}
               </Text>
-              <View style={{ marginTop: 12, flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center' }}>
+              <View style={styles.rowLayout6}>
                 <Text style={{ color: genre.color, fontWeight: '600', fontSize: 12 }}>
                   Est. {genre.foundedYear}
                 </Text>
@@ -9009,8 +9089,8 @@ function GearComparisonsIndexPage({ theme, onBack, onSelectComparison }) {
           <Text style={[styles.bandPageSubtitle, { color: theme.secondaryText, marginBottom: 24 }]}>
             Compare top drum brands and gear for metal drumming. Expert analysis, specs, pricing, and pro endorsements.
           </Text>
-          <View style={{ alignItems: 'center', padding: 40 }}>
-            <Text style={{ fontSize: 32, marginBottom: 12 }}>⏳</Text>
+          <View style={styles.centeredLayout2}>
+            <Text style={styles.emojiText1}>⏳</Text>
             <Text style={{ color: theme.secondaryText }}>Loading comparisons...</Text>
           </View>
         </View>
@@ -9040,7 +9120,7 @@ function GearComparisonsIndexPage({ theme, onBack, onSelectComparison }) {
           if (comparisons.length === 0) return null;
 
           return (
-            <View key={category} style={{ marginBottom: 32 }}>
+            <View key={category} style={styles.marginSpacing5}>
               <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>
                 {categoryLabels[category]}
               </Text>
@@ -9066,8 +9146,8 @@ function GearComparisonsIndexPage({ theme, onBack, onSelectComparison }) {
                     accessibilityRole="button"
                     accessibilityLabel={`Compare ${comparison.title}`}
                   >
-                    <View style={{ flexDirection: 'row', alignItems: 'center', marginBottom: 12 }}>
-                      <View style={{ flexDirection: 'row', alignItems: 'center', gap: 8 }}>
+                    <View style={styles.rowLayout7}>
+                      <View style={styles.rowLayout8}>
                         <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text }}>
                           {comparison.items[0].brand}
                         </Text>
@@ -9080,7 +9160,7 @@ function GearComparisonsIndexPage({ theme, onBack, onSelectComparison }) {
                     <Text style={{ color: theme.secondaryText, fontSize: 14, marginBottom: 8 }}>
                       {comparison.items[0].model} vs {comparison.items[1].model}
                     </Text>
-                    <View style={{ flexDirection: 'row', alignItems: 'center', marginTop: 8 }}>
+                    <View style={styles.rowLayout9}>
                       <Text style={{ color: theme.primary, fontWeight: '600', fontSize: 14 }}>
                         Compare →
                       </Text>
@@ -9152,8 +9232,8 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
           >
             <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
           </TouchableOpacity>
-          <View style={{ alignItems: 'center', padding: 40 }}>
-            <Text style={{ fontSize: 32, marginBottom: 12 }}>⏳</Text>
+          <View style={styles.centeredLayout2}>
+            <Text style={styles.emojiText1}>⏳</Text>
             <Text style={{ color: theme.secondaryText }}>Loading comparison...</Text>
           </View>
         </View>
@@ -9214,7 +9294,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
         </TouchableOpacity>
 
         {/* Header */}
-        <View style={{ alignItems: 'center', marginBottom: 24 }}>
+        <View style={styles.centeredLayout3}>
           <Text style={{ fontSize: 14, color: theme.secondaryText, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>
             Gear Comparison
           </Text>
@@ -9250,8 +9330,8 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
                 {item1.priceRange}
               </Text>
             </View>
-            <View style={{ flexDirection: 'row', alignItems: 'center', marginBottom: 12 }}>
-              <Text style={{ color: '#fbbf24', fontSize: 16, marginRight: 8 }}>
+            <View style={styles.rowLayout7}>
+              <Text style={styles.marginSpacing6}>
                 {renderRating(item1.rating)}
               </Text>
               <Text style={{ color: theme.secondaryText, fontSize: 14 }}>
@@ -9301,8 +9381,8 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
                 {item2.priceRange}
               </Text>
             </View>
-            <View style={{ flexDirection: 'row', alignItems: 'center', marginBottom: 12 }}>
-              <Text style={{ color: '#fbbf24', fontSize: 16, marginRight: 8 }}>
+            <View style={styles.rowLayout7}>
+              <Text style={styles.marginSpacing6}>
                 {renderRating(item2.rating)}
               </Text>
               <Text style={{ color: theme.secondaryText, fontSize: 14 }}>
@@ -9316,7 +9396,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
         </View>
 
         {/* Pros & Cons Comparison */}
-        <View style={{ marginBottom: 24 }}>
+        <View style={styles.marginSpacing3}>
           <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>
             ⚖️ Pros & Cons
           </Text>
@@ -9369,7 +9449,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
             <View style={{ flexDirection: 'row', backgroundColor: theme.background, paddingVertical: 12, paddingHorizontal: 8 }}>
               <Text style={{ flex: 1, fontWeight: '600', color: theme.text, fontSize: 14 }}>Feature</Text>
               <Text style={{ flex: 1, fontWeight: '600', color: theme.primary, fontSize: 14, textAlign: 'center' }}>{item1.brand}</Text>
-              <Text style={{ flex: 1, fontWeight: '600', color: '#3b82f6', fontSize: 14, textAlign: 'center' }}>{item2.brand}</Text>
+              <Text style={styles.flexOne2}>{item2.brand}</Text>
             </View>
             {Object.keys(item1.specs).map((key, i) => (
               <View key={key} style={{ 
@@ -9400,7 +9480,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
             🎯 Head-to-Head
           </Text>
           {Object.entries(comparison.comparison).map(([key, value]) => (
-            <View key={key} style={{ marginBottom: 16 }}>
+            <View key={key} style={styles.marginSpacing7}>
               <Text style={{ color: theme.text, fontWeight: '600', fontSize: 15, marginBottom: 6, textTransform: 'capitalize' }}>
                 {key === 'forMetal' ? '🤘 For Metal' : `${key.charAt(0).toUpperCase() + key.slice(1)}`}
               </Text>
@@ -9412,7 +9492,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
         </View>
 
         {/* Pro Endorsements */}
-        <View style={{ marginBottom: 24 }}>
+        <View style={styles.marginSpacing3}>
           <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>
             🎸 Pro Endorsements
           </Text>
@@ -9422,7 +9502,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
               <Text style={{ fontSize: 16, fontWeight: '600', color: theme.text, marginBottom: 12 }}>
                 {item1.brand} Users
               </Text>
-              <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: 8 }}>
+              <View style={styles.rowLayout4}>
                 {item1.usedBy.map((name, i) => {
                   const drummer = findDrummerByName(name);
                   return (
@@ -9450,7 +9530,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
               <Text style={{ fontSize: 16, fontWeight: '600', color: theme.text, marginBottom: 12 }}>
                 {item2.brand} Users
               </Text>
-              <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: 8 }}>
+              <View style={styles.rowLayout4}>
                 {item2.usedBy.map((name, i) => {
                   const drummer = findDrummerByName(name);
                   return (
@@ -9577,8 +9657,8 @@ function DrummerVsIndexPage({ theme, onBack, onSelectComparison, onSelectDrummer
           >
             <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
           </TouchableOpacity>
-          <View style={{ alignItems: 'center', padding: 40 }}>
-            <Text style={{ fontSize: 32, marginBottom: 12 }}>⏳</Text>
+          <View style={styles.centeredLayout2}>
+            <Text style={styles.emojiText1}>⏳</Text>
             <Text style={{ color: theme.secondaryText }}>Loading comparisons...</Text>
           </View>
         </View>
@@ -9599,8 +9679,8 @@ function DrummerVsIndexPage({ theme, onBack, onSelectComparison, onSelectDrummer
         </TouchableOpacity>
 
         {/* Header */}
-        <View style={{ alignItems: 'center', marginBottom: 32 }}>
-          <Text style={{ fontSize: 48, marginBottom: 12 }}>⚔️</Text>
+        <View style={styles.centeredLayout4}>
+          <Text style={styles.emojiText4}>⚔️</Text>
           <Text style={[styles.bandPageTitle, { color: theme.text, textAlign: 'center' }]}>
             Drummer vs Drummer
           </Text>
@@ -9610,7 +9690,7 @@ function DrummerVsIndexPage({ theme, onBack, onSelectComparison, onSelectDrummer
         </View>
 
         {/* Comparison Cards */}
-        <View style={{ gap: 20 }}>
+        <View style={styles.gappedLayout2}>
           {allComparisons.map((comparison) => {
             const drummer1 = findDrummerBySlug(comparison.drummers[0]);
             const drummer2 = findDrummerBySlug(comparison.drummers[1]);
@@ -9638,7 +9718,7 @@ function DrummerVsIndexPage({ theme, onBack, onSelectComparison, onSelectDrummer
                   backgroundColor: theme.background,
                 }}>
                   {/* Drummer 1 */}
-                  <View style={{ flex: 1, alignItems: 'center' }}>
+                  <View style={styles.centeredLayout5}>
                     {drummer1?.image ? (
                       <Image
                         source={{ uri: getOptimizedImageUrl(drummer1.image, { width: 80 }) }}
@@ -9646,7 +9726,7 @@ function DrummerVsIndexPage({ theme, onBack, onSelectComparison, onSelectDrummer
                       />
                     ) : (
                       <View style={{ width: 60, height: 60, borderRadius: 30, backgroundColor: theme.border, marginBottom: 8, alignItems: 'center', justifyContent: 'center' }}>
-                        <Text style={{ fontSize: 24 }}>🥁</Text>
+                        <Text style={styles.inlineStyle3}>🥁</Text>
                       </View>
                     )}
                     <Text style={{ color: theme.text, fontWeight: '600', fontSize: 14, textAlign: 'center' }}>
@@ -9671,7 +9751,7 @@ function DrummerVsIndexPage({ theme, onBack, onSelectComparison, onSelectDrummer
                   </View>
 
                   {/* Drummer 2 */}
-                  <View style={{ flex: 1, alignItems: 'center' }}>
+                  <View style={styles.centeredLayout5}>
                     {drummer2?.image ? (
                       <Image
                         source={{ uri: getOptimizedImageUrl(drummer2.image, { width: 80 }) }}
@@ -9679,7 +9759,7 @@ function DrummerVsIndexPage({ theme, onBack, onSelectComparison, onSelectDrummer
                       />
                     ) : (
                       <View style={{ width: 60, height: 60, borderRadius: 30, backgroundColor: theme.border, marginBottom: 8, alignItems: 'center', justifyContent: 'center' }}>
-                        <Text style={{ fontSize: 24 }}>🥁</Text>
+                        <Text style={styles.inlineStyle3}>🥁</Text>
                       </View>
                     )}
                     <Text style={{ color: theme.text, fontWeight: '600', fontSize: 14, textAlign: 'center' }}>
@@ -9809,8 +9889,8 @@ function DrummerVsPage({ comparisonSlug, theme, onBack, onSelectDrummer, drummer
           <TouchableOpacity onPress={onBack} style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}>
             <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
           </TouchableOpacity>
-          <View style={{ alignItems: 'center', padding: 40 }}>
-            <Text style={{ fontSize: 32, marginBottom: 12 }}>⏳</Text>
+          <View style={styles.centeredLayout2}>
+            <Text style={styles.emojiText1}>⏳</Text>
             <Text style={{ color: theme.secondaryText }}>Loading comparison...</Text>
           </View>
         </View>
@@ -9839,7 +9919,7 @@ function DrummerVsPage({ comparisonSlug, theme, onBack, onSelectDrummer, drummer
         </TouchableOpacity>
 
         {/* Header */}
-        <View style={{ alignItems: 'center', marginBottom: 24 }}>
+        <View style={styles.centeredLayout3}>
           <Text style={{ fontSize: 14, color: theme.secondaryText, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>⚔️ Drummer Showdown</Text>
           <Text style={[styles.bandPageTitle, { color: theme.text, textAlign: 'center' }]}>{comparison.title}</Text>
         </View>
@@ -9850,7 +9930,7 @@ function DrummerVsPage({ comparisonSlug, theme, onBack, onSelectDrummer, drummer
             {drummer1?.image ? (
               <Image source={{ uri: getOptimizedImageUrl(drummer1.image, { width: 200 }) }} style={{ width: 120, height: 120, borderRadius: 60, marginBottom: 12, borderWidth: 3, borderColor: theme.primary }} />
             ) : (
-              <View style={{ width: 120, height: 120, borderRadius: 60, backgroundColor: theme.border, marginBottom: 12, alignItems: 'center', justifyContent: 'center' }}><Text style={{ fontSize: 48 }}>🥁</Text></View>
+              <View style={{ width: 120, height: 120, borderRadius: 60, backgroundColor: theme.border, marginBottom: 12, alignItems: 'center', justifyContent: 'center' }}><Text style={styles.emojiText5}>🥁</Text></View>
             )}
             <Text style={{ fontSize: 22, fontWeight: 'bold', color: theme.text, marginBottom: 4, textAlign: 'center' }}>{drummer1?.name || comparison.drummers[0]}</Text>
             <Text style={{ fontSize: 16, color: theme.secondaryText, marginBottom: 8, textAlign: 'center' }}>{drummer1?.band || ''}</Text>
@@ -9865,7 +9945,7 @@ function DrummerVsPage({ comparisonSlug, theme, onBack, onSelectDrummer, drummer
             {drummer2?.image ? (
               <Image source={{ uri: getOptimizedImageUrl(drummer2.image, { width: 200 }) }} style={{ width: 120, height: 120, borderRadius: 60, marginBottom: 12, borderWidth: 3, borderColor: '#3b82f6' }} />
             ) : (
-              <View style={{ width: 120, height: 120, borderRadius: 60, backgroundColor: theme.border, marginBottom: 12, alignItems: 'center', justifyContent: 'center' }}><Text style={{ fontSize: 48 }}>🥁</Text></View>
+              <View style={{ width: 120, height: 120, borderRadius: 60, backgroundColor: theme.border, marginBottom: 12, alignItems: 'center', justifyContent: 'center' }}><Text style={styles.emojiText5}>🥁</Text></View>
             )}
             <Text style={{ fontSize: 22, fontWeight: 'bold', color: theme.text, marginBottom: 4, textAlign: 'center' }}>{drummer2?.name || comparison.drummers[1]}</Text>
             <Text style={{ fontSize: 16, color: theme.secondaryText, marginBottom: 8, textAlign: 'center' }}>{drummer2?.band || ''}</Text>
@@ -9876,7 +9956,7 @@ function DrummerVsPage({ comparisonSlug, theme, onBack, onSelectDrummer, drummer
         {/* Community Vote Widget */}
         <View style={{ marginBottom: 24, backgroundColor: theme.card, borderRadius: 12, padding: 20, borderColor: theme.border, borderWidth: 1 }}>
           <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16, textAlign: 'center' }}>🗳️ Who's Your Favorite?</Text>
-          <View style={{ flexDirection: 'row', gap: 12, marginBottom: 16 }}>
+          <View style={styles.rowLayout10}>
             <TouchableOpacity style={{ flex: 1, backgroundColor: vote === 'drummer1' ? theme.primary : theme.background, padding: 16, borderRadius: 8, borderWidth: 2, borderColor: theme.primary, alignItems: 'center', opacity: hasVoted && vote !== 'drummer1' ? 0.6 : 1 }} onPress={() => handleVote('drummer1')} disabled={hasVoted}>
               <Text style={{ color: theme.text, fontWeight: '600', fontSize: 14 }}>{drummer1?.name || 'Drummer 1'}</Text>
             </TouchableOpacity>
@@ -9886,11 +9966,11 @@ function DrummerVsPage({ comparisonSlug, theme, onBack, onSelectDrummer, drummer
           </View>
           {hasVoted && (
             <View>
-              <View style={{ flexDirection: 'row', height: 24, borderRadius: 12, overflow: 'hidden', marginBottom: 8 }}>
+              <View style={styles.rowLayout11}>
                 <View style={{ flex: drummer1Percent, backgroundColor: theme.primary }} />
                 <View style={{ flex: drummer2Percent, backgroundColor: '#3b82f6' }} />
               </View>
-              <View style={{ flexDirection: 'row', justifyContent: 'space-between' }}>
+              <View style={styles.rowLayout12}>
                 <Text style={{ color: theme.text, fontSize: 14 }}>{drummer1Percent}%</Text>
                 <Text style={{ color: theme.secondaryText, fontSize: 13 }}>{totalVotes} votes</Text>
                 <Text style={{ color: theme.text, fontSize: 14 }}>{drummer2Percent}%</Text>
@@ -9908,7 +9988,7 @@ function DrummerVsPage({ comparisonSlug, theme, onBack, onSelectDrummer, drummer
               <View style={{ flexDirection: 'row', backgroundColor: theme.background, paddingVertical: 12, paddingHorizontal: 8 }}>
                 <Text style={{ flex: 1, fontWeight: '600', color: theme.text, fontSize: 14 }}>Gear</Text>
                 <Text style={{ flex: 1, fontWeight: '600', color: theme.primary, fontSize: 14, textAlign: 'center' }}>{drummer1?.name?.split(' ')[0] || 'D1'}</Text>
-                <Text style={{ flex: 1, fontWeight: '600', color: '#3b82f6', fontSize: 14, textAlign: 'center' }}>{drummer2?.name?.split(' ')[0] || 'D2'}</Text>
+                <Text style={styles.flexOne2}>{drummer2?.name?.split(' ')[0] || 'D2'}</Text>
               </View>
               {['drums', 'snare', 'cymbals', 'hardware', 'sticks'].map((key, i) => (
                 <View key={key} style={{ flexDirection: 'row', paddingVertical: 12, paddingHorizontal: 8, borderTopWidth: 1, borderColor: theme.border, backgroundColor: i % 2 === 0 ? 'transparent' : theme.background }}>
@@ -9925,7 +10005,7 @@ function DrummerVsPage({ comparisonSlug, theme, onBack, onSelectDrummer, drummer
         <View style={{ marginBottom: 24, backgroundColor: theme.card, borderRadius: 12, padding: 16, borderColor: theme.border, borderWidth: 1 }}>
           <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>🎯 Head-to-Head</Text>
           {Object.entries(comparison.comparison).map(([key, value]) => (
-            <View key={key} style={{ marginBottom: 16 }}>
+            <View key={key} style={styles.marginSpacing7}>
               <Text style={{ color: theme.text, fontWeight: '600', fontSize: 15, marginBottom: 6, textTransform: 'capitalize' }}>
                 {key === 'forMetal' ? '🤘 For Metal' : key === 'style' ? '🎨 Style' : key === 'technique' ? '⚡ Technique' : key === 'gear' ? '🥁 Gear' : key === 'influence' ? '🌟 Influence' : key}
               </Text>
@@ -10028,8 +10108,8 @@ function TechniquesIndexPage({ theme, onBack, onSelectTechnique, onSelectDrummer
           <Text style={[styles.bandPageSubtitle, { color: theme.secondaryText, marginBottom: 24 }]}>
             Master the essential techniques of metal drumming. From blast beats to polyrhythms, learn how the pros do it.
           </Text>
-          <View style={{ alignItems: 'center', padding: 40 }}>
-            <Text style={{ fontSize: 32, marginBottom: 12 }}>⏳</Text>
+          <View style={styles.centeredLayout2}>
+            <Text style={styles.emojiText1}>⏳</Text>
             <Text style={{ color: theme.secondaryText }}>Loading techniques...</Text>
           </View>
         </View>
@@ -10060,7 +10140,7 @@ function TechniquesIndexPage({ theme, onBack, onSelectTechnique, onSelectDrummer
           const categoryInfo = TECHNIQUE_CATEGORIES[category];
 
           return (
-            <View key={category} style={{ marginBottom: 32 }}>
+            <View key={category} style={styles.marginSpacing5}>
               <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 8 }}>
                 {categoryInfo?.emoji} {categoryInfo?.label || category}
               </Text>
@@ -10089,8 +10169,8 @@ function TechniquesIndexPage({ theme, onBack, onSelectTechnique, onSelectDrummer
                     accessibilityRole="button"
                     accessibilityLabel={`Learn ${technique.title} technique`}
                   >
-                    <View style={{ flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', marginBottom: 8 }}>
-                      <Text style={{ fontSize: 24 }}>{technique.emoji}</Text>
+                    <View style={styles.rowLayout13}>
+                      <Text style={styles.inlineStyle3}>{technique.emoji}</Text>
                       <View style={{ 
                         backgroundColor: getDifficultyColor(technique.difficulty) + '20',
                         paddingHorizontal: 8,
@@ -10112,7 +10192,7 @@ function TechniquesIndexPage({ theme, onBack, onSelectTechnique, onSelectDrummer
                     <Text style={{ color: theme.secondaryText, fontSize: 14, marginBottom: 8 }} numberOfLines={2}>
                       {technique.description.substring(0, 100)}...
                     </Text>
-                    <View style={{ flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', marginTop: 8 }}>
+                    <View style={styles.rowLayout14}>
                       <Text style={{ color: theme.secondaryText, fontSize: 12 }}>
                         ⚡ {technique.bpmRange} BPM
                       </Text>
@@ -10171,7 +10251,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
   if (!isLoaded) {
     return (
       <View style={[styles.detailContainer, { backgroundColor: theme.background, alignItems: 'center', justifyContent: 'center', padding: 40 }]}>
-        <Text style={{ fontSize: 48, marginBottom: 16 }}>⏳</Text>
+        <Text style={styles.emojiText6}>⏳</Text>
         <Text style={{ fontSize: 18, color: theme.secondaryText }}>Loading technique...</Text>
       </View>
     );
@@ -10180,7 +10260,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
   if (!technique) {
     return (
       <View style={[styles.detailContainer, { backgroundColor: theme.background, alignItems: 'center', justifyContent: 'center', padding: 40 }]}>
-        <Text style={{ fontSize: 48, marginBottom: 16 }}>🥁</Text>
+        <Text style={styles.emojiText6}>🥁</Text>
         <Text style={{ fontSize: 24, fontWeight: 'bold', color: theme.text, marginBottom: 8 }}>Technique Not Found</Text>
         <Text style={{ color: theme.secondaryText, marginBottom: 24 }}>This technique page doesn't exist.</Text>
         <TouchableOpacity
@@ -10232,12 +10312,12 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
         </TouchableOpacity>
 
         {/* Header */}
-        <View style={{ marginBottom: 24 }}>
-          <View style={{ flexDirection: 'row', alignItems: 'center', marginBottom: 12, flexWrap: 'wrap', gap: 12 }}>
-            <Text style={{ fontSize: 48 }}>{technique.emoji}</Text>
-            <View style={{ flex: 1 }}>
+        <View style={styles.marginSpacing3}>
+          <View style={styles.rowLayout15}>
+            <Text style={styles.emojiText5}>{technique.emoji}</Text>
+            <View style={styles.flexOne1}>
               <Text style={[styles.bandPageTitle, { color: theme.text, marginBottom: 4 }]}>{technique.title}</Text>
-              <View style={{ flexDirection: 'row', alignItems: 'center', gap: 12, flexWrap: 'wrap' }}>
+              <View style={styles.rowLayout16}>
                 <View style={{ 
                   backgroundColor: getDifficultyColor(technique.difficulty) + '20',
                   paddingHorizontal: 10,
@@ -10282,7 +10362,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
             📚 How to Learn
           </Text>
           {technique.howToLearn.map((step, index) => (
-            <View key={index} style={{ flexDirection: 'row', marginBottom: 12 }}>
+            <View key={index} style={styles.rowLayout17}>
               <View style={{ 
                 width: 24, 
                 height: 24, 
@@ -10327,7 +10407,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
             <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>
               🏆 Masters of This Technique
             </Text>
-            <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: 12 }}>
+            <View style={styles.rowLayout18}>
               {technique.masters.map((master, index) => {
                 const drummerProfile = findDrummerProfile(master.slug);
                 const isClickable = drummerProfile !== null;
@@ -10349,8 +10429,8 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
                     accessibilityRole={isClickable ? 'link' : 'text'}
                     accessibilityLabel={isClickable ? `View ${master.name}'s profile` : master.name}
                   >
-                    <View style={{ flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between' }}>
-                      <View style={{ flex: 1 }}>
+                    <View style={styles.rowLayout19}>
+                      <View style={styles.flexOne1}>
                         <Text style={{ color: theme.text, fontWeight: '600', fontSize: 15 }}>
                           {master.name}
                         </Text>
@@ -10400,14 +10480,14 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
               };
 
               return (
-                <View key={category} style={{ marginBottom: 16 }}>
+                <View key={category} style={styles.marginSpacing7}>
                   <Text style={{ color: theme.text, fontWeight: '600', fontSize: 15, marginBottom: 8, textTransform: 'capitalize' }}>
                     {categoryEmojis[category] || '•'} {category}
                   </Text>
                   {items.map((item, index) => (
-                    <View key={index} style={{ marginBottom: 8, paddingLeft: 12 }}>
+                    <View key={index} style={styles.paddedBox2}>
                       <Text style={{ color: theme.text, fontSize: 14 }}>
-                        <Text style={{ fontWeight: '600' }}>{item.name}</Text>
+                        <Text style={styles.inlineStyle4}>{item.name}</Text>
                         {item.reason && <Text style={{ color: theme.secondaryText }}> — {item.reason}</Text>}
                       </Text>
                     </View>
@@ -10441,7 +10521,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
             <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>
               🔗 Related Techniques
             </Text>
-            <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: 12 }}>
+            <View style={styles.rowLayout18}>
               {relatedTechniques.map(related => (
                 <TouchableOpacity
                   key={related.slug}
@@ -10459,7 +10539,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
                   accessibilityRole="link"
                   accessibilityLabel={`Learn ${related.title}`}
                 >
-                  <Text style={{ fontSize: 20 }}>{related.emoji}</Text>
+                  <Text style={styles.inlineStyle5}>{related.emoji}</Text>
                   <View>
                     <Text style={{ color: theme.text, fontWeight: '600', fontSize: 14 }}>
                       {related.title}
@@ -10476,7 +10556,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
         )}
 
         {/* Browse All Techniques Link */}
-        <View style={{ alignItems: 'center', marginTop: 24, marginBottom: 40 }}>
+        <View style={styles.centeredLayout6}>
           <TouchableOpacity
             onPress={onBack}
             style={{
@@ -10705,7 +10785,7 @@ function NewsSkeleton({ count = 5 }) {
   const { theme } = useTheme();
   
   return (
-    <View style={{ gap: 16 }}>
+    <View style={styles.gappedLayout3}>
       {Array.from({ length: count }).map((_, index) => (
         <View 
           key={index} 
@@ -10715,11 +10795,11 @@ function NewsSkeleton({ count = 5 }) {
           ]}
         >
           <View style={{ height: 180, backgroundColor: theme.border, borderRadius: 8 }} />
-          <View style={{ padding: 16, gap: 8 }}>
+          <View style={styles.gappedLayout4}>
             <View style={{ height: 20, width: '80%', backgroundColor: theme.border, borderRadius: 4 }} />
             <View style={{ height: 14, width: '100%', backgroundColor: theme.border, borderRadius: 4 }} />
             <View style={{ height: 14, width: '60%', backgroundColor: theme.border, borderRadius: 4 }} />
-            <View style={{ flexDirection: 'row', gap: 8, marginTop: 8 }}>
+            <View style={styles.rowLayout20}>
               <View style={{ height: 24, width: 80, backgroundColor: theme.border, borderRadius: 12 }} />
               <View style={{ height: 24, width: 80, backgroundColor: theme.border, borderRadius: 12 }} />
             </View>
@@ -10975,7 +11055,7 @@ function NewsPage({ theme, onBack, onNavigateToDrummer, onNavigateToBand }) {
             </Text>
           </View>
         ) : (
-          <View style={{ gap: 16 }}>
+          <View style={styles.gappedLayout3}>
             {news.map(item => (
               <NewsCardLarge
                 key={item.id}
@@ -11215,7 +11295,7 @@ function DrummersPage({
         </TouchableOpacity>
 
         {/* Page Header */}
-        <View style={{ marginBottom: 24 }}>
+        <View style={styles.marginSpacing3}>
           <Text style={[styles.quotesPageTitle, { color: theme.text }]} accessibilityRole="header">
             🥁 All Drummers
           </Text>
@@ -11271,7 +11351,7 @@ function DrummersPage({
         />
 
         {/* Results count */}
-        <View style={{ marginVertical: 16 }}>
+        <View style={styles.marginSpacing8}>
           <Text style={[styles.filterResultCount, { color: theme.secondaryText }]}>
             {filteredDrummers.length === drummers.length 
               ? `Showing ${drummers.length} drummers` 
@@ -12820,6 +12900,374 @@ function updateGearComparisonMeta(comparison) {
 }
 
 // ==========================================
+// DRUMMER VS DRUMMER COMPARISON ROUTING (Issue #558)
+// ==========================================
+
+// Check if we're on a drummer comparison page (/vs/:slug-vs-slug)
+function isDrummerComparisonPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  return /^\/vs\/[a-z0-9-]+-vs-[a-z0-9-]+$/i.test(window.location.pathname);
+}
+
+// Check if we're on the drummer comparisons index page (/vs)
+function isDrummerComparisonsIndexPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  const pathname = window.location.pathname;
+  return pathname === '/vs' || pathname === '/vs/';
+}
+
+// Get drummer comparison slug from URL
+function getDrummerComparisonSlugFromURL() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(/^\/vs\/([a-z0-9-]+-vs-[a-z0-9-]+)$/i);
+  return match ? match[1] : null;
+}
+
+// Update URL for drummer comparison page
+function updateDrummerComparisonURL(slug) {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return;
+  const newPath = slug ? `/vs/${slug}` : '/vs';
+  window.history.pushState({}, '', newPath);
+}
+
+// Update meta tags and structured data for drummer comparison pages
+function updateDrummerVsMeta(comparison, drummer1, drummer2) {
+  if (Platform.OS !== 'web' || typeof document === 'undefined') return;
+
+  const setMeta = (name, content, isProperty = false) => {
+    const attr = isProperty ? 'property' : 'name';
+    let meta = document.querySelector(`meta[${attr}="${name}"]`);
+    if (!meta) {
+      meta = document.createElement('meta');
+      meta.setAttribute(attr, name);
+      document.head.appendChild(meta);
+    }
+    meta.setAttribute('content', content);
+  };
+
+  if (comparison && drummer1 && drummer2) {
+    document.title = comparison.metaTitle;
+    setMeta('description', comparison.metaDescription);
+    setMeta('og:title', comparison.metaTitle, true);
+    setMeta('og:description', comparison.metaDescription, true);
+    setMeta('og:type', 'article', true);
+    setMeta('og:url', `https://metalforge.io/vs/${comparison.slug}`, true);
+    setMeta('twitter:card', 'summary_large_image');
+    setMeta('twitter:title', comparison.metaTitle);
+    setMeta('twitter:description', comparison.metaDescription);
+
+    let canonicalLink = document.querySelector('link[rel="canonical"]');
+    if (!canonicalLink) {
+      canonicalLink = document.createElement('link');
+      canonicalLink.setAttribute('rel', 'canonical');
+      document.head.appendChild(canonicalLink);
+    }
+    canonicalLink.setAttribute('href', `https://metalforge.io/vs/${comparison.slug}`);
+
+    let ldScript = document.querySelector('script[data-schema="drummer-comparison"]');
+    if (!ldScript) {
+      ldScript = document.createElement('script');
+      ldScript.type = 'application/ld+json';
+      ldScript.setAttribute('data-schema', 'drummer-comparison');
+      document.head.appendChild(ldScript);
+    }
+
+    const comparisonSchema = {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": comparison.title,
+      "description": comparison.metaDescription,
+      "url": `https://metalforge.io/vs/${comparison.slug}`,
+      "about": [
+        { "@type": "Person", "name": drummer1.name, "jobTitle": "Drummer", "worksFor": { "@type": "MusicGroup", "name": drummer1.band } },
+        { "@type": "Person", "name": drummer2.name, "jobTitle": "Drummer", "worksFor": { "@type": "MusicGroup", "name": drummer2.band } }
+      ],
+      "isPartOf": { "@type": "WebSite", "name": "MetalForge", "url": "https://metalforge.io" }
+    };
+    ldScript.textContent = JSON.stringify(comparisonSchema);
+
+    let breadcrumbScript = document.querySelector('script[data-schema="drummer-comparison-breadcrumb"]');
+    if (!breadcrumbScript) {
+      breadcrumbScript = document.createElement('script');
+      breadcrumbScript.type = 'application/ld+json';
+      breadcrumbScript.setAttribute('data-schema', 'drummer-comparison-breadcrumb');
+      document.head.appendChild(breadcrumbScript);
+    }
+    const breadcrumbSchema = {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://metalforge.io" },
+        { "@type": "ListItem", "position": 2, "name": "Drummer Comparisons", "item": "https://metalforge.io/vs" },
+        { "@type": "ListItem", "position": 3, "name": comparison.title, "item": `https://metalforge.io/vs/${comparison.slug}` }
+      ]
+    };
+    breadcrumbScript.textContent = JSON.stringify(breadcrumbSchema);
+  } else {
+    const title = 'Drummer vs Drummer Comparisons - Metal Legends Head to Head | MetalForge';
+    const description = 'Compare metal drumming legends side by side. Lars Ulrich vs Dave Lombardo, Mario Duplantier vs Tomas Haake, and more.';
+    document.title = title;
+    setMeta('description', description);
+    setMeta('og:title', title, true);
+    setMeta('og:description', description, true);
+    setMeta('og:type', 'website', true);
+    setMeta('og:url', 'https://metalforge.io/vs', true);
+    setMeta('twitter:card', 'summary_large_image');
+    setMeta('twitter:title', title);
+    setMeta('twitter:description', description);
+
+    let canonicalLink = document.querySelector('link[rel="canonical"]');
+    if (!canonicalLink) {
+      canonicalLink = document.createElement('link');
+      canonicalLink.setAttribute('rel', 'canonical');
+      document.head.appendChild(canonicalLink);
+    }
+    canonicalLink.setAttribute('href', 'https://metalforge.io/vs');
+
+    let ldScript = document.querySelector('script[data-schema="drummer-comparison"]');
+    if (!ldScript) {
+      ldScript = document.createElement('script');
+      ldScript.type = 'application/ld+json';
+      ldScript.setAttribute('data-schema', 'drummer-comparison');
+      document.head.appendChild(ldScript);
+    }
+    const allComparisons = getAllDrummerComparisons();
+    const indexSchema = {
+      "@context": "https://schema.org",
+      "@type": "CollectionPage",
+      "name": "Drummer vs Drummer Comparisons",
+      "description": description,
+      "url": "https://metalforge.io/vs",
+      "mainEntity": {
+        "@type": "ItemList",
+        "name": "Metal Drummer Comparisons",
+        "numberOfItems": allComparisons.length,
+        "itemListElement": allComparisons.map((c, i) => ({
+          "@type": "ListItem", "position": i + 1,
+          "item": { "@type": "Article", "name": c.title, "url": `https://metalforge.io/vs/${c.slug}` }
+        }))
+      },
+      "isPartOf": { "@type": "WebSite", "name": "MetalForge", "url": "https://metalforge.io" }
+    };
+    ldScript.textContent = JSON.stringify(indexSchema);
+  }
+}
+
+// ==========================================
+// DRUMMER VS DRUMMER ROUTING (Issue #558)
+// ==========================================
+
+// Check if we're on the drummer vs index page (/vs)
+function isDrummerVsIndexPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  const pathname = window.location.pathname;
+  return pathname === '/vs' || pathname === '/vs/';
+}
+
+// Check if we're on a drummer vs detail page (/vs/:slug)
+function isDrummerVsDetailPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  return /^\/vs\/[a-z0-9-]+-vs-[a-z0-9-]+$/i.test(window.location.pathname);
+}
+
+// Get drummer comparison slug from URL
+function getDrummerComparisonSlugFromURL() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(/^\/vs\/([a-z0-9-]+-vs-[a-z0-9-]+)$/i);
+  return match ? match[1] : null;
+}
+
+// Update URL for drummer vs page
+function updateDrummerComparisonURL(slug) {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return;
+  const newPath = slug ? `/vs/${slug}` : '/vs';
+  window.history.pushState({}, '', newPath);
+}
+
+// Update meta tags and structured data for drummer vs pages
+function updateDrummerVsMeta(comparison, drummer1, drummer2) {
+  if (Platform.OS !== 'web' || typeof document === 'undefined') return;
+
+  const setMeta = (name, content, isProperty = false) => {
+    const attr = isProperty ? 'property' : 'name';
+    let meta = document.querySelector(`meta[${attr}="${name}"]`);
+    if (!meta) {
+      meta = document.createElement('meta');
+      meta.setAttribute(attr, name);
+      document.head.appendChild(meta);
+    }
+    meta.setAttribute('content', content);
+  };
+
+  if (comparison) {
+    document.title = comparison.metaTitle;
+    setMeta('description', comparison.metaDescription);
+    setMeta('og:title', comparison.metaTitle, true);
+    setMeta('og:description', comparison.metaDescription, true);
+    setMeta('og:type', 'article', true);
+    setMeta('og:url', `https://metalforge.io/vs/${comparison.slug}`, true);
+    setMeta('twitter:card', 'summary_large_image');
+    setMeta('twitter:title', comparison.metaTitle);
+    setMeta('twitter:description', comparison.metaDescription);
+    setMeta('keywords', `${comparison.title}, metal drummer comparison, drummer vs drummer, ${comparison.category} metal drumming`);
+
+    // Canonical URL
+    let canonicalLink = document.querySelector('link[rel="canonical"]');
+    if (!canonicalLink) {
+      canonicalLink = document.createElement('link');
+      canonicalLink.setAttribute('rel', 'canonical');
+      document.head.appendChild(canonicalLink);
+    }
+    canonicalLink.setAttribute('href', `https://metalforge.io/vs/${comparison.slug}`);
+
+    // Structured Data - ComparisonPage schema
+    let ldScript = document.querySelector('script[data-schema="drummer-vs"]');
+    if (!ldScript) {
+      ldScript = document.createElement('script');
+      ldScript.type = 'application/ld+json';
+      ldScript.setAttribute('data-schema', 'drummer-vs');
+      document.head.appendChild(ldScript);
+    }
+
+    const schema = {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": comparison.title,
+      "description": comparison.metaDescription,
+      "url": `https://metalforge.io/vs/${comparison.slug}`,
+      "author": {
+        "@type": "Organization",
+        "name": "MetalForge",
+        "url": "https://metalforge.io"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "MetalForge",
+        "url": "https://metalforge.io"
+      },
+      "about": [
+        drummer1 ? {
+          "@type": "Person",
+          "name": drummer1.name,
+          "jobTitle": "Drummer",
+          "memberOf": { "@type": "MusicGroup", "name": drummer1.band }
+        } : null,
+        drummer2 ? {
+          "@type": "Person",
+          "name": drummer2.name,
+          "jobTitle": "Drummer",
+          "memberOf": { "@type": "MusicGroup", "name": drummer2.band }
+        } : null
+      ].filter(Boolean),
+      "articleSection": "Drummer Comparison",
+      "keywords": `${comparison.title}, metal drumming, drummer comparison`
+    };
+
+    ldScript.textContent = JSON.stringify(schema);
+
+    // BreadcrumbList schema
+    let breadcrumbScript = document.querySelector('script[data-schema="breadcrumb-vs"]');
+    if (!breadcrumbScript) {
+      breadcrumbScript = document.createElement('script');
+      breadcrumbScript.type = 'application/ld+json';
+      breadcrumbScript.setAttribute('data-schema', 'breadcrumb-vs');
+      document.head.appendChild(breadcrumbScript);
+    }
+
+    const breadcrumbSchema = {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://metalforge.io/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Drummer Comparisons",
+          "item": "https://metalforge.io/vs"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": comparison.title,
+          "item": `https://metalforge.io/vs/${comparison.slug}`
+        }
+      ]
+    };
+
+    breadcrumbScript.textContent = JSON.stringify(breadcrumbSchema);
+  } else {
+    // Index page meta
+    const title = 'Drummer vs Drummer - Metal Drumming Comparisons | MetalForge';
+    const description = 'Head-to-head comparisons of legendary metal drummers. Compare gear, technique, style, and career stats. Lars Ulrich vs Joey Jordison and more.';
+    
+    document.title = title;
+    setMeta('description', description);
+    setMeta('og:title', title, true);
+    setMeta('og:description', description, true);
+    setMeta('og:type', 'website', true);
+    setMeta('og:url', 'https://metalforge.io/vs', true);
+    setMeta('twitter:card', 'summary_large_image');
+    setMeta('twitter:title', title);
+    setMeta('twitter:description', description);
+    setMeta('keywords', 'drummer comparison, metal drummers, drummer vs drummer, thrash drumming, progressive metal drumming');
+
+    // Canonical URL
+    let canonicalLink = document.querySelector('link[rel="canonical"]');
+    if (!canonicalLink) {
+      canonicalLink = document.createElement('link');
+      canonicalLink.setAttribute('rel', 'canonical');
+      document.head.appendChild(canonicalLink);
+    }
+    canonicalLink.setAttribute('href', 'https://metalforge.io/vs');
+
+    // CollectionPage schema for index
+    let ldScript = document.querySelector('script[data-schema="drummer-vs"]');
+    if (!ldScript) {
+      ldScript = document.createElement('script');
+      ldScript.type = 'application/ld+json';
+      ldScript.setAttribute('data-schema', 'drummer-vs');
+      document.head.appendChild(ldScript);
+    }
+
+    const allComparisons = getAllDrummerComparisons();
+    const indexSchema = {
+      "@context": "https://schema.org",
+      "@type": "CollectionPage",
+      "name": "Drummer vs Drummer Comparisons",
+      "description": description,
+      "url": "https://metalforge.io/vs",
+      "mainEntity": {
+        "@type": "ItemList",
+        "name": "Metal Drummer Comparisons",
+        "numberOfItems": allComparisons.length,
+        "itemListElement": allComparisons.map((c, index) => ({
+          "@type": "ListItem",
+          "position": index + 1,
+          "item": {
+            "@type": "Article",
+            "name": c.title,
+            "url": `https://metalforge.io/vs/${c.slug}`,
+            "description": c.metaDescription
+          }
+        }))
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "MetalForge",
+        "url": "https://metalforge.io"
+      }
+    };
+
+    ldScript.textContent = JSON.stringify(indexSchema);
+  }
+}
+
+// ==========================================
 // DRUMMING TECHNIQUES ROUTING (Issue #344)
 // ==========================================
 
@@ -13549,13 +13997,7 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
               <form
                 action="https://formsubmit.co/ricardo@boomstrategy.io"
                 method="POST"
-                style={{
-                  display: 'flex',
-                  flexDirection: 'row',
-                  gap: 8,
-                  marginTop: 12,
-                  flexWrap: 'wrap',
-                }}
+                style={styles.rowLayout21}
               >
                 {/* FormSubmit.co hidden fields */}
                 <input type="hidden" name="_subject" value="MetalForge Newsletter Signup (Quiz)" />
@@ -13563,7 +14005,7 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
                 <input type="hidden" name="_template" value="table" />
                 <input type="hidden" name="_next" value="https://metalforge.io/quiz?subscribed=true" />
                 {/* Honeypot spam protection */}
-                <input type="text" name="_honey" style={{ display: 'none' }} />
+                <input type="text" name="_honey" style={styles.displayMode2} />
                 
                 <input
                   type="email"
@@ -14535,7 +14977,7 @@ function NewsletterFooter({ theme }) {
                   You can unsubscribe anytime. See our{' '}
                   <a 
                     href="/privacy" 
-                    style={{ color: '#f59e0b', textDecoration: 'underline' }}
+                    style={styles.textDecor2}
                     onClick={(e) => e.stopPropagation()}
                   >
                     Privacy Policy
@@ -14662,6 +15104,11 @@ function AppContent() {
   const [showTechniqueDetail, setShowTechniqueDetail] = useState(() => isTechniqueDetailPage());
   const [techniqueSlug, setTechniqueSlug] = useState(() => getTechniqueSlugFromURL());
   const [showTechniquesIndex, setShowTechniquesIndex] = useState(() => isTechniquesIndexPage());
+
+  // Drummer vs Drummer Page state (Issue #558)
+  const [showDrummerVsIndex, setShowDrummerVsIndex] = useState(() => isDrummerVsIndexPage());
+  const [showDrummerVsDetail, setShowDrummerVsDetail] = useState(() => isDrummerVsDetailPage());
+  const [drummerVsSlug, setDrummerVsSlug] = useState(() => getDrummerComparisonSlugFromURL());
 
   // Gear Category Page state (Issue #339)
   const [showGearIndex, setShowGearIndex] = useState(() => isGearIndexPage());
@@ -15483,11 +15930,81 @@ function AppContent() {
         setShowList(false);
         setListSlug(null);
         setShowNewsPage(false);
+        setShowDrummerVsIndex(false);
+        setShowDrummerVsDetail(false);
+        setDrummerVsSlug(null);
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
         // Update meta tags
         updateTechniqueMeta(null);
+      } else if (isDrummerVsDetailPage()) {
+        // Drummer vs detail page (Issue #558)
+        preloadDrummerComparisons();
+        const slug = getDrummerComparisonSlugFromURL();
+        setShowDrummerVsDetail(true);
+        setDrummerVsSlug(slug);
+        setShowDrummerVsIndex(false);
+        setShowTechniquesIndex(false);
+        setShowTechniqueDetail(false);
+        setTechniqueSlug(null);
+        setShowGearComparisonsIndex(false);
+        setShowGearComparison(false);
+        setGearComparisonSlug(null);
+        setShowGenresList(false);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowKitBuilder(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowList(false);
+        setListSlug(null);
+        setShowNewsPage(false);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+      } else if (isDrummerVsIndexPage()) {
+        // Drummer vs index page (Issue #558)
+        preloadDrummerComparisons();
+        setShowDrummerVsIndex(true);
+        setShowDrummerVsDetail(false);
+        setDrummerVsSlug(null);
+        setShowTechniquesIndex(false);
+        setShowTechniqueDetail(false);
+        setTechniqueSlug(null);
+        setShowGearComparisonsIndex(false);
+        setShowGearComparison(false);
+        setGearComparisonSlug(null);
+        setShowGenresList(false);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowKitBuilder(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowList(false);
+        setListSlug(null);
+        setShowNewsPage(false);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+        // Update meta tags
+        updateDrummerVsMeta(null);
       } else if (isNewsPage()) {
         // News page (Issue #514)
         setShowNewsPage(true);
@@ -16516,6 +17033,109 @@ setShowList(false);
     }
   };
 
+  // Navigate to drummer vs comparison page (Issue #558)
+  const handleNavigateToDrummerVs = (slug) => {
+    preloadDrummerComparisons(); // Preload comparisons module
+    setShowDrummerVsDetail(true);
+    setDrummerVsSlug(slug);
+    setShowDrummerVsIndex(false);
+    // Reset other views
+    setShowTechniqueDetail(false);
+    setTechniqueSlug(null);
+    setShowTechniquesIndex(false);
+    setShowGearComparison(false);
+    setGearComparisonSlug(null);
+    setShowGearComparisonsIndex(false);
+    setShowGearFinder(false);
+    setShowGearByBudget(false);
+    setShowGearIndex(false);
+    setShowGearCategory(false);
+    setGearCategory(null);
+    setGearCategoryData(null);
+    setShowBandDetail(false);
+    setBandSlug(null);
+    setShowList(false);
+    setListSlug(null);
+    setShowSpotlights(false);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowPrivacy(false);
+    setShowQuotes(false);
+    setShowBioPage(false);
+    setBioSlug(null);
+    setShowGenrePage(false);
+    setGenreSlug(null);
+    setShowGenresList(false);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    // Update URL
+    updateDrummerComparisonURL(slug);
+  };
+
+  // Navigate to drummer vs index page (Issue #558)
+  const handleNavigateToDrummerVsIndex = () => {
+    preloadDrummerComparisons(); // Preload comparisons module
+    setShowDrummerVsIndex(true);
+    setShowDrummerVsDetail(false);
+    setDrummerVsSlug(null);
+    // Reset other views
+    setShowTechniqueDetail(false);
+    setTechniqueSlug(null);
+    setShowTechniquesIndex(false);
+    setShowGearComparison(false);
+    setGearComparisonSlug(null);
+    setShowGearComparisonsIndex(false);
+    setShowGearFinder(false);
+    setShowGearByBudget(false);
+    setShowGearIndex(false);
+    setShowGearCategory(false);
+    setGearCategory(null);
+    setGearCategoryData(null);
+    setShowBandDetail(false);
+    setBandSlug(null);
+    setShowList(false);
+    setListSlug(null);
+    setShowSpotlights(false);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowPrivacy(false);
+    setShowQuotes(false);
+    setShowBioPage(false);
+    setBioSlug(null);
+    setShowGenrePage(false);
+    setGenreSlug(null);
+    setShowGenresList(false);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    // Update URL and meta
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/vs');
+    }
+    updateDrummerVsMeta(null);
+  };
+
+  // Handle back from drummer vs page (Issue #558)
+  const handleBackFromDrummerVs = () => {
+    if (showDrummerVsDetail) {
+      // Go back to vs index
+      setShowDrummerVsDetail(false);
+      setDrummerVsSlug(null);
+      setShowDrummerVsIndex(true);
+      if (Platform.OS === 'web' && typeof window !== 'undefined') {
+        window.history.pushState({}, '', '/vs');
+      }
+      updateDrummerVsMeta(null);
+    } else {
+      // Go back to home
+      setShowDrummerVsIndex(false);
+      if (Platform.OS === 'web' && typeof window !== 'undefined') {
+        window.history.pushState({}, '', '/');
+      }
+    }
+  };
+
   const handleCompareYourKit = (drummer) => {
     setCompareKitDrummer(drummer);
     setShowCompareYourKit(true);
@@ -16919,6 +17539,30 @@ setShowList(false);
           theme={theme}
           onBack={handleBackFromTechnique}
           onSelectTechnique={handleNavigateToTechnique}
+          onSelectDrummer={handleSelectDrummer}
+          drummers={drummers}
+        />
+      );
+    }
+    // Drummer vs Detail Page (Issue #558)
+    if (showDrummerVsDetail && drummerVsSlug) {
+      return (
+        <DrummerVsPage
+          comparisonSlug={drummerVsSlug}
+          theme={theme}
+          onBack={handleBackFromDrummerVs}
+          onSelectDrummer={handleSelectDrummer}
+          drummers={drummers}
+        />
+      );
+    }
+    // Drummer vs Index Page (Issue #558)
+    if (showDrummerVsIndex) {
+      return (
+        <DrummerVsIndexPage
+          theme={theme}
+          onBack={handleBackFromDrummerVs}
+          onSelectComparison={handleNavigateToDrummerVs}
           onSelectDrummer={handleSelectDrummer}
           drummers={drummers}
         />
@@ -22187,4 +22831,67 @@ const styles = StyleSheet.create({
     fontWeight: fontWeight.semibold,
     fontSize: fontSize.sm,
   },
+  // ==========================================
+  // MIGRATED INLINE STYLES (Issue #521)
+  // Static styles converted from style={{}} to StyleSheet
+  // ==========================================
+  inlineStyle1: { borderRadius: 8 },
+  textDecor1: { textDecoration: 'none' },
+  inlineStyle2: { height: 40 },
+  displayMode1: { display: 'contents' },
+  rowLayout1: { flexDirection: 'row' },
+  marginSpacing1: { textDecoration: 'none', display: 'inline-block', marginTop: 12 },
+  marginSpacing2: { marginTop: 12 },
+  centeredLayout1: { padding: 20, alignItems: 'center' },
+  rowLayout2: { marginTop: 20, flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'center', gap: 10 },
+  flexOne1: { flex: 1 },
+  paddedBox1: { marginTop: 30, paddingHorizontal: 20 },
+  rowLayout3: { flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'center', gap: 10 },
+  centeredLayout2: { alignItems: 'center', padding: 40 },
+  emojiText1: { fontSize: 32, marginBottom: 12 },
+  marginSpacing3: { marginBottom: 24 },
+  rowLayout4: { flexDirection: 'row', flexWrap: 'wrap', gap: 8 },
+  rowLayout5: { flexDirection: 'row', alignItems: 'center', marginBottom: 8 },
+  emojiText2: { fontSize: 40, marginRight: 12 },
+  gappedLayout1: { gap: 12 },
+  marginSpacing4: { marginTop: 24, marginBottom: 40 },
+  emojiText3: { fontSize: 28, marginRight: 10 },
+  rowLayout6: { marginTop: 12, flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center' },
+  marginSpacing5: { marginBottom: 32 },
+  rowLayout7: { flexDirection: 'row', alignItems: 'center', marginBottom: 12 },
+  rowLayout8: { flexDirection: 'row', alignItems: 'center', gap: 8 },
+  rowLayout9: { flexDirection: 'row', alignItems: 'center', marginTop: 8 },
+  centeredLayout3: { alignItems: 'center', marginBottom: 24 },
+  marginSpacing6: { color: '#fbbf24', fontSize: 16, marginRight: 8 },
+  flexOne2: { flex: 1, fontWeight: '600', color: '#3b82f6', fontSize: 14, textAlign: 'center' },
+  marginSpacing7: { marginBottom: 16 },
+  centeredLayout4: { alignItems: 'center', marginBottom: 32 },
+  emojiText4: { fontSize: 48, marginBottom: 12 },
+  gappedLayout2: { gap: 20 },
+  centeredLayout5: { flex: 1, alignItems: 'center' },
+  inlineStyle3: { fontSize: 24 },
+  emojiText5: { fontSize: 48 },
+  rowLayout10: { flexDirection: 'row', gap: 12, marginBottom: 16 },
+  rowLayout11: { flexDirection: 'row', height: 24, borderRadius: 12, overflow: 'hidden', marginBottom: 8 },
+  rowLayout12: { flexDirection: 'row', justifyContent: 'space-between' },
+  rowLayout13: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', marginBottom: 8 },
+  rowLayout14: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', marginTop: 8 },
+  emojiText6: { fontSize: 48, marginBottom: 16 },
+  rowLayout15: { flexDirection: 'row', alignItems: 'center', marginBottom: 12, flexWrap: 'wrap', gap: 12 },
+  rowLayout16: { flexDirection: 'row', alignItems: 'center', gap: 12, flexWrap: 'wrap' },
+  rowLayout17: { flexDirection: 'row', marginBottom: 12 },
+  rowLayout18: { flexDirection: 'row', flexWrap: 'wrap', gap: 12 },
+  rowLayout19: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between' },
+  paddedBox2: { marginBottom: 8, paddingLeft: 12 },
+  inlineStyle4: { fontWeight: '600' },
+  inlineStyle5: { fontSize: 20 },
+  centeredLayout6: { alignItems: 'center', marginTop: 24, marginBottom: 40 },
+  gappedLayout3: { gap: 16 },
+  gappedLayout4: { padding: 16, gap: 8 },
+  rowLayout20: { flexDirection: 'row', gap: 8, marginTop: 8 },
+  marginSpacing8: { marginVertical: 16 },
+  rowLayout21: { display: 'flex', flexDirection: 'row', gap: 8, marginTop: 12, flexWrap: 'wrap', },
+  displayMode2: { display: 'none' },
+  textDecor2: { color: '#f59e0b', textDecoration: 'underline' },
+
 });

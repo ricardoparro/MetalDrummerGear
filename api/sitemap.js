@@ -74,6 +74,15 @@ const gearComparisons = [
   { slug: 'sonor-vs-dw', name: 'Sonor vs DW Drums' },
 ];
 
+// Issue #558: Drummer vs Drummer comparison pages for SEO
+const drummerComparisons = [
+  { slug: 'lars-ulrich-vs-dave-lombardo', name: 'Lars Ulrich vs Dave Lombardo' },
+  { slug: 'mario-duplantier-vs-tomas-haake', name: 'Mario Duplantier vs Tomas Haake' },
+  { slug: 'joey-jordison-vs-gene-hoglan', name: 'Joey Jordison vs Gene Hoglan' },
+  { slug: 'danny-carey-vs-tomas-haake', name: 'Danny Carey vs Tomas Haake' },
+  { slug: 'george-kollias-vs-gene-hoglan', name: 'George Kollias vs Gene Hoglan' },
+];
+
 const BASE_URL = 'https://metalforge.io';
 
 function generateSlug(name) {
@@ -101,6 +110,9 @@ export default function handler(req, res) {
     // Issue #345: Gear comparison pages
     { loc: '/compare', priority: '0.9', changefreq: 'weekly' },
     ...gearComparisons.map(c => ({ loc: `/compare/${c.slug}`, priority: '0.8', changefreq: 'monthly' })),
+    // Issue #558: Drummer vs Drummer comparison pages
+    { loc: '/vs', priority: '0.9', changefreq: 'weekly' },
+    ...drummerComparisons.map(c => ({ loc: `/vs/${c.slug}`, priority: '0.8', changefreq: 'monthly' })),
   ];
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">

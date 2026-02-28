@@ -47,6 +47,8 @@ import {
 
 // Import extracted data for code splitting
 import { FILTER_OPTIONS } from './data/filterOptions';
+// Curated featured drummer (Issue #494)
+import { getFeaturedDrummer, getFeaturedDrummerInfo } from './data/featuredDrummer';
 import { 
   BUDGET_TIERS, 
   getBudgetTierForPrice, 
@@ -347,7 +349,8 @@ function preloadTop10Lists() {
 }
 
 // ==========================================
-// SPOTLIGHT HELPERS - Weekly Featured Drummer
+// SPOTLIGHT HELPERS - Legacy functions for archive page
+// NOTE: Homepage now uses curated getFeaturedDrummer from ./data/featuredDrummer.js (Issue #494)
 // ==========================================
 
 // Get the current week number since epoch for deterministic rotation
@@ -4864,6 +4867,104 @@ function DrummerSpotlight({ drummer, theme, onSelectDrummer, onViewAllSpotlights
           </View>
         </View>
       </View>
+    </View>
+  );
+}
+
+// Featured Drummer Section - Curated featured drummer on homepage (Issue #494)
+// Replaces random spotlight with deterministic weekly rotation + birthday/event overrides
+function FeaturedDrummerSection({ drummer, theme, onSelectDrummer, onViewAllSpotlights }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+
+  if (!drummer) return null;
+
+  // Get featured reason from curated logic
+  const featuredReason = drummer.featuredReason || 'Weekly Feature';
+  const isBirthday = drummer.isBirthdayFeature || false;
+  
+  // Get nickname from spotlight data if available
+  const nickname = drummer.spotlight?.quickFacts?.find(fact => 
+    fact.toLowerCase().includes('nicknamed') || fact.toLowerCase().includes('known as')
+  );
+  const displayNickname = nickname 
+    ? nickname.replace(/nicknamed|known as/gi, '').replace(/["']/g, '').trim().split(' ').slice(0, 4).join(' ')
+    : null;
+
+  return (
+    <View 
+      style={[styles.featuredDrummerContainer, { backgroundColor: theme.card, borderColor: theme.border }]}
+      accessibilityRole="region"
+      accessibilityLabel="Featured Drummer"
+    >
+      <View style={styles.featuredDrummerHeader}>
+        <Text style={[styles.featuredDrummerLabel, { color: '#f59e0b' }]}>
+          {isBirthday ? '🎂' : '⭐'} FEATURED DRUMMER
+        </Text>
+        <Text style={[styles.featuredDrummerReason, { color: theme.secondaryText }]}>
+          {featuredReason}
+        </Text>
+      </View>
+      
+      <View style={[styles.featuredDrummerContent, isMobile && styles.featuredDrummerContentMobile]}>
+        <TouchableOpacity 
+          onPress={() => onSelectDrummer(drummer.id)}
+          style={[styles.featuredDrummerImageContainer, { width: isMobile ? 100 : 120, height: isMobile ? 100 : 120 }]}
+          accessibilityRole="button"
+          accessibilityLabel={`View ${drummer.name}'s profile`}
+        >
+          <ImageWithFallback
+            source={{ uri: drummer.image }}
+            style={[styles.featuredDrummerImage, isMobile && styles.featuredDrummerImageMobile]}
+            accessibilityLabel={`Photo of ${drummer.name}`}
+            priority={true}
+            width={isMobile ? 100 : 120}
+            height={isMobile ? 100 : 120}
+            imageContext="spotlight"
+          />
+        </TouchableOpacity>
+        
+        <View style={[styles.featuredDrummerInfo, isMobile && styles.featuredDrummerInfoMobile]}>
+          <TouchableOpacity onPress={() => onSelectDrummer(drummer.id)}>
+            <Text style={[styles.featuredDrummerName, { color: theme.text }]}>{drummer.name}</Text>
+          </TouchableOpacity>
+          <Text style={[styles.featuredDrummerBand, { color: theme.secondaryText }]}>{drummer.band}</Text>
+          
+          {/* Display nickname/tagline if available */}
+          {displayNickname && (
+            <Text style={[styles.featuredDrummerNickname, { color: '#f59e0b' }]}>
+              "{displayNickname}"
+            </Text>
+          )}
+          
+          {/* Genre tag */}
+          {drummer.genre && (
+            <View style={styles.featuredDrummerGenre}>
+              <GenreTag genre={drummer.genre} size="small" />
+            </View>
+          )}
+          
+          {/* CTA Button */}
+          <TouchableOpacity
+            onPress={() => onSelectDrummer(drummer.id)}
+            style={[styles.featuredDrummerCTA, { backgroundColor: theme.primary }]}
+            accessibilityRole="button"
+          >
+            <Text style={styles.featuredDrummerCTAText}>View Gear →</Text>
+          </TouchableOpacity>
+        </View>
+      </View>
+      
+      {/* Past Spotlights link */}
+      <TouchableOpacity
+        onPress={onViewAllSpotlights}
+        style={styles.featuredDrummerArchiveLink}
+        accessibilityRole="button"
+      >
+        <Text style={[styles.featuredDrummerArchiveLinkText, { color: theme.secondaryText }]}>
+          View Past Spotlights →
+        </Text>
+      </TouchableOpacity>
     </View>
   );
 }
@@ -10878,9 +10979,9 @@ function DrummerList({
         sortBy={sortBy}
         onSortChange={onSortChange}
       />
-      {/* Drummer Spotlight Section */}
+      {/* Featured Drummer Section - Curated weekly rotation (Issue #494) */}
       {spotlight && (
-        <DrummerSpotlight
+        <FeaturedDrummerSection
           drummer={spotlight}
           theme={theme}
           onSelectDrummer={onSelectDrummer}
@@ -16192,7 +16293,7 @@ setShowList(false);
           onNavigateToBirthdayCalendar={handleNavigateToBirthdayCalendar}
           onNavigateToGenresList={handleNavigateToGenresList}
           onNavigateToTechniques={handleNavigateToTechniquesIndex}
-          spotlight={apiSpotlight || getCurrentSpotlightDrummer(drummers)}
+          spotlight={apiSpotlight || getFeaturedDrummer(drummers)}
           filters={filters}
           onFilterChange={handleFilterChange}
           sortBy={sortBy}
@@ -19124,6 +19225,108 @@ const styles = StyleSheet.create({
     fontWeight: fontWeight.medium,
   },
   // ==========================================
+  // FEATURED DRUMMER SECTION STYLES (Issue #494)
+  // Curated featured drummer with weekly rotation + birthday overrides
+  // ==========================================
+  featuredDrummerContainer: {
+    marginBottom: 20,
+    borderRadius: 16,
+    borderWidth: 1,
+    overflow: 'hidden',
+    minHeight: 180, // CLS prevention: reserve space for content
+  },
+  featuredDrummerHeader: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    paddingHorizontal: 16,
+    paddingVertical: 12,
+    borderBottomWidth: 1,
+    borderBottomColor: 'rgba(128, 128, 128, 0.2)',
+  },
+  featuredDrummerLabel: {
+    fontSize: fontSize.xs,
+    fontWeight: fontWeight.bold,
+    letterSpacing: 1,
+  },
+  featuredDrummerReason: {
+    fontSize: fontSize.xs,
+    fontWeight: fontWeight.medium,
+  },
+  featuredDrummerContent: {
+    flexDirection: 'row',
+    padding: 16,
+    gap: 16,
+  },
+  featuredDrummerContentMobile: {
+    flexDirection: 'column',
+    alignItems: 'center',
+  },
+  featuredDrummerImageContainer: {
+    flexShrink: 0,
+  },
+  featuredDrummerImage: {
+    width: 120,
+    height: 120,
+    borderRadius: 12,
+    aspectRatio: 1, // Prevent CLS
+  },
+  featuredDrummerImageMobile: {
+    width: 100,
+    height: 100,
+    aspectRatio: 1,
+    marginBottom: 12,
+  },
+  featuredDrummerInfo: {
+    flex: 1,
+    justifyContent: 'center',
+  },
+  featuredDrummerInfoMobile: {
+    alignItems: 'center',
+    width: '100%',
+  },
+  featuredDrummerName: {
+    fontSize: fontSize.xl,
+    fontWeight: fontWeight.bold,
+    marginBottom: 4,
+  },
+  featuredDrummerBand: {
+    fontSize: fontSize.base,
+    marginBottom: 8,
+  },
+  featuredDrummerNickname: {
+    fontSize: fontSize.sm,
+    fontStyle: 'italic',
+    marginBottom: 8,
+    fontWeight: fontWeight.medium,
+  },
+  featuredDrummerGenre: {
+    marginBottom: 12,
+  },
+  featuredDrummerCTA: {
+    paddingVertical: 10,
+    paddingHorizontal: 20,
+    borderRadius: 8,
+    alignItems: 'center',
+    alignSelf: 'flex-start',
+  },
+  featuredDrummerCTAText: {
+    color: '#ffffff',
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.semibold,
+  },
+  featuredDrummerArchiveLink: {
+    borderTopWidth: 1,
+    borderTopColor: 'rgba(128, 128, 128, 0.2)',
+    paddingVertical: 10,
+    paddingHorizontal: 16,
+    alignItems: 'center',
+  },
+  featuredDrummerArchiveLinkText: {
+    fontSize: fontSize.xs,
+    fontWeight: fontWeight.medium,
+  },
+  // ==========================================
   // SPOTLIGHTS ARCHIVE PAGE STYLES
   // ==========================================
   spotlightsArchiveTitle: {
@@ -21215,5 +21418,113 @@ const styles = StyleSheet.create({
   newsCardArrow: {
     fontSize: 16,
     marginLeft: 8,
+  },
+  
+  // ==========================================
+  // NEWS PAGE STYLES (Issue #514 - Phase 6)
+  // Dedicated /news page with full news feed
+  // ==========================================
+  newsPageHeader: {
+    paddingVertical: 24,
+    marginBottom: 16,
+  },
+  newsPageTitle: {
+    fontSize: 32,
+    fontWeight: '800',
+    marginBottom: 8,
+    marginTop: 16,
+  },
+  newsPageSubtitle: {
+    fontSize: 16,
+    lineHeight: 24,
+    marginBottom: 4,
+  },
+  newsLastUpdate: {
+    fontSize: 13,
+    fontStyle: 'italic',
+    marginTop: 8,
+  },
+  newsFilters: {
+    marginBottom: 20,
+    paddingBottom: 16,
+  },
+  newsCardLarge: {
+    borderRadius: 12,
+    borderWidth: 1,
+    overflow: 'hidden',
+    marginBottom: 16,
+  },
+  newsCardLargeImage: {
+    width: '100%',
+    height: 200,
+  },
+  newsCardLargeContent: {
+    padding: 16,
+  },
+  newsCardLargeTitle: {
+    fontSize: 18,
+    fontWeight: '700',
+    lineHeight: 24,
+    marginBottom: 8,
+  },
+  newsCardLargeSnippet: {
+    fontSize: 14,
+    lineHeight: 20,
+    marginBottom: 12,
+  },
+  newsCardLargeMeta: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    marginTop: 8,
+  },
+  newsTags: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 8,
+    marginTop: 12,
+  },
+  newsTag: {
+    paddingHorizontal: 12,
+    paddingVertical: 6,
+    borderRadius: 16,
+  },
+  newsTagDrummer: {
+    backgroundColor: 'rgba(99, 102, 241, 0.15)',
+  },
+  newsTagBand: {
+    backgroundColor: 'rgba(236, 72, 153, 0.15)',
+  },
+  newsTagText: {
+    fontSize: 12,
+    fontWeight: '600',
+  },
+  newsEmpty: {
+    padding: 40,
+    alignItems: 'center',
+  },
+  newsEmptyText: {
+    fontSize: 16,
+    textAlign: 'center',
+  },
+  newsRetryButton: {
+    marginTop: 16,
+    paddingHorizontal: 24,
+    paddingVertical: 12,
+    borderRadius: 8,
+  },
+  newsRetryText: {
+    color: '#ffffff',
+    fontWeight: '600',
+  },
+  newsAttribution: {
+    marginTop: 32,
+    paddingTop: 24,
+    paddingBottom: 40,
+    borderTopWidth: 1,
+  },
+  newsAttributionText: {
+    fontSize: 13,
+    textAlign: 'center',
+    lineHeight: 20,
   },
 });

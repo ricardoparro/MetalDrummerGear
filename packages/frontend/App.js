@@ -8334,7 +8334,7 @@ function GearCategoryPage({ category, categoryData, loading, theme, onBack, onSe
             <Text style={[{ fontSize: 14, fontWeight: '600', marginBottom: 8 }, { color: theme.text }]}>
               Filter by Brand:
             </Text>
-            <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: 8 }}>
+            <View style={[styles.flexRowWrap, styles.gap8]}>
               {brands.map(brand => (
                 <TouchableOpacity
                   key={brand}
@@ -8677,7 +8677,7 @@ function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavi
         {genre.pioneers && genre.pioneers.length > 0 && (
           <View style={[styles.genreSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
             <Text style={[styles.sectionTitle, { color: theme.text }]}>Genre Pioneers</Text>
-            <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: 8 }}>
+            <View style={[styles.flexRowWrap, styles.gap8]}>
               {genre.pioneers.map((pioneer, index) => {
                 // Find if pioneer is in our drummers list
                 const drummerData = drummers.find(d => 
@@ -8783,7 +8783,7 @@ function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavi
         {relatedGenres.length > 0 && (
           <View style={[styles.genreSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
             <Text style={[styles.sectionTitle, { color: theme.text }]}>Related Genres</Text>
-            <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: 8 }}>
+            <View style={[styles.flexRowWrap, styles.gap8]}>
               {relatedGenres.map((related) => (
                 <TouchableOpacity
                   key={related.slug}
@@ -9408,7 +9408,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
               <Text style={{ fontSize: 16, fontWeight: '600', color: theme.text, marginBottom: 12 }}>
                 {item1.brand} Users
               </Text>
-              <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: 8 }}>
+              <View style={[styles.flexRowWrap, styles.gap8]}>
                 {item1.usedBy.map((name, i) => {
                   const drummer = findDrummerByName(name);
                   return (
@@ -9436,7 +9436,7 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
               <Text style={{ fontSize: 16, fontWeight: '600', color: theme.text, marginBottom: 12 }}>
                 {item2.brand} Users
               </Text>
-              <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: 8 }}>
+              <View style={[styles.flexRowWrap, styles.gap8]}>
                 {item2.usedBy.map((name, i) => {
                   const drummer = findDrummerByName(name);
                   return (
@@ -9823,7 +9823,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
         </View>
 
         {/* History & Origins */}
-        <View style={{ backgroundColor: theme.card, borderRadius: 12, padding: 20, marginBottom: 24, borderColor: theme.border, borderWidth: 1 }}>
+        <View style={[styles.contentCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
           <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>
             📜 History & Origins
           </Text>
@@ -9833,7 +9833,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
         </View>
 
         {/* How to Learn */}
-        <View style={{ backgroundColor: theme.card, borderRadius: 12, padding: 20, marginBottom: 24, borderColor: theme.border, borderWidth: 1 }}>
+        <View style={[styles.contentCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
           <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>
             📚 How to Learn
           </Text>
@@ -9860,7 +9860,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
 
         {/* Variations */}
         {technique.variations && technique.variations.length > 0 && (
-          <View style={{ backgroundColor: theme.card, borderRadius: 12, padding: 20, marginBottom: 24, borderColor: theme.border, borderWidth: 1 }}>
+          <View style={[styles.contentCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
             <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>
               🔀 Variations
             </Text>
@@ -9879,7 +9879,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
 
         {/* Masters of This Technique */}
         {technique.masters && technique.masters.length > 0 && (
-          <View style={{ backgroundColor: theme.card, borderRadius: 12, padding: 20, marginBottom: 24, borderColor: theme.border, borderWidth: 1 }}>
+          <View style={[styles.contentCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
             <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>
               🏆 Masters of This Technique
             </Text>
@@ -9932,7 +9932,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
 
         {/* Gear Recommendations */}
         {technique.gearRecommendations && (
-          <View style={{ backgroundColor: theme.card, borderRadius: 12, padding: 20, marginBottom: 24, borderColor: theme.border, borderWidth: 1 }}>
+          <View style={[styles.contentCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
             <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>
               🛠️ Gear Recommendations
             </Text>
@@ -9993,7 +9993,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
 
         {/* Related Techniques */}
         {relatedTechniques && relatedTechniques.length > 0 && (
-          <View style={{ backgroundColor: theme.card, borderRadius: 12, padding: 20, marginBottom: 24, borderColor: theme.border, borderWidth: 1 }}>
+          <View style={[styles.contentCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
             <Text style={{ fontSize: 18, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>
               🔗 Related Techniques
             </Text>
@@ -10695,6 +10695,7 @@ function DrummerList({
   onNavigateToKitQuiz,
   onNavigateToSpotlights,
   onNavigateToQuotes,
+  onNavigateToNews,
   onNavigateToGearByBudget,
   onNavigateToList,
   onNavigateToGearFinder,
@@ -10865,6 +10866,16 @@ function DrummerList({
           accessibilityLabel="Guess the drummer by kit quiz"
         >
           <Text style={[styles.quizButtonText, { color: '#fff' }]}>🎯 Kit Quiz</Text>
+        </TouchableOpacity>
+      </View>
+      <View style={[styles.actionButtonsRow, { marginTop: -8 }]}>
+        <TouchableOpacity
+          onPress={onNavigateToNews}
+          style={[styles.quizButton, { backgroundColor: '#059669', borderColor: '#059669', flex: 1 }]}
+          accessibilityRole="button"
+          accessibilityLabel="Read latest metal news"
+        >
+          <Text style={[styles.quizButtonText, { color: '#fff' }]}>📰 Metal News</Text>
         </TouchableOpacity>
       </View>
       {/* Filter Bar - positioned below action buttons, above drummer list (Issue #506) */}
@@ -16183,6 +16194,7 @@ setShowList(false);
           onNavigateToQuiz={handleNavigateToQuiz}
           onNavigateToKitQuiz={handleNavigateToKitQuiz}
           onNavigateToQuotes={handleNavigateToQuotes}
+          onNavigateToNews={handleNavigateToNews}
           onNavigateToSpotlights={handleNavigateToSpotlights}
           onNavigateToGearByBudget={handleNavigateToGearByBudget}
           onNavigateToList={handleNavigateToList}
@@ -16192,11 +16204,8 @@ setShowList(false);
           onNavigateToBirthdayCalendar={handleNavigateToBirthdayCalendar}
           onNavigateToGenresList={handleNavigateToGenresList}
           onNavigateToTechniques={handleNavigateToTechniquesIndex}
+          onNavigateToDrummers={handleNavigateToDrummers}
           spotlight={apiSpotlight || getCurrentSpotlightDrummer(drummers)}
-          filters={filters}
-          onFilterChange={handleFilterChange}
-          sortBy={sortBy}
-          onSortChange={handleSortChange}
           searchValue={searchValue}
           onSearchChange={handleSearchChange}
           onSearchClear={handleSearchClear}
@@ -16205,8 +16214,6 @@ setShowList(false);
           onSearchFocus={() => setShowSuggestions(true)}
           onSelectSuggestion={handleSelectSuggestion}
           searchInputRef={searchInputRef}
-          showAllDrummers={showAllDrummers}
-          onShowAllDrummers={() => setShowAllDrummers(true)}
         />
       </View>
     );
@@ -21216,4 +21223,27 @@ const styles = StyleSheet.create({
     fontSize: 16,
     marginLeft: 8,
   },
+  // NEWS PAGE STYLES (Issue #514 - Phase 6)
+  newsPageHeader: { marginBottom: 24 },
+  newsPageTitle: { fontSize: 32, fontWeight: '700', marginBottom: 8, marginTop: 16 },
+  newsPageSubtitle: { fontSize: 16, marginBottom: 8, lineHeight: 24 },
+  newsLastUpdate: { fontSize: 13, fontStyle: 'italic', marginTop: 8 },
+  newsFilters: { marginBottom: 24 },
+  newsCardLarge: { borderRadius: 12, borderWidth: 1, overflow: 'hidden' },
+  newsCardLargeImage: { width: '100%', height: 200, resizeMode: 'cover' },
+  newsCardLargeContent: { padding: 16 },
+  newsCardLargeTitle: { fontSize: 18, fontWeight: '700', marginBottom: 8, lineHeight: 26 },
+  newsCardLargeSnippet: { fontSize: 14, lineHeight: 22, marginBottom: 12 },
+  newsCardLargeMeta: { flexDirection: 'row', alignItems: 'center', marginTop: 8 },
+  newsTags: { flexDirection: 'row', flexWrap: 'wrap', gap: 8, marginBottom: 12 },
+  newsTag: { paddingHorizontal: 12, paddingVertical: 6, borderRadius: 16 },
+  newsTagDrummer: { backgroundColor: 'rgba(220, 38, 38, 0.15)' },
+  newsTagBand: { backgroundColor: 'rgba(37, 99, 235, 0.15)' },
+  newsTagText: { fontSize: 13, fontWeight: '500' },
+  newsEmpty: { alignItems: 'center', padding: 40 },
+  newsEmptyText: { fontSize: 16, textAlign: 'center', marginBottom: 16 },
+  newsRetryButton: { paddingHorizontal: 24, paddingVertical: 12, borderRadius: 8 },
+  newsRetryText: { color: '#ffffff', fontSize: 14, fontWeight: '600' },
+  newsAttribution: { marginTop: 40, paddingTop: 24, borderTopWidth: 1, marginBottom: 40 },
+  newsAttributionText: { fontSize: 13, textAlign: 'center', lineHeight: 20, fontStyle: 'italic' },
 });

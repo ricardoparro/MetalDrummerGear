@@ -24,34 +24,24 @@ const COMPARISON_SLUGS = [
   'gene-hoglan-vs-charlie-benante',
 ];
 
-// Helper to wait for React hydration on comparison pages
-async function waitForComparisonPage(page, timeout = 15000) {
-  // Wait for any of these indicators that the page has loaded
-  const indicators = [
-    page.getByText('Drummer Showdown'),
-    page.getByText('Head-to-Head'),
-    page.getByText('VS'),
-    page.locator('[data-testid="comparison-page"]'),
-    page.getByRole('heading', { level: 1 }),
-  ];
-  
-  try {
-    await Promise.race([
-      ...indicators.map(el => el.waitFor({ state: 'visible', timeout })),
-      page.waitForTimeout(timeout)
-    ]);
-  } catch (e) {
-    // Fallback: just wait for network to settle
-    await page.waitForLoadState('load');
-    await page.waitForTimeout(2000);
-  }
+// Helper to wait for comparison page content using Playwright auto-retry
+async function waitForComparisonPage(page, timeout = 30000) {
+  await expect(async () => {
+    const bodyText = await page.locator('body').textContent();
+    const hasContent = bodyText.includes('Showdown') || 
+                       bodyText.includes('Head-to-Head') ||
+                       bodyText.includes('VS') ||
+                       bodyText.includes('Comparison') ||
+                       bodyText.includes('Drummer') ||
+                       bodyText.length > 500;
+    expect(hasContent).toBe(true);
+  }).toPass({ timeout });
 }
 
 test.describe('Drummer Comparisons Index Page', () => {
   test.beforeEach(async ({ page }) => {
     await page.goto(`${BASE_URL}/vs`);
-    await page.waitForLoadState('load');
-    await page.waitForTimeout(3000); // Allow React hydration
+    await page.waitForLoadState('networkidle');
   });
 
   test('should display the comparison index page with title', async ({ page }) => {

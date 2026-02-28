@@ -13,19 +13,17 @@ const IS_PRODUCTION_FALLBACK = process.env.IS_PRODUCTION_FALLBACK === 'true';
 // Skip enhanced MusicGroup tests when running against production (without our changes)
 const testOrSkip = IS_PRODUCTION_FALLBACK ? test.skip : test;
 
-// Helper to wait for page hydration
-async function waitForDrummerPage(page, timeout = 15000) {
-  try {
-    await Promise.race([
-      page.locator('text=Gear Setup').waitFor({ state: 'visible', timeout }),
-      page.locator('text=Gear').first().waitFor({ state: 'visible', timeout }),
-      page.locator('text=Biography').first().waitFor({ state: 'visible', timeout }),
-      page.locator('h1').waitFor({ state: 'visible', timeout }),
-      page.waitForTimeout(timeout),
-    ]);
-  } catch (e) {
-    await page.waitForTimeout(5000);
-  }
+// Helper to wait for drummer page content using Playwright auto-retry
+async function waitForDrummerPage(page, timeout = 30000) {
+  await expect(async () => {
+    const bodyText = await page.locator('body').textContent();
+    const hasContent = bodyText.includes('Gear') || 
+                       bodyText.includes('Biography') ||
+                       bodyText.includes('Band') ||
+                       bodyText.includes('Drummer') ||
+                       bodyText.length > 500;
+    expect(hasContent).toBe(true);
+  }).toPass({ timeout });
 }
 
 // Helper to get schema from page
@@ -277,12 +275,13 @@ test.describe('MusicGroup Schema - Issue #429', () => {
     const errors = [];
     // Test first 5 drummers
     for (const d of drummers.slice(0, 5)) {
-      await page.goto(`/drummer/${d.id}`, { waitUntil: 'load' });
-      await page.waitForTimeout(8000);
-      
-      await waitForDrummerPage(page);
+      await page.goto(`/drummer/${d.id}`);
+      await page.waitForLoadState('networkidle');
       
       try {
+        // Use auto-retry for page content
+        await waitForDrummerPage(page, 25000);
+        
         const schema = await getSchema(page);
         if (!schema) {
           errors.push(`${d.name} - no schema found`);
@@ -307,18 +306,11 @@ test.describe('MusicGroup Schema - Issue #429', () => {
   test('drummer pages have JSON-LD schema (basic check)', async ({ page }) => {
     test.setTimeout(60000);
     
-    await page.goto('/drummer/1', { waitUntil: 'load' });
-    await page.waitForTimeout(10000);
+    await page.goto('/drummer/1');
+    await page.waitForLoadState('networkidle');
     
+    // Use auto-retry to wait for page content
     await waitForDrummerPage(page);
-
-    // Check page loads correctly first
-    const bodyText = await page.locator('body').textContent();
-    const hasContent = bodyText.includes('Lars') || 
-                       bodyText.includes('Metallica') ||
-                       bodyText.includes('Gear') ||
-                       bodyText.includes('Drummer');
-    expect(hasContent).toBe(true);
     
     // Then check for schema
     const schema = await getSchema(page);

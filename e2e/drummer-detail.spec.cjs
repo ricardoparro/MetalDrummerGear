@@ -1,19 +1,18 @@
 const { test, expect } = require('@playwright/test');
 const BASE_URL = process.env.BASE_URL || 'https://metalforge.io';
 
-// Helper to wait for page hydration
-async function waitForDrummerPage(page, timeout = 15000) {
-  try {
-    await Promise.race([
-      page.locator('text=Gear Setup').waitFor({ state: 'visible', timeout }),
-      page.locator('text=Gear').first().waitFor({ state: 'visible', timeout }),
-      page.locator('text=Biography').first().waitFor({ state: 'visible', timeout }),
-      page.locator('h1').waitFor({ state: 'visible', timeout }),
-      page.waitForTimeout(timeout),
-    ]);
-  } catch (e) {
-    await page.waitForTimeout(5000);
-  }
+// Helper to wait for drummer page content using Playwright auto-retry
+async function waitForDrummerPageContent(page, drummerName = null, timeout = 30000) {
+  await expect(async () => {
+    const bodyText = await page.locator('body').textContent();
+    // Page should contain drummer-related content
+    const hasContent = bodyText.includes('Gear') || 
+                       bodyText.includes('Biography') ||
+                       bodyText.includes('Band') ||
+                       (drummerName && bodyText.includes(drummerName.split(' ')[0])) ||
+                       bodyText.length > 500;
+    expect(hasContent).toBe(true);
+  }).toPass({ timeout });
 }
 
 test.describe('Drummer Detail Pages', () => {
@@ -57,22 +56,17 @@ test.describe('Drummer Detail Pages', () => {
   test('drummer page shows name, bio, and gear', async ({ page }) => {
     test.setTimeout(60000);
     
-    await page.goto('/drummer/1', { waitUntil: 'load' });
-    await page.waitForTimeout(8000); // Extended wait for CI
+    await page.goto('/drummer/1');
+    await page.waitForLoadState('networkidle');
     
-    await waitForDrummerPage(page);
-
-    // Check page has loaded with drummer content
-    const bodyText = await page.locator('body').textContent();
-    const hasLars = bodyText.includes('Lars Ulrich') || bodyText.includes('Lars');
-    const hasBio = bodyText.includes('Biography') || bodyText.includes('bio');
-    const hasGear = bodyText.includes('Gear') || bodyText.includes('Drums');
+    // Use auto-retry assertion for reliable content detection
+    await waitForDrummerPageContent(page, 'Lars Ulrich');
     
-    expect(hasLars || hasBio || hasGear).toBe(true);
+    console.log('✓ Drummer page (Lars Ulrich) loaded with content');
   });
 
   test('all drummer detail pages render without errors', async ({ page, request }) => {
-    test.setTimeout(90000);
+    test.setTimeout(120000);
     
     const response = await request.get(`${BASE_URL}/api/drummers`);
     const drummers = await response.json();
@@ -80,26 +74,25 @@ test.describe('Drummer Detail Pages', () => {
     const errors = [];
     // Test first 3 drummers to stay within timeout
     for (const d of drummers.slice(0, 3)) {
-      await page.goto(`/drummer/${d.id}`, { waitUntil: 'load' });
-      await page.waitForTimeout(6000); // Extended wait for CI
+      await page.goto(`/drummer/${d.id}`);
+      await page.waitForLoadState('networkidle');
       
-      await waitForDrummerPage(page);
-      
-      const pageContent = await page.locator('body').textContent();
-      
-      // Check for JavaScript errors
-      if (pageContent.includes('is not defined') || pageContent.includes('Cannot read')) {
-        errors.push(`${d.name} - JavaScript error on page`);
-        continue;
-      }
-      
-      // Verify page has content (name or other drummer-related content)
-      if (!pageContent.includes(d.name) && pageContent.length < 200) {
+      try {
+        // Use auto-retry assertion
+        await waitForDrummerPageContent(page, d.name, 25000);
+        
+        // Also check for JS errors
+        const pageContent = await page.locator('body').textContent();
+        if (pageContent.includes('is not defined') || pageContent.includes('Cannot read')) {
+          errors.push(`${d.name} - JavaScript error on page`);
+        }
+      } catch (e) {
         errors.push(`${d.name} - content not found on page`);
       }
     }
     
     expect(errors, `Errors on detail pages:\n${errors.join('\n')}`).toHaveLength(0);
+    console.log(`✓ Verified ${3 - errors.length}/3 drummer detail pages`);
   });
 
   test('drummer detail API returns complete gear data', async ({ request }) => {

@@ -16970,61 +16970,6 @@ setShowList(false);
     }
   };
 
-  // Navigate to drummer vs comparison page (Issue #558)
-  const handleNavigateToDrummerVs = (slug) => {
-    preloadDrummerComparisons();
-    setShowDrummerVs(true);
-    setDrummerVsSlug(slug);
-    setShowDrummerVsIndex(false);
-    setShowTechniquesIndex(false);
-    setShowTechniqueDetail(false);
-    setTechniqueSlug(null);
-    setShowGearComparison(false);
-    setGearComparisonSlug(null);
-    setShowGearComparisonsIndex(false);
-    setSelectedDrummer(null);
-    setSelectedDrummerId(null);
-    updateDrummerVsURL(slug);
-  };
-
-  // Navigate to drummer vs index page (Issue #558)
-  const handleNavigateToDrummerVsIndex = () => {
-    preloadDrummerComparisons();
-    setShowDrummerVsIndex(true);
-    setShowDrummerVs(false);
-    setDrummerVsSlug(null);
-    setShowTechniquesIndex(false);
-    setShowTechniqueDetail(false);
-    setTechniqueSlug(null);
-    setShowGearComparison(false);
-    setGearComparisonSlug(null);
-    setShowGearComparisonsIndex(false);
-    setSelectedDrummer(null);
-    setSelectedDrummerId(null);
-    if (Platform.OS === 'web' && typeof window !== 'undefined') {
-      window.history.pushState({}, '', '/vs');
-    }
-    updateDrummerVsMeta(null);
-  };
-
-  // Handle back from drummer vs page (Issue #558)
-  const handleBackFromDrummerVs = () => {
-    if (showDrummerVs) {
-      setShowDrummerVs(false);
-      setDrummerVsSlug(null);
-      setShowDrummerVsIndex(true);
-      if (Platform.OS === 'web' && typeof window !== 'undefined') {
-        window.history.pushState({}, '', '/vs');
-      }
-      updateDrummerVsMeta(null);
-    } else {
-      setShowDrummerVsIndex(false);
-      if (Platform.OS === 'web' && typeof window !== 'undefined') {
-        window.history.pushState({}, '', '/');
-      }
-    }
-  };
-
   const handleCompareYourKit = (drummer) => {
     setCompareKitDrummer(drummer);
     setShowCompareYourKit(true);

@@ -13179,7 +13179,8 @@ function updateDrummerVsMeta(comparison, drummer1, drummer2) {
     meta.setAttribute('content', content);
   };
 
-  if (comparison && drummer1 && drummer2) {
+  if (comparison) {
+    // Set basic SEO meta tags - these work even without drummer details loaded
     document.title = comparison.metaTitle;
     setMeta('description', comparison.metaDescription);
     setMeta('og:title', comparison.metaTitle, true);
@@ -13190,7 +13191,7 @@ function updateDrummerVsMeta(comparison, drummer1, drummer2) {
     setMeta('twitter:title', comparison.metaTitle);
     setMeta('twitter:description', comparison.metaDescription);
 
-
+    // Canonical URL
     let canonicalLink = document.querySelector('link[rel="canonical"]');
     if (!canonicalLink) {
       canonicalLink = document.createElement('link');
@@ -13200,94 +13201,97 @@ function updateDrummerVsMeta(comparison, drummer1, drummer2) {
     canonicalLink.setAttribute('href', `https://metalforge.io/vs/${comparison.slug}`);
 
 
-    let ldScript = document.querySelector('script[data-schema="drummer-comparison"]');
-    if (!ldScript) {
-      ldScript = document.createElement('script');
-      ldScript.type = 'application/ld+json';
-      ldScript.setAttribute('data-schema', 'drummer-comparison');
-      document.head.appendChild(ldScript);
-    }
+    // Only add full structured data if drummer details are available
+    if (drummer1 && drummer2) {
+      let ldScript = document.querySelector('script[data-schema="drummer-comparison"]');
+      if (!ldScript) {
+        ldScript = document.createElement('script');
+        ldScript.type = 'application/ld+json';
+        ldScript.setAttribute('data-schema', 'drummer-comparison');
+        document.head.appendChild(ldScript);
+      }
 
-    const comparisonSchema = {
-      "@context": "https://schema.org",
-      "@type": "WebPage",
-      "name": comparison.title,
-      "description": comparison.metaDescription,
-      "url": `https://metalforge.io/vs/${comparison.slug}`,
-      "about": [
-        {
-          "@type": "Person",
-          "name": drummer1.name,
-          "description": drummer1.bio?.substring(0, 200) || `${drummer1.name} - ${drummer1.band}`,
-          "jobTitle": "Drummer",
-          "worksFor": {
-            "@type": "MusicGroup",
-            "name": drummer1.band
-          }
-        },
-        {
-          "@type": "Person",
-          "name": drummer2.name,
-          "description": drummer2.bio?.substring(0, 200) || `${drummer2.name} - ${drummer2.band}`,
-          "jobTitle": "Drummer",
-          "worksFor": {
-            "@type": "MusicGroup",
-            "name": drummer2.band
-          }
-        }
-      ],
-      "mainEntity": {
-        "@type": "ItemList",
+      const comparisonSchema = {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
         "name": comparison.title,
-        "description": `Side-by-side comparison of ${drummer1.name} and ${drummer2.name}`,
-        "itemListElement": [
+        "description": comparison.metaDescription,
+        "url": `https://metalforge.io/vs/${comparison.slug}`,
+        "about": [
           {
-            "@type": "ListItem",
-            "position": 1,
-            "item": {
-              "@type": "Person",
-              "name": drummer1.name,
-              "url": `https://metalforge.io/drummer/${drummer1.name.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`
+            "@type": "Person",
+            "name": drummer1.name,
+            "description": drummer1.bio?.substring(0, 200) || `${drummer1.name} - ${drummer1.band}`,
+            "jobTitle": "Drummer",
+            "worksFor": {
+              "@type": "MusicGroup",
+              "name": drummer1.band
             }
           },
           {
-            "@type": "ListItem",
-            "position": 2,
-            "item": {
-              "@type": "Person",
-              "name": drummer2.name,
-              "url": `https://metalforge.io/drummer/${drummer2.name.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`
+            "@type": "Person",
+            "name": drummer2.name,
+            "description": drummer2.bio?.substring(0, 200) || `${drummer2.name} - ${drummer2.band}`,
+            "jobTitle": "Drummer",
+            "worksFor": {
+              "@type": "MusicGroup",
+              "name": drummer2.band
             }
           }
-        ]
-      },
-      "isPartOf": {
-        "@type": "WebSite",
-        "name": "MetalForge",
-        "url": "https://metalforge.io"
+        ],
+        "mainEntity": {
+          "@type": "ItemList",
+          "name": comparison.title,
+          "description": `Side-by-side comparison of ${drummer1.name} and ${drummer2.name}`,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@type": "Person",
+                "name": drummer1.name,
+                "url": `https://metalforge.io/drummer/${drummer1.name.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@type": "Person",
+                "name": drummer2.name,
+                "url": `https://metalforge.io/drummer/${drummer2.name.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`
+              }
+            }
+          ]
+        },
+        "isPartOf": {
+          "@type": "WebSite",
+          "name": "MetalForge",
+          "url": "https://metalforge.io"
+        }
+      };
+
+      ldScript.textContent = JSON.stringify(comparisonSchema);
+
+      // BreadcrumbList Schema
+      let breadcrumbScript = document.querySelector('script[data-schema="drummer-comparison-breadcrumb"]');
+      if (!breadcrumbScript) {
+        breadcrumbScript = document.createElement('script');
+        breadcrumbScript.type = 'application/ld+json';
+        breadcrumbScript.setAttribute('data-schema', 'drummer-comparison-breadcrumb');
+        document.head.appendChild(breadcrumbScript);
       }
-    };
-
-    ldScript.textContent = JSON.stringify(comparisonSchema);
-
-    // BreadcrumbList Schema
-    let breadcrumbScript = document.querySelector('script[data-schema="drummer-comparison-breadcrumb"]');
-    if (!breadcrumbScript) {
-      breadcrumbScript = document.createElement('script');
-      breadcrumbScript.type = 'application/ld+json';
-      breadcrumbScript.setAttribute('data-schema', 'drummer-comparison-breadcrumb');
-      document.head.appendChild(breadcrumbScript);
-    }
-    const breadcrumbSchema = {
-      "@context": "https://schema.org",
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://metalforge.io" },
-        { "@type": "ListItem", "position": 2, "name": "Drummer Comparisons", "item": "https://metalforge.io/vs" },
-        { "@type": "ListItem", "position": 3, "name": comparison.title, "item": `https://metalforge.io/vs/${comparison.slug}` }
-      ]
-    };
-    breadcrumbScript.textContent = JSON.stringify(breadcrumbSchema);
+      const breadcrumbSchema = {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://metalforge.io" },
+          { "@type": "ListItem", "position": 2, "name": "Drummer Comparisons", "item": "https://metalforge.io/vs" },
+          { "@type": "ListItem", "position": 3, "name": comparison.title, "item": `https://metalforge.io/vs/${comparison.slug}` }
+        ]
+      };
+      breadcrumbScript.textContent = JSON.stringify(breadcrumbSchema);
+    } // End of if (drummer1 && drummer2)
   } else {
     const title = 'Drummer vs Drummer Comparisons - Metal Legends Head to Head | MetalForge';
     const description = 'Compare metal drumming legends side by side. Lars Ulrich vs Dave Lombardo, Mario Duplantier vs Tomas Haake, and more.';

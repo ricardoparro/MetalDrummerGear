@@ -2,6 +2,7 @@
  * Spacing Design System for MetalForge.io
  * 
  * Issue #519: Create spacing tokens using an 8px grid system.
+ * Issue #600: Cache bust for production rebuild - 2026-02-28T19:25:00Z
  * 
  * 8px Grid Scale:
  * - 0: 0px    - No spacing

@@ -19,12 +19,19 @@ const { test, expect } = require('@playwright/test');
 test.describe('Kit Quiz - Issue #551', () => {
   
   test.describe('Page Loading', () => {
-    test('loads /kit-quiz page with intro screen', async ({ page }) => {
-      await page.goto('/kit-quiz');
-      
-      // Wait for the page to fully load - the routing may take a moment
+    test('loads kit quiz page via navigation', async ({ page }) => {
+      // Navigate to homepage first, then click Kit Quiz button
+      // This mimics real user behavior and works with Expo dev server
+      await page.goto('/');
       await page.waitForLoadState('networkidle');
-      await page.waitForTimeout(1000); // Allow React state to settle
+      
+      // Click Kit Quiz button
+      const kitQuizButton = page.getByRole('button', { name: /kit quiz/i });
+      await expect(kitQuizButton).toBeVisible({ timeout: 10000 });
+      await kitQuizButton.click();
+      
+      // Wait for navigation
+      await page.waitForURL('**/kit-quiz**');
       
       // Should show intro screen with title
       await expect(page.getByText('Guess the Drummer by Kit')).toBeVisible({ timeout: 15000 });
@@ -39,7 +46,11 @@ test.describe('Kit Quiz - Issue #551', () => {
     });
 
     test('has correct SEO meta tags', async ({ page }) => {
-      await page.goto('/kit-quiz');
+      // Navigate via button click (works with dev server)
+      await page.goto('/');
+      await page.waitForLoadState('networkidle');
+      await page.getByRole('button', { name: /kit quiz/i }).click();
+      await page.waitForURL('**/kit-quiz**');
       
       // Check title
       const title = await page.title();
@@ -55,7 +66,11 @@ test.describe('Kit Quiz - Issue #551', () => {
     });
 
     test('has back button that returns to home', async ({ page }) => {
-      await page.goto('/kit-quiz');
+      // Navigate via button click
+      await page.goto('/');
+      await page.waitForLoadState('networkidle');
+      await page.getByRole('button', { name: /kit quiz/i }).click();
+      await page.waitForURL('**/kit-quiz**');
       
       const backButton = page.getByRole('button', { name: /back/i });
       await expect(backButton).toBeVisible();
@@ -66,8 +81,17 @@ test.describe('Kit Quiz - Issue #551', () => {
   });
 
   test.describe('Quiz Gameplay', () => {
+    // Helper to navigate to kit quiz
+    async function navigateToKitQuiz(page) {
+      await page.goto('/');
+      await page.waitForLoadState('networkidle');
+      await page.getByRole('button', { name: /kit quiz/i }).click();
+      await page.waitForURL('**/kit-quiz**');
+      await expect(page.getByRole('button', { name: /start quiz/i })).toBeVisible();
+    }
+
     test('clicking start begins the quiz', async ({ page }) => {
-      await page.goto('/kit-quiz');
+      await navigateToKitQuiz(page);
       
       await page.getByRole('button', { name: /start quiz/i }).click();
       
@@ -77,7 +101,7 @@ test.describe('Kit Quiz - Issue #551', () => {
     });
 
     test('displays gear information for each question', async ({ page }) => {
-      await page.goto('/kit-quiz');
+      await navigateToKitQuiz(page);
       await page.getByRole('button', { name: /start quiz/i }).click();
       
       // Should show gear details

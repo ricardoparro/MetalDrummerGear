@@ -74,6 +74,22 @@ const gearComparisons = [
   { slug: 'sonor-vs-dw', name: 'Sonor vs DW Drums' },
 ];
 
+// Issue #558: Drummer vs Drummer comparison pages for SEO
+const drummerComparisons = [
+  { slug: 'lars-ulrich-vs-dave-lombardo', name: 'Lars Ulrich vs Dave Lombardo' },
+  { slug: 'mario-duplantier-vs-tomas-haake', name: 'Mario Duplantier vs Tomas Haake' },
+  { slug: 'george-kollias-vs-pete-sandoval', name: 'George Kollias vs Pete Sandoval' },
+  { slug: 'joey-jordison-vs-john-otto', name: 'Joey Jordison vs John Otto' },
+  { slug: 'mike-portnoy-vs-danny-carey', name: 'Mike Portnoy vs Danny Carey' },
+  { slug: 'gene-hoglan-vs-charlie-benante', name: 'Gene Hoglan vs Charlie Benante' },
+  { slug: 'matt-halpern-vs-alex-bent', name: 'Matt Halpern vs Alex Bent' },
+  { slug: 'hellhammer-vs-inferno', name: 'Hellhammer vs Inferno' },
+  { slug: 'brann-dailor-vs-mario-duplantier', name: 'Brann Dailor vs Mario Duplantier' },
+  { slug: 'igor-cavalera-vs-eloy-casagrande', name: 'Igor Cavalera vs Eloy Casagrande' },
+  { slug: 'vinnie-paul-vs-art-cruz', name: 'Vinnie Paul vs Art Cruz' },
+  { slug: 'ray-luzier-vs-abe-cunningham', name: 'Ray Luzier vs Abe Cunningham' },
+];
+
 const BASE_URL = 'https://metalforge.io';
 
 function generateSlug(name) {
@@ -102,6 +118,9 @@ export default function handler(req, res) {
     // Issue #345: Gear comparison pages
     { loc: '/compare', priority: '0.9', changefreq: 'weekly' },
     ...gearComparisons.map(c => ({ loc: `/compare/${c.slug}`, priority: '0.8', changefreq: 'monthly' })),
+    // Issue #558: Drummer vs Drummer comparison pages
+    { loc: '/vs', priority: '0.9', changefreq: 'weekly' },
+    ...drummerComparisons.map(c => ({ loc: `/vs/${c.slug}`, priority: '0.8', changefreq: 'monthly' })),
   ];
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">

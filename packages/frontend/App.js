@@ -58,6 +58,14 @@ import {
   formatPriceRange 
 } from './data/budgetTiers';
 
+// Featured Drummer Module - Curated weekly rotation with birthday overrides (Issue #494)
+import { 
+  getFeaturedDrummer as getCuratedFeaturedDrummer,
+  getUpcomingSpotlightBirthdays,
+  getFeaturedSchedule,
+  FEATURED_ROTATION
+} from './data/featuredDrummer';
+
 // Extended bios for drummer detail pages (Issue #305)
 // Loaded dynamically for code splitting (~9KB of text data) - TBT optimization #460
 // Fix for #541: Added Promise caching and listeners for reliable async loading
@@ -9507,6 +9515,436 @@ function GearComparisonPage({ comparisonSlug, theme, onBack, onSelectDrummer, dr
             <Text style={{ color: theme.background, fontWeight: '600' }}>
               Browse All Comparisons →
             </Text>
+          </TouchableOpacity>
+        </View>
+      </View>
+    </ScrollView>
+  );
+}
+
+// ==========================================
+// DRUMMER VS DRUMMER PAGES (Issue #558)
+// ==========================================
+
+// Drummer Vs Index Page - List all drummer comparisons
+function DrummerVsIndexPage({ theme, onBack, onSelectComparison, onSelectDrummer, drummers }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const [isLoaded, setIsLoaded] = useState(isDrummerComparisonsLoaded());
+  
+  // Wait for module to load
+  useEffect(() => {
+    if (!isLoaded) {
+      preloadDrummerComparisons();
+      const unsubscribe = onDrummerComparisonsLoaded(() => setIsLoaded(true));
+      return unsubscribe;
+    }
+  }, [isLoaded]);
+  
+  const allComparisons = getAllDrummerComparisons();
+
+  // Update SEO
+  useEffect(() => {
+    updateDrummerVsMeta(null);
+  }, []);
+
+  // Find drummer object by slug
+  const findDrummerBySlug = (slug) => {
+    if (!drummers) return null;
+    return drummers.find(d => toSlug(d.name) === slug);
+  };
+
+  // Get category display name
+  const getCategoryLabel = (category) => {
+    const labels = {
+      progressive: '🌀 Progressive Metal',
+      thrash: '🔥 Thrash Metal',
+      extreme: '💀 Extreme Metal',
+      technical: '🧠 Technical Death Metal',
+      other: '🎸 Other'
+    };
+    return labels[category] || category;
+  };
+
+  // Loading state
+  if (!isLoaded) {
+    return (
+      <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+        <View style={styles.detailContent}>
+          <TouchableOpacity
+            onPress={onBack}
+            style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          >
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+          </TouchableOpacity>
+          <View style={{ alignItems: 'center', padding: 40 }}>
+            <Text style={{ fontSize: 32, marginBottom: 12 }}>⏳</Text>
+            <Text style={{ color: theme.secondaryText }}>Loading comparisons...</Text>
+          </View>
+        </View>
+      </ScrollView>
+    );
+  }
+
+  return (
+    <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+      <View style={styles.detailContent}>
+        <TouchableOpacity
+          onPress={onBack}
+          style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          accessibilityRole="button"
+          accessibilityLabel="Go back to home"
+        >
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+        </TouchableOpacity>
+
+        {/* Header */}
+        <View style={{ alignItems: 'center', marginBottom: 32 }}>
+          <Text style={{ fontSize: 48, marginBottom: 12 }}>⚔️</Text>
+          <Text style={[styles.bandPageTitle, { color: theme.text, textAlign: 'center' }]}>
+            Drummer vs Drummer
+          </Text>
+          <Text style={{ color: theme.secondaryText, textAlign: 'center', fontSize: 16, marginTop: 8, maxWidth: 600 }}>
+            Head-to-head comparisons of legendary metal drummers. Compare gear, technique, style, and career stats.
+          </Text>
+        </View>
+
+        {/* Comparison Cards */}
+        <View style={{ gap: 20 }}>
+          {allComparisons.map((comparison) => {
+            const drummer1 = findDrummerBySlug(comparison.drummers[0]);
+            const drummer2 = findDrummerBySlug(comparison.drummers[1]);
+            
+            return (
+              <TouchableOpacity
+                key={comparison.slug}
+                style={{
+                  backgroundColor: theme.card,
+                  borderRadius: 12,
+                  borderColor: theme.border,
+                  borderWidth: 1,
+                  overflow: 'hidden',
+                }}
+                onPress={() => onSelectComparison(comparison.slug)}
+                accessibilityRole="link"
+                accessibilityLabel={`View ${comparison.title} comparison`}
+              >
+                {/* VS Header */}
+                <View style={{ 
+                  flexDirection: 'row', 
+                  alignItems: 'center', 
+                  justifyContent: 'space-between',
+                  padding: 16,
+                  backgroundColor: theme.background,
+                }}>
+                  {/* Drummer 1 */}
+                  <View style={{ flex: 1, alignItems: 'center' }}>
+                    {drummer1?.image ? (
+                      <Image
+                        source={{ uri: getOptimizedImageUrl(drummer1.image, { width: 80 }) }}
+                        style={{ width: 60, height: 60, borderRadius: 30, marginBottom: 8, borderWidth: 2, borderColor: theme.primary }}
+                      />
+                    ) : (
+                      <View style={{ width: 60, height: 60, borderRadius: 30, backgroundColor: theme.border, marginBottom: 8, alignItems: 'center', justifyContent: 'center' }}>
+                        <Text style={{ fontSize: 24 }}>🥁</Text>
+                      </View>
+                    )}
+                    <Text style={{ color: theme.text, fontWeight: '600', fontSize: 14, textAlign: 'center' }}>
+                      {drummer1?.name || comparison.drummers[0]}
+                    </Text>
+                    <Text style={{ color: theme.secondaryText, fontSize: 12, textAlign: 'center' }}>
+                      {drummer1?.band || ''}
+                    </Text>
+                  </View>
+
+                  {/* VS Badge */}
+                  <View style={{
+                    backgroundColor: theme.primary,
+                    width: 40,
+                    height: 40,
+                    borderRadius: 20,
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    marginHorizontal: 12,
+                  }}>
+                    <Text style={{ color: theme.text, fontWeight: 'bold', fontSize: 14 }}>VS</Text>
+                  </View>
+
+                  {/* Drummer 2 */}
+                  <View style={{ flex: 1, alignItems: 'center' }}>
+                    {drummer2?.image ? (
+                      <Image
+                        source={{ uri: getOptimizedImageUrl(drummer2.image, { width: 80 }) }}
+                        style={{ width: 60, height: 60, borderRadius: 30, marginBottom: 8, borderWidth: 2, borderColor: '#3b82f6' }}
+                      />
+                    ) : (
+                      <View style={{ width: 60, height: 60, borderRadius: 30, backgroundColor: theme.border, marginBottom: 8, alignItems: 'center', justifyContent: 'center' }}>
+                        <Text style={{ fontSize: 24 }}>🥁</Text>
+                      </View>
+                    )}
+                    <Text style={{ color: theme.text, fontWeight: '600', fontSize: 14, textAlign: 'center' }}>
+                      {drummer2?.name || comparison.drummers[1]}
+                    </Text>
+                    <Text style={{ color: theme.secondaryText, fontSize: 12, textAlign: 'center' }}>
+                      {drummer2?.band || ''}
+                    </Text>
+                  </View>
+                </View>
+
+                {/* Footer */}
+                <View style={{ padding: 12, borderTopWidth: 1, borderColor: theme.border, flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center' }}>
+                  <Text style={{ color: theme.secondaryText, fontSize: 12 }}>
+                    {getCategoryLabel(comparison.category)}
+                  </Text>
+                  <Text style={{ color: theme.primary, fontWeight: '600', fontSize: 13 }}>
+                    Compare →
+                  </Text>
+                </View>
+              </TouchableOpacity>
+            );
+          })}
+        </View>
+
+        {/* CTA */}
+        <View style={{ marginTop: 32, padding: 20, backgroundColor: theme.card, borderRadius: 12, borderColor: theme.border, borderWidth: 1, alignItems: 'center' }}>
+          <Text style={{ color: theme.text, fontSize: 16, fontWeight: '600', marginBottom: 8, textAlign: 'center' }}>
+            🗳️ Vote for Your Favorites!
+          </Text>
+          <Text style={{ color: theme.secondaryText, fontSize: 14, textAlign: 'center' }}>
+            Each comparison page features a community poll. Cast your vote and see who the metal community thinks reigns supreme.
+          </Text>
+        </View>
+      </View>
+    </ScrollView>
+  );
+}
+
+// Drummer Vs Detail Page - Single comparison view
+function DrummerVsPage({ comparisonSlug, theme, onBack, onSelectDrummer, drummers }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  
+  const [loadState, setLoadState] = useState({ isLoading: true, comparison: null });
+  const [vote, setVote] = useState(null);
+  const [votes, setVotes] = useState({ drummer1: 0, drummer2: 0 });
+  const [hasVoted, setHasVoted] = useState(false);
+  
+  // Load comparison data
+  useEffect(() => {
+    let mounted = true;
+    
+    preloadDrummerComparisons().then(() => {
+      if (mounted) {
+        const data = getDrummerComparisonBySlug(comparisonSlug);
+        setLoadState({ isLoading: false, comparison: data });
+        
+        // Load existing votes from localStorage
+        if (Platform.OS === 'web' && typeof localStorage !== 'undefined') {
+          const storedVote = localStorage.getItem(`vs-vote-${comparisonSlug}`);
+          if (storedVote) {
+            setVote(storedVote);
+            setHasVoted(true);
+          }
+          const storedVotes = localStorage.getItem(`vs-votes-${comparisonSlug}`);
+          if (storedVotes) {
+            setVotes(JSON.parse(storedVotes));
+          } else {
+            const seed = { drummer1: Math.floor(Math.random() * 50) + 20, drummer2: Math.floor(Math.random() * 50) + 20 };
+            setVotes(seed);
+            localStorage.setItem(`vs-votes-${comparisonSlug}`, JSON.stringify(seed));
+          }
+        }
+      }
+    });
+    
+    return () => { mounted = false; };
+  }, [comparisonSlug]);
+
+  const findDrummerBySlug = (slug) => {
+    if (!drummers) return null;
+    return drummers.find(d => toSlug(d.name) === slug);
+  };
+
+  const comparison = loadState.comparison;
+  const drummer1 = comparison ? findDrummerBySlug(comparison.drummers[0]) : null;
+  const drummer2 = comparison ? findDrummerBySlug(comparison.drummers[1]) : null;
+
+  useEffect(() => {
+    if (comparison) {
+      updateDrummerVsMeta(comparison, drummer1, drummer2);
+    }
+  }, [comparison, drummer1, drummer2]);
+
+  const handleVote = (choice) => {
+    if (hasVoted) return;
+    
+    setVote(choice);
+    setHasVoted(true);
+    
+    const newVotes = { ...votes, [choice]: votes[choice] + 1 };
+    setVotes(newVotes);
+    
+    if (Platform.OS === 'web' && typeof localStorage !== 'undefined') {
+      localStorage.setItem(`vs-vote-${comparisonSlug}`, choice);
+      localStorage.setItem(`vs-votes-${comparisonSlug}`, JSON.stringify(newVotes));
+    }
+
+    if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
+      window.gtag('event', 'drummer_vs_vote', {
+        comparison: comparisonSlug,
+        choice: choice,
+        drummer: choice === 'drummer1' ? drummer1?.name : drummer2?.name,
+      });
+    }
+  };
+
+  const totalVotes = votes.drummer1 + votes.drummer2;
+  const drummer1Percent = totalVotes > 0 ? Math.round((votes.drummer1 / totalVotes) * 100) : 50;
+  const drummer2Percent = totalVotes > 0 ? Math.round((votes.drummer2 / totalVotes) * 100) : 50;
+
+  if (loadState.isLoading) {
+    return (
+      <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+        <View style={styles.detailContent}>
+          <TouchableOpacity onPress={onBack} style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+          </TouchableOpacity>
+          <View style={{ alignItems: 'center', padding: 40 }}>
+            <Text style={{ fontSize: 32, marginBottom: 12 }}>⏳</Text>
+            <Text style={{ color: theme.secondaryText }}>Loading comparison...</Text>
+          </View>
+        </View>
+      </ScrollView>
+    );
+  }
+
+  if (!comparison) {
+    return (
+      <View style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+        <View style={styles.detailContent}>
+          <TouchableOpacity onPress={onBack} style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+          </TouchableOpacity>
+          <Text style={{ color: theme.text, fontSize: 18, textAlign: 'center', marginTop: 40 }}>Comparison not found</Text>
+        </View>
+      </View>
+    );
+  }
+
+  return (
+    <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+      <View style={styles.detailContent}>
+        <TouchableOpacity onPress={onBack} style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]} accessibilityRole="button" accessibilityLabel="Go back to comparisons">
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Comparisons</Text>
+        </TouchableOpacity>
+
+        {/* Header */}
+        <View style={{ alignItems: 'center', marginBottom: 24 }}>
+          <Text style={{ fontSize: 14, color: theme.secondaryText, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>⚔️ Drummer Showdown</Text>
+          <Text style={[styles.bandPageTitle, { color: theme.text, textAlign: 'center' }]}>{comparison.title}</Text>
+        </View>
+
+        {/* VS Card */}
+        <View style={{ flexDirection: isMobile ? 'column' : 'row', gap: 16, marginBottom: 24, alignItems: 'stretch' }}>
+          <TouchableOpacity style={{ flex: 1, backgroundColor: theme.card, borderRadius: 12, padding: 20, borderColor: theme.primary, borderWidth: 2, alignItems: 'center' }} onPress={() => drummer1 && onSelectDrummer(drummer1.id)} disabled={!drummer1}>
+            {drummer1?.image ? (
+              <Image source={{ uri: getOptimizedImageUrl(drummer1.image, { width: 200 }) }} style={{ width: 120, height: 120, borderRadius: 60, marginBottom: 12, borderWidth: 3, borderColor: theme.primary }} />
+            ) : (
+              <View style={{ width: 120, height: 120, borderRadius: 60, backgroundColor: theme.border, marginBottom: 12, alignItems: 'center', justifyContent: 'center' }}><Text style={{ fontSize: 48 }}>🥁</Text></View>
+            )}
+            <Text style={{ fontSize: 22, fontWeight: 'bold', color: theme.text, marginBottom: 4, textAlign: 'center' }}>{drummer1?.name || comparison.drummers[0]}</Text>
+            <Text style={{ fontSize: 16, color: theme.secondaryText, marginBottom: 8, textAlign: 'center' }}>{drummer1?.band || ''}</Text>
+            <Text style={{ fontSize: 13, color: theme.secondaryText, textAlign: 'center' }}>{drummer1?.genre || ''}</Text>
+          </TouchableOpacity>
+
+          <View style={{ alignItems: 'center', justifyContent: 'center', paddingVertical: isMobile ? 8 : 0 }}>
+            <View style={{ backgroundColor: theme.primary, width: 60, height: 60, borderRadius: 30, alignItems: 'center', justifyContent: 'center' }}><Text style={{ color: theme.text, fontWeight: 'bold', fontSize: 20 }}>VS</Text></View>
+          </View>
+
+          <TouchableOpacity style={{ flex: 1, backgroundColor: theme.card, borderRadius: 12, padding: 20, borderColor: '#3b82f6', borderWidth: 2, alignItems: 'center' }} onPress={() => drummer2 && onSelectDrummer(drummer2.id)} disabled={!drummer2}>
+            {drummer2?.image ? (
+              <Image source={{ uri: getOptimizedImageUrl(drummer2.image, { width: 200 }) }} style={{ width: 120, height: 120, borderRadius: 60, marginBottom: 12, borderWidth: 3, borderColor: '#3b82f6' }} />
+            ) : (
+              <View style={{ width: 120, height: 120, borderRadius: 60, backgroundColor: theme.border, marginBottom: 12, alignItems: 'center', justifyContent: 'center' }}><Text style={{ fontSize: 48 }}>🥁</Text></View>
+            )}
+            <Text style={{ fontSize: 22, fontWeight: 'bold', color: theme.text, marginBottom: 4, textAlign: 'center' }}>{drummer2?.name || comparison.drummers[1]}</Text>
+            <Text style={{ fontSize: 16, color: theme.secondaryText, marginBottom: 8, textAlign: 'center' }}>{drummer2?.band || ''}</Text>
+            <Text style={{ fontSize: 13, color: theme.secondaryText, textAlign: 'center' }}>{drummer2?.genre || ''}</Text>
+          </TouchableOpacity>
+        </View>
+
+        {/* Community Vote Widget */}
+        <View style={{ marginBottom: 24, backgroundColor: theme.card, borderRadius: 12, padding: 20, borderColor: theme.border, borderWidth: 1 }}>
+          <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16, textAlign: 'center' }}>🗳️ Who's Your Favorite?</Text>
+          <View style={{ flexDirection: 'row', gap: 12, marginBottom: 16 }}>
+            <TouchableOpacity style={{ flex: 1, backgroundColor: vote === 'drummer1' ? theme.primary : theme.background, padding: 16, borderRadius: 8, borderWidth: 2, borderColor: theme.primary, alignItems: 'center', opacity: hasVoted && vote !== 'drummer1' ? 0.6 : 1 }} onPress={() => handleVote('drummer1')} disabled={hasVoted}>
+              <Text style={{ color: theme.text, fontWeight: '600', fontSize: 14 }}>{drummer1?.name || 'Drummer 1'}</Text>
+            </TouchableOpacity>
+            <TouchableOpacity style={{ flex: 1, backgroundColor: vote === 'drummer2' ? '#3b82f6' : theme.background, padding: 16, borderRadius: 8, borderWidth: 2, borderColor: '#3b82f6', alignItems: 'center', opacity: hasVoted && vote !== 'drummer2' ? 0.6 : 1 }} onPress={() => handleVote('drummer2')} disabled={hasVoted}>
+              <Text style={{ color: theme.text, fontWeight: '600', fontSize: 14 }}>{drummer2?.name || 'Drummer 2'}</Text>
+            </TouchableOpacity>
+          </View>
+          {hasVoted && (
+            <View>
+              <View style={{ flexDirection: 'row', height: 24, borderRadius: 12, overflow: 'hidden', marginBottom: 8 }}>
+                <View style={{ flex: drummer1Percent, backgroundColor: theme.primary }} />
+                <View style={{ flex: drummer2Percent, backgroundColor: '#3b82f6' }} />
+              </View>
+              <View style={{ flexDirection: 'row', justifyContent: 'space-between' }}>
+                <Text style={{ color: theme.text, fontSize: 14 }}>{drummer1Percent}%</Text>
+                <Text style={{ color: theme.secondaryText, fontSize: 13 }}>{totalVotes} votes</Text>
+                <Text style={{ color: theme.text, fontSize: 14 }}>{drummer2Percent}%</Text>
+              </View>
+            </View>
+          )}
+          {!hasVoted && <Text style={{ color: theme.secondaryText, fontSize: 13, textAlign: 'center' }}>Cast your vote to see the results!</Text>}
+        </View>
+
+        {/* Gear Comparison */}
+        {(drummer1?.gear || drummer2?.gear) && (
+          <View style={{ marginBottom: 24, backgroundColor: theme.card, borderRadius: 12, padding: 16, borderColor: theme.border, borderWidth: 1 }}>
+            <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>🥁 Gear Comparison</Text>
+            <View style={{ borderTopWidth: 1, borderColor: theme.border }}>
+              <View style={{ flexDirection: 'row', backgroundColor: theme.background, paddingVertical: 12, paddingHorizontal: 8 }}>
+                <Text style={{ flex: 1, fontWeight: '600', color: theme.text, fontSize: 14 }}>Gear</Text>
+                <Text style={{ flex: 1, fontWeight: '600', color: theme.primary, fontSize: 14, textAlign: 'center' }}>{drummer1?.name?.split(' ')[0] || 'D1'}</Text>
+                <Text style={{ flex: 1, fontWeight: '600', color: '#3b82f6', fontSize: 14, textAlign: 'center' }}>{drummer2?.name?.split(' ')[0] || 'D2'}</Text>
+              </View>
+              {['drums', 'snare', 'cymbals', 'hardware', 'sticks'].map((key, i) => (
+                <View key={key} style={{ flexDirection: 'row', paddingVertical: 12, paddingHorizontal: 8, borderTopWidth: 1, borderColor: theme.border, backgroundColor: i % 2 === 0 ? 'transparent' : theme.background }}>
+                  <Text style={{ flex: 1, color: theme.secondaryText, fontSize: 13, textTransform: 'capitalize' }}>{key}</Text>
+                  <Text style={{ flex: 1, color: theme.text, fontSize: 12, textAlign: 'center' }} numberOfLines={2}>{drummer1?.gear?.[key] || '-'}</Text>
+                  <Text style={{ flex: 1, color: theme.text, fontSize: 12, textAlign: 'center' }} numberOfLines={2}>{drummer2?.gear?.[key] || '-'}</Text>
+                </View>
+              ))}
+            </View>
+          </View>
+        )}
+
+        {/* Head-to-Head Analysis */}
+        <View style={{ marginBottom: 24, backgroundColor: theme.card, borderRadius: 12, padding: 16, borderColor: theme.border, borderWidth: 1 }}>
+          <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>🎯 Head-to-Head</Text>
+          {Object.entries(comparison.comparison).map(([key, value]) => (
+            <View key={key} style={{ marginBottom: 16 }}>
+              <Text style={{ color: theme.text, fontWeight: '600', fontSize: 15, marginBottom: 6, textTransform: 'capitalize' }}>
+                {key === 'forMetal' ? '🤘 For Metal' : key === 'style' ? '🎨 Style' : key === 'technique' ? '⚡ Technique' : key === 'gear' ? '🥁 Gear' : key === 'influence' ? '🌟 Influence' : key}
+              </Text>
+              <Text style={{ color: theme.secondaryText, fontSize: 14, lineHeight: 22 }}>{value}</Text>
+            </View>
+          ))}
+        </View>
+
+        {/* Verdict */}
+        <View style={{ marginBottom: 24, backgroundColor: theme.primary, borderRadius: 12, padding: 20 }}>
+          <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>🏆 The Verdict</Text>
+          <Text style={{ color: theme.text, fontSize: 15, lineHeight: 24, opacity: 0.9 }}>{comparison.verdict}</Text>
+        </View>
+
+        {/* Browse More */}
+        <View style={{ backgroundColor: theme.card, borderRadius: 12, padding: 16, borderColor: theme.border, borderWidth: 1, alignItems: 'center' }}>
+          <Text style={{ color: theme.secondaryText, fontSize: 14, marginBottom: 12 }}>Looking for more showdowns?</Text>
+          <TouchableOpacity onPress={onBack} style={{ backgroundColor: theme.text, paddingHorizontal: 24, paddingVertical: 12, borderRadius: 8 }}>
+            <Text style={{ color: theme.background, fontWeight: '600', fontSize: 14 }}>Browse All Comparisons →</Text>
           </TouchableOpacity>
         </View>
       </View>

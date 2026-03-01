@@ -7,29 +7,25 @@
  */
 
 if (typeof window !== 'undefined') {
-  // Wait for DOM to be ready
-  const originalDefineProperty = Object.defineProperty;
+  // Cache Proxy instances per element to maintain reference equality
+  const proxyCache = new WeakMap();
   
-  // Intercept CSSStyleDeclaration property sets
-  const patchCSSStyleDeclaration = () => {
-    const styleProto = CSSStyleDeclaration.prototype;
-    const originalSetProperty = styleProto.setProperty;
-    
-    // Override the bracket notation setter by using a Proxy on style objects
-    // This is tricky because CSSStyleDeclaration uses indexed properties internally
-    // We need to catch the error and ignore it for numeric indices
-  };
-  
-  // Simpler approach: Wrap element.style setter
+  // Simpler approach: Wrap element.style getter
   const originalElementGetter = Object.getOwnPropertyDescriptor(HTMLElement.prototype, 'style');
   if (originalElementGetter && originalElementGetter.get) {
     Object.defineProperty(HTMLElement.prototype, 'style', {
       get: function() {
+        // Check cache first
+        let proxy = proxyCache.get(this);
+        if (proxy) {
+          return proxy;
+        }
+        
         const style = originalElementGetter.get.call(this);
         // Return a Proxy that catches numeric property assignments
-        return new Proxy(style, {
+        proxy = new Proxy(style, {
           set(target, prop, value) {
-            // Skip numeric property names
+            // Skip numeric property names (fixes react-native-web CSS bug)
             if (/^\d+$/.test(String(prop))) {
               return true; // Pretend it succeeded
             }
@@ -44,6 +40,10 @@ if (typeof window !== 'undefined') {
             return val;
           }
         });
+        
+        // Cache the proxy
+        proxyCache.set(this, proxy);
+        return proxy;
       },
       configurable: true,
     });

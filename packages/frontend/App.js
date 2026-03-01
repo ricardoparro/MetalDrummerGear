@@ -20494,6 +20494,9 @@ const styles = StyleSheet.create({
     fontSize: fontSize.base,
     height: '100%',
     outlineStyle: 'none',
+    // Explicit interaction styles (fix for potential Proxy interference)
+    cursor: 'text',
+    pointerEvents: 'auto',
   },
   searchClearButton: {
     padding: 4,

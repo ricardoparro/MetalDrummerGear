@@ -2,7 +2,15 @@
  * Spacing Design System for MetalForge.io
  * 
  * Issue #519: Create spacing tokens using an 8px grid system.
- * Issue #601: Use string keys to avoid CSS error with react-native-web
+ * Issue #625: CRITICAL FIX - Use Object.defineProperty with non-enumerable getters
+ * 
+ * BACKGROUND: react-native-web throws "Failed to set indexed property [0]" 
+ * when style objects contain numeric keys that get enumerated. Despite multiple 
+ * attempts with String(), reduce(), Object.create(null), etc., Metro bundler 
+ * keeps converting keys to numbers during optimization.
+ * 
+ * SOLUTION: Use Object.defineProperty with enumerable: false to prevent the
+ * spacing object from exposing numeric keys during iteration/spreading.
  * 
  * 8px Grid Scale:
  * - 0: 0px    - No spacing
@@ -15,74 +23,60 @@
  * - 8: 32px   - Large: major section breaks
  * - 10: 40px  - XL: page sections
  * - 12: 48px  - XXL: hero padding
- * 
- * Migration Reference:
- * Old Value → New Token
- * ----------------------
- * 4px       → spacing[1]
- * 6px       → spacing[2] (round up)
- * 8px       → spacing[2]
- * 10px      → spacing[3] (round up to 12)
- * 12px      → spacing[3]
- * 14px      → spacing[4] (round up to 16)
- * 15px      → spacing[4] (round up to 16)
- * 16px      → spacing[4]
- * 20px      → spacing[5] or spacing[6] (prefer 24)
- * 24px      → spacing[6]
- * 30px      → spacing[8] (round to 32)
- * 32px      → spacing[8]
- * 40px      → spacing[10]
- * 48px      → spacing[12]
  */
 
-// Core spacing scale (8px grid)
-// CRITICAL FIX for #605: Use runtime string coercion to prevent bundler key optimization.
-// Metro/Babel converts string number keys (like '0', '1') to numeric keys during bundling.
-// This causes "Failed to set indexed property [0]" CSS error in react-native-web.
-// Using String() at runtime prevents static analysis and key conversion.
-// (Issue #591, #596, #600, #601, #605)
-// 
-// NOTE: The Object.defineProperty approach from #608 caused React app to fail to mount.
-// Reverted to the simpler reduce() approach which is proven to work.
-const _spacingData = [[0, 0], [1, 4], [2, 8], [3, 12], [4, 16], [5, 20], [6, 24], [8, 32], [10, 40], [12, 48]];
-export const spacing = _spacingData.reduce((acc, [key, value]) => {
-  acc[String(key)] = value;
-  return acc;
-}, {});
+// Create spacing object with non-enumerable properties
+// Using numeric keys (not strings) since JS converts them anyway
+// Setting enumerable: false prevents issues when object is spread/iterated
+const _spacing = Object.create(null);
 
-// Semantic spacing aliases
+// Define each spacing value as non-enumerable to prevent CSS key iteration issues
+Object.defineProperty(_spacing, 0, { value: 0, enumerable: false, configurable: false, writable: false });
+Object.defineProperty(_spacing, 1, { value: 4, enumerable: false, configurable: false, writable: false });
+Object.defineProperty(_spacing, 2, { value: 8, enumerable: false, configurable: false, writable: false });
+Object.defineProperty(_spacing, 3, { value: 12, enumerable: false, configurable: false, writable: false });
+Object.defineProperty(_spacing, 4, { value: 16, enumerable: false, configurable: false, writable: false });
+Object.defineProperty(_spacing, 5, { value: 20, enumerable: false, configurable: false, writable: false });
+Object.defineProperty(_spacing, 6, { value: 24, enumerable: false, configurable: false, writable: false });
+Object.defineProperty(_spacing, 8, { value: 32, enumerable: false, configurable: false, writable: false });
+Object.defineProperty(_spacing, 10, { value: 40, enumerable: false, configurable: false, writable: false });
+Object.defineProperty(_spacing, 12, { value: 48, enumerable: false, configurable: false, writable: false });
+
+export const spacing = _spacing;
+
+// Semantic spacing aliases - use direct values
 export const space = {
   // Component internal padding (inset)
   inset: {
-    xs: spacing[1],  // 4px - tags, badges
-    sm: spacing[2],  // 8px - buttons compact
-    md: spacing[3],  // 12px - cards, inputs
-    lg: spacing[4],  // 16px - large cards
-    xl: spacing[6],  // 24px - sections
+    xs: 4,   // spacing[1]
+    sm: 8,   // spacing[2]
+    md: 12,  // spacing[3]
+    lg: 16,  // spacing[4]
+    xl: 24,  // spacing[6]
   },
   
   // Vertical spacing between elements (stack)
   stack: {
-    xs: spacing[1],  // 4px
-    sm: spacing[2],  // 8px
-    md: spacing[3],  // 12px
-    lg: spacing[4],  // 16px
-    xl: spacing[6],  // 24px
+    xs: 4,   // spacing[1]
+    sm: 8,   // spacing[2]
+    md: 12,  // spacing[3]
+    lg: 16,  // spacing[4]
+    xl: 24,  // spacing[6]
   },
   
   // Horizontal spacing between elements (inline)
   inline: {
-    xs: spacing[1],  // 4px
-    sm: spacing[2],  // 8px
-    md: spacing[3],  // 12px
-    lg: spacing[4],  // 16px
+    xs: 4,   // spacing[1]
+    sm: 8,   // spacing[2]
+    md: 12,  // spacing[3]
+    lg: 16,  // spacing[4]
   },
   
   // Page-level spacing
   page: {
-    x: spacing[4],   // 16px horizontal padding
-    y: spacing[6],   // 24px vertical padding
-    top: spacing[8], // 32px from header
+    x: 16,   // spacing[4]
+    y: 24,   // spacing[6]
+    top: 32, // spacing[8]
   },
 };
 

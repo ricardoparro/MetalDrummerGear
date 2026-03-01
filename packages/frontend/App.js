@@ -2602,6 +2602,90 @@ function GearSection({ title, content, theme, gearType }) {
   );
 }
 
+// SetupCostCard - Prominent total setup cost display (Issue #615)
+function SetupCostCard({ drummer, theme }) {
+  const kitCost = calculateKitCost(drummer.gear);
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+
+  if (!kitCost || kitCost.totalEur === 0) return null;
+
+  const handleShareCost = () => {
+    const shareText = `💰 ${drummer.name}'s drum kit costs ${formatPrice(kitCost.totalUsd, 'USD')} / ${formatPrice(kitCost.totalEur, 'EUR')}! Check out the full gear breakdown on @MetalDrumGear:`;
+    const drummerSlug = toSlug(drummer.name);
+    const shareUrl = typeof window !== 'undefined' 
+      ? `${window.location.origin}/drummer/${drummerSlug}`
+      : `https://metalforge.io/drummer/${drummerSlug}`;
+
+    // Try native share first (mobile)
+    if (Platform.OS !== 'web' && typeof navigator !== 'undefined' && navigator.share) {
+      navigator.share({
+        title: `${drummer.name}'s Drum Kit Cost`,
+        text: shareText,
+        url: shareUrl,
+      }).catch(() => {});
+      return;
+    }
+
+    // Web: open Twitter share
+    const twitterUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(shareUrl)}`;
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.open(twitterUrl, '_blank', 'noopener,noreferrer');
+    } else {
+      Linking.openURL(twitterUrl);
+    }
+  };
+
+  return (
+    <View 
+      style={[
+        styles.setupCostCard, 
+        { backgroundColor: theme.card, borderColor: theme.primary }
+      ]}
+      accessibilityRole="region"
+      accessibilityLabel={`Total setup cost for ${drummer.name}: ${formatPrice(kitCost.totalUsd, 'USD')}`}
+    >
+      <View style={styles.setupCostHeader}>
+        <Text style={[styles.setupCostIcon, { color: theme.primary }]}>💰</Text>
+        <Text style={[styles.setupCostTitle, { color: theme.text }]}>
+          Total Setup Cost
+        </Text>
+      </View>
+
+      <View style={[styles.setupCostPrices, isMobile && styles.setupCostPricesMobile]}>
+        <View style={styles.setupCostPriceBox}>
+          <Text style={[styles.setupCostCurrency, { color: theme.secondaryText }]}>USD</Text>
+          <Text style={[styles.setupCostAmount, { color: theme.text }]}>
+            {formatPrice(kitCost.totalUsd, 'USD')}
+          </Text>
+        </View>
+        <View style={[styles.setupCostDivider, { backgroundColor: theme.border }]} />
+        <View style={styles.setupCostPriceBox}>
+          <Text style={[styles.setupCostCurrency, { color: theme.secondaryText }]}>EUR</Text>
+          <Text style={[styles.setupCostAmount, { color: theme.text }]}>
+            {formatPrice(kitCost.totalEur, 'EUR')}
+          </Text>
+        </View>
+      </View>
+
+      <Text style={[styles.setupCostDisclaimer, { color: theme.secondaryText }]}>
+        Estimated total based on current retail prices (Sweetwater/Thomann)
+      </Text>
+
+      <TouchableOpacity
+        onPress={handleShareCost}
+        style={[styles.setupCostShareButton, { borderColor: theme.primary }]}
+        accessibilityRole="button"
+        accessibilityLabel={`Share ${drummer.name}'s setup cost`}
+      >
+        <Text style={[styles.setupCostShareText, { color: theme.primary }]}>
+          📤 Share This Cost
+        </Text>
+      </TouchableOpacity>
+    </View>
+  );
+}
+
 function KitCostCalculator({ drummer, theme }) {
   const kitCost = calculateKitCost(drummer.gear);
 
@@ -3558,6 +3642,9 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
 
       {/* Band Links Section - Issue #351 */}
       <BandLinksSection bandLinks={getExtendedBio(drummerSlug)?.bands} bandName={drummer.band} theme={theme} />
+
+      {/* Total Setup Cost Card - Issue #615 - Prominent display before gear grid */}
+      <SetupCostCard drummer={drummer} theme={theme} />
 
       <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
         <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">Gear Setup</Text>
@@ -19260,6 +19347,74 @@ const styles = StyleSheet.create({
   },
   videoLinkText: {
     fontSize: fontSize.base,
+    fontWeight: fontWeight.semibold,
+  },
+  // SetupCostCard styles - Issue #615
+  setupCostCard: {
+    padding: spacing[5],           // 20px
+    marginVertical: spacing[4],    // 16px
+    borderRadius: spacing[3],      // 12px
+    borderWidth: 2,
+    alignItems: 'center',
+  },
+  setupCostHeader: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: spacing[2],               // 8px
+    marginBottom: spacing[4],      // 16px
+  },
+  setupCostIcon: {
+    fontSize: 32,
+  },
+  setupCostTitle: {
+    fontSize: fontSize['2xl'],
+    fontWeight: fontWeight.bold,
+  },
+  setupCostPrices: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'center',
+    gap: spacing[6],               // 24px
+    marginBottom: spacing[3],      // 12px
+  },
+  setupCostPricesMobile: {
+    flexDirection: 'column',
+    gap: spacing[4],               // 16px
+  },
+  setupCostPriceBox: {
+    alignItems: 'center',
+  },
+  setupCostCurrency: {
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.medium,
+    textTransform: 'uppercase',
+    letterSpacing: 1,
+    marginBottom: spacing[1],      // 4px
+  },
+  setupCostAmount: {
+    fontSize: 36,
+    fontWeight: fontWeight.bold,
+    fontFamily: Platform.OS === 'ios' ? 'Menlo' : 'monospace',
+  },
+  setupCostDivider: {
+    width: 1,
+    height: 48,
+  },
+  setupCostDisclaimer: {
+    fontSize: fontSize.xs,
+    fontStyle: 'italic',
+    textAlign: 'center',
+    marginTop: spacing[2],         // 8px
+    marginBottom: spacing[4],      // 16px
+  },
+  setupCostShareButton: {
+    paddingVertical: spacing[2],   // 8px
+    paddingHorizontal: spacing[4], // 16px
+    borderRadius: spacing[2],      // 8px
+    borderWidth: 1,
+  },
+  setupCostShareText: {
+    fontSize: fontSize.sm,
     fontWeight: fontWeight.semibold,
   },
   // Kit Cost Calculator styles

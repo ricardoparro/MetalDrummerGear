@@ -4,6 +4,7 @@
 // Issue #344: Added drumming technique pages
 // Issue #345: Added gear comparison pages
 
+// Issue #623: Content Scale Sprint - All 62 drummers now in sitemap
 const drummers = [
   { id: 1, name: 'Lars Ulrich' }, { id: 2, name: 'Joey Jordison' }, { id: 3, name: 'Gene Hoglan' },
   { id: 4, name: 'Dave Lombardo' }, { id: 5, name: 'Tomas Haake' }, { id: 6, name: 'George Kollias' },
@@ -12,6 +13,20 @@ const drummers = [
   { id: 13, name: 'Mike Portnoy' }, { id: 14, name: 'Danny Carey' }, { id: 15, name: 'Mario Duplantier' },
   { id: 16, name: 'Brann Dailor' }, { id: 17, name: 'Chris Adler' }, { id: 18, name: 'Matt Halpern' },
   { id: 19, name: 'Inferno' }, { id: 20, name: 'Hellhammer' }, { id: 21, name: 'Pete Sandoval' },
+  { id: 22, name: 'Art Cruz' }, { id: 23, name: 'Arin Ilejay' }, { id: 24, name: 'Navene Koperweis' },
+  { id: 25, name: 'Alex Bent' }, { id: 26, name: 'Shannon Larkin' }, { id: 27, name: 'Raymond Herrera' },
+  { id: 28, name: 'Morgan Ågren' }, { id: 29, name: 'Igor Cavalera' }, { id: 30, name: 'Bill Ward' },
+  { id: 31, name: 'Nick Augusto' }, { id: 32, name: 'Matt Greiner' }, { id: 33, name: 'Blake Richardson' },
+  { id: 34, name: 'Ben Koller' }, { id: 35, name: 'Flo Mounier' }, { id: 37, name: 'Jason Bittner' },
+  { id: 38, name: 'Martin Lopez' }, { id: 39, name: 'Travis Orbin' }, { id: 40, name: 'Chris Turner' },
+  { id: 41, name: 'Nicko McBrain' }, { id: 42, name: 'Scott Travis' }, { id: 43, name: 'Mikkey Dee' },
+  { id: 44, name: 'Derek Roddy' }, { id: 45, name: 'Dirk Verbeuren' }, { id: 46, name: 'Frost' },
+  { id: 47, name: 'Gavin Harrison' }, { id: 48, name: 'Abe Cunningham' }, { id: 49, name: 'Richard Christy' },
+  { id: 50, name: 'Aquiles Priester' }, { id: 51, name: 'Paul Mazurkiewicz' }, { id: 52, name: 'Mike Mangini' },
+  { id: 53, name: 'Matt Garstka' }, { id: 54, name: 'Daniel Erlandsson' }, { id: 55, name: 'Jaska Raatikainen' },
+  { id: 56, name: 'Hannes Grossmann' }, { id: 57, name: 'Daray' }, { id: 58, name: 'Jocke Wallgren' },
+  { id: 59, name: 'Tim Yeung' }, { id: 60, name: 'Kevin Talley' }, { id: 61, name: 'Isaac Lamb' },
+  { id: 62, name: 'Ryan Van Poederooyen' },
 ];
 
 const gearItems = [

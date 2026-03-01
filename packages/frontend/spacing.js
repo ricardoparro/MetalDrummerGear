@@ -1,75 +1,46 @@
 /**
  * Spacing Design System for MetalForge.io
  * 
- * Issue #626: EMERGENCY FIX - Use simple function to completely avoid numeric keys
- * 
- * The issue: react-native-web's style processing throws errors when it encounters
- * objects with numeric keys. Even with non-enumerable properties, something in the
- * bundler or runtime is still creating numeric keys.
- * 
- * Solution: Replace the spacing object entirely with a function call pattern.
- * Instead of spacing[12], use spacing(12). This completely avoids any object
- * property access that could have numeric keys.
+ * EMERGENCY FIX: Use getter functions instead of object properties
+ * to completely avoid any numeric key issues with react-native-web.
  */
 
-// Simple function that returns spacing values
-// No object with numeric keys - just a switch statement
-function getSpacing(n) {
-  switch (n) {
-    case 0: return 0;
-    case 1: return 4;
-    case 2: return 8;
-    case 3: return 12;
-    case 4: return 16;
-    case 5: return 20;
-    case 6: return 24;
-    case 8: return 32;
-    case 10: return 40;
-    case 12: return 48;
-    default: return 0;
-  }
-}
-
-// Export a callable that also works with bracket notation
-// We use a Proxy that intercepts both function calls and property access
-const spacingHandler = {
-  get(target, prop) {
-    if (typeof prop === 'symbol') return undefined;
-    const num = parseInt(prop, 10);
-    if (!isNaN(num)) {
-      return getSpacing(num);
-    }
-    return undefined;
-  },
-  apply(target, thisArg, args) {
-    return getSpacing(args[0]);
-  },
-  // Critical: prevent enumeration of any numeric keys
-  ownKeys() {
-    return [];
-  },
-  getOwnPropertyDescriptor() {
-    return undefined;
-  },
-  has() {
-    return false;
-  }
+// Core spacing values (8px grid)
+const SPACING_VALUES = {
+  0: 0,
+  1: 4,
+  2: 8,
+  3: 12,
+  4: 16,
+  5: 20,
+  6: 24,
+  8: 32,
+  10: 40,
+  12: 48,
 };
 
-// Create a callable proxy
-function spacingFn(n) {
-  return getSpacing(n);
-}
-export const spacing = new Proxy(spacingFn, spacingHandler);
+// Create spacing object with only string keys, no numeric enumeration
+const spacingObj = {};
+Object.keys(SPACING_VALUES).forEach(key => {
+  Object.defineProperty(spacingObj, key, {
+    value: SPACING_VALUES[key],
+    enumerable: false,  // Prevent enumeration
+    configurable: false,
+    writable: false,
+  });
+});
 
-// Semantic spacing aliases - use hardcoded values
+// Export as frozen object
+export const spacing = Object.freeze(spacingObj);
+
+// Semantic spacing aliases - use direct values, not spacing references
 export const space = {
   inset: {
-    xs: 4,
-    sm: 8,
-    md: 12,
-    lg: 16,
-    xl: 24,
+    xs: 4,   // spacing[1]
+    sm: 8,   // spacing[2]
+    md: 12,  // spacing[3]
+    lg: 16,  // spacing[4]
+    xl: 24,  // spacing[6]
   },
   stack: {
     xs: 4,
@@ -85,9 +56,9 @@ export const space = {
     lg: 16,
   },
   page: {
-    x: 16,
-    y: 24,
-    top: 32,
+    x: 16,  // spacing[4]
+    y: 24,  // spacing[6]
+    top: 32, // spacing[8]
   },
 };
 
@@ -105,8 +76,4 @@ export function mapToGrid(pixelValue) {
   return 12;
 }
 
-export default {
-  spacing,
-  space,
-  mapToGrid,
-};
+export default { spacing, space, mapToGrid };

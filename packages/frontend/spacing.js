@@ -1,46 +1,21 @@
 /**
  * Spacing Design System for MetalForge.io
  * 
- * EMERGENCY FIX: Use getter functions instead of object properties
- * to completely avoid any numeric key issues with react-native-web.
+ * EMERGENCY FIX: Use JSON.parse to create the spacing object.
+ * This guarantees string keys because JSON always produces string keys.
  */
 
-// Core spacing values (8px grid)
-const SPACING_VALUES = {
-  0: 0,
-  1: 4,
-  2: 8,
-  3: 12,
-  4: 16,
-  5: 20,
-  6: 24,
-  8: 32,
-  10: 40,
-  12: 48,
-};
+// Use JSON.parse - this ALWAYS creates string keys, no bundler optimization possible
+export const spacing = JSON.parse('{"0":0,"1":4,"2":8,"3":12,"4":16,"5":20,"6":24,"8":32,"10":40,"12":48}');
 
-// Create spacing object with only string keys, no numeric enumeration
-const spacingObj = {};
-Object.keys(SPACING_VALUES).forEach(key => {
-  Object.defineProperty(spacingObj, key, {
-    value: SPACING_VALUES[key],
-    enumerable: false,  // Prevent enumeration
-    configurable: false,
-    writable: false,
-  });
-});
-
-// Export as frozen object
-export const spacing = Object.freeze(spacingObj);
-
-// Semantic spacing aliases - use direct values, not spacing references
+// Semantic spacing aliases - direct values only
 export const space = {
   inset: {
-    xs: 4,   // spacing[1]
-    sm: 8,   // spacing[2]
-    md: 12,  // spacing[3]
-    lg: 16,  // spacing[4]
-    xl: 24,  // spacing[6]
+    xs: 4,
+    sm: 8,
+    md: 12,
+    lg: 16,
+    xl: 24,
   },
   stack: {
     xs: 4,
@@ -56,13 +31,12 @@ export const space = {
     lg: 16,
   },
   page: {
-    x: 16,  // spacing[4]
-    y: 24,  // spacing[6]
-    top: 32, // spacing[8]
+    x: 16,
+    y: 24,
+    top: 32,
   },
 };
 
-// Helper function
 export function mapToGrid(pixelValue) {
   if (pixelValue <= 2) return 0;
   if (pixelValue <= 6) return 1;

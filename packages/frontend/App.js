@@ -18897,7 +18897,7 @@ const styles = StyleSheet.create({
     position: 'absolute',
     bottom: -spacing[5],           // -20px
     left: '50%',
-    transform: [{ translateX: -30 }],
+    // transform: [{ translateX: -30 }], // Disabled: causes CSS rendering issues
   },
   timelineSelectedText: {
     fontSize: fontSize.xs,
@@ -19070,7 +19070,7 @@ const styles = StyleSheet.create({
     minHeight: 100,
   },
   timelineEraCardSelected: {
-    transform: [{ scale: 1.02 }],
+    // transform: [{ scale: 1.02 }], // Disabled: causes CSS rendering issues
   },
   timelineEraYears: {
     fontSize: fontSize.xs,
@@ -20268,7 +20268,7 @@ const styles = StyleSheet.create({
     position: Platform.OS === 'web' ? 'fixed' : 'absolute',
     bottom: Platform.OS === 'web' ? 80 : 100,
     left: '50%',
-    transform: [{ translateX: -100 }],
+    // transform: [{ translateX: -100 }], // Disabled: causes CSS rendering issues
     width: 200,
     paddingVertical: 10,
     paddingHorizontal: 16,
@@ -21901,7 +21901,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#1f2937',
     paddingVertical: 4,
     paddingHorizontal: 30,
-    transform: [{ rotate: '45deg' }],
+    // transform: [{ rotate: '45deg' }], // Disabled: causes CSS rendering issues
   },
   memorialRibbonText: {
     color: '#fff',

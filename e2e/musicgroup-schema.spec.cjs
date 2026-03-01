@@ -59,23 +59,42 @@ async function skipIfNotMounted(page, test) {
   return true;
 }
 
-// Helper to get schema from page
-async function getSchema(page) {
-  const ldJsonScript = page.locator('script[type="application/ld+json"][data-schema="main"]');
-  const scriptExists = await ldJsonScript.count() > 0;
-  
-  if (!scriptExists) {
-    // Try without data-schema attribute
+// Helper to get schema from page with retry logic
+// Schema is injected via React useEffect which may take time after page load
+async function getSchema(page, maxRetries = 5, retryDelay = 1000) {
+  for (let attempt = 0; attempt < maxRetries; attempt++) {
+    const ldJsonScript = page.locator('script[type="application/ld+json"][data-schema="main"]');
+    const scriptExists = await ldJsonScript.count() > 0;
+    
+    if (scriptExists) {
+      const schemaText = await ldJsonScript.textContent();
+      const parsed = JSON.parse(schemaText || '{}');
+      // Verify schema has @graph with MusicGroup (means bands module loaded)
+      if (parsed['@graph'] && parsed['@graph'].some(e => e['@type'] === 'MusicGroup')) {
+        return parsed;
+      }
+      // Schema exists but might not have MusicGroup yet, wait for bands module
+      if (attempt < maxRetries - 1) {
+        await page.waitForTimeout(retryDelay);
+        continue;
+      }
+      return parsed; // Return what we have on last attempt
+    }
+    
+    // Try without data-schema attribute as fallback
     const genericScript = page.locator('script[type="application/ld+json"]').first();
     if (await genericScript.count() > 0) {
       const text = await genericScript.textContent();
       return JSON.parse(text || '{}');
     }
-    return null;
+    
+    // No schema found yet, wait and retry
+    if (attempt < maxRetries - 1) {
+      await page.waitForTimeout(retryDelay);
+    }
   }
   
-  const schemaText = await ldJsonScript.textContent();
-  return JSON.parse(schemaText || '{}');
+  return null;
 }
 
 test.describe('MusicGroup Schema - Issue #429', () => {
@@ -363,6 +382,9 @@ test.describe('MusicGroup Schema - Issue #429', () => {
       // The waitForDrummerPage helper already handles waiting for actual content
       await page.waitForLoadState('load');
       
+      // Wait for React to hydrate and inject schema (bands module loads async)
+      await page.waitForTimeout(3000);
+      
       try {
         // Use auto-retry for page content
         const pageLoaded = await waitForDrummerPage(page, 25000);
@@ -371,7 +393,8 @@ test.describe('MusicGroup Schema - Issue #429', () => {
           continue;
         }
         
-        const schema = await getSchema(page);
+        // getSchema now has retry logic built-in for async schema injection
+        const schema = await getSchema(page, 8, 1500);
         if (!schema) {
           errors.push(`${d.name} - no schema found`);
           continue;

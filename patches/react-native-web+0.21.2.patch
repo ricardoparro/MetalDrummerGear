@@ -1,0 +1,30 @@
+diff --git a/node_modules/react-native-web/dist/cjs/modules/setValueForStyles/index.js b/node_modules/react-native-web/dist/cjs/modules/setValueForStyles/index.js
+index 5c5cbee..2e75409 100644
+--- a/node_modules/react-native-web/dist/cjs/modules/setValueForStyles/index.js
++++ b/node_modules/react-native-web/dist/cjs/modules/setValueForStyles/index.js
+@@ -29,6 +29,10 @@ function setValueForStyles(node, styles) {
+     if (!styles.hasOwnProperty(styleName)) {
+       continue;
+     }
++    // Skip numeric property names (e.g., "0", "1") which cause CSS errors
++    if (/^\d+$/.test(styleName)) {
++      continue;
++    }
+     var isCustomProperty = styleName.indexOf('--') === 0;
+     var styleValue = (0, _dangerousStyleValue.default)(styleName, styles[styleName], isCustomProperty);
+     if (styleName === 'float') {
+diff --git a/node_modules/react-native-web/dist/modules/setValueForStyles/index.js b/node_modules/react-native-web/dist/modules/setValueForStyles/index.js
+index ddd195d..d55e56e 100644
+--- a/node_modules/react-native-web/dist/modules/setValueForStyles/index.js
++++ b/node_modules/react-native-web/dist/modules/setValueForStyles/index.js
+@@ -25,6 +25,10 @@ function setValueForStyles(node, styles) {
+     if (!styles.hasOwnProperty(styleName)) {
+       continue;
+     }
++    // Skip numeric property names (e.g., "0", "1") which cause CSS errors
++    if (/^\d+$/.test(styleName)) {
++      continue;
++    }
+     var isCustomProperty = styleName.indexOf('--') === 0;
+     var styleValue = dangerousStyleValue(styleName, styles[styleName], isCustomProperty);
+     if (styleName === 'float') {

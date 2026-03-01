@@ -15591,8 +15591,8 @@ function AppContent() {
   const [showSuggestions, setShowSuggestions] = useState(false);
   const searchInputRef = useRef(null);
   
-  // Show all drummers state - false by default to show only featured drummers on homepage (Issue #496)
-  const [showAllDrummers, setShowAllDrummers] = useState(false);
+  // Show all drummers state - true by default to show full list on homepage (reverted per Ricardo's request)
+  const [showAllDrummers, setShowAllDrummers] = useState(true);
 
   // Sort state - persisted in localStorage, can be overridden by URL param
   const [sortBy, setSortBy] = useState(() => {

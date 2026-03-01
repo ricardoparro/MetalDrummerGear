@@ -1,4 +1,6 @@
-// BUILD_TIMESTAMP: 2026-03-01T21:20:00Z - Force clean rebuild for CSS fix
+// CRITICAL: Import CSS fix FIRST to patch CSSStyleDeclaration before any rendering
+import './fixCssStyles';
+// BUILD_TIMESTAMP: 2026-03-01T22:45:00Z - Runtime CSS fix
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View, FlatList, ActivityIndicator, TouchableOpacity, ScrollView, Linking, Platform, useWindowDimensions, TextInput } from 'react-native';
 import { Image } from 'expo-image';

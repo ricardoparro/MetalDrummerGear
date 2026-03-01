@@ -1,86 +1,97 @@
 /**
  * Spacing Design System for MetalForge.io
  * 
- * Issue #519: Create spacing tokens using an 8px grid system.
- * Issue #625: CRITICAL FIX - Use Object.defineProperty with non-enumerable getters
+ * Issue #626: EMERGENCY FIX - Use simple function to completely avoid numeric keys
  * 
- * BACKGROUND: react-native-web throws "Failed to set indexed property [0]" 
- * when style objects contain numeric keys that get enumerated. Despite multiple 
- * attempts with String(), reduce(), Object.create(null), etc., Metro bundler 
- * keeps converting keys to numbers during optimization.
+ * The issue: react-native-web's style processing throws errors when it encounters
+ * objects with numeric keys. Even with non-enumerable properties, something in the
+ * bundler or runtime is still creating numeric keys.
  * 
- * SOLUTION: Use Object.defineProperty with enumerable: false to prevent the
- * spacing object from exposing numeric keys during iteration/spreading.
- * 
- * 8px Grid Scale:
- * - 0: 0px    - No spacing
- * - 1: 4px    - Tight: inline elements, icon gaps
- * - 2: 8px    - Compact: between related items
- * - 3: 12px   - Default: standard gap
- * - 4: 16px   - Comfortable: section padding
- * - 5: 20px   - Relaxed: (prefer 24px when possible)
- * - 6: 24px   - Spacious: between sections
- * - 8: 32px   - Large: major section breaks
- * - 10: 40px  - XL: page sections
- * - 12: 48px  - XXL: hero padding
+ * Solution: Replace the spacing object entirely with a function call pattern.
+ * Instead of spacing[12], use spacing(12). This completely avoids any object
+ * property access that could have numeric keys.
  */
 
-// Create spacing object with non-enumerable properties
-// Using numeric keys (not strings) since JS converts them anyway
-// Setting enumerable: false prevents issues when object is spread/iterated
-const _spacing = Object.create(null);
+// Simple function that returns spacing values
+// No object with numeric keys - just a switch statement
+function getSpacing(n) {
+  switch (n) {
+    case 0: return 0;
+    case 1: return 4;
+    case 2: return 8;
+    case 3: return 12;
+    case 4: return 16;
+    case 5: return 20;
+    case 6: return 24;
+    case 8: return 32;
+    case 10: return 40;
+    case 12: return 48;
+    default: return 0;
+  }
+}
 
-// Define each spacing value as non-enumerable to prevent CSS key iteration issues
-Object.defineProperty(_spacing, 0, { value: 0, enumerable: false, configurable: false, writable: false });
-Object.defineProperty(_spacing, 1, { value: 4, enumerable: false, configurable: false, writable: false });
-Object.defineProperty(_spacing, 2, { value: 8, enumerable: false, configurable: false, writable: false });
-Object.defineProperty(_spacing, 3, { value: 12, enumerable: false, configurable: false, writable: false });
-Object.defineProperty(_spacing, 4, { value: 16, enumerable: false, configurable: false, writable: false });
-Object.defineProperty(_spacing, 5, { value: 20, enumerable: false, configurable: false, writable: false });
-Object.defineProperty(_spacing, 6, { value: 24, enumerable: false, configurable: false, writable: false });
-Object.defineProperty(_spacing, 8, { value: 32, enumerable: false, configurable: false, writable: false });
-Object.defineProperty(_spacing, 10, { value: 40, enumerable: false, configurable: false, writable: false });
-Object.defineProperty(_spacing, 12, { value: 48, enumerable: false, configurable: false, writable: false });
+// Export a callable that also works with bracket notation
+// We use a Proxy that intercepts both function calls and property access
+const spacingHandler = {
+  get(target, prop) {
+    if (typeof prop === 'symbol') return undefined;
+    const num = parseInt(prop, 10);
+    if (!isNaN(num)) {
+      return getSpacing(num);
+    }
+    return undefined;
+  },
+  apply(target, thisArg, args) {
+    return getSpacing(args[0]);
+  },
+  // Critical: prevent enumeration of any numeric keys
+  ownKeys() {
+    return [];
+  },
+  getOwnPropertyDescriptor() {
+    return undefined;
+  },
+  has() {
+    return false;
+  }
+};
 
-export const spacing = _spacing;
+// Create a callable proxy
+function spacingFn(n) {
+  return getSpacing(n);
+}
+export const spacing = new Proxy(spacingFn, spacingHandler);
 
-// Semantic spacing aliases - use direct values
+// Semantic spacing aliases - use hardcoded values
 export const space = {
-  // Component internal padding (inset)
   inset: {
-    xs: 4,   // spacing[1]
-    sm: 8,   // spacing[2]
-    md: 12,  // spacing[3]
-    lg: 16,  // spacing[4]
-    xl: 24,  // spacing[6]
+    xs: 4,
+    sm: 8,
+    md: 12,
+    lg: 16,
+    xl: 24,
   },
-  
-  // Vertical spacing between elements (stack)
   stack: {
-    xs: 4,   // spacing[1]
-    sm: 8,   // spacing[2]
-    md: 12,  // spacing[3]
-    lg: 16,  // spacing[4]
-    xl: 24,  // spacing[6]
+    xs: 4,
+    sm: 8,
+    md: 12,
+    lg: 16,
+    xl: 24,
   },
-  
-  // Horizontal spacing between elements (inline)
   inline: {
-    xs: 4,   // spacing[1]
-    sm: 8,   // spacing[2]
-    md: 12,  // spacing[3]
-    lg: 16,  // spacing[4]
+    xs: 4,
+    sm: 8,
+    md: 12,
+    lg: 16,
   },
-  
-  // Page-level spacing
   page: {
-    x: 16,   // spacing[4]
-    y: 24,   // spacing[6]
-    top: 32, // spacing[8]
+    x: 16,
+    y: 24,
+    top: 32,
   },
 };
 
-// Helper function to map arbitrary pixel values to nearest grid token
+// Helper function
 export function mapToGrid(pixelValue) {
   if (pixelValue <= 2) return 0;
   if (pixelValue <= 6) return 1;
@@ -94,7 +105,6 @@ export function mapToGrid(pixelValue) {
   return 12;
 }
 
-// Default export for convenient importing
 export default {
   spacing,
   space,

@@ -5,7 +5,7 @@
       "schedule": "0 * * * *"
     }
   ],
-  "buildCommand": "npx patch-package && node scripts/generate-responsive-images.cjs && node scripts/generate-llms-full.cjs && node scripts/generate-llms-index.cjs && cd packages/frontend && npx expo export --platform web --clear && node scripts/inject-ga.cjs && cp -r ../../public/* dist/",
+  "buildCommand": "bash scripts/build.sh",
   "outputDirectory": "packages/frontend/dist",
   "installCommand": "npm install && npx patch-package",
   "framework": null,

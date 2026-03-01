@@ -359,7 +359,9 @@ test.describe('MusicGroup Schema - Issue #429', () => {
     // Test first 5 drummers
     for (const d of drummers.slice(0, 5)) {
       await page.goto(`/drummer/${d.id}`);
-      await page.waitForLoadState('networkidle');
+      // Use 'load' instead of 'networkidle' - networkidle can timeout if there's any polling/analytics
+      // The waitForDrummerPage helper already handles waiting for actual content
+      await page.waitForLoadState('load');
       
       try {
         // Use auto-retry for page content

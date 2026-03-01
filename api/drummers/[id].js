@@ -1262,9 +1262,9 @@ const drummers = [
       { name: 'Remo Drumheads', url: 'https://remo.com' }
     ],
     videos: [
-      { title: 'Morgan Ågren - Drum Solo (Mats/Morgan Band)', youtubeId: '5MQhk8oOjOU', year: 2014 },
-      { title: 'Morgan Ågren\'s Conundrum - Documentary Trailer', youtubeId: 'NF_cMdGbEV4', year: 2013 },
-      { title: 'Mats/Morgan - Live Performance', youtubeId: 'n3VrJh3eGFM', year: 2016 }
+      { title: 'Morgan Ågren / Devin Townsend - SPRITE Play Through', youtubeId: 'GjlDDNDQbCc', year: 2020 },
+      { title: 'Make Mats/Morgan Great Again (4K)', youtubeId: 'O6CkXqnimk8', year: 2019 },
+      { title: 'Morgan Ågren: Drum Solo - PART I', youtubeId: 'Dl_bSxVr1K0', year: 2018 }
     ]
   },
   {

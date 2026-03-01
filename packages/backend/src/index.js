@@ -1083,8 +1083,8 @@ const drummers = [
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
     ],
     videos: [
-      { youtubeId: 'W1OBtP4_xNc', title: 'Mats/Morgan Band - Live Performance', year: '2018' },
-      { youtubeId: 'JNz2FB9ABYQ', title: 'Morgan Ågren - Drum Solo (Mats/Morgan)', year: '2017' }
+      { youtubeId: 'GjlDDNDQbCc', title: 'Morgan Ågren / Devin Townsend - SPRITE Play Through', year: '2020' },
+      { youtubeId: 'O6CkXqnimk8', title: 'Make Mats/Morgan Great Again (4K)', year: '2019' }
     ]
   },
   {

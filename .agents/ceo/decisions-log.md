@@ -48,6 +48,31 @@
 
 ---
 
+## 2026-03-01 — Content Scale Sprint
+
+### Decision: Add 10 Top Metal Drummers (CEO-001)
+
+**Context:** 
+- Pipeline completely blocked on human-founder tasks (Thomann affiliate, Twitter API, etc.)
+- Ralph has NO work queued
+- Only 21 drummers — competitors have 100+
+- Need to create work that doesn't depend on external dependencies
+
+**Reasoning:**
+- **Impact Timeline Score: 7⭐** (Curto: ⭐⭐, Médio: ⭐⭐⭐, Longo: ⭐⭐)
+- Content creation has ZERO external blockers
+- Each drummer = new SEO opportunity
+- Internal linking power increases with scale
+- Competitors are weak on metal-specific gear info
+- Can execute immediately without waiting for Ricardo
+
+**Selected Drummers:**
+Mario Duplantier, Tomas Haake, Gene Hoglan, Brann Dailor, Chris Adler, Jay Weinberg, Matt Halpern, Nicko McBrain, Scott Travis, Aquiles Priester
+
+**Outcome:** Issue created, queued for Ralph
+
+---
+
 ## Template for Future Decisions
 
 ```

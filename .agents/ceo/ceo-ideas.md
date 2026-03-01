@@ -36,6 +36,34 @@
 
 ## ✅ Aprovadas (Em Implementação)
 
+### 💡 [CEO-001] Add 10 Top Metal Drummers → Issue #623 ✅
+
+**Origem:** Competitor analysis + metrics review — We have 21 drummers, competitors have 100+
+
+**Hipótese:** Se adicionarmos os 10 metal drummers mais famosos que faltam, então:
+- Aumentamos páginas indexadas no Google (mais surface area)
+- Capturamos searches de "[drummer name] gear"
+- Aumentamos tempo de sessão (mais navegação interna)
+- Criamos link juice entre perfis relacionados
+
+**Impacto Curto (1-7d):** ⭐⭐  
+**Impacto Médio (1-3m):** ⭐⭐⭐  
+**Impacto Longo (3-12m):** ⭐⭐  
+**Score Total:** 7⭐
+
+**Métrica de sucesso:** 
+- 10 novos drummers em 3 dias
+- GA4 mostra tráfego orgânico
+- Search Console indexa páginas em 1 semana
+
+**Decisão:** IMPLEMENTAR ✅
+
+**Issue:** https://github.com/ricardoparro/MetalDrummerGear/issues/623
+
+**Data:** 2026-03-01
+
+**Drummers:** Mario Duplantier (Gojira), Tomas Haake (Meshuggah), Gene Hoglan, Brann Dailor (Mastodon), Chris Adler (Lamb of God), Jay Weinberg (Slipknot), Matt Halpern (Periphery), Nicko McBrain (Iron Maiden), Scott Travis (Judas Priest), Aquiles Priester
+
 
 
 ---
@@ -64,4 +92,4 @@
 
 ---
 
-*Última actualização: [CEO preenche]*
+*Última actualização: 2026-03-01 17:00*

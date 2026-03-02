@@ -43,11 +43,13 @@ const gearItems = [
 ];
 
 const top10Lists = [
-  { slug: 'fastest-drummers', name: 'Top 10 Fastest Metal Drummers' },
+  { slug: 'fastest-metal-drummers', name: 'Top 10 Fastest Metal Drummers' },
   { slug: 'death-metal-drummers', name: 'Top 10 Death Metal Drummers' },
   { slug: 'most-innovative-drummers', name: 'Top 10 Most Innovative' },
   { slug: 'thrash-metal-drummers', name: 'Top 10 Thrash Metal Drummers' },
-  { slug: 'progressive-metal-drummers', name: 'Top 10 Progressive Metal' },
+  { slug: 'drummers-with-budget-friendly-kits', name: 'Top 10 Budget-Friendly Setups' },
+  // Issue #630: Most Expensive Metal Drum Setups article page
+  { slug: 'most-expensive-drum-setups', name: 'Top 10 Most Expensive Metal Drum Setups' },
 ];
 
 const bandPages = [

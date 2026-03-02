@@ -102,6 +102,26 @@ export const TOP_10_LISTS = {
       10: { rank: 10, highlight: 'Modern metal value', reason: 'Slipknot impact with smart gear choices' },
     },
   },
+  'most-expensive-drum-setups': {
+    slug: 'most-expensive-drum-setups',
+    title: 'Top 10 Most Expensive Metal Drum Setups',
+    emoji: '💎',
+    description: 'The ultimate in drum gear luxury. These metal drummers play setups worth more than most cars, featuring custom shells, signature snares, premium cymbals, and cutting-edge electronics. From Sonor SQ2 to Pearl Masterworks, these are the most expensive kits in metal.',
+    seoDescription: 'Discover the most expensive metal drum setups in the world. Premium shells, signature gear, and luxury kits from Danny Carey, Tomas Haake, George Kollias and more.',
+    drummerIds: [14, 5, 6, 15, 16, 47, 52, 13, 19, 18],
+    rankings: {
+      14: { rank: 1, highlight: 'Est. €11,000+ setup', reason: 'Sonor SQ2 Heavy Beech + Mandala electronic pads + Paiste Signature cymbals + custom bronze snare', kitValue: '€11,000+' },
+      5: { rank: 2, highlight: 'Est. €10,500+ setup', reason: 'Sonor SQ2 Heavy Beech with massive configuration + Porter & Davies BC2 throne + Sabian HHX', kitValue: '€10,500+' },
+      6: { rank: 3, highlight: 'Est. €9,500+ setup', reason: 'Pearl Masterworks Stadium Exotic in Piano Black with Gold Hardware + custom signature gear', kitValue: '€9,500+' },
+      15: { rank: 4, highlight: 'Est. €9,000+ setup', reason: 'Tama Starclassic Bubinga with dual 22" bass drums + Zildjian K Sweet series', kitValue: '€9,000+' },
+      16: { rank: 5, highlight: 'Est. €8,500+ setup', reason: 'DW Collector\'s Series Maple + full Meinl Byzance cymbal arsenal', kitValue: '€8,500+' },
+      47: { rank: 6, highlight: 'Est. €8,200+ setup', reason: 'Sonor SQ2 + dual Gavin Harrison signature snares + Zildjian K Custom Special Dry', kitValue: '€8,200+' },
+      52: { rank: 7, highlight: 'Est. €8,000+ setup', reason: 'Pearl Reference + extensive Roland electronics + Sabian HHX Evolution', kitValue: '€8,000+' },
+      13: { rank: 8, highlight: 'Est. €7,500+ setup', reason: 'Tama Starclassic with Roland SPD integration + Sabian HHX series', kitValue: '€7,500+' },
+      19: { rank: 9, highlight: 'Est. €7,200+ setup', reason: 'Pearl Masterworks + custom Czarcie Kopyto (Devil\'s Hoof) pedals + Paiste RUDE', kitValue: '€7,200+' },
+      18: { rank: 10, highlight: 'Est. €6,800+ setup', reason: 'Pearl Reference Series + complete Meinl Byzance setup + signature sticks', kitValue: '€6,800+' },
+    },
+  },
 };
 
 // Get list of all top 10 lists

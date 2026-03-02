@@ -7,46 +7,24 @@
  */
 
 if (typeof window !== 'undefined') {
-  // Cache Proxy instances per element to maintain reference equality
-  const proxyCache = new WeakMap();
+  // SURGICAL FIX: Only patch CSSStyleDeclaration to ignore numeric assignments
+  // This is the minimal change needed to fix react-native-web's setValueForStyles bug
+  // without breaking TextInput or other components
   
-  // Simpler approach: Wrap element.style getter
-  const originalElementGetter = Object.getOwnPropertyDescriptor(HTMLElement.prototype, 'style');
-  if (originalElementGetter && originalElementGetter.get) {
-    Object.defineProperty(HTMLElement.prototype, 'style', {
-      get: function() {
-        // Check cache first
-        let proxy = proxyCache.get(this);
-        if (proxy) {
-          return proxy;
-        }
-        
-        const style = originalElementGetter.get.call(this);
-        // Return a Proxy that catches numeric property assignments
-        proxy = new Proxy(style, {
-          set(target, prop, value) {
-            // Skip numeric property names (fixes react-native-web CSS bug)
-            if (/^\d+$/.test(String(prop))) {
-              return true; // Pretend it succeeded
-            }
-            target[prop] = value;
-            return true;
-          },
-          get(target, prop) {
-            const val = target[prop];
-            if (typeof val === 'function') {
-              return val.bind(target);
-            }
-            return val;
-          }
-        });
-        
-        // Cache the proxy
-        proxyCache.set(this, proxy);
-        return proxy;
-      },
-      configurable: true,
-    });
+  const cssProto = CSSStyleDeclaration.prototype;
+  
+  // Create a setter that ignores numeric property names
+  // This intercepts element.style[0] = value, element.style[1] = value, etc.
+  for (let i = 0; i < 100; i++) {
+    try {
+      Object.defineProperty(cssProto, i, {
+        set: function() { /* ignore */ },
+        get: function() { return ''; },
+        configurable: true,
+      });
+    } catch (e) {
+      // Property might already exist or be non-configurable
+    }
   }
 }
 

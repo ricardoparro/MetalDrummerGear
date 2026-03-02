@@ -36,6 +36,48 @@
 
 ## ✅ Aprovadas (Em Implementação)
 
+### 💡 [CEO-002] Create "Top 10 Most Expensive Metal Drum Setups" Article → Issue #630 ✅
+
+**Origem:** Growth analysis — Need content that drives organic traffic + social shares
+
+**Hipótese:** Se criarmos um artigo "Top 10 Most Expensive Metal Drum Setups of All Time" então:
+- Captures long-tail searches ("most expensive drum setup", "expensive metal drums")
+- Highly shareable on social media (people love lists + price drama)
+- Drives traffic back to individual drummer pages
+- Establishes authority (we have the data, competitors don't)
+- Creates backlink opportunities (other sites will reference)
+
+**Impacto Curto (1-7d):** ⭐⭐ (Social shares + immediate SEO)
+**Impacto Médio (1-3m):** ⭐⭐⭐ (Organic traffic compounds, backlinks build)
+**Impacto Longo (3-12m):** ⭐⭐ (Evergreen content continues to rank)
+**Score Total:** 7⭐
+
+**Conteúdo:**
+- Calculate total setup costs for all 31 drummers
+- Rank top 10 by total cost
+- Include photos, gear breakdowns, fun facts
+- Link to each drummer's full profile
+- Social share buttons prominent
+- Schema markup for Article + aggregate rating
+
+**Métrica de sucesso:**
+- 500+ page views in first week
+- 20+ social shares
+- Appears in Google for "expensive metal drum setup" within 2 weeks
+- 10% conversion to drummer profile clicks
+
+**Decisão:** IMPLEMENTAR ✅
+
+**Issue:** https://github.com/ricardoparro/MetalDrummerGear/issues/630
+
+**Data:** 2026-03-02 09:00
+
+
+
+---
+
+## ✅ Aprovadas (Em Implementação)
+
 ### 💡 [CEO-001] Add 10 Top Metal Drummers → Issue #623 ✅
 
 **Origem:** Competitor analysis + metrics review — We have 21 drummers, competitors have 100+

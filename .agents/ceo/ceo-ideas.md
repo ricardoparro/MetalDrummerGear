@@ -28,6 +28,41 @@
 
 ## 📥 Novas Ideias
 
+### 💡 [CEO-003] "Top 10 Fastest Double Bass Drummers in Metal" Article
+
+**Origem:** Content marketing momentum — Build on success of "expensive setups" pattern
+
+**Hipótese:** Se criarmos um artigo "Top 10 Fastest Double Bass Drummers in Metal" então:
+- Captura searches ("fastest metal drummer", "fastest double bass")
+- Alta viralidade na comunidade metal (técnica = status)
+- Aproveita nossos vídeos embebidos (mostrar velocidade)
+- Cria discussão/engagement nos comentários
+- Link hub para perfis individuais
+- Backlink magnet (fóruns/Reddit vão citar)
+
+**Impacto Curto (1-7d):** ⭐⭐ (Social shares + immediate engagement)
+**Impacto Médio (1-3m):** ⭐⭐⭐ (Organic traffic, community discussions)
+**Impacto Longo (3-12m):** ⭐⭐ (Evergreen ranking)
+**Score Total:** 7⭐
+
+**Conteúdo:**
+- Top 10 ranking com BPM estimates/records
+- Video clips mostrando speed
+- Gear breakdown (pedals, técnica)
+- Fun facts (records, famosos solos)
+- Links para perfis completos
+- Schema markup Article
+
+**Métrica de sucesso:**
+- 300+ page views primeira semana
+- 15+ social shares
+- Ranking "fastest metal drummer" em 2 semanas
+- 8% conversion para drummer profiles
+
+**Decisão:** IMPLEMENTAR ✅
+
+**Data:** 2026-03-02 17:00
+
 <!-- CEO adiciona novas ideias aqui -->
 
 

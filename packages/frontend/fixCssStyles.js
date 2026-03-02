@@ -7,24 +7,41 @@
  */
 
 if (typeof window !== 'undefined') {
-  // SURGICAL FIX: Only patch CSSStyleDeclaration to ignore numeric assignments
-  // This is the minimal change needed to fix react-native-web's setValueForStyles bug
-  // without breaking TextInput or other components
+  // Cache Proxy instances per style object (not per element)
+  const proxyCache = new WeakMap();
   
-  const cssProto = CSSStyleDeclaration.prototype;
-  
-  // Create a setter that ignores numeric property names
-  // This intercepts element.style[0] = value, element.style[1] = value, etc.
-  for (let i = 0; i < 100; i++) {
-    try {
-      Object.defineProperty(cssProto, i, {
-        set: function() { /* ignore */ },
-        get: function() { return ''; },
-        configurable: true,
-      });
-    } catch (e) {
-      // Property might already exist or be non-configurable
-    }
+  // Wrap element.style getter to return a Proxy that ignores numeric assignments
+  const originalStyleGetter = Object.getOwnPropertyDescriptor(HTMLElement.prototype, 'style');
+  if (originalStyleGetter && originalStyleGetter.get) {
+    Object.defineProperty(HTMLElement.prototype, 'style', {
+      get: function() {
+        const realStyle = originalStyleGetter.get.call(this);
+        
+        // Check if we already have a proxy for this style object
+        let proxy = proxyCache.get(realStyle);
+        if (proxy) return proxy;
+        
+        // Create proxy that ignores numeric property assignments
+        proxy = new Proxy(realStyle, {
+          set(target, prop, value) {
+            // Skip numeric properties (fixes react-native-web CSS bug)
+            if (typeof prop === 'string' && /^\d+$/.test(prop)) {
+              return true;
+            }
+            target[prop] = value;
+            return true;
+          },
+          get(target, prop) {
+            const val = target[prop];
+            return typeof val === 'function' ? val.bind(target) : val;
+          }
+        });
+        
+        proxyCache.set(realStyle, proxy);
+        return proxy;
+      },
+      configurable: true,
+    });
   }
 }
 

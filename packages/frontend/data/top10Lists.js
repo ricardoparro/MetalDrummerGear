@@ -122,6 +122,26 @@ export const TOP_10_LISTS = {
       18: { rank: 10, highlight: 'Est. €6,800+ setup', reason: 'Pearl Reference Series + complete Meinl Byzance setup + signature sticks', kitValue: '€6,800+' },
     },
   },
+  'fastest-double-bass-drummers': {
+    slug: 'fastest-double-bass-drummers',
+    title: 'Top 10 Fastest Double Bass Drummers in Metal',
+    emoji: '🦶',
+    description: 'The speed demons of double bass drumming. In metal, speed equals status — and these drummers have pushed the boundaries of human capability with their feet. From documented 280+ BPM records to inhuman endurance, these are the fastest double bass players in heavy metal history.',
+    seoDescription: 'Discover the fastest double bass drummers in metal. George Kollias, Derek Roddy, Pete Sandoval and more — the ultimate ranking of extreme speed and technique.',
+    drummerIds: [6, 30, 28, 21, 3, 19, 5, 27, 4, 15],
+    rankings: {
+      6: { rank: 1, highlight: '280+ BPM documented speed', reason: 'Nile\'s technical mastermind holds multiple speed records. His "Intense Metal Drumming" DVD showcases impossible single-stroke rolls and sustained blast beats at speeds most drummers can\'t even approach.', bpm: '280+' },
+      30: { rank: 2, highlight: '"One Take" precision at extreme speeds', reason: 'Known for recording entire albums in single takes. His work with Hate Eternal and Nile set new standards for extreme drumming speed and accuracy.', bpm: '260+' },
+      28: { rank: 3, highlight: 'Cryptopsy\'s inhuman machine', reason: 'Flo Mounier\'s work on "None So Vile" redefined what was physically possible. His gravity blasts and sustained speed are still studied by drummers worldwide.', bpm: '250+' },
+      21: { rank: 4, highlight: 'Death metal double bass pioneer', reason: 'Pete Sandoval\'s drumming on Morbid Angel\'s "Altars of Madness" and "Blessed Are the Sick" invented the extreme double bass template that every death metal drummer follows.', bpm: '240+' },
+      3: { rank: 5, highlight: 'The Atomic Clock', reason: 'Gene Hoglan earned his legendary nickname through inhuman precision at high speeds. His work with Death, Testament, and Dark Angel showcases both power and endurance.', bpm: '230+' },
+      19: { rank: 6, highlight: 'Blackened death metal fury', reason: 'Inferno\'s relentless double bass assault powers Behemoth\'s crushing sound. His precision at extreme tempos while maintaining groove is unmatched in black metal.', bpm: '240+' },
+      5: { rank: 7, highlight: 'Polyrhythmic speed master', reason: 'Tomas Haake combines blazing double bass with Meshuggah\'s complex polyrhythms. His ability to maintain speed while playing in multiple time signatures is mind-bending.', bpm: '220+' },
+      27: { rank: 8, highlight: 'Industrial precision machine', reason: 'Raymond Herrera\'s machine-gun double bass defined Fear Factory\'s sound. His triggered kick drum precision influenced countless industrial and groove metal drummers.', bpm: '220+' },
+      4: { rank: 9, highlight: 'Thrash double bass pioneer', reason: 'Dave Lombardo\'s double bass work with Slayer on "Reign in Blood" was revolutionary. He proved double bass could be both fast AND musical, influencing generations.', bpm: '210+' },
+      15: { rank: 10, highlight: 'Technical death metal mastery', reason: 'Mario Duplantier\'s double bass technique combines speed with Gojira\'s signature groove. His foot control and dynamics set him apart from pure speed drummers.', bpm: '200+' },
+    },
+  },
 };
 
 // Get list of all top 10 lists

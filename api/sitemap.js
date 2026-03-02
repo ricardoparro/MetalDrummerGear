@@ -50,6 +50,8 @@ const top10Lists = [
   { slug: 'drummers-with-budget-friendly-kits', name: 'Top 10 Budget-Friendly Setups' },
   // Issue #630: Most Expensive Metal Drum Setups article page
   { slug: 'most-expensive-drum-setups', name: 'Top 10 Most Expensive Metal Drum Setups' },
+  // Issue #632: Fastest Double Bass Drummers article page
+  { slug: 'fastest-double-bass-drummers', name: 'Top 10 Fastest Double Bass Drummers in Metal' },
 ];
 
 const bandPages = [

@@ -7,50 +7,50 @@
  */
 
 if (typeof window !== 'undefined') {
-  // Approach: Wrap the specific react-native-web function that iterates styles
-  // and causes numeric property assignments. Find it by its error signature.
+  // Cache Proxy instances per style object
+  const proxyCache = new WeakMap();
   
-  // Global error handler to suppress this specific error
-  const originalError = window.Error;
-  window.Error = function(...args) {
-    const err = new originalError(...args);
-    if (err.message && err.message.includes('indexed property')) {
-      // Return a dummy error that won't break things
-      err.suppressReactNativeWeb = true;
-    }
-    return err;
-  };
-  window.Error.prototype = originalError.prototype;
+  // Tags that should NOT be proxied (form elements that need direct style access)
+  const skipProxyTags = new Set(['INPUT', 'TEXTAREA', 'SELECT', 'BUTTON']);
   
-  // Also catch at window level
-  window.addEventListener('error', function(e) {
-    if (e.message && e.message.includes('indexed property')) {
-      e.preventDefault();
-      e.stopPropagation();
-      return false;
-    }
-  }, true);
-  
-  // Patch Array.prototype methods used by react-native-web style iteration
-  // The bug happens when iterating over a styles object that has numeric keys
-  const originalForEach = Array.prototype.forEach;
-  const originalKeys = Object.keys;
-  
-  Object.keys = function(obj) {
-    const keys = originalKeys.call(Object, obj);
-    // If this looks like a CSSStyleDeclaration iteration, filter numeric keys
-    if (obj && obj.constructor && obj.constructor.name === 'CSSStyleDeclaration') {
-      return keys.filter(k => !/^\d+$/.test(k));
-    }
-    // If this is a styles object being applied, filter numeric keys
-    if (obj && typeof obj === 'object' && !Array.isArray(obj)) {
-      const hasNumericKeys = keys.some(k => /^\d+$/.test(k));
-      if (hasNumericKeys) {
-        return keys.filter(k => !/^\d+$/.test(k));
-      }
-    }
-    return keys;
-  };
+  // Wrap element.style getter to return a Proxy that ignores numeric assignments
+  const originalStyleGetter = Object.getOwnPropertyDescriptor(HTMLElement.prototype, 'style');
+  if (originalStyleGetter && originalStyleGetter.get) {
+    Object.defineProperty(HTMLElement.prototype, 'style', {
+      get: function() {
+        const realStyle = originalStyleGetter.get.call(this);
+        
+        // Skip proxy for form elements - return real style directly
+        if (skipProxyTags.has(this.tagName)) {
+          return realStyle;
+        }
+        
+        // Check if we already have a proxy for this style object
+        let proxy = proxyCache.get(realStyle);
+        if (proxy) return proxy;
+        
+        // Create proxy that ignores numeric property assignments
+        proxy = new Proxy(realStyle, {
+          set(target, prop, value) {
+            // Skip numeric properties (fixes react-native-web CSS bug)
+            if (typeof prop === 'string' && /^\d+$/.test(prop)) {
+              return true;
+            }
+            target[prop] = value;
+            return true;
+          },
+          get(target, prop) {
+            const val = target[prop];
+            return typeof val === 'function' ? val.bind(target) : val;
+          }
+        });
+        
+        proxyCache.set(realStyle, proxy);
+        return proxy;
+      },
+      configurable: true,
+    });
+  }
 }
 
 export default {};

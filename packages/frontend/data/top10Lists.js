@@ -151,7 +151,7 @@ This ranking considers documented BPM records, sustained speed over full perform
     description: 'The speed demons of double bass drumming. In metal, speed equals status — and these drummers have pushed the boundaries of human capability with their feet. From documented 280+ BPM records to inhuman endurance, these are the fastest double bass players in heavy metal history.',
     seoDescription: 'Discover the fastest double bass drummers in metal history. George Kollias, Derek Roddy, Pete Sandoval and more — the ultimate ranking of extreme speed and technique with BPM records, gear breakdowns, and videos.',
     seoKeywords: ['fastest metal drummer', 'fastest double bass drummer', 'metal drumming speed', 'double bass technique', 'extreme metal drumming', 'blast beats', 'death metal drummers'],
-    drummerIds: [6, 30, 28, 21, 3, 19, 5, 27, 4, 15],
+    drummerIds: [6, 44, 35, 21, 3, 19, 5, 27, 4, 15],
     rankings: {
       6: { 
         rank: 1, 
@@ -167,7 +167,7 @@ This ranking considers documented BPM records, sustained speed over full perform
           'Can sustain blast beats for entire songs without tempo drift'
         ]
       },
-      30: { 
+      44: { 
         rank: 2, 
         highlight: '"One Take" precision at extreme speeds', 
         reason: 'Known for recording entire albums in single takes. His work with Hate Eternal and Nile set new standards for extreme drumming speed and accuracy.', 
@@ -181,7 +181,7 @@ This ranking considers documented BPM records, sustained speed over full perform
           'Developed the swivel technique now used by countless drummers'
         ]
       },
-      28: { 
+      35: { 
         rank: 3, 
         highlight: 'Cryptopsy\'s inhuman machine', 
         reason: 'Flo Mounier\'s work on "None So Vile" redefined what was physically possible. His gravity blasts and sustained speed are still studied by drummers worldwide.', 

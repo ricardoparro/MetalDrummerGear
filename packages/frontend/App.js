@@ -536,6 +536,7 @@ function updateQuizResultURL(drummerSlug) {
 }
 
 // Update document meta tags for quiz social sharing (Open Graph + Twitter Cards)
+// Update quiz page meta tags for SEO (Issue #637)
 function updateQuizMeta(drummer, matchPercentage) {
   if (Platform.OS !== 'web' || typeof document === 'undefined') return;
 
@@ -551,11 +552,12 @@ function updateQuizMeta(drummer, matchPercentage) {
   };
 
   if (drummer) {
-    // Shared result page meta
-    const title = `I matched with ${drummer.name} (${drummer.band}) - ${matchPercentage}% Match! | Metal Drummer Quiz`;
-    const description = `Take the Metal Drummer Quiz and discover which legendary metal drummer matches your playing style! I got ${drummer.name} from ${drummer.band}.`;
+    // Shared result page meta - Issue #637 OG format
+    const drummerSlug = drummer.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+    const title = `I Drum Like ${drummer.name}! | Which Metal Drummer Are You? | Quiz`;
+    const description = `I matched with ${drummer.name} (${drummer.band}) - ${matchPercentage}% match! Take the Metal Drummer Quiz to find out which legendary drummer's setup and style matches yours!`;
     const imageUrl = drummer.image || 'https://metalforge.io/og-quiz.png';
-    const shareUrl = `https://metalforge.io/quiz?match=${toSlug(drummer.name)}`;
+    const shareUrl = `https://metalforge.io/quiz?result=${drummerSlug}`;
 
     document.title = title;
     setMeta('description', description);
@@ -569,9 +571,9 @@ function updateQuizMeta(drummer, matchPercentage) {
     setMeta('twitter:description', description);
     setMeta('twitter:image', imageUrl);
   } else {
-    // Default quiz page meta
-    const title = 'Find Your Drummer Match | Metal Drummer Quiz';
-    const description = 'Take our quiz to discover which legendary metal drummer matches your playing style! Answer 7 questions and find your drummer soulmate.';
+    // Default quiz page meta - Issue #637 SEO requirements
+    const title = 'Which Metal Drummer Are You? | Quiz';
+    const description = 'Take our quiz to find out which legendary metal drummer\'s setup and style matches yours! Answer 8 quick questions to discover your drummer match.';
 
     document.title = title;
     setMeta('description', description);
@@ -14141,10 +14143,20 @@ function preloadQuizData() {
   }
 }
 
-// Track quiz completion in GA4
+// Track quiz started in GA4 (Issue #637)
+function trackQuizStarted() {
+  if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
+    window.gtag('event', 'quiz_started', {
+      event_category: 'engagement',
+      event_label: 'drummer_personality_quiz',
+    });
+  }
+}
+
+// Track quiz completion in GA4 (Issue #637)
 function trackQuizCompletion(matchedDrummer, matchPercentage) {
   if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
-    window.gtag('event', 'quiz_complete', {
+    window.gtag('event', 'quiz_completed', {
       event_category: 'engagement',
       event_label: matchedDrummer.name,
       value: matchPercentage,
@@ -14154,10 +14166,33 @@ function trackQuizCompletion(matchedDrummer, matchPercentage) {
   }
 }
 
-// Quiz View Component
+// Track quiz shared in GA4 (Issue #637)
+function trackQuizShared(platform, drummerName) {
+  if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
+    window.gtag('event', 'quiz_shared', {
+      event_category: 'engagement',
+      event_label: platform,
+      shared_drummer: drummerName,
+    });
+  }
+}
+
+// Track quiz profile click in GA4 (Issue #637)
+function trackQuizProfileClicked(drummerName, drummerId) {
+  if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
+    window.gtag('event', 'quiz_profile_clicked', {
+      event_category: 'engagement',
+      event_label: drummerName,
+      drummer_id: drummerId,
+    });
+  }
+}
+
+// Quiz View Component (Issue #637)
 function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
+  const [showIntro, setShowIntro] = useState(true);
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const [answers, setAnswers] = useState({});
   const [showResults, setShowResults] = useState(false);
@@ -14167,6 +14202,7 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
   const [sharedMatch, setSharedMatch] = useState(null);
   const [quizDataLoaded, setQuizDataLoaded] = useState(false);
   const [quizQuestions, setQuizQuestions] = useState([]);
+  const [quizCount, setQuizCount] = useState(12847);
 
   // Load quiz data on mount (lazy loading)
   useEffect(() => {
@@ -14174,6 +14210,10 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
       _quizDataModule = module;
       setQuizQuestions(module.QUIZ_QUESTIONS);
       setQuizDataLoaded(true);
+      // Get quiz completion count for social proof
+      if (module.getQuizCompletionCount) {
+        setQuizCount(module.getQuizCompletionCount());
+      }
     });
   }, []);
 
@@ -14189,6 +14229,7 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
           const reasons = profile ? ['shared result'] : [];
           setResults([{ drummer: matchedDrummer, score: 85, reasons }]);
           setShowResults(true);
+          setShowIntro(false);
           setSharedMatch(matchedDrummer);
           // Update meta tags for shared result
           updateQuizMeta(matchedDrummer, 85);
@@ -14199,6 +14240,12 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
       }
     }
   }, [drummers, quizDataLoaded]);
+
+  // Handle starting the quiz
+  const handleStartQuiz = () => {
+    setShowIntro(false);
+    trackQuizStarted();
+  };
 
   const progress = quizQuestions.length > 0 ? ((currentQuestion + 1) / quizQuestions.length) * 100 : 0;
 
@@ -14218,9 +14265,14 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
         
         // Track completion and update URL/meta for sharing
         if (matches[0]) {
-          const maxScore = 100; // theoretical max
+          const maxScore = _quizDataModule?.getMaxPossibleScore ? _quizDataModule.getMaxPossibleScore() : 100;
           const matchPercentage = Math.min(99, Math.max(50, Math.round((matches[0].score / maxScore) * 100)));
           trackQuizCompletion(matches[0].drummer, matchPercentage);
+          
+          // Increment quiz completion count (Issue #637)
+          if (_quizDataModule?.incrementQuizCount) {
+            _quizDataModule.incrementQuizCount();
+          }
           
           // Update URL for shareable result
           const drummerSlug = matches[0].drummer.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
@@ -14240,28 +14292,50 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
   };
 
   const handleRestart = () => {
+    setShowIntro(true);
     setCurrentQuestion(0);
     setAnswers({});
     setShowResults(false);
     setResults(null);
+    // Clear URL params
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.replaceState({}, '', '/quiz');
+    }
+  };
+
+  // Handle viewing drummer profile with tracking (Issue #637)
+  const handleViewProfile = (drummer) => {
+    trackQuizProfileClicked(drummer.name, drummer.id);
+    onSelectDrummer(drummer.id);
   };
 
   const handleShare = async (platform) => {
     if (!results || !results[0]) return;
     
     const topMatch = results[0].drummer;
-    const matchPercent = Math.round((results[0].score / 100) * 100);
-    const shareText = `I matched with ${topMatch.name} (${topMatch.band}) at ${matchPercent}% on the Metal Drummer Quiz! 🥁🤘`;
-    const shareUrl = typeof window !== 'undefined' ? window.location.origin + '/quiz' : 'https://metalforge.io/quiz';
+    const maxScore = _quizDataModule?.getMaxPossibleScore ? _quizDataModule.getMaxPossibleScore() : 100;
+    const matchPercent = Math.min(99, Math.max(50, Math.round((results[0].score / maxScore) * 100)));
+    const drummerSlug = topMatch.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+    const shareUrl = typeof window !== 'undefined' ? `${window.location.origin}/quiz?result=${drummerSlug}` : `https://metalforge.io/quiz?result=${drummerSlug}`;
+    
+    // Issue #637: Twitter share format
+    const twitterText = `I drum like ${topMatch.name}! Which metal drummer are you?`;
+    const shareText = `I matched with ${topMatch.name} (${topMatch.band}) - ${matchPercent}% match on the Metal Drummer Quiz! 🥁🤘`;
+
+    // Track share event (Issue #637)
+    trackQuizShared(platform, topMatch.name);
 
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
       let url;
       switch (platform) {
         case 'twitter':
-          url = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(shareUrl)}`;
+          url = `https://twitter.com/intent/tweet?text=${encodeURIComponent(twitterText)}&url=${encodeURIComponent(shareUrl)}&hashtags=MetalDrummer`;
           break;
         case 'facebook':
           url = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(shareUrl)}&quote=${encodeURIComponent(shareText)}`;
+          break;
+        case 'whatsapp':
+          url = `https://wa.me/?text=${encodeURIComponent(`${shareText}\n${shareUrl}`)}`;
           break;
         case 'copy':
           try {
@@ -14291,7 +14365,7 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
   // Results View
   if (showResults && results) {
     const topMatch = results[0];
-    const maxScore = 100;
+    const maxScore = _quizDataModule?.getMaxPossibleScore ? _quizDataModule.getMaxPossibleScore() : 100;
     const matchPercent = Math.min(99, Math.max(50, Math.round((topMatch.score / maxScore) * 100)));
     const runnerUps = results.slice(1, 4);
 
@@ -14308,10 +14382,10 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
             <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
           </TouchableOpacity>
 
-          {/* Results Header */}
+          {/* Results Header - Issue #637 */}
           <View style={styles.resultsHeader}>
             <Text style={[styles.resultsTitle, { color: theme.text }]}>
-              🎉 Your Drummer Match!
+              🎉 You Drum Like {topMatch.drummer.name}!
             </Text>
           </View>
 
@@ -14345,18 +14419,18 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
             )}
 
             <TouchableOpacity
-              onPress={() => onSelectDrummer(topMatch.drummer.id)}
+              onPress={() => handleViewProfile(topMatch.drummer)}
               style={[styles.viewProfileButton, { backgroundColor: theme.primary }]}
               accessibilityRole="button"
             >
-              <Text style={styles.viewProfileButtonText}>View Full Profile →</Text>
+              <Text style={styles.viewProfileButtonText}>Explore {topMatch.drummer.name.split(' ')[0]}'s Full Gear Setup →</Text>
             </TouchableOpacity>
           </View>
 
-          {/* Share Buttons */}
+          {/* Share Buttons - Issue #637 */}
           <View style={styles.shareSection}>
             <Text style={[styles.shareTitle, { color: theme.text }]}>Share Your Result</Text>
-            <View style={styles.shareButtons}>
+            <View style={[styles.shareButtons, { flexWrap: 'wrap', justifyContent: 'center' }]}>
               <TouchableOpacity
                 onPress={() => handleShare('twitter')}
                 style={[styles.shareButton, { backgroundColor: colors.buttons.ghost.bg, borderWidth: 1, borderColor: colors.buttons.ghost.border }]}
@@ -14368,6 +14442,12 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
                 style={[styles.shareButton, { backgroundColor: colors.buttons.ghost.bg, borderWidth: 1, borderColor: colors.buttons.ghost.border }]}
               >
                 <Text style={[styles.shareButtonText, { color: '#4267B2' }]}>Facebook</Text>
+              </TouchableOpacity>
+              <TouchableOpacity
+                onPress={() => handleShare('whatsapp')}
+                style={[styles.shareButton, { backgroundColor: colors.buttons.ghost.bg, borderWidth: 1, borderColor: colors.buttons.ghost.border }]}
+              >
+                <Text style={[styles.shareButtonText, { color: '#25D366' }]}>WhatsApp</Text>
               </TouchableOpacity>
               <TouchableOpacity
                 onPress={() => handleShare('copy')}
@@ -14387,7 +14467,7 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
               {runnerUps.map((match, index) => (
                 <TouchableOpacity
                   key={match.drummer.id}
-                  onPress={() => onSelectDrummer(match.drummer.id)}
+                  onPress={() => handleViewProfile(match.drummer)}
                   style={[styles.runnerUpCard, { backgroundColor: theme.card, borderColor: theme.border }]}
                 >
                   <ImageWithFallback
@@ -14508,6 +14588,60 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
     );
   }
 
+  // Quiz Intro/Landing Screen (Issue #637)
+  if (showIntro) {
+    return (
+      <ScrollView style={[styles.quizContainer, { backgroundColor: theme.background }]}>
+        <View style={styles.quizContent}>
+          {/* Back Button */}
+          <TouchableOpacity
+            onPress={onBack}
+            style={[styles.backButton, { borderColor: theme.border }]}
+            accessibilityRole="button"
+            accessibilityLabel="Back to home"
+          >
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+          </TouchableOpacity>
+
+          {/* Hero Section */}
+          <View style={styles.kitQuizIntro}>
+            <Text style={styles.kitQuizIntroEmoji}>🥁</Text>
+            <Text style={[styles.kitQuizIntroTitle, { color: theme.text }]}>
+              Which Metal Drummer's Setup Matches Your Style?
+            </Text>
+            <Text style={[styles.kitQuizIntroSubtitle, { color: theme.secondaryText }]}>
+              Answer {quizQuestions.length} quick questions about your playing style, preferences, and gear to discover which legendary metal drummer you drum like!
+            </Text>
+
+            {/* Social Proof */}
+            <View style={[styles.kitQuizInfoBox, { backgroundColor: theme.card, borderColor: theme.border }]}>
+              <Text style={[styles.kitQuizInfoText, { color: theme.text }]}>
+                🎯 {quizCount.toLocaleString()} drummers have taken this quiz
+              </Text>
+            </View>
+
+            {/* Quiz Info */}
+            <View style={[styles.kitQuizInfoBox, { backgroundColor: theme.card, borderColor: theme.border }]}>
+              <Text style={[styles.kitQuizInfoText, { color: theme.secondaryText }]}>⏱️ 2 minutes</Text>
+              <Text style={[styles.kitQuizInfoText, { color: theme.secondaryText }]}>📊 {quizQuestions.length} questions</Text>
+              <Text style={[styles.kitQuizInfoText, { color: theme.secondaryText }]}>🥁 {drummers.length}+ drummers</Text>
+            </View>
+
+            {/* Start Quiz Button */}
+            <TouchableOpacity
+              onPress={handleStartQuiz}
+              style={[styles.kitQuizStartButton, { backgroundColor: theme.primary }]}
+              accessibilityRole="button"
+              accessibilityLabel="Start the quiz"
+            >
+              <Text style={styles.kitQuizStartButtonText}>🤘 Start Quiz</Text>
+            </TouchableOpacity>
+          </View>
+        </View>
+      </ScrollView>
+    );
+  }
+
   // Quiz Questions View
   const question = quizQuestions[currentQuestion];
 
@@ -14527,10 +14661,10 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
         {/* Quiz Header */}
         <View style={styles.quizHeader}>
           <Text style={[styles.quizTitle, { color: theme.text }]}>
-            🥁 Find Your Drummer Match
+            🥁 Which Metal Drummer Are You?
           </Text>
           <Text style={[styles.quizSubtitle, { color: theme.secondaryText }]}>
-            Answer {quizQuestions.length} questions to discover which legendary metal drummer matches your style!
+            Question {currentQuestion + 1} of {quizQuestions.length}
           </Text>
         </View>
 

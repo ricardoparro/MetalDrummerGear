@@ -972,6 +972,7 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
   const isMobile = width < 768;
   const [list, setList] = useState(null);
   const [isLoading, setIsLoading] = useState(true);
+  const [expandedDrummers, setExpandedDrummers] = useState({});
 
   // Load list data lazily
   useEffect(() => {
@@ -981,6 +982,113 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
       setIsLoading(false);
     });
   }, [listSlug]);
+
+  // Update document meta and inject Article schema for SEO (Issue #634)
+  useEffect(() => {
+    if (!list || Platform.OS !== 'web' || typeof document === 'undefined') return;
+
+    // Update document title
+    document.title = `${list.title} | MetalForge`;
+
+    // Update meta tags
+    const setMeta = (name, content, isProperty = false) => {
+      const attr = isProperty ? 'property' : 'name';
+      let meta = document.querySelector(`meta[${attr}="${name}"]`);
+      if (!meta) {
+        meta = document.createElement('meta');
+        meta.setAttribute(attr, name);
+        document.head.appendChild(meta);
+      }
+      meta.setAttribute('content', content);
+    };
+
+    setMeta('description', list.seoDescription);
+    setMeta('og:title', list.title, true);
+    setMeta('og:description', list.seoDescription, true);
+    setMeta('og:type', 'article', true);
+    setMeta('og:url', `https://metalforge.io/lists/${list.slug}`, true);
+    setMeta('twitter:card', 'summary_large_image');
+    setMeta('twitter:title', list.title);
+    setMeta('twitter:description', list.seoDescription);
+    if (list.seoKeywords) {
+      setMeta('keywords', list.seoKeywords.join(', '));
+    }
+
+    // Inject Article schema markup for article-style lists (Issue #634)
+    if (list.isArticle) {
+      const articleSchema = {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": list.title,
+        "description": list.seoDescription,
+        "author": {
+          "@type": "Organization",
+          "name": list.author || "MetalForge",
+          "url": "https://metalforge.io"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "MetalForge",
+          "url": "https://metalforge.io",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://metalforge.io/logo.png"
+          }
+        },
+        "datePublished": list.datePublished,
+        "dateModified": list.dateModified || list.datePublished,
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": `https://metalforge.io/lists/${list.slug}`
+        },
+        "keywords": list.seoKeywords?.join(', ') || ''
+      };
+
+      let ldScript = document.querySelector('script[data-schema="top10-article"]');
+      if (!ldScript) {
+        ldScript = document.createElement('script');
+        ldScript.type = 'application/ld+json';
+        ldScript.setAttribute('data-schema', 'top10-article');
+        document.head.appendChild(ldScript);
+      }
+      ldScript.textContent = JSON.stringify(articleSchema);
+    }
+
+    // Cleanup on unmount
+    return () => {
+      const ldScript = document.querySelector('script[data-schema="top10-article"]');
+      if (ldScript) ldScript.remove();
+    };
+  }, [list]);
+
+  // Toggle expanded state for drummer details
+  const toggleDrummerExpanded = (drummerId) => {
+    setExpandedDrummers(prev => ({
+      ...prev,
+      [drummerId]: !prev[drummerId]
+    }));
+  };
+
+  // Social share handler
+  const handleShare = (platform) => {
+    if (Platform.OS !== 'web' || !list) return;
+    const url = `https://metalforge.io/lists/${list.slug}`;
+    const text = `${list.title} - Check out this ranking!`;
+    
+    const shareUrls = {
+      twitter: `https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}&url=${encodeURIComponent(url)}`,
+      facebook: `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}`,
+      reddit: `https://reddit.com/submit?url=${encodeURIComponent(url)}&title=${encodeURIComponent(list.title)}`,
+      copy: url
+    };
+
+    if (platform === 'copy') {
+      navigator.clipboard?.writeText(url);
+      alert('Link copied to clipboard!');
+    } else {
+      window.open(shareUrls[platform], '_blank', 'width=600,height=400');
+    }
+  };
 
   if (isLoading) {
     return (
@@ -1009,6 +1117,8 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
     .map(id => drummers.find(d => d.id === id))
     .filter(Boolean);
 
+  const isArticle = list.isArticle;
+
   return (
     <ScrollView style={[styles.container, { backgroundColor: theme.background }]}>
       <TouchableOpacity onPress={onBack} style={styles.backButton}>
@@ -1021,52 +1131,255 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
         <Text style={[styles.topListPageDescription, { color: theme.secondaryText }]}>
           {list.description}
         </Text>
+        
+        {/* Social Share Buttons (Issue #634) */}
+        {Platform.OS === 'web' && (
+          <View style={styles.socialShareContainer}>
+            <Text style={[styles.socialShareLabel, { color: theme.secondaryText }]}>Share:</Text>
+            <TouchableOpacity onPress={() => handleShare('twitter')} style={[styles.socialShareButton, { backgroundColor: '#1DA1F2' }]}>
+              <Text style={styles.socialShareButtonText}>𝕏</Text>
+            </TouchableOpacity>
+            <TouchableOpacity onPress={() => handleShare('facebook')} style={[styles.socialShareButton, { backgroundColor: '#4267B2' }]}>
+              <Text style={styles.socialShareButtonText}>f</Text>
+            </TouchableOpacity>
+            <TouchableOpacity onPress={() => handleShare('reddit')} style={[styles.socialShareButton, { backgroundColor: '#FF4500' }]}>
+              <Text style={styles.socialShareButtonText}>r/</Text>
+            </TouchableOpacity>
+            <TouchableOpacity onPress={() => handleShare('copy')} style={[styles.socialShareButton, { backgroundColor: theme.border }]}>
+              <Text style={[styles.socialShareButtonText, { color: theme.text }]}>🔗</Text>
+            </TouchableOpacity>
+          </View>
+        )}
+
+        {/* Article publication info */}
+        {isArticle && list.datePublished && (
+          <Text style={[styles.articleDate, { color: theme.secondaryText }]}>
+            Published: {new Date(list.datePublished).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+            {list.author && ` • By ${list.author}`}
+          </Text>
+        )}
       </View>
+
+      {/* Article Intro Section (Issue #634) */}
+      {isArticle && list.intro && (
+        <View style={[styles.articleIntroSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.articleIntroTitle, { color: theme.text }]}>{list.intro.title}</Text>
+          <Text style={[styles.articleIntroContent, { color: theme.secondaryText }]}>
+            {list.intro.content}
+          </Text>
+          {list.intro.keyPoints && list.intro.keyPoints.length > 0 && (
+            <View style={styles.articleKeyPoints}>
+              <Text style={[styles.articleKeyPointsTitle, { color: theme.text }]}>Key Takeaways:</Text>
+              {list.intro.keyPoints.map((point, index) => (
+                <View key={index} style={styles.articleKeyPointItem}>
+                  <Text style={[styles.articleKeyPointBullet, { color: theme.primary }]}>✓</Text>
+                  <Text style={[styles.articleKeyPointText, { color: theme.secondaryText }]}>{point}</Text>
+                </View>
+              ))}
+            </View>
+          )}
+        </View>
+      )}
 
       <View style={[styles.topListRankings, isMobile && styles.topListRankingsMobile]}>
         {rankedDrummers.map((drummer, index) => {
           const ranking = list.rankings[drummer.id];
           const rank = ranking?.rank || index + 1;
+          const isExpanded = expandedDrummers[drummer.id];
+          const hasExpandableContent = isArticle && (ranking?.showcaseVideo || ranking?.funFacts || ranking?.gearHighlight);
           
           return (
-            <TouchableOpacity
+            <View
               key={drummer.id}
-              style={[styles.topListRankCard, { backgroundColor: theme.card, borderColor: theme.border }]}
-              onPress={() => onSelectDrummer(drummer)}
-              accessibilityRole="button"
-              accessibilityLabel={`#${rank} ${drummer.name}`}
+              style={[styles.topListRankCard, styles.topListRankCardArticle, { backgroundColor: theme.card, borderColor: theme.border }]}
             >
-              <View style={[styles.topListRankBadge, rank <= 3 && styles.topListRankBadgeTop3]}>
-                <Text style={styles.topListRankNumber}>#{rank}</Text>
-              </View>
-              <ImageWithFallback
-                source={{ uri: drummer.image || PLACEHOLDER_IMAGE }}
-                style={styles.topListDrummerImage}
-                accessibilityLabel={`Photo of ${drummer.name}`}
-                width={60}
-                height={60}
-                imageContext="thumbnail"
-              />
-              <View style={styles.topListDrummerInfo}>
-                <Text style={[styles.topListDrummerName, { color: theme.text }]}>{drummer.name}</Text>
-                <Text style={[styles.topListDrummerBand, { color: theme.secondaryText }]}>
-                  {drummer.band}
-                </Text>
-                {ranking?.highlight && (
-                  <Text style={[styles.topListHighlight, { color: theme.primary }]}>
-                    {ranking.highlight}
+              {/* Main card content - clickable to go to drummer profile */}
+              <TouchableOpacity
+                onPress={() => onSelectDrummer(drummer)}
+                style={styles.topListRankCardMain}
+                accessibilityRole="button"
+                accessibilityLabel={`#${rank} ${drummer.name} - View Profile`}
+              >
+                <View style={[styles.topListRankBadge, rank <= 3 && styles.topListRankBadgeTop3]}>
+                  <Text style={styles.topListRankNumber}>#{rank}</Text>
+                </View>
+                <ImageWithFallback
+                  source={{ uri: drummer.image || PLACEHOLDER_IMAGE }}
+                  style={styles.topListDrummerImage}
+                  accessibilityLabel={`Photo of ${drummer.name}`}
+                  width={60}
+                  height={60}
+                  imageContext="thumbnail"
+                />
+                <View style={styles.topListDrummerInfo}>
+                  <Text style={[styles.topListDrummerName, { color: theme.text }]}>{drummer.name}</Text>
+                  <Text style={[styles.topListDrummerBand, { color: theme.secondaryText }]}>
+                    {drummer.band}
                   </Text>
-                )}
-                {ranking?.reason && (
-                  <Text style={[styles.topListReason, { color: theme.secondaryText }]} numberOfLines={2}>
-                    {ranking.reason}
+                  {/* BPM Badge for speed rankings (Issue #634) */}
+                  {ranking?.bpm && (
+                    <View style={[styles.bpmBadge, { backgroundColor: theme.primary }]}>
+                      <Text style={styles.bpmBadgeText}>🔥 {ranking.bpm} BPM</Text>
+                    </View>
+                  )}
+                  {ranking?.highlight && (
+                    <Text style={[styles.topListHighlight, { color: theme.primary }]}>
+                      {ranking.highlight}
+                    </Text>
+                  )}
+                  {ranking?.reason && (
+                    <Text style={[styles.topListReason, { color: theme.secondaryText }]} numberOfLines={isExpanded ? undefined : 2}>
+                      {ranking.reason}
+                    </Text>
+                  )}
+                </View>
+              </TouchableOpacity>
+
+              {/* Expand/Collapse button for article content */}
+              {hasExpandableContent && (
+                <TouchableOpacity
+                  onPress={() => toggleDrummerExpanded(drummer.id)}
+                  style={[styles.expandButton, { borderTopColor: theme.border }]}
+                  accessibilityRole="button"
+                  accessibilityLabel={isExpanded ? 'Show less details' : 'Show more details'}
+                >
+                  <Text style={[styles.expandButtonText, { color: theme.primary }]}>
+                    {isExpanded ? '▲ Show Less' : '▼ Video, Gear & Fun Facts'}
                   </Text>
-                )}
-              </View>
-            </TouchableOpacity>
+                </TouchableOpacity>
+              )}
+
+              {/* Expanded Article Content (Issue #634) */}
+              {isExpanded && hasExpandableContent && (
+                <View style={[styles.expandedContent, { borderTopColor: theme.border }]}>
+                  {/* Showcase Video */}
+                  {ranking?.showcaseVideo && (
+                    <View style={styles.articleVideoSection}>
+                      <Text style={[styles.articleSectionTitle, { color: theme.text }]}>🎬 Featured Performance</Text>
+                      <YouTubeEmbed 
+                        videoId={ranking.showcaseVideo.youtubeId} 
+                        title={ranking.showcaseVideo.title} 
+                        theme={theme} 
+                      />
+                      <Text style={[styles.articleVideoTitle, { color: theme.secondaryText }]}>
+                        {ranking.showcaseVideo.title}
+                      </Text>
+                    </View>
+                  )}
+
+                  {/* Gear Highlight */}
+                  {ranking?.gearHighlight && (
+                    <View style={styles.articleGearSection}>
+                      <Text style={[styles.articleSectionTitle, { color: theme.text }]}>🥁 Gear & Pedals</Text>
+                      <Text style={[styles.articleGearText, { color: theme.secondaryText }]}>
+                        {ranking.gearHighlight}
+                      </Text>
+                    </View>
+                  )}
+
+                  {/* Technique */}
+                  {ranking?.technique && (
+                    <View style={styles.articleTechniqueSection}>
+                      <Text style={[styles.articleSectionTitle, { color: theme.text }]}>⚡ Technique</Text>
+                      <Text style={[styles.articleTechniqueText, { color: theme.secondaryText }]}>
+                        {ranking.technique}
+                      </Text>
+                    </View>
+                  )}
+
+                  {/* Fun Facts */}
+                  {ranking?.funFacts && ranking.funFacts.length > 0 && (
+                    <View style={styles.articleFunFactsSection}>
+                      <Text style={[styles.articleSectionTitle, { color: theme.text }]}>💡 Fun Facts</Text>
+                      {ranking.funFacts.map((fact, factIndex) => (
+                        <View key={factIndex} style={styles.funFactItem}>
+                          <Text style={[styles.funFactBullet, { color: theme.primary }]}>•</Text>
+                          <Text style={[styles.funFactText, { color: theme.secondaryText }]}>{fact}</Text>
+                        </View>
+                      ))}
+                    </View>
+                  )}
+
+                  {/* Link to full profile */}
+                  <TouchableOpacity
+                    onPress={() => onSelectDrummer(drummer)}
+                    style={[styles.viewProfileButton, { backgroundColor: theme.primary }]}
+                    accessibilityRole="link"
+                    accessibilityLabel={`View ${drummer.name}'s full profile`}
+                  >
+                    <Text style={styles.viewProfileButtonText}>View Full Profile →</Text>
+                  </TouchableOpacity>
+                </View>
+              )}
+            </View>
           );
         })}
       </View>
+
+      {/* Article Conclusion (Issue #634) */}
+      {isArticle && list.conclusion && (
+        <View style={[styles.articleConclusionSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.articleConclusionTitle, { color: theme.text }]}>{list.conclusion.title}</Text>
+          <Text style={[styles.articleConclusionContent, { color: theme.secondaryText }]}>
+            {list.conclusion.content}
+          </Text>
+        </View>
+      )}
+
+      {/* Related Content Links (Issue #634) */}
+      {isArticle && list.relatedLists && list.relatedLists.length > 0 && (
+        <View style={[styles.relatedContentSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.relatedContentTitle, { color: theme.text }]}>📚 Related Rankings</Text>
+          <View style={styles.relatedContentLinks}>
+            {list.relatedLists.map((relatedSlug) => {
+              const relatedList = getTop10ListBySlug(relatedSlug);
+              if (!relatedList) return null;
+              return (
+                <TouchableOpacity
+                  key={relatedSlug}
+                  style={[styles.relatedContentLink, { borderColor: theme.border }]}
+                  onPress={() => {
+                    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                      window.history.pushState(null, '', `/lists/${relatedSlug}`);
+                      window.dispatchEvent(new PopStateEvent('popstate'));
+                    }
+                  }}
+                  accessibilityRole="link"
+                  accessibilityLabel={`View ${relatedList.title}`}
+                >
+                  <Text style={styles.relatedContentEmoji}>{relatedList.emoji}</Text>
+                  <Text style={[styles.relatedContentLinkText, { color: theme.primary }]}>
+                    {relatedList.title.replace('Top 10 ', '')}
+                  </Text>
+                </TouchableOpacity>
+              );
+            })}
+          </View>
+        </View>
+      )}
+
+      {/* Bottom Social Share (Issue #634) */}
+      {Platform.OS === 'web' && (
+        <View style={[styles.bottomShareSection, { borderTopColor: theme.border }]}>
+          <Text style={[styles.bottomShareText, { color: theme.secondaryText }]}>
+            Enjoyed this article? Share it with fellow metalheads!
+          </Text>
+          <View style={styles.socialShareContainer}>
+            <TouchableOpacity onPress={() => handleShare('twitter')} style={[styles.socialShareButton, { backgroundColor: '#1DA1F2' }]}>
+              <Text style={styles.socialShareButtonText}>𝕏</Text>
+            </TouchableOpacity>
+            <TouchableOpacity onPress={() => handleShare('facebook')} style={[styles.socialShareButton, { backgroundColor: '#4267B2' }]}>
+              <Text style={styles.socialShareButtonText}>f</Text>
+            </TouchableOpacity>
+            <TouchableOpacity onPress={() => handleShare('reddit')} style={[styles.socialShareButton, { backgroundColor: '#FF4500' }]}>
+              <Text style={styles.socialShareButtonText}>r/</Text>
+            </TouchableOpacity>
+            <TouchableOpacity onPress={() => handleShare('copy')} style={[styles.socialShareButton, { backgroundColor: theme.border }]}>
+              <Text style={[styles.socialShareButtonText, { color: theme.text }]}>🔗</Text>
+            </TouchableOpacity>
+          </View>
+        </View>
+      )}
 
       <View style={styles.inlineStyle2} />
     </ScrollView>
@@ -22532,6 +22845,236 @@ const styles = StyleSheet.create({
   topListReason: {
     fontSize: 12,
     lineHeight: 18,
+  },
+  // ==========================================
+  // TOP 10 ARTICLE STYLES (Issue #634)
+  // ==========================================
+  topListRankCardArticle: {
+    flexDirection: 'column',
+    alignItems: 'stretch',
+  },
+  topListRankCardMain: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    padding: 16,
+  },
+  socialShareContainer: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'center',
+    gap: 10,
+    marginTop: 16,
+  },
+  socialShareLabel: {
+    fontSize: 14,
+    marginRight: 4,
+  },
+  socialShareButton: {
+    width: 36,
+    height: 36,
+    borderRadius: 18,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  socialShareButtonText: {
+    color: '#fff',
+    fontWeight: '700',
+    fontSize: 16,
+  },
+  articleDate: {
+    fontSize: 13,
+    marginTop: 12,
+    fontStyle: 'italic',
+  },
+  articleIntroSection: {
+    marginHorizontal: 20,
+    marginBottom: 24,
+    padding: 20,
+    borderRadius: 12,
+    borderWidth: 1,
+  },
+  articleIntroTitle: {
+    fontSize: 22,
+    fontWeight: '700',
+    marginBottom: 16,
+  },
+  articleIntroContent: {
+    fontSize: 15,
+    lineHeight: 24,
+    whiteSpace: 'pre-line',
+  },
+  articleKeyPoints: {
+    marginTop: 20,
+    paddingTop: 16,
+    borderTopWidth: 1,
+    borderTopColor: 'rgba(255,255,255,0.1)',
+  },
+  articleKeyPointsTitle: {
+    fontSize: 16,
+    fontWeight: '600',
+    marginBottom: 12,
+  },
+  articleKeyPointItem: {
+    flexDirection: 'row',
+    alignItems: 'flex-start',
+    marginBottom: 8,
+  },
+  articleKeyPointBullet: {
+    fontSize: 16,
+    marginRight: 8,
+    fontWeight: '600',
+  },
+  articleKeyPointText: {
+    fontSize: 14,
+    lineHeight: 20,
+    flex: 1,
+  },
+  bpmBadge: {
+    alignSelf: 'flex-start',
+    paddingHorizontal: 10,
+    paddingVertical: 4,
+    borderRadius: 12,
+    marginBottom: 6,
+  },
+  bpmBadgeText: {
+    color: '#fff',
+    fontSize: 12,
+    fontWeight: '700',
+  },
+  expandButton: {
+    paddingVertical: 12,
+    paddingHorizontal: 16,
+    borderTopWidth: 1,
+    alignItems: 'center',
+  },
+  expandButtonText: {
+    fontSize: 13,
+    fontWeight: '600',
+  },
+  expandedContent: {
+    paddingHorizontal: 16,
+    paddingBottom: 16,
+    borderTopWidth: 1,
+    paddingTop: 16,
+  },
+  articleVideoSection: {
+    marginBottom: 16,
+  },
+  articleSectionTitle: {
+    fontSize: 15,
+    fontWeight: '700',
+    marginBottom: 12,
+  },
+  articleVideoTitle: {
+    fontSize: 13,
+    marginTop: 8,
+    fontStyle: 'italic',
+  },
+  articleGearSection: {
+    marginBottom: 16,
+  },
+  articleGearText: {
+    fontSize: 14,
+    lineHeight: 20,
+  },
+  articleTechniqueSection: {
+    marginBottom: 16,
+  },
+  articleTechniqueText: {
+    fontSize: 14,
+    lineHeight: 20,
+  },
+  articleFunFactsSection: {
+    marginBottom: 16,
+  },
+  funFactItem: {
+    flexDirection: 'row',
+    alignItems: 'flex-start',
+    marginBottom: 6,
+  },
+  funFactBullet: {
+    fontSize: 14,
+    marginRight: 8,
+    fontWeight: '600',
+  },
+  funFactText: {
+    fontSize: 13,
+    lineHeight: 18,
+    flex: 1,
+  },
+  viewProfileButton: {
+    paddingVertical: 12,
+    paddingHorizontal: 20,
+    borderRadius: 8,
+    alignItems: 'center',
+    marginTop: 8,
+  },
+  viewProfileButtonText: {
+    color: '#fff',
+    fontWeight: '700',
+    fontSize: 14,
+  },
+  articleConclusionSection: {
+    marginHorizontal: 20,
+    marginTop: 24,
+    padding: 20,
+    borderRadius: 12,
+    borderWidth: 1,
+  },
+  articleConclusionTitle: {
+    fontSize: 20,
+    fontWeight: '700',
+    marginBottom: 16,
+  },
+  articleConclusionContent: {
+    fontSize: 15,
+    lineHeight: 24,
+    whiteSpace: 'pre-line',
+  },
+  relatedContentSection: {
+    marginHorizontal: 20,
+    marginTop: 24,
+    padding: 20,
+    borderRadius: 12,
+    borderWidth: 1,
+  },
+  relatedContentTitle: {
+    fontSize: 18,
+    fontWeight: '700',
+    marginBottom: 16,
+  },
+  relatedContentLinks: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 12,
+  },
+  relatedContentLink: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    paddingVertical: 10,
+    paddingHorizontal: 14,
+    borderRadius: 8,
+    borderWidth: 1,
+    gap: 8,
+  },
+  relatedContentEmoji: {
+    fontSize: 18,
+  },
+  relatedContentLinkText: {
+    fontSize: 14,
+    fontWeight: '600',
+  },
+  bottomShareSection: {
+    marginHorizontal: 20,
+    marginTop: 32,
+    paddingTop: 24,
+    borderTopWidth: 1,
+    alignItems: 'center',
+  },
+  bottomShareText: {
+    fontSize: 15,
+    marginBottom: 16,
+    textAlign: 'center',
   },
   // ==========================================
   // BAND LINKS SECTION STYLES (Issue #351)

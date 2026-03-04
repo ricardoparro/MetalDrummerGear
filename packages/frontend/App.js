@@ -12622,6 +12622,33 @@ function updateListURL(slug) {
   window.history.replaceState({}, '', newPath);
 }
 
+// ==========================================
+// ARTICLE PAGES (Issue #642)
+// ==========================================
+// Article pages use /articles/:slug route for SEO-optimized content
+// These map to top10Lists entries with isArticle: true
+
+// Check if we're on an article page (/articles/:slug)
+function isArticlePage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  const pathname = window.location.pathname;
+  return pathname.startsWith('/articles/') && pathname !== '/articles/';
+}
+
+// Get article slug from URL
+function getArticleSlugFromURL() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(/^\/articles\/([a-z0-9-]+)$/);
+  return match ? match[1] : null;
+}
+
+// Update URL for article page
+function updateArticleURL(slug) {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return;
+  const newPath = slug ? `/articles/${slug}` : '/lists';
+  window.history.pushState({}, '', newPath);
+}
+
 // Check if we're on a gear page based on URL
 function getGearSlugFromURL() {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
@@ -16171,6 +16198,9 @@ function AppContent() {
   const [showGearByBudget, setShowGearByBudget] = useState(() => isGearByBudgetPage());
   const [showList, setShowList] = useState(() => isListPage());
   const [listSlug, setListSlug] = useState(() => getListSlugFromURL());
+  // Article Page state (Issue #642) - SEO-optimized articles at /articles/:slug
+  const [showArticle, setShowArticle] = useState(() => isArticlePage());
+  const [articleSlug, setArticleSlug] = useState(() => getArticleSlugFromURL());
   const [showGearFinder, setShowGearFinder] = useState(() => isGearFinderPage());
   const [selectedGear, setSelectedGear] = useState(null);
   const [loadingGear, setLoadingGear] = useState(false);
@@ -18421,6 +18451,26 @@ setShowList(false);
           onSelectDrummer={handleSelectDrummer}
           listSlug={listSlug}
           onNavigateToList={handleNavigateToList}
+        />
+      );
+    }
+    // Article Page (Issue #642) - SEO-optimized articles at /articles/:slug
+    if (showArticle && articleSlug) {
+      return (
+        <TopListPage
+          theme={theme}
+          onBack={() => {
+            setShowArticle(false);
+            setArticleSlug(null);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/');
+            }
+          }}
+          drummers={drummers}
+          onSelectDrummer={handleSelectDrummer}
+          listSlug={articleSlug}
+          onNavigateToList={handleNavigateToList}
+          isArticleRoute={true}
         />
       );
     }

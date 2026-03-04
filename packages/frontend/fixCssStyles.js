@@ -1,45 +1,51 @@
 /**
  * EMERGENCY FIX: Patch react-native-web's setValueForStyles at runtime
  * 
- * This patches the function that sets CSS styles on elements.
- * It wraps the original to skip numeric property names (0, 1, 2, etc.)
- * which cause "Failed to set indexed property" errors.
+ * Uses Proxy to intercept numeric property assignments on CSSStyleDeclaration.
+ * This fixes the "Failed to set indexed property" error in Safari/WebKit.
  */
 
 if (typeof window !== 'undefined') {
-  // Track which style objects have been patched
-  const patchedStyles = new WeakSet();
+  // Cache Proxy instances per style object
+  const proxyCache = new WeakMap();
   
-  // Patch a style object to have no-op setters for numeric properties
-  function patchStyleObject(style) {
-    if (patchedStyles.has(style)) return style;
-    
-    // Define numeric property setters that do nothing
-    for (let i = 0; i < 50; i++) {
-      const prop = String(i);
-      try {
-        Object.defineProperty(style, prop, {
-          set: function() { /* ignore */ },
-          get: function() { return this.item ? this.item(i) : ''; },
-          configurable: true,
-          enumerable: false
-        });
-      } catch (e) {
-        // Some properties might not be configurable, that's ok
-      }
-    }
-    
-    patchedStyles.add(style);
-    return style;
-  }
+  // Elements that should NOT have proxied styles (form elements)
+  const noProxyTags = new Set(['INPUT', 'TEXTAREA', 'SELECT', 'BUTTON', 'OPTION']);
   
-  // Wrap element.style getter to patch the returned style object
+  // Wrap element.style getter to return a Proxy (except for form elements)
   const originalStyleGetter = Object.getOwnPropertyDescriptor(HTMLElement.prototype, 'style');
   if (originalStyleGetter && originalStyleGetter.get) {
     Object.defineProperty(HTMLElement.prototype, 'style', {
       get: function() {
         const realStyle = originalStyleGetter.get.call(this);
-        return patchStyleObject(realStyle);
+        
+        // Don't proxy form elements - they need native style handling
+        if (noProxyTags.has(this.tagName)) {
+          return realStyle;
+        }
+        
+        // Check if we already have a proxy for this style object
+        let proxy = proxyCache.get(realStyle);
+        if (proxy) return proxy;
+        
+        // Create proxy that ignores numeric property assignments
+        proxy = new Proxy(realStyle, {
+          set(target, prop, value) {
+            // Skip numeric properties (fixes react-native-web CSS bug)
+            if (typeof prop === 'string' && /^\d+$/.test(prop)) {
+              return true;
+            }
+            target[prop] = value;
+            return true;
+          },
+          get(target, prop) {
+            const val = target[prop];
+            return typeof val === 'function' ? val.bind(target) : val;
+          }
+        });
+        
+        proxyCache.set(realStyle, proxy);
+        return proxy;
       },
       configurable: true,
     });

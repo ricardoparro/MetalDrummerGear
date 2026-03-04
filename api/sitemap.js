@@ -50,7 +50,13 @@ const top10Lists = [
   { slug: 'drummers-with-budget-friendly-kits', name: 'Top 10 Budget-Friendly Setups' },
   // Issue #630: Most Expensive Metal Drum Setups article page
   { slug: 'most-expensive-drum-setups', name: 'Top 10 Most Expensive Metal Drum Setups' },
-  // Issue #632: Fastest Double Bass Drummers article page
+  // Issue #642: Fastest Double Bass Drummers article page
+  { slug: 'fastest-double-bass-drummers', name: 'Top 10 Fastest Double Bass Drummers in Metal' },
+];
+
+// Issue #642: Article pages (SEO-optimized with /articles/:slug route)
+const articles = [
+  { slug: 'most-expensive-drum-setups', name: 'Top 10 Most Expensive Metal Drum Setups' },
   { slug: 'fastest-double-bass-drummers', name: 'Top 10 Fastest Double Bass Drummers in Metal' },
 ];
 
@@ -135,6 +141,8 @@ export default function handler(req, res) {
     { loc: '/techniques', priority: '0.9', changefreq: 'weekly' },
     ...gearCategories.map(c => ({ loc: `/gear/${c.slug}`, priority: '0.9', changefreq: 'weekly' })),
     ...top10Lists.map(l => ({ loc: `/lists/${l.slug}`, priority: '0.8', changefreq: 'monthly' })),
+    // Issue #642: Article pages for SEO-optimized content
+    ...articles.map(a => ({ loc: `/articles/${a.slug}`, priority: '0.9', changefreq: 'weekly' })),
     ...drummers.map(d => ({ loc: `/drummer/${generateSlug(d.name)}`, priority: '0.8', changefreq: 'monthly' })),
     ...gearItems.map(g => ({ loc: `/gear/item/${g.slug}`, priority: '0.7', changefreq: 'monthly' })),
     ...bandPages.map(b => ({ loc: `/band/${b.slug}`, priority: '0.8', changefreq: 'monthly' })),

@@ -17162,6 +17162,68 @@ function AppContent() {
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
+      } else if (isArticlePage()) {
+        // Article page (Issue #642) - /articles/:slug
+        const slug = getArticleSlugFromURL();
+        setShowArticle(true);
+        setArticleSlug(slug);
+        setShowList(false);
+        setListSlug(null);
+        setShowNewsPage(false);
+        setShowTechniquesIndex(false);
+        setShowTechniqueDetail(false);
+        setTechniqueSlug(null);
+        setShowGearComparisonsIndex(false);
+        setShowGearComparison(false);
+        setGearComparisonSlug(null);
+        setShowGenresList(false);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowKitBuilder(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+      } else if (isListPage()) {
+        // List page - /lists/:slug
+        const slug = getListSlugFromURL();
+        setShowList(true);
+        setListSlug(slug);
+        setShowArticle(false);
+        setArticleSlug(null);
+        setShowNewsPage(false);
+        setShowTechniquesIndex(false);
+        setShowTechniqueDetail(false);
+        setTechniqueSlug(null);
+        setShowGearComparisonsIndex(false);
+        setShowGearComparison(false);
+        setGearComparisonSlug(null);
+        setShowGenresList(false);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowKitBuilder(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
       } else {
         // Back to home page
         setShowCompare(false);
@@ -17188,6 +17250,10 @@ function AppContent() {
         setShowTechniqueDetail(false);
         setTechniqueSlug(null);
         setShowTechniquesIndex(false);
+        setShowArticle(false);
+        setArticleSlug(null);
+        setShowList(false);
+        setListSlug(null);
         setSelectedGear(null);
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
@@ -17545,6 +17611,8 @@ setShowList(false);
     setShowGearByBudget(false);
     setShowList(false);
     setListSlug(null);
+    setShowArticle(false);
+    setArticleSlug(null);
     setShowSpotlights(false);
     setShowQuiz(false);
     setShowCompare(false);

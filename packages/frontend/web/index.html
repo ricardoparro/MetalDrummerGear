@@ -298,6 +298,17 @@
         will-change: auto;
       }
       
+      /* ====================================
+         Similar Drummers Widget Hover Effects (Issue #643)
+         ==================================== */
+      .similar-drummer-link > div {
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+      }
+      .similar-drummer-link:hover > div {
+        transform: translateY(-4px);
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+      }
+      
       /* Defer animations until after LCP */
       @media (prefers-reduced-motion: no-preference) {
         .animate-after-lcp {

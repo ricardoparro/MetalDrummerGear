@@ -3568,128 +3568,92 @@ function GearTimeline({ timeline, drummerName, theme }) {
 }
 
 // ==========================================
-// SIMILAR DRUMMERS - Helper Functions & Component (Issue #157)
+// SIMILAR DRUMMERS - Helper Functions & Component (Issue #157, #643)
 // ==========================================
+// Updated scoring algorithm per Issue #643:
+// - Same primary genre: +3 points
+// - Overlapping gear brands: +2 per match
+// - Similar playing style tags: +2 per match
+// - Band connections: +1 per match
 
-// Extract drum brand from gear description
-function extractDrumBrand(gearDescription) {
-  if (!gearDescription) return null;
-  const brands = ['Tama', 'Pearl', 'DW', 'Sonor', 'Mapex', 'ddrum', 'SJC', 'OCDP', 'Ludwig', 'Gretsch', 'Yamaha'];
-  const lowerDesc = gearDescription.toLowerCase();
-  for (const brand of brands) {
-    if (lowerDesc.includes(brand.toLowerCase())) {
-      return brand;
+// Extract all gear brands from a drummer's gear setup
+function extractAllGearBrands(gear) {
+  if (!gear) return [];
+  const brands = [];
+  const allBrands = ['Tama', 'Pearl', 'DW', 'Sonor', 'Mapex', 'ddrum', 'SJC', 'OCDP', 'Ludwig', 'Gretsch', 'Yamaha',
+                     'Zildjian', 'Sabian', 'Meinl', 'Paiste', 'Vic Firth', 'Promark', 'Ahead', 'Vater', 'Remo', 'Evans'];
+  
+  const gearText = [gear.drums, gear.snare, gear.cymbals, gear.hardware, gear.sticks, gear.heads]
+    .filter(Boolean)
+    .join(' ')
+    .toLowerCase();
+  
+  for (const brand of allBrands) {
+    if (gearText.includes(brand.toLowerCase())) {
+      brands.push(brand);
     }
   }
-  return null;
+  return [...new Set(brands)]; // Remove duplicates
 }
 
-// Extract cymbal brand from gear description
-function extractCymbalBrand(gearDescription) {
-  if (!gearDescription) return null;
-  const brands = ['Zildjian', 'Sabian', 'Meinl', 'Paiste'];
-  const lowerDesc = gearDescription.toLowerCase();
-  for (const brand of brands) {
-    if (lowerDesc.includes(brand.toLowerCase())) {
-      return brand;
-    }
+// Extract playing style tags from genre string (e.g., "Thrash Metal" -> ["thrash", "metal"])
+function extractStyleTags(genre) {
+  if (!genre) return [];
+  // Normalize and split genre into style tags
+  const normalized = genre.toLowerCase()
+    .replace(/[\/\-]/g, ' ')  // Replace / and - with spaces
+    .replace(/[^a-z\s]/g, '') // Remove non-alpha chars
+    .split(/\s+/)
+    .filter(tag => tag.length > 2); // Filter out short words
+  return [...new Set(normalized)];
+}
+
+// Get band names for a drummer (from bands array or primary band)
+function getDrummerBands(drummer) {
+  const bands = [];
+  if (drummer.bands && Array.isArray(drummer.bands)) {
+    drummer.bands.forEach(b => {
+      if (b.name) bands.push(b.name.toLowerCase());
+    });
   }
-  return null;
+  if (drummer.band) {
+    bands.push(drummer.band.toLowerCase());
+  }
+  return [...new Set(bands)];
 }
 
-// Get era decade from the drummer's era field
-function getEraPeriod(era) {
-  if (!era) return null;
-  const lowerEra = era.toLowerCase();
-  if (lowerEra.includes('80')) return '80s';
-  if (lowerEra.includes('90')) return '90s';
-  if (lowerEra.includes('2000') || lowerEra.includes('00s')) return '2000s';
-  if (lowerEra.includes('2010') || lowerEra.includes('10s')) return '2010s';
-  if (lowerEra.includes('current') || lowerEra.includes('2020')) return '2020s';
-  return era;
-}
-
-// Calculate similarity score between two drummers
+// Calculate similarity score between two drummers (Issue #643 algorithm)
 function calculateDrummerSimilarity(drummer1, drummer2) {
   if (!drummer1 || !drummer2 || drummer1.id === drummer2.id) return 0;
   
   let score = 0;
-  const weights = {
-    primaryGenre: 40,      // Highest weight for primary genre match
-    secondaryGenre: 20,    // Secondary genre overlap
-    drumBrand: 15,         // Same drum kit brand
-    cymbalBrand: 10,       // Same cymbal brand
-    era: 15,               // Same era/generation
-  };
   
-  // Get genres (from genres array or genre field)
-  const genres1 = drummer1.genres || (drummer1.genre ? [drummer1.genre] : []);
-  const genres2 = drummer2.genres || (drummer2.genre ? [drummer2.genre] : []);
-  
-  // Primary genre match (first genre in array)
-  if (genres1.length > 0 && genres2.length > 0) {
-    if (genres1[0] === genres2[0]) {
-      score += weights.primaryGenre;
-    } else {
-      // Partial match for related genres (using short codes like 'thrash', 'death', etc.)
-      const relatedGenres = {
-        'thrash': ['groove', 'death'],
-        'death': ['thrash', 'black', 'progressive'],
-        'black': ['death'],
-        'progressive': ['metalcore', 'death'],
-        'nu-metal': ['groove', 'metalcore'],
-        'groove': ['thrash', 'nu-metal'],
-        'metalcore': ['progressive', 'nu-metal'],
-        'hardcore': ['metalcore', 'thrash'],
-      };
-      const related = relatedGenres[genres1[0]] || [];
-      if (related.includes(genres2[0])) {
-        score += weights.primaryGenre * 0.5;
-      }
-    }
+  // 1. Same primary genre: +3 points
+  const genre1 = (drummer1.genres?.[0] || drummer1.genre || '').toLowerCase();
+  const genre2 = (drummer2.genres?.[0] || drummer2.genre || '').toLowerCase();
+  if (genre1 && genre2 && genre1 === genre2) {
+    score += 3;
   }
   
-  // Secondary genre overlap
-  if (genres1.length > 1 && genres2.length > 1) {
-    const secondaryOverlap = genres1.slice(1).some(g => genres2.includes(g)) ||
-                             genres2.slice(1).some(g => genres1.includes(g));
-    if (secondaryOverlap) {
-      score += weights.secondaryGenre;
-    }
-  }
+  // 2. Overlapping gear brands: +2 per match
+  const brands1 = extractAllGearBrands(drummer1.gear);
+  const brands2 = extractAllGearBrands(drummer2.gear);
+  const brandMatches = brands1.filter(b => brands2.includes(b)).length;
+  score += brandMatches * 2;
   
-  // Drum brand match
-  const drumBrand1 = extractDrumBrand(drummer1.gear?.drums);
-  const drumBrand2 = extractDrumBrand(drummer2.gear?.drums);
-  if (drumBrand1 && drumBrand2 && drumBrand1 === drumBrand2) {
-    score += weights.drumBrand;
-  }
+  // 3. Similar playing style tags: +2 per match
+  const styles1 = extractStyleTags(drummer1.genre);
+  const styles2 = extractStyleTags(drummer2.genre);
+  const styleMatches = styles1.filter(s => styles2.includes(s)).length;
+  score += styleMatches * 2;
   
-  // Cymbal brand match
-  const cymbalBrand1 = extractCymbalBrand(drummer1.gear?.cymbals);
-  const cymbalBrand2 = extractCymbalBrand(drummer2.gear?.cymbals);
-  if (cymbalBrand1 && cymbalBrand2 && cymbalBrand1 === cymbalBrand2) {
-    score += weights.cymbalBrand;
-  }
+  // 4. Band connections: +1 per match
+  const bands1List = getDrummerBands(drummer1);
+  const bands2List = getDrummerBands(drummer2);
+  const bandMatches = bands1List.filter(b => bands2List.includes(b)).length;
+  score += bandMatches * 1;
   
-  // Era match
-  const era1 = getEraPeriod(drummer1.era);
-  const era2 = getEraPeriod(drummer2.era);
-  if (era1 && era2) {
-    if (era1 === era2) {
-      score += weights.era;
-    } else {
-      // Adjacent eras get partial score
-      const eraOrder = ['80s', '90s', '2000s', '2010s', '2020s'];
-      const idx1 = eraOrder.indexOf(era1);
-      const idx2 = eraOrder.indexOf(era2);
-      if (idx1 >= 0 && idx2 >= 0 && Math.abs(idx1 - idx2) === 1) {
-        score += weights.era * 0.5;
-      }
-    }
-  }
-  
-  return Math.round(score);
+  return score;
 }
 
 // Get similar drummers sorted by similarity score
@@ -3731,7 +3695,12 @@ function getStandoutGear(drummer) {
   return null;
 }
 
-// Similar Drummers Section Component
+// Similar Drummers Widget Component (Issue #643)
+// - Title: "Similar Drummers You Might Like"
+// - Responsive grid: 2x2 mobile, 4x1 desktop
+// - 150x150 drummer photos
+// - GA4 tracking: similar_drummer_click
+// - Explore More CTA linking to /drummers
 function SimilarDrummersSection({ drummer, allDrummers, theme, onSelectDrummer }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
@@ -3744,26 +3713,43 @@ function SimilarDrummersSection({ drummer, allDrummers, theme, onSelectDrummer }
     return null;
   }
   
+  // GA4 tracking for similar drummer clicks (Issue #643)
+  const trackSimilarDrummerClick = (targetDrummer, sourceDrummer) => {
+    if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
+      window.gtag('event', 'similar_drummer_click', {
+        source_drummer: sourceDrummer.name,
+        target_drummer: targetDrummer.name,
+        source_genre: sourceDrummer.genre,
+        target_genre: targetDrummer.genre,
+      });
+    }
+  };
+  
   const handleDrummerPress = (targetDrummer) => {
+    trackSimilarDrummerClick(targetDrummer, drummer);
     if (onSelectDrummer) {
       // Pass the full drummer object instead of just ID to avoid lookup issues
       onSelectDrummer(targetDrummer);
     }
   };
   
+  const handleExploreMore = () => {
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/drummers');
+      window.dispatchEvent(new PopStateEvent('popstate'));
+    }
+  };
+  
   return (
     <View style={[styles.section, styles.similarDrummersSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
       <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">
-        🎯 Similar Drummers
-      </Text>
-      <Text style={[styles.similarDrummersSubtitle, { color: theme.secondaryText }]}>
-        Drummers with similar style, genre, or gear preferences
+        Similar Drummers You Might Like
       </Text>
       
       <View style={[styles.similarDrummersGrid, isMobile && styles.similarDrummersGridMobile]}>
-        {similarDrummers.map(({ drummer: similarDrummer, similarity }) => {
-          const standoutGear = getStandoutGear(similarDrummer);
+        {similarDrummers.map(({ drummer: similarDrummer }) => {
           const genres = similarDrummer.genres || (similarDrummer.genre ? [similarDrummer.genre] : []);
+          const primaryGenre = genres[0] || '';
           
           if (Platform.OS === 'web') {
             const drummerUrl = `/drummer/${toSlug(similarDrummer.name)}`;
@@ -3775,44 +3761,28 @@ function SimilarDrummersSection({ drummer, allDrummers, theme, onSelectDrummer }
                   e.preventDefault();
                   handleDrummerPress(similarDrummer);
                 }}
+                className="similar-drummer-link"
                 style={{
                   textDecoration: 'none',
                   display: 'block',
-                  width: isMobile ? '100%' : '48%',
+                  width: isMobile ? '48%' : '23%',
                 }}
               >
-                <View style={[styles.similarDrummerCard, { backgroundColor: theme.background, borderColor: theme.border }]}>
+                <View style={[styles.similarDrummerCardV2, { backgroundColor: theme.background, borderColor: theme.border }]}>
                   <ImageWithFallback
                     source={{ uri: similarDrummer.image }}
-                    style={styles.similarDrummerImage}
+                    style={styles.similarDrummerImageV2}
                     accessibilityLabel={`Photo of ${similarDrummer.name}`}
-                    width={60}
-                    height={60}
-                    imageContext="thumbnail"
+                    width={150}
+                    height={150}
+                    imageContext="card"
                   />
-                  <View style={styles.similarDrummerInfo}>
-                    <Text style={[styles.similarDrummerName, { color: theme.text }]} numberOfLines={1}>
+                  <View style={styles.similarDrummerInfoV2}>
+                    <Text style={[styles.similarDrummerNameV2, { color: theme.text }]} numberOfLines={1}>
                       {similarDrummer.name}
                     </Text>
-                    <Text style={[styles.similarDrummerBand, { color: theme.secondaryText }]} numberOfLines={1}>
-                      {similarDrummer.band}
-                    </Text>
-                    {genres.length > 0 && (
-                      <View style={styles.similarDrummerGenres}>
-                        {genres.slice(0, 2).map((genre, idx) => (
-                          <GenreTag key={idx} genre={genre} size="small" />
-                        ))}
-                      </View>
-                    )}
-                    {standoutGear && (
-                      <Text style={[styles.similarDrummerGear, { color: theme.secondaryText }]} numberOfLines={1}>
-                        🥁 {standoutGear}
-                      </Text>
-                    )}
-                  </View>
-                  <View style={[styles.similarityBadge, { backgroundColor: theme.border }]}>
-                    <Text style={[styles.similarityText, { color: theme.text }]}>
-                      {similarity}%
+                    <Text style={[styles.similarDrummerMeta, { color: theme.secondaryText }]} numberOfLines={1}>
+                      {primaryGenre}{primaryGenre && similarDrummer.band ? ' • ' : ''}{similarDrummer.band}
                     </Text>
                   </View>
                 </View>
@@ -3824,47 +3794,59 @@ function SimilarDrummersSection({ drummer, allDrummers, theme, onSelectDrummer }
             <TouchableOpacity
               key={similarDrummer.id}
               onPress={() => handleDrummerPress(similarDrummer)}
-              style={[styles.similarDrummerCard, { backgroundColor: theme.background, borderColor: theme.border }, isMobile && styles.similarDrummerCardMobile]}
+              style={[styles.similarDrummerCardV2, { backgroundColor: theme.background, borderColor: theme.border }, isMobile && styles.similarDrummerCardV2Mobile]}
               accessibilityRole="button"
               accessibilityLabel={`View ${similarDrummer.name}'s profile`}
             >
               <ImageWithFallback
                 source={{ uri: similarDrummer.image }}
-                style={styles.similarDrummerImage}
+                style={styles.similarDrummerImageV2}
                 accessibilityLabel={`Photo of ${similarDrummer.name}`}
-                width={60}
-                height={60}
-                imageContext="thumbnail"
+                width={150}
+                height={150}
+                imageContext="card"
               />
-              <View style={styles.similarDrummerInfo}>
-                <Text style={[styles.similarDrummerName, { color: theme.text }]} numberOfLines={1}>
+              <View style={styles.similarDrummerInfoV2}>
+                <Text style={[styles.similarDrummerNameV2, { color: theme.text }]} numberOfLines={1}>
                   {similarDrummer.name}
                 </Text>
-                <Text style={[styles.similarDrummerBand, { color: theme.secondaryText }]} numberOfLines={1}>
-                  {similarDrummer.band}
-                </Text>
-                {genres.length > 0 && (
-                  <View style={styles.similarDrummerGenres}>
-                    {genres.slice(0, 2).map((genre, idx) => (
-                      <GenreTag key={idx} genre={genre} size="small" />
-                    ))}
-                  </View>
-                )}
-                {standoutGear && (
-                  <Text style={[styles.similarDrummerGear, { color: theme.secondaryText }]} numberOfLines={1}>
-                    🥁 {standoutGear}
-                  </Text>
-                )}
-              </View>
-              <View style={[styles.similarityBadge, { backgroundColor: theme.border }]}>
-                <Text style={[styles.similarityText, { color: theme.text }]}>
-                  {similarity}%
+                <Text style={[styles.similarDrummerMeta, { color: theme.secondaryText }]} numberOfLines={1}>
+                  {primaryGenre}{primaryGenre && similarDrummer.band ? ' • ' : ''}{similarDrummer.band}
                 </Text>
               </View>
             </TouchableOpacity>
           );
         })}
       </View>
+      
+      {/* Explore More CTA */}
+      {Platform.OS === 'web' ? (
+        <a
+          href="/drummers"
+          onClick={(e) => {
+            e.preventDefault();
+            handleExploreMore();
+          }}
+          style={{ textDecoration: 'none', alignSelf: 'center', marginTop: 16 }}
+        >
+          <View style={[styles.exploreMoreButton, { borderColor: theme.primary }]}>
+            <Text style={[styles.exploreMoreText, { color: theme.primary }]}>
+              Explore More Drummers →
+            </Text>
+          </View>
+        </a>
+      ) : (
+        <TouchableOpacity
+          onPress={handleExploreMore}
+          style={[styles.exploreMoreButton, { borderColor: theme.primary }]}
+          accessibilityRole="link"
+          accessibilityLabel="Explore more drummers"
+        >
+          <Text style={[styles.exploreMoreText, { color: theme.primary }]}>
+            Explore More Drummers →
+          </Text>
+        </TouchableOpacity>
+      )}
     </View>
   );
 }
@@ -22873,9 +22855,13 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     flexWrap: 'wrap',
     gap: 12,
+    justifyContent: 'space-between',
   },
   similarDrummersGridMobile: {
-    flexDirection: 'column',
+    // 2x2 grid on mobile (Issue #643)
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 8,
   },
   similarDrummerCard: {
     width: '48%',
@@ -22932,6 +22918,53 @@ const styles = StyleSheet.create({
   similarityText: {
     fontSize: 11,
     fontWeight: '600',
+  },
+
+  // Similar Drummers Widget V2 Styles (Issue #643)
+  // Redesigned for better UX: 150x150 photos, responsive 2x2/4x1 grid, hover effects
+  similarDrummerCardV2: {
+    padding: 12,
+    borderRadius: 12,
+    borderWidth: 1,
+    alignItems: 'center',
+    transition: 'transform 0.2s ease, box-shadow 0.2s ease',
+  },
+  similarDrummerCardV2Mobile: {
+    width: '48%',
+  },
+  similarDrummerImageV2: {
+    width: 150,
+    height: 150,
+    borderRadius: 8,
+    marginBottom: 12,
+    aspectRatio: 1, // Prevent CLS
+  },
+  similarDrummerInfoV2: {
+    alignItems: 'center',
+    width: '100%',
+  },
+  similarDrummerNameV2: {
+    fontSize: 14,
+    fontWeight: '600',
+    textAlign: 'center',
+    marginBottom: 4,
+  },
+  similarDrummerMeta: {
+    fontSize: 12,
+    textAlign: 'center',
+  },
+  exploreMoreButton: {
+    paddingVertical: 12,
+    paddingHorizontal: 24,
+    borderRadius: 8,
+    borderWidth: 1,
+    alignItems: 'center',
+    marginTop: 16,
+    alignSelf: 'center',
+  },
+  exploreMoreText: {
+    fontSize: 14,
+    fontWeight: '500',
   },
 
   // Gear Finder Page Styles (Issue #156)

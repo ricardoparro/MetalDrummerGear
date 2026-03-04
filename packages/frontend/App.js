@@ -3943,7 +3943,20 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
   const drummerSlug = toSlug(drummer.name);
-  const hasBio = hasExtendedBio(drummerSlug);
+  
+  // Fix for Issue #640: Wait for extended bios module to load before checking
+  // Similar fix as #541 - prevents race condition where module isn't loaded yet
+  const [hasBio, setHasBio] = useState(false);
+  
+  useEffect(() => {
+    let mounted = true;
+    preloadExtendedBios().then(() => {
+      if (mounted) {
+        setHasBio(hasExtendedBio(drummerSlug));
+      }
+    });
+    return () => { mounted = false; };
+  }, [drummerSlug]);
 
   const handleEndorsementPress = (url) => {
     Linking.openURL(url);

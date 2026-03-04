@@ -1592,26 +1592,59 @@ function SearchBar({ value, onChange, onFocus, onClear, suggestions, onSelectSug
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
 
+  // Use native HTML input on web to avoid react-native-web Proxy issues
+  const renderInput = () => {
+    if (Platform.OS === 'web') {
+      return (
+        <input
+          ref={inputRef}
+          type="text"
+          value={value}
+          onChange={(e) => onChange(e.target.value)}
+          onFocus={onFocus}
+          placeholder="Search drummers, bands, gear..."
+          aria-label="Search drummers by name, band, or gear brand"
+          autoCapitalize="off"
+          autoCorrect="off"
+          autoComplete="off"
+          style={{
+            flex: 1,
+            fontSize: 16,
+            height: '100%',
+            border: 'none',
+            outline: 'none',
+            background: 'transparent',
+            color: theme.text,
+            fontFamily: 'inherit',
+          }}
+        />
+      );
+    }
+    // Fallback to TextInput for native platforms
+    return (
+      <TextInput
+        ref={inputRef}
+        style={[styles.searchInput, { color: theme.text }]}
+        placeholder="Search drummers, bands, gear..."
+        placeholderTextColor={theme.secondaryText}
+        value={value}
+        onChangeText={onChange}
+        onFocus={onFocus}
+        accessibilityLabel="Search drummers by name, band, or gear brand"
+        inputMode="text"
+        enterKeyHint="search"
+        autoCapitalize="none"
+        autoCorrect={false}
+        autoComplete="off"
+      />
+    );
+  };
+
   return (
     <View style={styles.searchContainer}>
       <View style={[styles.searchInputWrapper, { backgroundColor: theme.card, borderColor: theme.border }]}>
         <Text style={[styles.searchIcon, { color: theme.secondaryText }]}>🔍</Text>
-        <TextInput
-          ref={inputRef}
-          style={[styles.searchInput, { color: theme.text }]}
-          placeholder="Search drummers, bands, gear..."
-          placeholderTextColor={theme.secondaryText}
-          value={value}
-          onChangeText={onChange}
-          onFocus={onFocus}
-          accessibilityLabel="Search drummers by name, band, or gear brand"
-          // Mobile keyboard fix (Issue #469): iOS Safari requires explicit input mode
-          inputMode="text"
-          enterKeyHint="search"
-          autoCapitalize="none"
-          autoCorrect={false}
-          autoComplete="off"
-        />
+        {renderInput()}
         {value ? (
           <TouchableOpacity onPress={onClear} style={styles.searchClearButton}>
             <Text style={[styles.searchClearText, { color: theme.secondaryText }]}>✕</Text>

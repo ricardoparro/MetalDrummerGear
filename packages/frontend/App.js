@@ -907,6 +907,153 @@ function BandLinksSection({ bandLinks, bandName, theme }) {
 }
 
 // ==========================================
+// MOST POPULAR GEAR SECTION - Issue #640
+// Shows aggregated gear usage across all drummers
+// ==========================================
+
+function MostPopularGear({ theme, onSelectDrummer }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const [popularGear, setPopularGear] = useState(null);
+  const [isLoading, setIsLoading] = useState(true);
+  const [error, setError] = useState(null);
+
+  // Fetch popular gear data
+  useEffect(() => {
+    const fetchPopularGear = async () => {
+      try {
+        const apiUrl = typeof window !== 'undefined' && window.location.hostname !== 'localhost'
+          ? '/api/gear/popular'
+          : 'http://localhost:3001/api/gear/popular';
+        const response = await fetch(apiUrl);
+        if (!response.ok) throw new Error('Failed to fetch popular gear');
+        const data = await response.json();
+        setPopularGear(data);
+      } catch (err) {
+        console.error('Error fetching popular gear:', err);
+        setError(err.message);
+      } finally {
+        setIsLoading(false);
+      }
+    };
+    fetchPopularGear();
+  }, []);
+
+  // Handle drummer click
+  const handleDrummerPress = (drummer) => {
+    if (onSelectDrummer && drummer.id) {
+      onSelectDrummer(drummer.id);
+    }
+  };
+
+  // Navigate to gear category
+  const handleGearPress = (category, gearName) => {
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      const slug = gearName.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+      window.history.pushState(null, '', `/gear/${category}?q=${encodeURIComponent(gearName)}`);
+      window.dispatchEvent(new PopStateEvent('popstate'));
+    }
+  };
+
+  // Don't render while loading or on error
+  if (isLoading || error || !popularGear) {
+    return null;
+  }
+
+  const categories = [
+    { key: 'kits', title: '🥁 Popular Kits', data: popularGear.kits, category: 'drums' },
+    { key: 'cymbals', title: '🔔 Popular Cymbals', data: popularGear.cymbals, category: 'cymbals' },
+    { key: 'snares', title: '🪘 Popular Snares', data: popularGear.snares, category: 'snares' }
+  ];
+
+  return (
+    <View 
+      style={[styles.popularGearSection, { backgroundColor: 'transparent' }]}
+      accessibilityRole="region"
+      accessibilityLabel="Most Popular Gear"
+    >
+      <View style={styles.popularGearHeader}>
+        <Text style={[styles.popularGearTitle, { color: theme.text }]} accessibilityRole="header">
+          🔥 Most Popular Gear
+        </Text>
+        <Text style={[styles.popularGearSubtitle, { color: theme.secondaryText }]}>
+          Top gear used by metal drummers
+        </Text>
+      </View>
+      
+      <View style={[styles.popularGearGrid, isMobile && styles.popularGearGridMobile]}>
+        {categories.map(({ key, title, data, category }) => (
+          <View 
+            key={key} 
+            style={[styles.popularGearColumn, isMobile && styles.popularGearColumnMobile]}
+          >
+            <Text style={[styles.popularGearColumnTitle, { color: theme.text }]}>
+              {title}
+            </Text>
+            <View style={styles.popularGearList}>
+              {data.slice(0, 5).map((item, index) => (
+                <View 
+                  key={`${key}-${index}`}
+                  style={[styles.popularGearItem, { backgroundColor: theme.card, borderColor: theme.border }]}
+                >
+                  <View style={styles.popularGearItemContent}>
+                    <Text style={[styles.popularGearRank, { color: theme.primary }]}>
+                      #{index + 1}
+                    </Text>
+                    <View style={styles.popularGearInfo}>
+                      <Text 
+                        style={[styles.popularGearName, { color: theme.text }]} 
+                        numberOfLines={2}
+                      >
+                        {item.name}
+                      </Text>
+                      <Text style={[styles.popularGearCount, { color: theme.secondaryText }]}>
+                        Used by {item.count} drummer{item.count !== 1 ? 's' : ''}
+                      </Text>
+                      {/* Drummer avatars */}
+                      <View style={styles.popularGearAvatars}>
+                        {item.drummers.slice(0, 4).map((drummer, dIndex) => (
+                          <TouchableOpacity
+                            key={drummer.id}
+                            onPress={() => handleDrummerPress(drummer)}
+                            accessibilityRole="button"
+                            accessibilityLabel={`View ${drummer.name}'s profile`}
+                            style={[
+                              styles.popularGearAvatar,
+                              { marginLeft: dIndex > 0 ? -8 : 0, zIndex: 4 - dIndex }
+                            ]}
+                          >
+                            <ImageWithFallback
+                              source={{ uri: drummer.image }}
+                              style={styles.popularGearAvatarImage}
+                              accessibilityLabel={drummer.name}
+                              width={28}
+                              height={28}
+                              imageContext="thumbnail"
+                            />
+                          </TouchableOpacity>
+                        ))}
+                        {item.drummers.length > 4 && (
+                          <View style={[styles.popularGearAvatarMore, { backgroundColor: theme.border }]}>
+                            <Text style={[styles.popularGearAvatarMoreText, { color: theme.text }]}>
+                              +{item.drummers.length - 4}
+                            </Text>
+                          </View>
+                        )}
+                      </View>
+                    </View>
+                  </View>
+                </View>
+              ))}
+            </View>
+          </View>
+        ))}
+      </View>
+    </View>
+  );
+}
+
+// ==========================================
 // TOP LISTS SECTION - Horizontal scroll on homepage
 // ==========================================
 
@@ -12232,6 +12379,9 @@ function DrummerList({
       {/* Top 10 Lists Section */}
       <TopListsSection theme={theme} onNavigateToList={onNavigateToList} />
       
+      {/* Most Popular Gear Section (Issue #640) */}
+      <MostPopularGear theme={theme} onSelectDrummer={onSelectDrummer} />
+      
       {/* Featured Drummers Section Header (Issue #496) */}
       {!showAllDrummers && !searchValue && !filters.genre && !filters.brand && (
         <View style={styles.featuredSection}>
@@ -22898,6 +23048,103 @@ const styles = StyleSheet.create({
   },
   topListCardCount: {
     fontSize: 12,
+  },
+  // Most Popular Gear Section styles (Issue #640)
+  popularGearSection: {
+    marginVertical: 24,
+    paddingHorizontal: 20,
+  },
+  popularGearHeader: {
+    marginBottom: 16,
+  },
+  popularGearTitle: {
+    fontSize: 24,
+    fontWeight: '700',
+    marginBottom: 4,
+  },
+  popularGearSubtitle: {
+    fontSize: 14,
+  },
+  popularGearGrid: {
+    flexDirection: 'row',
+    gap: 16,
+  },
+  popularGearGridMobile: {
+    flexDirection: 'column',
+    gap: 24,
+  },
+  popularGearColumn: {
+    flex: 1,
+  },
+  popularGearColumnMobile: {
+    flex: 'none',
+    width: '100%',
+  },
+  popularGearColumnTitle: {
+    fontSize: 16,
+    fontWeight: '600',
+    marginBottom: 12,
+  },
+  popularGearList: {
+    gap: 8,
+  },
+  popularGearItem: {
+    padding: 12,
+    borderRadius: 8,
+    borderWidth: 1,
+  },
+  popularGearItemContent: {
+    flexDirection: 'row',
+    alignItems: 'flex-start',
+    gap: 10,
+  },
+  popularGearRank: {
+    fontSize: 16,
+    fontWeight: '700',
+    width: 28,
+  },
+  popularGearInfo: {
+    flex: 1,
+  },
+  popularGearName: {
+    fontSize: 14,
+    fontWeight: '600',
+    marginBottom: 4,
+  },
+  popularGearCount: {
+    fontSize: 12,
+    marginBottom: 8,
+  },
+  popularGearAvatars: {
+    flexDirection: 'row',
+    alignItems: 'center',
+  },
+  popularGearAvatar: {
+    width: 28,
+    height: 28,
+    borderRadius: 14,
+    borderWidth: 2,
+    borderColor: '#1a1a1a',
+    overflow: 'hidden',
+  },
+  popularGearAvatarImage: {
+    width: 28,
+    height: 28,
+    borderRadius: 14,
+  },
+  popularGearAvatarMore: {
+    width: 28,
+    height: 28,
+    borderRadius: 14,
+    alignItems: 'center',
+    justifyContent: 'center',
+    marginLeft: -8,
+    borderWidth: 2,
+    borderColor: '#1a1a1a',
+  },
+  popularGearAvatarMoreText: {
+    fontSize: 10,
+    fontWeight: '600',
   },
   // Top List Page styles
   topListPageHeader: {

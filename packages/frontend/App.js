@@ -1604,6 +1604,8 @@ function SearchBar({ value, onChange, onFocus, onClear, suggestions, onSelectSug
           onFocus={onFocus}
           placeholder="Search drummers, bands, gear..."
           aria-label="Search drummers by name, band, or gear brand"
+          inputMode="text"
+          enterKeyHint="search"
           autoCapitalize="off"
           autoCorrect="off"
           autoComplete="off"
@@ -1611,11 +1613,15 @@ function SearchBar({ value, onChange, onFocus, onClear, suggestions, onSelectSug
             flex: 1,
             fontSize: 16,
             height: '100%',
+            minHeight: 44,
             border: 'none',
             outline: 'none',
             background: 'transparent',
             color: theme.text,
             fontFamily: 'inherit',
+            WebkitAppearance: 'none',
+            WebkitTapHighlightColor: 'transparent',
+            touchAction: 'manipulation',
           }}
         />
       );

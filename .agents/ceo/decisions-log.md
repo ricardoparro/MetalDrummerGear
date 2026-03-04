@@ -136,7 +136,41 @@ Mario Duplantier, Tomas Haake, Gene Hoglan, Brann Dailor, Chris Adler, Jay Weinb
 
 **Decision:** Create article series. Start with "Fastest Double Bass."
 
-**Outcome:** Issue #632 created for Ralph.
+**Outcome:** Issue #642 created for Ralph (2026-03-04).
+
+---
+
+## 2026-03-04 17:00 — Engagement + Discovery Features
+
+### Decision: Add "Similar Drummers" Recommendation Widget (CEO-004)
+
+**Context:**
+- Issues #642 (Fastest Double Bass article) in progress
+- Content pipeline healthy (2 articles queued)
+- Need to focus on engagement metrics (pages per session, bounce rate)
+- Users currently have limited discovery pathways
+
+**Reasoning:**
+- **Impact Timeline Score: 6⭐** (Curto: ⭐⭐⭐, Médio: ⭐⭐, Longo: ⭐)
+- Immediate impact on key metrics (bounce rate, session depth)
+- Creates discovery loops (users find more drummers organically)
+- Improves internal linking (SEO benefit)
+- Low complexity — algorithmic recommendations based on existing data
+- No external blockers
+
+**Alternatives Considered:**
+1. Continue article series → Already have 2 queued, need UX balance
+2. Add user reviews → Requires moderation system
+3. Gear comparison tool → More complex, needs design work
+
+**Content vs. Engagement Balance:**
+- Have strong content momentum (3 articles total)
+- Need to maximize value from existing traffic
+- Similar drummers = multiplier effect on content investment
+
+**Decision:** Build recommendation system. Increases value of every drummer page.
+
+**Outcome:** Issue #643 created for Ralph (2026-03-04).
 
 ---
 

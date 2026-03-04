@@ -28,7 +28,54 @@
 
 ## 📥 Novas Ideias
 
-### 💡 [CEO-003] "Top 10 Fastest Double Bass Drummers in Metal" Article
+### 💡 [CEO-004] Add "Similar Drummers" Recommendation Widget
+
+**Origem:** UX analysis — Need to increase pages per session + reduce bounce rate
+
+**Hipótese:** Se adicionarmos uma secção "Similar Drummers You Might Like" em cada perfil então:
+- Aumentamos pageviews per session (users descobrem mais drummers)
+- Reduzimos bounce rate (incentivo para explorar)
+- Aumentamos tempo de sessão (mais páginas = mais tempo)
+- Criamos discovery pathways (users encontram drummers novos)
+- Melhoramos SEO (internal linking + user engagement signals)
+
+**Impacto Curto (1-7d):** ⭐⭐⭐ (Immediate engagement boost)
+**Impacto Médio (1-3m):** ⭐⭐ (Sustained session depth)
+**Impacto Longo (3-12m):** ⭐ (Foundational UX improvement)
+**Score Total:** 6⭐
+
+**Algoritmo de similaridade:**
+1. Same primary genre (+3 points)
+2. Overlapping gear brands (+2 per match)
+3. Similar playing style tags (+2 per match)
+4. Same band connections (+1)
+5. Show top 4 matches
+
+**Implementação:**
+- Widget no final de cada drummer profile
+- Card layout com photo + name + 1-line bio
+- "Explore More" CTA
+- Track clicks in GA4
+
+**Métrica de sucesso:**
+- Pages per session aumenta 15%
+- Bounce rate diminui 10%
+- 25% dos users clicam em pelo menos 1 suggestion
+- Average session duration +30 segundos
+
+**Decisão:** IMPLEMENTAR ✅
+
+**Data:** 2026-03-04 17:00
+
+<!-- CEO adiciona novas ideias aqui -->
+
+
+
+---
+
+## ✅ Aprovadas (Em Implementação)
+
+### 💡 [CEO-003] "Top 10 Fastest Double Bass Drummers in Metal" Article → Issue #642 ✅
 
 **Origem:** Content marketing momentum — Build on success of "expensive setups" pattern
 
@@ -45,14 +92,6 @@
 **Impacto Longo (3-12m):** ⭐⭐ (Evergreen ranking)
 **Score Total:** 7⭐
 
-**Conteúdo:**
-- Top 10 ranking com BPM estimates/records
-- Video clips mostrando speed
-- Gear breakdown (pedals, técnica)
-- Fun facts (records, famosos solos)
-- Links para perfis completos
-- Schema markup Article
-
 **Métrica de sucesso:**
 - 300+ page views primeira semana
 - 15+ social shares
@@ -61,15 +100,9 @@
 
 **Decisão:** IMPLEMENTAR ✅
 
-**Data:** 2026-03-02 17:00
+**Issue:** https://github.com/ricardoparro/MetalDrummerGear/issues/642
 
-<!-- CEO adiciona novas ideias aqui -->
-
-
-
----
-
-## ✅ Aprovadas (Em Implementação)
+**Data:** 2026-03-04 17:00
 
 ### 💡 [CEO-002] Create "Top 10 Most Expensive Metal Drum Setups" Article → Issue #630 ✅
 

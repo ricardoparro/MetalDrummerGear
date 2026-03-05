@@ -246,6 +246,9 @@ function getAllDrummerComparisons() { return _drummerComparisonsModule?.getAllDr
 function hasDrummerComparison(slug) { return _drummerComparisonsModule?.hasDrummerComparison(slug) || false; }
 function getAllDrummerComparisonSlugs() { return _drummerComparisonsModule?.getAllDrummerComparisonSlugs() || []; }
 function getComparisonsForDrummer(slug) { return _drummerComparisonsModule?.getComparisonsForDrummer(slug) || []; }
+// Dynamic comparison generator - Issue #650
+function getComparisonBySlugWithDynamic(slug, allDrummers) { return _drummerComparisonsModule?.getComparisonBySlugWithDynamic(slug, allDrummers) || null; }
+function generateAllComparisonSlugs(allDrummers) { return _drummerComparisonsModule?.generateAllComparisonSlugs(allDrummers) || []; }
 
 // Drumming techniques data (Issue #344)
 // Loaded dynamically for code splitting - TBT optimization #460
@@ -10502,13 +10505,14 @@ function DrummerVsPage({ comparisonSlug, theme, onBack, onSelectDrummer, drummer
   const [votes, setVotes] = useState({ drummer1: 0, drummer2: 0 });
   const [hasVoted, setHasVoted] = useState(false);
   
-  // Load comparison data
+  // Load comparison data (Issue #650: Support dynamic generation for all drummer pairs)
   useEffect(() => {
     let mounted = true;
     
     preloadDrummerComparisons().then(() => {
       if (mounted) {
-        const data = getDrummerComparisonBySlug(comparisonSlug);
+        // Try curated comparison first, fall back to dynamic generation
+        const data = getComparisonBySlugWithDynamic(comparisonSlug, drummers);
         setLoadState({ isLoading: false, comparison: data });
         
         // Load existing votes from localStorage
@@ -10531,7 +10535,7 @@ function DrummerVsPage({ comparisonSlug, theme, onBack, onSelectDrummer, drummer
     });
     
     return () => { mounted = false; };
-  }, [comparisonSlug]);
+  }, [comparisonSlug, drummers]);
 
   const findDrummerBySlug = (slug) => {
     if (!drummers) return null;
@@ -10771,6 +10775,57 @@ function DrummerVsPage({ comparisonSlug, theme, onBack, onSelectDrummer, drummer
         <View style={{ marginBottom: 24, backgroundColor: theme.primary, borderRadius: 12, padding: 20 }}>
           <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>🏆 The Verdict</Text>
           <Text style={{ color: theme.text, fontSize: 15, lineHeight: 24, opacity: 0.9 }}>{comparison.verdict}</Text>
+        </View>
+
+        {/* Social Share Buttons - Issue #650 */}
+        <View style={{ marginBottom: 24, backgroundColor: theme.card, borderRadius: 12, padding: 16, borderColor: theme.border, borderWidth: 1 }}>
+          <Text style={{ fontSize: 16, fontWeight: '600', color: theme.text, marginBottom: 12, textAlign: 'center' }}>📤 Share This Showdown</Text>
+          <View style={{ flexDirection: 'row', justifyContent: 'center', gap: 12 }}>
+            <TouchableOpacity
+              onPress={() => {
+                const shareUrl = `https://metalforge.io/vs/${comparison.slug}`;
+                const shareText = `⚔️ ${comparison.title} - Who wins? Cast your vote! #MetalDrummers`;
+                window.open(`https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(shareUrl)}`, '_blank', 'width=600,height=400');
+              }}
+              style={{ backgroundColor: '#1DA1F2', paddingHorizontal: 16, paddingVertical: 10, borderRadius: 8 }}
+              accessibilityLabel="Share on Twitter"
+            >
+              <Text style={{ color: '#fff', fontWeight: '600', fontSize: 14 }}>𝕏 Tweet</Text>
+            </TouchableOpacity>
+            <TouchableOpacity
+              onPress={() => {
+                const shareUrl = `https://metalforge.io/vs/${comparison.slug}`;
+                window.open(`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(shareUrl)}`, '_blank', 'width=600,height=400');
+              }}
+              style={{ backgroundColor: '#4267B2', paddingHorizontal: 16, paddingVertical: 10, borderRadius: 8 }}
+              accessibilityLabel="Share on Facebook"
+            >
+              <Text style={{ color: '#fff', fontWeight: '600', fontSize: 14 }}>f Share</Text>
+            </TouchableOpacity>
+            <TouchableOpacity
+              onPress={() => {
+                const shareUrl = `https://metalforge.io/vs/${comparison.slug}`;
+                const shareText = `${comparison.title} - Vote now!`;
+                window.open(`https://reddit.com/submit?url=${encodeURIComponent(shareUrl)}&title=${encodeURIComponent(shareText)}`, '_blank', 'width=600,height=400');
+              }}
+              style={{ backgroundColor: '#FF4500', paddingHorizontal: 16, paddingVertical: 10, borderRadius: 8 }}
+              accessibilityLabel="Share on Reddit"
+            >
+              <Text style={{ color: '#fff', fontWeight: '600', fontSize: 14 }}>r/ Post</Text>
+            </TouchableOpacity>
+            <TouchableOpacity
+              onPress={() => {
+                const shareUrl = `https://metalforge.io/vs/${comparison.slug}`;
+                navigator.clipboard.writeText(shareUrl).then(() => {
+                  alert('Link copied to clipboard!');
+                });
+              }}
+              style={{ backgroundColor: theme.border, paddingHorizontal: 16, paddingVertical: 10, borderRadius: 8 }}
+              accessibilityLabel="Copy link"
+            >
+              <Text style={{ color: theme.text, fontWeight: '600', fontSize: 14 }}>🔗 Copy</Text>
+            </TouchableOpacity>
+          </View>
         </View>
 
         {/* Related Comparisons */}
@@ -13772,12 +13827,34 @@ function updateDrummerVsMeta(comparison, drummer1, drummer2) {
       document.head.appendChild(ldScript);
     }
 
+    // Issue #650: Enhanced schema markup for comparison pages (Article type for better SEO)
     const comparisonSchema = {
       "@context": "https://schema.org",
-      "@type": "WebPage",
+      "@type": "Article",
+      "@id": `https://metalforge.io/vs/${comparison.slug}#article`,
+      "headline": comparison.title,
       "name": comparison.title,
       "description": comparison.metaDescription,
       "url": `https://metalforge.io/vs/${comparison.slug}`,
+      "image": drummer1.image || drummer2.image || "https://metalforge.io/og-vs.png",
+      "datePublished": "2026-03-05",
+      "dateModified": new Date().toISOString().split('T')[0],
+      "author": {
+        "@type": "Organization",
+        "name": "MetalForge",
+        "url": "https://metalforge.io"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "MetalForge",
+        "url": "https://metalforge.io",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://metalforge.io/favicon-48x48.png"
+        }
+      },
+      "articleSection": "Drummer Comparisons",
+      "keywords": `${drummer1.name}, ${drummer2.name}, ${drummer1.band}, ${drummer2.band}, metal drummers, drummer comparison, ${comparison.category}`,
       "about": [
         {
           "@type": "Person",

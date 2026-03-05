@@ -315,3 +315,142 @@ export function generateComparisonSlug(drummer1, drummer2) {
   const slug2 = drummer2.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
   return `${slug1}-vs-${slug2}`;
 }
+
+/**
+ * Dynamic Comparison Generator - Issue #650
+ * Generates comparison content for any two drummers that don't have curated content
+ * @param {Object} drummer1 - First drummer object with full data
+ * @param {Object} drummer2 - Second drummer object with full data
+ * @returns {Object} Generated comparison data
+ */
+export function generateDynamicComparison(drummer1, drummer2) {
+  if (!drummer1 || !drummer2) return null;
+  
+  const slug1 = drummer1.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
+  const slug2 = drummer2.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
+  const comparisonSlug = `${slug1}-vs-${slug2}`;
+  
+  // Check if curated comparison exists (in either direction)
+  if (drummerComparisons[comparisonSlug]) {
+    return drummerComparisons[comparisonSlug];
+  }
+  const reverseSlug = `${slug2}-vs-${slug1}`;
+  if (drummerComparisons[reverseSlug]) {
+    return drummerComparisons[reverseSlug];
+  }
+  
+  // Determine category based on genres
+  const genre1 = (drummer1.genre || '').toLowerCase();
+  const genre2 = (drummer2.genre || '').toLowerCase();
+  let category = 'other';
+  if (genre1.includes('thrash') || genre2.includes('thrash')) category = 'thrash';
+  else if (genre1.includes('death') || genre2.includes('death') || genre1.includes('extreme') || genre2.includes('extreme')) category = 'extreme';
+  else if (genre1.includes('progressive') || genre2.includes('progressive') || genre1.includes('djent') || genre2.includes('djent')) category = 'progressive';
+  
+  // Generate dynamic content
+  const generateStyleComparison = () => {
+    const style1 = drummer1.genre || 'metal';
+    const style2 = drummer2.genre || 'metal';
+    return `${drummer1.name} brings ${style1.toLowerCase()} intensity with ${drummer1.band}'s signature sound. ${drummer2.name} delivers ${style2.toLowerCase()} power through ${drummer2.band}'s approach.`;
+  };
+  
+  const generateGearComparison = () => {
+    const drums1 = drummer1.gear?.drums || 'custom drums';
+    const drums2 = drummer2.gear?.drums || 'custom drums';
+    const cymbals1 = drummer1.gear?.cymbals?.split(' ')[0] || 'signature';
+    const cymbals2 = drummer2.gear?.cymbals?.split(' ')[0] || 'signature';
+    return `${drummer1.name} plays ${drums1} with ${cymbals1} cymbals. ${drummer2.name} uses ${drums2} with ${cymbals2} cymbals.`;
+  };
+  
+  const generateTechniqueComparison = () => {
+    return `Both drummers showcase exceptional technique in their respective genres. ${drummer1.name} developed their style through ${drummer1.band}, while ${drummer2.name} refined their craft with ${drummer2.band}.`;
+  };
+  
+  const generateInfluenceComparison = () => {
+    return `${drummer1.name} has influenced ${(drummer1.genre || 'metal').toLowerCase()} drumming significantly. ${drummer2.name} has made a lasting impact on ${(drummer2.genre || 'metal').toLowerCase()} drummers worldwide.`;
+  };
+  
+  const generateVerdict = () => {
+    return `Both ${drummer1.name} and ${drummer2.name} are exceptional drummers who have left their mark on metal music. Each brings unique qualities - compare their gear, technique, and style above to decide who matches your preferences!`;
+  };
+  
+  return {
+    slug: comparisonSlug,
+    title: `${drummer1.name} vs ${drummer2.name}`,
+    metaTitle: `${drummer1.name} vs ${drummer2.name} - Metal Drummers Compared | MetalForge`,
+    metaDescription: `Compare ${drummer1.name} (${drummer1.band}) and ${drummer2.name} (${drummer2.band}). Gear, technique, and style side-by-side. Vote for your favorite!`,
+    category,
+    drummers: [slug1, slug2],
+    isGenerated: true, // Flag to indicate this is dynamically generated
+    comparison: {
+      style: generateStyleComparison(),
+      technique: generateTechniqueComparison(),
+      gear: generateGearComparison(),
+      influence: generateInfluenceComparison(),
+    },
+    verdict: generateVerdict(),
+  };
+}
+
+/**
+ * Get comparison by slug - returns curated or generates dynamic
+ * @param {string} slug - Comparison slug (e.g., 'lars-ulrich-vs-joey-jordison')
+ * @param {Array} allDrummers - Array of all drummer objects (for dynamic generation)
+ * @returns {Object|null} Comparison data
+ */
+export function getComparisonBySlugWithDynamic(slug, allDrummers) {
+  // Check for curated comparison
+  if (drummerComparisons[slug]) {
+    return drummerComparisons[slug];
+  }
+  
+  // Try reverse order
+  const parts = slug.split('-vs-');
+  if (parts.length === 2) {
+    const reverseSlug = `${parts[1]}-vs-${parts[0]}`;
+    if (drummerComparisons[reverseSlug]) {
+      return drummerComparisons[reverseSlug];
+    }
+  }
+  
+  // Generate dynamic comparison if drummers exist
+  if (allDrummers && parts.length === 2) {
+    const toSlug = (name) => name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
+    const drummer1 = allDrummers.find(d => toSlug(d.name) === parts[0]);
+    const drummer2 = allDrummers.find(d => toSlug(d.name) === parts[1]);
+    
+    if (drummer1 && drummer2) {
+      return generateDynamicComparison(drummer1, drummer2);
+    }
+  }
+  
+  return null;
+}
+
+/**
+ * Generate all possible comparison slugs for SEO/sitemap
+ * @param {Array} allDrummers - Array of all drummer objects
+ * @returns {Array} Array of all possible comparison slugs
+ */
+export function generateAllComparisonSlugs(allDrummers) {
+  if (!allDrummers || allDrummers.length < 2) return [];
+  
+  const toSlug = (name) => name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
+  const slugs = new Set();
+  
+  // Add all curated slugs first
+  Object.keys(drummerComparisons).forEach(slug => slugs.add(slug));
+  
+  // Generate all possible pairs
+  for (let i = 0; i < allDrummers.length; i++) {
+    for (let j = i + 1; j < allDrummers.length; j++) {
+      const slug1 = toSlug(allDrummers[i].name);
+      const slug2 = toSlug(allDrummers[j].name);
+      // Alphabetical order for consistency
+      const orderedSlug = slug1 < slug2 ? `${slug1}-vs-${slug2}` : `${slug2}-vs-${slug1}`;
+      slugs.add(orderedSlug);
+    }
+  }
+  
+  return Array.from(slugs);
+}

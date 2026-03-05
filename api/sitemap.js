@@ -99,26 +99,25 @@ const gearComparisons = [
   { slug: 'sonor-vs-dw', name: 'Sonor vs DW Drums' },
 ];
 
-// Issue #558: Drummer vs Drummer comparison pages for SEO
-// Issue #598: Added high-value comparison pages
-const drummerComparisons = [
-  { slug: 'lars-ulrich-vs-dave-lombardo', name: 'Lars Ulrich vs Dave Lombardo' },
-  { slug: 'mario-duplantier-vs-tomas-haake', name: 'Mario Duplantier vs Tomas Haake' },
-  { slug: 'george-kollias-vs-pete-sandoval', name: 'George Kollias vs Pete Sandoval' },
-  { slug: 'joey-jordison-vs-john-otto', name: 'Joey Jordison vs John Otto' },
-  { slug: 'mike-portnoy-vs-danny-carey', name: 'Mike Portnoy vs Danny Carey' },
-  { slug: 'gene-hoglan-vs-charlie-benante', name: 'Gene Hoglan vs Charlie Benante' },
-  { slug: 'matt-halpern-vs-alex-bent', name: 'Matt Halpern vs Alex Bent' },
-  { slug: 'hellhammer-vs-inferno', name: 'Hellhammer vs Inferno' },
-  { slug: 'brann-dailor-vs-mario-duplantier', name: 'Brann Dailor vs Mario Duplantier' },
-  { slug: 'igor-cavalera-vs-eloy-casagrande', name: 'Igor Cavalera vs Eloy Casagrande' },
-  { slug: 'vinnie-paul-vs-art-cruz', name: 'Vinnie Paul vs Art Cruz' },
-  { slug: 'ray-luzier-vs-abe-cunningham', name: 'Ray Luzier vs Abe Cunningham' },
-  // Issue #598: High-value comparisons targeting competitive keywords
-  { slug: 'lars-ulrich-vs-joey-jordison', name: 'Lars Ulrich vs Joey Jordison' },
-  { slug: 'danny-carey-vs-mario-duplantier', name: 'Danny Carey vs Mario Duplantier' },
-  { slug: 'gene-hoglan-vs-george-kollias', name: 'Gene Hoglan vs George Kollias' },
-];
+// Issue #558, #598, #650: Drummer vs Drummer comparison pages for SEO
+// Issue #650: Generate ALL drummer comparison pairs dynamically (62 drummers = 1891 pairs)
+function generateAllDrummerComparisons(drummerList) {
+  const comparisons = [];
+  for (let i = 0; i < drummerList.length; i++) {
+    for (let j = i + 1; j < drummerList.length; j++) {
+      const slug1 = generateSlug(drummerList[i].name);
+      const slug2 = generateSlug(drummerList[j].name);
+      // Alphabetical order for consistency
+      const orderedSlug = slug1 < slug2 ? `${slug1}-vs-${slug2}` : `${slug2}-vs-${slug1}`;
+      comparisons.push({
+        slug: orderedSlug,
+        name: `${drummerList[i].name} vs ${drummerList[j].name}`
+      });
+    }
+  }
+  return comparisons;
+}
+const drummerComparisons = generateAllDrummerComparisons(drummers);
 
 const BASE_URL = 'https://metalforge.io';
 

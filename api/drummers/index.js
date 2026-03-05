@@ -3167,40 +3167,183 @@ const drummers = [
     ]
   },
   {
-    id: 61,
-    name: 'Isaac Lamb',
-    band: 'Kublai Khan TX',
+    id: 62,
+    name: 'Art Cruz',
+    band: 'Lamb of God',
     bands: [
-      { name: 'Kublai Khan TX', period: '2009–present', current: true }
+      { name: 'Lamb of God', period: '2019–present', current: true },
+      { name: 'Winds of Plague', period: '2008–2012, 2015–2021', current: false },
+      { name: 'Prong', period: '2012–2018', current: false }
     ],
-    genre: 'Metalcore / Beatdown Hardcore',
+    genre: 'Groove Metal / Thrash Metal',
     country: 'USA',
-    image: '/images/drummers/isaac-lamb.webp',
-    bio: 'Isaac Lamb is an American drummer and founding member of the beatdown hardcore/metalcore band Kublai Khan TX, formed in Sherman, Texas in 2009. As the only drummer in the band\'s history, Lamb has been instrumental in developing their signature sound—characterized by crushing breakdowns, heavy grooves, and aggressive intensity that has made them one of the most respected bands in modern hardcore. His drumming style emphasizes power, groove, and devastating timing on breakdowns.',
+    image: '/images/drummers/art-cruz.webp',
+    bio: 'Art Cruz (born May 27, 1988) is an American drummer who became Lamb of God\'s drummer in 2019, replacing the legendary Chris Adler. Born in Downey, California, Cruz first gained attention as the drummer for Winds of Plague and later Prong. In 2018, he filled in for Chris Adler on Lamb of God\'s North American tour supporting Slayer\'s farewell tour, and officially joined the band in 2019. His debut album with Lamb of God was their 2020 self-titled release, showcasing his powerful, precise drumming style that honors the band\'s groove metal legacy while bringing fresh energy.',
     sameAs: [
-      'https://en.wikipedia.org/wiki/Kublai_Khan_(band)',
-      'https://www.allmusic.com/artist/kublai-khan-mn0003460661'
+      'https://en.wikipedia.org/wiki/Art_Cruz',
+      'https://www.instagram.com/theartcruz/',
+      'https://www.discogs.com/artist/1356413-Art-Cruz',
+      'https://www.allmusic.com/artist/art-cruz-mn0002031619'
     ],
     gear: {
-      drums: 'SJC Custom Drums',
-      snare: 'SJC Custom 14x6.5"',
-      cymbals: 'Meinl Classics Custom Dark Series (14" Hi-Hats, 18" & 20" Crashes, 21" Ride, 18" China)',
-      hardware: 'DW 9000 Series Double Pedal',
-      sticks: 'Vic Firth American Classic 2B',
-      heads: 'Evans Hydraulic',
-      verified: false,
-      sources: ['https://en.wikipedia.org/wiki/Kublai_Khan_(band)']
+      drums: 'Ludwig Classic Maple',
+      snare: 'Ludwig Black Beauty 14x6.5"',
+      cymbals: 'Zildjian A Custom Series (14" Mastersound Hi-Hats, 18" A Custom EFX, 18" & 19" A Custom Medium/Projection Crashes, 20" A Custom Crash, 21" A Mega Bell Ride, 19" A Ultra Hammered Chinas, 17" K China w/EFX Holes)',
+      hardware: 'Trick Pro1-V Bigfoot Double Pedal, Gibraltar Hardware',
+      sticks: 'Vic Firth American Classic 5A',
+      heads: 'Evans',
+      verified: true,
+      sources: ['https://zildjian.com/blogs/artist/art-cruz', 'https://en.wikipedia.org/wiki/Art_Cruz']
     },
     photos: [
-      '/images/drummers/isaac-lamb.webp'
+      '/images/drummers/art-cruz.webp'
     ],
     endorsements: [
-      { name: 'SJC Custom Drums', url: 'https://www.sjcdrums.com' },
-      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'Ludwig Drums', url: 'https://www.ludwig-drums.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' },
+      { name: 'Trick Percussion', url: 'https://www.trickdrums.com' }
     ],
     videos: [
-      { title: 'Kublai Khan TX - Drum Cam', youtubeId: 'xBFS1A0zOq4', year: 2023 }
+      { title: 'Laid to Rest - Lamb of God Drum Cam', youtubeId: '5T4Vz8M5gos', year: 2022 },
+      { title: 'Redneck - Live Drum Cam', youtubeId: 'nLdExRaXmc0', year: 2021 },
+      { title: 'Memento Mori - Official Drum Playthrough', youtubeId: 'VFOvG4qxKqk', year: 2020 }
+    ]
+  },
+  {
+    id: 63,
+    name: 'Arin Ilejay',
+    band: 'Avenged Sevenfold',
+    bands: [
+      { name: 'Avenged Sevenfold', period: '2011–2014', current: false },
+      { name: 'Confide', period: '2009–2011', current: false }
+    ],
+    genre: 'Heavy Metal / Hard Rock',
+    country: 'USA',
+    image: '/images/drummers/arin-ilejay.webp',
+    bio: 'Arin Ilejay is an American drummer best known for his tenure with Avenged Sevenfold from 2011 to 2014. He joined A7X following the tragic death of founding drummer Jimmy "The Rev" Sullivan, first touring with the band before becoming an official member. Ilejay recorded the highly successful "Hail to the King" album (2013), which debuted at #1 on the Billboard 200 and multiple international charts. His powerful, straightforward drumming style paid tribute to classic metal while serving the songs. He left the band in late 2014 and was replaced by Brooks Wackerman.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Avenged_Sevenfold',
+      'https://www.discogs.com/artist/2392186-Arin-Ilejay',
+      'https://www.allmusic.com/artist/arin-ilejay-mn0002949820'
+    ],
+    gear: {
+      drums: 'DW Collector\'s Series Maple',
+      snare: 'DW Collector\'s 14x6.5" Black Nickel over Brass',
+      cymbals: 'Zildjian A Custom Series (14" Mastersound Hi-Hats, 17" & 18" Medium Crashes, 20" Medium Ride, 18" China)',
+      hardware: 'DW 9000 Series Double Pedal, DW Hardware',
+      sticks: 'Promark 5B',
+      heads: 'Remo',
+      verified: false,
+      sources: ['https://en.wikipedia.org/wiki/Avenged_Sevenfold']
+    },
+    photos: [
+      '/images/drummers/arin-ilejay.webp'
+    ],
+    endorsements: [
+      { name: 'DW Drums', url: 'https://www.dwdrums.com' },
+      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' },
+      { name: 'Remo Drumheads', url: 'https://remo.com' }
+    ],
+    videos: [
+      { title: 'Hail to the King - Live Drum Cam', youtubeId: 'DelhLppPSxY', year: 2013 },
+      { title: 'Shepherd of Fire - Official Drum Cam', youtubeId: 'pIzEodAdx-0', year: 2014 },
+      { title: 'Nightmare - Live Performance', youtubeId: 'mfJhMfOPWdE', year: 2013 }
+    ]
+  },
+  {
+    id: 64,
+    name: 'Navene Koperweis',
+    band: 'Entheos',
+    bands: [
+      { name: 'Entheos', period: '2015–present', current: true },
+      { name: 'Animals as Leaders', period: '2010–2012', current: false },
+      { name: 'Animosity', period: '2005–2009', current: false },
+      { name: 'The Faceless', period: '2006', current: false },
+      { name: 'Fleshwrought', period: '2010–present', current: true }
+    ],
+    genre: 'Progressive Metal / Djent / Technical Death Metal',
+    country: 'USA',
+    image: '/images/drummers/navene-koperweis.webp',
+    bio: 'Navene Koperweis (born May 31, 1985) is an American drummer, producer, and multi-instrumentalist known for his technical prowess and innovative approach to drumming. Starting drums at age 11, he gained prominence with Animals as Leaders, appearing on their acclaimed album "Weightless" (2011). He later formed Entheos with his then-wife Chaney Crabb, where he serves as drummer and primary songwriter. Beyond metal, Navene is also an electronic music producer under the name Navene K. His drumming combines extreme technicality with groove, incorporating elements of progressive metal, djent, and electronic music. He has also served as session drummer for Machine Head and Job for a Cowboy.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Navene_Koperweis',
+      'https://www.instagram.com/navenek/',
+      'https://www.discogs.com/artist/1380706-Navene-Koperweis',
+      'https://www.allmusic.com/artist/navene-koperweis-mn0002521168'
+    ],
+    gear: {
+      drums: 'Tama Starclassic Walnut/Birch',
+      snare: 'Tama SLP 14x6" Black Brass',
+      cymbals: 'Meinl Byzance Series (14" Dual Hi-Hats, 18" & 20" Dual Crashes, 21" Transition Ride, 18" Dual China)',
+      hardware: 'Tama Iron Cobra 900 Rolling Glide Double Pedal',
+      sticks: 'Vic Firth American Classic 5B',
+      heads: 'Evans',
+      verified: true,
+      sources: ['https://en.wikipedia.org/wiki/Navene_Koperweis', 'https://meinlcymbals.com/artists']
+    },
+    photos: [
+      '/images/drummers/navene-koperweis.webp'
+    ],
+    endorsements: [
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+    ],
+    videos: [
+      { title: 'Entheos - Remember You Are Dust (Drum Playthrough)', youtubeId: 'MezL4WQlTyY', year: 2023 },
+      { title: 'Animals as Leaders - CAFO Drum Cam', youtubeId: 'NmfzWpp0hMc', year: 2011 },
+      { title: 'Entheos - Absolute Zero (Official)', youtubeId: 'vvLXnZvC_II', year: 2021 }
+    ]
+  },
+  {
+    id: 65,
+    name: 'Alex Bent',
+    band: 'Trivium',
+    bands: [
+      { name: 'Trivium', period: '2017–2025', current: false },
+      { name: 'Arkaik', period: '2011–present', current: true },
+      { name: 'Dragonlord', period: '2015–present', current: true },
+      { name: 'Brain Drill', period: '2015', current: false },
+      { name: 'Battlecross', period: '2015', current: false }
+    ],
+    genre: 'Heavy Metal / Thrash Metal / Technical Death Metal',
+    country: 'USA',
+    image: '/images/drummers/alex-bent.webp',
+    bio: 'Alex Bent (born January 31, 1993) is an American drummer known for his exceptional technical ability and versatility. Born in Oakland, California, Bent began drumming at age 11 and quickly developed his skills through competitions and various musical groups. He gained recognition in the technical death metal scene with bands like Arkaik and Brain Drill before joining Trivium in 2017. His tenure with Trivium produced four acclaimed albums: "The Sin and the Sentence" (2017), "What the Dead Men Say" (2020), "In the Court of the Dragon" (2021), and "Struck Dead" (2025). His drumming combines thrash metal intensity with technical death metal precision. He parted ways with Trivium in October 2025 but continues with Arkaik and Dragonlord.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Alex_Bent',
+      'https://www.instagram.com/alexbentdrums/',
+      'https://www.discogs.com/artist/2895167-Alex-Bent',
+      'https://www.allmusic.com/artist/alex-bent-mn0003335823'
+    ],
+    gear: {
+      drums: 'Pearl Reference One',
+      snare: 'Pearl Reference 14x6.5" Brass',
+      cymbals: 'Meinl Byzance Series (14" Dark Hi-Hats, 17" & 18" Medium Thin Crashes, 21" Medium Ride, 18" Brilliant China)',
+      hardware: 'Axis Longboard A Double Pedal, Pearl Hardware',
+      sticks: 'Vic Firth American Classic Extreme 5A',
+      heads: 'Remo',
+      verified: true,
+      sources: ['https://en.wikipedia.org/wiki/Alex_Bent', 'https://www.axispercussion.com/artists-a-f/']
+    },
+    photos: [
+      '/images/drummers/alex-bent.webp'
+    ],
+    endorsements: [
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+      { name: 'Axis Percussion', url: 'https://www.axispercussion.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Remo Drumheads', url: 'https://remo.com' }
+    ],
+    videos: [
+      { title: 'The Sin and the Sentence - Drum Playthrough', youtubeId: 'RASkC8WC9-U', year: 2017 },
+      { title: 'In the Court of the Dragon - Official Drum Cam', youtubeId: 'SpbzCYfE-lY', year: 2021 },
+      { title: 'Catastrophist - Drum Playthrough', youtubeId: 'LwGp7p4E7qg', year: 2020 }
     ]
   }
 ];

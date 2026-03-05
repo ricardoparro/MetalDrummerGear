@@ -28,7 +28,51 @@
 
 ## 📥 Novas Ideias
 
-### 💡 [CEO-004] Add "Similar Drummers" Recommendation Widget
+### 💡 [CEO-005] Add Social Share to "Which Metal Drummer Are You?" Quiz Results
+
+**Origem:** Viral growth analysis — We have the quiz (#637), now weaponize it for organic growth
+
+**Hipótese:** Se adicionarmos botões de partilha social aos resultados do quiz, então:
+- Cria viral loop orgânico (people share → friends see → take quiz → share)
+- Zero-cost acquisition (cada share = free marketing)
+- Aumenta brand awareness no Twitter/Instagram/WhatsApp
+- Drives referral traffic (high intent users)
+- Creates social proof ("1,247 people got Joey Jordison!")
+- Builds engagement + return visits
+
+**Impacto Curto (1-7d):** ⭐⭐⭐ (Immediate viral potential)
+**Impacto Médio (1-3m):** ⭐⭐⭐ (Sustained referral traffic + brand awareness)
+**Impacto Longo (3-12m):** ⭐⭐ (Evergreen sharing continues)
+**Score Total:** 8⭐
+
+**Implementação:**
+- Add share buttons to quiz results page: Twitter/X, Facebook, WhatsApp, Copy Link
+- Pre-filled share text: "I got [Drummer Name]! 🤘 Which legendary metal drummer matches your style? Take the quiz: [URL]"
+- Include drummer result image (photo + MetalForge branding)
+- Track shares in GA4 (event: quiz_share, params: drummer, platform)
+- Optional phase 2: "Share to unlock full gear breakdown" (email gate)
+
+**Métrica de sucesso:**
+- 15% of quiz takers share results
+- Referral traffic from social shares: 100+ users in first week
+- Quiz completions increase 50% from viral loop
+- Twitter/X mentions of @MetalDrumGear increase
+
+**Blockers externos:** Não
+
+**Decisão:** IMPLEMENTAR ✅
+
+**Data:** 2026-03-05 09:00
+
+<!-- CEO adiciona novas ideias aqui -->
+
+
+
+---
+
+## ✅ Aprovadas (Em Implementação)
+
+### 💡 [CEO-004] Add "Similar Drummers" Recommendation Widget → Issue #643 ✅
 
 **Origem:** UX analysis — Need to increase pages per session + reduce bounce rate
 
@@ -44,19 +88,6 @@
 **Impacto Longo (3-12m):** ⭐ (Foundational UX improvement)
 **Score Total:** 6⭐
 
-**Algoritmo de similaridade:**
-1. Same primary genre (+3 points)
-2. Overlapping gear brands (+2 per match)
-3. Similar playing style tags (+2 per match)
-4. Same band connections (+1)
-5. Show top 4 matches
-
-**Implementação:**
-- Widget no final de cada drummer profile
-- Card layout com photo + name + 1-line bio
-- "Explore More" CTA
-- Track clicks in GA4
-
 **Métrica de sucesso:**
 - Pages per session aumenta 15%
 - Bounce rate diminui 10%
@@ -65,15 +96,9 @@
 
 **Decisão:** IMPLEMENTAR ✅
 
+**Issue:** https://github.com/ricardoparro/MetalDrummerGear/issues/643
+
 **Data:** 2026-03-04 17:00
-
-<!-- CEO adiciona novas ideias aqui -->
-
-
-
----
-
-## ✅ Aprovadas (Em Implementação)
 
 ### 💡 [CEO-003] "Top 10 Fastest Double Bass Drummers in Metal" Article → Issue #642 ✅
 
@@ -202,4 +227,4 @@
 
 ---
 
-*Última actualização: 2026-03-01 17:00*
+*Última actualização: 2026-03-05 09:00*

@@ -174,6 +174,52 @@ Mario Duplantier, Tomas Haake, Gene Hoglan, Brann Dailor, Chris Adler, Jay Weinb
 
 ---
 
+## 2026-03-05 09:00 — Pipeline Reload + Viral Growth
+
+### Decision: Add 4 More Drummers + Quiz Social Sharing
+
+**Context:**
+- All previous ai-fix issues completed (#623, #630, #642, #643)
+- Ralph is IDLE (no open ai-fix work)
+- Pipeline needs fresh work to maintain momentum
+- Quiz feature live (#637) but no sharing mechanism
+- Backlog shows "Add 4 more drummers" ready (Score 48⭐)
+
+**Reasoning:**
+
+**Issue #646 (Add 4 Drummers):**
+- Backlog priority #2 (Score 48⭐)
+- NO external blockers (pure execution)
+- Continues content scale momentum
+- Targets 25 drummer goal (currently 21)
+- Drummers: Art Cruz, Arin Ilejay, Navene Koperweis, Alex Bent
+
+**Issue #647 (Quiz Social Sharing - CEO-005):**
+- **Impact Timeline Score: 8⭐** (Curto: ⭐⭐⭐, Médio: ⭐⭐⭐, Longo: ⭐⭐)
+- Highest score of any CEO idea yet
+- Zero-cost viral acquisition channel
+- Quiz already live — just add sharing layer
+- Creates viral loop: share → friends see → take quiz → share
+- Drives brand awareness + referral traffic
+- NO external blockers
+
+**Alternatives Considered:**
+1. Newsletter setup (#4 in backlog) → Blocked on email service decision
+2. UX test enhancement → Important but not growth-driving
+3. More articles → Need to balance content vs. engagement
+
+**Portfolio Balance Check:**
+- Curto prazo: ⭐⭐⭐ (Quiz sharing = immediate viral potential)
+- Médio prazo: ⭐⭐⭐ (Quiz viral loop + 4 drummers SEO compound)
+- Longo prazo: ⭐⭐ (Content moat building)
+- **Total: 8⭐ — APPROVED**
+
+**Decision:** Queue both. Content scale + viral growth mechanism.
+
+**Outcome:** Issues #646 and #647 created (2026-03-05 09:00). Waiting for Ralph.
+
+---
+
 ## Template for Future Decisions
 
 ```

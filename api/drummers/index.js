@@ -3155,7 +3155,7 @@ const drummers = [
       sources: ['https://en.wikipedia.org/wiki/Kublai_Khan_(band)']
     },
     photos: [
-      '/images/drummers/isaac-lamb.webp'
+      '/images/drummers/isaac-lamb.webp' // Original: /images/drummers/isaac-lamb.webp
     ],
     endorsements: [
       { name: 'SJC Custom Drums', url: 'https://www.sjcdrums.com' },

@@ -3196,7 +3196,7 @@ const drummers = [
       sources: ['https://zildjian.com/blogs/artist/art-cruz', 'https://en.wikipedia.org/wiki/Art_Cruz']
     },
     photos: [
-      '/images/drummers/art-cruz.webp' // Original: /images/drummers/art-cruz.webp
+      '/images/drummers/art-cruz.webp'
     ],
     endorsements: [
       { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
@@ -3239,7 +3239,7 @@ const drummers = [
       sources: ['https://en.wikipedia.org/wiki/Avenged_Sevenfold']
     },
     photos: [
-      '/images/drummers/arin-ilejay.webp' // Original: /images/drummers/arin-ilejay.webp
+      '/images/drummers/arin-ilejay.webp'
     ],
     endorsements: [
       { name: 'DW Drums', url: 'https://www.dwdrums.com' },
@@ -3285,7 +3285,7 @@ const drummers = [
       sources: ['https://en.wikipedia.org/wiki/Navene_Koperweis', 'https://meinlcymbals.com/artists']
     },
     photos: [
-      '/images/drummers/navene-koperweis.webp' // Original: /images/drummers/navene-koperweis.webp
+      '/images/drummers/navene-koperweis.webp'
     ],
     endorsements: [
       { name: 'Tama Drums', url: 'https://www.tama.com' },
@@ -3331,7 +3331,7 @@ const drummers = [
       sources: ['https://en.wikipedia.org/wiki/Alex_Bent', 'https://www.axispercussion.com/artists-a-f/']
     },
     photos: [
-      '/images/drummers/alex-bent.webp' // Original: /images/drummers/alex-bent.webp
+      '/images/drummers/alex-bent.webp'
     ],
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },

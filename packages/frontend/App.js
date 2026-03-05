@@ -14377,13 +14377,14 @@ function trackQuizCompletion(matchedDrummer, matchPercentage) {
   }
 }
 
-// Track quiz shared in GA4 (Issue #637)
-function trackQuizShared(platform, drummerName) {
+// Track quiz shared in GA4 (Issue #637, #647)
+function trackQuizShared(platform, drummerName, resultId) {
   if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
-    window.gtag('event', 'quiz_shared', {
-      event_category: 'engagement',
-      event_label: platform,
-      shared_drummer: drummerName,
+    // Issue #647: Updated tracking format
+    window.gtag('event', 'quiz_share', {
+      drummer: drummerName,
+      platform: platform,
+      result_id: resultId || drummerName.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, ''),
     });
   }
 }
@@ -14524,34 +14525,32 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
     if (!results || !results[0]) return;
     
     const topMatch = results[0].drummer;
-    const maxScore = _quizDataModule?.getMaxPossibleScore ? _quizDataModule.getMaxPossibleScore() : 100;
-    const matchPercent = Math.min(99, Math.max(50, Math.round((results[0].score / maxScore) * 100)));
     const drummerSlug = topMatch.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
-    const shareUrl = typeof window !== 'undefined' ? `${window.location.origin}/quiz?result=${drummerSlug}` : `https://metalforge.io/quiz?result=${drummerSlug}`;
+    // Issue #647: Share URL points to quiz for viral loop
+    const shareUrl = 'https://metalforge.io/quiz';
     
-    // Issue #637: Twitter share format
-    const twitterText = `I drum like ${topMatch.name}! Which metal drummer are you?`;
-    const shareText = `I matched with ${topMatch.name} (${topMatch.band}) - ${matchPercent}% match on the Metal Drummer Quiz! 🥁🤘`;
+    // Issue #647: Pre-filled share text format
+    const shareText = `I got ${topMatch.name}! 🤘 Which legendary metal drummer matches your style? Take the quiz:`;
 
-    // Track share event (Issue #637)
-    trackQuizShared(platform, topMatch.name);
+    // Track share event (Issue #637, #647)
+    trackQuizShared(platform, topMatch.name, drummerSlug);
 
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
       let url;
       switch (platform) {
         case 'twitter':
-          url = `https://twitter.com/intent/tweet?text=${encodeURIComponent(twitterText)}&url=${encodeURIComponent(shareUrl)}&hashtags=MetalDrummer`;
+          url = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(shareUrl)}&hashtags=MetalDrummer,MetalDrumGear`;
           break;
         case 'facebook':
           url = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(shareUrl)}&quote=${encodeURIComponent(shareText)}`;
           break;
         case 'whatsapp':
-          url = `https://wa.me/?text=${encodeURIComponent(`${shareText}\n${shareUrl}`)}`;
+          url = `https://wa.me/?text=${encodeURIComponent(`${shareText} ${shareUrl}`)}`;
           break;
         case 'copy':
           try {
-            await navigator.clipboard.writeText(`${shareText}\n${shareUrl}`);
-            alert('Copied to clipboard!');
+            await navigator.clipboard.writeText(`${shareText} ${shareUrl}`);
+            alert('Link copied! 🎉');
           } catch (err) {
             console.error('Failed to copy:', err);
           }
@@ -14638,35 +14637,46 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
             </TouchableOpacity>
           </View>
 
-          {/* Share Buttons - Issue #637 */}
+          {/* Share Buttons - Issue #637, #647 */}
           <View style={styles.shareSection}>
-            <Text style={[styles.shareTitle, { color: theme.text }]}>Share Your Result</Text>
+            <Text style={[styles.shareTitle, { color: theme.text }]}>🔥 Share Your Result</Text>
             <View style={[styles.shareButtons, { flexWrap: 'wrap', justifyContent: 'center' }]}>
               <TouchableOpacity
                 onPress={() => handleShare('twitter')}
-                style={[styles.shareButton, { backgroundColor: colors.buttons.ghost.bg, borderWidth: 1, borderColor: colors.buttons.ghost.border }]}
+                style={[styles.shareButton, styles.shareButtonTwitter]}
+                accessibilityLabel="Share on Twitter"
+                accessibilityRole="button"
               >
-                <Text style={[styles.shareButtonText, { color: '#1DA1F2' }]}>𝕏 Twitter</Text>
+                <Text style={styles.shareButtonText}>𝕏</Text>
               </TouchableOpacity>
               <TouchableOpacity
                 onPress={() => handleShare('facebook')}
-                style={[styles.shareButton, { backgroundColor: colors.buttons.ghost.bg, borderWidth: 1, borderColor: colors.buttons.ghost.border }]}
+                style={[styles.shareButton, styles.shareButtonFacebook]}
+                accessibilityLabel="Share on Facebook"
+                accessibilityRole="button"
               >
-                <Text style={[styles.shareButtonText, { color: '#4267B2' }]}>Facebook</Text>
+                <Text style={styles.shareButtonText}>f</Text>
               </TouchableOpacity>
               <TouchableOpacity
                 onPress={() => handleShare('whatsapp')}
-                style={[styles.shareButton, { backgroundColor: colors.buttons.ghost.bg, borderWidth: 1, borderColor: colors.buttons.ghost.border }]}
+                style={[styles.shareButton, styles.shareButtonWhatsapp]}
+                accessibilityLabel="Share on WhatsApp"
+                accessibilityRole="button"
               >
-                <Text style={[styles.shareButtonText, { color: '#25D366' }]}>WhatsApp</Text>
+                <Text style={styles.shareButtonText}>💬</Text>
               </TouchableOpacity>
               <TouchableOpacity
                 onPress={() => handleShare('copy')}
                 style={[styles.shareButton, { backgroundColor: theme.border }]}
+                accessibilityLabel="Copy link to clipboard"
+                accessibilityRole="button"
               >
-                <Text style={[styles.shareButtonText, { color: theme.text }]}>📋 Copy</Text>
+                <Text style={[styles.shareButtonText, { color: theme.text }]}>🔗</Text>
               </TouchableOpacity>
             </View>
+            <Text style={[styles.shareSubtext, { color: theme.secondaryText }]}>
+              {quizCount.toLocaleString()}+ drummers have taken this quiz
+            </Text>
           </View>
 
           {/* Runner Ups */}
@@ -20315,14 +20325,30 @@ const styles = StyleSheet.create({
     gap: spacing[3],               // 12px
   },
   shareButton: {
-    paddingHorizontal: spacing[4], // 16px
-    paddingVertical: spacing[3],   // 12px (was 10)
-    borderRadius: spacing[2],      // 8px
+    width: 48,
+    height: 48,
+    borderRadius: 24,              // Circular buttons (Issue #647)
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  shareButtonTwitter: {
+    backgroundColor: '#000000',    // X/Twitter black
+  },
+  shareButtonFacebook: {
+    backgroundColor: '#1877F2',    // Facebook blue
+  },
+  shareButtonWhatsapp: {
+    backgroundColor: '#25D366',    // WhatsApp green
   },
   shareButtonText: {
     color: '#ffffff',
-    fontWeight: fontWeight.semibold,
+    fontWeight: fontWeight.bold,
+    fontSize: fontSize.lg,
+  },
+  shareSubtext: {
+    marginTop: spacing[3],
     fontSize: fontSize.sm,
+    textAlign: 'center',
   },
   runnerUpsSection: {
     marginBottom: spacing[6],      // 24px

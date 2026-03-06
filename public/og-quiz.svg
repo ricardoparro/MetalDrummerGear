@@ -1,0 +1,40 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background gradient -->
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#16213e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e94560"/>
+      <stop offset="100%" style="stop-color:#ff6b6b"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  
+  <!-- Drum emoji (larger) -->
+  <text x="600" y="200" font-size="120" text-anchor="middle" dominant-baseline="middle">🥁</text>
+  
+  <!-- Title -->
+  <text x="600" y="330" font-family="system-ui, -apple-system, sans-serif" font-size="56" font-weight="bold" fill="white" text-anchor="middle">
+    Which Metal Drummer Are You?
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="600" y="400" font-family="system-ui, -apple-system, sans-serif" font-size="32" fill="#9ca3af" text-anchor="middle">
+    Find your legendary drummer match!
+  </text>
+  
+  <!-- CTA Button -->
+  <rect x="450" y="450" width="300" height="60" rx="30" fill="url(#accent)"/>
+  <text x="600" y="490" font-family="system-ui, -apple-system, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">
+    🤘 Take the Quiz
+  </text>
+  
+  <!-- MetalForge logo/brand -->
+  <text x="600" y="590" font-family="system-ui, -apple-system, sans-serif" font-size="20" fill="#6b7280" text-anchor="middle">
+    metalforge.io
+  </text>
+</svg>

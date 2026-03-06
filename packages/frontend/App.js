@@ -172,6 +172,28 @@ function getAllGenreSlugs() { return _genresModule?.getAllGenreSlugs() || []; }
 function getDrummersByGenre(slug, drummers) { return _genresModule?.getDrummersByGenre(slug, drummers) || []; }
 function getRelatedGenres(slug) { return _genresModule?.getRelatedGenres(slug) || []; }
 
+// Brand data for landing pages (Issue #656)
+// Lazy loaded for TBT optimization
+let _brandsModule = null;
+let _brandsLoadPromise = null;
+const loadBrands = () => import('./data/brands');
+
+function preloadBrands() {
+  if (!_brandsLoadPromise) {
+    _brandsLoadPromise = loadBrands().then(m => { _brandsModule = m; return m; });
+  }
+  return _brandsLoadPromise;
+}
+function isBrandsLoaded() { return _brandsModule !== null; }
+function getBrandData(slug) { return _brandsModule?.getBrand(slug) || null; }
+function getAllBrandsData() { return _brandsModule?.getAllBrands() || []; }
+function hasBrandData(slug) { return _brandsModule?.hasBrand(slug) || false; }
+function getAllBrandSlugsData() { return _brandsModule?.getAllBrandSlugs() || []; }
+function getDrummersByBrandData(slug, drummers) { return _brandsModule?.getDrummersByBrand(slug, drummers) || []; }
+function getDrummerBrandGearData(drummer, slug) { return _brandsModule?.getDrummerBrandGear(drummer, slug) || []; }
+function getDrumBrandsData() { return _brandsModule?.getDrumBrands() || []; }
+function getCymbalBrandsData() { return _brandsModule?.getCymbalBrands() || []; }
+
 // Gear comparison data (Issue #345)
 // Lazy loaded for TBT optimization (#537)
 let _gearComparisonsModule = null;
@@ -9636,6 +9658,499 @@ function GenresListPage({ onBack, onSelectGenre, theme }) {
 }
 
 // ==========================================
+// BRAND LANDING PAGES (Issue #656)
+// ==========================================
+
+// Brand Landing Page - Shows drummers using a specific brand
+function BrandLandingPage({ brandSlug, drummers, onBack, onSelectDrummer, onNavigateBrand, theme }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const brand = getBrandData(brandSlug);
+
+  // Filter drummers for this brand
+  const brandDrummers = useMemo(() => {
+    if (!brand || !drummers) return [];
+    return getDrummersByBrandData(brandSlug, drummers);
+  }, [brandSlug, drummers, brand]);
+
+  // Update SEO meta tags for brand page
+  useEffect(() => {
+    if (Platform.OS === 'web' && typeof document !== 'undefined' && brand) {
+      const pageTitle = brand.metaTitle || `${brand.name} Metal Drummers - Who Plays ${brand.name} | MetalForge`;
+      const pageDescription = brand.metaDescription || brand.description;
+
+      document.title = pageTitle;
+
+      const setMeta = (name, content, isProperty = false) => {
+        const attr = isProperty ? 'property' : 'name';
+        let meta = document.querySelector(`meta[${attr}="${name}"]`);
+        if (!meta) {
+          meta = document.createElement('meta');
+          meta.setAttribute(attr, name);
+          document.head.appendChild(meta);
+        }
+        meta.setAttribute('content', content);
+      };
+
+      // Standard meta tags
+      setMeta('description', pageDescription);
+      setMeta('keywords', brand.keywords?.join(', ') || `${brand.name} drums, ${brand.name} metal drummers`);
+
+      // OpenGraph tags
+      setMeta('og:title', pageTitle, true);
+      setMeta('og:description', pageDescription, true);
+      setMeta('og:type', 'website', true);
+      setMeta('og:url', `https://metalforge.io/brands/${brandSlug}`, true);
+      setMeta('og:site_name', 'MetalForge', true);
+
+      // Twitter Card tags
+      setMeta('twitter:card', 'summary_large_image');
+      setMeta('twitter:site', '@MetalDrumGear');
+      setMeta('twitter:title', pageTitle);
+      setMeta('twitter:description', pageDescription);
+
+      // Canonical URL
+      let canonicalLink = document.querySelector('link[rel="canonical"]');
+      if (!canonicalLink) {
+        canonicalLink = document.createElement('link');
+        canonicalLink.setAttribute('rel', 'canonical');
+        document.head.appendChild(canonicalLink);
+      }
+      canonicalLink.setAttribute('href', `https://metalforge.io/brands/${brandSlug}`);
+
+      // Schema.org Structured Data - Organization + ItemList
+      const brandSchema = {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Organization",
+            "name": brand.name,
+            "description": brand.description,
+            "foundingDate": brand.foundedYear,
+            "foundingLocation": brand.country,
+            "url": `https://metalforge.io/brands/${brandSlug}`
+          },
+          {
+            "@type": "CollectionPage",
+            "name": `${brand.name} Metal Drummers`,
+            "description": brand.description,
+            "url": `https://metalforge.io/brands/${brandSlug}`,
+            "mainEntity": {
+              "@type": "ItemList",
+              "name": `Metal Drummers Using ${brand.name}`,
+              "description": `Professional metal drummers who play ${brand.name} ${brand.type}`,
+              "numberOfItems": brandDrummers.length,
+              "itemListElement": brandDrummers.slice(0, 10).map((drummer, index) => ({
+                "@type": "ListItem",
+                "position": index + 1,
+                "item": {
+                  "@type": "Person",
+                  "name": drummer.name,
+                  "jobTitle": "Drummer",
+                  "worksFor": {
+                    "@type": "MusicGroup",
+                    "name": drummer.band
+                  },
+                  "url": `https://metalforge.io/drummer/${drummer.name.toLowerCase().replace(/\s+/g, '-')}`
+                }
+              }))
+            }
+          }
+        ]
+      };
+
+      let ldScript = document.querySelector('script[data-schema="brand"]');
+      if (!ldScript) {
+        ldScript = document.createElement('script');
+        ldScript.type = 'application/ld+json';
+        ldScript.setAttribute('data-schema', 'brand');
+        document.head.appendChild(ldScript);
+      }
+      ldScript.textContent = JSON.stringify(brandSchema);
+
+      // FAQ Schema if brand has FAQ
+      if (brand.faq && brand.faq.length > 0) {
+        const faqSchema = {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": brand.faq.map(faqItem => ({
+            "@type": "Question",
+            "name": faqItem.question,
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": faqItem.answer
+            }
+          }))
+        };
+
+        let faqLdScript = document.querySelector('script[data-schema="brand-faq"]');
+        if (!faqLdScript) {
+          faqLdScript = document.createElement('script');
+          faqLdScript.type = 'application/ld+json';
+          faqLdScript.setAttribute('data-schema', 'brand-faq');
+          document.head.appendChild(faqLdScript);
+        }
+        faqLdScript.textContent = JSON.stringify(faqSchema);
+      }
+
+      // BreadcrumbList Schema
+      const breadcrumbSchema = {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://metalforge.io"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Brands",
+            "item": "https://metalforge.io/brands"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": brand.name,
+            "item": `https://metalforge.io/brands/${brandSlug}`
+          }
+        ]
+      };
+
+      let breadcrumbScript = document.querySelector('script[data-schema="brand-breadcrumb"]');
+      if (!breadcrumbScript) {
+        breadcrumbScript = document.createElement('script');
+        breadcrumbScript.type = 'application/ld+json';
+        breadcrumbScript.setAttribute('data-schema', 'brand-breadcrumb');
+        document.head.appendChild(breadcrumbScript);
+      }
+      breadcrumbScript.textContent = JSON.stringify(breadcrumbSchema);
+    }
+
+    // Cleanup on unmount
+    return () => {
+      if (Platform.OS === 'web' && typeof document !== 'undefined') {
+        const ldScript = document.querySelector('script[data-schema="brand"]');
+        if (ldScript) ldScript.remove();
+        const faqLdScript = document.querySelector('script[data-schema="brand-faq"]');
+        if (faqLdScript) faqLdScript.remove();
+        const breadcrumbScript = document.querySelector('script[data-schema="brand-breadcrumb"]');
+        if (breadcrumbScript) breadcrumbScript.remove();
+        const canonicalLink = document.querySelector('link[rel="canonical"][href*="/brands/"]');
+        if (canonicalLink) canonicalLink.remove();
+      }
+    };
+  }, [brand, brandSlug, brandDrummers]);
+
+  // Brand not found
+  if (!brand) {
+    return (
+      <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+        <View style={styles.detailContent}>
+          <TouchableOpacity
+            onPress={onBack}
+            style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+            accessibilityRole="button"
+            accessibilityLabel="Go back"
+          >
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+          </TouchableOpacity>
+          <Text style={[styles.bandPageTitle, { color: theme.text }]}>Brand Not Found</Text>
+          <Text style={[styles.bandPageSubtitle, { color: theme.secondaryText }]}>
+            The brand "{brandSlug}" could not be found. Please check the URL and try again.
+          </Text>
+        </View>
+      </ScrollView>
+    );
+  }
+
+  return (
+    <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+      <View style={styles.detailContent}>
+        {/* Back Button */}
+        <TouchableOpacity
+          onPress={onBack}
+          style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          accessibilityRole="button"
+          accessibilityLabel="Go back to brands"
+        >
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+        </TouchableOpacity>
+
+        {/* Brand Header */}
+        <View style={[styles.genreHeader, { marginBottom: 24 }]}>
+          <View style={[styles.flexRow, styles.mb2]}>
+            <Text style={{ fontSize: 40, marginRight: 12 }}>{brand.icon}</Text>
+            <View style={styles.flex1}>
+              <Text style={[styles.bandPageTitle, { color: theme.text, marginBottom: 0 }]}>
+                {brand.name}
+              </Text>
+              <Text style={[styles.genreTagline, { color: theme.accent }]}>
+                {brandDrummers.length} drummer{brandDrummers.length !== 1 ? 's' : ''} • {brand.type === 'drums' ? 'Drum Brand' : 'Cymbal Brand'} • Est. {brand.foundedYear}
+              </Text>
+            </View>
+          </View>
+          <Text style={[styles.bandSummary, { color: theme.secondaryText }]}>
+            {brand.description}
+          </Text>
+        </View>
+
+        {/* Long Description */}
+        <View style={[styles.genreSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.sectionTitle, { color: theme.text }]}>About {brand.name}</Text>
+          {brand.longDescription.split('\n\n').map((paragraph, index) => (
+            <Text key={index} style={[styles.genreParagraph, { color: theme.secondaryText }]}>
+              {paragraph.startsWith('- **') 
+                ? paragraph.replace(/\*\*([^*]+)\*\*/g, '$1')
+                : paragraph.replace(/\*\*([^*]+)\*\*/g, '$1')}
+            </Text>
+          ))}
+        </View>
+
+        {/* Popular Models Section */}
+        {brand.popularModels && brand.popularModels.length > 0 && (
+          <View style={[styles.genreSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>Popular {brand.name} Models</Text>
+            <View style={styles.gappedLayout1}>
+              {brand.popularModels.map((model, index) => (
+                <View key={index} style={{ 
+                  backgroundColor: theme.background,
+                  borderColor: theme.border,
+                  borderWidth: 1,
+                  borderRadius: 8,
+                  padding: 12,
+                }}>
+                  <Text style={[styles.drummerName, { color: theme.text, fontSize: 16, marginBottom: 4 }]}>
+                    {model.name}
+                  </Text>
+                  <Text style={[styles.textSm, { color: theme.secondaryText }]}>
+                    {model.description}
+                  </Text>
+                </View>
+              ))}
+            </View>
+          </View>
+        )}
+
+        {/* Drummers using this Brand */}
+        {brandDrummers.length > 0 && (
+          <View style={[styles.genreSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>
+              Metal Drummers Using {brand.name} ({brandDrummers.length})
+            </Text>
+            <View style={styles.gappedLayout1}>
+              {brandDrummers.map((drummer) => {
+                const gearItems = getDrummerBrandGearData(drummer, brandSlug);
+                return (
+                  <TouchableOpacity
+                    key={drummer.id}
+                    style={[styles.drummerRow, { 
+                      backgroundColor: theme.background,
+                      borderColor: theme.border,
+                      borderWidth: 1,
+                      borderRadius: 8,
+                      padding: 12,
+                      flexDirection: 'row',
+                      alignItems: 'center',
+                    }]}
+                    onPress={() => onSelectDrummer(drummer.id)}
+                    accessibilityRole="button"
+                    accessibilityLabel={`View ${drummer.name}`}
+                  >
+                    {drummer.image && (
+                      <Image
+                        source={{ uri: getOptimizedImageUrl(drummer.image, 60) }}
+                        style={{ 
+                          width: 50, 
+                          height: 50, 
+                          borderRadius: 25, 
+                          marginRight: 12,
+                          backgroundColor: theme.border
+                        }}
+                        contentFit="cover"
+                      />
+                    )}
+                    <View style={styles.flexOne1}>
+                      <Text style={[styles.drummerName, { color: theme.text, fontSize: 16 }]}>
+                        {drummer.name}
+                      </Text>
+                      <Text style={[styles.textSm, { color: theme.secondaryText }]}>
+                        {drummer.band}
+                      </Text>
+                      {gearItems.length > 0 && (
+                        <Text style={[styles.textSm, { color: brand.color, marginTop: 4 }]} numberOfLines={1}>
+                          {gearItems.map(g => g.item).slice(0, 2).join(', ')}
+                        </Text>
+                      )}
+                    </View>
+                    <Text style={{ color: theme.accent, fontSize: 18 }}>→</Text>
+                  </TouchableOpacity>
+                );
+              })}
+            </View>
+          </View>
+        )}
+
+        {/* FAQ Section */}
+        {brand.faq && brand.faq.length > 0 && (
+          <View style={[styles.genreSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>Frequently Asked Questions</Text>
+            {brand.faq.map((faqItem, index) => (
+              <View key={index} style={{ marginBottom: index < brand.faq.length - 1 ? 16 : 0 }}>
+                <Text style={[styles.faqQuestion, { color: theme.text }]}>
+                  {faqItem.question}
+                </Text>
+                <Text style={[styles.faqAnswer, { color: theme.secondaryText }]}>
+                  {faqItem.answer}
+                </Text>
+              </View>
+            ))}
+          </View>
+        )}
+
+        {/* Related Brands - Browse Other Brands */}
+        <View style={[styles.genreSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.sectionTitle, { color: theme.text }]}>Explore Other {brand.type === 'drums' ? 'Drum' : 'Cymbal'} Brands</Text>
+          <View style={[styles.flexRowWrap, styles.gap2]}>
+            {(brand.type === 'drums' ? getDrumBrandsData() : getCymbalBrandsData())
+              .filter(b => b.slug !== brandSlug)
+              .map((otherBrand) => (
+                <TouchableOpacity
+                  key={otherBrand.slug}
+                  style={[styles.pioneerTag, { 
+                    backgroundColor: otherBrand.color + '20',
+                    borderColor: otherBrand.color,
+                    borderWidth: 1,
+                    paddingHorizontal: 12,
+                    paddingVertical: 8,
+                    borderRadius: 8,
+                  }]}
+                  onPress={() => onNavigateBrand(otherBrand.slug)}
+                  accessibilityRole="button"
+                >
+                  <Text style={{ color: otherBrand.color, fontWeight: '600' }}>
+                    {otherBrand.icon} {otherBrand.name} →
+                  </Text>
+                </TouchableOpacity>
+              ))}
+          </View>
+        </View>
+      </View>
+    </ScrollView>
+  );
+}
+
+// Brands List Page - Browse all brands
+function BrandsListPage({ onBack, onSelectBrand, theme }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const drumBrands = getDrumBrandsData();
+  const cymbalBrands = getCymbalBrandsData();
+
+  // Update SEO
+  useEffect(() => {
+    if (Platform.OS === 'web' && typeof document !== 'undefined') {
+      document.title = 'Metal Drum & Cymbal Brands - Tama, Pearl, Zildjian & More | MetalForge';
+      const setMeta = (name, content, isProperty = false) => {
+        const attr = isProperty ? 'property' : 'name';
+        let meta = document.querySelector(`meta[${attr}="${name}"]`);
+        if (!meta) {
+          meta = document.createElement('meta');
+          meta.setAttribute(attr, name);
+          document.head.appendChild(meta);
+        }
+        meta.setAttribute('content', content);
+      };
+      setMeta('description', 'Explore top drum and cymbal brands used by metal drummers. Discover which legendary drummers play Tama, Pearl, DW, Zildjian, Paiste, Meinl, and Sabian.');
+      setMeta('og:title', 'Metal Drum & Cymbal Brands | MetalForge', true);
+      setMeta('og:description', 'Explore brands used by metal drummers.', true);
+      setMeta('og:url', 'https://metalforge.io/brands', true);
+    }
+  }, []);
+
+  const renderBrandCard = (brand) => (
+    <TouchableOpacity
+      key={brand.slug}
+      style={[styles.genreCard, { 
+        backgroundColor: theme.card,
+        borderColor: brand.color,
+        borderWidth: 2,
+        borderRadius: 12,
+        padding: 16,
+        width: isMobile ? '100%' : 'calc(50% - 8px)',
+        maxWidth: 400,
+      }]}
+      onPress={() => onSelectBrand(brand.slug)}
+      accessibilityRole="button"
+      accessibilityLabel={`Explore ${brand.name}`}
+    >
+      <View style={[styles.flexRow, styles.mb2]}>
+        <Text style={{ fontSize: 28, marginRight: 10 }}>{brand.icon}</Text>
+        <Text style={[styles.genreCardTitle, { color: theme.text, flex: 1 }]}>
+          {brand.name}
+        </Text>
+      </View>
+      <Text style={[styles.textSm, styles.lineHeightSm, { color: theme.secondaryText }]} numberOfLines={3}>
+        {brand.description}
+      </Text>
+      <View style={styles.rowLayout6}>
+        <Text style={{ color: brand.color, fontWeight: '600', fontSize: 12 }}>
+          {brand.country} • Est. {brand.foundedYear}
+        </Text>
+        <Text style={{ color: theme.accent, fontWeight: '600' }}>
+          Explore →
+        </Text>
+      </View>
+    </TouchableOpacity>
+  );
+
+  return (
+    <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+      <View style={styles.detailContent}>
+        <TouchableOpacity
+          onPress={onBack}
+          style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          accessibilityRole="button"
+          accessibilityLabel="Go back"
+        >
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+        </TouchableOpacity>
+
+        <Text style={[styles.bandPageTitle, { color: theme.text }]}>Drum & Cymbal Brands</Text>
+        <Text style={[styles.bandPageSubtitle, { color: theme.secondaryText, marginBottom: 24 }]}>
+          Discover which brands legendary metal drummers trust for their setups.
+        </Text>
+
+        {/* Drum Brands Section */}
+        <Text style={[styles.sectionTitle, { color: theme.text, marginBottom: 16 }]}>🥁 Drum Brands</Text>
+        <View style={{ 
+          flexDirection: 'row', 
+          flexWrap: 'wrap', 
+          gap: 16,
+          justifyContent: isMobile ? 'center' : 'flex-start',
+          marginBottom: 32,
+        }}>
+          {drumBrands.map(renderBrandCard)}
+        </View>
+
+        {/* Cymbal Brands Section */}
+        <Text style={[styles.sectionTitle, { color: theme.text, marginBottom: 16 }]}>🎼 Cymbal Brands</Text>
+        <View style={{ 
+          flexDirection: 'row', 
+          flexWrap: 'wrap', 
+          gap: 16,
+          justifyContent: isMobile ? 'center' : 'flex-start',
+        }}>
+          {cymbalBrands.map(renderBrandCard)}
+        </View>
+      </View>
+    </ScrollView>
+  );
+}
+
+// ==========================================
 // GEAR COMPARISON PAGES (Issue #345)
 // ==========================================
 
@@ -12924,6 +13439,35 @@ function isGenresListPage() {
 function updateGenreURL(slug) {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return;
   window.history.pushState({}, '', `/genre/${slug}`);
+}
+
+// ==========================================
+// BRAND PAGE ROUTING (Issue #656)
+// ==========================================
+
+// Check if we're on a brand landing page (/brands/:slug)
+function isBrandLandingPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  return /^\/brands\/[a-z0-9-]+$/i.test(window.location.pathname);
+}
+
+// Get the brand slug from URL
+function getBrandSlugFromURL() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(/^\/brands\/([a-z0-9-]+)$/i);
+  return match ? match[1] : null;
+}
+
+// Check if we're on the brands listing page (/brands)
+function isBrandsListPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  return window.location.pathname === '/brands' || window.location.pathname === '/brands/';
+}
+
+// Update URL for brand landing page
+function updateBrandURL(slug) {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return;
+  window.history.pushState({}, '', `/brands/${slug}`);
 }
 
 // ==========================================
@@ -16359,6 +16903,11 @@ function AppContent() {
   const [genreSlug, setGenreSlug] = useState(() => getGenreSlugFromURL());
   const [showGenresList, setShowGenresList] = useState(() => isGenresListPage());
 
+  // Brand Landing Page state (Issue #656)
+  const [showBrandPage, setShowBrandPage] = useState(() => isBrandLandingPage());
+  const [brandSlug, setBrandSlug] = useState(() => getBrandSlugFromURL());
+  const [showBrandsList, setShowBrandsList] = useState(() => isBrandsListPage());
+
   // Kit Builder Page state (Issue #341)
   const [showKitBuilder, setShowKitBuilder] = useState(() => isKitBuilderPage());
 
@@ -16676,6 +17225,7 @@ function AppContent() {
         // Preload in priority order based on user navigation patterns
         preloadBands();
         preloadGenres();
+        preloadBrands(); // Issue #656: Brand landing pages
         preloadBirthdays();
         preloadGearComparisons();
         preloadTechniques();
@@ -17089,6 +17639,58 @@ function AppContent() {
       } else if (isGenresListPage()) {
         // Genres list page (Issue #340)
         setShowGenresList(true);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowBrandPage(false);
+        setBrandSlug(null);
+        setShowBrandsList(false);
+        setShowKitBuilder(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowList(false);
+        setListSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+      } else if (isBrandLandingPage()) {
+        // Brand landing page (Issue #656)
+        const slug = getBrandSlugFromURL();
+        setShowBrandPage(true);
+        setBrandSlug(slug);
+        setShowBrandsList(false);
+        setShowGenresList(false);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowKitBuilder(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowList(false);
+        setListSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+      } else if (isBrandsListPage()) {
+        // Brands list page (Issue #656)
+        setShowBrandsList(true);
+        setShowBrandPage(false);
+        setBrandSlug(null);
+        setShowGenresList(false);
         setShowGenrePage(false);
         setGenreSlug(null);
         setShowKitBuilder(false);
@@ -18026,6 +18628,9 @@ setShowList(false);
     setShowGenrePage(false);
     setGenreSlug(null);
     // Reset other views
+    setShowBrandPage(false);
+    setBrandSlug(null);
+    setShowBrandsList(false);
     setShowKitBuilder(false);
     setShowGearFinder(false);
     setShowGearByBudget(false);
@@ -18050,6 +18655,78 @@ setShowList(false);
     // Update URL
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
       window.history.pushState({}, '', '/genres');
+    }
+  };
+
+  // Navigate to brand landing page (Issue #656)
+  const handleNavigateToBrand = (slug) => {
+    setShowBrandPage(true);
+    setBrandSlug(slug);
+    setShowBrandsList(false);
+    // Reset other views
+    setShowGenresList(false);
+    setShowGenrePage(false);
+    setGenreSlug(null);
+    setShowKitBuilder(false);
+    setShowGearFinder(false);
+    setShowGearByBudget(false);
+    setShowGearIndex(false);
+    setShowGearCategory(false);
+    setGearCategory(null);
+    setGearCategoryData(null);
+    setShowBandDetail(false);
+    setBandSlug(null);
+    setShowList(false);
+    setListSlug(null);
+    setShowSpotlights(false);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowPrivacy(false);
+    setShowQuotes(false);
+    setShowBioPage(false);
+    setBioSlug(null);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    // Update URL
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', `/brands/${slug}`);
+    }
+  };
+
+  // Navigate to brands list page (Issue #656)
+  const handleNavigateToBrandsList = () => {
+    setShowBrandsList(true);
+    setShowBrandPage(false);
+    setBrandSlug(null);
+    // Reset other views
+    setShowGenresList(false);
+    setShowGenrePage(false);
+    setGenreSlug(null);
+    setShowKitBuilder(false);
+    setShowGearFinder(false);
+    setShowGearByBudget(false);
+    setShowGearIndex(false);
+    setShowGearCategory(false);
+    setGearCategory(null);
+    setGearCategoryData(null);
+    setShowBandDetail(false);
+    setBandSlug(null);
+    setShowList(false);
+    setListSlug(null);
+    setShowSpotlights(false);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowPrivacy(false);
+    setShowQuotes(false);
+    setShowBioPage(false);
+    setBioSlug(null);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    // Update URL
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/brands');
     }
   };
 
@@ -18114,6 +18791,26 @@ setShowList(false);
   // Handle back from genres list page (Issue #340)
   const handleBackFromGenresList = () => {
     setShowGenresList(false);
+    // Navigate back to home
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/');
+    }
+  };
+
+  // Handle back from brand landing page (Issue #656)
+  const handleBackFromBrand = () => {
+    setShowBrandPage(false);
+    setBrandSlug(null);
+    // Navigate back to brands list
+    setShowBrandsList(true);
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/brands');
+    }
+  };
+
+  // Handle back from brands list page (Issue #656)
+  const handleBackFromBrandsList = () => {
+    setShowBrandsList(false);
     // Navigate back to home
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
       window.history.pushState({}, '', '/');
@@ -18867,6 +19564,29 @@ setShowList(false);
         <GenresListPage
           onBack={handleBackFromGenresList}
           onSelectGenre={handleNavigateToGenre}
+          theme={theme}
+        />
+      );
+    }
+    // Brand Landing Page (Issue #656)
+    if (showBrandPage && brandSlug) {
+      return (
+        <BrandLandingPage
+          brandSlug={brandSlug}
+          drummers={drummers}
+          onBack={handleBackFromBrand}
+          onSelectDrummer={handleSelectDrummer}
+          onNavigateBrand={handleNavigateToBrand}
+          theme={theme}
+        />
+      );
+    }
+    // Brands List Page (Issue #656)
+    if (showBrandsList) {
+      return (
+        <BrandsListPage
+          onBack={handleBackFromBrandsList}
+          onSelectBrand={handleNavigateToBrand}
           theme={theme}
         />
       );

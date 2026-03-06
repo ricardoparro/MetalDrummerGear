@@ -89,6 +89,20 @@ const techniques = [
   { slug: 'fill-techniques', name: 'Metal Drum Fills' },
 ];
 
+// Issue #656: Gear brand landing pages for SEO
+const gearBrands = [
+  // Drum Brands
+  { slug: 'tama', name: 'Tama', type: 'drums' },
+  { slug: 'pearl', name: 'Pearl', type: 'drums' },
+  { slug: 'dw', name: 'DW (Drum Workshop)', type: 'drums' },
+  { slug: 'ludwig', name: 'Ludwig', type: 'drums' },
+  // Cymbal Brands
+  { slug: 'zildjian', name: 'Zildjian', type: 'cymbals' },
+  { slug: 'paiste', name: 'Paiste', type: 'cymbals' },
+  { slug: 'meinl', name: 'Meinl', type: 'cymbals' },
+  { slug: 'sabian', name: 'Sabian', type: 'cymbals' },
+];
+
 // Issue #345: Gear comparison pages for SEO
 const gearComparisons = [
   { slug: 'tama-vs-pearl', name: 'Tama vs Pearl Drums' },
@@ -146,6 +160,9 @@ export default function handler(req, res) {
     ...gearItems.map(g => ({ loc: `/gear/item/${g.slug}`, priority: '0.7', changefreq: 'monthly' })),
     ...bandPages.map(b => ({ loc: `/band/${b.slug}`, priority: '0.8', changefreq: 'monthly' })),
     ...techniques.map(t => ({ loc: `/techniques/${t.slug}`, priority: '0.8', changefreq: 'monthly' })),
+    // Issue #656: Gear brand landing pages
+    { loc: '/brands', priority: '0.9', changefreq: 'weekly' },
+    ...gearBrands.map(b => ({ loc: `/brands/${b.slug}`, priority: '0.8', changefreq: 'monthly' })),
     // Issue #345: Gear comparison pages
     { loc: '/compare', priority: '0.9', changefreq: 'weekly' },
     ...gearComparisons.map(c => ({ loc: `/compare/${c.slug}`, priority: '0.8', changefreq: 'monthly' })),

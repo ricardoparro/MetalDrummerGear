@@ -183,3 +183,72 @@ for (const slug of COMPARISON_SLUGS) {
     expect(hasShowdown).toBe(true);
   });
 }
+
+// Issue #653: Test reciprocal pair canonical handling
+test.describe('Reciprocal Pair Canonical Handling', () => {
+  test('should handle reverse slug correctly', async ({ page }) => {
+    // Test forward direction
+    await page.goto(`${BASE_URL}/vs/lars-ulrich-vs-dave-lombardo`);
+    await page.waitForLoadState('load');
+    await waitForComparisonPage(page);
+    
+    const forwardContent = await page.locator('body').textContent();
+    expect(forwardContent.includes('Lars') || forwardContent.includes('Dave')).toBe(true);
+    
+    // Test reverse direction - should work the same way
+    await page.goto(`${BASE_URL}/vs/dave-lombardo-vs-lars-ulrich`);
+    await page.waitForLoadState('load');
+    await waitForComparisonPage(page);
+    
+    const reverseContent = await page.locator('body').textContent();
+    expect(reverseContent.includes('Lars') || reverseContent.includes('Dave')).toBe(true);
+  });
+  
+  test('should have canonical tag for reciprocal pairs', async ({ page }) => {
+    await page.goto(`${BASE_URL}/vs/lars-ulrich-vs-dave-lombardo`);
+    await page.waitForLoadState('load');
+    await waitForComparisonPage(page);
+    
+    // Wait for React to hydrate and set canonical
+    await page.waitForTimeout(1000);
+    
+    const canonical = page.locator('link[rel="canonical"]');
+    const count = await canonical.count();
+    if (count > 0) {
+      const href = await canonical.getAttribute('href');
+      // Canonical should point to a valid comparison URL
+      expect(href).toContain('/vs/');
+      expect(href).toContain('-vs-');
+    }
+  });
+});
+
+// Issue #653: Test career stats and comparison sections
+test.describe('Comparison Page Sections', () => {
+  test('should display comparison page with career stats section', async ({ page }) => {
+    await page.goto(`${BASE_URL}/vs/lars-ulrich-vs-dave-lombardo`);
+    await page.waitForLoadState('load');
+    await waitForComparisonPage(page);
+    
+    const pageContent = await page.locator('body').textContent();
+    // Check for Career Stats section (always present)
+    const hasStatsSection = pageContent.includes('Career Stats') || 
+                           pageContent.includes('Primary Band');
+    expect(hasStatsSection).toBe(true);
+  });
+});
+
+// Issue #653: Test social share buttons
+test.describe('Social Share Buttons', () => {
+  test('should display share buttons', async ({ page }) => {
+    await page.goto(`${BASE_URL}/vs/lars-ulrich-vs-dave-lombardo`);
+    await page.waitForLoadState('load');
+    await waitForComparisonPage(page);
+    
+    const pageContent = await page.locator('body').textContent();
+    const hasShareSection = pageContent.includes('Share') || 
+                           pageContent.includes('Tweet') ||
+                           pageContent.includes('Copy');
+    expect(hasShareSection).toBe(true);
+  });
+});

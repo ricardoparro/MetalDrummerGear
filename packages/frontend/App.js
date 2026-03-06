@@ -10771,6 +10771,49 @@ function DrummerVsPage({ comparisonSlug, theme, onBack, onSelectDrummer, drummer
           </View>
         </View>
 
+        {/* Speed Stats - Issue #653 */}
+        {(() => {
+          const stats1 = getDrummerBpmStats(drummer1?.name);
+          const stats2 = getDrummerBpmStats(drummer2?.name);
+          if (!stats1 && !stats2) return null;
+          return (
+            <View style={{ marginBottom: 24, backgroundColor: theme.card, borderRadius: 12, padding: 16, borderColor: theme.border, borderWidth: 1 }}>
+              <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>⚡ Speed Stats</Text>
+              <View style={{ borderTopWidth: 1, borderColor: theme.border }}>
+                <View style={{ flexDirection: 'row', backgroundColor: theme.background, paddingVertical: 12, paddingHorizontal: 8 }}>
+                  <Text style={{ flex: 1, fontWeight: '600', color: theme.text, fontSize: 14 }}>Speed</Text>
+                  <Text style={{ flex: 1, fontWeight: '600', color: theme.primary, fontSize: 14, textAlign: 'center' }}>{drummer1?.name?.split(' ')[0] || 'D1'}</Text>
+                  <Text style={{ flex: 1, fontWeight: '600', color: '#3b82f6', fontSize: 14, textAlign: 'center' }}>{drummer2?.name?.split(' ')[0] || 'D2'}</Text>
+                </View>
+                <View style={{ flexDirection: 'row', paddingVertical: 12, paddingHorizontal: 8, borderTopWidth: 1, borderColor: theme.border }}>
+                  <Text style={{ flex: 1, color: theme.secondaryText, fontSize: 13 }}>Max BPM</Text>
+                  <Text style={{ flex: 1, color: stats1?.maxBpm >= (stats2?.maxBpm || 0) ? theme.primary : theme.text, fontSize: 12, textAlign: 'center', fontWeight: stats1?.maxBpm >= (stats2?.maxBpm || 0) ? '600' : 'normal' }}>
+                    {stats1?.maxBpm ? `🔥 ${stats1.maxBpm}` : '-'}
+                  </Text>
+                  <Text style={{ flex: 1, color: (stats2?.maxBpm || 0) >= (stats1?.maxBpm || 0) ? '#3b82f6' : theme.text, fontSize: 12, textAlign: 'center', fontWeight: (stats2?.maxBpm || 0) >= (stats1?.maxBpm || 0) ? '600' : 'normal' }}>
+                    {stats2?.maxBpm ? `🔥 ${stats2.maxBpm}` : '-'}
+                  </Text>
+                </View>
+                <View style={{ flexDirection: 'row', paddingVertical: 12, paddingHorizontal: 8, borderTopWidth: 1, borderColor: theme.border, backgroundColor: theme.background }}>
+                  <Text style={{ flex: 1, color: theme.secondaryText, fontSize: 13 }}>Avg BPM</Text>
+                  <Text style={{ flex: 1, color: theme.text, fontSize: 12, textAlign: 'center' }}>{stats1?.avgBpm || '-'}</Text>
+                  <Text style={{ flex: 1, color: theme.text, fontSize: 12, textAlign: 'center' }}>{stats2?.avgBpm || '-'}</Text>
+                </View>
+                <View style={{ flexDirection: 'row', paddingVertical: 12, paddingHorizontal: 8, borderTopWidth: 1, borderColor: theme.border }}>
+                  <Text style={{ flex: 1, color: theme.secondaryText, fontSize: 13 }}>Fastest Song</Text>
+                  <Text style={{ flex: 1, color: theme.text, fontSize: 11, textAlign: 'center' }} numberOfLines={2}>{stats1?.fastestSong || '-'}</Text>
+                  <Text style={{ flex: 1, color: theme.text, fontSize: 11, textAlign: 'center' }} numberOfLines={2}>{stats2?.fastestSong || '-'}</Text>
+                </View>
+                <View style={{ flexDirection: 'row', paddingVertical: 12, paddingHorizontal: 8, borderTopWidth: 1, borderColor: theme.border, backgroundColor: theme.background }}>
+                  <Text style={{ flex: 1, color: theme.secondaryText, fontSize: 13 }}>Speed Tier</Text>
+                  <Text style={{ flex: 1, color: theme.text, fontSize: 12, textAlign: 'center' }}>{stats1?.category?.emoji} {stats1?.category?.label || '-'}</Text>
+                  <Text style={{ flex: 1, color: theme.text, fontSize: 12, textAlign: 'center' }}>{stats2?.category?.emoji} {stats2?.category?.label || '-'}</Text>
+                </View>
+              </View>
+            </View>
+          );
+        })()}
+
         {/* Verdict */}
         <View style={{ marginBottom: 24, backgroundColor: theme.primary, borderRadius: 12, padding: 20 }}>
           <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 12 }}>🏆 The Verdict</Text>
@@ -13382,6 +13425,33 @@ function getBpmCategory(bpm) {
   if (bpm < 160) return { label: 'Fast', color: colors.semantic.warning, emoji: '🔥' };
   if (bpm < 200) return { label: 'Very Fast', color: colors.semantic.error, emoji: '⚡' };
   return { label: 'Extreme', color: colors.brand.primary, emoji: '💀' };
+}
+
+// Issue #653: Get BPM stats for a drummer from METAL_SONGS_DATABASE
+// Used for "Drummer vs Drummer" speed comparison
+function getDrummerBpmStats(drummerName) {
+  if (!drummerName) return null;
+  
+  const drummerSongs = METAL_SONGS_DATABASE.filter(
+    s => s.drummer?.toLowerCase() === drummerName.toLowerCase()
+  );
+  
+  if (drummerSongs.length === 0) return null;
+  
+  const bpms = drummerSongs.map(s => s.bpm);
+  const maxBpm = Math.max(...bpms);
+  const minBpm = Math.min(...bpms);
+  const avgBpm = Math.round(bpms.reduce((a, b) => a + b, 0) / bpms.length);
+  const fastestSong = drummerSongs.find(s => s.bpm === maxBpm);
+  
+  return {
+    maxBpm,
+    minBpm,
+    avgBpm,
+    songCount: drummerSongs.length,
+    fastestSong: fastestSong?.song,
+    category: getBpmCategory(maxBpm),
+  };
 }
 
 // ==========================================

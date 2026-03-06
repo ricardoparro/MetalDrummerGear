@@ -57,6 +57,18 @@ Update `social-metrics.json`:
 - Use clickbait that doesn't deliver
 - Engage in drama or controversy
 - Post without fact-checking
+- Engage with NSFW/sexual accounts or content
+- Engage with accounts that have inappropriate usernames
+- Engage with spam/bot accounts
+- Reply to or mention accounts with sexual, violent, or offensive names
+- Like/retweet content from suspicious or inappropriate accounts
+
+⚠️ **ACCOUNT SCREENING:**
+Before engaging with ANY account, verify:
+- Username is appropriate (no sexual/offensive terms in any language)
+- Profile doesn't contain NSFW content
+- Account appears legitimate (not spam/bot)
+- Skip engagement if any red flags
 
 ## Hashtags Library
 - #MetalDrumming

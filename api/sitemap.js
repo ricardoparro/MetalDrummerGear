@@ -52,12 +52,15 @@ const top10Lists = [
   { slug: 'most-expensive-drum-setups', name: 'Top 10 Most Expensive Metal Drum Setups' },
   // Issue #642: Fastest Double Bass Drummers article page
   { slug: 'fastest-double-bass-drummers', name: 'Top 10 Fastest Double Bass Drummers in Metal' },
+  // Issue #658: Most Brutal Drum Solos article page
+  { slug: 'most-brutal-drum-solos', name: 'Top 10 Most Brutal Drum Solos in Metal History' },
 ];
 
-// Issue #642: Article pages (SEO-optimized with /articles/:slug route)
+// Issue #642, #658: Article pages (SEO-optimized with /articles/:slug route)
 const articles = [
   { slug: 'most-expensive-drum-setups', name: 'Top 10 Most Expensive Metal Drum Setups' },
   { slug: 'fastest-double-bass-drummers', name: 'Top 10 Fastest Double Bass Drummers in Metal' },
+  { slug: 'most-brutal-drum-solos', name: 'Top 10 Most Brutal Drum Solos in Metal History' },
 ];
 
 const bandPages = [

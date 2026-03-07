@@ -113,6 +113,28 @@
       ]
     },
     {
+      "source": "/gear-news/feed.xml",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, s-maxage=3600, stale-while-revalidate=7200"
+        },
+        {
+          "key": "Content-Type",
+          "value": "application/rss+xml; charset=utf-8"
+        }
+      ]
+    },
+    {
+      "source": "/api/gear-news/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, s-maxage=3600, stale-while-revalidate=7200"
+        }
+      ]
+    },
+    {
       "source": "/(.*).js",
       "headers": [
         {
@@ -155,6 +177,7 @@
     { "source": "/api/drummers/:id", "destination": "/api/drummers/[id]?id=:id" },
     { "source": "/api/gear/category/:category", "destination": "/api/gear/category/[category]?category=:category" },
     { "source": "/api/gear/:id", "destination": "/api/gear/[id]?id=:id" },
+    { "source": "/gear-news/feed.xml", "destination": "/api/gear-news/feed" },
     { "source": "/:path*", "destination": "/index.html" }
   ]
 }

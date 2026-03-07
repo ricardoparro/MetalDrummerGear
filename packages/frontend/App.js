@@ -71,6 +71,16 @@ import {
   MANUAL_OVERRIDE
 } from './data/featuredDrummer';
 
+// Gear News for /gear-news page (Issue #660)
+import {
+  GEAR_NEWS,
+  CHANGE_TYPES,
+  getChangeTypeEmoji,
+  getChangeTypeLabel,
+  formatNewsDate,
+  getRecentNews,
+} from './data/gearNews';
+
 // Extended bios for drummer detail pages (Issue #305)
 // Loaded dynamically for code splitting (~9KB of text data) - TBT optimization #460
 // Fix for #541: Added Promise caching and listeners for reliable async loading
@@ -12546,6 +12556,174 @@ function NewsPage({ theme, onBack, onNavigateToDrummer, onNavigateToBand }) {
 }
 
 // ==========================================
+// GEAR NEWS PAGE - Latest gear updates with RSS (Issue #660)
+// ==========================================
+
+function GearNewsPage({ theme, onBack, onNavigateToDrummer, onNavigateToBrand }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const news = useMemo(() => getRecentNews(60), []); // Last 60 days of updates
+
+  // Update SEO meta tags
+  useEffect(() => {
+    updateGearNewsMeta();
+  }, []);
+
+  // Navigate to drummer profile
+  const handleDrummerPress = (drummerSlug) => {
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', `/drummer/${drummerSlug}`);
+      window.dispatchEvent(new PopStateEvent('popstate'));
+    }
+  };
+
+  // Navigate to brand page
+  const handleBrandPress = (brandSlug) => {
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', `/brands/${brandSlug}`);
+      window.dispatchEvent(new PopStateEvent('popstate'));
+    }
+  };
+
+  return (
+    <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+      <View style={[styles.detailContent, isMobile && { paddingHorizontal: 16 }]}>
+        {/* Header */}
+        <View style={styles.newsPageHeader}>
+          <TouchableOpacity
+            onPress={onBack}
+            style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+            accessibilityRole="button"
+            accessibilityLabel="Go back to home"
+          >
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Home</Text>
+          </TouchableOpacity>
+          
+          <Text style={[styles.newsPageTitle, { color: theme.text }]} accessibilityRole="header">
+            🔥 Latest Gear Updates
+          </Text>
+          <Text style={[styles.newsPageSubtitle, { color: theme.secondaryText }]}>
+            What the pros are adding, removing, and switching in their setups
+          </Text>
+          
+          {/* RSS Subscribe Button */}
+          <TouchableOpacity
+            onPress={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.open('/gear-news/feed.xml', '_blank');
+              }
+            }}
+            style={[styles.gearNewsRssButton, { backgroundColor: theme.primary }]}
+            accessibilityRole="link"
+            accessibilityLabel="Subscribe to RSS feed"
+          >
+            <Text style={styles.gearNewsRssText}>📡 Subscribe via RSS</Text>
+          </TouchableOpacity>
+        </View>
+        
+        {/* News Feed */}
+        <View style={styles.gap4}>
+          {news.map((item, index) => (
+            <GearNewsCard
+              key={item.id}
+              item={item}
+              theme={theme}
+              onDrummerPress={handleDrummerPress}
+              onBrandPress={handleBrandPress}
+              isFirst={index === 0}
+            />
+          ))}
+        </View>
+        
+        {/* Empty state */}
+        {news.length === 0 && (
+          <View style={styles.newsEmpty}>
+            <Text style={[styles.newsEmptyText, { color: theme.secondaryText }]}>
+              No recent gear updates. Check back soon!
+            </Text>
+          </View>
+        )}
+        
+        {/* Attribution */}
+        <View style={[styles.newsAttribution, { borderTopColor: theme.border }]}>
+          <Text style={[styles.newsAttributionText, { color: theme.secondaryText }]}>
+            Gear updates are manually curated from official endorsement pages, interviews, and verified sources.
+            {'\n\n'}
+            Want to report a gear update? Tweet us @MetalDrumGear
+          </Text>
+        </View>
+      </View>
+    </ScrollView>
+  );
+}
+
+// Gear News Card Component
+function GearNewsCard({ item, theme, onDrummerPress, onBrandPress, isFirst }) {
+  const emoji = getChangeTypeEmoji(item.type);
+  const typeLabel = getChangeTypeLabel(item.type);
+  const formattedDate = formatNewsDate(item.date);
+  
+  return (
+    <View 
+      style={[
+        styles.gearNewsCard, 
+        { backgroundColor: theme.card, borderColor: theme.border },
+        isFirst && styles.gearNewsCardFirst
+      ]}
+    >
+      {/* Date Badge */}
+      <View style={styles.gearNewsDateRow}>
+        <Text style={[styles.gearNewsEmoji]}>{emoji}</Text>
+        <Text style={[styles.gearNewsDate, { color: theme.secondaryText }]}>{formattedDate}</Text>
+      </View>
+      
+      {/* Title */}
+      <Text style={[styles.gearNewsTitle, { color: theme.text }]}>
+        {item.title}
+      </Text>
+      
+      {/* Description */}
+      <Text style={[styles.gearNewsDescription, { color: theme.secondaryText }]}>
+        {item.description}
+      </Text>
+      
+      {/* Note (if present) */}
+      {item.note && (
+        <Text style={[styles.gearNewsNote, { color: theme.secondaryText }]}>
+          💡 {item.note}
+        </Text>
+      )}
+      
+      {/* Action Links */}
+      <View style={styles.gearNewsActions}>
+        {item.drummerSlug && (
+          <TouchableOpacity
+            onPress={() => onDrummerPress(item.drummerSlug)}
+            style={[styles.gearNewsActionBtn, { borderColor: theme.primary }]}
+            accessibilityRole="link"
+          >
+            <Text style={[styles.gearNewsActionText, { color: theme.primary }]}>
+              View {item.drummerName || 'Drummer'} →
+            </Text>
+          </TouchableOpacity>
+        )}
+        {item.brandSlug && (
+          <TouchableOpacity
+            onPress={() => onBrandPress(item.brandSlug)}
+            style={[styles.gearNewsActionBtn, { borderColor: theme.primary }]}
+            accessibilityRole="link"
+          >
+            <Text style={[styles.gearNewsActionText, { color: theme.primary }]}>
+              View Brand Page →
+            </Text>
+          </TouchableOpacity>
+        )}
+      </View>
+    </View>
+  );
+}
+
+// ==========================================
 // HERO SECTION - Homepage hero with prominent search CTA (Issue #493)
 // ==========================================
 
@@ -13488,6 +13666,100 @@ function updateNewsMeta(lastFetch = null) {
     "url": "https://metalforge.io/news",
     "isPartOf": { "@id": "https://metalforge.io" },
     "dateModified": lastFetch || new Date().toISOString(),
+  };
+  const schemaScript = document.createElement('script');
+  schemaScript.id = schemaId;
+  schemaScript.type = 'application/ld+json';
+  schemaScript.textContent = JSON.stringify(schema);
+  document.head.appendChild(schemaScript);
+}
+
+// ==========================================
+// GEAR NEWS PAGE ROUTING (Issue #660)
+// ==========================================
+
+// Check if we're on the gear news page (/gear-news)
+function isGearNewsPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  return window.location.pathname === '/gear-news' || window.location.pathname === '/gear-news/';
+}
+
+// Update meta tags for gear news page SEO
+function updateGearNewsMeta() {
+  if (Platform.OS !== 'web' || typeof document === 'undefined') return;
+
+  const setMeta = (name, content, isProperty = false) => {
+    const attr = isProperty ? 'property' : 'name';
+    let meta = document.querySelector(`meta[${attr}="${name}"]`);
+    if (!meta) {
+      meta = document.createElement('meta');
+      meta.setAttribute(attr, name);
+      document.head.appendChild(meta);
+    }
+    meta.setAttribute('content', content);
+  };
+
+  const title = 'Latest Gear Updates | MetalForge';
+  const description = 'Stay updated with the latest gear changes from metal\'s elite drummers. Gear updates, new setups, and brand news from MetalForge.';
+
+  document.title = title;
+  setMeta('description', description);
+  setMeta('og:title', title, true);
+  setMeta('og:description', description, true);
+  setMeta('og:type', 'website', true);
+  setMeta('og:image', 'https://metalforge.io/og-image.png', true);
+  setMeta('og:url', 'https://metalforge.io/gear-news', true);
+  setMeta('twitter:card', 'summary_large_image');
+  setMeta('twitter:title', title);
+  setMeta('twitter:description', description);
+  setMeta('twitter:image', 'https://metalforge.io/og-image.png');
+
+  // Set canonical URL
+  let canonical = document.querySelector('link[rel="canonical"]');
+  if (!canonical) {
+    canonical = document.createElement('link');
+    canonical.setAttribute('rel', 'canonical');
+    document.head.appendChild(canonical);
+  }
+  canonical.setAttribute('href', 'https://metalforge.io/gear-news');
+
+  // Add RSS link
+  let rssLink = document.querySelector('link[type="application/rss+xml"]');
+  if (!rssLink) {
+    rssLink = document.createElement('link');
+    rssLink.setAttribute('rel', 'alternate');
+    rssLink.setAttribute('type', 'application/rss+xml');
+    rssLink.setAttribute('title', 'MetalForge Gear Updates RSS');
+    rssLink.setAttribute('href', 'https://metalforge.io/gear-news/feed.xml');
+    document.head.appendChild(rssLink);
+  }
+
+  // Add ItemList + NewsArticle schema
+  const schemaId = 'gear-news-page-schema';
+  let existingSchema = document.getElementById(schemaId);
+  if (existingSchema) {
+    existingSchema.remove();
+  }
+  const schema = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "CollectionPage",
+        "name": "Latest Gear Updates",
+        "description": description,
+        "url": "https://metalforge.io/gear-news",
+        "isPartOf": { "@id": "https://metalforge.io" },
+        "dateModified": new Date().toISOString(),
+      },
+      {
+        "@type": "ItemList",
+        "name": "Latest Gear Updates",
+        "description": "Recent gear changes from metal drummers",
+        "itemListOrder": "https://schema.org/ItemListOrderDescending",
+        "numberOfItems": 15,
+        "itemListElement": []
+      }
+    ]
   };
   const schemaScript = document.createElement('script');
   schemaScript.id = schemaId;
@@ -17016,6 +17288,9 @@ function AppContent() {
   // News Page state (Issue #514)
   const [showNewsPage, setShowNewsPage] = useState(() => isNewsPage());
 
+  // Gear News Page state (Issue #660)
+  const [showGearNewsPage, setShowGearNewsPage] = useState(() => isGearNewsPage());
+
   // Drummers Page state - full list with filters (Issue #497)
   const [showDrummersPage, setShowDrummersPage] = useState(() => isDrummersPage());
 
@@ -17902,6 +18177,7 @@ function AppContent() {
         setShowList(false);
         setListSlug(null);
         setShowNewsPage(false);
+        setShowGearNewsPage(false);
         setShowDrummerVsIndex(false);
         setShowDrummerVsDetail(false);
         setDrummerVsSlug(null);
@@ -17940,6 +18216,7 @@ function AppContent() {
         setShowList(false);
         setListSlug(null);
         setShowNewsPage(false);
+        setShowGearNewsPage(false);
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
@@ -17972,6 +18249,7 @@ function AppContent() {
         setShowList(false);
         setListSlug(null);
         setShowNewsPage(false);
+        setShowGearNewsPage(false);
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
@@ -17980,6 +18258,36 @@ function AppContent() {
       } else if (isNewsPage()) {
         // News page (Issue #514)
         setShowNewsPage(true);
+        setShowGearNewsPage(false);
+        setShowTechniquesIndex(false);
+        setShowTechniqueDetail(false);
+        setTechniqueSlug(null);
+        setShowGearComparisonsIndex(false);
+        setShowGearComparison(false);
+        setGearComparisonSlug(null);
+        setShowGenresList(false);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowKitBuilder(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowList(false);
+        setListSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+      } else if (isGearNewsPage()) {
+        // Gear News page (Issue #660)
+        setShowGearNewsPage(true);
+        setShowNewsPage(false);
         setShowTechniquesIndex(false);
         setShowTechniqueDetail(false);
         setTechniqueSlug(null);
@@ -18013,6 +18321,7 @@ function AppContent() {
         setShowList(false);
         setListSlug(null);
         setShowNewsPage(false);
+        setShowGearNewsPage(false);
         setShowTechniquesIndex(false);
         setShowTechniqueDetail(false);
         setTechniqueSlug(null);
@@ -18044,6 +18353,7 @@ function AppContent() {
         setShowArticle(false);
         setArticleSlug(null);
         setShowNewsPage(false);
+        setShowGearNewsPage(false);
         setShowTechniquesIndex(false);
         setShowTechniqueDetail(false);
         setTechniqueSlug(null);
@@ -18074,6 +18384,7 @@ function AppContent() {
         setShowPrivacy(false);
         setShowQuotes(false);
         setShowNewsPage(false);
+        setShowGearNewsPage(false);
         setShowBioPage(false);
         setBioSlug(null);
         setShowBandDetail(false);
@@ -18344,6 +18655,7 @@ setShowList(false);
     setListSlug(null);
     setShowGearFinder(false);
     setShowNewsPage(false);
+        setShowGearNewsPage(false);
     setSelectedDrummer(null);
     setSelectedDrummerId(null);
     setSelectedGear(null);
@@ -18363,6 +18675,7 @@ setShowList(false);
     setListSlug(null);
     setShowGearFinder(false);
     setShowNewsPage(false);
+        setShowGearNewsPage(false);
     setSelectedDrummer(null);
     setSelectedDrummerId(null);
     setSelectedGear(null);
@@ -18846,6 +19159,7 @@ setShowList(false);
     setShowTechniqueDetail(false);
     setTechniqueSlug(null);
     setShowNewsPage(false);
+        setShowGearNewsPage(false);
     setShowBpmTap(false);
     setShowBpmRange(false);
     setShowBirthdayCalendar(false);
@@ -19376,6 +19690,23 @@ setShowList(false);
           theme={theme}
           onBack={() => {
             setShowNewsPage(false);
+        setShowGearNewsPage(false);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/');
+            }
+          }}
+          onNavigateToDrummer={handleSelectDrummer}
+          onNavigateToBand={handleNavigateToBand}
+        />
+      );
+    }
+    // Gear News Page (Issue #660)
+    if (showGearNewsPage) {
+      return (
+        <GearNewsPage
+          theme={theme}
+          onBack={() => {
+            setShowGearNewsPage(false);
             if (Platform.OS === 'web' && typeof window !== 'undefined') {
               window.history.pushState({}, '', '/');
             }
@@ -25683,5 +26014,75 @@ const styles = StyleSheet.create({
   rowLayout21: { display: 'flex', flexDirection: 'row', gap: 8, marginTop: 12, flexWrap: 'wrap', },
   displayMode2: { display: 'none' },
   textDecor2: { color: '#f59e0b', textDecoration: 'underline' },
+
+  // ==========================================
+  // GEAR NEWS PAGE STYLES (Issue #660)
+  // ==========================================
+  gearNewsRssButton: {
+    marginTop: spacing[4],
+    paddingVertical: spacing[3],
+    paddingHorizontal: spacing[5],
+    borderRadius: spacing[2],
+    alignSelf: 'flex-start',
+  },
+  gearNewsRssText: {
+    color: '#fff',
+    fontWeight: fontWeight.semibold,
+    fontSize: fontSize.sm,
+  },
+  gearNewsCard: {
+    borderRadius: spacing[3],
+    padding: spacing[4],
+    borderWidth: 1,
+    marginBottom: spacing[3],
+  },
+  gearNewsCardFirst: {
+    borderWidth: 2,
+  },
+  gearNewsDateRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: spacing[2],
+    marginBottom: spacing[2],
+  },
+  gearNewsEmoji: {
+    fontSize: fontSize.lg,
+  },
+  gearNewsDate: {
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.medium,
+  },
+  gearNewsTitle: {
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.bold,
+    marginBottom: spacing[2],
+    lineHeight: lineHeight.tight,
+  },
+  gearNewsDescription: {
+    fontSize: fontSize.base,
+    lineHeight: lineHeight.relaxed,
+    marginBottom: spacing[2],
+  },
+  gearNewsNote: {
+    fontSize: fontSize.sm,
+    fontStyle: 'italic',
+    marginBottom: spacing[3],
+  },
+  gearNewsActions: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: spacing[2],
+    marginTop: spacing[2],
+  },
+  gearNewsActionBtn: {
+    paddingVertical: spacing[2],
+    paddingHorizontal: spacing[3],
+    borderRadius: spacing[2],
+    borderWidth: 1,
+  },
+  gearNewsActionText: {
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.semibold,
+  },
 
 });

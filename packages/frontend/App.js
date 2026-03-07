@@ -1226,35 +1226,119 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
         document.head.appendChild(ldScript);
       }
       ldScript.textContent = JSON.stringify(articleSchema);
+
+      // Add VideoObject schema for articles with videos (Issue #658)
+      const videoObjects = [];
+      Object.values(list.rankings || {}).forEach(ranking => {
+        if (ranking.showcaseVideo) {
+          videoObjects.push({
+            "@context": "https://schema.org",
+            "@type": "VideoObject",
+            "name": ranking.showcaseVideo.title,
+            "description": ranking.reason || ranking.highlight,
+            "thumbnailUrl": `https://img.youtube.com/vi/${ranking.showcaseVideo.youtubeId}/hqdefault.jpg`,
+            "uploadDate": list.datePublished,
+            "embedUrl": `https://www.youtube.com/embed/${ranking.showcaseVideo.youtubeId}`,
+            "contentUrl": `https://www.youtube.com/watch?v=${ranking.showcaseVideo.youtubeId}`
+          });
+        }
+      });
+      
+      if (videoObjects.length > 0) {
+        let videoScript = document.querySelector('script[data-schema="top10-videos"]');
+        if (!videoScript) {
+          videoScript = document.createElement('script');
+          videoScript.type = 'application/ld+json';
+          videoScript.setAttribute('data-schema', 'top10-videos');
+          document.head.appendChild(videoScript);
+        }
+        videoScript.textContent = JSON.stringify(videoObjects);
+      }
+    }
+
+    // Track GA4 article_view event (Issue #658)
+    if (typeof window !== 'undefined' && window.gtag) {
+      window.gtag('event', 'article_view', {
+        content_type: 'top10_list',
+        item_id: list.slug,
+        article_title: list.title,
+        is_article: list.isArticle || false
+      });
     }
 
     // Cleanup on unmount
     return () => {
       const ldScript = document.querySelector('script[data-schema="top10-article"]');
       if (ldScript) ldScript.remove();
+      const videoScript = document.querySelector('script[data-schema="top10-videos"]');
+      if (videoScript) videoScript.remove();
     };
   }, [list]);
 
-  // Toggle expanded state for drummer details
+  // Toggle expanded state for drummer details with GA4 tracking (Issue #658)
   const toggleDrummerExpanded = (drummerId) => {
+    const isExpanding = !expandedDrummers[drummerId];
     setExpandedDrummers(prev => ({
       ...prev,
       [drummerId]: !prev[drummerId]
     }));
+    
+    // Track video_play event when user expands to see video (Issue #658)
+    if (isExpanding && list && Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
+      const ranking = list.rankings?.[drummerId];
+      if (ranking?.showcaseVideo) {
+        window.gtag('event', 'video_play', {
+          content_type: 'article_video',
+          item_id: list.slug,
+          video_id: ranking.showcaseVideo.youtubeId,
+          video_title: ranking.showcaseVideo.title,
+          drummer_id: drummerId
+        });
+      }
+    }
+  };
+  
+  // Track profile clicks with GA4 (Issue #658)
+  const handleDrummerClick = (drummer) => {
+    if (list && Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
+      window.gtag('event', 'profile_click', {
+        content_type: 'article',
+        item_id: list.slug,
+        drummer_name: drummer.name,
+        drummer_id: drummer.id,
+        article_title: list.title
+      });
+    }
+    onSelectDrummer(drummer);
   };
 
-  // Social share handler
+  // Social share handler with GA4 events (Issue #658)
   const handleShare = (platform) => {
     if (Platform.OS !== 'web' || !list) return;
     const url = `https://metalforge.io/lists/${list.slug}`;
-    const text = `${list.title} - Check out this ranking!`;
+    // Custom share text for brutal drum solos article
+    const isBrutalSolos = list.slug === 'most-brutal-drum-solos';
+    const text = isBrutalSolos 
+      ? `🤘 The 10 Most Brutal Drum Solos in Metal History` 
+      : `${list.title} - Check out this ranking!`;
     
     const shareUrls = {
       twitter: `https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}&url=${encodeURIComponent(url)}`,
       facebook: `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}`,
       reddit: `https://reddit.com/submit?url=${encodeURIComponent(url)}&title=${encodeURIComponent(list.title)}`,
+      whatsapp: `https://wa.me/?text=${encodeURIComponent(text + ' ' + url)}`,
       copy: url
     };
+
+    // Track GA4 social_share event (Issue #658)
+    if (typeof window !== 'undefined' && window.gtag) {
+      window.gtag('event', 'social_share', {
+        content_type: 'article',
+        item_id: list.slug,
+        method: platform,
+        article_title: list.title
+      });
+    }
 
     if (platform === 'copy') {
       navigator.clipboard?.writeText(url);
@@ -1306,20 +1390,20 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
           {list.description}
         </Text>
         
-        {/* Social Share Buttons (Issue #634) */}
+        {/* Social Share Buttons (Issue #634, #658) */}
         {Platform.OS === 'web' && (
           <View style={styles.socialShareContainer}>
             <Text style={[styles.socialShareLabel, { color: theme.secondaryText }]}>Share:</Text>
-            <TouchableOpacity onPress={() => handleShare('twitter')} style={[styles.socialShareButton, { backgroundColor: '#1DA1F2' }]}>
+            <TouchableOpacity onPress={() => handleShare('twitter')} style={[styles.socialShareButton, { backgroundColor: '#000000' }]} accessibilityLabel="Share on X/Twitter">
               <Text style={styles.socialShareButtonText}>𝕏</Text>
             </TouchableOpacity>
-            <TouchableOpacity onPress={() => handleShare('facebook')} style={[styles.socialShareButton, { backgroundColor: '#4267B2' }]}>
+            <TouchableOpacity onPress={() => handleShare('facebook')} style={[styles.socialShareButton, { backgroundColor: '#4267B2' }]} accessibilityLabel="Share on Facebook">
               <Text style={styles.socialShareButtonText}>f</Text>
             </TouchableOpacity>
-            <TouchableOpacity onPress={() => handleShare('reddit')} style={[styles.socialShareButton, { backgroundColor: '#FF4500' }]}>
-              <Text style={styles.socialShareButtonText}>r/</Text>
+            <TouchableOpacity onPress={() => handleShare('whatsapp')} style={[styles.socialShareButton, { backgroundColor: '#25D366' }]} accessibilityLabel="Share on WhatsApp">
+              <Text style={styles.socialShareButtonText}>💬</Text>
             </TouchableOpacity>
-            <TouchableOpacity onPress={() => handleShare('copy')} style={[styles.socialShareButton, { backgroundColor: theme.border }]}>
+            <TouchableOpacity onPress={() => handleShare('copy')} style={[styles.socialShareButton, { backgroundColor: theme.border }]} accessibilityLabel="Copy link">
               <Text style={[styles.socialShareButtonText, { color: theme.text }]}>🔗</Text>
             </TouchableOpacity>
           </View>
@@ -1369,7 +1453,7 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
             >
               {/* Main card content - clickable to go to drummer profile */}
               <TouchableOpacity
-                onPress={() => onSelectDrummer(drummer)}
+                onPress={() => handleDrummerClick(drummer)}
                 style={styles.topListRankCardMain}
                 accessibilityRole="button"
                 accessibilityLabel={`#${rank} ${drummer.name} - View Profile`}
@@ -1476,7 +1560,7 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
 
                   {/* Link to full profile */}
                   <TouchableOpacity
-                    onPress={() => onSelectDrummer(drummer)}
+                    onPress={() => handleDrummerClick(drummer)}
                     style={[styles.viewProfileButton, { backgroundColor: theme.primary }]}
                     accessibilityRole="link"
                     accessibilityLabel={`View ${drummer.name}'s full profile`}
@@ -1532,23 +1616,23 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
         </View>
       )}
 
-      {/* Bottom Social Share (Issue #634) */}
+      {/* Bottom Social Share (Issue #634, #658) */}
       {Platform.OS === 'web' && (
         <View style={[styles.bottomShareSection, { borderTopColor: theme.border }]}>
           <Text style={[styles.bottomShareText, { color: theme.secondaryText }]}>
             Enjoyed this article? Share it with fellow metalheads!
           </Text>
           <View style={styles.socialShareContainer}>
-            <TouchableOpacity onPress={() => handleShare('twitter')} style={[styles.socialShareButton, { backgroundColor: '#1DA1F2' }]}>
+            <TouchableOpacity onPress={() => handleShare('twitter')} style={[styles.socialShareButton, { backgroundColor: '#000000' }]} accessibilityLabel="Share on X/Twitter">
               <Text style={styles.socialShareButtonText}>𝕏</Text>
             </TouchableOpacity>
-            <TouchableOpacity onPress={() => handleShare('facebook')} style={[styles.socialShareButton, { backgroundColor: '#4267B2' }]}>
+            <TouchableOpacity onPress={() => handleShare('facebook')} style={[styles.socialShareButton, { backgroundColor: '#4267B2' }]} accessibilityLabel="Share on Facebook">
               <Text style={styles.socialShareButtonText}>f</Text>
             </TouchableOpacity>
-            <TouchableOpacity onPress={() => handleShare('reddit')} style={[styles.socialShareButton, { backgroundColor: '#FF4500' }]}>
-              <Text style={styles.socialShareButtonText}>r/</Text>
+            <TouchableOpacity onPress={() => handleShare('whatsapp')} style={[styles.socialShareButton, { backgroundColor: '#25D366' }]} accessibilityLabel="Share on WhatsApp">
+              <Text style={styles.socialShareButtonText}>💬</Text>
             </TouchableOpacity>
-            <TouchableOpacity onPress={() => handleShare('copy')} style={[styles.socialShareButton, { backgroundColor: theme.border }]}>
+            <TouchableOpacity onPress={() => handleShare('copy')} style={[styles.socialShareButton, { backgroundColor: theme.border }]} accessibilityLabel="Copy link">
               <Text style={[styles.socialShareButtonText, { color: theme.text }]}>🔗</Text>
             </TouchableOpacity>
           </View>

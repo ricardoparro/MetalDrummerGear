@@ -1,6 +1,17 @@
 // CRITICAL: Import CSS fix FIRST to patch CSSStyleDeclaration before any rendering
 import './fixCssStyles';
-// BUILD_TIMESTAMP: 2026-03-01T22:45:00Z - Runtime CSS fix
+// BUILD_TIMESTAMP: 2026-03-08T10:00:00Z - Mobile Performance Optimization (Issues #666, #667, #668, #669)
+
+// Critical CSS injection - must be early for LCP optimization
+import { initCriticalCss, preloadLcpImage } from './utils/performance/criticalCss';
+import { yieldToMain, processInChunks, scheduleTask, TaskPriority, runIdleTasks } from './utils/performance/taskScheduler';
+import { scheduleIdlePreload } from './utils/performance/lazyRoutes';
+
+// Initialize critical CSS immediately (sync, non-blocking)
+if (typeof window !== 'undefined') {
+  initCriticalCss();
+}
+
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View, FlatList, ActivityIndicator, TouchableOpacity, ScrollView, Linking, Platform, useWindowDimensions, TextInput } from 'react-native';
 import { Image } from 'expo-image';
@@ -18115,51 +18126,85 @@ function AppContent() {
         document.body.classList.add('lcp-complete');
       });
       
-      // TBT Optimization (#537): Preload data modules during idle time
+      // TBT Optimization (Issues #537, #668): Preload data modules during idle time
       // This defers ~99KB of JavaScript parsing to after the page is interactive
-      const preloadDataModules = () => {
-        // Preload in priority order based on user navigation patterns
-        preloadBands();
-        preloadGenres();
-        preloadBrands(); // Issue #656: Brand landing pages
-        preloadBirthdays();
-        preloadGearComparisons();
-        preloadTechniques();
-        preloadTop10Lists();
-        preloadExtendedBios();
-      };
+      // Using runIdleTasks to break up long tasks and prevent TBT spikes
+      const preloadTasks = [
+        // High priority: Most commonly navigated pages
+        () => preloadBands(),
+        () => preloadGenres(),
+        () => preloadBrands(), // Issue #656: Brand landing pages
+        // Medium priority: Secondary navigation
+        () => preloadBirthdays(),
+        () => preloadGearComparisons(),
+        // Low priority: Less frequently accessed
+        () => preloadTechniques(),
+        () => preloadTop10Lists(),
+        () => preloadExtendedBios(),
+        () => preloadDrummerComparisons(), // Issue #558
+      ];
       
-      // Use requestIdleCallback for non-blocking preload
-      if (typeof requestIdleCallback === 'function') {
-        requestIdleCallback(preloadDataModules, { timeout: 3000 });
-      } else {
-        // Fallback: defer by 1 second
-        setTimeout(preloadDataModules, 1000);
-      }
+      // Use runIdleTasks for deadline-aware preloading
+      // This breaks up the work and yields to main thread between tasks
+      runIdleTasks(preloadTasks, () => {
+        // Mark preloading complete for monitoring
+        if (typeof window !== 'undefined' && window.gtag) {
+          window.gtag('event', 'preload_complete', {
+            event_category: 'Performance',
+            non_interaction: true,
+          });
+        }
+      });
     }
   }, []);
   
-  // Preload above-fold drummer images for faster LCP (Issue #442)
+  // LCP Optimization (Issue #667): Preload spotlight image and above-fold content
+  // The spotlight drummer image is typically the LCP element on mobile
+  useEffect(() => {
+    if (Platform.OS !== 'web' || typeof document === 'undefined') return;
+    
+    // Preload spotlight/LCP image with highest priority
+    if (apiSpotlight?.image) {
+      // Use the criticalCss utility for proper LCP preloading
+      const spotlightImageUrl = getOptimizedImageUrl(apiSpotlight.image, { 
+        width: IMAGE_WIDTHS.spotlight,
+        format: 'webp'
+      });
+      preloadLcpImage(spotlightImageUrl);
+    }
+  }, [apiSpotlight]);
+  
+  // Preload above-fold drummer images for faster LCP (Issue #442, #667)
   // This preloads the first 6 drummer card images after data loads
   useEffect(() => {
     if (Platform.OS !== 'web' || typeof document === 'undefined') return;
     if (!drummers || drummers.length === 0) return;
     
     // Preload first 6 drummer thumbnails (above-fold)
-    const aboveFoldDrummers = drummers.slice(0, 6);
-    aboveFoldDrummers.forEach((drummer, index) => {
-      if (drummer.thumbnailUrl || drummer.image) {
-        const link = document.createElement('link');
-        link.rel = 'preload';
-        link.as = 'image';
-        link.href = drummer.thumbnailUrl || getOptimizedImageUrl(drummer.image, { width: IMAGE_WIDTHS.thumbnail });
-        // Only high priority for first 2
-        if (index < 2) {
-          link.fetchPriority = 'high';
+    // Use idle callback to avoid blocking LCP
+    const preloadThumbnails = () => {
+      const aboveFoldDrummers = drummers.slice(0, 6);
+      aboveFoldDrummers.forEach((drummer, index) => {
+        if (drummer.thumbnailUrl || drummer.image) {
+          const link = document.createElement('link');
+          link.rel = 'preload';
+          link.as = 'image';
+          link.href = drummer.thumbnailUrl || getOptimizedImageUrl(drummer.image, { width: IMAGE_WIDTHS.thumbnail });
+          // Only high priority for first 2
+          if (index < 2) {
+            link.fetchPriority = 'high';
+          }
+          document.head.appendChild(link);
         }
-        document.head.appendChild(link);
-      }
-    });
+      });
+    };
+    
+    // Defer to avoid blocking LCP measurement
+    if (typeof requestIdleCallback === 'function') {
+      requestIdleCallback(preloadThumbnails, { timeout: 1000 });
+    } else {
+      setTimeout(preloadThumbnails, 100);
+    }
   }, [drummers]);
 
   useEffect(() => {

@@ -64,8 +64,8 @@ import {
   updateQuizPageMeta,
   updateBpmRangeMeta,
   updateWhoUsesMeta,
-  updateKitBuilderMeta,
-  updateKitQuizMeta,
+  updateKitBuilderMeta as updateKitBuilderOgMeta,
+  updateKitQuizMeta as updateKitQuizOgMeta,
   updateBpmTapMeta,
   updateQuotesPageMeta,
 } from './utils/ogMetaTags';
@@ -14828,9 +14828,8 @@ function updateGearComparisonMeta(comparison) {
   // Issue #672: Use centralized OG utility for consistent meta tags (including og:image)
   updateGearComparisonOgMeta(comparison);
 
-  // Continue with Schema.org structured data if comparison exists
-  if (!comparison) return;
-
+  // Continue with Schema.org structured data
+  if (comparison) {
     // Structured Data - ItemPage with comparison schema
     let ldScript = document.querySelector('script[data-schema="comparison"]');
     if (!ldScript) {

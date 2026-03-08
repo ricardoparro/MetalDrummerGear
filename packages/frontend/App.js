@@ -48,6 +48,28 @@ import {
   SKELETON_DIMENSIONS
 } from './cwvUtils';
 
+// Open Graph Meta Tags Utility (Issue #672)
+import {
+  updateOgMeta,
+  resetToHomepageMeta,
+  updateGenreMeta,
+  updateBrandMeta,
+  updateTechniqueMeta as updateTechniqueOgMeta,
+  updateGearComparisonMeta as updateGearComparisonOgMeta,
+  updateDrummerComparisonMeta,
+  updateSpotlightsMeta,
+  updateBudgetGearMeta,
+  updateBirthdayCalendarMeta as updateBirthdayOgMeta,
+  updateGearNewsMeta as updateGearNewsOgMeta,
+  updateQuizPageMeta,
+  updateBpmRangeMeta,
+  updateWhoUsesMeta,
+  updateKitBuilderMeta as updateKitBuilderOgMeta,
+  updateKitQuizMeta as updateKitQuizOgMeta,
+  updateBpmTapMeta,
+  updateQuotesPageMeta,
+} from './utils/ogMetaTags';
+
 // Skeleton Components for CLS Prevention
 import { 
   DrummerCardSkeleton, 
@@ -598,57 +620,10 @@ function updateQuizResultURL(drummerSlug) {
 }
 
 // Update document meta tags for quiz social sharing (Open Graph + Twitter Cards)
-// Update quiz page meta tags for SEO (Issue #637)
+// Update quiz page meta tags for SEO (Issue #637, #672)
 function updateQuizMeta(drummer, matchPercentage) {
-  if (Platform.OS !== 'web' || typeof document === 'undefined') return;
-
-  const setMeta = (name, content, isProperty = false) => {
-    const attr = isProperty ? 'property' : 'name';
-    let meta = document.querySelector(`meta[${attr}="${name}"]`);
-    if (!meta) {
-      meta = document.createElement('meta');
-      meta.setAttribute(attr, name);
-      document.head.appendChild(meta);
-    }
-    meta.setAttribute('content', content);
-  };
-
-  if (drummer) {
-    // Shared result page meta - Issue #637 OG format
-    const drummerSlug = drummer.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
-    const title = `I Drum Like ${drummer.name}! | Which Metal Drummer Are You? | Quiz`;
-    const description = `I matched with ${drummer.name} (${drummer.band}) - ${matchPercentage}% match! Take the Metal Drummer Quiz to find out which legendary drummer's setup and style matches yours!`;
-    const imageUrl = drummer.image || 'https://metalforge.io/og-quiz.png';
-    const shareUrl = `https://metalforge.io/quiz?result=${drummerSlug}`;
-
-    document.title = title;
-    setMeta('description', description);
-    setMeta('og:title', title, true);
-    setMeta('og:description', description, true);
-    setMeta('og:type', 'website', true);
-    setMeta('og:image', imageUrl, true);
-    setMeta('og:url', shareUrl, true);
-    setMeta('twitter:card', 'summary_large_image');
-    setMeta('twitter:title', title);
-    setMeta('twitter:description', description);
-    setMeta('twitter:image', imageUrl);
-  } else {
-    // Default quiz page meta - Issue #637 SEO requirements
-    const title = 'Which Metal Drummer Are You? | Quiz';
-    const description = 'Take our quiz to find out which legendary metal drummer\'s setup and style matches yours! Answer 8 quick questions to discover your drummer match.';
-
-    document.title = title;
-    setMeta('description', description);
-    setMeta('og:title', title, true);
-    setMeta('og:description', description, true);
-    setMeta('og:type', 'website', true);
-    setMeta('og:image', 'https://metalforge.io/og-quiz.png', true);
-    setMeta('og:url', 'https://metalforge.io/quiz', true);
-    setMeta('twitter:card', 'summary_large_image');
-    setMeta('twitter:title', title);
-    setMeta('twitter:description', description);
-    setMeta('twitter:image', 'https://metalforge.io/og-quiz.png');
-  }
+  // Issue #672: Use centralized OG utility for consistent meta tags
+  updateQuizPageMeta(drummer, matchPercentage);
 }
 
 // ==========================================
@@ -1388,16 +1363,18 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
     const metaDescription = list.description || list.seoDescription;
     
     setMeta('description', metaDescription);
+    // Issue #672: Complete OG tags for better social sharing
     setMeta('og:title', list.title, true);
     setMeta('og:description', metaDescription, true);
     setMeta('og:type', 'article', true);
     setMeta('og:url', `https://metalforge.io/${urlBase}/${list.slug}`, true);
-    if (list.ogImage) {
-      setMeta('og:image', `https://metalforge.io${list.ogImage}`, true);
-    }
+    setMeta('og:site_name', 'MetalForge', true);
+    setMeta('og:image', list.ogImage ? `https://metalforge.io${list.ogImage}` : 'https://metalforge.io/og-image.png', true);
     setMeta('twitter:card', 'summary_large_image');
+    setMeta('twitter:site', '@MetalDrumGear');
     setMeta('twitter:title', list.title);
     setMeta('twitter:description', metaDescription);
+    setMeta('twitter:image', list.ogImage ? `https://metalforge.io${list.ogImage}` : 'https://metalforge.io/og-image.png');
     if (list.seoKeywords) {
       setMeta('keywords', list.seoKeywords.join(', '));
     }
@@ -3162,15 +3139,22 @@ function updateDocumentMeta(drummer, drummers = [], filters = {}) {
   setMeta('keywords', drummer
     ? `${drummer.name} drums, ${drummer.name} drum kit, ${drummer.band} drummer gear, ${drummer.name} cymbals, drum kit cost`
     : 'metal drummer, drum gear, drum kit, cymbals, snare drum, double bass pedal, metal drumming');
+  // Issue #672: Complete OG tags for better social sharing
   setMeta('og:title', title, true);
   setMeta('og:description', description, true);
-  setMeta('og:type', 'website', true);
+  setMeta('og:type', drummer ? 'profile' : 'website', true);
+  setMeta('og:site_name', 'MetalForge', true);
   if (drummer) {
-    setMeta('og:image', drummer.image, true);
+    setMeta('og:image', drummer.image || 'https://metalforge.io/og-image.png', true);
     setMeta('og:url', `https://metalforge.io/drummer/${drummer.id}`, true);
-    setMeta('twitter:image', drummer.image);
+    setMeta('twitter:image', drummer.image || 'https://metalforge.io/og-image.png');
+  } else {
+    setMeta('og:image', 'https://metalforge.io/og-image.png', true);
+    setMeta('og:url', 'https://metalforge.io/', true);
+    setMeta('twitter:image', 'https://metalforge.io/og-image.png');
   }
   setMeta('twitter:card', 'summary_large_image');
+  setMeta('twitter:site', '@MetalDrumGear');
   setMeta('twitter:title', title);
   setMeta('twitter:description', description);
 
@@ -6389,24 +6373,9 @@ function SpotlightsArchivePage({ theme, onBack, drummers, onSelectDrummer }) {
   const spotlightDrummers = getSpotlightDrummers(drummers);
   const currentIndex = getCurrentSpotlightIndex(spotlightDrummers.length);
 
-  // Update SEO for spotlights page
+  // Update SEO for spotlights page with complete OG tags (Issue #672)
   useEffect(() => {
-    if (Platform.OS === 'web' && typeof document !== 'undefined') {
-      document.title = 'Drummer Spotlights Archive | Metal Drummer Gear';
-      const setMeta = (name, content, isProperty = false) => {
-        const attr = isProperty ? 'property' : 'name';
-        let meta = document.querySelector(`meta[${attr}="${name}"]`);
-        if (!meta) {
-          meta = document.createElement('meta');
-          meta.setAttribute(attr, name);
-          document.head.appendChild(meta);
-        }
-        meta.setAttribute('content', content);
-      };
-      setMeta('description', 'Explore our weekly Drummer Spotlight archive featuring legendary metal drummers, their gear, and what makes them iconic.');
-      setMeta('og:title', 'Drummer Spotlights Archive | Metal Drummer Gear', true);
-      setMeta('og:description', 'Explore our weekly Drummer Spotlight archive featuring legendary metal drummers.', true);
-    }
+    updateSpotlightsMeta();
   }, []);
 
   return (
@@ -6521,24 +6490,9 @@ function GearByBudgetPage({ theme, onBack, drummers, onSelectDrummer }) {
     return tiers;
   }, [drummers]);
 
-  // Update SEO
+  // Update SEO with complete OG tags (Issue #672)
   useEffect(() => {
-    if (Platform.OS === 'web' && typeof document !== 'undefined') {
-      document.title = 'Gear by Budget - Find Drum Kits in Your Price Range | MetalForge';
-      const setMeta = (name, content, isProperty = false) => {
-        const attr = isProperty ? 'property' : 'name';
-        let meta = document.querySelector(`meta[${attr}="${name}"]`);
-        if (!meta) {
-          meta = document.createElement('meta');
-          meta.setAttribute(attr, name);
-          document.head.appendChild(meta);
-        }
-        meta.setAttribute('content', content);
-      };
-      setMeta('description', 'Find professional drum setups that fit your budget. Browse gear from entry level to premium, used by legendary metal drummers.');
-      setMeta('og:title', 'Gear by Budget | MetalForge', true);
-      setMeta('og:description', 'Find professional drum setups that fit your budget.', true);
-    }
+    updateBudgetGearMeta();
   }, []);
 
   const tierOrder = ['entry', 'intermediate', 'professional', 'premium'];
@@ -7117,34 +7071,9 @@ function GearFinderPage({ theme, onBack, drummers, onSelectDrummer }) {
     };
   }, []);
 
-  // Update SEO
+  // Update SEO with complete OG tags (Issue #672)
   useEffect(() => {
-    if (Platform.OS === 'web' && typeof document !== 'undefined') {
-      const title = searchQuery 
-        ? `Who Uses ${searchQuery}? - Gear Finder | MetalForge`
-        : 'Gear Finder - Search Drummers by Gear | MetalForge';
-      const description = searchQuery
-        ? `Find all metal drummers who use ${searchQuery}. See their complete setups and where to buy.`
-        : 'Search for any drum gear and find out which legendary metal drummers use it. Discover who uses your favorite cymbals, drums, and hardware.';
-      
-      document.title = title;
-      
-      const setMeta = (name, content, isProperty = false) => {
-        const attr = isProperty ? 'property' : 'name';
-        let meta = document.querySelector(`meta[${attr}="${name}"]`);
-        if (!meta) {
-          meta = document.createElement('meta');
-          meta.setAttribute(attr, name);
-          document.head.appendChild(meta);
-        }
-        meta.setAttribute('content', content);
-      };
-      
-      setMeta('description', description);
-      setMeta('og:title', title, true);
-      setMeta('og:description', description, true);
-      setMeta('keywords', `drum gear finder, who uses ${searchQuery || 'drums'}, metal drummer gear, ${searchQuery || 'drum equipment'} users`);
-    }
+    updateWhoUsesMeta(searchQuery);
   }, [searchQuery]);
 
   // Get category icon
@@ -8669,31 +8598,14 @@ function BpmRangePage({ rangeSlug, theme, drummers, onBack, onSelectDrummer, onN
       .sort((a, b) => a.bpm - b.bpm);
   }, [rangeInfo]);
   
-  // Update meta tags on mount
+  // Update meta tags on mount with complete OG tags (Issue #672)
   useEffect(() => {
-    if (Platform.OS !== 'web' || typeof document === 'undefined') return;
-    
     if (rangeInfo) {
-      const title = `${rangeInfo.label} Metal Songs | MetalForge`;
-      const description = `${rangeInfo.description} Browse ${songsInRange.length} metal songs at ${rangeInfo.min}-${rangeInfo.max} BPM.`;
-      
-      document.title = title;
-      
-      const setMeta = (name, content, isProperty = false) => {
-        const attr = isProperty ? 'property' : 'name';
-        let meta = document.querySelector(`meta[${attr}="${name}"]`);
-        if (!meta) {
-          meta = document.createElement('meta');
-          meta.setAttribute(attr, name);
-          document.head.appendChild(meta);
-        }
-        meta.setAttribute('content', content);
+      const rangeData = {
+        title: `${rangeInfo.label} Metal Songs | MetalForge`,
+        description: `${rangeInfo.description} Browse ${songsInRange.length} metal songs at ${rangeInfo.min}-${rangeInfo.max} BPM.`,
       };
-      
-      setMeta('description', description);
-      setMeta('og:title', title, true);
-      setMeta('og:description', description, true);
-      setMeta('og:url', `https://metalforge.io/bpm/${rangeSlug}`, true);
+      updateBpmRangeMeta(rangeSlug, rangeData);
     }
   }, [rangeInfo, rangeSlug, songsInRange.length]);
   
@@ -8852,18 +8764,20 @@ function DrummerBioPage({ theme, onBack, drummer, onSelectDrummer }) {
       setMeta('description', bio.metaDescription);
       setMeta('keywords', `${drummer.name} biography, ${drummer.name} drummer, ${drummer.band} drummer, ${drummer.name} career, ${drummer.name} gear, metal drummer biography`);
 
-      // OpenGraph tags
+      // Issue #672: Complete OG tags for better social sharing
       setMeta('og:title', bio.metaTitle, true);
       setMeta('og:description', bio.metaDescription, true);
       setMeta('og:type', 'article', true);
-      setMeta('og:image', bio.ogImage || drummer.image, true);
+      setMeta('og:image', bio.ogImage || drummer.image || 'https://metalforge.io/og-image.png', true);
       setMeta('og:url', `https://metalforge.io/drummer/${drummerSlug}/bio`, true);
+      setMeta('og:site_name', 'MetalForge', true);
 
       // Twitter Card tags
       setMeta('twitter:card', 'summary_large_image');
+      setMeta('twitter:site', '@MetalDrumGear');
       setMeta('twitter:title', bio.metaTitle);
       setMeta('twitter:description', bio.metaDescription);
-      setMeta('twitter:image', bio.ogImage || drummer.image);
+      setMeta('twitter:image', bio.ogImage || drummer.image || 'https://metalforge.io/og-image.png');
 
       // Article schema
       const articleSchema = {
@@ -9294,22 +9208,20 @@ function BandDetailPage({ bandSlug, drummers, onBack, onSelectDrummer, theme }) 
       setMeta('description', band.metaDescription);
       setMeta('keywords', band.keywords.join(', '));
 
-      // OpenGraph tags
+      // Issue #672: Complete OG tags for better social sharing
       setMeta('og:title', band.metaTitle, true);
       setMeta('og:description', band.metaDescription, true);
       setMeta('og:type', 'website', true);
       setMeta('og:url', `https://metalforge.io/bands/${bandSlug}`, true);
-      if (band.image) {
-        setMeta('og:image', band.image, true);
-      }
+      setMeta('og:site_name', 'MetalForge', true);
+      setMeta('og:image', band.image || 'https://metalforge.io/og-image.png', true);
 
       // Twitter Card tags
       setMeta('twitter:card', 'summary_large_image');
+      setMeta('twitter:site', '@MetalDrumGear');
       setMeta('twitter:title', band.metaTitle);
       setMeta('twitter:description', band.metaDescription);
-      if (band.image) {
-        setMeta('twitter:image', band.image);
-      }
+      setMeta('twitter:image', band.image || 'https://metalforge.io/og-image.png');
 
       // Canonical URL
       let canonicalLink = document.querySelector('link[rel="canonical"]');
@@ -9600,13 +9512,18 @@ function GearIndexPage({ theme, onBack, onNavigateToCategory, onSelectGear }) {
       const description = 'Complete guide to metal drumming gear. Explore cymbals, snare drums, drum kits, bass drum pedals, and hardware used by legendary metal drummers.';
       setMeta('description', description);
       setMeta('keywords', 'metal drumming gear, metal cymbals, metal snares, double bass pedals, drum kits, metal drummers');
+      // Issue #672: Complete OG tags for better social sharing
       setMeta('og:title', 'Metal Drumming Gear Guide | MetalForge', true);
       setMeta('og:description', description, true);
       setMeta('og:type', 'website', true);
       setMeta('og:url', 'https://metalforge.io/gear', true);
+      setMeta('og:site_name', 'MetalForge', true);
+      setMeta('og:image', 'https://metalforge.io/og-image.png', true);
       setMeta('twitter:card', 'summary_large_image');
+      setMeta('twitter:site', '@MetalDrumGear');
       setMeta('twitter:title', 'Metal Drumming Gear Guide | MetalForge');
       setMeta('twitter:description', description);
+      setMeta('twitter:image', 'https://metalforge.io/og-image.png');
 
       // ItemList schema for gear categories
       const itemListSchema = {
@@ -9722,13 +9639,18 @@ function GearCategoryPage({ category, categoryData, loading, theme, onBack, onSe
 
       setMeta('description', description);
       setMeta('keywords', keywords);
+      // Issue #672: Complete OG tags for better social sharing
       setMeta('og:title', meta.metaTitle, true);
       setMeta('og:description', description, true);
       setMeta('og:type', 'website', true);
       setMeta('og:url', `https://metalforge.io/gear/${category}`, true);
+      setMeta('og:site_name', 'MetalForge', true);
+      setMeta('og:image', 'https://metalforge.io/og-image.png', true);
       setMeta('twitter:card', 'summary_large_image');
+      setMeta('twitter:site', '@MetalDrumGear');
       setMeta('twitter:title', meta.metaTitle);
       setMeta('twitter:description', description);
+      setMeta('twitter:image', 'https://metalforge.io/og-image.png');
 
       // Canonical URL
       let canonicalLink = document.querySelector('link[rel="canonical"]');
@@ -9951,41 +9873,11 @@ function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavi
     return getDrummersByGenre(genreSlug, drummers);
   }, [genreSlug, drummers, genre]);
 
-  // Update SEO meta tags for genre page
+  // Update SEO meta tags for genre page with complete OG tags (Issue #672)
   useEffect(() => {
     if (Platform.OS === 'web' && typeof document !== 'undefined' && genre) {
-      const pageTitle = `${genre.name} Drummers - Gear, Videos & Bio | MetalForge`;
-      const pageDescription = genre.description;
-
-      document.title = pageTitle;
-
-      const setMeta = (name, content, isProperty = false) => {
-        const attr = isProperty ? 'property' : 'name';
-        let meta = document.querySelector(`meta[${attr}="${name}"]`);
-        if (!meta) {
-          meta = document.createElement('meta');
-          meta.setAttribute(attr, name);
-          document.head.appendChild(meta);
-        }
-        meta.setAttribute('content', content);
-      };
-
-      // Standard meta tags
-      setMeta('description', pageDescription);
-      setMeta('keywords', genre.keywords.join(', '));
-
-      // OpenGraph tags
-      setMeta('og:title', pageTitle, true);
-      setMeta('og:description', pageDescription, true);
-      setMeta('og:type', 'website', true);
-      setMeta('og:url', `https://metalforge.io/genre/${genreSlug}`, true);
-      setMeta('og:site_name', 'MetalForge', true);
-
-      // Twitter Card tags
-      setMeta('twitter:card', 'summary_large_image');
-      setMeta('twitter:site', '@MetalDrumGear');
-      setMeta('twitter:title', pageTitle);
-      setMeta('twitter:description', pageDescription);
+      // Use centralized OG utility for consistent meta tags
+      updateGenreMeta(genre, false);
 
       // Canonical URL
       let canonicalLink = document.querySelector('link[rel="canonical"]');
@@ -10355,25 +10247,9 @@ function GenresListPage({ onBack, onSelectGenre, theme }) {
   const isMobile = width < 768;
   const allGenres = getAllGenres();
 
-  // Update SEO
+  // Update SEO with complete OG tags (Issue #672)
   useEffect(() => {
-    if (Platform.OS === 'web' && typeof document !== 'undefined') {
-      document.title = 'Metal Genres - Explore Thrash, Death, Black, Prog & More | MetalForge';
-      const setMeta = (name, content, isProperty = false) => {
-        const attr = isProperty ? 'property' : 'name';
-        let meta = document.querySelector(`meta[${attr}="${name}"]`);
-        if (!meta) {
-          meta = document.createElement('meta');
-          meta.setAttribute(attr, name);
-          document.head.appendChild(meta);
-        }
-        meta.setAttribute('content', content);
-      };
-      setMeta('description', 'Explore metal subgenres and discover the best drummers in thrash, death, black, progressive, nu-metal, groove, metalcore, and more.');
-      setMeta('og:title', 'Metal Genres | MetalForge', true);
-      setMeta('og:description', 'Explore metal subgenres and their drummers.', true);
-      setMeta('og:url', 'https://metalforge.io/genres', true);
-    }
+    updateGenreMeta(null, true); // true = isList
   }, []);
 
   return (
@@ -10456,41 +10332,11 @@ function BrandLandingPage({ brandSlug, drummers, onBack, onSelectDrummer, onNavi
     return getDrummersByBrandData(brandSlug, drummers);
   }, [brandSlug, drummers, brand]);
 
-  // Update SEO meta tags for brand page
+  // Update SEO meta tags for brand page with complete OG tags (Issue #672)
   useEffect(() => {
     if (Platform.OS === 'web' && typeof document !== 'undefined' && brand) {
-      const pageTitle = brand.metaTitle || `${brand.name} Metal Drummers - Who Plays ${brand.name} | MetalForge`;
-      const pageDescription = brand.metaDescription || brand.description;
-
-      document.title = pageTitle;
-
-      const setMeta = (name, content, isProperty = false) => {
-        const attr = isProperty ? 'property' : 'name';
-        let meta = document.querySelector(`meta[${attr}="${name}"]`);
-        if (!meta) {
-          meta = document.createElement('meta');
-          meta.setAttribute(attr, name);
-          document.head.appendChild(meta);
-        }
-        meta.setAttribute('content', content);
-      };
-
-      // Standard meta tags
-      setMeta('description', pageDescription);
-      setMeta('keywords', brand.keywords?.join(', ') || `${brand.name} drums, ${brand.name} metal drummers`);
-
-      // OpenGraph tags
-      setMeta('og:title', pageTitle, true);
-      setMeta('og:description', pageDescription, true);
-      setMeta('og:type', 'website', true);
-      setMeta('og:url', `https://metalforge.io/brands/${brandSlug}`, true);
-      setMeta('og:site_name', 'MetalForge', true);
-
-      // Twitter Card tags
-      setMeta('twitter:card', 'summary_large_image');
-      setMeta('twitter:site', '@MetalDrumGear');
-      setMeta('twitter:title', pageTitle);
-      setMeta('twitter:description', pageDescription);
+      // Use centralized OG utility for consistent meta tags
+      updateBrandMeta(brand, false);
 
       // Canonical URL
       let canonicalLink = document.querySelector('link[rel="canonical"]');
@@ -10832,25 +10678,9 @@ function BrandsListPage({ onBack, onSelectBrand, theme }) {
   const drumBrands = getDrumBrandsData();
   const cymbalBrands = getCymbalBrandsData();
 
-  // Update SEO
+  // Update SEO with complete OG tags (Issue #672)
   useEffect(() => {
-    if (Platform.OS === 'web' && typeof document !== 'undefined') {
-      document.title = 'Metal Drum & Cymbal Brands - Tama, Pearl, Zildjian & More | MetalForge';
-      const setMeta = (name, content, isProperty = false) => {
-        const attr = isProperty ? 'property' : 'name';
-        let meta = document.querySelector(`meta[${attr}="${name}"]`);
-        if (!meta) {
-          meta = document.createElement('meta');
-          meta.setAttribute(attr, name);
-          document.head.appendChild(meta);
-        }
-        meta.setAttribute('content', content);
-      };
-      setMeta('description', 'Explore top drum and cymbal brands used by metal drummers. Discover which legendary drummers play Tama, Pearl, DW, Zildjian, Paiste, Meinl, and Sabian.');
-      setMeta('og:title', 'Metal Drum & Cymbal Brands | MetalForge', true);
-      setMeta('og:description', 'Explore brands used by metal drummers.', true);
-      setMeta('og:url', 'https://metalforge.io/brands', true);
-    }
+    updateBrandMeta(null, true); // true = isList
   }, []);
 
   const renderBrandCard = (brand) => (
@@ -12791,24 +12621,9 @@ function QuotesPage({ theme, onBack, onSelectDrummer }) {
       .map(q => q.drummer);
   }, [allQuotes]);
 
-  // Update SEO
+  // Update SEO with complete OG tags (Issue #672)
   useEffect(() => {
-    if (Platform.OS === 'web' && typeof document !== 'undefined') {
-      document.title = 'Drummer Quotes - Wisdom from Metal Legends | MetalForge';
-      const setMeta = (name, content, isProperty = false) => {
-        const attr = isProperty ? 'property' : 'name';
-        let meta = document.querySelector(`meta[${attr}="${name}"]`);
-        if (!meta) {
-          meta = document.createElement('meta');
-          meta.setAttribute(attr, name);
-          document.head.appendChild(meta);
-        }
-        meta.setAttribute('content', content);
-      };
-      setMeta('description', 'Browse quotes and wisdom from legendary metal drummers. Insights on drumming, music, and life from the greats.');
-      setMeta('og:title', 'Drummer Quotes | MetalForge', true);
-      setMeta('og:description', 'Wisdom from legendary metal drummers.', true);
-    }
+    updateQuotesPageMeta();
   }, []);
 
   return (
@@ -13595,9 +13410,18 @@ function DrummersPage({
       };
       
       setMeta('description', description);
+      // Issue #672: Complete OG tags for better social sharing
       setMeta('og:title', `${title} | MetalForge`, true);
       setMeta('og:description', description, true);
+      setMeta('og:type', 'website', true);
       setMeta('og:url', window.location.href, true);
+      setMeta('og:site_name', 'MetalForge', true);
+      setMeta('og:image', 'https://metalforge.io/og-image.png', true);
+      setMeta('twitter:card', 'summary_large_image');
+      setMeta('twitter:site', '@MetalDrumGear');
+      setMeta('twitter:title', `${title} | MetalForge`);
+      setMeta('twitter:description', description);
+      setMeta('twitter:image', 'https://metalforge.io/og-image.png');
     }
   }, [drummers.length, filteredDrummers.length, filters]);
 
@@ -14386,31 +14210,8 @@ function isGearNewsPage() {
 function updateGearNewsMeta() {
   if (Platform.OS !== 'web' || typeof document === 'undefined') return;
 
-  const setMeta = (name, content, isProperty = false) => {
-    const attr = isProperty ? 'property' : 'name';
-    let meta = document.querySelector(`meta[${attr}="${name}"]`);
-    if (!meta) {
-      meta = document.createElement('meta');
-      meta.setAttribute(attr, name);
-      document.head.appendChild(meta);
-    }
-    meta.setAttribute('content', content);
-  };
-
-  const title = 'Latest Gear Updates | MetalForge';
-  const description = 'Stay updated with the latest gear changes from metal\'s elite drummers. Gear updates, new setups, and brand news from MetalForge.';
-
-  document.title = title;
-  setMeta('description', description);
-  setMeta('og:title', title, true);
-  setMeta('og:description', description, true);
-  setMeta('og:type', 'website', true);
-  setMeta('og:image', 'https://metalforge.io/og-image.png', true);
-  setMeta('og:url', 'https://metalforge.io/gear-news', true);
-  setMeta('twitter:card', 'summary_large_image');
-  setMeta('twitter:title', title);
-  setMeta('twitter:description', description);
-  setMeta('twitter:image', 'https://metalforge.io/og-image.png');
+  // Issue #672: Use centralized OG utility for consistent meta tags
+  updateGearNewsOgMeta();
 
   // Set canonical URL
   let canonical = document.querySelector('link[rel="canonical"]');
@@ -14553,45 +14354,8 @@ function updateBirthdayURL(month = null) {
 
 // Update meta tags for birthday calendar SEO
 function updateBirthdayCalendarMeta(month = null, todaysBirthdays = []) {
-  if (Platform.OS !== 'web' || typeof document === 'undefined') return;
-
-  const setMeta = (name, content, isProperty = false) => {
-    const attr = isProperty ? 'property' : 'name';
-    let meta = document.querySelector(`meta[${attr}="${name}"]`);
-    if (!meta) {
-      meta = document.createElement('meta');
-      meta.setAttribute(attr, name);
-      document.head.appendChild(meta);
-    }
-    meta.setAttribute('content', content);
-  };
-
-  let title, description;
-  
-  if (todaysBirthdays.length > 0) {
-    const names = todaysBirthdays.map(d => d.name).join(', ');
-    title = `🎂 Today: ${names} Birthday! | Metal Drummer Birthday Calendar`;
-    description = `Celebrate ${names}'s birthday today! Browse the complete metal drummer birthday calendar.`;
-  } else if (month) {
-    const monthName = MONTH_NAMES[month - 1];
-    title = `${monthName} Metal Drummer Birthdays | MetalForge`;
-    description = `See which legendary metal drummers were born in ${monthName}. Complete birthday calendar for metal drummers.`;
-  } else {
-    title = 'Metal Drummer Birthday Calendar | MetalForge';
-    description = 'Never miss a metal drummer birthday! Browse our complete calendar of legendary drummers\' birthdays. Share and celebrate with the metal community.';
-  }
-
-  document.title = title;
-  setMeta('description', description);
-  setMeta('og:title', title, true);
-  setMeta('og:description', description, true);
-  setMeta('og:type', 'website', true);
-  setMeta('og:image', 'https://metalforge.io/og-birthdays.png', true);
-  setMeta('og:url', `https://metalforge.io/birthdays${month ? `?month=${month}` : ''}`, true);
-  setMeta('twitter:card', 'summary_large_image');
-  setMeta('twitter:title', title);
-  setMeta('twitter:description', description);
-  setMeta('twitter:image', 'https://metalforge.io/og-birthdays.png');
+  // Issue #672: Use centralized OG utility for consistent meta tags
+  updateBirthdayOgMeta(month, todaysBirthdays);
 }
 
 // ==========================================
@@ -15211,37 +14975,11 @@ function updateGearComparisonURL(slug) {
 function updateGearComparisonMeta(comparison) {
   if (Platform.OS !== 'web' || typeof document === 'undefined') return;
 
-  const setMeta = (name, content, isProperty = false) => {
-    const attr = isProperty ? 'property' : 'name';
-    let meta = document.querySelector(`meta[${attr}="${name}"]`);
-    if (!meta) {
-      meta = document.createElement('meta');
-      meta.setAttribute(attr, name);
-      document.head.appendChild(meta);
-    }
-    meta.setAttribute('content', content);
-  };
+  // Issue #672: Use centralized OG utility for consistent meta tags (including og:image)
+  updateGearComparisonOgMeta(comparison);
 
+  // Continue with Schema.org structured data
   if (comparison) {
-    document.title = comparison.metaTitle;
-    setMeta('description', comparison.metaDescription);
-    setMeta('og:title', comparison.metaTitle, true);
-    setMeta('og:description', comparison.metaDescription, true);
-    setMeta('og:type', 'article', true);
-    setMeta('og:url', `https://metalforge.io/compare/${comparison.slug}`, true);
-    setMeta('twitter:card', 'summary_large_image');
-    setMeta('twitter:title', comparison.metaTitle);
-    setMeta('twitter:description', comparison.metaDescription);
-
-    // Canonical URL
-    let canonicalLink = document.querySelector('link[rel="canonical"]');
-    if (!canonicalLink) {
-      canonicalLink = document.createElement('link');
-      canonicalLink.setAttribute('rel', 'canonical');
-      document.head.appendChild(canonicalLink);
-    }
-    canonicalLink.setAttribute('href', `https://metalforge.io/compare/${comparison.slug}`);
-
     // Structured Data - ItemPage with comparison schema
     let ldScript = document.querySelector('script[data-schema="comparison"]');
     if (!ldScript) {
@@ -15692,48 +15430,8 @@ function updateTechniqueURL(slug) {
 
 // Update meta tags for technique pages
 function updateTechniqueMeta(technique) {
-  if (Platform.OS !== 'web' || typeof document === 'undefined') return;
-
-  const setMeta = (name, content, isProperty = false) => {
-    const attr = isProperty ? 'property' : 'name';
-    let meta = document.querySelector(`meta[${attr}="${name}"]`);
-    if (!meta) {
-      meta = document.createElement('meta');
-      meta.setAttribute(attr, name);
-      document.head.appendChild(meta);
-    }
-    meta.setAttribute('content', content);
-  };
-
-  if (technique) {
-    document.title = technique.metaTitle;
-    setMeta('description', technique.metaDescription);
-    setMeta('og:title', technique.metaTitle, true);
-    setMeta('og:description', technique.metaDescription, true);
-    setMeta('og:type', 'article', true);
-    setMeta('og:url', `https://metalforge.io/techniques/${technique.slug}`, true);
-    setMeta('twitter:card', 'summary_large_image');
-    setMeta('twitter:title', technique.metaTitle);
-    setMeta('twitter:description', technique.metaDescription);
-    // Add article-specific tags for SEO
-    setMeta('article:section', technique.category, true);
-    if (technique.seoKeywords && technique.seoKeywords.length > 0) {
-      setMeta('keywords', technique.seoKeywords.join(', '));
-    }
-  } else {
-    const title = 'Metal Drumming Techniques - Blast Beats, Double Bass & More | MetalForge';
-    const description = 'Master metal drumming techniques. Learn blast beats, double bass, gravity blasts, polyrhythms and more. Tutorials, pro tips, and gear recommendations.';
-    document.title = title;
-    setMeta('description', description);
-    setMeta('og:title', title, true);
-    setMeta('og:description', description, true);
-    setMeta('og:type', 'website', true);
-    setMeta('og:url', 'https://metalforge.io/techniques', true);
-    setMeta('twitter:card', 'summary_large_image');
-    setMeta('twitter:title', title);
-    setMeta('twitter:description', description);
-    setMeta('keywords', 'metal drumming techniques, blast beat, double bass, gravity blast, polyrhythms, drum tutorial');
-  }
+  // Issue #672: Use centralized OG utility for consistent meta tags
+  updateTechniqueOgMeta(technique);
 }
 
 // Convert drummer name to URL slug

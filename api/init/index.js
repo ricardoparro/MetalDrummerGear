@@ -23,6 +23,12 @@ export default function handler(req, res) {
   res.setHeader('Access-Control-Allow-Origin', '*');
   res.setHeader('Cache-Control', 's-maxage=3600, stale-while-revalidate=86400');
   res.setHeader('Access-Control-Allow-Methods', 'GET, OPTIONS');
+  
+  // Performance optimization: Add preconnect hints for LCP image origins (Issue #667)
+  res.setHeader('Link', [
+    '<https://upload.wikimedia.org>; rel=preconnect; crossorigin',
+    '<https://i.ytimg.com>; rel=preconnect; crossorigin'
+  ].join(', '));
 
   if (req.method === 'OPTIONS') {
     return res.status(200).end();
@@ -38,14 +44,22 @@ export default function handler(req, res) {
   const spotlightIndex = getCurrentSpotlightIndex(spotlightDrummers.length);
   const currentSpotlight = spotlightDrummers[spotlightIndex];
   
-  // Include full spotlight data for immediate rendering
+  // Include full spotlight data for immediate rendering (LCP optimization - Issue #667)
   const spotlightData = currentSpotlight ? {
     id: currentSpotlight.id,
     name: currentSpotlight.name,
     band: currentSpotlight.band,
     image: currentSpotlight.image,
+    // Pre-compute optimized image URLs for faster LCP
+    thumbnailUrl: currentSpotlight.image ? `/api/image?url=${encodeURIComponent(currentSpotlight.image)}&w=140&q=80` : null,
     spotlight: currentSpotlight.spotlight
   } : null;
+  
+  // Add LCP image hint if spotlight exists
+  if (spotlightData?.thumbnailUrl) {
+    const linkHeader = res.getHeader('Link') || '';
+    res.setHeader('Link', `${linkHeader}${linkHeader ? ', ' : ''}<${spotlightData.thumbnailUrl}>; rel=preload; as=image`);
+  }
 
   // Get news preview (Phase 3 - #511)
   const newsCache = getNewsCache();
@@ -58,7 +72,7 @@ export default function handler(req, res) {
     spotlightWeek: getWeekNumber(),
     newsPreview: newsPreview,
     newsLastFetch: newsCache.lastFetch,
-    version: '1.2',
+    version: '1.3', // Issue #666, #667, #668, #669: Mobile performance optimization
     timestamp: Date.now()
   });
 }

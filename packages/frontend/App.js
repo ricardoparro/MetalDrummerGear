@@ -81,6 +81,14 @@ import {
   getRecentNews,
 } from './data/gearNews';
 
+// Album Articles for iconic metal album gear breakdowns (Issue #663)
+import {
+  ALBUM_ARTICLES,
+  getAlbumArticleBySlug,
+  getAllAlbumArticles,
+  isAlbumArticleSlug,
+} from './data/albumArticles';
+
 // Extended bios for drummer detail pages (Issue #305)
 // Loaded dynamically for code splitting (~9KB of text data) - TBT optimization #460
 // Fix for #541: Added Promise caching and listeners for reliable async loading
@@ -1148,6 +1156,59 @@ function TopListsSection({ theme, onNavigateToList }) {
 }
 
 // ==========================================
+// ALBUM ARTICLES SECTION - Iconic metal album gear breakdowns (Issue #663)
+// ==========================================
+
+function AlbumArticlesSection({ theme }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const albumArticles = getAllAlbumArticles();
+
+  if (albumArticles.length === 0) return null;
+
+  return (
+    <View style={[styles.topListsSection, { backgroundColor: 'transparent', marginTop: 8 }]}>
+      <View style={styles.topListsHeader}>
+        <Text style={[styles.topListsTitle, { color: theme.text }]}>💿 Iconic Album Gear Breakdowns</Text>
+        <Text style={[styles.topListsSubtitle, { color: theme.secondaryText }]}>
+          Complete drum setup analysis for legendary metal albums
+        </Text>
+      </View>
+      <ScrollView
+        horizontal
+        showsHorizontalScrollIndicator={false}
+        contentContainerStyle={styles.topListsScroll}
+      >
+        {albumArticles.map((article) => (
+          <TouchableOpacity
+            key={article.slug}
+            style={[styles.topListCard, { backgroundColor: theme.card, borderColor: theme.border, width: 180 }]}
+            onPress={() => {
+              if (Platform.OS === 'web') {
+                window.location.href = `/articles/${article.slug}`;
+              }
+            }}
+            accessibilityRole="button"
+            accessibilityLabel={`View ${article.albumTitle} drum setup`}
+          >
+            <Text style={[styles.topListEmoji, { fontSize: 32 }]}>🥁</Text>
+            <Text style={[styles.topListCardTitle, { color: theme.text, fontSize: 13 }]} numberOfLines={2}>
+              {article.albumTitle}
+            </Text>
+            <Text style={[styles.topListCardCount, { color: theme.primary, fontWeight: '600' }]}>
+              {article.drummer}
+            </Text>
+            <Text style={[styles.topListCardCount, { color: theme.secondaryText, marginTop: 2 }]}>
+              {article.artist} • {article.year}
+            </Text>
+          </TouchableOpacity>
+        ))}
+      </ScrollView>
+    </View>
+  );
+}
+
+// ==========================================
 // TOP LIST PAGE - Individual list view
 // ==========================================
 
@@ -1157,12 +1218,24 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
   const [list, setList] = useState(null);
   const [isLoading, setIsLoading] = useState(true);
   const [expandedDrummers, setExpandedDrummers] = useState({});
+  const [isAlbumArticle, setIsAlbumArticle] = useState(false);
 
-  // Load list data lazily
+  // Load list data lazily - check album articles first, then top10 lists
   useEffect(() => {
+    // Check if this is an album article (Issue #663)
+    const albumArticle = getAlbumArticleBySlug(listSlug);
+    if (albumArticle) {
+      setList(albumArticle);
+      setIsAlbumArticle(true);
+      setIsLoading(false);
+      return;
+    }
+    
+    // Otherwise load from top10Lists
     loadTop10Lists().then(module => {
       _top10ListsModule = module;
       setList(module.getTop10ListBySlug(listSlug));
+      setIsAlbumArticle(false);
       setIsLoading(false);
     });
   }, [listSlug]);
@@ -1186,20 +1259,27 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
       meta.setAttribute('content', content);
     };
 
-    setMeta('description', list.seoDescription);
+    // Determine if album article for correct URL structure (Issue #663)
+    const urlBase = list.isAlbumArticle ? 'articles' : 'lists';
+    const metaDescription = list.description || list.seoDescription;
+    
+    setMeta('description', metaDescription);
     setMeta('og:title', list.title, true);
-    setMeta('og:description', list.seoDescription, true);
+    setMeta('og:description', metaDescription, true);
     setMeta('og:type', 'article', true);
-    setMeta('og:url', `https://metalforge.io/lists/${list.slug}`, true);
+    setMeta('og:url', `https://metalforge.io/${urlBase}/${list.slug}`, true);
+    if (list.ogImage) {
+      setMeta('og:image', `https://metalforge.io${list.ogImage}`, true);
+    }
     setMeta('twitter:card', 'summary_large_image');
     setMeta('twitter:title', list.title);
-    setMeta('twitter:description', list.seoDescription);
+    setMeta('twitter:description', metaDescription);
     if (list.seoKeywords) {
       setMeta('keywords', list.seoKeywords.join(', '));
     }
 
-    // Inject Article schema markup for article-style lists (Issue #634)
-    if (list.isArticle) {
+    // Inject Article schema markup for article-style lists and album articles (Issue #634, #663)
+    if (list.isArticle || list.isAlbumArticle) {
       const articleSchema = {
         "@context": "https://schema.org",
         "@type": "Article",
@@ -1223,7 +1303,7 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
         "dateModified": list.dateModified || list.datePublished,
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": `https://metalforge.io/lists/${list.slug}`
+          "@id": `https://metalforge.io/${urlBase}/${list.slug}`
         },
         "keywords": list.seoKeywords?.join(', ') || ''
       };
@@ -1264,6 +1344,27 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
         }
         videoScript.textContent = JSON.stringify(videoObjects);
       }
+      
+      // Add Person schema for album articles (Issue #663)
+      if (list.isAlbumArticle && list.drummer) {
+        const personSchema = {
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "name": list.drummer,
+          "description": `Drummer for ${list.artist}`,
+          "url": `https://metalforge.io/drummer/${list.slug.split('-')[0]}-${list.slug.split('-')[1]}`,
+          "knowsAbout": ["Drums", "Metal Music", list.genre]
+        };
+        
+        let personScript = document.querySelector('script[data-schema="album-person"]');
+        if (!personScript) {
+          personScript = document.createElement('script');
+          personScript.type = 'application/ld+json';
+          personScript.setAttribute('data-schema', 'album-person');
+          document.head.appendChild(personScript);
+        }
+        personScript.textContent = JSON.stringify(personSchema);
+      }
     }
 
     // Track GA4 article_view event (Issue #658)
@@ -1282,8 +1383,10 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
       if (ldScript) ldScript.remove();
       const videoScript = document.querySelector('script[data-schema="top10-videos"]');
       if (videoScript) videoScript.remove();
+      const personScript = document.querySelector('script[data-schema="album-person"]');
+      if (personScript) personScript.remove();
     };
-  }, [list]);
+  }, [list, isAlbumArticle]);
 
   // Toggle expanded state for drummer details with GA4 tracking (Issue #658)
   const toggleDrummerExpanded = (drummerId) => {
@@ -1386,6 +1489,437 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
     .filter(Boolean);
 
   const isArticle = list.isArticle;
+  
+  // Render album article layout (Issue #663)
+  if (isAlbumArticle) {
+    return (
+      <ScrollView style={[styles.container, { backgroundColor: theme.background }]}>
+        <TouchableOpacity onPress={onBack} style={styles.backButton}>
+          <Text style={[styles.backButtonText, { color: theme.primary }]}>← Back to Home</Text>
+        </TouchableOpacity>
+
+        {/* Album Article Header */}
+        <View style={[styles.albumArticleHeader, { paddingHorizontal: 20 }]}>
+          <Text style={[styles.albumArticleAlbum, { color: theme.primary }]}>
+            {list.artist} • {list.albumTitle} ({list.year})
+          </Text>
+          <Text style={[styles.topListPageTitle, { color: theme.text, marginTop: 8 }]}>{list.title}</Text>
+          <Text style={[styles.topListPageDescription, { color: theme.secondaryText, marginTop: 12 }]}>
+            {list.description}
+          </Text>
+          
+          {/* Album metadata badges */}
+          <View style={[styles.flexRowWrap, { marginTop: 16, gap: 8 }]}>
+            <View style={[styles.genreTag, styles.genreTagLarge, { backgroundColor: theme.primary + '20' }]}>
+              <Text style={[styles.genreTagText, { color: theme.primary }]}>🎸 {list.genre}</Text>
+            </View>
+            <View style={[styles.genreTag, styles.genreTagLarge, { backgroundColor: theme.border }]}>
+              <Text style={[styles.genreTagText, { color: theme.secondaryText }]}>🏷️ {list.label}</Text>
+            </View>
+            <View style={[styles.genreTag, styles.genreTagLarge, { backgroundColor: theme.border }]}>
+              <Text style={[styles.genreTagText, { color: theme.secondaryText }]}>🎚️ {list.producer}</Text>
+            </View>
+          </View>
+          
+          {/* Social Share */}
+          {Platform.OS === 'web' && (
+            <View style={[styles.socialShareContainer, { marginTop: 16 }]}>
+              <Text style={[styles.socialShareLabel, { color: theme.secondaryText }]}>Share:</Text>
+              <TouchableOpacity onPress={() => handleShare('twitter')} style={[styles.socialShareButton, { backgroundColor: '#000000' }]}>
+                <Text style={styles.socialShareButtonText}>𝕏</Text>
+              </TouchableOpacity>
+              <TouchableOpacity onPress={() => handleShare('facebook')} style={[styles.socialShareButton, { backgroundColor: '#4267B2' }]}>
+                <Text style={styles.socialShareButtonText}>f</Text>
+              </TouchableOpacity>
+              <TouchableOpacity onPress={() => handleShare('copy')} style={[styles.socialShareButton, { backgroundColor: theme.border }]}>
+                <Text style={[styles.socialShareButtonText, { color: theme.text }]}>🔗</Text>
+              </TouchableOpacity>
+            </View>
+          )}
+          
+          {list.datePublished && (
+            <Text style={[styles.articleDate, { color: theme.secondaryText }]}>
+              Published: {new Date(list.datePublished).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+              {list.author && ` • By ${list.author}`}
+            </Text>
+          )}
+        </View>
+
+        {/* Intro Section */}
+        {list.intro && (
+          <View style={[styles.articleIntroSection, { backgroundColor: theme.card, borderColor: theme.border, marginHorizontal: 20 }]}>
+            <Text style={[styles.articleIntroTitle, { color: theme.text }]}>{list.intro.title}</Text>
+            <Text style={[styles.articleIntroContent, { color: theme.secondaryText }]}>{list.intro.content}</Text>
+            {list.intro.keyPoints && (
+              <View style={styles.articleKeyPoints}>
+                <Text style={[styles.articleKeyPointsTitle, { color: theme.text }]}>Key Points:</Text>
+                {list.intro.keyPoints.map((point, idx) => (
+                  <View key={idx} style={styles.articleKeyPointItem}>
+                    <Text style={[styles.articleKeyPointBullet, { color: theme.primary }]}>✓</Text>
+                    <Text style={[styles.articleKeyPointText, { color: theme.secondaryText }]}>{point}</Text>
+                  </View>
+                ))}
+              </View>
+            )}
+          </View>
+        )}
+
+        {/* Drum Kit Section */}
+        {list.drumKit && (
+          <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border, marginHorizontal: 20 }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>🥁 {list.drumKit.title}</Text>
+            <View style={[styles.flexRowWrap, { marginBottom: 16, gap: 8 }]}>
+              <View style={[styles.genreTag, styles.genreTagLarge, { backgroundColor: theme.primary + '20' }]}>
+                <Text style={[styles.genreTagText, { color: theme.primary }]}>{list.drumKit.brand}</Text>
+              </View>
+              <View style={[styles.genreTag, styles.genreTagLarge, { backgroundColor: theme.border }]}>
+                <Text style={[styles.genreTagText, { color: theme.secondaryText }]}>{list.drumKit.model}</Text>
+              </View>
+              {list.drumKit.finish && (
+                <View style={[styles.genreTag, styles.genreTagLarge, { backgroundColor: theme.border }]}>
+                  <Text style={[styles.genreTagText, { color: theme.secondaryText }]}>{list.drumKit.finish}</Text>
+                </View>
+              )}
+            </View>
+            {list.drumKit.config && (
+              <View style={{ marginBottom: 16 }}>
+                {list.drumKit.config.bassdrums && (
+                  <Text style={[styles.gearContent, { color: theme.secondaryText }]}>
+                    <Text style={{ fontWeight: '600', color: theme.text }}>Bass Drums: </Text>
+                    {list.drumKit.config.bassdrums.join(', ')}
+                  </Text>
+                )}
+                {list.drumKit.config.toms && (
+                  <Text style={[styles.gearContent, { color: theme.secondaryText, marginTop: 4 }]}>
+                    <Text style={{ fontWeight: '600', color: theme.text }}>Toms: </Text>
+                    {list.drumKit.config.toms.join(', ')}
+                  </Text>
+                )}
+                {list.drumKit.config.floorToms && (
+                  <Text style={[styles.gearContent, { color: theme.secondaryText, marginTop: 4 }]}>
+                    <Text style={{ fontWeight: '600', color: theme.text }}>Floor Toms: </Text>
+                    {list.drumKit.config.floorToms.join(', ')}
+                  </Text>
+                )}
+              </View>
+            )}
+            <Text style={[styles.bioText, { color: theme.secondaryText }]}>{list.drumKit.description}</Text>
+            {list.drumKit.notes && (
+              <View style={{ marginTop: 16 }}>
+                {list.drumKit.notes.map((note, idx) => (
+                  <View key={idx} style={styles.articleKeyPointItem}>
+                    <Text style={[styles.articleKeyPointBullet, { color: theme.primary }]}>•</Text>
+                    <Text style={[styles.articleKeyPointText, { color: theme.secondaryText }]}>{note}</Text>
+                  </View>
+                ))}
+              </View>
+            )}
+            {list.drumKit.estimatedValue && (
+              <Text style={[styles.gearContent, { color: theme.primary, marginTop: 12, fontWeight: '600' }]}>
+                💰 Estimated Value: {list.drumKit.estimatedValue}
+              </Text>
+            )}
+          </View>
+        )}
+
+        {/* Snare Section */}
+        {list.snare && (
+          <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border, marginHorizontal: 20 }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>🪘 {list.snare.title}</Text>
+            <View style={[styles.flexRowWrap, { marginBottom: 16, gap: 8 }]}>
+              <View style={[styles.genreTag, styles.genreTagLarge, { backgroundColor: theme.primary + '20' }]}>
+                <Text style={[styles.genreTagText, { color: theme.primary }]}>{list.snare.brand} {list.snare.model}</Text>
+              </View>
+              <View style={[styles.genreTag, styles.genreTagLarge, { backgroundColor: theme.border }]}>
+                <Text style={[styles.genreTagText, { color: theme.secondaryText }]}>{list.snare.size}</Text>
+              </View>
+            </View>
+            <Text style={[styles.bioText, { color: theme.secondaryText }]}>{list.snare.description}</Text>
+            {list.snare.tuningSetting && (
+              <Text style={[styles.gearContent, { color: theme.secondaryText, marginTop: 12 }]}>
+                <Text style={{ fontWeight: '600', color: theme.text }}>Tuning: </Text>
+                {list.snare.tuningSetting}
+              </Text>
+            )}
+            {list.snare.heads && (
+              <Text style={[styles.gearContent, { color: theme.secondaryText, marginTop: 4 }]}>
+                <Text style={{ fontWeight: '600', color: theme.text }}>Heads: </Text>
+                {list.snare.heads}
+              </Text>
+            )}
+            {list.snare.estimatedValue && (
+              <Text style={[styles.gearContent, { color: theme.primary, marginTop: 12, fontWeight: '600' }]}>
+                💰 Estimated Value: {list.snare.estimatedValue}
+              </Text>
+            )}
+          </View>
+        )}
+
+        {/* Cymbals Section */}
+        {list.cymbals && (
+          <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border, marginHorizontal: 20 }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>🎤 {list.cymbals.title}</Text>
+            <View style={[styles.flexRowWrap, { marginBottom: 16, gap: 8 }]}>
+              <View style={[styles.genreTag, styles.genreTagLarge, { backgroundColor: theme.primary + '20' }]}>
+                <Text style={[styles.genreTagText, { color: theme.primary }]}>{list.cymbals.brand}</Text>
+              </View>
+              <View style={[styles.genreTag, styles.genreTagLarge, { backgroundColor: theme.border }]}>
+                <Text style={[styles.genreTagText, { color: theme.secondaryText }]}>{list.cymbals.series}</Text>
+              </View>
+            </View>
+            {list.cymbals.setup && (
+              <View style={{ marginBottom: 16 }}>
+                {list.cymbals.setup.map((cymbal, idx) => (
+                  <View key={idx} style={[styles.specRow, { borderBottomColor: theme.border }]}>
+                    <Text style={[styles.specLabel, { color: theme.text }]}>{cymbal.type}</Text>
+                    <Text style={[styles.specValue, { color: theme.secondaryText }]}>{cymbal.model}</Text>
+                  </View>
+                ))}
+              </View>
+            )}
+            <Text style={[styles.bioText, { color: theme.secondaryText }]}>{list.cymbals.description}</Text>
+            {list.cymbals.estimatedValue && (
+              <Text style={[styles.gearContent, { color: theme.primary, marginTop: 12, fontWeight: '600' }]}>
+                💰 Estimated Value: {list.cymbals.estimatedValue}
+              </Text>
+            )}
+          </View>
+        )}
+
+        {/* Hardware Section */}
+        {list.hardware && (
+          <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border, marginHorizontal: 20 }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>⚙️ {list.hardware.title}</Text>
+            {list.hardware.items && list.hardware.items.map((item, idx) => (
+              <View key={idx} style={{ marginBottom: 16 }}>
+                <Text style={[styles.gearTitle, { color: theme.text }]}>{item.type}</Text>
+                <Text style={[styles.gearContent, { color: theme.secondaryText }]}>
+                  {item.brand} {item.model}
+                </Text>
+                {item.notes && (
+                  <Text style={[styles.gearContent, { color: theme.secondaryText, fontStyle: 'italic', marginTop: 4 }]}>
+                    {item.notes}
+                  </Text>
+                )}
+                {item.description && (
+                  <Text style={[styles.gearContent, { color: theme.secondaryText, marginTop: 8 }]}>
+                    {item.description}
+                  </Text>
+                )}
+              </View>
+            ))}
+            {list.hardware.heads && (
+              <View style={{ marginTop: 8 }}>
+                <Text style={[styles.gearTitle, { color: theme.text }]}>Drum Heads</Text>
+                {list.hardware.heads.bassKick && (
+                  <Text style={[styles.gearContent, { color: theme.secondaryText }]}>
+                    <Text style={{ fontWeight: '600' }}>Bass Drum: </Text>{list.hardware.heads.bassKick}
+                  </Text>
+                )}
+                {list.hardware.heads.toms && (
+                  <Text style={[styles.gearContent, { color: theme.secondaryText }]}>
+                    <Text style={{ fontWeight: '600' }}>Toms: </Text>{list.hardware.heads.toms}
+                  </Text>
+                )}
+                {list.hardware.heads.snare && (
+                  <Text style={[styles.gearContent, { color: theme.secondaryText }]}>
+                    <Text style={{ fontWeight: '600' }}>Snare: </Text>{list.hardware.heads.snare}
+                  </Text>
+                )}
+              </View>
+            )}
+          </View>
+        )}
+
+        {/* Recording Techniques Section */}
+        {list.recordingTechniques && (
+          <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border, marginHorizontal: 20 }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>🎙️ {list.recordingTechniques.title}</Text>
+            <Text style={[styles.bioText, { color: theme.secondaryText }]}>{list.recordingTechniques.content}</Text>
+            {list.recordingTechniques.keyTechniques && (
+              <View style={{ marginTop: 16 }}>
+                <Text style={[styles.gearTitle, { color: theme.text }]}>Key Techniques:</Text>
+                {list.recordingTechniques.keyTechniques.map((tech, idx) => (
+                  <View key={idx} style={styles.articleKeyPointItem}>
+                    <Text style={[styles.articleKeyPointBullet, { color: theme.primary }]}>•</Text>
+                    <Text style={[styles.articleKeyPointText, { color: theme.secondaryText }]}>{tech}</Text>
+                  </View>
+                ))}
+              </View>
+            )}
+          </View>
+        )}
+
+        {/* Track Analysis Section */}
+        {list.trackAnalysis && list.trackAnalysis.length > 0 && (
+          <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border, marginHorizontal: 20 }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>🎵 Track-by-Track Analysis</Text>
+            {list.trackAnalysis.map((track, idx) => (
+              <View key={idx} style={{ marginBottom: 20, paddingBottom: 16, borderBottomWidth: idx < list.trackAnalysis.length - 1 ? 1 : 0, borderBottomColor: theme.border }}>
+                <View style={styles.flexRowBetween}>
+                  <Text style={[styles.gearTitle, { color: theme.text }]}>{track.track}</Text>
+                  <View style={[styles.bpmBadge, { backgroundColor: theme.primary }]}>
+                    <Text style={styles.bpmBadgeText}>{track.bpm} BPM</Text>
+                  </View>
+                </View>
+                <Text style={[styles.gearContent, { color: theme.secondaryText, marginTop: 4 }]}>
+                  Time Signature: {track.signature}
+                </Text>
+                {track.highlights && (
+                  <View style={{ marginTop: 8 }}>
+                    {track.highlights.map((h, hIdx) => (
+                      <View key={hIdx} style={styles.articleKeyPointItem}>
+                        <Text style={[styles.articleKeyPointBullet, { color: theme.primary }]}>•</Text>
+                        <Text style={[styles.articleKeyPointText, { color: theme.secondaryText }]}>{h}</Text>
+                      </View>
+                    ))}
+                  </View>
+                )}
+                {track.gearNotes && (
+                  <Text style={[styles.gearContent, { color: theme.primary, marginTop: 8, fontStyle: 'italic' }]}>
+                    🎧 {track.gearNotes}
+                  </Text>
+                )}
+              </View>
+            ))}
+          </View>
+        )}
+
+        {/* Evolution Section */}
+        {list.evolution && (
+          <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border, marginHorizontal: 20 }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>📈 {list.evolution.title}</Text>
+            <Text style={[styles.bioText, { color: theme.secondaryText }]}>{list.evolution.content}</Text>
+            {list.evolution.thenVsNow && (
+              <View style={{ marginTop: 16 }}>
+                <Text style={[styles.gearTitle, { color: theme.text }]}>Then vs. Now:</Text>
+                {list.evolution.thenVsNow.map((comp, idx) => (
+                  <View key={idx} style={[styles.specRow, { borderBottomColor: theme.border }]}>
+                    <Text style={[styles.specLabel, { color: theme.text }]}>{comp.category}</Text>
+                    <View style={{ flex: 2 }}>
+                      <Text style={[styles.specValue, { color: theme.secondaryText, textAlign: 'left' }]}>
+                        <Text style={{ fontWeight: '600' }}>Then: </Text>{comp.then}
+                      </Text>
+                      <Text style={[styles.specValue, { color: theme.primary, textAlign: 'left' }]}>
+                        <Text style={{ fontWeight: '600' }}>Now: </Text>{comp.now}
+                      </Text>
+                    </View>
+                  </View>
+                ))}
+              </View>
+            )}
+          </View>
+        )}
+
+        {/* Videos Section */}
+        {list.videos && list.videos.length > 0 && (
+          <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border, marginHorizontal: 20 }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>🎬 Related Videos</Text>
+            {list.videos.map((video, idx) => (
+              <View key={idx} style={{ marginBottom: 16 }}>
+                <View style={styles.videoContainer}>
+                  <TouchableOpacity
+                    onPress={() => {
+                      if (Platform.OS === 'web') {
+                        window.open(`https://www.youtube.com/watch?v=${video.youtubeId}`, '_blank');
+                      }
+                    }}
+                  >
+                    <ImageWithFallback
+                      source={{ uri: `https://img.youtube.com/vi/${video.youtubeId}/hqdefault.jpg` }}
+                      style={styles.videoThumbnail}
+                      width={480}
+                      height={270}
+                      imageContext="thumbnail"
+                    />
+                    <View style={styles.playButtonOverlay}>
+                      <View style={[styles.playButton, { backgroundColor: '#dc2626' }]}>
+                        <Text style={styles.playButtonText}>▶</Text>
+                      </View>
+                    </View>
+                  </TouchableOpacity>
+                </View>
+                <Text style={[styles.videoTitle, { color: theme.text }]}>{video.title}</Text>
+                {video.description && (
+                  <Text style={[styles.gearContent, { color: theme.secondaryText }]}>{video.description}</Text>
+                )}
+              </View>
+            ))}
+          </View>
+        )}
+
+        {/* Conclusion Section */}
+        {list.conclusion && (
+          <View style={[styles.articleConclusionSection, { backgroundColor: theme.card, borderColor: theme.primary }]}>
+            <Text style={[styles.articleConclusionTitle, { color: theme.text }]}>{list.conclusion.title}</Text>
+            <Text style={[styles.articleConclusionContent, { color: theme.secondaryText }]}>{list.conclusion.content}</Text>
+          </View>
+        )}
+
+        {/* Related Content Section */}
+        <View style={[styles.relatedContentSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.relatedContentTitle, { color: theme.text }]}>Related Content</Text>
+          <View style={styles.relatedContentLinks}>
+            {list.relatedDrummers && list.relatedDrummers.map((drummerId) => {
+              const drummer = drummers.find(d => d.id === drummerId);
+              if (!drummer) return null;
+              return (
+                <TouchableOpacity
+                  key={drummerId}
+                  style={[styles.relatedContentLink, { backgroundColor: theme.background, borderColor: theme.border }]}
+                  onPress={() => onSelectDrummer(drummer)}
+                >
+                  <Text style={styles.relatedContentEmoji}>🥁</Text>
+                  <Text style={[styles.relatedContentLinkText, { color: theme.text }]}>{drummer.name}</Text>
+                </TouchableOpacity>
+              );
+            })}
+            {list.relatedAlbums && list.relatedAlbums.map((albumSlug) => (
+              <TouchableOpacity
+                key={albumSlug}
+                style={[styles.relatedContentLink, { backgroundColor: theme.background, borderColor: theme.border }]}
+                onPress={() => {
+                  if (Platform.OS === 'web') {
+                    window.location.href = `/articles/${albumSlug}`;
+                  }
+                }}
+              >
+                <Text style={styles.relatedContentEmoji}>💿</Text>
+                <Text style={[styles.relatedContentLinkText, { color: theme.text }]}>
+                  {albumSlug.replace(/-drum-setup$/, '').replace(/-/g, ' ')}
+                </Text>
+              </TouchableOpacity>
+            ))}
+          </View>
+        </View>
+
+        {/* Bottom Share Section */}
+        {Platform.OS === 'web' && (
+          <View style={styles.bottomShareSection}>
+            <Text style={[styles.bottomShareText, { color: theme.secondaryText }]}>
+              Enjoyed this article? Share it with fellow drummers!
+            </Text>
+            <View style={styles.socialShareContainer}>
+              <TouchableOpacity onPress={() => handleShare('twitter')} style={[styles.socialShareButton, { backgroundColor: '#000000' }]}>
+                <Text style={styles.socialShareButtonText}>𝕏</Text>
+              </TouchableOpacity>
+              <TouchableOpacity onPress={() => handleShare('facebook')} style={[styles.socialShareButton, { backgroundColor: '#4267B2' }]}>
+                <Text style={styles.socialShareButtonText}>f</Text>
+              </TouchableOpacity>
+              <TouchableOpacity onPress={() => handleShare('reddit')} style={[styles.socialShareButton, { backgroundColor: '#FF4500' }]}>
+                <Text style={styles.socialShareButtonText}>r/</Text>
+              </TouchableOpacity>
+              <TouchableOpacity onPress={() => handleShare('copy')} style={[styles.socialShareButton, { backgroundColor: theme.border }]}>
+                <Text style={[styles.socialShareButtonText, { color: theme.text }]}>🔗</Text>
+              </TouchableOpacity>
+            </View>
+          </View>
+        )}
+
+        <View style={{ height: 40 }} />
+      </ScrollView>
+    );
+  }
 
   return (
     <ScrollView style={[styles.container, { backgroundColor: theme.background }]}>
@@ -13287,6 +13821,9 @@ function DrummerList({
       )}
       {/* Top 10 Lists Section */}
       <TopListsSection theme={theme} onNavigateToList={onNavigateToList} />
+      
+      {/* Album Articles Section - Iconic Album Gear Breakdowns (Issue #663) */}
+      <AlbumArticlesSection theme={theme} />
       
       {/* Most Popular Gear Section (Issue #640) */}
       <MostPopularGear theme={theme} onSelectDrummer={onSelectDrummer} />
@@ -26083,6 +26620,26 @@ const styles = StyleSheet.create({
   gearNewsActionText: {
     fontSize: fontSize.sm,
     fontWeight: fontWeight.semibold,
+  },
+
+  // ==========================================
+  // ALBUM ARTICLE STYLES (Issue #663)
+  // ==========================================
+  albumArticleHeader: {
+    paddingTop: spacing[4],
+    paddingBottom: spacing[6],
+  },
+  albumArticleAlbum: {
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.semibold,
+    textTransform: 'uppercase',
+    letterSpacing: 1,
+  },
+  albumArticleMetaBadges: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: spacing[2],
+    marginTop: spacing[4],
   },
 
 });

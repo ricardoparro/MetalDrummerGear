@@ -15427,7 +15427,7 @@ function trackQuizCompletion(matchedDrummer, matchPercentage) {
 // Track quiz shared in GA4 (Issue #637, #647)
 function trackQuizShared(platform, drummerName, resultId) {
   if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
-    // Issue #647: Updated tracking format
+    // Issue #647, #662: Updated tracking format
     window.gtag('event', 'quiz_share', {
       drummer: drummerName,
       platform: platform,
@@ -15684,7 +15684,7 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
             </TouchableOpacity>
           </View>
 
-          {/* Share Buttons - Issue #637, #647 */}
+          {/* Share Buttons - Issue #637, #647, #662 */}
           <View style={styles.shareSection}>
             <Text style={[styles.shareTitle, { color: theme.text }]}>🔥 Share Your Result</Text>
             <View style={[styles.shareButtons, { flexWrap: 'wrap', justifyContent: 'center' }]}>

@@ -2,7 +2,7 @@
 const { test, expect } = require('@playwright/test');
 
 /**
- * E2E Tests for Quiz Social Share Buttons - Issue #652
+ * E2E Tests for Quiz Social Share Buttons - Issue #652, #662
  * Add social share buttons to quiz results page
  * 
  * Tests:

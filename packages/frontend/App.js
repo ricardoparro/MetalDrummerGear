@@ -82,6 +82,14 @@ import {
   MANUAL_OVERRIDE
 } from './data/featuredDrummer';
 
+// Trending This Week - Top drummers by page views (Issue #671)
+import {
+  getTrendingDrummers,
+  formatTrendingChange,
+  getTrendingColor,
+  TRENDING_PERIOD,
+} from './data/trendingDrummers';
+
 // Gear News for /gear-news page (Issue #660)
 import {
   GEAR_NEWS,
@@ -1103,6 +1111,111 @@ function MostPopularGear({ theme, onSelectDrummer }) {
           </View>
         ))}
       </View>
+    </View>
+  );
+}
+
+// ==========================================
+// TRENDING THIS WEEK SECTION - Top drummers by page views (Issue #671)
+// ==========================================
+
+function TrendingThisWeek({ theme, drummers, onSelectDrummer }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  
+  // Get trending drummers with full data
+  const trendingDrummers = useMemo(() => 
+    getTrendingDrummers(drummers), 
+    [drummers]
+  );
+
+  // Don't render if no trending data or drummers not loaded
+  if (!trendingDrummers || trendingDrummers.length === 0) {
+    return null;
+  }
+
+  // Track clicks on trending widget for analytics (GA4 event: trending_click)
+  const handleDrummerPress = (drummer) => {
+    // Fire GA4 event
+    if (typeof window !== 'undefined' && window.gtag) {
+      window.gtag('event', 'trending_click', {
+        drummer_id: drummer.id,
+        drummer_name: drummer.name,
+        trending_rank: drummer.trending.rank,
+        trending_change: drummer.trending.change,
+      });
+    }
+    onSelectDrummer(drummer.id);
+  };
+
+  return (
+    <View 
+      style={[styles.trendingSection, { backgroundColor: 'transparent' }]}
+      accessibilityRole="region"
+      accessibilityLabel="Trending This Week"
+    >
+      <View style={styles.trendingHeader}>
+        <Text style={[styles.trendingTitle, { color: theme.text }]} accessibilityRole="header">
+          🔥 Trending This Week
+        </Text>
+        <Text style={[styles.trendingSubtitle, { color: theme.secondaryText }]}>
+          Most viewed drummer profiles
+        </Text>
+      </View>
+      
+      <ScrollView
+        horizontal
+        showsHorizontalScrollIndicator={false}
+        contentContainerStyle={styles.trendingScroll}
+      >
+        {trendingDrummers.map((drummer) => {
+          const { trending } = drummer;
+          const changeColor = getTrendingColor(trending.change);
+          const changeText = formatTrendingChange(trending.change);
+          
+          return (
+            <TouchableOpacity
+              key={drummer.id}
+              style={[styles.trendingCard, { backgroundColor: theme.card, borderColor: theme.border }]}
+              onPress={() => handleDrummerPress(drummer)}
+              accessibilityRole="button"
+              accessibilityLabel={`View ${drummer.name}'s profile - ${changeText} this week`}
+            >
+              {/* Rank Badge */}
+              <View style={[styles.trendingRankBadge, { backgroundColor: theme.primary }]}>
+                <Text style={styles.trendingRankText}>#{trending.rank}</Text>
+              </View>
+              
+              {/* Drummer Photo */}
+              <View style={styles.trendingImageContainer}>
+                <ImageWithFallback
+                  source={{ uri: drummer.image }}
+                  style={styles.trendingImage}
+                  accessibilityLabel={`Photo of ${drummer.name}`}
+                  width={80}
+                  height={80}
+                  imageContext="thumbnail"
+                />
+              </View>
+              
+              {/* Drummer Info */}
+              <Text style={[styles.trendingName, { color: theme.text }]} numberOfLines={1}>
+                {drummer.name}
+              </Text>
+              <Text style={[styles.trendingBand, { color: theme.secondaryText }]} numberOfLines={1}>
+                {drummer.band}
+              </Text>
+              
+              {/* Change Badge */}
+              <View style={[styles.trendingChangeBadge, { backgroundColor: changeColor }]}>
+                <Text style={styles.trendingChangeText}>
+                  {trending.isNew ? '🆕 NEW' : `📈 ${changeText}`}
+                </Text>
+              </View>
+            </TouchableOpacity>
+          );
+        })}
+      </ScrollView>
     </View>
   );
 }
@@ -13861,6 +13974,12 @@ function DrummerList({
           onViewAllSpotlights={onNavigateToSpotlights}
         />
       )}
+      {/* Trending This Week Section (Issue #671) */}
+      <TrendingThisWeek
+        theme={theme}
+        drummers={drummers}
+        onSelectDrummer={onSelectDrummer}
+      />
       {/* Top 10 Lists Section */}
       <TopListsSection theme={theme} onNavigateToList={onNavigateToList} />
       
@@ -25131,6 +25250,86 @@ const styles = StyleSheet.create({
   gearFinderSeoText: {
     fontSize: 15,
     lineHeight: 24,
+  },
+  // Trending This Week Section styles (Issue #671)
+  trendingSection: {
+    marginVertical: 24,
+    paddingHorizontal: 0,
+  },
+  trendingHeader: {
+    paddingHorizontal: 20,
+    marginBottom: 16,
+  },
+  trendingTitle: {
+    fontSize: 24,
+    fontWeight: '700',
+    marginBottom: 4,
+  },
+  trendingSubtitle: {
+    fontSize: 14,
+  },
+  trendingScroll: {
+    paddingHorizontal: 20,
+    gap: 12,
+  },
+  trendingCard: {
+    width: 130,
+    padding: 12,
+    borderRadius: 12,
+    borderWidth: 1,
+    alignItems: 'center',
+    position: 'relative',
+  },
+  trendingRankBadge: {
+    position: 'absolute',
+    top: 8,
+    left: 8,
+    width: 24,
+    height: 24,
+    borderRadius: 12,
+    alignItems: 'center',
+    justifyContent: 'center',
+    zIndex: 1,
+  },
+  trendingRankText: {
+    color: '#ffffff',
+    fontSize: 11,
+    fontWeight: '700',
+  },
+  trendingImageContainer: {
+    width: 80,
+    height: 80,
+    borderRadius: 40,
+    overflow: 'hidden',
+    marginBottom: 10,
+    marginTop: 8,
+  },
+  trendingImage: {
+    width: 80,
+    height: 80,
+    borderRadius: 40,
+  },
+  trendingName: {
+    fontSize: 14,
+    fontWeight: '600',
+    textAlign: 'center',
+    marginBottom: 2,
+  },
+  trendingBand: {
+    fontSize: 12,
+    textAlign: 'center',
+    marginBottom: 8,
+  },
+  trendingChangeBadge: {
+    paddingHorizontal: 8,
+    paddingVertical: 4,
+    borderRadius: 10,
+    marginTop: 4,
+  },
+  trendingChangeText: {
+    color: '#ffffff',
+    fontSize: 11,
+    fontWeight: '600',
   },
   // Top Lists Section styles
   topListsSection: {

@@ -106,8 +106,15 @@ export const TOP_10_LISTS = {
     slug: 'most-expensive-drum-setups',
     title: 'Top 10 Most Expensive Metal Drum Setups',
     emoji: '💎',
+    // Article metadata for SEO (Issue #673)
+    isArticle: true,
+    datePublished: '2026-03-01',
+    dateModified: '2026-03-08',
+    author: 'MetalForge Editorial',
+    ogImage: '/images/articles/most-expensive-drum-setups-og.webp',
     description: 'The ultimate in drum gear luxury. These metal drummers play setups worth more than most cars, featuring custom shells, signature snares, premium cymbals, and cutting-edge electronics. From Sonor SQ2 to Pearl Masterworks, these are the most expensive kits in metal.',
     seoDescription: 'Discover the most expensive metal drum setups in the world. Premium shells, signature gear, and luxury kits from Danny Carey, Tomas Haake, George Kollias and more.',
+    seoKeywords: ['expensive drum kit', 'luxury drum setup', 'metal drummer gear', 'sonor sq2', 'pearl masterworks', 'premium cymbals', 'danny carey kit', 'tomas haake drums'],
     drummerIds: [14, 5, 6, 15, 16, 47, 52, 13, 19, 18],
     rankings: {
       14: { rank: 1, highlight: 'Est. €11,000+ setup', reason: 'Sonor SQ2 Heavy Beech + Mandala electronic pads + Paiste Signature cymbals + custom bronze snare', kitValue: '€11,000+' },
@@ -126,11 +133,12 @@ export const TOP_10_LISTS = {
     slug: 'fastest-double-bass-drummers',
     title: 'Top 10 Fastest Double Bass Drummers in Metal History',
     emoji: '🦶',
-    // Article metadata for SEO
+    // Article metadata for SEO (Issue #673)
     isArticle: true,
     datePublished: '2026-03-03',
     dateModified: '2026-03-03',
     author: 'MetalForge Editorial',
+    ogImage: '/images/articles/fastest-double-bass-drummers-og.webp',
     // Introduction section for article format
     intro: {
       title: 'The Evolution of Double Bass Speed in Metal',
@@ -311,11 +319,12 @@ Whether you're an aspiring extreme metal drummer or just a fan of the genre, stu
     slug: 'most-brutal-drum-solos',
     title: 'Top 10 Most Brutal Drum Solos in Metal History',
     emoji: '🥁',
-    // Article metadata for SEO - Issue #658
+    // Article metadata for SEO (Issue #658, #673)
     isArticle: true,
     datePublished: '2026-03-07',
     dateModified: '2026-03-07',
     author: 'MetalForge Editorial',
+    ogImage: '/images/articles/most-brutal-drum-solos-og.webp',
     // Introduction section for article format
     intro: {
       title: 'The Art of the Metal Drum Solo',

@@ -1289,17 +1289,44 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
       setMeta('keywords', list.seoKeywords.join(', '));
     }
 
-    // Inject Article schema markup for article-style lists and album articles (Issue #634, #663)
+    // Inject Article schema markup for article-style lists and album articles (Issue #634, #663, #673)
     if (list.isArticle || list.isAlbumArticle) {
+      // Build image array for Article schema (Issue #673 - required for Google rich results)
+      // Google requires images with minimum 1200px width for rich results
+      const articleImages = [];
+      
+      // Use ogImage if available (album articles have this)
+      if (list.ogImage) {
+        articleImages.push(`https://metalforge.io${list.ogImage}`);
+      }
+      
+      // Add MetalForge default article image as fallback
+      if (articleImages.length === 0) {
+        articleImages.push('https://metalforge.io/images/metalforge-article-og.webp');
+      }
+      
+      // Add additional images from article content for richer schema
+      // For album articles, use album-specific images
+      if (list.isAlbumArticle) {
+        articleImages.push(`https://metalforge.io/images/albums/${list.slug}.webp`);
+      }
+      
       const articleSchema = {
         "@context": "https://schema.org",
         "@type": "Article",
         "headline": list.title,
-        "description": list.seoDescription,
+        "description": list.seoDescription || list.description?.substring(0, 160),
+        "image": articleImages,
         "author": {
           "@type": "Organization",
           "name": list.author || "MetalForge",
-          "url": "https://metalforge.io"
+          "url": "https://metalforge.io",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://metalforge.io/logo.png",
+            "width": 512,
+            "height": 512
+          }
         },
         "publisher": {
           "@type": "Organization",
@@ -1307,7 +1334,9 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
           "url": "https://metalforge.io",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://metalforge.io/logo.png"
+            "url": "https://metalforge.io/logo.png",
+            "width": 512,
+            "height": 512
           }
         },
         "datePublished": list.datePublished,
@@ -1316,7 +1345,9 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
           "@type": "WebPage",
           "@id": `https://metalforge.io/${urlBase}/${list.slug}`
         },
-        "keywords": list.seoKeywords?.join(', ') || ''
+        "keywords": list.seoKeywords?.join(', ') || '',
+        "articleSection": list.isAlbumArticle ? "Album Gear Breakdown" : "Top 10 Lists",
+        "inLanguage": "en-US"
       };
 
       let ldScript = document.querySelector('script[data-schema="top10-article"]');

@@ -130,6 +130,9 @@ import {
   isAlbumArticleSlug,
 } from './data/albumArticles';
 
+// Quiz Share Buttons Component (Issue #678)
+import { QuizShareButtons, trackQuizShare } from './components/QuizShareButtons';
+
 // Extended bios for drummer detail pages (Issue #305)
 // Loaded dynamically for code splitting (~9KB of text data) - TBT optimization #460
 // Fix for #541: Added Promise caching and listeners for reliable async loading
@@ -16080,43 +16083,13 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
             </TouchableOpacity>
           </View>
 
-          {/* Share Buttons - Issue #637, #647, #662 */}
+          {/* Share Buttons - Issue #637, #647, #662, #678 */}
           <View style={styles.shareSection}>
-            <Text style={[styles.shareTitle, { color: theme.text }]}>🔥 Share Your Result</Text>
-            <View style={[styles.shareButtons, { flexWrap: 'wrap', justifyContent: 'center' }]}>
-              <TouchableOpacity
-                onPress={() => handleShare('twitter')}
-                style={[styles.shareButton, styles.shareButtonTwitter]}
-                accessibilityLabel="Share on Twitter"
-                accessibilityRole="button"
-              >
-                <Text style={styles.shareButtonText}>𝕏</Text>
-              </TouchableOpacity>
-              <TouchableOpacity
-                onPress={() => handleShare('facebook')}
-                style={[styles.shareButton, styles.shareButtonFacebook]}
-                accessibilityLabel="Share on Facebook"
-                accessibilityRole="button"
-              >
-                <Text style={styles.shareButtonText}>f</Text>
-              </TouchableOpacity>
-              <TouchableOpacity
-                onPress={() => handleShare('whatsapp')}
-                style={[styles.shareButton, styles.shareButtonWhatsapp]}
-                accessibilityLabel="Share on WhatsApp"
-                accessibilityRole="button"
-              >
-                <Text style={styles.shareButtonText}>💬</Text>
-              </TouchableOpacity>
-              <TouchableOpacity
-                onPress={() => handleShare('copy')}
-                style={[styles.shareButton, { backgroundColor: theme.border }]}
-                accessibilityLabel="Copy link to clipboard"
-                accessibilityRole="button"
-              >
-                <Text style={[styles.shareButtonText, { color: theme.text }]}>🔗</Text>
-              </TouchableOpacity>
-            </View>
+            <QuizShareButtons
+              drummer={topMatch.drummer}
+              theme={theme}
+              title="🔥 Share Your Result"
+            />
             <Text style={[styles.shareSubtext, { color: theme.secondaryText }]}>
               {quizCount.toLocaleString()}+ drummers have taken this quiz
             </Text>

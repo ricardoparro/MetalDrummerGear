@@ -16083,12 +16083,13 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
             </TouchableOpacity>
           </View>
 
-          {/* Share Buttons - Issue #637, #647, #662, #678 */}
+          {/* Share Buttons - Issue #637, #647, #662, #678, #680 */}
           <View style={styles.shareSection}>
             <QuizShareButtons
               drummer={topMatch.drummer}
               theme={theme}
               title="🔥 Share Your Result"
+              matchPercentage={matchPercent}
             />
             <Text style={[styles.shareSubtext, { color: theme.secondaryText }]}>
               {quizCount.toLocaleString()}+ drummers have taken this quiz

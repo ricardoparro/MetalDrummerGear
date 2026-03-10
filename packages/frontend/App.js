@@ -133,6 +133,15 @@ import {
 // Quiz Share Buttons Component (Issue #678)
 import { QuizShareButtons, trackQuizShare } from './components/QuizShareButtons';
 
+// Sound Like Guides Component (Issue #685)
+import { 
+  GuidesHubPage, 
+  GuidePage, 
+  isGuidesHubPage, 
+  isGuidePage, 
+  getGuideSlugFromURL 
+} from './components/SoundLikeGuides';
+
 // Extended bios for drummer detail pages (Issue #305)
 // Loaded dynamically for code splitting (~9KB of text data) - TBT optimization #460
 // Fix for #541: Added Promise caching and listeners for reliable async loading
@@ -17610,6 +17619,12 @@ function AppContent() {
   // Article Page state (Issue #642) - SEO-optimized articles at /articles/:slug
   const [showArticle, setShowArticle] = useState(() => isArticlePage());
   const [articleSlug, setArticleSlug] = useState(() => getArticleSlugFromURL());
+  
+  // Sound Like Guides Page state (Issue #685) - SEO content hub at /guides/*
+  const [showGuidesHub, setShowGuidesHub] = useState(() => isGuidesHubPage());
+  const [showGuide, setShowGuide] = useState(() => isGuidePage());
+  const [guideSlug, setGuideSlug] = useState(() => getGuideSlugFromURL());
+  
   const [showGearFinder, setShowGearFinder] = useState(() => isGearFinderPage());
   const [selectedGear, setSelectedGear] = useState(null);
   const [loadingGear, setLoadingGear] = useState(false);
@@ -18717,6 +18732,75 @@ function AppContent() {
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
+      } else if (isGuidesHubPage()) {
+        // Guides Hub page (Issue #685) - /guides
+        setShowGuidesHub(true);
+        setShowGuide(false);
+        setGuideSlug(null);
+        setShowArticle(false);
+        setArticleSlug(null);
+        setShowList(false);
+        setListSlug(null);
+        setShowNewsPage(false);
+        setShowGearNewsPage(false);
+        setShowTechniquesIndex(false);
+        setShowTechniqueDetail(false);
+        setTechniqueSlug(null);
+        setShowGearComparisonsIndex(false);
+        setShowGearComparison(false);
+        setGearComparisonSlug(null);
+        setShowGenresList(false);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowKitBuilder(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+      } else if (isGuidePage()) {
+        // Individual Guide page (Issue #685) - /guides/how-to-sound-like-*
+        const slug = getGuideSlugFromURL();
+        setShowGuide(true);
+        setGuideSlug(slug);
+        setShowGuidesHub(false);
+        setShowArticle(false);
+        setArticleSlug(null);
+        setShowList(false);
+        setListSlug(null);
+        setShowNewsPage(false);
+        setShowGearNewsPage(false);
+        setShowTechniquesIndex(false);
+        setShowTechniqueDetail(false);
+        setTechniqueSlug(null);
+        setShowGearComparisonsIndex(false);
+        setShowGearComparison(false);
+        setGearComparisonSlug(null);
+        setShowGenresList(false);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowKitBuilder(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
       } else if (isArticlePage()) {
         // Article page (Issue #642) - /articles/:slug
         const slug = getArticleSlugFromURL();
@@ -18746,6 +18830,9 @@ function AppContent() {
         setBioSlug(null);
         setShowGearFinder(false);
         setShowGearByBudget(false);
+        setShowGuidesHub(false);
+        setShowGuide(false);
+        setGuideSlug(null);
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
@@ -20174,6 +20261,46 @@ setShowList(false);
           onSelectDrummer={handleSelectDrummer}
           listSlug={listSlug}
           onNavigateToList={handleNavigateToList}
+        />
+      );
+    }
+    // Guides Hub Page (Issue #685) - SEO content hub at /guides
+    if (showGuidesHub) {
+      return (
+        <GuidesHubPage
+          theme={theme}
+          onBack={() => {
+            setShowGuidesHub(false);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/');
+            }
+          }}
+          onSelectGuide={(slug) => {
+            setShowGuidesHub(false);
+            setShowGuide(true);
+            setGuideSlug(slug);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', `/guides/${slug}`);
+            }
+          }}
+        />
+      );
+    }
+    // Individual Guide Page (Issue #685) - /guides/how-to-sound-like-*
+    if (showGuide && guideSlug) {
+      return (
+        <GuidePage
+          theme={theme}
+          onBack={() => {
+            setShowGuide(false);
+            setGuideSlug(null);
+            setShowGuidesHub(true);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/guides');
+            }
+          }}
+          guideSlug={guideSlug}
+          onSelectDrummer={handleSelectDrummer}
         />
       );
     }

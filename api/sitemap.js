@@ -136,6 +136,20 @@ function generateAllDrummerComparisons(drummerList) {
 }
 const drummerComparisons = generateAllDrummerComparisons(drummers);
 
+// Issue #685: "How to Sound Like" guides - SEO content hub
+const soundLikeGuides = [
+  { slug: 'how-to-sound-like-joey-jordison', name: 'How to Sound Like Joey Jordison' },
+  { slug: 'how-to-sound-like-danny-carey', name: 'How to Sound Like Danny Carey' },
+  { slug: 'how-to-sound-like-lars-ulrich', name: 'How to Sound Like Lars Ulrich' },
+  { slug: 'how-to-sound-like-dave-lombardo', name: 'How to Sound Like Dave Lombardo' },
+  { slug: 'how-to-sound-like-mario-duplantier', name: 'How to Sound Like Mario Duplantier' },
+  { slug: 'how-to-sound-like-tomas-haake', name: 'How to Sound Like Tomas Haake' },
+  { slug: 'how-to-sound-like-gene-hoglan', name: 'How to Sound Like Gene Hoglan' },
+  { slug: 'how-to-sound-like-brann-dailor', name: 'How to Sound Like Brann Dailor' },
+  { slug: 'how-to-sound-like-matt-halpern', name: 'How to Sound Like Matt Halpern' },
+  { slug: 'how-to-sound-like-chris-adler', name: 'How to Sound Like Chris Adler' },
+];
+
 const BASE_URL = 'https://metalforge.io';
 
 function generateSlug(name) {
@@ -157,6 +171,9 @@ export default function handler(req, res) {
     { loc: '/techniques', priority: '0.9', changefreq: 'weekly' },
     // Issue #660: Gear News page with RSS
     { loc: '/gear-news', priority: '0.9', changefreq: 'daily' },
+    // Issue #685: "How to Sound Like" guides hub
+    { loc: '/guides', priority: '0.9', changefreq: 'weekly' },
+    ...soundLikeGuides.map(g => ({ loc: `/guides/${g.slug}`, priority: '0.9', changefreq: 'monthly' })),
     ...gearCategories.map(c => ({ loc: `/gear/${c.slug}`, priority: '0.9', changefreq: 'weekly' })),
     ...top10Lists.map(l => ({ loc: `/lists/${l.slug}`, priority: '0.8', changefreq: 'monthly' })),
     // Issue #642: Article pages for SEO-optimized content

@@ -41,14 +41,16 @@ const trackQuizShare = (drummer, platform, matchPercentage = null) => {
   }
 };
 
-// Generate share URL with referral tracking
-const getShareUrl = (drummer = null) => {
+// Generate share URL with UTM tracking parameters (Issue #684)
+// UTM params: utm_source=[platform], utm_medium=social, utm_campaign=quiz_share
+const getShareUrl = (drummer = null, platform = 'share') => {
   const baseUrl = 'https://metalforge.io/quiz';
+  const utmParams = `utm_source=${platform}&utm_medium=social&utm_campaign=quiz_share`;
   if (drummer) {
     const drummerSlug = drummer.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
-    return `${baseUrl}?ref=share&drummer=${drummerSlug}`;
+    return `${baseUrl}?drummer=${drummerSlug}&${utmParams}`;
   }
-  return baseUrl;
+  return `${baseUrl}?${utmParams}`;
 };
 
 // Generate pre-filled share text with optional match percentage
@@ -118,9 +120,10 @@ const updateShareMeta = (drummer, matchPercentage = null) => {
 };
 
 // Share handlers for each platform
+// Each handler passes platform to getShareUrl for UTM tracking (Issue #684)
 const shareHandlers = {
   twitter: async (drummer, matchPercentage = null) => {
-    const shareUrl = getShareUrl(drummer);
+    const shareUrl = getShareUrl(drummer, 'twitter');
     const shareText = getShareText(drummer, matchPercentage);
     const url = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(shareUrl)}&hashtags=MetalDrummer,MetalDrumGear`;
     
@@ -132,7 +135,7 @@ const shareHandlers = {
   },
   
   facebook: async (drummer, matchPercentage = null) => {
-    const shareUrl = getShareUrl(drummer);
+    const shareUrl = getShareUrl(drummer, 'facebook');
     const shareText = getShareText(drummer, matchPercentage);
     const url = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(shareUrl)}&quote=${encodeURIComponent(shareText)}`;
     
@@ -144,7 +147,7 @@ const shareHandlers = {
   },
   
   whatsapp: async (drummer, matchPercentage = null) => {
-    const shareUrl = getShareUrl(drummer);
+    const shareUrl = getShareUrl(drummer, 'whatsapp');
     const shareText = getShareText(drummer, matchPercentage);
     const url = `https://wa.me/?text=${encodeURIComponent(`${shareText} ${shareUrl}`)}`;
     
@@ -156,7 +159,7 @@ const shareHandlers = {
   },
   
   copy: async (drummer, setCopied, matchPercentage = null) => {
-    const shareUrl = getShareUrl(drummer);
+    const shareUrl = getShareUrl(drummer, 'copy');
     const shareText = getShareText(drummer, matchPercentage);
     const fullText = `${shareText} ${shareUrl}`;
     
@@ -175,7 +178,7 @@ const shareHandlers = {
   },
   
   native: async (drummer, matchPercentage = null) => {
-    const shareUrl = getShareUrl(drummer);
+    const shareUrl = getShareUrl(drummer, 'native');
     const shareText = getShareText(drummer, matchPercentage);
     
     trackQuizShare(drummer, 'native', matchPercentage);

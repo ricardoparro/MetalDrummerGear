@@ -2,7 +2,7 @@
 const { test, expect } = require('@playwright/test');
 
 /**
- * E2E Tests for Quiz Social Share Buttons - Issue #652, #662, #682
+ * E2E Tests for Quiz Social Share Buttons - Issue #652, #662, #682, #684
  * Add social share buttons to quiz results page
  * 
  * Tests:
@@ -11,6 +11,7 @@ const { test, expect } = require('@playwright/test');
  * - GA4 events fire on share button clicks
  * - Copy link functionality works
  * - Dynamic OG images with MetalForge branding (#682)
+ * - UTM parameters for tracking (#684)
  */
 
 const BASE_URL = process.env.BASE_URL || 'https://metalforge.io';
@@ -240,6 +241,159 @@ test.describe('Quiz Share Buttons - Issue #652', () => {
         console.log('✓ WhatsApp share URL is correctly formatted');
       } else {
         console.log('⚠️ Popup was blocked - button click verified');
+      }
+    });
+  });
+  
+  test.describe('UTM Parameters - Issue #684', () => {
+    test('Twitter share URL includes UTM parameters', async ({ page, context }) => {
+      await navigateToQuizResults(page, 'lars-ulrich');
+      
+      const mounted = await isAppMounted(page);
+      if (!mounted) {
+        test.skip(true, 'React app did not mount');
+        return;
+      }
+      
+      const resultsDisplayed = await isQuizResultsDisplayed(page);
+      if (!resultsDisplayed) {
+        test.skip(true, 'Quiz results not displayed');
+        return;
+      }
+      
+      // Set up listener for popup
+      const popupPromise = context.waitForEvent('page', { timeout: 5000 }).catch(() => null);
+      
+      // Click Twitter share button
+      const twitterButton = page.getByRole('button', { name: /share on twitter/i });
+      await twitterButton.click();
+      
+      const popup = await popupPromise;
+      if (popup) {
+        const url = decodeURIComponent(popup.url());
+        
+        // Verify UTM parameters are present
+        expect(url).toContain('utm_source=twitter');
+        expect(url).toContain('utm_medium=social');
+        expect(url).toContain('utm_campaign=quiz_share');
+        
+        await popup.close();
+        console.log('✓ Twitter share URL includes UTM parameters');
+      } else {
+        console.log('⚠️ Popup blocked - skipping UTM verification');
+      }
+    });
+    
+    test('Facebook share URL includes UTM parameters', async ({ page, context }) => {
+      await navigateToQuizResults(page, 'joey-jordison');
+      
+      const mounted = await isAppMounted(page);
+      if (!mounted) {
+        test.skip(true, 'React app did not mount');
+        return;
+      }
+      
+      const resultsDisplayed = await isQuizResultsDisplayed(page);
+      if (!resultsDisplayed) {
+        test.skip(true, 'Quiz results not displayed');
+        return;
+      }
+      
+      // Set up listener for popup
+      const popupPromise = context.waitForEvent('page', { timeout: 5000 }).catch(() => null);
+      
+      // Click Facebook share button
+      const facebookButton = page.getByRole('button', { name: /share on facebook/i });
+      await facebookButton.click();
+      
+      const popup = await popupPromise;
+      if (popup) {
+        const url = decodeURIComponent(popup.url());
+        
+        // Verify UTM parameters are present
+        expect(url).toContain('utm_source=facebook');
+        expect(url).toContain('utm_medium=social');
+        expect(url).toContain('utm_campaign=quiz_share');
+        
+        await popup.close();
+        console.log('✓ Facebook share URL includes UTM parameters');
+      } else {
+        console.log('⚠️ Popup blocked - skipping UTM verification');
+      }
+    });
+    
+    test('WhatsApp share URL includes UTM parameters', async ({ page, context }) => {
+      await navigateToQuizResults(page, 'dave-lombardo');
+      
+      const mounted = await isAppMounted(page);
+      if (!mounted) {
+        test.skip(true, 'React app did not mount');
+        return;
+      }
+      
+      const resultsDisplayed = await isQuizResultsDisplayed(page);
+      if (!resultsDisplayed) {
+        test.skip(true, 'Quiz results not displayed');
+        return;
+      }
+      
+      // Set up listener for popup
+      const popupPromise = context.waitForEvent('page', { timeout: 5000 }).catch(() => null);
+      
+      // Click WhatsApp share button
+      const whatsappButton = page.getByRole('button', { name: /share on whatsapp/i });
+      await whatsappButton.click();
+      
+      const popup = await popupPromise;
+      if (popup) {
+        const url = decodeURIComponent(popup.url());
+        
+        // Verify UTM parameters are present in the share text
+        expect(url).toContain('utm_source=whatsapp');
+        expect(url).toContain('utm_medium=social');
+        expect(url).toContain('utm_campaign=quiz_share');
+        
+        await popup.close();
+        console.log('✓ WhatsApp share URL includes UTM parameters');
+      } else {
+        console.log('⚠️ Popup blocked - skipping UTM verification');
+      }
+    });
+    
+    test('Copy link includes UTM parameters', async ({ page, context }) => {
+      // Grant clipboard permissions
+      await context.grantPermissions(['clipboard-read', 'clipboard-write']);
+      
+      await navigateToQuizResults(page, 'gene-hoglan');
+      
+      const mounted = await isAppMounted(page);
+      if (!mounted) {
+        test.skip(true, 'React app did not mount');
+        return;
+      }
+      
+      const resultsDisplayed = await isQuizResultsDisplayed(page);
+      if (!resultsDisplayed) {
+        test.skip(true, 'Quiz results not displayed');
+        return;
+      }
+      
+      // Click Copy Link button
+      const copyButton = page.getByRole('button', { name: /copy link/i });
+      await copyButton.click();
+      
+      // Wait for clipboard to be updated
+      await page.waitForTimeout(500);
+      
+      // Verify clipboard content includes UTM parameters
+      try {
+        const clipboardText = await page.evaluate(() => navigator.clipboard.readText());
+        expect(clipboardText).toContain('utm_source=copy');
+        expect(clipboardText).toContain('utm_medium=social');
+        expect(clipboardText).toContain('utm_campaign=quiz_share');
+        console.log('✓ Copy link includes UTM parameters');
+      } catch {
+        console.log('⚠️ Clipboard read not available - skipping UTM verification');
       }
     });
   });

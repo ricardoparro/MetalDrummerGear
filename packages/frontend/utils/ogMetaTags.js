@@ -370,7 +370,21 @@ export function updateGearNewsMeta() {
 }
 
 /**
+ * Generate dynamic OG image URL for quiz results
+ * Issue #682: Branded social share images
+ * @param {Object} drummer - Drummer object with name
+ * @param {number} matchPercentage - Match percentage
+ * @returns {string} Dynamic OG image URL
+ */
+function getQuizOgImageUrl(drummer, matchPercentage) {
+  const drummerSlug = drummer.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+  const match = matchPercentage || 85;
+  return `${BASE_URL}/api/og/quiz?drummer=${drummerSlug}&match=${match}`;
+}
+
+/**
  * Update OG meta for quiz page
+ * Issue #682: Dynamic OG images with MetalForge branding
  * @param {Object|null} drummer - Matched drummer for result pages
  * @param {number} matchPercentage - Match percentage for result pages
  */
@@ -380,11 +394,12 @@ export function updateQuizPageMeta(drummer = null, matchPercentage = 0) {
     const title = `I Drum Like ${drummer.name}! | Which Metal Drummer Are You? | Quiz`;
     const description = `I matched with ${drummer.name} (${drummer.band}) - ${matchPercentage}% match! Take the Metal Drummer Quiz to find out which legendary drummer's setup and style matches yours!`;
     
+    // Issue #682: Use dynamic OG image with MetalForge branding
     updateOgMeta({
       title,
       description,
       url: `/quiz?result=${drummerSlug}`,
-      image: drummer.image || 'https://metalforge.io/og-quiz.png',
+      image: getQuizOgImageUrl(drummer, matchPercentage),
     });
     return;
   }

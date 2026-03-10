@@ -2,6 +2,7 @@
  * QuizShareButtons - Social share buttons for quiz results
  * Issue #678: Add viral social sharing to drive growth
  * Issue #680: Enhancements - Native Share API, match %, OG meta updates
+ * Issue #682: Dynamic OG images with MetalForge branding for social previews
  * 
  * Features:
  * - Twitter/X, Facebook, WhatsApp, Copy Link, Native Share buttons
@@ -9,6 +10,7 @@
  * - GA4 event tracking (event: quiz_share, params: drummer, platform)
  * - Mobile responsive design with Native Share API
  * - Updates OG meta tags for rich social previews
+ * - Dynamic OG images with drummer photo and MetalForge branding (#682)
  * - Matches MetalForge brand colors
  */
 
@@ -62,6 +64,13 @@ const isNativeShareSupported = () => {
          typeof navigator.share === 'function';
 };
 
+// Generate dynamic OG image URL with MetalForge branding (#682)
+const getDynamicOgImageUrl = (drummer, matchPercentage = null) => {
+  const drummerSlug = drummer.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+  const match = matchPercentage || 85;
+  return `https://metalforge.io/api/og/quiz?drummer=${drummerSlug}&match=${match}`;
+};
+
 // Update OG meta tags for social preview
 const updateShareMeta = (drummer, matchPercentage = null) => {
   if (Platform.OS !== 'web' || typeof document === 'undefined') return;
@@ -82,7 +91,9 @@ const updateShareMeta = (drummer, matchPercentage = null) => {
   const title = `I Drum Like ${drummer.name}!${matchText} | MetalForge Quiz`;
   const description = `I got ${drummer.name} (${drummer.band})! Take the Metal Drummer Quiz to find out which legendary drummer's setup and style matches yours! 🤘`;
   const shareUrl = `https://metalforge.io/quiz?result=${drummerSlug}`;
-  const image = drummer.image || 'https://metalforge.io/og-quiz.png';
+  
+  // Issue #682: Use dynamic OG image with MetalForge branding
+  const image = getDynamicOgImageUrl(drummer, matchPercentage);
   
   document.title = title;
   setMeta('description', description);
@@ -91,6 +102,8 @@ const updateShareMeta = (drummer, matchPercentage = null) => {
   setMeta('og:type', 'website', true);
   setMeta('og:url', shareUrl, true);
   setMeta('og:image', image, true);
+  setMeta('og:image:width', '1200', true);
+  setMeta('og:image:height', '630', true);
   setMeta('og:site_name', 'MetalForge', true);
   setMeta('twitter:card', 'summary_large_image');
   setMeta('twitter:site', '@MetalDrumGear');
@@ -404,6 +417,14 @@ const styles = StyleSheet.create({
 });
 
 // Also export individual share functions for flexibility
-export { trackQuizShare, getShareUrl, getShareText, shareHandlers, updateShareMeta, isNativeShareSupported };
+export { 
+  trackQuizShare, 
+  getShareUrl, 
+  getShareText, 
+  shareHandlers, 
+  updateShareMeta, 
+  isNativeShareSupported,
+  getDynamicOgImageUrl,  // Issue #682: Export for use in ogMetaTags.js
+};
 
 export default QuizShareButtons;

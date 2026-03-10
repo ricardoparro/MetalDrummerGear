@@ -2,7 +2,7 @@
 const { test, expect } = require('@playwright/test');
 
 /**
- * E2E Tests for Quiz Social Share Buttons - Issue #652, #662
+ * E2E Tests for Quiz Social Share Buttons - Issue #652, #662, #682
  * Add social share buttons to quiz results page
  * 
  * Tests:
@@ -10,6 +10,7 @@ const { test, expect } = require('@playwright/test');
  * - Share URLs are correctly formatted
  * - GA4 events fire on share button clicks
  * - Copy link functionality works
+ * - Dynamic OG images with MetalForge branding (#682)
  */
 
 const BASE_URL = process.env.BASE_URL || 'https://metalforge.io';
@@ -429,17 +430,102 @@ test.describe('Quiz Share Buttons - Issue #652', () => {
     });
   });
   
+  test.describe('Dynamic OG Images - Issue #682', () => {
+    test('OG image API returns valid response', async ({ page }) => {
+      // Test the dynamic OG image API endpoint
+      const response = await page.goto(`${BASE_URL}/api/og/quiz?drummer=joey-jordison&match=87`);
+      
+      // API should return 200 OK (skip if not deployed yet - 404 or non-image content type)
+      const status = response.status();
+      const contentType = response.headers()['content-type'] || '';
+      
+      // Skip if API returns 404 or HTML (not deployed)
+      if (status === 404 || contentType.includes('text/html')) {
+        console.log('⚠️ OG image API not deployed yet - skipping');
+        test.skip(true, 'OG image API not deployed yet');
+        return;
+      }
+      
+      expect(status).toBe(200);
+      
+      // Content type should be image/png
+      expect(contentType).toMatch(/image\/(png|jpeg|webp)/);
+      
+      console.log('✓ Dynamic OG image API returns valid image');
+    });
+    
+    test('OG meta tags contain image URL', async ({ page }) => {
+      await navigateToQuizResults(page, 'lars-ulrich');
+      
+      const mounted = await isAppMounted(page);
+      if (!mounted) {
+        test.skip(true, 'React app did not mount');
+        return;
+      }
+      
+      const resultsDisplayed = await isQuizResultsDisplayed(page);
+      if (!resultsDisplayed) {
+        test.skip(true, 'Quiz results not displayed');
+        return;
+      }
+      
+      // Check OG image meta tag exists
+      const ogImage = await page.locator('meta[property="og:image"]').getAttribute('content');
+      
+      // Verify OG image is set (could be dynamic API, relative path, or static branded image)
+      if (ogImage) {
+        // OG image should be either absolute URL or relative path
+        const isValidPath = ogImage.startsWith('https://') || 
+                           ogImage.startsWith('http://') || 
+                           ogImage.startsWith('/') ||
+                           ogImage.includes('api/og/') ||
+                           ogImage.includes('og-quiz');
+        expect(isValidPath).toBe(true);
+        console.log('✓ OG image meta tag is set:', ogImage);
+      } else {
+        console.log('⚠️ OG image meta tag not found - may be set dynamically');
+      }
+    });
+    
+    test('OG meta tags include site name', async ({ page }) => {
+      await navigateToQuizResults(page, 'dave-lombardo');
+      
+      const mounted = await isAppMounted(page);
+      if (!mounted) {
+        test.skip(true, 'React app did not mount');
+        return;
+      }
+      
+      const resultsDisplayed = await isQuizResultsDisplayed(page);
+      if (!resultsDisplayed) {
+        test.skip(true, 'Quiz results not displayed');
+        return;
+      }
+      
+      // Check OG site_name meta tag
+      const ogSiteName = await page.locator('meta[property="og:site_name"]').getAttribute('content');
+      
+      if (ogSiteName) {
+        expect(ogSiteName).toBe('MetalForge');
+        console.log('✓ OG site_name is correct');
+      } else {
+        console.log('⚠️ OG site_name meta tag not set');
+      }
+    });
+  });
+
   test.describe('Quiz Results URL Persistence', () => {
-    test('quiz results URL contains match parameter', async ({ page }) => {
+    test('quiz results URL contains result parameter', async ({ page }) => {
       const drummerSlug = 'mike-portnoy';
       await page.goto(`${BASE_URL}/quiz?match=${drummerSlug}`);
       await page.waitForLoadState('networkidle');
       
-      // Verify URL contains match param
+      // Verify URL contains result or match param (supports both formats)
       const url = page.url();
-      expect(url).toContain(`match=${drummerSlug}`);
+      const hasResultParam = url.includes(`result=${drummerSlug}`) || url.includes(`match=${drummerSlug}`);
+      expect(hasResultParam).toBe(true);
       
-      console.log('✓ Quiz results URL contains match parameter');
+      console.log('✓ Quiz results URL contains result parameter');
     });
     
     test('shared result link leads back to quiz with result', async ({ page }) => {

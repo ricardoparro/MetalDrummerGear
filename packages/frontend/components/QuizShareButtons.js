@@ -3,11 +3,13 @@
  * Issue #678: Add viral social sharing to drive growth
  * Issue #680: Enhancements - Native Share API, match %, OG meta updates
  * Issue #682: Dynamic OG images with MetalForge branding for social previews
+ * Issue #684: UTM tracking parameters for referral analytics
  * 
  * Features:
  * - Twitter/X, Facebook, WhatsApp, Copy Link, Native Share buttons
  * - Pre-filled share text: "I got [Drummer Name]! 🤘 Which legendary metal drummer matches your style? Take the quiz: [URL]"
  * - GA4 event tracking (event: quiz_share, params: drummer, platform)
+ * - UTM params for analytics: utm_source=[platform], utm_medium=social, utm_campaign=quiz_share
  * - Mobile responsive design with Native Share API
  * - Updates OG meta tags for rich social previews
  * - Dynamic OG images with drummer photo and MetalForge branding (#682)
@@ -41,14 +43,21 @@ const trackQuizShare = (drummer, platform, matchPercentage = null) => {
   }
 };
 
-// Generate share URL with referral tracking
-const getShareUrl = (drummer = null) => {
+// Generate share URL with UTM tracking parameters (Issue #684)
+// Format: ?utm_source=[platform]&utm_medium=social&utm_campaign=quiz_share
+const getShareUrl = (drummer = null, platform = 'direct') => {
   const baseUrl = 'https://metalforge.io/quiz';
+  const utmParams = new URLSearchParams({
+    utm_source: platform,
+    utm_medium: 'social',
+    utm_campaign: 'quiz_share',
+  });
+  
   if (drummer) {
     const drummerSlug = drummer.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
-    return `${baseUrl}?ref=share&drummer=${drummerSlug}`;
+    utmParams.set('drummer', drummerSlug);
   }
-  return baseUrl;
+  return `${baseUrl}?${utmParams.toString()}`;
 };
 
 // Generate pre-filled share text with optional match percentage
@@ -117,10 +126,10 @@ const updateShareMeta = (drummer, matchPercentage = null) => {
   }
 };
 
-// Share handlers for each platform
+// Share handlers for each platform (Issue #684: UTM params for tracking)
 const shareHandlers = {
   twitter: async (drummer, matchPercentage = null) => {
-    const shareUrl = getShareUrl(drummer);
+    const shareUrl = getShareUrl(drummer, 'twitter');
     const shareText = getShareText(drummer, matchPercentage);
     const url = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(shareUrl)}&hashtags=MetalDrummer,MetalDrumGear`;
     
@@ -132,7 +141,7 @@ const shareHandlers = {
   },
   
   facebook: async (drummer, matchPercentage = null) => {
-    const shareUrl = getShareUrl(drummer);
+    const shareUrl = getShareUrl(drummer, 'facebook');
     const shareText = getShareText(drummer, matchPercentage);
     const url = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(shareUrl)}&quote=${encodeURIComponent(shareText)}`;
     
@@ -144,7 +153,7 @@ const shareHandlers = {
   },
   
   whatsapp: async (drummer, matchPercentage = null) => {
-    const shareUrl = getShareUrl(drummer);
+    const shareUrl = getShareUrl(drummer, 'whatsapp');
     const shareText = getShareText(drummer, matchPercentage);
     const url = `https://wa.me/?text=${encodeURIComponent(`${shareText} ${shareUrl}`)}`;
     
@@ -156,7 +165,7 @@ const shareHandlers = {
   },
   
   copy: async (drummer, setCopied, matchPercentage = null) => {
-    const shareUrl = getShareUrl(drummer);
+    const shareUrl = getShareUrl(drummer, 'copy_link');
     const shareText = getShareText(drummer, matchPercentage);
     const fullText = `${shareText} ${shareUrl}`;
     
@@ -175,7 +184,7 @@ const shareHandlers = {
   },
   
   native: async (drummer, matchPercentage = null) => {
-    const shareUrl = getShareUrl(drummer);
+    const shareUrl = getShareUrl(drummer, 'native_share');
     const shareText = getShareText(drummer, matchPercentage);
     
     trackQuizShare(drummer, 'native', matchPercentage);

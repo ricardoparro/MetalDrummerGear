@@ -190,9 +190,9 @@ export default function handler(req, res) {
     // Issue #345: Gear comparison pages
     { loc: '/compare', priority: '0.9', changefreq: 'weekly' },
     ...gearComparisons.map(c => ({ loc: `/compare/${c.slug}`, priority: '0.8', changefreq: 'monthly' })),
-    // Issue #558: Drummer vs Drummer comparison pages
+    // Issue #558, #691: Drummer vs Drummer comparison pages (SEO play)
     { loc: '/vs', priority: '0.9', changefreq: 'weekly' },
-    ...drummerComparisons.map(c => ({ loc: `/vs/${c.slug}`, priority: '0.8', changefreq: 'monthly' })),
+    ...drummerComparisons.map(c => ({ loc: `/vs/${c.slug}`, priority: '0.7', changefreq: 'monthly' })),
   ];
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">

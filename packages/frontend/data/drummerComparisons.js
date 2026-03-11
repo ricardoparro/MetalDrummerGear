@@ -261,6 +261,159 @@ export const drummerComparisons = {
     },
     verdict: 'Gene Hoglan earned "The Atomic Clock" nickname through legendary precision across 40+ years. George Kollias represents the modern evolution of extreme drumming speed and technique. Together they span death metal\'s entire history.',
   },
+
+  // Issue #691: Top 20 SEO Comparison Pages - Slipknot Succession
+  'joey-jordison-vs-jay-weinberg': {
+    slug: 'joey-jordison-vs-jay-weinberg',
+    title: 'Joey Jordison vs Jay Weinberg',
+    metaTitle: 'Joey Jordison vs Jay Weinberg: Complete Gear Comparison 2026 | MetalForge',
+    metaDescription: 'Compare Slipknot\'s legendary drummers. Joey Jordison vs Jay Weinberg - gear, technique, and style analyzed. The Slipknot succession showdown.',
+    category: 'other',
+    drummers: ['joey-jordison', 'jay-weinberg'],
+    comparison: {
+      style: 'Joey defined Slipknot\'s chaotic, extreme drumming style with blast beats and theatrical intensity. Jay brought a more groove-oriented approach while honoring Joey\'s legacy.',
+      technique: 'Joey pioneered the rotating drum platform and extreme speed in nu-metal. Jay delivers powerful, precise playing with massive groove and dynamic control.',
+      gear: 'Joey played Pearl drums with Paiste cymbals. Jay uses Pearl Masters with Zildjian A Custom cymbals for aggressive attack.',
+      influence: 'Joey created the template for Slipknot drumming that defined a generation. Jay has carved his own legacy while respecting the foundation Joey built.',
+    },
+    verdict: 'The Slipknot succession represents two eras of metal drumming excellence. Joey Jordison was the irreplaceable original; Jay Weinberg proved worthy of carrying the torch. Both embody what it means to be a Slipknot drummer.',
+  },
+
+  // Issue #691: Top 20 SEO Comparison Pages - Thrash Titans
+  'dave-lombardo-vs-gene-hoglan': {
+    slug: 'dave-lombardo-vs-gene-hoglan',
+    title: 'Dave Lombardo vs Gene Hoglan',
+    metaTitle: 'Dave Lombardo vs Gene Hoglan: Complete Gear Comparison 2026 | MetalForge',
+    metaDescription: 'Slayer\'s Dave Lombardo vs Gene "The Atomic Clock" Hoglan. Two titans of extreme metal drumming compared. Gear, speed, and technique analyzed.',
+    category: 'extreme',
+    drummers: ['dave-lombardo', 'gene-hoglan'],
+    comparison: {
+      style: 'Dave pioneered thrash metal drumming with relentless aggression and speed. Gene brought scientific precision to death metal with inhuman timing.',
+      technique: 'Dave revolutionized double bass speed and blast beats in thrash. Gene invented the gravity blast and is known for impossibly tight timing.',
+      gear: 'Dave plays Pearl drums with Paiste RUDE cymbals for aggressive cut. Gene endorses Pearl for power and projection with signature sticks.',
+      influence: 'Dave defined the Slayer sound that influenced all of extreme metal. Gene has been the backbone of Death, Testament, and countless legendary bands.',
+    },
+    verdict: 'Two drummers who defined extreme metal drumming. Dave Lombardo is thrash metal royalty. Gene Hoglan is "The Atomic Clock." Together they represent the pinnacle of speed and precision.',
+  },
+
+  // Issue #691: Top 20 SEO Comparison Pages - Tech Drummers
+  'tomas-haake-vs-matt-halpern': {
+    slug: 'tomas-haake-vs-matt-halpern',
+    title: 'Tomas Haake vs Matt Halpern',
+    metaTitle: 'Tomas Haake vs Matt Halpern: Complete Gear Comparison 2026 | MetalForge',
+    metaDescription: 'Meshuggah\'s Tomas Haake vs Periphery\'s Matt Halpern. Two masters of polyrhythmic metal compared. Djent drumming analyzed.',
+    category: 'progressive',
+    drummers: ['tomas-haake', 'matt-halpern'],
+    comparison: {
+      style: 'Tomas invented the djent drumming template with Meshuggah\'s polyrhythmic complexity. Matt refined and evolved the style for modern progressive metal.',
+      technique: 'Tomas employs machine-like precision with robotic feel and complex time signatures. Matt combines groove-focused polyrhythms with exceptional ghost notes.',
+      gear: 'Tomas plays Sonor drums with Sabian cymbals for focused attack. Matt uses Pearl drums with Meinl cymbals for dark, complex tones.',
+      influence: 'Tomas pioneered the djent movement and influenced an entire generation. Matt shaped the modern djent sound and built the YouTube drum community.',
+    },
+    verdict: 'The architect vs the innovator. Tomas Haake created the djent blueprint; Matt Halpern evolved it for a new generation. Both are essential to understanding modern progressive metal drumming.',
+  },
+
+  // Issue #691: Top 20 SEO Comparison Pages - Thrash vs Nu-Metal
+  'chris-adler-vs-joey-jordison': {
+    slug: 'chris-adler-vs-joey-jordison',
+    title: 'Chris Adler vs Joey Jordison',
+    metaTitle: 'Chris Adler vs Joey Jordison: Complete Gear Comparison 2026 | MetalForge',
+    metaDescription: 'Lamb of God\'s Chris Adler vs Slipknot\'s Joey Jordison. Groove metal vs nu-metal intensity compared. Two defining drummers of 2000s metal.',
+    category: 'thrash',
+    drummers: ['chris-adler', 'joey-jordison'],
+    comparison: {
+      style: 'Chris defined modern groove metal with Lamb of God\'s aggressive yet technical approach. Joey brought extreme metal intensity to mainstream nu-metal with Slipknot.',
+      technique: 'Chris mastered precision groove drumming with signature triplet patterns. Joey combined death metal speed with theatrical showmanship.',
+      gear: 'Chris played DW drums with Meinl cymbals for dark attack. Joey endorsed Pearl drums with Paiste cymbals for aggressive tone.',
+      influence: 'Chris shaped the new wave of American heavy metal drumming. Joey proved extreme techniques could work in mainstream metal.',
+    },
+    verdict: 'Two drummers who defined 2000s heavy metal. Chris Adler brought technical precision to groove metal. Joey Jordison brought extreme metal to the masses. Both changed what was possible.',
+  },
+
+  // Issue #691: Top 20 SEO Comparison Pages - Classic Metal Icons
+  'nicko-mcbrain-vs-lars-ulrich': {
+    slug: 'nicko-mcbrain-vs-lars-ulrich',
+    title: 'Nicko McBrain vs Lars Ulrich',
+    metaTitle: 'Nicko McBrain vs Lars Ulrich: Complete Gear Comparison 2026 | MetalForge',
+    metaDescription: 'Iron Maiden\'s Nicko McBrain vs Metallica\'s Lars Ulrich. Two icons of classic heavy metal drumming compared. Gear, technique, and legacy analyzed.',
+    category: 'thrash',
+    drummers: ['nicko-mcbrain', 'lars-ulrich'],
+    comparison: {
+      style: 'Nicko brings galloping rhythms and technical precision to Iron Maiden\'s progressive metal. Lars defined accessible thrash with groove-oriented power.',
+      technique: 'Nicko is known for complex patterns, signature gallops, and single-bass mastery. Lars favors powerful, punchy patterns with iconic ride patterns.',
+      gear: 'Nicko plays Sonor drums with Paiste cymbals for bright, cutting tone. Lars uses Tama Starclassic with Zildjian cymbals.',
+      influence: 'Nicko shaped British heavy metal drumming through four decades with Maiden. Lars shaped how millions perceive metal drumming through Metallica.',
+    },
+    verdict: 'Two pillars of classic heavy metal. Nicko McBrain is the technical master of Iron Maiden\'s galloping sound. Lars Ulrich is the heartbeat of the biggest metal band ever. Both are irreplaceable legends.',
+  },
+
+  // Issue #691: Top 20 SEO Comparison Pages - British Metal
+  'scott-travis-vs-nicko-mcbrain': {
+    slug: 'scott-travis-vs-nicko-mcbrain',
+    title: 'Scott Travis vs Nicko McBrain',
+    metaTitle: 'Scott Travis vs Nicko McBrain: Complete Gear Comparison 2026 | MetalForge',
+    metaDescription: 'Judas Priest\'s Scott Travis vs Iron Maiden\'s Nicko McBrain. British heavy metal\'s finest drummers compared. Technique and gear analyzed.',
+    category: 'thrash',
+    drummers: ['scott-travis', 'nicko-mcbrain'],
+    comparison: {
+      style: 'Scott brought modern double bass power to Judas Priest\'s classic sound. Nicko delivers complex patterns and signature gallops for Iron Maiden.',
+      technique: 'Scott excels at powerful double bass and precision timing. Nicko masters intricate patterns with single-bass footwork and dynamic control.',
+      gear: 'Scott plays Pearl drums with Paiste cymbals for aggressive attack. Nicko uses Sonor drums with Paiste for bright, cutting tone.',
+      influence: 'Scott modernized Judas Priest\'s sound while respecting their legacy. Nicko defined Iron Maiden\'s drumming for over 40 years.',
+    },
+    verdict: 'The rivalry of British metal. Scott Travis brought Priest into the modern era. Nicko McBrain is Iron Maiden\'s irreplaceable heartbeat. Both represent the best of NWOBHM evolution.',
+  },
+
+  // Issue #691: Top 20 SEO Comparison Pages - Extreme Metal Icons
+  'joey-jordison-vs-dave-lombardo': {
+    slug: 'joey-jordison-vs-dave-lombardo',
+    title: 'Joey Jordison vs Dave Lombardo',
+    metaTitle: 'Joey Jordison vs Dave Lombardo: Complete Gear Comparison 2026 | MetalForge',
+    metaDescription: 'Slipknot\'s Joey Jordison vs Slayer\'s Dave Lombardo. Nu-metal intensity vs thrash metal pioneering compared. Two extreme drumming icons.',
+    category: 'extreme',
+    drummers: ['joey-jordison', 'dave-lombardo'],
+    comparison: {
+      style: 'Joey brought extreme metal intensity to mainstream nu-metal with blast beats and speed. Dave pioneered thrash metal drumming with relentless aggression.',
+      technique: 'Joey combined death metal speed with theatrical showmanship on a rotating kit. Dave revolutionized double bass and blast beats in thrash.',
+      gear: 'Joey played Pearl drums with Paiste cymbals. Dave uses Pearl drums with Paiste RUDE cymbals for aggressive cut.',
+      influence: 'Joey proved extreme techniques could work in mainstream metal. Dave defined the Slayer sound that influenced all of extreme metal.',
+    },
+    verdict: 'Two generations of extreme metal. Dave Lombardo invented thrash drumming; Joey Jordison brought it to a new audience. Both pushed the limits of speed and intensity.',
+  },
+
+  // Issue #691: Top 20 SEO Comparison Pages - Progressive Metal
+  'danny-carey-vs-brann-dailor': {
+    slug: 'danny-carey-vs-brann-dailor',
+    title: 'Danny Carey vs Brann Dailor',
+    metaTitle: 'Danny Carey vs Brann Dailor: Complete Gear Comparison 2026 | MetalForge',
+    metaDescription: 'Tool\'s Danny Carey vs Mastodon\'s Brann Dailor. Two progressive metal drumming visionaries compared. Polyrhythms, technique, and artistry analyzed.',
+    category: 'progressive',
+    drummers: ['danny-carey', 'brann-dailor'],
+    comparison: {
+      style: 'Danny creates hypnotic, spiritual progressive rock with occult undertones. Brann brings jazzy, proggy fills to sludge metal with constant motion.',
+      technique: 'Danny masters polyrhythmic patterns with electronic integration and Fibonacci-based compositions. Brann uses constant flowing fills with signature tom work.',
+      gear: 'Danny plays Sonor drums with Paiste cymbals and custom Mandala pads. Brann uses DW drums with Sabian cymbals.',
+      influence: 'Danny defined Tool\'s unique sound and influenced a generation of prog drummers. Brann helped define the progressive sludge sound.',
+    },
+    verdict: 'Two artists who transcend drumming. Danny Carey is the philosopher-mathematician behind the kit. Brann Dailor is perpetual motion incarnate. Both have created unique voices in progressive metal.',
+  },
+
+  // Issue #691: Top 20 SEO Comparison Pages - Speed vs Artistry
+  'joey-jordison-vs-mike-portnoy': {
+    slug: 'joey-jordison-vs-mike-portnoy',
+    title: 'Joey Jordison vs Mike Portnoy',
+    metaTitle: 'Joey Jordison vs Mike Portnoy: Complete Gear Comparison 2026 | MetalForge',
+    metaDescription: 'Slipknot\'s Joey Jordison vs Dream Theater\'s Mike Portnoy. Extreme metal speed vs progressive metal artistry. Two iconic drummers compared.',
+    category: 'progressive',
+    drummers: ['joey-jordison', 'mike-portnoy'],
+    comparison: {
+      style: 'Joey brought extreme metal intensity to mainstream nu-metal with raw aggression. Mike delivers theatrical prog metal with complex arrangements.',
+      technique: 'Joey excels at blast beats, extreme speed, and theatrical showmanship. Mike masters rapid-fire transitions, theatrical fills, and complex time signatures.',
+      gear: 'Joey played Pearl drums with Paiste cymbals. Mike uses Tama drums with Sabian cymbals for his iconic sound.',
+      influence: 'Joey proved extreme techniques could work in mainstream metal. Mike shaped 90s progressive metal through Dream Theater.',
+    },
+    verdict: 'Two different paths to drumming greatness. Joey Jordison brought extreme metal to the masses. Mike Portnoy elevated progressive metal to new heights. Both are essential to understanding modern metal drumming.',
+  },
 };
 
 /**
@@ -374,11 +527,14 @@ export function generateDynamicComparison(drummer1, drummer2) {
     return `Both ${drummer1.name} and ${drummer2.name} are exceptional drummers who have left their mark on metal music. Each brings unique qualities - compare their gear, technique, and style above to decide who matches your preferences!`;
   };
   
+  // Issue #691: Include year in title for SEO
+  const currentYear = new Date().getFullYear();
+  
   return {
     slug: comparisonSlug,
     title: `${drummer1.name} vs ${drummer2.name}`,
-    metaTitle: `${drummer1.name} vs ${drummer2.name} - Metal Drummers Compared | MetalForge`,
-    metaDescription: `Compare ${drummer1.name} (${drummer1.band}) and ${drummer2.name} (${drummer2.band}). Gear, technique, and style side-by-side. Vote for your favorite!`,
+    metaTitle: `${drummer1.name} vs ${drummer2.name}: Complete Gear Comparison ${currentYear} | MetalForge`,
+    metaDescription: `Compare ${drummer1.name} (${drummer1.band}) and ${drummer2.name} (${drummer2.band}). Drums, cymbals, hardware side-by-side. Vote for your favorite!`,
     category,
     drummers: [slug1, slug2],
     isGenerated: true, // Flag to indicate this is dynamically generated

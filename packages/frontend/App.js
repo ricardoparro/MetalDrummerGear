@@ -11773,10 +11773,10 @@ function DrummerVsPage({ comparisonSlug, theme, onBack, onSelectDrummer, drummer
           <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Comparisons</Text>
         </TouchableOpacity>
 
-        {/* Header */}
+        {/* Header - Issue #691: Include year for SEO */}
         <View style={[styles.alignCenter, styles.mb6]}>
           <Text style={{ fontSize: 14, color: theme.secondaryText, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>⚔️ Drummer Showdown</Text>
-          <Text style={[styles.bandPageTitle, { color: theme.text, textAlign: 'center' }]}>{comparison.title}</Text>
+          <Text style={[styles.bandPageTitle, { color: theme.text, textAlign: 'center' }]}>{comparison.title}: Gear Comparison {new Date().getFullYear()}</Text>
         </View>
 
         {/* VS Card */}
@@ -11806,6 +11806,47 @@ function DrummerVsPage({ comparisonSlug, theme, onBack, onSelectDrummer, drummer
             <Text style={{ fontSize: 16, color: theme.secondaryText, marginBottom: 8, textAlign: 'center' }}>{drummer2?.band || ''}</Text>
             <Text style={{ fontSize: 13, color: theme.secondaryText, textAlign: 'center' }}>{drummer2?.genre || ''}</Text>
           </TouchableOpacity>
+        </View>
+
+        {/* Issue #691: Stats Comparison Table */}
+        <View style={{ marginBottom: 24, backgroundColor: theme.card, borderRadius: 12, padding: 16, borderColor: theme.border, borderWidth: 1 }}>
+          <Text style={{ fontSize: 20, fontWeight: 'bold', color: theme.text, marginBottom: 16 }}>📊 Stats Comparison</Text>
+          <View style={{ borderTopWidth: 1, borderColor: theme.border }}>
+            {/* Header Row */}
+            <View style={{ flexDirection: 'row', backgroundColor: theme.background, paddingVertical: 12, paddingHorizontal: 8 }}>
+              <Text style={{ flex: 1, fontWeight: '600', color: theme.text, fontSize: 14 }}>Stat</Text>
+              <Text style={{ flex: 1, fontWeight: '600', color: theme.primary, fontSize: 14, textAlign: 'center' }}>{drummer1?.name?.split(' ')[0] || 'D1'}</Text>
+              <Text style={{ flex: 1, fontWeight: '600', color: '#3b82f6', fontSize: 14, textAlign: 'center' }}>{drummer2?.name?.split(' ')[0] || 'D2'}</Text>
+            </View>
+            {/* Gear Items Count */}
+            <View style={{ flexDirection: 'row', paddingVertical: 12, paddingHorizontal: 8, borderTopWidth: 1, borderColor: theme.border }}>
+              <Text style={{ flex: 1, color: theme.secondaryText, fontSize: 13 }}>Gear Items</Text>
+              <Text style={{ flex: 1, color: theme.text, fontSize: 13, textAlign: 'center', fontWeight: '600' }}>
+                {drummer1?.gear ? Object.keys(drummer1.gear).filter(k => drummer1.gear[k]).length : '-'}
+              </Text>
+              <Text style={{ flex: 1, color: theme.text, fontSize: 13, textAlign: 'center', fontWeight: '600' }}>
+                {drummer2?.gear ? Object.keys(drummer2.gear).filter(k => drummer2.gear[k]).length : '-'}
+              </Text>
+            </View>
+            {/* Main Genre */}
+            <View style={{ flexDirection: 'row', paddingVertical: 12, paddingHorizontal: 8, borderTopWidth: 1, borderColor: theme.border, backgroundColor: theme.background }}>
+              <Text style={{ flex: 1, color: theme.secondaryText, fontSize: 13 }}>Main Genre</Text>
+              <Text style={{ flex: 1, color: theme.text, fontSize: 12, textAlign: 'center' }} numberOfLines={1}>{drummer1?.genre || '-'}</Text>
+              <Text style={{ flex: 1, color: theme.text, fontSize: 12, textAlign: 'center' }} numberOfLines={1}>{drummer2?.genre || '-'}</Text>
+            </View>
+            {/* Country */}
+            <View style={{ flexDirection: 'row', paddingVertical: 12, paddingHorizontal: 8, borderTopWidth: 1, borderColor: theme.border }}>
+              <Text style={{ flex: 1, color: theme.secondaryText, fontSize: 13 }}>Country</Text>
+              <Text style={{ flex: 1, color: theme.text, fontSize: 12, textAlign: 'center' }} numberOfLines={1}>{drummer1?.country || '-'}</Text>
+              <Text style={{ flex: 1, color: theme.text, fontSize: 12, textAlign: 'center' }} numberOfLines={1}>{drummer2?.country || '-'}</Text>
+            </View>
+            {/* Primary Band */}
+            <View style={{ flexDirection: 'row', paddingVertical: 12, paddingHorizontal: 8, borderTopWidth: 1, borderColor: theme.border, backgroundColor: theme.background }}>
+              <Text style={{ flex: 1, color: theme.secondaryText, fontSize: 13 }}>Primary Band</Text>
+              <Text style={{ flex: 1, color: theme.text, fontSize: 12, textAlign: 'center' }} numberOfLines={1}>{drummer1?.band || '-'}</Text>
+              <Text style={{ flex: 1, color: theme.text, fontSize: 12, textAlign: 'center' }} numberOfLines={1}>{drummer2?.band || '-'}</Text>
+            </View>
+          </View>
         </View>
 
         {/* Community Vote Widget */}
@@ -11853,6 +11894,32 @@ function DrummerVsPage({ comparisonSlug, theme, onBack, onSelectDrummer, drummer
                 </View>
               ))}
             </View>
+            {/* Issue #691: CTA to Gear Comparison Tool */}
+            <TouchableOpacity
+              style={{
+                marginTop: 16,
+                padding: 14,
+                backgroundColor: theme.primary,
+                borderRadius: 8,
+                alignItems: 'center',
+                flexDirection: 'row',
+                justifyContent: 'center',
+                gap: 8,
+              }}
+              onPress={() => {
+                if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                  const d1Slug = drummer1?.name ? toSlug(drummer1.name) : comparison.drummers[0];
+                  const d2Slug = drummer2?.name ? toSlug(drummer2.name) : comparison.drummers[1];
+                  window.history.pushState({}, '', `/compare?drummers=${d1Slug},${d2Slug}`);
+                  window.dispatchEvent(new PopStateEvent('popstate'));
+                }
+              }}
+              accessibilityRole="link"
+              accessibilityLabel="Compare gear in detail with our Gear Comparison Tool"
+            >
+              <Text style={{ color: theme.text, fontWeight: '600', fontSize: 15 }}>🔍 Compare in Detail with Gear Comparison Tool</Text>
+              <Text style={{ color: theme.text, fontSize: 14 }}>→</Text>
+            </TouchableOpacity>
           </View>
         )}
 

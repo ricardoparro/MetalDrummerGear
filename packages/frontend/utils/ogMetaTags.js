@@ -638,6 +638,34 @@ export function updateBattleMeta(drummer1, drummer2, battleSlug) {
   }
 }
 
+/**
+ * Update OG meta for "How to Sound Like" guide page
+ * Issue #685: SEO content hub for drummer sound guides
+ * @param {Object|null} guide - Guide object (null for hub page)
+ */
+export function updateSoundLikeGuideMeta(guide = null) {
+  if (!guide) {
+    // Hub page
+    updateOgMeta({
+      title: 'How to Sound Like Your Favorite Metal Drummer | Complete Guides | MetalForge',
+      description: 'Master the techniques, gear, and tuning of legendary metal drummers. Comprehensive guides to help you sound like Joey Jordison, Danny Carey, Lars Ulrich, and more.',
+      url: '/guides',
+      keywords: 'how to sound like metal drummer, drummer technique guide, drum gear guide, metal drumming tutorial',
+    });
+    return;
+  }
+
+  // Individual guide page
+  updateOgMeta({
+    title: `${guide.title} | MetalForge`,
+    description: guide.description,
+    url: `/guides/${guide.slug}`,
+    image: guide.ogImage ? `${BASE_URL}${guide.ogImage}` : DEFAULT_OG_IMAGE,
+    type: 'article',
+    keywords: guide.seoKeywords?.join(', '),
+  });
+}
+
 export default {
   updateOgMeta,
   resetToHomepageMeta,
@@ -663,4 +691,5 @@ export default {
   updateGearGuideMeta,
   updateQuotesPageMeta,
   updateBattleMeta,
+  updateSoundLikeGuideMeta,
 };

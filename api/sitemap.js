@@ -157,6 +157,8 @@ export default function handler(req, res) {
     { loc: '/techniques', priority: '0.9', changefreq: 'weekly' },
     // Issue #660: Gear News page with RSS
     { loc: '/gear-news', priority: '0.9', changefreq: 'daily' },
+    // Issue #689: Drummer Battle voting feature
+    { loc: '/battles', priority: '0.9', changefreq: 'weekly' },
     ...gearCategories.map(c => ({ loc: `/gear/${c.slug}`, priority: '0.9', changefreq: 'weekly' })),
     ...top10Lists.map(l => ({ loc: `/lists/${l.slug}`, priority: '0.8', changefreq: 'monthly' })),
     // Issue #642: Article pages for SEO-optimized content

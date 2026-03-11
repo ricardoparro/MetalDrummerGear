@@ -569,6 +569,75 @@ export function updateQuotesPageMeta() {
   });
 }
 
+/**
+ * Update OG meta for drummer battle page (Issue #689)
+ * @param {Object} drummer1 - First drummer object
+ * @param {Object} drummer2 - Second drummer object
+ * @param {string} battleSlug - Battle URL slug
+ */
+export function updateBattleMeta(drummer1, drummer2, battleSlug) {
+  if (!drummer1 || !drummer2) {
+    updateOgMeta({
+      title: 'Drummer Battle - Vote for Your Favorite | MetalForge',
+      description: 'Weekly drummer battles! Vote for your favorite metal drummer and see who has better gear. New matchup every Monday.',
+      url: '/battles',
+      keywords: 'drummer battle, drummer vote, metal drummer poll, who has better gear',
+    });
+    return;
+  }
+
+  const title = `${drummer1.name} vs ${drummer2.name}: Who Has Better Gear? | Vote Now`;
+  const description = `Cast your vote in this week's Drummer Battle! ${drummer1.name} (${drummer1.band}) vs ${drummer2.name} (${drummer2.band}). Compare their gear and vote for the winner!`;
+
+  updateOgMeta({
+    title,
+    description,
+    url: `/battles/${battleSlug}`,
+    type: 'article',
+    keywords: `${drummer1.name} vs ${drummer2.name}, drummer battle, drummer vote, ${drummer1.band} drummer, ${drummer2.band} drummer`,
+  });
+
+  // Add Poll schema for SEO (Schema: Thing > CreativeWork > Poll)
+  if (typeof document !== 'undefined') {
+    const pollSchema = {
+      '@context': 'https://schema.org',
+      '@type': 'Poll',
+      name: title,
+      description: description,
+      url: `${BASE_URL}/battles/${battleSlug}`,
+      dateCreated: new Date().toISOString().split('T')[0],
+      author: {
+        '@type': 'Organization',
+        name: 'MetalForge',
+        url: BASE_URL,
+      },
+      about: [
+        {
+          '@type': 'Person',
+          name: drummer1.name,
+          description: `Drummer for ${drummer1.band}`,
+          sameAs: drummer1.sameAs || [],
+        },
+        {
+          '@type': 'Person',
+          name: drummer2.name,
+          description: `Drummer for ${drummer2.band}`,
+          sameAs: drummer2.sameAs || [],
+        },
+      ],
+    };
+
+    let script = document.querySelector('script[data-schema="battle-poll"]');
+    if (!script) {
+      script = document.createElement('script');
+      script.type = 'application/ld+json';
+      script.setAttribute('data-schema', 'battle-poll');
+      document.head.appendChild(script);
+    }
+    script.textContent = JSON.stringify(pollSchema);
+  }
+}
+
 export default {
   updateOgMeta,
   resetToHomepageMeta,
@@ -593,4 +662,5 @@ export default {
   updateBpmTapMeta,
   updateGearGuideMeta,
   updateQuotesPageMeta,
+  updateBattleMeta,
 };

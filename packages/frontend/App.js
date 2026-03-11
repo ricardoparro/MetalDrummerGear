@@ -68,6 +68,7 @@ import {
   updateKitQuizMeta as updateKitQuizOgMeta,
   updateBpmTapMeta,
   updateQuotesPageMeta,
+  updateBattleMeta,
 } from './utils/ogMetaTags';
 
 // Skeleton Components for CLS Prevention
@@ -132,6 +133,23 @@ import {
 
 // Quiz Share Buttons Component (Issue #678)
 import { QuizShareButtons, trackQuizShare } from './components/QuizShareButtons';
+
+// Drummer Battle - Weekly Voting Feature (Issue #689)
+import {
+  generateWeeklyBattle,
+  getBattleSlug,
+  generateDrummerSlug,
+  getUserVote,
+  saveUserVote,
+  hasVotedThisWeek,
+  calculatePercentages,
+  generateShareText,
+  getShareUrls,
+  trackBattleVote,
+  trackBattleShare,
+  formatTimeRemaining,
+  CURATED_MATCHUPS,
+} from './data/battles';
 
 // Sound Like Guides Component (Issue #685)
 import { 
@@ -13240,6 +13258,506 @@ function GearNewsCard({ item, theme, onDrummerPress, onBrandPress, isFirst }) {
 }
 
 // ==========================================
+// DRUMMER BATTLE - Weekly Voting Feature (Issue #689)
+// ==========================================
+
+/**
+ * BattleWidget - Homepage card showing this week's battle
+ * Displays current matchup with quick vote option
+ */
+function BattleWidget({ theme, drummers, onNavigateToBattle }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  
+  // Get current battle
+  const battle = useMemo(() => generateWeeklyBattle(), []);
+  
+  // Find drummers for the battle
+  const drummer1 = useMemo(() => 
+    drummers.find(d => d.id === battle.drummer1Id), 
+    [drummers, battle.drummer1Id]
+  );
+  const drummer2 = useMemo(() => 
+    drummers.find(d => d.id === battle.drummer2Id), 
+    [drummers, battle.drummer2Id]
+  );
+  
+  // Check if user has voted
+  const hasVoted = useMemo(() => getUserVote(battle.id) !== null, [battle.id]);
+  const userVotedFor = useMemo(() => getUserVote(battle.id), [battle.id]);
+  
+  // Time remaining
+  const timeLeft = useMemo(() => formatTimeRemaining(), []);
+  
+  if (!drummer1 || !drummer2) return null;
+  
+  const battleSlug = getBattleSlug(
+    generateDrummerSlug(drummer1.name),
+    generateDrummerSlug(drummer2.name)
+  );
+  
+  const handleClick = () => {
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', `/battles/${battleSlug}`);
+      window.dispatchEvent(new PopStateEvent('popstate'));
+    }
+  };
+  
+  return (
+    <TouchableOpacity
+      onPress={handleClick}
+      style={[
+        styles.battleWidget,
+        { backgroundColor: theme.card, borderColor: theme.primary },
+      ]}
+      accessibilityRole="link"
+      accessibilityLabel={`This week's battle: ${drummer1.name} vs ${drummer2.name}`}
+    >
+      {/* Header */}
+      <View style={styles.battleWidgetHeader}>
+        <Text style={[styles.battleWidgetTitle, { color: theme.primary }]}>
+          🥊 This Week's Battle
+        </Text>
+        <Text style={[styles.battleWidgetTimer, { color: theme.secondaryText }]}>
+          {timeLeft}
+        </Text>
+      </View>
+      
+      {/* Matchup */}
+      <View style={styles.battleWidgetMatchup}>
+        <View style={styles.battleWidgetDrummer}>
+          <ImageWithFallback
+            source={{ uri: drummer1.image }}
+            style={styles.battleWidgetImage}
+            width={60}
+            height={60}
+            imageContext="thumbnail"
+          />
+          <Text style={[styles.battleWidgetName, { color: theme.text }]} numberOfLines={1}>
+            {drummer1.name}
+          </Text>
+          {hasVoted && userVotedFor === drummer1.id && (
+            <Text style={styles.battleWidgetVoted}>✓ Voted</Text>
+          )}
+        </View>
+        
+        <Text style={[styles.battleWidgetVs, { color: theme.primary }]}>VS</Text>
+        
+        <View style={styles.battleWidgetDrummer}>
+          <ImageWithFallback
+            source={{ uri: drummer2.image }}
+            style={styles.battleWidgetImage}
+            width={60}
+            height={60}
+            imageContext="thumbnail"
+          />
+          <Text style={[styles.battleWidgetName, { color: theme.text }]} numberOfLines={1}>
+            {drummer2.name}
+          </Text>
+          {hasVoted && userVotedFor === drummer2.id && (
+            <Text style={styles.battleWidgetVoted}>✓ Voted</Text>
+          )}
+        </View>
+      </View>
+      
+      {/* CTA */}
+      <View style={[styles.battleWidgetCta, { backgroundColor: theme.primary }]}>
+        <Text style={styles.battleWidgetCtaText}>
+          {hasVoted ? 'See Results →' : 'Vote Now →'}
+        </Text>
+      </View>
+    </TouchableOpacity>
+  );
+}
+
+/**
+ * BattlePage - Full battle voting page with results
+ */
+function BattlePage({ theme, drummers, onBack, battleSlug }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  
+  // State
+  const [votes, setVotes] = useState({ votes1: 0, votes2: 0 });
+  const [isVoting, setIsVoting] = useState(false);
+  const [hasVoted, setHasVoted] = useState(false);
+  const [votedFor, setVotedFor] = useState(null);
+  const [showShareMenu, setShowShareMenu] = useState(false);
+  
+  // Get current battle
+  const battle = useMemo(() => generateWeeklyBattle(), []);
+  
+  // Find drummers for the battle
+  const drummer1 = useMemo(() => 
+    drummers.find(d => d.id === battle.drummer1Id), 
+    [drummers, battle.drummer1Id]
+  );
+  const drummer2 = useMemo(() => 
+    drummers.find(d => d.id === battle.drummer2Id), 
+    [drummers, battle.drummer2Id]
+  );
+  
+  const currentBattleSlug = useMemo(() => {
+    if (!drummer1 || !drummer2) return '';
+    return getBattleSlug(
+      generateDrummerSlug(drummer1.name),
+      generateDrummerSlug(drummer2.name)
+    );
+  }, [drummer1, drummer2]);
+  
+  // Time remaining
+  const timeLeft = useMemo(() => formatTimeRemaining(), []);
+  
+  // Calculate percentages
+  const percentages = useMemo(() => 
+    calculatePercentages(votes.votes1, votes.votes2),
+    [votes]
+  );
+  
+  // Load initial vote state and fetch votes
+  useEffect(() => {
+    // Check localStorage for existing vote
+    const existingVote = getUserVote(battle.id);
+    if (existingVote) {
+      setHasVoted(true);
+      setVotedFor(existingVote);
+    }
+    
+    // Fetch current vote counts from API
+    const fetchVotes = async () => {
+      try {
+        const res = await fetch(`/api/battles/vote?battleId=${battle.id}`);
+        if (res.ok) {
+          const data = await res.json();
+          setVotes({ votes1: data.votes1, votes2: data.votes2 });
+        }
+      } catch (error) {
+        console.error('Failed to fetch votes:', error);
+      }
+    };
+    
+    fetchVotes();
+  }, [battle.id]);
+  
+  // Update SEO meta
+  useEffect(() => {
+    if (drummer1 && drummer2) {
+      updateBattleMeta(drummer1, drummer2, currentBattleSlug);
+    }
+  }, [drummer1, drummer2, currentBattleSlug]);
+  
+  // Handle vote
+  const handleVote = async (drummer, position) => {
+    if (hasVoted || isVoting) return;
+    
+    setIsVoting(true);
+    
+    try {
+      // Submit vote to API
+      const res = await fetch('/api/battles/vote', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          battleId: battle.id,
+          drummerId: drummer.id,
+          drummerPosition: position,
+        }),
+      });
+      
+      if (res.ok) {
+        const data = await res.json();
+        setVotes({ votes1: data.votes1, votes2: data.votes2 });
+        
+        // Save to localStorage
+        saveUserVote(battle.id, drummer.id);
+        setHasVoted(true);
+        setVotedFor(drummer.id);
+        
+        // Track GA4 event
+        trackBattleVote(drummer, battle.id);
+      }
+    } catch (error) {
+      console.error('Vote failed:', error);
+    } finally {
+      setIsVoting(false);
+    }
+  };
+  
+  // Handle share
+  const handleShare = (platform) => {
+    const shareText = generateShareText(drummer1, drummer2, votedFor);
+    const urls = getShareUrls(currentBattleSlug, shareText);
+    
+    // Track GA4 event
+    trackBattleShare(platform, battle.id);
+    
+    if (platform === 'copy') {
+      if (navigator.clipboard) {
+        navigator.clipboard.writeText(urls.copy);
+        alert('Link copied to clipboard!');
+      }
+    } else if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.open(urls[platform], '_blank', 'width=600,height=400');
+    }
+    
+    setShowShareMenu(false);
+  };
+  
+  // Navigate to drummer profile
+  const handleDrummerClick = (drummer) => {
+    const slug = generateDrummerSlug(drummer.name);
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', `/drummer/${slug}`);
+      window.dispatchEvent(new PopStateEvent('popstate'));
+    }
+  };
+  
+  if (!drummer1 || !drummer2) {
+    return (
+      <View style={[styles.container, { backgroundColor: theme.background }]}>
+        <TouchableOpacity onPress={onBack} style={styles.backButton}>
+          <Text style={[styles.backButtonText, { color: theme.primary }]}>← Back</Text>
+        </TouchableOpacity>
+        <Text style={[styles.errorText, { color: theme.text }]}>Battle not found</Text>
+      </View>
+    );
+  }
+  
+  return (
+    <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+      <View style={[styles.detailContent, isMobile && { paddingHorizontal: 16 }]}>
+        {/* Header */}
+        <View style={styles.battleHeader}>
+          <TouchableOpacity
+            onPress={onBack}
+            style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          >
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Home</Text>
+          </TouchableOpacity>
+          
+          <Text style={[styles.battlePageTitle, { color: theme.text }]}>
+            🥊 Drummer Battle
+          </Text>
+          <Text style={[styles.battlePageSubtitle, { color: theme.secondaryText }]}>
+            Who has better gear? You decide!
+          </Text>
+          
+          {/* Timer */}
+          <View style={[styles.battleTimerBadge, { backgroundColor: theme.primary + '20' }]}>
+            <Text style={[styles.battleTimerText, { color: theme.primary }]}>
+              ⏱️ {timeLeft}
+            </Text>
+          </View>
+        </View>
+        
+        {/* Battle Arena */}
+        <View style={[styles.battleArena, { borderColor: theme.border }]}>
+          {/* Drummer 1 */}
+          <TouchableOpacity
+            style={[
+              styles.battleDrummerCard,
+              { backgroundColor: theme.card, borderColor: votedFor === drummer1.id ? theme.primary : theme.border },
+              votedFor === drummer1.id && styles.battleDrummerCardVoted,
+            ]}
+            onPress={() => !hasVoted && handleVote(drummer1, 1)}
+            disabled={hasVoted || isVoting}
+          >
+            <ImageWithFallback
+              source={{ uri: drummer1.image }}
+              style={styles.battleDrummerImage}
+              width={120}
+              height={120}
+              imageContext="card"
+            />
+            <Text style={[styles.battleDrummerName, { color: theme.text }]}>
+              {drummer1.name}
+            </Text>
+            <Text style={[styles.battleDrummerBand, { color: theme.secondaryText }]}>
+              {drummer1.band}
+            </Text>
+            
+            {/* Vote button or results */}
+            {hasVoted ? (
+              <View style={styles.battleResultsBar}>
+                <View 
+                  style={[
+                    styles.battleResultsFill, 
+                    { 
+                      width: `${percentages.percent1}%`,
+                      backgroundColor: votedFor === drummer1.id ? theme.primary : theme.secondaryText,
+                    }
+                  ]} 
+                />
+                <Text style={[styles.battleResultsPercent, { color: theme.text }]}>
+                  {percentages.percent1}%
+                </Text>
+              </View>
+            ) : (
+              <View style={[styles.battleVoteBtn, { backgroundColor: theme.primary }]}>
+                <Text style={styles.battleVoteBtnText}>
+                  {isVoting ? '...' : 'Vote'}
+                </Text>
+              </View>
+            )}
+            
+            {votedFor === drummer1.id && (
+              <View style={[styles.battleVotedBadge, { backgroundColor: theme.primary }]}>
+                <Text style={styles.battleVotedBadgeText}>✓ Your Vote</Text>
+              </View>
+            )}
+            
+            {/* View gear link */}
+            <TouchableOpacity 
+              onPress={() => handleDrummerClick(drummer1)}
+              style={styles.battleGearLink}
+            >
+              <Text style={[styles.battleGearLinkText, { color: theme.primary }]}>
+                View Gear →
+              </Text>
+            </TouchableOpacity>
+          </TouchableOpacity>
+          
+          {/* VS Divider */}
+          <View style={styles.battleVsDivider}>
+            <Text style={[styles.battleVsText, { color: theme.primary }]}>VS</Text>
+          </View>
+          
+          {/* Drummer 2 */}
+          <TouchableOpacity
+            style={[
+              styles.battleDrummerCard,
+              { backgroundColor: theme.card, borderColor: votedFor === drummer2.id ? theme.primary : theme.border },
+              votedFor === drummer2.id && styles.battleDrummerCardVoted,
+            ]}
+            onPress={() => !hasVoted && handleVote(drummer2, 2)}
+            disabled={hasVoted || isVoting}
+          >
+            <ImageWithFallback
+              source={{ uri: drummer2.image }}
+              style={styles.battleDrummerImage}
+              width={120}
+              height={120}
+              imageContext="card"
+            />
+            <Text style={[styles.battleDrummerName, { color: theme.text }]}>
+              {drummer2.name}
+            </Text>
+            <Text style={[styles.battleDrummerBand, { color: theme.secondaryText }]}>
+              {drummer2.band}
+            </Text>
+            
+            {/* Vote button or results */}
+            {hasVoted ? (
+              <View style={styles.battleResultsBar}>
+                <View 
+                  style={[
+                    styles.battleResultsFill, 
+                    { 
+                      width: `${percentages.percent2}%`,
+                      backgroundColor: votedFor === drummer2.id ? theme.primary : theme.secondaryText,
+                    }
+                  ]} 
+                />
+                <Text style={[styles.battleResultsPercent, { color: theme.text }]}>
+                  {percentages.percent2}%
+                </Text>
+              </View>
+            ) : (
+              <View style={[styles.battleVoteBtn, { backgroundColor: theme.primary }]}>
+                <Text style={styles.battleVoteBtnText}>
+                  {isVoting ? '...' : 'Vote'}
+                </Text>
+              </View>
+            )}
+            
+            {votedFor === drummer2.id && (
+              <View style={[styles.battleVotedBadge, { backgroundColor: theme.primary }]}>
+                <Text style={styles.battleVotedBadgeText}>✓ Your Vote</Text>
+              </View>
+            )}
+            
+            {/* View gear link */}
+            <TouchableOpacity 
+              onPress={() => handleDrummerClick(drummer2)}
+              style={styles.battleGearLink}
+            >
+              <Text style={[styles.battleGearLinkText, { color: theme.primary }]}>
+                View Gear →
+              </Text>
+            </TouchableOpacity>
+          </TouchableOpacity>
+        </View>
+        
+        {/* Vote Count */}
+        <View style={[styles.battleVoteCount, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.battleVoteCountText, { color: theme.text }]}>
+            Total Votes: {percentages.total}
+          </Text>
+        </View>
+        
+        {/* Share Section */}
+        {hasVoted && (
+          <View style={[styles.battleShareSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.battleShareTitle, { color: theme.text }]}>
+              Share Your Vote!
+            </Text>
+            <Text style={[styles.battleShareSubtitle, { color: theme.secondaryText }]}>
+              Challenge your friends to vote
+            </Text>
+            
+            <View style={styles.battleShareButtons}>
+              <TouchableOpacity 
+                onPress={() => handleShare('twitter')}
+                style={[styles.battleShareBtn, { backgroundColor: '#000000' }]}
+              >
+                <Text style={styles.battleShareBtnText}>𝕏</Text>
+              </TouchableOpacity>
+              <TouchableOpacity 
+                onPress={() => handleShare('facebook')}
+                style={[styles.battleShareBtn, { backgroundColor: '#4267B2' }]}
+              >
+                <Text style={styles.battleShareBtnText}>f</Text>
+              </TouchableOpacity>
+              <TouchableOpacity 
+                onPress={() => handleShare('reddit')}
+                style={[styles.battleShareBtn, { backgroundColor: '#FF4500' }]}
+              >
+                <Text style={styles.battleShareBtnText}>r/</Text>
+              </TouchableOpacity>
+              <TouchableOpacity 
+                onPress={() => handleShare('whatsapp')}
+                style={[styles.battleShareBtn, { backgroundColor: '#25D366' }]}
+              >
+                <Text style={styles.battleShareBtnText}>📱</Text>
+              </TouchableOpacity>
+              <TouchableOpacity 
+                onPress={() => handleShare('copy')}
+                style={[styles.battleShareBtn, { backgroundColor: theme.border }]}
+              >
+                <Text style={[styles.battleShareBtnText, { color: theme.text }]}>🔗</Text>
+              </TouchableOpacity>
+            </View>
+          </View>
+        )}
+        
+        {/* Info */}
+        <View style={[styles.battleInfo, { borderColor: theme.border }]}>
+          <Text style={[styles.battleInfoTitle, { color: theme.text }]}>
+            How It Works
+          </Text>
+          <Text style={[styles.battleInfoText, { color: theme.secondaryText }]}>
+            • New battle every Monday{'\n'}
+            • One vote per user per battle{'\n'}
+            • Compare their gear on their profile pages{'\n'}
+            • Share and challenge your friends!
+          </Text>
+        </View>
+      </View>
+    </ScrollView>
+  );
+}
+
+// ==========================================
 // HERO SECTION - Homepage hero with prominent search CTA (Issue #493)
 // ==========================================
 
@@ -13816,6 +14334,27 @@ function DrummerList({
         drummers={drummers}
         onSelectDrummer={onSelectDrummer}
       />
+      {/* This Week's Battle Widget (Issue #689) */}
+      {drummers.length > 0 && (
+        <View style={styles.battleWidgetContainer}>
+          <BattleWidget
+            theme={theme}
+            drummers={drummers}
+            onNavigateToBattle={() => {
+              const battle = generateWeeklyBattle();
+              const d1 = drummers.find(d => d.id === battle.drummer1Id);
+              const d2 = drummers.find(d => d.id === battle.drummer2Id);
+              if (d1 && d2) {
+                const slug = getBattleSlug(generateDrummerSlug(d1.name), generateDrummerSlug(d2.name));
+                if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                  window.history.pushState({}, '', `/battles/${slug}`);
+                  window.dispatchEvent(new PopStateEvent('popstate'));
+                }
+              }
+            }}
+          />
+        </View>
+      )}
       {/* Top 10 Lists Section */}
       <TopListsSection theme={theme} onNavigateToList={onNavigateToList} />
       
@@ -13939,6 +14478,22 @@ function isQuotesPage() {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
   const pathname = window.location.pathname;
   return pathname === '/quotes' || pathname.startsWith('/quotes?');
+}
+
+// Check if we're on a battle page based on URL (Issue #689)
+function isBattlesPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  const pathname = window.location.pathname;
+  return pathname.startsWith('/battles');
+}
+
+// Get battle slug from URL (Issue #689)
+function getBattleSlugFromURL() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
+  const pathname = window.location.pathname;
+  if (!pathname.startsWith('/battles/')) return null;
+  const slug = pathname.replace('/battles/', '').replace(/\/$/, '');
+  return slug || null;
 }
 
 // Check if we're on the gear-by-budget page based on URL
@@ -17676,6 +18231,10 @@ function AppContent() {
   // Gear News Page state (Issue #660)
   const [showGearNewsPage, setShowGearNewsPage] = useState(() => isGearNewsPage());
 
+  // Drummer Battle Page state (Issue #689)
+  const [showBattlePage, setShowBattlePage] = useState(() => isBattlesPage());
+  const [battleSlug, setBattleSlug] = useState(() => getBattleSlugFromURL());
+
   // Drummers Page state - full list with filters (Issue #497)
   const [showDrummersPage, setShowDrummersPage] = useState(() => isDrummersPage());
 
@@ -18707,6 +19266,40 @@ function AppContent() {
         // Gear News page (Issue #660)
         setShowGearNewsPage(true);
         setShowNewsPage(false);
+        setShowBattlePage(false);
+        setBattleSlug(null);
+        setShowTechniquesIndex(false);
+        setShowTechniqueDetail(false);
+        setTechniqueSlug(null);
+        setShowGearComparisonsIndex(false);
+        setShowGearComparison(false);
+        setGearComparisonSlug(null);
+        setShowGenresList(false);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowKitBuilder(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowList(false);
+        setListSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+      } else if (isBattlesPage()) {
+        // Drummer Battle page (Issue #689)
+        const slug = getBattleSlugFromURL();
+        setShowBattlePage(true);
+        setBattleSlug(slug);
+        setShowGearNewsPage(false);
+        setShowNewsPage(false);
         setShowTechniquesIndex(false);
         setShowTechniqueDetail(false);
         setTechniqueSlug(null);
@@ -18876,6 +19469,8 @@ function AppContent() {
         setShowQuotes(false);
         setShowNewsPage(false);
         setShowGearNewsPage(false);
+        setShowBattlePage(false);
+        setBattleSlug(null);
         setShowBioPage(false);
         setBioSlug(null);
         setShowBandDetail(false);
@@ -20204,6 +20799,23 @@ setShowList(false);
           }}
           onNavigateToDrummer={handleSelectDrummer}
           onNavigateToBand={handleNavigateToBand}
+        />
+      );
+    }
+    // Drummer Battle Page (Issue #689)
+    if (showBattlePage) {
+      return (
+        <BattlePage
+          theme={theme}
+          drummers={drummers}
+          battleSlug={battleSlug}
+          onBack={() => {
+            setShowBattlePage(false);
+            setBattleSlug(null);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/');
+            }
+          }}
         />
       );
     }
@@ -26714,6 +27326,264 @@ const styles = StyleSheet.create({
     flexWrap: 'wrap',
     gap: spacing[2],
     marginTop: spacing[4],
+  },
+
+  // ==========================================
+  // DRUMMER BATTLE STYLES (Issue #689)
+  // ==========================================
+  
+  // Battle Widget Container (Homepage)
+  battleWidgetContainer: {
+    paddingHorizontal: spacing[5],
+    marginBottom: spacing[4],
+  },
+  
+  // Battle Widget (Homepage)
+  battleWidget: {
+    borderRadius: spacing[4],
+    borderWidth: 2,
+    padding: spacing[4],
+    marginBottom: spacing[4],
+  },
+  battleWidgetHeader: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    marginBottom: spacing[3],
+  },
+  battleWidgetTitle: {
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.bold,
+  },
+  battleWidgetTimer: {
+    fontSize: fontSize.sm,
+  },
+  battleWidgetMatchup: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-around',
+    marginBottom: spacing[3],
+  },
+  battleWidgetDrummer: {
+    alignItems: 'center',
+    flex: 1,
+  },
+  battleWidgetImage: {
+    width: 60,
+    height: 60,
+    borderRadius: 30,
+    marginBottom: spacing[2],
+  },
+  battleWidgetName: {
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.semibold,
+    textAlign: 'center',
+  },
+  battleWidgetVs: {
+    fontSize: fontSize.xl,
+    fontWeight: fontWeight.bold,
+    marginHorizontal: spacing[2],
+  },
+  battleWidgetVoted: {
+    fontSize: fontSize.xs,
+    color: '#10b981',
+    marginTop: spacing[1],
+  },
+  battleWidgetCta: {
+    borderRadius: spacing[2],
+    paddingVertical: spacing[2],
+    paddingHorizontal: spacing[4],
+    alignItems: 'center',
+  },
+  battleWidgetCtaText: {
+    color: '#fff',
+    fontWeight: fontWeight.semibold,
+    fontSize: fontSize.sm,
+  },
+  
+  // Battle Page
+  battleHeader: {
+    marginBottom: spacing[6],
+  },
+  battlePageTitle: {
+    fontSize: fontSize['3xl'],
+    fontWeight: fontWeight.bold,
+    marginTop: spacing[4],
+    marginBottom: spacing[2],
+  },
+  battlePageSubtitle: {
+    fontSize: fontSize.lg,
+    marginBottom: spacing[3],
+  },
+  battleTimerBadge: {
+    alignSelf: 'flex-start',
+    paddingVertical: spacing[2],
+    paddingHorizontal: spacing[4],
+    borderRadius: spacing[2],
+  },
+  battleTimerText: {
+    fontWeight: fontWeight.semibold,
+  },
+  battleArena: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    justifyContent: 'center',
+    alignItems: 'stretch',
+    gap: spacing[4],
+    marginBottom: spacing[4],
+    padding: spacing[4],
+    borderRadius: spacing[4],
+    borderWidth: 1,
+  },
+  battleDrummerCard: {
+    flex: 1,
+    minWidth: 160,
+    maxWidth: 280,
+    alignItems: 'center',
+    padding: spacing[4],
+    borderRadius: spacing[3],
+    borderWidth: 2,
+  },
+  battleDrummerCardVoted: {
+    borderWidth: 3,
+  },
+  battleDrummerImage: {
+    width: 120,
+    height: 120,
+    borderRadius: 60,
+    marginBottom: spacing[3],
+  },
+  battleDrummerName: {
+    fontSize: fontSize.xl,
+    fontWeight: fontWeight.bold,
+    textAlign: 'center',
+    marginBottom: spacing[1],
+  },
+  battleDrummerBand: {
+    fontSize: fontSize.sm,
+    textAlign: 'center',
+    marginBottom: spacing[3],
+  },
+  battleVoteBtn: {
+    paddingVertical: spacing[3],
+    paddingHorizontal: spacing[6],
+    borderRadius: spacing[2],
+    marginTop: spacing[2],
+  },
+  battleVoteBtnText: {
+    color: '#fff',
+    fontWeight: fontWeight.bold,
+    fontSize: fontSize.lg,
+  },
+  battleResultsBar: {
+    width: '100%',
+    height: 32,
+    borderRadius: spacing[2],
+    backgroundColor: 'rgba(0,0,0,0.1)',
+    marginTop: spacing[2],
+    position: 'relative',
+    overflow: 'hidden',
+  },
+  battleResultsFill: {
+    position: 'absolute',
+    left: 0,
+    top: 0,
+    bottom: 0,
+    borderRadius: spacing[2],
+  },
+  battleResultsPercent: {
+    position: 'absolute',
+    left: 0,
+    right: 0,
+    top: 0,
+    bottom: 0,
+    textAlign: 'center',
+    lineHeight: 32,
+    fontWeight: fontWeight.bold,
+    fontSize: fontSize.lg,
+  },
+  battleVotedBadge: {
+    marginTop: spacing[2],
+    paddingVertical: spacing[1],
+    paddingHorizontal: spacing[3],
+    borderRadius: spacing[2],
+  },
+  battleVotedBadgeText: {
+    color: '#fff',
+    fontWeight: fontWeight.semibold,
+    fontSize: fontSize.sm,
+  },
+  battleGearLink: {
+    marginTop: spacing[3],
+  },
+  battleGearLinkText: {
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.semibold,
+  },
+  battleVsDivider: {
+    justifyContent: 'center',
+    alignItems: 'center',
+    paddingHorizontal: spacing[4],
+  },
+  battleVsText: {
+    fontSize: fontSize['3xl'],
+    fontWeight: fontWeight.black,
+  },
+  battleVoteCount: {
+    alignItems: 'center',
+    padding: spacing[3],
+    borderRadius: spacing[2],
+    borderWidth: 1,
+    marginBottom: spacing[4],
+  },
+  battleVoteCountText: {
+    fontWeight: fontWeight.semibold,
+  },
+  battleShareSection: {
+    padding: spacing[4],
+    borderRadius: spacing[3],
+    borderWidth: 1,
+    marginBottom: spacing[4],
+    alignItems: 'center',
+  },
+  battleShareTitle: {
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.bold,
+    marginBottom: spacing[1],
+  },
+  battleShareSubtitle: {
+    fontSize: fontSize.sm,
+    marginBottom: spacing[3],
+  },
+  battleShareButtons: {
+    flexDirection: 'row',
+    gap: spacing[3],
+  },
+  battleShareBtn: {
+    width: 44,
+    height: 44,
+    borderRadius: 22,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  battleShareBtnText: {
+    color: '#fff',
+    fontWeight: fontWeight.bold,
+    fontSize: fontSize.lg,
+  },
+  battleInfo: {
+    padding: spacing[4],
+    borderTopWidth: 1,
+    marginTop: spacing[4],
+  },
+  battleInfoTitle: {
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.bold,
+    marginBottom: spacing[2],
+  },
+  battleInfoText: {
+    fontSize: fontSize.sm,
+    lineHeight: lineHeight.relaxed,
   },
 
 });

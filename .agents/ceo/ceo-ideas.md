@@ -28,7 +28,7 @@
 
 ## 📥 Novas Ideias
 
-### 💡 [CEO-005] Add Social Share to "Which Metal Drummer Are You?" Quiz Results
+### 💡 [CEO-005] Add Social Share to "Which Metal Drummer Are You?" Quiz Results → Issue #684 ✅ IMPLEMENTED
 
 **Origem:** Viral growth analysis — We have the quiz (#637), now weaponize it for organic growth
 
@@ -228,3 +228,36 @@
 ---
 
 *Última actualização: 2026-03-05 09:00*
+
+### 💡 [CEO-006] "Drummer Battle" Weekly Voting Feature → Issue #689 ✅
+
+**Origem:** Engagement analysis — Need features that drive return visits + social sharing
+
+**Hipótese:** Se criarmos uma funcionalidade "Drummer Battle" semanal onde users votam entre 2 drummers, então:
+- Cria engagement loop (vote → share → friends vote)
+- Drives return visits (users voltam para ver resultados)
+- Viral potential (people love comparisons + debates)
+- Zero-cost user acquisition (organic sharing)
+- Builds community (comments + discussions)
+- Creates SEO opportunities ("[drummer1] vs [drummer2]")
+- Simple to implement (voting UI + weekly rotation)
+- Data goldmine (learn which drummers are most popular)
+
+**Impacto Curto (1-7d):** ⭐⭐⭐ (Immediate engagement spike + social shares)
+**Impacto Médio (1-3m):** ⭐⭐ (Weekly traffic pattern, SEO for comparison keywords)
+**Impacto Longo (3-12m):** ⭐ (Engagement feature, not growth moat)
+**Score Total:** 6⭐
+
+**Métrica de sucesso:**
+- 100+ votes primeira semana
+- 20% of voters share their vote
+- 30% return visit rate para ver resultados
+- Social shares drive 50+ referral visits
+- Top 10 Google for "[drummer1] vs [drummer2]" within 1 month
+
+**Decisão:** IMPLEMENTAR ✅
+
+**Issue:** https://github.com/ricardoparro/MetalDrummerGear/issues/689
+
+**Data:** 2026-03-11 09:00
+

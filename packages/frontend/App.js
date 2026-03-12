@@ -2390,6 +2390,194 @@ function GenreTag({ genre, size = 'small' }) {
   );
 }
 
+// Articles Index Page - Lists all articles for SEO and LLM crawling
+function ArticlesIndexPage({ theme, onBack, onSelectArticle }) {
+  const [albumArticles, setAlbumArticles] = useState([]);
+  const [top10Articles, setTop10Articles] = useState([]);
+  const [isLoading, setIsLoading] = useState(true);
+
+  useEffect(() => {
+    // Load album articles
+    import('./data/albumArticles').then(module => {
+      const articles = Object.values(module.ALBUM_ARTICLES || {});
+      setAlbumArticles(articles);
+    });
+
+    // Load top10 lists that are articles
+    loadTop10Lists().then(module => {
+      const lists = module.top10Lists || [];
+      setTop10Articles(lists.filter(l => l.isArticle));
+      setIsLoading(false);
+    });
+  }, []);
+
+  // SEO meta tags
+  useEffect(() => {
+    if (Platform.OS !== 'web' || typeof document === 'undefined') return;
+
+    document.title = 'Metal Drumming Articles & Guides | MetalForge';
+
+    const setMeta = (name, content, isProperty = false) => {
+      const attr = isProperty ? 'property' : 'name';
+      let meta = document.querySelector(`meta[${attr}="${name}"]`);
+      if (!meta) {
+        meta = document.createElement('meta');
+        meta.setAttribute(attr, name);
+        document.head.appendChild(meta);
+      }
+      meta.setAttribute('content', content);
+    };
+
+    const description = 'Explore in-depth articles about metal drumming: album gear breakdowns, drummer rankings, technique guides, and equipment analysis. Your complete resource for metal drum knowledge.';
+    
+    setMeta('description', description);
+    setMeta('og:title', 'Metal Drumming Articles & Guides | MetalForge', true);
+    setMeta('og:description', description, true);
+    setMeta('og:type', 'website', true);
+    setMeta('og:url', 'https://metalforge.io/articles/', true);
+    setMeta('twitter:card', 'summary_large_image');
+    setMeta('twitter:title', 'Metal Drumming Articles & Guides | MetalForge');
+    setMeta('twitter:description', description);
+
+    // Schema.org CollectionPage markup
+    const schemaScript = document.getElementById('articles-index-schema');
+    if (schemaScript) schemaScript.remove();
+    
+    const schema = {
+      '@context': 'https://schema.org',
+      '@type': 'CollectionPage',
+      'name': 'Metal Drumming Articles & Guides',
+      'description': description,
+      'url': 'https://metalforge.io/articles/',
+      'publisher': {
+        '@type': 'Organization',
+        'name': 'MetalForge',
+        'url': 'https://metalforge.io'
+      },
+      'hasPart': [
+        ...albumArticles.map(a => ({
+          '@type': 'Article',
+          'name': a.title,
+          'url': `https://metalforge.io/articles/${a.slug}`
+        })),
+        ...top10Articles.map(a => ({
+          '@type': 'Article', 
+          'name': a.title,
+          'url': `https://metalforge.io/lists/${a.slug}`
+        }))
+      ]
+    };
+
+    const newScript = document.createElement('script');
+    newScript.id = 'articles-index-schema';
+    newScript.type = 'application/ld+json';
+    newScript.textContent = JSON.stringify(schema);
+    document.head.appendChild(newScript);
+
+    return () => {
+      const script = document.getElementById('articles-index-schema');
+      if (script) script.remove();
+    };
+  }, [albumArticles, top10Articles]);
+
+  if (isLoading) {
+    return (
+      <View style={[styles.container, { backgroundColor: theme.background, alignItems: 'center', justifyContent: 'center', paddingTop: 100 }]}>
+        <ActivityIndicator size="large" color={theme.primary} />
+        <Text style={{ color: theme.secondaryText, marginTop: 16 }}>Loading articles...</Text>
+      </View>
+    );
+  }
+
+  return (
+    <ScrollView style={[styles.container, { backgroundColor: theme.background }]}>
+      <TouchableOpacity onPress={onBack} style={styles.backButton}>
+        <Text style={[styles.backButtonText, { color: theme.primary }]}>← Back to Home</Text>
+      </TouchableOpacity>
+
+      {/* Header */}
+      <View style={{ paddingHorizontal: 20, paddingTop: 20 }}>
+        <Text style={[styles.topListPageTitle, { color: theme.text }]}>
+          📰 Metal Drumming Articles
+        </Text>
+        <Text style={[styles.topListPageDescription, { color: theme.secondaryText, marginTop: 8 }]}>
+          In-depth articles about metal drumming: gear breakdowns, drummer rankings, and technique guides.
+        </Text>
+      </View>
+
+      {/* Album Gear Breakdowns */}
+      {albumArticles.length > 0 && (
+        <View style={{ marginTop: 32, paddingHorizontal: 20 }}>
+          <Text style={[styles.sectionTitle, { color: theme.text, marginBottom: 16 }]}>
+            🥁 Iconic Album Gear Breakdowns
+          </Text>
+          <Text style={[styles.textSm, { color: theme.secondaryText, marginBottom: 16 }]}>
+            Complete drum setup analysis for legendary metal albums
+          </Text>
+          {albumArticles.map((article) => (
+            <TouchableOpacity
+              key={article.slug}
+              style={[styles.articleListItem, { backgroundColor: theme.card, borderColor: theme.border }]}
+              onPress={() => onSelectArticle(article.slug, 'album')}
+              accessibilityRole="link"
+            >
+              <View style={{ flex: 1 }}>
+                <Text style={[styles.articleListTitle, { color: theme.text }]}>{article.title}</Text>
+                <Text style={[styles.articleListMeta, { color: theme.secondaryText }]}>
+                  {article.artist} • {article.albumTitle} ({article.year})
+                </Text>
+              </View>
+              <Text style={{ color: theme.secondaryText, fontSize: 20 }}>→</Text>
+            </TouchableOpacity>
+          ))}
+        </View>
+      )}
+
+      {/* Top 10 Lists (Article style) */}
+      {top10Articles.length > 0 && (
+        <View style={{ marginTop: 32, paddingHorizontal: 20 }}>
+          <Text style={[styles.sectionTitle, { color: theme.text, marginBottom: 16 }]}>
+            🏆 Top 10 Rankings
+          </Text>
+          <Text style={[styles.textSm, { color: theme.secondaryText, marginBottom: 16 }]}>
+            Curated drummer rankings by category
+          </Text>
+          {top10Articles.map((article) => (
+            <TouchableOpacity
+              key={article.slug}
+              style={[styles.articleListItem, { backgroundColor: theme.card, borderColor: theme.border }]}
+              onPress={() => onSelectArticle(article.slug, 'list')}
+              accessibilityRole="link"
+            >
+              <View style={{ flex: 1 }}>
+                <Text style={[styles.articleListTitle, { color: theme.text }]}>
+                  {article.emoji} {article.title}
+                </Text>
+                <Text style={[styles.articleListMeta, { color: theme.secondaryText }]}>
+                  {article.drummerIds?.length || 10} drummers ranked
+                </Text>
+              </View>
+              <Text style={{ color: theme.secondaryText, fontSize: 20 }}>→</Text>
+            </TouchableOpacity>
+          ))}
+        </View>
+      )}
+
+      {/* Coming Soon / More Content */}
+      <View style={{ marginTop: 32, marginBottom: 40, paddingHorizontal: 20 }}>
+        <View style={[styles.comingSoonCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.comingSoonTitle, { color: theme.text }]}>📝 More Content Coming Soon</Text>
+          <Text style={[styles.comingSoonText, { color: theme.secondaryText }]}>
+            We're working on more in-depth guides, technique breakdowns, and drummer interviews. Stay tuned!
+          </Text>
+        </View>
+      </View>
+
+      <View style={{ height: 40 }} />
+    </ScrollView>
+  );
+}
+
 function GenreTags({ genres, size = 'small' }) {
   const validGenres = (genres || []).filter(g => g && g.trim());
   if (validGenres.length === 0) return null;
@@ -14973,6 +15161,13 @@ function updateListURL(slug) {
 // Article pages use /articles/:slug route for SEO-optimized content
 // These map to top10Lists entries with isArticle: true
 
+// Check if we're on the articles index page (/articles/)
+function isArticlesIndexPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  const pathname = window.location.pathname;
+  return pathname === '/articles' || pathname === '/articles/';
+}
+
 // Check if we're on an article page (/articles/:slug)
 function isArticlePage() {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
@@ -18570,6 +18765,9 @@ function AppContent() {
   const [showGearByBudget, setShowGearByBudget] = useState(() => isGearByBudgetPage());
   const [showList, setShowList] = useState(() => isListPage());
   const [listSlug, setListSlug] = useState(() => getListSlugFromURL());
+  // Articles Index Page state - /articles/ listing page
+  const [showArticlesIndex, setShowArticlesIndex] = useState(() => isArticlesIndexPage());
+  
   // Article Page state (Issue #642) - SEO-optimized articles at /articles/:slug
   const [showArticle, setShowArticle] = useState(() => isArticlePage());
   const [articleSlug, setArticleSlug] = useState(() => getArticleSlugFromURL());
@@ -19839,9 +20037,23 @@ function AppContent() {
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
+      } else if (isArticlesIndexPage()) {
+        // Articles index page - /articles/
+        setShowArticlesIndex(true);
+        setShowArticle(false);
+        setArticleSlug(null);
+        setShowList(false);
+        setListSlug(null);
+        setShowNewsPage(false);
+        setShowGearNewsPage(false);
+        setShowGearStats(false);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
       } else if (isArticlePage()) {
         // Article page (Issue #642) - /articles/:slug
         const slug = getArticleSlugFromURL();
+        setShowArticlesIndex(false);
         setShowArticle(true);
         setArticleSlug(slug);
         setShowList(false);
@@ -19938,6 +20150,7 @@ function AppContent() {
         setShowTechniqueDetail(false);
         setTechniqueSlug(null);
         setShowTechniquesIndex(false);
+        setShowArticlesIndex(false);
         setShowArticle(false);
         setArticleSlug(null);
         setShowList(false);
@@ -21381,6 +21594,36 @@ setShowList(false);
           }}
           guideSlug={guideSlug}
           onSelectDrummer={handleSelectDrummer}
+        />
+      );
+    }
+    // Articles Index Page - /articles/ listing all articles
+    if (showArticlesIndex) {
+      return (
+        <ArticlesIndexPage
+          theme={theme}
+          onBack={() => {
+            setShowArticlesIndex(false);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/');
+            }
+          }}
+          onSelectArticle={(slug, type) => {
+            setShowArticlesIndex(false);
+            if (type === 'album') {
+              setShowArticle(true);
+              setArticleSlug(slug);
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/articles/${slug}`);
+              }
+            } else {
+              setShowList(true);
+              setListSlug(slug);
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/lists/${slug}`);
+              }
+            }
+          }}
         />
       );
     }
@@ -28310,6 +28553,39 @@ const styles = StyleSheet.create({
     fontSize: fontSize.xs,
     textAlign: 'center',
     marginBottom: spacing[1],
+  },
+  // Articles Index Page styles
+  articleListItem: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    padding: spacing[4],
+    borderRadius: spacing[2],
+    borderWidth: 1,
+    marginBottom: spacing[3],
+    gap: spacing[3],
+  },
+  articleListTitle: {
+    fontSize: fontSize.md,
+    fontWeight: fontWeight.semibold,
+    marginBottom: spacing[1],
+  },
+  articleListMeta: {
+    fontSize: fontSize.sm,
+  },
+  comingSoonCard: {
+    padding: spacing[5],
+    borderRadius: spacing[3],
+    borderWidth: 1,
+    alignItems: 'center',
+  },
+  comingSoonTitle: {
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.semibold,
+    marginBottom: spacing[2],
+  },
+  comingSoonText: {
+    fontSize: fontSize.sm,
+    textAlign: 'center',
   },
 
 });

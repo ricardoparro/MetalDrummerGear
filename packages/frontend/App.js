@@ -11674,21 +11674,22 @@ function DrummerVsPage({ comparisonSlug, theme, onBack, onSelectDrummer, drummer
         const data = getComparisonBySlugWithDynamic(comparisonSlug, drummers);
         setLoadState({ isLoading: false, comparison: data });
         
-        // Load existing votes from localStorage
-        if (Platform.OS === 'web' && typeof localStorage !== 'undefined') {
-          const storedVote = localStorage.getItem(`vs-vote-${comparisonSlug}`);
-          if (storedVote) {
-            setVote(storedVote);
-            setHasVoted(true);
-          }
-          const storedVotes = localStorage.getItem(`vs-votes-${comparisonSlug}`);
-          if (storedVotes) {
-            setVotes(JSON.parse(storedVotes));
-          } else {
-            const seed = { drummer1: Math.floor(Math.random() * 50) + 20, drummer2: Math.floor(Math.random() * 50) + 20 };
-            setVotes(seed);
-            localStorage.setItem(`vs-votes-${comparisonSlug}`, JSON.stringify(seed));
-          }
+        // Load votes from API (persistent across all users)
+        if (Platform.OS === 'web') {
+          fetch(`/api/battles/vote?battleId=${comparisonSlug}`)
+            .then(res => res.json())
+            .then(data => {
+              if (mounted) {
+                setVotes({ drummer1: data.votes?.drummer1 || 0, drummer2: data.votes?.drummer2 || 0 });
+                if (data.hasVoted) {
+                  setHasVoted(true);
+                  // Check localStorage for which choice they made
+                  const storedVote = localStorage.getItem(`vs-vote-${comparisonSlug}`);
+                  if (storedVote) setVote(storedVote);
+                }
+              }
+            })
+            .catch(err => console.error('Failed to load votes:', err));
         }
       }
     });
@@ -11711,18 +11712,36 @@ function DrummerVsPage({ comparisonSlug, theme, onBack, onSelectDrummer, drummer
     }
   }, [comparison, drummer1, drummer2]);
 
-  const handleVote = (choice) => {
+  const handleVote = async (choice) => {
     if (hasVoted) return;
     
+    // Optimistic update
     setVote(choice);
     setHasVoted(true);
-    
     const newVotes = { ...votes, [choice]: votes[choice] + 1 };
     setVotes(newVotes);
     
+    // Store choice locally (to remember which one they picked)
     if (Platform.OS === 'web' && typeof localStorage !== 'undefined') {
       localStorage.setItem(`vs-vote-${comparisonSlug}`, choice);
-      localStorage.setItem(`vs-votes-${comparisonSlug}`, JSON.stringify(newVotes));
+    }
+
+    // Send vote to API
+    if (Platform.OS === 'web') {
+      try {
+        const res = await fetch(`/api/battles/vote?battleId=${comparisonSlug}`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ choice }),
+        });
+        const data = await res.json();
+        // Update with server counts
+        if (data.votes) {
+          setVotes({ drummer1: data.votes.drummer1, drummer2: data.votes.drummer2 });
+        }
+      } catch (err) {
+        console.error('Failed to submit vote:', err);
+      }
     }
 
     if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {

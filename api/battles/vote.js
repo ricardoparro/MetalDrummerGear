@@ -1,21 +1,7 @@
-// Vercel Serverless Function - Battle Vote API (Issue #689)
-// Handles vote submission and retrieval for drummer battles
+// Vercel Serverless Function - Battle Vote API
+// Uses Vercel KV for persistent vote storage across all users
 
-// In-memory vote storage (for MVP - would use database in production)
-// Note: This resets on cold starts. For production, use Vercel KV, Redis, or a database.
-const battleVotes = new Map();
-
-/**
- * Get or initialize battle vote counts
- * @param {string} battleId 
- * @returns {{ votes1: number, votes2: number }}
- */
-function getVotes(battleId) {
-  if (!battleVotes.has(battleId)) {
-    battleVotes.set(battleId, { votes1: 0, votes2: 0 });
-  }
-  return battleVotes.get(battleId);
-}
+import { kv } from '@vercel/kv';
 
 /**
  * Calculate ISO week number
@@ -37,7 +23,79 @@ function getCurrentBattleId() {
   return `battle-${year}-W${weekNum}`;
 }
 
-export default function handler(req, res) {
+/**
+ * Get vote counts for a battle
+ */
+async function getVotes(battleId) {
+  try {
+    const votes = await kv.hgetall(`votes:${battleId}`);
+    return {
+      drummer1: parseInt(votes?.drummer1 || '0', 10),
+      drummer2: parseInt(votes?.drummer2 || '0', 10),
+    };
+  } catch (error) {
+    console.error('KV read error:', error);
+    // Fallback to zero votes if KV not configured
+    return { drummer1: 0, drummer2: 0 };
+  }
+}
+
+/**
+ * Increment vote for a drummer
+ */
+async function addVote(battleId, choice) {
+  try {
+    const field = choice === 'drummer1' ? 'drummer1' : 'drummer2';
+    await kv.hincrby(`votes:${battleId}`, field, 1);
+    return true;
+  } catch (error) {
+    console.error('KV write error:', error);
+    return false;
+  }
+}
+
+/**
+ * Check if IP has already voted (rate limiting)
+ */
+async function hasVoted(battleId, visitorId) {
+  try {
+    const voted = await kv.sismember(`voted:${battleId}`, visitorId);
+    return voted === 1;
+  } catch (error) {
+    console.error('KV check error:', error);
+    return false;
+  }
+}
+
+/**
+ * Mark visitor as having voted
+ */
+async function markVoted(battleId, visitorId) {
+  try {
+    await kv.sadd(`voted:${battleId}`, visitorId);
+    // Expire voted set after 1 week
+    await kv.expire(`voted:${battleId}`, 60 * 60 * 24 * 7);
+    return true;
+  } catch (error) {
+    console.error('KV mark error:', error);
+    return false;
+  }
+}
+
+/**
+ * Generate a simple visitor ID from IP and user agent
+ */
+function getVisitorId(req) {
+  const ip = req.headers['x-forwarded-for']?.split(',')[0] || 
+             req.headers['x-real-ip'] || 
+             'unknown';
+  const ua = req.headers['user-agent'] || '';
+  // Simple hash for privacy
+  const hash = Buffer.from(ip + ua.slice(0, 50)).toString('base64').slice(0, 16);
+  return hash;
+}
+
+export default async function handler(req, res) {
   // CORS headers
   res.setHeader('Access-Control-Allow-Origin', '*');
   res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
@@ -49,70 +107,59 @@ export default function handler(req, res) {
   }
 
   const battleId = req.query.battleId || getCurrentBattleId();
+  const visitorId = getVisitorId(req);
 
-  // GET - Retrieve current vote counts
+  // GET - Fetch current vote counts
   if (req.method === 'GET') {
-    const votes = getVotes(battleId);
+    const votes = await getVotes(battleId);
+    const alreadyVoted = await hasVoted(battleId, visitorId);
+    
     return res.status(200).json({
-      success: true,
       battleId,
-      votes1: votes.votes1,
-      votes2: votes.votes2,
-      total: votes.votes1 + votes.votes2,
+      votes,
+      total: votes.drummer1 + votes.drummer2,
+      hasVoted: alreadyVoted,
     });
   }
 
   // POST - Submit a vote
   if (req.method === 'POST') {
-    try {
-      const { drummerId, drummerPosition } = req.body;
+    const { choice } = req.body;
 
-      if (!drummerId || !drummerPosition) {
-        return res.status(400).json({
-          success: false,
-          error: 'Missing drummerId or drummerPosition',
-        });
-      }
+    // Validate choice
+    if (!choice || !['drummer1', 'drummer2'].includes(choice)) {
+      return res.status(400).json({ error: 'Invalid choice. Must be "drummer1" or "drummer2".' });
+    }
 
-      if (drummerPosition !== 1 && drummerPosition !== 2) {
-        return res.status(400).json({
-          success: false,
-          error: 'drummerPosition must be 1 or 2',
-        });
-      }
-
-      const votes = getVotes(battleId);
-      
-      // Increment vote count
-      if (drummerPosition === 1) {
-        votes.votes1 += 1;
-      } else {
-        votes.votes2 += 1;
-      }
-
-      battleVotes.set(battleId, votes);
-
+    // Check if already voted
+    const alreadyVoted = await hasVoted(battleId, visitorId);
+    if (alreadyVoted) {
+      const votes = await getVotes(battleId);
       return res.status(200).json({
-        success: true,
-        battleId,
-        drummerId,
-        votes1: votes.votes1,
-        votes2: votes.votes2,
-        total: votes.votes1 + votes.votes2,
-        message: 'Vote recorded successfully!',
-      });
-    } catch (error) {
-      console.error('Vote error:', error);
-      return res.status(500).json({
         success: false,
-        error: 'Failed to record vote',
+        error: 'Already voted',
+        battleId,
+        votes,
+        total: votes.drummer1 + votes.drummer2,
       });
     }
+
+    // Add vote
+    const success = await addVote(battleId, choice);
+    if (success) {
+      await markVoted(battleId, visitorId);
+    }
+
+    // Return updated counts
+    const votes = await getVotes(battleId);
+    
+    return res.status(200).json({
+      success,
+      battleId,
+      votes,
+      total: votes.drummer1 + votes.drummer2,
+    });
   }
 
-  // Method not allowed
-  return res.status(405).json({
-    success: false,
-    error: 'Method not allowed',
-  });
+  return res.status(405).json({ error: 'Method not allowed' });
 }

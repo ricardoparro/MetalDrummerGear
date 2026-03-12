@@ -1,0 +1,242 @@
+# Article Ideas Queue — MetalForge
+
+*Managed by Article Writer Agent. Updated daily.*
+
+---
+
+## 📥 Queue (Ready to Write)
+
+### 💡 [IDEA-001] What's In Dave Lombardo's Kit in 2026
+
+**Type:** drummer-kit
+**SEO Keywords:** dave lombardo drum kit, dave lombardo setup, slayer drummer gear
+**Search Volume:** High
+**Data Available:** Yes (drummerId: 4)
+**Priority:** 5
+
+**Outline:**
+1. Introduction — The Godfather of Double Bass
+2. Current Kit Setup (drums, cymbals, hardware)
+3. Signature Gear & Endorsements
+4. How His Setup Evolved (Slayer → Suicidal → Mr. Bungle)
+5. Where to Buy Similar Gear (affiliate links)
+
+**Status:** IDEA
+
+---
+
+### 💡 [IDEA-002] Zildjian vs Sabian: Which Cymbals for Metal?
+
+**Type:** gear-vs
+**SEO Keywords:** zildjian vs sabian metal, best metal cymbals, zildjian sabian comparison
+**Search Volume:** High
+**Data Available:** Yes (from drummer gear data)
+**Priority:** 5
+
+**Outline:**
+1. Introduction — The Big Two
+2. Sound Characteristics Compared
+3. Metal-Specific Models (A Custom, AAX, etc.)
+4. Which Pros Use Which (from our DB)
+5. Price Comparison
+6. Verdict by Genre
+
+**Status:** IDEA
+
+---
+
+### 💡 [IDEA-003] Best Drum Pedals for Death Metal
+
+**Type:** genre-guide
+**SEO Keywords:** best drum pedals death metal, double bass pedals extreme metal
+**Search Volume:** Medium-High
+**Data Available:** Yes (can aggregate from drummers)
+**Priority:** 4
+
+**Outline:**
+1. What Makes a Good Death Metal Pedal
+2. Top 5 Pedals Used by Death Metal Pros
+3. Budget Options
+4. Pro-Level Options
+5. Speed vs Feel Trade-offs
+
+**Status:** IDEA
+
+---
+
+### 💡 [IDEA-004] Reign in Blood Drum Setup: Dave Lombardo's Gear
+
+**Type:** album-breakdown
+**SEO Keywords:** reign in blood drums, dave lombardo 1986 kit, slayer drum sound
+**Search Volume:** Medium
+**Data Available:** Partial (need research)
+**Priority:** 4
+
+**Outline:**
+1. The Album That Defined Thrash
+2. Studio Setup & Recording
+3. Drum Kit Breakdown
+4. Cymbal Selection
+5. Recording Techniques
+6. Legacy & Influence
+
+**Status:** IDEA
+
+---
+
+### 💡 [IDEA-005] What's In Joey Jordison's Legendary Kit
+
+**Type:** drummer-kit
+**SEO Keywords:** joey jordison drum kit, slipknot drummer gear, joey jordison setup
+**Search Volume:** High
+**Data Available:** Yes (drummerId: 2)
+**Priority:** 5
+
+**Outline:**
+1. Tribute — The Legacy
+2. His Signature Pearl Kit
+3. Cymbal Setup (Paiste)
+4. The Rotating Drum Riser
+5. Evolution Through Slipknot Albums
+6. Gear You Can Still Buy Today
+
+**Status:** IDEA
+
+---
+
+### 💡 [IDEA-006] Tama vs Pearl: Battle of the Metal Drum Giants
+
+**Type:** gear-vs
+**SEO Keywords:** tama vs pearl drums, best metal drum kit, tama pearl comparison
+**Search Volume:** High
+**Data Available:** Yes (from drummer gear data)
+**Priority:** 5
+
+**Outline:**
+1. Brand History & Metal Credentials
+2. Shell Construction Compared
+3. Hardware Quality
+4. Which Pros Use Which
+5. Price Points
+6. Best Models for Metal
+
+**Status:** IDEA
+
+---
+
+### 💡 [IDEA-007] Best Snare Drums for Thrash Metal
+
+**Type:** genre-guide
+**SEO Keywords:** best snare drum thrash metal, metal snare drums, thrash snare sound
+**Search Volume:** Medium
+**Data Available:** Yes (can aggregate from drummers)
+**Priority:** 4
+
+**Outline:**
+1. The Thrash Snare Sound (what makes it)
+2. Classic Snares Used on Legendary Albums
+3. Modern Options
+4. Size & Material Guide
+5. Budget to Pro Recommendations
+
+**Status:** IDEA
+
+---
+
+### 💡 [IDEA-008] How to Get George Kollias' Speed: Technique & Gear
+
+**Type:** technique
+**SEO Keywords:** george kollias technique, fastest drummer, extreme metal drumming
+**Search Volume:** Medium
+**Data Available:** Yes (drummerId: 6)
+**Priority:** 3
+
+**Outline:**
+1. Who is George Kollias
+2. His Unique Technique
+3. Training Regimen (from interviews)
+4. Gear That Enables Speed
+5. Exercises to Try
+
+**Status:** IDEA
+
+---
+
+### 💡 [IDEA-009] Iowa Drum Setup: Joey Jordison's Heaviest Sound
+
+**Type:** album-breakdown
+**SEO Keywords:** iowa album drums, slipknot iowa gear, joey jordison iowa
+**Search Volume:** Medium
+**Data Available:** Partial
+**Priority:** 4
+
+**Outline:**
+1. The Making of Iowa
+2. Studio & Production
+3. Joey's Kit for Iowa Sessions
+4. The Heaviest Drum Sound
+5. Recording Techniques
+6. Track-by-Track Analysis
+
+**Status:** IDEA
+
+---
+
+### 💡 [IDEA-010] What's In Danny Carey's Mind-Bending Kit
+
+**Type:** drummer-kit
+**SEO Keywords:** danny carey drum kit, tool drummer gear, danny carey setup
+**Search Volume:** High
+**Data Available:** Yes (drummerId: 14)
+**Priority:** 5
+
+**Outline:**
+1. Introduction — The Thinking Man's Drummer
+2. Current Sonor Setup
+3. Electronic Integration (Mandala Pads)
+4. Cymbal Selection Philosophy
+5. Custom & Rare Pieces
+6. Where to Find Similar Gear
+
+**Status:** IDEA
+
+---
+
+## ✍️ In Progress
+
+*None currently*
+
+---
+
+## 📝 In Review
+
+*None currently*
+
+---
+
+## ✅ Published
+
+| Date | Article | URL | Views |
+|------|---------|-----|-------|
+| 2026-03-08 | Master of Puppets Drum Setup | /articles/master-of-puppets-drum-setup | - |
+| 2026-03-08 | Reign in Blood Drum Setup | /articles/reign-in-blood-drum-setup | - |
+| 2026-03-08 | Iowa Drum Setup | /articles/iowa-drum-setup | - |
+| 2026-03-08 | Vulgar Display of Power Drum Setup | /articles/vulgar-display-of-power-drum-setup | - |
+| 2026-03-08 | Number of the Beast Drum Setup | /articles/number-of-the-beast-drum-setup | - |
+
+---
+
+## 💡 Idea Backlog (Lower Priority)
+
+- Best Sticks for Blast Beats
+- How to Tune Drums for Metal
+- Budget Metal Drum Kit Guide (<$1000)
+- Electronic vs Acoustic for Metal
+- Double Bass Pedal Technique Guide
+- Metal Drumming Warm-Up Routine
+- [Every drummer we have] — "What's in X's Kit" series
+- [Every album breakdown potential]
+
+---
+
+*Last updated: 2026-03-12*

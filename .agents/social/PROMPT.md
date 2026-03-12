@@ -70,10 +70,12 @@ Before engaging with ANY account, verify:
 - Account appears legitimate (not spam/bot)
 - Skip engagement if any red flags
 
-🚫 **BLOCKED ACCOUNTS (never engage):**
-- FCK.FM / FCK.FM Magazine / @faborockmagazine
+🚫 **BLOCKED ACCOUNTS (never engage, never mention in reports):**
+- FCK.FM / FCK.FM Magazine / @faborockmagazine / @faborock
 - Any account with "fck" or similar in the name
 - металлшлюха (or similar inappropriate usernames)
+
+⚠️ **IMPORTANT:** Do NOT mention blocked accounts in reports, even if they engage with us. Ignore them completely.
 
 ## Hashtags Library
 - #MetalDrumming

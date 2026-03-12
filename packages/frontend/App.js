@@ -14247,21 +14247,51 @@ function HeroSection({
         <View style={styles.heroSearchContainer}>
           <View style={[styles.heroSearchWrapper, { backgroundColor: theme.card, borderColor: theme.border }]}>
             <Text style={[styles.heroSearchIcon, { color: theme.secondaryText }]}>🔍</Text>
-            <TextInput
-              ref={searchInputRef}
-              style={[styles.heroSearchInput, { color: theme.text }]}
-              placeholder="Search drummers, bands, gear..."
-              placeholderTextColor={theme.secondaryText}
-              value={searchValue}
-              onChangeText={onSearchChange}
-              onFocus={onSearchFocus}
-              accessibilityLabel="Search drummers by name, band, or gear brand"
-              inputMode="text"
-              enterKeyHint="search"
-              autoCapitalize="none"
-              autoCorrect={false}
-              autoComplete="off"
-            />
+            {Platform.OS === 'web' ? (
+              <input
+                ref={searchInputRef}
+                type="text"
+                value={searchValue}
+                onChange={(e) => onSearchChange(e.target.value)}
+                onFocus={onSearchFocus}
+                placeholder="Search drummers, bands, gear..."
+                aria-label="Search drummers by name, band, or gear brand"
+                autoCapitalize="off"
+                autoCorrect="off"
+                autoComplete="off"
+                spellCheck="false"
+                enterKeyHint="search"
+                style={{
+                  flex: 1,
+                  border: 'none',
+                  outline: 'none',
+                  background: 'transparent',
+                  fontSize: 16,
+                  color: theme.text,
+                  fontFamily: 'inherit',
+                  height: '100%',
+                  minHeight: 48,
+                  padding: 0,
+                  WebkitAppearance: 'none',
+                }}
+              />
+            ) : (
+              <TextInput
+                ref={searchInputRef}
+                style={[styles.heroSearchInput, { color: theme.text }]}
+                placeholder="Search drummers, bands, gear..."
+                placeholderTextColor={theme.secondaryText}
+                value={searchValue}
+                onChangeText={onSearchChange}
+                onFocus={onSearchFocus}
+                accessibilityLabel="Search drummers by name, band, or gear brand"
+                inputMode="text"
+                enterKeyHint="search"
+                autoCapitalize="none"
+                autoCorrect={false}
+                autoComplete="off"
+              />
+            )}
             {searchValue ? (
               <TouchableOpacity onPress={onSearchClear} style={styles.heroSearchClearButton}>
                 <Text style={[styles.heroSearchClearText, { color: theme.secondaryText }]}>✕</Text>

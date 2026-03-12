@@ -64,6 +64,48 @@
 
 **Data:** 2026-03-05 09:00
 
+### 💡 [CEO-007] "Metal Drummer Gear Statistics" Data Hub
+
+**Origem:** Competitive analysis — Nobody aggregates gear data; we have unique dataset to leverage
+
+**Hipótese:** Se criarmos uma página de estatísticas agregadas então:
+- Captura high-intent searches ("best cymbals for metal", "most popular metal drums")
+- Creates backlink magnet (gear forums, Reddit, blogs cite our stats)
+- Establishes authority (we're the data source for metal drummer gear)
+- Drives discovery (users explore individual drummers after seeing stats)
+- Evergreen content (stats update automatically as we add drummers)
+- Unique differentiator (competitors have profiles, not insights)
+
+**Impacto Curto (1-7d):** ⭐⭐⭐ (SEO for gear-specific searches)
+**Impacto Médio (1-3m):** ⭐⭐⭐ (Backlinks build, authority grows)
+**Impacto Longo (3-12m):** ⭐⭐ (Data moat, becomes reference resource)
+**Score Total:** 8⭐
+
+**Implementação:**
+- Aggregate page showing:
+  - Most popular cymbal brands (% breakdown + bar chart)
+  - Most used drum kit brands
+  - Average setup cost by subgenre (death/thrash/progressive)
+  - Most common snare drums
+  - Top 10 most expensive individual gear items
+- Each stat links to relevant drummer profiles
+- Schema markup for dataset
+- Social share buttons
+- Auto-updates as new drummers added
+
+**Métrica de sucesso:**
+- Ranks for "best [gear type] for metal" within 2 weeks
+- 500+ page views first month
+- 10+ backlinks within 3 months
+- 15% conversion to drummer profile clicks
+- Featured in at least 1 gear forum discussion
+
+**Blockers externos:** Não
+
+**Decisão:** IMPLEMENTAR
+
+**Data:** 2026-03-12 09:00
+
 <!-- CEO adiciona novas ideias aqui -->
 
 

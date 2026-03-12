@@ -1,11 +1,11 @@
 {
   "account": "@MetalDrumGear",
   "url": "https://x.com/MetalDrumGear",
-  "followers": 4,
+  "followers": 6,
   "following": 22,
   "target": 5000,
   "posts": 48,
-  "lastChecked": "2026-03-06",
+  "lastChecked": "2026-03-12",
   "launched": "2026-02-06",
   "weeklyGrowth": [
     {
@@ -41,6 +41,13 @@
       "growth": 0,
       "posts": 48,
       "notes": "Morning run (11h): Checked notifications - [blocked] & Geoff Lupton liked Metallica reply. Verified engagement continues ([removed], Jake Savich, L Swift). Attempted Mario Duplantier (Gojira) DYK post about recycled cymbals. Browser automation partial - post composer issues with character limit."
+    },
+    {
+      "date": "2026-03-12",
+      "followers": 6,
+      "growth": 2,
+      "posts": 48,
+      "notes": "Morning run (11h): +2 new followers (cara, drew smith). Strong verified engagement from recent replies. Attempted Revolver Magazine reply (A7X Afterlife/The Rev). Browser automation dialog issues prevented completion. Ready for Joey Jordison DYK + additional engagement."
     }
   ],
   "topPosts": [],

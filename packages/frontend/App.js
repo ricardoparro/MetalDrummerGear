@@ -21891,7 +21891,12 @@ const styles = StyleSheet.create({
     padding: 0,
     margin: 0,
     ...Platform.select({
-      web: { outline: 'none' },
+      web: {
+        outline: 'none',
+        // Explicit interaction styles (fix for potential Proxy interference)
+        cursor: 'text',
+        pointerEvents: 'auto',
+      },
     }),
   },
   heroSearchClearButton: {

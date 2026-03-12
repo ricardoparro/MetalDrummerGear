@@ -14629,7 +14629,9 @@ function DrummerList({
   };
 
   // Header content that scrolls with the list
-  const ListHeader = () => (
+  // NOTE: Must be a React element (not a component type function) to prevent FlatList
+  // from unmounting/remounting on re-render, which causes TextInput to lose focus.
+  const listHeaderElement = (
     <>
       {/* Hero Section with prominent search CTA (Issue #493) */}
       <HeroSection
@@ -14865,7 +14867,7 @@ function DrummerList({
           index={index}
         />
       )}
-      ListHeaderComponent={ListHeader}
+      ListHeaderComponent={listHeaderElement}
       ListEmptyComponent={ListEmpty}
       ListFooterComponent={ListFooter}
       contentContainerStyle={styles.listContainer}

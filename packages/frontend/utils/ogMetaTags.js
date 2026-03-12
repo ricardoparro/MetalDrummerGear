@@ -666,6 +666,53 @@ export function updateSoundLikeGuideMeta(guide = null) {
   });
 }
 
+/**
+ * Update OG meta for gear statistics page (Issue #695)
+ */
+export function updateGearStatsMeta() {
+  updateOgMeta({
+    title: 'Metal Drummer Gear Statistics - Brand Analysis & Cost Insights | MetalForge',
+    description: 'Discover what gear professional metal drummers actually use. Statistics on cymbal brands, drum kits, snare drums, and average setup costs by genre. Data from 60+ metal drummers.',
+    url: '/stats/gear-insights',
+    keywords: 'metal drummer gear statistics, best cymbals for metal, most popular metal drums, metal drum setup cost, drummer gear brands, professional drum equipment',
+  });
+
+  // Add Dataset schema for SEO (Schema.org Dataset)
+  if (typeof document !== 'undefined') {
+    const datasetSchema = {
+      '@context': 'https://schema.org',
+      '@type': 'Dataset',
+      name: 'Metal Drummer Gear Statistics',
+      description: 'Comprehensive gear statistics from 60+ professional metal drummers including brand preferences, equipment costs, and genre-specific insights.',
+      url: `${BASE_URL}/stats/gear-insights`,
+      creator: {
+        '@type': 'Organization',
+        name: 'MetalForge',
+        url: BASE_URL,
+      },
+      datePublished: '2026-03-12',
+      dateModified: new Date().toISOString().split('T')[0],
+      keywords: ['metal drumming', 'drum equipment', 'cymbal brands', 'drum kit statistics', 'professional drummers'],
+      license: 'https://creativecommons.org/licenses/by-nc/4.0/',
+      variableMeasured: [
+        'Cymbal brand usage percentage',
+        'Drum kit brand usage percentage',
+        'Average setup cost by genre',
+        'Snare drum model frequency',
+      ],
+    };
+
+    let script = document.querySelector('script[data-schema="gear-stats-dataset"]');
+    if (!script) {
+      script = document.createElement('script');
+      script.type = 'application/ld+json';
+      script.setAttribute('data-schema', 'gear-stats-dataset');
+      document.head.appendChild(script);
+    }
+    script.textContent = JSON.stringify(datasetSchema);
+  }
+}
+
 export default {
   updateOgMeta,
   resetToHomepageMeta,
@@ -692,4 +739,5 @@ export default {
   updateQuotesPageMeta,
   updateBattleMeta,
   updateSoundLikeGuideMeta,
+  updateGearStatsMeta,
 };

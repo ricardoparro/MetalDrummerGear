@@ -69,6 +69,7 @@ import {
   updateBpmTapMeta,
   updateQuotesPageMeta,
   updateBattleMeta,
+  updateGearStatsMeta,
 } from './utils/ogMetaTags';
 
 // Skeleton Components for CLS Prevention
@@ -12849,6 +12850,375 @@ function QuotesPage({ theme, onBack, onSelectDrummer }) {
 }
 
 // ==========================================
+// GEAR STATISTICS PAGE (Issue #695)
+// Data hub with gear insights from all drummers
+// ==========================================
+
+/**
+ * Gear Statistics Page - Displays aggregated gear data across all drummers
+ * Targets SEO keywords: "best cymbals for metal", "most popular metal drums", etc.
+ */
+function GearStatsPage({ theme, onBack, onSelectDrummer }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const [stats, setStats] = useState(null);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
+
+  // Fetch stats from API
+  useEffect(() => {
+    fetch('/api/stats/gear-insights')
+      .then(res => {
+        if (!res.ok) throw new Error('Failed to fetch stats');
+        return res.json();
+      })
+      .then(data => {
+        setStats(data);
+        setLoading(false);
+      })
+      .catch(err => {
+        console.error('Failed to fetch gear stats:', err);
+        setError(err.message);
+        setLoading(false);
+      });
+  }, []);
+
+  // Update SEO meta tags
+  useEffect(() => {
+    updateGearStatsMeta();
+  }, []);
+
+  // Bar chart component for visual display
+  const BarChart = ({ data, valueKey = 'percentage', labelKey = 'brand', maxValue = 100 }) => (
+    <View style={styles.barChartContainer}>
+      {data.map((item, index) => (
+        <View key={index} style={styles.barChartRow}>
+          <Text style={[styles.barChartLabel, { color: theme.text }]}>
+            {item[labelKey]}
+          </Text>
+          <View style={styles.barChartBarContainer}>
+            <View
+              style={[
+                styles.barChartBar,
+                {
+                  width: `${(item[valueKey] / maxValue) * 100}%`,
+                  backgroundColor: theme.primary,
+                }
+              ]}
+            />
+          </View>
+          <Text style={[styles.barChartValue, { color: theme.secondaryText }]}>
+            {item[valueKey]}%
+          </Text>
+        </View>
+      ))}
+    </View>
+  );
+
+  if (loading) {
+    return (
+      <View style={[styles.container, { backgroundColor: theme.background }]}>
+        <View style={styles.centerContainer}>
+          <ActivityIndicator size="large" color={theme.text} />
+          <Text style={[styles.loadingText, { color: theme.secondaryText }]}>
+            Loading gear statistics...
+          </Text>
+        </View>
+      </View>
+    );
+  }
+
+  if (error || !stats) {
+    return (
+      <View style={[styles.container, { backgroundColor: theme.background }]}>
+        <View style={styles.centerContainer}>
+          <Text style={[styles.errorText, { color: theme.error }]}>
+            Failed to load statistics. Please try again.
+          </Text>
+          <TouchableOpacity
+            onPress={onBack}
+            style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          >
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Home</Text>
+          </TouchableOpacity>
+        </View>
+      </View>
+    );
+  }
+
+  return (
+    <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+      <View style={styles.detailContent}>
+        {/* Back button */}
+        <TouchableOpacity
+          onPress={onBack}
+          style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          accessibilityRole="button"
+          accessibilityLabel="Go back to home"
+        >
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Home</Text>
+        </TouchableOpacity>
+
+        {/* Header */}
+        <View style={styles.statsPageHeader}>
+          <Text style={[styles.statsPageTitle, { color: theme.text }]} accessibilityRole="header">
+            📊 Metal Drummer Gear Statistics
+          </Text>
+          <Text style={[styles.statsPageSubtitle, { color: theme.secondaryText }]}>
+            Data insights from {stats.overallStats.totalDrummers} professional metal drummers
+          </Text>
+        </View>
+
+        {/* Overview Cards */}
+        <View style={[styles.statsOverview, isMobile && styles.statsOverviewMobile]}>
+          <View style={[styles.statsCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.statsCardValue, { color: theme.primary }]}>
+              €{stats.overallStats.averageKitCost.toLocaleString()}
+            </Text>
+            <Text style={[styles.statsCardLabel, { color: theme.secondaryText }]}>
+              Average Kit Cost
+            </Text>
+          </View>
+          <View style={[styles.statsCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.statsCardValue, { color: theme.primary }]}>
+              {stats.overallStats.totalDrummers}
+            </Text>
+            <Text style={[styles.statsCardLabel, { color: theme.secondaryText }]}>
+              Drummers Analyzed
+            </Text>
+          </View>
+          <View style={[styles.statsCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.statsCardValue, { color: theme.primary }]}>
+              €{stats.overallStats.mostExpensiveKit.kitCost.toLocaleString()}
+            </Text>
+            <Text style={[styles.statsCardLabel, { color: theme.secondaryText }]}>
+              Most Expensive Kit
+            </Text>
+          </View>
+        </View>
+
+        {/* Section: Most Popular Cymbal Brands */}
+        <View style={[styles.statsSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.statsSectionTitle, { color: theme.text }]}>
+            🥁 Most Popular Cymbal Brands
+          </Text>
+          <Text style={[styles.statsSectionDesc, { color: theme.secondaryText }]}>
+            Breakdown of cymbal brands used by professional metal drummers
+          </Text>
+          <BarChart data={stats.cymbalStats} labelKey="brand" />
+          <View style={styles.statsDrummerLinks}>
+            {stats.cymbalStats.slice(0, 3).map((item, idx) => (
+              <View key={idx} style={styles.statsLinkGroup}>
+                <Text style={[styles.statsLinkTitle, { color: theme.text }]}>{item.brand} Users:</Text>
+                <View style={styles.statsLinkList}>
+                  {item.drummers.slice(0, 4).map((d, i) => (
+                    <TouchableOpacity
+                      key={d.id}
+                      onPress={() => onSelectDrummer(d.id)}
+                      style={[styles.statsLinkChip, { backgroundColor: theme.border }]}
+                    >
+                      <Text style={[styles.statsLinkChipText, { color: theme.primary }]}>{d.name}</Text>
+                    </TouchableOpacity>
+                  ))}
+                  {item.drummers.length > 4 && (
+                    <Text style={[styles.statsMoreText, { color: theme.secondaryText }]}>
+                      +{item.drummers.length - 4} more
+                    </Text>
+                  )}
+                </View>
+              </View>
+            ))}
+          </View>
+        </View>
+
+        {/* Section: Most Used Drum Kit Brands */}
+        <View style={[styles.statsSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.statsSectionTitle, { color: theme.text }]}>
+            🪘 Most Used Drum Kit Brands
+          </Text>
+          <Text style={[styles.statsSectionDesc, { color: theme.secondaryText }]}>
+            Which drum manufacturers dominate the metal scene
+          </Text>
+          <BarChart data={stats.drumStats} labelKey="brand" />
+          <View style={styles.statsDrummerLinks}>
+            {stats.drumStats.slice(0, 3).map((item, idx) => (
+              <View key={idx} style={styles.statsLinkGroup}>
+                <Text style={[styles.statsLinkTitle, { color: theme.text }]}>{item.brand} Users:</Text>
+                <View style={styles.statsLinkList}>
+                  {item.drummers.slice(0, 4).map((d, i) => (
+                    <TouchableOpacity
+                      key={d.id}
+                      onPress={() => onSelectDrummer(d.id)}
+                      style={[styles.statsLinkChip, { backgroundColor: theme.border }]}
+                    >
+                      <Text style={[styles.statsLinkChipText, { color: theme.primary }]}>{d.name}</Text>
+                    </TouchableOpacity>
+                  ))}
+                  {item.drummers.length > 4 && (
+                    <Text style={[styles.statsMoreText, { color: theme.secondaryText }]}>
+                      +{item.drummers.length - 4} more
+                    </Text>
+                  )}
+                </View>
+              </View>
+            ))}
+          </View>
+        </View>
+
+        {/* Section: Average Setup Cost by Genre */}
+        <View style={[styles.statsSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.statsSectionTitle, { color: theme.text }]}>
+            💰 Average Setup Cost by Genre
+          </Text>
+          <Text style={[styles.statsSectionDesc, { color: theme.secondaryText }]}>
+            How much does a professional metal drum setup cost by subgenre?
+          </Text>
+          <View style={styles.statsGenreTable}>
+            {stats.genreStats.map((item, idx) => (
+              <View
+                key={idx}
+                style={[
+                  styles.statsGenreRow,
+                  idx % 2 === 0 && { backgroundColor: theme.border + '30' }
+                ]}
+              >
+                <Text style={[styles.statsGenreName, { color: theme.text }]}>{item.genre}</Text>
+                <View style={styles.statsGenreData}>
+                  <Text style={[styles.statsGenreCost, { color: theme.primary }]}>
+                    €{item.averageCost.toLocaleString()}
+                  </Text>
+                  <Text style={[styles.statsGenreSample, { color: theme.secondaryText }]}>
+                    (n={item.sampleSize})
+                  </Text>
+                </View>
+              </View>
+            ))}
+          </View>
+        </View>
+
+        {/* Section: Most Common Snare Drums */}
+        <View style={[styles.statsSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.statsSectionTitle, { color: theme.text }]}>
+            🥁 Most Common Snare Drums
+          </Text>
+          <Text style={[styles.statsSectionDesc, { color: theme.secondaryText }]}>
+            Top 10 snare drum models used by metal drummers
+          </Text>
+          <View style={styles.statsSnareList}>
+            {stats.snareStats.map((item, idx) => (
+              <View
+                key={idx}
+                style={[
+                  styles.statsSnareRow,
+                  { borderBottomColor: theme.border }
+                ]}
+              >
+                <Text style={[styles.statsSnareRank, { color: theme.primary }]}>#{idx + 1}</Text>
+                <View style={styles.statsSnareInfo}>
+                  <Text style={[styles.statsSnareName, { color: theme.text }]}>{item.snare}</Text>
+                  <View style={styles.statsLinkList}>
+                    {item.drummers.slice(0, 3).map((d, i) => (
+                      <TouchableOpacity
+                        key={d.id}
+                        onPress={() => onSelectDrummer(d.id)}
+                      >
+                        <Text style={[styles.statsSnareLink, { color: theme.primary }]}>{d.name}</Text>
+                      </TouchableOpacity>
+                    ))}
+                    {item.drummers.length > 3 && (
+                      <Text style={[styles.statsMoreText, { color: theme.secondaryText }]}>
+                        +{item.drummers.length - 3} more
+                      </Text>
+                    )}
+                  </View>
+                </View>
+                <Text style={[styles.statsSnareCount, { color: theme.secondaryText }]}>
+                  {item.count} {item.count === 1 ? 'drummer' : 'drummers'}
+                </Text>
+              </View>
+            ))}
+          </View>
+        </View>
+
+        {/* Section: Top 10 Most Expensive Setups */}
+        <View style={[styles.statsSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.statsSectionTitle, { color: theme.text }]}>
+            💎 Top 10 Most Expensive Drum Setups
+          </Text>
+          <Text style={[styles.statsSectionDesc, { color: theme.secondaryText }]}>
+            The most valuable professional metal drum kits
+          </Text>
+          <View style={styles.statsExpensiveList}>
+            {stats.expensiveSetups.map((item, idx) => (
+              <TouchableOpacity
+                key={item.id}
+                onPress={() => onSelectDrummer(item.id)}
+                style={[
+                  styles.statsExpensiveRow,
+                  { borderBottomColor: theme.border }
+                ]}
+              >
+                <Text style={[styles.statsExpensiveRank, { color: theme.primary }]}>#{idx + 1}</Text>
+                <View style={styles.statsExpensiveInfo}>
+                  <Text style={[styles.statsExpensiveName, { color: theme.text }]}>{item.name}</Text>
+                  <Text style={[styles.statsExpensiveGenre, { color: theme.secondaryText }]}>{item.genre}</Text>
+                  <Text style={[styles.statsExpensiveGear, { color: theme.secondaryText }]} numberOfLines={1}>
+                    {item.drums} + {item.cymbals.split(' ')[0]}
+                  </Text>
+                </View>
+                <Text style={[styles.statsExpensiveCost, { color: theme.primary }]}>
+                  €{item.kitCost.toLocaleString()}
+                </Text>
+              </TouchableOpacity>
+            ))}
+          </View>
+        </View>
+
+        {/* Social Share Section */}
+        <View style={[styles.statsShareSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.statsShareTitle, { color: theme.text }]}>
+            Share These Insights
+          </Text>
+          <View style={styles.statsShareButtons}>
+            <TouchableOpacity
+              onPress={() => {
+                const text = `🥁 Metal Drummer Gear Statistics: Average setup costs €${stats.overallStats.averageKitCost.toLocaleString()}! Top cymbal brand: ${stats.cymbalStats[0].brand} (${stats.cymbalStats[0].percentage}%). Data from ${stats.overallStats.totalDrummers} pro drummers. Check it out: https://metalforge.io/stats/gear-insights`;
+                if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                  window.open(`https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}`, '_blank');
+                }
+              }}
+              style={[styles.statsShareButton, { backgroundColor: '#1DA1F2' }]}
+            >
+              <Text style={styles.statsShareButtonText}>Share on Twitter</Text>
+            </TouchableOpacity>
+            <TouchableOpacity
+              onPress={() => {
+                if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                  window.open(`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent('https://metalforge.io/stats/gear-insights')}`, '_blank');
+                }
+              }}
+              style={[styles.statsShareButton, { backgroundColor: '#4267B2' }]}
+            >
+              <Text style={styles.statsShareButtonText}>Share on Facebook</Text>
+            </TouchableOpacity>
+          </View>
+        </View>
+
+        {/* Footer with last updated */}
+        <View style={styles.statsFooter}>
+          <Text style={[styles.statsFooterText, { color: theme.secondaryText }]}>
+            Data last updated: {stats.overallStats.lastUpdated}
+          </Text>
+          <Text style={[styles.statsFooterText, { color: theme.secondaryText }]}>
+            Statistics based on verified gear information from {stats.overallStats.totalDrummers} professional metal drummers.
+          </Text>
+        </View>
+      </View>
+    </ScrollView>
+  );
+}
+
+// ==========================================
 // NEWS PAGE COMPONENTS (Issue #514)
 // Phase 6: Dedicated /news page
 // ==========================================
@@ -14545,6 +14915,14 @@ function isQuotesPage() {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
   const pathname = window.location.pathname;
   return pathname === '/quotes' || pathname.startsWith('/quotes?');
+}
+
+// Check if we're on the gear statistics page (Issue #695)
+function isGearStatsPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  const pathname = window.location.pathname;
+  return pathname === '/stats/gear-insights' || pathname === '/stats/gear-insights/' ||
+         pathname === '/stats' || pathname === '/stats/';
 }
 
 // Check if we're on a battle page based on URL (Issue #689)
@@ -18322,6 +18700,9 @@ function AppContent() {
   const [gearCategoryData, setGearCategoryData] = useState(null);
   const [loadingGearCategory, setLoadingGearCategory] = useState(false);
 
+  // Gear Statistics Page state (Issue #695)
+  const [showGearStats, setShowGearStats] = useState(() => isGearStatsPage());
+
   // Search and filter state
   const [filters, setFilters] = useState(() => getFiltersFromURL());
   const [searchValue, setSearchValue] = useState(() => getFiltersFromURL().search || '');
@@ -19223,6 +19604,7 @@ function AppContent() {
         setListSlug(null);
         setShowNewsPage(false);
         setShowGearNewsPage(false);
+        setShowGearStats(false);
         setShowDrummerVsIndex(false);
         setShowDrummerVsDetail(false);
         setDrummerVsSlug(null);
@@ -19262,6 +19644,7 @@ function AppContent() {
         setListSlug(null);
         setShowNewsPage(false);
         setShowGearNewsPage(false);
+        setShowGearStats(false);
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
@@ -19295,6 +19678,7 @@ function AppContent() {
         setListSlug(null);
         setShowNewsPage(false);
         setShowGearNewsPage(false);
+        setShowGearStats(false);
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
@@ -19304,6 +19688,7 @@ function AppContent() {
         // News page (Issue #514)
         setShowNewsPage(true);
         setShowGearNewsPage(false);
+        setShowGearStats(false);
         setShowTechniquesIndex(false);
         setShowTechniqueDetail(false);
         setTechniqueSlug(null);
@@ -19329,9 +19714,45 @@ function AppContent() {
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
+      } else if (isGearStatsPage()) {
+        // Gear Statistics page (Issue #695)
+        setShowGearStats(true);
+        setShowGearNewsPage(false);
+        setShowGearStats(false);
+        setShowNewsPage(false);
+        setShowBattlePage(false);
+        setBattleSlug(null);
+        setShowTechniquesIndex(false);
+        setShowTechniqueDetail(false);
+        setTechniqueSlug(null);
+        setShowGearComparisonsIndex(false);
+        setShowGearComparison(false);
+        setGearComparisonSlug(null);
+        setShowGenresList(false);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowKitBuilder(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowList(false);
+        setListSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+        // Update meta tags
+        updateGearStatsMeta();
       } else if (isGearNewsPage()) {
         // Gear News page (Issue #660)
         setShowGearNewsPage(true);
+        setShowGearStats(false);
         setShowNewsPage(false);
         setShowBattlePage(false);
         setBattleSlug(null);
@@ -19366,6 +19787,7 @@ function AppContent() {
         setShowBattlePage(true);
         setBattleSlug(slug);
         setShowGearNewsPage(false);
+        setShowGearStats(false);
         setShowNewsPage(false);
         setShowTechniquesIndex(false);
         setShowTechniqueDetail(false);
@@ -19403,6 +19825,7 @@ function AppContent() {
         setListSlug(null);
         setShowNewsPage(false);
         setShowGearNewsPage(false);
+        setShowGearStats(false);
         setShowTechniquesIndex(false);
         setShowTechniqueDetail(false);
         setTechniqueSlug(null);
@@ -19438,6 +19861,7 @@ function AppContent() {
         setListSlug(null);
         setShowNewsPage(false);
         setShowGearNewsPage(false);
+        setShowGearStats(false);
         setShowTechniquesIndex(false);
         setShowTechniqueDetail(false);
         setTechniqueSlug(null);
@@ -19470,6 +19894,7 @@ function AppContent() {
         setListSlug(null);
         setShowNewsPage(false);
         setShowGearNewsPage(false);
+        setShowGearStats(false);
         setShowTechniquesIndex(false);
         setShowTechniqueDetail(false);
         setTechniqueSlug(null);
@@ -19505,6 +19930,7 @@ function AppContent() {
         setArticleSlug(null);
         setShowNewsPage(false);
         setShowGearNewsPage(false);
+        setShowGearStats(false);
         setShowTechniquesIndex(false);
         setShowTechniqueDetail(false);
         setTechniqueSlug(null);
@@ -19536,6 +19962,7 @@ function AppContent() {
         setShowQuotes(false);
         setShowNewsPage(false);
         setShowGearNewsPage(false);
+        setShowGearStats(false);
         setShowBattlePage(false);
         setBattleSlug(null);
         setShowBioPage(false);
@@ -19809,6 +20236,7 @@ setShowList(false);
     setShowGearFinder(false);
     setShowNewsPage(false);
         setShowGearNewsPage(false);
+        setShowGearStats(false);
     setSelectedDrummer(null);
     setSelectedDrummerId(null);
     setSelectedGear(null);
@@ -19829,6 +20257,7 @@ setShowList(false);
     setShowGearFinder(false);
     setShowNewsPage(false);
         setShowGearNewsPage(false);
+        setShowGearStats(false);
     setSelectedDrummer(null);
     setSelectedDrummerId(null);
     setSelectedGear(null);
@@ -20313,6 +20742,7 @@ setShowList(false);
     setTechniqueSlug(null);
     setShowNewsPage(false);
         setShowGearNewsPage(false);
+        setShowGearStats(false);
     setShowBpmTap(false);
     setShowBpmRange(false);
     setShowBirthdayCalendar(false);
@@ -20844,12 +21274,28 @@ setShowList(false);
           onBack={() => {
             setShowNewsPage(false);
         setShowGearNewsPage(false);
+        setShowGearStats(false);
             if (Platform.OS === 'web' && typeof window !== 'undefined') {
               window.history.pushState({}, '', '/');
             }
           }}
           onNavigateToDrummer={handleSelectDrummer}
           onNavigateToBand={handleNavigateToBand}
+        />
+      );
+    }
+    // Gear Statistics Page (Issue #695)
+    if (showGearStats) {
+      return (
+        <GearStatsPage
+          theme={theme}
+          onBack={() => {
+            setShowGearStats(false);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/');
+            }
+          }}
+          onSelectDrummer={handleSelectDrummer}
         />
       );
     }
@@ -20860,6 +21306,7 @@ setShowList(false);
           theme={theme}
           onBack={() => {
             setShowGearNewsPage(false);
+        setShowGearStats(false);
             if (Platform.OS === 'web' && typeof window !== 'undefined') {
               window.history.pushState({}, '', '/');
             }
@@ -27651,6 +28098,259 @@ const styles = StyleSheet.create({
   battleInfoText: {
     fontSize: fontSize.sm,
     lineHeight: lineHeight.relaxed,
+  },
+
+  // ==========================================
+  // GEAR STATISTICS PAGE STYLES (Issue #695)
+  // ==========================================
+  
+  statsPageHeader: {
+    marginBottom: spacing[6],
+    marginTop: spacing[4],
+  },
+  statsPageTitle: {
+    fontSize: fontSize['3xl'],
+    fontWeight: fontWeight.bold,
+    marginBottom: spacing[2],
+  },
+  statsPageSubtitle: {
+    fontSize: fontSize.lg,
+  },
+  statsOverview: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: spacing[4],
+    marginBottom: spacing[6],
+  },
+  statsOverviewMobile: {
+    flexDirection: 'column',
+  },
+  statsCard: {
+    flex: 1,
+    minWidth: 140,
+    padding: spacing[4],
+    borderRadius: spacing[3],
+    borderWidth: 1,
+    alignItems: 'center',
+  },
+  statsCardValue: {
+    fontSize: fontSize['2xl'],
+    fontWeight: fontWeight.bold,
+    marginBottom: spacing[1],
+  },
+  statsCardLabel: {
+    fontSize: fontSize.sm,
+    textAlign: 'center',
+  },
+  statsSection: {
+    padding: spacing[5],
+    borderRadius: spacing[3],
+    borderWidth: 1,
+    marginBottom: spacing[4],
+  },
+  statsSectionTitle: {
+    fontSize: fontSize.xl,
+    fontWeight: fontWeight.bold,
+    marginBottom: spacing[2],
+  },
+  statsSectionDesc: {
+    fontSize: fontSize.sm,
+    marginBottom: spacing[4],
+  },
+  barChartContainer: {
+    marginBottom: spacing[4],
+  },
+  barChartRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    marginBottom: spacing[2],
+  },
+  barChartLabel: {
+    width: 80,
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.medium,
+  },
+  barChartBarContainer: {
+    flex: 1,
+    height: 24,
+    backgroundColor: 'rgba(0,0,0,0.1)',
+    borderRadius: spacing[1],
+    marginHorizontal: spacing[2],
+  },
+  barChartBar: {
+    height: '100%',
+    borderRadius: spacing[1],
+  },
+  barChartValue: {
+    width: 40,
+    fontSize: fontSize.sm,
+    textAlign: 'right',
+  },
+  statsDrummerLinks: {
+    marginTop: spacing[3],
+    paddingTop: spacing[3],
+    borderTopWidth: 1,
+    borderTopColor: 'rgba(0,0,0,0.1)',
+  },
+  statsLinkGroup: {
+    marginBottom: spacing[3],
+  },
+  statsLinkTitle: {
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.semibold,
+    marginBottom: spacing[1],
+  },
+  statsLinkList: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: spacing[2],
+    alignItems: 'center',
+  },
+  statsLinkChip: {
+    paddingVertical: spacing[1],
+    paddingHorizontal: spacing[2],
+    borderRadius: spacing[2],
+  },
+  statsLinkChipText: {
+    fontSize: fontSize.xs,
+    fontWeight: fontWeight.medium,
+  },
+  statsMoreText: {
+    fontSize: fontSize.xs,
+    fontStyle: 'italic',
+  },
+  statsGenreTable: {
+    borderRadius: spacing[2],
+    overflow: 'hidden',
+  },
+  statsGenreRow: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    paddingVertical: spacing[3],
+    paddingHorizontal: spacing[3],
+  },
+  statsGenreName: {
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.medium,
+    flex: 1,
+  },
+  statsGenreData: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: spacing[2],
+  },
+  statsGenreCost: {
+    fontSize: fontSize.md,
+    fontWeight: fontWeight.bold,
+  },
+  statsGenreSample: {
+    fontSize: fontSize.xs,
+  },
+  statsSnareList: {
+    borderRadius: spacing[2],
+    overflow: 'hidden',
+  },
+  statsSnareRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    paddingVertical: spacing[3],
+    borderBottomWidth: 1,
+    gap: spacing[3],
+  },
+  statsSnareRank: {
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.bold,
+    width: 30,
+  },
+  statsSnareInfo: {
+    flex: 1,
+  },
+  statsSnareName: {
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.medium,
+    marginBottom: spacing[1],
+  },
+  statsSnareLink: {
+    fontSize: fontSize.xs,
+    textDecorationLine: 'underline',
+  },
+  statsSnareCount: {
+    fontSize: fontSize.xs,
+    textAlign: 'right',
+    minWidth: 70,
+  },
+  statsExpensiveList: {
+    borderRadius: spacing[2],
+    overflow: 'hidden',
+  },
+  statsExpensiveRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    paddingVertical: spacing[3],
+    borderBottomWidth: 1,
+    gap: spacing[3],
+  },
+  statsExpensiveRank: {
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.bold,
+    width: 30,
+  },
+  statsExpensiveInfo: {
+    flex: 1,
+  },
+  statsExpensiveName: {
+    fontSize: fontSize.md,
+    fontWeight: fontWeight.semibold,
+    marginBottom: spacing[1],
+  },
+  statsExpensiveGenre: {
+    fontSize: fontSize.xs,
+    marginBottom: spacing[1],
+  },
+  statsExpensiveGear: {
+    fontSize: fontSize.xs,
+  },
+  statsExpensiveCost: {
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.bold,
+    minWidth: 80,
+    textAlign: 'right',
+  },
+  statsShareSection: {
+    padding: spacing[5],
+    borderRadius: spacing[3],
+    borderWidth: 1,
+    marginBottom: spacing[4],
+    alignItems: 'center',
+  },
+  statsShareTitle: {
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.semibold,
+    marginBottom: spacing[3],
+  },
+  statsShareButtons: {
+    flexDirection: 'row',
+    gap: spacing[3],
+  },
+  statsShareButton: {
+    paddingVertical: spacing[3],
+    paddingHorizontal: spacing[5],
+    borderRadius: spacing[2],
+  },
+  statsShareButtonText: {
+    color: '#fff',
+    fontWeight: fontWeight.semibold,
+    fontSize: fontSize.sm,
+  },
+  statsFooter: {
+    paddingVertical: spacing[4],
+    alignItems: 'center',
+  },
+  statsFooterText: {
+    fontSize: fontSize.xs,
+    textAlign: 'center',
+    marginBottom: spacing[1],
   },
 
 });

@@ -173,6 +173,8 @@ export default function handler(req, res) {
     { loc: '/gear-news', priority: '0.9', changefreq: 'daily' },
     // Issue #689: Drummer Battle voting feature
     { loc: '/battles', priority: '0.9', changefreq: 'weekly' },
+    // Issue #695: Gear Statistics data hub
+    { loc: '/stats/gear-insights', priority: '0.9', changefreq: 'weekly' },
     // Issue #685: "How to Sound Like" guides hub
     { loc: '/guides', priority: '0.9', changefreq: 'weekly' },
     ...soundLikeGuides.map(g => ({ loc: `/guides/${g.slug}`, priority: '0.9', changefreq: 'monthly' })),

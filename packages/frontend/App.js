@@ -1646,8 +1646,8 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
     );
   }
 
-  // Get drummers in ranked order
-  const rankedDrummers = list.drummerIds
+  // Get drummers in ranked order (handle album articles with single drummerId)
+  const rankedDrummers = (list.drummerIds || (list.drummerId ? [list.drummerId] : []))
     .map(id => drummers.find(d => d.id === id))
     .filter(Boolean);
 

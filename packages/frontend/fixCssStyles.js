@@ -1,71 +1,43 @@
 /**
- * CSS Fix v3 - Surgical approach
+ * CSS Fix - Proxy approach (works for non-input pages)
  * 
- * Instead of proxying element.style, we patch CSSStyleDeclaration.prototype
- * to handle numeric property assignments gracefully.
- * This avoids interfering with element focus/events.
+ * This fixes the Safari/WebKit CSS bug where react-native-web
+ * tries to set numeric properties on CSSStyleDeclaration.
+ * 
+ * Note: This Proxy interferes with input focus, so search is
+ * temporarily disabled until we find a better solution.
  */
 
-if (typeof window !== 'undefined' && typeof CSSStyleDeclaration !== 'undefined') {
-  // Store original setProperty
-  const originalSetProperty = CSSStyleDeclaration.prototype.setProperty;
+if (typeof window !== 'undefined') {
+  const proxyCache = new WeakMap();
   
-  // Patch setProperty to ignore errors from react-native-web
-  CSSStyleDeclaration.prototype.setProperty = function(property, value, priority) {
-    try {
-      // Skip numeric properties that react-native-web incorrectly tries to set
-      if (typeof property === 'string' && /^\d+$/.test(property)) {
-        return;
-      }
-      return originalSetProperty.call(this, property, value, priority);
-    } catch (e) {
-      // Silently ignore CSS errors
-      console.debug('[CSS Fix] Ignored:', property, value, e.message);
-    }
-  };
-
-  // Also patch direct property assignment for numeric indices
-  // This is what react-native-web does: element.style[0] = value
-  const originalStyleDescriptor = Object.getOwnPropertyDescriptor(HTMLElement.prototype, 'style');
-  
-  if (originalStyleDescriptor && originalStyleDescriptor.get) {
-    // We need to wrap the style object's numeric setters
-    // But we do it lazily, only when needed
-    const patchedStyles = new WeakSet();
-    
+  const originalStyleGetter = Object.getOwnPropertyDescriptor(HTMLElement.prototype, 'style');
+  if (originalStyleGetter && originalStyleGetter.get) {
     Object.defineProperty(HTMLElement.prototype, 'style', {
       get: function() {
-        const style = originalStyleDescriptor.get.call(this);
+        const realStyle = originalStyleGetter.get.call(this);
         
-        // Only patch once per style object
-        if (!patchedStyles.has(style)) {
-          patchedStyles.add(style);
-          
-          // Create a handler for numeric property access
-          // We use defineProperty on the specific style instance
-          // This is less invasive than a full Proxy
-          try {
-            // Patch common numeric indices that RNW uses
-            for (let i = 0; i < 100; i++) {
-              const idx = String(i);
-              Object.defineProperty(style, idx, {
-                set: function(val) {
-                  // Silently ignore - this is the buggy RNW behavior
-                },
-                get: function() {
-                  return '';
-                },
-                configurable: true
-              });
+        let proxy = proxyCache.get(realStyle);
+        if (proxy) return proxy;
+        
+        proxy = new Proxy(realStyle, {
+          set(target, prop, value) {
+            if (typeof prop === 'string' && /^\d+$/.test(prop)) {
+              return true;
             }
-          } catch (e) {
-            // If we can't patch, that's ok - some browsers may not allow it
+            target[prop] = value;
+            return true;
+          },
+          get(target, prop) {
+            const val = target[prop];
+            return typeof val === 'function' ? val.bind(target) : val;
           }
-        }
+        });
         
-        return style;
+        proxyCache.set(realStyle, proxy);
+        return proxy;
       },
-      configurable: true
+      configurable: true,
     });
   }
 }

@@ -64,7 +64,7 @@
 
 ---
 
-### 💡 [IDEA-004] Reign in Blood Drum Setup: Dave Lombardo's Gear
+### ✅ [IDEA-004] Reign in Blood Drum Setup: Dave Lombardo's Gear
 
 **Type:** album-breakdown
 **SEO Keywords:** reign in blood drums, dave lombardo 1986 kit, slayer drum sound
@@ -72,19 +72,11 @@
 **Data Available:** Partial (need research)
 **Priority:** 4
 
-**Outline:**
-1. The Album That Defined Thrash
-2. Studio Setup & Recording
-3. Drum Kit Breakdown
-4. Cymbal Selection
-5. Recording Techniques
-6. Legacy & Influence
-
-**Status:** IDEA
+**Status:** PUBLISHED (2026-03-08) — /articles/reign-in-blood-drum-setup
 
 ---
 
-### 💡 [IDEA-005] What's In Joey Jordison's Legendary Kit
+### ✅ [IDEA-005] What's In Joey Jordison's Legendary Kit
 
 **Type:** drummer-kit
 **SEO Keywords:** joey jordison drum kit, slipknot drummer gear, joey jordison setup
@@ -92,15 +84,7 @@
 **Data Available:** Yes (drummerId: 2)
 **Priority:** 5
 
-**Outline:**
-1. Tribute — The Legacy
-2. His Signature Pearl Kit
-3. Cymbal Setup (Paiste)
-4. The Rotating Drum Riser
-5. Evolution Through Slipknot Albums
-6. Gear You Can Still Buy Today
-
-**Status:** IDEA
+**Status:** PUBLISHED (2026-03-12) — /articles/whats-in-joey-jordisons-kit
 
 ---
 
@@ -162,7 +146,7 @@
 
 ---
 
-### 💡 [IDEA-009] Iowa Drum Setup: Joey Jordison's Heaviest Sound
+### ✅ [IDEA-009] Iowa Drum Setup: Joey Jordison's Heaviest Sound
 
 **Type:** album-breakdown
 **SEO Keywords:** iowa album drums, slipknot iowa gear, joey jordison iowa
@@ -170,15 +154,7 @@
 **Data Available:** Partial
 **Priority:** 4
 
-**Outline:**
-1. The Making of Iowa
-2. Studio & Production
-3. Joey's Kit for Iowa Sessions
-4. The Heaviest Drum Sound
-5. Recording Techniques
-6. Track-by-Track Analysis
-
-**Status:** IDEA
+**Status:** PUBLISHED (2026-03-08) — /articles/iowa-drum-setup
 
 ---
 
@@ -223,6 +199,7 @@
 | 2026-03-08 | Iowa Drum Setup | /articles/iowa-drum-setup | - |
 | 2026-03-08 | Vulgar Display of Power Drum Setup | /articles/vulgar-display-of-power-drum-setup | - |
 | 2026-03-08 | Number of the Beast Drum Setup | /articles/number-of-the-beast-drum-setup | - |
+| 2026-03-12 | What's In Joey Jordison's Legendary Kit | /articles/whats-in-joey-jordisons-kit | - |
 
 ---
 
@@ -239,4 +216,4 @@
 
 ---
 
-*Last updated: 2026-03-12*
+*Last updated: 2026-03-12 17:07*

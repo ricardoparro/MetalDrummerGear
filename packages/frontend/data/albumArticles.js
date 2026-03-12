@@ -1331,6 +1331,299 @@ For drummers studying Iowa, the lessons go beyond speed and technical exercises.
 
 Joey Jordison's work on Iowa ensures his place among metal's greatest drummers. The album remains essential listening for anyone interested in extreme drumming, and its influence echoes through every blast beat and double bass pattern in modern metal.`
     }
+  },
+
+  'whats-in-joey-jordisons-kit': {
+    slug: 'whats-in-joey-jordisons-kit',
+    articleType: 'drummer-kit',
+    drummer: 'Joey Jordison',
+    drummerId: 2,
+    band: 'Slipknot',
+    bands: ['Slipknot', 'Murderdolls', 'Sinsaenum', 'Vimic'],
+    genre: 'Nu Metal / Death Metal',
+    country: 'USA',
+    isAlbumArticle: true,
+    datePublished: '2026-03-12',
+    dateModified: '2026-03-12',
+    author: 'MetalForge Editorial',
+    // SEO
+    title: "What's In Joey Jordison's Legendary Kit: Complete Gear Breakdown",
+    description: "A tribute to Joey Jordison (1975-2021). Discover the exact drums, cymbals, and gear that made him one of metal's greatest drummers. Complete breakdown of his Pearl setup, Paiste cymbals, and signature equipment.",
+    seoKeywords: ['joey jordison drum kit', 'joey jordison setup', 'slipknot drummer gear', 'joey jordison pearl drums', 'joey jordison cymbals', 'joey jordison signature'],
+    ogImage: '/images/drummers/joey-jordison.webp',
+    // Introduction
+    intro: {
+      title: 'Remembering a Legend: Joey Jordison (1975-2021)',
+      content: `Joey Jordison wasn't just Slipknot's drummer — he was the heartbeat of a revolution. From the underground chaos of Des Moines to sold-out arenas worldwide, his blistering speed, theatrical showmanship, and relentless intensity redefined what metal drumming could be.
+
+Born Nathan Jonas Jordison on April 26, 1975, in Des Moines, Iowa, Joey began drumming at age 8. By the time he co-founded Slipknot in 1995, he had already developed the technical prowess and aggressive style that would make him legendary.
+
+His passing on July 26, 2021, at age 46 sent shockwaves through the metal community. But Joey's legacy lives on in every blast beat, every double bass pattern, and every drummer who picked up sticks because they saw him play.
+
+This article is a tribute to Joey Jordison — a deep dive into the gear that helped him create some of metal's most iconic drum performances. From his signature Pearl kit to his punishing Paiste cymbals, we'll explore every piece of equipment that made Joey's sound unmistakable.`,
+      keyPoints: [
+        'Pearl Drums endorsee for most of his career',
+        'Signature snare drum still in production today',
+        'Famous for the rotating/inverted drum riser',
+        'Recorded Iowa drums in just 10 days',
+        'Voted #1 in Revolver\'s Greatest Metal Drummers list'
+      ]
+    },
+    // Drum Kit Section
+    drumKit: {
+      title: "Joey's Signature Pearl Setup",
+      brand: 'Pearl',
+      model: 'Pearl Reference Series / MasterWorks Custom',
+      finish: 'Various (notably Granite Sparkle, Custom Purple)',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum (x2)'],
+        toms: ['8" x 7" Rack Tom', '10" x 8" Rack Tom', '12" x 9" Rack Tom', '14" x 12" Rack Tom'],
+        floorToms: ['16" x 14" Floor Tom', '18" x 16" Floor Tom'],
+        shells: 'Reference Maple/Birch (20-ply)'
+      },
+      description: `Joey Jordison's drum setup was as extreme as his playing. His Pearl kit featured oversized, deep-shelled drums designed to project power through Slipknot's wall of noise — three guitarists, turntables, samples, and eight other masked maniacs.
+
+The double 22" x 18" bass drums were the foundation of Joey's sound. Deeper than standard configurations, they produced a low-end punch that cut through the mix while providing the attack needed for his lightning-fast double bass work. Joey triggered them for additional consistency, blending the acoustic sound with samples.
+
+The rack tom configuration — from 8" to 14" — gave Joey options for his signature rapid-fire fills. The Reference series' 20-ply shells provided the attack and projection needed for extreme metal, while the maple/birch combination delivered both warmth and cut.
+
+Joey's kit was mounted on the Pearl Icon Rack System, which allowed for extreme positioning and easy setup for his theatrical staging — including the famous rotating platform that let him play upside down.`,
+      notes: [
+        'Double bass drum setup — two separate 22" drums, not a double pedal',
+        'Pearl Icon Rack System for mounting stability and positioning',
+        'Reference Series 20-ply shells for attack and projection',
+        'Triggered bass drums for consistent attack at extreme speeds',
+        'Kit designed to project through Slipknot\'s nine-member wall of sound'
+      ],
+      estimatedValue: '$6,000-10,000 (Reference Series custom configuration)'
+    },
+    // Snare Section
+    snare: {
+      title: 'The Signature Snare',
+      brand: 'Pearl',
+      model: 'Pearl Joey Jordison Signature Snare',
+      size: '13" x 6.5"',
+      shell: 'Steel with 1.0mm beaded shell',
+      description: `Joey's signature snare became one of the most popular metal snare drums ever produced. The Pearl Joey Jordison Signature (model JJ1365) features a 13" x 6.5" steel shell with a 1.0mm beaded construction that delivers the piercing crack and aggressive overtones that defined his sound.
+
+The smaller 13" diameter (compared to standard 14") provides a higher, tighter fundamental pitch that cuts through dense mixes. This was essential for Slipknot's complex arrangements where the snare needed to punch through layers of guitars, samples, and percussion.
+
+The steel shell delivers brightness and projection, while the 6.5" depth provides enough body to prevent the drum from sounding thin. Joey tuned it medium-high with tight snare wire tension for maximum attack and minimal ring.
+
+This snare is still in production today — a testament to its enduring popularity among metal drummers worldwide. It remains one of the most affordable ways to get "that" Joey Jordison sound.`,
+      tuningSetting: 'Medium-high tension, tight snare wires for maximum attack',
+      heads: 'Evans EC Reverse Dot (batter), Evans Hazy 300 (resonant)',
+      estimatedValue: '$250-350 (signature model still available)'
+    },
+    // Cymbals Section
+    cymbals: {
+      title: 'Paiste Destruction',
+      brand: 'Paiste',
+      series: 'Paiste RUDE / 2002 Series',
+      setup: [
+        { type: 'Hi-Hats', model: 'Paiste RUDE 14" Wild Hi-Hats', position: 'Left side', notes: 'Aggressive, cutting sound for fast patterns' },
+        { type: 'Crash', model: 'Paiste RUDE 16" Power Crash', position: 'Far left', notes: 'Quick, explosive crash' },
+        { type: 'Crash', model: 'Paiste RUDE 17" Crash/Ride', position: 'Left of hi-hats', notes: 'Versatile crash position' },
+        { type: 'Crash', model: 'Paiste RUDE 18" Power Crash', position: 'Over rack toms', notes: 'Primary crash' },
+        { type: 'Crash', model: 'Paiste RUDE 19" Power Crash', position: 'Right of toms', notes: 'Larger crash for accents' },
+        { type: 'Ride', model: 'Paiste RUDE 22" Power Ride', position: 'Far right', notes: 'Heavy ride with clear bell' },
+        { type: 'China', model: 'Paiste RUDE 20" Wild China', position: 'Above floor tom', notes: 'Signature explosive accents' },
+        { type: 'China', model: 'Paiste RUDE 22" Wild China', position: 'Far right, high', notes: 'Larger China for big moments' }
+      ],
+      description: `Joey's cymbal setup was built around Paiste's RUDE series — cymbals specifically designed to withstand the punishment of extreme metal playing while delivering aggressive, cutting tones.
+
+The RUDE series features unlathed bells and raw finishes that produce trashy, aggressive overtones. They're virtually indestructible compared to traditional cymbals, essential for Joey's hard-hitting style.
+
+The 14" Wild Hi-Hats provided the crisp, cutting sound needed for Joey's fast hi-hat work. The "Wild" designation indicates their aggressive character — these aren't subtle cymbals.
+
+Multiple crashes ranging from 16" to 19" gave Joey options for different dynamics and positions around his massive kit. The RUDE Power Crashes are explosive and loud, designed to cut through any mix.
+
+The twin China cymbals (20" and 22") were crucial to Slipknot's sound. Joey used them constantly for accents, and their trashy, explosive character became part of the band's sonic identity. The Wild Chinas are among the most aggressive China cymbals ever made.`,
+      estimatedValue: '$2,500-3,500 total (RUDE series setup)'
+    },
+    // Hardware Section
+    hardware: {
+      title: 'The Foundation',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'Pearl',
+          model: 'Pearl Demon Drive Double Pedal',
+          notes: 'Direct-drive for speed and precision',
+          description: 'Joey used Pearl Demon Drive pedals for their direct-drive feel and incredible speed potential. The Demon Drive\'s linkage system provided smooth, consistent response essential for his extreme double bass technique.'
+        },
+        {
+          type: 'Rack System',
+          brand: 'Pearl',
+          model: 'Pearl DR-501C Icon Rack',
+          notes: 'Essential for the rotating platform setup',
+          description: 'The Icon Rack System allowed Joey to position his extensive kit precisely while supporting the engineering required for his theatrical rotating and inverted drum riser setups.'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Pearl',
+          model: 'Pearl H-2000 Eliminator',
+          notes: 'Adjustable for playing style'
+        },
+        {
+          type: 'Throne',
+          brand: 'Pearl',
+          model: 'Pearl D-2000BR Throne',
+          notes: 'Motorcycle-style saddle for stability'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Promark',
+          model: 'Promark Joey Jordison Signature TX515W',
+          notes: '5A profile with wood tip, still in production',
+          description: 'Joey\'s signature stick features a 5A profile with enhanced durability. The model remains in production and is popular among metal drummers for its balance of speed and power.'
+        }
+      ],
+      heads: {
+        bassKick: 'Evans EMAD (batter), Evans EQ3 (resonant)',
+        toms: 'Evans G2 Clear (batter), Evans G1 Clear (resonant)',
+        snare: 'Evans EC Reverse Dot (batter), Evans Hazy 300 (resonant)'
+      }
+    },
+    // The Rotating Riser Section
+    rotatingRiser: {
+      title: 'The Legendary Rotating Drum Riser',
+      content: `One of Joey Jordison's most iconic innovations was his rotating drum platform, which debuted during the Disasterpieces tour in support of Iowa. The hydraulic riser could lift, rotate, and even invert Joey completely upside down — all while he continued playing.
+
+The engineering required months of development. The platform had to be stable enough for Joey to play at full intensity while rotating 360 degrees. Safety harnesses kept him secured, and the drum rack had to be modified to keep everything in place during the inversion.
+
+Playing upside down wasn't just a stunt — Joey actually performed complete songs while inverted, maintaining his precision and speed in a position that would defeat most drummers. It became one of metal's most memorable stage spectacles.
+
+The rotating riser exemplified Joey's approach: if something seemed impossible, that was a reason to do it. His combination of technical ability and theatrical innovation made Slipknot's live shows legendary.`,
+      keyPoints: [
+        'Hydraulic platform could rotate 360 degrees',
+        'Joey performed complete songs while upside down',
+        'Custom Pearl Icon Rack modified for inverted playing',
+        'Debuted during Disasterpieces tour (2001-2002)',
+        'Became one of metal\'s most iconic stage setups'
+      ]
+    },
+    // Gear Timeline / Evolution
+    gearTimeline: [
+      {
+        era: 'Early Slipknot',
+        years: '1995-1999',
+        albums: ['Mate. Feed. Kill. Repeat.', 'Slipknot (self-titled)'],
+        description: 'The underground years, building Slipknot\'s chaotic sound.',
+        gear: {
+          drums: 'ddrum Custom Kit',
+          snare: 'Pearl Free Floating 14x6.5" Steel',
+          cymbals: 'Paiste 2002 Series',
+          hardware: 'DW 5000 Double Pedal'
+        },
+        notes: 'Joey\'s early setup was more basic, focused on durability for the aggressive underground scene.'
+      },
+      {
+        era: 'Iowa Era',
+        years: '1999-2004',
+        albums: ['Iowa', 'Vol. 3: (The Subliminal Verses)'],
+        description: 'Slipknot exploded globally. Joey refined his iconic setup.',
+        gear: {
+          drums: 'Pearl MasterWorks Series (Custom Purple)',
+          snare: 'Pearl Joey Jordison Signature 13x6.5"',
+          cymbals: 'Paiste RUDE & 2002 Series',
+          hardware: 'Pearl Demon Drive Pedals, Pearl Icon Rack'
+        },
+        notes: 'The Iowa era saw Joey develop his signature sound and the famous rotating platform.'
+      },
+      {
+        era: 'All Hope Is Gone',
+        years: '2008-2013',
+        albums: ['All Hope Is Gone'],
+        description: 'Slipknot\'s most commercially successful period.',
+        gear: {
+          drums: 'Pearl Reference Series (Granite Sparkle)',
+          snare: 'Pearl Joey Jordison Signature 13x6.5"',
+          cymbals: 'Paiste RUDE Series (expanded setup)',
+          hardware: 'Pearl Demon Drive, Pearl Icon Rack'
+        },
+        notes: 'Peak of Joey\'s technical abilities and showmanship with Slipknot.'
+      },
+      {
+        era: 'Post-Slipknot',
+        years: '2013-2021',
+        albums: ['Sinsaenum - Echoes of the Tortured', 'Vimic projects'],
+        description: 'After leaving Slipknot, Joey focused on new projects while battling health issues.',
+        gear: {
+          drums: 'SJC Custom Drums',
+          snare: 'SJC Custom 14x6.5"',
+          cymbals: 'Paiste RUDE Series',
+          hardware: 'Pearl Demon Drive Pedals'
+        },
+        notes: 'Joey battled transverse myelitis but continued performing until his passing in 2021.'
+      }
+    ],
+    // Videos
+    videos: [
+      { youtubeId: 'tUibKh0Z--c', title: 'Disasterpieces Drum Solo (Official)', description: 'The legendary rotating platform solo — essential viewing' },
+      { youtubeId: 'zRS9uKs3Rlk', title: 'People=Shit - Drum Cam (London 2002)', description: 'Iowa-era live performance showing technique and intensity' },
+      { youtubeId: 'RdXMcj7xv20', title: 'Drum Cam 4K Compilation', description: 'Various performances showcasing different eras' },
+      { youtubeId: 'dU8T9HRG2C4', title: 'Joey Jordison Drumeo Tribute', description: 'Career retrospective with footage analysis' }
+    ],
+    // Quotes
+    quotes: [
+      { text: "The drums chose me. I didn't choose them. It was like destiny.", source: "Modern Drummer Magazine", year: 2004 },
+      { text: "Every time I sit behind a drum kit, I want to destroy it. That's the only way I know how to play.", source: "Revolver Magazine", year: 2008 },
+      { text: "Practice doesn't make perfect. Perfect practice makes perfect. There's a big difference.", source: "Drum! Magazine", year: 2010 }
+    ],
+    // Where to Buy
+    gearStillAvailable: {
+      title: 'Joey\'s Gear You Can Still Buy Today',
+      items: [
+        {
+          item: 'Pearl Joey Jordison Signature Snare (JJ1365)',
+          available: true,
+          priceRange: '$250-350',
+          notes: 'Still in production, widely available at most drum retailers'
+        },
+        {
+          item: 'Promark Joey Jordison Signature Sticks (TX515W)',
+          available: true,
+          priceRange: '$12-15 per pair',
+          notes: 'Available at all major music retailers'
+        },
+        {
+          item: 'Paiste RUDE Cymbals',
+          available: true,
+          priceRange: '$200-400 per cymbal',
+          notes: 'RUDE series still in production, same models Joey used'
+        },
+        {
+          item: 'Pearl Demon Drive Pedals',
+          available: true,
+          priceRange: '$400-700',
+          notes: 'Current model updated but same direct-drive concept'
+        },
+        {
+          item: 'Pearl Reference Series Drums',
+          available: true,
+          priceRange: '$4,000-8,000',
+          notes: 'Premium series still available in custom configurations'
+        }
+      ]
+    },
+    // Related Content
+    relatedAlbums: ['iowa-drum-setup', 'slipknot-self-titled-drum-setup'],
+    relatedDrummers: [10, 11, 6], // Jay Weinberg, Vinnie Paul, George Kollias
+    relatedArticles: ['fastest-double-bass-drummers', 'best-metal-snare-drums'],
+    // Conclusion
+    conclusion: {
+      title: 'The Legacy Lives On',
+      content: `Joey Jordison's influence on metal drumming cannot be overstated. He combined speed, precision, showmanship, and musicality in ways that inspired an entire generation of drummers. His technical abilities were matched only by his creativity and willingness to push boundaries.
+
+The gear Joey used was professional-grade but accessible — Pearl drums, Paiste cymbals, Promark sticks. What made his sound special was never just the equipment; it was the person behind it. Joey brought a combination of work ethic, natural talent, and artistic vision that elevated everything he touched.
+
+For drummers looking to capture some of Joey's sound, his signature snare and sticks remain in production and are among the most affordable ways to connect with his legacy. The RUDE cymbals he championed continue to be the choice for drummers who demand aggressive tones and extreme durability.
+
+Joey Jordison passed away on July 26, 2021, but his legacy endures. Every blast beat, every double bass pattern, every drummer who picked up sticks after seeing Slipknot play — they all carry a piece of Joey with them.
+
+Rest in power, #1. 🥁`
+    }
   }
 };
 

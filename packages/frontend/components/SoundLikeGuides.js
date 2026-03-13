@@ -23,6 +23,7 @@ import {
   generateGuideSchema,
   generateGuideFaqSchema 
 } from '../data/soundLikeGuides';
+import { getAllBeginnerGuides } from '../data/beginnerGuides';
 import { updateSoundLikeGuideMeta } from '../utils/ogMetaTags';
 
 // ==========================================
@@ -30,6 +31,7 @@ import { updateSoundLikeGuideMeta } from '../utils/ogMetaTags';
 // ==========================================
 export function GuidesHubPage({ theme, onBack, onSelectGuide }) {
   const guides = getAllSoundLikeGuides();
+  const beginnerGuides = getAllBeginnerGuides();
   
   useEffect(() => {
     // Update OG meta for hub page
@@ -64,15 +66,15 @@ export function GuidesHubPage({ theme, onBack, onSelectGuide }) {
       {/* Hero Section */}
       <View style={[styles.heroSection, { backgroundColor: theme.card }]}>
         <Text style={[styles.heroTitle, { color: theme.text }]}>
-          🥁 How to Sound Like Your Favorite Metal Drummer
+          🥁 Metal Drumming Guides
         </Text>
         <Text style={[styles.heroSubtitle, { color: theme.secondaryText }]}>
-          Master the techniques, gear, and tuning secrets of legendary metal drummers. 
+          Master the techniques, gear, and tuning secrets of metal drumming. 
           Each guide includes detailed breakdowns, practice tips, and gear recommendations.
         </Text>
         <View style={styles.statsBadges}>
           <View style={[styles.statBadge, { backgroundColor: theme.primary + '20' }]}>
-            <Text style={[styles.statNumber, { color: theme.primary }]}>{guides.length}</Text>
+            <Text style={[styles.statNumber, { color: theme.primary }]}>{guides.length + beginnerGuides.length}</Text>
             <Text style={[styles.statLabel, { color: theme.secondaryText }]}>Guides</Text>
           </View>
           <View style={[styles.statBadge, { backgroundColor: theme.primary + '20' }]}>
@@ -86,9 +88,37 @@ export function GuidesHubPage({ theme, onBack, onSelectGuide }) {
         </View>
       </View>
 
-      {/* Guides Grid */}
+      {/* Featured Beginner Guide (Issue #702) */}
+      {beginnerGuides.length > 0 && (
+        <View style={styles.featuredSection}>
+          <Text style={[styles.sectionTitle, { color: theme.text }]}>🔥 Getting Started</Text>
+          {beginnerGuides.map((guide) => (
+            <TouchableOpacity
+              key={guide.slug}
+              style={[styles.featuredCard, { backgroundColor: theme.primary, borderColor: theme.primary }]}
+              onPress={() => onSelectGuide(guide.slug)}
+              accessibilityLabel={`Read guide: ${guide.title}`}
+            >
+              <View style={styles.featuredBadge}>
+                <Text style={styles.featuredBadgeText}>BEGINNER GUIDE</Text>
+              </View>
+              <Text style={styles.featuredTitle}>{guide.hero?.title || guide.title}</Text>
+              <Text style={styles.featuredDescription}>
+                {guide.description}
+              </Text>
+              <View style={styles.featuredFooter}>
+                <Text style={styles.featuredReadTime}>📖 {guide.readingTime} read</Text>
+                <Text style={styles.featuredBudget}>💰 Under ${guide.budgetBreakdown?.totalBudget?.toLocaleString() || '1,000'}</Text>
+                <Text style={styles.featuredArrow}>→</Text>
+              </View>
+            </TouchableOpacity>
+          ))}
+        </View>
+      )}
+
+      {/* Sound Like Guides Grid */}
       <View style={styles.guidesSection}>
-        <Text style={[styles.sectionTitle, { color: theme.text }]}>All Guides</Text>
+        <Text style={[styles.sectionTitle, { color: theme.text }]}>🎯 How to Sound Like...</Text>
         <View style={styles.guidesGrid}>
           {guides.map((guide) => (
             <TouchableOpacity
@@ -1370,6 +1400,65 @@ const styles = StyleSheet.create({
   updateText: {
     fontSize: 12,
     marginTop: 4,
+  },
+  // Featured Beginner Guide styles (Issue #702)
+  featuredSection: {
+    paddingHorizontal: 16,
+    marginBottom: 8,
+  },
+  featuredCard: {
+    padding: 20,
+    borderRadius: 16,
+    borderWidth: 0,
+  },
+  featuredBadge: {
+    backgroundColor: 'rgba(255,255,255,0.2)',
+    alignSelf: 'flex-start',
+    paddingVertical: 4,
+    paddingHorizontal: 12,
+    borderRadius: 12,
+    marginBottom: 12,
+  },
+  featuredBadgeText: {
+    color: '#fff',
+    fontSize: 11,
+    fontWeight: '700',
+    letterSpacing: 1,
+  },
+  featuredTitle: {
+    color: '#fff',
+    fontSize: 22,
+    fontWeight: '800',
+    marginBottom: 8,
+    lineHeight: 28,
+  },
+  featuredDescription: {
+    color: 'rgba(255,255,255,0.9)',
+    fontSize: 14,
+    lineHeight: 20,
+    marginBottom: 16,
+  },
+  featuredFooter: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 16,
+    flexWrap: 'wrap',
+  },
+  featuredReadTime: {
+    color: 'rgba(255,255,255,0.9)',
+    fontSize: 13,
+    fontWeight: '600',
+  },
+  featuredBudget: {
+    color: 'rgba(255,255,255,0.9)',
+    fontSize: 13,
+    fontWeight: '600',
+  },
+  featuredArrow: {
+    color: '#fff',
+    fontSize: 18,
+    fontWeight: '700',
+    marginLeft: 'auto',
   },
 });
 

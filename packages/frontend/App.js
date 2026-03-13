@@ -1514,7 +1514,9 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
           "@context": "https://schema.org",
           "@type": "Person",
           "name": list.drummer,
-          "description": `Drummer for ${list.artist}`,
+          "description": list.articleType === 'drummer-kit' 
+            ? `${list.genre} drummer from ${list.band}`
+            : `Drummer for ${list.artist}`,
           "url": `https://metalforge.io/drummer/${list.slug.split('-')[0]}-${list.slug.split('-')[1]}`,
           "knowsAbout": ["Drums", "Metal Music", list.genre]
         };
@@ -1661,27 +1663,50 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
           <Text style={[styles.backButtonText, { color: theme.primary }]}>← Back to Home</Text>
         </TouchableOpacity>
 
-        {/* Album Article Header */}
+        {/* Article Header - handles both album and drummer-kit types */}
         <View style={[styles.albumArticleHeader, { paddingHorizontal: 20 }]}>
           <Text style={[styles.albumArticleAlbum, { color: theme.primary }]}>
-            {list.artist} • {list.albumTitle} ({list.year})
+            {list.articleType === 'drummer-kit' 
+              ? `${list.band || ''} • ${list.genre || 'Drummer Kit'}`
+              : `${list.artist} • ${list.albumTitle} (${list.year})`}
           </Text>
           <Text style={[styles.topListPageTitle, { color: theme.text, marginTop: 8 }]}>{list.title}</Text>
           <Text style={[styles.topListPageDescription, { color: theme.secondaryText, marginTop: 12 }]}>
             {list.description}
           </Text>
           
-          {/* Album metadata badges */}
+          {/* Metadata badges - different for album vs drummer-kit */}
           <View style={[styles.flexRowWrap, { marginTop: 16, gap: 8 }]}>
             <View style={[styles.genreTag, styles.genreTagLarge, { backgroundColor: theme.primary + '20' }]}>
               <Text style={[styles.genreTagText, { color: theme.primary }]}>🎸 {list.genre}</Text>
             </View>
-            <View style={[styles.genreTag, styles.genreTagLarge, { backgroundColor: theme.border }]}>
-              <Text style={[styles.genreTagText, { color: theme.secondaryText }]}>🏷️ {list.label}</Text>
-            </View>
-            <View style={[styles.genreTag, styles.genreTagLarge, { backgroundColor: theme.border }]}>
-              <Text style={[styles.genreTagText, { color: theme.secondaryText }]}>🎚️ {list.producer}</Text>
-            </View>
+            {list.articleType === 'drummer-kit' ? (
+              <>
+                {list.country && (
+                  <View style={[styles.genreTag, styles.genreTagLarge, { backgroundColor: theme.border }]}>
+                    <Text style={[styles.genreTagText, { color: theme.secondaryText }]}>🌍 {list.country}</Text>
+                  </View>
+                )}
+                {list.bands && list.bands.length > 1 && (
+                  <View style={[styles.genreTag, styles.genreTagLarge, { backgroundColor: theme.border }]}>
+                    <Text style={[styles.genreTagText, { color: theme.secondaryText }]}>🎤 {list.bands.length} bands</Text>
+                  </View>
+                )}
+              </>
+            ) : (
+              <>
+                {list.label && (
+                  <View style={[styles.genreTag, styles.genreTagLarge, { backgroundColor: theme.border }]}>
+                    <Text style={[styles.genreTagText, { color: theme.secondaryText }]}>🏷️ {list.label}</Text>
+                  </View>
+                )}
+                {list.producer && (
+                  <View style={[styles.genreTag, styles.genreTagLarge, { backgroundColor: theme.border }]}>
+                    <Text style={[styles.genreTagText, { color: theme.secondaryText }]}>🎚️ {list.producer}</Text>
+                  </View>
+                )}
+              </>
+            )}
           </View>
           
           {/* Social Share */}

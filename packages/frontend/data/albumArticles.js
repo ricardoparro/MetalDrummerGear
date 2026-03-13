@@ -1938,6 +1938,336 @@ That's the lesson: stay curious, keep practicing, and never stop exploring what'
 
 The "Pneuma" video didn't go viral because of the gear. It went viral because millions of people recognized they were witnessing mastery — and mastery never goes out of style. 🥁`
     }
+  },
+
+  // Tomas Haake - What's In His Kit (March 2026)
+  'whats-in-tomas-haakes-kit': {
+    slug: 'whats-in-tomas-haakes-kit',
+    articleType: 'drummer-kit',
+    drummer: 'Tomas Haake',
+    drummerId: 5,
+    band: 'Meshuggah',
+    bands: ['Meshuggah'],
+    genre: 'Djent / Progressive Metal',
+    country: 'Sweden',
+    isAlbumArticle: true,
+    datePublished: '2026-03-13',
+    dateModified: '2026-03-13',
+    author: 'MetalForge Editorial',
+    // SEO
+    title: "What's In Tomas Haake's Polyrhythmic Arsenal: Complete Gear Breakdown",
+    description: "Complete breakdown of Tomas Haake's legendary drum setup. Discover the Sonor SQ2 Heavy Beech kit, two single pedal philosophy, Sabian cymbals, and Porter & Davies throne that power Meshuggah's polyrhythmic assault.",
+    seoKeywords: ['tomas haake drum kit', 'tomas haake setup', 'meshuggah drummer gear', 'tomas haake sonor', 'djent drums', 'tomas haake pedals', 'bleed drum setup'],
+    ogImage: '/images/drummers/tomas-haake.webp',
+    // Introduction
+    intro: {
+      title: 'The Architect of Djent: Tomas Haake',
+      content: `When Meshuggah\'s "Bleed" exploded onto the metal scene in 2008, drummers worldwide sat in stunned silence. The relentless 32nd-note kick pattern — six months in the making just to play consistently — announced that Tomas Haake had redefined what was possible behind a drum kit.
+
+Born July 13, 1971, in Örebro, Sweden, Tomas Haake joined Meshuggah in 1990 and has spent over three decades crafting the polyrhythmic template that spawned an entire genre: djent. While the term comes from the guitar tone, it\'s Haake\'s drumming that provides the mathematical foundation — complex patterns layered over steady 4/4 that create the illusion of multiple time signatures occurring simultaneously.
+
+What separates Tomas from other technical drummers is his insistence on groove. Despite the complexity, he maintains that Meshuggah is fundamentally "a groove band." His patterns aren\'t exercises in showing off — they\'re designed to make you move, even when your brain can\'t quite process what\'s happening.
+
+This article breaks down every piece of gear Tomas uses to create that legendary sound. From his Sonor SQ2 Heavy Beech shells to his unconventional two-single-pedal setup, we\'ll explore the equipment behind one of metal\'s most influential drummers.`,
+      keyPoints: [
+        'Sonor Drums endorsee for over two decades',
+        'Uses two SINGLE bass drum pedals — NOT a double pedal',
+        'Signature snare and Wincent sticks available',
+        'Porter & Davies BC2 throne for tactile bass drum monitoring',
+        '"Bleed" took 6 months of daily practice to play consistently live',
+        'Grammy-nominated with Meshuggah\'s "Immutable" (2023)'
+      ]
+    },
+    // Drum Kit Section
+    drumKit: {
+      title: "Tomas\'s Sonor SQ2 Heavy Beech Setup",
+      brand: 'Sonor',
+      model: 'Sonor SQ2 Heavy Beech',
+      finish: 'Custom Matte Black',
+      config: {
+        bassdrums: ['24" x 18" Bass Drum'],
+        toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom', '14" x 12" Rack Tom'],
+        floorToms: ['16" x 16" Floor Tom', '18" x 18" Floor Tom'],
+        shells: 'Heavy Beech shells (thicker than standard for powerful projection)'
+      },
+      description: `Tomas Haake\'s Sonor SQ2 Heavy Beech kit is the foundation of Meshuggah\'s devastating sound. The Heavy Beech variant uses thicker beech shells that deliver more attack and volume than standard configurations — essential when you\'re battling eight-string guitars tuned to F.
+
+The single 24" x 18" bass drum is notable because Tomas achieves his legendary double bass speed with TWO SEPARATE SINGLE PEDALS rather than a traditional double pedal. This allows each foot to operate completely independently — crucial for the polyrhythmic patterns where his feet might play different subdivisions than a standard double-bass figure.
+
+The tom configuration spans from 10" to 18", giving Tomas options for his precisely orchestrated fills. Unlike thrash drummers who blast through fills, Tomas\'s tom work is often as mathematically deliberate as his kick patterns, contributing to Meshuggah\'s overall rhythmic architecture.
+
+The SQ2 system allows for extensive customization, and Tomas has refined his configuration over decades. The result is a kit that projects power without sacrificing the clarity needed for complex patterns to translate.`,
+      notes: [
+        'Single 24" bass drum — uses two separate single pedals',
+        'Heavy Beech variant for increased attack and projection',
+        'Configuration refined over 20+ years with Sonor',
+        'Kit designed to project through downtuned 8-string guitars',
+        'Consistent setup for studio and live performance'
+      ],
+      estimatedValue: '$8,000-15,000 (SQ2 Heavy Beech custom configuration)'
+    },
+    // Snare Section
+    snare: {
+      title: 'The Signature Sound',
+      brand: 'Sonor',
+      model: 'Sonor Tomas Haake Signature Snare',
+      size: '14" x 6.5"',
+      shell: 'Maple with unique bearing edges',
+      description: `The Tomas Haake Signature snare from Sonor delivers the focused, cutting sound that pierces through Meshuggah\'s dense wall of downtuned guitars. The maple shell provides warmth and body while the specific bearing edge design gives the attack and projection needed for metal.
+
+At 14" x 6.5", the snare offers a balanced response — enough depth for body, but not so deep that it loses articulation at high speeds. Tomas tunes it in the medium range, prioritizing clarity and consistency over extreme tension.
+
+In addition to his signature model, Tomas also uses the Sonor Artist Series Bronze snare for different tones. The bronze shell provides a dryer, more controlled sound that works well in certain contexts.
+
+What makes Tomas\'s snare work distinctive is how it interacts with his overall approach. His snare patterns often follow unconventional subdivisions while his feet maintain the pulse — the snare sound needs to cut through with precision regardless of where it lands in the rhythmic grid.`,
+      tuningSetting: 'Medium tension for clarity and consistency',
+      heads: 'Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)',
+      alternateSnare: 'Sonor Artist Series Bronze 14x6.5" for varied tones',
+      estimatedValue: '$500-700 (signature model)'
+    },
+    // Cymbals Section
+    cymbals: {
+      title: 'Sabian Precision',
+      brand: 'Sabian',
+      series: 'Sabian HHX / AAX Series',
+      setup: [
+        { type: 'Hi-Hats', model: 'Sabian HHX 14" Compression Hi-Hats', position: 'Left side', notes: 'Signature model — quick, tight response for complex patterns' },
+        { type: 'Crash', model: 'Sabian AAX 18" X-Plosion Crash', position: 'Far left', notes: 'Fast, bright crash' },
+        { type: 'Crash', model: 'Sabian HHX 18" Evolution Crash', position: 'Left of hi-hats', notes: 'Darker, more complex crash' },
+        { type: 'Crash', model: 'Sabian HHX 19" Evolution Crash', position: 'Over rack toms', notes: 'Primary crash position' },
+        { type: 'Crash', model: 'Sabian AAX 20" X-Plosion Crash', position: 'Right of toms', notes: 'Larger crash for accents' },
+        { type: 'Ride', model: 'Sabian HHX 21" Raw Bell Dry Ride', position: 'Far right', notes: 'Dry, defined ride with raw bell' },
+        { type: 'China', model: 'Sabian HHX 18" Chinese', position: 'Above floor tom', notes: 'Controlled, musical China' },
+        { type: 'China', model: 'Sabian AAX 19" Aero Crash', position: 'Right side', notes: 'Additional texture cymbal' }
+      ],
+      description: `Tomas\'s cymbal setup blends Sabian\'s HHX and AAX lines for a combination of dark complexity (HHX) and bright projection (AAX). This dual approach lets him match different cymbal voices to different musical contexts within Meshuggah\'s arrangements.
+
+The 14" HHX Compression Hi-Hats are a Tomas Haake signature design. The unique profile provides quick, tight articulation essential for his rapid-fire hi-hat patterns. Traditional hi-hats would be too slow and washy for the precision his playing demands.
+
+The crash selection spans from 18" to 20", mixing Evolution (darker, more complex) and X-Plosion (brighter, faster) models. This variety gives Tomas options for different dynamics without overwhelming the mix.
+
+The 21" Raw Bell Dry Ride is crucial — the dry response prevents wash buildup during sustained riding, keeping the rhythmic pattern clear. The raw bell provides a cutting accent when needed.
+
+Unlike many metal drummers who favor exclusively aggressive cymbals, Tomas\'s selection is surprisingly musical and controlled. The cymbals serve the music rather than overpowering it.`,
+      estimatedValue: '$2,500-3,500 total (HHX/AAX combination setup)'
+    },
+    // Hardware Section
+    hardware: {
+      title: 'The Foundation of Independence',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'Tama',
+          model: 'Tama Speed Cobra Single Pedals (TWO separate pedals)',
+          notes: 'THE defining feature of Tomas\'s setup — two independent pedals, NOT a double pedal',
+          description: 'Tomas uses two separate Tama Speed Cobra single pedals rather than a traditional double pedal. This allows each foot to operate with complete independence — essential for polyrhythmic patterns where the feet might play different subdivisions or even different rhythms entirely. The Speed Cobra\'s smooth, fast action supports his demanding technique.'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Sonor',
+          model: 'Sonor 600 Series Hi-Hat Stand',
+          notes: 'Heavy-duty stand for consistent response'
+        },
+        {
+          type: 'Throne',
+          brand: 'Porter & Davies',
+          model: 'Porter & Davies BC2',
+          notes: 'Tactile monitoring system — throne vibrates with bass drum',
+          description: 'The BC2 throne features a tactile monitoring system that vibrates in sync with the bass drum. This is crucial for Tomas because at loud stage volumes, hearing bass drum nuances can be difficult. The tactile feedback lets him "feel" his kick patterns, maintaining precision even in deafening environments.'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Wincent',
+          model: 'Wincent Tomas Haake Signature',
+          notes: 'Custom profile for control and durability',
+          description: 'Tomas\'s signature Wincent stick features a profile optimized for his grip style and the demands of Meshuggah\'s music. The balance supports both precision playing and endurance through long, physically demanding performances.'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke 3 Clear (batter), Remo Fiberskyn 3 (resonant)',
+        toms: 'Remo Emperor Clear (batter), Remo Ambassador Clear (resonant)',
+        snare: 'Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)'
+      }
+    },
+    // Two Single Pedals Philosophy Section
+    twoSinglePedals: {
+      title: 'The Two Single Pedals Philosophy',
+      content: `One of the most distinctive aspects of Tomas Haake\'s setup is his use of two separate single bass drum pedals rather than a connected double pedal. This isn\'t a quirk — it\'s fundamental to how he approaches drumming.
+
+Traditional double pedals connect both feet mechanically. When one foot moves, it slightly affects the other through the linkage. For most drummers, this isn\'t noticeable. But for Tomas\'s polyrhythmic approach, where each foot might play a completely different pattern, that mechanical connection creates subtle interference.
+
+With two independent pedals, each foot operates in total isolation. Tomas can play different subdivisions with each foot — for example, triplets with one foot and 16th notes with the other — without any mechanical crosstalk. This independence is essential for creating the "multiple time signatures at once" illusion that defines Meshuggah\'s sound.
+
+The technique requires exceptional coordination. Most drummers develop double bass ability through connected pedals where the feet work in tandem. Tomas had to develop each foot as a completely independent limb, almost like training two separate drummers.
+
+For drummers interested in exploring polyrhythmic bass drum work, switching to two single pedals is worth considering. It forces you to develop true foot independence rather than relying on the pedal linkage to help coordinate your strokes.`,
+      keyPoints: [
+        'Two separate Tama Speed Cobra single pedals',
+        'Complete foot independence — no mechanical linkage',
+        'Essential for playing different subdivisions with each foot',
+        'Creates Meshuggah\'s signature polyrhythmic bass patterns',
+        'Requires developing each foot as a truly independent limb'
+      ]
+    },
+    // "Bleed" Technical Section
+    bleedBreakdown: {
+      title: 'The "Bleed" Setup: Six Months to Master',
+      content: `"Bleed" from Meshuggah\'s 2008 album obZen features one of the most challenging drum parts ever recorded. The relentless 32nd-note kick pattern, sustained for over seven minutes, pushed the boundaries of what drummers thought was physically possible.
+
+Tomas has stated that learning to play "Bleed" consistently took six months of daily practice. The pattern isn\'t just fast — it\'s sustained intensity that requires building specific muscle endurance and technique that didn\'t exist before.
+
+The gear requirements for "Bleed" are demanding:
+- The two single pedal setup is essential — the independence allows for the pattern\'s unique subdivisions
+- The Porter & Davies throne provides tactile feedback so Tomas can feel the pattern rather than just hear it
+- The Speed Cobra pedals\' smooth action reduces fatigue during extended playing
+- The SQ2 Heavy Beech bass drum projects each stroke clearly even at extreme speeds
+
+What makes "Bleed" legendary isn\'t just the technique — it\'s that the pattern serves the music. It creates a hypnotic, relentless foundation that defines the song\'s character. The technical achievement is in service of artistic vision.
+
+Drummers worldwide have spent years trying to master "Bleed." Most can play short bursts of the pattern, but sustaining it for the full song remains a benchmark of extreme drumming achievement.`,
+      keyPoints: [
+        'Six months of daily practice to play consistently',
+        'Relentless 32nd-note kick pattern sustained for 7+ minutes',
+        'Two single pedal setup essential for the pattern',
+        'Porter & Davies throne provides crucial tactile feedback',
+        'Remains the benchmark for extreme bass drum endurance'
+      ]
+    },
+    // Gear Timeline / Evolution
+    gearTimeline: [
+      {
+        era: 'Early Meshuggah',
+        years: '1990-1997',
+        albums: ['Contradictions Collapse', 'None EP', 'Destroy Erase Improve'],
+        description: 'Establishing the polyrhythmic foundation.',
+        gear: {
+          drums: 'Various Sonor kits (developing relationship)',
+          snare: 'Sonor standard snares',
+          cymbals: 'Zildjian (before Sabian switch)',
+          hardware: 'Standard double pedal (before two-pedal philosophy)'
+        },
+        notes: 'Tomas was already exploring polyrhythms but hadn\'t yet developed his signature two-pedal approach.'
+      },
+      {
+        era: 'Nothing / Catch Thirtythree',
+        years: '1998-2006',
+        albums: ['Chaosphere', 'Nothing', 'Catch Thirtythree', 'I'],
+        description: 'Refinement of the djent template. Two single pedals philosophy emerges.',
+        gear: {
+          drums: 'Sonor Designer Series',
+          snare: 'Sonor Signature prototype development',
+          cymbals: 'Sabian (beginning of relationship)',
+          hardware: 'Two single pedals fully adopted'
+        },
+        notes: 'The definitive Meshuggah sound crystallizes. "Nothing" influences the nascent djent movement.'
+      },
+      {
+        era: 'obZen / Koloss',
+        years: '2008-2014',
+        albums: ['obZen', 'Koloss'],
+        description: '"Bleed" explodes. Peak technical refinement.',
+        gear: {
+          drums: 'Sonor SQ2 Heavy Beech',
+          snare: 'Sonor Tomas Haake Signature',
+          cymbals: 'Sabian HHX/AAX (signature hi-hats)',
+          hardware: 'Tama Speed Cobra single pedals, Porter & Davies BC2'
+        },
+        notes: 'The setup that defined a genre. "Bleed" becomes the benchmark for extreme drumming.'
+      },
+      {
+        era: 'Violent Sleep / Immutable',
+        years: '2016-Present',
+        albums: ['The Violent Sleep of Reason', 'Immutable'],
+        description: 'Live-recorded intensity. Grammy recognition.',
+        gear: {
+          drums: 'Sonor SQ2 Heavy Beech (refined configuration)',
+          snare: 'Sonor Tomas Haake Signature',
+          cymbals: 'Sabian HHX/AAX (latest iterations)',
+          hardware: 'Tama Speed Cobra, Porter & Davies BC2, Wincent sticks'
+        },
+        notes: '"Violent Sleep" recorded live in studio. "Immutable" earns Grammy nomination.'
+      }
+    ],
+    // Videos
+    videos: [
+      { youtubeId: 'qc98u-eGzlc', title: 'Bleed - Official Video', description: 'The legendary track that redefined extreme drumming' },
+      { youtubeId: 'zg2076b5Lqc', title: 'Tomas Haake Drum Playthrough - Rational Gaze', description: 'Studio playthrough showing technique and setup' },
+      { youtubeId: 'Gm9P1QsoGYA', title: 'Meshuggah Live - Drum Cam Compilation', description: 'Live footage showcasing polyrhythmic mastery' },
+      { youtubeId: 'EN4hSXZU6XA', title: 'Tomas Haake Drumeo Interview', description: 'In-depth discussion of technique and philosophy' }
+    ],
+    // Quotes
+    quotes: [
+      { text: "We are a groove band. Despite all the complexity, it has to groove, or it doesn\'t work.", source: "Drumeo Interview", year: 2018 },
+      { text: "I use two single pedals because I need complete independence between my feet. With a double pedal, there\'s always some interference.", source: "Modern Drummer Magazine", year: 2020 },
+      { text: "\'Bleed\' took me six months of practicing every day to be able to play consistently. It was the hardest thing I\'ve ever done.", source: "Sick Drummer Magazine", year: 2009 },
+      { text: "I practice exercises from jazz drumming books. The language is different, but the concepts translate.", source: "Sonor Artist Interview", year: 2022 }
+    ],
+    // Where to Buy
+    gearStillAvailable: {
+      title: 'Tomas\'s Gear You Can Still Buy Today',
+      items: [
+        {
+          item: 'Sonor SQ2 Heavy Beech Drums',
+          available: true,
+          priceRange: '$8,000-15,000 (custom configuration)',
+          notes: 'Custom order through Sonor dealers — specify Heavy Beech shells'
+        },
+        {
+          item: 'Sonor Tomas Haake Signature Snare',
+          available: true,
+          priceRange: '$500-700',
+          notes: 'Available at authorized Sonor dealers'
+        },
+        {
+          item: 'Sabian HHX Compression Hi-Hats (Haake design)',
+          available: true,
+          priceRange: '$500-600',
+          notes: 'Signature model widely available'
+        },
+        {
+          item: 'Tama Speed Cobra Single Pedals (x2)',
+          available: true,
+          priceRange: '$200-280 each',
+          notes: 'Buy two separate single pedals, not the double pedal version'
+        },
+        {
+          item: 'Wincent Tomas Haake Signature Sticks',
+          available: true,
+          priceRange: '$15-20 per pair',
+          notes: 'Available through drum specialty retailers'
+        },
+        {
+          item: 'Porter & Davies BC2 Throne',
+          available: true,
+          priceRange: '$700-900',
+          notes: 'Tactile monitoring throne — game-changer for bass drum feel'
+        }
+      ]
+    },
+    // Related Content
+    relatedAlbums: ['obzen-drum-setup'],
+    relatedDrummers: [14, 15, 7], // Danny Carey, Mario Duplantier, Mike Portnoy
+    relatedArticles: ['best-progressive-metal-drummers', 'djent-drumming-guide'],
+    // Conclusion
+    conclusion: {
+      title: 'The Groove Within the Chaos',
+      content: `Tomas Haake has fundamentally changed how drummers think about rhythm. His polyrhythmic approach — complex patterns layered over steady 4/4 foundations — created the template for an entire genre. Yet he insists that underneath it all, Meshuggah is simply a groove band.
+
+That\'s the key to understanding Tomas. The technical achievements aren\'t goals in themselves — they\'re in service of making music that moves people, even when their brains can\'t quite parse what\'s happening. The complexity creates a hypnotic quality, a mathematical groove that locks you in despite (or because of) its unconventional subdivisions.
+
+The gear Tomas uses reflects this philosophy. The two single pedals aren\'t a gimmick — they\'re essential for the foot independence his patterns require. The Porter & Davies throne isn\'t luxury — it\'s practical monitoring for maintaining precision in loud environments. Every piece of equipment serves a purpose.
+
+For drummers looking to explore polyrhythmic territory, Tomas offers several lessons:
+- Develop true limb independence (consider trying two single pedals)
+- Practice jazz concepts — the vocabulary transfers
+- Prioritize groove over complexity
+- Be prepared to practice for months (or years) to master challenging parts
+- Use gear that serves your playing, not the other way around
+
+Thirty-four years into his career with Meshuggah, Tomas Haake continues to push boundaries while maintaining groove as his north star. The "Bleed" pattern that took six months to master wasn\'t just a technical exercise — it was in service of a song that needed that relentless foundation.
+
+That\'s the Tomas Haake way: complexity in service of groove, technique in service of music, and always — always — the commitment to make it feel right. 🤘`
+    }
   }
 };
 

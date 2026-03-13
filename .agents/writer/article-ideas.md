@@ -170,7 +170,7 @@
 
 ---
 
-### 💡 [IDEA-011] What's In Tomas Haake's Polyrhythmic Arsenal
+### ✍️ [IDEA-011] What's In Tomas Haake's Polyrhythmic Arsenal
 
 **Type:** drummer-kit
 **SEO Keywords:** tomas haake drum kit, meshuggah drummer gear, tomas haake setup, djent drums
@@ -187,7 +187,7 @@
 6. The "Bleed" Gear Requirements
 7. Where to Find Similar Gear
 
-**Status:** IDEA
+**Status:** WRITING (2026-03-13 13:00)
 
 ---
 

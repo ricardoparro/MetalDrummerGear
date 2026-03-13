@@ -170,7 +170,7 @@
 
 ---
 
-### ✍️ [IDEA-011] What's In Tomas Haake's Polyrhythmic Arsenal
+### ✅ [IDEA-011] What's In Tomas Haake's Polyrhythmic Arsenal
 
 **Type:** drummer-kit
 **SEO Keywords:** tomas haake drum kit, meshuggah drummer gear, tomas haake setup, djent drums
@@ -178,16 +178,7 @@
 **Data Available:** Yes (drummerId: 5)
 **Priority:** 5
 
-**Outline:**
-1. Introduction — The Architect of Djent
-2. Sonor SQ2 Heavy Beech Configuration
-3. The Two Single Pedals Philosophy
-4. Sabian Cymbal Selection
-5. Porter & Davies Throne Integration
-6. The "Bleed" Gear Requirements
-7. Where to Find Similar Gear
-
-**Status:** WRITING (2026-03-13 13:00)
+**Status:** PUBLISHED (2026-03-13) — /articles/whats-in-tomas-haakes-kit
 
 ---
 
@@ -254,6 +245,7 @@
 | 2026-03-08 | Number of the Beast Drum Setup | /articles/number-of-the-beast-drum-setup | - |
 | 2026-03-12 | What's In Joey Jordison's Legendary Kit | /articles/whats-in-joey-jordisons-kit | - |
 | 2026-03-13 | What's In Danny Carey's Mind-Bending Kit | /articles/whats-in-danny-careys-kit | - |
+| 2026-03-13 | What's In Tomas Haake's Polyrhythmic Arsenal | /articles/whats-in-tomas-haakes-kit | - |
 
 ---
 
@@ -270,4 +262,4 @@
 
 ---
 
-*Last updated: 2026-03-13 09:03*
+*Last updated: 2026-03-13 13:05*

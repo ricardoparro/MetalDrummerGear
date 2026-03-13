@@ -161,6 +161,13 @@ import {
   getGuideSlugFromURL 
 } from './components/SoundLikeGuides';
 
+// Beginner Gear Guide Component (Issue #702)
+import { 
+  BeginnerGearGuidePage, 
+  isBeginnerGuidePage, 
+  getBeginnerGuideSlugFromURL 
+} from './components/BeginnerGearGuide';
+
 // Extended bios for drummer detail pages (Issue #305)
 // Loaded dynamically for code splitting (~9KB of text data) - TBT optimization #460
 // Fix for #541: Added Promise caching and listeners for reliable async loading
@@ -18951,6 +18958,9 @@ function AppContent() {
   const [showGuide, setShowGuide] = useState(() => isGuidePage());
   const [guideSlug, setGuideSlug] = useState(() => getGuideSlugFromURL());
   
+  // Beginner Gear Guide Page state (Issue #702) - /guides/beginner-metal-drummer-setup
+  const [showBeginnerGuide, setShowBeginnerGuide] = useState(() => isBeginnerGuidePage());
+  
   const [showGearFinder, setShowGearFinder] = useState(() => isGearFinderPage());
   const [selectedGear, setSelectedGear] = useState(null);
   const [loadingGear, setLoadingGear] = useState(false);
@@ -20140,9 +20150,46 @@ function AppContent() {
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
+      } else if (isBeginnerGuidePage()) {
+        // Beginner Gear Guide page (Issue #702) - /guides/beginner-metal-drummer-setup
+        setShowBeginnerGuide(true);
+        setShowGuidesHub(false);
+        setShowGuide(false);
+        setGuideSlug(null);
+        setShowArticle(false);
+        setArticleSlug(null);
+        setShowList(false);
+        setListSlug(null);
+        setShowNewsPage(false);
+        setShowGearNewsPage(false);
+        setShowGearStats(false);
+        setShowTechniquesIndex(false);
+        setShowTechniqueDetail(false);
+        setTechniqueSlug(null);
+        setShowGearComparisonsIndex(false);
+        setShowGearComparison(false);
+        setGearComparisonSlug(null);
+        setShowGenresList(false);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowKitBuilder(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
       } else if (isGuidesHubPage()) {
         // Guides Hub page (Issue #685) - /guides
         setShowGuidesHub(true);
+        setShowBeginnerGuide(false);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -21731,6 +21778,22 @@ setShowList(false);
         />
       );
     }
+    // Beginner Gear Guide Page (Issue #702) - /guides/beginner-metal-drummer-setup
+    if (showBeginnerGuide) {
+      return (
+        <BeginnerGearGuidePage
+          theme={theme}
+          onBack={() => {
+            setShowBeginnerGuide(false);
+            setShowGuidesHub(true);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/guides');
+            }
+          }}
+          onSelectDrummer={handleSelectDrummer}
+        />
+      );
+    }
     // Guides Hub Page (Issue #685) - SEO content hub at /guides
     if (showGuidesHub) {
       return (
@@ -21743,11 +21806,20 @@ setShowList(false);
             }
           }}
           onSelectGuide={(slug) => {
-            setShowGuidesHub(false);
-            setShowGuide(true);
-            setGuideSlug(slug);
-            if (Platform.OS === 'web' && typeof window !== 'undefined') {
-              window.history.pushState({}, '', `/guides/${slug}`);
+            // Check if it's the beginner guide
+            if (slug === 'beginner-metal-drummer-setup') {
+              setShowGuidesHub(false);
+              setShowBeginnerGuide(true);
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/guides/beginner-metal-drummer-setup');
+              }
+            } else {
+              setShowGuidesHub(false);
+              setShowGuide(true);
+              setGuideSlug(slug);
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/guides/${slug}`);
+              }
             }
           }}
         />

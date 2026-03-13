@@ -1,6 +1,6 @@
 # MetalForge - LLM Content Index
 
-> Last Updated: 2026-02-17  
+> Last Updated: 2026-03-13  
 > Source: https://metalforge.io
 
 ## About MetalForge
@@ -23,7 +23,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 
 ---
 
-## Drummer Profiles (60 total)
+## Drummer Profiles (61 total)
 
 | Drummer | Band | Genre | Profile | Markdown API |
 |---------|------|-------|---------|--------------|
@@ -87,6 +87,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Jocke Wallgren | Amon Amarth | Melodic Death Metal / Viking Metal | [Profile](https://metalforge.io/drummer/jocke-wallgren) | [Markdown](https://metalforge.io/api/drummer/jocke-wallgren/markdown) |
 | Tim Yeung | Morbid Angel / Hate Eternal / Vital Remains | Death Metal / Technical Death Metal | [Profile](https://metalforge.io/drummer/tim-yeung) | [Markdown](https://metalforge.io/api/drummer/tim-yeung/markdown) |
 | Kevin Talley | Dying Fetus / Misery Index / Six Feet Under | Brutal Death Metal / Grindcore | [Profile](https://metalforge.io/drummer/kevin-talley) | [Markdown](https://metalforge.io/api/drummer/kevin-talley/markdown) |
+| Isaac Lamb | Kublai Khan TX | Metalcore / Beatdown Hardcore | [Profile](https://metalforge.io/drummer/isaac-lamb) | [Markdown](https://metalforge.io/api/drummer/isaac-lamb/markdown) |
 
 ---
 

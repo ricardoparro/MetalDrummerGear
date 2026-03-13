@@ -1,11 +1,11 @@
 {
   "account": "@MetalDrumGear",
   "url": "https://x.com/MetalDrumGear",
-  "followers": 6,
+  "followers": 5,
   "following": 22,
   "target": 5000,
   "posts": 48,
-  "lastChecked": "2026-03-12",
+  "lastChecked": "2026-03-13",
   "launched": "2026-02-06",
   "weeklyGrowth": [
     {
@@ -48,6 +48,13 @@
       "growth": 2,
       "posts": 48,
       "notes": "Morning run (11h): +2 new followers (cara, drew smith). Strong verified engagement from recent replies. Attempted Revolver Magazine reply (A7X Afterlife/The Rev). Browser automation dialog issues prevented completion. Ready for Joey Jordison DYK + additional engagement."
+    },
+    {
+      "date": "2026-03-13",
+      "followers": 5,
+      "growth": -1,
+      "posts": 48,
+      "notes": "Morning run (11h): -1 follower (likely cleanup/unfollow). New follower: PO (@po_meter) 15h ago. Notifications active: VR Drums, cara, Robert Plant, Geoff Lupton liked replies. Browser automation issues prevented direct posting. Ready targets: Revolver (Type O Negative), Metal Hammer, Meinl Cymbals (Archspire)."
     }
   ],
   "topPosts": [],

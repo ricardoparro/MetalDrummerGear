@@ -2524,7 +2524,9 @@ function ArticlesIndexPage({ theme, onBack, onSelectArticle }) {
               <View style={{ flex: 1 }}>
                 <Text style={[styles.articleListTitle, { color: theme.text }]}>{article.title}</Text>
                 <Text style={[styles.articleListMeta, { color: theme.secondaryText }]}>
-                  {article.artist} • {article.albumTitle} ({article.year})
+                  {article.articleType === 'drummer-kit' 
+                    ? `${article.band || ''} • ${article.genre || 'Drummer Kit'}`
+                    : `${article.artist} • ${article.albumTitle} (${article.year})`}
                 </Text>
               </View>
               <Text style={{ color: theme.secondaryText, fontSize: 20 }}>→</Text>

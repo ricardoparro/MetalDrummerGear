@@ -1,8 +1,8 @@
 # MetalForge Complete Database
 # Metal Drummer Gear Database - Full Content Dump for LLMs
-# Last Updated: 2026-02-17
+# Last Updated: 2026-03-13
 # Source: https://metalforge.io
-# Total Drummers: 60
+# Total Drummers: 61
 #
 # This file contains comprehensive information about professional metal drummers,
 # their gear setups, biographies, quotes, and career highlights.
@@ -1570,11 +1570,9 @@ A: Mandala drums are electronic pads Danny uses for triggering samples and melod
 A: Yes, Danny was inducted into the Modern Drummer Hall of Fame in 2016.
 
 ### Featured Videos
-- Tool - Pneuma (Live Drum Cam) (2019): https://youtube.com/watch?v=FssULNGSZIA
-- Tool - Forty Six & 2 (Live Drum Cam) (2019): https://youtube.com/watch?v=qJq9y9xPKWs
-- Tool - Cleveland 2002 (Drum Cam) (2002): https://youtube.com/watch?v=Lawu_5p8Kg4
-- Tool - Invincible (Live Drum Cam) (2019): https://youtube.com/watch?v=NE3kor-Uo7I
-- Tool - Lateralus (Official Audio) (2001): https://youtube.com/watch?v=Y7JG63IuaWs
+- Pneuma - Live in Concert (2022): https://youtube.com/watch?v=FssULNGSZIA
+- Danny Carey Evolution (1990-2025) (2025): https://youtube.com/watch?v=lrZGHOqYDBI
+- Jambi Breakdown - Live (2023): https://youtube.com/watch?v=zOf0H9a54Aw
 
 ---
 
@@ -2601,9 +2599,9 @@ Shannon Larkin's drumming style is characterized by powerful grooves, dynamic co
 - Has remained remarkably consistent throughout his 30+ year career
 
 ### Featured Videos
-- Godsmack - I Stand Alone (Live Drum Cam) (2018): https://youtube.com/watch?v=wJz1zGxM9y0
-- Shannon Larkin - Sabian Live Session (2014): https://youtube.com/watch?v=KMn7opjG7Ow
-- Godsmack - Whatever (Official Drum Playthrough) (2019): https://youtube.com/watch?v=N0BcDLpX5NM
+- When Legends Rise - Remo Performance (2018): https://youtube.com/watch?v=NbTnlLWxKew
+- When Legends Rise - Drum Cam (2019): https://youtube.com/watch?v=hDYKTXK4ie8
+- Drum Battle - Sully vs Shannon (2010): https://youtube.com/watch?v=iJ8-r_hd5PY
 
 ---
 
@@ -2682,9 +2680,9 @@ Raymond Herrera's drumming style revolutionized industrial metal with its combin
 - Despite departure, his influence is heard in countless modern metal bands
 
 ### Featured Videos
-- Fear Factory - Replica (Drum Cam) (2004): https://youtube.com/watch?v=fjNFSSf2fLs
-- Fear Factory - Demanufacture (Live) (2005): https://youtube.com/watch?v=nCOPLxPfazo
-- Fear Factory - Edgecrusher (Official Video) (1998): https://youtube.com/watch?v=kE0Y8Wd3rfs
+- Zero Signal - Drum Performance (2018): https://youtube.com/watch?v=3OwfqJNoRNU
+- Transgression - Foot Cam (2006): https://youtube.com/watch?v=AyXejgiu78M
+- G4 TV Drum Off (2007): https://youtube.com/watch?v=EPlTV5XoG48
 
 ---
 
@@ -2714,9 +2712,9 @@ Morgan Ågren (born July 13, 1967) is a Swedish drummer renowned for his extraor
 - Remo Drumheads
 
 ### Featured Videos
-- Morgan Ågren - Drum Solo (Mats/Morgan Band) (2014): https://youtube.com/watch?v=5MQhk8oOjOU
-- Morgan Ågren's Conundrum - Documentary Trailer (2013): https://youtube.com/watch?v=NF_cMdGbEV4
-- Mats/Morgan - Live Performance (2016): https://youtube.com/watch?v=n3VrJh3eGFM
+- Morgan Ågren - Performance (2019): https://youtube.com/watch?v=LjinwnyZgnE
+- Drum Improv Session (2011): https://youtube.com/watch?v=RJKGE9-WaNU
+- Weird Drum Ideas - Interview (2020): https://youtube.com/watch?v=Ui8LaFmXOKQ
 
 ---
 
@@ -2796,9 +2794,9 @@ Igor Cavalera's drumming style revolutionized metal by incorporating Brazilian t
 - Considered one of the most innovative drummers in metal history
 
 ### Featured Videos
-- Sepultura - Roots Bloody Roots (Official Drum Cam) (2017): https://youtube.com/watch?v=6V7k5D9fkwI
-- Cavalera - Schizophrenia (Full Album Playthrough) (2024): https://youtube.com/watch?v=AK5xYDHC0Ws
-- Sepultura - Territory (Classic Drum Cam) (1996): https://youtube.com/watch?v=Q1bNFq8p8u8
+- Subtraction Drum Fill - Sepultura (2023): https://youtube.com/watch?v=L3GJkpAm5mY
+- Territory - Live USA (2025) (2025): https://youtube.com/watch?v=h7XrH-KljLg
+- Roots of Rhythm - Live (2024): https://youtube.com/watch?v=hTxa4Yr1YHs
 
 ---
 
@@ -2879,9 +2877,8 @@ Bill Ward's drumming style is characterized by jazz-influenced swing, dynamic ra
 - His drumming on "Iron Man" and "War Pigs" defined heavy metal drumming
 
 ### Featured Videos
-- Black Sabbath - War Pigs (Live Paris 1970) (1970): https://youtube.com/watch?v=IDJgwUeW7_k
-- Black Sabbath - Rat Salad (Drum Solo) (1970): https://youtube.com/watch?v=KDxJdDT_C0Y
-- Bill Ward Drum Interview & Performance (2015): https://youtube.com/watch?v=NME5YSs8yws
+- 10 Times Bill Ward Was the Best Drummer on Earth (2021): https://youtube.com/watch?v=C30xAmoiDDQ
+- The Genius of Bill Ward (2020): https://youtube.com/watch?v=kkL05mggaCM
 
 ---
 
@@ -2967,9 +2964,9 @@ A: Nick Augusto played Tama Starclassic drums with Meinl cymbals and Tama Iron C
 A: Nick parted ways with Trivium in 2014, citing creative differences. He was replaced by Mat Madiro.
 
 ### Featured Videos
-- Trivium - In Waves (Official Drum Cam) (2012): https://youtube.com/watch?v=Rp6QU2f2nDQ
-- Trivium - Built to Fall (Live Drum Cam) (2012): https://youtube.com/watch?v=x_f7c4cLjYQ
-- Trivium - Pull Harder On The Strings Of Your Martyr (Live) (2013): https://youtube.com/watch?v=C8vbP4VzXDA
+- Path to the Big Stage (Full Episode) (2016): https://youtube.com/watch?v=FYbosW99Qyc
+- Brave This Storm - Live Drum Cam (2013): https://youtube.com/watch?v=ZVlfI2Rkous
+- In Waves - Live Drum Cam (2012): https://youtube.com/watch?v=dF2o2SJ6Dv4
 
 ---
 
@@ -3055,9 +3052,9 @@ A: Chris Turner is known for his extreme technical precision, viral drumming vid
 A: Chris Turner is capable of playing extremely fast double bass patterns (200+ BPM) while maintaining clarity and groove.
 
 ### Featured Videos
-- Oceans Ate Alaska - Hansha (Official Drum Playthrough) (2017): https://youtube.com/watch?v=aCwkNBdqrPk
-- Chris Turner - Metamorph (Drum Playthrough) (2020): https://youtube.com/watch?v=yN4zLJxHl0Y
-- Oceans Ate Alaska - Covert (Drum Cam) (2017): https://youtube.com/watch?v=vR7rQBaKpOk
+- Hansha - Drum Playthrough (2022): https://youtube.com/watch?v=CwDimmMy69c
+- Endless Hollow - Drum Playthrough (2023): https://youtube.com/watch?v=cxddRNN-IIc
+- Escapist - Drum Playthrough (2021): https://youtube.com/watch?v=qujpwf9-ODg
 
 ---
 
@@ -3154,9 +3151,9 @@ A: August Burns Red has received multiple Grammy nominations but has not yet won
 A: Matt Greiner co-founded August Burns Red in 2003 and has been their drummer for over 20 years.
 
 ### Featured Videos
-- August Burns Red - White Washed (Meinl Cymbals Drum Playthrough) (2017): https://youtube.com/watch?v=qC-VtlrpYrk
-- August Burns Red - Paramount (Drum Playthrough) (2019): https://youtube.com/watch?v=G0cZ-qPgFog
-- August Burns Red - Identity (Grammy Nominated Performance) (2016): https://youtube.com/watch?v=XhOvZFx9eKE
+- White Washed - Break Down Series (2017): https://youtube.com/watch?v=aUnQNahYH-g
+- Paramount - Drum Playthrough (2020): https://youtube.com/watch?v=i6952GF3pdI
+- Composure - Drum Playthrough (2019): https://youtube.com/watch?v=iSoU9fs4Umo
 
 ---
 
@@ -3252,9 +3249,9 @@ A: Blake Richardson uses Meinl Byzance cymbals, known for their complex tones su
 A: Blake Richardson plays progressive metal, seamlessly blending death metal, jazz fusion, and experimental elements within BTBAM's genre-defying compositions.
 
 ### Featured Videos
-- BTBAM - Selkies: The Endless Obsession (Drum Cam) (2018): https://youtube.com/watch?v=mT0YYjM9BcU
-- BTBAM - Fix the Error (Drum Playthrough) (2021): https://youtube.com/watch?v=lX-q9fD4Nz4
-- BTBAM - Condemned to the Gallows (Grammy Nominated) (2019): https://youtube.com/watch?v=WyN1_OgUQFc
+- Voice of Trespass - Live Drum Playthrough (2019): https://youtube.com/watch?v=GR8bITumSdk
+- BTBAM Grooves & Fills Breakdown (2020): https://youtube.com/watch?v=RzQ3AQZ-MuA
+- Recording Obfuscation (2018): https://youtube.com/watch?v=snGxAUBMZHY
 
 ---
 
@@ -3346,9 +3343,9 @@ A: Ben Koller plays Tama Starclassic drums with Zildjian cymbals and Tama Iron C
 A: Ben Koller joined Converge in 1999, replacing original drummer Damon Bellorado.
 
 ### Featured Videos
-- Converge - A Single Tear (Live Drum Cam) (2018): https://youtube.com/watch?v=hYR0qvh_K8A
-- Mutoid Man - Melt Your Mind (Drum Playthrough) (2017): https://youtube.com/watch?v=BNXJJeGTb3Y
-- Converge - Jane Doe (Full Album Drum Cam) (2021): https://youtube.com/watch?v=Q_4c_H21nXg
+- Concubine & Dark Horse - GoPro Drum Cam (2016): https://youtube.com/watch?v=5T4iTvQ8ZUg
+- Full Set Live Drum Cam (2016) (2016): https://youtube.com/watch?v=VvA5P_iPjjY
+- Vengeance (No Heroes) - Live (2023): https://youtube.com/watch?v=mz6opF7X9A4
 
 ---
 
@@ -3433,9 +3430,9 @@ Flo Mounier's drumming style is characterized by extreme speed, technical precis
 - His one-footed blast beat technique has been studied and imitated worldwide
 
 ### Featured Videos
-- Cryptopsy - Phobophile (Drum Cam) (2016): https://youtube.com/watch?v=pSXvnVdjPQQ
-- Flo Mounier - None So Vile Full Album Playthrough (2019): https://youtube.com/watch?v=B5yDrVPV8PU
-- Cryptopsy - Cold Hate, Warm Blood (Live Drum Cam) (2018): https://youtube.com/watch?v=gKQl6RNPN0Q
+- Sire of Sin - Drum Playthrough (2019): https://youtube.com/watch?v=-U6ScIBk4qE
+- Slit Your Guts - Brutal Assault (Drum Cam) (2017): https://youtube.com/watch?v=Ef_0my8krZc
+- Phobophile - Rehearsal (2020): https://youtube.com/watch?v=c_1RZcM3zso
 
 ---
 
@@ -3522,9 +3519,9 @@ Jason Bittner's drumming combines thrash metal power with the groove and heavine
 - His powerful style has adapted well to Overkill's classic thrash sound
 
 ### Featured Videos
-- Shadows Fall - The Light That Blinds (Drum Cam) (2007): https://youtube.com/watch?v=dLCYn7AoJ0I
-- Overkill - Ironbound (Live Drum Cam) (2019): https://youtube.com/watch?v=1Dj5TYhxTNo
-- Jason Bittner - What Drives the Beat (Instructional DVD) (2008): https://youtube.com/watch?v=RkqZF7j-q8E
+- Mean Green Killing Machine - Drum Performance (2019): https://youtube.com/watch?v=N4DxwwiGCh0
+- Last Man Standing - Drum Cam (Budapest) (2019): https://youtube.com/watch?v=W8_4tEyGCoo
+- Overkill Live Performance (2020): https://youtube.com/watch?v=kPuxxLqvCNw
 
 ---
 
@@ -3612,9 +3609,9 @@ Martin Lopez's drumming style is characterized by exceptional dynamics, jazz-inf
 - Soen's sound deliberately avoids pure metal, showcasing his versatility
 
 ### Featured Videos
-- Soen - Lotus (Drum Playthrough) (2019): https://youtube.com/watch?v=jXBEKz2BTU8
-- Opeth - Blackwater Park (Classic Drum Cam) (2003): https://youtube.com/watch?v=7GUKHxPHhj8
-- Soen - Rival (Live Drum Cam) (2021): https://youtube.com/watch?v=r2LpBhGZyL0
+- Ex-Opeth Drummer Performance (2016): https://youtube.com/watch?v=2zRdhNGyRsc
+- Deliverance Outro - Drum Performance (2015): https://youtube.com/watch?v=kI8w_r9mvBw
+- Ghost of Perdition - Drum Performance (2018): https://youtube.com/watch?v=wuIt-kMFi60
 
 ---
 
@@ -3693,9 +3690,8 @@ Travis Orbin's drumming style combines extreme technical proficiency with musica
 - Based in Baltimore, maintains active presence in local music scene
 
 ### Featured Videos
-- Periphery - Icarus Lives! (Drum Playthrough) (2012): https://youtube.com/watch?v=spCmStMOiHE
-- Darkest Hour - Those Who Survived (Drum Playthrough) (2017): https://youtube.com/watch?v=xBKCQd5Tr5g
-- Travis Orbin - Letter Experiment (Full Playthrough) (2014): https://youtube.com/watch?v=aJr3h7MhLC0
+- Zyglrox - Periphery Playalong (2017): https://youtube.com/watch?v=iUexj385fxQ
+- Totla Mad - Periphery Playalong (2017): https://youtube.com/watch?v=t15pif66cUw
 
 ---
 
@@ -3780,9 +3776,9 @@ Ryan Van Poederooyen's drumming style is characterized by power, precision, and 
 - The "Retinal Circus" live performance showcased his versatility across Townsend's catalog
 
 ### Featured Videos
-- Devin Townsend Project - Supercrush! (Drum Cam) (2012): https://youtube.com/watch?v=4DOPkHrW5wQ
-- Devin Townsend - Kingdom (Live Drum Cam) (2016): https://youtube.com/watch?v=nubJjB95VdY
-- Devin Townsend Project - Addicted (Full Show Drum Cam) (2011): https://youtube.com/watch?v=hVd2n3lFZaE
+- Regulator - Barcelona Drum Cam (2017): https://youtube.com/watch?v=M2wHrzRkq5U
+- Higher - Dallas Drum Cam (2016): https://youtube.com/watch?v=S7auRW4YsLc
+- Failure - Drum Breakdown (2020): https://youtube.com/watch?v=vyYq8_m6x2k
 
 ---
 
@@ -4131,9 +4127,9 @@ Derek Roddy's drumming style combines extreme speed with clarity and endurance. 
 - Continues to influence extreme drummers through online presence
 
 ### Featured Videos
-- Derek Roddy - Extreme Metal Drumming Demo (2012): https://youtube.com/watch?v=kOIj7AgonHM
-- Derek Roddy - Blast Beat Techniques (Educational) (2010): https://youtube.com/watch?v=XP4HW5Zh1hM
-- Derek Roddy - One Foot Blast Demonstration (2012): https://youtube.com/watch?v=KJJ64nqEfYs
+- Meeting Erik Rutan - Hate Eternal Interview (2020): https://youtube.com/watch?v=GHFCf9o3Iy0
+- NAMM Drum Solo (2015): https://youtube.com/watch?v=hwxjX7-_LJ8
+- Black Seeds of Vengeance - Drum Fill (2019): https://youtube.com/watch?v=qF-CII9A-Mo
 
 ---
 
@@ -4218,9 +4214,9 @@ Dirk Verbeuren's drumming style bridges melodic death metal technicality with th
 - One of the few European drummers in a Big Four band's history
 
 ### Featured Videos
-- Megadeth - Symphony of Destruction (Drum Cam 2017) (2017): https://youtube.com/watch?v=vfpgpf6QVnI
-- Megadeth - Holy Wars (Drum Cam Live) (2018): https://youtube.com/watch?v=BklWXe5GMyk
-- Soilwork - Nerve Drum Playthrough (2013): https://youtube.com/watch?v=Lkx-fsnB2AA
+- Mechanix - Drum Playthrough (2021): https://youtube.com/watch?v=E2AZrt_qFEU
+- The Conjuring - Drum Playthrough (2020): https://youtube.com/watch?v=kSfJgLDlrIM
+- Tornado of Souls - Live Drum Cam (2023): https://youtube.com/watch?v=oMvDuxAQNOY
 
 ---
 
@@ -4306,9 +4302,9 @@ Frost's drumming style epitomizes the black metal aesthetic: relentless blast be
 - Often cited as one of the top 10 extreme metal drummers in polls
 
 ### Featured Videos
-- Satyricon - Mother North (Live at Wacken 2018) (2018): https://youtube.com/watch?v=hL2WzIv7dZ4
-- 1349 - Sculptor of Flesh (Drum Cam) (2019): https://youtube.com/watch?v=KMDvGqeSqLo
-- Frost - Extreme Drumming Demonstration (2015): https://youtube.com/watch?v=8XjSfZDwJ7Y
+- Satyricon Drumming (2020): https://youtube.com/watch?v=ZqC73hT5nWQ
+- Forhekset - Live Poland (Drum Cam) (2025): https://youtube.com/watch?v=tbxS-cpQ6Aw
+- The Pentagram Burns - Live Drum Cam (2025): https://youtube.com/watch?v=wR9fpU2_yeo
 
 ---
 
@@ -4396,9 +4392,8 @@ Gavin Harrison's drumming style is defined by sophisticated polyrhythmic concept
 - Collaborated with 05Ric—a trio of three drummers creating interlocking patterns
 
 ### Featured Videos
-- Porcupine Tree - Anesthetize (Live) (2010): https://youtube.com/watch?v=MSEQZ8reJA4
-- King Crimson - Discipline (Live) (2018): https://youtube.com/watch?v=Gf2hqO9qMxM
-- Gavin Harrison - Sound Like You Mean It (Drumeo) (2019): https://youtube.com/watch?v=vSCQiEsXgzQ
+- White Mist - The Pineapple Thief (2021): https://youtube.com/watch?v=n7scYYsLdcM
+- Fill Decrypted - Breakdown (2023): https://youtube.com/watch?v=ymM8Xbb2D1c
 
 ---
 
@@ -4482,9 +4477,9 @@ Abe Cunningham's drumming style is immediately recognizable—unconventional pat
 - Has been described as "the heartbeat" of Deftones' sound
 
 ### Featured Videos
-- My Own Summer - Drum Cam (Live 2017) (2017): https://youtube.com/watch?v=XOzs1FehYOA
-- Deftones - Digital Bath (Drum Cam) (2010): https://youtube.com/watch?v=Hhu_8kHgaKs
-- Abe Cunningham - In the Studio (Recording Koi No Yokan) (2012): https://youtube.com/watch?v=T-dPPuGWjJo
+- Change (In the House of Flies) - Drum Performance (2020): https://youtube.com/watch?v=DmrnCwtdxzg
+- Back to School - Reading Festival (BBC) (2011): https://youtube.com/watch?v=RQsFyUZRZiA
+- Sound Legacy Interview & Performance (2019): https://youtube.com/watch?v=VH5F_9Y1CII
 
 ---
 
@@ -4570,9 +4565,9 @@ Richard Christy's drumming style is characterized by exceptional speed, technica
 - His work with Control Denied demonstrated versatility beyond pure death metal
 
 ### Featured Videos
-- Death - Spirit Crusher (Live in L.A. Drum Cam) (2001): https://youtube.com/watch?v=rRYeZ8r_TNM
-- Death - The Flesh and the Power It Holds (Drum Playthrough) (2015): https://youtube.com/watch?v=xk3BvNLeNgw
-- Richard Christy - Drum Technique Video (2010): https://youtube.com/watch?v=gPYtAqfpOho
+- Death Drummer Discussion (2022): https://youtube.com/watch?v=_UQqqJ8AHGM
+- Scavenger of Human Sorrow Drum Intro (2020): https://youtube.com/watch?v=t9vOO6C3-ZU
+- Sound of Perseverance - Drum Cover (2023): https://youtube.com/watch?v=nZDB1NW5CeY
 
 ---
 
@@ -4658,9 +4653,9 @@ Aquiles Priester's drumming style combines extreme speed with musicality and sho
 - Maintains an extensive practice regimen to keep up with demanding schedules
 
 ### Featured Videos
-- Angra - Nova Era (Drum Cam) (2006): https://youtube.com/watch?v=BxqhvfqjHIo
-- W.A.S.P. - I Wanna Be Somebody (Live Drum Cam) (2015): https://youtube.com/watch?v=R4VLfOTmAQg
-- Aquiles Priester - Double Bass Speed Techniques (2012): https://youtube.com/watch?v=4Vn3pfpOmbs
+- W.A.S.P. Tour Kit Rundown (2024): https://youtube.com/watch?v=5IFAiuw28c4
+- Aquiles Priester & Thomas Lang Workshop (2025): https://youtube.com/watch?v=Gw_XYlBAGIU
+- I Wanna Be Somebody - Drum Playthrough (2024): https://youtube.com/watch?v=QePPGzx2N1s
 
 ---
 
@@ -4820,7 +4815,9 @@ Mike Mangini's drumming represents the intersection of academic study and practi
 - Has stated that his goal is to make complex time signatures feel natural and groovy
 
 ### Featured Videos
-- Dream Theater - The Dance of Eternity (Drum Cam) (2019): https://youtube.com/watch?v=FwkcRTNMsWs
+- Its Noise - Live at Sweetwater Studios (2023): https://youtube.com/watch?v=358Aib0DAqk
+- The Alien - Drum Cam (Live) (2022): https://youtube.com/watch?v=4wr4sZZcDcc
+- Drum Solo - Luna Park (Live) (2021): https://youtube.com/watch?v=ZmTJD3sjVIU
 
 ---
 
@@ -5057,7 +5054,9 @@ Jaska Raatikainen's drumming style perfectly complemented Children of Bodom's un
 - The band influenced countless melodic death metal and power metal acts
 
 ### Featured Videos
-- Children of Bodom - In Your Face (Drum Cam) (2011): https://youtube.com/watch?v=pQvHwCaQYio
+- Warheart - Drum Performance (2017): https://youtube.com/watch?v=RtKZ1yMzgCQ
+- Everytime I Die - Drum Cam (Munich) (2017): https://youtube.com/watch?v=cSgr7fqHwfs
+- Lake Bodom - Tuska Festival Drum Cam (2014): https://youtube.com/watch?v=tykQPfeu9u0
 
 ---
 
@@ -5136,7 +5135,9 @@ Hannes Grossmann's drumming style is characterized by extraordinary precision, j
 - Returned to Obscura in 2020 after a 6-year hiatus from the band
 
 ### Featured Videos
-- Obscura - Anticosmic Overload (Drum Playthrough) (2016): https://youtube.com/watch?v=L4sQvHXaYEE
+- Alien Utopia - Drum Playthrough (2023): https://youtube.com/watch?v=-mgNxQBY7mw
+- Practice Makes Progress - Breakdown (2022): https://youtube.com/watch?v=63eT5f4kxX0
+- Alter Magnitudes - Drum Playthrough (2021): https://youtube.com/watch?v=Fz6kzxOP5WU
 
 ---
 
@@ -5283,7 +5284,9 @@ Jocke Wallgren's drumming style emphasizes power, groove, and consistency. His a
 - His steady, powerful style perfectly suits Amon Amarth's anthemic songwriting
 
 ### Featured Videos
-- Amon Amarth - Raise Your Horns (Drum Cam) (2018): https://youtube.com/watch?v=mLpxoixOUPE
+- War Of The Gods - With Full Force 2016 (2016): https://youtube.com/watch?v=10DYb9ni_AQ
+- Twilight of the Thunder God - Drum Performance (2017): https://youtube.com/watch?v=Pwr5RAEUrUY
+- First Kill - Live Drum Cam (2018): https://youtube.com/watch?v=gnxRJrFvOS8
 
 ---
 
@@ -5361,7 +5364,9 @@ Tim Yeung's drumming style is defined by extreme speed, unwavering consistency, 
 - His endurance allows for consistent performance throughout grueling tour schedules
 
 ### Featured Videos
-- Morbid Angel - Immortal Rites (Live Drum Cam) (2019): https://youtube.com/watch?v=xJj5XLSz2Uk
+- Rapture - Morbid Angel Drum Cam (2012): https://youtube.com/watch?v=1CVjY2e8BZg
+- Vengeance is Mine - Drum Cam (2013): https://youtube.com/watch?v=3qKMw2Pt6wE
+- The Lion's Den - Drum Cam (2013): https://youtube.com/watch?v=PUftKgBoyW4
 
 ---
 
@@ -5439,7 +5444,102 @@ Kevin Talley's drumming style is characterized by extreme speed, technical preci
 - Six Feet Under tenure lasted 6 years, his longest single band stint
 
 ### Featured Videos
-- Dying Fetus - Destroy the Opposition (Drum Cam) (2008): https://youtube.com/watch?v=mC6qAs9M3Kk
+- Epidemic of Hate Drum Intro - Dying Fetus (2018): https://youtube.com/watch?v=Rt4TLrHmW4k
+- Subjected to a Beating - Insane Drum Break (2019): https://youtube.com/watch?v=_idv6zoZ8RU
+- Dying Fetus - Live Poland (Drum Cam) (2023): https://youtube.com/watch?v=nUBHGzfJSzM
+
+---
+
+---
+
+## Drummer: Isaac Lamb
+**Band:** Kublai Khan TX
+**Genre:** Metalcore / Beatdown Hardcore
+**Country:** USA
+**Profile URL:** https://metalforge.io/drummer/isaac-lamb
+
+### Band History
+- Kublai Khan TX: 2009–present (current)
+
+### Biography
+Isaac Lamb is an American drummer and founding member of the beatdown hardcore/metalcore band Kublai Khan TX, formed in Sherman, Texas in 2009. As the only drummer in the band's history, Lamb has been instrumental in developing their signature sound—characterized by crushing breakdowns, heavy grooves, and aggressive intensity that has made them one of the most respected bands in modern hardcore. His drumming style emphasizes power, groove, and devastating timing on breakdowns.
+
+### Detailed Overview
+Isaac Lamb is an American drummer and founding member of the beatdown hardcore/metalcore band Kublai Khan TX, formed in Sherman, Texas in 2009. As the only consistent drummer in the band's history, Lamb has been instrumental in developing Kublai Khan TX's signature sound—characterized by crushing breakdowns, heavy grooves, and aggressive intensity that has made them one of the most respected bands in modern hardcore.
+
+Kublai Khan TX draws influence from early 1990s metallic hardcore bands like Integrity, Earth Crisis, All Out War, and Hatebreed. Lamb's drumming style emphasizes power, groove, and devastating timing on breakdowns, helping establish the band as leaders in the beatdown hardcore subgenre. The band has released five studio albums and has toured extensively with major acts in the hardcore and metal scenes.
+
+### Career Highlights
+- 2009: Co-founded Kublai Khan in Sherman, Texas with vocalist Matt Honeycutt
+- 2010: Self-released debut EP "Youth War," establishing their beatdown hardcore sound
+- 2014: Signed to Artery Recordings; released debut album "Balancing Survival and Happiness"
+- 2015: Released "New Strength" to critical acclaim in the hardcore community
+- 2017: Signed to Rise Records; released "Nomad," expanding their reach
+- 2019: Released "Absolute," solidifying their position in the heavy music scene
+- 2022: Released "Lowest Form of Animal" EP featuring Scott Vogel of Terror on "Swan Song"
+- 2024: Released "Exhibition of Prowess," their most ambitious album to date
+- 2024: Featured on Lamb of God's "Another Nail for Your Coffin" with Malevolence
+- 2025: Released "The Mountain of Corsicana" single; continued extensive touring
+
+### Current Gear
+- **Drums:** SJC Custom Drums
+- **Snare:** SJC Custom 14x6.5"
+- **Cymbals:** Meinl Classics Custom Dark Series (14" Hi-Hats, 18" & 20" Crashes, 21" Ride, 18" China)
+- **Hardware:** DW 9000 Series Double Pedal
+- **Sticks:** Vic Firth American Classic 2B
+- **Heads:** Evans Hydraulic
+
+### Endorsements
+- SJC Custom Drums
+- Meinl Cymbals
+- Vic Firth Sticks
+
+### Style & Influences
+Isaac Lamb's drumming style is defined by powerful, groove-oriented playing that serves Kublai Khan TX's heavy, breakdown-driven sound. His approach prioritizes devastating impact over technical showmanship, creating patterns that hit with maximum force while maintaining a relentless, driving energy.
+
+**Key Influences:**
+- **Hatebreed**: Hardcore intensity and breakdown-driven approach
+- **Earth Crisis**: Metallic hardcore foundation
+- **Integrity**: Raw hardcore power
+- **All Out War**: Beatdown hardcore aggression
+- **Pantera**: Groove metal influence on heavy riffs
+
+**Signature Techniques:**
+- Devastating breakdown accents with precise snare hits
+- Powerful double bass patterns for added weight
+- Groove-focused rhythms that emphasize the "bounce"
+- Dynamic buildup sections leading into crushing breakdowns
+- Tight, punchy playing that cuts through heavily downtuned guitars
+
+### Trivia & Fun Facts
+- Has been the only drummer in Kublai Khan TX's history since their formation in 2009
+- Band name comes from the 13th-century Mongol emperor, grandfather of Genghis Khan
+- Added "TX" to band name due to legal dispute with Minnesota thrash band of same name
+- Kublai Khan TX is known for socially conscious lyrics addressing racism, police brutality, and violence against women
+- Band uses heavily downtuned 7-string guitars (sometimes drop G#) requiring powerful drumming to match
+- Sherman, Texas (band's hometown) is about 60 miles north of Dallas
+- Featured collaboration with Terror's Scott Vogel on "Swan Song" (2022)
+- Band appeared on Lamb of God's "Another Nail for Your Coffin" in 2024
+- Kublai Khan TX has become one of the most influential bands in modern beatdown hardcore
+
+### Frequently Asked Questions
+**Q: What band is Isaac Lamb in?**
+A: Isaac Lamb is the founding drummer of Kublai Khan TX, a beatdown hardcore/metalcore band from Sherman, Texas formed in 2009.
+
+**Q: Why is Kublai Khan called Kublai Khan TX?**
+A: The band added "TX" to their name following a legal dispute with a Minnesota thrash metal band also called Kublai Khan.
+
+**Q: What genre is Kublai Khan TX?**
+A: Kublai Khan TX plays beatdown hardcore and metalcore, influenced by 90s metallic hardcore bands like Hatebreed, Earth Crisis, and Integrity.
+
+**Q: How long has Isaac Lamb been in Kublai Khan TX?**
+A: Isaac Lamb has been Kublai Khan TX's drummer since the band formed in 2009—he is a founding member and the only drummer in their history.
+
+**Q: What is Kublai Khan TX's most popular song?**
+A: Songs like "The Hammer," "Belligerent," "Swan Song," and "Theory of Mind" are among their most popular tracks.
+
+### Featured Videos
+- Kublai Khan TX - Drum Cam (2023): https://youtube.com/watch?v=xBFS1A0zOq4
 
 ---
 
@@ -5477,4 +5577,4 @@ All gear information is researched from:
 
 ================================================================================
 # End of MetalForge Complete Database
-# Generated: 2026-02-17
+# Generated: 2026-03-13

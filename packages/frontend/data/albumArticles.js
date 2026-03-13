@@ -1624,6 +1624,320 @@ Joey Jordison passed away on July 26, 2021, but his legacy endures. Every blast 
 
 Rest in power, #1. 🥁`
     }
+  },
+
+  // Danny Carey - What's In His Kit (March 2026)
+  'whats-in-danny-careys-kit': {
+    slug: 'whats-in-danny-careys-kit',
+    articleType: 'drummer-kit',
+    drummer: 'Danny Carey',
+    drummerId: 14,
+    band: 'Tool',
+    bands: ['Tool', 'Volto!', 'Legend of the Seagullmen'],
+    genre: 'Progressive Metal',
+    country: 'USA',
+    isAlbumArticle: true,
+    datePublished: '2026-03-13',
+    dateModified: '2026-03-13',
+    author: 'MetalForge Editorial',
+    // SEO
+    title: "What's In Danny Carey's Mind-Bending Kit: Complete Gear Breakdown",
+    description: "Discover the exact drums, cymbals, and gear behind Danny Carey's legendary sound. Complete breakdown of his massive Sonor SQ2 setup, Paiste cymbals, Mandala electronic pads, and the philosophy behind one of rock's most innovative drummers.",
+    seoKeywords: ['danny carey drum kit', 'danny carey setup', 'tool drummer gear', 'danny carey sonor drums', 'danny carey cymbals', 'mandala drums', 'danny carey signature', 'fear inoculum drums'],
+    ogImage: '/images/drummers/danny-carey.webp',
+    // Introduction
+    intro: {
+      title: 'The Thinking Man\'s Drummer',
+      content: \`Danny Carey isn't just Tool's drummer — he's a polyrhythmic philosopher, a sonic architect, and arguably the most innovative drummer in modern heavy music. At 6'5" tall behind one of the most massive drum kits in rock, he creates soundscapes that blur the line between heavy metal and sacred geometry.
+
+Born May 10, 1961, in Lawrence, Kansas, Danny grew up in a musical household where his father exposed him to jazz legends. He joined Tool in 1990 alongside Maynard James Keenan, Adam Jones, and Paul D'Amour, and has been the rhythmic backbone of one of the most successful progressive metal bands ever since.
+
+What makes Danny Carey unique isn't just his technical ability — though he has that in spades. It's his approach to drumming as a meditative, mathematical practice. He incorporates sacred geometry, the Fibonacci sequence, and concepts from metaphysics into his compositions. His viral "Pneuma" drum performance has been viewed millions of times, showing that even in the age of TikTok, there's an audience for genuine virtuosity.
+
+Four Grammy Awards, induction into the Modern Drummer Hall of Fame in 2016, and a discography that includes some of the most acclaimed albums in progressive metal history — Danny has achieved legendary status. This article explores every piece of gear that helps him create Tool's unmistakable sound.\`,
+      keyPoints: [
+        'Sonor Drums endorsee with massive SQ2 Heavy Beech setup',
+        'Pioneer of Mandala electronic drum pad integration',
+        'Four-time Grammy Award winner with Tool',
+        'Modern Drummer Hall of Fame inductee (2016)',
+        'Incorporates sacred geometry and polyrhythms into compositions',
+        'Standing 6\'5" — one of the tallest drummers in rock'
+      ]
+    },
+    // Drum Kit Section
+    drumKit: {
+      title: "Danny's Massive Sonor SQ2 Setup",
+      brand: 'Sonor',
+      model: 'Sonor SQ2 Heavy Beech',
+      finish: 'Vintage Natural / Custom finishes',
+      config: {
+        bassdrums: ['24" x 18" Bass Drum'],
+        toms: ['6" x 6" Tom', '8" x 7" Tom', '10" x 8" Tom', '12" x 9" Tom', '13" x 10" Tom', '14" x 11" Tom'],
+        floorToms: ['16" x 14" Floor Tom', '18" x 16" Floor Tom'],
+        shells: 'Heavy Beech (thicker shells for power and sustain)'
+      },
+      description: \`Danny Carey's Sonor SQ2 kit is one of the most distinctive setups in modern drumming. The Heavy Beech shells — a departure from the typical maple or birch — provide a unique combination of power, warmth, and projection that defines Tool's sound.
+
+The SQ2 system allows for custom configurations, and Danny takes full advantage. His kit features an unusual range of tom sizes, from a tiny 6" tom to an enormous 18" floor tom, giving him a melodic palette that spans nearly the full range of drum pitches.
+
+The 24" x 18" bass drum is notably deep, providing the low-end punch needed to anchor Tool's complex arrangements. Unlike many metal drummers, Danny uses a single bass drum rather than a double bass setup, relying on his considerable technique to achieve speed through a single pedal (more on that below).
+
+The Heavy Beech shells are thicker than standard shells, which contributes to their powerful, focused tone. They're less bright than maple but more articulate than mahogany, sitting in a sweet spot that works perfectly for Tool's dynamic range — from whisper-quiet passages to thunderous climaxes.
+
+Danny's kit is mounted on heavy-duty Sonor hardware capable of supporting the weight and stress of his massive setup. The positioning is precisely calculated, with every drum and cymbal placed for maximum ergonomic efficiency despite the kit's size.\`,
+      notes: [
+        'Heavy Beech shells for power and unique tonal character',
+        'Single 24" bass drum — no double bass setup',
+        'Extended tom range from 6" to 18" for melodic possibilities',
+        'SQ2 system allows custom shell configurations',
+        'Kit requires extensive hardware and stage space'
+      ],
+      estimatedValue: '$15,000-25,000 (SQ2 Heavy Beech custom configuration)'
+    },
+    // Snare Section
+    snare: {
+      title: 'The Signature Bronze',
+      brand: 'Sonor',
+      model: 'Danny Carey Signature Snare',
+      size: '14" x 8"',
+      shell: 'Cast Bronze',
+      description: \`Danny Carey's signature snare drum is a 14" x 8" cast bronze monster that embodies his musical philosophy — deep, resonant, and capable of incredible dynamic range.
+
+The bronze shell produces a warm fundamental tone with complex overtones that respond beautifully to ghost notes and subtle dynamics. The extra depth (8" versus the standard 5.5" or 6.5") provides body and projection, essential for cutting through Tool's dense arrangements.
+
+Cast bronze is heavier than steel or aluminum, which contributes to the drum's sustain and resonance. Danny tunes it medium to medium-high, allowing the drum to sing while maintaining the attack needed for heavier passages.
+
+The die-cast hoops provide precise tuning stability and a focused rim shot sound. The snare beds are precision-cut for sensitive response, crucial for Danny's ghost note work and dynamic playing.
+
+This signature snare has become a sought-after piece for drummers looking to capture some of Danny's signature sound. It's not the most affordable option, but for serious players, it's a worthwhile investment.\`,
+      tuningSetting: 'Medium to medium-high for balance of body and attack',
+      heads: 'Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$800-1,200 (signature model)'
+    },
+    // Cymbals Section
+    cymbals: {
+      title: 'The Paiste Philosophy',
+      brand: 'Paiste',
+      series: 'Paiste Signature Series',
+      setup: [
+        { type: 'Hi-Hats', model: 'Paiste Signature 14" Sound Edge Hi-Hats', position: 'Left side', notes: 'Crisp, articulate for complex patterns' },
+        { type: 'Crash', model: 'Paiste Signature 16" Power Crash', position: 'Far left', notes: 'Quick, punchy crash' },
+        { type: 'Crash', model: 'Paiste Signature 18" Power Crash', position: 'Left of hi-hats', notes: 'Primary crash position' },
+        { type: 'Crash', model: 'Paiste Signature 20" Power Crash', position: 'Over toms', notes: 'Large crash for big accents' },
+        { type: 'Crash', model: 'Paiste Signature 18" Full Crash', position: 'Right of toms', notes: 'Fuller tone for sustained crashes' },
+        { type: 'Ride', model: 'Paiste Signature 22" Dry Heavy Ride', position: 'Far right', notes: 'Defined stick articulation with controllable wash' },
+        { type: 'Ride', model: 'Paiste Signature 24" Big Ride', position: 'Far right (alternate)', notes: 'Massive ride for ambient sections' },
+        { type: 'China', model: 'Paiste Signature 18" Thin China', position: 'Above floor tom', notes: 'Trashy accents' },
+        { type: 'China', model: 'Paiste Signature 20" Thin China', position: 'Mounted high', notes: 'Larger China for effect' },
+        { type: 'Splash', model: 'Paiste Signature 10" Splash', position: 'Various', notes: 'Quick accent splashes' }
+      ],
+      description: \`Danny Carey's cymbal setup with Paiste's Signature series reflects his musical priorities: clarity, dynamic range, and the ability to be both subtle and explosive.
+
+The Signature series offers sophisticated harmonic complexity that responds to touch — play softly and they whisper; play hard and they roar. This dynamic range is essential for Tool's music, which can shift from near-silence to crushing heaviness within bars.
+
+The 14" Sound Edge Hi-Hats feature a wavy edge on the bottom cymbal that provides clear stick definition even at low volumes. Danny's intricate hi-hat patterns demand this level of articulation.
+
+The Dry Heavy Ride is a cornerstone of Danny's sound. The "dry" designation means controlled sustain and wash, allowing the stick definition to cut through. The "heavy" construction provides enough mass for powerful accents without becoming overwhelming.
+
+Danny's use of multiple crashes at different sizes gives him a palette of tones for accenting different sections and dynamics. The Power Crash series offers quick attack and explosive volume, while the Full Crash provides more body for sustained passages.
+
+The thin Chinas provide trashy, aggressive accents without overwhelming the mix. Danny uses them sparingly but effectively, often at climactic moments.\`,
+      estimatedValue: '$4,000-6,000 total (Signature series setup)'
+    },
+    // Hardware Section
+    hardware: {
+      title: 'The Foundation',
+      items: [
+        {
+          type: 'Bass Drum Pedal',
+          brand: 'Sonor',
+          model: 'Sonor Giant Step Twin Effect Double Pedal',
+          notes: 'Unique heel-toe design for single bass drum technique',
+          description: 'Danny uses Sonor\'s Giant Step pedal, which features an unconventional design that allows for heel-toe techniques. Despite the "twin effect" designation, Danny primarily uses a single bass drum setup, relying on technique rather than two drums for speed.'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Sonor',
+          model: 'Sonor 600 Series Hi-Hat Stand',
+          notes: 'Heavy-duty for stability'
+        },
+        {
+          type: 'Throne',
+          brand: 'Porter & Davies',
+          model: 'Porter & Davies BC2',
+          notes: 'Tactile monitoring system — throne vibrates with bass drum',
+          description: 'The BC2 throne features a tactile monitoring system that vibrates in sync with the bass drum, allowing Danny to feel the low end. This is especially useful in loud stage environments where hearing nuances can be difficult.'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth Danny Carey Signature',
+          notes: '2B-style with extended reach for his massive kit',
+          description: 'Danny\'s signature stick is a thick, powerful model designed for reach across his enormous kit. The extra length helps him access distant cymbals and toms while maintaining power.'
+        },
+        {
+          type: 'Electronics',
+          brand: 'Mandala',
+          model: 'Mandala Drum Electronic Pads',
+          notes: 'Integrated throughout the kit for melodic/sample triggering',
+          description: 'Danny pioneered the use of Mandala electronic pads in rock/metal, using them to trigger samples, synthesizer sounds, and melodic elements that expand Tool\'s sonic palette.'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke 3 (batter), Remo Fiberskyn 3 (resonant)',
+        toms: 'Remo Coated Emperor (batter), Remo Clear Ambassador (resonant)',
+        snare: 'Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)'
+      }
+    },
+    // Unique Section: Mandala Pads
+    mandalaPads: {
+      title: 'The Mandala Revolution: Electronics in a Rock Kit',
+      content: \`One of Danny Carey's most significant contributions to modern drumming is his integration of Mandala electronic drum pads into an acoustic rock setup. While electronic pads had existed for decades, Danny was among the first major rock drummers to use them not as replacements for acoustic drums, but as additional instruments that expand what a drummer can contribute to a song.
+
+The Mandala pads are positioned throughout Danny's kit, typically mounted between toms or on separate stands. Unlike traditional electronic pads that trigger samples, Mandalas are designed for nuanced, expressive playing. They respond to velocity, position, and pressure, allowing for subtle musical expression.
+
+Danny uses the Mandala pads to trigger a variety of sounds: synth pads, vocal samples, tabla sounds, world percussion, and ambient textures that would be impossible with acoustic drums alone. This is particularly evident on albums like "Fear Inoculum," where the line between drums and electronics blurs.
+
+The integration requires extensive MIDI setup and sound design. Danny works with Tool's production team to create custom sample libraries and patches for each tour. The sounds are tailored to each song, sometimes providing subtle textures, other times becoming prominent melodic elements.
+
+For drummers interested in exploring electronics, Danny's approach offers a philosophy: electronics should expand your musical vocabulary, not replace your acoustic sound. The Mandala pads are an addition to, not a substitution for, his massive acoustic kit.\`,
+      keyPoints: [
+        'Mandala pads positioned throughout the acoustic kit',
+        'Used for synths, samples, world percussion, and ambient textures',
+        'Velocity and position-sensitive for expressive playing',
+        'Custom sample libraries created for each album/tour',
+        'Philosophy: electronics expand, not replace, acoustic drumming'
+      ]
+    },
+    // Gear Timeline / Evolution
+    gearTimeline: [
+      {
+        era: 'Early Tool',
+        years: '1990-1996',
+        albums: ['Undertow'],
+        description: 'Establishing Tool\'s sound with a developing setup.',
+        gear: {
+          drums: 'Sonor Phonic Plus',
+          snare: 'Various Sonor models',
+          cymbals: 'Paiste Signature series',
+          hardware: 'Sonor hardware'
+        },
+        notes: 'Danny\'s setup was already large but would grow significantly over time.'
+      },
+      {
+        era: 'Ænima Era',
+        years: '1996-2001',
+        albums: ['Ænima'],
+        description: 'Grammy-winning breakthrough. Kit expanding.',
+        gear: {
+          drums: 'Sonor Designer Series',
+          snare: 'Sonor Bronze prototype',
+          cymbals: 'Paiste Signature (expanded setup)',
+          hardware: 'Sonor, Porter & Davies throne'
+        },
+        notes: 'Introduction of Porter & Davies tactile monitoring throne.'
+      },
+      {
+        era: 'Lateralus / 10,000 Days',
+        years: '2001-2008',
+        albums: ['Lateralus', '10,000 Days'],
+        description: 'Peak complexity. Mandala integration begins.',
+        gear: {
+          drums: 'Sonor SQ2 Heavy Beech',
+          snare: 'Danny Carey Signature Bronze',
+          cymbals: 'Paiste Signature (full setup)',
+          hardware: 'Giant Step pedals, Mandala pads'
+        },
+        notes: 'Full integration of Mandala pads and signature gear.'
+      },
+      {
+        era: 'Fear Inoculum',
+        years: '2019-Present',
+        albums: ['Fear Inoculum'],
+        description: 'After 13 years, a new album and refined setup.',
+        gear: {
+          drums: 'Sonor SQ2 Heavy Beech (updated configuration)',
+          snare: 'Danny Carey Signature Bronze',
+          cymbals: 'Paiste Signature (latest iteration)',
+          hardware: 'Latest Giant Step, expanded Mandala system'
+        },
+        notes: 'The most refined and extensive version of Danny\'s setup.'
+      }
+    ],
+    // Videos
+    videos: [
+      { youtubeId: 'FssULNGSZIA', title: 'Pneuma (Drum Cam)', description: 'The viral drum performance with millions of views' },
+      { youtubeId: '5OxLxJAGAuw', title: 'Forty Six & 2 (Isolated Drums)', description: 'Classic track showcasing polyrhythmic mastery' },
+      { youtubeId: 'FQEqHB0bfhM', title: 'Danny Carey Clinic', description: 'Rare clinic footage showing technique and philosophy' },
+      { youtubeId: '7HqnJhBC5fs', title: 'Sonor SQ2 Kit Tour', description: 'Danny walks through his setup' }
+    ],
+    // Quotes
+    quotes: [
+      { text: "I try to approach the drums as an instrument that can be melodic and textural, not just rhythmic.", source: "Modern Drummer Magazine", year: 2019 },
+      { text: "The Fibonacci sequence and sacred geometry — these mathematical concepts have influenced how I compose drum parts for Tool.", source: "Drumeo Interview", year: 2020 },
+      { text: "I practice every day. Even if it's just on a pad watching TV, I'm keeping my hands moving.", source: "Premier Guitar", year: 2019 }
+    ],
+    // Where to Buy
+    gearStillAvailable: {
+      title: 'Danny\'s Gear You Can Still Buy Today',
+      items: [
+        {
+          item: 'Sonor SQ2 Drums',
+          available: true,
+          priceRange: '$8,000-20,000 (custom configuration)',
+          notes: 'Custom order only — configure your own SQ2 at Sonor dealers'
+        },
+        {
+          item: 'Sonor Danny Carey Signature Snare',
+          available: true,
+          priceRange: '$800-1,200',
+          notes: 'Available at authorized Sonor dealers'
+        },
+        {
+          item: 'Vic Firth Danny Carey Signature Sticks',
+          available: true,
+          priceRange: '$12-18 per pair',
+          notes: 'Widely available at most music retailers'
+        },
+        {
+          item: 'Paiste Signature Series Cymbals',
+          available: true,
+          priceRange: '$300-600 per cymbal',
+          notes: 'Full range available, same models Danny uses'
+        },
+        {
+          item: 'Porter & Davies BC2 Throne',
+          available: true,
+          priceRange: '$700-900',
+          notes: 'Available through drum specialty retailers'
+        },
+        {
+          item: 'Mandala Drum Electronic Pads',
+          available: true,
+          priceRange: '$300-500 per pad',
+          notes: 'Available through electronic drum specialists'
+        }
+      ]
+    },
+    // Related Content
+    relatedAlbums: ['fear-inoculum-drum-setup', 'lateralus-drum-setup'],
+    relatedDrummers: [5, 15, 7], // Tomas Haake, Mario Duplantier, Mike Portnoy
+    relatedArticles: ['best-progressive-metal-drummers', 'electronic-drums-metal'],
+    // Conclusion
+    conclusion: {
+      title: 'The Eternal Student',
+      content: \`Danny Carey represents everything drumming can be: technical yet musical, powerful yet nuanced, traditional yet innovative. His setup — from the massive Sonor SQ2 kit to the cutting-edge Mandala pads — reflects a musician who constantly pushes boundaries while honoring the fundamentals.
+
+What sets Danny apart isn't just his gear or his technique. It's his philosophy. He approaches drumming as a lifelong practice, incorporating concepts from jazz, world music, mathematics, and metaphysics. The sacred geometry references, the Fibonacci sequences, the polyrhythmic explorations — these aren't gimmicks. They're genuine expressions of a musician who sees drumming as something approaching spiritual practice.
+
+For drummers looking to capture some of Danny's sound, the journey starts with understanding that gear is only part of the equation. Yes, the SQ2 Heavy Beech shells produce a specific tone. Yes, the Paiste Signature cymbals have a distinctive character. But the real magic comes from the hands holding the sticks.
+
+Danny still practices daily. He maintains his jazz chops through Volto! and other side projects. He constantly experiments with new sounds and approaches. At over 60 years old, he's still evolving.
+
+That's the lesson: stay curious, keep practicing, and never stop exploring what's possible behind a drum kit.
+
+The "Pneuma" video didn't go viral because of the gear. It went viral because millions of people recognized they were witnessing mastery — and mastery never goes out of style. 🥁\`
+    }
   }
 };
 

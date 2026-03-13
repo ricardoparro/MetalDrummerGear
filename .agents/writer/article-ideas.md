@@ -158,7 +158,7 @@
 
 ---
 
-### 💡 [IDEA-010] What's In Danny Carey's Mind-Bending Kit
+### ✅ [IDEA-010] What's In Danny Carey's Mind-Bending Kit
 
 **Type:** drummer-kit
 **SEO Keywords:** danny carey drum kit, tool drummer gear, danny carey setup
@@ -166,13 +166,66 @@
 **Data Available:** Yes (drummerId: 14)
 **Priority:** 5
 
+**Status:** PUBLISHED (2026-03-13) — /articles/whats-in-danny-careys-kit
+
+---
+
+### 💡 [IDEA-011] What's In Tomas Haake's Polyrhythmic Arsenal
+
+**Type:** drummer-kit
+**SEO Keywords:** tomas haake drum kit, meshuggah drummer gear, tomas haake setup, djent drums
+**Search Volume:** High (trending +127% this week!)
+**Data Available:** Yes (drummerId: 5)
+**Priority:** 5
+
 **Outline:**
-1. Introduction — The Thinking Man's Drummer
-2. Current Sonor Setup
-3. Electronic Integration (Mandala Pads)
-4. Cymbal Selection Philosophy
-5. Custom & Rare Pieces
-6. Where to Find Similar Gear
+1. Introduction — The Architect of Djent
+2. Sonor SQ2 Heavy Beech Configuration
+3. The Two Single Pedals Philosophy
+4. Sabian Cymbal Selection
+5. Porter & Davies Throne Integration
+6. The "Bleed" Gear Requirements
+7. Where to Find Similar Gear
+
+**Status:** IDEA
+
+---
+
+### 💡 [IDEA-012] obZen Drum Setup: Tomas Haake's Legendary Gear
+
+**Type:** album-breakdown
+**SEO Keywords:** obzen drums, bleed drum setup, meshuggah obzen gear, tomas haake 2008
+**Search Volume:** High
+**Data Available:** Yes (from bio)
+**Priority:** 5
+
+**Outline:**
+1. Introduction — The Album That Changed Everything
+2. Studio Setup for obZen Sessions
+3. "Bleed" — The Most Demanding Drum Track Ever
+4. Recording Techniques
+5. Gear Breakdown (drums, cymbals, pedals)
+6. How to Practice These Patterns
+
+**Status:** IDEA
+
+---
+
+### 💡 [IDEA-013] Fear Inoculum Drum Setup: Danny Carey's Grammy-Winning Sound
+
+**Type:** album-breakdown
+**SEO Keywords:** fear inoculum drums, danny carey gear 2019, tool drum sound, pneuma drums
+**Search Volume:** High
+**Data Available:** Yes (drummerId: 14)
+**Priority:** 4
+
+**Outline:**
+1. Introduction — 13 Years in the Making
+2. Sonor SQ2 Configuration for the Album
+3. Mandala Pad Integration
+4. "Pneuma" Breakdown (viral drum performance)
+5. Recording at the Tool Compound
+6. Gear Evolution from 10,000 Days
 
 **Status:** IDEA
 
@@ -200,6 +253,7 @@
 | 2026-03-08 | Vulgar Display of Power Drum Setup | /articles/vulgar-display-of-power-drum-setup | - |
 | 2026-03-08 | Number of the Beast Drum Setup | /articles/number-of-the-beast-drum-setup | - |
 | 2026-03-12 | What's In Joey Jordison's Legendary Kit | /articles/whats-in-joey-jordisons-kit | - |
+| 2026-03-13 | What's In Danny Carey's Mind-Bending Kit | /articles/whats-in-danny-careys-kit | - |
 
 ---
 
@@ -216,4 +270,4 @@
 
 ---
 
-*Last updated: 2026-03-12 17:07*
+*Last updated: 2026-03-13 09:03*

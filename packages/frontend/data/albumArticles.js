@@ -1648,13 +1648,13 @@ Rest in power, #1. 🥁`
     // Introduction
     intro: {
       title: 'The Thinking Man\'s Drummer',
-      content: \`Danny Carey isn't just Tool's drummer — he's a polyrhythmic philosopher, a sonic architect, and arguably the most innovative drummer in modern heavy music. At 6'5" tall behind one of the most massive drum kits in rock, he creates soundscapes that blur the line between heavy metal and sacred geometry.
+      content: `Danny Carey isn't just Tool's drummer — he's a polyrhythmic philosopher, a sonic architect, and arguably the most innovative drummer in modern heavy music. At 6'5" tall behind one of the most massive drum kits in rock, he creates soundscapes that blur the line between heavy metal and sacred geometry.
 
 Born May 10, 1961, in Lawrence, Kansas, Danny grew up in a musical household where his father exposed him to jazz legends. He joined Tool in 1990 alongside Maynard James Keenan, Adam Jones, and Paul D'Amour, and has been the rhythmic backbone of one of the most successful progressive metal bands ever since.
 
 What makes Danny Carey unique isn't just his technical ability — though he has that in spades. It's his approach to drumming as a meditative, mathematical practice. He incorporates sacred geometry, the Fibonacci sequence, and concepts from metaphysics into his compositions. His viral "Pneuma" drum performance has been viewed millions of times, showing that even in the age of TikTok, there's an audience for genuine virtuosity.
 
-Four Grammy Awards, induction into the Modern Drummer Hall of Fame in 2016, and a discography that includes some of the most acclaimed albums in progressive metal history — Danny has achieved legendary status. This article explores every piece of gear that helps him create Tool's unmistakable sound.\`,
+Four Grammy Awards, induction into the Modern Drummer Hall of Fame in 2016, and a discography that includes some of the most acclaimed albums in progressive metal history — Danny has achieved legendary status. This article explores every piece of gear that helps him create Tool's unmistakable sound.`,
       keyPoints: [
         'Sonor Drums endorsee with massive SQ2 Heavy Beech setup',
         'Pioneer of Mandala electronic drum pad integration',
@@ -1676,7 +1676,7 @@ Four Grammy Awards, induction into the Modern Drummer Hall of Fame in 2016, and 
         floorToms: ['16" x 14" Floor Tom', '18" x 16" Floor Tom'],
         shells: 'Heavy Beech (thicker shells for power and sustain)'
       },
-      description: \`Danny Carey's Sonor SQ2 kit is one of the most distinctive setups in modern drumming. The Heavy Beech shells — a departure from the typical maple or birch — provide a unique combination of power, warmth, and projection that defines Tool's sound.
+      description: `Danny Carey's Sonor SQ2 kit is one of the most distinctive setups in modern drumming. The Heavy Beech shells — a departure from the typical maple or birch — provide a unique combination of power, warmth, and projection that defines Tool's sound.
 
 The SQ2 system allows for custom configurations, and Danny takes full advantage. His kit features an unusual range of tom sizes, from a tiny 6" tom to an enormous 18" floor tom, giving him a melodic palette that spans nearly the full range of drum pitches.
 
@@ -1684,7 +1684,7 @@ The 24" x 18" bass drum is notably deep, providing the low-end punch needed to a
 
 The Heavy Beech shells are thicker than standard shells, which contributes to their powerful, focused tone. They're less bright than maple but more articulate than mahogany, sitting in a sweet spot that works perfectly for Tool's dynamic range — from whisper-quiet passages to thunderous climaxes.
 
-Danny's kit is mounted on heavy-duty Sonor hardware capable of supporting the weight and stress of his massive setup. The positioning is precisely calculated, with every drum and cymbal placed for maximum ergonomic efficiency despite the kit's size.\`,
+Danny's kit is mounted on heavy-duty Sonor hardware capable of supporting the weight and stress of his massive setup. The positioning is precisely calculated, with every drum and cymbal placed for maximum ergonomic efficiency despite the kit's size.`,
       notes: [
         'Heavy Beech shells for power and unique tonal character',
         'Single 24" bass drum — no double bass setup',
@@ -1701,7 +1701,7 @@ Danny's kit is mounted on heavy-duty Sonor hardware capable of supporting the we
       model: 'Danny Carey Signature Snare',
       size: '14" x 8"',
       shell: 'Cast Bronze',
-      description: \`Danny Carey's signature snare drum is a 14" x 8" cast bronze monster that embodies his musical philosophy — deep, resonant, and capable of incredible dynamic range.
+      description: `Danny Carey's signature snare drum is a 14" x 8" cast bronze monster that embodies his musical philosophy — deep, resonant, and capable of incredible dynamic range.
 
 The bronze shell produces a warm fundamental tone with complex overtones that respond beautifully to ghost notes and subtle dynamics. The extra depth (8" versus the standard 5.5" or 6.5") provides body and projection, essential for cutting through Tool's dense arrangements.
 
@@ -1709,7 +1709,7 @@ Cast bronze is heavier than steel or aluminum, which contributes to the drum's s
 
 The die-cast hoops provide precise tuning stability and a focused rim shot sound. The snare beds are precision-cut for sensitive response, crucial for Danny's ghost note work and dynamic playing.
 
-This signature snare has become a sought-after piece for drummers looking to capture some of Danny's signature sound. It's not the most affordable option, but for serious players, it's a worthwhile investment.\`,
+This signature snare has become a sought-after piece for drummers looking to capture some of Danny's signature sound. It's not the most affordable option, but for serious players, it's a worthwhile investment.`,
       tuningSetting: 'Medium to medium-high for balance of body and attack',
       heads: 'Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)',
       estimatedValue: '$800-1,200 (signature model)'
@@ -1731,7 +1731,7 @@ This signature snare has become a sought-after piece for drummers looking to cap
         { type: 'China', model: 'Paiste Signature 20" Thin China', position: 'Mounted high', notes: 'Larger China for effect' },
         { type: 'Splash', model: 'Paiste Signature 10" Splash', position: 'Various', notes: 'Quick accent splashes' }
       ],
-      description: \`Danny Carey's cymbal setup with Paiste's Signature series reflects his musical priorities: clarity, dynamic range, and the ability to be both subtle and explosive.
+      description: `Danny Carey's cymbal setup with Paiste's Signature series reflects his musical priorities: clarity, dynamic range, and the ability to be both subtle and explosive.
 
 The Signature series offers sophisticated harmonic complexity that responds to touch — play softly and they whisper; play hard and they roar. This dynamic range is essential for Tool's music, which can shift from near-silence to crushing heaviness within bars.
 
@@ -1741,7 +1741,7 @@ The Dry Heavy Ride is a cornerstone of Danny's sound. The "dry" designation mean
 
 Danny's use of multiple crashes at different sizes gives him a palette of tones for accenting different sections and dynamics. The Power Crash series offers quick attack and explosive volume, while the Full Crash provides more body for sustained passages.
 
-The thin Chinas provide trashy, aggressive accents without overwhelming the mix. Danny uses them sparingly but effectively, often at climactic moments.\`,
+The thin Chinas provide trashy, aggressive accents without overwhelming the mix. Danny uses them sparingly but effectively, often at climactic moments.`,
       estimatedValue: '$4,000-6,000 total (Signature series setup)'
     },
     // Hardware Section
@@ -1792,7 +1792,7 @@ The thin Chinas provide trashy, aggressive accents without overwhelming the mix.
     // Unique Section: Mandala Pads
     mandalaPads: {
       title: 'The Mandala Revolution: Electronics in a Rock Kit',
-      content: \`One of Danny Carey's most significant contributions to modern drumming is his integration of Mandala electronic drum pads into an acoustic rock setup. While electronic pads had existed for decades, Danny was among the first major rock drummers to use them not as replacements for acoustic drums, but as additional instruments that expand what a drummer can contribute to a song.
+      content: `One of Danny Carey's most significant contributions to modern drumming is his integration of Mandala electronic drum pads into an acoustic rock setup. While electronic pads had existed for decades, Danny was among the first major rock drummers to use them not as replacements for acoustic drums, but as additional instruments that expand what a drummer can contribute to a song.
 
 The Mandala pads are positioned throughout Danny's kit, typically mounted between toms or on separate stands. Unlike traditional electronic pads that trigger samples, Mandalas are designed for nuanced, expressive playing. They respond to velocity, position, and pressure, allowing for subtle musical expression.
 
@@ -1800,7 +1800,7 @@ Danny uses the Mandala pads to trigger a variety of sounds: synth pads, vocal sa
 
 The integration requires extensive MIDI setup and sound design. Danny works with Tool's production team to create custom sample libraries and patches for each tour. The sounds are tailored to each song, sometimes providing subtle textures, other times becoming prominent melodic elements.
 
-For drummers interested in exploring electronics, Danny's approach offers a philosophy: electronics should expand your musical vocabulary, not replace your acoustic sound. The Mandala pads are an addition to, not a substitution for, his massive acoustic kit.\`,
+For drummers interested in exploring electronics, Danny's approach offers a philosophy: electronics should expand your musical vocabulary, not replace your acoustic sound. The Mandala pads are an addition to, not a substitution for, his massive acoustic kit.`,
       keyPoints: [
         'Mandala pads positioned throughout the acoustic kit',
         'Used for synths, samples, world percussion, and ambient textures',
@@ -1926,7 +1926,7 @@ For drummers interested in exploring electronics, Danny's approach offers a phil
     // Conclusion
     conclusion: {
       title: 'The Eternal Student',
-      content: \`Danny Carey represents everything drumming can be: technical yet musical, powerful yet nuanced, traditional yet innovative. His setup — from the massive Sonor SQ2 kit to the cutting-edge Mandala pads — reflects a musician who constantly pushes boundaries while honoring the fundamentals.
+      content: `Danny Carey represents everything drumming can be: technical yet musical, powerful yet nuanced, traditional yet innovative. His setup — from the massive Sonor SQ2 kit to the cutting-edge Mandala pads — reflects a musician who constantly pushes boundaries while honoring the fundamentals.
 
 What sets Danny apart isn't just his gear or his technique. It's his philosophy. He approaches drumming as a lifelong practice, incorporating concepts from jazz, world music, mathematics, and metaphysics. The sacred geometry references, the Fibonacci sequences, the polyrhythmic explorations — these aren't gimmicks. They're genuine expressions of a musician who sees drumming as something approaching spiritual practice.
 
@@ -1936,7 +1936,7 @@ Danny still practices daily. He maintains his jazz chops through Volto! and othe
 
 That's the lesson: stay curious, keep practicing, and never stop exploring what's possible behind a drum kit.
 
-The "Pneuma" video didn't go viral because of the gear. It went viral because millions of people recognized they were witnessing mastery — and mastery never goes out of style. 🥁\`
+The "Pneuma" video didn't go viral because of the gear. It went viral because millions of people recognized they were witnessing mastery — and mastery never goes out of style. 🥁`
     }
   }
 };

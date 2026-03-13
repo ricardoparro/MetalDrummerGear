@@ -12538,11 +12538,93 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
   const relatedTechniques = getRelatedTechniques(techniqueSlug);
   const TECHNIQUE_CATEGORIES = getTechniqueCategories();
 
-  // Update SEO
+  // Update SEO and add HowTo schema markup (Issue #699)
   useEffect(() => {
     if (technique) {
       updateTechniqueMeta(technique);
+      
+      // Add HowTo schema markup for SEO (Schema.org/HowTo)
+      if (Platform.OS === 'web' && typeof document !== 'undefined') {
+        const BASE_URL = 'https://metalforge.io';
+        const howToSchema = {
+          '@context': 'https://schema.org',
+          '@type': 'HowTo',
+          name: `How to Play ${technique.title}`,
+          description: technique.description,
+          url: `${BASE_URL}/techniques/${technique.slug}`,
+          image: `${BASE_URL}/og-techniques.png`,
+          totalTime: technique.difficulty === 'expert' ? 'P6M' : 
+                     technique.difficulty === 'advanced' ? 'P3M' :
+                     technique.difficulty === 'intermediate' ? 'P1M' : 'P2W',
+          estimatedCost: {
+            '@type': 'MonetaryAmount',
+            currency: 'USD',
+            value: '0',
+          },
+          supply: technique.gearRecommendations ? [
+            ...(technique.gearRecommendations.sticks || []).map(item => ({
+              '@type': 'HowToSupply',
+              name: item.name,
+            })),
+            ...(technique.gearRecommendations.pedals || []).map(item => ({
+              '@type': 'HowToSupply', 
+              name: item.name,
+            })),
+          ] : [],
+          tool: [
+            { '@type': 'HowToTool', name: 'Drum kit' },
+            { '@type': 'HowToTool', name: 'Metronome' },
+            { '@type': 'HowToTool', name: 'Practice pad (optional)' },
+          ],
+          step: technique.howToLearn.map((step, index) => ({
+            '@type': 'HowToStep',
+            position: index + 1,
+            name: `Step ${index + 1}`,
+            text: step,
+            url: `${BASE_URL}/techniques/${technique.slug}#step-${index + 1}`,
+          })),
+        };
+
+        // Add video if available
+        if (technique.videos && technique.videos.length > 0) {
+          const getYouTubeId = (url) => {
+            if (!url) return null;
+            const match = url.match(/(?:youtube\.com\/watch\?v=|youtu\.be\/)([a-zA-Z0-9_-]{11})/);
+            return match ? match[1] : null;
+          };
+          
+          howToSchema.video = technique.videos.map(video => {
+            const videoId = getYouTubeId(video.url);
+            return {
+              '@type': 'VideoObject',
+              name: video.title,
+              description: `Tutorial: ${video.title}`,
+              thumbnailUrl: videoId ? `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg` : undefined,
+              uploadDate: '2024-01-01',
+              contentUrl: video.url,
+              embedUrl: videoId ? `https://www.youtube.com/embed/${videoId}` : undefined,
+            };
+          }).filter(v => v.thumbnailUrl);
+        }
+
+        let script = document.querySelector('script[data-schema="technique-howto"]');
+        if (!script) {
+          script = document.createElement('script');
+          script.type = 'application/ld+json';
+          script.setAttribute('data-schema', 'technique-howto');
+          document.head.appendChild(script);
+        }
+        script.textContent = JSON.stringify(howToSchema);
+      }
     }
+    
+    // Cleanup schema on unmount
+    return () => {
+      if (Platform.OS === 'web' && typeof document !== 'undefined') {
+        const script = document.querySelector('script[data-schema="technique-howto"]');
+        if (script) script.remove();
+      }
+    };
   }, [technique]);
 
   // Show loading state while module is loading
@@ -12810,6 +12892,71 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
                 </Text>
               </View>
             )}
+          </View>
+        )}
+
+        {/* Video Examples - Issue #699: Technique landing pages */}
+        {technique.videos && technique.videos.length > 0 && (
+          <View style={[styles.contentCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.sectionHeaderLg, { color: theme.text }]}>
+              🎬 Video Tutorials
+            </Text>
+            <Text style={{ color: theme.secondaryText, fontSize: 14, marginBottom: 16 }}>
+              Watch the masters demonstrate this technique with tutorials and breakdowns.
+            </Text>
+            <View style={{ gap: 16 }}>
+              {technique.videos.map((video, index) => {
+                // Extract YouTube video ID from URL
+                const getYouTubeId = (url) => {
+                  if (!url) return null;
+                  const match = url.match(/(?:youtube\.com\/watch\?v=|youtu\.be\/)([a-zA-Z0-9_-]{11})/);
+                  return match ? match[1] : null;
+                };
+                const videoId = getYouTubeId(video.url);
+                
+                if (!videoId) {
+                  // Fallback to link for non-YouTube or invalid URLs
+                  return (
+                    <TouchableOpacity
+                      key={index}
+                      onPress={() => Linking.openURL(video.url)}
+                      style={{
+                        backgroundColor: theme.background,
+                        borderRadius: 8,
+                        padding: 16,
+                        borderColor: theme.border,
+                        borderWidth: 1,
+                        flexDirection: 'row',
+                        alignItems: 'center',
+                        gap: 12,
+                      }}
+                      accessibilityRole="link"
+                      accessibilityLabel={`Watch ${video.title}`}
+                    >
+                      <Text style={{ fontSize: 24 }}>▶️</Text>
+                      <View style={{ flex: 1 }}>
+                        <Text style={{ color: theme.text, fontWeight: '600', fontSize: 15 }}>
+                          {video.title}
+                        </Text>
+                        <Text style={{ color: theme.secondaryText, fontSize: 12 }}>
+                          {video.platform || 'Video Tutorial'}
+                        </Text>
+                      </View>
+                      <Text style={{ color: theme.primary, fontWeight: '600' }}>Watch →</Text>
+                    </TouchableOpacity>
+                  );
+                }
+                
+                return (
+                  <View key={index} style={{ marginBottom: 8 }}>
+                    <Text style={{ color: theme.text, fontWeight: '600', fontSize: 14, marginBottom: 8 }}>
+                      {video.title}
+                    </Text>
+                    <YouTubeEmbed videoId={videoId} title={video.title} theme={theme} />
+                  </View>
+                );
+              })}
+            </View>
           </View>
         )}
 

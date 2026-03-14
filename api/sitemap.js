@@ -155,6 +155,11 @@ const beginnerGuides = [
   { slug: 'beginner-metal-drummer-setup', name: 'The Ultimate Beginner Metal Drummer Gear Guide Under $1000' },
 ];
 
+// Issue #704: Metal Drummer Name Generator - viral tool
+const toolPages = [
+  { slug: 'metal-drummer-name-generator', name: 'Metal Drummer Name Generator' },
+];
+
 const BASE_URL = 'https://metalforge.io';
 
 function generateSlug(name) {
@@ -185,6 +190,8 @@ export default function handler(req, res) {
     ...soundLikeGuides.map(g => ({ loc: `/guides/${g.slug}`, priority: '0.9', changefreq: 'monthly' })),
     // Issue #702: Beginner gear guides
     ...beginnerGuides.map(g => ({ loc: `/guides/${g.slug}`, priority: '0.95', changefreq: 'monthly' })),
+    // Issue #704: Tools pages (viral tools)
+    ...toolPages.map(t => ({ loc: `/tools/${t.slug}`, priority: '0.95', changefreq: 'weekly' })),
     ...gearCategories.map(c => ({ loc: `/gear/${c.slug}`, priority: '0.9', changefreq: 'weekly' })),
     ...top10Lists.map(l => ({ loc: `/lists/${l.slug}`, priority: '0.8', changefreq: 'monthly' })),
     // Issue #642: Article pages for SEO-optimized content

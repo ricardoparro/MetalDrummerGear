@@ -347,6 +347,293 @@ export const gearComparisons = {
     verdict: 'Tama SLP Steel for classic thrash crack. Pearl Sensitone Bronze for progressive warmth with metal edge.',
   },
 
+  // Cymbal Brands - Zildjian vs Sabian (The Metal Battle)
+  'zildjian-vs-sabian': {
+    slug: 'zildjian-vs-sabian',
+    title: 'Zildjian vs Sabian Cymbals',
+    metaTitle: 'Zildjian vs Sabian Cymbals for Metal - Complete Comparison Guide | MetalForge',
+    metaDescription: 'The ultimate Zildjian vs Sabian comparison for metal drummers. A/K series vs AAX/HHX, sound profiles, durability, pricing, and which cymbals top metal drummers actually use.',
+    ogImage: '/images/gear/zildjian-vs-sabian-metal.webp',
+    datePublished: '2026-03-14',
+    dateModified: '2026-03-14',
+    author: 'MetalForge Editorial',
+    category: 'cymbals',
+    seoKeywords: ['zildjian vs sabian metal', 'best metal cymbals', 'zildjian sabian comparison', 'A Custom vs AAX', 'metal cymbal guide'],
+    items: [
+      {
+        brand: 'Zildjian',
+        models: ['A Custom', 'K Custom', 'K Series', 'Z Custom'],
+        image: '/images/gear/zildjian-a-custom.webp',
+        priceRange: '€1,500 - €2,500 (full setup)',
+        founded: 1623,
+        headquarters: 'Norwell, Massachusetts, USA',
+        material: 'B20 Bronze (80% copper, 20% tin)',
+        manufacturing: 'Secret alloy formula, machine-lathed with hand-hammering',
+        pros: [
+          'Oldest cymbal company — 400+ years of craftsmanship',
+          'A Custom: Bright, cutting attack that slices through guitar walls',
+          'K Series: Dark, complex tones for progressive metal',
+          'Consistent quality across production',
+          'Wide range from thrash-bright to jazz-dark',
+          'Excellent projection for large venues',
+        ],
+        cons: [
+          'A Custom can be harsh in small rooms',
+          'Premium pricing reflects brand heritage',
+          'K series may be too dark for some metal styles',
+        ],
+        specs: {
+          material: 'B20 Bronze (proprietary alloy)',
+          finish: 'Brilliant (A Custom), Traditional (K)',
+          manufacturing: 'Machine + hand finishing',
+          origin: 'USA',
+        },
+        metalSeries: [
+          { name: 'A Custom', sound: 'Bright, cutting, fast decay', bestFor: 'Thrash, classic metal, nu-metal' },
+          { name: 'K Custom', sound: 'Dark, complex, musical', bestFor: 'Progressive metal, djent, studio' },
+          { name: 'K Series', sound: 'Warm, jazz-influenced, versatile', bestFor: 'Tool-style progressive, experimental' },
+          { name: 'Z Custom', sound: 'Heavy, loud, durable', bestFor: 'Death metal, extreme metal, heavy hitters' },
+        ],
+        usedBy: [
+          { name: 'Lars Ulrich', band: 'Metallica', series: 'A Custom', note: 'Thrash metal pioneer' },
+          { name: 'Danny Carey', band: 'Tool', series: 'K/Constantinople', note: 'Prog metal complexity' },
+          { name: 'Mario Duplantier', band: 'Gojira', series: 'K Custom/A Custom', note: 'Modern prog metal' },
+          { name: 'Jay Weinberg', band: 'Slipknot', series: 'K/A Custom', note: 'Extreme metal' },
+          { name: 'Hellhammer', band: 'Mayhem/Dimmu Borgir', series: 'A Custom/Z Custom', note: 'Black metal' },
+          { name: 'Abe Cunningham', band: 'Deftones', series: 'A Custom/K Custom', note: 'Alternative metal' },
+          { name: 'Ben Koller', band: 'Converge', series: 'K/A Custom', note: 'Hardcore/metal' },
+          { name: 'Art Cruz', band: 'Lamb of God', series: 'Various', note: 'Groove metal' },
+          { name: 'Frost', band: '1349', series: 'A Custom/K', note: 'Black metal' },
+        ],
+        bestFor: 'Thrash metal, black metal, nu-metal, drummers who need bright cut',
+        rating: 4.7,
+      },
+      {
+        brand: 'Sabian',
+        models: ['AAX', 'HHX', 'HH', 'AA'],
+        image: '/images/gear/sabian-hhx.webp',
+        priceRange: '€1,400 - €2,300 (full setup)',
+        founded: 1981,
+        headquarters: 'Meductic, New Brunswick, Canada',
+        material: 'B20 Bronze (80% copper, 20% tin)',
+        manufacturing: 'Hand-hammered (HHX/HH), Machine-made (AAX/AA)',
+        pros: [
+          'HHX: Hand-hammered warmth with metal power',
+          'AAX: Bright, cutting, modern attack',
+          'Better price-to-performance ratio',
+          'More innovative in recent years',
+          'Compression hi-hats for extreme metal',
+          'Wide tonal range from dark to bright',
+        ],
+        cons: [
+          'Younger company — less legacy cachet',
+          'HHX may lack ultimate cut in extreme situations',
+          'AA/AAX can lack complexity of hand-hammered',
+        ],
+        specs: {
+          material: 'B20 Bronze',
+          finish: 'Brilliant (AAX), Natural (HHX/HH)',
+          manufacturing: 'Hand-hammered (HHX) / Machine (AAX)',
+          origin: 'Canada',
+        },
+        metalSeries: [
+          { name: 'AAX', sound: 'Bright, aggressive, fast', bestFor: 'Thrash, death metal, power metal' },
+          { name: 'HHX', sound: 'Dark, complex, hand-hammered', bestFor: 'Progressive metal, djent, studio' },
+          { name: 'HHX Evolution', sound: 'Modern bright with warmth', bestFor: 'Modern metal, versatile' },
+          { name: 'AA', sound: 'Classic bright, all-purpose', bestFor: 'Classic metal, live' },
+        ],
+        usedBy: [
+          { name: 'Tomas Haake', band: 'Meshuggah', series: 'HHX/AAX', note: 'Djent pioneer, Compression Hi-Hats' },
+          { name: 'Gene Hoglan', band: 'Death/Testament', series: 'AAX', note: 'The Atomic Clock' },
+          { name: 'Vinnie Paul', band: 'Pantera', series: 'AAX/HHX', note: 'Groove metal legend (RIP)' },
+          { name: 'Mike Portnoy', band: 'Dream Theater', series: 'HHX', note: 'Prog metal icon' },
+          { name: 'Ray Luzier', band: 'Korn', series: 'HHX Evolution', note: 'Nu-metal precision' },
+          { name: 'Scott Travis', band: 'Judas Priest', series: 'HHX/AAX', note: 'Power metal speed' },
+          { name: 'Richard Christy', band: 'Death/Charred Walls', series: 'HHX', note: 'Death metal' },
+        ],
+        bestFor: 'Progressive metal, djent, groove metal, death metal',
+        rating: 4.6,
+      },
+    ],
+    introduction: {
+      title: 'The Two Giants of Metal Cymbals',
+      content: `When it comes to metal drumming, Zildjian and Sabian dominate the professional landscape. While Paiste and Meinl have their devoted followers, these two brands represent the majority of cymbal choices among touring metal drummers worldwide.
+
+The rivalry runs deep — Sabian was literally born from Zildjian. In 1981, after a family dispute, Robert Zildjian (son of founder Avedis III) left to start Sabian, taking half the family knowledge and Canadian production facilities with him. The result? Two companies with similar DNA but distinct personalities.
+
+For metal drummers, the choice often comes down to: do you want the 400-year legacy and cutting brightness of Zildjian? Or the innovative warmth and value of Sabian? Let's break it down.`,
+    },
+    comparison: {
+      sound: {
+        title: 'Sound Character',
+        zildjian: 'Zildjian\'s signature B20 alloy produces cymbals with immediate attack and projection. The A Custom series is the thrash metal standard — bright, cutting, aggressive. The K series offers darker, more complex tones that suit progressive metal. Overall character: brilliant, focused, cutting.',
+        sabian: 'Sabian\'s hand-hammered HHX series delivers warmth with power — complex overtones that still cut through. The AAX series is bright and aggressive, comparable to A Custom. Signature innovations like Compression Hi-Hats (designed with Tomas Haake) push boundaries. Overall character: versatile, warm-to-bright, musical.',
+        verdict: 'Zildjian for cutting brightness (thrash, black metal). Sabian for complex warmth (prog, djent, groove).',
+      },
+      metalSpecific: {
+        title: 'Metal-Specific Performance',
+        breakdown: [
+          { genre: 'Thrash Metal', zildjian: '★★★★★', sabian: '★★★★☆', notes: 'A Custom was literally designed for this. Both work, Zildjian has more legacy picks.' },
+          { genre: 'Death Metal', zildjian: '★★★★☆', sabian: '★★★★★', notes: 'Gene Hoglan\'s AAX choice influential. Compression Hi-Hats game-changing for blast beats.' },
+          { genre: 'Black Metal', zildjian: '★★★★★', sabian: '★★★☆☆', notes: 'Hellhammer, Frost, most black metal drummers choose Zildjian for cold brightness.' },
+          { genre: 'Progressive Metal', zildjian: '★★★★★', sabian: '★★★★★', notes: 'Tied. Danny Carey (Zildjian K) vs Mike Portnoy (Sabian HHX) — both legendary.' },
+          { genre: 'Groove Metal', zildjian: '★★★★☆', sabian: '★★★★★', notes: 'Vinnie Paul established the Sabian groove metal sound.' },
+          { genre: 'Djent', zildjian: '★★★★☆', sabian: '★★★★★', notes: 'Tomas Haake\'s Meshuggah setup defined the genre. Sabian dominates here.' },
+          { genre: 'Nu-Metal', zildjian: '★★★★★', sabian: '★★★★☆', notes: 'Lars Ulrich, John Otto favor Zildjian. But Ray Luzier (Korn) proves Sabian works.' },
+        ],
+      },
+      durability: {
+        title: 'Durability & Build',
+        zildjian: 'Consistent manufacturing quality from 400 years of experience. A Custom designed for heavy playing. Z Custom series specifically made for extreme metal abuse. Generally excellent durability across the range.',
+        sabian: 'Canadian manufacturing produces reliable cymbals. AAX stands up to heavy hitting. HHX, being hand-hammered, requires more care. AA series is particularly durable for beginners. Slightly more variance in hand-hammered models.',
+        verdict: 'Zildjian edges ahead for pure durability, especially Z Custom for heavy hitters. Both brands are professional-grade.',
+      },
+      value: {
+        title: 'Value & Pricing',
+        zildjian: 'Premium pricing reflects 400-year heritage. A Custom setup averages €2,000-2,500. K series commands even more. Entry-level lines (ZBT, ZHT) offer budget options but lack the tone. You pay for the name, but you get proven quality.',
+        sabian: 'Generally 10-15% less expensive than comparable Zildjian lines. AAX setup averages €1,800-2,200. HHX competitive with K Custom. B8X line offers excellent beginner value. Better price-to-performance at mid-range.',
+        verdict: 'Sabian offers marginally better value, especially at mid-tier. Both are investments that last decades.',
+      },
+      hiHats: {
+        title: 'Hi-Hats for Metal',
+        zildjian: 'A New Beat (14"): Industry standard, used by Lars, Abe Cunningham. K Mastersound: Dark definition. A Custom Mastersound: Bright with clean "chick." Dynamic range excellent across the board.',
+        sabian: 'HHX Evolution (15"): Bright with warmth, Ray Luzier\'s choice. AAX X-Celerator: Fast attack for double-time. Compression Hi-Hats: Designed with Tomas Haake for extreme metal precision. Revolutionary for blast beats.',
+        verdict: 'Zildjian for classic sounds. Sabian\'s Compression Hi-Hats are game-changing for extreme metal.',
+      },
+      rides: {
+        title: 'Ride Cymbals for Metal',
+        zildjian: 'A Custom Mega Bell Ride: Perfect for metal bell work. K Custom Dark Ride: Complex, musical. Z Custom Mega Bell: Indestructible for heavy hitting. Excellent definition at high volumes.',
+        sabian: 'HHX Raw Bell Dry Ride: Dark body, cutting bell. AAX Metal Ride: Loud, defined. HHX Groove Ride: Versatile, warm. Good projection but may wash out in extreme situations.',
+        verdict: 'Zildjian wins for pure metal ride definition and bell projection. Sabian better for versatile prog applications.',
+      },
+      crashes: {
+        title: 'Crashes for Metal',
+        zildjian: 'A Custom Fast Crashes: Quick attack, controlled decay. K Custom Dark Crashes: Musical, complex. A Custom Projection: Cuts through anything. Wide size range (14"-20").',
+        sabian: 'AAX X-Plosion: Bright, explosive. HHX Evolution: Balanced attack. AAX Stage Crash: Loud and proud. Excellent selection for varied dynamics.',
+        verdict: 'Both excellent. Zildjian A Custom cuts more; Sabian HHX offers more musicality.',
+      },
+    },
+    drummersQuotes: [
+      { 
+        name: 'Lars Ulrich', 
+        band: 'Metallica', 
+        brand: 'Zildjian', 
+        quote: 'Zildjian has been part of my sound since day one. The A Custom cut is what thrash needs.', 
+      },
+      { 
+        name: 'Tomas Haake', 
+        band: 'Meshuggah', 
+        brand: 'Sabian', 
+        quote: 'The Compression Hi-Hats changed my playing. They respond to everything I throw at them.', 
+      },
+      { 
+        name: 'Gene Hoglan', 
+        band: 'Death/Testament', 
+        brand: 'Sabian', 
+        quote: 'AAX gives me the brightness and definition I need for technical playing at any tempo.', 
+      },
+      { 
+        name: 'Danny Carey', 
+        band: 'Tool', 
+        brand: 'Zildjian', 
+        quote: 'The K and Constantinople series have that dark complexity that suits what Tool does.', 
+      },
+    ],
+    history: {
+      title: 'The Family Split That Created Competition',
+      content: `Zildjian traces its roots to 1623, when Avedis Zildjian created a secret bronze alloy in Constantinople. The company remained family-owned for centuries, eventually moving to America in 1929.
+
+In 1981, family conflict split the company. Robert Zildjian, son of Avedis III, left to found Sabian in New Brunswick, Canada — taking key employees and the Canadian factory. The name "Sabian" combines his children's names: Sally, Billy, and Andy.
+
+For metal drummers, this split was fortunate. Competition drove innovation. Sabian pushed hand-hammered cymbals (HHX) and niche products (Compression Hi-Hats). Zildjian responded with K Customs and artist signature lines. Both brands are now stronger for it.
+
+Today, Robert Zildjian has passed (2013), and Sabian continues under his vision. Zildjian remains in the original family line. The rivalry has mellowed into mutual respect — both companies know they're better for the competition.`,
+    },
+    setupRecommendations: {
+      title: 'Recommended Setups by Genre',
+      setups: [
+        {
+          genre: 'Thrash Metal',
+          budget: 'Mid-Range',
+          zildjian: {
+            hiHats: '14" A New Beat',
+            crashes: '16" & 18" A Custom Fast Crash',
+            ride: '20" A Custom Mega Bell',
+            china: '18" K Custom Dark China',
+            total: '~€2,100',
+          },
+          sabian: {
+            hiHats: '14" AAX Stage Hi-Hats',
+            crashes: '16" & 18" AAX X-Plosion',
+            ride: '21" AAX Metal Ride',
+            china: '18" AAX Chinese',
+            total: '~€1,900',
+          },
+        },
+        {
+          genre: 'Death Metal',
+          budget: 'Mid-Range',
+          zildjian: {
+            hiHats: '14" A Custom Mastersound',
+            crashes: '16" & 18" A Custom',
+            ride: '20" Z Custom Mega Bell',
+            china: '20" A Custom China',
+            total: '~€2,200',
+          },
+          sabian: {
+            hiHats: '14" HHX Compression',
+            crashes: '17" & 19" AAX X-Plosion',
+            ride: '21" HHX Raw Bell Dry',
+            china: '19" AAX Chinese',
+            total: '~€2,000',
+          },
+        },
+        {
+          genre: 'Progressive Metal',
+          budget: 'Professional',
+          zildjian: {
+            hiHats: '14" K Mastersound',
+            crashes: '17" K Custom Dark, 19" K Custom Hybrid',
+            ride: '22" K Custom Dark',
+            effects: '10" K Custom Dark Splash, 18" K China',
+            total: '~€2,800',
+          },
+          sabian: {
+            hiHats: '15" HHX Evolution',
+            crashes: '17" & 19" HHX Evolution',
+            ride: '21" HHX Groove',
+            effects: '10" HHX Splash, 18" HHX Chinese',
+            total: '~€2,500',
+          },
+        },
+      ],
+    },
+    verdict: {
+      title: 'The Verdict: Which Should You Choose?',
+      content: `Both Zildjian and Sabian produce world-class cymbals. Your choice depends on your style, sound preference, and budget.
+
+**Choose Zildjian if:**
+- You play thrash, black metal, or nu-metal and need cutting brightness
+- You want the 400-year heritage and proven quality
+- You need ultimate ride definition and bell projection
+- Danny Carey, Lars Ulrich, or Mario Duplantier are your sonic heroes
+
+**Choose Sabian if:**
+- You play progressive metal, djent, or groove metal
+- You want hand-hammered complexity at a competitive price
+- Compression Hi-Hats for extreme metal appeal to you
+- Tomas Haake, Gene Hoglan, or Mike Portnoy inspire your sound
+
+**The Real Answer:**
+Try both. Most music stores have demo cymbals. The best cymbal is the one that makes YOU want to play more. Brand loyalty is less important than finding your sound.
+
+Both companies have earned their place on the world's biggest stages. You can't go wrong with either — just go with what speaks to your ears.`,
+    },
+    relatedComparisons: ['meinl-vs-zildjian', 'paiste-vs-sabian', 'tama-vs-pearl'],
+    relatedDrummers: ['lars-ulrich', 'tomas-haake', 'gene-hoglan', 'danny-carey', 'vinnie-paul', 'mario-duplantier'],
+    relatedArticles: ['best-cymbals-for-thrash-metal', 'best-cymbals-for-death-metal', 'how-to-choose-metal-cymbals'],
+  },
+
   // Drum brand extended
   'sonor-vs-dw': {
     slug: 'sonor-vs-dw',

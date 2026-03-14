@@ -25,7 +25,7 @@
 
 ---
 
-### 💡 [IDEA-002] Zildjian vs Sabian: Which Cymbals for Metal?
+### ✅ [IDEA-002] Zildjian vs Sabian: Which Cymbals for Metal?
 
 **Type:** gear-vs
 **SEO Keywords:** zildjian vs sabian metal, best metal cymbals, zildjian sabian comparison
@@ -41,7 +41,7 @@
 5. Price Comparison
 6. Verdict by Genre
 
-**Status:** IDEA
+**Status:** PUBLISHED (2026-03-14) — /gear-comparison/zildjian-vs-sabian
 
 ---
 
@@ -248,6 +248,7 @@
 | 2026-03-13 | What's In Tomas Haake's Polyrhythmic Arsenal | /articles/whats-in-tomas-haakes-kit | - |
 | 2026-03-14 | obZen Drum Setup: "Bleed" Gear Breakdown | /articles/obzen-drum-setup | - |
 | 2026-03-14 | What's In Dave Lombardo's Kit in 2026 | /articles/whats-in-dave-lombardos-kit | - |
+| 2026-03-14 | Zildjian vs Sabian: Which Cymbals for Metal? | /gear-comparison/zildjian-vs-sabian | - |
 
 ---
 
@@ -324,4 +325,4 @@
 
 ---
 
-*Last updated: 2026-03-14 13:05*
+*Last updated: 2026-03-14 17:07*

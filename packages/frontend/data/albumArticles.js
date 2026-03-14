@@ -2591,6 +2591,345 @@ Fifteen years after its release, obZen remains the benchmark for polyrhythmic me
 
 Tomas Haake didn't just record an album — he changed what drummers believed was possible. And that's why obZen will be studied, attempted, and celebrated for generations to come. 🤘`
     }
+  },
+
+  // Dave Lombardo - What's In His Kit (March 2026)
+  'whats-in-dave-lombardos-kit': {
+    slug: 'whats-in-dave-lombardos-kit',
+    articleType: 'drummer-kit',
+    drummer: 'Dave Lombardo',
+    drummerId: 4,
+    band: 'Slayer',
+    bands: ['Slayer', 'Fantômas', 'Dead Cross', 'Mr. Bungle', 'Pantera (touring)'],
+    genre: 'Thrash Metal / Experimental',
+    country: 'Cuba / USA',
+    isAlbumArticle: true,
+    datePublished: '2026-03-14',
+    dateModified: '2026-03-14',
+    author: 'MetalForge Editorial',
+    // SEO
+    title: "What's In Dave Lombardo's Kit in 2026: The Godfather of Double Bass",
+    description: "Discover the exact drums, cymbals, and gear behind Dave Lombardo's legendary sound in 2026. Complete breakdown of his Tama setup, Paiste RUDE cymbals, and the evolution of the godfather of thrash metal drumming from Slayer to Pantera.",
+    seoKeywords: ['dave lombardo drum kit', 'dave lombardo setup', 'slayer drummer gear', 'dave lombardo tama drums', 'dave lombardo cymbals', 'dave lombardo pantera', 'reign in blood drummer', 'thrash metal drumming'],
+    ogImage: '/images/drummers/dave-lombardo.webp',
+    // Introduction
+    intro: {
+      title: 'The Godfather of Thrash Metal Drumming',
+      content: `When thrash metal needed someone to define its rhythmic vocabulary, Dave Lombardo answered the call. From Slayer's blistering "Reign in Blood" to his current work with the reunited Pantera, Lombardo has spent four decades at the forefront of extreme drumming — and he's still going strong in 2026.
+
+Born February 16, 1965, in Havana, Cuba, Dave immigrated to the United States as a child, bringing with him a rhythmic sensibility that would forever distinguish his playing. That Cuban heritage — the clave, the Latin grooves, the sense of swing beneath the chaos — is what separates Lombardo from countless imitators. When he plays double bass at 200+ BPM, it still grooves.
+
+As a founding member of Slayer alongside Kerry King, Jeff Hanneman, and Tom Araya, Lombardo helped define thrash metal in the 1980s. His work on landmark albums like "Reign in Blood," "South of Heaven," and "Seasons in the Abyss" established the template for extreme metal drumming. But unlike some pioneers who rest on their legacy, Dave has constantly evolved — from Fantômas's avant-garde experiments to Mr. Bungle's thrash revival to his current role honoring Vinnie Paul's legacy with Pantera.
+
+At nearly 61 years old in 2026, Dave Lombardo isn't just surviving — he's thriving. This article explores the gear he's using right now, how it's evolved over four decades, and why he remains the standard against which all thrash drummers are measured.`,
+      keyPoints: [
+        'Co-founder and original drummer of Slayer (1981-1992, 2001-2013)',
+        'Cuban-American heritage brings unique rhythmic sensibility',
+        'Currently touring with reunited Pantera, honoring Vinnie Paul',
+        'Tama endorser with Paiste RUDE cymbals',
+        'Pioneered double bass drumming in thrash metal',
+        'Still performing at the highest level at nearly 61'
+      ]
+    },
+    // Drum Kit Section
+    drumKit: {
+      title: "Dave's Current Tama Starclassic Setup",
+      brand: 'Tama',
+      model: 'Tama Starclassic Walnut/Birch',
+      finish: 'Piano Black (various custom finishes)',
+      config: {
+        bassdrums: ['24" x 16" Bass Drum (x2)'],
+        toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
+        floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom'],
+        shells: 'Walnut/Birch hybrid shells'
+      },
+      description: `Dave Lombardo's current kit centers on Tama's Starclassic Walnut/Birch series — a departure from the pure birch Artstar II he used on classic Slayer records, but maintaining the punchy attack and focused low-end that defined his sound.
+
+The walnut/birch combination provides warmth and body (walnut) with projection and attack (birch). It's a mature sound that serves Dave's current projects — Pantera's groove-heavy material demands low-end authority that pure birch might not deliver.
+
+Dave continues to use double bass drums rather than a double pedal. At 24" x 16", his kick drums are substantial, providing the foundation for Pantera's massive riffs. Each drum is independently miked and can be processed separately, giving FOH engineers maximum control.
+
+The tom configuration is relatively modest by modern metal standards: two rack toms (10" and 12") and two floor toms (14" and 16"). This compact setup reflects Dave's playing philosophy — it's not about having the most drums; it's about maximizing what you have. His fills move fluidly around these four toms with melodic intent.
+
+For the Pantera touring rig, the kit must hold up to relentless touring while honoring Vinnie Paul's spirit. The Starclassic's professional build quality ensures consistency night after night, while the sound profile pays homage to Vinnie's own preference for powerful, groove-oriented tones.`,
+      notes: [
+        'Double bass drums (24"x16") — not a double pedal',
+        'Walnut/birch hybrid for warmth with attack',
+        'Compact tom configuration (4 toms total)',
+        'Piano Black finish continues classic aesthetic',
+        'Built for touring durability and consistency'
+      ],
+      estimatedValue: '$5,000-8,000 (Starclassic Walnut/Birch configuration)'
+    },
+    // Snare Section
+    snare: {
+      title: 'The Signature Crack',
+      brand: 'Tama',
+      model: 'Tama S.L.P. G-Maple 14"x6.5"',
+      size: '14" x 6.5"',
+      shell: 'G-Maple (thick maple staves)',
+      description: `For his current work, Dave has been using Tama's S.L.P. G-Maple snare — a thick-shelled maple drum that delivers the crack and projection needed for Pantera's heavy material.
+
+The S.L.P. (Sound Lab Project) series represents Tama's exploration of different shell materials and construction methods. The G-Maple features thick maple staves that produce a powerful, focused sound with excellent attack.
+
+At 14" x 6.5", it's a standard size that works across genres. Dave tunes it medium to medium-high, allowing the drum to cut through the guitars while maintaining body. The maple shell provides warmth that steel lacks, but with more attack than pure oak or mahogany.
+
+For Pantera specifically, the snare must honor Vinnie Paul's legendary sound while remaining distinctly Dave's. The S.L.P. G-Maple strikes this balance — it's not trying to replicate Vinnie's ddrum steel snare, but it delivers a similarly powerful backbeat with Dave's own touch.
+
+Depending on the project, Dave rotates between several snares. His earlier work with Slayer often featured steel snares for maximum cut, while Fantômas and Mr. Bungle have called for different textures. The S.L.P. G-Maple represents his current "main" choice for heavy touring.`,
+      tuningSetting: 'Medium to medium-high for body with attack',
+      heads: 'Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$400-600 (S.L.P. series)'
+    },
+    // Cymbals Section
+    cymbals: {
+      title: 'Paiste Power: RUDE and 2002 Arsenal',
+      brand: 'Paiste',
+      series: 'Paiste RUDE / 2002',
+      setup: [
+        { type: 'Hi-Hats', model: 'Paiste 2002 15" Sound Edge Hi-Hats', position: 'Left side', notes: 'Larger 15" for more body and projection' },
+        { type: 'Crash', model: 'Paiste RUDE 18" Wild Crash', position: 'Far left', notes: 'Explosive, trashy crash' },
+        { type: 'Crash', model: 'Paiste RUDE 19" Wild Crash', position: 'Left of hi-hats', notes: 'Primary crash position' },
+        { type: 'Crash', model: 'Paiste RUDE 20" Wild Crash', position: 'Right of toms', notes: 'Larger crash for accents' },
+        { type: 'Ride', model: 'Paiste 2002 24" Power Ride ("Reign" Model)', position: 'Far right', notes: 'Dave\'s signature "Reign" ride cymbal' },
+        { type: 'China', model: 'Paiste RUDE 18" Wild China', position: 'Left side, high', notes: 'Aggressive accent cymbal' },
+        { type: 'China', model: 'Paiste RUDE 20" Wild China', position: 'Right side, high', notes: 'Larger China for variety' },
+        { type: 'Splash', model: 'Paiste 2002 10" Splash', position: 'Above hi-hats', notes: 'Quick accents' }
+      ],
+      description: `Dave Lombardo's cymbal partnership with Paiste has been one of metal's most enduring endorsement relationships. His signature "Reign" ride cymbal — named after the album that made him famous — represents the collaboration's peak achievement.
+
+The RUDE series forms the core of Dave's crash and China sounds. These cymbals were specifically designed for heavy hitters who need durability without sacrificing tone. The "Wild" designation indicates unlathed bells and aggressive overtones that cut through any mix.
+
+The 2002 series provides Dave's hi-hats and ride. The 15" Sound Edge hi-hats are larger than standard (14"), providing more body and volume while maintaining the crisp "chick" that defines clean hi-hat work. The Sound Edge design features a wavy edge on the bottom cymbal for articulation.
+
+The crowning piece is the 24" "Reign Power Ride" — Dave's signature cymbal developed with Paiste. Named after "Reign in Blood," this massive ride provides the definition, bell clarity, and crash potential that Dave's playing demands. It's large enough to not wash out but musical enough for the jazz-influenced passages in his experimental work.
+
+The dual China setup (18" and 20") gives Dave options for different intensities. Chinas have been part of thrash metal's DNA since the beginning, and Dave uses them to punctuate riffs and signal transitions.`,
+      estimatedValue: '$3,000-4,500 total (RUDE/2002 mixed setup)'
+    },
+    // Hardware Section
+    hardware: {
+      title: 'The Iron Foundation',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'Tama',
+          model: 'Tama Iron Cobra 900 Rolling Glide',
+          notes: 'Direct-drive feel with Rolling Glide smooth action',
+          description: 'Dave uses Iron Cobra 900s on each of his two bass drums — not a connected double pedal. The Rolling Glide cam provides a smooth, even feel throughout the stroke, essential for his sustained double bass passages.'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Tama',
+          model: 'Tama Iron Cobra 900 Hi-Hat Stand',
+          notes: 'Matching Iron Cobra hardware throughout'
+        },
+        {
+          type: 'Throne',
+          brand: 'Tama',
+          model: 'Tama 1st Chair Round Rider',
+          notes: 'Saddle-style for stability during long sets'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Promark',
+          model: 'Promark Dave Lombardo Signature 2Bx',
+          notes: 'Heavy 2B-style for power, signature model',
+          description: 'Dave\'s signature stick is a beefed-up 2B with enhanced durability. The heavier weight provides the power needed for aggressive playing, while the balanced design prevents fatigue during long sets.'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke 3 Clear (batter), Remo Ambassador Clear (resonant)',
+        toms: 'Remo Emperor Clear (batter), Remo Ambassador Clear (resonant)',
+        snare: 'Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)'
+      }
+    },
+    // Unique Section: The Latin Influence
+    latinInfluence: {
+      title: 'The Cuban Groove: Why Lombardo Swings',
+      content: `What separates Dave Lombardo from his thrash metal peers isn't just speed — it's feel. While other drummers might play similar patterns, Dave's Cuban heritage infuses his drumming with a groove that most metal drummers can't replicate.
+
+Growing up exposed to Latin percussion and Cuban rhythms, Dave absorbed the concept of clave — the underlying rhythmic foundation of Afro-Cuban music. This influence shows up in unexpected places: the way his double bass patterns breathe, the swing in his hi-hat work, the polyrhythmic accents that appear in his fills.
+
+Listen carefully to "Raining Blood" or "Angel of Death" and you'll hear it. The double bass isn't mechanical — it pushes and pulls against the guitars. The hi-hat patterns aren't rigid — they swing slightly. The fills aren't just technical displays — they have melodic intent.
+
+This is why Dave sounds like Dave even when playing Vinnie Paul's parts with Pantera. He brings his own feel while honoring the material. Vinnie had his own groove sensibility; Dave has his. Together, they share the ability to make technical drumming feel good.
+
+For drummers studying Lombardo's style, the lesson extends beyond rudiments and speed exercises. Listen to Cuban music. Study Tito Puente (one of Dave's acknowledged influences). Understand that groove isn't the absence of precision — it's the human element that transforms notes into music.`,
+      keyPoints: [
+        'Cuban heritage influences rhythmic feel and swing',
+        'Clave concept underlies his approach to groove',
+        'Double bass patterns breathe rather than remaining rigid',
+        'Fills have melodic intent beyond technical display',
+        'Tito Puente cited as major influence'
+      ]
+    },
+    // Gear Timeline / Evolution
+    gearTimeline: [
+      {
+        era: 'Early Slayer',
+        years: '1981-1986',
+        albums: ['Show No Mercy', 'Hell Awaits', 'Reign in Blood'],
+        description: 'Establishing thrash metal\'s rhythmic template.',
+        gear: {
+          drums: 'Tama Imperialstar, then Artstar II',
+          snare: 'Tama Superstar Steel 14x6.5"',
+          cymbals: 'Paiste 2002 / RUDE (early adoption)',
+          hardware: 'Tama Iron Cobra prototypes'
+        },
+        notes: 'The Reign in Blood era — birch shells, steel snare, establishing the template.'
+      },
+      {
+        era: 'Prime Slayer',
+        years: '1986-1992',
+        albums: ['South of Heaven', 'Seasons in the Abyss'],
+        description: 'Slayer at their commercial peak, Dave refining his approach.',
+        gear: {
+          drums: 'Tama Artstar II Custom',
+          snare: 'Tama Steel 14x6.5"',
+          cymbals: 'Paiste RUDE / 2002 (expanded setup)',
+          hardware: 'Tama Iron Cobra production models'
+        },
+        notes: 'First departure from Slayer came in 1992 due to financial disputes.'
+      },
+      {
+        era: 'Experimental Period',
+        years: '1992-2001',
+        albums: ['Fantômas (debut)', 'Grip Inc.'],
+        description: 'Post-Slayer exploration with Fantômas, Grip Inc., and others.',
+        gear: {
+          drums: 'Various (DW, Tama)',
+          snare: 'Multiple depending on project',
+          cymbals: 'Paiste RUDE / 2002',
+          hardware: 'DW 5000, later returning to Tama'
+        },
+        notes: 'Working with Mike Patton opened new creative avenues.'
+      },
+      {
+        era: 'Slayer Return',
+        years: '2001-2013',
+        albums: ['God Hates Us All', 'Christ Illusion', 'World Painted Blood'],
+        description: 'Rejoining Slayer, Grammy win, second departure.',
+        gear: {
+          drums: 'Tama Starclassic Maple',
+          snare: 'Tama Starclassic Steel 14x6.5"',
+          cymbals: 'Paiste RUDE / 2002 / "Reign" signature',
+          hardware: 'Tama Iron Cobra 900'
+        },
+        notes: 'Grammy for "Eyes of the Insane" (2006). Second departure in 2013.'
+      },
+      {
+        era: 'Post-Slayer / Pantera',
+        years: '2013-2026',
+        albums: ['Dead Cross', 'Mr. Bungle - Raging Wrath', 'Pantera touring'],
+        description: 'Current era — diverse projects, Pantera touring drummer.',
+        gear: {
+          drums: 'Tama Starclassic Walnut/Birch',
+          snare: 'Tama S.L.P. G-Maple 14x6.5"',
+          cymbals: 'Paiste RUDE / 2002 / "Reign" signature',
+          hardware: 'Tama Iron Cobra 900 Rolling Glide'
+        },
+        notes: 'Joined Pantera in 2022 to honor Vinnie Paul\'s legacy. Mr. Bungle\'s thrash revival. Dead Cross with Mike Patton.'
+      }
+    ],
+    // Pantera Section
+    panteraSection: {
+      title: 'Honoring Vinnie Paul: The Pantera Reunion',
+      content: `When Pantera announced their reunion tour in 2022, the question of who would fill Vinnie Paul's throne (he passed in 2018) was answered perfectly: Dave Lombardo.
+
+Both Vinnie and Dave defined their respective subgenres. Both pioneered double bass techniques that countless drummers emulated. Both understood that heavy music requires groove, not just speed. If anyone could honor Vinnie's legacy while bringing their own voice, it was Dave.
+
+The responsibility is immense. Pantera's catalog — from "Vulgar Display of Power" to "Far Beyond Driven" — represents some of the heaviest groove metal ever recorded. Vinnie's drumming was so integral to the sound that replacing it seemed impossible.
+
+But Dave doesn't try to replicate Vinnie note-for-note. Instead, he plays the songs with respect for their structure while bringing his own feel. The Pantera crowd — notoriously devoted — has embraced him because he understands the assignment: honor the spirit, not just the notes.
+
+For Dave, the Pantera gig represents full-circle closure. Vinnie was a peer, a contemporary who helped define a parallel genre. Playing these songs keeps Vinnie's memory alive while introducing classic material to new generations.`,
+      keyPoints: [
+        'Joined Pantera reunion in 2022 as touring drummer',
+        'Honors Vinnie Paul\'s legacy while bringing own feel',
+        'Both drummers pioneered double bass in different subgenres',
+        'Pantera faithful have embraced Dave\'s interpretation',
+        'Full-circle moment for thrash metal\'s founding generation'
+      ]
+    },
+    // Videos
+    videos: [
+      { youtubeId: 'K6_zsJ8KPP0', title: 'Angel of Death - Live 1986', description: 'Classic Slayer-era performance showing early technique' },
+      { youtubeId: '3ivOfkqFmxg', title: 'War Ensemble - Drum Cam (Yankee Stadium)', description: 'Later Slayer period showing evolved setup' },
+      { youtubeId: 'vOd-T58qHLA', title: 'Raining Blood - Live Performance', description: 'Iconic song live execution' },
+      { youtubeId: 'Ghc8P9dsL20', title: 'Pantera - Walk (Dave Lombardo)', description: 'Current era with reunited Pantera' }
+    ],
+    // Quotes
+    quotes: [
+      { text: "I was influenced by so many styles of drumming. It wasn't just metal. It was rock, funk, Latin percussion. That's what makes my playing different.", source: "Modern Drummer Magazine", year: 2019 },
+      { text: "The double bass isn't about speed — it's about feel. You have to breathe with it. That's what I learned from Latin music.", source: "Drumeo Interview", year: 2021 },
+      { text: "When I play Vinnie's parts, I'm not trying to be him. I'm honoring him while being myself. He would want that.", source: "Revolver Magazine", year: 2023 }
+    ],
+    // Where to Buy
+    gearStillAvailable: {
+      title: 'Dave\'s Gear You Can Still Buy Today',
+      items: [
+        {
+          item: 'Tama Starclassic Walnut/Birch',
+          available: true,
+          priceRange: '$2,500-5,000 (shell pack)',
+          notes: 'Current production series, available in multiple configurations'
+        },
+        {
+          item: 'Promark Dave Lombardo Signature Sticks (2Bx)',
+          available: true,
+          priceRange: '$12-15 per pair',
+          notes: 'Available at all major music retailers'
+        },
+        {
+          item: 'Paiste RUDE Cymbals',
+          available: true,
+          priceRange: '$200-400 per cymbal',
+          notes: 'RUDE series still in production, same models Dave uses'
+        },
+        {
+          item: 'Paiste 2002 "Reign" Power Ride 24"',
+          available: true,
+          priceRange: '$500-600',
+          notes: 'Dave\'s signature ride cymbal, available direct from Paiste dealers'
+        },
+        {
+          item: 'Tama Iron Cobra 900 Pedals',
+          available: true,
+          priceRange: '$250-350 single, $500-600 double',
+          notes: 'Current flagship pedals, Rolling Glide or Power Glide options'
+        },
+        {
+          item: 'Tama S.L.P. G-Maple Snare',
+          available: true,
+          priceRange: '$400-600',
+          notes: 'Part of the S.L.P. series, various sizes available'
+        }
+      ]
+    },
+    // Related Content
+    relatedAlbums: ['reign-in-blood-drum-setup', 'vulgar-display-of-power-drum-setup'],
+    relatedDrummers: [1, 3, 11], // Lars Ulrich, Gene Hoglan, Vinnie Paul
+    relatedArticles: ['thrash-metal-drummers', 'fastest-double-bass-drummers'],
+    // Conclusion
+    conclusion: {
+      title: 'The Standard, Still Setting It',
+      content: `Four decades after co-founding Slayer, Dave Lombardo remains the standard for thrash metal drumming. Not because he was the first to play fast double bass (he essentially was), but because he combined that speed with feel, musicality, and constant evolution.
+
+The gear Dave uses today reflects his journey. The Starclassic Walnut/Birch is warmer and more versatile than the Artstar II of his Slayer youth — appropriate for a drummer who now spans Pantera grooves, Mr. Bungle chaos, and Dead Cross punk. The Paiste cymbals have evolved but maintain the aggressive, cutting sound he pioneered. The Iron Cobra pedals are refined versions of the prototypes he helped develop decades ago.
+
+What hasn't changed is the approach. Dave Lombardo plays with intention, groove, and a Cuban-rooted swing that no amount of technique alone can replicate. He's proven that extreme metal drumming isn't just about speed — it's about making speed feel good.
+
+For drummers studying Dave's work, the lessons extend beyond rudiments:
+- **Groove first**: Speed without feel is just noise
+- **Heritage matters**: Your musical background shapes your sound — embrace it
+- **Evolution continues**: The best drummers never stop growing
+- **Honor the music**: Whether playing Slayer or Pantera, serve the song
+
+At nearly 61, Dave Lombardo isn't resting on his legacy. He's touring with Pantera, recording with various projects, and continuing to influence new generations of drummers. The godfather of thrash metal drumming earned that title decades ago — but he's still earning it every night on stage.
+
+Long live the double bass. Long live Dave Lombardo. 🤘`
+    }
   }
 };
 

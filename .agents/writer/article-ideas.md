@@ -6,7 +6,7 @@
 
 ## 📥 Queue (Ready to Write)
 
-### ✍️ [IDEA-001] What's In Dave Lombardo's Kit in 2026
+### ✅ [IDEA-001] What's In Dave Lombardo's Kit in 2026
 
 **Type:** drummer-kit
 **SEO Keywords:** dave lombardo drum kit, dave lombardo setup, slayer drummer gear
@@ -21,7 +21,7 @@
 4. How His Setup Evolved (Slayer → Suicidal → Mr. Bungle)
 5. Where to Buy Similar Gear (affiliate links)
 
-**Status:** WRITING
+**Status:** PUBLISHED (2026-03-14) — /articles/whats-in-dave-lombardos-kit
 
 ---
 
@@ -247,6 +247,7 @@
 | 2026-03-13 | What's In Danny Carey's Mind-Bending Kit | /articles/whats-in-danny-careys-kit | - |
 | 2026-03-13 | What's In Tomas Haake's Polyrhythmic Arsenal | /articles/whats-in-tomas-haakes-kit | - |
 | 2026-03-14 | obZen Drum Setup: "Bleed" Gear Breakdown | /articles/obzen-drum-setup | - |
+| 2026-03-14 | What's In Dave Lombardo's Kit in 2026 | /articles/whats-in-dave-lombardos-kit | - |
 
 ---
 
@@ -323,4 +324,4 @@
 
 ---
 
-*Last updated: 2026-03-14 09:07*
+*Last updated: 2026-03-14 13:05*

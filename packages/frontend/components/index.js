@@ -13,3 +13,13 @@ export {
   isGuidePage, 
   getGuideSlugFromURL 
 } from './SoundLikeGuides';
+
+// Metal Drummer Name Generator (Issue #704)
+export {
+  MetalDrummerNameGeneratorPage,
+  isNameGeneratorPage,
+  updateNameGeneratorMeta,
+  trackNameGenerate,
+  trackNameShare,
+  trackDrummerMatchClick
+} from './MetalDrummerNameGenerator';

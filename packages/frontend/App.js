@@ -168,6 +168,13 @@ import {
   getBeginnerGuideSlugFromURL 
 } from './components/BeginnerGearGuide';
 
+// Metal Drummer Name Generator (Issue #704) - Viral tool at /tools/metal-drummer-name-generator
+import { 
+  MetalDrummerNameGeneratorPage, 
+  isNameGeneratorPage,
+  updateNameGeneratorMeta 
+} from './components/MetalDrummerNameGenerator';
+
 // Extended bios for drummer detail pages (Issue #305)
 // Loaded dynamically for code splitting (~9KB of text data) - TBT optimization #460
 // Fix for #541: Added Promise caching and listeners for reliable async loading
@@ -18961,6 +18968,9 @@ function AppContent() {
   // Beginner Gear Guide Page state (Issue #702) - /guides/beginner-metal-drummer-setup
   const [showBeginnerGuide, setShowBeginnerGuide] = useState(() => isBeginnerGuidePage());
   
+  // Metal Drummer Name Generator Page state (Issue #704) - /tools/metal-drummer-name-generator
+  const [showNameGenerator, setShowNameGenerator] = useState(() => isNameGeneratorPage());
+  
   const [showGearFinder, setShowGearFinder] = useState(() => isGearFinderPage());
   const [selectedGear, setSelectedGear] = useState(null);
   const [loadingGear, setLoadingGear] = useState(false);
@@ -20183,6 +20193,46 @@ function AppContent() {
         setBioSlug(null);
         setShowGearFinder(false);
         setShowGearByBudget(false);
+        setShowNameGenerator(false);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+      } else if (isNameGeneratorPage()) {
+        // Metal Drummer Name Generator page (Issue #704) - /tools/metal-drummer-name-generator
+        setShowNameGenerator(true);
+        setShowBeginnerGuide(false);
+        setShowGuidesHub(false);
+        setShowGuide(false);
+        setGuideSlug(null);
+        setShowArticle(false);
+        setArticleSlug(null);
+        setShowList(false);
+        setListSlug(null);
+        setShowNewsPage(false);
+        setShowGearNewsPage(false);
+        setShowGearStats(false);
+        setShowTechniquesIndex(false);
+        setShowTechniqueDetail(false);
+        setTechniqueSlug(null);
+        setShowGearComparisonsIndex(false);
+        setShowGearComparison(false);
+        setGearComparisonSlug(null);
+        setShowGenresList(false);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowKitBuilder(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowBattlePage(false);
+        setBattleSlug(null);
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
@@ -20190,6 +20240,7 @@ function AppContent() {
         // Guides Hub page (Issue #685) - /guides
         setShowGuidesHub(true);
         setShowBeginnerGuide(false);
+        setShowNameGenerator(false);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -21790,6 +21841,15 @@ setShowList(false);
               window.history.pushState({}, '', '/guides');
             }
           }}
+          onSelectDrummer={handleSelectDrummer}
+        />
+      );
+    }
+    // Metal Drummer Name Generator Page (Issue #704) - /tools/metal-drummer-name-generator
+    if (showNameGenerator) {
+      return (
+        <MetalDrummerNameGeneratorPage
+          theme={theme}
           onSelectDrummer={handleSelectDrummer}
         />
       );

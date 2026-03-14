@@ -28,6 +28,40 @@
 
 ## 📥 Novas Ideias
 
+### 💡 [CEO-009] "Metal Drummer Name Generator" — Viral Shareability Tool → Issue #704 ✅ QUEUED
+
+**Origem:** Growth analysis — Need zero-cost viral tools that drive brand awareness + social shares
+
+**Hipótese:** Se criarmos um "Metal Drummer Name Generator" (tipo BuzzFeed generator) então:
+- Captura searches com viral intent ("metal name generator", "drummer name generator")
+- Extremamente shareable (people LOVE sharing their results)
+- Zero implementation cost (simple random combos + share buttons)
+- Drives brand awareness (every share = MetalForge mention)
+- Links to real drummers ("Your result has vibes of [drummer]")
+- Creates return visits (users share → friends generate → discover site)
+- Reddit/social goldmine (r/Metal, r/drums love these)
+- Mobile-first (quick engagement, perfect for social)
+
+**Impacto Curto (1-7d):** ⭐⭐⭐ (Immediate viral shares + traffic spike)
+**Impacto Médio (1-3m):** ⭐⭐ (Evergreen social shares + SEO for generator keywords)
+**Impacto Longo (3-12m):** ⭐ (Fun feature, not core moat)
+**Score Total:** 6⭐
+
+**Métrica de sucesso:**
+- 200+ name generations primeira semana
+- 15% share rate (30+ social shares)
+- Referral traffic from shares: 50+ users
+- Ranks for "metal drummer name generator" within 2 weeks
+- 10% conversion to drummer profile clicks (discovery funnel)
+
+**Decisão:** IMPLEMENTAR ✅
+
+**Issue:** https://github.com/ricardoparro/MetalDrummerGear/issues/704
+
+**Data:** 2026-03-14 09:00
+
+---
+
 ### 💡 [CEO-005] Add Social Share to "Which Metal Drummer Are You?" Quiz Results → Issue #684 ✅ IMPLEMENTED
 
 **Origem:** Viral growth analysis — We have the quiz (#637), now weaponize it for organic growth
@@ -64,47 +98,49 @@
 
 **Data:** 2026-03-05 09:00
 
-### 💡 [CEO-007] "Metal Drummer Gear Statistics" Data Hub
+### 💡 [CEO-008] "Ultimate Beginner Metal Drummer Gear Guide Under $1000"
 
-**Origem:** Competitive analysis — Nobody aggregates gear data; we have unique dataset to leverage
+**Origem:** Market analysis — We target pro gear, but beginners are the BUYERS with affiliate intent
 
-**Hipótese:** Se criarmos uma página de estatísticas agregadas então:
-- Captura high-intent searches ("best cymbals for metal", "most popular metal drums")
-- Creates backlink magnet (gear forums, Reddit, blogs cite our stats)
-- Establishes authority (we're the data source for metal drummer gear)
-- Drives discovery (users explore individual drummers after seeing stats)
-- Evergreen content (stats update automatically as we add drummers)
-- Unique differentiator (competitors have profiles, not insights)
+**Hipótese:** Se criarmos um guia completo "How to Build Your First Metal Drum Setup for Under $1000" então:
+- Captura searches com buyer intent ("beginner metal drum set", "cheap metal drums under $1000")
+- Drives affiliate revenue (aspiring drummers actually BUY gear vs pros who are sponsored)
+- Creates conversion funnel (beginner guide → pro setups for aspiration)
+- Evergreen content (beginners always entering the scene)
+- Shareable to Reddit (r/drums, r/metal), metal forums
+- Links to pro setups ("Want to sound like Joey Jordison someday? Here's his setup")
+- Thomann/Sweetwater affiliate goldmine (complete kit recommendations)
 
-**Impacto Curto (1-7d):** ⭐⭐⭐ (SEO for gear-specific searches)
-**Impacto Médio (1-3m):** ⭐⭐⭐ (Backlinks build, authority grows)
-**Impacto Longo (3-12m):** ⭐⭐ (Data moat, becomes reference resource)
+**Impacto Curto (1-7d):** ⭐⭐⭐ (High affiliate click-through, immediate SEO)
+**Impacto Médio (1-3m):** ⭐⭐⭐ (Sustained affiliate revenue + rankings)
+**Impacto Longo (3-12m):** ⭐⭐ (Evergreen buyer funnel)
 **Score Total:** 8⭐
 
 **Implementação:**
-- Aggregate page showing:
-  - Most popular cymbal brands (% breakdown + bar chart)
-  - Most used drum kit brands
-  - Average setup cost by subgenre (death/thrash/progressive)
-  - Most common snare drums
-  - Top 10 most expensive individual gear items
-- Each stat links to relevant drummer profiles
-- Schema markup for dataset
+- Content page: `/guides/beginner-metal-drummer-setup`
+- Sections:
+  - Budget Breakdown: Drums ($400) + Cymbals ($300) + Hardware ($200) + Accessories ($100)
+  - Recommended Kits (3 options: entry/mid/high within $1K budget)
+  - Essential vs Optional Gear
+  - "Upgrade Path" (link to what the pros use)
+  - Video embeds (setup tips, beginner techniques)
+  - Affiliate links to EVERY recommended product
+- Schema: HowTo + Product recommendations
 - Social share buttons
-- Auto-updates as new drummers added
+- Reddit/forum-friendly formatting
 
 **Métrica de sucesso:**
-- Ranks for "best [gear type] for metal" within 2 weeks
-- 500+ page views first month
-- 10+ backlinks within 3 months
-- 15% conversion to drummer profile clicks
-- Featured in at least 1 gear forum discussion
+- Ranks for "beginner metal drum set" within 2 weeks
+- 10% affiliate click-through rate
+- $200+ affiliate revenue first month (assumes 2% conversion)
+- 300+ page views first week
+- Shared in at least 3 Reddit/forum threads
 
-**Blockers externos:** Não
+**Blockers externos:** Não (requires Thomann affiliate approval, but content can launch with Sweetwater links first)
 
 **Decisão:** IMPLEMENTAR
 
-**Data:** 2026-03-12 09:00
+**Data:** 2026-03-13 17:00
 
 <!-- CEO adiciona novas ideias aqui -->
 
@@ -302,4 +338,24 @@
 **Issue:** https://github.com/ricardoparro/MetalDrummerGear/issues/689
 
 **Data:** 2026-03-11 09:00
+
+### 💡 [CEO-007] "Metal Drummer Gear Statistics" Data Hub → Issue #695 ✅ IMPLEMENTED
+
+**Origem:** Competitive analysis — Nobody aggregates gear data; we have unique dataset to leverage
+
+**Hipótese:** Se criarmos uma página de estatísticas agregadas então:
+- Captura high-intent searches ("best cymbals for metal", "most popular metal drums")
+- Creates backlink magnet (gear forums, Reddit, blogs cite our stats)
+- Establishes authority (we're the data source for metal drummer gear)
+
+**Impacto Curto (1-7d):** ⭐⭐⭐  
+**Impacto Médio (1-3m):** ⭐⭐⭐  
+**Impacto Longo (3-12m):** ⭐⭐  
+**Score Total:** 8⭐
+
+**Decisão:** IMPLEMENTAR ✅
+
+**Issue:** https://github.com/ricardoparro/MetalDrummerGear/issues/695
+
+**Data:** 2026-03-12 09:00
 

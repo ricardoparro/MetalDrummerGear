@@ -1,11 +1,11 @@
 {
   "account": "@MetalDrumGear",
   "url": "https://x.com/MetalDrumGear",
-  "followers": 5,
+  "followers": 4,
   "following": 22,
   "target": 5000,
-  "posts": 48,
-  "lastChecked": "2026-03-13",
+  "posts": 69,
+  "lastChecked": "2026-03-14",
   "launched": "2026-02-06",
   "weeklyGrowth": [
     {
@@ -55,6 +55,13 @@
       "growth": -1,
       "posts": 48,
       "notes": "Morning run (11h): -1 follower (likely cleanup/unfollow). New follower: PO (@po_meter) 15h ago. Notifications active: VR Drums, cara, Robert Plant, Geoff Lupton liked replies. Browser automation issues prevented direct posting. Ready targets: Revolver (Type O Negative), Metal Hammer, Meinl Cymbals (Archspire)."
+    },
+    {
+      "date": "2026-03-14",
+      "followers": 4,
+      "growth": -1,
+      "posts": 69,
+      "notes": "Morning run (9h): -1 follower from yesterday. Posted Gene Hoglan DYK ('The Atomic Clock' + 30+ bands). Profile shows 68 posts total (discrepancy with previous count - likely includes replies/retweets). Strong recent engagement from VR Drums, cara, Robert Plant, Geoff Lupton. Browser automation working via openclaw profile. Limited metal content in For You feed during morning hours."
     }
   ],
   "topPosts": [],

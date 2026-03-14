@@ -182,7 +182,7 @@
 
 ---
 
-### 💡 [IDEA-012] obZen Drum Setup: Tomas Haake's Legendary Gear
+### ✅ [IDEA-012] obZen Drum Setup: Tomas Haake's Legendary Gear
 
 **Type:** album-breakdown
 **SEO Keywords:** obzen drums, bleed drum setup, meshuggah obzen gear, tomas haake 2008
@@ -198,7 +198,7 @@
 5. Gear Breakdown (drums, cymbals, pedals)
 6. How to Practice These Patterns
 
-**Status:** IDEA
+**Status:** PUBLISHED (2026-03-14) — /articles/obzen-drum-setup
 
 ---
 
@@ -246,6 +246,67 @@
 | 2026-03-12 | What's In Joey Jordison's Legendary Kit | /articles/whats-in-joey-jordisons-kit | - |
 | 2026-03-13 | What's In Danny Carey's Mind-Bending Kit | /articles/whats-in-danny-careys-kit | - |
 | 2026-03-13 | What's In Tomas Haake's Polyrhythmic Arsenal | /articles/whats-in-tomas-haakes-kit | - |
+| 2026-03-14 | obZen Drum Setup: "Bleed" Gear Breakdown | /articles/obzen-drum-setup | - |
+
+---
+
+### 💡 [IDEA-014] What's In Gene Hoglan's Atomic Arsenal
+
+**Type:** drummer-kit
+**SEO Keywords:** gene hoglan drum kit, gene hoglan setup, death drummer gear, atomic clock drums
+**Search Volume:** High
+**Data Available:** Yes (drummerId: 3)
+**Priority:** 5
+
+**Outline:**
+1. Introduction — The Atomic Clock
+2. Current Pearl Masterworks Setup
+3. Signature Gear & Endorsements
+4. Evolution Through Death, Strapping Young Lad, Testament
+5. Practice Routine & Technique Tips
+6. Where to Buy Similar Gear
+
+**Status:** IDEA
+
+---
+
+### 💡 [IDEA-015] Painkiller Drum Setup: Scott Travis's Speed Metal Masterpiece
+
+**Type:** album-breakdown
+**SEO Keywords:** painkiller drums, scott travis drum setup, judas priest painkiller gear, scott travis 1990 kit
+**Search Volume:** High
+**Data Available:** Partial (need research on studio gear)
+**Priority:** 5
+
+**Outline:**
+1. Introduction — The Album That Proved Metal Wasn't Dead
+2. Studio Setup for Painkiller Sessions
+3. The Title Track's Legendary Double Bass
+4. Recording at Wisseloord Studios
+5. Gear Breakdown (drums, cymbals, pedals)
+6. How Scott's Speed Changed Metal Drumming
+
+**Status:** IDEA
+
+---
+
+### 💡 [IDEA-016] What's In Mario Duplantier's Environmental Kit
+
+**Type:** drummer-kit
+**SEO Keywords:** mario duplantier drum kit, gojira drummer gear, mario duplantier setup, gojira drums
+**Search Volume:** High (Gojira trending!)
+**Data Available:** Yes (drummerId: 10)
+**Priority:** 4
+
+**Outline:**
+1. Introduction — The Flying Whale's Architect
+2. Current Tama Starclassic Setup
+3. Signature Techniques (pick scrape, stomp box)
+4. How His Setup Evolved (From Mars to Red Rocks)
+5. Environmental Approach to Gear
+6. Where to Buy Similar Gear
+
+**Status:** IDEA
 
 ---
 
@@ -262,4 +323,4 @@
 
 ---
 
-*Last updated: 2026-03-13 13:05*
+*Last updated: 2026-03-14 09:07*

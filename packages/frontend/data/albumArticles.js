@@ -2268,6 +2268,329 @@ Thirty-four years into his career with Meshuggah, Tomas Haake continues to push 
 
 That\'s the Tomas Haake way: complexity in service of groove, technique in service of music, and always — always — the commitment to make it feel right. 🤘`
     }
+  },
+
+  'obzen-drum-setup': {
+    slug: 'obzen-drum-setup',
+    albumTitle: 'obZen',
+    artist: 'Meshuggah',
+    drummer: 'Tomas Haake',
+    drummerId: 5,
+    year: 2008,
+    genre: 'Extreme Progressive Metal / Djent',
+    label: 'Nuclear Blast',
+    studio: 'Fear and Loathing Studios, Stockholm',
+    producer: 'Meshuggah & Daniel Bergstrand',
+    isAlbumArticle: true,
+    datePublished: '2026-03-14',
+    dateModified: '2026-03-14',
+    author: 'MetalForge Editorial',
+    title: "obZen Drum Setup: Tomas Haake's Legendary \"Bleed\" Gear Breakdown",
+    description: "Complete breakdown of Tomas Haake's drum setup on Meshuggah's obZen. Discover the gear behind \"Bleed\" — the most demanding drum pattern ever recorded — and the polyrhythmic genius that spawned djent.",
+    seoKeywords: ['obzen drums', 'bleed drum pattern', 'tomas haake obzen setup', 'meshuggah bleed gear', 'tomas haake 2008 kit', 'djent drums'],
+    ogImage: '/images/albums/obzen-drums.webp',
+    intro: {
+      title: 'The Album That Spawned a Genre',
+      content: `Released on March 7, 2008, Meshuggah's "obZen" didn't just push the boundaries of extreme metal — it obliterated them. At the center of this polyrhythmic storm was Tomas Haake, whose drumming reached levels of complexity and precision that many believed impossible for human execution.
+
+The album was recorded at the band's own Fear and Loathing Studios in Stockholm, with Daniel Bergstrand handling engineering. After the experimental single-track approach of "Catch Thirtythree" (2005), obZen marked a return to "traditional" Meshuggah songwriting — if songs featuring rhythms that seem to exist in multiple time signatures simultaneously can be called traditional.
+
+But nothing about obZen would become more legendary than "Bleed" — a seven-minute track featuring a continuous 32nd-note bass drum pattern that Tomas spent six months learning to play. The song became a benchmark for extreme metal drumming, inspiring countless drummers while simultaneously making them question their career choices.
+
+This article breaks down every piece of gear Tomas used to create obZen, explores the techniques behind the album's mind-bending polyrhythms, and examines how one drum pattern changed metal drumming forever.`,
+      keyPoints: [
+        'Recorded at Fear and Loathing Studios, the band\'s personal facility in Stockholm',
+        '"Bleed" features a 6-month-to-master bass drum pattern at 32nd notes',
+        'The album spawned the djent genre and influenced countless bands',
+        'Tomas used two single bass pedals — not a double pedal — for foot independence'
+      ]
+    },
+    drumKit: {
+      title: "The Polyrhythmic Machine: Tomas's Sonor Setup",
+      brand: 'Sonor',
+      model: 'Sonor Designer Series (pre-SQ2 era)',
+      finish: 'Piano Black',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum (x2)'],
+        toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
+        floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom'],
+        shells: 'Maple shells with beech reinforcement rings'
+      },
+      description: `For obZen, Tomas Haake used his Sonor Designer Series kit, the predecessor to the SQ2 series he would later endorse. The maple shells with beech reinforcement provided the articulate attack and controlled sustain essential for Meshuggah's precise sound.
+
+The most significant aspect of Tomas's setup is the double bass drum configuration with two SINGLE pedals — not a connected double pedal. This seemingly archaic approach is actually essential to his playing: it provides the foot independence needed for the complex polyrhythmic patterns that are Meshuggah's signature.
+
+Using two single pedals means each foot operates completely independently, with no connecting linkage to affect feel or response. For "Bleed" and similar patterns, this independence is crucial — the two feet play different subdivisions simultaneously.
+
+The relatively compact tom configuration (two rack toms, two floor toms) reflects Meshuggah's approach: this isn't music that requires extended tom runs. The focus is on the interplay between snare, bass drums, hi-hat, and crashes.
+
+The 22" x 18" bass drums were tuned punchy and articulate with minimal sustain — essential for the rapid-fire patterns to remain clear and defined.`,
+      notes: [
+        'Two SINGLE bass drum pedals for complete foot independence',
+        'Maple/beech shells for attack and controlled sustain',
+        'Compact configuration — no need for extensive tom runs',
+        'Bass drums tuned for maximum articulation with minimal sustain',
+        'This setup evolved into the Sonor SQ2 relationship'
+      ],
+      estimatedValue: '$5,000-7,000 (2008)'
+    },
+    snare: {
+      title: 'The Crack of Precision',
+      brand: 'Sonor',
+      model: 'Sonor Designer Series Steel',
+      size: '14" x 6"',
+      shell: 'Stainless steel',
+      description: `The snare sound on obZen is tight, cutting, and precisely articulated — essential for the complex syncopations that weave through Meshuggah's polyrhythmic tapestry. Tomas achieved this with a Sonor Designer Series steel snare, valued for its bright attack and consistent response.
+
+The 14" x 6" dimensions provided a balance of crack and body. The steel shell delivered the brightness needed to cut through Meshuggah's dense guitar tones (all tuned to F standard) while maintaining enough depth for dynamic expression.
+
+Tomas tuned the snare medium-high with tight snare wires, emphasizing attack and minimizing ring. In music where every snare hit occupies a precise rhythmic position (even when that position creates the illusion of displaced time), clarity is paramount.
+
+The snare's role in Meshuggah is often to mark the "true" pulse of the music while the guitars and bass explore extended rhythmic cycles. Listeners subconsciously anchor to the snare, even as their minds struggle to parse the polyrhythms around it.`,
+      tuningSetting: 'Medium-high tension for attack, tight snare wires for clarity',
+      heads: 'Remo Ambassador Coated (batter), Remo Diplomat Snare Side (resonant)',
+      estimatedValue: '$400-500 (2008)'
+    },
+    cymbals: {
+      title: 'Sabian Precision Arsenal',
+      brand: 'Sabian',
+      series: 'Sabian AAX / AA',
+      setup: [
+        { type: 'Hi-Hats', model: 'Sabian AA 14" Regular Hi-Hats', position: 'Left side', notes: 'Versatile hi-hats for intricate patterns' },
+        { type: 'Crash', model: 'Sabian AAX 18" X-Plosion Crash', position: 'Left of hi-hats', notes: 'Quick, bright crash for accents' },
+        { type: 'Crash', model: 'Sabian AAX 19" X-Plosion Crash', position: 'Right of toms', notes: 'Slightly larger for fuller sound' },
+        { type: 'Ride', model: 'Sabian AA 21" Rock Ride', position: 'Far right', notes: 'Heavy ride for aggressive playing' },
+        { type: 'China', model: 'Sabian AAX 19" Chinese', position: 'Above floor tom', notes: 'Trashy accents for transitions' },
+        { type: 'Splash', model: 'Sabian AAX 10" Splash', position: 'Above hi-hats', notes: 'Quick accent cymbal' }
+      ],
+      description: `Tomas's cymbal setup for obZen was built around Sabian's AAX and AA series, favoring brightness and precision over warmth. In Meshuggah's mix, cymbals need to cut through the low-tuned guitars while maintaining definition.
+
+The 14" AA Regular hi-hats were central to Tomas's playing. Much of Meshuggah's groove comes from the hi-hat patterns, which often follow the "true" pulse while hands and feet explore polyrhythmic territory. The Regular hi-hats provided the articulation needed for intricate open/closed patterns.
+
+The AAX X-Plosion crashes (18" and 19") offered quick response and bright cut — essential for accents in music where every cymbal hit has a specific rhythmic purpose. Unlike more washy crashes, the X-Plosions delivered defined attacks.
+
+The heavy 21" ride could withstand aggressive playing while maintaining bell clarity for accents. Tomas's ride work often provides the foundational pulse, making definition crucial.
+
+The China cymbal provided the trashy explosions that punctuate section changes and create dynamic contrast in Meshuggah's otherwise metronomically precise arrangements.`,
+      estimatedValue: '$1,400-1,800 total (2008)'
+    },
+    hardware: {
+      title: 'The Foundation of Independence',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'Sonor',
+          model: 'Sonor Perfect Balance Pedal (x2 single pedals)',
+          notes: 'Two separate single pedals — NOT a double pedal',
+          description: 'This is crucial to understanding Tomas\'s technique. He uses two completely independent single pedals, not a connected double pedal. Each foot operates with total independence, essential for the polyrhythmic patterns that are Meshuggah\'s signature. The Perfect Balance design offers adjustable spring tension and smooth action.'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Sonor',
+          model: 'Sonor 600 Series Hi-Hat Stand',
+          notes: 'Standard positioning for traditional hi-hat work'
+        },
+        {
+          type: 'Throne',
+          brand: 'Porter & Davies',
+          model: 'Porter & Davies BC2 Throne',
+          notes: 'Vibration-transmitting throne for physical monitoring',
+          description: 'The Porter & Davies throne transmits bass frequencies through the seat, allowing Tomas to feel the low end physically. This is essential for maintaining timing in loud stage environments where hearing can be compromised.'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth 5A American Classic',
+          notes: 'Standard weight for balanced playing'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke P3 Clear (batter), Remo Smooth White Powerstroke P3 (front)',
+        toms: 'Remo Emperor Clear (batter), Remo Ambassador Clear (resonant)',
+        snare: 'Remo Ambassador Coated (batter)'
+      }
+    },
+    recordingTechniques: {
+      title: 'Precision Engineering at Fear and Loathing',
+      content: `Recording obZen at their own Fear and Loathing Studios gave Meshuggah complete control over every aspect of the drum sound. Engineer Daniel Bergstrand, who had worked with the band previously, understood the unique challenges of capturing Meshuggah's sound.
+
+**Microphone Setup:**
+- Kick drums: AKG D112 inside each drum, Yamaha Subkick outside, plus triggers
+- Snare: Shure SM57 top, Shure SM81 bottom
+- Toms: Sennheiser MD421 on each
+- Hi-hat: AKG C451
+- Overheads: Neumann KM184s in XY
+- Room mics: AKG C414s for controlled ambience
+
+**The Click Track Challenge:**
+One of the most remarkable aspects of obZen is that Tomas played to a click track — but not in the way you might expect. The click tracked the underlying 4/4 pulse, while Tomas's hands and feet explored different rhythmic groupings over that foundation. Maintaining the click while playing patterns that seem to exist in different tempos requires extraordinary concentration and muscle memory.
+
+**Trigger Integration:**
+Triggers were used on the bass drums for consistency, but unlike many metal productions, the triggered sound was blended with the acoustic tone. The result was attack and consistency with organic character.
+
+**The "Bleed" Sessions:**
+Recording "Bleed" was its own ordeal. The song required complete takes — the bass drum pattern is continuous and couldn't be easily punched in. Tomas had spent six months practicing the pattern before entering the studio, and even then, capturing complete takes required extraordinary focus.
+
+**Mix Philosophy:**
+The drums on obZen are dry and precise, with minimal room ambience. This clarity is essential — in music this complex, you need to hear every note. The bass drums are particularly clear, each 32nd note defined despite the speed.`,
+      keyTechniques: [
+        'Click track to underlying 4/4, polyrhythms played over it',
+        'Trigger blending for consistency with organic tone',
+        'Dry, precise mix for maximum clarity',
+        'Complete takes required for "Bleed" — no easy punch-ins'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'Bleed',
+        bpm: '115',
+        signature: '4/4 with layered polyrhythms',
+        highlights: [
+          'Continuous 32nd-note bass drum pattern throughout 7+ minutes',
+          'Six months for Tomas to master the foot pattern',
+          'Hands play polyrhythmic patterns over the relentless kicks',
+          'Considered the most demanding drum track ever recorded',
+          'Spawned countless cover attempt videos (most failing)'
+        ],
+        gearNotes: 'Two independent single pedals are essential — the pattern requires complete foot independence. Triggers provide clarity at this speed.'
+      },
+      {
+        track: 'Combustion',
+        bpm: '100',
+        signature: '4/4 with displaced accents',
+        highlights: [
+          'Opening track sets the album\'s intensity',
+          'Complex accent patterns create rhythmic displacement',
+          'Groove-focused despite complexity',
+          'Demonstrates the djent template'
+        ],
+        gearNotes: 'Hi-hat work establishes the pulse. Snare accents create the signature djent groove.'
+      },
+      {
+        track: 'Electric Red',
+        bpm: '105',
+        signature: '4/4 with extended odd-meter phrases',
+        highlights: [
+          'Extended polyrhythmic cycles',
+          'Hypnotic, trance-like quality despite heaviness',
+          'Demonstrates Meshuggah\'s mathematical approach',
+          'Eventually resolves to 4/4 feel'
+        ],
+        gearNotes: 'Floor toms feature in the groove. The pattern eventually "locks in" despite appearing random.'
+      },
+      {
+        track: 'Lethargica',
+        bpm: '90',
+        signature: '4/4 with slow, crushing polyrhythms',
+        highlights: [
+          'Slower tempo showcases groove over speed',
+          'Heavy use of space and dynamics',
+          'Demonstrates that polyrhythms work at any tempo',
+          'Crushing finale builds to climax'
+        ],
+        gearNotes: 'Bass drums provide the foundation. The slower tempo reveals the groove beneath the math.'
+      },
+      {
+        track: 'obZen',
+        bpm: '105',
+        signature: '4/4 with complex layers',
+        highlights: [
+          'Title track encapsulates album\'s approach',
+          'Multiple rhythmic "layers" played simultaneously',
+          'The hands and feet seem to exist in different time signatures',
+          'Groove emerges from apparent chaos'
+        ],
+        gearNotes: 'The full kit is deployed. Each limb seems to play a different pattern, yet it grooves.'
+      }
+    ],
+    bleedDeepDive: {
+      title: 'Deconstructing "Bleed": The Most Demanding Drum Pattern Ever',
+      content: `"Bleed" deserves special attention because it represents perhaps the most challenging drum pattern ever committed to a studio album. Understanding what makes it so difficult — and how Tomas mastered it — offers insights for any drummer seeking to push their limits.
+
+**The Pattern:**
+At its core, "Bleed" features a continuous 32nd-note bass drum pattern at approximately 115 BPM. That's roughly 920 bass drum notes per minute, sustained for over seven minutes. But the real challenge isn't just speed — it's the specific pattern.
+
+The kicks aren't a simple alternating pattern. The bass drum rhythm is a displaced figure that creates the illusion of multiple tempos. Meanwhile, the hands play independent polyrhythmic patterns over this relentless foundation.
+
+**The Six-Month Journey:**
+Tomas has discussed in interviews that he spent six months learning to play "Bleed" consistently. The pattern required developing new muscle memory, endurance, and mental focus. He practiced the bass drum pattern in isolation for hours before adding hands.
+
+**Why Two Single Pedals Matter:**
+A connected double pedal would make "Bleed" essentially impossible. The pattern requires each foot to operate with complete independence — there are moments where one foot sustains while the other plays complex groupings. A connecting bar would transfer unwanted motion between feet.
+
+**The Mental Game:**
+Beyond physical demands, "Bleed" requires extraordinary mental stamina. The pattern is hypnotic but unforgiving — one lapse in concentration means losing the pattern. Tomas had to develop the ability to maintain a meditative focus for seven minutes while executing at maximum physical output.
+
+**Lessons for Drummers:**
+1. Isolate components — practice feet separately, add hands later
+2. Build endurance gradually — don't try full takes immediately
+3. Mental practice matters — visualize the pattern away from the kit
+4. Accept the timeline — mastery might take months, not days
+5. Consider your pedal setup — foot independence matters`,
+      techniques: [
+        'Heel-toe technique adapted for speed and endurance',
+        'Swivel technique for rapid single-foot bursts',
+        'Mental compartmentalization — each limb has its own "channel"',
+        'Breathing technique — maintaining oxygen despite physical output',
+        'Core engagement — power comes from legs and core, not just ankles'
+      ]
+    },
+    evolution: {
+      title: "From obZen to Immutable: Tomas's Continuing Evolution",
+      content: `obZen represented a peak moment for Tomas Haake and Meshuggah, but the journey didn't stop there. The album's influence extended far beyond the band, essentially creating the djent genre that would dominate progressive metal in the 2010s.
+
+**Immediate Impact:**
+Following obZen's release, "Bleed" became a phenomenon. YouTube filled with cover attempts (most unsuccessful), drum magazines featured analysis pieces, and a new generation of drummers began incorporating polyrhythmic concepts into their playing.
+
+**The Djent Generation:**
+Bands like Periphery, Animals as Leaders, TesseracT, and dozens of others cite obZen as foundational to their sound. The combination of polyrhythmic precision, massive low-end, and technical drumming became a template that spawned an entire subgenre.
+
+**Subsequent Albums:**
+- **Koloss (2012)**: Heavier, more groove-focused, still polyrhythmic
+- **The Violent Sleep of Reason (2016)**: Recorded entirely live in studio — remarkable given the precision required
+- **Immutable (2022)**: Grammy-nominated, proving Meshuggah's continued relevance
+
+**Gear Evolution:**
+Tomas transitioned from Sonor Designer Series to the SQ2 series, eventually receiving signature snare and hardware. He remains with Sabian cymbals and has developed a relationship with Porter & Davies thrones.
+
+**Teaching and Influence:**
+Tomas has participated in numerous clinic tours and educational content, helping demystify polyrhythmic drumming. His approach — emphasizing feel and groove beneath the complexity — has influenced how the next generation approaches technical playing.`,
+      thenVsNow: [
+        { category: 'Kit', then: 'Sonor Designer Series', now: 'Sonor SQ2 Custom' },
+        { category: 'Snare', then: 'Sonor Designer Steel 14x6"', now: 'Sonor Signature Series 14x6.5"' },
+        { category: 'Cymbals', then: 'Sabian AAX/AA mix', now: 'Sabian AAX/HH mix' },
+        { category: 'Sticks', then: 'Vic Firth 5A', now: 'Vic Firth 5A (unchanged)' },
+        { category: 'Pedals', then: 'Sonor Perfect Balance single x2', now: 'Sonor Perfect Balance single x2 (unchanged)' },
+        { category: 'Influence', then: 'obZen released', now: 'Djent genre exists because of this album' }
+      ]
+    },
+    videos: [
+      { youtubeId: 'qc98u-eGzlc', title: 'Bleed - Official Music Video', description: 'The legendary track in full, studio video' },
+      { youtubeId: 'KJGpUbfMkIM', title: 'Tomas Haake - Drumeo Interview', description: 'In-depth discussion of technique and approach' },
+      { youtubeId: 'lCHM1do5Vqw', title: 'Bleed - Live at Wacken', description: 'Live performance demonstrating consistency' },
+      { youtubeId: 'SRZS-4RWjvA', title: 'Combustion - Drum Cam', description: 'Live drum perspective on obZen material' }
+    ],
+    relatedAlbums: ['nothing-drum-setup', 'koloss-drum-setup'],
+    relatedDrummers: [14, 9, 16], // Danny Carey, Mario Duplantier, Travis Orbin
+    relatedArticles: ['djent-drumming-guide', 'polyrhythm-exercises-metal'],
+    conclusion: {
+      title: 'The Pattern That Changed Everything',
+      content: `obZen — and "Bleed" specifically — represents a watershed moment in metal drumming. Before obZen, polyrhythmic drumming existed in progressive and jazz contexts, but Tomas Haake demonstrated that these concepts could drive extreme metal without sacrificing groove or power.
+
+The album's impact extends beyond drumming. The combination of low-tuned guitars, polyrhythmic precision, and technical prowess became the template for djent, influencing everything from Periphery to Monuments to countless bedroom producers. Without obZen, the progressive metal landscape of the 2010s would look entirely different.
+
+For drummers, obZen offers multiple lessons:
+- **Technique serves music**: The polyrhythms aren't intellectual exercises — they create groove
+- **Independence is essential**: Two single pedals, not one double — each limb operates autonomously
+- **Time investment matters**: Six months to master "Bleed" — mastery isn't achieved overnight
+- **Groove is the foundation**: Even the most complex patterns should make you move
+
+The gear Tomas used was professional but not exotic. Sonor drums, Sabian cymbals, Vic Firth sticks — standard professional equipment. What made obZen's drum sound special was the player, the technique developed over years, and the understanding that complexity should serve the song.
+
+Fifteen years after its release, obZen remains the benchmark for polyrhythmic metal drumming. "Bleed" continues to inspire and intimidate drummers worldwide, a seven-minute monument to what's possible when technical mastery meets musical vision.
+
+Tomas Haake didn't just record an album — he changed what drummers believed was possible. And that's why obZen will be studied, attempted, and celebrated for generations to come. 🤘`
+    }
   }
 };
 

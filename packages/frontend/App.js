@@ -480,11 +480,13 @@ const MONTH_NAMES = ['January', 'February', 'March', 'April', 'May', 'June', 'Ju
 let _top10ListsModule = null;
 let _quizDataModule = null;
 let _kitQuizDataModule = null;
+let _guessTheKitModule = null;
 
 // Dynamic import functions for lazy loading
 const loadTop10Lists = () => import('./data/top10Lists');
 const loadQuizData = () => import('./data/quizData');
 const loadKitQuizData = () => import('./data/kitQuizData');
+const loadGuessTheKitData = () => import('./data/guessTheKitData');
 
 // Get all top 10 lists (lazy loaded)
 async function getAllTop10ListsAsync() {
@@ -14889,6 +14891,7 @@ function DrummerList({
   onNavigateToCompare,
   onNavigateToQuiz,
   onNavigateToKitQuiz,
+  onNavigateToGuessTheKit,
   onNavigateToSpotlights,
   onNavigateToQuotes,
   onNavigateToGearByBudget,
@@ -15066,6 +15069,14 @@ function DrummerList({
         </TouchableOpacity>
       </View>
       <View style={[styles.actionButtonsRow, { marginTop: -8 }]}>
+        <TouchableOpacity
+          onPress={onNavigateToGuessTheKit}
+          style={[styles.quizButton, { backgroundColor: '#7c3aed', borderColor: '#7c3aed' }]}
+          accessibilityRole="button"
+          accessibilityLabel="Guess the drummer by their kit photo quiz"
+        >
+          <Text style={[styles.quizButtonText, { color: '#fff' }]}>📸 Photo Quiz</Text>
+        </TouchableOpacity>
         <TouchableOpacity
           onPress={onNavigateToNews}
           style={[styles.compareButton, { backgroundColor: theme.card, borderColor: theme.border }]}
@@ -16283,6 +16294,180 @@ function trackKitQuizShare(platform, result) {
       value: result.score,
       share_platform: platform,
       quiz_score: result.score,
+    });
+  }
+}
+
+// ==========================================
+// GUESS THE KIT PHOTO QUIZ ROUTING (Issue #706)
+// ==========================================
+
+// Check if we're on the guess-the-kit photo quiz page
+function isGuessTheKitPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  const pathname = window.location.pathname;
+  return pathname === '/guess-the-kit' || pathname.startsWith('/guess-the-kit?');
+}
+
+// Get guess-the-kit result from URL params (for shareable results)
+function getGuessTheKitResultFromURL() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
+  const params = new URLSearchParams(window.location.search);
+  return {
+    score: params.get('score') ? parseInt(params.get('score'), 10) : null,
+    correct: params.get('correct') ? parseInt(params.get('correct'), 10) : null,
+    total: params.get('total') ? parseInt(params.get('total'), 10) : null,
+  };
+}
+
+// Update URL with guess-the-kit quiz result
+function updateGuessTheKitResultURL(result) {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return;
+  const params = new URLSearchParams();
+  if (result.score) params.set('score', result.score.toString());
+  if (result.correct !== undefined) params.set('correct', result.correct.toString());
+  if (result.total) params.set('total', result.total.toString());
+  const queryString = params.toString();
+  const newUrl = queryString ? `/guess-the-kit?${queryString}` : '/guess-the-kit';
+  window.history.replaceState({}, '', newUrl);
+}
+
+// Update meta tags for guess-the-kit quiz (SEO - Issue #706)
+function updateGuessTheKitMeta(result) {
+  if (Platform.OS !== 'web' || typeof document === 'undefined') return;
+
+  const setMeta = (name, content, isProperty = false) => {
+    const attr = isProperty ? 'property' : 'name';
+    let meta = document.querySelector(`meta[${attr}="${name}"]`);
+    if (!meta) {
+      meta = document.createElement('meta');
+      meta.setAttribute(attr, name);
+      document.head.appendChild(meta);
+    }
+    meta.setAttribute('content', content);
+  };
+
+  if (result && result.correct !== undefined) {
+    const emoji = result.percentage >= 80 ? '🏆' : result.percentage >= 60 ? '🔥' : result.percentage >= 40 ? '🥁' : '😅';
+    const title = `${emoji} ${result.correct}/${result.total} - Guess the Metal Drummer by Their Kit | MetalForge`;
+    const description = `I got ${result.correct}/${result.total} (${result.percentage}%) on the "Guess the Drummer by Kit" photo quiz! Can you beat my score? 🤘`;
+    const shareUrl = `https://metalforge.io/guess-the-kit?correct=${result.correct}&total=${result.total}&score=${result.score}`;
+
+    document.title = title;
+    setMeta('description', description);
+    setMeta('og:title', title, true);
+    setMeta('og:description', description, true);
+    setMeta('og:type', 'website', true);
+    setMeta('og:image', 'https://metalforge.io/og-guess-the-kit.png', true);
+    setMeta('og:url', shareUrl, true);
+    setMeta('twitter:card', 'summary_large_image');
+    setMeta('twitter:title', title);
+    setMeta('twitter:description', description);
+    setMeta('twitter:image', 'https://metalforge.io/og-guess-the-kit.png');
+  } else {
+    const title = 'Guess the Metal Drummer by Their Kit — Photo Quiz | MetalForge';
+    const description = 'Can you identify legendary metal drummers by their drum setups? Take the challenge!';
+
+    document.title = title;
+    setMeta('description', description);
+    setMeta('og:title', title, true);
+    setMeta('og:description', description, true);
+    setMeta('og:type', 'website', true);
+    setMeta('og:image', 'https://metalforge.io/og-guess-the-kit.png', true);
+    setMeta('og:url', 'https://metalforge.io/guess-the-kit', true);
+    setMeta('twitter:card', 'summary_large_image');
+    setMeta('twitter:title', title);
+    setMeta('twitter:description', description);
+    setMeta('twitter:image', 'https://metalforge.io/og-guess-the-kit.png');
+  }
+
+  // Add Quiz/Game schema markup (Issue #706 SEO requirement)
+  let schemaScript = document.querySelector('script[data-schema="guess-the-kit"]');
+  if (!schemaScript) {
+    schemaScript = document.createElement('script');
+    schemaScript.type = 'application/ld+json';
+    schemaScript.setAttribute('data-schema', 'guess-the-kit');
+    document.head.appendChild(schemaScript);
+  }
+
+  const quizSchema = {
+    "@context": "https://schema.org",
+    "@type": "Quiz",
+    "name": "Guess the Metal Drummer by Their Kit",
+    "description": "Can you identify legendary metal drummers by their drum setups? Take the challenge!",
+    "url": "https://metalforge.io/guess-the-kit",
+    "about": {
+      "@type": "Thing",
+      "name": "Metal Drumming",
+      "description": "Professional metal drummer gear and setups"
+    },
+    "educationalLevel": "beginner",
+    "learningResourceType": "Quiz",
+    "interactivityType": "active",
+    "isAccessibleForFree": true,
+    "provider": {
+      "@type": "Organization",
+      "name": "MetalForge",
+      "url": "https://metalforge.io"
+    }
+  };
+  schemaScript.textContent = JSON.stringify(quizSchema);
+}
+
+// GA4 Analytics for Guess the Kit Quiz (Issue #706)
+function trackGuessKitStart() {
+  if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
+    window.gtag('event', 'quiz_kit_start', {
+      event_category: 'quiz',
+      quiz_type: 'guess_the_kit',
+    });
+  }
+}
+
+function trackGuessKitAnswer(questionIndex, isCorrect, drummerId) {
+  if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
+    window.gtag('event', 'quiz_kit_answer', {
+      event_category: 'quiz',
+      quiz_type: 'guess_the_kit',
+      question_index: questionIndex,
+      is_correct: isCorrect,
+      drummer_id: drummerId,
+    });
+  }
+}
+
+function trackGuessKitComplete(result) {
+  if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
+    window.gtag('event', 'quiz_kit_complete', {
+      event_category: 'quiz',
+      quiz_type: 'guess_the_kit',
+      event_label: `${result.correct}/${result.total}`,
+      value: result.score,
+      quiz_score: result.score,
+      quiz_correct: result.correct,
+      quiz_total: result.total,
+      quiz_percentage: result.percentage,
+    });
+  }
+}
+
+function trackGuessKitShare(platform, result) {
+  if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
+    window.gtag('event', 'quiz_kit_share', {
+      event_category: 'quiz',
+      quiz_type: 'guess_the_kit',
+      share_platform: platform,
+      quiz_score: result.score,
+      quiz_percentage: result.percentage,
+    });
+  }
+}
+
+function trackGuessKitRetry() {
+  if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
+    window.gtag('event', 'quiz_kit_retry', {
+      event_category: 'quiz',
+      quiz_type: 'guess_the_kit',
     });
   }
 }
@@ -18064,6 +18249,421 @@ function KitQuizView({ theme, onBack, drummers, onSelectDrummer }) {
 }
 
 // ===============================================
+// GUESS THE KIT PHOTO QUIZ (Issue #706)
+// Viral engagement: Photo-based quiz where users see kit photos and guess the drummer
+// ===============================================
+
+function GuessTheKitPhotoQuiz({ theme, onBack, drummers, onSelectDrummer }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  
+  const [currentQuestion, setCurrentQuestion] = useState(0);
+  const [answers, setAnswers] = useState([]);
+  const [showResults, setShowResults] = useState(false);
+  const [results, setResults] = useState(null);
+  const [selectedOption, setSelectedOption] = useState(null);
+  const [showHint, setShowHint] = useState(false);
+  const [quizStarted, setQuizStarted] = useState(false);
+  const [quizDataLoaded, setQuizDataLoaded] = useState(false);
+  const [questions, setQuestions] = useState([]);
+  const [wrongAnswers, setWrongAnswers] = useState([]);
+  const [retryCount, setRetryCount] = useState(0);
+
+  // Load quiz data and generate questions on mount
+  useEffect(() => {
+    if (drummers && drummers.length > 0) {
+      loadGuessTheKitData().then(module => {
+        _guessTheKitModule = module;
+        const generatedQuestions = module.generateKitPhotoQuestions(drummers, 10);
+        setQuestions(generatedQuestions);
+        setQuizDataLoaded(true);
+      });
+    }
+  }, [drummers]);
+
+  // Check for shared result in URL on mount
+  useEffect(() => {
+    if (quizDataLoaded) {
+      const urlResult = getGuessTheKitResultFromURL();
+      if (urlResult && urlResult.correct !== null && urlResult.total !== null) {
+        setResults({
+          correct: urlResult.correct,
+          total: urlResult.total,
+          percentage: Math.round((urlResult.correct / urlResult.total) * 100),
+          score: urlResult.score || urlResult.correct * 10,
+        });
+        setShowResults(true);
+      } else {
+        updateGuessTheKitMeta(null);
+      }
+    }
+  }, [quizDataLoaded]);
+
+  const progress = questions.length > 0 ? ((currentQuestion + 1) / questions.length) * 100 : 0;
+
+  const handleStartQuiz = () => {
+    setQuizStarted(true);
+    trackGuessKitStart();
+  };
+
+  const handleAnswer = (drummerId) => {
+    setSelectedOption(drummerId);
+    const question = questions[currentQuestion];
+    const isCorrect = drummerId === question.correctDrummerId;
+    
+    // Track answer
+    trackGuessKitAnswer(currentQuestion, isCorrect, drummerId);
+    
+    // Track wrong answers for discovery funnel
+    if (!isCorrect) {
+      setWrongAnswers(prev => [...prev, {
+        questionIndex: currentQuestion,
+        selectedDrummerId: drummerId,
+        correctDrummerId: question.correctDrummerId,
+      }]);
+    }
+
+    const newAnswers = [...answers, drummerId];
+    setAnswers(newAnswers);
+
+    setTimeout(() => {
+      if (currentQuestion < questions.length - 1) {
+        setCurrentQuestion(currentQuestion + 1);
+        setSelectedOption(null);
+        setShowHint(false);
+      } else {
+        const result = _guessTheKitModule.calculateQuizResult(newAnswers, questions);
+        setResults(result);
+        setShowResults(true);
+        trackGuessKitComplete(result);
+        updateGuessTheKitResultURL(result);
+        updateGuessTheKitMeta(result);
+      }
+    }, 1200);
+  };
+
+  const handleRestart = () => {
+    setCurrentQuestion(0);
+    setAnswers([]);
+    setShowResults(false);
+    setResults(null);
+    setSelectedOption(null);
+    setShowHint(false);
+    setWrongAnswers([]);
+    setRetryCount(prev => prev + 1);
+    trackGuessKitRetry();
+    
+    // Regenerate questions for variety
+    if (_guessTheKitModule && drummers.length > 0) {
+      const newQuestions = _guessTheKitModule.generateKitPhotoQuestions(drummers, 10);
+      setQuestions(newQuestions);
+    }
+  };
+
+  const handleShare = async (platform) => {
+    if (!results || !_guessTheKitModule) return;
+    
+    const shareText = _guessTheKitModule.getShareText(results);
+    const shareUrl = _guessTheKitModule.getShareUrl(results);
+
+    trackGuessKitShare(platform, results);
+
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      let url;
+      switch (platform) {
+        case 'twitter':
+          url = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(shareUrl)}`;
+          break;
+        case 'facebook':
+          url = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(shareUrl)}&quote=${encodeURIComponent(shareText)}`;
+          break;
+        case 'whatsapp':
+          url = `https://wa.me/?text=${encodeURIComponent(shareText + '\n' + shareUrl)}`;
+          break;
+        case 'copy':
+          try {
+            await navigator.clipboard.writeText(`${shareText}\n${shareUrl}`);
+            alert('Copied to clipboard!');
+          } catch (err) {
+            console.error('Failed to copy:', err);
+          }
+          return;
+        default:
+          return;
+      }
+      window.open(url, '_blank', 'width=600,height=400');
+    }
+  };
+
+  // Navigate to drummer profile (discovery funnel)
+  const handleDrummerClick = (drummerId) => {
+    const drummer = drummers.find(d => d.id === drummerId);
+    if (drummer && onSelectDrummer) {
+      onSelectDrummer(drummer.id);
+    }
+  };
+
+  // Loading state
+  if (!quizDataLoaded || questions.length === 0) {
+    return (
+      <ScrollView style={[styles.quizContainer, { backgroundColor: theme.background }]}>
+        <View style={styles.quizContent}>
+          <View style={styles.kitQuizLoading}>
+            <ActivityIndicator size="large" color={theme.primary} />
+            <Text style={[styles.kitQuizLoadingText, { color: theme.secondaryText }]}>
+              Loading Photo Quiz...
+            </Text>
+          </View>
+        </View>
+      </ScrollView>
+    );
+  }
+
+  // Intro Screen
+  if (!quizStarted && !showResults) {
+    return (
+      <ScrollView style={[styles.quizContainer, { backgroundColor: theme.background }]}>
+        <View style={styles.quizContent}>
+          <TouchableOpacity
+            onPress={onBack}
+            style={[styles.backButton, { borderColor: theme.border }]}
+            accessibilityRole="button"
+            accessibilityLabel="Back to home"
+          >
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+          </TouchableOpacity>
+
+          <View style={styles.kitQuizIntro}>
+            <Text style={styles.kitQuizIntroEmoji}>📸</Text>
+            <Text style={[styles.kitQuizIntroTitle, { color: theme.text }]}>
+              Guess the Drummer by Their Kit
+            </Text>
+            <Text style={[styles.kitQuizIntroSubtitle, { color: theme.secondaryText }]}>
+              Can you identify legendary metal drummers just by looking at their setups?
+            </Text>
+            
+            <View style={[styles.kitQuizInfoBox, { backgroundColor: theme.card, borderColor: theme.border }]}>
+              <Text style={[styles.kitQuizInfoText, { color: theme.text }]}>📸 Photo challenge</Text>
+              <Text style={[styles.kitQuizInfoText, { color: theme.text }]}>🥁 {questions.length} questions</Text>
+              <Text style={[styles.kitQuizInfoText, { color: theme.text }]}>⏱️ ~2 minutes</Text>
+              <Text style={[styles.kitQuizInfoText, { color: theme.text }]}>🏆 Share your score</Text>
+            </View>
+
+            <TouchableOpacity
+              onPress={handleStartQuiz}
+              style={[styles.kitQuizStartButton, { backgroundColor: '#dc2626' }]}
+              accessibilityRole="button"
+            >
+              <Text style={styles.kitQuizStartButtonText}>Start Photo Quiz 📸</Text>
+            </TouchableOpacity>
+          </View>
+        </View>
+      </ScrollView>
+    );
+  }
+
+  // Results View
+  if (showResults && results) {
+    const resultMessage = _guessTheKitModule?.getResultMessage 
+      ? _guessTheKitModule.getResultMessage(results.percentage)
+      : { emoji: '🥁', title: 'Quiz Complete!', message: '' };
+
+    return (
+      <ScrollView style={[styles.quizContainer, { backgroundColor: theme.background }]}>
+        <View style={styles.quizContent}>
+          <TouchableOpacity
+            onPress={onBack}
+            style={[styles.backButton, { borderColor: theme.border }]}
+            accessibilityRole="button"
+            accessibilityLabel="Back to home"
+          >
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+          </TouchableOpacity>
+
+          <View style={styles.kitQuizResultsHeader}>
+            <Text style={styles.kitQuizResultEmoji}>{resultMessage.emoji}</Text>
+            <Text style={[styles.kitQuizResultTitle, { color: theme.text }]}>{resultMessage.title}</Text>
+            <Text style={[styles.kitQuizResultMessage, { color: theme.secondaryText }]}>{resultMessage.message}</Text>
+          </View>
+
+          <View style={[styles.kitQuizScoreCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.kitQuizScoreNumber, { color: theme.primary }]}>{results.correct}/{results.total}</Text>
+            <Text style={[styles.kitQuizScorePercent, { color: theme.text }]}>{results.percentage}% Correct</Text>
+            <View style={[styles.kitQuizScoreBar, { backgroundColor: theme.border }]}>
+              <View style={[styles.kitQuizScoreBarFill, { width: `${results.percentage}%`, backgroundColor: results.percentage >= 70 ? '#4ade80' : results.percentage >= 40 ? '#fbbf24' : '#f87171' }]} />
+            </View>
+          </View>
+
+          {/* Share Section */}
+          <View style={styles.shareSection}>
+            <Text style={[styles.shareTitle, { color: theme.text }]}>Challenge Your Friends!</Text>
+            <View style={styles.shareButtons}>
+              <TouchableOpacity onPress={() => handleShare('twitter')} style={[styles.shareButton, { backgroundColor: '#000', borderWidth: 0 }]}>
+                <Text style={[styles.shareButtonText, { color: '#fff' }]}>𝕏 Share</Text>
+              </TouchableOpacity>
+              <TouchableOpacity onPress={() => handleShare('facebook')} style={[styles.shareButton, { backgroundColor: '#4267B2', borderWidth: 0 }]}>
+                <Text style={[styles.shareButtonText, { color: '#fff' }]}>Facebook</Text>
+              </TouchableOpacity>
+              <TouchableOpacity onPress={() => handleShare('whatsapp')} style={[styles.shareButton, { backgroundColor: '#25D366', borderWidth: 0 }]}>
+                <Text style={[styles.shareButtonText, { color: '#fff' }]}>WhatsApp</Text>
+              </TouchableOpacity>
+              <TouchableOpacity onPress={() => handleShare('copy')} style={[styles.shareButton, { backgroundColor: theme.border }]}>
+                <Text style={[styles.shareButtonText, { color: theme.text }]}>📋 Copy</Text>
+              </TouchableOpacity>
+            </View>
+          </View>
+
+          {/* Discovery Funnel - Wrong Answers → Drummer Profiles (Issue #706) */}
+          {wrongAnswers.length > 0 && (
+            <View style={[styles.discoveryFunnel, { backgroundColor: theme.card, borderColor: theme.border }]}>
+              <Text style={[styles.discoveryTitle, { color: theme.text }]}>
+                🔍 Learn About These Drummers
+              </Text>
+              <Text style={[styles.discoverySubtitle, { color: theme.secondaryText }]}>
+                Discover the gear behind the drummers you missed:
+              </Text>
+              <View style={styles.discoveryList}>
+                {wrongAnswers.map((wrong, index) => {
+                  const drummer = drummers.find(d => d.id === wrong.correctDrummerId);
+                  if (!drummer) return null;
+                  return (
+                    <TouchableOpacity
+                      key={index}
+                      style={[styles.discoveryItem, { borderColor: theme.border }]}
+                      onPress={() => handleDrummerClick(drummer.id)}
+                      accessibilityRole="button"
+                      accessibilityLabel={`View ${drummer.name}'s profile`}
+                    >
+                      <ImageWithFallback
+                        source={{ uri: drummer.image || PLACEHOLDER_IMAGE }}
+                        style={styles.discoveryItemImage}
+                        accessibilityLabel={`${drummer.name} photo`}
+                        width={40}
+                        height={40}
+                        imageContext="thumbnail"
+                      />
+                      <View style={styles.discoveryItemInfo}>
+                        <Text style={[styles.discoveryItemName, { color: theme.text }]}>{drummer.name}</Text>
+                        <Text style={[styles.discoveryItemBand, { color: theme.secondaryText }]}>{drummer.band}</Text>
+                      </View>
+                      <Text style={[styles.discoveryItemArrow, { color: theme.primary }]}>→</Text>
+                    </TouchableOpacity>
+                  );
+                })}
+              </View>
+            </View>
+          )}
+
+          <View style={styles.kitQuizActions}>
+            <TouchableOpacity onPress={handleRestart} style={[styles.kitQuizActionButton, { backgroundColor: '#dc2626' }]}>
+              <Text style={styles.kitQuizActionButtonText}>🔄 Play Again</Text>
+            </TouchableOpacity>
+            <TouchableOpacity onPress={onBack} style={[styles.kitQuizActionButtonSecondary, { borderColor: theme.border }]}>
+              <Text style={[styles.kitQuizActionButtonTextSecondary, { color: theme.text }]}>🥁 Explore Drummers</Text>
+            </TouchableOpacity>
+          </View>
+        </View>
+      </ScrollView>
+    );
+  }
+
+  // Question View - Photo-based
+  const question = questions[currentQuestion];
+
+  return (
+    <ScrollView style={[styles.quizContainer, { backgroundColor: theme.background }]}>
+      <View style={styles.quizContent}>
+        <View style={styles.progressContainer}>
+          <View style={[styles.progressBar, { backgroundColor: theme.border }]}>
+            <View style={[styles.progressFill, { width: `${progress}%`, backgroundColor: '#dc2626' }]} />
+          </View>
+          <Text style={[styles.progressText, { color: theme.secondaryText }]}>Question {currentQuestion + 1} of {questions.length}</Text>
+        </View>
+
+        {/* Photo Question Card */}
+        <View style={[styles.photoQuizQuestionCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.photoQuizQuestionTitle, { color: theme.text }]}>📸 Whose kit is this?</Text>
+          
+          {/* Kit Photo */}
+          <View style={styles.photoQuizImageContainer}>
+            <ImageWithFallback
+              source={{ uri: question.kitPhoto || PLACEHOLDER_IMAGE }}
+              style={[styles.photoQuizImage, isMobile && styles.photoQuizImageMobile]}
+              accessibilityLabel="Drum kit photo - guess the drummer"
+              width={isMobile ? 280 : 400}
+              height={isMobile ? 200 : 280}
+              imageContext="full"
+            />
+          </View>
+
+          {/* Hint Button & Display */}
+          {!showHint && !selectedOption && (
+            <TouchableOpacity 
+              onPress={() => setShowHint(true)} 
+              style={[styles.kitQuizHintButton, { borderColor: theme.border }]}
+            >
+              <Text style={[styles.kitQuizHintButtonText, { color: theme.secondaryText }]}>💡 Need a hint?</Text>
+            </TouchableOpacity>
+          )}
+          {showHint && (
+            <View style={[styles.kitQuizHintBox, { backgroundColor: theme.background, borderColor: theme.border }]}>
+              <Text style={[styles.kitQuizHintText, { color: theme.text }]}>{question.hint}</Text>
+            </View>
+          )}
+        </View>
+
+        {/* Answer Options */}
+        <View style={styles.kitQuizOptions}>
+          {question.options.map((drummerId) => {
+            const drummer = drummers.find(d => d.id === drummerId);
+            if (!drummer) return null;
+            
+            const isSelected = selectedOption === drummerId;
+            const isCorrectAnswer = drummerId === question.correctDrummerId;
+            const showFeedback = selectedOption !== null;
+            
+            let optionStyle = [styles.kitQuizOption, { backgroundColor: theme.card, borderColor: theme.border }];
+            if (showFeedback) {
+              if (isCorrectAnswer) {
+                optionStyle = [styles.kitQuizOption, styles.kitQuizOptionCorrect];
+              } else if (isSelected && !isCorrectAnswer) {
+                optionStyle = [styles.kitQuizOption, styles.kitQuizOptionIncorrect];
+              }
+            }
+
+            return (
+              <TouchableOpacity
+                key={drummerId}
+                onPress={() => !selectedOption && handleAnswer(drummerId)}
+                style={optionStyle}
+                disabled={selectedOption !== null}
+                accessibilityRole="button"
+                accessibilityLabel={`${drummer.name} from ${drummer.band}`}
+              >
+                <ImageWithFallback
+                  source={{ uri: drummer.image || PLACEHOLDER_IMAGE }}
+                  style={styles.kitQuizOptionImage}
+                  accessibilityLabel={`${drummer.name} photo`}
+                  width={48}
+                  height={48}
+                  imageContext="thumbnail"
+                />
+                <View style={styles.kitQuizOptionInfo}>
+                  <Text style={[styles.kitQuizOptionName, { color: showFeedback && isCorrectAnswer ? '#fff' : theme.text }]}>{drummer.name}</Text>
+                  <Text style={[styles.kitQuizOptionBand, { color: showFeedback && isCorrectAnswer ? 'rgba(255,255,255,0.8)' : theme.secondaryText }]}>{drummer.band}</Text>
+                </View>
+                {showFeedback && isCorrectAnswer && <Text style={styles.kitQuizOptionCheck}>✓</Text>}
+                {showFeedback && isSelected && !isCorrectAnswer && <Text style={styles.kitQuizOptionX}>✗</Text>}
+              </TouchableOpacity>
+            );
+          })}
+        </View>
+      </View>
+    </ScrollView>
+  );
+}
+
+// ===============================================
 // COMPARE YOUR KIT: User Gear Comparison Tool
 // ===============================================
 
@@ -19000,6 +19600,9 @@ function AppContent() {
 
   // Kit Quiz Page state (Issue #551)
   const [showKitQuiz, setShowKitQuiz] = useState(() => isKitQuizPage());
+  
+  // Guess The Kit Photo Quiz state (Issue #706)
+  const [showGuessTheKit, setShowGuessTheKit] = useState(() => isGuessTheKitPage());
 
   // BPM Tap Calculator Page state (Issue #342)
   const [showBpmTap, setShowBpmTap] = useState(() => isBpmTapPage());
@@ -19636,6 +20239,7 @@ function AppContent() {
       } else if (isKitQuizPage()) {
         // Kit Quiz page (Issue #551)
         setShowKitQuiz(true);
+        setShowGuessTheKit(false);
         setShowKitBuilder(false);
         setShowBpmTap(false);
         setShowBirthdayCalendar(false);
@@ -19666,6 +20270,40 @@ function AppContent() {
         setSelectedDrummerId(null);
         setSelectedGear(null);
         updateKitQuizMeta(null);
+      } else if (isGuessTheKitPage()) {
+        // Guess The Kit Photo Quiz page (Issue #706)
+        setShowGuessTheKit(true);
+        setShowKitQuiz(false);
+        setShowKitBuilder(false);
+        setShowBpmTap(false);
+        setShowBirthdayCalendar(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowList(false);
+        setListSlug(null);
+        setShowBpmRange(false);
+        setBpmRangeSlug(null);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowGenresList(false);
+        setShowGearComparison(false);
+        setGearComparisonSlug(null);
+        setShowGearComparisonsIndex(false);
+        setShowTechniquesIndex(false);
+        setShowTechniqueDetail(false);
+        setTechniqueSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+        updateGuessTheKitMeta(null);
       } else if (isBpmTapPage()) {
         // BPM Tap Calculator page (Issue #342)
         setShowBpmTap(true);
@@ -20681,6 +21319,29 @@ setShowList(false);
     setSelectedGear(null);
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
       window.history.pushState({}, '', '/kit-quiz');
+    }
+  };
+
+  // Guess The Kit Photo Quiz navigation (Issue #706)
+  const handleNavigateToGuessTheKit = () => {
+    setShowGuessTheKit(true);
+    setShowKitQuiz(false);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowQuotes(false);
+    setShowSpotlights(false);
+    setShowGearByBudget(false);
+    setShowList(false);
+    setListSlug(null);
+    setShowGearFinder(false);
+    setShowNewsPage(false);
+    setShowGearNewsPage(false);
+    setShowGearStats(false);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/guess-the-kit');
     }
   };
 
@@ -21984,6 +22645,38 @@ setShowList(false);
         />
       );
     }
+    // Kit Quiz Page (Issue #551)
+    if (showKitQuiz) {
+      return (
+        <KitQuizView
+          theme={theme}
+          onBack={() => {
+            setShowKitQuiz(false);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/');
+            }
+          }}
+          drummers={drummers}
+          onSelectDrummer={handleSelectDrummer}
+        />
+      );
+    }
+    // Guess The Kit Photo Quiz (Issue #706)
+    if (showGuessTheKit) {
+      return (
+        <GuessTheKitPhotoQuiz
+          theme={theme}
+          onBack={() => {
+            setShowGuessTheKit(false);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/');
+            }
+          }}
+          drummers={drummers}
+          onSelectDrummer={handleSelectDrummer}
+        />
+      );
+    }
     // BPM Tap Calculator Page (Issue #342)
     if (showBpmTap) {
       return (
@@ -22253,6 +22946,7 @@ setShowList(false);
           onNavigateToCompare={handleNavigateToCompare}
           onNavigateToQuiz={handleNavigateToQuiz}
           onNavigateToKitQuiz={handleNavigateToKitQuiz}
+          onNavigateToGuessTheKit={handleNavigateToGuessTheKit}
           onNavigateToQuotes={handleNavigateToQuotes}
           onNavigateToSpotlights={handleNavigateToSpotlights}
           onNavigateToGearByBudget={handleNavigateToGearByBudget}
@@ -24090,6 +24784,83 @@ const styles = StyleSheet.create({
   kitQuizActionButtonTextSecondary: {
     fontSize: fontSize.base,
     fontWeight: fontWeight.semibold,
+  },
+  // Photo Quiz Styles (Issue #706)
+  photoQuizQuestionCard: {
+    padding: spacing[5],
+    borderRadius: spacing[4],
+    borderWidth: 1,
+    marginBottom: spacing[5],
+  },
+  photoQuizQuestionTitle: {
+    fontSize: fontSize.xl,
+    fontWeight: fontWeight.bold,
+    textAlign: 'center',
+    marginBottom: spacing[4],
+  },
+  photoQuizImageContainer: {
+    alignItems: 'center',
+    marginBottom: spacing[4],
+    borderRadius: spacing[3],
+    overflow: 'hidden',
+  },
+  photoQuizImage: {
+    width: 400,
+    height: 280,
+    borderRadius: spacing[3],
+    resizeMode: 'cover',
+  },
+  photoQuizImageMobile: {
+    width: 280,
+    height: 200,
+  },
+  // Discovery Funnel Styles (Issue #706)
+  discoveryFunnel: {
+    padding: spacing[5],
+    borderRadius: spacing[4],
+    borderWidth: 1,
+    marginTop: spacing[4],
+    marginBottom: spacing[4],
+  },
+  discoveryTitle: {
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.bold,
+    marginBottom: spacing[2],
+  },
+  discoverySubtitle: {
+    fontSize: fontSize.sm,
+    marginBottom: spacing[4],
+  },
+  discoveryList: {
+    gap: spacing[3],
+  },
+  discoveryItem: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    padding: spacing[3],
+    borderRadius: spacing[2],
+    borderWidth: 1,
+    borderStyle: 'dashed',
+  },
+  discoveryItemImage: {
+    width: 40,
+    height: 40,
+    borderRadius: 20,
+    marginRight: spacing[3],
+  },
+  discoveryItemInfo: {
+    flex: 1,
+  },
+  discoveryItemName: {
+    fontSize: fontSize.base,
+    fontWeight: fontWeight.semibold,
+  },
+  discoveryItemBand: {
+    fontSize: fontSize.sm,
+  },
+  discoveryItemArrow: {
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.bold,
   },
   restartButton: {
     padding: spacing[4],           // 16px (was 14)

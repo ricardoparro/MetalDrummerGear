@@ -251,6 +251,7 @@
 | 2026-03-14 | Zildjian vs Sabian: Which Cymbals for Metal? | /gear-comparison/zildjian-vs-sabian | - |
 | 2026-03-15 | What's In Gene Hoglan's Atomic Arsenal | /articles/whats-in-gene-hoglans-kit | - |
 | 2026-03-15 | What's In Eloy Casagrande's Slipknot Kit | /articles/whats-in-eloy-casagrandes-kit | - |
+| 2026-03-15 | Painkiller Drum Setup: Scott Travis | /articles/painkiller-drum-setup | - |
 
 ---
 
@@ -274,12 +275,12 @@
 
 ---
 
-### 💡 [IDEA-015] Painkiller Drum Setup: Scott Travis's Speed Metal Masterpiece
+### ✅ [IDEA-015] Painkiller Drum Setup: Scott Travis's Speed Metal Masterpiece
 
 **Type:** album-breakdown
 **SEO Keywords:** painkiller drums, scott travis drum setup, judas priest painkiller gear, scott travis 1990 kit
 **Search Volume:** High
-**Data Available:** Partial (need research on studio gear)
+**Data Available:** Yes (researched)
 **Priority:** 5
 
 **Outline:**
@@ -290,7 +291,7 @@
 5. Gear Breakdown (drums, cymbals, pedals)
 6. How Scott's Speed Changed Metal Drumming
 
-**Status:** IDEA
+**Status:** PUBLISHED (2026-03-15) — /articles/painkiller-drum-setup
 
 ---
 
@@ -387,4 +388,4 @@
 
 ---
 
-*Last updated: 2026-03-15 13:05*
+*Last updated: 2026-03-15 17:10*

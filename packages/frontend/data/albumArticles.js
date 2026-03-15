@@ -3655,6 +3655,339 @@ Eloy Casagrande's journey from São Paulo to Slipknot's stage represents what's 
 
 🤘 *"The mask doesn't change who you are — it reveals who you've always been."* 🤘`
     }
+  },
+
+  // Painkiller - Scott Travis Article (March 2026)
+  'painkiller-drum-setup': {
+    slug: 'painkiller-drum-setup',
+    albumTitle: 'Painkiller',
+    artist: 'Judas Priest',
+    drummer: 'Scott Travis',
+    drummerId: 14,
+    year: 1990,
+    genre: 'Heavy Metal / Speed Metal',
+    label: 'Columbia Records',
+    studio: 'Wisseloord Studios, Hilversum, Netherlands & Miraval Studios, France',
+    producer: 'Chris Tsangarides',
+    isAlbumArticle: true,
+    datePublished: '2026-03-15',
+    dateModified: '2026-03-15',
+    author: 'MetalForge Editorial',
+    title: "Painkiller Drum Setup: Scott Travis's Speed Metal Revolution",
+    description: "Complete breakdown of Scott Travis's legendary drum setup on Judas Priest's Painkiller. The album that proved metal wasn't dead in 1990, featuring some of the most intense drumming in heavy metal history.",
+    seoKeywords: ['painkiller drums', 'scott travis drum setup', 'judas priest painkiller gear', 'scott travis 1990 kit', 'painkiller recording', 'scott travis double bass'],
+    ogImage: '/images/albums/painkiller-drums.webp',
+    intro: {
+      title: 'The Album That Proved Metal Wasn\'t Dead',
+      content: `In 1990, heavy metal was in crisis. Grunge was rising, hair metal was dying, and many classic bands were releasing their weakest material. Then Judas Priest unleashed "Painkiller" — an album so fast, so aggressive, and so uncompromisingly heavy that it silenced every critic who claimed metal had lost its edge.
+
+At the center of this nuclear blast was Scott Travis, the American drummer who had replaced Dave Holland and completely transformed Judas Priest's sound. Where Holland was solid and workmanlike, Travis was a force of nature — bringing speed metal intensity, double bass fury, and technical precision that pushed Priest into new territory.
+
+From the opening seconds of the title track — arguably metal's greatest drum intro — Travis announced that this would be something different. The sustained double bass assault, the impossible speed, the pinpoint accuracy: it was drumming that seemed beyond human capability.
+
+Recorded primarily at Wisseloord Studios in the Netherlands with producer Chris Tsangarides, Painkiller represented Judas Priest's heaviest, fastest, and most technically demanding album. Twenty-five years later, it remains the benchmark against which all heavy metal drumming is measured.`,
+      keyPoints: [
+        'Scott Travis\'s debut with Judas Priest after years with Racer X',
+        'Recorded at Wisseloord Studios, Netherlands with Chris Tsangarides',
+        'Title track features one of metal\'s most iconic drum intros',
+        'Album revitalized Judas Priest and proved metal could evolve',
+        'Double bass work set new standards for the entire genre'
+      ]
+    },
+    drumKit: {
+      title: "Travis's Tama Powerhouse",
+      brand: 'Tama',
+      model: 'Tama Artstar II',
+      finish: 'Piano Black',
+      config: {
+        bassdrums: ['22" x 16" Bass Drum (x2)'],
+        toms: ['10" x 10" Rack Tom', '12" x 11" Rack Tom', '13" x 12" Rack Tom'],
+        floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom'],
+        shells: 'Birch shells with die-cast hoops'
+      },
+      description: `For Painkiller, Scott Travis used a Tama Artstar II kit that would become synonymous with speed metal drumming. The Artstar II featured birch shells known for their aggressive attack and focused tone — essential qualities for cutting through Priest's wall of guitars at extreme speeds.
+
+The double 22" x 16" bass drums were the foundation of Travis's revolutionary sound. Tuned tight and punchy, they produced the machine-gun attack that defines the Painkiller album. Unlike many metal drummers who favor deep, boomy bass drums, Travis's setup emphasized clarity and articulation, allowing every note to be heard even at blinding speeds.
+
+The rack tom configuration (10", 12", 13") along with two floor toms (14", 16") gave Travis a complete palette for his rapid-fire fills. The Artstar II's die-cast hoops enhanced attack and rim shot clarity, crucial for the snare-intensive patterns throughout the album.
+
+The birch shells provided the projection needed for Painkiller's massive sound. Unlike maple's warmth, birch delivers more high-frequency attack — ideal for the aggressive, in-your-face drum sound that defined the album.`,
+      notes: [
+        'Double bass drums tuned tight for maximum articulation',
+        'Birch shells provided aggressive attack and projection',
+        'Die-cast hoops enhanced rim shot clarity',
+        'Configuration optimized for speed without sacrificing power',
+        'This kit established the template for modern speed metal drumming'
+      ],
+      estimatedValue: '$3,500-5,000 (1990)'
+    },
+    snare: {
+      title: 'The Crack of Thunder',
+      brand: 'Tama',
+      model: 'Tama Artstar II Steel',
+      size: '14" x 6.5"',
+      shell: 'Steel with die-cast hoops',
+      description: `The snare sound on Painkiller cuts through like a blade — tight, explosive, and perfectly positioned in the mix. Travis achieved this with a Tama Artstar II steel snare that provided the brightness and attack needed for the album's demanding material.
+
+The 14" x 6.5" dimensions gave the drum both the projection for powerful backbeats and the response for the rapid ghost notes and intricate patterns throughout the album. The steel shell delivered the high-frequency crack that pierced through K.K. Downing and Glenn Tipton's dual guitar assault.
+
+Travis tuned the snare on the tighter side, emphasizing attack over body. This approach was essential for songs like "Painkiller" and "Metal Meltdown" where the snare needed to cut through sustained guitar walls and not get lost in the density.
+
+The die-cast hoops added durability for Travis's powerful rim shots and enhanced the drum's overall projection. Every backbeat rang with authority, providing the anchor for the album's complex arrangements.`,
+      tuningSetting: 'Medium-high tension, tight snare wires for maximum attack',
+      heads: 'Remo Emperor Coated (batter), Remo Ambassador Snare Side',
+      estimatedValue: '$400-500 (1990)'
+    },
+    cymbals: {
+      title: 'Paiste Brilliance',
+      brand: 'Paiste',
+      series: 'Paiste Signature / 2002',
+      setup: [
+        { type: 'Hi-Hats', model: 'Paiste Signature 14" Heavy Hi-Hats', position: 'Left side', notes: 'Brilliant finish, heavy weight for aggressive playing' },
+        { type: 'Crash', model: 'Paiste 2002 16" Medium Crash', position: 'Left of hi-hats', notes: 'Quick, explosive crash' },
+        { type: 'Crash', model: 'Paiste Signature 17" Power Crash', position: 'Above left toms', notes: 'Brilliant, cutting crash' },
+        { type: 'Crash', model: 'Paiste Signature 18" Power Crash', position: 'Above right toms', notes: 'Primary crash position' },
+        { type: 'Crash', model: 'Paiste 2002 20" Medium Crash', position: 'Right side', notes: 'Larger sustain for accents' },
+        { type: 'Ride', model: 'Paiste Signature 22" Power Ride', position: 'Far right', notes: 'Heavy ride with clear bell' },
+        { type: 'China', model: 'Paiste 2002 20" Novo China', position: 'Above floor tom', notes: 'Trashy accents for transitions' }
+      ],
+      description: `Scott Travis's cymbal setup blended Paiste's Signature series (known for their brilliant finish and projection) with the classic 2002 line. This combination delivered the brightness and cut essential for heavy metal's most demanding album.
+
+The 14" Signature Heavy Hi-Hats were crucial for Travis's playing style. Their weight provided stability during aggressive patterns while the brilliant finish gave them the shimmer and projection to cut through the mix. Fast hi-hat work is featured prominently throughout the album.
+
+The array of crash cymbals (16" through 20") gave Travis options for different dynamics and textures. The Signature Power Crashes emphasized high frequencies and fast response, while the 2002 crashes added warmth for variety.
+
+The 22" Power Ride was substantial enough to withstand Travis's forceful playing while providing clear stick definition for ride-heavy passages. The bell sound was particularly important for accents throughout the album.
+
+The 20" Novo China added the explosive accents that punctuate key moments throughout Painkiller. These trashy, cutting sounds became part of the album's sonic signature.`,
+      estimatedValue: '$2,200-2,800 total (1990)'
+    },
+    hardware: {
+      title: 'The Speed Machine',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'Tama',
+          model: 'Tama Iron Cobra HP900 (Prototype/Early Version)',
+          notes: 'Power Glide cam for smooth, fast response',
+          description: 'Travis was an early adopter of Tama\'s Iron Cobra pedals, which offered the speed and consistency needed for Painkiller\'s demanding double bass work. The Power Glide cam provided smooth acceleration for sustained high-speed patterns.'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Tama',
+          model: 'Tama Iron Cobra Hi-Hat Stand',
+          notes: 'Quick response for aggressive footwork'
+        },
+        {
+          type: 'Throne',
+          brand: 'Tama',
+          model: 'Tama 1st Chair',
+          notes: 'Round seat for stability during intense playing'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth 5B',
+          notes: 'Standard weight for balanced speed and power'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke 3 Clear',
+        toms: 'Remo Emperor Clear',
+        snare: 'Remo Emperor Coated'
+      }
+    },
+    recordingTechniques: {
+      title: 'Chris Tsangarides\' Precision Approach',
+      content: `Producer Chris Tsangarides, who had worked with Priest on "Sad Wings of Destiny" and "Defenders of the Faith," returned to capture what would become their heaviest album. His approach to drum recording on Painkiller emphasized clarity and power in equal measure.
+
+**Recording Environment:**
+The drums were primarily tracked at Wisseloord Studios in Hilversum, Netherlands — a facility known for its excellent acoustics and legendary Neve console. The studio's live room provided natural ambience that enhanced the drums' power without excessive room wash.
+
+**Microphone Setup:**
+- Kick drums: AKG D12 inside each, Neumann U47 FET outside
+- Snare: Shure SM57 top, AKG C451 bottom
+- Toms: Sennheiser MD421 on each tom
+- Hi-hat: AKG C451
+- Overheads: Neumann U87s in spaced pair
+- Room mics: Neumann U47s for controlled ambience
+
+**The Double Bass Challenge:**
+Capturing Travis's double bass work was one of the album's biggest technical challenges. Tsangarides used close miking on both kick drums with minimal bleed between them. The tight tuning of Travis's bass drums helped maintain clarity even at the most extreme speeds.
+
+**Performance Approach:**
+Unlike some modern recordings that rely on extensive editing, Painkiller was largely recorded in complete takes. Travis's consistency and precision allowed Tsangarides to capture performances that needed minimal correction. The energy of real performances shows throughout the album.
+
+**Mix Philosophy:**
+Tsangarides mixed the drums prominently, understanding their importance to the album's impact. The snare cuts through perfectly, the bass drums are punchy without being boomy, and the cymbals shimmer without washing out the guitars. It remains a benchmark for heavy metal drum production.`,
+      keyTechniques: [
+        'Wisseloord Studios provided excellent natural acoustics',
+        'Close miking on both kick drums for separation',
+        'Tight bass drum tuning essential for clarity at speed',
+        'Complete takes captured real performance energy',
+        'Prominent drum mix emphasized their importance to the sound'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'Painkiller',
+        bpm: '215+',
+        signature: '4/4',
+        highlights: [
+          'Legendary double bass intro — possibly metal\'s greatest drum moment',
+          'Sustained high-speed double bass throughout 6 minutes',
+          'Complex fills between vocal sections',
+          'Sets the standard for speed metal drumming'
+        ],
+        gearNotes: 'The double bass intro showcases Travis\'s incredible control and speed. Tight bass drum tuning is essential for the clarity heard on the recording.'
+      },
+      {
+        track: 'Hell Patrol',
+        bpm: '170',
+        signature: '4/4',
+        highlights: [
+          'Driving double bass groove throughout',
+          'Signature Priest galloping rhythm',
+          'Powerful snare accents in chorus',
+          'Balance of speed and groove'
+        ],
+        gearNotes: 'Shows Travis\'s ability to lock into a groove while maintaining intensity. Hi-hat work drives the verses.'
+      },
+      {
+        track: 'All Guns Blazing',
+        bpm: '190',
+        signature: '4/4',
+        highlights: [
+          'Relentless thrash metal attack',
+          'Machine-gun double bass patterns',
+          'Tight coordination with guitar riffs',
+          'No rest for the listener or drummer'
+        ],
+        gearNotes: 'Demonstrates the kit\'s ability to project through the dense guitar wall. Cymbal crashes punctuate the assault.'
+      },
+      {
+        track: 'Metal Meltdown',
+        bpm: '200+',
+        signature: '4/4',
+        highlights: [
+          'Among the album\'s fastest tracks',
+          'Extreme double bass stamina test',
+          'Complex section changes',
+          'Title says it all'
+        ],
+        gearNotes: 'The bass drums need to maintain clarity at extreme speeds. Travis\'s tight tuning and technique are crucial.'
+      },
+      {
+        track: 'Night Crawler',
+        bpm: '130-160',
+        signature: 'Various',
+        highlights: [
+          'More dynamic, varied arrangement',
+          'Builds from atmospheric to crushing',
+          'Shows Travis\'s versatility',
+          'Not just about speed'
+        ],
+        gearNotes: 'Shows the kit\'s range from subtle tom work to full-power crashes. The slower sections highlight Travis\'s musicality.'
+      },
+      {
+        track: 'One Shot at Glory',
+        bpm: '160',
+        signature: '4/4',
+        highlights: [
+          'Epic album closer',
+          'Dynamic range from quiet to crushing',
+          'Building intensity throughout',
+          'Proves Travis can do more than blast'
+        ],
+        gearNotes: 'Full dynamic range of the kit on display. The build showcases cymbal choices and tom tuning.'
+      }
+    ],
+    evolution: {
+      title: 'From Racer X to Metal God: Scott Travis\'s Journey',
+      content: `Before joining Judas Priest, Scott Travis had already established himself as one of metal's most technically proficient drummers through his work with Racer X, the neoclassical metal band featuring guitarist Paul Gilbert. His speed metal credentials were impeccable — but Painkiller would take him to a new level.
+
+**The Racer X Foundation:**
+With Racer X, Travis developed the double bass technique and speed that would define his Priest years. Albums like "Street Lethal" (1986) and "Second Heat" (1987) showcased his ability to play at extreme tempos while maintaining precision. But Racer X's profile was limited compared to what awaited.
+
+**Joining Judas Priest:**
+When Dave Holland departed Priest in 1989, the band needed someone who could reinvigorate their sound. Travis was the perfect choice — young, technically superior, and hungry to prove himself on a bigger stage. His audition reportedly left the band stunned.
+
+**The Painkiller Transformation:**
+Travis didn't just play the drums on Painkiller — he helped reshape Priest's entire sound. His thrash metal influences pushed the band faster and heavier than they'd ever been. Songs were written around his capabilities, and the result was a complete artistic reinvention.
+
+**Post-Painkiller Career:**
+Travis has remained with Judas Priest through their entire post-Painkiller career. While subsequent albums haven't matched Painkiller's extremity, his drumming continues to anchor the band. Albums like "Angel of Retribution" (2005) and "Firepower" (2018) showcase his enduring abilities.
+
+**Modern Setup:**
+Today, Scott Travis plays:
+- ddrum drums (ddrum endorser since early 2000s)
+- ddrum Scott Travis Signature Snare 14x6.5"
+- Paiste RUDE and Signature cymbals
+- Tama Iron Cobra 900 pedals
+- Vic Firth signature sticks
+
+His gear has evolved with technology, but the fundamental approach — precision, power, and speed — remains unchanged.`,
+      thenVsNow: [
+        { category: 'Kit', then: 'Tama Artstar II Birch', now: 'ddrum Custom' },
+        { category: 'Snare', then: 'Tama Artstar II Steel 14x6.5"', now: 'ddrum Scott Travis Signature 14x6.5"' },
+        { category: 'Cymbals', then: 'Paiste Signature / 2002', now: 'Paiste RUDE / Signature' },
+        { category: 'Sticks', then: 'Vic Firth 5B', now: 'Vic Firth Scott Travis Signature' },
+        { category: 'Pedals', then: 'Tama Iron Cobra (prototype)', now: 'Tama Iron Cobra 900' }
+      ]
+    },
+    technique: {
+      title: 'The Science of Speed: Travis\'s Technical Approach',
+      content: `What made Scott Travis's drumming on Painkiller so revolutionary wasn't just speed — it was the combination of speed, precision, power, and musicality that seemed impossible at the time. His technical approach influenced every speed metal drummer who followed.
+
+**Double Bass Technique:**
+Travis uses a heel-up technique with ankle-driven strokes for sustained speed patterns. The key is relaxation — tension kills speed. His bass drum parts on songs like "Painkiller" require sustained effort at 200+ BPM, impossible without efficient technique.
+
+**The bounce is crucial:** Travis lets the beaters rebound naturally, using the drum's energy rather than fighting it. This allows him to maintain speed without exhausting his legs.
+
+**Snare Power:**
+Despite the speed-focused material, Travis hits hard. His snare attacks have real authority, achieved through proper stick technique and full arm motion when needed. The backbeats on Painkiller aren't wimpy speed metal snare taps — they're crushing.
+
+**Coordination:**
+What separates great double bass drummers from good ones is independence — maintaining separate patterns between hands and feet. Travis's fills flow naturally while his feet maintain the relentless pulse. This isn't mechanical playing; it's musical drumming at extreme speeds.
+
+**Physical Conditioning:**
+Performing Painkiller-level material requires athlete-level conditioning. Travis has always emphasized practice and physical preparation. Endurance at these tempos can't be faked — it requires genuine cardiovascular fitness combined with muscular endurance.`,
+      keyTechniques: [
+        'Heel-up, ankle-driven technique for sustained double bass',
+        'Relaxation and natural rebound for speed without tension',
+        'Full power snare hits despite fast tempos',
+        'Independent coordination between hands and feet',
+        'Athletic conditioning for endurance at extreme speeds'
+      ]
+    },
+    videos: [
+      { youtubeId: 'nM__lPTWThU', title: 'Painkiller - Live (Official Video)', description: 'Original music video showcasing the legendary intro' },
+      { youtubeId: 'QzntarL7nHY', title: 'Scott Travis Drum Solo (Firepower Tour)', description: 'Modern drum solo showing continued abilities' },
+      { youtubeId: '3L6q0xb6gAo', title: 'Hell Patrol - Live 1991', description: 'Painkiller-era live performance' },
+      { youtubeId: 'j1stxKI9MeI', title: 'Judas Priest - Painkiller (Drum Cover Analysis)', description: 'Technique breakdown of the title track' }
+    ],
+    relatedAlbums: ['reign-in-blood-drum-setup', 'master-of-puppets-drum-setup'],
+    relatedDrummers: [4, 1, 3], // Dave Lombardo, Lars Ulrich, Gene Hoglan
+    relatedArticles: ['fastest-double-bass-drummers', 'thrash-metal-drummers'],
+    conclusion: {
+      title: 'The Standard That Still Stands',
+      content: `More than three decades after its release, "Painkiller" remains the benchmark for heavy metal drumming. Scott Travis's performance on this album didn't just showcase technical ability — it redefined what was possible in metal.
+
+The title track's opening drum intro is one of metal's most recognizable moments. That sustained double bass assault, building through fills into the full band entrance, announced a new era for both Judas Priest and heavy metal drumming. Every metal drummer who has attempted double bass work since owes something to Travis's template.
+
+What made Travis's performance special was the combination of extremity and musicality. The speed was astonishing, but the parts served the songs. The fills made sense. The dynamics existed. It wasn't just fast — it was music at high velocity.
+
+For drummers studying Painkiller, the lessons are both technical and philosophical:
+
+- **Speed must be built on solid fundamentals**: Travis's precision comes from proper technique, not just quick muscles
+- **Musicality matters at any tempo**: Even the fastest parts groove and serve the arrangement
+- **Gear choices matter**: Travis's tight bass drum tuning was essential for clarity at speed
+- **Conditioning is crucial**: You can't fake stamina at these tempos
+
+Scott Travis proved that age wasn't catching up with metal — metal was just getting started. Painkiller silenced every critic who claimed the genre was dying. Thirty-four years later, it still sounds like the future.
+
+🔥 *"Faster than a bullet, terrifying scream — Painkiller!"* 🔥`
+    }
   }
 };
 

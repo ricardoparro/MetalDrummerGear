@@ -250,6 +250,7 @@
 | 2026-03-14 | What's In Dave Lombardo's Kit in 2026 | /articles/whats-in-dave-lombardos-kit | - |
 | 2026-03-14 | Zildjian vs Sabian: Which Cymbals for Metal? | /gear-comparison/zildjian-vs-sabian | - |
 | 2026-03-15 | What's In Gene Hoglan's Atomic Arsenal | /articles/whats-in-gene-hoglans-kit | - |
+| 2026-03-15 | What's In Eloy Casagrande's Slipknot Kit | /articles/whats-in-eloy-casagrandes-kit | - |
 
 ---
 
@@ -313,7 +314,7 @@
 
 ---
 
-### 💡 [IDEA-017] What's In Eloy Casagrande's Slipknot Kit
+### ✅ [IDEA-017] What's In Eloy Casagrande's Slipknot Kit
 
 **Type:** drummer-kit
 **SEO Keywords:** eloy casagrande drum kit, slipknot new drummer, eloy casagrande setup, slipknot drummer 2024
@@ -323,13 +324,13 @@
 
 **Outline:**
 1. Introduction — From Sepultura to Slipknot
-2. Current Pearl/Tama Setup (verify current endorsement)
+2. Current Tama Setup
 3. Signature Techniques & Brazilian Roots
 4. How He Adapted Joey's Patterns
 5. Comparison: Eloy vs Joey vs Jay
 6. Where to Buy Similar Gear
 
-**Status:** IDEA
+**Status:** PUBLISHED (2026-03-15) — /articles/whats-in-eloy-casagrandes-kit
 
 ---
 
@@ -386,4 +387,4 @@
 
 ---
 
-*Last updated: 2026-03-15 09:05*
+*Last updated: 2026-03-15 13:05*

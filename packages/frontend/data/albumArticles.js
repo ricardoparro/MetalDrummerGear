@@ -3274,6 +3274,387 @@ The metal world has no shortage of fast drummers. But there's only one Gene Hogl
 
 🤘 *"The best drummers are the ones who make complex things feel simple."* 🤘`
     }
+  },
+
+  // Eloy Casagrande - What's In His Kit (March 2026)
+  'whats-in-eloy-casagrandes-kit': {
+    slug: 'whats-in-eloy-casagrandes-kit',
+    articleType: 'drummer-kit',
+    drummer: 'Eloy Casagrande',
+    drummerId: 7,
+    band: 'Slipknot',
+    bands: ['Slipknot', 'Sepultura', 'Burning Witches (guest)'],
+    genre: 'Nu Metal / Thrash Metal / Groove Metal',
+    country: 'Brazil',
+    isAlbumArticle: true,
+    datePublished: '2026-03-15',
+    dateModified: '2026-03-15',
+    author: 'MetalForge Editorial',
+    // SEO
+    title: "What's In Eloy Casagrande's Kit in 2026: From Sepultura to Slipknot",
+    description: "Discover the exact drums, cymbals, and gear behind Slipknot's new drummer Eloy Casagrande. Complete breakdown of his Tama Starclassic setup, Paiste cymbals, and how the Brazilian prodigy adapted to metal's biggest stage.",
+    seoKeywords: ['eloy casagrande drum kit', 'eloy casagrande setup', 'slipknot new drummer', 'slipknot drummer 2024', 'eloy casagrande tama', 'eloy casagrande paiste', 'sepultura drummer', 'brazilian metal drummer'],
+    ogImage: '/images/drummers/eloy-casagrande.webp',
+    // Introduction
+    intro: {
+      title: 'The Brazilian Prodigy Takes Metal\'s Biggest Stage',
+      content: `When Slipknot needed a new drummer in 2024, they didn't just need someone who could play — they needed someone who could fill the massive shoes left by Joey Jordison and Jay Weinberg. They found their answer in a 33-year-old Brazilian phenomenon who had spent 13 years powering one of thrash metal's most legendary bands: Eloy Casagrande.
+
+Born August 25, 1991, in São Paulo, Brazil, Eloy started drumming at age 7 and joined Sepultura — yes, THE Sepultura — at just 19 years old. For over a decade, he proved himself against some of the most demanding drum parts in thrash metal, from "Arise" to "Roots" to the band's modern material. When the Modern Drummer 2024 Readers' Poll named him the #1 metal drummer in the world, it wasn't a surprise to anyone who had been paying attention.
+
+Now, in 2026, Eloy stands behind a completely redesigned kit, bringing his explosive Brazilian energy to Slipknot's theatrical chaos. It's a role that demands everything: the speed of Joey's classic work, the groove of Jay's tenure, and the endurance to deliver it all while wearing a mask in stadium-sized venues night after night.
+
+This article breaks down every piece of gear Eloy is using with Slipknot, how his setup evolved from Sepultura, and what makes him the perfect drummer for metal's most extreme live show.`,
+      keyPoints: [
+        'Named #1 Metal Drummer in Modern Drummer 2024 Readers\' Poll',
+        'Joined Slipknot in 2024, replacing Jay Weinberg',
+        'Former Sepultura drummer (2011-2024)',
+        'Tama Drums and Paiste Cymbals endorser',
+        'Brazilian heritage brings unique rhythmic sensibility',
+        'Only 33 years old — still ascending'
+      ]
+    },
+    // Drum Kit Section
+    drumKit: {
+      title: "Eloy's Slipknot Tama Starclassic Rig",
+      brand: 'Tama',
+      model: 'Tama Starclassic Bubinga',
+      finish: 'Custom Slipknot Black/Red Tribal (exclusive)',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum (x2)'],
+        toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom', '13" x 10" Rack Tom'],
+        floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom'],
+        shells: 'Bubinga/Birch hybrid shells'
+      },
+      description: `For Slipknot, Eloy upgraded to Tama's flagship Starclassic Bubinga series — the same shells trusted by metal drummers worldwide for their combination of attack, projection, and controlled low-end.
+
+The Bubinga/Birch hybrid construction offers the best of both worlds: Bubinga's exotic warmth and powerful low frequencies paired with Birch's focused attack and cut. This combination is essential for Slipknot's dense sonic landscape, where drums must punch through nine-member chaos without getting lost.
+
+Eloy's Slipknot configuration is more expansive than his Sepultura setup, featuring double 22" bass drums and five toms (three rack, two floor). The additional rack tom gives him more melodic options during the complex fills Slipknot material demands.
+
+The custom finish — a striking black with red tribal accents — was designed specifically for Slipknot's visual aesthetic. Each kit is built to withstand the punishment of Slipknot's explosive live shows, where drums must survive not just aggressive playing but the physical intensity of masked performance in hot stage conditions.
+
+Notably, Eloy uses two independent bass drums rather than a single drum with a double pedal. This choice, shared by many extreme metal drummers, allows for complete foot independence and eliminates the slave pedal's slight delay that can affect precision at high speeds.`,
+      notes: [
+        'Double 22"x18" bass drums for maximum low-end attack',
+        'Bubinga/Birch hybrid for warmth + cut balance',
+        'Five toms for expanded melodic possibilities',
+        'Custom Slipknot tribal finish exclusive to Eloy',
+        'Built for touring durability in extreme conditions'
+      ],
+      estimatedValue: '$6,000-9,000 (Starclassic Bubinga custom configuration)'
+    },
+    // Snare Section
+    snare: {
+      title: 'The Crack That Cuts Through Chaos',
+      brand: 'Tama',
+      model: 'Tama S.L.P. Sonic Steel 14"x6"',
+      size: '14" x 6"',
+      shell: '1.2mm Steel',
+      description: `For Slipknot's massive sound, Eloy relies on Tama's S.L.P. Sonic Steel — a 1.2mm steel shell that delivers the explosive crack needed to cut through nine musicians playing at stadium volume.
+
+The thinner steel shell vibrates more freely than heavier alternatives, producing a brighter, more sensitive tone that responds to Eloy's dynamic playing. This sensitivity is crucial for the ghost notes and subtle touches that separate good drummers from great ones.
+
+At 14" x 6", it's a standard depth that balances crack with body. Eloy tunes it on the higher side for maximum cut, essential when competing with Slipknot's wall of distorted guitars, samples, and percussion.
+
+The S.L.P. (Sound Lab Project) series represents Tama's experimental approach to shell materials. The Sonic Steel's seamless 1.2mm shell delivers projection that rivals much heavier drums while maintaining playability for fast, technical passages.
+
+For Slipknot's outdoor festival appearances, the steel snare's projection is invaluable. Where wood snares might get lost in open-air venues, the Sonic Steel's metallic cut ensures every backbeat lands with authority.`,
+      tuningSetting: 'Medium-high for maximum cut and crack',
+      heads: 'Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$400-550 (S.L.P. series)'
+    },
+    // Cymbals Section
+    cymbals: {
+      title: 'Paiste Arsenal: RUDE Power for Stadium Sound',
+      brand: 'Paiste',
+      series: 'Paiste RUDE / PST X / 2002',
+      setup: [
+        { type: 'Hi-Hats', model: 'Paiste RUDE 14" Hi-Hats', position: 'Left side', notes: 'Heavy, cutting hi-hats that don\'t wash out' },
+        { type: 'Crash', model: 'Paiste RUDE 17" Wild Crash', position: 'Far left', notes: 'Explosive attack for accents' },
+        { type: 'Crash', model: 'Paiste RUDE 19" Wild Crash', position: 'Left of hi-hats', notes: 'Primary crash position' },
+        { type: 'Crash', model: 'Paiste RUDE 20" Crash/Ride', position: 'Right side', notes: 'Versatile crash/ride hybrid' },
+        { type: 'Ride', model: 'Paiste 2002 22" Power Ride', position: 'Far right', notes: 'Heavy ride for stadium projection' },
+        { type: 'China', model: 'Paiste RUDE 18" Wild China', position: 'Left side, high', notes: 'Trashy, aggressive accent' },
+        { type: 'China', model: 'Paiste RUDE 20" Wild China', position: 'Right side, high', notes: 'Larger China for variety' },
+        { type: 'Splash', model: 'Paiste PST X 10" Splash', position: 'Between hi-hat and crash', notes: 'Quick, bright accents' },
+        { type: 'Stack', model: 'Paiste RUDE 10" Splash + 12" Hi-Hat Bottom', position: 'Various', notes: 'Custom stacks for effect hits' }
+      ],
+      description: `Eloy's cymbal setup centers on Paiste's RUDE series — purpose-built for heavy hitters who need durability and projection without sacrificing musicality.
+
+The RUDE series was literally designed for aggressive playing. The "Wild" designation indicates unlathed bells and bright, cutting overtones that slice through any mix. For Slipknot's dense soundstage, these characteristics are essential.
+
+The 14" RUDE hi-hats are heavier than standard, providing stability during Eloy's aggressive playing while delivering a defined "chick" that won't get lost. Many drummers step up to 15" hi-hats for volume, but Eloy prefers the faster response of 14s.
+
+For crashes, Eloy uses a range from 17" to 20" — giving him tonal variety for different intensity levels. The smaller crashes respond quickly for rapid accents; the larger ones provide wash and sustain for section endings.
+
+The dual China setup is pure thrash metal DNA. These aggressive, trashy cymbals punctuate riffs and signal transitions — a technique Eloy perfected during his Sepultura years that translates perfectly to Slipknot's rhythmic complexity.
+
+Custom stacks (combining different cymbals for unique sounds) add texture for specific moments. This experimental approach reflects Slipknot's "anything goes" sonic philosophy.`,
+      estimatedValue: '$3,500-5,000 total (RUDE/2002/PST X mixed setup)'
+    },
+    // Hardware Section
+    hardware: {
+      title: 'Iron Foundation: Tama's Premier Hardware',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'Tama',
+          model: 'Tama Speed Cobra 910',
+          notes: 'Rolling Glide cam for smooth, fast action on each bass drum',
+          description: 'Eloy uses two independent Speed Cobra pedals — one for each bass drum. The Speed Cobra\'s smooth Rolling Glide cam and lightweight footboard deliver the effortless speed needed for Slipknot\'s demanding double-bass passages.'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Tama',
+          model: 'Tama Iron Cobra 900',
+          notes: 'Heavy-duty stability for aggressive playing'
+        },
+        {
+          type: 'Throne',
+          brand: 'Tama',
+          model: 'Tama 1st Chair Ergo-Rider',
+          notes: 'Ergonomic design for long, demanding sets'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Promark',
+          model: 'Promark Eloy Casagrande Signature',
+          notes: 'Custom signature model for power and precision',
+          description: 'Eloy\'s signature sticks are designed for the perfect balance between power and speed. They feature a slightly forward balance point for faster response and a reinforced tip for durability during aggressive playing.'
+        },
+        {
+          type: 'In-Ear Monitors',
+          brand: 'JH Audio',
+          model: 'Custom IEMs',
+          notes: 'Essential for Slipknot\'s complex live show coordination'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke P3 Clear (batter), Remo Fiberskyn (front with port)',
+        toms: 'Remo Emperor Clear (batter), Remo Ambassador Clear (resonant)',
+        snare: 'Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)'
+      }
+    },
+    // Unique Section: Brazilian Roots
+    brazilianRoots: {
+      title: 'São Paulo Soul: How Brazilian Rhythm Shapes His Playing',
+      content: `Like Dave Lombardo's Cuban heritage, Eloy Casagrande brings something uniquely Brazilian to his playing — a rhythmic sensibility forged in São Paulo's musical melting pot.
+
+Growing up in Brazil, Eloy absorbed Samba, Bossa Nova, and the driving rhythms of Brazilian heavy metal. This foundation shows in his playing: even at extreme speeds, there's a groove, a swing, a human element that separates him from drummers who rely purely on metronome precision.
+
+This heritage made him perfect for Sepultura — a band whose identity was built on combining thrash metal with Brazilian roots (literally, on the "Roots" album). Eloy understood the clave beneath the chaos, the groove inside the speed.
+
+For Slipknot, this translates to something special. Joey Jordison was known for his jazz background influencing his metal; Jay Weinberg brought hip-hop influenced groove. Eloy brings samba-rooted swing to Slipknot's percussive assault, adding yet another layer to the band's rhythmic DNA.
+
+Listen carefully to his live performances: the bass drums don't just alternate mechanically — they breathe. The fills don't just connect sections — they dance. This is what makes Eloy more than just a technical player; it's what makes him a musician.`,
+      keyPoints: [
+        'São Paulo upbringing immersed in diverse Brazilian rhythms',
+        'Samba and Bossa Nova influence his sense of groove',
+        'Perfect fit for Sepultura\'s Brazilian metal fusion',
+        'Brings unique swing to Slipknot\'s percussive complexity',
+        'Groove-first approach beneath extreme technical ability'
+      ]
+    },
+    // Joey/Jay Comparison Section
+    slipknotDrummers: {
+      title: 'Standing on Giants: Eloy vs Joey vs Jay',
+      content: `Joining Slipknot means accepting comparison to two legendary drummers. Rather than shy away from this, Eloy embraces both legacies while bringing his own identity.
+
+**Joey Jordison (1999-2013)**
+Joey defined Slipknot's drum sound: technical, chaotic, yet always grooving. His jazz background gave him vocabulary others lacked. Songs like "Eyeless," "People=Shit," and "Duality" featured drum performances that became the gold standard for modern metal drumming. Joey's kit was massive — often featuring four bass drums for visual impact.
+
+**Jay Weinberg (2014-2023)**
+Jay brought hip-hop-influenced groove to Slipknot. His work on ".5: The Gray Chapter" and "We Are Not Your Kind" showed a different approach: less technical flash, more pocket and feel. Jay simplified where Joey embellished, creating space in the chaos.
+
+**Eloy Casagrande (2024-present)**
+Eloy combines elements of both: Joey's technical chops with Jay's groove sensibility, filtered through his Brazilian background. He can nail Joey's complex passages while maintaining Jay's pocket, then add his own Sepultura-honed aggression. It's not about being "better" than his predecessors — it's about being the right drummer for Slipknot's next chapter.
+
+When Eloy plays "Duality" live, he honors Joey's original performance while adding subtle touches of his own. When he plays ".5" material, he respects Jay's groove while bringing his explosive energy. This balance — respect for legacy plus personal identity — is what makes him the right choice.`,
+      comparison: [
+        { aspect: 'Background', joey: 'Jazz-trained, technical', jay: 'Hardcore/hip-hop influenced', eloy: 'Brazilian thrash, Sepultura veteran' },
+        { aspect: 'Approach', joey: 'Complex, chaotic, technical', jay: 'Groove-focused, pocket', eloy: 'Technical + groove + Brazilian swing' },
+        { aspect: 'Visual', joey: 'Massive kit, theatrical', jay: 'More compact, focused', eloy: 'Expansive but functional' },
+        { aspect: 'Era', joey: 'Classic Slipknot sound', jay: 'Mature Slipknot sound', eloy: 'Next chapter' }
+      ]
+    },
+    // Gear Timeline / Evolution
+    gearTimeline: [
+      {
+        era: 'Early Career / Mingau Era',
+        years: '2005-2011',
+        albums: ['Various Brazilian bands'],
+        description: 'Young Eloy developing skills in São Paulo metal scene.',
+        gear: {
+          drums: 'Various entry-level kits',
+          snare: 'Mixed gear',
+          cymbals: 'Entry-level brass',
+          hardware: 'Basic hardware'
+        },
+        notes: 'Like many young drummers, Eloy started with whatever gear was available in the São Paulo scene.'
+      },
+      {
+        era: 'Sepultura Arrival',
+        years: '2011-2015',
+        albums: ['Kairos', 'The Mediator Between Head and Hands Must Be the Heart'],
+        description: 'Joining Sepultura at 19, earning pro-level gear.',
+        gear: {
+          drums: 'Tama Starclassic Bubinga',
+          snare: 'Tama S.L.P.',
+          cymbals: 'Paiste RUDE/2002',
+          hardware: 'Tama Iron Cobra'
+        },
+        notes: 'First major endorsements. Tama and Paiste recognize his potential.'
+      },
+      {
+        era: 'Prime Sepultura',
+        years: '2015-2023',
+        albums: ['Machine Messiah', 'Quadra'],
+        description: 'Establishing himself as one of metal\'s elite drummers.',
+        gear: {
+          drums: 'Tama Starclassic Bubinga (expanded)',
+          snare: 'Multiple Tama S.L.P. options',
+          cymbals: 'Full Paiste RUDE arsenal',
+          hardware: 'Tama Speed Cobra'
+        },
+        notes: 'Signature sticks from Promark. Modern Drummer recognition grows.'
+      },
+      {
+        era: 'Slipknot Era',
+        years: '2024-present',
+        albums: ['TBA'],
+        description: 'The biggest stage in metal demands the biggest sound.',
+        gear: {
+          drums: 'Tama Starclassic Bubinga (custom Slipknot finish)',
+          snare: 'Tama S.L.P. Sonic Steel 14"x6"',
+          cymbals: 'Paiste RUDE/2002/PST X expanded',
+          hardware: 'Tama Speed Cobra 910, full Iron Cobra rack'
+        },
+        notes: 'Custom everything for Slipknot\'s stadium-level demands. Kit expanded to match the show\'s scale.'
+      }
+    ],
+    // Technique Section
+    techniques: {
+      title: 'The Casagrande Method: Speed Meets Groove',
+      content: `What makes Eloy Casagrande special isn't just speed — it's speed that feels good. His technical approach combines traditional grip power with matched grip speed, Brazilian rhythmic sensibility, and the stamina developed over 13 years with Sepultura.
+
+**Double Bass Foundation:**
+Eloy uses two independent pedals rather than a connected double pedal. This allows complete foot independence — essential for the polyrhythmic patterns in both Sepultura and Slipknot material. His speed comes from ankle technique at high velocities, switching to full leg motion for power passages.
+
+**Blast Beat Precision:**
+While not a pure death metal drummer, Eloy can deliver blast beats when needed. His approach emphasizes clarity over pure speed — each hit distinct, not a wash of noise. This clarity comes from years of live performance where muddy blasts get lost.
+
+**Groove Mastery:**
+Beneath the technical fireworks, Eloy maintains pocket. His Sepultura work on tracks like "Refuse/Resist" and "Territory" required locking in with the riff while adding complexity. This skill translates perfectly to Slipknot's groove-heavy material.
+
+**Stamina and Conditioning:**
+Slipknot shows run 90+ minutes in demanding conditions (masks, heat, physical movement). Eloy's conditioning allows him to maintain performance quality throughout. This isn't just about drumming practice — it's about athletic preparation.`,
+      keyTechniques: [
+        'Two independent pedals for maximum foot independence',
+        'Ankle technique for speed, leg motion for power accents',
+        'Brazilian rhythmic foundation for natural groove',
+        'Clarity-focused blast beats that cut through mix',
+        'Athletic conditioning for 90+ minute masked performances'
+      ]
+    },
+    // Videos
+    videos: [
+      { youtubeId: 'VH2V0JqiKtc', title: 'Eloy Casagrande - First Slipknot Show', description: 'Debut performance with Slipknot' },
+      { youtubeId: 'xjPVOGvM5_o', title: 'Eloy Casagrande Drum Cam', description: 'Full concert drum cam footage' },
+      { youtubeId: 'Q5XnOvmKKC0', title: 'Eloy Casagrande - Sepultura Drum Cam', description: 'Sepultura era performance showcasing technique' },
+      { youtubeId: 'K8N_FmMZl_U', title: 'Eloy Casagrande - Interview & Playthrough', description: 'Discussion of technique and gear choices' }
+    ],
+    // Related Content
+    relatedAlbums: ['iowa-drum-setup', 'roots-drum-setup'],
+    relatedDrummers: [2, 21, 4], // Joey Jordison, Igor Cavalera, Dave Lombardo
+    relatedArticles: ['slipknot-drummers-ranked', 'sepultura-drummers-history', 'brazilian-metal-drummers'],
+    // Gear Table
+    currentGear: {
+      title: 'Eloy Casagrande\'s Current Slipknot Setup',
+      items: [
+        {
+          item: 'Tama Starclassic Bubinga (Custom Slipknot Finish)',
+          available: true,
+          priceRange: '$6,000-9,000',
+          notes: 'Custom configuration; standard Bubinga finish available'
+        },
+        {
+          item: 'Tama S.L.P. Sonic Steel 14" x 6"',
+          available: true,
+          priceRange: '$400-550',
+          notes: 'Bright, cutting steel snare'
+        },
+        {
+          item: 'Paiste RUDE 14" Hi-Hats',
+          available: true,
+          priceRange: '$400-500',
+          notes: 'Heavy, durable hi-hats'
+        },
+        {
+          item: 'Paiste RUDE Wild Crashes (17", 19", 20")',
+          available: true,
+          priceRange: '$250-400 each',
+          notes: 'Bright, explosive crashes'
+        },
+        {
+          item: 'Paiste 2002 22" Power Ride',
+          available: true,
+          priceRange: '$450-550',
+          notes: 'Heavy, projecting ride cymbal'
+        },
+        {
+          item: 'Paiste RUDE Wild China (18", 20")',
+          available: true,
+          priceRange: '$300-400 each',
+          notes: 'Aggressive accent cymbals'
+        },
+        {
+          item: 'Tama Speed Cobra 910 Pedals (x2)',
+          available: true,
+          priceRange: '$250-300 each',
+          notes: 'Rolling Glide cam for speed'
+        },
+        {
+          item: 'Promark Eloy Casagrande Signature Sticks',
+          available: true,
+          priceRange: '$12-15',
+          notes: 'Custom balance for power/speed'
+        },
+        {
+          item: 'Remo Emperor/Ambassador Heads',
+          available: true,
+          priceRange: '$15-30 each',
+          notes: 'Industry standard for attack and tone'
+        }
+      ]
+    },
+    // Conclusion
+    conclusion: {
+      title: 'The Right Drummer at the Right Time',
+      content: `When Slipknot announced Eloy Casagrande as their new drummer in 2024, some fans wondered if anyone could fill the legacy left by Joey Jordison and Jay Weinberg. After two years of touring, the answer is clear: Eloy isn't just filling those shoes — he's walking his own path while honoring those who came before.
+
+His gear choices reflect his philosophy: professional equipment built for reliability and projection, not exotic choices for their own sake. Tama Starclassic Bubinga drums because they deliver the attack and warmth needed for Slipknot's dense mix. Paiste RUDE cymbals because they're literally designed for aggressive, heavy hitting. Promark signature sticks because he knows exactly what he needs.
+
+But gear is just tools. What makes Eloy the right choice for Slipknot is harder to quantify:
+
+- **The pedigree**: 13 years with Sepultura proved he could handle legendary material
+- **The recognition**: Modern Drummer's #1 metal drummer ranking validates his peers' respect
+- **The adaptability**: He plays Joey's and Jay's parts with respect while adding his own flavor
+- **The hunger**: At 33, he's still ascending, still improving, still hungry
+- **The soul**: That Brazilian swing makes technical playing feel musical
+
+For drummers studying Eloy's work, the lessons extend beyond gear specs:
+
+1. **Respect your predecessors**: Learn the original parts before adding your touch
+2. **Groove over flash**: Technical ability means nothing without feel
+3. **Conditioning matters**: Stadium shows require athletic preparation
+4. **Stay humble**: Even as #1 ranked, keep learning and growing
+5. **Bring yourself**: Your background and influences make you unique
+
+Eloy Casagrande's journey from São Paulo to Slipknot's stage represents what's possible when talent meets opportunity meets preparation. He didn't just join one of metal's biggest bands — he proved he belongs there.
+
+🤘 *"The mask doesn't change who you are — it reveals who you've always been."* 🤘`
+    }
   }
 };
 

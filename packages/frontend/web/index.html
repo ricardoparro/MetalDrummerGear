@@ -31,19 +31,27 @@
     <!-- Preload critical API endpoint for faster data loading -->
     <link rel="preload" href="/api/init" as="fetch" crossorigin />
     
-    <!-- LCP Optimization: Dynamic preload for weekly rotating spotlight image (#536)
+    <!-- LCP Optimization: Dynamic preload for weekly rotating spotlight image (#536, #709)
          Computes current spotlight drummer and injects preload early in page lifecycle
+         MUST match FEATURED_ROTATION order in packages/frontend/data/featuredDrummer.js
          Breakpoints match getSizesAttribute('spotlight'): 100px for mobile, 140px for desktop -->
     <script>
       (function() {
-        // Spotlight drummers in rotation order (must match frontend logic)
+        // FEATURED_ROTATION order - MUST match packages/frontend/data/featuredDrummer.js exactly
+        // Order: [ID 5, 14, 4, 1, 15, 3, 2, 6, 16, 17]
         var spotlightImages = [
-          'joey-jordison',
-          'gene-hoglan', 
-          'danny-carey',
-          'mario-duplantier'
+          'tomas-haake',      // ID 5 - Meshuggah
+          'danny-carey',      // ID 14 - Tool
+          'dave-lombardo',    // ID 4 - Slayer
+          'lars-ulrich',      // ID 1 - Metallica
+          'mario-duplantier', // ID 15 - Gojira
+          'gene-hoglan',      // ID 3 - Dark Angel/Death
+          'joey-jordison',    // ID 2 - Slipknot
+          'george-kollias',   // ID 6 - Nile
+          'brann-dailor',     // ID 16 - Mastodon
+          'chris-adler'       // ID 17 - Lamb of God
         ];
-        // Calculate current week number (same algorithm as frontend)
+        // Calculate current week number (same algorithm as featuredDrummer.js getWeeksSinceEpoch)
         var epochStart = new Date('2024-01-01').getTime();
         var msPerWeek = 7 * 24 * 60 * 60 * 1000;
         var weekNumber = Math.floor((Date.now() - epochStart) / msPerWeek);

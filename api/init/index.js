@@ -3,20 +3,27 @@
 // This eliminates 1 HTTP request on initial page load
 // Issue #536: Now includes spotlight drummer for LCP optimization
 // Issue #511: Now includes news preview
+// Issue #709: Uses FEATURED_ROTATION for consistent spotlight selection
 
 import { drummers } from '../drummers/index.js';
 import { getNewsCache } from '../../packages/backend/src/data/news.js';
 
-// Get current week number for spotlight rotation
+// FEATURED_ROTATION - MUST match packages/frontend/data/featuredDrummer.js exactly
+// This ensures server-side and client-side spotlight selection is identical
+const FEATURED_ROTATION_IDS = [5, 14, 4, 1, 15, 3, 2, 6, 16, 17];
+
+// Get current week number for spotlight rotation (matches getWeeksSinceEpoch in featuredDrummer.js)
 function getWeekNumber() {
   const epochStart = new Date('2024-01-01').getTime();
   const msPerWeek = 7 * 24 * 60 * 60 * 1000;
   return Math.floor((Date.now() - epochStart) / msPerWeek);
 }
 
-// Get current spotlight drummer index
-function getCurrentSpotlightIndex(totalDrummers) {
-  return getWeekNumber() % totalDrummers;
+// Get current spotlight drummer ID from FEATURED_ROTATION
+function getCurrentSpotlightId() {
+  const weekNumber = getWeekNumber();
+  const rotationIndex = weekNumber % FEATURED_ROTATION_IDS.length;
+  return FEATURED_ROTATION_IDS[rotationIndex];
 }
 
 export default function handler(req, res) {
@@ -39,26 +46,33 @@ export default function handler(req, res) {
     id, name, band, genre, country, image
   }));
 
-  // Compute current spotlight drummer server-side for faster LCP (#536)
-  const spotlightDrummers = drummers.filter(d => d.spotlight);
-  const spotlightIndex = getCurrentSpotlightIndex(spotlightDrummers.length);
-  const currentSpotlight = spotlightDrummers[spotlightIndex];
+  // Compute current spotlight drummer using FEATURED_ROTATION (#709)
+  // This ensures consistency with frontend featuredDrummer.js logic
+  const spotlightId = getCurrentSpotlightId();
+  const currentSpotlight = drummers.find(d => d.id === spotlightId && d.spotlight);
   
-  // Include full spotlight data for immediate rendering (LCP optimization - Issue #667)
+  // Include full spotlight data for immediate rendering (LCP optimization - Issue #667, #709)
+  // Use local image path directly for faster LCP (no proxy redirect)
   const spotlightData = currentSpotlight ? {
     id: currentSpotlight.id,
     name: currentSpotlight.name,
     band: currentSpotlight.band,
     image: currentSpotlight.image,
-    // Pre-compute optimized image URLs for faster LCP
-    thumbnailUrl: currentSpotlight.image ? `/api/image?url=${encodeURIComponent(currentSpotlight.image)}&w=140&q=80` : null,
+    // Use local responsive image directly - no proxy needed for local images
+    thumbnailUrl: currentSpotlight.image,
     spotlight: currentSpotlight.spotlight
   } : null;
   
-  // Add LCP image hint if spotlight exists
-  if (spotlightData?.thumbnailUrl) {
+  // Add LCP image preload hint using local responsive images
+  if (spotlightData?.image?.startsWith('/images/')) {
+    const basePath = spotlightData.image.replace(/\.webp$/, '');
     const linkHeader = res.getHeader('Link') || '';
-    res.setHeader('Link', `${linkHeader}${linkHeader ? ', ' : ''}<${spotlightData.thumbnailUrl}>; rel=preload; as=image`);
+    // Preload mobile (100w) and desktop (200w) responsive images
+    res.setHeader('Link', [
+      linkHeader,
+      `<${basePath}-100w.webp>; rel=preload; as=image; type=image/webp; media="(max-width: 479px)"`,
+      `<${basePath}-200w.webp>; rel=preload; as=image; type=image/webp; media="(min-width: 480px)"`
+    ].filter(Boolean).join(', '));
   }
 
   // Get news preview (Phase 3 - #511)
@@ -72,7 +86,7 @@ export default function handler(req, res) {
     spotlightWeek: getWeekNumber(),
     newsPreview: newsPreview,
     newsLastFetch: newsCache.lastFetch,
-    version: '1.3', // Issue #666, #667, #668, #669: Mobile performance optimization
+    version: '1.4', // Issue #709: LCP fix - synchronized spotlight rotation
     timestamp: Date.now()
   });
 }

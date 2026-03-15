@@ -88,7 +88,7 @@
 
 ---
 
-### 💡 [IDEA-006] Tama vs Pearl: Battle of the Metal Drum Giants
+### ✅ [IDEA-006] Tama vs Pearl: Battle of the Metal Drum Giants
 
 **Type:** gear-vs
 **SEO Keywords:** tama vs pearl drums, best metal drum kit, tama pearl comparison
@@ -104,7 +104,7 @@
 5. Price Points
 6. Best Models for Metal
 
-**Status:** IDEA
+**Status:** PUBLISHED (pre-existing) — /gear-comparison/tama-vs-pearl
 
 ---
 
@@ -249,10 +249,11 @@
 | 2026-03-14 | obZen Drum Setup: "Bleed" Gear Breakdown | /articles/obzen-drum-setup | - |
 | 2026-03-14 | What's In Dave Lombardo's Kit in 2026 | /articles/whats-in-dave-lombardos-kit | - |
 | 2026-03-14 | Zildjian vs Sabian: Which Cymbals for Metal? | /gear-comparison/zildjian-vs-sabian | - |
+| 2026-03-15 | What's In Gene Hoglan's Atomic Arsenal | /articles/whats-in-gene-hoglans-kit | - |
 
 ---
 
-### 💡 [IDEA-014] What's In Gene Hoglan's Atomic Arsenal
+### ✅ [IDEA-014] What's In Gene Hoglan's Atomic Arsenal
 
 **Type:** drummer-kit
 **SEO Keywords:** gene hoglan drum kit, gene hoglan setup, death drummer gear, atomic clock drums
@@ -268,7 +269,7 @@
 5. Practice Routine & Technique Tips
 6. Where to Buy Similar Gear
 
-**Status:** IDEA
+**Status:** PUBLISHED (2026-03-15) — /articles/whats-in-gene-hoglans-kit
 
 ---
 
@@ -312,6 +313,66 @@
 
 ---
 
+### 💡 [IDEA-017] What's In Eloy Casagrande's Slipknot Kit
+
+**Type:** drummer-kit
+**SEO Keywords:** eloy casagrande drum kit, slipknot new drummer, eloy casagrande setup, slipknot drummer 2024
+**Search Volume:** VERY HIGH (trending — Slipknot's new drummer!)
+**Data Available:** Yes (drummerId: 7)
+**Priority:** 5
+
+**Outline:**
+1. Introduction — From Sepultura to Slipknot
+2. Current Pearl/Tama Setup (verify current endorsement)
+3. Signature Techniques & Brazilian Roots
+4. How He Adapted Joey's Patterns
+5. Comparison: Eloy vs Joey vs Jay
+6. Where to Buy Similar Gear
+
+**Status:** IDEA
+
+---
+
+### 💡 [IDEA-018] Roots Drum Setup: Igor Cavalera's Brazilian Tribal Metal
+
+**Type:** album-breakdown
+**SEO Keywords:** roots album drums, igor cavalera drum setup, sepultura roots gear, tribal metal drums
+**Search Volume:** High
+**Data Available:** Partial (drummerId: 21)
+**Priority:** 4
+
+**Outline:**
+1. Introduction — When Thrash Met Tribal
+2. Studio Setup at Chepultepec Studios
+3. Tribal Percussion Integration
+4. "Roots Bloody Roots" Breakdown
+5. Gear Breakdown (drums, cymbals, percussion)
+6. The Drum Jams with Brazilian Musicians
+
+**Status:** IDEA
+
+---
+
+### 💡 [IDEA-019] The Sound of Perseverance Drum Setup: Gene Hoglan's Death Swan Song
+
+**Type:** album-breakdown
+**SEO Keywords:** sound of perseverance drums, gene hoglan death, chuck schuldiner final album gear
+**Search Volume:** Medium-High
+**Data Available:** Yes (drummerId: 3)
+**Priority:** 4
+
+**Outline:**
+1. Introduction — Death's Final Masterpiece
+2. Studio Setup at Morrisound Recording
+3. "Spirit Crusher" Breakdown (most complex Death song)
+4. Recording Techniques with Jim Morris
+5. How Hoglan Approached Schuldiner's Vision
+6. Gear Evolution from Symbolic
+
+**Status:** IDEA
+
+---
+
 ## 💡 Idea Backlog (Lower Priority)
 
 - Best Sticks for Blast Beats
@@ -325,4 +386,4 @@
 
 ---
 
-*Last updated: 2026-03-14 17:07*
+*Last updated: 2026-03-15 09:05*

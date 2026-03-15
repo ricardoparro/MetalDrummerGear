@@ -28,6 +28,78 @@
 
 ## 📥 Novas Ideias
 
+### 💡 [CEO-010] Reddit + Metal Communities Strategic Launch Campaign
+
+**Origem:** Growth analysis — We have viral tools but no distribution; metal communities are massive untapped audience
+
+**Hipótese:** Se lançarmos campanha estratégica no Reddit/metal forums então:
+- **Immediate Traffic Spike:** Reddit posts can drive 1K+ views in 24h
+- **Viral Amplification:** Quiz + Name Generator are PERFECT Reddit bait (interactive, shareable)
+- **Community Validation:** r/Metal (1.5M), r/drums (200K), r/Metalcore (220K) are our exact audience
+- **Zero Cost:** Organic posts, no ads needed
+- **Backlink Juice:** Reddit links boost SEO (high authority domain)
+- **Social Proof:** Upvotes + comments = credibility signal
+- **Long Tail:** Old Reddit posts continue driving traffic months later
+- **Affiliate Intent:** "Beginner Setup Guide" post captures buyer intent users
+
+**Impacto Curto (1-7d):** ⭐⭐⭐ (Immediate traffic surge 500-2K views, possible Thomann threshold hit)
+**Impacto Médio (1-3m):** ⭐⭐ (Continued referral traffic, community awareness)
+**Impacto Longo (3-12m):** ⭐ (Reddit posts age, but establishes brand in community)
+**Score Total:** 6⭐
+
+**Tactical Plan:**
+
+1. **r/drums** — "I built a database of 21 legendary metal drummers' complete setups (with videos)" 
+   - Link: /drummers
+   - Angle: Data preservation, community resource
+   - Timing: Monday 10 AM EST (peak engagement)
+
+2. **r/Metal** — "Which legendary metal drummer are you? [Quiz]"
+   - Link: /quiz
+   - Angle: Fun, interactive, nostalgic
+   - Timing: Friday 8 PM EST (weekend browsing)
+
+3. **r/MetalMemes** — "When the Metal Drummer Name Generator gives you a better stage name than your actual band"
+   - Link: /tools/name-generator
+   - Angle: Humor, shareability
+   - Timing: Weekday evening
+
+4. **r/Metalcore** — "Analyzed 21 metal drummer setups — here's what the pros actually use [Stats Hub]"
+   - Link: /stats
+   - Angle: Data-driven, educational
+   - Timing: Tuesday/Wednesday morning
+
+5. **r/BeginnerDrummers** — "Complete beginner metal setup guide under $1,000 (with pro comparisons)"
+   - Link: /guides/beginner-metal-drummer-setup
+   - Angle: Helpful, actionable, affiliate potential
+   - Timing: Sunday afternoon (research time)
+
+**Content Strategy:**
+- **NOT SPAMMY:** Space posts 2-3 days apart across different subreddits
+- **VALUE FIRST:** Lead with value/entertainment, not promotion
+- **ENGAGE:** Reply to ALL comments within 2 hours, build community goodwill
+- **PROOF:** Include screenshot/preview of content in post (visual hook)
+- **FOLLOW RULES:** Check each subreddit's self-promotion policy (most allow if <10% of activity)
+
+**Metrics de Sucesso:**
+- 1,500+ site visits in 7 days (could hit Thomann 500 DAU if sustained)
+- 50+ combined upvotes across posts
+- 30+ comments (engagement = signal for more visibility)
+- 3+ successful posts (not removed/downvoted)
+- Referral traffic from reddit.com in GA4
+- 10% conversion to quiz/tool engagement
+- 2+ subreddit moderators or power users follow/engage
+
+**Blockers externos:** Sim — Requires Reddit account with some karma (avoid new account spam flags)
+- **Mitigation:** Use Ricardo's Reddit account OR create account + build karma over 1 week with genuine comments before posting
+
+**Risco:** Posts could be downvoted/removed if seen as spam
+- **Mitigation:** Focus on VALUE (quiz, stats, guide are genuinely useful), follow community norms, engage authentically
+
+**Decisão:** RESEARCH — Validate Ricardo's Reddit account exists + has karma, then IMPLEMENTAR
+
+**Data:** 2026-03-15 09:00
+
 ### 💡 [CEO-009] "Metal Drummer Name Generator" — Viral Shareability Tool → Issue #704 ✅ QUEUED
 
 **Origem:** Growth analysis — Need zero-cost viral tools that drive brand awareness + social shares

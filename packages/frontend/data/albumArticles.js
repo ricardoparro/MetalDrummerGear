@@ -2930,6 +2930,350 @@ At nearly 61, Dave Lombardo isn't resting on his legacy. He's touring with Pante
 
 Long live the double bass. Long live Dave Lombardo. 🤘`
     }
+  },
+
+  // Gene Hoglan — "The Atomic Clock"
+  'whats-in-gene-hoglans-kit': {
+    slug: 'whats-in-gene-hoglans-kit',
+    articleType: 'drummer-kit',
+    drummer: 'Gene Hoglan',
+    drummerId: 3,
+    band: 'Death / Testament',
+    bands: ['Dark Angel', 'Death', 'Testament', 'Strapping Young Lad', 'Dethklok', 'Fear Factory'],
+    genre: 'Death Metal / Thrash Metal',
+    country: 'USA',
+    isAlbumArticle: true,
+    datePublished: '2026-03-15',
+    dateModified: '2026-03-15',
+    author: 'MetalForge Editorial',
+    // SEO
+    title: "What's In Gene Hoglan's Atomic Arsenal: Complete Gear Breakdown",
+    description: "Discover the drums, cymbals, and gear behind 'The Atomic Clock' — Gene Hoglan's legendary Pearl Reference Pure setup. Complete breakdown of the most precise drummer in extreme metal history.",
+    seoKeywords: ['gene hoglan drum kit', 'gene hoglan setup', 'death drummer gear', 'atomic clock drums', 'gene hoglan pearl drums', 'testament drummer gear', 'gene hoglan cymbals'],
+    ogImage: '/images/drummers/gene-hoglan.webp',
+    // Introduction
+    intro: {
+      title: 'The Atomic Clock: Four Decades of Precision',
+      content: `When musicians talk about timing, they're really talking about Gene Hoglan. Nicknamed "The Atomic Clock" for his metronomic precision and "The Human Drum Machine" for his seemingly endless endurance, Gene Hoglan has spent 40+ years defining what technical extreme metal drumming can be.
+
+Born August 31, 1967, in Dallas, Texas, Gene's journey began as a teenage roadie for Slayer — learning double bass techniques by watching Dave Lombardo night after night. By 1984, he was behind the kit for Dark Angel, unleashing "Darkness Descends" (1986) — an album that still sounds impossibly fast today.
+
+But it was his work with Chuck Schuldiner's Death that cemented Gene's legendary status. "Individual Thought Patterns" (1993) and "Symbolic" (1995) showcased a drummer who could play blindingly fast while serving complex compositions with jazz-like musicality. These albums remain essential listening for any serious drummer.
+
+Since then, Gene has been the go-to drummer for extreme metal's elite: Strapping Young Lad's apocalyptic chaos, Dethklok's animated brutality, Testament's thrash revival, and Fear Factory's industrial precision. Through it all, his Pearl drums and Sabian cymbals have been his weapons of choice.
+
+This article breaks down the complete setup of one of metal's most respected drummers — from his Pearl Reference Pure shells to his Sabian AAX arsenal.`,
+      keyPoints: [
+        'Started career as Slayer roadie/drum tech in 1983',
+        'Pearl Drums endorsee for 15+ years',
+        '"Symbolic" (1995) considered his masterpiece',
+        'Has played with 20+ major metal bands',
+        'Still touring extensively in his late 50s'
+      ]
+    },
+    // Drum Kit Section
+    drumKit: {
+      title: "The Reference Pure Arsenal",
+      brand: 'Pearl',
+      model: 'Pearl Reference Pure',
+      finish: 'Various (Black, Natural, Custom)',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum', '22" x 18" Bass Drum'],
+        toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
+        floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom'],
+        shells: 'Maple shells with Reference Pure construction'
+      },
+      description: `Gene Hoglan's choice of Pearl Reference Pure reflects his priorities: clarity, projection, and reliability. After decades of playing with the loudest bands in metal, he needs drums that cut through walls of distorted guitars while maintaining tonal integrity.
+
+The Reference Pure series represents Pearl's professional standard — maple shells with optimized bearing edges that produce focused, articulate tones. Unlike the warmer Masterworks series, Reference Pure emphasizes attack and clarity — essential for Gene's style where every ghost note and intricate pattern needs to be heard.
+
+Gene's double bass setup uses two 22" x 18" bass drums. The 18" depth provides substantial low-end punch without excessive sustain that could muddy fast patterns. For extreme metal, articulation is everything — you need to hear each stroke clearly at 200+ BPM.
+
+The rack toms (10" and 12") and floor toms (14" and 16") give Gene a practical, accessible setup. Despite his technical prowess, Gene doesn't use a massive kit. He prioritizes mobility and efficiency — every drum serves a purpose.
+
+The maple shells deliver the warmth needed to balance the brightness of his Sabian cymbals, creating a cohesive sound that works across his diverse musical projects — from Testament's thrash to Dethklok's animated death metal.`,
+      notes: [
+        'Double bass drum setup — essential for his speed and power',
+        'Reference Pure maple shells for clarity and projection',
+        'Relatively compact setup despite complex playing style',
+        'Same kit works across Testament, session work, and touring',
+        '22" x 18" bass drums: deeper than standard for low-end punch'
+      ],
+      estimatedValue: '$4,500-7,000 (Reference Pure configuration)'
+    },
+    // Snare Section
+    snare: {
+      title: 'The Brass Cannon',
+      brand: 'Pearl',
+      model: 'Pearl Reference 14" x 6.5" Brass Snare',
+      size: '14" x 6.5"',
+      shell: 'Seamless brass with 3mm shell',
+      description: `Gene's snare choice is deceptively simple: a brass shell that cuts through anything. The Pearl Reference brass snare (14" x 6.5") delivers the piercing crack and projection needed to be heard over Testament's three-guitar assault or Dethklok's wall of distortion.
+
+Brass shells are brighter and more cutting than steel, with focused overtones that project without getting lost in dense mixes. The 3mm seamless construction provides durability and consistency — essential for a drummer who plays hundreds of shows per year.
+
+The 6.5" depth gives Gene enough body to prevent the snare from sounding thin or "ringy" at high tunings. He tunes medium-high for maximum attack, keeping the snare wires tight for crisp, responsive articulation.
+
+This snare has been with Gene through Testament albums, Dethklok recordings, and countless tours. It's not flashy or signature-model special — it's a working drummer's tool that does its job night after night.
+
+The brightness of the brass complements his Sabian AAX cymbals, creating a cohesive metallic shimmer that's become part of his signature sound.`,
+      tuningSetting: 'Medium-high tension, tight snare wires',
+      heads: 'Evans Genera HD Dry (batter), Evans Hazy 300 (resonant)',
+      estimatedValue: '$500-700 (Reference series brass)'
+    },
+    // Cymbals Section
+    cymbals: {
+      title: 'Sabian AAX Precision',
+      brand: 'Sabian',
+      series: 'Sabian AAX Series',
+      setup: [
+        { type: 'Hi-Hats', model: 'Sabian AAX 15" X-Celerator Hi-Hats', position: 'Left side', notes: 'Fast, bright response for complex patterns' },
+        { type: 'Crash', model: 'Sabian AAX 16" X-Plosion Crash', position: 'Far left', notes: 'Quick, explosive attack' },
+        { type: 'Crash', model: 'Sabian AAX 18" X-Plosion Crash', position: 'Left of rack toms', notes: 'Primary crash, bright and cutting' },
+        { type: 'Crash', model: 'Sabian AAX 19" X-Plosion Crash', position: 'Right of rack toms', notes: 'Larger crash for bigger accents' },
+        { type: 'Ride', model: 'Sabian AAX 22" Medium Ride', position: 'Right side', notes: 'Clear bell, defined stick articulation' },
+        { type: 'China', model: 'Sabian AAX 18" Chinese', position: 'Above floor tom', notes: 'Trashy, aggressive accents' },
+        { type: 'Splash', model: 'Sabian AAX 10" Splash', position: 'Between hi-hat and crash', notes: 'Quick accent work' }
+      ],
+      description: `Gene Hoglan's cymbal setup centers on Sabian's AAX series — bright, modern cymbals designed for cutting power and articulation. Unlike darker, jazzier lines, AAX cymbals are voiced for aggressive music where projection matters more than warmth.
+
+The 15" X-Celerator Hi-Hats are crucial to Gene's playing. The heavier bottom cymbal and specialized bow design provide the crisp, cutting sound needed for his intricate hi-hat patterns. At extreme speeds, you need cymbals that respond instantly and don't wash out — these deliver.
+
+The X-Plosion crashes (16", 18", 19") offer explosive attack with controlled sustain. Gene doesn't use excessive cymbals — just enough variety to handle dynamic contrast. The bright, cutting tone ensures crashes are heard clearly even in Testament's densest arrangements.
+
+The 22" Medium Ride gives Gene a versatile instrument with a clear, defined bell and articulate stick sound. It's heavy enough to stand up to aggressive riding while musical enough for more nuanced passages.
+
+The 18" Chinese adds the trashy, aggressive accents that punctuate extreme metal. Gene uses it strategically — not constantly, but as an exclamation point in key moments.
+
+Overall, Gene's cymbal setup prioritizes function over flash. These are working tools that project, cut through mix, and survive years of touring.`,
+      estimatedValue: '$2,000-2,500 total (AAX series)'
+    },
+    // Hardware Section
+    hardware: {
+      title: 'Pearl Demon Drive & Hardware',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'Pearl',
+          model: 'Pearl Demon Drive Double Pedal',
+          notes: 'Direct drive for speed and precision',
+          description: 'Gene uses the Pearl Demon Drive double pedal, favoring the direct drive system for its instant response and precision. Direct drive eliminates the lag of chain systems, essential for his blazing footwork. The Demon Drive\'s NiNjA bearings and customizable settings let Gene fine-tune response for each project.'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Pearl',
+          model: 'Pearl Demon Drive Hi-Hat Stand',
+          notes: 'Matching hardware for consistent feel'
+        },
+        {
+          type: 'Throne',
+          brand: 'Pearl',
+          model: 'Pearl Roadster D-3500 Throne',
+          notes: 'High-quality throne for long sessions and tours'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Promark',
+          model: 'Promark 5B',
+          notes: 'Standard 5B for balance between weight and speed'
+        }
+      ],
+      heads: {
+        bassKick: 'Evans EMAD Clear',
+        toms: 'Evans EC2 Clear / G2 Coated',
+        snare: 'Evans Genera HD Dry'
+      }
+    },
+    // Recording Techniques Section
+    recordingTechniques: {
+      title: 'Gene\'s Recording Philosophy',
+      content: `Gene Hoglan's recording approach reflects his nickname — precision is everything. Unlike drummers who rely on heavy editing, Gene delivers performances that require minimal post-production. When you've been called "The Atomic Clock" since the 1980s, you don't need Pro Tools to fix your timing.
+
+**Studio Principles:**
+- **One take is the goal**: Gene aims to nail performances completely, not comp together the best parts
+- **Click track mastery**: While capable of perfect time without one, Gene uses clicks for complex arrangements
+- **Natural sound first**: He prefers acoustic drum tones enhanced, not replaced, by triggers/samples
+- **Room sound matters**: Gene values studios with good acoustics over digital processing
+
+**Evolution Through the Years:**
+
+On Death's "Symbolic" (1995), recorded at Morrisound Recording with Jim Morris, Gene's drums were captured with period-appropriate techniques — close mics plus room mics, minimal processing, pure performance. The result was organic, powerful, and utterly precise.
+
+For Testament's "Titans of Creation" (2020), Gene worked with producer Juan Urteaga using modern recording techniques while maintaining that organic feel. The drums sound massive but natural — a testament (pun intended) to both Gene's playing and his understanding of studio craft.
+
+With Dethklok, Gene faced unique challenges — matching the animated brutality of the cartoon while creating real, playable music. His solution: play it straight, play it perfectly, let the music speak.
+
+**Gear for Recording:**
+Gene typically uses his touring setup for recording, making minor adjustments for studio acoustics. He may swap heads for more controlled sustain and tune slightly higher for clarity. But the core kit remains consistent — he knows his drums, and that familiarity translates to confident performances.`,
+      studioTips: [
+        'Consistency is everything — practice until the performance is automatic',
+        'Know your gear inside and out before entering the studio',
+        'Trust your acoustic sound; don\'t over-process',
+        'Room acoustics matter as much as microphone choice',
+        'One perfect take beats ten edited takes'
+      ]
+    },
+    // Playing Style Section
+    playingStyle: {
+      title: 'The Atomic Clock Technique',
+      content: `Gene Hoglan's drumming philosophy centers on a paradox: extreme technical ability in service of the song. Despite being capable of playing at absurd speeds, Gene prioritizes feel, dynamics, and musical appropriateness.
+
+**Signature Techniques:**
+
+- **Metronomic Timing**: The "Atomic Clock" nickname isn't hyperbole. Gene's internal clock is legendary — he can lock to a grid without a click while making it feel human.
+
+- **Effortless Blast Beats**: Gene's blast beats maintain clarity at any tempo. Where other drummers tense up at extreme speeds, Gene stays relaxed, letting technique rather than force do the work.
+
+- **Musical Odd Time Signatures**: Gene doesn't play odd times to show off — he makes 7/8 and 5/4 feel as natural as 4/4. His work on Death's "Symbolic" exemplifies this: complex time signatures that groove.
+
+- **Powerful Double Bass Work**: Gene's double bass is fast but never sacrifices groove. He plays patterns, not just streams of notes. Each foot has purpose.
+
+- **Dynamic Control**: From whisper-quiet ghost notes to thunderous accents, Gene uses the full dynamic range. This separates him from "one-speed" extreme metal drummers.
+
+**Influences:**
+
+Gene cites Neil Peart for compositional complexity, Bill Bruford for jazz sensibility, Dave Lombardo for thrash intensity, and Terry Bozzio for technical innovation. This diverse palette informs his versatility across projects.
+
+**Practice Philosophy:**
+
+Despite his natural gifts, Gene is known for disciplined practice. He plays to a click, practices rudiments, and maintains physical conditioning. At nearly 60, he still tours relentlessly — proof that technique trumps youth.`,
+      signatureSongs: [
+        { song: 'Spirit Crusher', album: 'The Sound of Perseverance (Death)', note: 'Peak technical death metal' },
+        { song: 'Crystal Mountain', album: 'Symbolic (Death)', note: 'Groovy yet complex' },
+        { song: 'The Merciless Truth', album: 'Darkness Descends (Dark Angel)', note: 'Thrash metal fury' },
+        { song: 'Love?', album: 'City (SYL)', note: 'Apocalyptic chaos' },
+        { song: 'D.N.R.', album: 'The Formation of Damnation (Testament)', note: 'Modern thrash precision' },
+        { song: 'Thunderhorse', album: 'The Dethalbum (Dethklok)', note: 'Animated brutality, real drumming' }
+      ]
+    },
+    // Career Timeline
+    timeline: {
+      title: 'The Atomic Timeline',
+      events: [
+        { year: '1983', event: 'Began career as roadie/drum tech for Slayer' },
+        { year: '1984', event: 'Joined Dark Angel at age 17' },
+        { year: '1986', event: '"Darkness Descends" — thrash metal landmark' },
+        { year: '1991', event: 'Joined Chuck Schuldiner\'s Death' },
+        { year: '1993', event: '"Individual Thought Patterns" — technical death metal peak' },
+        { year: '1995', event: '"Symbolic" — widely considered his masterpiece' },
+        { year: '1997', event: 'Joined Strapping Young Lad with Devin Townsend' },
+        { year: '2005', event: '"Alien" (SYL) — one of the heaviest albums ever' },
+        { year: '2007', event: 'Became Testament\'s drummer; Dethklok begins' },
+        { year: '2008', event: '"The Formation of Damnation" — Testament\'s comeback' },
+        { year: '2012-2013', event: '"Death to All" tribute tours honoring Chuck Schuldiner' },
+        { year: '2020', event: '"Titans of Creation" with Testament during pandemic' }
+      ]
+    },
+    // Buying Guide
+    buyingGuide: {
+      title: 'Get the Atomic Sound',
+      intro: 'Building a Gene Hoglan-inspired setup requires focusing on clarity, projection, and precision. Here\'s how to approach it at different budgets.',
+      sections: [
+        {
+          tier: 'Budget Build (~$2,500)',
+          items: [
+            'Pearl Export EXX 5-piece (double bass setup) — $900',
+            'Sabian SBR or B8X cymbals — $400',
+            'Pearl P-932 Demonator double pedal — $250',
+            'Evans G2/EC2 heads — $150',
+            'Decent brass snare (used) — $200-300'
+          ],
+          notes: 'Focus on fundamentals. The Export series provides the clarity Gene\'s sound requires at an accessible price.'
+        },
+        {
+          tier: 'Mid-Range Build (~$5,000)',
+          items: [
+            'Pearl Session Studio Select — $2,500',
+            'Sabian AAX Performance Set + extra crashes — $1,200',
+            'Pearl Demon Drive double pedal — $600',
+            'Pearl Reference brass snare (used) — $400'
+          ],
+          notes: 'Session Studio Select delivers Reference-quality tones at a lower price. AAX cymbals are Gene\'s actual choice.'
+        },
+        {
+          tier: 'Pro Build (~$10,000+)',
+          items: [
+            'Pearl Reference Pure 5-piece (double bass) — $5,500',
+            'Full Sabian AAX setup (hi-hats, 4 crashes, ride, china) — $2,500',
+            'Pearl Demon Drive pedals + hi-hat stand — $900',
+            'Pearl Reference brass snare 14" x 6.5" — $600'
+          ],
+          notes: 'This is essentially Gene\'s current touring setup. The Reference Pure shells and AAX cymbals deliver his signature clarity.'
+        }
+      ]
+    },
+    // Gear Table
+    currentGear: {
+      title: 'Gene Hoglan\'s Current Setup',
+      items: [
+        {
+          item: 'Pearl Reference Pure Drums',
+          available: true,
+          priceRange: '$4,500-7,000',
+          notes: 'Custom configurations available; maple shells'
+        },
+        {
+          item: 'Pearl Reference Brass Snare (14" x 6.5")',
+          available: true,
+          priceRange: '$500-700',
+          notes: 'Professional-level brass snare'
+        },
+        {
+          item: 'Sabian AAX 15" X-Celerator Hi-Hats',
+          available: true,
+          priceRange: '$450-500',
+          notes: 'Bright, fast response'
+        },
+        {
+          item: 'Sabian AAX X-Plosion Crashes (16", 18", 19")',
+          available: true,
+          priceRange: '$200-350 each',
+          notes: 'Explosive attack, controlled sustain'
+        },
+        {
+          item: 'Pearl Demon Drive Double Pedal',
+          available: true,
+          priceRange: '$600-700',
+          notes: 'Direct drive for precision'
+        },
+        {
+          item: 'Promark 5B Sticks',
+          available: true,
+          priceRange: '$10-15',
+          notes: 'Standard choice for balance'
+        },
+        {
+          item: 'Evans EMAD/EC2/Genera HD heads',
+          available: true,
+          priceRange: '$15-25 each',
+          notes: 'Clear tones with controlled sustain'
+        }
+      ]
+    },
+    // Related Content
+    relatedAlbums: ['reign-in-blood-drum-setup', 'obzen-drum-setup'],
+    relatedDrummers: [4, 5, 6], // Dave Lombardo, Tomas Haake, George Kollias
+    relatedArticles: ['death-metal-drummers', 'fastest-double-bass-drummers'],
+    // Conclusion
+    conclusion: {
+      title: 'The Clock Still Ticks',
+      content: `Four decades after roadying for Slayer, Gene Hoglan remains the standard by which extreme metal drumming is measured. Not because he plays the fastest (though he's up there), but because he combines speed with feel, technicality with musicality, and precision with soul.
+
+His gear choices reflect that philosophy. The Pearl Reference Pure drums emphasize clarity over warmth — because Gene's playing speaks for itself. The Sabian AAX cymbals cut through mix without being harsh — because Gene understands the balance between projection and musicality. The Demon Drive pedals offer precision without sacrificing feel — because Gene knows that technique serves the music, not the ego.
+
+What separates Gene from countless imitators isn't the gear. It's the decades of disciplined practice, the musical intelligence to serve each song appropriately, and the physical conditioning to maintain excellence night after night, year after year.
+
+For drummers studying Gene's work, the lessons extend beyond rudiments:
+
+- **Precision is earned**: There are no shortcuts to becoming "The Atomic Clock"
+- **Serve the music**: Technical ability means nothing without musical context
+- **Versatility matters**: Gene's work spans thrash, death, industrial, and animation — grow beyond your comfort zone
+- **Longevity requires maintenance**: Gene's still touring at nearly 60 because he takes care of his body and technique
+
+The metal world has no shortage of fast drummers. But there's only one Gene Hoglan — the drummer who made extreme metal drumming an art form. The Atomic Clock is still ticking.
+
+🤘 *"The best drummers are the ones who make complex things feel simple."* 🤘`
+    }
   }
 };
 

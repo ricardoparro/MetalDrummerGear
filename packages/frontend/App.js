@@ -124,56 +124,112 @@ import {
   getRecentNews,
 } from './data/gearNews';
 
+// ==========================================
+// LAZY-LOADED DATA MODULES - TBT Optimization (#710)
+// Deferred from initial bundle to reduce main thread blocking
+// ==========================================
+
 // Album Articles for iconic metal album gear breakdowns (Issue #663)
-import {
-  ALBUM_ARTICLES,
-  getAlbumArticleBySlug,
-  getAllAlbumArticles,
-  isAlbumArticleSlug,
-} from './data/albumArticles';
+// Lazy loaded for TBT optimization (#710) - 206KB module
+let _albumArticlesModule = null;
+let _albumArticlesLoadPromise = null;
+const loadAlbumArticles = () => import('./data/albumArticles');
+
+function preloadAlbumArticles() {
+  if (!_albumArticlesLoadPromise) {
+    _albumArticlesLoadPromise = loadAlbumArticles().then(m => { _albumArticlesModule = m; return m; });
+  }
+  return _albumArticlesLoadPromise;
+}
+function isAlbumArticlesLoaded() { return _albumArticlesModule !== null; }
+function getAlbumArticleBySlug(slug) { return _albumArticlesModule?.getAlbumArticleBySlug(slug) || null; }
+function getAllAlbumArticles() { return _albumArticlesModule?.getAllAlbumArticles() || []; }
+function isAlbumArticleSlug(slug) { return _albumArticlesModule?.isAlbumArticleSlug(slug) || false; }
 
 // Quiz Share Buttons Component (Issue #678)
 import { QuizShareButtons, trackQuizShare } from './components/QuizShareButtons';
 
 // Drummer Battle - Weekly Voting Feature (Issue #689)
-import {
-  generateWeeklyBattle,
-  getBattleSlug,
-  generateDrummerSlug,
-  getUserVote,
-  saveUserVote,
-  hasVotedThisWeek,
-  calculatePercentages,
-  generateShareText,
-  getShareUrls,
-  trackBattleVote,
-  trackBattleShare,
-  formatTimeRemaining,
-  CURATED_MATCHUPS,
-} from './data/battles';
+// Lazy loaded for TBT optimization (#710) - 10KB module
+let _battlesModule = null;
+let _battlesLoadPromise = null;
+const loadBattles = () => import('./data/battles');
+
+function preloadBattles() {
+  if (!_battlesLoadPromise) {
+    _battlesLoadPromise = loadBattles().then(m => { _battlesModule = m; return m; });
+  }
+  return _battlesLoadPromise;
+}
+function isBattlesLoaded() { return _battlesModule !== null; }
+function generateWeeklyBattle() { return _battlesModule?.generateWeeklyBattle() || null; }
+function getBattleSlug(slug1, slug2) { return _battlesModule?.getBattleSlug(slug1, slug2) || ''; }
+function generateDrummerSlug(name) { return _battlesModule?.generateDrummerSlug(name) || ''; }
+function getUserVote(battleId) { return _battlesModule?.getUserVote(battleId) || null; }
+function saveUserVote(battleId, drummerId) { return _battlesModule?.saveUserVote(battleId, drummerId); }
+function hasVotedThisWeek() { return _battlesModule?.hasVotedThisWeek() || false; }
+function calculatePercentages(v1, v2) { return _battlesModule?.calculatePercentages(v1, v2) || { percent1: 50, percent2: 50 }; }
+function generateShareText(d1, d2, voted) { return _battlesModule?.generateShareText(d1, d2, voted) || ''; }
+function getShareUrls(slug, text) { return _battlesModule?.getShareUrls(slug, text) || {}; }
+function trackBattleVote(drummer, battleId) { return _battlesModule?.trackBattleVote(drummer, battleId); }
+function trackBattleShare(platform, battleId) { return _battlesModule?.trackBattleShare(platform, battleId); }
+function formatTimeRemaining() { return _battlesModule?.formatTimeRemaining() || ''; }
+function getCuratedMatchups() { return _battlesModule?.CURATED_MATCHUPS || []; }
+
+// ==========================================
+// LAZY-LOADED COMPONENTS - TBT Optimization (#710)
+// React.lazy() enables code splitting for heavy components
+// ==========================================
 
 // Sound Like Guides Component (Issue #685)
-import { 
-  GuidesHubPage, 
-  GuidePage, 
-  isGuidesHubPage, 
-  isGuidePage, 
-  getGuideSlugFromURL 
-} from './components/SoundLikeGuides';
+// Lazy loaded for TBT optimization (#710) - 46KB component + 130KB data
+const LazyGuidesHubPage = lazy(() => import('./components/SoundLikeGuides').then(m => ({ default: m.GuidesHubPage })));
+const LazyGuidePage = lazy(() => import('./components/SoundLikeGuides').then(m => ({ default: m.GuidePage })));
+let _soundLikeGuidesModule = null;
+let _soundLikeGuidesLoadPromise = null;
+const loadSoundLikeGuides = () => import('./components/SoundLikeGuides');
+
+function preloadSoundLikeGuides() {
+  if (!_soundLikeGuidesLoadPromise) {
+    _soundLikeGuidesLoadPromise = loadSoundLikeGuides().then(m => { _soundLikeGuidesModule = m; return m; });
+  }
+  return _soundLikeGuidesLoadPromise;
+}
+function isGuidesHubPage() { return _soundLikeGuidesModule?.isGuidesHubPage?.() ?? (typeof window !== 'undefined' && window.location.pathname === '/guides'); }
+function isGuidePage() { return _soundLikeGuidesModule?.isGuidePage?.() ?? (typeof window !== 'undefined' && window.location.pathname.startsWith('/guides/') && window.location.pathname !== '/guides/'); }
+function getGuideSlugFromURL() { return _soundLikeGuidesModule?.getGuideSlugFromURL?.() ?? (typeof window !== 'undefined' ? window.location.pathname.replace('/guides/', '') : ''); }
 
 // Beginner Gear Guide Component (Issue #702)
-import { 
-  BeginnerGearGuidePage, 
-  isBeginnerGuidePage, 
-  getBeginnerGuideSlugFromURL 
-} from './components/BeginnerGearGuide';
+// Lazy loaded for TBT optimization (#710) - 63KB component + 45KB data
+const LazyBeginnerGearGuidePage = lazy(() => import('./components/BeginnerGearGuide'));
+let _beginnerGuideModule = null;
+let _beginnerGuideLoadPromise = null;
+const loadBeginnerGuide = () => import('./components/BeginnerGearGuide');
+
+function preloadBeginnerGuide() {
+  if (!_beginnerGuideLoadPromise) {
+    _beginnerGuideLoadPromise = loadBeginnerGuide().then(m => { _beginnerGuideModule = m; return m; });
+  }
+  return _beginnerGuideLoadPromise;
+}
+function isBeginnerGuidePage() { return _beginnerGuideModule?.isBeginnerGuidePage?.() ?? (typeof window !== 'undefined' && window.location.pathname.startsWith('/beginner-guide')); }
+function getBeginnerGuideSlugFromURL() { return _beginnerGuideModule?.getBeginnerGuideSlugFromURL?.() ?? (typeof window !== 'undefined' ? window.location.pathname.replace('/beginner-guide/', '') || 'index' : 'index'); }
 
 // Metal Drummer Name Generator (Issue #704) - Viral tool at /tools/metal-drummer-name-generator
-import { 
-  MetalDrummerNameGeneratorPage, 
-  isNameGeneratorPage,
-  updateNameGeneratorMeta 
-} from './components/MetalDrummerNameGenerator';
+// Lazy loaded for TBT optimization (#710) - 26KB component + 17KB data
+const LazyMetalDrummerNameGeneratorPage = lazy(() => import('./components/MetalDrummerNameGenerator'));
+let _nameGeneratorModule = null;
+let _nameGeneratorLoadPromise = null;
+const loadNameGenerator = () => import('./components/MetalDrummerNameGenerator');
+
+function preloadNameGenerator() {
+  if (!_nameGeneratorLoadPromise) {
+    _nameGeneratorLoadPromise = loadNameGenerator().then(m => { _nameGeneratorModule = m; return m; });
+  }
+  return _nameGeneratorLoadPromise;
+}
+function isNameGeneratorPage() { return _nameGeneratorModule?.isNameGeneratorPage?.() ?? (typeof window !== 'undefined' && window.location.pathname === '/tools/metal-drummer-name-generator'); }
+function updateNameGeneratorMeta() { return _nameGeneratorModule?.updateNameGeneratorMeta?.(); }
 
 // Extended bios for drummer detail pages (Issue #305)
 // Loaded dynamically for code splitting (~9KB of text data) - TBT optimization #460
@@ -1303,14 +1359,29 @@ function TopListsSection({ theme, onNavigateToList }) {
 
 // ==========================================
 // ALBUM ARTICLES SECTION - Iconic metal album gear breakdowns (Issue #663)
+// Updated for lazy loading (#710) - loads data on-demand
 // ==========================================
 
 function AlbumArticlesSection({ theme }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
-  const albumArticles = getAllAlbumArticles();
+  const [albumArticles, setAlbumArticles] = useState([]);
+  const [isLoaded, setIsLoaded] = useState(false);
+  
+  // Load album articles lazily - TBT optimization (#710)
+  useEffect(() => {
+    if (isAlbumArticlesLoaded()) {
+      setAlbumArticles(getAllAlbumArticles());
+      setIsLoaded(true);
+    } else {
+      preloadAlbumArticles().then(() => {
+        setAlbumArticles(getAllAlbumArticles());
+        setIsLoaded(true);
+      });
+    }
+  }, []);
 
-  if (albumArticles.length === 0) return null;
+  if (!isLoaded || albumArticles.length === 0) return null;
 
   return (
     <View style={[styles.topListsSection, { backgroundColor: 'transparent', marginTop: 8 }]}>
@@ -14098,32 +14169,45 @@ function GearNewsCard({ item, theme, onDrummerPress, onBrandPress, isFirst }) {
 /**
  * BattleWidget - Homepage card showing this week's battle
  * Displays current matchup with quick vote option
+ * Updated for lazy loading (#710) - loads battles module on-demand
  */
 function BattleWidget({ theme, drummers, onNavigateToBattle }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
+  const [battle, setBattle] = useState(null);
+  const [isLoaded, setIsLoaded] = useState(false);
   
-  // Get current battle
-  const battle = useMemo(() => generateWeeklyBattle(), []);
+  // Load battles module lazily - TBT optimization (#710)
+  useEffect(() => {
+    if (isBattlesLoaded()) {
+      setBattle(generateWeeklyBattle());
+      setIsLoaded(true);
+    } else {
+      preloadBattles().then(() => {
+        setBattle(generateWeeklyBattle());
+        setIsLoaded(true);
+      });
+    }
+  }, []);
   
   // Find drummers for the battle
   const drummer1 = useMemo(() => 
-    drummers.find(d => d.id === battle.drummer1Id), 
-    [drummers, battle.drummer1Id]
+    battle ? drummers.find(d => d.id === battle.drummer1Id) : null, 
+    [drummers, battle?.drummer1Id]
   );
   const drummer2 = useMemo(() => 
-    drummers.find(d => d.id === battle.drummer2Id), 
-    [drummers, battle.drummer2Id]
+    battle ? drummers.find(d => d.id === battle.drummer2Id) : null, 
+    [drummers, battle?.drummer2Id]
   );
   
   // Check if user has voted
-  const hasVoted = useMemo(() => getUserVote(battle.id) !== null, [battle.id]);
-  const userVotedFor = useMemo(() => getUserVote(battle.id), [battle.id]);
+  const hasVoted = useMemo(() => battle ? getUserVote(battle.id) !== null : false, [battle?.id]);
+  const userVotedFor = useMemo(() => battle ? getUserVote(battle.id) : null, [battle?.id]);
   
   // Time remaining
   const timeLeft = useMemo(() => formatTimeRemaining(), []);
   
-  if (!drummer1 || !drummer2) return null;
+  if (!isLoaded || !battle || !drummer1 || !drummer2) return null;
   
   const battleSlug = getBattleSlug(
     generateDrummerSlug(drummer1.name),
@@ -19919,8 +20003,8 @@ function AppContent() {
         document.body.classList.add('lcp-complete');
       });
       
-      // TBT Optimization (Issues #537, #668): Preload data modules during idle time
-      // This defers ~99KB of JavaScript parsing to after the page is interactive
+      // TBT Optimization (Issues #537, #668, #710): Preload data modules during idle time
+      // This defers ~400KB+ of JavaScript parsing to after the page is interactive
       // Using runIdleTasks to break up long tasks and prevent TBT spikes
       const preloadTasks = [
         // High priority: Most commonly navigated pages
@@ -19935,6 +20019,12 @@ function AppContent() {
         () => preloadTop10Lists(),
         () => preloadExtendedBios(),
         () => preloadDrummerComparisons(), // Issue #558
+        // Lazy-loaded components (Issue #710): Preload during idle to reduce TBT
+        () => preloadAlbumArticles(),  // 206KB module
+        () => preloadBattles(),        // 10KB module
+        () => preloadSoundLikeGuides(), // 46KB + 130KB
+        () => preloadBeginnerGuide(),   // 63KB + 45KB
+        () => preloadNameGenerator(),   // 26KB + 17KB
       ];
       
       // Use runIdleTasks for deadline-aware preloading
@@ -22491,77 +22581,89 @@ setShowList(false);
       );
     }
     // Beginner Gear Guide Page (Issue #702) - /guides/beginner-metal-drummer-setup
+    // Lazy loaded for TBT optimization (#708) - 63KB component + 45KB data
     if (showBeginnerGuide) {
       return (
-        <BeginnerGearGuidePage
-          theme={theme}
-          onBack={() => {
-            setShowBeginnerGuide(false);
-            setShowGuidesHub(true);
-            if (Platform.OS === 'web' && typeof window !== 'undefined') {
-              window.history.pushState({}, '', '/guides');
-            }
-          }}
-          onSelectDrummer={handleSelectDrummer}
-        />
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyBeginnerGearGuidePage
+            theme={theme}
+            onBack={() => {
+              setShowBeginnerGuide(false);
+              setShowGuidesHub(true);
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/guides');
+              }
+            }}
+            onSelectDrummer={handleSelectDrummer}
+          />
+        </Suspense>
       );
     }
     // Metal Drummer Name Generator Page (Issue #704) - /tools/metal-drummer-name-generator
+    // Lazy loaded for TBT optimization (#708) - 26KB component + 17KB data
     if (showNameGenerator) {
       return (
-        <MetalDrummerNameGeneratorPage
-          theme={theme}
-          onSelectDrummer={handleSelectDrummer}
-        />
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyMetalDrummerNameGeneratorPage
+            theme={theme}
+            onSelectDrummer={handleSelectDrummer}
+          />
+        </Suspense>
       );
     }
     // Guides Hub Page (Issue #685) - SEO content hub at /guides
+    // Lazy loaded for TBT optimization (#708) - 46KB component + 130KB data
     if (showGuidesHub) {
       return (
-        <GuidesHubPage
-          theme={theme}
-          onBack={() => {
-            setShowGuidesHub(false);
-            if (Platform.OS === 'web' && typeof window !== 'undefined') {
-              window.history.pushState({}, '', '/');
-            }
-          }}
-          onSelectGuide={(slug) => {
-            // Check if it's the beginner guide
-            if (slug === 'beginner-metal-drummer-setup') {
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyGuidesHubPage
+            theme={theme}
+            onBack={() => {
               setShowGuidesHub(false);
-              setShowBeginnerGuide(true);
               if (Platform.OS === 'web' && typeof window !== 'undefined') {
-                window.history.pushState({}, '', '/guides/beginner-metal-drummer-setup');
+                window.history.pushState({}, '', '/');
               }
-            } else {
-              setShowGuidesHub(false);
-              setShowGuide(true);
-              setGuideSlug(slug);
-              if (Platform.OS === 'web' && typeof window !== 'undefined') {
-                window.history.pushState({}, '', `/guides/${slug}`);
+            }}
+            onSelectGuide={(slug) => {
+              // Check if it's the beginner guide
+              if (slug === 'beginner-metal-drummer-setup') {
+                setShowGuidesHub(false);
+                setShowBeginnerGuide(true);
+                if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                  window.history.pushState({}, '', '/guides/beginner-metal-drummer-setup');
+                }
+              } else {
+                setShowGuidesHub(false);
+                setShowGuide(true);
+                setGuideSlug(slug);
+                if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                  window.history.pushState({}, '', `/guides/${slug}`);
+                }
               }
-            }
-          }}
-        />
+            }}
+          />
+        </Suspense>
       );
     }
     // Individual Guide Page (Issue #685) - /guides/how-to-sound-like-*
+    // Lazy loaded for TBT optimization (#708) - 46KB component + 130KB data
     if (showGuide && guideSlug) {
       return (
-        <GuidePage
-          theme={theme}
-          onBack={() => {
-            setShowGuide(false);
-            setGuideSlug(null);
-            setShowGuidesHub(true);
-            if (Platform.OS === 'web' && typeof window !== 'undefined') {
-              window.history.pushState({}, '', '/guides');
-            }
-          }}
-          guideSlug={guideSlug}
-          onSelectDrummer={handleSelectDrummer}
-        />
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyGuidePage
+            theme={theme}
+            onBack={() => {
+              setShowGuide(false);
+              setGuideSlug(null);
+              setShowGuidesHub(true);
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/guides');
+              }
+            }}
+            guideSlug={guideSlug}
+            onSelectDrummer={handleSelectDrummer}
+          />
+        </Suspense>
       );
     }
     // Articles Index Page - /articles/ listing all articles

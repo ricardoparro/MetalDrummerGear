@@ -125,12 +125,12 @@ import {
 } from './data/gearNews';
 
 // ==========================================
-// LAZY-LOADED DATA MODULES - TBT Optimization (#710)
+// LAZY-LOADED DATA MODULES - Performance Optimization (#708)
 // Deferred from initial bundle to reduce main thread blocking
 // ==========================================
 
 // Album Articles for iconic metal album gear breakdowns (Issue #663)
-// Lazy loaded for TBT optimization (#710) - 206KB module
+// Lazy loaded for performance optimization (#708) - 206KB module
 let _albumArticlesModule = null;
 let _albumArticlesLoadPromise = null;
 const loadAlbumArticles = () => import('./data/albumArticles');
@@ -150,7 +150,7 @@ function isAlbumArticleSlug(slug) { return _albumArticlesModule?.isAlbumArticleS
 import { QuizShareButtons, trackQuizShare } from './components/QuizShareButtons';
 
 // Drummer Battle - Weekly Voting Feature (Issue #689)
-// Lazy loaded for TBT optimization (#710) - 10KB module
+// Lazy loaded for performance optimization (#708) - 10KB module
 let _battlesModule = null;
 let _battlesLoadPromise = null;
 const loadBattles = () => import('./data/battles');
@@ -177,12 +177,12 @@ function formatTimeRemaining() { return _battlesModule?.formatTimeRemaining() ||
 function getCuratedMatchups() { return _battlesModule?.CURATED_MATCHUPS || []; }
 
 // ==========================================
-// LAZY-LOADED COMPONENTS - TBT Optimization (#710)
+// LAZY-LOADED COMPONENTS - Performance Optimization (#708)
 // React.lazy() enables code splitting for heavy components
 // ==========================================
 
 // Sound Like Guides Component (Issue #685)
-// Lazy loaded for TBT optimization (#710) - 46KB component + 130KB data
+// Lazy loaded for performance optimization (#708) - 46KB component + 130KB data
 const LazyGuidesHubPage = lazy(() => import('./components/SoundLikeGuides').then(m => ({ default: m.GuidesHubPage })));
 const LazyGuidePage = lazy(() => import('./components/SoundLikeGuides').then(m => ({ default: m.GuidePage })));
 let _soundLikeGuidesModule = null;
@@ -200,7 +200,7 @@ function isGuidePage() { return _soundLikeGuidesModule?.isGuidePage?.() ?? (type
 function getGuideSlugFromURL() { return _soundLikeGuidesModule?.getGuideSlugFromURL?.() ?? (typeof window !== 'undefined' ? window.location.pathname.replace('/guides/', '') : ''); }
 
 // Beginner Gear Guide Component (Issue #702)
-// Lazy loaded for TBT optimization (#710) - 63KB component + 45KB data
+// Lazy loaded for performance optimization (#708) - 63KB component + 45KB data
 const LazyBeginnerGearGuidePage = lazy(() => import('./components/BeginnerGearGuide'));
 let _beginnerGuideModule = null;
 let _beginnerGuideLoadPromise = null;
@@ -216,7 +216,7 @@ function isBeginnerGuidePage() { return _beginnerGuideModule?.isBeginnerGuidePag
 function getBeginnerGuideSlugFromURL() { return _beginnerGuideModule?.getBeginnerGuideSlugFromURL?.() ?? (typeof window !== 'undefined' ? window.location.pathname.replace('/beginner-guide/', '') || 'index' : 'index'); }
 
 // Metal Drummer Name Generator (Issue #704) - Viral tool at /tools/metal-drummer-name-generator
-// Lazy loaded for TBT optimization (#710) - 26KB component + 17KB data
+// Lazy loaded for performance optimization (#708) - 26KB component + 17KB data
 const LazyMetalDrummerNameGeneratorPage = lazy(() => import('./components/MetalDrummerNameGenerator'));
 let _nameGeneratorModule = null;
 let _nameGeneratorLoadPromise = null;
@@ -1359,7 +1359,7 @@ function TopListsSection({ theme, onNavigateToList }) {
 
 // ==========================================
 // ALBUM ARTICLES SECTION - Iconic metal album gear breakdowns (Issue #663)
-// Updated for lazy loading (#710) - loads data on-demand
+// Updated for lazy loading (#708) - loads data on-demand
 // ==========================================
 
 function AlbumArticlesSection({ theme }) {
@@ -1368,7 +1368,7 @@ function AlbumArticlesSection({ theme }) {
   const [albumArticles, setAlbumArticles] = useState([]);
   const [isLoaded, setIsLoaded] = useState(false);
   
-  // Load album articles lazily - TBT optimization (#710)
+  // Load album articles lazily - performance optimization (#708)
   useEffect(() => {
     if (isAlbumArticlesLoaded()) {
       setAlbumArticles(getAllAlbumArticles());
@@ -14169,7 +14169,7 @@ function GearNewsCard({ item, theme, onDrummerPress, onBrandPress, isFirst }) {
 /**
  * BattleWidget - Homepage card showing this week's battle
  * Displays current matchup with quick vote option
- * Updated for lazy loading (#710) - loads battles module on-demand
+ * Updated for lazy loading (#708) - loads battles module on-demand
  */
 function BattleWidget({ theme, drummers, onNavigateToBattle }) {
   const { width } = useWindowDimensions();
@@ -14177,7 +14177,7 @@ function BattleWidget({ theme, drummers, onNavigateToBattle }) {
   const [battle, setBattle] = useState(null);
   const [isLoaded, setIsLoaded] = useState(false);
   
-  // Load battles module lazily - TBT optimization (#710)
+  // Load battles module lazily - performance optimization (#708)
   useEffect(() => {
     if (isBattlesLoaded()) {
       setBattle(generateWeeklyBattle());
@@ -20003,8 +20003,8 @@ function AppContent() {
         document.body.classList.add('lcp-complete');
       });
       
-      // TBT Optimization (Issues #537, #668, #710): Preload data modules during idle time
-      // This defers ~400KB+ of JavaScript parsing to after the page is interactive
+      // TBT Optimization (Issues #537, #668): Preload data modules during idle time
+      // This defers ~99KB of JavaScript parsing to after the page is interactive
       // Using runIdleTasks to break up long tasks and prevent TBT spikes
       const preloadTasks = [
         // High priority: Most commonly navigated pages
@@ -20019,12 +20019,12 @@ function AppContent() {
         () => preloadTop10Lists(),
         () => preloadExtendedBios(),
         () => preloadDrummerComparisons(), // Issue #558
-        // Lazy-loaded components (Issue #710): Preload during idle to reduce TBT
-        () => preloadAlbumArticles(),  // 206KB module
-        () => preloadBattles(),        // 10KB module
-        () => preloadSoundLikeGuides(), // 46KB + 130KB
-        () => preloadBeginnerGuide(),   // 63KB + 45KB
-        () => preloadNameGenerator(),   // 26KB + 17KB
+        // Lower priority: Content pages - Issue #708
+        () => preloadBattles(),       // 10KB - Homepage widget
+        () => preloadAlbumArticles(), // 182KB - Article pages
+        () => preloadSoundLikeGuides(), // 135KB - Guide pages
+        () => preloadBeginnerGuide(),   // 43KB - Beginner guide
+        () => preloadNameGenerator(),   // 27KB - Name generator tool
       ];
       
       // Use runIdleTasks for deadline-aware preloading
@@ -22581,7 +22581,7 @@ setShowList(false);
       );
     }
     // Beginner Gear Guide Page (Issue #702) - /guides/beginner-metal-drummer-setup
-    // Lazy loaded for TBT optimization (#708) - 63KB component + 45KB data
+    // Lazy loaded for performance optimization (#708) - 63KB component + 45KB data
     if (showBeginnerGuide) {
       return (
         <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
@@ -22600,7 +22600,7 @@ setShowList(false);
       );
     }
     // Metal Drummer Name Generator Page (Issue #704) - /tools/metal-drummer-name-generator
-    // Lazy loaded for TBT optimization (#708) - 26KB component + 17KB data
+    // Lazy loaded for performance optimization (#708) - 26KB component + 17KB data
     if (showNameGenerator) {
       return (
         <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
@@ -22612,7 +22612,7 @@ setShowList(false);
       );
     }
     // Guides Hub Page (Issue #685) - SEO content hub at /guides
-    // Lazy loaded for TBT optimization (#708) - 46KB component + 130KB data
+    // Lazy loaded for performance optimization (#708) - 46KB component + 130KB data
     if (showGuidesHub) {
       return (
         <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
@@ -22646,7 +22646,7 @@ setShowList(false);
       );
     }
     // Individual Guide Page (Issue #685) - /guides/how-to-sound-like-*
-    // Lazy loaded for TBT optimization (#708) - 46KB component + 130KB data
+    // Lazy loaded for performance optimization (#708) - 46KB component + 130KB data
     if (showGuide && guideSlug) {
       return (
         <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>

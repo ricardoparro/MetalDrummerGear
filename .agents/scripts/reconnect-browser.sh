@@ -7,26 +7,28 @@ tell application "Google Chrome"
     activate
 end tell
 
-delay 0.3
+delay 0.5
 
 tell application "System Events"
     tell process "Google Chrome"
         try
-            -- Find toolbar extensions area
-            set toolbarGroup to group 2 of group 3 of toolbar 1 of group 1 of group 1 of group 1 of group 1 of group 1 of window 1
-            set extButtons to every pop up button of toolbarGroup
-            
-            repeat with btn in extButtons
-                set btnDesc to description of btn as text
-                
-                -- Check if it's the OpenClaw extension and needs reconnecting
-                if btnDesc contains "OpenClaw" and btnDesc contains "click to attach" then
-                    click btn
-                    delay 0.5
-                    return "✅ Clicked OpenClaw extension to reconnect"
-                else if btnDesc contains "OpenClaw" and btnDesc contains "attached" then
-                    return "✅ OpenClaw already connected"
-                end if
+            set uiElems to entire contents of window 1
+            repeat with elem in uiElems
+                try
+                    set elemDesc to description of elem as text
+                    set elemClass to class of elem as text
+                    
+                    -- Find OpenClaw extension button
+                    if elemDesc contains "OpenClaw" and elemClass contains "pop up button" then
+                        if elemDesc contains "click to re-attach" or elemDesc contains "click to attach" then
+                            click elem
+                            delay 0.5
+                            return "✅ Clicked OpenClaw extension to reconnect"
+                        else if elemDesc contains "attached" then
+                            return "✅ OpenClaw already connected"
+                        end if
+                    end if
+                end try
             end repeat
             
             return "⚠️ OpenClaw extension not found in toolbar"

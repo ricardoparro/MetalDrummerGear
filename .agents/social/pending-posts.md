@@ -1,8 +1,8 @@
 # Pending Social Posts - MetalDrumGear
 
-## Monday, March 16, 2026 - Morning (9:03 AM)
+## Monday, March 16, 2026 - Morning (11:00 AM)
 
-### Brann Dailor DYK Post
+### Brann Dailor DYK Post (Birthday upcoming March 19!)
 
 **Content:**
 ```
@@ -12,12 +12,15 @@ Brann Dailor (Mastodon) never stops moving behind the kit — his signature styl
 
 Fun fact: He plays DW drums with Sabian cymbals and has been called "one of the most inventive metal drummers of his generation."
 
+Birthday coming up March 19! 🎂
+
 #MetalDrumming #DrumGear #Mastodon
 ```
 
-**Status:** Ready to post  
+**Status:** Ready to post (BROWSER AUTOMATION FAILED AGAIN)  
 **Type:** Did You Know (Monday morning)  
-**Character count:** 346 (within Twitter limit)
+**Character count:** 374 (within Twitter limit)  
+**Timing:** Perfect - Brann's birthday is March 19 (3 days away)
 
 ---
 

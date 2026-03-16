@@ -247,4 +247,54 @@ export function formatNewsDate(dateString) {
   });
 }
 
+// Format relative time for display (e.g., "2 hours ago", "3 days ago")
+export function formatRelativeTime(dateString) {
+  const date = new Date(dateString);
+  const now = new Date();
+  const diffMs = now - date;
+  const diffSec = Math.floor(diffMs / 1000);
+  const diffMin = Math.floor(diffSec / 60);
+  const diffHour = Math.floor(diffMin / 60);
+  const diffDay = Math.floor(diffHour / 24);
+  const diffWeek = Math.floor(diffDay / 7);
+  
+  if (diffSec < 60) return 'just now';
+  if (diffMin < 60) return `${diffMin} minute${diffMin === 1 ? '' : 's'} ago`;
+  if (diffHour < 24) return `${diffHour} hour${diffHour === 1 ? '' : 's'} ago`;
+  if (diffDay < 7) return `${diffDay} day${diffDay === 1 ? '' : 's'} ago`;
+  if (diffWeek < 4) return `${diffWeek} week${diffWeek === 1 ? '' : 's'} ago`;
+  
+  return formatNewsDate(dateString);
+}
+
+// Get recent gear updates for homepage "Recently Updated Gear" section (Issue #715)
+// Returns only gear-related updates (ADDED, UPDATED, SWITCHED) with drummer info
+// Formatted for display: drummer avatar, gear text, timestamp, profile link
+export function getRecentGearUpdates(limit = 5) {
+  const gearTypes = [CHANGE_TYPES.ADDED, CHANGE_TYPES.UPDATED, CHANGE_TYPES.SWITCHED];
+  
+  return GEAR_NEWS
+    .filter(item => 
+      gearTypes.includes(item.type) && 
+      item.drummerId && 
+      item.drummerName && 
+      item.drummerSlug
+    )
+    .slice(0, limit)
+    .map(item => ({
+      id: item.id,
+      drummerId: item.drummerId,
+      drummerName: item.drummerName,
+      drummerSlug: item.drummerSlug,
+      gearName: item.gearName || item.title,
+      changeType: item.type,
+      changeLabel: getChangeTypeLabel(item.type),
+      changeEmoji: getChangeTypeEmoji(item.type),
+      date: item.date,
+      relativeTime: formatRelativeTime(item.date),
+      note: item.note,
+      previousGear: item.previousGear,
+    }));
+}
+
 export default GEAR_NEWS;

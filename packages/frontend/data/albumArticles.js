@@ -3395,7 +3395,7 @@ Custom stacks (combining different cymbals for unique sounds) add texture for sp
     },
     // Hardware Section
     hardware: {
-      title: 'Iron Foundation: Tama's Premier Hardware',
+      title: "Iron Foundation: Tama's Premier Hardware",
       items: [
         {
           type: 'Bass Drum Pedals',

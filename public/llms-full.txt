@@ -1,6 +1,6 @@
 # MetalForge Complete Database
 # Metal Drummer Gear Database - Full Content Dump for LLMs
-# Last Updated: 2026-03-13
+# Last Updated: 2026-03-16
 # Source: https://metalforge.io
 # Total Drummers: 61
 #
@@ -5577,4 +5577,4 @@ All gear information is researched from:
 
 ================================================================================
 # End of MetalForge Complete Database
-# Generated: 2026-03-13
+# Generated: 2026-03-16

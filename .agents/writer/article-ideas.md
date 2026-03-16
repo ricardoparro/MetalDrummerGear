@@ -202,7 +202,7 @@
 
 ---
 
-### ✍️ [IDEA-013] Fear Inoculum Drum Setup: Danny Carey's Grammy-Winning Sound
+### ✅ [IDEA-013] Fear Inoculum Drum Setup: Danny Carey's Grammy-Winning Sound
 
 **Type:** album-breakdown
 **SEO Keywords:** fear inoculum drums, danny carey gear 2019, tool drum sound, pneuma drums
@@ -218,13 +218,13 @@
 5. Recording at the Tool Compound
 6. Gear Evolution from 10,000 Days
 
-**Status:** WRITING (2026-03-16)
+**Status:** PUBLISHED (2026-03-16) — /articles/fear-inoculum-drum-setup
 
 ---
 
 ## ✍️ In Progress
 
-- [IDEA-013] Fear Inoculum Drum Setup — Writing started 2026-03-16 09:05
+*None currently*
 
 ---
 
@@ -252,6 +252,7 @@
 | 2026-03-15 | What's In Gene Hoglan's Atomic Arsenal | /articles/whats-in-gene-hoglans-kit | - |
 | 2026-03-15 | What's In Eloy Casagrande's Slipknot Kit | /articles/whats-in-eloy-casagrandes-kit | - |
 | 2026-03-15 | Painkiller Drum Setup: Scott Travis | /articles/painkiller-drum-setup | - |
+| 2026-03-16 | Fear Inoculum Drum Setup: Danny Carey | /articles/fear-inoculum-drum-setup | - |
 
 ---
 

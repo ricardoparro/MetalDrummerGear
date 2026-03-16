@@ -253,6 +253,7 @@
 | 2026-03-15 | What's In Eloy Casagrande's Slipknot Kit | /articles/whats-in-eloy-casagrandes-kit | - |
 | 2026-03-15 | Painkiller Drum Setup: Scott Travis | /articles/painkiller-drum-setup | - |
 | 2026-03-16 | Fear Inoculum Drum Setup: Danny Carey | /articles/fear-inoculum-drum-setup | - |
+| 2026-03-16 | Lateralus Drum Setup: Danny Carey | /articles/lateralus-drum-setup | - |
 
 ---
 
@@ -376,7 +377,7 @@
 
 ---
 
-### 💡 [IDEA-020] Lateralus Drum Setup: Danny Carey's Progressive Masterpiece
+### ✅ [IDEA-020] Lateralus Drum Setup: Danny Carey's Progressive Masterpiece
 
 **Type:** album-breakdown
 **SEO Keywords:** lateralus drums, danny carey lateralus gear, tool lateralus recording, schism drums
@@ -389,10 +390,10 @@
 2. Sonor Setup for the 2001 Sessions
 3. "Schism" Breakdown (Grammy-winning track)
 4. Polyrhythmic Concepts & Sacred Geometry
-5. Recording at the Tool Compound
+5. Recording at Cello Studios
 6. Fibonacci Sequence in the Drumming
 
-**Status:** IDEA
+**Status:** PUBLISHED (2026-03-16) — /articles/lateralus-drum-setup
 
 ---
 
@@ -449,4 +450,4 @@
 
 ---
 
-*Last updated: 2026-03-16 09:05*
+*Last updated: 2026-03-16 13:05*

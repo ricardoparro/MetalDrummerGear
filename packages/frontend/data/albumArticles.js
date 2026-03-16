@@ -4326,6 +4326,350 @@ Forty years behind the kit, and Danny's still got more to say. That's the real l
 
 🌀 *"Exhale. Expel. Bless this immunity."* 🌀`
     }
+  },
+
+  // Lateralus Drum Setup - Danny Carey (March 2026)
+  'lateralus-drum-setup': {
+    slug: 'lateralus-drum-setup',
+    albumTitle: 'Lateralus',
+    artist: 'Tool',
+    drummer: 'Danny Carey',
+    drummerId: 14,
+    year: 2001,
+    genre: 'Progressive Metal',
+    label: 'Volcano Entertainment',
+    studio: 'Cello Studios, Los Angeles / The Hook, North Hollywood',
+    producer: 'David Bottrill & Tool',
+    isAlbumArticle: true,
+    datePublished: '2026-03-16',
+    dateModified: '2026-03-16',
+    author: 'MetalForge Editorial',
+    title: "Lateralus Drum Setup: Danny Carey's Progressive Masterpiece",
+    description: "Complete breakdown of Danny Carey's drum gear on Tool's Lateralus. Discover the Sonor kit, Paiste cymbals, and the Fibonacci-based drumming that won a Grammy and defined progressive metal.",
+    seoKeywords: ['lateralus drums', 'danny carey drum setup', 'tool lateralus gear', 'schism drums', 'danny carey kit 2001', 'lateralus recording', 'fibonacci drumming'],
+    ogImage: '/images/albums/lateralus-drums.webp',
+    intro: {
+      title: 'The Album That Defined Progressive Metal',
+      content: `Released on May 15, 2001, Tool's "Lateralus" didn't just set a new standard for progressive metal — it redefined what heavy music could be. At the heart of this masterpiece sits Danny Carey's drumming: a polyrhythmic odyssey incorporating sacred geometry, the Fibonacci sequence, and some of the most ambitious percussion work ever recorded in rock music.
+
+The album debuted at #1 on the Billboard 200 and went on to sell over 3 million copies. The title track "Lateralus" features lyrics based on the Fibonacci sequence (1, 1, 2, 3, 5, 8, 13...), while Danny's drumming on "Schism" won Tool their first Grammy Award for Best Metal Performance in 2002.
+
+Recording took place primarily at Cello Studios in Los Angeles (the former Ocean Way Recording) with producer David Bottrill, who had worked with Peter Gabriel and King Crimson. The sessions pushed Danny to explore new territory — longer compositions (two songs exceed 13 minutes), complex time signatures, and integration of tabla influences into his playing.
+
+What emerged was an album that challenged listeners while remaining emotionally resonant. The drumming is virtuosic but never gratuitous — every polyrhythm, every odd-time signature, every intricate fill serves the larger musical purpose. This article breaks down every piece of gear Danny used to create this legendary recording.`,
+      keyPoints: [
+        'Debuted at #1 on Billboard 200 — Tool\'s commercial peak',
+        '"Schism" won Grammy for Best Metal Performance (2002)',
+        'Title track features Fibonacci sequence in lyrics and rhythm',
+        'Recording sessions spanned 2000-2001 at legendary Cello Studios',
+        'Producer David Bottrill brought progressive rock sensibility'
+      ]
+    },
+    drumKit: {
+      title: "Danny's Sonor Setup: The Early 2000s Configuration",
+      brand: 'Sonor',
+      model: 'Sonor Designer Series / Proto-SQ2',
+      finish: 'Custom Vintage Natural High Gloss',
+      config: {
+        bassdrums: ['24" x 18" Bass Drum'],
+        toms: ['8" x 8" Rack Tom', '10" x 9" Rack Tom', '12" x 10" Rack Tom', '13" x 11" Rack Tom'],
+        floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom', '18" x 17" Floor Tom'],
+        shells: 'Maple shells with Sonor\'s signature reinforcement rings'
+      },
+      description: `For Lateralus, Danny Carey was in the early stages of his relationship with Sonor, having switched from his previous setup. The kit represented a transition toward what would eventually become his signature SQ2 Heavy Beech configuration.
+
+The 24" x 18" bass drum provided the foundation for Tool's massive low-end. Deep and punchy without being boomy, it cut through the complex arrangements while maintaining the weight needed for songs like "Ticks & Leeches" and "The Grudge." Danny used a single bass drum — his exceptional foot technique eliminated the need for double bass in most passages.
+
+The tom configuration was already approaching the extensive range Danny is known for. Seven toms from 8" to 18" gave him a melodic palette spanning nearly two octaves of drum pitches. This range is essential for songs like "Reflection" and "Disposition," where the toms function almost as melodic instruments.
+
+The maple shells provided warmth and sustain while maintaining the attack needed for aggressive passages. Sonor's precision manufacturing ensured consistency across the extensive setup — crucial for long recording sessions where tuning stability matters.
+
+Danny's kit positioning was already distinctive: a massive, throne-forward setup that allowed him to reach every drum and cymbal while maintaining a centered posture. The ergonomics were carefully calculated for endurance during Tool's extended compositions.`,
+      notes: [
+        'Single 24" bass drum — Danny\'s technique eliminates need for double bass',
+        'Seven toms from 8" to 18" for maximum melodic range',
+        'Maple shells for warmth with excellent attack',
+        'Transition period toward eventual SQ2 Heavy Beech setup',
+        'Kit positioning already showing signature throne-forward approach'
+      ],
+      estimatedValue: '$5,000-7,000 (2001) / $8,000-12,000 (vintage Sonor Designer today)'
+    },
+    snare: {
+      title: 'The Bronze Thunder',
+      brand: 'Sonor',
+      model: 'Sonor Danny Carey Signature Bronze (prototype)',
+      size: '14" x 8"',
+      shell: 'Cast bronze',
+      description: `The snare sound on Lateralus is unmistakable — deep, warm, with a singing quality that sets it apart from typical metal snares. Danny achieved this with an early version of what would become his signature Sonor bronze snare.
+
+At 14" x 8", the drum was significantly deeper than standard snares, providing body and projection that matched his massive tom setup. The cast bronze shell gave it a unique voice — darker and more complex than steel or brass, with overtones that rang musically rather than harshly.
+
+The depth of the snare was crucial for songs like "Schism" and "Parabola," where the snare needed to cut through complex guitar textures while maintaining a warm, musical quality. The bronze shell's natural compression smoothed out peaks without electronic processing.
+
+Danny tuned the snare medium-high with moderate snare wire tension, allowing ghost notes to speak clearly while maintaining crack on backbeats. This dynamic responsiveness was essential for the album's wide range of intensities.
+
+The prototype model would later be refined into Danny's signature snare, but the basic concept was already present on Lateralus: a deep, bronze-shelled drum with the warmth of wood and the projection of metal.`,
+      tuningSetting: 'Medium-high tension, moderate snare wire tension for dynamic range',
+      heads: 'Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$600-900 (signature model)'
+    },
+    cymbals: {
+      title: 'Paiste Brilliance',
+      brand: 'Paiste',
+      series: 'Paiste Signature Series / Traditional',
+      setup: [
+        { type: 'Hi-Hats', model: 'Paiste Signature 15" Heavy Hi-Hats', position: 'Left side', notes: 'Larger hi-hats for fuller sound' },
+        { type: 'Crash', model: 'Paiste Signature 17" Fast Crash', position: 'Left of hi-hats', notes: 'Quick attack for accents' },
+        { type: 'Crash', model: 'Paiste Signature 18" Full Crash', position: 'Left of toms', notes: 'Primary crash position' },
+        { type: 'Crash', model: 'Paiste Signature 19" Power Crash', position: 'Center above toms', notes: 'Heavier crash for bigger moments' },
+        { type: 'Crash', model: 'Paiste Signature 20" Full Crash', position: 'Right of toms', notes: 'Large crash for maximum wash' },
+        { type: 'Ride', model: 'Paiste Traditional 22" Light Ride', position: 'Far right', notes: 'Musical ride with complex overtones' },
+        { type: 'China', model: 'Paiste Signature 18" Thin China', position: 'Above floor tom', notes: 'Trashy accents for transitions' },
+        { type: 'Splash', model: 'Paiste Signature 10" Splash', position: 'Above hi-hats', notes: 'Quick accents' },
+        { type: 'Bell', model: 'Various LP bells and percussion', position: 'Throughout setup', notes: 'Integrated percussion elements' }
+      ],
+      description: `Danny's cymbal selection for Lateralus reflected his jazz background as much as his metal power. The Paiste Signature series provided the warmth, complexity, and dynamic range needed for Tool's extended compositions.
+
+The oversized 15" Heavy hi-hats were essential to Danny's sound. Larger than standard rock hi-hats, they provided a fuller, more musical tone that could whisper during quiet passages and roar during climaxes. The extra mass gave them stability during aggressive playing.
+
+Multiple crashes from 17" to 20" gave Danny options for different intensities. Unlike drummers who hit crashes at every opportunity, Danny used them thoughtfully — each crash accent served a purpose in the arrangement. The Signature series' musicality meant crashes sang rather than merely exploded.
+
+The Paiste Traditional 22" Light Ride was a distinctive choice for heavy music. Its complex overtones and musical wash suited Tool's layered arrangements better than a bright, cutting metal ride would have. Danny could ride on it during quiet sections with subtlety, then crash it for dramatic moments.
+
+The 18" Thin China provided trashy accents without overwhelming the mix. Danny used it sparingly but effectively, marking transitions and punctuating riffs.
+
+Throughout the setup, various LP bells and percussion elements added tonal colors that would become increasingly prominent in Danny's playing. These weren't gimmicks — they were integral to songs like "Reflection" and "Disposition."`,
+      estimatedValue: '$2,500-3,500 total (Paiste Signature setup)'
+    },
+    hardware: {
+      title: 'The Foundation',
+      items: [
+        {
+          type: 'Bass Drum Pedal',
+          brand: 'DW',
+          model: 'DW 5000 Series Single Pedal',
+          notes: 'Reliable workhorse for Danny\'s powerful single-pedal technique',
+          description: 'During the Lateralus era, Danny used DW pedals before eventually developing his Sonor signature hardware. The 5000 series provided the speed and reliability needed for his demanding patterns.'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'DW',
+          model: 'DW 5000 Series Hi-Hat Stand',
+          notes: 'Heavy-duty for aggressive playing'
+        },
+        {
+          type: 'Throne',
+          brand: 'Roc-N-Soc',
+          model: 'Roc-N-Soc Nitro Throne with Extended Height',
+          notes: 'Custom height for Danny\'s 6\'5" frame',
+          description: 'At 6\'5", Danny requires specially configured equipment. His throne was set higher than standard to accommodate his long legs and optimize his ergonomics.'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth Danny Carey Signature',
+          notes: 'Extra long for his reach',
+          description: 'Danny\'s signature sticks are longer than standard to match his physical proportions and playing style, with a rounded bead for warm cymbal tone.'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke 3 Clear',
+        toms: 'Remo Coated Emperor (batter), Remo Clear Ambassador (resonant)',
+        snare: 'Remo Coated Ambassador'
+      }
+    },
+    recordingTechniques: {
+      title: 'Capturing Lightning: The Lateralus Sessions',
+      content: `Recording Lateralus was an intensive process spanning nearly two years of writing and recording. Producer David Bottrill, known for his work with Peter Gabriel and King Crimson, brought a progressive rock sensibility that complemented Tool's experimental vision.
+
+**The Studios:**
+Primary tracking occurred at Cello Studios (now EastWest Studios) in Hollywood, legendary for its massive live room and vintage Neve console. Additional work was done at The Hook in North Hollywood. The choice of rooms was crucial — Tool needed spaces that could capture both Danny's massive kit and the band's dynamic extremes.
+
+**Microphone Setup:**
+- Kick drum: AKG D112 inside, Neumann FET 47 outside
+- Snare: Shure SM57 top, AKG C451 bottom
+- Toms: Sennheiser MD421 on each tom
+- Hi-hat: AKG C451
+- Overheads: Neumann U87s in spaced pair
+- Room mics: Multiple Neumann U47s for ambience
+- Additional spot mics on percussion elements
+
+**The Live Room Sound:**
+Cello Studios' live room provided natural reverb that gave the drums dimension without needing artificial processing. The room mics captured the kit in the space, essential for Tool's massive sound. Bottrill used the room as an instrument itself.
+
+**Performance Approach:**
+The band recorded much of Lateralus live together, capturing the interplay between Danny, Adam Jones, and Justin Chancellor. This live energy is audible in the recording — the drums breathe with the music rather than feeling pasted on.
+
+**No Click Track:**
+Significantly, Tool recorded without a click track on most songs. Danny's internal clock drove the tempo, allowing for the organic push and pull that gives Lateralus its human feel. The tempo fluctuations are intentional, serving the emotional arc of each song.
+
+**Extended Takes:**
+Songs like "The Grudge" (8:36), "Reflection" (11:07), and "Third Eye" (13:47) were recorded in extended takes when possible. Danny's stamina and focus allowed him to play complete performances, maintaining intensity and concentration through marathon recordings.`,
+      keyTechniques: [
+        'Tracked at legendary Cello Studios for natural room sound',
+        'Multiple room microphones captured kit in space',
+        'Live tracking with band for organic interplay',
+        'No click track — Danny\'s internal clock drove tempo',
+        'Extended takes preserved energy of full performances'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'The Grudge',
+        bpm: '82-88 (varies)',
+        signature: '5/4, 4/4, 7/8 variations',
+        highlights: [
+          'Opens album with 8:36 of building intensity',
+          'Complex polyrhythms throughout',
+          'Famous scream sequence at climax',
+          'Showcases Danny\'s stamina and dynamic control'
+        ],
+        gearNotes: 'Full kit utilized — bass drum drives the odd-time groove. Bronze snare sings through the mix.'
+      },
+      {
+        track: 'Schism',
+        bpm: '87',
+        signature: '5/8, 7/8, 6/8, 4/4 (cycling)',
+        highlights: [
+          'Grammy-winning track — Best Metal Performance 2002',
+          'Cycling time signatures create hypnotic groove',
+          'Bass and drums locked in intricate interplay',
+          'Most commercially successful Tool song'
+        ],
+        gearNotes: 'Hi-hat work essential for the shifting groove. Snare ghost notes drive the verse feel.'
+      },
+      {
+        track: 'Lateralus',
+        bpm: '79-112 (varies dramatically)',
+        signature: '9/8, 8/8, 7/8 (Fibonacci spiral)',
+        highlights: [
+          'Title track based on Fibonacci sequence',
+          'Lyrics syllables follow 1,1,2,3,5,8,5,3,2,1,1 pattern',
+          'Danny\'s drumming mirrors mathematical concepts',
+          'Considered Tool\'s creative zenith by many'
+        ],
+        gearNotes: 'Full dynamic range required — whisper to thunder. Tom work melodic and purposeful.'
+      },
+      {
+        track: 'Ticks & Leeches',
+        bpm: '100',
+        signature: '4/4 with displaced accents',
+        highlights: [
+          'Most aggressive track on album',
+          'Intense vocal delivery from Maynard',
+          'Danny matches intensity with powerful playing',
+          'Builds to crushing climax'
+        ],
+        gearNotes: 'Bass drum punches hard. Crash cymbals used aggressively for dramatic effect.'
+      },
+      {
+        track: 'Reflection',
+        bpm: '56-70 (slow, meditative)',
+        signature: '4/4 with polyrhythmic layers',
+        highlights: [
+          '11:07 of meditative intensity',
+          'Tabla-influenced patterns',
+          'Demonstrates restraint as much as power',
+          'Emotional centerpiece of album'
+        ],
+        gearNotes: 'Toms used melodically. Subtle brush work and mallet playing. Percussion elements prominent.'
+      },
+      {
+        track: 'Triad',
+        bpm: 'Variable (free-form sections)',
+        signature: 'Complex polymeters',
+        highlights: [
+          'Instrumental piece — no vocals',
+          'Band improvisation captured in studio',
+          'Danny duets with tabla master Aloke Dutta',
+          'Showcases jazz and world music influences'
+        ],
+        gearNotes: 'Tabla integration. Danny plays polyrhythms against Dutta\'s patterns. Hand percussion featured.'
+      }
+    ],
+    fibonacciConnection: {
+      title: 'The Fibonacci Spiral: Math as Music',
+      content: `Lateralus represents perhaps the most famous integration of mathematics into rock music. The Fibonacci sequence — 1, 1, 2, 3, 5, 8, 13, 21... where each number is the sum of the two preceding it — appears throughout the album's structure, lyrics, and most significantly for our purposes, drumming.
+
+**Rhythmic Fibonacci:**
+Danny's patterns often incorporate Fibonacci-based groupings. Instead of standard 4/4 patterns, he'll play groupings of 1-1-2-3-5 or 5-8-13, creating rhythmic structures that feel both organic and mathematical. This approach is most prominent on the title track.
+
+**Time Signature Spiral:**
+The title track "Lateralus" moves through time signatures that relate to the Fibonacci sequence: 9/8 - 8/8 - 7/8 (9+8=17, 8+7=15... reflecting the spiral concept). Danny's drumming traces this spiral, moving from one signature to the next with seamless fluidity.
+
+**Sacred Geometry:**
+Danny's interest in sacred geometry extended beyond mathematics to visual concepts. The spiral appears in nature (shells, galaxies) and he conceptualized the drumming as tracing this same pattern — an organic, naturally-occurring structure rather than imposed human order.
+
+**Musical Application:**
+Critically, none of this mathematical underpinning makes the music feel cold or calculated. Danny's genius was applying these concepts while maintaining groove and emotional impact. Listeners feel the rightness of the patterns without necessarily understanding their mathematical basis.
+
+**The Goal:**
+As Danny explained in interviews: "The Fibonacci sequence creates a natural flow that humans respond to instinctively. We recognize it because it appears throughout nature. Using it in music taps into something primal."
+
+This approach influenced countless progressive metal drummers who followed, though few achieved Danny's balance of mathematical complexity and musical feeling.`,
+      keyPoints: [
+        'Fibonacci sequence (1,1,2,3,5,8,13...) informs drum patterns',
+        'Time signatures spiral through related numbers',
+        'Sacred geometry concepts applied to rhythm',
+        'Mathematics enhances rather than replaces musicality',
+        'Influence extends throughout progressive metal genre'
+      ]
+    },
+    evolution: {
+      title: 'From Lateralus to Fear Inoculum: The Evolution',
+      content: `Lateralus represented a major evolution in Danny's playing and would set the template for Tool's subsequent work. The concepts explored here — extended composition, mathematical structure, tabla influence, dynamic range — would continue to develop over the next two decades.
+
+**Immediate Development:**
+After Lateralus, Danny's kit continued to evolve toward the SQ2 Heavy Beech configuration he uses today. The Sonor relationship deepened, with signature products and refined specifications.
+
+**Electronic Integration:**
+While Lateralus used acoustic drums almost exclusively (with some percussion augmentation), subsequent albums would see Danny integrate Mandala electronic pads into his setup. This technology allowed him to trigger synthesized sounds while maintaining acoustic drum feel.
+
+**10,000 Days (2006):**
+The follow-up album showed Danny exploring even more complex rhythmic territory. Songs like "Jambi" and "Rosetta Stoned" pushed his polyrhythmic approach further while maintaining accessibility.
+
+**Fear Inoculum (2019):**
+The 13-year gap between albums allowed Danny to fully develop the concepts introduced on Lateralus. The drumming became more integrated with electronic elements, more dynamically extreme, and more compositionally ambitious. Yet the seeds were all planted on Lateralus.
+
+**The Lateralus Legacy:**
+For progressive metal, Lateralus was a watershed moment. It proved that complexity and commercial success weren't mutually exclusive, that odd time signatures could groove, and that drums could be both mathematical and emotional. Danny's performance set a standard that continues to inspire.`,
+      thenVsNow: [
+        { category: 'Kit', then: 'Sonor Designer / Proto-SQ2 (Maple)', now: 'Sonor SQ2 Heavy Beech' },
+        { category: 'Snare', then: 'Sonor Bronze Prototype 14x8"', now: 'Sonor Danny Carey Signature Bronze' },
+        { category: 'Cymbals', then: 'Paiste Signature / Traditional', now: 'Paiste Signature (expanded selection)' },
+        { category: 'Electronics', then: 'Minimal (percussion only)', now: 'Mandala Pads integral to setup' },
+        { category: 'Pedals', then: 'DW 5000 Series', now: 'Sonor Giant Step Twin Effect' }
+      ]
+    },
+    videos: [
+      { youtubeId: 'uCEeAn6_QJo', title: 'Schism - Official Video', description: 'Grammy-winning track official video' },
+      { youtubeId: 'wS7CZIJVxFY', title: 'Lateralus - Live 2002', description: 'Live performance from the Lateralus tour' },
+      { youtubeId: 'Y7JG63IuaWs', title: 'The Grudge - Live', description: 'Extended live performance' },
+      { youtubeId: 'EDlC7oG_2W4', title: 'Danny Carey Drum Cam (Schism)', description: 'Close-up footage showing technique' }
+    ],
+    relatedAlbums: ['fear-inoculum-drum-setup', 'obzen-drum-setup'],
+    relatedDrummers: [5, 15, 17], // Tomas Haake, Mario Duplantier, Mike Portnoy
+    relatedArticles: ['progressive-metal-drummers', 'polyrhythmic-drumming-guide'],
+    conclusion: {
+      title: 'The Spiral Continues',
+      content: `Lateralus stands as one of the most significant drum performances in progressive metal history. Danny Carey's synthesis of technical virtuosity, mathematical concepts, world music influences, and pure musicality created something that transcended genre boundaries and influenced an entire generation of drummers.
+
+What makes Lateralus special isn't just the complexity — it's how that complexity serves the music. Every odd-time passage, every polyrhythm, every subtle tabla-influenced fill contributes to the emotional arc of the songs. Danny never shows off for its own sake. The Fibonacci patterns aren't intellectual exercises — they're tools for creating music that resonates on a primal level.
+
+For drummers studying Lateralus, the lessons go beyond technical exercises:
+
+- **Concept matters**: Having a philosophical/mathematical framework can guide composition
+- **Groove is king**: Even in 9/8, the music must feel good
+- **Dynamics create drama**: Whisper-to-thunder range serves extended compositions
+- **World music expands vocabulary**: Tabla and other traditions offer new rhythmic possibilities
+- **Stamina enables ambition**: Extended pieces require physical and mental endurance
+
+The gear Danny used — Sonor drums, Paiste cymbals, bronze snare — contributed to the sound. But the real instrument was his mind: the vision to conceive these patterns, the discipline to execute them, and the musicality to make them groove.
+
+Twenty-five years later, Lateralus remains essential listening for any serious drummer. The spiral keeps turning, but this album marks the point where progressive metal drumming reached new dimensions.
+
+🌀 *"Spiral out. Keep going."* 🌀`
+    }
   }
 };
 

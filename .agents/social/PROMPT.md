@@ -116,10 +116,36 @@ Before engaging with ANY account, verify:
 - Goal progress: X%
 ```
 
+## Browser Automation
+
+### Recovery Protocol
+If browser automation fails with "tab not found" or "no tab connected":
+
+1. **Auto-reconnect via AppleScript:**
+```bash
+~/code/MetalDrummerGear/.agents/scripts/reconnect-browser.sh
+```
+
+2. **Then retry the browser action**
+
+### Example Recovery Flow:
+```
+1. browser snapshot fails → "no tab connected"
+2. exec: reconnect-browser.sh → "✅ Clicked OpenClaw extension"
+3. wait 1 second
+4. browser snapshot → success
+```
+
+### Notes:
+- Tab is pinned to prevent accidental closure
+- AppleScript can click the extension button in Chrome toolbar
+- If AppleScript fails, report to Ricardo for manual intervention
+
 ## Files
 - `PROMPT.md` — This file
 - `social-metrics.json` — Follower tracking
 - `content-calendar.md` — Scheduled content ideas
+- `pending-posts.md` — Content ready when browser unavailable
 
 ---
 

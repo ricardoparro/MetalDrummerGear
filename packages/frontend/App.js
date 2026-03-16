@@ -240,6 +240,39 @@ function preloadNameGenerator() {
 function isNameGeneratorPage() { return _nameGeneratorModule?.isNameGeneratorPage?.() ?? (typeof window !== 'undefined' && window.location.pathname === '/tools/metal-drummer-name-generator'); }
 function updateNameGeneratorMeta() { return _nameGeneratorModule?.updateNameGeneratorMeta?.(); }
 
+// Gear Search Engine (Issue #719) - Find drummers by equipment at /tools/gear-search
+// Lazy loaded for performance optimization - 62KB component + 34KB data
+const LazyGearSearchPage = lazy(() => import('./components/GearSearch').then(m => ({ default: m.GearSearchPage })));
+const LazyGearBrandPage = lazy(() => import('./components/GearSearch').then(m => ({ default: m.GearBrandPage })));
+let _gearSearchModule = null;
+let _gearSearchLoadPromise = null;
+const loadGearSearch = () => import('./components/GearSearch');
+
+function preloadGearSearch() {
+  if (!_gearSearchLoadPromise) {
+    _gearSearchLoadPromise = loadGearSearch().then(m => { _gearSearchModule = m; return m; });
+  }
+  return _gearSearchLoadPromise;
+}
+function isGearSearchPage() { return _gearSearchModule?.isGearSearchPage?.() ?? (typeof window !== 'undefined' && (window.location.pathname === '/tools/gear-search' || window.location.pathname === '/tools/gear-search/')); }
+function isGearBrandPage() { 
+  if (typeof window === 'undefined') return false;
+  const pathname = window.location.pathname;
+  if (pathname.startsWith('/gear/item/')) return false;
+  const match = pathname.match(/^\/gear\/([a-z0-9-]+)$/i);
+  if (!match) return false;
+  // Check against known brand slugs
+  const brandSlugs = ['tama', 'pearl', 'sonor', 'dw', 'ludwig', 'mapex', 'ddrum', 'sjc', 'gretsch', 'yamaha', 'zildjian', 'paiste', 'sabian', 'meinl', 'axis', 'vicfirth', 'promark', 'ahead', 'vater'];
+  return brandSlugs.includes(match[1].toLowerCase());
+}
+function getGearBrandSlugFromURL() {
+  if (typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(/^\/gear\/([a-z0-9-]+)$/i);
+  return match ? match[1].toLowerCase() : null;
+}
+function updateGearSearchMeta() { return _gearSearchModule?.updateGearSearchMeta?.(); }
+function updateGearBrandMeta(brandSlug) { return _gearSearchModule?.updateGearBrandMeta?.(brandSlug); }
+
 // Extended bios for drummer detail pages (Issue #305)
 // Loaded dynamically for code splitting (~9KB of text data) - TBT optimization #460
 // Fix for #541: Added Promise caching and listeners for reliable async loading
@@ -19817,6 +19850,11 @@ function AppContent() {
   // Metal Drummer Name Generator Page state (Issue #704) - /tools/metal-drummer-name-generator
   const [showNameGenerator, setShowNameGenerator] = useState(() => isNameGeneratorPage());
   
+  // Gear Search Engine Page state (Issue #719) - /tools/gear-search and /gear/:brand
+  const [showGearSearch, setShowGearSearch] = useState(() => isGearSearchPage());
+  const [showGearBrand, setShowGearBrand] = useState(() => isGearBrandPage());
+  const [gearBrandSlug, setGearBrandSlug] = useState(() => getGearBrandSlugFromURL());
+  
   const [showGearFinder, setShowGearFinder] = useState(() => isGearFinderPage());
   const [selectedGear, setSelectedGear] = useState(null);
   const [loadingGear, setLoadingGear] = useState(false);
@@ -20187,6 +20225,7 @@ function AppContent() {
         () => preloadSoundLikeGuides(), // 135KB - Guide pages
         () => preloadBeginnerGuide(),   // 43KB - Beginner guide
         () => preloadNameGenerator(),   // 27KB - Name generator tool
+        () => preloadGearSearch(),      // 62KB - Gear search engine (Issue #719)
       ];
       
       // Use runIdleTasks for deadline-aware preloading
@@ -21090,6 +21129,94 @@ function AppContent() {
       } else if (isNameGeneratorPage()) {
         // Metal Drummer Name Generator page (Issue #704) - /tools/metal-drummer-name-generator
         setShowNameGenerator(true);
+        setShowBeginnerGuide(false);
+        setShowGuidesHub(false);
+        setShowGuide(false);
+        setGuideSlug(null);
+        setShowArticle(false);
+        setArticleSlug(null);
+        setShowList(false);
+        setListSlug(null);
+        setShowNewsPage(false);
+        setShowGearNewsPage(false);
+        setShowGearStats(false);
+        setShowTechniquesIndex(false);
+        setShowTechniqueDetail(false);
+        setTechniqueSlug(null);
+        setShowGearComparisonsIndex(false);
+        setShowGearComparison(false);
+        setGearComparisonSlug(null);
+        setShowGenresList(false);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowKitBuilder(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowBattlePage(false);
+        setBattleSlug(null);
+        setShowGearSearch(false);
+        setShowGearBrand(false);
+        setGearBrandSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+      } else if (isGearSearchPage()) {
+        // Gear Search Engine page (Issue #719) - /tools/gear-search
+        setShowGearSearch(true);
+        setShowGearBrand(false);
+        setGearBrandSlug(null);
+        setShowNameGenerator(false);
+        setShowBeginnerGuide(false);
+        setShowGuidesHub(false);
+        setShowGuide(false);
+        setGuideSlug(null);
+        setShowArticle(false);
+        setArticleSlug(null);
+        setShowList(false);
+        setListSlug(null);
+        setShowNewsPage(false);
+        setShowGearNewsPage(false);
+        setShowGearStats(false);
+        setShowTechniquesIndex(false);
+        setShowTechniqueDetail(false);
+        setTechniqueSlug(null);
+        setShowGearComparisonsIndex(false);
+        setShowGearComparison(false);
+        setGearComparisonSlug(null);
+        setShowGenresList(false);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowKitBuilder(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowBattlePage(false);
+        setBattleSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+      } else if (isGearBrandPage()) {
+        // Gear Brand page (Issue #719) - /gear/:brand
+        const slug = getGearBrandSlugFromURL();
+        setShowGearBrand(true);
+        setGearBrandSlug(slug);
+        setShowGearSearch(false);
+        setShowNameGenerator(false);
         setShowBeginnerGuide(false);
         setShowGuidesHub(false);
         setShowGuide(false);
@@ -22768,6 +22895,47 @@ setShowList(false);
         <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
           <LazyMetalDrummerNameGeneratorPage
             theme={theme}
+            onSelectDrummer={handleSelectDrummer}
+          />
+        </Suspense>
+      );
+    }
+    // Gear Search Engine Page (Issue #719) - /tools/gear-search
+    // Lazy loaded for performance optimization - 62KB component + 34KB data
+    if (showGearSearch) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyGearSearchPage
+            theme={theme}
+            drummers={drummers}
+            onBack={() => {
+              setShowGearSearch(false);
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/');
+              }
+            }}
+            onSelectDrummer={handleSelectDrummer}
+          />
+        </Suspense>
+      );
+    }
+    // Gear Brand Page (Issue #719) - /gear/:brand
+    // Shows all drummers and gear for a specific brand
+    if (showGearBrand && gearBrandSlug) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyGearBrandPage
+            brandSlug={gearBrandSlug}
+            theme={theme}
+            drummers={drummers}
+            onBack={() => {
+              setShowGearBrand(false);
+              setGearBrandSlug(null);
+              setShowGearSearch(true);
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/tools/gear-search');
+              }
+            }}
             onSelectDrummer={handleSelectDrummer}
           />
         </Suspense>

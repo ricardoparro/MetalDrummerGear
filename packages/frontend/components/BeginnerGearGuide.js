@@ -1091,6 +1091,11 @@ const styles = {
     fontWeight: '700',
     marginBottom: 16,
   },
+  sectionDescription: {
+    fontSize: 15,
+    lineHeight: 22,
+    marginBottom: 16,
+  },
   sectionContent: {
     fontSize: 15,
     lineHeight: 24,

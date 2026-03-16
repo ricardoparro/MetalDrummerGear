@@ -57,7 +57,7 @@ export const BEGINNER_GUIDES = {
       'beginner double bass drums',
       'metal drumming equipment'
     ],
-    ogImage: '/images/guides/beginner-metal-setup.webp',
+    ogImage: '/api/og/guide?type=beginner',
     datePublished: '2026-03-13',
     dateModified: '2026-03-13',
     author: 'MetalForge Editorial',
@@ -819,6 +819,78 @@ This guide is specifically designed for beginners with a total budget around $1,
             { item: 'Tama Iron Cobra 600 Pedal', cost: 100 },
             { item: 'Evans/Remo premium heads', cost: 60 },
             { item: 'Vic Firth sticks, accessories', cost: 40 }
+          ]
+        }
+      ]
+    },
+
+    // Recommended Videos section (Issue #714)
+    videos: {
+      title: "Essential Videos for Beginners",
+      description: "Learn from the best with these curated video resources covering setup, technique, and gear demos.",
+      categories: [
+        {
+          title: "Kit Setup & Ergonomics",
+          videos: [
+            {
+              title: "How to Set Up Your Drum Kit for Speed & Comfort",
+              creator: "Drumeo",
+              youtubeId: "pFkKy4gLnvs",
+              duration: "12:34",
+              description: "Proper ergonomic setup for maximum efficiency"
+            },
+            {
+              title: "Drum Tuning Basics for Rock & Metal",
+              creator: "Sounds Like A Drum",
+              youtubeId: "ISdMNBw9-ok",
+              duration: "15:22",
+              description: "Getting that punchy, controlled metal sound"
+            }
+          ]
+        },
+        {
+          title: "Beginner Metal Techniques",
+          videos: [
+            {
+              title: "Metal Drumming for Beginners - Essential Beats",
+              creator: "Drum Beats Online",
+              youtubeId: "Qr-GZHLD0dw",
+              duration: "18:45",
+              description: "Core metal beats every drummer should know"
+            },
+            {
+              title: "Double Bass Drum Basics",
+              creator: "DrumeoTips",
+              youtubeId: "kIv-U4eFQeQ",
+              duration: "10:12",
+              description: "Starting your double bass journey the right way"
+            },
+            {
+              title: "How to Play Blast Beats",
+              creator: "66Samus",
+              youtubeId: "BNk9BIbYqxM",
+              duration: "8:34",
+              description: "Introduction to extreme metal drumming"
+            }
+          ]
+        },
+        {
+          title: "Gear Reviews & Demos",
+          videos: [
+            {
+              title: "Pearl Export EXX Review",
+              creator: "rdavidr",
+              youtubeId: "pDwvB4V7M6M",
+              duration: "14:56",
+              description: "In-depth look at the most popular starter kit"
+            },
+            {
+              title: "Budget Cymbal Comparison",
+              creator: "EMC Productions",
+              youtubeId: "1i_kIvvXi-k",
+              duration: "22:18",
+              description: "Comparing Zildjian, Sabian, and Meinl budget lines"
+            }
           ]
         }
       ]

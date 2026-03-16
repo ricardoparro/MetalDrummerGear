@@ -3988,6 +3988,344 @@ Scott Travis proved that age wasn't catching up with metal — metal was just ge
 
 🔥 *"Faster than a bullet, terrifying scream — Painkiller!"* 🔥`
     }
+  },
+
+  // Fear Inoculum - Tool (Danny Carey) - Added 2026-03-16
+  'fear-inoculum-drum-setup': {
+    slug: 'fear-inoculum-drum-setup',
+    albumTitle: 'Fear Inoculum',
+    artist: 'Tool',
+    drummer: 'Danny Carey',
+    drummerId: 14,
+    year: 2019,
+    genre: 'Progressive Metal',
+    label: 'RCA Records / Tool Dissectional',
+    studio: 'Tool Compound, Los Angeles',
+    producer: 'Tool',
+    isAlbumArticle: true,
+    datePublished: '2026-03-16',
+    dateModified: '2026-03-16',
+    author: 'MetalForge Editorial',
+    title: "Fear Inoculum Drum Setup: Danny Carey's Grammy-Winning Sound",
+    description: "Complete breakdown of Danny Carey's drum gear on Tool's Fear Inoculum. Discover the Sonor SQ2 kit, Mandala pads, Paiste cymbals, and the recording techniques behind the viral 'Pneuma' performance.",
+    seoKeywords: ['fear inoculum drums', 'danny carey drum setup', 'tool fear inoculum gear', 'pneuma drums', 'danny carey kit 2019', 'tool drum sound'],
+    ogImage: '/images/albums/fear-inoculum-drums.webp',
+    intro: {
+      title: '13 Years in the Making',
+      content: `On August 30, 2019, Tool released "Fear Inoculum" — their first album in 13 years. The wait was worth it. Debuting at #1 on the Billboard 200 and winning the Grammy for Best Metal Performance, the album showcased Danny Carey at the absolute peak of his powers.
+
+The extended absence wasn't due to creative drought. Legal battles with their former label consumed years, while the band meticulously crafted an album that would justify the extraordinary anticipation. For Danny Carey, this meant pushing his already-legendary drumming into new territory — longer form compositions, more intricate polyrhythms, and deeper integration of electronic elements.
+
+What emerged was Tool's most ambitious work. Songs averaging over 10 minutes each. Time signatures that defy easy analysis. Performances that blend acoustic drum power with electronic textures in ways no metal band had attempted. And at the center of it all, Carey's massive Sonor kit and Mandala pad array, creating sounds that are uniquely Tool.
+
+The "Pneuma" drum cam video, released alongside the album, went viral with over 25 million views — not because of flashy showmanship, but because viewers recognized they were witnessing a master at work. This article breaks down every piece of gear Danny used to create this Grammy-winning sound.`,
+      keyPoints: [
+        'First Tool album in 13 years — won Grammy for Best Metal Performance',
+        'Self-produced at the Tool Compound in Los Angeles',
+        'Features extensive Mandala pad integration alongside acoustic drums',
+        'The "Pneuma" drum cam became one of the most-watched drum videos ever'
+      ]
+    },
+    drumKit: {
+      title: "The Cathedral of Sound: Danny's Sonor SQ2 Setup",
+      brand: 'Sonor',
+      model: 'Sonor SQ2 Heavy Beech',
+      finish: 'Custom High Gloss with Sacred Geometry Inlays',
+      config: {
+        bassdrums: ['24" x 18" Bass Drum'],
+        toms: ['8" x 7" Rack Tom', '10" x 8" Rack Tom', '12" x 9" Rack Tom', '13" x 10" Rack Tom', '14" x 12" Rack Tom'],
+        floorToms: ['16" x 16" Floor Tom', '18" x 17" Floor Tom'],
+        shells: 'Heavy Beech shells for maximum projection and warmth'
+      },
+      description: `Danny Carey's Sonor SQ2 Heavy Beech kit for Fear Inoculum represents decades of refinement. The Heavy Beech shells — denser and heavier than standard beech — provide the deep, warm tone with excellent projection that has defined Tool's sound since the early 2000s.
+
+The kit's configuration is massive by any standard: seven toms plus an 18" floor tom, giving Danny an enormous melodic range for his complex fills and patterns. Unlike drummers who add toms for show, Carey uses every inch of his kit purposefully. His fills flow around the drums like water, the tuning consistent and musical.
+
+The 24" x 18" bass drum provides the deep, powerful foundation essential to Tool's sound. Its larger depth allows for more air movement, creating a subsonic presence that you feel as much as hear. Combined with the Sonor Giant Step pedal, it delivers the precise, musical kick drum sound that anchors even the most complex polyrhythmic passages.
+
+Custom sacred geometry inlays on the shells reflect Danny's well-documented interest in metaphysical concepts. These aren't just decorative — they represent his philosophical approach to drumming as a spiritual practice. The Fibonacci sequence, which appears in Tool's music, is referenced throughout the kit's design.`,
+      notes: [
+        'Heavy Beech shells provide warmth with maximum projection',
+        'Seven toms plus floor tom for extensive melodic range',
+        'Custom sacred geometry inlays reflect his philosophical approach',
+        'This exact configuration used throughout Fear Inoculum sessions'
+      ],
+      estimatedValue: '$15,000-20,000 (SQ2 Heavy Beech custom configuration)'
+    },
+    snare: {
+      title: 'The Bronze Voice',
+      brand: 'Sonor',
+      model: 'Sonor Danny Carey Signature Bronze Snare',
+      size: '14" x 8"',
+      shell: 'Cast Bronze',
+      description: `The Sonor Danny Carey Signature snare drum is a 14" x 8" cast bronze beast that has become one of the most sought-after signature snares in metal. The bronze shell produces a dark, complex tone with explosive attack — perfect for cutting through Tool's dense arrangements while maintaining musical warmth.
+
+At 8" deep, this snare has more body and projection than standard snares. The bronze material provides overtones that sing alongside the fundamental note, giving Danny's snare hits a dimensional quality that single-material shells can't match.
+
+For Fear Inoculum, Danny tuned the snare medium-high to achieve the cutting crack heard throughout the album. The 42-strand snare wires respond sensitively to ghost notes while snapping to attention on full backbeats. This sensitivity is crucial for Danny's dynamic playing style — he can whisper with brush-like ghost notes and thunder with full power rimshots on the same instrument.
+
+The die-cast hoops add further tonal complexity and durability. Danny's rimshots are part of his signature sound, and the bronze shell combined with die-cast hoops creates the distinctive "crack" that announces every big moment on the album.`,
+      tuningSetting: 'Medium-high tension for cut and projection',
+      heads: 'Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$1,800-2,000 (Danny Carey Signature Bronze)'
+    },
+    cymbals: {
+      title: 'Paiste Signature Series: Dark and Complex',
+      brand: 'Paiste',
+      series: 'Paiste Signature',
+      setup: [
+        { type: 'Hi-Hats', model: 'Paiste Signature 15" Sound Edge Hi-Hats', position: 'Left side', notes: 'Larger hi-hats for darker tone and more wash' },
+        { type: 'Crash', model: 'Paiste Signature 17" Fast Crash', position: 'Left of hi-hats', notes: 'Quick, explosive crash for accents' },
+        { type: 'Crash', model: 'Paiste Signature 18" Power Crash', position: 'Left side, higher', notes: 'Powerful crash with sustain' },
+        { type: 'Crash', model: 'Paiste Signature 19" Power Crash', position: 'Right of rack toms', notes: 'Primary crash position' },
+        { type: 'Crash', model: 'Paiste Signature 20" Power Crash', position: 'Right side, higher', notes: 'Full-bodied crash for bigger moments' },
+        { type: 'Ride', model: 'Paiste Signature 22" Dry Heavy Ride', position: 'Far right', notes: 'Articulate ride with controlled wash' },
+        { type: 'China', model: 'Paiste Signature 18" Thin China', position: 'Above floor tom', notes: 'Explosive accents, Tool signature sound' },
+        { type: 'China', model: 'Paiste Signature 20" Thin China', position: 'High, right', notes: 'Larger China for bigger impacts' }
+      ],
+      description: `Danny Carey's cymbal setup for Fear Inoculum centers on the Paiste Signature series — cymbals known for their dark, complex tone and excellent projection. Unlike brighter cymbal lines, the Signature series produces a warm, musical quality that blends with Tool's progressive arrangements.
+
+The 15" Sound Edge hi-hats are larger than typical metal hi-hats, providing a darker tone with more wash. The serrated bottom cymbal (Sound Edge design) maintains articulation even when played with wash, essential for Danny's intricate hi-hat patterns. He uses them for everything from tight 16th-note patterns to open splashes.
+
+Multiple crash cymbals (17" through 20") give Danny dynamic options for different song sections. The Fast Crash is quick and explosive, the Power Crashes provide sustain and body. This variety allows for nuanced accenting throughout Tool's lengthy compositions.
+
+The 22" Dry Heavy Ride is crucial to Danny's sound. "Dry" means controlled overtones and wash, allowing clear articulation even during complex patterns. "Heavy" provides the mass and projection needed to cut through Tool's guitar wall. Danny uses the bell extensively for melodic punctuation.
+
+The China cymbals are essential to Tool's signature sound. The thin, trashy explosions punctuate key moments and transitions. Danny places them high for dramatic visual and sonic impact.`,
+      estimatedValue: '$4,000-5,000 total (Paiste Signature series complete setup)'
+    },
+    hardware: {
+      title: 'The Foundation: Hardware and Electronics',
+      items: [
+        {
+          type: 'Bass Drum Pedal',
+          brand: 'Sonor',
+          model: 'Sonor Giant Step Twin Effect Double Pedal',
+          notes: 'Unique design with direct-drive feel and chain-drive durability',
+          description: 'The Giant Step pedal features an unusual "twin effect" design that combines the smoothness of direct-drive with the durability of chain-drive. Danny chose this pedal for its responsiveness during polyrhythmic passages.'
+        },
+        {
+          type: 'Electronic Pads',
+          brand: 'Mandala',
+          model: 'Mandala Drum Pads (Multiple)',
+          notes: 'Essential to Fear Inoculum\'s sound — triggers samples and melodic elements',
+          description: 'The Mandala pads are arguably the most distinctive element of Danny\'s setup. These pressure-sensitive electronic pads allow him to trigger samples, play melodic phrases, and add textures impossible with acoustic drums alone. On Fear Inoculum, they\'re integral to songs like "Pneuma" and "7empest."'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Sonor',
+          model: 'Sonor Perfect Balance Hi-Hat Stand',
+          notes: 'Designed for smooth, precise hi-hat control'
+        },
+        {
+          type: 'Throne',
+          brand: 'Roc-N-Soc',
+          model: 'Roc-N-Soc Nitro Throne (extended height)',
+          notes: 'Danny\'s 6\'5" height requires custom throne positioning'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth Danny Carey Signature',
+          notes: 'Larger diameter for power, extended reach'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke P3 Clear with Falam Slam patch',
+        toms: 'Remo Emperor Clear (batter), Ambassador Clear (resonant)',
+        snare: 'Remo Coated Ambassador (batter), Ambassador Snare Side (resonant)'
+      }
+    },
+    recordingTechniques: {
+      title: 'The Tool Compound Sessions',
+      content: `Fear Inoculum was recorded at the Tool Compound — the band's private studio complex in Los Angeles. This facility, built specifically for Tool's needs, allowed unlimited time for experimentation and the meticulous approach that defines the band's work.
+
+**Studio Configuration:**
+The Compound's drum room was designed around Danny's kit. The room dimensions and acoustic treatment were tailored to capture his sound — warm but punchy, massive but controlled. Unlike commercial studios where bands must compromise, this space exists solely for Tool's sonic vision.
+
+**Microphone Setup:**
+- Kick drum: AKG D112 inside, Neumann U47 FET outside
+- Snare: Shure SM57 top, AKG C451 bottom, Neumann KM84 side
+- Toms: Sennheiser MD421 on each tom, plus Neumann KM84 overheads
+- Hi-hat: AKG C451
+- Overheads: Two Neumann U87s in spaced configuration
+- Room mics: Multiple pairs at varying distances for ambience control
+- Mandala pads: Direct DI plus amp simulation
+
+**The Mandala Integration:**
+Recording the Mandala pads alongside the acoustic kit required careful planning. The electronic signals were tracked separately for maximum mix flexibility, but Danny performed with both systems simultaneously. This preserved the interplay between acoustic and electronic elements that defines Fear Inoculum's unique sound.
+
+**Self-Production Philosophy:**
+With no outside producer, Tool controlled every aspect of the recording. Danny could spend as much time as needed perfecting takes, experimenting with sounds, and finding the exact performances that matched the band's vision. Some tracks required numerous full takes; others captured magic on early attempts.
+
+**Mix Approach:**
+Joe Barresi mixed the album, working closely with the band to preserve the live, organic feel while maintaining modern clarity. The drums sit prominently in the mix — not for ego, but because the polyrhythmic patterns require clarity for the listener to follow. Compression is minimal, allowing Danny's natural dynamics to shine.`,
+      keyTechniques: [
+        'Custom studio designed around Danny\'s massive kit',
+        'Multiple room mic pairs for ambience control',
+        'Simultaneous acoustic and electronic performance tracking',
+        'Self-production allowed unlimited time for perfection',
+        'Minimal compression preserved natural dynamics'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'Fear Inoculum',
+        bpm: '80-120 (variable)',
+        signature: '7/8, 21/16, and variations',
+        highlights: [
+          'Title track sets the album\'s expansive tone',
+          'Complex time signature shifts throughout 10+ minutes',
+          'Mandala pads create ethereal textures',
+          'Building intensity over the epic arrangement'
+        ],
+        gearNotes: 'The Mandala pads are essential here, creating the electronic textures that weave through the acoustic drums. The 15" hi-hats provide the dark wash for the building sections.'
+      },
+      {
+        track: 'Pneuma',
+        bpm: '77',
+        signature: '4/4 with complex subdivisions',
+        highlights: [
+          'The viral drum cam track — 25M+ views',
+          'Demonstrates Danny\'s polyrhythmic mastery',
+          'Mandala pad integration at its finest',
+          'Breathing patterns in the drumming concept'
+        ],
+        gearNotes: 'This track showcases the full kit. The bronze snare provides the crack during accents, while the Mandala pads add melodic counterpoint. The drum cam video shows Danny\'s technique in detail.'
+      },
+      {
+        track: 'Invincible',
+        bpm: '88',
+        signature: '7/8, 4/4 variations',
+        highlights: [
+          'Over 12 minutes of dynamic drumming',
+          'Showcases Danny\'s restraint and power',
+          'Complex fills serve the arrangement',
+          'Building crescendo demonstrates kit range'
+        ],
+        gearNotes: 'The full tom array is utilized for melodic fills. The 22" Dry Heavy Ride provides articulation during the intricate patterns.'
+      },
+      {
+        track: 'Descending',
+        bpm: '78-120',
+        signature: 'Various, including 11/8',
+        highlights: [
+          '13+ minutes of progressive evolution',
+          'Atmospheric opening builds to crushing finale',
+          'Polyrhythms layer throughout',
+          'Dynamic range from whisper to thunder'
+        ],
+        gearNotes: 'Shows the kit\'s full dynamic capability. Ghost notes on the bronze snare are as important as the explosive crashes.'
+      },
+      {
+        track: '7empest',
+        bpm: '130',
+        signature: '7/4 foundation with variations',
+        highlights: [
+          '15+ minutes — Tool\'s longest studio track',
+          'Most aggressive song on the album',
+          'Complex coordination throughout',
+          'Stamina test even for Danny'
+        ],
+        gearNotes: 'The Giant Step pedals prove their worth on this stamina-demanding track. China cymbals provide the aggressive accents during heavier sections.'
+      },
+      {
+        track: 'Culling Voices',
+        bpm: '70-110',
+        signature: '4/4 with feel variations',
+        highlights: [
+          'More restrained, emotional playing',
+          'Builds from atmospheric to powerful',
+          'Shows Danny\'s melodic sensibility',
+          'Proves heaviness isn\'t only about volume'
+        ],
+        gearNotes: 'The 18" floor tom provides the emotional weight. Lighter cymbal work in verses contrasts with powerful crescendos.'
+      }
+    ],
+    evolution: {
+      title: 'From 10,000 Days to Fear Inoculum: Danny\'s Evolution',
+      content: `The 13 years between 10,000 Days and Fear Inoculum allowed Danny Carey to further refine both his technique and his setup. While the core remained — Sonor SQ2 drums, Paiste cymbals — significant developments shaped the Fear Inoculum sound.
+
+**Mandala Integration:**
+The most significant evolution was the deeper integration of Mandala electronic pads. While Danny had used electronic elements previously, Fear Inoculum made them essential to the compositions. The pads aren't gimmicks — they're instruments in their own right, requiring their own technique and musicality.
+
+**Kit Refinement:**
+The SQ2 Heavy Beech configuration was optimized over years of touring and recording. Tom sizes, placement, and tuning were perfected for Danny's playing style and Tool's sonic requirements. The Fear Inoculum setup represents decades of fine-tuning.
+
+**Physical Adaptation:**
+At 58 during the Fear Inoculum sessions, Danny adapted his playing to maintain power while reducing physical stress. His technique became even more efficient, achieving the same impact with less force. This efficiency is audible in the album's clarity and control.
+
+**Philosophical Deepening:**
+Danny's interest in sacred geometry, metaphysics, and the mathematical basis of music informed the album's composition. The drumming isn't just technically accomplished — it's conceptually rich, with patterns reflecting mathematical concepts like the Fibonacci sequence.
+
+**Gear Comparison:**`,
+      thenVsNow: [
+        { category: 'Kit', then: 'Sonor SQ2 Heavy Beech (similar but smaller config)', now: 'Sonor SQ2 Heavy Beech (expanded, refined)' },
+        { category: 'Snare', then: 'Sonor Danny Carey Signature Bronze', now: 'Sonor Danny Carey Signature Bronze (same, perfected)' },
+        { category: 'Cymbals', then: 'Paiste Signature Series', now: 'Paiste Signature Series (expanded selection)' },
+        { category: 'Electronics', then: 'Mandala Pads (limited use)', now: 'Mandala Pads (integral to compositions)' },
+        { category: 'Pedals', then: 'Sonor Giant Step', now: 'Sonor Giant Step Twin Effect (evolved design)' }
+      ]
+    },
+    technique: {
+      title: 'The Science of Soul: Danny\'s Technical Philosophy',
+      content: `Danny Carey's drumming on Fear Inoculum represents the culmination of decades of study, practice, and philosophical exploration. His approach goes beyond mere technical proficiency — it's an integrated system of music, mathematics, and metaphysics.
+
+**Polyrhythmic Foundation:**
+Danny's polyrhythmic approach involves layering different time signatures simultaneously. On Fear Inoculum, his feet often play patterns in one time signature while his hands play another. The effect is hypnotic — listeners feel the groove without necessarily understanding its complexity.
+
+The key is that these polyrhythms serve the music. They create tension and release, guide the arrangement, and provide the rhythmic foundation for Tool's extended compositions. They're not exercises — they're expressions.
+
+**Dynamic Mastery:**
+Unlike drummers who play at one volume, Danny's playing breathes. Ghost notes whisper. Accents explode. The space between notes is as important as the notes themselves. This dynamic range is especially apparent on Fear Inoculum's longer tracks, where the intensity ebbs and flows over 10-15 minutes.
+
+**Electronic Integration:**
+The Mandala pads require a different technique than acoustic drums. Danny treats them as melodic instruments, using pressure sensitivity to create expression impossible on a standard drum trigger. His fills flow between acoustic and electronic elements seamlessly.
+
+**Physical Efficiency:**
+At any age, playing Fear Inoculum-level material requires efficient technique. Danny minimizes unnecessary motion, lets the drums do the work, and paces himself through extended performances. His posture and grip reflect decades of refinement.
+
+**Practice Philosophy:**
+Danny still practices daily. He maintains his jazz chops through Volto! and other side projects. He studies tabla and other world percussion traditions. This continual learning keeps his playing fresh even after 30+ years with Tool.`,
+      keyTechniques: [
+        'Layered polyrhythms serving musical purposes',
+        'Extreme dynamic range from whisper to thunder',
+        'Seamless integration of acoustic and electronic playing',
+        'Physically efficient technique for demanding performances',
+        'Continual practice and study maintaining freshness'
+      ]
+    },
+    videos: [
+      { youtubeId: 'FssULNGSZIA', title: 'Pneuma - Official Drum Cam Video', description: 'The viral 25M+ view drum cam showcasing Danny\'s technique' },
+      { youtubeId: 'q7DfQMPmJRI', title: 'Fear Inoculum - Live 2019', description: 'Full song performance from the Fear Inoculum tour' },
+      { youtubeId: 'Y7JG63IuaWs', title: 'Invincible - Live Performance', description: 'Extended live version showing full kit utilization' },
+      { youtubeId: 'EgDwkSlThLo', title: '7empest - Live (Partial)', description: 'Footage of Tool\'s longest song performed live' }
+    ],
+    relatedAlbums: ['lateralus-drum-setup', 'obzen-drum-setup'],
+    relatedDrummers: [5, 15, 17], // Tomas Haake, Mario Duplantier, Mike Portnoy
+    relatedArticles: ['progressive-metal-drummers', 'best-electronic-drum-pads'],
+    conclusion: {
+      title: 'Worth the Wait',
+      content: `Fear Inoculum justified 13 years of anticipation. Danny Carey's drumming — the synthesis of technical mastery, musical sensitivity, and philosophical depth — anchors an album that stands among Tool's finest achievements.
+
+The Grammy win for Best Metal Performance validated what fans already knew: this was something special. Not because it was the fastest or the most technically demanding (though it's both challenging and precise), but because it achieved something rare in modern metal — genuine artistic ambition fully realized.
+
+For drummers studying Fear Inoculum, the lessons go beyond gear and technique:
+
+- **Serve the music first**: Danny's complexity always enhances the songs, never overwhelms them
+- **Embrace technology**: The Mandala pads aren't gimmicks — they expand what's possible
+- **Take time**: 13 years between albums is extreme, but the quality justifies the wait
+- **Never stop learning**: At 58, Danny was still pushing his playing to new levels
+- **Philosophy matters**: The mathematical and metaphysical concepts inform the music's depth
+
+The "Pneuma" drum cam didn't go viral because of its technical difficulty alone. It went viral because millions of people recognized what mastery looks like — not showing off, but expressing something profound through the instrument.
+
+Danny Carey proved that progressive metal drumming could be both intellectually stimulating and emotionally powerful. Fear Inoculum isn't just an album — it's a statement about what's possible when ambition meets ability.
+
+Forty years behind the kit, and Danny's still got more to say. That's the real lesson of Fear Inoculum.
+
+🌀 *"Exhale. Expel. Bless this immunity."* 🌀`
+    }
   }
 };
 

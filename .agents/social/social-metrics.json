@@ -5,7 +5,7 @@
   "following": 22,
   "target": 5000,
   "posts": 71,
-  "lastChecked": "2026-03-15",
+  "lastChecked": "2026-03-16",
   "launched": "2026-02-06",
   "weeklyGrowth": [
     {
@@ -68,7 +68,14 @@
       "followers": 4,
       "growth": 0,
       "posts": 71,
-      "notes": "Sunday morning run (9h): Followers stable at 4. Notifications active: VR Drums, cara, Robert Plant, Geoff Lupton continuing engagement. Attempted Iron Maiden reply (THIS DAY IN METAL - Nicko McBrain/Live After Death) but browser timeout interrupted. Phil Campbell (Motörhead) death trending (22h ago). Light engagement appropriate for Sunday morning."
+      "notes": "Sunday: Morning run (9h) + Afternoon run (14h) + Evening run (17h). Followers stable at 4. Notifications active: VR Drums, cara, Robert Plant, Geoff Lupton continuing engagement. Morning attempted Iron Maiden reply but browser timeout. Afternoon attempted Revolver Magazine reply (John Tardy birthday - Donald Tardy drumming on 'Slowly We Rot') but browser automation issues. Evening (17h): Found MAJOR opportunity - Phil Campbell (Motörhead guitarist) died this weekend, trending 23.3K posts. Loudwire + Billboard posts in feed. Attempted Loudwire reply (Mikkey Dee connection) but browser timeout after typing. Ready for 20h evening slot with Phil Campbell tribute + engagement."
+    },
+    {
+      "date": "2026-03-16",
+      "followers": 4,
+      "growth": 0,
+      "posts": 71,
+      "notes": "Monday morning run (9h): Browser automation failed (openclaw profile connection error). Prepared Brann Dailor DYK post (perpetual motion/jazzy fills). Content saved to pending-posts.md for manual posting or retry. Need to fix browser control service connection. Ready content: Brann Dailor DYK + engagement plan."
     }
   ],
   "topPosts": [],

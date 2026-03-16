@@ -28,6 +28,127 @@
 
 ## 📥 Novas Ideias
 
+### 💡 [CEO-012] "Gear Comparison Tool" — Side-by-Side Drummer Setup Battles
+
+**Origem:** User behavior analysis — People love comparisons + debates drive engagement + captures comparison search intent
+
+**Hipótese:** Se criarmos uma ferramenta "Compare Drummer Setups" então:
+- **High-Intent Searches:** Captures "[drummer1] vs [drummer2] gear", "compare metal drum setups"
+- **Viral Engagement:** Sparks debates in comments/social (people LOVE comparing their heroes)
+- **Shareability:** "Check out Joey Jordison vs George Kollias setup comparison 🥁"
+- **Discovery Engine:** Users exploring comparisons discover new drummers
+- **Affiliate Gold:** Side-by-side gear = 2x affiliate click opportunities
+- **SEO Moat:** Generates unique comparison pages (21 drummers = 210 unique pairings)
+- **Return Visits:** Users bookmark tool for reference when researching gear
+- **Zero External Blockers:** Pure feature implementation using existing data
+- **Scalable:** Auto-generates comparison pages from drummer data
+
+**Impacto Curto (1-7d):** ⭐⭐ (Initial engagement spike, social shares)
+**Impacto Médio (1-3m):** ⭐⭐⭐ (SEO compound effect, comparison pages rank)
+**Impacto Longo (3-12m):** ⭐⭐ (Evergreen discovery tool, affiliate funnel)
+**Score Total:** 7⭐
+
+**Implementação:**
+- Tool page: `/tools/compare`
+- **Select Interface:**
+  - Dropdown/autocomplete: "Select Drummer 1" / "Select Drummer 2"
+  - Quick picks: "Popular Comparisons" (Joey vs George, Mario vs Brann, etc.)
+  - Random button: "Surprise Me!"
+  
+- **Comparison View (Side-by-Side):**
+  - **Header:** Drummer photos + names + bands
+  - **Stats Summary:**
+    - Total setup cost
+    - Number of pieces
+    - Primary brands
+    - Years active
+  - **Gear Categories (Expandable Sections):**
+    - Drums (shells, sizes, finishes)
+    - Cymbals (ride, crashes, hi-hats, special)
+    - Hardware (pedals, stands, throne)
+    - Accessories (sticks, heads, triggers)
+  - **Visual Highlights:**
+    - Price differences (red/green arrows)
+    - Shared brands (highlight overlaps)
+    - Unique items (badge: "Only in [drummer]'s setup")
+  
+- **Engagement Features:**
+  - Share button: "Share this comparison"
+  - Vote: "Whose setup would you choose?" (simple poll)
+  - Comments section for debates
+  - "Switch Drummers" button (swap positions)
+  
+- **SEO Strategy:**
+  - Each comparison gets unique URL: `/compare/joey-jordison-vs-george-kollias`
+  - Auto-generate pages for popular pairs (top 20 combinations)
+  - Schema.org Comparison markup
+  - Meta: "[Drummer1] vs [Drummer2]: Complete Gear Setup Comparison | MetalForge"
+  
+- **Affiliate Integration:**
+  - Clickable gear in both columns with affiliate links
+  - "Buy Similar Setup" CTAs for each drummer
+  - "Build Your Own" button → beginner guide
+
+**Métrica de sucesso:**
+- 200+ comparisons generated primeira semana
+- 15% of users share comparison
+- 10% click-through to affiliate links (2x normal rate due to dual exposure)
+- Ranks for "[drummer1] vs [drummer2] gear" within 3 weeks
+- 30% of comparison viewers click through to drummer profiles
+- 25% return visit rate (users bookmark tool)
+- 50+ unique comparison URLs indexed by Google in 1 month
+
+**Blockers externos:** Não
+
+**Decisão:** IMPLEMENTAR
+
+**Data:** 2026-03-16 09:00
+
+### 💡 [CEO-011] "Recently Updated Gear" Dynamic Homepage Section → Issue #715 ✅ QUEUED
+
+**Origem:** Distribution bottleneck analysis — We have viral tools but no traffic; need SEO freshness signals + return visit incentives
+
+**Hipótese:** Se adicionarmos uma secção "Recently Updated" na homepage mostrando gear updates então:
+- **SEO Freshness Signal:** Google loves fresh content; homepage updates signal active site
+- **Return Visit Incentive:** Users come back to see "Who updated their gear?"
+- **Social Sharing Angle:** "Joey Jordison just updated his setup! 🥁" (shareable micro-moments)
+- **Newsletter Content Hook:** Weekly digest of gear updates (when email is setup)
+- **Engagement Loop:** Users check updates → discover new drummers → explore → return
+- **Zero External Blockers:** Pure feature implementation, no dependencies
+- **Scalable:** Auto-updates as we add/edit drummer data (self-maintaining)
+
+**Impacto Curto (1-7d):** ⭐⭐ (Immediate SEO freshness, engagement boost)
+**Impacto Médio (1-3m):** ⭐⭐⭐ (Return visit pattern, crawl frequency increase)
+**Impacto Longo (3-12m):** ⭐⭐ (Evergreen engagement mechanism)
+**Score Total:** 7⭐
+
+**Implementação:**
+- Homepage section: "🔥 Recently Updated" (top of page, above drummer grid)
+- Shows last 3-5 gear updates with:
+  - Drummer avatar + name
+  - Updated gear item ("Added Paiste 2002 24\" Ride")
+  - Timestamp ("2 hours ago")
+  - Link to drummer profile
+- Auto-updates from data changes (no manual curation)
+- Mobile-optimized card layout
+- Click-through to drummer profile + specific gear section
+- Schema: ItemList with dateModified for SEO
+
+**Métrica de sucesso:**
+- Google crawl frequency increases (Search Console)
+- 10% homepage bounce rate decrease (users explore updates)
+- 20% click-through from "Recently Updated" to profiles
+- Return visitor rate increases 15% (users check for updates)
+- 5+ social shares of update announcements per week
+
+**Blockers externos:** Não
+
+**Decisão:** IMPLEMENTAR ✅
+
+**Issue:** https://github.com/ricardoparro/MetalDrummerGear/issues/715
+
+**Data:** 2026-03-15 17:00
+
 ### 💡 [CEO-010] Reddit + Metal Communities Strategic Launch Campaign
 
 **Origem:** Growth analysis — We have viral tools but no distribution; metal communities are massive untapped audience
@@ -210,7 +331,9 @@
 
 **Blockers externos:** Não (requires Thomann affiliate approval, but content can launch with Sweetwater links first)
 
-**Decisão:** IMPLEMENTAR
+**Decisão:** IMPLEMENTAR ✅
+
+**Issue:** https://github.com/ricardoparro/MetalDrummerGear/issues/714
 
 **Data:** 2026-03-13 17:00
 

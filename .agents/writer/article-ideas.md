@@ -202,7 +202,7 @@
 
 ---
 
-### 💡 [IDEA-013] Fear Inoculum Drum Setup: Danny Carey's Grammy-Winning Sound
+### ✍️ [IDEA-013] Fear Inoculum Drum Setup: Danny Carey's Grammy-Winning Sound
 
 **Type:** album-breakdown
 **SEO Keywords:** fear inoculum drums, danny carey gear 2019, tool drum sound, pneuma drums
@@ -218,13 +218,13 @@
 5. Recording at the Tool Compound
 6. Gear Evolution from 10,000 Days
 
-**Status:** IDEA
+**Status:** WRITING (2026-03-16)
 
 ---
 
 ## ✍️ In Progress
 
-*None currently*
+- [IDEA-013] Fear Inoculum Drum Setup — Writing started 2026-03-16 09:05
 
 ---
 
@@ -375,6 +375,66 @@
 
 ---
 
+### 💡 [IDEA-020] Lateralus Drum Setup: Danny Carey's Progressive Masterpiece
+
+**Type:** album-breakdown
+**SEO Keywords:** lateralus drums, danny carey lateralus gear, tool lateralus recording, schism drums
+**Search Volume:** Very High
+**Data Available:** Yes (drummerId: 14)
+**Priority:** 5
+
+**Outline:**
+1. Introduction — The Album That Defined Progressive Metal
+2. Sonor Setup for the 2001 Sessions
+3. "Schism" Breakdown (Grammy-winning track)
+4. Polyrhythmic Concepts & Sacred Geometry
+5. Recording at the Tool Compound
+6. Fibonacci Sequence in the Drumming
+
+**Status:** IDEA
+
+---
+
+### 💡 [IDEA-021] What's In Mike Portnoy's Reunion Kit: Dream Theater 2025
+
+**Type:** drummer-kit
+**SEO Keywords:** mike portnoy drum kit 2025, dream theater reunion drums, mike portnoy setup, portnoy tama kit
+**Search Volume:** VERY HIGH (Dream Theater reunion trending!)
+**Data Available:** Yes (research needed)
+**Priority:** 5
+
+**Outline:**
+1. Introduction — The Prodigal Son Returns
+2. Current Tama Starclassic Setup
+3. Signature Gear & Evolution Since Leaving DT
+4. How His Kit Changed Over 13 Years
+5. Comparing 2010 vs 2025 Setups
+6. Impact on the Progressive Metal Scene
+
+**Status:** IDEA
+
+---
+
+### 💡 [IDEA-022] What's In Brann Dailor's Mastodon Kit
+
+**Type:** drummer-kit
+**SEO Keywords:** brann dailor drum kit, mastodon drummer gear, brann dailor setup, mastodon drums
+**Search Volume:** High
+**Data Available:** Partial (needs research)
+**Priority:** 4
+
+**Outline:**
+1. Introduction — The Melodic Metal Drummer
+2. Current DW Drums Setup
+3. Signature Techniques (fills, tom work)
+4. How His Setup Evolved (Remission to Hushed and Grim)
+5. Vocal Drumming Challenges
+6. Where to Buy Similar Gear
+
+**Status:** IDEA
+
+---
+
 ## 💡 Idea Backlog (Lower Priority)
 
 - Best Sticks for Blast Beats
@@ -388,4 +448,4 @@
 
 ---
 
-*Last updated: 2026-03-15 17:10*
+*Last updated: 2026-03-16 09:05*

@@ -114,14 +114,16 @@ import {
   TRENDING_PERIOD,
 } from './data/trendingDrummers';
 
-// Gear News for /gear-news page (Issue #660)
+// Gear News for /gear-news page (Issue #660) + Recently Updated Gear (Issue #715)
 import {
   GEAR_NEWS,
   CHANGE_TYPES,
   getChangeTypeEmoji,
   getChangeTypeLabel,
   formatNewsDate,
+  formatRelativeTime,
   getRecentNews,
+  getRecentGearUpdates,
 } from './data/gearNews';
 
 // ==========================================
@@ -212,8 +214,15 @@ function preloadBeginnerGuide() {
   }
   return _beginnerGuideLoadPromise;
 }
-function isBeginnerGuidePage() { return _beginnerGuideModule?.isBeginnerGuidePage?.() ?? (typeof window !== 'undefined' && window.location.pathname.startsWith('/beginner-guide')); }
-function getBeginnerGuideSlugFromURL() { return _beginnerGuideModule?.getBeginnerGuideSlugFromURL?.() ?? (typeof window !== 'undefined' ? window.location.pathname.replace('/beginner-guide/', '') || 'index' : 'index'); }
+function isBeginnerGuidePage() { 
+  return _beginnerGuideModule?.isBeginnerGuidePage?.() ?? (typeof window !== 'undefined' && (
+    window.location.pathname === '/guides/beginner-metal-drummer-setup' || 
+    window.location.pathname === '/guides/beginner-metal-drummer-setup/' ||
+    window.location.pathname === '/beginner-setup' ||
+    window.location.pathname === '/beginner-setup/'
+  )); 
+}
+function getBeginnerGuideSlugFromURL() { return _beginnerGuideModule?.getBeginnerGuideSlugFromURL?.() ?? 'beginner-metal-drummer-setup'; }
 
 // Metal Drummer Name Generator (Issue #704) - Viral tool at /tools/metal-drummer-name-generator
 // Lazy loaded for performance optimization (#708) - 26KB component + 17KB data
@@ -1290,6 +1299,152 @@ function TrendingThisWeek({ theme, drummers, onSelectDrummer }) {
                   {trending.isNew ? '🆕 NEW' : `📈 ${changeText}`}
                 </Text>
               </View>
+            </TouchableOpacity>
+          );
+        })}
+      </ScrollView>
+    </View>
+  );
+}
+
+// ==========================================
+// RECENTLY UPDATED GEAR SECTION - Issue #715
+// Homepage dynamic section showing latest gear updates
+// SEO freshness signals + return visit engagement
+// ==========================================
+
+function RecentlyUpdatedGear({ theme, drummers, onSelectDrummer }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  
+  // Get recent gear updates from gearNews data
+  const recentUpdates = useMemo(() => getRecentGearUpdates(5), []);
+  
+  // Don't render if no recent updates
+  if (!recentUpdates || recentUpdates.length === 0) {
+    return null;
+  }
+  
+  // Find drummer image from drummers array
+  const getDrummerImage = (drummerId) => {
+    const drummer = drummers.find(d => d.id === drummerId);
+    return drummer?.image || drummer?.thumbnailUrl || null;
+  };
+  
+  // Track clicks for analytics (GA4 event: gear_update_click)
+  const handleUpdatePress = (update) => {
+    // Fire GA4 event
+    if (typeof window !== 'undefined' && window.gtag) {
+      window.gtag('event', 'gear_update_click', {
+        drummer_id: update.drummerId,
+        drummer_name: update.drummerName,
+        gear_name: update.gearName,
+        change_type: update.changeType,
+      });
+    }
+    onSelectDrummer(update.drummerId);
+  };
+  
+  // Generate action text: "{Drummer} added/updated/switched to {Gear}"
+  const getUpdateText = (update) => {
+    const action = update.changeLabel || 'updated';
+    return `${action} ${update.gearName}`;
+  };
+  
+  return (
+    <View 
+      style={[styles.recentlyUpdatedSection, { backgroundColor: 'transparent' }]}
+      accessibilityRole="region"
+      accessibilityLabel="Recently Updated Gear"
+    >
+      <View style={styles.recentlyUpdatedHeader}>
+        <Text style={[styles.recentlyUpdatedTitle, { color: theme.text }]} accessibilityRole="header">
+          🔥 Recently Updated
+        </Text>
+        <Text style={[styles.recentlyUpdatedSubtitle, { color: theme.secondaryText }]}>
+          Latest gear changes from the pros
+        </Text>
+      </View>
+      
+      {/* Schema.org ItemList for SEO (Issue #715) */}
+      {Platform.OS === 'web' && typeof document !== 'undefined' && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'ItemList',
+              'name': 'Recently Updated Drummer Gear',
+              'description': 'Latest gear updates from professional metal drummers',
+              'numberOfItems': recentUpdates.length,
+              'itemListElement': recentUpdates.map((update, index) => ({
+                '@type': 'ListItem',
+                'position': index + 1,
+                'item': {
+                  '@type': 'Product',
+                  'name': update.gearName,
+                  'description': `${update.drummerName} ${update.changeLabel} ${update.gearName}`,
+                  'dateModified': update.date,
+                },
+              })),
+            }),
+          }}
+        />
+      )}
+      
+      <ScrollView
+        horizontal
+        showsHorizontalScrollIndicator={false}
+        contentContainerStyle={styles.recentlyUpdatedScroll}
+      >
+        {recentUpdates.map((update) => {
+          const drummerImage = getDrummerImage(update.drummerId);
+          
+          return (
+            <TouchableOpacity
+              key={update.id}
+              style={[styles.recentlyUpdatedCard, { backgroundColor: theme.card, borderColor: theme.border }]}
+              onPress={() => handleUpdatePress(update)}
+              accessibilityRole="button"
+              accessibilityLabel={`View ${update.drummerName}'s profile - ${getUpdateText(update)}`}
+            >
+              {/* Change Type Badge */}
+              <View style={[styles.recentlyUpdatedBadge, { backgroundColor: theme.primary }]}>
+                <Text style={styles.recentlyUpdatedBadgeText}>{update.changeEmoji}</Text>
+              </View>
+              
+              {/* Drummer Avatar */}
+              <View style={styles.recentlyUpdatedImageContainer}>
+                {drummerImage ? (
+                  <ImageWithFallback
+                    source={{ uri: drummerImage }}
+                    style={styles.recentlyUpdatedImage}
+                    accessibilityLabel={`Photo of ${update.drummerName}`}
+                    width={60}
+                    height={60}
+                    imageContext="thumbnail"
+                  />
+                ) : (
+                  <View style={[styles.recentlyUpdatedImagePlaceholder, { backgroundColor: theme.border }]}>
+                    <Text style={styles.recentlyUpdatedImagePlaceholderText}>🥁</Text>
+                  </View>
+                )}
+              </View>
+              
+              {/* Drummer Name */}
+              <Text style={[styles.recentlyUpdatedName, { color: theme.text }]} numberOfLines={1}>
+                {update.drummerName}
+              </Text>
+              
+              {/* Update Text */}
+              <Text style={[styles.recentlyUpdatedAction, { color: theme.secondaryText }]} numberOfLines={2}>
+                {getUpdateText(update)}
+              </Text>
+              
+              {/* Timestamp */}
+              <Text style={[styles.recentlyUpdatedTime, { color: theme.secondaryText }]}>
+                {update.relativeTime}
+              </Text>
             </TouchableOpacity>
           );
         })}
@@ -15190,6 +15345,13 @@ function DrummerList({
           onViewAllSpotlights={onNavigateToSpotlights}
         />
       )}
+      {/* Recently Updated Gear Section (Issue #715) */}
+      {/* SEO freshness signals + engagement driver */}
+      <RecentlyUpdatedGear
+        theme={theme}
+        drummers={drummers}
+        onSelectDrummer={onSelectDrummer}
+      />
       {/* Trending This Week Section (Issue #671) */}
       <TrendingThisWeek
         theme={theme}
@@ -27637,6 +27799,94 @@ const styles = StyleSheet.create({
     fontSize: 11,
     fontWeight: '600',
   },
+  
+  // ==========================================
+  // Recently Updated Gear Section styles (Issue #715)
+  // ==========================================
+  recentlyUpdatedSection: {
+    marginVertical: 24,
+    paddingHorizontal: 0,
+  },
+  recentlyUpdatedHeader: {
+    paddingHorizontal: 20,
+    marginBottom: 16,
+  },
+  recentlyUpdatedTitle: {
+    fontSize: 24,
+    fontWeight: '700',
+    marginBottom: 4,
+  },
+  recentlyUpdatedSubtitle: {
+    fontSize: 14,
+  },
+  recentlyUpdatedScroll: {
+    paddingHorizontal: 20,
+    gap: 12,
+  },
+  recentlyUpdatedCard: {
+    width: 150,
+    padding: 12,
+    borderRadius: 12,
+    borderWidth: 1,
+    alignItems: 'center',
+    position: 'relative',
+  },
+  recentlyUpdatedBadge: {
+    position: 'absolute',
+    top: 8,
+    right: 8,
+    width: 28,
+    height: 28,
+    borderRadius: 14,
+    alignItems: 'center',
+    justifyContent: 'center',
+    zIndex: 1,
+  },
+  recentlyUpdatedBadgeText: {
+    fontSize: 14,
+  },
+  recentlyUpdatedImageContainer: {
+    width: 60,
+    height: 60,
+    borderRadius: 30,
+    overflow: 'hidden',
+    marginBottom: 10,
+    marginTop: 8,
+  },
+  recentlyUpdatedImage: {
+    width: 60,
+    height: 60,
+    borderRadius: 30,
+  },
+  recentlyUpdatedImagePlaceholder: {
+    width: 60,
+    height: 60,
+    borderRadius: 30,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  recentlyUpdatedImagePlaceholderText: {
+    fontSize: 24,
+  },
+  recentlyUpdatedName: {
+    fontSize: 14,
+    fontWeight: '600',
+    textAlign: 'center',
+    marginBottom: 4,
+  },
+  recentlyUpdatedAction: {
+    fontSize: 12,
+    textAlign: 'center',
+    marginBottom: 6,
+    lineHeight: 16,
+    minHeight: 32,
+  },
+  recentlyUpdatedTime: {
+    fontSize: 11,
+    textAlign: 'center',
+    fontStyle: 'italic',
+  },
+  
   // Top Lists Section styles
   topListsSection: {
     marginVertical: 24,

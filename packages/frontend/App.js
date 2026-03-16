@@ -212,8 +212,15 @@ function preloadBeginnerGuide() {
   }
   return _beginnerGuideLoadPromise;
 }
-function isBeginnerGuidePage() { return _beginnerGuideModule?.isBeginnerGuidePage?.() ?? (typeof window !== 'undefined' && window.location.pathname.startsWith('/beginner-guide')); }
-function getBeginnerGuideSlugFromURL() { return _beginnerGuideModule?.getBeginnerGuideSlugFromURL?.() ?? (typeof window !== 'undefined' ? window.location.pathname.replace('/beginner-guide/', '') || 'index' : 'index'); }
+function isBeginnerGuidePage() { 
+  return _beginnerGuideModule?.isBeginnerGuidePage?.() ?? (typeof window !== 'undefined' && (
+    window.location.pathname === '/guides/beginner-metal-drummer-setup' || 
+    window.location.pathname === '/guides/beginner-metal-drummer-setup/' ||
+    window.location.pathname === '/beginner-setup' ||
+    window.location.pathname === '/beginner-setup/'
+  )); 
+}
+function getBeginnerGuideSlugFromURL() { return _beginnerGuideModule?.getBeginnerGuideSlugFromURL?.() ?? 'beginner-metal-drummer-setup'; }
 
 // Metal Drummer Name Generator (Issue #704) - Viral tool at /tools/metal-drummer-name-generator
 // Lazy loaded for performance optimization (#708) - 26KB component + 17KB data

@@ -255,6 +255,7 @@
 | 2026-03-16 | Fear Inoculum Drum Setup: Danny Carey | /articles/fear-inoculum-drum-setup | - |
 | 2026-03-16 | Lateralus Drum Setup: Danny Carey | /articles/lateralus-drum-setup | - |
 | 2026-03-17 | What's In Mike Portnoy's Reunion Kit | /articles/whats-in-mike-portnoys-kit | - |
+| 2026-03-17 | Images and Words Drum Setup: Mike Portnoy | /articles/images-and-words-drum-setup | - |
 
 ---
 
@@ -458,7 +459,7 @@
 
 ---
 
-### 💡 [IDEA-024] Images and Words Drum Setup: Mike Portnoy's Breakthrough
+### ✅ [IDEA-024] Images and Words Drum Setup: Mike Portnoy's Breakthrough
 
 **Type:** album-breakdown
 **SEO Keywords:** images and words drums, mike portnoy 1992, dream theater images words gear, pull me under drums
@@ -474,7 +475,7 @@
 5. Recording Techniques with David Prater
 6. How This Album Defined Portnoy's Sound
 
-**Status:** IDEA (added 2026-03-17)
+**Status:** PUBLISHED (2026-03-17) — /articles/images-and-words-drum-setup
 
 ---
 
@@ -511,4 +512,4 @@
 
 ---
 
-*Last updated: 2026-03-17 09:10*
+*Last updated: 2026-03-17 13:00*

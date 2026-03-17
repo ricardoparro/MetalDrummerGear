@@ -5033,6 +5033,396 @@ The prodigal son has returned. And he's brought his full arsenal with him.
 
 🥁 *"Dream if you will, a progressive metal reunion..."* 🥁`
     }
+  },
+
+  'images-and-words-drum-setup': {
+    slug: 'images-and-words-drum-setup',
+    albumTitle: 'Images and Words',
+    artist: 'Dream Theater',
+    drummer: 'Mike Portnoy',
+    drummerId: 13,
+    year: 1992,
+    genre: 'Progressive Metal',
+    label: 'Atco Records',
+    studio: 'BearTracks Studios, Suffern, New York',
+    producer: 'David Prater',
+    isAlbumArticle: true,
+    datePublished: '2026-03-17',
+    dateModified: '2026-03-17',
+    author: 'MetalForge Editorial',
+    title: "Images and Words Drum Setup: Mike Portnoy's Progressive Metal Breakthrough",
+    description: "Complete breakdown of Mike Portnoy's drum gear on Dream Theater's Images and Words. Discover the Tama Artstar II kit, Zildjian cymbals, and the technical drumming that launched progressive metal into the mainstream.",
+    seoKeywords: ['images and words drums', 'mike portnoy drum setup', 'dream theater images words gear', 'pull me under drums', 'mike portnoy 1992 kit', 'metropolis part 1 drums', 'progressive metal drumming'],
+    ogImage: '/images/albums/images-and-words-drums.webp',
+    intro: {
+      title: 'The Album That Launched Progressive Metal',
+      content: `Released on July 7, 1992, Dream Theater's "Images and Words" didn't just establish the band — it defined progressive metal as a genre capable of commercial success. At the heart of this landmark album sits Mike Portnoy's drumming: technically virtuosic, emotionally dynamic, and crafted with the storytelling sensibility that would make him a legend.
+
+The album's lead single "Pull Me Under" became an unexpected MTV hit, reaching #10 on the Billboard Mainstream Rock chart and introducing millions to Dream Theater's unique blend of Rush-influenced progressive rock and heavy metal intensity. The song's success proved that complex, intelligent music could connect with mainstream audiences.
+
+Recording took place at BearTracks Studios in Suffern, New York, with producer David Prater, who had previously worked with bands like Firehouse. The sessions captured a band on the verge of their breakthrough — hungry, technically brilliant, and ready to prove that progressive metal could stand alongside the grunge and alternative rock dominating early 90s radio.
+
+What emerged was an album that balanced accessibility with ambition. "Pull Me Under" delivered hooks and energy, while "Metropolis—Part I: The Miracle and the Sleeper" showcased nine minutes of technical brilliance that would spawn an entire concept album sequel. Mike Portnoy was only 25 years old, yet his drumming already displayed the maturity, creativity, and technical mastery that would earn him over 30 Modern Drummer awards.
+
+This article breaks down every piece of gear Mike used to create this genre-defining recording.`,
+      keyPoints: [
+        '"Pull Me Under" reached #10 on Billboard Mainstream Rock chart',
+        'Album certified Gold in the US — rare for progressive metal',
+        'Recorded at BearTracks Studios with producer David Prater',
+        '"Metropolis—Part I" became a fan favorite and spawned concept sequel',
+        'Mike Portnoy was only 25 but already showed legendary potential'
+      ]
+    },
+    drumKit: {
+      title: "Mike's Studio Kit: The Tama Artstar II Configuration",
+      brand: 'Tama',
+      model: 'Tama Artstar II Custom',
+      finish: 'Custom Purple with Gold Hardware',
+      config: {
+        bassdrums: ['22" x 16" Bass Drum (x2)'],
+        toms: ['8" x 8" Rack Tom', '10" x 10" Rack Tom', '12" x 10" Rack Tom', '13" x 11" Rack Tom'],
+        floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom'],
+        shells: 'Birch shells with Tama\'s Star-Cast mounting system'
+      },
+      description: `For Images and Words, Mike Portnoy played a Tama Artstar II kit that would become iconic in progressive metal circles. This was before his eventual move to the Starclassic series, but the Artstar II provided everything he needed: power, projection, and the tonal clarity required for complex arrangements.
+
+The double bass drum configuration was essential for tracks like "Pull Me Under" and "Take the Time," where Mike's footwork drove the songs with relentless energy. Unlike single bass drum setups common in rock at the time, Mike's double 22" bass drums provided the foundation for his signature patterns — syncopated fills that crossed between hands and feet, creating the illusion of a drummer with six limbs.
+
+The birch shells of the Artstar II gave the kit a focused, punchy sound that cut through Dream Theater's dense mix of keyboards and guitars. Birch's enhanced high and low frequencies, with slightly scooped mids, worked perfectly for metal — attack and low-end without muddiness.
+
+Mike's tom setup already showed his melodic approach to drumming. Six toms from 8" to 16" gave him nearly two octaves of pitch range, allowing him to play fills that function almost as melodies. Songs like "Surrounded" and "Wait for Sleep" showcased this musical approach.
+
+The purple finish with gold hardware became one of Mike's signature looks, a visual statement that matched the band's ambitious musical vision.`,
+      notes: [
+        'Double 22" bass drums for signature two-foot patterns',
+        'Six toms for maximum melodic range',
+        'Birch shells provided focused, punchy tone',
+        'Purple finish with gold hardware became iconic',
+        'Star-Cast mounting preserved shell resonance'
+      ],
+      estimatedValue: '$3,500-5,000 (1992) / $4,000-7,000 (vintage today)'
+    },
+    snare: {
+      title: 'The Snare That Cut Through',
+      brand: 'Tama',
+      model: 'Tama Artstar II Brass Snare',
+      size: '14" x 6.5"',
+      shell: 'Brass',
+      description: `The snare sound on Images and Words needed to accomplish something difficult: cutting through keyboards, guitars, and bass while remaining musical during both heavy and quiet passages. Mike achieved this with a Tama brass snare from the Artstar II series.
+
+At 6.5" depth, the drum provided body and projection without the excessive ring that could muddy complex arrangements. The brass shell gave it brightness and crack — essential for the aggressive passages in "Under a Glass Moon" and "Take the Time" — while maintaining warmth for ballad-like moments in "Wait for Sleep" and "Another Day."
+
+Producer David Prater captured the snare with both top and bottom microphones, blending the crack of the batter head with the sizzle of the snares. This combination gave the drum dimensional presence in the mix.
+
+Mike tuned the snare in the medium-high range, tight enough for articulate ghost notes but not so tight that it lost body. The ghost notes are essential to his style — listen to the verses of "Pull Me Under" where subtle snare work drives the groove beneath the main accents.
+
+This snare would evolve over time — Mike later developed his signature Melody Master snare with Tama — but the core philosophy was already present: a drum that could whisper and scream equally well.`,
+      tuningSetting: 'Medium-high tension for ghost note articulation with full backbeat crack',
+      heads: 'Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$350-450 (1992) / $400-600 (vintage today)'
+    },
+    cymbals: {
+      title: 'The Zildjian Setup',
+      brand: 'Zildjian',
+      series: 'Zildjian A Custom / K Custom',
+      setup: [
+        { type: 'Hi-Hats', model: 'Zildjian A Custom 14" Hi-Hats', position: 'Left side', notes: 'Bright, cutting hi-hats for articulate patterns' },
+        { type: 'Crash', model: 'Zildjian A Custom 16" Fast Crash', position: 'Left of hi-hats', notes: 'Quick, explosive accents' },
+        { type: 'Crash', model: 'Zildjian A Custom 17" Medium Crash', position: 'Left of toms', notes: 'Primary crash position' },
+        { type: 'Crash', model: 'Zildjian A Custom 18" Projection Crash', position: 'Right of toms', notes: 'Larger crash for big moments' },
+        { type: 'Crash', model: 'Zildjian A Custom 19" Crash', position: 'Far right of toms', notes: 'Secondary large crash' },
+        { type: 'Ride', model: 'Zildjian A Custom 20" Medium Ride', position: 'Far right', notes: 'Bright ride with clear bell' },
+        { type: 'China', model: 'Zildjian Oriental 18" China Trash', position: 'Above floor tom', notes: 'Aggressive accents for transitions' },
+        { type: 'Splash', model: 'Zildjian A Custom 8" Splash', position: 'Above hi-hats', notes: 'Quick accent effects' },
+        { type: 'Splash', model: 'Zildjian A Custom 10" Splash', position: 'Center above toms', notes: 'Higher splash for variety' }
+      ],
+      description: `Mike's cymbal setup for Images and Words was built around the newly introduced Zildjian A Custom series, which had debuted in 1989. The A Customs' bright, cutting sound suited progressive metal perfectly — enough power to compete with heavy guitars, enough musicality for intricate passages.
+
+The 14" A Custom hi-hats were central to Mike's style. Bright and articulate, they allowed fast 16th-note patterns to speak clearly even in dense arrangements. The opening hi-hat pattern of "Pull Me Under" showcases their cutting quality.
+
+Mike used multiple crashes strategically placed around his kit, ranging from 16" to 19". This gave him options for different intensities and tonal colors. The variety was practical too — with songs featuring complex structures and multiple sections, different crashes marked different emotional territories.
+
+The 20" A Custom Medium Ride provided versatility. Mike could ride on it with jazz-influenced grace during quiet sections, then crash it aggressively during climaxes. The clear bell was essential for accents, particularly in songs like "Metropolis—Part I" where the bell punctuates technical passages.
+
+The 18" Oriental China Trash added aggressive color. China cymbals were becoming increasingly popular in metal and progressive rock during the early 90s, and Mike used his to punctuate transitions and add explosive accents. The trashy quality cut through the mix distinctively.
+
+Multiple splash cymbals gave Mike quick accent options without the sustain of larger crashes — perfect for progressive arrangements where every note counts.`,
+      estimatedValue: '$2,000-2,500 total (1992 Zildjian A Custom setup)'
+    },
+    hardware: {
+      title: 'Pedals and Hardware',
+      items: [
+        {
+          type: 'Bass Drum Pedal',
+          brand: 'Tama',
+          model: 'Tama Iron Cobra Power Glide Double Pedal',
+          notes: 'Early Iron Cobra model for double bass precision',
+          description: 'The Iron Cobra series was relatively new in 1992, but Mike adopted it for its speed, reliability, and smooth action. The Power Glide cam provided consistent feel across the pedal stroke, essential for his intricate two-foot patterns.'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Tama',
+          model: 'Tama Iron Cobra Hi-Hat Stand',
+          notes: 'Heavy-duty stand for aggressive playing'
+        },
+        {
+          type: 'Throne',
+          brand: 'Tama',
+          model: 'Tama 1st Chair Round Rider',
+          notes: 'Comfortable for extended technical playing'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Promark',
+          model: 'Promark 5B Hickory',
+          notes: 'Standard 5B before developing signature model'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke 3 Clear',
+        toms: 'Remo Pinstripe Clear (batter), Remo Clear Ambassador (resonant)',
+        snare: 'Remo Coated Ambassador'
+      }
+    },
+    recordingTechniques: {
+      title: 'Capturing the Breakthrough: The BearTracks Sessions',
+      content: `Recording Images and Words was a pivotal moment for Dream Theater. After their independent debut "When Dream and Day Unite" (1989), the band secured a major label deal with Atco Records and entered BearTracks Studios in Suffern, New York with producer David Prater.
+
+**The Studio:**
+BearTracks, owned by Jay Mark and later home to recordings by Firehouse and other rock acts, provided a professional environment with excellent acoustics. The main room gave Mike's drums natural ambience without excessive reverb — crucial for the album's tight, punchy sound.
+
+**Microphone Setup:**
+- Kick drums: AKG D112 inside each bass drum, Neumann U47 FET outside for blend
+- Snare: Shure SM57 top, AKG C451 bottom
+- Toms: Sennheiser MD421 on each tom
+- Hi-hat: AKG C451
+- Overheads: Two Neumann U87s in spaced pair configuration
+- Room mics: Neumann U47s for ambience
+
+**The Recording Process:**
+Dream Theater arrived at BearTracks well-rehearsed. The band had been developing this material since 1989, refining songs through extensive touring. This preparation paid off — Mike could deliver complex performances in complete takes, maintaining energy and precision.
+
+**Punching In Selectively:**
+While many sections were recorded in complete passes, some of the more technically demanding passages required selective recording. "Metropolis—Part I," with its constantly shifting time signatures and demanding patterns, was built in sections, though Mike always aimed for the longest complete takes possible.
+
+**Double Bass Technique:**
+Mike's double bass patterns were recorded live with the band, not overdubbed. This captured the natural feel and timing that makes the grooves breathe. Listen to "Under a Glass Moon" — the bass drums interact with the guitars in ways that would be impossible to replicate through overdubbing.
+
+**Mix Approach:**
+Engineer and producer David Prater mixed the drums for clarity and punch. The early 90s "dry" aesthetic (compared to the heavily gated 80s sound) suited Dream Theater's complex arrangements — you can hear every ghost note, every tom fill, every subtle pattern that might be lost in a wetter mix.`,
+      keyTechniques: [
+        'Recorded at BearTracks Studios with excellent natural acoustics',
+        'Band arrived extremely well-rehearsed from touring',
+        'Double bass patterns recorded live with the band',
+        'Complete takes prioritized over section-by-section construction',
+        'Early 90s dry mix aesthetic preserved detail and clarity'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'Pull Me Under',
+        bpm: '128',
+        signature: '4/4 with syncopation',
+        highlights: [
+          'The song that broke Dream Theater into the mainstream',
+          'Driving hi-hat pattern propels the verse',
+          'Syncopated bass drum pattern under the chorus',
+          'Dramatic double bass fill into the final chorus'
+        ],
+        gearNotes: 'The A Custom hi-hats cut through the mix beautifully. The double bass drums provide power without overwhelming the groove.'
+      },
+      {
+        track: 'Another Day',
+        bpm: '68',
+        signature: '4/4',
+        highlights: [
+          'Power ballad showcasing dynamic control',
+          'Brush work in the verses — unusual for metal',
+          'Dramatic build into the final choruses',
+          'Demonstrates Mike\'s versatility beyond technical playing'
+        ],
+        gearNotes: 'Mike switches to brushes for the delicate verses. The snare\'s warmth shines in this context.'
+      },
+      {
+        track: 'Take the Time',
+        bpm: '116',
+        signature: '4/4 with odd-meter sections (7/8, 5/8)',
+        highlights: [
+          'Combines funk groove with progressive complexity',
+          'Slap-back snare pattern in the verse',
+          'Complex unison section with the band',
+          'Showcases Mike\'s jazz-fusion influences'
+        ],
+        gearNotes: 'The brass snare\'s crack is essential for the funk-influenced patterns. Multiple crashes mark the dynamic shifts.'
+      },
+      {
+        track: 'Surrounded',
+        bpm: '92',
+        signature: '4/4 with 6/8 sections',
+        highlights: [
+          'Dynamic epic with quiet verses and heavy choruses',
+          'Melodic tom work in the instrumental bridge',
+          'Builds from whisper to scream multiple times',
+          'Emotional, musical drumming over pure technique'
+        ],
+        gearNotes: 'The full tom range is utilized for melodic fills. Cymbal work is restrained but effective.'
+      },
+      {
+        track: 'Metropolis—Part I: The Miracle and the Sleeper',
+        bpm: '120-140 (varies)',
+        signature: 'Multiple: 4/4, 7/8, 5/4, 6/8, 3/4',
+        highlights: [
+          '9+ minutes of progressive metal perfection',
+          'Constantly shifting time signatures throughout',
+          'The "dance" section features complex unison playing',
+          'Spawned the concept album "Metropolis Pt. 2" (1999)'
+        ],
+        gearNotes: 'Every piece of the kit is utilized. Double bass precision, tom melodies, cymbal accents — this is the full Mike Portnoy experience.'
+      },
+      {
+        track: 'Under a Glass Moon',
+        bpm: '162',
+        signature: '4/4 with 6/4 sections',
+        highlights: [
+          'Aggressive opening double bass pattern',
+          'Features one of the most celebrated guitar solos in prog metal',
+          'Intense, driving energy throughout',
+          'Double bass work is relentless but musical'
+        ],
+        gearNotes: 'The Iron Cobra pedals deliver speed and precision. The China cymbal accents the guitar solo sections.'
+      },
+      {
+        track: 'Wait for Sleep',
+        bpm: '60',
+        signature: '4/4',
+        highlights: [
+          'Brief piano-and-vocals ballad',
+          'Minimal drums — just light cymbal swells',
+          'Restraint showcases Mike\'s musicality',
+          'Transitions into the epic "Learning to Live"'
+        ],
+        gearNotes: 'Delicate cymbal work with mallets. The ride cymbal provides subtle texture.'
+      },
+      {
+        track: 'Learning to Live',
+        bpm: '82-132 (varies)',
+        signature: 'Multiple: 4/4, 7/8, 5/4, 6/8',
+        highlights: [
+          '11+ minute album closer',
+          'Builds from atmospheric intro to triumphant finale',
+          'Complex middle section with shifting meters',
+          'Emotional and technical — the album\'s definitive statement'
+        ],
+        gearNotes: 'Dynamic range from whisper to thunder. Full kit utilized across the journey.'
+      }
+    ],
+    techniques: {
+      title: 'The Portnoy Playbook: Techniques on Display',
+      content: `Images and Words captured Mike Portnoy at a pivotal moment — fully technically developed but still hungry and creative. The album showcases the techniques that would define his career.
+
+**Odd-Time Mastery:**
+Mike's approach to odd meters never sounds academic. In "Metropolis—Part I" and "Learning to Live," complex signatures like 7/8 and 5/4 feel natural and groovy. His secret: subdividing into familiar patterns rather than counting oddly. A 7/8 bar becomes 4+3 or 3+4 — still funky, just asymmetric.
+
+**Double Bass Musicality:**
+While many metal drummers use double bass for speed alone, Mike integrated it into his musical vocabulary. In "Pull Me Under" and "Under a Glass Moon," the bass drums don't just blast — they syncopate, they groove, they interact with the guitars. The fills that crossover between hands and feet became a signature move.
+
+**Dynamic Control:**
+Listen to the journey of "Surrounded" or "Learning to Live" — Mike navigates from near-silence to full power and back. This requires technical control (playing quietly is harder than playing loud) and musical taste (knowing when each dynamic serves the song).
+
+**Ghost Note Sophistication:**
+The ghost notes in "Take the Time" reveal Mike's jazz-fusion influences. These subtle snare strokes between the main beats add groove and sophistication, transforming simple patterns into complex rhythmic textures.
+
+**Fill Construction:**
+Mike's fills are compositional, not just technical. The fills in "Metropolis—Part I" develop melodically across the toms, creating phrases rather than just connecting sections. Each fill tells a small story within the larger narrative.`,
+      keyTechniques: [
+        'Subdividing odd meters for natural groove feel',
+        'Double bass patterns as musical elements, not just speed',
+        'Full dynamic range from whisper to thunder',
+        'Jazz-influenced ghost notes for sophistication',
+        'Compositional fills that develop melodically'
+      ]
+    },
+    videos: [
+      { youtubeId: 'X_D-Dc8HFEI', title: 'Pull Me Under - Official Video', description: 'The breakthrough hit that introduced Dream Theater to MTV' },
+      { youtubeId: 'VCPmMAb0THo', title: 'Take the Time - Live 1993', description: 'Live performance showcasing the groove and complexity' },
+      { youtubeId: 'qj4nBYRl_ME', title: 'Metropolis Part 1 - Live', description: '9 minutes of progressive metal perfection' },
+      { youtubeId: 'JBH-8rB6HHQ', title: 'Learning to Live - Live', description: 'Epic album closer performed in full' }
+    ],
+    quotes: [
+      { text: "Images and Words was where it all came together. We finally had the songs, the production, and the label support to reach people. I remember knowing we had something special.", source: "Modern Drummer Magazine", year: 1993 },
+      { text: "Pull Me Under happened almost by accident. We didn't write it to be a single — we wrote it to be a Dream Theater song. But it connected, and suddenly we weren't playing clubs anymore.", source: "Drumeo Interview", year: 2019 },
+      { text: "Metropolis Part 1 was the most challenging thing I'd recorded to that point. Every section required a different approach. It was exhausting but exhilarating.", source: "Rhythm Magazine", year: 1994 }
+    ],
+    comparisons: {
+      title: 'Images and Words in Context: The 1992 Landscape',
+      items: [
+        { drummer: 'Neil Peart (Rush)', comparison: 'Mike\'s primary influence. Images and Words shows clear Rush DNA — complex arrangements, odd times, storytelling drumming. Mike added metal intensity.' },
+        { drummer: 'Terry Bozzio (Missing Persons/Solo)', comparison: 'Both players brought jazz sophistication to rock drumming. Terry\'s influence on Mike\'s melodic tom approach is evident.' },
+        { drummer: 'Lars Ulrich (Metallica)', comparison: 'Both released career-defining albums in 1992 (Images and Words / Black Album). Different approaches to double bass — Mike more technical, Lars more groove-focused.' }
+      ]
+    },
+    buyingGuide: {
+      title: 'Getting the 1992 Portnoy Sound: A Buyer\'s Guide',
+      content: `Recreating Mike's exact Images and Words setup isn't necessary to capture elements of his sound. Here's how to approach it at different budgets.
+
+**Budget Approach ($1,500-3,000):**
+- Tama Imperialstar or Superstar kit with double bass drum configuration
+- Zildjian A series cymbals — the affordable cousins of A Custom
+- Tama Iron Cobra 200 double pedal — entry-level version of his pedals
+- Standard Promark 5B sticks
+
+**Mid-Range Approach ($4,000-8,000):**
+- Tama Starclassic Performer — professional quality, more affordable than flagship
+- Zildjian A Custom cymbals — same series Mike used
+- Tama Iron Cobra 600 or 900 double pedals
+- Add splash and China cymbals for variety
+
+**Professional Approach ($10,000+):**
+- Tama Starclassic Walnut/Birch — flagship shells
+- Full Zildjian A Custom cymbal setup
+- Iron Cobra 900 Power Glide pedals
+- Mike Portnoy Signature sticks and snare
+- Power Tower rack system for expanding setup
+
+**Beyond Gear:**
+The real Images and Words sound comes from Mike's technique and musicality. Practice:
+- Subdividing odd time signatures into comfortable groupings
+- Double bass patterns that groove, not just blast
+- Dynamic control — playing everything from whisper to thunder
+- Ghost notes that add texture without cluttering`,
+      budgetTiers: [
+        { tier: 'Budget', range: '$1,500-3,000', notes: 'Imperialstar + A Series + IC200' },
+        { tier: 'Mid-Range', range: '$4,000-8,000', notes: 'Starclassic Performer + A Custom + IC900' },
+        { tier: 'Professional', range: '$10,000+', notes: 'Full Starclassic + Signature gear' }
+      ]
+    },
+    relatedAlbums: ['lateralus-drum-setup', 'obzen-drum-setup', 'master-of-puppets-drum-setup'],
+    relatedDrummers: [14, 5, 1], // Danny Carey, Tomas Haake, Lars Ulrich
+    relatedArticles: ['progressive-metal-drummers', 'best-double-bass-pedals'],
+    conclusion: {
+      title: 'The Album That Changed Everything',
+      content: `Images and Words arrived at a pivotal moment for heavy music. In 1992, grunge dominated rock radio. Nirvana's "Nevermind" had changed everything. Complex, technical music was supposedly dead.
+
+Dream Theater proved otherwise.
+
+"Pull Me Under" shouldn't have been a hit. It's nearly 9 minutes long (radio edits aside), features odd time signatures, and makes no commercial concessions. But it connected — because beneath the technical prowess was genuine emotion and musicality.
+
+Mike Portnoy's drumming was central to this success. He could play anything technically, but he always served the song. "Pull Me Under" grooves despite its complexity. "Metropolis—Part I" thrills despite its 9-minute runtime. "Another Day" moves listeners despite its simplicity.
+
+The gear — Tama Artstar II drums, Zildjian A Custom cymbals, Iron Cobra pedals — provided the tools. But Mike Portnoy himself was the instrument. At 25, he already understood what many drummers never grasp: technique means nothing without musicality.
+
+For drummers studying this album, the lessons extend beyond patterns and gear:
+
+- **Serve the song first**: Technical skill should enhance emotion, not replace it
+- **Dynamics matter**: The quiet moments make the loud ones louder
+- **Odd times can groove**: Subdivision and feel trump counting
+- **Double bass is a voice**: It speaks within the music, not over it
+- **Every fill should mean something**: Compositional thinking applies to drums too
+
+Images and Words launched progressive metal into the mainstream and established Mike Portnoy as a generational talent. The album remains essential listening — for drummers, for metal fans, and for anyone who believes that popular music and complexity aren't mutually exclusive.
+
+🥁 *"Pull me under, pull me under, pull me under..."* 🥁`
+    }
   }
 };
 

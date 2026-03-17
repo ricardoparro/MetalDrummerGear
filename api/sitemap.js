@@ -200,6 +200,8 @@ export default function handler(req, res) {
     { loc: '/quotes', priority: '0.9', changefreq: 'weekly' },
     { loc: '/lists', priority: '0.9', changefreq: 'weekly' },
     { loc: '/birthdays', priority: '0.9', changefreq: 'weekly' },
+    // Issue #723: Metal Drummer Evolution Timeline (1970-2024)
+    { loc: '/history', priority: '0.9', changefreq: 'monthly' },
     { loc: '/techniques', priority: '0.9', changefreq: 'weekly' },
     // Issue #660: Gear News page with RSS
     { loc: '/gear-news', priority: '0.9', changefreq: 'daily' },

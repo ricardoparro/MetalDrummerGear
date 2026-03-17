@@ -8902,9 +8902,85 @@ function KitBuilderPage({ theme, onBack, drummers, onSelectDrummer }) {
               </Text>
             </View>
 
-            {/* Gear Grid */}
+            {/* Issue #724: Search & Filter Section */}
+            <View style={[styles.kitBuilderFilters, { backgroundColor: theme.card, borderColor: theme.border }]}>
+              <TextInput
+                style={[styles.kitBuilderSearchInput, { color: theme.text, borderColor: theme.border, backgroundColor: theme.background }]}
+                placeholder="Search gear by name, brand, or drummer..."
+                placeholderTextColor={theme.secondaryText}
+                value={searchQuery}
+                onChangeText={setSearchQuery}
+                accessibilityLabel="Search gear"
+              />
+              <ScrollView 
+                horizontal 
+                showsHorizontalScrollIndicator={false}
+                style={styles.kitBuilderFilterChips}
+                contentContainerStyle={styles.kitBuilderFilterChipsContent}
+              >
+                {/* Tier filters */}
+                {['all', 'budget', 'mid', 'pro'].map(tier => (
+                  <TouchableOpacity
+                    key={tier}
+                    style={[
+                      styles.kitBuilderFilterChip,
+                      { borderColor: theme.border, backgroundColor: tierFilter === tier || (tier === 'all' && !tierFilter) ? theme.primary : theme.card },
+                    ]}
+                    onPress={() => setTierFilter(tier === 'all' ? '' : tier)}
+                    accessibilityRole="button"
+                    accessibilityLabel={`Filter by ${tier}`}
+                  >
+                    <Text style={[
+                      styles.kitBuilderFilterChipText,
+                      { color: tierFilter === tier || (tier === 'all' && !tierFilter) ? '#fff' : theme.text },
+                    ]}>
+                      {tier === 'all' ? '🎯 All' : tier === 'budget' ? '🌱 Budget' : tier === 'mid' ? '🔥 Mid' : '⭐ Pro'}
+                    </Text>
+                  </TouchableOpacity>
+                ))}
+                
+                {/* Brand filters */}
+                {brandFilter && (
+                  <TouchableOpacity
+                    style={[styles.kitBuilderFilterChip, { borderColor: theme.primary, backgroundColor: theme.primary }]}
+                    onPress={() => setBrandFilter('')}
+                    accessibilityRole="button"
+                    accessibilityLabel="Clear brand filter"
+                  >
+                    <Text style={[styles.kitBuilderFilterChipText, { color: '#fff' }]}>
+                      ✕ {brandFilter}
+                    </Text>
+                  </TouchableOpacity>
+                )}
+                
+                {/* Brand dropdown */}
+                {availableBrands.length > 0 && !brandFilter && (
+                  <>
+                    {availableBrands.slice(0, 5).map(brand => (
+                      <TouchableOpacity
+                        key={brand}
+                        style={[styles.kitBuilderFilterChip, { borderColor: theme.border, backgroundColor: theme.card }]}
+                        onPress={() => setBrandFilter(brand)}
+                        accessibilityRole="button"
+                        accessibilityLabel={`Filter by ${brand}`}
+                      >
+                        <Text style={[styles.kitBuilderFilterChipText, { color: theme.text }]}>{brand}</Text>
+                      </TouchableOpacity>
+                    ))}
+                  </>
+                )}
+              </ScrollView>
+              
+              {/* Results count */}
+              <Text style={[styles.kitBuilderResultsCount, { color: theme.secondaryText }]}>
+                {filteredGearItems.length} {filteredGearItems.length === 1 ? 'item' : 'items'} found
+                {(searchQuery || brandFilter || tierFilter) && ' (filtered)'}
+              </Text>
+            </View>
+
+            {/* Gear Grid - Uses filtered items */}
             <View style={styles.gearGrid}>
-              {KIT_BUILDER_CATALOG[activeCategory].map(item => {
+              {filteredGearItems.map(item => {
                 const isSelected = kit[activeCategory] === item.id;
                 return (
                   <TouchableOpacity
@@ -8933,14 +9009,27 @@ function KitBuilderPage({ theme, onBack, drummers, onSelectDrummer }) {
                     <Text style={[styles.gearCardPrice, { color: theme.primary }]}>
                       €{item.price.toLocaleString()}
                     </Text>
-                    <View style={styles.gearCardUsedBy}>
-                      <Text style={[styles.gearCardUsedByLabel, { color: theme.secondaryText }]}>
-                        Used by:
-                      </Text>
-                      <Text style={[styles.gearCardUsedByNames, { color: theme.secondaryText }]} numberOfLines={1}>
-                        {item.usedBy.slice(0, 2).join(', ')}{item.usedBy.length > 2 ? '...' : ''}
-                      </Text>
-                    </View>
+                    {/* Used By Section - only show if item has usedBy data */}
+                    {item.usedBy && item.usedBy.length > 0 && (
+                      <View style={styles.gearCardUsedBy}>
+                        <Text style={[styles.gearCardUsedByLabel, { color: theme.secondaryText }]}>
+                          Used by:
+                        </Text>
+                        <Text style={[styles.gearCardUsedByNames, { color: theme.secondaryText }]} numberOfLines={1}>
+                          {item.usedBy.slice(0, 2).join(', ')}{item.usedBy.length > 2 ? '...' : ''}
+                        </Text>
+                      </View>
+                    )}
+                    {/* Tier Badge */}
+                    {item.tier && (
+                      <View style={[styles.gearCardTierBadge, { 
+                        backgroundColor: item.tier === 'pro' ? '#8b5cf6' : item.tier === 'mid' ? '#f59e0b' : '#22c55e'
+                      }]}>
+                        <Text style={styles.gearCardTierBadgeText}>
+                          {item.tier === 'pro' ? '⭐ Pro' : item.tier === 'mid' ? '🔥 Mid' : '🌱 Budget'}
+                        </Text>
+                      </View>
+                    )}
                     {/* Action Buttons */}
                     <View style={styles.gearCardButtons}>
                       <TouchableOpacity
@@ -8957,29 +9046,33 @@ function KitBuilderPage({ theme, onBack, drummers, onSelectDrummer }) {
                         </Text>
                       </TouchableOpacity>
                     </View>
-                    {/* Affiliate Buttons */}
+                    {/* Issue #724: Dual Affiliate Buttons (Thomann EU + Sweetwater US) */}
                     <View style={styles.gearCardButtons}>
                       <TouchableOpacity
-                        style={[styles.gearCardButton, styles.gearCardButtonDetails, { borderColor: theme.border }]}
+                        style={[styles.gearCardButton, styles.gearCardButtonThomann]}
                         onPress={() => {
-                          handleAffiliateClick(item, 'details');
-                          // Navigate to gear category page
-                        }}
-                        accessibilityRole="button"
-                        accessibilityLabel={`View ${item.name} details`}
-                      >
-                        <Text style={[styles.gearCardButtonText, { color: theme.text }]}>Details</Text>
-                      </TouchableOpacity>
-                      <TouchableOpacity
-                        style={[styles.gearCardButton, styles.gearCardButtonBuy]}
-                        onPress={() => {
-                          handleAffiliateClick(item, 'buy');
+                          handleAffiliateClick(item, 'thomann');
+                          trackKitBuilderEvent('affiliate_click', { store: 'thomann', item_id: item.id });
                           if (Platform.OS === 'web') {
-                            window.open(getKitBuilderThomannLink(item, activeCategory), '_blank');
+                            window.open(getEnhancedThomannLink(item, activeCategory), '_blank');
                           }
                         }}
                         accessibilityRole="link"
-                        accessibilityLabel={`Buy ${item.name} at Thomann`}
+                        accessibilityLabel={`Buy ${item.name} at Thomann (EU)`}
+                      >
+                        <Text style={styles.gearCardButtonBuyText}>🇪🇺 Thomann</Text>
+                      </TouchableOpacity>
+                      <TouchableOpacity
+                        style={[styles.gearCardButton, styles.gearCardButtonSweetwater]}
+                        onPress={() => {
+                          handleAffiliateClick(item, 'sweetwater');
+                          trackKitBuilderEvent('affiliate_click', { store: 'sweetwater', item_id: item.id });
+                          if (Platform.OS === 'web') {
+                            window.open(getKitBuilderSweetwaterLink(item, activeCategory), '_blank');
+                          }
+                        }}
+                        accessibilityRole="link"
+                        accessibilityLabel={`Buy ${item.name} at Sweetwater (US)`}
                       >
                         <Text style={styles.gearCardButtonBuyText}>🛒 Buy</Text>
                       </TouchableOpacity>
@@ -9052,10 +9145,47 @@ function KitBuilderPage({ theme, onBack, drummers, onSelectDrummer }) {
                 <Text style={[styles.kitSummaryTotalLabel, { color: theme.text }]}>
                   Estimated Total
                 </Text>
-                <Text style={[styles.kitSummaryTotalPrice, { color: theme.primary }]}>
-                  €{totalCost.toLocaleString()}
-                </Text>
+                <View style={styles.kitSummaryTotalPrices}>
+                  <Text style={[styles.kitSummaryTotalPrice, { color: theme.primary }]}>
+                    €{totalCost.toLocaleString()}
+                  </Text>
+                  <Text style={[styles.kitSummaryTotalUsd, { color: theme.secondaryText }]}>
+                    ≈ ${Math.round(totalCost * EUR_TO_USD).toLocaleString()} USD
+                  </Text>
+                </View>
               </View>
+
+              {/* Issue #724: Recommendations Section */}
+              {recommendations.length > 0 && (
+                <View style={[styles.kitRecommendations, { borderColor: theme.border }]}>
+                  <Text style={[styles.kitRecommendationsTitle, { color: theme.text }]}>
+                    💡 Smart Suggestions
+                  </Text>
+                  {recommendations.map((rec, index) => (
+                    <View key={index} style={[styles.kitRecommendation, { borderColor: theme.border }]}>
+                      <Text style={[styles.kitRecommendationIcon]}>
+                        {rec.type === 'missing' ? '⚠️' : rec.type === 'upgrade' ? '⬆️' : rec.type === 'budget_tip' ? '💰' : '🎯'}
+                      </Text>
+                      <Text style={[styles.kitRecommendationText, { color: theme.secondaryText }]} numberOfLines={2}>
+                        {rec.message}
+                      </Text>
+                      {rec.item && (
+                        <TouchableOpacity
+                          style={styles.kitRecommendationAdd}
+                          onPress={() => {
+                            handleSelectGear(rec.category, rec.item.id);
+                            trackKitBuilderEvent('recommendation_add', { type: rec.type, item_id: rec.item.id });
+                          }}
+                          accessibilityRole="button"
+                          accessibilityLabel={`Add ${rec.item.name}`}
+                        >
+                          <Text style={styles.kitRecommendationAddText}>+ Add</Text>
+                        </TouchableOpacity>
+                      )}
+                    </View>
+                  ))}
+                </View>
+              )}
 
               {/* Similar Drummers */}
               {similarDrummers.length > 0 && (
@@ -29847,6 +29977,188 @@ const styles = StyleSheet.create({
     fontWeight: '600',
     color: '#dc2626',
     marginTop: 6,
+  },
+  // Issue #724: Enhanced Kit Builder Styles
+  startOptionsSection: {
+    marginVertical: 16,
+    borderRadius: 16,
+    borderWidth: 1,
+    padding: 20,
+  },
+  startOptionsSectionTitle: {
+    fontSize: 18,
+    fontWeight: 'bold',
+    marginBottom: 16,
+  },
+  startOptionsGrid: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 12,
+  },
+  startOptionCard: {
+    flex: 1,
+    minWidth: 140,
+    borderRadius: 12,
+    borderWidth: 2,
+    padding: 16,
+    alignItems: 'center',
+  },
+  startOptionEmoji: {
+    fontSize: 32,
+    marginBottom: 8,
+  },
+  startOptionTitle: {
+    fontSize: 14,
+    fontWeight: 'bold',
+    textAlign: 'center',
+    marginBottom: 4,
+  },
+  startOptionDesc: {
+    fontSize: 12,
+    textAlign: 'center',
+  },
+  budgetTemplatesSection: {
+    marginTop: 20,
+    paddingTop: 16,
+    borderTopWidth: 1,
+    borderTopColor: 'rgba(128,128,128,0.2)',
+  },
+  budgetTemplatesTitle: {
+    fontSize: 14,
+    fontWeight: '600',
+    marginBottom: 12,
+  },
+  budgetTemplatesScroll: {
+    gap: 12,
+    flexDirection: 'row',
+  },
+  budgetTemplateCard: {
+    width: 160,
+    borderRadius: 12,
+    borderWidth: 2,
+    padding: 14,
+    alignItems: 'center',
+    marginRight: 12,
+  },
+  budgetTemplateCardActive: {
+    borderWidth: 3,
+  },
+  budgetTemplateEmoji: {
+    fontSize: 28,
+    marginBottom: 6,
+  },
+  budgetTemplateName: {
+    fontSize: 14,
+    fontWeight: 'bold',
+    textAlign: 'center',
+    marginBottom: 4,
+  },
+  budgetTemplateDesc: {
+    fontSize: 11,
+    textAlign: 'center',
+    marginBottom: 6,
+  },
+  budgetTemplatePrice: {
+    fontSize: 13,
+    fontWeight: '600',
+  },
+  kitBuilderFilters: {
+    marginBottom: 16,
+    borderRadius: 12,
+    borderWidth: 1,
+    padding: 12,
+  },
+  kitBuilderSearchInput: {
+    borderRadius: 8,
+    borderWidth: 1,
+    paddingHorizontal: 12,
+    paddingVertical: 10,
+    fontSize: 14,
+    marginBottom: 10,
+  },
+  kitBuilderFilterChips: {
+    marginBottom: 8,
+  },
+  kitBuilderFilterChipsContent: {
+    gap: 8,
+    flexDirection: 'row',
+  },
+  kitBuilderFilterChip: {
+    paddingHorizontal: 12,
+    paddingVertical: 6,
+    borderRadius: 16,
+    borderWidth: 1,
+  },
+  kitBuilderFilterChipText: {
+    fontSize: 12,
+    fontWeight: '500',
+  },
+  kitBuilderResultsCount: {
+    fontSize: 12,
+    marginTop: 4,
+  },
+  gearCardTierBadge: {
+    position: 'absolute',
+    top: 8,
+    right: 8,
+    paddingHorizontal: 8,
+    paddingVertical: 3,
+    borderRadius: 10,
+  },
+  gearCardTierBadgeText: {
+    fontSize: 10,
+    fontWeight: '600',
+    color: '#fff',
+  },
+  gearCardButtonThomann: {
+    backgroundColor: '#2563eb',
+    flex: 1,
+  },
+  gearCardButtonSweetwater: {
+    backgroundColor: '#dc2626',
+    flex: 1,
+  },
+  kitSummaryTotalPrices: {
+    alignItems: 'flex-end',
+  },
+  kitSummaryTotalUsd: {
+    fontSize: 12,
+    marginTop: 2,
+  },
+  kitRecommendations: {
+    marginTop: 16,
+    paddingTop: 12,
+    borderTopWidth: 1,
+  },
+  kitRecommendationsTitle: {
+    fontSize: 14,
+    fontWeight: 'bold',
+    marginBottom: 10,
+  },
+  kitRecommendation: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    paddingVertical: 8,
+    borderBottomWidth: 1,
+    gap: 8,
+  },
+  kitRecommendationIcon: {
+    fontSize: 16,
+  },
+  kitRecommendationText: {
+    flex: 1,
+    fontSize: 12,
+  },
+  kitRecommendationAdd: {
+    backgroundColor: '#22c55e',
+    paddingHorizontal: 10,
+    paddingVertical: 4,
+    borderRadius: 12,
+  },
+  kitRecommendationAddText: {
+    color: '#fff',
+    fontSize: 11,
+    fontWeight: '600',
   },
   kitSummaryItemRight: {
     flexDirection: 'row',

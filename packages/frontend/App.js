@@ -273,6 +273,28 @@ function getGearBrandSlugFromURL() {
 function updateGearSearchMeta() { return _gearSearchModule?.updateGearSearchMeta?.(); }
 function updateGearBrandMeta(brandSlug) { return _gearSearchModule?.updateGearBrandMeta?.(brandSlug); }
 
+// Gear Comparison Tool (Issue #721) - Side-by-side drummer setup battles at /tools/compare
+// Lazy loaded for performance optimization - 48KB component
+const LazyGearComparisonToolPage = lazy(() => import('./components/GearComparisonTool'));
+let _gearComparisonToolModule = null;
+let _gearComparisonToolLoadPromise = null;
+const loadGearComparisonTool = () => import('./components/GearComparisonTool');
+
+function preloadGearComparisonTool() {
+  if (!_gearComparisonToolLoadPromise) {
+    _gearComparisonToolLoadPromise = loadGearComparisonTool().then(m => { _gearComparisonToolModule = m; return m; });
+  }
+  return _gearComparisonToolLoadPromise;
+}
+function isGearComparisonToolPage() { 
+  return _gearComparisonToolModule?.isGearComparisonToolPage?.() ?? (typeof window !== 'undefined' && (
+    window.location.pathname === '/tools/compare' || 
+    window.location.pathname === '/tools/compare/' ||
+    window.location.pathname.startsWith('/tools/compare/')
+  )); 
+}
+function updateGearComparisonToolMeta(d1, d2) { return _gearComparisonToolModule?.updateGearComparisonToolMeta?.(d1, d2); }
+
 // Extended bios for drummer detail pages (Issue #305)
 // Loaded dynamically for code splitting (~9KB of text data) - TBT optimization #460
 // Fix for #541: Added Promise caching and listeners for reliable async loading
@@ -19855,6 +19877,9 @@ function AppContent() {
   const [showGearBrand, setShowGearBrand] = useState(() => isGearBrandPage());
   const [gearBrandSlug, setGearBrandSlug] = useState(() => getGearBrandSlugFromURL());
   
+  // Gear Comparison Tool Page state (Issue #721) - /tools/compare
+  const [showGearComparisonTool, setShowGearComparisonTool] = useState(() => isGearComparisonToolPage());
+  
   const [showGearFinder, setShowGearFinder] = useState(() => isGearFinderPage());
   const [selectedGear, setSelectedGear] = useState(null);
   const [loadingGear, setLoadingGear] = useState(false);
@@ -21165,12 +21190,57 @@ function AppContent() {
         setShowGearSearch(false);
         setShowGearBrand(false);
         setGearBrandSlug(null);
+        setShowGearComparisonTool(false);
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
       } else if (isGearSearchPage()) {
         // Gear Search Engine page (Issue #719) - /tools/gear-search
         setShowGearSearch(true);
+        setShowGearBrand(false);
+        setGearBrandSlug(null);
+        setShowNameGenerator(false);
+        setShowGearComparisonTool(false);
+        setShowBeginnerGuide(false);
+        setShowGuidesHub(false);
+        setShowGuide(false);
+        setGuideSlug(null);
+        setShowArticle(false);
+        setArticleSlug(null);
+        setShowList(false);
+        setListSlug(null);
+        setShowNewsPage(false);
+        setShowGearNewsPage(false);
+        setShowGearStats(false);
+        setShowTechniquesIndex(false);
+        setShowTechniqueDetail(false);
+        setTechniqueSlug(null);
+        setShowGearComparisonsIndex(false);
+        setShowGearComparison(false);
+        setGearComparisonSlug(null);
+        setShowGenresList(false);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowKitBuilder(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowBattlePage(false);
+        setBattleSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+      } else if (isGearComparisonToolPage()) {
+        // Gear Comparison Tool page (Issue #721) - /tools/compare
+        setShowGearComparisonTool(true);
+        setShowGearSearch(false);
         setShowGearBrand(false);
         setGearBrandSlug(null);
         setShowNameGenerator(false);
@@ -21217,6 +21287,7 @@ function AppContent() {
         setGearBrandSlug(slug);
         setShowGearSearch(false);
         setShowNameGenerator(false);
+        setShowGearComparisonTool(false);
         setShowBeginnerGuide(false);
         setShowGuidesHub(false);
         setShowGuide(false);
@@ -21258,6 +21329,7 @@ function AppContent() {
         setShowGuidesHub(true);
         setShowBeginnerGuide(false);
         setShowNameGenerator(false);
+        setShowGearComparisonTool(false);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -22934,6 +23006,25 @@ setShowList(false);
               setShowGearSearch(true);
               if (Platform.OS === 'web' && typeof window !== 'undefined') {
                 window.history.pushState({}, '', '/tools/gear-search');
+              }
+            }}
+            onSelectDrummer={handleSelectDrummer}
+          />
+        </Suspense>
+      );
+    }
+    // Gear Comparison Tool Page (Issue #721) - /tools/compare
+    // Side-by-side drummer setup battles
+    if (showGearComparisonTool) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyGearComparisonToolPage
+            theme={theme}
+            drummers={drummers}
+            onBack={() => {
+              setShowGearComparisonTool(false);
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/');
               }
             }}
             onSelectDrummer={handleSelectDrummer}

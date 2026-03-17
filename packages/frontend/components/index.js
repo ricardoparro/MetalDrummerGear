@@ -23,3 +23,17 @@ export {
   trackNameShare,
   trackDrummerMatchClick
 } from './MetalDrummerNameGenerator';
+
+// Gear Comparison Tool (Issue #721)
+export {
+  default as GearComparisonToolPage,
+  isGearComparisonToolPage,
+  updateGearComparisonToolMeta,
+  trackComparisonView,
+  trackComparisonGenerate,
+  trackComparisonShare,
+  trackComparisonVote,
+  trackComparisonAffiliateClick,
+  getComparisonSlugsFromURL,
+  updateComparisonURL
+} from './GearComparisonTool';

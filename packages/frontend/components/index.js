@@ -37,3 +37,23 @@ export {
   getComparisonSlugsFromURL,
   updateComparisonURL
 } from './GearComparisonTool';
+
+// Kit Builder (Issue #724)
+export {
+  KIT_BUILDER_CATALOG,
+  KIT_CATEGORIES,
+  PRESET_KITS,
+  BUDGET_TEMPLATES,
+  isKitBuilderPage,
+  getKitFromURL,
+  updateKitURL,
+  generateShareableURL,
+  calculateKitStats,
+  getRecommendations,
+  findSimilarDrummers,
+  generateKitSchema,
+  getKitBuilderThomannLink,
+  getKitBuilderSweetwaterLink,
+  trackKitBuilderEvent,
+  kitBuilderStyles
+} from './KitBuilder';

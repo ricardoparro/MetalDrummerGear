@@ -151,6 +151,21 @@ function isAlbumArticleSlug(slug) { return _albumArticlesModule?.isAlbumArticleS
 // Quiz Share Buttons Component (Issue #678)
 import { QuizShareButtons, trackQuizShare } from './components/QuizShareButtons';
 
+// Enhanced Kit Builder Module (Issue #724)
+import {
+  KIT_BUILDER_CATALOG as ENHANCED_KIT_CATALOG,
+  KIT_CATEGORIES as ENHANCED_KIT_CATEGORIES,
+  PRESET_KITS as ENHANCED_PRESET_KITS,
+  BUDGET_TEMPLATES,
+  calculateKitStats,
+  getRecommendations,
+  findSimilarDrummers as findKitSimilarDrummers,
+  generateKitSchema,
+  getKitBuilderThomannLink as getEnhancedThomannLink,
+  getKitBuilderSweetwaterLink,
+  trackKitBuilderEvent,
+} from './components/KitBuilder';
+
 // Drummer Battle - Weekly Voting Feature (Issue #689)
 // Lazy loaded for performance optimization (#708) - 10KB module
 let _battlesModule = null;
@@ -590,6 +605,54 @@ function formatBirthday(dateStr) { return _birthdaysModule?.formatBirthday(dateS
 function getZodiacSign(dateStr) { return _birthdaysModule?.getZodiacSign(dateStr) || ''; }
 // MONTH_NAMES is a constant, keep inline to avoid extra async load
 const MONTH_NAMES = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+// ==========================================
+// EVOLUTION TIMELINE - Metal Drumming History (Issue #723)
+// ==========================================
+let _evolutionTimelineModule = null;
+let _evolutionTimelineLoadPromise = null;
+const loadEvolutionTimeline = () => import('./data/evolutionTimeline');
+
+function preloadEvolutionTimeline() {
+  if (!_evolutionTimelineLoadPromise) {
+    _evolutionTimelineLoadPromise = loadEvolutionTimeline().then(m => { _evolutionTimelineModule = m; return m; });
+  }
+  return _evolutionTimelineLoadPromise;
+}
+function isEvolutionTimelineLoaded() { return _evolutionTimelineModule !== null; }
+function getAllTimelineEvents() { return _evolutionTimelineModule?.getAllTimelineEvents() || []; }
+function getEventsByDecade(decade) { return _evolutionTimelineModule?.getEventsByDecade(decade) || []; }
+function getEventsBySubgenre(subgenre) { return _evolutionTimelineModule?.getEventsBySubgenre(subgenre) || []; }
+function getEventsByType(type) { return _evolutionTimelineModule?.getEventsByType(type) || []; }
+function searchTimeline(query) { return _evolutionTimelineModule?.searchTimeline(query) || []; }
+function getEventTypeInfo(type) { return _evolutionTimelineModule?.getEventTypeInfo(type) || { emoji: '📌', label: 'Event', color: '#64748b' }; }
+function getSubgenreInfo(subgenre) { return _evolutionTimelineModule?.getSubgenreInfo(subgenre) || { emoji: '🎵', label: 'Metal', color: '#64748b' }; }
+function getTimelineDecades() { return _evolutionTimelineModule?.DECADES || ['1970s', '1980s', '1990s', '2000s', '2010s', '2020s']; }
+function getTimelineEventTypes() { return _evolutionTimelineModule?.TIMELINE_EVENT_TYPES || {}; }
+function getTimelineSubgenres() { return _evolutionTimelineModule?.METAL_SUBGENRES || {}; }
+
+// Check if we're on the timeline page
+function isTimelinePage() {
+  if (typeof window === 'undefined') return false;
+  const pathname = window.location.pathname;
+  return pathname === '/history' || pathname === '/history/' ||
+         pathname === '/timeline' || pathname === '/timeline/';
+}
+
+// Get decade from URL
+function getTimelineDecadeFromURL() {
+  if (typeof window === 'undefined') return null;
+  const params = new URLSearchParams(window.location.search);
+  return params.get('decade');
+}
+
+// Navigate to timeline
+function navigateToTimelinePage(decade = null) {
+  if (typeof window === 'undefined') return;
+  const path = decade ? `/history?decade=${decade}` : '/history';
+  window.history.pushState({}, '', path);
+  window.dispatchEvent(new PopStateEvent('popstate'));
+}
+
 // ==========================================
 // TOP 10 LISTS - Loaded dynamically for code splitting
 // ==========================================
@@ -7517,6 +7580,468 @@ function BirthdayCalendarPage({ theme, onBack, onSelectDrummer }) {
   );
 }
 
+// Evolution Timeline Page - Metal Drumming History (Issue #723)
+function EvolutionTimelinePage({ theme, initialDecade, onBack, onSelectDrummer }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const [selectedDecade, setSelectedDecade] = useState(initialDecade || null);
+  const [selectedType, setSelectedType] = useState(null);
+  const [selectedSubgenre, setSelectedSubgenre] = useState(null);
+  const [searchQuery, setSearchQuery] = useState('');
+  const [selectedEvent, setSelectedEvent] = useState(null);
+  const [copied, setCopied] = useState(false);
+  const [isLoaded, setIsLoaded] = useState(isEvolutionTimelineLoaded());
+  
+  // Ensure timeline module is loaded
+  useEffect(() => {
+    if (!isEvolutionTimelineLoaded()) {
+      preloadEvolutionTimeline().then(() => setIsLoaded(true));
+    }
+  }, []);
+  
+  // Get timeline data
+  const allEvents = getAllTimelineEvents();
+  const decades = getTimelineDecades();
+  
+  // Filter events based on selections
+  const filteredEvents = useMemo(() => {
+    let events = allEvents;
+    
+    if (selectedDecade) {
+      events = events.filter(e => e.decade === selectedDecade);
+    }
+    if (selectedType) {
+      events = events.filter(e => e.type === selectedType);
+    }
+    if (selectedSubgenre) {
+      events = events.filter(e => e.subgenre === selectedSubgenre);
+    }
+    if (searchQuery) {
+      events = searchTimeline(searchQuery);
+    }
+    
+    return events;
+  }, [allEvents, selectedDecade, selectedType, selectedSubgenre, searchQuery]);
+  
+  // Loading state
+  if (!isLoaded) {
+    return (
+      <View style={[styles.detailContainer, { backgroundColor: theme.background, justifyContent: 'center', alignItems: 'center', minHeight: 400 }]}>
+        <ActivityIndicator size="large" color={theme.primary} />
+        <Text style={{ color: theme.secondaryText, marginTop: 16 }}>Loading timeline...</Text>
+      </View>
+    );
+  }
+  
+  // Update URL when decade changes
+  const handleDecadeSelect = (decade) => {
+    const newDecade = selectedDecade === decade ? null : decade;
+    setSelectedDecade(newDecade);
+    setSelectedEvent(null);
+    if (typeof window !== 'undefined') {
+      const path = newDecade ? `/history?decade=${newDecade}` : '/history';
+      window.history.replaceState({}, '', path);
+    }
+  };
+  
+  // Update SEO meta tags
+  useEffect(() => {
+    if (typeof document !== 'undefined') {
+      const title = selectedDecade 
+        ? `${selectedDecade} Metal Drumming History | MetalForge`
+        : 'Metal Drummer Evolution Timeline (1970-2024) | MetalForge';
+      const description = selectedDecade
+        ? `Explore the key moments in ${selectedDecade} metal drumming history. Discover legendary drummers, iconic albums, and gear innovations.`
+        : 'The complete interactive history of metal drumming from 1970 to 2024. Discover how metal drumming evolved through thrash, death, progressive, and beyond.';
+      
+      document.title = title;
+      const metaDesc = document.querySelector('meta[name="description"]');
+      if (metaDesc) metaDesc.setAttribute('content', description);
+      
+      // OG tags
+      const ogTitle = document.querySelector('meta[property="og:title"]');
+      if (ogTitle) ogTitle.setAttribute('content', title);
+      const ogDesc = document.querySelector('meta[property="og:description"]');
+      if (ogDesc) ogDesc.setAttribute('content', description);
+    }
+  }, [selectedDecade]);
+  
+  // Share functionality
+  const handleShare = async (eventId = null) => {
+    let shareUrl = 'https://metalforge.io/history';
+    if (eventId) {
+      shareUrl += `?event=${eventId}`;
+    } else if (selectedDecade) {
+      shareUrl += `?decade=${selectedDecade}`;
+    }
+    
+    if (Platform.OS === 'web' && navigator.clipboard) {
+      try {
+        await navigator.clipboard.writeText(shareUrl);
+        setCopied(true);
+        setTimeout(() => setCopied(false), 2000);
+      } catch (err) {
+        console.error('Failed to copy:', err);
+      }
+    }
+  };
+  
+  const handleTwitterShare = (event = null) => {
+    let text;
+    if (event) {
+      text = `🥁 ${event.year}: ${event.title} - Part of metal drumming history!`;
+    } else if (selectedDecade) {
+      text = `🤘 ${selectedDecade} Metal Drumming History - Discover the legendary moments!`;
+    } else {
+      text = '🥁 The Complete History of Metal Drumming (1970-2024) - From Black Sabbath to modern djent!';
+    }
+    let shareUrl = 'https://metalforge.io/history';
+    if (event) {
+      shareUrl += `?event=${event.id}`;
+    } else if (selectedDecade) {
+      shareUrl += `?decade=${selectedDecade}`;
+    }
+    const twitterUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}&url=${encodeURIComponent(shareUrl)}&via=MetalDrumGear`;
+    Linking.openURL(twitterUrl);
+  };
+  
+  // Clear all filters
+  const clearFilters = () => {
+    setSelectedDecade(null);
+    setSelectedType(null);
+    setSelectedSubgenre(null);
+    setSearchQuery('');
+    setSelectedEvent(null);
+    if (typeof window !== 'undefined') {
+      window.history.replaceState({}, '', '/history');
+    }
+  };
+  
+  // Render timeline event card
+  const renderEventCard = (event, index) => {
+    const typeInfo = getEventTypeInfo(event.type);
+    const subgenreInfo = event.subgenre ? getSubgenreInfo(event.subgenre) : null;
+    const isSelected = selectedEvent?.id === event.id;
+    
+    return (
+      <TouchableOpacity
+        key={event.id}
+        onPress={() => setSelectedEvent(isSelected ? null : event)}
+        style={[
+          styles.timelineEventCard,
+          { 
+            backgroundColor: theme.card, 
+            borderColor: isSelected ? theme.primary : theme.border,
+            borderLeftColor: typeInfo.color,
+            borderLeftWidth: 4,
+          }
+        ]}
+        accessibilityRole="button"
+        accessibilityLabel={`${event.year}: ${event.title}`}
+      >
+        {/* Year Badge */}
+        <View style={[styles.timelineYearBadge, { backgroundColor: theme.primary }]}>
+          <Text style={styles.timelineYearText}>{event.year}</Text>
+        </View>
+        
+        {/* Event Header */}
+        <View style={styles.timelineEventHeader}>
+          <Text style={styles.timelineEventEmoji}>{typeInfo.emoji}</Text>
+          <View style={styles.timelineEventTitleContainer}>
+            <Text style={[styles.timelineEventTitle, { color: theme.text }]} numberOfLines={2}>
+              {event.title}
+            </Text>
+            <View style={styles.timelineEventMeta}>
+              <Text style={[styles.timelineEventBand, { color: theme.primary }]}>
+                {event.drummerName}
+              </Text>
+              {event.band && (
+                <Text style={[styles.timelineEventBandName, { color: theme.secondaryText }]}>
+                  {' '}• {event.band}
+                </Text>
+              )}
+            </View>
+          </View>
+        </View>
+        
+        {/* Tags */}
+        <View style={styles.timelineEventTags}>
+          <View style={[styles.timelineEventTag, { backgroundColor: typeInfo.color + '20', borderColor: typeInfo.color }]}>
+            <Text style={[styles.timelineEventTagText, { color: typeInfo.color }]}>
+              {typeInfo.emoji} {typeInfo.label}
+            </Text>
+          </View>
+          {subgenreInfo && (
+            <View style={[styles.timelineEventTag, { backgroundColor: subgenreInfo.color + '20', borderColor: subgenreInfo.color }]}>
+              <Text style={[styles.timelineEventTagText, { color: subgenreInfo.color }]}>
+                {subgenreInfo.emoji} {subgenreInfo.label}
+              </Text>
+            </View>
+          )}
+          {event.album && (
+            <View style={[styles.timelineEventTag, { backgroundColor: theme.background, borderColor: theme.border }]}>
+              <Text style={[styles.timelineEventTagText, { color: theme.secondaryText }]}>
+                💿 {event.album}
+              </Text>
+            </View>
+          )}
+        </View>
+        
+        {/* Expanded Content */}
+        {isSelected && (
+          <View style={[styles.timelineEventExpanded, { borderTopColor: theme.border }]}>
+            <Text style={[styles.timelineEventDescription, { color: theme.text }]}>
+              {event.description}
+            </Text>
+            
+            {event.gearNotes && (
+              <View style={styles.timelineEventSection}>
+                <Text style={[styles.timelineEventSectionTitle, { color: theme.text }]}>
+                  ⚙️ Gear Notes
+                </Text>
+                <Text style={[styles.timelineEventSectionText, { color: theme.secondaryText }]}>
+                  {event.gearNotes}
+                </Text>
+              </View>
+            )}
+            
+            {event.significance && (
+              <View style={styles.timelineEventSection}>
+                <Text style={[styles.timelineEventSectionTitle, { color: theme.text }]}>
+                  🌟 Significance
+                </Text>
+                <Text style={[styles.timelineEventSectionText, { color: theme.secondaryText }]}>
+                  {event.significance}
+                </Text>
+              </View>
+            )}
+            
+            {/* Actions */}
+            <View style={styles.timelineEventActions}>
+              {event.drummerSlug && (
+                <TouchableOpacity
+                  onPress={() => onSelectDrummer(event.drummerSlug)}
+                  style={[styles.timelineEventActionBtn, { backgroundColor: theme.primary }]}
+                  accessibilityRole="button"
+                >
+                  <Text style={styles.timelineEventActionText}>View Drummer Profile →</Text>
+                </TouchableOpacity>
+              )}
+              <TouchableOpacity
+                onPress={() => handleTwitterShare(event)}
+                style={[styles.timelineEventActionBtn, { backgroundColor: theme.shadowColor }]}
+                accessibilityRole="button"
+              >
+                <Text style={styles.timelineEventActionText}>𝕏 Share Moment</Text>
+              </TouchableOpacity>
+            </View>
+          </View>
+        )}
+      </TouchableOpacity>
+    );
+  };
+
+  return (
+    <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+      <View style={styles.detailContent}>
+        <TouchableOpacity
+          onPress={onBack}
+          style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          accessibilityRole="button"
+          accessibilityLabel="Go back to home"
+        >
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Home</Text>
+        </TouchableOpacity>
+
+        {/* Header */}
+        <Text style={[styles.timelinePageTitle, { color: theme.text }]} accessibilityRole="header">
+          🥁 Metal Drummer Evolution Timeline
+        </Text>
+        <Text style={[styles.timelinePageSubtitle, { color: theme.secondaryText }]}>
+          From Black Sabbath to modern djent — 54 years of metal drumming history
+        </Text>
+
+        {/* Share Section */}
+        <View style={[styles.timelineShareSection, { borderColor: theme.border }]}>
+          <Text style={[styles.timelineShareLabel, { color: theme.secondaryText }]}>
+            Share this timeline:
+          </Text>
+          <View style={styles.timelineShareButtons}>
+            <TouchableOpacity
+              onPress={() => handleTwitterShare()}
+              style={[styles.timelineShareButton, { backgroundColor: theme.shadowColor }]}
+            >
+              <Text style={styles.timelineShareButtonText}>𝕏 Tweet</Text>
+            </TouchableOpacity>
+            <TouchableOpacity
+              onPress={() => handleShare()}
+              style={[styles.timelineShareButton, { backgroundColor: theme.card, borderColor: theme.border, borderWidth: 1 }]}
+            >
+              <Text style={[styles.timelineShareButtonText, { color: theme.text }]}>
+                {copied ? '✓ Copied!' : '🔗 Copy Link'}
+              </Text>
+            </TouchableOpacity>
+          </View>
+        </View>
+
+        {/* Search Bar */}
+        <View style={[styles.timelineSearchContainer, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <TextInput
+            style={[styles.timelineSearchInput, { color: theme.text }]}
+            placeholder="Search timeline (year, drummer, band, album...)"
+            placeholderTextColor={theme.secondaryText}
+            value={searchQuery}
+            onChangeText={setSearchQuery}
+            accessibilityLabel="Search timeline"
+          />
+          {searchQuery && (
+            <TouchableOpacity onPress={() => setSearchQuery('')} style={styles.timelineSearchClear}>
+              <Text style={{ color: theme.secondaryText }}>✕</Text>
+            </TouchableOpacity>
+          )}
+        </View>
+
+        {/* Decade Navigation */}
+        <View style={styles.timelineDecadeNav}>
+          <ScrollView 
+            horizontal 
+            showsHorizontalScrollIndicator={false}
+            contentContainerStyle={styles.timelineDecadeNavContent}
+          >
+            <TouchableOpacity
+              onPress={() => handleDecadeSelect(null)}
+              style={[
+                styles.timelineDecadeBtn,
+                !selectedDecade && styles.timelineDecadeBtnActive,
+                { 
+                  backgroundColor: !selectedDecade ? theme.primary : theme.card,
+                  borderColor: theme.border 
+                }
+              ]}
+            >
+              <Text style={[
+                styles.timelineDecadeBtnText,
+                { color: !selectedDecade ? '#fff' : theme.text }
+              ]}>
+                All
+              </Text>
+            </TouchableOpacity>
+            {decades.map(decade => (
+              <TouchableOpacity
+                key={decade}
+                onPress={() => handleDecadeSelect(decade)}
+                style={[
+                  styles.timelineDecadeBtn,
+                  selectedDecade === decade && styles.timelineDecadeBtnActive,
+                  { 
+                    backgroundColor: selectedDecade === decade ? theme.primary : theme.card,
+                    borderColor: theme.border 
+                  }
+                ]}
+              >
+                <Text style={[
+                  styles.timelineDecadeBtnText,
+                  { color: selectedDecade === decade ? '#fff' : theme.text }
+                ]}>
+                  {decade}
+                </Text>
+              </TouchableOpacity>
+            ))}
+          </ScrollView>
+        </View>
+
+        {/* Active Filters */}
+        {(selectedDecade || selectedType || selectedSubgenre || searchQuery) && (
+          <View style={styles.timelineActiveFilters}>
+            <Text style={[styles.timelineActiveFiltersLabel, { color: theme.secondaryText }]}>
+              Showing {filteredEvents.length} events
+            </Text>
+            <TouchableOpacity onPress={clearFilters} style={styles.timelineClearFiltersBtn}>
+              <Text style={[styles.timelineClearFiltersBtnText, { color: theme.primary }]}>
+                Clear filters
+              </Text>
+            </TouchableOpacity>
+          </View>
+        )}
+
+        {/* Timeline */}
+        <View style={styles.timelineContainer}>
+          {/* Timeline Line */}
+          <View style={[styles.timelineLine, { backgroundColor: theme.border }]} />
+          
+          {/* Events */}
+          {filteredEvents.map((event, index) => renderEventCard(event, index))}
+          
+          {filteredEvents.length === 0 && (
+            <View style={[styles.timelineEmptyState, { backgroundColor: theme.card, borderColor: theme.border }]}>
+              <Text style={[styles.timelineEmptyText, { color: theme.secondaryText }]}>
+                No events found. Try adjusting your filters.
+              </Text>
+            </View>
+          )}
+        </View>
+
+        {/* Stats Section */}
+        <View style={[styles.timelineStatsSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.timelineStatsTitle, { color: theme.text }]}>
+            📊 Timeline Stats
+          </Text>
+          <View style={styles.timelineStatsGrid}>
+            <View style={styles.timelineStatItem}>
+              <Text style={[styles.timelineStatValue, { color: theme.primary }]}>
+                {allEvents.length}
+              </Text>
+              <Text style={[styles.timelineStatLabel, { color: theme.secondaryText }]}>
+                Historic Events
+              </Text>
+            </View>
+            <View style={styles.timelineStatItem}>
+              <Text style={[styles.timelineStatValue, { color: theme.primary }]}>
+                54
+              </Text>
+              <Text style={[styles.timelineStatLabel, { color: theme.secondaryText }]}>
+                Years of History
+              </Text>
+            </View>
+            <View style={styles.timelineStatItem}>
+              <Text style={[styles.timelineStatValue, { color: theme.primary }]}>
+                {new Set(allEvents.filter(e => e.drummerSlug).map(e => e.drummerSlug)).size}
+              </Text>
+              <Text style={[styles.timelineStatLabel, { color: theme.secondaryText }]}>
+                Featured Drummers
+              </Text>
+            </View>
+            <View style={styles.timelineStatItem}>
+              <Text style={[styles.timelineStatValue, { color: theme.primary }]}>
+                6
+              </Text>
+              <Text style={[styles.timelineStatLabel, { color: theme.secondaryText }]}>
+                Decades Covered
+              </Text>
+            </View>
+          </View>
+        </View>
+
+        {/* CTA Section */}
+        <View style={[styles.timelineCtaSection, { backgroundColor: theme.primary }]}>
+          <Text style={styles.timelineCtaTitle}>
+            🎯 What year did you discover metal drumming?
+          </Text>
+          <Text style={styles.timelineCtaSubtitle}>
+            Share your moment with the metal community!
+          </Text>
+          <TouchableOpacity
+            onPress={() => handleTwitterShare()}
+            style={styles.timelineCtaButton}
+          >
+            <Text style={styles.timelineCtaButtonText}>Share on 𝕏 →</Text>
+          </TouchableOpacity>
+        </View>
+      </View>
+    </ScrollView>
+  );
+}
+
 // Gear Finder Page - Search drummers by specific gear item (Issue #156)
 function GearFinderPage({ theme, onBack, drummers, onSelectDrummer }) {
   const { width } = useWindowDimensions();
@@ -7832,113 +8357,9 @@ function GearFinderPage({ theme, onBack, drummers, onSelectDrummer }) {
 // KIT BUILDER PAGE - Interactive Drum Kit Configurator (Issue #341)
 // ==========================================
 
-// Famous drummer preset kits - "Build Like The Pros"
-const PRESET_KITS = [
-  {
-    id: 'lars-ulrich',
-    drummer: 'Lars Ulrich',
-    band: 'Metallica',
-    emoji: '⚡',
-    kit: {
-      drums: 'tama-starclassic-maple',
-      snare: 'tama-lars-ulrich',
-      cymbals: 'zildjian-a-custom',
-      hardware: 'tama-iron-cobra',
-      sticks: 'ahead-lars',
-    },
-  },
-  {
-    id: 'joey-jordison',
-    drummer: 'Joey Jordison',
-    band: 'Slipknot',
-    emoji: '🎭',
-    kit: {
-      drums: 'pearl-reference-series',
-      snare: 'pearl-joey',
-      cymbals: 'paiste-rude',
-      hardware: 'pearl-demon-drive',
-      sticks: 'promark-joey',
-    },
-  },
-  {
-    id: 'danny-carey',
-    drummer: 'Danny Carey',
-    band: 'Tool',
-    emoji: '👁️',
-    kit: {
-      drums: 'sonor-sq2',
-      snare: 'sonor-danny',
-      cymbals: 'paiste-signature',
-      hardware: 'sonor-giant',
-      sticks: 'vicfirth-carey',
-    },
-  },
-  {
-    id: 'tomas-haake',
-    drummer: 'Tomas Haake',
-    band: 'Meshuggah',
-    emoji: '🔧',
-    kit: {
-      drums: 'sonor-sq2',
-      snare: 'sonor-haake',
-      cymbals: 'sabian-hhx',
-      hardware: 'tama-speed-cobra',
-      sticks: 'vicfirth-haake',
-    },
-  },
-  {
-    id: 'george-kollias',
-    drummer: 'George Kollias',
-    band: 'Nile',
-    emoji: '🔥',
-    kit: {
-      drums: 'pearl-masterworks',
-      snare: 'pearl-kollias',
-      cymbals: 'zildjian-a-custom',
-      hardware: 'pearl-demon-drive',
-      sticks: 'vicfirth-kollias',
-    },
-  },
-  {
-    id: 'dave-lombardo',
-    drummer: 'Dave Lombardo',
-    band: 'Slayer',
-    emoji: '💀',
-    kit: {
-      drums: 'tama-starclassic-maple',
-      snare: 'tama-slp',
-      cymbals: 'paiste-rude',
-      hardware: 'tama-iron-cobra',
-      sticks: 'promark-lombardo',
-    },
-  },
-  {
-    id: 'mike-portnoy',
-    drummer: 'Mike Portnoy',
-    band: 'Dream Theater',
-    emoji: '🎵',
-    kit: {
-      drums: 'tama-starclassic-maple',
-      snare: 'tama-portnoy',
-      cymbals: 'sabian-hhx',
-      hardware: 'tama-iron-cobra',
-      sticks: 'promark-portnoy',
-    },
-  },
-  {
-    id: 'jay-weinberg',
-    drummer: 'Jay Weinberg',
-    band: 'Slipknot',
-    emoji: '🔊',
-    kit: {
-      drums: 'sjc-custom',
-      snare: 'sjc-crucible',
-      cymbals: 'zildjian-k-custom',
-      hardware: 'dw-9000',
-      sticks: 'vater-weinberg',
-    },
-  },
-];
+// Famous drummer preset kits - Use enhanced version from KitBuilder.js (Issue #724)
+// Includes 10 drummers with genre info
+const PRESET_KITS = ENHANCED_PRESET_KITS;
 
 // Calculate preset kit total price
 const getPresetKitPrice = (preset) => {
@@ -7955,86 +8376,22 @@ const getKitBuilderThomannLink = (item, category) => {
   return getThomannLink(item.name, category || 'kit-builder');
 };
 
-// Gear catalog data for kit builder - extracted from real drummer setups
-const KIT_BUILDER_CATALOG = {
-  drums: [
-    { id: 'tama-starclassic-maple', name: 'Tama Starclassic Maple', brand: 'Tama', price: 3500, tier: 'pro', usedBy: ['Lars Ulrich', 'Dave Lombardo', 'Charlie Benante'] },
-    { id: 'tama-starclassic-bubinga', name: 'Tama Starclassic Bubinga', brand: 'Tama', price: 4200, tier: 'pro', usedBy: ['Eloy Casagrande'] },
-    { id: 'pearl-reference-pure', name: 'Pearl Reference Pure', brand: 'Pearl', price: 3500, tier: 'pro', usedBy: ['Gene Hoglan'] },
-    { id: 'pearl-reference-series', name: 'Pearl Reference Series', brand: 'Pearl', price: 3200, tier: 'pro', usedBy: ['Joey Jordison', 'Ray Luzier'] },
-    { id: 'pearl-masterworks', name: 'Pearl Masterworks Stadium Exotic', brand: 'Pearl', price: 4800, tier: 'pro', usedBy: ['George Kollias'] },
-    { id: 'pearl-masters', name: 'Pearl Masters Premium Maple', brand: 'Pearl', price: 3200, tier: 'pro', usedBy: ['Matt Halpern'] },
-    { id: 'sonor-sq2', name: 'Sonor SQ2 Heavy Beech', brand: 'Sonor', price: 5500, tier: 'pro', usedBy: ['Tomas Haake', 'Danny Carey'] },
-    { id: 'dw-collectors', name: "DW Collector's Series Maple", brand: 'DW', price: 5000, tier: 'pro', usedBy: ['Brann Dailor'] },
-    { id: 'mapex-saturn', name: 'Mapex Saturn V MH Exotic', brand: 'Mapex', price: 2600, tier: 'mid', usedBy: ['Chris Adler'] },
-    { id: 'ddrum-vinnie', name: 'ddrum Vinnie Paul Signature', brand: 'ddrum', price: 2800, tier: 'mid', usedBy: ['Vinnie Paul'] },
-    { id: 'sjc-custom', name: 'SJC Custom Drums', brand: 'SJC', price: 3500, tier: 'pro', usedBy: ['Jay Weinberg'] },
-    { id: 'ocdp-custom', name: 'OCDP Custom Type 5 Acrylic', brand: 'OCDP', price: 3500, tier: 'pro', usedBy: ['John Otto'] },
-  ],
-  snare: [
-    { id: 'tama-lars-ulrich', name: 'Tama LU1465 Lars Ulrich Signature 14x6.5"', brand: 'Tama', price: 650, tier: 'pro', usedBy: ['Lars Ulrich'] },
-    { id: 'tama-slp', name: 'Tama S.L.P. 14x6.5" G-Maple', brand: 'Tama', price: 450, tier: 'mid', usedBy: ['Dave Lombardo'] },
-    { id: 'tama-bell-brass', name: 'Tama Bell Brass 14x5.5"', brand: 'Tama', price: 800, tier: 'pro', usedBy: ['Eloy Casagrande'] },
-    { id: 'tama-charlie', name: 'Tama Charlie Benante Signature 14x6.5"', brand: 'Tama', price: 550, tier: 'mid', usedBy: ['Charlie Benante'] },
-    { id: 'tama-portnoy', name: 'Tama Mike Portnoy Signature Melody Master', brand: 'Tama', price: 600, tier: 'mid', usedBy: ['Mike Portnoy'] },
-    { id: 'pearl-joey', name: 'Pearl Joey Jordison Signature 13x6.5"', brand: 'Pearl', price: 480, tier: 'mid', usedBy: ['Joey Jordison'] },
-    { id: 'pearl-kollias', name: 'Pearl George Kollias Signature 14x6.5"', brand: 'Pearl', price: 520, tier: 'mid', usedBy: ['George Kollias'] },
-    { id: 'pearl-reference', name: 'Pearl Reference 14x6.5" Brass', brand: 'Pearl', price: 550, tier: 'mid', usedBy: ['Gene Hoglan', 'Ray Luzier'] },
-    { id: 'sonor-haake', name: 'Sonor Tomas Haake Signature 14x6.5"', brand: 'Sonor', price: 700, tier: 'pro', usedBy: ['Tomas Haake'] },
-    { id: 'sonor-danny', name: 'Sonor Danny Carey Signature 14x8" Bronze', brand: 'Sonor', price: 750, tier: 'pro', usedBy: ['Danny Carey'] },
-    { id: 'sjc-crucible', name: 'SJC "The Crucible" 14x6.5" 48-ply Brass', brand: 'SJC', price: 600, tier: 'mid', usedBy: ['Jay Weinberg'] },
-    { id: 'ddrum-vinnie-snare', name: 'ddrum Vinnie Paul Signature 14x8"', brand: 'ddrum', price: 400, tier: 'mid', usedBy: ['Vinnie Paul'] },
-    { id: 'ocdp-vented', name: 'OCDP 14x6.5" 40-ply Vented', brand: 'OCDP', price: 450, tier: 'mid', usedBy: ['John Otto'] },
-  ],
-  cymbals: [
-    { id: 'zildjian-a-custom', name: 'Zildjian A Custom Series', brand: 'Zildjian', price: 2200, tier: 'pro', usedBy: ['Lars Ulrich', 'George Kollias', 'John Otto'] },
-    { id: 'zildjian-k-custom', name: 'Zildjian K Custom Series', brand: 'Zildjian', price: 2500, tier: 'pro', usedBy: ['Jay Weinberg'] },
-    { id: 'paiste-rude', name: 'Paiste RUDE Series', brand: 'Paiste', price: 2000, tier: 'pro', usedBy: ['Joey Jordison', 'Dave Lombardo', 'Charlie Benante'] },
-    { id: 'paiste-2002', name: 'Paiste 2002 Series', brand: 'Paiste', price: 2000, tier: 'pro', usedBy: ['Eloy Casagrande'] },
-    { id: 'paiste-signature', name: 'Paiste Signature Series', brand: 'Paiste', price: 2800, tier: 'pro', usedBy: ['Danny Carey'] },
-    { id: 'sabian-hhx', name: 'Sabian HHX Series', brand: 'Sabian', price: 2200, tier: 'pro', usedBy: ['Tomas Haake', 'Mike Portnoy'] },
-    { id: 'sabian-aax', name: 'Sabian AAX Series', brand: 'Sabian', price: 1800, tier: 'mid', usedBy: ['Gene Hoglan', 'Ray Luzier', 'Vinnie Paul'] },
-    { id: 'meinl-byzance', name: 'Meinl Byzance Series', brand: 'Meinl', price: 2400, tier: 'pro', usedBy: ['Mario Duplantier', 'Brann Dailor', 'Chris Adler', 'Matt Halpern'] },
-  ],
-  hardware: [
-    { id: 'tama-iron-cobra', name: 'Tama Iron Cobra 900 Double Pedal', brand: 'Tama', price: 450, tier: 'pro', usedBy: ['Lars Ulrich', 'Dave Lombardo', 'Charlie Benante'] },
-    { id: 'tama-speed-cobra', name: 'Tama Speed Cobra 910 Double Pedal', brand: 'Tama', price: 500, tier: 'pro', usedBy: ['Tomas Haake'] },
-    { id: 'pearl-demon-drive', name: 'Pearl Demon Drive Double Pedal', brand: 'Pearl', price: 550, tier: 'pro', usedBy: ['Joey Jordison', 'Gene Hoglan', 'George Kollias'] },
-    { id: 'pearl-eliminator', name: 'Pearl Eliminator Double Pedal', brand: 'Pearl', price: 400, tier: 'mid', usedBy: ['Matt Halpern'] },
-    { id: 'dw-9000', name: 'DW 9000 Series Double Pedal', brand: 'DW', price: 700, tier: 'pro', usedBy: ['Jay Weinberg', 'Brann Dailor'] },
-    { id: 'sonor-giant', name: 'Sonor Giant Step Twin Effect Double Pedal', brand: 'Sonor', price: 650, tier: 'pro', usedBy: ['Danny Carey'] },
-    { id: 'mapex-falcon', name: 'Mapex Falcon Double Pedal', brand: 'Mapex', price: 450, tier: 'mid', usedBy: ['Chris Adler'] },
-  ],
-  sticks: [
-    { id: 'ahead-lars', name: 'Ahead Lars Ulrich Signature', brand: 'Ahead', price: 45, tier: 'mid', usedBy: ['Lars Ulrich'] },
-    { id: 'promark-joey', name: 'Promark Joey Jordison Signature TX515W', brand: 'Promark', price: 15, tier: 'budget', usedBy: ['Joey Jordison'] },
-    { id: 'promark-lombardo', name: 'Promark Dave Lombardo Signature 2Bx', brand: 'Promark', price: 15, tier: 'budget', usedBy: ['Dave Lombardo'] },
-    { id: 'promark-portnoy', name: 'Promark Mike Portnoy Signature TX420N', brand: 'Promark', price: 15, tier: 'budget', usedBy: ['Mike Portnoy'] },
-    { id: 'promark-casagrande', name: 'Promark Eloy Casagrande Signature', brand: 'Promark', price: 15, tier: 'budget', usedBy: ['Eloy Casagrande'] },
-    { id: 'vicfirth-kollias', name: 'Vic Firth George Kollias Signature SGK', brand: 'Vic Firth', price: 15, tier: 'budget', usedBy: ['George Kollias'] },
-    { id: 'vicfirth-haake', name: 'Vic Firth Tomas Haake Signature', brand: 'Vic Firth', price: 15, tier: 'budget', usedBy: ['Tomas Haake'] },
-    { id: 'vicfirth-carey', name: 'Vic Firth Danny Carey Signature', brand: 'Vic Firth', price: 15, tier: 'budget', usedBy: ['Danny Carey'] },
-    { id: 'vicfirth-benante', name: 'Vic Firth Charlie Benante Signature', brand: 'Vic Firth', price: 15, tier: 'budget', usedBy: ['Charlie Benante'] },
-    { id: 'vater-weinberg', name: 'Vater Jay Weinberg 908 Signature', brand: 'Vater', price: 15, tier: 'budget', usedBy: ['Jay Weinberg'] },
-    { id: 'wincent-haake', name: 'Wincent Tomas Haake Signature', brand: 'Wincent', price: 18, tier: 'budget', usedBy: ['Tomas Haake'] },
-  ],
-};
+// Kit Builder Catalog - Use enhanced version from KitBuilder.js (Issue #724)
+// This provides expanded catalog with sizes, descriptions, and more items
+const KIT_BUILDER_CATALOG = ENHANCED_KIT_CATALOG;
 
-// Category icons and labels
-const KIT_CATEGORIES = [
-  { key: 'drums', label: 'Shell Pack', icon: '🥁', description: 'Bass drum, toms & rack' },
-  { key: 'snare', label: 'Snare Drum', icon: '🎯', description: 'The heart of your sound' },
-  { key: 'cymbals', label: 'Cymbals', icon: '🔔', description: 'Hi-hats, crashes & rides' },
-  { key: 'hardware', label: 'Hardware', icon: '⚙️', description: 'Pedals & throne' },
-  { key: 'sticks', label: 'Sticks', icon: '🪵', description: 'Your connection to the kit' },
-];
+// Category icons and labels - Use enhanced version with 7 categories
+const KIT_CATEGORIES = ENHANCED_KIT_CATEGORIES;
+
+// Core categories for basic completion tracking (5 essential items)
+const CORE_KIT_CATEGORIES = ['drums', 'snare', 'cymbals', 'hardware', 'sticks'];
 
 function KitBuilderPage({ theme, onBack, drummers, onSelectDrummer }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
   const isTablet = width >= 768 && width < 1024;
   
-  // Kit state - initialize from URL params
+  // Kit state - initialize from URL params (Issue #724 Enhanced)
   const [kit, setKit] = useState(() => {
     const urlKit = getKitFromURL();
     return urlKit || {
@@ -8043,6 +8400,8 @@ function KitBuilderPage({ theme, onBack, drummers, onSelectDrummer }) {
       cymbals: null,
       hardware: null,
       sticks: null,
+      heads: null,
+      accessories: null,
       kitName: '',
     };
   });
@@ -8050,6 +8409,18 @@ function KitBuilderPage({ theme, onBack, drummers, onSelectDrummer }) {
   const [activeCategory, setActiveCategory] = useState('drums');
   const [showShareModal, setShowShareModal] = useState(false);
   const [copied, setCopied] = useState(false);
+  
+  // Issue #724: Enhanced state for new features
+  const [startMode, setStartMode] = useState('scratch'); // scratch, drummer, budget
+  const [selectedBudgetTier, setSelectedBudgetTier] = useState(null);
+  const [searchQuery, setSearchQuery] = useState('');
+  const [brandFilter, setBrandFilter] = useState('');
+  const [tierFilter, setTierFilter] = useState(''); // budget, mid, pro
+  const [showStartOptions, setShowStartOptions] = useState(() => {
+    // Show start options only if kit is empty
+    const urlKit = getKitFromURL();
+    return !urlKit || (!urlKit.drums && !urlKit.snare && !urlKit.cymbals);
+  });
 
   // Calculate total kit cost
   const calculateTotal = useCallback(() => {
@@ -8066,7 +8437,7 @@ function KitBuilderPage({ theme, onBack, drummers, onSelectDrummer }) {
 
   const totalCost = calculateTotal();
 
-  // Update URL when kit changes
+  // Update URL when kit changes (Issue #724 - includes new categories)
   useEffect(() => {
     const kitForUrl = {};
     if (kit.drums) kitForUrl.drums = kit.drums;
@@ -8074,10 +8445,81 @@ function KitBuilderPage({ theme, onBack, drummers, onSelectDrummer }) {
     if (kit.cymbals) kitForUrl.cymbals = kit.cymbals;
     if (kit.hardware) kitForUrl.hardware = kit.hardware;
     if (kit.sticks) kitForUrl.sticks = kit.sticks;
+    if (kit.heads) kitForUrl.heads = kit.heads;
+    if (kit.accessories) kitForUrl.accessories = kit.accessories;
     if (kit.kitName) kitForUrl.kitName = kit.kitName;
     updateKitURL(kitForUrl);
     updateKitBuilderMeta(kitForUrl, totalCost);
   }, [kit, totalCost]);
+
+  // Issue #724: Filtered gear items based on search and filters
+  const filteredGearItems = useMemo(() => {
+    const categoryItems = KIT_BUILDER_CATALOG[activeCategory] || [];
+    
+    return categoryItems.filter(item => {
+      // Search filter
+      if (searchQuery) {
+        const query = searchQuery.toLowerCase();
+        const matchesSearch = 
+          item.name.toLowerCase().includes(query) ||
+          item.brand.toLowerCase().includes(query) ||
+          (item.usedBy && item.usedBy.some(d => d.toLowerCase().includes(query)));
+        if (!matchesSearch) return false;
+      }
+      
+      // Brand filter
+      if (brandFilter && item.brand.toLowerCase() !== brandFilter.toLowerCase()) {
+        return false;
+      }
+      
+      // Tier filter
+      if (tierFilter && item.tier !== tierFilter) {
+        return false;
+      }
+      
+      return true;
+    });
+  }, [activeCategory, searchQuery, brandFilter, tierFilter]);
+
+  // Issue #724: Get unique brands for the current category
+  const availableBrands = useMemo(() => {
+    const categoryItems = KIT_BUILDER_CATALOG[activeCategory] || [];
+    const brands = new Set(categoryItems.map(item => item.brand));
+    return Array.from(brands).sort();
+  }, [activeCategory]);
+
+  // Issue #724: Recommendations engine
+  const recommendations = useMemo(() => {
+    return getRecommendations(kit, KIT_BUILDER_CATALOG, drummers);
+  }, [kit, drummers]);
+
+  // Issue #724: Load budget template
+  const loadBudgetTemplate = useCallback((template) => {
+    setSelectedBudgetTier(template.id);
+    setKit({
+      ...template.recommended,
+      kitName: `${template.name} Build`,
+    });
+    setShowStartOptions(false);
+    trackKitBuilderEvent('budget_template_load', { template_id: template.id });
+  }, []);
+
+  // Issue #724: Start from scratch
+  const handleStartFromScratch = useCallback(() => {
+    setStartMode('scratch');
+    setShowStartOptions(false);
+    setKit({
+      drums: null,
+      snare: null,
+      cymbals: null,
+      hardware: null,
+      sticks: null,
+      heads: null,
+      accessories: null,
+      kitName: '',
+    });
+    trackKitBuilderEvent('start_from_scratch');
+  }, []);
 
   // Find drummers who use similar gear
   const findSimilarDrummers = useCallback(() => {
@@ -8130,7 +8572,7 @@ function KitBuilderPage({ theme, onBack, drummers, onSelectDrummer }) {
     setKit(prev => ({ ...prev, kitName: name }));
   }, []);
 
-  // Clear all selections
+  // Clear all selections (Issue #724 - includes new categories)
   const handleClearKit = useCallback(() => {
     setKit({
       drums: null,
@@ -8138,8 +8580,15 @@ function KitBuilderPage({ theme, onBack, drummers, onSelectDrummer }) {
       cymbals: null,
       hardware: null,
       sticks: null,
+      heads: null,
+      accessories: null,
       kitName: '',
     });
+    setSelectedBudgetTier(null);
+    setSearchQuery('');
+    setBrandFilter('');
+    setTierFilter('');
+    setShowStartOptions(true);
   }, []);
 
   // Copy share link
@@ -8244,6 +8693,99 @@ function KitBuilderPage({ theme, onBack, drummers, onSelectDrummer }) {
             </Text>
           </View>
         </View>
+
+        {/* Issue #724: Start Options Section */}
+        {showStartOptions && (
+          <View style={[styles.startOptionsSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.startOptionsSectionTitle, { color: theme.text }]}>
+              🚀 How would you like to start?
+            </Text>
+            <View style={styles.startOptionsGrid}>
+              {/* Start from Scratch */}
+              <TouchableOpacity
+                style={[
+                  styles.startOptionCard,
+                  { backgroundColor: theme.background, borderColor: startMode === 'scratch' ? theme.primary : theme.border },
+                ]}
+                onPress={handleStartFromScratch}
+                accessibilityRole="button"
+                accessibilityLabel="Start from scratch"
+              >
+                <Text style={styles.startOptionEmoji}>📝</Text>
+                <Text style={[styles.startOptionTitle, { color: theme.text }]}>Start from Scratch</Text>
+                <Text style={[styles.startOptionDesc, { color: theme.secondaryText }]}>Empty canvas, your rules</Text>
+              </TouchableOpacity>
+              
+              {/* Budget Template */}
+              <TouchableOpacity
+                style={[
+                  styles.startOptionCard,
+                  { backgroundColor: theme.background, borderColor: startMode === 'budget' ? theme.primary : theme.border },
+                ]}
+                onPress={() => setStartMode('budget')}
+                accessibilityRole="button"
+                accessibilityLabel="Start from budget template"
+              >
+                <Text style={styles.startOptionEmoji}>💰</Text>
+                <Text style={[styles.startOptionTitle, { color: theme.text }]}>Budget Template</Text>
+                <Text style={[styles.startOptionDesc, { color: theme.secondaryText }]}>Beginner, Mid, or Pro tier</Text>
+              </TouchableOpacity>
+              
+              {/* From a Pro */}
+              <TouchableOpacity
+                style={[
+                  styles.startOptionCard,
+                  { backgroundColor: theme.background, borderColor: startMode === 'drummer' ? theme.primary : theme.border },
+                ]}
+                onPress={() => setStartMode('drummer')}
+                accessibilityRole="button"
+                accessibilityLabel="Start from a drummer's setup"
+              >
+                <Text style={styles.startOptionEmoji}>🌟</Text>
+                <Text style={[styles.startOptionTitle, { color: theme.text }]}>Copy a Pro</Text>
+                <Text style={[styles.startOptionDesc, { color: theme.secondaryText }]}>Clone a legend's exact kit</Text>
+              </TouchableOpacity>
+            </View>
+            
+            {/* Budget Templates (shown when budget mode selected) */}
+            {startMode === 'budget' && (
+              <View style={styles.budgetTemplatesSection}>
+                <Text style={[styles.budgetTemplatesTitle, { color: theme.text }]}>
+                  📊 Choose your budget tier:
+                </Text>
+                <ScrollView 
+                  horizontal 
+                  showsHorizontalScrollIndicator={false}
+                  contentContainerStyle={styles.budgetTemplatesScroll}
+                >
+                  {BUDGET_TEMPLATES.map(template => {
+                    const isActive = selectedBudgetTier === template.id;
+                    return (
+                      <TouchableOpacity
+                        key={template.id}
+                        style={[
+                          styles.budgetTemplateCard,
+                          { backgroundColor: theme.background, borderColor: isActive ? theme.primary : theme.border },
+                          isActive && styles.budgetTemplateCardActive,
+                        ]}
+                        onPress={() => loadBudgetTemplate(template)}
+                        accessibilityRole="button"
+                        accessibilityLabel={`Load ${template.name} template`}
+                      >
+                        <Text style={styles.budgetTemplateEmoji}>{template.emoji}</Text>
+                        <Text style={[styles.budgetTemplateName, { color: theme.text }]}>{template.name}</Text>
+                        <Text style={[styles.budgetTemplateDesc, { color: theme.secondaryText }]}>{template.description}</Text>
+                        <Text style={[styles.budgetTemplatePrice, { color: theme.primary }]}>
+                          Up to €{template.maxBudget.toLocaleString()}
+                        </Text>
+                      </TouchableOpacity>
+                    );
+                  })}
+                </ScrollView>
+              </View>
+            )}
+          </View>
+        )}
 
         {/* Kit Name Input */}
         <View style={[styles.kitNameSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
@@ -15194,6 +15736,7 @@ function DrummerList({
   onNavigateToKitBuilder,
   onNavigateToBpmTap,
   onNavigateToBirthdayCalendar,
+  onNavigateToTimeline,
   onNavigateToGenresList,
   onNavigateToTechniques,
   onNavigateToDrummers,
@@ -15335,6 +15878,16 @@ function DrummerList({
         >
           <Text style={[styles.compareButtonText, { color: theme.text }]}>🎂 Birthdays</Text>
         </TouchableOpacity>
+        <TouchableOpacity
+          onPress={onNavigateToTimeline}
+          style={[styles.quizButton, { backgroundColor: '#9333ea', borderColor: '#9333ea' }]}
+          accessibilityRole="button"
+          accessibilityLabel="View metal drumming evolution timeline"
+        >
+          <Text style={[styles.quizButtonText, { color: '#fff' }]}>📜 History</Text>
+        </TouchableOpacity>
+      </View>
+      <View style={[styles.actionButtonsRow, { marginTop: -8 }]}>
         <TouchableOpacity
           onPress={onNavigateToGenresList}
           style={[styles.quizButton, { backgroundColor: colors.buttons.secondary.bg, borderColor: colors.buttons.secondary.bg }]}
@@ -16020,7 +16573,7 @@ function updateBirthdayCalendarMeta(month = null, todaysBirthdays = []) {
 }
 
 // ==========================================
-// KIT BUILDER ROUTING (Issue #341)
+// KIT BUILDER ROUTING (Issue #341, #724 Enhanced)
 // ==========================================
 
 // Check if we're on the kit builder page
@@ -16028,7 +16581,9 @@ function isKitBuilderPage() {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
   const pathname = window.location.pathname;
   return pathname === '/kit-builder' || pathname.startsWith('/kit-builder?') ||
-         pathname === '/build-kit' || pathname.startsWith('/build-kit?');
+         pathname === '/build-kit' || pathname.startsWith('/build-kit?') ||
+         pathname === '/tools/kit-builder' || pathname.startsWith('/tools/kit-builder?') ||
+         pathname.startsWith('/builds/');
 }
 
 // Get kit configuration from URL params
@@ -16041,7 +16596,10 @@ function getKitFromURL() {
   if (params.get('cymbals')) kit.cymbals = params.get('cymbals');
   if (params.get('hardware')) kit.hardware = params.get('hardware');
   if (params.get('sticks')) kit.sticks = params.get('sticks');
+  if (params.get('heads')) kit.heads = params.get('heads');
+  if (params.get('accessories')) kit.accessories = params.get('accessories');
   if (params.get('name')) kit.kitName = params.get('name');
+  if (params.get('start')) kit.startFrom = params.get('start');
   return Object.keys(kit).length > 0 ? kit : null;
 }
 
@@ -16054,9 +16612,13 @@ function updateKitURL(kit) {
   if (kit.cymbals) params.set('cymbals', kit.cymbals);
   if (kit.hardware) params.set('hardware', kit.hardware);
   if (kit.sticks) params.set('sticks', kit.sticks);
+  if (kit.heads) params.set('heads', kit.heads);
+  if (kit.accessories) params.set('accessories', kit.accessories);
   if (kit.kitName) params.set('name', kit.kitName);
   const queryString = params.toString();
-  const newPath = queryString ? `/kit-builder?${queryString}` : '/kit-builder';
+  // Use /tools/kit-builder as the primary path (Issue #724)
+  const basePath = window.location.pathname.includes('/tools/') ? '/tools/kit-builder' : '/kit-builder';
+  const newPath = queryString ? `${basePath}?${queryString}` : basePath;
   window.history.replaceState({}, '', newPath);
 }
 
@@ -19923,6 +20485,10 @@ function AppContent() {
   // Birthday Calendar Page state (Issue #343)
   const [showBirthdayCalendar, setShowBirthdayCalendar] = useState(() => isBirthdayCalendarPage());
 
+  // Evolution Timeline Page state (Issue #723)
+  const [showTimelinePage, setShowTimelinePage] = useState(() => isTimelinePage());
+  const [timelineDecade, setTimelineDecade] = useState(() => getTimelineDecadeFromURL());
+
   // Gear Comparison Page state (Issue #345)
   const [showGearComparison, setShowGearComparison] = useState(() => isGearComparisonPage());
   const [gearComparisonSlug, setGearComparisonSlug] = useState(() => getGearComparisonSlugFromURL());
@@ -20680,6 +21246,31 @@ function AppContent() {
       } else if (isBirthdayCalendarPage()) {
         // Birthday Calendar page (Issue #343)
         setShowBirthdayCalendar(true);
+        setShowTimelinePage(false);
+        setShowKitBuilder(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowList(false);
+        setListSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowGenresList(false);
+      } else if (isTimelinePage()) {
+        // Evolution Timeline page (Issue #723)
+        setShowTimelinePage(true);
+        setTimelineDecade(getTimelineDecadeFromURL());
+        setShowBirthdayCalendar(false);
         setShowKitBuilder(false);
         setShowBandDetail(false);
         setBandSlug(null);
@@ -21656,6 +22247,9 @@ function AppContent() {
     // Fix #470: Reset band detail page states so drummer profile shows
     setShowBandDetail(false);
     setBandSlug(null);
+    // Reset timeline page state (Issue #723)
+    setShowTimelinePage(false);
+    setTimelineDecade(null);
     try {
       const detailUrl = typeof window !== 'undefined' && window.location.hostname !== 'localhost'
         ? `/api/drummers/${id}`
@@ -21944,6 +22538,7 @@ setShowList(false);
   // Navigate to Birthday Calendar (Issue #343)
   const handleNavigateToBirthdayCalendar = () => {
     setShowBirthdayCalendar(true);
+    setShowTimelinePage(false);
     setShowKitBuilder(false);
     setShowGearFinder(false);
     setShowGearByBudget(false);
@@ -21963,6 +22558,34 @@ setShowList(false);
     setSelectedGear(null);
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
       window.history.pushState({}, '', '/birthdays');
+    }
+  };
+
+  // Navigate to Evolution Timeline (Issue #723)
+  const handleNavigateToTimeline = (decade = null) => {
+    setShowTimelinePage(true);
+    setTimelineDecade(decade);
+    setShowBirthdayCalendar(false);
+    setShowKitBuilder(false);
+    setShowGearFinder(false);
+    setShowGearByBudget(false);
+    setShowList(false);
+    setListSlug(null);
+    setShowSpotlights(false);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowPrivacy(false);
+    setShowQuotes(false);
+    setShowBioPage(false);
+    setBioSlug(null);
+    setShowBandDetail(false);
+    setBandSlug(null);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      const path = decade ? `/history?decade=${decade}` : '/history';
+      window.history.pushState({}, '', path);
     }
   };
 
@@ -23251,6 +23874,23 @@ setShowList(false);
         />
       );
     }
+    // Evolution Timeline Page (Issue #723)
+    if (showTimelinePage) {
+      return (
+        <EvolutionTimelinePage
+          theme={theme}
+          initialDecade={timelineDecade}
+          onBack={() => {
+            setShowTimelinePage(false);
+            setTimelineDecade(null);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/');
+            }
+          }}
+          onSelectDrummer={handleSelectDrummer}
+        />
+      );
+    }
     if (showGearFinder) {
       return (
         <GearFinderPage
@@ -23478,6 +24118,7 @@ setShowList(false);
           onNavigateToKitBuilder={handleNavigateToKitBuilder}
           onNavigateToBpmTap={handleNavigateToBpmTap}
           onNavigateToBirthdayCalendar={handleNavigateToBirthdayCalendar}
+          onNavigateToTimeline={handleNavigateToTimeline}
           onNavigateToGenresList={handleNavigateToGenresList}
           onNavigateToTechniques={handleNavigateToTechniquesIndex}
           onNavigateToDrummers={handleNavigateToDrummers}
@@ -27458,6 +28099,293 @@ const styles = StyleSheet.create({
     fontSize: 12,
     textAlign: 'center',
     marginTop: 4,
+  },
+  // ==========================================
+  // EVOLUTION TIMELINE PAGE STYLES (Issue #723)
+  // ==========================================
+  timelinePageTitle: {
+    fontSize: 32,
+    fontWeight: 'bold',
+    marginBottom: 8,
+    marginTop: 16,
+  },
+  timelinePageSubtitle: {
+    fontSize: 16,
+    lineHeight: 24,
+    marginBottom: 24,
+  },
+  timelineShareSection: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    padding: 12,
+    borderRadius: 8,
+    borderWidth: 1,
+    marginBottom: 20,
+    flexWrap: 'wrap',
+    gap: 12,
+  },
+  timelineShareLabel: {
+    fontSize: 14,
+  },
+  timelineShareButtons: {
+    flexDirection: 'row',
+    gap: 10,
+  },
+  timelineShareButton: {
+    paddingVertical: 8,
+    paddingHorizontal: 16,
+    borderRadius: 8,
+    minWidth: 100,
+    alignItems: 'center',
+  },
+  timelineShareButtonText: {
+    color: '#fff',
+    fontWeight: '600',
+    fontSize: 14,
+  },
+  timelineSearchContainer: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    borderRadius: 8,
+    borderWidth: 1,
+    marginBottom: 16,
+    paddingHorizontal: 12,
+  },
+  timelineSearchInput: {
+    flex: 1,
+    paddingVertical: 12,
+    fontSize: 16,
+  },
+  timelineSearchClear: {
+    padding: 8,
+  },
+  timelineDecadeNav: {
+    marginBottom: 20,
+  },
+  timelineDecadeNavContent: {
+    gap: 8,
+    paddingVertical: 4,
+  },
+  timelineDecadeBtn: {
+    paddingHorizontal: 16,
+    paddingVertical: 10,
+    borderRadius: 20,
+    borderWidth: 1,
+    minWidth: 60,
+    alignItems: 'center',
+  },
+  timelineDecadeBtnActive: {
+    borderWidth: 0,
+  },
+  timelineDecadeBtnText: {
+    fontWeight: '600',
+    fontSize: 14,
+  },
+  timelineActiveFilters: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    marginBottom: 16,
+  },
+  timelineActiveFiltersLabel: {
+    fontSize: 14,
+  },
+  timelineClearFiltersBtn: {
+    padding: 8,
+  },
+  timelineClearFiltersBtnText: {
+    fontSize: 14,
+    fontWeight: '600',
+  },
+  timelineContainer: {
+    position: 'relative',
+    paddingLeft: 20,
+    marginBottom: 24,
+  },
+  timelineLine: {
+    position: 'absolute',
+    left: 8,
+    top: 0,
+    bottom: 0,
+    width: 2,
+  },
+  timelineEventCard: {
+    marginBottom: 16,
+    padding: 16,
+    borderRadius: 12,
+    borderWidth: 1,
+    position: 'relative',
+  },
+  timelineYearBadge: {
+    position: 'absolute',
+    left: -28,
+    top: 16,
+    width: 36,
+    height: 36,
+    borderRadius: 18,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  timelineYearText: {
+    color: '#fff',
+    fontWeight: '700',
+    fontSize: 10,
+  },
+  timelineEventHeader: {
+    flexDirection: 'row',
+    alignItems: 'flex-start',
+    marginBottom: 12,
+  },
+  timelineEventEmoji: {
+    fontSize: 24,
+    marginRight: 12,
+  },
+  timelineEventTitleContainer: {
+    flex: 1,
+  },
+  timelineEventTitle: {
+    fontSize: 18,
+    fontWeight: '700',
+    marginBottom: 4,
+  },
+  timelineEventMeta: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    flexWrap: 'wrap',
+  },
+  timelineEventBand: {
+    fontSize: 14,
+    fontWeight: '600',
+  },
+  timelineEventBandName: {
+    fontSize: 14,
+  },
+  timelineEventTags: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 8,
+    marginBottom: 8,
+  },
+  timelineEventTag: {
+    paddingHorizontal: 10,
+    paddingVertical: 4,
+    borderRadius: 12,
+    borderWidth: 1,
+  },
+  timelineEventTagText: {
+    fontSize: 12,
+    fontWeight: '500',
+  },
+  timelineEventExpanded: {
+    marginTop: 16,
+    paddingTop: 16,
+    borderTopWidth: 1,
+  },
+  timelineEventDescription: {
+    fontSize: 15,
+    lineHeight: 24,
+    marginBottom: 16,
+  },
+  timelineEventSection: {
+    marginBottom: 12,
+  },
+  timelineEventSectionTitle: {
+    fontSize: 14,
+    fontWeight: '600',
+    marginBottom: 4,
+  },
+  timelineEventSectionText: {
+    fontSize: 14,
+    lineHeight: 20,
+  },
+  timelineEventActions: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 10,
+    marginTop: 12,
+  },
+  timelineEventActionBtn: {
+    paddingHorizontal: 16,
+    paddingVertical: 10,
+    borderRadius: 8,
+  },
+  timelineEventActionText: {
+    color: '#fff',
+    fontWeight: '600',
+    fontSize: 14,
+  },
+  timelineEmptyState: {
+    padding: 32,
+    borderRadius: 12,
+    borderWidth: 1,
+    alignItems: 'center',
+  },
+  timelineEmptyText: {
+    fontSize: 16,
+    textAlign: 'center',
+  },
+  timelineStatsSection: {
+    padding: 20,
+    borderRadius: 12,
+    borderWidth: 1,
+    marginBottom: 24,
+  },
+  timelineStatsTitle: {
+    fontSize: 20,
+    fontWeight: '700',
+    marginBottom: 16,
+  },
+  timelineStatsGrid: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    justifyContent: 'space-around',
+    gap: 16,
+  },
+  timelineStatItem: {
+    alignItems: 'center',
+    minWidth: 80,
+  },
+  timelineStatValue: {
+    fontSize: 28,
+    fontWeight: '700',
+  },
+  timelineStatLabel: {
+    fontSize: 12,
+    textAlign: 'center',
+    marginTop: 4,
+  },
+  timelineCtaSection: {
+    padding: 24,
+    borderRadius: 12,
+    alignItems: 'center',
+    marginBottom: 32,
+  },
+  timelineCtaTitle: {
+    color: '#fff',
+    fontSize: 20,
+    fontWeight: '700',
+    textAlign: 'center',
+    marginBottom: 8,
+  },
+  timelineCtaSubtitle: {
+    color: 'rgba(255,255,255,0.9)',
+    fontSize: 14,
+    textAlign: 'center',
+    marginBottom: 16,
+  },
+  timelineCtaButton: {
+    backgroundColor: 'rgba(255,255,255,0.2)',
+    paddingHorizontal: 24,
+    paddingVertical: 12,
+    borderRadius: 24,
+    borderWidth: 1,
+    borderColor: 'rgba(255,255,255,0.3)',
+  },
+  timelineCtaButtonText: {
+    color: '#fff',
+    fontWeight: '600',
+    fontSize: 16,
   },
   // ==========================================
   // QUOTES PAGE STYLES

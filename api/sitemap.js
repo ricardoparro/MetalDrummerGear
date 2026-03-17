@@ -63,6 +63,27 @@ const articles = [
   { slug: 'most-brutal-drum-solos', name: 'Top 10 Most Brutal Drum Solos in Metal History' },
 ];
 
+// Issue #663: Album gear breakdown articles
+const albumArticles = [
+  { slug: 'master-of-puppets-drum-setup', name: 'Master of Puppets Drum Setup' },
+  { slug: 'reign-in-blood-drum-setup', name: 'Reign in Blood Drum Setup' },
+  { slug: 'iowa-drum-setup', name: 'Iowa Drum Setup' },
+  { slug: 'vulgar-display-of-power-drum-setup', name: 'Vulgar Display of Power Drum Setup' },
+  { slug: 'number-of-the-beast-drum-setup', name: 'Number of the Beast Drum Setup' },
+  { slug: 'obzen-drum-setup', name: 'obZen Drum Setup' },
+  { slug: 'painkiller-drum-setup', name: 'Painkiller Drum Setup' },
+  { slug: 'fear-inoculum-drum-setup', name: 'Fear Inoculum Drum Setup' },
+  { slug: 'lateralus-drum-setup', name: 'Lateralus Drum Setup' },
+  // Drummer Kit articles
+  { slug: 'whats-in-joey-jordisons-kit', name: "What's In Joey Jordison's Kit" },
+  { slug: 'whats-in-danny-careys-kit', name: "What's In Danny Carey's Kit" },
+  { slug: 'whats-in-tomas-haakes-kit', name: "What's In Tomas Haake's Kit" },
+  { slug: 'whats-in-dave-lombardos-kit', name: "What's In Dave Lombardo's Kit" },
+  { slug: 'whats-in-gene-hoglans-kit', name: "What's In Gene Hoglan's Kit" },
+  { slug: 'whats-in-eloy-casagrandes-kit', name: "What's In Eloy Casagrande's Kit" },
+  { slug: 'whats-in-mike-portnoys-kit', name: "What's In Mike Portnoy's Reunion Kit" },
+];
+
 const bandPages = [
   { slug: 'metallica', name: 'Metallica' },
   { slug: 'death', name: 'Death' },
@@ -197,6 +218,8 @@ export default function handler(req, res) {
     ...top10Lists.map(l => ({ loc: `/lists/${l.slug}`, priority: '0.8', changefreq: 'monthly' })),
     // Issue #642: Article pages for SEO-optimized content
     ...articles.map(a => ({ loc: `/articles/${a.slug}`, priority: '0.9', changefreq: 'weekly' })),
+    // Issue #663: Album gear breakdown and drummer kit articles
+    ...albumArticles.map(a => ({ loc: `/articles/${a.slug}`, priority: '0.9', changefreq: 'monthly' })),
     ...drummers.map(d => ({ loc: `/drummer/${generateSlug(d.name)}`, priority: '0.8', changefreq: 'monthly' })),
     ...gearItems.map(g => ({ loc: `/gear/item/${g.slug}`, priority: '0.7', changefreq: 'monthly' })),
     ...bandPages.map(b => ({ loc: `/band/${b.slug}`, priority: '0.8', changefreq: 'monthly' })),

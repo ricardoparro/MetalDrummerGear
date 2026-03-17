@@ -254,6 +254,7 @@
 | 2026-03-15 | Painkiller Drum Setup: Scott Travis | /articles/painkiller-drum-setup | - |
 | 2026-03-16 | Fear Inoculum Drum Setup: Danny Carey | /articles/fear-inoculum-drum-setup | - |
 | 2026-03-16 | Lateralus Drum Setup: Danny Carey | /articles/lateralus-drum-setup | - |
+| 2026-03-17 | What's In Mike Portnoy's Reunion Kit | /articles/whats-in-mike-portnoys-kit | - |
 
 ---
 
@@ -397,12 +398,12 @@
 
 ---
 
-### 💡 [IDEA-021] What's In Mike Portnoy's Reunion Kit: Dream Theater 2025
+### ✅ [IDEA-021] What's In Mike Portnoy's Reunion Kit: Dream Theater 2025
 
 **Type:** drummer-kit
 **SEO Keywords:** mike portnoy drum kit 2025, dream theater reunion drums, mike portnoy setup, portnoy tama kit
 **Search Volume:** VERY HIGH (Dream Theater reunion trending!)
-**Data Available:** Yes (research needed)
+**Data Available:** Yes (drummerId: 13)
 **Priority:** 5
 
 **Outline:**
@@ -413,7 +414,7 @@
 5. Comparing 2010 vs 2025 Setups
 6. Impact on the Progressive Metal Scene
 
-**Status:** IDEA
+**Status:** PUBLISHED (2026-03-17) — /articles/whats-in-mike-portnoys-kit
 
 ---
 
@@ -437,6 +438,66 @@
 
 ---
 
+### 💡 [IDEA-023] What's In Matt Garstka's Animals As Leaders Kit
+
+**Type:** drummer-kit
+**SEO Keywords:** matt garstka drum kit, animals as leaders drummer, matt garstka setup, djent drums, prog metal drums
+**Search Volume:** High (AAL album cycle + YouTube presence)
+**Data Available:** Partial (needs research)
+**Priority:** 4
+
+**Outline:**
+1. Introduction — The YouTube Generation's Prog Hero
+2. Current Tama Starclassic Setup
+3. Electronic Integration & Hybrid Approach
+4. Signature Techniques (ghost notes, polyrhythms)
+5. How He Joined AAL and Changed Their Sound
+6. Where to Buy Similar Gear
+
+**Status:** IDEA (added 2026-03-17)
+
+---
+
+### 💡 [IDEA-024] Images and Words Drum Setup: Mike Portnoy's Breakthrough
+
+**Type:** album-breakdown
+**SEO Keywords:** images and words drums, mike portnoy 1992, dream theater images words gear, pull me under drums
+**Search Volume:** Very High (classic prog metal album)
+**Data Available:** Yes (drummerId: 13)
+**Priority:** 5
+
+**Outline:**
+1. Introduction — The Album That Launched Prog Metal
+2. Studio Setup at BearTracks Studios
+3. "Pull Me Under" Breakdown (the hit that broke through)
+4. "Metropolis Part 1" — 9 Minutes of Technical Brilliance
+5. Recording Techniques with David Prater
+6. How This Album Defined Portnoy's Sound
+
+**Status:** IDEA (added 2026-03-17)
+
+---
+
+### 💡 [IDEA-025] What's In Flo Mounier's Extreme Arsenal
+
+**Type:** drummer-kit
+**SEO Keywords:** flo mounier drum kit, cryptopsy drummer, flo mounier setup, extreme metal drums, blast beat king
+**Search Volume:** Medium-High (death metal niche authority)
+**Data Available:** Yes (drummerId in DB)
+**Priority:** 4
+
+**Outline:**
+1. Introduction — The Blast Beat Virtuoso
+2. Current Pearl Reference Setup
+3. None So Vile Era vs Modern Setup
+4. Blast Beat Techniques & Speed Training
+5. How He Shaped Technical Death Metal Drumming
+6. Where to Buy Similar Gear
+
+**Status:** IDEA (added 2026-03-17)
+
+---
+
 ## 💡 Idea Backlog (Lower Priority)
 
 - Best Sticks for Blast Beats
@@ -450,4 +511,4 @@
 
 ---
 
-*Last updated: 2026-03-16 13:05*
+*Last updated: 2026-03-17 09:10*

@@ -4670,6 +4670,369 @@ Twenty-five years later, Lateralus remains essential listening for any serious d
 
 🌀 *"Spiral out. Keep going."* 🌀`
     }
+  },
+
+  // What's In Mike Portnoy's Reunion Kit - Dream Theater 2025
+  'whats-in-mike-portnoys-kit': {
+    slug: 'whats-in-mike-portnoys-kit',
+    articleType: 'drummer-kit',
+    drummer: 'Mike Portnoy',
+    drummerId: 13,
+    band: 'Dream Theater',
+    bands: ['Dream Theater', 'The Winery Dogs', 'Sons of Apollo', 'Liquid Tension Experiment', 'Flying Colors'],
+    genre: 'Progressive Metal',
+    country: 'USA',
+    isAlbumArticle: true,
+    datePublished: '2026-03-17',
+    dateModified: '2026-03-17',
+    author: 'MetalForge Editorial',
+    // SEO
+    title: "What's In Mike Portnoy's Reunion Kit: Dream Theater 2025 Complete Breakdown",
+    description: "Discover Mike Portnoy's complete 2025 Dream Theater reunion drum setup. Full breakdown of his Tama Starclassic kit, Sabian HHX cymbals, signature gear, and how his setup evolved after 13 years away from Dream Theater.",
+    seoKeywords: ['mike portnoy drum kit', 'mike portnoy setup 2025', 'dream theater drummer gear', 'mike portnoy tama drums', 'mike portnoy sabian cymbals', 'mike portnoy signature snare', 'dream theater reunion drums', 'portnoy kit breakdown'],
+    ogImage: '/images/drummers/mike-portnoy.webp',
+    // Introduction
+    intro: {
+      title: 'The Prodigal Son Returns',
+      content: `In October 2023, the progressive metal world stopped spinning when news broke: Mike Portnoy was returning to Dream Theater. After 13 years, 26 Modern Drummer awards, countless side projects, and an acrimonious departure that fans thought was permanent, the co-founder was coming home.
+
+Mike Portnoy (born April 20, 1967, in Long Beach, New York) isn't just Dream Theater's drummer — he's the heartbeat of progressive metal itself. Co-founding the band at Berklee College of Music in 1985, he helped create the blueprint for technical, emotionally complex metal that would influence thousands of bands. His departure in 2010 left a void that successor Mike Mangini filled admirably, but something was always missing.
+
+The reunion kit represents a fascinating synthesis: 13 years of evolution across The Winery Dogs, Sons of Apollo, Flying Colors, and countless other projects, combined with a return to the demanding Dream Theater catalog. This isn't the same kit Portnoy played on "Octavarium" or "Six Degrees of Inner Turbulence" — it's a refined, battle-tested setup honed by a decade of diverse musical exploration.
+
+With over 30 Modern Drummer awards, induction into their Hall of Fame in 2007, and a discography spanning dozens of albums across multiple bands, Mike Portnoy has earned his place among drumming royalty. This article breaks down every piece of gear behind the Dream Theater reunion sound.`,
+      keyPoints: [
+        'Returned to Dream Theater in 2023 after 13 years away',
+        'Tama Drums endorsee since the 1990s with signature snare drum',
+        'Sabian HHX cymbals including custom/prototype models',
+        'Over 30 Modern Drummer magazine awards',
+        'Modern Drummer Hall of Fame inductee (2007)',
+        'Known for theatrical drumming, odd-time mastery, and elaborate solos'
+      ]
+    },
+    // Drum Kit Section
+    drumKit: {
+      title: "Mike's Tama Starclassic Empire",
+      brand: 'Tama',
+      model: 'Tama Starclassic Maple/Birch',
+      finish: 'Custom Lacquer finishes (varies by tour)',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum', '22" x 18" Bass Drum (double bass setup)'],
+        toms: ['8" x 7" Tom', '10" x 8" Tom', '12" x 9" Tom', '13" x 10" Tom'],
+        floorToms: ['14" x 12" Floor Tom', '16" x 14" Floor Tom', '18" x 16" Floor Tom'],
+        octobans: ['Set of 4 Octobans (6", 8", 10", 12" lengths)'],
+        shells: 'Maple/Birch hybrid shells for balanced attack and warmth'
+      },
+      description: `Mike Portnoy's Tama Starclassic kit is one of the most recognizable setups in progressive metal. The current configuration represents decades of refinement, balancing the massive stage presence Dream Theater requires with the ergonomic efficiency needed to play 3+ hour shows.
+
+The Starclassic Maple/Birch shells offer a unique tonal character: maple's warmth and sustain combined with birch's focused attack and punch. This hybrid construction sits perfectly in the mix during Dream Theater's complex arrangements, where drums need to cut through without overwhelming.
+
+Portnoy's double bass drum setup is legendary. While many modern drummers favor a single bass drum with a double pedal, Mike maintains two 22" kick drums for visual impact and the slightly different feel of independent drums. The matching 22" x 18" shells provide thunderous low end for tracks like "The Glass Prison" and "A Nightmare to Remember."
+
+The extended tom range — from 8" to 18" — gives Mike melodic possibilities across a vast pitch spectrum. His elaborate fills often utilize the full range, creating cascading patterns that became a Dream Theater signature. The Octobans add even more melodic reach, allowing for tonal fills impossible on standard kits.
+
+Throughout his years away from Dream Theater, Mike experimented with slightly smaller configurations for The Winery Dogs and Sons of Apollo. The reunion kit marks a return to the massive setups that defined his Dream Theater era, though with refinements learned from playing more compact kits.`,
+      notes: [
+        'Maple/Birch hybrid shells balance warmth and attack',
+        'True double bass drum setup, not just a double pedal',
+        'Extended tom range from 8" to 18" for melodic fills',
+        'Octobans add high-pitched melodic elements',
+        'Kit requires multiple road cases and extensive setup time',
+        'Custom finishes designed for each tour'
+      ],
+      estimatedValue: '$12,000-18,000 (Starclassic configuration without cymbals)'
+    },
+    // Snare Section
+    snare: {
+      title: 'The Melody Master: Portnoy Signature',
+      brand: 'Tama',
+      model: 'Mike Portnoy Signature Melody Master Snare',
+      size: '14" x 5.5"',
+      shell: 'Maple',
+      description: `The Tama Mike Portnoy Signature Melody Master snare is the centerpiece of his setup. At 14" x 5.5", it's a standard size that delivers versatile performance across Dream Theater's dynamic range — from ghostly quiet passages to thunderous climaxes.
+
+The "Melody Master" designation reflects Mike's approach to snare drum: he treats it as a melodic instrument, not just a timekeeper. The maple shell provides warmth and body, with a focused crack that cuts through even the densest prog metal arrangements.
+
+The signature snare features die-cast hoops for precise tuning and focused rim shots, plus Tama's sensitive snare wires that respond to ghost notes and subtle dynamics. This sensitivity is crucial for Dream Theater's music, where a single snare hit during a quiet passage must be as articulate as a blazing fill.
+
+Mike typically runs several snares during shows, switching between songs to match the sonic requirements. The Melody Master serves as his primary drum, but he'll swap to piccolo or steel snares for specific tracks.
+
+The snare's aesthetic matches his kit, with custom finishes designed for each tour. It's a drum that looks as striking as it sounds — appropriate for one of progressive metal's most theatrical drummers.`,
+      tuningSetting: 'Medium-high for crack and sensitivity, adjusted per song',
+      heads: 'Remo Coated Powerstroke 77 (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$600-800 (signature model)'
+    },
+    // Cymbals Section
+    cymbals: {
+      title: 'The Sabian HHX Arsenal',
+      brand: 'Sabian',
+      series: 'Sabian HHX Series',
+      setup: [
+        { type: 'Hi-Hats', model: 'Sabian HHX 14" Evolution Hi-Hats', position: 'Left side', notes: 'Bright, articulate hi-hats for complex patterns' },
+        { type: 'Hi-Hats', model: 'Sabian HHX 13" X-Celerator Hi-Hats', position: 'Remote (right side)', notes: 'Secondary hi-hats for X-hat effects' },
+        { type: 'Crash', model: 'Sabian HHX 16" Evolution Crash', position: 'Far left', notes: 'Quick, explosive crash' },
+        { type: 'Crash', model: 'Sabian HHX 18" Evolution Crash', position: 'Left of hi-hats', notes: 'Primary crash position' },
+        { type: 'Crash', model: 'Sabian HHX 19" X-Treme Crash', position: 'Over rack toms', notes: 'Aggressive, cutting crash' },
+        { type: 'Crash', model: 'Sabian HHX 20" Evolution Crash', position: 'Right of toms', notes: 'Large, full-bodied crash' },
+        { type: 'Ride', model: 'Sabian HHX 22" Raw Bell Dry Ride', position: 'Far right', notes: 'Distinctive bell, controlled wash' },
+        { type: 'Ride', model: 'Sabian HHX 20" Legacy Ride', position: 'Right (alternate position)', notes: 'Dark, complex ride option' },
+        { type: 'China', model: 'Sabian HHX 18" Chinese', position: 'Above floor tom', notes: 'Trashy accents' },
+        { type: 'China', model: 'Sabian HHX 20" Chinese', position: 'Mounted high', notes: 'Larger china for dramatic effects' },
+        { type: 'Splash', model: 'Sabian HHX 10" Evolution Splash', position: 'Various', notes: 'Quick accent splashes' },
+        { type: 'O-Zone', model: 'Sabian HHX 18" O-Zone Crash', position: 'Stacked effects', notes: 'Trashy, quick-decay effects' },
+        { type: 'Bell', model: 'Sabian 8" Ice Bell', position: 'Stacked/mounted', notes: 'High-pitched bell accents' }
+      ],
+      description: `Mike Portnoy's Sabian setup is extensive, theatrical, and carefully curated for Dream Theater's demanding music. The HHX series forms the core, offering the perfect combination of brightness, complexity, and projection for progressive metal.
+
+The 14" HHX Evolution Hi-Hats are workhorses for Mike's intricate patterns. "Evolution" cymbals feature Sabian's hand-hammered, unlathed finish that provides dark, complex tones with bright articulation — ideal for the quick, precise hi-hat work in Dream Theater songs.
+
+The remote 13" X-Celerator hi-hats are a Portnoy signature — mounted on the right side of the kit, they're operated by a cable or electronic trigger, allowing for hi-hat effects while playing double bass. This technique appears throughout Dream Theater's catalog.
+
+For crashes, Mike uses a full spectrum from 16" to 20", all HHX Evolution or X-Treme models. The variety allows him to match crash intensity to musical dynamics — smaller crashes for quick accents, larger ones for section endings and climactic moments.
+
+The 22" Raw Bell Dry Ride is iconic to Mike's sound. The "raw" bell (no lathing) produces a distinctive, cutting ping, while the "dry" designation means controlled wash that doesn't overwhelm. The bell gets heavy use in Dream Theater arrangements as a powerful accent.
+
+Multiple Chinas — 18" and 20" — provide the aggressive, trashy accents that punctuate Dream Theater's heaviest moments. The O-Zone crash (with holes cut into it) offers quick-decay trash for effects.
+
+The 8" Ice Bell, mounted among the effects cymbals, adds high-pitched bell tones for specific musical moments. It's a small touch, but it shows Mike's attention to sonic detail.`,
+      estimatedValue: '$5,000-7,000 total (HHX series full setup)'
+    },
+    // Hardware Section
+    hardware: {
+      title: 'The Iron Cobra Foundation',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'Tama',
+          model: 'Tama Iron Cobra Power Glide Double Pedal',
+          notes: 'Smooth cam for fluid double bass',
+          description: 'The Iron Cobra Power Glide features a round cam that provides a smooth, consistent feel throughout the stroke. Mike relies on this for the marathon double bass sections in songs like "The Dance of Eternity" and "Constant Motion."'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Tama',
+          model: 'Tama Iron Cobra Lever Glide Hi-Hat Stand',
+          notes: 'Quick, responsive for complex patterns'
+        },
+        {
+          type: 'Remote Hi-Hat',
+          brand: 'Tama',
+          model: 'Tama Iron Cobra Remote Hi-Hat',
+          notes: 'X-Hat system for right-side hi-hat work',
+          description: 'The remote hi-hat system allows Mike to play hi-hats with his right hand while his left foot operates the primary hi-hats. This technique creates layered hi-hat textures unique to his style.'
+        },
+        {
+          type: 'Throne',
+          brand: 'Tama',
+          model: 'Tama 1st Chair Ergo-Rider Throne',
+          notes: 'Hydraulic height adjustment, comfort for long shows',
+          description: 'Dream Theater shows can run 3+ hours. The Ergo-Rider throne provides the back support and comfort needed for extended performances, with hydraulic adjustment for precise positioning.'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Promark',
+          model: 'Promark Mike Portnoy TX420N Signature',
+          notes: 'Custom hickory stick with nylon tip',
+          description: 'Mike\'s signature stick is a modified 420 model with a nylon tip for consistent cymbal articulation. The dimensions suit his powerful, precise playing style across the massive kit.'
+        },
+        {
+          type: 'Rack',
+          brand: 'Tama',
+          model: 'Tama Power Tower System',
+          notes: 'Full wraparound rack for mounting everything',
+          description: 'The Power Tower rack system provides stable mounting for Mike\'s extensive cymbal and tom setup. The modular design allows for custom configurations on different stages.'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke 3 Clear (batter), Remo Starfire Chrome (resonant)',
+        toms: 'Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)',
+        snare: 'Remo Coated Powerstroke 77 (batter), Remo Ambassador Snare Side (resonant)'
+      }
+    },
+    // Gear Evolution Section
+    gearTimeline: [
+      {
+        era: 'Early Dream Theater',
+        years: '1985-1992',
+        albums: ['When Dream and Day Unite'],
+        description: 'Establishing the Dream Theater sound.',
+        gear: {
+          drums: 'Tama Imperialstar / Granstar',
+          snare: 'Various Tama models',
+          cymbals: 'Zildjian A Custom',
+          hardware: 'Tama hardware'
+        },
+        notes: 'Starting to develop the large, theatrical kit style.'
+      },
+      {
+        era: 'Images and Words / Awake',
+        years: '1992-1997',
+        albums: ['Images and Words', 'Awake', 'A Change of Seasons'],
+        description: 'Breakthrough era with massive touring.',
+        gear: {
+          drums: 'Tama Granstar / Starclassic',
+          snare: 'Tama Artwood Maple',
+          cymbals: 'Sabian (beginning of endorsement)',
+          hardware: 'Tama Power Tower'
+        },
+        notes: 'Kit growing larger; Sabian partnership begins.'
+      },
+      {
+        era: 'Metropolis Era',
+        years: '1999-2005',
+        albums: ['Metropolis Pt. 2', 'Six Degrees', 'Train of Thought', 'Octavarium'],
+        description: 'Peak complexity. Concept albums and 3-hour shows.',
+        gear: {
+          drums: 'Tama Starclassic Maple',
+          snare: 'Melody Master prototype',
+          cymbals: 'Sabian HH/HHX mixed setup',
+          hardware: 'Full Power Tower rack system'
+        },
+        notes: 'Largest and most elaborate kits of his career.'
+      },
+      {
+        era: 'Final DT Period',
+        years: '2007-2010',
+        albums: ['Systematic Chaos', 'Black Clouds & Silver Linings'],
+        description: 'Final albums before departure.',
+        gear: {
+          drums: 'Tama Starclassic Bubinga',
+          snare: 'Melody Master Signature',
+          cymbals: 'Sabian HHX Evolution setup',
+          hardware: 'Refined Power Tower'
+        },
+        notes: 'Setup refined but still massive.'
+      },
+      {
+        era: 'Years Away',
+        years: '2010-2023',
+        albums: ['Winery Dogs', 'Sons of Apollo', 'LTE3'],
+        description: '13 years of diverse projects.',
+        gear: {
+          drums: 'Tama Starclassic (smaller configs)',
+          snare: 'Melody Master Signature',
+          cymbals: 'Sabian HHX (reduced setup)',
+          hardware: 'Compact rack systems'
+        },
+        notes: 'Explored smaller, more efficient setups. Refined technique.'
+      },
+      {
+        era: 'The Reunion',
+        years: '2023-Present',
+        albums: ['New Dream Theater album (2025)'],
+        description: 'Return to Dream Theater with evolved approach.',
+        gear: {
+          drums: 'Tama Starclassic Maple/Birch',
+          snare: 'Updated Melody Master Signature',
+          cymbals: 'Sabian HHX Evolution full setup',
+          hardware: 'Power Tower System 2.0'
+        },
+        notes: 'Full DT-scale kit with refinements from years away.'
+      }
+    ],
+    // Technique Section
+    playingStyle: {
+      title: 'The Portnoy Approach: Showmanship Meets Precision',
+      content: `Mike Portnoy's drumming combines technical virtuosity with theatrical presentation in a way few drummers achieve. His approach isn't just about playing the notes — it's about creating an experience.
+
+**Odd-Time Signature Mastery:**
+Dream Theater is famous for complex time signatures, and Mike navigates them effortlessly. Songs shift between 7/8, 9/8, 11/8, and more, sometimes within a single measure. His key is subdividing: he breaks odd meters into digestible groups (7/8 as 4+3 or 3+4) and feels each grouping rather than counting individual beats.
+
+**Double Bass Philosophy:**
+Mike's double bass work prioritizes musicality over speed. Rather than playing constant 16th notes, he uses double bass to accentuate arrangements, creating texture and dynamics. His patterns often interlock with bass guitar (John Myung), creating the rhythmic complexity Dream Theater is known for.
+
+**Fill Vocabulary:**
+Portnoy's fills are compositions within themselves. Using the full range of his kit — from the highest Octoban to the lowest floor tom — he creates melodic statements that serve the song. Many are choreographed movements, the same fill played identically every night because it's the perfect fill for that moment.
+
+**Visual Performance:**
+Mike has always understood that drumming is visual. Stick twirls, exaggerated movements, and theatrical expressions make his performances entertaining to watch. This isn't showing off — it's communication. The audience sees his intensity, his joy, his commitment.
+
+**Solo Construction:**
+His drum solos are journeys with verses, choruses, and narrative arcs. They incorporate recognizable melodies (often from other Dream Theater songs), quotes from his influences, electronic elements, and moments of silence for contrast. The "Mike Portnoy Drum Solo" is a signature event at every show.`,
+      keyTechniques: [
+        'Odd-time signature navigation through subdivision',
+        'Musicality-focused double bass (not just speed)',
+        'Full-kit melodic fills from Octobans to floor toms',
+        'Visual performance enhancing musical communication',
+        'Solo construction with narrative and thematic elements'
+      ]
+    },
+    // Videos
+    videos: [
+      { youtubeId: 'n1P1MJqC-H4', title: 'The Dance of Eternity - Live', description: 'Showcasing odd-time mastery with Dream Theater' },
+      { youtubeId: 'X_D-Dc8HFEI', title: 'Pull Me Under - Official Video', description: 'The breakthrough hit that launched DT' },
+      { youtubeId: 'vdoFynmKMgk', title: 'Mike Portnoy Drum Solo', description: 'Extended solo showing technique and showmanship' },
+      { youtubeId: 'JDGaZepN7Lg', title: 'Tama Starclassic Kit Tour', description: 'Mike walks through his touring setup' }
+    ],
+    // Quotes
+    quotes: [
+      { text: "Coming back to Dream Theater felt like coming home. The chemistry is still there — it's like we never stopped.", source: "Modern Drummer Magazine", year: 2023 },
+      { text: "During my years away, I learned to do more with less. But Dream Theater requires the full arsenal. I'm ready.", source: "Drumeo Interview", year: 2024 },
+      { text: "The drums should tell a story. Every fill, every accent is a sentence in that story. The song is the chapter.", source: "Prog Magazine", year: 2019 }
+    ],
+    // Comparisons
+    comparisons: {
+      title: 'Comparing the Icons: Portnoy vs. Other Prog Legends',
+      items: [
+        { drummer: 'Neil Peart (Rush)', comparison: 'Both masters of odd-time and concept albums. Neil more precise, Mike more theatrical.' },
+        { drummer: 'Danny Carey (Tool)', comparison: 'Both use mathematics in drumming. Danny more meditative, Mike more explosive.' },
+        { drummer: 'Tomas Haake (Meshuggah)', comparison: 'Both polyrhythmic masters. Tomas more groove-focused, Mike more progressive.' }
+      ]
+    },
+    // Buying Guide
+    buyingGuide: {
+      title: 'Getting the Portnoy Sound: A Buyer\'s Guide',
+      content: `Recreating Mike Portnoy's exact setup isn't practical for most drummers (or budgets), but you can capture elements of his sound at various price points.
+
+**Budget Approach ($1,500-3,000):**
+- Tama Imperialstar or Superstar kit — Mike's early drums
+- Sabian AAX cymbals — bright, articulate, affordable HHX alternative
+- Iron Cobra 200 pedals — entry-level version of his pedal line
+- Standard Promark 5B sticks
+
+**Mid-Range Approach ($4,000-8,000):**
+- Tama Starclassic Performer — professional quality, more affordable
+- Sabian HHX cymbals — same line Mike uses
+- Iron Cobra 900 Power Glide pedals — professional level
+- Add Octobans for melodic fills
+
+**Professional Approach ($10,000+):**
+- Tama Starclassic Maple/Birch — same shells as Mike
+- Full Sabian HHX Evolution setup
+- Mike Portnoy Signature Snare
+- Power Tower rack system
+- Promark MP signature sticks`,
+      budgetTiers: [
+        { tier: 'Budget', range: '$1,500-3,000', notes: 'Imperialstar + AAX' },
+        { tier: 'Mid-Range', range: '$4,000-8,000', notes: 'Starclassic Performer + HHX' },
+        { tier: 'Professional', range: '$10,000+', notes: 'Full Starclassic + Signature gear' }
+      ]
+    },
+    relatedAlbums: ['lateralus-drum-setup', 'fear-inoculum-drum-setup', 'obzen-drum-setup'],
+    relatedDrummers: [14, 5, 15], // Danny Carey, Tomas Haake, Mario Duplantier
+    relatedArticles: ['progressive-metal-drummers', 'best-drum-pedals-progressive'],
+    conclusion: {
+      title: 'The Return of the King',
+      content: `Mike Portnoy's return to Dream Theater isn't just a reunion — it's a homecoming for progressive metal itself. After 13 years of exploring different projects, refining his technique, and expanding his musical vocabulary, he returns to the band he co-founded with decades of additional wisdom.
+
+The reunion kit represents this evolution. It's not a nostalgic recreation of his 2010 setup; it's a modern configuration informed by years of playing smaller kits with The Winery Dogs, exploring prog rock with Flying Colors, and pushing technical boundaries with Sons of Apollo and Liquid Tension Experiment.
+
+What hasn't changed is the philosophy: drums as storytelling, technique in service of music, and showmanship that connects with audiences. Mike Portnoy plays for the song, for the band, and for the fans — always.
+
+For drummers studying his approach, the lessons extend beyond gear:
+
+- **Odd-times are math, but they must groove**: Subdivision unlocks complex meters
+- **Double bass serves the arrangement**: It's texture, not just speed
+- **The full kit is your orchestra**: Use every drum melodically
+- **Performance is communication**: Let the audience see your passion
+- **Never stop evolving**: 13 years away made him better, not rusty
+
+The gear — Tama Starclassic drums, Sabian HHX cymbals, Iron Cobra pedals — are world-class tools. But the real instrument is Mike Portnoy himself: 40 years of dedication, thousands of shows, and an unquenchable love for the drums.
+
+The prodigal son has returned. And he's brought his full arsenal with him.
+
+🥁 *"Dream if you will, a progressive metal reunion..."* 🥁`
+    }
   }
 };
 

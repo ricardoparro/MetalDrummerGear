@@ -256,6 +256,7 @@
 | 2026-03-16 | Lateralus Drum Setup: Danny Carey | /articles/lateralus-drum-setup | - |
 | 2026-03-17 | What's In Mike Portnoy's Reunion Kit | /articles/whats-in-mike-portnoys-kit | - |
 | 2026-03-17 | Images and Words Drum Setup: Mike Portnoy | /articles/images-and-words-drum-setup | - |
+| 2026-03-17 | What's In Mario Duplantier's Environmental Kit | /articles/whats-in-mario-duplantiers-kit | - |
 
 ---
 
@@ -299,12 +300,12 @@
 
 ---
 
-### 💡 [IDEA-016] What's In Mario Duplantier's Environmental Kit
+### ✅ [IDEA-016] What's In Mario Duplantier's Environmental Kit
 
 **Type:** drummer-kit
 **SEO Keywords:** mario duplantier drum kit, gojira drummer gear, mario duplantier setup, gojira drums
 **Search Volume:** High (Gojira trending!)
-**Data Available:** Yes (drummerId: 10)
+**Data Available:** Yes (drummerId: 15)
 **Priority:** 4
 
 **Outline:**
@@ -315,7 +316,7 @@
 5. Environmental Approach to Gear
 6. Where to Buy Similar Gear
 
-**Status:** IDEA
+**Status:** PUBLISHED (2026-03-17) — /articles/whats-in-mario-duplantiers-kit
 
 ---
 
@@ -512,4 +513,4 @@
 
 ---
 
-*Last updated: 2026-03-17 13:00*
+*Last updated: 2026-03-17 17:10*

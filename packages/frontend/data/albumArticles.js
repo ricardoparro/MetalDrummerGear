@@ -5423,6 +5423,361 @@ Images and Words launched progressive metal into the mainstream and established 
 
 🥁 *"Pull me under, pull me under, pull me under..."* 🥁`
     }
+  },
+
+  // What's In Mario Duplantier's Environmental Kit - Gojira
+  'whats-in-mario-duplantiers-kit': {
+    slug: 'whats-in-mario-duplantiers-kit',
+    articleType: 'drummer-kit',
+    drummer: 'Mario Duplantier',
+    drummerId: 15,
+    band: 'Gojira',
+    bands: ['Gojira'],
+    genre: 'Progressive Death Metal',
+    country: 'France',
+    isAlbumArticle: true,
+    datePublished: '2026-03-17',
+    dateModified: '2026-03-17',
+    author: 'MetalForge Editorial',
+    // SEO
+    title: "What's In Mario Duplantier's Environmental Kit: Complete Gear Breakdown",
+    description: "Discover Mario Duplantier's complete Gojira drum setup. Full breakdown of his Tama Starclassic Bubinga kit, Zildjian cymbals, dual bass drums, and the gear behind 'Flying Whales' and 'Silvera'.",
+    seoKeywords: ['mario duplantier drum kit', 'gojira drummer gear', 'mario duplantier setup', 'gojira drums', 'mario duplantier tama', 'flying whales drums', 'mario duplantier cymbals', 'gojira drum sound'],
+    ogImage: '/images/drummers/mario-duplantier.webp',
+    // Introduction
+    intro: {
+      title: 'The Flying Whale\'s Architect',
+      content: `Mario Duplantier isn't just Gojira's drummer — he's the heartbeat behind one of metal's most powerful and environmentally conscious bands. Born June 19, 1981, in Ondres, France, Mario co-founded Gojira (originally Godzilla) in 1996 with his brother Joe, and has spent nearly three decades developing a drumming style that combines crushing power with tribal sophistication.
+
+What sets Mario apart from other extreme metal drummers is his approach to dynamics and groove. While many death metal drummers rely on relentless blast beats, Mario creates space and breathing room within Gojira's dense wall of sound. His playing on tracks like "Flying Whales," "Silvera," and "Stranded" demonstrates that heavy music doesn't require constant aggression — sometimes the heaviest moments are the ones that breathe.
+
+Beyond his drumming, Mario is a visual artist who creates all of Gojira's album artwork, merchandise designs, and stage visuals. This artistic sensibility extends to his drumming: every pattern, every fill, every dynamic shift is composed with visual intention. His live performances are as much visual spectacles as musical ones.
+
+From headlining Download Festival to opening for Metallica in stadiums worldwide, Gojira has risen from the French underground to global metal prominence. At the center of it all, Mario's dual bass drum attack and tribal-influenced grooves have become as iconic as Joe's guitar tone. This article breaks down every piece of gear behind that thunderous, earth-shaking sound.`,
+      keyPoints: [
+        'Co-founded Gojira with brother Joe in 1996',
+        'Tama Drums and Zildjian Cymbals endorsee',
+        'Visual artist who creates all Gojira artwork',
+        'Known for tribal-influenced progressive death metal drumming',
+        'Uses dual bass drums for visual and sonic impact',
+        'Grammy-nominated performances on "Amazonia" and "Fortitude"'
+      ]
+    },
+    // Drum Kit Section
+    drumKit: {
+      title: "Mario's Tama Starclassic Bubinga Beast",
+      brand: 'Tama',
+      model: 'Tama Starclassic Bubinga',
+      finish: 'Custom Natural Bubinga / Matte Black (varies by tour)',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum', '22" x 18" Bass Drum (dual setup)'],
+        toms: ['10" x 7" Rack Tom', '12" x 8" Rack Tom', '13" x 9" Rack Tom'],
+        floorToms: ['16" x 14" Floor Tom', '18" x 16" Floor Tom'],
+        shells: 'Bubinga/Birch shells for maximum attack and low-end power'
+      },
+      description: `Mario Duplantier's Tama Starclassic Bubinga kit is built for one purpose: delivering the crushing, room-filling power that defines Gojira's sound. The Bubinga shells — made from African rosewood — provide exceptional density and projection, cutting through even the most aggressive guitar walls.
+
+The dual 22" x 18" bass drum setup is central to Mario's style. Unlike drummers who use a double pedal on a single kick, Mario maintains two independent bass drums for several reasons: the visual impact is undeniable, the independent resonance creates a fuller low-end, and the physical sensation of playing two drums differs from a double pedal. Watch any Gojira live performance and those twin kicks command attention.
+
+Mario's tom configuration strikes a balance between the melodic needs of Gojira's progressive passages and the brutal efficiency required for their death metal roots. The three rack toms (10", 12", 13") provide a focused melodic range for his signature fills, while the two floor toms (16" and 18") deliver the thunder for low-end accents.
+
+The Bubinga/Birch shell construction offers a unique tonal profile: Bubinga's density provides attack and fundamental, while birch's natural EQ curve adds focused midrange punch. This combination is particularly effective in Gojira's mix, where drums need to be felt as much as heard.
+
+Mario tunes his kit on the lower end for maximum weight, but not so low that articulation suffers. The result is drums that sound massive on their own but sit perfectly in Gojira's carefully crafted mix.`,
+      notes: [
+        'Bubinga shells provide exceptional density and projection',
+        'Dual bass drums for visual impact and independent resonance',
+        'Lower tuning for maximum weight while maintaining articulation',
+        'Natural/matte finishes reflect environmental consciousness',
+        'Kit size rivals any progressive death metal setup',
+        'Toms configured for both melodic and brutal applications'
+      ],
+      estimatedValue: '$8,000-12,000 (Starclassic Bubinga configuration)'
+    },
+    // Snare Section
+    snare: {
+      title: 'The Crack of the Wild: G-Maple Attack',
+      brand: 'Tama',
+      model: 'Tama S.L.P. G-Maple Snare',
+      size: '14" x 6.5"',
+      shell: 'Maple with diagonal grain',
+      description: `Mario Duplantier's snare drum needs to accomplish a demanding task: cutting through Gojira's wall of tuned-down guitars while maintaining the musicality required for their progressive moments. The Tama S.L.P. G-Maple accomplishes both with its unique diagonal-grain maple construction.
+
+The "G-Maple" designation refers to the shell's diagonal grain orientation, which provides enhanced projection and attack compared to standard vertical-grain construction. This design gives Mario the crack he needs for blast beats and tribal patterns, while the maple warmth ensures the drum remains musical during quieter passages.
+
+At 14" x 6.5", the drum offers enough depth for body and projection without becoming unwieldy. Mario tunes it in the medium-high range for maximum crack and response, essential for the ghost note work that adds texture to Gojira's grooves.
+
+The S.L.P. (Sound Lab Project) series represents Tama's experimental line, featuring unique shell materials and constructions. For Mario, the G-Maple became the perfect choice for balancing aggression and musicality — a balance that defines his entire approach to drumming.
+
+During live performances, the snare's projection is crucial. Gojira plays at thunderous volumes, and Mario's snare cuts through without electronic assistance, speaking to both the drum's design and his powerful stroke.`,
+      tuningSetting: 'Medium-high for maximum crack and ghost note sensitivity',
+      heads: 'Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$500-650 (S.L.P. G-Maple)'
+    },
+    // Cymbals Section
+    cymbals: {
+      title: 'The Zildjian Arsenal',
+      brand: 'Zildjian',
+      series: 'Zildjian K Custom / A Custom',
+      setup: [
+        { type: 'Hi-Hats', model: 'Zildjian K 14" Sweet Hi-Hats', position: 'Left side', notes: 'Dark, responsive hi-hats with quick chick' },
+        { type: 'Crash', model: 'Zildjian A Custom 17" Crash', position: 'Far left', notes: 'Bright, explosive crash for quick accents' },
+        { type: 'Crash', model: 'Zildjian K Custom 18" Dark Crash', position: 'Left of hi-hats', notes: 'Dark, complex crash for primary position' },
+        { type: 'Crash', model: 'Zildjian K Custom 19" Hybrid Crash', position: 'Over rack toms', notes: 'Balanced crash with cutting attack' },
+        { type: 'Crash', model: 'Zildjian A Custom 20" Crash', position: 'Right of toms', notes: 'Large, full crash for section endings' },
+        { type: 'Ride', model: 'Zildjian Z Custom 21" Mega Bell Ride', position: 'Far right', notes: 'Massive bell for cutting accents, controlled wash' },
+        { type: 'China', model: 'Zildjian K Custom 18" China', position: 'Above floor tom', notes: 'Dark, trashy china for aggressive accents' },
+        { type: 'China', model: 'Zildjian Oriental 20" China Trash', position: 'High right', notes: 'Secondary china for effects' },
+        { type: 'Splash', model: 'Zildjian A Custom 10" Splash', position: 'Stacked with effects', notes: 'Quick accent splashes' }
+      ],
+      description: `Mario Duplantier's Zildjian cymbal setup combines the dark complexity of K series cymbals with the bright projection of A Custom models. This hybrid approach reflects Gojira's music itself: simultaneously dark and powerful, complex and direct.
+
+The 14" K Sweet Hi-Hats are central to Mario's playing. The "Sweet" designation indicates a thinner, more responsive design that reacts to subtle stick work while still opening up for aggressive accents. Mario's hi-hat work is understated compared to many metal drummers — he often rides the kick and snare groove rather than filling space with constant hi-hat, making each opening and accent more impactful.
+
+For crashes, Mario blends K Custom Dark and A Custom models. The K Custom crashes provide the dark, complex tones suited to Gojira's atmospheric passages, while the A Custom crashes cut through during aggressive sections. This dynamic range — from whisper to wall of sound — is essential to Gojira's compositional approach.
+
+The Z Custom 21" Mega Bell Ride is a statement piece. The "Mega Bell" designation means a larger, heavier bell that produces a cutting, almost gong-like tone when struck. Mario uses the bell frequently for accents, creating the distinctive "ping" that punctuates Gojira's heaviest riffs. The body of the cymbal provides controlled wash for riding, though Mario often prefers hi-hat or crash riding.
+
+Dual Chinas — K Custom and Oriental — give Mario options for trashy accents at different volumes and in different positions. The K Custom is darker and more complex, while the Oriental Trash is brighter and more aggressive.`,
+      estimatedValue: '$3,500-5,000 total (premium Zildjian setup)'
+    },
+    // Hardware Section
+    hardware: {
+      title: 'The Iron Cobra Foundation',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'Tama',
+          model: 'Tama Iron Cobra 900 Power Glide',
+          notes: 'Round cam for smooth, consistent feel',
+          description: 'Mario uses Iron Cobra 900 pedals on both bass drums, operating them independently rather than as a connected double pedal unit. The Power Glide cam provides a smooth, even feel throughout the stroke, essential for the sustained double bass passages in songs like "Flying Whales" and "The Art of Dying."'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Tama',
+          model: 'Tama Iron Cobra Lever Glide Hi-Hat Stand',
+          notes: 'Quick response for open/closed dynamics'
+        },
+        {
+          type: 'Throne',
+          brand: 'Tama',
+          model: 'Tama 1st Chair Ergo-Rider Throne',
+          notes: 'Ergonomic design for long performances',
+          description: 'Gojira headline shows run 90+ minutes, requiring sustained power and stamina. The Ergo-Rider throne provides the support needed for marathon performances without fatigue.'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Tama',
+          model: 'Tama Mario Duplantier Signature Sticks',
+          notes: 'Custom design for power and control',
+          description: 'Mario\'s signature sticks are designed for the balance of power and finesse his playing requires. Slightly heavier than standard 5A sticks, they provide the mass needed for his powerful strokes while maintaining the control required for subtle ghost notes.'
+        },
+        {
+          type: 'Rack',
+          brand: 'Tama',
+          model: 'Tama Star Stand System',
+          notes: 'Modular system for dual bass drum setup',
+          description: 'The Star Stand system provides stable mounting for Mario\'s extensive tom and cymbal array while accommodating the dual bass drum configuration.'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke 3 Clear (batter), Remo Starfire Chrome (resonant)',
+        toms: 'Remo Emperor Clear (batter), Remo Ambassador Clear (resonant)',
+        snare: 'Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)'
+      }
+    },
+    // Signature Sound Section
+    signatureSound: {
+      title: 'The Gojira Drum Sound',
+      content: `What makes Mario Duplantier's drum sound instantly recognizable isn't just gear — it's approach. His playing combines several distinct elements that together create the Gojira signature:
+
+**Tribal Influence:**
+Mario incorporates tribal and world music influences into extreme metal contexts. The tom-heavy grooves in songs like "Vacuity" and "The Art of Dying" have an almost ritualistic quality, building hypnotic patterns that transcend typical death metal drumming. This influence comes from Igor Cavalera (Sepultura) and world percussion traditions.
+
+**Dynamic Control:**
+Unlike many extreme metal drummers who operate at one volume (loud), Mario uses the full dynamic spectrum. Songs like "Born in Winter" and "Low Lands" feature passages of restrained, almost delicate drumming that make the heavy sections hit harder by contrast. This compositional thinking separates Gojira from pure aggression bands.
+
+**The Groove Within Heaviness:**
+Even Gojira's most brutal moments maintain groove. Mario's double bass patterns in "Stranded" or "Silvera" swing despite their aggression. This groove sensibility — likely influenced by rock and funk as much as metal — gives Gojira's music physicality that pure speed cannot achieve.
+
+**Pick Scrape Integration:**
+While technically a guitar technique, Mario incorporates percussive elements that complement Joe's pick scrapes. His kit includes auxiliary percussion and effects that add texture beyond standard drums, creating a unified sonic approach with the guitar work.
+
+**The Wall of Sound:**
+Mario's dual bass drums, large toms, and extensive cymbal array create a massive sonic footprint. But rather than overwhelming, this arsenal is deployed strategically. Many passages feature minimal kit use, making the full-kit explosions all the more powerful.`,
+      signatureTracks: [
+        { track: 'Flying Whales', description: 'The definitive Gojira track, featuring slow-building tension and explosive releases' },
+        { track: 'Stranded', description: 'Groove-heavy playing with dynamic shifts between verse calm and chorus aggression' },
+        { track: 'Silvera', description: 'Relentless energy with tribal tom patterns and precise double bass' },
+        { track: 'The Art of Dying', description: 'Extended instrumental showcasing Mario\'s full dynamic and technical range' },
+        { track: 'Amazonia', description: 'Grammy-nominated track with environmental themes and powerful grooves' }
+      ]
+    },
+    // Gear Evolution Section
+    gearTimeline: [
+      {
+        era: 'Godzilla / Early Gojira',
+        years: '1996-2003',
+        albums: ['Possessed', 'Terra Incognita', 'The Link'],
+        description: 'Establishing the foundation.',
+        gear: {
+          drums: 'Various Tama models',
+          snare: 'Tama Rockstar/Superstar',
+          cymbals: 'Zildjian ZBT and A series',
+          hardware: 'Tama standard hardware'
+        },
+        notes: 'Building the tribal death metal sound on modest gear. The brothers recorded early albums in their home studio.'
+      },
+      {
+        era: 'From Mars to Sirius Breakthrough',
+        years: '2005-2007',
+        albums: ['From Mars to Sirius'],
+        description: 'International breakthrough.',
+        gear: {
+          drums: 'Tama Starclassic',
+          snare: 'Tama S.L.P.',
+          cymbals: 'Zildjian A Custom / K',
+          hardware: 'Tama Iron Cobra'
+        },
+        notes: 'Full endorsement deals. "Flying Whales" becomes a metal anthem. Gear upgrades reflect growing success.'
+      },
+      {
+        era: 'The Way of All Flesh / L\'Enfant Sauvage',
+        years: '2008-2015',
+        albums: ['The Way of All Flesh', 'L\'Enfant Sauvage'],
+        description: 'Critical acclaim and Grammy nominations.',
+        gear: {
+          drums: 'Tama Starclassic Bubinga',
+          snare: 'Tama S.L.P. G-Maple',
+          cymbals: 'Zildjian K Custom / A Custom',
+          hardware: 'Tama Iron Cobra 900'
+        },
+        notes: 'Upgraded to Bubinga shells for maximum power. First Grammy nomination for L\'Enfant Sauvage.'
+      },
+      {
+        era: 'Magma / Fortitude',
+        years: '2016-Present',
+        albums: ['Magma', 'Fortitude'],
+        description: 'Mainstream breakthrough and headlining status.',
+        gear: {
+          drums: 'Tama Starclassic Bubinga (refined)',
+          snare: 'Tama S.L.P. G-Maple 14"x6.5"',
+          cymbals: 'Full Zildjian K/A Custom hybrid setup',
+          hardware: 'Tama Iron Cobra 900 Power Glide'
+        },
+        notes: 'Current configuration. "Magma" hits #1 on Billboard Hard Rock. "Amazonia" earns Grammy nomination.'
+      }
+    ],
+    // Track Analysis Section
+    trackAnalysis: [
+      {
+        track: 'Flying Whales',
+        album: 'From Mars to Sirius (2005)',
+        bpm: '85-110 (varies)',
+        signature: '4/4 with extended phrases',
+        highlights: [
+          'Slow-building 2-minute intro with restrained drumming',
+          'Explosive entrance when full band joins',
+          'Tribal tom patterns during verses',
+          'Dynamic control between quiet and crushing sections',
+          'Iconic outro groove with sustained double bass'
+        ],
+        gearNotes: 'The dual bass drums provide the rumbling foundation. K Custom cymbals add dark texture during quiet sections.'
+      },
+      {
+        track: 'Silvera',
+        album: 'Magma (2016)',
+        bpm: '130',
+        signature: '4/4',
+        highlights: [
+          'Driving verse groove with precise hi-hat work',
+          'Pre-chorus builds with tom accents',
+          'Explosive chorus with full kit assault',
+          'Tribal breakdown in bridge section',
+          'Relentless energy throughout'
+        ],
+        gearNotes: 'Snare crack cuts through dense guitar mix. Z Custom Mega Bell Ride accents the heaviest moments.'
+      },
+      {
+        track: 'Stranded',
+        album: 'Magma (2016)',
+        bpm: '115',
+        signature: '4/4',
+        highlights: [
+          'Groove-based verse with space and dynamics',
+          'Building intensity into choruses',
+          'Breakdown with tribal tom patterns',
+          'Demonstrates Gojira\'s dynamic range',
+          'Balances aggression with musicality'
+        ],
+        gearNotes: 'Floor toms prominent in tribal sections. Dynamic hi-hat work creates verse texture.'
+      },
+      {
+        track: 'Amazonia',
+        album: 'Fortitude (2021)',
+        bpm: '120',
+        signature: '4/4',
+        highlights: [
+          'Environmental activism theme reflected in intensity',
+          'Grammy-nominated performance',
+          'Powerful verse grooves',
+          'Explosive choruses with wall-of-sound approach',
+          'Tribal influences throughout'
+        ],
+        gearNotes: 'Full kit utilized for maximum impact. Double bass patterns drive the message home.'
+      }
+    ],
+    // Art and Drumming Connection
+    artisticConnection: {
+      title: 'The Visual Drummer: Art Meets Rhythm',
+      content: `Mario Duplantier's dual identity as drummer and visual artist isn't a coincidence — these disciplines inform each other in ways that make both his art and his drumming unique.
+
+**Visual Composition in Drumming:**
+Mario approaches drum parts compositionally, thinking about the visual "shape" of a groove or fill. Just as his artwork balances negative space with detail, his drumming balances silence with sound. The restraint in Gojira's verses makes the explosive choruses more impactful, like a painting's focal point emerging from surrounding calm.
+
+**Album Artwork:**
+Every Gojira album cover is Mario's work. From the whale in "From Mars to Sirius" to the indigenous figure in "Fortitude," his art sets the visual tone for the music within. This visual-sonic unity is rare in metal — most bands hire external artists — and creates a cohesive Gojira identity.
+
+**Stage Visuals:**
+During live performances, Mario's animations and projections accompany the music, creating an immersive experience. He designs these visuals specifically to complement the drum patterns, synchronizing visual and rhythmic peaks.
+
+**Environmental Themes:**
+Both Mario's art and Gojira's music increasingly focus on environmental themes. Artwork depicting whales, forests, and indigenous cultures reflects the band's activism, while his drumming provides the visceral power behind the message. Art and drums become tools for the same purpose.
+
+The connection between visual art and drumming is one of composition and space. Both disciplines require understanding negative space, building tension, and knowing when restraint serves better than excess. Mario's success in both fields isn't despite their differences — it's because they're fundamentally connected.`
+    },
+    // Videos
+    videos: [
+      { youtubeId: '_-XaaTqOICU', title: 'Flying Whales (Live at Red Rocks)', description: 'Iconic live performance at Red Rocks Amphitheatre' },
+      { youtubeId: 'FNdC_3LR2AI', title: 'Silvera (Official Video)', description: 'Studio-quality representation of Mario\'s playing' },
+      { youtubeId: 'dDaReL4zOv8', title: 'Mario Duplantier Drum Cam', description: 'Close-up view of Mario\'s technique and setup' },
+      { youtubeId: 'YGEX1JmXpYc', title: 'Stranded (Live)', description: 'Live groove demonstration' }
+    ],
+    // Related Content
+    relatedAlbums: ['from-mars-to-sirius-drum-setup', 'magma-drum-setup'],
+    relatedDrummers: [5, 14, 7], // Tomas Haake, Danny Carey, Eloy Casagrande
+    relatedArticles: ['progressive-metal-drummers', 'best-double-bass-pedals', 'tribal-drumming-in-metal'],
+    // Conclusion
+    conclusion: {
+      title: 'The Whale\'s Architect',
+      content: `Mario Duplantier has built something rare in extreme metal: a drumming style that's instantly recognizable, technically demanding, and emotionally resonant. His work with Gojira proves that heavy music can be smart, thoughtful, and powerful simultaneously.
+
+The gear — Tama Starclassic Bubinga drums, Zildjian K and A Custom cymbals, Iron Cobra pedals — provides the foundation. But Mario's unique contribution is understanding how to use these tools. His tribal influences, dynamic control, and compositional thinking transform standard metal drumming into something approaching orchestration.
+
+For drummers studying Mario's approach, the lessons extend beyond gear and technique:
+
+- **Space is a tool**: What you don't play matters as much as what you do
+- **Dynamics create impact**: Quiet moments make loud moments louder
+- **Groove transcends genre**: Even death metal can swing
+- **Concept matters**: Understanding why you're playing something affects how you play it
+- **Art informs art**: Skills in one creative discipline enhance others
+
+From the underground of Bayonne, France to headlining festivals worldwide, Gojira's rise mirrors the growth of conscious, environmentally-aware metal. At the center of it all, Mario Duplantier's drums provide not just rhythm, but purpose. His kit is an instrument of both sonic devastation and artistic expression.
+
+The flying whales rise because Mario Duplantier carries them.
+
+🐋 *"I have to find the whales..."* 🥁`
+    }
   }
 };
 

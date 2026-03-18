@@ -8244,7 +8244,7 @@ function EvolutionTimelinePage({ theme, initialDecade, onBack, onSelectDrummer }
           accessibilityRole="button"
           accessibilityLabel="Go back to home"
         >
-          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Home</Text>
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Tools</Text>
         </TouchableOpacity>
 
         {/* Header */}
@@ -9074,9 +9074,9 @@ function KitBuilderPage({ theme, onBack, drummers, onSelectDrummer }) {
             onPress={onBack} 
             style={styles.backButton}
             accessibilityRole="button"
-            accessibilityLabel="Back"
+            accessibilityLabel="Back to Tools"
           >
-            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Tools</Text>
           </TouchableOpacity>
           <View style={styles.kitBuilderTitleSection}>
             <Text style={[styles.kitBuilderTitle, { color: theme.text }]}>
@@ -19218,9 +19218,9 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
           onPress={onBack}
           style={[styles.backButton, { borderColor: theme.border }]}
           accessibilityRole="button"
-          accessibilityLabel="Back to home"
+          accessibilityLabel="Back to Tools"
         >
-          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Tools</Text>
         </TouchableOpacity>
 
         {/* Quiz Header */}
@@ -19447,9 +19447,9 @@ function KitQuizView({ theme, onBack, drummers, onSelectDrummer }) {
             onPress={onBack}
             style={[styles.backButton, { borderColor: theme.border }]}
             accessibilityRole="button"
-            accessibilityLabel="Back to home"
+            accessibilityLabel="Back to Tools"
           >
-            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Tools</Text>
           </TouchableOpacity>
 
           <View style={styles.kitQuizIntro}>
@@ -19493,9 +19493,9 @@ function KitQuizView({ theme, onBack, drummers, onSelectDrummer }) {
             onPress={onBack}
             style={[styles.backButton, { borderColor: theme.border }]}
             accessibilityRole="button"
-            accessibilityLabel="Back to home"
+            accessibilityLabel="Back to Tools"
           >
-            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Tools</Text>
           </TouchableOpacity>
 
           <View style={styles.kitQuizResultsHeader}>

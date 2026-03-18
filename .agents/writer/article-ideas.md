@@ -258,6 +258,7 @@
 | 2026-03-17 | Images and Words Drum Setup: Mike Portnoy | /articles/images-and-words-drum-setup | - |
 | 2026-03-17 | What's In Mario Duplantier's Environmental Kit | /articles/whats-in-mario-duplantiers-kit | - |
 | 2026-03-18 | What's In Brann Dailor's Mastodon Kit | /articles/whats-in-brann-dailors-kit | - |
+| 2026-03-18 | What's In Chris Adler's Lamb of God Arsenal | /articles/whats-in-chris-adlers-kit | - |
 
 ---
 
@@ -501,12 +502,12 @@
 
 ---
 
-### 💡 [IDEA-026] What's In Chris Adler's Lamb of God Arsenal
+### ✅ [IDEA-026] What's In Chris Adler's Lamb of God Arsenal
 
 **Type:** drummer-kit
 **SEO Keywords:** chris adler drum kit, lamb of god drummer gear, chris adler setup, chris adler mapex
 **Search Volume:** Very High (LOG is massive!)
-**Data Available:** Yes (needs research on current setup)
+**Data Available:** Yes
 **Priority:** 5
 
 **Outline:**
@@ -517,7 +518,7 @@
 5. Post-LOG Work (Megadeth sessions, Firstborne)
 6. Where to Buy Similar Gear
 
-**Status:** IDEA (added 2026-03-18)
+**Status:** PUBLISHED (2026-03-18) — /articles/whats-in-chris-adlers-kit
 
 ---
 
@@ -577,4 +578,4 @@
 
 ---
 
-*Last updated: 2026-03-18 09:10*
+*Last updated: 2026-03-18 13:00*

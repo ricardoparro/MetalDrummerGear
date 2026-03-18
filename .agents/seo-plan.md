@@ -43,10 +43,13 @@
 ### ✅ Completed — Entity Relationships (Phase 5a)
 - [x] **MusicGroup schema** linking drummers to bands — #517 ✅
 
-### 📋 Future Enhancements (Phase 5b — Feature-Dependent)
+### ✅ Completed — Feature-Dependent (Phase 5b)
+- [x] **SearchAction schema** for Gear Search Engine — #720 unlocked this ✅
+
+### 📋 Future Enhancements (Phase 5c — Feature-Dependent)
 - [ ] AggregateRating for gear items (requires user reviews feature)
 - [ ] HowTo schema for gear setup guides (if content added)
-- [ ] SearchAction schema for site search (if implemented)
+- [ ] **Evolution Timeline schema** — ItemList + Event markup (#727)
 
 ---
 
@@ -59,7 +62,8 @@
 | 3 | Structured Data / LLM | ✅ Complete |
 | 4 | Performance & Media | ✅ Complete |
 | 5a | Entity Relationships | ✅ Complete |
-| 5b | Feature-Dependent | 📋 Blocked |
+| 5b | Feature-Dependent (unlocked) | ✅ Complete |
+| 5c | Feature-Dependent (remaining) | 📋 Blocked |
 
 ---
 
@@ -77,6 +81,7 @@
 - 21 drummers currently with bios, gear, videos, endorsements
 
 ## Recent Progress
+- **2026-03-18:** SEO audit — SearchAction confirmed in Gear Search (Phase 5b complete). Created #727 for Evolution Timeline schema.
 - **2026-02-21:** SEO audit — MusicGroup complete (#517), Phases 1-5a done. Remaining items blocked on features.
 - **2026-02-16:** Core Web Vitals optimization (#442) — YouTube facade, image preloading, CLS/INP improvements
 - **2026-02-07:** Closed #292 — VideoObject schema already implemented (since #183/#186)
@@ -86,4 +91,4 @@
 - **2026-02-01:** FAQPage (#36) and ItemList (#37) completed
 
 ---
-*Last updated: 2026-02-21 by SEO Agent*
+*Last updated: 2026-03-18 by SEO Agent*

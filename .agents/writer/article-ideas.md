@@ -259,6 +259,7 @@
 | 2026-03-17 | What's In Mario Duplantier's Environmental Kit | /articles/whats-in-mario-duplantiers-kit | - |
 | 2026-03-18 | What's In Brann Dailor's Mastodon Kit | /articles/whats-in-brann-dailors-kit | - |
 | 2026-03-18 | What's In Chris Adler's Lamb of God Arsenal | /articles/whats-in-chris-adlers-kit | - |
+| 2026-03-18 | What's In Charlie Benante's Anthrax Kit | /articles/whats-in-charlie-benantes-kit | - |
 
 ---
 
@@ -522,13 +523,13 @@
 
 ---
 
-### 💡 [IDEA-027] What's In Charlie Benante's Anthrax Kit
+### ✅ [IDEA-027] What's In Charlie Benante's Anthrax Kit
 
 **Type:** drummer-kit
 **SEO Keywords:** charlie benante drum kit, anthrax drummer gear, charlie benante setup, big 4 thrash drummers
 **Search Volume:** High (Big 4 of Thrash!)
-**Data Available:** Partial (needs research)
-**Priority:** 4
+**Data Available:** Yes
+**Priority:** 5
 
 **Outline:**
 1. Introduction — The Big 4's Technical Pioneer
@@ -538,7 +539,7 @@
 5. Drumming with Pantera on Cowboys tour
 6. Where to Buy Similar Gear
 
-**Status:** IDEA (added 2026-03-18)
+**Status:** PUBLISHED (2026-03-18) — /articles/whats-in-charlie-benantes-kit
 
 ---
 
@@ -578,4 +579,4 @@
 
 ---
 
-*Last updated: 2026-03-18 13:00*
+*Last updated: 2026-03-18 17:05*

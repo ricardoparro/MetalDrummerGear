@@ -7666,6 +7666,173 @@ function EvolutionTimelinePage({ theme, initialDecade, onBack, onSelectDrummer }
     }
   }, [selectedDecade]);
   
+  // Inject ItemList + HistoricalEvent + BreadcrumbList schema for SEO (Issue #727)
+  useEffect(() => {
+    if (typeof document === 'undefined' || !isLoaded) return;
+    
+    const baseUrl = 'https://metalforge.io';
+    const pageUrl = `${baseUrl}/history`;
+    
+    // Build BreadcrumbList schema
+    const breadcrumbSchema = {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": baseUrl
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Tools",
+          "item": `${baseUrl}/tools`
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": selectedDecade ? `${selectedDecade} Metal Drumming History` : "Evolution Timeline",
+          "item": selectedDecade ? `${pageUrl}?decade=${selectedDecade}` : pageUrl
+        }
+      ]
+    };
+    
+    // Build ItemList schema for timeline collection
+    const itemListSchema = {
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      "name": selectedDecade 
+        ? `Metal Drumming History: ${selectedDecade}` 
+        : "Metal Drummer Evolution Timeline (1970-2024)",
+      "description": selectedDecade
+        ? `Key moments in ${selectedDecade} metal drumming history - legendary drummers, iconic albums, and gear innovations.`
+        : "The complete interactive history of metal drumming from 1970 to 2024. 54 years of evolution from Black Sabbath to modern djent.",
+      "url": selectedDecade ? `${pageUrl}?decade=${selectedDecade}` : pageUrl,
+      "numberOfItems": filteredEvents.length,
+      "itemListOrder": "https://schema.org/ItemListOrderAscending",
+      "itemListElement": filteredEvents.slice(0, 50).map((event, index) => ({
+        "@type": "ListItem",
+        "position": index + 1,
+        "name": event.title,
+        "url": `${pageUrl}?event=${event.id}`
+      }))
+    };
+    
+    // Build HistoricalEvent schema array for each timeline event
+    const eventSchemas = filteredEvents.slice(0, 30).map(event => {
+      const typeInfo = getEventTypeInfo(event.type);
+      const eventDate = event.month 
+        ? `${event.year}-${String(event.month).padStart(2, '0')}-01`
+        : `${event.year}-01-01`;
+      
+      const schema = {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "additionalType": "https://schema.org/HistoricalEvent",
+        "@id": `${pageUrl}#${event.id}`,
+        "name": event.title,
+        "description": event.description,
+        "startDate": eventDate,
+        "endDate": eventDate,
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "location": {
+          "@type": "Place",
+          "name": "Music Industry"
+        },
+        "organizer": {
+          "@type": "Person",
+          "name": event.drummerName
+        },
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Metal Drumming",
+            "description": "The art and technique of drumming in heavy metal music"
+          }
+        ],
+        "keywords": [
+          "metal drumming",
+          event.drummerName,
+          event.band,
+          event.subgenre ? getSubgenreInfo(event.subgenre).label : "metal",
+          typeInfo.label,
+          event.album
+        ].filter(Boolean).join(", ")
+      };
+      
+      // Add performer if drummer has profile
+      if (event.drummerSlug) {
+        schema.performer = {
+          "@type": "Person",
+          "name": event.drummerName,
+          "url": `${baseUrl}/drummer/${event.drummerSlug}`
+        };
+      }
+      
+      // Add album as workFeatured for album releases
+      if (event.album && event.type === 'album_release') {
+        schema.workFeatured = {
+          "@type": "MusicAlbum",
+          "name": event.album,
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": event.band
+          }
+        };
+      }
+      
+      // Add image if available
+      if (event.image) {
+        schema.image = `${baseUrl}${event.image}`;
+      }
+      
+      return schema;
+    });
+    
+    // Inject BreadcrumbList schema
+    let breadcrumbScript = document.querySelector('script[data-schema="timeline-breadcrumb"]');
+    if (!breadcrumbScript) {
+      breadcrumbScript = document.createElement('script');
+      breadcrumbScript.type = 'application/ld+json';
+      breadcrumbScript.setAttribute('data-schema', 'timeline-breadcrumb');
+      document.head.appendChild(breadcrumbScript);
+    }
+    breadcrumbScript.textContent = JSON.stringify(breadcrumbSchema);
+    
+    // Inject ItemList schema
+    let itemListScript = document.querySelector('script[data-schema="timeline-itemlist"]');
+    if (!itemListScript) {
+      itemListScript = document.createElement('script');
+      itemListScript.type = 'application/ld+json';
+      itemListScript.setAttribute('data-schema', 'timeline-itemlist');
+      document.head.appendChild(itemListScript);
+    }
+    itemListScript.textContent = JSON.stringify(itemListSchema);
+    
+    // Inject HistoricalEvent schemas (combined into one script)
+    let eventsScript = document.querySelector('script[data-schema="timeline-events"]');
+    if (!eventsScript) {
+      eventsScript = document.createElement('script');
+      eventsScript.type = 'application/ld+json';
+      eventsScript.setAttribute('data-schema', 'timeline-events');
+      document.head.appendChild(eventsScript);
+    }
+    eventsScript.textContent = JSON.stringify(eventSchemas);
+    
+    // Cleanup function
+    return () => {
+      const breadcrumb = document.querySelector('script[data-schema="timeline-breadcrumb"]');
+      const itemList = document.querySelector('script[data-schema="timeline-itemlist"]');
+      const events = document.querySelector('script[data-schema="timeline-events"]');
+      if (breadcrumb) breadcrumb.remove();
+      if (itemList) itemList.remove();
+      if (events) events.remove();
+    };
+  }, [selectedDecade, filteredEvents, isLoaded]);
+  
   // Share functionality
   const handleShare = async (eventId = null) => {
     let shareUrl = 'https://metalforge.io/history';

@@ -303,10 +303,14 @@ function preloadGearComparisonTool() {
   return _gearComparisonToolLoadPromise;
 }
 function isGearComparisonToolPage() { 
+  // Issue #732: Support both /tools/compare and /compare routes
   return _gearComparisonToolModule?.isGearComparisonToolPage?.() ?? (typeof window !== 'undefined' && (
     window.location.pathname === '/tools/compare' || 
     window.location.pathname === '/tools/compare/' ||
-    window.location.pathname.startsWith('/tools/compare/')
+    window.location.pathname.startsWith('/tools/compare/') ||
+    window.location.pathname === '/compare' ||
+    window.location.pathname === '/compare/' ||
+    (window.location.pathname.startsWith('/compare/') && !window.location.pathname.startsWith('/compare/gear'))
   )); 
 }
 function updateGearComparisonToolMeta(d1, d2) { return _gearComparisonToolModule?.updateGearComparisonToolMeta?.(d1, d2); }

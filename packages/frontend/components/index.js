@@ -24,10 +24,11 @@ export {
   trackDrummerMatchClick
 } from './MetalDrummerNameGenerator';
 
-// Gear Comparison Tool (Issue #721)
+// Gear Comparison Tool (Issue #721, #732)
 export {
   default as GearComparisonToolPage,
   isGearComparisonToolPage,
+  isShortCompareRoute,
   updateGearComparisonToolMeta,
   trackComparisonView,
   trackComparisonGenerate,
@@ -35,7 +36,8 @@ export {
   trackComparisonVote,
   trackComparisonAffiliateClick,
   getComparisonSlugsFromURL,
-  updateComparisonURL
+  updateComparisonURL,
+  TOP_20_COMPARISONS
 } from './GearComparisonTool';
 
 // Kit Builder (Issue #724)

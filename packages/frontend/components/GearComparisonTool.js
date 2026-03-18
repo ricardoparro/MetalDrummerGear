@@ -117,15 +117,56 @@ export const trackComparisonSwitch = () => {
 };
 
 // ==========================================
+// TOP 20 COMPARISON PAIRS FOR SEO (Issue #732)
+// High-traffic matchups for auto-generation and sitemap
+// ==========================================
+
+export const TOP_20_COMPARISONS = [
+  { d1: 'joey-jordison', d2: 'lars-ulrich', label: 'Joey Jordison vs Lars Ulrich', category: 'Icons' },
+  { d1: 'lars-ulrich', d2: 'dave-lombardo', label: 'Lars Ulrich vs Dave Lombardo', category: 'Thrash' },
+  { d1: 'joey-jordison', d2: 'george-kollias', label: 'Joey Jordison vs George Kollias', category: 'Speed' },
+  { d1: 'mario-duplantier', d2: 'tomas-haake', label: 'Mario Duplantier vs Tomas Haake', category: 'Prog' },
+  { d1: 'mike-portnoy', d2: 'danny-carey', label: 'Mike Portnoy vs Danny Carey', category: 'Prog' },
+  { d1: 'gene-hoglan', d2: 'pete-sandoval', label: 'Gene Hoglan vs Pete Sandoval', category: 'Death' },
+  { d1: 'hellhammer', d2: 'inferno', label: 'Hellhammer vs Inferno', category: 'Black' },
+  { d1: 'brann-dailor', d2: 'mario-duplantier', label: 'Brann Dailor vs Mario Duplantier', category: 'Prog' },
+  { d1: 'dave-lombardo', d2: 'gene-hoglan', label: 'Dave Lombardo vs Gene Hoglan', category: 'Legends' },
+  { d1: 'matt-halpern', d2: 'alex-bent', label: 'Matt Halpern vs Alex Bent', category: 'Modern' },
+  { d1: 'nicko-mcbrain', d2: 'vinnie-paul', label: 'Nicko McBrain vs Vinnie Paul', category: 'Classic' },
+  { d1: 'charlie-benante', d2: 'dave-lombardo', label: 'Charlie Benante vs Dave Lombardo', category: 'Thrash' },
+  { d1: 'eloy-casagrande', d2: 'joey-jordison', label: 'Eloy Casagrande vs Joey Jordison', category: 'Icons' },
+  { d1: 'george-kollias', d2: 'flo-mounier', label: 'George Kollias vs Flo Mounier', category: 'Tech' },
+  { d1: 'danny-carey', d2: 'tomas-haake', label: 'Danny Carey vs Tomas Haake', category: 'Prog' },
+  { d1: 'chris-adler', d2: 'brann-dailor', label: 'Chris Adler vs Brann Dailor', category: 'Groove' },
+  { d1: 'joey-jordison', d2: 'vinnie-paul', label: 'Joey Jordison vs Vinnie Paul', category: 'Icons' },
+  { d1: 'matt-garstka', d2: 'matt-halpern', label: 'Matt Garstka vs Matt Halpern', category: 'Djent' },
+  { d1: 'inferno', d2: 'george-kollias', label: 'Inferno vs George Kollias', category: 'Extreme' },
+  { d1: 'mike-portnoy', d2: 'mike-mangini', label: 'Mike Portnoy vs Mike Mangini', category: 'DT' },
+];
+
+// ==========================================
 // URL UTILITIES
 // ==========================================
 
 export function isGearComparisonToolPage() {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
   const pathname = window.location.pathname;
+  // Support both /tools/compare and /compare routes (Issue #732)
   return pathname === '/tools/compare' || 
          pathname === '/tools/compare/' ||
-         pathname.startsWith('/tools/compare/');
+         pathname.startsWith('/tools/compare/') ||
+         pathname === '/compare' ||
+         pathname === '/compare/' ||
+         pathname.startsWith('/compare/');
+}
+
+// Check if using the short /compare route
+export function isShortCompareRoute() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  const pathname = window.location.pathname;
+  return pathname === '/compare' || 
+         pathname === '/compare/' ||
+         (pathname.startsWith('/compare/') && !pathname.startsWith('/compare/gear'));
 }
 
 export function getComparisonSlugsFromURL() {
@@ -133,9 +174,15 @@ export function getComparisonSlugsFromURL() {
   const pathname = window.location.pathname;
   
   // Check for SEO URL pattern: /tools/compare/joey-jordison-vs-george-kollias
-  const match = pathname.match(/^\/tools\/compare\/([a-z0-9-]+)-vs-([a-z0-9-]+)$/i);
-  if (match) {
-    return { d1: match[1], d2: match[2] };
+  const toolsMatch = pathname.match(/^\/tools\/compare\/([a-z0-9-]+)-vs-([a-z0-9-]+)$/i);
+  if (toolsMatch) {
+    return { d1: toolsMatch[1], d2: toolsMatch[2] };
+  }
+  
+  // Check for short URL pattern: /compare/joey-jordison-vs-george-kollias (Issue #732)
+  const shortMatch = pathname.match(/^\/compare\/([a-z0-9-]+)-vs-([a-z0-9-]+)$/i);
+  if (shortMatch) {
+    return { d1: shortMatch[1], d2: shortMatch[2] };
   }
   
   // Check for query params: /tools/compare?d1=joey-jordison&d2=george-kollias
@@ -149,12 +196,16 @@ export function getComparisonSlugsFromURL() {
 export function updateComparisonURL(d1Slug, d2Slug, useHistory = true) {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return;
   
+  // Preserve the route type (Issue #732) - use /compare if user came from /compare
+  const useShortRoute = isShortCompareRoute();
+  const baseRoute = useShortRoute ? '/compare' : '/tools/compare';
+  
   let newPath;
   if (d1Slug && d2Slug) {
     // Use SEO-friendly URL
-    newPath = `/tools/compare/${d1Slug}-vs-${d2Slug}`;
+    newPath = `${baseRoute}/${d1Slug}-vs-${d2Slug}`;
   } else {
-    newPath = '/tools/compare';
+    newPath = baseRoute;
   }
   
   if (useHistory) {
@@ -768,6 +819,210 @@ function VoteSection({ drummer1, drummer2, theme, isMobile }) {
   );
 }
 
+// Comments Section (Issue #732)
+// Lightweight implementation using localStorage for MVP
+function CommentsSection({ drummer1, drummer2, theme, isMobile }) {
+  const d1Slug = toSlug(drummer1?.name);
+  const d2Slug = toSlug(drummer2?.name);
+  const comparisonKey = `comments_${d1Slug}_vs_${d2Slug}`;
+  
+  const [comments, setComments] = useState(() => {
+    if (Platform.OS !== 'web' || typeof localStorage === 'undefined') return [];
+    const stored = localStorage.getItem(comparisonKey);
+    return stored ? JSON.parse(stored) : [];
+  });
+  const [newComment, setNewComment] = useState('');
+  const [username, setUsername] = useState(() => {
+    if (Platform.OS !== 'web' || typeof localStorage === 'undefined') return '';
+    return localStorage.getItem('mf_username') || '';
+  });
+  
+  if (!drummer1 || !drummer2) return null;
+  
+  const handleAddComment = () => {
+    if (!newComment.trim() || !username.trim()) return;
+    
+    const comment = {
+      id: Date.now(),
+      username: username.trim(),
+      text: newComment.trim(),
+      timestamp: new Date().toISOString(),
+    };
+    
+    const updatedComments = [...comments, comment];
+    setComments(updatedComments);
+    setNewComment('');
+    
+    // Save to localStorage
+    if (Platform.OS === 'web' && typeof localStorage !== 'undefined') {
+      localStorage.setItem(comparisonKey, JSON.stringify(updatedComments));
+      localStorage.setItem('mf_username', username.trim());
+    }
+    
+    // Track comment event
+    if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
+      window.gtag('event', 'comparison_comment', {
+        drummer1: d1Slug,
+        drummer2: d2Slug,
+      });
+    }
+  };
+  
+  const formatTimestamp = (ts) => {
+    const date = new Date(ts);
+    const now = new Date();
+    const diffMs = now - date;
+    const diffMins = Math.floor(diffMs / 60000);
+    const diffHours = Math.floor(diffMs / 3600000);
+    const diffDays = Math.floor(diffMs / 86400000);
+    
+    if (diffMins < 1) return 'just now';
+    if (diffMins < 60) return `${diffMins}m ago`;
+    if (diffHours < 24) return `${diffHours}h ago`;
+    if (diffDays < 7) return `${diffDays}d ago`;
+    return date.toLocaleDateString();
+  };
+  
+  return (
+    <View style={[styles.commentsSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+      <Text style={[styles.commentsSectionTitle, { color: theme.text }]}>
+        💬 Discussion ({comments.length})
+      </Text>
+      
+      {/* Comment Input */}
+      <View style={styles.commentInputContainer}>
+        <TextInput
+          style={[styles.commentUsernameInput, { 
+            backgroundColor: theme.background, 
+            color: theme.text,
+            borderColor: theme.border 
+          }]}
+          placeholder="Your name"
+          placeholderTextColor={theme.secondaryText}
+          value={username}
+          onChangeText={setUsername}
+          maxLength={20}
+        />
+        <TextInput
+          style={[styles.commentTextInput, { 
+            backgroundColor: theme.background, 
+            color: theme.text,
+            borderColor: theme.border 
+          }]}
+          placeholder="Share your thoughts on this comparison..."
+          placeholderTextColor={theme.secondaryText}
+          value={newComment}
+          onChangeText={setNewComment}
+          multiline
+          maxLength={500}
+        />
+        <TouchableOpacity
+          style={[styles.commentSubmitBtn, { backgroundColor: colors.primary }]}
+          onPress={handleAddComment}
+          disabled={!newComment.trim() || !username.trim()}
+        >
+          <Text style={styles.commentSubmitText}>Post</Text>
+        </TouchableOpacity>
+      </View>
+      
+      {/* Comments List */}
+      {comments.length > 0 ? (
+        <View style={styles.commentsList}>
+          {comments.slice(-10).reverse().map(comment => (
+            <View key={comment.id} style={[styles.commentItem, { borderBottomColor: theme.border }]}>
+              <View style={styles.commentHeader}>
+                <Text style={[styles.commentUsername, { color: colors.primary }]}>
+                  {comment.username}
+                </Text>
+                <Text style={[styles.commentTimestamp, { color: theme.secondaryText }]}>
+                  {formatTimestamp(comment.timestamp)}
+                </Text>
+              </View>
+              <Text style={[styles.commentText, { color: theme.text }]}>
+                {comment.text}
+              </Text>
+            </View>
+          ))}
+        </View>
+      ) : (
+        <Text style={[styles.noComments, { color: theme.secondaryText }]}>
+          Be the first to comment on this comparison! 🤘
+        </Text>
+      )}
+    </View>
+  );
+}
+
+// Top 20 Popular Comparisons Grid (Issue #732 - SEO)
+function Top20ComparisonsGrid({ theme, isMobile, onSelectComparison, currentD1, currentD2 }) {
+  const currentKey = currentD1 && currentD2 ? `${currentD1}-vs-${currentD2}` : null;
+  const reverseKey = currentD1 && currentD2 ? `${currentD2}-vs-${currentD1}` : null;
+  
+  // Filter out current comparison
+  const comparisons = TOP_20_COMPARISONS.filter(c => {
+    const key = `${c.d1}-vs-${c.d2}`;
+    return key !== currentKey && key !== reverseKey;
+  });
+  
+  return (
+    <View style={[styles.top20Section, { borderTopColor: theme.border }]}>
+      <Text style={[styles.top20Title, { color: theme.text }]}>
+        🔥 Popular Gear Battles
+      </Text>
+      <Text style={[styles.top20Subtitle, { color: theme.secondaryText }]}>
+        Compare these legendary drummer setups
+      </Text>
+      
+      <View style={[styles.top20Grid, isMobile && styles.top20GridMobile]}>
+        {comparisons.slice(0, isMobile ? 8 : 12).map((comp, index) => (
+          <TouchableOpacity
+            key={index}
+            style={[styles.top20Card, { backgroundColor: theme.card, borderColor: theme.border }]}
+            onPress={() => onSelectComparison(comp.d1, comp.d2)}
+            accessibilityRole="link"
+            accessibilityLabel={comp.label}
+          >
+            <View style={[styles.top20Badge, { backgroundColor: getCategoryColor(comp.category) + '20' }]}>
+              <Text style={[styles.top20BadgeText, { color: getCategoryColor(comp.category) }]}>
+                {comp.category}
+              </Text>
+            </View>
+            <Text style={[styles.top20Label, { color: theme.text }]} numberOfLines={2}>
+              {comp.label}
+            </Text>
+            <Text style={[styles.top20Arrow, { color: theme.secondaryText }]}>→</Text>
+          </TouchableOpacity>
+        ))}
+      </View>
+      
+      <Text style={[styles.top20Footer, { color: theme.secondaryText }]}>
+        Or use the dropdowns above to create your own custom comparison!
+      </Text>
+    </View>
+  );
+}
+
+// Helper function for category colors
+function getCategoryColor(category) {
+  const categoryColors = {
+    'Icons': '#FF6B35',
+    'Thrash': '#E53935',
+    'Speed': '#FF9800',
+    'Prog': '#9C27B0',
+    'Death': '#424242',
+    'Black': '#212121',
+    'Modern': '#2196F3',
+    'Classic': '#795548',
+    'Legends': '#FFC107',
+    'Tech': '#00BCD4',
+    'Groove': '#4CAF50',
+    'Djent': '#673AB7',
+    'Extreme': '#C62828',
+    'DT': '#3F51B5',
+  };
+  return categoryColors[category] || '#757575';
+}
+
 // ==========================================
 // MAIN COMPONENT
 // ==========================================
@@ -1026,8 +1281,25 @@ export default function GearComparisonToolPage({ theme, drummers = [], onBack, o
             theme={theme} 
             isMobile={isMobile}
           />
+          
+          {/* Comments Section (Issue #732) */}
+          <CommentsSection 
+            drummer1={drummer1} 
+            drummer2={drummer2} 
+            theme={theme} 
+            isMobile={isMobile}
+          />
         </View>
       )}
+      
+      {/* Top 20 Popular Comparisons (Issue #732 - SEO) */}
+      <Top20ComparisonsGrid 
+        theme={theme} 
+        isMobile={isMobile}
+        onSelectComparison={handleQuickPick}
+        currentD1={drummer1Slug}
+        currentD2={drummer2Slug}
+      />
       
       {/* Empty State */}
       {!hasComparison && (
@@ -1567,5 +1839,136 @@ const styles = StyleSheet.create({
   seoText: {
     fontSize: fontSize.sm,
     lineHeight: lineHeight.lg,
+  },
+  
+  // Comments Section (Issue #732)
+  commentsSection: {
+    margin: spacing.lg,
+    marginTop: spacing.md,
+    padding: spacing.lg,
+    borderRadius: 12,
+    borderWidth: 1,
+  },
+  commentsSectionTitle: {
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.bold,
+    marginBottom: spacing.md,
+  },
+  commentInputContainer: {
+    marginBottom: spacing.md,
+    gap: spacing.sm,
+  },
+  commentUsernameInput: {
+    padding: spacing.sm,
+    borderRadius: 8,
+    borderWidth: 1,
+    fontSize: fontSize.md,
+  },
+  commentTextInput: {
+    padding: spacing.sm,
+    borderRadius: 8,
+    borderWidth: 1,
+    fontSize: fontSize.md,
+    minHeight: 80,
+    textAlignVertical: 'top',
+  },
+  commentSubmitBtn: {
+    paddingVertical: spacing.sm,
+    paddingHorizontal: spacing.lg,
+    borderRadius: 8,
+    alignSelf: 'flex-end',
+  },
+  commentSubmitText: {
+    color: '#fff',
+    fontSize: fontSize.md,
+    fontWeight: fontWeight.semibold,
+  },
+  commentsList: {
+    gap: spacing.sm,
+  },
+  commentItem: {
+    paddingBottom: spacing.sm,
+    borderBottomWidth: 1,
+  },
+  commentHeader: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    marginBottom: 4,
+  },
+  commentUsername: {
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.semibold,
+  },
+  commentTimestamp: {
+    fontSize: fontSize.xs,
+  },
+  commentText: {
+    fontSize: fontSize.sm,
+    lineHeight: lineHeight.md,
+  },
+  noComments: {
+    fontSize: fontSize.sm,
+    textAlign: 'center',
+    padding: spacing.md,
+  },
+  
+  // Top 20 Popular Comparisons (Issue #732)
+  top20Section: {
+    margin: spacing.lg,
+    marginTop: spacing.xl,
+    paddingTop: spacing.lg,
+    borderTopWidth: 1,
+  },
+  top20Title: {
+    fontSize: fontSize.xl,
+    fontWeight: fontWeight.bold,
+    textAlign: 'center',
+    marginBottom: spacing.xs,
+  },
+  top20Subtitle: {
+    fontSize: fontSize.md,
+    textAlign: 'center',
+    marginBottom: spacing.lg,
+  },
+  top20Grid: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    justifyContent: 'center',
+    gap: spacing.md,
+  },
+  top20GridMobile: {
+    gap: spacing.sm,
+  },
+  top20Card: {
+    width: 180,
+    padding: spacing.md,
+    borderRadius: 12,
+    borderWidth: 1,
+  },
+  top20Badge: {
+    alignSelf: 'flex-start',
+    paddingVertical: 2,
+    paddingHorizontal: 8,
+    borderRadius: 12,
+    marginBottom: spacing.xs,
+  },
+  top20BadgeText: {
+    fontSize: fontSize.xs,
+    fontWeight: fontWeight.bold,
+    textTransform: 'uppercase',
+  },
+  top20Label: {
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.medium,
+    marginBottom: spacing.xs,
+  },
+  top20Arrow: {
+    fontSize: fontSize.md,
+  },
+  top20Footer: {
+    fontSize: fontSize.sm,
+    textAlign: 'center',
+    marginTop: spacing.lg,
   },
 });

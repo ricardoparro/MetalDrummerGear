@@ -181,6 +181,31 @@ const toolPages = [
   { slug: 'metal-drummer-name-generator', name: 'Metal Drummer Name Generator' },
 ];
 
+// Issue #732: Top 20 Gear Comparison Tool pairs for SEO
+// High-traffic matchups for auto-generation
+const top20GearComparisons = [
+  { d1: 'joey-jordison', d2: 'lars-ulrich' },
+  { d1: 'lars-ulrich', d2: 'dave-lombardo' },
+  { d1: 'joey-jordison', d2: 'george-kollias' },
+  { d1: 'mario-duplantier', d2: 'tomas-haake' },
+  { d1: 'mike-portnoy', d2: 'danny-carey' },
+  { d1: 'gene-hoglan', d2: 'pete-sandoval' },
+  { d1: 'hellhammer', d2: 'inferno' },
+  { d1: 'brann-dailor', d2: 'mario-duplantier' },
+  { d1: 'dave-lombardo', d2: 'gene-hoglan' },
+  { d1: 'matt-halpern', d2: 'alex-bent' },
+  { d1: 'nicko-mcbrain', d2: 'vinnie-paul' },
+  { d1: 'charlie-benante', d2: 'dave-lombardo' },
+  { d1: 'eloy-casagrande', d2: 'joey-jordison' },
+  { d1: 'george-kollias', d2: 'flo-mounier' },
+  { d1: 'danny-carey', d2: 'tomas-haake' },
+  { d1: 'chris-adler', d2: 'brann-dailor' },
+  { d1: 'joey-jordison', d2: 'vinnie-paul' },
+  { d1: 'matt-garstka', d2: 'matt-halpern' },
+  { d1: 'inferno', d2: 'george-kollias' },
+  { d1: 'mike-portnoy', d2: 'mike-mangini' },
+];
+
 const BASE_URL = 'https://metalforge.io';
 
 function generateSlug(name) {
@@ -218,8 +243,13 @@ export default function handler(req, res) {
     { loc: '/tools', priority: '0.95', changefreq: 'weekly' },
     // Issue #704: Tools pages (viral tools)
     ...toolPages.map(t => ({ loc: `/tools/${t.slug}`, priority: '0.95', changefreq: 'weekly' })),
-    // Issue #721: Gear Comparison Tool
-    { loc: '/tools/compare', priority: '0.9', changefreq: 'weekly' },
+    // Issue #721, #732: Gear Comparison Tool + Top 20 SEO comparisons
+    { loc: '/tools/compare', priority: '0.95', changefreq: 'weekly' },
+    ...top20GearComparisons.map(c => ({ 
+      loc: `/tools/compare/${c.d1}-vs-${c.d2}`, 
+      priority: '0.9', 
+      changefreq: 'weekly' 
+    })),
     ...gearCategories.map(c => ({ loc: `/gear/${c.slug}`, priority: '0.9', changefreq: 'weekly' })),
     ...top10Lists.map(l => ({ loc: `/lists/${l.slug}`, priority: '0.8', changefreq: 'monthly' })),
     // Issue #642: Article pages for SEO-optimized content

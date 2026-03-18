@@ -214,8 +214,12 @@ export default function handler(req, res) {
     ...soundLikeGuides.map(g => ({ loc: `/guides/${g.slug}`, priority: '0.9', changefreq: 'monthly' })),
     // Issue #702: Beginner gear guides
     ...beginnerGuides.map(g => ({ loc: `/guides/${g.slug}`, priority: '0.95', changefreq: 'monthly' })),
+    // Issue #729: Tools Hub landing page
+    { loc: '/tools', priority: '0.95', changefreq: 'weekly' },
     // Issue #704: Tools pages (viral tools)
     ...toolPages.map(t => ({ loc: `/tools/${t.slug}`, priority: '0.95', changefreq: 'weekly' })),
+    // Issue #721: Gear Comparison Tool
+    { loc: '/tools/compare', priority: '0.9', changefreq: 'weekly' },
     ...gearCategories.map(c => ({ loc: `/gear/${c.slug}`, priority: '0.9', changefreq: 'weekly' })),
     ...top10Lists.map(l => ({ loc: `/lists/${l.slug}`, priority: '0.8', changefreq: 'monthly' })),
     // Issue #642: Article pages for SEO-optimized content

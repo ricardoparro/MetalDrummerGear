@@ -414,7 +414,7 @@ function ResultCard({ metalName, drummerMatch, theme, onGenerateAnother, onDrumm
 // MAIN COMPONENT
 // ==========================================
 
-export function MetalDrummerNameGeneratorPage({ theme, onSelectDrummer }) {
+export function MetalDrummerNameGeneratorPage({ theme, onSelectDrummer, onBack }) {
   const [inputName, setInputName] = useState('');
   const [generatedName, setGeneratedName] = useState(null);
   const [drummerMatch, setDrummerMatch] = useState(null);
@@ -480,6 +480,20 @@ export function MetalDrummerNameGeneratorPage({ theme, onSelectDrummer }) {
       style={[styles.container, { backgroundColor: theme.bg }]}
       contentContainerStyle={styles.contentContainer}
     >
+      {/* Back Button (Issue #729) */}
+      {onBack && (
+        <View style={styles.backButtonContainer}>
+          <TouchableOpacity
+            onPress={onBack}
+            style={[styles.backButton, { backgroundColor: theme.card }]}
+            accessibilityRole="button"
+            accessibilityLabel="Go back to tools"
+          >
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Tools</Text>
+          </TouchableOpacity>
+        </View>
+      )}
+      
       {/* Hero Section */}
       <View style={styles.hero}>
         <Text style={[styles.heroEmoji]}>🥁</Text>
@@ -623,6 +637,23 @@ const styles = StyleSheet.create({
     maxWidth: 640,
     alignSelf: 'center',
     width: '100%',
+  },
+  
+  // Back Button (Issue #729)
+  backButtonContainer: {
+    marginBottom: spacing[4],
+  },
+  backButton: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    paddingVertical: spacing[2],
+    paddingHorizontal: spacing[4],
+    borderRadius: spacing[2],
+    alignSelf: 'flex-start',
+  },
+  backButtonText: {
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.medium,
   },
   
   // Hero

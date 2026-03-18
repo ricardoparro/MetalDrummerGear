@@ -910,9 +910,9 @@ export default function GearComparisonToolPage({ theme, drummers = [], onBack, o
           style={styles.backButton}
           onPress={onBack}
           accessibilityRole="button"
-          accessibilityLabel="Go back"
+          accessibilityLabel="Back to Tools"
         >
-          <Text style={[styles.backText, { color: theme.secondaryText }]}>← Back</Text>
+          <Text style={[styles.backText, { color: theme.secondaryText }]}>← Back to Tools</Text>
         </TouchableOpacity>
         
         <View style={styles.titleContainer}>

@@ -257,6 +257,7 @@
 | 2026-03-17 | What's In Mike Portnoy's Reunion Kit | /articles/whats-in-mike-portnoys-kit | - |
 | 2026-03-17 | Images and Words Drum Setup: Mike Portnoy | /articles/images-and-words-drum-setup | - |
 | 2026-03-17 | What's In Mario Duplantier's Environmental Kit | /articles/whats-in-mario-duplantiers-kit | - |
+| 2026-03-18 | What's In Brann Dailor's Mastodon Kit | /articles/whats-in-brann-dailors-kit | - |
 
 ---
 
@@ -420,13 +421,13 @@
 
 ---
 
-### 💡 [IDEA-022] What's In Brann Dailor's Mastodon Kit
+### ✅ [IDEA-022] What's In Brann Dailor's Mastodon Kit
 
 **Type:** drummer-kit
 **SEO Keywords:** brann dailor drum kit, mastodon drummer gear, brann dailor setup, mastodon drums
 **Search Volume:** High
-**Data Available:** Partial (needs research)
-**Priority:** 4
+**Data Available:** Yes
+**Priority:** 5
 
 **Outline:**
 1. Introduction — The Melodic Metal Drummer
@@ -436,7 +437,7 @@
 5. Vocal Drumming Challenges
 6. Where to Buy Similar Gear
 
-**Status:** IDEA
+**Status:** PUBLISHED (2026-03-18) — /articles/whats-in-brann-dailors-kit
 
 ---
 
@@ -500,6 +501,66 @@
 
 ---
 
+### 💡 [IDEA-026] What's In Chris Adler's Lamb of God Arsenal
+
+**Type:** drummer-kit
+**SEO Keywords:** chris adler drum kit, lamb of god drummer gear, chris adler setup, chris adler mapex
+**Search Volume:** Very High (LOG is massive!)
+**Data Available:** Yes (needs research on current setup)
+**Priority:** 5
+
+**Outline:**
+1. Introduction — The Architect of American Metal
+2. Current/Final LOG Kit Setup
+3. Signature Techniques (ride bell work, groove-speed hybrid)
+4. Evolution Through LOG Albums
+5. Post-LOG Work (Megadeth sessions, Firstborne)
+6. Where to Buy Similar Gear
+
+**Status:** IDEA (added 2026-03-18)
+
+---
+
+### 💡 [IDEA-027] What's In Charlie Benante's Anthrax Kit
+
+**Type:** drummer-kit
+**SEO Keywords:** charlie benante drum kit, anthrax drummer gear, charlie benante setup, big 4 thrash drummers
+**Search Volume:** High (Big 4 of Thrash!)
+**Data Available:** Partial (needs research)
+**Priority:** 4
+
+**Outline:**
+1. Introduction — The Big 4's Technical Pioneer
+2. Current Tama Kit Setup
+3. Signature Techniques (double bass, Latin influences)
+4. Gear Evolution (Fistful of Metal to We've Come for You All)
+5. Drumming with Pantera on Cowboys tour
+6. Where to Buy Similar Gear
+
+**Status:** IDEA (added 2026-03-18)
+
+---
+
+### 💡 [IDEA-028] Chaos A.D. Drum Setup: Igor Cavalera's Tribal Revolution
+
+**Type:** album-breakdown
+**SEO Keywords:** chaos ad drums, igor cavalera drum setup, sepultura chaos ad gear, tribal metal drums
+**Search Volume:** High
+**Data Available:** Partial
+**Priority:** 4
+
+**Outline:**
+1. Introduction — When Thrash Met Tribal (prequel to Roots)
+2. Studio Setup at Rockfield Studios, Wales
+3. "Refuse/Resist" — The Iconic Groove
+4. Integration of Tribal Elements
+5. Recording Techniques with Andy Wallace
+6. Gear Breakdown (drums, cymbals, percussion)
+
+**Status:** IDEA (added 2026-03-18)
+
+---
+
 ## 💡 Idea Backlog (Lower Priority)
 
 - Best Sticks for Blast Beats
@@ -510,7 +571,10 @@
 - Metal Drumming Warm-Up Routine
 - [Every drummer we have] — "What's in X's Kit" series
 - [Every album breakdown potential]
+- What's In Inferno's Behemoth Kit
+- What's In Hellhammer's Black Metal Arsenal
+- What's In Gavin Harrison's Prog Rock Setup
 
 ---
 
-*Last updated: 2026-03-17 17:10*
+*Last updated: 2026-03-18 09:10*

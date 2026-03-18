@@ -5778,6 +5778,425 @@ The flying whales rise because Mario Duplantier carries them.
 
 🐋 *"I have to find the whales..."* 🥁`
     }
+  },
+
+  // What's In Brann Dailor's Mastodon Kit
+  'whats-in-brann-dailors-kit': {
+    slug: 'whats-in-brann-dailors-kit',
+    articleType: 'drummer-kit',
+    drummer: 'Brann Dailor',
+    drummerId: 50,
+    band: 'Mastodon',
+    bands: ['Mastodon', 'Lethargy', 'Today Is the Day', 'Killer Be Killed', 'Arcadea'],
+    genre: 'Progressive Metal / Sludge Metal',
+    country: 'USA',
+    isAlbumArticle: true,
+    datePublished: '2026-03-18',
+    dateModified: '2026-03-18',
+    author: 'MetalForge Editorial',
+    // SEO
+    title: "What's In Brann Dailor's Kit: Mastodon's Melodic Thunder Complete Breakdown",
+    description: "Discover Brann Dailor's complete 2026 drum setup. Full breakdown of his DW Collector's kit, Meinl Byzance cymbals, signature gear, and the techniques behind Mastodon's progressive sludge sound.",
+    seoKeywords: ['brann dailor drum kit', 'brann dailor setup 2026', 'mastodon drummer gear', 'brann dailor dw drums', 'brann dailor meinl cymbals', 'mastodon drums', 'brann dailor kit breakdown', 'progressive sludge drums'],
+    ogImage: '/images/drummers/brann-dailor.webp',
+    // Introduction
+    intro: {
+      title: 'The Melodic Heart of Mastodon',
+      content: `Brann Dailor doesn't play drums — he composes symphonies with them. As the rhythmic and increasingly vocal force behind Mastodon since 2000, he's developed a style so distinctive that a single fill identifies him: flowing, melodic, constant motion that weaves through the music like an additional instrument rather than mere timekeeping.
+
+Born March 19, 1975, in Rochester, New York, Brann brought a jazz-influenced sensibility to heavy music that was revolutionary. While metal drummers typically served the riff, Brann created countermelodies — his tom patterns sing, his fills have verses and choruses. This approach helped transform Mastodon from Atlanta sludge upstarts to one of metal's most critically acclaimed and commercially successful acts.
+
+But what makes Brann truly unique isn't just his playing — it's that he does it while singing complex vocal harmonies. On albums like "Crack the Skye" and "Emperor of Sand," he handles substantial singing duties while executing some of the most technically demanding drum parts in metal. This combination of skills places him in rarefied company.
+
+From basement shows with Lethargy to headlining festivals worldwide, from Grammy nominations to critical acclaim, Brann Dailor has earned his place among drumming's elite. This article breaks down every piece of gear behind the sound that redefined what heavy drumming could be.`,
+      keyPoints: [
+        'Melodic approach treats drums as a compositional instrument',
+        'Constant flowing fills woven throughout songs, not isolated',
+        'DW Drums endorsee with Collector\'s Series kit',
+        'Meinl Byzance cymbals for complex, musical tones',
+        'Sings complex vocal parts while performing demanding drum arrangements',
+        'Four Grammy nominations with Mastodon',
+        'Known for never playing the same fill twice'
+      ]
+    },
+    // Drum Kit Section
+    drumKit: {
+      title: "Brann's DW Collector's Armory",
+      brand: 'DW',
+      model: 'DW Collector\'s Series',
+      finish: 'Custom Finishes (varies by tour — often seafoam, natural, or custom graphics)',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum'],
+        toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom', '13" x 10" Rack Tom'],
+        floorToms: ['16" x 16" Floor Tom'],
+        shells: 'North American Hard Rock Maple with DW\'s proprietary bearing edges'
+      },
+      description: `Brann Dailor's DW Collector's Series kit is the canvas for his flowing compositions. The maple shells provide the warm, resonant tone essential to his melodic approach — these drums sing, which is exactly what Brann needs for his compositional style.
+
+The four-tom configuration (three rack, one floor) gives Brann the melodic range he requires. Listen to songs like "Oblivion" or "The Czar" and you'll hear him create actual melodies using these toms, tuned in musical intervals that let his patterns sing. Most metal drummers use toms for fills; Brann uses them as a melodic instrument.
+
+The single 22" x 18" bass drum is notably modest for metal. While many of his peers use double bass or larger kicks, Brann relies on creative single-pedal patterns that drive Mastodon's grooves. His bass drum work is about placement and groove, not speed — though he's capable of speed when the song demands it.
+
+The maple shells produce a warmth that complements Mastodon's blend of sludge and progressive rock. They have enough attack for heavy passages but enough sustain and body for melodic moments. DW's attention to bearing edges ensures consistent tone across dynamics.
+
+Brann's kit sizes have remained remarkably consistent throughout his career — proof that when you find your voice, you don't need to constantly upgrade. The Collector's Series gives him the quality to express that voice at the highest level.`,
+      notes: [
+        'Four-tom configuration for melodic versatility',
+        'Single bass drum — creative patterns over speed',
+        'Maple shells provide warmth and resonance',
+        'Toms tuned in musical intervals, not just pitches',
+        'Kit size consistent across his career',
+        'Custom finishes often reflect album themes'
+      ],
+      estimatedValue: '$6,000-9,000 (Collector\'s Series configuration)'
+    },
+    // Snare Section
+    snare: {
+      title: 'The Melodic Crack',
+      brand: 'DW',
+      model: 'DW Collector\'s Series Metal Snare (Aluminum)',
+      size: '14" x 6.5"',
+      shell: 'Aluminum',
+      description: `Brann's snare drum choice reflects his need for versatility. The DW Collector's aluminum snare provides the crack and cut needed for heavy passages while maintaining the sensitivity for ghost notes and dynamic work that defines his style.
+
+The 6.5" depth gives the drum body and projection — essential when competing with Mastodon's wall of guitar. But the aluminum shell keeps the response quick and bright, allowing for the delicate ghost notes that fill Brann's grooves.
+
+Unlike many metal drummers who crank their snares tight for maximum attack, Brann tunes for tone. His snare sings as much as it cracks, capable of expressing dynamics from whisper-quiet to thunderous. This tuning philosophy matches his melodic approach — the snare is an instrument, not just a backbeat machine.
+
+The DW hardware and die-cast hoops provide consistent tuning and durable performance. Given Brann's dynamic playing style — which can shift from gentle to aggressive within a single measure — the snare needs to handle extreme variations without losing tone.
+
+On recordings, Brann's snare cuts through Mastodon's dense arrangements while maintaining musicality. It's a drum that works equally well on aggressive tracks like "Blood and Thunder" and progressive pieces like "Pendulous Skin."`,
+      tuningSetting: 'Medium-high for crack and sensitivity, but tuned for tone rather than maximum attack',
+      heads: 'Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$600-900 (Collector\'s aluminum snare)'
+    },
+    // Cymbals Section
+    cymbals: {
+      title: 'The Meinl Byzance Collection',
+      brand: 'Meinl',
+      series: 'Meinl Byzance',
+      setup: [
+        { type: 'Hi-Hats', model: 'Meinl 14" Byzance Traditional Medium Hi-Hats', position: 'Left side', notes: 'Complex, warm tone for intricate patterns' },
+        { type: 'Crash', model: 'Meinl 18" Byzance Brilliant Thin Crash', position: 'Far left', notes: 'Quick, musical crash with complex overtones' },
+        { type: 'Crash', model: 'Meinl 19" Byzance Traditional Medium Thin Crash', position: 'Left of rack toms', notes: 'Versatile primary crash' },
+        { type: 'Crash', model: 'Meinl 20" Byzance Traditional Medium Crash', position: 'Right of rack toms', notes: 'Full-bodied crash for bigger accents' },
+        { type: 'Ride', model: 'Meinl 22" Byzance Traditional Medium Ride', position: 'Far right', notes: 'Warm, complex ride with musical wash' },
+        { type: 'China', model: 'Meinl 18" Byzance Brilliant China', position: 'Above floor tom', notes: 'Musical trash for accents — less harsh than typical metal chinas' }
+      ],
+      description: `Brann's choice of Meinl Byzance cymbals perfectly complements his melodic drumming philosophy. Where many metal drummers choose bright, cutting cymbals designed to slice through heavy mixes, Brann opts for the complex, warm tones of the Byzance line — cymbals that have character and nuance.
+
+The Byzance series is hand-hammered in Turkey using traditional techniques, producing complex overtones that develop as the cymbal decays. This complexity suits Brann's style perfectly — his cymbals don't just accent, they sing along with his drums.
+
+The 14" Byzance Traditional hi-hats provide the foundation for his intricate patterns. Unlike the bright, aggressive hi-hats common in metal, these have warmth and musicality that let subtle variations shine. Brann's hi-hat work is often understated but essential to his grooves.
+
+For crashes, Brann uses a range of sizes from 18" to 20", all from the Traditional or Brilliant series. The variety allows for dynamic expression — smaller crashes for quick accents, larger ones for climactic moments. The Brilliant finish adds some brightness while maintaining Byzance warmth.
+
+The 22" Traditional Medium Ride is crucial for Brann's playing. He uses it for both riding and crashing, and its warm, complex tone adds atmosphere rather than just marking time. The wash builds musically, adding to the overall sound.
+
+Perhaps most telling is his China cymbal choice — the Byzance Brilliant China. Most metal drummers want harsh, explosive Chinas. Brann's is musical, adding accent without destroying the mix. It's trash with taste.`,
+      estimatedValue: '$2,500-3,500 total (Byzance setup)'
+    },
+    // Hardware Section
+    hardware: {
+      title: 'The Foundation',
+      items: [
+        {
+          type: 'Bass Drum Pedal',
+          brand: 'DW',
+          model: 'DW 9000 Series Single Pedal',
+          notes: 'Single pedal — Brann relies on creative patterns, not double bass',
+          description: 'The DW 9000\'s smooth action and adjustability allow Brann to achieve the nuanced bass drum work that defines his playing. He uses single pedal for nearly everything, proving that creativity trumps speed.'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'DW',
+          model: 'DW 9000 Series Hi-Hat Stand',
+          notes: 'Quick, responsive for dynamic hi-hat work'
+        },
+        {
+          type: 'Throne',
+          brand: 'Roc-N-Soc',
+          model: 'Roc-N-Soc Nitro Throne',
+          notes: 'Comfort essential for maintaining relaxed technique during long performances'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth American Classic 5A',
+          notes: 'Standard sticks — Brann\'s creativity comes from technique, not specialized equipment',
+          description: 'Brann uses standard 5A sticks, proving that extraordinary drumming doesn\'t require extraordinary sticks. His tone and dynamics come from technique and touch.'
+        },
+        {
+          type: 'Rack',
+          brand: 'DW',
+          model: 'DW 9000 Series Stands (no rack)',
+          notes: 'Individual stands rather than a rack system',
+          description: 'Brann uses individual DW stands rather than a rack, giving him flexibility in setup angles and positions.'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke P4 Coated (batter), Remo Smooth White Ambassador (resonant with port hole)',
+        toms: 'Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)',
+        snare: 'Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)'
+      }
+    },
+    // Gear Evolution Section
+    gearTimeline: [
+      {
+        era: 'Early Days (Lethargy, Today Is the Day)',
+        years: '1992-1999',
+        albums: ['Lethargy - It\'s Hard to Write with a Little Hand', 'Today Is the Day sessions'],
+        description: 'Developing the style that would define Mastodon.',
+        gear: {
+          drums: 'Various kits — Pearl, Ludwig',
+          snare: 'Multiple snares',
+          cymbals: 'Mixed brands',
+          hardware: 'Standard hardware'
+        },
+        notes: 'Already developing melodic approach in grindcore context.'
+      },
+      {
+        era: 'Mastodon Formation',
+        years: '2000-2004',
+        albums: ['Remission', 'Leviathan'],
+        description: 'Establishing the Mastodon sound with raw aggression.',
+        gear: {
+          drums: 'Tama kits',
+          snare: 'Tama steel snares',
+          cymbals: 'Sabian / Zildjian mix',
+          hardware: 'Tama hardware'
+        },
+        notes: 'Sludge metal intensity with progressive ambitions.'
+      },
+      {
+        era: 'Critical Breakthrough',
+        years: '2006-2011',
+        albums: ['Blood Mountain', 'Crack the Skye', 'The Hunter'],
+        description: 'Progressive breakthrough and commercial success.',
+        gear: {
+          drums: 'DW Collector\'s Series (start of endorsement)',
+          snare: 'DW Collector\'s Metal',
+          cymbals: 'Meinl Byzance (start of partnership)',
+          hardware: 'DW 9000 Series'
+        },
+        notes: 'Found the gear that would define his mature sound.'
+      },
+      {
+        era: 'Grammy Era',
+        years: '2014-2021',
+        albums: ['Once More \'Round the Sun', 'Emperor of Sand', 'Hushed and Grim'],
+        description: 'Grammy nominations and artistic peak.',
+        gear: {
+          drums: 'DW Collector\'s Series (refined)',
+          snare: 'DW Collector\'s Aluminum 14x6.5"',
+          cymbals: 'Meinl Byzance full setup',
+          hardware: 'DW 9000 Series'
+        },
+        notes: 'Setup stable; focus on composition and vocal work.'
+      },
+      {
+        era: 'Current',
+        years: '2022-Present',
+        albums: ['Touring "Hushed and Grim," writing new material'],
+        description: 'Continuing to evolve while maintaining core setup.',
+        gear: {
+          drums: 'DW Collector\'s Series Maple',
+          snare: 'DW Collector\'s Aluminum 14x6.5"',
+          cymbals: 'Meinl Byzance Traditional/Brilliant',
+          hardware: 'DW 9000 Series'
+        },
+        notes: 'Gear settled; focus on artistic expression.'
+      }
+    ],
+    // Technique Section
+    playingStyle: {
+      title: 'The Flowing Philosophy: Drums as Composition',
+      content: `Brann Dailor's approach to drumming is fundamentally different from most metal drummers. Where others play drums, Brann composes with them. Understanding this philosophy is essential to understanding his gear choices and playing style.
+
+**The Constant Fill:**
+Listen to any Mastodon song and you'll notice: Brann never stops. While other drummers punctuate songs with fills, Brann's fills ARE the song. His tom patterns weave continuously through verses, choruses, and bridges, creating an additional melodic layer that's as important as the guitars.
+
+This approach requires gear that can handle constant motion. His toms must sing melodically, his cymbals must blend rather than dominate, and his bass drum must groove without demanding attention. Every piece of Brann's kit serves this compositional philosophy.
+
+**Melodic Tuning:**
+Brann tunes his toms in musical intervals — not just "high to low" but in actual pitches that create melodies when played. This explains his preference for resonant maple shells and coated heads: he needs the sustain and tone to make these melodic patterns work.
+
+**Singing While Playing:**
+Perhaps the most remarkable aspect of Brann's style is that he sings while doing all this. On "Crack the Skye" and subsequent albums, he handles substantial vocal duties while executing his signature constant-motion drumming. This requires extraordinary independence and groove-based muscle memory.
+
+**Space and Dynamics:**
+Despite the constant motion, Brann understands space. His dynamics range from barely-there ghost notes to thunderous crashes. The Meinl Byzance cymbals support this — their complex overtones add texture at low volumes and project at high ones.
+
+**Single Pedal Creativity:**
+Brann's reliance on single pedal bass drum work, in an era of double bass dominance, demonstrates his groove-first philosophy. He creates interesting patterns with one foot, proving that creativity beats speed.`,
+      keyTechniques: [
+        'Constant melodic fills woven throughout songs',
+        'Toms tuned in musical intervals for melodic patterns',
+        'Single pedal creativity over double bass speed',
+        'Singing while playing demanding parts',
+        'Dynamics from ghost notes to thunderous crashes',
+        'Compositional approach — drums as melody'
+      ]
+    },
+    // Track Analysis
+    trackAnalysis: [
+      {
+        track: 'Oblivion',
+        bpm: '145',
+        signature: '4/4 with 6/8 feel sections',
+        highlights: [
+          'Demonstrates melodic tom work at its finest',
+          'Continuous fills that ARE the song',
+          'Brann\'s first major lead vocal contribution',
+          'Progressive structure with flowing transitions',
+          'Grammy-nominated album opener'
+        ],
+        gearNotes: 'Melodically-tuned toms essential for the signature patterns. Byzance cymbals add warmth without harshness.'
+      },
+      {
+        track: 'Blood and Thunder',
+        bpm: '92',
+        signature: '4/4',
+        highlights: [
+          'Mastodon\'s breakthrough single',
+          'Sludge groove meets progressive fills',
+          'Main riff driven by drum groove',
+          'Shows Brann\'s power AND finesse',
+          '"Split your lungs with blood and thunder!"'
+        ],
+        gearNotes: 'Bass drum groove drives everything. Snare crack cuts through heavy guitars.'
+      },
+      {
+        track: 'The Czar',
+        bpm: 'Variable (65-140)',
+        signature: '4/4 with odd-time sections',
+        highlights: [
+          'Epic 11-minute prog journey',
+          'Multiple movements and tempos',
+          'Full dynamic range from soft to crushing',
+          'Tom work creates melodic counterpoint',
+          'Showcases Brann\'s compositional drumming'
+        ],
+        gearNotes: 'Full kit range utilized. Ride cymbal work prominent in quieter sections.'
+      },
+      {
+        track: 'Show Yourself',
+        bpm: '116',
+        signature: '4/4',
+        highlights: [
+          'Radio-friendly but technically demanding',
+          'Driving groove throughout',
+          'Shows accessibility of Brann\'s style',
+          'Fills serve the song perfectly'
+        ],
+        gearNotes: 'Demonstrates how Brann adapts to more straightforward material while maintaining identity.'
+      },
+      {
+        track: 'Teardrinker',
+        bpm: '108',
+        signature: '4/4 with 6/8 feel',
+        highlights: [
+          'From "Hushed and Grim" — mature Mastodon',
+          'Emotional, driving performance',
+          'Builds from restrained to powerful',
+          'Brann\'s vocals prominent'
+        ],
+        gearNotes: 'Dynamic control crucial. Coated heads provide warmth for emotional passages.'
+      }
+    ],
+    // Singing and Drumming Section
+    vocalDrumming: {
+      title: 'The Dual Instrument: Singing While Playing',
+      content: `Brann Dailor's ability to sing while executing his demanding drum parts represents one of the most impressive skills in modern rock. Understanding how he achieves this illuminates both his drumming approach and his gear requirements.
+
+**Development:**
+Brann didn't start Mastodon as a vocalist. Early albums featured minimal vocal contributions from him. But as the band evolved, so did his role, until by "Crack the Skye" he was handling substantial lead vocal duties. This evolution was gradual — learning to sing simple parts while grooving, then adding complexity to both.
+
+**Groove Memory:**
+The key to singing while playing complex parts is making the drumming automatic. Brann's grooves are internalized so deeply that his hands and feet work independently of conscious thought. This allows his mind to focus on vocals while his body handles the drums.
+
+**Pattern-Based Approach:**
+Listen carefully and you'll notice that Brann's fills, while constant, are often based on repeating patterns. This predictability (within creative variation) makes singing easier — he knows what's coming because his body has memorized the vocabulary.
+
+**Gear Requirements:**
+Singing while playing requires gear that doesn't fight you. Brann's setup is optimized for feel and response: the DW 9000 pedal's smooth action, the Roc-N-Soc throne's comfort, the Meinl cymbals' even response across dynamics. Any gear that demands conscious attention would make singing impossible.
+
+**Live Challenges:**
+In concert, Brann handles backing vocals and occasional leads while playing some of metal's most demanding drum parts. The combination of physical exertion and breath control for singing requires exceptional fitness and technique.
+
+**Influence:**
+Brann's vocal drumming has influenced younger drummers to develop singing abilities. In an era of click tracks and triggered drums, his organic, multitasking approach feels revolutionary.`
+    },
+    // Videos
+    videos: [
+      { youtubeId: 'TsdIO8RHMTc', title: 'Oblivion - Official Video', description: 'Melodic drumming and vocals on display' },
+      { youtubeId: 'hwgqenKsNKs', title: 'Blood and Thunder - Live', description: 'Raw power and groove in concert' },
+      { youtubeId: 'k1t2M8pSMKA', title: 'Brann Dailor Drum Cam', description: 'Close-up view of flowing technique' },
+      { youtubeId: 'N3xMxh1RsBM', title: 'Show Yourself - Official', description: 'Accessible but technically impressive' }
+    ],
+    // Buying Guide
+    buyingGuide: {
+      title: 'Getting the Brann Dailor Sound: A Buyer\'s Guide',
+      content: `Capturing Brann's sound is less about specific gear and more about tuning and technique. That said, here's how to approach building a Brann-inspired setup at various budgets.
+
+**Budget Approach ($1,500-2,500):**
+- PDP Concept Maple kit — DW quality at lower price
+- Meinl HCS or Classics Custom cymbals — entry to Meinl tone
+- DW 3000 single pedal — smooth DW feel
+- Vic Firth 5A sticks
+- Key: Tune toms melodically in musical intervals. This matters more than kit quality.
+
+**Mid-Range Approach ($3,500-5,500):**
+- DW Performance Series kit — professional DW quality
+- Meinl Byzance Traditional basic setup — the real deal
+- DW 5000 single pedal — excellent feel
+- Remo Ambassador/Emperor heads
+- Key: Invest in Byzance cymbals. Their complex tone is essential to the sound.
+
+**Professional Approach ($7,000+):**
+- DW Collector's Series — Brann's actual kit line
+- Meinl Byzance Traditional full setup — complete palette
+- DW 9000 single pedal — top-of-line feel
+- Full head complement
+- Key: At this level, focus on custom shell sizes and finishes that inspire you.`,
+      budgetBreakdown: {
+        budget: { total: '$1,500-2,500', drums: '$1,000', cymbals: '$400', hardware: '$200', notes: 'PDP Concept Maple is the sweet spot' },
+        mid: { total: '$3,500-5,500', drums: '$2,000', cymbals: '$1,200', hardware: '$400', notes: 'DW Performance + Byzance Traditional' },
+        pro: { total: '$7,000+', drums: '$3,500+', cymbals: '$2,500+', hardware: '$500+', notes: 'DW Collector\'s full setup' }
+      }
+    },
+    // Quotes
+    quotes: [
+      { text: "I see drums as an opportunity to add melody to the rhythm. The drums should sing, not just keep time.", source: "Modern Drummer Interview", year: 2017 },
+      { text: "I never play the same fill twice. Why would I? Every moment in a song is unique and deserves its own expression.", source: "Drumeo Session", year: 2019 },
+      { text: "Singing while playing was the hardest thing I've ever learned. It took years to get where I could actually do both justice.", source: "Rhythm Magazine", year: 2021 }
+    ],
+    // Related Content
+    relatedAlbums: ['crack-the-skye-drum-setup', 'leviathan-drum-setup'],
+    relatedDrummers: [14, 5, 15], // Danny Carey, Tomas Haake, Mario Duplantier
+    relatedArticles: ['progressive-metal-drummers', 'drummers-who-sing', 'melodic-drumming-guide'],
+    // Conclusion
+    conclusion: {
+      title: 'The Flow State',
+      content: `Brann Dailor has achieved something rare in heavy music: complete artistic identity. From the first fill, you know it's him. Not because of a signature sound or a technical gimmick, but because his entire approach to the instrument is unique. He doesn't play drums — he composes with them.
+
+The gear — DW Collector's drums, Meinl Byzance cymbals, standard 5A sticks — supports rather than defines his sound. These are tools for expression, not crutches for inadequacy. Brann could make a budget kit sing because his artistry lies in his hands, his ears, and his compositional mind.
+
+For drummers inspired by Brann's approach, the lessons extend beyond gear and technique:
+
+- **Compose, don't just play**: Think of drum parts as melodies
+- **Space is musical**: Dynamics and silence are as important as notes
+- **Develop vocabulary, not just chops**: Brann's endless fills come from an internalized language
+- **Multi-task for art**: Singing while playing serves the music
+- **Tune for tone**: Your drums should sing, not just make noise
+- **Creativity beats speed**: Single pedal patterns can be more interesting than double bass blasts
+
+From the underground grind of Lethargy to Grammy-nominated Mastodon, from instrumental obscurity to singing lead on major releases, Brann Dailor's career is a masterclass in artistic evolution. He never stopped growing, never settled for what worked, never stopped asking what else drums could do.
+
+The flow continues. The whales rise. And somewhere, Brann Dailor is playing a fill you've never heard — because he's never played it before either.
+
+🥁 *"Every moment deserves its own expression."* 🌊`
+    }
   }
 };
 

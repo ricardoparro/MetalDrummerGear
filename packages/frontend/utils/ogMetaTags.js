@@ -667,6 +667,78 @@ export function updateSoundLikeGuideMeta(guide = null) {
 }
 
 /**
+ * Update OG meta for tools hub page (Issue #729)
+ * Central landing page showcasing all interactive tools
+ */
+export function updateToolsHubMeta() {
+  updateOgMeta({
+    title: 'The Ultimate Metal Drummer Toolkit | Interactive Tools | MetalForge',
+    description: 'Discover 5 interactive tools for metal drummers: Drum Kit Builder, Gear Comparison Tool, Evolution Timeline, Drummer Quiz, and Stage Name Generator. Build, compare, learn, and have fun!',
+    url: '/tools',
+    image: 'https://metalforge.io/og-tools-hub.png',
+    keywords: 'metal drummer tools, drum kit builder, gear comparison, drummer quiz, stage name generator, metal drumming timeline',
+  });
+
+  // Add ItemList schema for SEO (Schema.org ItemList)
+  if (typeof document !== 'undefined') {
+    const toolsSchema = {
+      '@context': 'https://schema.org',
+      '@type': 'ItemList',
+      name: 'The Ultimate Metal Drummer Toolkit',
+      description: '5 interactive tools for metal drummers to build kits, compare gear, explore history, find their drummer match, and generate stage names.',
+      url: `${BASE_URL}/tools`,
+      numberOfItems: 5,
+      itemListElement: [
+        {
+          '@type': 'ListItem',
+          position: 1,
+          name: 'Drum Kit Builder',
+          description: 'Build your dream metal drum kit with gear from legendary drummers.',
+          url: `${BASE_URL}/kit-builder`,
+        },
+        {
+          '@type': 'ListItem',
+          position: 2,
+          name: 'Gear Comparison Tool',
+          description: 'Compare drummer setups side-by-side to find the perfect gear combination.',
+          url: `${BASE_URL}/tools/compare`,
+        },
+        {
+          '@type': 'ListItem',
+          position: 3,
+          name: 'Evolution Timeline',
+          description: 'Explore 50+ years of metal drumming history from 1970 to present.',
+          url: `${BASE_URL}/history`,
+        },
+        {
+          '@type': 'ListItem',
+          position: 4,
+          name: 'Which Drummer Are You? Quiz',
+          description: 'Take our quiz to find out which legendary metal drummer matches your style.',
+          url: `${BASE_URL}/kit-quiz`,
+        },
+        {
+          '@type': 'ListItem',
+          position: 5,
+          name: 'Stage Name Generator',
+          description: 'Generate your brutal metal drummer stage name for your next project.',
+          url: `${BASE_URL}/tools/metal-drummer-name-generator`,
+        },
+      ],
+    };
+
+    let script = document.querySelector('script[data-schema="tools-hub"]');
+    if (!script) {
+      script = document.createElement('script');
+      script.type = 'application/ld+json';
+      script.setAttribute('data-schema', 'tools-hub');
+      document.head.appendChild(script);
+    }
+    script.textContent = JSON.stringify(toolsSchema);
+  }
+}
+
+/**
  * Update OG meta for gear statistics page (Issue #695)
  */
 export function updateGearStatsMeta() {
@@ -740,4 +812,5 @@ export default {
   updateBattleMeta,
   updateSoundLikeGuideMeta,
   updateGearStatsMeta,
+  updateToolsHubMeta,
 };

@@ -70,6 +70,7 @@ import {
   updateQuotesPageMeta,
   updateBattleMeta,
   updateGearStatsMeta,
+  updateToolsHubMeta,
 } from './utils/ogMetaTags';
 
 // Skeleton Components for CLS Prevention
@@ -309,6 +310,13 @@ function isGearComparisonToolPage() {
   )); 
 }
 function updateGearComparisonToolMeta(d1, d2) { return _gearComparisonToolModule?.updateGearComparisonToolMeta?.(d1, d2); }
+
+// Tools Hub Page (Issue #729) - Central landing page for all interactive tools
+function isToolsHubPage() {
+  if (typeof window === 'undefined') return false;
+  const pathname = window.location.pathname;
+  return pathname === '/tools' || pathname === '/tools/';
+}
 
 // Extended bios for drummer detail pages (Issue #305)
 // Loaded dynamically for code splitting (~9KB of text data) - TBT optimization #460
@@ -7575,6 +7583,225 @@ function BirthdayCalendarPage({ theme, onBack, onSelectDrummer }) {
             </View>
           </View>
         </View>
+      </View>
+    </ScrollView>
+  );
+}
+
+// ==========================================
+// TOOLS HUB PAGE (Issue #729)
+// Central landing page showcasing all 5 interactive tools
+// ==========================================
+
+// Tools data with consistent structure
+const TOOLS_HUB_DATA = [
+  {
+    id: 'kit-builder',
+    icon: '🥁',
+    title: 'Drum Kit Builder',
+    subtitle: 'Build Your Dream Setup',
+    description: 'Create your perfect metal drum kit by mixing and matching gear from legendary drummers. Get price estimates, compare setups, and share your custom builds.',
+    cta: 'Start Building',
+    route: '/kit-builder',
+    color: '#ef4444', // Red
+    features: ['60+ gear items', 'Real pricing', 'Share builds'],
+  },
+  {
+    id: 'gear-compare',
+    icon: '⚔️',
+    title: 'Gear Comparison Tool',
+    subtitle: 'Battle of the Setups',
+    description: 'Compare drummer setups side-by-side. Analyze kits, cymbals, hardware, and costs to find the perfect combination for your style.',
+    cta: 'Compare Now',
+    route: '/tools/compare',
+    color: '#f59e0b', // Orange/Amber
+    features: ['Side-by-side view', 'Cost analysis', 'Detailed specs'],
+  },
+  {
+    id: 'timeline',
+    icon: '📅',
+    title: 'Evolution Timeline',
+    subtitle: '50+ Years of Metal Drumming',
+    description: 'Explore the complete history of metal drumming from 1970 to present. Discover pivotal moments, legendary albums, and the evolution of techniques.',
+    cta: 'Explore History',
+    route: '/history',
+    color: '#9333ea', // Purple
+    features: ['6 decades', '100+ events', 'Interactive filters'],
+  },
+  {
+    id: 'quiz',
+    icon: '🎯',
+    title: 'Which Drummer Are You?',
+    subtitle: 'Find Your Match',
+    description: 'Answer 8 quick questions to discover which legendary metal drummer matches your playing style, gear preferences, and musical taste.',
+    cta: 'Take the Quiz',
+    route: '/kit-quiz',
+    color: '#3b82f6', // Blue
+    features: ['8 questions', 'Instant results', 'Shareable'],
+  },
+  {
+    id: 'name-generator',
+    icon: '🎸',
+    title: 'Stage Name Generator',
+    subtitle: 'Get Your Metal Identity',
+    description: 'Generate your brutal metal drummer stage name. Perfect for bands, solo projects, or just for fun. Over 10,000 unique combinations!',
+    cta: 'Generate Name',
+    route: '/tools/metal-drummer-name-generator',
+    color: '#10b981', // Green
+    features: ['10,000+ combos', 'Multiple styles', 'Copy & share'],
+  },
+];
+
+function ToolsHubPage({ theme, onBack, onNavigateToTool }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const isTablet = width >= 768 && width < 1024;
+
+  // Update meta tags on mount
+  useEffect(() => {
+    updateToolsHubMeta();
+    // Track page view
+    if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
+      window.gtag('event', 'page_view', {
+        page_title: 'Tools Hub',
+        page_location: window.location.href,
+        page_path: '/tools',
+      });
+    }
+  }, []);
+
+  const handleToolClick = (tool) => {
+    // Track tool click
+    if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
+      window.gtag('event', 'tool_hub_click', {
+        tool_id: tool.id,
+        tool_name: tool.title,
+      });
+    }
+    onNavigateToTool(tool.route);
+  };
+
+  const gridColumns = isMobile ? 1 : isTablet ? 2 : 3;
+
+  return (
+    <ScrollView 
+      style={[styles.container, { backgroundColor: theme.background }]}
+      contentContainerStyle={{ paddingBottom: 40 }}
+    >
+      {/* Back Button */}
+      <View style={styles.backButtonContainer}>
+        <TouchableOpacity
+          onPress={onBack}
+          style={[styles.backButton, { backgroundColor: theme.card }]}
+          accessibilityRole="button"
+          accessibilityLabel="Go back to home"
+        >
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+        </TouchableOpacity>
+      </View>
+
+      {/* Hero Section */}
+      <View style={[styles.toolsHubHero, { backgroundColor: theme.card }]}>
+        <Text style={[styles.toolsHubHeroEmoji]}>🛠️</Text>
+        <Text style={[styles.toolsHubHeroTitle, { color: theme.text }]}>
+          The Ultimate Metal Drummer Toolkit
+        </Text>
+        <Text style={[styles.toolsHubHeroSubtitle, { color: theme.secondaryText }]}>
+          5 interactive tools to build, compare, explore, discover, and create
+        </Text>
+      </View>
+
+      {/* Tools Grid */}
+      <View style={[
+        styles.toolsHubGrid,
+        { flexDirection: isMobile ? 'column' : 'row', flexWrap: 'wrap' }
+      ]}>
+        {TOOLS_HUB_DATA.map((tool, index) => (
+          <TouchableOpacity
+            key={tool.id}
+            onPress={() => handleToolClick(tool)}
+            style={[
+              styles.toolsHubCard,
+              { 
+                backgroundColor: theme.card,
+                borderColor: tool.color,
+                borderLeftWidth: 4,
+                width: isMobile ? '100%' : isTablet ? '48%' : '31%',
+                marginRight: isMobile ? 0 : '2%',
+                marginBottom: 16,
+              }
+            ]}
+            accessibilityRole="button"
+            accessibilityLabel={`${tool.title}: ${tool.description}`}
+          >
+            {/* Icon Badge */}
+            <View style={[styles.toolsHubIconBadge, { backgroundColor: `${tool.color}20` }]}>
+              <Text style={styles.toolsHubIcon}>{tool.icon}</Text>
+            </View>
+
+            {/* Content */}
+            <View style={styles.toolsHubCardContent}>
+              <Text style={[styles.toolsHubCardTitle, { color: theme.text }]}>
+                {tool.title}
+              </Text>
+              <Text style={[styles.toolsHubCardSubtitle, { color: tool.color }]}>
+                {tool.subtitle}
+              </Text>
+              <Text style={[styles.toolsHubCardDescription, { color: theme.secondaryText }]}>
+                {tool.description}
+              </Text>
+
+              {/* Features */}
+              <View style={styles.toolsHubFeatures}>
+                {tool.features.map((feature, i) => (
+                  <View 
+                    key={i} 
+                    style={[styles.toolsHubFeatureBadge, { backgroundColor: `${tool.color}15` }]}
+                  >
+                    <Text style={[styles.toolsHubFeatureText, { color: tool.color }]}>
+                      {feature}
+                    </Text>
+                  </View>
+                ))}
+              </View>
+
+              {/* CTA Button */}
+              <View style={[styles.toolsHubCta, { backgroundColor: tool.color }]}>
+                <Text style={styles.toolsHubCtaText}>{tool.cta} →</Text>
+              </View>
+            </View>
+          </TouchableOpacity>
+        ))}
+      </View>
+
+      {/* Discover More Section */}
+      <View style={[styles.toolsHubDiscoverSection, { backgroundColor: theme.card }]}>
+        <Text style={[styles.toolsHubDiscoverTitle, { color: theme.text }]}>
+          🔥 Ready to Explore More?
+        </Text>
+        <Text style={[styles.toolsHubDiscoverDescription, { color: theme.secondaryText }]}>
+          Discover 60+ legendary metal drummers, their complete gear setups, techniques, and the stories behind their iconic sounds.
+        </Text>
+        <TouchableOpacity
+          onPress={() => {
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/drummers');
+              window.dispatchEvent(new PopStateEvent('popstate'));
+            }
+          }}
+          style={[styles.toolsHubDiscoverCta, { backgroundColor: theme.primary }]}
+          accessibilityRole="link"
+          accessibilityLabel="Browse all drummers"
+        >
+          <Text style={styles.toolsHubDiscoverCtaText}>Browse All Drummers →</Text>
+        </TouchableOpacity>
+      </View>
+
+      {/* SEO Footer */}
+      <View style={[styles.toolsHubSeoFooter, { borderTopColor: theme.border }]}>
+        <Text style={[styles.toolsHubSeoText, { color: theme.secondaryText }]}>
+          MetalForge Tools — Build your dream kit, compare legendary setups, explore 50+ years of metal drumming history, find your drummer match, and generate your stage name. All free, no signup required.
+        </Text>
       </View>
     </ScrollView>
   );
@@ -16038,6 +16265,7 @@ function DrummerList({
   onNavigateToTechniques,
   onNavigateToDrummers,
   onNavigateToNews,
+  onNavigateToToolsHub,
   spotlight,
   filters,
   onFilterChange,
@@ -16192,6 +16420,14 @@ function DrummerList({
           accessibilityLabel="Browse metal genres"
         >
           <Text style={[styles.quizButtonText, { color: colors.buttons.secondary.text }]}>🎸 Browse Genres</Text>
+        </TouchableOpacity>
+        <TouchableOpacity
+          onPress={onNavigateToToolsHub}
+          style={[styles.quizButton, { backgroundColor: '#059669', borderColor: '#059669' }]}
+          accessibilityRole="button"
+          accessibilityLabel="Explore all interactive tools"
+        >
+          <Text style={[styles.quizButtonText, { color: '#fff' }]}>🛠️ All Tools</Text>
         </TouchableOpacity>
       </View>
       <View style={[styles.actionButtonsRow, { marginTop: -8 }]}>
@@ -20739,6 +20975,9 @@ function AppContent() {
   // Gear Comparison Tool Page state (Issue #721) - /tools/compare
   const [showGearComparisonTool, setShowGearComparisonTool] = useState(() => isGearComparisonToolPage());
   
+  // Tools Hub Page state (Issue #729) - /tools
+  const [showToolsHub, setShowToolsHub] = useState(() => isToolsHubPage());
+  
   const [showGearFinder, setShowGearFinder] = useState(() => isGearFinderPage());
   const [selectedGear, setSelectedGear] = useState(null);
   const [loadingGear, setLoadingGear] = useState(false);
@@ -22168,6 +22407,53 @@ function AppContent() {
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
+        setShowToolsHub(false);
+      } else if (isToolsHubPage()) {
+        // Tools Hub page (Issue #729) - /tools
+        setShowToolsHub(true);
+        setShowGearComparisonTool(false);
+        setShowGearSearch(false);
+        setShowGearBrand(false);
+        setGearBrandSlug(null);
+        setShowNameGenerator(false);
+        setShowBeginnerGuide(false);
+        setShowGuidesHub(false);
+        setShowGuide(false);
+        setGuideSlug(null);
+        setShowArticle(false);
+        setArticleSlug(null);
+        setShowList(false);
+        setListSlug(null);
+        setShowNewsPage(false);
+        setShowGearNewsPage(false);
+        setShowGearStats(false);
+        setShowTechniquesIndex(false);
+        setShowTechniqueDetail(false);
+        setTechniqueSlug(null);
+        setShowGearComparisonsIndex(false);
+        setShowGearComparison(false);
+        setGearComparisonSlug(null);
+        setShowGenresList(false);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowKitBuilder(false);
+        setShowKitQuiz(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowBattlePage(false);
+        setBattleSlug(null);
+        setShowTimelinePage(false);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
       } else if (isGearBrandPage()) {
         // Gear Brand page (Issue #719) - /gear/:brand
         const slug = getGearBrandSlugFromURL();
@@ -22883,6 +23169,36 @@ setShowList(false);
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
       const path = decade ? `/history?decade=${decade}` : '/history';
       window.history.pushState({}, '', path);
+    }
+  };
+
+  // Navigate to Tools Hub (Issue #729)
+  const handleNavigateToToolsHub = () => {
+    setShowToolsHub(true);
+    setShowTimelinePage(false);
+    setShowBirthdayCalendar(false);
+    setShowKitBuilder(false);
+    setShowKitQuiz(false);
+    setShowGearFinder(false);
+    setShowGearByBudget(false);
+    setShowNameGenerator(false);
+    setShowGearComparisonTool(false);
+    setShowList(false);
+    setListSlug(null);
+    setShowSpotlights(false);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowPrivacy(false);
+    setShowQuotes(false);
+    setShowBioPage(false);
+    setBioSlug(null);
+    setShowBandDetail(false);
+    setBandSlug(null);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/tools');
     }
   };
 
@@ -23888,6 +24204,14 @@ setShowList(false);
           <LazyMetalDrummerNameGeneratorPage
             theme={theme}
             onSelectDrummer={handleSelectDrummer}
+            onBack={() => {
+              setShowNameGenerator(false);
+              // Navigate back to Tools Hub instead of home (Issue #729)
+              setShowToolsHub(true);
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/tools');
+              }
+            }}
           />
         </Suspense>
       );
@@ -23943,13 +24267,37 @@ setShowList(false);
             drummers={drummers}
             onBack={() => {
               setShowGearComparisonTool(false);
+              // Navigate back to Tools Hub instead of home (Issue #729)
+              setShowToolsHub(true);
               if (Platform.OS === 'web' && typeof window !== 'undefined') {
-                window.history.pushState({}, '', '/');
+                window.history.pushState({}, '', '/tools');
               }
             }}
             onSelectDrummer={handleSelectDrummer}
           />
         </Suspense>
+      );
+    }
+    // Tools Hub Page (Issue #729) - /tools
+    // Central landing page showcasing all 5 interactive tools
+    if (showToolsHub) {
+      return (
+        <ToolsHubPage
+          theme={theme}
+          onBack={() => {
+            setShowToolsHub(false);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/');
+            }
+          }}
+          onNavigateToTool={(route) => {
+            setShowToolsHub(false);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', route);
+              window.dispatchEvent(new PopStateEvent('popstate'));
+            }
+          }}
+        />
       );
     }
     // Guides Hub Page (Issue #685) - SEO content hub at /guides
@@ -24079,8 +24427,10 @@ setShowList(false);
           theme={theme}
           onBack={() => {
             setShowKitBuilder(false);
+            // Navigate back to Tools Hub instead of home (Issue #729)
+            setShowToolsHub(true);
             if (Platform.OS === 'web' && typeof window !== 'undefined') {
-              window.history.pushState({}, '', '/');
+              window.history.pushState({}, '', '/tools');
             }
           }}
           drummers={drummers}
@@ -24095,8 +24445,10 @@ setShowList(false);
           theme={theme}
           onBack={() => {
             setShowKitQuiz(false);
+            // Navigate back to Tools Hub instead of home (Issue #729)
+            setShowToolsHub(true);
             if (Platform.OS === 'web' && typeof window !== 'undefined') {
-              window.history.pushState({}, '', '/');
+              window.history.pushState({}, '', '/tools');
             }
           }}
           drummers={drummers}
@@ -24180,8 +24532,10 @@ setShowList(false);
           onBack={() => {
             setShowTimelinePage(false);
             setTimelineDecade(null);
+            // Navigate back to Tools Hub instead of home (Issue #729)
+            setShowToolsHub(true);
             if (Platform.OS === 'web' && typeof window !== 'undefined') {
-              window.history.pushState({}, '', '/');
+              window.history.pushState({}, '', '/tools');
             }
           }}
           onSelectDrummer={handleSelectDrummer}
@@ -24420,6 +24774,7 @@ setShowList(false);
           onNavigateToTechniques={handleNavigateToTechniquesIndex}
           onNavigateToDrummers={handleNavigateToDrummers}
           onNavigateToNews={handleNavigateToNews}
+          onNavigateToToolsHub={handleNavigateToToolsHub}
           spotlight={apiSpotlight || getCuratedFeaturedDrummer(drummers, drummerBirthdays())}
           filters={filters}
           onFilterChange={handleFilterChange}
@@ -31681,6 +32036,139 @@ const styles = StyleSheet.create({
   comingSoonText: {
     fontSize: fontSize.sm,
     textAlign: 'center',
+  },
+  // ==========================================
+  // TOOLS HUB PAGE STYLES (Issue #729)
+  // ==========================================
+  toolsHubHero: {
+    padding: spacing[6],
+    marginHorizontal: spacing[4],
+    marginTop: spacing[4],
+    marginBottom: spacing[5],
+    borderRadius: spacing[4],
+    alignItems: 'center',
+  },
+  toolsHubHeroEmoji: {
+    fontSize: 64,
+    marginBottom: spacing[4],
+  },
+  toolsHubHeroTitle: {
+    fontSize: 28,
+    fontWeight: fontWeight.bold,
+    textAlign: 'center',
+    marginBottom: spacing[2],
+    letterSpacing: -0.5,
+  },
+  toolsHubHeroSubtitle: {
+    fontSize: fontSize.md,
+    textAlign: 'center',
+    maxWidth: 400,
+  },
+  toolsHubGrid: {
+    paddingHorizontal: spacing[4],
+    justifyContent: 'flex-start',
+  },
+  toolsHubCard: {
+    borderRadius: spacing[3],
+    padding: spacing[4],
+    overflow: 'hidden',
+  },
+  toolsHubIconBadge: {
+    width: 56,
+    height: 56,
+    borderRadius: 28,
+    alignItems: 'center',
+    justifyContent: 'center',
+    marginBottom: spacing[3],
+  },
+  toolsHubIcon: {
+    fontSize: 28,
+  },
+  toolsHubCardContent: {
+    flex: 1,
+  },
+  toolsHubCardTitle: {
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.bold,
+    marginBottom: spacing[1],
+  },
+  toolsHubCardSubtitle: {
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.semibold,
+    marginBottom: spacing[2],
+  },
+  toolsHubCardDescription: {
+    fontSize: fontSize.sm,
+    lineHeight: 20,
+    marginBottom: spacing[3],
+  },
+  toolsHubFeatures: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: spacing[2],
+    marginBottom: spacing[4],
+  },
+  toolsHubFeatureBadge: {
+    paddingHorizontal: spacing[2],
+    paddingVertical: spacing[1],
+    borderRadius: spacing[1],
+  },
+  toolsHubFeatureText: {
+    fontSize: fontSize.xs,
+    fontWeight: fontWeight.medium,
+  },
+  toolsHubCta: {
+    paddingVertical: spacing[3],
+    paddingHorizontal: spacing[4],
+    borderRadius: spacing[2],
+    alignItems: 'center',
+  },
+  toolsHubCtaText: {
+    color: '#fff',
+    fontWeight: fontWeight.semibold,
+    fontSize: fontSize.sm,
+  },
+  toolsHubDiscoverSection: {
+    marginHorizontal: spacing[4],
+    marginTop: spacing[4],
+    padding: spacing[5],
+    borderRadius: spacing[4],
+    alignItems: 'center',
+  },
+  toolsHubDiscoverTitle: {
+    fontSize: fontSize.xl,
+    fontWeight: fontWeight.bold,
+    marginBottom: spacing[2],
+    textAlign: 'center',
+  },
+  toolsHubDiscoverDescription: {
+    fontSize: fontSize.md,
+    textAlign: 'center',
+    marginBottom: spacing[4],
+    maxWidth: 500,
+    lineHeight: 24,
+  },
+  toolsHubDiscoverCta: {
+    paddingVertical: spacing[4],
+    paddingHorizontal: spacing[6],
+    borderRadius: spacing[3],
+  },
+  toolsHubDiscoverCtaText: {
+    color: '#fff',
+    fontWeight: fontWeight.bold,
+    fontSize: fontSize.md,
+  },
+  toolsHubSeoFooter: {
+    marginTop: spacing[6],
+    paddingTop: spacing[5],
+    paddingHorizontal: spacing[4],
+    paddingBottom: spacing[4],
+    borderTopWidth: 1,
+  },
+  toolsHubSeoText: {
+    fontSize: fontSize.xs,
+    textAlign: 'center',
+    lineHeight: 18,
   },
 
 });

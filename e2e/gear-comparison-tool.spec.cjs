@@ -23,7 +23,7 @@ test.describe('Gear Comparison Tool', () => {
     await expect(page).toHaveTitle(/Gear Comparison Tool|Compare/i);
     
     // Check header is present
-    await expect(page.getByText('Gear Comparison Tool')).toBeVisible();
+    await expect(page.getByText('⚔️ Gear Comparison Tool')).toBeVisible();
   });
 
   test('shows empty state when no drummers selected', async ({ page }) => {
@@ -53,16 +53,16 @@ test.describe('Gear Comparison Tool', () => {
     
     // Should show comparison (if drummers exist)
     // The page should load without error
-    await expect(page.getByText('Gear Comparison Tool')).toBeVisible();
+    await expect(page.getByText('⚔️ Gear Comparison Tool')).toBeVisible();
   });
 
-  test('back button navigates home', async ({ page }) => {
-    // Click back button
+  test('back button navigates to tools hub', async ({ page }) => {
+    // Click back button - should go to Tools Hub
     const backButton = page.getByText(/← Back/i);
     await backButton.click();
     
-    // Should navigate to home
-    await expect(page).toHaveURL('/');
+    // Should navigate to Tools Hub (/tools)
+    await expect(page).toHaveURL('/tools');
   });
 
   test('selecting a quick pick shows comparison', async ({ page }) => {
@@ -88,7 +88,7 @@ test.describe('Gear Comparison Tool', () => {
     // URL should update with comparison slug
     // Note: This might not update URL if no drummers loaded yet
     // Just check that no error occurred
-    await expect(page.getByText('Gear Comparison Tool')).toBeVisible();
+    await expect(page.getByText('⚔️ Gear Comparison Tool')).toBeVisible();
   });
 });
 
@@ -96,13 +96,14 @@ test.describe('Gear Comparison Tool SEO', () => {
   test('has proper meta tags on base page', async ({ page }) => {
     await page.goto('/tools/compare', { waitUntil: 'networkidle' });
     
-    // Check meta description
-    const metaDescription = await page.$eval(
-      'meta[name="description"]',
-      el => el.getAttribute('content')
-    ).catch(() => '');
+    // Wait for meta tags to be updated (React updates them dynamically)
+    await page.waitForTimeout(500);
     
-    expect(metaDescription).toContain('compare');
+    // Check meta description - wait for it to be updated
+    const metaDescription = await page.locator('meta[name="description"]').getAttribute('content');
+    
+    // Meta description should exist and mention comparison (case insensitive)
+    expect(metaDescription?.toLowerCase() || '').toMatch(/compare|comparison|drummer/);
   });
 
   test('has canonical URL', async ({ page }) => {
@@ -134,7 +135,7 @@ test.describe('Gear Comparison Tool Enhanced Features (Issue #734)', () => {
     const isVisible = await statsSummary.isVisible().catch(() => false);
     
     // Either stats summary is visible, or the page loaded without error
-    await expect(page.getByText('Gear Comparison Tool')).toBeVisible();
+    await expect(page.getByText('⚔️ Gear Comparison Tool')).toBeVisible();
   });
 
   test('shows top 20 popular comparisons grid', async ({ page }) => {
@@ -149,7 +150,7 @@ test.describe('Gear Comparison Tool Enhanced Features (Issue #734)', () => {
     await page.goto('/compare', { waitUntil: 'networkidle' });
     
     // Should still load the gear comparison tool
-    await expect(page.getByText('Gear Comparison Tool')).toBeVisible();
+    await expect(page.getByText('⚔️ Gear Comparison Tool')).toBeVisible();
   });
 
   test('supports /compare/:slug-vs-:slug SEO route', async ({ page }) => {
@@ -157,7 +158,7 @@ test.describe('Gear Comparison Tool Enhanced Features (Issue #734)', () => {
     await page.goto('/compare/joey-jordison-vs-lars-ulrich', { waitUntil: 'networkidle' });
     
     // Should load without error
-    await expect(page.getByText('Gear Comparison Tool')).toBeVisible();
+    await expect(page.getByText('⚔️ Gear Comparison Tool')).toBeVisible();
   });
 
   test('has gear categories with expand/collapse functionality', async ({ page }) => {

@@ -45,7 +45,7 @@
 
 ---
 
-### 💡 [IDEA-003] Best Drum Pedals for Death Metal
+### ✅ [IDEA-003] Best Drum Pedals for Death Metal
 
 **Type:** genre-guide
 **SEO Keywords:** best drum pedals death metal, double bass pedals extreme metal
@@ -60,7 +60,7 @@
 4. Pro-Level Options
 5. Speed vs Feel Trade-offs
 
-**Status:** IDEA
+**Status:** PUBLISHED (2026-03-19) — /guides/best-drum-pedals-for-death-metal
 
 ---
 
@@ -260,6 +260,7 @@
 | 2026-03-18 | What's In Brann Dailor's Mastodon Kit | /articles/whats-in-brann-dailors-kit | - |
 | 2026-03-18 | What's In Chris Adler's Lamb of God Arsenal | /articles/whats-in-chris-adlers-kit | - |
 | 2026-03-18 | What's In Charlie Benante's Anthrax Kit | /articles/whats-in-charlie-benantes-kit | - |
+| 2026-03-19 | Best Drum Pedals for Death Metal | /guides/best-drum-pedals-for-death-metal | - |
 
 ---
 
@@ -563,6 +564,66 @@
 
 ---
 
+### 💡 [IDEA-029] What's In Lars Ulrich's Kit in 2026
+
+**Type:** drummer-kit
+**SEO Keywords:** lars ulrich drum kit, metallica drummer gear, lars ulrich setup 2026, tama drums lars
+**Search Volume:** VERY HIGH (most searched metal drummer!)
+**Data Available:** Yes (drummerId: 1)
+**Priority:** 5
+
+**Outline:**
+1. Introduction — The Most Famous Metal Drummer
+2. Current Tama Starclassic Setup
+3. Signature Gear (LU1465 Snare, Ahead Sticks)
+4. Evolution from Camco to Tama
+5. 72 Seasons Tour Configuration
+6. Where to Buy Similar Gear
+
+**Status:** IDEA (added 2026-03-19)
+
+---
+
+### 💡 [IDEA-030] From Mars to Sirius Drum Setup: Mario Duplantier
+
+**Type:** album-breakdown
+**SEO Keywords:** from mars to sirius drums, gojira drum setup, mario duplantier 2005 kit, flying whales drums
+**Search Volume:** High (Gojira breakthrough album)
+**Data Available:** Yes (drummerId: 15)
+**Priority:** 5
+
+**Outline:**
+1. Introduction — The Album That Launched Gojira
+2. Studio Setup at 9ème Dimension Studios
+3. "Flying Whales" Breakdown (the epic opener)
+4. Pick-Scrape Technique Innovation
+5. Recording in a Swimming Pool
+6. Gear Breakdown (drums, cymbals, unique techniques)
+
+**Status:** IDEA (added 2026-03-19)
+
+---
+
+### 💡 [IDEA-031] Blackwater Park Drum Setup: Martin Lopez's Opeth Masterpiece
+
+**Type:** album-breakdown
+**SEO Keywords:** blackwater park drums, martin lopez opeth, opeth drum setup, blackwater park recording
+**Search Volume:** High (prog metal classic)
+**Data Available:** Partial (needs research)
+**Priority:** 4
+
+**Outline:**
+1. Introduction — The Album That Defined Progressive Death Metal
+2. Studio Setup at Fredman Studios
+3. "Blackwater Park" Track Analysis
+4. Dynamic Range: From Whisper to Roar
+5. Recording with Steven Wilson
+6. The Drums That Bridged Genres
+
+**Status:** IDEA (added 2026-03-19)
+
+---
+
 ## 💡 Idea Backlog (Lower Priority)
 
 - Best Sticks for Blast Beats
@@ -579,4 +640,4 @@
 
 ---
 
-*Last updated: 2026-03-18 17:05*
+*Last updated: 2026-03-19 09:07*

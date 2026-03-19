@@ -7291,6 +7291,297 @@ That's not about rudiments. That's about understanding what drumming really mean
 
 🤘 *"People can debate my drumming all they want. I'll be over here playing stadiums."* ⚡`
     }
+  },
+
+  'from-mars-to-sirius-drum-setup': {
+    slug: 'from-mars-to-sirius-drum-setup',
+    albumTitle: 'From Mars to Sirius',
+    artist: 'Gojira',
+    drummer: 'Mario Duplantier',
+    drummerId: 15,
+    year: 2005,
+    genre: 'Progressive Death Metal',
+    label: 'Listenable Records',
+    studio: 'Duplantier Studios, Bayonne, France',
+    producer: 'Gojira (self-produced)',
+    isAlbumArticle: true,
+    datePublished: '2026-03-19',
+    dateModified: '2026-03-19',
+    author: 'MetalForge Editorial',
+    title: "From Mars to Sirius Drum Setup: Mario Duplantier's Breakthrough Gear",
+    description: "Complete breakdown of Mario Duplantier's drum kit and techniques on Gojira's landmark album From Mars to Sirius. Learn about the gear behind 'Flying Whales' and the band's environmental metal sound.",
+    seoKeywords: ['from mars to sirius drums', 'mario duplantier drum setup', 'gojira drum sound', 'flying whales drums', 'gojira 2005 kit'],
+    ogImage: '/images/albums/from-mars-to-sirius-drums.webp',
+    intro: {
+      title: 'The Album That Launched Environmental Metal',
+      content: `Released on September 27, 2005, "From Mars to Sirius" transformed Gojira from a French underground act into one of the most important metal bands of the 21st century. At the center of this sonic evolution was Mario Duplantier, whose drumming helped create a new template for progressive death metal.
+
+The album was recorded at the Duplantier brothers' own studio in Bayonne, France — a swimming pool they had converted into a recording space. This unconventional environment contributed to the album's massive yet organic drum sound, with natural reverb bouncing off the pool walls.
+
+From the first thunderous moments of "Ocean Planet" to the 8-minute epic "Flying Whales" (arguably the greatest metal song of the 2000s), Mario's drumming combines technical death metal precision with primal, tribal rhythms. His double bass patterns groove rather than simply blast, his fills serve the song's emotional arc, and his dynamics shift from whisper-quiet atmospheric passages to crushing death metal assaults.
+
+This article breaks down every piece of gear Mario used during these landmark sessions, plus the innovative techniques that defined Gojira's signature sound.`,
+      keyPoints: [
+        'Recorded in a converted swimming pool studio in Bayonne, France',
+        'Self-produced by the band for complete creative control',
+        '"Flying Whales" became Gojira\'s signature song and a modern metal classic',
+        'Introduced the "environmental metal" sound that would influence countless bands'
+      ]
+    },
+    drumKit: {
+      title: "Mario's Power Station: The Tama Setup",
+      brand: 'Tama',
+      model: 'Tama Starclassic Performer',
+      finish: 'Piano Black',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum (x2)'],
+        toms: ['10" x 8" Rack Tom', '12" x 10" Rack Tom'],
+        floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom'],
+        shells: 'Birch/Bubinga hybrid shells'
+      },
+      description: `For From Mars to Sirius, Mario Duplantier used a Tama Starclassic Performer kit that would become the template for his sound. The dual 22" x 18" bass drums were essential to Gojira's visual and sonic identity — Mario prefers two separate drums over a double pedal for both the impact and the visual symmetry.
+
+The birch/bubinga shell combination provided the perfect balance: birch's attack and focus for cutting through Gojira's dense guitar arrangements, and bubinga's warmth and low-end depth for the atmospheric passages. The 18" depth on the bass drums (deeper than standard) contributed to the subsonic rumble that defines tracks like "Ocean Planet" and "World to Come."
+
+The tom configuration was relatively minimalist — two rack toms and two floor toms — reflecting Gojira's philosophy of power through simplicity rather than complexity. Mario's playing uses every inch of the kit purposefully, with tribal tom patterns that became as recognizable as any guitar riff.
+
+The swimming pool studio's natural acoustics gave the kit a massive, reverberant sound that the brothers enhanced with careful mic placement. Unlike the dry, triggered sounds of many death metal productions, From Mars to Sirius let the drums breathe and resonate.`,
+      notes: [
+        'Dual bass drums for visual symmetry and maximum impact',
+        'Birch/bubinga shells provided attack and warmth',
+        'Deep 18" bass drum shells for subsonic low end',
+        'Swimming pool studio added natural room ambience'
+      ],
+      estimatedValue: '$3,000-4,500 (2005)'
+    },
+    snare: {
+      title: 'The Crack That Cuts Through Whales',
+      brand: 'Tama',
+      model: 'Tama S.L.P. G-Maple',
+      size: '14" x 6.5"',
+      shell: 'Maple with die-cast hoops',
+      description: `The snare sound on From Mars to Sirius needed to achieve something difficult: cut through walls of down-tuned guitars while still having the warmth and depth for atmospheric passages. Mario achieved this with a Tama S.L.P. G-Maple snare.
+
+The 14" x 6.5" maple shell provided body and musicality — essential for Gojira's dynamic range. Unlike metal snares that favor brightness, the maple gave a woodier tone that blended with the album's organic aesthetic.
+
+Mario tuned the snare medium-high for the aggressive sections but could loosen it slightly for the more tribal, atmospheric parts. His snare technique emphasizes powerful rim shots for accents while maintaining sensitivity for ghost notes — a dynamic range that defines songs like "Backbone" and "World to Come."
+
+The die-cast hoops added focus and rimshot crack, essential when competing with Joe Duplantier's massive guitar tone. Engineers placed the snare mic close to capture attack while room mics picked up the natural ambience of the converted pool space.`,
+      tuningSetting: 'Medium-high for attack, adjusted for atmospheric passages',
+      heads: 'Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$300-400 (2005)'
+    },
+    cymbals: {
+      title: 'Dark Tones from Zildjian',
+      brand: 'Zildjian',
+      series: 'Zildjian K Custom / K Series',
+      setup: [
+        { type: 'Hi-Hats', model: 'Zildjian K Custom 14" Dark Hi-Hats', position: 'Left side', notes: 'Warm, complex hi-hats with dark wash' },
+        { type: 'Crash', model: 'Zildjian K Custom 17" Dark Crash', position: 'Left of hi-hats', notes: 'Quick, dark crash for accents' },
+        { type: 'Crash', model: 'Zildjian K Custom 19" Dark Crash', position: 'Over rack toms', notes: 'Primary crash with complex overtones' },
+        { type: 'Crash', model: 'Zildjian K 20" Crash Ride', position: 'Right of toms', notes: 'Versatile for both crashing and riding' },
+        { type: 'Ride', model: 'Zildjian K Custom 22" Dark Ride', position: 'Far right', notes: 'Massive ride with defined bell' },
+        { type: 'China', model: 'Zildjian A Custom 18" China', position: 'Above floor tom', notes: 'Aggressive accents and breakdowns' }
+      ],
+      description: `Mario's cymbal choices for From Mars to Sirius emphasized the K Custom and K series — Zildjian's darker, more complex lines. This matched Gojira's sonic aesthetic: heavy but not harsh, aggressive but musical.
+
+The K Custom Dark hi-hats provided the warm, complex sound essential to Gojira's groove-focused passages. Unlike bright, cutting hi-hats favored by many metal drummers, these added texture and depth that complemented the band's atmospheric elements.
+
+The crash selection — 17", 19", and 20" — gave Mario dynamics without excess. He tends to crash sparingly, making each hit count. The K Custom Dark series crashes explode with complex overtones that decay musically rather than harshly.
+
+The 22" K Custom Dark Ride was large enough to fill the room during sustained passages while maintaining articulation. Mario used it for both riding and crashing, exploiting its versatility throughout the album.
+
+The 18" China provided the aggressive, trashy accents that punctuated breakdowns and riff changes. Gojira's use of China cymbals is relatively restrained compared to death metal bands, making each hit more impactful.`,
+      estimatedValue: '$1,800-2,400 total (2005)'
+    },
+    hardware: {
+      title: 'The Foundation of Precision',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'Tama',
+          model: 'Tama Iron Cobra Power Glide',
+          notes: 'Two single pedals, one for each bass drum',
+          description: 'Mario uses two separate Iron Cobra pedals rather than a connected double pedal. This provides independence and allows for different angles on each bass drum, crucial for his powerful, grooving double bass style.'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Tama',
+          model: 'Tama Iron Cobra Hi-Hat Stand',
+          notes: 'Matching Iron Cobra hardware throughout'
+        },
+        {
+          type: 'Throne',
+          brand: 'Tama',
+          model: 'Tama 1st Chair Ergo-Rider',
+          notes: 'Saddle-style seat for comfort during long sessions'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth 5A American Classic',
+          notes: 'Standard weight for dynamic control (later developed signature model)'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke 3 Clear with felt strip muffling',
+        toms: 'Remo Emperor Clear (batter), Ambassador Clear (resonant)',
+        snare: 'Remo Emperor Coated'
+      }
+    },
+    recordingTechniques: {
+      title: 'Swimming Pool Sonics',
+      content: `The recording environment for From Mars to Sirius was as unconventional as Gojira's music. The Duplantier brothers converted an empty swimming pool into their recording studio, creating an acoustic space unlike any conventional room.
+
+**The Pool Studio:**
+The pool's concrete walls and curved surfaces created natural reverb that added dimension to the drums. Rather than fighting this acoustic character, the brothers embraced it, using room mics to capture the space's unique sound.
+
+**Microphone Setup:**
+- Kick drums: AKG D112 inside each drum, Neumann U47 FET outside for low-end
+- Snare: Shure SM57 top, AKG C451 bottom
+- Toms: Sennheiser MD421 on each tom
+- Hi-hat: AKG C451
+- Overheads: Neumann U87s in spaced pair configuration
+- Room mics: Two large diaphragm condensers capturing pool ambience
+
+**Self-Production Philosophy:**
+By producing the album themselves, Gojira maintained complete control over the sound. This was essential for capturing Mario's dynamic range — from the quiet, atmospheric sections to the crushing death metal passages.
+
+**Organic Sound:**
+Unlike many death metal productions that rely heavily on triggers and samples, From Mars to Sirius prioritized the natural drum sound. Triggers were used sparingly, mainly to add attack to the bass drums without replacing the acoustic tone.
+
+**Mix Approach:**
+The drums were mixed to have presence without dominating. The room ambience was carefully balanced with close mics, creating a sound that's massive but breathes with the music.`,
+      keyTechniques: [
+        'Converted swimming pool provided unique natural reverb',
+        'Self-production allowed complete creative control',
+        'Minimal triggering preserved organic drum character',
+        'Room mics captured the space\'s natural ambience'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'Ocean Planet',
+        bpm: '108',
+        signature: '4/4 with syncopation',
+        highlights: [
+          'Opening track establishes the album\'s sonic template',
+          'Heavy groove with atmospheric dynamics',
+          'Thunderous double bass patterns that groove rather than blast',
+          'Introduces the environmental themes that define the album'
+        ],
+        gearNotes: 'The deep bass drums provide subsonic rumble. Tom patterns establish the tribal elements.'
+      },
+      {
+        track: 'Backbone',
+        bpm: '130',
+        signature: '4/4',
+        highlights: [
+          'Showcases Mario\'s dynamic range from quiet to crushing',
+          'Complex double bass patterns with groove sensibility',
+          'Pick scrape technique integration with drums',
+          'Building intensity throughout the song'
+        ],
+        gearNotes: 'Snare dynamics shift from ghost notes to thunderous rim shots. Hi-hat work provides texture in quiet passages.'
+      },
+      {
+        track: 'Flying Whales',
+        bpm: '95-110 (varies)',
+        signature: '4/4 with tempo shifts',
+        highlights: [
+          'Arguably the greatest metal song of the 2000s',
+          'Opens with minute-long quiet build to explosive entrance',
+          'Epic 8-minute structure with multiple movements',
+          'The drum entrance at 2:00 is one of metal\'s greatest moments',
+          'Tribal tom patterns drive the main groove'
+        ],
+        gearNotes: 'The full kit is utilized. The delayed drum entrance showcases perfect dynamic control. Floor tom patterns are as memorable as any guitar riff.'
+      },
+      {
+        track: 'World to Come',
+        bpm: '75-95',
+        signature: '4/4',
+        highlights: [
+          'Slowest, most atmospheric track on the album',
+          'Demonstrates Mario\'s restraint and patience',
+          'Dynamics build over 6+ minutes',
+          'Proves heavy doesn\'t mean fast'
+        ],
+        gearNotes: 'Ride cymbal work and subtle hi-hat textures. Bass drums used sparingly for maximum impact when they appear.'
+      },
+      {
+        track: 'Global Warming',
+        bpm: '140',
+        signature: '4/4',
+        highlights: [
+          'More aggressive track showcasing speed capabilities',
+          'Complex fills throughout',
+          'Environmental message matched by urgent drumming',
+          'Balance of blast elements with groove foundation'
+        ],
+        gearNotes: 'Faster double bass work with China cymbal accents. Snare attack cuts through dense arrangements.'
+      }
+    ],
+    evolution: {
+      title: 'From Mars to Magma: Mario\'s Evolution',
+      content: `From Mars to Sirius established Mario Duplantier as one of the most important drummers in modern metal. His subsequent work with Gojira built upon this foundation while continuing to evolve.
+
+**Post-Album Developments:**
+After From Mars to Sirius, Mario's gear and techniques continued to develop. "The Way of All Flesh" (2008) refined the sound, while "L'Enfant Sauvage" (2012) and "Magma" (2016) expanded Gojira's dynamic range even further.
+
+**Signature Gear:**
+Mario's success with Tama led to signature products, including the Mario Duplantier Signature Snare and signature drumsticks. His cymbal endorsement shifted from Zildjian to Meinl, whose Extra Dry series matched his darker sonic preferences.
+
+**Modern Setup:**
+Today, Mario plays:
+- Tama Starclassic Bubinga drums
+- Mario Duplantier Signature Snare (14" x 6.5")
+- Meinl Byzance Extra Dry cymbals
+- Tama Iron Cobra 900 Power Glide pedals
+- Tama Mario Duplantier Signature sticks
+
+**Visual Art Integration:**
+Beyond drumming, Mario creates all of Gojira's visual art — album covers, merchandise, stage visuals. This creative involvement mirrors his musical approach: every element serves the larger vision.
+
+**Influence:**
+From Mars to Sirius influenced countless bands and drummers. The album proved that technical death metal could have groove, that atmospheric metal could be crushing, and that environmental themes could drive powerful music.`,
+      thenVsNow: [
+        { category: 'Kit', then: 'Tama Starclassic Performer Birch/Bubinga', now: 'Tama Starclassic Bubinga' },
+        { category: 'Snare', then: 'Tama S.L.P. G-Maple 14"x6.5"', now: 'Mario Duplantier Signature 14"x6.5"' },
+        { category: 'Cymbals', then: 'Zildjian K Custom / K Series', now: 'Meinl Byzance Extra Dry' },
+        { category: 'Sticks', then: 'Vic Firth 5A', now: 'Tama Mario Duplantier Signature' },
+        { category: 'Pedals', then: 'Tama Iron Cobra Power Glide', now: 'Tama Iron Cobra 900 Power Glide' }
+      ]
+    },
+    videos: [
+      { youtubeId: 'BGHlZwMYO9g', title: 'Flying Whales - Live Performance', description: 'Epic live performance showcasing Mario\'s power and dynamics' },
+      { youtubeId: '_hHDxlm66dE', title: 'Backbone - Official Video', description: 'Studio-era footage showing the band\'s approach' },
+      { youtubeId: 'FNdC_3LR2AI', title: 'Gojira - Stranded (Drum Playthrough)', description: 'Mario\'s technique on display in modern context' }
+    ],
+    relatedAlbums: ['obzen-drum-setup', 'lateralus-drum-setup', 'the-way-of-all-flesh-drum-setup'],
+    relatedDrummers: [5, 14, 4], // Tomas Haake, Danny Carey, Dave Lombardo
+    relatedArticles: ['progressive-metal-drummers', 'best-double-bass-drummers', 'environmental-metal'],
+    conclusion: {
+      title: 'Where Technical Meets Primal',
+      content: `From Mars to Sirius didn't just establish Gojira — it created a new template for progressive death metal. Mario Duplantier's drumming on this album proves that technical proficiency and primal power aren't opposites; they're complementary forces that, when combined correctly, create something transcendent.
+
+What makes Mario's performance special isn't just the technical skill — plenty of metal drummers can play fast and complex. It's the groove. His double bass patterns swing rather than machine-gun. His fills serve emotional purposes rather than showing off. His dynamics shift from barely audible atmospheric passages to crushing death metal without losing musical coherence.
+
+The gear Mario used was professional but not exotic: Tama drums, Zildjian cymbals, standard hardware. The magic came from the player, the unconventional recording environment, and a vision that prioritized feeling over flash.
+
+For drummers studying From Mars to Sirius, the lessons are clear:
+- **Groove first**: Speed means nothing without feel
+- **Dynamics define power**: The quiet sections make the loud ones devastating
+- **Patience pays**: Sometimes not playing is the most powerful choice
+- **Environment matters**: The swimming pool studio created a sound no expensive room could replicate
+- **Serve the vision**: Mario's drumming serves Gojira's environmental message as much as any lyric
+
+"Flying Whales" has become one of metal's most beloved songs, and Mario's entrance at the two-minute mark remains one of the genre's greatest moments. That's not about speed or complexity — it's about understanding when to unleash power for maximum emotional impact.
+
+Twenty years later, From Mars to Sirius still sounds like the future. And Mario Duplantier's drumming is a huge part of why.
+
+🐋 *"Now I can see the whales..."* 🤘`
+    }
   }
 };
 

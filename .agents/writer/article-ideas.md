@@ -262,6 +262,7 @@
 | 2026-03-18 | What's In Charlie Benante's Anthrax Kit | /articles/whats-in-charlie-benantes-kit | - |
 | 2026-03-19 | Best Drum Pedals for Death Metal | /guides/best-drum-pedals-for-death-metal | - |
 | 2026-03-19 | What's In Lars Ulrich's Kit in 2026 | /articles/whats-in-lars-ulrichs-kit | - |
+| 2026-03-19 | From Mars to Sirius Drum Setup: Mario Duplantier | /articles/from-mars-to-sirius-drum-setup | - |
 
 ---
 
@@ -585,7 +586,7 @@
 
 ---
 
-### 💡 [IDEA-030] From Mars to Sirius Drum Setup: Mario Duplantier
+### ✅ [IDEA-030] From Mars to Sirius Drum Setup: Mario Duplantier
 
 **Type:** album-breakdown
 **SEO Keywords:** from mars to sirius drums, gojira drum setup, mario duplantier 2005 kit, flying whales drums
@@ -595,13 +596,13 @@
 
 **Outline:**
 1. Introduction — The Album That Launched Gojira
-2. Studio Setup at 9ème Dimension Studios
+2. Studio Setup at Swimming Pool Studio, Bayonne
 3. "Flying Whales" Breakdown (the epic opener)
 4. Pick-Scrape Technique Innovation
 5. Recording in a Swimming Pool
 6. Gear Breakdown (drums, cymbals, unique techniques)
 
-**Status:** IDEA (added 2026-03-19)
+**Status:** PUBLISHED (2026-03-19) — /articles/from-mars-to-sirius-drum-setup
 
 ---
 
@@ -641,4 +642,4 @@
 
 ---
 
-*Last updated: 2026-03-19 13:00*
+*Last updated: 2026-03-19 17:06*

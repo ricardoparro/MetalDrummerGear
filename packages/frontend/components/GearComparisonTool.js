@@ -598,67 +598,161 @@ function QuickPicks({ onSelect, theme, isMobile }) {
   );
 }
 
-// Gear Category Row
-function GearCategoryRow({ category, gear1, gear2, theme, onAffiliateClick, drummer1Slug, drummer2Slug }) {
+// Gear Category Row - Expandable/Collapsible (Issue #734)
+function GearCategoryRow({ category, gear1, gear2, theme, onAffiliateClick, drummer1Slug, drummer2Slug, defaultExpanded = true }) {
+  const [isExpanded, setIsExpanded] = useState(defaultExpanded);
   const shared = hasSharedBrand(gear1, gear2, category.key);
   const value1 = gear1?.[category.key] || 'Unknown';
   const value2 = gear2?.[category.key] || 'Unknown';
   const brand1 = extractBrand(value1);
   const brand2 = extractBrand(value2);
+  const isUnique1 = value1 !== 'Unknown' && value2 === 'Unknown';
+  const isUnique2 = value2 !== 'Unknown' && value1 === 'Unknown';
   
   return (
     <View style={[styles.gearRow, { borderBottomColor: theme.border }]}>
-      <View style={[styles.gearCategory, { backgroundColor: category.color + '20' }]}>
+      <TouchableOpacity 
+        style={[styles.gearCategory, { backgroundColor: category.color + '20' }]}
+        onPress={() => setIsExpanded(!isExpanded)}
+        accessibilityRole="button"
+        accessibilityLabel={`${isExpanded ? 'Collapse' : 'Expand'} ${category.label} section`}
+      >
         <Text style={styles.gearCategoryEmoji}>{category.emoji}</Text>
         <Text style={[styles.gearCategoryLabel, { color: theme.text }]}>{category.label}</Text>
-      </View>
+        <Text style={[styles.expandIcon, { color: theme.secondaryText }]}>
+          {isExpanded ? '▼' : '▶'}
+        </Text>
+      </TouchableOpacity>
       
-      <View style={styles.gearComparison}>
-        <TouchableOpacity 
-          style={[styles.gearItem, shared && styles.gearItemShared]}
-          onPress={() => brand1 && onAffiliateClick(brand1, category.key, drummer1Slug)}
-          disabled={!brand1}
-        >
-          <Text style={[styles.gearText, { color: theme.text }]} numberOfLines={3}>
-            {value1}
-          </Text>
-          {brand1 && (
-            <Text style={[styles.affiliateHint, { color: colors.primary }]}>
-              Shop {brand1} →
+      {isExpanded && (
+        <View style={styles.gearComparison}>
+          <TouchableOpacity 
+            style={[
+              styles.gearItem, 
+              shared && styles.gearItemShared,
+              isUnique1 && styles.gearItemUnique,
+            ]}
+            onPress={() => brand1 && onAffiliateClick(brand1, category.key, drummer1Slug)}
+            disabled={!brand1}
+          >
+            <Text style={[styles.gearText, { color: theme.text }]} numberOfLines={3}>
+              {value1}
             </Text>
-          )}
-        </TouchableOpacity>
-        
-        <View style={styles.gearDivider}>
-          {shared ? (
-            <View style={[styles.sharedBadge, { backgroundColor: colors.success + '20' }]}>
-              <Text style={[styles.sharedText, { color: colors.success }]}>SAME</Text>
-            </View>
-          ) : (
-            <Text style={[styles.vsDivider, { color: theme.secondaryText }]}>vs</Text>
-          )}
+            {isUnique1 && (
+              <View style={[styles.uniqueBadge, { backgroundColor: colors.warning + '20' }]}>
+                <Text style={[styles.uniqueText, { color: colors.warning }]}>UNIQUE</Text>
+              </View>
+            )}
+            {brand1 && (
+              <Text style={[styles.affiliateHint, { color: colors.primary }]}>
+                Shop {brand1} →
+              </Text>
+            )}
+          </TouchableOpacity>
+          
+          <View style={styles.gearDivider}>
+            {shared ? (
+              <View style={[styles.sharedBadge, { backgroundColor: colors.success + '20' }]}>
+                <Text style={[styles.sharedText, { color: colors.success }]}>SAME</Text>
+              </View>
+            ) : (
+              <Text style={[styles.vsDivider, { color: theme.secondaryText }]}>vs</Text>
+            )}
+          </View>
+          
+          <TouchableOpacity 
+            style={[
+              styles.gearItem, 
+              shared && styles.gearItemShared,
+              isUnique2 && styles.gearItemUnique,
+            ]}
+            onPress={() => brand2 && onAffiliateClick(brand2, category.key, drummer2Slug)}
+            disabled={!brand2}
+          >
+            <Text style={[styles.gearText, { color: theme.text }]} numberOfLines={3}>
+              {value2}
+            </Text>
+            {isUnique2 && (
+              <View style={[styles.uniqueBadge, { backgroundColor: colors.warning + '20' }]}>
+                <Text style={[styles.uniqueText, { color: colors.warning }]}>UNIQUE</Text>
+              </View>
+            )}
+            {brand2 && (
+              <Text style={[styles.affiliateHint, { color: colors.primary }]}>
+                Shop {brand2} →
+              </Text>
+            )}
+          </TouchableOpacity>
         </View>
-        
-        <TouchableOpacity 
-          style={[styles.gearItem, shared && styles.gearItemShared]}
-          onPress={() => brand2 && onAffiliateClick(brand2, category.key, drummer2Slug)}
-          disabled={!brand2}
-        >
-          <Text style={[styles.gearText, { color: theme.text }]} numberOfLines={3}>
-            {value2}
-          </Text>
-          {brand2 && (
-            <Text style={[styles.affiliateHint, { color: colors.primary }]}>
-              Shop {brand2} →
-            </Text>
-          )}
-        </TouchableOpacity>
-      </View>
+      )}
     </View>
   );
 }
 
-// Drummer Card for comparison header
+// Calculate gear stats (Issue #734)
+function calculateGearStats(gear) {
+  if (!gear) return { pieceCount: 0, brandCount: 0, brands: [] };
+  
+  const allBrands = new Set();
+  let pieceCount = 0;
+  
+  const gearFields = ['drums', 'snare', 'cymbals', 'hardware', 'sticks', 'heads', 'pedals', 'throne'];
+  
+  gearFields.forEach(field => {
+    if (gear[field] && gear[field] !== 'Unknown') {
+      pieceCount++;
+      const brand = extractBrand(gear[field]);
+      if (brand) allBrands.add(brand);
+    }
+  });
+  
+  return {
+    pieceCount,
+    brandCount: allBrands.size,
+    brands: Array.from(allBrands),
+  };
+}
+
+// Calculate years active (Issue #734)
+function calculateYearsActive(drummer) {
+  if (!drummer) return null;
+  
+  // Try to get from career data
+  if (drummer.careerStart) {
+    const startYear = parseInt(drummer.careerStart);
+    const currentYear = new Date().getFullYear();
+    return currentYear - startYear;
+  }
+  
+  // Fallback: estimate from known drummer data
+  const knownCareerStarts = {
+    'lars-ulrich': 1981,
+    'joey-jordison': 1995,
+    'dave-lombardo': 1983,
+    'gene-hoglan': 1983,
+    'george-kollias': 1993,
+    'tomas-haake': 1987,
+    'danny-carey': 1985,
+    'mike-portnoy': 1985,
+    'mario-duplantier': 1996,
+    'brann-dailor': 1994,
+    'inferno': 1992,
+    'hellhammer': 1993,
+    'pete-sandoval': 1987,
+    'charlie-benante': 1981,
+    'vinnie-paul': 1981,
+    'nicko-mcbrain': 1966,
+  };
+  
+  const slug = toSlug(drummer.name);
+  if (knownCareerStarts[slug]) {
+    return new Date().getFullYear() - knownCareerStarts[slug];
+  }
+  
+  return null;
+}
+
+// Drummer Card for comparison header - Enhanced (Issue #734)
 function DrummerCompareCard({ drummer, theme, isMobile, position, onSelectDrummer }) {
   if (!drummer) return (
     <View style={[styles.drummerCard, styles.drummerCardEmpty, { backgroundColor: theme.card, borderColor: theme.border }]}>
@@ -669,6 +763,8 @@ function DrummerCompareCard({ drummer, theme, isMobile, position, onSelectDrumme
   );
   
   const kitCost = calculateKitCost(drummer.gear);
+  const gearStats = calculateGearStats(drummer.gear);
+  const yearsActive = calculateYearsActive(drummer);
   
   return (
     <TouchableOpacity
@@ -700,13 +796,60 @@ function DrummerCompareCard({ drummer, theme, isMobile, position, onSelectDrumme
               {drummer.genre || 'Metal'}
             </Text>
           </View>
+          {yearsActive && (
+            <View style={[styles.statBadge, { backgroundColor: colors.secondary + '20' }]}>
+              <Text style={[styles.statText, { color: colors.secondary }]}>
+                {yearsActive}+ years
+              </Text>
+            </View>
+          )}
         </View>
-        <View style={styles.kitCostContainer}>
-          <Text style={[styles.kitCostLabel, { color: theme.secondaryText }]}>Est. Kit Value</Text>
-          <Text style={[styles.kitCostValue, { color: colors.success }]}>
-            {formatPrice(kitCost)}
-          </Text>
+        
+        {/* Enhanced Stats Grid (Issue #734) */}
+        <View style={styles.statsGrid}>
+          <View style={styles.statsGridItem}>
+            <Text style={[styles.statsGridValue, { color: colors.success }]}>
+              {formatPrice(kitCost)}
+            </Text>
+            <Text style={[styles.statsGridLabel, { color: theme.secondaryText }]}>
+              Kit Value
+            </Text>
+          </View>
+          <View style={styles.statsGridItem}>
+            <Text style={[styles.statsGridValue, { color: theme.text }]}>
+              {gearStats.pieceCount}
+            </Text>
+            <Text style={[styles.statsGridLabel, { color: theme.secondaryText }]}>
+              Gear Pieces
+            </Text>
+          </View>
+          <View style={styles.statsGridItem}>
+            <Text style={[styles.statsGridValue, { color: theme.text }]}>
+              {gearStats.brandCount}
+            </Text>
+            <Text style={[styles.statsGridLabel, { color: theme.secondaryText }]}>
+              Brands
+            </Text>
+          </View>
         </View>
+        
+        {/* Brand Pills (Issue #734) */}
+        {gearStats.brands.length > 0 && (
+          <View style={styles.brandPills}>
+            {gearStats.brands.slice(0, 3).map((brand, i) => (
+              <View key={i} style={[styles.brandPill, { backgroundColor: theme.background }]}>
+                <Text style={[styles.brandPillText, { color: theme.secondaryText }]}>
+                  {brand}
+                </Text>
+              </View>
+            ))}
+            {gearStats.brands.length > 3 && (
+              <Text style={[styles.brandPillMore, { color: theme.secondaryText }]}>
+                +{gearStats.brands.length - 3}
+              </Text>
+            )}
+          </View>
+        )}
       </View>
     </TouchableOpacity>
   );
@@ -948,6 +1091,124 @@ function CommentsSection({ drummer1, drummer2, theme, isMobile }) {
         <Text style={[styles.noComments, { color: theme.secondaryText }]}>
           Be the first to comment on this comparison! 🤘
         </Text>
+      )}
+    </View>
+  );
+}
+
+// Stats Comparison Summary - Price Differences & Quick Stats (Issue #734)
+function StatsComparisonSummary({ drummer1, drummer2, theme, isMobile }) {
+  if (!drummer1 || !drummer2) return null;
+  
+  const cost1 = calculateKitCost(drummer1.gear);
+  const cost2 = calculateKitCost(drummer2.gear);
+  const priceDiff = Math.abs(cost1 - cost2);
+  const moreExpensive = cost1 > cost2 ? drummer1 : drummer2;
+  const lessExpensive = cost1 > cost2 ? drummer2 : drummer1;
+  const percentageDiff = cost2 > 0 ? Math.round((priceDiff / Math.min(cost1, cost2)) * 100) : 0;
+  
+  const stats1 = calculateGearStats(drummer1.gear);
+  const stats2 = calculateGearStats(drummer2.gear);
+  const years1 = calculateYearsActive(drummer1);
+  const years2 = calculateYearsActive(drummer2);
+  
+  // Find shared brands
+  const sharedBrands = stats1.brands.filter(b => stats2.brands.includes(b));
+  const uniqueBrands1 = stats1.brands.filter(b => !stats2.brands.includes(b));
+  const uniqueBrands2 = stats2.brands.filter(b => !stats1.brands.includes(b));
+  
+  return (
+    <View style={[styles.statsSummary, { backgroundColor: theme.card, borderColor: theme.border }]}>
+      <Text style={[styles.statsSummaryTitle, { color: theme.text }]}>
+        📊 Quick Stats Comparison
+      </Text>
+      
+      {/* Price Difference */}
+      {priceDiff > 0 && (
+        <View style={[styles.priceDiffContainer, { backgroundColor: colors.warning + '10' }]}>
+          <Text style={[styles.priceDiffIcon]}>💰</Text>
+          <View style={styles.priceDiffContent}>
+            <Text style={[styles.priceDiffText, { color: theme.text }]}>
+              <Text style={{ fontWeight: '700' }}>{moreExpensive.name}</Text>'s kit costs{' '}
+              <Text style={{ color: colors.success, fontWeight: '700' }}>{formatPrice(priceDiff)}</Text> more
+            </Text>
+            <Text style={[styles.priceDiffPercent, { color: theme.secondaryText }]}>
+              That's {percentageDiff}% more expensive than {lessExpensive.name}'s setup
+            </Text>
+          </View>
+        </View>
+      )}
+      
+      {/* Stats Grid */}
+      <View style={[styles.statsSummaryGrid, isMobile && styles.statsSummaryGridMobile]}>
+        {/* Gear Pieces Comparison */}
+        <View style={[styles.summaryStatCard, { backgroundColor: theme.background }]}>
+          <Text style={[styles.summaryStatIcon]}>🎯</Text>
+          <Text style={[styles.summaryStatLabel, { color: theme.secondaryText }]}>Gear Pieces</Text>
+          <View style={styles.summaryStatValues}>
+            <Text style={[styles.summaryStatValue, { color: theme.text }]}>
+              {stats1.pieceCount} <Text style={styles.summaryStatVs}>vs</Text> {stats2.pieceCount}
+            </Text>
+          </View>
+        </View>
+        
+        {/* Brands Count */}
+        <View style={[styles.summaryStatCard, { backgroundColor: theme.background }]}>
+          <Text style={[styles.summaryStatIcon]}>🏷️</Text>
+          <Text style={[styles.summaryStatLabel, { color: theme.secondaryText }]}>Total Brands</Text>
+          <View style={styles.summaryStatValues}>
+            <Text style={[styles.summaryStatValue, { color: theme.text }]}>
+              {stats1.brandCount} <Text style={styles.summaryStatVs}>vs</Text> {stats2.brandCount}
+            </Text>
+          </View>
+        </View>
+        
+        {/* Years Active */}
+        {(years1 || years2) && (
+          <View style={[styles.summaryStatCard, { backgroundColor: theme.background }]}>
+            <Text style={[styles.summaryStatIcon]}>⏱️</Text>
+            <Text style={[styles.summaryStatLabel, { color: theme.secondaryText }]}>Years Active</Text>
+            <View style={styles.summaryStatValues}>
+              <Text style={[styles.summaryStatValue, { color: theme.text }]}>
+                {years1 || '?'}+ <Text style={styles.summaryStatVs}>vs</Text> {years2 || '?'}+
+              </Text>
+            </View>
+          </View>
+        )}
+        
+        {/* Shared Brands */}
+        <View style={[styles.summaryStatCard, { backgroundColor: theme.background }]}>
+          <Text style={[styles.summaryStatIcon]}>🤝</Text>
+          <Text style={[styles.summaryStatLabel, { color: theme.secondaryText }]}>Shared Brands</Text>
+          <Text style={[styles.summaryStatValue, { color: colors.success }]}>
+            {sharedBrands.length}
+          </Text>
+        </View>
+      </View>
+      
+      {/* Brand Insights */}
+      {sharedBrands.length > 0 && (
+        <View style={[styles.brandInsight, { backgroundColor: colors.success + '10' }]}>
+          <Text style={[styles.brandInsightText, { color: theme.text }]}>
+            🔗 Both drummers trust: <Text style={{ fontWeight: '700', color: colors.success }}>{sharedBrands.join(', ')}</Text>
+          </Text>
+        </View>
+      )}
+      
+      {uniqueBrands1.length > 0 && (
+        <View style={[styles.brandInsight, { backgroundColor: colors.primary + '10' }]}>
+          <Text style={[styles.brandInsightText, { color: theme.text }]}>
+            ⭐ Only {drummer1.name}: <Text style={{ fontWeight: '600' }}>{uniqueBrands1.slice(0, 3).join(', ')}{uniqueBrands1.length > 3 ? '...' : ''}</Text>
+          </Text>
+        </View>
+      )}
+      
+      {uniqueBrands2.length > 0 && (
+        <View style={[styles.brandInsight, { backgroundColor: colors.secondary + '10' }]}>
+          <Text style={[styles.brandInsightText, { color: theme.text }]}>
+            ⭐ Only {drummer2.name}: <Text style={{ fontWeight: '600' }}>{uniqueBrands2.slice(0, 3).join(', ')}{uniqueBrands2.length > 3 ? '...' : ''}</Text>
+          </Text>
+        </View>
       )}
     </View>
   );
@@ -1246,6 +1507,14 @@ export default function GearComparisonToolPage({ theme, drummers = [], onBack, o
               onSelectDrummer={onSelectDrummer}
             />
           </View>
+          
+          {/* Stats Comparison Summary (Issue #734) */}
+          <StatsComparisonSummary 
+            drummer1={drummer1} 
+            drummer2={drummer2} 
+            theme={theme} 
+            isMobile={isMobile}
+          />
           
           {/* Gear Categories */}
           <View style={[styles.gearSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
@@ -1970,5 +2239,152 @@ const styles = StyleSheet.create({
     fontSize: fontSize.sm,
     textAlign: 'center',
     marginTop: spacing.lg,
+  },
+  
+  // Enhanced Stats Grid (Issue #734)
+  statsGrid: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    marginTop: spacing.sm,
+    paddingTop: spacing.sm,
+    borderTopWidth: 1,
+    borderTopColor: 'rgba(255,255,255,0.1)',
+  },
+  statsGridItem: {
+    alignItems: 'center',
+    flex: 1,
+  },
+  statsGridValue: {
+    fontSize: fontSize.md,
+    fontWeight: fontWeight.bold,
+  },
+  statsGridLabel: {
+    fontSize: fontSize.xs,
+    marginTop: 2,
+  },
+  
+  // Brand Pills (Issue #734)
+  brandPills: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 4,
+    marginTop: spacing.sm,
+  },
+  brandPill: {
+    paddingVertical: 2,
+    paddingHorizontal: 6,
+    borderRadius: 10,
+  },
+  brandPillText: {
+    fontSize: fontSize.xs,
+  },
+  brandPillMore: {
+    fontSize: fontSize.xs,
+    alignSelf: 'center',
+    marginLeft: 4,
+  },
+  
+  // Expandable Gear Category (Issue #734)
+  expandIcon: {
+    marginLeft: 'auto',
+    fontSize: fontSize.xs,
+  },
+  gearItemUnique: {
+    backgroundColor: 'rgba(255, 152, 0, 0.05)',
+  },
+  uniqueBadge: {
+    alignSelf: 'flex-start',
+    paddingVertical: 1,
+    paddingHorizontal: 5,
+    borderRadius: 4,
+    marginTop: spacing.xs,
+  },
+  uniqueText: {
+    fontSize: fontSize.xs,
+    fontWeight: fontWeight.bold,
+  },
+  
+  // Stats Comparison Summary (Issue #734)
+  statsSummary: {
+    borderRadius: 12,
+    borderWidth: 1,
+    padding: spacing.md,
+    marginBottom: spacing.lg,
+  },
+  statsSummaryTitle: {
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.bold,
+    marginBottom: spacing.md,
+    textAlign: 'center',
+  },
+  priceDiffContainer: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    padding: spacing.md,
+    borderRadius: 8,
+    marginBottom: spacing.md,
+    gap: spacing.sm,
+  },
+  priceDiffIcon: {
+    fontSize: 24,
+  },
+  priceDiffContent: {
+    flex: 1,
+  },
+  priceDiffText: {
+    fontSize: fontSize.md,
+    lineHeight: lineHeight.md,
+  },
+  priceDiffPercent: {
+    fontSize: fontSize.sm,
+    marginTop: 2,
+  },
+  statsSummaryGrid: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: spacing.sm,
+    marginBottom: spacing.md,
+  },
+  statsSummaryGridMobile: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+  },
+  summaryStatCard: {
+    flex: 1,
+    minWidth: 80,
+    padding: spacing.sm,
+    borderRadius: 8,
+    alignItems: 'center',
+  },
+  summaryStatIcon: {
+    fontSize: 20,
+    marginBottom: 4,
+  },
+  summaryStatLabel: {
+    fontSize: fontSize.xs,
+    textAlign: 'center',
+    marginBottom: 4,
+  },
+  summaryStatValues: {
+    flexDirection: 'row',
+    alignItems: 'center',
+  },
+  summaryStatValue: {
+    fontSize: fontSize.md,
+    fontWeight: fontWeight.bold,
+  },
+  summaryStatVs: {
+    fontSize: fontSize.xs,
+    color: '#888',
+    marginHorizontal: 4,
+  },
+  brandInsight: {
+    padding: spacing.sm,
+    borderRadius: 8,
+    marginBottom: spacing.xs,
+  },
+  brandInsightText: {
+    fontSize: fontSize.sm,
+    lineHeight: lineHeight.md,
   },
 });

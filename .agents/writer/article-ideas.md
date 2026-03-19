@@ -261,6 +261,7 @@
 | 2026-03-18 | What's In Chris Adler's Lamb of God Arsenal | /articles/whats-in-chris-adlers-kit | - |
 | 2026-03-18 | What's In Charlie Benante's Anthrax Kit | /articles/whats-in-charlie-benantes-kit | - |
 | 2026-03-19 | Best Drum Pedals for Death Metal | /guides/best-drum-pedals-for-death-metal | - |
+| 2026-03-19 | What's In Lars Ulrich's Kit in 2026 | /articles/whats-in-lars-ulrichs-kit | - |
 
 ---
 
@@ -564,7 +565,7 @@
 
 ---
 
-### 💡 [IDEA-029] What's In Lars Ulrich's Kit in 2026
+### ✅ [IDEA-029] What's In Lars Ulrich's Kit in 2026
 
 **Type:** drummer-kit
 **SEO Keywords:** lars ulrich drum kit, metallica drummer gear, lars ulrich setup 2026, tama drums lars
@@ -580,7 +581,7 @@
 5. 72 Seasons Tour Configuration
 6. Where to Buy Similar Gear
 
-**Status:** IDEA (added 2026-03-19)
+**Status:** PUBLISHED (2026-03-19) — /articles/whats-in-lars-ulrichs-kit
 
 ---
 
@@ -640,4 +641,4 @@
 
 ---
 
-*Last updated: 2026-03-19 09:07*
+*Last updated: 2026-03-19 13:00*

@@ -5500,6 +5500,35 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
         </TouchableOpacity>
       </View>
 
+      {/* Compare with Another Drummer CTA - Issue #736 */}
+      <View style={[styles.section, styles.compareWithAnotherCTA, { backgroundColor: theme.card, borderColor: theme.border }]}>
+        <Text style={[styles.sectionTitle, { color: theme.text }]}>⚔️ Compare with Another Drummer</Text>
+        <Text style={[styles.compareWithAnotherDescription, { color: theme.secondaryText }]}>
+          See how {drummer.name}'s setup stacks up against other metal legends!
+        </Text>
+        <TouchableOpacity
+          onPress={() => {
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              const slug = toSlug(drummer.name);
+              window.history.pushState({}, '', `/tools/compare?d1=${slug}`);
+              window.dispatchEvent(new PopStateEvent('popstate'));
+              // Track event
+              if (window.gtag) {
+                window.gtag('event', 'compare_with_another_click', {
+                  drummer_name: drummer.name,
+                  drummer_slug: slug,
+                });
+              }
+            }
+          }}
+          style={[styles.compareWithAnotherButton, { backgroundColor: '#f59e0b' }]}
+          accessibilityRole="link"
+          accessibilityLabel={`Compare ${drummer.name} with another drummer`}
+        >
+          <Text style={styles.compareWithAnotherButtonText}>Compare {drummer.name} →</Text>
+        </TouchableOpacity>
+      </View>
+
       <GearTimeline timeline={drummer.gearTimeline} drummerName={drummer.name} theme={theme} />
 
       {/* News Section - Issue #513 - Phase 5 */}
@@ -27876,6 +27905,30 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   compareYourKitButtonText: {
+    color: '#ffffff',
+    fontSize: fontSize.base,
+    fontWeight: fontWeight.bold,
+  },
+  // Compare with Another Drummer CTA section - Issue #736
+  compareWithAnotherCTA: {
+    borderWidth: 1,
+    alignItems: 'center',
+    textAlign: 'center',
+  },
+  compareWithAnotherDescription: {
+    fontSize: fontSize.base,
+    textAlign: 'center',
+    marginBottom: 16,
+    lineHeight: lineHeight.sm,
+  },
+  compareWithAnotherButton: {
+    paddingVertical: 14,
+    paddingHorizontal: 28,
+    borderRadius: 8,
+    minWidth: 180,
+    alignItems: 'center',
+  },
+  compareWithAnotherButtonText: {
     color: '#ffffff',
     fontSize: fontSize.base,
     fontWeight: fontWeight.bold,

@@ -322,6 +322,40 @@ function isToolsHubPage() {
   return pathname === '/tools' || pathname === '/tools/';
 }
 
+// Signature Gear Spotlight (Issue #739) - Dedicated pages for iconic signature gear pieces
+// URL: /drummers/[slug]/signature/[gear-slug]
+// Lazy loaded for performance optimization - 43KB component + 24KB data
+const LazySignatureGearSpotlightPage = lazy(() => import('./components/SignatureGearSpotlight').then(m => ({ default: m.SignatureGearSpotlightPage })));
+let _signatureGearModule = null;
+let _signatureGearLoadPromise = null;
+const loadSignatureGear = () => import('./components/SignatureGearSpotlight');
+
+function preloadSignatureGear() {
+  if (!_signatureGearLoadPromise) {
+    _signatureGearLoadPromise = loadSignatureGear().then(m => { _signatureGearModule = m; return m; });
+  }
+  return _signatureGearLoadPromise;
+}
+function isSignatureGearPage() { 
+  return _signatureGearModule?.isSignatureGearPage?.() ?? (typeof window !== 'undefined' && 
+    /^\/drummers\/[a-z0-9-]+\/signature\/[a-z0-9-]+$/i.test(window.location.pathname)); 
+}
+function isSignatureGearListPage() {
+  return _signatureGearModule?.isSignatureGearListPage?.() ?? (typeof window !== 'undefined' && 
+    /^\/drummers\/[a-z0-9-]+\/signature\/?$/i.test(window.location.pathname));
+}
+function getSignatureGearSlugFromURL() {
+  if (typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(/^\/drummers\/[a-z0-9-]+\/signature\/([a-z0-9-]+)$/i);
+  return match ? match[1] : null;
+}
+function getSignatureGearDrummerSlugFromURL() {
+  if (typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(/^\/drummers\/([a-z0-9-]+)\/signature/i);
+  return match ? match[1] : null;
+}
+function updateSignatureGearMeta(gear) { return _signatureGearModule?.updateSignatureGearMeta?.(gear); }
+
 // Extended bios for drummer detail pages (Issue #305)
 // Loaded dynamically for code splitting (~9KB of text data) - TBT optimization #460
 // Fix for #541: Added Promise caching and listeners for reliable async loading
@@ -21011,6 +21045,10 @@ function AppContent() {
   // Tools Hub Page state (Issue #729) - /tools
   const [showToolsHub, setShowToolsHub] = useState(() => isToolsHubPage());
   
+  // Signature Gear Spotlight state (Issue #739) - /drummers/[slug]/signature/[gear-slug]
+  const [showSignatureGear, setShowSignatureGear] = useState(() => isSignatureGearPage());
+  const [signatureGearSlug, setSignatureGearSlug] = useState(() => getSignatureGearSlugFromURL());
+  
   const [showGearFinder, setShowGearFinder] = useState(() => isGearFinderPage());
   const [selectedGear, setSelectedGear] = useState(null);
   const [loadingGear, setLoadingGear] = useState(false);
@@ -22484,9 +22522,62 @@ function AppContent() {
         setShowBattlePage(false);
         setBattleSlug(null);
         setShowTimelinePage(false);
+        setShowSignatureGear(false);
+        setSignatureGearSlug(null);
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
+      } else if (isSignatureGearPage()) {
+        // Signature Gear Spotlight page (Issue #739) - /drummers/[slug]/signature/[gear-slug]
+        const gearSlug = getSignatureGearSlugFromURL();
+        setShowSignatureGear(true);
+        setSignatureGearSlug(gearSlug);
+        setShowToolsHub(false);
+        setShowGearComparisonTool(false);
+        setShowGearSearch(false);
+        setShowGearBrand(false);
+        setGearBrandSlug(null);
+        setShowNameGenerator(false);
+        setShowBeginnerGuide(false);
+        setShowGuidesHub(false);
+        setShowGuide(false);
+        setGuideSlug(null);
+        setShowArticle(false);
+        setArticleSlug(null);
+        setShowList(false);
+        setListSlug(null);
+        setShowNewsPage(false);
+        setShowGearNewsPage(false);
+        setShowGearStats(false);
+        setShowTechniquesIndex(false);
+        setShowTechniqueDetail(false);
+        setTechniqueSlug(null);
+        setShowGearComparisonsIndex(false);
+        setShowGearComparison(false);
+        setGearComparisonSlug(null);
+        setShowGenresList(false);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowKitBuilder(false);
+        setShowKitQuiz(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowBattlePage(false);
+        setBattleSlug(null);
+        setShowTimelinePage(false);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+        // Preload the component
+        preloadSignatureGear();
       } else if (isGearBrandPage()) {
         // Gear Brand page (Issue #719) - /gear/:brand
         const slug = getGearBrandSlugFromURL();
@@ -24331,6 +24422,29 @@ setShowList(false);
             }
           }}
         />
+      );
+    }
+    // Signature Gear Spotlight Page (Issue #739) - /drummers/[slug]/signature/[gear-slug]
+    // Dedicated pages for iconic signature gear pieces
+    if (showSignatureGear && signatureGearSlug) {
+      const drummerSlug = getSignatureGearDrummerSlugFromURL();
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazySignatureGearSpotlightPage
+            theme={theme}
+            allDrummers={drummers}
+            onBack={() => {
+              setShowSignatureGear(false);
+              setSignatureGearSlug(null);
+              // Navigate back to drummer profile
+              if (drummerSlug && Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/drummer/${drummerSlug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onSelectDrummer={handleSelectDrummer}
+          />
+        </Suspense>
       );
     }
     // Guides Hub Page (Issue #685) - SEO content hub at /guides

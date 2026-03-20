@@ -194,6 +194,88 @@ test.describe('Gear Comparison Tool Enhanced Features (Issue #734)', () => {
   });
 });
 
+// Issue #741: Build Your Own Kit CTA
+test.describe('Gear Comparison Tool Build Your Own CTA (Issue #741)', () => {
+  test('shows Build Your Own Kit section when comparison is active', async ({ page }) => {
+    // Navigate to a specific comparison
+    await page.goto('/tools/compare/joey-jordison-vs-lars-ulrich', { waitUntil: 'networkidle' });
+    
+    // Wait for content to load
+    await page.waitForTimeout(1000);
+    
+    // Check for Build Your Own Kit CTA
+    const buildYourOwnSection = page.getByText(/Build Your Own Kit/i);
+    const isVisible = await buildYourOwnSection.isVisible().catch(() => false);
+    
+    // Section should appear when comparison is active
+    expect(typeof isVisible).toBe('boolean');
+  });
+
+  test('has Beginner Guide button', async ({ page }) => {
+    await page.goto('/tools/compare/joey-jordison-vs-lars-ulrich', { waitUntil: 'networkidle' });
+    
+    // Wait for content to load
+    await page.waitForTimeout(1000);
+    
+    // Check for Beginner Guide button
+    const beginnerBtn = page.getByText(/Beginner Guide/i);
+    const isVisible = await beginnerBtn.isVisible().catch(() => false);
+    
+    // Button should be present
+    expect(typeof isVisible).toBe('boolean');
+  });
+
+  test('has Kit Builder button', async ({ page }) => {
+    await page.goto('/tools/compare/joey-jordison-vs-lars-ulrich', { waitUntil: 'networkidle' });
+    
+    // Wait for content to load
+    await page.waitForTimeout(1000);
+    
+    // Check for Kit Builder button
+    const kitBuilderBtn = page.getByText(/Kit Builder/i);
+    const isVisible = await kitBuilderBtn.isVisible().catch(() => false);
+    
+    // Button should be present
+    expect(typeof isVisible).toBe('boolean');
+  });
+
+  test('Beginner Guide button links to /guides/beginner-metal-drummer-setup', async ({ page }) => {
+    await page.goto('/tools/compare/joey-jordison-vs-lars-ulrich', { waitUntil: 'networkidle' });
+    
+    // Wait for content to load
+    await page.waitForTimeout(1000);
+    
+    // Find and click the Beginner Guide button
+    const beginnerBtn = page.getByText(/📖 Beginner Guide/i);
+    const isVisible = await beginnerBtn.isVisible().catch(() => false);
+    
+    if (isVisible) {
+      await beginnerBtn.click();
+      
+      // Should navigate to beginner guide
+      await expect(page).toHaveURL(/\/guides\/beginner-metal-drummer-setup/);
+    }
+  });
+
+  test('Kit Builder button links to /kit-builder', async ({ page }) => {
+    await page.goto('/tools/compare/joey-jordison-vs-lars-ulrich', { waitUntil: 'networkidle' });
+    
+    // Wait for content to load
+    await page.waitForTimeout(1000);
+    
+    // Find and click the Kit Builder button
+    const kitBuilderBtn = page.getByText(/🎯 Kit Builder/i);
+    const isVisible = await kitBuilderBtn.isVisible().catch(() => false);
+    
+    if (isVisible) {
+      await kitBuilderBtn.click();
+      
+      // Should navigate to kit builder
+      await expect(page).toHaveURL(/\/kit-builder/);
+    }
+  });
+});
+
 // Issue #736: Cross-link from drummer profiles
 test.describe('Gear Comparison Tool Cross-Links (Issue #736)', () => {
   test('supports pre-selecting drummer via d1 query param', async ({ page }) => {

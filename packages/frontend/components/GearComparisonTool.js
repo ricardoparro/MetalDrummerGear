@@ -70,6 +70,16 @@ export const trackComparisonView = (d1Slug, d2Slug) => {
   }
 };
 
+export const trackBuildYourOwnClick = (source, d1Slug = null, d2Slug = null) => {
+  if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
+    window.gtag('event', 'comparison_build_your_own_click', {
+      source: source, // 'beginner-guide', 'kit-builder'
+      drummer1: d1Slug,
+      drummer2: d2Slug,
+    });
+  }
+};
+
 export const trackComparisonGenerate = (d1Slug, d2Slug, source) => {
   if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
     window.gtag('event', 'comparison_generate', {
@@ -1284,6 +1294,82 @@ function getCategoryColor(category) {
   return categoryColors[category] || '#757575';
 }
 
+// Build Your Own Kit CTA (Issue #741)
+// Drives traffic to beginner guide and kit builder for affiliate conversions
+function BuildYourOwnCTA({ drummer1, drummer2, theme, isMobile, onNavigate }) {
+  const d1Slug = drummer1 ? toSlug(drummer1.name) : null;
+  const d2Slug = drummer2 ? toSlug(drummer2.name) : null;
+  
+  const handleBeginnerGuideClick = () => {
+    trackBuildYourOwnClick('beginner-guide', d1Slug, d2Slug);
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.location.href = '/guides/beginner-metal-drummer-setup';
+    } else if (onNavigate) {
+      onNavigate('/guides/beginner-metal-drummer-setup');
+    }
+  };
+  
+  const handleKitBuilderClick = () => {
+    trackBuildYourOwnClick('kit-builder', d1Slug, d2Slug);
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.location.href = '/kit-builder';
+    } else if (onNavigate) {
+      onNavigate('/kit-builder');
+    }
+  };
+  
+  // Personalized message based on comparison
+  const getMessage = () => {
+    if (drummer1 && drummer2) {
+      return `Inspired by ${drummer1.name} or ${drummer2.name}'s setup? Build your own metal drum kit!`;
+    }
+    return 'Ready to build your own metal drum kit like the pros?';
+  };
+  
+  return (
+    <View style={[styles.buildYourOwnCTA, { backgroundColor: theme.card, borderColor: colors.primary }]}>
+      <View style={styles.buildYourOwnContent}>
+        <Text style={styles.buildYourOwnEmoji}>🛠️</Text>
+        <View style={styles.buildYourOwnTextContainer}>
+          <Text style={[styles.buildYourOwnTitle, { color: theme.text }]}>
+            Build Your Own Kit
+          </Text>
+          <Text style={[styles.buildYourOwnDescription, { color: theme.secondaryText }]}>
+            {getMessage()}
+          </Text>
+        </View>
+      </View>
+      
+      <View style={[styles.buildYourOwnButtons, isMobile && styles.buildYourOwnButtonsMobile]}>
+        <TouchableOpacity
+          style={[styles.buildYourOwnBtn, styles.buildYourOwnBtnPrimary]}
+          onPress={handleBeginnerGuideClick}
+          accessibilityRole="link"
+          accessibilityLabel="View Beginner Gear Guide"
+        >
+          <Text style={styles.buildYourOwnBtnPrimaryText}>📖 Beginner Guide</Text>
+          <Text style={styles.buildYourOwnBtnSubtext}>Under $1,000</Text>
+        </TouchableOpacity>
+        
+        <TouchableOpacity
+          style={[styles.buildYourOwnBtn, { backgroundColor: theme.background, borderColor: theme.border }]}
+          onPress={handleKitBuilderClick}
+          accessibilityRole="link"
+          accessibilityLabel="Open Kit Builder tool"
+        >
+          <Text style={[styles.buildYourOwnBtnSecondaryText, { color: theme.text }]}>🎯 Kit Builder</Text>
+          <Text style={[styles.buildYourOwnBtnSubtext, { color: theme.secondaryText }]}>Custom Setup</Text>
+        </TouchableOpacity>
+      </View>
+      
+      {/* Affiliate Notice */}
+      <Text style={[styles.buildYourOwnNotice, { color: theme.secondaryText }]}>
+        🔗 Shop pro gear with our trusted partners
+      </Text>
+    </View>
+  );
+}
+
 // ==========================================
 // MAIN COMPONENT
 // ==========================================
@@ -1556,6 +1642,14 @@ export default function GearComparisonToolPage({ theme, drummers = [], onBack, o
             drummer1={drummer1} 
             drummer2={drummer2} 
             theme={theme} 
+            isMobile={isMobile}
+          />
+          
+          {/* Build Your Own Kit CTA (Issue #741) */}
+          <BuildYourOwnCTA 
+            drummer1={drummer1}
+            drummer2={drummer2}
+            theme={theme}
             isMobile={isMobile}
           />
         </View>
@@ -2386,5 +2480,76 @@ const styles = StyleSheet.create({
   brandInsightText: {
     fontSize: fontSize.sm,
     lineHeight: lineHeight.md,
+  },
+  
+  // Build Your Own Kit CTA (Issue #741)
+  buildYourOwnCTA: {
+    margin: spacing.lg,
+    marginTop: spacing.md,
+    padding: spacing.lg,
+    borderRadius: 16,
+    borderWidth: 2,
+    borderStyle: 'dashed',
+  },
+  buildYourOwnContent: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    marginBottom: spacing.md,
+  },
+  buildYourOwnEmoji: {
+    fontSize: 40,
+    marginRight: spacing.md,
+  },
+  buildYourOwnTextContainer: {
+    flex: 1,
+  },
+  buildYourOwnTitle: {
+    fontSize: fontSize.xl,
+    fontWeight: fontWeight.bold,
+    marginBottom: 4,
+  },
+  buildYourOwnDescription: {
+    fontSize: fontSize.md,
+    lineHeight: lineHeight.md,
+  },
+  buildYourOwnButtons: {
+    flexDirection: 'row',
+    gap: spacing.md,
+    marginBottom: spacing.sm,
+  },
+  buildYourOwnButtonsMobile: {
+    flexDirection: 'column',
+  },
+  buildYourOwnBtn: {
+    flex: 1,
+    paddingVertical: spacing.md,
+    paddingHorizontal: spacing.lg,
+    borderRadius: 12,
+    borderWidth: 1,
+    alignItems: 'center',
+  },
+  buildYourOwnBtnPrimary: {
+    backgroundColor: colors.primary,
+    borderColor: colors.primary,
+  },
+  buildYourOwnBtnPrimaryText: {
+    color: '#fff',
+    fontSize: fontSize.md,
+    fontWeight: fontWeight.bold,
+    marginBottom: 2,
+  },
+  buildYourOwnBtnSecondaryText: {
+    fontSize: fontSize.md,
+    fontWeight: fontWeight.bold,
+    marginBottom: 2,
+  },
+  buildYourOwnBtnSubtext: {
+    fontSize: fontSize.xs,
+    color: 'rgba(255,255,255,0.8)',
+  },
+  buildYourOwnNotice: {
+    fontSize: fontSize.xs,
+    textAlign: 'center',
+    marginTop: spacing.xs,
   },
 });

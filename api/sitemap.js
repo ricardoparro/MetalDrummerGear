@@ -206,6 +206,16 @@ const top20GearComparisons = [
   { d1: 'mike-portnoy', d2: 'mike-mangini' },
 ];
 
+// Issue #739: Signature Gear Spotlight pages
+const signatureGearPages = [
+  { drummerSlug: 'joey-jordison', gearSlug: 'joey-jordison-pearl-signature-snare', name: 'Pearl Joey Jordison Signature Snare' },
+  { drummerSlug: 'lars-ulrich', gearSlug: 'lars-ulrich-paiste-rude-china', name: 'Paiste 20" RUDE Wild China' },
+  // Future items to be added:
+  // { drummerSlug: 'danny-carey', gearSlug: 'danny-carey-paiste-giant-beat-gongs', name: 'Paiste Giant Beat Gongs' },
+  // { drummerSlug: 'mario-duplantier', gearSlug: 'mario-duplantier-tama-starphonic-bronze', name: 'Tama Starphonic Bronze' },
+  // { drummerSlug: 'gene-hoglan', gearSlug: 'gene-hoglan-pearl-reference-kit', name: 'Pearl Reference Pure Kit' },
+];
+
 const BASE_URL = 'https://metalforge.io';
 
 function generateSlug(name) {
@@ -269,6 +279,8 @@ export default function handler(req, res) {
     // Issue #558, #691: Drummer vs Drummer comparison pages (SEO play)
     { loc: '/vs', priority: '0.9', changefreq: 'weekly' },
     ...drummerComparisons.map(c => ({ loc: `/vs/${c.slug}`, priority: '0.7', changefreq: 'monthly' })),
+    // Issue #739: Signature Gear Spotlight pages
+    ...signatureGearPages.map(sg => ({ loc: `/drummers/${sg.drummerSlug}/signature/${sg.gearSlug}`, priority: '0.85', changefreq: 'monthly' })),
   ];
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">

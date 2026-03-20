@@ -118,6 +118,17 @@ const drummers = [
         },
         notes: 'Lars continues to use his signature Tama setup refined over decades of touring and recording.'
       }
+    ],
+    // Signature Gear Spotlight (Issue #739)
+    signatureGear: [
+      {
+        slug: 'lars-ulrich-paiste-rude-china',
+        name: 'Paiste 20" RUDE Wild China',
+        category: 'cymbal',
+        brand: 'Paiste',
+        featured: true,
+        description: 'The aggressive, trashy china that defined Metallica\'s cymbal sound since the Black Album era.'
+      }
     ]
   },
   {
@@ -234,7 +245,18 @@ const drummers = [
       ],
       iconicMoment: "His blistering performance on Slipknot's Iowa album is considered one of the most intense drumming recordings in metal history.",
       gearHighlight: 'The Pearl Joey Jordison Signature snare (13x6.5") became the go-to snare for aggressive nu-metal and death metal drummers worldwide.'
-    }
+    },
+    // Signature Gear Spotlight (Issue #739)
+    signatureGear: [
+      {
+        slug: 'joey-jordison-pearl-signature-snare',
+        name: 'Pearl Joey Jordison Signature Snare 13x6.5"',
+        category: 'snare',
+        brand: 'Pearl',
+        featured: true,
+        description: 'The aggressive, cutting snare that powered Slipknot\'s most iconic albums including Iowa.'
+      }
+    ]
   },
   {
     id: 3,

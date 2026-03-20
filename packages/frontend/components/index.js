@@ -59,3 +59,13 @@ export {
   trackKitBuilderEvent,
   kitBuilderStyles
 } from './KitBuilder';
+
+// Signature Gear Spotlight (Issue #739)
+export {
+  SignatureGearSpotlightPage,
+  isSignatureGearPage,
+  isSignatureGearListPage,
+  getGearSlugFromURL,
+  getDrummerSlugFromGearURL,
+  updateSignatureGearMeta
+} from './SignatureGearSpotlight';

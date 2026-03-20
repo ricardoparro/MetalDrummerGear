@@ -108,7 +108,7 @@
 
 ---
 
-### 💡 [IDEA-007] Best Snare Drums for Thrash Metal
+### ✅ [IDEA-007] Best Snare Drums for Thrash Metal
 
 **Type:** genre-guide
 **SEO Keywords:** best snare drum thrash metal, metal snare drums, thrash snare sound
@@ -123,7 +123,7 @@
 4. Size & Material Guide
 5. Budget to Pro Recommendations
 
-**Status:** IDEA
+**Status:** PUBLISHED (2026-03-20) — /guides/best-snare-drums-for-thrash-metal
 
 ---
 
@@ -263,6 +263,7 @@
 | 2026-03-19 | Best Drum Pedals for Death Metal | /guides/best-drum-pedals-for-death-metal | - |
 | 2026-03-19 | What's In Lars Ulrich's Kit in 2026 | /articles/whats-in-lars-ulrichs-kit | - |
 | 2026-03-19 | From Mars to Sirius Drum Setup: Mario Duplantier | /articles/from-mars-to-sirius-drum-setup | - |
+| 2026-03-20 | Best Snare Drums for Thrash Metal | /guides/best-snare-drums-for-thrash-metal | - |
 
 ---
 
@@ -366,12 +367,12 @@
 
 ---
 
-### 💡 [IDEA-019] The Sound of Perseverance Drum Setup: Gene Hoglan's Death Swan Song
+### 💡 [IDEA-019] The Sound of Perseverance Drum Setup: Richard Christy's Death Swan Song
 
 **Type:** album-breakdown
-**SEO Keywords:** sound of perseverance drums, gene hoglan death, chuck schuldiner final album gear
+**SEO Keywords:** sound of perseverance drums, richard christy death, chuck schuldiner final album gear
 **Search Volume:** Medium-High
-**Data Available:** Yes (drummerId: 3)
+**Data Available:** Partial (needs research - Richard Christy played on this album, not Gene Hoglan)
 **Priority:** 4
 
 **Outline:**
@@ -379,10 +380,10 @@
 2. Studio Setup at Morrisound Recording
 3. "Spirit Crusher" Breakdown (most complex Death song)
 4. Recording Techniques with Jim Morris
-5. How Hoglan Approached Schuldiner's Vision
-6. Gear Evolution from Symbolic
+5. How Christy Approached Schuldiner's Vision
+6. The Most Technical Death Drumming
 
-**Status:** IDEA
+**Status:** IDEA (corrected: drummer was Richard Christy, not Gene Hoglan)
 
 ---
 
@@ -626,6 +627,66 @@
 
 ---
 
+### 💡 [IDEA-032] What's In Bill Ward's Kit: The Godfather of Metal Drumming
+
+**Type:** drummer-kit
+**SEO Keywords:** bill ward drum kit, black sabbath drummer gear, bill ward setup, sabbath drums
+**Search Volume:** High (Black Sabbath legendary status)
+**Data Available:** Partial (needs research)
+**Priority:** 5
+
+**Outline:**
+1. Introduction — The First Heavy Metal Drummer
+2. Classic Ludwig Setup (Paranoid/Master of Reality era)
+3. Jazz Influences on Metal
+4. How His Style Defined the Genre
+5. Modern Tribute Setups
+6. Where to Buy Similar Vintage Gear
+
+**Status:** IDEA (added 2026-03-20)
+
+---
+
+### 💡 [IDEA-033] Symbolic Drum Setup: Gene Hoglan's Death Masterpiece
+
+**Type:** album-breakdown
+**SEO Keywords:** symbolic drums, gene hoglan death, death symbolic gear, gene hoglan 1995 kit
+**Search Volume:** High (considered finest Death drumming)
+**Data Available:** Yes (drummerId: 3)
+**Priority:** 5
+
+**Outline:**
+1. Introduction — The Album That Perfected Technical Death Metal
+2. Studio Setup at Morrisound Recording
+3. "Zero Tolerance" & "Crystal Mountain" Breakdowns
+4. The Atomic Clock Meets Chuck Schuldiner
+5. Gear Breakdown (drums, cymbals, pedals)
+6. Recording Techniques with Jim Morris
+
+**Status:** IDEA (added 2026-03-20)
+
+---
+
+### 💡 [IDEA-034] What's In Richard Christy's Arsenal
+
+**Type:** drummer-kit
+**SEO Keywords:** richard christy drum kit, death drummer, richard christy setup, control denied drums
+**Search Volume:** Medium-High (Death's final drummer + Howard Stern fame)
+**Data Available:** Partial (needs research)
+**Priority:** 4
+
+**Outline:**
+1. Introduction — Death's Final Drummer
+2. Sound of Perseverance Setup (1998)
+3. Control Denied Sessions
+4. Signature Techniques
+5. Post-Metal Career (Charred Walls of the Damned)
+6. Where to Buy Similar Gear
+
+**Status:** IDEA (added 2026-03-20)
+
+---
+
 ## 💡 Idea Backlog (Lower Priority)
 
 - Best Sticks for Blast Beats
@@ -642,4 +703,4 @@
 
 ---
 
-*Last updated: 2026-03-19 17:06*
+*Last updated: 2026-03-20 09:03*

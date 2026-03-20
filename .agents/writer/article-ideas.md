@@ -264,6 +264,7 @@
 | 2026-03-19 | What's In Lars Ulrich's Kit in 2026 | /articles/whats-in-lars-ulrichs-kit | - |
 | 2026-03-19 | From Mars to Sirius Drum Setup: Mario Duplantier | /articles/from-mars-to-sirius-drum-setup | - |
 | 2026-03-20 | Best Snare Drums for Thrash Metal | /guides/best-snare-drums-for-thrash-metal | - |
+| 2026-03-20 | Symbolic Drum Setup: Gene Hoglan | /articles/symbolic-drum-setup | - |
 
 ---
 
@@ -647,7 +648,7 @@
 
 ---
 
-### 💡 [IDEA-033] Symbolic Drum Setup: Gene Hoglan's Death Masterpiece
+### ✅ [IDEA-033] Symbolic Drum Setup: Gene Hoglan's Death Masterpiece
 
 **Type:** album-breakdown
 **SEO Keywords:** symbolic drums, gene hoglan death, death symbolic gear, gene hoglan 1995 kit
@@ -663,7 +664,7 @@
 5. Gear Breakdown (drums, cymbals, pedals)
 6. Recording Techniques with Jim Morris
 
-**Status:** IDEA (added 2026-03-20)
+**Status:** PUBLISHED (2026-03-20) — /articles/symbolic-drum-setup
 
 ---
 
@@ -703,4 +704,4 @@
 
 ---
 
-*Last updated: 2026-03-20 09:03*
+*Last updated: 2026-03-20 13:00*

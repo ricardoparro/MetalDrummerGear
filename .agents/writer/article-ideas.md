@@ -264,6 +264,8 @@
 | 2026-03-19 | What's In Lars Ulrich's Kit in 2026 | /articles/whats-in-lars-ulrichs-kit | - |
 | 2026-03-19 | From Mars to Sirius Drum Setup: Mario Duplantier | /articles/from-mars-to-sirius-drum-setup | - |
 | 2026-03-20 | Best Snare Drums for Thrash Metal | /guides/best-snare-drums-for-thrash-metal | - |
+| 2026-03-20 | Symbolic Drum Setup: Gene Hoglan | /articles/symbolic-drum-setup | - |
+| 2026-03-20 | What's In Bill Ward's Kit | /articles/whats-in-bill-wards-kit | - |
 
 ---
 
@@ -627,12 +629,12 @@
 
 ---
 
-### 💡 [IDEA-032] What's In Bill Ward's Kit: The Godfather of Metal Drumming
+### ✅ [IDEA-032] What's In Bill Ward's Kit: The Godfather of Metal Drumming
 
 **Type:** drummer-kit
 **SEO Keywords:** bill ward drum kit, black sabbath drummer gear, bill ward setup, sabbath drums
 **Search Volume:** High (Black Sabbath legendary status)
-**Data Available:** Partial (needs research)
+**Data Available:** Yes (drummerId: 22)
 **Priority:** 5
 
 **Outline:**
@@ -643,7 +645,7 @@
 5. Modern Tribute Setups
 6. Where to Buy Similar Vintage Gear
 
-**Status:** IDEA (added 2026-03-20)
+**Status:** PUBLISHED (2026-03-20) — /articles/whats-in-bill-wards-kit
 
 ---
 
@@ -703,4 +705,4 @@
 
 ---
 
-*Last updated: 2026-03-20 09:03*
+*Last updated: 2026-03-20 17:08*

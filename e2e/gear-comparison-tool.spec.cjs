@@ -19,11 +19,14 @@ test.describe('Gear Comparison Tool', () => {
   });
 
   test('loads the comparison tool page', async ({ page }) => {
+    // Wait for the component to render and update meta tags
+    await expect(page.getByText('⚔️ Gear Comparison Tool')).toBeVisible();
+    
+    // Allow time for meta tags to update (React updates them dynamically)
+    await page.waitForTimeout(500);
+    
     // Check page title contains comparison
     await expect(page).toHaveTitle(/Gear Comparison Tool|Compare/i);
-    
-    // Check header is present
-    await expect(page.getByText('⚔️ Gear Comparison Tool')).toBeVisible();
   });
 
   test('shows empty state when no drummers selected', async ({ page }) => {

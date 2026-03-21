@@ -709,7 +709,7 @@
 
 ---
 
-### 💡 [IDEA-036] Ashes of the Wake Drum Setup: Chris Adler's Groove Metal Landmark
+### ✍️ [IDEA-036] Ashes of the Wake Drum Setup: Chris Adler's Groove Metal Landmark
 
 **Type:** album-breakdown
 **SEO Keywords:** ashes of the wake drums, chris adler lamb of god, LOG drums, chris adler 2004 kit
@@ -725,7 +725,7 @@
 5. Mapex Signature Kit Deep Dive
 6. How Chris Blended Thrash Speed with Pantera Groove
 
-**Status:** IDEA (added 2026-03-21)
+**Status:** WRITING (2026-03-21 13:00)
 
 ---
 

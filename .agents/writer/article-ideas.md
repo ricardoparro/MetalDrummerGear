@@ -266,6 +266,7 @@
 | 2026-03-20 | Best Snare Drums for Thrash Metal | /guides/best-snare-drums-for-thrash-metal | - |
 | 2026-03-20 | What's In Bill Ward's Kit | /articles/whats-in-bill-wards-kit | - |
 | 2026-03-21 | Symbolic Drum Setup: Gene Hoglan | /articles/symbolic-drum-setup | - |
+| 2026-03-21 | Ashes of the Wake Drum Setup: Chris Adler | /articles/ashes-of-the-wake-drum-setup | - |
 
 ---
 
@@ -709,7 +710,7 @@
 
 ---
 
-### ✍️ [IDEA-036] Ashes of the Wake Drum Setup: Chris Adler's Groove Metal Landmark
+### ✅ [IDEA-036] Ashes of the Wake Drum Setup: Chris Adler's Groove Metal Landmark
 
 **Type:** album-breakdown
 **SEO Keywords:** ashes of the wake drums, chris adler lamb of god, LOG drums, chris adler 2004 kit
@@ -717,15 +718,7 @@
 **Data Available:** Yes
 **Priority:** 5
 
-**Outline:**
-1. Introduction — The Album That Defined Modern Metal
-2. Studio Setup at Audiohammer Studios
-3. "Laid to Rest" & "Now You've Got Something to Die For" Breakdowns
-4. The Groove-Speed Hybrid Approach
-5. Mapex Signature Kit Deep Dive
-6. How Chris Blended Thrash Speed with Pantera Groove
-
-**Status:** WRITING (2026-03-21 13:00)
+**Status:** PUBLISHED (2026-03-21) — /articles/ashes-of-the-wake-drum-setup
 
 ---
 
@@ -765,4 +758,4 @@
 
 ---
 
-*Last updated: 2026-03-21 09:04*
+*Last updated: 2026-03-21 13:00*

@@ -28,6 +28,19 @@
       ]
     },
     {
+      "source": "/api/card/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=86400, s-maxage=86400, stale-while-revalidate=604800"
+        },
+        {
+          "key": "Content-Type",
+          "value": "image/png"
+        }
+      ]
+    },
+    {
       "source": "/api/image(.*)",
       "headers": [
         {
@@ -219,6 +232,7 @@
     { "source": "/llms.txt", "destination": "/llms.txt" },
     { "source": "/llms-full.txt", "destination": "/llms-full.txt" },
     { "source": "/llms/index.md", "destination": "/llms/index.md" },
+    { "source": "/api/card/:slug", "destination": "/api/card/[slug]?slug=:slug" },
     { "source": "/api/drummer/:id/markdown", "destination": "/api/drummer/[id]/markdown?id=:id" },
     { "source": "/api/drummers/:id", "destination": "/api/drummers/[id]?id=:id" },
     { "source": "/api/gear/category/:category", "destination": "/api/gear/category/[category]?category=:category" },

@@ -69,3 +69,11 @@ export {
   getDrummerSlugFromGearURL,
   updateSignatureGearMeta
 } from './SignatureGearSpotlight';
+
+// Gear Cards Gallery (Issue #747)
+export {
+  GearCardsGalleryPage,
+  isGearCardsPage,
+  updateGearCardsMeta,
+  trackCardEvent
+} from './GearCardsGallery';

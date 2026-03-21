@@ -139,6 +139,48 @@
       ]
     },
     {
+      "source": "/embed/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, s-maxage=3600, stale-while-revalidate=86400"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "ALLOWALL"
+        },
+        {
+          "key": "Content-Security-Policy",
+          "value": "frame-ancestors *"
+        },
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        }
+      ]
+    },
+    {
+      "source": "/api/embed/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, s-maxage=3600, stale-while-revalidate=86400"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "ALLOWALL"
+        },
+        {
+          "key": "Content-Security-Policy",
+          "value": "frame-ancestors *"
+        },
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        }
+      ]
+    },
+    {
       "source": "/(.*).js",
       "headers": [
         {
@@ -182,6 +224,9 @@
     { "source": "/api/gear/category/:category", "destination": "/api/gear/category/[category]?category=:category" },
     { "source": "/api/gear/:id", "destination": "/api/gear/[id]?id=:id" },
     { "source": "/gear-news/feed.xml", "destination": "/api/gear-news/feed" },
+    { "source": "/embed/:slug", "destination": "/api/embed/[slug]?slug=:slug" },
+    { "source": "/api/embed/track", "destination": "/api/embed/track" },
+    { "source": "/api/embed/stats", "destination": "/api/embed/stats" },
     { "source": "/:path*", "destination": "/index.html" }
   ]
 }

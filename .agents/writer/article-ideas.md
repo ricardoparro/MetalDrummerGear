@@ -264,8 +264,8 @@
 | 2026-03-19 | What's In Lars Ulrich's Kit in 2026 | /articles/whats-in-lars-ulrichs-kit | - |
 | 2026-03-19 | From Mars to Sirius Drum Setup: Mario Duplantier | /articles/from-mars-to-sirius-drum-setup | - |
 | 2026-03-20 | Best Snare Drums for Thrash Metal | /guides/best-snare-drums-for-thrash-metal | - |
-| 2026-03-20 | Symbolic Drum Setup: Gene Hoglan | /articles/symbolic-drum-setup | - |
 | 2026-03-20 | What's In Bill Ward's Kit | /articles/whats-in-bill-wards-kit | - |
+| 2026-03-21 | Symbolic Drum Setup: Gene Hoglan | /articles/symbolic-drum-setup | - |
 
 ---
 
@@ -649,7 +649,7 @@
 
 ---
 
-### 💡 [IDEA-033] Symbolic Drum Setup: Gene Hoglan's Death Masterpiece
+### ✅ [IDEA-033] Symbolic Drum Setup: Gene Hoglan's Death Masterpiece
 
 **Type:** album-breakdown
 **SEO Keywords:** symbolic drums, gene hoglan death, death symbolic gear, gene hoglan 1995 kit
@@ -665,7 +665,7 @@
 5. Gear Breakdown (drums, cymbals, pedals)
 6. Recording Techniques with Jim Morris
 
-**Status:** IDEA (added 2026-03-20)
+**Status:** PUBLISHED (2026-03-21) — /articles/symbolic-drum-setup
 
 ---
 
@@ -689,6 +689,66 @@
 
 ---
 
+### 💡 [IDEA-035] What's In Pete Sandoval's Morbid Angel Arsenal
+
+**Type:** drummer-kit
+**SEO Keywords:** pete sandoval drum kit, morbid angel drummer, pete sandoval setup, blast beat pioneer
+**Search Volume:** High (death metal legend!)
+**Data Available:** Partial (needs research)
+**Priority:** 5
+
+**Outline:**
+1. Introduction — The Blast Beat Pioneer
+2. Classic Pearl/Tama Setup (Altars of Madness era)
+3. Signature Techniques (hyper-blast, gravity blast)
+4. How His Footwork Changed Metal Drumming
+5. Injury Recovery and Comeback
+6. Where to Buy Similar Gear
+
+**Status:** IDEA (added 2026-03-21)
+
+---
+
+### 💡 [IDEA-036] Ashes of the Wake Drum Setup: Chris Adler's Groove Metal Landmark
+
+**Type:** album-breakdown
+**SEO Keywords:** ashes of the wake drums, chris adler lamb of god, LOG drums, chris adler 2004 kit
+**Search Volume:** High (LOG's most acclaimed album)
+**Data Available:** Yes
+**Priority:** 5
+
+**Outline:**
+1. Introduction — The Album That Defined Modern Metal
+2. Studio Setup at Audiohammer Studios
+3. "Laid to Rest" & "Now You've Got Something to Die For" Breakdowns
+4. The Groove-Speed Hybrid Approach
+5. Mapex Signature Kit Deep Dive
+6. How Chris Blended Thrash Speed with Pantera Groove
+
+**Status:** IDEA (added 2026-03-21)
+
+---
+
+### 💡 [IDEA-037] What's In Sean Reinert's Progressive Arsenal (Tribute)
+
+**Type:** drummer-kit
+**SEO Keywords:** sean reinert drum kit, cynic drummer, death human drummer, progressive metal drums
+**Search Volume:** Medium-High (prog death pioneer, RIP tribute interest)
+**Data Available:** Partial
+**Priority:** 4
+
+**Outline:**
+1. Introduction — The Jazz Fusion Meets Death Metal Pioneer
+2. His Human/Focus Era Setup
+3. How He Brought Jazz Vocabulary to Extreme Metal
+4. Legendary Performance on "Human" Album
+5. Cynic's Progressive Vision
+6. His Lasting Influence on Technical Drumming
+
+**Status:** IDEA (added 2026-03-21)
+
+---
+
 ## 💡 Idea Backlog (Lower Priority)
 
 - Best Sticks for Blast Beats
@@ -705,4 +765,4 @@
 
 ---
 
-*Last updated: 2026-03-20 17:08*
+*Last updated: 2026-03-21 09:04*

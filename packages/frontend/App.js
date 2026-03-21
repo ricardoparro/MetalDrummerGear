@@ -15690,7 +15690,11 @@ function BattlePage({ theme, drummers, onBack, battleSlug }) {
         const res = await fetch(`/api/battles/vote?battleId=${battle.id}`);
         if (res.ok) {
           const data = await res.json();
-          setVotes({ votes1: data.votes1, votes2: data.votes2 });
+          // API returns { votes: { drummer1, drummer2 } }
+          setVotes({ 
+            votes1: data.votes?.drummer1 || 0, 
+            votes2: data.votes?.drummer2 || 0 
+          });
         }
       } catch (error) {
         console.error('Failed to fetch votes:', error);
@@ -15714,20 +15718,24 @@ function BattlePage({ theme, drummers, onBack, battleSlug }) {
     setIsVoting(true);
     
     try {
-      // Submit vote to API
+      // Submit vote to API - position is 1 or 2, API expects 'drummer1' or 'drummer2'
+      const choice = position === 1 ? 'drummer1' : 'drummer2';
       const res = await fetch('/api/battles/vote', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           battleId: battle.id,
-          drummerId: drummer.id,
-          drummerPosition: position,
+          choice,
         }),
       });
       
       if (res.ok) {
         const data = await res.json();
-        setVotes({ votes1: data.votes1, votes2: data.votes2 });
+        // API returns { votes: { drummer1, drummer2 } }
+        setVotes({ 
+          votes1: data.votes?.drummer1 || 0, 
+          votes2: data.votes?.drummer2 || 0 
+        });
         
         // Save to localStorage
         saveUserVote(battle.id, drummer.id);

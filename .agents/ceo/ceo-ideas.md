@@ -28,7 +28,179 @@
 
 ## 📥 Novas Ideias
 
-### 💡 [CEO-012] "Gear Comparison Tool" — Side-by-Side Drummer Setup Battles
+### 💡 [CEO-014] "Drummer Gear Cards" — Auto-Generated Social Graphics for Viral Spread
+
+**Origem:** Social media analysis — Visual content drives 10x more engagement than text; drummers/fans share beautiful gear visuals
+
+**Hipótese:** Se criarmos auto-generated "Gear Cards" (beautiful Instagram/Twitter graphics) então:
+- **Viral Sharing:** Fans share cards of their favorite drummers (visual > text)
+- **Drummer Amplification:** Drummers themselves share their own cards (ego boost + free promo)
+- **Zero-Cost Marketing:** Each share = MetalForge brand exposure to new audiences
+- **High Engagement:** Visual content performs 10x better than text on Instagram/Twitter
+- **Evergreen Content:** Cards are timeless (no expiry date)
+- **SEO Juice:** Cards linked back to profiles = backlink opportunities
+- **Community Building:** Fans create collections, tag drummers, spark discussions
+- **Brand Recognition:** "MetalForge Card" becomes a thing (like Spotify Wrapped)
+- **Scalable:** Auto-generate cards for all 21 drummers + new additions
+- **Multi-Platform:** Works on Instagram, Twitter, Facebook, Discord, Reddit
+
+**Impacto Curto (1-7d):** ⭐⭐⭐ (Immediate social shares + brand awareness)
+**Impacto Médio (1-3m):** ⭐⭐⭐ (Viral spread, drummer amplification, community adoption)
+**Impacto Longo (3-12m):** ⭐⭐ (Evergreen sharing continues, brand association)
+**Score Total:** 8⭐
+
+**Card Types:**
+1. **Full Setup Card** — Drummer photo + complete gear list + total cost
+2. **Single Piece Spotlight** — Close-up of iconic gear (Lars' Tama Artstar, Joey's Paiste signature)
+3. **Setup Evolution** — "1990 vs 2024" side-by-side
+4. **Stats Card** — "Joey Jordison: €27,450 setup, 47 pieces, 8 Paiste cymbals"
+5. **Quote Card** — Drummer quote about their gear + MetalForge attribution
+
+**Design Elements:**
+- **High-Quality Background:** Drummer action shot (blurred, dark overlay)
+- **Gear Grid Layout:** Clean, organized, easy to read
+- **Brand Colors:** Dark theme (metal aesthetic)
+- **MetalForge Logo:** Subtle watermark (bottom corner)
+- **Call-to-Action:** "Explore full setup → metalforge.io/[drummer]"
+- **Social Optimized:** 1080x1080 (Instagram), 1200x675 (Twitter)
+
+**Features:**
+- **Auto-Generation:** `/api/card/[drummer-slug]` → PNG image
+- **Customization:** Dark/light theme, minimalist/detailed layouts
+- **Download Button:** "Download & Share" on each drummer profile
+- **Pre-Generated Gallery:** `/cards` page showing all available cards
+- **Dynamic Updates:** Cards auto-update when gear data changes
+
+**Distribution Strategy:**
+1. **Direct Outreach to Drummers:**
+   - DM top metal drummers: "We created a Gear Card for you! [image]"
+   - 50% chance they share it (ego + looks cool)
+   - Each drummer has 10K-1M followers (instant reach)
+   
+2. **Fan Engagement:**
+   - Post cards on r/drums, r/Metal: "Made Gear Cards for 21 legends"
+   - Fans download + share their favorites
+   - Tag drummers in posts (amplification)
+   
+3. **Automated Social Media:**
+   - Daily card post on @MetalDrumGear Twitter
+   - "📸 Joey Jordison's €27K Setup [card] Explore: [link]"
+   - Instagram Stories with swipe-up (when followers >10K)
+   
+4. **Email Campaign (when newsletter ready):**
+   - "Your Favorite Drummer's Gear Card is Here!"
+   - Downloadable + shareable
+   
+5. **Reddit/Forum Signatures:**
+   - Users add Gear Cards to forum signatures
+   - "My dream setup: [card]"
+
+**Métrica de sucesso:**
+- 500+ card downloads primeira semana
+- 10% share rate (50+ social shares)
+- 3+ drummers repost their own cards
+- Referral traffic from cards: 200+ users
+- Cards appear in 10+ Reddit/forum threads
+- Instagram/Twitter impressions: 10K+ (from shares)
+- "MetalForge Gear Card" becomes a recognizable format
+
+**Blockers externos:** Não (requires design skills but can use templates/AI tools)
+
+**Decisão:** IMPLEMENTAR
+
+**Data:** 2026-03-21
+
+### 💡 [CEO-013] "Embeddable Gear Widget" — Distributed Marketing via Content Creators
+
+**Origem:** Distribution analysis — We need MetalForge in places where metalheads already hang out (YouTube, blogs, forums)
+
+**Hipótese:** Se criarmos widgets embeddable de gear setups então:
+- **Backlink Network:** Every embed = backlink to MetalForge (SEO juice)
+- **Brand Distribution:** MetalForge appears on drummer YouTube channels, gear blogs, Reddit wikis
+- **Zero-Cost Marketing:** Content creators do the work (they want gear data for their content)
+- **High-Intent Traffic:** Users clicking embeds are researching gear (affiliate intent)
+- **Viral Spread:** Popular embed = more creators copy it (network effect)
+- **Authority Signal:** "Powered by MetalForge" becomes trusted source
+- **Passive Discovery:** Users discover MetalForge without us actively promoting
+- **Scalable:** Once built, spreads organically via content creators
+- **Moat Building:** Embeds lock in distribution (hard for competitors to dislodge)
+
+**Impacto Curto (1-7d):** ⭐⭐ (Initial adoption from outreach)
+**Impacto Médio (1-3m):** ⭐⭐⭐ (Viral spread, backlink accumulation, SEO compound)
+**Impacto Longo (3-12m):** ⭐⭐⭐ (Distribution moat, passive traffic engine)
+**Score Total:** 8⭐
+
+**Implementação:**
+
+**Widget Types:**
+1. **Single Drummer Setup** — Compact card showing drummer + gear summary
+2. **Gear Piece Detail** — Single cymbal/drum with specs + affiliate link
+3. **Price Comparison** — Side-by-side comparison (uses comparison tool data)
+
+**Embed Code (Simple):**
+```html
+<iframe src="https://metalforge.io/embed/joey-jordison" width="400" height="600"></iframe>
+```
+
+**Widget Features:**
+- Responsive design (works mobile + desktop)
+- Lightweight (fast load, no heavy JS)
+- Click → opens full setup on MetalForge.io (new tab)
+- "Powered by MetalForge" badge (branding + backlink)
+- Dark/light theme options
+- Optional: Affiliate passthrough (creator gets % if they have account)
+
+**Distribution Strategy:**
+1. **YouTube Creators:**
+   - Reach out to drum channels (66Samus, Drumeo, etc.)
+   - Pitch: "Add gear widgets to video descriptions" (value for viewers)
+   
+2. **Gear Blogs/Review Sites:**
+   - Contact ModernDrummer, DrummerWorld, etc.
+   - Pitch: "Embed accurate gear data in articles"
+   
+3. **Reddit Wikis:**
+   - r/drums, r/Metal wikis often have gear lists
+   - Pitch: "Upgrade static text to live embeds"
+   
+4. **Forum Signatures:**
+   - Drummerworld forums, metalsetlists.com
+   - Users add drummer widgets to signatures
+   
+5. **Email Signature Template:**
+   - For drummers/gear enthusiasts
+   - "Check out my dream setup: [embed]"
+
+**Technical:**
+- `/embed/[drummer-slug]` endpoint returns minimal HTML
+- CORS headers allow any domain
+- Track referrer domains (analytics)
+- Optional: oEmbed protocol support (auto-embeds in WordPress, etc.)
+
+**Outreach Plan:**
+- Create 5 example embeds (showcase quality)
+- Reach out to top 10 drum YouTubers personally
+- Post on r/drums: "Made embeddable drummer gear widgets — free for creators"
+- Email 20 gear blogs with pitch + examples
+- Create "Embed Gallery" page showing use cases
+
+**Métrica de sucesso:**
+- 10 embeds live within 1 week (initial adoption)
+- 50+ embeds within 1 month (viral spread)
+- 100+ referral domains in 3 months (backlink network)
+- 200+ daily clicks from embeds to MetalForge
+- Domain Authority increase (Moz/Ahrefs metrics)
+- 5+ high-authority sites embed (DrummerWorld, ModernDrummer tier)
+- Featured in at least 3 YouTube video descriptions
+- Reddit wiki adoption (r/drums gear guide)
+
+**Blockers externos:** Não
+
+**Decisão:** IMPLEMENTAR
+
+**Data:** 2026-03-20
+
+### 💡 [CEO-012] "Gear Comparison Tool" — Side-by-Side Drummer Setup Battles → Issue #741 ✅ QUEUED
 
 **Origem:** User behavior analysis — People love comparisons + debates drive engagement + captures comparison search intent
 
@@ -100,9 +272,11 @@
 
 **Blockers externos:** Não
 
-**Decisão:** IMPLEMENTAR
+**Decisão:** IMPLEMENTAR ✅
 
-**Data:** 2026-03-16 09:00
+**Issue:** https://github.com/ricardoparro/MetalDrummerGear/issues/741
+
+**Data:** 2026-03-16 09:00 | Queued: 2026-03-20 17:00
 
 ### 💡 [CEO-011] "Recently Updated Gear" Dynamic Homepage Section → Issue #715 ✅ QUEUED
 

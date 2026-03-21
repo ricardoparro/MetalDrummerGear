@@ -8501,8 +8501,7 @@ Chuck Schuldiner passed away in 2001, but his music lives on. And Gene Hoglan's 
 
 🤘 *The Atomic Clock at his finest. Technical death metal perfected.* 🤘`
     }
-  }
-};
+  },
 
   // Ashes of the Wake - Chris Adler's Groove Metal Masterpiece (Issue #036)
   'ashes-of-the-wake-drum-setup': {
@@ -8829,7 +8828,8 @@ Chris Adler's drumming on this album remains the standard every groove metal dru
 
 🤘 *The groove metal benchmark. Still unmatched.* 🤘`
     }
-  },
+  }
+};
 
 // Helper functions
 export function getAlbumArticleBySlug(slug) {

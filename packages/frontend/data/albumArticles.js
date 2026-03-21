@@ -8218,10 +8218,9 @@ He didn't just invent heavy metal drumming. He proved that jazz and metal were n
 
 🤘 *The Godfather of Metal. Forever.* 🤘`
     }
-  }
-};
+  },
 
-'symbolic-drum-setup': {
+  'symbolic-drum-setup': {
     slug: 'symbolic-drum-setup',
     albumTitle: 'Symbolic',
     artist: 'Death',
@@ -8829,7 +8828,8 @@ Chris Adler's drumming on this album remains the standard every groove metal dru
 
 🤘 *The groove metal benchmark. Still unmatched.* 🤘`
     }
-  },
+  }
+};
 
 // Helper functions
 export function getAlbumArticleBySlug(slug) {

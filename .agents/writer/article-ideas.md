@@ -267,6 +267,7 @@
 | 2026-03-20 | What's In Bill Ward's Kit | /articles/whats-in-bill-wards-kit | - |
 | 2026-03-21 | Symbolic Drum Setup: Gene Hoglan | /articles/symbolic-drum-setup | - |
 | 2026-03-21 | Ashes of the Wake Drum Setup: Chris Adler | /articles/ashes-of-the-wake-drum-setup | - |
+| 2026-03-21 | What's In Flo Mounier's Extreme Arsenal | /articles/whats-in-flo-mouniers-kit | - |
 
 ---
 
@@ -490,7 +491,7 @@
 
 ---
 
-### 💡 [IDEA-025] What's In Flo Mounier's Extreme Arsenal
+### ✅ [IDEA-025] What's In Flo Mounier's Extreme Arsenal
 
 **Type:** drummer-kit
 **SEO Keywords:** flo mounier drum kit, cryptopsy drummer, flo mounier setup, extreme metal drums, blast beat king
@@ -500,13 +501,13 @@
 
 **Outline:**
 1. Introduction — The Blast Beat Virtuoso
-2. Current Pearl Reference Setup
+2. Current Tama Starclassic Setup
 3. None So Vile Era vs Modern Setup
 4. Blast Beat Techniques & Speed Training
 5. How He Shaped Technical Death Metal Drumming
 6. Where to Buy Similar Gear
 
-**Status:** IDEA (added 2026-03-17)
+**Status:** PUBLISHED (2026-03-21) — /articles/whats-in-flo-mouniers-kit
 
 ---
 
@@ -758,4 +759,4 @@
 
 ---
 
-*Last updated: 2026-03-21 13:00*
+*Last updated: 2026-03-21 17:04*

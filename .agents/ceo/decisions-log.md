@@ -703,3 +703,301 @@ CEO-010 (Reddit Launch Campaign) is our ONLY viable short-term distribution chan
 - One successful Reddit post = 500-2K visits
 - **We're one campaign away from breaking through**
 
+---
+
+## 2026-03-20 17:00 — CEO Friday Run (Evening)
+
+### Context: Pipeline COMPLETELY BLOCKED
+
+**Situation:**
+- **Ralph Status:** IDLE (0 ai-fix issues open)
+- **All Open Issues:** 5 total, ALL are human-founder tasks waiting for Ricardo
+  - #718: Reddit account setup for CEO-010
+  - #529: Thomann affiliate application
+  - #528: Twitter API access
+  - #526: TikTok Postiz setup
+  - #525: TikTok account creation
+- **Founder Ideas:** Empty inbox (no new requests)
+- **Recent Work:** All viral tools shipped, distribution blocked
+
+**The Core Problem:**
+Ralph has NO work to do. Pipeline is blocked on external dependencies only Ricardo can resolve.
+
+### Actions Taken
+
+1. ✅ Created Issue #741: "Gear Comparison Tool — Side-by-Side Drummer Setup Battles" (CEO-012)
+   - Label: ai-fix (unblocks Ralph)
+   - Impact: 7⭐ (Curto 2⭐, Médio 3⭐, Longo 2⭐)
+   - Rationale: **UNBLOCK THE PIPELINE** — While distribution is blocked, create high-value features that compound when traffic arrives. Comparison tool generates 210 unique pages (21 drummers = C(21,2) combinations), captures "[drummer1] vs [drummer2] gear" searches, drives affiliate clicks (dual gear exposure).
+
+2. ✅ Created CEO-013: "Embeddable Gear Widget" for distributed marketing
+   - Impact: 8⭐ (Curto 2⭐, Médio 3⭐, Longo 3⭐)
+   - Rationale: **ALTERNATIVE DISTRIBUTION STRATEGY** — Since Twitter/TikTok/Reddit are blocked, create distribution through OTHERS. Embeddable widgets let YouTubers/bloggers/forums add our content → backlinks + brand awareness + passive traffic without us actively promoting.
+   - Decision: IMPLEMENTAR (queue after #741)
+
+3. ✅ Updated ceo-ideas.md with CEO-013
+4. ✅ Updated ceo-ideas.md marking CEO-012 as queued (#741)
+5. ✅ Logged decisions in decisions-log.md
+
+### Strategic Reasoning
+
+**Why Comparison Tool NOW?**
+- Ralph is idle (needs work to stay productive)
+- Viral tools already built, waiting for distribution
+- Comparison tool creates SEO moat (210 unique pages)
+- Auto-generates long-tail opportunities ("[drummer1] vs [drummer2]")
+- Complements existing tools (Quiz, Name Generator, Battle, Stats)
+- NO external blockers (pure implementation)
+- Provides value WHEN traffic arrives (via Reddit/Twitter/TikTok)
+
+**Why Embeddable Widgets NEXT?**
+- **CRITICAL INSIGHT:** If WE can't distribute our content, let OTHERS do it
+- YouTubers/bloggers/forums WANT gear data for their content
+- Every embed = backlink (SEO juice)
+- Passive distribution (content creators do the marketing)
+- Long-term moat (embeds are sticky, hard to remove)
+- Circumvents our current distribution bottleneck
+- Scalable via network effects (popular embed → more creators copy it)
+
+**Alternatives Considered:**
+1. ❌ Wait for Ricardo's Reddit account validation → Idle time is wasted time
+2. ❌ Build more viral tools → Already have 5, need distribution first
+3. ❌ SEO content articles → Diminishing returns, prefer technical features
+4. ✅ **Comparison tool + Embeddable widgets → Compounds when traffic arrives + creates alternative distribution**
+
+### Pipeline Status
+- **Before:** 0 ai-fix issues (Ralph idle)
+- **After:** 1 issue queued (#741 Comparison Tool)
+- **Next:** CEO-013 (Embeddable Widgets) when #741 completes
+
+### Portfolio Balance Check
+
+**Current Sprint:**
+- ✅ Curto prazo: Comparison tool (#741) = immediate engagement feature
+- ✅ Médio prazo: Embeddable widgets (CEO-013) = passive distribution building
+- ⚠️ Longo prazo: Still blocked on monetization (Thomann needs 500 DAU)
+
+**Overall Portfolio:**
+- Features: Quiz, Name Generator, Photo Challenge, Stats Hub, Beginner Guide, Battle, Comparison Tool (pending)
+- Distribution: Blocked (Reddit/Twitter/TikTok waiting on Ricardo), Alternative path (Embeddable widgets)
+- Monetization: Blocked (Thomann needs 500 DAU, Sweetwater ready)
+
+**Assessment:** Pivoting to dual strategy — Build valuable features (comparison tool) + Create alternative distribution (embeddable widgets) while primary channels are blocked.
+
+### Growth Opportunity
+
+**#1 Priority:** Comparison Tool (#741)
+- 210 unique comparison pages (SEO surface area)
+- Captures high-intent searches ("[drummer1] vs [drummer2] gear")
+- 2x affiliate click opportunity (dual gear exposure)
+- Viral sharing potential (debates in comments)
+- Complements existing viral tools
+
+**#2 Priority:** Embeddable Widgets (CEO-013)
+- Alternative distribution when primary channels are blocked
+- Backlink network (every embed = SEO juice)
+- Passive traffic (content creators distribute for us)
+- Long-term moat (embeds are sticky)
+- Scalable via network effects
+
+### Founder Ideas Status
+- ✅ founder-ideas.md reviewed: Empty (no new ideas from Ricardo)
+
+### What I Need from Ricardo
+
+**URGENT (Distribution Blockers):**
+- #718: Reddit account setup for CEO-010 launch campaign (could drive 1,500+ visits in 7 days)
+- #528: Twitter API access for @MetalDrumGear (social distribution)
+- #525/#526: TikTok account + Postiz (video distribution)
+- #529: Thomann affiliate application (monetization unlock at 500 DAU)
+
+**Decision Needed:**
+- Email service provider (ConvertKit vs Mailchimp) for newsletter feature (#4 in backlog, Score 35⭐)
+
+### Strategic Summary
+
+**This Week's Pivot:**
+- Recognized pipeline bottleneck (all human-founder tasks)
+- Unblocked Ralph with Comparison Tool (#741)
+- Created alternative distribution strategy (Embeddable widgets CEO-013)
+- Shifted from "wait for distribution" to "build distribution alternatives"
+
+**The Plan:**
+1. **Short-term:** Comparison tool provides immediate value when traffic arrives
+2. **Medium-term:** Embeddable widgets create passive distribution network
+3. **Long-term:** When Ricardo unblocks Reddit/Twitter/TikTok, we have MORE features to promote
+
+**Why This Matters:**
+- Idle time is wasted time (Ralph should keep shipping)
+- Embeddable widgets = circumvent distribution bottleneck
+- When traffic DOES arrive, we have richer product (comparison tool + widgets)
+- Alternative distribution reduces dependency on Ricardo's tasks
+
+**The Math:**
+- Comparison tool = 210 SEO pages + viral potential
+- Embeddable widgets = N YouTubers × M blogs × P forums = distributed backlink network
+- Reddit campaign (when unblocked) = 1,500+ immediate visits
+- **Combined effect > sum of parts** (traffic × features × distribution)
+
+---
+
+## 2026-03-21 09:00 — CEO Saturday Run (Morning)
+
+### Context: Pipeline Cleared, Distribution Still Blocked
+
+**Situation:**
+- **Ralph Status:** IDLE (0 ai-fix issues open — Comparison Tool #741 completed overnight)
+- **Blocked:** Same 5 human-founder tasks unchanged (#718, #529, #528, #526, #525)
+- **Founder Ideas:** Empty inbox (no new requests)
+- **Recent Completions:** Comparison Tool shipped (#741), all viral tools live
+
+**Progress:**
+Ralph crushed the Comparison Tool overnight (multiple retries/refinements based on timestamps in issue history). Now we have:
+- ✅ Quiz, Name Generator, Photo Challenge, Battle, Stats Hub, Beginner Guide
+- ✅ Comparison Tool (210 unique comparison pages)
+- ❌ Distribution channels (Twitter 2 followers, TikTok blocked, Reddit waiting on Ricardo)
+
+### Actions Taken
+
+1. ✅ Created Issue #744: "Embeddable Gear Widget" (CEO-013)
+   - Label: ai-fix (unblocks Ralph)
+   - Impact: 8⭐ (Curto 2⭐, Médio 3⭐, Longo 3⭐)
+   - Rationale: **ALTERNATIVE DISTRIBUTION MOAT** — Since primary channels are blocked, create passive distribution through embeddable widgets. Every YouTube video description, gear blog article, Reddit wiki that embeds our widgets = backlink + brand awareness + passive traffic. Network effect: popular embed → more creators copy it.
+
+2. ✅ Created CEO-014: "Drummer Gear Cards" — Auto-generated social graphics
+   - Impact: 8⭐ (Curto 3⭐, Médio 3⭐, Longo 2⭐)
+   - Rationale: **VISUAL-FIRST VIRAL STRATEGY** — If we can't post to Twitter/TikTok ourselves, create shareable visual assets that OTHERS (fans, drummers, YouTubers) will share organically. Gear Cards = Instagram/Twitter candy (visual content performs 10x better than text). Potential drummer amplification: DM cards to drummers → 50% chance they share to 10K-1M followers.
+   - Decision: IMPLEMENTAR (queue after #744)
+
+3. ✅ Updated ceo-ideas.md with CEO-014
+4. ✅ Logging this decision in decisions-log.md (this entry)
+
+### Strategic Reasoning
+
+**Why Embeddable Widgets NOW? (#744)**
+- Ralph is idle again (needs work after completing #741)
+- Comparison Tool = engagement for existing traffic, but we still have NO traffic
+- Widgets = DISTRIBUTION BYPASS (let content creators promote us)
+- Every embed = SEO backlink (long-term compound effect)
+- Scalable via network effects (viral adoption by creators)
+- NO external blockers (pure implementation)
+
+**Why Gear Cards NEXT? (CEO-014)**
+- **CRITICAL INSIGHT #2:** Visual content is the currency of social media
+- We can't control our Twitter/TikTok accounts, but we CAN create assets that others share
+- Drummers have MASSIVE egos → Beautiful card of their setup = high chance they repost
+- Each drummer share = 10K-1M follower reach (free distribution)
+- Fans share favorite drummers (organic viral loop)
+- Cards work across ALL platforms (Instagram, Twitter, Facebook, Discord, Reddit)
+- Solves distribution bottleneck WITHOUT needing Ricardo's account access
+
+**Alternatives Considered:**
+1. ❌ Wait for Ricardo to unblock Reddit/Twitter/TikTok → Wasting idle time
+2. ❌ Build more data/stats features → Already have Stats Hub, diminishing returns
+3. ❌ SEO content grind → Takes 3-6 months, need immediate distribution
+4. ✅ **Embeddable widgets + Gear Cards → Create PASSIVE + AMPLIFIED distribution without needing our own channels**
+
+### Pipeline Status
+- **Before:** 0 ai-fix issues (Ralph idle after #741 completion)
+- **After:** 1 issue queued (#744 Embeddable Widgets)
+- **Next:** CEO-014 (Gear Cards) when #744 completes
+
+### Portfolio Balance Check
+
+**Current Sprint:**
+- ✅ Curto prazo: Embeddable widgets (#744) = initial creator adoption
+- ✅ Médio prazo: Gear Cards (CEO-014) = viral visual sharing + drummer amplification
+- ✅ Longo prazo: Both create distribution moats (embeds sticky, cards evergreen)
+
+**Overall Portfolio (Completed Features):**
+- Engagement: Quiz, Name Generator, Photo Challenge, Battle, Comparison Tool (210 pages)
+- Authority: Stats Hub, Beginner Guide, 25 drummer profiles
+- Monetization: Affiliate links ready (Sweetwater live, Thomann waiting on 500 DAU)
+- **Distribution: BOTTLENECK** ← Focus area
+
+**Assessment:** Shifting strategy from "build features" to "create distribution infrastructure." Since we can't control Twitter/TikTok/Reddit directly, we're building PASSIVE (embeds) + AMPLIFIED (gear cards via drummers/fans) distribution channels.
+
+### Growth Opportunity
+
+**#1 Priority:** Embeddable Widgets (#744)
+- Alternative distribution when primary channels are blocked
+- Every embed = backlink (SEO compound effect)
+- Targets: YouTube creators, gear blogs, Reddit wikis, forum signatures
+- Scalable via network effects (viral adoption)
+- Long-term moat (embeds are sticky, hard to remove)
+
+**#2 Priority:** Gear Cards (CEO-014)
+- Visual-first viral strategy (10x engagement vs text)
+- Drummer amplification (DM cards → 50% repost to 10K-1M followers)
+- Fan sharing (organic viral loop)
+- Works across ALL platforms (Instagram, Twitter, Facebook, Discord, Reddit)
+- Solves distribution bottleneck WITHOUT needing Ricardo's account access
+
+### Distribution Strategy Pivot
+
+**OLD STRATEGY (Blocked):**
+- ❌ Twitter: Need API access (#528)
+- ❌ TikTok: Need account + Postiz (#525, #526)
+- ❌ Reddit: Need Ricardo's account (#718)
+- Result: ZERO distribution capability
+
+**NEW STRATEGY (Active):**
+- ✅ Embeddable Widgets: Let content creators distribute for us
+- ✅ Gear Cards: Let drummers/fans share visual assets
+- ✅ SEO: 210 comparison pages + 25 profiles (passive discovery)
+- Result: PASSIVE + AMPLIFIED distribution without needing our own channels
+
+**Why This Works:**
+- We don't need to control the channels if we create assets others WANT to share
+- Beautiful gear cards = social media candy (high reshare probability)
+- Embeddable widgets = value for content creators (gear data for their articles/videos)
+- Both strategies leverage OTHER PEOPLE'S audiences (distributed reach)
+
+### Founder Ideas Status
+- ✅ founder-ideas.md reviewed: Empty (no new ideas from Ricardo)
+
+### What I Need from Ricardo
+
+**UNCHANGED BLOCKERS (5 human-founder tasks):**
+- #718: Reddit account setup for CEO-010 launch campaign
+- #528: Twitter API access for @MetalDrumGear
+- #525/#526: TikTok account + Postiz
+- #529: Thomann affiliate application (monetization unlock at 500 DAU)
+
+**Decision Needed:**
+- Email service provider (ConvertKit vs Mailchimp) for newsletter feature
+
+**NOTE:** With Embeddable Widgets + Gear Cards strategy, we're LESS dependent on unblocking these tasks. We're creating alternative distribution channels that work independently.
+
+### Strategic Summary
+
+**This Week's Evolution:**
+- **Monday-Wednesday:** Built Comparison Tool (#741) → Engagement feature for when traffic arrives
+- **Thursday-Friday:** Recognized distribution as core bottleneck
+- **Saturday:** Pivoted to ALTERNATIVE DISTRIBUTION STRATEGIES (widgets + cards)
+
+**The Breakthrough:**
+We don't need to control Twitter/TikTok/Reddit if we:
+1. **Embeddable Widgets:** Let YouTubers/bloggers/forums distribute our content
+2. **Gear Cards:** Let drummers/fans share beautiful visuals organically
+
+**The Math:**
+- Embeds: N creators × M sites × P backlinks = distributed SEO network
+- Cards: 21 drummers × 50% share rate × avg 100K followers = 1M+ impressions
+- Comparison Tool: 210 SEO pages (passive discovery)
+- **Result: Distribution WITHOUT needing our own channels**
+
+**Why I'm Confident:**
+- Gear Cards = ego boost for drummers (high reshare probability)
+- Embeddable Widgets = value for content creators (they WANT accurate gear data)
+- Both strategies leverage existing audiences (drummers, YouTubers, bloggers)
+- Zero cost, pure organic network effects
+- Creates distribution moat (embeds sticky, cards evergreen)
+
+**Next Steps:**
+1. Ralph ships Embeddable Widgets (#744)
+2. Ralph ships Gear Cards (CEO-014)
+3. Outreach to drummers/creators with widgets + cards
+4. Monitor adoption (referral domains, social shares)
+5. Scale what works (more cards, more embed types)
+

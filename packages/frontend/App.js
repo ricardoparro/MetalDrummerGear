@@ -356,6 +356,26 @@ function getSignatureGearDrummerSlugFromURL() {
 }
 function updateSignatureGearMeta(gear) { return _signatureGearModule?.updateSignatureGearMeta?.(gear); }
 
+// Gear Cards Gallery (Issue #747) - Auto-generated drummer gear cards for viral social sharing
+// URL: /cards, /gear-cards
+// Lazy loaded for performance optimization - 20KB component
+const LazyGearCardsGalleryPage = lazy(() => import('./components/GearCardsGallery').then(m => ({ default: m.GearCardsGalleryPage })));
+let _gearCardsModule = null;
+let _gearCardsLoadPromise = null;
+const loadGearCards = () => import('./components/GearCardsGallery');
+
+function preloadGearCards() {
+  if (!_gearCardsLoadPromise) {
+    _gearCardsLoadPromise = loadGearCards().then(m => { _gearCardsModule = m; return m; });
+  }
+  return _gearCardsLoadPromise;
+}
+function isGearCardsPage() { 
+  return _gearCardsModule?.isGearCardsPage?.() ?? (typeof window !== 'undefined' && 
+    (window.location.pathname === '/cards' || window.location.pathname === '/gear-cards')); 
+}
+function updateGearCardsMeta() { return _gearCardsModule?.updateGearCardsMeta?.(); }
+
 // Extended bios for drummer detail pages (Issue #305)
 // Loaded dynamically for code splitting (~9KB of text data) - TBT optimization #460
 // Fix for #541: Added Promise caching and listeners for reliable async loading
@@ -21057,6 +21077,9 @@ function AppContent() {
   const [showSignatureGear, setShowSignatureGear] = useState(() => isSignatureGearPage());
   const [signatureGearSlug, setSignatureGearSlug] = useState(() => getSignatureGearSlugFromURL());
   
+  // Gear Cards Gallery state (Issue #747) - /cards, /gear-cards
+  const [showGearCards, setShowGearCards] = useState(() => isGearCardsPage());
+  
   const [showGearFinder, setShowGearFinder] = useState(() => isGearFinderPage());
   const [selectedGear, setSelectedGear] = useState(null);
   const [loadingGear, setLoadingGear] = useState(false);
@@ -22540,6 +22563,7 @@ function AppContent() {
         const gearSlug = getSignatureGearSlugFromURL();
         setShowSignatureGear(true);
         setSignatureGearSlug(gearSlug);
+        setShowGearCards(false);
         setShowToolsHub(false);
         setShowGearComparisonTool(false);
         setShowGearSearch(false);
@@ -22586,11 +22610,63 @@ function AppContent() {
         setSelectedGear(null);
         // Preload the component
         preloadSignatureGear();
+      } else if (isGearCardsPage()) {
+        // Gear Cards Gallery (Issue #747) - /cards, /gear-cards
+        setShowGearCards(true);
+        setShowToolsHub(false);
+        setShowGearComparisonTool(false);
+        setShowGearSearch(false);
+        setShowGearBrand(false);
+        setGearBrandSlug(null);
+        setShowNameGenerator(false);
+        setShowBeginnerGuide(false);
+        setShowGuidesHub(false);
+        setShowGuide(false);
+        setGuideSlug(null);
+        setShowArticle(false);
+        setArticleSlug(null);
+        setShowList(false);
+        setListSlug(null);
+        setShowNewsPage(false);
+        setShowGearNewsPage(false);
+        setShowGearStats(false);
+        setShowTechniquesIndex(false);
+        setShowTechniqueDetail(false);
+        setTechniqueSlug(null);
+        setShowGearComparisonsIndex(false);
+        setShowGearComparison(false);
+        setGearComparisonSlug(null);
+        setShowGenresList(false);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowKitBuilder(false);
+        setShowKitQuiz(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowBattlePage(false);
+        setBattleSlug(null);
+        setShowTimelinePage(false);
+        setShowSignatureGear(false);
+        setSignatureGearSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+        // Preload the component
+        preloadGearCards();
       } else if (isGearBrandPage()) {
         // Gear Brand page (Issue #719) - /gear/:brand
         const slug = getGearBrandSlugFromURL();
         setShowGearBrand(true);
         setGearBrandSlug(slug);
+        setShowGearCards(false);
         setShowGearSearch(false);
         setShowNameGenerator(false);
         setShowGearComparisonTool(false);
@@ -22789,6 +22865,7 @@ function AppContent() {
         setSelectedGear(null);
       } else {
         // Back to home page
+        setShowGearCards(false);
         setShowCompare(false);
         setShowQuiz(false);
         setShowPrivacy(false);
@@ -24451,6 +24528,24 @@ setShowList(false);
               }
             }}
             onSelectDrummer={handleSelectDrummer}
+          />
+        </Suspense>
+      );
+    }
+    // Gear Cards Gallery (Issue #747) - /cards, /gear-cards
+    // Auto-generated drummer gear cards for viral social sharing
+    if (showGearCards) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyGearCardsGalleryPage
+            theme={theme}
+            onClose={() => {
+              setShowGearCards(false);
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
           />
         </Suspense>
       );

@@ -8218,10 +8218,9 @@ He didn't just invent heavy metal drumming. He proved that jazz and metal were n
 
 🤘 *The Godfather of Metal. Forever.* 🤘`
     }
-  }
-};
+  },
 
-'symbolic-drum-setup': {
+  'symbolic-drum-setup': {
     slug: 'symbolic-drum-setup',
     albumTitle: 'Symbolic',
     artist: 'Death',
@@ -8502,7 +8501,8 @@ Chuck Schuldiner passed away in 2001, but his music lives on. And Gene Hoglan's 
 
 🤘 *The Atomic Clock at his finest. Technical death metal perfected.* 🤘`
     }
-  },
+  }
+};
 
 // Helper functions
 export function getAlbumArticleBySlug(slug) {

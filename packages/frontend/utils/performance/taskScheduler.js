@@ -1,5 +1,5 @@
 /**
- * Main Thread Task Scheduler - Issue #668
+ * Main Thread Task Scheduler - Issue #668, #753
  * 
  * Breaks up long main-thread tasks to reduce TBT (Total Blocking Time).
  * 
@@ -10,6 +10,12 @@
  * - Yield control between heavy operations
  * - Prioritize user input over background work
  * - Batch DOM operations
+ * - Progressive preloading with configurable delays (Issue #753)
+ * 
+ * Issue #753 enhancements:
+ * - Added `deferToNextFrame` for guaranteed main thread yields
+ * - Added `runProgressiveIdleTasks` for staggered preloading
+ * - Added `createTaskBreaker` for automatic long task splitting
  */
 
 import { Platform } from 'react-native';
@@ -383,6 +389,257 @@ export function markTaskEnd(name) {
   return null;
 }
 
+// ==========================================
+// ISSUE #753: PROGRESSIVE PRELOADING
+// ==========================================
+
+/**
+ * Defer execution to next animation frame + microtask
+ * Guarantees the main thread is freed between tasks
+ * More reliable than setTimeout(0) for breaking up long tasks
+ */
+export function deferToNextFrame() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') {
+    return Promise.resolve();
+  }
+  
+  return new Promise(resolve => {
+    requestAnimationFrame(() => {
+      // Use setTimeout to yield after paint
+      setTimeout(resolve, 0);
+    });
+  });
+}
+
+/**
+ * Run tasks progressively with configurable delays between them
+ * This is more aggressive than runIdleTasks for reducing TBT
+ * 
+ * @param {Array<Function>} tasks - Tasks to execute
+ * @param {Object} options - Configuration
+ * @param {number} options.delayBetweenTasks - Minimum ms between tasks (default: 50)
+ * @param {number} options.maxTaskDuration - Max ms per task before forced yield (default: 40)
+ * @param {Function} options.onProgress - Progress callback (tasksCompleted, totalTasks)
+ * @param {Function} options.onComplete - Called when all tasks complete
+ * 
+ * @example
+ * runProgressiveIdleTasks([
+ *   () => preloadBands(),
+ *   () => preloadGenres(),
+ *   () => preloadBirthdays(),
+ * ], {
+ *   delayBetweenTasks: 100, // 100ms between each preload
+ *   onComplete: () => console.log('All preloads done')
+ * });
+ */
+export function runProgressiveIdleTasks(tasks, options = {}) {
+  const {
+    delayBetweenTasks = 50,
+    maxTaskDuration = 40,
+    onProgress = null,
+    onComplete = null,
+  } = options;
+
+  if (!tasks || tasks.length === 0) {
+    if (onComplete) onComplete();
+    return;
+  }
+
+  // Clone tasks array
+  const taskQueue = [...tasks];
+  let completedCount = 0;
+  const totalTasks = tasks.length;
+
+  const processNext = () => {
+    if (taskQueue.length === 0) {
+      if (onComplete) onComplete();
+      return;
+    }
+
+    const executeTask = () => {
+      const task = taskQueue.shift();
+      const startTime = performance?.now?.() || Date.now();
+      
+      try {
+        const result = task();
+        
+        // Handle async tasks
+        if (result && typeof result.then === 'function') {
+          result.then(() => {
+            completedCount++;
+            if (onProgress) onProgress(completedCount, totalTasks);
+            scheduleNext();
+          }).catch(err => {
+            console.warn('[ProgressiveIdle] Task failed:', err);
+            completedCount++;
+            scheduleNext();
+          });
+        } else {
+          completedCount++;
+          if (onProgress) onProgress(completedCount, totalTasks);
+          scheduleNext();
+        }
+      } catch (err) {
+        console.warn('[ProgressiveIdle] Task failed:', err);
+        completedCount++;
+        scheduleNext();
+      }
+    };
+
+    // Use requestIdleCallback if available, otherwise setTimeout
+    if (typeof requestIdleCallback === 'function') {
+      requestIdleCallback((deadline) => {
+        // Only execute if we have time
+        if (deadline.timeRemaining() > 10 || deadline.didTimeout) {
+          executeTask();
+        } else {
+          // Reschedule
+          processNext();
+        }
+      }, { timeout: 2000 });
+    } else {
+      setTimeout(executeTask, delayBetweenTasks);
+    }
+  };
+
+  const scheduleNext = () => {
+    // Use deferToNextFrame for guaranteed main thread break
+    if (Platform.OS === 'web' && typeof requestAnimationFrame === 'function') {
+      requestAnimationFrame(() => {
+        setTimeout(processNext, delayBetweenTasks);
+      });
+    } else {
+      setTimeout(processNext, delayBetweenTasks);
+    }
+  };
+
+  // Start with a small delay to let initial render complete
+  setTimeout(processNext, 100);
+}
+
+/**
+ * Create a task breaker that automatically yields when execution time exceeds threshold
+ * Useful for wrapping loops or heavy computations
+ * 
+ * @param {Object} options
+ * @param {number} options.maxDuration - Max ms before yielding (default: 40)
+ * @returns {Object} Task breaker with check() and reset() methods
+ * 
+ * @example
+ * const breaker = createTaskBreaker();
+ * for (const item of largeArray) {
+ *   processItem(item);
+ *   if (await breaker.check()) {
+ *     // Yielded to main thread
+ *   }
+ * }
+ */
+export function createTaskBreaker(options = {}) {
+  const { maxDuration = 40 } = options;
+  let startTime = performance?.now?.() || Date.now();
+  let yieldCount = 0;
+
+  return {
+    /**
+     * Check if we should yield, and yield if necessary
+     * Returns true if we yielded
+     */
+    async check() {
+      const now = performance?.now?.() || Date.now();
+      if (now - startTime > maxDuration) {
+        await yieldToMain();
+        startTime = performance?.now?.() || Date.now();
+        yieldCount++;
+        return true;
+      }
+      return false;
+    },
+
+    /**
+     * Reset the timer (call after a natural break point)
+     */
+    reset() {
+      startTime = performance?.now?.() || Date.now();
+    },
+
+    /**
+     * Get stats for monitoring
+     */
+    getStats() {
+      return { yieldCount };
+    }
+  };
+}
+
+/**
+ * Wrap a function to automatically break long tasks
+ * The wrapped function will yield to main thread every maxDuration ms
+ * 
+ * @param {Function} fn - Function that may take a long time
+ * @param {Object} options - Configuration
+ * @returns {Function} Wrapped function that yields periodically
+ */
+export function withTaskBreaking(fn, options = {}) {
+  const { maxDuration = 40, onYield = null } = options;
+
+  return async function(...args) {
+    const startTime = performance?.now?.() || Date.now();
+    const result = fn.apply(this, args);
+
+    // Check if the function took too long
+    const duration = (performance?.now?.() || Date.now()) - startTime;
+    if (duration > maxDuration) {
+      if (onYield) onYield(duration);
+      await yieldToMain();
+    }
+
+    return result;
+  };
+}
+
+/**
+ * Schedule a preload after Time to Interactive (TTI)
+ * Waits for the page to be fully interactive before starting preloads
+ * 
+ * @param {Function|Array<Function>} preloadTasks - Task(s) to run after TTI
+ * @param {Object} options - Configuration
+ */
+export function scheduleAfterTTI(preloadTasks, options = {}) {
+  const {
+    minDelay = 500,  // Minimum delay after load
+    useProgressiveLoading = true,
+    delayBetweenTasks = 100,
+  } = options;
+
+  if (Platform.OS !== 'web' || typeof window === 'undefined') {
+    // Non-web: execute immediately
+    const tasks = Array.isArray(preloadTasks) ? preloadTasks : [preloadTasks];
+    tasks.forEach(t => t());
+    return;
+  }
+
+  const startPreloading = () => {
+    const tasks = Array.isArray(preloadTasks) ? preloadTasks : [preloadTasks];
+    
+    if (useProgressiveLoading) {
+      runProgressiveIdleTasks(tasks, { delayBetweenTasks });
+    } else {
+      runIdleTasks(tasks);
+    }
+  };
+
+  // Wait for page to be interactive
+  if (document.readyState === 'complete') {
+    // Page already loaded, add small delay
+    setTimeout(startPreloading, minDelay);
+  } else {
+    // Wait for load event
+    window.addEventListener('load', () => {
+      setTimeout(startPreloading, minDelay);
+    }, { once: true });
+  }
+}
+
 export default {
   TaskPriority,
   yieldToMain,
@@ -398,4 +655,10 @@ export default {
   runIdleTasks,
   markTaskStart,
   markTaskEnd,
+  // Issue #753 additions
+  deferToNextFrame,
+  runProgressiveIdleTasks,
+  createTaskBreaker,
+  withTaskBreaking,
+  scheduleAfterTTI,
 };

@@ -77,3 +77,16 @@ export {
   updateGearCardsMeta,
   trackCardEvent
 } from './GearCardsGallery';
+
+// Signature Licks Database (Issue #749)
+export {
+  LicksHubPage,
+  LickDetailPage,
+  isLicksHubPage,
+  isLickDetailPage,
+  isLicksPage,
+  getDrummerSlugFromLicksURL,
+  getLickSlugFromURL,
+  updateLickMeta,
+  updateLicksHubMeta
+} from './SignatureLicks';

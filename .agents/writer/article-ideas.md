@@ -269,6 +269,7 @@
 | 2026-03-21 | Ashes of the Wake Drum Setup: Chris Adler | /articles/ashes-of-the-wake-drum-setup | - |
 | 2026-03-21 | What's In Flo Mounier's Extreme Arsenal | /articles/whats-in-flo-mouniers-kit | - |
 | 2026-03-22 | What's In Pete Sandoval's Morbid Angel Arsenal | /articles/whats-in-pete-sandovals-kit | - |
+| 2026-03-22 | What's In George Kollias' Speed Arsenal | /articles/whats-in-george-kollias-kit | - |
 
 ---
 
@@ -784,7 +785,7 @@
 
 ---
 
-### 💡 [IDEA-040] What's In George Kollias' Speed Arsenal
+### ✅ [IDEA-040] What's In George Kollias' Speed Arsenal
 
 **Type:** drummer-kit
 **SEO Keywords:** george kollias drum kit, nile drummer, george kollias setup, fastest drummer, extreme metal
@@ -794,13 +795,13 @@
 
 **Outline:**
 1. Introduction — The Speed Demon of Death Metal
-2. Current Pearl Reference Setup
+2. Current Pearl Masterworks Setup
 3. Demon Drive Pedal Mastery
 4. Signature Techniques (heel-toe, sustained blasts)
 5. Educational Impact (Drumeo, clinics)
 6. Where to Buy Similar Gear
 
-**Status:** IDEA (added 2026-03-22)
+**Status:** PUBLISHED (2026-03-22) — /articles/whats-in-george-kollias-kit
 
 ---
 
@@ -820,4 +821,4 @@
 
 ---
 
-*Last updated: 2026-03-22 09:05*
+*Last updated: 2026-03-22 13:00*

@@ -270,6 +270,7 @@
 | 2026-03-21 | What's In Flo Mounier's Extreme Arsenal | /articles/whats-in-flo-mouniers-kit | - |
 | 2026-03-22 | What's In Pete Sandoval's Morbid Angel Arsenal | /articles/whats-in-pete-sandovals-kit | - |
 | 2026-03-22 | What's In George Kollias' Speed Arsenal | /articles/whats-in-george-kollias-kit | - |
+| 2026-03-22 | Altars of Madness Drum Setup: Pete Sandoval | /articles/altars-of-madness-drum-setup | - |
 
 ---
 
@@ -745,7 +746,7 @@
 
 ---
 
-### 💡 [IDEA-038] Altars of Madness Drum Setup: Pete Sandoval's Death Metal Genesis
+### ✅ [IDEA-038] Altars of Madness Drum Setup: Pete Sandoval's Death Metal Genesis
 
 **Type:** album-breakdown
 **SEO Keywords:** altars of madness drums, pete sandoval 1989 kit, morbid angel drum sound, morrisound recording
@@ -753,15 +754,7 @@
 **Data Available:** Yes (just wrote the kit article)
 **Priority:** 5
 
-**Outline:**
-1. Introduction — The Album That Invented Death Metal Drumming
-2. Studio Setup at Morrisound Recording
-3. "Immortal Rites" / "Chapel of Ghouls" Breakdowns
-4. Scott Burns' Recording Techniques
-5. Gear Breakdown (drums, cymbals, pedals)
-6. How This Album Influenced Every Death Metal Drummer
-
-**Status:** IDEA (added 2026-03-22)
+**Status:** PUBLISHED (2026-03-22) — /articles/altars-of-madness-drum-setup
 
 ---
 
@@ -821,4 +814,4 @@
 
 ---
 
-*Last updated: 2026-03-22 13:00*
+*Last updated: 2026-03-22 17:10*

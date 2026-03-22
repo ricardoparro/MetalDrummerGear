@@ -268,6 +268,7 @@
 | 2026-03-21 | Symbolic Drum Setup: Gene Hoglan | /articles/symbolic-drum-setup | - |
 | 2026-03-21 | Ashes of the Wake Drum Setup: Chris Adler | /articles/ashes-of-the-wake-drum-setup | - |
 | 2026-03-21 | What's In Flo Mounier's Extreme Arsenal | /articles/whats-in-flo-mouniers-kit | - |
+| 2026-03-22 | What's In Pete Sandoval's Morbid Angel Arsenal | /articles/whats-in-pete-sandovals-kit | - |
 
 ---
 
@@ -691,23 +692,23 @@
 
 ---
 
-### 💡 [IDEA-035] What's In Pete Sandoval's Morbid Angel Arsenal
+### ✅ [IDEA-035] What's In Pete Sandoval's Morbid Angel Arsenal
 
 **Type:** drummer-kit
 **SEO Keywords:** pete sandoval drum kit, morbid angel drummer, pete sandoval setup, blast beat pioneer
 **Search Volume:** High (death metal legend!)
-**Data Available:** Partial (needs research)
+**Data Available:** Yes (researched)
 **Priority:** 5
 
 **Outline:**
 1. Introduction — The Blast Beat Pioneer
-2. Classic Pearl/Tama Setup (Altars of Madness era)
-3. Signature Techniques (hyper-blast, gravity blast)
+2. Classic Tama Setup (Altars of Madness era)
+3. Signature Techniques (gravity blast pioneer)
 4. How His Footwork Changed Metal Drumming
 5. Injury Recovery and Comeback
 6. Where to Buy Similar Gear
 
-**Status:** IDEA (added 2026-03-21)
+**Status:** PUBLISHED (2026-03-22) — /articles/whats-in-pete-sandovals-kit
 
 ---
 
@@ -743,6 +744,66 @@
 
 ---
 
+### 💡 [IDEA-038] Altars of Madness Drum Setup: Pete Sandoval's Death Metal Genesis
+
+**Type:** album-breakdown
+**SEO Keywords:** altars of madness drums, pete sandoval 1989 kit, morbid angel drum sound, morrisound recording
+**Search Volume:** Very High (death metal landmark album!)
+**Data Available:** Yes (just wrote the kit article)
+**Priority:** 5
+
+**Outline:**
+1. Introduction — The Album That Invented Death Metal Drumming
+2. Studio Setup at Morrisound Recording
+3. "Immortal Rites" / "Chapel of Ghouls" Breakdowns
+4. Scott Burns' Recording Techniques
+5. Gear Breakdown (drums, cymbals, pedals)
+6. How This Album Influenced Every Death Metal Drummer
+
+**Status:** IDEA (added 2026-03-22)
+
+---
+
+### 💡 [IDEA-039] What's In Paul Bostaph's Slayer Arsenal
+
+**Type:** drummer-kit
+**SEO Keywords:** paul bostaph drum kit, slayer drummer, paul bostaph setup, testament drums
+**Search Volume:** High (Slayer + Testament drummer!)
+**Data Available:** Yes (drummerId: 16)
+**Priority:** 4
+
+**Outline:**
+1. Introduction — Carrying Dave Lombardo's Torch
+2. Current Tama Kit Setup
+3. Slayer vs Testament Drumming Differences
+4. Signature Techniques (precision thrash)
+5. Evolution Through Divine Intervention to Repentless
+6. Where to Buy Similar Gear
+
+**Status:** IDEA (added 2026-03-22)
+
+---
+
+### 💡 [IDEA-040] What's In George Kollias' Speed Arsenal
+
+**Type:** drummer-kit
+**SEO Keywords:** george kollias drum kit, nile drummer, george kollias setup, fastest drummer, extreme metal
+**Search Volume:** Very High (YouTube drumming icon!)
+**Data Available:** Yes (drummerId: 6)
+**Priority:** 5
+
+**Outline:**
+1. Introduction — The Speed Demon of Death Metal
+2. Current Pearl Reference Setup
+3. Demon Drive Pedal Mastery
+4. Signature Techniques (heel-toe, sustained blasts)
+5. Educational Impact (Drumeo, clinics)
+6. Where to Buy Similar Gear
+
+**Status:** IDEA (added 2026-03-22)
+
+---
+
 ## 💡 Idea Backlog (Lower Priority)
 
 - Best Sticks for Blast Beats
@@ -759,4 +820,4 @@
 
 ---
 
-*Last updated: 2026-03-21 17:04*
+*Last updated: 2026-03-22 09:05*

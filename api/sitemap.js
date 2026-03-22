@@ -216,6 +216,39 @@ const signatureGearPages = [
   // { drummerSlug: 'gene-hoglan', gearSlug: 'gene-hoglan-pearl-reference-kit', name: 'Pearl Reference Pure Kit' },
 ];
 
+// Issue #749: Signature Licks Database pages
+const signatureLicksPages = [
+  // Joey Jordison licks
+  { drummerSlug: 'joey-jordison', lickSlug: 'joey-jordison-heretic-anthem-intro', name: 'Heretic Anthem Intro' },
+  { drummerSlug: 'joey-jordison', lickSlug: 'joey-jordison-eyeless-blast', name: 'Eyeless Blast Section' },
+  { drummerSlug: 'joey-jordison', lickSlug: 'joey-jordison-disasterpiece-chaos', name: 'Disasterpiece Chaos Fill' },
+  // Lars Ulrich licks
+  { drummerSlug: 'lars-ulrich', lickSlug: 'lars-ulrich-one-intro', name: 'One Intro Pattern' },
+  { drummerSlug: 'lars-ulrich', lickSlug: 'lars-ulrich-enter-sandman-groove', name: 'Enter Sandman Main Groove' },
+  { drummerSlug: 'lars-ulrich', lickSlug: 'lars-ulrich-master-of-puppets-gallop', name: 'Master of Puppets Gallop' },
+  // Dave Lombardo licks
+  { drummerSlug: 'dave-lombardo', lickSlug: 'dave-lombardo-angel-of-death-chaos', name: 'Angel of Death Opening' },
+  { drummerSlug: 'dave-lombardo', lickSlug: 'dave-lombardo-raining-blood-double-bass', name: 'Raining Blood Double Bass' },
+  { drummerSlug: 'dave-lombardo', lickSlug: 'dave-lombardo-seasons-thrash', name: 'Seasons in the Abyss Groove' },
+  // George Kollias licks
+  { drummerSlug: 'george-kollias', lickSlug: 'george-kollias-gravity-blast', name: 'Nile Gravity Blast Pattern' },
+  { drummerSlug: 'george-kollias', lickSlug: 'george-kollias-polyrhythmic-mayhem', name: 'Polyrhythmic Death Metal Pattern' },
+  { drummerSlug: 'george-kollias', lickSlug: 'george-kollias-sustained-blast', name: 'Sustained 250+ BPM Blast' },
+  // Mario Duplantier licks
+  { drummerSlug: 'mario-duplantier', lickSlug: 'mario-duplantier-polyrhythmic-groove', name: 'Gojira Polyrhythmic Groove' },
+  { drummerSlug: 'mario-duplantier', lickSlug: 'mario-duplantier-blast-variation', name: 'Gojira Blast Variation' },
+  { drummerSlug: 'mario-duplantier', lickSlug: 'mario-duplantier-backbone-groove', name: 'Backbone Main Groove' },
+];
+
+// Drummers with licks hub pages
+const drummerLicksHubs = [
+  { drummerSlug: 'joey-jordison', name: 'Joey Jordison' },
+  { drummerSlug: 'lars-ulrich', name: 'Lars Ulrich' },
+  { drummerSlug: 'dave-lombardo', name: 'Dave Lombardo' },
+  { drummerSlug: 'george-kollias', name: 'George Kollias' },
+  { drummerSlug: 'mario-duplantier', name: 'Mario Duplantier' },
+];
+
 const BASE_URL = 'https://metalforge.io';
 
 function generateSlug(name) {
@@ -281,6 +314,9 @@ export default function handler(req, res) {
     ...drummerComparisons.map(c => ({ loc: `/vs/${c.slug}`, priority: '0.7', changefreq: 'monthly' })),
     // Issue #739: Signature Gear Spotlight pages
     ...signatureGearPages.map(sg => ({ loc: `/drummers/${sg.drummerSlug}/signature/${sg.gearSlug}`, priority: '0.85', changefreq: 'monthly' })),
+    // Issue #749: Signature Licks Database pages
+    ...drummerLicksHubs.map(d => ({ loc: `/drummers/${d.drummerSlug}/licks`, priority: '0.9', changefreq: 'weekly' })),
+    ...signatureLicksPages.map(sl => ({ loc: `/drummers/${sl.drummerSlug}/licks/${sl.lickSlug}`, priority: '0.85', changefreq: 'monthly' })),
   ];
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">

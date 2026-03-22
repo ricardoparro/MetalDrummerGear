@@ -28,6 +28,86 @@
 
 ## 📥 Novas Ideias
 
+### 💡 [CEO-015] "Drummer Gear Evolution Timeline" — Visual History of Setup Changes
+
+**Origem:** Content depth analysis — We show current setups, but drummers' gear EVOLVES over decades (nostalgia + storytelling gold)
+
+**Hipótese:** Se criarmos timelines visuais mostrando a evolução dos setups ao longo da carreira então:
+- **Nostalgia Searches:** Captures "[drummer] 1980s drums", "[drummer] classic setup"
+- **Visual Storytelling:** Timeline graphics = highly shareable (Instagram carousels, Twitter threads)
+- **Content Depth:** Multiplies value per drummer (1 drummer → 4-5 eras of content)
+- **Historical Authority:** Unique content nobody else has (competitive moat)
+- **Fan Engagement:** Sparks discussions ("Remember when Lars played Export Series?")
+- **Multiple Entry Points:** Users searching any era → discover current setup
+- **Viral Potential:** "How [Drummer]'s Setup Changed Over 30 Years" = YouTube/blog bait
+- **Evergreen Content:** Historical data doesn't expire
+- **Research Value:** Becomes reference source for gear historians, forums, Wikipedia
+- **Brand Differentiation:** Transforms MetalForge from "database" to "archive"
+
+**Impacto Curto (1-7d):** ⭐⭐ (Research-intensive, slower initial traction)
+**Impacto Médio (1-3m):** ⭐⭐⭐ (SEO compound, backlink magnet, content depth establishes authority)
+**Impacto Longo (3-12m):** ⭐⭐⭐ (Defensible moat, historical archive status, Wikipedia citations)
+**Score Total:** 8⭐
+
+**Implementation:**
+- **Timeline Page:** `/[drummer]/evolution` (e.g., `/lars-ulrich/evolution`)
+- **Era Sections:**
+  - 1980s: Early career (Metallica Kill 'Em All era)
+  - 1990s: Peak success (Black Album, Load/Reload)
+  - 2000s: Modern refinement (Death Magnetic)
+  - 2010s-Present: Current setup
+- **Content Per Era:**
+  - Gear photos (drums, cymbals, hardware)
+  - Setup description + cost (adjusted for inflation)
+  - Notable recordings/tours with that setup
+  - Why changes happened (endorsements, sound evolution, tech advances)
+  - Video embeds (live footage from that era)
+- **Visual Design:**
+  - Vertical timeline (mobile-friendly)
+  - Side-by-side comparisons (swipeable)
+  - Animated transitions (scroll-triggered)
+- **Schema.org:** HistoricalEvent markup for each era
+
+**Research Sources:**
+- Concert footage / live DVDs (visual confirmation)
+- Drummer interviews ("I switched to Paiste in 1992 because...")
+- Gear forums / archives (DrummerWorld, vintagedrumforum)
+- Album credits / liner notes
+- Endorsement deal announcements
+- Magazine interviews (Modern Drummer archives)
+
+**Phased Rollout:**
+1. **Phase 1:** Pick 3 iconic drummers with well-documented careers:
+   - Lars Ulrich (Metallica) — 40+ years, major gear shifts
+   - Joey Jordison (Slipknot) — clear progression, extensive footage
+   - Dave Lombardo (Slayer) — long career, multiple endorsements
+2. **Phase 2:** Add 5 more drummers with rich histories
+3. **Phase 3:** Systematic rollout to all 21 drummers
+
+**Distribution Strategy:**
+- **Reddit Launch:** r/Metallica, r/Metal — "How Lars Ulrich's Drum Setup Evolved (1983-2024)"
+- **YouTube Collaboration:** Reach out to drum history channels (Drum History podcast, etc.)
+- **Forum Embeds:** DrummerWorld, Modern Drummer forums cite our timelines
+- **Wikipedia Integration:** Become cited source for drummer Wikipedia pages
+- **Social Media Series:** Weekly "Throwback Thursday" featuring era-specific setups
+- **Email Newsletter:** "This Week in Drummer History" (when email is ready)
+
+**Métrica de sucesso:**
+- 3 complete timelines published in 2 weeks
+- 300+ page views per timeline (first week)
+- Ranks for "[drummer] 1980s setup" within 3 weeks
+- 5+ backlinks from gear forums / Wikipedia
+- 20+ social shares per timeline
+- 15% conversion to current setup page (discovery funnel)
+- Cited in at least 1 YouTube video / podcast
+- Average time on page: 3+ minutes (deep engagement)
+
+**Blockers externos:** Não (requires research time but no external dependencies)
+
+**Decisão:** IMPLEMENTAR (phased approach, start with Lars/Joey/Dave)
+
+**Data:** 2026-03-21
+
 ### 💡 [CEO-014] "Drummer Gear Cards" — Auto-Generated Social Graphics for Viral Spread
 
 **Origem:** Social media analysis — Visual content drives 10x more engagement than text; drummers/fans share beautiful gear visuals
@@ -510,6 +590,94 @@
 **Issue:** https://github.com/ricardoparro/MetalDrummerGear/issues/714
 
 **Data:** 2026-03-13 17:00
+
+### 💡 [CEO-016] "Drummer Signature Licks Database" — Video-First Discovery Engine
+
+**Origem:** Content gap analysis — We show gear, but not HOW drummers use it (the sound/technique that makes gear iconic)
+
+**Hipótese:** Se criarmos database de "Signature Licks" (iconic fills/beats) com video clips então:
+- **High-Intent Searches:** Captures "[drummer] signature fill", "how to play [song] drums", "[drummer] technique"
+- **Educational Value:** Users discover drummers via their SOUND (not just gear)
+- **Video SEO Goldmine:** YouTube embeds = rich results in Google (video thumbnails boost CTR 40%)
+- **Viral Sharing:** Short clips are Instagram/TikTok gold ("Master this Lars Ulrich fill in 30 seconds")
+- **Deeper Engagement:** Users watch videos → stay longer → discover gear
+- **Unique Content Angle:** Nobody connects gear → technique → video (we own this niche)
+- **Backlink Magnet:** Drum tutorial sites/forums cite our lick database
+- **Discovery Funnel:** "How do I play like Joey?" → watches lick → sees his gear → clicks affiliate
+- **Community Submissions:** Phase 2 lets users submit licks (UGC scaling)
+- **Quiz Integration:** "Guess the drummer from their signature lick" (gamification)
+
+**Impacto Curto (1-7d):** ⭐⭐ (Research + video curation upfront)
+**Impacto Médio (1-3m):** ⭐⭐⭐ (Video SEO compound, social virality, educational authority)
+**Impacto Longo (3-12m):** ⭐⭐⭐ (Defensible moat, YouTube partnership potential, UGC scaling)
+**Score Total:** 8⭐
+
+**Implementation:**
+- **Licks Page:** `/[drummer]/licks` (e.g., `/joey-jordison/licks`)
+- **Content Per Lick:**
+  - Video embed (YouTube timestamp link to exact moment)
+  - Lick name ("The Heretic Anthem Double Bass Blast")
+  - Difficulty (Beginner/Intermediate/Advanced)
+  - BPM + time signature
+  - Gear used for that lick (links to specific drums/cymbals)
+  - Transcription (optional: drum notation image)
+  - "Try This Lick" → links to similar technique tutorials
+- **Discovery Features:**
+  - Filter by difficulty/style/BPM
+  - "Random Lick" button (discovery gamification)
+  - "Lick of the Day" homepage widget
+  - Playlist view: Watch all Joey Jordison licks back-to-back
+- **Social Optimization:**
+  - Each lick gets shareable card (video thumbnail + MetalForge branding)
+  - Instagram Stories: "Can you name this fill?" (quiz format)
+  - TikTok potential: 15-second lick breakdowns with gear overlay
+
+**Phase 1 (Launch):**
+- Pick 5 drummers with iconic, well-documented licks:
+  - Joey Jordison: "Heretic Anthem intro", "Eyeless blast"
+  - Lars Ulrich: "One" intro, "Enter Sandman" groove
+  - Dave Lombardo: "Angel of Death" chaos, "Raining Blood" double bass
+  - George Kollias: Nile gravity blasts
+  - Mario Duplantier: Gojira polyrhythmic grooves
+- 3 licks per drummer (15 total licks)
+- Focus on ICONIC moments everyone recognizes
+
+**Research Sources:**
+- YouTube: Concert footage, drum cams, playthroughs
+- Drum tabs websites: Drummerworld, SongSterr (verify accuracy)
+- Drum teacher channels: Analyze what licks they teach (high search volume)
+- Reddit r/drums: "What's the hardest fill you learned?"
+- Modern Drummer magazine: "Greatest Fills of All Time" lists
+
+**SEO Strategy:**
+- Page title: "[Drummer] Signature Drum Fills & Licks | Video Breakdown | MetalForge"
+- Meta description: "Learn [Drummer]'s most iconic drum fills. Watch video breakdowns, see the gear used, master the techniques."
+- Schema.org: VideoObject + HowTo markup
+- YouTube video embeds with timestamps (rich results)
+- Internal linking: Lick pages ↔ Gear pages (discovery funnel)
+
+**Distribution:**
+- **Reddit Launch:** r/drums: "Cataloging the most iconic metal drum fills (with videos + gear)"
+- **YouTube Comments:** Link to relevant lick pages on drum tutorial videos
+- **Instagram Reels:** 30-second lick breakdowns with "Full breakdown: [link]"
+- **Email Newsletter:** "5 Fills That Changed Metal Drumming" (when email ready)
+- **Forum Signatures:** Drummerworld, Modern Drummer forums
+
+**Métrica de sucesso:**
+- 15 licks documented and live in 5 days
+- 200+ page views per lick page (first week)
+- Ranks for "[drummer] signature fill" within 2 weeks
+- Average time on page: 2+ minutes (video engagement)
+- 15% click-through from lick page → gear page (discovery funnel)
+- 10+ social shares per lick (Instagram/TikTok)
+- Cited in at least 2 drum tutorial YouTube videos / Reddit threads
+- "Lick of the Day" drives 50+ daily return visits
+
+**Blockers externos:** Não (requires video research but all content is publicly available on YouTube)
+
+**Decisão:** IMPLEMENTAR
+
+**Data:** 2026-03-22
 
 <!-- CEO adiciona novas ideias aqui -->
 

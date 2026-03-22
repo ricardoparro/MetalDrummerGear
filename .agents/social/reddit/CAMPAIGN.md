@@ -79,9 +79,22 @@
 ## Files
 
 - `CAMPAIGN.md` — This file (overview)
-- `posts/` — Ready-to-post content with UTM links
-- `karma-builder.md` — Comment templates for karma building (if new account)
+- `PROMPT.md` — Reddit agent instructions and posting protocol
+- `account-setup.md` — **→ Ricardo: Start here!** Account configuration guide
+- `tracking.md` — Post performance tracking (updated during campaign)
+- `karma-builder.md` — Guide for new account karma building (Option B)
+- `posts/` — Ready-to-post content with UTM links (6 posts prepared)
 
 ---
 
-*Created: 2026-03-22 | CEO-010 implementation*
+## Next Steps
+
+1. **Ricardo:** Review `account-setup.md` and choose Option A or B
+2. **Ricardo:** Comment on Issue #718 with decision
+3. **Agent:** Once account is ready, update status to ACTIVE
+4. **Agent:** Execute campaign per schedule
+
+---
+
+*Created: 2026-03-22 | CEO-010 implementation*  
+*Updated: 2026-03-22 | Added agent prompt, setup guide, tracking*

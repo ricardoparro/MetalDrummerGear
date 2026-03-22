@@ -141,11 +141,48 @@ If browser automation fails with "tab not found" or "no tab connected":
 - AppleScript can click the extension button in Chrome toolbar
 - If AppleScript fails, report to Ricardo for manual intervention
 
+## Reddit Campaign (CEO-010)
+
+### Status
+⏸️ **WAITING FOR ACCOUNT** — Campaign ready, pending Reddit account setup.
+
+### Campaign Files
+- `reddit/CAMPAIGN.md` — Overview and schedule
+- `reddit/posts/` — Ready-to-post content (6 posts prepared)
+- `reddit/karma-builder.md` — New account karma guide
+
+### Target Subreddits
+| Subreddit | Members | Content |
+|-----------|---------|---------|
+| r/drums | 200K | Database, Beginner Guide |
+| r/Metal | 1.5M | Quiz, Stats |
+| r/Metalcore | 220K | Quiz, Statistics |
+| r/progmetal | 150K | Stats Deep Dive |
+| r/BeginnerDrummers | 50K | Beginner Guide |
+| r/MetalMemes | 200K+ | Name Generator |
+
+### Campaign Rules
+1. **Space posts 2-3 days apart** (no spam)
+2. **Value first** — be helpful, not promotional
+3. **Reply to ALL comments within 2h**
+4. **Check subreddit rules** before posting
+5. **Track UTM parameters** in GA4
+
+### To Launch Campaign
+1. Ricardo provides Reddit account access (Option A)
+   — OR —
+2. Create new account + build karma for 7 days (Option B)
+
+See `reddit/CAMPAIGN.md` for full details.
+
+---
+
 ## Files
 - `PROMPT.md` — This file
 - `social-metrics.json` — Follower tracking
 - `content-calendar.md` — Scheduled content ideas
 - `pending-posts.md` — Content ready when browser unavailable
+- `reddit/` — Reddit campaign materials (CEO-010)
 
 ---
 

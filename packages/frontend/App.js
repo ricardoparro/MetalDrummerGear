@@ -1,15 +1,27 @@
 // CRITICAL: Import CSS fix FIRST to patch CSSStyleDeclaration before any rendering
 import './fixCssStyles';
-// BUILD_TIMESTAMP: 2026-03-08T10:00:00Z - Mobile Performance Optimization (Issues #666, #667, #668, #669)
+// BUILD_TIMESTAMP: 2026-03-22T10:15:00Z - TBT Optimization (Issues #666, #667, #668, #669, #753)
 
 // Critical CSS injection - must be early for LCP optimization
 import { initCriticalCss, preloadLcpImage } from './utils/performance/criticalCss';
-import { yieldToMain, processInChunks, scheduleTask, TaskPriority, runIdleTasks } from './utils/performance/taskScheduler';
+import { yieldToMain, processInChunks, scheduleTask, TaskPriority, runIdleTasks, runProgressiveIdleTasks } from './utils/performance/taskScheduler';
 import { scheduleIdlePreload } from './utils/performance/lazyRoutes';
+// LCP Optimization (Issue #752) - Mobile LCP improvements
+import { 
+  getInlineSpotlight, 
+  hasInlineSpotlight, 
+  initLCPOptimizations, 
+  runAfterLCP,
+  getCachedSrcSet,
+  getCachedLocalImageUrl,
+  SPOTLIGHT_SIZES
+} from './utils/performance/lcpOptimization';
 
 // Initialize critical CSS immediately (sync, non-blocking)
 if (typeof window !== 'undefined') {
   initCriticalCss();
+  // LCP Optimization (Issue #752) - Initialize LCP monitoring early
+  initLCPOptimizations();
 }
 
 import { StatusBar } from 'expo-status-bar';
@@ -21479,40 +21491,47 @@ function AppContent() {
         document.body.classList.add('lcp-complete');
       });
       
-      // TBT Optimization (Issues #537, #668): Preload data modules during idle time
-      // This defers ~99KB of JavaScript parsing to after the page is interactive
-      // Using runIdleTasks to break up long tasks and prevent TBT spikes
+      // TBT Optimization (Issues #537, #668, #753): Preload data modules progressively
+      // This defers ~99KB+ of JavaScript parsing to after the page is interactive
+      // Issue #753: Use runProgressiveIdleTasks with 150ms delays to prevent TBT spikes
+      // Each preload is separated by enough time to allow user interactions
       const preloadTasks = [
-        // High priority: Most commonly navigated pages
-        () => preloadBands(),
-        () => preloadGenres(),
-        () => preloadBrands(), // Issue #656: Brand landing pages
+        // High priority: Most commonly navigated pages (small modules first)
+        () => preloadBands(),           // 35KB - Needed for band pages
+        () => preloadGenres(),          // 27KB - Genre landing pages
+        () => preloadBrands(),          // 29KB - Brand landing pages (Issue #656)
         // Medium priority: Secondary navigation
-        () => preloadBirthdays(),
-        () => preloadGearComparisons(),
+        () => preloadBirthdays(),       // 24KB - Birthday calendar
+        () => preloadGearComparisons(), // 34KB - Gear comparisons
         // Low priority: Less frequently accessed
-        () => preloadTechniques(),
-        () => preloadTop10Lists(),
-        () => preloadExtendedBios(),
-        () => preloadDrummerComparisons(), // Issue #558
-        // Lower priority: Content pages - Issue #708
-        () => preloadBattles(),       // 10KB - Homepage widget
-        () => preloadAlbumArticles(), // 182KB - Article pages
-        () => preloadSoundLikeGuides(), // 135KB - Guide pages
-        () => preloadBeginnerGuide(),   // 43KB - Beginner guide
+        () => preloadTechniques(),      // 43KB - Technique pages
+        () => preloadTop10Lists(),      // 40KB - Top 10 lists
+        () => preloadExtendedBios(),    // 559KB - Extended bios (HEAVY - load late)
+        () => preloadDrummerComparisons(), // 40KB - Drummer comparisons (Issue #558)
+        // Lowest priority: Content pages loaded only when needed - Issue #708
+        // These are deferred even more to reduce TBT impact
+        () => preloadBattles(),         // 10KB - Homepage widget
+        () => preloadSoundLikeGuides(), // 130KB - Guide pages
+        () => preloadBeginnerGuide(),   // 63KB - Beginner guide
         () => preloadNameGenerator(),   // 27KB - Name generator tool
         () => preloadGearSearch(),      // 62KB - Gear search engine (Issue #719)
+        // Note: preloadAlbumArticles (614KB) removed from initial preload - too heavy
+        // It will be loaded on-demand when user navigates to album article pages
       ];
       
-      // Use runIdleTasks for deadline-aware preloading
-      // This breaks up the work and yields to main thread between tasks
-      runIdleTasks(preloadTasks, () => {
-        // Mark preloading complete for monitoring
-        if (typeof window !== 'undefined' && window.gtag) {
-          window.gtag('event', 'preload_complete', {
-            event_category: 'Performance',
-            non_interaction: true,
-          });
+      // Issue #753: Use progressive preloading with 150ms delays between tasks
+      // This ensures the main thread is freed between each preload operation,
+      // reducing TBT from ~1270ms to target <200ms on mobile
+      runProgressiveIdleTasks(preloadTasks, {
+        delayBetweenTasks: 150, // 150ms between each preload
+        onComplete: () => {
+          // Mark preloading complete for monitoring
+          if (typeof window !== 'undefined' && window.gtag) {
+            window.gtag('event', 'preload_complete', {
+              event_category: 'Performance',
+              non_interaction: true,
+            });
+          }
         }
       });
     }

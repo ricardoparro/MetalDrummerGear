@@ -7,4 +7,6 @@ node scripts/generate-llms-index.cjs
 cd packages/frontend
 npx expo export --platform web --clear
 node scripts/inject-ga.cjs
+# LCP Optimization (#752): Inject modulepreload for main bundle
+node scripts/inject-bundle-preload.cjs
 cp -r ../../public/* dist/

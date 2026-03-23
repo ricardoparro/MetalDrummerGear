@@ -10261,7 +10261,7 @@ Playing Slayer's final note at the Forum was the culmination of Paul Bostaph's r
     ogImage: '/images/drummers/nicko-mcbrain.webp',
     intro: {
       title: "The Galloping Rhythm Machine: 40+ Years Behind Iron Maiden",
-      content: \`When you think of Iron Maiden's sound, you hear it instantly: the galloping bass drum pattern that drives "The Trooper," "Run to the Hills," and countless other anthems. What you might not realize is that every one of those thundering rhythms comes from a single foot.
+      content: `When you think of Iron Maiden's sound, you hear it instantly: the galloping bass drum pattern that drives "The Trooper," "Run to the Hills," and countless other anthems. What you might not realize is that every one of those thundering rhythms comes from a single foot.
 
 Nicko McBrain (born Michael Henry McBrain; June 5, 1952, in Hackney, London) has been Iron Maiden's drummer since 1982, making him one of the longest-tenured drummers in any major metal band. At over 70 years old, he still performs demanding two-plus hour shows with the energy and power that defined the New Wave of British Heavy Metal.
 
@@ -10271,7 +10271,7 @@ What makes Nicko truly exceptional is his single bass drum philosophy. While mos
 
 His Sonor SQ2 signature setup represents the culmination of a lifetime of refinement. Every piece of gear is chosen for durability, tone, and the ability to deliver night after night on Iron Maiden's legendary world tours. From the enormous Paiste cymbal setup to the throne height that gives him his distinctive posture, every detail serves the music.
 
-The "Future Past" world tour (2023-2024) proves that at 71, Nicko McBrain remains one of metal's most powerful drummers. Songs like "Powerslave," "Rime of the Ancient Mariner," and "Fear of the Dark" still receive the same intensity they did forty years ago.\`,
+The "Future Past" world tour (2023-2024) proves that at 71, Nicko McBrain remains one of metal's most powerful drummers. Songs like "Powerslave," "Rime of the Ancient Mariner," and "Fear of the Dark" still receive the same intensity they did forty years ago.`,
       keyPoints: [
         'Iron Maiden\'s drummer since 1982 — over 40 years with the band',
         'Uses a SINGLE bass drum pedal for all galloping patterns',
@@ -10291,7 +10291,7 @@ The "Future Past" world tour (2023-2024) proves that at 71, Nicko McBrain remain
         floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom'],
         shells: 'Birch shells for punch and projection'
       },
-      description: \`Nicko McBrain's Sonor SQ2 signature kit is engineered for one purpose: delivering Iron Maiden's demanding material night after night on world tours. The birch shells provide the attack and projection needed to cut through Steve Harris's bass, three guitarists, and the roar of arena crowds.
+      description: `Nicko McBrain's Sonor SQ2 signature kit is engineered for one purpose: delivering Iron Maiden's demanding material night after night on world tours. The birch shells provide the attack and projection needed to cut through Steve Harris's bass, three guitarists, and the roar of arena crowds.
 
 The most striking aspect of Nicko's kit is what it DOESN'T have: a double bass pedal. While nearly every metal drummer relies on two kicks or a double pedal for fast passages, Nicko achieves Iron Maiden's galloping patterns entirely with his right foot. The 22" x 14" single bass drum is tuned for maximum impact and consistent response, allowing Nicko to play sustained 16th-note patterns without fatigue.
 
@@ -10299,7 +10299,7 @@ His tom configuration — three rack toms and two floor toms — provides the me
 
 The kit is typically finished in custom designs, often featuring the Union Jack or Iron Maiden-themed graphics. But beneath the spectacular aesthetics is a working drummer's instrument built for reliability. Every component can withstand the punishment of 100+ shows per tour.
 
-Sonor's SQ2 line allows complete customization, and Nicko has refined his specifications over decades of touring. Shell depths, bearing edges, and hardware placement are all optimized for his specific playing style and ergonomic needs.\`,
+Sonor's SQ2 line allows complete customization, and Nicko has refined his specifications over decades of touring. Shell depths, bearing edges, and hardware placement are all optimized for his specific playing style and ergonomic needs.`,
       notes: [
         'SINGLE bass drum — no double pedal used',
         'Birch shells for maximum attack and projection',
@@ -10315,7 +10315,7 @@ Sonor's SQ2 line allows complete customization, and Nicko has refined his specif
       model: 'Sonor Artist Series Bronze / SQ2 Custom',
       size: '14" x 5.5"',
       shell: 'Bronze / Birch (various)',
-      description: \`Iron Maiden's mix places enormous demands on the snare drum. It must cut through Steve Harris's growling bass, three layers of guitar, and Bruce Dickinson's operatic vocals while maintaining musicality across songs ranging from ballads to speed metal.
+      description: `Iron Maiden's mix places enormous demands on the snare drum. It must cut through Steve Harris's growling bass, three layers of guitar, and Bruce Dickinson's operatic vocals while maintaining musicality across songs ranging from ballads to speed metal.
 
 Nicko has used various Sonor snares throughout his career, including the Artist Series Bronze and custom SQ2 configurations. The bronze shell provides exceptional projection and a bright, cutting attack that defines Iron Maiden's live sound. At 14" x 5.5", it offers the responsiveness needed for Nicko's fast, intricate patterns.
 
@@ -10323,7 +10323,7 @@ His snare tuning emphasizes crack and projection. Medium-high tension on the bat
 
 The rim shots that punctuate songs like "Run to the Hills" and "Hallowed Be Thy Name" demonstrate the snare's dynamic range. Nicko can move from delicate ghost notes to explosive accents within a single bar, and the drum responds equally well to both.
 
-Durability is paramount for Iron Maiden's extensive touring. The snare needs to deliver consistent performance through humidity changes, temperature variations, and the physical punishment of hundreds of shows per album cycle.\`,
+Durability is paramount for Iron Maiden's extensive touring. The snare needs to deliver consistent performance through humidity changes, temperature variations, and the physical punishment of hundreds of shows per album cycle.`,
       tuningSetting: 'Medium-high tension for maximum cut and projection',
       heads: 'Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)',
       estimatedValue: '$600-1,000 (Sonor Artist/SQ2 snare)'
@@ -10342,7 +10342,7 @@ Durability is paramount for Iron Maiden's extensive touring. The snare needs to 
         { type: 'China', model: 'Paiste Signature 18" Thin China', position: 'Above floor tom', notes: 'Trashy accents for dynamic contrast' },
         { type: 'Splash', model: 'Paiste Signature 10" Splash', position: 'Between toms', notes: 'Quick accents and effects' }
       ],
-      description: \`Nicko McBrain's cymbal setup is among the most extensive in metal drumming. The massive Paiste array provides the sonic palette for Iron Maiden's dynamic, progressive arrangements — from the subtle intros of "Fear of the Dark" to the explosive climaxes of "Hallowed Be Thy Name."
+      description: `Nicko McBrain's cymbal setup is among the most extensive in metal drumming. The massive Paiste array provides the sonic palette for Iron Maiden's dynamic, progressive arrangements — from the subtle intros of "Fear of the Dark" to the explosive climaxes of "Hallowed Be Thy Name."
 
 The 15" Sound Edge hi-hats are larger than typical metal hi-hats (usually 14"), providing more power and a distinctive "chick" sound that's become part of Iron Maiden's sonic signature. The Sound Edge bottom cymbal features a rippled edge that reduces air lock, allowing faster foot work — essential for Nicko's demanding patterns.
 
@@ -10350,7 +10350,7 @@ Nicko's crash selection spans multiple sizes (16", 17", 18", 19") to provide dyn
 
 The 22" Power Ride is essential for Iron Maiden's longer songs. "Rime of the Ancient Mariner" (13+ minutes) and "Empire of the Clouds" (18+ minutes) require a ride cymbal that maintains clarity through extended passages. The bell work on songs like "The Trooper" demonstrates Nicko's ability to use the ride as a lead voice.
 
-His Paiste endorsement spans decades, and the company has developed signature models specifically for his playing style. The combination of Signature, 2002, and RUDE series cymbals gives him access to the full Paiste tonal spectrum.\`,
+His Paiste endorsement spans decades, and the company has developed signature models specifically for his playing style. The combination of Signature, 2002, and RUDE series cymbals gives him access to the full Paiste tonal spectrum.`,
       estimatedValue: '$4,000-6,000 total (full Paiste signature setup)'
     },
     hardware: {
@@ -10392,7 +10392,7 @@ His Paiste endorsement spans decades, and the company has developed signature mo
     },
     recordingTechniques: {
       title: 'Four Decades of Iron Maiden Albums',
-      content: \`Nicko McBrain's first Iron Maiden album was "Piece of Mind" (1983), and he has recorded every album since — a remarkable streak spanning seventeen studio albums and counting.
+      content: `Nicko McBrain's first Iron Maiden album was "Piece of Mind" (1983), and he has recorded every album since — a remarkable streak spanning seventeen studio albums and counting.
 
 **Piece of Mind (1983):**
 Nicko's debut immediately established his impact on Iron Maiden's sound. The opening of "Where Eagles Dare" showcased his jazz-influenced fills and powerful single-bass work. Produced by Martin Birch at Compass Point Studios, the album proved Nicko wasn't just a replacement for Clive Burr — he was an upgrade.
@@ -10407,7 +10407,7 @@ Iron Maiden's conceptual masterpiece required a different approach. More dynamic
 After the experimental 90s, the reunion with Bruce Dickinson and Adrian Smith marked a creative rebirth. Produced by Kevin Shirley, the album featured Nicko's most powerful drum sound to date. Songs like "The Wicker Man" and "Blood Brothers" proved Iron Maiden's best days weren't behind them.
 
 **Senjutsu (2021):**
-Recorded during the pandemic at Guillaume Tell Studios in Paris, this album showed Nicko's continued vitality at 68 years old. The 10-minute epic "Hell on Earth" and the aggressive "Stratego" demonstrated that his stamina and technique remained at peak level.\`,
+Recorded during the pandemic at Guillaume Tell Studios in Paris, this album showed Nicko's continued vitality at 68 years old. The 10-minute epic "Hell on Earth" and the aggressive "Stratego" demonstrated that his stamina and technique remained at peak level.`,
       sections: [
         {
           title: 'Piece of Mind Sessions',
@@ -10425,7 +10425,7 @@ Recorded during the pandemic at Guillaume Tell Studios in Paris, this album show
     },
     playingTechniques: {
       title: 'The Single Pedal Mastery',
-      content: \`Nicko McBrain's drumming technique is built around a fundamental philosophy: do everything with one bass drum foot that others need two to achieve. This single-bass approach has become his defining characteristic and a source of inspiration for drummers worldwide.
+      content: `Nicko McBrain's drumming technique is built around a fundamental philosophy: do everything with one bass drum foot that others need two to achieve. This single-bass approach has become his defining characteristic and a source of inspiration for drummers worldwide.
 
 **The Gallop:**
 Iron Maiden's signature rhythm — the triplet-based galloping pattern heard on "The Trooper," "Run to the Hills," and "2 Minutes to Midnight" — is played entirely with Nicko's right foot. Where other drummers would use a double pedal alternating right-left-right-left, Nicko uses right-right-right with extraordinary speed and stamina. This requires specific muscle development and technique that he's refined over decades.
@@ -10440,7 +10440,7 @@ Nicko's fills draw heavily from jazz drumming. Rather than the typical rock/meta
 Iron Maiden's music moves from whisper-quiet intros to thunderous climaxes, and Nicko masters this dynamic range. Songs like "Fear of the Dark" demonstrate his ability to build tension through volume and intensity, not just tempo.
 
 **Stamina:**
-At 70+ years old, playing two-hour-plus shows requires extraordinary physical conditioning. Nicko maintains a fitness regimen that allows him to deliver the same intensity in the final song that he brought to the opener.\`,
+At 70+ years old, playing two-hour-plus shows requires extraordinary physical conditioning. Nicko maintains a fitness regimen that allows him to deliver the same intensity in the final song that he brought to the opener.`,
       techniques: [
         { name: 'Single Bass Gallop', description: 'Triplet patterns played entirely with one foot at remarkable speeds' },
         { name: 'Jazz-Influenced Fills', description: 'Melodic, conversational approach to fills borrowed from fusion drumming' },
@@ -10450,7 +10450,7 @@ At 70+ years old, playing two-hour-plus shows requires extraordinary physical co
     },
     evolution: {
       title: 'From Hackney to Heavy Metal History',
-      content: \`Nicko McBrain's journey from a working-class London kid to one of metal's most respected drummers spans five decades and demonstrates remarkable evolution while maintaining core principles.
+      content: `Nicko McBrain's journey from a working-class London kid to one of metal's most respected drummers spans five decades and demonstrates remarkable evolution while maintaining core principles.
 
 **Early Years (1966-1977):**
 Nicko began playing drums at 14 in Hackney, London. His early influences were jazz drummers like Buddy Rich and Louie Bellson — an unusual foundation for a future metal icon. This jazz vocabulary would later distinguish his playing from typical metal drummers.
@@ -10468,7 +10468,7 @@ The "Piece of Mind" through "Seventh Son" period established Nicko as one of met
 When Bruce Dickinson and Adrian Smith departed, Iron Maiden explored different directions. Albums like "The X Factor" and "Virtual XI" received mixed reactions, but Nicko's drumming remained consistently excellent, adapting to the band's evolving sound.
 
 **Reunion and Modern Era (2000-Present):**
-The classic lineup's reunion with "Brave New World" began Iron Maiden's second golden era. Nicko transitioned fully to Sonor drums, refined his setup, and continued touring at a remarkable pace. At 71, he's playing some of the best shows of his career.\`,
+The classic lineup's reunion with "Brave New World" began Iron Maiden's second golden era. Nicko transitioned fully to Sonor drums, refined his setup, and continued touring at a remarkable pace. At 71, he's playing some of the best shows of his career.`,
       thenVsNow: [
         { category: 'Kit', then: 'Sonor Phonic (early Maiden)', now: 'Sonor SQ2 Signature' },
         { category: 'Snare', then: 'Sonor Signature 14x6"', now: 'Sonor Artist Bronze / SQ2 Custom' },
@@ -10488,7 +10488,7 @@ The classic lineup's reunion with "Brave New World" began Iron Maiden's second g
     relatedArticles: ['nwobhm-drummers', 'single-vs-double-bass-pedals', 'iron-maiden-gear-guide'],
     conclusion: {
       title: 'The Living Legend of Heavy Metal Drumming',
-      content: \`Nicko McBrain isn't just a drummer — he's a monument to what's possible with dedication, technique, and an unwillingness to follow trends. In a metal world obsessed with double bass speed and technical complexity, Nicko has proven for over forty years that a single bass drum, proper technique, and musical intelligence can achieve results that no amount of gear can replicate.
+      content: `Nicko McBrain isn't just a drummer — he's a monument to what's possible with dedication, technique, and an unwillingness to follow trends. In a metal world obsessed with double bass speed and technical complexity, Nicko has proven for over forty years that a single bass drum, proper technique, and musical intelligence can achieve results that no amount of gear can replicate.
 
 His single-bass philosophy isn't a limitation — it's a philosophy. By mastering what he has rather than adding more pedals, Nicko developed the foot speed and stamina that make Iron Maiden's gallop possible. Generations of drummers have tried to replicate "The Trooper" and discovered that it's not about the equipment; it's about the drummer.
 
@@ -10505,7 +10505,7 @@ His Sonor SQ2 signature setup represents the accumulated wisdom of five decades 
 
 When Iron Maiden takes the stage, the galloping rhythm that launches "The Trooper" comes from one man's right foot. That foot has propelled seventeen studio albums, hundreds of world tours, and millions of fans to their feet. It belongs to Nicko McBrain — the living legend of heavy metal drumming.
 
-🤘 *One foot. Forty years. The gallop that conquered the world.* 🤘\`
+🤘 *One foot. Forty years. The gallop that conquered the world.* 🤘`
     }
   },
 
@@ -10532,7 +10532,7 @@ When Iron Maiden takes the stage, the galloping rhythm that launches "The Troope
     ogImage: '/images/drummers/vinnie-paul.webp',
     intro: {
       title: "The Groove Metal Architect: Vinnie Paul Abbott (1964-2018)",
-      content: \`There are drummers who play with their bands. Then there are drummers who ARE their bands. Vinnie Paul Abbott didn't just play drums for Pantera — he co-founded the band with his younger brother "Dimebag" Darrell Abbott, built the groove metal sound from the ground up, and created a legacy that continues to influence metal drumming decades after his passing.
+      content: `There are drummers who play with their bands. Then there are drummers who ARE their bands. Vinnie Paul Abbott didn't just play drums for Pantera — he co-founded the band with his younger brother "Dimebag" Darrell Abbott, built the groove metal sound from the ground up, and created a legacy that continues to influence metal drumming decades after his passing.
 
 Born Vincent Paul Abbott on March 11, 1964, in Abilene, Texas, Vinnie grew up in a musical household. His father, Jerry Abbott, was a country music songwriter and producer who recognized his son's rhythmic talent early. Originally playing tuba in school band, Vinnie was directed to the drums by his father — a decision that would reshape heavy metal forever.
 
@@ -10542,7 +10542,7 @@ What set Vinnie apart wasn't technical wizardry or blazing speed. It was pocket.
 
 Tragedy struck on December 8, 2004, when Dimebag was murdered on stage during a Damageplan performance. Vinnie witnessed his brother's death — a trauma that would haunt him for the rest of his life. Despite this unimaginable loss, Vinnie eventually returned to music, forming Hellyeah in 2006 and continuing to perform until his own death on June 22, 2018.
 
-Vinnie Paul passed away at 54 from dilated cardiomyopathy and coronary artery disease. He was buried beside his mother and brother in Arlington, Texas, reunited with Dimebag in death. But his influence lives on — not just in recordings, but in every groove metal drummer who understands that sometimes, less is more, and the pocket is everything.\`,
+Vinnie Paul passed away at 54 from dilated cardiomyopathy and coronary artery disease. He was buried beside his mother and brother in Arlington, Texas, reunited with Dimebag in death. But his influence lives on — not just in recordings, but in every groove metal drummer who understands that sometimes, less is more, and the pocket is everything.`,
       keyPoints: [
         "Co-founder of Pantera with brother Dimebag Darrell Abbott",
         'Defined groove metal drumming on Cowboys from Hell, Vulgar Display of Power, Far Beyond Driven',
@@ -10562,7 +10562,7 @@ Vinnie Paul passed away at 54 from dilated cardiomyopathy and coronary artery di
         floorToms: ['16" x 16" Floor Tom', '18" x 18" Floor Tom'],
         shells: 'Maple shells with reinforcement rings for maximum attack'
       },
-      description: \`Vinnie Paul's drum journey mirrored Pantera's evolution from glam to groove. Through Tama, Remo, Pearl, and finally ddrum, Vinnie constantly refined his setup to achieve the massive sound that defined his bands.
+      description: `Vinnie Paul's drum journey mirrored Pantera's evolution from glam to groove. Through Tama, Remo, Pearl, and finally ddrum, Vinnie constantly refined his setup to achieve the massive sound that defined his bands.
 
 **The Tama Era (1990-1992):**
 When Pantera recorded "Cowboys from Hell," Vinnie was playing Tama drums. This period established the foundational groove metal sound, but Vinnie was already searching for something bigger, louder, and more powerful.
@@ -10578,7 +10578,7 @@ Vinnie's final endorsement was with ddrum, a brand known for its focus on heavy 
 
 His double bass drum configuration — two 24" kicks — was essential for the visual and sonic impact of Pantera's live shows. Unlike some drummers who use double pedals for convenience, Vinnie preferred the feel and power of two physical bass drums. The symmetrical setup also matched his powerful, symmetrical playing style.
 
-The larger tom sizes — including an 18" floor tom — provided the deep, resonant tom sound that characterized Pantera's fills. Vinnie's tom work wasn't flashy, but when he moved around the kit, you felt it in your chest.\`,
+The larger tom sizes — including an 18" floor tom — provided the deep, resonant tom sound that characterized Pantera's fills. Vinnie's tom work wasn't flashy, but when he moved around the kit, you felt it in your chest.`,
       notes: [
         'ddrum Vinnie Paul Signature Series during final Hellyeah years',
         'Previously used Tama (Cowboys era), Remo (Vulgar era), Pearl (later Pantera/Damageplan)',
@@ -10594,7 +10594,7 @@ The larger tom sizes — including an 18" floor tom — provided the deep, reson
       model: 'ddrum Vinnie Paul Signature Snare',
       size: '14" x 8"',
       shell: 'Maple with reinforcement ring',
-      description: \`If Dimebag's guitar tone was a buzzsaw, Vinnie's snare was the crack of a whip cutting through it. Finding a snare drum that could be heard alongside one of the loudest, most gain-saturated guitar sounds in metal history was no small task. Vinnie's solution: go deeper, go louder, use triggers when needed.
+      description: `If Dimebag's guitar tone was a buzzsaw, Vinnie's snare was the crack of a whip cutting through it. Finding a snare drum that could be heard alongside one of the loudest, most gain-saturated guitar sounds in metal history was no small task. Vinnie's solution: go deeper, go louder, use triggers when needed.
 
 His 14" x 8" snare — deeper than the standard 5.5" or 6.5" models — provided the fundamental depth and body that groove metal required. The extra depth added low-end punch that helped the snare sit with, rather than fight against, Dimebag's massive low-end guitar tone.
 
@@ -10604,7 +10604,7 @@ Speaking of triggers: Vinnie was an early advocate of using electronic triggers 
 
 The 14" diameter maintained the traditional snare response and rim shot capabilities. Vinnie's rim shots — especially on the "2 and 4" of groove patterns — were essential to Pantera's sound. That crack on "Walk," "5 Minutes Alone," and countless other tracks came from Vinnie's powerful wrist technique and his carefully tuned snare drum.
 
-During the Hellyeah years, his ddrum Signature snare continued this tradition. Same philosophy, refined over decades of experience.\`,
+During the Hellyeah years, his ddrum Signature snare continued this tradition. Same philosophy, refined over decades of experience.`,
       tuningSetting: 'Medium-high tension for cut, with depth from the 8" shell',
       heads: 'Evans EC Reverse Dot (batter), Evans Hazy 300 (snare side)',
       estimatedValue: '$400-600 (ddrum Signature Snare)'
@@ -10621,7 +10621,7 @@ During the Hellyeah years, his ddrum Signature snare continued this tradition. S
         { type: 'Ride', model: 'Sabian HHX 22" Raw Bell Dry Ride', position: 'Far right', notes: 'Defined stick articulation, massive bell' },
         { type: 'China', model: 'Sabian AAX 20" Chinese', position: 'Above floor tom', notes: 'Trashy accents for groove transitions' }
       ],
-      description: \`Vinnie Paul maintained a relationship with Sabian cymbals throughout most of his career. While his drum brand changed multiple times, Sabian remained constant — a testament to how well their sound fit his playing style.
+      description: `Vinnie Paul maintained a relationship with Sabian cymbals throughout most of his career. While his drum brand changed multiple times, Sabian remained constant — a testament to how well their sound fit his playing style.
 
 The AAX series — Sabian's bright, cutting line designed for louder music — provided the projection Vinnie needed to be heard alongside Pantera's massive guitar and bass tones. His 14" AAX Metal Hi-Hats delivered the crisp, defined sound essential for groove metal's intricate hi-hat work. Songs like "Cowboys from Hell" showcase how important clear hi-hat articulation was to Vinnie's grooves.
 
@@ -10631,7 +10631,7 @@ The HHX Raw Bell Dry Ride offered something different: a drier, more articulate 
 
 Vinnie's China cymbal — usually a 20" AAX — added the trashy, exotic accents that punctuated Pantera's heaviest moments. Used sparingly but effectively, it marked transitions and added dynamics without overwhelming the core groove.
 
-Throughout the Hellyeah years, Vinnie continued with Sabian, occasionally incorporating newer models from their evolving lineup while maintaining the core AAX/HHX combination that had served him for decades.\`,
+Throughout the Hellyeah years, Vinnie continued with Sabian, occasionally incorporating newer models from their evolving lineup while maintaining the core AAX/HHX combination that had served him for decades.`,
       estimatedValue: '$2,500-3,500 total (full AAX/HHX setup)'
     },
     hardware: {
@@ -10673,7 +10673,7 @@ Throughout the Hellyeah years, Vinnie continued with Sabian, occasionally incorp
     },
     recordingTechniques: {
       title: 'Creating the Vulgar Display of Power Sound',
-      content: \`Vinnie Paul wasn't just a drummer — he was also deeply involved in Pantera's production and recording process. Working alongside producer Terry Date on their most iconic albums, Vinnie helped craft the massive drum sounds that defined 1990s metal.
+      content: `Vinnie Paul wasn't just a drummer — he was also deeply involved in Pantera's production and recording process. Working alongside producer Terry Date on their most iconic albums, Vinnie helped craft the massive drum sounds that defined 1990s metal.
 
 **Cowboys from Hell (1990):**
 Pantera's major label debut established the template. Recorded at Pantego Studios in Texas, this album introduced the world to Vinnie's groove-focused approach. The drum sound was powerful but still evolving — you can hear the transition from their glam roots to the groove metal future.
@@ -10691,7 +10691,7 @@ Pantera's most raw and aggressive album featured drums that matched the intensit
 Pantera's final studio album saw Vinnie in peak form. The production captured his mature sound — powerful, groove-heavy, and perfectly balanced with the guitars. Tragically, this would be the last time the Abbott brothers recorded together.
 
 **The Hellyeah Era:**
-After years of mourning and the eventual formation of Hellyeah, Vinnie returned to the studio with a new band but the same philosophy. Albums like "Welcome Home" (released posthumously in 2019) showcased his continued dedication to powerful, groove-oriented drumming.\`,
+After years of mourning and the eventual formation of Hellyeah, Vinnie returned to the studio with a new band but the same philosophy. Albums like "Welcome Home" (released posthumously in 2019) showcased his continued dedication to powerful, groove-oriented drumming.`,
       sections: [
         {
           title: 'The Trigger Philosophy',
@@ -10709,7 +10709,7 @@ After years of mourning and the eventual formation of Hellyeah, Vinnie returned 
     },
     playingTechniques: {
       title: 'The Groove Metal Philosophy',
-      content: \`Vinnie Paul didn't play fast. He played HEAVY. In an era when thrash metal was obsessing over speed, Vinnie took a different path — one that would prove equally influential and arguably more timeless.
+      content: `Vinnie Paul didn't play fast. He played HEAVY. In an era when thrash metal was obsessing over speed, Vinnie took a different path — one that would prove equally influential and arguably more timeless.
 
 **The Half-Time Revolution:**
 When you hear the verse groove of "Walk," you're hearing Vinnie Paul's signature contribution to metal. That swinging, half-time feel — kick... snare... kick-kick... snare — became the template for groove metal. It wasn't about how many notes you could play; it was about how hard each note hit.
@@ -10727,7 +10727,7 @@ The rhythm section relationship between Vinnie and Dimebag was more than just mu
 Unlike many metal drummers who use double bass for sustained blast-beat patterns, Vinnie used his double kicks for groove accents and short bursts of power. His double bass work on tracks like "Cowboys from Hell" serves the riff rather than competing with it.
 
 **The Importance of Feel:**
-Above all, Vinnie understood that metal drumming isn't about technical perfection — it's about making people move. His grooves were designed to make heads bang, and they succeeded. You can quantize drums in a computer, but you can't program the feel that Vinnie brought naturally.\`,
+Above all, Vinnie understood that metal drumming isn't about technical perfection — it's about making people move. His grooves were designed to make heads bang, and they succeeded. You can quantize drums in a computer, but you can't program the feel that Vinnie brought naturally.`,
       techniques: [
         {
           name: 'Half-Time Groove',
@@ -10782,7 +10782,7 @@ Above all, Vinnie understood that metal drumming isn't about technical perfectio
     },
     comparison: {
       title: 'Vinnie Paul vs. Modern Groove Drummers',
-      content: \`Vinnie Paul's influence on groove metal drumming cannot be overstated. Every drummer who plays half-time grooves in metal owes something to Vinnie's pioneering work with Pantera. Here's how his approach compares to drummers he influenced:
+      content: `Vinnie Paul's influence on groove metal drumming cannot be overstated. Every drummer who plays half-time grooves in metal owes something to Vinnie's pioneering work with Pantera. Here's how his approach compares to drummers he influenced:
 
 **Vinnie Paul vs. Eloy Casagrande (Sepultura/Slipknot):**
 Eloy brings Brazilian polyrhythmic influences that Vinnie didn't use, but his fundamental groove sensibility shows Vinnie's influence. Both prioritize pocket over flash, though Eloy incorporates more blast beats and technical passages.
@@ -10796,7 +10796,7 @@ Roy's diverse background (from groove to industrial to Latin-influenced metal) s
 **Vinnie Paul vs. Charlie Benante (Current Pantera Touring):**
 Since 2022, Charlie Benante has been touring with the reunited Pantera, honoring Vinnie's legacy. Charlie's Big 4 thrash background differs from Vinnie's approach, but his deep respect for the material and friendship with Vinnie makes him the right choice to carry the torch.
 
-The common thread among all these drummers is understanding that groove matters more than speed. That's Vinnie Paul's lasting lesson.\`
+The common thread among all these drummers is understanding that groove matters more than speed. That's Vinnie Paul's lasting lesson.`
     },
     videos: [
       { youtubeId: 'AkFqg5wAuFk', title: 'Pantera - Walk (Official Video)', description: 'The definitive groove metal drum performance' },
@@ -10809,7 +10809,7 @@ The common thread among all these drummers is understanding that groove matters 
     relatedArticles: ['groove-metal-drummers', 'best-snare-drums-for-thrash-metal', 'pantera-gear-guide'],
     conclusion: {
       title: 'Rest in Power: The Groove Metal King',
-      content: \`On June 22, 2018, the metal world lost one of its most influential drummers. Vinnie Paul Abbott passed away at 54, joining his brother Dimebag in whatever lies beyond. But while the man is gone, his legacy reverberates through every kick drum hit, every half-time groove, every metal drummer who understands that sometimes, less is more.
+      content: `On June 22, 2018, the metal world lost one of its most influential drummers. Vinnie Paul Abbott passed away at 54, joining his brother Dimebag in whatever lies beyond. But while the man is gone, his legacy reverberates through every kick drum hit, every half-time groove, every metal drummer who understands that sometimes, less is more.
 
 Vinnie didn't chase trends. He set them. When thrash metal was obsessing over speed, Vinnie and Pantera proved that groove could be equally devastating. When triggered drums became controversial, Vinnie used them tastefully to enhance — not replace — his acoustic sound. When the industry pushed for ever-more-technical drumming, Vinnie reminded everyone that the pocket is where the magic lives.
 
@@ -10830,7 +10830,7 @@ When you put on "Vulgar Display of Power" and feel that groove grab you by the t
 
 Vinnie was buried beside his mother and Dimebag in Arlington, Texas. The Abbott brothers, together again. But their music — and especially Vinnie's revolutionary approach to metal drumming — will never be buried.
 
-🤘 *Rest in power, Vinnie Paul. The groove eternal.* 🤘\`
+🤘 *Rest in power, Vinnie Paul. The groove eternal.* 🤘`
     }
   }
 };

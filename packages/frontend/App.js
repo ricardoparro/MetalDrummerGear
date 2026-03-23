@@ -179,6 +179,15 @@ import {
   trackKitBuilderEvent,
 } from './components/KitBuilder';
 
+// Dream Setup Builder Module (Issue #761)
+import {
+  default as DreamSetupBuilderPage,
+  isSetupBuilderPage,
+  updateSetupBuilderMeta,
+  trackSetupBuilderEvent,
+  GENRE_OPTIONS as SETUP_GENRE_OPTIONS,
+} from './components/DreamSetupBuilder';
+
 // Drummer Battle - Weekly Voting Feature (Issue #689)
 // Lazy loaded for performance optimization (#708) - 10KB module
 let _battlesModule = null;
@@ -7736,6 +7745,18 @@ function BirthdayCalendarPage({ theme, onBack, onSelectDrummer }) {
 
 // Tools data with consistent structure
 const TOOLS_HUB_DATA = [
+  {
+    id: 'setup-builder',
+    icon: '✨',
+    title: 'Dream Setup Builder',
+    subtitle: 'Step-by-Step Gear Wizard',
+    description: 'Build your perfect setup with our guided wizard. Set your budget, genre, and skill level to get personalized gear recommendations with pro drummer comparisons!',
+    cta: 'Build Dream Setup',
+    route: '/tools/setup-builder',
+    color: '#8b5cf6', // Purple
+    features: ['Guided wizard', 'Pro matching', 'Budget tracker'],
+    isNew: true,
+  },
   {
     id: 'kit-builder',
     icon: '🥁',
@@ -21179,6 +21200,9 @@ function AppContent() {
   // Kit Builder Page state (Issue #341)
   const [showKitBuilder, setShowKitBuilder] = useState(() => isKitBuilderPage());
 
+  // Dream Setup Builder Page state (Issue #761)
+  const [showSetupBuilder, setShowSetupBuilder] = useState(() => isSetupBuilderPage());
+
   // Kit Quiz Page state (Issue #551)
   const [showKitQuiz, setShowKitQuiz] = useState(() => isKitQuizPage());
   
@@ -21817,6 +21841,7 @@ function AppContent() {
       } else if (isKitBuilderPage()) {
         // Kit Builder page (Issue #341)
         setShowKitBuilder(true);
+        setShowSetupBuilder(false);
         setShowKitQuiz(false);
         setShowBpmTap(false);
         setShowBirthdayCalendar(false);
@@ -21835,6 +21860,30 @@ function AppContent() {
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
+      } else if (isSetupBuilderPage()) {
+        // Dream Setup Builder page (Issue #761)
+        setShowSetupBuilder(true);
+        setShowKitBuilder(false);
+        setShowKitQuiz(false);
+        setShowBpmTap(false);
+        setShowBirthdayCalendar(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowList(false);
+        setListSlug(null);
+        setShowToolsHub(false);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+        updateSetupBuilderMeta();
       } else if (isKitQuizPage()) {
         // Kit Quiz page (Issue #551)
         setShowKitQuiz(true);
@@ -24921,6 +24970,24 @@ setShowList(false);
           theme={theme}
           onBack={() => {
             setShowKitBuilder(false);
+            // Navigate back to Tools Hub instead of home (Issue #729)
+            setShowToolsHub(true);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/tools');
+            }
+          }}
+          drummers={drummers}
+          onSelectDrummer={handleSelectDrummer}
+        />
+      );
+    }
+    // Dream Setup Builder Page (Issue #761)
+    if (showSetupBuilder) {
+      return (
+        <DreamSetupBuilderPage
+          theme={theme}
+          onBack={() => {
+            setShowSetupBuilder(false);
             // Navigate back to Tools Hub instead of home (Issue #729)
             setShowToolsHub(true);
             if (Platform.OS === 'web' && typeof window !== 'undefined') {

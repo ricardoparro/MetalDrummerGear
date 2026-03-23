@@ -90,3 +90,28 @@ export {
   updateLickMeta,
   updateLicksHubMeta
 } from './SignatureLicks';
+
+// Dream Setup Builder (Issue #761)
+export {
+  default as DreamSetupBuilderPage,
+  isSetupBuilderPage,
+  getSetupFromURL,
+  updateSetupURL,
+  generateShareableURL as generateSetupShareableURL,
+  updateSetupBuilderMeta,
+  calculateTotalCost as calculateSetupTotalCost,
+  findGearById,
+  getRecommendedGear,
+  findSimilarDrummers as findSetupSimilarDrummers,
+  getSmartSuggestions,
+  getSetupBuilderThomannLink,
+  getSetupBuilderSweetwaterLink,
+  generateSetupSchema,
+  trackSetupBuilderEvent,
+  BUDGET_OPTIONS,
+  GENRE_OPTIONS,
+  SKILL_OPTIONS,
+  PRIORITY_OPTIONS,
+  WIZARD_STEPS,
+  SETUP_CATEGORIES,
+} from './DreamSetupBuilder';

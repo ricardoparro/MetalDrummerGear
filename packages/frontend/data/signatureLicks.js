@@ -1196,5 +1196,149 @@ export const DRUMMER_SLUG_MAP = {
   'mario-duplantier': 21,
 };
 
+// ==========================================
+// DISCOVERY FEATURES (Issue #759)
+// ==========================================
+
+/**
+ * Get a random lick for discovery gamification
+ * Optionally filter by drummer or difficulty
+ */
+export function getRandomLick({ drummerSlug, difficulty } = {}) {
+  let licks = Object.values(SIGNATURE_LICKS);
+  
+  if (drummerSlug) {
+    licks = licks.filter(l => l.drummerSlug === drummerSlug);
+  }
+  
+  if (difficulty) {
+    licks = licks.filter(l => l.difficulty === difficulty);
+  }
+  
+  if (licks.length === 0) return null;
+  
+  const randomIndex = Math.floor(Math.random() * licks.length);
+  return licks[randomIndex];
+}
+
+/**
+ * Get the Lick of the Day - deterministic based on current date
+ * Returns the same lick for everyone on the same day
+ */
+export function getLickOfTheDay(date = new Date()) {
+  const licks = Object.values(SIGNATURE_LICKS);
+  if (licks.length === 0) return null;
+  
+  // Create a deterministic "seed" from the date
+  const year = date.getFullYear();
+  const month = date.getMonth();
+  const day = date.getDate();
+  
+  // Simple hash: combine date parts into a single number
+  const seed = year * 10000 + month * 100 + day;
+  
+  // Use the seed to select a lick (modulo ensures we stay in bounds)
+  const index = seed % licks.length;
+  
+  return licks[index];
+}
+
+/**
+ * Get the date string for Lick of the Day display
+ */
+export function getLickOfTheDayDate(date = new Date()) {
+  return date.toLocaleDateString('en-US', {
+    weekday: 'long',
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+  });
+}
+
+/**
+ * Get a playlist of all licks from a drummer for binge-watching
+ * Returns licks in a logical order (by song, difficulty, etc.)
+ */
+export function getPlaylist(drummerSlug) {
+  const licks = getLicksByDrummerSlug(drummerSlug);
+  
+  if (licks.length === 0) return null;
+  
+  // Sort by difficulty (easiest first) for a learning progression
+  const sorted = [...licks].sort((a, b) => a.difficultyRating - b.difficultyRating);
+  
+  // Calculate total duration (estimate 2 min per lick for learning)
+  const totalDuration = sorted.length * 2; // minutes
+  
+  return {
+    drummerName: sorted[0].drummerName,
+    drummerSlug: drummerSlug,
+    band: sorted[0].band,
+    licks: sorted,
+    count: sorted.length,
+    estimatedDuration: totalDuration,
+    estimatedDurationDisplay: totalDuration < 60 
+      ? `${totalDuration} min` 
+      : `${Math.floor(totalDuration / 60)}h ${totalDuration % 60}min`,
+  };
+}
+
+/**
+ * Get all available playlists (one per drummer)
+ */
+export function getAllPlaylists() {
+  const drummers = new Set(Object.values(SIGNATURE_LICKS).map(l => l.drummerSlug));
+  return Array.from(drummers).map(slug => getPlaylist(slug)).filter(Boolean);
+}
+
+/**
+ * Get next lick in sequence (for playlist navigation)
+ */
+export function getNextLickInPlaylist(currentSlug, drummerSlug) {
+  const playlist = getPlaylist(drummerSlug);
+  if (!playlist) return null;
+  
+  const currentIndex = playlist.licks.findIndex(l => l.slug === currentSlug);
+  if (currentIndex === -1 || currentIndex >= playlist.licks.length - 1) {
+    return playlist.licks[0]; // Loop back to start
+  }
+  
+  return playlist.licks[currentIndex + 1];
+}
+
+/**
+ * Get previous lick in sequence (for playlist navigation)
+ */
+export function getPreviousLickInPlaylist(currentSlug, drummerSlug) {
+  const playlist = getPlaylist(drummerSlug);
+  if (!playlist) return null;
+  
+  const currentIndex = playlist.licks.findIndex(l => l.slug === currentSlug);
+  if (currentIndex <= 0) {
+    return playlist.licks[playlist.licks.length - 1]; // Loop to end
+  }
+  
+  return playlist.licks[currentIndex - 1];
+}
+
+/**
+ * Generate Schema.org markup for Lick of the Day widget
+ */
+export function generateLickOfTheDaySchema(lick, date) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "WebPageElement",
+    "name": "Lick of the Day",
+    "description": `Today's featured drum lick: ${lick.name} by ${lick.drummerName}`,
+    "datePublished": date.toISOString().split('T')[0],
+    "mainEntity": {
+      "@type": "HowTo",
+      "name": `Learn ${lick.name}`,
+      "description": lick.description,
+      "image": `https://i.ytimg.com/vi/${lick.video.youtubeId}/hqdefault.jpg`,
+    },
+  };
+}
+
 // Export for external use
 export default SIGNATURE_LICKS;

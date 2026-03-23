@@ -9972,8 +9972,7 @@ Thirty-five years after its release, Altars of Madness remains essential listeni
 
 🤘 *The album that invented death metal drumming. The foundation of extreme.* 🤘`
     }
-  }
-},
+  },
 
   // What's In Paul Bostaph's Slayer Arsenal
   'whats-in-paul-bostaphs-kit': {

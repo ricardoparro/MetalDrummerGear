@@ -393,6 +393,7 @@ function updateGearCardsMeta() { return _gearCardsModule?.updateGearCardsMeta?.(
 // Lazy loaded for performance optimization - 42KB component + 40KB data
 const LazyLicksHubPage = lazy(() => import('./components/SignatureLicks').then(m => ({ default: m.LicksHubPage })));
 const LazyLickDetailPage = lazy(() => import('./components/SignatureLicks').then(m => ({ default: m.LickDetailPage })));
+const LazyLickOfTheDayWidget = lazy(() => import('./components/SignatureLicks').then(m => ({ default: m.LickOfTheDayWidget })));
 let _signatureLicksModule = null;
 let _signatureLicksLoadPromise = null;
 const loadSignatureLicks = () => import('./components/SignatureLicks');
@@ -16668,6 +16669,18 @@ function DrummerList({
           />
         </View>
       )}
+      {/* Lick of the Day Widget (Issue #759) */}
+      <Suspense fallback={<View style={{ height: 300, backgroundColor: theme.card, margin: 16, borderRadius: 16 }} />}>
+        <LazyLickOfTheDayWidget
+          theme={theme}
+          onNavigate={(lick) => {
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', `/drummers/${lick.drummerSlug}/licks/${lick.slug}`);
+              window.dispatchEvent(new PopStateEvent('popstate'));
+            }
+          }}
+        />
+      </Suspense>
       {/* Top 10 Lists Section */}
       <TopListsSection theme={theme} onNavigateToList={onNavigateToList} />
       

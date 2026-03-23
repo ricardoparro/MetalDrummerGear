@@ -28,6 +28,14 @@ import {
   getAvailableStyles,
   getAvailableTechniques,
   getBpmRanges,
+  getRandomLick,
+  getLickOfTheDay,
+  getLickOfTheDayDate,
+  getPlaylist,
+  getAllPlaylists,
+  getNextLickInPlaylist,
+  getPreviousLickInPlaylist,
+  generateLickOfTheDaySchema,
 } from '../data/signatureLicks';
 import { colors } from '../colors';
 import { fontSize, fontWeight, lineHeight } from '../typography';
@@ -482,6 +490,44 @@ export function LicksHubPage({ theme, onBack, drummers, drummerSlug, onSelectLic
 
   const [filters, setFilters] = useState({ difficulty: null, bpmRange: null });
   const [showAllLicks, setShowAllLicks] = useState(!drummerSlug);
+  const [playlistMode, setPlaylistMode] = useState(false);
+
+  // Get playlist for current drummer
+  const playlist = useMemo(() => {
+    if (!drummerSlug) return null;
+    return getPlaylist(drummerSlug);
+  }, [drummerSlug]);
+
+  // Handle random lick discovery
+  const handleRandomLick = useCallback(() => {
+    const randomLick = getRandomLick({ drummerSlug });
+    if (randomLick) {
+      // Track GA4 event
+      if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
+        window.gtag('event', 'random_lick_click', {
+          drummer: randomLick.drummerName,
+          lick_name: randomLick.name,
+          difficulty: randomLick.difficulty,
+        });
+      }
+      handleLickPress(randomLick);
+    }
+  }, [drummerSlug]);
+
+  // Handle playlist mode start
+  const handleStartPlaylist = useCallback(() => {
+    if (playlist && playlist.licks.length > 0) {
+      // Track GA4 event
+      if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
+        window.gtag('event', 'playlist_start', {
+          drummer: playlist.drummerName,
+          lick_count: playlist.count,
+        });
+      }
+      // Start with the first (easiest) lick
+      handleLickPress(playlist.licks[0]);
+    }
+  }, [playlist]);
 
   // Get licks based on whether we're viewing a specific drummer or all
   const allLicks = useMemo(() => {
@@ -579,6 +625,38 @@ export function LicksHubPage({ theme, onBack, drummers, drummerSlug, onSelectLic
       {/* Filter Bar */}
       <FilterBar filters={filters} onFilterChange={setFilters} theme={theme} isMobile={isMobile} />
 
+      {/* Discovery Actions (Issue #759) */}
+      <View style={[styles.discoveryActions, isMobile && styles.discoveryActionsMobile]}>
+        {/* Random Lick Button */}
+        <TouchableOpacity
+          style={[styles.discoveryButton, { backgroundColor: theme.primary }]}
+          onPress={handleRandomLick}
+          accessibilityLabel="Get a random lick"
+        >
+          <Text style={styles.discoveryButtonEmoji}>🎲</Text>
+          <Text style={styles.discoveryButtonText}>Random Lick</Text>
+        </TouchableOpacity>
+
+        {/* Playlist Button (only for single drummer view) */}
+        {drummerSlug && playlist && (
+          <TouchableOpacity
+            style={[styles.discoveryButton, styles.playlistButton, { backgroundColor: theme.card, borderColor: theme.primary }]}
+            onPress={handleStartPlaylist}
+            accessibilityLabel={`Watch all ${playlist.count} licks from ${playlist.drummerName}`}
+          >
+            <Text style={styles.discoveryButtonEmoji}>▶️</Text>
+            <View>
+              <Text style={[styles.discoveryButtonText, { color: theme.primary }]}>
+                Watch All {playlist.count} Licks
+              </Text>
+              <Text style={[styles.playlistDuration, { color: theme.secondaryText }]}>
+                ~{playlist.estimatedDurationDisplay}
+              </Text>
+            </View>
+          </TouchableOpacity>
+        )}
+      </View>
+
       {/* Licks List */}
       {drummerSlug ? (
         // Single drummer view
@@ -664,6 +742,45 @@ export function LickDetailPage({ theme, onBack, lickSlug, drummers }) {
       .slice(0, 3);
   }, [lick]);
 
+  // Playlist navigation (Issue #759)
+  const playlist = useMemo(() => {
+    if (!lick) return null;
+    return getPlaylist(lick.drummerSlug);
+  }, [lick]);
+
+  const nextLick = useMemo(() => {
+    if (!lick) return null;
+    return getNextLickInPlaylist(lick.slug, lick.drummerSlug);
+  }, [lick]);
+
+  const prevLick = useMemo(() => {
+    if (!lick) return null;
+    return getPreviousLickInPlaylist(lick.slug, lick.drummerSlug);
+  }, [lick]);
+
+  const currentPosition = useMemo(() => {
+    if (!playlist || !lick) return null;
+    const index = playlist.licks.findIndex(l => l.slug === lick.slug);
+    return index >= 0 ? index + 1 : null;
+  }, [playlist, lick]);
+
+  // Navigate to lick
+  const navigateToLick = useCallback((targetLick) => {
+    if (!targetLick) return;
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      // Track GA4 event
+      if (window.gtag) {
+        window.gtag('event', 'playlist_navigate', {
+          from_lick: lick?.name,
+          to_lick: targetLick.name,
+          drummer: targetLick.drummerName,
+        });
+      }
+      window.history.pushState({}, '', `/drummers/${targetLick.drummerSlug}/licks/${targetLick.slug}`);
+      window.dispatchEvent(new PopStateEvent('popstate'));
+    }
+  }, [lick]);
+
   // Update meta tags
   useEffect(() => {
     if (lick) {
@@ -723,6 +840,48 @@ export function LickDetailPage({ theme, onBack, lickSlug, drummers }) {
         <Text style={[styles.breadcrumbSeparator, { color: theme.secondaryText }]}> / </Text>
         <Text style={[styles.breadcrumbCurrent, { color: theme.text }]}>{lick.shortName}</Text>
       </View>
+
+      {/* Playlist Navigation (Issue #759) */}
+      {playlist && playlist.count > 1 && (
+        <View style={[styles.playlistNav, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <TouchableOpacity
+            style={[styles.playlistNavButton, !prevLick && styles.playlistNavButtonDisabled]}
+            onPress={() => navigateToLick(prevLick)}
+            disabled={!prevLick}
+            accessibilityLabel="Previous lick"
+          >
+            <Text style={[styles.playlistNavArrow, { color: prevLick ? theme.primary : theme.secondaryText }]}>
+              ⏮️
+            </Text>
+            <Text style={[styles.playlistNavLabel, { color: theme.secondaryText }]}>
+              Previous
+            </Text>
+          </TouchableOpacity>
+
+          <View style={styles.playlistNavCenter}>
+            <Text style={[styles.playlistNavPosition, { color: theme.text }]}>
+              Lick {currentPosition} of {playlist.count}
+            </Text>
+            <Text style={[styles.playlistNavDrummer, { color: theme.secondaryText }]}>
+              {playlist.drummerName}'s Playlist
+            </Text>
+          </View>
+
+          <TouchableOpacity
+            style={[styles.playlistNavButton, !nextLick && styles.playlistNavButtonDisabled]}
+            onPress={() => navigateToLick(nextLick)}
+            disabled={!nextLick}
+            accessibilityLabel="Next lick"
+          >
+            <Text style={[styles.playlistNavArrow, { color: nextLick ? theme.primary : theme.secondaryText }]}>
+              ⏭️
+            </Text>
+            <Text style={[styles.playlistNavLabel, { color: theme.secondaryText }]}>
+              Next
+            </Text>
+          </TouchableOpacity>
+        </View>
+      )}
 
       {/* Header Section */}
       <View style={styles.detailHeader}>
@@ -1383,11 +1542,309 @@ const styles = StyleSheet.create({
     color: '#fff',
     fontWeight: fontWeight.semibold,
   },
+
+  // Discovery Actions (Issue #759)
+  discoveryActions: {
+    flexDirection: 'row',
+    gap: spacing.md,
+    paddingHorizontal: spacing.lg,
+    marginBottom: spacing.lg,
+  },
+  discoveryActionsMobile: {
+    flexDirection: 'column',
+  },
+  discoveryButton: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: spacing.sm,
+    paddingHorizontal: spacing.lg,
+    paddingVertical: spacing.md,
+    borderRadius: 12,
+    flex: 1,
+    justifyContent: 'center',
+  },
+  playlistButton: {
+    borderWidth: 2,
+    backgroundColor: 'transparent',
+  },
+  discoveryButtonEmoji: {
+    fontSize: 20,
+  },
+  discoveryButtonText: {
+    color: '#fff',
+    fontWeight: fontWeight.bold,
+    fontSize: fontSize.md,
+  },
+  playlistDuration: {
+    fontSize: fontSize.xs,
+    marginTop: 2,
+  },
+
+  // Playlist Navigation (Issue #759)
+  playlistNav: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    marginHorizontal: spacing.lg,
+    marginBottom: spacing.md,
+    padding: spacing.md,
+    borderRadius: 12,
+    borderWidth: 1,
+  },
+  playlistNavButton: {
+    alignItems: 'center',
+    padding: spacing.sm,
+    minWidth: 70,
+  },
+  playlistNavButtonDisabled: {
+    opacity: 0.4,
+  },
+  playlistNavArrow: {
+    fontSize: 24,
+    marginBottom: 2,
+  },
+  playlistNavLabel: {
+    fontSize: fontSize.xs,
+  },
+  playlistNavCenter: {
+    alignItems: 'center',
+    flex: 1,
+  },
+  playlistNavPosition: {
+    fontSize: fontSize.md,
+    fontWeight: fontWeight.bold,
+  },
+  playlistNavDrummer: {
+    fontSize: fontSize.xs,
+    marginTop: 2,
+  },
+});
+
+// ==========================================
+// Lick of the Day Widget (Issue #759)
+// Homepage widget showing daily featured lick
+// ==========================================
+
+export function LickOfTheDayWidget({ theme, onNavigate }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+
+  const lickOfTheDay = useMemo(() => getLickOfTheDay(), []);
+  const dateString = useMemo(() => getLickOfTheDayDate(), []);
+
+  if (!lickOfTheDay) return null;
+
+  const thumbnailUrl = `https://i.ytimg.com/vi/${lickOfTheDay.video.youtubeId}/mqdefault.jpg`;
+
+  const handlePress = useCallback(() => {
+    // Track GA4 event
+    if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
+      window.gtag('event', 'lick_of_the_day_click', {
+        lick_name: lickOfTheDay.name,
+        drummer: lickOfTheDay.drummerName,
+        difficulty: lickOfTheDay.difficulty,
+        date: dateString,
+      });
+    }
+
+    if (onNavigate) {
+      onNavigate(lickOfTheDay);
+    } else if (Platform.OS === 'web') {
+      window.history.pushState({}, '', `/drummers/${lickOfTheDay.drummerSlug}/licks/${lickOfTheDay.slug}`);
+      window.dispatchEvent(new PopStateEvent('popstate'));
+    }
+  }, [lickOfTheDay, onNavigate, dateString]);
+
+  return (
+    <View style={[lickOfTheDayStyles.container, { backgroundColor: 'transparent' }]}>
+      <View style={lickOfTheDayStyles.header}>
+        <Text style={[lickOfTheDayStyles.title, { color: theme.text }]} accessibilityRole="header">
+          🥁 Lick of the Day
+        </Text>
+        <Text style={[lickOfTheDayStyles.date, { color: theme.secondaryText }]}>
+          {dateString}
+        </Text>
+      </View>
+
+      <TouchableOpacity
+        style={[lickOfTheDayStyles.card, { backgroundColor: theme.card, borderColor: theme.border }]}
+        onPress={handlePress}
+        accessibilityLabel={`Today's lick: ${lickOfTheDay.name} by ${lickOfTheDay.drummerName}`}
+      >
+        {/* Video Thumbnail */}
+        <View style={lickOfTheDayStyles.thumbnailContainer}>
+          <Image
+            source={{ uri: thumbnailUrl }}
+            style={lickOfTheDayStyles.thumbnail}
+            contentFit="cover"
+          />
+          <View style={lickOfTheDayStyles.playOverlay}>
+            <View style={lickOfTheDayStyles.playButton}>
+              <Text style={{ fontSize: 28 }}>▶️</Text>
+            </View>
+          </View>
+          <View style={[lickOfTheDayStyles.difficultyTag, { backgroundColor: getDifficultyColor(lickOfTheDay.difficulty) }]}>
+            <Text style={lickOfTheDayStyles.difficultyTagText}>
+              {lickOfTheDay.difficulty.toUpperCase()}
+            </Text>
+          </View>
+        </View>
+
+        {/* Lick Info */}
+        <View style={lickOfTheDayStyles.info}>
+          <Text style={[lickOfTheDayStyles.lickName, { color: theme.text }]} numberOfLines={2}>
+            {lickOfTheDay.name}
+          </Text>
+          <Text style={[lickOfTheDayStyles.drummerInfo, { color: theme.secondaryText }]}>
+            {lickOfTheDay.drummerName} • {lickOfTheDay.band}
+          </Text>
+          <Text style={[lickOfTheDayStyles.songInfo, { color: theme.primary }]}>
+            🎵 {lickOfTheDay.song}
+          </Text>
+
+          <View style={lickOfTheDayStyles.meta}>
+            <View style={[lickOfTheDayStyles.metaBadge, { backgroundColor: theme.primary + '20' }]}>
+              <Text style={[lickOfTheDayStyles.metaText, { color: theme.primary }]}>
+                {lickOfTheDay.bpmDisplay}
+              </Text>
+            </View>
+            <View style={[lickOfTheDayStyles.metaBadge, { backgroundColor: theme.primary + '20' }]}>
+              <Text style={[lickOfTheDayStyles.metaText, { color: theme.primary }]}>
+                {lickOfTheDay.timeSignature}
+              </Text>
+            </View>
+          </View>
+
+          <View style={[lickOfTheDayStyles.cta, { backgroundColor: theme.primary }]}>
+            <Text style={lickOfTheDayStyles.ctaText}>Learn This Lick →</Text>
+          </View>
+        </View>
+      </TouchableOpacity>
+    </View>
+  );
+}
+
+// Helper function for difficulty colors
+function getDifficultyColor(difficulty) {
+  const colors = {
+    beginner: '#22c55e',
+    intermediate: '#eab308',
+    advanced: '#f97316',
+    expert: '#ef4444',
+  };
+  return colors[difficulty] || '#9ca3af';
+}
+
+// Styles for Lick of the Day widget
+const lickOfTheDayStyles = StyleSheet.create({
+  container: {
+    paddingHorizontal: spacing.lg,
+    marginVertical: spacing.lg,
+  },
+  header: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    marginBottom: spacing.md,
+  },
+  title: {
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.bold,
+  },
+  date: {
+    fontSize: fontSize.sm,
+  },
+  card: {
+    borderRadius: 16,
+    borderWidth: 1,
+    overflow: 'hidden',
+  },
+  thumbnailContainer: {
+    position: 'relative',
+    width: '100%',
+    aspectRatio: 16 / 9,
+  },
+  thumbnail: {
+    width: '100%',
+    height: '100%',
+  },
+  playOverlay: {
+    position: 'absolute',
+    top: 0,
+    left: 0,
+    right: 0,
+    bottom: 0,
+    justifyContent: 'center',
+    alignItems: 'center',
+    backgroundColor: 'rgba(0,0,0,0.3)',
+  },
+  playButton: {
+    width: 60,
+    height: 60,
+    borderRadius: 30,
+    backgroundColor: 'rgba(0,0,0,0.6)',
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  difficultyTag: {
+    position: 'absolute',
+    top: spacing.sm,
+    right: spacing.sm,
+    paddingHorizontal: spacing.sm,
+    paddingVertical: 4,
+    borderRadius: 4,
+  },
+  difficultyTagText: {
+    color: '#fff',
+    fontSize: fontSize.xs,
+    fontWeight: fontWeight.bold,
+  },
+  info: {
+    padding: spacing.lg,
+  },
+  lickName: {
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.bold,
+    marginBottom: spacing.xs,
+  },
+  drummerInfo: {
+    fontSize: fontSize.md,
+    marginBottom: spacing.xs / 2,
+  },
+  songInfo: {
+    fontSize: fontSize.sm,
+    marginBottom: spacing.md,
+  },
+  meta: {
+    flexDirection: 'row',
+    gap: spacing.sm,
+    marginBottom: spacing.md,
+  },
+  metaBadge: {
+    paddingHorizontal: spacing.sm,
+    paddingVertical: 4,
+    borderRadius: 4,
+  },
+  metaText: {
+    fontSize: fontSize.xs,
+    fontWeight: fontWeight.medium,
+  },
+  cta: {
+    paddingVertical: spacing.sm,
+    borderRadius: 8,
+    alignItems: 'center',
+  },
+  ctaText: {
+    color: '#fff',
+    fontWeight: fontWeight.bold,
+    fontSize: fontSize.md,
+  },
 });
 
 export default {
   LicksHubPage,
   LickDetailPage,
+  LickOfTheDayWidget,
   isLicksHubPage,
   isLickDetailPage,
   isLicksPage,

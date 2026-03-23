@@ -271,6 +271,7 @@
 | 2026-03-22 | What's In Pete Sandoval's Morbid Angel Arsenal | /articles/whats-in-pete-sandovals-kit | - |
 | 2026-03-22 | What's In George Kollias' Speed Arsenal | /articles/whats-in-george-kollias-kit | - |
 | 2026-03-22 | Altars of Madness Drum Setup: Pete Sandoval | /articles/altars-of-madness-drum-setup | - |
+| 2026-03-23 | What's In Paul Bostaph's Slayer Arsenal | /articles/whats-in-paul-bostaphs-kit | - |
 
 ---
 
@@ -758,7 +759,7 @@
 
 ---
 
-### 💡 [IDEA-039] What's In Paul Bostaph's Slayer Arsenal
+### ✅ [IDEA-039] What's In Paul Bostaph's Slayer Arsenal
 
 **Type:** drummer-kit
 **SEO Keywords:** paul bostaph drum kit, slayer drummer, paul bostaph setup, testament drums
@@ -768,13 +769,13 @@
 
 **Outline:**
 1. Introduction — Carrying Dave Lombardo's Torch
-2. Current Tama Kit Setup
+2. Current DW Kit Setup
 3. Slayer vs Testament Drumming Differences
 4. Signature Techniques (precision thrash)
 5. Evolution Through Divine Intervention to Repentless
 6. Where to Buy Similar Gear
 
-**Status:** IDEA (added 2026-03-22)
+**Status:** PUBLISHED (2026-03-23) — /articles/whats-in-paul-bostaphs-kit
 
 ---
 
@@ -798,6 +799,66 @@
 
 ---
 
+### 💡 [IDEA-041] What's In Nicko McBrain's Iron Maiden Arsenal
+
+**Type:** drummer-kit
+**SEO Keywords:** nicko mcbrain drum kit, iron maiden drummer, nicko mcbrain setup, iron maiden drums
+**Search Volume:** VERY HIGH (Iron Maiden = massive global fanbase!)
+**Data Available:** Yes (in extendedBios)
+**Priority:** 5
+
+**Outline:**
+1. Introduction — The Galloping Rhythm Machine
+2. Current Sonor SQ2 Setup (Custom finish)
+3. Signature Techniques (gallop patterns, single pedal mastery)
+4. Evolution Through Iron Maiden's Catalog
+5. The Paiste Nicko McBrain Signature Cymbals
+6. Where to Buy Similar Gear
+
+**Status:** IDEA (added 2026-03-23)
+
+---
+
+### 💡 [IDEA-042] What's In Vinnie Paul's Pantera Arsenal (Tribute)
+
+**Type:** drummer-kit
+**SEO Keywords:** vinnie paul drum kit, pantera drummer, vinnie paul setup, dimebag drums, hellyeah drums
+**Search Volume:** VERY HIGH (deceased legend, tribute interest + Pantera reunion tour)
+**Data Available:** Yes (in extendedBios)
+**Priority:** 5
+
+**Outline:**
+1. Introduction — The Groove Metal Architect (RIP 2018)
+2. Classic ddrum Setup (Cowboys from Hell era)
+3. Signature Techniques (half-time groove, double bass power)
+4. How His Sound Defined Groove Metal
+5. Gear Evolution from Pantera to Hellyeah
+6. Where to Buy Similar Gear
+
+**Status:** IDEA (added 2026-03-23)
+
+---
+
+### 💡 [IDEA-043] What's In Jay Weinberg's Slipknot Kit
+
+**Type:** drummer-kit
+**SEO Keywords:** jay weinberg drum kit, slipknot drummer, jay weinberg setup, slipknot drums 2024
+**Search Volume:** HIGH (current Slipknot drummer, active touring!)
+**Data Available:** Yes (in extendedBios)
+**Priority:** 5
+
+**Outline:**
+1. Introduction — From E Street to The Nine
+2. Current Pearl Setup (Custom Slipknot configuration)
+3. Signature Techniques (honoring Joey's legacy)
+4. How He Adapted Joey Jordison's Parts
+5. His Own Contributions (We Are Not Your Kind, The End So Far)
+6. Where to Buy Similar Gear
+
+**Status:** IDEA (added 2026-03-23)
+
+---
+
 ## 💡 Idea Backlog (Lower Priority)
 
 - Best Sticks for Blast Beats
@@ -814,4 +875,4 @@
 
 ---
 
-*Last updated: 2026-03-22 17:10*
+*Last updated: 2026-03-23 09:09*

@@ -272,6 +272,7 @@
 | 2026-03-22 | What's In George Kollias' Speed Arsenal | /articles/whats-in-george-kollias-kit | - |
 | 2026-03-22 | Altars of Madness Drum Setup: Pete Sandoval | /articles/altars-of-madness-drum-setup | - |
 | 2026-03-23 | What's In Paul Bostaph's Slayer Arsenal | /articles/whats-in-paul-bostaphs-kit | - |
+| 2026-03-23 | What's In Nicko McBrain's Iron Maiden Arsenal | /articles/whats-in-nicko-mcbrains-kit | - |
 
 ---
 
@@ -799,7 +800,7 @@
 
 ---
 
-### 💡 [IDEA-041] What's In Nicko McBrain's Iron Maiden Arsenal
+### ✅ [IDEA-041] What's In Nicko McBrain's Iron Maiden Arsenal
 
 **Type:** drummer-kit
 **SEO Keywords:** nicko mcbrain drum kit, iron maiden drummer, nicko mcbrain setup, iron maiden drums
@@ -815,7 +816,7 @@
 5. The Paiste Nicko McBrain Signature Cymbals
 6. Where to Buy Similar Gear
 
-**Status:** IDEA (added 2026-03-23)
+**Status:** PUBLISHED (2026-03-23) — /articles/whats-in-nicko-mcbrains-kit
 
 ---
 
@@ -875,4 +876,4 @@
 
 ---
 
-*Last updated: 2026-03-23 09:09*
+*Last updated: 2026-03-23 13:05*

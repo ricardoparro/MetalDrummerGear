@@ -239,6 +239,7 @@
     { "source": "/api/gear/:id", "destination": "/api/gear/[id]?id=:id" },
     { "source": "/api/tier-list/:id", "destination": "/api/tier-list/[id]?id=:id" },
     { "source": "/gear-news/feed.xml", "destination": "/api/gear-news/feed" },
+    { "source": "/embed/gallery", "destination": "/api/embed/gallery" },
     { "source": "/embed/:slug", "destination": "/api/embed/[slug]?slug=:slug" },
     { "source": "/api/embed/track", "destination": "/api/embed/track" },
     { "source": "/api/embed/stats", "destination": "/api/embed/stats" },

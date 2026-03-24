@@ -115,3 +115,25 @@ export {
   WIZARD_STEPS,
   SETUP_CATEGORIES,
 } from './DreamSetupBuilder';
+
+// Gear Card Share Component (Issue #764)
+export {
+  GearCardShare,
+  GearCardShareInline,
+  trackGearCardEvent,
+  getCardUrl,
+} from './GearCardShare';
+
+// Tier List Builder (Issue #763)
+export {
+  default as TierListBuilderPage,
+  isTierListPage,
+  isTierListSharePage,
+  getTierListIdFromUrl,
+  updateTierListMeta,
+  getTierListShareUrl,
+  trackTierListEvent,
+  TIER_CONFIG,
+  TIER_ORDER,
+  PRESET_CATEGORIES,
+} from './TierListBuilder';

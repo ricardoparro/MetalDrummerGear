@@ -188,6 +188,9 @@ import {
   GENRE_OPTIONS as SETUP_GENRE_OPTIONS,
 } from './components/DreamSetupBuilder';
 
+// Gear Card Share Component (Issue #764)
+import { GearCardShare, trackGearCardEvent, getCardUrl } from './components/GearCardShare';
+
 // Drummer Battle - Weekly Voting Feature (Issue #689)
 // Lazy loaded for performance optimization (#708) - 10KB module
 let _battlesModule = null;
@@ -276,6 +279,28 @@ function preloadNameGenerator() {
 }
 function isNameGeneratorPage() { return _nameGeneratorModule?.isNameGeneratorPage?.() ?? (typeof window !== 'undefined' && window.location.pathname === '/tools/metal-drummer-name-generator'); }
 function updateNameGeneratorMeta() { return _nameGeneratorModule?.updateNameGeneratorMeta?.(); }
+
+// Tier List Builder (Issue #763) - Viral ranking tool at /tools/tier-list
+// Lazy loaded for performance optimization - 33KB component
+const LazyTierListBuilderPage = lazy(() => import('./components/TierListBuilder'));
+let _tierListModule = null;
+let _tierListLoadPromise = null;
+const loadTierList = () => import('./components/TierListBuilder');
+
+function preloadTierList() {
+  if (!_tierListLoadPromise) {
+    _tierListLoadPromise = loadTierList().then(m => { _tierListModule = m; return m; });
+  }
+  return _tierListLoadPromise;
+}
+function isTierListPage() { 
+  return _tierListModule?.isTierListPage?.() ?? (typeof window !== 'undefined' && (
+    window.location.pathname === '/tools/tier-list' || 
+    window.location.pathname === '/tools/tier-list/' ||
+    window.location.pathname.startsWith('/tier-list/')
+  )); 
+}
+function updateTierListMeta() { return _tierListModule?.updateTierListMeta?.(); }
 
 // Gear Search Engine (Issue #719) - Find drummers by equipment at /tools/gear-search
 // Lazy loaded for performance optimization - 62KB component + 34KB data
@@ -5598,6 +5623,14 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
 
       <KitCostCalculator drummer={drummer} theme={theme} />
 
+      {/* Gear Card Share - Issue #764: Download & Share buttons for social sharing */}
+      <GearCardShare
+        drummerSlug={drummerSlug}
+        drummerName={drummer.name}
+        bandName={drummer.band}
+        showPreview={true}
+      />
+
       {/* Similar Drummers Section - TEMPORARILY DISABLED - component needs to be restored from PR #158 */}
       {/* TODO: Restore SimilarDrummersSection from feature/issue-157-similar-drummers branch */}
 
@@ -7811,6 +7844,18 @@ const TOOLS_HUB_DATA = [
     route: '/tools/metal-drummer-name-generator',
     color: '#10b981', // Green
     features: ['10,000+ combos', 'Multiple styles', 'Copy & share'],
+  },
+  {
+    id: 'tier-list',
+    icon: '🏆',
+    title: 'Tier List Builder',
+    subtitle: 'Rank the Legends',
+    description: 'Create and share your own metal drummer tier list! Drag and drop to rank drummers by technical skill, influence, speed, or any custom category.',
+    cta: 'Build Tier List',
+    route: '/tools/tier-list',
+    color: '#dc2626', // MetalForge Red
+    features: ['Drag & drop', 'Save & share', 'Download PNG'],
+    isNew: true,
   },
 ];
 
@@ -21149,6 +21194,9 @@ function AppContent() {
   // Metal Drummer Name Generator Page state (Issue #704) - /tools/metal-drummer-name-generator
   const [showNameGenerator, setShowNameGenerator] = useState(() => isNameGeneratorPage());
   
+  // Tier List Builder Page state (Issue #763) - /tools/tier-list and /tier-list/[id]
+  const [showTierList, setShowTierList] = useState(() => isTierListPage());
+  
   // Gear Search Engine Page state (Issue #719) - /tools/gear-search and /gear/:brand
   const [showGearSearch, setShowGearSearch] = useState(() => isGearSearchPage());
   const [showGearBrand, setShowGearBrand] = useState(() => isGearBrandPage());
@@ -22548,12 +22596,58 @@ function AppContent() {
         setShowGearBrand(false);
         setGearBrandSlug(null);
         setShowGearComparisonTool(false);
+        setShowTierList(false);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+      } else if (isTierListPage()) {
+        // Tier List Builder page (Issue #763) - /tools/tier-list and /tier-list/[id]
+        setShowTierList(true);
+        setShowNameGenerator(false);
+        setShowGearSearch(false);
+        setShowGearBrand(false);
+        setGearBrandSlug(null);
+        setShowGearComparisonTool(false);
+        setShowBeginnerGuide(false);
+        setShowGuidesHub(false);
+        setShowGuide(false);
+        setGuideSlug(null);
+        setShowArticle(false);
+        setArticleSlug(null);
+        setShowList(false);
+        setListSlug(null);
+        setShowNewsPage(false);
+        setShowGearNewsPage(false);
+        setShowGearStats(false);
+        setShowTechniquesIndex(false);
+        setShowTechniqueDetail(false);
+        setTechniqueSlug(null);
+        setShowGearComparisonsIndex(false);
+        setShowGearComparison(false);
+        setGearComparisonSlug(null);
+        setShowGenresList(false);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowKitBuilder(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowBattlePage(false);
+        setBattleSlug(null);
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
       } else if (isGearSearchPage()) {
         // Gear Search Engine page (Issue #719) - /tools/gear-search
         setShowGearSearch(true);
+        setShowTierList(false);
         setShowGearBrand(false);
         setGearBrandSlug(null);
         setShowNameGenerator(false);
@@ -24657,6 +24751,26 @@ setShowList(false);
             onBack={() => {
               setShowNameGenerator(false);
               // Navigate back to Tools Hub instead of home (Issue #729)
+              setShowToolsHub(true);
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/tools');
+              }
+            }}
+          />
+        </Suspense>
+      );
+    }
+    // Tier List Builder Page (Issue #763) - /tools/tier-list and /tier-list/[id]
+    // Lazy loaded for performance optimization - 33KB component
+    if (showTierList) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyTierListBuilderPage
+            theme={theme}
+            drummers={drummers}
+            onBack={() => {
+              setShowTierList(false);
+              // Navigate back to Tools Hub instead of home
               setShowToolsHub(true);
               if (Platform.OS === 'web' && typeof window !== 'undefined') {
                 window.history.pushState({}, '', '/tools');

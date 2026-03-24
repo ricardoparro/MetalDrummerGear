@@ -102,9 +102,10 @@ export function getDrummerGearCategoryFromURL() {
 }
 
 // Fetch gear category data from API
+// Note: API endpoint moved to /api/gear to avoid conflict with /api/drummer/[id]
 export async function fetchDrummerGearCategoryData(drummerSlug, category) {
   try {
-    const response = await fetch(`/api/drummer/${drummerSlug}/${category}`);
+    const response = await fetch(`/api/gear/${drummerSlug}/${category}`);
     if (!response.ok) {
       throw new Error(`HTTP ${response.status}`);
     }

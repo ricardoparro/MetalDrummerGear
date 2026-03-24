@@ -479,46 +479,35 @@ function updateLicksHubMeta(drummerName, drummerSlug, licks) {
   return _signatureLicksModule?.updateLicksHubMeta?.(drummerName, drummerSlug, licks); 
 }
 
-// Drummer Gear Evolution Timeline (Issue #767) - Visual History of Setup Changes
-// URL: /drummers/[slug]/evolution
-// Lazy loaded for performance optimization - 31KB component + 15KB data
-const LazyDrummerEvolutionPage = lazy(() => import('./components/DrummerEvolutionPage').then(m => ({ default: m.DrummerEvolutionPage })));
-let _drummerEvolutionModule = null;
-let _drummerEvolutionLoadPromise = null;
-const loadDrummerEvolution = () => import('./components/DrummerEvolutionPage');
+// Drummer Gear Category Pages (Issue #770) - SEO Long-Tail Keyword Pages
+// URL: /drummer/:slug/:category (cymbals, drums, pedals, hardware)
+// Captures searches like "joey jordison cymbals", "what drums does lars ulrich use"
+const LazyDrummerGearCategoryPage = lazy(() => import('./components/DrummerGearCategoryPage').then(m => ({ default: m.DrummerGearCategoryPage })));
+let _drummerGearCategoryModule = null;
+let _drummerGearCategoryLoadPromise = null;
+const loadDrummerGearCategory = () => import('./data/drummerGearCategoryPages');
 
-function preloadDrummerEvolution() {
-  if (!_drummerEvolutionLoadPromise) {
-    _drummerEvolutionLoadPromise = Promise.all([
-      loadDrummerEvolution(),
-      import('./data/drummerEvolution')
-    ]).then(([component, data]) => {
-      _drummerEvolutionModule = { ...component, ...data };
-      return _drummerEvolutionModule;
+function preloadDrummerGearCategory() {
+  if (!_drummerGearCategoryLoadPromise) {
+    _drummerGearCategoryLoadPromise = loadDrummerGearCategory().then(m => {
+      _drummerGearCategoryModule = m;
+      return m;
     });
   }
-  return _drummerEvolutionLoadPromise;
+  return _drummerGearCategoryLoadPromise;
 }
-function isDrummerEvolutionPage() {
-  return _drummerEvolutionModule?.isEvolutionPage?.() ?? (typeof window !== 'undefined' &&
-    /^\/drummers\/[a-z0-9-]+\/evolution\/?$/i.test(window.location.pathname));
+function isDrummerGearCategoryPage() {
+  return _drummerGearCategoryModule?.isDrummerGearCategoryPage?.() ?? (typeof window !== 'undefined' &&
+    /^\/drummer\/[a-z0-9-]+\/(cymbals|drums|pedals|hardware|snare|sticks|heads)$/i.test(window.location.pathname));
 }
-function getDrummerEvolutionSlugFromURL() {
+function getDrummerGearCategoryFromURL() {
   if (typeof window === 'undefined') return null;
-  const match = window.location.pathname.match(/^\/drummers\/([a-z0-9-]+)\/evolution/i);
-  return match ? match[1] : null;
+  const match = window.location.pathname.match(/^\/drummer\/([a-z0-9-]+)\/(cymbals|drums|pedals|hardware|snare|sticks|heads)$/i);
+  if (!match) return null;
+  return { drummerSlug: match[1].toLowerCase(), category: match[2].toLowerCase() };
 }
-function hasEvolutionData(slug) {
-  return _drummerEvolutionModule?.hasEvolutionData?.(slug) ?? false;
-}
-function getDrummerEvolution(slug) {
-  return _drummerEvolutionModule?.getDrummerEvolution?.(slug) ?? null;
-}
-function getEvolutionDrummerSlugs() {
-  return _drummerEvolutionModule?.getEvolutionDrummerSlugs?.() ?? ['lars-ulrich', 'joey-jordison', 'dave-lombardo'];
-}
-function updateEvolutionMeta(drummer) {
-  return _drummerEvolutionModule?.updateEvolutionMeta?.(drummer);
+function updateDrummerGearCategoryMeta(data) {
+  return _drummerGearCategoryModule?.updateGearCategoryMeta?.(data);
 }
 
 // Extended bios for drummer detail pages (Issue #305)
@@ -5569,7 +5558,7 @@ function DrummerComparisonsCTA({ drummerSlug, drummerName, allDrummers, theme })
   );
 }
 
-function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit, allDrummers = [], onNavigateToBio, onNavigateToEvolution }) {
+function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit, allDrummers = [], onNavigateToBio }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
   const drummerSlug = toSlug(drummer.name);
@@ -5578,20 +5567,11 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
   // Similar fix as #541 - prevents race condition where module isn't loaded yet
   const [hasBio, setHasBio] = useState(false);
   
-  // Issue #767: Check if drummer has evolution timeline data
-  const [hasEvolution, setHasEvolution] = useState(false);
-  
   useEffect(() => {
     let mounted = true;
     preloadExtendedBios().then(() => {
       if (mounted) {
         setHasBio(hasExtendedBio(drummerSlug));
-      }
-    });
-    // Preload evolution data and check if this drummer has timeline data
-    preloadDrummerEvolution().then(() => {
-      if (mounted) {
-        setHasEvolution(hasEvolutionData(drummerSlug));
       }
     });
     return () => { mounted = false; };
@@ -5675,40 +5655,6 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
 
       {/* Band Links Section - Issue #351 */}
       <BandLinksSection bandLinks={getExtendedBio(drummerSlug)?.bands} bandName={drummer.band} theme={theme} />
-
-      {/* Gear Evolution Timeline CTA - Issue #767 */}
-      {hasEvolution && (
-        <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.primary, borderWidth: 2 }]}>
-          <Text style={[styles.sectionTitle, { color: theme.text }]}>📅 Gear Evolution Timeline</Text>
-          <Text style={[styles.compareYourKitDescription, { color: theme.secondaryText }]}>
-            See how {drummer.name}'s drum setup evolved over the decades — from early career to today!
-          </Text>
-          {Platform.OS === 'web' ? (
-            <a
-              href={`/drummers/${drummerSlug}/evolution`}
-              onClick={(e) => {
-                e.preventDefault();
-                if (onNavigateToEvolution) onNavigateToEvolution(drummerSlug);
-              }}
-              style={{ textDecoration: 'none', marginTop: 12 }}
-              data-testid="evolution-timeline-link"
-            >
-              <View style={[styles.compareWithAnotherButton, { backgroundColor: theme.primary }]}>
-                <Text style={styles.compareWithAnotherButtonText}>View Evolution Timeline →</Text>
-              </View>
-            </a>
-          ) : (
-            <TouchableOpacity
-              onPress={() => onNavigateToEvolution && onNavigateToEvolution(drummerSlug)}
-              style={[styles.compareWithAnotherButton, { backgroundColor: theme.primary, marginTop: 12 }]}
-              accessibilityRole="link"
-              accessibilityLabel={`View ${drummer.name}'s gear evolution timeline`}
-            >
-              <Text style={styles.compareWithAnotherButtonText}>View Evolution Timeline →</Text>
-            </TouchableOpacity>
-          )}
-        </View>
-      )}
 
       <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
         <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">Gear Setup</Text>
@@ -17114,32 +17060,9 @@ function updateGearCategoryURL(category) {
 // ==========================================
 // DRUMMER GEAR CATEGORY PAGES (Issue #770)
 // SEO Blitz - Long-tail keyword pages at /drummer/:slug/:category
+// Note: isDrummerGearCategoryPage and getDrummerGearCategoryFromURL 
+// are defined earlier (line ~499) for lazy loading
 // ==========================================
-
-// Valid drummer gear categories
-const DRUMMER_GEAR_CATEGORIES = ['cymbals', 'drums', 'pedals', 'hardware', 'snare', 'sticks'];
-
-// Check if we're on a drummer gear category page (/drummer/:slug/:category)
-function isDrummerGearCategoryPage() {
-  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
-  const match = window.location.pathname.match(/^\/drummer\/([a-z0-9-]+)\/([a-z0-9-]+)$/i);
-  if (!match) return false;
-  // Exclude existing routes like /drummer/:slug/bio, /drummer/:slug/signature, /drummer/:slug/licks
-  const excludedSuffixes = ['bio', 'signature', 'licks'];
-  if (excludedSuffixes.includes(match[2])) return false;
-  return DRUMMER_GEAR_CATEGORIES.includes(match[2]);
-}
-
-// Get drummer slug and category from URL
-function getDrummerGearCategoryFromURL() {
-  if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
-  const match = window.location.pathname.match(/^\/drummer\/([a-z0-9-]+)\/([a-z0-9-]+)$/i);
-  if (!match) return null;
-  const excludedSuffixes = ['bio', 'signature', 'licks'];
-  if (excludedSuffixes.includes(match[2])) return null;
-  if (!DRUMMER_GEAR_CATEGORIES.includes(match[2])) return null;
-  return { drummerSlug: match[1], category: match[2] };
-}
 
 // Update URL for drummer gear category page
 function updateDrummerGearCategoryURL(drummerSlug, category) {
@@ -21323,9 +21246,9 @@ function AppContent() {
   const [lickSlug, setLickSlug] = useState(() => getLickSlugFromURL());
   const [licksDrummerSlug, setLicksDrummerSlug] = useState(() => getLicksDrummerSlugFromURL());
   
-  // Drummer Gear Evolution state (Issue #767) - /drummers/[slug]/evolution
-  const [showDrummerEvolution, setShowDrummerEvolution] = useState(() => isDrummerEvolutionPage());
-  const [evolutionDrummerSlug, setEvolutionDrummerSlug] = useState(() => getDrummerEvolutionSlugFromURL());
+  // Drummer Gear Category state (Issue #770) - /drummer/:slug/:category (SEO long-tail pages)
+  const [showGearCategoryPage, setShowGearCategoryPage] = useState(() => isDrummerGearCategoryPage());
+  const [gearCategoryInfo, setGearCategoryInfo] = useState(() => getDrummerGearCategoryFromURL());
   
   const [showGearFinder, setShowGearFinder] = useState(() => isGearFinderPage());
   const [selectedGear, setSelectedGear] = useState(null);
@@ -22989,11 +22912,11 @@ function AppContent() {
         setSelectedGear(null);
         // Preload the component
         preloadGearCards();
-      } else if (isDrummerEvolutionPage()) {
-        // Drummer Gear Evolution page (Issue #767) - /drummers/[slug]/evolution
-        const dSlug = getDrummerEvolutionSlugFromURL();
-        setShowDrummerEvolution(true);
-        setEvolutionDrummerSlug(dSlug);
+      } else if (isDrummerGearCategoryPage()) {
+        // Drummer Gear Category page (Issue #770) - /drummer/:slug/:category
+        const gearInfo = getDrummerGearCategoryFromURL();
+        setShowGearCategoryPage(true);
+        setGearCategoryInfo(gearInfo);
         setShowLickDetail(false);
         setLickSlug(null);
         setShowLicksHub(false);
@@ -23046,7 +22969,7 @@ function AppContent() {
         setSelectedDrummerId(null);
         setSelectedGear(null);
         // Preload the component
-        preloadDrummerEvolution();
+        preloadDrummerGearCategory();
       } else if (isLickDetailPage()) {
         // Lick Detail page (Issue #749) - /drummers/[slug]/licks/[lick-slug]
         const lSlug = getLickSlugFromURL();
@@ -23055,6 +22978,8 @@ function AppContent() {
         setLickSlug(lSlug);
         setLicksDrummerSlug(dSlug);
         setShowLicksHub(false);
+        setShowGearCategoryPage(false);
+        setGearCategoryInfo(null);
         setShowGearCards(false);
         setShowToolsHub(false);
         setShowGearComparisonTool(false);
@@ -25125,29 +25050,40 @@ setShowList(false);
         </Suspense>
       );
     }
-    // Drummer Gear Evolution Page (Issue #767) - /drummers/[slug]/evolution
-    // Visual history of how a drummer's gear evolved over their career
-    if (showDrummerEvolution && evolutionDrummerSlug) {
+    // Drummer Gear Category Page (Issue #770) - /drummer/:slug/:category
+    // SEO long-tail keyword pages for "joey jordison cymbals", "what drums does lars ulrich use", etc.
+    if (showGearCategoryPage && gearCategoryInfo) {
       return (
         <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
-          <LazyDrummerEvolutionPage
+          <LazyDrummerGearCategoryPage
             theme={theme}
-            drummerSlug={evolutionDrummerSlug}
-            drummers={drummers}
+            drummerSlug={gearCategoryInfo.drummerSlug}
+            category={gearCategoryInfo.category}
             onBack={() => {
-              setShowDrummerEvolution(false);
-              setEvolutionDrummerSlug(null);
+              setShowGearCategoryPage(false);
+              setGearCategoryInfo(null);
               // Navigate back to drummer profile
-              if (evolutionDrummerSlug && Platform.OS === 'web' && typeof window !== 'undefined') {
-                window.history.pushState({}, '', `/drummer/${evolutionDrummerSlug}`);
+              if (gearCategoryInfo?.drummerSlug && Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/drummer/${gearCategoryInfo.drummerSlug}`);
                 window.dispatchEvent(new PopStateEvent('popstate'));
               }
             }}
-            onSelectDrummer={handleSelectDrummer}
-            onNavigateToEvolution={(slug) => {
-              setEvolutionDrummerSlug(slug);
+            onNavigate={(slug, category) => {
+              setGearCategoryInfo({ drummerSlug: slug, category });
               if (Platform.OS === 'web' && typeof window !== 'undefined') {
-                window.history.pushState({}, '', `/drummers/${slug}/evolution`);
+                window.history.pushState({}, '', `/drummer/${slug}/${category}`);
+              }
+            }}
+            onNavigateToDrummer={(slug) => {
+              setShowGearCategoryPage(false);
+              setGearCategoryInfo(null);
+              // Find and select the drummer
+              const drummer = drummers.find(d => toSlug(d.name) === slug);
+              if (drummer) {
+                handleSelectDrummer(drummer);
+              }
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/drummer/${slug}`);
               }
             }}
           />
@@ -25889,15 +25825,7 @@ setShowList(false);
     }
     if (selectedDrummer) {
       console.log('[DEBUG] Rendering DrummerDetail for:', selectedDrummer.name);
-      return <DrummerDetail drummer={selectedDrummer} theme={theme} onBack={handleBack} onSelectGear={handleSelectGear} onCompareYourKit={handleCompareYourKit} allDrummers={drummers} onNavigateToBio={handleNavigateToBio} onNavigateToEvolution={(slug) => {
-        setShowDrummerEvolution(true);
-        setEvolutionDrummerSlug(slug);
-        setSelectedDrummer(null);
-        setSelectedDrummerId(null);
-        if (Platform.OS === 'web' && typeof window !== 'undefined') {
-          window.history.pushState({}, '', `/drummers/${slug}/evolution`);
-        }
-      }} />;
+      return <DrummerDetail drummer={selectedDrummer} theme={theme} onBack={handleBack} onSelectGear={handleSelectGear} onCompareYourKit={handleCompareYourKit} allDrummers={drummers} onNavigateToBio={handleNavigateToBio} />;
     }
     return (
       <View style={styles.mainContent} accessibilityRole="main">

@@ -1,226 +1,217 @@
-// Gear Category Pages Data
-// Issue #770: SEO Blitz — Auto-Generate 50 Long-Tail Keyword Pages (Gear-Specific)
-// Supporting data for /gear/:category pages
-
 /**
- * Available gear categories
+ * Gear Category Pages Data Module
+ * Issue #770: SEO Blitz - Auto-Generate Gear-Specific Pages
+ * 
+ * Generates long-tail keyword pages at /drummer/:slug/:category
+ * Captures searches like "joey jordison cymbals", "what drums does lars ulrich use"
  */
-export const DRUMMER_GEAR_CATEGORIES = ['cymbals', 'drums', 'snares', 'pedals', 'hardware', 'sticks'];
 
-/**
- * Category metadata for SEO and display
- */
+// Valid gear categories for URL routing
+export const DRUMMER_GEAR_CATEGORIES = ['cymbals', 'drums', 'pedals', 'hardware', 'snare', 'sticks'];
+
+// Category metadata for SEO and display
 export const CATEGORY_META = {
   cymbals: {
-    title: 'Metal Cymbals',
-    metaTitle: 'Best Cymbals for Metal Drumming - Professional Metal Cymbals Guide | MetalForge',
-    description: 'Discover the best cymbals for metal drumming. From crashes to rides, hi-hats to chinas - explore professional cymbal setups used by legendary metal drummers.',
-    icon: '🔔',
-    emoji: '🥁',
+    label: 'Cymbals',
+    icon: '🥁',
+    pluralLabel: 'Cymbals',
+    description: 'Complete cymbal setup including hi-hats, crashes, rides, and chinas',
+    gearKeys: ['cymbals'],
+    relatedCategories: ['drums', 'hardware'],
   },
   drums: {
-    title: 'Metal Drum Kits',
-    metaTitle: 'Best Drum Kits for Metal - Professional Metal Drums Guide | MetalForge',
-    description: 'Explore professional drum kits used by metal drummers. From Tama Starclassic to Sonor SQ2.',
+    label: 'Drums',
     icon: '🥁',
-    emoji: '🥁',
-  },
-  snares: {
-    title: 'Metal Snare Drums',
-    metaTitle: 'Best Snare Drums for Metal - Professional Metal Snare Guide | MetalForge',
-    description: 'Find the perfect snare drum for metal. Compare steel, brass, and wood snares used by professional metal drummers.',
-    icon: '🔊',
-    emoji: '🥁',
+    pluralLabel: 'Drum Kit',
+    description: 'Full drum kit including bass drums, toms, and shells',
+    gearKeys: ['drums'],
+    relatedCategories: ['snare', 'cymbals', 'hardware'],
   },
   pedals: {
-    title: 'Metal Bass Drum Pedals',
-    metaTitle: 'Best Bass Drum Pedals for Metal - Double Bass Pedal Guide | MetalForge',
-    description: 'Compare the best bass drum pedals for metal drumming. Double pedals and direct drive options.',
+    label: 'Pedals',
     icon: '🦶',
-    emoji: '🦶',
+    pluralLabel: 'Bass Drum Pedals',
+    description: 'Bass drum pedals and footwork setup',
+    gearKeys: ['hardware'],
+    relatedCategories: ['drums', 'hardware'],
   },
   hardware: {
-    title: 'Metal Drum Hardware',
-    metaTitle: 'Best Drum Hardware for Metal - Professional Hardware Guide | MetalForge',
-    description: 'Explore professional drum hardware for metal. Hi-hat stands, cymbal stands, thrones, and rack systems.',
-    icon: '🔩',
-    emoji: '🔧',
+    label: 'Hardware',
+    icon: '⚙️',
+    pluralLabel: 'Hardware Setup',
+    description: 'Stands, racks, thrones, and all drum hardware',
+    gearKeys: ['hardware'],
+    relatedCategories: ['drums', 'pedals'],
+  },
+  snare: {
+    label: 'Snare',
+    icon: '🥁',
+    pluralLabel: 'Snare Drums',
+    description: 'Signature snare drums and snare setup',
+    gearKeys: ['snare'],
+    relatedCategories: ['drums', 'cymbals'],
   },
   sticks: {
-    title: 'Metal Drumsticks',
-    metaTitle: 'Best Drumsticks for Metal - Heavy Duty Drumstick Guide | MetalForge',
-    description: 'Find the perfect drumsticks for metal. Heavy-hitting sticks used by professional metal drummers.',
+    label: 'Sticks',
     icon: '🥢',
-    emoji: '🪵',
+    pluralLabel: 'Drumsticks',
+    description: 'Signature drumsticks and stick preferences',
+    gearKeys: ['sticks'],
+    relatedCategories: ['drums', 'hardware'],
   },
 };
 
-/**
- * Check if a category is valid
- */
-export function isValidCategory(category) {
-  return DRUMMER_GEAR_CATEGORIES.includes(category?.toLowerCase());
-}
+const CYMBAL_BRANDS = ['Zildjian', 'Paiste', 'Sabian', 'Meinl'];
+const DRUM_BRANDS = ['Tama', 'Pearl', 'Sonor', 'DW', 'Ludwig', 'Mapex', 'ddrum', 'SJC', 'OCDP'];
+const PEDAL_BRANDS = ['Tama', 'Pearl', 'DW', 'Gibraltar'];
 
-/**
- * Get gear items for a specific category from a drummer
- */
-export function getGearForCategory(drummer, category) {
-  if (!drummer || !category) return [];
-  
-  const gear = drummer.gear || {};
-  const categoryLower = category.toLowerCase();
-  
-  switch (categoryLower) {
-    case 'cymbals':
-      return gear.cymbals || [];
-    case 'drums':
-      return gear.drums || gear.kit || [];
-    case 'snares':
-      return gear.snare ? [gear.snare] : [];
-    case 'pedals':
-      return gear.pedals ? [gear.pedals] : [];
-    case 'hardware':
-      return gear.hardware || [];
-    case 'sticks':
-      return gear.sticks ? [gear.sticks] : [];
-    default:
-      return [];
+export function extractBrand(gearString, category) {
+  if (!gearString) return null;
+  const brands = category === 'cymbals' ? CYMBAL_BRANDS : 
+                 category === 'drums' ? DRUM_BRANDS :
+                 category === 'pedals' || category === 'hardware' ? [...PEDAL_BRANDS, ...DRUM_BRANDS] :
+                 [...DRUM_BRANDS, ...CYMBAL_BRANDS];
+  for (const brand of brands) {
+    if (gearString.toLowerCase().includes(brand.toLowerCase())) return brand;
   }
+  return null;
 }
 
-/**
- * Generate SEO title for a gear category page
- */
+export function extractPedals(hardwareString) {
+  if (!hardwareString) return null;
+  const pedalKeywords = ['pedal', 'cobra', 'demon', 'eliminator', 'speed'];
+  const items = hardwareString.split(/[,;]/).map(i => i.trim());
+  const pedals = items.filter(item => pedalKeywords.some(kw => item.toLowerCase().includes(kw)));
+  return pedals.length > 0 ? pedals.join(', ') : null;
+}
+
+export function getGearForCategory(drummer, category) {
+  if (!drummer?.gear) return null;
+  const meta = CATEGORY_META[category];
+  if (!meta) return null;
+  if (category === 'pedals') return extractPedals(drummer.gear.hardware);
+  const gearItems = meta.gearKeys.map(key => drummer.gear[key]).filter(Boolean).join(', ');
+  return gearItems || null;
+}
+
 export function generateTitle(drummer, category) {
-  const meta = CATEGORY_META[category] || {};
-  return `What ${meta.title || category} Does ${drummer?.name || 'This Drummer'} Use? | MetalForge`;
+  const meta = CATEGORY_META[category];
+  if (!meta) return `${drummer.name}'s ${category} | MetalForge`;
+  const gearString = getGearForCategory(drummer, category);
+  const brand = extractBrand(gearString, category);
+  if (brand) return `${drummer.name}'s ${meta.pluralLabel}: ${brand} Setup | MetalForge`;
+  return `${drummer.name}'s ${meta.pluralLabel}: Complete Setup | MetalForge`;
 }
 
-/**
- * Generate SEO description for a gear category page
- */
 export function generateDescription(drummer, category) {
-  const meta = CATEGORY_META[category] || {};
-  return `Explore ${drummer?.name || 'this drummer'}'s ${category} setup. Complete gear list, specs, and buying options for ${meta.title || category}.`;
+  const meta = CATEGORY_META[category];
+  if (!meta) return `Explore ${drummer.name}'s ${category} setup.`;
+  const gearString = getGearForCategory(drummer, category);
+  const brand = extractBrand(gearString, category);
+  const brandText = brand ? `${brand} ` : '';
+  return `Explore ${drummer.name}'s (${drummer.band}) complete ${brandText}${meta.label.toLowerCase()} setup. Detailed specs, video timestamps, and gear breakdown.`;
 }
 
-/**
- * Generate canonical URL for a gear category page
- */
 export function generateCanonicalUrl(drummerSlug, category) {
   return `https://metalforge.io/drummer/${drummerSlug}/${category}`;
 }
 
-/**
- * Generate FAQ items for SEO
- */
 export function generateFAQItems(drummer, category) {
-  if (!drummer) return [];
-  
-  const meta = CATEGORY_META[category] || {};
-  
-  return [
-    {
-      question: `What ${category} does ${drummer.name} use?`,
-      answer: `${drummer.name} uses professional-grade ${category} for their drumming. Check out the full list above.`,
-    },
-    {
-      question: `Where can I buy ${drummer.name}'s ${category}?`,
-      answer: `You can find ${drummer.name}'s ${category} at major music retailers like Thomann and Sweetwater. We've included direct links above.`,
-    },
-    {
-      question: `Why does ${drummer.name} use these ${category}?`,
-      answer: `${drummer.name} has chosen their ${category} for specific tonal qualities and durability needed for their playing style in ${drummer.band || 'their band'}.`,
-    },
-  ];
+  const meta = CATEGORY_META[category];
+  if (!meta) return [];
+  const gearString = getGearForCategory(drummer, category);
+  const brand = extractBrand(gearString, category);
+  const faqs = [];
+  faqs.push({
+    question: `What ${meta.label.toLowerCase()} does ${drummer.name} use?`,
+    answer: gearString || `${drummer.name} uses professional-grade ${meta.label.toLowerCase()} for their setup with ${drummer.band}.`,
+  });
+  if (brand) {
+    faqs.push({
+      question: `Why does ${drummer.name} use ${brand}?`,
+      answer: `${drummer.name} has been endorsed by ${brand} and uses their ${meta.label.toLowerCase()} for the distinctive sound heard on ${drummer.band} recordings.`,
+    });
+  }
+  faqs.push({
+    question: `How much do ${drummer.name}'s ${meta.label.toLowerCase()} cost?`,
+    answer: `${drummer.name}'s ${meta.label.toLowerCase()} setup consists of professional-grade equipment. Check the detailed breakdown above for specific models and estimated prices.`,
+  });
+  return faqs;
 }
 
-/**
- * Generate JSON-LD schema for gear category pages
- */
 export function generateSchema(drummer, category, url) {
-  const meta = CATEGORY_META[category] || {};
-  
+  const meta = CATEGORY_META[category];
+  const faqs = generateFAQItems(drummer, category);
   return {
-    '@context': 'https://schema.org',
-    '@type': 'Article',
-    headline: generateTitle(drummer, category),
-    description: generateDescription(drummer, category),
-    url: url,
-    author: {
-      '@type': 'Organization',
-      name: 'MetalForge',
-    },
-    publisher: {
-      '@type': 'Organization',
-      name: 'MetalForge',
-      logo: {
-        '@type': 'ImageObject',
-        url: 'https://metalforge.io/images/logo.png',
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": url,
+        "url": url,
+        "name": generateTitle(drummer, category),
+        "description": generateDescription(drummer, category),
+        "isPartOf": { "@id": "https://metalforge.io" },
+        "about": { "@type": "Person", "name": drummer.name, "description": drummer.bio },
       },
-    },
-    about: {
-      '@type': 'Person',
-      name: drummer?.name,
-      jobTitle: 'Drummer',
-      memberOf: drummer?.band ? {
-        '@type': 'MusicGroup',
-        name: drummer.band,
-      } : undefined,
-    },
-    mainEntity: {
-      '@type': 'ItemList',
-      name: `${drummer?.name}'s ${meta.title || category}`,
-      itemListElement: getGearForCategory(drummer, category).map((item, index) => ({
-        '@type': 'ListItem',
-        position: index + 1,
-        item: {
-          '@type': 'Product',
-          name: typeof item === 'string' ? item : item.name || item.model || 'Gear Item',
-        },
-      })),
-    },
+      {
+        "@type": "FAQPage",
+        "mainEntity": faqs.map(faq => ({
+          "@type": "Question",
+          "name": faq.question,
+          "acceptedAnswer": { "@type": "Answer", "text": faq.answer },
+        })),
+      },
+    ],
   };
 }
 
-/**
- * Get related pages for a category
- */
-export function getRelatedPages(category) {
-  return DRUMMER_GEAR_CATEGORIES.filter(c => c !== category).map(c => ({
-    slug: c,
-    ...CATEGORY_META[c],
+export function getRelatedPages(drummerSlug, currentCategory) {
+  const meta = CATEGORY_META[currentCategory];
+  if (!meta) return [];
+  return meta.relatedCategories.map(cat => ({
+    category: cat,
+    label: CATEGORY_META[cat]?.pluralLabel || cat,
+    url: `/drummer/${drummerSlug}/${cat}`,
   }));
 }
 
-/**
- * Extract brand from a gear item
- */
-export function extractBrand(gearItem) {
-  if (!gearItem) return null;
-  if (typeof gearItem === 'string') {
-    // Try to extract brand from string like "Zildjian K Custom"
-    const parts = gearItem.split(' ');
-    return parts[0] || null;
+export function isValidCategory(category) {
+  return DRUMMER_GEAR_CATEGORIES.includes(category);
+}
+
+export const PRIORITY_DRUMMERS = [
+  'joey-jordison', 'lars-ulrich', 'george-kollias', 'mario-duplantier',
+  'dave-lombardo', 'brann-dailor', 'tomas-haake', 'danny-carey',
+  'gene-hoglan', 'eloy-casagrande', 'mike-portnoy', 'vinnie-paul',
+  'charlie-benante', 'ray-luzier', 'john-otto', 'jay-weinberg',
+];
+
+export const PRIORITY_CATEGORIES = ['cymbals', 'drums', 'pedals', 'hardware'];
+
+export function getPriorityPages() {
+  const pages = [];
+  for (const drummer of PRIORITY_DRUMMERS) {
+    for (const category of PRIORITY_CATEGORIES) {
+      pages.push({ drummerSlug: drummer, category, url: `/drummer/${drummer}/${category}` });
+    }
   }
-  return gearItem.brand || gearItem.manufacturer || null;
+  return pages.slice(0, 50);
 }
 
-/**
- * Check if we're on a gear category page
- */
-export function isGearCategoryPage() {
-  if (typeof window === 'undefined') return false;
-  const pathname = window.location.pathname;
-  return /^\/gear\/[a-z]+\/?$/i.test(pathname);
-}
-
-/**
- * Get category from URL
- */
-export function getCategoryFromURL() {
-  if (typeof window === 'undefined') return null;
-  const match = window.location.pathname.match(/^\/gear\/([a-z]+)/i);
-  return match ? match[1].toLowerCase() : null;
-}
+export default {
+  DRUMMER_GEAR_CATEGORIES,
+  CATEGORY_META,
+  isValidCategory,
+  getGearForCategory,
+  generateTitle,
+  generateDescription,
+  generateCanonicalUrl,
+  generateFAQItems,
+  generateSchema,
+  getRelatedPages,
+  extractBrand,
+  getPriorityPages,
+  PRIORITY_DRUMMERS,
+  PRIORITY_CATEGORIES,
+};

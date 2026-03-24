@@ -137,3 +137,9 @@ export {
   trackGearCardEvent,
   getCardUrl,
 } from './GearCardShare';
+
+// Drummer Gear Evolution Timeline (Issue #767)
+export {
+  DrummerEvolutionPage,
+  default as DrummerEvolutionPageDefault,
+} from './DrummerEvolutionPage';

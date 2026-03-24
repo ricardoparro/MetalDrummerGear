@@ -41,6 +41,28 @@
       ]
     },
     {
+      "source": "/api/og/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=86400, s-maxage=86400, stale-while-revalidate=604800"
+        },
+        {
+          "key": "Content-Type",
+          "value": "image/png"
+        }
+      ]
+    },
+    {
+      "source": "/api/meta/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, s-maxage=3600, stale-while-revalidate=86400"
+        }
+      ]
+    },
+    {
       "source": "/api/image(.*)",
       "headers": [
         {
@@ -256,6 +278,7 @@
     { "source": "/embed/:slug", "destination": "/api/embed/[slug]?slug=:slug" },
     { "source": "/api/embed/track", "destination": "/api/embed/track" },
     { "source": "/api/embed/stats", "destination": "/api/embed/stats" },
+    { "source": "/api/gear/:slug/:category", "destination": "/api/gear/[slug]/[category]?slug=:slug&category=:category" },
     { "source": "/:path*", "destination": "/index.html" }
   ]
 }

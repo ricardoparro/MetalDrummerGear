@@ -11362,45 +11362,7 @@ function BandDetailPage({ bandSlug, drummers, onBack, onSelectDrummer, theme }) 
 // GEAR CATEGORY PAGES (Issue #339)
 // ==========================================
 
-// Gear category metadata for SEO
-const GEAR_CATEGORY_META = {
-  cymbals: {
-    title: 'Metal Cymbals',
-    metaTitle: 'Best Cymbals for Metal Drumming - Professional Metal Cymbals Guide | MetalForge',
-    description: 'Discover the best cymbals for metal drumming. From crashes to rides, hi-hats to chinas - explore professional cymbal setups used by legendary metal drummers.',
-    icon: '🥁',
-  },
-  snares: {
-    title: 'Metal Snare Drums',
-    metaTitle: 'Best Snare Drums for Metal - Professional Metal Snare Guide | MetalForge',
-    description: 'Find the perfect snare drum for metal. Compare steel, brass, and wood snares used by professional metal drummers.',
-    icon: '🥁',
-  },
-  drums: {
-    title: 'Metal Drum Kits',
-    metaTitle: 'Best Drum Kits for Metal - Professional Metal Drums Guide | MetalForge',
-    description: 'Explore professional drum kits used by metal drummers. From Tama Starclassic to Sonor SQ2.',
-    icon: '🥁',
-  },
-  pedals: {
-    title: 'Metal Bass Drum Pedals',
-    metaTitle: 'Best Bass Drum Pedals for Metal - Double Bass Pedal Guide | MetalForge',
-    description: 'Compare the best bass drum pedals for metal drumming. Double pedals and direct drive options.',
-    icon: '🦶',
-  },
-  sticks: {
-    title: 'Metal Drumsticks',
-    metaTitle: 'Best Drumsticks for Metal - Heavy Duty Drumstick Guide | MetalForge',
-    description: 'Find the perfect drumsticks for metal. Heavy-hitting sticks used by professional metal drummers.',
-    icon: '🥢',
-  },
-  hardware: {
-    title: 'Metal Drum Hardware',
-    metaTitle: 'Best Drum Hardware for Metal - Professional Hardware Guide | MetalForge',
-    description: 'Explore professional drum hardware for metal. Hi-hat stands, cymbal stands, thrones, and rack systems.',
-    icon: '🔩',
-  },
-};
+// Note: GEAR_CATEGORY_META is imported from './data/gearCategoryPages'
 
 /**
  * GearIndexPage - Main gear landing page with all categories

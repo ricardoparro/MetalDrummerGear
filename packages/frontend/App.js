@@ -188,9 +188,6 @@ import {
   GENRE_OPTIONS as SETUP_GENRE_OPTIONS,
 } from './components/DreamSetupBuilder';
 
-// Gear Card Share Component (Issue #764)
-import { GearCardShare, trackGearCardEvent, getCardUrl } from './components/GearCardShare';
-
 // Drummer Battle - Weekly Voting Feature (Issue #689)
 // Lazy loaded for performance optimization (#708) - 10KB module
 let _battlesModule = null;

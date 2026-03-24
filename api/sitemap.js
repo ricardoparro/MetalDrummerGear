@@ -249,6 +249,23 @@ const drummerLicksHubs = [
   { drummerSlug: 'mario-duplantier', name: 'Mario Duplantier' },
 ];
 
+// Issue #770: SEO Blitz - Drummer Gear Category Pages
+// Long-tail keyword pages at /drummer/:slug/:category
+const drummerGearCategories = ['cymbals', 'drums', 'pedals', 'hardware', 'snare', 'sticks'];
+const priorityDrummersForGearPages = [
+  'joey-jordison', 'lars-ulrich', 'george-kollias', 'mario-duplantier',
+  'dave-lombardo', 'brann-dailor', 'tomas-haake', 'danny-carey',
+  'gene-hoglan', 'eloy-casagrande', 'mike-portnoy', 'vinnie-paul',
+  'charlie-benante', 'ray-luzier', 'john-otto', 'jay-weinberg',
+];
+// Generate all drummer gear category page combinations (priority drummers × 4 main categories)
+const drummerGearCategoryPages = [];
+for (const drummerSlug of priorityDrummersForGearPages) {
+  for (const category of ['cymbals', 'drums', 'pedals', 'hardware']) {
+    drummerGearCategoryPages.push({ drummerSlug, category });
+  }
+}
+
 const BASE_URL = 'https://metalforge.io';
 
 function generateSlug(name) {
@@ -317,6 +334,8 @@ export default function handler(req, res) {
     // Issue #749: Signature Licks Database pages
     ...drummerLicksHubs.map(d => ({ loc: `/drummers/${d.drummerSlug}/licks`, priority: '0.9', changefreq: 'weekly' })),
     ...signatureLicksPages.map(sl => ({ loc: `/drummers/${sl.drummerSlug}/licks/${sl.lickSlug}`, priority: '0.85', changefreq: 'monthly' })),
+    // Issue #770: SEO Blitz - Drummer Gear Category Pages (long-tail keywords)
+    ...drummerGearCategoryPages.map(dgc => ({ loc: `/drummer/${dgc.drummerSlug}/${dgc.category}`, priority: '0.85', changefreq: 'monthly' })),
   ];
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">

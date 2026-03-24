@@ -247,6 +247,19 @@
       ]
     }
   ],
+  "redirects": [
+    { "source": "/what-cymbals-does-:slug-use", "destination": "/drummer/:slug/cymbals", "permanent": true },
+    { "source": "/what-drums-does-:slug-use", "destination": "/drummer/:slug/drums", "permanent": true },
+    { "source": "/what-drums-does-:slug-play", "destination": "/drummer/:slug/drums", "permanent": true },
+    { "source": "/what-pedals-does-:slug-use", "destination": "/drummer/:slug/pedals", "permanent": true },
+    { "source": "/what-hardware-does-:slug-use", "destination": "/drummer/:slug/hardware", "permanent": true },
+    { "source": "/what-snare-does-:slug-use", "destination": "/drummer/:slug/snare", "permanent": true },
+    { "source": "/what-sticks-does-:slug-use", "destination": "/drummer/:slug/sticks", "permanent": true },
+    { "source": "/:slug-cymbals", "destination": "/drummer/:slug/cymbals", "permanent": true },
+    { "source": "/:slug-drums", "destination": "/drummer/:slug/drums", "permanent": true },
+    { "source": "/:slug-pedals", "destination": "/drummer/:slug/pedals", "permanent": true },
+    { "source": "/:slug-gear-list", "destination": "/drummer/:slug", "permanent": true }
+  ],
   "rewrites": [
     { "source": "/robots.txt", "destination": "/api/robots" },
     { "source": "/sitemap.xml", "destination": "/api/sitemap" },

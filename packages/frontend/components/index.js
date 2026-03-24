@@ -116,7 +116,6 @@ export {
   SETUP_CATEGORIES,
 } from './DreamSetupBuilder';
 
-
 // Tier List Builder (Issue #763)
 export {
   default as TierListBuilderPage,
@@ -130,3 +129,11 @@ export {
   TIER_ORDER,
   PRESET_CATEGORIES,
 } from './TierListBuilder';
+
+// Gear Card Share Component (Issue #764)
+export {
+  GearCardShare,
+  GearCardShareInline,
+  trackGearCardEvent,
+  getCardUrl,
+} from './GearCardShare';

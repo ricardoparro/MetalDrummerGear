@@ -2,6 +2,15 @@
  * Components index - Re-export all components for cleaner imports
  */
 
+// SEO Head - Social Meta Tags (Issue #769)
+export {
+  SeoHead,
+  SEO_CONFIGS,
+  getDrummerSeo,
+  getVsComparisonSeo,
+  getSoundLikeSeo,
+} from './SeoHead';
+
 // Quiz Share Buttons (Issue #678)
 export { QuizShareButtons, trackQuizShare, getShareUrl, getShareText, shareHandlers } from './QuizShareButtons';
 

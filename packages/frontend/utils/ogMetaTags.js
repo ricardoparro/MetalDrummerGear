@@ -739,13 +739,15 @@ export function updateToolsHubMeta() {
 }
 
 /**
- * Update OG meta for gear statistics page (Issue #695)
+ * Update OG meta for gear statistics page (Issue #695, #769)
+ * Issue #769: Uses dynamic OG image API
  */
 export function updateGearStatsMeta() {
   updateOgMeta({
-    title: 'Metal Drummer Gear Statistics - Brand Analysis & Cost Insights | MetalForge',
-    description: 'Discover what gear professional metal drummers actually use. Statistics on cymbal brands, drum kits, snare drums, and average setup costs by genre. Data from 60+ metal drummers.',
-    url: '/stats/gear-insights',
+    title: 'Metal Drummer Gear Statistics — Data-Driven Insights | MetalForge',
+    description: 'Most popular cymbals, drums, and gear among 60+ legendary metal drummers. See what the pros actually use (with real stats).',
+    url: '/stats',
+    image: `${BASE_URL}/api/og/stats`,
     keywords: 'metal drummer gear statistics, best cymbals for metal, most popular metal drums, metal drum setup cost, drummer gear brands, professional drum equipment',
   });
 

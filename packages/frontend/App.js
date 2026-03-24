@@ -17060,32 +17060,9 @@ function updateGearCategoryURL(category) {
 // ==========================================
 // DRUMMER GEAR CATEGORY PAGES (Issue #770)
 // SEO Blitz - Long-tail keyword pages at /drummer/:slug/:category
+// Note: isDrummerGearCategoryPage and getDrummerGearCategoryFromURL 
+// are defined earlier (line ~499) for lazy loading
 // ==========================================
-
-// Valid drummer gear categories
-const DRUMMER_GEAR_CATEGORIES = ['cymbals', 'drums', 'pedals', 'hardware', 'snare', 'sticks'];
-
-// Check if we're on a drummer gear category page (/drummer/:slug/:category)
-function isDrummerGearCategoryPage() {
-  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
-  const match = window.location.pathname.match(/^\/drummer\/([a-z0-9-]+)\/([a-z0-9-]+)$/i);
-  if (!match) return false;
-  // Exclude existing routes like /drummer/:slug/bio, /drummer/:slug/signature, /drummer/:slug/licks
-  const excludedSuffixes = ['bio', 'signature', 'licks'];
-  if (excludedSuffixes.includes(match[2])) return false;
-  return DRUMMER_GEAR_CATEGORIES.includes(match[2]);
-}
-
-// Get drummer slug and category from URL
-function getDrummerGearCategoryFromURL() {
-  if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
-  const match = window.location.pathname.match(/^\/drummer\/([a-z0-9-]+)\/([a-z0-9-]+)$/i);
-  if (!match) return null;
-  const excludedSuffixes = ['bio', 'signature', 'licks'];
-  if (excludedSuffixes.includes(match[2])) return null;
-  if (!DRUMMER_GEAR_CATEGORIES.includes(match[2])) return null;
-  return { drummerSlug: match[1], category: match[2] };
-}
 
 // Update URL for drummer gear category page
 function updateDrummerGearCategoryURL(drummerSlug, category) {

@@ -464,6 +464,48 @@ function updateLicksHubMeta(drummerName, drummerSlug, licks) {
   return _signatureLicksModule?.updateLicksHubMeta?.(drummerName, drummerSlug, licks); 
 }
 
+// Drummer Gear Evolution Timeline (Issue #767) - Visual History of Setup Changes
+// URL: /drummers/[slug]/evolution
+// Lazy loaded for performance optimization - 31KB component + 15KB data
+const LazyDrummerEvolutionPage = lazy(() => import('./components/DrummerEvolutionPage').then(m => ({ default: m.DrummerEvolutionPage })));
+let _drummerEvolutionModule = null;
+let _drummerEvolutionLoadPromise = null;
+const loadDrummerEvolution = () => import('./components/DrummerEvolutionPage');
+
+function preloadDrummerEvolution() {
+  if (!_drummerEvolutionLoadPromise) {
+    _drummerEvolutionLoadPromise = Promise.all([
+      loadDrummerEvolution(),
+      import('./data/drummerEvolution')
+    ]).then(([component, data]) => {
+      _drummerEvolutionModule = { ...component, ...data };
+      return _drummerEvolutionModule;
+    });
+  }
+  return _drummerEvolutionLoadPromise;
+}
+function isDrummerEvolutionPage() {
+  return _drummerEvolutionModule?.isEvolutionPage?.() ?? (typeof window !== 'undefined' &&
+    /^\/drummers\/[a-z0-9-]+\/evolution\/?$/i.test(window.location.pathname));
+}
+function getDrummerEvolutionSlugFromURL() {
+  if (typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(/^\/drummers\/([a-z0-9-]+)\/evolution/i);
+  return match ? match[1] : null;
+}
+function hasEvolutionData(slug) {
+  return _drummerEvolutionModule?.hasEvolutionData?.(slug) ?? false;
+}
+function getDrummerEvolution(slug) {
+  return _drummerEvolutionModule?.getDrummerEvolution?.(slug) ?? null;
+}
+function getEvolutionDrummerSlugs() {
+  return _drummerEvolutionModule?.getEvolutionDrummerSlugs?.() ?? ['lars-ulrich', 'joey-jordison', 'dave-lombardo'];
+}
+function updateEvolutionMeta(drummer) {
+  return _drummerEvolutionModule?.updateEvolutionMeta?.(drummer);
+}
+
 // Extended bios for drummer detail pages (Issue #305)
 // Loaded dynamically for code splitting (~9KB of text data) - TBT optimization #460
 // Fix for #541: Added Promise caching and listeners for reliable async loading
@@ -5512,7 +5554,7 @@ function DrummerComparisonsCTA({ drummerSlug, drummerName, allDrummers, theme })
   );
 }
 
-function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit, allDrummers = [], onNavigateToBio }) {
+function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit, allDrummers = [], onNavigateToBio, onNavigateToEvolution }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
   const drummerSlug = toSlug(drummer.name);
@@ -5521,11 +5563,20 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
   // Similar fix as #541 - prevents race condition where module isn't loaded yet
   const [hasBio, setHasBio] = useState(false);
   
+  // Issue #767: Check if drummer has evolution timeline data
+  const [hasEvolution, setHasEvolution] = useState(false);
+  
   useEffect(() => {
     let mounted = true;
     preloadExtendedBios().then(() => {
       if (mounted) {
         setHasBio(hasExtendedBio(drummerSlug));
+      }
+    });
+    // Preload evolution data and check if this drummer has timeline data
+    preloadDrummerEvolution().then(() => {
+      if (mounted) {
+        setHasEvolution(hasEvolutionData(drummerSlug));
       }
     });
     return () => { mounted = false; };
@@ -5609,6 +5660,40 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
 
       {/* Band Links Section - Issue #351 */}
       <BandLinksSection bandLinks={getExtendedBio(drummerSlug)?.bands} bandName={drummer.band} theme={theme} />
+
+      {/* Gear Evolution Timeline CTA - Issue #767 */}
+      {hasEvolution && (
+        <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.primary, borderWidth: 2 }]}>
+          <Text style={[styles.sectionTitle, { color: theme.text }]}>📅 Gear Evolution Timeline</Text>
+          <Text style={[styles.compareYourKitDescription, { color: theme.secondaryText }]}>
+            See how {drummer.name}'s drum setup evolved over the decades — from early career to today!
+          </Text>
+          {Platform.OS === 'web' ? (
+            <a
+              href={`/drummers/${drummerSlug}/evolution`}
+              onClick={(e) => {
+                e.preventDefault();
+                if (onNavigateToEvolution) onNavigateToEvolution(drummerSlug);
+              }}
+              style={{ textDecoration: 'none', marginTop: 12 }}
+              data-testid="evolution-timeline-link"
+            >
+              <View style={[styles.compareWithAnotherButton, { backgroundColor: theme.primary }]}>
+                <Text style={styles.compareWithAnotherButtonText}>View Evolution Timeline →</Text>
+              </View>
+            </a>
+          ) : (
+            <TouchableOpacity
+              onPress={() => onNavigateToEvolution && onNavigateToEvolution(drummerSlug)}
+              style={[styles.compareWithAnotherButton, { backgroundColor: theme.primary, marginTop: 12 }]}
+              accessibilityRole="link"
+              accessibilityLabel={`View ${drummer.name}'s gear evolution timeline`}
+            >
+              <Text style={styles.compareWithAnotherButtonText}>View Evolution Timeline →</Text>
+            </TouchableOpacity>
+          )}
+        </View>
+      )}
 
       <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
         <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">Gear Setup</Text>
@@ -21221,6 +21306,10 @@ function AppContent() {
   const [lickSlug, setLickSlug] = useState(() => getLickSlugFromURL());
   const [licksDrummerSlug, setLicksDrummerSlug] = useState(() => getLicksDrummerSlugFromURL());
   
+  // Drummer Gear Evolution state (Issue #767) - /drummers/[slug]/evolution
+  const [showDrummerEvolution, setShowDrummerEvolution] = useState(() => isDrummerEvolutionPage());
+  const [evolutionDrummerSlug, setEvolutionDrummerSlug] = useState(() => getDrummerEvolutionSlugFromURL());
+  
   const [showGearFinder, setShowGearFinder] = useState(() => isGearFinderPage());
   const [selectedGear, setSelectedGear] = useState(null);
   const [loadingGear, setLoadingGear] = useState(false);
@@ -22883,6 +22972,64 @@ function AppContent() {
         setSelectedGear(null);
         // Preload the component
         preloadGearCards();
+      } else if (isDrummerEvolutionPage()) {
+        // Drummer Gear Evolution page (Issue #767) - /drummers/[slug]/evolution
+        const dSlug = getDrummerEvolutionSlugFromURL();
+        setShowDrummerEvolution(true);
+        setEvolutionDrummerSlug(dSlug);
+        setShowLickDetail(false);
+        setLickSlug(null);
+        setShowLicksHub(false);
+        setLicksDrummerSlug(null);
+        setShowGearCards(false);
+        setShowToolsHub(false);
+        setShowGearComparisonTool(false);
+        setShowGearSearch(false);
+        setShowGearBrand(false);
+        setGearBrandSlug(null);
+        setShowNameGenerator(false);
+        setShowBeginnerGuide(false);
+        setShowGuidesHub(false);
+        setShowGuide(false);
+        setGuideSlug(null);
+        setShowArticle(false);
+        setArticleSlug(null);
+        setShowList(false);
+        setListSlug(null);
+        setShowNewsPage(false);
+        setShowGearNewsPage(false);
+        setShowGearStats(false);
+        setShowTechniquesIndex(false);
+        setShowTechniqueDetail(false);
+        setTechniqueSlug(null);
+        setShowGearComparisonsIndex(false);
+        setShowGearComparison(false);
+        setGearComparisonSlug(null);
+        setShowGenresList(false);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowKitBuilder(false);
+        setShowKitQuiz(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowBattlePage(false);
+        setBattleSlug(null);
+        setShowTimelinePage(false);
+        setShowSignatureGear(false);
+        setSignatureGearSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+        // Preload the component
+        preloadDrummerEvolution();
       } else if (isLickDetailPage()) {
         // Lick Detail page (Issue #749) - /drummers/[slug]/licks/[lick-slug]
         const lSlug = getLickSlugFromURL();
@@ -24905,6 +25052,35 @@ setShowList(false);
         </Suspense>
       );
     }
+    // Drummer Gear Evolution Page (Issue #767) - /drummers/[slug]/evolution
+    // Visual history of how a drummer's gear evolved over their career
+    if (showDrummerEvolution && evolutionDrummerSlug) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyDrummerEvolutionPage
+            theme={theme}
+            drummerSlug={evolutionDrummerSlug}
+            drummers={drummers}
+            onBack={() => {
+              setShowDrummerEvolution(false);
+              setEvolutionDrummerSlug(null);
+              // Navigate back to drummer profile
+              if (evolutionDrummerSlug && Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/drummer/${evolutionDrummerSlug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onSelectDrummer={handleSelectDrummer}
+            onNavigateToEvolution={(slug) => {
+              setEvolutionDrummerSlug(slug);
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/drummers/${slug}/evolution`);
+              }
+            }}
+          />
+        </Suspense>
+      );
+    }
     // Signature Licks Detail Page (Issue #749) - /drummers/[slug]/licks/[lick-slug]
     // Individual lick with video, technique breakdown, and gear info
     if (showLickDetail && lickSlug) {
@@ -25421,7 +25597,15 @@ setShowList(false);
     }
     if (selectedDrummer) {
       console.log('[DEBUG] Rendering DrummerDetail for:', selectedDrummer.name);
-      return <DrummerDetail drummer={selectedDrummer} theme={theme} onBack={handleBack} onSelectGear={handleSelectGear} onCompareYourKit={handleCompareYourKit} allDrummers={drummers} onNavigateToBio={handleNavigateToBio} />;
+      return <DrummerDetail drummer={selectedDrummer} theme={theme} onBack={handleBack} onSelectGear={handleSelectGear} onCompareYourKit={handleCompareYourKit} allDrummers={drummers} onNavigateToBio={handleNavigateToBio} onNavigateToEvolution={(slug) => {
+        setShowDrummerEvolution(true);
+        setEvolutionDrummerSlug(slug);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        if (Platform.OS === 'web' && typeof window !== 'undefined') {
+          window.history.pushState({}, '', `/drummers/${slug}/evolution`);
+        }
+      }} />;
     }
     return (
       <View style={styles.mainContent} accessibilityRole="main">

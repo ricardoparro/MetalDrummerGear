@@ -521,6 +521,37 @@ function updateEvolutionMeta(drummer) {
   return _drummerEvolutionModule?.updateEvolutionMeta?.(drummer);
 }
 
+// Drummer Gear Category Pages (Issue #770) - SEO Long-Tail Keyword Pages
+// URL: /drummer/:slug/:category (cymbals, drums, pedals, hardware)
+// Captures searches like "joey jordison cymbals", "what drums does lars ulrich use"
+const LazyDrummerGearCategoryPage = lazy(() => import('./components/DrummerGearCategoryPage').then(m => ({ default: m.DrummerGearCategoryPage })));
+let _drummerGearCategoryModule = null;
+let _drummerGearCategoryLoadPromise = null;
+const loadDrummerGearCategory = () => import('./data/drummerGearCategoryPages');
+
+function preloadDrummerGearCategory() {
+  if (!_drummerGearCategoryLoadPromise) {
+    _drummerGearCategoryLoadPromise = loadDrummerGearCategory().then(m => {
+      _drummerGearCategoryModule = m;
+      return m;
+    });
+  }
+  return _drummerGearCategoryLoadPromise;
+}
+function isDrummerGearCategoryPage() {
+  return _drummerGearCategoryModule?.isDrummerGearCategoryPage?.() ?? (typeof window !== 'undefined' &&
+    /^\/drummer\/[a-z0-9-]+\/(cymbals|drums|pedals|hardware|snare|sticks|heads)$/i.test(window.location.pathname));
+}
+function getDrummerGearCategoryFromURL() {
+  if (typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(/^\/drummer\/([a-z0-9-]+)\/(cymbals|drums|pedals|hardware|snare|sticks|heads)$/i);
+  if (!match) return null;
+  return { drummerSlug: match[1].toLowerCase(), category: match[2].toLowerCase() };
+}
+function updateDrummerGearCategoryMeta(data) {
+  return _drummerGearCategoryModule?.updateGearCategoryMeta?.(data);
+}
+
 // Extended bios for drummer detail pages (Issue #305)
 // Loaded dynamically for code splitting (~9KB of text data) - TBT optimization #460
 // Fix for #541: Added Promise caching and listeners for reliable async loading
@@ -21327,6 +21358,10 @@ function AppContent() {
   const [showDrummerEvolution, setShowDrummerEvolution] = useState(() => isDrummerEvolutionPage());
   const [evolutionDrummerSlug, setEvolutionDrummerSlug] = useState(() => getDrummerEvolutionSlugFromURL());
   
+  // Drummer Gear Category state (Issue #770) - /drummer/:slug/:category (SEO long-tail pages)
+  const [showGearCategoryPage, setShowGearCategoryPage] = useState(() => isDrummerGearCategoryPage());
+  const [gearCategoryInfo, setGearCategoryInfo] = useState(() => getDrummerGearCategoryFromURL());
+  
   const [showGearFinder, setShowGearFinder] = useState(() => isGearFinderPage());
   const [selectedGear, setSelectedGear] = useState(null);
   const [loadingGear, setLoadingGear] = useState(false);
@@ -22994,6 +23029,8 @@ function AppContent() {
         const dSlug = getDrummerEvolutionSlugFromURL();
         setShowDrummerEvolution(true);
         setEvolutionDrummerSlug(dSlug);
+        setShowGearCategoryPage(false);
+        setGearCategoryInfo(null);
         setShowLickDetail(false);
         setLickSlug(null);
         setShowLicksHub(false);
@@ -23047,6 +23084,66 @@ function AppContent() {
         setSelectedGear(null);
         // Preload the component
         preloadDrummerEvolution();
+      } else if (isDrummerGearCategoryPage()) {
+        // Drummer Gear Category page (Issue #770) - /drummer/:slug/:category
+        const gearInfo = getDrummerGearCategoryFromURL();
+        setShowGearCategoryPage(true);
+        setGearCategoryInfo(gearInfo);
+        setShowDrummerEvolution(false);
+        setEvolutionDrummerSlug(null);
+        setShowLickDetail(false);
+        setLickSlug(null);
+        setShowLicksHub(false);
+        setLicksDrummerSlug(null);
+        setShowGearCards(false);
+        setShowToolsHub(false);
+        setShowGearComparisonTool(false);
+        setShowGearSearch(false);
+        setShowGearBrand(false);
+        setGearBrandSlug(null);
+        setShowNameGenerator(false);
+        setShowBeginnerGuide(false);
+        setShowGuidesHub(false);
+        setShowGuide(false);
+        setGuideSlug(null);
+        setShowArticle(false);
+        setArticleSlug(null);
+        setShowList(false);
+        setListSlug(null);
+        setShowNewsPage(false);
+        setShowGearNewsPage(false);
+        setShowGearStats(false);
+        setShowTechniquesIndex(false);
+        setShowTechniqueDetail(false);
+        setTechniqueSlug(null);
+        setShowGearComparisonsIndex(false);
+        setShowGearComparison(false);
+        setGearComparisonSlug(null);
+        setShowGenresList(false);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowKitBuilder(false);
+        setShowKitQuiz(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowBattlePage(false);
+        setBattleSlug(null);
+        setShowTimelinePage(false);
+        setShowSignatureGear(false);
+        setSignatureGearSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+        // Preload the component
+        preloadDrummerGearCategory();
       } else if (isLickDetailPage()) {
         // Lick Detail page (Issue #749) - /drummers/[slug]/licks/[lick-slug]
         const lSlug = getLickSlugFromURL();
@@ -23055,6 +23152,8 @@ function AppContent() {
         setLickSlug(lSlug);
         setLicksDrummerSlug(dSlug);
         setShowLicksHub(false);
+        setShowGearCategoryPage(false);
+        setGearCategoryInfo(null);
         setShowGearCards(false);
         setShowToolsHub(false);
         setShowGearComparisonTool(false);
@@ -25148,6 +25247,46 @@ setShowList(false);
               setEvolutionDrummerSlug(slug);
               if (Platform.OS === 'web' && typeof window !== 'undefined') {
                 window.history.pushState({}, '', `/drummers/${slug}/evolution`);
+              }
+            }}
+          />
+        </Suspense>
+      );
+    }
+    // Drummer Gear Category Page (Issue #770) - /drummer/:slug/:category
+    // SEO long-tail keyword pages for "joey jordison cymbals", "what drums does lars ulrich use", etc.
+    if (showGearCategoryPage && gearCategoryInfo) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyDrummerGearCategoryPage
+            theme={theme}
+            drummerSlug={gearCategoryInfo.drummerSlug}
+            category={gearCategoryInfo.category}
+            onBack={() => {
+              setShowGearCategoryPage(false);
+              setGearCategoryInfo(null);
+              // Navigate back to drummer profile
+              if (gearCategoryInfo?.drummerSlug && Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/drummer/${gearCategoryInfo.drummerSlug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigate={(slug, category) => {
+              setGearCategoryInfo({ drummerSlug: slug, category });
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/drummer/${slug}/${category}`);
+              }
+            }}
+            onNavigateToDrummer={(slug) => {
+              setShowGearCategoryPage(false);
+              setGearCategoryInfo(null);
+              // Find and select the drummer
+              const drummer = drummers.find(d => toSlug(d.name) === slug);
+              if (drummer) {
+                handleSelectDrummer(drummer);
+              }
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/drummer/${slug}`);
               }
             }}
           />

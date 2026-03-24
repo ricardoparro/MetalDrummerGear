@@ -334,15 +334,15 @@ const drummers = {
 
 // MetalForge brand colors
 const BRAND = {
-  primary: '#FF6B35',
-  secondary: '#4ECDC4',
-  background: '#0a0a0a',
-  cardBg: '#1a1a1a',
-  text: '#ffffff',
-  textMuted: '#888888',
-  gradient1: '#1a1a2e',
-  gradient2: '#16213e',
-  success: '#22c55e',
+  primary: '#FF6B35',      // Metal orange
+  secondary: '#4ECDC4',    // Teal accent
+  background: '#0a0a0a',   // Near black
+  cardBg: '#1a1a1a',       // Dark gray
+  text: '#ffffff',         // White
+  textMuted: '#888888',    // Gray text
+  gradient1: '#1a1a2e',    // Dark blue tint
+  gradient2: '#16213e',    // Navy
+  success: '#22c55e',      // Green
 };
 
 // Format currency

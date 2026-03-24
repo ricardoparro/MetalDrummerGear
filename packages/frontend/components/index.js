@@ -116,6 +116,20 @@ export {
   SETUP_CATEGORIES,
 } from './DreamSetupBuilder';
 
+// Tier List Builder (Issue #763)
+export {
+  default as TierListBuilderPage,
+  isTierListPage,
+  isTierListSharePage,
+  getTierListIdFromUrl,
+  updateTierListMeta,
+  getTierListShareUrl,
+  trackTierListEvent,
+  TIER_CONFIG,
+  TIER_ORDER,
+  PRESET_CATEGORIES,
+} from './TierListBuilder';
+
 // Gear Card Share Component (Issue #764)
 export {
   GearCardShare,

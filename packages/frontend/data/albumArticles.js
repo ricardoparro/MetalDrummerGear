@@ -10835,6 +10835,7 @@ Vinnie was buried beside his mother and Dimebag in Arlington, Texas. The Abbott 
   }
 };
 
+
 // Helper functions
 export function getAlbumArticleBySlug(slug) {
   return ALBUM_ARTICLES[slug] || null;

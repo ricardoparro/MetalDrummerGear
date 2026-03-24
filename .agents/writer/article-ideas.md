@@ -274,6 +274,7 @@
 | 2026-03-23 | What's In Paul Bostaph's Slayer Arsenal | /articles/whats-in-paul-bostaphs-kit | - |
 | 2026-03-23 | What's In Nicko McBrain's Iron Maiden Arsenal | /articles/whats-in-nicko-mcbrains-kit | - |
 | 2026-03-23 | What's In Vinnie Paul's Pantera Arsenal (Tribute) | /articles/whats-in-vinnie-pauls-kit | - |
+| 2026-03-24 | What's In Jay Weinberg's Slipknot Kit | /articles/whats-in-jay-weinbergs-kit | - |
 
 ---
 
@@ -841,23 +842,75 @@
 
 ---
 
-### 💡 [IDEA-043] What's In Jay Weinberg's Slipknot Kit
+### ✅ [IDEA-043] What's In Jay Weinberg's Slipknot Kit
 
 **Type:** drummer-kit
 **SEO Keywords:** jay weinberg drum kit, slipknot drummer, jay weinberg setup, slipknot drums 2024
-**Search Volume:** HIGH (current Slipknot drummer, active touring!)
+**Search Volume:** HIGH (former Slipknot drummer, now with Suicidal Tendencies!)
+**Data Available:** Yes (in extendedBios)
+**Priority:** 5
+
+**Status:** PUBLISHED (2026-03-24) — /articles/whats-in-jay-weinbergs-kit
+
+---
+
+### 💡 [IDEA-044] What's In Mike Mangini's Dream Theater Arsenal
+
+**Type:** drummer-kit
+**SEO Keywords:** mike mangini drum kit, dream theater drummer, mike mangini setup, mangini world record drums
+**Search Volume:** VERY HIGH (Dream Theater + world record holder + contrast with Portnoy article!)
 **Data Available:** Yes (in extendedBios)
 **Priority:** 5
 
 **Outline:**
-1. Introduction — From E Street to The Nine
-2. Current Pearl Setup (Custom Slipknot configuration)
-3. Signature Techniques (honoring Joey's legacy)
-4. How He Adapted Joey Jordison's Parts
-5. His Own Contributions (We Are Not Your Kind, The End So Far)
+1. Introduction — The Academic Approach to Metal Drumming
+2. Current Tama Setup (Starclassic Bubinga)
+3. World Record Holder: Speed & Precision
+4. Berklee Professor Meets Progressive Metal
+5. How He Approaches DT's Complex Material Differently Than Portnoy
 6. Where to Buy Similar Gear
 
-**Status:** IDEA (added 2026-03-23)
+**Status:** IDEA (added 2026-03-24)
+
+---
+
+### 💡 [IDEA-045] What's In Igor Cavalera's Tribal Arsenal
+
+**Type:** drummer-kit
+**SEO Keywords:** igor cavalera drum kit, sepultura drummer, igor cavalera setup, cavalera conspiracy drums
+**Search Volume:** HIGH (Sepultura legend, reunion interest, Cavalera Conspiracy active)
+**Data Available:** Yes (in extendedBios)
+**Priority:** 4
+
+**Outline:**
+1. Introduction — The Tribal Metal Pioneer
+2. Current Setup (Roland hybrid system)
+3. The Roots Revolution: Integrating Tribal Percussion
+4. Electronic Drumming Evolution (Go Ahead and Die, DJ Sets)
+5. How His Setup Evolved from Thrash to Tribal to Electronic
+6. Where to Buy Similar Gear
+
+**Status:** IDEA (added 2026-03-24)
+
+---
+
+### 💡 [IDEA-046] Cowboys from Hell Drum Setup: Vinnie Paul's Breakthrough
+
+**Type:** album-breakdown
+**SEO Keywords:** cowboys from hell drums, vinnie paul 1990 kit, pantera drum sound, cowboys from hell recording
+**Search Volume:** HIGH (Pantera breakthrough album, Vinnie tribute interest)
+**Data Available:** Yes (can research from kit article + era info)
+**Priority:** 4
+
+**Outline:**
+1. Introduction — The Album That Invented Groove Metal
+2. Studio Setup at Pantego Sound Studios
+3. "Cowboys from Hell" Track Breakdown
+4. "Cemetery Gates" — Dynamics in Heavy Music
+5. Recording with Terry Date
+6. Gear Breakdown (drums, cymbals, pedals)
+
+**Status:** IDEA (added 2026-03-24)
 
 ---
 
@@ -877,4 +930,4 @@
 
 ---
 
-*Last updated: 2026-03-23 17:09*
+*Last updated: 2026-03-24 09:07*

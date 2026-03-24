@@ -854,7 +854,7 @@
 
 ---
 
-### 💡 [IDEA-044] What's In Mike Mangini's Dream Theater Arsenal
+### ✍️ [IDEA-044] What's In Mike Mangini's Dream Theater Arsenal
 
 **Type:** drummer-kit
 **SEO Keywords:** mike mangini drum kit, dream theater drummer, mike mangini setup, mangini world record drums
@@ -864,13 +864,13 @@
 
 **Outline:**
 1. Introduction — The Academic Approach to Metal Drumming
-2. Current Tama Setup (Starclassic Bubinga)
+2. Current Pearl Setup (Masterworks Maple)
 3. World Record Holder: Speed & Precision
 4. Berklee Professor Meets Progressive Metal
 5. How He Approaches DT's Complex Material Differently Than Portnoy
 6. Where to Buy Similar Gear
 
-**Status:** IDEA (added 2026-03-24)
+**Status:** WRITING (2026-03-24 13:00)
 
 ---
 

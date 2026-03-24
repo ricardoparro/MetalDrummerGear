@@ -1,5 +1,11 @@
 // Vercel Serverless Function - Auto-Generated Drummer Gear Cards
-// Issue #747: Viral Social Sharing Cards
+// Issue #764: Viral Social Sharing Cards with Download & Share
+// 
+// Usage:
+//   /api/card/lars-ulrich?format=instagram  → 1080x1080
+//   /api/card/lars-ulrich?format=twitter    → 1200x675
+//   /api/card/lars-ulrich?type=stats        → Stats-focused card
+//   /api/card/lars-ulrich?type=spotlight    → Signature gear spotlight
 
 import { ImageResponse } from '@vercel/og';
 
@@ -7,7 +13,7 @@ export const config = {
   runtime: 'edge',
 };
 
-// Drummer data (embedded for edge runtime)
+// Drummer data (embedded for edge runtime - synced with main database)
 const drummers = {
   'lars-ulrich': {
     name: 'Lars Ulrich',
@@ -326,6 +332,19 @@ const drummers = {
   },
 };
 
+// MetalForge brand colors
+const BRAND = {
+  primary: '#FF6B35',
+  secondary: '#4ECDC4',
+  background: '#0a0a0a',
+  cardBg: '#1a1a1a',
+  text: '#ffffff',
+  textMuted: '#888888',
+  gradient1: '#1a1a2e',
+  gradient2: '#16213e',
+  success: '#22c55e',
+};
+
 // Format currency
 function formatCurrency(amount) {
   return new Intl.NumberFormat('en-US', {
@@ -349,21 +368,49 @@ function getCountryFlag(country) {
     'Greece': '🇬🇷',
     'France': '🇫🇷',
     'Canada': '🇨🇦',
+    'Germany': '🇩🇪',
+    'Finland': '🇫🇮',
+    'Japan': '🇯🇵',
+    'Australia': '🇦🇺',
   };
   return flags[country] || '🌍';
 }
 
+// Get gear emoji
+function getGearEmoji(category) {
+  const emojis = {
+    drums: '🥁',
+    snare: '🪘',
+    cymbals: '🎵',
+    hardware: '⚙️',
+    sticks: '🥢',
+    electronics: '🎛️',
+  };
+  return emojis[category] || '🎶';
+}
+
 export default async function handler(req) {
   try {
-    const { searchParams } = new URL(req.url);
-    const slug = searchParams.get('slug');
-    const format = searchParams.get('format') || 'instagram'; // instagram (1080x1080), twitter (1200x675)
-    const type = searchParams.get('type') || 'full'; // full, stats, spotlight
+    const url = new URL(req.url);
+    const pathParts = url.pathname.split('/');
+    
+    // Extract slug from path: /api/card/[slug]
+    const slug = pathParts[pathParts.length - 1];
+    const format = url.searchParams.get('format') || 'instagram';
+    const type = url.searchParams.get('type') || 'full';
+    const download = url.searchParams.get('download') === 'true';
     
     const drummer = drummers[slug];
     
     if (!drummer) {
-      return new Response(`Drummer not found: ${slug}`, { status: 404 });
+      return new Response(JSON.stringify({ 
+        error: 'Drummer not found', 
+        slug,
+        available: Object.keys(drummers) 
+      }), { 
+        status: 404,
+        headers: { 'Content-Type': 'application/json' }
+      });
     }
     
     // Dimensions based on format
@@ -371,21 +418,51 @@ export default async function handler(req) {
       ? { width: 1200, height: 675 }
       : { width: 1080, height: 1080 };
 
-    // Generate different card types
+    // Generate the appropriate card type
+    let imageResponse;
     if (type === 'stats') {
-      return generateStatsCard(drummer, dimensions);
+      imageResponse = generateStatsCard(drummer, dimensions);
     } else if (type === 'spotlight') {
-      return generateSpotlightCard(drummer, dimensions);
+      imageResponse = generateSpotlightCard(drummer, dimensions);
     } else {
-      return generateFullCard(drummer, dimensions);
+      imageResponse = generateFullCard(drummer, dimensions);
     }
+
+    // Add caching and download headers
+    const response = await imageResponse;
+    const headers = new Headers(response.headers);
+    
+    // Cache for 1 hour on CDN, allow stale for 24 hours while revalidating
+    headers.set('Cache-Control', 'public, s-maxage=3600, stale-while-revalidate=86400');
+    
+    // Add Content-Disposition for downloads
+    if (download) {
+      const filename = `${drummer.name.toLowerCase().replace(/\s+/g, '-')}-gear-card-${format}.png`;
+      headers.set('Content-Disposition', `attachment; filename="${filename}"`);
+    }
+    
+    // Add meta headers for tracking
+    headers.set('X-Drummer-Slug', slug);
+    headers.set('X-Card-Format', format);
+    headers.set('X-Card-Type', type);
+    
+    return new Response(response.body, {
+      status: 200,
+      headers,
+    });
   } catch (e) {
     console.error('Card generation error:', e);
-    return new Response(`Failed to generate card: ${e.message}`, { status: 500 });
+    return new Response(JSON.stringify({ 
+      error: 'Failed to generate card', 
+      message: e.message 
+    }), { 
+      status: 500,
+      headers: { 'Content-Type': 'application/json' }
+    });
   }
 }
 
-// Full Setup Card - Drummer photo + complete gear list + total cost
+// Full Setup Card - Complete gear list with stats
 function generateFullCard(drummer, dimensions) {
   const { width, height } = dimensions;
   const isSquare = width === height;
@@ -398,13 +475,13 @@ function generateFullCard(drummer, dimensions) {
           width: '100%',
           display: 'flex',
           flexDirection: 'column',
-          backgroundColor: '#0a0a0a',
-          backgroundImage: 'linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 50%, #1a0a0a 100%)',
-          fontFamily: 'system-ui, sans-serif',
+          backgroundColor: BRAND.background,
+          backgroundImage: `linear-gradient(135deg, ${BRAND.gradient1} 0%, ${BRAND.background} 50%, #1a0a0a 100%)`,
+          fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif',
           position: 'relative',
         }}
       >
-        {/* Background pattern */}
+        {/* Background pattern overlay */}
         <div
           style={{
             position: 'absolute',
@@ -412,19 +489,19 @@ function generateFullCard(drummer, dimensions) {
             left: 0,
             right: 0,
             bottom: 0,
-            backgroundImage: 'radial-gradient(circle at 20% 80%, rgba(255, 107, 53, 0.1) 0%, transparent 50%), radial-gradient(circle at 80% 20%, rgba(139, 0, 0, 0.1) 0%, transparent 50%)',
+            backgroundImage: `radial-gradient(circle at 20% 80%, rgba(255, 107, 53, 0.15) 0%, transparent 50%), radial-gradient(circle at 80% 20%, rgba(139, 0, 0, 0.1) 0%, transparent 50%)`,
             display: 'flex',
           }}
         />
         
-        {/* Header */}
+        {/* Header with drummer info */}
         <div
           style={{
             display: 'flex',
             alignItems: 'center',
             justifyContent: 'space-between',
             padding: isSquare ? '40px 50px' : '30px 50px',
-            borderBottom: '2px solid rgba(255, 107, 53, 0.3)',
+            borderBottom: `2px solid ${BRAND.primary}40`,
           }}
         >
           <div style={{ display: 'flex', flexDirection: 'column' }}>
@@ -432,8 +509,9 @@ function generateFullCard(drummer, dimensions) {
               style={{
                 fontSize: isSquare ? 56 : 48,
                 fontWeight: 'bold',
-                color: '#ffffff',
-                textShadow: '0 2px 10px rgba(255, 107, 53, 0.3)',
+                color: BRAND.text,
+                textShadow: `0 2px 10px ${BRAND.primary}40`,
+                letterSpacing: '-0.5px',
               }}
             >
               {drummer.name}
@@ -441,7 +519,7 @@ function generateFullCard(drummer, dimensions) {
             <span
               style={{
                 fontSize: isSquare ? 28 : 24,
-                color: '#FF6B35',
+                color: BRAND.primary,
                 fontWeight: '600',
               }}
             >
@@ -455,8 +533,10 @@ function generateFullCard(drummer, dimensions) {
               alignItems: 'flex-end',
             }}
           >
-            <span style={{ fontSize: 48 }}>{getCountryFlag(drummer.country)}</span>
-            <span style={{ fontSize: 16, color: '#888888', marginTop: 4 }}>{drummer.country}</span>
+            <span style={{ fontSize: 52 }}>{getCountryFlag(drummer.country)}</span>
+            <span style={{ fontSize: 16, color: BRAND.textMuted, marginTop: 4 }}>
+              {drummer.country}
+            </span>
           </div>
         </div>
 
@@ -467,7 +547,7 @@ function generateFullCard(drummer, dimensions) {
             flexDirection: 'column',
             padding: isSquare ? '40px 50px' : '25px 50px',
             flex: 1,
-            gap: isSquare ? 24 : 16,
+            gap: isSquare ? 20 : 14,
           }}
         >
           {Object.entries(drummer.gear).map(([category, item]) => (
@@ -476,10 +556,10 @@ function generateFullCard(drummer, dimensions) {
               style={{
                 display: 'flex',
                 alignItems: 'center',
-                padding: isSquare ? '16px 24px' : '12px 20px',
+                padding: isSquare ? '18px 24px' : '14px 20px',
                 backgroundColor: 'rgba(255, 255, 255, 0.05)',
                 borderRadius: 12,
-                borderLeft: '4px solid #FF6B35',
+                borderLeft: `4px solid ${BRAND.primary}`,
               }}
             >
               <span
@@ -488,19 +568,16 @@ function generateFullCard(drummer, dimensions) {
                   marginRight: isSquare ? 20 : 16,
                 }}
               >
-                {category === 'drums' ? '🥁' : 
-                 category === 'snare' ? '🪘' : 
-                 category === 'cymbals' ? '🎵' : 
-                 category === 'hardware' ? '⚙️' : 
-                 category === 'sticks' ? '🥢' : '🎶'}
+                {getGearEmoji(category)}
               </span>
               <div style={{ display: 'flex', flexDirection: 'column', flex: 1 }}>
                 <span
                   style={{
                     fontSize: isSquare ? 14 : 12,
-                    color: '#888888',
+                    color: BRAND.textMuted,
                     textTransform: 'uppercase',
-                    letterSpacing: 1,
+                    letterSpacing: 1.5,
+                    fontWeight: '600',
                   }}
                 >
                   {category}
@@ -508,7 +585,7 @@ function generateFullCard(drummer, dimensions) {
                 <span
                   style={{
                     fontSize: isSquare ? 22 : 18,
-                    color: '#ffffff',
+                    color: BRAND.text,
                     fontWeight: '500',
                   }}
                 >
@@ -526,30 +603,30 @@ function generateFullCard(drummer, dimensions) {
             alignItems: 'center',
             justifyContent: 'space-between',
             padding: isSquare ? '30px 50px' : '20px 50px',
-            backgroundColor: 'rgba(255, 107, 53, 0.1)',
-            borderTop: '2px solid rgba(255, 107, 53, 0.3)',
+            backgroundColor: `${BRAND.primary}15`,
+            borderTop: `2px solid ${BRAND.primary}40`,
           }}
         >
           <div style={{ display: 'flex', gap: 40 }}>
             <div style={{ display: 'flex', flexDirection: 'column' }}>
-              <span style={{ fontSize: 14, color: '#888888', textTransform: 'uppercase' }}>
+              <span style={{ fontSize: 14, color: BRAND.textMuted, textTransform: 'uppercase', letterSpacing: 1 }}>
                 Total Pieces
               </span>
-              <span style={{ fontSize: 32, color: '#FF6B35', fontWeight: 'bold' }}>
+              <span style={{ fontSize: 36, color: BRAND.primary, fontWeight: 'bold' }}>
                 {drummer.stats.totalPieces}
               </span>
             </div>
             <div style={{ display: 'flex', flexDirection: 'column' }}>
-              <span style={{ fontSize: 14, color: '#888888', textTransform: 'uppercase' }}>
+              <span style={{ fontSize: 14, color: BRAND.textMuted, textTransform: 'uppercase', letterSpacing: 1 }}>
                 Setup Value
               </span>
-              <span style={{ fontSize: 32, color: '#4ECDC4', fontWeight: 'bold' }}>
+              <span style={{ fontSize: 36, color: BRAND.secondary, fontWeight: 'bold' }}>
                 {formatCurrency(drummer.stats.totalCost)}
               </span>
             </div>
           </div>
           <div style={{ display: 'flex', alignItems: 'center' }}>
-            <span style={{ fontSize: 24, fontWeight: 'bold', color: '#FF6B35' }}>
+            <span style={{ fontSize: 28, fontWeight: 'bold', color: BRAND.primary }}>
               🔥 MetalForge.io
             </span>
           </div>
@@ -560,7 +637,7 @@ function generateFullCard(drummer, dimensions) {
   );
 }
 
-// Stats Card - Drummer name + key statistics
+// Stats Card - Focused on key statistics
 function generateStatsCard(drummer, dimensions) {
   const { width, height } = dimensions;
   const isSquare = width === height;
@@ -575,11 +652,37 @@ function generateStatsCard(drummer, dimensions) {
           flexDirection: 'column',
           alignItems: 'center',
           justifyContent: 'center',
-          backgroundColor: '#0a0a0a',
-          backgroundImage: 'linear-gradient(135deg, #1a1a2e 0%, #0a0a0a 50%, #16213e 100%)',
-          fontFamily: 'system-ui, sans-serif',
+          backgroundColor: BRAND.background,
+          backgroundImage: `linear-gradient(135deg, ${BRAND.gradient1} 0%, ${BRAND.background} 50%, ${BRAND.gradient2} 100%)`,
+          fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif',
         }}
       >
+        {/* Decorative circles */}
+        <div
+          style={{
+            position: 'absolute',
+            top: -100,
+            right: -100,
+            width: 300,
+            height: 300,
+            borderRadius: '50%',
+            background: `${BRAND.primary}10`,
+            display: 'flex',
+          }}
+        />
+        <div
+          style={{
+            position: 'absolute',
+            bottom: -50,
+            left: -50,
+            width: 200,
+            height: 200,
+            borderRadius: '50%',
+            background: `${BRAND.secondary}10`,
+            display: 'flex',
+          }}
+        />
+        
         {/* Country Flag */}
         <span style={{ fontSize: 80, marginBottom: 20 }}>
           {getCountryFlag(drummer.country)}
@@ -590,20 +693,22 @@ function generateStatsCard(drummer, dimensions) {
           style={{
             fontSize: isSquare ? 72 : 64,
             fontWeight: 'bold',
-            color: '#ffffff',
+            color: BRAND.text,
             textAlign: 'center',
             marginBottom: 10,
+            letterSpacing: '-1px',
           }}
         >
           {drummer.name}
         </span>
         
-        {/* Band */}
+        {/* Band & Genre */}
         <span
           style={{
-            fontSize: isSquare ? 36 : 32,
-            color: '#FF6B35',
-            marginBottom: 40,
+            fontSize: isSquare ? 32 : 28,
+            color: BRAND.primary,
+            marginBottom: 50,
+            fontWeight: '600',
           }}
         >
           {drummer.band}
@@ -621,16 +726,16 @@ function generateStatsCard(drummer, dimensions) {
               display: 'flex',
               flexDirection: 'column',
               alignItems: 'center',
-              padding: 30,
-              backgroundColor: 'rgba(255, 107, 53, 0.1)',
-              borderRadius: 20,
-              border: '2px solid #FF6B35',
+              padding: '36px 48px',
+              backgroundColor: `${BRAND.primary}15`,
+              borderRadius: 24,
+              border: `3px solid ${BRAND.primary}`,
             }}
           >
-            <span style={{ fontSize: 64, fontWeight: 'bold', color: '#FF6B35' }}>
+            <span style={{ fontSize: 72, fontWeight: 'bold', color: BRAND.primary }}>
               {drummer.stats.totalPieces}
             </span>
-            <span style={{ fontSize: 20, color: '#888888', textTransform: 'uppercase' }}>
+            <span style={{ fontSize: 22, color: BRAND.textMuted, textTransform: 'uppercase', letterSpacing: 2 }}>
               Pieces
             </span>
           </div>
@@ -640,42 +745,46 @@ function generateStatsCard(drummer, dimensions) {
               display: 'flex',
               flexDirection: 'column',
               alignItems: 'center',
-              padding: 30,
-              backgroundColor: 'rgba(78, 205, 196, 0.1)',
-              borderRadius: 20,
-              border: '2px solid #4ECDC4',
+              padding: '36px 48px',
+              backgroundColor: `${BRAND.secondary}15`,
+              borderRadius: 24,
+              border: `3px solid ${BRAND.secondary}`,
             }}
           >
-            <span style={{ fontSize: 64, fontWeight: 'bold', color: '#4ECDC4' }}>
+            <span style={{ fontSize: 56, fontWeight: 'bold', color: BRAND.secondary }}>
               {formatCurrency(drummer.stats.totalCost)}
             </span>
-            <span style={{ fontSize: 20, color: '#888888', textTransform: 'uppercase' }}>
+            <span style={{ fontSize: 22, color: BRAND.textMuted, textTransform: 'uppercase', letterSpacing: 2 }}>
               Setup Value
             </span>
           </div>
         </div>
         
-        {/* Genre */}
-        <span
+        {/* Genre Badge */}
+        <div
           style={{
-            fontSize: 24,
-            color: '#666666',
-            marginTop: 40,
+            display: 'flex',
+            marginTop: 50,
+            padding: '12px 28px',
+            backgroundColor: 'rgba(255, 255, 255, 0.05)',
+            borderRadius: 50,
           }}
         >
-          {drummer.genre}
-        </span>
+          <span style={{ fontSize: 20, color: BRAND.textMuted }}>
+            🎸 {drummer.genre}
+          </span>
+        </div>
         
         {/* MetalForge branding */}
         <div
           style={{
             position: 'absolute',
-            bottom: 30,
+            bottom: 36,
             display: 'flex',
             alignItems: 'center',
           }}
         >
-          <span style={{ fontSize: 24, fontWeight: 'bold', color: '#FF6B35' }}>
+          <span style={{ fontSize: 28, fontWeight: 'bold', color: BRAND.primary }}>
             🔥 MetalForge.io
           </span>
         </div>
@@ -685,7 +794,7 @@ function generateStatsCard(drummer, dimensions) {
   );
 }
 
-// Spotlight Card - Focus on primary gear
+// Spotlight Card - Focus on signature gear
 function generateSpotlightCard(drummer, dimensions) {
   const { width, height } = dimensions;
   const isSquare = width === height;
@@ -700,11 +809,33 @@ function generateSpotlightCard(drummer, dimensions) {
           flexDirection: 'column',
           alignItems: 'center',
           justifyContent: 'center',
-          backgroundColor: '#0a0a0a',
-          backgroundImage: 'radial-gradient(circle at center, #1a1a2e 0%, #0a0a0a 70%)',
-          fontFamily: 'system-ui, sans-serif',
+          backgroundColor: BRAND.background,
+          backgroundImage: `radial-gradient(ellipse at center, ${BRAND.gradient1} 0%, ${BRAND.background} 70%)`,
+          fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif',
         }}
       >
+        {/* Decorative ring */}
+        <div
+          style={{
+            position: 'absolute',
+            width: 400,
+            height: 400,
+            borderRadius: '50%',
+            border: `2px solid ${BRAND.primary}20`,
+            display: 'flex',
+          }}
+        />
+        <div
+          style={{
+            position: 'absolute',
+            width: 500,
+            height: 500,
+            borderRadius: '50%',
+            border: `1px solid ${BRAND.primary}10`,
+            display: 'flex',
+          }}
+        />
+        
         {/* Big drum emoji */}
         <span style={{ fontSize: 120, marginBottom: 30 }}>🥁</span>
         
@@ -713,8 +844,9 @@ function generateSpotlightCard(drummer, dimensions) {
           style={{
             fontSize: isSquare ? 56 : 48,
             fontWeight: 'bold',
-            color: '#ffffff',
+            color: BRAND.text,
             marginBottom: 10,
+            letterSpacing: '-0.5px',
           }}
         >
           {drummer.name}
@@ -724,8 +856,9 @@ function generateSpotlightCard(drummer, dimensions) {
         <span
           style={{
             fontSize: isSquare ? 28 : 24,
-            color: '#FF6B35',
-            marginBottom: 40,
+            color: BRAND.primary,
+            marginBottom: 50,
+            fontWeight: '600',
           }}
         >
           {drummer.band}
@@ -737,44 +870,49 @@ function generateSpotlightCard(drummer, dimensions) {
             display: 'flex',
             flexDirection: 'column',
             alignItems: 'center',
-            padding: '40px 60px',
-            backgroundColor: 'rgba(255, 107, 53, 0.1)',
-            borderRadius: 24,
-            border: '3px solid #FF6B35',
-            maxWidth: isSquare ? 800 : 900,
+            padding: '44px 64px',
+            backgroundColor: `${BRAND.primary}15`,
+            borderRadius: 28,
+            border: `3px solid ${BRAND.primary}`,
+            maxWidth: isSquare ? 800 : 950,
           }}
         >
           <span
             style={{
-              fontSize: 16,
-              color: '#888888',
+              fontSize: 14,
+              color: BRAND.textMuted,
               textTransform: 'uppercase',
-              letterSpacing: 2,
-              marginBottom: 10,
+              letterSpacing: 3,
+              marginBottom: 16,
+              fontWeight: '600',
             }}
           >
-            Signature Setup
+            ⭐ Signature Setup ⭐
           </span>
           <span
             style={{
-              fontSize: isSquare ? 36 : 32,
+              fontSize: isSquare ? 38 : 34,
               fontWeight: 'bold',
-              color: '#ffffff',
+              color: BRAND.text,
               textAlign: 'center',
               marginBottom: 20,
+              lineHeight: 1.2,
             }}
           >
             {drummer.gear.drums}
           </span>
-          <span
-            style={{
-              fontSize: isSquare ? 24 : 22,
-              color: '#4ECDC4',
-              textAlign: 'center',
-            }}
-          >
-            + {drummer.gear.snare}
-          </span>
+          <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
+            <span style={{ fontSize: 28, color: BRAND.secondary }}>+</span>
+            <span
+              style={{
+                fontSize: isSquare ? 24 : 22,
+                color: BRAND.secondary,
+                textAlign: 'center',
+              }}
+            >
+              {drummer.gear.snare}
+            </span>
+          </div>
         </div>
         
         {/* Total cost badge */}
@@ -782,13 +920,14 @@ function generateSpotlightCard(drummer, dimensions) {
           style={{
             display: 'flex',
             alignItems: 'center',
-            marginTop: 40,
-            padding: '12px 30px',
-            backgroundColor: 'rgba(78, 205, 196, 0.2)',
+            marginTop: 44,
+            padding: '16px 36px',
+            backgroundColor: `${BRAND.secondary}20`,
             borderRadius: 50,
+            border: `2px solid ${BRAND.secondary}40`,
           }}
         >
-          <span style={{ fontSize: 24, color: '#4ECDC4', fontWeight: 'bold' }}>
+          <span style={{ fontSize: 28, color: BRAND.secondary, fontWeight: 'bold' }}>
             💰 {formatCurrency(drummer.stats.totalCost)} Total Setup
           </span>
         </div>
@@ -797,12 +936,12 @@ function generateSpotlightCard(drummer, dimensions) {
         <div
           style={{
             position: 'absolute',
-            bottom: 30,
+            bottom: 36,
             display: 'flex',
             alignItems: 'center',
           }}
         >
-          <span style={{ fontSize: 24, fontWeight: 'bold', color: '#FF6B35' }}>
+          <span style={{ fontSize: 28, fontWeight: 'bold', color: BRAND.primary }}>
             🔥 MetalForge.io
           </span>
         </div>

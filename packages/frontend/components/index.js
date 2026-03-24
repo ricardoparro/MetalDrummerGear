@@ -115,3 +115,11 @@ export {
   WIZARD_STEPS,
   SETUP_CATEGORIES,
 } from './DreamSetupBuilder';
+
+// Gear Card Share Component (Issue #764)
+export {
+  GearCardShare,
+  GearCardShareInline,
+  trackGearCardEvent,
+  getCardUrl,
+} from './GearCardShare';

@@ -188,6 +188,9 @@ import {
   GENRE_OPTIONS as SETUP_GENRE_OPTIONS,
 } from './components/DreamSetupBuilder';
 
+// Gear Card Share Component (Issue #764)
+import { GearCardShare, trackGearCardEvent, getCardUrl } from './components/GearCardShare';
+
 // Drummer Battle - Weekly Voting Feature (Issue #689)
 // Lazy loaded for performance optimization (#708) - 10KB module
 let _battlesModule = null;
@@ -5597,6 +5600,14 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
       </View>
 
       <KitCostCalculator drummer={drummer} theme={theme} />
+
+      {/* Gear Card Share - Issue #764: Download & Share buttons for social sharing */}
+      <GearCardShare
+        drummerSlug={drummerSlug}
+        drummerName={drummer.name}
+        bandName={drummer.band}
+        showPreview={true}
+      />
 
       {/* Similar Drummers Section - TEMPORARILY DISABLED - component needs to be restored from PR #158 */}
       {/* TODO: Restore SimilarDrummersSection from feature/issue-157-similar-drummers branch */}

@@ -276,6 +276,7 @@
 | 2026-03-23 | What's In Vinnie Paul's Pantera Arsenal (Tribute) | /articles/whats-in-vinnie-pauls-kit | - |
 | 2026-03-24 | What's In Jay Weinberg's Slipknot Kit | /articles/whats-in-jay-weinbergs-kit | - |
 | 2026-03-24 | What's In Mike Mangini's Dream Theater Arsenal | /articles/whats-in-mike-manginis-kit | - |
+| 2026-03-24 | Cowboys from Hell Drum Setup: Vinnie Paul | /articles/cowboys-from-hell-drum-setup | - |
 
 ---
 
@@ -895,7 +896,7 @@
 
 ---
 
-### 💡 [IDEA-046] Cowboys from Hell Drum Setup: Vinnie Paul's Breakthrough
+### ✅ [IDEA-046] Cowboys from Hell Drum Setup: Vinnie Paul's Breakthrough
 
 **Type:** album-breakdown
 **SEO Keywords:** cowboys from hell drums, vinnie paul 1990 kit, pantera drum sound, cowboys from hell recording
@@ -911,7 +912,7 @@
 5. Recording with Terry Date
 6. Gear Breakdown (drums, cymbals, pedals)
 
-**Status:** IDEA (added 2026-03-24)
+**Status:** PUBLISHED (2026-03-24) — /articles/cowboys-from-hell-drum-setup
 
 ---
 
@@ -931,4 +932,4 @@
 
 ---
 
-*Last updated: 2026-03-24 13:05*
+*Last updated: 2026-03-24 17:05*

@@ -275,6 +275,7 @@
 | 2026-03-23 | What's In Nicko McBrain's Iron Maiden Arsenal | /articles/whats-in-nicko-mcbrains-kit | - |
 | 2026-03-23 | What's In Vinnie Paul's Pantera Arsenal (Tribute) | /articles/whats-in-vinnie-pauls-kit | - |
 | 2026-03-24 | What's In Jay Weinberg's Slipknot Kit | /articles/whats-in-jay-weinbergs-kit | - |
+| 2026-03-24 | What's In Mike Mangini's Dream Theater Arsenal | /articles/whats-in-mike-manginis-kit | - |
 
 ---
 
@@ -854,7 +855,7 @@
 
 ---
 
-### 💡 [IDEA-044] What's In Mike Mangini's Dream Theater Arsenal
+### ✅ [IDEA-044] What's In Mike Mangini's Dream Theater Arsenal
 
 **Type:** drummer-kit
 **SEO Keywords:** mike mangini drum kit, dream theater drummer, mike mangini setup, mangini world record drums
@@ -864,13 +865,13 @@
 
 **Outline:**
 1. Introduction — The Academic Approach to Metal Drumming
-2. Current Tama Setup (Starclassic Bubinga)
+2. Current Pearl Setup (Masterworks Maple)
 3. World Record Holder: Speed & Precision
 4. Berklee Professor Meets Progressive Metal
 5. How He Approaches DT's Complex Material Differently Than Portnoy
 6. Where to Buy Similar Gear
 
-**Status:** IDEA (added 2026-03-24)
+**Status:** PUBLISHED (2026-03-24) — /articles/whats-in-mike-manginis-kit
 
 ---
 
@@ -930,4 +931,4 @@
 
 ---
 
-*Last updated: 2026-03-24 09:07*
+*Last updated: 2026-03-24 13:05*

@@ -11167,13 +11167,13 @@ When you watch Mangini navigate Dream Theater's impossible time signatures with 
     ogImage: '/images/albums/cowboys-from-hell-drums.webp',
     intro: {
       title: 'The Album That Invented Groove Metal',
-      content: \`Released on July 24, 1990, Pantera's "Cowboys from Hell" marked a seismic shift in heavy metal. The album transformed the band from glam metal pretenders into architects of an entirely new genre — groove metal. At the center of this revolution was Vinnie Paul Abbott, whose drumming combined thrash metal speed with an irresistible groove that would influence heavy music for decades to come.
+      content: `Released on July 24, 1990, Pantera's "Cowboys from Hell" marked a seismic shift in heavy metal. The album transformed the band from glam metal pretenders into architects of an entirely new genre — groove metal. At the center of this revolution was Vinnie Paul Abbott, whose drumming combined thrash metal speed with an irresistible groove that would influence heavy music for decades to come.
 
 Recorded at the family's own Pantego Sound Studio in Arlington, Texas, Cowboys from Hell showcased a new approach to metal drumming. Vinnie wasn't just keeping time — he was creating grooves so infectious that listeners couldn't help but bang their heads. Working alongside his brother Dimebag Darrell Abbott on guitars, Vinnie forged a rhythm section chemistry that remains the gold standard for heavy music.
 
 Producer Terry Date helped capture the raw power of Vinnie's playing while maintaining clarity and punch. The drum sound on Cowboys from Hell was a revelation: tight, powerful, and perfectly suited to complement Dimebag's crushing riffs. Songs like the title track, "Primal Concrete Sledge," and "Cemetery Gates" demonstrated Vinnie's remarkable range — from blistering double bass to sensitive dynamics.
 
-This article breaks down every piece of gear Vinnie Paul used during the Cowboys from Hell sessions, exploring how a family studio in Texas produced one of metal's most important albums.\`,
+This article breaks down every piece of gear Vinnie Paul used during the Cowboys from Hell sessions, exploring how a family studio in Texas produced one of metal's most important albums.`,
       keyPoints: [
         'Recorded at Pantego Sound Studio, the Abbott family\'s studio in Arlington, Texas',
         'First Pantera album produced by Terry Date, beginning a legendary partnership',
@@ -11192,13 +11192,13 @@ This article breaks down every piece of gear Vinnie Paul used during the Cowboys
         floorToms: ['16" x 16" Floor Tom', '18" x 18" Floor Tom'],
         shells: 'Birch shells with die-cast hoops'
       },
-      description: \`For Cowboys from Hell, Vinnie Paul used a Tama Artstar II kit that would define the groove metal sound. The Artstar II was Tama's professional series, featuring birch shells known for their punchy attack and focused low-end — exactly what was needed for Pantera's new direction.
+      description: `For Cowboys from Hell, Vinnie Paul used a Tama Artstar II kit that would define the groove metal sound. The Artstar II was Tama's professional series, featuring birch shells known for their punchy attack and focused low-end — exactly what was needed for Pantera's new direction.
 
 The double bass drum setup was central to Vinnie's sound. While many thrash drummers used double pedals on a single kick, Vinnie insisted on two separate 22" x 18" bass drums for maximum impact and visual presence. This gave each kick its own resonance and allowed for independent tuning, creating a fuller, more powerful sound.
 
 The tom configuration was generous for the era: three rack toms and two floor toms provided Vinnie with options for his signature fills. He wasn't afraid to move around the kit, and the deep shells (power tom sizing) gave each drum a focused, punchy tone without excessive ring.
 
-The birch shells of the Artstar II were crucial to cutting through Dimebag's massive guitar tone. They provided the attack and projection needed while the die-cast hoops added sustain control for tight, controlled sounds. This kit would remain Vinnie's preference until his eventual switch to ddrum in later years.\`,
+The birch shells of the Artstar II were crucial to cutting through Dimebag's massive guitar tone. They provided the attack and projection needed while the die-cast hoops added sustain control for tight, controlled sounds. This kit would remain Vinnie's preference until his eventual switch to ddrum in later years.`,
       notes: [
         'Double bass drums for maximum attack and stage presence',
         'Birch shells provided attack and projection',
@@ -11213,13 +11213,13 @@ The birch shells of the Artstar II were crucial to cutting through Dimebag's mas
       model: 'Tama Artstar Steel Snare',
       size: '14" x 6.5"',
       shell: 'Rolled steel',
-      description: \`The snare sound on Cowboys from Hell is one of the most distinctive in 90s metal — tight, cracking, with enough body to lock in with Dimebag's crushing palm-muted riffs. Vinnie achieved this with a Tama Artstar steel snare that perfectly complemented his groove-heavy approach.
+      description: `The snare sound on Cowboys from Hell is one of the most distinctive in 90s metal — tight, cracking, with enough body to lock in with Dimebag's crushing palm-muted riffs. Vinnie achieved this with a Tama Artstar steel snare that perfectly complemented his groove-heavy approach.
 
 At 14" x 6.5", the drum had enough depth to provide body without becoming tubby. The steel shell gave it brightness and cut, essential for penetrating Pantera's dense guitar sound. Unlike the deeper snares Vinnie would later use on Vulgar Display of Power, this was a more traditional metal snare tuned for snap and attack.
 
 One of Vinnie's secrets was playing his drumsticks backwards — holding the tapered end rather than the butt. This gave him more power on the snare, producing a cracking sound that became his signature. Combined with his aggressive attack and precise timing, the snare cut through like a gunshot.
 
-Terry Date placed a close mic (SM57) on the snare and captured its natural sound with minimal processing. The result was organic and punchy — not yet the trigger-blended sound of later Pantera records, but a raw, powerful tone that suited the album's more thrash-influenced approach.\`,
+Terry Date placed a close mic (SM57) on the snare and captured its natural sound with minimal processing. The result was organic and punchy — not yet the trigger-blended sound of later Pantera records, but a raw, powerful tone that suited the album's more thrash-influenced approach.`,
       tuningSetting: 'Medium-high tension for snap and attack',
       heads: 'Remo Pinstripe Clear (batter), Remo Ambassador Snare Side (resonant)',
       estimatedValue: '$300-400 (1990)'
@@ -11236,13 +11236,13 @@ Terry Date placed a close mic (SM57) on the snare and captured its natural sound
         { type: 'Ride', model: 'Sabian AA 20" Heavy Ride', position: 'Far right', notes: 'Powerful ride with clear bell' },
         { type: 'China', model: 'Sabian AA 18" Chinese', position: 'Above floor tom', notes: 'Aggressive accents throughout' }
       ],
-      description: \`Vinnie's cymbal setup for Cowboys from Hell combined Sabian's AA and AAX series for a blend of warmth and cutting power. The AA series provided the musicality needed for songs like "Cemetery Gates," while the AAX Metal Crash added brightness for more aggressive passages.
+      description: `Vinnie's cymbal setup for Cowboys from Hell combined Sabian's AA and AAX series for a blend of warmth and cutting power. The AA series provided the musicality needed for songs like "Cemetery Gates," while the AAX Metal Crash added brightness for more aggressive passages.
 
 The 14" AA hi-hats were workhorses — capable of tight, closed sounds for thrash sections and open splashes for groove parts. Vinnie's hi-hat work was more sophisticated than many metal drummers; he used dynamics and subtle variations that added life to the grooves.
 
 Multiple crash cymbals gave Vinnie options for different intensities. The 16" was quick and explosive for fast accents, the 18" provided more sustain for section endings, and the 19" AAX Metal Crash added a brighter, more aggressive voice that cut through the heaviest passages.
 
-The 18" China cymbal was essential to Pantera's sound. Those trashy, explosive accents that punctuate riffs in "Cowboys from Hell" and "Primal Concrete Sledge" were trademark Vinnie Paul. The China became as much a part of groove metal's vocabulary as the double bass drum.\`,
+The 18" China cymbal was essential to Pantera's sound. Those trashy, explosive accents that punctuate riffs in "Cowboys from Hell" and "Primal Concrete Sledge" were trademark Vinnie Paul. The China became as much a part of groove metal's vocabulary as the double bass drum.`,
       estimatedValue: '$1,400-1,800 total (1990)'
     },
     hardware: {
@@ -11282,7 +11282,7 @@ The 18" China cymbal was essential to Pantera's sound. Those trashy, explosive a
     },
     recordingTechniques: {
       title: 'The Pantego Sound',
-      content: \`Recording at Pantego Sound Studio — the Abbott family's studio in Arlington, Texas — gave Pantera complete creative control. Vinnie, already an experienced engineer, co-produced the drums alongside Terry Date, who brought outside expertise to the family operation.
+      content: `Recording at Pantego Sound Studio — the Abbott family's studio in Arlington, Texas — gave Pantera complete creative control. Vinnie, already an experienced engineer, co-produced the drums alongside Terry Date, who brought outside expertise to the family operation.
 
 **Microphone Setup:**
 - Kick drums: AKG D112 inside each drum
@@ -11302,7 +11302,7 @@ Pantego Sound's main room had a controlled but lively acoustic that Terry Date c
 Vinnie recorded many songs in complete takes, preferring to capture the energy of a full performance rather than piecing together parts. His timing was metronomic, and his consistency allowed for minimal editing. The raw, live feel of Cowboys from Hell's drums comes from this approach.
 
 **Mix Approach:**
-Terry Date mixed the drums to complement rather than compete with Dimebag's guitar. The kick drums punched through without overpowering, the snare cracked in the pocket, and the overall kit sat firmly in the groove. This balanced approach was revolutionary for metal at the time.\`,
+Terry Date mixed the drums to complement rather than compete with Dimebag's guitar. The kick drums punched through without overpowering, the snare cracked in the pocket, and the overall kit sat firmly in the groove. This balanced approach was revolutionary for metal at the time.`,
       keyTechniques: [
         'Natural sound approach with minimal triggering',
         'Room mics captured Pantego\'s live acoustics',
@@ -11362,7 +11362,7 @@ Terry Date mixed the drums to complement rather than compete with Dimebag's guit
     ],
     evolution: {
       title: "From Cowboys to Vulgar: The Groove Metal Evolution",
-      content: \`Cowboys from Hell was just the beginning. Over the next four years, Vinnie Paul would refine and intensify his sound, leading to the even more massive drum tones on "Vulgar Display of Power" and "Far Beyond Driven."
+      content: `Cowboys from Hell was just the beginning. Over the next four years, Vinnie Paul would refine and intensify his sound, leading to the even more massive drum tones on "Vulgar Display of Power" and "Far Beyond Driven."
 
 **Immediate Evolution:**
 After Cowboys from Hell, Vinnie began experimenting more heavily with drum triggering and sample blending. The natural sound of Cowboys gave way to the more processed, impactful tones of subsequent albums. Each record saw his sound grow bigger and more powerful.
@@ -11380,7 +11380,7 @@ Vinnie's playing on Cowboys from Hell was more thrash-influenced than his later 
 Cowboys from Hell established the template that Vinnie would refine throughout his career. The combination of double bass power, groove-heavy patterns, and sensitivity to dynamics would influence countless drummers in nu-metal, metalcore, and beyond.
 
 **Production Pioneer:**
-Vinnie's work as co-producer on Cowboys from Hell launched his second career as a studio engineer. He would continue producing and engineering, eventually building a legendary reputation for capturing massive drum sounds.\`,
+Vinnie's work as co-producer on Cowboys from Hell launched his second career as a studio engineer. He would continue producing and engineering, eventually building a legendary reputation for capturing massive drum sounds.`,
       thenVsNow: [
         { category: 'Kit', then: 'Tama Artstar II Birch', now: 'ddrum Vinnie Paul Signature (legacy)' },
         { category: 'Snare', then: 'Tama Artstar Steel 14x6.5"', now: 'ddrum Vinnie Paul Signature 14x8"' },
@@ -11400,7 +11400,7 @@ Vinnie's work as co-producer on Cowboys from Hell launched his second career as 
     relatedArticles: ['whats-in-vinnie-pauls-kit', 'groove-metal-drumming', 'triggered-vs-acoustic-drums'],
     conclusion: {
       title: 'Where Groove Metal Was Born',
-      content: \`Cowboys from Hell's drum sound wasn't the massive, triggered production of later Pantera albums — it was something rawer and more organic. And in many ways, that makes it more remarkable. Vinnie Paul's performance on this record proves that groove and feel matter more than production tricks.
+      content: `Cowboys from Hell's drum sound wasn't the massive, triggered production of later Pantera albums — it was something rawer and more organic. And in many ways, that makes it more remarkable. Vinnie Paul's performance on this record proves that groove and feel matter more than production tricks.
 
 What Vinnie achieved with a Tama kit in a family studio in Texas changed heavy music forever. The combination of thrash metal chops, irresistible groove, and songwriting instinct created something new. Every groove metal, nu-metal, and modern metal drummer owes a debt to what Vinnie Paul established on Cowboys from Hell.
 
@@ -11416,7 +11416,7 @@ Vinnie Paul passed away on June 22, 2018, but his influence lives on in every dr
 
 Rest in power, Vinnie Paul. Your grooves echo through every pit.
 
-🤘 *Cowboys from Hell — where the heavy turned groovy.* 🤘\`
+🤘 *Cowboys from Hell — where the heavy turned groovy.* 🤘`
     }
   }
 };

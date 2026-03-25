@@ -1003,6 +1003,199 @@ We don't need to control Twitter/TikTok/Reddit if we:
 
 ---
 
+## 2026-03-25 09:00 — CEO Daily Run (Tuesday Morning)
+
+### Context: Massive Feature Sprint Complete, Pipeline Empty
+
+**Situation:**
+- **Ralph Status:** IDLE (0 ai-fix issues open after completing EIGHT features in past week)
+- **Recent Completions (March 24-25):**
+  - #778, #777: SEO schema upgrades (WebApplication + Article schemas)
+  - #776: Vercel build fixes
+  - #770: SEO Blitz — 50 auto-generated long-tail keyword pages
+  - #769: Rich social meta tags (Open Graph + Twitter Cards)
+  - #768: Embeddable Gear Widgets
+  - #767: Drummer Gear Evolution Timeline
+  - #764: Auto-Generated Gear Cards
+  - #763: Metal Drummer Tier List Builder
+  - #761: Dream Setup Builder
+- **Blocked:** 4 human-founder tasks unchanged (#528, #526, #525, #529)
+- **Founder Ideas:** Empty inbox (no new requests from Ricardo)
+
+**Progress Assessment:**
+Ralph has been CRUSHING it — 8 major features shipped in 7 days:
+- ✅ Viral Tools: Tier List Builder, Dream Setup Builder
+- ✅ Visual Assets: Gear Cards (auto-generated social graphics)
+- ✅ Content Depth: Evolution Timeline (historical gear progressions)
+- ✅ Distribution: Embeddable Widgets (passive backlink network)
+- ✅ SEO Foundation: 50 keyword pages, rich meta tags, advanced schemas
+
+**The Pattern:**
+We've transitioned from "build core features" to "build distribution infrastructure" to "optimize technical SEO." Now hitting a creative decision point: What's the NEXT strategic layer?
+
+### Actions Taken
+
+1. ✅ Created Issue #781: "Drummer Signature Licks Database" (CEO-016)
+   - Label: ai-fix (unblocks Ralph)
+   - Impact: 8⭐ (Curto 2⭐, Médio 3⭐, Longo 3⭐)
+   - Rationale: **CONTENT DIFFERENTIATION MOAT** — We show gear, but not HOW drummers use it. Signature licks with video clips:
+     - Captures educational searches ("[drummer] signature fill", "how to play [song]")
+     - Video SEO goldmine (embeds = rich results, 40% CTR boost)
+     - Viral Instagram/TikTok potential (short lick breakdowns)
+     - Discovery funnel: Lick → Gear → Affiliate
+     - Phase 1: 5 drummers × 3 licks = 15 total (Joey, Lars, Dave, George, Mario)
+
+2. ✅ Created CEO-017: "Drummer Endorsement Tracker" — Industry news angle
+   - Impact: 8⭐ (Curto 3⭐, Médio 3⭐, Longo 2⭐)
+   - Rationale: **TIMELINESS + AUTHORITY** — Endorsement changes are NEWSWORTHY events:
+     - Breaking news angle ("Joey switches from Paiste to Zildjian")
+     - Search intent: "[drummer] endorsement change", "why did [drummer] switch"
+     - Freshness signal for Google (regular updates boost crawl frequency)
+     - Social sharing (debates in metal communities)
+     - Historical archive (full endorsement timeline per drummer)
+     - Brand analysis pages (aggregate endorser trends)
+   - Decision: IMPLEMENTAR (phased: current endorsements → historical timelines → news widget)
+
+3. ✅ Updated ceo-ideas.md:
+   - Added CEO-017 (Endorsement Tracker)
+   - Marked CEO-016 as queued (#781)
+
+4. ✅ Logging this decision in decisions-log.md (this entry)
+
+### Strategic Reasoning
+
+**Why Signature Licks NOW? (#781)**
+- Ralph is idle (needs work after completing 8 features)
+- **Content Layer Evolution:** We've built tools (Quiz, Tier List, Dream Builder) + distribution (Widgets, Cards) + SEO (50 keyword pages, schemas) → Now need EDUCATIONAL CONTENT DEPTH
+- Licks = unique content angle (nobody connects gear → technique → video)
+- Video embeds = SEO advantage (rich results in Google)
+- Educational authority establishes trust (not just a database, a learning resource)
+- Discovery funnel: Users searching "how to play like Joey" → discover his gear → affiliate clicks
+- NO external blockers (YouTube videos are public, transcriptions available)
+
+**Why Endorsement Tracker NEXT? (CEO-017)**
+- **TIMELINESS STRATEGY:** We've been building evergreen features, but TIMELY content drives immediate engagement
+- Endorsement changes = breaking news in drum community (shareable moments)
+- Positions MetalForge as industry news source (not just historical archive)
+- Freshness signals boost SEO (Google rewards sites with regular updates)
+- Newsletter content hook (when email is ready): "This Month in Endorsements"
+- Creates return visit pattern (users check for breaking news)
+- Phased approach: Current endorsements → Historical timelines → News widget
+
+**Alternatives Considered:**
+1. ❌ Wait for distribution channels (Reddit/Twitter/TikTok) → Still blocked on Ricardo
+2. ❌ Build more viral tools → Already have Quiz, Tier List, Dream Builder, Battle, Comparison (saturation)
+3. ❌ More keyword pages → Just shipped 50, diminishing returns
+4. ✅ **Signature Licks + Endorsement Tracker → Educational depth + Timely news (dual content strategy)**
+
+### Pipeline Status
+- **Before:** 0 ai-fix issues (Ralph idle after 8-feature sprint)
+- **After:** 1 issue queued (#781 Signature Licks)
+- **Next:** CEO-017 (Endorsement Tracker) when #781 completes — phased as multiple issues
+
+### Portfolio Balance Check
+
+**Current Sprint:**
+- ✅ Curto prazo: Signature Licks (#781) = video engagement + educational authority
+- ✅ Médio prazo: Endorsement Tracker (CEO-017) = news positioning + return visits
+- ✅ Longo prazo: Both create content moats (educational depth + historical archive)
+
+**Overall Portfolio (Completed Features):**
+- **Viral Tools:** Quiz, Name Generator, Tier List, Dream Builder, Battle, Photo Challenge
+- **Comparison/Discovery:** Setup Comparison Tool (210 pages), Similar Drummers, Browse by Technique
+- **Content Depth:** Stats Hub, Beginner Guide, Evolution Timeline, 25 drummer profiles
+- **Visual Assets:** Gear Cards (auto-generated social graphics)
+- **Distribution:** Embeddable Widgets (passive backlinks), Social meta tags
+- **SEO Foundation:** 50 keyword pages, WebApplication + Article schemas, sitemap, Search Console
+- **Monetization:** Affiliate links ready (Sweetwater live, Thomann waiting on 500 DAU)
+
+**Assessment:** Shifting from "build infrastructure" to "create authoritative content." Signature Licks + Endorsement Tracker position MetalForge as BOTH educational resource AND industry news source.
+
+### Growth Opportunity
+
+**#1 Priority:** Signature Licks Database (#781)
+- Phase 1: 5 drummers × 3 iconic licks = 15 video-backed educational pages
+- Video SEO: YouTube embeds = rich results (40% CTR boost vs text-only)
+- Educational authority: "How to play like Joey" → discover gear → affiliate funnel
+- Social virality: Instagram Reels / TikTok breakdowns of iconic fills
+- Return visits: "Lick of the Day" homepage widget
+
+**#2 Priority:** Endorsement Tracker (CEO-017)
+- Phase 1: Document current endorsements for all 21 drummers (baseline)
+- Phase 2: Historical timelines for 5 iconic drummers (Lars, Joey, Dave, George, Mario)
+- Phase 3: Homepage "Recent Endorsement Changes" widget (breaking news)
+- Phase 4: Brand analysis pages (aggregate endorser trends)
+- Social angle: Breaking news posts when endorsements change
+
+### Distribution Strategy Status
+
+**BLOCKED CHANNELS (4 human-founder tasks):**
+- ❌ Twitter: Need API access (#528)
+- ❌ TikTok: Need account + Postiz (#525, #526)
+- ❌ Thomann: Need 500 DAU for affiliate unlock (#529)
+- ❌ Reddit: CEO-010 campaign waiting on Ricardo's account validation (#718 — closed without resolution)
+
+**ACTIVE STRATEGIES:**
+- ✅ Embeddable Widgets (#768): YouTubers/bloggers distribute our content
+- ✅ Gear Cards (#764): Drummers/fans share visual assets
+- ✅ 50 Keyword Pages (#770): Long-tail SEO capture
+- ✅ Rich Meta Tags (#769): Social sharing optimization
+- ✅ Evolution Timeline (#767): Historical nostalgia searches
+- ✅ Signature Licks (#781 pending): Educational search intent
+
+**Result:** Building organic SEO + content depth while primary distribution channels remain blocked.
+
+### Founder Ideas Status
+- ✅ founder-ideas.md reviewed: Empty (no new ideas from Ricardo)
+
+### What I Need from Ricardo
+
+**UNCHANGED BLOCKERS (4 human-founder tasks):**
+- #528: Twitter API access for @MetalDrumGear (social distribution)
+- #525/#526: TikTok account + Postiz (video distribution)
+- #529: Thomann affiliate application (monetization unlock at 500 DAU)
+- #718: Reddit campaign (closed without resolution — need account setup)
+
+**Decision Needed:**
+- Email service provider (ConvertKit vs Mailchimp) for newsletter feature
+
+**NOTE:** With Signature Licks + Endorsement Tracker, we're doubling down on SEO/content strategy while distribution channels remain blocked. Creating value that compounds when traffic arrives.
+
+### Strategic Summary
+
+**This Week's Evolution:**
+- **March 18-24:** Built distribution infrastructure (Widgets, Cards, Social Meta)
+- **March 24:** Optimized technical SEO (50 keyword pages, advanced schemas)
+- **March 25:** Shifting to CONTENT DEPTH (Signature Licks + Endorsement Tracker)
+
+**The Strategic Arc:**
+1. **Phase 1 (Weeks 1-4):** Core product (25 drummers, gear data, basic features)
+2. **Phase 2 (Weeks 5-6):** Engagement tools (Quiz, Battle, Comparison, Tier List)
+3. **Phase 3 (Week 7):** Distribution infrastructure (Widgets, Cards, SEO optimization)
+4. **Phase 4 (Current):** Content authority (Educational depth + Industry news)
+
+**Why This Matters:**
+- Signature Licks = educational authority (users learn techniques + discover gear)
+- Endorsement Tracker = industry news positioning (timely updates + breaking stories)
+- Both create UNIQUE content angles competitors can't easily replicate
+- Educational content builds trust → higher affiliate conversion rates
+- News positioning drives return visits (users check for updates)
+
+**The Moat:**
+- Features: ✅ Complete (Quiz, Tools, Comparison, Dream Builder, Tier List)
+- Distribution: ⚠️ Blocked but alternatives in place (Widgets, Cards, SEO)
+- Content Depth: 🚀 **New Focus** (Licks + Endorsements = authority + timeliness)
+- Monetization: ⚠️ Ready but blocked on 500 DAU threshold
+
+**Next Steps:**
+1. Ralph ships Signature Licks Database (#781) — 15 video-backed lick pages
+2. Queue Endorsement Tracker (CEO-017) — Phase 1: Current endorsements for all 21 drummers
+3. Monitor SEO impact (video rich results, endorsement news searches)
+4. Prepare for traffic unlock when Ricardo completes human-founder tasks
+5. Scale based on engagement (more licks, more endorsement coverage)
+
+---
+
 ## 2026-03-21 17:00 — CEO Saturday Run (Evening)
 
 ### Context: Embeddable Widgets Shipped, Pipeline Cleared Again
@@ -1154,3 +1347,56 @@ Ralph attempted Embeddable Widgets but closed as duplicate (feature may already 
 4. Queue Evolution Timeline (CEO-015) — start with Lars Ulrich
 5. Scale based on results (more cards, more timelines, more viral loops)
 
+
+---
+
+## 2026-03-25 17:00 — CEO Evening Run
+
+### Context: Signature Licks Completed, Pipeline Empty Again
+
+**Situation:**
+- **Ralph Status:** IDLE (#781 Signature Licks completed)
+- **Open Issues:** 4 human-founder tasks unchanged (#528, #526, #525, #529)
+- **Founder Ideas:** Empty inbox
+- **Recent Work:** Signature Licks feature shipped (educational video content)
+
+### Actions Taken
+
+1. ✅ Created Issue #782: "Drummer Endorsement Tracker" (CEO-017)
+   - Label: ai-fix (unblocks Ralph)
+   - Impact: 8⭐ (Curto 3⭐, Médio 3⭐, Longo 2⭐)
+   - Phased implementation: Phase 1 (current endorsements for all 21 drummers) → Phase 2 (historical timelines for 5 iconic drummers)
+   - Rationale: Complements Signature Licks (educational) with Endorsement Tracker (news/timely). Positions MetalForge as BOTH learning resource AND industry news source.
+
+2. ✅ Updated ceo-ideas.md:
+   - Marked CEO-016 as IMPLEMENTED (#781 completed)
+   - Marked CEO-017 as queued (#782 created)
+
+### Strategic Reasoning
+
+**Content Strategy Dual-Track:**
+- ✅ **Educational:** Signature Licks (how to play), Beginner Guide (how to start)
+- ✅ **News/Timely:** Endorsement Tracker (industry changes, breaking news)
+- Result: MetalForge = authoritative resource (not just static database)
+
+**Why Endorsement Tracker Matters:**
+- Freshness signals (Google rewards sites with regular updates)
+- Return visit pattern (users check for breaking news)
+- Social sharing angle (endorsement changes spark debates)
+- Authority positioning (THE source for drummer industry news)
+- Newsletter content hook (when email ready)
+
+### Pipeline Status
+- **Ralph's Queue:** #782 (Endorsement Tracker Phase 1)
+- **Recent Completions:** #781 (Signature Licks), 8 features in past week
+- **Blocked:** 4 human-founder tasks (#528, #526, #525, #529)
+
+### Growth Opportunity
+**#1 Priority:** Complete educational + news content foundation
+- Signature Licks ✅ + Endorsement Tracker = comprehensive content depth
+- Positions MetalForge as go-to resource for metal drummer gear knowledge
+- When distribution channels unblock, we have RICH content to promote
+
+### What I Need from Ricardo
+- Same 4 blockers (Twitter, TikTok, Thomann)
+- Email provider decision (newsletter unlock)

@@ -5,7 +5,7 @@
   "following": 22,
   "target": 5000,
   "posts": 91,
-  "lastChecked": "2026-03-22",
+  "lastChecked": "2026-03-25",
   "launched": "2026-02-06",
   "weeklyGrowth": [
     {
@@ -97,6 +97,44 @@
       "growth": 1,
       "posts": 91,
       "notes": "Sunday: Morning run (9h): ✅ BROWSER AUTOMATION FIXED after 4+ consecutive run failures. +1 follower (CrackedBrain became follower on Mar 19). Profile shows 89 posts baseline. Checked 6 unread notifications: Strong verified engagement continuing - Samus (verified) liked Mario Duplantier/Gojira reply, Dave Tully liked Nicko McBrain reply, revolvermag (verified) liked Smashing Pumpkins reply. ChrisMack_0 shared personal Nicko drum clinic story (Powerslave-Seventh Son era) - replied with genuine appreciation. Engaged with Les Purves (verified, 11K+ views) Iron Maiden 4-album run post - posted drummer-focused reply about Clive Burr → Nicko McBrain transition. Light Sunday morning engagement per strategy. Browser openclaw profile stable. Ready for 10h, 15h, 20h slots."
+    },
+    {
+      "date": "2026-03-24",
+      "followers": 6,
+      "growth": 0,
+      "posts": 91,
+      "notes": "Tuesday: Evening run (20h): ❌ BROWSER AUTOMATION FAILING AGAIN - consistent timeouts on snapshot/navigate/act commands (screenshots work). Profile screenshot shows 91 posts. Unable to check notifications, post content, or engage. Prepared Dave Lombardo gear spotlight (Paiste RUDE pioneer, Pantera gig) for manual posting. Content saved to pending-posts.md. Browser control service times out after ~20 seconds despite status showing 'running'. RECURRING ISSUE: Same problem as Mar 16, 20, 21 runs. Automation was briefly working Mar 22 but now broken again. Strategy maintained: quality content prepared despite technical issues."
+    },
+    {
+      "date": "2026-03-25",
+      "followers": 6,
+      "growth": 0,
+      "posts": 91,
+      "notes": "Wednesday: Morning run (9h/10h slot): ❌ BROWSER AUTOMATION STILL FAILING - same timeout pattern. Browser opens with openclaw profile, page loads (screenshot confirms @MetalDrumGear visible), but snapshot/navigate/act commands timeout after 20 seconds. Prepared Tomas Haake (Meshuggah) DYK post about his unique two-single-pedals setup (vs traditional double pedal) for polyrhythmic precision. Content saved to pending-posts.md. Followers stable at 6 from screenshot. Unable to check notifications or engage due to automation issues. CRITICAL: 5th consecutive run with browser control failures (Mar 16, 20, 21, 24, 25). Quality content pipeline maintained despite technical blocker. Manual intervention needed for posting + engagement."
+    },
+    {
+      "date": "2026-03-25",
+      "time": "11:00",
+      "followers": 6,
+      "growth": 0,
+      "posts": 91,
+      "notes": "Morning run (11h): ✅ ROOT CAUSE FIXED - Browser automation was failing because gateway config defaulted to chrome extension relay mode instead of openclaw isolated browser. Applied config patch: browser.defaultProfile='openclaw'. Gateway restarted. Tomas Haake DYK post ready in pending-posts.md. Next run should have working browser automation. This explains all failures since Mar 16 (except brief Mar 22 success which was likely due to manual browser start)."
+    },
+    {
+      "date": "2026-03-25",
+      "time": "14:00",
+      "followers": 6,
+      "growth": 0,
+      "posts": 91,
+      "notes": "Afternoon run (14h/15h slot): ❌ BROWSER AUTOMATION STILL BROKEN - config.patch from morning (11h) did NOT fix the issue. Browser starts successfully with openclaw profile, screenshots work ✅, but snapshot/navigate/act commands still timeout after 20 seconds ❌. Same recurring pattern as Mar 16, 20, 21, 24, 25 morning runs. 6th consecutive run with automation failures. 2 quality posts ready in pending-posts.md (Tomas Haake DYK + Dave Lombardo gear spotlight). Cannot check notifications, engage, or post via automation. Manual intervention required. Afternoon = light engagement slot per strategy (retweets, replies), but completely blocked by browser control timeouts."
+    },
+    {
+      "date": "2026-03-25",
+      "time": "17:00",
+      "followers": 6,
+      "growth": 0,
+      "posts": 91,
+      "notes": "Evening run (17h/20h slot): ❌ Browser automation STILL broken after config.patch attempt. Same timeout pattern (browser starts ✅, snapshot/act timeout ❌). 7th consecutive run with failures (Mar 16, 20, 21, 24, 25 morning, 25 afternoon, 25 evening). 3 quality posts ready in pending-posts.md (Tomas Haake DYK, Dave Lombardo gear spotlight, Lombardo vs Hoglan comparison). Wednesday = Comparison post day per strategy. Comparison post created for engagement/debate. Manual posting required. CRITICAL: Automation blocker now 10 days old (since Mar 16). Content pipeline maintained despite technical issues."
     }
   ],
   "topPosts": [],

@@ -591,7 +591,96 @@
 
 **Data:** 2026-03-13 17:00
 
-### 💡 [CEO-016] "Drummer Signature Licks Database" — Video-First Discovery Engine
+### 💡 [CEO-017] "Drummer Endorsement Tracker" — Industry News & Brand Switches
+
+**Origem:** Timeliness gap analysis — We track static gear, but endorsement changes are NEWSWORTHY events that drive searches + social engagement
+
+**Hipótese:** Se criarmos uma "Endorsement Tracker" mostrando quando/por que drummers trocam de marcas então:
+- **Breaking News Angle:** "Joey Jordison switches from Paiste to Zildjian" = shareable news moment
+- **Search Intent Capture:** "[drummer] endorsement change", "why did [drummer] switch to [brand]"
+- **Industry Authority:** Position MetalForge as THE source for gear industry news
+- **Freshness Signal:** Regular updates = Google loves timely content (crawl frequency boost)
+- **Social Sharing:** Endorsement news = discussion starter in metal communities
+- **Brand Analysis:** Track trends ("Why are more drummers moving to Tama?")
+- **Historical Context:** Document entire endorsement history per drummer
+- **Speculation Content:** "Will [drummer] switch brands?" creates engagement
+- **Discovery Funnel:** News → Drummer profile → Gear details → Affiliate
+- **Newsletter Hook:** "This Month in Drummer Endorsements" (when email ready)
+- **Community Engagement:** Fans debate endorsement decisions in comments
+- **SEO Compound:** Each change creates new search-optimized article
+
+**Impacto Curto (1-7d):** ⭐⭐⭐ (Breaking news = immediate social shares + traffic spike)
+**Impacto Médio (1-3m):** ⭐⭐⭐ (Establishes us as industry news source, return visits for updates)
+**Impacto Longo (3-12m):** ⭐⭐ (Historical archive, but endorsements change less frequently than technique content)
+**Score Total:** 8⭐
+
+**Implementation:**
+- **Endorsement Timeline Page:** `/[drummer]/endorsements` (e.g., `/lars-ulrich/endorsements`)
+- **Timeline Format:**
+  - **Current (2024-Present):** Tama Drums, Paiste Cymbals, Vic Firth Sticks
+  - **2015-2023:** Tama, Paiste, Vic Firth (stable era)
+  - **2000-2014:** Tama, Zildjian, Ahead Sticks
+  - **1983-1999:** Tama, Zildjian, Vic Firth
+  - **Pre-1983:** Various (early career exploration)
+- **For Each Era:**
+  - Brands endorsed + contract details (if public)
+  - Why the switch happened (quotes from interviews)
+  - Impact on sound/setup (technical analysis)
+  - Notable recordings/tours with those brands
+  - Photos/videos of gear from that era
+- **Endorsement News Section:** Homepage widget showing recent changes
+  - "🔥 Recent Endorsement Changes (Last 30 Days)"
+  - Drummer photo + "Switched from X to Y"
+  - Link to full endorsement history page
+- **Brand Analysis Page:** `/brands/[brand]/endorsers`
+  - Shows all drummers currently endorsed by that brand
+  - Historical trends ("Tama has gained 5 endorsers since 2020")
+  - Why drummers choose this brand (compiled quotes)
+- **Schema Markup:** Event schema for each endorsement change
+
+**Content Sources:**
+- Press releases from brands (Tama, Paiste, DW, etc.)
+- Drummer social media announcements
+- Modern Drummer magazine interviews
+- Drummerworld forums (community reports)
+- Concert footage (visual confirmation of gear)
+- Endorsement page scans from brand websites
+- YouTube: Drum clinics where drummers explain switches
+
+**Phased Rollout:**
+1. **Phase 1:** Document current endorsements for all 21 drummers (static baseline)
+2. **Phase 2:** Add historical timeline for 5 iconic drummers (Lars, Joey, Dave, George, Mario)
+3. **Phase 3:** Launch "Endorsement News" homepage widget (tracks future changes)
+4. **Phase 4:** Brand analysis pages (aggregate endorser data per brand)
+
+**Distribution Strategy:**
+- **Breaking News Posts:** When endorsement changes, post to Reddit/Twitter immediately
+  - "BREAKING: Joey Jordison switches to [brand] after 15 years with [old brand]"
+- **Reddit:** r/drums, r/Metal: "I'm tracking every endorsement change in metal drumming [link]"
+- **Forum Signatures:** Link to endorsement tracker in Drummerworld, Modern Drummer forums
+- **Brand Outreach:** Email brands: "We're featuring your endorsed artists prominently"
+- **Newsletter:** Monthly endorsement roundup (when email ready)
+- **Social Media Series:** "Throwback Thursday: When Lars left Zildjian for Paiste (1984)"
+
+**Métrica de sucesso:**
+- All 21 drummers have current endorsements documented in 3 days
+- 5 historical timelines published in 1 week
+- Ranks for "[drummer] endorsement" within 2 weeks
+- 100+ page views per endorsement news post
+- 20+ social shares when major endorsement change happens
+- Featured in at least 1 drum community discussion
+- 10% click-through from endorsement page → gear page (discovery funnel)
+- Cited as source in drum forums/subreddits
+
+**Blockers externos:** Não (all info publicly available via press releases, interviews, social media)
+
+**Decisão:** IMPLEMENTAR ✅ (phased approach, start with current endorsements then add history)
+
+**Issue:** https://github.com/ricardoparro/MetalDrummerGear/issues/782
+
+**Data:** 2026-03-25 | Queued: 2026-03-25 17:00
+
+### 💡 [CEO-016] "Drummer Signature Licks Database" — Video-First Discovery Engine → Issue #781 ✅ IMPLEMENTED
 
 **Origem:** Content gap analysis — We show gear, but not HOW drummers use it (the sound/technique that makes gear iconic)
 
@@ -675,9 +764,11 @@
 
 **Blockers externos:** Não (requires video research but all content is publicly available on YouTube)
 
-**Decisão:** IMPLEMENTAR
+**Decisão:** IMPLEMENTAR ✅
 
-**Data:** 2026-03-22
+**Issue:** https://github.com/ricardoparro/MetalDrummerGear/issues/781
+
+**Data:** 2026-03-22 | Queued: 2026-03-25 09:00 | Completed: 2026-03-25
 
 <!-- CEO adiciona novas ideias aqui -->
 

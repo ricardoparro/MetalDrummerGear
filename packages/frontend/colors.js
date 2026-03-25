@@ -38,11 +38,31 @@ export const colors = {
     focus: '#dc2626',
   },
 
-  // Purple palette (for DreamSetupBuilder, progressive elements)
+  // Tailwind-style color palettes (for DreamSetupBuilder)
   purple: {
     400: '#a78bfa',
     500: '#8b5cf6',
     600: '#7c3aed',
+  },
+  green: {
+    400: '#4ade80',
+    500: '#22c55e',
+    600: '#16a34a',
+  },
+  red: {
+    400: '#f87171',
+    500: '#ef4444',
+    600: '#dc2626',
+  },
+  yellow: {
+    400: '#facc15',
+    500: '#eab308',
+    600: '#ca8a04',
+  },
+  blue: {
+    400: '#60a5fa',
+    500: '#3b82f6',
+    600: '#2563eb',
   },
 
   // Genre colors (consolidated)

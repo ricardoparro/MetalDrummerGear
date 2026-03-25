@@ -38,6 +38,13 @@ export const colors = {
     focus: '#dc2626',
   },
 
+  // Purple palette (for DreamSetupBuilder, progressive elements)
+  purple: {
+    400: '#a78bfa',
+    500: '#8b5cf6',
+    600: '#7c3aed',
+  },
+
   // Genre colors (consolidated)
   genre: {
     thrash: '#dc2626',

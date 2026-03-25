@@ -154,6 +154,16 @@ import {
   extractBrand as extractGearBrand,
 } from './data/gearCategoryPages';
 
+// Endorsement Tracker Module (Issue #782)
+import {
+  ENDORSEMENT_CATEGORIES,
+  ENDORSEMENT_BRANDS,
+  enhanceEndorsement,
+  groupEndorsementsByCategory,
+  getEndorsementSummary,
+  getEndorsementBadgeText,
+} from './data/endorsements';
+
 // ==========================================
 // LAZY-LOADED DATA MODULES - Performance Optimization (#708)
 // Deferred from initial bundle to reduce main thread blocking
@@ -1300,6 +1310,175 @@ function QuotesSection({ quotes, drummerName, theme }) {
           ))}
         </View>
       )}
+    </View>
+  );
+}
+
+// ==========================================
+// ENDORSEMENTS SECTION - Prominent brand display (Issue #782)
+// Phase 1: Display current endorsements with brand colors and logos
+// ==========================================
+function EndorsementsSection({ endorsements, drummerName, theme }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  
+  if (!endorsements || endorsements.length === 0) return null;
+  
+  // Group endorsements by category with enhanced data
+  const grouped = groupEndorsementsByCategory(endorsements);
+  const summary = getEndorsementSummary(endorsements);
+  
+  // Handle brand link press
+  const handleBrandPress = (url) => {
+    if (url && Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.open(url, '_blank', 'noopener,noreferrer');
+    } else if (url) {
+      Linking.openURL(url);
+    }
+  };
+  
+  // Navigate to brand page
+  const handleBrandPagePress = (brandSlug) => {
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState(null, '', `/gear/brand/${brandSlug}`);
+      window.dispatchEvent(new PopStateEvent('popstate'));
+    }
+  };
+
+  return (
+    <View 
+      style={[styles.section, styles.endorsementsSection, { backgroundColor: theme.card, borderColor: theme.border }]}
+      id="drummer-endorsements"
+      data-testid="endorsements-section"
+      accessibilityRole="region"
+      accessibilityLabel={`${drummerName} endorsements`}
+    >
+      <View style={styles.endorsementsSectionHeader}>
+        <Text style={[styles.sectionTitle, { color: theme.text, marginBottom: 0 }]} accessibilityRole="header">
+          🤝 Official Endorsements
+        </Text>
+        <Text style={[styles.endorsementsSubtitle, { color: theme.secondaryText }]}>
+          Brands that sponsor {drummerName}
+        </Text>
+      </View>
+      
+      {/* Primary Endorsements - Drums, Cymbals, Sticks */}
+      <View style={[styles.endorsementsPrimary, isMobile && styles.endorsementsPrimaryMobile]}>
+        {/* Drums Brand */}
+        {summary.drums && (
+          <TouchableOpacity
+            onPress={() => handleBrandPress(summary.drums.url)}
+            style={[
+              styles.endorsementPrimaryCard,
+              { 
+                backgroundColor: summary.drums.bgColor || theme.surfaceElevated,
+                borderColor: summary.drums.color || theme.border,
+              }
+            ]}
+            accessibilityRole="link"
+            accessibilityLabel={`${summary.drums.name} - Drums endorsement`}
+          >
+            <Text style={styles.endorsementCategoryLabel}>🥁 Drums</Text>
+            <Text style={[styles.endorsementBrandName, { color: summary.drums.color || theme.text }]}>
+              {summary.drums.name.replace(' Drums', '')}
+            </Text>
+            {summary.drums.description && (
+              <Text style={[styles.endorsementBrandDesc, { color: theme.secondaryText }]} numberOfLines={1}>
+                {summary.drums.description}
+              </Text>
+            )}
+          </TouchableOpacity>
+        )}
+        
+        {/* Cymbals Brand */}
+        {summary.cymbals && (
+          <TouchableOpacity
+            onPress={() => handleBrandPress(summary.cymbals.url)}
+            style={[
+              styles.endorsementPrimaryCard,
+              { 
+                backgroundColor: summary.cymbals.bgColor || theme.surfaceElevated,
+                borderColor: summary.cymbals.color || theme.border,
+              }
+            ]}
+            accessibilityRole="link"
+            accessibilityLabel={`${summary.cymbals.name} - Cymbals endorsement`}
+          >
+            <Text style={styles.endorsementCategoryLabel}>🎵 Cymbals</Text>
+            <Text style={[styles.endorsementBrandName, { color: summary.cymbals.color || theme.text }]}>
+              {summary.cymbals.name.replace(' Cymbals', '')}
+            </Text>
+            {summary.cymbals.description && (
+              <Text style={[styles.endorsementBrandDesc, { color: theme.secondaryText }]} numberOfLines={1}>
+                {summary.cymbals.description}
+              </Text>
+            )}
+          </TouchableOpacity>
+        )}
+        
+        {/* Sticks Brand */}
+        {summary.sticks && (
+          <TouchableOpacity
+            onPress={() => handleBrandPress(summary.sticks.url)}
+            style={[
+              styles.endorsementPrimaryCard,
+              { 
+                backgroundColor: summary.sticks.bgColor || theme.surfaceElevated,
+                borderColor: summary.sticks.color || theme.border,
+              }
+            ]}
+            accessibilityRole="link"
+            accessibilityLabel={`${summary.sticks.name} - Sticks endorsement`}
+          >
+            <Text style={styles.endorsementCategoryLabel}>🪵 Sticks</Text>
+            <Text style={[styles.endorsementBrandName, { color: summary.sticks.color || theme.text }]}>
+              {summary.sticks.name.replace(' Sticks', '').replace(' Drumsticks', '')}
+            </Text>
+            {summary.sticks.description && (
+              <Text style={[styles.endorsementBrandDesc, { color: theme.secondaryText }]} numberOfLines={1}>
+                {summary.sticks.description}
+              </Text>
+            )}
+          </TouchableOpacity>
+        )}
+      </View>
+      
+      {/* Secondary Endorsements - Heads, Hardware, Electronics, etc. */}
+      <View style={styles.endorsementsSecondary}>
+        {Object.entries(grouped).map(([category, group]) => {
+          // Skip primary categories already shown
+          if (['drums', 'cymbals', 'sticks'].includes(category)) return null;
+          if (!group.items || group.items.length === 0) return null;
+          
+          return group.items.map((endorsement, index) => (
+            <TouchableOpacity
+              key={`${category}-${index}`}
+              onPress={() => handleBrandPress(endorsement.url)}
+              style={[
+                styles.endorsementSecondaryChip,
+                { 
+                  backgroundColor: endorsement.bgColor || theme.surfaceElevated,
+                  borderColor: endorsement.color || theme.border,
+                }
+              ]}
+              accessibilityRole="link"
+              accessibilityLabel={`${endorsement.name} - ${group.label} endorsement`}
+            >
+              <Text style={styles.endorsementChipEmoji}>{endorsement.categoryEmoji}</Text>
+              <Text style={[styles.endorsementChipText, { color: endorsement.color || theme.text }]}>
+                {endorsement.name.replace(' Drumheads', '').replace(' Electronics', '')}
+              </Text>
+            </TouchableOpacity>
+          ));
+        })}
+      </View>
+      
+      {/* All Endorsements List - Compact View */}
+      <View style={styles.endorsementsCompact}>
+        <Text style={[styles.endorsementsCompactLabel, { color: theme.secondaryText }]}>
+          All sponsors: {endorsements.map(e => e.name.replace(' Drums', '').replace(' Cymbals', '').replace(' Sticks', '').replace(' Drumsticks', '').replace(' Drumheads', '')).join(' • ')}
+        </Text>
+      </View>
     </View>
   );
 }
@@ -5833,24 +6012,12 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
         </View>
       )}
 
-      {drummer.endorsements && drummer.endorsements.length > 0 && (
-        <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
-          <Text style={[styles.sectionTitle, { color: theme.accent }]} accessibilityRole="header">Endorsements</Text>
-          <View style={styles.endorsements}>
-            {drummer.endorsements.map((endorsement, index) => (
-              <TouchableOpacity
-                key={index}
-                onPress={() => handleEndorsementPress(endorsement.url)}
-                style={[styles.endorsementLink, { borderColor: theme.accent, backgroundColor: theme.surfaceElevated }]}
-                accessibilityRole="link"
-                accessibilityLabel={`Visit ${endorsement.name} website`}
-              >
-                <Text style={[styles.endorsementText, { color: theme.accent }]}>{endorsement.name}</Text>
-              </TouchableOpacity>
-            ))}
-          </View>
-        </View>
-      )}
+      {/* Enhanced Endorsements Section - Issue #782 */}
+      <EndorsementsSection
+        endorsements={drummer.endorsements}
+        drummerName={drummer.name}
+        theme={theme}
+      />
 
       {drummer.videos && drummer.videos.length > 0 && (
         <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
@@ -27126,6 +27293,85 @@ const styles = StyleSheet.create({
   endorsementText: {
     fontSize: fontSize.sm,
     fontWeight: fontWeight.medium,
+  },
+  // Enhanced Endorsements Section Styles - Issue #782
+  endorsementsSection: {
+    paddingVertical: spacing[4],   // 16px
+  },
+  endorsementsSectionHeader: {
+    marginBottom: spacing[4],      // 16px
+  },
+  endorsementsSubtitle: {
+    fontSize: fontSize.sm,
+    marginTop: spacing[1],         // 4px
+  },
+  endorsementsPrimary: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: spacing[3],               // 12px
+    marginBottom: spacing[4],      // 16px
+  },
+  endorsementsPrimaryMobile: {
+    flexDirection: 'column',
+  },
+  endorsementPrimaryCard: {
+    flex: 1,
+    minWidth: 140,
+    maxWidth: 200,
+    padding: spacing[4],           // 16px
+    borderRadius: spacing[3],      // 12px
+    borderWidth: 2,
+    alignItems: 'center',
+    justifyContent: 'center',
+    gap: spacing[1],               // 4px
+  },
+  endorsementCategoryLabel: {
+    fontSize: fontSize.xs,
+    fontWeight: fontWeight.medium,
+    textTransform: 'uppercase',
+    letterSpacing: 0.5,
+    opacity: 0.8,
+  },
+  endorsementBrandName: {
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.bold,
+    textAlign: 'center',
+  },
+  endorsementBrandDesc: {
+    fontSize: fontSize.xs,
+    textAlign: 'center',
+    marginTop: spacing[1],         // 4px
+  },
+  endorsementsSecondary: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: spacing[2],               // 8px
+    marginBottom: spacing[3],      // 12px
+  },
+  endorsementSecondaryChip: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    paddingVertical: spacing[2],   // 8px
+    paddingHorizontal: spacing[3], // 12px
+    borderRadius: spacing[4],      // 16px
+    borderWidth: 1,
+    gap: spacing[1],               // 4px
+  },
+  endorsementChipEmoji: {
+    fontSize: fontSize.sm,
+  },
+  endorsementChipText: {
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.medium,
+  },
+  endorsementsCompact: {
+    paddingTop: spacing[2],        // 8px
+    borderTopWidth: 1,
+    borderTopColor: 'rgba(0,0,0,0.1)',
+  },
+  endorsementsCompactLabel: {
+    fontSize: fontSize.xs,
+    fontStyle: 'italic',
   },
   videosContainer: {
     gap: spacing[4],               // 16px

@@ -8170,6 +8170,7 @@ function EvolutionTimelinePage({ theme, initialDecade, onBack, onSelectDrummer }
   
   // Filter events based on selections
   const filteredEvents = useMemo(() => {
+    if (!isLoaded) return [];
     let events = allEvents;
     
     if (selectedDecade) {
@@ -8186,20 +8187,10 @@ function EvolutionTimelinePage({ theme, initialDecade, onBack, onSelectDrummer }
     }
     
     return events;
-  }, [allEvents, selectedDecade, selectedType, selectedSubgenre, searchQuery]);
-  
-  // Loading state
-  if (!isLoaded) {
-    return (
-      <View style={[styles.detailContainer, { backgroundColor: theme.background, justifyContent: 'center', alignItems: 'center', minHeight: 400 }]}>
-        <ActivityIndicator size="large" color={theme.primary} />
-        <Text style={{ color: theme.secondaryText, marginTop: 16 }}>Loading timeline...</Text>
-      </View>
-    );
-  }
+  }, [isLoaded, allEvents, selectedDecade, selectedType, selectedSubgenre, searchQuery]);
   
   // Update URL when decade changes
-  const handleDecadeSelect = (decade) => {
+  const handleDecadeSelect = useCallback((decade) => {
     const newDecade = selectedDecade === decade ? null : decade;
     setSelectedDecade(newDecade);
     setSelectedEvent(null);
@@ -8207,10 +8198,11 @@ function EvolutionTimelinePage({ theme, initialDecade, onBack, onSelectDrummer }
       const path = newDecade ? `/history?decade=${newDecade}` : '/history';
       window.history.replaceState({}, '', path);
     }
-  };
+  }, [selectedDecade]);
   
-  // Update SEO meta tags
+  // Update SEO meta tags - MUST be before conditional return
   useEffect(() => {
+    if (!isLoaded) return;
     if (typeof document !== 'undefined') {
       const title = selectedDecade 
         ? `${selectedDecade} Metal Drumming History | MetalForge`
@@ -8572,6 +8564,16 @@ function EvolutionTimelinePage({ theme, initialDecade, onBack, onSelectDrummer }
       </TouchableOpacity>
     );
   };
+
+  // Loading state - rendered AFTER all hooks are called
+  if (!isLoaded) {
+    return (
+      <View style={[styles.detailContainer, { backgroundColor: theme.background, justifyContent: 'center', alignItems: 'center', minHeight: 400 }]}>
+        <ActivityIndicator size="large" color={theme.primary} />
+        <Text style={{ color: theme.secondaryText, marginTop: 16 }}>Loading timeline...</Text>
+      </View>
+    );
+  }
 
   return (
     <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>

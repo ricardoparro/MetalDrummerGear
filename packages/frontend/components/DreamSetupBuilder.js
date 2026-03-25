@@ -33,6 +33,7 @@ import { formatPrice, EUR_TO_USD } from '../gearPrices';
 import { getThomannLink, getSweetwaterLink } from '../affiliateLinks';
 import { getOptimizedImageUrl } from '../imageUtils';
 import { KIT_BUILDER_CATALOG } from './KitBuilder';
+import { injectWebApplicationSchema, TOOL_SCHEMAS } from '../utils/webApplicationSchema';
 
 // ==========================================
 // CONSTANTS & DATA
@@ -433,6 +434,12 @@ export function updateSetupBuilderMeta(preferences = {}, totalCost = 0) {
   setMeta('twitter:card', 'summary_large_image');
   setMeta('twitter:title', title);
   setMeta('twitter:description', description);
+  
+  // Inject WebApplication schema for SEO (Issue #778)
+  injectWebApplicationSchema({
+    ...TOOL_SCHEMAS.dreamSetup,
+    description: description, // Use dynamic description
+  });
 }
 
 // ==========================================

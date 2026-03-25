@@ -1,6 +1,7 @@
 /**
  * Catchall Meta Tags API Endpoint
  * Issue #769: Add Rich Social Meta Tags (Open Graph + Twitter Cards) to All Pages
+ * Issue #777: Add Article schema to content articles
  * 
  * Handles dynamic meta tag generation for any path.
  * Used via vercel.json rewrites for crawler user agents.
@@ -13,6 +14,91 @@ const SITE_NAME = 'MetalForge';
 const TWITTER_HANDLE = '@MetalDrumGear';
 const DEFAULT_IMAGE = `${BASE_URL}/og-image.png`;
 const DEFAULT_DESCRIPTION = 'Explore the drum kits, cymbals, and gear used by legendary metal drummers. Discover what Lars Ulrich, Joey Jordison, Dave Lombardo and 60+ pro drummers play.';
+
+// Article data for schema.org Article structured data (Issue #777)
+// Maps article slugs to their metadata for SEO schema generation
+const ARTICLE_METADATA = {
+  'cowboys-from-hell-drum-setup': {
+    headline: "Cowboys from Hell Drum Setup: Vinnie Paul's Breakthrough Gear",
+    description: "Complete breakdown of Vinnie Paul's drum gear on Pantera's Cowboys from Hell. The Tama kit, explosive snare sound, and recording techniques that launched groove metal.",
+    author: 'MetalForge Editorial',
+    datePublished: '2026-03-24',
+    dateModified: '2026-03-24',
+    image: `${BASE_URL}/images/albums/cowboys-from-hell-drums.webp`,
+    articleSection: 'Album Gear Breakdown',
+    keywords: ['cowboys from hell drums', 'vinnie paul drum setup', 'pantera gear'],
+  },
+  'mike-mangini-dream-theater-arsenal': {
+    headline: "What's In Mike Mangini's Dream Theater Arsenal",
+    description: "Complete breakdown of Mike Mangini's massive drum kit setup. Discover the gear the world record holder and Berklee professor uses with Dream Theater.",
+    author: 'MetalForge Editorial',
+    datePublished: '2026-03-24',
+    dateModified: '2026-03-24',
+    image: `${BASE_URL}/images/drummers/mike-mangini.webp`,
+    articleSection: 'Drummer Gear Breakdown',
+    keywords: ['mike mangini drum kit', 'dream theater drummer', 'progressive metal drums'],
+  },
+  'whats-in-mike-manginis-kit': {
+    headline: "What's In Mike Mangini's Dream Theater Arsenal",
+    description: "Complete breakdown of Mike Mangini's massive drum kit setup. Discover the gear the world record holder and Berklee professor uses with Dream Theater.",
+    author: 'MetalForge Editorial',
+    datePublished: '2026-03-24',
+    dateModified: '2026-03-24',
+    image: `${BASE_URL}/images/drummers/mike-mangini.webp`,
+    articleSection: 'Drummer Gear Breakdown',
+    keywords: ['mike mangini drum kit', 'dream theater drummer', 'progressive metal drums'],
+  },
+  'vinnie-paul-pantera-arsenal': {
+    headline: "What's In Vinnie Paul's Pantera Arsenal (Tribute)",
+    description: "Complete breakdown of Vinnie Paul's legendary drum kit setup. From Cowboys from Hell to his final days with Hellyeah, discover the gear that defined groove metal drumming.",
+    author: 'MetalForge Editorial',
+    datePublished: '2026-03-23',
+    dateModified: '2026-03-23',
+    image: `${BASE_URL}/images/drummers/vinnie-paul.webp`,
+    articleSection: 'Drummer Gear Breakdown',
+    keywords: ['vinnie paul drum kit', 'pantera drummer gear', 'groove metal drums'],
+  },
+  'whats-in-vinnie-pauls-kit': {
+    headline: "What's In Vinnie Paul's Pantera Arsenal (Tribute)",
+    description: "Complete breakdown of Vinnie Paul's legendary drum kit setup. From Cowboys from Hell to his final days with Hellyeah, discover the gear that defined groove metal drumming.",
+    author: 'MetalForge Editorial',
+    datePublished: '2026-03-23',
+    dateModified: '2026-03-23',
+    image: `${BASE_URL}/images/drummers/vinnie-paul.webp`,
+    articleSection: 'Drummer Gear Breakdown',
+    keywords: ['vinnie paul drum kit', 'pantera drummer gear', 'groove metal drums'],
+  },
+  'nicko-mcbrain-iron-maiden-arsenal': {
+    headline: "What's In Nicko McBrain's Iron Maiden Arsenal",
+    description: "Complete breakdown of Nicko McBrain's drum kit setup. Discover the gear that powers Iron Maiden's legendary galloping rhythms — achieved entirely with a single bass drum pedal.",
+    author: 'MetalForge Editorial',
+    datePublished: '2026-03-23',
+    dateModified: '2026-03-23',
+    image: `${BASE_URL}/images/drummers/nicko-mcbrain.webp`,
+    articleSection: 'Drummer Gear Breakdown',
+    keywords: ['nicko mcbrain drum kit', 'iron maiden drummer', 'single bass drum metal'],
+  },
+  'whats-in-nicko-mcbrains-kit': {
+    headline: "What's In Nicko McBrain's Iron Maiden Arsenal",
+    description: "Complete breakdown of Nicko McBrain's drum kit setup. Discover the gear that powers Iron Maiden's legendary galloping rhythms — achieved entirely with a single bass drum pedal.",
+    author: 'MetalForge Editorial',
+    datePublished: '2026-03-23',
+    dateModified: '2026-03-23',
+    image: `${BASE_URL}/images/drummers/nicko-mcbrain.webp`,
+    articleSection: 'Drummer Gear Breakdown',
+    keywords: ['nicko mcbrain drum kit', 'iron maiden drummer', 'single bass drum metal'],
+  },
+  'jay-weinberg-kit': {
+    headline: "What's In Jay Weinberg's Slipknot Kit",
+    description: "Complete breakdown of Jay Weinberg's drum setup with Slipknot. Discover the gear the former Slipknot drummer uses for their intense live performances.",
+    author: 'MetalForge Editorial',
+    datePublished: '2026-03-23',
+    dateModified: '2026-03-23',
+    image: `${BASE_URL}/images/drummers/jay-weinberg.webp`,
+    articleSection: 'Drummer Gear Breakdown',
+    keywords: ['jay weinberg drum kit', 'slipknot drummer gear', 'nu metal drums'],
+  },
+};
 
 // Helper: Get drummer by slug
 function getDrummerBySlug(slug) {
@@ -192,6 +278,54 @@ function getMetaForPath(pathname) {
     };
   }
 
+  // Articles pages (Issue #777: Add Article schema to content articles)
+  const articlesMatch = path.match(/^\/articles\/([a-z0-9-]+)$/);
+  if (articlesMatch) {
+    const [, articleSlug] = articlesMatch;
+    const articleMeta = ARTICLE_METADATA[articleSlug];
+    
+    if (articleMeta) {
+      return {
+        title: `${articleMeta.headline} | ${SITE_NAME}`,
+        description: articleMeta.description,
+        image: articleMeta.image || DEFAULT_IMAGE,
+        type: 'article',
+        url: `${BASE_URL}/articles/${articleSlug}`,
+        // Article schema data for JSON-LD
+        articleSchema: {
+          headline: articleMeta.headline,
+          description: articleMeta.description,
+          author: articleMeta.author,
+          datePublished: articleMeta.datePublished,
+          dateModified: articleMeta.dateModified,
+          image: articleMeta.image,
+          articleSection: articleMeta.articleSection,
+          keywords: articleMeta.keywords,
+        },
+      };
+    }
+    
+    // Fallback for unknown articles
+    return {
+      title: `Drum Gear Article | ${SITE_NAME}`,
+      description: 'Explore detailed drum gear breakdowns, album recording techniques, and drummer equipment analysis.',
+      image: DEFAULT_IMAGE,
+      type: 'article',
+      url: `${BASE_URL}/articles/${articleSlug}`,
+    };
+  }
+
+  // Articles hub
+  if (path === '/articles') {
+    return {
+      title: `Drum Gear Articles & Guides | ${SITE_NAME}`,
+      description: 'In-depth articles about metal drummer gear, album recording setups, and equipment breakdowns.',
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url: `${BASE_URL}/articles`,
+    };
+  }
+
   // Drummer profiles (root slug)
   const drummerMatch = path.match(/^\/([a-z0-9-]+)$/);
   if (drummerMatch) {
@@ -225,8 +359,64 @@ function getMetaForPath(pathname) {
   };
 }
 
+// Generate Article schema JSON-LD (Issue #777)
+function generateArticleSchema(meta) {
+  if (!meta.articleSchema) return '';
+  
+  const schema = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: meta.articleSchema.headline,
+    description: meta.articleSchema.description,
+    image: [meta.articleSchema.image],
+    author: {
+      '@type': 'Organization',
+      name: meta.articleSchema.author || 'MetalForge',
+      url: BASE_URL,
+      logo: {
+        '@type': 'ImageObject',
+        url: `${BASE_URL}/logo.png`,
+        width: 512,
+        height: 512,
+      },
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'MetalForge',
+      url: BASE_URL,
+      logo: {
+        '@type': 'ImageObject',
+        url: `${BASE_URL}/logo.png`,
+        width: 512,
+        height: 512,
+      },
+    },
+    datePublished: meta.articleSchema.datePublished,
+    dateModified: meta.articleSchema.dateModified || meta.articleSchema.datePublished,
+    mainEntityOfPage: {
+      '@type': 'WebPage',
+      '@id': meta.url,
+    },
+    articleSection: meta.articleSchema.articleSection || 'Drummer Gear',
+    inLanguage: 'en-US',
+  };
+  
+  // Add keywords if available
+  if (meta.articleSchema.keywords && meta.articleSchema.keywords.length > 0) {
+    schema.keywords = meta.articleSchema.keywords.join(', ');
+  }
+  
+  return `
+  <!-- Article Structured Data (Issue #777) -->
+  <script type="application/ld+json">
+${JSON.stringify(schema, null, 2)}
+  </script>`;
+}
+
 // Generate HTML with meta tags
 function generateMetaHtml(meta, originalUrl) {
+  const articleSchemaScript = generateArticleSchema(meta);
+  
   return `<!DOCTYPE html>
 <html lang="en" prefix="og: https://ogp.me/ns#">
 <head>
@@ -248,7 +438,14 @@ function generateMetaHtml(meta, originalUrl) {
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
   <meta property="og:image:alt" content="${meta.title}">
-  
+  ${meta.type === 'article' ? `
+  <!-- Article-specific Open Graph -->
+  <meta property="article:author" content="MetalForge">
+  <meta property="article:publisher" content="${BASE_URL}">
+  ${meta.articleSchema?.datePublished ? `<meta property="article:published_time" content="${meta.articleSchema.datePublished}">` : ''}
+  ${meta.articleSchema?.dateModified ? `<meta property="article:modified_time" content="${meta.articleSchema.dateModified}">` : ''}
+  ${meta.articleSchema?.articleSection ? `<meta property="article:section" content="${meta.articleSchema.articleSection}">` : ''}
+  ` : ''}
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="${TWITTER_HANDLE}">
@@ -266,7 +463,7 @@ function generateMetaHtml(meta, originalUrl) {
   
   <!-- Theme Color -->
   <meta name="theme-color" content="#dc2626">
-  
+  ${articleSchemaScript}
   <!-- Redirect browsers to actual SPA -->
   <noscript>
     <meta http-equiv="refresh" content="0; url=${originalUrl}">

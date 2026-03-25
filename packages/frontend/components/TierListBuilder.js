@@ -29,6 +29,7 @@ import { Image } from 'expo-image';
 import { colors } from '../colors';
 import { fontSize, fontWeight, lineHeight } from '../typography';
 import { spacing } from '../spacing';
+import { injectWebApplicationSchema, TOOL_SCHEMAS } from '../utils/webApplicationSchema';
 
 // ==========================================
 // TIER CONFIGURATION
@@ -125,6 +126,12 @@ export const updateTierListMeta = (category = 'custom') => {
     if (meta) {
       meta.setAttribute('content', content);
     }
+  });
+  
+  // Inject WebApplication schema for SEO (Issue #778)
+  injectWebApplicationSchema({
+    ...TOOL_SCHEMAS.tierList,
+    description: description, // Use dynamic description based on category
   });
 };
 

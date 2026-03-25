@@ -2978,7 +2978,7 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
   );
 }
 
-const PLACEHOLDER_IMAGE = 'https://ui-avatars.com/api/?name=Drummer&background=1a1a2e&color=fff&size=200';
+const PLACEHOLDER_IMAGE = 'https://ui-avatars.com/api/?name=MF&background=1a1a2e&color=e63946&size=200&bold=true';
 
 // Genre color mapping for consistent UI (using centralized color tokens)
 const GENRE_COLORS = {

@@ -135,6 +135,14 @@
       "growth": 0,
       "posts": 91,
       "notes": "Evening run (17h/20h slot): ❌ Browser automation STILL broken after config.patch attempt. Same timeout pattern (browser starts ✅, snapshot/act timeout ❌). 7th consecutive run with failures (Mar 16, 20, 21, 24, 25 morning, 25 afternoon, 25 evening). 3 quality posts ready in pending-posts.md (Tomas Haake DYK, Dave Lombardo gear spotlight, Lombardo vs Hoglan comparison). Wednesday = Comparison post day per strategy. Comparison post created for engagement/debate. Manual posting required. CRITICAL: Automation blocker now 10 days old (since Mar 16). Content pipeline maintained despite technical issues."
+    },
+    {
+      "date": "2026-03-25",
+      "time": "20:00",
+      "followers": 6,
+      "growth": 0,
+      "posts": 91,
+      "notes": "Evening run (20h slot): ❌ Browser automation STILL FAILING - 8th consecutive failure. Browser opens ✅, snapshot/act timeout after 20s ❌. Same issue persists despite config.patch attempt (11h). 3 quality posts ready: Tomas Haake DYK, Dave Lombardo gear spotlight, Lombardo vs Hoglan comparison (RECOMMENDED for Wed evening). Wednesday = Comparison day per strategy. Cannot check notifications, post, or engage. CRITICAL: 10 days blocked (Mar 16-25). Manual posting required. Evening slot = heavy engagement window (3-5 replies) - completely missed due to automation failure."
     }
   ],
   "topPosts": [],

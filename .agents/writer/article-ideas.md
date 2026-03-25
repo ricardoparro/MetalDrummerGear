@@ -278,6 +278,7 @@
 | 2026-03-24 | What's In Mike Mangini's Dream Theater Arsenal | /articles/whats-in-mike-manginis-kit | - |
 | 2026-03-24 | Cowboys from Hell Drum Setup: Vinnie Paul | /articles/cowboys-from-hell-drum-setup | - |
 | 2026-03-25 | Roots Drum Setup: Igor Cavalera | /articles/roots-drum-setup | - |
+| 2026-03-25 | The Way of All Flesh Drum Setup: Mario Duplantier | /articles/the-way-of-all-flesh-drum-setup | - |
 
 ---
 
@@ -929,7 +930,7 @@
 
 ---
 
-### 💡 [IDEA-048] The Way of All Flesh Drum Setup: Mario Duplantier
+### ✅ [IDEA-048] The Way of All Flesh Drum Setup: Mario Duplantier
 
 **Type:** album-breakdown
 **SEO Keywords:** way of all flesh drums, mario duplantier 2008, gojira drums, art of dying drums
@@ -945,7 +946,7 @@
 5. Recording with Joe Duplantier (brother dynamics)
 6. Evolution from From Mars to Sirius
 
-**Status:** IDEA (added 2026-03-25)
+**Status:** PUBLISHED (2026-03-25) — /articles/the-way-of-all-flesh-drum-setup
 
 ---
 
@@ -985,4 +986,4 @@
 
 ---
 
-*Last updated: 2026-03-25 09:06*
+*Last updated: 2026-03-25 13:05*

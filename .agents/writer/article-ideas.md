@@ -277,6 +277,7 @@
 | 2026-03-24 | What's In Jay Weinberg's Slipknot Kit | /articles/whats-in-jay-weinbergs-kit | - |
 | 2026-03-24 | What's In Mike Mangini's Dream Theater Arsenal | /articles/whats-in-mike-manginis-kit | - |
 | 2026-03-24 | Cowboys from Hell Drum Setup: Vinnie Paul | /articles/cowboys-from-hell-drum-setup | - |
+| 2026-03-25 | Roots Drum Setup: Igor Cavalera | /articles/roots-drum-setup | - |
 
 ---
 
@@ -360,23 +361,15 @@
 
 ---
 
-### 💡 [IDEA-018] Roots Drum Setup: Igor Cavalera's Brazilian Tribal Metal
+### ✅ [IDEA-018] Roots Drum Setup: Igor Cavalera's Brazilian Tribal Metal
 
 **Type:** album-breakdown
 **SEO Keywords:** roots album drums, igor cavalera drum setup, sepultura roots gear, tribal metal drums
 **Search Volume:** High
-**Data Available:** Partial (drummerId: 21)
+**Data Available:** Yes (drummerId: 21)
 **Priority:** 4
 
-**Outline:**
-1. Introduction — When Thrash Met Tribal
-2. Studio Setup at Chepultepec Studios
-3. Tribal Percussion Integration
-4. "Roots Bloody Roots" Breakdown
-5. Gear Breakdown (drums, cymbals, percussion)
-6. The Drum Jams with Brazilian Musicians
-
-**Status:** IDEA
+**Status:** PUBLISHED (2026-03-25) — /articles/roots-drum-setup
 
 ---
 
@@ -916,6 +909,66 @@
 
 ---
 
+### 💡 [IDEA-047] What's In Alex Bent's Trivium Arsenal
+
+**Type:** drummer-kit
+**SEO Keywords:** alex bent drum kit, trivium drummer, alex bent setup, modern metal drums
+**Search Volume:** HIGH (Trivium very active, Alex hugely popular!)
+**Data Available:** Partial (needs research)
+**Priority:** 4
+
+**Outline:**
+1. Introduction — The Modern Metal Virtuoso
+2. Current Pearl Reference Setup
+3. Signature Techniques (technical thrash + prog)
+4. Evolution Through Trivium's Recent Albums
+5. His Approach to Matt Heafy's Complex Compositions
+6. Where to Buy Similar Gear
+
+**Status:** IDEA (added 2026-03-25)
+
+---
+
+### 💡 [IDEA-048] The Way of All Flesh Drum Setup: Mario Duplantier
+
+**Type:** album-breakdown
+**SEO Keywords:** way of all flesh drums, mario duplantier 2008, gojira drums, art of dying drums
+**Search Volume:** High (Gojira's breakout international album)
+**Data Available:** Yes (drummerId: 15)
+**Priority:** 4
+
+**Outline:**
+1. Introduction — The Album That Made Gojira Global
+2. Studio Setup at Studio Château de Beaulieu
+3. "The Art of Dying" Breakdown (epic drum work)
+4. Progressive Techniques and Odd Time Signatures
+5. Recording with Joe Duplantier (brother dynamics)
+6. Evolution from From Mars to Sirius
+
+**Status:** IDEA (added 2026-03-25)
+
+---
+
+### 💡 [IDEA-049] None So Vile Drum Setup: Flo Mounier's Technical Masterpiece
+
+**Type:** album-breakdown
+**SEO Keywords:** none so vile drums, flo mounier 1996, cryptopsy drum setup, technical death metal drums
+**Search Volume:** Medium-High (legendary tech death album)
+**Data Available:** Yes (already wrote Flo's kit article)
+**Priority:** 4
+
+**Outline:**
+1. Introduction — The Most Technical Death Metal Album of 1996
+2. Studio Setup at Victor Studio, Montreal
+3. "Phobophile" Breakdown (impossible drum part)
+4. Blast Beat Mastery and Gravity Blasts
+5. How Flo's Technique Changed Death Metal
+6. Gear Breakdown (drums, cymbals, pedals)
+
+**Status:** IDEA (added 2026-03-25)
+
+---
+
 ## 💡 Idea Backlog (Lower Priority)
 
 - Best Sticks for Blast Beats
@@ -932,4 +985,4 @@
 
 ---
 
-*Last updated: 2026-03-24 17:05*
+*Last updated: 2026-03-25 09:06*

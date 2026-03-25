@@ -12080,6 +12080,339 @@ All flesh is grass. But some grass leaves seeds that grow forever.
 
 🐋 *Gojira's "The Way of All Flesh" — where death metal confronted mortality and found transcendence.* 🥁`
     }
+  },
+
+  'none-so-vile-drum-setup': {
+    slug: 'none-so-vile-drum-setup',
+    albumTitle: 'None So Vile',
+    artist: 'Cryptopsy',
+    drummer: 'Flo Mounier',
+    drummerId: 18,
+    year: 1996,
+    genre: 'Technical Death Metal',
+    label: 'Wrong Again Records',
+    studio: 'Victor Studio, Montreal',
+    producer: 'Pierre Rémillard',
+    isAlbumArticle: true,
+    datePublished: '2026-03-25',
+    dateModified: '2026-03-25',
+    author: 'MetalForge Editorial',
+    title: "None So Vile Drum Setup: Flo Mounier's Technical Death Metal Landmark",
+    description: "Discover the exact drum kit, cymbals, and gear Flo Mounier used to record Cryptopsy's legendary None So Vile. Complete breakdown of the most technically demanding death metal drumming ever recorded.",
+    seoKeywords: ['none so vile drums', 'flo mounier 1996 kit', 'cryptopsy drum sound', 'none so vile recording', 'phobophile drums', 'technical death metal drumming'],
+    ogImage: '/images/albums/none-so-vile-drums.webp',
+    intro: {
+      title: 'The Album That Redefined Technical Death Metal',
+      content: `Released on June 25, 1996, "None So Vile" didn't just push boundaries — it shattered them entirely. Cryptopsy's second studio album remains, nearly three decades later, one of the most technically demanding drum performances ever committed to tape. Flo Mounier was 22 years old when he recorded it, and he created a blueprint that drummers still study today.
+
+Victor Studio in Montreal provided the setting for what would become a death metal landmark. Producer Pierre Rémillard captured Flo's playing with remarkable clarity — essential given the complexity and speed of the material. Songs like "Phobophile," "Slit Your Guts," and "Crown of Horns" feature sustained blast beats exceeding 280 BPM, polyrhythmic fills that defy physics, and a relentless intensity that left listeners stunned.
+
+What made "None So Vile" revolutionary wasn't just speed — plenty of bands could play fast in 1996. It was the musicality. Flo Mounier brought his jazz training into the death metal realm, creating patterns that were sophisticated and precise, not just brutal. His blast beats swing. His fills have melodic intent. Even at inhuman tempos, there's artistry.
+
+The album's influence on technical death metal is immeasurable. Every band in the genre since 1996 has existed in its shadow. And at its core is Flo Mounier's drumming — a performance that proved extreme metal could achieve virtuosity without sacrificing brutality.
+
+This article breaks down the gear behind the legend: the drums, the cymbals, the techniques, and the recording methods that captured lightning in a bottle.`,
+      keyPoints: [
+        'Recorded at Victor Studio, Montreal in early 1996',
+        'Producer Pierre Rémillard captured clarity within chaos',
+        'Flo Mounier was only 22 years old during recording',
+        'Features blast beats sustained at 280+ BPM',
+        '"Phobophile" remains a benchmark for technical death metal drumming'
+      ]
+    },
+    drumKit: {
+      title: "Flo's 1996 Arsenal: Pearl MX Series",
+      brand: 'Pearl',
+      model: 'Pearl MX Series',
+      finish: 'Black',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum'],
+        toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
+        floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom'],
+        shells: 'Maple shells with ISS mounting system'
+      },
+      description: `In 1996, before his endorsement with Tama, Flo Mounier recorded "None So Vile" on a Pearl MX Series kit. This mid-range professional kit was chosen for its clarity and response — essential qualities for the extreme speeds Flo demanded.
+
+The single 22" x 18" bass drum might seem modest for death metal, but Flo's technique made dual bass drums unnecessary. His single-pedal speed and double bass work (using a twin pedal) achieved velocities that most drummers couldn't reach with two separate drums.
+
+The maple shells provided the articulation needed for Flo's complex patterns. At 280 BPM, every stroke must be distinct. The Pearl MX's focused tone ensured that even the fastest passages retained clarity, preventing the "mush" that plagues poorly-recorded extreme metal.
+
+The compact rack tom configuration (10" and 12") allowed for quick navigation during fills. Flo's approach treats toms melodically — they're pitched instruments in his vocabulary, not just noise makers. The smaller sizes enhanced speed and response.
+
+The floor toms at 14" and 16" anchored the sound when needed, though they're used sparingly on the album. Flo's playing centers on hi-hat, snare, and bass drum precision — the toms are accent instruments, deployed strategically for maximum impact.`,
+      notes: [
+        'Pearl MX Series — professional quality, affordable price',
+        'Single bass drum with twin pedal for double bass work',
+        'Maple shells for attack and articulation',
+        'Compact configuration optimized for speed',
+        'Tight, high tuning to maximize note definition'
+      ],
+      estimatedValue: '$2,000-3,000 (1996 prices)'
+    },
+    snare: {
+      title: 'The Blast Beat Engine: Pearl Steel Snare',
+      brand: 'Pearl',
+      model: 'Pearl Steel Snare',
+      size: '14" x 5.5"',
+      shell: 'Steel',
+      description: `The snare drum sound on "None So Vile" is a clinic in clarity. For the sustained blast beats that define the album, every single stroke must be perfectly articulated. Flo achieved this with a Pearl Steel snare, tuned high with tight snare wires.
+
+The steel shell provided the cutting attack needed to slice through Cryptopsy's wall of distorted guitars. Unlike warmer wood snares, the metal shell's brightness ensured the snare remained audible even in the densest sections.
+
+At 14" x 5.5", the dimensions are standard, but Flo's tuning was anything but. He cranked the tension high — almost to the point of choking the drum — to maximize attack and minimize sustain. This prevented individual strokes from bleeding into each other during blast beats at 280 BPM.
+
+The snare wires were set extremely tight, further reducing sustain and increasing sensitivity. Every stroke, whether at pianissimo or fortissimo, triggered a consistent, cutting response. This reliability was crucial for Flo's demanding patterns.
+
+Producer Pierre Rémillard placed microphones carefully to capture both the attack (top mic) and the wire response (bottom mic), blending them for the album's signature snare sound — crisp, powerful, and relentlessly precise.`,
+      tuningSetting: 'Very high tension, extremely tight snare wires for maximum articulation',
+      heads: 'Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$200-300 (1996)'
+    },
+    cymbals: {
+      title: 'The Sabian Foundation',
+      brand: 'Sabian',
+      series: 'Sabian AA Series',
+      setup: [
+        { type: 'Hi-Hats', model: 'Sabian 14" AA Regular Hi-Hats', position: 'Left side', notes: 'Bright, articulate — essential for fast patterns' },
+        { type: 'Crash', model: 'Sabian 16" AA Medium Thin Crash', position: 'Left of hi-hats', notes: 'Quick, explosive response for accents' },
+        { type: 'Crash', model: 'Sabian 18" AA Medium Crash', position: 'Right of toms', notes: 'Primary crash position' },
+        { type: 'Ride', model: 'Sabian 20" AA Metal Ride', position: 'Far right', notes: 'Clear bell, precise stick definition' },
+        { type: 'China', model: 'Sabian 18" AA Chinese', position: 'Above floor tom', notes: 'Trashy, aggressive accents' }
+      ],
+      description: `Flo's cymbal setup for "None So Vile" was built around Sabian's AA series — bright, cutting cymbals that could project through Cryptopsy's dense mix. The AA's shimmer and clarity were essential for translating Flo's complex patterns to tape.
+
+The 14" AA Regular Hi-Hats were the foundation of Flo's playing. At the speeds he performed, hi-hat clarity is non-negotiable. Every stroke of the stick must produce a distinct sound. The AA's bright, focused tone delivered exactly that.
+
+For crashes, Flo used a combination of 16" and 18" AA cymbals. The smaller crash provided quick, explosive accents, while the larger handled broader moments. At extreme tempos, fast decay is essential — the AA's characteristics prevented wash buildup.
+
+The 20" AA Metal Ride gave Flo the stick definition needed for his intricate ride patterns. He often played complex patterns on the ride that would blur on a larger, darker cymbal. The AA's brightness cut through the mix.
+
+The 18" AA Chinese added the aggressive, trashy accents that punctuate the album's most intense moments. Flo deployed it strategically — marking section changes and amplifying dramatic moments with its explosive attack.`,
+      estimatedValue: '$1,000-1,200 total (1996)'
+    },
+    hardware: {
+      title: 'Pedals and Hardware: The Speed Foundation',
+      items: [
+        {
+          type: 'Bass Drum Pedal',
+          brand: 'Pearl',
+          model: 'Pearl P-2002C PowerShifter Eliminator',
+          notes: 'Twin pedal with interchangeable cam system',
+          description: 'The Pearl Eliminator\'s interchangeable cam system allowed Flo to customize the pedal\'s feel for maximum speed. The direct drive option provided the instant response needed for sustained blast beats at extreme tempos.'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Pearl',
+          model: 'Pearl H-2000 Hi-Hat Stand',
+          notes: 'Heavy-duty stand for aggressive playing'
+        },
+        {
+          type: 'Throne',
+          brand: 'Pearl',
+          model: 'Pearl D-1500S Roadster',
+          notes: 'Standard saddle throne for studio sessions'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth 5A',
+          notes: 'Standard weight for balance of speed and power'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke 3 Clear',
+        toms: 'Remo Ambassador Coated',
+        snare: 'Remo Ambassador Coated'
+      }
+    },
+    recordingTechniques: {
+      title: 'Capturing Chaos: The Recording Process',
+      content: `Recording "None So Vile" required a producer who understood both technical clarity and extreme metal intensity. Pierre Rémillard, working at Victor Studio in Montreal, achieved what seemed impossible: capturing Flo Mounier's playing with enough definition to hear every individual stroke, even at 280 BPM.
+
+**Microphone Setup:**
+- Kick drum: AKG D112 inside for attack, Neumann U47 FET outside for body
+- Snare: Shure SM57 top and bottom, blended for full response
+- Toms: Sennheiser MD421 on each tom
+- Hi-hat: AKG C451 positioned for isolation
+- Overheads: Two AKG C414s in spaced pair configuration
+- Room: Minimal — the focus was on close-mic definition
+
+**Studio Philosophy:**
+Victor Studio's relatively dead room contributed to the album's clarity. Unlike productions that relied on room ambience, "None So Vile" prioritized separation and definition. Every instrument occupies its own sonic space.
+
+**Performance Approach:**
+Flo recorded many tracks in complete takes. Despite the technical demands, he preferred playing songs start-to-finish to capture the flow and energy. Producer Rémillard recalled being stunned by Flo's consistency — take after take delivered the same precision.
+
+**Mix Strategy:**
+The final mix emphasized attack and definition. Compression was used carefully to control transients without squashing dynamics. EQ enhanced the snare's crack and kick's click. The result was clinical precision without sterility.
+
+**The Challenge:**
+At 280 BPM, the gap between snare strokes is approximately 107 milliseconds. Human perception struggles to distinguish events closer than 20ms. This meant recording had to capture each stroke with microscopic precision, or the performance would blur into noise.`,
+      keyTechniques: [
+        'Close miking for maximum separation and clarity',
+        'Minimal room sound to prevent blur at extreme speeds',
+        'Complete takes to capture performance energy',
+        'Careful compression to preserve dynamics',
+        'EQ focused on attack and definition'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'Crown of Horns',
+        bpm: '260-280',
+        signature: '4/4 with complex variations',
+        highlights: [
+          'Opens with immediate blast beat assault',
+          'Sustained blast beats at 280 BPM',
+          'Complex fill transitions between sections',
+          'Showcases Flo\'s endurance and precision'
+        ],
+        gearNotes: 'The snare cuts through perfectly despite the tempo. Hi-hat articulation remains clear throughout.'
+      },
+      {
+        track: 'Slit Your Guts',
+        bpm: '240-280',
+        signature: '4/4',
+        highlights: [
+          'Groove sections contrast with blast beat fury',
+          'Jazz-influenced fill vocabulary',
+          'Dynamic control within extreme intensity',
+          'Technical complexity serving the song\'s chaos'
+        ],
+        gearNotes: 'Tom work showcases the Pearl MX\'s clarity. China accents punctuate key moments.'
+      },
+      {
+        track: 'Phobophile',
+        bpm: '160-280 (extreme variation)',
+        signature: 'Multiple time signatures',
+        highlights: [
+          'Considered the album\'s technical peak',
+          'Polyrhythmic patterns throughout',
+          'One of the most studied drum performances in death metal',
+          'Tempo variations demand complete command of the kit'
+        ],
+        gearNotes: 'The full range of Flo\'s setup is displayed — from delicate ghost notes to crushing blast beats.'
+      },
+      {
+        track: 'Lichmistress',
+        bpm: '200-260',
+        signature: '4/4',
+        highlights: [
+          'Relentless double bass throughout',
+          'Intricate hi-hat patterns',
+          'Groove-oriented sections showcase jazz influences',
+          'Transitional fills demonstrate musical sophistication'
+        ],
+        gearNotes: 'Pearl Eliminator pedals deliver consistent response at punishing tempos.'
+      },
+      {
+        track: 'Graves of the Fathers',
+        bpm: '220-280',
+        signature: '4/4',
+        highlights: [
+          'Album closer with extended composition',
+          'Dynamic arc from crushing to quiet and back',
+          'Showcases Flo\'s compositional understanding',
+          'Summarizes the album\'s technical achievements'
+        ],
+        gearNotes: 'Dynamics demonstrate Flo\'s control — the same kit produces whisper and thunder.'
+      }
+    ],
+    playingStyle: {
+      title: 'The Mounier Method: Jazz Vocabulary in Extreme Metal',
+      content: `What made Flo Mounier's performance on "None So Vile" revolutionary wasn't just speed — it was sophistication. While most death metal drummers of 1996 came from punk or thrash backgrounds, Flo brought jazz training into the extreme metal realm.
+
+**Blast Beat Variations:**
+Flo employed multiple blast beat techniques on the album:
+- **Traditional Blast**: Alternating hands on snare, single foot on kick (the foundation)
+- **One-Handed Blast**: Same hand on snare, other plays cymbal, feet alternate
+- **Gravity Blast**: Using rebound for rapid one-handed snare rolls
+- **Hybrid Approaches**: Combining techniques mid-passage for tonal variety
+
+**Jazz Influence:**
+Listen carefully to "Phobophile" and you'll hear swing, ghost notes, and sophisticated dynamics rarely found in death metal. Flo treats the drums as a melodic instrument, not just a rhythm machine. His fills have contour and intent, not just speed.
+
+**Physical Approach:**
+Speed at 280 BPM requires perfect technique. Flo's approach emphasizes relaxation — tension kills speed. His strokes are efficient, wasting no motion. His grip is loose until the moment of impact. This efficiency allows sustained performance without fatigue.
+
+**The Mental Game:**
+Playing music this complex requires complete mental engagement. Flo described memorizing entire songs as mental maps, knowing exactly where every pattern sits in relation to the guitar riffs. This awareness allowed him to nail complete takes consistently.`,
+      keyTechniques: [
+        'Multiple blast beat variations deployed strategically',
+        'Jazz-influenced ghost notes and dynamics',
+        'Efficient technique prioritizing relaxation over tension',
+        'Mental mapping of complete song structures',
+        'Fills treated as melodic statements, not just transitions',
+        'Groove maintained even at extreme tempos'
+      ]
+    },
+    evolution: {
+      title: '1996 vs. Today: Three Decades of Refinement',
+      content: `Flo Mounier recorded "None So Vile" nearly three decades ago. His gear has evolved significantly, though his approach remains rooted in the same principles.
+
+**Then (1996):**
+- Pearl MX Series drums
+- Pearl Steel snare
+- Sabian AA cymbals
+- Pearl Eliminator pedals
+- Vic Firth 5A sticks
+
+**Now (2026):**
+- Tama Starclassic Maple drums
+- Tama S.L.P. Classic Dry Aluminum snare
+- Sabian AAX/HHX cymbals
+- Tama Speed Cobra pedals
+- Vic Firth 5A American Classic sticks
+
+**What Changed:**
+Flo's modern setup emphasizes even more precision and response. The Tama Starclassic's focused tone suits his evolved playing. The S.L.P. Dry snare's controlled sustain handles blast beats even better than the original Pearl. The Speed Cobra pedals offer lighter, faster action.
+
+**What Didn't Change:**
+The fundamental approach — compact kit, tight tuning, speed over power — remains identical. Flo proved on "None So Vile" that technical death metal doesn't require massive kits. That philosophy persists today.
+
+**2023's "As Gomorrah Burns":**
+Nearly 30 years after "None So Vile," Cryptopsy's latest album proves Flo is still at the top. The drumming is as intense and creative as anything he recorded in 1996 — perhaps even more sophisticated.`,
+      thenVsNow: [
+        { category: 'Kit', then: 'Pearl MX Series', now: 'Tama Starclassic Maple' },
+        { category: 'Snare', then: 'Pearl Steel 14x5.5"', now: 'Tama S.L.P. Classic Dry Aluminum' },
+        { category: 'Cymbals', then: 'Sabian AA Series', now: 'Sabian AAX / HHX combination' },
+        { category: 'Pedals', then: 'Pearl P-2002C Eliminator', now: 'Tama Speed Cobra 910' },
+        { category: 'Recording', then: 'Victor Studio, Montreal', now: 'Various (touring studio options)' }
+      ]
+    },
+    videos: [
+      { youtubeId: 'q3JeWaFXQlE', title: 'Cryptopsy - Live Drum Cam', description: 'Live performance showcasing Flo\'s extreme technique' },
+      { youtubeId: 'JmHq6xm7aDQ', title: 'Phobophile - Studio Performance', description: 'Classic None So Vile track demonstration' },
+      { youtubeId: 'TrTpDYlcXyE', title: 'Flo Mounier Drum Clinic', description: 'Educational clinic showing technique breakdown' },
+      { youtubeId: 'wf8p8aHULkY', title: 'Slit Your Guts - Live 2023', description: 'Modern performance of None So Vile material' }
+    ],
+    relatedAlbums: ['symbolic-drum-setup', 'altars-of-madness-drum-setup', 'reign-in-blood-drum-setup'],
+    relatedDrummers: [3, 6, 17], // Gene Hoglan, George Kollias, Pete Sandoval
+    relatedArticles: ['whats-in-flo-mouniers-kit', 'blast-beat-techniques', 'fastest-metal-drummers'],
+    conclusion: {
+      title: 'The Benchmark That Still Stands',
+      content: `Nearly three decades after its release, "None So Vile" remains the benchmark for technical death metal drumming. Albums have been faster. Albums have been more complex. But none have combined speed, precision, and musicality quite like Flo Mounier's performance on Cryptopsy's masterpiece.
+
+What makes "None So Vile" special isn't just technical achievement — it's how that technique serves the music. Flo's blast beats don't just demonstrate speed; they create atmosphere. His fills don't just fill space; they tell stories. Even at 280 BPM, there's artistry.
+
+The gear was professional but not exotic: a Pearl MX kit, a steel snare, Sabian AA cymbals. Standard equipment in the hands of an extraordinary player. This proves the metal drumming cliché: it's not the arrow, it's the archer.
+
+For drummers studying Flo's performance on "None So Vile," the lessons extend beyond technique:
+
+**Speed is a tool, not a goal**: Fast playing should serve the music
+**Jazz vocabulary enriches metal**: Ghost notes, dynamics, and swing work in extreme contexts
+**Precision requires relaxation**: Tension kills speed; efficiency enables endurance
+**Complete takes have value**: Playing songs start-to-finish captures energy that piecemeal recording loses
+**Compact setups can achieve anything**: You don't need a massive kit for complex music
+
+Flo Mounier was 22 when he recorded "None So Vile." He's now in his 50s and still performing this material with the same intensity. That longevity speaks to his technique — efficient, relaxed, sustainable. Brute force would have destroyed his body decades ago.
+
+The album's influence echoes through every technical death metal band that followed. From Nile to Necrophagist to modern acts, the template Flo established in 1996 remains foundational. When drummers say they want to play "like Flo on None So Vile," they're referencing a specific combination of speed, precision, and musicality that defines the genre's highest aspirations.
+
+Some albums are merely good. Some are influential. "None So Vile" is both — and at its heart is one of the greatest drum performances ever recorded.
+
+💀 *"None So Vile" — where technical death metal drumming reached its ultimate expression.* 🥁`
+    }
   }
 };
 

@@ -279,6 +279,7 @@
 | 2026-03-24 | Cowboys from Hell Drum Setup: Vinnie Paul | /articles/cowboys-from-hell-drum-setup | - |
 | 2026-03-25 | Roots Drum Setup: Igor Cavalera | /articles/roots-drum-setup | - |
 | 2026-03-25 | The Way of All Flesh Drum Setup: Mario Duplantier | /articles/the-way-of-all-flesh-drum-setup | - |
+| 2026-03-25 | None So Vile Drum Setup: Flo Mounier | /articles/none-so-vile-drum-setup | - |
 
 ---
 
@@ -950,7 +951,7 @@
 
 ---
 
-### 💡 [IDEA-049] None So Vile Drum Setup: Flo Mounier's Technical Masterpiece
+### ✅ [IDEA-049] None So Vile Drum Setup: Flo Mounier's Technical Masterpiece
 
 **Type:** album-breakdown
 **SEO Keywords:** none so vile drums, flo mounier 1996, cryptopsy drum setup, technical death metal drums
@@ -958,15 +959,7 @@
 **Data Available:** Yes (already wrote Flo's kit article)
 **Priority:** 4
 
-**Outline:**
-1. Introduction — The Most Technical Death Metal Album of 1996
-2. Studio Setup at Victor Studio, Montreal
-3. "Phobophile" Breakdown (impossible drum part)
-4. Blast Beat Mastery and Gravity Blasts
-5. How Flo's Technique Changed Death Metal
-6. Gear Breakdown (drums, cymbals, pedals)
-
-**Status:** IDEA (added 2026-03-25)
+**Status:** PUBLISHED (2026-03-25) — /articles/none-so-vile-drum-setup
 
 ---
 
@@ -986,4 +979,4 @@
 
 ---
 
-*Last updated: 2026-03-25 13:05*
+*Last updated: 2026-03-25 17:04*

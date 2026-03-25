@@ -40,6 +40,7 @@ import {
 import { colors } from '../colors';
 import { fontSize, fontWeight, lineHeight } from '../typography';
 import { spacing } from '../spacing';
+import { injectWebApplicationSchema, TOOL_SCHEMAS } from '../utils/webApplicationSchema';
 
 // ==========================================
 // URL Detection Helpers
@@ -206,6 +207,66 @@ export function updateLicksHubMeta(drummerName, drummerSlug, licks) {
   schemaScript.type = 'application/ld+json';
   schemaScript.textContent = JSON.stringify(schema);
   document.head.appendChild(schemaScript);
+  
+  // Inject WebApplication schema for SEO (Issue #778)
+  injectWebApplicationSchema({
+    ...TOOL_SCHEMAS.signatureLicks,
+    description: description, // Use dynamic description
+  });
+}
+
+/**
+ * Update meta tags for the Signature Licks Discovery Engine page
+ * URL: /tools/signature-licks
+ */
+export function updateSignatureLicksDiscoveryMeta(lickCount) {
+  if (Platform.OS !== 'web' || typeof document === 'undefined') return;
+
+  const setMeta = (name, content, isProperty = false) => {
+    const attr = isProperty ? 'property' : 'name';
+    let tag = document.querySelector(`meta[${attr}="${name}"]`);
+    if (!tag) {
+      tag = document.createElement('meta');
+      tag.setAttribute(attr, name);
+      document.head.appendChild(tag);
+    }
+    tag.setAttribute('content', content);
+  };
+
+  const title = 'Signature Licks Discovery Engine - Learn Metal Drum Patterns | MetalForge';
+  const description = `Explore ${lickCount || 'iconic'} signature drum fills, beats, and patterns from legendary metal drummers. Video tutorials, technique breakdowns, and practice tips.`;
+  const url = 'https://metalforge.io/tools/signature-licks';
+
+  document.title = title;
+  setMeta('description', description);
+
+  // Open Graph
+  setMeta('og:title', title, true);
+  setMeta('og:description', description, true);
+  setMeta('og:url', url, true);
+  setMeta('og:type', 'website', true);
+  setMeta('og:image', 'https://metalforge.io/images/og/signature-licks.png', true);
+
+  // Twitter
+  setMeta('twitter:card', 'summary_large_image');
+  setMeta('twitter:title', title);
+  setMeta('twitter:description', description);
+  setMeta('twitter:image', 'https://metalforge.io/images/og/signature-licks.png');
+
+  // Canonical URL
+  let canonical = document.querySelector('link[rel="canonical"]');
+  if (!canonical) {
+    canonical = document.createElement('link');
+    canonical.setAttribute('rel', 'canonical');
+    document.head.appendChild(canonical);
+  }
+  canonical.setAttribute('href', url);
+
+  // Inject WebApplication schema for SEO (Issue #778)
+  injectWebApplicationSchema({
+    ...TOOL_SCHEMAS.signatureLicks,
+    description: description,
+  });
 }
 
 // ==========================================
@@ -559,6 +620,9 @@ export function LicksHubPage({ theme, onBack, drummers, drummerSlug, onSelectLic
   useEffect(() => {
     if (drummerSlug) {
       updateLicksHubMeta(drummerName, drummerSlug, allLicks);
+    } else {
+      // Discovery page - show all licks
+      updateSignatureLicksDiscoveryMeta(allLicks.length);
     }
   }, [drummerSlug, drummerName, allLicks]);
 

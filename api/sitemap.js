@@ -3,6 +3,9 @@
 // Issue #339: Added gear category pages for SEO
 // Issue #344: Added drumming technique pages
 // Issue #345: Added gear comparison pages
+// Issue #785: Import albumArticles dynamically from data source
+
+import { ALBUM_ARTICLES } from '../packages/frontend/data/albumArticles.js';
 
 // Issue #623: Content Scale Sprint - All 62 drummers now in sitemap
 const drummers = [
@@ -82,6 +85,10 @@ const albumArticles = [
   { slug: 'whats-in-gene-hoglans-kit', name: "What's In Gene Hoglan's Kit" },
   { slug: 'whats-in-eloy-casagrandes-kit', name: "What's In Eloy Casagrande's Kit" },
   { slug: 'whats-in-mike-portnoys-kit', name: "What's In Mike Portnoy's Reunion Kit" },
+  // Issue #784: Missing album articles
+  { slug: 'roots-drum-setup', name: 'Roots Drum Setup' },
+  { slug: 'the-way-of-all-flesh-drum-setup', name: 'The Way of All Flesh Drum Setup' },
+  { slug: 'none-so-vile-drum-setup', name: 'None So Vile Drum Setup' },
 ];
 
 const bandPages = [

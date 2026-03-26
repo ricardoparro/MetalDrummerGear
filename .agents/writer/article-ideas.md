@@ -281,6 +281,7 @@
 | 2026-03-25 | The Way of All Flesh Drum Setup: Mario Duplantier | /articles/the-way-of-all-flesh-drum-setup | - |
 | 2026-03-25 | None So Vile Drum Setup: Flo Mounier | /articles/none-so-vile-drum-setup | - |
 | 2026-03-26 | What's In Igor Cavalera's Tribal Arsenal | /articles/whats-in-igor-cavaleras-kit | - |
+| 2026-03-26 | Beneath the Remains Drum Setup: Igor Cavalera | /articles/beneath-the-remains-drum-setup | - |
 
 ---
 
@@ -1022,7 +1023,7 @@
 
 ---
 
-### 💡 [IDEA-052] Beneath the Remains Drum Setup: Igor Cavalera's Thrash Masterpiece
+### ✅ [IDEA-052] Beneath the Remains Drum Setup: Igor Cavalera's Thrash Masterpiece
 
 **Type:** album-breakdown
 **SEO Keywords:** beneath the remains drums, igor cavalera 1989, sepultura beneath the remains gear, brazilian thrash drums
@@ -1030,16 +1031,8 @@
 **Data Available:** Yes (can research from bio + era info)
 **Priority:** 4
 
-**Outline:**
-1. Introduction — When Brazil Conquered Thrash
-2. Studio Setup at Morrisound Recording
-3. "Inner Self" and "Stronger Than Hate" Breakdowns
-4. Recording with Scott Burns
-5. Pre-Tribal Pure Thrash Era Gear
-6. How This Album Put South American Metal on the Map
-
-**Status:** IDEA (added 2026-03-26)
+**Status:** PUBLISHED (2026-03-26) — /articles/beneath-the-remains-drum-setup
 
 ---
 
-*Last updated: 2026-03-26 09:03*
+*Last updated: 2026-03-26 13:02*

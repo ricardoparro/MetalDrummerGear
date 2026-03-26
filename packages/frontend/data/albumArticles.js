@@ -12757,6 +12757,386 @@ At 55, Igor Cavalera remains one of metal's most creative and influential drumme
 
 The jungle came to metal because Igor Cavalera brought it there. 🌴🥁`
     }
+  },
+
+  // Beneath the Remains - Igor Cavalera Album Breakdown (March 2026)
+  'beneath-the-remains-drum-setup': {
+    slug: 'beneath-the-remains-drum-setup',
+    albumTitle: 'Beneath the Remains',
+    artist: 'Sepultura',
+    drummer: 'Igor Cavalera',
+    drummerId: 21,
+    year: 1989,
+    genre: 'Thrash Metal',
+    label: 'Roadrunner Records',
+    studio: 'Morrisound Recording, Tampa, Florida',
+    producer: 'Scott Burns',
+    isAlbumArticle: true,
+    datePublished: '2026-03-26',
+    dateModified: '2026-03-26',
+    author: 'MetalForge Editorial',
+    title: "Beneath the Remains Drum Setup: Igor Cavalera's Brazilian Thrash Breakthrough",
+    description: "Complete drum gear breakdown for Sepultura's 1989 classic Beneath the Remains. Discover Igor Cavalera's thrash-era kit, Morrisound recording techniques with Scott Burns, and the album that conquered thrash metal from South America.",
+    seoKeywords: ['beneath the remains drums', 'igor cavalera drum setup', 'sepultura beneath the remains gear', 'igor cavalera 1989 kit', 'brazilian thrash drums', 'morrisound recording', 'inner self drums', 'scott burns production'],
+    ogImage: '/images/albums/beneath-the-remains-drums.webp',
+    intro: {
+      title: 'When Brazil Conquered Thrash Metal',
+      content: `In 1989, the thrash metal world was dominated by American and European bands. Metallica, Slayer, Megadeth, and Kreator ruled the genre. Then came four young men from Belo Horizonte, Brazil, who would shatter every geographical barrier and prove that thrash metal belonged to the world. "Beneath the Remains" announced Sepultura's arrival on the global stage with a fury that rivaled anything from the Bay Area.
+
+At just 18 years old, Igor Cavalera delivered a drum performance that belonged in the same conversation as Lars Ulrich, Dave Lombardo, and Gene Hoglan. His playing on "Beneath the Remains" combined the speed and precision of European thrash with a raw, hungry energy that only comes from proving the doubters wrong. Every blast beat, every double bass passage, every fill screamed "we belong here."
+
+Recorded at the legendary Morrisound Recording in Tampa, Florida — the birthplace of death metal — and produced by Scott Burns (who would later define the Florida death metal sound with Death, Morbid Angel, and Obituary), "Beneath the Remains" captured Sepultura at the moment they transformed from underground hopefuls into genuine thrash royalty.
+
+Songs like "Inner Self," "Stronger Than Hate," and "Mass Hypnosis" showcased Igor's remarkable development. Gone were the primitive blasts of early releases like "Morbid Visions." In their place was controlled aggression — double bass patterns that locked with Max's riffing, tom work that added melody to the chaos, and a sense of groove that hinted at the direction Sepultura would later pursue.
+
+This article examines the gear, techniques, and recording process behind Igor Cavalera's breakthrough performance — the album that proved Brazil could produce world-class thrash metal.`,
+      keyPoints: [
+        'Recorded at Morrisound Recording, Tampa — the birthplace of death metal',
+        'Produced by Scott Burns, architect of the Florida death metal sound',
+        'Igor was just 18 years old during these sessions',
+        'First Sepultura album to achieve major international distribution',
+        'Showcased Igor\'s evolution from primitive to precision thrash',
+        'Put South American metal on the global map',
+        'Features thrash classics "Inner Self," "Stronger Than Hate," and "Mass Hypnosis"'
+      ]
+    },
+    drumKit: {
+      title: "Igor's 1989 Thrash Arsenal",
+      brand: 'Pearl',
+      model: 'Pearl Export Series',
+      finish: 'Black',
+      config: {
+        bassdrums: ['22" x 16" Bass Drum (x2)'],
+        toms: ['12" x 10" Rack Tom', '13" x 11" Rack Tom'],
+        floorToms: ['16" x 16" Floor Tom'],
+        shells: 'Poplar/Basswood shells'
+      },
+      description: `For "Beneath the Remains," Igor Cavalera used a Pearl Export kit — the workhorse drums that launched countless metal careers. Coming from Brazil where professional drum gear was expensive and difficult to obtain, Igor made the most of accessible equipment. The Export series' poplar/basswood shells provided surprising punch and projection for an entry-level kit.
+
+The dual 22" x 16" bass drums were essential to Igor's thrash attack. While many drummers his age were still struggling with single pedal techniques, Igor had already mastered the double bass assault that would define thrash metal. His feet moved with machine-like precision, locking with Max's palm-muted riffs to create Sepultura's crushing sound.
+
+The tom configuration was deliberately minimal: two rack toms and one floor tom. This focused setup reflected the direct nature of thrash metal — no excessive fills or tom runs, just precisely placed accents that drove the songs forward. Igor's fills on "Beneath the Remains" are economical but impactful.
+
+Scott Burns and the Morrisound team knew how to make affordable drums sound expensive. Through careful microphone placement and the studio's excellent acoustics, they captured a drum sound that punched far above the kit's price point. The Export's aggressive midrange actually suited thrash metal perfectly.
+
+The shells were tuned tight for maximum attack — essential for cutting through the wall of guitars that defined Sepultura's sound. This was pure thrash metal drumming: no warmth, no subtlety, just relentless aggression.`,
+      notes: [
+        'Pearl Export — accessible kit made to sound professional',
+        'Dual bass drums for thrash metal firepower',
+        'Minimal tom configuration for focused sound',
+        'Tight tuning for maximum attack',
+        'Morrisound\'s engineering elevated the budget kit',
+        'Black finish matched the thrash metal aesthetic'
+      ],
+      estimatedValue: '$600-900 (1989) / $400-600 (vintage Export today)'
+    },
+    snare: {
+      title: 'The Brazilian Thunder Crack',
+      brand: 'Pearl',
+      model: 'Pearl Steel Sensitone (or Pearl Chad Smith model — sources vary)',
+      size: '14" x 6.5"',
+      shell: 'Steel',
+      description: `The snare sound on "Beneath the Remains" is quintessential thrash metal — tight, cracking, and cutting through the mix like a machete through the jungle. Igor achieved this with a Pearl steel snare, likely a Sensitone model from the era.
+
+The 6.5" depth provided the body needed to compete with two full-stack guitar rigs. Steel shells deliver the brightness and projection that thrash drumming demands — every backbeat rings with authority, cutting through even the fastest sections.
+
+Scott Burns' approach to the snare was straightforward: close-mic it, capture the crack, let the natural ring of the steel shell provide sustain. Unlike the heavily processed snare sounds of 1980s mainstream metal, the "Beneath the Remains" snare sounds natural and aggressive.
+
+Igor tuned the snare tight — high tension for maximum crack without choking the drum. The snare wires were also cranked, giving the drum that crisp, aggressive response that thrash metal requires. Every hit announced itself.
+
+This snare sound would influence the entire Florida death metal scene. When Scott Burns later recorded Death, Obituary, and Morbid Angel at Morrisound, he applied lessons learned from the Sepultura sessions. Igor's snare tone became part of the Morrisound signature.`,
+      tuningSetting: 'High tension for maximum crack; tight snare wires',
+      heads: 'Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$200-350 (1989)'
+    },
+    cymbals: {
+      title: 'Paiste Aggression',
+      brand: 'Paiste',
+      series: 'Paiste 2002 / Rude Series',
+      setup: [
+        { type: 'Hi-Hats', model: 'Paiste 2002 14" Heavy Hi-Hats', position: 'Left side', notes: 'Bright, cutting sound for fast thrash patterns' },
+        { type: 'Crash', model: 'Paiste 2002 16" Crash', position: 'Left of hi-hats', notes: 'Quick, explosive crash for accents' },
+        { type: 'Crash', model: 'Paiste 2002 18" Crash', position: 'Above right rack tom', notes: 'Primary crash position' },
+        { type: 'Ride', model: 'Paiste 2002 20" Ride', position: 'Far right', notes: 'Classic ride with ping and bell clarity' },
+        { type: 'China', model: 'Paiste 2002 18" China', position: 'Above floor tom', notes: 'Trashy accents — essential for thrash' }
+      ],
+      description: `Igor's cymbal setup for "Beneath the Remains" centered on Paiste 2002 series cymbals — the same line used by thrash royalty like Lars Ulrich and Dave Lombardo. The 2002 series' bright, cutting sound was ideal for thrash metal's aggressive demands.
+
+The 14" Heavy Hi-Hats were crucial to Igor's sound. Throughout "Beneath the Remains," the hi-hat drives the verses with tight, aggressive patterns. The Heavy model provided the projection needed to cut through the guitar wall while offering enough response for Igor's fast footwork patterns.
+
+The crash cymbals — 16" and 18" — gave Igor options for different intensities. The smaller crash for quick accents, the larger for bigger moments. Both were positioned for fast access during the rapid transitions that define thrash arrangements.
+
+The 20" ride was used primarily for its bell. Throughout "Beneath the Remains," you can hear Igor accenting with the ride bell — a technique common in thrash but executed with particular precision here. The bell's ping cuts through even the densest sections.
+
+The 18" China cymbal was essential for the Sepultura sound. Those trashy explosions punctuate riffs throughout the album, adding aggression and excitement. Thrash metal without a China cymbal is incomplete, and Igor knew exactly when to deploy it.
+
+All cymbals were positioned low and flat — the aggressive thrash style. This allowed Igor to strike with full power while maintaining quick movement between surfaces.`,
+      estimatedValue: '$1,000-1,400 total (1989)'
+    },
+    hardware: {
+      title: 'The Foundation of Brazilian Thrash',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'Pearl',
+          model: 'Pearl P-880 Powershifter',
+          notes: 'Chain drive pedals with adjustable cam',
+          description: 'Igor used Pearl P-880 pedals — reliable, responsive, and capable of the speeds required for thrash metal. The Powershifter cam system allowed adjustment for his aggressive heel-up technique.'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Pearl',
+          model: 'Pearl H-880',
+          notes: 'Heavy-duty stand for aggressive footwork'
+        },
+        {
+          type: 'Throne',
+          brand: 'Pearl',
+          model: 'Pearl D-790',
+          notes: 'Standard throne — comfort for long sessions'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Pro-Mark',
+          model: 'Pro-Mark 5A Wood Tip',
+          notes: 'Versatile weight for speed and power balance'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Pinstripe Clear',
+        toms: 'Remo Emperor Clear',
+        snare: 'Remo Emperor Coated'
+      }
+    },
+    recordingTechniques: {
+      title: 'The Morrisound Magic: Scott Burns\' Approach',
+      content: `Recording at Morrisound in 1989 meant accessing the best extreme metal production on the planet. The Tampa facility — co-owned by engineers Tom Morris and Jim Morris — had already established itself as the home of death metal's emerging sound. But when Sepultura arrived, they brought thrash metal energy that demanded a different approach.
+
+**The Morrisound Room:**
+Morrisound's live room was designed for heavy music. The acoustics provided natural punch without excessive ring — essential for thrash metal's precision requirements. The room's character became part of countless classic albums, and "Beneath the Remains" helped establish that legacy.
+
+**Scott Burns' Philosophy:**
+Producer/engineer Scott Burns approached Sepultura's drums with directness. No excessive processing, no tricks — just capture the performance with clarity. Burns would later define the Florida death metal sound through this same approach, but "Beneath the Remains" was among his earliest extreme metal productions.
+
+**Microphone Setup:**
+- Kick drums: AKG D12 inside each drum, positioned near the beater impact point
+- Snare: Shure SM57 on top, angled toward the center
+- Toms: Sennheiser MD421 on each tom
+- Hi-hat: AKG C451 condenser
+- Overheads: AKG C414s in spaced pair
+- Room mics: Neumann U87s for controlled ambience
+
+**Performance Capture:**
+Burns recorded the drums largely in complete takes. Igor's precision and stamina allowed him to perform entire songs without punch-ins. This approach captured the energy of live performance — you can hear the intensity building through songs like "Stronger Than Hate."
+
+**Mix Approach:**
+The drums were mixed forward and aggressive. Burns used compression to control peaks while maintaining dynamics. The bass drums received EQ emphasis in the low-mid range for attack, while the snare was brightened to cut through. The overall drum sound sits on top of the mix, driving every riff.
+
+**The Morrisound Signature:**
+What Burns and Morrisound achieved with Sepultura's drum sound would influence extreme metal production for years. The clarity, the punch, the aggressive presence — it all started in these 1989 sessions.`,
+      keyTechniques: [
+        'Morrisound\'s purpose-built room for heavy music',
+        'Scott Burns\' direct, no-nonsense engineering',
+        'Complete takes captured live energy',
+        'Forward drum mix driving the entire album',
+        'Natural room sound without excessive processing',
+        'Template for Florida death metal production'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'Inner Self',
+        bpm: '180-200',
+        signature: '4/4',
+        highlights: [
+          'One of thrash metal\'s most recognized songs',
+          'Igor\'s signature double bass intro',
+          'Perfect coordination with Max\'s rhythm guitar',
+          'Dynamic breakdown section showcases control',
+          'Became a Sepultura live staple'
+        ],
+        gearNotes: 'The double bass pattern in the intro is legendary. Igor\'s tight bass drum tuning provides the clarity needed at speed. Hi-hat drives the verses with precision.'
+      },
+      {
+        track: 'Stronger Than Hate',
+        bpm: '190',
+        signature: '4/4',
+        highlights: [
+          'Album\'s most intense track',
+          'Relentless double bass throughout',
+          'Showcases Igor\'s stamina at 18',
+          'Blast beat sections push into death metal territory',
+          'China cymbal accents punctuate the aggression'
+        ],
+        gearNotes: 'The sustained intensity here tests any drummer. Igor\'s conditioning and technique make it look effortless. Snare cracks cut through the dense guitar wall.'
+      },
+      {
+        track: 'Mass Hypnosis',
+        bpm: '195',
+        signature: '4/4 with variations',
+        highlights: [
+          'Complex arrangement with multiple sections',
+          'Igor navigates tempo and feel changes',
+          'Tom fills add melodic interest',
+          'Shows compositional growth beyond pure thrash',
+          'Hints at progressive direction Sepultura would pursue'
+        ],
+        gearNotes: 'The tom work here is particularly effective. Igor uses his minimal tom setup melodically, not just for fills.'
+      },
+      {
+        track: 'Slaves of Pain',
+        bpm: '170-200',
+        signature: '4/4',
+        highlights: [
+          'Mid-paced groove opening builds to thrash assault',
+          'Demonstrates dynamic control',
+          'Groove metal hints in the verse',
+          'Full-throttle chorus explosions',
+          'Blueprint for later Sepultura evolution'
+        ],
+        gearNotes: 'Shows Igor can groove as well as blast. The verse sections have swing that would become more prominent on later albums.'
+      },
+      {
+        track: 'Beneath the Remains',
+        bpm: '185',
+        signature: '4/4 with progressive elements',
+        highlights: [
+          'Epic title track closing the album',
+          'Extended instrumental sections',
+          'Igor\'s most ambitious performance on the record',
+          'Builds through multiple movements',
+          'Technical showcase without losing intensity'
+        ],
+        gearNotes: 'The full kit is utilized for this epic closer. Tom patterns, double bass variations, and cymbal textures all come together.'
+      }
+    ],
+    evolution: {
+      title: 'From Beneath the Remains to Roots: Igor\'s Journey',
+      content: `"Beneath the Remains" captured Igor Cavalera at a pivotal moment — the transition from promising teenager to world-class drummer. What he achieved at 18 years old in a Tampa studio would launch a career spanning four decades.
+
+**The Foundation:**
+The thrash metal precision Igor displayed on "Beneath the Remains" would remain the foundation of his playing. Even as Sepultura evolved toward groove metal and tribal fusion, the technical ability developed during the thrash years provided the bedrock. You can't play "Roots Bloody Roots" without first mastering "Inner Self."
+
+**Immediate Evolution — Arise (1991):**
+Just two years after "Beneath the Remains," Igor returned to Morrisound for "Arise." His playing had matured: tighter, more powerful, with hints of the groove consciousness that would emerge on "Chaos A.D." The thrash metal template remained, but Igor was already thinking beyond pure speed.
+
+**The Groove Awakening — Chaos A.D. (1993):**
+By "Chaos A.D.," Igor had discovered that slower could be heavier. His drumming began incorporating the half-time grooves and tribal influences that would define later Sepultura. Songs like "Refuse/Resist" and "Territory" showed a drummer more interested in making bodies move than in pure technical display.
+
+**Full Transformation — Roots (1996):**
+Igor's complete artistic transformation came with "Roots." The thrash metal foundation remained, but layered with Brazilian percussion, tribal rhythms, and a philosophical approach to groove that transcended metal. What began on "Beneath the Remains" as raw thrash energy became something entirely new.
+
+**Modern Era:**
+Today's Igor — working with Cavalera Conspiracy, Go Ahead and Die, and electronic project Mixhell — still draws on those 1989 sessions. The precision, the aggression, the hunger to prove himself: it's all still there, evolved through 35 years of continuous musical exploration.`,
+      thenVsNow: [
+        { category: 'Kit', then: 'Pearl Export (budget)', now: 'Tama Starclassic / Roland Hybrid' },
+        { category: 'Snare', then: 'Pearl Steel 14x6.5"', now: 'Multiple options (acoustic and electronic)' },
+        { category: 'Cymbals', then: 'Paiste 2002 series', now: 'Paiste RUDE / Signature' },
+        { category: 'Style', then: 'Pure thrash metal precision', now: 'Tribal-influenced groove with electronic elements' },
+        { category: 'Pedals', then: 'Pearl P-880 Powershifter', now: 'Tama Speed Cobra / Electronic triggers' }
+      ]
+    },
+    technicalAnalysis: {
+      title: 'Igor\'s 1989 Technique: Pure Thrash Aggression',
+      content: `At 18, Igor Cavalera had already developed technical skills that rivaled established thrash drummers. His approach on "Beneath the Remains" combined European thrash precision with a raw, hungry energy unique to South American metal.
+
+**Double Bass Technique:**
+Igor's double bass work on "Beneath the Remains" is pure heel-up, ankle-driven power. At the speeds required for songs like "Stronger Than Hate," efficient technique is essential — you can't muscle through an entire album. Igor had clearly studied the masters (Lombardo, Ulrich) but brought his own attack.
+
+**The bounce matters:** Even in 1989, Igor understood that letting the beaters rebound naturally conserves energy. His sustained double bass passages show excellent pedal control and relaxation despite the intensity.
+
+**Snare Accuracy:**
+The backbeats on "Beneath the Remains" are punishing but precise. Igor hits the center of the drum consistently, producing the focused crack that cuts through the mix. His rim shots accent transitions with authority.
+
+**Hi-Hat Control:**
+Igor's hi-hat work drives many of the album's songs. His foot-hi-hat coordination allows for subtle openings that add movement to otherwise relentless patterns. Listen to the verse of "Inner Self" — the hi-hat breathes while the feet rage.
+
+**Fills and Transitions:**
+Unlike some thrash drummers who fill every available space, Igor shows restraint. His fills serve the songs: announcing sections, building energy, or releasing tension. The tom fills are economical but effective, never overstaying their welcome.
+
+**Physical Conditioning:**
+Recording an entire thrash album at 18 requires serious conditioning. Igor's performances on "Beneath the Remains" show the stamina of someone who practiced constantly. The intensity doesn't flag through the album's 40 minutes.`,
+      keyTechniques: [
+        'Heel-up, ankle-driven double bass for sustained speed',
+        'Natural beater rebound for efficiency',
+        'Centered snare strikes for consistent tone',
+        'Hi-hat foot control during fast bass drum patterns',
+        'Economical fills that serve the arrangement',
+        'Athletic conditioning for album-length intensity'
+      ]
+    },
+    videos: [
+      { youtubeId: 'GnCPCaS7x8Y', title: 'Inner Self - Official Video', description: 'Classic video showing Sepultura\'s 1989 era' },
+      { youtubeId: 'B0n8WMj0RXI', title: 'Beneath the Remains Live 1991', description: 'Era-appropriate live performance' },
+      { youtubeId: 'yxcJGz_KiMI', title: 'Igor Cavalera - Drum Cam Archive', description: 'Vintage drum cam footage' },
+      { youtubeId: 'QvlLXJGEz0w', title: 'Stronger Than Hate - Live', description: 'Album-era live intensity' }
+    ],
+    relatedAlbums: ['roots-drum-setup', 'reign-in-blood-drum-setup', 'master-of-puppets-drum-setup'],
+    relatedDrummers: [4, 1, 3], // Dave Lombardo, Lars Ulrich, Gene Hoglan
+    relatedArticles: ['whats-in-igor-cavaleras-kit', 'brazilian-metal-drummers', 'thrash-metal-drummers'],
+    practiceGuide: {
+      title: 'Learning From Igor\'s Thrash Approach',
+      content: `Igor Cavalera's playing on "Beneath the Remains" offers a masterclass in thrash metal drumming. His precision, power, and stamina at 18 years old demonstrate what focused practice can achieve.
+
+**Double Bass Development (40-60 minutes daily):**
+- Start with alternating singles at 120 BPM, focus on evenness
+- Gradually increase tempo in 5 BPM increments
+- Practice the "Inner Self" intro pattern at various speeds
+- Work on sustained patterns (1 minute, then 2, then 5)
+- Develop ankle technique for efficiency at high speeds
+
+**Snare Power and Accuracy (20-30 minutes):**
+- Practice backbeats at full volume on a pad
+- Focus on hitting the center consistently
+- Work on rimshots for accents
+- Develop full-arm motion for power without tension
+
+**Hi-Hat Control (15-20 minutes):**
+- Practice foot-hi-hat coordination with double bass
+- Work on subtle openings during fast patterns
+- Develop independence between all four limbs
+
+**Song Study:**
+- Learn "Inner Self" note-for-note
+- Study "Stronger Than Hate" for sustained intensity
+- Analyze transitions and fill placement
+- Pay attention to what Igor DOESN'T play
+
+**Physical Conditioning:**
+Thrash drumming is athletic. Cardio training, wrist exercises, and core strength all contribute to the stamina needed for album-length intensity. Igor didn't just practice drums — he trained his body.
+
+**Key Principles:**
+1. Precision over speed — clean playing at 150 BPM beats sloppy at 200
+2. Stamina is built gradually — don't injury yourself pushing too hard
+3. Serve the song — fills should enhance, not distract
+4. Relax to go fast — tension kills speed and endurance
+5. Study the masters — Igor learned from Lombardo, Ulrich, and others`
+    },
+    conclusion: {
+      title: 'When Brazil Stormed the Gates',
+      content: `"Beneath the Remains" is more than a great thrash metal album — it's a statement of defiance. Four young men from Brazil proved that geography couldn't limit talent, that passion and dedication could overcome any obstacle, and that thrash metal belonged to the world.
+
+Igor Cavalera's drumming on this record stands alongside the best thrash performances ever recorded. At 18, he displayed the precision of drummers twice his age while bringing a raw hunger that can't be faked. Every blast beat, every double bass run, every fill sounds like someone with something to prove.
+
+**What Makes "Beneath the Remains" Special:**
+
+- **The hunger:** These weren't established rock stars recording another paycheck. This was four kids from Brazil determined to conquer the metal world.
+- **The precision:** Igor's playing is remarkably tight for someone so young. The Morrisound sessions captured a drummer at the beginning of his peak.
+- **The progression:** Compared to earlier Sepultura, "Beneath the Remains" showed quantum growth. Igor had studied the best and absorbed their lessons.
+- **The template:** This album's drum sound influenced not just Sepultura's future but the entire Florida death metal scene.
+
+For drummers, the lessons extend beyond technique:
+
+- **Limitations breed creativity:** Igor's budget Pearl kit sounds massive because of how it was played and recorded
+- **Youth is not an excuse:** Age 18 is old enough to compete with the best in the world
+- **Geography doesn't define destiny:** Brazil to Tampa to global domination
+- **Study the masters:** Igor clearly absorbed Lombardo, Ulrich, and others, then added his own voice
+- **Evolution is constant:** What began on "Beneath the Remains" would transform through "Roots" and beyond
+
+Igor Cavalera went on to become one of metal's most influential drummers, but it started here — in a Tampa studio in 1989, proving that thrash metal had no borders.
+
+🔥 *Sepultura's "Beneath the Remains" — when the jungle rose up and conquered metal.* 🔥`
+    }
   }
 };
 

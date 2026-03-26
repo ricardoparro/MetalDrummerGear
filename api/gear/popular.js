@@ -1,10 +1,6 @@
 // Vercel Serverless Function - Get most popular gear across all drummers
 // Issue #640: Most Popular Gear section for homepage
 
-// Import drummers data (same as index.js)
-const fs = require('fs');
-const path = require('path');
-
 // Cache for computed popular gear (regenerated on cold start)
 let cachedPopularGear = null;
 let cacheTimestamp = 0;
@@ -35,24 +31,6 @@ function extractBrand(gearString) {
   // Try to extract first word as brand
   const firstWord = gearString.split(' ')[0];
   return firstWord || 'Unknown';
-}
-
-// Read drummers data
-function getDrummers() {
-  // Dynamic import of the drummers API
-  try {
-    const drummersModule = require('./drummers/index.js');
-    // The module might be a function or export the data directly
-    // We need to access the drummers array
-    // Since we can't easily access the drummers array from the handler,
-    // we'll inline the data reading logic
-  } catch (e) {
-    // Fallback: read from the drummers endpoint
-  }
-  
-  // For Vercel, we need to read the data directly
-  // Let's create a shared data module
-  return null;
 }
 
 // Aggregate gear data from drummers
@@ -146,7 +124,6 @@ function aggregateGear(drummers) {
 }
 
 // Inline drummers data (subset needed for aggregation)
-// This is a simplified version - in production you'd share this with the main drummers endpoint
 const DRUMMERS_DATA = [
   { id: 1, name: 'Lars Ulrich', band: 'Metallica', image: '/images/drummers/lars-ulrich.webp', gear: { drums: 'Tama Starclassic Maple', snare: 'Tama LU1465 Lars Ulrich Signature 14x6.5"', cymbals: 'Zildjian A Custom Series' } },
   { id: 2, name: 'Joey Jordison', band: 'Slipknot', image: '/images/drummers/joey-jordison.webp', gear: { drums: 'Pearl Reference Series', snare: 'Pearl Joey Jordison Signature 13x6.5"', cymbals: 'Paiste RUDE & 2002 Series' } },
@@ -164,14 +141,14 @@ const DRUMMERS_DATA = [
   { id: 14, name: 'Danny Carey', band: 'Tool', image: '/images/drummers/danny-carey.webp', gear: { drums: 'Sonor SQ2', snare: 'Sonor Danny Carey Signature 14x8"', cymbals: 'Paiste Signature & 2002' } },
   { id: 15, name: 'Flo Mounier', band: 'Cryptopsy', image: '/images/drummers/flo-mounier.webp', gear: { drums: 'Pearl Reference', snare: 'Pearl Reference 14x5"', cymbals: 'Sabian AAX & HHX' } },
   { id: 16, name: 'Mario Duplantier', band: 'Gojira', image: '/images/drummers/mario-duplantier.webp', gear: { drums: 'Tama Starclassic Performer', snare: 'Tama S.L.P. 14x6"', cymbals: 'Meinl Byzance' } },
-  { id: 17, name: 'Brann Dailor', band: 'Mastodon', image: '/images/drummers/brann-dailor.webp', gear: { drums: 'DW Collector\'s Series', snare: 'DW Collector\'s 14x6.5"', cymbals: 'Meinl Byzance' } },
-  { id: 18, name: 'Arin Ilejay', band: 'Ex-Avenged Sevenfold', image: '/images/drummers/arin-ilejay.webp', gear: { drums: 'DW Collector\'s', snare: 'DW 14x6.5"', cymbals: 'Zildjian A Custom' } },
-  { id: 19, name: 'Brooks Wackerman', band: 'Avenged Sevenfold', image: '/images/drummers/brooks-wackerman.webp', gear: { drums: 'DW Collector\'s Series', snare: 'DW 14x5.5"', cymbals: 'Zildjian K Custom' } },
+  { id: 17, name: 'Brann Dailor', band: 'Mastodon', image: '/images/drummers/brann-dailor.webp', gear: { drums: "DW Collector's Series", snare: "DW Collector's 14x6.5\"", cymbals: 'Meinl Byzance' } },
+  { id: 18, name: 'Arin Ilejay', band: 'Ex-Avenged Sevenfold', image: '/images/drummers/arin-ilejay.webp', gear: { drums: "DW Collector's", snare: 'DW 14x6.5"', cymbals: 'Zildjian A Custom' } },
+  { id: 19, name: 'Brooks Wackerman', band: 'Avenged Sevenfold', image: '/images/drummers/brooks-wackerman.webp', gear: { drums: "DW Collector's Series", snare: 'DW 14x5.5"', cymbals: 'Zildjian K Custom' } },
   { id: 20, name: 'Chris Adler', band: 'Lamb of God', image: '/images/drummers/chris-adler.webp', gear: { drums: 'Mapex Saturn IV', snare: 'Mapex Black Panther 14x6.5"', cymbals: 'Meinl Byzance' } },
   { id: 21, name: 'Art Cruz', band: 'Lamb of God', image: '/images/drummers/art-cruz.webp', gear: { drums: 'Pearl Masterworks', snare: 'Pearl Reference 14x5"', cymbals: 'Zildjian A Custom' } }
 ];
 
-module.exports = async (req, res) => {
+export default async function handler(req, res) {
   // CORS headers
   res.setHeader('Access-Control-Allow-Origin', '*');
   res.setHeader('Access-Control-Allow-Methods', 'GET, OPTIONS');
@@ -208,4 +185,4 @@ module.exports = async (req, res) => {
     console.error('Error computing popular gear:', error);
     return res.status(500).json({ error: 'Failed to compute popular gear' });
   }
-};
+}

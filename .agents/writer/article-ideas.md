@@ -280,6 +280,7 @@
 | 2026-03-25 | Roots Drum Setup: Igor Cavalera | /articles/roots-drum-setup | - |
 | 2026-03-25 | The Way of All Flesh Drum Setup: Mario Duplantier | /articles/the-way-of-all-flesh-drum-setup | - |
 | 2026-03-25 | None So Vile Drum Setup: Flo Mounier | /articles/none-so-vile-drum-setup | - |
+| 2026-03-26 | What's In Igor Cavalera's Tribal Arsenal | /articles/whats-in-igor-cavaleras-kit | - |
 
 ---
 
@@ -871,7 +872,7 @@
 
 ---
 
-### 💡 [IDEA-045] What's In Igor Cavalera's Tribal Arsenal
+### ✅ [IDEA-045] What's In Igor Cavalera's Tribal Arsenal
 
 **Type:** drummer-kit
 **SEO Keywords:** igor cavalera drum kit, sepultura drummer, igor cavalera setup, cavalera conspiracy drums
@@ -887,7 +888,7 @@
 5. How His Setup Evolved from Thrash to Tribal to Electronic
 6. Where to Buy Similar Gear
 
-**Status:** IDEA (added 2026-03-24)
+**Status:** PUBLISHED (2026-03-26) — /articles/whats-in-igor-cavaleras-kit
 
 ---
 
@@ -979,4 +980,66 @@
 
 ---
 
-*Last updated: 2026-03-25 17:04*
+---
+
+### 💡 [IDEA-050] What's In Derek Roddy's Speed Arsenal
+
+**Type:** drummer-kit
+**SEO Keywords:** derek roddy drum kit, hate eternal drummer, derek roddy setup, extreme metal drums, fastest drummer
+**Search Volume:** HIGH (legendary extreme metal drummer, educational presence)
+**Data Available:** Partial (needs research)
+**Priority:** 4
+
+**Outline:**
+1. Introduction — The Human Metronome
+2. Current Tama Setup
+3. Signature Techniques (single-stroke blast mastery)
+4. Educational Impact (DVD, clinics, online lessons)
+5. Hate Eternal, Nile, Malevolent Creation Legacy
+6. Where to Buy Similar Gear
+
+**Status:** IDEA (added 2026-03-26)
+
+---
+
+### 💡 [IDEA-051] What's In Dirk Verbeuren's Megadeth Arsenal
+
+**Type:** drummer-kit
+**SEO Keywords:** dirk verbeuren drum kit, megadeth drummer, dirk verbeuren setup, soilwork drums
+**Search Volume:** HIGH (current Megadeth drummer, Soilwork legacy)
+**Data Available:** Partial (needs research)
+**Priority:** 4
+
+**Outline:**
+1. Introduction — From Swedish Death to Thrash Royalty
+2. Current Tama Starclassic Setup
+3. Signature Techniques (precision extreme drumming)
+4. Evolution: Soilwork → Megadeth
+5. How He Approached Megadeth's Classic Catalog
+6. Where to Buy Similar Gear
+
+**Status:** IDEA (added 2026-03-26)
+
+---
+
+### 💡 [IDEA-052] Beneath the Remains Drum Setup: Igor Cavalera's Thrash Masterpiece
+
+**Type:** album-breakdown
+**SEO Keywords:** beneath the remains drums, igor cavalera 1989, sepultura beneath the remains gear, brazilian thrash drums
+**Search Volume:** HIGH (Sepultura breakthrough album, pairs with Roots article)
+**Data Available:** Yes (can research from bio + era info)
+**Priority:** 4
+
+**Outline:**
+1. Introduction — When Brazil Conquered Thrash
+2. Studio Setup at Morrisound Recording
+3. "Inner Self" and "Stronger Than Hate" Breakdowns
+4. Recording with Scott Burns
+5. Pre-Tribal Pure Thrash Era Gear
+6. How This Album Put South American Metal on the Map
+
+**Status:** IDEA (added 2026-03-26)
+
+---
+
+*Last updated: 2026-03-26 09:03*

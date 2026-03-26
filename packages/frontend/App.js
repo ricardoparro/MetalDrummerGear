@@ -33,7 +33,7 @@ import { fontSize, lineHeight, fontWeight, textStyles } from './typography';
 import { spacing, space } from './spacing';
 import { useState, useEffect, useCallback, useMemo, useRef, lazy, Suspense, startTransition } from 'react';
 import { getAffiliateLinks, extractPrimaryProduct, getThomannLink, getSweetwaterLink } from './affiliateLinks';
-import { calculateKitCost, formatPrice } from './gearPrices';
+import { calculateKitCost, formatPrice, EUR_TO_USD } from './gearPrices';
 import { 
   getOptimizedImageUrl, 
   optimizeDrummerImages, 
@@ -7596,6 +7596,13 @@ function BirthdayCalendarPage({ theme, onBack, onSelectDrummer }) {
     ? getBirthdaysByMonth(selectedMonth)
     : allBirthdays;
   
+  // Update SEO meta tags (must be before any conditional returns - React hooks rules)
+  useEffect(() => {
+    if (isLoaded) {
+      updateBirthdayCalendarMeta(selectedMonth, todaysBirthdays);
+    }
+  }, [isLoaded, selectedMonth, todaysBirthdays.length]);
+
   // Show loading state while module loads
   if (!isLoaded) {
     return (
@@ -7605,11 +7612,6 @@ function BirthdayCalendarPage({ theme, onBack, onSelectDrummer }) {
       </View>
     );
   }
-
-  // Update SEO meta tags
-  useEffect(() => {
-    updateBirthdayCalendarMeta(selectedMonth, todaysBirthdays);
-  }, [selectedMonth, todaysBirthdays.length]);
 
   // Handle month selection
   const handleMonthSelect = (month) => {

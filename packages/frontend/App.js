@@ -3032,18 +3032,28 @@ function ArticlesIndexPage({ theme, onBack, onSelectArticle }) {
   const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
-    // Load album articles
-    import('./data/albumArticles').then(module => {
-      const articles = Object.values(module.ALBUM_ARTICLES || {});
+    // Load both data sources in parallel and wait for completion (fix for #790)
+    const loadData = async () => {
+      setIsLoading(true);
+      
+      // Load both modules in parallel
+      const [albumModule, top10Module] = await Promise.all([
+        import('./data/albumArticles'),
+        loadTop10Lists()
+      ]);
+      
+      // Extract album articles
+      const articles = Object.values(albumModule.ALBUM_ARTICLES || {});
       setAlbumArticles(articles);
-    });
-
-    // Load top10 lists that are articles
-    loadTop10Lists().then(module => {
-      const lists = module.top10Lists || [];
+      
+      // Extract top10 lists that are articles (fix: use getAllTop10Lists() not top10Lists)
+      const lists = top10Module.getAllTop10Lists();
       setTop10Articles(lists.filter(l => l.isArticle));
+      
       setIsLoading(false);
-    });
+    };
+    
+    loadData();
   }, []);
 
   // SEO meta tags
@@ -3155,6 +3165,7 @@ function ArticlesIndexPage({ theme, onBack, onSelectArticle }) {
               style={[styles.articleListItem, { backgroundColor: theme.card, borderColor: theme.border }]}
               onPress={() => onSelectArticle(article.slug, 'album')}
               accessibilityRole="link"
+              href={`/articles/${article.slug}`}
             >
               <View style={{ flex: 1 }}>
                 <Text style={[styles.articleListTitle, { color: theme.text }]}>{article.title}</Text>
@@ -3185,6 +3196,7 @@ function ArticlesIndexPage({ theme, onBack, onSelectArticle }) {
               style={[styles.articleListItem, { backgroundColor: theme.card, borderColor: theme.border }]}
               onPress={() => onSelectArticle(article.slug, 'list')}
               accessibilityRole="link"
+              href={`/lists/${article.slug}`}
             >
               <View style={{ flex: 1 }}>
                 <Text style={[styles.articleListTitle, { color: theme.text }]}>
@@ -7875,7 +7887,7 @@ function BirthdayCalendarPage({ theme, onBack, onSelectDrummer }) {
           <View style={styles.birthdayStats}>
             <View style={styles.birthdayStatItem}>
               <Text style={[styles.birthdayStatValue, { color: theme.primary }]}>
-                {drummerBirthdays.length}
+                {drummerBirthdays().length}
               </Text>
               <Text style={[styles.birthdayStatLabel, { color: theme.secondaryText }]}>
                 Drummers
@@ -7883,7 +7895,7 @@ function BirthdayCalendarPage({ theme, onBack, onSelectDrummer }) {
             </View>
             <View style={styles.birthdayStatItem}>
               <Text style={[styles.birthdayStatValue, { color: theme.primary }]}>
-                {drummerBirthdays.filter(d => d.isLiving).length}
+                {drummerBirthdays().filter(d => d.isLiving).length}
               </Text>
               <Text style={[styles.birthdayStatLabel, { color: theme.secondaryText }]}>
                 Still Rocking
@@ -7891,7 +7903,7 @@ function BirthdayCalendarPage({ theme, onBack, onSelectDrummer }) {
             </View>
             <View style={styles.birthdayStatItem}>
               <Text style={[styles.birthdayStatValue, { color: theme.primary }]}>
-                {Math.min(...drummerBirthdays.filter(d => d.isLiving).map(d => calculateAge(d.birthYear, d.birthMonth, d.birthDay)))}
+                {Math.min(...drummerBirthdays().filter(d => d.isLiving).map(d => calculateAge(d.birthYear, d.birthMonth, d.birthDay)))}
               </Text>
               <Text style={[styles.birthdayStatLabel, { color: theme.secondaryText }]}>
                 Youngest Age
@@ -15340,7 +15352,11 @@ function NewsCardLarge({ item, theme, onDrummerPress, onBandPress }) {
   };
 
   return (
-    <View style={[styles.newsCardLarge, { backgroundColor: theme.card, borderColor: theme.border }]}>
+    <View 
+      style={[styles.newsCardLarge, { backgroundColor: theme.card, borderColor: theme.border }]}
+      testID="news-item"
+      data-href={item.link}
+    >
       {item.image && (
         <TouchableOpacity onPress={handlePress} accessibilityRole="link">
           <ImageWithFallback

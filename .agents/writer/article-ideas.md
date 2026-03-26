@@ -282,6 +282,7 @@
 | 2026-03-25 | None So Vile Drum Setup: Flo Mounier | /articles/none-so-vile-drum-setup | - |
 | 2026-03-26 | What's In Igor Cavalera's Tribal Arsenal | /articles/whats-in-igor-cavaleras-kit | - |
 | 2026-03-26 | Beneath the Remains Drum Setup: Igor Cavalera | /articles/beneath-the-remains-drum-setup | - |
+| 2026-03-26 | Chaos A.D. Drum Setup: Igor Cavalera | /articles/chaos-ad-drum-setup | - |
 
 ---
 
@@ -557,12 +558,12 @@
 
 ---
 
-### 💡 [IDEA-028] Chaos A.D. Drum Setup: Igor Cavalera's Tribal Revolution
+### ✅ [IDEA-028] Chaos A.D. Drum Setup: Igor Cavalera's Tribal Revolution
 
 **Type:** album-breakdown
 **SEO Keywords:** chaos ad drums, igor cavalera drum setup, sepultura chaos ad gear, tribal metal drums
 **Search Volume:** High
-**Data Available:** Partial
+**Data Available:** Yes
 **Priority:** 4
 
 **Outline:**
@@ -573,7 +574,7 @@
 5. Recording Techniques with Andy Wallace
 6. Gear Breakdown (drums, cymbals, percussion)
 
-**Status:** IDEA (added 2026-03-18)
+**Status:** PUBLISHED (2026-03-26) — /articles/chaos-ad-drum-setup
 
 ---
 
@@ -1035,4 +1036,4 @@
 
 ---
 
-*Last updated: 2026-03-26 13:02*
+*Last updated: 2026-03-26 17:05*

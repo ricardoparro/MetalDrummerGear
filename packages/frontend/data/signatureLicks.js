@@ -755,10 +755,10 @@ export const SIGNATURE_LICKS = {
     ],
     
     video: {
-      youtubeId: 'GJqhZwVqyBY',
+      youtubeId: '_TUnfVV3hBQ',
       startTime: 45,
       endTime: 120,
-      title: 'Nile Live Performance',
+      title: 'George Kollias Drumming Clinic',
       description: 'Sustained extreme speed demonstration',
     },
     

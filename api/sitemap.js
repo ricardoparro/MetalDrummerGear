@@ -3,6 +3,9 @@
 // Issue #339: Added gear category pages for SEO
 // Issue #344: Added drumming technique pages
 // Issue #345: Added gear comparison pages
+// Issue #785: Import albumArticles dynamically from data source
+
+import { ALBUM_ARTICLES } from '../packages/frontend/data/albumArticles.js';
 
 // Issue #623: Content Scale Sprint - All 62 drummers now in sitemap
 const drummers = [
@@ -64,25 +67,13 @@ const articles = [
 ];
 
 // Issue #663: Album gear breakdown articles
-const albumArticles = [
-  { slug: 'master-of-puppets-drum-setup', name: 'Master of Puppets Drum Setup' },
-  { slug: 'reign-in-blood-drum-setup', name: 'Reign in Blood Drum Setup' },
-  { slug: 'iowa-drum-setup', name: 'Iowa Drum Setup' },
-  { slug: 'vulgar-display-of-power-drum-setup', name: 'Vulgar Display of Power Drum Setup' },
-  { slug: 'number-of-the-beast-drum-setup', name: 'Number of the Beast Drum Setup' },
-  { slug: 'obzen-drum-setup', name: 'obZen Drum Setup' },
-  { slug: 'painkiller-drum-setup', name: 'Painkiller Drum Setup' },
-  { slug: 'fear-inoculum-drum-setup', name: 'Fear Inoculum Drum Setup' },
-  { slug: 'lateralus-drum-setup', name: 'Lateralus Drum Setup' },
-  // Drummer Kit articles
-  { slug: 'whats-in-joey-jordisons-kit', name: "What's In Joey Jordison's Kit" },
-  { slug: 'whats-in-danny-careys-kit', name: "What's In Danny Carey's Kit" },
-  { slug: 'whats-in-tomas-haakes-kit', name: "What's In Tomas Haake's Kit" },
-  { slug: 'whats-in-dave-lombardos-kit', name: "What's In Dave Lombardo's Kit" },
-  { slug: 'whats-in-gene-hoglans-kit', name: "What's In Gene Hoglan's Kit" },
-  { slug: 'whats-in-eloy-casagrandes-kit', name: "What's In Eloy Casagrande's Kit" },
-  { slug: 'whats-in-mike-portnoys-kit', name: "What's In Mike Portnoy's Reunion Kit" },
-];
+// Issue #785: Dynamically generate albumArticles from ALBUM_ARTICLES data source
+const albumArticles = Object.keys(ALBUM_ARTICLES).map(slug => ({
+  slug,
+  name: ALBUM_ARTICLES[slug].albumTitle 
+    ? `${ALBUM_ARTICLES[slug].albumTitle} Drum Setup`
+    : ALBUM_ARTICLES[slug].title || slug
+}));
 
 const bandPages = [
   { slug: 'metallica', name: 'Metallica' },

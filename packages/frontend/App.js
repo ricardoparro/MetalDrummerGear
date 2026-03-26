@@ -7887,7 +7887,7 @@ function BirthdayCalendarPage({ theme, onBack, onSelectDrummer }) {
           <View style={styles.birthdayStats}>
             <View style={styles.birthdayStatItem}>
               <Text style={[styles.birthdayStatValue, { color: theme.primary }]}>
-                {drummerBirthdays.length}
+                {drummerBirthdays().length}
               </Text>
               <Text style={[styles.birthdayStatLabel, { color: theme.secondaryText }]}>
                 Drummers
@@ -7895,7 +7895,7 @@ function BirthdayCalendarPage({ theme, onBack, onSelectDrummer }) {
             </View>
             <View style={styles.birthdayStatItem}>
               <Text style={[styles.birthdayStatValue, { color: theme.primary }]}>
-                {drummerBirthdays.filter(d => d.isLiving).length}
+                {drummerBirthdays().filter(d => d.isLiving).length}
               </Text>
               <Text style={[styles.birthdayStatLabel, { color: theme.secondaryText }]}>
                 Still Rocking
@@ -7903,7 +7903,7 @@ function BirthdayCalendarPage({ theme, onBack, onSelectDrummer }) {
             </View>
             <View style={styles.birthdayStatItem}>
               <Text style={[styles.birthdayStatValue, { color: theme.primary }]}>
-                {Math.min(...drummerBirthdays.filter(d => d.isLiving).map(d => calculateAge(d.birthYear, d.birthMonth, d.birthDay)))}
+                {Math.min(...drummerBirthdays().filter(d => d.isLiving).map(d => calculateAge(d.birthYear, d.birthMonth, d.birthDay)))}
               </Text>
               <Text style={[styles.birthdayStatLabel, { color: theme.secondaryText }]}>
                 Youngest Age
@@ -15352,7 +15352,11 @@ function NewsCardLarge({ item, theme, onDrummerPress, onBandPress }) {
   };
 
   return (
-    <View style={[styles.newsCardLarge, { backgroundColor: theme.card, borderColor: theme.border }]}>
+    <View 
+      style={[styles.newsCardLarge, { backgroundColor: theme.card, borderColor: theme.border }]}
+      testID="news-item"
+      data-href={item.link}
+    >
       {item.image && (
         <TouchableOpacity onPress={handlePress} accessibilityRole="link">
           <ImageWithFallback

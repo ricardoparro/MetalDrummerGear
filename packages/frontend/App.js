@@ -1954,22 +1954,30 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
 
   // Load list data lazily - check album articles first, then top10 lists
   useEffect(() => {
-    // Check if this is an album article (Issue #663)
-    const albumArticle = getAlbumArticleBySlug(listSlug);
-    if (albumArticle) {
-      setList(albumArticle);
-      setIsAlbumArticle(true);
-      setIsLoading(false);
-      return;
-    }
-    
-    // Otherwise load from top10Lists
-    loadTop10Lists().then(module => {
+    const loadData = async () => {
+      setIsLoading(true);
+      
+      // First, ensure album articles module is loaded (Issue #663, fix for lazy load race condition)
+      await preloadAlbumArticles();
+      
+      // Check if this is an album article
+      const albumArticle = getAlbumArticleBySlug(listSlug);
+      if (albumArticle) {
+        setList(albumArticle);
+        setIsAlbumArticle(true);
+        setIsLoading(false);
+        return;
+      }
+      
+      // Otherwise load from top10Lists
+      const module = await loadTop10Lists();
       _top10ListsModule = module;
       setList(module.getTop10ListBySlug(listSlug));
       setIsAlbumArticle(false);
       setIsLoading(false);
-    });
+    };
+    
+    loadData();
   }, [listSlug]);
 
   // Update document meta and inject Article schema for SEO (Issue #634)

@@ -240,6 +240,15 @@ const drummerLicksHubs = [
   { drummerSlug: 'mario-duplantier', name: 'Mario Duplantier' },
 ];
 
+// Issue #802: Endorsement Tracker pages
+// Track brand deals and endorsement history for drummers
+const endorsementDrummers = [
+  'lars-ulrich', 'joey-jordison', 'tomas-haake', 'dave-lombardo',
+  'george-kollias', 'eloy-casagrande', 'jay-weinberg', 'mike-portnoy',
+  'danny-carey', 'mario-duplantier', 'brann-dailor', 'chris-adler',
+  'matt-halpern', 'inferno', 'charlie-benante',
+];
+
 // Issue #770: SEO Blitz - Drummer Gear Category Pages
 // Long-tail keyword pages at /drummer/:slug/:category
 const drummerGearCategories = ['cymbals', 'drums', 'pedals', 'hardware', 'snare', 'sticks'];
@@ -327,6 +336,9 @@ export default function handler(req, res) {
     ...signatureLicksPages.map(sl => ({ loc: `/drummers/${sl.drummerSlug}/licks/${sl.lickSlug}`, priority: '0.85', changefreq: 'monthly' })),
     // Issue #770: SEO Blitz - Drummer Gear Category Pages (long-tail keywords)
     ...drummerGearCategoryPages.map(dgc => ({ loc: `/drummer/${dgc.drummerSlug}/${dgc.category}`, priority: '0.85', changefreq: 'monthly' })),
+    // Issue #802: Endorsement Tracker pages
+    { loc: '/endorsement-news', priority: '0.9', changefreq: 'weekly' },
+    ...endorsementDrummers.map(slug => ({ loc: `/drummers/${slug}/endorsements`, priority: '0.85', changefreq: 'monthly' })),
   ];
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">

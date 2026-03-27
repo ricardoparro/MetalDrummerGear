@@ -443,6 +443,7 @@ function updateGearCardsMeta() { return _gearCardsModule?.updateGearCardsMeta?.(
 const LazyLicksHubPage = lazy(() => import('./components/SignatureLicks').then(m => ({ default: m.LicksHubPage })));
 const LazyLickDetailPage = lazy(() => import('./components/SignatureLicks').then(m => ({ default: m.LickDetailPage })));
 const LazyLickOfTheDayWidget = lazy(() => import('./components/SignatureLicks').then(m => ({ default: m.LickOfTheDayWidget })));
+const LazyEndorsementNewsWidget = lazy(() => import('./components/EndorsementTracker').then(m => ({ default: m.EndorsementNewsWidget })));
 let _signatureLicksModule = null;
 let _signatureLicksLoadPromise = null;
 const loadSignatureLicks = () => import('./components/SignatureLicks');
@@ -519,6 +520,43 @@ function getEvolutionDrummerSlugs() {
 }
 function updateEvolutionMeta(drummer) {
   return _drummerEvolutionModule?.updateEvolutionMeta?.(drummer);
+}
+
+// Endorsement Tracker (Issue #802) - Track brand deals and endorsement changes
+// URL: /drummers/[slug]/endorsements and /endorsement-news
+const LazyEndorsementNewsPage = lazy(() => import('./components/EndorsementTracker').then(m => ({ default: m.EndorsementNewsPage })));
+const LazyDrummerEndorsementPage = lazy(() => import('./components/EndorsementTracker').then(m => ({ default: m.DrummerEndorsementPage })));
+let _endorsementModule = null;
+let _endorsementLoadPromise = null;
+const loadEndorsementTracker = () => import('./components/EndorsementTracker');
+
+function preloadEndorsementTracker() {
+  if (!_endorsementLoadPromise) {
+    _endorsementLoadPromise = loadEndorsementTracker().then(m => {
+      _endorsementModule = m;
+      return m;
+    });
+  }
+  return _endorsementLoadPromise;
+}
+function isEndorsementPage() {
+  return _endorsementModule?.isEndorsementPage?.() ?? (typeof window !== 'undefined' &&
+    /^\/drummers\/[a-z0-9-]+\/endorsements\/?$/i.test(window.location.pathname));
+}
+function isEndorsementNewsPage() {
+  return _endorsementModule?.isEndorsementNewsPage?.() ?? (typeof window !== 'undefined' &&
+    (window.location.pathname === '/endorsement-news' || window.location.pathname === '/endorsement-news/'));
+}
+function getEndorsementDrummerSlugFromURL() {
+  if (typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(/^\/drummers\/([a-z0-9-]+)\/endorsements/i);
+  return match ? match[1] : null;
+}
+function updateEndorsementMeta(drummer, timeline) {
+  return _endorsementModule?.updateEndorsementMeta?.(drummer, timeline);
+}
+function updateEndorsementNewsMeta() {
+  return _endorsementModule?.updateEndorsementNewsMeta?.();
 }
 
 // Drummer Gear Category Pages (Issue #770) - SEO Long-Tail Keyword Pages
@@ -16856,6 +16894,24 @@ function DrummerList({
           />
         </View>
       )}
+      {/* Endorsement News Widget (Issue #802) */}
+      <Suspense fallback={<View style={{ height: 200, backgroundColor: theme.card, margin: 16, borderRadius: 12 }} />}>
+        <LazyEndorsementNewsWidget
+          theme={theme}
+          onNavigateToNews={() => {
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/endorsement-news');
+              window.dispatchEvent(new PopStateEvent('popstate'));
+            }
+          }}
+          onNavigateToDrummer={(slug) => {
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', `/drummers/${slug}/endorsements`);
+              window.dispatchEvent(new PopStateEvent('popstate'));
+            }
+          }}
+        />
+      </Suspense>
       {/* Lick of the Day Widget (Issue #759) */}
       <Suspense fallback={<View style={{ height: 300, backgroundColor: theme.card, margin: 16, borderRadius: 16 }} />}>
         <LazyLickOfTheDayWidget
@@ -21363,6 +21419,11 @@ function AppContent() {
   const [showDrummerEvolution, setShowDrummerEvolution] = useState(() => isDrummerEvolutionPage());
   const [evolutionDrummerSlug, setEvolutionDrummerSlug] = useState(() => getDrummerEvolutionSlugFromURL());
   
+  // Endorsement Tracker state (Issue #802) - /drummers/[slug]/endorsements and /endorsement-news
+  const [showEndorsementPage, setShowEndorsementPage] = useState(() => isEndorsementPage());
+  const [endorsementDrummerSlug, setEndorsementDrummerSlug] = useState(() => getEndorsementDrummerSlugFromURL());
+  const [showEndorsementNews, setShowEndorsementNews] = useState(() => isEndorsementNewsPage());
+  
   // Drummer Gear Category state (Issue #770) - /drummer/:slug/:category (SEO long-tail pages)
   const [showGearCategoryPage, setShowGearCategoryPage] = useState(() => isDrummerGearCategoryPage());
   const [gearCategoryInfo, setGearCategoryInfo] = useState(() => getDrummerGearCategoryFromURL());
@@ -23036,6 +23097,50 @@ function AppContent() {
         setEvolutionDrummerSlug(dSlug);
         setShowGearCategoryPage(false);
         setGearCategoryInfo(null);
+        setShowEndorsementPage(false);
+        setEndorsementDrummerSlug(null);
+        setShowEndorsementNews(false);
+      } else if (isEndorsementPage()) {
+        // Endorsement Page (Issue #802) - /drummers/[slug]/endorsements
+        const dSlug = getEndorsementDrummerSlugFromURL();
+        setShowEndorsementPage(true);
+        setEndorsementDrummerSlug(dSlug);
+        setShowEndorsementNews(false);
+        setShowDrummerEvolution(false);
+        setEvolutionDrummerSlug(null);
+        setShowGearCategoryPage(false);
+        setGearCategoryInfo(null);
+        setShowLickDetail(false);
+        setLickSlug(null);
+        setShowLicksHub(false);
+        setLicksDrummerSlug(null);
+        setShowGearCards(false);
+        setShowToolsHub(false);
+        setShowGearComparisonTool(false);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        // Preload the component
+        preloadEndorsementTracker();
+      } else if (isEndorsementNewsPage()) {
+        // Endorsement News Hub (Issue #802) - /endorsement-news
+        setShowEndorsementNews(true);
+        setShowEndorsementPage(false);
+        setEndorsementDrummerSlug(null);
+        setShowDrummerEvolution(false);
+        setEvolutionDrummerSlug(null);
+        setShowGearCategoryPage(false);
+        setGearCategoryInfo(null);
+        setShowLickDetail(false);
+        setLickSlug(null);
+        setShowLicksHub(false);
+        setLicksDrummerSlug(null);
+        setShowGearCards(false);
+        setShowToolsHub(false);
+        setShowGearComparisonTool(false);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        // Preload the component
+        preloadEndorsementTracker();
       } else if (isDrummerGearCategoryPage()) {
         // Drummer Gear Category page (Issue #770) - /drummer/:slug/:category
         const gearInfo = getDrummerGearCategoryFromURL();
@@ -25206,6 +25311,64 @@ setShowList(false);
         </Suspense>
       );
     }
+    
+    // Endorsement Page (Issue #802) - /drummers/[slug]/endorsements
+    // Brand endorsement history and timeline for each drummer
+    if (showEndorsementPage && endorsementDrummerSlug) {
+      const drummer = drummers.find(d => toSlug(d.name) === endorsementDrummerSlug);
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyDrummerEndorsementPage
+            theme={theme}
+            drummer={drummer}
+            onBack={() => {
+              setShowEndorsementPage(false);
+              setEndorsementDrummerSlug(null);
+              // Navigate back to drummer profile
+              if (endorsementDrummerSlug && Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/drummer/${endorsementDrummerSlug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateToDrummer={(slug) => {
+              setEndorsementDrummerSlug(slug);
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/drummers/${slug}/endorsements`);
+              }
+            }}
+          />
+        </Suspense>
+      );
+    }
+    
+    // Endorsement News Page (Issue #802) - /endorsement-news
+    // Hub for all endorsement news and brand switches
+    if (showEndorsementNews) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyEndorsementNewsPage
+            theme={theme}
+            onBack={() => {
+              setShowEndorsementNews(false);
+              // Navigate back to home
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateToDrummer={(slug) => {
+              setShowEndorsementNews(false);
+              setShowEndorsementPage(true);
+              setEndorsementDrummerSlug(slug);
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/drummers/${slug}/endorsements`);
+              }
+            }}
+          />
+        </Suspense>
+      );
+    }
+    
     // Drummer Gear Category Page (Issue #770) - /drummer/:slug/:category
     // SEO long-tail keyword pages for "joey jordison cymbals", "what drums does lars ulrich use", etc.
     if (showGearCategoryPage && gearCategoryInfo) {

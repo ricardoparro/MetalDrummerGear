@@ -93,53 +93,98 @@ This guide is specifically designed for beginners with a total budget around $1,
       whyTrustUs: "MetalForge has analyzed gear from 500+ professional metal drummers. We know what works at every price point."
     },
 
-    // Budget breakdown section
+    // Budget breakdown section - Updated for Issue #801 (CEO-008)
     budgetBreakdown: {
       title: "Budget Breakdown: Where Your Money Goes",
       totalBudget: 1000,
-      description: "Here's how to allocate your $1000 budget for maximum metal potential. These percentages are based on what actually matters for achieving a heavy sound.",
+      description: "Here's exactly how to allocate your $1000 budget for maximum metal potential. This breakdown is based on what actually matters for achieving a heavy, professional sound.",
+      // Clean summary for quick reference
+      quickSummary: [
+        { category: 'Drums', amount: 400, emoji: '🥁' },
+        { category: 'Cymbals', amount: 300, emoji: '🎪' },
+        { category: 'Hardware', amount: 200, emoji: '⚙️' },
+        { category: 'Accessories', amount: 100, emoji: '🎒' }
+      ],
+      // Detailed breakdown
       categories: [
         {
-          name: 'Drum Kit (Shells + Hardware)',
-          percentage: 50,
-          amount: '$400-550',
+          name: 'Drums (Shells Only)',
+          percentage: 40,
+          amount: '$400',
           priority: 'HIGH',
-          notes: 'The foundation. Go for 5-piece kit with double-braced hardware.',
-          emoji: '🥁'
+          type: 'essential',
+          notes: 'The foundation of your kit. A 5-piece shell pack (kick, snare, 2 rack toms, floor tom) from a reputable brand. Focus on solid construction and proper bearing edges.',
+          emoji: '🥁',
+          includes: ['Bass drum shell', 'Snare drum', 'Rack toms (10", 12")', 'Floor tom (14" or 16")'],
+          buyingTip: 'Used drum shells retain 80% of their value and sound identical to new.'
         },
         {
           name: 'Cymbals',
-          percentage: 25,
-          amount: '$200-300',
-          priority: 'HIGH',
-          notes: 'Don\'t cheap out here. Bad cymbals ruin everything.',
-          emoji: '🎪'
-        },
-        {
-          name: 'Bass Drum Pedal',
-          percentage: 10,
-          amount: '$80-150',
+          percentage: 30,
+          amount: '$300',
           priority: 'CRITICAL',
-          notes: 'For metal, this might be your most important purchase.',
-          emoji: '🦶'
+          type: 'essential',
+          notes: 'Don\'t cheap out here! Bad cymbals make even expensive drums sound terrible. Aim for real bronze (B8 or B12 minimum) not brass.',
+          emoji: '🎪',
+          includes: ['14" Hi-Hats', '16" Crash', '18" Crash or Crash-Ride', '20" Ride'],
+          buyingTip: 'One quality crash ($150) sounds better than three cheap ones.'
         },
         {
-          name: 'Drum Heads',
-          percentage: 8,
-          amount: '$60-100',
-          priority: 'MEDIUM',
-          notes: 'Stock heads are usually garbage. Budget for replacements.',
-          emoji: '🔘'
+          name: 'Hardware',
+          percentage: 20,
+          amount: '$200',
+          priority: 'HIGH',
+          type: 'essential',
+          notes: 'Double-braced hardware is mandatory for metal. Single-braced WILL collapse under aggressive playing. Includes bass pedal, throne, and stands.',
+          emoji: '⚙️',
+          includes: ['Bass drum pedal (single or double)', 'Hi-hat stand', 'Snare stand', 'Cymbal stands (2-3)', 'Drum throne'],
+          buyingTip: 'Invest in a quality pedal first—it\'s the most-used piece of hardware.'
         },
         {
-          name: 'Sticks & Accessories',
-          percentage: 7,
-          amount: '$50-80',
+          name: 'Accessories',
+          percentage: 10,
+          amount: '$100',
           priority: 'MEDIUM',
-          notes: 'Sticks, practice pad, drum key, basic dampening.',
-          emoji: '🥢'
+          type: 'essential',
+          notes: 'The finishing touches that make your kit playable and keep you improving. Don\'t skip hearing protection!',
+          emoji: '🎒',
+          includes: ['Drum heads (batter heads)', 'Sticks (buy a brick!)', 'Practice pad', 'Drum key', 'Hearing protection', 'Moon gels/dampening'],
+          buyingTip: 'Budget $50/year for sticks—they break more than you think.'
         }
       ],
+      // Essential vs Optional breakdown (Issue #801 requirement)
+      essentialVsOptional: {
+        title: "Essential vs Optional Gear",
+        essential: [
+          { item: 'Drum kit (5-piece)', reason: 'You literally need drums to drum', cost: '$300-500' },
+          { item: 'Cymbals (hi-hats, crash, ride)', reason: 'Core of metal sound and dynamics', cost: '$200-400' },
+          { item: 'Bass drum pedal', reason: 'No pedal = no kick drum', cost: '$60-150' },
+          { item: 'Drum throne', reason: 'Good posture prevents injury, improves stamina', cost: '$40-100' },
+          { item: 'Sticks', reason: 'Obviously required', cost: '$8-15/pair' },
+          { item: 'Practice pad', reason: 'Build technique without noise complaints', cost: '$15-40' },
+          { item: 'Hearing protection', reason: 'Drums are 100+ dB—protect your ears!', cost: '$15-50' },
+          { item: 'Drum key', reason: 'Tuning is essential for good sound', cost: '$5-15' }
+        ],
+        optional: [
+          { item: 'China cymbal', reason: 'Signature metal accent, but not required to start', cost: '$60-150' },
+          { item: 'Splash cymbal', reason: 'Nice for quick accents, not critical', cost: '$30-80' },
+          { item: 'Double bass pedal', reason: 'Many metal songs use single pedal—learn that first', cost: '$150-400' },
+          { item: 'Electronic triggers', reason: 'For recording/live sound, not needed initially', cost: '$50-200' },
+          { item: 'Drum rug', reason: 'Helpful but any carpet works', cost: '$30-60' },
+          { item: 'Cases/bags', reason: 'Only needed if gigging', cost: '$100-300' },
+          { item: 'Extra snare', reason: 'Luxury—focus on one good snare first', cost: '$150-400' }
+        ],
+        priorityOrder: [
+          '1. Drum kit + basic hardware (must have)',
+          '2. Cymbals (hi-hats, 1 crash, ride minimum)',
+          '3. Decent pedal + throne',
+          '4. New drum heads (stock heads are garbage)',
+          '5. Practice pad + metronome app',
+          '6. Additional crash cymbal',
+          '7. China cymbal (when ready for more metal aggression)',
+          '8. Double bass pedal (when single foot is solid)'
+        ]
+      },
       proTip: "If buying used, allocate more budget to cymbals and pedal. Used shells are often just as good as new, but cymbals develop cracks and pedals wear out."
     },
 
@@ -684,10 +729,10 @@ This guide is specifically designed for beginners with a total budget around $1,
       }
     },
 
-    // Upgrade path
+    // Upgrade path - Enhanced with pro setup links (Issue #801)
     upgradePath: {
-      title: "Future Upgrade Path",
-      intro: "Once you've mastered the basics, here's the smart order for upgrades:",
+      title: "Your Upgrade Path to Pro Gear",
+      intro: "Once you've mastered the basics, here's the smart order for upgrades—with links to see what the pros use for inspiration:",
       upgrades: [
         {
           priority: 1,
@@ -695,7 +740,12 @@ This guide is specifically designed for beginners with a total budget around $1,
           when: '6-12 months',
           budget: '$300-500',
           why: 'Cymbals make the biggest tonal difference. Upgrade to B20 bronze (Zildjian A Custom, Sabian AAX, Meinl Byzance).',
-          recommendation: 'Start with hi-hats and main crash. Add from there.'
+          recommendation: 'Start with hi-hats and main crash. Add from there.',
+          proReference: {
+            text: 'See what cymbals Gene Hoglan uses',
+            drummerId: 'gene-hoglan',
+            category: 'cymbals'
+          }
         },
         {
           priority: 2,
@@ -703,7 +753,12 @@ This guide is specifically designed for beginners with a total budget around $1,
           when: '3-6 months',
           budget: '$200-400',
           why: 'Essential for most metal subgenres. Get something with adjustable cam and direct drive option.',
-          recommendation: 'Pearl Demon Drive, Tama Speed Cobra 910, DW MDD'
+          recommendation: 'Pearl Demon Drive, Tama Speed Cobra 910, DW MDD',
+          proReference: {
+            text: 'See George Kollias\'s pedal setup',
+            drummerId: 'george-kollias',
+            category: 'pedals'
+          }
         },
         {
           priority: 3,
@@ -711,7 +766,12 @@ This guide is specifically designed for beginners with a total budget around $1,
           when: '12-18 months',
           budget: '$200-400',
           why: 'A good snare transforms your sound. Steel for crack, brass for warmth, maple for versatility.',
-          recommendation: 'Pearl Sensitone, Tama SLP, Mapex Black Panther'
+          recommendation: 'Pearl Sensitone, Tama SLP, Mapex Black Panther',
+          proReference: {
+            text: 'Check out Joey Jordison\'s snare collection',
+            drummerId: 'joey-jordison',
+            category: 'snare'
+          }
         },
         {
           priority: 4,
@@ -719,7 +779,12 @@ This guide is specifically designed for beginners with a total budget around $1,
           when: '18+ months',
           budget: '$150-300',
           why: 'For recording or live sound reinforcement. Start with kick trigger.',
-          recommendation: 'Roland RT-30K (kick), ddrum Pro triggers'
+          recommendation: 'Roland RT-30K (kick), ddrum Pro triggers',
+          proReference: {
+            text: 'See how Chris Adler uses triggers',
+            drummerId: 'chris-adler',
+            category: 'hardware'
+          }
         },
         {
           priority: 5,
@@ -727,10 +792,70 @@ This guide is specifically designed for beginners with a total budget around $1,
           when: '2-3 years',
           budget: '$1500-3000',
           why: 'When your skills outgrow your kit. Consider Tama Starclassic, Pearl Masters, Mapex Saturn.',
-          recommendation: 'Buy used pro-level kits for 50% of retail.'
+          recommendation: 'Buy used pro-level kits for 50% of retail.',
+          proReference: {
+            text: 'Explore Dave Lombardo\'s legendary setup',
+            drummerId: 'dave-lombardo',
+            category: null
+          }
         }
       ],
-      savingsStrategy: "Set aside $20-50/month for gear. In a year, you'll have $240-600 for smart upgrades."
+      savingsStrategy: "Set aside $20-50/month for gear. In a year, you'll have $240-600 for smart upgrades.",
+      // Pro setup showcase - linking beginners to their aspirational targets (CEO-008 requirement)
+      proSetupShowcase: {
+        title: "Aspire to These Pro Setups",
+        description: "These legendary drummers started on budget gear too. Study their setups to plan your upgrade path:",
+        drummers: [
+          {
+            id: 'joey-jordison',
+            name: 'Joey Jordison',
+            band: 'Slipknot',
+            signatureGear: 'Pearl drums, Paiste cymbals',
+            whyStudy: 'Speed, aggression, showmanship',
+            link: '/drummer/joey-jordison'
+          },
+          {
+            id: 'dave-lombardo',
+            name: 'Dave Lombardo',
+            band: 'Slayer / Suicidal Tendencies',
+            signatureGear: 'Tama drums, Paiste Rude cymbals',
+            whyStudy: 'Thrash precision, double bass technique',
+            link: '/drummer/dave-lombardo'
+          },
+          {
+            id: 'gene-hoglan',
+            name: 'Gene Hoglan',
+            band: 'Death / Testament / Dethklok',
+            signatureGear: 'Tama drums, Zildjian cymbals',
+            whyStudy: 'Technical death metal, groove, endurance',
+            link: '/drummer/gene-hoglan'
+          },
+          {
+            id: 'george-kollias',
+            name: 'George Kollias',
+            band: 'Nile',
+            signatureGear: 'Pearl drums, Meinl cymbals',
+            whyStudy: 'Extreme speed, single pedal mastery',
+            link: '/drummer/george-kollias'
+          },
+          {
+            id: 'chris-adler',
+            name: 'Chris Adler',
+            band: 'Lamb of God',
+            signatureGear: 'Mapex drums, Meinl cymbals',
+            whyStudy: 'Modern metal groove, creative patterns',
+            link: '/drummer/chris-adler'
+          },
+          {
+            id: 'dirk-verbeuren',
+            name: 'Dirk Verbeuren',
+            band: 'Megadeth / Soilwork',
+            signatureGear: 'Tama drums, Zildjian cymbals',
+            whyStudy: 'Technical thrash, precision timing',
+            link: '/drummer/dirk-verbeuren'
+          }
+        ]
+      }
     },
 
     // Buying tips

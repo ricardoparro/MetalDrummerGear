@@ -362,7 +362,7 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer }) {
         </View>
       )}
 
-      {/* Budget Breakdown Section */}
+      {/* Budget Breakdown Section - Enhanced for Issue #801 */}
       {activeSection === 'budget' && (
         <View style={[styles.section, { backgroundColor: theme.card }]}>
           <Text style={[styles.sectionTitle, { color: theme.text }]}>{guide.budgetBreakdown.title}</Text>
@@ -370,14 +370,30 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer }) {
             {guide.budgetBreakdown.description}
           </Text>
           
-          <View style={[styles.totalBudgetBox, { backgroundColor: theme.primary + '20' }]}>
-            <Text style={[styles.totalBudgetLabel, { color: theme.secondaryText }]}>Total Budget</Text>
-            <Text style={[styles.totalBudgetValue, { color: theme.primary }]}>
-              ${guide.budgetBreakdown.totalBudget.toLocaleString()}
-            </Text>
-          </View>
+          {/* Quick Summary - Visual Budget at a Glance */}
+          {guide.budgetBreakdown.quickSummary && (
+            <View style={[styles.quickSummaryBox, { backgroundColor: theme.primary + '10', borderColor: theme.primary }]}>
+              <Text style={[styles.quickSummaryTitle, { color: theme.text }]}>💰 Budget at a Glance</Text>
+              <View style={styles.quickSummaryGrid}>
+                {guide.budgetBreakdown.quickSummary.map((item, index) => (
+                  <View key={index} style={[styles.quickSummaryItem, { backgroundColor: theme.card }]}>
+                    <Text style={styles.quickSummaryEmoji}>{item.emoji}</Text>
+                    <Text style={[styles.quickSummaryCategory, { color: theme.text }]}>{item.category}</Text>
+                    <Text style={[styles.quickSummaryAmount, { color: theme.primary }]}>${item.amount}</Text>
+                  </View>
+                ))}
+              </View>
+              <View style={[styles.quickSummaryTotal, { borderTopColor: theme.border }]}>
+                <Text style={[styles.quickSummaryTotalLabel, { color: theme.secondaryText }]}>Total Budget:</Text>
+                <Text style={[styles.quickSummaryTotalValue, { color: theme.primary }]}>
+                  ${guide.budgetBreakdown.totalBudget.toLocaleString()}
+                </Text>
+              </View>
+            </View>
+          )}
 
-          {/* Budget Categories */}
+          {/* Detailed Budget Categories */}
+          <Text style={[styles.subsectionTitle, { color: theme.text, marginTop: 24 }]}>📊 Detailed Breakdown</Text>
           {guide.budgetBreakdown.categories.map((category, index) => (
             <View key={index} style={[styles.budgetCategory, { borderColor: theme.border }]}>
               <View style={styles.budgetCategoryHeader}>
@@ -402,10 +418,72 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer }) {
                 </Text>
                 <Text style={[styles.budgetNotes, { color: theme.secondaryText }]}>{category.notes}</Text>
               </View>
+              {/* What's Included List */}
+              {category.includes && (
+                <View style={[styles.includesList, { backgroundColor: theme.background }]}>
+                  <Text style={[styles.includesTitle, { color: theme.text }]}>Includes:</Text>
+                  {category.includes.map((item, idx) => (
+                    <Text key={idx} style={[styles.includesItem, { color: theme.secondaryText }]}>• {item}</Text>
+                  ))}
+                </View>
+              )}
+              {/* Buying Tip */}
+              {category.buyingTip && (
+                <View style={[styles.buyingTipInline, { borderLeftColor: theme.primary }]}>
+                  <Text style={[styles.buyingTipText, { color: theme.secondaryText }]}>
+                    💡 {category.buyingTip}
+                  </Text>
+                </View>
+              )}
             </View>
           ))}
 
-          <View style={[styles.proTipBox, { backgroundColor: '#fef3c7', borderColor: '#f59e0b' }]}>
+          {/* Essential vs Optional Gear Section - Issue #801 */}
+          {guide.budgetBreakdown.essentialVsOptional && (
+            <View style={[styles.essentialOptionalSection, { marginTop: 32 }]}>
+              <Text style={[styles.sectionTitle, { color: theme.text }]}>
+                {guide.budgetBreakdown.essentialVsOptional.title}
+              </Text>
+              
+              {/* Essential Gear */}
+              <View style={[styles.gearTypeBox, { backgroundColor: '#dcfce7', borderColor: '#22c55e' }]}>
+                <Text style={[styles.gearTypeTitle, { color: '#166534' }]}>✅ Essential Gear (Must Have)</Text>
+                {guide.budgetBreakdown.essentialVsOptional.essential.map((item, index) => (
+                  <View key={index} style={styles.gearTypeRow}>
+                    <View style={styles.gearTypeInfo}>
+                      <Text style={[styles.gearTypeName, { color: '#166534' }]}>{item.item}</Text>
+                      <Text style={[styles.gearTypeReason, { color: '#15803d' }]}>{item.reason}</Text>
+                    </View>
+                    <Text style={[styles.gearTypeCost, { color: '#166534' }]}>{item.cost}</Text>
+                  </View>
+                ))}
+              </View>
+
+              {/* Optional Gear */}
+              <View style={[styles.gearTypeBox, { backgroundColor: '#fef3c7', borderColor: '#f59e0b', marginTop: 16 }]}>
+                <Text style={[styles.gearTypeTitle, { color: '#92400e' }]}>⭐ Optional Gear (Nice to Have)</Text>
+                {guide.budgetBreakdown.essentialVsOptional.optional.map((item, index) => (
+                  <View key={index} style={styles.gearTypeRow}>
+                    <View style={styles.gearTypeInfo}>
+                      <Text style={[styles.gearTypeName, { color: '#92400e' }]}>{item.item}</Text>
+                      <Text style={[styles.gearTypeReason, { color: '#a16207' }]}>{item.reason}</Text>
+                    </View>
+                    <Text style={[styles.gearTypeCost, { color: '#92400e' }]}>{item.cost}</Text>
+                  </View>
+                ))}
+              </View>
+
+              {/* Priority Order */}
+              <View style={[styles.priorityOrderBox, { backgroundColor: theme.background, borderColor: theme.border, marginTop: 16 }]}>
+                <Text style={[styles.priorityOrderTitle, { color: theme.text }]}>📋 Buy in This Order</Text>
+                {guide.budgetBreakdown.essentialVsOptional.priorityOrder.map((step, index) => (
+                  <Text key={index} style={[styles.priorityOrderStep, { color: theme.secondaryText }]}>{step}</Text>
+                ))}
+              </View>
+            </View>
+          )}
+
+          <View style={[styles.proTipBox, { backgroundColor: '#fef3c7', borderColor: '#f59e0b', marginTop: 24 }]}>
             <Text style={[styles.proTipLabel, { color: '#92400e' }]}>💡 Pro Tip</Text>
             <Text style={[styles.proTipText, { color: '#78350f' }]}>{guide.budgetBreakdown.proTip}</Text>
           </View>
@@ -837,6 +915,24 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer }) {
                 <Text style={[styles.upgradeRecommendation, { color: theme.text }]}>
                   ✓ Recommended: {upgrade.recommendation}
                 </Text>
+                {/* Pro Reference Link - Issue #801 */}
+                {upgrade.proReference && (
+                  <TouchableOpacity
+                    style={[styles.proReferenceLink, { borderColor: theme.primary }]}
+                    onPress={() => {
+                      const url = upgrade.proReference.category 
+                        ? `/drummer/${upgrade.proReference.drummerId}/${upgrade.proReference.category}`
+                        : `/drummer/${upgrade.proReference.drummerId}`;
+                      if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                        window.location.href = url;
+                      }
+                    }}
+                  >
+                    <Text style={[styles.proReferenceLinkText, { color: theme.primary }]}>
+                      👀 {upgrade.proReference.text} →
+                    </Text>
+                  </TouchableOpacity>
+                )}
               </View>
             </View>
           ))}
@@ -845,6 +941,51 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer }) {
             <Text style={[styles.savingsTitle, { color: '#166534' }]}>💰 Savings Strategy</Text>
             <Text style={[styles.savingsText, { color: '#15803d' }]}>{guide.upgradePath.savingsStrategy}</Text>
           </View>
+
+          {/* Pro Setup Showcase - Issue #801: Link to Pro Setups */}
+          {guide.upgradePath.proSetupShowcase && (
+            <View style={[styles.proShowcaseSection, { marginTop: 32 }]}>
+              <Text style={[styles.sectionTitle, { color: theme.text }]}>
+                {guide.upgradePath.proSetupShowcase.title}
+              </Text>
+              <Text style={[styles.sectionContent, { color: theme.secondaryText }]}>
+                {guide.upgradePath.proSetupShowcase.description}
+              </Text>
+              
+              <View style={styles.proShowcaseGrid}>
+                {guide.upgradePath.proSetupShowcase.drummers.map((drummer, index) => (
+                  <TouchableOpacity
+                    key={index}
+                    style={[styles.proShowcaseCard, { backgroundColor: theme.background, borderColor: theme.border }]}
+                    onPress={() => {
+                      if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                        // Track click
+                        if (window.gtag) {
+                          window.gtag('event', 'pro_setup_click', {
+                            guide: 'beginner-metal-drummer-setup',
+                            drummer: drummer.id
+                          });
+                        }
+                        window.location.href = drummer.link;
+                      }
+                    }}
+                  >
+                    <Text style={[styles.proShowcaseName, { color: theme.text }]}>{drummer.name}</Text>
+                    <Text style={[styles.proShowcaseBand, { color: theme.primary }]}>{drummer.band}</Text>
+                    <Text style={[styles.proShowcaseGear, { color: theme.secondaryText }]}>
+                      🥁 {drummer.signatureGear}
+                    </Text>
+                    <Text style={[styles.proShowcaseWhy, { color: theme.secondaryText }]}>
+                      Study for: {drummer.whyStudy}
+                    </Text>
+                    <View style={[styles.proShowcaseButton, { backgroundColor: theme.primary }]}>
+                      <Text style={styles.proShowcaseButtonText}>View Full Setup →</Text>
+                    </View>
+                  </TouchableOpacity>
+                ))}
+              </View>
+            </View>
+          )}
         </View>
       )}
 
@@ -1960,6 +2101,217 @@ const styles = {
   footerButtonText: {
     color: '#fff',
     fontSize: 14,
+    fontWeight: '600',
+  },
+  // ==========================================
+  // New Styles for Issue #801 Enhancements
+  // ==========================================
+  subsectionTitle: {
+    fontSize: 18,
+    fontWeight: '700',
+    marginBottom: 16,
+  },
+  // Quick Summary Styles
+  quickSummaryBox: {
+    padding: 20,
+    borderRadius: 16,
+    borderWidth: 2,
+    marginBottom: 8,
+  },
+  quickSummaryTitle: {
+    fontSize: 18,
+    fontWeight: '700',
+    marginBottom: 16,
+    textAlign: 'center',
+  },
+  quickSummaryGrid: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 12,
+    justifyContent: 'center',
+    marginBottom: 16,
+  },
+  quickSummaryItem: {
+    padding: 16,
+    borderRadius: 12,
+    alignItems: 'center',
+    minWidth: 100,
+    flex: 1,
+  },
+  quickSummaryEmoji: {
+    fontSize: 28,
+    marginBottom: 8,
+  },
+  quickSummaryCategory: {
+    fontSize: 14,
+    fontWeight: '600',
+    marginBottom: 4,
+  },
+  quickSummaryAmount: {
+    fontSize: 20,
+    fontWeight: '800',
+  },
+  quickSummaryTotal: {
+    flexDirection: 'row',
+    justifyContent: 'center',
+    alignItems: 'center',
+    gap: 12,
+    paddingTop: 16,
+    borderTopWidth: 1,
+  },
+  quickSummaryTotalLabel: {
+    fontSize: 16,
+    fontWeight: '600',
+  },
+  quickSummaryTotalValue: {
+    fontSize: 24,
+    fontWeight: '800',
+  },
+  // Includes List Styles
+  includesList: {
+    marginTop: 12,
+    padding: 12,
+    borderRadius: 8,
+  },
+  includesTitle: {
+    fontSize: 13,
+    fontWeight: '700',
+    marginBottom: 8,
+  },
+  includesItem: {
+    fontSize: 13,
+    lineHeight: 20,
+    marginBottom: 2,
+  },
+  // Buying Tip Inline
+  buyingTipInline: {
+    marginTop: 12,
+    paddingLeft: 12,
+    borderLeftWidth: 3,
+  },
+  buyingTipText: {
+    fontSize: 13,
+    fontStyle: 'italic',
+    lineHeight: 18,
+  },
+  // Essential vs Optional Section Styles
+  essentialOptionalSection: {
+    marginTop: 24,
+  },
+  gearTypeBox: {
+    padding: 16,
+    borderRadius: 12,
+    borderLeftWidth: 4,
+  },
+  gearTypeTitle: {
+    fontSize: 16,
+    fontWeight: '700',
+    marginBottom: 12,
+  },
+  gearTypeRow: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'flex-start',
+    paddingVertical: 10,
+    borderBottomWidth: 1,
+    borderBottomColor: 'rgba(0,0,0,0.1)',
+  },
+  gearTypeInfo: {
+    flex: 1,
+    paddingRight: 12,
+  },
+  gearTypeName: {
+    fontSize: 14,
+    fontWeight: '600',
+    marginBottom: 2,
+  },
+  gearTypeReason: {
+    fontSize: 12,
+    lineHeight: 16,
+  },
+  gearTypeCost: {
+    fontSize: 13,
+    fontWeight: '700',
+    minWidth: 80,
+    textAlign: 'right',
+  },
+  // Priority Order Styles
+  priorityOrderBox: {
+    padding: 16,
+    borderRadius: 12,
+    borderWidth: 1,
+  },
+  priorityOrderTitle: {
+    fontSize: 16,
+    fontWeight: '700',
+    marginBottom: 12,
+  },
+  priorityOrderStep: {
+    fontSize: 14,
+    lineHeight: 24,
+    marginBottom: 4,
+  },
+  // Pro Reference Link Styles
+  proReferenceLink: {
+    marginTop: 12,
+    paddingVertical: 10,
+    paddingHorizontal: 16,
+    borderRadius: 8,
+    borderWidth: 2,
+    borderStyle: 'dashed',
+    alignSelf: 'flex-start',
+  },
+  proReferenceLinkText: {
+    fontSize: 13,
+    fontWeight: '600',
+  },
+  // Pro Showcase Section Styles
+  proShowcaseSection: {
+    marginTop: 32,
+  },
+  proShowcaseGrid: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 12,
+    marginTop: 16,
+  },
+  proShowcaseCard: {
+    flex: 1,
+    minWidth: 160,
+    padding: 16,
+    borderRadius: 12,
+    borderWidth: 1,
+  },
+  proShowcaseName: {
+    fontSize: 16,
+    fontWeight: '700',
+    marginBottom: 4,
+  },
+  proShowcaseBand: {
+    fontSize: 14,
+    fontWeight: '600',
+    marginBottom: 8,
+  },
+  proShowcaseGear: {
+    fontSize: 12,
+    lineHeight: 16,
+    marginBottom: 4,
+  },
+  proShowcaseWhy: {
+    fontSize: 11,
+    lineHeight: 14,
+    marginBottom: 12,
+    fontStyle: 'italic',
+  },
+  proShowcaseButton: {
+    paddingVertical: 8,
+    paddingHorizontal: 12,
+    borderRadius: 6,
+    alignItems: 'center',
+  },
+  proShowcaseButtonText: {
+    color: '#fff',
+    fontSize: 12,
     fontWeight: '600',
   },
 };

@@ -278,6 +278,61 @@ function getMetaForPath(pathname) {
     };
   }
 
+  // Signature Licks - Issue #799
+  if (path === '/signature-licks' || path === '/tools/signature-licks') {
+    return {
+      title: `Metal Drummer Signature Licks — Learn Iconic Drum Patterns | ${SITE_NAME}`,
+      description: 'Learn the signature drum patterns and fills that define metal\'s greatest drummers. From blast beats to groove fills, master the licks that made them legends.',
+      image: `${BASE_URL}/images/og/signature-licks-preview.png`,
+      type: 'website',
+      url: `${BASE_URL}/signature-licks`,
+    };
+  }
+
+  // Kit Quiz - Issue #799
+  if (path === '/kit-quiz') {
+    return {
+      title: `Which Metal Drummer Kit Matches Your Style? | ${SITE_NAME}`,
+      description: 'Take our quiz to find the perfect drum kit for your playing style. Get personalized recommendations based on your preferences and budget.',
+      image: `${BASE_URL}/og-quiz.png`,
+      type: 'website',
+      url: `${BASE_URL}/kit-quiz`,
+    };
+  }
+
+  // Kit Builder - Issue #799
+  if (path === '/kit-builder' || path.startsWith('/tools/kit-builder')) {
+    return {
+      title: `Virtual Drum Kit Builder — Design Your Dream Setup | ${SITE_NAME}`,
+      description: 'Build your dream metal drum kit piece by piece. Mix and match shells, cymbals, and hardware from legendary drummers. Get price estimates and affiliate links.',
+      image: `${BASE_URL}/images/og/kit-builder-preview.png`,
+      type: 'website',
+      url: `${BASE_URL}/kit-builder`,
+    };
+  }
+
+  // Guess the Kit - Issue #799
+  if (path === '/guess-the-kit') {
+    return {
+      title: `Guess the Kit — Metal Drummer Trivia Game | ${SITE_NAME}`,
+      description: 'Test your metal gear knowledge! Can you identify which legendary drummer owns this kit? Daily challenges with shareable results.',
+      image: `${BASE_URL}/images/og/guess-the-kit-preview.png`,
+      type: 'website',
+      url: `${BASE_URL}/guess-the-kit`,
+    };
+  }
+
+  // Birthdays Calendar - Issue #799
+  if (path === '/birthdays') {
+    return {
+      title: `Metal Drummer Birthday Calendar | ${SITE_NAME}`,
+      description: 'Never miss a metal drummer birthday! Browse our complete calendar of legendary drummers\' birthdays. Share and celebrate with the metal community.',
+      image: `${BASE_URL}/images/og/birthdays-preview.png`,
+      type: 'website',
+      url: `${BASE_URL}/birthdays`,
+    };
+  }
+
   // Articles pages (Issue #777: Add Article schema to content articles)
   const articlesMatch = path.match(/^\/articles\/([a-z0-9-]+)$/);
   if (articlesMatch) {

@@ -283,6 +283,7 @@
 | 2026-03-26 | What's In Igor Cavalera's Tribal Arsenal | /articles/whats-in-igor-cavaleras-kit | - |
 | 2026-03-26 | Beneath the Remains Drum Setup: Igor Cavalera | /articles/beneath-the-remains-drum-setup | - |
 | 2026-03-26 | Chaos A.D. Drum Setup: Igor Cavalera | /articles/chaos-ad-drum-setup | - |
+| 2026-03-27 | What's In Matt Garstka's Kit | /articles/whats-in-matt-garstkas-kit | - |
 
 ---
 
@@ -458,7 +459,7 @@
 
 ---
 
-### ✍️ [IDEA-023] What's In Matt Garstka's Animals As Leaders Kit
+### ✅ [IDEA-023] What's In Matt Garstka's Animals As Leaders Kit
 
 **Type:** drummer-kit
 **SEO Keywords:** matt garstka drum kit, animals as leaders drummer, matt garstka setup, djent drums, prog metal drums
@@ -474,7 +475,7 @@
 5. How He Joined AAL and Changed Their Sound
 6. Where to Buy Similar Gear
 
-**Status:** WRITING (2026-03-27)
+**Status:** PUBLISHED (2026-03-27) — /articles/whats-in-matt-garstkas-kit
 
 ---
 
@@ -1036,4 +1037,4 @@
 
 ---
 
-*Last updated: 2026-03-26 17:05*
+*Last updated: 2026-03-27 13:00*

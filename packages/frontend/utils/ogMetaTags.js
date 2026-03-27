@@ -739,6 +739,32 @@ export function updateToolsHubMeta() {
 }
 
 /**
+ * Update OG meta for signature licks page (Issue #799)
+ * SEO: Unique page titles and meta descriptions for feature pages
+ */
+export function updateSignatureLicksMeta() {
+  updateOgMeta({
+    title: 'Metal Drummer Signature Licks — Learn Iconic Drum Patterns | MetalForge',
+    description: 'Learn the signature drum patterns and fills that define metal\'s greatest drummers. From blast beats to groove fills, master the licks that made them legends.',
+    url: '/signature-licks',
+    keywords: 'signature drum licks, metal drum patterns, drum fills, blast beat patterns, groove metal fills, iconic drum patterns',
+  });
+}
+
+/**
+ * Update OG meta for guess the kit game (Issue #799)
+ * SEO: Unique page titles and meta descriptions for feature pages
+ */
+export function updateGuessTheKitMeta() {
+  updateOgMeta({
+    title: 'Guess the Kit — Metal Drummer Trivia Game | MetalForge',
+    description: 'Test your metal gear knowledge! Can you identify which legendary drummer owns this kit? Daily challenges with shareable results.',
+    url: '/guess-the-kit',
+    keywords: 'guess the kit, metal drummer trivia, drum kit quiz, metal gear trivia, drummer guessing game',
+  });
+}
+
+/**
  * Update OG meta for gear statistics page (Issue #695, #769)
  * Issue #769: Uses dynamic OG image API
  */
@@ -815,4 +841,6 @@ export default {
   updateSoundLikeGuideMeta,
   updateGearStatsMeta,
   updateToolsHubMeta,
+  updateSignatureLicksMeta,
+  updateGuessTheKitMeta,
 };

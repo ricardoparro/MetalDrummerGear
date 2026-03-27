@@ -458,23 +458,23 @@
 
 ---
 
-### 💡 [IDEA-023] What's In Matt Garstka's Animals As Leaders Kit
+### ✍️ [IDEA-023] What's In Matt Garstka's Animals As Leaders Kit
 
 **Type:** drummer-kit
 **SEO Keywords:** matt garstka drum kit, animals as leaders drummer, matt garstka setup, djent drums, prog metal drums
 **Search Volume:** High (AAL album cycle + YouTube presence)
-**Data Available:** Partial (needs research)
+**Data Available:** Yes (drummerId: 53, extendedBios)
 **Priority:** 4
 
 **Outline:**
 1. Introduction — The YouTube Generation's Prog Hero
-2. Current Tama Starclassic Setup
-3. Electronic Integration & Hybrid Approach
+2. Current Pearl Masterworks Setup
+3. Meinl Byzance Cymbal Arsenal
 4. Signature Techniques (ghost notes, polyrhythms)
 5. How He Joined AAL and Changed Their Sound
 6. Where to Buy Similar Gear
 
-**Status:** IDEA (added 2026-03-17)
+**Status:** WRITING (2026-03-27)
 
 ---
 

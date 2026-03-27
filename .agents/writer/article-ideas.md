@@ -284,6 +284,7 @@
 | 2026-03-26 | Beneath the Remains Drum Setup: Igor Cavalera | /articles/beneath-the-remains-drum-setup | - |
 | 2026-03-26 | Chaos A.D. Drum Setup: Igor Cavalera | /articles/chaos-ad-drum-setup | - |
 | 2026-03-27 | What's In Matt Garstka's Kit | /articles/whats-in-matt-garstkas-kit | - |
+| 2026-03-27 | What's In Derek Roddy's Speed Arsenal | /articles/whats-in-derek-roddys-kit | - |
 
 ---
 
@@ -985,23 +986,23 @@
 
 ---
 
-### 💡 [IDEA-050] What's In Derek Roddy's Speed Arsenal
+### ✅ [IDEA-050] What's In Derek Roddy's Speed Arsenal
 
 **Type:** drummer-kit
 **SEO Keywords:** derek roddy drum kit, hate eternal drummer, derek roddy setup, extreme metal drums, fastest drummer
 **Search Volume:** HIGH (legendary extreme metal drummer, educational presence)
-**Data Available:** Partial (needs research)
+**Data Available:** Yes (extendedBios + research)
 **Priority:** 4
 
 **Outline:**
 1. Introduction — The Human Metronome
-2. Current Tama Setup
-3. Signature Techniques (single-stroke blast mastery)
-4. Educational Impact (DVD, clinics, online lessons)
-5. Hate Eternal, Nile, Malevolent Creation Legacy
+2. Current DW Setup
+3. Signature Techniques (freehand blast, swivel technique)
+4. Educational Impact (Evolution of Blast Beats DVD, clinics)
+5. Hate Eternal, Nile Legacy
 6. Where to Buy Similar Gear
 
-**Status:** IDEA (added 2026-03-26)
+**Status:** PUBLISHED (2026-03-27) — /articles/whats-in-derek-roddys-kit
 
 ---
 
@@ -1037,4 +1038,4 @@
 
 ---
 
-*Last updated: 2026-03-27 13:00*
+*Last updated: 2026-03-27 17:05*

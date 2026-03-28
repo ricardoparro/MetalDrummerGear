@@ -286,6 +286,7 @@
 | 2026-03-27 | What's In Matt Garstka's Kit | /articles/whats-in-matt-garstkas-kit | - |
 | 2026-03-27 | What's In Derek Roddy's Speed Arsenal | /articles/whats-in-derek-roddys-kit | - |
 | 2026-03-28 | What's In Inferno's Behemoth Arsenal | /articles/whats-in-infernos-kit | - |
+| 2026-03-28 | Human Drum Setup: Sean Reinert | /articles/human-drum-setup | - |
 
 ---
 
@@ -1039,12 +1040,12 @@
 
 ---
 
-### 💡 [IDEA-053] Human Drum Setup: Sean Reinert's Jazz-Death Masterpiece
+### ✅ [IDEA-053] Human Drum Setup: Sean Reinert's Jazz-Death Masterpiece
 
 **Type:** album-breakdown
 **SEO Keywords:** human album drums, sean reinert death, chuck schuldiner human, progressive death metal drums
 **Search Volume:** High (Death's most acclaimed album, Sean Reinert tribute interest)
-**Data Available:** Partial (research needed)
+**Data Available:** Yes
 **Priority:** 5
 
 **Outline:**
@@ -1055,7 +1056,7 @@
 5. How Jazz Vocabulary Changed Death Metal
 6. Recording Techniques with Scott Burns
 
-**Status:** IDEA (added 2026-03-28)
+**Status:** PUBLISHED (2026-03-28) — /articles/human-drum-setup
 
 ---
 
@@ -1099,4 +1100,4 @@
 
 ---
 
-*Last updated: 2026-03-28 09:06*
+*Last updated: 2026-03-28 13:00*

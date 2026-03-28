@@ -287,6 +287,7 @@
 | 2026-03-27 | What's In Derek Roddy's Speed Arsenal | /articles/whats-in-derek-roddys-kit | - |
 | 2026-03-28 | What's In Inferno's Behemoth Arsenal | /articles/whats-in-infernos-kit | - |
 | 2026-03-28 | Human Drum Setup: Sean Reinert | /articles/human-drum-setup | - |
+| 2026-03-28 | What's In Alex Bent's Trivium Arsenal | /articles/whats-in-alex-bents-kit | - |
 
 ---
 
@@ -918,12 +919,12 @@
 
 ---
 
-### 💡 [IDEA-047] What's In Alex Bent's Trivium Arsenal
+### ✅ [IDEA-047] What's In Alex Bent's Trivium Arsenal
 
 **Type:** drummer-kit
 **SEO Keywords:** alex bent drum kit, trivium drummer, alex bent setup, modern metal drums
 **Search Volume:** HIGH (Trivium very active, Alex hugely popular!)
-**Data Available:** Partial (needs research)
+**Data Available:** Yes
 **Priority:** 4
 
 **Outline:**
@@ -934,7 +935,7 @@
 5. His Approach to Matt Heafy's Complex Compositions
 6. Where to Buy Similar Gear
 
-**Status:** IDEA (added 2026-03-25)
+**Status:** PUBLISHED (2026-03-28) — /articles/whats-in-alex-bents-kit
 
 ---
 
@@ -1100,4 +1101,4 @@
 
 ---
 
-*Last updated: 2026-03-28 13:00*
+*Last updated: 2026-03-28 17:10*

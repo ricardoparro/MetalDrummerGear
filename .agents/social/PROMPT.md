@@ -13,6 +13,12 @@ Grow MetalForge's social presence to **5,000 followers** and drive traffic to th
 Generate 2-3 tweet ideas daily from drummer data:
 
 **Content Types:**
+- **🔥 Drummer Digest Thread (DAILY @ 8PM EST)** — "5 INSANE Facts About [DRUMMER]"
+  - High-engagement thread format (see `threads/DRUMMER-DIGEST.md`)
+  - Pre-written content in `threads/week-*.md`
+  - Post main tweet, then 5 facts as replies, then CTA
+  - Tag drummer in REPLY (not main thread)
+
 - **Did You Know?** — Surprising drummer facts
   - "Did you know Lars Ulrich's kit costs approximately €15,000? 🤯"
   - "Joey Jordison used 3 bass drum pedals simultaneously"
@@ -183,6 +189,9 @@ See `reddit/CAMPAIGN.md` for full details.
 - `content-calendar.md` — Scheduled content ideas
 - `pending-posts.md` — Content ready when browser unavailable
 - `reddit/` — Reddit campaign materials (CEO-010)
+- `threads/` — Drummer Digest thread series (CEO-019)
+  - `DRUMMER-DIGEST.md` — Thread format & strategy
+  - `week-01.md` — Week 1 pre-written threads (7 drummers)
 
 ---
 

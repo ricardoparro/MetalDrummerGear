@@ -1,188 +1,83 @@
 # Reddit Campaign Tracking — CEO-010
 
-## Campaign Status
+*Track post performance during the 7-day campaign.*
 
-**Status:** ⏸️ WAITING FOR ACCOUNT  
+## Campaign Status: ⏳ NOT STARTED
+
 **Start Date:** TBD  
-**Account:** TBD
+**End Date:** TBD
 
 ---
 
-## Summary
+## Post Performance
 
-| Metric | Target | Current | % |
-|--------|--------|---------|---|
-| Total visits (7 days) | 1,500 | 0 | 0% |
-| Combined upvotes | 50 | 0 | 0% |
-| Total comments | 30 | 0 | 0% |
-| Posts not removed | 3 | 0 | 0% |
-| Quiz completions | 150 | 0 | 0% |
-
----
-
-## Posts
-
-### Post 1: r/drums — Database Launch
-
-**Status:** 📝 Ready  
-**Scheduled:** TBD (Monday 10 AM EST)  
-**Posted:** —  
-**Reddit URL:** —
-
-**24h Metrics:**
-- Upvotes: —
-- Comments: —
-- Upvote ratio: —
-- Removed: —
-
-**GA4 (7 days):**
-- Sessions from reddit.com: —
-- Pages/session: —
-- Avg. engagement time: —
-
-**Notes:** —
+| Day | Date | Subreddit | Post | Upvotes | Comments | Removed? | Traffic |
+|-----|------|-----------|------|---------|----------|----------|---------|
+| 1 | - | r/drums | Database | - | - | - | - |
+| 3 | - | r/Metal | Quiz | - | - | - | - |
+| 5 | - | r/MetalMemes | Generator | - | - | - | - |
+| 6 | - | r/Metalcore | Stats | - | - | - | - |
+| 7 | - | r/BeginnerDrummers | Guide | - | - | - | - |
 
 ---
 
-### Post 2: r/Metal — Drummer Quiz
+## Aggregates
 
-**Status:** 📝 Ready  
-**Scheduled:** TBD (Friday 8 PM EST)  
-**Posted:** —  
-**Reddit URL:** —
-
-**24h Metrics:**
-- Upvotes: —
-- Comments: —
-- Upvote ratio: —
-- Removed: —
-
-**GA4 (7 days):**
-- Sessions from reddit.com: —
-- Pages/session: —
-- Avg. engagement time: —
-
-**Notes:** —
+| Metric | Target | Actual |
+|--------|--------|--------|
+| Total site visits | 1,500+ | - |
+| Combined upvotes | 50+ | - |
+| Total comments | 30+ | - |
+| Posts not removed | 3+ | - |
+| Tool engagement | 10% | - |
 
 ---
 
-### Post 3: r/Metalcore — Stats Hub
+## Daily Traffic (GA4)
 
-**Status:** 📝 Ready  
-**Scheduled:** TBD (Tue/Wed morning)  
-**Posted:** —  
-**Reddit URL:** —
-
-**24h Metrics:**
-- Upvotes: —
-- Comments: —
-- Upvote ratio: —
-- Removed: —
-
-**GA4 (7 days):**
-- Sessions from reddit.com: —
-- Pages/session: —
-- Avg. engagement time: —
-
-**Notes:** —
+| Date | Reddit Referrals | Total Site Visits | Quiz Plays | Name Gen Uses |
+|------|------------------|-------------------|------------|---------------|
+| Day 1 | - | - | - | - |
+| Day 2 | - | - | - | - |
+| Day 3 | - | - | - | - |
+| Day 4 | - | - | - | - |
+| Day 5 | - | - | - | - |
+| Day 6 | - | - | - | - |
+| Day 7 | - | - | - | - |
 
 ---
 
-### Post 4: r/BeginnerDrummers — Beginner Guide
+## Post Links (fill in after posting)
 
-**Status:** 📝 Ready  
-**Scheduled:** TBD (Sunday afternoon)  
-**Posted:** —  
-**Reddit URL:** —
-
-**24h Metrics:**
-- Upvotes: —
-- Comments: —
-- Upvote ratio: —
-- Removed: —
-
-**GA4 (7 days):**
-- Sessions from reddit.com: —
-- Pages/session: —
-- Avg. engagement time: —
-
-**Notes:** —
+| Post | Reddit URL |
+|------|------------|
+| Day 1 Database | |
+| Day 3 Quiz | |
+| Day 5 Generator | |
+| Day 6 Stats | |
+| Day 7 Guide | |
 
 ---
 
-### Post 5: r/MetalMemes — Name Generator
+## Notes
 
-**Status:** 📝 Ready  
-**Scheduled:** TBD (Weekday evening)  
-**Posted:** —  
-**Reddit URL:** —
+*Add observations, learnings, and adjustments during campaign:*
 
-**24h Metrics:**
-- Upvotes: —
-- Comments: —
-- Upvote ratio: —
-- Removed: —
-
-**GA4 (7 days):**
-- Sessions from reddit.com: —
-- Pages/session: —
-- Avg. engagement time: —
-
-**Notes:** —
-
----
-
-### Post 6: r/progmetal — Stats Deep Dive
-
-**Status:** 📝 Ready  
-**Scheduled:** TBD (Weekday evening)  
-**Posted:** —  
-**Reddit URL:** —
-
-**24h Metrics:**
-- Upvotes: —
-- Comments: —
-- Upvote ratio: —
-- Removed: —
-
-**GA4 (7 days):**
-- Sessions from reddit.com: —
-- Pages/session: —
-- Avg. engagement time: —
-
-**Notes:** —
-
----
-
-## Weekly Summary
-
-### Week 1
-
-**Total Visits:** —  
-**Best Performing Post:** —  
-**Lessons Learned:** —
-
-### Week 2
-
-**Total Visits:** —  
-**Best Performing Post:** —  
-**Lessons Learned:** —
-
----
-
-## Campaign Retrospective
-
-*(To be completed after all posts)*
-
-**What Worked:**
-- 
-
-**What Didn't:**
-- 
-
-**Recommendations for Next Campaign:**
 - 
 
 ---
 
-*Last Updated: Not yet started*
+## Post-Campaign Analysis
+
+**What worked:**
+- 
+
+**What didn't:**
+- 
+
+**Learnings for next campaign:**
+- 
+
+---
+
+*Updated: 2026-03-28*

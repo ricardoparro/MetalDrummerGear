@@ -14399,6 +14399,299 @@ Whether you're building a Roddy-inspired setup or just seeking to understand ext
 
 🥁 *Derek Roddy — proving that the fastest drumming comes from the smartest technique.* 🥁`
     }
+  },
+
+  // What's In Inferno's Behemoth Arsenal - Added 2026-03-28
+  'whats-in-infernos-kit': {
+    slug: 'whats-in-infernos-kit',
+    articleType: 'drummer-kit',
+    drummer: 'Inferno',
+    drummerId: 19,
+    band: 'Behemoth',
+    bands: ['Behemoth', 'Azarath'],
+    genre: 'Blackened Death Metal',
+    country: 'Poland',
+    isAlbumArticle: true,
+    datePublished: '2026-03-28',
+    dateModified: '2026-03-28',
+    author: 'MetalForge Editorial',
+    // SEO
+    title: "What's In Inferno's Behemoth Arsenal: Complete Gear Breakdown",
+    description: "Complete breakdown of Inferno's drum setup for Behemoth. Discover the Pearl drums, Meinl cymbals, and gear that power one of extreme metal's most devastating drummers.",
+    seoKeywords: ['inferno drum kit', 'behemoth drummer gear', 'inferno pearl drums', 'inferno setup', 'behemoth drums', 'extreme metal drums', 'polish death metal'],
+    ogImage: '/images/drummers/inferno.webp',
+    // Introduction
+    intro: {
+      title: 'The Machine Behind Behemoth',
+      content: `In the apocalyptic theater of Behemoth's live performances, seated upon a towering drum riser like a demonic throne, sits one of extreme metal's most devastating drummers: Inferno.
+
+Born Zbigniew Robert Promiński on March 23, 1979, in Gdańsk, Poland, Inferno has been the rhythmic foundation of Behemoth since 1997. That's over 27 years of relentless blast beats, surgical precision, and the kind of stamina that seems almost inhuman.
+
+While frontman Nergal commands the spotlight with his controversial pronouncements and theatrical presence, it's Inferno's drumming that drives Behemoth's sound—a devastating combination of black metal intensity and death metal technicality. From the rawness of "Satanica" through the masterpiece of "The Satanist" to the recent "Opvs Contra Natvram," his playing has evolved while maintaining its core brutality.
+
+This article breaks down every piece of gear Inferno uses to create his punishing sound. From his Pearl Reference Pure drums to his Meinl cymbal arsenal, we'll explore the equipment that powers one of extreme metal's most consistent and respected performers.`,
+      keyPoints: [
+        'Pearl Drums endorsee — Reference Pure Series setup',
+        'Meinl Cymbals — Classics Custom Dark and Byzance series',
+        'Pearl Demon Drive pedals for maximum speed and control',
+        'Over 27 years with Behemoth — the longest-serving member',
+        'Grammy-nominated performances on "I Loved You at Your Darkest"'
+      ]
+    },
+    // Drum Kit Section
+    drumKit: {
+      title: "Inferno's Pearl Reference Pure Setup",
+      brand: 'Pearl',
+      model: 'Pearl Reference Pure Series',
+      finish: 'Custom Finishes (varies by tour)',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum (x2)'],
+        toms: ['10" x 7" Rack Tom', '12" x 8" Rack Tom'],
+        floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom'],
+        shells: 'Maple/Birch reference-quality shells'
+      },
+      description: `Inferno's Pearl Reference Pure kit is built for one purpose: to deliver extreme metal power with absolute consistency. The Reference Pure series represents Pearl's commitment to tonal clarity and projection—essential qualities when playing at the tempos and intensities Behemoth demands.
+
+The double 22" x 18" bass drum setup provides the visual impact of a classic extreme metal configuration while giving Inferno independent control over each drum's tone. Unlike drummers who use a double pedal on a single bass drum, Inferno prefers the response and feel of two separate drums. They're triggered for additional attack consistency during Behemoth's blistering passages.
+
+The tom configuration is deliberately minimal—two rack toms and two floor toms. This streamlined setup reflects Inferno's playing style: efficient, powerful, and focused on driving the band rather than flashy fills. Every piece of the kit serves a purpose in Behemoth's apocalyptic sound.
+
+The Reference Pure shells combine maple and birch for a powerful, focused tone with excellent projection. The maple provides warmth and sustain, while the birch adds attack and cut—crucial for maintaining clarity during blast beats at 230+ BPM.`,
+      notes: [
+        'Double bass drums for visual impact and independent tonal control',
+        'Reference Pure series for maximum clarity at extreme speeds',
+        'Triggered bass drums for consistent attack during blasts',
+        'Minimal tom configuration for efficiency and power',
+        'Custom finishes to match Behemoth\'s theatrical staging'
+      ],
+      estimatedValue: '$5,000-8,000 (Reference Pure custom configuration)'
+    },
+    // Snare Section
+    snare: {
+      title: 'The Blast Beat Foundation',
+      brand: 'Pearl',
+      model: 'Pearl Reference 14" x 5.5" Brass/Steel',
+      size: '14" x 5.5"',
+      shell: 'Brass or Steel (alternates based on tour/album)',
+      description: `The snare drum is the most critical element in extreme metal drumming—it must cut through walls of distorted guitars during sustained blast beats while maintaining articulation. Inferno's Pearl Reference snare delivers exactly that.
+
+At 14" x 5.5", the drum strikes a balance between projection and responsiveness. The brass shell provides brightness and cut, while maintaining enough body to avoid sounding thin at high volumes. For some tours and recordings, Inferno has alternated with a steel shell variant for an even more cutting attack.
+
+The snare's tuning is crucial for blast beat clarity. Inferno tunes it relatively high with moderate snare wire tension, allowing each stroke to speak clearly even at extreme speeds. This is essential for Behemoth's music, where the snare often carries rhythmic information that would be lost with muddier tuning.
+
+The die-cast hoops on the Reference series add focus and consistency to the rimshot attacks that punctuate Behemoth's heaviest moments. Combined with durable drumheads, this snare can withstand the punishment of Inferno's demanding live performances.`,
+      tuningSetting: 'Medium-high tension for clarity, moderate snare wire tension',
+      heads: 'Remo Emperor X or Evans HD Dry (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$500-700 (Pearl Reference snare)'
+    },
+    // Cymbals Section
+    cymbals: {
+      title: 'Meinl Darkness',
+      brand: 'Meinl',
+      series: 'Meinl Classics Custom Dark / Byzance',
+      setup: [
+        { type: 'Hi-Hats', model: 'Meinl Classics Custom Dark 14" Hi-Hats', position: 'Left side', notes: 'Dark, controlled sound for fast patterns' },
+        { type: 'Crash', model: 'Meinl Classics Custom Dark 16" Crash', position: 'Far left', notes: 'Quick, explosive crash' },
+        { type: 'Crash', model: 'Meinl Classics Custom Dark 18" Crash', position: 'Over rack toms', notes: 'Primary crash position' },
+        { type: 'Crash', model: 'Meinl Byzance Brilliant 19" Medium Thin Crash', position: 'Right of toms', notes: 'Cutting attack for accents' },
+        { type: 'Ride', model: 'Meinl Classics Custom Dark 22" Ride', position: 'Far right', notes: 'Dark ride with defined bell' },
+        { type: 'China', model: 'Meinl Classics Custom Dark 18" China', position: 'Above floor tom', notes: 'Aggressive, trashy accents' },
+        { type: 'Splash', model: 'Meinl Classics Custom 10" Splash', position: 'Between toms', notes: 'Quick accent cymbal' }
+      ],
+      description: `Inferno's cymbal setup is built around Meinl's Classics Custom Dark series—cymbals specifically designed for darker tonal characteristics while maintaining the durability needed for extreme metal playing.
+
+The "Dark" designation is significant. Unlike bright, cutting cymbals favored by some metal drummers, the Classics Custom Dark series offers a more controlled, complex tone. This might seem counterintuitive for extreme metal, but it actually serves Behemoth's sound perfectly: the darker cymbals blend with the heavily distorted guitars rather than fighting them.
+
+The 14" Dark hi-hats provide the articulation needed for Inferno's demanding foot patterns while offering enough weight to project during open crashes. His closed hi-hat technique during blast beats is exceptionally clean—each hit speaks clearly without excessive sustain.
+
+Multiple crash cymbals give dynamic options: the 16" for quick accents, the 18" for standard crashes, and the Byzance 19" for moments requiring more cut. The 22" Dark Ride serves multiple functions—riding, crashing, and bell work.
+
+The 18" China cymbal is essential for Behemoth's sound. Those trashy, explosive accents punctuate transitions and add aggression to key moments. Meinl's Classics Custom Chinas are durable enough to withstand Inferno's heavy hitting while delivering consistent tone.`,
+      estimatedValue: '$2,000-2,500 total (Meinl professional setup)'
+    },
+    // Hardware Section
+    hardware: {
+      title: 'The Foundation of Speed',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'Pearl',
+          model: 'Pearl Demon Drive Double Pedal',
+          notes: 'Direct drive for maximum speed and response',
+          description: 'The Demon Drive is Pearl\'s flagship pedal, featuring direct drive for instant response. Inferno\'s footwork at extreme tempos requires pedals that can keep up with his demanding technique. The Demon Drive\'s adjustable settings allow fine-tuning for maximum speed while maintaining control.'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Pearl',
+          model: 'Pearl Demon Series Hi-Hat Stand',
+          notes: 'Heavy-duty construction for aggressive footwork'
+        },
+        {
+          type: 'Throne',
+          brand: 'Pearl',
+          model: 'Pearl Roadster D-3500BR',
+          notes: 'Comfortable, adjustable throne for long performances'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth American Classic 5B or 2B',
+          notes: 'Heavy sticks for power and durability at extreme speeds'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke P3 Clear with Falam Slam patch',
+        toms: 'Remo Emperor Clear or Evans G2 Clear',
+        snare: 'Remo Emperor X or Evans HD Dry'
+      }
+    },
+    // Recording/Live Techniques
+    recordingTechniques: {
+      title: 'Capturing the Apocalypse: Studio and Live',
+      content: `Recording Inferno's drumming presents unique challenges: how do you capture extreme speed while maintaining clarity and power? Behemoth's production team has refined their approach over two decades.
+
+**Studio Approach:**
+Behemoth's albums, particularly from "The Apostasy" onwards, feature a modern extreme metal drum sound: tight, powerful, and carefully blended with triggered samples. Inferno's natural playing provides the groove and feel, while triggered samples ensure consistent attack and low-end punch.
+
+This isn't "cheating"—it's standard practice in modern extreme metal. The triggers supplement rather than replace Inferno's playing. His timing, dynamics, and groove come through; the triggers just add consistency at the most demanding tempos.
+
+**Microphone Setup (typical):**
+- Kick drums: Internal mic (Beta 91A) + external mic (D112 or Sub Kick) + triggers
+- Snare: SM57 top, small diaphragm condenser bottom, trigger
+- Toms: MD421 or similar on each
+- Hi-hat: Small diaphragm condenser
+- Overheads: Matched pair in spaced or XY configuration
+- Room mics: For natural ambience blending
+
+**Live Sound:**
+Behemoth's live show is a theatrical production, and Inferno's drum sound must match the spectacle. Heavy triggering ensures consistent attack through the PA, while his acoustic drums provide the physical presence that makes extreme drumming visceral.
+
+His positioning on elevated risers isn't just visual—it provides isolation from the massive stage volume, allowing the microphones to capture cleaner signals.`,
+      keyTechniques: [
+        'Trigger-supplemented natural playing for consistent attack',
+        'Multiple microphones per drum for tonal options',
+        'Elevated drum riser for isolation and visual impact',
+        'Heavy-duty heads to withstand extreme playing demands'
+      ]
+    },
+    // Track Analysis Section
+    trackAnalysis: [
+      {
+        track: 'Blow Your Trumpets Gabriel',
+        album: 'The Satanist',
+        bpm: '180',
+        signature: '4/4',
+        highlights: [
+          'Opens with signature Behemoth groove',
+          'Alternates between blast beats and heavy grooves',
+          'Showcases Inferno\'s dynamic control',
+          'Perfect introduction to his playing style'
+        ],
+        gearNotes: 'The snare cut is essential for the verse patterns. Bass drums drive the chorus blasts with triggered precision.'
+      },
+      {
+        track: 'Ora Pro Nobis Lucifer',
+        album: 'The Satanist',
+        bpm: '115-185 (varies)',
+        signature: '4/4',
+        highlights: [
+          'Dynamic range from clean sections to full blasts',
+          'Groove-based verses showcase musicality',
+          'Intense chorus sections demand sustained energy',
+          'Demonstrates why "The Satanist" was career-defining'
+        ],
+        gearNotes: 'China cymbal accents punctuate transitions. Full kit dynamics on display throughout.'
+      },
+      {
+        track: 'Conquer All',
+        album: 'Demigod',
+        bpm: '200+',
+        signature: '4/4',
+        highlights: [
+          'Relentless blast beat assault',
+          'One of Behemoth\'s most demanding tracks',
+          'Showcases sustained speed and stamina',
+          'From their commercial breakthrough album'
+        ],
+        gearNotes: 'The Demon Drive pedals earn their keep here. Sustained blasting requires both speed and endurance.'
+      },
+      {
+        track: 'Ov Fire and the Void',
+        album: 'Evangelion',
+        bpm: '220',
+        signature: '4/4',
+        highlights: [
+          'Maximum intensity throughout',
+          'Complex kick patterns under blast beats',
+          'Live show staple and fan favorite',
+          'Peak Behemoth brutality'
+        ],
+        gearNotes: 'Every piece of the kit is pushed to its limits. The Reference Pure shells project through the wall of guitars.'
+      }
+    ],
+    // Evolution Section
+    evolution: {
+      title: 'From Black Metal to World Stages: Inferno\'s Journey',
+      content: `When Inferno joined Behemoth in 1997, the band was still firmly rooted in black metal. His drumming evolved alongside the band's transformation into blackened death metal, and his gear has reflected that journey.
+
+**Early Career (1997-2003):**
+The early albums—"Satanica," "Thelema.6," "Zos Kia Cultus"—featured a rawer sound and simpler setups. Inferno was still developing the extreme technique that would define his later work. The gear was functional but not yet the precision arsenal he commands today.
+
+**Breakthrough Era (2004-2009):**
+"Demigod" marked Behemoth's international breakthrough, and Inferno's drumming took a leap forward. The precision and power of this era established him as one of extreme metal's elite. Endorsement deals with Pearl and Meinl provided professional-grade equipment.
+
+**Masterwork Period (2014-Present):**
+"The Satanist" (2014) is widely considered Behemoth's masterpiece, and Inferno's performance is a key reason why. The dynamics, control, and musicality he brings to these songs demonstrate how far extreme metal drumming has evolved. His current setup—Reference Pure drums, Demon Drive pedals, Meinl cymbals—represents the pinnacle of his gear evolution.
+
+**Physical Conditioning:**
+What's often overlooked is the physical conditioning required. Inferno maintains rigorous fitness routines to play at extreme tempos for 90+ minute sets. His consistency across hundreds of shows is testament to both his technique and his conditioning.`,
+      thenVsNow: [
+        { category: 'Kit', then: 'Various Pearl models (1997-2010)', now: 'Pearl Reference Pure Series' },
+        { category: 'Snare', then: 'Various Pearl snares', now: 'Pearl Reference 14"x5.5"' },
+        { category: 'Cymbals', then: 'Mixed brands', now: 'Meinl Classics Custom Dark / Byzance' },
+        { category: 'Pedals', then: 'Pearl standard pedals', now: 'Pearl Demon Drive' },
+        { category: 'Sound', then: 'Raw black metal aggression', now: 'Precision blackened death metal' }
+      ]
+    },
+    // Videos
+    videos: [
+      { youtubeId: 'BzVpkNbUlZM', title: 'Behemoth - Blow Your Trumpets Gabriel (Official)', description: 'The Satanist era showcasing Inferno\'s style' },
+      { youtubeId: 'tl7OXgLwMjQ', title: 'Behemoth - Ora Pro Nobis Lucifer (Live)', description: 'Live performance demonstrating his power' },
+      { youtubeId: 'F5GYQFM5MTs', title: 'Behemoth - Conquer All (Official)', description: 'Classic Demigod-era brutality' }
+    ],
+    // Related Content
+    relatedAlbums: ['altars-of-madness-drum-setup', 'symbolic-drum-setup'],
+    relatedDrummers: [6, 21, 3], // George Kollias, Pete Sandoval, Gene Hoglan
+    relatedArticles: ['best-drum-pedals-for-death-metal', 'best-snare-drums-for-thrash-metal'],
+    // Internal Links
+    internalLinks: [
+      { text: 'Inferno full biography', url: '/drummers/inferno' },
+      { text: 'Behemoth band profile', url: '/bands/behemoth' },
+      { text: 'Pearl Drums brand guide', url: '/brands/pearl' },
+      { text: 'Meinl Cymbals brand guide', url: '/brands/meinl' },
+      { text: 'George Kollias kit article', url: '/articles/whats-in-george-kollias-kit' },
+      { text: 'Pete Sandoval kit article', url: '/articles/whats-in-pete-sandovals-kit' }
+    ],
+    // Conclusion
+    conclusion: {
+      title: 'The Standard of Extreme Metal Consistency',
+      content: `Inferno represents something rare in extreme metal: three decades of consistent excellence. While many extreme drummers burn bright and fade quickly, he has maintained his performance level through 27+ years with Behemoth, countless tours, and nine studio albums.
+
+His gear choices reflect this professionalism. Pearl Reference Pure drums aren't flashy—they're reliable, responsive, and built to perform night after night. Meinl Classics Custom Dark cymbals complement Behemoth's sound rather than fighting it. Demon Drive pedals deliver the speed and control his footwork demands.
+
+**What Makes Inferno Special:**
+It's not raw speed (though he has plenty). It's the combination of speed AND consistency AND musicality. His blast beats groove. His fills serve the songs. His dynamics add depth to music that could easily become one-dimensional.
+
+**For Drummers Seeking This Sound:**
+Start with technique and conditioning. Inferno's stamina comes from years of disciplined practice and physical fitness. The gear supports his technique—it doesn't replace it.
+
+**The Legacy:**
+As Behemoth continues to conquer stages worldwide, Inferno remains the rhythmic foundation of their apocalyptic sound. His drumming proves that extreme metal can be both devastatingly powerful and musically sophisticated.
+
+Whether you're building an extreme metal setup or just appreciating the craft, Inferno's approach is clear: professional gear, disciplined practice, and unwavering commitment to the art.
+
+🥁 *Inferno — 27 years of apocalyptic precision behind the kit.* 🥁`
+    }
   }
 };
 

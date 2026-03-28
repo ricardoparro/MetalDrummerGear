@@ -285,6 +285,7 @@
 | 2026-03-26 | Chaos A.D. Drum Setup: Igor Cavalera | /articles/chaos-ad-drum-setup | - |
 | 2026-03-27 | What's In Matt Garstka's Kit | /articles/whats-in-matt-garstkas-kit | - |
 | 2026-03-27 | What's In Derek Roddy's Speed Arsenal | /articles/whats-in-derek-roddys-kit | - |
+| 2026-03-28 | What's In Inferno's Behemoth Arsenal | /articles/whats-in-infernos-kit | - |
 
 ---
 
@@ -1038,4 +1039,64 @@
 
 ---
 
-*Last updated: 2026-03-27 17:05*
+### 💡 [IDEA-053] Human Drum Setup: Sean Reinert's Jazz-Death Masterpiece
+
+**Type:** album-breakdown
+**SEO Keywords:** human album drums, sean reinert death, chuck schuldiner human, progressive death metal drums
+**Search Volume:** High (Death's most acclaimed album, Sean Reinert tribute interest)
+**Data Available:** Partial (research needed)
+**Priority:** 5
+
+**Outline:**
+1. Introduction — The Album That Fused Jazz and Death Metal
+2. Sean Reinert's Revolutionary Approach
+3. Studio Setup at Morrisound Recording (1991)
+4. Track Analysis: "Lack of Comprehension", "Cosmic Sea"
+5. How Jazz Vocabulary Changed Death Metal
+6. Recording Techniques with Scott Burns
+
+**Status:** IDEA (added 2026-03-28)
+
+---
+
+### ✅ [IDEA-054] What's In Inferno's Behemoth Arsenal
+
+**Type:** drummer-kit
+**SEO Keywords:** inferno drum kit, behemoth drummer, inferno setup, extreme metal drums, polish death metal
+**Search Volume:** HIGH (Behemoth is massive globally, Inferno very respected)
+**Data Available:** Yes (can research)
+**Priority:** 5
+
+**Outline:**
+1. Introduction — The Machine Behind Behemoth
+2. Current Pearl Reference Setup
+3. Meinl Cymbal Arsenal
+4. Signature Techniques (sustained blasts, one-handed rolls)
+5. Evolution Through Behemoth's Career
+6. Where to Buy Similar Gear
+
+**Status:** PUBLISHED (2026-03-28) — /articles/whats-in-infernos-kit
+
+---
+
+### 💡 [IDEA-055] Best Cymbals for Blast Beats: Complete Guide
+
+**Type:** genre-guide
+**SEO Keywords:** best cymbals blast beats, extreme metal cymbals, death metal hi-hats, blast beat cymbals
+**Search Volume:** Medium-High (technical niche, high intent)
+**Data Available:** Yes (can aggregate from extreme drummers)
+**Priority:** 4
+
+**Outline:**
+1. What Makes Cymbals Survive Blast Beats
+2. Hi-Hats: Weight, Size, and Durability
+3. Crashes That Won't Crack
+4. Ride Cymbals for Speed
+5. What the Pros Use (Flo Mounier, George Kollias, Pete Sandoval)
+6. Budget to Pro Recommendations
+
+**Status:** IDEA (added 2026-03-28)
+
+---
+
+*Last updated: 2026-03-28 09:06*

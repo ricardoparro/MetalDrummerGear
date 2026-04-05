@@ -506,6 +506,7 @@ function LickCard({ lick, theme, onPress, isMobile }) {
             source={{ uri: thumbnailUrl }}
             style={styles.lickCardImage}
             contentFit="cover"
+            accessibilityLabel={`${lick.name} by ${lick.drummerName} thumbnail`}
           />
           <View style={styles.lickCardPlayIcon}>
             <Text style={{ fontSize: 20 }}>▶️</Text>
@@ -1741,6 +1742,7 @@ export function LickOfTheDayWidget({ theme, onNavigate }) {
             source={{ uri: thumbnailUrl }}
             style={lickOfTheDayStyles.thumbnail}
             contentFit="cover"
+            accessibilityLabel={`${lickOfTheDay.name} by ${lickOfTheDay.drummerName} - Lick of the Day`}
           />
           <View style={lickOfTheDayStyles.playOverlay}>
             <View style={lickOfTheDayStyles.playButton}>

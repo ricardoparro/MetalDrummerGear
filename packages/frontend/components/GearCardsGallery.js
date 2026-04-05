@@ -193,6 +193,7 @@ function CardPreview({ drummer, selectedType, selectedFormat, onDownload, onShar
           style={styles.cardImage}
           contentFit="cover"
           transition={200}
+          accessibilityLabel={`${drummer.name} gear card`}
         />
       </View>
       

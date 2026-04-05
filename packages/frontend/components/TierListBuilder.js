@@ -204,6 +204,7 @@ function DrummerCard({ drummer, isDragging, onDragStart, onDragEnd, onTouchStart
         style={compact ? styles.drummerImageCompact : styles.drummerImage}
         contentFit="cover"
         transition={200}
+        accessibilityLabel={`Photo of ${drummer.name}`}
       />
       <View style={compact ? styles.drummerInfoCompact : styles.drummerInfo}>
         <Text style={compact ? styles.drummerNameCompact : styles.drummerName} numberOfLines={1}>

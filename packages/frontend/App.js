@@ -2667,6 +2667,7 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
                       width={480}
                       height={270}
                       imageContext="thumbnail"
+                      accessibilityLabel={`${video.title} video thumbnail`}
                     />
                     <View style={styles.playButtonOverlay}>
                       <View style={[styles.playButton, { backgroundColor: '#dc2626' }]}>
@@ -4613,6 +4614,7 @@ function NewsCard({ item, theme }) {
               source={{ uri: item.image }}
               style={styles.newsCardImage}
               contentFit="cover"
+              accessibilityLabel={`${item.title} news image`}
             />
           )}
           <View style={styles.newsCardContent}>
@@ -4650,6 +4652,7 @@ function NewsCard({ item, theme }) {
           source={{ uri: item.image }}
           style={styles.newsCardImage}
           contentFit="cover"
+          accessibilityLabel={`${item.title} news image`}
         />
       )}
       <View style={styles.newsCardContent}>
@@ -9997,6 +10000,7 @@ function KitBuilderPage({ theme, onBack, drummers, onSelectDrummer }) {
                         <Image
                           source={{ uri: match.drummer.image }}
                           style={styles.kitSimilarDrummerImage}
+                          accessibilityLabel={`Photo of ${match.name}`}
                         />
                       )}
                       <View style={styles.kitSimilarDrummerInfo}>
@@ -12120,6 +12124,7 @@ function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavi
                         backgroundColor: theme.border
                       }}
                       contentFit="cover"
+                      accessibilityLabel={`Photo of ${drummer.name}`}
                     />
                   )}
                   <View style={styles.flexOne1}>
@@ -12570,6 +12575,7 @@ function BrandLandingPage({ brandSlug, drummers, onBack, onSelectDrummer, onNavi
                           backgroundColor: theme.border
                         }}
                         contentFit="cover"
+                        accessibilityLabel={`Photo of ${drummer.name}`}
                       />
                     )}
                     <View style={styles.flexOne1}>
@@ -13743,7 +13749,7 @@ function DrummerVsPage({ comparisonSlug, theme, onBack, onSelectDrummer, drummer
         <View style={{ flexDirection: isMobile ? 'column' : 'row', gap: 16, marginBottom: 24, alignItems: 'stretch' }}>
           <TouchableOpacity style={{ flex: 1, backgroundColor: theme.card, borderRadius: 12, padding: 20, borderColor: theme.primary, borderWidth: 2, alignItems: 'center' }} onPress={() => drummer1 && onSelectDrummer(drummer1.id)} disabled={!drummer1}>
             {drummer1?.image ? (
-              <Image source={{ uri: getOptimizedImageUrl(drummer1.image, { width: 200 }) }} style={{ width: 120, height: 120, borderRadius: 60, marginBottom: 12, borderWidth: 3, borderColor: theme.primary }} />
+              <Image source={{ uri: getOptimizedImageUrl(drummer1.image, { width: 200 }) }} style={{ width: 120, height: 120, borderRadius: 60, marginBottom: 12, borderWidth: 3, borderColor: theme.primary }} accessibilityLabel={`Photo of ${drummer1.name}`} />
             ) : (
               <View style={{ width: 120, height: 120, borderRadius: 60, backgroundColor: theme.border, marginBottom: 12, alignItems: 'center', justifyContent: 'center' }}><Text style={styles.emojiText5}>🥁</Text></View>
             )}
@@ -13758,7 +13764,7 @@ function DrummerVsPage({ comparisonSlug, theme, onBack, onSelectDrummer, drummer
 
           <TouchableOpacity style={{ flex: 1, backgroundColor: theme.card, borderRadius: 12, padding: 20, borderColor: '#3b82f6', borderWidth: 2, alignItems: 'center' }} onPress={() => drummer2 && onSelectDrummer(drummer2.id)} disabled={!drummer2}>
             {drummer2?.image ? (
-              <Image source={{ uri: getOptimizedImageUrl(drummer2.image, { width: 200 }) }} style={{ width: 120, height: 120, borderRadius: 60, marginBottom: 12, borderWidth: 3, borderColor: '#3b82f6' }} />
+              <Image source={{ uri: getOptimizedImageUrl(drummer2.image, { width: 200 }) }} style={{ width: 120, height: 120, borderRadius: 60, marginBottom: 12, borderWidth: 3, borderColor: '#3b82f6' }} accessibilityLabel={`Photo of ${drummer2.name}`} />
             ) : (
               <View style={{ width: 120, height: 120, borderRadius: 60, backgroundColor: theme.border, marginBottom: 12, alignItems: 'center', justifyContent: 'center' }}><Text style={styles.emojiText5}>🥁</Text></View>
             )}

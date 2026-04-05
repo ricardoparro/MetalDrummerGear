@@ -506,6 +506,7 @@ function DrummerSelect({ drummers, selectedSlug, onSelect, placeholder, theme, i
               source={{ uri: getOptimizedImageUrl(selectedDrummer.image, { width: 32 }) }}
               style={styles.selectThumb}
               contentFit="cover"
+              accessibilityLabel={`Photo of ${selectedDrummer.name}`}
             />
             <View style={styles.selectedInfo}>
               <Text style={[styles.selectedName, { color: theme.text }]} numberOfLines={1}>
@@ -558,6 +559,7 @@ function DrummerSelect({ drummers, selectedSlug, onSelect, placeholder, theme, i
                   source={{ uri: getOptimizedImageUrl(drummer.image, { width: 40 }) }}
                   style={styles.dropdownThumb}
                   contentFit="cover"
+                  accessibilityLabel={`Photo of ${drummer.name}`}
                 />
                 <View style={styles.dropdownInfo}>
                   <Text style={[styles.dropdownName, { color: theme.text }]}>

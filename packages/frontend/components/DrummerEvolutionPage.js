@@ -788,6 +788,7 @@ export function DrummerEvolutionPage({
                     <Image 
                       source={{ uri: drummer.profileImage }}
                       style={styles.otherTimelineImage}
+                      accessibilityLabel={`Photo of ${drummer.name}`}
                     />
                   )}
                   <Text style={[styles.otherTimelineName, { color: theme.text }]}>
@@ -825,6 +826,7 @@ export function DrummerEvolutionPage({
             <Image
               source={{ uri: drummerData.profileImage }}
               style={[styles.drummerImage, isMobile && styles.drummerImageMobile]}
+              accessibilityLabel={`Photo of ${drummerData.name}`}
             />
           )}
           <View style={[styles.headerInfo, isMobile && styles.headerInfoMobile]}>
@@ -1003,6 +1005,7 @@ export function DrummerEvolutionPage({
                   <Image 
                     source={{ uri: drummer.profileImage }}
                     style={styles.otherTimelineImage}
+                    accessibilityLabel={`Photo of ${drummer.name}`}
                   />
                 )}
                 <Text style={[styles.otherTimelineName, { color: theme.text }]}>

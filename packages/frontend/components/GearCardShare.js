@@ -175,6 +175,7 @@ const CardPreviewModal = memo(({ visible, onClose, cardUrl, drummerName, format 
             style={styles.previewImage}
             contentFit="contain"
             transition={300}
+            accessibilityLabel={`${drummerName} gear card preview`}
           />
         </View>
         <Text style={styles.modalHint}>Tap outside to close</Text>

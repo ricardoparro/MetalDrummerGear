@@ -809,6 +809,7 @@ function GearCard({ item, category, isSelected, onSelect, onBuy, theme, isDeskto
           source={{ uri: imageUrl }}
           style={styles.gearCardImage}
           contentFit="cover"
+          accessibilityLabel={`${item.brand} ${item.name}`}
         />
       )}
       <View style={styles.gearCardContent}>

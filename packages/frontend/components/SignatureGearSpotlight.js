@@ -275,6 +275,7 @@ function HeroSection({ gear, theme, isMobile }) {
           style={[styles.heroImage, isMobile && styles.heroImageMobile]}
           contentFit="cover"
           priority
+          accessibilityLabel={`${gear.fullName} hero image`}
         />
       )}
       <View style={styles.heroOverlay}>
@@ -333,6 +334,7 @@ function StorySection({ story, theme, isMobile }) {
                 source={{ uri: img.src }}
                 style={styles.storyImage}
                 contentFit="cover"
+                accessibilityLabel={img.caption || `Story image ${idx + 1}`}
               />
               {img.caption && (
                 <Text style={[styles.storyImageCaption, { color: theme.secondaryText }]}>
@@ -447,6 +449,7 @@ function SoundSection({ sound, theme, isMobile }) {
                     source={{ uri: `https://img.youtube.com/vi/${video.youtubeId}/mqdefault.jpg` }}
                     style={styles.videoSelectorThumb}
                     contentFit="cover"
+                    accessibilityLabel={`${video.title} video thumbnail`}
                   />
                   <Text 
                     style={[
@@ -592,6 +595,7 @@ function UsedOnSection({ usedOn, theme, isMobile }) {
                   source={{ uri: album.cover }}
                   style={styles.albumCover}
                   contentFit="cover"
+                  accessibilityLabel={`${album.title} by ${album.artist} album cover`}
                 />
                 <Text style={[styles.albumTitle, { color: theme.text }]} numberOfLines={1}>
                   {album.title}

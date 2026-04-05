@@ -288,6 +288,7 @@
 | 2026-03-28 | What's In Inferno's Behemoth Arsenal | /articles/whats-in-infernos-kit | - |
 | 2026-03-28 | Human Drum Setup: Sean Reinert | /articles/human-drum-setup | - |
 | 2026-03-28 | What's In Alex Bent's Trivium Arsenal | /articles/whats-in-alex-bents-kit | - |
+| 2026-04-05 | Blackwater Park Drum Setup: Martin Lopez | /articles/blackwater-park-drum-setup | - |
 
 ---
 
@@ -623,12 +624,12 @@
 
 ---
 
-### 💡 [IDEA-031] Blackwater Park Drum Setup: Martin Lopez's Opeth Masterpiece
+### ✅ [IDEA-031] Blackwater Park Drum Setup: Martin Lopez's Opeth Masterpiece
 
 **Type:** album-breakdown
 **SEO Keywords:** blackwater park drums, martin lopez opeth, opeth drum setup, blackwater park recording
 **Search Volume:** High (prog metal classic)
-**Data Available:** Partial (needs research)
+**Data Available:** Yes
 **Priority:** 4
 
 **Outline:**
@@ -639,7 +640,7 @@
 5. Recording with Steven Wilson
 6. The Drums That Bridged Genres
 
-**Status:** IDEA (added 2026-03-19)
+**Status:** PUBLISHED (2026-04-05) — /articles/blackwater-park-drum-setup
 
 ---
 
@@ -1101,4 +1102,4 @@
 
 ---
 
-*Last updated: 2026-03-28 17:10*
+*Last updated: 2026-04-05 13:05*

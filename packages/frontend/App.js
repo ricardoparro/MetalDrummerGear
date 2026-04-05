@@ -522,6 +522,41 @@ function updateEvolutionMeta(drummer) {
   return _drummerEvolutionModule?.updateEvolutionMeta?.(drummer);
 }
 
+// Gear Price History Tracker (Issue #813) - Inflation-Adjusted Setup Costs
+// URL: /drummers/[slug]/gear-history
+const LazyGearPriceHistoryPage = lazy(() => import('./components/GearPriceHistoryPage').then(m => ({ default: m.GearPriceHistoryPage })));
+let _gearPriceHistoryModule = null;
+let _gearPriceHistoryLoadPromise = null;
+const loadGearPriceHistory = () => import('./components/GearPriceHistoryPage');
+
+function preloadGearPriceHistory() {
+  if (!_gearPriceHistoryLoadPromise) {
+    _gearPriceHistoryLoadPromise = Promise.all([
+      loadGearPriceHistory(),
+      import('./data/gearPriceHistory')
+    ]).then(([component, data]) => {
+      _gearPriceHistoryModule = { ...component, ...data };
+      return _gearPriceHistoryModule;
+    });
+  }
+  return _gearPriceHistoryLoadPromise;
+}
+function isGearPriceHistoryPage() {
+  return _gearPriceHistoryModule?.isGearHistoryPage?.() ?? (typeof window !== 'undefined' &&
+    /^\/drummers\/[a-z0-9-]+\/gear-history\/?$/i.test(window.location.pathname));
+}
+function getGearPriceHistorySlugFromURL() {
+  if (typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(/^\/drummers\/([a-z0-9-]+)\/gear-history/i);
+  return match ? match[1] : null;
+}
+function hasPriceHistoryData(slug) {
+  return _gearPriceHistoryModule?.hasPriceHistoryData?.(slug) ?? false;
+}
+function getPriceHistoryDrummerSlugs() {
+  return _gearPriceHistoryModule?.getPriceHistoryDrummerSlugs?.() ?? ['lars-ulrich', 'joey-jordison', 'dave-lombardo'];
+}
+
 // Endorsement Tracker (Issue #802) - Track brand deals and endorsement changes
 // URL: /drummers/[slug]/endorsements and /endorsement-news
 const LazyEndorsementNewsPage = lazy(() => import('./components/EndorsementTracker').then(m => ({ default: m.EndorsementNewsPage })));
@@ -5797,6 +5832,48 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
               accessibilityLabel={`View ${drummer.name}'s gear evolution timeline`}
             >
               <Text style={styles.compareWithAnotherButtonText}>View Evolution Timeline →</Text>
+            </TouchableOpacity>
+          )}
+        </View>
+      )}
+
+      {/* Gear Price History CTA - Issue #813 */}
+      {getPriceHistoryDrummerSlugs().includes(drummerSlug) && (
+        <View style={[styles.section, { backgroundColor: theme.card, borderColor: '#22c55e', borderWidth: 2 }]}>
+          <Text style={[styles.sectionTitle, { color: theme.text }]}>💰 Gear Price History</Text>
+          <Text style={[styles.compareYourKitDescription, { color: theme.secondaryText }]}>
+            How much would {drummer.name}'s iconic setup cost today? See inflation-adjusted prices, vintage values, and price evolution!
+          </Text>
+          {Platform.OS === 'web' ? (
+            <a
+              href={`/drummers/${drummerSlug}/gear-history`}
+              onClick={(e) => {
+                e.preventDefault();
+                if (typeof window !== 'undefined') {
+                  window.history.pushState({}, '', `/drummers/${drummerSlug}/gear-history`);
+                  window.dispatchEvent(new PopStateEvent('popstate'));
+                }
+              }}
+              style={{ textDecoration: 'none', marginTop: 12 }}
+              data-testid="gear-price-history-link"
+            >
+              <View style={[styles.compareWithAnotherButton, { backgroundColor: '#22c55e' }]}>
+                <Text style={styles.compareWithAnotherButtonText}>View Price History →</Text>
+              </View>
+            </a>
+          ) : (
+            <TouchableOpacity
+              onPress={() => {
+                if (typeof window !== 'undefined') {
+                  window.history.pushState({}, '', `/drummers/${drummerSlug}/gear-history`);
+                  window.dispatchEvent(new PopStateEvent('popstate'));
+                }
+              }}
+              style={[styles.compareWithAnotherButton, { backgroundColor: '#22c55e', marginTop: 12 }]}
+              accessibilityRole="link"
+              accessibilityLabel={`View ${drummer.name}'s gear price history`}
+            >
+              <Text style={styles.compareWithAnotherButtonText}>View Price History →</Text>
             </TouchableOpacity>
           )}
         </View>
@@ -21433,6 +21510,10 @@ function AppContent() {
   const [showDrummerEvolution, setShowDrummerEvolution] = useState(() => isDrummerEvolutionPage());
   const [evolutionDrummerSlug, setEvolutionDrummerSlug] = useState(() => getDrummerEvolutionSlugFromURL());
   
+  // Gear Price History state (Issue #813) - /drummers/[slug]/gear-history
+  const [showGearPriceHistory, setShowGearPriceHistory] = useState(() => isGearPriceHistoryPage());
+  const [gearPriceHistorySlug, setGearPriceHistorySlug] = useState(() => getGearPriceHistorySlugFromURL());
+  
   // Endorsement Tracker state (Issue #802) - /drummers/[slug]/endorsements and /endorsement-news
   const [showEndorsementPage, setShowEndorsementPage] = useState(() => isEndorsementPage());
   const [endorsementDrummerSlug, setEndorsementDrummerSlug] = useState(() => getEndorsementDrummerSlugFromURL());
@@ -23109,11 +23190,36 @@ function AppContent() {
         const dSlug = getDrummerEvolutionSlugFromURL();
         setShowDrummerEvolution(true);
         setEvolutionDrummerSlug(dSlug);
+        setShowGearPriceHistory(false);
+        setGearPriceHistorySlug(null);
         setShowGearCategoryPage(false);
         setGearCategoryInfo(null);
         setShowEndorsementPage(false);
         setEndorsementDrummerSlug(null);
         setShowEndorsementNews(false);
+      } else if (isGearPriceHistoryPage()) {
+        // Gear Price History page (Issue #813) - /drummers/[slug]/gear-history
+        const dSlug = getGearPriceHistorySlugFromURL();
+        setShowGearPriceHistory(true);
+        setGearPriceHistorySlug(dSlug);
+        setShowDrummerEvolution(false);
+        setEvolutionDrummerSlug(null);
+        setShowGearCategoryPage(false);
+        setGearCategoryInfo(null);
+        setShowEndorsementPage(false);
+        setEndorsementDrummerSlug(null);
+        setShowEndorsementNews(false);
+        setShowLickDetail(false);
+        setLickSlug(null);
+        setShowLicksHub(false);
+        setLicksDrummerSlug(null);
+        setShowGearCards(false);
+        setShowToolsHub(false);
+        setShowGearComparisonTool(false);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        // Preload the component
+        preloadGearPriceHistory();
       } else if (isEndorsementPage()) {
         // Endorsement Page (Issue #802) - /drummers/[slug]/endorsements
         const dSlug = getEndorsementDrummerSlugFromURL();
@@ -25319,6 +25425,35 @@ setShowList(false);
               setEvolutionDrummerSlug(slug);
               if (Platform.OS === 'web' && typeof window !== 'undefined') {
                 window.history.pushState({}, '', `/drummers/${slug}/evolution`);
+              }
+            }}
+          />
+        </Suspense>
+      );
+    }
+    
+    // Gear Price History Page (Issue #813) - /drummers/[slug]/gear-history
+    // Inflation-adjusted setup costs over time
+    if (showGearPriceHistory && gearPriceHistorySlug) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyGearPriceHistoryPage
+            theme={theme}
+            drummerSlug={gearPriceHistorySlug}
+            drummers={drummers}
+            onBack={() => {
+              setShowGearPriceHistory(false);
+              setGearPriceHistorySlug(null);
+              // Navigate back to drummer profile
+              if (gearPriceHistorySlug && Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/drummer/${gearPriceHistorySlug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigate={(url) => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', url);
+                window.dispatchEvent(new PopStateEvent('popstate'));
               }
             }}
           />

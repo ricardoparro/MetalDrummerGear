@@ -249,6 +249,14 @@ const endorsementDrummers = [
   'matt-halpern', 'inferno', 'charlie-benante',
 ];
 
+// Issue #813: Gear Price History Tracker pages
+// Inflation-adjusted setup costs over time
+const gearPriceHistoryDrummers = [
+  'lars-ulrich',     // Kill 'Em All era (1983)
+  'joey-jordison',   // Iowa era (2001)
+  'dave-lombardo',   // Reign in Blood era (1986)
+];
+
 // Issue #770: SEO Blitz - Drummer Gear Category Pages
 // Long-tail keyword pages at /drummer/:slug/:category
 const drummerGearCategories = ['cymbals', 'drums', 'pedals', 'hardware', 'snare', 'sticks'];
@@ -339,6 +347,8 @@ export default function handler(req, res) {
     // Issue #802: Endorsement Tracker pages
     { loc: '/endorsement-news', priority: '0.9', changefreq: 'weekly' },
     ...endorsementDrummers.map(slug => ({ loc: `/drummers/${slug}/endorsements`, priority: '0.85', changefreq: 'monthly' })),
+    // Issue #813: Gear Price History Tracker pages
+    ...gearPriceHistoryDrummers.map(slug => ({ loc: `/drummers/${slug}/gear-history`, priority: '0.9', changefreq: 'monthly' })),
   ];
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">

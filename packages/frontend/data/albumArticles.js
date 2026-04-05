@@ -15654,13 +15654,13 @@ Martin Lopez's health struggles forced his departure from Opeth in 2006, but his
     // Introduction
     intro: {
       title: 'From Swedish Death Metal to Thrash Royalty',
-      content: \`Dirk Verbeuren represents something rare in metal drumming: a musician who seamlessly transitioned between two completely different subgenres at the highest level. After 18 years anchoring Soilwork's melodic death metal assault, he stepped into one of the most demanding seats in metal — drummer for Megadeth, one of thrash metal's Big Four.
+      content: `Dirk Verbeuren represents something rare in metal drumming: a musician who seamlessly transitioned between two completely different subgenres at the highest level. After 18 years anchoring Soilwork's melodic death metal assault, he stepped into one of the most demanding seats in metal — drummer for Megadeth, one of thrash metal's Big Four.
 
 Born January 8, 1975, in Belgium, Verbeuren developed his craft through years of European metal scenes before joining Soilwork in 1998. When Megadeth needed a touring drummer for the Dystopia album in 2016, Dave Mustaine called on Chris Adler — but it was Dirk who got the permanent position, proving himself night after night on the world's biggest metal stages.
 
 What makes Dirk remarkable isn't just his technical ability — it's his versatility. He had to master decades of Megadeth classics, from the thrash fury of "Peace Sells" to the progressive complexity of "Rust in Peace," while bringing his own precision and power. His first full studio album with the band, "The Sick, the Dying... and the Dead!" (2022), showcased his complete integration into Megadeth's sound.
 
-This article breaks down every piece of gear that powers Dirk's crushing performances — from his Tama Starclassic drums to his dark Meinl cymbals. Whether you're a thrash devotee or a melodic death metal fan, understanding Dirk's setup reveals how a world-class drummer adapts his sound for metal's biggest stage.\`,
+This article breaks down every piece of gear that powers Dirk's crushing performances — from his Tama Starclassic drums to his dark Meinl cymbals. Whether you're a thrash devotee or a melodic death metal fan, understanding Dirk's setup reveals how a world-class drummer adapts his sound for metal's biggest stage.`,
       keyPoints: [
         'Tama Drums endorsee with Starclassic Maple kit',
         'Meinl Cymbals — Byzance series for dark, complex tones',
@@ -15682,7 +15682,7 @@ This article breaks down every piece of gear that powers Dirk's crushing perform
         floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom'],
         shells: 'All-Maple shells with Star-Cast mounting system'
       },
-      description: \`Dirk Verbeuren's choice of Tama Starclassic Maple reflects his need for a kit that can handle both the precision of melodic death metal and the raw power of classic thrash. The Starclassic series has long been a favorite of metal drummers for its balanced tone and incredible projection.
+      description: `Dirk Verbeuren's choice of Tama Starclassic Maple reflects his need for a kit that can handle both the precision of melodic death metal and the raw power of classic thrash. The Starclassic series has long been a favorite of metal drummers for its balanced tone and incredible projection.
 
 The 22" x 18" bass drum provides the deep, punchy foundation essential for Megadeth's driving rhythms. The deeper shell (18" vs standard 16") gives Dirk more low-end power while maintaining the attack needed for thrash's rapid kick patterns. Unlike some metal drummers who use double bass drums, Dirk achieves his thunderous footwork with a single bass drum and Speed Cobra double pedal.
 
@@ -15690,7 +15690,7 @@ The rack tom configuration — 10" and 12" — gives Dirk quick, articulate toms
 
 The floor tom pairing (14" and 16") provides the deep, resonant tones needed for Megadeth's heavy accents. Tama's Star-Cast mounting system ensures the toms resonate freely without choking, essential for the big, open drum sound that characterizes modern thrash production.
 
-The all-maple shells deliver warmth and projection with excellent attack — perfect for cutting through Megadeth's wall of guitar while maintaining musicality during dynamic passages.\`,
+The all-maple shells deliver warmth and projection with excellent attack — perfect for cutting through Megadeth's wall of guitar while maintaining musicality during dynamic passages.`,
       notes: [
         'Single bass drum setup with double pedal for mobility',
         'Starclassic Maple for balanced attack and projection',
@@ -15707,13 +15707,13 @@ The all-maple shells deliver warmth and projection with excellent attack — per
       model: 'Tama S.L.P. G-Maple',
       size: '14" x 6.5"',
       shell: 'Maple with diagonal seam',
-      description: \`Dirk's snare choice — the Tama S.L.P. G-Maple — delivers the cutting crack essential for thrash metal while maintaining the sensitivity needed for dynamic playing. The S.L.P. (Sound Lab Project) series represents Tama's boutique line, offering unique shell constructions at professional-grade quality.
+      description: `Dirk's snare choice — the Tama S.L.P. G-Maple — delivers the cutting crack essential for thrash metal while maintaining the sensitivity needed for dynamic playing. The S.L.P. (Sound Lab Project) series represents Tama's boutique line, offering unique shell constructions at professional-grade quality.
 
 The G-Maple features Tama's diagonal grain construction, where the wood grain runs at an angle rather than horizontal. This provides enhanced shell strength and a unique tonal character — warm fundamental with bright overtones that cut through dense mixes.
 
 At 14" x 6.5", the snare offers the depth needed for body and power while maintaining the standard 14" diameter for versatility. Dirk typically tunes medium-high for maximum cut through Megadeth's guitar wall, with snare wires tight enough for crisp response at all dynamics.
 
-The maple shell provides warmth that balances the brightness of the metal snare wires, preventing the drum from becoming too harsh even when played hard. This is crucial for Megadeth's varied material, which ranges from aggressive thrash to more melodic passages where subtlety matters.\`,
+The maple shell provides warmth that balances the brightness of the metal snare wires, preventing the drum from becoming too harsh even when played hard. This is crucial for Megadeth's varied material, which ranges from aggressive thrash to more melodic passages where subtlety matters.`,
       tuningSetting: 'Medium-high tension for maximum cut and articulation',
       heads: 'Evans G2 Coated (batter), Evans Hazy 300 (resonant)',
       estimatedValue: '$350-450'
@@ -15731,7 +15731,7 @@ The maple shell provides warmth that balances the brightness of the metal snare 
         { type: 'Ride', model: 'Meinl 21" Mb20 Heavy Ride', position: 'Far right', notes: 'Loud, cutting ride with clear bell for thrash patterns' },
         { type: 'China', model: 'Meinl 18" Byzance Brilliant China', position: 'Above floor toms', notes: 'Aggressive accents, essential for thrash' }
       ],
-      description: \`Dirk Verbeuren's cymbal setup centers on Meinl's Byzance series — known for their dark, complex tones that have made them favorites among progressive and extreme metal drummers. Unlike the bright, cutting cymbals often associated with thrash, Dirk opts for a darker palette that adds depth to Megadeth's sound.
+      description: `Dirk Verbeuren's cymbal setup centers on Meinl's Byzance series — known for their dark, complex tones that have made them favorites among progressive and extreme metal drummers. Unlike the bright, cutting cymbals often associated with thrash, Dirk opts for a darker palette that adds depth to Megadeth's sound.
 
 The 14" Byzance Dark Hi-Hats provide the foundation — their complex, slightly trashy character adds texture to his patterns while maintaining the definition needed for fast thrash beats. These hi-hats can whisper in quiet passages and scream when needed.
 
@@ -15739,7 +15739,7 @@ His crash selection spans from 17" to 19", giving him a range of voices for diff
 
 The Mb20 21" Heavy Ride is crucial for thrash. Its loud, cutting character ensures the ride bell penetrates even during the heaviest passages — essential for classic Megadeth songs that rely heavily on ride patterns. The weight handles hard playing without breaking up.
 
-The 18" Byzance Brilliant China delivers the aggressive accent that defines thrash drumming. From "Tornado of Souls" to "Holy Wars," China cymbals punctuate the riffs, and Dirk's Meinl delivers the explosive character the genre demands.\`,
+The 18" Byzance Brilliant China delivers the aggressive accent that defines thrash drumming. From "Tornado of Souls" to "Holy Wars," China cymbals punctuate the riffs, and Dirk's Meinl delivers the explosive character the genre demands.`,
       estimatedValue: '$2,800-3,500 total (Byzance/Mb20 setup)'
     },
     // Hardware Section
@@ -15830,7 +15830,7 @@ The 18" Byzance Brilliant China delivers the aggressive accent that defines thra
     // Get This Sound
     getThisSound: {
       title: 'Get This Sound',
-      content: \`Want to capture Dirk Verbeuren's precision thrash tone? Here's how to approach his sound at different budgets:
+      content: `Want to capture Dirk Verbeuren's precision thrash tone? Here's how to approach his sound at different budgets:
 
 **The Key Elements:**
 - **Tight, Controlled Bass Drum:** Dirk's kick is punchy and defined, not boomy. He uses a ported front head with internal dampening for focused attack.
@@ -15854,7 +15854,7 @@ The 18" Byzance Brilliant China delivers the aggressive accent that defines thra
 - Tama Starclassic Maple (exact spec)
 - Tama S.L.P. G-Maple 14x6.5"
 - Full Meinl Byzance/Mb20 setup
-- Complete Tama Iron Cobra hardware package\`,
+- Complete Tama Iron Cobra hardware package`,
       keyPoints: [
         'Focus on tuning and technique before expensive gear',
         'Speed Cobra pedals are worth the investment for thrash',
@@ -15956,7 +15956,7 @@ The 18" Byzance Brilliant China delivers the aggressive accent that defines thra
     relatedAlbums: ['dystopia-drum-setup', 'rust-in-peace-drum-setup', 'peace-sells-drum-setup'],
     conclusion: {
       title: 'Thrash Royalty Earned',
-      content: \`Dirk Verbeuren didn't inherit Megadeth's drum throne — he earned it. When you join a band with the legacy of Gar Samuelson, Nick Menza, and countless other talented drummers, you're not just learning songs. You're becoming a steward of thrash metal history.
+      content: `Dirk Verbeuren didn't inherit Megadeth's drum throne — he earned it. When you join a band with the legacy of Gar Samuelson, Nick Menza, and countless other talented drummers, you're not just learning songs. You're becoming a steward of thrash metal history.
 
 **What Makes Dirk's Approach Work:**
 His 18 years with Soilwork gave him something invaluable: the technical precision of melodic death metal combined with the stamina to deliver night after night. When he plays "Tornado of Souls" or "Holy Wars," he honors the original performances while bringing his own power and clarity.
@@ -15972,7 +15972,7 @@ Study Dirk to understand what it means to serve a legacy while maintaining your 
 
 The Big Four of thrash metal required drummers who could match the genre's founding fury. In Dirk Verbeuren, Megadeth found someone who could honor their past while driving them into the future.
 
-🥁 *Megadeth — Still dangerous after four decades.* 🥁\`
+🥁 *Megadeth — Still dangerous after four decades.* 🥁`
     }
   }
 };

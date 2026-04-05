@@ -2469,7 +2469,7 @@ const styles = StyleSheet.create({
   },
   summaryStatVs: {
     fontSize: fontSize.xs,
-    color: '#888',
+    color: '#9a9a9e', // WCAG AA compliant (~6:1 contrast on dark backgrounds)
     marginHorizontal: 4,
   },
   brandInsight: {

@@ -112,7 +112,7 @@ export function getTrendingColor(change) {
   if (change >= 50) return '#ef4444'; // Red-orange for hot
   if (change >= 20) return '#f97316'; // Orange for trending
   if (change > 0) return '#10b981'; // Green for growth
-  if (change === 0) return '#6b7280'; // Gray for stable
+  if (change === 0) return '#7f7f8a'; // WCAG AA compliant gray for stable (~5.5:1 contrast)
   return '#ef4444'; // Red for decline
 }
 

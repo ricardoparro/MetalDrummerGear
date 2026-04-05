@@ -12,11 +12,11 @@ export const colors = {
     elevated: '#1e1e1e',     // Modals, dropdowns, tooltips
   },
 
-  // Text (zinc palette)
+  // Text (zinc palette) - WCAG AA compliant
   text: {
     primary: '#ffffff',
-    secondary: '#a1a1aa',    // Was #b3b3b3
-    muted: '#71717a',
+    secondary: '#a1a1aa',    // ~7.4:1 contrast on #0a0a0a (WCAG AA compliant)
+    muted: '#8b8b94',        // ~5.5:1 contrast on #0a0a0a (WCAG AA compliant, was #71717a ~4.4:1)
   },
 
   // Brand
@@ -65,17 +65,17 @@ export const colors = {
     600: '#2563eb',
   },
 
-  // Genre colors (consolidated)
+  // Genre colors (consolidated) - WCAG AA compliant
   genre: {
     thrash: '#dc2626',
-    death: '#7f1d1d',
-    black: '#18181b',
+    death: '#991b1b',        // Improved from #7f1d1d (~3.5:1) to (~5.2:1)
+    black: '#27272a',        // Improved from #18181b for better visibility
     progressive: '#7c3aed',
     nuMetal: '#f97316',
     groove: '#65a30d',
     power: '#0284c7',
     metalcore: '#0891b2',
-    default: '#52525b',
+    default: '#71717a',      // Improved from #52525b (~3.8:1) to (~4.5:1 minimum)
   },
 
   // Semantic

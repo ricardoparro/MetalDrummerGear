@@ -15,10 +15,10 @@ export const themes = {
     surfaceElevated: colors.bg.elevated,     // #1e1e1e (new)
     card: colors.bg.secondary,               // #141414 (was #1e1e1e)
     
-    // Text (zinc palette)
+    // Text (zinc palette) - WCAG AA compliant
     text: colors.text.primary,               // #ffffff
-    secondaryText: colors.text.secondary,    // #a1a1aa (was #b3b3b3)
-    mutedText: colors.text.muted,            // #71717a (new)
+    secondaryText: colors.text.secondary,    // #a1a1aa (~7.4:1 contrast ratio)
+    mutedText: colors.text.muted,            // #8b8b94 (~5.5:1 contrast ratio, was #71717a)
     
     // Brand colors
     primary: colors.brand.primary,           // #dc2626 (was #ef4444)
@@ -42,7 +42,7 @@ export const themes = {
     // Additional colors for comprehensive theming
     inputBackground: colors.bg.elevated,     // #1e1e1e
     inputText: colors.text.primary,          // #ffffff
-    inputPlaceholder: colors.text.muted,     // #71717a (was #9a9a9a)
+    inputPlaceholder: colors.text.muted,     // #8b8b94 (~5.5:1 contrast, WCAG AA compliant)
     headerBackground: colors.bg.primary,     // #0a0a0a
     buttonBackground: colors.brand.primary,  // #dc2626
     buttonText: colors.text.primary,         // #ffffff

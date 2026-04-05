@@ -1,10 +1,11 @@
 /**
- * Critical CSS Optimization - Issue #666, #667, #669
+ * Critical CSS Optimization - Issue #666, #667, #669, #810
  * 
  * Injects critical above-the-fold CSS to improve:
  * - LCP (Largest Contentful Paint) - faster first paint
  * - Speed Index - faster visual completeness
  * - Mobile Performance Score
+ * - WCAG AA color contrast compliance (Issue #810)
  * 
  * This CSS is inlined in the <head> to avoid render-blocking.
  */
@@ -16,14 +17,14 @@ import { Platform } from 'react-native';
 export const CRITICAL_CSS = `
 /* Critical Reset & Base */
 *,*::before,*::after{box-sizing:border-box}
-body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;background:#121212;color:#fff}
+body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;background:#0a0a0a;color:#fff}
 
 /* Skeleton Animation - Prevents CLS */
 @keyframes skeleton-pulse{0%{opacity:1}50%{opacity:.4}100%{opacity:1}}
 .skeleton{background:linear-gradient(90deg,#2a2a2a 25%,#3a3a3a 50%,#2a2a2a 75%);background-size:200% 100%;animation:skeleton-pulse 1.5s ease-in-out infinite}
 
 /* Hero Section - LCP Critical */
-.hero-section{min-height:280px;padding:48px 20px 32px;display:flex;flex-direction:column;align-items:center;justify-content:center;background:linear-gradient(135deg,#1a1a1a 0%,#121212 100%)}
+.hero-section{min-height:280px;padding:48px 20px 32px;display:flex;flex-direction:column;align-items:center;justify-content:center;background:linear-gradient(135deg,#141414 0%,#0a0a0a 100%)}
 .hero-title{font-size:28px;font-weight:700;text-align:center;margin:0 0 12px;color:#fff}
 .hero-subtitle{font-size:16px;text-align:center;color:#9ca3af;margin:0 0 24px;max-width:400px}
 

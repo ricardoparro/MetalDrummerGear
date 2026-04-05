@@ -11373,7 +11373,7 @@ function BandDetailPage({ bandSlug, drummers, onBack, onSelectDrummer, theme }) 
               <View 
                 style={[
                   styles.bandStatusBadge, 
-                  { backgroundColor: statusColors[band.status] || '#6b7280' }
+                  { backgroundColor: statusColors[band.status] || '#7f7f8a' }
                 ]}
               >
                 <Text style={styles.bandStatusText}>
@@ -13435,6 +13435,7 @@ function DrummerVsIndexPage({ theme, onBack, onSelectComparison, onSelectDrummer
                       <Image
                         source={{ uri: getOptimizedImageUrl(drummer1.image, { width: 80 }) }}
                         style={{ width: 60, height: 60, borderRadius: 30, marginBottom: 8, borderWidth: 2, borderColor: theme.primary }}
+                        accessibilityLabel={`Photo of ${drummer1.name}`}
                       />
                     ) : (
                       <View style={{ width: 60, height: 60, borderRadius: 30, backgroundColor: theme.border, marginBottom: 8, alignItems: 'center', justifyContent: 'center' }}>
@@ -13468,6 +13469,7 @@ function DrummerVsIndexPage({ theme, onBack, onSelectComparison, onSelectDrummer
                       <Image
                         source={{ uri: getOptimizedImageUrl(drummer2.image, { width: 80 }) }}
                         style={{ width: 60, height: 60, borderRadius: 30, marginBottom: 8, borderWidth: 2, borderColor: '#3b82f6' }}
+                        accessibilityLabel={`Photo of ${drummer2.name}`}
                       />
                     ) : (
                       <View style={{ width: 60, height: 60, borderRadius: 30, backgroundColor: theme.border, marginBottom: 8, alignItems: 'center', justifyContent: 'center' }}>
@@ -13561,7 +13563,8 @@ function RelatedComparisons({ currentSlug, drummerSlugs, theme, allDrummers, onS
                 {drummer1?.image ? (
                   <Image 
                     source={{ uri: getOptimizedImageUrl(drummer1.image, { width: 40 }) }} 
-                    style={{ width: 32, height: 32, borderRadius: 16, borderWidth: 2, borderColor: theme.primary }} 
+                    style={{ width: 32, height: 32, borderRadius: 16, borderWidth: 2, borderColor: theme.primary }}
+                    accessibilityLabel={`Photo of ${drummer1.name}`}
                   />
                 ) : (
                   <View style={{ width: 32, height: 32, borderRadius: 16, backgroundColor: theme.border, alignItems: 'center', justifyContent: 'center' }}>
@@ -13571,7 +13574,8 @@ function RelatedComparisons({ currentSlug, drummerSlugs, theme, allDrummers, onS
                 {drummer2?.image ? (
                   <Image 
                     source={{ uri: getOptimizedImageUrl(drummer2.image, { width: 40 }) }} 
-                    style={{ width: 32, height: 32, borderRadius: 16, borderWidth: 2, borderColor: '#3b82f6', marginLeft: -8 }} 
+                    style={{ width: 32, height: 32, borderRadius: 16, borderWidth: 2, borderColor: '#3b82f6', marginLeft: -8 }}
+                    accessibilityLabel={`Photo of ${drummer2.name}`}
                   />
                 ) : (
                   <View style={{ width: 32, height: 32, borderRadius: 16, backgroundColor: theme.border, alignItems: 'center', justifyContent: 'center', marginLeft: -8 }}>
@@ -14128,7 +14132,7 @@ function TechniquesIndexPage({ theme, onBack, onSelectTechnique, onSelectDrummer
       advanced: theme.warning,
       expert: theme.primary,
     };
-    return colors[difficulty] || '#6b7280';
+    return colors[difficulty] || '#7f7f8a';
   };
 
   const getDifficultyLabel = (difficulty) => {
@@ -14412,7 +14416,7 @@ function TechniqueDetailPage({ techniqueSlug, theme, onBack, onSelectDrummer, on
       advanced: theme.warning,
       expert: theme.primary,
     };
-    return colors[difficulty] || '#6b7280';
+    return colors[difficulty] || '#7f7f8a';
   };
 
   const getDifficultyLabel = (difficulty) => {
@@ -15892,6 +15896,7 @@ function BattleWidget({ theme, drummers, onNavigateToBattle }) {
             width={60}
             height={60}
             imageContext="thumbnail"
+            accessibilityLabel={`Photo of ${drummer1.name}`}
           />
           <Text style={[styles.battleWidgetName, { color: theme.text }]} numberOfLines={1}>
             {drummer1.name}
@@ -15910,6 +15915,7 @@ function BattleWidget({ theme, drummers, onNavigateToBattle }) {
             width={60}
             height={60}
             imageContext="thumbnail"
+            accessibilityLabel={`Photo of ${drummer2.name}`}
           />
           <Text style={[styles.battleWidgetName, { color: theme.text }]} numberOfLines={1}>
             {drummer2.name}
@@ -16136,6 +16142,7 @@ function BattlePage({ theme, drummers, onBack, battleSlug }) {
               width={120}
               height={120}
               imageContext="card"
+              accessibilityLabel={`Photo of ${drummer1.name}`}
             />
             <Text style={[styles.battleDrummerName, { color: theme.text }]}>
               {drummer1.name}
@@ -16206,6 +16213,7 @@ function BattlePage({ theme, drummers, onBack, battleSlug }) {
               width={120}
               height={120}
               imageContext="card"
+              accessibilityLabel={`Photo of ${drummer2.name}`}
             />
             <Text style={[styles.battleDrummerName, { color: theme.text }]}>
               {drummer2.name}
@@ -20694,7 +20702,7 @@ function ComparisonResultCard({ match, drummer, theme, isMobile }) {
       case 'brand':
         return { text: '⚡ Brand Match', color: '#f59e0b' };
       case 'missing':
-        return { text: '➕ Add Gear', color: '#6b7280' };
+        return { text: '➕ Add Gear', color: '#7f7f8a' };
       case 'different':
         return { text: '↑ Upgrade Path', color: theme.primary };
       default:
@@ -31842,7 +31850,7 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   gearCardButtonRemove: {
-    backgroundColor: '#6b7280',
+    backgroundColor: '#7f7f8a',
     flex: 1,
   },
   gearCardButtonText: {
@@ -32129,7 +32137,7 @@ const styles = StyleSheet.create({
   },
   kitSummaryRemoveLinkText: {
     fontSize: 14,
-    color: '#6b7280',
+    color: '#7f7f8a',
   },
   kitSummary: {
     padding: 20,

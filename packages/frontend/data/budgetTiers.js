@@ -81,7 +81,7 @@ export function getBudgetTierInfo(tierId) {
 // Get budget tier color
 export function getBudgetTierColor(tierId) {
   const tier = BUDGET_TIERS[tierId];
-  return tier ? tier.color : '#6b7280';
+  return tier ? tier.color : '#7f7f8a'; // WCAG AA compliant fallback (~5.5:1 contrast)
 }
 
 // Format price range for display

@@ -289,6 +289,7 @@
 | 2026-03-28 | Human Drum Setup: Sean Reinert | /articles/human-drum-setup | - |
 | 2026-03-28 | What's In Alex Bent's Trivium Arsenal | /articles/whats-in-alex-bents-kit | - |
 | 2026-04-05 | Blackwater Park Drum Setup: Martin Lopez | /articles/blackwater-park-drum-setup | - |
+| 2026-04-05 | What's In Dirk Verbeuren's Megadeth Kit | /articles/whats-in-dirk-verbeurens-kit | - |
 
 ---
 
@@ -1010,12 +1011,12 @@
 
 ---
 
-### 💡 [IDEA-051] What's In Dirk Verbeuren's Megadeth Arsenal
+### ✅ [IDEA-051] What's In Dirk Verbeuren's Megadeth Arsenal
 
 **Type:** drummer-kit
 **SEO Keywords:** dirk verbeuren drum kit, megadeth drummer, dirk verbeuren setup, soilwork drums
 **Search Volume:** HIGH (current Megadeth drummer, Soilwork legacy)
-**Data Available:** Partial (needs research)
+**Data Available:** Yes
 **Priority:** 4
 
 **Outline:**
@@ -1026,7 +1027,7 @@
 5. How He Approached Megadeth's Classic Catalog
 6. Where to Buy Similar Gear
 
-**Status:** IDEA (added 2026-03-26)
+**Status:** PUBLISHED (2026-04-05) — /articles/whats-in-dirk-verbeurens-kit
 
 ---
 
@@ -1102,4 +1103,4 @@
 
 ---
 
-*Last updated: 2026-04-05 13:05*
+*Last updated: 2026-04-05 17:15*

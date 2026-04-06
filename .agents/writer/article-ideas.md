@@ -292,6 +292,7 @@
 | 2026-04-05 | What's In Dirk Verbeuren's Megadeth Kit | /articles/whats-in-dirk-verbeurens-kit | - |
 | 2026-04-06 | What's In Richard Christy's Death Metal Arsenal | /articles/whats-in-richard-christys-kit | - |
 | 2026-04-06 | What's In Scott Travis' Judas Priest Arsenal | /articles/whats-in-scott-travis-kit | - |
+| 2026-04-06 | The Sound of Perseverance Drum Setup: Richard Christy | /articles/sound-of-perseverance-drum-setup | - |
 
 ---
 
@@ -387,12 +388,12 @@
 
 ---
 
-### 💡 [IDEA-019] The Sound of Perseverance Drum Setup: Richard Christy's Death Swan Song
+### ✅ [IDEA-019] The Sound of Perseverance Drum Setup: Richard Christy's Death Swan Song
 
 **Type:** album-breakdown
 **SEO Keywords:** sound of perseverance drums, richard christy death, chuck schuldiner final album gear
 **Search Volume:** Medium-High
-**Data Available:** Partial (needs research - Richard Christy played on this album, not Gene Hoglan)
+**Data Available:** Yes
 **Priority:** 4
 
 **Outline:**
@@ -403,7 +404,7 @@
 5. How Christy Approached Schuldiner's Vision
 6. The Most Technical Death Drumming
 
-**Status:** IDEA (corrected: drummer was Richard Christy, not Gene Hoglan)
+**Status:** PUBLISHED (2026-04-06) — /articles/sound-of-perseverance-drum-setup
 
 ---
 
@@ -1165,4 +1166,4 @@
 
 ---
 
-*Last updated: 2026-04-06 13:03*
+*Last updated: 2026-04-06 17:15*

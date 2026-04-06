@@ -28,7 +28,8 @@ import {
   getEvolutionShareUrl,
 } from '../data/drummerEvolution';
 import { colors } from '../colors';
-import { spacing, fontSize, fontWeight, lineHeight } from '../spacing';
+import { spacing } from '../spacing';
+import { fontSize, fontWeight, lineHeight } from '../typography';
 
 // ==========================================
 // Styles

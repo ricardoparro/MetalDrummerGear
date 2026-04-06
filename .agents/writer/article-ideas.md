@@ -291,6 +291,7 @@
 | 2026-04-05 | Blackwater Park Drum Setup: Martin Lopez | /articles/blackwater-park-drum-setup | - |
 | 2026-04-05 | What's In Dirk Verbeuren's Megadeth Kit | /articles/whats-in-dirk-verbeurens-kit | - |
 | 2026-04-06 | What's In Richard Christy's Death Metal Arsenal | /articles/whats-in-richard-christys-kit | - |
+| 2026-04-06 | What's In Scott Travis' Judas Priest Arsenal | /articles/whats-in-scott-travis-kit | - |
 
 ---
 
@@ -1104,7 +1105,7 @@
 
 ---
 
-### 💡 [IDEA-056] What's In Scott Travis' Judas Priest Arsenal
+### ✅ [IDEA-056] What's In Scott Travis' Judas Priest Arsenal
 
 **Type:** drummer-kit
 **SEO Keywords:** scott travis drum kit, judas priest drummer, scott travis setup, painkiller drummer, speed metal drums
@@ -1120,7 +1121,7 @@
 5. Painkiller vs Modern Setup Comparison
 6. Where to Buy Similar Gear
 
-**Status:** IDEA (added 2026-04-06)
+**Status:** PUBLISHED (2026-04-06) — /articles/whats-in-scott-travis-kit
 
 ---
 
@@ -1164,4 +1165,4 @@
 
 ---
 
-*Last updated: 2026-04-06 09:11*
+*Last updated: 2026-04-06 13:03*

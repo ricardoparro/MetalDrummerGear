@@ -16478,6 +16478,108 @@ function HeroSection({
   );
 }
 
+// ==========================================
+// START HERE CTAs - Homepage Quick-Win User Pathways (Issue #817)
+// Three prominent CTAs for different user types:
+// 1. Fans → Quiz (viral potential)
+// 2. Aspiring drummers → Beginner Guide (buyers/affiliate revenue)
+// 3. Gear nerds → Compare Tool (high engagement)
+// ==========================================
+
+function StartHereCTAs({ theme, onNavigateToQuiz, onNavigateToCompare, onNavigateToBeginnerGuide }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+
+  // GA4 tracking for CTA clicks (Issue #817)
+  const trackCTAClick = (ctaName, destination) => {
+    if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
+      window.gtag('event', 'start_here_cta_click', {
+        event_category: 'engagement',
+        event_label: ctaName,
+        destination_page: destination,
+      });
+    }
+  };
+
+  const ctaCards = [
+    {
+      id: 'quiz',
+      icon: '🎯',
+      title: 'Discover Your Drummer Match',
+      description: 'Take the quiz and find your metal drumming soulmate',
+      buttonText: 'Take Quiz',
+      onPress: () => {
+        trackCTAClick('drummer_match_quiz', '/quiz');
+        onNavigateToQuiz();
+      },
+      color: colors.brand.primary,
+      textColor: '#fff',
+    },
+    {
+      id: 'beginner',
+      icon: '💰',
+      title: 'Build Your First Metal Setup',
+      description: 'Get started under $1K with our beginner guide',
+      buttonText: 'View Guide',
+      onPress: () => {
+        trackCTAClick('beginner_setup_guide', '/guides/beginner-metal-drummer-setup');
+        onNavigateToBeginnerGuide();
+      },
+      color: '#059669', // Emerald/green for money/value
+      textColor: '#fff',
+    },
+    {
+      id: 'compare',
+      icon: '📊',
+      title: 'Compare Pro Setups',
+      description: 'See how legendary kits stack up side-by-side',
+      buttonText: 'Compare Now',
+      onPress: () => {
+        trackCTAClick('compare_setups', '/tools/compare');
+        onNavigateToCompare();
+      },
+      color: '#7c3aed', // Purple for analysis/research
+      textColor: '#fff',
+    },
+  ];
+
+  return (
+    <View style={styles.startHereContainer}>
+      <Text style={[styles.startHereLabel, { color: theme.secondaryText }]}>
+        ✨ START HERE
+      </Text>
+      <View style={[styles.startHereGrid, isMobile && styles.startHereGridMobile]}>
+        {ctaCards.map((card) => (
+          <TouchableOpacity
+            key={card.id}
+            onPress={card.onPress}
+            style={[
+              styles.startHereCard,
+              isMobile && styles.startHereCardMobile,
+              { backgroundColor: card.color, borderColor: card.color },
+            ]}
+            accessibilityRole="button"
+            accessibilityLabel={card.title}
+          >
+            <Text style={styles.startHereIcon}>{card.icon}</Text>
+            <Text style={[styles.startHereTitle, { color: card.textColor }]}>
+              {card.title}
+            </Text>
+            <Text style={[styles.startHereDescription, { color: card.textColor, opacity: 0.9 }]}>
+              {card.description}
+            </Text>
+            <View style={[styles.startHereButton, { backgroundColor: 'rgba(255,255,255,0.2)' }]}>
+              <Text style={[styles.startHereButtonText, { color: card.textColor }]}>
+                {card.buttonText} →
+              </Text>
+            </View>
+          </TouchableOpacity>
+        ))}
+      </View>
+    </View>
+  );
+}
+
 // DrummersPage - Dedicated page for browsing all drummers with filters (Issue #497)
 function DrummersPage({
   theme,
@@ -16715,6 +16817,7 @@ function DrummerList({
   error,
   onNavigateToCompare,
   onNavigateToQuiz,
+  onNavigateToBeginnerGuide,
   onNavigateToKitQuiz,
   onNavigateToGuessTheKit,
   onNavigateToSpotlights,
@@ -16804,6 +16907,13 @@ function DrummerList({
         searchInputRef={searchInputRef}
         drummerCount={drummers.length}
         gearCount="500+"
+      />
+      {/* Start Here CTAs - Homepage Quick-Win User Pathways (Issue #817) */}
+      <StartHereCTAs
+        theme={theme}
+        onNavigateToQuiz={onNavigateToQuiz}
+        onNavigateToCompare={onNavigateToCompare}
+        onNavigateToBeginnerGuide={onNavigateToBeginnerGuide}
       />
       <View style={styles.actionButtonsRow}>
         <TouchableOpacity
@@ -23969,6 +24079,28 @@ setShowList(false);
     }
   };
 
+  // Beginner Guide navigation (Issue #817) - Start Here CTA pathway
+  const handleNavigateToBeginnerGuide = () => {
+    setShowBeginnerGuide(true);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowQuotes(false);
+    setShowSpotlights(false);
+    setShowGearByBudget(false);
+    setShowList(false);
+    setListSlug(null);
+    setShowGearFinder(false);
+    setShowNewsPage(false);
+    setShowGearNewsPage(false);
+    setShowGearStats(false);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/guides/beginner-metal-drummer-setup');
+    }
+  };
+
   // Kit Quiz navigation (Issue #551) - Fix for #562, #566 (complete prop fix)
   const handleNavigateToKitQuiz = () => {
     setShowKitQuiz(true);
@@ -26314,6 +26446,7 @@ setShowList(false);
           error={drummersError}
           onNavigateToCompare={handleNavigateToCompare}
           onNavigateToQuiz={handleNavigateToQuiz}
+          onNavigateToBeginnerGuide={handleNavigateToBeginnerGuide}
           onNavigateToKitQuiz={handleNavigateToKitQuiz}
           onNavigateToGuessTheKit={handleNavigateToGuessTheKit}
           onNavigateToQuotes={handleNavigateToQuotes}
@@ -27654,6 +27787,77 @@ const styles = StyleSheet.create({
   listWrapper: {
     flex: 1,
   },
+  
+  // ==========================================
+  // Start Here CTAs Styles (Issue #817)
+  // Homepage Quick-Win User Pathways
+  // ==========================================
+  startHereContainer: {
+    marginHorizontal: spacing[5],  // 20px
+    marginBottom: spacing[6],      // 24px
+    marginTop: spacing[2],         // 8px (slight gap after hero)
+  },
+  startHereLabel: {
+    fontSize: fontSize.xs,
+    fontWeight: fontWeight.bold,
+    letterSpacing: 1.5,
+    textTransform: 'uppercase',
+    marginBottom: spacing[3],      // 12px
+    textAlign: 'center',
+  },
+  startHereGrid: {
+    flexDirection: 'row',
+    gap: spacing[3],               // 12px
+  },
+  startHereGridMobile: {
+    flexDirection: 'column',
+  },
+  startHereCard: {
+    flex: 1,
+    padding: spacing[5],           // 20px
+    borderRadius: spacing[3],      // 12px
+    borderWidth: 1,
+    alignItems: 'center',
+    minHeight: 180,
+    justifyContent: 'space-between',
+    ...Platform.select({
+      web: {
+        boxShadow: '0 4px 12px rgba(0, 0, 0, 0.15)',
+        transition: 'transform 0.2s ease, box-shadow 0.2s ease',
+        cursor: 'pointer',
+      },
+    }),
+  },
+  startHereCardMobile: {
+    minHeight: 140,
+    paddingVertical: spacing[4],   // 16px
+  },
+  startHereIcon: {
+    fontSize: fontSize.display.md, // 48px
+    marginBottom: spacing[2],      // 8px
+  },
+  startHereTitle: {
+    fontSize: fontSize.base,       // 16px
+    fontWeight: fontWeight.bold,
+    textAlign: 'center',
+    marginBottom: spacing[2],      // 8px
+  },
+  startHereDescription: {
+    fontSize: fontSize.sm,         // 14px
+    textAlign: 'center',
+    marginBottom: spacing[3],      // 12px
+    lineHeight: lineHeight.sm,
+  },
+  startHereButton: {
+    paddingHorizontal: spacing[4], // 16px
+    paddingVertical: spacing[2],   // 8px
+    borderRadius: spacing[5],      // 20px (pill shape)
+  },
+  startHereButtonText: {
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.semibold,
+  },
+  
   actionButtonsRow: {
     flexDirection: 'row',
     marginHorizontal: spacing[5],  // 20px

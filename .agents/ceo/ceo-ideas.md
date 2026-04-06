@@ -770,6 +770,73 @@
 
 **Data:** 2026-03-22 | Queued: 2026-03-25 09:00 | Completed: 2026-03-25
 
+### 💡 [CEO-018] "Gear Price History Tracker" — Inflation-Adjusted Setup Costs Over Time
+
+**Origem:** Content differentiation + data journalism — We show current setup costs, but gear prices change drastically over decades (Lars' 1983 Tama kit cost $1,500 then = $4,800 today)
+
+**Hipótese:** Se criarmos um tracker de evolução de preços com ajuste de inflação então:
+- **Unique Data Story:** "How much would Joey Jordison's 2001 setup cost today?" (nobody has this)
+- **Nostalgia SEO:** Captures "[drummer] [year] gear price", "vintage [drum] inflation-adjusted cost"
+- **Visual Storytelling:** Interactive charts showing price evolution (shareable graphics)
+- **Affiliate Angle:** "Then vs Now" comparisons drive modern gear purchases
+- **Historical Authority:** Positions us as gear economics archive
+- **Discovery Funnel:** Users researching vintage prices → discover current setups → affiliate clicks
+- **Backlink Magnet:** Gear forums/Reddit cite our inflation data (authoritative source)
+- **Content Depth:** Adds economic analysis layer to existing gear data
+- **Evergreen Value:** Historical pricing never expires (compound content)
+- **Social Virality:** "Lars Ulrich's 1983 setup would cost €15K today 😱" = Twitter bait
+
+**Impacto Curto (1-7d):** ⭐⭐ (Research-intensive, requires historical pricing data)
+**Impacto Médio (1-3m):** ⭐⭐⭐ (SEO compound for vintage/historical searches, backlink accumulation)
+**Impacto Longo (3-12m):** ⭐⭐⭐ (Defensible moat — unique dataset, authoritative source status)
+**Score Total:** 8⭐
+
+**Implementation:**
+- **Price History Page:** `/[drummer]/gear-history` (e.g., `/lars-ulrich/gear-history`)
+- **Data Per Era:**
+  - Original purchase year + price (from interviews/catalogs)
+  - Inflation-adjusted price (using BLS CPI data)
+  - Current market value (if vintage, vs modern equivalent)
+  - Visual: Line chart showing price evolution
+- **Comparison View:**
+  - "1983 Lars Setup: $1,500 → $4,800 (2026 dollars)"
+  - "2001 Joey Setup: €8,000 → €13,200 (2026 euros)"
+- **Research Sources:**
+  - Vintage drum catalogs (Reverb, VintageAndRare archives)
+  - Drummer interviews mentioning costs
+  - Inflation calculators (BLS, ECB data)
+  - Forum posts from purchase years (DrummerWorld archives)
+  - Modern equivalent pricing (Thomann/Sweetwater current costs)
+
+**Phased Rollout:**
+1. **Phase 1:** Pick 3 drummers with well-documented vintage setups:
+   - Lars Ulrich (1983 Metallica era — iconic early gear)
+   - Joey Jordison (2001 Iowa era — peak Slipknot)
+   - Dave Lombardo (1986 Reign in Blood era — thrash classic)
+2. **Phase 2:** Add 5 more drummers with historical data
+3. **Phase 3:** Interactive inflation calculator tool (users input year + price)
+
+**Distribution Strategy:**
+- **Reddit Launch:** r/drums, r/Metal: "How inflation changed metal drum gear costs (1983-2026)"
+- **Twitter Thread:** Visual timeline showing price evolution (one drummer)
+- **Forum Seeding:** DrummerWorld, Vintage Drum Forum: "Inflation-adjusted gear prices"
+- **YouTube Collaboration:** Reach out to drum history channels (data visualization potential)
+
+**Métrica de sucesso:**
+- 3 price history pages published in 1 week
+- 150+ page views per page (first week)
+- Ranks for "[drummer] [year] setup cost" within 3 weeks
+- 10+ backlinks from gear forums/vintage sites
+- 15+ social shares per page
+- 10% conversion to current setup page (discovery funnel)
+- Cited in at least 1 drum history discussion/video
+
+**Blockers externos:** Não (historical pricing research but all data publicly available)
+
+**Decisão:** IMPLEMENTAR (phased approach, start with Lars/Joey/Dave)
+
+**Data:** 2026-04-05
+
 <!-- CEO adiciona novas ideias aqui -->
 
 

@@ -290,6 +290,7 @@
 | 2026-03-28 | What's In Alex Bent's Trivium Arsenal | /articles/whats-in-alex-bents-kit | - |
 | 2026-04-05 | Blackwater Park Drum Setup: Martin Lopez | /articles/blackwater-park-drum-setup | - |
 | 2026-04-05 | What's In Dirk Verbeuren's Megadeth Kit | /articles/whats-in-dirk-verbeurens-kit | - |
+| 2026-04-06 | What's In Richard Christy's Death Metal Arsenal | /articles/whats-in-richard-christys-kit | - |
 
 ---
 
@@ -685,12 +686,12 @@
 
 ---
 
-### 💡 [IDEA-034] What's In Richard Christy's Arsenal
+### ✅ [IDEA-034] What's In Richard Christy's Arsenal
 
 **Type:** drummer-kit
 **SEO Keywords:** richard christy drum kit, death drummer, richard christy setup, control denied drums
 **Search Volume:** Medium-High (Death's final drummer + Howard Stern fame)
-**Data Available:** Partial (needs research)
+**Data Available:** Yes (extendedBios)
 **Priority:** 4
 
 **Outline:**
@@ -701,7 +702,7 @@
 5. Post-Metal Career (Charred Walls of the Damned)
 6. Where to Buy Similar Gear
 
-**Status:** IDEA (added 2026-03-20)
+**Status:** PUBLISHED (2026-04-06) — /articles/whats-in-richard-christys-kit
 
 ---
 
@@ -1103,4 +1104,64 @@
 
 ---
 
-*Last updated: 2026-04-05 17:15*
+### 💡 [IDEA-056] What's In Scott Travis' Judas Priest Arsenal
+
+**Type:** drummer-kit
+**SEO Keywords:** scott travis drum kit, judas priest drummer, scott travis setup, painkiller drummer, speed metal drums
+**Search Volume:** HIGH (Judas Priest legendary status, Painkiller iconic)
+**Data Available:** Yes (extendedBios)
+**Priority:** 5
+
+**Outline:**
+1. Introduction — The Speed Metal Savior
+2. Current Pearl Setup
+3. Signature Techniques (double bass speed, power)
+4. Evolution from Racer X to Judas Priest
+5. Painkiller vs Modern Setup Comparison
+6. Where to Buy Similar Gear
+
+**Status:** IDEA (added 2026-04-06)
+
+---
+
+### 💡 [IDEA-057] What's In Art Cruz' Lamb of God Arsenal
+
+**Type:** drummer-kit
+**SEO Keywords:** art cruz drum kit, lamb of god drummer, art cruz setup, log drums 2026
+**Search Volume:** HIGH (current Lamb of God drummer, active touring)
+**Data Available:** Yes (extendedBios)
+**Priority:** 4
+
+**Outline:**
+1. Introduction — Carrying the Torch
+2. Current Ludwig Setup
+3. Signature Techniques (groove-power hybrid)
+4. From Winds of Plague to LOG
+5. How He Approached Chris Adler's Legacy
+6. Where to Buy Similar Gear
+
+**Status:** IDEA (added 2026-04-06)
+
+---
+
+### 💡 [IDEA-058] Rust in Peace Drum Setup: Nick Menza's Thrash Masterpiece
+
+**Type:** album-breakdown
+**SEO Keywords:** rust in peace drums, nick menza gear, megadeth rust in peace recording, nick menza 1990 kit
+**Search Volume:** HIGH (Megadeth's most acclaimed album, RIP tribute interest)
+**Data Available:** Partial (needs research)
+**Priority:** 4
+
+**Outline:**
+1. Introduction — The Album That Perfected Thrash
+2. Studio Setup at Rumbo Recorders
+3. "Hangar 18" & "Holy Wars" Breakdown
+4. Recording Techniques with Mike Clink
+5. Gear Breakdown (drums, cymbals, pedals)
+6. Nick Menza's Legacy
+
+**Status:** IDEA (added 2026-04-06)
+
+---
+
+*Last updated: 2026-04-06 09:11*

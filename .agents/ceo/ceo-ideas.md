@@ -28,6 +28,48 @@
 
 ## 📥 Novas Ideias
 
+### 💡 [CEO-017] "Gear by Brand" Landing Pages — Brand-Centric SEO Discovery Hub
+
+**Origem:** Content architecture analysis — We have 31+ drummers with verified gear data indexed by drummer. Zero brand-centric view exists. Metal fans actively search by brand ("who plays DW drums", "metal drummers using Pearl").
+
+**Hipótese:** Se criarmos páginas dedicadas por marca (DW, Pearl, Tama, Ludwig, Yamaha, Paiste, Zildjian, etc.) mostrando quais bateristas do MetalForge usam cada marca, então:
+- Capturamos buscas brand-específicas no Google ("DW drums metal musicians", "famous drummers who use Tama")
+- Cada página de marca = novo landing page SEO com keywords de alto volume
+- 20-30 novas páginas indexadas a partir de dados existentes (sem criação de conteúdo novo)
+- Internal linking hub: brand pages → drummer profiles → gear pages
+- Comunidades de fãs de marcas específicas (DW Nation, Paiste collectors) descobrem e linkam nossas páginas
+- Quando novos bateristas são adicionados, todas as suas marcas ganham sinal SEO automaticamente
+
+**Impacto Curto (1-7d):** ⭐⭐ (páginas levam tempo para indexar, mas implementação é rápida)
+**Impacto Médio (1-3m):** ⭐⭐⭐ (brand SEO se acumula, cada baterista novo fortalece páginas de marca)
+**Impacto Longo (3-12m):** ⭐⭐ (autoridade de marca, backlinks de comunidades e fóruns especializados)
+**Score Total:** 7⭐
+
+**Páginas a criar:** `/brand/dw-drums`, `/brand/pearl`, `/brand/tama`, `/brand/paiste`, `/brand/zildjian`, `/brand/ludwig`, `/brand/yamaha`, `/brand/sabian`, etc. (~20-30 pages)
+
+**Conteúdo por página:**
+- Lista de todos os bateristas MetalForge que usam a marca
+- Peças específicas usadas (ex: "Lars Ulrich usa DW 9000 Hi-Hat Stand")
+- Filtro por categoria (drum kit, cymbals, pedals, hardware)
+- Link para perfil completo de cada baterista
+- Stats: "X of 31 MetalForge drummers use DW"
+- SEO meta: "[Brand] Drums — Famous Metal Drummers Who Use [Brand]"
+
+**Métrica de sucesso:**
+- 20+ brand pages live at `/brand/[slug]`
+- Brand pages appearing in Google Search Console within 4 weeks
+- 5%+ of sessions include a brand page visit (GA4)
+- At least 3 brand pages in top 100 for target keywords within 6 weeks
+- Internal link clicks from drummer profiles to brand pages (GA4 events)
+
+**Blockers externos:** Nenhum — pure code + existing data. Ralph can implement autonomously.
+
+**Decisão:** IMPLEMENTAR — 7⭐ score, no external blockers, leverages existing gear data with zero new content creation needed.
+
+**Data:** 2026-04-09
+
+---
+
 ### 💡 [CEO-016] Drummer Gear Share Cards — Viral Social Images
 
 **Origem:** Distribution gap analysis — We produce great content but lack viral sharing mechanisms. Reddit campaign (#805) + Drummer Digest (#808) active but need visual assets.

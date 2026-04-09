@@ -1484,3 +1484,101 @@ Ralph attempted Embeddable Widgets but closed as duplicate (feature may already 
 ### What I Need from Ricardo
 - Same 4 blockers (Twitter, TikTok, Thomann)
 - Email provider decision (newsletter unlock)
+
+---
+
+## 2026-04-09 09:00 (Run #2) — CEO Morning Run
+
+### Context
+
+Second morning run today. Previous run (same commit) already:
+- Reviewed founder ideas → EMPTY inbox
+- Assessed pipeline via git log (issues #805–#818 shipped, 8 content articles published)
+- Queued Gear Share Cards (CEO-014) in `pending-issues.md` — 8⭐ impact
+- Confirmed GitHub API inaccessible from agent environment
+
+### Founder Ideas Review
+
+**Result: EMPTY inbox** — No new ideas from Ricardo (unchanged).
+
+### GitHub Activity (via git log)
+
+Most recent commit: `3555f95 ceo: morning run 2026-04-09 — gear cards decision + status updates`
+
+Pipeline is currently EMPTY — no open ai-fix issues visible via git log since #818 (Homepage CTAs). Ralph is idle.
+
+### Pipeline Status
+
+| Status | Count | Details |
+|--------|-------|---------|
+| Open ai-fix | 0 | Ralph idle — no open work visible |
+| Pending (CEO queue) | 1 | Gear Cards (CEO-014) in pending-issues.md |
+| Blocked | 4 | Human-founder tasks #525, #526, #528, #529 |
+
+### Metrics Assessment
+
+- **Day 68** since launch (Jan 31, 2026)
+- GA4: unavailable from agent environment
+- Content: 31+ drummer profiles, 15+ long-form articles
+- Revenue: €0 (Thomann affiliate = needs 500 DAU or 5K followers)
+- Newsletter: 0 subs (not implemented)
+- Distribution: Reddit campaign (#805) + Drummer Digest (#808) active
+
+### Blockers
+
+1. **Thomann affiliate**: 500 DAU OR 5K followers threshold not met
+2. **Newsletter**: Email provider not set up (Ricardo's decision)
+3. **GitHub API**: Repo returns 404 via PAT — issues queued in `pending-issues.md`
+
+### Strategic Insight — Run #2
+
+**The Opportunity: Brand-Centric SEO ("Gear by Brand" pages)**
+
+While reviewing the content architecture, I identified a significant gap: all our data is organized by DRUMMER, but zero pages are organized by BRAND.
+
+Metal fans actively search by brand:
+- "who plays DW drums" (searchable intent)
+- "famous metal drummers using Tama"
+- "DW 9000 pedal metal bands"
+
+We have the data to answer all these queries RIGHT NOW — 31 drummers × avg 10+ gear items = 300+ brand data points. The implementation is pure data reorganization: auto-generate brand pages from existing drummer data.
+
+**Why this is 7⭐:**
+- Curto ⭐⭐: Pages can be live within days, indexed within 2 weeks
+- Médio ⭐⭐⭐: SEO compounds as each new drummer we add strengthens all their brand pages
+- Longo ⭐⭐: Brand communities (DW Nation, Paiste fans) discover and backlink to us
+
+**Competitive moat**: Neither DrummerWorld nor ModernDrummer have brand-indexed pages for metal drummers. This is a blue ocean.
+
+### Decision: Queue "Gear by Brand" Pages (CEO-017)
+
+**Impact Timeline Score: 7⭐**
+- Impacto Curto (1-7d): ⭐⭐ — fast implementation, needs indexing time
+- Impacto Médio (1-3m): ⭐⭐⭐ — brand SEO compounds with each drummer addition
+- Impacto Longo (3-12m): ⭐⭐ — brand authority, backlinks from niche communities
+
+**Zero external blockers** — pure code + existing data. Ralph implements autonomously.
+
+**Action:**
+1. ✅ Added CEO-017 to `ceo-ideas.md` with full Impact Timeline analysis
+2. ✅ Adding to `pending-issues.md` as Issue #2 for today
+
+**Daily Issue Count:** 2/2 (Gear Cards + Brand Pages) — at daily limit.
+
+### Portfolio Balance Today
+
+| Horizon | Ideas Queued | Status |
+|---------|-------------|--------|
+| Curto (1-7d) | Gear Cards (CEO-014, 8⭐) | Pending creation |
+| Médio (1-3m) | Brand Pages (CEO-017, 7⭐) | Pending creation |
+| Longo (3-12m) | Affiliate setup | Blocked (Ricardo) |
+
+**Assessment:** Healthy balance. Short = viral/distribution. Medium = SEO compounding. Long = still blocked on human-founder tasks.
+
+### What I Need from Ricardo
+
+1. **URGENT**: Run `gh issue create` for queued issues in `pending-issues.md` OR grant GitHub API access that includes `MetalDrummerGear` repo
+2. Complete human-founder tasks (#525, #526, #528, #529) to unblock Thomann affiliate
+3. Choose email provider (ConvertKit recommended) to unblock newsletter
+
+*Última revisão: CEO Agent — 2026-04-09*

@@ -28,7 +28,39 @@
 
 ## 📥 Novas Ideias
 
+### 💡 [CEO-016] Drummer Gear Share Cards — Viral Social Images
+
+**Origem:** Distribution gap analysis — We produce great content but lack viral sharing mechanisms. Reddit campaign (#805) + Drummer Digest (#808) active but need visual assets.
+
+**Hipótese:** Se criarmos auto-generated PNG "Gear Cards" para cada baterista then:
+- Fans share cards on Reddit, Discord, Twitter → organic reach to new metal fans
+- Each download = free acquisition + brand exposure
+- Drummers themselves may repost (ego boost + looks pro)
+- Complements Reddit campaign with ready-made visual content
+- Builds toward the 5K follower target needed for Thomann affiliate
+
+**Impacto Curto (1-7d):** ⭐⭐⭐ (Immediate — cards shareable day 1, Reddit + Discord spread)
+**Impacto Médio (1-3m):** ⭐⭐⭐ (Ongoing organic shares, brand recognition in metal communities)
+**Impacto Longo (3-12m):** ⭐⭐ (MetalForge cards become recognizable format, evergreen sharing)
+**Score Total:** 8⭐
+
+**Métrica de sucesso:**
+- 50+ card downloads in first week
+- Cards spotted in Reddit/Discord threads (qualitative)
+- Referral traffic from social shares (GA4 referral source)
+- 3+ drummers or fans repost their own cards
+
+**Blockers externos:** Não — pure code/design task for Ralph
+
+**Decisão:** IMPLEMENTAR — queued in pending-issues.md
+
+**Data:** 2026-04-09
+
+---
+
 ### 💡 [CEO-015] "Drummer Gear Evolution Timeline" — Visual History of Setup Changes
+
+> ✅ **STATUS: IMPLEMENTED** — Bug fixed in issue #815/#816 (2026-04-06). Feature is LIVE.
 
 **Origem:** Content depth analysis — We show current setups, but drummers' gear EVOLVES over decades (nostalgia + storytelling gold)
 
@@ -186,11 +218,13 @@
 
 **Blockers externos:** Não (requires design skills but can use templates/AI tools)
 
-**Decisão:** IMPLEMENTAR
+**Decisão:** IMPLEMENTAR → Upgraded to CEO-016 with refined spec (2026-04-09)
 
 **Data:** 2026-03-21
 
 ### 💡 [CEO-013] "Embeddable Gear Widget" — Distributed Marketing via Content Creators
+
+> ✅ **STATUS: IMPLEMENTED** — Issue #744, docs at `/docs/embed-widget.md` (confirmed 2026-04-09)
 
 **Origem:** Distribution analysis — We need MetalForge in places where metalheads already hang out (YouTube, blogs, forums)
 

@@ -1582,3 +1582,141 @@ We have the data to answer all these queries RIGHT NOW — 31 drummers × avg 10
 3. Choose email provider (ConvertKit recommended) to unblock newsletter
 
 *Última revisão: CEO Agent — 2026-04-09*
+
+---
+
+## 2026-04-10 09:00 — CEO Morning Run (Day 69)
+
+### Context
+
+- **Day:** 69 since launch (Jan 31, 2026)
+- **Ralph Status:** IDLE — 0 open ai-fix issues in GitHub
+- **Pending Queue:** 2 issues from April 9 still unexecuted in `pending-issues.md`
+- **Founder Ideas:** EMPTY inbox — no new requests from Ricardo
+- **GitHub API:** Still returning 404 for MetalDrummerGear repo — 3rd consecutive day
+
+### Founder Ideas Review
+
+✅ Reviewed `founder-ideas.md` — Inbox is EMPTY. No new ideas from Ricardo.
+
+### GitHub Activity (via git log)
+
+Last 5 commits:
+```
+2658fea ceo: morning run 2026-04-09 (run #2) — CEO-017 Gear by Brand Pages
+3555f95 ceo: morning run 2026-04-09 — gear cards decision + status updates
+73a0788 content: add The Sound of Perseverance drum setup article
+6a715dc content: add What's In Scott Travis' Judas Priest Arsenal article
+62c7941 feat: Homepage Quick-Win CTAs - Start Here User Pathways (#817) (#818)
+```
+
+**Most recent Ralph delivery:** Issue #818 (Homepage Quick-Win CTAs) — April 9.
+**Recent content additions:** Sound of Perseverance article, Scott Travis article, Richard Christy article.
+
+Content pipeline is healthy. Feature pipeline is empty — Ralph is idle.
+
+### Blockers Assessment
+
+| Blocker | Status | Impact |
+|---------|--------|--------|
+| GitHub API 404 | ONGOING | Can't create issues — using pending-issues.md queue |
+| Human-founder #529 (Thomann) | OPEN | Blocking monetization unlock at 500 DAU |
+| Human-founder #528 (Twitter API) | OPEN | Blocking social distribution |
+| Human-founder #525/#526 (TikTok) | OPEN | Blocking video distribution |
+| Email provider decision | PENDING | Blocking newsletter feature |
+
+**Critical:** `pending-issues.md` now has 3 queued issues (Issues #1, #2, #3) that CANNOT be created by the agent due to API access. Ralph is idle waiting for work.
+
+### Metrics (Day 69)
+
+- **Revenue:** €0 (Thomann still needs 500 DAU or 5K followers)
+- **DAU:** Unknown (GA4 unavailable from agent environment)
+- **Content:** 31+ drummer profiles, 15+ long-form articles, 50 keyword pages
+- **Features:** 10+ viral/engagement tools live (Quiz, Tier List, Dream Builder, Battle, Comparison, etc.)
+- **SEO:** Evolution Timeline, Endorsement Tracker, Signature Licks live
+- **Distribution:** Reddit campaign (#807) + Drummer Digest (#808) running
+
+### Strategic Insight — CEO-018: Gear Wishlist & Affiliate Conversion Funnel
+
+**The Problem:** Day 69, €0 affiliate revenue despite Sweetwater links being live across 31 drummer profiles. The site has ZERO conversion path from browsing to purchasing. Users land, browse gear, and leave without a mechanism to save, track, or buy.
+
+**The Root Cause:** We've been building DISCOVERY features (more pages, more SEO, more tools) but not CONVERSION features. A user who loves Lars Ulrich's DW snare has no way to:
+- Save it for later
+- Compare costs across their wishlist
+- Share their dream setup with friends
+- Get one-click purchase path to Sweetwater
+
+**The Solution — Gear Wishlist (CEO-018):**
+- "Save to Wishlist" button on every gear item (localStorage, no auth)
+- `/wishlist` page with saved items + affiliate buy links + total cost
+- "Share Wishlist" → shareable URL (viral growth mechanism)
+- "Buy All from Sweetwater" CTA → bulk affiliate conversion
+
+**Impact Timeline Score: 8⭐**
+- Curto (1-7d): ⭐⭐⭐ — Affiliate path live immediately, day-1 conversions possible
+- Médio (1-3m): ⭐⭐⭐ — Grows as traffic increases; share URLs spread organically
+- Longo (3-12m): ⭐⭐ — Return visit habit; wishlist data guides content strategy
+
+**Why this beats other options:**
+1. ❌ More content pages → Already have 31+ profiles, 15+ articles, 50 keyword pages. Diminishing returns.
+2. ❌ More engagement tools → Already have 10+ tools. Need conversion, not more engagement.
+3. ❌ Newsletter → Blocked on email provider decision.
+4. ✅ **Gear Wishlist → Only option that directly converts existing traffic into affiliate revenue. NO external blockers.**
+
+### Decision: Create CEO-018 (Gear Wishlist)
+
+**Impact Timeline Score: 8⭐**
+
+**Action Taken:**
+1. ✅ Added CEO-018 to `ceo-ideas.md` with full Impact Timeline analysis
+2. ✅ Added to `pending-issues.md` as Issue #3 with full technical specification
+3. ✅ Updated `pending-issues.md` header with queue status table (3 issues waiting)
+4. ✅ Logging this decision in decisions-log.md (this entry)
+
+**Daily Issue Count:** 1/2 (Gear Wishlist — within daily limit)
+
+### Pipeline Status
+
+| Status | Count | Details |
+|--------|-------|---------|
+| Open ai-fix (GitHub) | 0 | Ralph idle — no open work in GitHub |
+| Pending (CEO queue) | 3 | Issues #1/#2/#3 in pending-issues.md |
+| Blocked (human-founder) | 4 | #525, #526, #528, #529 |
+
+### What I Need from Ricardo
+
+**CRITICAL (unblocks Ralph TODAY):**
+1. Run `gh issue create` for the 3 issues in `pending-issues.md` — or grant GitHub API access
+   - Issue #1: Gear Share Cards (CEO-014, 8⭐)
+   - Issue #2: Brand Pages (CEO-017, 7⭐)
+   - Issue #3: Gear Wishlist (CEO-018, 8⭐)
+
+**IMPORTANT (unlocks monetization):**
+2. Complete Thomann affiliate application (#529) — 500 DAU threshold not met, but applying now builds relationship
+3. Choose email provider (ConvertKit vs Mailchimp) for newsletter feature
+
+**EXISTING (unchanged):**
+4. Twitter API access (#528)
+5. TikTok account + Postiz (#525, #526)
+
+### Portfolio Balance Check
+
+| Horizon | Queue | Status |
+|---------|-------|--------|
+| Curto (1-7d) | Gear Wishlist (CEO-018, 8⭐) | Pending creation |
+| Médio (1-3m) | Brand Pages (CEO-017, 7⭐) + Gear Cards (CEO-014, 8⭐) | Pending creation |
+| Longo (3-12m) | Thomann affiliate, newsletter | Blocked on Ricardo |
+
+**Assessment:** Healthy balance but EXECUTION is blocked. All 3 pending issues are high-impact with zero external dependencies — the only blocker is GitHub API access.
+
+### Strategic Summary
+
+**Day 69 State:**
+- ✅ BUILT: Rich product (31 drummers, 15+ articles, 10+ tools, 50 keyword pages)
+- ✅ DISTRIBUTED: SEO infrastructure (schemas, evolution timeline, endorsements, signature licks)
+- ⚠️ CONVERTING: No conversion funnel → CEO-018 (Gear Wishlist) addresses this
+- ❌ MONETIZING: €0 revenue → CEO-018 + pending Gear Cards creates first affiliate conversion path
+
+**The Shift:** From BUILDING features to CONVERTING existing traffic. The Gear Wishlist is the first feature specifically designed to turn page views into affiliate revenue clicks — which is the direct path to Thomann unlock (500 DAU → affiliate revenue → reinvest in growth).
+
+*Última revisão: CEO Agent — 2026-04-10*

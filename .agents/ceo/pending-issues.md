@@ -2,6 +2,18 @@
 
 *Issues queued for creation. Run `gh issue create` for each. Created by CEO Agent when gh CLI unavailable.*
 
+> ⚠️ **ATTENTION RICARDO**: GitHub API returns 404 for this repo from the agent environment. 3 issues are queued below waiting for creation. Please run the `gh issue create` commands at the bottom of each issue entry, OR grant API access so the agent can create issues autonomously. Ralph is currently IDLE.
+
+---
+
+## ⏳ Status: 3 Issues Waiting
+
+| # | Title | Label | Score | Added |
+|---|-------|-------|-------|-------|
+| 1 | Gear Share Cards (CEO-014) | ai-fix | 8⭐ | 2026-04-09 |
+| 2 | Gear by Brand Pages (CEO-017) | ai-fix | 7⭐ | 2026-04-09 |
+| 3 | Gear Wishlist & Conversion Funnel (CEO-018) | ai-fix | 8⭐ | 2026-04-10 |
+
 ---
 
 ## 🟢 Issue #1 — READY TO CREATE
@@ -246,4 +258,117 @@ gh issue create \
   --title "feat: Gear by Brand Pages — Brand-Centric SEO Landing Pages (CEO-017)" \
   --label "ai-fix" \
   --body "..." # (paste Issue #2 body above)
+```
+
+---
+
+## 🟢 Issue #3 — READY TO CREATE
+
+**Title:** `feat: Gear Wishlist & Affiliate Conversion Funnel — Personal Gear Save + Share (CEO-018)`
+
+**Labels:** `ai-fix`
+
+**Body:**
+```
+## Overview
+
+Build a frictionless "Gear Wishlist" system that lets users save gear items from drummer profiles and purchase them via affiliate links. No sign-up required — uses localStorage for zero-friction adoption.
+
+## Why Now
+
+- Day 69 since launch: €0 affiliate revenue despite Sweetwater links being live
+- Users browse drummer gear but have no save/buy mechanism
+- This creates the site's FIRST direct conversion funnel: Browse → Save → Buy
+- No external dependencies — pure frontend, localStorage, existing affiliate patterns
+- **Score: 8⭐** (Impacto Curto: ⭐⭐⭐, Médio: ⭐⭐⭐, Longo: ⭐⭐)
+- Directly addresses the €0 affiliate revenue problem
+
+## What to Build
+
+### 1. "Save to Wishlist" Button on Gear Items
+
+On every gear item row across ALL drummer profile pages, add:
+- Heart/bookmark icon button: "♡ Save" → "♥ Saved"
+- Toggles item in/out of wishlist (localStorage)
+- Visual feedback: button state change (outline → filled)
+- Show count badge on nav: "Wishlist (3)" when items saved
+
+### 2. `/wishlist` Page — Personal Gear Hub
+
+New page at `/wishlist` displaying saved items:
+
+**Layout:**
+- Header: "My Gear Wishlist — [X items, €/$ total cost]"
+- Table/grid of saved gear:
+  - Drummer name + photo (small)
+  - Item name + category (drums/cymbals/pedals/hardware)
+  - Estimated price
+  - "Buy on Sweetwater" affiliate link (per item)
+  - "Buy on Thomann" affiliate link (per item, EU)
+  - Remove (×) button
+- **Footer CTA:** "Buy All from Sweetwater" → bulk search link with UTM params
+- **Empty state:** "Start saving gear from any drummer's profile →" with link
+
+### 3. Share Wishlist Feature
+
+On the /wishlist page:
+- "📤 Share Wishlist" button
+- Encodes wishlist JSON to base64, appends to URL: `/wishlist?list=BASE64`
+- Copies URL to clipboard + shows "Link copied!"
+- When visiting a share URL, populate wishlist from URL param (read-only view with "Save to My Wishlist" CTA)
+
+### 4. Persistence & UX Details
+
+- localStorage key: `metalforge_wishlist`
+- Persist across sessions (localStorage is non-session storage)
+- On drummer profile pages: show filled heart icon if item already saved
+- "Clear All" button on wishlist page
+- Mobile-friendly layout (cards on mobile, table on desktop)
+
+### 5. Affiliate UTM Tags
+
+All links from wishlist page should use UTM tracking:
+- `?utm_source=metalforge&utm_medium=wishlist&utm_campaign=gear-purchase`
+- This lets GA4 track conversion from wishlist feature specifically
+
+## Files Likely Involved
+
+- `packages/frontend/pages/wishlist.js` — New wishlist page
+- `packages/frontend/components/GearItem.js` (or equivalent) — Add save button
+- `packages/frontend/hooks/useWishlist.js` — New hook for localStorage state
+- `packages/frontend/components/NavBar.js` — Add wishlist count badge
+
+## Acceptance Criteria
+
+- [ ] "Save" button appears on every gear item across all drummer profile pages
+- [ ] Clicking "Save" toggles item in localStorage wishlist
+- [ ] `/wishlist` page shows all saved items with prices and affiliate links
+- [ ] "Buy on Sweetwater" links work with affiliate UTM params for each item
+- [ ] "Share Wishlist" generates a shareable URL that repopulates wishlist
+- [ ] Wishlist persists across browser sessions (localStorage)
+- [ ] Wishlist count badge visible in nav/header when items exist
+- [ ] Empty state on /wishlist page guides users to browse drummers
+- [ ] Works on mobile and desktop
+- [ ] No console errors
+
+## Success Metrics
+
+- `/wishlist` page visits tracked in GA4
+- Affiliate click events from wishlist page (GA4 custom event)
+- Share URLs appearing as referral traffic source
+- At least 50 wishlist saves in first week (GA4 event: `wishlist_add`)
+```
+
+**Priority:** HIGH — Impact Score 8⭐, no blockers, first direct affiliate conversion funnel
+**CEO Decision Date:** 2026-04-10
+**Based on:** CEO-018 analysis in ceo-ideas.md
+
+---
+
+*To create this issue, run:*
+```bash
+gh issue create \
+  --title "feat: Gear Wishlist & Affiliate Conversion Funnel — Personal Gear Save + Share (CEO-018)" \
+  --label "ai-fix" \
+  --body "$(cat .agents/ceo/issue-body-wishlist.md)"
 ```

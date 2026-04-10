@@ -28,6 +28,56 @@
 
 ## 📥 Novas Ideias
 
+### 💡 [CEO-018] "Gear Wishlist & Affiliate Conversion Funnel" — Frictionless Purchase Path
+
+**Origem:** Revenue gap analysis — Day 69, €0 affiliate revenue despite Sweetwater links being live. Users browse drummer gear but have no mechanism to save, track, or buy. The site lacks a direct conversion path from browsing to purchasing.
+
+**Hipótese:** Se criarmos um sistema de Gear Wishlist (localStorage, zero auth required) onde usuários podem salvar gear items que querem comprar, então:
+- **Direct Revenue Path:** "Save → Share → Buy" funnel converts browsers into affiliate clickers
+- **Return Visit Trigger:** Users return to check their saved list / share it with friends
+- **Social Sharing Hook:** "Here's my dream $15K metal setup" — shareable URL with base64-encoded wishlist
+- **Sweetwater CTR Boost:** "Buy All from Sweetwater" CTA on wishlist page = bulk affiliate click
+- **Zero Friction:** No signup required (localStorage) = higher adoption than auth-gated features
+- **Data Insight:** Which gear items get saved most = signals for content prioritization
+
+**Impacto Curto (1-7d):** ⭐⭐⭐ (Immediate affiliate path live — any user can start saving + buying day 1)
+**Impacto Médio (1-3m):** ⭐⭐⭐ (Grows as traffic increases; share URLs spread; affiliate clicks compound)
+**Impacto Longo (3-12m):** ⭐⭐ (Wishlist habit drives return visits; data guides future content strategy)
+**Score Total:** 8⭐
+
+**Features:**
+1. **"Save to Wishlist" button** on every gear item across all drummer profiles
+2. **`/wishlist` page** showing saved items:
+   - Drummer, item name, category (drums / cymbals / pedals / hardware)
+   - Estimated price + Sweetwater/Thomann affiliate links per item
+   - Total setup cost (running sum)
+   - Remove button per item
+3. **"Share My Wishlist"** → generates shareable URL (`/wishlist?list=base64encodeddata`)
+4. **"Buy All from Sweetwater"** CTA → opens search page with UTM affiliate tags
+5. **"Clear Wishlist"** button
+6. **Count badge** on nav/header showing saved item count (persistent UX indicator)
+
+**Tech Implementation:**
+- Storage: `localStorage.setItem('metalforge_wishlist', JSON.stringify(items))`
+- Share URL: base64-encode wishlist JSON → append to `/wishlist?list=`
+- On page load: parse URL param → populate wishlist if present (shared link)
+- Affiliate links: existing Sweetwater/Thomann patterns already in codebase
+
+**Métrica de sucesso:**
+- Wishlist page visits tracked in GA4 (new page in analytics)
+- "Buy All from Sweetwater" CTR > 10% of wishlist page visitors
+- Wishlist share URLs appearing as referral sources in GA4
+- At least 50 wishlist saves in first week (GA4 custom event)
+- Affiliate click revenue increase vs previous week baseline
+
+**Blockers externos:** NONE — pure frontend, localStorage, existing affiliate link patterns. Ralph can implement autonomously.
+
+**Decisão:** IMPLEMENTAR — 8⭐ score, no external blockers, directly addresses €0 revenue problem by creating first-ever conversion funnel on the site.
+
+**Data:** 2026-04-10
+
+---
+
 ### 💡 [CEO-017] "Gear by Brand" Landing Pages — Brand-Centric SEO Discovery Hub
 
 **Origem:** Content architecture analysis — We have 31+ drummers with verified gear data indexed by drummer. Zero brand-centric view exists. Metal fans actively search by brand ("who plays DW drums", "metal drummers using Pearl").

@@ -83,6 +83,7 @@ import {
   updateBattleMeta,
   updateGearStatsMeta,
   updateToolsHubMeta,
+  updateRedditLandingMeta,
 } from './utils/ogMetaTags';
 
 // Skeleton Components for CLS Prevention
@@ -205,6 +206,9 @@ import {
 
 // Gear Card Share Component (Issue #764)
 import { GearCardShare, trackGearCardEvent, getCardUrl } from './components/GearCardShare';
+
+// Sticky CTA Component (Issue #820) - Conversion optimization
+import StickyCTA from './components/StickyCTA';
 
 // Drummer Battle - Weekly Voting Feature (Issue #689)
 // Lazy loaded for performance optimization (#708) - 10KB module
@@ -1084,6 +1088,12 @@ function getSpotlightHistory(drummers, numWeeks = 12) {
   }
   
   return history;
+}
+
+// Check if on Reddit landing page (Issue #819) - /reddit
+function isRedditLandingPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  return window.location.pathname === '/reddit' || window.location.pathname === '/reddit/';
 }
 
 // Check if on spotlights archive page
@@ -7427,6 +7437,195 @@ function DrummerSpotlight({ drummer, theme, onSelectDrummer, onViewAllSpotlights
         </View>
       </View>
     </View>
+  );
+}
+
+// Reddit Landing Page (Issue #819) - Optimized page for Reddit campaign traffic
+function RedditLandingPage({ theme, onBack, onNavigateToQuiz, onNavigateToTools, onNavigateToDrummers, onNavigateToStats }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+
+  // Track Reddit landing page view with UTM source
+  useEffect(() => {
+    updateRedditLandingMeta();
+    
+    // Track page view in GA4 with reddit campaign source
+    if (typeof window !== 'undefined' && window.gtag) {
+      const params = new URLSearchParams(window.location.search);
+      const utmSource = params.get('utm_source') || 'reddit';
+      const utmCampaign = params.get('utm_campaign') || 'launch';
+      
+      window.gtag('event', 'reddit_landing_view', {
+        page_path: '/reddit',
+        utm_source: utmSource,
+        utm_campaign: utmCampaign,
+      });
+    }
+  }, []);
+
+  // Track tool clicks with UTM context
+  const trackToolClick = useCallback((toolName, destination) => {
+    if (typeof window !== 'undefined' && window.gtag) {
+      const params = new URLSearchParams(window.location.search);
+      const utmSource = params.get('utm_source') || 'reddit';
+      const utmCampaign = params.get('utm_campaign') || 'launch';
+      
+      window.gtag('event', 'reddit_tool_click', {
+        tool_name: toolName,
+        destination: destination,
+        utm_source: utmSource,
+        utm_campaign: utmCampaign,
+      });
+    }
+  }, []);
+
+  const toolCards = [
+    {
+      emoji: '🎯',
+      title: 'Which Metal Drummer Are You?',
+      description: 'Take our viral quiz to discover which legendary metal drummer matches your style!',
+      cta: 'Take the Quiz',
+      onClick: () => {
+        trackToolClick('quiz', '/quiz');
+        onNavigateToQuiz();
+      },
+    },
+    {
+      emoji: '🔥',
+      title: 'Metal Drummer Name Generator',
+      description: 'Generate your brutal stage name. Warning: results may cause headbanging.',
+      cta: 'Get Your Name',
+      onClick: () => {
+        trackToolClick('name_generator', '/tools/metal-drummer-name-generator');
+        onNavigateToTools('/tools/metal-drummer-name-generator');
+      },
+    },
+    {
+      emoji: '⚔️',
+      title: 'Drummer Setup Comparison',
+      description: 'Compare what your favorite drummers use side-by-side. Settle the debate once and for all.',
+      cta: 'Compare Setups',
+      onClick: () => {
+        trackToolClick('comparison', '/tools/compare');
+        onNavigateToTools('/tools/compare');
+      },
+    },
+    {
+      emoji: '📊',
+      title: 'Gear Statistics Hub',
+      description: 'Data-driven insights from 21 pro setups. See what the pros actually use.',
+      cta: 'View Stats',
+      onClick: () => {
+        trackToolClick('stats', '/stats');
+        onNavigateToStats();
+      },
+    },
+  ];
+
+  return (
+    <ScrollView 
+      style={[styles.detailContainer, { backgroundColor: theme.background }]}
+      contentContainerStyle={styles.redditLandingContainer}
+    >
+      <View style={styles.detailContent}>
+        {/* Back button */}
+        <TouchableOpacity
+          onPress={onBack}
+          style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          accessibilityRole="button"
+          accessibilityLabel="Go back to home"
+        >
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Home</Text>
+        </TouchableOpacity>
+
+        {/* Hero Section */}
+        <View style={[styles.redditHero, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.redditHeroTitle, { color: theme.text }]}>
+            Welcome r/drums! 🤘
+          </Text>
+          <Text style={[styles.redditHeroSubtitle, { color: theme.secondaryText }]}>
+            Check out what 21,000+ metalheads discovered...
+          </Text>
+        </View>
+
+        {/* Mission Statement */}
+        <View style={[styles.redditMission, { backgroundColor: theme.accent + '15', borderColor: theme.accent + '40' }]}>
+          <Text style={[styles.redditMissionText, { color: theme.text }]}>
+            🎸 Built by metalheads, for metalheads. No ads, no bullshit.
+          </Text>
+        </View>
+
+        {/* Tool Cards Grid */}
+        <View style={[styles.redditToolsGrid, isMobile && styles.redditToolsGridMobile]}>
+          {toolCards.map((tool, index) => (
+            <TouchableOpacity
+              key={index}
+              onPress={tool.onClick}
+              style={[
+                styles.redditToolCard,
+                { backgroundColor: theme.card, borderColor: theme.border },
+                isMobile && styles.redditToolCardMobile
+              ]}
+              accessibilityRole="button"
+              accessibilityLabel={tool.title}
+            >
+              <Text style={styles.redditToolEmoji}>{tool.emoji}</Text>
+              <Text style={[styles.redditToolTitle, { color: theme.text }]}>{tool.title}</Text>
+              <Text style={[styles.redditToolDesc, { color: theme.secondaryText }]}>{tool.description}</Text>
+              <View style={[styles.redditToolCta, { backgroundColor: theme.accent }]}>
+                <Text style={styles.redditToolCtaText}>{tool.cta}</Text>
+              </View>
+            </TouchableOpacity>
+          ))}
+        </View>
+
+        {/* Drummers Database CTA */}
+        <TouchableOpacity
+          onPress={() => {
+            trackToolClick('drummers_database', '/drummers');
+            onNavigateToDrummers();
+          }}
+          style={[styles.redditDatabaseCta, { backgroundColor: theme.accent }]}
+          accessibilityRole="button"
+          accessibilityLabel="Browse 21 legendary metal drummers"
+        >
+          <Text style={styles.redditDatabaseCtaEmoji}>🥁</Text>
+          <View style={styles.redditDatabaseCtaContent}>
+            <Text style={styles.redditDatabaseCtaTitle}>Browse 21 Legendary Metal Drummers</Text>
+            <Text style={styles.redditDatabaseCtaDesc}>Complete setups • Embedded videos • Gear details</Text>
+          </View>
+          <Text style={styles.redditDatabaseCtaArrow}>→</Text>
+        </TouchableOpacity>
+
+        {/* Stats Teaser */}
+        <View style={[styles.redditStatsTeaser, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.redditStatsTeaserTitle, { color: theme.text }]}>
+            📈 Quick Stats from Our Research
+          </Text>
+          <View style={styles.redditStatsGrid}>
+            <View style={styles.redditStatItem}>
+              <Text style={[styles.redditStatValue, { color: theme.accent }]}>85%</Text>
+              <Text style={[styles.redditStatLabel, { color: theme.secondaryText }]}>use double bass pedals</Text>
+            </View>
+            <View style={styles.redditStatItem}>
+              <Text style={[styles.redditStatValue, { color: theme.accent }]}>21</Text>
+              <Text style={[styles.redditStatLabel, { color: theme.secondaryText }]}>pro drummers documented</Text>
+            </View>
+            <View style={styles.redditStatItem}>
+              <Text style={[styles.redditStatValue, { color: theme.accent }]}>€15K</Text>
+              <Text style={[styles.redditStatLabel, { color: theme.secondaryText }]}>average kit cost</Text>
+            </View>
+          </View>
+        </View>
+
+        {/* Community Note */}
+        <View style={[styles.redditCommunityNote, { borderColor: theme.border }]}>
+          <Text style={[styles.redditCommunityNoteText, { color: theme.secondaryText }]}>
+            👋 Questions? Found something wrong? Let us know! This project is driven by the community.
+          </Text>
+        </View>
+      </View>
+    </ScrollView>
   );
 }
 
@@ -21564,6 +21763,7 @@ function AppContent() {
   const [showPrivacy, setShowPrivacy] = useState(() => isPrivacyPage());
   const [showQuotes, setShowQuotes] = useState(() => isQuotesPage());
   const [showSpotlights, setShowSpotlights] = useState(() => isSpotlightsPage());
+  const [showRedditLanding, setShowRedditLanding] = useState(() => isRedditLandingPage());
   const [showGearByBudget, setShowGearByBudget] = useState(() => isGearByBudgetPage());
   const [showList, setShowList] = useState(() => isListPage());
   const [listSlug, setListSlug] = useState(() => getListSlugFromURL());
@@ -26495,6 +26695,14 @@ setShowList(false);
         </View>
       </View>
       {renderContent()}
+      <StickyCTA
+        onNavigate={(path) => {
+          if (Platform.OS === 'web' && typeof window !== 'undefined') {
+            window.history.pushState({}, '', path);
+            window.dispatchEvent(new PopStateEvent('popstate'));
+          }
+        }}
+      />
       <NewsletterFooter theme={theme} />
       <StatusBar style={isDarkMode ? "light" : "dark"} />
     </View>

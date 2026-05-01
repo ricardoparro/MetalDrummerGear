@@ -6,6 +6,8 @@
 
 **All tools built. All content prepared. Awaiting Ricardo's karma check and execution.**
 
+> **NEW (Issue #819):** Reddit Landing Page at `/reddit` now live! Optimized for Reddit traffic with UTM tracking and GA4 events.
+
 ---
 
 ## Campaign Overview

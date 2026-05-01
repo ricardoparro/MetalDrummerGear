@@ -813,6 +813,20 @@ export function updateGearStatsMeta() {
   }
 }
 
+/**
+ * Update OG meta for Reddit landing page (Issue #819)
+ * Tracks Reddit campaign traffic with UTM parameters
+ */
+export function updateRedditLandingMeta() {
+  updateOgMeta({
+    title: 'Welcome Metalheads! 🤘 | MetalForge - Metal Drummer Gear Database',
+    description: 'Discover what 21 legendary metal drummers actually use. Complete gear setups, pro tips, viral tools, and stats. Built by metalheads, for metalheads. No ads, no bullshit.',
+    url: '/reddit',
+    image: '/og-image.png',
+    keywords: 'metal drummers, drum gear database, metal drumming, drummer gear, pro drummer setups, reddit metal community',
+  });
+}
+
 export default {
   updateOgMeta,
   resetToHomepageMeta,
@@ -843,4 +857,5 @@ export default {
   updateToolsHubMeta,
   updateSignatureLicksMeta,
   updateGuessTheKitMeta,
+  updateRedditLandingMeta,
 };

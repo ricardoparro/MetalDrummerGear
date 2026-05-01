@@ -152,3 +152,8 @@ export {
   DrummerEvolutionPage,
   default as DrummerEvolutionPageDefault,
 } from './DrummerEvolutionPage';
+
+// Sticky CTA - Conversion Optimization (Issue #820)
+export {
+  default as StickyCTA,
+} from './StickyCTA';

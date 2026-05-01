@@ -22433,6 +22433,25 @@ function AppContent() {
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
+      } else if (isRedditLandingPage()) {
+        // Reddit Landing Page (Issue #819) - /reddit
+        setShowRedditLanding(true);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowSpotlights(false);
+        setShowGearByBudget(false);
+        setShowList(false);
+        setListSlug(null);
+        setShowGearFinder(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
       } else if (isBandDetailPage()) {
         // Band detail page (Issue #349)
         const slug = getBandSlugFromURL();
@@ -24012,6 +24031,7 @@ function AppContent() {
         setShowQuiz(false);
         setShowPrivacy(false);
         setShowQuotes(false);
+        setShowRedditLanding(false);
         setShowNewsPage(false);
         setShowGearNewsPage(false);
         setShowGearStats(false);
@@ -24168,6 +24188,7 @@ function AppContent() {
     // Reset all page states so drummer detail view shows
     setShowQuotes(false);
     setShowSpotlights(false);
+    setShowRedditLanding(false);
     setShowList(false);
     setListSlug(null);
     setShowGearByBudget(false);
@@ -24217,6 +24238,7 @@ function AppContent() {
     setShowCompare(false);
     setShowQuiz(false);
     setShowPrivacy(false);
+    setShowRedditLanding(false);
     setSelectedGear(null);
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
       window.history.pushState({}, '', '/');
@@ -25488,6 +25510,54 @@ setShowList(false);
             setBattleSlug(null);
             if (Platform.OS === 'web' && typeof window !== 'undefined') {
               window.history.pushState({}, '', '/');
+            }
+          }}
+        />
+      );
+    }
+    // Reddit Landing Page (Issue #819) - /reddit
+    if (showRedditLanding) {
+      return (
+        <RedditLandingPage
+          theme={theme}
+          onBack={() => {
+            setShowRedditLanding(false);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/');
+            }
+          }}
+          onNavigateToQuiz={() => {
+            setShowRedditLanding(false);
+            setShowQuiz(true);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/quiz?utm_source=reddit&utm_campaign=launch');
+            }
+          }}
+          onNavigateToTools={(route) => {
+            setShowRedditLanding(false);
+            // Navigate to specific tool route
+            if (route === '/tools/metal-drummer-name-generator') {
+              setShowNameGenerator(true);
+            } else if (route === '/tools/compare') {
+              setShowGearComparisonTool(true);
+            }
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', `${route}?utm_source=reddit&utm_campaign=launch`);
+              window.dispatchEvent(new PopStateEvent('popstate'));
+            }
+          }}
+          onNavigateToDrummers={() => {
+            setShowRedditLanding(false);
+            setShowDrummersPage(true);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/drummers?utm_source=reddit&utm_campaign=launch');
+            }
+          }}
+          onNavigateToStats={() => {
+            setShowRedditLanding(false);
+            setShowGearStats(true);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/stats?utm_source=reddit&utm_campaign=launch');
             }
           }}
         />
@@ -30091,6 +30161,157 @@ const styles = StyleSheet.create({
   noSpotlightsText: {
     fontSize: 16,
     textAlign: 'center',
+  },
+  // ==========================================
+  // REDDIT LANDING PAGE STYLES (Issue #819)
+  // ==========================================
+  redditLandingContainer: {
+    paddingBottom: 40,
+  },
+  redditHero: {
+    padding: 32,
+    borderRadius: 16,
+    borderWidth: 1,
+    marginBottom: 24,
+    alignItems: 'center',
+  },
+  redditHeroTitle: {
+    fontSize: 32,
+    fontWeight: '800',
+    marginBottom: 8,
+    textAlign: 'center',
+  },
+  redditHeroSubtitle: {
+    fontSize: 18,
+    textAlign: 'center',
+  },
+  redditMission: {
+    padding: 16,
+    borderRadius: 12,
+    borderWidth: 1,
+    marginBottom: 24,
+  },
+  redditMissionText: {
+    fontSize: 16,
+    fontWeight: '600',
+    textAlign: 'center',
+  },
+  redditToolsGrid: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 16,
+    marginBottom: 24,
+  },
+  redditToolsGridMobile: {
+    flexDirection: 'column',
+  },
+  redditToolCard: {
+    flex: 1,
+    minWidth: 280,
+    maxWidth: 400,
+    padding: 24,
+    borderRadius: 16,
+    borderWidth: 1,
+    alignItems: 'center',
+  },
+  redditToolCardMobile: {
+    maxWidth: '100%',
+  },
+  redditToolEmoji: {
+    fontSize: 48,
+    marginBottom: 16,
+  },
+  redditToolTitle: {
+    fontSize: 18,
+    fontWeight: '700',
+    marginBottom: 8,
+    textAlign: 'center',
+  },
+  redditToolDesc: {
+    fontSize: 14,
+    textAlign: 'center',
+    marginBottom: 16,
+    lineHeight: 20,
+  },
+  redditToolCta: {
+    paddingHorizontal: 24,
+    paddingVertical: 12,
+    borderRadius: 8,
+  },
+  redditToolCtaText: {
+    color: '#000',
+    fontWeight: '700',
+    fontSize: 14,
+  },
+  redditDatabaseCta: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    padding: 20,
+    borderRadius: 16,
+    marginBottom: 24,
+  },
+  redditDatabaseCtaEmoji: {
+    fontSize: 40,
+    marginRight: 16,
+  },
+  redditDatabaseCtaContent: {
+    flex: 1,
+  },
+  redditDatabaseCtaTitle: {
+    fontSize: 18,
+    fontWeight: '700',
+    color: '#000',
+    marginBottom: 4,
+  },
+  redditDatabaseCtaDesc: {
+    fontSize: 13,
+    color: '#333',
+  },
+  redditDatabaseCtaArrow: {
+    fontSize: 24,
+    color: '#000',
+    fontWeight: '700',
+  },
+  redditStatsTeaser: {
+    padding: 24,
+    borderRadius: 16,
+    borderWidth: 1,
+    marginBottom: 24,
+  },
+  redditStatsTeaserTitle: {
+    fontSize: 18,
+    fontWeight: '700',
+    marginBottom: 20,
+    textAlign: 'center',
+  },
+  redditStatsGrid: {
+    flexDirection: 'row',
+    justifyContent: 'space-around',
+    flexWrap: 'wrap',
+    gap: 16,
+  },
+  redditStatItem: {
+    alignItems: 'center',
+    minWidth: 100,
+  },
+  redditStatValue: {
+    fontSize: 28,
+    fontWeight: '800',
+    marginBottom: 4,
+  },
+  redditStatLabel: {
+    fontSize: 12,
+    textAlign: 'center',
+  },
+  redditCommunityNote: {
+    paddingTop: 24,
+    borderTopWidth: 1,
+    marginTop: 8,
+  },
+  redditCommunityNoteText: {
+    fontSize: 14,
+    textAlign: 'center',
+    fontStyle: 'italic',
   },
   // ==========================================
   // TOP 10 LISTS PAGE STYLES

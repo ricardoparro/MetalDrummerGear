@@ -9,6 +9,27 @@
 
 ---
 
+## UTM Tracking Parameters (Issue #819)
+
+All Reddit links use UTM parameters for GA4 tracking:
+
+| Page | UTM Link |
+|------|----------|
+| Drummers Database | `metalforge.io/drummers?utm_source=reddit&utm_campaign=rdrums` |
+| Quiz | `metalforge.io/quiz?utm_source=reddit&utm_campaign=rmetal` |
+| Name Generator | `metalforge.io/tools/metal-drummer-name-generator?utm_source=reddit&utm_campaign=rmetalmemes` |
+| Stats Hub | `metalforge.io/stats?utm_source=reddit&utm_campaign=rmetalcore` |
+| Beginner Guide | `metalforge.io/guides/beginner-metal-drummer-setup?utm_source=reddit&utm_campaign=rbeginnerdrummers` |
+| Reddit Landing Page | `metalforge.io/reddit?utm_source=reddit&utm_campaign=launch` |
+
+### GA4 Events Tracked
+
+- `reddit_landing_view` - When user lands on /reddit page
+- `reddit_tool_click` - When user clicks tool from Reddit landing page
+- Standard pageview events with utm_source=reddit
+
+---
+
 ## Post Performance
 
 | Day | Date | Subreddit | Post | Upvotes | Comments | Removed? | Traffic |

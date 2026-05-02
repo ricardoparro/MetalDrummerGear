@@ -295,6 +295,7 @@
 | 2026-04-06 | The Sound of Perseverance Drum Setup: Richard Christy | /articles/sound-of-perseverance-drum-setup | - |
 | 2026-05-02 | Rust in Peace Drum Setup: Nick Menza | /articles/rust-in-peace-drum-setup | - |
 | 2026-05-02 | ...And Justice for All Drum Setup: Lars Ulrich | /articles/and-justice-for-all-drum-setup | - |
+| 2026-05-02 | What's In Art Cruz' Lamb of God Arsenal | /articles/whats-in-art-cruzs-kit | - |
 
 ---
 
@@ -1128,7 +1129,7 @@
 
 ---
 
-### 💡 [IDEA-057] What's In Art Cruz' Lamb of God Arsenal
+### ✅ [IDEA-057] What's In Art Cruz' Lamb of God Arsenal
 
 **Type:** drummer-kit
 **SEO Keywords:** art cruz drum kit, lamb of god drummer, art cruz setup, log drums 2026
@@ -1144,7 +1145,7 @@
 5. How He Approached Chris Adler's Legacy
 6. Where to Buy Similar Gear
 
-**Status:** IDEA (added 2026-04-06)
+**Status:** PUBLISHED (2026-05-02) — /articles/whats-in-art-cruzs-kit
 
 ---
 
@@ -1228,4 +1229,4 @@
 
 ---
 
-*Last updated: 2026-05-02 13:08*
+*Last updated: 2026-05-02 17:15*

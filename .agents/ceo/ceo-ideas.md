@@ -987,6 +987,84 @@
 
 **Data:** 2026-03-22 | Queued: 2026-03-25 09:00 | Completed: 2026-03-25
 
+### 💡 [CEO-020] "Drummer vs Drummer Setup Showdown" — Weekly Viral Comparison Series
+
+**Origem:** Social engagement analysis — Comparisons drive 3x more comments than solo features; metal fans LOVE debating their heroes head-to-head.
+
+**Hipótese:** Se criarmos série semanal "Setup Showdown" (Joey Jordison vs George Kollias, Lars vs Dave Lombardo) então:
+- **Tribal Engagement:** Fans defend their favorite drummer = algorithm gold (comments = reach)
+- **Natural Shareability:** "Pick a side 👇" = participation bait (polls, quote tweets, story shares)
+- **Multiple Platforms:** Twitter poll + Instagram Stories quiz + TikTok split-screen = 3x content from 1 idea
+- **Evergreen Format:** Can run 20+ weeks with 21 drummers (unique pairings)
+- **Discovery Funnel:** Debate → "See full setups" CTA → site traffic → affiliate
+- **SEO Bonus:** Each showdown = new comparison page (/compare/joey-vs-george)
+- **Community Ritual:** "Setup Showdown Saturdays" → followers anticipate weekly drop
+- **Data Insights:** Poll results reveal which drummers are most popular (guides future content)
+- **Influencer Hooks:** Tag drummers in showdowns → potential reshares to their 100K+ audiences
+- **Content Recycling:** Showdown results → blog post → newsletter → YouTube Short
+- **Sponsorship Path:** Brands (Paiste, DW) sponsor showdowns for exposure
+
+**Impacto Curto (1-7d):** ⭐⭐⭐ (Immediate engagement spike, social algorithm boost)
+**Impacto Médio (1-3m):** ⭐⭐⭐ (Weekly ritual builds following, compounds brand awareness)
+**Impacto Longo (3-12m):** ⭐⭐ (Requires sustained content production, but creates community habit)
+**Score Total:** 8⭐
+
+**Weekly Format:**
+- **Saturday 8 PM Lisbon:** Post showdown across all platforms
+- **Twitter/X:**
+  - "🥁 SETUP SHOWDOWN: Joey Jordison vs George Kollias
+  - Joey: €27K, 47 pieces, Paiste powerhouse
+  - George: €31K, 52 pieces, Meinl master
+  - 
+  - Vote below! ⬇️ Full comparison: [link]"
+  - Poll: "Whose setup would YOU choose?"
+  
+- **Instagram:**
+  - Carousel post (swipe to compare)
+  - Stories poll: "Joey or George?"
+  - Reel: Split-screen visual comparison (15 sec)
+  
+- **TikTok:**
+  - Split-screen video with stats overlay
+  - Audio: Epic metal track
+  - Text: "€27K vs €31K — Who wins?"
+  - End screen: "Full showdown at metalforge.io"
+
+**Content Production (30 min/week):**
+1. Pick 2 drummers (rotate through roster)
+2. Pull stats from database (setup cost, piece count, brands)
+3. Create Twitter poll
+4. Design Instagram carousel (Canva template)
+5. Edit TikTok split-screen (CapCut template)
+6. Schedule posts via Buffer/Later
+7. Monitor engagement + reply to comments
+
+**Engagement Hooks:**
+- **Controversial Pairings:** "Old School vs New Blood: Lars Ulrich vs Blake Richardson"
+- **Brand Wars:** "Paiste Army vs Zildjian Nation"
+- **Price Battles:** "Budget King vs Big Spender"
+- **Style Clashes:** "Speed Demon vs Groove Master"
+- **Fan Requests:** "Vote for next week's showdown in comments!"
+
+**Métrica de sucesso:**
+- 100+ poll votes per showdown (first month)
+- 50+ comments per post (engagement signal)
+- 20+ shares/retweets per showdown
+- 200+ site visits from showdown links (weekly)
+- @MetalDrumGear gains 100+ followers per month from showdowns
+- 1+ drummer or band engages with/reposts showdown
+- TikTok showdowns hit 5K+ views (viral threshold)
+- Community requests specific matchups (shows investment)
+
+**Blockers externos:** Não — uses existing data, free social tools (Canva, CapCut), zero external dependencies
+
+**Risco:** Requires consistent weekly execution
+- **Mitigation:** Batch-create 4 showdowns in one sitting (1 month buffer), use scheduling tools
+
+**Decisão:** IMPLEMENTAR — 8⭐ score, leverages existing data, taps into tribal debate psychology, creates weekly content ritual with zero external dependencies.
+
+**Data:** 2026-05-02
+
 <!-- CEO adiciona novas ideias aqui -->
 
 

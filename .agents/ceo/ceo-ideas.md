@@ -28,6 +28,97 @@
 
 ## 📥 Novas Ideias
 
+### 💡 [CEO-019] "60-Second Setup Build" Viral Video Series — TikTok/Reels/Shorts Growth Engine
+
+**Origem:** Distribution gap analysis — We have static content, but TikTok/Instagram Reels/YouTube Shorts dominate discovery in 2026. Metal drummers have MASSIVE followings on short-form video platforms (66Samus, El Estepario Siberiano, etc.).
+
+**Hipótese:** Se criarmos série de vídeos "Build [Drummer]'s Setup in 60 Seconds" (timelapse screen recording mostrando setup being assembled piece by piece) então:
+- **Platform-Native Viral Content:** TikTok/Reels algorithm LOVES 60-second satisfying builds (ASMR + visual storytelling)
+- **Zero Production Cost:** Screen record our existing setup pages with smooth scrolling + zoom animations (no video crew needed)
+- **Cross-Platform Distribution:** 1 video → TikTok + Instagram Reels + YouTube Shorts = 3x reach
+- **Discovery Funnel:** Viral video → "Full setup: metalforge.io/[drummer]" in caption → site traffic surge
+- **Shareable Format:** "Wait til you see what Joey Jordison's cymbal collection costs 😱" = engagement bait
+- **Algorithm Advantage:** Music + satisfying visuals + clear payoff = perfect for recommendation feeds
+- **Series Format:** "Day 1: Lars Ulrich | Day 2: Joey Jordison | Day 3: George Kollias" → followers anticipate next drop
+- **Community Engagement:** Comments debate gear choices ("Why didn't he use Paiste?!") = algorithmic boost
+- **Influencer Amplification:** Tag drummers in videos → 50% chance they repost to their 100K+ followers
+- **Evergreen Content:** Videos continue performing months after posting (TikTok's "For You" page resurrection)
+- **Brand Association:** "MetalForge = that account with the sick drummer setup videos"
+
+**Impacto Curto (1-7d):** ⭐⭐⭐ (Immediate viral potential — 1 hit video = 100K+ views possible)
+**Impacto Médio (1-3m):** ⭐⭐⭐ (Series builds following, each video compounds brand awareness, algorithm favors consistent creators)
+**Impacto Longo (3-12m):** ⭐⭐ (Establishes MetalForge as visual content leader, but requires ongoing production)
+**Score Total:** 8⭐
+
+**Production Workflow:**
+1. **Capture Setup Data:** Screenshot drummer profile page in high-res
+2. **Timelapse Animation:** Use screen recording tool (OBS / QuickTime) to record:
+   - Start with blank drum riser
+   - Fade in kick drums (with price overlay)
+   - Add toms one by one (prices accumulate)
+   - Stack cymbals (visual "building" effect)
+   - Final reveal: complete setup with total cost
+   - Zoom out to drummer action photo
+3. **Audio:** Overlay metal track (royalty-free or drummer's own music if tagged)
+4. **Text Overlays:**
+   - "Building Joey Jordison's €27K Setup"
+   - Price callouts as items appear
+   - Final screen: "Explore full setup → metalforge.io/joey-jordison"
+5. **Duration:** Exactly 60 seconds (platform sweet spot)
+6. **Export:** 1080x1920 (vertical format for mobile)
+
+**Distribution Strategy:**
+1. **TikTok (@MetalDrumGear):**
+   - Post daily at 8 PM EST (peak metal fan activity)
+   - Hashtags: #drums #metaldrummer #drumsetup #[drummer name] #[band name]
+   - Tag official drummer accounts
+   
+2. **Instagram Reels (@MetalDrumGear):**
+   - Same video, same time
+   - Story + Reel combo (Reel for discovery, Story for existing followers)
+   
+3. **YouTube Shorts:**
+   - Upload to MetalForge YouTube channel (when created)
+   - Longer-form video opportunity: "Full 5-minute breakdown: [link to full video]"
+   
+4. **Reddit:**
+   - Post to r/drums, r/Metal: "I made a 60-second timelapse of Joey Jordison's setup"
+   - Link to TikTok/IG (drives platform followers)
+
+**Content Calendar (First Month):**
+- **Week 1:** Joey Jordison, Lars Ulrich, Dave Lombardo
+- **Week 2:** George Kollias, Mario Duplantier, Brann Dailor
+- **Week 3:** Gene Hoglan, Tomas Haake, Chris Adler
+- **Week 4:** "MOST EXPENSIVE Setup Showdown" (compilation video)
+
+**Engagement Hooks:**
+- **Controversial Takes:** "Lars Ulrich's setup costs LESS than you think 😱"
+- **Trivia Drops:** "Guess the total cost before the reveal! 👇"
+- **Polls:** "Which setup would YOU choose? 🥁"
+- **Challenges:** "Build this setup for under $10K — IMPOSSIBLE? 🎯"
+- **Behind-the-Scenes:** "How we research every piece of gear ✅"
+
+**Metrics de Sucesso:**
+- 10 videos published in first 2 weeks (5 drummers = foundation)
+- At least 1 video hits 10K+ views (viral threshold)
+- @MetalDrumGear gains 500+ followers across platforms (first month)
+- 200+ site visits from video bio links (tracked via UTM params)
+- 3+ drummers or bands engage with/repost videos
+- Comments average 50+ per video (engagement signal for algorithm)
+- TikTok "For You" page pickup (tracked via TikTok Analytics)
+- YouTube Shorts drives 100+ channel subscribers (future monetization path)
+
+**Blockers externos:** Não — pure video editing, existing data, screen recording tools (free)
+
+**Risco:** Video content is labor-intensive to produce consistently
+- **Mitigation:** Batch-produce 10 videos in one session (5 hours), schedule releases via Buffer/Later
+
+**Decisão:** IMPLEMENTAR — 8⭐ score, taps into short-form video dominance, zero external dependencies, addresses distribution bottleneck via platform-native content.
+
+**Data:** 2026-05-02
+
+---
+
 ### 💡 [CEO-018] "Gear Wishlist & Affiliate Conversion Funnel" — Frictionless Purchase Path
 
 **Origem:** Revenue gap analysis — Day 69, €0 affiliate revenue despite Sweetwater links being live. Users browse drummer gear but have no mechanism to save, track, or buy. The site lacks a direct conversion path from browsing to purchasing.

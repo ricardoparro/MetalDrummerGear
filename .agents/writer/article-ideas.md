@@ -294,6 +294,7 @@
 | 2026-04-06 | What's In Scott Travis' Judas Priest Arsenal | /articles/whats-in-scott-travis-kit | - |
 | 2026-04-06 | The Sound of Perseverance Drum Setup: Richard Christy | /articles/sound-of-perseverance-drum-setup | - |
 | 2026-05-02 | Rust in Peace Drum Setup: Nick Menza | /articles/rust-in-peace-drum-setup | - |
+| 2026-05-02 | ...And Justice for All Drum Setup: Lars Ulrich | /articles/and-justice-for-all-drum-setup | - |
 
 ---
 
@@ -1187,7 +1188,7 @@
 
 ---
 
-### 💡 [IDEA-060] ...And Justice for All Drum Setup: Lars Ulrich's Technical Peak
+### ✅ [IDEA-060] ...And Justice for All Drum Setup: Lars Ulrich's Technical Peak
 
 **Type:** album-breakdown
 **SEO Keywords:** and justice for all drums, lars ulrich 1988 kit, metallica justice gear, lars ulrich most technical
@@ -1203,7 +1204,7 @@
 5. Recording with Flemming Rasmussen
 6. The Missing Bass Controversy
 
-**Status:** IDEA (added 2026-05-02)
+**Status:** PUBLISHED (2026-05-02) — /articles/and-justice-for-all-drum-setup
 
 ---
 
@@ -1227,4 +1228,4 @@
 
 ---
 
-*Last updated: 2026-05-02 09:30*
+*Last updated: 2026-05-02 13:08*

@@ -17088,6 +17088,296 @@ Dave Mustaine has called Rust in Peace his favorite Megadeth album. The drumming
 
 🥁 *"Holy Wars...The Punishment Due" — the opening drum barrage that changed thrash forever.* 🥁`
     }
+  },
+
+  'and-justice-for-all-drum-setup': {
+    slug: 'and-justice-for-all-drum-setup',
+    albumTitle: '...And Justice for All',
+    artist: 'Metallica',
+    drummer: 'Lars Ulrich',
+    drummerId: 1,
+    year: 1988,
+    genre: 'Thrash Metal / Progressive Thrash',
+    label: 'Elektra Records',
+    studio: 'One on One Recording Studios, Los Angeles',
+    producer: 'Flemming Rasmussen & Metallica',
+    isAlbumArticle: true,
+    datePublished: '2026-05-02',
+    dateModified: '2026-05-02',
+    author: 'MetalForge Editorial',
+    title: "...And Justice for All Drum Setup: Lars Ulrich's Technical Peak",
+    description: "Complete gear breakdown for Metallica's ...And Justice for All. Discover Lars Ulrich's most technically demanding performances, the controversial drum sound, and the gear behind 'One' and other classics.",
+    seoKeywords: ['and justice for all drums', 'lars ulrich drum setup 1988', 'metallica justice drums', 'one drum intro', 'lars ulrich most technical album', 'justice for all recording'],
+    ogImage: '/images/albums/and-justice-for-all-drums.webp',
+    intro: {
+      title: 'Metallica\'s Most Ambitious Album',
+      content: `Released on August 25, 1988, "...And Justice for All" stands as Metallica's most technically demanding and musically complex album. It was the first record following the tragic death of bassist Cliff Burton and featured Jason Newsted on bass — though you'd never know it from the controversial mix that buried the bass in favor of Lars Ulrich's drums and the crushing guitar riffs.
+
+The album showcased Lars at his technical peak. Songs like "Blackened," "...And Justice for All," and the iconic "One" featured intricate patterns, complex time signatures, and relentless double bass work. The title track alone clocks in at over 9 minutes of constantly shifting rhythms and tempo changes.
+
+Recorded at One on One Recording Studios in Los Angeles with returning producer Flemming Rasmussen, the drum sound on Justice is dry, punchy, and incredibly present. Lars worked extensively on his kit sound, tuning his drums higher than on previous albums for maximum attack and clarity.
+
+The album marked a turning point in Lars's gear journey — the transition from his beloved Camco drums to Tama, a partnership that continues to this day. This article explores every piece of gear used during these legendary sessions and the recording techniques that made Justice's drum sound so distinctive.`,
+      keyPoints: [
+        'First album after Cliff Burton\'s death; Jason Newsted\'s Metallica debut',
+        'Lars\'s most technically demanding performances on record',
+        'Controversial dry mix that buried the bass but elevated the drums',
+        'Transition from Camco to Tama drums during this period',
+        '"One" became Metallica\'s first music video and Grammy-winning song'
+      ]
+    },
+    drumKit: {
+      title: "Lars's Studio Kit: The Tama Transition",
+      brand: 'Tama',
+      model: 'Tama Artstar II',
+      finish: 'Midnight Blue',
+      config: {
+        bassdrums: ['22" x 16" Bass Drum (single bass drum, double pedal)'],
+        toms: ['10" x 8" Rack Tom', '12" x 10" Rack Tom'],
+        floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom'],
+        shells: 'Birch shells with die-cast hoops'
+      },
+      description: `For ...And Justice for All, Lars Ulrich made the significant transition from Camco drums to Tama's Artstar II series. This switch would prove permanent — Lars remains a Tama artist to this day. The Artstar II's birch shells offered a punchy, focused attack that suited the album's aggressive production approach.
+
+The single 22" bass drum with a double pedal became Lars's standard configuration after this album. Despite the technical demands of songs like "Blackened" and the title track, Lars opted for the consistency and control of a single drum over two separate bass drums.
+
+The tom configuration expanded from Master of Puppets, adding a 10" rack tom for faster fill work. The combination of 10", 12", 14", and 16" toms gave Lars a wide tonal palette for the album's intricate arrangements.
+
+The birch shells provided exceptional clarity and attack — essential for the album's dry, unprocessed production style. Unlike the warmer maple tones of the Camco kit, the Artstar II's birch construction cut through with surgical precision.`,
+      notes: [
+        'First Metallica album recorded on Tama drums',
+        'Single bass drum with double pedal replaced dual kick drums',
+        'Birch shells provided the punchy attack the production demanded',
+        'Die-cast hoops added durability and tuning stability',
+        'This setup established Lars\'s long-term Tama partnership'
+      ],
+      estimatedValue: '$2,500-3,500 (1988) / $4,000-6,000 (vintage today)'
+    },
+    snare: {
+      title: 'The Crack of Justice',
+      brand: 'Tama',
+      model: 'Tama Artstar II Steel Snare',
+      size: '14" x 6.5"',
+      shell: 'Rolled steel with die-cast hoops',
+      description: `The snare sound on ...And Justice for All is one of the most distinctive in thrash metal — dry, cracking, and incredibly present in the mix. Lars achieved this with a Tama Artstar II steel snare, tuned high for maximum attack.
+
+At 14" x 6.5", the snare provided both crack and body. The steel shell delivered brightness and cut, while the depth prevented it from sounding thin. Lars tuned the batter head tight, cranking the tension for that signature snap that cuts through the dense guitar arrangements.
+
+The dry production approach emphasized the natural sound of the drum. Unlike the reverb-soaked snare sounds of 80s rock, Justice's snare was close-miked and processed minimally. What you hear is essentially the raw drum in the room.
+
+This snare sound — tight, dry, aggressive — influenced countless thrash and death metal productions that followed. The combination of high tuning, steel shell, and minimal processing created a template that remains relevant today.`,
+      tuningSetting: 'High tension for maximum attack and crack',
+      heads: 'Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$300-400 (1988) / $400-600 (vintage today)'
+    },
+    cymbals: {
+      title: 'The Zildjian Arsenal Expanded',
+      brand: 'Zildjian',
+      series: 'Zildjian A Series / Z Series',
+      setup: [
+        { type: 'Hi-Hats', model: 'Zildjian A 14" New Beat Hi-Hats', position: 'Left side', notes: 'Classic rock hi-hats with excellent definition' },
+        { type: 'Crash', model: 'Zildjian A 16" Medium Thin Crash', position: 'Left of hi-hats', notes: 'Quick, articulate crash for fast accents' },
+        { type: 'Crash', model: 'Zildjian A 17" Medium Thin Crash', position: 'Over rack toms', notes: 'Additional crash voice' },
+        { type: 'Crash', model: 'Zildjian A 18" Medium Crash', position: 'Right of toms', notes: 'Primary crash position' },
+        { type: 'Ride', model: 'Zildjian Z 20" Heavy Power Ride', position: 'Far right', notes: 'Heavy, articulate ride for aggressive patterns' },
+        { type: 'China', model: 'Zildjian A 18" China Boy High', position: 'Above floor tom', notes: 'Trashy accents for riff punctuation' }
+      ],
+      description: `Lars's cymbal setup for Justice expanded beyond the basic A series, incorporating heavier models for the album's aggressive approach. The addition of Zildjian's Z series Heavy Power Ride provided the cutting bell and defined stick articulation needed for faster patterns.
+
+The 14" New Beat hi-hats remained Lars's choice — their balance of weight and brightness provided the definition needed for intricate patterns. The crisp "chick" sound and clear stick definition cut through even the densest sections.
+
+Multiple crash cymbals (16", 17", and 18") gave Lars options for dynamic variation. The variety of sizes allowed for quick, articulate accents as well as bigger, more sustained crashes. This became increasingly important as song arrangements grew more complex.
+
+The 20" Z Heavy Power Ride was a departure from Lars's earlier, more musical ride choices. The heavier weight and brilliant finish provided projection and clarity at any volume, essential for the album's extended instrumental sections and fast riding patterns.
+
+The China cymbal remained essential for the explosive accents that punctuated riffs — a staple of the thrash metal sound that Lars helped define.`,
+      estimatedValue: '$1,400-1,800 total (1988)'
+    },
+    hardware: {
+      title: 'The Foundation for Complexity',
+      items: [
+        {
+          type: 'Bass Drum Pedal',
+          brand: 'Tama',
+          model: 'Tama Camco HP35 Double Pedal',
+          notes: 'Heavy-duty double pedal for demanding patterns',
+          description: 'Lars transitioned to a double pedal setup on a single bass drum for Justice. The Camco-design pedal (Tama had acquired Camco) provided the speed and consistency needed for songs like "Blackened" and "One."'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Tama',
+          model: 'Tama Titan Hi-Hat Stand',
+          notes: 'Professional-grade stand for aggressive footwork'
+        },
+        {
+          type: 'Throne',
+          brand: 'Roc-N-Soc',
+          model: 'Roc-N-Soc Original',
+          notes: 'Comfortable seat for extended sessions'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Zildjian',
+          model: 'Zildjian Lars Ulrich Signature (prototype)',
+          notes: 'Prototype of what would become Lars\'s signature stick'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke 3 Clear with felt strip muffling',
+        toms: 'Remo Ambassador Clear (batter), Ambassador Clear (resonant)',
+        snare: 'Remo Ambassador Coated'
+      }
+    },
+    recordingTechniques: {
+      title: 'The Dry Justice Sound',
+      content: `The drum recording approach for ...And Justice for All was radically different from typical late-80s metal production. While most albums of the era featured reverb-heavy, processed drum sounds, producer Flemming Rasmussen and engineer Steve Thompson created an incredibly dry, direct approach.
+
+**Microphone Setup:**
+- Kick drum: AKG D112 inside the drum, Neumann U47 FET outside
+- Snare: Shure SM57 top only, positioned close for maximum attack
+- Toms: Sennheiser MD421 on each tom, close-miked
+- Hi-hat: AKG C451 condenser
+- Overheads: Neumann U87s in spaced pair configuration
+- Room mics: Minimal — the dry sound was intentional
+
+**The Dry Philosophy:**
+The lack of room ambience was deliberate. Rasmussen wanted the drums punchy and immediate, allowing Lars's intricate patterns to be heard clearly. The close mic positions emphasized attack over sustain.
+
+**Gate and Compression:**
+Heavy gating was applied to each drum to eliminate ring and bleed. This contributed to the "machine gun" snare sound on tracks like "One." Compression was used sparingly — the natural dynamics of Lars's playing were largely preserved.
+
+**The Controversial Mix:**
+Mixed by Steve Thompson and Michael Barbiero, the album famously buried Jason Newsted's bass in the mix. This was done at Lars and James Hetfield's direction, making the drums even more prominent. The bass drum and snare dominate the low and mid frequencies respectively.
+
+**Tuning Approach:**
+Lars tuned his drums higher than on previous albums. The snare was particularly tight, and the toms were tuned for maximum attack with minimal sustain. This contributed to the dry, punchy character of the recording.`,
+      keyTechniques: [
+        'Extremely dry production with minimal room ambience',
+        'Heavy gating to eliminate ring and create separation',
+        'Close microphone positioning for maximum attack',
+        'High drum tuning for clarity in complex passages',
+        'Bass buried in mix, elevating drum prominence'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'Blackened',
+        bpm: '180-200',
+        signature: '4/4 with complex subdivisions',
+        highlights: [
+          'Iconic reversed guitar intro leads to explosive drum entrance',
+          'Relentless double bass throughout verses',
+          'Complex pickup patterns and syncopated accents',
+          'One of Lars\'s most technically demanding studio performances',
+          'Clean section provides dynamic contrast'
+        ],
+        gearNotes: 'Double bass pedal essential for the verse patterns. High-tuned snare cuts through fast 16th-note sections.'
+      },
+      {
+        track: 'One',
+        bpm: '108-180 (varies dramatically)',
+        signature: '4/4 with metric modulation',
+        highlights: [
+          'Opens with one of metal\'s most iconic drum intros',
+          'Machine-gun snare pattern became instantly recognizable',
+          'Dramatic build from acoustic intro to full-speed assault',
+          'Won Metallica\'s first Grammy Award',
+          'First Metallica song with a music video'
+        ],
+        gearNotes: 'The gated snare sound is crucial to the machine-gun effect. Double bass enters at the 4:30 mark and never relents.'
+      },
+      {
+        track: '...And Justice for All',
+        bpm: '160',
+        signature: 'Various (4/4, 6/8, tempo changes)',
+        highlights: [
+          'Over 9 minutes of constant variation',
+          'Complex time signature changes throughout',
+          'Extended instrumental sections showcase technical ability',
+          'Lyrical themes matched by aggressive delivery',
+          'Title track demonstrates the album\'s progressive ambitions'
+        ],
+        gearNotes: 'The full tom kit is utilized for the epic fills. Ride cymbal work carries extended instrumental sections.'
+      },
+      {
+        track: 'Harvester of Sorrow',
+        bpm: '108',
+        signature: '4/4',
+        highlights: [
+          'Slower, groove-oriented track',
+          'Demonstrates Lars can groove, not just blast',
+          'Heavy, syncopated main riff',
+          'Half-time sections contrast with double-time chorus'
+        ],
+        gearNotes: 'Slower tempo allows the kit\'s tone to shine. Snare cracks punctuate the grinding riff.'
+      },
+      {
+        track: 'Eye of the Beholder',
+        bpm: '145',
+        signature: '4/4 with syncopation',
+        highlights: [
+          'Features unusual syncopated verse patterns',
+          'Lars navigates complex rhythmic interplay with guitars',
+          'Pre-chorus build showcases tom work',
+          'More mid-tempo than other tracks'
+        ],
+        gearNotes: 'Syncopated patterns require precise snare and hi-hat coordination. Tom fills are prominent in arrangement.'
+      }
+    ],
+    evolution: {
+      title: "From Justice to Today: Lars's Evolution",
+      content: `...And Justice for All marked a significant turning point in Lars Ulrich's career, both musically and in terms of gear. The album's technical demands pushed him to his limits, and the subsequent "Black Album" would see a shift toward simpler, groove-based drumming.
+
+**The Black Album Shift:**
+After Justice's complexity, Lars and Metallica consciously simplified their approach for 1991's "Metallica" (The Black Album). Producer Bob Rock wanted feel over technicality. Lars's playing became more groove-oriented, a style he has largely maintained since.
+
+**Gear Evolution:**
+Lars has remained with Tama since the Justice sessions, eventually developing the Starclassic Lars Ulrich Signature Kit. His cymbal choices evolved to the A Custom series when it launched in 1994, and he later developed signature products with both Zildjian and Ahead.
+
+**Modern Perspective:**
+Looking back, Lars has acknowledged that Justice represented a technical peak he hasn't attempted to match. The album's demands required extensive practice and precise execution that he has since traded for a more relaxed, groove-focused approach.
+
+**Live Performance:**
+Justice tracks remain in Metallica's setlist, though some (like the title track) are rarely played due to their complexity. "One" and "Blackened" remain fan favorites and regular inclusions.
+
+**Production Influence:**
+The dry, punchy drum sound of Justice influenced countless thrash and death metal productions. Though controversial for its buried bass, the album's drum tones became a reference point for aggressive metal.`,
+      thenVsNow: [
+        { category: 'Kit', then: 'Tama Artstar II Birch', now: 'Tama Starclassic Maple' },
+        { category: 'Snare', then: 'Tama Artstar II Steel 14x6.5"', now: 'Tama LU1465 Lars Ulrich Signature' },
+        { category: 'Cymbals', then: 'Zildjian A/Z Series', now: 'Zildjian A Custom' },
+        { category: 'Sticks', then: 'Zildjian signature prototype', now: 'Ahead Lars Ulrich Signature' },
+        { category: 'Pedals', then: 'Tama Camco Double Pedal', now: 'Tama Iron Cobra 900' }
+      ]
+    },
+    videos: [
+      { youtubeId: 'WM8bTdBs-cw', title: 'One - Official Music Video', description: 'Metallica\'s first music video, iconic drum intro' },
+      { youtubeId: 'DU_ggFovJNo', title: 'Blackened - Seattle 1989', description: 'Era-appropriate live performance' },
+      { youtubeId: 'Ag1o3koTLWM', title: 'One - Live Seattle 1989', description: 'Full performance from the Damaged Justice Tour' }
+    ],
+    relatedAlbums: ['master-of-puppets-drum-setup', 'rust-in-peace-drum-setup', 'reign-in-blood-drum-setup'],
+    relatedDrummers: [4, 3, 12], // Dave Lombardo, Gene Hoglan, Charlie Benante
+    relatedArticles: ['whats-in-lars-ulrichs-kit', 'big-four-drummers', 'thrash-metal-drummers'],
+    conclusion: {
+      title: 'The Technical Peak',
+      content: `...And Justice for All represents Lars Ulrich's most technically demanding and complex work on record. The album's intricate arrangements, extended song lengths, and relentless tempos required a level of precision and stamina that pushed the boundaries of thrash metal drumming.
+
+**The Justice Legacy:**
+Regardless of the controversial bass mix, the drum performances on Justice are undeniably impressive. Songs like "Blackened," "One," and the title track showcase Lars at his most ambitious. The machine-gun snare pattern in "One" became one of metal's most iconic drum moments.
+
+**Gear Philosophy:**
+The transition to Tama drums and the dry production approach created a template for aggressive metal production. Lars's high tuning and punchy attack would influence countless drummers and producers in the years following.
+
+**Technical vs. Feel:**
+Justice marked the end of Metallica's purely thrash era. The Black Album would prioritize groove over technicality, a direction Lars has largely maintained. This makes Justice a unique document — Lars at his most complex before choosing to simplify.
+
+**For Aspiring Drummers:**
+Studying Justice is a masterclass in thrash metal drumming. Learn "One" for its dynamic range and iconic intro. Learn "Blackened" for its relentless double bass demands. Learn the title track to understand how to navigate extended, complex arrangements.
+
+While Lars's playing has evolved (and been debated) over the decades, ...And Justice for All remains the definitive document of his technical capabilities. The album proves that Lars could play at the highest technical level — he simply chose a different path afterward.
+
+🥁 *"One" — the machine-gun snare that became thrash metal's calling card.* 🥁`
+    }
   }
 };
 

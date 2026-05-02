@@ -293,6 +293,7 @@
 | 2026-04-06 | What's In Richard Christy's Death Metal Arsenal | /articles/whats-in-richard-christys-kit | - |
 | 2026-04-06 | What's In Scott Travis' Judas Priest Arsenal | /articles/whats-in-scott-travis-kit | - |
 | 2026-04-06 | The Sound of Perseverance Drum Setup: Richard Christy | /articles/sound-of-perseverance-drum-setup | - |
+| 2026-05-02 | Rust in Peace Drum Setup: Nick Menza | /articles/rust-in-peace-drum-setup | - |
 
 ---
 
@@ -1146,12 +1147,12 @@
 
 ---
 
-### 💡 [IDEA-058] Rust in Peace Drum Setup: Nick Menza's Thrash Masterpiece
+### ✅ [IDEA-058] Rust in Peace Drum Setup: Nick Menza's Thrash Masterpiece
 
 **Type:** album-breakdown
 **SEO Keywords:** rust in peace drums, nick menza gear, megadeth rust in peace recording, nick menza 1990 kit
 **Search Volume:** HIGH (Megadeth's most acclaimed album, RIP tribute interest)
-**Data Available:** Partial (needs research)
+**Data Available:** Yes
 **Priority:** 4
 
 **Outline:**
@@ -1162,8 +1163,68 @@
 5. Gear Breakdown (drums, cymbals, pedals)
 6. Nick Menza's Legacy
 
-**Status:** IDEA (added 2026-04-06)
+**Status:** PUBLISHED (2026-05-02) — /articles/rust-in-peace-drum-setup
 
 ---
 
-*Last updated: 2026-04-06 17:15*
+### 💡 [IDEA-059] What's In Martin Lopez's Opeth Arsenal
+
+**Type:** drummer-kit
+**SEO Keywords:** martin lopez drum kit, opeth drummer gear, martin lopez setup, progressive death metal drums
+**Search Volume:** HIGH (Opeth's classic era drummer, Blackwater Park legend)
+**Data Available:** Partial (can research)
+**Priority:** 4
+
+**Outline:**
+1. Introduction — The Man Behind Opeth's Classic Era
+2. Sonor/Tama Setup Evolution
+3. Signature Techniques (jazz-prog-death fusion)
+4. Blackwater Park to Ghost Reveries Journey
+5. Post-Opeth Work (Soen)
+6. Where to Buy Similar Gear
+
+**Status:** IDEA (added 2026-05-02)
+
+---
+
+### 💡 [IDEA-060] ...And Justice for All Drum Setup: Lars Ulrich's Technical Peak
+
+**Type:** album-breakdown
+**SEO Keywords:** and justice for all drums, lars ulrich 1988 kit, metallica justice gear, lars ulrich most technical
+**Search Volume:** VERY HIGH (Metallica's most technically demanding album, bass controversy brings attention)
+**Data Available:** Yes
+**Priority:** 5
+
+**Outline:**
+1. Introduction — Metallica's Most Complex Album
+2. Studio Setup at One on One Recording
+3. "One" Breakdown (legendary drum intro)
+4. "...And Justice for All" — 9+ minute technical epic
+5. Recording with Flemming Rasmussen
+6. The Missing Bass Controversy
+
+**Status:** IDEA (added 2026-05-02)
+
+---
+
+### 💡 [IDEA-061] Best Hi-Hats for Extreme Metal: Complete Guide
+
+**Type:** genre-guide
+**SEO Keywords:** best hi-hats extreme metal, death metal hi-hats, blast beat hi-hats, heavy hi-hats metal
+**Search Volume:** Medium-High (niche but high intent buyers)
+**Data Available:** Yes (can aggregate from drummers)
+**Priority:** 4
+
+**Outline:**
+1. What Makes Hi-Hats Survive Extreme Metal
+2. Weight and Size Considerations
+3. Top Models Used by Pros (Zildjian, Sabian, Meinl, Paiste)
+4. Budget vs Pro Recommendations
+5. Special Mention: Quick-Response Hi-Hats for Blast Beats
+6. Buying Guide and Price Ranges
+
+**Status:** IDEA (added 2026-05-02)
+
+---
+
+*Last updated: 2026-05-02 09:30*

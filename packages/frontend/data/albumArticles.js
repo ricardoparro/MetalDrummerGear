@@ -16798,6 +16798,296 @@ Death's sound persevered. And thanks to Richard Christy's legendary performances
 
 🥁 *"The secret of success is not what they think — the flesh and the power it holds!"* 🥁`
     }
+  },
+
+  'rust-in-peace-drum-setup': {
+    slug: 'rust-in-peace-drum-setup',
+    albumTitle: 'Rust in Peace',
+    artist: 'Megadeth',
+    drummer: 'Nick Menza',
+    drummerId: null, // Nick Menza - to be added to DB
+    year: 1990,
+    genre: 'Thrash Metal',
+    label: 'Capitol Records / Combat Records',
+    studio: 'Rumbo Recorders, Canoga Park, California',
+    producer: 'Dave Mustaine & Mike Clink',
+    isAlbumArticle: true,
+    datePublished: '2026-05-02',
+    dateModified: '2026-05-02',
+    author: 'MetalForge Editorial',
+    title: "Rust in Peace Drum Setup: Nick Menza's Gear Breakdown",
+    description: "Complete breakdown of Nick Menza's drum gear on Megadeth's Rust in Peace. Discover the Tama kit, cymbals, and recording techniques behind one of thrash metal's greatest albums.",
+    seoKeywords: ['rust in peace drums', 'nick menza drum setup', 'megadeth rust in peace gear', 'nick menza 1990 kit', 'hangar 18 drums', 'holy wars drums'],
+    ogImage: '/images/albums/rust-in-peace-drums.webp',
+    intro: {
+      title: 'The Album That Perfected Thrash Metal',
+      content: `Released on September 24, 1990, Megadeth's "Rust in Peace" is widely regarded as one of the greatest thrash metal albums ever recorded — and a strong contender for THE greatest. At the heart of this technical masterpiece was Nick Menza, whose drumming elevated the album from excellent to legendary.
+
+Menza joined Megadeth as a drum tech for Chuck Behler before stepping behind the kit himself. His debut album with the band would become the defining moment of his career. Working with producer Mike Clink (fresh off Guns N' Roses' "Appetite for Destruction") at Rumbo Recorders, Menza delivered performances that combined jazz-influenced precision with thrash metal power.
+
+The album opens with "Holy Wars...The Punishment Due" — a nine-minute epic that showcases everything great about Menza's playing: blazing double bass, intricate fills, dynamic control, and the ability to navigate complex time signatures while maintaining groove. Songs like "Hangar 18," "Take No Prisoners," and "Tornado of Souls" feature some of the most technically demanding drumming in thrash metal history.
+
+What set Nick Menza apart was his musical background. Before joining Megadeth, he studied jazz drumming and brought that vocabulary to extreme metal. His ghost notes, his sense of swing within blast beats, his creative fills — all bore the mark of a drummer who understood music theory as well as metal aggression.
+
+This article breaks down every piece of gear Nick used to create this timeless masterpiece.`,
+      keyPoints: [
+        'Recorded at Rumbo Recorders with producer Mike Clink',
+        'Nick Menza\'s debut album with Megadeth became a thrash landmark',
+        'Jazz-influenced technique elevated the technical precision',
+        'Features some of thrash metal\'s most demanding drum performances'
+      ]
+    },
+    drumKit: {
+      title: "Menza's Arsenal: The Tama Artstar II",
+      brand: 'Tama',
+      model: 'Tama Artstar II',
+      finish: 'Midnight Blue',
+      config: {
+        bassdrums: ['22" x 16" Bass Drum (x2)'],
+        toms: ['10" x 10" Rack Tom', '12" x 11" Rack Tom', '13" x 12" Rack Tom'],
+        floorToms: ['16" x 16" Floor Tom', '18" x 18" Floor Tom'],
+        shells: 'Birch shells with die-cast hoops'
+      },
+      description: `For Rust in Peace, Nick Menza used a Tama Artstar II kit in Midnight Blue finish. The Artstar II series represented Tama's professional offering, featuring birch shells known for their focused attack and clear projection — essential qualities for the complex arrangements Dave Mustaine was composing.
+
+The double bass drum setup was non-negotiable for Megadeth's music. Unlike some thrash drummers who could achieve their sound with a double pedal on a single drum, Menza required two 22" bass drums to execute the sustained passages on tracks like "Holy Wars" and "Take No Prisoners." The independent drums provided consistent attack and tone across extended double bass runs.
+
+Menza's tom setup was expansive: three rack toms and two floor toms gave him maximum options for his melodic fills. Unlike purely aggressive thrash drummers, Nick often incorporated tom patterns that were almost jazz-like in their melodicism — a direct result of his training background.
+
+The birch shells of the Artstar II were crucial to cutting through Megadeth's dense guitar arrangements. Dave Mustaine and Marty Friedman's interweaving guitar parts required drums that could punch through without muddying the mix. The Artstar's articulation delivered exactly that.`,
+      notes: [
+        'Double bass drums for Megadeth\'s demanding patterns',
+        'Five-tom setup enabled melodic, jazz-influenced fills',
+        'Birch shells for attack and projection',
+        'Midnight Blue finish became associated with this era'
+      ],
+      estimatedValue: '$3,000-4,500 (1990)'
+    },
+    snare: {
+      title: 'The Crack of Technical Thrash',
+      brand: 'Tama',
+      model: 'Tama Artstar II Bell Brass Snare',
+      size: '14" x 6.5"',
+      shell: 'Bell brass (bronze alloy)',
+      description: `The snare sound on Rust in Peace is distinctive — bright, cutting, with a controlled crack that punctuates even the fastest passages. Nick Menza achieved this with a Tama Artstar II Bell Brass snare, known for its brilliant, articulate tone.
+
+The bell brass shell (a bronze alloy) produces more overtones than steel or aluminum, giving the drum a complex, musical voice. At 6.5" depth, the snare offered the perfect balance between crack and body — essential for a drummer who played everything from blast beats to subtle ghost note patterns.
+
+Producer Mike Clink, coming from the Guns N' Roses sessions where he achieved Steven Adler's punchy snare sound, knew how to capture metal drums with clarity. The snare was close-miked with a Shure SM57, EQ'd to emphasize the attack frequencies, and compressed just enough to control peaks without squashing dynamics.
+
+Menza tuned the snare medium-high with moderate snare wire tension. This allowed for both the aggressive attack needed for thrash sections and the sensitivity required for his ghost note work. Listen to the verses of "Tornado of Souls" — the snare responds to the lightest touches while still cracking on backbeats.`,
+      tuningSetting: 'Medium-high tension, moderate snare wire tension for versatility',
+      heads: 'Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$350-450 (1990) / $600-900 (vintage today)'
+    },
+    cymbals: {
+      title: 'Zildjian Brilliance',
+      brand: 'Zildjian',
+      series: 'Zildjian A Custom / A Series',
+      setup: [
+        { type: 'Hi-Hats', model: 'Zildjian A Custom 14" Hi-Hats', position: 'Left side', notes: 'Bright, articulate for fast patterns' },
+        { type: 'Crash', model: 'Zildjian A Custom 16" Fast Crash', position: 'Left of hi-hats', notes: 'Quick response for accents' },
+        { type: 'Crash', model: 'Zildjian A Custom 18" Medium Crash', position: 'Above high tom', notes: 'Fuller crash for section endings' },
+        { type: 'Crash', model: 'Zildjian A Custom 19" Medium Crash', position: 'Right of toms', notes: 'Primary crash for verses' },
+        { type: 'Ride', model: 'Zildjian A Custom 20" Medium Ride', position: 'Far right', notes: 'Versatile ride with clear bell' },
+        { type: 'China', model: 'Zildjian A 18" China Boy High', position: 'Above floor tom', notes: 'Trashy accents for riff punctuation' },
+        { type: 'Splash', model: 'Zildjian A Custom 10" Splash', position: 'Above hi-hats', notes: 'Quick accents and effects' }
+      ],
+      description: `Nick Menza's cymbal setup for Rust in Peace centered on Zildjian's then-new A Custom series, which had launched in 1989. The A Customs featured a brilliant finish and quick response — perfect for the technical playing that characterized the album.
+
+The 14" A Custom hi-hats were essential to Menza's articulate playing style. The brilliant finish cut through the guitar wall, while the responsive feel allowed for the intricate patterns on songs like "Lucretia." Nick's hi-hat work was notably more sophisticated than many thrash drummers, incorporating jazz-influenced open/closed patterns.
+
+Multiple crash cymbals gave Menza options for dynamic contrast. The 16" provided quick punctuation, the 18" and 19" offered fuller sounds for bigger moments, and together they allowed for the layered crash work heard on tracks like "Tornado of Souls."
+
+The 20" A Custom Medium Ride was versatile enough for both clear bell patterns and crash-riding during intense sections. Listen to "Hangar 18" — the ride work shifts seamlessly between defined patterns and washy crashes.
+
+The China cymbal was crucial for Megadeth's aggressive accents. The trashy, cutting sound punctuated riffs and announced transitions throughout the album. Combined with the splash for quick effects, Menza had a complete palette of cymbal colors.`,
+      estimatedValue: '$1,500-2,000 total (1990)'
+    },
+    hardware: {
+      title: 'The Foundation of Speed',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'Tama',
+          model: 'Tama Camco (Iron Cobra predecessor)',
+          notes: 'Two single pedals for independent bass drums',
+          description: 'Menza used two independent Tama single pedals on his double bass setup, allowing for the sustained double bass passages that define tracks like "Holy Wars" and "Take No Prisoners." The chain-drive action provided the response needed for his precise technique.'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Tama',
+          model: 'Tama Titan Hi-Hat Stand',
+          notes: 'Heavy-duty stand for aggressive playing'
+        },
+        {
+          type: 'Throne',
+          brand: 'Roc-N-Soc',
+          model: 'Roc-N-Soc Nitro Original',
+          notes: 'Comfort for extended technical sessions'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth American Classic 5B',
+          notes: 'Balance between speed and power for technical playing'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke 3 Clear',
+        toms: 'Remo Emperor Clear (batter), Ambassador Clear (resonant)',
+        snare: 'Remo Emperor Coated'
+      }
+    },
+    recordingTechniques: {
+      title: 'Mike Clink\'s Precision Approach',
+      content: `Producer Mike Clink came to Rust in Peace fresh from engineering and producing some of the biggest rock records of the late 80s, including Guns N' Roses' "Appetite for Destruction." His approach to Megadeth was to capture the band's technical precision without sacrificing energy or feel.
+
+**Recording Environment:**
+Rumbo Recorders in Canoga Park, California provided the ideal setting for Megadeth's fourth album. The studio's live room had controlled acoustics that captured drum ambience without excessive room sound. This suited the tight, precise sound Mustaine wanted.
+
+**Microphone Setup:**
+- Kick drums: AKG D112 inside each drum for attack, Neumann U47 FET outside for low-end body
+- Snare: Shure SM57 top (primary attack), AKG C451 bottom (snare wire detail)
+- Toms: Sennheiser MD421 on each tom
+- Hi-hat: AKG C451 for crisp articulation
+- Overheads: Neumann U87s in spaced pair configuration
+- Room mics: AKG C414s for controlled ambience
+
+**Nick's Performance Approach:**
+Menza was a meticulous performer who prepared extensively before recording. His jazz background instilled discipline — he would practice difficult passages until they were automatic. This meant most tracks were captured in complete takes, preserving the musical flow of songs like "Tornado of Souls" with its complex drum breakdown.
+
+**The Technical Challenge:**
+Rust in Peace contained some of the most demanding thrash metal drumming to date. "Holy Wars...The Punishment Due" alone features tempo changes, time signature shifts, and sustained double bass that would challenge any drummer. Menza delivered these performances with precision that still impresses drummers today.
+
+**Mix Philosophy:**
+Clink's mix balanced clarity with power. The drums needed to be heard through Mustaine and Friedman's dense guitar harmonies without overwhelming the intricate melodies. EQ emphasized attack without harshness; compression controlled peaks while preserving dynamics. The result was a drum sound that serves the songs while showcasing Menza's considerable talent.`,
+      keyTechniques: [
+        'Complete takes preserved musical flow and energy',
+        'Dual miking on kicks for attack and body blend',
+        'Controlled room sound suited the tight arrangements',
+        'Mix balanced technical clarity with aggressive power'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'Holy Wars...The Punishment Due',
+        bpm: '185-220 (varies)',
+        signature: '4/4 with variations and tempo changes',
+        highlights: [
+          'Nine-minute thrash epic with multiple sections',
+          'Opens with iconic machine gun double bass',
+          'Features tempo and feel changes throughout',
+          'Requires sustained stamina and technical precision',
+          'Middle section\'s groove contrasts with thrash bookends'
+        ],
+        gearNotes: 'Double bass drums essential for opening barrage. Snare cut crucial for complex fills. Dynamic control showcased throughout.'
+      },
+      {
+        track: 'Hangar 18',
+        bpm: '~170',
+        signature: '4/4 with 7/8 variations',
+        highlights: [
+          'Features eleven guitar solos requiring precise drum support',
+          'Complex time signature changes during solo sections',
+          'Showcases Menza\'s ability to follow complex arrangements',
+          'Ride cymbal work adds texture under solos',
+          'Grammy-nominated for Best Metal Performance'
+        ],
+        gearNotes: 'Ride definition critical for solo sections. Crash layering punctuates solo transitions.'
+      },
+      {
+        track: 'Take No Prisoners',
+        bpm: '~225',
+        signature: '4/4',
+        highlights: [
+          'One of the fastest tracks on the album',
+          'Relentless double bass throughout',
+          'Aggressive snare attack drives the verses',
+          'Showcases Menza\'s raw power alongside precision'
+        ],
+        gearNotes: 'Bass drums must maintain clarity at high speeds. Snare cracks through the fast palm-muted riffs.'
+      },
+      {
+        track: 'Tornado of Souls',
+        bpm: '~165',
+        signature: '4/4',
+        highlights: [
+          'Features Marty Friedman\'s legendary solo',
+          'Pre-solo drum fill is a masterclass in tension building',
+          'Dynamic verse drumming contrasts with powerful chorus',
+          'Often cited as one of the greatest metal songs ever',
+          'Showcases Menza\'s musical sensibility'
+        ],
+        gearNotes: 'Ghost notes in verses require sensitive snare response. Tom fill before solo showcases the full kit\'s musicality.'
+      },
+      {
+        track: 'Lucretia',
+        bpm: '~155',
+        signature: '4/4',
+        highlights: [
+          'Opening hi-hat pattern demonstrates jazz influence',
+          'More groove-oriented than pure thrash',
+          'Intricate patterns showcase technical versatility',
+          'Proves Menza could do more than blast'
+        ],
+        gearNotes: 'Hi-hat articulation crucial for opening pattern. Ride bell work adds melodic interest.'
+      }
+    ],
+    evolution: {
+      title: "From Rust in Peace to Legacy: Nick Menza's Journey",
+      content: `Rust in Peace established Nick Menza as one of thrash metal's elite drummers. He would continue with Megadeth through "Countdown to Extinction" (1992), "Youthanasia" (1994), and "Cryptic Writings" (1997), each album showcasing different aspects of his drumming ability.
+
+**Post-Rust Evolution:**
+After Rust in Peace's technical thrash, Megadeth moved toward a more commercial sound. Menza adapted, proving he could groove as well as blast. "Countdown to Extinction" featured slower tempos and half-time feels; Nick delivered them with the same precision he brought to thrash.
+
+**Gear Changes:**
+Menza remained with Tama throughout his Megadeth tenure but experimented with different models. He moved to the Starclassic series when it launched in 1993, and his cymbal choices expanded to include more specialty models.
+
+**Later Career:**
+Nick Menza left Megadeth in 1998 due to health issues (a tumor that required surgery). He played with various projects afterward but never replicated Rust in Peace's success. Tragically, he collapsed and died on stage in 2016, aged 51, while performing with his band OHM.
+
+**Legacy:**
+Nick Menza's playing on Rust in Peace influenced countless thrash and progressive metal drummers. His combination of jazz vocabulary and metal power created a template that bands continue to follow. The album regularly tops "greatest thrash albums" lists, and Menza's drumming is a key reason why.
+
+**Modern Perspective:**
+Today, drummers study Rust in Peace as a masterclass in technical thrash drumming. The balance of speed and musicality, the creative fills, the ability to serve complex songs — all remain relevant lessons for aspiring metal drummers.`,
+      thenVsNow: [
+        { category: 'Kit', then: 'Tama Artstar II Birch', now: 'Legacy: Tama continues Artstar traditions' },
+        { category: 'Snare', then: 'Tama Bell Brass 14x6.5"', now: 'Bell brass snares remain popular for metal' },
+        { category: 'Cymbals', then: 'Zildjian A Custom (new series)', now: 'A Custom remains flagship Zildjian line' },
+        { category: 'Sticks', then: 'Vic Firth 5B', now: 'VF 5B still industry standard' },
+        { category: 'Pedals', then: 'Tama Camco single pedals', now: 'Iron Cobra/Speed Cobra dominate' }
+      ]
+    },
+    videos: [
+      { youtubeId: 'wpGS8xhkwX4', title: 'Holy Wars - Live 1992', description: 'Era-appropriate live performance' },
+      { youtubeId: 'C1kw5xJr3mY', title: 'Hangar 18 - Official Music Video', description: 'Studio footage with Nick Menza' },
+      { youtubeId: 'Lcm9qqo_qB0', title: 'Tornado of Souls - Live', description: 'Live performance showcasing Menza\'s technique' }
+    ],
+    relatedAlbums: ['master-of-puppets-drum-setup', 'reign-in-blood-drum-setup', 'painkiller-drum-setup'],
+    relatedDrummers: [1, 4, 19], // Lars Ulrich, Dave Lombardo, Scott Travis
+    relatedArticles: ['whats-in-dirk-verbeurens-kit', 'thrash-metal-drummers', 'big-four-drummers'],
+    conclusion: {
+      title: 'The Pinnacle of Technical Thrash',
+      content: `Rust in Peace represents the absolute pinnacle of technical thrash metal drumming. Nick Menza's performances combined jazz-influenced precision with thrash metal aggression, creating a template that influenced everything from progressive metal to modern tech-death.
+
+**What Makes This Album Special:**
+The drumming on Rust in Peace isn't just fast — it's musical. Menza brought sophistication to thrash metal that few of his contemporaries could match. His ghost notes, his dynamics, his ability to navigate complex arrangements while maintaining groove — all set a new standard for the genre.
+
+**The Menza Legacy:**
+Nick Menza's tragic death in 2016 robbed metal of one of its most talented drummers. But his legacy lives on every time a drummer studies "Holy Wars" or attempts the pre-solo fill in "Tornado of Souls." His playing proved that metal drumming could be as sophisticated as any jazz or fusion work.
+
+**Gear Philosophy:**
+Like many great recordings, Rust in Peace's drum sound came from quality but not exotic gear. The Tama Artstar II was a professional kit, not a custom one-off. The Zildjian A Customs were newly released but affordable. What made the difference was the player and his preparation.
+
+**For Aspiring Drummers:**
+Study this album obsessively. Learn "Holy Wars" to understand how to navigate complex arrangements. Learn "Tornado of Souls" to understand dynamics and musicality. Learn "Take No Prisoners" to understand sustained speed. Then remember: Nick Menza started as a drum tech. Dedication and talent opened the door; preparation and musicality created the legend.
+
+Dave Mustaine has called Rust in Peace his favorite Megadeth album. The drumming is a key reason why — Nick Menza delivered performances worthy of the ambitious compositions. Thirty-five years later, the album remains the benchmark for technical thrash metal, and Menza's drumming remains essential to its legacy.
+
+🥁 *"Holy Wars...The Punishment Due" — the opening drum barrage that changed thrash forever.* 🥁`
+    }
   }
 };
 

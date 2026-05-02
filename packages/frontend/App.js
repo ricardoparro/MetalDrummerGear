@@ -210,6 +210,18 @@ import { GearCardShare, trackGearCardEvent, getCardUrl } from './components/Gear
 // Sticky CTA Component (Issue #820) - Conversion optimization
 import StickyCTA from './components/StickyCTA';
 
+// Wishlist Components (Issue #823) - Conversion funnel feature
+import WishlistButton, { FloatingWishlistButton, WishlistBadge } from './components/WishlistButton';
+import {
+  isWishlistPage,
+  getSharedWishlistFromUrl,
+  addToWishlist,
+  isInWishlist,
+  getWishlistCount,
+  trackWishlistEvent,
+} from './utils/wishlist';
+const LazyWishlistPage = lazy(() => import('./components/WishlistPage'));
+
 // Drummer Battle - Weekly Voting Feature (Issue #689)
 // Lazy loaded for performance optimization (#708) - 10KB module
 let _battlesModule = null;
@@ -4809,7 +4821,7 @@ function DrummerNewsSection({ drummer, theme }) {
   );
 }
 
-function GearSection({ title, content, theme, gearType }) {
+function GearSection({ title, content, theme, gearType, drummerName, drummerSlug, estimatedPrice }) {
   const primaryProduct = extractPrimaryProduct(content);
   const affiliateLinks = getAffiliateLinks(primaryProduct, gearType);
 
@@ -4828,7 +4840,21 @@ function GearSection({ title, content, theme, gearType }) {
   
   return (
     <View style={styles.gearSection} nativeID={`speakable-gear-${gearType}`}>
-      <Text style={[styles.gearTitle, { color: titleColor }]}>{title}</Text>
+      <View style={styles.gearSectionHeader}>
+        <Text style={[styles.gearTitle, { color: titleColor }]}>{title}</Text>
+        {/* Wishlist Button (Issue #823) */}
+        {drummerSlug && (
+          <WishlistButton
+            drummerName={drummerName}
+            drummerSlug={drummerSlug}
+            gearType={gearType}
+            itemName={content}
+            primaryProduct={primaryProduct}
+            estimatedPrice={estimatedPrice || 0}
+            compact={true}
+          />
+        )}
+      </View>
       <Text style={[styles.gearContent, { color: theme.secondaryText }]} nativeID={`speakable-gear-${gearType}-content`}>{content}</Text>
       <View style={styles.shopLinksContainer}>
         <TouchableOpacity
@@ -5891,13 +5917,61 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
 
       <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
         <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">Gear Setup</Text>
-        <GearSection title="Drums" content={drummer.gear.drums} theme={theme} gearType="drums" />
-        <GearSection title="Snare" content={drummer.gear.snare} theme={theme} gearType="snare" />
-        <GearSection title="Cymbals" content={drummer.gear.cymbals} theme={theme} gearType="cymbals" />
-        <GearSection title="Hardware" content={drummer.gear.hardware} theme={theme} gearType="hardware" />
-        {drummer.gear.sticks && (
-          <GearSection title="Sticks" content={drummer.gear.sticks} theme={theme} gearType="sticks" />
-        )}
+        {/* GearSection with wishlist support (Issue #823) */}
+        {(() => {
+          const kitCost = calculateKitCost(drummer.gear);
+          return (
+            <>
+              <GearSection 
+                title="Drums" 
+                content={drummer.gear.drums} 
+                theme={theme} 
+                gearType="drums"
+                drummerName={drummer.name}
+                drummerSlug={drummerSlug}
+                estimatedPrice={kitCost?.items?.drums || 0}
+              />
+              <GearSection 
+                title="Snare" 
+                content={drummer.gear.snare} 
+                theme={theme} 
+                gearType="snare"
+                drummerName={drummer.name}
+                drummerSlug={drummerSlug}
+                estimatedPrice={kitCost?.items?.snare || 0}
+              />
+              <GearSection 
+                title="Cymbals" 
+                content={drummer.gear.cymbals} 
+                theme={theme} 
+                gearType="cymbals"
+                drummerName={drummer.name}
+                drummerSlug={drummerSlug}
+                estimatedPrice={kitCost?.items?.cymbals || 0}
+              />
+              <GearSection 
+                title="Hardware" 
+                content={drummer.gear.hardware} 
+                theme={theme} 
+                gearType="hardware"
+                drummerName={drummer.name}
+                drummerSlug={drummerSlug}
+                estimatedPrice={kitCost?.items?.hardware || 0}
+              />
+              {drummer.gear.sticks && (
+                <GearSection 
+                  title="Sticks" 
+                  content={drummer.gear.sticks} 
+                  theme={theme} 
+                  gearType="sticks"
+                  drummerName={drummer.name}
+                  drummerSlug={drummerSlug}
+                  estimatedPrice={kitCost?.items?.sticks || 0}
+                />
+              )}
+            </>
+          );
+        })()}
       </View>
 
       <KitCostCalculator drummer={drummer} theme={theme} />
@@ -21764,6 +21838,10 @@ function AppContent() {
   const [showQuotes, setShowQuotes] = useState(() => isQuotesPage());
   const [showSpotlights, setShowSpotlights] = useState(() => isSpotlightsPage());
   const [showRedditLanding, setShowRedditLanding] = useState(() => isRedditLandingPage());
+  
+  // Wishlist Page state (Issue #823) - Conversion funnel feature
+  const [showWishlist, setShowWishlist] = useState(() => isWishlistPage());
+  
   const [showGearByBudget, setShowGearByBudget] = useState(() => isGearByBudgetPage());
   const [showList, setShowList] = useState(() => isListPage());
   const [listSlug, setListSlug] = useState(() => getListSlugFromURL());
@@ -22436,6 +22514,26 @@ function AppContent() {
       } else if (isRedditLandingPage()) {
         // Reddit Landing Page (Issue #819) - /reddit
         setShowRedditLanding(true);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowSpotlights(false);
+        setShowGearByBudget(false);
+        setShowList(false);
+        setListSlug(null);
+        setShowGearFinder(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+      } else if (isWishlistPage()) {
+        // Wishlist Page (Issue #823) - /wishlist
+        setShowWishlist(true);
+        setShowRedditLanding(false);
         setShowQuotes(false);
         setShowPrivacy(false);
         setShowQuiz(false);
@@ -24032,6 +24130,7 @@ function AppContent() {
         setShowPrivacy(false);
         setShowQuotes(false);
         setShowRedditLanding(false);
+        setShowWishlist(false);
         setShowNewsPage(false);
         setShowGearNewsPage(false);
         setShowGearStats(false);
@@ -25563,6 +25662,26 @@ setShowList(false);
         />
       );
     }
+    // Wishlist Page (Issue #823) - /wishlist
+    if (showWishlist) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyWishlistPage
+            theme={theme}
+            onBack={() => {
+              setShowWishlist(false);
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/');
+              }
+            }}
+            onNavigateToDrummer={(slug) => {
+              setShowWishlist(false);
+              handleSelectDrummer({ slug });
+            }}
+          />
+        </Suspense>
+      );
+    }
     if (showSpotlights) {
       return (
         <SpotlightsArchivePage
@@ -26761,10 +26880,30 @@ setShowList(false);
           <Text style={[styles.title, { color: theme.text }]} accessibilityRole="header">
             Metal Drummer Gear
           </Text>
-          <ThemeToggle />
+          <View style={styles.headerActions}>
+            {/* Wishlist Badge (Issue #823) */}
+            <WishlistBadge
+              onPress={() => {
+                setShowWishlist(true);
+                if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                  window.history.pushState({}, '', '/wishlist');
+                }
+              }}
+            />
+            <ThemeToggle />
+          </View>
         </View>
       </View>
       {renderContent()}
+      {/* Wishlist FAB (Issue #823) - Shows when items saved */}
+      <FloatingWishlistButton
+        onPress={() => {
+          setShowWishlist(true);
+          if (Platform.OS === 'web' && typeof window !== 'undefined') {
+            window.history.pushState({}, '', '/wishlist');
+          }
+        }}
+      />
       <StickyCTA
         onNavigate={(path) => {
           if (Platform.OS === 'web' && typeof window !== 'undefined') {
@@ -26800,9 +26939,14 @@ const styles = StyleSheet.create({
   headerContent: {
     flexDirection: 'row',
     alignItems: 'center',
-    justifyContent: 'center',
+    justifyContent: 'space-between',
     width: '100%',
     maxWidth: 600,
+  },
+  headerActions: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: spacing[2],               // 8px
   },
   title: {
     fontSize: fontSize.xl,
@@ -27663,6 +27807,12 @@ const styles = StyleSheet.create({
   },
   gearSection: {
     marginBottom: spacing[3],      // 12px
+  },
+  gearSectionHeader: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    marginBottom: spacing[1],      // 4px
   },
   gearTitle: {
     fontSize: fontSize.base,

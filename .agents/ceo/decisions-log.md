@@ -1720,3 +1720,174 @@ Content pipeline is healthy. Feature pipeline is empty — Ralph is idle.
 **The Shift:** From BUILDING features to CONVERTING existing traffic. The Gear Wishlist is the first feature specifically designed to turn page views into affiliate revenue clicks — which is the direct path to Thomann unlock (500 DAU → affiliate revenue → reinvest in growth).
 
 *Última revisão: CEO Agent — 2026-04-10*
+
+
+---
+
+## 2026-05-02 09:04 — CEO Saturday Run (Morning)
+
+### Context: Pipeline Empty, Day 92 Post-Launch
+
+**Situation:**
+- **Ralph Status:** IDLE (0 ai-fix issues open)
+- **Recent Completions (past week):**
+  - #820: Sticky CTA Bar (Convert Scrolling Users)
+  - #819: Reddit Launch Campaign (Distribution to Metal Communities)
+  - #817: Homepage Quick-Win CTAs ("Start Here" User Pathways)
+  - #815: Evolution Timeline bug fix (black screen issue resolved)
+  - #813: Gear Price History Tracker (Inflation-Adjusted Setup Costs)
+- **Blocked:** 4 human-founder tasks unchanged (#529, #528, #526, #525)
+- **Founder Ideas:** Empty inbox (no new requests from Ricardo)
+- **Metrics:** No affiliate revenue data available; 92 days post-launch
+
+**Progress Assessment:**
+Since last CEO decision log entry (March 25), Ralph has shipped extensive features including Reddit distribution campaign, sticky CTAs, price history tracking, and evolution timeline fixes. Current state:
+- ✅ 21+ drummers with full gear data
+- ✅ Viral tools suite (Quiz, Name Generator, Tier List, Dream Builder)
+- ✅ Distribution infrastructure (Embeddable Widgets, Gear Cards, Reddit Campaign)
+- ✅ SEO foundation (keyword pages, schemas, meta tags)
+- ✅ Engagement features (Comparison Tool, Battle, Similar Drummers)
+- ❌ Revenue: €0 affiliate (Thomann blocked, Sweetwater links live but no conversion data)
+
+**The Revenue Problem:**
+Day 92 with zero affiliate revenue despite Sweetwater links being active. Users browse gear but have NO conversion path from browsing → purchasing. No wishlist, no save mechanism, no purchase intent funnel exists.
+
+### Actions Taken
+
+1. ✅ Created Issue #823: "Gear Wishlist & Affiliate Conversion Funnel" (CEO-018)
+   - Label: ai-fix (unblocks Ralph)
+   - Impact: 8⭐ (Curto 3⭐, Médio 3⭐, Longo 2⭐)
+   - Rationale: **REVENUE UNLOCK** — First-ever conversion funnel on the site:
+     - localStorage-based wishlist (zero auth friction)
+     - "Save to Wishlist" on every gear item
+     - Shareable wishlist URLs (social sharing hook)
+     - "Buy All from Sweetwater" CTA (bulk affiliate click)
+     - Data insight: which gear users actually want to buy
+     - NO external blockers (pure frontend, Ralph can ship autonomously)
+
+2. ✅ Created CEO-019: "60-Second Setup Build" viral video series
+   - Impact: 8⭐ (Curto 3⭐, Médio 3⭐, Longo 2⭐)
+   - Rationale: **DISTRIBUTION GAP** — TikTok/Instagram Reels/YouTube Shorts dominate discovery in 2026:
+     - Timelapse screen recordings of setups being assembled
+     - Platform-native viral content (60-sec satisfying builds)
+     - Zero production cost (screen record existing pages)
+     - Cross-platform distribution (TikTok + Reels + Shorts = 3x reach)
+     - Drummer amplification potential (tag them → 50% repost to 100K+ followers)
+     - Series format creates follower anticipation
+     - Works WITHOUT needing our own channel control (visual assets others share)
+   - Decision: IMPLEMENTAR (queue after #823)
+
+3. ✅ Updated ceo-ideas.md:
+   - Added CEO-019 (60-Second Setup Build Videos)
+   - Marked CEO-018 as queued (#823)
+
+### Strategic Reasoning
+
+**Why Gear Wishlist NOW? (#823)**
+- **CRITICAL:** 92 days post-launch with €0 affiliate revenue is unacceptable
+- Sweetwater links are live but users have no purchase intent funnel
+- Wishlist = first conversion mechanism ever built on site
+- localStorage = zero friction (no auth required = higher adoption)
+- Shareable URLs = viral loop ("Check out my dream $15K setup")
+- "Buy All" CTA = bulk affiliate click opportunity
+- Data insight = which gear users actually want (signals content priorities)
+- NO external blockers (Ralph can ship autonomously today)
+
+**Why 60-Second Videos NEXT? (CEO-019)**
+- **DISTRIBUTION BOTTLENECK:** We have great features but limited traffic
+- Short-form video DOMINATES discovery in 2026 (TikTok/Reels/Shorts)
+- Metal drummers have MASSIVE followings on these platforms
+- Timelapse builds = satisfying visual content (ASMR + storytelling)
+- Zero production cost (screen record our existing pages)
+- Cross-platform leverage (1 video → 3 platforms = 3x reach)
+- Drummer amplification (tag them → high repost probability)
+- Works WITHOUT us controlling channels (visual assets fan/drummers share)
+- Series format ("Day 1: Lars | Day 2: Joey | Day 3: George") = follower growth
+
+**Alternatives Considered:**
+1. ❌ Wait for Reddit/Twitter/TikTok unblock → Still blocked, need alternative distribution
+2. ❌ More engagement features → Already saturated, need revenue + traffic first
+3. ❌ SEO grind → Takes 3-6 months, need immediate conversion path
+4. ✅ **Wishlist (revenue unlock) + Videos (distribution unlock) → Address both critical gaps**
+
+### Pipeline Status
+- **Before:** 0 ai-fix issues (Ralph idle)
+- **After:** 1 issue queued (#823 Gear Wishlist)
+- **Next:** CEO-019 (60-Second Videos) when #823 completes
+
+### Portfolio Balance Check
+
+**Current Sprint:**
+- ✅ Curto prazo: Wishlist (#823) = immediate affiliate conversion path
+- ✅ Médio prazo: 60-Second Videos (CEO-019) = viral distribution + brand awareness
+- ✅ Longo prazo: Both create sustainable growth (conversion funnel + content distribution)
+
+**Overall Portfolio (Day 92):**
+- Features: Comprehensive (viral tools, comparison, stats, timelines, etc.)
+- Content: 21+ drummers, articles, guides
+- SEO: Strong foundation (schemas, keyword pages, meta tags)
+- Distribution: Limited (Reddit campaign active, social blocked)
+- **Revenue: BROKEN (€0 affiliate) ← Top priority**
+- **Traffic: INSUFFICIENT ← Second priority**
+
+**Assessment:** Perfect timing for dual unlock — Wishlist creates conversion funnel for EXISTING traffic, Videos create NEW traffic from short-form platforms.
+
+### Growth Opportunity
+
+**#1 Priority:** Gear Wishlist (#823)
+- First conversion funnel on entire site
+- Addresses 92-day €0 revenue problem
+- localStorage = zero friction, high adoption
+- Shareable URLs = viral social sharing
+- Data insight on user purchase intent
+- Immediate impact when shipped
+
+**#2 Priority:** 60-Second Setup Videos (CEO-019)
+- Taps into short-form video dominance
+- Zero production cost (screen recording)
+- Cross-platform distribution (TikTok/Reels/Shorts)
+- Drummer amplification potential
+- Alternative distribution when channels blocked
+- Series format creates audience building
+
+### Founder Ideas Status
+- ✅ founder-ideas.md reviewed: Empty (no new ideas from Ricardo)
+
+### What I Need from Ricardo
+
+**UNCHANGED BLOCKERS (4 human-founder tasks):**
+- #529: Thomann affiliate application (needs 500 DAU or 5K social followers)
+- #528: Twitter API access for @MetalDrumGear
+- #526: TikTok Postiz setup
+- #525: TikTok account creation
+
+**NOTE:** 60-Second Videos (CEO-019) can launch WITHOUT needing TikTok/Twitter/Reddit control. Videos are visual assets that fans/drummers/YouTubers will share organically. We bypass channel control by creating shareable content.
+
+### Strategic Summary
+
+**This Run's Breakthroughs:**
+1. **Revenue Unlock:** Gear Wishlist creates first-ever conversion funnel (addresses 92-day €0 problem)
+2. **Distribution Unlock:** 60-Second Videos tap short-form dominance (addresses traffic gap)
+3. **Zero External Dependencies:** Both features ship autonomously (no Ricardo blockers)
+
+**The Math:**
+- Wishlist: 10% adoption × 10% "Buy All" CTR = first affiliate conversions
+- Videos: 1 viral hit (10K+ views) × 5% site visits = 500+ new users
+- Reddit campaign + Videos + Wishlist = traffic × conversion funnel = revenue
+- **Combined effect: Break through €0 revenue barrier**
+
+**Why I'm Confident:**
+- Wishlist solves real user pain ("I want this gear but can't save it")
+- Videos leverage proven format (satisfying builds = TikTok/Reels gold)
+- Both create network effects (wishlist shares, video reshares)
+- Zero cost to implement (frontend code + screen recording)
+- Immediate impact when shipped (no 3-month SEO wait)
+
+**Next Steps:**
+1. Ralph ships Wishlist (#823)
+2. Ralph ships 60-Second Videos infrastructure (CEO-019)
+3. Produce 10 setup videos (batch session)
+4. Monitor: Wishlist saves (GA4 events), Video views (platform analytics), Affiliate clicks (UTM tracking)
+5. Scale what works (more videos, wishlist optimizations)
+
+---

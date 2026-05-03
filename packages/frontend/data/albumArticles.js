@@ -18034,6 +18034,322 @@ Rest in power, Sean. The ghosts notes echo still.
 
 🥁 *"How long has this gone on?"* — the music plays forever. 🥁`
     }
+  },
+
+  // Mikkey Dee - Motörhead & Scorpions (May 2026)
+  'whats-in-mikkey-dees-kit': {
+    slug: 'whats-in-mikkey-dees-kit',
+    articleType: 'drummer-kit',
+    drummer: 'Mikkey Dee',
+    drummerId: 20,
+    band: 'Scorpions / Motörhead',
+    bands: ['Scorpions', 'Motörhead', 'King Diamond', 'Don Dokken'],
+    genre: 'Hard Rock / Heavy Metal / Speed Metal',
+    country: 'Sweden',
+    isAlbumArticle: true,
+    isDrummerKit: true,
+    datePublished: '2026-05-03',
+    dateModified: '2026-05-03',
+    author: 'MetalForge Editorial',
+    title: "What's In Mikkey Dee's Motörhead/Scorpions Arsenal: 23 Years Behind Rock's Loudest Band",
+    description: "Explore Mikkey Dee's legendary drum setup — from 23 years powering Motörhead with Lemmy to his current role with Scorpions. Complete gear breakdown of the Swedish powerhouse's Yamaha kit, Zildjian cymbals, and signature techniques.",
+    seoKeywords: ['mikkey dee drum kit', 'motorhead drummer gear', 'scorpions drummer setup', 'mikkey dee yamaha', 'lemmy drummer', 'mikkey dee setup 2026', 'motorhead drums', 'ace of spades drums'],
+    ogImage: '/images/drummers/mikkey-dee.webp',
+    intro: {
+      title: 'The Thundering Heart of Rock & Roll',
+      content: \`Mikkey Dee didn't just keep time for Motörhead — he was the relentless engine that powered rock's loudest, most uncompromising band for 23 years. From 1992 until Lemmy Kilmister's death in December 2015, Dee's thunderous drumming drove some of the most visceral rock recordings ever made.
+
+Born Micael Kiriakos Delaoglou on October 31, 1963, in Gothenburg, Sweden (to a Greek immigrant father and Swedish mother), Mikkey came to Motörhead with serious credentials. His work with King Diamond on classics like "Abigail" (1987) showcased technical precision rare in extreme metal. But it was Lemmy who recognized what Mikkey could bring to Motörhead's raw, unfiltered sound.
+
+"Mikkey can do anything," Lemmy once said. "He's the best drummer I ever played with." Coming from a man who'd worked with Phil "Philthy Animal" Taylor, that's the ultimate endorsement. Mikkey's combination of jazz-trained precision and pure rock power was exactly what Motörhead needed.
+
+The partnership produced twelve studio albums and countless tours. Mikkey brought new energy to classic tracks like "Ace of Spades" while driving new material with relentless intensity. His drum solos became legendary — explosive displays of power and technique that left audiences stunned.
+
+After Lemmy's passing, Mikkey joined Scorpions in 2016, replacing James Kottak. At 62, he's still touring the world with one of rock's biggest bands, proving that the fire never dies. His drumming on "Rock Believer" (2022) showed he's lost nothing — still one of rock's most powerful players.
+
+This article breaks down the gear that's powered decades of thunderous rock drumming.`,
+      keyPoints: [
+        'Motörhead\'s longest-serving drummer: 23 years (1992-2015)',
+        'Replaced the legendary Phil "Philthy Animal" Taylor',
+        'Grammy winner: Best Metal Performance 2004 (Whiplash)',
+        'Recorded 12 studio albums with Motörhead',
+        'Joined Scorpions in 2016 — still touring at 62',
+        'Previous work with King Diamond showcased technical range'
+      ]
+    },
+    drumKit: {
+      title: "Yamaha Power: The Foundation of Thunder",
+      brand: 'Yamaha',
+      model: 'Yamaha Recording Custom / Oak Custom',
+      finish: 'Custom finishes (often black or natural)',
+      config: {
+        bassdrums: ['24" x 18" Bass Drum (single pedal)', '24" x 18" Bass Drum (double pedal setup available)'],
+        toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom', '13" x 10" Rack Tom'],
+        floorToms: ['16" x 16" Floor Tom', '18" x 16" Floor Tom'],
+        shells: 'Birch (Recording Custom) or Oak shells for maximum power'
+      },
+      description: \`Mikkey Dee's Yamaha drums are built for one purpose: delivering crushing power night after night on world tours. His choice of Yamaha reflects his priorities — durability, consistency, and massive low-end punch.
+
+**The Bass Drum Philosophy:**
+Unlike many modern metal drummers who favor double bass drum setups with smaller kicks, Mikkey uses a single 24" bass drum. This massive drum delivers the chest-thumping low end that defined Motörhead's live sound. Even when using a double pedal, Mikkey often preferred one large kick to two smaller ones — the resonance and power are simply different.
+
+**Recording Custom vs Oak Custom:**
+The Yamaha Recording Custom series (birch shells) has been Mikkey's primary choice for studio work, prized for its focused attack and clear tone. For live work and particularly punishing tours, he's also used the Oak Custom series, which offers even more volume and durability. Oak's density makes it virtually indestructible — essential for Mikkey's aggressive playing style.
+
+**The Motörhead Setup:**
+With Motörhead, Mikkey typically used a five-piece configuration: 24" kick, 10"/12"/13" rack toms, and dual floor toms (16" and 18"). This setup provided the tonal range to deliver both delicate passages (yes, Motörhead had them) and the devastating power the band was known for.
+
+**The Scorpions Configuration:**
+With Scorpions, Mikkey has adapted his setup slightly for the band's more melodic rock approach, but the foundation remains: massive bass drum, multiple toms for dynamic fills, and floor toms that shake venues. The Scorpions' arena rock requires projection, and Yamaha delivers.
+
+**Shell Selection:**
+Mikkey prefers thicker shells for maximum volume and projection. His drums are built to cut through walls of Marshall amplifiers — a necessity when playing next to Lemmy's legendary stage volume or Scorpions' wall-of-sound production.`,
+      notes: [
+        '24" bass drum delivers chest-thumping power',
+        'Birch Recording Custom for studio work',
+        'Oak Custom for maximum durability on tour',
+        'Thicker shells for projection through loud stage volumes',
+        'Single kick philosophy despite occasional double pedal use'
+      ],
+      estimatedValue: '$4,000-7,000 (professional Yamaha kits)'
+    },
+    snare: {
+      title: 'The Crack That Cuts Through Chaos',
+      brand: 'Yamaha',
+      model: 'Yamaha Recording Custom Aluminum / Brass',
+      size: '14" x 6.5"',
+      shell: 'Aluminum or Brass (metal snares preferred)',
+      description: \`Mikkey Dee's snare drum sound is unmistakable — a crisp, powerful crack that cuts through even the loudest stage mix. His preference for deep metal-shell snares delivers the attack and projection needed to compete with Motörhead's legendary volume.
+
+**The Metal Shell Choice:**
+While many rock drummers favor wood snares for warmth, Mikkey gravitates toward metal shells — aluminum and brass being his primary choices. Metal shells offer brightness, cutting power, and sensitivity that work perfectly for his style. The 6.5" depth provides body without sacrificing the crack.
+
+**Yamaha Recording Custom Aluminum:**
+This snare has been Mikkey's go-to for years. The seamless aluminum shell produces a bright, articulate sound with excellent sensitivity for ghost notes while delivering devastating rimshots. The Recording Custom hardware is robust enough for his aggressive playing.
+
+**Brass for Maximum Cut:**
+For situations requiring even more cut, Mikkey has used brass snares. Brass delivers more overtones and sustain than aluminum, projecting across large venues without becoming harsh.
+
+**Tuning Philosophy:**
+Mikkey tunes his snare on the higher side of medium — tight enough for a clear crack on every stroke but not so high that it loses body. This tuning survives aggressive playing while maintaining musicality. With Lemmy's bass often occupying the low-mid frequencies, Mikkey's snare needed to live in its own sonic space.
+
+**The Motörhead Challenge:**
+Playing snare drums next to Lemmy's bass rig was a unique challenge. The stage volume was legendary — often described as a physical assault. Mikkey's snare setup was specifically designed to cut through this sonic mayhem, and it succeeded night after night.`,
+      tuningSetting: 'Medium-high for maximum crack and cut',
+      heads: 'Remo Ambassador Coated / Emperor X',
+      estimatedValue: '$500-800 (professional metal snares)'
+    },
+    cymbals: {
+      title: 'Zildjian Power',
+      brand: 'Zildjian',
+      series: 'Zildjian A Custom / K Custom',
+      setup: [
+        { type: 'Hi-Hats', model: 'Zildjian 15" A New Beat Hi-Hats', position: 'Left side', notes: 'Heavy hi-hats for aggressive playing; 15" for extra body' },
+        { type: 'Crash', model: 'Zildjian 18" A Custom Medium', position: 'Left of hi-hats', notes: 'Explosive, cutting crash for accents' },
+        { type: 'Crash', model: 'Zildjian 19" A Custom Projection Crash', position: 'Right of toms', notes: 'More projection for larger venues' },
+        { type: 'Crash', model: 'Zildjian 20" A Custom Crash', position: 'Far right', notes: 'Massive crash for song endings' },
+        { type: 'Ride', model: 'Zildjian 22" A Custom Medium Ride', position: 'Right side', notes: 'Versatile ride with powerful bell' },
+        { type: 'China', model: 'Zildjian 18" A Custom China', position: 'Above floor tom', notes: 'Aggressive accents for punk-influenced passages' },
+        { type: 'Splash', model: 'Zildjian 10" A Custom Splash', position: 'Above hi-hats', notes: 'Quick accents and color' }
+      ],
+      description: \`Mikkey Dee's Zildjian cymbal setup is built for one thing: cutting through the loudest rock bands in history. His selection emphasizes projection, durability, and the ability to be heard over walls of amplifiers.
+
+**The 15" Hi-Hat Choice:**
+While most drummers use 14" hi-hats, Mikkey prefers 15" New Beats. The extra inch provides more body and volume — essential when playing next to Lemmy's bass stack. The heavier bottom cymbal keeps the hi-hats stable during aggressive playing while the top cymbal provides articulation.
+
+**A Custom Series:**
+Zildjian's A Custom line is Mikkey's primary choice. These cymbals offer brightness and projection with enough musicality for melodic passages. The series was designed for rock and metal applications — perfect for Motörhead's raw power and Scorpions' arena rock.
+
+**Multiple Crash Sizes:**
+Mikkey uses various crash sizes (18", 19", 20") for dynamic range. Smaller crashes for quick accents, larger crashes for dramatic moments and song endings. This variety gives him options without overwhelming the mix with constant huge crashes.
+
+**The 22" Ride:**
+A large ride cymbal provides a clear bell and enough body for crash-riding — essential for rock drumming. Mikkey uses the bell extensively for accents, a technique that became part of Motörhead's signature sound.
+
+**Durability:**
+Playing at Motörhead volumes meant destroying cymbals faster than most drummers. Mikkey's choices reflect this — he needs cymbals that can survive aggressive playing night after night. Zildjian's professional series has the durability required.`,
+      estimatedValue: '$2,500-3,500 total (professional Zildjian setup)'
+    },
+    hardware: {
+      title: 'Built for War',
+      items: [
+        {
+          type: 'Bass Drum Pedal',
+          brand: 'Yamaha',
+          model: 'Yamaha FP9 / Flying Dragon',
+          notes: 'Smooth, powerful action for aggressive playing',
+          description: 'Mikkey\'s pedal choice emphasizes smooth action and durability. The Flying Dragon pedal offers adjustable response for his powerful single-stroke approach. Even when using double pedals, he maintains a driving, groove-oriented style rather than constant double bass patterns.'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Yamaha',
+          model: 'Yamaha HS1200',
+          notes: 'Heavy-duty stand for powerful footwork'
+        },
+        {
+          type: 'Throne',
+          brand: 'Roc-N-Soc',
+          model: 'Roc-N-Soc Nitro',
+          notes: 'Comfort and stability for explosive playing'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth 2B or Custom',
+          notes: 'Heavy sticks for maximum impact — 2B weight for power and durability'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke 3 / Evans EMAD',
+        toms: 'Remo Emperor Clear',
+        snare: 'Remo Ambassador Coated / Emperor X'
+      }
+    },
+    careerHighlights: {
+      title: 'Career Highlights',
+      items: [
+        { year: '1985', event: 'Joined King Diamond\'s band; recorded "Fatal Portrait"' },
+        { year: '1987', event: 'Recorded "Abigail" with King Diamond — a classic of horror metal' },
+        { year: '1989', event: 'Departed King Diamond to pursue other opportunities' },
+        { year: '1990', event: 'Joined Don Dokken\'s band briefly' },
+        { year: '1992', event: 'Joined Motörhead, replacing Phil "Philthy Animal" Taylor' },
+        { year: '1993', event: 'First Motörhead album: "Bastards" — Mikkey era begins' },
+        { year: '1996', event: '"Overnight Sensation" — commercial resurgence for Motörhead' },
+        { year: '2004', event: 'Won Grammy for "Whiplash" (Best Metal Performance)' },
+        { year: '2010', event: '"The World Is Yours" — Motörhead\'s 21st studio album' },
+        { year: '2015', event: '"Bad Magic" released; Lemmy passes away December 28' },
+        { year: '2016', event: 'Joined Scorpions, replacing James Kottak' },
+        { year: '2022', event: '"Rock Believer" with Scorpions — first album with the band' }
+      ]
+    },
+    styleAnalysis: {
+      title: 'The Engine Room: Mikkey\'s Drumming Philosophy',
+      content: \`Mikkey Dee's drumming style is deceptively sophisticated. On the surface, it's pure rock power — driving rhythms, thunderous fills, explosive accents. But beneath that power lies jazz training, technical precision, and musical intelligence that separates him from mere loud drummers.
+
+**The Motörhead Challenge:**
+Playing drums for Motörhead wasn't just about volume (though that was certainly part of it). Lemmy's bass occupied a unique sonic space — often described as a "third guitar" due to his aggressive attack. Mikkey had to find his own space in this sonic assault, which he did through precise articulation and intelligent frequency placement.
+
+**King Diamond Foundation:**
+Mikkey's work with King Diamond revealed his technical capabilities. "Abigail" features intricate patterns, dynamic control, and precision that might surprise those who only know his Motörhead work. This background gave him tools most hard rock drummers lack.
+
+**The Power-Precision Balance:**
+What made Mikkey perfect for Motörhead was his ability to hit incredibly hard while maintaining precision. Every stroke lands exactly where intended. This isn't mindless bashing — it's controlled aggression, every beat serving the song.
+
+**Groove Over Flash:**
+Despite his technical capabilities, Mikkey prioritizes groove. His fills are muscular but never self-indulgent. He serves the song, driving the band forward rather than showcasing his abilities. This discipline is rare among drummers with his skills.
+
+**The Drum Solo Tradition:**
+Mikkey's legendary drum solos during Motörhead shows weren't just technical displays — they were performances. Part drummer, part entertainer, he connected with audiences through sheer energy and showmanship. These solos became a highlight of Motörhead's live show.
+
+**Endurance:**
+Playing Motörhead songs at their intended tempos, at stage volume, for 90 minutes or more requires exceptional physical conditioning. Mikkey's stamina allowed him to maintain intensity throughout brutal touring schedules that would exhaust younger drummers.
+
+**The Scorpions Adaptation:**
+Joining Scorpions required adjustment. The band's more melodic, hook-driven songs demanded restraint that Motörhead rarely required. Mikkey proved his versatility by serving these songs without losing his identity — still powerful, but more nuanced when needed.`,
+      keyTechniques: [
+        'Powerful single strokes with jazz-derived precision',
+        'Large bass drum technique for maximum low-end impact',
+        'Hi-hat work that cuts through extreme stage volumes',
+        'Fills that serve songs rather than showcase technique',
+        'Exceptional stamina for extended high-energy performances',
+        'Dynamic control rare in hard rock drumming'
+      ]
+    },
+    videos: [
+      { youtubeId: 'pWB5JZRGl0U', title: 'Motörhead - Ace of Spades (Live)', description: 'Mikkey driving the classic anthem with thunderous power' },
+      { youtubeId: '5okojpC_cKE', title: 'Mikkey Dee Drum Solo (Motörhead Live)', description: 'Legendary drum solo showcasing technique and showmanship' },
+      { youtubeId: 'nNPgZjCumaU', title: 'Scorpions - Rock Believer (Official Video)', description: 'Mikkey with Scorpions — proving the fire never dies' },
+      { youtubeId: 'vpPJzrNRHdI', title: 'King Diamond - Abigail (Full Album)', description: 'Early technical work that showcased Mikkey\'s range' }
+    ],
+    buyingGuide: {
+      title: 'Getting Mikkey\'s Thunder on a Budget',
+      content: \`Mikkey Dee's sound is about power, precision, and projection. Here's how to capture elements of his approach at various price points.
+
+**The Philosophy First:**
+Mikkey's sound comes from how he plays, not just what he plays. Hit hard, but hit accurately. Every stroke deliberate. Practice playing at full volume with control — it's harder than it sounds.
+
+**Bass Drum Priority:**
+If possible, use a larger bass drum (22" minimum, 24" if practical). The low-end thump of a big kick defines Mikkey's sound. Tune it low but with enough attack to cut through.
+
+**Metal Snare Recommendation:**
+Invest in a quality metal-shell snare drum. Even budget aluminum snares deliver more cut than wood drums. This is one area where spending more makes an audible difference.
+
+**Hi-Hat Weight:**
+Consider heavier hi-hats (14" New Beats or similar). They require more effort to play but provide the stability and body Mikkey's sound demands.
+
+**Stick Selection:**
+Use heavier sticks (2B weight). Lighter sticks won't deliver the same impact. Practice grip and technique to avoid injury from the extra weight.
+
+**Head Choices:**
+Double-ply heads (Emperor or G2) on toms and snare provide durability for hard hitting. Clear heads offer more attack; coated heads add warmth. Experiment to find your preference.`,
+      recommendations: [
+        {
+          item: 'Yamaha Stage Custom or similar (used)',
+          available: true,
+          priceRange: '$600-900 used',
+          notes: 'Birch shells offer Mikkey-style attack'
+        },
+        {
+          item: 'Metal snare drum (14" x 6.5")',
+          available: true,
+          priceRange: '$200-400',
+          notes: 'Aluminum or steel for cutting power'
+        },
+        {
+          item: 'Zildjian A series crashes (used)',
+          available: true,
+          priceRange: '$150-250 each',
+          notes: 'Projection and durability'
+        },
+        {
+          item: 'Heavy hi-hats (14" or 15")',
+          available: true,
+          priceRange: '$200-350',
+          notes: 'New Beat style for stability'
+        },
+        {
+          item: 'Vic Firth 2B sticks',
+          available: true,
+          priceRange: '$12-15',
+          notes: 'Essential for Mikkey\'s power approach'
+        }
+      ]
+    },
+    relatedDrummers: [4, 1, 41], // Dave Lombardo, Lars Ulrich, Nicko McBrain
+    relatedArticles: ['hard-rock-drummers', 'heavy-metal-drummers', 'whats-in-nicko-mcbrains-kit'],
+    relatedAlbums: ['painkiller-drum-setup', 'master-of-puppets-drum-setup'],
+    conclusion: {
+      title: 'The Locomotive That Never Stops',
+      content: \`Mikkey Dee is one of rock's true survivors. Twenty-three years powering the loudest band in the world, a Grammy Award, countless tours, and now — at 62 — still thundering across stages with Scorpions. His career is a testament to talent, professionalism, and an unquenchable passion for rock and roll.
+
+**What Makes Mikkey Special:**
+
+- **Versatility disguised as simplicity:** His King Diamond work proves technical chops; his Motörhead work proves he can apply them in service of pure rock power. Few drummers master both.
+
+- **Professionalism:** Mikkey was Motörhead's longest-serving drummer because he was reliable. He showed up, played his ass off, and did it again the next night. In an industry full of ego and drama, professionalism matters.
+
+- **The Lemmy Factor:** Being chosen by Lemmy — and keeping that gig for 23 years — is the ultimate endorsement. Lemmy could be difficult, demanding, uncompromising. Mikkey not only survived but thrived.
+
+- **Graceful transition:** After Lemmy's death, Mikkey could have retired. Instead, he joined Scorpions and kept going. The fire still burns.
+
+**For Drummers Studying Mikkey:**
+
+Power isn't about hitting hard — it's about hitting right. Mikkey's strokes are deliberate, controlled, and perfectly placed. Study his economy of motion: no wasted energy, maximum impact.
+
+Groove comes first. Technical ability means nothing if the band doesn't feel good. Mikkey drives bands forward with unstoppable momentum while staying locked with the bass.
+
+Endurance requires training. Playing at Mikkey's intensity for full shows requires physical conditioning. Practice stamina, not just patterns.
+
+**The Legacy:**
+
+From King Diamond's technical metal to Motörhead's raw power to Scorpions' arena rock, Mikkey Dee has proven himself across generations and genres. He's not just a great drummer — he's a great rock drummer, serving the music with power and precision night after night.
+
+At 62, he's still doing it. Still thundering. Still proving that rock and roll is a lifestyle, not just a genre.
+
+Born to play. Born to raise hell. Born to drive the locomotive.
+
+🥁 *"We are Motörhead. And we play rock and roll."* — Mikkey kept that promise for 23 years. Now he keeps it with Scorpions. 🥁`
+    }
   }
 };
 

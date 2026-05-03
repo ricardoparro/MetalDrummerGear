@@ -297,6 +297,7 @@
 | 2026-05-02 | ...And Justice for All Drum Setup: Lars Ulrich | /articles/and-justice-for-all-drum-setup | - |
 | 2026-05-02 | What's In Art Cruz' Lamb of God Arsenal | /articles/whats-in-art-cruzs-kit | - |
 | 2026-05-03 | What's In Sean Reinert's Progressive Arsenal (Tribute) | /articles/whats-in-sean-reinerts-kit | - |
+| 2026-05-03 | What's In Mikkey Dee's Motörhead/Scorpions Arsenal | /articles/whats-in-mikkey-dees-kit | - |
 
 ---
 
@@ -1230,7 +1231,7 @@
 
 ---
 
-### 💡 [IDEA-062] What's In Mikkey Dee's Motörhead/Scorpions Arsenal
+### ✅ [IDEA-062] What's In Mikkey Dee's Motörhead/Scorpions Arsenal
 
 **Type:** drummer-kit
 **SEO Keywords:** mikkey dee drum kit, motorhead drummer, scorpions drummer, mikkey dee setup, lemmy drummer
@@ -1246,7 +1247,7 @@
 5. Evolution: King Diamond → Dokken → Motörhead → Scorpions
 6. Where to Buy Similar Gear
 
-**Status:** IDEA (added 2026-05-03)
+**Status:** PUBLISHED (2026-05-03) — /articles/whats-in-mikkey-dees-kit
 
 ---
 
@@ -1290,4 +1291,4 @@
 
 ---
 
-*Last updated: 2026-05-03 09:15*
+*Last updated: 2026-05-03 13:04*

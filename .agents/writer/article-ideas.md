@@ -298,6 +298,7 @@
 | 2026-05-02 | What's In Art Cruz' Lamb of God Arsenal | /articles/whats-in-art-cruzs-kit | - |
 | 2026-05-03 | What's In Sean Reinert's Progressive Arsenal (Tribute) | /articles/whats-in-sean-reinerts-kit | - |
 | 2026-05-03 | What's In Mikkey Dee's Motörhead/Scorpions Arsenal | /articles/whats-in-mikkey-dees-kit | - |
+| 2026-05-03 | What's In Abe Cunningham's Deftones Arsenal | /articles/whats-in-abe-cunninghams-kit | - |
 
 ---
 
@@ -1251,7 +1252,7 @@
 
 ---
 
-### 💡 [IDEA-063] What's In Abe Cunningham's Deftones Arsenal
+### ✅ [IDEA-063] What's In Abe Cunningham's Deftones Arsenal
 
 **Type:** drummer-kit
 **SEO Keywords:** abe cunningham drum kit, deftones drummer, abe cunningham setup, deftones drums, alternative metal drums
@@ -1261,13 +1262,13 @@
 
 **Outline:**
 1. Introduction — The Architect of Deftones' Atmospheric Groove
-2. Current DW Drums Setup
+2. Current Tama Starclassic Setup
 3. Signature Techniques (dynamics, restraint, groove over flash)
 4. Evolution from "Adrenaline" to "Ohms"
 5. How His Playing Defined Deftones' Sound
 6. Where to Buy Similar Gear
 
-**Status:** IDEA (added 2026-05-03)
+**Status:** PUBLISHED (2026-05-03) — /articles/whats-in-abe-cunninghams-kit
 
 ---
 
@@ -1291,4 +1292,4 @@
 
 ---
 
-*Last updated: 2026-05-03 13:04*
+*Last updated: 2026-05-03 17:10*

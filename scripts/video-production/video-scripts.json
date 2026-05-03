@@ -1,0 +1,57 @@
+[
+  {
+    "drummer": "Joey Jordison",
+    "band": "Slipknot",
+    "title": "Building Joey Jordison's €8,780 Setup",
+    "subtitle": "Slipknot • Nu Metal / Death Metal",
+    "cta": "Explore full setup → metalforge.io/joey-jordison",
+    "hashtags": "#JoeyJordison #MetalDrummer #DrumSetup #DrumGear #MetalForge #Slipknot",
+    "gearBreakdown": "🥁 Drums: €4,500\n🪘 Snare: €450\n🔔 Cymbals: €2,800\n⚙️ Hardware: €650\n🥢 Sticks: €180\n⭕ Heads: €200",
+    "totalCost": "€8,780",
+    "profileImage": "/images/drummers/joey-jordison.webp"
+  },
+  {
+    "drummer": "Lars Ulrich",
+    "band": "Metallica",
+    "title": "Building Lars Ulrich's €7,630 Setup",
+    "subtitle": "Metallica • Thrash Metal",
+    "cta": "Explore full setup → metalforge.io/lars-ulrich",
+    "hashtags": "#LarsUlrich #MetalDrummer #DrumSetup #DrumGear #MetalForge #Metallica",
+    "gearBreakdown": "🥁 Drums: €3,800\n🪘 Snare: €550\n🔔 Cymbals: €2,400\n⚙️ Hardware: €480\n🥢 Sticks: €200\n⭕ Heads: €200",
+    "totalCost": "€7,630",
+    "profileImage": "/images/drummers/lars-ulrich.webp"
+  },
+  {
+    "drummer": "George Kollias",
+    "band": "Nile",
+    "title": "Building George Kollias's €12,590 Setup",
+    "subtitle": "Nile • Technical Death Metal",
+    "cta": "Explore full setup → metalforge.io/george-kollias",
+    "hashtags": "#GeorgeKollias #MetalDrummer #DrumSetup #DrumGear #MetalForge #Nile",
+    "gearBreakdown": "🥁 Drums: €8,500\n🪘 Snare: €480\n🔔 Cymbals: €2,600\n⚙️ Hardware: €650\n🥢 Sticks: €160\n⭕ Heads: €200",
+    "totalCost": "€12,590",
+    "profileImage": "/images/drummers/george-kollias.webp"
+  },
+  {
+    "drummer": "Mario Duplantier",
+    "band": "Gojira",
+    "title": "Building Mario Duplantier's €7,650 Setup",
+    "subtitle": "Gojira • Progressive Death Metal",
+    "cta": "Explore full setup → metalforge.io/mario-duplantier",
+    "hashtags": "#MarioDuplantier #MetalDrummer #DrumSetup #DrumGear #MetalForge #Gojira",
+    "gearBreakdown": "🥁 Drums: €3,800\n🪘 Snare: €420\n🔔 Cymbals: €2,600\n⚙️ Hardware: €480\n🥢 Sticks: €150\n⭕ Heads: €200",
+    "totalCost": "€7,650",
+    "profileImage": "/images/drummers/mario-duplantier.webp"
+  },
+  {
+    "drummer": "Dave Lombardo",
+    "band": "Slayer",
+    "title": "Building Dave Lombardo's €7,670 Setup",
+    "subtitle": "Slayer • Thrash Metal",
+    "cta": "Explore full setup → metalforge.io/dave-lombardo",
+    "hashtags": "#DaveLombardo #MetalDrummer #DrumSetup #DrumGear #MetalForge #Slayer",
+    "gearBreakdown": "🥁 Drums: €3,800\n🪘 Snare: €420\n🔔 Cymbals: €2,800\n⚙️ Hardware: €480\n🥢 Sticks: €170",
+    "totalCost": "€7,670",
+    "profileImage": "/images/drummers/dave-lombardo.webp"
+  }
+]

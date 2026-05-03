@@ -1,0 +1,1175 @@
+[
+  {
+    "id": 2,
+    "name": "Joey Jordison",
+    "band": "Slipknot",
+    "genre": "Nu Metal / Death Metal",
+    "country": "USA",
+    "profileImage": "/images/drummers/joey-jordison.webp",
+    "photos": [
+      "/images/drummers/joey-jordison.webp"
+    ],
+    "gear": {
+      "raw": {
+        "drums": "Pearl Reference Series",
+        "snare": "Pearl Joey Jordison Signature 13x6.5\"",
+        "cymbals": "Paiste RUDE & 2002 Series (14\" Wild Hi-Hats, 16\", 17\", 18\", 19\" Power Crashes, 20\" & 22\" Wild Chinas, 22\" Power Ride)",
+        "hardware": "Pearl Demon Drive Double Pedal, Pearl DR-501C Icon Rack, Pearl D-2000BR Throne",
+        "sticks": "Promark Joey Jordison Signature TX515W",
+        "heads": "Evans",
+        "verified": true,
+        "sources": [
+          "https://pearldrum.com/en/artist/joey-jordison",
+          "https://www.paiste.com/en/musicians/joey-jordison"
+        ]
+      },
+      "items": [
+        {
+          "category": "Drums",
+          "name": "Pearl Reference Series",
+          "icon": "🥁",
+          "estimatedPrice": 4500
+        },
+        {
+          "category": "Snare",
+          "name": "Pearl Joey Jordison Signature 13x6.5\"",
+          "icon": "🪘",
+          "estimatedPrice": 450
+        },
+        {
+          "category": "Cymbals",
+          "name": "Paiste RUDE & 2002 Series (14\" Wild Hi-Hats, 16\", 17\", 18\", 19\" Power Crashes, 20\" & 22\" Wild Chinas, 22\" Power Ride)",
+          "icon": "🔔",
+          "estimatedPrice": 2800
+        },
+        {
+          "category": "Hardware",
+          "name": "Pearl Demon Drive Double Pedal, Pearl DR-501C Icon Rack, Pearl D-2000BR Throne",
+          "icon": "⚙️",
+          "estimatedPrice": 650
+        },
+        {
+          "category": "Sticks",
+          "name": "Promark Joey Jordison Signature TX515W",
+          "icon": "🥢",
+          "estimatedPrice": 180
+        },
+        {
+          "category": "Heads",
+          "name": "Evans",
+          "icon": "⭕",
+          "estimatedPrice": 200
+        }
+      ],
+      "totalCost": 8780,
+      "totalCostFormatted": "€8,780"
+    },
+    "videoScript": {
+      "title": "Building Joey Jordison's €8,780 Setup",
+      "subtitle": "Slipknot • Nu Metal / Death Metal",
+      "cta": "Explore full setup → metalforge.io/joey-jordison",
+      "hashtags": [
+        "#JoeyJordison",
+        "#MetalDrummer",
+        "#DrumSetup",
+        "#DrumGear",
+        "#MetalForge",
+        "#Slipknot"
+      ]
+    },
+    "buildSequence": [
+      {
+        "step": 1,
+        "item": "Bass Drums",
+        "duration": 8,
+        "cumulative": 4500
+      },
+      {
+        "step": 2,
+        "item": "Toms",
+        "duration": 10,
+        "cumulative": 2634
+      },
+      {
+        "step": 3,
+        "item": "Snare",
+        "duration": 8,
+        "cumulative": 3512
+      },
+      {
+        "step": 4,
+        "item": "Cymbals",
+        "duration": 12,
+        "cumulative": 6146
+      },
+      {
+        "step": 5,
+        "item": "Hardware",
+        "duration": 10,
+        "cumulative": 7463
+      },
+      {
+        "step": 6,
+        "item": "Accessories",
+        "duration": 8,
+        "cumulative": 8780
+      },
+      {
+        "step": 7,
+        "item": "Final Reveal",
+        "duration": 4,
+        "cumulative": 8780
+      }
+    ],
+    "endorsements": [
+      {
+        "name": "Pearl Drums",
+        "url": "https://pearldrum.com"
+      },
+      {
+        "name": "Paiste Cymbals",
+        "url": "https://www.paiste.com"
+      },
+      {
+        "name": "Promark Sticks",
+        "url": "https://www.daddario.com/promark"
+      },
+      {
+        "name": "Evans Drumheads",
+        "url": "https://www.daddario.com/evans"
+      }
+    ],
+    "referenceVideos": [
+      {
+        "title": "Disasterpieces Drum Solo (Official)",
+        "youtubeId": "tUibKh0Z--c",
+        "year": 2002
+      },
+      {
+        "title": "People=Shit - Drum Cam (London 2002)",
+        "youtubeId": "zRS9uKs3Rlk",
+        "year": 2002
+      },
+      {
+        "title": "Drum Cam 4K Compilation",
+        "youtubeId": "RdXMcj7xv20",
+        "year": 2000
+      }
+    ],
+    "quotes": [
+      {
+        "text": "The drums chose me. I didn't choose them. It was like destiny.",
+        "source": "Modern Drummer Magazine",
+        "year": 2004
+      },
+      {
+        "text": "Every time I sit behind a drum kit, I want to destroy it. That's the only way I know how to play.",
+        "source": "Revolver Magazine",
+        "year": 2008
+      },
+      {
+        "text": "Practice doesn't make perfect. Perfect practice makes perfect. There's a big difference.",
+        "source": "Drum! Magazine",
+        "year": 2010
+      }
+    ],
+    "gearTimeline": [
+      {
+        "era": "Early Slipknot",
+        "years": "1995-1999",
+        "description": "The underground years. Joey built Slipknot's sound in Des Moines basements with aggressive, chaotic drumming.",
+        "albums": [
+          "Mate. Feed. Kill. Repeat.",
+          "Slipknot"
+        ],
+        "gear": {
+          "drums": "ddrum Custom Kit",
+          "snare": "Pearl Free Floating 14x6.5\" Steel",
+          "cymbals": "Paiste 2002 Series (14\" Hi-Hats, 18\" Crashes, 20\" Ride, 18\" China)",
+          "hardware": "DW 5000 Double Pedal",
+          "sticks": "Promark 5B"
+        },
+        "notes": "Joey's early setup was aggressive and utilitarian, built for the brutal underground scene."
+      },
+      {
+        "era": "Breakthrough & Iowa",
+        "years": "1999-2004",
+        "description": "Slipknot exploded globally. Joey refined his iconic rotating drum riser setup and pushed technical limits.",
+        "albums": [
+          "Iowa",
+          "Vol. 3: (The Subliminal Verses)"
+        ],
+        "gear": {
+          "drums": "Pearl MasterWorks Series (Custom Purple)",
+          "snare": "Pearl Joey Jordison Signature 13x6.5\"",
+          "cymbals": "Paiste RUDE & 2002 Series (14\" Wild Hi-Hats, 17\", 18\", 19\" Power Crashes, 20\" Wild China, 22\" Power Ride)",
+          "hardware": "Pearl Demon Drive Double Pedal, Pearl Icon Rack System",
+          "sticks": "Promark Joey Jordison Signature TX515W"
+        },
+        "notes": "The Iowa era featured the famous rotating/inverted drum platform for theatrical live shows."
+      },
+      {
+        "era": "All Hope Is Gone Era",
+        "years": "2008-2013",
+        "description": "Slipknot's most commercially successful period. Joey's playing became more refined while maintaining intensity.",
+        "albums": [
+          "All Hope Is Gone"
+        ],
+        "gear": {
+          "drums": "Pearl Reference Series (Granite Sparkle)",
+          "snare": "Pearl Joey Jordison Signature 13x6.5\"",
+          "cymbals": "Paiste RUDE & 2002 Series (14\" Wild Hi-Hats, 16\", 17\", 18\", 19\" Power Crashes, 20\" & 22\" Wild Chinas, 22\" Power Ride)",
+          "hardware": "Pearl Demon Drive Double Pedal, Pearl DR-501C Icon Rack, Pearl D-2000BR Throne",
+          "sticks": "Promark Joey Jordison Signature TX515W"
+        },
+        "notes": "Peak of Joey's technical abilities and showmanship with Slipknot."
+      },
+      {
+        "era": "Post-Slipknot Projects",
+        "years": "2013-2021",
+        "description": "After leaving Slipknot, Joey focused on Sinsaenum, Vimic, and other projects while battling health issues.",
+        "albums": [
+          "Sinsaenum - Echoes of the Tortured",
+          "Vimic - Open Your Omen"
+        ],
+        "gear": {
+          "drums": "SJC Custom Drums",
+          "snare": "SJC Custom 14x6.5\"",
+          "cymbals": "Paiste RUDE Series",
+          "hardware": "Pearl Demon Drive Double Pedal",
+          "sticks": "Promark Joey Jordison Signature TX515W"
+        },
+        "notes": "Joey battled transverse myelitis but continued performing until his passing in 2021."
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Lars Ulrich",
+    "band": "Metallica",
+    "genre": "Thrash Metal",
+    "country": "Denmark",
+    "profileImage": "/images/drummers/lars-ulrich.webp",
+    "photos": [
+      "/images/drummers/lars-ulrich.webp"
+    ],
+    "gear": {
+      "raw": {
+        "drums": "Tama Starclassic Maple",
+        "snare": "Tama LU1465 Lars Ulrich Signature 14x6.5\"",
+        "cymbals": "Zildjian A Custom Series (14\" Dyno Beat Hi-Hats, 16\", 17\" & 18\" Rock Crashes, 20\" Z Custom China, 22\" Ride)",
+        "hardware": "Tama Iron Cobra 900 Power Glide Double Pedal, Tama 1st Chair Throne",
+        "sticks": "Ahead Lars Ulrich Signature Drumsticks",
+        "heads": "Remo",
+        "verified": true,
+        "sources": [
+          "https://www.tama.com/usa/artists/detail/98.html",
+          "https://zildjian.com/artists",
+          "https://aheaddrumsticks.com/artists/"
+        ]
+      },
+      "items": [
+        {
+          "category": "Drums",
+          "name": "Tama Starclassic Maple",
+          "icon": "🥁",
+          "estimatedPrice": 3800
+        },
+        {
+          "category": "Snare",
+          "name": "Tama LU1465 Lars Ulrich Signature 14x6.5\"",
+          "icon": "🪘",
+          "estimatedPrice": 550
+        },
+        {
+          "category": "Cymbals",
+          "name": "Zildjian A Custom Series (14\" Dyno Beat Hi-Hats, 16\", 17\" & 18\" Rock Crashes, 20\" Z Custom China, 22\" Ride)",
+          "icon": "🔔",
+          "estimatedPrice": 2400
+        },
+        {
+          "category": "Hardware",
+          "name": "Tama Iron Cobra 900 Power Glide Double Pedal, Tama 1st Chair Throne",
+          "icon": "⚙️",
+          "estimatedPrice": 480
+        },
+        {
+          "category": "Sticks",
+          "name": "Ahead Lars Ulrich Signature Drumsticks",
+          "icon": "🥢",
+          "estimatedPrice": 200
+        },
+        {
+          "category": "Heads",
+          "name": "Remo",
+          "icon": "⭕",
+          "estimatedPrice": 200
+        }
+      ],
+      "totalCost": 7630,
+      "totalCostFormatted": "€7,630"
+    },
+    "videoScript": {
+      "title": "Building Lars Ulrich's €7,630 Setup",
+      "subtitle": "Metallica • Thrash Metal",
+      "cta": "Explore full setup → metalforge.io/lars-ulrich",
+      "hashtags": [
+        "#LarsUlrich",
+        "#MetalDrummer",
+        "#DrumSetup",
+        "#DrumGear",
+        "#MetalForge",
+        "#Metallica"
+      ]
+    },
+    "buildSequence": [
+      {
+        "step": 1,
+        "item": "Bass Drums",
+        "duration": 8,
+        "cumulative": 3800
+      },
+      {
+        "step": 2,
+        "item": "Toms",
+        "duration": 10,
+        "cumulative": 2289
+      },
+      {
+        "step": 3,
+        "item": "Snare",
+        "duration": 8,
+        "cumulative": 3052
+      },
+      {
+        "step": 4,
+        "item": "Cymbals",
+        "duration": 12,
+        "cumulative": 5341
+      },
+      {
+        "step": 5,
+        "item": "Hardware",
+        "duration": 10,
+        "cumulative": 6486
+      },
+      {
+        "step": 6,
+        "item": "Accessories",
+        "duration": 8,
+        "cumulative": 7630
+      },
+      {
+        "step": 7,
+        "item": "Final Reveal",
+        "duration": 4,
+        "cumulative": 7630
+      }
+    ],
+    "endorsements": [
+      {
+        "name": "Tama Drums",
+        "url": "https://www.tama.com"
+      },
+      {
+        "name": "Zildjian Cymbals",
+        "url": "https://zildjian.com"
+      },
+      {
+        "name": "Ahead Drumsticks",
+        "url": "https://www.aheaddrumsticks.com"
+      },
+      {
+        "name": "Remo Drumheads",
+        "url": "https://remo.com"
+      }
+    ],
+    "referenceVideos": [
+      {
+        "title": "Sad But True - Drum Cam (Amsterdam 2023)",
+        "youtubeId": "A96QtqEpqUA",
+        "year": 2023
+      },
+      {
+        "title": "For Whom The Bell Tolls - Lars Angle (Cunning Stunts)",
+        "youtubeId": "Z_qLd2uj21w",
+        "year": 1997
+      },
+      {
+        "title": "Enter Sandman - S&M Lars Cam",
+        "youtubeId": "t0cDBuEOdIA",
+        "year": 1999
+      }
+    ],
+    "quotes": [
+      {
+        "text": "I'm not the best drummer in the world, but I'm the best drummer for Metallica.",
+        "source": "Modern Drummer Magazine",
+        "year": 2008
+      },
+      {
+        "text": "The only way to do great work is to love what you do. I've been fortunate enough to do that for over 40 years.",
+        "source": "Drumeo Interview",
+        "year": 2020
+      },
+      {
+        "text": "Music is the most powerful form of communication in the world. It brings people together from all walks of life.",
+        "source": "Rolling Stone",
+        "year": 2016
+      }
+    ],
+    "gearTimeline": [
+      {
+        "era": "Early Thrash Era",
+        "years": "1981-1986",
+        "description": "The formative years of Metallica, from garage band to major label. Lars developed his aggressive thrash style on budget gear.",
+        "albums": [
+          "Kill 'Em All",
+          "Ride the Lightning",
+          "Master of Puppets"
+        ],
+        "gear": {
+          "drums": "Camco Drums (various sizes)",
+          "snare": "Ludwig Supraphonic 14x6.5\"",
+          "cymbals": "Zildjian A Series (14\" Hi-Hats, 16\" & 18\" Crashes, 20\" Ride)",
+          "hardware": "Standard bass drum pedal",
+          "sticks": "Regal Tip 5B"
+        },
+        "notes": "Lars played Camco drums during the early albums, known for their punchy sound that defined early thrash."
+      },
+      {
+        "era": "Commercial Breakthrough",
+        "years": "1986-1991",
+        "description": "Metallica became the biggest metal band in the world. Lars upgraded to Tama and refined his signature sound.",
+        "albums": [
+          "...And Justice for All",
+          "Metallica (Black Album)"
+        ],
+        "gear": {
+          "drums": "Tama Artstar II",
+          "snare": "Tama Bell Brass 14x6.5\"",
+          "cymbals": "Zildjian Z Custom Series (14\" Hi-Hats, 17\" & 18\" Crashes, 20\" China, 22\" Ride)",
+          "hardware": "Tama Iron Cobra Double Pedal",
+          "sticks": "Zildjian Lars Ulrich Artist Series"
+        },
+        "notes": "The Black Album era saw Lars adopt the tight, punchy drum sound that became his trademark."
+      },
+      {
+        "era": "Load/ReLoad Era",
+        "years": "1996-1999",
+        "description": "Metallica experimented with alternative rock and blues influences. Larger kit with more toms.",
+        "albums": [
+          "Load",
+          "ReLoad",
+          "Garage Inc."
+        ],
+        "gear": {
+          "drums": "Tama Starclassic Maple",
+          "snare": "Tama Lars Ulrich Signature 14x6.5\" (prototype)",
+          "cymbals": "Zildjian A Custom (14\" Hi-Hats, 16\", 17\", 18\" Crashes, 20\" China, 22\" Ride)",
+          "hardware": "Tama Iron Cobra 900 Double Pedal",
+          "sticks": "Ahead Lars Ulrich Signature (first aluminum sticks)"
+        },
+        "notes": "Lars began using Ahead aluminum drumsticks for durability during long tours."
+      },
+      {
+        "era": "St. Anger & Rebirth",
+        "years": "2003-2008",
+        "description": "Raw, lo-fi production with the infamous snare sound. A polarizing but defining moment.",
+        "albums": [
+          "St. Anger",
+          "Death Magnetic"
+        ],
+        "gear": {
+          "drums": "Tama Starclassic Maple",
+          "snare": "Tama Brass Snare (no snare wires on St. Anger)",
+          "cymbals": "Zildjian A Custom Series",
+          "hardware": "Tama Iron Cobra 900 Power Glide Double Pedal",
+          "sticks": "Ahead Lars Ulrich Signature"
+        },
+        "notes": "St. Anger featured the controversial \"trash can\" snare sound achieved by disabling snare wires."
+      },
+      {
+        "era": "Modern Era",
+        "years": "2016-Present",
+        "description": "Return to thrash roots with modern production. Current touring and recording setup.",
+        "albums": [
+          "Hardwired...to Self-Destruct",
+          "72 Seasons"
+        ],
+        "gear": {
+          "drums": "Tama Starclassic Maple",
+          "snare": "Tama LU1465 Lars Ulrich Signature 14x6.5\"",
+          "cymbals": "Zildjian A Custom Series (14\" Dyno Beat Hi-Hats, 16\", 17\" & 18\" Rock Crashes, 20\" Z Custom China, 22\" Ride)",
+          "hardware": "Tama Iron Cobra 900 Power Glide Double Pedal, Tama 1st Chair Throne",
+          "sticks": "Ahead Lars Ulrich Signature Drumsticks"
+        },
+        "notes": "Lars continues to use his signature Tama setup refined over decades of touring and recording."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "George Kollias",
+    "band": "Nile",
+    "genre": "Technical Death Metal",
+    "country": "Greece",
+    "profileImage": "/images/drummers/george-kollias.webp",
+    "photos": [
+      "/images/drummers/george-kollias.webp"
+    ],
+    "gear": {
+      "raw": {
+        "drums": "Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware)",
+        "snare": "Pearl George Kollias Signature 14x6.5\"",
+        "cymbals": "Zildjian (14\" K Mastersound Hi-Hats, 17\" & 18\" K Custom Dark Crashes, 21\" A Custom Mega Bell Ride, 18\" China)",
+        "hardware": "Pearl Demon XR Double Pedal (Co-designed), Pearl D-3000 Throne",
+        "sticks": "Vic Firth George Kollias Signature SGK",
+        "heads": "Evans",
+        "verified": true,
+        "sources": [
+          "https://pearldrum.com/en/artist/george-kollias/15801",
+          "https://zildjian.com/artists",
+          "https://vicfirth.com/products/signature-series-george-kollias"
+        ]
+      },
+      "items": [
+        {
+          "category": "Drums",
+          "name": "Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware)",
+          "icon": "🥁",
+          "estimatedPrice": 8500
+        },
+        {
+          "category": "Snare",
+          "name": "Pearl George Kollias Signature 14x6.5\"",
+          "icon": "🪘",
+          "estimatedPrice": 480
+        },
+        {
+          "category": "Cymbals",
+          "name": "Zildjian (14\" K Mastersound Hi-Hats, 17\" & 18\" K Custom Dark Crashes, 21\" A Custom Mega Bell Ride, 18\" China)",
+          "icon": "🔔",
+          "estimatedPrice": 2600
+        },
+        {
+          "category": "Hardware",
+          "name": "Pearl Demon XR Double Pedal (Co-designed), Pearl D-3000 Throne",
+          "icon": "⚙️",
+          "estimatedPrice": 650
+        },
+        {
+          "category": "Sticks",
+          "name": "Vic Firth George Kollias Signature SGK",
+          "icon": "🥢",
+          "estimatedPrice": 160
+        },
+        {
+          "category": "Heads",
+          "name": "Evans",
+          "icon": "⭕",
+          "estimatedPrice": 200
+        }
+      ],
+      "totalCost": 12590,
+      "totalCostFormatted": "€12,590"
+    },
+    "videoScript": {
+      "title": "Building George Kollias's €12,590 Setup",
+      "subtitle": "Nile • Technical Death Metal",
+      "cta": "Explore full setup → metalforge.io/george-kollias",
+      "hashtags": [
+        "#GeorgeKollias",
+        "#MetalDrummer",
+        "#DrumSetup",
+        "#DrumGear",
+        "#MetalForge",
+        "#Nile"
+      ]
+    },
+    "buildSequence": [
+      {
+        "step": 1,
+        "item": "Bass Drums",
+        "duration": 8,
+        "cumulative": 8500
+      },
+      {
+        "step": 2,
+        "item": "Toms",
+        "duration": 10,
+        "cumulative": 3777
+      },
+      {
+        "step": 3,
+        "item": "Snare",
+        "duration": 8,
+        "cumulative": 5036
+      },
+      {
+        "step": 4,
+        "item": "Cymbals",
+        "duration": 12,
+        "cumulative": 8813
+      },
+      {
+        "step": 5,
+        "item": "Hardware",
+        "duration": 10,
+        "cumulative": 10702
+      },
+      {
+        "step": 6,
+        "item": "Accessories",
+        "duration": 8,
+        "cumulative": 12590
+      },
+      {
+        "step": 7,
+        "item": "Final Reveal",
+        "duration": 4,
+        "cumulative": 12590
+      }
+    ],
+    "endorsements": [
+      {
+        "name": "Pearl Drums",
+        "url": "https://pearldrum.com"
+      },
+      {
+        "name": "Zildjian Cymbals",
+        "url": "https://zildjian.com"
+      },
+      {
+        "name": "Vic Firth Sticks",
+        "url": "https://vicfirth.zildjian.com"
+      },
+      {
+        "name": "Evans Drumheads",
+        "url": "https://www.daddario.com/evans"
+      }
+    ],
+    "referenceVideos": [
+      {
+        "title": "Shall Rise Shall Be Dead (5M views)",
+        "youtubeId": "RqzZmNqdWck",
+        "year": 2012
+      },
+      {
+        "title": "US Tour 2013 DrumCam (Official)",
+        "youtubeId": "86YtBw5gmAM",
+        "year": 2013
+      },
+      {
+        "title": "Black Seeds Of Vengeance - Pearl Drum Cam",
+        "youtubeId": "dU-JXLRqjiE",
+        "year": 2012
+      }
+    ],
+    "quotes": [],
+    "gearTimeline": null
+  },
+  {
+    "id": 15,
+    "name": "Mario Duplantier",
+    "band": "Gojira",
+    "genre": "Progressive Death Metal",
+    "country": "France",
+    "profileImage": "/images/drummers/mario-duplantier.webp",
+    "photos": [
+      "/images/drummers/mario-duplantier.webp"
+    ],
+    "gear": {
+      "raw": {
+        "drums": "Tama Starclassic Bubinga (22\"x18\" Bass Drums x2, 12\"x9\" & 13\"x10\" Toms, 16\"x16\" Floor Tom)",
+        "snare": "Tama S.L.P. 14x6.5\" G-Maple",
+        "cymbals": "Zildjian (14\" K Sweet Hi-Hats, 14\" A Custom Hi-Hats, 18\" K Custom Hybrid Crash, 19\" A Custom Crash, 20\" K Sweet Crash, 21\" Z Custom Mega Bell Ride, 18\" & 20\" Chinas)",
+        "hardware": "Tama Iron Cobra 900 Power Glide Double Pedal, Tama 1st Chair Ergo-Rider Throne",
+        "sticks": "Tama Mario Duplantier Signature",
+        "heads": "Remo Emperor (toms), Remo Powerstroke 3 (bass drums)",
+        "verified": true,
+        "sources": [
+          "https://www.tama.com/usa/artists/detail/13.html",
+          "https://zildjian.com/artists/mario-duplantier",
+          "https://www.drumeo.com/beat/mario-duplantier-gojira/"
+        ]
+      },
+      "items": [
+        {
+          "category": "Drums",
+          "name": "Tama Starclassic Bubinga (22\"x18\" Bass Drums x2, 12\"x9\" & 13\"x10\" Toms, 16\"x16\" Floor Tom)",
+          "icon": "🥁",
+          "estimatedPrice": 3800
+        },
+        {
+          "category": "Snare",
+          "name": "Tama S.L.P. 14x6.5\" G-Maple",
+          "icon": "🪘",
+          "estimatedPrice": 420
+        },
+        {
+          "category": "Cymbals",
+          "name": "Zildjian (14\" K Sweet Hi-Hats, 14\" A Custom Hi-Hats, 18\" K Custom Hybrid Crash, 19\" A Custom Crash, 20\" K Sweet Crash, 21\" Z Custom Mega Bell Ride, 18\" & 20\" Chinas)",
+          "icon": "🔔",
+          "estimatedPrice": 2600
+        },
+        {
+          "category": "Hardware",
+          "name": "Tama Iron Cobra 900 Power Glide Double Pedal, Tama 1st Chair Ergo-Rider Throne",
+          "icon": "⚙️",
+          "estimatedPrice": 480
+        },
+        {
+          "category": "Sticks",
+          "name": "Tama Mario Duplantier Signature",
+          "icon": "🥢",
+          "estimatedPrice": 150
+        },
+        {
+          "category": "Heads",
+          "name": "Remo Emperor (toms), Remo Powerstroke 3 (bass drums)",
+          "icon": "⭕",
+          "estimatedPrice": 200
+        }
+      ],
+      "totalCost": 7650,
+      "totalCostFormatted": "€7,650"
+    },
+    "videoScript": {
+      "title": "Building Mario Duplantier's €7,650 Setup",
+      "subtitle": "Gojira • Progressive Death Metal",
+      "cta": "Explore full setup → metalforge.io/mario-duplantier",
+      "hashtags": [
+        "#MarioDuplantier",
+        "#MetalDrummer",
+        "#DrumSetup",
+        "#DrumGear",
+        "#MetalForge",
+        "#Gojira"
+      ]
+    },
+    "buildSequence": [
+      {
+        "step": 1,
+        "item": "Bass Drums",
+        "duration": 8,
+        "cumulative": 3800
+      },
+      {
+        "step": 2,
+        "item": "Toms",
+        "duration": 10,
+        "cumulative": 2295
+      },
+      {
+        "step": 3,
+        "item": "Snare",
+        "duration": 8,
+        "cumulative": 3060
+      },
+      {
+        "step": 4,
+        "item": "Cymbals",
+        "duration": 12,
+        "cumulative": 5355
+      },
+      {
+        "step": 5,
+        "item": "Hardware",
+        "duration": 10,
+        "cumulative": 6503
+      },
+      {
+        "step": 6,
+        "item": "Accessories",
+        "duration": 8,
+        "cumulative": 7650
+      },
+      {
+        "step": 7,
+        "item": "Final Reveal",
+        "duration": 4,
+        "cumulative": 7650
+      }
+    ],
+    "endorsements": [
+      {
+        "name": "Tama Drums",
+        "url": "https://www.tama.com"
+      },
+      {
+        "name": "Zildjian Cymbals",
+        "url": "https://zildjian.com"
+      },
+      {
+        "name": "Remo Drumheads",
+        "url": "https://remo.com"
+      }
+    ],
+    "referenceVideos": [
+      {
+        "title": "Gojira - Silvera (Live Drum Cam)",
+        "youtubeId": "BGHlZwMYO9g",
+        "year": 2017
+      },
+      {
+        "title": "Gojira - Stranded (Live Drum Cam)",
+        "youtubeId": "FNdC_3LR2AI",
+        "year": 2017
+      },
+      {
+        "title": "Gojira - Flying Whales (Live Drum Cam)",
+        "youtubeId": "iqrMFNMgVS0",
+        "year": 2019
+      }
+    ],
+    "quotes": [
+      {
+        "text": "The most important thing for me is to serve the song. Everything I play has to enhance the music, not show off.",
+        "source": "Modern Drummer Magazine",
+        "year": 2017
+      },
+      {
+        "text": "I grew up listening to death metal, but also a lot of jazz and world music. You can hear all of those influences in how I approach the drums.",
+        "source": "Drumeo Interview",
+        "year": 2021
+      },
+      {
+        "text": "Playing with your brother is special. We have this telepathic connection that allows Gojira to be what it is.",
+        "source": "Revolver Magazine",
+        "year": 2016
+      }
+    ],
+    "gearTimeline": [
+      {
+        "era": "Godzilla / Early Era",
+        "years": "1996-2001",
+        "description": "The band started as Godzilla in Bayonne, France. Mario developed his raw, powerful style on modest gear.",
+        "albums": [
+          "Possessed",
+          "Maciste All'Inferno",
+          "Wisdom Comes (demo)"
+        ],
+        "gear": {
+          "drums": "Pearl Export Series",
+          "snare": "Pearl 14x5.5\" Steel",
+          "cymbals": "Sabian B8 Series (14\" Hi-Hats, 16\" & 18\" Crashes, 20\" Ride)",
+          "hardware": "Pearl P-120P Single Pedal (upgraded to double)",
+          "sticks": "Vic Firth 5B"
+        },
+        "notes": "Before the Gojira name change and Tama endorsement, Mario built his chops on affordable gear."
+      },
+      {
+        "era": "Gojira Formation & Terra Incognita",
+        "years": "2001-2005",
+        "description": "Renamed to Gojira and released their debut album. Mario's tribal, groove-heavy style began to define the band's sound.",
+        "albums": [
+          "Terra Incognita",
+          "The Link"
+        ],
+        "gear": {
+          "drums": "Tama Rockstar",
+          "snare": "Tama 14x6.5\" Maple",
+          "cymbals": "Zildjian A Custom (14\" Hi-Hats, 17\" & 18\" Crashes, 21\" Ride, 18\" China)",
+          "hardware": "Tama Iron Cobra Double Pedal",
+          "sticks": "Pro-Mark 5B"
+        },
+        "notes": "Mario transitioned to Tama and began refining his signature sound."
+      },
+      {
+        "era": "International Breakthrough",
+        "years": "2005-2012",
+        "description": "From Mars to Sirius brought worldwide recognition. Mario's drumming became iconic in progressive metal circles.",
+        "albums": [
+          "From Mars to Sirius",
+          "The Way of All Flesh",
+          "L'Enfant Sauvage"
+        ],
+        "gear": {
+          "drums": "Tama Starclassic Maple (22\" Bass x2, 10\", 12\", 13\" Toms, 16\" Floor)",
+          "snare": "Tama S.L.P. 14x6.5\" G-Maple",
+          "cymbals": "Zildjian K & A Custom Series (14\" K Hi-Hats, 18\" & 19\" A Custom Crashes, 21\" A Custom Ride, 18\" China)",
+          "hardware": "Tama Iron Cobra 900 Double Pedal, Tama 1st Chair Throne",
+          "sticks": "Tama 5B Oak"
+        },
+        "notes": "Flying Whales became his signature song, showcasing his ability to build massive grooves."
+      },
+      {
+        "era": "Modern Era & Grammy Recognition",
+        "years": "2016-Present",
+        "description": "Magma and Fortitude brought Grammy nominations and mainstream success. Mario's setup reached its current peak configuration.",
+        "albums": [
+          "Magma",
+          "Fortitude"
+        ],
+        "gear": {
+          "drums": "Tama Starclassic Bubinga (22\"x18\" Bass Drums x2, 12\"x9\" & 13\"x10\" Toms, 16\"x16\" Floor Tom)",
+          "snare": "Tama S.L.P. 14x6.5\" G-Maple",
+          "cymbals": "Zildjian (14\" K Sweet Hi-Hats, 14\" A Custom Hi-Hats, 18\" K Custom Hybrid Crash, 19\" A Custom Crash, 20\" K Sweet Crash, 21\" Z Custom Mega Bell Ride, 18\" & 20\" Chinas)",
+          "hardware": "Tama Iron Cobra 900 Power Glide Double Pedal, Tama 1st Chair Ergo-Rider Throne",
+          "sticks": "Tama Mario Duplantier Signature"
+        },
+        "notes": "Mario received his own Tama signature drumstick model, cementing his status as a drumming legend."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Dave Lombardo",
+    "band": "Slayer",
+    "genre": "Thrash Metal",
+    "country": "Cuba/USA",
+    "profileImage": "/images/drummers/dave-lombardo.webp",
+    "photos": [
+      "/images/drummers/dave-lombardo.webp"
+    ],
+    "gear": {
+      "raw": {
+        "drums": "Tama Starclassic Maple",
+        "snare": "Tama S.L.P. 14x6.5\" G-Maple",
+        "cymbals": "Paiste RUDE & 2002 Series (15\" Sound Edge Hi-Hats, 18\" & 19\" Crashes, 22\" Reign Power Ride, 18\" China)",
+        "hardware": "Tama Iron Cobra 900 Double Pedal, Tama 1st Chair Throne",
+        "sticks": "Promark Dave Lombardo Signature 2Bx",
+        "verified": true,
+        "sources": [
+          "https://www.tama.com/usa/artists/detail/1044.html",
+          "https://www.paiste.com/en/musicians/dave-lombardo"
+        ]
+      },
+      "items": [
+        {
+          "category": "Drums",
+          "name": "Tama Starclassic Maple",
+          "icon": "🥁",
+          "estimatedPrice": 3800
+        },
+        {
+          "category": "Snare",
+          "name": "Tama S.L.P. 14x6.5\" G-Maple",
+          "icon": "🪘",
+          "estimatedPrice": 420
+        },
+        {
+          "category": "Cymbals",
+          "name": "Paiste RUDE & 2002 Series (15\" Sound Edge Hi-Hats, 18\" & 19\" Crashes, 22\" Reign Power Ride, 18\" China)",
+          "icon": "🔔",
+          "estimatedPrice": 2800
+        },
+        {
+          "category": "Hardware",
+          "name": "Tama Iron Cobra 900 Double Pedal, Tama 1st Chair Throne",
+          "icon": "⚙️",
+          "estimatedPrice": 480
+        },
+        {
+          "category": "Sticks",
+          "name": "Promark Dave Lombardo Signature 2Bx",
+          "icon": "🥢",
+          "estimatedPrice": 170
+        }
+      ],
+      "totalCost": 7670,
+      "totalCostFormatted": "€7,670"
+    },
+    "videoScript": {
+      "title": "Building Dave Lombardo's €7,670 Setup",
+      "subtitle": "Slayer • Thrash Metal",
+      "cta": "Explore full setup → metalforge.io/dave-lombardo",
+      "hashtags": [
+        "#DaveLombardo",
+        "#MetalDrummer",
+        "#DrumSetup",
+        "#DrumGear",
+        "#MetalForge",
+        "#Slayer"
+      ]
+    },
+    "buildSequence": [
+      {
+        "step": 1,
+        "item": "Bass Drums",
+        "duration": 8,
+        "cumulative": 3800
+      },
+      {
+        "step": 2,
+        "item": "Toms",
+        "duration": 10,
+        "cumulative": 2301
+      },
+      {
+        "step": 3,
+        "item": "Snare",
+        "duration": 8,
+        "cumulative": 3068
+      },
+      {
+        "step": 4,
+        "item": "Cymbals",
+        "duration": 12,
+        "cumulative": 5369
+      },
+      {
+        "step": 5,
+        "item": "Hardware",
+        "duration": 10,
+        "cumulative": 6520
+      },
+      {
+        "step": 6,
+        "item": "Accessories",
+        "duration": 8,
+        "cumulative": 7670
+      },
+      {
+        "step": 7,
+        "item": "Final Reveal",
+        "duration": 4,
+        "cumulative": 7670
+      }
+    ],
+    "endorsements": [
+      {
+        "name": "Tama Drums",
+        "url": "https://www.tama.com"
+      },
+      {
+        "name": "Paiste Cymbals",
+        "url": "https://www.paiste.com"
+      },
+      {
+        "name": "Promark Sticks",
+        "url": "https://www.daddario.com/promark"
+      },
+      {
+        "name": "Evans Drumheads",
+        "url": "https://www.daddario.com/evans"
+      }
+    ],
+    "referenceVideos": [
+      {
+        "title": "War Ensemble - Drum Cam (Yankee Stadium, Official)",
+        "youtubeId": "3ivOfkqFmxg",
+        "year": 2010
+      },
+      {
+        "title": "Angel of Death - Drum Cam",
+        "youtubeId": "ManyDSIC8fQ",
+        "year": 2010
+      },
+      {
+        "title": "Full Show Drum Cam (St Louis 2003)",
+        "youtubeId": "3kBCky31sTg",
+        "year": 2003
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Speed is nothing without control. You have to be able to play fast and tight at the same time.",
+        "source": "Modern Drummer Magazine",
+        "year": 2006
+      },
+      {
+        "text": "I never wanted to be a typical metal drummer. I wanted to bring jazz, Latin, and world music into heavy music.",
+        "source": "Drumeo Interview",
+        "year": 2019
+      },
+      {
+        "text": "Reign in Blood changed everything. We didn't know we were making history, we were just playing as fast as we could.",
+        "source": "Revolver Magazine",
+        "year": 2016
+      }
+    ],
+    "gearTimeline": [
+      {
+        "era": "Early Slayer",
+        "years": "1981-1986",
+        "description": "The birth of thrash metal. Dave pioneered double bass technique that would define the genre.",
+        "albums": [
+          "Show No Mercy",
+          "Haunting the Chapel",
+          "Hell Awaits"
+        ],
+        "gear": {
+          "drums": "Tama Imperialstar",
+          "snare": "Tama 14x6.5\" Steel",
+          "cymbals": "Zildjian A Series (14\" Hi-Hats, 16\" & 18\" Crashes, 20\" Ride, 18\" China)",
+          "hardware": "Tama Camco Double Pedal",
+          "sticks": "Pro-Mark 5A"
+        },
+        "notes": "Dave developed his signature double bass technique during these early years in LA."
+      },
+      {
+        "era": "Reign in Blood Era",
+        "years": "1986-1990",
+        "description": "The golden age of Slayer. Reign in Blood redefined speed and aggression in metal.",
+        "albums": [
+          "Reign in Blood",
+          "South of Heaven",
+          "Seasons in the Abyss"
+        ],
+        "gear": {
+          "drums": "Tama Artstar II",
+          "snare": "Tama Bell Brass 14x6.5\"",
+          "cymbals": "Paiste RUDE Series (14\" Sound Edge Hi-Hats, 18\" & 19\" Crashes, 20\" Ride, 18\" China)",
+          "hardware": "Tama Iron Cobra Double Pedal",
+          "sticks": "Promark 2B"
+        },
+        "notes": "Reign in Blood is widely considered one of the most influential thrash albums ever recorded."
+      },
+      {
+        "era": "First Departure",
+        "years": "1992-2001",
+        "description": "After leaving Slayer, Dave explored diverse projects including Grip Inc. and Fantômas.",
+        "albums": [
+          "Grip Inc. - Power of Inner Strength",
+          "Fantômas - Fantômas"
+        ],
+        "gear": {
+          "drums": "Tama Starclassic",
+          "snare": "Tama 14x6.5\" Maple",
+          "cymbals": "Paiste 2002 & RUDE Series",
+          "hardware": "Tama Iron Cobra 900 Double Pedal",
+          "sticks": "Promark Dave Lombardo Signature"
+        },
+        "notes": "Dave explored jazz, Latin, and experimental music with Mike Patton's Fantômas."
+      },
+      {
+        "era": "Slayer Reunion",
+        "years": "2001-2013",
+        "description": "Dave rejoined Slayer for their final classic era before his second departure.",
+        "albums": [
+          "God Hates Us All",
+          "Christ Illusion",
+          "World Painted Blood"
+        ],
+        "gear": {
+          "drums": "Tama Starclassic Maple",
+          "snare": "Tama S.L.P. 14x6.5\" G-Maple",
+          "cymbals": "Paiste RUDE & 2002 Series (15\" Sound Edge Hi-Hats, 18\" & 19\" Crashes, 22\" Reign Power Ride, 18\" China)",
+          "hardware": "Tama Iron Cobra 900 Double Pedal, Tama 1st Chair Throne",
+          "sticks": "Promark Dave Lombardo Signature 2Bx"
+        },
+        "notes": "Christ Illusion won a Grammy for Best Metal Performance."
+      },
+      {
+        "era": "Post-Slayer Projects",
+        "years": "2013-Present",
+        "description": "Dave continues with Dead Cross, Suicidal Tendencies, and Mr. Bungle reunion.",
+        "albums": [
+          "Dead Cross - Dead Cross",
+          "Dead Cross - II",
+          "Mr. Bungle - The Raging Wrath of the Easter Bunny Demo"
+        ],
+        "gear": {
+          "drums": "Tama Starclassic Walnut/Birch",
+          "snare": "Tama S.L.P. 14x6.5\" G-Maple",
+          "cymbals": "Paiste RUDE & 2002 Series",
+          "hardware": "Tama Iron Cobra 900 Double Pedal",
+          "sticks": "Promark Dave Lombardo Signature 2Bx"
+        },
+        "notes": "At nearly 60, Dave remains one of the most active and influential drummers in extreme music."
+      }
+    ]
+  }
+]

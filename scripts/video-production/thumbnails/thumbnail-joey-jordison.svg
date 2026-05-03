@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1080" height="1920" viewBox="0 0 1080 1920" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a1a"/>
+      <stop offset="100%" style="stop-color:#0a0a0a"/>
+    </linearGradient>
+    <linearGradient id="priceGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff6b00"/>
+      <stop offset="100%" style="stop-color:#fbbf24"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1080" height="1920" fill="url(#bgGradient)"/>
+  
+  <!-- Decorative elements -->
+  <circle cx="540" cy="960" r="400" fill="none" stroke="#ff6b00" stroke-width="2" opacity="0.2"/>
+  <circle cx="540" cy="960" r="500" fill="none" stroke="#ff6b00" stroke-width="1" opacity="0.1"/>
+  
+  <!-- Top section - "BUILDING" text -->
+  <text x="540" y="180" font-family="Impact, sans-serif" font-size="48" fill="#666666" text-anchor="middle">
+    BUILDING
+  </text>
+  
+  <!-- Drummer name -->
+  <text x="540" y="280" font-family="Impact, sans-serif" font-size="72" fill="#ffffff" text-anchor="middle" filter="url(#shadow)">
+    JOEY JORDISON
+  </text>
+  
+  <!-- Band name -->
+  <text x="540" y="350" font-family="Arial, sans-serif" font-size="36" fill="#ff6b00" text-anchor="middle">
+    Slipknot
+  </text>
+  
+  <!-- Drummer image placeholder -->
+  <rect x="190" y="450" width="700" height="700" rx="20" fill="#333333" stroke="#ff6b00" stroke-width="3"/>
+  <text x="540" y="820" font-family="Arial, sans-serif" font-size="24" fill="#666666" text-anchor="middle">
+    [DRUMMER PHOTO]
+  </text>
+  <text x="540" y="860" font-family="Arial, sans-serif" font-size="18" fill="#444444" text-anchor="middle">
+    /images/drummers/joey-jordison.webp
+  </text>
+  
+  <!-- Price badge -->
+  <rect x="290" y="1200" width="500" height="120" rx="20" fill="url(#priceGradient)" filter="url(#glow)"/>
+  <text x="540" y="1245" font-family="Impact, sans-serif" font-size="28" fill="#000000" text-anchor="middle">
+    SETUP COST
+  </text>
+  <text x="540" y="1300" font-family="JetBrains Mono, monospace" font-size="56" fill="#000000" text-anchor="middle" font-weight="bold">
+    €8,780
+  </text>
+  
+  <!-- Gear icons row -->
+  <text x="220" y="1400" font-size="40">🥁</text>
+  <text x="320" y="1400" font-size="40">🪘</text>
+  <text x="420" y="1400" font-size="40">🔔</text>
+  <text x="520" y="1400" font-size="40">⚙️</text>
+  <text x="620" y="1400" font-size="40">🥢</text>
+  
+  <!-- Genre tag -->
+  <rect x="340" y="1450" width="400" height="50" rx="25" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.5"/>
+  <text x="540" y="1485" font-family="Arial, sans-serif" font-size="22" fill="#ffffff" text-anchor="middle" opacity="0.8">
+    Nu Metal / Death Metal
+  </text>
+  
+  <!-- Bottom CTA -->
+  <text x="540" y="1600" font-family="Arial, sans-serif" font-size="28" fill="#ffffff" text-anchor="middle">
+    Explore full setup →
+  </text>
+  <text x="540" y="1650" font-family="Arial, sans-serif" font-size="24" fill="#ff6b00" text-anchor="middle">
+    metalforge.io/joey-jordison
+  </text>
+  
+  <!-- MetalForge branding -->
+  <rect x="390" y="1750" width="300" height="80" rx="10" fill="#ff6b00"/>
+  <text x="540" y="1805" font-family="Impact, sans-serif" font-size="36" fill="#000000" text-anchor="middle">
+    METALFORGE
+  </text>
+  
+  <!-- Corner accents -->
+  <path d="M0,0 L100,0 L100,10 L10,10 L10,100 L0,100 Z" fill="#ff6b00" opacity="0.8"/>
+  <path d="M1080,0 L980,0 L980,10 L1070,10 L1070,100 L1080,100 Z" fill="#ff6b00" opacity="0.8"/>
+  <path d="M0,1920 L100,1920 L100,1910 L10,1910 L10,1820 L0,1820 Z" fill="#ff6b00" opacity="0.8"/>
+  <path d="M1080,1920 L980,1920 L980,1910 L1070,1910 L1070,1820 L1080,1820 Z" fill="#ff6b00" opacity="0.8"/>
+</svg>

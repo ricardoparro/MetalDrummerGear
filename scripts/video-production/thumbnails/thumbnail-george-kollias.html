@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Thumbnail: George Kollias</title>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;700&family=JetBrains+Mono:wght@700&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { 
+      background: #000; 
+      display: flex; 
+      justify-content: center; 
+      align-items: center; 
+      min-height: 100vh;
+    }
+    .thumbnail {
+      width: 1080px;
+      height: 1920px;
+      background: linear-gradient(180deg, #1a1a1a 0%, #0a0a0a 100%);
+      position: relative;
+      overflow: hidden;
+      font-family: 'Inter', sans-serif;
+    }
+    .building {
+      position: absolute;
+      top: 120px;
+      width: 100%;
+      text-align: center;
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 48px;
+      color: #666;
+      letter-spacing: 8px;
+    }
+    .drummer-name {
+      position: absolute;
+      top: 180px;
+      width: 100%;
+      text-align: center;
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 80px;
+      color: #fff;
+      text-shadow: 0 4px 20px rgba(0,0,0,0.8);
+    }
+    .band-name {
+      position: absolute;
+      top: 280px;
+      width: 100%;
+      text-align: center;
+      font-size: 36px;
+      color: #ff6b00;
+    }
+    .photo-placeholder {
+      position: absolute;
+      top: 380px;
+      left: 140px;
+      width: 800px;
+      height: 700px;
+      background: #222;
+      border: 3px solid #ff6b00;
+      border-radius: 20px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      color: #666;
+    }
+    .photo-placeholder img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      border-radius: 17px;
+    }
+    .price-badge {
+      position: absolute;
+      top: 1130px;
+      left: 190px;
+      width: 700px;
+      height: 140px;
+      background: linear-gradient(90deg, #ff6b00, #fbbf24);
+      border-radius: 20px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      box-shadow: 0 0 40px rgba(255, 107, 0, 0.5);
+    }
+    .price-label {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 28px;
+      color: #000;
+    }
+    .price-value {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 64px;
+      font-weight: bold;
+      color: #000;
+    }
+    .genre-tag {
+      position: absolute;
+      top: 1320px;
+      left: 190px;
+      width: 700px;
+      height: 60px;
+      border: 2px solid rgba(255,255,255,0.3);
+      border-radius: 30px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: rgba(255,255,255,0.7);
+      font-size: 24px;
+    }
+    .cta {
+      position: absolute;
+      top: 1450px;
+      width: 100%;
+      text-align: center;
+    }
+    .cta-text {
+      font-size: 32px;
+      color: #fff;
+      margin-bottom: 10px;
+    }
+    .cta-url {
+      font-size: 28px;
+      color: #ff6b00;
+    }
+    .logo {
+      position: absolute;
+      bottom: 100px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: #ff6b00;
+      padding: 20px 60px;
+      border-radius: 10px;
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 42px;
+      color: #000;
+    }
+    .corner {
+      position: absolute;
+      width: 80px;
+      height: 80px;
+      border: 3px solid #ff6b00;
+    }
+    .corner.tl { top: 20px; left: 20px; border-right: none; border-bottom: none; }
+    .corner.tr { top: 20px; right: 20px; border-left: none; border-bottom: none; }
+    .corner.bl { bottom: 20px; left: 20px; border-right: none; border-top: none; }
+    .corner.br { bottom: 20px; right: 20px; border-left: none; border-top: none; }
+  </style>
+</head>
+<body>
+  <div class="thumbnail">
+    <div class="corner tl"></div>
+    <div class="corner tr"></div>
+    <div class="corner bl"></div>
+    <div class="corner br"></div>
+    
+    <div class="building">BUILDING</div>
+    <div class="drummer-name">GEORGE KOLLIAS</div>
+    <div class="band-name">Nile</div>
+    
+    <div class="photo-placeholder">
+      <!-- Replace with actual photo -->
+      <span>[DRUMMER PHOTO]</span>
+      <span style="font-size: 14px; margin-top: 10px;">/images/drummers/george-kollias.webp</span>
+    </div>
+    
+    <div class="price-badge">
+      <div class="price-label">SETUP COST</div>
+      <div class="price-value">€12,590</div>
+    </div>
+    
+    <div class="genre-tag">Technical Death Metal</div>
+    
+    <div class="cta">
+      <div class="cta-text">Explore full setup →</div>
+      <div class="cta-url">metalforge.io/george-kollias</div>
+    </div>
+    
+    <div class="logo">METALFORGE</div>
+  </div>
+</body>
+</html>

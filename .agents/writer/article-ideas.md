@@ -296,6 +296,7 @@
 | 2026-05-02 | Rust in Peace Drum Setup: Nick Menza | /articles/rust-in-peace-drum-setup | - |
 | 2026-05-02 | ...And Justice for All Drum Setup: Lars Ulrich | /articles/and-justice-for-all-drum-setup | - |
 | 2026-05-02 | What's In Art Cruz' Lamb of God Arsenal | /articles/whats-in-art-cruzs-kit | - |
+| 2026-05-03 | What's In Sean Reinert's Progressive Arsenal (Tribute) | /articles/whats-in-sean-reinerts-kit | - |
 
 ---
 
@@ -743,12 +744,12 @@
 
 ---
 
-### 💡 [IDEA-037] What's In Sean Reinert's Progressive Arsenal (Tribute)
+### ✅ [IDEA-037] What's In Sean Reinert's Progressive Arsenal (Tribute)
 
 **Type:** drummer-kit
 **SEO Keywords:** sean reinert drum kit, cynic drummer, death human drummer, progressive metal drums
 **Search Volume:** Medium-High (prog death pioneer, RIP tribute interest)
-**Data Available:** Partial
+**Data Available:** Yes
 **Priority:** 4
 
 **Outline:**
@@ -759,7 +760,7 @@
 5. Cynic's Progressive Vision
 6. His Lasting Influence on Technical Drumming
 
-**Status:** IDEA (added 2026-03-21)
+**Status:** PUBLISHED (2026-05-03) — /articles/whats-in-sean-reinerts-kit
 
 ---
 
@@ -1229,4 +1230,64 @@
 
 ---
 
-*Last updated: 2026-05-02 17:15*
+### 💡 [IDEA-062] What's In Mikkey Dee's Motörhead/Scorpions Arsenal
+
+**Type:** drummer-kit
+**SEO Keywords:** mikkey dee drum kit, motorhead drummer, scorpions drummer, mikkey dee setup, lemmy drummer
+**Search Volume:** VERY HIGH (Motörhead legend + current Scorpions drummer = massive search volume!)
+**Data Available:** Yes (extendedBios)
+**Priority:** 5
+
+**Outline:**
+1. Introduction — From Motörhead's Thundering Heart to Scorpions' Rock Icon
+2. Current Yamaha Kit Configuration
+3. The Motörhead Legacy: What It Took to Keep Up with Lemmy
+4. Signature Techniques (power, showmanship, relentless energy)
+5. Evolution: King Diamond → Dokken → Motörhead → Scorpions
+6. Where to Buy Similar Gear
+
+**Status:** IDEA (added 2026-05-03)
+
+---
+
+### 💡 [IDEA-063] What's In Abe Cunningham's Deftones Arsenal
+
+**Type:** drummer-kit
+**SEO Keywords:** abe cunningham drum kit, deftones drummer, abe cunningham setup, deftones drums, alternative metal drums
+**Search Volume:** HIGH (Deftones massive fanbase, unique style, highly searched!)
+**Data Available:** Yes (extendedBios)
+**Priority:** 5
+
+**Outline:**
+1. Introduction — The Architect of Deftones' Atmospheric Groove
+2. Current DW Drums Setup
+3. Signature Techniques (dynamics, restraint, groove over flash)
+4. Evolution from "Adrenaline" to "Ohms"
+5. How His Playing Defined Deftones' Sound
+6. Where to Buy Similar Gear
+
+**Status:** IDEA (added 2026-05-03)
+
+---
+
+### 💡 [IDEA-064] Ace of Spades Drum Setup: Phil "Philthy Animal" Taylor's Legendary Sound
+
+**Type:** album-breakdown
+**SEO Keywords:** ace of spades drums, philthy animal taylor gear, motorhead drums, philthy taylor drum setup, ace of spades recording
+**Search Volume:** HIGH (Motörhead's most iconic album, Phil Taylor tribute interest)
+**Data Available:** Partial (can research)
+**Priority:** 4
+
+**Outline:**
+1. Introduction — The Song That Defined Speed Metal
+2. Studio Setup at Jackson's Studios, Rickmansworth (1980)
+3. "Ace of Spades" Track Breakdown (that iconic intro)
+4. Phil's Raw, Unhinged Style
+5. Recording Techniques with Vic Maile
+6. Gear Breakdown (drums, cymbals, the simplicity of power)
+
+**Status:** IDEA (added 2026-05-03)
+
+---
+
+*Last updated: 2026-05-03 09:15*

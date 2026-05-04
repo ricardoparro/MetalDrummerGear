@@ -1293,7 +1293,7 @@
 
 ---
 
-### 💡 [IDEA-065] What's In Gavin Harrison's Prog Metal Arsenal
+### ✅ [IDEA-065] What's In Gavin Harrison's Prog Metal Arsenal
 
 **Type:** drummer-kit
 **SEO Keywords:** gavin harrison drum kit, porcupine tree drummer, king crimson drums, gavin harrison setup, prog rock drums

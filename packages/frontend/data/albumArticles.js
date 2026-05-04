@@ -18057,7 +18057,7 @@ Rest in power, Sean. The ghosts notes echo still.
     ogImage: '/images/drummers/mikkey-dee.webp',
     intro: {
       title: 'The Thundering Heart of Rock & Roll',
-      content: \`Mikkey Dee didn't just keep time for Motörhead — he was the relentless engine that powered rock's loudest, most uncompromising band for 23 years. From 1992 until Lemmy Kilmister's death in December 2015, Dee's thunderous drumming drove some of the most visceral rock recordings ever made.
+      content: `Mikkey Dee didn't just keep time for Motörhead — he was the relentless engine that powered rock's loudest, most uncompromising band for 23 years. From 1992 until Lemmy Kilmister's death in December 2015, Dee's thunderous drumming drove some of the most visceral rock recordings ever made.
 
 Born Micael Kiriakos Delaoglou on October 31, 1963, in Gothenburg, Sweden (to a Greek immigrant father and Swedish mother), Mikkey came to Motörhead with serious credentials. His work with King Diamond on classics like "Abigail" (1987) showcased technical precision rare in extreme metal. But it was Lemmy who recognized what Mikkey could bring to Motörhead's raw, unfiltered sound.
 
@@ -18088,7 +18088,7 @@ This article breaks down the gear that's powered decades of thunderous rock drum
         floorToms: ['16" x 16" Floor Tom', '18" x 16" Floor Tom'],
         shells: 'Birch (Recording Custom) or Oak shells for maximum power'
       },
-      description: \`Mikkey Dee's Yamaha drums are built for one purpose: delivering crushing power night after night on world tours. His choice of Yamaha reflects his priorities — durability, consistency, and massive low-end punch.
+      description: `Mikkey Dee's Yamaha drums are built for one purpose: delivering crushing power night after night on world tours. His choice of Yamaha reflects his priorities — durability, consistency, and massive low-end punch.
 
 **The Bass Drum Philosophy:**
 Unlike many modern metal drummers who favor double bass drum setups with smaller kicks, Mikkey uses a single 24" bass drum. This massive drum delivers the chest-thumping low end that defined Motörhead's live sound. Even when using a double pedal, Mikkey often preferred one large kick to two smaller ones — the resonance and power are simply different.
@@ -18119,7 +18119,7 @@ Mikkey prefers thicker shells for maximum volume and projection. His drums are b
       model: 'Yamaha Recording Custom Aluminum / Brass',
       size: '14" x 6.5"',
       shell: 'Aluminum or Brass (metal snares preferred)',
-      description: \`Mikkey Dee's snare drum sound is unmistakable — a crisp, powerful crack that cuts through even the loudest stage mix. His preference for deep metal-shell snares delivers the attack and projection needed to compete with Motörhead's legendary volume.
+      description: `Mikkey Dee's snare drum sound is unmistakable — a crisp, powerful crack that cuts through even the loudest stage mix. His preference for deep metal-shell snares delivers the attack and projection needed to compete with Motörhead's legendary volume.
 
 **The Metal Shell Choice:**
 While many rock drummers favor wood snares for warmth, Mikkey gravitates toward metal shells — aluminum and brass being his primary choices. Metal shells offer brightness, cutting power, and sensitivity that work perfectly for his style. The 6.5" depth provides body without sacrificing the crack.
@@ -18152,7 +18152,7 @@ Playing snare drums next to Lemmy's bass rig was a unique challenge. The stage v
         { type: 'China', model: 'Zildjian 18" A Custom China', position: 'Above floor tom', notes: 'Aggressive accents for punk-influenced passages' },
         { type: 'Splash', model: 'Zildjian 10" A Custom Splash', position: 'Above hi-hats', notes: 'Quick accents and color' }
       ],
-      description: \`Mikkey Dee's Zildjian cymbal setup is built for one thing: cutting through the loudest rock bands in history. His selection emphasizes projection, durability, and the ability to be heard over walls of amplifiers.
+      description: `Mikkey Dee's Zildjian cymbal setup is built for one thing: cutting through the loudest rock bands in history. His selection emphasizes projection, durability, and the ability to be heard over walls of amplifiers.
 
 **The 15" Hi-Hat Choice:**
 While most drummers use 14" hi-hats, Mikkey prefers 15" New Beats. The extra inch provides more body and volume — essential when playing next to Lemmy's bass stack. The heavier bottom cymbal keeps the hi-hats stable during aggressive playing while the top cymbal provides articulation.
@@ -18224,7 +18224,7 @@ Playing at Motörhead volumes meant destroying cymbals faster than most drummers
     },
     styleAnalysis: {
       title: 'The Engine Room: Mikkey\'s Drumming Philosophy',
-      content: \`Mikkey Dee's drumming style is deceptively sophisticated. On the surface, it's pure rock power — driving rhythms, thunderous fills, explosive accents. But beneath that power lies jazz training, technical precision, and musical intelligence that separates him from mere loud drummers.
+      content: `Mikkey Dee's drumming style is deceptively sophisticated. On the surface, it's pure rock power — driving rhythms, thunderous fills, explosive accents. But beneath that power lies jazz training, technical precision, and musical intelligence that separates him from mere loud drummers.
 
 **The Motörhead Challenge:**
 Playing drums for Motörhead wasn't just about volume (though that was certainly part of it). Lemmy's bass occupied a unique sonic space — often described as a "third guitar" due to his aggressive attack. Mikkey had to find his own space in this sonic assault, which he did through precise articulation and intelligent frequency placement.
@@ -18263,7 +18263,7 @@ Joining Scorpions required adjustment. The band's more melodic, hook-driven song
     ],
     buyingGuide: {
       title: 'Getting Mikkey\'s Thunder on a Budget',
-      content: \`Mikkey Dee's sound is about power, precision, and projection. Here's how to capture elements of his approach at various price points.
+      content: `Mikkey Dee's sound is about power, precision, and projection. Here's how to capture elements of his approach at various price points.
 
 **The Philosophy First:**
 Mikkey's sound comes from how he plays, not just what he plays. Hit hard, but hit accurately. Every stroke deliberate. Practice playing at full volume with control — it's harder than it sounds.
@@ -18320,7 +18320,7 @@ Double-ply heads (Emperor or G2) on toms and snare provide durability for hard h
     relatedAlbums: ['painkiller-drum-setup', 'master-of-puppets-drum-setup'],
     conclusion: {
       title: 'The Locomotive That Never Stops',
-      content: \`Mikkey Dee is one of rock's true survivors. Twenty-three years powering the loudest band in the world, a Grammy Award, countless tours, and now — at 62 — still thundering across stages with Scorpions. His career is a testament to talent, professionalism, and an unquenchable passion for rock and roll.
+      content: `Mikkey Dee is one of rock's true survivors. Twenty-three years powering the loudest band in the world, a Grammy Award, countless tours, and now — at 62 — still thundering across stages with Scorpions. His career is a testament to talent, professionalism, and an unquenchable passion for rock and roll.
 
 **What Makes Mikkey Special:**
 
@@ -18374,7 +18374,7 @@ Born to play. Born to raise hell. Born to drive the locomotive.
     // Introduction
     intro: {
       title: 'The Groove Behind the Atmosphere',
-      content: \`Abe Cunningham isn't trying to be the fastest drummer. He's not interested in the most complex fills or the biggest kit. What he does — better than almost anyone in heavy music — is make you *feel* something. For 35 years with Deftones, he's been the heartbeat of one of the most emotionally resonant bands in modern rock.
+      content: `Abe Cunningham isn't trying to be the fastest drummer. He's not interested in the most complex fills or the biggest kit. What he does — better than almost anyone in heavy music — is make you *feel* something. For 35 years with Deftones, he's been the heartbeat of one of the most emotionally resonant bands in modern rock.
 
 Born Abraham Cunningham on July 27, 1973, in Sacramento, California, he co-founded Deftones in 1988 as a teenager. While his classmates were studying for exams, Abe was developing a style that would help define alternative metal's atmospheric approach.
 
@@ -18382,7 +18382,7 @@ What makes Abe Cunningham unique isn't complexity — it's restraint. His drummi
 
 Deftones' Grammy win for "Elite" in 2001 validated what fans already knew: this band operated on a different level. And at the center of it all, Abe has remained a constant — the same founding member who started playing with Chino Moreno and Stephen Carpenter in their Sacramento high school.
 
-Nine studio albums. Multiple platinum certifications. Millions of devoted fans. And through it all, a drummer who values groove over flash, emotion over technique, and serving the song above all else. This is his gear.\`,
+Nine studio albums. Multiple platinum certifications. Millions of devoted fans. And through it all, a drummer who values groove over flash, emotion over technique, and serving the song above all else. This is his gear.`,
       keyPoints: [
         'Tama Drums endorsee with Starclassic Maple/Bubinga setup',
         'Zildjian cymbal artist with signature drumsticks',
@@ -18404,7 +18404,7 @@ Nine studio albums. Multiple platinum certifications. Millions of devoted fans. 
         floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom'],
         shells: 'Maple/Bubinga hybrid for warmth with attack'
       },
-      description: \`Abe Cunningham's Tama Starclassic Maple/Bubinga kit is the perfect reflection of his musical priorities: warm, punchy, and versatile. The Maple/Bubinga shell combination provides the best of both worlds — the warmth and projection of maple with the focused attack and low-end punch of bubinga.
+      description: `Abe Cunningham's Tama Starclassic Maple/Bubinga kit is the perfect reflection of his musical priorities: warm, punchy, and versatile. The Maple/Bubinga shell combination provides the best of both worlds — the warmth and projection of maple with the focused attack and low-end punch of bubinga.
 
 The 22" bass drum is standard size but tuned for maximum punch without overwhelming sustain. Abe doesn't need the artillery of a 24" double bass setup — he needs a kick that sits in the mix with the bass guitar, creating that Deftones signature low-end synergy.
 
@@ -18412,7 +18412,7 @@ His tom configuration is refreshingly compact: two rack toms (10" and 12") and t
 
 The Starclassic series represents Tama's professional line — these are no-compromise drums built for touring and recording. The Star-Cast mounting system suspends toms for maximum resonance, and the hardware is built to withstand years of gigging.
 
-What's notable about Abe's setup is its efficiency. No second rack of toms. No elaborate accessory setup. Just the essentials, positioned for ergonomic playing and quick access. This mirrors his playing philosophy: strip away everything unnecessary.\`,
+What's notable about Abe's setup is its efficiency. No second rack of toms. No elaborate accessory setup. Just the essentials, positioned for ergonomic playing and quick access. This mirrors his playing philosophy: strip away everything unnecessary.`,
       notes: [
         'Maple/Bubinga hybrid shells for warmth and attack',
         'Compact configuration: 4 toms total',
@@ -18429,7 +18429,7 @@ What's notable about Abe's setup is its efficiency. No second rack of toms. No e
       model: 'Tama S.L.P. Big Black Steel',
       size: '14" x 8"',
       shell: 'Steel',
-      description: \`Abe's snare choice — the Tama S.L.P. Big Black Steel — is significant. At 14" x 8", it's a deep drum with serious body and projection. The steel shell delivers the crack and cut that's essential for Deftones' heavier moments.
+      description: `Abe's snare choice — the Tama S.L.P. Big Black Steel — is significant. At 14" x 8", it's a deep drum with serious body and projection. The steel shell delivers the crack and cut that's essential for Deftones' heavier moments.
 
 The S.L.P. (Sound Lab Project) series represents Tama's exploration of unique snare sounds. The Big Black Steel lives up to its name: it's deep, it's powerful, and it cuts through any mix without being harsh.
 
@@ -18437,7 +18437,7 @@ Deep snares (8" and above) have become increasingly popular in modern rock and m
 
 The black nickel hardware and black shell give it a distinctive look that matches Deftones' aesthetic. But the sound is what matters: wide dynamic range, sensitive response to ghost notes, and thunderous rimshots when needed.
 
-Abe typically tunes this snare medium — not too tight, not too loose. This allows the drum to sing on softer passages while still delivering power on heavier hits. The steel shell's inherent brightness balances the deep size.\`,
+Abe typically tunes this snare medium — not too tight, not too loose. This allows the drum to sing on softer passages while still delivering power on heavier hits. The steel shell's inherent brightness balances the deep size.`,
       tuningSetting: 'Medium tuning for balance of body and response',
       heads: 'Evans G2 Coated (batter), Evans Hazy 300 Snare Side (resonant)',
       estimatedValue: '$350-450 (S.L.P. Big Black Steel)'
@@ -18455,7 +18455,7 @@ Abe typically tunes this snare medium — not too tight, not too loose. This all
         { type: 'Crash/Ride', model: 'Zildjian 20" A Custom Medium Ride', position: 'Right of toms', notes: 'Dual-purpose versatility' },
         { type: 'China', model: 'Zildjian 18" A Custom China', position: 'Above floor tom', notes: 'Trashy accents' }
       ],
-      description: \`Abe's cymbal setup is a thoughtful blend of Zildjian's A Custom and K Custom series, combining modern brightness with dark complexity.
+      description: `Abe's cymbal setup is a thoughtful blend of Zildjian's A Custom and K Custom series, combining modern brightness with dark complexity.
 
 The A New Beat Hi-Hats are industry standard for a reason: they're versatile, articulate, and sound great in any genre. For Deftones' wide dynamic range, they provide definition at low volumes and body at high volumes.
 
@@ -18463,7 +18463,7 @@ The A Custom crashes deliver quick attack and modern brightness — perfect for 
 
 The real secret weapon is the K Custom Ride. The K series delivers a darker, more complex sound than the brighter A series. For Deftones' atmospheric sections — the shimmering, dreamy passages that define their sound — this ride provides wash and overtones that blend into the soundscape rather than cutting through it.
 
-This hybrid approach (A Custom for attacks, K Custom for atmosphere) reflects Deftones' musical duality: they can be crushingly heavy one moment and ethereally beautiful the next. Abe's cymbal choices support both.\`,
+This hybrid approach (A Custom for attacks, K Custom for atmosphere) reflects Deftones' musical duality: they can be crushingly heavy one moment and ethereally beautiful the next. Abe's cymbal choices support both.`,
       estimatedValue: '$1,800-2,500 total (A/K Custom hybrid setup)'
     },
     // Hardware Section
@@ -18512,7 +18512,7 @@ This hybrid approach (A Custom for attacks, K Custom for atmosphere) reflects De
     // Playing Style
     playingStyle: {
       title: 'The Philosophy: Serve the Song',
-      content: \`What makes Abe Cunningham one of alternative metal's most respected drummers isn't his chops — it's his taste. In a genre that often rewards flash and complexity, Abe has built his reputation on restraint, groove, and emotional intelligence.
+      content: `What makes Abe Cunningham one of alternative metal's most respected drummers isn't his chops — it's his taste. In a genre that often rewards flash and complexity, Abe has built his reputation on restraint, groove, and emotional intelligence.
 
 **Key Elements of Abe's Style:**
 
@@ -18530,7 +18530,7 @@ This hybrid approach (A Custom for attacks, K Custom for atmosphere) reflects De
 
 The most important lesson from Abe's playing is that taste matters more than technique. Any drummer can learn to play fast or complex patterns. Few drummers develop the musical intelligence to know when NOT to play — when to leave space, when to simplify, when to let the song breathe.
 
-Abe Cunningham proves that being a great drummer isn't about impressing other drummers. It's about making the band sound incredible.\`,
+Abe Cunningham proves that being a great drummer isn't about impressing other drummers. It's about making the band sound incredible.`,
       keyPoints: [
         'Unconventional snare placements and accents',
         'Expert dynamic control from whisper to explosion',
@@ -18658,7 +18658,7 @@ Abe Cunningham proves that being a great drummer isn't about impressing other dr
     // Budget Build
     budgetBuild: {
       title: 'Build an Abe-Inspired Kit on a Budget',
-      content: \`Abe Cunningham's tone comes more from his hands than his gear — but smart equipment choices can get you in the ballpark without breaking the bank.
+      content: `Abe Cunningham's tone comes more from his hands than his gear — but smart equipment choices can get you in the ballpark without breaking the bank.
 
 **Shell Priority:**
 Maple shells will get you closest to Abe's warm, punchy sound. Budget options like Tama Superstar or Pearl Export series use quality maple and deliver professional tones at reasonable prices.
@@ -18670,7 +18670,7 @@ A deep metal snare is essential. The Tama S.L.P. Big Black Steel is actually aff
 Zildjian A series cymbals can be found used for reasonable prices. Start with quality hi-hats (A New Beats if possible) and build from there. The ride cymbal is crucial for Deftones' atmospheric sections — look for something with wash and complexity.
 
 **Heads Matter:**
-This is one area where you shouldn't skimp. Evans G2 Coated or Remo Emperor Coated heads provide the warm, controlled attack that defines Abe's tom sound. Fresh heads make a bigger difference than expensive shells.\`,
+This is one area where you shouldn't skimp. Evans G2 Coated or Remo Emperor Coated heads provide the warm, controlled attack that defines Abe's tom sound. Fresh heads make a bigger difference than expensive shells.`,
       recommendations: [
         {
           item: 'Tama Superstar Classic or Pearl Export',
@@ -18709,7 +18709,7 @@ This is one area where you shouldn't skimp. Evans G2 Coated or Remo Emperor Coat
     relatedAlbums: [],
     conclusion: {
       title: 'The Heartbeat of Deftones',
-      content: \`Abe Cunningham represents something increasingly rare in modern music: a drummer who has stayed with the same band for over 35 years, evolving with them while maintaining his core identity. From Sacramento teenagers to Grammy winners to one of the most beloved bands in heavy music, he's been there for all of it.
+      content: `Abe Cunningham represents something increasingly rare in modern music: a drummer who has stayed with the same band for over 35 years, evolving with them while maintaining his core identity. From Sacramento teenagers to Grammy winners to one of the most beloved bands in heavy music, he's been there for all of it.
 
 **What Makes Abe Special:**
 
@@ -18731,7 +18731,7 @@ Abe Cunningham doesn't need to prove anything. After 35 years, nine albums, a Gr
 
 That's the ultimate measure of a great drummer. And by that measure, Abe Cunningham is one of the greats.
 
-🥁 *"Let the song breathe."* — That's the wisdom. That's the approach. That's Abe Cunningham. 🥁\`
+🥁 *"Let the song breathe."* — That's the wisdom. That's the approach. That's Abe Cunningham. 🥁`
     }
   },
 
@@ -18757,7 +18757,7 @@ That's the ultimate measure of a great drummer. And by that measure, Abe Cunning
     // Introduction
     intro: {
       title: 'The Polyrhythmic Master',
-      content: \`Gavin Harrison doesn't just play drums. He conducts conversations in polyrhythm, whispers ghost notes that reshape grooves, and navigates odd time signatures like they're the most natural thing in the world. For over two decades, he's been redefining what's possible behind a drum kit while making it look absolutely effortless.
+      content: `Gavin Harrison doesn't just play drums. He conducts conversations in polyrhythm, whispers ghost notes that reshape grooves, and navigates odd time signatures like they're the most natural thing in the world. For over two decades, he's been redefining what's possible behind a drum kit while making it look absolutely effortless.
 
 Born May 28, 1963, in Harrow, London, Harrison spent his early career as a session drummer before joining Porcupine Tree in 2002 — a move that would change progressive rock drumming forever. His work on albums like "In Absentia," "Deadwing," and especially "Fear of a Blank Planet" set new standards for what drumming could be in heavy, atmospheric music.
 
@@ -18767,7 +18767,7 @@ What makes Gavin Harrison unique isn't speed or power — it's sophistication. H
 
 Modern Drummer magazine has recognized him multiple times as the best progressive rock drummer. Drummers from every genre cite him as an influence. And with Porcupine Tree's 2022 reunion and continued work with King Crimson and The Pineapple Thief, he's showing no signs of slowing down.
 
-This is the gear that enables his polyrhythmic wizardry.\`,
+This is the gear that enables his polyrhythmic wizardry.`,
       keyPoints: [
         'Sonor Drums endorsee with signature snare drums',
         'Zildjian K Custom Special Dry cymbal series',
@@ -18789,7 +18789,7 @@ This is the gear that enables his polyrhythmic wizardry.\`,
         floorToms: ['14" x 13" Floor Tom', '16" x 15" Floor Tom'],
         shells: 'Premium maple with thin shells for resonance and sensitivity'
       },
-      description: \`Gavin Harrison's Sonor SQ2 drums represent the pinnacle of German engineering applied to his exacting musical requirements. The SQ2 series offers truly custom drums — each kit is built to the artist's specifications, from shell material and thickness to bearing edges and hardware placement.
+      description: `Gavin Harrison's Sonor SQ2 drums represent the pinnacle of German engineering applied to his exacting musical requirements. The SQ2 series offers truly custom drums — each kit is built to the artist's specifications, from shell material and thickness to bearing edges and hardware placement.
 
 For Harrison, the choice of Sonor makes perfect sense. These drums excel at what he does best: dynamic playing that ranges from the subtlest ghost notes to thunderous accents. The thin maple shells provide exceptional sensitivity and resonance, allowing every nuance of his playing to come through clearly.
 
@@ -18797,7 +18797,7 @@ The 22" bass drum is smaller than what you might expect from a drummer who can p
 
 His tom configuration is standard for jazz-influenced drummers: two rack toms (10" and 12") and two floor toms (14" and 16"). But it's not about the number of drums — it's about how he uses them. Harrison treats his kit melodically, using toms as tuned instruments rather than just accent pieces.
 
-The SQ2's mounting system preserves resonance, and Sonor's legendary hardware provides rock-solid stability while allowing precise positioning. Every element of this kit is designed to respond to Harrison's incredibly nuanced touch.\`,
+The SQ2's mounting system preserves resonance, and Sonor's legendary hardware provides rock-solid stability while allowing precise positioning. Every element of this kit is designed to respond to Harrison's incredibly nuanced touch.`,
       notes: [
         'Thin maple shells for maximum sensitivity',
         'Custom SQ2 specifications for his playing style',
@@ -18814,7 +18814,7 @@ The SQ2's mounting system preserves resonance, and Sonor's legendary hardware pr
       model: 'Sonor Gavin Harrison Signature Snares',
       size: '12" x 5" (Protean) and 14" x 5.25" (primary)',
       shell: 'Brass with steel hoops',
-      description: \`Gavin Harrison's signature snare drums are perhaps his most significant gear contribution to the drumming world. He worked extensively with Sonor to develop snares that match his demanding requirements: sensitivity for ghost notes, projection for accents, and the ability to cut through any mix without being harsh.
+      description: `Gavin Harrison's signature snare drums are perhaps his most significant gear contribution to the drumming world. He worked extensively with Sonor to develop snares that match his demanding requirements: sensitivity for ghost notes, projection for accents, and the ability to cut through any mix without being harsh.
 
 The primary signature snare is a 14" x 5.25" brass-shell drum that's become a benchmark for progressive rock drummers. The brass shell provides warmth and body that steel lacks, while still offering excellent projection. The .25" extra depth gives it just enough additional body compared to standard 5" snares.
 
@@ -18822,7 +18822,7 @@ But the real innovation is the 12" Protean snare — a smaller drum designed spe
 
 Both snares feature carefully selected hardware and snare wire configurations that maximize sensitivity. Harrison tunes his snares medium to medium-high, allowing the drums to sing on soft passages while delivering crack on rimshots. The die-cast hoops provide consistent tension and excellent rim click sounds.
 
-What's remarkable about these signature drums is how well they translate Harrison's playing philosophy into physical instruments. They reward subtlety and punish sloppiness — exactly what a polyrhythmic master needs.\`,
+What's remarkable about these signature drums is how well they translate Harrison's playing philosophy into physical instruments. They reward subtlety and punish sloppiness — exactly what a polyrhythmic master needs.`,
       tuningSetting: 'Medium to medium-high for sensitivity and projection',
       heads: 'Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)',
       estimatedValue: '$600-900 (Gavin Harrison Signature Snares)'
@@ -18839,7 +18839,7 @@ What's remarkable about these signature drums is how well they translate Harriso
         { type: 'Ride', model: 'Zildjian 21" K Custom Special Dry Ride', position: 'Right side', notes: 'The centerpiece: dry, complex, and defined' },
         { type: 'China/Trash', model: 'Zildjian 18" K Custom Trash China', position: 'Above floor tom', notes: 'Trashy accents with musical decay' }
       ],
-      description: \`The Zildjian K Custom Special Dry series was developed in direct collaboration with Gavin Harrison, and these cymbals have become some of the most sought-after in the progressive rock world. They represent a fundamentally different approach to cymbal sound: controlled, dry, and articulate rather than bright and washy.
+      description: `The Zildjian K Custom Special Dry series was developed in direct collaboration with Gavin Harrison, and these cymbals have become some of the most sought-after in the progressive rock world. They represent a fundamentally different approach to cymbal sound: controlled, dry, and articulate rather than bright and washy.
 
 The philosophy behind Special Dry cymbals aligns perfectly with Harrison's playing. When you're layering complex polyrhythms and ghost notes, you need cymbals that get out of the way quickly. Traditional bright cymbals build up wash that obscures detail. Special Dry cymbals provide definition and then decay rapidly, leaving space for the next sound.
 
@@ -18849,7 +18849,7 @@ The Special Dry Hi-Hats (14") are crisp and articulate, perfect for the intricat
 
 His crashes (16" and 18" Special Dry) have fast attack and quick decay — they speak and get out of the way. The 18" Trash China adds controlled chaos when needed.
 
-These cymbals have influenced an entire generation of drummers who now seek drier, more controlled sounds for complex music.\`,
+These cymbals have influenced an entire generation of drummers who now seek drier, more controlled sounds for complex music.`,
       notes: [
         'Developed in collaboration with Harrison',
         'Dry, controlled sound for complex music',
@@ -18866,7 +18866,7 @@ These cymbals have influenced an entire generation of drummers who now seek drie
       hihatStand: 'Sonor 600 Series Hi-Hat Stand',
       throne: 'Sonor Professional Throne',
       stands: 'Sonor 600 Series',
-      description: \`Gavin Harrison's hardware choices reflect his obsession with feel and response. The Sonor Perfect Balance Pedal is particularly significant — it's designed for drummers who need precise dynamic control rather than raw speed.
+      description: `Gavin Harrison's hardware choices reflect his obsession with feel and response. The Sonor Perfect Balance Pedal is particularly significant — it's designed for drummers who need precise dynamic control rather than raw speed.
 
 The Perfect Balance concept allows for even response throughout the pedal's stroke, making soft ghost notes with the foot as easy as loud accents. For Harrison's polyrhythmic playing, where bass drum dynamics are crucial, this pedal is essential.
 
@@ -18874,7 +18874,7 @@ His throne positioning is precise — he sits relatively low compared to many ro
 
 The Sonor 600 Series hardware provides the stability needed for intense playing while allowing precise angle adjustments. Harrison positions his cymbals flat and close, minimizing unnecessary arm movement and maximizing efficiency.
 
-Every element of his hardware setup serves his playing philosophy: sensitivity, control, and the ability to express subtle dynamics that most drummers can't even hear, let alone play.\`,
+Every element of his hardware setup serves his playing philosophy: sensitivity, control, and the ability to express subtle dynamics that most drummers can't even hear, let alone play.`,
       notes: [
         'Perfect Balance Pedal for dynamic control',
         'Low throne position for leverage',
@@ -18894,13 +18894,13 @@ Every element of his hardware setup serves his playing philosophy: sensitivity, 
         tip: 'Barrel tip',
         material: 'Hickory'
       },
-      description: \`The Vic Firth Gavin Harrison signature sticks are designed for versatility and control. At 16" with a .570" diameter, they're close to a 5A in weight but with unique taper characteristics that Harrison helped develop.
+      description: `The Vic Firth Gavin Harrison signature sticks are designed for versatility and control. At 16" with a .570" diameter, they're close to a 5A in weight but with unique taper characteristics that Harrison helped develop.
 
 The barrel tip provides a consistent sound across all playing surfaces — whether you're riding on a cymbal, playing ghost notes on the snare, or accenting on toms, the tip shape delivers predictable response. This consistency is crucial for Harrison's nuanced approach.
 
 The taper is designed for balance and rebound, allowing the sticks to do much of the work during fast, sustained patterns. This reduces fatigue and allows Harrison to play extended polyrhythmic passages without tension building up in his hands.
 
-The hickory wood provides durability without excessive weight. Harrison's playing, while often intense, relies on finesse rather than brute force, so durability isn't about withstanding powerful hits — it's about maintaining consistent feel over thousands of cymbal strokes.\`,
+The hickory wood provides durability without excessive weight. Harrison's playing, while often intense, relies on finesse rather than brute force, so durability isn't about withstanding powerful hits — it's about maintaining consistent feel over thousands of cymbal strokes.`,
       notes: [
         'Barrel tip for consistent response',
         'Custom taper for control',
@@ -18953,7 +18953,7 @@ The hickory wood provides durability without excessive weight. Harrison's playin
     // Playing Technique Section
     technique: {
       title: 'The Harrison Approach',
-      content: \`Gavin Harrison's technique is built on foundations that many metal drummers might find surprising: jazz vocabulary, traditional grip fluency, and obsessive attention to dynamics. But it's these foundations that enable his unique polyrhythmic language.
+      content: `Gavin Harrison's technique is built on foundations that many metal drummers might find surprising: jazz vocabulary, traditional grip fluency, and obsessive attention to dynamics. But it's these foundations that enable his unique polyrhythmic language.
 
 **Ghost Notes:**
 Harrison's use of ghost notes is perhaps his most influential technique. These quiet, almost subliminal notes create texture and groove that transforms simple patterns into complex conversations. He doesn't just add ghost notes — he uses them as melodic elements, often creating counterrhythms against the main groove.
@@ -18968,7 +18968,7 @@ Few drummers exploit dynamics like Harrison. He can play so quietly that microph
 Harrison makes odd times feel natural. His secret? He doesn't think in odd time. He feels in phrases, using the unusual meters to create tension and release without making the music feel mathematical.
 
 **The Perfect Balance:**
-His bass drum technique reflects his overall philosophy: control over speed. Using the Perfect Balance pedal, he achieves bass drum dynamics that most drummers can only dream of — everything from barely audible ghost notes to thunderous accents, all with the same relaxed technique.\`
+His bass drum technique reflects his overall philosophy: control over speed. Using the Perfect Balance pedal, he achieves bass drum dynamics that most drummers can only dream of — everything from barely audible ghost notes to thunderous accents, all with the same relaxed technique.`
     },
     // Related Content
     relatedDrummers: [14, 5, 13], // Danny Carey, Tomas Haake, Mike Portnoy
@@ -18976,7 +18976,7 @@ His bass drum technique reflects his overall philosophy: control over speed. Usi
     relatedAlbums: ['fear-of-a-blank-planet-drum-setup'],
     conclusion: {
       title: 'The Polyrhythmic Standard',
-      content: \`Gavin Harrison represents the highest level of progressive drumming: technical mastery in complete service of music. He doesn't play complex for complexity's sake — every ghost note, every polyrhythmic layer, every dynamic shift serves the song's emotional arc.
+      content: `Gavin Harrison represents the highest level of progressive drumming: technical mastery in complete service of music. He doesn't play complex for complexity's sake — every ghost note, every polyrhythmic layer, every dynamic shift serves the song's emotional arc.
 
 **What Makes Harrison Special:**
 
@@ -19000,7 +19000,7 @@ Finally, remember that Harrison didn't achieve this overnight. He spent decades 
 
 Gavin Harrison proves that drums can be an intellectual instrument without losing emotional impact. That's his legacy: showing that complexity and feeling aren't opposites — they can amplify each other.
 
-🥁 *"Dynamics are more important than speed."* — The wisdom of the polyrhythmic master. 🥁\`
+🥁 *"Dynamics are more important than speed."* — The wisdom of the polyrhythmic master. 🥁`
     }
   },
 
@@ -19028,7 +19028,7 @@ Gavin Harrison proves that drums can be an intellectual instrument without losin
     // Introduction
     intro: {
       title: 'The Album That Defined Atmospheric Metal',
-      content: \`Released on June 20, 2000, "White Pony" transformed Deftones from a nu-metal band into architects of their own genre. The album's groundbreaking fusion of crushing heaviness, shoegaze atmospherics, and electronic textures created a blueprint that bands still follow today. At the heart of this sonic revolution was Abe Cunningham's drumming — understated, intuitive, and perfectly calibrated to serve each song's emotional arc.
+      content: `Released on June 20, 2000, "White Pony" transformed Deftones from a nu-metal band into architects of their own genre. The album's groundbreaking fusion of crushing heaviness, shoegaze atmospherics, and electronic textures created a blueprint that bands still follow today. At the heart of this sonic revolution was Abe Cunningham's drumming — understated, intuitive, and perfectly calibrated to serve each song's emotional arc.
 
 Unlike their raw debut "Adrenaline" or the aggressive "Around the Fur," White Pony demanded restraint and dynamics. Cunningham responded by stripping away flashy fills and constant double bass, replacing them with grooves that breathed and moments of silence that hit harder than any blast beat.
 
@@ -19036,7 +19036,7 @@ Recorded primarily at Village Recorder and Sunset Sound in Los Angeles with prod
 
 The album earned Deftones a Grammy for Best Metal Performance ("Elite") and has since been recognized as a landmark in heavy music — a rare record that pushed boundaries while connecting with a massive audience. White Pony proved that heaviness isn't about volume; it's about impact. And Abe Cunningham's drumming was the heartbeat of that revolution.
 
-This article explores the gear Abe used during the White Pony sessions, the techniques that defined its sound, and what made this album a turning point for alternative metal drumming.\`,
+This article explores the gear Abe used during the White Pony sessions, the techniques that defined its sound, and what made this album a turning point for alternative metal drumming.`,
       keyPoints: [
         'Recorded 1999-2000 at Village Recorder, Sunset Sound, and The Shop (LA)',
         'Producer Terry Date captured dynamics rarely heard in heavy music',
@@ -19058,7 +19058,7 @@ This article explores the gear Abe used during the White Pony sessions, the tech
         floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom'],
         shells: 'All-maple shells with die-cast hoops'
       },
-      description: \`For the White Pony sessions, Abe Cunningham relied on his Tama Starclassic Maple kit — a setup that provided the warmth and punch needed for the album's genre-defying sound. The all-maple construction delivered a rounded, musical tone that recorded beautifully and complemented Chino Moreno's atmospheric vocal approach.
+      description: `For the White Pony sessions, Abe Cunningham relied on his Tama Starclassic Maple kit — a setup that provided the warmth and punch needed for the album's genre-defying sound. The all-maple construction delivered a rounded, musical tone that recorded beautifully and complemented Chino Moreno's atmospheric vocal approach.
 
 The kit configuration was relatively compact by metal standards: a single 22" bass drum, two rack toms, and two floor toms. This minimal setup reflected Abe's philosophy — he doesn't need twenty drums to create interesting parts. Instead, he maximizes each piece's potential through creative patterns and dynamic control.
 
@@ -19066,7 +19066,7 @@ Producer Terry Date positioned the kit carefully within the studio's live room, 
 
 The 22" x 18" bass drum provided deep, controlled low-end without the overpowering boom of larger kick drums. For a record that frequently dropped to near-silence before exploding, this articulate bass drum allowed every note to be felt without muddying the mix.
 
-During sessions for certain tracks, Abe also used triggered samples and electronic drums layered with his acoustic kit. Songs like "Digital Bath" feature hybrid drumming that blends programmed elements with live performance — innovative for 2000 and influential for decades to come.\`,
+During sessions for certain tracks, Abe also used triggered samples and electronic drums layered with his acoustic kit. Songs like "Digital Bath" feature hybrid drumming that blends programmed elements with live performance — innovative for 2000 and influential for decades to come.`,
       notes: [
         'Tama Starclassic Maple — warm, punchy, articulate',
         'Single 22" bass drum for controlled low-end',
@@ -19083,13 +19083,13 @@ During sessions for certain tracks, Abe also used triggered samples and electron
       model: 'Tama S.L.P. Big Black Steel (or equivalent deep steel snare)',
       size: '14" x 6.5" to 14" x 8"',
       shell: 'Steel / Brass',
-      description: \`White Pony's snare sound is distinctive — deep, dark, with controlled overtones that sit perfectly in the mix without fighting the atmospheric guitars. Abe experimented with several snares during the sessions, settling on deeper drums that provided body and thump rather than the typical bright, cutting metal snare sound.
+      description: `White Pony's snare sound is distinctive — deep, dark, with controlled overtones that sit perfectly in the mix without fighting the atmospheric guitars. Abe experimented with several snares during the sessions, settling on deeper drums that provided body and thump rather than the typical bright, cutting metal snare sound.
 
 The primary snare used was a deep steel drum (ranging from 6.5" to 8" depending on the track), which provided the weight needed for songs like "Change (In the House of Flies)" and "Digital Bath." The deeper shell gave each backbeat a sense of gravity that anchored the swirling textures around it.
 
 Terry Date's drum engineering was crucial to the snare sound. Rather than cranking top-end presence, he let the drum's natural tone speak, using minimal EQ and careful mic placement. The result was a snare that felt real — you can hear the stick impact, the head resonance, the snare wire response.
 
-For heavier tracks like "Elite" and "Korea," the snare was tuned higher and hit harder, delivering the aggressive crack the songs demanded. This dynamic approach to tuning — adjusting for each song's needs rather than keeping one "perfect" setting — exemplified the album's attention to detail.\`,
+For heavier tracks like "Elite" and "Korea," the snare was tuned higher and hit harder, delivering the aggressive crack the songs demanded. This dynamic approach to tuning — adjusting for each song's needs rather than keeping one "perfect" setting — exemplified the album's attention to detail.`,
       tuningSetting: 'Medium-low for atmosphere, medium-high for aggression',
       heads: 'Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)',
       estimatedValue: '$300-500 (2000 era)'
@@ -19107,7 +19107,7 @@ For heavier tracks like "Elite" and "Korea," the snare was tuned higher and hit 
         { type: 'Crash/Ride', model: 'Zildjian K 19" Dark Thin Crash', position: 'Above floor tom', notes: 'Versatile crash with ride capability' },
         { type: 'China', model: 'Zildjian 16" Oriental China Trash', position: 'Left side, high', notes: 'Aggressive accent cymbal' }
       ],
-      description: \`Abe's cymbal selection for White Pony leaned toward darker, more complex sounds than typical metal setups. The use of K series cymbals — with their dry, trashy overtones — contributed to the album's textured, atmospheric quality.
+      description: `Abe's cymbal selection for White Pony leaned toward darker, more complex sounds than typical metal setups. The use of K series cymbals — with their dry, trashy overtones — contributed to the album's textured, atmospheric quality.
 
 The 14" New Beat hi-hats anchored most of the album's rhythms, providing clarity and definition even during the quietest passages. Abe's hi-hat work on White Pony is particularly noteworthy — he often plays open patterns during verses, creating space and air that conventional closed hi-hat grooves wouldn't allow.
 
@@ -19115,7 +19115,7 @@ The K Custom Dark Ride became essential to the White Pony sound. Rather than the
 
 For crashes, Abe used A Custom and K series cymbals, prioritizing musicality over volume. The crashes on White Pony don't overwhelm; they punctuate. Terry Date's production captured the cymbals' full frequency range without harshness, allowing them to blend into the mix rather than dominate.
 
-The China cymbal appears sparingly but effectively, adding aggression to key moments in "Elite" and other heavy tracks. Its controlled use exemplifies White Pony's philosophy: everything serves the song.\`,
+The China cymbal appears sparingly but effectively, adding aggression to key moments in "Elite" and other heavy tracks. Its controlled use exemplifies White Pony's philosophy: everything serves the song.`,
       estimatedValue: '$1,500-2,500 total (2000 era pricing)'
     },
     // Hardware Section
@@ -19161,47 +19161,47 @@ The China cymbal appears sparingly but effectively, adding aggression to key mom
       tracks: [
         {
           track: 'Change (In the House of Flies)',
-          description: \`The song that introduced millions to Deftones' atmospheric side, "Change" features one of Abe's most iconic grooves. The verse pattern is deceptively simple — sparse kick hits with open hi-hat, creating space for Chino's haunting vocals. When the chorus explodes, Abe adds weight without cluttering the arrangement.
+          description: `The song that introduced millions to Deftones' atmospheric side, "Change" features one of Abe's most iconic grooves. The verse pattern is deceptively simple — sparse kick hits with open hi-hat, creating space for Chino's haunting vocals. When the chorus explodes, Abe adds weight without cluttering the arrangement.
 
 The key to this drum part is restraint. Lesser drummers would fill every gap; Abe lets the silence work. The snare enters at unexpected moments, the kick drum follows the guitar's syncopation, and the whole thing breathes.
 
-Listen to the bridge — as the guitars drop to clean tones and the dynamics fall to a whisper, Abe plays ghost notes on the snare that are barely audible but absolutely essential to the groove. When the song builds back up, the full kit return hits like a truck because of the contrast.\`,
+Listen to the bridge — as the guitars drop to clean tones and the dynamics fall to a whisper, Abe plays ghost notes on the snare that are barely audible but absolutely essential to the groove. When the song builds back up, the full kit return hits like a truck because of the contrast.`,
           keyTechniques: ['Open hi-hat groove', 'Ghost note layering', 'Dynamic contrast', 'Syncopated kick patterns', 'Restrained fills']
         },
         {
           track: 'Digital Bath',
-          description: \`"Digital Bath" represents White Pony's experimental peak. The song opens with atmospheric synths and Abe's textured ride cymbal work before the full band enters with one of the album's heaviest riffs. The transition is seamless because the drums establish the song's hypnotic feel from the first note.
+          description: `"Digital Bath" represents White Pony's experimental peak. The song opens with atmospheric synths and Abe's textured ride cymbal work before the full band enters with one of the album's heaviest riffs. The transition is seamless because the drums establish the song's hypnotic feel from the first note.
 
 This track features hybrid drumming — Abe's live kit blended with electronic elements programmed during the sessions. The result is a drum sound that exists in its own space, neither fully organic nor fully synthetic. It's this experimentation that made White Pony groundbreaking.
 
-The chorus features a half-time feel that emphasizes weight over speed. Abe plays behind the beat slightly, creating a dragging, narcotic quality that matches the song's dark imagery. When the double-time section hits near the end, the contrast makes it feel twice as fast as it actually is.\`,
+The chorus features a half-time feel that emphasizes weight over speed. Abe plays behind the beat slightly, creating a dragging, narcotic quality that matches the song's dark imagery. When the double-time section hits near the end, the contrast makes it feel twice as fast as it actually is.`,
           keyTechniques: ['Textured ride patterns', 'Hybrid electronic/acoustic', 'Half-time feel', 'Behind-the-beat pocket', 'Dynamic explosion']
         },
         {
           track: 'Elite',
-          description: \`The Grammy-winning "Elite" is White Pony's most aggressive track, and Abe delivers accordingly. The verse features a syncopated, almost funk-influenced groove that sits in the pocket despite the angular guitar riffs. The chorus explodes with straight eighth notes and powerful backbeats.
+          description: `The Grammy-winning "Elite" is White Pony's most aggressive track, and Abe delivers accordingly. The verse features a syncopated, almost funk-influenced groove that sits in the pocket despite the angular guitar riffs. The chorus explodes with straight eighth notes and powerful backbeats.
 
 What makes "Elite" work is Abe's commitment to groove even at higher intensity. He could have turned this into a blast-fest, but instead he locks with the bass guitar, creating a rhythm section pocket that makes the song undeniably heavy without sacrificing feel.
 
-The breakdown section features some of Abe's most creative tom work on the album — melodic fills that serve the song's dynamics rather than showing off technical ability. When the final chorus hits, Abe opens up the hi-hats and adds crash accents, releasing the tension built throughout the song.\`,
+The breakdown section features some of Abe's most creative tom work on the album — melodic fills that serve the song's dynamics rather than showing off technical ability. When the final chorus hits, Abe opens up the hi-hats and adds crash accents, releasing the tension built throughout the song.`,
           keyTechniques: ['Syncopated groove', 'Funk-influenced patterns', 'Locked rhythm section', 'Melodic tom fills', 'Dynamic intensification']
         },
         {
           track: 'Knife Prty',
-          description: \`One of White Pony's most atmospheric tracks, "Knife Prty" (featuring Rodleen Getsic) showcases Abe's ability to disappear into a song. The drums serve as texture rather than lead, supporting walls of ambient guitar and haunting vocals without demanding attention.
+          description: `One of White Pony's most atmospheric tracks, "Knife Prty" (featuring Rodleen Getsic) showcases Abe's ability to disappear into a song. The drums serve as texture rather than lead, supporting walls of ambient guitar and haunting vocals without demanding attention.
 
 The verse groove is almost tribal, with tom-heavy patterns replacing typical snare backbeats. This approach creates unease and momentum simultaneously, fitting the song's dark narrative. When the heavy sections arrive, Abe's transition is subtle but effective — he doesn't suddenly play twice as loud, but the pattern shifts create perceived intensity.
 
-The song's extended outro features Abe locked into a repetitive groove while layers build around him. This discipline — the ability to hold a pattern without "improving" it — is essential to atmospheric metal but rarely appreciated.\`,
+The song's extended outro features Abe locked into a repetitive groove while layers build around him. This discipline — the ability to hold a pattern without "improving" it — is essential to atmospheric metal but rarely appreciated.`,
           keyTechniques: ['Textural playing', 'Tom-heavy patterns', 'Subtle transitions', 'Repetitive groove discipline', 'Ambient support']
         },
         {
           track: 'Passenger',
-          description: \`Featuring Maynard James Keenan (Tool), "Passenger" presented unique challenges. The song shifts between sections that suit different vocalists, and Abe's drumming bridges these transitions seamlessly.
+          description: `Featuring Maynard James Keenan (Tool), "Passenger" presented unique challenges. The song shifts between sections that suit different vocalists, and Abe's drumming bridges these transitions seamlessly.
 
 The verse groove is relaxed and open, leaving room for the dueling vocals to interplay. When the song builds to its climactic finish, Abe adds intensity gradually — a crash here, a fill there — never overwhelming but always pushing forward.
 
-The bridge features some of White Pony's most dynamic drumming. Abe drops to near-silence before exploding into the final section, creating the kind of tension-release that Tool themselves would employ. It's no coincidence that the two bands shared a guest vocalist; they share an understanding of dynamics.\`,
+The bridge features some of White Pony's most dynamic drumming. Abe drops to near-silence before exploding into the final section, creating the kind of tension-release that Tool themselves would employ. It's no coincidence that the two bands shared a guest vocalist; they share an understanding of dynamics.`,
           keyTechniques: ['Vocal support patterns', 'Seamless transitions', 'Gradual intensification', 'Dynamic tension-release', 'Guest vocalist accommodation']
         }
       ]
@@ -19209,7 +19209,7 @@ The bridge features some of White Pony's most dynamic drumming. Abe drops to nea
     // Recording Techniques Section
     recordingTechniques: {
       title: 'Capturing the Sound: Terry Date\'s Approach',
-      content: \`Producer Terry Date had already engineered classic drum sounds for Pantera and Soundgarden, but White Pony required something different. Rather than the aggressive, in-your-face approach of "Vulgar Display of Power," Date needed to capture dynamics, nuance, and atmosphere alongside the heaviness.
+      content: `Producer Terry Date had already engineered classic drum sounds for Pantera and Soundgarden, but White Pony required something different. Rather than the aggressive, in-your-face approach of "Vulgar Display of Power," Date needed to capture dynamics, nuance, and atmosphere alongside the heaviness.
 
 **Room Sound:**
 Village Recorder's Studio B provided the foundation for White Pony's drum sound. Date used room mics extensively, capturing the natural ambience that gives the drums their "live" quality. This approach was unusual for heavy music in 2000, when most producers were using heavily gated, close-miked drum sounds.
@@ -19224,7 +19224,7 @@ Unlike many late-90s metal productions, White Pony's drums feature minimal compr
 For tracks featuring electronic elements, Date seamlessly blended programmed drums with Abe's live performance. The key was making the electronic elements feel organic — they don't stand out as "electronic drums" but integrate into the overall kit sound.
 
 **Track-Specific Approaches:**
-Different songs called for different treatments. "Change" features more room sound, creating space for the sparse arrangement. "Elite" uses tighter, more controlled miking for aggressive impact. This flexibility — treating each song as its own sonic world — defined White Pony's production.\`,
+Different songs called for different treatments. "Change" features more room sound, creating space for the sparse arrangement. "Elite" uses tighter, more controlled miking for aggressive impact. This flexibility — treating each song as its own sonic world — defined White Pony's production.`,
       keyPoints: [
         'Village Recorder Studio B for natural room ambience',
         'Blend of room mics and close mics for dimensional sound',
@@ -19305,7 +19305,7 @@ Different songs called for different treatments. "Change" features more room sou
     // Legacy Section
     legacy: {
       title: 'White Pony\'s Lasting Impact on Metal Drumming',
-      content: \`White Pony's influence on heavy music drumming cannot be overstated. Before this album, "metal" meant aggressive and constant. Drummers were expected to fill every space, play fast, hit hard. White Pony proved that restraint could be heavier than bombardment.
+      content: `White Pony's influence on heavy music drumming cannot be overstated. Before this album, "metal" meant aggressive and constant. Drummers were expected to fill every space, play fast, hit hard. White Pony proved that restraint could be heavier than bombardment.
 
 **The Atmospheric Metal Template:**
 Bands like Loathe, Spiritbox, Sleep Token, and countless others cite White Pony as a foundational influence. The album demonstrated that metal could incorporate shoegaze, electronic elements, and atmospheric production without losing its heaviness. Abe's drumming showed how to navigate these dynamics — when to explode, when to whisper, when to disappear entirely.
@@ -19317,7 +19317,7 @@ Abe Cunningham never became a "drum hero" in the traditional sense. He doesn't h
 White Pony's integration of electronic elements with live drums predated the widespread adoption of hybrid setups in metal. Abe and the band were experimenting with triggers, samples, and programming while most metal bands were still purely acoustic. This forward-thinking approach has become standard in modern heavy music.
 
 **Dynamic Production:**
-Terry Date's approach to White Pony's drums — capturing natural dynamics, using room ambience, avoiding over-compression — influenced producers and engineers who followed. The album proved that heavy music could sound organic and breathing rather than mechanical and compressed.\`,
+Terry Date's approach to White Pony's drums — capturing natural dynamics, using room ambience, avoiding over-compression — influenced producers and engineers who followed. The album proved that heavy music could sound organic and breathing rather than mechanical and compressed.`,
       keyPoints: [
         'Established the atmospheric metal template',
         'Prioritized groove and feel over technical display',
@@ -19374,7 +19374,7 @@ Terry Date's approach to White Pony's drums — capturing natural dynamics, usin
     relatedAlbums: ['koi-no-yokan-drum-setup', 'diamond-eyes-drum-setup'],
     conclusion: {
       title: 'The Album That Taught Metal to Breathe',
-      content: \`Twenty-six years after its release, White Pony remains essential listening for anyone interested in the evolution of heavy music. It proved that metal could be atmospheric, dynamic, and emotionally nuanced without sacrificing heaviness. And Abe Cunningham's drumming was the foundation that made it all possible.
+      content: `Twenty-six years after its release, White Pony remains essential listening for anyone interested in the evolution of heavy music. It proved that metal could be atmospheric, dynamic, and emotionally nuanced without sacrificing heaviness. And Abe Cunningham's drumming was the foundation that made it all possible.
 
 **What Made Abe's Performance Special:**
 
@@ -19398,7 +19398,7 @@ Finally, remember: serve the song. White Pony succeeded because every element �
 
 Abe Cunningham proved that metal drumming could be an art form — subtle, dynamic, and deeply musical. White Pony is his masterpiece, and its influence continues to shape heavy music today.
 
-🥁 *"What you don't play is just as important as what you do play."* — The philosophy that defined a genre. 🤘\`
+🥁 *"What you don't play is just as important as what you do play."* — The philosophy that defined a genre. 🤘`
     }
   },
 
@@ -19424,7 +19424,7 @@ Abe Cunningham proved that metal drumming could be an art form — subtle, dynam
     // Introduction
     intro: {
       title: 'The Architect of Modern Djent',
-      content: \`Matt Halpern doesn't just play drums for Periphery — he helped define an entire genre's rhythmic vocabulary. Since joining the Washington D.C.-based progressive metal pioneers in 2009, Halpern has become one of the most influential drummers in modern heavy music, his powerful grooves and intricate polyrhythms setting the template for what djent drumming could be.
+      content: `Matt Halpern doesn't just play drums for Periphery — he helped define an entire genre's rhythmic vocabulary. Since joining the Washington D.C.-based progressive metal pioneers in 2009, Halpern has become one of the most influential drummers in modern heavy music, his powerful grooves and intricate polyrhythms setting the template for what djent drumming could be.
 
 Born August 30, 1984, Halpern's journey to progressive metal stardom wasn't conventional. A graduate of Berklee College of Music, he brought a fusion of jazz education, rock sensibility, and technical precision to a genre that was just beginning to define itself. When he joined Periphery — the band founded by producer/guitarist Misha Mansoor that would become synonymous with djent — he found the perfect vehicle for his musical vision.
 
@@ -19434,7 +19434,7 @@ Beyond Periphery, Halpern has become one of modern drumming's great educators. H
 
 With six studio albums, countless world tours, and an ever-growing educational legacy, Matt Halpern represents the evolution of metal drumming: technical but musical, powerful but groovy, modern but timeless.
 
-This is the gear behind the djent revolution.\`,
+This is the gear behind the djent revolution.`,
       keyPoints: [
         'Mapex Drums endorsee since 2014',
         'Meinl Cymbals artist with extensive signature line collaboration',
@@ -19456,7 +19456,7 @@ This is the gear behind the djent revolution.\`,
         floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom'],
         shells: 'Maple/Walnut hybrid shells with SONIClear bearing edges'
       },
-      description: \`Matt Halpern's partnership with Mapex has produced one of the most recognizable setups in modern metal. The Saturn V series — Mapex's flagship line — provides the perfect balance of warmth, attack, and projection that djent drumming demands.
+      description: `Matt Halpern's partnership with Mapex has produced one of the most recognizable setups in modern metal. The Saturn V series — Mapex's flagship line — provides the perfect balance of warmth, attack, and projection that djent drumming demands.
 
 The Saturn V's hybrid maple/walnut construction gives Halpern the best of both worlds: maple's warmth and sustain combined with walnut's focused attack. For music that requires both thunderous low end and articulate ghost notes, this shell composition is ideal. The SONIClear bearing edges ensure maximum resonance and sustain, while the slightly thicker shells provide the durability needed for Periphery's aggressive playing style.
 
@@ -19464,7 +19464,7 @@ Halpern's 22" x 18" bass drum is deep but not unwieldy, delivering the punchy lo
 
 His tom configuration — 10", 12", 14", and 16" — spans a wide melodic range, essential for Periphery's harmonically sophisticated compositions. These aren't just accent drums; Halpern often uses tom patterns melodically, requiring instruments that can sing at various pitches.
 
-What's notable about Halpern's setup is how standard it appears. No massive kit, no exotic sizes — just well-chosen drums that serve the music. This philosophy extends to his entire approach: musical choices over flashy gear.\`,
+What's notable about Halpern's setup is how standard it appears. No massive kit, no exotic sizes — just well-chosen drums that serve the music. This philosophy extends to his entire approach: musical choices over flashy gear.`,
       notes: [
         'Maple/walnut hybrid shells for balanced tone',
         'SONIClear bearing edges maximize resonance',
@@ -19481,7 +19481,7 @@ What's notable about Halpern's setup is how standard it appears. No massive kit,
       model: 'Mapex Black Panther Design Lab / Various snares',
       size: '14" x 6" and 14" x 5.5" (primary rotation)',
       shell: 'Various (cherry, brass, steel)',
-      description: \`Matt Halpern rotates through several snare drums depending on the musical context, but his primary choices come from Mapex's Black Panther Design Lab series — premium snares designed for demanding professionals.
+      description: `Matt Halpern rotates through several snare drums depending on the musical context, but his primary choices come from Mapex's Black Panther Design Lab series — premium snares designed for demanding professionals.
 
 His most-used snare is a 14" x 6" model with exceptional crack and projection, essential for cutting through Periphery's dense guitar tones. The extra depth compared to standard 5.5" snares provides more body without losing articulation — crucial when you're playing grooves that require both ghost notes and powerful backbeats.
 
@@ -19489,7 +19489,7 @@ Halpern tunes his snares medium-high for maximum sensitivity and crack. In live 
 
 What's interesting about Halpern's snare philosophy is versatility. Unlike some drummers who find "their" snare and never deviate, he adapts to the song's needs. Periphery's music ranges from brutal to beautiful, and different snare voices serve different emotional goals.
 
-For recording, Halpern has been known to swap snares multiple times per album to find the perfect voice for each track. This attention to detail reflects his Berklee education — he thinks like an engineer and producer, not just a drummer.\`,
+For recording, Halpern has been known to swap snares multiple times per album to find the perfect voice for each track. This attention to detail reflects his Berklee education — he thinks like an engineer and producer, not just a drummer.`,
       tuningSetting: 'Medium-high for sensitivity and crack',
       heads: 'Evans UV1 (batter), Evans Hazy 300 (resonant)',
       estimatedValue: '$450-800 (Black Panther Design Lab snares)'
@@ -19508,7 +19508,7 @@ For recording, Halpern has been known to swap snares multiple times per album to
         { type: 'China/Effects', model: 'Meinl 18" Byzance Brilliant China', position: 'Above floor tom', notes: 'Trashy accents with quick decay' },
         { type: 'Stack', model: 'Meinl Trash Stack (various sizes)', position: 'Various', notes: 'Quick effect sounds for modern production' }
       ],
-      description: \`Matt Halpern's Meinl Byzance cymbal setup represents the modern standard for progressive metal. The Byzance series — handmade in Turkey using traditional methods — delivers the complexity, darkness, and musicality that Periphery's music demands.
+      description: `Matt Halpern's Meinl Byzance cymbal setup represents the modern standard for progressive metal. The Byzance series — handmade in Turkey using traditional methods — delivers the complexity, darkness, and musicality that Periphery's music demands.
 
 The foundation of his sound is the 14" Byzance Dual hi-hats. "Dual" cymbals feature two different surface finishes that create complex harmonics and a distinctive voice. These hi-hats are articulate enough for intricate patterns yet full enough for open crashes. They've become one of the most popular choices among modern metal drummers.
 
@@ -19516,7 +19516,7 @@ Halpern's crash selection spans the Byzance range. The Extra Dry crashes provide
 
 His 22" Byzance Extra Dry Medium Ride is the workhorse of his setup. It provides a clear, defined ping for riding patterns while controlling wash buildup. The Extra Dry finish gives it a slightly trashier, more complex character than traditional bright rides — perfect for music that blurs the line between metal and jazz.
 
-The effects cymbals — chinas and trash stacks — are essential for djent's rhythmic punctuation. That quick, trashy sound you hear on Periphery's syncopated accents? That's strategic stack and china placement.\`,
+The effects cymbals — chinas and trash stacks — are essential for djent's rhythmic punctuation. That quick, trashy sound you hear on Periphery's syncopated accents? That's strategic stack and china placement.`,
       notes: [
         'Byzance handmade in Turkey for complex tones',
         'Dual series for modern, versatile sound',
@@ -19533,7 +19533,7 @@ The effects cymbals — chinas and trash stacks — are essential for djent's rh
       hihatStand: 'Mapex Falcon Series Hi-Hat Stand',
       throne: 'Mapex Saddle Throne',
       stands: 'Mapex Falcon Series',
-      description: \`Matt Halpern's hardware choices reflect his philosophy: reliable, adjustable, and designed for demanding playing. The DW 9000 series pedals have been his choice for years, prized for their smooth action and infinite adjustability.
+      description: `Matt Halpern's hardware choices reflect his philosophy: reliable, adjustable, and designed for demanding playing. The DW 9000 series pedals have been his choice for years, prized for their smooth action and infinite adjustability.
 
 The DW 9000's Floating Rotor drive system provides a responsive, natural feel that suits Halpern's groove-focused approach. Unlike some extreme metal drummers who prefer the linear feel of direct drive, Halpern values the slight swing of chain drive for his pocket-heavy playing. The 9000's extensive customization options let him dial in exactly the feel he needs.
 
@@ -19541,7 +19541,7 @@ His Mapex Falcon series hardware provides rock-solid stability with fine-tuned p
 
 The throne is crucial for a drummer who values feel and groove. Halpern sits at a medium height, balanced for both power and finesse. His saddle throne design provides comfort for long performances while allowing the freedom of movement his dynamic playing requires.
 
-One notable aspect of Halpern's hardware setup is organization. His kit is positioned for maximum efficiency — cymbals placed close enough to access without overreaching, pedals adjusted for natural foot position, everything angled to serve the music rather than look impressive.\`,
+One notable aspect of Halpern's hardware setup is organization. His kit is positioned for maximum efficiency — cymbals placed close enough to access without overreaching, pedals adjusted for natural foot position, everything angled to serve the music rather than look impressive.`,
       notes: [
         'DW 9000 pedals for smooth, adjustable response',
         'Mapex Falcon series for premium stability',
@@ -19562,7 +19562,7 @@ One notable aspect of Halpern's hardware setup is organization. His kit is posit
         tip: 'Wood tip (teardrop)',
         material: 'Hickory'
       },
-      description: \`Matt Halpern keeps his stick choice straightforward: Vic Firth 5A or similar moderate-weight sticks. This might surprise fans expecting something specialized, but it reflects his musical philosophy — the drummer makes the sound, not the gear.
+      description: `Matt Halpern keeps his stick choice straightforward: Vic Firth 5A or similar moderate-weight sticks. This might surprise fans expecting something specialized, but it reflects his musical philosophy — the drummer makes the sound, not the gear.
 
 The 5A is drumming's most versatile size: light enough for dynamic control, heavy enough for power when needed. Halpern's Berklee training emphasized technique over brute force, and his stick choice reflects that. He generates power from proper mechanics rather than heavy sticks.
 
@@ -19570,7 +19570,7 @@ Hickory provides the durability and response he needs for Periphery's demanding 
 
 Halpern has been known to experiment with different tip shapes depending on the cymbal sound he's seeking. Teardrop tips offer versatility; barrel tips provide consistency. But his foundation remains the trusted 5A size that has served generations of drummers.
 
-What's instructive about Halpern's stick choice is the message: don't overcomplicate it. Find sticks that feel good in your hands and focus on making music. The magic happens in your hands and ears, not in the diameter of your drumsticks.\`,
+What's instructive about Halpern's stick choice is the message: don't overcomplicate it. Find sticks that feel good in your hands and focus on making music. The magic happens in your hands and ears, not in the diameter of your drumsticks.`,
       notes: [
         '5A size for versatility and control',
         'Hickory for durability and response',
@@ -19624,7 +19624,7 @@ What's instructive about Halpern's stick choice is the message: don't overcompli
     // Playing Technique Section
     technique: {
       title: 'The Halpern Approach',
-      content: \`Matt Halpern's technique represents a fusion of jazz education, progressive rock influence, and modern metal innovation. His playing is defined not by speed alone, but by how he makes complex music groove.
+      content: `Matt Halpern's technique represents a fusion of jazz education, progressive rock influence, and modern metal innovation. His playing is defined not by speed alone, but by how he makes complex music groove.
 
 **Groove Over Flash:**
 Halpern's defining characteristic is pocket. Even Periphery's most polyrhythmic passages have an underlying swing that makes them musical rather than mechanical. He achieves this through micro-timing — slightly pushing or pulling certain notes to create feel. This is jazz vocabulary applied to metal, and it's why Periphery's music connects emotionally rather than just impressing technically.
@@ -19642,7 +19642,7 @@ Like Gavin Harrison, Halpern makes odd times feel natural. Periphery frequently 
 Halpern's hi-hat and ride patterns are sophisticated — often implying multiple layers or time signatures simultaneously. His left hand is as active as his right, constantly adding texture and complexity. The hi-hat isn't just timekeeping; it's a melodic voice in the arrangement.
 
 **Bass Drum Precision:**
-His double bass work is powerful but musical. Rather than constant 16th notes, Halpern uses bass drum selectively to reinforce or counterpoint the guitar patterns. Every bass drum stroke has a purpose.\`
+His double bass work is powerful but musical. Rather than constant 16th notes, Halpern uses bass drum selectively to reinforce or counterpoint the guitar patterns. Every bass drum stroke has a purpose.`
     },
     // Related Content
     relatedDrummers: [53, 5, 47], // Matt Garstka, Tomas Haake, Gavin Harrison
@@ -19650,7 +19650,7 @@ His double bass work is powerful but musical. Rather than constant 16th notes, H
     relatedAlbums: ['obzen-drum-setup'],
     conclusion: {
       title: 'The Groove Revolutionary',
-      content: \`Matt Halpern represents everything modern metal drumming can be: technical but musical, powerful but dynamic, complex but groovy. He didn't just learn to play djent — he helped create its rhythmic vocabulary.
+      content: `Matt Halpern represents everything modern metal drumming can be: technical but musical, powerful but dynamic, complex but groovy. He didn't just learn to play djent — he helped create its rhythmic vocabulary.
 
 **What Makes Halpern Special:**
 
@@ -19676,7 +19676,7 @@ Finally, remember that Halpern's gear is good but not exotic. His Mapex/Meinl se
 
 Matt Halpern proved that progressive metal drumming doesn't have to sacrifice groove for complexity. That's his legacy: making djent feel good.
 
-🥁 *"Groove is king. Everything else serves the groove."* — The philosophy that defined a genre. 🤘\`
+🥁 *"Groove is king. Everything else serves the groove."* — The philosophy that defined a genre. 🤘`
     }
   }
 };

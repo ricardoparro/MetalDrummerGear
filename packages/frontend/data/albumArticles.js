@@ -18733,6 +18733,275 @@ That's the ultimate measure of a great drummer. And by that measure, Abe Cunning
 
 🥁 *"Let the song breathe."* — That's the wisdom. That's the approach. That's Abe Cunningham. 🥁\`
     }
+  },
+
+  // What's In Gavin Harrison's Prog Metal Arsenal - Issue #MetalForge
+  'whats-in-gavin-harrisons-kit': {
+    slug: 'whats-in-gavin-harrisons-kit',
+    articleType: 'drummer-kit',
+    drummer: 'Gavin Harrison',
+    drummerId: 47,
+    band: 'Porcupine Tree',
+    bands: ['Porcupine Tree', 'King Crimson', 'The Pineapple Thief'],
+    genre: 'Progressive Metal',
+    country: 'UK',
+    isAlbumArticle: true,
+    datePublished: '2026-05-04',
+    dateModified: '2026-05-04',
+    author: 'MetalForge Editorial',
+    // SEO
+    title: "What's In Gavin Harrison's Prog Metal Arsenal: Complete Gear Breakdown",
+    description: "Discover the exact drums, cymbals, and gear behind Gavin Harrison's polyrhythmic mastery. Complete breakdown of his Sonor SQ2 setup, signature snares, Zildjian K Custom Special Dry cymbals, and the philosophy that made him one of progressive rock's most influential drummers.",
+    seoKeywords: ['gavin harrison drum kit', 'gavin harrison setup', 'porcupine tree drummer gear', 'king crimson drums', 'gavin harrison sonor', 'gavin harrison cymbals', 'prog rock drums', 'fear of a blank planet drums', 'polyrhythmic drumming'],
+    ogImage: '/images/drummers/gavin-harrison.webp',
+    // Introduction
+    intro: {
+      title: 'The Polyrhythmic Master',
+      content: \`Gavin Harrison doesn't just play drums. He conducts conversations in polyrhythm, whispers ghost notes that reshape grooves, and navigates odd time signatures like they're the most natural thing in the world. For over two decades, he's been redefining what's possible behind a drum kit while making it look absolutely effortless.
+
+Born May 28, 1963, in Harrow, London, Harrison spent his early career as a session drummer before joining Porcupine Tree in 2002 — a move that would change progressive rock drumming forever. His work on albums like "In Absentia," "Deadwing," and especially "Fear of a Blank Planet" set new standards for what drumming could be in heavy, atmospheric music.
+
+But Harrison's influence extends far beyond Porcupine Tree. In 2008, he joined King Crimson — one of progressive rock's founding bands — becoming part of their revolutionary three-drummer lineup. He also revitalized The Pineapple Thief and released acclaimed educational material that's become required study for serious drummers worldwide.
+
+What makes Gavin Harrison unique isn't speed or power — it's sophistication. His playing combines jazz vocabulary with metal intensity, all wrapped in an almost scientific understanding of rhythm. He can make 7/8 feel like it's grooving harder than 4/4, and he can drop polyrhythmic layers that take repeated listens to fully comprehend.
+
+Modern Drummer magazine has recognized him multiple times as the best progressive rock drummer. Drummers from every genre cite him as an influence. And with Porcupine Tree's 2022 reunion and continued work with King Crimson and The Pineapple Thief, he's showing no signs of slowing down.
+
+This is the gear that enables his polyrhythmic wizardry.\`,
+      keyPoints: [
+        'Sonor Drums endorsee with signature snare drums',
+        'Zildjian K Custom Special Dry cymbal series',
+        'Vic Firth signature drumsticks',
+        'Multiple Modern Drummer awards',
+        'Revolutionary three-drummer lineup in King Crimson',
+        'Author of "Rhythmic Perspectives" and acclaimed educational materials'
+      ]
+    },
+    // Drum Kit Section
+    drumKit: {
+      title: "Gavin's Sonor SQ2 Setup",
+      brand: 'Sonor',
+      model: 'Sonor SQ2 Series',
+      finish: 'Custom finishes (varies)',
+      config: {
+        bassdrums: ['22" x 17" Bass Drum'],
+        toms: ['10" x 8" Tom', '12" x 9" Tom'],
+        floorToms: ['14" x 13" Floor Tom', '16" x 15" Floor Tom'],
+        shells: 'Premium maple with thin shells for resonance and sensitivity'
+      },
+      description: \`Gavin Harrison's Sonor SQ2 drums represent the pinnacle of German engineering applied to his exacting musical requirements. The SQ2 series offers truly custom drums — each kit is built to the artist's specifications, from shell material and thickness to bearing edges and hardware placement.
+
+For Harrison, the choice of Sonor makes perfect sense. These drums excel at what he does best: dynamic playing that ranges from the subtlest ghost notes to thunderous accents. The thin maple shells provide exceptional sensitivity and resonance, allowing every nuance of his playing to come through clearly.
+
+The 22" bass drum is smaller than what you might expect from a drummer who can play with such intensity. But Harrison doesn't need size for power — his technique generates all the volume he needs. The smaller kick allows for faster, more articulate patterns and sits perfectly in the progressive rock context where clarity is paramount.
+
+His tom configuration is standard for jazz-influenced drummers: two rack toms (10" and 12") and two floor toms (14" and 16"). But it's not about the number of drums — it's about how he uses them. Harrison treats his kit melodically, using toms as tuned instruments rather than just accent pieces.
+
+The SQ2's mounting system preserves resonance, and Sonor's legendary hardware provides rock-solid stability while allowing precise positioning. Every element of this kit is designed to respond to Harrison's incredibly nuanced touch.\`,
+      notes: [
+        'Thin maple shells for maximum sensitivity',
+        'Custom SQ2 specifications for his playing style',
+        'Standard 22" kick for articulation over raw power',
+        'Jazz-influenced 4-tom configuration',
+        'Premium Sonor hardware throughout'
+      ],
+      estimatedValue: '$6,000-9,000 (custom SQ2 kit)'
+    },
+    // Snare Section
+    snare: {
+      title: 'The Signature Instruments',
+      brand: 'Sonor',
+      model: 'Sonor Gavin Harrison Signature Snares',
+      size: '12" x 5" (Protean) and 14" x 5.25" (primary)',
+      shell: 'Brass with steel hoops',
+      description: \`Gavin Harrison's signature snare drums are perhaps his most significant gear contribution to the drumming world. He worked extensively with Sonor to develop snares that match his demanding requirements: sensitivity for ghost notes, projection for accents, and the ability to cut through any mix without being harsh.
+
+The primary signature snare is a 14" x 5.25" brass-shell drum that's become a benchmark for progressive rock drummers. The brass shell provides warmth and body that steel lacks, while still offering excellent projection. The .25" extra depth gives it just enough additional body compared to standard 5" snares.
+
+But the real innovation is the 12" Protean snare — a smaller drum designed specifically for the tight, articulate sounds Harrison often requires. This drum has become popular among studio drummers who need versatility and intimate sounds that larger snares can't achieve.
+
+Both snares feature carefully selected hardware and snare wire configurations that maximize sensitivity. Harrison tunes his snares medium to medium-high, allowing the drums to sing on soft passages while delivering crack on rimshots. The die-cast hoops provide consistent tension and excellent rim click sounds.
+
+What's remarkable about these signature drums is how well they translate Harrison's playing philosophy into physical instruments. They reward subtlety and punish sloppiness — exactly what a polyrhythmic master needs.\`,
+      tuningSetting: 'Medium to medium-high for sensitivity and projection',
+      heads: 'Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$600-900 (Gavin Harrison Signature Snares)'
+    },
+    // Cymbals Section
+    cymbals: {
+      title: 'The Zildjian K Custom Special Dry Arsenal',
+      brand: 'Zildjian',
+      series: 'K Custom Special Dry',
+      setup: [
+        { type: 'Hi-Hats', model: 'Zildjian 14" K Custom Special Dry Hi-Hats', position: 'Left side', notes: 'Dry, quick response for complex patterns' },
+        { type: 'Crash', model: 'Zildjian 16" K Custom Special Dry Crash', position: 'Left of hi-hats', notes: 'Fast decay for articulate accents' },
+        { type: 'Crash', model: 'Zildjian 18" K Custom Special Dry Crash', position: 'Over rack toms', notes: 'Primary crash with controlled wash' },
+        { type: 'Ride', model: 'Zildjian 21" K Custom Special Dry Ride', position: 'Right side', notes: 'The centerpiece: dry, complex, and defined' },
+        { type: 'China/Trash', model: 'Zildjian 18" K Custom Trash China', position: 'Above floor tom', notes: 'Trashy accents with musical decay' }
+      ],
+      description: \`The Zildjian K Custom Special Dry series was developed in direct collaboration with Gavin Harrison, and these cymbals have become some of the most sought-after in the progressive rock world. They represent a fundamentally different approach to cymbal sound: controlled, dry, and articulate rather than bright and washy.
+
+The philosophy behind Special Dry cymbals aligns perfectly with Harrison's playing. When you're layering complex polyrhythms and ghost notes, you need cymbals that get out of the way quickly. Traditional bright cymbals build up wash that obscures detail. Special Dry cymbals provide definition and then decay rapidly, leaving space for the next sound.
+
+The 21" Special Dry Ride is the cornerstone of Harrison's sound. It has a clear, defined ping on the bow, a complex but controlled wash, and a cutting bell. You can ride on it at any volume without it building up uncontrollably. This is essential for Harrison's dynamic approach — he can go from whisper-quiet patterns to thunderous accents without the cymbal working against him.
+
+The Special Dry Hi-Hats (14") are crisp and articulate, perfect for the intricate hi-hat work that defines progressive drumming. They respond instantly to changes in pressure and stick angle, allowing Harrison to create entire rhythmic conversations with just the hi-hats.
+
+His crashes (16" and 18" Special Dry) have fast attack and quick decay — they speak and get out of the way. The 18" Trash China adds controlled chaos when needed.
+
+These cymbals have influenced an entire generation of drummers who now seek drier, more controlled sounds for complex music.\`,
+      notes: [
+        'Developed in collaboration with Harrison',
+        'Dry, controlled sound for complex music',
+        '21" Special Dry Ride is the centerpiece',
+        'Fast decay prevents wash buildup',
+        'Industry standard for progressive drumming'
+      ],
+      estimatedValue: '$1,800-2,500 (full K Custom Special Dry setup)'
+    },
+    // Hardware Section  
+    hardware: {
+      title: 'The Foundation: Sonor Hardware',
+      pedals: 'Sonor Perfect Balance Pedal',
+      hihatStand: 'Sonor 600 Series Hi-Hat Stand',
+      throne: 'Sonor Professional Throne',
+      stands: 'Sonor 600 Series',
+      description: \`Gavin Harrison's hardware choices reflect his obsession with feel and response. The Sonor Perfect Balance Pedal is particularly significant — it's designed for drummers who need precise dynamic control rather than raw speed.
+
+The Perfect Balance concept allows for even response throughout the pedal's stroke, making soft ghost notes with the foot as easy as loud accents. For Harrison's polyrhythmic playing, where bass drum dynamics are crucial, this pedal is essential.
+
+His throne positioning is precise — he sits relatively low compared to many rock drummers, which gives him leverage for his powerful yet controlled playing style. This position also reduces fatigue during long performances and allows better access to all parts of his kit.
+
+The Sonor 600 Series hardware provides the stability needed for intense playing while allowing precise angle adjustments. Harrison positions his cymbals flat and close, minimizing unnecessary arm movement and maximizing efficiency.
+
+Every element of his hardware setup serves his playing philosophy: sensitivity, control, and the ability to express subtle dynamics that most drummers can't even hear, let alone play.\`,
+      notes: [
+        'Perfect Balance Pedal for dynamic control',
+        'Low throne position for leverage',
+        'Flat cymbal positioning for efficiency',
+        'All Sonor hardware for consistency'
+      ],
+      estimatedValue: '$1,200-1,600 (full hardware package)'
+    },
+    // Sticks Section
+    sticks: {
+      title: 'The Vic Firth Connection',
+      brand: 'Vic Firth',
+      model: 'Gavin Harrison Signature Sticks',
+      specs: {
+        length: '16"',
+        diameter: '.570"',
+        tip: 'Barrel tip',
+        material: 'Hickory'
+      },
+      description: \`The Vic Firth Gavin Harrison signature sticks are designed for versatility and control. At 16" with a .570" diameter, they're close to a 5A in weight but with unique taper characteristics that Harrison helped develop.
+
+The barrel tip provides a consistent sound across all playing surfaces — whether you're riding on a cymbal, playing ghost notes on the snare, or accenting on toms, the tip shape delivers predictable response. This consistency is crucial for Harrison's nuanced approach.
+
+The taper is designed for balance and rebound, allowing the sticks to do much of the work during fast, sustained patterns. This reduces fatigue and allows Harrison to play extended polyrhythmic passages without tension building up in his hands.
+
+The hickory wood provides durability without excessive weight. Harrison's playing, while often intense, relies on finesse rather than brute force, so durability isn't about withstanding powerful hits — it's about maintaining consistent feel over thousands of cymbal strokes.\`,
+      notes: [
+        'Barrel tip for consistent response',
+        'Custom taper for control',
+        'Hickory for durability',
+        'Designed for finesse playing'
+      ],
+      estimatedValue: '$15-18 per pair'
+    },
+    // Key Recordings Section
+    keyRecordings: {
+      title: 'Defining Recordings',
+      albums: [
+        { 
+          album: 'Fear of a Blank Planet',
+          artist: 'Porcupine Tree',
+          year: 2007,
+          significance: 'The benchmark. Harrison\'s playing on this album is studied by drummers worldwide. "Anesthetize" is 17 minutes of polyrhythmic mastery.',
+          tracksToStudy: ['Anesthetize', 'Fear of a Blank Planet', 'Way Out of Here']
+        },
+        { 
+          album: 'In Absentia',
+          artist: 'Porcupine Tree',
+          year: 2002,
+          significance: 'His debut with PT. Immediately established a new sonic identity for the band.',
+          tracksToStudy: ['Blackest Eyes', 'Trains', 'Strip the Soul']
+        },
+        { 
+          album: 'Deadwing',
+          artist: 'Porcupine Tree',
+          year: 2005,
+          significance: 'Progressive metal excellence with Harrison pushing his heavy playing to new extremes.',
+          tracksToStudy: ['Deadwing', 'Arriving Somewhere but Not Here', 'Halo']
+        },
+        { 
+          album: 'Closure/Continuation',
+          artist: 'Porcupine Tree',
+          year: 2022,
+          significance: 'The reunion album that proved Harrison hadn\'t lost a step after 12 years away.',
+          tracksToStudy: ['Harridan', 'Dignity', 'Walk the Plank']
+        },
+        { 
+          album: 'Dissolution',
+          artist: 'The Pineapple Thief',
+          year: 2018,
+          significance: 'Showcases Harrison\'s ability to elevate any band he joins.',
+          tracksToStudy: ['Try as I Might', 'All That You\'ve Got', 'Far Below']
+        }
+      ]
+    },
+    // Playing Technique Section
+    technique: {
+      title: 'The Harrison Approach',
+      content: \`Gavin Harrison's technique is built on foundations that many metal drummers might find surprising: jazz vocabulary, traditional grip fluency, and obsessive attention to dynamics. But it's these foundations that enable his unique polyrhythmic language.
+
+**Ghost Notes:**
+Harrison's use of ghost notes is perhaps his most influential technique. These quiet, almost subliminal notes create texture and groove that transforms simple patterns into complex conversations. He doesn't just add ghost notes — he uses them as melodic elements, often creating counterrhythms against the main groove.
+
+**Polyrhythmic Layering:**
+His signature approach involves layering different rhythmic cycles simultaneously. The hi-hat might be in 7, the bass drum in 4, and the snare accents in 3 — all interlocking to create grooves that feel natural but reveal complexity on closer listening.
+
+**Dynamic Range:**
+Few drummers exploit dynamics like Harrison. He can play so quietly that microphones barely register the sound, then explode to full volume in an instant. This range isn't just about volume — it's about emotion and tension.
+
+**Odd Time Signatures:**
+Harrison makes odd times feel natural. His secret? He doesn't think in odd time. He feels in phrases, using the unusual meters to create tension and release without making the music feel mathematical.
+
+**The Perfect Balance:**
+His bass drum technique reflects his overall philosophy: control over speed. Using the Perfect Balance pedal, he achieves bass drum dynamics that most drummers can only dream of — everything from barely audible ghost notes to thunderous accents, all with the same relaxed technique.\`
+    },
+    // Related Content
+    relatedDrummers: [14, 5, 13], // Danny Carey, Tomas Haake, Mike Portnoy
+    relatedArticles: ['prog-metal-drummers', 'best-polyrhythmic-drumming', 'whats-in-danny-careys-kit'],
+    relatedAlbums: ['fear-of-a-blank-planet-drum-setup'],
+    conclusion: {
+      title: 'The Polyrhythmic Standard',
+      content: \`Gavin Harrison represents the highest level of progressive drumming: technical mastery in complete service of music. He doesn't play complex for complexity's sake — every ghost note, every polyrhythmic layer, every dynamic shift serves the song's emotional arc.
+
+**What Makes Harrison Special:**
+
+- **Intelligence:** His approach to rhythm is almost academic, yet it never sounds mechanical. He's studied African polyrhythms, jazz vocabulary, and metal power — and synthesized them into something uniquely his own.
+
+- **Dynamics:** In a world where many drummers default to "loud," Harrison shows that the space between loud and soft is where the real music lives. His dynamic range makes every accent meaningful.
+
+- **Taste:** For all his technical ability, Harrison never overplays. He has the wisdom to know when to explode and when to whisper, when to add complexity and when to strip back to essentials.
+
+- **Influence:** An entire generation of progressive drummers cite Harrison as a primary influence. His educational materials have trained thousands, and his signature gear has become industry standard for complex music.
+
+**For Drummers Studying Harrison:**
+
+Start with dynamics. Practice playing your normal patterns at a whisper, then at full volume, then everything in between. Harrison's power comes from range, not raw force.
+
+Study his ghost notes. Listen to "Anesthetize" with headphones and try to count every snare stroke. You'll find there are far more than you initially heard — that's the ghost note layer that makes his grooves so textured.
+
+Explore polyrhythms, but don't force them. Harrison's genius is making complex time feel natural. The math is just scaffolding — the music is what matters.
+
+Finally, remember that Harrison didn't achieve this overnight. He spent decades developing his voice before joining Porcupine Tree at age 39. Mastery takes time.
+
+Gavin Harrison proves that drums can be an intellectual instrument without losing emotional impact. That's his legacy: showing that complexity and feeling aren't opposites — they can amplify each other.
+
+🥁 *"Dynamics are more important than speed."* — The wisdom of the polyrhythmic master. 🥁\`
+    }
   }
 };
 

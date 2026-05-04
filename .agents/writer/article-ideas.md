@@ -1292,4 +1292,64 @@
 
 ---
 
-*Last updated: 2026-05-03 17:10*
+### 💡 [IDEA-065] What's In Gavin Harrison's Prog Metal Arsenal
+
+**Type:** drummer-kit
+**SEO Keywords:** gavin harrison drum kit, porcupine tree drummer, king crimson drums, gavin harrison setup, prog rock drums
+**Search Volume:** VERY HIGH (Porcupine Tree reunion, King Crimson active, massive drum community following)
+**Data Available:** Yes (drummerId: 47)
+**Priority:** 5
+
+**Outline:**
+1. Introduction — The Polyrhythmic Master
+2. Current Sonor SQ2 Setup
+3. Signature Techniques (ghost notes, polyrhythms, dynamics)
+4. Meinl Byzance Cymbal Arsenal
+5. Evolution: Session Work → Porcupine Tree → King Crimson
+6. Where to Buy Similar Gear
+
+**Status:** WRITING (2026-05-04)
+
+---
+
+### 💡 [IDEA-066] White Pony Drum Setup: Abe Cunningham's Atmospheric Masterpiece
+
+**Type:** album-breakdown
+**SEO Keywords:** white pony drums, abe cunningham setup, deftones white pony gear, change drums deftones
+**Search Volume:** HIGH (Deftones classic album, recently published Abe's kit article — synergy!)
+**Data Available:** Yes (drummerId in DB, just wrote kit article)
+**Priority:** 4
+
+**Outline:**
+1. Introduction — The Album That Defined a Genre
+2. Studio Setup at Village Recorder & Sunset Sound
+3. "Change (In the House of Flies)" Breakdown
+4. "Digital Bath" — Ethereal Drumming
+5. Recording Techniques with Terry Date
+6. Gear Breakdown (drums, cymbals, electronics)
+
+**Status:** IDEA (added 2026-05-04)
+
+---
+
+### 💡 [IDEA-067] What's In Matt Halpern's Periphery Kit
+
+**Type:** drummer-kit
+**SEO Keywords:** matt halpern drum kit, periphery drummer, djent drums, matt halpern setup, meinl drums
+**Search Volume:** HIGH (djent pioneer, massive YouTube presence, Drumeo collaborator)
+**Data Available:** Partial (can research)
+**Priority:** 4
+
+**Outline:**
+1. Introduction — The Djent Pioneer
+2. Current Mapex Saturn Setup
+3. Meinl Cymbal Arsenal (Byzance, Pure Alloy)
+4. Signature Techniques (groove-focused djent, dynamics)
+5. How He Shaped the Periphery Sound
+6. Where to Buy Similar Gear
+
+**Status:** IDEA (added 2026-05-04)
+
+---
+
+*Last updated: 2026-05-04 09:13*

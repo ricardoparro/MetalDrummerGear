@@ -300,6 +300,8 @@
 | 2026-05-03 | What's In Mikkey Dee's Motörhead/Scorpions Arsenal | /articles/whats-in-mikkey-dees-kit | - |
 | 2026-05-03 | What's In Abe Cunningham's Deftones Arsenal | /articles/whats-in-abe-cunninghams-kit | - |
 | 2026-05-04 | What's In Gavin Harrison's Prog Metal Arsenal | /articles/whats-in-gavin-harrisons-kit | - |
+| 2026-05-04 | White Pony Drum Setup: Abe Cunningham | /articles/white-pony-drum-setup | - |
+| 2026-05-04 | What's In Matt Halpern's Periphery Kit | /articles/whats-in-matt-halperns-kit | - |
 
 ---
 
@@ -1313,7 +1315,7 @@
 
 ---
 
-### 💡 [IDEA-066] White Pony Drum Setup: Abe Cunningham's Atmospheric Masterpiece
+### ✅ [IDEA-066] White Pony Drum Setup: Abe Cunningham's Atmospheric Masterpiece
 
 **Type:** album-breakdown
 **SEO Keywords:** white pony drums, abe cunningham setup, deftones white pony gear, change drums deftones
@@ -1329,11 +1331,11 @@
 5. Recording Techniques with Terry Date
 6. Gear Breakdown (drums, cymbals, electronics)
 
-**Status:** IDEA (added 2026-05-04)
+**Status:** PUBLISHED (2026-05-04) — /articles/white-pony-drum-setup
 
 ---
 
-### 💡 [IDEA-067] What's In Matt Halpern's Periphery Kit
+### ✅ [IDEA-067] What's In Matt Halpern's Periphery Kit
 
 **Type:** drummer-kit
 **SEO Keywords:** matt halpern drum kit, periphery drummer, djent drums, matt halpern setup, meinl drums
@@ -1349,8 +1351,8 @@
 5. How He Shaped the Periphery Sound
 6. Where to Buy Similar Gear
 
-**Status:** IDEA (added 2026-05-04)
+**Status:** PUBLISHED (2026-05-04) — /articles/whats-in-matt-halperns-kit
 
 ---
 
-*Last updated: 2026-05-04 09:25*
+*Last updated: 2026-05-04 17:15*

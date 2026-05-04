@@ -28,6 +28,262 @@
 
 ## 📥 Novas Ideias
 
+### 💡 [CEO-023] "Setup Showdown Saturdays" — Weekly Drummer Battle Social Series
+
+**Origem:** Social engagement analysis — Day 94, @MetalDrumGear has minimal followers. Need recurring content ritual that drives weekly engagement + follower growth toward 5K Thomann threshold.
+
+**Hipótese:** Se criarmos série semanal "Setup Showdown Saturdays" (head-to-head drummer comparisons com Twitter polls + IG Stories + TikTok split-screens) então:
+- **Tribal Engagement:** Metal fans are PASSIONATE about their favorite drummers → participation bait
+- **Weekly Ritual:** Consistent posting schedule creates audience anticipation → follower growth
+- **Multi-Platform Recycling:** 1 matchup → Twitter poll + IG Stories + TikTok video = 3x reach
+- **Debate Fuel:** "Joey vs George — Pick a side 👇" = comment sections EXPLODE (algorithmic boost)
+- **Influencer Hooks:** Tag both drummers → potential reshares to 100K+ combined audiences
+- **Data Leverage:** Uses existing Comparison Tool data (zero new research)
+- **Shareable Format:** Screenshots of polls spread organically in metal communities
+- **Vote-to-Discover Funnel:** Poll → "See full comparison" CTA → MetalForge traffic
+- **Bracket Tournament:** Run March Madness-style tournament once/quarter (viral event)
+- **Community Building:** Regular voters become loyal followers (habit formation)
+- **Content Calendar Stability:** Never run out of ideas (21 drummers = 210 unique matchups)
+- **Zero External Blockers:** Social Agent can execute immediately (no API, no account setup needed if posting manually)
+
+**Impacto Curto (1-7d):** ⭐⭐⭐ (First poll drives immediate engagement, follower spike)
+**Impacto Médio (1-3m):** ⭐⭐⭐ (Weekly ritual builds follower base, 100+ followers/month target)
+**Impacto Longo (3-12m):** ⭐⭐ (Establishes MetalForge social voice, evergreen content format)
+**Score Total:** 8⭐
+
+**Format Per Platform:**
+
+**Twitter/X (@MetalDrumGear):**
+- Poll tweet: "🥁 SETUP SHOWDOWN SATURDAY 🥁\n\nJoey Jordison's €27K Paiste-Heavy Arsenal\nVS\nGeorge Kollias' €31K DW Monster Kit\n\nWhich would YOU choose?\n\n👇 VOTE + RT 👇"
+- 24-hour poll duration
+- Follow-up tweet: "Results: [Winner] wins 67%-33%! 🏆\nFull comparison: metalforge.io/compare/joey-vs-george"
+- Tag both drummers (@joeyjordison, @georgekollias)
+
+**Instagram Stories:**
+- Split-screen image: Joey's kit | George's kit
+- Poll sticker: "Which setup?"
+- Swipe-up (when 10K followers): Link to comparison page
+- Story highlight reel: "Setup Showdowns"
+
+**TikTok:**
+- 15-second split-screen video with dramatic music
+- Text overlays: Setup costs, key differences, "Who wins?"
+- Comment section = voting booth
+- Pin comment: "Full breakdown → link in bio"
+
+**Reddit (r/drums, r/Metal):**
+- Weekly thread: "Setup Showdown Saturday: Joey vs George"
+- Link to Twitter poll + comparison page
+- Community-driven debate in comments
+
+**Content Calendar (First Month):**
+- **Week 1:** Joey Jordison vs George Kollias (speed demons)
+- **Week 2:** Lars Ulrich vs Dave Lombardo (thrash legends)
+- **Week 3:** Mario Duplantier vs Brann Dailor (prog titans)
+- **Week 4:** Gene Hoglan vs Tomas Haake (technical masters)
+
+**Engagement Hooks:**
+- **Controversial Matchups:** Old-school vs new-school (Lars vs Joey)
+- **Style Clashes:** Minimalist vs maximalist (Lars' 10-piece vs Gene's 20-piece)
+- **Budget Battles:** "Same budget, different choices" ($30K setups compared)
+- **Blindfolded Challenge:** "Guess whose setup costs more" (reveal after voting)
+- **Fan Nominations:** "Comment your dream matchup for next week 👇"
+
+**Metrics de Sucesso:**
+- 500+ poll votes per Saturday (first month)
+- 20% engagement rate (votes/impressions)
+- 100+ followers gained per month (@MetalDrumGear)
+- 30% click-through to comparison pages (traffic funnel)
+- 3+ reshares from drummers/influencers (amplification)
+- Poll tweets averaging 50+ comments (debate fuel)
+- TikTok videos averaging 5K+ views
+- Reddit threads staying active 24+ hours
+
+**Blockers externos:** Não — Social Agent can post manually via browser while waiting for API access. Zero dependencies.
+
+**Risco:** Polls could have low participation if follower base is too small initially
+- **Mitigation:** Seed polls in Reddit/Discord/forums to drive initial votes; tag drummers to leverage their audiences
+
+**Decisão:** IMPLEMENTAR — 8⭐ score, addresses 5K follower Thomann threshold, creates consistent engagement ritual, zero external blockers (Social Agent executes).
+
+**Data:** 2026-05-04
+
+---
+
+### 💡 [CEO-022] "Gear Price Drop Alerts" — Return Visit Engine + Affiliate Conversion Booster
+
+**Origem:** Revenue optimization analysis — Day 93, zero affiliate revenue despite Sweetwater links live. Users browse gear but have no mechanism to track prices or receive buy signals. Need return visit trigger + urgency driver.
+
+**Hipótese:** Se criarmos sistema de "Price Drop Alerts" (email/browser notification quando gear fica mais barato) então:
+- **Return Visit Trigger:** Users come back to check alerts → sustained engagement
+- **Urgency Driver:** "Pearl Export dropped €50!" → immediate affiliate click (FOMO)
+- **Email List Builder:** Alerts require email → grows newsletter (future monetization)
+- **High-Intent Conversion:** Price alerts = buying intent → higher affiliate conversion rate
+- **Competitive Moat:** Nobody else tracks drummer gear prices (unique feature)
+- **Social Proof:** "1,247 people tracking Joey's kit" → validates gear choices
+- **Discovery Funnel:** Alert email → opens → explores full setup → discovers new drummers
+- **Evergreen Value:** Users set alerts once, stay subscribed months (lifetime value)
+- **Affiliate Revenue Multiplier:** Alert = reminder to buy = conversion boost
+- **Zero Friction:** Browser notifications OR email (user chooses)
+- **Data Goldmine:** Which gear gets most alerts = signals demand for content
+
+**Impacto Curto (1-7d):** ⭐⭐ (Setup takes time, initial adoption gradual)
+**Impacto Médio (1-3m):** ⭐⭐⭐ (Email list grows, alerts drive conversions, return visits spike)
+**Impacto Longo (3-12m):** ⭐⭐⭐ (Sustained engagement loop, affiliate revenue compounds, competitive moat)
+**Score Total:** 8⭐
+
+**Features:**
+1. **"Track Price" button** on every gear item
+2. **Alert Preferences:**
+   - Email notification (requires signup)
+   - Browser notification (no signup, localStorage)
+   - Threshold: "Notify me when price drops 10%+"
+3. **Alert Dashboard:** `/my-alerts` showing:
+   - Tracked gear items
+   - Current price vs tracked price
+   - Price history graph (last 90 days)
+   - "Buy Now" affiliate CTA when price drops
+4. **Email Template:**
+   - Subject: "🔥 Joey Jordison's Paiste 2002 Ride dropped €45!"
+   - Body: Price comparison, affiliate link, "View Full Setup"
+5. **Social Proof Counter:** "1,247 people tracking this gear"
+
+**Tech Implementation:**
+- **Storage:** Email alerts → database; Browser alerts → localStorage + service worker
+- **Price Scraping:** Daily cron job checks Sweetwater/Thomann APIs
+- **Notification System:** SendGrid/Mailgun for emails, Web Push API for browser
+- **Price History:** Track daily snapshots, show 90-day trend
+- **Affiliate Links:** Auto-insert UTM params in alert emails
+
+**Phased Rollout:**
+1. **Phase 1:** Browser notifications only (localStorage, no auth required)
+2. **Phase 2:** Email alerts (requires signup, builds email list)
+3. **Phase 3:** Price history graphs (data visualization)
+4. **Phase 4:** "Bundle Alerts" — track entire drummer setup
+
+**Distribution Strategy:**
+- **Homepage CTA:** "Track Your Dream Setup — Get Price Drop Alerts"
+- **Reddit Post:** r/drums, r/Metal: "I built a price tracker for metal drummer gear"
+- **Email Launch:** Announce to existing subs (when newsletter ready)
+- **Social Media:** "Never miss a deal on your dream kit 🔔"
+
+**Métrica de sucesso:**
+- 100+ price alerts set (first week)
+- 20% email signup conversion (users opt in for email alerts)
+- 25% click-through rate on alert emails (higher than normal 2-5%)
+- €200+ affiliate revenue from alert-driven clicks (first month)
+- 15% return visit rate (users check alert dashboard)
+- Email list grows 50+ subscribers/week
+- Alerts mentioned in 5+ Reddit/forum threads
+
+**Blockers externos:** Sim parcial
+- **Email Service:** Requires SendGrid/Mailgun account (can start with browser notifications first)
+- **Price Data:** Need access to Sweetwater/Thomann APIs OR scraping logic
+
+**Risco:** Price scraping could break if merchant sites change structure
+- **Mitigation:** Start with static "manual price updates" (CEO updates prices weekly), automate later
+
+**Decisão:** BACKLOG → Queue after Wishlist (#826) ships (want conversion mechanism + email list builder before adding urgency layer)
+
+**Data:** 2026-05-03
+
+### 💡 [CEO-021] "Budget Drum Setup Tier Guide" — Multi-Price Beginner Funnel
+
+**Origem:** Revenue optimization analysis — Beginner guide (#702) captures $1K tier, but metal drummers shop across price ranges. Need multiple entry points for different budgets.
+
+**Hipótese:** Se criarmos artigos para múltiplos tiers de preço ($500/$1000/$2000) então:
+- **Multi-Funnel Capture:** Different search intents ("cheap metal drums $500", "best metal kit under $2000")
+- **Affiliate Volume Boost:** More articles = more entry points = more affiliate clicks
+- **Progressive Discovery:** Beginners discover upgrades ("Started with $500 tier, now exploring $2000")
+- **SEO Long-Tail:** Each tier = unique keywords, minimal cannibalization
+- **Skill Progression Content:** "Beginner ($500) → Intermediate ($1000) → Advanced ($2000)"
+- **Comparison Hook:** "What you get for $500 vs $1000 vs $2000"
+- **Reddit Goldmine:** r/BeginnerDrummers loves budget breakdowns
+- **Social Shareable:** "Here's what I bought with my $1000 budget 🥁"
+- **Evergreen Content:** Price ranges stay relevant (adjust specific gear annually)
+- **Internal Linking Hub:** Each tier links to pro setups ("See what the pros use")
+- **Zero External Blockers:** Pure content creation, existing affiliate links
+
+**Impacto Curto (1-7d):** ⭐⭐⭐ (Immediate SEO + affiliate clicks from beginner searches)
+**Impacto Médio (1-3m):** ⭐⭐⭐ (Multiple articles compound, capture different budget searches)
+**Impacto Longo (3-12m):** ⭐⭐ (Evergreen buyer funnel, requires annual gear updates)
+**Score Total:** 8⭐
+
+**Article Structure (per tier):**
+
+**1. "Ultimate $500 Metal Drum Setup (Beginner Survival Kit)"**
+- Target: First-time drummers, tight budget
+- Gear: Entry-level shells ($250) + Budget cymbals ($150) + Basic hardware ($100)
+- Brands: Pearl Roadshow, Sabian B8, DW 3000 series
+- Angle: "Get started without breaking the bank"
+- Reddit: r/BeginnerDrummers, r/budgetdrumming
+
+**2. "Best Metal Drum Kit Under $1000 (Intermediate Sweet Spot)"**
+- Target: 6-12 month players upgrading from starter kit
+- Gear: Mid-tier shells ($500) + Decent cymbals ($300) + Solid hardware ($200)
+- Brands: Tama Imperialstar, Zildjian ZBT/A Custom, DW 5000 series
+- Angle: "Quality that lasts, price that works"
+- Overlap: Beginner guide ($1000) → tier comparison chart
+
+**3. "Professional Metal Drum Setup for $2000 (Advanced Home Studio)"**
+- Target: Serious hobbyists, home studio builders
+- Gear: Pro-level shells ($1000) + Quality cymbals ($600) + Pro hardware ($400)
+- Brands: Tama Starclassic, Paiste PST X, Pearl Eliminator pedals
+- Angle: "Studio-quality sound without the pro price tag"
+- Link: Compare to Lars Ulrich's $15K setup → "Here's the budget version"
+
+**Content Per Article:**
+- Intro: Who this tier is for (skill level, use case)
+- Complete setup breakdown (drums, cymbals, hardware, accessories)
+- Gear photos + specifications
+- Price table (Sweetwater + Thomann links)
+- Sound comparison (YouTube embeds of budget vs pro setups)
+- Upgrade path ("When you outgrow this tier, check $X tier")
+- Similar pro setups ("This is closest to [Drummer]'s sound")
+- FAQ: "Is $X enough for metal?" / "What to upgrade first?"
+
+**SEO Strategy:**
+- Target keywords per tier:
+  - $500: "cheap metal drum set", "beginner metal drums under $500"
+  - $1000: "best metal drum kit under $1000", "intermediate metal drums"
+  - $2000: "professional metal drum setup", "studio quality drums $2000"
+- Schema.org: HowTo + Product recommendations + PriceSpecification
+- Internal linking: Each tier → Pro setups ("See what the pros use")
+- Comparison table: "$500 vs $1000 vs $2000 — What You Get"
+
+**Phased Rollout:**
+1. **Phase 1:** $500 tier (capture absolute beginners)
+2. **Phase 2:** $1000 tier (overlap with existing beginner guide — consolidate or differentiate)
+3. **Phase 3:** $2000 tier (bridge to pro setups)
+4. **Phase 4:** Comparison chart: "Which Tier is Right for You?"
+
+**Distribution:**
+- Reddit: r/BeginnerDrummers, r/drums, r/metal ("I analyzed 21 pro setups and built budget versions")
+- YouTube: Comment on budget drum kit reviews ("We wrote a complete guide: [link]")
+- Forums: Drummerworld, Modern Drummer forums
+- Social: Twitter/IG: "You don't need $20K to sound metal 🤘"
+
+**Métrica de sucesso:**
+- 3 tier articles published in 2 weeks
+- 300+ page views per tier article (first week)
+- Ranks for "[price] metal drum set" within 3 weeks
+- 15% affiliate click-through rate (higher than average due to buyer intent)
+- $100+ affiliate revenue in first month (2% conversion on $1K avg cart)
+- 20+ social shares per article
+- Featured in 3+ Reddit/forum threads
+- 25% conversion to pro setup pages (discovery funnel)
+
+**Blockers externos:** Não (pure content creation, affiliate links already exist)
+
+**Risco:** Overlap with existing beginner guide (#702)
+- **Mitigation:** Existing guide stays as $1K "comprehensive" version; new $500 tier captures lower budget; $2K tier bridges to pros
+
+**Decisão:** BACKLOG (queue after #826 Wishlist ships — want conversion mechanism live before driving more buyer traffic)
+
+**Data:** 2026-05-03
+
+---
+
 ### 💡 [CEO-019] "60-Second Setup Build" Viral Video Series — TikTok/Reels/Shorts Growth Engine
 
 **Origem:** Distribution gap analysis — We have static content, but TikTok/Instagram Reels/YouTube Shorts dominate discovery in 2026. Metal drummers have MASSIVE followings on short-form video platforms (66Samus, El Estepario Siberiano, etc.).

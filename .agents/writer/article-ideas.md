@@ -299,6 +299,7 @@
 | 2026-05-03 | What's In Sean Reinert's Progressive Arsenal (Tribute) | /articles/whats-in-sean-reinerts-kit | - |
 | 2026-05-03 | What's In Mikkey Dee's Motörhead/Scorpions Arsenal | /articles/whats-in-mikkey-dees-kit | - |
 | 2026-05-03 | What's In Abe Cunningham's Deftones Arsenal | /articles/whats-in-abe-cunninghams-kit | - |
+| 2026-05-04 | What's In Gavin Harrison's Prog Metal Arsenal | /articles/whats-in-gavin-harrisons-kit | - |
 
 ---
 
@@ -1308,7 +1309,7 @@
 5. Evolution: Session Work → Porcupine Tree → King Crimson
 6. Where to Buy Similar Gear
 
-**Status:** WRITING (2026-05-04)
+**Status:** PUBLISHED (2026-05-04) — /articles/whats-in-gavin-harrisons-kit
 
 ---
 
@@ -1352,4 +1353,4 @@
 
 ---
 
-*Last updated: 2026-05-04 09:13*
+*Last updated: 2026-05-04 09:25*

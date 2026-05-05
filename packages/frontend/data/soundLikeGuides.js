@@ -204,18 +204,18 @@ This guide will break down exactly how to capture Joey's sound—from his aggres
     videos: [
       {
         title: "Joey Jordison Drum Cam - People = Shit (Live)",
-        url: "https://www.youtube.com/watch?v=example1",
+        url: "https://www.youtube.com/watch?v=zRS9uKs3Rlk",
         description: "Watch Joey's technique and energy on one of Slipknot's most demanding songs"
       },
       {
-        title: "Joey Jordison Isolated Drums - Duality",
-        url: "https://www.youtube.com/watch?v=example2",
-        description: "Hear every hit clearly without the rest of the band"
+        title: "Joey Jordison Drum Solo - Disasterpieces (Official)",
+        url: "https://www.youtube.com/watch?v=tUibKh0Z--c",
+        description: "The legendary rotating-platform solo on Slipknot's Disasterpieces DVD"
       },
       {
-        title: "Joey Jordison Drum Solo",
-        url: "https://www.youtube.com/watch?v=example3",
-        description: "Joey's technical skills on full display in a live solo setting"
+        title: "Joey Jordison Drum Cam Compilation",
+        url: "https://www.youtube.com/watch?v=RdXMcj7xv20",
+        description: "Joey's technical skills on full display across multiple performances"
       }
     ],
     // Recommended Gear by Budget
@@ -475,18 +475,18 @@ But don't let the complexity fool you—Danny's playing always serves the music.
     videos: [
       {
         title: "Danny Carey - Pneuma (Drum Cam)",
-        url: "https://www.youtube.com/watch?v=example1",
+        url: "https://www.youtube.com/watch?v=FssULNGSZIA",
         description: "12 minutes of Danny's technique on Tool's epic opener"
       },
       {
-        title: "Danny Carey Clinic - Polyrhythms Explained",
-        url: "https://www.youtube.com/watch?v=example2",
-        description: "Danny breaks down his approach to complex rhythms"
+        title: "Danny Carey - Forty Six & 2 (Isolated Drums)",
+        url: "https://www.youtube.com/watch?v=5OxLxJAGAuw",
+        description: "Hear every hit on a polyrhythmic classic"
       },
       {
-        title: "Tool - Lateralus (Live)",
-        url: "https://www.youtube.com/watch?v=example3",
-        description: "The Fibonacci song performed flawlessly live"
+        title: "Danny Carey Drum Clinic",
+        url: "https://www.youtube.com/watch?v=FQEqHB0bfhM",
+        description: "Rare clinic footage showing technique and philosophy"
       }
     ],
     budgetSetups: {
@@ -733,14 +733,14 @@ This guide focuses on capturing Lars's classic sound—the aggressive attack, th
     },
     videos: [
       {
-        title: "Metallica - Master of Puppets (Live)",
-        url: "https://www.youtube.com/watch?v=example1",
-        description: "Lars driving the classic thrash anthem"
+        title: "Metallica - For Whom The Bell Tolls (Lars Cam, Cunning Stunts)",
+        url: "https://www.youtube.com/watch?v=Z_qLd2uj21w",
+        description: "Lars driving a classic Metallica anthem live"
       },
       {
-        title: "Lars Ulrich Drum Cam - Enter Sandman",
-        url: "https://www.youtube.com/watch?v=example2",
-        description: "Watch Lars's groove approach on Metallica's biggest hit"
+        title: "Lars Ulrich Drum Cam - Sad But True (Amsterdam 2023)",
+        url: "https://www.youtube.com/watch?v=A96QtqEpqUA",
+        description: "Watch Lars's modern groove approach captured up close"
       }
     ],
     budgetSetups: {
@@ -977,14 +977,14 @@ What makes Dave exceptional isn't just speed—it's musicality. His playing brea
     },
     videos: [
       {
-        title: "Dave Lombardo - Angel of Death (Live)",
-        url: "https://www.youtube.com/watch?v=example1",
+        title: "Dave Lombardo - Angel of Death (Live 1986)",
+        url: "https://www.youtube.com/watch?v=K6_zsJ8KPP0",
         description: "Watch Dave attack thrash metal's defining song"
       },
       {
-        title: "Dave Lombardo Clinic - Double Bass Technique",
-        url: "https://www.youtube.com/watch?v=example2",
-        description: "Dave breaks down his legendary technique"
+        title: "Dave Lombardo - War Ensemble Drum Cam (Yankee Stadium)",
+        url: "https://www.youtube.com/watch?v=3ivOfkqFmxg",
+        description: "Dave's legendary double-bass technique on a stadium stage"
       }
     ],
     budgetSetups: {
@@ -1223,14 +1223,9 @@ Mario's approach to dynamics—from whisper-quiet tribal sections to crushing de
     },
     videos: [
       {
-        title: "Gojira - Flying Whales (Live at Red Rocks)",
-        url: "https://www.youtube.com/watch?v=example1",
-        description: "Mario's dynamics on full display in an epic setting"
-      },
-      {
-        title: "Mario Duplantier Drum Playthrough - Stranded",
-        url: "https://www.youtube.com/watch?v=example2",
-        description: "Studio-quality view of Mario's technique"
+        title: "Gojira - Flying Whales (Live, Mario Duplantier)",
+        url: "https://www.youtube.com/watch?v=BGHlZwMYO9g",
+        description: "Mario's dynamics on full display in an epic live setting"
       }
     ],
     budgetSetups: {
@@ -1469,14 +1464,14 @@ Mastering Tomas's style requires understanding polyrhythms at a deep level and d
     },
     videos: [
       {
-        title: "Tomas Haake - Bleed (Drum Playthrough)",
-        url: "https://www.youtube.com/watch?v=example1",
-        description: "Watch Tomas perform the legendary 'Bleed' in studio"
+        title: "Tomas Haake - Bleed (Wincent Drumsticks)",
+        url: "https://www.youtube.com/watch?v=bAJ1WTGNISk",
+        description: "Watch Tomas perform the legendary 'Bleed' (8M+ views)"
       },
       {
-        title: "Meshuggah - Clockworks (Live)",
-        url: "https://www.youtube.com/watch?v=example2",
-        description: "Extended polyrhythmic performance live"
+        title: "Meshuggah - Bleed (Official Music Video)",
+        url: "https://www.youtube.com/watch?v=qc98u-eGzlc",
+        description: "The studio recording that redefined extreme drumming"
       }
     ],
     budgetSetups: {
@@ -1715,14 +1710,14 @@ At 6'3" and over 250 pounds, Gene's physical presence translates to a massive dr
     },
     videos: [
       {
-        title: "Gene Hoglan - Isolated Drums - Crystal Mountain",
-        url: "https://www.youtube.com/watch?v=example1",
-        description: "Hear every precision hit without the band"
+        title: "Gene Hoglan - The Philosopher (Death) Playthrough",
+        url: "https://www.youtube.com/watch?v=eGope68pHf0",
+        description: "Hear Gene's precision on a Death classic"
       },
       {
-        title: "Gene Hoglan Clinic - The Atomic Clock Method",
-        url: "https://www.youtube.com/watch?v=example2",
-        description: "Gene breaks down his approach to precision"
+        title: "Gene Hoglan - Skeksis (Strapping Young Lad) Playthrough",
+        url: "https://www.youtube.com/watch?v=-eaIvh6ELVg",
+        description: "Gene's atomic-clock approach to extreme drumming"
       }
     ],
     budgetSetups: {
@@ -1961,13 +1956,13 @@ This guide explores how to develop Brann's flowing style while maintaining the g
     },
     videos: [
       {
-        title: "Brann Dailor - Oblivion (Drum Cam)",
-        url: "https://www.youtube.com/watch?v=example1",
+        title: "Brann Dailor (Mastodon) - Hearts Alive (Drum Cam)",
+        url: "https://www.youtube.com/watch?v=wNFyE2FlWjo",
         description: "Watch Brann's flowing style on a prog metal masterpiece"
       },
       {
-        title: "Mastodon - Blood and Thunder (Live)",
-        url: "https://www.youtube.com/watch?v=example2",
+        title: "Brann Dailor (Mastodon) - Blood and Thunder",
+        url: "https://www.youtube.com/watch?v=q8B4mSW5e88",
         description: "Raw power and creativity in one performance"
       }
     ],
@@ -2207,14 +2202,14 @@ This guide explores Matt's groove-first approach to modern progressive metal.`,
     },
     videos: [
       {
-        title: "Matt Halpern - Marigold (Playthrough)",
-        url: "https://www.youtube.com/watch?v=example1",
+        title: "Periphery - Marigold (Drum Playthrough)",
+        url: "https://www.youtube.com/watch?v=DAOcYC2uEJk",
         description: "Watch Matt's groove-focused approach to modern metal"
       },
       {
-        title: "Matt Halpern Clinic - The Groove Within",
-        url: "https://www.youtube.com/watch?v=example2",
-        description: "Matt explains his approach to groove in technical music"
+        title: "Periphery - The Bad Thing (Drum Playthrough)",
+        url: "https://www.youtube.com/watch?v=8dfZo-zmNaU",
+        description: "Matt's groove and precision in a technical context"
       }
     ],
     budgetSetups: {
@@ -2453,14 +2448,14 @@ This guide explores how to capture Chris's powerful groove metal style.`,
     },
     videos: [
       {
-        title: "Chris Adler - Laid to Rest (Playthrough)",
-        url: "https://www.youtube.com/watch?v=example1",
+        title: "Lamb of God - Laid to Rest (Live Drum Cam)",
+        url: "https://www.youtube.com/watch?v=oqdZpxkzNvc",
         description: "Watch Chris on LOG's signature track"
       },
       {
-        title: "Chris Adler Clinic - Groove Metal Fundamentals",
-        url: "https://www.youtube.com/watch?v=example2",
-        description: "Chris explains his approach to groove metal"
+        title: "Lamb of God - Redneck (Live Drum Cam)",
+        url: "https://www.youtube.com/watch?v=HL9kaJZw8iw",
+        description: "Chris's groove metal approach in concert"
       }
     ],
     budgetSetups: {

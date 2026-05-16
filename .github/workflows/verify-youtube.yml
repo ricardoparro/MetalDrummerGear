@@ -1,0 +1,29 @@
+name: Verify YouTube Videos
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Weekly, Mondays 09:00 UTC
+    - cron: '0 9 * * 1'
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    name: Scan for broken YouTube embeds
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run YouTube verifier
+        run: node scripts/verify-youtube-ids.cjs --json youtube-verification-report.json
+
+      - name: Upload report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: youtube-verification-report
+          path: youtube-verification-report.json
+          retention-days: 30

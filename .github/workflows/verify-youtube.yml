@@ -5,6 +5,18 @@ on:
   schedule:
     # Weekly, Mondays 09:00 UTC
     - cron: '0 9 * * 1'
+  push:
+    branches:
+      - main
+      - 'claude/**'
+    paths:
+      - '.github/workflows/verify-youtube.yml'
+      - 'scripts/verify-youtube-ids.cjs'
+      - 'packages/frontend/data/**'
+      - 'packages/frontend/components/**'
+      - 'packages/frontend/App.js'
+      - 'api/**'
+      - 'packages/backend/src/**'
 
 jobs:
   verify:

@@ -7,6 +7,12 @@
 // Usage:
 //   node scripts/verify-youtube-ids.cjs            # scan and report
 //   node scripts/verify-youtube-ids.cjs --json out.json  # also write JSON
+//   node scripts/verify-youtube-ids.cjs --create-issues  # open one GitHub issue per broken video
+//
+// --create-issues requires GITHUB_TOKEN and GITHUB_REPOSITORY (set by Actions).
+// Issues are tagged with `broken-video` and an id-specific marker so the script
+// is idempotent: re-runs do not create duplicates, and issues for IDs that
+// became OK again are closed automatically.
 
 const fs = require('fs');
 const path = require('path');
@@ -163,10 +169,157 @@ function formatReport(idToLocations, results) {
   return { markdown: lines.join('\n'), byState };
 }
 
+function ghRequest(method, path, body) {
+  const token = process.env.GITHUB_TOKEN;
+  const repo = process.env.GITHUB_REPOSITORY;
+  if (!token || !repo) throw new Error('GITHUB_TOKEN and GITHUB_REPOSITORY must be set');
+  const data = body ? JSON.stringify(body) : null;
+  const opts = {
+    method,
+    hostname: 'api.github.com',
+    path: path.replace('{repo}', repo),
+    headers: {
+      'Authorization': `Bearer ${token}`,
+      'Accept': 'application/vnd.github+json',
+      'X-GitHub-Api-Version': '2022-11-28',
+      'User-Agent': 'metalforge-youtube-verifier/1.0',
+    },
+  };
+  if (data) {
+    opts.headers['Content-Type'] = 'application/json';
+    opts.headers['Content-Length'] = Buffer.byteLength(data);
+  }
+  return new Promise((resolve, reject) => {
+    const req = https.request(opts, (res) => {
+      let chunks = '';
+      res.on('data', (c) => chunks += c);
+      res.on('end', () => {
+        if (res.statusCode >= 200 && res.statusCode < 300) {
+          resolve(chunks ? JSON.parse(chunks) : null);
+        } else {
+          reject(new Error(`GitHub API ${method} ${path} → ${res.statusCode}: ${chunks.slice(0, 300)}`));
+        }
+      });
+    });
+    req.on('error', reject);
+    if (data) req.write(data);
+    req.end();
+  });
+}
+
+function markerFor(id) { return `<!-- broken-video-id:${id} -->`; }
+
+async function ensureLabel(name, color, description) {
+  try {
+    await ghRequest('POST', '/repos/{repo}/labels', { name, color, description });
+  } catch (e) {
+    // 422 = already exists, that's fine
+    if (!String(e.message).includes('422')) throw e;
+  }
+}
+
+async function findExistingIssue(id) {
+  // Search open issues with our marker label and the id marker in the body.
+  const repo = process.env.GITHUB_REPOSITORY;
+  const q = encodeURIComponent(`repo:${repo} is:issue is:open label:broken-video "${markerFor(id)}" in:body`);
+  const res = await ghRequest('GET', `/search/issues?q=${q}`);
+  return res.items && res.items.length > 0 ? res.items[0] : null;
+}
+
+function buildIssueBody(id, reason, locations) {
+  const lines = [];
+  lines.push(markerFor(id));
+  lines.push('');
+  lines.push(`**YouTube ID:** \`${id}\``);
+  lines.push(`**Reason:** \`${reason}\` (oEmbed ${reason === 'embedding_disabled' ? '401' : reason === 'not_found' ? '404' : '?'})`);
+  lines.push(`**Watch URL:** https://www.youtube.com/watch?v=${id}`);
+  lines.push('');
+  lines.push(`## Locations in code`);
+  lines.push('');
+  for (const l of locations) {
+    lines.push(`- \`${l.file}:${l.line}\` — \`${l.snippet}\``);
+  }
+  lines.push('');
+  lines.push(`## How to fix`);
+  lines.push('');
+  lines.push(`1. Replace the ID with a working YouTube video for the same drummer/song context, or`);
+  lines.push(`2. Remove the \`youtubeId\`/\`videoId\` field if no good replacement exists (verify the component handles missing video first).`);
+  lines.push('');
+  lines.push(`This issue was opened automatically by \`.github/workflows/verify-youtube.yml\`.`);
+  lines.push(`It will be closed automatically when the video starts working again.`);
+  return lines.join('\n');
+}
+
+async function syncIssues(idToLocations, results) {
+  await ensureLabel('broken-video', 'd73a4a', 'Broken YouTube video reference detected by verify-youtube workflow');
+  await ensureLabel('ai-fix', '7057ff', 'Issues Ralph can implement automatically');
+
+  const brokenById = new Map();
+  for (const r of results) if (r.state === 'broken') brokenById.set(r.id, r);
+
+  let opened = 0, updated = 0, closed = 0, skipped = 0;
+
+  // Open or update issues for currently-broken IDs
+  for (const [id, r] of brokenById) {
+    const locations = idToLocations.get(id) || [];
+    const body = buildIssueBody(id, r.reason, locations);
+    const title = `Broken YouTube video: ${id} (${r.reason})`;
+    try {
+      const existing = await findExistingIssue(id);
+      if (existing) {
+        // Only patch if the body has changed (locations might have moved)
+        if (existing.body !== body) {
+          await ghRequest('PATCH', `/repos/{repo}/issues/${existing.number}`, { body });
+          updated++;
+        } else {
+          skipped++;
+        }
+      } else {
+        await ghRequest('POST', `/repos/{repo}/issues`, {
+          title,
+          body,
+          labels: ['broken-video', 'ai-fix'],
+        });
+        opened++;
+      }
+    } catch (e) {
+      process.stderr.write(`  failed to sync ${id}: ${e.message}\n`);
+    }
+  }
+
+  // Close issues for IDs that are no longer broken
+  try {
+    const repo = process.env.GITHUB_REPOSITORY;
+    const q = encodeURIComponent(`repo:${repo} is:issue is:open label:broken-video`);
+    const res = await ghRequest('GET', `/search/issues?q=${q}&per_page=100`);
+    for (const issue of (res.items || [])) {
+      const match = (issue.body || '').match(/<!-- broken-video-id:([A-Za-z0-9_-]{11}) -->/);
+      if (!match) continue;
+      const id = match[1];
+      if (!brokenById.has(id)) {
+        await ghRequest('PATCH', `/repos/{repo}/issues/${issue.number}`, {
+          state: 'closed',
+          state_reason: 'completed',
+        });
+        await ghRequest('POST', `/repos/{repo}/issues/${issue.number}/comments`, {
+          body: `Closing automatically — \`${id}\` is no longer flagged as broken by \`verify-youtube\`.`,
+        });
+        closed++;
+      }
+    }
+  } catch (e) {
+    process.stderr.write(`  close-sweep failed: ${e.message}\n`);
+  }
+
+  process.stderr.write(`Issues: opened=${opened} updated=${updated} skipped=${skipped} closed=${closed}\n`);
+  return { opened, updated, skipped, closed };
+}
+
 (async () => {
   const args = process.argv.slice(2);
   const jsonIdx = args.indexOf('--json');
   const jsonOut = jsonIdx >= 0 ? args[jsonIdx + 1] : null;
+  const createIssues = args.includes('--create-issues');
 
   process.stderr.write('Scanning files...\n');
   const files = collectFiles();
@@ -194,6 +347,11 @@ function formatReport(idToLocations, results) {
     };
     fs.writeFileSync(jsonOut, JSON.stringify(payload, null, 2));
     process.stderr.write(`Wrote ${jsonOut}\n`);
+  }
+
+  if (createIssues) {
+    process.stderr.write('Syncing GitHub issues...\n');
+    await syncIssues(idToLocations, results);
   }
 
   // Always exit 0 — this is informational, not a gate.

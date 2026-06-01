@@ -15,30 +15,41 @@ import {
   useWindowDimensions
 } from 'react-native';
 import { Image } from 'expo-image';
-import { 
+import {
   getBeginnerGuideBySlug,
+  isBeginnerGuideSlug,
   generateBeginnerGuideSchema,
   generateProductSchemas,
-  generateBeginnerFaqSchema 
+  generateBeginnerFaqSchema
 } from '../data/beginnerGuides';
+
+// Legacy slug for back-compat (Issue #702 shipped a single hardcoded guide).
+const DEFAULT_BEGINNER_GUIDE_SLUG = 'beginner-metal-drummer-setup';
+
+// Re-export so the router (App.js) can tell beginner-guide slugs apart from the
+// "Sound Like" guide family without importing the heavy data module directly.
+export { isBeginnerGuideSlug };
 
 // ==========================================
 // URL Detection Helpers
 // ==========================================
 export function isBeginnerGuidePage() {
-  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
-  const pathname = window.location.pathname;
-  return pathname === '/guides/beginner-metal-drummer-setup' || 
-         pathname === '/guides/beginner-metal-drummer-setup/' ||
-         pathname === '/beginner-setup' ||
-         pathname === '/beginner-setup/';
+  return getBeginnerGuideSlugFromURL() !== null;
 }
 
+// Resolve any /guides/<slug> (or the legacy /beginner-setup alias) to a known
+// beginner-guide slug. Returns null when the path is not a beginner guide so the
+// router can fall through to the "Sound Like" guide family (/guides/how-to-*).
 export function getBeginnerGuideSlugFromURL() {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
-  const pathname = window.location.pathname;
-  if (pathname.includes('beginner-metal-drummer-setup') || pathname.includes('beginner-setup')) {
-    return 'beginner-metal-drummer-setup';
+  const pathname = window.location.pathname.replace(/\/+$/, ''); // strip trailing slash
+
+  // Legacy alias kept for back-compat.
+  if (pathname === '/beginner-setup') return DEFAULT_BEGINNER_GUIDE_SLUG;
+
+  if (pathname.startsWith('/guides/')) {
+    const slug = pathname.slice('/guides/'.length);
+    if (slug && isBeginnerGuideSlug(slug)) return slug;
   }
   return null;
 }
@@ -64,11 +75,11 @@ export function updateBeginnerGuideMeta(guide) {
     const title = guide.title;
     const description = guide.description;
     const image = `https://metalforge.io${guide.ogImage}`;
-    const url = 'https://metalforge.io/guides/beginner-metal-drummer-setup';
+    const url = `https://metalforge.io/guides/${guide.slug}`;
 
     document.title = `${title} | MetalForge`;
     setMeta('description', description);
-    setMeta('keywords', guide.seoKeywords.join(', '));
+    setMeta('keywords', (guide.seoKeywords || []).join(', '));
     
     // Open Graph
     setMeta('og:title', title, true);
@@ -93,16 +104,19 @@ export function updateBeginnerGuideMeta(guide) {
 // ==========================================
 // Main Component
 // ==========================================
-export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer }) {
+export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer, slug }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
+  const activeSlug = slug || DEFAULT_BEGINNER_GUIDE_SLUG;
   const [guide, setGuide] = useState(null);
+  const [notFound, setNotFound] = useState(false);
   const [activeSection, setActiveSection] = useState('intro');
   const [expandedFaq, setExpandedFaq] = useState({});
 
   useEffect(() => {
-    const loadedGuide = getBeginnerGuideBySlug('beginner-metal-drummer-setup');
+    const loadedGuide = getBeginnerGuideBySlug(activeSlug);
     setGuide(loadedGuide);
+    setNotFound(!loadedGuide);
 
     if (loadedGuide) {
       // Update OG meta
@@ -169,7 +183,7 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer }) {
         });
       }
     };
-  }, []);
+  }, [activeSlug]);
 
   const toggleFaq = (index) => {
     setExpandedFaq(prev => ({ ...prev, [index]: !prev[index] }));
@@ -230,6 +244,25 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer }) {
     }
   };
 
+  // Unknown slug → graceful not-found instead of an endless "Loading…" spinner
+  // or a white-screen crash (Issue #832).
+  if (notFound) {
+    return (
+      <View style={[styles.container, { backgroundColor: theme.background }]}>
+        <View style={styles.header}>
+          <TouchableOpacity onPress={onBack} style={[styles.backButton, { borderColor: theme.border }]}>
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Guides</Text>
+          </TouchableOpacity>
+        </View>
+        <View style={styles.loadingContainer}>
+          <Text style={[styles.loadingText, { color: theme.text }]}>
+            Guide not found. Browse our other gear guides instead.
+          </Text>
+        </View>
+      </View>
+    );
+  }
+
   if (!guide) {
     return (
       <View style={[styles.container, { backgroundColor: theme.background }]}>
@@ -245,18 +278,26 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer }) {
     );
   }
 
+  // Only surface nav tabs for sections this guide actually provides, so a guide
+  // missing optional sections renders the rest instead of showing dead tabs.
   const sections = [
-    { id: 'intro', label: '📖 Intro', icon: '📖' },
-    { id: 'budget', label: '💰 Budget', icon: '💰' },
-    { id: 'kits', label: '🥁 Kits', icon: '🥁' },
-    { id: 'cymbals', label: '🎪 Cymbals', icon: '🎪' },
-    { id: 'hardware', label: '⚙️ Hardware', icon: '⚙️' },
-    { id: 'technique', label: '🎯 Technique', icon: '🎯' },
-    { id: 'setup', label: '🔧 Setup', icon: '🔧' },
-    { id: 'upgrades', label: '📈 Upgrades', icon: '📈' },
-    { id: 'tips', label: '💡 Tips', icon: '💡' },
-    { id: 'faq', label: '❓ FAQ', icon: '❓' }
-  ];
+    guide.intro && { id: 'intro', label: '📖 Intro', icon: '📖' },
+    guide.budgetBreakdown && { id: 'budget', label: '💰 Budget', icon: '💰' },
+    guide.kitRecommendations && { id: 'kits', label: '🥁 Kits', icon: '🥁' },
+    guide.cymbals && { id: 'cymbals', label: '🎪 Cymbals', icon: '🎪' },
+    guide.hardware && { id: 'hardware', label: '⚙️ Hardware', icon: '⚙️' },
+    guide.techniqueBasics && { id: 'technique', label: '🎯 Technique', icon: '🎯' },
+    guide.setupAndTuning && { id: 'setup', label: '🔧 Setup', icon: '🔧' },
+    guide.upgradePath && { id: 'upgrades', label: '📈 Upgrades', icon: '📈' },
+    (guide.buyingTips || guide.sampleBuilds) && { id: 'tips', label: '💡 Tips', icon: '💡' },
+    guide.faq && { id: 'faq', label: '❓ FAQ', icon: '❓' }
+  ].filter(Boolean);
+
+  // If the default ('intro') section isn't present in this guide, fall back to
+  // the first available one so something always renders.
+  const resolvedSection = sections.some(s => s.id === activeSection)
+    ? activeSection
+    : (sections[0] && sections[0].id);
 
   return (
     <ScrollView 
@@ -272,14 +313,16 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer }) {
 
       {/* Hero Section */}
       <View style={[styles.heroSection, { backgroundColor: theme.card }]}>
-        <View style={[styles.heroBadge, { backgroundColor: theme.primary }]}>
-          <Text style={styles.heroBadgeText}>{guide.hero.badge}</Text>
-        </View>
-        <Text style={[styles.heroTitle, { color: theme.text }]}>{guide.hero.title}</Text>
-        <Text style={[styles.heroSubtitle, { color: theme.secondaryText }]}>{guide.hero.subtitle}</Text>
-        
+        {guide.hero?.badge && (
+          <View style={[styles.heroBadge, { backgroundColor: theme.primary }]}>
+            <Text style={styles.heroBadgeText}>{guide.hero.badge}</Text>
+          </View>
+        )}
+        <Text style={[styles.heroTitle, { color: theme.text }]}>{guide.hero?.title || guide.title}</Text>
+        <Text style={[styles.heroSubtitle, { color: theme.secondaryText }]}>{guide.hero?.subtitle || guide.description}</Text>
+
         <View style={styles.heroStats}>
-          {guide.hero.stats.map((stat, index) => (
+          {(guide.hero?.stats || []).map((stat, index) => (
             <View key={index} style={[styles.heroStat, { backgroundColor: theme.background }]}>
               <Text style={[styles.heroStatValue, { color: theme.primary }]}>{stat.value}</Text>
               <Text style={[styles.heroStatLabel, { color: theme.secondaryText }]}>{stat.label}</Text>
@@ -322,14 +365,14 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer }) {
             key={section.id}
             style={[
               styles.sectionNavButton,
-              activeSection === section.id && { backgroundColor: theme.primary },
+              resolvedSection === section.id && { backgroundColor: theme.primary },
               { borderColor: theme.primary }
             ]}
             onPress={() => setActiveSection(section.id)}
           >
             <Text style={[
               styles.sectionNavText,
-              { color: activeSection === section.id ? '#fff' : theme.primary }
+              { color: resolvedSection === section.id ? '#fff' : theme.primary }
             ]}>
               {isMobile ? section.icon : section.label}
             </Text>
@@ -338,32 +381,36 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer }) {
       </ScrollView>
 
       {/* Introduction Section */}
-      {activeSection === 'intro' && (
+      {resolvedSection === 'intro' && guide.intro && (
         <View style={[styles.section, { backgroundColor: theme.card }]}>
           <Text style={[styles.sectionTitle, { color: theme.text }]}>{guide.intro.title}</Text>
           <Text style={[styles.sectionContent, { color: theme.secondaryText }]}>
             {guide.intro.content}
           </Text>
-          
-          <View style={[styles.keyPointsBox, { backgroundColor: theme.background, borderColor: theme.primary }]}>
-            <Text style={[styles.keyPointsTitle, { color: theme.text }]}>🔑 Key Takeaways</Text>
-            {guide.intro.keyPoints.map((point, index) => (
-              <Text key={index} style={[styles.keyPoint, { color: theme.secondaryText }]}>
-                • {point}
-              </Text>
-            ))}
-          </View>
 
-          <View style={[styles.trustBadge, { backgroundColor: theme.primary + '15' }]}>
-            <Text style={[styles.trustText, { color: theme.primary }]}>
-              ✓ {guide.intro.whyTrustUs}
-            </Text>
-          </View>
+          {guide.intro.keyPoints && guide.intro.keyPoints.length > 0 && (
+            <View style={[styles.keyPointsBox, { backgroundColor: theme.background, borderColor: theme.primary }]}>
+              <Text style={[styles.keyPointsTitle, { color: theme.text }]}>🔑 Key Takeaways</Text>
+              {guide.intro.keyPoints.map((point, index) => (
+                <Text key={index} style={[styles.keyPoint, { color: theme.secondaryText }]}>
+                  • {point}
+                </Text>
+              ))}
+            </View>
+          )}
+
+          {guide.intro.whyTrustUs && (
+            <View style={[styles.trustBadge, { backgroundColor: theme.primary + '15' }]}>
+              <Text style={[styles.trustText, { color: theme.primary }]}>
+                ✓ {guide.intro.whyTrustUs}
+              </Text>
+            </View>
+          )}
         </View>
       )}
 
       {/* Budget Breakdown Section - Enhanced for Issue #801 */}
-      {activeSection === 'budget' && (
+      {resolvedSection === 'budget' && guide.budgetBreakdown && (
         <View style={[styles.section, { backgroundColor: theme.card }]}>
           <Text style={[styles.sectionTitle, { color: theme.text }]}>{guide.budgetBreakdown.title}</Text>
           <Text style={[styles.sectionContent, { color: theme.secondaryText }]}>
@@ -386,15 +433,17 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer }) {
               <View style={[styles.quickSummaryTotal, { borderTopColor: theme.border }]}>
                 <Text style={[styles.quickSummaryTotalLabel, { color: theme.secondaryText }]}>Total Budget:</Text>
                 <Text style={[styles.quickSummaryTotalValue, { color: theme.primary }]}>
-                  ${guide.budgetBreakdown.totalBudget.toLocaleString()}
+                  ${(guide.budgetBreakdown.totalBudget || 0).toLocaleString()}
                 </Text>
               </View>
             </View>
           )}
 
           {/* Detailed Budget Categories */}
+          {guide.budgetBreakdown.categories && guide.budgetBreakdown.categories.length > 0 && (
           <Text style={[styles.subsectionTitle, { color: theme.text, marginTop: 24 }]}>📊 Detailed Breakdown</Text>
-          {guide.budgetBreakdown.categories.map((category, index) => (
+          )}
+          {(guide.budgetBreakdown.categories || []).map((category, index) => (
             <View key={index} style={[styles.budgetCategory, { borderColor: theme.border }]}>
               <View style={styles.budgetCategoryHeader}>
                 <Text style={[styles.budgetEmoji, { color: theme.text }]}>{category.emoji}</Text>
@@ -448,7 +497,7 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer }) {
               {/* Essential Gear */}
               <View style={[styles.gearTypeBox, { backgroundColor: '#dcfce7', borderColor: '#22c55e' }]}>
                 <Text style={[styles.gearTypeTitle, { color: '#166534' }]}>✅ Essential Gear (Must Have)</Text>
-                {guide.budgetBreakdown.essentialVsOptional.essential.map((item, index) => (
+                {(guide.budgetBreakdown.essentialVsOptional.essential || []).map((item, index) => (
                   <View key={index} style={styles.gearTypeRow}>
                     <View style={styles.gearTypeInfo}>
                       <Text style={[styles.gearTypeName, { color: '#166534' }]}>{item.item}</Text>
@@ -462,7 +511,7 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer }) {
               {/* Optional Gear */}
               <View style={[styles.gearTypeBox, { backgroundColor: '#fef3c7', borderColor: '#f59e0b', marginTop: 16 }]}>
                 <Text style={[styles.gearTypeTitle, { color: '#92400e' }]}>⭐ Optional Gear (Nice to Have)</Text>
-                {guide.budgetBreakdown.essentialVsOptional.optional.map((item, index) => (
+                {(guide.budgetBreakdown.essentialVsOptional.optional || []).map((item, index) => (
                   <View key={index} style={styles.gearTypeRow}>
                     <View style={styles.gearTypeInfo}>
                       <Text style={[styles.gearTypeName, { color: '#92400e' }]}>{item.item}</Text>
@@ -476,22 +525,24 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer }) {
               {/* Priority Order */}
               <View style={[styles.priorityOrderBox, { backgroundColor: theme.background, borderColor: theme.border, marginTop: 16 }]}>
                 <Text style={[styles.priorityOrderTitle, { color: theme.text }]}>📋 Buy in This Order</Text>
-                {guide.budgetBreakdown.essentialVsOptional.priorityOrder.map((step, index) => (
+                {(guide.budgetBreakdown.essentialVsOptional.priorityOrder || []).map((step, index) => (
                   <Text key={index} style={[styles.priorityOrderStep, { color: theme.secondaryText }]}>{step}</Text>
                 ))}
               </View>
             </View>
           )}
 
-          <View style={[styles.proTipBox, { backgroundColor: '#fef3c7', borderColor: '#f59e0b', marginTop: 24 }]}>
-            <Text style={[styles.proTipLabel, { color: '#92400e' }]}>💡 Pro Tip</Text>
-            <Text style={[styles.proTipText, { color: '#78350f' }]}>{guide.budgetBreakdown.proTip}</Text>
-          </View>
+          {guide.budgetBreakdown.proTip && (
+            <View style={[styles.proTipBox, { backgroundColor: '#fef3c7', borderColor: '#f59e0b', marginTop: 24 }]}>
+              <Text style={[styles.proTipLabel, { color: '#92400e' }]}>💡 Pro Tip</Text>
+              <Text style={[styles.proTipText, { color: '#78350f' }]}>{guide.budgetBreakdown.proTip}</Text>
+            </View>
+          )}
         </View>
       )}
 
       {/* Drum Kit Recommendations Section */}
-      {activeSection === 'kits' && (
+      {resolvedSection === 'kits' && guide.kitRecommendations && (
         <View style={[styles.section, { backgroundColor: theme.card }]}>
           <Text style={[styles.sectionTitle, { color: theme.text }]}>{guide.kitRecommendations.title}</Text>
           <Text style={[styles.sectionContent, { color: theme.secondaryText }]}>
@@ -499,9 +550,10 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer }) {
           </Text>
 
           {/* Ideal Specs */}
+          {guide.kitRecommendations.idealSpecs && (
           <View style={[styles.specsBox, { backgroundColor: theme.background, borderColor: theme.border }]}>
             <Text style={[styles.specsTitle, { color: theme.text }]}>{guide.kitRecommendations.idealSpecs.title}</Text>
-            {guide.kitRecommendations.idealSpecs.specs.map((spec, index) => (
+            {(guide.kitRecommendations.idealSpecs.specs || []).map((spec, index) => (
               <View key={index} style={styles.specRow}>
                 <Text style={[styles.specIcon, { color: theme.text }]}>{spec.icon}</Text>
                 <Text style={[styles.specLabel, { color: theme.text }]}>{spec.spec}:</Text>
@@ -509,9 +561,10 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer }) {
               </View>
             ))}
           </View>
+          )}
 
           {/* Kit Cards */}
-          {guide.kitRecommendations.kits.map((kit, index) => (
+          {(guide.kitRecommendations.kits || []).map((kit, index) => (
             <View key={index} style={[styles.kitCard, { backgroundColor: theme.background, borderColor: theme.border }]}>
               <View style={styles.kitCardHeader}>
                 <View style={[styles.rankBadge, { backgroundColor: index === 0 ? '#fbbf24' : index === 1 ? '#9ca3af' : '#cd7f32' }]}>
@@ -602,38 +655,43 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer }) {
           ))}
 
           {/* Used Market Tips */}
-          <View style={[styles.usedTipsBox, { backgroundColor: theme.background, borderColor: theme.primary }]}>
-            <Text style={[styles.usedTipsTitle, { color: theme.text }]}>
-              🏷️ {guide.kitRecommendations.usedMarketTips.title}
-            </Text>
-            <Text style={[styles.usedSavings, { color: theme.primary }]}>
-              Expected savings: {guide.kitRecommendations.usedMarketTips.expectedSavings}
-            </Text>
-            {guide.kitRecommendations.usedMarketTips.tips.map((tip, index) => (
-              <Text key={index} style={[styles.usedTip, { color: theme.secondaryText }]}>• {tip}</Text>
-            ))}
-          </View>
+          {guide.kitRecommendations.usedMarketTips && (
+            <View style={[styles.usedTipsBox, { backgroundColor: theme.background, borderColor: theme.primary }]}>
+              <Text style={[styles.usedTipsTitle, { color: theme.text }]}>
+                🏷️ {guide.kitRecommendations.usedMarketTips.title}
+              </Text>
+              <Text style={[styles.usedSavings, { color: theme.primary }]}>
+                Expected savings: {guide.kitRecommendations.usedMarketTips.expectedSavings}
+              </Text>
+              {(guide.kitRecommendations.usedMarketTips.tips || []).map((tip, index) => (
+                <Text key={index} style={[styles.usedTip, { color: theme.secondaryText }]}>• {tip}</Text>
+              ))}
+            </View>
+          )}
         </View>
       )}
 
       {/* Cymbals Section */}
-      {activeSection === 'cymbals' && (
+      {resolvedSection === 'cymbals' && guide.cymbals && (
         <View style={[styles.section, { backgroundColor: theme.card }]}>
           <Text style={[styles.sectionTitle, { color: theme.text }]}>{guide.cymbals.title}</Text>
           <Text style={[styles.sectionContent, { color: theme.secondaryText }]}>
             {guide.cymbals.description}
           </Text>
 
-          <View style={[styles.warningBox, { backgroundColor: '#fef2f2', borderColor: '#ef4444' }]}>
-            <Text style={[styles.warningText, { color: '#b91c1c' }]}>{guide.cymbals.warning}</Text>
-          </View>
+          {guide.cymbals.warning && (
+            <View style={[styles.warningBox, { backgroundColor: '#fef2f2', borderColor: '#ef4444' }]}>
+              <Text style={[styles.warningText, { color: '#b91c1c' }]}>{guide.cymbals.warning}</Text>
+            </View>
+          )}
 
           {/* Essential Metal Cymbals */}
+          {guide.cymbals.essentialMetalCymbals && (
           <View style={[styles.essentialCymbalsBox, { borderColor: theme.border }]}>
             <Text style={[styles.essentialTitle, { color: theme.text }]}>
               {guide.cymbals.essentialMetalCymbals.title}
             </Text>
-            {guide.cymbals.essentialMetalCymbals.cymbals.map((cymbal, index) => (
+            {(guide.cymbals.essentialMetalCymbals.cymbals || []).map((cymbal, index) => (
               <View key={index} style={[styles.cymbalTypeRow, { borderColor: theme.border }]}>
                 <View style={styles.cymbalTypeHeader}>
                   <Text style={[styles.cymbalTypeName, { color: theme.text }]}>{cymbal.type}</Text>
@@ -649,10 +707,13 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer }) {
               </View>
             ))}
           </View>
+          )}
 
           {/* Cymbal Set Options */}
-          <Text style={[styles.subsectionTitle, { color: theme.text }]}>Recommended Cymbal Sets</Text>
-          {guide.cymbals.categories[0].options.map((option, index) => (
+          {guide.cymbals.categories?.[0]?.options?.length > 0 && (
+            <Text style={[styles.subsectionTitle, { color: theme.text }]}>Recommended Cymbal Sets</Text>
+          )}
+          {(guide.cymbals.categories?.[0]?.options || []).map((option, index) => (
             <View key={index} style={[styles.cymbalSetCard, { backgroundColor: theme.background, borderColor: theme.border }]}>
               <View style={styles.cymbalSetHeader}>
                 <Text style={[styles.cymbalSetName, { color: theme.text }]}>{option.name}</Text>
@@ -690,22 +751,24 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer }) {
             </View>
           ))}
 
-          <View style={[styles.proTipBox, { backgroundColor: '#fef3c7', borderColor: '#f59e0b' }]}>
-            <Text style={[styles.proTipLabel, { color: '#92400e' }]}>💡 Pro Tip</Text>
-            <Text style={[styles.proTipText, { color: '#78350f' }]}>{guide.cymbals.proTip}</Text>
-          </View>
+          {guide.cymbals.proTip && (
+            <View style={[styles.proTipBox, { backgroundColor: '#fef3c7', borderColor: '#f59e0b' }]}>
+              <Text style={[styles.proTipLabel, { color: '#92400e' }]}>💡 Pro Tip</Text>
+              <Text style={[styles.proTipText, { color: '#78350f' }]}>{guide.cymbals.proTip}</Text>
+            </View>
+          )}
         </View>
       )}
 
       {/* Hardware Section */}
-      {activeSection === 'hardware' && (
+      {resolvedSection === 'hardware' && guide.hardware && (
         <View style={[styles.section, { backgroundColor: theme.card }]}>
           <Text style={[styles.sectionTitle, { color: theme.text }]}>{guide.hardware.title}</Text>
           <Text style={[styles.sectionContent, { color: theme.secondaryText }]}>
             {guide.hardware.description}
           </Text>
 
-          {guide.hardware.essentialHardware.map((hw, index) => (
+          {(guide.hardware.essentialHardware || []).map((hw, index) => (
             <View key={index} style={[styles.hardwareCard, { backgroundColor: theme.background, borderColor: theme.border }]}>
               <View style={styles.hardwareHeader}>
                 <Text style={[styles.hardwareName, { color: theme.text }]}>{hw.item}</Text>
@@ -777,14 +840,14 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer }) {
       )}
 
       {/* Technique Basics Section */}
-      {activeSection === 'technique' && (
+      {resolvedSection === 'technique' && guide.techniqueBasics && (
         <View style={[styles.section, { backgroundColor: theme.card }]}>
           <Text style={[styles.sectionTitle, { color: theme.text }]}>{guide.techniqueBasics.title}</Text>
           <Text style={[styles.sectionContent, { color: theme.secondaryText }]}>
             {guide.techniqueBasics.intro}
           </Text>
 
-          {guide.techniqueBasics.techniques.map((technique, index) => (
+          {(guide.techniqueBasics.techniques || []).map((technique, index) => (
             <View key={index} style={[styles.techniqueCard, { backgroundColor: theme.background, borderColor: theme.border }]}>
               <View style={styles.techniqueHeader}>
                 <Text style={[styles.techniqueName, { color: theme.text }]}>{technique.name}</Text>
@@ -827,25 +890,29 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer }) {
           ))}
 
           {/* Daily Practice Routine */}
-          <View style={[styles.practiceRoutineBox, { backgroundColor: theme.background, borderColor: theme.primary }]}>
-            <Text style={[styles.practiceRoutineTitle, { color: theme.text }]}>
-              ⏱️ {guide.techniqueBasics.dailyPracticeRoutine.title}
-            </Text>
-            {guide.techniqueBasics.dailyPracticeRoutine.steps.map((step, index) => (
-              <View key={index} style={styles.practiceStep}>
-                <Text style={[styles.practiceStepTime, { color: theme.primary }]}>{step.time}</Text>
-                <Text style={[styles.practiceStepExercise, { color: theme.secondaryText }]}>{step.exercise}</Text>
-              </View>
-            ))}
-            <Text style={[styles.practiceNote, { color: theme.text }]}>
-              ✨ {guide.techniqueBasics.dailyPracticeRoutine.note}
-            </Text>
-          </View>
+          {guide.techniqueBasics.dailyPracticeRoutine && (
+            <View style={[styles.practiceRoutineBox, { backgroundColor: theme.background, borderColor: theme.primary }]}>
+              <Text style={[styles.practiceRoutineTitle, { color: theme.text }]}>
+                ⏱️ {guide.techniqueBasics.dailyPracticeRoutine.title}
+              </Text>
+              {(guide.techniqueBasics.dailyPracticeRoutine.steps || []).map((step, index) => (
+                <View key={index} style={styles.practiceStep}>
+                  <Text style={[styles.practiceStepTime, { color: theme.primary }]}>{step.time}</Text>
+                  <Text style={[styles.practiceStepExercise, { color: theme.secondaryText }]}>{step.exercise}</Text>
+                </View>
+              ))}
+              {guide.techniqueBasics.dailyPracticeRoutine.note && (
+                <Text style={[styles.practiceNote, { color: theme.text }]}>
+                  ✨ {guide.techniqueBasics.dailyPracticeRoutine.note}
+                </Text>
+              )}
+            </View>
+          )}
         </View>
       )}
 
       {/* Setup and Tuning Section */}
-      {activeSection === 'setup' && (
+      {resolvedSection === 'setup' && guide.setupAndTuning && (
         <View style={[styles.section, { backgroundColor: theme.card }]}>
           <Text style={[styles.sectionTitle, { color: theme.text }]}>{guide.setupAndTuning.title}</Text>
           <Text style={[styles.sectionContent, { color: theme.secondaryText }]}>
@@ -853,8 +920,10 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer }) {
           </Text>
 
           {/* Ergonomics */}
+          {guide.setupAndTuning.ergonomics && (
           <Text style={[styles.subsectionTitle, { color: theme.text }]}>{guide.setupAndTuning.ergonomics.title}</Text>
-          {guide.setupAndTuning.ergonomics.tips.map((tip, index) => (
+          )}
+          {(guide.setupAndTuning.ergonomics?.tips || []).map((tip, index) => (
             <View key={index} style={[styles.ergonomicTip, { backgroundColor: theme.background, borderColor: theme.border }]}>
               <Text style={[styles.ergonomicArea, { color: theme.text }]}>{tip.area}</Text>
               <Text style={[styles.ergonomicAdvice, { color: theme.secondaryText }]}>{tip.tip}</Text>
@@ -863,10 +932,14 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer }) {
           ))}
 
           {/* Tuning */}
+          {guide.setupAndTuning.tuning && (
           <Text style={[styles.subsectionTitle, { color: theme.text }]}>{guide.setupAndTuning.tuning.title}</Text>
+          )}
+          {guide.setupAndTuning.tuning?.overview && (
           <Text style={[styles.tuningOverview, { color: theme.secondaryText }]}>{guide.setupAndTuning.tuning.overview}</Text>
+          )}
 
-          {guide.setupAndTuning.tuning.instruments.map((drum, index) => (
+          {(guide.setupAndTuning.tuning?.instruments || []).map((drum, index) => (
             <View key={index} style={[styles.tuningCard, { backgroundColor: theme.background, borderColor: theme.border }]}>
               <View style={styles.tuningHeader}>
                 <Text style={[styles.tuningDrum, { color: theme.text }]}>{drum.drum}</Text>
@@ -883,24 +956,26 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer }) {
           ))}
 
           {/* Tuning Tips */}
-          <View style={[styles.tuningTipsBox, { backgroundColor: theme.background, borderColor: theme.border }]}>
-            <Text style={[styles.tuningTipsTitle, { color: theme.text }]}>🔧 Quick Tuning Tips</Text>
-            {guide.setupAndTuning.tuning.tuningTips.map((tip, index) => (
-              <Text key={index} style={[styles.tuningTipItem, { color: theme.secondaryText }]}>• {tip}</Text>
-            ))}
-          </View>
+          {guide.setupAndTuning.tuning?.tuningTips?.length > 0 && (
+            <View style={[styles.tuningTipsBox, { backgroundColor: theme.background, borderColor: theme.border }]}>
+              <Text style={[styles.tuningTipsTitle, { color: theme.text }]}>🔧 Quick Tuning Tips</Text>
+              {guide.setupAndTuning.tuning.tuningTips.map((tip, index) => (
+                <Text key={index} style={[styles.tuningTipItem, { color: theme.secondaryText }]}>• {tip}</Text>
+              ))}
+            </View>
+          )}
         </View>
       )}
 
       {/* Upgrade Path Section */}
-      {activeSection === 'upgrades' && (
+      {resolvedSection === 'upgrades' && guide.upgradePath && (
         <View style={[styles.section, { backgroundColor: theme.card }]}>
           <Text style={[styles.sectionTitle, { color: theme.text }]}>{guide.upgradePath.title}</Text>
           <Text style={[styles.sectionContent, { color: theme.secondaryText }]}>
             {guide.upgradePath.intro}
           </Text>
 
-          {guide.upgradePath.upgrades.map((upgrade, index) => (
+          {(guide.upgradePath.upgrades || []).map((upgrade, index) => (
             <View key={index} style={[styles.upgradeCard, { backgroundColor: theme.background, borderColor: theme.border }]}>
               <View style={[styles.upgradePriority, { backgroundColor: theme.primary }]}>
                 <Text style={styles.upgradePriorityText}>#{upgrade.priority}</Text>
@@ -937,10 +1012,12 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer }) {
             </View>
           ))}
 
-          <View style={[styles.savingsBox, { backgroundColor: '#dcfce7', borderColor: '#22c55e' }]}>
-            <Text style={[styles.savingsTitle, { color: '#166534' }]}>💰 Savings Strategy</Text>
-            <Text style={[styles.savingsText, { color: '#15803d' }]}>{guide.upgradePath.savingsStrategy}</Text>
-          </View>
+          {guide.upgradePath.savingsStrategy && (
+            <View style={[styles.savingsBox, { backgroundColor: '#dcfce7', borderColor: '#22c55e' }]}>
+              <Text style={[styles.savingsTitle, { color: '#166534' }]}>💰 Savings Strategy</Text>
+              <Text style={[styles.savingsText, { color: '#15803d' }]}>{guide.upgradePath.savingsStrategy}</Text>
+            </View>
+          )}
 
           {/* Pro Setup Showcase - Issue #801: Link to Pro Setups */}
           {guide.upgradePath.proSetupShowcase && (
@@ -953,7 +1030,7 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer }) {
               </Text>
               
               <View style={styles.proShowcaseGrid}>
-                {guide.upgradePath.proSetupShowcase.drummers.map((drummer, index) => (
+                {(guide.upgradePath.proSetupShowcase.drummers || []).map((drummer, index) => (
                   <TouchableOpacity
                     key={index}
                     style={[styles.proShowcaseCard, { backgroundColor: theme.background, borderColor: theme.border }]}
@@ -990,14 +1067,16 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer }) {
       )}
 
       {/* Buying Tips Section */}
-      {activeSection === 'tips' && (
+      {resolvedSection === 'tips' && (guide.buyingTips || guide.sampleBuilds) && (
         <View style={[styles.section, { backgroundColor: theme.card }]}>
+          {guide.buyingTips && (
           <Text style={[styles.sectionTitle, { color: theme.text }]}>{guide.buyingTips.title}</Text>
+          )}
 
-          {guide.buyingTips.categories.map((category, catIndex) => (
+          {(guide.buyingTips?.categories || []).map((category, catIndex) => (
             <View key={catIndex} style={[styles.tipsCategory, { backgroundColor: theme.background, borderColor: theme.border }]}>
               <Text style={[styles.tipsCategoryTitle, { color: theme.text }]}>{category.title}</Text>
-              {category.tips.map((tip, tipIndex) => (
+              {(category.tips || []).map((tip, tipIndex) => (
                 <View key={tipIndex} style={styles.tipItem}>
                   <Text style={[styles.tipName, { color: theme.primary }]}>{tip.tip}</Text>
                   <Text style={[styles.tipDescription, { color: theme.secondaryText }]}>{tip.description}</Text>
@@ -1006,15 +1085,19 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer }) {
             </View>
           ))}
 
-          <View style={[styles.negotiationTip, { backgroundColor: '#dbeafe', borderColor: '#3b82f6' }]}>
-            <Text style={[styles.negotiationText, { color: '#1e40af' }]}>
-              🤝 {guide.buyingTips.negotiationTip}
-            </Text>
-          </View>
+          {guide.buyingTips?.negotiationTip && (
+            <View style={[styles.negotiationTip, { backgroundColor: '#dbeafe', borderColor: '#3b82f6' }]}>
+              <Text style={[styles.negotiationText, { color: '#1e40af' }]}>
+                🤝 {guide.buyingTips.negotiationTip}
+              </Text>
+            </View>
+          )}
 
           {/* Sample Builds */}
+          {guide.sampleBuilds && (
           <Text style={[styles.subsectionTitle, { color: theme.text }]}>{guide.sampleBuilds.title}</Text>
-          {guide.sampleBuilds.builds.map((build, index) => (
+          )}
+          {(guide.sampleBuilds?.builds || []).map((build, index) => (
             <View key={index} style={[styles.buildCard, { backgroundColor: theme.background, borderColor: theme.border }]}>
               <View style={styles.buildHeader}>
                 <Text style={[styles.buildName, { color: theme.text }]}>{build.name}</Text>
@@ -1022,7 +1105,7 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer }) {
               </View>
               <Text style={[styles.buildDescription, { color: theme.secondaryText }]}>{build.description}</Text>
               <View style={styles.buildItems}>
-                {build.items.map((item, i) => (
+                {(build.items || []).map((item, i) => (
                   <View key={i} style={styles.buildItem}>
                     <Text style={[styles.buildItemName, { color: theme.text }]}>{item.item}</Text>
                     <Text style={[styles.buildItemCost, { color: theme.secondaryText }]}>${item.cost}</Text>
@@ -1035,11 +1118,11 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer }) {
       )}
 
       {/* FAQ Section */}
-      {activeSection === 'faq' && (
+      {resolvedSection === 'faq' && guide.faq && (
         <View style={[styles.section, { backgroundColor: theme.card }]}>
           <Text style={[styles.sectionTitle, { color: theme.text }]}>Frequently Asked Questions</Text>
 
-          {guide.faq.map((item, index) => (
+          {(guide.faq || []).map((item, index) => (
             <TouchableOpacity
               key={index}
               style={[styles.faqItem, { backgroundColor: theme.background, borderColor: theme.border }]}
@@ -1060,9 +1143,10 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer }) {
       )}
 
       {/* Related Content */}
+      {guide.relatedContent?.drummers?.length > 0 && (
       <View style={[styles.relatedSection, { backgroundColor: theme.card }]}>
         <Text style={[styles.relatedTitle, { color: theme.text }]}>🔗 Related Content</Text>
-        
+
         <Text style={[styles.relatedSubtitle, { color: theme.secondaryText }]}>Learn from the pros:</Text>
         <View style={styles.relatedDrummerGrid}>
           {guide.relatedContent.drummers.map((drummer, index) => (
@@ -1077,6 +1161,7 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer }) {
           ))}
         </View>
       </View>
+      )}
 
       {/* Footer CTA */}
       <View style={[styles.footerCTA, { backgroundColor: theme.primary + '15' }]}>

@@ -165,6 +165,8 @@ const soundLikeGuides = [
 // Issue #702: Beginner gear guides - SEO content hub
 const beginnerGuides = [
   { slug: 'beginner-metal-drummer-setup', name: 'The Ultimate Beginner Metal Drummer Gear Guide Under $1000' },
+  // Issue #833: $500 budget tier guide
+  { slug: 'budget-metal-drum-setup-500', name: 'The Best Budget Metal Drum Setup Under $500' },
 ];
 
 // Issue #704: Metal Drummer Name Generator - viral tool

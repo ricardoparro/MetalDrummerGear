@@ -21857,8 +21857,9 @@ function AppContent() {
   const [showGuide, setShowGuide] = useState(() => isGuidePage());
   const [guideSlug, setGuideSlug] = useState(() => getGuideSlugFromURL());
   
-  // Beginner Gear Guide Page state (Issue #702) - /guides/beginner-metal-drummer-setup
+  // Beginner Gear Guide Page state (Issue #702 / generalized to multi-slug #832)
   const [showBeginnerGuide, setShowBeginnerGuide] = useState(() => isBeginnerGuidePage());
+  const [beginnerGuideSlug, setBeginnerGuideSlug] = useState(() => getBeginnerGuideSlugFromURL());
   
   // Metal Drummer Name Generator Page state (Issue #704) - /tools/metal-drummer-name-generator
   const [showNameGenerator, setShowNameGenerator] = useState(() => isNameGeneratorPage());
@@ -23249,8 +23250,9 @@ function AppContent() {
         setSelectedDrummerId(null);
         setSelectedGear(null);
       } else if (isBeginnerGuidePage()) {
-        // Beginner Gear Guide page (Issue #702) - /guides/beginner-metal-drummer-setup
+        // Beginner Gear Guide page (Issue #702 / multi-slug #832) - /guides/<slug>
         setShowBeginnerGuide(true);
+        setBeginnerGuideSlug(getBeginnerGuideSlugFromURL());
         setShowGuidesHub(false);
         setShowGuide(false);
         setGuideSlug(null);
@@ -25746,6 +25748,7 @@ setShowList(false);
         <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
           <LazyBeginnerGearGuidePage
             theme={theme}
+            slug={beginnerGuideSlug}
             onBack={() => {
               setShowBeginnerGuide(false);
               setShowGuidesHub(true);
@@ -26364,12 +26367,16 @@ setShowList(false);
               }
             }}
             onSelectGuide={(slug) => {
-              // Check if it's the beginner guide
-              if (slug === 'beginner-metal-drummer-setup') {
+              // Route any beginner-tier gear guide (multi-slug #832) to the
+              // generalized beginner guide page; everything else is a "Sound Like" guide.
+              const isBeginnerSlug = slug === 'beginner-metal-drummer-setup' ||
+                (_beginnerGuideModule?.isBeginnerGuideSlug?.(slug) ?? false);
+              if (isBeginnerSlug) {
                 setShowGuidesHub(false);
                 setShowBeginnerGuide(true);
+                setBeginnerGuideSlug(slug);
                 if (Platform.OS === 'web' && typeof window !== 'undefined') {
-                  window.history.pushState({}, '', '/guides/beginner-metal-drummer-setup');
+                  window.history.pushState({}, '', `/guides/${slug}`);
                 }
               } else {
                 setShowGuidesHub(false);

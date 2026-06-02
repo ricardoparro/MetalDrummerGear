@@ -31,6 +31,12 @@ if [ -f "$LOG_FILE" ] && [ "$(stat -c%s "$LOG_FILE" 2>/dev/null || stat -f%z "$L
   mv "$LOG_FILE" "$LOG_FILE.old"
 fi
 
+# Pre-run: refresh metrics so the agent reads fresh GA4/GSC data
+if [ "$AGENT" = "ceo" ] && [ -f ".agents/scripts/fetch-metrics.cjs" ]; then
+  node .agents/scripts/fetch-metrics.cjs 2>&1 | tee -a "$LOG_FILE" || \
+    echo "Warning: fetch-metrics failed (continuing with stale metrics.md)" | tee -a "$LOG_FILE"
+fi
+
 {
   echo "=== $(date -u +%FT%TZ) — agent=$AGENT ==="
   {

@@ -3239,6 +3239,13 @@ Despite his natural gifts, Gene is known for disciplined practice. He plays to a
         }
       ]
     },
+    // Videos
+    videos: [
+      { youtubeId: 'HvkXWE_LoOg', title: 'Gene Hoglan\'s Drum Kit Rundown (Drumeo)', description: 'Full gear walkthrough of Gene Hoglan\'s Pearl kit, Sabian cymbals and Evans heads' },
+      { youtubeId: 'FArpzF1Sn68', title: 'Gene Hoglan - 10 Metal Drumming Tips (Drumeo Masterclass)', description: 'Hour-long Drumeo masterclass with Testament and Galaktikon performances' },
+      { youtubeId: 'TnaKBKKW5CA', title: 'Gene Hoglan - \'Formation Of Damnation\' Drum Cam (Testament)', description: 'Official drum-cam footage of Gene Hoglan playing Testament\'s \'Formation Of Damnation\'' },
+      { youtubeId: 'JVRlcJXFHGo', title: 'Gene Hoglan: The Human Drum Machine (Interview)', description: 'In-depth interview with Gene Hoglan on the Garza Podcast' }
+    ],
     // Related Content
     relatedAlbums: ['reign-in-blood-drum-setup', 'obzen-drum-setup'],
     relatedDrummers: [4, 5, 6], // Dave Lombardo, Tomas Haake, George Kollias
@@ -3547,6 +3554,13 @@ Slipknot shows run 90+ minutes in demanding conditions (masks, heat, physical mo
       ]
     },
     // Videos
+    // Videos
+    videos: [
+      { youtubeId: 'nRy4sRIDqV8', title: 'Eloy Casagrande - Slipknot Live Drum Cam', description: 'Slipknot live drum cam footage showcasing Casagrande\'s playing with his new band' },
+      { youtubeId: 'MyXvmX0BXlM', title: 'Eloy Casagrande - Isolation (Sepultura) Drum Cam', description: 'Sepultura-era drum cam of \'Isolation\' from his own official channel' },
+      { youtubeId: 'K-LIqA2pdWI', title: 'Eloy Casagrande Plays \'Means To An End\' (Sepultura) | Drumeo', description: 'Drumeo playthrough of the Sepultura track \'Means To An End\'' },
+      { youtubeId: 'MlvTuIOHbkY', title: 'Eloy Casagrande Drum Solo | Drumeo', description: 'Mind-blowing drum solo performance filmed at Drumeo' }
+    ],
     // Related Content
     relatedAlbums: ['iowa-drum-setup', 'roots-drum-setup'],
     relatedDrummers: [2, 21, 4], // Joey Jordison, Igor Cavalera, Dave Lombardo
@@ -4978,6 +4992,13 @@ His drum solos are journeys with verses, choruses, and narrative arcs. They inco
         { tier: 'Professional', range: '$10,000+', notes: 'Full Starclassic + Signature gear' }
       ]
     },
+    // Videos
+    videos: [
+      { youtubeId: 'MlDMADh8TRM', title: 'Mike Portnoy Explains His \'Dream Monster\' Drum Kit Setup', description: 'Kit tour and gear walkthrough of Portnoy\'s Tama Starclassic \'Dream Monster\' setup' },
+      { youtubeId: '_dxGRq0cNDY', title: 'Dream Theater Grooves & Fills - Mike Portnoy (Drumeo)', description: 'Portnoy breaks down signature Dream Theater grooves and fills behind the kit' },
+      { youtubeId: '1YTaSI2kk5k', title: 'Mike Portnoy\'s Revenge - Learning Dream Theater On The Spot', description: 'Drum cam playthrough as Portnoy tackles Dream Theater material live in the studio' },
+      { youtubeId: 'BrIMs0xGT1w', title: 'Octavarium - Mike Portnoy\'s Most Impossible Drum Performance', description: 'Deep dive and performance breakdown of Portnoy\'s iconic Dream Theater drumming' }
+    ],
     relatedAlbums: ['lateralus-drum-setup', 'fear-inoculum-drum-setup', 'obzen-drum-setup'],
     relatedDrummers: [14, 5, 15], // Danny Carey, Tomas Haake, Mario Duplantier
     relatedArticles: ['progressive-metal-drummers', 'best-drum-pedals-progressive'],
@@ -5360,6 +5381,13 @@ The real Images and Words sound comes from Mike's technique and musicality. Prac
         { tier: 'Professional', range: '$10,000+', notes: 'Full Starclassic + Signature gear' }
       ]
     },
+    // Videos
+    videos: [
+      { youtubeId: 'mipc-JxrhRk', title: 'Pull Me Under - Official Video (Images and Words, 1992)', description: 'Dream Theater\'s signature single from Images and Words, showcasing Mike Portnoy\'s drumming' },
+      { youtubeId: 'C5sg8heGdyk', title: 'Take the Time - Official Video (Images and Words, 1992)', description: 'Official video for Take the Time, featuring Portnoy\'s intricate progressive drumming' },
+      { youtubeId: 'LYtiDCXLAcQ', title: 'Another Day - Official Video (Images and Words, 1992)', description: 'Official video for the Images and Words single Another Day' },
+      { youtubeId: 'IqqRx77T4Vo', title: 'Metropolis Pt. 1: The Miracle and the Sleeper (Images and Words, 1992)', description: 'Album track highlighting Portnoy\'s complex instrumental drumming in the famous middle section' }
+    ],
     relatedAlbums: ['lateralus-drum-setup', 'obzen-drum-setup', 'master-of-puppets-drum-setup'],
     relatedDrummers: [14, 5, 1], // Danny Carey, Tomas Haake, Lars Ulrich
     relatedArticles: ['progressive-metal-drummers', 'best-double-bass-pedals'],
@@ -6492,6 +6520,13 @@ Perhaps Adler's greatest skill was knowing what NOT to play. His parts are memor
         }
       ]
     },
+    // Videos
+    videos: [
+      { youtubeId: '6XDOpP1vz0g', title: 'Ruin - Live (Chris Adler with Lamb of God)', description: 'Live performance footage of Chris Adler drumming on \'Ruin\' from the official MEINL Cymbals channel' },
+      { youtubeId: 'HoITD46WiAM', title: 'Chris Adler - Gibraltar Hardware Interview', description: 'Interview with the Lamb of God drummer discussing his kit and hardware setup' },
+      { youtubeId: 'v6fO_UYrLN4', title: 'Chris Adler - Warm-Up Routine at the Kit (Rhythm Magazine)', description: 'Drum lesson where Chris Adler demonstrates his warm-up routine at the kit' },
+      { youtubeId: 'RCh4UAgqn44', title: 'Grace - Live Drum Cam (Chris Adler)', description: 'Live drum cam footage of Chris Adler playing \'Grace\' with Lamb of God' }
+    ],
     // Conclusion Section
     conclusion: {
       title: 'The Legacy of American Groove Metal',
@@ -6871,6 +6906,13 @@ Benante never sacrificed groove for speed. Even at blistering tempos, his patter
         }
       ]
     },
+    // Videos
+    videos: [
+      { youtubeId: 'he7QfNFRdv0', title: 'Charlie Benante - Anthrax Drum Cam (Live)', description: 'Live drum cam footage capturing Charlie Benante behind the Anthrax kit' },
+      { youtubeId: 'iR_uMXA9VDw', title: 'Charlie Benante\'s Anthrax Rig Tour', description: 'Full kit and gear walkthrough of Charlie Benante\'s Anthrax setup' },
+      { youtubeId: 'jePN_AB0syw', title: 'What It\'s Like Drumming With Pantera & Anthrax - Charlie Benante (Drumeo)', description: 'Drumeo interview with Charlie Benante on drumming for both Pantera and Anthrax' },
+      { youtubeId: 'OR6rUpbFOk0', title: 'The Iconic Drumming Behind \'Indians\' - Anthrax (Drumeo)', description: 'Charlie Benante breaks down the drum part for Anthrax classic \'Indians\' on Drumeo' }
+    ],
     // Conclusion Section
     conclusion: {
       title: 'The Big Four\'s Unsung Architect',
@@ -8162,6 +8204,13 @@ The modern drummer who sounds most like Bill Ward? Probably Matt Cameron (Soundg
       { youtubeId: 'sF3aZyYXn8M', title: 'War Pigs - Black Sabbath (Drum Cover with Notation)', description: 'Breaking down Bill\'s iconic groove and fills' },
       { youtubeId: 'PD5Imb7vWSY', title: 'Rat Salad - Bill Ward Drum Solo', description: 'Bill\'s featured solo showcasing jazz influences' },
       { youtubeId: 'lmE2-yHZcQI', title: 'Bill Ward Interview - Modern Drummer', description: 'Bill discusses his influences and technique' }
+    ],
+    // Videos
+    videos: [
+      { youtubeId: 'yO7fox24IZ0', title: 'Rat Salad / Drum Solo - Live (Black Sabbath)', description: 'Live recording of Bill Ward\'s signature Rat Salad drum solo from Black Sabbath' },
+      { youtubeId: 'vh2KP-WMTP0', title: 'Bill Ward on Black Sabbath and Drumming (Metal Hammer Interview)', description: 'Bill Ward interview reflecting on the early Black Sabbath years and his drumming' },
+      { youtubeId: 'prd5MwOAwVk', title: 'Bill Ward Demonstrates Hand of Doom Drum Technique', description: 'Bill Ward breaks down the drumming techniques behind Black Sabbath\'s Hand of Doom' },
+      { youtubeId: 'kkL05mggaCM', title: 'The Genius of Bill Ward (Drumeo)', description: 'Drumeo documentary-style breakdown of Bill Ward\'s influential heavy metal drumming' }
     ],
     relatedAlbums: ['reign-in-blood-drum-setup', 'master-of-puppets-drum-setup', 'painkiller-drum-setup'],
     relatedDrummers: [1, 4, 14], // Lars Ulrich, Dave Lombardo, Danny Carey
@@ -9581,6 +9630,13 @@ Recording practice sessions helps identify issues that aren't apparent in the mo
 
 The metronome is non-negotiable. Every speed exercise must be metronomically precise. The goal isn't just fast — it's fast AND accurate.`
     },
+    // Videos
+    videos: [
+      { youtubeId: 'NnEGDu2imOU', title: 'George Kollias Plays His Favorite Drum Parts', description: 'Nile\'s George Kollias breaks down the drum parts and influences behind his playing' },
+      { youtubeId: 'dCxvG5g5wok', title: 'George Kollias - Blast Beat Variation Lesson', description: 'Extreme-metal blast beat technique lesson from the Nile drummer' },
+      { youtubeId: 'EMLJZVk7Abo', title: 'George Kollias - Nile Live in Athens 2022 (Drum Cam)', description: 'Multi-cam live drum-cam footage from Kollias\'s official channel' },
+      { youtubeId: 'pbd7u2IwGFI', title: 'Nile - The Blessed Dead (George Kollias Drum Cam)', description: 'Live drum-cam footage of Kollias performing The Blessed Dead with Nile' }
+    ],
     relatedAlbums: ['altars-of-madness-drum-setup', 'symbolic-drum-setup', 'reign-in-blood-drum-setup'],
     relatedDrummers: [3, 23, 4], // Gene Hoglan, Pete Sandoval, Dave Lombardo
     relatedArticles: ['blast-beat-techniques', 'heel-toe-technique-guide', 'extreme-metal-drums'],
@@ -11623,6 +11679,13 @@ Robinson mixed the drums to sit within the band rather than dominate. Igor's pla
         }
       ]
     },
+    // Videos
+    videos: [
+      { youtubeId: 'F_6IjeprfEs', title: 'Roots Bloody Roots - Official Video (1996)', description: 'Official music video for the Roots lead single, showcasing Igor Cavalera\'s tribal groove' },
+      { youtubeId: 'NiwqRSCWw2g', title: 'Ratamahatta - Official Video (1996)', description: 'Official video for the percussion-heavy Roots single featuring tribal drumming' },
+      { youtubeId: 'PkMQ-jZ2Svc', title: 'Roots Bloody Roots - Live at Pinkpop 1996', description: 'HD Roots-era live performance with Igor Cavalera on drums' },
+      { youtubeId: 'DTPhWAu9dac', title: 'Iggor Cavalera Drum Cam - Lookaway (Return to Roots)', description: 'Drum-cam footage of Igor Cavalera performing a Roots track, uploaded by his own channel' }
+    ],
     relatedAlbums: ['chaos-ad-drum-setup', 'from-mars-to-sirius-drum-setup', 'iowa-drum-setup'],
     relatedDrummers: [7, 4, 2], // Eloy Casagrande, Dave Lombardo, Joey Jordison
     relatedArticles: ['whats-in-igor-cavaleras-kit', 'tribal-metal-drumming', 'groove-metal-techniques'],
@@ -15917,6 +15980,13 @@ The 18" Byzance Brilliant China delivers the aggressive accent that defines thra
     },
     relatedDrummers: [1, 4, 3, 16], // Lars Ulrich, Dave Lombardo, Gene Hoglan, Paul Bostaph
     relatedArticles: ['megadeth-discography', 'big-four-drummers', 'soilwork-drumming'],
+    // Videos
+    videos: [
+      { youtubeId: 'oMvDuxAQNOY', title: 'Megadeth - Tornado of Souls (Live Drum Cam, Ottawa 2023)', description: 'Live drum-cam footage of Dirk Verbeuren performing Megadeth\'s \'Tornado of Souls\'' },
+      { youtubeId: 'pDQxPRQp1i4', title: 'Megadeth - Mechanix (Live Drum Cam, Buenos Aires)', description: 'Live drum-cam of Dirk Verbeuren playing \'Mechanix\' with Megadeth in Argentina' },
+      { youtubeId: 'rawNLGxrKi4', title: 'Unleashing Creativity With Megadeth - Dirk Verbeuren (Drumeo)', description: 'Drumeo feature on Dirk Verbeuren\'s approach to drumming in Megadeth' },
+      { youtubeId: 'Sxcwl3qXiDQ', title: 'Dirk Verbeuren\'s Mega Drum Kit Tour (Evans Drumheads)', description: 'Dirk Verbeuren gives a full tour of his Megadeth touring drum kit' }
+    ],
     relatedAlbums: ['dystopia-drum-setup', 'rust-in-peace-drum-setup', 'peace-sells-drum-setup'],
     conclusion: {
       title: 'Thrash Royalty Earned',
@@ -16133,6 +16203,13 @@ For aggressive accents, the AAX Chinese cymbal added trash and cut. Used sparing
     },
     relatedDrummers: [3, 6, 18], // Gene Hoglan, George Kollias, Flo Mounier
     relatedArticles: ['human-drum-setup', 'symbolic-drum-setup', 'whats-in-gene-hoglans-kit'],
+    // Videos
+    videos: [
+      { youtubeId: '5PmLbPxoggs', title: 'Richard Christy - Iced Earth Sound Check (Sauget, IL 2004)', description: 'Live Iced Earth sound check footage showcasing Richard Christy behind the kit' },
+      { youtubeId: 'T-70uLVpDpk', title: 'Richard Christy - Modern Drummer @ The Sweatshop', description: 'Modern Drummer clinic-style performance and discussion with Richard Christy' },
+      { youtubeId: 'rHX0tXBxeZk', title: 'Death - Bite the Pain (Drums Only) - Richard Christy', description: 'Isolated drum track of Richard Christy\'s playing on Death\'s \'Bite the Pain\'' },
+      { youtubeId: 'fQ4qrrbwljk', title: 'Richard Christy - Drum Solo (Big Slick 2019)', description: 'Live drum solo performance by Richard Christy' }
+    ],
     relatedAlbums: ['sound-of-perseverance-drum-setup'],
     conclusion: {
       title: 'The Sound of Perseverance Legacy',
@@ -16415,6 +16492,12 @@ Unlike some drummers who constantly chase new gear, Travis values reliability. H
     },
     relatedDrummers: [1, 4, 41], // Lars Ulrich, Dave Lombardo, Nicko McBrain
     relatedArticles: ['painkiller-drum-setup', 'whats-in-nicko-mcbrains-kit', 'thrash-metal-drummers'],
+    // Videos
+    videos: [
+      { youtubeId: 'mfe0Mpnv1Pg', title: 'Scott Travis Firepower-Era Drum Rundown (Sweetwater)', description: 'Scott Travis walks through his Judas Priest Firepower-tour kit with Sweetwater\'s Nick D\'Virgilio' },
+      { youtubeId: 'onErORs8TvU', title: 'Scott Travis Interview - drumtalk (Episode 61)', description: 'In-depth sit-down interview with the Judas Priest and Racer X drummer' },
+      { youtubeId: 'Hw__yFtzuzI', title: 'Painkiller - Live Behind the Kit with Scott Travis', description: 'Drum-cam view of Scott Travis performing the Painkiller intro and groove live' }
+    ],
     relatedAlbums: ['painkiller-drum-setup', 'master-of-puppets-drum-setup'],
     conclusion: {
       title: 'The Painkiller Legacy Continues',
@@ -16736,6 +16819,13 @@ The final drum mix balanced clarity with aggression. EQ enhanced the snare's cut
     ],
     relatedDrummers: [3, 6, 18, 19], // Gene Hoglan, George Kollias, Flo Mounier, Scott Travis
     relatedArticles: ['whats-in-richard-christys-kit', 'symbolic-drum-setup', 'human-drum-setup', 'whats-in-gene-hoglans-kit'],
+    // Videos
+    videos: [
+      { youtubeId: 'V22nBTbgPGU', title: 'Richard Christy on the Sound of Perseverance Era (Interview)', description: 'In-depth interview with drummer Richard Christy about recording Death\'s The Sound of Perseverance' },
+      { youtubeId: 'UOil_rd0Ybs', title: 'Spirit Crusher - Live in Eindhoven \'98 (HD)', description: 'Live footage of the Sound of Perseverance lineup performing Spirit Crusher with Richard Christy on drums' },
+      { youtubeId: 's2EJ1AqPIPg', title: 'Voice of the Soul (Official Audio)', description: 'The instrumental from The Sound of Perseverance, from Death\'s official channel' },
+      { youtubeId: 'W2Q3Su4cKh4', title: 'Death - Live in Eindhoven 1998 (Full Concert, HQ)', description: 'Full Dynamo \'98 concert featuring the Sound of Perseverance lineup and Richard Christy\'s drumming' }
+    ],
     relatedAlbums: ['symbolic-drum-setup', 'human-drum-setup', 'painkiller-drum-setup'],
     conclusion: {
       title: 'The Final Statement: Legacy of Perseverance',
@@ -18934,6 +19024,13 @@ Harrison makes odd times feel natural. His secret? He doesn't think in odd time.
 **The Perfect Balance:**
 His bass drum technique reflects his overall philosophy: control over speed. Using the Perfect Balance pedal, he achieves bass drum dynamics that most drummers can only dream of — everything from barely audible ghost notes to thunderous accents, all with the same relaxed technique.`
     },
+    // Videos
+    videos: [
+      { youtubeId: 'woI6t8dCQcQ', title: 'How To Create Amazing Drum Parts (Drumeo Masterclass)', description: 'Gavin Harrison breaks down his approach to writing drum parts in a full Drumeo masterclass' },
+      { youtubeId: '-qF5EgWGTsY', title: 'The Sound Of Muzak Groove - Drum Lesson (Drumeo)', description: 'Gavin Harrison demonstrates the iconic Porcupine Tree \'Muzak\' groove for Drumeo' },
+      { youtubeId: 'WNNDQxXRpSg', title: 'Gear Talk With Gavin Harrison (Kit Tour)', description: 'Gavin Harrison walks through his drum gear and setup with The Pineapple Thief' },
+      { youtubeId: '6Iv83qsCUHY', title: 'Soundcheck Drum Solo (The Pineapple Thief)', description: 'Live footage of Gavin Harrison performing a soundcheck drum solo on tour' }
+    ],
     // Related Content
     relatedDrummers: [14, 5, 13], // Danny Carey, Tomas Haake, Mike Portnoy
     relatedArticles: ['prog-metal-drummers', 'best-polyrhythmic-drumming', 'whats-in-danny-careys-kit'],
@@ -19608,6 +19705,13 @@ Halpern's hi-hat and ride patterns are sophisticated — often implying multiple
 **Bass Drum Precision:**
 His double bass work is powerful but musical. Rather than constant 16th notes, Halpern uses bass drum selectively to reinforce or counterpoint the guitar patterns. Every bass drum stroke has a purpose.`
     },
+    // Videos
+    videos: [
+      { youtubeId: 'QpuGuVOjnUE', title: 'Matt Halpern - \'Reptile\' Overhead Drum Cam (MEINL Cymbals)', description: 'Overhead drum cam showcasing Matt Halpern\'s djent groove and cymbal work, filmed by MEINL Cymbals' },
+      { youtubeId: 'QAh8g1g_K4c', title: 'Periphery - Garden In The Bones (Matt Halpern Drum Playthrough)', description: 'Official Periphery drum playthrough from HAIL STAN, showing Matt Halpern\'s full kit and technique' },
+      { youtubeId: 'XtF8zwom82A', title: 'Matt Halpern Masterclass - \'Dying Star\' Drum Playthrough (Anyone Can Groove)', description: 'Drum masterclass-style playthrough of Periphery\'s \'Dying Star\' with Matt Halpern breaking down his groove approach' },
+      { youtubeId: 'FUk72MwuWrs', title: 'Periphery - Dracul Gras (Matt Halpern Drum Playthrough)', description: 'Official Periphery drum playthrough from Periphery V, featuring Matt Halpern\'s modern metal kit' }
+    ],
     // Related Content
     relatedDrummers: [53, 5, 47], // Matt Garstka, Tomas Haake, Gavin Harrison
     relatedArticles: ['djent-drumming-guide', 'best-drums-for-djent', 'whats-in-matt-garstkas-kit'],

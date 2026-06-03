@@ -1354,7 +1354,6 @@ const drummers = [
     videos: [
       { title: 'Trivium - In Waves (Drum Cam)', youtubeId: 'QV0ysKPuNvI', year: 2012 },
       { title: 'Trivium - Strife (Official Video)', youtubeId: 'rQVhH3CQKqU', year: 2013 },
-      { title: 'Nick Augusto Drum Solo (Trivium)', youtubeId: 'MK_Qj3wXSIA', year: 2012 }
     ]
   },
   {
@@ -1686,7 +1685,6 @@ const drummers = [
     videos: [
       { title: 'Painkiller - Live (2015 Drum Cam)', youtubeId: 'WS6-vI70oc0', year: 2015 },
       { title: 'Electric Eye - Drum Cam (Epitaph Tour)', youtubeId: 'b1B_pZC8aWU', year: 2011 },
-      { title: 'Scott Travis Drum Solo (Firepower Tour)', youtubeId: 'QzntarL7nHY', year: 2018 }
     ]
   },
   {

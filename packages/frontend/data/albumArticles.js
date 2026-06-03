@@ -770,7 +770,6 @@ Today, "sounding like Vulgar Display" is a production reference point. The combi
     videos: [
       { youtubeId: 'AkFqg5wAuFk', title: 'Walk - Official Video', description: 'The iconic groove captured on video' },
       { youtubeId: '7m7njvwB-Ks', title: 'Mouth for War - Live', description: 'Live performance showing Vinnie\'s power' },
-      { youtubeId: '-hEFJnWMNnc', title: 'Vinnie Paul Drum Cam Compilation', description: 'Various drum cam footage' }
     ],
     relatedAlbums: ['cowboys-from-hell-drum-setup', 'far-beyond-driven-drum-setup'],
     relatedDrummers: [8, 9, 10], // Ray Luzier, John Otto, Jay Weinberg
@@ -1027,7 +1026,6 @@ The Number of the Beast songs have evolved over 40+ years of touring. Nicko's in
     },
     videos: [
       { youtubeId: '7QU1nvuxaMA', title: 'Nicko McBrain Drum Solo - Flight of Icarus', description: 'Nicko\'s live interpretation showing his technique' },
-      { youtubeId: '3ZlDZPYzfm4', title: 'Run to the Hills - Official Video', description: 'Original video showcasing Clive Burr' },
       { youtubeId: 'WxnN05vOuSM', title: 'Hallowed Be Thy Name - Live', description: 'Live performance of the epic track' }
     ],
     relatedAlbums: ['powerslave-drum-setup', 'piece-of-mind-drum-setup'],
@@ -1563,7 +1561,6 @@ The rotating riser exemplified Joey's approach: if something seemed impossible, 
       { youtubeId: 'tUibKh0Z--c', title: 'Disasterpieces Drum Solo (Official)', description: 'The legendary rotating platform solo — essential viewing' },
       { youtubeId: 'zRS9uKs3Rlk', title: 'People=Shit - Drum Cam (London 2002)', description: 'Iowa-era live performance showing technique and intensity' },
       { youtubeId: 'RdXMcj7xv20', title: 'Drum Cam 4K Compilation', description: 'Various performances showcasing different eras' },
-      { youtubeId: 'dU8T9HRG2C4', title: 'Joey Jordison Drumeo Tribute', description: 'Career retrospective with footage analysis' }
     ],
     // Quotes
     quotes: [
@@ -1867,9 +1864,6 @@ For drummers interested in exploring electronics, Danny's approach offers a phil
     // Videos
     videos: [
       { youtubeId: 'FssULNGSZIA', title: 'Pneuma (Drum Cam)', description: 'The viral drum performance with millions of views' },
-      { youtubeId: '5OxLxJAGAuw', title: 'Forty Six & 2 (Isolated Drums)', description: 'Classic track showcasing polyrhythmic mastery' },
-      { youtubeId: 'FQEqHB0bfhM', title: 'Danny Carey Clinic', description: 'Rare clinic footage showing technique and philosophy' },
-      { youtubeId: '7HqnJhBC5fs', title: 'Sonor SQ2 Kit Tour', description: 'Danny walks through his setup' }
     ],
     // Quotes
     quotes: [
@@ -2192,8 +2186,6 @@ Drummers worldwide have spent years trying to master "Bleed." Most can play shor
     videos: [
       { youtubeId: 'qc98u-eGzlc', title: 'Bleed - Official Video', description: 'The legendary track that redefined extreme drumming' },
       { youtubeId: 'zg2076b5Lqc', title: 'Tomas Haake Drum Playthrough - Rational Gaze', description: 'Studio playthrough showing technique and setup' },
-      { youtubeId: 'Gm9P1QsoGYA', title: 'Meshuggah Live - Drum Cam Compilation', description: 'Live footage showcasing polyrhythmic mastery' },
-      { youtubeId: 'EN4hSXZU6XA', title: 'Tomas Haake Drumeo Interview', description: 'In-depth discussion of technique and philosophy' }
     ],
     // Quotes
     quotes: [
@@ -2566,9 +2558,7 @@ Tomas has participated in numerous clinic tours and educational content, helping
     },
     videos: [
       { youtubeId: 'qc98u-eGzlc', title: 'Bleed - Official Music Video', description: 'The legendary track in full, studio video' },
-      { youtubeId: 'KJGpUbfMkIM', title: 'Tomas Haake - Drumeo Interview', description: 'In-depth discussion of technique and approach' },
       { youtubeId: 'lCHM1do5Vqw', title: 'Bleed - Live at Wacken', description: 'Live performance demonstrating consistency' },
-      { youtubeId: 'SRZS-4RWjvA', title: 'Combustion - Drum Cam', description: 'Live drum perspective on obZen material' }
     ],
     relatedAlbums: ['nothing-drum-setup', 'koloss-drum-setup'],
     relatedDrummers: [14, 9, 16], // Danny Carey, Mario Duplantier, Travis Orbin
@@ -2857,7 +2847,6 @@ For Dave, the Pantera gig represents full-circle closure. Vinnie was a peer, a c
       { youtubeId: 'K6_zsJ8KPP0', title: 'Angel of Death - Live 1986', description: 'Classic Slayer-era performance showing early technique' },
       { youtubeId: '3ivOfkqFmxg', title: 'War Ensemble - Drum Cam (Yankee Stadium)', description: 'Later Slayer period showing evolved setup' },
       { youtubeId: 'vOd-T58qHLA', title: 'Raining Blood - Live Performance', description: 'Iconic song live execution' },
-      { youtubeId: 'Ghc8P9dsL20', title: 'Pantera - Walk (Dave Lombardo)', description: 'Current era with reunited Pantera' }
     ],
     // Quotes
     quotes: [
@@ -3558,12 +3547,6 @@ Slipknot shows run 90+ minutes in demanding conditions (masks, heat, physical mo
       ]
     },
     // Videos
-    videos: [
-      { youtubeId: 'VH2V0JqiKtc', title: 'Eloy Casagrande - First Slipknot Show', description: 'Debut performance with Slipknot' },
-      { youtubeId: 'xjPVOGvM5_o', title: 'Eloy Casagrande Drum Cam', description: 'Full concert drum cam footage' },
-      { youtubeId: 'Q5XnOvmKKC0', title: 'Eloy Casagrande - Sepultura Drum Cam', description: 'Sepultura era performance showcasing technique' },
-      { youtubeId: 'K8N_FmMZl_U', title: 'Eloy Casagrande - Interview & Playthrough', description: 'Discussion of technique and gear choices' }
-    ],
     // Related Content
     relatedAlbums: ['iowa-drum-setup', 'roots-drum-setup'],
     relatedDrummers: [2, 21, 4], // Joey Jordison, Igor Cavalera, Dave Lombardo
@@ -3962,9 +3945,6 @@ Performing Painkiller-level material requires athlete-level conditioning. Travis
     },
     videos: [
       { youtubeId: 'nM__lPTWThU', title: 'Painkiller - Live (Official Video)', description: 'Original music video showcasing the legendary intro' },
-      { youtubeId: 'QzntarL7nHY', title: 'Scott Travis Drum Solo (Firepower Tour)', description: 'Modern drum solo showing continued abilities' },
-      { youtubeId: '3L6q0xb6gAo', title: 'Hell Patrol - Live 1991', description: 'Painkiller-era live performance' },
-      { youtubeId: 'j1stxKI9MeI', title: 'Judas Priest - Painkiller (Drum Cover Analysis)', description: 'Technique breakdown of the title track' }
     ],
     relatedAlbums: ['reign-in-blood-drum-setup', 'master-of-puppets-drum-setup'],
     relatedDrummers: [4, 1, 3], // Dave Lombardo, Lars Ulrich, Gene Hoglan
@@ -4299,7 +4279,6 @@ Danny still practices daily. He maintains his jazz chops through Volto! and othe
       { youtubeId: 'FssULNGSZIA', title: 'Pneuma - Official Drum Cam Video', description: 'The viral 25M+ view drum cam showcasing Danny\'s technique' },
       { youtubeId: 'q7DfQMPmJRI', title: 'Fear Inoculum - Live 2019', description: 'Full song performance from the Fear Inoculum tour' },
       { youtubeId: 'Y7JG63IuaWs', title: 'Invincible - Live Performance', description: 'Extended live version showing full kit utilization' },
-      { youtubeId: 'EgDwkSlThLo', title: '7empest - Live (Partial)', description: 'Footage of Tool\'s longest song performed live' }
     ],
     relatedAlbums: ['lateralus-drum-setup', 'obzen-drum-setup'],
     relatedDrummers: [5, 15, 17], // Tomas Haake, Mario Duplantier, Mike Portnoy
@@ -4642,10 +4621,7 @@ For progressive metal, Lateralus was a watershed moment. It proved that complexi
       ]
     },
     videos: [
-      { youtubeId: 'uCEeAn6_QJo', title: 'Schism - Official Video', description: 'Grammy-winning track official video' },
-      { youtubeId: 'wS7CZIJVxFY', title: 'Lateralus - Live 2002', description: 'Live performance from the Lateralus tour' },
       { youtubeId: 'Y7JG63IuaWs', title: 'The Grudge - Live', description: 'Extended live performance' },
-      { youtubeId: 'EDlC7oG_2W4', title: 'Danny Carey Drum Cam (Schism)', description: 'Close-up footage showing technique' }
     ],
     relatedAlbums: ['fear-inoculum-drum-setup', 'obzen-drum-setup'],
     relatedDrummers: [5, 15, 17], // Tomas Haake, Mario Duplantier, Mike Portnoy
@@ -4958,12 +4934,6 @@ His drum solos are journeys with verses, choruses, and narrative arcs. They inco
       ]
     },
     // Videos
-    videos: [
-      { youtubeId: 'n1P1MJqC-H4', title: 'The Dance of Eternity - Live', description: 'Showcasing odd-time mastery with Dream Theater' },
-      { youtubeId: 'X_D-Dc8HFEI', title: 'Pull Me Under - Official Video', description: 'The breakthrough hit that launched DT' },
-      { youtubeId: 'vdoFynmKMgk', title: 'Mike Portnoy Drum Solo', description: 'Extended solo showing technique and showmanship' },
-      { youtubeId: 'JDGaZepN7Lg', title: 'Tama Starclassic Kit Tour', description: 'Mike walks through his touring setup' }
-    ],
     // Quotes
     quotes: [
       { text: "Coming back to Dream Theater felt like coming home. The chemistry is still there — it's like we never stopped.", source: "Modern Drummer Magazine", year: 2023 },
@@ -5342,12 +5312,6 @@ Mike's fills are compositional, not just technical. The fills in "Metropolis—P
         'Compositional fills that develop melodically'
       ]
     },
-    videos: [
-      { youtubeId: 'X_D-Dc8HFEI', title: 'Pull Me Under - Official Video', description: 'The breakthrough hit that introduced Dream Theater to MTV' },
-      { youtubeId: 'VCPmMAb0THo', title: 'Take the Time - Live 1993', description: 'Live performance showcasing the groove and complexity' },
-      { youtubeId: 'qj4nBYRl_ME', title: 'Metropolis Part 1 - Live', description: '9 minutes of progressive metal perfection' },
-      { youtubeId: 'JBH-8rB6HHQ', title: 'Learning to Live - Live', description: 'Epic album closer performed in full' }
-    ],
     quotes: [
       { text: "Images and Words was where it all came together. We finally had the songs, the production, and the label support to reach people. I remember knowing we had something special.", source: "Modern Drummer Magazine", year: 1993 },
       { text: "Pull Me Under happened almost by accident. We didn't write it to be a single — we wrote it to be a Dream Theater song. But it connected, and suddenly we weren't playing clubs anymore.", source: "Drumeo Interview", year: 2019 },

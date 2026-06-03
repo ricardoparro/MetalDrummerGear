@@ -1071,6 +1071,700 @@ This guide is specifically designed for beginners with a total budget around $1,
         { slug: 'how-to-sound-like-dave-lombardo', title: 'How to Sound Like Dave Lombardo' }
       ]
     }
+  },
+
+  // ==========================================
+  // Issue #833 (CEO-021, split 1/3 of #830): $500 Budget Tier
+  // Entry-tier guide built around complete sub-$500 kits. Served at
+  // /guides/budget-metal-drum-setup-500 via the generalized component (#832).
+  // ==========================================
+  'budget-metal-drum-setup-500': {
+    slug: 'budget-metal-drum-setup-500',
+    category: 'beginner',
+    priority: 2,
+
+    // SEO metadata
+    title: "The Best Budget Metal Drum Setup Under $500",
+    description: "Build a complete, gig-ready metal drum setup for under $500. Honest picks for the best entry-level complete kits, plus the cheap upgrades (heads, sticks, hearing protection) that make budget gear sound heavy.",
+    seoKeywords: [
+      'budget metal drum kit',
+      'metal drums under 500',
+      'best cheap drum set for metal',
+      'entry level metal drum kit',
+      'beginner drum kit under 500',
+      'complete drum set for metal',
+      'cheap drum kit for beginners',
+      'affordable metal drums',
+      'starter drum set metal',
+      'best budget drum set'
+    ],
+    ogImage: '/api/og/guide?type=beginner',
+    datePublished: '2026-06-01',
+    dateModified: '2026-06-01',
+    author: 'MetalForge Editorial',
+    wordCount: 2600,
+    readingTime: '11 min',
+
+    hero: {
+      title: "🔥 Build a Metal Kit Under $500",
+      subtitle: "Complete, Gig-Ready, and Heavy on a Tight Budget",
+      badge: "BUDGET GUIDE • $500",
+      stats: [
+        { value: '$500', label: 'Budget' },
+        { value: '11 min', label: 'Read Time' },
+        { value: '2026', label: 'Updated' }
+      ]
+    },
+
+    intro: {
+      title: "Heavy on a Half-Grand",
+      content: `You don't need a four-figure rig to start playing metal. With $500 you can land a complete kit—shells, cymbals, hardware, and a throne—and still have a little left for the upgrades that actually matter. This is the tightest realistic budget for a full acoustic setup, and it's where most metal drummers really start.
+
+The trick at this price isn't finding a magic kit—it's spending the leftover smartly. A $450 complete kit with $50 of new batter heads and a fresh pair of sticks will out-gig a bare $500 shell pack every time. We'll show you exactly which complete kits punch above their weight and where to put every remaining dollar.
+
+This guide is the entry tier of our budget series. When you're ready to step up, the $1000 guide covers shell packs, better cymbals, and double bass.`,
+      keyPoints: [
+        "$500 is enough for a COMPLETE kit (drums + cymbals + hardware + throne)",
+        "Spend on the kit, then upgrade heads before anything else",
+        "Stock cymbals are fine to start—replace them as you grow",
+        "Single pedal first; learn technique before buying a double"
+      ],
+      whyTrustUs: "MetalForge has analyzed gear from 500+ professional metal drummers—and most of them started on exactly this kind of budget kit."
+    },
+
+    budgetBreakdown: {
+      title: "Where Your $500 Goes",
+      totalBudget: 500,
+      description: "At this price the smart move is a complete kit that already includes cymbals and hardware, then spending the rest on the upgrades that make cheap gear sound serious.",
+      quickSummary: [
+        { category: 'Complete Kit', amount: 400, emoji: '🥁' },
+        { category: 'Better Heads', amount: 45, emoji: '🎯' },
+        { category: 'Sticks & Key', amount: 30, emoji: '🥢' },
+        { category: 'Ear Protection', amount: 25, emoji: '🎧' }
+      ],
+      categories: [
+        {
+          name: 'Complete Drum Kit',
+          percentage: 80,
+          amount: '$400',
+          priority: 'CRITICAL',
+          type: 'essential',
+          notes: 'A complete 5-piece kit that bundles shells, starter cymbals, all hardware, and a throne. This is the only way to get everything you need at this budget.',
+          emoji: '🥁',
+          includes: ['Bass drum + pedal', 'Snare drum', 'Rack toms (10", 12")', 'Floor tom (14"/16")', 'Starter cymbals', 'Stands + throne'],
+          buyingTip: 'Buying used can free up $150+ to put toward better cymbals later.'
+        },
+        {
+          name: 'Better Batter Heads',
+          percentage: 9,
+          amount: '$45',
+          priority: 'HIGH',
+          type: 'essential',
+          notes: 'The single biggest sound upgrade for a budget kit. Replace the stock kick and snare batters first—2-ply heads add attack and durability for metal.',
+          emoji: '🎯',
+          includes: ['Kick batter (Remo P3 / Evans EMAD)', 'Snare batter (Remo Emperor X)'],
+          buyingTip: 'Do the snare and kick first; toms can wait until the stock heads wear out.'
+        },
+        {
+          name: 'Sticks & Drum Key',
+          percentage: 6,
+          amount: '$30',
+          priority: 'MEDIUM',
+          type: 'essential',
+          notes: 'You will break sticks. Grab a couple of pairs of 5A/5B and a proper drum key for tuning.',
+          emoji: '🥢',
+          includes: ['2-3 pairs of sticks', 'Drum key'],
+          buyingTip: 'A brick of 12 pairs is cheaper per pair if you can stretch to it.'
+        },
+        {
+          name: 'Hearing Protection',
+          percentage: 5,
+          amount: '$25',
+          priority: 'CRITICAL',
+          type: 'essential',
+          notes: 'Drums hit 100+ dB. Protect your hearing from day one—this is non-negotiable.',
+          emoji: '🎧',
+          includes: ['Musician earplugs (e.g. Alpine MusicSafe)'],
+          buyingTip: 'Flat-response musician plugs let you still hear the music—worth it over foam.'
+        }
+      ],
+      essentialVsOptional: {
+        title: "Essential vs Optional at $500",
+        essential: [
+          { item: 'Complete drum kit', reason: 'Gets you shells, cymbals, hardware, and throne in one shot', cost: '$380-450' },
+          { item: 'New kick + snare batter heads', reason: 'Biggest cheap sound upgrade', cost: '$40-50' },
+          { item: 'Sticks', reason: 'Required, and they break', cost: '$8-15/pair' },
+          { item: 'Drum key', reason: 'Tuning is essential for good sound', cost: '$5-15' },
+          { item: 'Hearing protection', reason: 'Protect your ears—drums are loud', cost: '$15-30' }
+        ],
+        optional: [
+          { item: 'Practice pad', reason: 'Great for quiet technique work, add when you can', cost: '$15-40' },
+          { item: 'Upgraded cymbal', reason: 'One real bronze crash beats the stock set—later', cost: '$80-150' },
+          { item: 'Double bass pedal', reason: 'Learn single foot first', cost: '$150-400' },
+          { item: 'Drum rug', reason: 'Any carpet works to start', cost: '$0-40' }
+        ],
+        priorityOrder: [
+          '1. Complete kit (must have)',
+          '2. New kick + snare batter heads',
+          '3. Sticks + drum key',
+          '4. Hearing protection',
+          '5. Practice pad + metronome app',
+          '6. One quality crash cymbal',
+          '7. Double bass pedal (when single foot is solid)'
+        ]
+      },
+      proTip: "If you can find a complete kit used for $250-300, spend the savings on a single quality crash—it'll transform how the whole kit sounds."
+    },
+
+    kitRecommendations: {
+      title: "Best Complete Kits Under $500",
+      description: "These complete kits include cymbals, hardware, and a throne—everything you need to start playing today. They won't last forever, but they'll get you gigging.",
+      idealSpecs: {
+        title: "What to Look For Under $500",
+        specs: [
+          { spec: 'Completeness', ideal: 'Cymbals + hardware + throne included', icon: '📦' },
+          { spec: 'Bass Drum Size', ideal: '22" for punch (some are 20")', icon: '💥' },
+          { spec: 'Configuration', ideal: '5-piece (kick, snare, 2 toms, floor)', icon: '🥁' },
+          { spec: 'Hardware', ideal: 'Double-braced where possible', icon: '⚙️' },
+          { spec: 'Upgrade Path', ideal: 'Standard sizes so heads are easy to replace', icon: '🔧' }
+        ]
+      },
+      kits: [
+        {
+          rank: 1,
+          name: 'Pearl Roadshow RS525SC',
+          brand: 'Pearl',
+          price: '$449-499',
+          priceValue: 499,
+          rating: 4.5,
+          image: '/images/gear/pearl-export.webp',
+          description: 'The benchmark complete kit under $500. Poplar shells, real Pearl hardware, and a usable starter cymbal set with a throne included.',
+          shellMaterial: 'Poplar',
+          sizes: {
+            kick: '22" x 16"',
+            snare: '14" x 5.5"',
+            toms: ['10" x 7"', '12" x 8"'],
+            floorTom: '16" x 16"'
+          },
+          pros: [
+            'Most complete package at the price',
+            'Pearl hardware is a genuine step up',
+            'Includes cymbals, throne, pedal, sticks',
+            'Standard sizes—easy head upgrades'
+          ],
+          cons: [
+            'Stock cymbals are brass and will want upgrading',
+            'Stock heads should be replaced early'
+          ],
+          bestFor: 'Best all-around complete kit under $500',
+          metalVerdict: '🤘 The Roadshow has launched countless metal drummers. Swap the heads and it punches well above its price.',
+          affiliateLinks: {
+            thomann: 'https://www.thomann.de/intl/pearl_roadshow_studio_22_jet_black.htm?partner_id=metalforge',
+            sweetwater: 'https://www.sweetwater.com/store/detail/RS525SCC--pearl-roadshow-5-piece-complete-drum-set?mrkgadid=metalforge'
+          },
+          relatedDrummers: ['joey-jordison', 'chris-adler']
+        },
+        {
+          rank: 2,
+          name: 'Ludwig Accent Drive',
+          brand: 'Ludwig',
+          price: '$429-479',
+          priceValue: 449,
+          rating: 4.3,
+          image: '/images/gear/pearl-export.webp',
+          description: 'A complete 5-piece from a legendary brand. Includes cymbals, hardware, throne and pedal—solid value for a first metal kit.',
+          shellMaterial: 'Poplar',
+          sizes: {
+            kick: '22" x 16"',
+            snare: '14" x 6"',
+            toms: ['10" x 7"', '12" x 8"'],
+            floorTom: '16" x 16"'
+          },
+          pros: [
+            'Trusted Ludwig name and resale',
+            'Complete out of the box',
+            'Punchy 22" kick for metal',
+            'Comfortable included throne'
+          ],
+          cons: [
+            'Cymbals are entry-level brass',
+            'Tom mounts are basic'
+          ],
+          bestFor: 'Players who want a known brand on a tight budget',
+          metalVerdict: '🤘 A no-nonsense complete kit. New batter heads and it holds its own for blast-beat practice.',
+          affiliateLinks: {
+            thomann: 'https://www.thomann.de/intl/ludwig_accent_drive_22_black.htm?partner_id=metalforge',
+            sweetwater: 'https://www.sweetwater.com/store/detail/LC195--ludwig-accent-drive-5-piece-drum-set?mrkgadid=metalforge'
+          },
+          relatedDrummers: ['lars-ulrich', 'dave-lombardo']
+        },
+        {
+          rank: 3,
+          name: 'Mapex Tornado III',
+          brand: 'Mapex',
+          price: '$399-449',
+          priceValue: 429,
+          rating: 4.4,
+          image: '/images/gear/mapex-armory.webp',
+          description: 'The cheapest kit on this list and a genuine bargain. Complete 5-piece with cymbals and hardware—Mapex build quality at rock-bottom pricing.',
+          shellMaterial: 'Basswood',
+          sizes: {
+            kick: '22" x 16"',
+            snare: '14" x 5.5"',
+            toms: ['10" x 7"', '12" x 8"'],
+            floorTom: '16" x 16"'
+          },
+          pros: [
+            'Lowest price for a complete kit',
+            'Surprisingly solid Mapex hardware',
+            'Leaves budget for upgrades',
+            'Good for younger/smaller players'
+          ],
+          cons: [
+            'Basswood shells are basic',
+            'Cymbals are the first thing to replace'
+          ],
+          bestFor: 'Maximum savings to spend on upgrades',
+          metalVerdict: '🤘 Buy this, pocket the savings, and put $80 toward a real crash. Smartest budget play on the list.',
+          affiliateLinks: {
+            thomann: 'https://www.thomann.de/intl/mapex_tornado_22_rock_fusion.htm?partner_id=metalforge',
+            sweetwater: 'https://www.sweetwater.com/store/detail/TND5254TC--mapex-tornado-iii-5-piece-drum-set?mrkgadid=metalforge'
+          },
+          relatedDrummers: ['chris-adler', 'dirk-verbeuren']
+        }
+      ],
+      usedMarketTips: {
+        title: "Buying Used Under $500",
+        tips: [
+          "A used complete kit for $250-300 frees up cash for a real cymbal",
+          "Check bearing edges and look for cracks around lug holes",
+          "Test every tension rod—stripped threads are a pain to fix",
+          "Facebook Marketplace and Reverb are your best friends",
+          "Beginner kits depreciate fast, so used is a smart play here"
+        ],
+        expectedSavings: "30-50% off retail"
+      }
+    },
+
+    cymbals: {
+      title: "Cymbals: Start With the Stock Set",
+      description: "At $500 your cymbals come bundled with the kit. They're brass and basic—but they're enough to learn on. Upgrade one piece at a time as your budget grows.",
+      warning: "⚠️ Don't blow your whole budget chasing a separate cymbal set at this tier—use the included ones first, then upgrade the crash.",
+      essentialMetalCymbals: {
+        title: "Essential Cymbals for Metal",
+        cymbals: [
+          {
+            type: 'Hi-Hats (14")',
+            importance: 'CRITICAL',
+            description: 'The backbone of your groove. The stock hats are fine to start; upgrade to a heavier bronze pair when you can.',
+            metalTip: 'Heavier hi-hats cut through and survive aggressive playing.'
+          },
+          {
+            type: 'Crash (16")',
+            importance: 'HIGH',
+            description: 'Your first upgrade target. One real bronze crash makes the whole kit sound better.',
+            metalTip: 'A single quality 16" crash ($80-120) beats a full set of brass.'
+          },
+          {
+            type: 'Ride (20")',
+            importance: 'MEDIUM',
+            description: 'The stock ride works for verses and bell patterns while you save up.',
+            metalTip: 'Look for a defined bell when you upgrade—metal ride work lives on the bell.'
+          },
+          {
+            type: 'China (16"-18")',
+            importance: 'OPTIONAL',
+            description: 'The signature metal accent. Add one once the essentials are sorted.',
+            metalTip: 'A cheap china is one of the most fun budget add-ons in metal.'
+          }
+        ]
+      },
+      proTip: "When you have ~$100 spare, replace the stock 16\" crash with a real bronze one (Zildjian S, Sabian B8X). It's the highest-impact cymbal upgrade you can make."
+    },
+
+    hardware: {
+      title: "Hardware: It's Already in the Box",
+      description: "Complete kits include all the stands, a pedal, and a throne. Inspect them, tighten everything, and upgrade only what fails.",
+      essentialHardware: [
+        {
+          item: 'Bass Drum Pedal',
+          importance: 'CRITICAL',
+          description: 'The included single pedal is enough to learn proper technique. Upgrade only when speed demands it.',
+          budgetOptions: [
+            {
+              name: 'Pearl P930 Demonator',
+              price: '$99-129',
+              type: 'Single Pedal',
+              rating: 4.5,
+              description: 'A worthwhile first upgrade over a stock pedal—smooth chain drive and solid feel.',
+              affiliateLinks: {
+                thomann: AFFILIATE_LINKS.thomann.pearlP930,
+                sweetwater: AFFILIATE_LINKS.sweetwater.pearlP930
+              }
+            }
+          ],
+          doubleBassTip: "Skip the double pedal for now. Nail single-foot technique on the included pedal first—it makes double bass far easier later."
+        },
+        {
+          item: 'Hi-Hat & Cymbal Stands',
+          importance: 'HIGH',
+          description: 'Included with the kit. Tighten all wing nuts and check for wobble before your first session.',
+          checkFor: ['Stable, weighted base', 'Smooth clutch action', 'No stripped threads']
+        },
+        {
+          item: 'Drum Throne',
+          importance: 'HIGH',
+          description: 'The stock throne works to start. If your back complains, this is an early upgrade worth making.',
+          tip: 'A firmer aftermarket throne ($60-80) dramatically improves stamina and posture.',
+          backPainWarning: 'A bad throne = back problems = shorter sessions = slower progress'
+        }
+      ],
+      includedVsSeparate: "Everything ships with the kit at this tier. Budget $60-100 later only for whatever stand or throne wears out first."
+    },
+
+    drumHeads: {
+      title: "Drum Heads: Your Best $45",
+      description: "Stock heads on budget kits are the weakest link. Swapping the kick and snare batters is the single biggest sound upgrade you can make.",
+      recommendations: {
+        kickBatter: {
+          name: 'Remo Powerstroke P3 Clear or Evans EMAD',
+          price: '$25-35',
+          description: 'Built-in muffling for a punchy, controlled metal kick. Do this first.',
+          affiliateLinks: { thomann: AFFILIATE_LINKS.thomann.remoEmperor }
+        },
+        snareBatter: {
+          name: 'Remo Emperor X or Evans HD Dry',
+          price: '$18-25',
+          description: 'A reinforced 2-ply head that survives rimshots and blast beats.'
+        },
+        tomBatter: {
+          name: 'Remo Emperor Clear or Evans G2 Clear',
+          price: '$15-20 each',
+          description: 'Upgrade the toms once the stock heads wear out—2-ply for attack and controlled sustain.',
+          affiliateLinks: {
+            thomann: AFFILIATE_LINKS.thomann.remoEmperor,
+            thomann2: AFFILIATE_LINKS.thomann.evansG2
+          }
+        }
+      },
+      budgetTip: "Do the kick and snare first. Leave the resonant heads alone unless they're damaged.",
+      headLifespan: "Snare batters last 2-3 months under heavy play; kick and tom heads last 6-12 months."
+    },
+
+    sticksAndAccessories: {
+      title: "Sticks & Essential Accessories",
+      sticks: {
+        title: "Drumstick Recommendations",
+        recommendations: [
+          {
+            name: 'Vic Firth American Classic 5A',
+            price: '$8-12',
+            description: 'The industry standard. Balanced and versatile for all styles.',
+            affiliateLinks: { thomann: AFFILIATE_LINKS.thomann.vicFirth5A, sweetwater: AFFILIATE_LINKS.sweetwater.vicFirth5A }
+          },
+          {
+            name: 'Vic Firth American Classic 5B',
+            price: '$8-12',
+            description: 'A touch heavier than 5A—better for louder, more powerful metal playing.'
+          }
+        ],
+        materialTip: "Start with hickory—durable and balanced. Oak is heavier for power; maple is lighter for speed.",
+        buyInBulk: "Buy a couple of pairs at minimum. A brick (12 pairs) is the cheapest per-pair option."
+      },
+      essentialAccessories: [
+        {
+          item: 'Drum Key',
+          price: '$5-15',
+          importance: 'CRITICAL',
+          description: 'Required for tuning. A multi-tool key is worth the extra dollar or two.',
+          recommendation: 'Pearl K-080 or any standard drum key'
+        },
+        {
+          item: 'Hearing Protection',
+          price: '$15-30',
+          importance: 'CRITICAL',
+          description: 'Protect your ears from day one. Flat-response musician plugs keep the music clear.',
+          recommendation: 'Alpine MusicSafe Pro or Vic Firth isolation headphones'
+        },
+        {
+          item: 'Metronome / Click Track',
+          price: '$0',
+          importance: 'CRITICAL',
+          description: 'Free apps are all you need. Tempo control is everything in metal.',
+          recommendation: 'Pro Metronome or Soundbrenner (free)'
+        },
+        {
+          item: 'Practice Pad',
+          price: '$15-40',
+          importance: 'MEDIUM',
+          description: 'Quiet technique practice. Add it when the budget allows.',
+          recommendation: 'Evans RealFeel or Vic Firth Heavy Hitter'
+        }
+      ]
+    },
+
+    techniqueBasics: {
+      title: "Metal Drumming Technique Basics",
+      intro: "Cheap gear and great technique beats expensive gear and bad habits. Master these fundamentals from day one:",
+      techniques: [
+        {
+          name: 'Single Stroke Roll',
+          difficulty: 'Beginner',
+          description: 'RLRL alternating strokes—the foundation of all drumming.',
+          practiceGoal: 'Even strokes building toward 140+ BPM',
+          metalApplication: 'Fast fills and the foundation of blast beats',
+          relatedDrummers: ['dave-lombardo', 'gene-hoglan'],
+          videoTip: 'Practice with a metronome. Start slow and add 5 BPM when clean.'
+        },
+        {
+          name: 'Double Stroke Roll',
+          difficulty: 'Beginner',
+          description: 'RRLL using rebound—essential for speed and efficiency.',
+          practiceGoal: 'Clean doubles at 100+ BPM',
+          metalApplication: 'Fast hi-hat patterns and efficient fills',
+          relatedDrummers: ['joey-jordison', 'tomas-haake'],
+          videoTip: 'Let the stick bounce—don\'t force the second stroke.'
+        },
+        {
+          name: 'Single-Foot Bass Control',
+          difficulty: 'Beginner',
+          description: 'Even, controlled strokes with your kick foot before adding a second pedal.',
+          practiceGoal: 'Steady 16ths at 100 BPM with one foot',
+          metalApplication: 'Thrash gallops and the base for future double bass',
+          relatedDrummers: ['george-kollias', 'chris-adler'],
+          videoTip: 'Heel-up for power, heel-down for endurance. Most metal uses heel-up.'
+        }
+      ],
+      dailyPracticeRoutine: {
+        title: "15-Minute Daily Starter Routine",
+        steps: [
+          { time: '3 min', exercise: 'Single strokes (slow to fast)' },
+          { time: '3 min', exercise: 'Double strokes (even bounce)' },
+          { time: '3 min', exercise: 'Single-foot bass drum consistency' },
+          { time: '3 min', exercise: 'Basic rock beat with variations' },
+          { time: '3 min', exercise: 'Play along to a metal song at 75% speed' }
+        ],
+        note: 'Consistency beats intensity—15 minutes daily beats 2 hours once a week.'
+      }
+    },
+
+    setupAndTuning: {
+      title: "Setup & Tuning on a Budget Kit",
+      intro: "A well-tuned budget kit can sound great. Setup and tuning matter as much as the gear:",
+      ergonomics: {
+        title: "Ergonomic Setup for Speed",
+        tips: [
+          {
+            area: 'Throne Height',
+            tip: 'Thighs roughly parallel to the floor for maximum leg power.',
+            common_mistake: 'Sitting too low limits movement and causes fatigue.'
+          },
+          {
+            area: 'Snare Position',
+            tip: 'Slightly tilted toward you, just above thigh height for comfortable rimshots.',
+            common_mistake: 'A flat snare reduces rimshot power.'
+          },
+          {
+            area: 'Tom Angles',
+            tip: 'Keep toms nearly flat for direct, powerful hits.',
+            common_mistake: 'Steeply angled toms cause glancing blows.'
+          }
+        ]
+      },
+      tuning: {
+        title: "Tuning for Metal",
+        overview: "Budget kits respond best to lower tunings with light dampening—tune for attack and punch, not sustain.",
+        instruments: [
+          {
+            drum: 'Kick Drum',
+            approach: 'LOW and PUNCHY',
+            batterTension: 'Low-medium (wrinkles just out)',
+            resoTension: 'Slightly higher than batter',
+            dampening: 'A small pillow touching both heads',
+            targetSound: 'Quick attack, minimal sustain',
+            metalTip: 'New batter head + a pillow transforms a stock budget kick.'
+          },
+          {
+            drum: 'Snare',
+            approach: 'TIGHT and CRACKING',
+            batterTension: 'Medium-high for good rebound',
+            resoTension: 'High for crisp response',
+            dampening: 'Minimal—one Moon Gel at most',
+            targetSound: 'Sharp crack that cuts through guitars',
+            metalTip: 'Tighten the wires for more sizzle, loosen for a fatter sound.'
+          }
+        ],
+        tuningTips: [
+          'Tune in a cross pattern for even tension',
+          'Always use a drum key, not your fingers',
+          'Retune new heads after the first hour of playing',
+          'Record yourself to hear the kit from the audience side'
+        ]
+      }
+    },
+
+    upgradePath: {
+      title: "Your Upgrade Path From $500",
+      intro: "Once the basics are solid, here's the smart order to spend your next dollars:",
+      upgrades: [
+        {
+          priority: 1,
+          item: 'One Real Crash Cymbal',
+          when: '1-3 months',
+          budget: '$80-150',
+          why: 'The stock cymbals are the weakest part of any budget kit. A single bronze crash is the biggest tonal jump you can buy.',
+          recommendation: 'Zildjian S, Sabian B8X, or a used Zildjian A',
+          proReference: {
+            text: 'See what cymbals Gene Hoglan uses',
+            drummerId: 'gene-hoglan',
+            category: 'cymbals'
+          }
+        },
+        {
+          priority: 2,
+          item: 'Better Pedal',
+          when: '3-6 months',
+          budget: '$100-130',
+          why: 'A solid single pedal improves feel and speed before you ever think about a double.',
+          recommendation: 'Pearl P930 Demonator or Tama Iron Cobra 600',
+          proReference: {
+            text: 'See George Kollias\'s pedal setup',
+            drummerId: 'george-kollias',
+            category: 'pedals'
+          }
+        },
+        {
+          priority: 3,
+          item: 'Step Up to the $1000 Tier',
+          when: '12+ months',
+          budget: '$500+',
+          why: 'When your skills outgrow the kit, a proper shell pack with separate cymbals is the next move.',
+          recommendation: 'See our Under-$1000 beginner guide for shell packs and cymbal sets',
+          proReference: {
+            text: 'Explore Dave Lombardo\'s legendary setup',
+            drummerId: 'dave-lombardo',
+            category: null
+          }
+        }
+      ],
+      savingsStrategy: "Set aside $20-30/month. In a year that's $240-360—enough for a real crash and a better pedal.",
+      proSetupShowcase: {
+        title: "Aspire to These Pro Setups",
+        description: "Every one of these drummers started on budget gear. Study their setups to plan your path:",
+        drummers: [
+          {
+            id: 'joey-jordison',
+            name: 'Joey Jordison',
+            band: 'Slipknot',
+            signatureGear: 'Pearl drums, Paiste cymbals',
+            whyStudy: 'Speed, aggression, showmanship',
+            link: '/drummer/joey-jordison'
+          },
+          {
+            id: 'dave-lombardo',
+            name: 'Dave Lombardo',
+            band: 'Slayer',
+            signatureGear: 'Tama drums, Paiste Rude cymbals',
+            whyStudy: 'Thrash precision and double bass',
+            link: '/drummer/dave-lombardo'
+          },
+          {
+            id: 'chris-adler',
+            name: 'Chris Adler',
+            band: 'Lamb of God',
+            signatureGear: 'Mapex drums, Meinl cymbals',
+            whyStudy: 'Modern metal groove and creative patterns',
+            link: '/drummer/chris-adler'
+          }
+        ]
+      }
+    },
+
+    buyingTips: {
+      title: "Smart Buying Tips",
+      categories: [
+        {
+          title: 'Where to Buy',
+          tips: [
+            { tip: 'Sweetwater (US) and Thomann (Europe)', description: 'Best online retailers with strong return policies and support.' },
+            { tip: 'Reverb.com', description: 'Best marketplace for used complete kits—often 30-50% off retail.' },
+            { tip: 'Facebook Marketplace', description: 'Local pickup saves shipping. Inspect before buying.' }
+          ]
+        },
+        {
+          title: 'When to Buy',
+          tips: [
+            { tip: 'Black Friday / Cyber Monday', description: 'Complete kits see 15-30% off.' },
+            { tip: 'Back to School', description: 'Beginner kits go on sale late summer.' },
+            { tip: 'End of Year', description: 'Retailers clear inventory for new models.' }
+          ]
+        }
+      ],
+      negotiationTip: "On used gear, always ask 'Is that your best price?'—5-15% off is common."
+    },
+
+    sampleBuilds: {
+      title: "Complete Setup Examples",
+      builds: [
+        {
+          name: 'The $430 Smart Start',
+          totalCost: 430,
+          description: 'Lowest-cost complete setup with the must-have upgrades.',
+          items: [
+            { item: 'Mapex Tornado III (complete)', cost: 350 },
+            { item: 'Remo kick + snare batter heads', cost: 45 },
+            { item: 'Sticks + drum key', cost: 20 },
+            { item: 'Musician earplugs', cost: 15 }
+          ]
+        },
+        {
+          name: 'The $500 Full Build',
+          totalCost: 500,
+          description: 'Everything you need to start gigging on a budget.',
+          items: [
+            { item: 'Pearl Roadshow RS525SC (complete)', cost: 420 },
+            { item: 'Evans EMAD + Emperor X heads', cost: 45 },
+            { item: 'Vic Firth sticks (2 pairs)', cost: 20 },
+            { item: 'Alpine MusicSafe earplugs', cost: 15 }
+          ]
+        }
+      ]
+    },
+
+    faq: [
+      {
+        question: "Can you really play metal on a $500 kit?",
+        answer: "Yes. The pros you admire started on budget gear. A $500 complete kit with new batter heads is more than enough to learn blast beats, double bass, and full songs. Technique matters far more than price."
+      },
+      {
+        question: "Complete kit or shell pack at $500?",
+        answer: "At $500, a complete kit (cymbals + hardware + throne included) is the smart choice—it's the only way to get everything you need. Save shell packs for the $1000 tier when you can buy cymbals separately."
+      },
+      {
+        question: "What should I upgrade first?",
+        answer: "New kick and snare batter heads. It's the cheapest, biggest sound improvement on any budget kit. After that, a single real bronze crash cymbal."
+      },
+      {
+        question: "Do I need a double bass pedal?",
+        answer: "Not at this budget. The included single pedal is perfect for building proper technique. Add a double once your single foot is fast and even."
+      },
+      {
+        question: "New or used at this price?",
+        answer: "Used is great here—beginner kits depreciate fast. A used complete kit for $250-300 frees up cash for a quality crash cymbal, which makes the whole kit sound better."
+      }
+    ],
+
+    relatedContent: {
+      drummers: [
+        { id: 'joey-jordison', name: 'Joey Jordison', reason: 'Started on budget gear, became a legend' },
+        { id: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Thrash metal godfather' },
+        { id: 'chris-adler', name: 'Chris Adler', reason: 'Modern metal technique innovator' }
+      ],
+      guides: [
+        { slug: 'beginner-metal-drummer-setup', title: 'The Ultimate Beginner Guide Under $1000' },
+        { slug: 'how-to-sound-like-dave-lombardo', title: 'How to Sound Like Dave Lombardo' }
+      ]
+    }
   }
 };
 

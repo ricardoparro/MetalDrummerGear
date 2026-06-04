@@ -38,3 +38,6 @@ coverage/
 # Playwright
 playwright-report/
 test-results/
+
+# Claude Code local-only settings (machine-specific approvals)
+.claude/settings.local.json

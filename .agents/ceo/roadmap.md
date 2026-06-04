@@ -1,18 +1,21 @@
 # MetalForge Roadmap
 
-*Last updated: 2026-02-02*
+*Last updated: 2026-06-01 — Aggressive SEO/LLM phase*
 
 ## Vision
-Become the #1 resource for metal drummer gear information, driving traffic through SEO and monetizing via affiliate partnerships.
+Become the #1 resource for metal drummer gear, driving traffic through **organic SEO compound growth + LLM citations**. Monetize via affiliate partnerships.
+
+## Strategy Shift (2026-06)
+Vanity DAU/follower targets superseded by **indexed-pages × organic-CTR** as primary KPI. Reasoning: blocked-on-human external dependencies (Thomann affiliate threshold, Twitter API, TikTok account) have stalled growth for months. SEO is the only path that compounds without external gatekeepers.
 
 ---
 
-## Phase 1: Foundation ✅ COMPLETE (except affiliates)
+## Phase 1: Foundation ✅ COMPLETE
 **Goal:** Solid content base + basic monetization
 
 ### Content ✅
-- [x] 21 drummers with complete profiles (target was 25)
-- [x] Video integration (drum cams) — 63 videos verified
+- [x] **62 drummers** with complete profiles (3x the original 21 target)
+- [x] Video integration (drum cams) — daily broken-video verification via `.github/workflows/verify-youtube.yml`
 - [x] Individual gear pages (`/gear/:slug`)
 - [x] Verified gear data from official brand sources
 

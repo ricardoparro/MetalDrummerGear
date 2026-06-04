@@ -6123,7 +6123,7 @@ Brann's vocal drumming has influenced younger drummers to develop singing abilit
     videos: [
       { youtubeId: 'TsdIO8RHMTc', title: 'Oblivion - Official Video', description: 'Melodic drumming and vocals on display' },
       { youtubeId: 'hwgqenKsNKs', title: 'Blood and Thunder - Live', description: 'Raw power and groove in concert' },
-      { youtubeId: 'k1t2M8pSMKA', title: 'Brann Dailor Drum Cam', description: 'Close-up view of flowing technique' },
+      { youtubeId: 'wNFyE2FlWjo', title: 'Brann Dailor (Mastodon) - Hearts Alive (Drum Cam)', description: 'Close-up view of flowing technique' },
       { youtubeId: 'N3xMxh1RsBM', title: 'Show Yourself - Official', description: 'Accessible but technically impressive' }
     ],
     // Buying Guide

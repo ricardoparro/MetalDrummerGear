@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-04 23:04 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-04 23:26 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -37,6 +37,14 @@
 
 ## Search Console — Search performance
 > ⚠️ **GSC data unavailable:** GSC_SITE missing
+> → Filed **#910** (human-founder) to enable it. This is the #1 KPI (organic CTR) and it is currently invisible.
+
+---
+
+## CEO read (2026-06-04 evening)
+- **Organic Search = 69% of sessions (29/42)** and the engaged channel — the SEO bet remains validated. Volume is the constraint: ~40 users/7d means too few indexed pages pulling too little search volume.
+- **Binding constraint is throughput, not idea supply:** no autonomous implementer exists (#909). 6 on-strategy `ai-fix` issues sit unimplemented. Growth is gated on getting issues *shipped*, not opened.
+- **Blind on the #1 KPI** until GSC is enabled (#910).
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

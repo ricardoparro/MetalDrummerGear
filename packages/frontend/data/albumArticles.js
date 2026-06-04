@@ -5740,10 +5740,7 @@ The connection between visual art and drumming is one of composition and space. 
     },
     // Videos
     videos: [
-      { youtubeId: '_-XaaTqOICU', title: 'Flying Whales (Live at Red Rocks)', description: 'Iconic live performance at Red Rocks Amphitheatre' },
       { youtubeId: 'FNdC_3LR2AI', title: 'Silvera (Official Video)', description: 'Studio-quality representation of Mario\'s playing' },
-      { youtubeId: 'dDaReL4zOv8', title: 'Mario Duplantier Drum Cam', description: 'Close-up view of Mario\'s technique and setup' },
-      { youtubeId: 'YGEX1JmXpYc', title: 'Stranded (Live)', description: 'Live groove demonstration' }
     ],
     // Related Content
     relatedAlbums: ['from-mars-to-sirius-drum-setup', 'magma-drum-setup'],
@@ -6122,9 +6119,7 @@ Brann's vocal drumming has influenced younger drummers to develop singing abilit
     // Videos
     videos: [
       { youtubeId: 'TsdIO8RHMTc', title: 'Oblivion - Official Video', description: 'Melodic drumming and vocals on display' },
-      { youtubeId: 'hwgqenKsNKs', title: 'Blood and Thunder - Live', description: 'Raw power and groove in concert' },
       { youtubeId: 'wNFyE2FlWjo', title: 'Brann Dailor (Mastodon) - Hearts Alive (Drum Cam)', description: 'Close-up view of flowing technique' },
-      { youtubeId: 'N3xMxh1RsBM', title: 'Show Yourself - Official', description: 'Accessible but technically impressive' }
     ],
     // Buying Guide
     buyingGuide: {
@@ -7221,9 +7216,7 @@ The M72 Tour also features Lars performing "72 Seasons" material alongside class
     },
     // Videos
     videos: [
-      { youtubeId: 'Tj75Arhq5ho', title: 'Master of Puppets - Live Performance', description: 'Classic Lars performance with signature fills' },
       { youtubeId: 'xnKhsTXoKCI', title: 'Enter Sandman - Live 2021', description: 'Modern era show with current setup' },
-      { youtubeId: 'xtT2NbT0U_A', title: 'One - Full Song Live', description: 'Famous double bass intro and dynamics showcase' },
       { youtubeId: 'uhBHL3v4d3I', title: 'Battery - Live Performance', description: 'Thrash era speed and endurance on display' }
     ],
     // Quotes
@@ -7871,9 +7864,7 @@ Today, Gene plays:
       ]
     },
     videos: [
-      { youtubeId: 'RzV0Qbg_sYE', title: 'Crystal Mountain - Official Music Video', description: 'The iconic song featuring Gene\'s legendary groove' },
       { youtubeId: 'zbp60IX_jFQ', title: 'Symbolic - Live at Wacken', description: 'Death To All tribute showcasing Gene performing these songs' },
-      { youtubeId: 'ZLXQkRKvzF0', title: 'Gene Hoglan Drumeo Lesson', description: 'Gene breaks down his technique and approach' }
     ],
     relatedAlbums: ['individual-thought-patterns-drum-setup', 'reign-in-blood-drum-setup', 'painkiller-drum-setup'],
     relatedDrummers: [4, 2, 6], // Dave Lombardo, Joey Jordison, George Kollias
@@ -8201,9 +8192,6 @@ The modern drummer who sounds most like Bill Ward? Probably Matt Cameron (Soundg
     ],
     // Related Videos
     relatedVideos: [
-      { youtubeId: 'sF3aZyYXn8M', title: 'War Pigs - Black Sabbath (Drum Cover with Notation)', description: 'Breaking down Bill\'s iconic groove and fills' },
-      { youtubeId: 'PD5Imb7vWSY', title: 'Rat Salad - Bill Ward Drum Solo', description: 'Bill\'s featured solo showcasing jazz influences' },
-      { youtubeId: 'lmE2-yHZcQI', title: 'Bill Ward Interview - Modern Drummer', description: 'Bill discusses his influences and technique' }
     ],
     // Videos
     videos: [
@@ -8493,9 +8481,6 @@ Gene has performed Symbolic material live with Death to All, the tribute project
       ]
     },
     videos: [
-      { youtubeId: 'icvR6wbO0lU', title: 'Crystal Mountain - Official Video', description: 'Music video showcasing Death in their Symbolic era' },
-      { youtubeId: 'M8qF4vY9JqE', title: 'Zero Tolerance - Live', description: 'Live performance of one of the album\'s most demanding tracks' },
-      { youtubeId: 'M7FGjhbIezo', title: 'Death To All - Symbolic', description: 'Gene Hoglan performing Symbolic material with the tribute band' }
     ],
     relatedAlbums: ['reign-in-blood-drum-setup', 'painkiller-drum-setup', 'obzen-drum-setup'],
     relatedDrummers: [4, 6, 14], // Dave Lombardo, George Kollias, Danny Carey
@@ -8815,10 +8800,7 @@ Though Adler departed Lamb of God in 2019, his playing on Ashes of the Wake rema
     },
     // Videos Section
     videos: [
-      { youtubeId: 'HL9-esIF8xM', title: 'Laid to Rest - Official Video', description: 'The iconic groove that defined a generation of metal drumming' },
-      { youtubeId: '2R6hKF3bqg0', title: 'Now You\'ve Got Something to Die For - Live', description: 'Live performance showcasing Adler\'s speed and precision' },
       { youtubeId: 'PjACk_dw1v8', title: 'Omerta - Official Video', description: 'Dynamic contrast from soft to crushing' },
-      { youtubeId: 'dJC_aBblMCQ', title: 'Chris Adler Drum Cam Compilation', description: 'Various live performances showing his technique' }
     ],
     // Related Content
     relatedAlbums: ['vulgar-display-of-power-drum-setup', 'from-mars-to-sirius-drum-setup', 'iowa-drum-setup'],
@@ -9037,9 +9019,6 @@ Cryptopsy's "As Gomorrah Burns" (2023) proved Flo is still at the top of his gam
       ]
     },
     videos: [
-      { youtubeId: 'q3JeWaFXQlE', title: 'Flo Mounier - Cryptopsy Live Drum Cam', description: 'Full live performance showcasing his extreme technique' },
-      { youtubeId: 'JmHq6xm7aDQ', title: 'Phobophile - Studio Performance', description: 'Classic None So Vile track demonstration' },
-      { youtubeId: 'TrTpDYlcXyE', title: 'Flo Mounier Drum Clinic', description: 'Educational clinic showing technique breakdown' }
     ],
     relatedAlbums: ['symbolic-drum-setup', 'reign-in-blood-drum-setup', 'iowa-drum-setup'],
     relatedDrummers: [3, 6, 4], // Gene Hoglan, George Kollias, Dave Lombardo
@@ -9289,8 +9268,6 @@ Today, Pete conducts clinics and workshops sharing his techniques with new gener
     },
     videos: [
       { youtubeId: 'IeKMMDxrsBE', title: 'Chapel of Ghouls - Live', description: 'Classic Morbid Angel performance showcasing Pete\'s technique' },
-      { youtubeId: 'SqvaW7e9Q-c', title: 'Immortal Rites - Official Video', description: 'The opening track that defined death metal drumming' },
-      { youtubeId: 'q1sXNxVjWEk', title: 'Pete Sandoval Drum Clinic', description: 'In-depth technique breakdown and Q&A' }
     ],
     quotes: [
       { text: "Speed is nothing without control. Anyone can play fast for a few seconds. Playing fast for an entire song while staying tight with the band — that's the challenge.", source: "Modern Drummer Interview", year: 1993 },
@@ -9964,10 +9941,6 @@ Today, Pete Sandoval's influence is heard in every death metal blast beat. The t
       ]
     },
     videos: [
-      { youtubeId: 'q1sXNxVjWEk', title: 'Pete Sandoval Drum Clinic', description: 'Technique breakdown and Q&A session' },
-      { youtubeId: 'ZmGNQCCZNb4', title: 'Immortal Rites - Live (1991)', description: 'Early live performance showcasing Altars material' },
-      { youtubeId: 'qlAqXLDPBN8', title: 'Chapel of Ghouls - Official Video', description: 'Classic footage from the Altars era' },
-      { youtubeId: 'HNOq8Y6nkSI', title: 'Morbid Angel - Full Set (Wacken 1998)', description: 'Complete live performance demonstrating evolution' }
     ],
     relatedAlbums: ['reign-in-blood-drum-setup', 'symbolic-drum-setup', 'iowa-drum-setup'],
     relatedDrummers: [3, 6, 4], // Gene Hoglan, George Kollias, Dave Lombardo
@@ -10229,9 +10202,7 @@ Paul's return to Testament proves he's not done. Bringing thirty-plus years of e
       ]
     },
     videos: [
-      { youtubeId: 'XMSK7t1WKSU', title: 'Slayer - War Ensemble (Paul Bostaph Live)', description: 'Paul\'s precise attack on the Slayer classic' },
       { youtubeId: 'z8ZqFlw6hYg', title: 'Slayer - Final Show at The Forum', description: 'Historic final Slayer performance with Paul on drums' },
-      { youtubeId: 'QrXNfHt9PKQ', title: 'Paul Bostaph Drum Cam - Raining Blood', description: 'Up-close view of Paul\'s technique on the iconic track' },
       { youtubeId: 'K6_zsJ8KPP0', title: 'Slayer - Repentless (Official Video)', description: 'Paul\'s studio work on Slayer\'s final album' }
     ],
     relatedAlbums: ['reign-in-blood-drum-setup', 'master-of-puppets-drum-setup', 'vulgar-display-of-power-drum-setup'],
@@ -10498,10 +10469,8 @@ The classic lineup's reunion with "Brave New World" began Iron Maiden's second g
       ]
     },
     videos: [
-      { youtubeId: '2G5rfPISIwo', title: 'Iron Maiden - The Trooper (Live)', description: 'Classic gallop demonstration from the master' },
       { youtubeId: 'geHLdg_VNww', title: 'Nicko McBrain Drum Solo', description: 'Showcasing jazz influences and technical prowess' },
       { youtubeId: 'Xg9aQvjMS60', title: 'Iron Maiden - Fear of the Dark (Live)', description: 'Epic dynamic performance from the legacy tour' },
-      { youtubeId: 'J51LPlP-s9o', title: 'Nicko McBrain - Sonor Kit Rundown', description: 'Nicko walks through his signature SQ2 setup' }
     ],
     relatedAlbums: ['number-of-the-beast-drum-setup', 'master-of-puppets-drum-setup', 'painkiller-drum-setup'],
     relatedDrummers: [1, 19, 4], // Lars Ulrich, Scott Travis, Dave Lombardo
@@ -12408,9 +12377,6 @@ Nearly 30 years after "None So Vile," Cryptopsy's latest album proves Flo is sti
       ]
     },
     videos: [
-      { youtubeId: 'q3JeWaFXQlE', title: 'Cryptopsy - Live Drum Cam', description: 'Live performance showcasing Flo\'s extreme technique' },
-      { youtubeId: 'JmHq6xm7aDQ', title: 'Phobophile - Studio Performance', description: 'Classic None So Vile track demonstration' },
-      { youtubeId: 'TrTpDYlcXyE', title: 'Flo Mounier Drum Clinic', description: 'Educational clinic showing technique breakdown' },
       { youtubeId: 'wf8p8aHULkY', title: 'Slit Your Guts - Live 2023', description: 'Modern performance of None So Vile material' }
     ],
     relatedAlbums: ['symbolic-drum-setup', 'altars-of-madness-drum-setup', 'reign-in-blood-drum-setup'],

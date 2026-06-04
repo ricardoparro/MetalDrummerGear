@@ -983,7 +983,6 @@ const drummers = [
     ],
     videos: [
       { youtubeId: 'QoNbazpnRH4', title: 'Morbid Angel - Immortal Rites (Live Drum Cam)', year: '2017' },
-      { youtubeId: 'O2G7JW6lBz8', title: 'Morbid Angel - Chapel of Ghouls (Live Drum Cam)', year: '2018' },
       { youtubeId: 'fT_UqTtpZKE', title: 'Morbid Angel - Maze of Torment (Drum Playthrough)', year: '2016' }
     ]
   },

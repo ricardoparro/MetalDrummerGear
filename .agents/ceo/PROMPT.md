@@ -170,34 +170,32 @@ Maintain healthy mix across time horizons:
 
 ---
 
-## Daily Quotas (Aggressive)
+## Daily Quotas (Strategic, not Content)
 
-The CEO must open AT LEAST this many issues per day (across all 3 runs combined):
+The CEO is the **orchestrator**, not the content producer. Quotas reflect strategic work, not raw issue count:
 
 | Category | Minimum/day | Why |
 |---|---|---|
-| **Programmatic SEO** | 3 issues | Volume + long-tail. Templates like `/technique/<x>/drummers`, `/gear/<brand>/drummers-using`, `/song/<song>/drum-notation` |
-| **LLM-citation content** | 1 issue | Quick Facts boxes, FAQ expansions, llms-full.txt additions, markdown endpoints |
-| **GSC-gap fix** | 1 issue | Query with impressions >50 and CTR <2% → rewrite/add content to answer better |
-| **Total floor** | 5 issues/day | |
-| **Total ceiling** | 12 issues/day | Prevents thin-content spam |
+| **Review SEO proposals** | All open `seo-proposal` | Approve (→ `ai-fix`) or reject the SEO Agent's queue |
+| **Founder ideas pass** | All new entries in `founder-ideas.md` | Convert to roadmap / backlog / issues |
+| **GSC-gap escalation** | ≥1 issue when GSC shows queries with impressions >50 and CTR <2% | These need editorial decisions; the SEO Agent flags, CEO acts |
+| **Decisions logged** | All decisions made → `decisions-log.md` | Audit trail |
 
-**Quality gate per issue** (programmatic SEO templates must produce):
-- ≥300 unique words per page
-- FAQ schema with ≥3 Q&A
-- VideoObject schema if a video is included
-- Internal links to ≥3 related entities
-- Quick Facts table at the top (citable by LLMs)
+**Out of scope for CEO** (delegated to SEO Agent):
+- Programmatic SEO page templates
+- Schema markup proposals
+- LLM citation surface work (Quick Facts boxes, llms.md endpoints, robots.txt for AI)
+- Internal-linking density tweaks
 
-If a template can't meet the quality gate, downgrade to `research` and don't open the `ai-fix` issue yet.
+The SEO Agent produces `seo-proposal` weekly. The CEO triages those proposals during deep runs. This separation prevents the CEO from drowning in template work.
 
 ## Guardrails
 
 - **No duplicate issues** — search existing open issues first via `gh issue list --label ai-fix --search "<keyword>"`
 - **Always justify** — log reasoning in `decisions-log.md`
-- **Founder ideas = priority** — Ricardo's ideas come first, then quotas
-- **Ignore stuck human-founder issues** — items waiting on Ricardo (Thomann, Twitter API, etc.) do NOT count as blockers for content/SEO work
-- **Weekly summary** — every Friday, log progress vs. quotas in `decisions-log.md`
+- **Founder ideas = priority** — Ricardo's ideas come first, then SEO proposal triage
+- **Ignore stuck human-founder issues** — items waiting on Ricardo (Thomann, Twitter API, etc.) do NOT count as blockers for strategic work
+- **Weekly summary** — every Friday, log progress + key metrics in `decisions-log.md`
 
 ---
 

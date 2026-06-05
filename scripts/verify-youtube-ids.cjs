@@ -208,6 +208,7 @@ function ghRequest(method, path, body) {
 }
 
 function markerFor(id) { return `<!-- broken-video-id:${id} -->`; }
+const UMBRELLA_MARKER = '<!-- broken-video-umbrella -->';
 
 async function ensureLabel(name, color, description) {
   try {
@@ -218,85 +219,60 @@ async function ensureLabel(name, color, description) {
   }
 }
 
-async function findExistingIssue(id) {
-  // Search open issues with our marker label and the id marker in the body.
+async function findUmbrellaIssue() {
   const repo = process.env.GITHUB_REPOSITORY;
-  const q = encodeURIComponent(`repo:${repo} is:issue is:open label:broken-video "${markerFor(id)}" in:body`);
+  const q = encodeURIComponent(`repo:${repo} is:issue is:open label:broken-video "${UMBRELLA_MARKER}" in:body`);
   const res = await ghRequest('GET', `/search/issues?q=${q}`);
   return res.items && res.items.length > 0 ? res.items[0] : null;
 }
 
-function buildIssueBody(id, reason, locations) {
+function buildUmbrellaBody(brokenList, idToLocations) {
   const lines = [];
-  lines.push(markerFor(id));
+  lines.push(UMBRELLA_MARKER);
   lines.push('');
-  lines.push(`**YouTube ID:** \`${id}\``);
-  lines.push(`**Reason:** \`${reason}\` (oEmbed ${reason === 'embedding_disabled' ? '401' : reason === 'not_found' ? '404' : '?'})`);
-  lines.push(`**Watch URL:** https://www.youtube.com/watch?v=${id}`);
+  lines.push(`**${brokenList.length} YouTube videos** are broken (oEmbed 401/404). Verified by \`.github/workflows/verify-youtube.yml\`.`);
   lines.push('');
-  lines.push(`## Locations in code`);
+  lines.push(`This is an **umbrella issue** — a single PR removing all listed IDs closes it. The verifier re-opens / re-uses this issue on the next run.`);
   lines.push('');
-  for (const l of locations) {
-    lines.push(`- \`${l.file}:${l.line}\` — \`${l.snippet}\``);
+  lines.push(`## Broken IDs`);
+  lines.push('');
+  lines.push(`| ID | Reason | Locations | Watch URL |`);
+  lines.push(`|---|---|---|---|`);
+  for (const r of brokenList) {
+    const locs = idToLocations.get(r.id) || [];
+    const locStr = locs.map(l => `\`${l.file}:${l.line}\``).join('<br>') || '_unknown_';
+    const reason = r.reason === 'embedding_disabled' ? 'embedding disabled (401)'
+                : r.reason === 'not_found' ? 'not found (404)'
+                : r.reason;
+    lines.push(`| \`${r.id}\` | ${reason} | ${locStr} | [▶](https://www.youtube.com/watch?v=${r.id}) |`);
   }
   lines.push('');
   lines.push(`## How to fix`);
   lines.push('');
-  lines.push(`1. Replace the ID with a working YouTube video for the same drummer/song context, or`);
-  lines.push(`2. Remove the \`youtubeId\`/\`videoId\` field if no good replacement exists (verify the component handles missing video first).`);
+  lines.push(`Same pattern as PR #911 and #944:`);
+  lines.push(`1. For each ID in the table, remove the matching \`{ youtubeId: '<id>', ... }\` line in the listed file.`);
+  lines.push(`2. \`node --check\` the touched files.`);
+  lines.push(`3. Empty \`videos: []\` arrays render-guard themselves — no further work needed.`);
+  lines.push(`4. Open one PR with \`Closes #<this-issue>\`.`);
   lines.push('');
-  lines.push(`This issue was opened automatically by \`.github/workflows/verify-youtube.yml\`.`);
-  lines.push(`It will be closed automatically when the video starts working again.`);
+  lines.push(`When all IDs in this list start working again, this issue closes automatically.`);
   return lines.join('\n');
 }
 
-async function syncIssues(idToLocations, results) {
-  await ensureLabel('broken-video', 'd73a4a', 'Broken YouTube video reference detected by verify-youtube workflow');
-  await ensureLabel('ai-fix', '7057ff', 'Issues Ralph can implement automatically');
-
-  const brokenById = new Map();
-  for (const r of results) if (r.state === 'broken') brokenById.set(r.id, r);
-
-  let opened = 0, updated = 0, closed = 0, skipped = 0;
-
-  // Open or update issues for currently-broken IDs
-  for (const [id, r] of brokenById) {
-    const locations = idToLocations.get(id) || [];
-    const body = buildIssueBody(id, r.reason, locations);
-    const title = `Broken YouTube video: ${id} (${r.reason})`;
-    try {
-      const existing = await findExistingIssue(id);
-      if (existing) {
-        // Only patch if the body has changed (locations might have moved)
-        if (existing.body !== body) {
-          await ghRequest('PATCH', `/repos/{repo}/issues/${existing.number}`, { body });
-          updated++;
-        } else {
-          skipped++;
-        }
-      } else {
-        await ghRequest('POST', `/repos/{repo}/issues`, {
-          title,
-          body,
-          labels: ['broken-video', 'ai-fix'],
-        });
-        opened++;
-      }
-    } catch (e) {
-      process.stderr.write(`  failed to sync ${id}: ${e.message}\n`);
-    }
-  }
-
-  // Close issues for IDs that are no longer broken
+async function closeStaleIndividualIssues(brokenIds) {
+  // Back-compat: close any per-ID broken-video issues created by older script versions.
+  // (We no longer create those — only the umbrella.)
+  const repo = process.env.GITHUB_REPOSITORY;
+  let closed = 0;
   try {
-    const repo = process.env.GITHUB_REPOSITORY;
     const q = encodeURIComponent(`repo:${repo} is:issue is:open label:broken-video`);
     const res = await ghRequest('GET', `/search/issues?q=${q}&per_page=100`);
     for (const issue of (res.items || [])) {
-      const match = (issue.body || '').match(/<!-- broken-video-id:([A-Za-z0-9_-]{11}) -->/);
-      if (!match) continue;
-      const id = match[1];
-      if (!brokenById.has(id)) {
+      const idMatch = (issue.body || '').match(/<!-- broken-video-id:([A-Za-z0-9_-]{11}) -->/);
+      if (!idMatch) continue;
+      const id = idMatch[1];
+      // Close if the ID is no longer broken (works for old scheme).
+      if (!brokenIds.has(id)) {
         await ghRequest('PATCH', `/repos/{repo}/issues/${issue.number}`, {
           state: 'closed',
           state_reason: 'completed',
@@ -308,11 +284,74 @@ async function syncIssues(idToLocations, results) {
       }
     }
   } catch (e) {
-    process.stderr.write(`  close-sweep failed: ${e.message}\n`);
+    process.stderr.write(`  close-sweep (individual) failed: ${e.message}\n`);
+  }
+  return closed;
+}
+
+async function syncIssues(idToLocations, results) {
+  await ensureLabel('broken-video', 'd73a4a', 'Broken YouTube video reference detected by verify-youtube workflow');
+  await ensureLabel('ai-fix', '7057ff', 'Issues Ralph can implement automatically');
+
+  const brokenList = results.filter(r => r.state === 'broken')
+    .sort((a, b) => a.id.localeCompare(b.id));
+  const brokenIds = new Set(brokenList.map(r => r.id));
+
+  // Sweep legacy per-ID issues regardless of the umbrella outcome.
+  const closedIndividual = await closeStaleIndividualIssues(brokenIds);
+
+  const existing = await findUmbrellaIssue();
+
+  if (brokenList.length === 0) {
+    if (existing) {
+      try {
+        await ghRequest('PATCH', `/repos/{repo}/issues/${existing.number}`, {
+          state: 'closed',
+          state_reason: 'completed',
+        });
+        await ghRequest('POST', `/repos/{repo}/issues/${existing.number}/comments`, {
+          body: `Closing automatically — all previously broken YouTube videos are working again.`,
+        });
+        process.stderr.write(`Umbrella issue #${existing.number} closed (0 broken)\n`);
+      } catch (e) {
+        process.stderr.write(`  failed to close umbrella: ${e.message}\n`);
+      }
+    } else {
+      process.stderr.write('No broken videos, no existing umbrella — nothing to do.\n');
+    }
+    process.stderr.write(`Issues: legacy_closed=${closedIndividual}\n`);
+    return { opened: 0, updated: 0, skipped: 0, closed: closedIndividual };
   }
 
-  process.stderr.write(`Issues: opened=${opened} updated=${updated} skipped=${skipped} closed=${closed}\n`);
-  return { opened, updated, skipped, closed };
+  const body = buildUmbrellaBody(brokenList, idToLocations);
+  const title = `${brokenList.length} broken YouTube videos detected`;
+
+  let opened = 0, updated = 0, skipped = 0;
+  try {
+    if (existing) {
+      if (existing.body !== body || existing.title !== title) {
+        await ghRequest('PATCH', `/repos/{repo}/issues/${existing.number}`, { title, body });
+        updated++;
+        process.stderr.write(`Umbrella issue #${existing.number} updated (${brokenList.length} broken)\n`);
+      } else {
+        skipped++;
+        process.stderr.write(`Umbrella issue #${existing.number} unchanged (${brokenList.length} broken)\n`);
+      }
+    } else {
+      const created = await ghRequest('POST', `/repos/{repo}/issues`, {
+        title,
+        body,
+        labels: ['broken-video', 'ai-fix'],
+      });
+      opened++;
+      process.stderr.write(`Umbrella issue #${created.number} created (${brokenList.length} broken)\n`);
+    }
+  } catch (e) {
+    process.stderr.write(`  failed to sync umbrella: ${e.message}\n`);
+  }
+
+  process.stderr.write(`Issues: opened=${opened} updated=${updated} skipped=${skipped} legacy_closed=${closedIndividual}\n`);
+  return { opened, updated, skipped, closed: closedIndividual };
 }
 
 (async () => {

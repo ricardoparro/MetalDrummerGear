@@ -1009,13 +1009,6 @@ This guide is specifically designed for beginners with a total budget around $1,
               duration: "14:56",
               description: "In-depth look at the most popular starter kit"
             },
-            {
-              title: "Budget Cymbal Comparison",
-              creator: "EMC Productions",
-              youtubeId: "1i_kIvvXi-k",
-              duration: "22:18",
-              description: "Comparing Zildjian, Sabian, and Meinl budget lines"
-            }
           ]
         }
       ]

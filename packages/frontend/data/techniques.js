@@ -60,8 +60,6 @@ export const techniques = {
       tips: 'Consider trigger pads or electronic triggers for consistent sound at extreme speeds. Many blast beat masters use triggered kicks for live performance clarity.',
     },
     videos: [
-      { title: 'George Kollias - Intense Metal Drumming Tutorial', url: 'https://www.youtube.com/watch?v=_TUnfVV3hBQ', platform: 'YouTube' },
-      { title: 'How to Play Blast Beats - Metal Drumming Tutorial', url: 'https://www.youtube.com/watch?v=aQp3hqeB69U', platform: 'YouTube' },
     ],
     relatedTechniques: ['gravity-blast', 'double-bass', 'triggered-drums'],
     seoKeywords: ['blast beat', 'how to play blast beats', 'extreme metal drumming', 'blast beat tutorial', 'death metal drums'],
@@ -121,8 +119,6 @@ export const techniques = {
       tips: 'Consider spring tension carefully - too tight causes fatigue, too loose loses control. Many pros use slightly different tensions for lead vs. following foot.',
     },
     videos: [
-      { title: 'Double Bass Speed & Control Tutorial', url: 'https://www.youtube.com/watch?v=T5yXWMNqk9g', platform: 'YouTube' },
-      { title: 'George Kollias - Extreme Foot Speed Workout', url: 'https://www.youtube.com/watch?v=RfTmP_gQJ8s', platform: 'YouTube' },
     ],
     relatedTechniques: ['blast-beat', 'triggered-drums', 'odd-time-signatures'],
     seoKeywords: ['double bass drumming', 'double kick technique', 'heel toe technique', 'metal bass drum', 'double pedal tutorial'],
@@ -175,8 +171,6 @@ export const techniques = {
       tips: 'Head tension is critical - too loose and the stick absorbs into the head; too tight and bounce becomes unpredictable. Find the sweet spot for your playing style.',
     },
     videos: [
-      { title: 'One-Handed Roll / Gravity Blast Tutorial', url: 'https://www.youtube.com/watch?v=5xLLvPGQnc8', platform: 'YouTube' },
-      { title: 'How to Play the Gravity Blast', url: 'https://www.youtube.com/watch?v=6Vy5KKpwHRY', platform: 'YouTube' },
     ],
     relatedTechniques: ['blast-beat', 'one-handed-roll'],
     seoKeywords: ['gravity blast', 'one-handed roll', 'push-pull technique', 'extreme drumming', 'fast snare technique'],
@@ -230,7 +224,6 @@ export const techniques = {
       tips: 'Polyrhythms are about feel, not just math. Once you understand the numbers, forget them and feel the groove. Record yourself to hear how the patterns interact.',
     },
     videos: [
-      { title: 'Tomas Haake - Meshuggah Polyrhythm Analysis', url: 'https://www.youtube.com/watch?v=Q2k_hs2Lxmk', platform: 'YouTube' },
       { title: 'Understanding Polyrhythms for Drummers', url: 'https://www.youtube.com/watch?v=U9CgR2Y6XO4', platform: 'YouTube' },
     ],
     relatedTechniques: ['odd-time-signatures', 'double-bass'],
@@ -287,7 +280,6 @@ export const techniques = {
     },
     videos: [
       { title: 'Danny Carey - Tool Drumming Breakdown', url: 'https://www.youtube.com/watch?v=FssULNGSZIA', platform: 'YouTube' },
-      { title: 'Playing in Odd Time Signatures - Tutorial', url: 'https://www.youtube.com/watch?v=JwWfJjgC2Nc', platform: 'YouTube' },
     ],
     relatedTechniques: ['polyrhythms', 'double-bass'],
     seoKeywords: ['odd time signatures', 'prog metal drums', '7/8 time', '5/4 drumming', 'complex meters'],
@@ -337,8 +329,6 @@ export const techniques = {
       tips: 'The second stroke should come from the rebound, not from additional effort. If you\'re working hard for the second note, you\'re doing it wrong. Let the stick do the work.',
     },
     videos: [
-      { title: 'Jojo Mayer - Secret Weapons for the Modern Drummer', url: 'https://www.youtube.com/watch?v=m8uVCzA2pGo', platform: 'YouTube' },
-      { title: 'Push-Pull Technique Tutorial', url: 'https://www.youtube.com/watch?v=s6yHxKS6cvE', platform: 'YouTube' },
     ],
     relatedTechniques: ['gravity-blast', 'blast-beat'],
     seoKeywords: ['one-handed roll', 'push-pull technique', 'fast drumming', 'drum roll technique', 'single hand roll'],
@@ -397,8 +387,6 @@ export const techniques = {
       tips: 'The goal is consistency, not replacement. Best triggered sounds still rely on good acoustic technique. Practice without triggers first, then add them for enhancement.',
     },
     videos: [
-      { title: 'Complete Guide to Drum Triggers', url: 'https://www.youtube.com/watch?v=B9d6-0pT0bY', platform: 'YouTube' },
-      { title: 'Triggered vs Acoustic Metal Drums', url: 'https://www.youtube.com/watch?v=qHhNvjKBrnc', platform: 'YouTube' },
     ],
     relatedTechniques: ['blast-beat', 'double-bass'],
     seoKeywords: ['drum triggers', 'triggered drums', 'metal drum triggering', 'kick trigger', 'drum samples'],
@@ -454,8 +442,6 @@ export const techniques = {
       tips: 'Groove is about restraint. Less is more. A well-placed kick drum hit matters more than a hundred notes. Serve the song, not your ego.',
     },
     videos: [
-      { title: 'Vinnie Paul - Groove Metal Drumming Lesson', url: 'https://www.youtube.com/watch?v=p9gB96jP2hI', platform: 'YouTube' },
-      { title: 'Chris Adler - Groove & Technique Tutorial', url: 'https://www.youtube.com/watch?v=s7o8k-lxdQU', platform: 'YouTube' },
     ],
     relatedTechniques: ['double-bass', 'odd-time-signatures'],
     seoKeywords: ['groove metal drumming', 'pantera drums', 'heavy drumming', 'metal groove', 'pocket drumming'],
@@ -506,8 +492,6 @@ export const techniques = {
       tips: 'Linear drumming requires precise independence. Practice slowly with a metronome, focusing on equal spacing between all notes. Speed comes with accuracy.',
     },
     videos: [
-      { title: 'Matt Garstka - Linear Drumming Masterclass', url: 'https://www.youtube.com/watch?v=1THtXVsHHuU', platform: 'YouTube' },
-      { title: 'Introduction to Linear Drumming', url: 'https://www.youtube.com/watch?v=M6p3rOrCn-k', platform: 'YouTube' },
     ],
     relatedTechniques: ['polyrhythms', 'groove-drumming'],
     seoKeywords: ['linear drumming', 'linear drum patterns', 'progressive metal drums', 'no overlapping drumming', 'drum independence'],
@@ -561,8 +545,6 @@ export const techniques = {
       tips: 'Fills should lead somewhere - usually back to the groove. Practice fills that end on beat 1 with a crash. The resolution matters as much as the fill itself.',
     },
     videos: [
-      { title: 'Metal Drum Fills - Essential Patterns', url: 'https://www.youtube.com/watch?v=mYGD3aXwKn8', platform: 'YouTube' },
-      { title: 'Killer Metal Drum Fills Tutorial', url: 'https://www.youtube.com/watch?v=fqHfGMYgJdw', platform: 'YouTube' },
     ],
     relatedTechniques: ['linear-drumming', 'blast-beat'],
     seoKeywords: ['metal drum fills', 'drum fill patterns', 'drum transitions', 'drum fill tutorial', 'tom patterns'],

@@ -128,12 +128,6 @@ export const SIGNATURE_LICKS = {
       description: 'Watch Joey execute this blast live',
     },
     
-    tutorial: {
-      youtubeId: 'jHfKLTsMvEY',
-      startTime: 0,
-      title: 'Blast Beat Tutorial',
-      description: 'How to build blast beat stamina',
-    },
     
     gearUsed: [
       { name: 'Pearl Joey Jordison Signature Snare', type: 'snare', link: '/drummers/joey-jordison/signature/joey-jordison-pearl-signature-snare' },
@@ -254,12 +248,6 @@ export const SIGNATURE_LICKS = {
       description: 'The classic intro that defined a generation',
     },
     
-    tutorial: {
-      youtubeId: 'qBp3yKTuJC4',
-      startTime: 0,
-      title: 'One Drum Cover Tutorial',
-      description: 'Full breakdown of Lars\'s approach',
-    },
     
     gearUsed: [
       { name: 'Tama Artstar ES Kit', type: 'drums', link: null },
@@ -318,12 +306,6 @@ export const SIGNATURE_LICKS = {
       description: 'The groove that fills stadiums',
     },
     
-    tutorial: {
-      youtubeId: 'MhZ2VQMZ0qU',
-      startTime: 0,
-      title: 'Enter Sandman Beginner Tutorial',
-      description: 'Perfect for your first metal song',
-    },
     
     gearUsed: [
       { name: 'Tama Starclassic Kit', type: 'drums', link: null },
@@ -382,12 +364,6 @@ export const SIGNATURE_LICKS = {
       description: 'The thrash anthem that never gets old',
     },
     
-    tutorial: {
-      youtubeId: 'r2o4Sxa78YI',
-      startTime: 0,
-      title: 'Master of Puppets Breakdown',
-      description: 'Full song drum tutorial',
-    },
     
     gearUsed: [
       { name: 'Tama Artstar II Kit', type: 'drums', link: null },
@@ -449,12 +425,6 @@ export const SIGNATURE_LICKS = {
       description: 'The most iconic intro in thrash',
     },
     
-    tutorial: {
-      youtubeId: 'Wd45xLfHSGA',
-      startTime: 0,
-      title: 'Angel of Death Drum Cover',
-      description: 'Full speed demonstration and breakdown',
-    },
     
     gearUsed: [
       { name: 'Tama Artstar Custom Kit', type: 'drums', link: null },
@@ -513,12 +483,6 @@ export const SIGNATURE_LICKS = {
       description: 'The storm unleashed',
     },
     
-    tutorial: {
-      youtubeId: '9Uac-uNzGRw',
-      startTime: 0,
-      title: 'Raining Blood Double Bass Tutorial',
-      description: 'Building speed and endurance',
-    },
     
     gearUsed: [
       { name: 'Tama Artstar Custom Kit', type: 'drums', link: null },
@@ -639,12 +603,6 @@ export const SIGNATURE_LICKS = {
       description: 'Gravity blast technique explained',
     },
     
-    tutorial: {
-      youtubeId: '_TUnfVV3hBQ',
-      startTime: 120,
-      title: 'One-Handed Roll Tutorial',
-      description: 'George explains the technique',
-    },
     
     gearUsed: [
       { name: 'Pearl Reference Series Kit', type: 'drums', link: null },
@@ -762,12 +720,6 @@ export const SIGNATURE_LICKS = {
       description: 'Sustained extreme speed demonstration',
     },
     
-    tutorial: {
-      youtubeId: '_TUnfVV3hBQ',
-      startTime: 300,
-      title: 'Building Blast Beat Stamina',
-      description: 'George\'s endurance training approach',
-    },
     
     gearUsed: [
       { name: 'Pearl Reference Series Kit', type: 'drums', link: null },
@@ -829,12 +781,6 @@ export const SIGNATURE_LICKS = {
       description: 'Polyrhythmic grooves in action',
     },
     
-    tutorial: {
-      youtubeId: 'yjqKPzuUqbw',
-      startTime: 0,
-      title: 'Gojira Drumming Style Breakdown',
-      description: 'Understanding Mario\'s approach',
-    },
     
     gearUsed: [
       { name: 'Mapex Saturn V Kit', type: 'drums', link: null },
@@ -952,12 +898,6 @@ export const SIGNATURE_LICKS = {
       description: 'The heavy groove in action',
     },
     
-    tutorial: {
-      youtubeId: 'yjqKPzuUqbw',
-      startTime: 180,
-      title: 'Gojira Groove Breakdown',
-      description: 'Finding the pocket in heavy music',
-    },
     
     gearUsed: [
       { name: 'Mapex Saturn Kit', type: 'drums', link: null },

@@ -180,7 +180,6 @@ This ranking considers documented BPM records, sustained speed over full perform
         highlight: '"One Take" precision at extreme speeds', 
         reason: 'Known for recording entire albums in single takes. His work with Hate Eternal and Nile set new standards for extreme drumming speed and accuracy.', 
         bpm: '260+',
-        showcaseVideo: { youtubeId: 'uS1a9CiPjKE', title: 'Derek Roddy - Blasting Speed Demonstration' },
         gearHighlight: 'Axis Longboard pedals with custom spring tension for speed',
         technique: 'Swivel technique pioneer — rotates ankle for alternating strokes',
         funFacts: [
@@ -235,7 +234,6 @@ This ranking considers documented BPM records, sustained speed over full perform
         highlight: 'Blackened death metal fury', 
         reason: 'Inferno\'s relentless double bass assault powers Behemoth\'s crushing sound. His precision at extreme tempos while maintaining groove is unmatched in black metal.', 
         bpm: '240+',
-        showcaseVideo: { youtubeId: 'Czz_gKVl4lg', title: 'Inferno - Behemoth Drum Cam Compilation' },
         gearHighlight: 'Pearl Masterworks kit, custom Czarcie Kopyto (Devil\'s Hoof) pedals',
         technique: 'Heel-up technique with exceptional ankle flexibility',
         funFacts: [
@@ -263,7 +261,6 @@ This ranking considers documented BPM records, sustained speed over full perform
         highlight: 'Industrial precision machine', 
         reason: 'Raymond Herrera\'s machine-gun double bass defined Fear Factory\'s sound. His triggered kick drum precision influenced countless industrial and groove metal drummers.', 
         bpm: '220+',
-        showcaseVideo: { youtubeId: 'xvKj7aLe1-0', title: 'Fear Factory - Replica Live Drum Cam' },
         gearHighlight: 'Heavily triggered setup for mechanical precision',
         technique: 'Lock-step with machine-like patterns, pioneered industrial metal drumming',
         funFacts: [

@@ -478,16 +478,6 @@ But don't let the complexity fool you—Danny's playing always serves the music.
         url: "https://www.youtube.com/watch?v=FssULNGSZIA",
         description: "12 minutes of Danny's technique on Tool's epic opener"
       },
-      {
-        title: "Danny Carey - Forty Six & 2 (Isolated Drums)",
-        url: "https://www.youtube.com/watch?v=5OxLxJAGAuw",
-        description: "Hear every hit on a polyrhythmic classic"
-      },
-      {
-        title: "Danny Carey Drum Clinic",
-        url: "https://www.youtube.com/watch?v=FQEqHB0bfhM",
-        description: "Rare clinic footage showing technique and philosophy"
-      }
     ],
     budgetSetups: {
       budget: {

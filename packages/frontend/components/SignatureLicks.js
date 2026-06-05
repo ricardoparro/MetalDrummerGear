@@ -23,6 +23,7 @@ import {
   getAllLicks,
   filterLicks,
   generateLickSchema,
+  getLickThumbId,
   generateLicksHubSchema,
   getAvailableDifficulties,
   getAvailableStyles,
@@ -111,7 +112,10 @@ export function updateLickMeta(lick) {
 
   const title = lick.seo.title;
   const description = lick.seo.description;
-  const image = `https://i.ytimg.com/vi/${lick.video.youtubeId}/maxresdefault.jpg`;
+  const thumbId = getLickThumbId(lick);
+  const image = thumbId
+    ? `https://i.ytimg.com/vi/${thumbId}/maxresdefault.jpg`
+    : 'https://metalforge.io/images/og/signature-licks.png';
   const url = `https://metalforge.io/drummers/${lick.drummerSlug}/licks/${lick.slug}`;
 
   document.title = title;
@@ -123,15 +127,19 @@ export function updateLickMeta(lick) {
   setMeta('og:description', description, true);
   setMeta('og:image', image, true);
   setMeta('og:url', url, true);
-  setMeta('og:type', 'video.other', true);
-  setMeta('og:video', `https://www.youtube.com/embed/${lick.video.youtubeId}`, true);
+  setMeta('og:type', lick.video ? 'video.other' : 'article', true);
+  if (lick.video) {
+    setMeta('og:video', `https://www.youtube.com/embed/${lick.video.youtubeId}`, true);
+  }
 
   // Twitter
   setMeta('twitter:card', 'summary_large_image');
   setMeta('twitter:title', title);
   setMeta('twitter:description', description);
   setMeta('twitter:image', image);
-  setMeta('twitter:player', `https://www.youtube.com/embed/${lick.video.youtubeId}`);
+  if (lick.video) {
+    setMeta('twitter:player', `https://www.youtube.com/embed/${lick.video.youtubeId}`);
+  }
 
   // Canonical URL
   let canonical = document.querySelector('link[rel="canonical"]');
@@ -491,7 +499,8 @@ function FilterBar({ filters, onFilterChange, theme, isMobile }) {
 // ==========================================
 
 function LickCard({ lick, theme, onPress, isMobile }) {
-  const thumbnailUrl = `https://i.ytimg.com/vi/${lick.video.youtubeId}/mqdefault.jpg`;
+  const thumbId = getLickThumbId(lick);
+  const thumbnailUrl = thumbId ? `https://i.ytimg.com/vi/${thumbId}/mqdefault.jpg` : null;
 
   return (
     <TouchableOpacity
@@ -502,12 +511,18 @@ function LickCard({ lick, theme, onPress, isMobile }) {
       <View style={styles.lickCardContent}>
         {/* Thumbnail */}
         <View style={styles.lickCardThumbnail}>
-          <Image
-            source={{ uri: thumbnailUrl }}
-            style={styles.lickCardImage}
-            contentFit="cover"
-            accessibilityLabel={`${lick.name} by ${lick.drummerName} thumbnail`}
-          />
+          {thumbnailUrl ? (
+            <Image
+              source={{ uri: thumbnailUrl }}
+              style={styles.lickCardImage}
+              contentFit="cover"
+              accessibilityLabel={`${lick.name} by ${lick.drummerName} thumbnail`}
+            />
+          ) : (
+            <View style={[styles.lickCardImage, { backgroundColor: theme.border, alignItems: 'center', justifyContent: 'center' }]}>
+              <Text style={{ fontSize: 28 }}>🥁</Text>
+            </View>
+          )}
           <View style={styles.lickCardPlayIcon}>
             <Text style={{ fontSize: 20 }}>▶️</Text>
           </View>
@@ -967,20 +982,22 @@ export function LickDetailPage({ theme, onBack, lickSlug, drummers }) {
         </View>
       </View>
 
-      {/* Main Video */}
-      <View style={styles.videoSection}>
-        <Text style={[styles.sectionTitle, { color: theme.text }]}>📹 Watch & Learn</Text>
-        <YouTubeEmbed
-          videoId={lick.video.youtubeId}
-          title={lick.video.title}
-          theme={theme}
-          startTime={lick.video.startTime}
-          endTime={lick.video.endTime}
-        />
-        <Text style={[styles.videoDescription, { color: theme.secondaryText }]}>
-          {lick.video.description}
-        </Text>
-      </View>
+      {/* Main Video (only when a primary video exists) */}
+      {lick.video && (
+        <View style={styles.videoSection}>
+          <Text style={[styles.sectionTitle, { color: theme.text }]}>📹 Watch & Learn</Text>
+          <YouTubeEmbed
+            videoId={lick.video.youtubeId}
+            title={lick.video.title}
+            theme={theme}
+            startTime={lick.video.startTime}
+            endTime={lick.video.endTime}
+          />
+          <Text style={[styles.videoDescription, { color: theme.secondaryText }]}>
+            {lick.video.description}
+          </Text>
+        </View>
+      )}
 
       {/* Description */}
       <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
@@ -1699,7 +1716,8 @@ export function LickOfTheDayWidget({ theme, onNavigate }) {
 
   if (!lickOfTheDay) return null;
 
-  const thumbnailUrl = `https://i.ytimg.com/vi/${lickOfTheDay.video.youtubeId}/mqdefault.jpg`;
+  const thumbId = getLickThumbId(lickOfTheDay);
+  const thumbnailUrl = thumbId ? `https://i.ytimg.com/vi/${thumbId}/mqdefault.jpg` : null;
 
   const handlePress = useCallback(() => {
     // Track GA4 event
@@ -1738,12 +1756,18 @@ export function LickOfTheDayWidget({ theme, onNavigate }) {
       >
         {/* Video Thumbnail */}
         <View style={lickOfTheDayStyles.thumbnailContainer}>
-          <Image
-            source={{ uri: thumbnailUrl }}
-            style={lickOfTheDayStyles.thumbnail}
-            contentFit="cover"
-            accessibilityLabel={`${lickOfTheDay.name} by ${lickOfTheDay.drummerName} - Lick of the Day`}
-          />
+          {thumbnailUrl ? (
+            <Image
+              source={{ uri: thumbnailUrl }}
+              style={lickOfTheDayStyles.thumbnail}
+              contentFit="cover"
+              accessibilityLabel={`${lickOfTheDay.name} by ${lickOfTheDay.drummerName} - Lick of the Day`}
+            />
+          ) : (
+            <View style={[lickOfTheDayStyles.thumbnail, { backgroundColor: theme.border, alignItems: 'center', justifyContent: 'center' }]}>
+              <Text style={{ fontSize: 40 }}>🥁</Text>
+            </View>
+          )}
           <View style={lickOfTheDayStyles.playOverlay}>
             <View style={lickOfTheDayStyles.playButton}>
               <Text style={{ fontSize: 28 }}>▶️</Text>

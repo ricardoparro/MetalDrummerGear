@@ -10790,7 +10790,6 @@ The common thread among all these drummers is understanding that groove matters 
     videos: [
       { youtubeId: 'AkFqg5wAuFk', title: 'Pantera - Walk (Official Video)', description: 'The definitive groove metal drum performance' },
       { youtubeId: 'E929gqIcwwI', title: 'Pantera - Cowboys from Hell (Live)', description: 'Vinnie\'s power and groove in full effect' },
-      { youtubeId: 'N-LPVqlPtPI', title: 'Pantera - 5 Minutes Alone', description: 'Masterclass in half-time groove drumming' },
       { youtubeId: 'i8Jjy3Zy7kk', title: 'Vinnie Paul Drum Cam - Hellyeah', description: 'Late-career footage showing consistent power' }
     ],
     relatedAlbums: ['vulgar-display-of-power-drum-setup', 'reign-in-blood-drum-setup', 'master-of-puppets-drum-setup'],
@@ -11105,9 +11104,6 @@ The Portnoy/Mangini comparison teaches that there are multiple valid approaches 
     videos: [
       { youtubeId: 'n-DKs0qfdEk', title: 'Dream Theater - On the Backs of Angels', description: 'Mangini\'s Grammy-nominated Dream Theater debut' },
       { youtubeId: 'RoVAUUFjl0I', title: 'Mike Mangini World Record Performance', description: 'The drumming speed that made history' },
-      { youtubeId: 'LlI0WA-J9TU', title: 'Dream Theater Audition Documentary', description: 'Behind the scenes of the historic audition' },
-      { youtubeId: 'qzR30Q3xvv4', title: 'Dream Theater - Paralyzed (Official Video)', description: 'Mangini\'s mature work with the band' },
-      { youtubeId: 'pOxT4Qus4C8', title: 'Mike Mangini Drum Cam - The Dance of Eternity', description: 'Technical mastery on Dream Theater\'s most complex track' }
     ],
     relatedAlbums: ['images-and-words-drum-setup', 'lateralus-drum-setup', 'master-of-puppets-drum-setup'],
     relatedDrummers: [13, 5, 14], // Mike Portnoy, Tomas Haake, Danny Carey
@@ -11379,9 +11375,7 @@ Vinnie's work as co-producer on Cowboys from Hell launched his second career as 
       ]
     },
     videos: [
-      { youtubeId: '5GGEi3sM0O0', title: 'Cowboys from Hell - Official Video', description: 'The video that introduced Pantera to the world' },
       { youtubeId: 'RVMvART9kb8', title: 'Cemetery Gates - Official Video', description: 'Showcasing Pantera\'s dynamic range' },
-      { youtubeId: 'qVA8YQXBfW4', title: 'Pantera - Moscow 1991 Live', description: 'Era-appropriate live performance showing Vinnie\'s setup' },
       { youtubeId: 'i97OkCXwotE', title: 'Vinnie Paul Drum Cam Compilation', description: 'Various footage of Vinnie\'s legendary playing' }
     ],
     relatedAlbums: ['vulgar-display-of-power-drum-setup', 'reign-in-blood-drum-setup', 'master-of-puppets-drum-setup'],
@@ -12043,9 +12037,6 @@ Songs like "The Art of Dying" and the title track are marathons. Nine minutes of
     },
     videos: [
       { youtubeId: 'BGHlZwMYO9g', title: 'The Art of Dying - Official Video', description: 'Arguably the greatest death metal song ever written — 9 minutes of progressive devastation' },
-      { youtubeId: 'nbcXqOOqH-4', title: 'Oroborus - Official Video', description: 'Album opener showcasing Gojira\'s crushing groove' },
-      { youtubeId: 'Q9FTaxk_cMs', title: 'Toxic Garbage Island', description: 'Environmental message with relentless double bass' },
-      { youtubeId: 'VLtSCd6VBMs', title: 'Gojira Live at Hellfest 2009', description: 'Era-appropriate live footage showing Mario\'s command of these songs' }
     ],
     relatedAlbums: ['from-mars-to-sirius-drum-setup', 'obzen-drum-setup', 'ashes-of-the-wake-drum-setup'],
     relatedDrummers: [5, 14, 7], // Tomas Haake, Danny Carey, Eloy Casagrande
@@ -12377,7 +12368,6 @@ Nearly 30 years after "None So Vile," Cryptopsy's latest album proves Flo is sti
       ]
     },
     videos: [
-      { youtubeId: 'wf8p8aHULkY', title: 'Slit Your Guts - Live 2023', description: 'Modern performance of None So Vile material' }
     ],
     relatedAlbums: ['symbolic-drum-setup', 'altars-of-madness-drum-setup', 'reign-in-blood-drum-setup'],
     relatedDrummers: [3, 6, 17], // Gene Hoglan, George Kollias, Pete Sandoval
@@ -12661,7 +12651,6 @@ Modern setups often include additional splash and effects cymbals for electronic
       { youtubeId: 'F_6IjeprfEs', title: 'Roots Bloody Roots - Live', description: 'Classic Sepultura performance showcasing tribal drumming' },
       { youtubeId: 'NiwqRSCWw2g', title: 'Refuse/Resist - Live', description: 'Chaos A.D. era groove and power' },
       { youtubeId: '6ODNxy3YOPU', title: 'Arise - Live', description: 'Pure thrash metal excellence' },
-      { youtubeId: 'Wkp8RaKr92s', title: 'Igor Cavalera Drum Cam', description: 'Close-up of Igor\'s technique and setup' }
     ],
     // Quotes
     quotes: [
@@ -13059,10 +13048,6 @@ Recording an entire thrash album at 18 requires serious conditioning. Igor's per
       ]
     },
     videos: [
-      { youtubeId: 'GnCPCaS7x8Y', title: 'Inner Self - Official Video', description: 'Classic video showing Sepultura\'s 1989 era' },
-      { youtubeId: 'B0n8WMj0RXI', title: 'Beneath the Remains Live 1991', description: 'Era-appropriate live performance' },
-      { youtubeId: 'yxcJGz_KiMI', title: 'Igor Cavalera - Drum Cam Archive', description: 'Vintage drum cam footage' },
-      { youtubeId: 'QvlLXJGEz0w', title: 'Stronger Than Hate - Live', description: 'Album-era live intensity' }
     ],
     relatedAlbums: ['roots-drum-setup', 'reign-in-blood-drum-setup', 'master-of-puppets-drum-setup'],
     relatedDrummers: [4, 1, 3], // Dave Lombardo, Lars Ulrich, Gene Hoglan
@@ -13476,7 +13461,6 @@ Igor's posture and technique evolved for this album. Less constant heel-up doubl
       { youtubeId: '6ODNxy3YOPU', title: 'Refuse/Resist - Official Video', description: 'The iconic video that defined groove metal' },
       { youtubeId: 'Q_WHGV5bejk', title: 'Territory - Official Video', description: 'Classic video showing Sepultura\'s 1993 era' },
       { youtubeId: 'NiwqRSCWw2g', title: 'Slave New World - Official Video', description: 'Political imagery meets heavy music' },
-      { youtubeId: 'kzQpiHjdpr4', title: 'Chaos A.D. Live 1994', description: 'Album-era live performance showing the groove in action' }
     ],
     relatedAlbums: ['roots-drum-setup', 'beneath-the-remains-drum-setup', 'arise-drum-setup'],
     relatedDrummers: [4, 1, 3, 11], // Dave Lombardo, Lars Ulrich, Gene Hoglan, Vinnie Paul
@@ -13827,10 +13811,7 @@ When Matt joined Animals as Leaders, he transformed the band's rhythmic approach
     ],
     // Videos
     videos: [
-      { youtubeId: 'IhoqkthUNis', title: 'Physical Education - Drum Playthrough', description: 'Official playthrough showing ghost note technique' },
       { youtubeId: 'bt-RoSzsEKA', title: 'Matt Garstka Drumeo Lesson', description: 'Comprehensive technique breakdown' },
-      { youtubeId: 'q0LBbGK9yak', title: 'The Brain Dance - Live', description: 'Live performance demonstrating studio-quality execution' },
-      { youtubeId: 'SZ2WrN93vno', title: 'Matt Garstka Meinl Cymbal Demo', description: 'Exploring his Byzance setup and sound choices' }
     ],
     // Quotes
     quotes: [
@@ -14245,10 +14226,6 @@ Derek's greatest contribution may be proving these techniques are learnable. Bef
     ],
     // Videos
     videos: [
-      { youtubeId: 'MBfKO5aPPhs', title: 'Derek Roddy - The Evolution of Blast Beats', description: 'Landmark instructional DVD excerpt' },
-      { youtubeId: 'DPeRNExKNGo', title: 'Derek Roddy Clinic Performance', description: 'Full clinic showcasing technique and teaching approach' },
-      { youtubeId: 'Kx2f-0P0rWM', title: 'Hate Eternal - I, Monarch', description: 'Album-era performance' },
-      { youtubeId: 'pGXBdP4OXcI', title: 'Derek Roddy Drumeo Lesson', description: 'Modern technique breakdown' }
     ],
     // Quotes
     quotes: [
@@ -14648,9 +14625,6 @@ What's often overlooked is the physical conditioning required. Inferno maintains
     },
     // Videos
     videos: [
-      { youtubeId: 'BzVpkNbUlZM', title: 'Behemoth - Blow Your Trumpets Gabriel (Official)', description: 'The Satanist era showcasing Inferno\'s style' },
-      { youtubeId: 'tl7OXgLwMjQ', title: 'Behemoth - Ora Pro Nobis Lucifer (Live)', description: 'Live performance demonstrating his power' },
-      { youtubeId: 'F5GYQFM5MTs', title: 'Behemoth - Conquer All (Official)', description: 'Classic Demigod-era brutality' }
     ],
     // Related Content
     relatedAlbums: ['altars-of-madness-drum-setup', 'symbolic-drum-setup'],
@@ -14954,9 +14928,6 @@ Sean Reinert passed away in January 2020, but his innovations continue to influe
       ]
     },
     videos: [
-      { youtubeId: 'sHPbUvnepWQ', title: 'Death - Lack of Comprehension', description: 'Classic track showcasing Reinert\'s style' },
-      { youtubeId: 'wBmG-yuvwRk', title: 'Death - Cosmic Sea (Instrumental)', description: 'The ultimate display of Reinert\'s jazz vocabulary in death metal context' },
-      { youtubeId: 'WA_XwgJJBfY', title: 'Death - Flattening of Emotions', description: 'Album opener demonstrating the Human sound' }
     ],
     relatedAlbums: ['symbolic-drum-setup', 'the-sound-of-perseverance-drum-setup', 'focus-drum-setup'],
     relatedDrummers: [3, 6, 21], // Gene Hoglan, George Kollias, Pete Sandoval
@@ -15143,7 +15114,8 @@ The 14" Medium Hi-Hats struck a balance between heaviness for chick work and res
       }
     ],
     videos: [
-      { youtubeId: 'RAqBXk6hdXc', title: 'Trivium - "The Sin and the Sentence" (Drum Playthrough)', description: 'Album title track showcasing Bent\'s full arsenal' },
+      { youtubeId: 'oF8xJbpjYag', title: 'Trivium - "In the Court of the Dragon" (Live)', description: 'Progressive epic demonstrating technical range' },
+      { youtubeId: 'Uw8rLMjrXM8', title: 'Trivium - "What the Dead Men Say" (Official)', description: 'Pandemic-era single with tight, precise drumming' }
     ],
     quotes: [
       { text: "I try to bring the technicality of death metal to Trivium's music, but it has to serve the song first.", source: "Modern Drummer Magazine", year: 2019 },
@@ -15544,10 +15516,6 @@ In interviews, Lopez has emphasized that he never thought of himself as a "death
       }
     ],
     videos: [
-      { youtubeId: 'j4xCb_NN3RQ', title: 'Opeth - The Drapery Falls (Live at Shepherd\'s Bush Empire 2003)', description: 'Classic live performance with Martin Lopez' },
-      { youtubeId: '4oWhkjvXcXY', title: 'Opeth - Bleak (Official Video)', description: 'The iconic drum intro and dynamic shifts' },
-      { youtubeId: 'xvLn8j4c5l0', title: 'Opeth - Harvest (Audio)', description: 'Lopez\'s delicate acoustic drumming' },
-      { youtubeId: 'XuH1j2-8TW8', title: 'Opeth - The Leper Affinity (Live)', description: 'Full dynamic range on display' }
     ],
     quotes: [
       { text: "I never considered myself a death metal drummer. I was a drummer who happened to play in a death metal band. My influences were Tony Williams, Billy Cobham, Stewart Copeland.", source: "Modern Drummer Interview", year: 2003 },
@@ -17079,8 +17047,6 @@ Today, drummers study Rust in Peace as a masterclass in technical thrash drummin
       ]
     },
     videos: [
-      { youtubeId: 'wpGS8xhkwX4', title: 'Holy Wars - Live 1992', description: 'Era-appropriate live performance' },
-      { youtubeId: 'C1kw5xJr3mY', title: 'Hangar 18 - Official Music Video', description: 'Studio footage with Nick Menza' },
       { youtubeId: 'Lcm9qqo_qB0', title: 'Tornado of Souls - Live', description: 'Live performance showcasing Menza\'s technique' }
     ],
     relatedAlbums: ['master-of-puppets-drum-setup', 'reign-in-blood-drum-setup', 'painkiller-drum-setup'],
@@ -17681,9 +17647,6 @@ The China cymbal is essential for LOG's aggressive accents — those trashy expl
       ]
     },
     videos: [
-      { youtubeId: 'dYwMM3tkEWs', title: 'Lamb of God - "Nevermore" (Official)', description: 'Cruz\'s powerful playing on lead single from Omens' },
-      { youtubeId: 'AVCKZQ8XvMo', title: 'Lamb of God - "Memento Mori" (Official)', description: 'First single from the self-titled album' },
-      { youtubeId: 'nqNaQ8hP5eo', title: 'Lamb of God - Live 2022', description: 'Full concert showcasing Cruz\'s stage presence' }
     ],
     quotes: [
       { text: "I didn't want to be Chris Adler 2.0. I wanted to learn his parts with respect but bring my own energy to them.", source: "Modern Drummer", year: 2020 },
@@ -17960,10 +17923,6 @@ Every progressive metal drummer who uses jazz vocabulary owes a debt to Sean Rei
       ]
     },
     videos: [
-      { youtubeId: 'jh8h38p9bT4', title: 'Death - Lack of Comprehension (Live)', description: 'Sean\'s revolutionary playing on Human material' },
-      { youtubeId: 'V7nGnC2dpEI', title: 'Cynic - Veil of Maya (Official Video)', description: 'Classic Focus-era performance' },
-      { youtubeId: 'QQ4Q8FEjMjE', title: 'Sean Reinert Drum Clinic', description: 'Rare clinic footage showing his techniques' },
-      { youtubeId: 'tHqWMYhEqXk', title: 'Death - Human (Full Album)', description: 'The complete album that changed everything' }
     ],
     buyingGuide: {
       title: 'Getting Sean\'s Sound on a Budget',
@@ -18275,9 +18234,6 @@ Joining Scorpions required adjustment. The band's more melodic, hook-driven song
     },
     videos: [
       { youtubeId: 'pWB5JZRGl0U', title: 'Motörhead - Ace of Spades (Live)', description: 'Mikkey driving the classic anthem with thunderous power' },
-      { youtubeId: '5okojpC_cKE', title: 'Mikkey Dee Drum Solo (Motörhead Live)', description: 'Legendary drum solo showcasing technique and showmanship' },
-      { youtubeId: 'nNPgZjCumaU', title: 'Scorpions - Rock Believer (Official Video)', description: 'Mikkey with Scorpions — proving the fire never dies' },
-      { youtubeId: 'vpPJzrNRHdI', title: 'King Diamond - Abigail (Full Album)', description: 'Early technical work that showcased Mikkey\'s range' }
     ],
     buyingGuide: {
       title: 'Getting Mikkey\'s Thunder on a Budget',
@@ -18614,10 +18570,6 @@ Abe Cunningham proves that being a great drummer isn't about impressing other dr
     ],
     // Videos
     videos: [
-      { youtubeId: 'RVKjTlhFWHM', title: 'Change (In the House of Flies) - Live', description: 'Classic performance showing dynamic control' },
-      { youtubeId: 'V2txF4gbQuY', title: 'My Own Summer (Shove It) - Live', description: 'Raw energy and groove' },
-      { youtubeId: 'pQ1qdspwFJY', title: 'Deftones - Digital Bath', description: 'Studio track showcasing atmospheric drumming' },
-      { youtubeId: 'nWKqoFZ8E8I', title: 'Ohms - Live', description: 'Recent performance showing evolved style' }
     ],
     // Quotes
     quotes: [
@@ -19317,8 +19269,6 @@ Different songs called for different treatments. "Change" features more room sou
     // Videos
     videos: [
       { youtubeId: 'WPpDyIJdasg', title: 'Change (In the House of Flies) - Official Video', description: 'The hypnotic groove that became an unlikely hit' },
-      { youtubeId: 'UBVgRPAcEJ0', title: 'Digital Bath - Live Performance', description: 'Atmospheric hybrid drumming in live context' },
-      { youtubeId: 'AuSKbvbHwvM', title: 'Elite - Live Performance', description: 'Grammy-winning track showcasing aggressive side' },
       { youtubeId: 'sTPn4Jlrjb0', title: 'Knife Prty - Audio', description: 'Textural drumming serving atmospheric soundscape' }
     ],
     // Quotes

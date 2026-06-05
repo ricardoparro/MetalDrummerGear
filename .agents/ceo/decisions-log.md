@@ -2573,3 +2573,42 @@ The aggressive-mode floor is ≥5 issues/day. I **did not** manufacture thin pro
 4. If churn recurs (another broken-video batch) before the CI gate lands, ship another cleanup branch — but prioritize landing the gate to stop the treadmill.
 
 *Última revisão: CEO Agent — 2026-06-04 evening (found the no-implementer constraint #909; shipped broken-video cleanup branch; filed GSC #910)*
+
+---
+
+## 2026-06-05 (Friday) — Scheduled Run (Day 126, mid-day pulse) + Weekly Summary
+
+### State at start (metrics refreshed 13:57 UTC)
+- **GA4 (7d):** 40 active users / 45 sessions / 61 views. **Organic Search = 64% of sessions (29/45)** — still the dominant channel, reinforcing the SEO-compound thesis. Top pages: `/` (13), `/drummer/2` (7), and notably **`/drummers/joey-jordison/licks/joey-jordison-eyeless-blast` (4)** — a signature-lick page is in our top 3.
+- **GSC: still blind** (`GSC_SITE` missing) → #1 KPI (indexed pages × organic CTR) remains unmeasurable. Nudged this morning on #910; not re-spamming.
+- Founder inbox: **empty**. No open `seo-proposal` issues.
+- A **07:00 deep run already happened today**: re-escalated #909/#910 and shipped video-cleanup branch `fix/broken-video-batch-912-941` → Ricardo merged it (#944) + #943 (Under-$1000 guide).
+
+### Major change since 06-04: the pipeline is materially less blocked
+1. **The CEO/SEO split shipped (#977).** I now operate as strategy/orchestration only; programmatic SEO production (templates, schema, internal-linking, llms endpoints) is the **SEO Agent's** lane — and a **weekly SEO Agent cron now runs Mondays 08:00 UTC** (commit `0e2d48e`). This is exactly the separation the charter wants; it stops the CEO drowning in template work.
+2. **Actions can now open PRs.** The `GitHub Actions is not permitted to create or approve pull requests` block from 06-04 is **gone** — I opened **PR #981** directly this run. We've moved from "option B (push branch + manual compare link)" to **"option A-minus" (CEO/SEO open real PRs → Ricardo merges)**. Updated #909 accordingly. Remaining gaps for full option-A: `workflow` token scope (for the CI gate) + an autonomous merger (`implementer.yml` still `.disabled`).
+3. **verify-youtube now files one umbrella issue** (#975), not N per-ID issues — much less queue noise.
+
+### Decisions this run
+- **Promoted #835 ($2000 setup guide, tier 3/3) → `ai-fix`.** Enabler #832 (generalized `/guides/<slug>` component) merged 2026-06-01, and tiers 1 (#833) + 2 (#834/#943) shipped through it. Promoting completes the $500/$1000/$2000 affiliate funnel — the top tier carries the highest commission-per-click gear, so it's on the monetization path. My documented duty ("CEO promotes once #832 lands"). Spec'd real-gear-only (no fabricated SKUs) + WishlistButton + sitemap + cross-links.
+- **Shipped PR #981 — closes broken-video umbrella #976** (8 dead IDs, the 4th dead-batch in 6 days). This was **not** a mechanical line-delete: 5 of the 8 lived in signatureLicks `video:` blocks, and `lick.video` was a **required field accessed unconditionally** (meta tags, card thumbnail, detail embed, lick-of-the-day widget, JSON-LD schema). Since lick pages are top-traffic (Joey Jordison "Eyeless" `zRb31xYFMis` was a dead ID on our #1 lick page), a naive delete would have **crashed** them. PR makes `video` optional with defensive guards (fallback og-image, conditional render, conditional VideoObject) → future churn degrades gracefully. `node --check` clean on all 4 files; 0 dead IDs remain.
+
+### Did NOT
+- **Re-spam #909/#910** — already nudged this morning; added one substantive update to #909 (PRs now work) instead of a repeat ask.
+- **Manufacture filler SEO issues** — programmatic production is now the SEO Agent's lane (runs Monday). Filing template issues into a queue with no autonomous consumer + a working SEO cron 3 days out would be noise. The high-leverage moves were the #835 promotion + the #976 fix + flagging the PR-creation unblock.
+- **Fabricate replacement video IDs** for the 5 emptied licks — fabrication is exactly what caused the churn (#877 shipped dead IDs). Sourcing *verified* replacements is queued as a content-quality task for the SEO Agent.
+
+### 📅 Weekly Summary (week ending 2026-06-05)
+- **Traffic:** ~40 users/wk, holding; organic search 60–69% of sessions all week — the moat thesis is intact but absolute volume is still small.
+- **Shipped to main this week:** $500 guide (#867/#833), Under-$1000 guide (#943/#834), CEO/SEO agent split (#977), weekly SEO cron, verify-youtube umbrella refactor (#975), and **3 dead-video cleanups** (#944, #978, #979) totalling ~187 dead refs removed. PR #981 (8 more + hardening) pending merge.
+- **Unblocked this week:** merge deadlock (06-03, phantom required check), Actions PR-creation (06-05). Big structural wins.
+- **Still the binding constraints:** (1) **GSC blind** (#910) — can't measure the #1 KPI; (2) **no `validate-videos` CI gate** (needs `workflow` scope, #909) — dead-video treadmill will keep recurring; (3) **no autonomous merger** — every PR needs Ricardo.
+- **Portfolio note:** this week skewed heavily to short-term fixes (video churn) + medium-term content (guides). Once GSC + the CI gate land, rebalance toward the medium/long-term SEO-compound work (#870–#874 LLM/internal-linking) that the SEO Agent now owns.
+
+### Next Run (19:00 evening)
+1. **Check PR #981 + #835** — if Ricardo merged #981, confirm #976 auto-closed + prod renders the 5 emptied licks (Joey "Eyeless" especially) without the video section, no crash. If #835 was implemented, verify the guide + sitemap entry.
+2. **Check #910 (GSC)** — the moment it lands, `metrics.md` gains a query table → start filing real GSC-gap content escalations (CEO's quota item).
+3. **Watch the SEO Agent** — first Monday cron is 2026-06-08 08:00 UTC; expect its first `seo-proposal` batch to triage early next week.
+4. **#909:** if `workflow` scope is granted, the durable `validate-videos` gate becomes shippable as a PR — top priority to end the dead-video treadmill.
+
+*Última revisão: CEO Agent — 2026-06-05 mid-day (promoted #835; shipped #976 fix PR #981 w/ lick-video hardening; flagged Actions-PR unblock; Friday weekly summary)*

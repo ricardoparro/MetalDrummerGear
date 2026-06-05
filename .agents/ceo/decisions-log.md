@@ -2614,3 +2614,37 @@ The aggressive-mode floor is ≥5 issues/day. I **did not** manufacture thin pro
 4. **#909:** if `workflow` scope is granted, the durable `validate-videos` gate becomes shippable as a PR — top priority to end the dead-video treadmill.
 
 *Última revisão: CEO Agent — 2026-06-05 mid-day (promoted #835; closed dup #976 fix #981 → deferred to existing PR #980; flagged Actions-PR unblock; Friday weekly summary)*
+
+---
+
+## 2026-06-05 (Friday) — Scheduled Run (Day 126, evening review)
+
+### State at start (metrics refreshed 19:32 UTC)
+- **GA4 (7d):** 40 active users / 46 sessions / 62 views. **Organic Search = 65% of sessions (30/46)** — moat thesis holding; absolute volume still small. Top pages unchanged: `/` (13), `/drummer/2` (7), Joey "Eyeless" lick page (4) still in the top 3.
+- **GSC: STILL blind** (`GSC_SITE` missing) — #910 unanswered. The #1 KPI (indexed pages × organic CTR) remains unmeasurable. Not re-spamming; already escalated twice.
+- Founder inbox: **empty.** Open `seo-proposal`: **none.** Open `ai-fix`: #870–#874 (now the **SEO Agent's** lane post-split; first Monday cron is 06-08).
+
+### Verified the mid-day "Next Run" checklist — both shipped items landed cleanly ✅
+1. **PR #980 merged** (lick-video hardening, 8 dead IDs + `lick.video` made optional). Verified prod: the **Joey Jordison "Eyeless" lick page** (our #3 page by traffic, the one carrying dead ID `zRb31xYFMis`) returns **HTTP 200, no crash** — the defensive `getLickThumbId()` fallback works as designed. #976 auto-closed.
+2. **#835 shipped as PR #983** ($2000 setup guide + pro-setup bridge). 🏁 **Epic #830 is COMPLETE** — the full **$500 / $1,000 / $2,000 affiliate funnel is now live** (sitemap confirms `budget-metal-drum-setup-{500,1000,2000}` + `beginner`, all HTTP 200). The top tier carries the highest commission-per-click gear, so the monetization path is now end-to-end. Bonus: **10 `how-to-sound-like-<drummer>` technique guides** are also live in the sitemap — SEO-compound surface is growing.
+3. **#910 (GSC):** not answered — metrics.md still shows GSC unavailable. Unchanged.
+4. **#909 (pipeline):** no Ricardo A/B/C reply yet. Still operating **A-minus** (CEO/SEO open real PRs → Ricardo merges). The single remaining lever to end the dead-video treadmill is `workflow` token scope for the `validate-videos` CI gate.
+
+### What shipped to main today (06-05) — a heavy production day
+#911 (broken-video batch 878–908), #943 (Under-$1000 guide), #944 (batch 912–941), #975 (verify-youtube umbrella refactor), #977 (CEO/SEO split), #978 (batch 945–974), #979 (127 dead refs removed), #980 (lick-video hardening), **#983 ($2000 guide — epic done).** ~9 PRs merged; ~187+ dead video refs purged this week.
+
+### Decisions this run
+- **No new issues filed — deliberate, consistent with the established stance.** Nothing to triage (empty founder inbox, zero `seo-proposal`); both binding constraints (#909 treadmill-gate, #910 GSC) are already escalated and awaiting Ricardo; programmatic SEO production is now the SEO Agent's lane (Monday cron). Filing filler `ai-fix` issues would be noise. The evening run's job — review shipped / verify / log / queue — is the right output here.
+- **Did NOT re-spam #909/#910.** Mid-day already updated #909 (14:07) and the morning nudged #910. Re-commenting 5h later adds no signal; the decisions-log captures tonight's outcome.
+- **Did NOT self-merge** the still-open CEO-state PR #982 (this branch) — appended the evening entry to the *same* branch so the day's CEO state lands in **one** merge for Ricardo, rather than opening a competing state PR.
+
+### Portfolio read
+This week skewed **short-term** (video-churn fixes) + **medium-term** (the now-complete guide funnel). With the $830 epic closed, the next rebalance is toward **medium/long SEO-compound** (#870–#874: internal-linking density, `/llms/<slug>.md` endpoints, Quick Facts boxes, gear/technique programmatic pages) — owned by the SEO Agent starting Monday. CEO focus shifts to triaging its first `seo-proposal` batch + GSC-gap escalations the moment #910 lands.
+
+### Next Run (tomorrow 07:00 deep run)
+1. **#910 GSC** — the instant it lands, `metrics.md` gains a query/CTR table → immediately file the first real GSC-gap content escalations (CEO quota item that's been dormant since launch for lack of data).
+2. **#909** — if `workflow` scope granted, the `validate-videos` CI gate becomes a shippable PR → top priority to end the 4-batches-in-6-days treadmill at the source. If a Saturday verify-youtube batch lands first, ship a cleanup branch but keep the gate as the real fix.
+3. **SEO Agent** — first Monday cron 06-08 08:00 UTC; prep to triage its inaugural `seo-proposal` batch early next week.
+4. Confirm PR #982 (this CEO-state branch) merged; if not, it's the one outstanding CEO artifact awaiting Ricardo.
+
+*Última revisão: CEO Agent — 2026-06-05 evening (verified epic #830 complete = $500/$1k/$2k funnel live; Joey "Eyeless" lick page renders post-#980; GSC #910 + treadmill-gate #909 still the two binding constraints awaiting Ricardo)*

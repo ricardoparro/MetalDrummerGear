@@ -2573,3 +2573,48 @@ The aggressive-mode floor is ≥5 issues/day. I **did not** manufacture thin pro
 4. If churn recurs (another broken-video batch) before the CI gate lands, ship another cleanup branch — but prioritize landing the gate to stop the treadmill.
 
 *Última revisão: CEO Agent — 2026-06-04 evening (found the no-implementer constraint #909; shipped broken-video cleanup branch; filed GSC #910)*
+
+
+---
+
+## 2026-06-05 — Scheduled Run (Day 126) — pipeline now FLOWS; treadmill is the new waste
+
+### State at start (verified this run)
+- **Production HEALTHY** — metalforge.io HTTP 200, `/api/drummers` = **61**. **0 open PRs** (queue drained).
+- **Metrics (last refresh 06-04 23:26 UTC, slightly stale):** 40 active users / 42 sessions / 54 views (7d); **Organic Search = 69% of sessions** — SEO bet still validated. GSC still blind (`GSC_SITE` missing, **#910 open**).
+- **Founder inbox empty.** No `seo-proposal` issues open.
+
+### 🔑 KEYSTONE — the 06-04 "no implementer" constraint (#909) is RESOLVED IN PRACTICE
+The decision on #909 was made and it's option C-ish: **Ricardo runs Ralph locally.** Evidence in the tree:
+- `implementer.yml` was tried, then **disabled** (`dacf422`) and removed-but-kept-as-`.disabled` (`15ab157`). Confirmed: `.github/workflows/implementer.yml.disabled` present.
+- **17 commits merged today** via local Ralph. The whole **tier-guide series #830 is now COMPLETE** — #834 (under-$1000, #943) and #835 ($2000 setup + pro-setup bridge, #983) both shipped. Plus the CEO/SEO agent split (#977) and full broken-video umbrella cleanup (#978/#979/#980).
+- Net: the pipeline that the 06-04 log called "a queue with no consumer" **now has a consumer (local Ralph) and it shipped a flood today.** #909 is technically still OPEN but is stale — the operating model is settled and working. Left it for Ricardo to close; did not editorialize on the issue.
+
+### The NEW binding waste — the broken-video treadmill
+With throughput unblocked, the most expensive *recurring* pattern is now visible: **broken-video cleanup has shipped ~4× in 3 days** (#911, #944, #978/#979/#980). Root cause: `scripts/verify-youtube-ids.cjs` runs only **post-merge** (push to main/`claude/**` + daily cron) and merely **files an umbrella issue** — it never fails a build. Dead/fabricated IDs land on main, cron flags them, Ralph cleans up, repeat.
+
+### Decision — file ONE high-leverage durable fix: a pre-merge YouTube gate (#984)
+Created **#984 (`ai-fix`)**: add a `--strict` non-zero-exit mode to the existing verifier (scoped to changed IDs for speed) + a `pull_request` CI trigger that **fails PRs introducing a dead ID**. Keeps the cron as safety net. 1-click founder follow-up = mark the new check required in branch protection.
+- **Why this and not filler SEO issues:** the `ai-fix` queue already holds **5 on-strategy items (#870–#874)** on the organic→views + LLM-citation path. Piling more on adds queue depth, not throughput. The treadmill, by contrast, is pure recurring waste — killing it frees Ralph cycles for the real queue. This is the single highest-leverage *new* issue available.
+
+### Next Ralph batch — recommended sequencing of the 5 ready `ai-fix` issues
+Pipeline drained → Ralph has bandwidth. Recommended order (cheapest-high-surface first, revenue-closest before content-heavy):
+1. **#984** pre-merge video gate — stops the treadmill first, protects all later cycles.
+2. **#872** Quick Facts box (LLM citation) — cheap, all-61-pages surface, serves KPI #2 directly.
+3. **#874** internal-linking density — compounds crawl depth + rank across existing pages (KPI #1).
+4. **#871** commercial `/gear/<brand>/<series>/drummers-using` — new long-tail pages closest to affiliate revenue intent.
+5. **#870** programmatic technique pages — new indexed long-tail (KPI #1).
+6. **#873** `/llms/<slug>.md` endpoints — populate the empty `/public/llms/`; LLM citation surface.
+
+### Did NOT
+- Manufacture filler SEO issues (queue already 5-deep, on-strategy).
+- Comment on / close #909 or #910 — both founder-owned; #909 stale-but-his-call, #910 still the #1 KPI ask (GSC blind). Did not touch the 4 dormant social blockers (#525/#526/#528/#529).
+- Self-merge or run Ralph — Ricardo not present; local-Ralph is his loop.
+
+### Next Run
+1. Check #984 — if Ralph shipped it, confirm the gate fails on a dead ID, then file the 1-click "make check required" founder follow-up.
+2. Re-check the 5-issue queue (#870–#874) — promote/celebrate whatever shipped; re-sequence remainder.
+3. Check #910 (GSC) — if live, `metrics.md` gains a search table → start real GSC-gap content fixes (the #1 KPI finally visible).
+4. Refresh metrics if the cron repopulated `metrics.md`.
+
+*Última revisão: CEO Agent — 2026-06-05 (scheduled run; logged pipeline-now-flows reality, filed durable video gate #984, sequenced the Ralph queue)*

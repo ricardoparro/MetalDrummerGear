@@ -51,14 +51,6 @@ export const SIGNATURE_LICKS = {
     ],
     
     // Video reference
-    video: {
-      youtubeId: 'uwcmXeKsnTM',
-      startTime: 0,
-      endTime: 15,
-      title: 'The Heretic Anthem - Full Song',
-      description: 'Listen to the explosive intro that defined Iowa',
-    },
-    
     // Related tutorial video
     tutorial: {
       youtubeId: 'tUibKh0Z--c',
@@ -119,14 +111,6 @@ export const SIGNATURE_LICKS = {
       'Maintain consistent volume throughout',
       'Focus on wrist technique to avoid fatigue',
     ],
-    
-    video: {
-      youtubeId: 'zRb31xYFMis',
-      startTime: 110,
-      endTime: 145,
-      title: 'Eyeless - Live Performance',
-      description: 'Watch Joey execute this blast live',
-    },
     
     
     gearUsed: [
@@ -595,14 +579,6 @@ export const SIGNATURE_LICKS = {
       'Feet continue standard blast underneath',
     ],
     
-    video: {
-      youtubeId: '_TUnfVV3hBQ',
-      startTime: 30,
-      endTime: 90,
-      title: 'George Kollias Drumming Clinic',
-      description: 'Gravity blast technique explained',
-    },
-    
     
     gearUsed: [
       { name: 'Pearl Reference Series Kit', type: 'drums', link: null },
@@ -652,14 +628,6 @@ export const SIGNATURE_LICKS = {
       'Requires extreme limb independence',
       'Each limb operates somewhat independently',
     ],
-    
-    video: {
-      youtubeId: 'RfTmP_gQJ8s',
-      startTime: 0,
-      endTime: 60,
-      title: 'George Kollias Speed Workout',
-      description: 'Polyrhythmic patterns demonstrated',
-    },
     
     tutorial: null,
     
@@ -711,14 +679,6 @@ export const SIGNATURE_LICKS = {
       'Proper breathing maintains oxygen flow',
       'Efficient motion minimizes energy use',
     ],
-    
-    video: {
-      youtubeId: '_TUnfVV3hBQ',
-      startTime: 45,
-      endTime: 120,
-      title: 'George Kollias Drumming Clinic',
-      description: 'Sustained extreme speed demonstration',
-    },
     
     
     gearUsed: [
@@ -890,14 +850,6 @@ export const SIGNATURE_LICKS = {
       'Ride cymbal provides wash and texture',
     ],
     
-    video: {
-      youtubeId: '2Uu3gGkS34s',
-      startTime: 0,
-      endTime: 60,
-      title: 'Backbone - Live',
-      description: 'The heavy groove in action',
-    },
-    
     
     gearUsed: [
       { name: 'Mapex Saturn Kit', type: 'drums', link: null },
@@ -1023,8 +975,8 @@ export function generateLickSchema(lick) {
   const schema = {
     "@context": "https://schema.org",
     "@graph": [
-      // VideoObject for the main video
-      {
+      // VideoObject for the main video (omitted when the lick has no video)
+      ...(lick.video ? [{
         "@type": "VideoObject",
         "name": lick.video.title,
         "description": lick.video.description,
@@ -1033,13 +985,15 @@ export function generateLickSchema(lick) {
         "contentUrl": `https://www.youtube.com/watch?v=${lick.video.youtubeId}`,
         "embedUrl": `https://www.youtube.com/embed/${lick.video.youtubeId}`,
         "duration": lick.video.endTime ? `PT${lick.video.endTime - (lick.video.startTime || 0)}S` : undefined,
-      },
+      }] : []),
       // HowTo for learning the lick
       {
         "@type": "HowTo",
         "name": `How to Play ${lick.name}`,
         "description": lick.description,
-        "image": `https://i.ytimg.com/vi/${lick.video.youtubeId}/hqdefault.jpg`,
+        "image": lick.video
+          ? `https://i.ytimg.com/vi/${lick.video.youtubeId}/hqdefault.jpg`
+          : 'https://metalforge.io/og-image.png',
         "totalTime": "PT30M",
         "tool": lick.gearUsed.map(g => ({
           "@type": "HowToTool",
@@ -1275,7 +1229,9 @@ export function generateLickOfTheDaySchema(lick, date) {
       "@type": "HowTo",
       "name": `Learn ${lick.name}`,
       "description": lick.description,
-      "image": `https://i.ytimg.com/vi/${lick.video.youtubeId}/hqdefault.jpg`,
+      "image": lick.video
+        ? `https://i.ytimg.com/vi/${lick.video.youtubeId}/hqdefault.jpg`
+        : 'https://metalforge.io/og-image.png',
     },
   };
 }

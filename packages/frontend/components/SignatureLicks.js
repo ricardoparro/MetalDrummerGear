@@ -111,7 +111,9 @@ export function updateLickMeta(lick) {
 
   const title = lick.seo.title;
   const description = lick.seo.description;
-  const image = `https://i.ytimg.com/vi/${lick.video.youtubeId}/maxresdefault.jpg`;
+  const image = lick.video
+    ? `https://i.ytimg.com/vi/${lick.video.youtubeId}/maxresdefault.jpg`
+    : 'https://metalforge.io/og-image.png';
   const url = `https://metalforge.io/drummers/${lick.drummerSlug}/licks/${lick.slug}`;
 
   document.title = title;
@@ -123,15 +125,19 @@ export function updateLickMeta(lick) {
   setMeta('og:description', description, true);
   setMeta('og:image', image, true);
   setMeta('og:url', url, true);
-  setMeta('og:type', 'video.other', true);
-  setMeta('og:video', `https://www.youtube.com/embed/${lick.video.youtubeId}`, true);
+  setMeta('og:type', lick.video ? 'video.other' : 'article', true);
+  if (lick.video) {
+    setMeta('og:video', `https://www.youtube.com/embed/${lick.video.youtubeId}`, true);
+  }
 
   // Twitter
   setMeta('twitter:card', 'summary_large_image');
   setMeta('twitter:title', title);
   setMeta('twitter:description', description);
   setMeta('twitter:image', image);
-  setMeta('twitter:player', `https://www.youtube.com/embed/${lick.video.youtubeId}`);
+  if (lick.video) {
+    setMeta('twitter:player', `https://www.youtube.com/embed/${lick.video.youtubeId}`);
+  }
 
   // Canonical URL
   let canonical = document.querySelector('link[rel="canonical"]');
@@ -491,7 +497,9 @@ function FilterBar({ filters, onFilterChange, theme, isMobile }) {
 // ==========================================
 
 function LickCard({ lick, theme, onPress, isMobile }) {
-  const thumbnailUrl = `https://i.ytimg.com/vi/${lick.video.youtubeId}/mqdefault.jpg`;
+  const thumbnailUrl = lick.video
+    ? `https://i.ytimg.com/vi/${lick.video.youtubeId}/mqdefault.jpg`
+    : 'https://metalforge.io/og-image.png';
 
   return (
     <TouchableOpacity
@@ -508,9 +516,11 @@ function LickCard({ lick, theme, onPress, isMobile }) {
             contentFit="cover"
             accessibilityLabel={`${lick.name} by ${lick.drummerName} thumbnail`}
           />
-          <View style={styles.lickCardPlayIcon}>
-            <Text style={{ fontSize: 20 }}>▶️</Text>
-          </View>
+          {lick.video && (
+            <View style={styles.lickCardPlayIcon}>
+              <Text style={{ fontSize: 20 }}>▶️</Text>
+            </View>
+          )}
         </View>
 
         {/* Info */}
@@ -968,19 +978,21 @@ export function LickDetailPage({ theme, onBack, lickSlug, drummers }) {
       </View>
 
       {/* Main Video */}
-      <View style={styles.videoSection}>
-        <Text style={[styles.sectionTitle, { color: theme.text }]}>📹 Watch & Learn</Text>
-        <YouTubeEmbed
-          videoId={lick.video.youtubeId}
-          title={lick.video.title}
-          theme={theme}
-          startTime={lick.video.startTime}
-          endTime={lick.video.endTime}
-        />
-        <Text style={[styles.videoDescription, { color: theme.secondaryText }]}>
-          {lick.video.description}
-        </Text>
-      </View>
+      {lick.video && (
+        <View style={styles.videoSection}>
+          <Text style={[styles.sectionTitle, { color: theme.text }]}>📹 Watch & Learn</Text>
+          <YouTubeEmbed
+            videoId={lick.video.youtubeId}
+            title={lick.video.title}
+            theme={theme}
+            startTime={lick.video.startTime}
+            endTime={lick.video.endTime}
+          />
+          <Text style={[styles.videoDescription, { color: theme.secondaryText }]}>
+            {lick.video.description}
+          </Text>
+        </View>
+      )}
 
       {/* Description */}
       <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
@@ -1699,7 +1711,9 @@ export function LickOfTheDayWidget({ theme, onNavigate }) {
 
   if (!lickOfTheDay) return null;
 
-  const thumbnailUrl = `https://i.ytimg.com/vi/${lickOfTheDay.video.youtubeId}/mqdefault.jpg`;
+  const thumbnailUrl = lickOfTheDay.video
+    ? `https://i.ytimg.com/vi/${lickOfTheDay.video.youtubeId}/mqdefault.jpg`
+    : 'https://metalforge.io/og-image.png';
 
   const handlePress = useCallback(() => {
     // Track GA4 event

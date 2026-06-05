@@ -1765,6 +1765,721 @@ This guide is the entry tier of our budget series. When you're ready to step up,
         { slug: 'how-to-sound-like-dave-lombardo', title: 'How to Sound Like Dave Lombardo' }
       ]
     }
+  },
+
+  // ==========================================
+  // Issue #834: Under-$1000 mid-tier budget guide (split 2/3 of #830).
+  // /guides/budget-metal-drum-setup-1000 via the generalized component (#832).
+  // Tier ladder: $500 (split 1/3) → $1000 (this) → $2000 (split 3/3).
+  // ==========================================
+  'budget-metal-drum-setup-1000': {
+    slug: 'budget-metal-drum-setup-1000',
+    category: 'beginner',
+    priority: 2,
+
+    // SEO metadata
+    title: "The Best Metal Drum Setup Under $1000",
+    description: "Build a serious metal drum setup for under $1000. The mid-tier sweet spot: a real shell pack, a separate bronze cymbal set, an upgraded pedal, and the option to step into double bass. Honest gear picks and a smart spending plan.",
+    seoKeywords: [
+      'metal drum kit under 1000',
+      'best drum set under 1000',
+      'mid tier metal drum kit',
+      'metal shell pack',
+      'drum kit with double bass',
+      'best cymbals for metal under 500',
+      'intermediate metal drum kit',
+      'metal drums 1000 dollars',
+      'shell pack vs complete kit',
+      'best drum set for metal'
+    ],
+    ogImage: '/api/og/guide?type=beginner',
+    datePublished: '2026-06-05',
+    dateModified: '2026-06-05',
+    author: 'MetalForge Editorial',
+    wordCount: 2700,
+    readingTime: '11 min',
+
+    hero: {
+      title: "🔥 Build a Metal Kit Under $1000",
+      subtitle: "The Mid-Tier Sweet Spot: Shell Pack, Real Cymbals, Double Bass",
+      badge: "BUDGET GUIDE • $1000",
+      stats: [
+        { value: '$1000', label: 'Budget' },
+        { value: '11 min', label: 'Read Time' },
+        { value: '2026', label: 'Updated' }
+      ]
+    },
+
+    intro: {
+      title: "The Smartest Money in Metal Drumming",
+      content: `A thousand dollars is the sweet spot. It's the budget where you stop buying \"starter\" gear and start buying equipment you'll keep for years. Instead of a bundled complete kit with brass cymbals, $1000 buys a proper shell pack, a separate bronze cymbal set, a real single (or even double) pedal, and the heads to make it all sing.
+
+This is the mid tier of our budget series. If you're not there yet, our $500 guide covers complete gig-ready kits—and it's the smarter starting point if this is your first kit. When your playing outgrows this rig, the $2000 guide steps up to pro-level shells, B20 cymbals, and serious double-bass hardware.
+
+At $1000 the strategy flips from \"buy everything in one box\" to \"buy each piece on its own merits.\" A great shell pack plus a real cymbal set will out-gig any complete kit at twice the price of its individual parts. We'll show you exactly how to split the budget.`,
+      keyPoints: [
+        "$1000 buys a real shell pack + a SEPARATE bronze cymbal set",
+        "Buy each piece on its merits—no more bundled brass cymbals",
+        "A double bass pedal becomes viable at this tier",
+        "Spend on cymbals and a pedal; they outlast every shell pack"
+      ],
+      whyTrustUs: "MetalForge has analyzed gear from 500+ professional metal drummers—the $1000 tier is where most of them bought their first kit worth keeping."
+    },
+
+    budgetBreakdown: {
+      title: "Where Your $1000 Goes",
+      totalBudget: 1000,
+      description: "At this tier you buy components separately. The smart split puts real money into a shell pack and a bronze cymbal set—the two things that define how a metal kit sounds—then leaves room for an upgraded pedal and fresh heads.",
+      quickSummary: [
+        { category: 'Shell Pack', amount: 550, emoji: '🥁' },
+        { category: 'Cymbal Set', amount: 250, emoji: '🥏' },
+        { category: 'Pedal + Hardware', amount: 130, emoji: '⚙️' },
+        { category: 'Heads + Sticks', amount: 70, emoji: '🎯' }
+      ],
+      categories: [
+        {
+          name: 'Shell Pack (Drums)',
+          percentage: 55,
+          amount: '$550',
+          priority: 'CRITICAL',
+          type: 'essential',
+          notes: 'A proper 5-piece shell pack—poplar/basswood hybrids or entry birch. Sold without cymbals or hardware, so every dollar goes into the drums themselves.',
+          emoji: '🥁',
+          includes: ['Bass drum (22")', 'Snare drum', 'Rack toms (10", 12")', 'Floor tom (16")'],
+          buyingTip: 'A shell pack costs more up front than a complete kit but gives far better shells for the money.'
+        },
+        {
+          name: 'Bronze Cymbal Set',
+          percentage: 25,
+          amount: '$250',
+          priority: 'CRITICAL',
+          type: 'essential',
+          notes: 'The biggest upgrade over a $500 kit. A real B8/bronze set (hats, crash, ride) sounds dramatically better than the brass cymbals bundled with budget kits.',
+          emoji: '🥏',
+          includes: ['14" hi-hats', '16" crash', '20" ride'],
+          buyingTip: 'A boxed set (Zildjian S, Sabian B8X) is far cheaper than buying each cymbal alone.'
+        },
+        {
+          name: 'Pedal & Hardware Pack',
+          percentage: 13,
+          amount: '$130',
+          priority: 'HIGH',
+          type: 'essential',
+          notes: 'A separate hardware pack (stands + hi-hat) plus a solid single pedal. A real chain-drive pedal transforms your kick feel and is the gateway to double bass.',
+          emoji: '⚙️',
+          includes: ['Cymbal + hi-hat stands', 'Snare stand', 'Single pedal (Pearl P930 / Tama Iron Cobra 600)'],
+          buyingTip: 'Buy a hardware pack rather than individual stands—it bundles for less.'
+        },
+        {
+          name: 'Heads, Sticks & Protection',
+          percentage: 7,
+          amount: '$70',
+          priority: 'HIGH',
+          type: 'essential',
+          notes: 'Fresh 2-ply batters on kick and snare, a few pairs of sticks, a drum key, and musician earplugs.',
+          emoji: '🎯',
+          includes: ['Kick + snare batter heads', '2-3 pairs of sticks', 'Drum key', 'Musician earplugs'],
+          buyingTip: 'Shell packs sometimes ship with decent stock heads—check before replacing the toms.'
+        }
+      ],
+      essentialVsOptional: {
+        title: "Essential vs Optional at $1000",
+        essential: [
+          { item: 'Shell pack', reason: 'The drums you keep for years', cost: '$450-600' },
+          { item: 'Bronze cymbal set', reason: 'The defining sound upgrade over a budget kit', cost: '$200-300' },
+          { item: 'Hardware pack', reason: 'Stands are not included with shell packs', cost: '$80-130' },
+          { item: 'Quality single pedal', reason: 'Feel and speed, and the base for double bass', cost: '$100-130' },
+          { item: 'Fresh batter heads', reason: 'Even good shells need 2-ply metal heads', cost: '$40-60' }
+        ],
+        optional: [
+          { item: 'Double bass pedal', reason: 'Viable now—but only once single foot is solid', cost: '$200-400' },
+          { item: 'China cymbal', reason: 'The signature metal accent', cost: '$80-150' },
+          { item: 'Better snare', reason: 'A dedicated metal snare beats the shell-pack snare', cost: '$150-300' },
+          { item: 'Drum throne (upgraded)', reason: 'Comfort for long sessions', cost: '$60-120' }
+        ],
+        priorityOrder: [
+          '1. Shell pack (must have)',
+          '2. Bronze cymbal set (hats, crash, ride)',
+          '3. Hardware pack + single pedal',
+          '4. Fresh kick + snare batter heads',
+          '5. Sticks, drum key, hearing protection',
+          '6. China cymbal',
+          '7. Double bass pedal (when single foot is solid)'
+        ]
+      },
+      proTip: "Don't blow the cymbal budget on one premium crash. A complete B8/bronze set—even an entry one—gives you hats, crash, and ride that all match and sound coherent."
+    },
+
+    kitRecommendations: {
+      title: "Best Shell Packs Under $600",
+      description: "These shell packs leave room in a $1000 budget for a real cymbal set and hardware. They're the drums serious players keep for years—not throwaway starter kits.",
+      idealSpecs: {
+        title: "What to Look For Under $1000",
+        specs: [
+          { spec: 'Format', ideal: 'Shell pack (buy cymbals separately)', icon: '📦' },
+          { spec: 'Shell Material', ideal: 'Poplar/birch hybrids or entry birch', icon: '🌳' },
+          { spec: 'Bass Drum Size', ideal: '22" for metal punch', icon: '💥' },
+          { spec: 'Configuration', ideal: '5-piece (kick, snare, 2 toms, floor)', icon: '🥁' },
+          { spec: 'Upgrade Path', ideal: 'Standard sizes + room for a double pedal', icon: '🔧' }
+        ]
+      },
+      kits: [
+        {
+          rank: 1,
+          name: 'Pearl Export EXX725',
+          brand: 'Pearl',
+          price: '$549-649',
+          priceValue: 599,
+          rating: 4.7,
+          image: '/images/gear/pearl-export.webp',
+          description: 'The best-selling drum kit of all time, and for good reason. Poplar/Asian-mahogany shells, genuine Pearl hardware, and a sound that punches far above the price. The benchmark mid-tier shell pack.',
+          shellMaterial: 'Poplar / Mahogany',
+          sizes: {
+            kick: '22" x 18"',
+            snare: '14" x 5.5"',
+            toms: ['10" x 7"', '12" x 8"'],
+            floorTom: '16" x 16"'
+          },
+          pros: [
+            'Legendary resale value and reliability',
+            'Real Pearl hardware and lugs',
+            'Versatile shells that tune low for metal',
+            'Standard sizes—endless head options'
+          ],
+          cons: [
+            'Sold without cymbals (budget for those)',
+            'Hardware pack often sold separately'
+          ],
+          bestFor: 'Best all-around shell pack under $1000',
+          metalVerdict: '🤘 The Export has launched more metal careers than any other kit. Tune it low, add a 2-ply kick head, and it roars.',
+          affiliateLinks: {
+            thomann: AFFILIATE_LINKS.thomann.pearlExport,
+            sweetwater: AFFILIATE_LINKS.sweetwater.pearlExport
+          },
+          relatedDrummers: ['chris-adler', 'lars-ulrich']
+        },
+        {
+          rank: 2,
+          name: 'Tama Imperialstar',
+          brand: 'Tama',
+          price: '$499-599',
+          priceValue: 549,
+          rating: 4.6,
+          image: '/images/gear/tama-imperialstar.webp',
+          description: 'Poplar shells with Tama\'s rock-solid hardware. Often ships with a Meinl cymbal set and throne, which can stretch a $1000 budget even further.',
+          shellMaterial: 'Poplar',
+          sizes: {
+            kick: '22" x 18"',
+            snare: '14" x 5.5"',
+            toms: ['10" x 8"', '12" x 9"'],
+            floorTom: '16" x 16"'
+          },
+          pros: [
+            'Tama hardware is a genuine cut above',
+            'Some bundles include cymbals + throne',
+            'Warm, punchy poplar shells',
+            'Excellent value for the build quality'
+          ],
+          cons: [
+            'Bundled cymbals are entry-level',
+            'Slightly less resale clout than Pearl'
+          ],
+          bestFor: 'Players who want Tama hardware on a budget',
+          metalVerdict: '🤘 A bundle Imperialstar can get you most of the way to a full rig in one box—then put the savings into a real crash.',
+          affiliateLinks: {
+            thomann: AFFILIATE_LINKS.thomann.tamaImperialstar,
+            sweetwater: AFFILIATE_LINKS.sweetwater.tamaImperialstar
+          },
+          relatedDrummers: ['dave-lombardo', 'gene-hoglan']
+        },
+        {
+          rank: 3,
+          name: 'Mapex Armory',
+          brand: 'Mapex',
+          price: '$549-649',
+          priceValue: 599,
+          rating: 4.7,
+          image: '/images/gear/mapex-armory.webp',
+          description: 'Birch/maple hybrid shells at a price that undercuts the competition. The Armory punches into territory normally reserved for kits hundreds more—a metal favourite.',
+          shellMaterial: 'Birch / Maple hybrid',
+          sizes: {
+            kick: '22" x 18"',
+            snare: '14" x 5.5"',
+            toms: ['10" x 8"', '12" x 9"'],
+            floorTom: '16" x 16"'
+          },
+          pros: [
+            'Birch/maple shells punch above the price',
+            'The "Tomahawk" snare is a metal standout',
+            'Aggressive, focused tone for heavy music',
+            'SONIClear bearing edges tune easily'
+          ],
+          cons: [
+            'Shell pack only—no cymbals or hardware',
+            'Less common resale market than Pearl'
+          ],
+          bestFor: 'Best shells for the money for aggressive metal',
+          metalVerdict: '🤘 Chris Adler put Mapex on the metal map. The Armory\'s hybrid shells give you attack and body most budget kits can\'t touch.',
+          affiliateLinks: {
+            thomann: AFFILIATE_LINKS.thomann.mapexArmory,
+            sweetwater: AFFILIATE_LINKS.sweetwater.mapexArmory
+          },
+          relatedDrummers: ['chris-adler', 'dirk-verbeuren']
+        }
+      ],
+      usedMarketTips: {
+        title: "Buying Used Under $1000",
+        tips: [
+          "A used Export or Imperialstar shell pack frees up $150+ for better cymbals",
+          "Check bearing edges and look for cracks around lug holes",
+          "Mid-tier kits hold value—buy used, and you can often resell at cost",
+          "Reverb and Facebook Marketplace are best for shell packs",
+          "Pair a used shell pack with a new cymbal set for the best sound-per-dollar"
+        ],
+        expectedSavings: "25-40% off retail"
+      }
+    },
+
+    cymbals: {
+      title: "Cymbals: Buy a Real Bronze Set",
+      description: "This is the single biggest difference between a $500 kit and a $1000 rig. At this tier you buy a proper bronze cymbal set—hats, crash, and ride that match and sound coherent—instead of the brass cymbals bundled with budget kits.",
+      warning: "⚠️ Buy a matched SET, not three random cymbals. A boxed B8/bronze set costs far less than the individual pieces and sounds consistent.",
+      essentialMetalCymbals: {
+        title: "Essential Cymbals for Metal",
+        cymbals: [
+          {
+            type: 'Hi-Hats (14")',
+            importance: 'CRITICAL',
+            description: 'Heavier bronze hats cut through guitars and survive aggressive playing. The backbone of every metal groove.',
+            metalTip: 'Look for medium-heavy or rock-weight hats—they stay defined when you bury them.'
+          },
+          {
+            type: 'Crash (16"-18")',
+            importance: 'CRITICAL',
+            description: 'A real bronze crash—or two—gives the accents that brass cymbals can\'t. This is where the bronze set earns its money.',
+            metalTip: 'A 16" and an 18" give you two distinct accent voices for fills and stops.'
+          },
+          {
+            type: 'Ride (20")',
+            importance: 'HIGH',
+            description: 'A defined bell is essential—metal ride work lives on the bell. Bronze rides have a ping brass can\'t produce.',
+            metalTip: 'Test the bell: it should cut clearly over a wall of guitars.'
+          },
+          {
+            type: 'China (16"-18")',
+            importance: 'OPTIONAL',
+            description: 'The signature metal accent. Trashy, aggressive, and one of the most fun add-ons at this tier.',
+            metalTip: 'A cheap bronze china is the highest-impact cymbal you can add once the set is sorted.'
+          }
+        ]
+      },
+      proTip: "An entry bronze set (Zildjian S Performer, Sabian B8X Performance, Meinl HCS) gives you hats, crash, and ride for $200-300—the best sound-per-dollar move at this tier."
+    },
+
+    hardware: {
+      title: "Hardware: Buy a Pack + a Real Pedal",
+      description: "Shell packs don't include hardware, so budget for a stand pack and a proper single pedal. This is also the tier where a double bass pedal becomes a realistic option.",
+      essentialHardware: [
+        {
+          item: 'Bass Drum Pedal',
+          importance: 'CRITICAL',
+          description: 'A real chain-drive single pedal is a huge upgrade over a stock pedal—and the foundation for double bass later.',
+          budgetOptions: [
+            {
+              name: 'Pearl P930 Demonator',
+              price: '$99-129',
+              type: 'Single Pedal',
+              rating: 4.5,
+              description: 'Smooth chain drive, solid beater, and a price that leaves room in the budget. A genuine performance pedal.',
+              affiliateLinks: {
+                thomann: AFFILIATE_LINKS.thomann.pearlP930,
+                sweetwater: AFFILIATE_LINKS.sweetwater.pearlP930
+              }
+            },
+            {
+              name: 'Tama HP600D Iron Cobra 600',
+              price: '$119-149',
+              type: 'Single Pedal',
+              rating: 4.6,
+              description: 'Iron Cobra feel at a budget price. Fast, smooth, and built to last—a favourite first \"real\" pedal.',
+              affiliateLinks: {
+                thomann: AFFILIATE_LINKS.thomann.tamaIronCobra,
+                sweetwater: AFFILIATE_LINKS.sweetwater.tamaIronCobra
+              }
+            }
+          ],
+          doubleBassTip: "A double pedal is finally viable at $1000—but only buy one once your single foot can hold steady 16ths. The Pearl Eliminator Demon Drive and DW MDD are the step-up targets later."
+        },
+        {
+          item: 'Hardware Pack',
+          importance: 'CRITICAL',
+          description: 'A stand pack bundles a hi-hat stand, snare stand, and one or two cymbal stands for far less than buying them individually.',
+          checkFor: ['Double-braced legs', 'Smooth hi-hat clutch action', 'Boom cymbal stands for placement flexibility']
+        },
+        {
+          item: 'Drum Throne',
+          importance: 'HIGH',
+          description: 'If your shell pack didn\'t include one, a firm round or saddle throne is worth the spend for long-session stamina.',
+          tip: 'A firmer aftermarket throne ($60-120) dramatically improves stamina and posture.',
+          backPainWarning: 'A bad throne = back problems = shorter sessions = slower progress'
+        }
+      ],
+      includedVsSeparate: "Budget $80-130 for a hardware pack and $100-150 for a real single pedal. These outlast every shell pack you'll own."
+    },
+
+    drumHeads: {
+      title: "Drum Heads: Tune the Shell Pack for Metal",
+      description: "Even a good shell pack benefits from 2-ply metal heads. Replace the kick and snare batters first; check the stock toms before swapping them.",
+      recommendations: {
+        kickBatter: {
+          name: 'Evans EMAD or Remo Powerstroke P3 Clear',
+          price: '$30-40',
+          description: 'Built-in or adjustable muffling for a punchy, controlled metal kick. The first head to upgrade.',
+          affiliateLinks: { thomann: AFFILIATE_LINKS.thomann.remoEmperor }
+        },
+        snareBatter: {
+          name: 'Remo Emperor X or Evans HD Dry',
+          price: '$18-25',
+          description: 'A reinforced 2-ply head that survives rimshots and blast beats and gives a sharp metal crack.'
+        },
+        tomBatter: {
+          name: 'Remo Emperor Clear or Evans G2 Clear',
+          price: '$15-20 each',
+          description: '2-ply heads for attack and controlled sustain. Swap once the stock toms wear out.',
+          affiliateLinks: {
+            thomann: AFFILIATE_LINKS.thomann.remoEmperor,
+            thomann2: AFFILIATE_LINKS.thomann.evansG2
+          }
+        }
+      },
+      budgetTip: "Do the kick and snare first. Many mid-tier shell packs ship with usable stock toms—save those dollars for cymbals.",
+      headLifespan: "Snare batters last 2-3 months under heavy play; kick and tom heads last 6-12 months."
+    },
+
+    sticksAndAccessories: {
+      title: "Sticks & Essential Accessories",
+      sticks: {
+        title: "Drumstick Recommendations",
+        recommendations: [
+          {
+            name: 'Vic Firth American Classic 5B',
+            price: '$8-12',
+            description: 'A touch heavier than 5A—ideal for the power and volume metal demands.',
+            affiliateLinks: { thomann: AFFILIATE_LINKS.thomann.vicFirth5A, sweetwater: AFFILIATE_LINKS.sweetwater.vicFirth5A }
+          },
+          {
+            name: 'Vic Firth American Classic 5A',
+            price: '$8-12',
+            description: 'The industry standard—balanced and versatile if 5B feels too heavy.'
+          }
+        ],
+        materialTip: "Hickory is the durable, balanced default. Oak is heavier for power; many metal players prefer a 5B or heavier nylon tip.",
+        buyInBulk: "Buy a couple of pairs at minimum. A brick (12 pairs) is the cheapest per-pair option."
+      },
+      essentialAccessories: [
+        {
+          item: 'Drum Key',
+          price: '$5-15',
+          importance: 'CRITICAL',
+          description: 'Required for tuning a shell pack. A multi-tool or ratcheting key speeds up head changes.',
+          recommendation: 'Pearl K-080 or a Tama Tension Watch for repeatable tuning'
+        },
+        {
+          item: 'Hearing Protection',
+          price: '$15-30',
+          importance: 'CRITICAL',
+          description: 'A bronze cymbal set is louder than brass. Flat-response musician plugs keep the music clear.',
+          recommendation: 'Alpine MusicSafe Pro or Vic Firth isolation headphones'
+        },
+        {
+          item: 'Metronome / Click Track',
+          price: '$0',
+          importance: 'CRITICAL',
+          description: 'Free apps are all you need. Tempo control is everything in metal—especially before adding double bass.',
+          recommendation: 'Pro Metronome or Soundbrenner (free)'
+        },
+        {
+          item: 'Practice Pad',
+          price: '$15-40',
+          importance: 'MEDIUM',
+          description: 'Quiet technique practice and warm-ups. Worth owning at every tier.',
+          recommendation: 'Evans RealFeel or Vic Firth Heavy Hitter'
+        }
+      ]
+    },
+
+    techniqueBasics: {
+      title: "Metal Drumming Technique Basics",
+      intro: "A $1000 kit rewards good technique. With a real pedal and matched cymbals, these fundamentals are where your sound comes from:",
+      techniques: [
+        {
+          name: 'Single Stroke Roll',
+          difficulty: 'Beginner',
+          description: 'RLRL alternating strokes—the foundation of all drumming and fast fills.',
+          practiceGoal: 'Even strokes building toward 150+ BPM',
+          metalApplication: 'Fast fills and the foundation of blast beats',
+          relatedDrummers: ['dave-lombardo', 'gene-hoglan'],
+          videoTip: 'Practice with a metronome. Start slow and add 5 BPM when clean.'
+        },
+        {
+          name: 'Double Stroke Roll',
+          difficulty: 'Beginner',
+          description: 'RRLL using rebound—essential for speed and efficiency on a responsive shell pack.',
+          practiceGoal: 'Clean doubles at 120+ BPM',
+          metalApplication: 'Fast hi-hat patterns and efficient fills',
+          relatedDrummers: ['joey-jordison', 'tomas-haake'],
+          videoTip: 'Let the stick bounce—don\'t force the second stroke.'
+        },
+        {
+          name: 'Double Bass Foundations',
+          difficulty: 'Intermediate',
+          description: 'Even, controlled 16ths across both feet—now achievable with a real pedal or a budget double pedal.',
+          practiceGoal: 'Steady 16ths at 120 BPM with both feet',
+          metalApplication: 'Death and thrash gallops, sustained double-bass sections',
+          relatedDrummers: ['george-kollias', 'derek-roddy'],
+          videoTip: 'Master single-foot consistency first. Add the second foot at half the tempo and build up.'
+        }
+      ],
+      dailyPracticeRoutine: {
+        title: "20-Minute Daily Routine",
+        steps: [
+          { time: '4 min', exercise: 'Single strokes (slow to fast)' },
+          { time: '4 min', exercise: 'Double strokes (even bounce)' },
+          { time: '4 min', exercise: 'Single & double bass consistency' },
+          { time: '4 min', exercise: 'Rock/metal beats with fills' },
+          { time: '4 min', exercise: 'Play along to a metal song at 80% speed' }
+        ],
+        note: 'Consistency beats intensity—20 minutes daily beats 2 hours once a week.'
+      }
+    },
+
+    setupAndTuning: {
+      title: "Setup & Tuning Your Shell Pack",
+      intro: "A well-tuned mid-tier kit can sound genuinely pro. Setup and tuning matter as much as the gear:",
+      ergonomics: {
+        title: "Ergonomic Setup for Speed",
+        tips: [
+          {
+            area: 'Throne Height',
+            tip: 'Thighs roughly parallel to the floor for maximum leg power—critical for double bass.',
+            common_mistake: 'Sitting too low limits ankle movement and kills double-bass speed.'
+          },
+          {
+            area: 'Snare Position',
+            tip: 'Slightly tilted toward you, just above thigh height for comfortable rimshots.',
+            common_mistake: 'A flat snare reduces rimshot power.'
+          },
+          {
+            area: 'Cymbal Placement',
+            tip: 'Keep crashes low and close so accents flow without reaching.',
+            common_mistake: 'Cymbals set too high break your motion and slow you down.'
+          }
+        ]
+      },
+      tuning: {
+        title: "Tuning for Metal",
+        overview: "Mid-tier shells respond best to low-medium tunings tuned for attack and punch. Better shells reward careful tuning more than budget kits do.",
+        instruments: [
+          {
+            drum: 'Kick Drum',
+            approach: 'LOW and PUNCHY',
+            batterTension: 'Low-medium (wrinkles just out)',
+            resoTension: 'Slightly higher than batter',
+            dampening: 'A small pillow touching both heads, or a port hole',
+            targetSound: 'Quick attack, minimal sustain',
+            metalTip: 'A 22"x18" shell pack kick + a 2-ply head + a pillow gives a pro-level click.'
+          },
+          {
+            drum: 'Snare',
+            approach: 'TIGHT and CRACKING',
+            batterTension: 'Medium-high for good rebound',
+            resoTension: 'High for crisp response',
+            dampening: 'Minimal—one Moon Gel at most',
+            targetSound: 'Sharp crack that cuts through guitars',
+            metalTip: 'Tighten the wires for more sizzle, loosen for a fatter sound.'
+          },
+          {
+            drum: 'Toms',
+            approach: 'OPEN with ATTACK',
+            batterTension: 'Medium, tuned in a cross pattern',
+            resoTension: 'Equal to or slightly above batter',
+            dampening: 'Minimal—let the better shells ring',
+            targetSound: 'Defined pitch with controlled sustain',
+            metalTip: 'Mid-tier shells have real tone—don\'t over-dampen them like a budget kit.'
+          }
+        ],
+        tuningTips: [
+          'Tune in a cross pattern for even tension',
+          'Always use a drum key, not your fingers',
+          'Retune new heads after the first hour of playing',
+          'Record yourself to hear the kit from the audience side'
+        ]
+      }
+    },
+
+    upgradePath: {
+      title: "Your Upgrade Path From $1000",
+      intro: "Once your $1000 rig is dialled in, here's the smart order to spend your next dollars:",
+      upgrades: [
+        {
+          priority: 1,
+          item: 'Double Bass Pedal',
+          when: '3-6 months',
+          budget: '$200-400',
+          why: 'With a solid single foot, a quality double pedal opens up most of modern metal. The biggest capability jump from this tier.',
+          recommendation: 'Pearl Eliminator Demon Drive or DW MDD',
+          proReference: {
+            text: 'See George Kollias\'s double-bass setup',
+            drummerId: 'george-kollias',
+            category: 'pedals'
+          }
+        },
+        {
+          priority: 2,
+          item: 'A Dedicated Metal Snare',
+          when: '6-12 months',
+          budget: '$150-300',
+          why: 'The shell-pack snare is the weakest drum. A dedicated metal snare (steel or thick maple) sharpens your whole sound.',
+          recommendation: 'A 14"x6.5" steel or maple snare for crack and projection',
+          proReference: {
+            text: 'See what snare Chris Adler plays',
+            drummerId: 'chris-adler',
+            category: 'snare'
+          }
+        },
+        {
+          priority: 3,
+          item: 'Step Up to the $2000 Tier',
+          when: '12+ months',
+          budget: '$1000+',
+          why: 'When your skills outgrow the shell pack, pro-level shells, B20 cymbals, and serious double-bass hardware are the next move.',
+          recommendation: 'See our Under-$2000 metal drum setup guide for pro shells and B20 cymbals',
+          proReference: {
+            text: 'Explore Dave Lombardo\'s legendary setup',
+            drummerId: 'dave-lombardo',
+            category: null
+          }
+        }
+      ],
+      savingsStrategy: "Set aside $30-50/month. In a year that's $360-600—enough for a double pedal and a dedicated metal snare.",
+      proSetupShowcase: {
+        title: "Aspire to These Pro Setups",
+        description: "Every one of these drummers played mid-tier kits on the way up. Study their setups to plan your path:",
+        drummers: [
+          {
+            id: 'chris-adler',
+            name: 'Chris Adler',
+            band: 'Lamb of God',
+            signatureGear: 'Mapex drums, Meinl cymbals',
+            whyStudy: 'Modern metal groove and creative patterns',
+            link: '/drummer/chris-adler'
+          },
+          {
+            id: 'dave-lombardo',
+            name: 'Dave Lombardo',
+            band: 'Slayer',
+            signatureGear: 'Tama drums, Paiste Rude cymbals',
+            whyStudy: 'Thrash precision and double bass',
+            link: '/drummer/dave-lombardo'
+          },
+          {
+            id: 'george-kollias',
+            name: 'George Kollias',
+            band: 'Nile',
+            signatureGear: 'Pearl drums, double-bass mastery',
+            whyStudy: 'Extreme double-bass speed and endurance',
+            link: '/drummer/george-kollias'
+          }
+        ]
+      }
+    },
+
+    buyingTips: {
+      title: "Smart Buying Tips",
+      categories: [
+        {
+          title: 'Where to Buy',
+          tips: [
+            { tip: 'Sweetwater (US) and Thomann (Europe)', description: 'Best online retailers with strong return policies and support.' },
+            { tip: 'Reverb.com', description: 'Best marketplace for used shell packs—mid-tier kits hold their value.' },
+            { tip: 'Facebook Marketplace', description: 'Local pickup saves shipping. Inspect bearing edges before buying.' }
+          ]
+        },
+        {
+          title: 'When to Buy',
+          tips: [
+            { tip: 'Black Friday / Cyber Monday', description: 'Shell packs and cymbal sets see 15-30% off.' },
+            { tip: 'NAMM season (Jan-Feb)', description: 'Retailers clear last year\'s models for new releases.' },
+            { tip: 'End of Year', description: 'Inventory clear-outs on shell packs and hardware.' }
+          ]
+        }
+      ],
+      negotiationTip: "Bundle a shell pack, cymbal set, and hardware in one order and ask for a package deal—dealers often discount the bundle."
+    },
+
+    sampleBuilds: {
+      title: "Complete Setup Examples",
+      builds: [
+        {
+          name: 'The $900 Smart Build',
+          totalCost: 900,
+          description: 'A serious shell-pack rig with a real cymbal set and money left over.',
+          items: [
+            { item: 'Tama Imperialstar shell pack', cost: 520 },
+            { item: 'Zildjian S / Sabian B8X cymbal set', cost: 230 },
+            { item: 'Hardware pack + Pearl P930 pedal', cost: 110 },
+            { item: 'Kick + snare heads, sticks, earplugs', cost: 40 }
+          ]
+        },
+        {
+          name: 'The $1000 Full Build',
+          totalCost: 1000,
+          description: 'A pro-feeling rig you can keep for years—and grow into double bass.',
+          items: [
+            { item: 'Pearl Export EXX725 shell pack', cost: 599 },
+            { item: 'Meinl HCS / Sabian B8X cymbal set', cost: 250 },
+            { item: 'Hardware pack + Tama Iron Cobra 600', cost: 120 },
+            { item: 'Evans EMAD + Emperor X heads, sticks', cost: 31 }
+          ]
+        }
+      ]
+    },
+
+    faq: [
+      {
+        question: "Shell pack or complete kit at $1000?",
+        answer: "Shell pack. At $1000 you buy the drums on their own merits and add a real bronze cymbal set—that combination sounds far better than a complete kit with bundled brass cymbals. Complete kits make more sense at the $500 tier; see our $500 guide for those."
+      },
+      {
+        question: "Can I get a double bass pedal in a $1000 budget?",
+        answer: "It's viable, but be careful: a double pedal plus a shell pack plus cymbals can stretch the budget thin. Most players spend the $1000 on a great single-pedal rig first, then add a double pedal as the first upgrade once their single foot is solid."
+      },
+      {
+        question: "Which cymbals should I buy at this tier?",
+        answer: "A matched bronze set—hats, crash, and ride that sound coherent together. Boxed sets like Zildjian S Performer, Sabian B8X Performance, or Meinl HCS give you all three for $200-300, far cheaper than buying each piece alone."
+      },
+      {
+        question: "Is the Pearl Export still worth it?",
+        answer: "Yes. The Export is the best-selling drum kit ever for a reason—reliable hardware, versatile shells, and unmatched resale value. Tuned low with a 2-ply kick head, it's a genuine metal workhorse."
+      },
+      {
+        question: "Should I start here or at the $500 tier?",
+        answer: "If this is your first kit, start at $500 with a complete gig-ready kit and learn the fundamentals. Step up to this $1000 tier when you know drumming is for you and want gear worth keeping. When you outgrow this rig, the $2000 guide covers pro shells and B20 cymbals."
+      }
+    ],
+
+    relatedContent: {
+      drummers: [
+        { id: 'chris-adler', name: 'Chris Adler', reason: 'Built his sound on mid-tier Mapex kits' },
+        { id: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Thrash metal godfather' },
+        { id: 'george-kollias', name: 'George Kollias', reason: 'Double-bass speed and endurance master' }
+      ],
+      guides: [
+        { slug: 'budget-metal-drum-setup-500', title: 'The Best Budget Metal Drum Setup Under $500' },
+        { slug: 'budget-metal-drum-setup-2000', title: 'The Best Metal Drum Setup Under $2000' },
+        { slug: 'beginner-metal-drummer-setup', title: 'The Ultimate Beginner Guide Under $1000' }
+      ]
+    }
   }
 };
 

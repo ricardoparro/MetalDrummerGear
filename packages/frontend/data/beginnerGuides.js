@@ -21,6 +21,15 @@ const AFFILIATE_LINKS = {
     vicFirth5A: 'https://www.thomann.de/intl/vic_firth_american_classic_5a.htm?partner_id=metalforge',
     remoEmperor: 'https://www.thomann.de/intl/remo_emperor_clear_12.htm?partner_id=metalforge',
     evansG2: 'https://www.thomann.de/intl/evans_g2_clear_12.htm?partner_id=metalforge',
+    // $2000 pro tier (#835) - real upper-tier metal gear
+    tamaSuperstarClassic: 'https://www.thomann.de/intl/tama_superstar_classic_22_mp.htm?partner_id=metalforge',
+    pearlDecadeMaple: 'https://www.thomann.de/intl/pearl_decade_maple_studio_22_mp.htm?partner_id=metalforge',
+    mapexSaturn: 'https://www.thomann.de/intl/mapex_saturn_evolution_rock.htm?partner_id=metalforge',
+    zildjianA: 'https://www.thomann.de/intl/zildjian_a_series_metal_set.htm?partner_id=metalforge',
+    meinlClassicsCustom: 'https://www.thomann.de/intl/meinl_classics_custom_brilliant_set.htm?partner_id=metalforge',
+    pearlDemonDrive: 'https://www.thomann.de/intl/pearl_p3002d_eliminator_demon_drive.htm?partner_id=metalforge',
+    tamaSpeedCobra: 'https://www.thomann.de/intl/tama_hp910lwn_speed_cobra_910_double.htm?partner_id=metalforge',
+    pearlFreeFloatingSteel: 'https://www.thomann.de/intl/pearl_ftss1465_free_floating_steel.htm?partner_id=metalforge',
   },
   sweetwater: {
     base: 'https://www.sweetwater.com/store/detail/PRODUCT_ID?mrkgadid=metalforge',
@@ -33,6 +42,15 @@ const AFFILIATE_LINKS = {
     pearlP930: 'https://www.sweetwater.com/store/detail/P930--pearl-p-930-demonator-single-pedal?mrkgadid=metalforge',
     tamaIronCobra: 'https://www.sweetwater.com/store/detail/HP600D--tama-iron-cobra-600-single-pedal?mrkgadid=metalforge',
     vicFirth5A: 'https://www.sweetwater.com/store/detail/5A--vic-firth-american-classic-5a-sticks?mrkgadid=metalforge',
+    // $2000 pro tier (#835) - real upper-tier metal gear
+    tamaSuperstarClassic: 'https://www.sweetwater.com/store/detail/CL52KSMP--tama-superstar-classic-5-pc-shell-pack?mrkgadid=metalforge',
+    pearlDecadeMaple: 'https://www.sweetwater.com/store/detail/DMP925SP--pearl-decade-maple-5-pc-shell-pack?mrkgadid=metalforge',
+    mapexSaturn: 'https://www.sweetwater.com/store/detail/SE529XU--mapex-saturn-evolution-rock-shell-pack?mrkgadid=metalforge',
+    zildjianA: 'https://www.sweetwater.com/store/detail/A390--zildjian-a-series-metal-cymbal-set?mrkgadid=metalforge',
+    meinlClassicsCustom: 'https://www.sweetwater.com/store/detail/CC141620--meinl-classics-custom-brilliant-set?mrkgadid=metalforge',
+    pearlDemonDrive: 'https://www.sweetwater.com/store/detail/P3002D--pearl-eliminator-demon-drive-double-pedal?mrkgadid=metalforge',
+    tamaSpeedCobra: 'https://www.sweetwater.com/store/detail/HP910LWN--tama-speed-cobra-910-double-pedal?mrkgadid=metalforge',
+    pearlFreeFloatingSteel: 'https://www.sweetwater.com/store/detail/FTSS1465--pearl-free-floating-steel-snare?mrkgadid=metalforge',
   }
 };
 
@@ -964,15 +982,7 @@ This guide is specifically designed for beginners with a total budget around $1,
         },
         {
           title: "Gear Reviews & Demos",
-          videos: [
-            {
-              title: "Budget Cymbal Comparison",
-              creator: "EMC Productions",
-              youtubeId: "1i_kIvvXi-k",
-              duration: "22:18",
-              description: "Comparing Zildjian, Sabian, and Meinl budget lines"
-            }
-          ]
+          videos: []
         }
       ]
     },
@@ -2433,6 +2443,716 @@ At $1000 the strategy flips from \"buy everything in one box\" to \"buy each pie
       guides: [
         { slug: 'budget-metal-drum-setup-500', title: 'The Best Budget Metal Drum Setup Under $500' },
         { slug: 'budget-metal-drum-setup-2000', title: 'The Best Metal Drum Setup Under $2000' },
+        { slug: 'beginner-metal-drummer-setup', title: 'The Ultimate Beginner Guide Under $1000' }
+      ]
+    }
+  },
+
+  'budget-metal-drum-setup-2000': {
+    slug: 'budget-metal-drum-setup-2000',
+    category: 'beginner',
+    priority: 3,
+
+    // SEO metadata
+    title: "The Best Metal Drum Setup Under $2000",
+    description: "Build a pro-level metal drum setup for under $2000. The top tier of our budget series: pro-grade maple/birch shells, a real B20 cymbal set, a serious double bass pedal, and a dedicated metal snare. Honest gear picks and a smart spending plan—plus how it compares to a pro's $15K rig.",
+    seoKeywords: [
+      'metal drum kit under 2000',
+      'best drum set under 2000',
+      'pro metal drum kit',
+      'best double bass pedal',
+      'b20 cymbals for metal',
+      'best cymbals for metal',
+      'tama superstar classic',
+      'pearl decade maple',
+      'metal drums 2000 dollars',
+      'best drum set for metal'
+    ],
+    ogImage: '/api/og/guide?type=beginner',
+    datePublished: '2026-06-05',
+    dateModified: '2026-06-05',
+    author: 'MetalForge Editorial',
+    wordCount: 2800,
+    readingTime: '12 min',
+
+    hero: {
+      title: "🔥 Build a Pro Metal Kit Under $2000",
+      subtitle: "The Top Tier: Pro Shells, B20 Cymbals, Real Double Bass",
+      badge: "BUDGET GUIDE • $2000",
+      stats: [
+        { value: '$2000', label: 'Budget' },
+        { value: '12 min', label: 'Read Time' },
+        { value: '2026', label: 'Updated' }
+      ]
+    },
+
+    intro: {
+      title: "The Last Budget Tier Before Pro Gear",
+      content: `Two thousand dollars buys gear that touring metal drummers actually use. This is the top of our budget series—the tier where pro-grade maple or birch shells, a proper B20 cymbal set, a serious double bass pedal, and a dedicated metal snare all fit in one build. Nothing here is a compromise you'll outgrow in a year.
+
+This is the final step of the ladder. If you're starting out, our $500 guide covers complete gig-ready kits, and the $1000 guide steps up to a real shell pack plus a bronze cymbal set. At $2000 you stop buying \"good enough\" and start buying gear you'll keep for a decade.
+
+The strategy at this tier is to buy each piece at near-pro quality: a maple/birch shell pack that records and gigs without apology, a cast B20 cymbal set, and a double pedal that won't hold your feet back. We'll show you exactly how to split the budget—and at the end, how this rig compares to a working pro's $15K setup so you can see where the diminishing returns really kick in.`,
+      keyPoints: [
+        "$2000 buys pro-grade maple/birch shells, not entry poplar",
+        "A cast B20 cymbal set is the defining upgrade over bronze B8",
+        "A serious double bass pedal is a core part of the build, not an add-on",
+        "Add a dedicated metal snare—the single biggest sound upgrade per dollar"
+      ],
+      whyTrustUs: "MetalForge has analyzed gear from 500+ professional metal drummers—the $2000 tier mirrors the working-pro setups in our database, minus the signature-model markup."
+    },
+
+    budgetBreakdown: {
+      title: "Where Your $2000 Goes",
+      totalBudget: 2000,
+      description: "At this tier you buy near-pro components. The smart split puts real money into a pro-grade shell pack and a cast B20 cymbal set, then funds a serious double pedal and a dedicated metal snare—the four things that separate a pro rig from a hobby kit.",
+      quickSummary: [
+        { category: 'Shell Pack', amount: 950, emoji: '🥁' },
+        { category: 'B20 Cymbal Set', amount: 550, emoji: '🥏' },
+        { category: 'Double Pedal + Hardware', amount: 350, emoji: '⚙️' },
+        { category: 'Metal Snare + Heads', amount: 150, emoji: '🎯' }
+      ],
+      categories: [
+        {
+          name: 'Pro Shell Pack (Drums)',
+          percentage: 48,
+          amount: '$950',
+          priority: 'CRITICAL',
+          type: 'essential',
+          notes: 'A pro-grade maple or birch shell pack—the kind that records and gigs without apology. Sold without cymbals or hardware, so every dollar goes into the shells.',
+          emoji: '🥁',
+          includes: ['Bass drum (22")', 'Snare drum', 'Rack toms (10", 12")', 'Floor tom (16")'],
+          buyingTip: 'Maple is warm and versatile; birch is focused and punchy—both record beautifully for metal at this price.'
+        },
+        {
+          name: 'Cast B20 Cymbal Set',
+          percentage: 27,
+          amount: '$550',
+          priority: 'CRITICAL',
+          type: 'essential',
+          notes: 'The defining upgrade over a $1000 rig. A cast B20 bronze set (hats, crashes, ride) has a complexity and projection that B8 sheet cymbals simply cannot match.',
+          emoji: '🥏',
+          includes: ['14" hi-hats', '16" + 18" crashes', '20"-22" ride'],
+          buyingTip: 'A pro cymbal set (Zildjian A, Sabian AAX, Meinl Classics Custom) is the sound most metal records were cut on.'
+        },
+        {
+          name: 'Double Pedal & Hardware',
+          percentage: 17,
+          amount: '$350',
+          priority: 'HIGH',
+          type: 'essential',
+          notes: 'A serious double bass pedal plus a sturdy double-braced hardware pack. At this tier the double pedal is a core part of the build, not an upgrade you bolt on later.',
+          emoji: '⚙️',
+          includes: ['Double bass pedal (Pearl Demon Drive / Tama Speed Cobra)', 'Double-braced hardware pack', 'Boom cymbal stands'],
+          buyingTip: 'A direct-drive or longboard double pedal keeps up with extreme metal—buy once, cry once.'
+        },
+        {
+          name: 'Metal Snare, Heads & Sticks',
+          percentage: 8,
+          amount: '$150',
+          priority: 'HIGH',
+          type: 'essential',
+          notes: 'A dedicated metal snare (steel or thick maple) plus fresh 2-ply batters, sticks, a drum key, and hearing protection.',
+          emoji: '🎯',
+          includes: ['Dedicated metal snare', 'Kick + snare batter heads', '2-3 pairs of sticks', 'Musician earplugs'],
+          buyingTip: 'A 14"x6.5" steel snare gives the cracking, cutting backbeat metal lives on.'
+        }
+      ],
+      essentialVsOptional: {
+        title: "Essential vs Optional at $2000",
+        essential: [
+          { item: 'Pro shell pack', reason: 'Maple/birch shells you keep for a decade', cost: '$800-1100' },
+          { item: 'Cast B20 cymbal set', reason: 'The defining sound upgrade over B8 bronze', cost: '$450-650' },
+          { item: 'Serious double bass pedal', reason: 'Speed and feel that keep up with extreme metal', cost: '$300-450' },
+          { item: 'Double-braced hardware pack', reason: 'Pro shells need pro stands', cost: '$150-250' },
+          { item: 'Dedicated metal snare', reason: 'The biggest per-dollar sound upgrade', cost: '$150-300' }
+        ],
+        optional: [
+          { item: 'Second floor tom (additional)', reason: 'A bigger metal sound for fills', cost: '$150-250' },
+          { item: 'Extra china + splash', reason: 'More accent voices', cost: '$150-300' },
+          { item: 'Trigger / mic upgrade path', reason: 'For recording and live consistency', cost: '$200-500' },
+          { item: 'Premium throne', reason: 'A motorcycle-style throne for long sets', cost: '$120-250' }
+        ],
+        priorityOrder: [
+          '1. Pro maple/birch shell pack (must have)',
+          '2. Cast B20 cymbal set (hats, 2 crashes, ride)',
+          '3. Serious double bass pedal',
+          '4. Double-braced hardware pack',
+          '5. Dedicated metal snare',
+          '6. Fresh 2-ply kick + snare heads',
+          '7. China cymbal + extra accents'
+        ]
+      },
+      proTip: "Don't spread the $2000 thin across mid-tier everything. A pro shell pack and a real B20 set with a great pedal beats a fully-loaded kit of merely decent parts. Buy fewer, better pieces."
+    },
+
+    kitRecommendations: {
+      title: "Best Pro Shell Packs Under $1100",
+      description: "These maple and birch shell packs leave room in a $2000 budget for a real B20 cymbal set, a double pedal, and a metal snare. They're the drums working metal drummers gig and record with.",
+      idealSpecs: {
+        title: "What to Look For Under $2000",
+        specs: [
+          { spec: 'Format', ideal: 'Shell pack (buy cymbals separately)', icon: '📦' },
+          { spec: 'Shell Material', ideal: 'Pro maple or birch (not poplar)', icon: '🌳' },
+          { spec: 'Bass Drum Size', ideal: '22" for metal punch (or 24" for depth)', icon: '💥' },
+          { spec: 'Configuration', ideal: '5-piece, room to add a second floor tom', icon: '🥁' },
+          { spec: 'Hardware', ideal: 'Pro lugs + suspension tom mounts', icon: '🔧' }
+        ]
+      },
+      kits: [
+        {
+          rank: 1,
+          name: 'Tama Superstar Classic',
+          brand: 'Tama',
+          price: '$899-1099',
+          priceValue: 999,
+          rating: 4.8,
+          image: '/images/gear/tama-imperialstar.webp',
+          description: '100% maple shells at a price that undercuts every rival. The Superstar Classic delivers warm, resonant pro tone with Tama\'s legendary hardware—a genuine recording-grade kit for metal.',
+          shellMaterial: '100% Maple',
+          sizes: {
+            kick: '22" x 18"',
+            snare: '14" x 5.5"',
+            toms: ['10" x 7"', '12" x 8"'],
+            floorTom: '16" x 16"'
+          },
+          pros: [
+            'All-maple shells punch well above the price',
+            'Star-Cast suspension mounts for full resonance',
+            'Tama hardware is genuinely pro-grade',
+            'Tunes low and aggressive for metal'
+          ],
+          cons: [
+            'Sold without cymbals or hardware',
+            'Wrap finishes only at this price'
+          ],
+          bestFor: 'Best all-around pro shell pack under $2000',
+          metalVerdict: '🤘 An all-maple kit for under a grand is a steal. Tune it low, add a 2-ply kick head, and it records like a kit twice the price.',
+          affiliateLinks: {
+            thomann: AFFILIATE_LINKS.thomann.tamaSuperstarClassic,
+            sweetwater: AFFILIATE_LINKS.sweetwater.tamaSuperstarClassic
+          },
+          relatedDrummers: ['dave-lombardo', 'lars-ulrich']
+        },
+        {
+          rank: 2,
+          name: 'Pearl Decade Maple',
+          brand: 'Pearl',
+          price: '$849-999',
+          priceValue: 949,
+          rating: 4.7,
+          image: '/images/gear/pearl-export.webp',
+          description: 'Pearl\'s all-maple workhorse a step above the Export. The Decade Maple brings real maple warmth, Optimount suspension, and pro lugs at a near-mid-tier price—a serious upgrade kit.',
+          shellMaterial: '100% Maple',
+          sizes: {
+            kick: '22" x 18"',
+            snare: '14" x 5.5"',
+            toms: ['10" x 7"', '12" x 8"'],
+            floorTom: '16" x 16"'
+          },
+          pros: [
+            'All-maple shells with classic Pearl warmth',
+            'Optimount suspension for open sustain',
+            'Excellent resale value, like every Pearl',
+            'Standard sizes—endless head options'
+          ],
+          cons: [
+            'Shell pack only—no cymbals or hardware',
+            'Beater colors limited at this price'
+          ],
+          bestFor: 'Players who want maple warmth with Pearl reliability',
+          metalVerdict: '🤘 The Decade Maple is the kit a lot of pros wish they\'d started on. Versatile maple that tunes from jazz-low to metal-aggressive.',
+          affiliateLinks: {
+            thomann: AFFILIATE_LINKS.thomann.pearlDecadeMaple,
+            sweetwater: AFFILIATE_LINKS.sweetwater.pearlDecadeMaple
+          },
+          relatedDrummers: ['chris-adler', 'george-kollias']
+        },
+        {
+          rank: 3,
+          name: 'Mapex Saturn Evolution',
+          brand: 'Mapex',
+          price: '$999-1199',
+          priceValue: 1099,
+          rating: 4.8,
+          image: '/images/gear/mapex-armory.webp',
+          description: 'The hybrid maple/walnut shells that made the Saturn a studio favourite. Aggressive attack with deep body—the Saturn punches into boutique territory for serious metal players.',
+          shellMaterial: 'Maple / Walnut hybrid',
+          sizes: {
+            kick: '22" x 18"',
+            snare: '14" x 5.5"',
+            toms: ['10" x 7"', '12" x 8"'],
+            floorTom: '16" x 16"'
+          },
+          pros: [
+            'Maple/walnut shells with deep, focused tone',
+            'SONIClear bearing edges tune effortlessly',
+            'Studio-grade sound for aggressive metal',
+            'Punches into boutique-kit territory'
+          ],
+          cons: [
+            'Top of the budget at this tier',
+            'Shell pack only—no cymbals or hardware'
+          ],
+          bestFor: 'Best shells for the money for recording metal',
+          metalVerdict: '🤘 The Saturn is a working pro\'s secret weapon. Maple/walnut gives you attack and low-end body most kits twice the price can\'t touch.',
+          affiliateLinks: {
+            thomann: AFFILIATE_LINKS.thomann.mapexSaturn,
+            sweetwater: AFFILIATE_LINKS.sweetwater.mapexSaturn
+          },
+          relatedDrummers: ['chris-adler', 'dirk-verbeuren']
+        }
+      ],
+      usedMarketTips: {
+        title: "Buying Used Under $2000",
+        tips: [
+          "A used pro shell pack can free up $300+ for a better cymbal set or double pedal",
+          "Maple and birch shells hold value—buy used, resell near cost",
+          "Inspect bearing edges and lug seats; pro shells are worth a careful look",
+          "Reverb is best for pro shell packs and B20 cymbals",
+          "A used B20 cymbal set is the single best value buy at this tier"
+        ],
+        expectedSavings: "25-40% off retail"
+      }
+    },
+
+    cymbals: {
+      title: "Cymbals: Step Up to Cast B20",
+      description: "This is the defining difference between a $1000 rig and a $2000 setup. At this tier you buy a cast B20 bronze cymbal set—the alloy nearly every metal record was cut on—instead of the B8 sheet bronze of the lower tiers.",
+      warning: "⚠️ B20 is cast bronze with real complexity and projection; B8 is sheet bronze. The jump from B8 to B20 is the biggest audible cymbal upgrade you will ever make.",
+      essentialMetalCymbals: {
+        title: "Essential Cymbals for Metal",
+        cymbals: [
+          {
+            type: 'Hi-Hats (14")',
+            importance: 'CRITICAL',
+            description: 'Heavy cast B20 hats cut through a wall of guitars and stay defined when buried. The backbone of every metal groove.',
+            metalTip: 'Look for heavy or rock-weight hats—Zildjian A, Sabian AAX, or Meinl Classics Custom.'
+          },
+          {
+            type: 'Crashes (16" + 18")',
+            importance: 'CRITICAL',
+            description: 'Two cast crashes give you distinct accent voices. B20 crashes have an explosive attack and musical decay B8 cannot reproduce.',
+            metalTip: 'A 16" and 18" pair covers fast accents and big stops.'
+          },
+          {
+            type: 'Ride (20"-22")',
+            importance: 'HIGH',
+            description: 'A cast B20 ride has a defined, cutting bell—essential for metal ride work and gallops over heavy guitars.',
+            metalTip: 'A 20" or 22" with a pronounced bell cuts through any mix.'
+          },
+          {
+            type: 'China (18"-19")',
+            importance: 'OPTIONAL',
+            description: 'The signature metal accent. A cast china is trashy, aggressive, and one of the most satisfying voices in the kit.',
+            metalTip: 'Once the core set is sorted, a B20 china is the highest-impact add-on.'
+          }
+        ]
+      },
+      proTip: "A pro cymbal set (Zildjian A Metal, Sabian AAX, Meinl Classics Custom) gives you hats, two crashes, and a ride for $450-650—the alloy and feel of the cymbals on the records you love."
+    },
+
+    hardware: {
+      title: "Hardware: A Serious Double Pedal + Pro Stands",
+      description: "At $2000 a real double bass pedal is part of the core build, not an upgrade. Pair it with a double-braced hardware pack that can hold pro shells and heavy cymbals without flexing.",
+      essentialHardware: [
+        {
+          item: 'Double Bass Pedal',
+          importance: 'CRITICAL',
+          description: 'A serious double pedal is the heart of a metal kit at this tier. Direct-drive or longboard designs keep up with extreme tempos and feel consistent night after night.',
+          budgetOptions: [
+            {
+              name: 'Pearl Eliminator Demon Drive',
+              price: '$399-449',
+              type: 'Double Pedal',
+              rating: 4.8,
+              description: 'The benchmark direct-drive double pedal. Lightning-fast, infinitely adjustable, and a fixture under pro metal kits worldwide.',
+              affiliateLinks: {
+                thomann: AFFILIATE_LINKS.thomann.pearlDemonDrive,
+                sweetwater: AFFILIATE_LINKS.sweetwater.pearlDemonDrive
+              }
+            },
+            {
+              name: 'Tama Speed Cobra 910',
+              price: '$299-349',
+              type: 'Double Pedal',
+              rating: 4.7,
+              description: 'The longboard speed favourite. A long footboard and fast chain drive built for sustained double-bass passages—George Kollias\'s pedal of choice.',
+              affiliateLinks: {
+                thomann: AFFILIATE_LINKS.thomann.tamaSpeedCobra,
+                sweetwater: AFFILIATE_LINKS.sweetwater.tamaSpeedCobra
+              }
+            }
+          ],
+          doubleBassTip: "Direct-drive (Demon Drive) gives instant response; longboard (Speed Cobra) suits heel-too and sliding technique. Both are pro-grade—pick by feel, not price."
+        },
+        {
+          item: 'Double-Braced Hardware Pack',
+          importance: 'CRITICAL',
+          description: 'Pro shells and heavy B20 cymbals need stands that won\'t flex or creep. A double-braced pack with boom cymbal stands gives placement flexibility for a bigger kit.',
+          checkFor: ['Double-braced legs throughout', 'Boom cymbal stands', 'Heavy-duty hi-hat stand with smooth clutch']
+        },
+        {
+          item: 'Drum Throne',
+          importance: 'HIGH',
+          description: 'A firm motorcycle-style or saddle throne is worth the spend at this tier—double-bass stamina lives in your seat and posture.',
+          tip: 'A height-adjustable hydraulic throne ($120-250) holds position through aggressive playing.',
+          backPainWarning: 'A bad throne = back problems = shorter sessions = slower progress'
+        }
+      ],
+      includedVsSeparate: "Budget $300-450 for a double pedal and $150-250 for a double-braced hardware pack. These are the pieces you keep across every kit you ever own."
+    },
+
+    drumHeads: {
+      title: "Drum Heads: Dial In Pro Shells for Metal",
+      description: "Pro shells reward good heads. Run 2-ply batters on kick, snare, and toms for the attack and controlled sustain metal demands.",
+      recommendations: {
+        kickBatter: {
+          name: 'Evans EMAD2 or Remo Powerstroke P3',
+          price: '$35-45',
+          description: 'Adjustable muffling for a punchy, controlled metal kick. The first head to dial in on a pro shell.',
+          affiliateLinks: { thomann: AFFILIATE_LINKS.thomann.remoEmperor }
+        },
+        snareBatter: {
+          name: 'Remo Emperor X or Evans HD Dry',
+          price: '$18-25',
+          description: 'A reinforced 2-ply head that survives rimshots and blast beats and gives a sharp metal crack on a steel snare.'
+        },
+        tomBatter: {
+          name: 'Remo Emperor Clear or Evans G2 Clear',
+          price: '$15-20 each',
+          description: '2-ply heads for attack and controlled sustain. Pro maple shells have real tone—2-ply heads keep it focused without choking it.',
+          affiliateLinks: {
+            thomann: AFFILIATE_LINKS.thomann.remoEmperor,
+            thomann2: AFFILIATE_LINKS.thomann.evansG2
+          }
+        }
+      },
+      budgetTip: "Pro shells are worth a full set of 2-ply heads. Do the kick and snare first, then the toms—the difference on good shells is dramatic.",
+      headLifespan: "Snare batters last 2-3 months under heavy play; kick and tom heads last 6-12 months."
+    },
+
+    sticksAndAccessories: {
+      title: "Sticks & Essential Accessories",
+      sticks: {
+        title: "Drumstick Recommendations",
+        recommendations: [
+          {
+            name: 'Vic Firth American Classic 5B',
+            price: '$8-12',
+            description: 'A touch heavier than 5A—ideal for the power and volume metal demands.',
+            affiliateLinks: { thomann: AFFILIATE_LINKS.thomann.vicFirth5A, sweetwater: AFFILIATE_LINKS.sweetwater.vicFirth5A }
+          },
+          {
+            name: 'Vater Power 5B or Los Angeles 5A',
+            price: '$10-14',
+            description: 'Durable hickory sticks favoured by metal players for endurance and rebound on fast passages.'
+          }
+        ],
+        materialTip: "Hickory is the durable, balanced default. Many metal players prefer a 5B or heavier nylon tip for projection on B20 cymbals.",
+        buyInBulk: "Buy a brick (12 pairs)—at this volume of playing, it's the cheapest per-pair option."
+      },
+      essentialAccessories: [
+        {
+          item: 'Drum Key + Tension Watch',
+          price: '$5-40',
+          importance: 'CRITICAL',
+          description: 'Pro shells reward repeatable tuning. A Tama Tension Watch or torque key gets every lug identical.',
+          recommendation: 'Tama Tension Watch for studio-consistent tuning'
+        },
+        {
+          item: 'Hearing Protection',
+          price: '$15-30',
+          importance: 'CRITICAL',
+          description: 'A cast B20 set is loud. Flat-response musician plugs keep the music clear while protecting your ears.',
+          recommendation: 'Alpine MusicSafe Pro or Vic Firth isolation headphones'
+        },
+        {
+          item: 'Metronome / Click Track',
+          price: '$0',
+          importance: 'CRITICAL',
+          description: 'Tempo control is everything in metal—especially for sustained double bass. Free apps are all you need.',
+          recommendation: 'Pro Metronome or Soundbrenner (free)'
+        },
+        {
+          item: 'Practice Pad',
+          price: '$15-40',
+          importance: 'MEDIUM',
+          description: 'Quiet technique practice and warm-ups. Worth owning at every tier.',
+          recommendation: 'Evans RealFeel or Vic Firth Heavy Hitter'
+        }
+      ]
+    },
+
+    techniqueBasics: {
+      title: "Metal Drumming Technique at the Pro Tier",
+      intro: "A $2000 kit demands and rewards real technique. With a serious double pedal and cast B20 cymbals, these are the skills that turn pro gear into a pro sound:",
+      techniques: [
+        {
+          name: 'Sustained Double Bass',
+          difficulty: 'Intermediate',
+          description: 'Even, controlled 16ths held over long passages—the defining metal skill, now fully unlocked by a serious double pedal.',
+          practiceGoal: 'Steady 16ths at 180+ BPM for 60+ seconds',
+          metalApplication: 'Death, thrash, and modern metal double-bass sections',
+          relatedDrummers: ['george-kollias', 'gene-hoglan'],
+          videoTip: 'Build endurance gradually. Add 5 BPM only when you can hold a tempo cleanly for a full minute.'
+        },
+        {
+          name: 'Blast Beats',
+          difficulty: 'Advanced',
+          description: 'Alternating hands and feet at speed—traditional, bomb, and gravity blasts—now clean on responsive pro shells.',
+          practiceGoal: 'Clean traditional blasts at 200+ BPM',
+          metalApplication: 'Death metal, black metal, grindcore',
+          relatedDrummers: ['george-kollias', 'derek-roddy'],
+          videoTip: 'Master the single-stroke and double-bass foundations first. Blasts are speed applied to clean fundamentals.'
+        },
+        {
+          name: 'Dynamic Cymbal Work',
+          difficulty: 'Intermediate',
+          description: 'Using a full B20 set for musical accents, bell patterns, and china stabs—pro cymbals reward dynamic control.',
+          practiceGoal: 'Clean bell-of-ride gallops over double bass',
+          metalApplication: 'Riding, accenting, and driving heavy sections',
+          relatedDrummers: ['dave-lombardo', 'tomas-haake'],
+          videoTip: 'B20 cymbals have a wide dynamic range—practice playing them soft as well as loud.'
+        }
+      ],
+      dailyPracticeRoutine: {
+        title: "25-Minute Daily Routine",
+        steps: [
+          { time: '5 min', exercise: 'Single & double strokes (slow to fast)' },
+          { time: '5 min', exercise: 'Sustained double bass at steady tempo' },
+          { time: '5 min', exercise: 'Blast-beat foundations (hands + feet)' },
+          { time: '5 min', exercise: 'Metal beats with dynamic cymbal work' },
+          { time: '5 min', exercise: 'Play along to a metal song at full speed' }
+        ],
+        note: 'Consistency beats intensity—25 focused minutes daily beats 3 hours once a week.'
+      }
+    },
+
+    setupAndTuning: {
+      title: "Setup & Tuning Your Pro Kit",
+      intro: "Pro shells and B20 cymbals deserve careful setup. At this tier, tuning and ergonomics are the difference between a good kit and a great recorded sound:",
+      ergonomics: {
+        title: "Ergonomic Setup for Speed",
+        tips: [
+          {
+            area: 'Throne Height',
+            tip: 'Thighs roughly parallel to the floor for maximum leg power—critical for sustained double bass.',
+            common_mistake: 'Sitting too low limits ankle movement and kills double-bass endurance.'
+          },
+          {
+            area: 'Pedal Position',
+            tip: 'Set both beaters identical and the spring tension matched so your feet feel mirrored.',
+            common_mistake: 'Mismatched pedals make your weaker foot lag—kills clean double bass.'
+          },
+          {
+            area: 'Cymbal Placement',
+            tip: 'Keep crashes low and close; place the china where a natural arc reaches it.',
+            common_mistake: 'Cymbals set too high break your motion and slow you down.'
+          }
+        ]
+      },
+      tuning: {
+        title: "Tuning for Metal",
+        overview: "Pro maple and birch shells respond to careful, even tuning more than any budget kit. Tune for attack and punch, and let the better shells breathe.",
+        instruments: [
+          {
+            drum: 'Kick Drum',
+            approach: 'LOW and PUNCHY',
+            batterTension: 'Low-medium (wrinkles just out)',
+            resoTension: 'Slightly higher than batter',
+            dampening: 'A small pillow touching both heads, or a port hole',
+            targetSound: 'Quick attack with pro low-end body',
+            metalTip: 'A 22"x18" maple kick + a 2-ply head + light dampening gives a recording-ready click.'
+          },
+          {
+            drum: 'Snare',
+            approach: 'TIGHT and CRACKING',
+            batterTension: 'Medium-high for good rebound',
+            resoTension: 'High for crisp response',
+            dampening: 'Minimal—one Moon Gel at most',
+            targetSound: 'Sharp crack that cuts through guitars',
+            metalTip: 'A steel snare tuned medium-high gives the cutting backbeat metal records live on.'
+          },
+          {
+            drum: 'Toms',
+            approach: 'OPEN with ATTACK',
+            batterTension: 'Medium, tuned in a cross pattern',
+            resoTension: 'Equal to or slightly above batter',
+            dampening: 'Minimal—pro shells have real tone',
+            targetSound: 'Defined pitch with rich, controlled sustain',
+            metalTip: 'Don\'t over-dampen pro shells—their tone is what you paid for. Let them ring.'
+          }
+        ],
+        tuningTips: [
+          'Tune in a cross pattern for even tension',
+          'A tension watch makes pro-shell tuning repeatable',
+          'Retune new heads after the first hour of playing',
+          'Record yourself to hear the kit from the audience side'
+        ]
+      }
+    },
+
+    upgradePath: {
+      title: "Where You Go From $2000",
+      intro: "A $2000 rig is the top of the budget ladder. From here, the next dollars buy refinement and pro-touring extras—not necessity. Here's the smart order:",
+      upgrades: [
+        {
+          priority: 1,
+          item: 'Signature & Boutique Snares',
+          when: '6-12 months',
+          budget: '$300-600',
+          why: 'A signature or boutique snare is the most expressive single upgrade—each one has a distinct voice for different metal styles.',
+          recommendation: 'A pro steel, bronze, or thick-maple snare to complement your kit',
+          proReference: {
+            text: 'See what snare Chris Adler plays',
+            drummerId: 'chris-adler',
+            category: 'snare'
+          }
+        },
+        {
+          priority: 2,
+          item: 'Triggers & Electronic Hybrid',
+          when: '12+ months',
+          budget: '$400-800',
+          why: 'Triggers and a module bring live consistency and studio-grade kick definition—the standard for modern touring metal.',
+          recommendation: 'Roland or ddrum triggers + a trigger module',
+          proReference: {
+            text: 'Study George Kollias\'s double-bass setup',
+            drummerId: 'george-kollias',
+            category: 'pedals'
+          }
+        },
+        {
+          priority: 3,
+          item: 'A True Pro / Signature Kit',
+          when: '2+ years',
+          budget: '$3000-15000',
+          why: 'The ceiling: a custom or signature kit like a working pro plays. Diminishing returns set in here—your $2000 rig already gets you most of the way.',
+          recommendation: 'See how a pro\'s ~$15K setup compares in the bridge section below',
+          proReference: {
+            text: 'Explore Lars Ulrich\'s legendary ~$15K setup',
+            drummerId: 'lars-ulrich',
+            category: null
+          }
+        }
+      ],
+      savingsStrategy: "Set aside $50-75/month. In a year that's $600-900—enough for a signature snare and a trigger setup, the only upgrades that meaningfully move the needle from here.",
+      proSetupShowcase: {
+        title: "Compare to a Pro Setup: The $15K Rig",
+        description: "Here's the honest comparison: your $2000 setup gets you ~80% of the way to a working pro's rig. The last 20%—custom shells, a full signature cymbal array, premium hardware, and triggers—is where the price jumps to $15K and diminishing returns set in. Study these pros to see where the money goes:",
+        drummers: [
+          {
+            id: 'lars-ulrich',
+            name: 'Lars Ulrich',
+            band: 'Metallica',
+            signatureGear: 'Tama Star custom kit, Zildjian cymbals (~$15K rig)',
+            whyStudy: 'The aspirational ceiling—custom shells, full cymbal array, pro touring hardware',
+            link: '/drummer/lars-ulrich'
+          },
+          {
+            id: 'george-kollias',
+            name: 'George Kollias',
+            band: 'Nile',
+            signatureGear: 'Pearl Masterworks, Speed Cobra pedals, triggers',
+            whyStudy: 'Where the $2000 double-bass build leads at the extreme end',
+            link: '/drummer/george-kollias'
+          },
+          {
+            id: 'dave-lombardo',
+            name: 'Dave Lombardo',
+            band: 'Slayer',
+            signatureGear: 'Tama custom drums, Paiste Rude cymbals',
+            whyStudy: 'Thrash precision on a pro custom rig',
+            link: '/drummer/dave-lombardo'
+          }
+        ]
+      }
+    },
+
+    buyingTips: {
+      title: "Smart Buying Tips",
+      categories: [
+        {
+          title: 'Where to Buy',
+          tips: [
+            { tip: 'Sweetwater (US) and Thomann (Europe)', description: 'Best online retailers with strong return policies and pro-gear support.' },
+            { tip: 'Reverb.com', description: 'Best marketplace for used pro shell packs and B20 cymbals—they hold value.' },
+            { tip: 'Local pro drum shops', description: 'Play before you buy at this price; pro shops let you test shells and cymbals.' }
+          ]
+        },
+        {
+          title: 'When to Buy',
+          tips: [
+            { tip: 'Black Friday / Cyber Monday', description: 'Pro shell packs and B20 sets see 15-30% off.' },
+            { tip: 'NAMM season (Jan-Feb)', description: 'Retailers clear last year\'s pro models for new releases.' },
+            { tip: 'End of Year', description: 'Inventory clear-outs on pro kits, cymbals, and hardware.' }
+          ]
+        }
+      ],
+      negotiationTip: "At $2000 you have leverage—bundle a shell pack, B20 cymbal set, double pedal, and hardware in one order and ask for a real package discount. Pro-gear dealers expect it."
+    },
+
+    sampleBuilds: {
+      title: "Complete Setup Examples",
+      builds: [
+        {
+          name: 'The $1800 Smart Build',
+          totalCost: 1800,
+          description: 'A pro maple kit with a real B20 set and a serious double pedal, with money to spare.',
+          items: [
+            { item: 'Pearl Decade Maple shell pack', cost: 949 },
+            { item: 'Zildjian A / Meinl Classics Custom B20 set', cost: 500 },
+            { item: 'Tama Speed Cobra 910 + hardware pack', cost: 310 },
+            { item: 'Heads, sticks, earplugs', cost: 41 }
+          ]
+        },
+        {
+          name: 'The $2000 Full Build',
+          totalCost: 2000,
+          description: 'A recording-ready pro rig: maple shells, a cast B20 set, a direct-drive double pedal, and a dedicated metal snare.',
+          items: [
+            { item: 'Tama Superstar Classic shell pack', cost: 999 },
+            { item: 'Sabian AAX / Zildjian A B20 cymbal set', cost: 520 },
+            { item: 'Pearl Eliminator Demon Drive + hardware', cost: 330 },
+            { item: 'Pearl Free Floating steel snare + heads', cost: 151 }
+          ]
+        }
+      ]
+    },
+
+    faq: [
+      {
+        question: "Is $2000 enough for a pro-quality metal kit?",
+        answer: "Yes—at $2000 you can buy pro-grade maple or birch shells, a cast B20 cymbal set, a serious double pedal, and a dedicated metal snare. It's the tier where every piece is gig- and record-ready. The jump to a $15K pro rig buys refinement (custom shells, full cymbal arrays, triggers), not a fundamentally better sound."
+      },
+      {
+        question: "B8 or B20 cymbals—is the upgrade worth it?",
+        answer: "Absolutely. B20 is cast bronze with the complexity, projection, and decay that nearly every metal record was cut on; B8 is sheet bronze. The B8-to-B20 jump is the single most audible cymbal upgrade you will ever make, and it's a core part of the $2000 build."
+      },
+      {
+        question: "Which double bass pedal should I get?",
+        answer: "Both the Pearl Eliminator Demon Drive (direct-drive, instant response) and the Tama Speed Cobra 910 (longboard, great for sliding technique) are pro-grade. Pick by feel: direct-drive for snappy response, longboard for heel-toe and sliding. Don't go cheaper than these at this tier—the pedal is the heart of a metal kit."
+      },
+      {
+        question: "Should I add a dedicated metal snare?",
+        answer: "Yes. A dedicated 14\"x6.5\" steel (or thick maple) snare is the biggest per-dollar sound upgrade at this tier. The shell-pack snare is fine, but a cracking steel snare defines a metal backbeat in a way nothing else does."
+      },
+      {
+        question: "Should I start here or at a lower tier?",
+        answer: "If you're new, start at $500 (complete gig-ready kit) or $1000 (shell pack + bronze cymbals) and learn the fundamentals. Step up to this $2000 tier when your playing has outgrown a mid-tier rig and you want pro gear you'll keep for a decade. See our $500 and $1000 guides for the earlier steps."
+      }
+    ],
+
+    relatedContent: {
+      drummers: [
+        { id: 'lars-ulrich', name: 'Lars Ulrich', reason: 'The aspirational ~$15K pro rig the $2000 tier compares to' },
+        { id: 'george-kollias', name: 'George Kollias', reason: 'Double-bass mastery on a pro double-pedal setup' },
+        { id: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Thrash precision on a pro custom kit' }
+      ],
+      guides: [
+        { slug: 'budget-metal-drum-setup-500', title: 'The Best Budget Metal Drum Setup Under $500' },
+        { slug: 'budget-metal-drum-setup-1000', title: 'The Best Metal Drum Setup Under $1000' },
         { slug: 'beginner-metal-drummer-setup', title: 'The Ultimate Beginner Guide Under $1000' }
       ]
     }

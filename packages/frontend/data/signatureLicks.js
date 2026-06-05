@@ -50,15 +50,6 @@ export const SIGNATURE_LICKS = {
       'Use rimshots for maximum attack',
     ],
     
-    // Video reference
-    video: {
-      youtubeId: 'uwcmXeKsnTM',
-      startTime: 0,
-      endTime: 15,
-      title: 'The Heretic Anthem - Full Song',
-      description: 'Listen to the explosive intro that defined Iowa',
-    },
-    
     // Related tutorial video
     tutorial: {
       youtubeId: 'tUibKh0Z--c',
@@ -119,15 +110,6 @@ export const SIGNATURE_LICKS = {
       'Maintain consistent volume throughout',
       'Focus on wrist technique to avoid fatigue',
     ],
-    
-    video: {
-      youtubeId: 'zRb31xYFMis',
-      startTime: 110,
-      endTime: 145,
-      title: 'Eyeless - Live Performance',
-      description: 'Watch Joey execute this blast live',
-    },
-    
     
     gearUsed: [
       { name: 'Pearl Joey Jordison Signature Snare', type: 'snare', link: '/drummers/joey-jordison/signature/joey-jordison-pearl-signature-snare' },
@@ -595,15 +577,6 @@ export const SIGNATURE_LICKS = {
       'Feet continue standard blast underneath',
     ],
     
-    video: {
-      youtubeId: '_TUnfVV3hBQ',
-      startTime: 30,
-      endTime: 90,
-      title: 'George Kollias Drumming Clinic',
-      description: 'Gravity blast technique explained',
-    },
-    
-    
     gearUsed: [
       { name: 'Pearl Reference Series Kit', type: 'drums', link: null },
       { name: 'Pearl Demon Drive Pedals', type: 'pedals', link: null },
@@ -652,14 +625,6 @@ export const SIGNATURE_LICKS = {
       'Requires extreme limb independence',
       'Each limb operates somewhat independently',
     ],
-    
-    video: {
-      youtubeId: 'RfTmP_gQJ8s',
-      startTime: 0,
-      endTime: 60,
-      title: 'George Kollias Speed Workout',
-      description: 'Polyrhythmic patterns demonstrated',
-    },
     
     tutorial: null,
     
@@ -711,15 +676,6 @@ export const SIGNATURE_LICKS = {
       'Proper breathing maintains oxygen flow',
       'Efficient motion minimizes energy use',
     ],
-    
-    video: {
-      youtubeId: '_TUnfVV3hBQ',
-      startTime: 45,
-      endTime: 120,
-      title: 'George Kollias Drumming Clinic',
-      description: 'Sustained extreme speed demonstration',
-    },
-    
     
     gearUsed: [
       { name: 'Pearl Reference Series Kit', type: 'drums', link: null },
@@ -890,15 +846,6 @@ export const SIGNATURE_LICKS = {
       'Ride cymbal provides wash and texture',
     ],
     
-    video: {
-      youtubeId: '2Uu3gGkS34s',
-      startTime: 0,
-      endTime: 60,
-      title: 'Backbone - Live',
-      description: 'The heavy groove in action',
-    },
-    
-    
     gearUsed: [
       { name: 'Mapex Saturn Kit', type: 'drums', link: null },
       { name: 'Paiste Signature Cymbals', type: 'cymbals', link: null },
@@ -1017,14 +964,25 @@ export function getBpmRanges() {
 /**
  * Generate Schema.org VideoObject + HowTo markup for a lick
  */
+/**
+ * Resolve a representative YouTube ID for a lick's thumbnail/imagery.
+ * Falls back to the tutorial video when a lick has no primary video,
+ * and returns null when neither exists (caller renders a placeholder).
+ */
+export function getLickThumbId(lick) {
+  return lick?.video?.youtubeId || lick?.tutorial?.youtubeId || null;
+}
+
 export function generateLickSchema(lick) {
   const url = `https://metalforge.io/drummers/${lick.drummerSlug}/licks/${lick.slug}`;
   
+  const thumbId = getLickThumbId(lick);
+
   const schema = {
     "@context": "https://schema.org",
     "@graph": [
-      // VideoObject for the main video
-      {
+      // VideoObject for the main video (only when a primary video exists)
+      ...(lick.video ? [{
         "@type": "VideoObject",
         "name": lick.video.title,
         "description": lick.video.description,
@@ -1033,13 +991,13 @@ export function generateLickSchema(lick) {
         "contentUrl": `https://www.youtube.com/watch?v=${lick.video.youtubeId}`,
         "embedUrl": `https://www.youtube.com/embed/${lick.video.youtubeId}`,
         "duration": lick.video.endTime ? `PT${lick.video.endTime - (lick.video.startTime || 0)}S` : undefined,
-      },
+      }] : []),
       // HowTo for learning the lick
       {
         "@type": "HowTo",
         "name": `How to Play ${lick.name}`,
         "description": lick.description,
-        "image": `https://i.ytimg.com/vi/${lick.video.youtubeId}/hqdefault.jpg`,
+        ...(thumbId ? { "image": `https://i.ytimg.com/vi/${thumbId}/hqdefault.jpg` } : {}),
         "totalTime": "PT30M",
         "tool": lick.gearUsed.map(g => ({
           "@type": "HowToTool",
@@ -1275,7 +1233,7 @@ export function generateLickOfTheDaySchema(lick, date) {
       "@type": "HowTo",
       "name": `Learn ${lick.name}`,
       "description": lick.description,
-      "image": `https://i.ytimg.com/vi/${lick.video.youtubeId}/hqdefault.jpg`,
+      ...(getLickThumbId(lick) ? { "image": `https://i.ytimg.com/vi/${getLickThumbId(lick)}/hqdefault.jpg` } : {}),
     },
   };
 }

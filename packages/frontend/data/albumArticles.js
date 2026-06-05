@@ -15113,10 +15113,7 @@ The 14" Medium Hi-Hats struck a balance between heaviness for chick work and res
         notes: 'Bent departed Trivium in October 2025 after four acclaimed albums.'
       }
     ],
-    videos: [
-      { youtubeId: 'oF8xJbpjYag', title: 'Trivium - "In the Court of the Dragon" (Live)', description: 'Progressive epic demonstrating technical range' },
-      { youtubeId: 'Uw8rLMjrXM8', title: 'Trivium - "What the Dead Men Say" (Official)', description: 'Pandemic-era single with tight, precise drumming' }
-    ],
+    videos: [],
     quotes: [
       { text: "I try to bring the technicality of death metal to Trivium's music, but it has to serve the song first.", source: "Modern Drummer Magazine", year: 2019 },
       { text: "My time with Brain Drill and Arkaik taught me that speed means nothing without musicality.", source: "Sick Drummer Magazine", year: 2018 }

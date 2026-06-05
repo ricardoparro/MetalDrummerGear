@@ -277,8 +277,6 @@ const drummers = [
     ],
     videos: [
       { youtubeId: 'uS5xR7jBxDw', title: 'Gene Hoglan - Death "Crystal Mountain" (Drum Cam)', year: '2018' },
-      { youtubeId: 'Jg4-gLPbngg', title: 'Gene Hoglan - Testament "Into The Pit" (Live Drum Cam)', year: '2017' },
-      { youtubeId: 'q3jPgKjPqE4', title: 'Gene Hoglan - Dethklok "Thunderhorse" (Drum Playthrough)', year: '2019' }
     ],
     spotlight: {
       quickFacts: [
@@ -390,8 +388,6 @@ const drummers = [
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
     ],
     videos: [
-      { youtubeId: 'QZQN8FvKvdM', title: 'Dave Lombardo - Slayer "Raining Blood" (Live Drum Cam)', year: '2017' },
-      { youtubeId: 'YeINWQDg7zI', title: 'Dave Lombardo - Slayer "Angel of Death" (Live Drum Cam)', year: '2018' },
       { youtubeId: 'r7cWi41XGCM', title: 'Dave Lombardo Drum Solo (Live)', year: '2019' }
     ],
     quotes: [
@@ -440,7 +436,6 @@ const drummers = [
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
     ],
     videos: [
-      { youtubeId: 'HUBZ_9BBevw', title: 'Tomas Haake - Meshuggah "Bleed" (Live Drum Cam)', year: '2019' },
       { youtubeId: 'qc98u-eGzlc', title: 'Tomas Haake - Meshuggah "Future Breed Machine" (Live Drum Cam)', year: '2018' },
       { youtubeId: '4A_tSyJBsRQ', title: 'Tomas Haake - Meshuggah "Rational Gaze" (Live Drum Cam)', year: '2017' }
     ],
@@ -486,9 +481,6 @@ const drummers = [
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
     ],
     videos: [
-      { youtubeId: 'lhsasLJfYlY', title: 'George Kollias - Nile "Kafir!" (Live Drum Cam)', year: '2019' },
-      { youtubeId: 'Dg_gZwV3XM8', title: 'George Kollias - Extreme Drumming Masterclass', year: '2018' },
-      { youtubeId: 'yabkzIdKl9Y', title: 'George Kollias - Nile "Black Seeds of Vengeance" (Drum Playthrough)', year: '2017' }
     ]
   },
   {
@@ -755,7 +747,6 @@ const drummers = [
     videos: [
       { youtubeId: 'FssULNGSZIA', title: 'Tool - Pneuma (Live Drum Cam)', year: '2019' },
       { youtubeId: 'qJq9y9xPKWs', title: 'Tool - Forty Six & 2 (Live Drum Cam)', year: '2019' },
-      { youtubeId: 'Z45VCJfnWZ0', title: 'Tool - Chocolate Chip Trip (Live Drum Solo)', year: '2020' }
     ],
     quotes: [
       { text: "I've always been fascinated by sacred geometry and how it relates to rhythm. The patterns in nature are the same patterns in music.", source: "Modern Drummer Magazine", year: 2019 },
@@ -822,9 +813,6 @@ const drummers = [
       { name: 'Remo Drumheads', url: 'https://www.remo.com' }
     ],
     videos: [
-      { youtubeId: 'Og39wIaLzlQ', title: 'Mastodon - Blood and Thunder (Live Drum Cam)', year: '2019' },
-      { youtubeId: 'hwgqenKiMQw', title: 'Mastodon - Oblivion (Live Drum Cam)', year: '2018' },
-      { youtubeId: 'mLpYJbvwgXg', title: 'Mastodon - The Motherload (Drum Playthrough)', year: '2017' }
     ]
   },
   {
@@ -856,7 +844,6 @@ const drummers = [
     videos: [
       { youtubeId: 'oqdZpxkzNvc', title: 'Lamb of God - Laid to Rest (Live Drum Cam)', year: '2018' },
       { youtubeId: 'HL9kaJZw8iw', title: 'Lamb of God - Redneck (Live Drum Cam)', year: '2016' },
-      { youtubeId: '7t2xmGPPw5g', title: 'Lamb of God - Now You\'ve Got Something to Die For (Drum Playthrough)', year: '2019' }
     ]
   },
   {
@@ -886,9 +873,6 @@ const drummers = [
       { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ],
     videos: [
-      { youtubeId: 'tUl5Y5GMFM4', title: 'Periphery - Marigold (Live Drum Cam)', year: '2019' },
-      { youtubeId: 'eLK3xMO1YvY', title: 'Periphery - The Way the News Goes (Drum Playthrough)', year: '2017' },
-      { youtubeId: 'Y8F3B-qCQxk', title: 'Periphery - Scarlet (Live Drum Cam)', year: '2020' }
     ]
   },
   {
@@ -919,8 +903,6 @@ const drummers = [
     ],
     videos: [
       { youtubeId: 'Czx-OIyrQwQ', title: 'Behemoth - Blow Your Trumpets Gabriel (Live Drum Cam)', year: '2018' },
-      { youtubeId: 'NkaslVgXhNw', title: 'Behemoth - Ora Pro Nobis Lucifer (Live Drum Cam)', year: '2019' },
-      { youtubeId: 'MCsoZ_2ROmY', title: 'Behemoth - Bartzabel (Drum Playthrough)', year: '2020' }
     ]
   },
   {
@@ -950,9 +932,6 @@ const drummers = [
       { name: 'Remo Drumheads', url: 'https://www.remo.com' }
     ],
     videos: [
-      { youtubeId: 'XdV4b1rI4rY', title: 'Mayhem - Freezing Moon (Live Drum Cam)', year: '2017' },
-      { youtubeId: 'bZyvI73vDJs', title: 'Mayhem - Chainsaw Gutsfuck (Live Drum Cam)', year: '2018' },
-      { youtubeId: 'zT2T69bxWH4', title: 'Mayhem - Pagan Fears (Live Drum Cam)', year: '2019' }
     ]
   },
   {
@@ -982,8 +961,6 @@ const drummers = [
       { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ],
     videos: [
-      { youtubeId: 'QoNbazpnRH4', title: 'Morbid Angel - Immortal Rites (Live Drum Cam)', year: '2017' },
-      { youtubeId: 'fT_UqTtpZKE', title: 'Morbid Angel - Maze of Torment (Drum Playthrough)', year: '2016' }
     ]
   },
   {
@@ -1016,7 +993,6 @@ const drummers = [
       { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' }
     ],
     videos: [
-      { youtubeId: 'yDT7GDw6TEw', title: 'Godsmack - I Stand Alone (Live Drum Cam)', year: '2019' },
       { youtubeId: 'awT8FFHKikc', title: 'Godsmack - Whatever (Live Drum Cam)', year: '2018' }
     ]
   },
@@ -1049,8 +1025,6 @@ const drummers = [
       { name: 'DW Hardware', url: 'https://www.dwdrums.com' }
     ],
     videos: [
-      { youtubeId: 'iZrTYPSL_2E', title: 'Fear Factory - Replica (Live Drum Cam)', year: '2005' },
-      { youtubeId: 'uFLwAm2rIEY', title: 'Fear Factory - Demanufacture (Live)', year: '2004' }
     ]
   },
   {
@@ -1157,7 +1131,6 @@ const drummers = [
     ],
     videos: [
       { youtubeId: 'nM__lPTWThU', title: 'Judas Priest - Painkiller (Live Drum Cam)', year: '2019' },
-      { youtubeId: 'TQtpmHbcL_o', title: 'Judas Priest - Electric Eye (Live Drum Cam)', year: '2018' },
       { youtubeId: '0p_1QSUsbsM', title: 'Scott Travis Drum Solo (Judas Priest Live)', year: '2019' }
     ]
   },
@@ -1232,9 +1205,6 @@ const drummers = [
       { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ],
     videos: [
-      { youtubeId: 'q3JeR9z3_GA', title: 'Cryptopsy - Phobophile (Live Drum Cam)', year: '2018' },
-      { youtubeId: 'PXTY7IUcDjA', title: 'Cryptopsy - Crown of Horns (Live Drum Cam)', year: '2017' },
-      { youtubeId: 'VA0qlVIw0hw', title: 'Flo Mounier - Extreme Drumming Masterclass', year: '2019' }
     ]
   },
   {
@@ -1270,9 +1240,6 @@ const drummers = [
       { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ],
     videos: [
-      { youtubeId: 'l5x7D0DJyYg', title: 'Death - The Flesh and the Power It Holds (Drum Cam)', year: '2018' },
-      { youtubeId: 'zqfFrJUrKbw', title: 'Iced Earth - Dracula (Live Drum Cam)', year: '2017' },
-      { youtubeId: 'bKdMXv2k8d8', title: 'Charred Walls of the Damned - Ghost Town (Drum Playthrough)', year: '2019' }
     ]
   },
   {
@@ -1309,9 +1276,6 @@ const drummers = [
       { name: 'Remo Drumheads', url: 'https://www.remo.com' }
     ],
     videos: [
-      { youtubeId: 'Jx7rHzP9fXg', title: 'Hate Eternal - King of All Kings (Live Drum Cam)', year: '2018' },
-      { youtubeId: 'RzK3nJh6c2g', title: 'Nile - Black Seeds of Vengeance (Drum Playthrough)', year: '2017' },
-      { youtubeId: '9fD_xYRBhNQ', title: 'Derek Roddy - Extreme Drumming Techniques', year: '2019' }
     ]
   },
   {
@@ -1377,7 +1341,6 @@ const drummers = [
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
     ],
     videos: [
-      { youtubeId: 'FwkcRTNMsWs', title: 'Dream Theater - The Dance of Eternity (Drum Cam)', year: '2019' }
     ]
   },
   {
@@ -1476,7 +1439,6 @@ const drummers = [
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
     ],
     videos: [
-      { youtubeId: 'pQvHwCaQYio', title: 'Children of Bodom - In Your Face (Drum Cam)', year: '2011' }
     ]
   },
   {
@@ -1509,7 +1471,6 @@ const drummers = [
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
     ],
     videos: [
-      { youtubeId: 'L4sQvHXaYEE', title: 'Obscura - Anticosmic Overload (Drum Playthrough)', year: '2016' }
     ]
   },
   {
@@ -1573,7 +1534,6 @@ const drummers = [
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
     ],
     videos: [
-      { youtubeId: 'mLpxoixOUPE', title: 'Amon Amarth - Raise Your Horns (Drum Cam)', year: '2018' }
     ]
   },
   {
@@ -1606,7 +1566,6 @@ const drummers = [
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
     ],
     videos: [
-      { youtubeId: 'xJj5XLSz2Uk', title: 'Morbid Angel - Immortal Rites (Live Drum Cam)', year: '2019' }
     ]
   },
   {
@@ -1639,7 +1598,6 @@ const drummers = [
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
     ],
     videos: [
-      { youtubeId: 'mC6qAs9M3Kk', title: 'Dying Fetus - Destroy the Opposition (Drum Cam)', year: '2008' }
     ]
   }
 ];

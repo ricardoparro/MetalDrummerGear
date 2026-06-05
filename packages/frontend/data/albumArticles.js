@@ -15516,10 +15516,6 @@ In interviews, Lopez has emphasized that he never thought of himself as a "death
       }
     ],
     videos: [
-      { youtubeId: 'j4xCb_NN3RQ', title: 'Opeth - The Drapery Falls (Live at Shepherd\'s Bush Empire 2003)', description: 'Classic live performance with Martin Lopez' },
-      { youtubeId: '4oWhkjvXcXY', title: 'Opeth - Bleak (Official Video)', description: 'The iconic drum intro and dynamic shifts' },
-      { youtubeId: 'xvLn8j4c5l0', title: 'Opeth - Harvest (Audio)', description: 'Lopez\'s delicate acoustic drumming' },
-      { youtubeId: 'XuH1j2-8TW8', title: 'Opeth - The Leper Affinity (Live)', description: 'Full dynamic range on display' }
     ],
     quotes: [
       { text: "I never considered myself a death metal drummer. I was a drummer who happened to play in a death metal band. My influences were Tony Williams, Billy Cobham, Stewart Copeland.", source: "Modern Drummer Interview", year: 2003 },
@@ -17051,8 +17047,6 @@ Today, drummers study Rust in Peace as a masterclass in technical thrash drummin
       ]
     },
     videos: [
-      { youtubeId: 'wpGS8xhkwX4', title: 'Holy Wars - Live 1992', description: 'Era-appropriate live performance' },
-      { youtubeId: 'C1kw5xJr3mY', title: 'Hangar 18 - Official Music Video', description: 'Studio footage with Nick Menza' },
       { youtubeId: 'Lcm9qqo_qB0', title: 'Tornado of Souls - Live', description: 'Live performance showcasing Menza\'s technique' }
     ],
     relatedAlbums: ['master-of-puppets-drum-setup', 'reign-in-blood-drum-setup', 'painkiller-drum-setup'],
@@ -17653,9 +17647,6 @@ The China cymbal is essential for LOG's aggressive accents — those trashy expl
       ]
     },
     videos: [
-      { youtubeId: 'dYwMM3tkEWs', title: 'Lamb of God - "Nevermore" (Official)', description: 'Cruz\'s powerful playing on lead single from Omens' },
-      { youtubeId: 'AVCKZQ8XvMo', title: 'Lamb of God - "Memento Mori" (Official)', description: 'First single from the self-titled album' },
-      { youtubeId: 'nqNaQ8hP5eo', title: 'Lamb of God - Live 2022', description: 'Full concert showcasing Cruz\'s stage presence' }
     ],
     quotes: [
       { text: "I didn't want to be Chris Adler 2.0. I wanted to learn his parts with respect but bring my own energy to them.", source: "Modern Drummer", year: 2020 },
@@ -17932,10 +17923,6 @@ Every progressive metal drummer who uses jazz vocabulary owes a debt to Sean Rei
       ]
     },
     videos: [
-      { youtubeId: 'jh8h38p9bT4', title: 'Death - Lack of Comprehension (Live)', description: 'Sean\'s revolutionary playing on Human material' },
-      { youtubeId: 'V7nGnC2dpEI', title: 'Cynic - Veil of Maya (Official Video)', description: 'Classic Focus-era performance' },
-      { youtubeId: 'QQ4Q8FEjMjE', title: 'Sean Reinert Drum Clinic', description: 'Rare clinic footage showing his techniques' },
-      { youtubeId: 'tHqWMYhEqXk', title: 'Death - Human (Full Album)', description: 'The complete album that changed everything' }
     ],
     buyingGuide: {
       title: 'Getting Sean\'s Sound on a Budget',
@@ -18247,9 +18234,6 @@ Joining Scorpions required adjustment. The band's more melodic, hook-driven song
     },
     videos: [
       { youtubeId: 'pWB5JZRGl0U', title: 'Motörhead - Ace of Spades (Live)', description: 'Mikkey driving the classic anthem with thunderous power' },
-      { youtubeId: '5okojpC_cKE', title: 'Mikkey Dee Drum Solo (Motörhead Live)', description: 'Legendary drum solo showcasing technique and showmanship' },
-      { youtubeId: 'nNPgZjCumaU', title: 'Scorpions - Rock Believer (Official Video)', description: 'Mikkey with Scorpions — proving the fire never dies' },
-      { youtubeId: 'vpPJzrNRHdI', title: 'King Diamond - Abigail (Full Album)', description: 'Early technical work that showcased Mikkey\'s range' }
     ],
     buyingGuide: {
       title: 'Getting Mikkey\'s Thunder on a Budget',
@@ -18586,10 +18570,6 @@ Abe Cunningham proves that being a great drummer isn't about impressing other dr
     ],
     // Videos
     videos: [
-      { youtubeId: 'RVKjTlhFWHM', title: 'Change (In the House of Flies) - Live', description: 'Classic performance showing dynamic control' },
-      { youtubeId: 'V2txF4gbQuY', title: 'My Own Summer (Shove It) - Live', description: 'Raw energy and groove' },
-      { youtubeId: 'pQ1qdspwFJY', title: 'Deftones - Digital Bath', description: 'Studio track showcasing atmospheric drumming' },
-      { youtubeId: 'nWKqoFZ8E8I', title: 'Ohms - Live', description: 'Recent performance showing evolved style' }
     ],
     // Quotes
     quotes: [
@@ -19289,8 +19269,6 @@ Different songs called for different treatments. "Change" features more room sou
     // Videos
     videos: [
       { youtubeId: 'WPpDyIJdasg', title: 'Change (In the House of Flies) - Official Video', description: 'The hypnotic groove that became an unlikely hit' },
-      { youtubeId: 'UBVgRPAcEJ0', title: 'Digital Bath - Live Performance', description: 'Atmospheric hybrid drumming in live context' },
-      { youtubeId: 'AuSKbvbHwvM', title: 'Elite - Live Performance', description: 'Grammy-winning track showcasing aggressive side' },
       { youtubeId: 'sTPn4Jlrjb0', title: 'Knife Prty - Audio', description: 'Textural drumming serving atmospheric soundscape' }
     ],
     // Quotes

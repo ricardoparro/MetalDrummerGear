@@ -167,6 +167,8 @@ const beginnerGuides = [
   { slug: 'beginner-metal-drummer-setup', name: 'The Ultimate Beginner Metal Drummer Gear Guide Under $1000' },
   // Issue #833: $500 budget tier guide
   { slug: 'budget-metal-drum-setup-500', name: 'The Best Budget Metal Drum Setup Under $500' },
+  // Issue #834: $1000 mid-tier budget guide (split 2/3 of #830)
+  { slug: 'budget-metal-drum-setup-1000', name: 'The Best Metal Drum Setup Under $1000' },
 ];
 
 // Issue #704: Metal Drummer Name Generator - viral tool

@@ -2648,3 +2648,106 @@ This week skewed **short-term** (video-churn fixes) + **medium-term** (the now-c
 4. Confirm PR #982 (this CEO-state branch) merged; if not, it's the one outstanding CEO artifact awaiting Ricardo.
 
 *Última revisão: CEO Agent — 2026-06-05 evening (verified epic #830 complete = $500/$1k/$2k funnel live; Joey "Eyeless" lick page renders post-#980; GSC #910 + treadmill-gate #909 still the two binding constraints awaiting Ricardo)*
+
+---
+
+## 2026-06-06 (Saturday) — Scheduled Run (Day 127, 07:00 deep run)
+
+### State at start (metrics refreshed 07:56 UTC)
+- **GA4 (7d):** 40 active users / 45 sessions / 62 views. **Organic Search = 64% of sessions (29/45)** — moat thesis holding; absolute volume still small and flat week-over-week. Top pages unchanged: `/` (13), `/drummer/2` (6), `/drummer/53` (5), Joey "Eyeless" lick page (4) still top-4.
+- **GSC: STILL blind** (`GSC_SITE` missing) — #910 unanswered. #1 KPI (indexed pages × organic CTR) remains unmeasurable. Not re-spamming (escalated ×3).
+- **Prod healthy:** metalforge.io 200, Joey "Eyeless" lick 200, $2000 guide 200.
+- Founder inbox: **empty.** Open `seo-proposal`: **none.**
+- **New since 06-05 evening:** Ricardo filed **#984** himself (22:41, `ai-fix`) — a detailed spec for the pre-merge YouTube gate (the durable treadmill fix I'd flagged for days). Plus a stale state PR **#985**.
+
+### 🔑 KEYSTONE — implemented Ricardo's own #984 directive as a real PR (#986)
+#984 is as close to a founder directive as it gets: he wrote the spec, labeled it `ai-fix`, and said *"0 open PRs, pipeline drained, this is the single most expensive recurring waste — the right priority now."* The broken-video cleanup shipped **~4× in 3 days** (#911/#944/#978/#979/#980) because `verify-youtube-ids.cjs` only runs **post-merge** and merely files an umbrella issue — it never fails a build. So fabricated/dead IDs land on main → cron flags → Ralph cleans up → repeat.
+
+**Shipped (PR #986):** added `--strict` mode to `scripts/verify-youtube-ids.cjs`:
+- Checks **only IDs added/changed vs the base ref** (`git diff`, three-dot merge-base + two-dot/plain fallbacks) — fast, and can't flake on pre-existing dead IDs already tracked by the umbrella.
+- Verifies just those via the existing oEmbed logic; **exits non-zero on any hard-dead `not_found` (404)** — the failure fabricated/removed IDs produce (e.g. the #877 churn).
+- **Embedding-disabled (401) + un-verifiable (network) warn but never block** — deliberate, so the gate can't flake CI on transient errors or legit non-embeddable videos.
+- `--base <ref>` override (defaults to `$GITHUB_BASE_REF`); `--list-changed` debug mode (no network). Existing scan/report/`--create-issues`/cron behavior unchanged.
+- **Verified:** `node --check` clean; `--strict --base HEAD` passes with **zero network calls** (fast path); `--list-changed` correctly extracts an injected fake ID from the diff vs main. (Live oEmbed runs in CI, which has youtube egress; the agent sandbox does not.)
+
+### Split delivery — script PR now, workflow wire-up to Ricardo (#987)
+The push of the **workflow file** (`pull_request` trigger + `youtube-gate` job) was **rejected** — `refusing to allow a GitHub App to create or update workflow ... without 'workflows' permission`. Same `workflow`-scope gap noted on #909. So I split:
+- **PR #986** = the script `--strict` logic (no workflow scope needed) — the substantive ~90%.
+- **#987 (`human-founder`)** = the ready-to-paste workflow YAML + the branch-protection required-check (`YouTube gate (no dead IDs)`). Both need Ricardo's scope/settings anyway (the required-check was always a 1-click founder follow-up per #984's own spec). Commented the linkage on #984.
+
+### Closed stale PR #985 (no unique action lost)
+#985 was the 06-05 *morning* CEO-state draft (branch `ceo/state-2026-06-05-day126`), never merged. The later **#982** (mid-day + evening + weekly summary) merged instead and covers 06-05 fully — merging #985 now would drop a morning entry *below* the evening entry (out of order). Its one actionable item (file #984) is done + in progress; its Ralph-queue sequencing (#870–#874) is superseded by the CEO/SEO split (#977 → SEO Agent's lane, Monday cron). Closed with explanation + deleted the branch.
+
+### Quota note — deliberate, consistent with the established stance
+No filler programmatic-SEO issues filed. Founder inbox empty; zero `seo-proposal`; GSC-gap escalation blocked (GSC blind, #910). Programmatic/LLM production is now the **SEO Agent's** lane (first Monday cron 06-08). The high-leverage move this deep run was to **ship the founder's own #984 as a real PR** + route the scope-blocked half to Ricardo — exactly the "implement the highest-leverage open issue as a real PR" mode. Output: 1 PR (#986), 1 human-founder issue (#987), 1 stale PR closed (#985).
+
+### Did NOT
+- Re-spam #909/#910 (escalated ×3; both founder-owned).
+- Self-merge #986 — Ricardo not present; PRs await his merge (operating model A-minus).
+- Touch the 4 dormant social blockers (#525/#526/#528/#529).
+
+### Next Run (13:00 mid-day pulse)
+1. **Check #986** — if merged, confirm `--strict` is on `main`. Then nudge #987 if untouched (it's the last mile to actually *block* dead-ID PRs).
+2. **Check #987** — if Ricardo wired the workflow + required check, verify the gate goes red on a throwaway dead-ID PR (the #984 acceptance test).
+3. **#910 GSC** — the instant it lands, `metrics.md` gains a query table → file the first real GSC-gap content escalations.
+4. **SEO Agent** — first Monday cron 06-08 08:00 UTC; prep to triage its inaugural `seo-proposal` batch.
+5. If a Saturday verify-youtube batch lands a new umbrella before #986/#987 are both merged, ship a cleanup branch — but the gate is the real fix; prioritize landing it.
+
+*Última revisão: CEO Agent — 2026-06-06 deep run (implemented Ricardo's #984 pre-merge YouTube gate → PR #986 + human-founder wire-up #987; closed stale state PR #985; GSC #910 still the #1-KPI blocker)*
+
+---
+
+## 2026-06-06 (Saturday) — Scheduled Run (Day 127, 13:00 mid-day pulse)
+
+### State at start (metrics refreshed 13:31 UTC)
+- **GA4 (7d):** 41 active users / 46 sessions / 64 views. **Organic Search = 65% of sessions (30/46)** — moat thesis holding; volume essentially flat day-over-day. Top pages unchanged: `/` (14), `/drummer/2` (6), `/drummer/53` (5), Joey "Eyeless" lick page (4) still top-4.
+- **GSC: STILL blind** (`GSC_SITE` missing) — #910 unanswered. #1 KPI unmeasurable. Not re-spamming (escalated ×3).
+- **Prod healthy:** metalforge.io 200.
+- Founder inbox: **empty.** Open `seo-proposal`: **none.** No new verify-youtube churn batch since this morning.
+
+### Ran the morning's mid-day checklist — everything is awaiting Ricardo, nothing to unblock
+1. **#986 (`--strict` YouTube gate script):** still OPEN, **MERGEABLE/UNSTABLE** — not merged. So `--strict` is not yet on `main`. Awaiting Ricardo's merge; operating model A-minus (no self-merge unattended).
+2. **#987 (workflow wire-up + required check, `human-founder`):** **untouched** (0 comments). Filed only ~5.5h ago on a Saturday. The morning note said "nudge if untouched," but the stronger, repeatedly-validated principle in this log is **don't re-spam a founder issue within hours** — a 5h re-ping adds no signal; this entry is the audit trail. Will nudge on the evening run if still cold, then the gate's "last mile" is genuinely stalled on Ricardo.
+3. **#910 (GSC):** still blind. Unchanged.
+4. **#988 (this CEO-state branch):** OPEN/MERGEABLE — appending here so the day lands in one merge.
+
+### Decisions this run
+- **No new issues filed — deliberate, consistent with the established stance.** Nothing to triage (empty founder inbox, zero `seo-proposal`); both binding constraints (#909 treadmill-gate via #986/#987, #910 GSC) are escalated and founder-owned; programmatic/LLM production is the **SEO Agent's** lane (first Monday cron 06-08). A mid-day pulse with no churn, no new proposals, and PRs blocked only on the human merge correctly produces **verify + log**, not filler.
+- **Did NOT re-nudge #909/#910/#987** (see above), **did NOT self-merge #986/#988**, **did NOT touch the 4 dormant social blockers** (#525/#526/#528/#529).
+
+### Next Run (19:00 evening)
+1. **#986 + #987** — if Ricardo merged #986, confirm `--strict` on `main`; if he wired #987, run the #984 acceptance test (throwaway dead-ID PR must go red). If #987 is *still* untouched by evening, post one concise nudge — it's the last mile to actually blocking dead-ID PRs.
+2. **#910 GSC** — the instant it lands, `metrics.md` gains a query/CTR table → file the first real GSC-gap content escalations.
+3. **SEO Agent** — first Monday cron 06-08 08:00 UTC; prep to triage its inaugural `seo-proposal` batch.
+4. Confirm #988 merged; if a Saturday-evening verify-youtube batch lands before #986/#987 are both in, ship a cleanup branch — but the gate stays the real fix.
+
+*Última revisão: CEO Agent — 2026-06-06 mid-day pulse (ran morning checklist: #986/#987/#988 all awaiting Ricardo, no churn, no new proposals; held off re-spamming #987 per anti-noise principle; GSC #910 still the #1-KPI blocker)*
+
+## 2026-06-06 (Saturday) — Scheduled Run (Day 127, 19:00 evening review)
+
+### State at start (metrics refreshed 19:29 UTC)
+- **GA4 (7d):** 41 active users / 46 sessions / 64 views. **Organic Search = 65% of sessions (30/46)** — moat thesis holding; absolute volume flat all week. Top pages unchanged: `/` (14), `/drummer/2` (6), `/drummer/53` (5), **Joey "Eyeless" lick page (4)** still top-4 — the signature-lick surface keeps earning its place.
+- **GSC: STILL blind** (`GSC_SITE` missing) — #910 unmoved (1 comment, last touched 06-05). #1 KPI unmeasurable. Escalated ×3; not re-spamming.
+- **Prod healthy:** metalforge.io 200; Joey "Eyeless" lick page 200 (post-#980 hardening still good). **No verify-youtube churn batch all Saturday** — first churn-free day in a while.
+- Founder inbox: **empty.** Open `seo-proposal`: **none.**
+
+### Ran the mid-day evening checklist — the only actionable item fired
+1. **#987 (workflow wire-up + required check, `human-founder`):** **still untouched** (0 comments since 08:02). Mid-day pre-committed: "if still cold by evening, post one concise nudge." Done — posted one nudge framing it as the **last mile** (logic is ready in #986; this needs the `workflows` scope agents lack; until the `pull_request` job + required check land, dead-ID PRs stay mergeable). This is the single highest-leverage open task — it converts the ~4-batches-in-3-days treadmill into a one-time fix. One nudge only; not re-spamming further.
+2. **#986 (`--strict` gate logic):** OPEN, **MERGEABLE/UNSTABLE** — not merged. `--strict` not yet on `main`. Awaiting Ricardo (model A-minus; no unattended self-merge).
+3. **#910 (GSC):** still blind. Unchanged.
+4. **#988 (this CEO-state branch):** OPEN/MERGEABLE — appended all three of today's entries (deep/mid-day/evening) here so the full Saturday lands in **one** merge for Ricardo.
+
+### Decisions this run
+- **One action: the #987 nudge** (pre-committed, last-mile, founder-owned blocker). Otherwise **no new issues filed** — empty founder inbox, zero `seo-proposal`, GSC-gap blocked on #910, programmatic/LLM owned by the SEO Agent (first Monday cron 06-08). Filing filler `ai-fix` into a queue whose only human merger is away on a Saturday = noise; the evening job (review shipped / verify / log / queue) is the correct output.
+- **Did NOT re-spam #909/#910**, **did NOT self-merge #986/#988**, **did NOT touch the 4 dormant social blockers** (#525/#526/#528/#529).
+
+### Saturday read
+A quiet, churn-free Saturday — exactly what the treadmill fix is meant to make normal. Everything material is parked on two founder-owned gates: **#987** (last mile of the YouTube CI gate — stops dead-video churn at the source) and **#910** (GSC — unblocks the #1 KPI). Both are crisp, agent-impossible, 5-minute human tasks. No engineering lever left for the CEO to pull tonight.
+
+### Next Run (Sunday 07:00 deep run)
+1. **#986 + #987** — if Ricardo merged #986, confirm `--strict` on `main`; if he wired #987, run the #984 acceptance test (throwaway dead-ID PR must go red). If #987 still cold, hold (already nudged 06-06 evening; daily re-pings would be noise).
+2. **#910 GSC** — the instant it lands, `metrics.md` gains a query/CTR table → file the first real GSC-gap content escalations (the CEO quota item dormant since launch for lack of data).
+3. **SEO Agent** — first Monday cron is 2026-06-08 08:00 UTC; prep to triage its inaugural `seo-proposal` batch Monday/Tuesday.
+4. Confirm #988 merged. If a Sunday verify-youtube batch lands before #986/#987 are both in, ship a cleanup branch — but the gate stays the real fix.
+
+*Última revisão: CEO Agent — 2026-06-06 evening (posted last-mile nudge on #987; #986/#988 await Ricardo; churn-free Saturday; GSC #910 still the #1-KPI blocker)*

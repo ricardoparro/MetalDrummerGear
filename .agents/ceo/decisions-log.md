@@ -2648,3 +2648,49 @@ This week skewed **short-term** (video-churn fixes) + **medium-term** (the now-c
 4. Confirm PR #982 (this CEO-state branch) merged; if not, it's the one outstanding CEO artifact awaiting Ricardo.
 
 *Última revisão: CEO Agent — 2026-06-05 evening (verified epic #830 complete = $500/$1k/$2k funnel live; Joey "Eyeless" lick page renders post-#980; GSC #910 + treadmill-gate #909 still the two binding constraints awaiting Ricardo)*
+
+---
+
+## 2026-06-06 (Saturday) — Scheduled Run (Day 127, 07:00 deep run)
+
+### State at start (metrics refreshed 07:56 UTC)
+- **GA4 (7d):** 40 active users / 45 sessions / 62 views. **Organic Search = 64% of sessions (29/45)** — moat thesis holding; absolute volume still small and flat week-over-week. Top pages unchanged: `/` (13), `/drummer/2` (6), `/drummer/53` (5), Joey "Eyeless" lick page (4) still top-4.
+- **GSC: STILL blind** (`GSC_SITE` missing) — #910 unanswered. #1 KPI (indexed pages × organic CTR) remains unmeasurable. Not re-spamming (escalated ×3).
+- **Prod healthy:** metalforge.io 200, Joey "Eyeless" lick 200, $2000 guide 200.
+- Founder inbox: **empty.** Open `seo-proposal`: **none.**
+- **New since 06-05 evening:** Ricardo filed **#984** himself (22:41, `ai-fix`) — a detailed spec for the pre-merge YouTube gate (the durable treadmill fix I'd flagged for days). Plus a stale state PR **#985**.
+
+### 🔑 KEYSTONE — implemented Ricardo's own #984 directive as a real PR (#986)
+#984 is as close to a founder directive as it gets: he wrote the spec, labeled it `ai-fix`, and said *"0 open PRs, pipeline drained, this is the single most expensive recurring waste — the right priority now."* The broken-video cleanup shipped **~4× in 3 days** (#911/#944/#978/#979/#980) because `verify-youtube-ids.cjs` only runs **post-merge** and merely files an umbrella issue — it never fails a build. So fabricated/dead IDs land on main → cron flags → Ralph cleans up → repeat.
+
+**Shipped (PR #986):** added `--strict` mode to `scripts/verify-youtube-ids.cjs`:
+- Checks **only IDs added/changed vs the base ref** (`git diff`, three-dot merge-base + two-dot/plain fallbacks) — fast, and can't flake on pre-existing dead IDs already tracked by the umbrella.
+- Verifies just those via the existing oEmbed logic; **exits non-zero on any hard-dead `not_found` (404)** — the failure fabricated/removed IDs produce (e.g. the #877 churn).
+- **Embedding-disabled (401) + un-verifiable (network) warn but never block** — deliberate, so the gate can't flake CI on transient errors or legit non-embeddable videos.
+- `--base <ref>` override (defaults to `$GITHUB_BASE_REF`); `--list-changed` debug mode (no network). Existing scan/report/`--create-issues`/cron behavior unchanged.
+- **Verified:** `node --check` clean; `--strict --base HEAD` passes with **zero network calls** (fast path); `--list-changed` correctly extracts an injected fake ID from the diff vs main. (Live oEmbed runs in CI, which has youtube egress; the agent sandbox does not.)
+
+### Split delivery — script PR now, workflow wire-up to Ricardo (#987)
+The push of the **workflow file** (`pull_request` trigger + `youtube-gate` job) was **rejected** — `refusing to allow a GitHub App to create or update workflow ... without 'workflows' permission`. Same `workflow`-scope gap noted on #909. So I split:
+- **PR #986** = the script `--strict` logic (no workflow scope needed) — the substantive ~90%.
+- **#987 (`human-founder`)** = the ready-to-paste workflow YAML + the branch-protection required-check (`YouTube gate (no dead IDs)`). Both need Ricardo's scope/settings anyway (the required-check was always a 1-click founder follow-up per #984's own spec). Commented the linkage on #984.
+
+### Closed stale PR #985 (no unique action lost)
+#985 was the 06-05 *morning* CEO-state draft (branch `ceo/state-2026-06-05-day126`), never merged. The later **#982** (mid-day + evening + weekly summary) merged instead and covers 06-05 fully — merging #985 now would drop a morning entry *below* the evening entry (out of order). Its one actionable item (file #984) is done + in progress; its Ralph-queue sequencing (#870–#874) is superseded by the CEO/SEO split (#977 → SEO Agent's lane, Monday cron). Closed with explanation + deleted the branch.
+
+### Quota note — deliberate, consistent with the established stance
+No filler programmatic-SEO issues filed. Founder inbox empty; zero `seo-proposal`; GSC-gap escalation blocked (GSC blind, #910). Programmatic/LLM production is now the **SEO Agent's** lane (first Monday cron 06-08). The high-leverage move this deep run was to **ship the founder's own #984 as a real PR** + route the scope-blocked half to Ricardo — exactly the "implement the highest-leverage open issue as a real PR" mode. Output: 1 PR (#986), 1 human-founder issue (#987), 1 stale PR closed (#985).
+
+### Did NOT
+- Re-spam #909/#910 (escalated ×3; both founder-owned).
+- Self-merge #986 — Ricardo not present; PRs await his merge (operating model A-minus).
+- Touch the 4 dormant social blockers (#525/#526/#528/#529).
+
+### Next Run (13:00 mid-day pulse)
+1. **Check #986** — if merged, confirm `--strict` is on `main`. Then nudge #987 if untouched (it's the last mile to actually *block* dead-ID PRs).
+2. **Check #987** — if Ricardo wired the workflow + required check, verify the gate goes red on a throwaway dead-ID PR (the #984 acceptance test).
+3. **#910 GSC** — the instant it lands, `metrics.md` gains a query table → file the first real GSC-gap content escalations.
+4. **SEO Agent** — first Monday cron 06-08 08:00 UTC; prep to triage its inaugural `seo-proposal` batch.
+5. If a Saturday verify-youtube batch lands a new umbrella before #986/#987 are both merged, ship a cleanup branch — but the gate is the real fix; prioritize landing it.
+
+*Última revisão: CEO Agent — 2026-06-06 deep run (implemented Ricardo's #984 pre-merge YouTube gate → PR #986 + human-founder wire-up #987; closed stale state PR #985; GSC #910 still the #1-KPI blocker)*

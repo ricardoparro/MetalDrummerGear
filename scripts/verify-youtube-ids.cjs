@@ -5,18 +5,28 @@
 // has network egress to youtube.com (the agent sandbox does not).
 //
 // Usage:
-//   node scripts/verify-youtube-ids.cjs            # scan and report
+//   node scripts/verify-youtube-ids.cjs            # scan and report (informational, exit 0)
 //   node scripts/verify-youtube-ids.cjs --json out.json  # also write JSON
 //   node scripts/verify-youtube-ids.cjs --create-issues  # open one GitHub issue per broken video
+//   node scripts/verify-youtube-ids.cjs --strict [--base <ref>]  # PRE-MERGE GATE
+//   node scripts/verify-youtube-ids.cjs --list-changed [--base <ref>]  # debug: print changed IDs
 //
 // --create-issues requires GITHUB_TOKEN and GITHUB_REPOSITORY (set by Actions).
 // Issues are tagged with `broken-video` and an id-specific marker so the script
 // is idempotent: re-runs do not create duplicates, and issues for IDs that
 // became OK again are closed automatically.
+//
+// --strict is the pre-merge gate (issue #984). It looks ONLY at YouTube IDs added
+// or changed vs the base ref (default: $GITHUB_BASE_REF, else origin/main), verifies
+// just those, and exits NON-ZERO if any is a hard-dead `not_found` (oEmbed 404) —
+// the failure mode that fabricated/removed IDs produce. Embedding-disabled (401) and
+// un-verifiable (network) IDs are warned but never block, to keep the gate from flaking.
+// It does NOT open issues. Requires full git history on the base ref (fetch-depth: 0).
 
 const fs = require('fs');
 const path = require('path');
 const https = require('https');
+const { execSync } = require('child_process');
 
 const REPO_ROOT = path.resolve(__dirname, '..');
 const CONCURRENCY = 8;
@@ -354,11 +364,124 @@ async function syncIssues(idToLocations, results) {
   return { opened, updated, skipped, closed: closedIndividual };
 }
 
+// ---------------------------------------------------------------------------
+// Strict pre-merge gate (issue #984)
+// ---------------------------------------------------------------------------
+
+// Extract YouTube IDs that appear on ADDED lines in the diff of HEAD vs baseRef.
+// Returns Map<id, [{ file, snippet }]>. Only the scanned source dirs/files count.
+function changedIds(baseRef) {
+  const paths = [...SCAN_DIRS, ...EXTRA_FILES];
+  // Three-dot (merge-base) is what this branch *introduced*; fall back to
+  // two-dot, then a plain ref, so it works under shallow or detached checkouts.
+  const ranges = [`${baseRef}...HEAD`, `${baseRef}..HEAD`, `${baseRef}`];
+  let diff;
+  let lastErr;
+  for (const range of ranges) {
+    try {
+      diff = execSync(
+        `git diff --unified=0 ${range} -- ${paths.map(p => JSON.stringify(p)).join(' ')}`,
+        { cwd: REPO_ROOT, encoding: 'utf8', maxBuffer: 128 * 1024 * 1024, stdio: ['ignore', 'pipe', 'ignore'] }
+      );
+      break;
+    } catch (e) {
+      lastErr = e;
+    }
+  }
+  if (diff === undefined) {
+    throw new Error(`git diff failed against base '${baseRef}': ${lastErr && lastErr.message}`);
+  }
+
+  const idToLoc = new Map();
+  let currentFile = null;
+  for (const raw of diff.split('\n')) {
+    if (raw.startsWith('+++ ')) {
+      const m = raw.match(/^\+\+\+ b\/(.+)$/);
+      currentFile = m ? m[1] : null;
+      continue;
+    }
+    if (raw.startsWith('+') && !raw.startsWith('+++')) {
+      const added = raw.slice(1);
+      for (const pattern of ID_PATTERNS) {
+        pattern.lastIndex = 0;
+        let m;
+        while ((m = pattern.exec(added)) !== null) {
+          const id = m[1];
+          if (!idToLoc.has(id)) idToLoc.set(id, []);
+          idToLoc.get(id).push({ file: currentFile || '(changed)', snippet: added.trim().slice(0, 120) });
+        }
+      }
+    }
+  }
+  return idToLoc;
+}
+
+async function runStrict(baseRef, listOnly) {
+  process.stderr.write(`${listOnly ? 'Listing' : 'Strict gate —'} YouTube IDs added vs '${baseRef}'\n`);
+  let changed;
+  try {
+    changed = changedIds(baseRef);
+  } catch (e) {
+    process.stderr.write(`ERROR: ${e.message}\n`);
+    process.stderr.write('Ensure the base ref is fetched (actions/checkout fetch-depth: 0).\n');
+    process.exit(2);
+  }
+
+  const ids = [...changed.keys()];
+  if (ids.length === 0) {
+    process.stdout.write('YouTube gate: no new or changed YouTube IDs in this diff. ✅\n');
+    process.exit(0);
+  }
+  process.stderr.write(`  ${ids.length} new/changed ID(s): ${ids.join(', ')}\n`);
+
+  if (listOnly) {
+    process.stdout.write(ids.join('\n') + '\n');
+    process.exit(0);
+  }
+
+  const results = await runWithConcurrency(ids, checkId, CONCURRENCY);
+  const dead = results.filter(r => r.state === 'broken' && r.reason === 'not_found');
+  const embedDisabled = results.filter(r => r.state === 'broken' && r.reason === 'embedding_disabled');
+  const unknown = results.filter(r => r.state === 'unknown');
+
+  for (const r of embedDisabled) {
+    const where = (changed.get(r.id) || []).map(l => l.file).join(', ');
+    process.stderr.write(`  ⚠️  ${r.id} — embedding disabled (401); not blocking. ${where}\n`);
+  }
+  for (const r of unknown) {
+    process.stderr.write(`  ⚠️  ${r.id} — could not verify (${r.reason}); not blocking.\n`);
+  }
+
+  if (dead.length > 0) {
+    const lines = [];
+    lines.push(`❌ YouTube gate FAILED — ${dead.length} dead video ID(s) introduced by this change:`);
+    for (const r of dead) {
+      lines.push(`  • ${r.id}  (not found / oEmbed 404)  https://www.youtube.com/watch?v=${r.id}`);
+      for (const l of (changed.get(r.id) || [])) lines.push(`      ${l.file}: ${l.snippet}`);
+    }
+    lines.push('');
+    lines.push('Remove or replace these IDs with verified, embeddable videos before merging.');
+    process.stdout.write(lines.join('\n') + '\n');
+    process.exit(1);
+  }
+
+  process.stdout.write(`YouTube gate: all ${ids.length} new/changed ID(s) verified working. ✅\n`);
+  process.exit(0);
+}
+
 (async () => {
   const args = process.argv.slice(2);
   const jsonIdx = args.indexOf('--json');
   const jsonOut = jsonIdx >= 0 ? args[jsonIdx + 1] : null;
   const createIssues = args.includes('--create-issues');
+  const baseIdx = args.indexOf('--base');
+  const baseRef = baseIdx >= 0 ? args[baseIdx + 1]
+    : (process.env.GITHUB_BASE_REF ? `origin/${process.env.GITHUB_BASE_REF}` : 'origin/main');
+
+  if (args.includes('--strict') || args.includes('--list-changed')) {
+    await runStrict(baseRef, args.includes('--list-changed'));
+    return;
+  }
 
   process.stderr.write('Scanning files...\n');
   const files = collectFiles();

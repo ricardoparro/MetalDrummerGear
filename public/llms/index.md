@@ -1,6 +1,6 @@
 # MetalForge - LLM Content Index
 
-> Last Updated: 2026-03-24  
+> Last Updated: 2026-06-06  
 > Source: https://metalforge.io
 
 ## About MetalForge

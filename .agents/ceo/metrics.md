@@ -1,6 +1,10 @@
 # MetalForge Metrics
 
+<<<<<<< Updated upstream
 *Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-06 13:31 UTC*
+=======
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-06 19:29 UTC*
+>>>>>>> Stashed changes
 *Lookback: last 7 days*
 
 ---

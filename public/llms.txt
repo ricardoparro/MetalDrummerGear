@@ -103,6 +103,18 @@ Returns robots.txt directives.
 - /lists/most-innovative-drummers - Most innovative drummers
 - /quotes - Drummer quotes collection
 
+## Markdown Profiles (LLM-optimized)
+Clean Markdown versions of every drummer profile, ingestible in one request without
+parsing HTML. One file per drummer at the pattern below:
+- /llms/index.md - master index of all drummer markdown profiles
+- /llms/drummers/<slug>.md - full profile (frontmatter, quick facts, bio, gear, FAQ, quotes)
+- /llms-full.txt - complete database dump (all drummers concatenated)
+
+Examples:
+- /llms/drummers/lars-ulrich.md
+- /llms/drummers/dave-lombardo.md
+- /llms/drummers/danny-carey.md
+
 ## Structured Data
 All pages include Schema.org structured data:
 - Person schema for drummer profiles

@@ -2849,3 +2849,45 @@ A second consecutive quiet, churn-free day — the steady state the treadmill fi
 4. **#910 GSC** — the instant it lands, `metrics.md` gains a query/CTR table → file the first real GSC-gap content escalations (the CEO quota item dormant since launch for lack of data).
 
 *Última revisão: CEO Agent — 2026-06-07 evening (2nd churn-free day; `/llms/drummers/*.md` LLM surface live; all material work parked on founder-owned #987 + #910 + tomorrow's inaugural SEO Agent run carrying CEO-024; no new issues — correct no-noise pre-launch output)*
+
+## 2026-06-07 (Sunday) — Overnight Run (Day 128, 23:24 UTC, hourly-night cadence)
+
+### State at start (metrics refreshed 23:24 UTC)
+- **GA4 (7d):** 44 active users / 50 sessions / 75 views. **Organic Search = 66% (33/50)** — moat holding; volume flat all week. Top pages unchanged (`/`, `/drummer/53`, `/drummer/2`, `/drummer/55`, Joey "Eyeless" lick top-5).
+- **GSC: still blind** (#910). **Prod healthy:** metalforge.io 200, `/llms/drummers/*.md` 200, robots.txt 200.
+- **PR #990 (full-Sunday CEO state): MERGED** 21:41 UTC (commit `97b354a`). ✅
+- **New since 19:00:** a prior overnight run (~22:43–22:46) executed the **atomic-split of #870–874 → #992–1007** (16 issues) and added the atomic-split quota to `CEO-AGENT.md` (commit `e2091c8`). Originals #870–874 all CLOSED/`not_planned`. ✅ split mechanics — **but the split itself was never logged here** (procedure step 6 + "Decisions logged" quota both require it). This entry backfills that audit trail.
+
+### 🔧 PRIMARY ACTION — queue-hygiene sweep: closed 5 duplicate splits the ~22:45 run created for already-shipped work
+The atomic-split run mass-generated sub-issues for **#872 and #873 without checking that both ancestors had already shipped** earlier the same weekend. Audited each split against live prod + merged code:
+
+| Issue | Asked to build | Reality | Action |
+|---|---|---|---|
+| **#999** | DrummerQuickFacts component + schema | Built inline `App.js:5743-5859`, schema microdata present — shipped by **#991** (`fbf985e`, 06-06) | **CLOSED** dup |
+| **#1000** | Roll Quick Facts to all 62 pages | Rendered unconditionally `App.js:5918` on every drummer page — shipped by **#991** | **CLOSED** dup |
+| **#1002** | `/llms/drummers/<slug>.md` route | Live for all drummers (dave-lombardo/lars-ulrich/george-kollias/.md all 200) — shipped by **#989** ("closes #873", 06-06) | **CLOSED** dup |
+| **#1003** | Populate llms.txt + llms-full.txt | Both populated & serving ("Total Drummers: 61", updated 06-07) — shipped by **#989** | **CLOSED** dup |
+| **#1004** | robots.txt AI-crawler rules | Live: GPTBot/ClaudeBot/PerplexityBot/Google-Extended — shipped by **#989** | **CLOSED** dup |
+
+Each closed `not_planned` with an evidence-linked comment. **Net effect: prevented Ralph from burning 5 implementation cycles re-building live production features** (Guardrail: "No duplicate issues").
+
+### KEPT open — verified as genuinely unbuilt (no false closures)
+- **#1001** (Quick Facts mobile polish): deps #999/#1000 satisfied by #991 (which already added `isMobile` prop + native View fallback), so re-scoped via comment to a standalone low-pri Lighthouse/CLS verification task — kept, not closed.
+- **#992–998** (#870 technique pages, #871 gear/series pages): confirmed **not shipped** — sitemap has `/techniques`, `/gear/cymbals`, `/gear/item/<slug>` but **not** `/technique/<slug>/drummers` or `/gear/<brand>/<series>/drummers-using`. (The 200s on those paths are SPA catch-all — verified: garbage URLs also 200.) Genuine pending work.
+- **#1005–1007** (#874 internal-linking blocks): only partial/different infra exists (`list.relatedDrummers` for article lists `App.js:2757`; "Drummers using this Brand" on brand pages `App.js:13026`) — the drummer↔gear-series cross-linking blocks #874 specs are not those. Kept.
+
+### 📌 Note for inaugural SEO Agent run (Mon 2026-06-08 08:00 UTC — reads this log as input #4)
+**#872 (Quick Facts) and #873 (llms.md/llms.txt/robots.txt) are FULLY SHIPPED in prod (#991/#989). Do NOT re-propose them.** The remaining live programmatic queue for triage: #992–998 (technique + gear/series pages), #1001 (QF mobile polish), #1005–1007 (internal-linking). The **CEO-024 signature-lick batch remains the #1 priority** (Joey "Eyeless" lick still top-5 organic all weekend; lick pages exist for only 5/62 drummers).
+
+### Decisions this run
+- **Did real, non-noise work:** backfilled the unlogged atomic-split audit trail; ran a redundancy audit of the 16 new splits against live prod/code; closed 5 verified duplicates; kept 11 verified-genuine. This is the correct overnight output — not a filler issue, not a no-op log.
+- **Lesson logged for future splits:** *before splitting an `ai-fix` issue, check whether a PR has already shipped (or partially shipped) its deliverable* — grep merged PRs / hit prod. The 06-07 split skipped this for #872/#873 and generated 5 duplicates. The atomic-split rule in `CEO-AGENT.md` should gain a "pre-split shipped-check" step (deferred to a daytime CEO-AGENT.md edit; noting here so it isn't lost).
+- **Did NOT** re-spam #909/#910/#987; **did NOT** self-merge anything; **did NOT** touch the 4 dormant social blockers (#525/#526/#528/#529).
+
+### Next Run (Monday 07:00 deep run)
+1. **Add the pre-split shipped-check step** to `CEO-AGENT.md`'s atomic-split rule (prevents recurrence of today's 5 duplicates).
+2. **SEO Agent first cron fires 08:00 UTC** — triage its inaugural `seo-proposal` batch; confirm it (a) avoided re-proposing the shipped #872/#873 work and (b) picked up CEO-024.
+3. **#987** — if Ricardo wired the YouTube gate over the weekend, run the #984 acceptance test. Else hold.
+4. **#910 GSC** — the instant it lands, file the first real GSC-gap content escalations.
+
+*Última revisão: CEO Agent — 2026-06-07 overnight (closed 5 duplicate splits #999/#1000/#1002/#1003/#1004 — already shipped by #991/#989; kept 11 verified-genuine; backfilled the unlogged atomic-split audit trail; flagged the pre-split shipped-check gap; #872/#873 marked shipped for tomorrow's SEO Agent)*

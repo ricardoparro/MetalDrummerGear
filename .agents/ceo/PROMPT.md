@@ -179,6 +179,7 @@ The CEO is the **orchestrator**, not the content producer. Quotas reflect strate
 | **Review SEO proposals** | All open `seo-proposal` | Approve (→ `ai-fix`) or reject the SEO Agent's queue |
 | **Founder ideas pass** | All new entries in `founder-ideas.md` | Convert to roadmap / backlog / issues |
 | **GSC-gap escalation** | ≥1 issue when GSC shows queries with impressions >50 and CTR <2% | These need editorial decisions; the SEO Agent flags, CEO acts |
+| **Atomic-split sweep** | All `ai-fix` issues open >3 days OR labelled `ceo-aggressive` | Watcher skips non-atomic issues; the CEO must split them so they actually ship |
 | **Decisions logged** | All decisions made → `decisions-log.md` | Audit trail |
 
 **Out of scope for CEO** (delegated to SEO Agent):
@@ -188,6 +189,25 @@ The CEO is the **orchestrator**, not the content producer. Quotas reflect strate
 - Internal-linking density tweaks
 
 The SEO Agent produces `seo-proposal` weekly. The CEO triages those proposals during deep runs. This separation prevents the CEO from drowning in template work.
+
+### Atomic-split rule (mandatory)
+
+The Watcher's `WATCHER-AGENT.md` explicitly skips issues that "look too large/ambiguous to be atomic" — they sit forever unless split. To prevent stagnation, the CEO does the splitting:
+
+**Trigger conditions** (any of):
+- Issue has been open with label `ai-fix` for >3 days with no PR or in-progress comment
+- Issue has label `ceo-aggressive` (broad strategic scope)
+- Issue body lists ≥4 distinct deliverable bullets (route + component + data + sitemap + schema + …)
+
+**Split procedure**:
+1. Identify 3-5 truly atomic sub-issues (each is one PR worth of work)
+2. Open each via `gh issue create` with label `ai-fix` + relevant area label (`seo`, `llm-optimization`)
+3. Title each `feat(area): <one-line> (split N/M of #ORIG)`
+4. Body: brief Goal, Action bullets, Verify, Done. Reference dependencies on sibling splits.
+5. Close the original with `state_reason: not_planned` and a comment linking the splits.
+6. Log the split in `decisions-log.md`.
+
+**Reference:** issues #870-874 split into #992-1007 on 2026-06-07 — that's the template.
 
 ## Guardrails
 

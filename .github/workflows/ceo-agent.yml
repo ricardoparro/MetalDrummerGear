@@ -3,8 +3,19 @@ name: CEO Agent
 on:
   workflow_dispatch:
   schedule:
-    # 3x/day UTC — ~08:00 / 14:00 / 20:00 Lisbon (winter)
-    - cron: '0 7,13,19 * * *'
+    # ⚠️ TZ NOTE: GitHub Actions cron is UTC only. These times are calibrated
+    # for **Lisbon SUMMER (BST/WEST, UTC+1)**. In late October, when Lisbon
+    # falls back to UTC+0, all times above shift by 1 hour and you must edit.
+    #
+    # Night window: Lisbon 00:00-06:59  →  hourly
+    #   summer UTC: 23,0,1,2,3,4,5,6     (8 runs)
+    #   winter UTC:    0,1,2,3,4,5,6     (7 runs — drop 23)
+    - cron: '0 23,0,1,2,3,4,5,6 * * *'
+
+    # Day window: Lisbon 08:00-23:59     →  every 3 hours
+    #   summer UTC: 7,10,13,16,19,22     (6 runs)
+    #   winter UTC: 8,11,14,17,20,23     (6 runs)
+    - cron: '0 7,10,13,16,19,22 * * *'
 
 permissions:
   contents: write

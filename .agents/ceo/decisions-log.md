@@ -2751,3 +2751,101 @@ A quiet, churn-free Saturday — exactly what the treadmill fix is meant to make
 4. Confirm #988 merged. If a Sunday verify-youtube batch lands before #986/#987 are both in, ship a cleanup branch — but the gate stays the real fix.
 
 *Última revisão: CEO Agent — 2026-06-06 evening (posted last-mile nudge on #987; #986/#988 await Ricardo; churn-free Saturday; GSC #910 still the #1-KPI blocker)*
+
+---
+
+## 2026-06-07 (Sunday) — Scheduled Run (Day 128, 07:00 deep run)
+
+### State at start (metrics refreshed 08:10 UTC)
+- **GA4 (7d):** 43 active users / 48 sessions / 71 views. **Organic Search = 67% of sessions (32/48)** — moat thesis holding; absolute volume still ~flat all week (40→43). Top pages: `/` (16), `/drummer/53` (5), `/drummer/2` (4), `/drummer/55` (4), **`/drummers/joey-jordison/licks/joey-jordison-eyeless-blast` (4)** — the signature-lick page is *still* a top-5 organic surface.
+- **GSC: STILL blind** (`GSC_SITE` missing) — #910 unmoved (last touched 06-05). #1 KPI unmeasurable. Escalated ×3; not re-spamming.
+- **Prod healthy:** metalforge.io 200; new per-drummer `/llms/drummers/joey-jordison.md` 200 (#873/#989 shipped); robots.txt 200.
+- **No verify-youtube churn in 2 days** (last batch 06-05) — first sign the `--strict` gate logic (#986, merged) + quieter main are working.
+- Founder inbox: **empty.** Open `seo-proposal`: **none.**
+
+### Verified the day's blockers — all founder-owned, all already escalated; no re-spam warranted
+1. **#986 (`--strict` gate logic):** **MERGED** (commit `7037af7`) — `--strict` is now on `main`. ✅ The substantive ~90% of the treadmill fix is live.
+2. **#987 (workflow wire-up + required check, `human-founder`):** untouched since the 06-06 evening last-mile nudge. Needs the `workflows` scope agents lack. **Held — already nudged once; daily re-pings = noise.**
+3. **#910 (GSC):** still blind. Unchanged. Held.
+4. **#909 (no auto-implementer for `ai-fix`):** re-read full thread. **Resolved into option B** — Actions *can* now open PRs (proven by #986 shipping as a real PR); CEO-ships-PR → Ricardo-merges is the working model. The auto-implementer (option A) remains a founder-owned upgrade, engaged-on, escalated ×3. **Held** — no new state change today; the impending SEO-Agent launch is contemplated by the existing thread.
+
+### 🔑 KEYSTONE — set the agenda for tomorrow's inaugural SEO Agent run (data-validated, on-protocol)
+The SEO Agent's first-ever cron is **tomorrow, Mon 2026-06-08 08:00 UTC** (confirmed: `.github/workflows/seo-agent.yml`, `cron: '0 8 * * 1'`, zero prior runs). Its workflow reads **`decisions-log.md` as input #4 = "CEO direction this week"** and explicitly checks *"Lick of the Day pages: which licks rank? Confirms the pattern is investable."* So the highest-leverage CEO move this deep run — instead of filing filler into the unconsumed `ai-fix` queue — is to **hand the SEO Agent a data-validated #1 priority** so its inaugural run ships a high-conviction batch, not a generic audit.
+
+**📌 CEO DIRECTION FOR SEO AGENT — Monday 2026-06-08 (priority order):**
+1. **🟠 TOP PRIORITY — `SEO batch: signature-lick pages, remaining ~57 drummers (~170 pages)`.** Evidence: `joey-jordison-eyeless-blast` is a **recurring top-5 GA4 organic page all week**, yet sitemap shows lick pages for **only 5/62 drummers** (Joey, Lars Ulrich, Dave Lombardo, George Kollias, Mario Duplantier; 15 total). The one pattern *proven to rank* is exploited on ~8% of the roster. Scale it: 3 licks/drummer, quality gate (≥300 words, FAQ ≥3 Q&A, ≥3 internal links, VideoObject/HowTo schema). Serves **both** KPIs (indexed-pages compound + AI-citation surface). Full analysis: `ceo-ideas.md` **[CEO-024]**.
+2. Then the standing programmatic queue already specced as `ai-fix`: **#872** (Quick Facts box ×62 — LLM citation), **#874** (internal-linking density), **#871** (`/gear/<brand>/<series>/drummers-using`), **#870** (`/technique/<x>/drummers`). The CEO already triaged these to `ai-fix`; the SEO Agent should fold them into its plan and sequence behind the lick batch.
+3. Flag in its run output if GSC is still blind (it is) — proposals are running on GA4-only signal until #910 lands.
+
+### Decisions this run
+- **No new `ai-fix`/`seo-proposal` issues filed — deliberate.** Founder inbox empty; zero `seo-proposal`; GSC-gap escalation blocked (#910); programmatic/LLM production is the SEO Agent's lane (#977), and it goes live in <24h. The original PROMPT's "≥3 programmatic + ≥1 LLM issue" deep-run quota is **superseded by the #977 CEO/SEO split** — the on-protocol equivalent is *direction-setting*, delivered above. Filing template issues into a queue with no auto-consumer (#909) the day before the SEO Agent launches = pure noise.
+- **The CEO-lane value this run was strategic, not mechanical:** identified a validated, under-exploited compound-SEO lever from the metrics (lick-page coverage gap), scored it (CEO-024), and routed it on-protocol to tomorrow's SEO run via input #4. This converts a 6th-straight "log and wait" run into agenda-setting.
+- **Did NOT** re-spam #909/#910/#987; **did NOT** self-merge anything (no open PRs; option-B model A-minus); **did NOT** pre-empt the SEO Agent by authoring its batch proposal (respects the split); **did NOT** touch the 4 dormant social blockers (#525/#526/#528/#529).
+
+### Portfolio read
+Week skewed short-term (video-churn fixes, now quiet) — the lick-batch direction is the deliberate **medium-term SEO-compound rebalance** flagged since 06-05. With the treadmill fix's logic merged (#986) and churn dropping, focus is correctly shifting from defense (broken videos) to offense (compounding ranking surfaces). Traffic flat at ~43/wk is the standing problem; doubling down on the one proven organic darling is the lowest-risk offense available while GSC is blind.
+
+### Next Run (13:00 mid-day pulse)
+1. Confirm this CEO-state PR merged.
+2. **#987** — if Ricardo wired the workflow + required check, run the #984 acceptance test (throwaway dead-ID PR must go red). If still cold, hold (nudged 06-06; no daily re-ping).
+3. **#910 GSC** — the instant it lands, `metrics.md` gains a query/CTR table → file the first real GSC-gap content escalations (CEO quota item dormant since launch for lack of data).
+4. If a Sunday verify-youtube batch lands, ship a cleanup branch as a real PR (option B) — gate wire-up (#987) stays the durable fix.
+
+*Última revisão: CEO Agent — 2026-06-07 deep run (verified #986 `--strict` gate MERGED + 2 churn-free days; set data-validated lick-page batch as SEO Agent's #1 priority for tomorrow's inaugural Mon cron via decisions-log input #4 — CEO-024; GSC #910 + gate wire-up #987 still the binding founder-owned constraints)*
+
+## 2026-06-07 (Sunday) — Scheduled Run (Day 128, 13:00 mid-day pulse)
+
+### State at start (metrics refreshed 13:31 UTC)
+- **GA4 (7d):** 43 active users / 48 sessions / 71 views — **unchanged from the 08:10 deep-run pull** (same 7d window). **Organic Search = 67% (32/48)**; moat thesis holding, volume flat all week. Top pages: `/` (16), `/drummer/53` (5), `/drummer/2` (4), `/drummer/55` (4), **Joey "Eyeless" lick page (4)** — signature-lick surface still top-5, reinforcing the CEO-024 lick-batch direction set this morning.
+- **GSC: STILL blind** (`GSC_SITE` missing) — #910 unmoved. #1 KPI unmeasurable. Escalated ×3; not re-spamming.
+- **Prod healthy:** metalforge.io 200; Joey "Eyeless" lick page 200.
+- **No verify-youtube churn batch** (3rd churn-quiet day; last broken-video batch 06-05) — `--strict` gate logic (#986, merged) holding.
+- Founder inbox: **empty.** Open `seo-proposal`: **none.**
+
+### Ran the mid-day checklist — everything awaiting Ricardo, nothing to unblock
+1. **PR #990 (today's CEO-state):** OPEN, **MERGEABLE** — not merged. Awaiting Ricardo (model A-minus; no unattended self-merge). Mid-day entry appended here so the full Sunday lands in one merge.
+2. **#987 (gate wire-up + required check, `human-founder`):** untouched since the 06-06 evening last-mile nudge (1 comment = that nudge, no founder reply). **Held — already nudged once; daily re-pings = noise.** This stays the single highest-leverage open task (converts the dead-video treadmill into a one-time fix).
+3. **#910 (GSC):** still blind. Held.
+4. **No Sunday churn batch** to clean up (checked: zero open broken-video issues). No cleanup PR needed.
+
+### Decisions this run
+- **No new issues filed — deliberate, consistent stance.** Empty founder inbox, zero `seo-proposal`, GSC-gap escalation blocked (#910), programmatic/LLM production is the SEO Agent's lane and it goes live **tomorrow 08:00 UTC** (CEO-024 direction already handed off via this morning's deep-run entry = decisions-log input #4). Filing filler into the unconsumed `ai-fix` queue hours before the SEO Agent launches = pure noise.
+- **Did NOT** re-spam #909/#910/#987; **did NOT** self-merge #990; **did NOT** touch the 4 dormant social blockers (#525/#526/#528/#529).
+
+### Next Run (19:00 evening)
+1. Confirm PR #990 merged.
+2. **#987** — if Ricardo wired it, run the #984 acceptance test (throwaway dead-ID PR must go red). If still cold, hold (no daily re-ping).
+3. **#910 GSC** — the instant it lands, file the first real GSC-gap content escalations.
+4. **SEO Agent T-minus ~17h** — inaugural cron Mon 2026-06-08 08:00 UTC; the CEO-024 lick-batch priority is already in the log for it to read. Evening job: confirm nothing regressed before its first run.
+
+*Última revisão: CEO Agent — 2026-06-07 mid-day pulse (3rd churn-quiet day; all material work parked on founder-owned #987 + #910; CEO-024 lick-batch direction already handed to tomorrow's inaugural SEO Agent run; no new issues — correct no-noise output before the SEO Agent goes live)*
+
+## 2026-06-07 (Sunday) — Scheduled Run (Day 128, 19:00 evening review)
+
+### State at start (metrics refreshed 19:30 UTC)
+- **GA4 (7d):** 44 active users / 49 sessions / 72 views. **Organic Search = 67% (33/49)** — moat thesis holding; absolute volume essentially flat all week (43→44 users). Top pages: `/` (16), **`/drummer/53` (5)**, `/drummer/2` (4), `/drummer/55` (4), **Joey "Eyeless" lick page (4)** — signature-lick surface still top-5 all day, the data point underwriting the CEO-024 lick-batch direction.
+- **GSC: STILL blind** (`GSC_SITE` missing) — #910 unmoved. #1 KPI unmeasurable. Escalated ×3; not re-spamming.
+- **Prod healthy:** metalforge.io 200; Joey "Eyeless" lick 200; **`/llms/drummers/joey-jordison.md` 200** (the per-drummer LLM endpoint from #873/#989, merged to main as `f8915dc`); robots.txt 200.
+- **No verify-youtube churn batch all Sunday** — **3rd churn-free day**; `--strict` gate logic (#986, merged 06-06) holding even before the workflow wire-up (#987) lands.
+- Founder inbox: **empty.** Open `seo-proposal`: **none.**
+
+### Ran the mid-day evening checklist — everything parked on founder gates, nothing to unblock
+1. **PR #990 (today's CEO-state):** OPEN, **MERGEABLE** — not merged. Appending this evening entry here so the full Sunday (deep + mid-day + evening) lands in **one** merge for Ricardo. No unattended self-merge (model A-minus).
+2. **#987 (gate wire-up + required check, `human-founder`):** still untouched since the 06-06 evening last-mile nudge. **Held** — already nudged once; a 3rd-day re-ping adds no signal and the log is the audit trail. Remains the single highest-leverage open task (turns the dead-video treadmill into a one-time fix); needs the `workflows` scope agents lack.
+3. **#910 (GSC):** still blind. Held.
+4. **Nothing regressed before tomorrow's SEO Agent launch** — confirmed: per-drummer `/llms/drummers/*.md` live (200), no churn batch, all founder-owned items stable.
+
+### Decisions this run
+- **No new issues filed — deliberate, on-protocol.** Empty founder inbox, zero `seo-proposal`, GSC-gap escalation blocked (#910), and programmatic/LLM production is the **SEO Agent's** lane — its **inaugural cron is ~12.5h out (Mon 2026-06-08 08:00 UTC)** with the **CEO-024 lick-page batch** already handed off via this morning's deep-run entry (decisions-log input #4). Filing filler `ai-fix` into the unconsumed queue the night before the SEO Agent goes live = pure noise. The evening job — review shipped / verify prod / log / confirm handoff — is the correct output.
+- **Did NOT** re-spam #909/#910/#987; **did NOT** self-merge #990; **did NOT** touch the 4 dormant social blockers (#525/#526/#528/#529).
+
+### Sunday read
+A second consecutive quiet, churn-free day — the steady state the treadmill fix is meant to produce, now visibly holding (#986 logic merged; even pre-wire-up, no fabricated IDs landed). The `/llms/drummers/*.md` LLM-citation surface shipped (#873/#989) is a concrete medium-term moat win this weekend. Everything material is now parked on two crisp, agent-impossible founder tasks — **#987** (last mile of the YouTube CI gate) and **#910** (GSC, the #1-KPI unblock) — and on tomorrow's SEO Agent launch, which inherits a data-validated priority. No engineering lever left to pull tonight.
+
+### Next Run (Monday 07:00 deep run)
+1. **Confirm PR #990 merged** (full-Sunday CEO state). If a Monday verify-youtube batch lands first, the gate still holds the line; cleanup only if an umbrella appears.
+2. **SEO Agent — first cron fires 08:00 UTC (within ~1h of the deep run).** Prep to triage its inaugural `seo-proposal` batch Monday/Tuesday: approve (→ `ai-fix`) or reject, and confirm it picked up the CEO-024 lick-batch direction.
+3. **#987** — if Ricardo wired it over the weekend, run the #984 acceptance test (throwaway dead-ID PR must go red → confirms the treadmill is closed at the source). If still cold, hold.
+4. **#910 GSC** — the instant it lands, `metrics.md` gains a query/CTR table → file the first real GSC-gap content escalations (the CEO quota item dormant since launch for lack of data).
+
+*Última revisão: CEO Agent — 2026-06-07 evening (2nd churn-free day; `/llms/drummers/*.md` LLM surface live; all material work parked on founder-owned #987 + #910 + tomorrow's inaugural SEO Agent run carrying CEO-024; no new issues — correct no-noise pre-launch output)*

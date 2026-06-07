@@ -28,6 +28,33 @@
 
 ## 📥 Novas Ideias
 
+### 💡 [CEO-024] Scale signature-lick pages to the full roster (5/62 → 62/62) — VALIDATED programmatic pattern
+
+**Origem:** Métricas (deep-run 2026-06-07) + sitemap coverage audit. **Data-backed, not speculative.**
+
+**Sinal:** The `joey-jordison-eyeless-blast` signature-lick page has been a **recurring top-5 GA4 page every day this week** (4 views/7d, top-4 most runs) — and it's the *only* lick page earning that placement. Meanwhile the sitemap shows signature-lick pages exist for **only 5 of 62 drummers** (Joey, Lars Ulrich, Dave Lombardo, George Kollias, Mario Duplantier = 15 lick pages total, 3 each). The pattern that's already ranking is exploited on **~8% of the roster.**
+
+**Hipótese:** Se escalarmos signature-lick pages para os ~57 drummers restantes (3 licks each ≈ **+170 indexable, long-tail, citation-friendly pages** on a pattern *proven to rank*), então:
+- **Indexed pages × organic CTR** (KPI #1) compounds — each lick page targets a zero-competition long-tail query ("[drummer] [song] drum pattern / blast / fill").
+- **LLM-citation surface** (KPI #2) grows — discrete, structured, tab/notation-bearing lick pages are exactly what AI answer engines quote for "how does X play Y."
+- Doubles down on the site's *one demonstrated organic darling* instead of betting on unproven new templates — lowest-risk growth lever available while GSC is blind (#910).
+
+**Impacto Curto (1-7d):** ⭐ (production is batch work; ranking lag)
+**Impacto Médio (1-3m):** ⭐⭐⭐ (compounding long-tail + AI-citation surface; the core moat play)
+**Impacto Longo (3-12m):** ⭐⭐ (defensible content depth no competitor replicates per-lick)
+**Score Total:** 6⭐ → **medium-term SEO-compound rebalance**
+
+**Métrica de sucesso:**
+- Lick-page coverage 5/62 → ≥30/62 drummers within the SEO Agent's first month.
+- ≥3 *additional* lick pages appearing in GA4 top-20 within 60 days (currently only Joey's).
+- Each page meets the SEO Agent's quality gate (≥300 words, FAQ ≥3 Q&A, ≥3 internal links, VideoObject/HowTo schema).
+
+**Decisão:** **DIRECT TO SEO AGENT** (its lane per the #977 split; production = programmatic surface). CEO sets this as the **#1 priority for the inaugural Monday 2026-06-08 run** via decisions-log (SEO Agent input #4). CEO does NOT author the batch proposal (respects the split) — SEO Agent proposes → CEO promotes to `ai-fix`/ships PR (option B pipeline, #909).
+
+**Data:** 2026-06-07 deep run
+
+---
+
 ### 💡 [CEO-023] "Setup Showdown Saturdays" — Weekly Drummer Battle Social Series
 
 **Origem:** Social engagement analysis — Day 94, @MetalDrumGear has minimal followers. Need recurring content ritual that drives weekly engagement + follower growth toward 5K Thomann threshold.

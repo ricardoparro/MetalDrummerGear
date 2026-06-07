@@ -5732,6 +5732,137 @@ function DrummerComparisonsCTA({ drummerSlug, drummerName, allDrummers, theme })
   );
 }
 
+/**
+ * Build the ordered list of Quick Facts rows for a drummer (Issue #872).
+ * Only includes facts that are present in the data — never fabricates a row.
+ * LLMs (ChatGPT, Perplexity, Gemini) preferentially extract structured facts,
+ * so this compact table maximises the chance of being cited.
+ * @param {object} drummer - Drummer record from api/drummers
+ * @returns {Array<{label: string, value: string, itemProp?: string}>}
+ */
+function buildQuickFacts(drummer) {
+  const rows = [];
+  if (drummer.band) rows.push({ label: 'Band', value: drummer.band });
+  if (drummer.genre) rows.push({ label: 'Genre', value: drummer.genre });
+  if (drummer.country) rows.push({ label: 'Nationality', value: drummer.country, itemProp: 'nationality' });
+
+  // "Active since" — first 4-digit year from the primary band's active period
+  // e.g. "1981–present" → 1981, "1984–1992, 2013–present" → 1984
+  const period = drummer.bands && drummer.bands[0] && drummer.bands[0].period;
+  const sinceMatch = period && period.match(/\d{4}/);
+  if (sinceMatch) rows.push({ label: 'Active since', value: sinceMatch[0] });
+
+  // Primary brand — derived from the drums line (e.g. "Tama Starclassic Maple" → "Tama")
+  const primaryBrand =
+    (extractPrimaryProduct(drummer.gear && drummer.gear.drums) || '').split(' ')[0] ||
+    (drummer.endorsements && drummer.endorsements[0] && drummer.endorsements[0].name.split(' ')[0]);
+  if (primaryBrand) rows.push({ label: 'Primary brand', value: primaryBrand });
+
+  if (drummer.gear && drummer.gear.snare) {
+    const snareLabel = /signature/i.test(drummer.gear.snare) ? 'Signature snare' : 'Snare';
+    rows.push({ label: snareLabel, value: drummer.gear.snare });
+  }
+  if (drummer.gear && drummer.gear.sticks) {
+    const sticksLabel = /signature/i.test(drummer.gear.sticks) ? 'Signature sticks' : 'Sticks';
+    rows.push({ label: sticksLabel, value: drummer.gear.sticks });
+  }
+
+  const kitCost = calculateKitCost(drummer.gear);
+  if (kitCost && kitCost.totalEur > 0) {
+    rows.push({ label: 'Estimated kit value', value: formatPrice(kitCost.totalEur, 'EUR') });
+  }
+
+  return rows;
+}
+
+/**
+ * DrummerQuickFacts — citation-friendly "Quick Facts" box (Issue #872).
+ * On web, renders a real semantic <table> with schema.org Person microdata
+ * (itemScope/itemProp) so LLMs and Google Featured Snippets can extract facts.
+ * On native, falls back to a View-based two-column layout.
+ */
+function DrummerQuickFacts({ drummer, theme, isMobile }) {
+  const rows = buildQuickFacts(drummer);
+  if (rows.length === 0) return null;
+
+  if (Platform.OS === 'web') {
+    const cellPad = isMobile ? '6px 8px' : '8px 12px';
+    const fontSize = isMobile ? 13 : 15;
+    return (
+      <div
+        itemScope
+        itemType="https://schema.org/Person"
+        data-testid="quick-facts"
+        style={{
+          backgroundColor: theme.card,
+          border: `1px solid ${theme.border}`,
+          borderRadius: 12,
+          padding: isMobile ? 12 : 16,
+          marginBottom: 16,
+          overflow: 'hidden',
+        }}
+      >
+        <meta itemProp="name" content={drummer.name} />
+        <meta itemProp="jobTitle" content="Professional Drummer" />
+        <h2
+          style={{
+            color: theme.text,
+            fontSize: isMobile ? 16 : 18,
+            fontWeight: 700,
+            margin: 0,
+            marginBottom: 10,
+          }}
+        >
+          Quick Facts: {drummer.name}
+        </h2>
+        <table style={{ width: '100%', borderCollapse: 'collapse', fontSize }}>
+          <tbody>
+            {rows.map((row, i) => (
+              <tr key={row.label} style={{ borderTop: i === 0 ? 'none' : `1px solid ${theme.border}` }}>
+                <th
+                  scope="row"
+                  style={{
+                    textAlign: 'left',
+                    fontWeight: 600,
+                    color: theme.secondaryText,
+                    padding: cellPad,
+                    verticalAlign: 'top',
+                    width: isMobile ? '42%' : '32%',
+                    whiteSpace: 'nowrap',
+                  }}
+                >
+                  {row.label}
+                </th>
+                <td
+                  {...(row.itemProp ? { itemProp: row.itemProp } : {})}
+                  style={{ color: theme.text, padding: cellPad, verticalAlign: 'top' }}
+                >
+                  {row.value}
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    );
+  }
+
+  // Native fallback — no semantic <table> available, use a View-based layout
+  return (
+    <View style={[styles.quickFactsCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
+      <Text style={[styles.quickFactsTitle, { color: theme.text }]} accessibilityRole="header">
+        Quick Facts: {drummer.name}
+      </Text>
+      {rows.map((row) => (
+        <View key={row.label} style={[styles.quickFactsRow, { borderTopColor: theme.border }]}>
+          <Text style={[styles.quickFactsLabel, { color: theme.secondaryText }]}>{row.label}</Text>
+          <Text style={[styles.quickFactsValue, { color: theme.text }]}>{row.value}</Text>
+        </View>
+      ))}
+    </View>
+  );
+}
+
 function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit, allDrummers = [], onNavigateToBio, onNavigateToEvolution }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
@@ -5782,6 +5913,9 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
         >
           <Text style={[styles.backButtonText, { color: theme.text }]}>Back to List</Text>
         </TouchableOpacity>
+
+        {/* Quick Facts box — citation-friendly structured data, first text content (Issue #872) */}
+        <DrummerQuickFacts drummer={drummer} theme={theme} isMobile={isMobile} />
 
         <View style={styles.detailHeader}>
           <ImageWithFallback
@@ -27214,6 +27348,31 @@ const styles = StyleSheet.create({
     borderRadius: spacing[3],      // 12px
     borderWidth: 1,
     marginBottom: spacing[4],      // 16px
+  },
+  // Quick Facts box — native fallback styles (Issue #872)
+  quickFactsCard: {
+    borderRadius: spacing[3],      // 12px
+    borderWidth: 1,
+    padding: spacing[4],           // 16px
+    marginBottom: spacing[4],      // 16px
+  },
+  quickFactsTitle: {
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.bold,
+    marginBottom: spacing[2],      // 8px
+  },
+  quickFactsRow: {
+    flexDirection: 'row',
+    paddingVertical: spacing[2],   // 8px
+    borderTopWidth: 1,
+  },
+  quickFactsLabel: {
+    flex: 4,
+    fontWeight: fontWeight.semibold,
+    paddingRight: spacing[2],
+  },
+  quickFactsValue: {
+    flex: 6,
   },
   // Last Updated Timestamp styles (Issue #449)
   lastUpdatedContainer: {

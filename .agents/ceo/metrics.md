@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-08 01:48 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-07 23:24 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,16 +8,16 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 41 |
-| Sessions | 47 |
-| Page views | 70 |
-| Engagement rate | 61.70% |
-| Avg session (s) | 63 |
+| Active users | 44 |
+| Sessions | 50 |
+| Page views | 75 |
+| Engagement rate | 64.00% |
+| Avg session (s) | 68 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 18 | 10 |
+| / | 17 | 10 |
 | /drummer/53 | 5 | 5 |
 | /drummer/55 | 4 | 4 |
 | /drummers/joey-jordison/licks/joey-jordison-eyeless-blast | 4 | 2 |
@@ -31,7 +31,7 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 30 | 28 |
+| Organic Search | 33 | 31 |
 | Direct | 16 | 12 |
 | Unassigned | 4 | 4 |
 

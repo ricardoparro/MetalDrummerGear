@@ -19,10 +19,10 @@
 | --- | --- | --- |
 | / | 17 | 10 |
 | /drummer/53 | 5 | 5 |
-| /drummer/2 | 4 | 4 |
 | /drummer/55 | 4 | 4 |
 | /drummers/joey-jordison/licks/joey-jordison-eyeless-blast | 4 | 2 |
 | /quiz | 4 | 2 |
+| /drummer/2 | 3 | 3 |
 | /drummer/32 | 3 | 2 |
 | /articles/whats-in-mike-portnoys-kit | 2 | 1 |
 | /articles/white-pony-drum-setup | 2 | 2 |

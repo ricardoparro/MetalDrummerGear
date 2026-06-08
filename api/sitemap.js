@@ -6,6 +6,10 @@
 // Issue #785: Import albumArticles dynamically from data source
 
 import { ALBUM_ARTICLES } from '../packages/frontend/data/albumArticles.js';
+// Issue #994 (split 3/3 of #870): source technique slugs for the new
+// /technique/<slug>/drummers pages directly from the data module so the
+// sitemap stays in sync as techniques are added.
+import { getAllTechniqueSlugs } from '../packages/frontend/data/techniques.js';
 
 // Issue #623: Content Scale Sprint - All 62 drummers now in sitemap
 const drummers = [
@@ -334,6 +338,9 @@ export default function handler(req, res) {
     ...gearItems.map(g => ({ loc: `/gear/item/${g.slug}`, priority: '0.7', changefreq: 'monthly' })),
     ...bandPages.map(b => ({ loc: `/band/${b.slug}`, priority: '0.8', changefreq: 'monthly' })),
     ...techniques.map(t => ({ loc: `/techniques/${t.slug}`, priority: '0.8', changefreq: 'monthly' })),
+    // Issue #870, #994: Technique → drummers SEO pages (/technique/<slug>/drummers)
+    // Same priority/changefreq pattern as drummer pages.
+    ...getAllTechniqueSlugs().map(slug => ({ loc: `/technique/${slug}/drummers`, priority: '0.8', changefreq: 'monthly' })),
     // Issue #656: Gear brand landing pages
     { loc: '/brands', priority: '0.9', changefreq: 'weekly' },
     ...gearBrands.map(b => ({ loc: `/brands/${b.slug}`, priority: '0.8', changefreq: 'monthly' })),

@@ -2891,3 +2891,45 @@ Each closed `not_planned` with an evidence-linked comment. **Net effect: prevent
 4. **#910 GSC** — the instant it lands, file the first real GSC-gap content escalations.
 
 *Última revisão: CEO Agent — 2026-06-07 overnight (closed 5 duplicate splits #999/#1000/#1002/#1003/#1004 — already shipped by #991/#989; kept 11 verified-genuine; backfilled the unlogged atomic-split audit trail; flagged the pre-split shipped-check gap; #872/#873 marked shipped for tomorrow's SEO Agent)*
+
+---
+
+## 2026-06-08 (Monday) — Overnight Run (Day 129, 00:45 UTC)
+
+### State at start (metrics refreshed 00:45 UTC)
+- **GA4 (7d):** 41 active users / 47 sessions / 70 views. **Organic Search = 64% (30/47)** — moat thesis holding; absolute volume still flat (~41–44 all week). Top pages: `/` (18), `/drummer/53` Garstka (5), `/drummer/55` Raatikainen (4), **`/drummers/joey-jordison/licks/joey-jordison-eyeless-blast` (4)** — the signature-lick page is *still* a top-5 organic surface, 5th straight day.
+- **GSC: STILL blind** (`GSC_SITE` missing) — #910 unmoved. #1 KPI unmeasurable. Held (escalated ×3, no re-spam).
+- Pipeline **confirmed consuming**: 1 feature PR/day merging (#991 Quick Facts, #989 llms/*.md, #986 gate, #983 setup guide…). #909 "no consumer" is **stale** — option-B (Actions opens PR → Ricardo merges) is the live model.
+- Founder inbox: **empty.**
+
+### 🎯 PRIMARY ACTION — triaged the inaugural SEO Agent proposal (#1008)
+The SEO Agent's first-ever proposal landed (filed 2026-06-07 23:29). **It correctly picked up CEO-024** — `SEO batch: Signature Licks Phase 2`, 10 GA4-darling drummers × 3 licks (~40 pages), the exact data-validated lever I handed it via decisions-log input #4 on Sunday. It did **not** re-propose the shipped #872/#873 work. The handoff worked.
+
+**Decision: APPROVED in direction, SPLIT for atomicity.** ~40 pages + a schema add is **not atomic** — the Watcher skips large issues, so promoting #1008 verbatim to `ai-fix` would stall it in the queue (the exact failure the atomic-split rule exists to prevent). Verified the proposal's claims first (15 licks/5 drummers today; **zero JSON-LD** on lick pages — `grep -c HowTo SignatureLicks.js` = 0; sitemap arrays present). Split into **5 shippable `ai-fix` issues**, closed #1008 `not_planned` linking them:
+
+| # | Scope | Why this order |
+|---|---|---|
+| **#1010** | HowTo + VideoObject JSON-LD on lick pages | **Independent** — closes the schema gap on all **15 existing** pages immediately. Ship first. |
+| **#1011** | GA4-darlings A: Garstka(53) + Raatikainen(55), 6 licks | Proven-organic profiles, no lick pages yet |
+| **#1012** | GA4-darlings B: Greiner(32) + Koller(34), 6 licks | Proven-organic profiles |
+| **#1013** | Marquee A: Carey + Hoglan + Haake, 9 licks | High independent search volume |
+| **#1014** | Marquee B: Dailor + Portnoy + Casagrande, 9 licks | High search volume / Casagrande trending |
+
+Per-lick quality gates preserved on each (≥300 words, ≥4 ordered steps → HowTo, ≥3 internal links, **live** YouTube IDs via `verify-youtube-ids --strict`, ref #984). Each data batch is self-contained (own drummers + own sitemap append + own hubs) so it ships as one PR. Follows the #870/#871/#874 → #992-1007 split template.
+
+### Other checklist items — all held, on-protocol
+- **Atomic-split sweep:** no `ai-fix` issue is open >3 days (#984 is 2 days; #992-1007 are yesterday's fresh splits). Nothing to sweep beyond #1008, now done.
+- **PR #1009** (overnight dup-cleanup, closed 5 dup splits): OPEN/awaiting Ricardo. **Stacked this 06-08 entry onto its branch** so both overnight runs land in one merge. No self-merge (model A-minus).
+- **#987** (YouTube gate wire-up, `human-founder`) + **#910** (GSC): held — already escalated, daily re-pings = noise.
+- **Did NOT** re-spam #909/#910/#987; **did NOT** self-merge; **did NOT** touch the 4 dormant social blockers (#525/#526/#528/#529).
+
+### Portfolio read
+This is the deliberate medium-term SEO-compound rebalance executing: the one surface *proven* to rank (lick pages, top-5 for 5 straight days) goes from 8% roster coverage toward ~24%, with the LLM-citation schema gap (#1010) closing on day one. Defense (video churn) is quiet; offense (compounding ranking surfaces) is now the active front. Traffic flat at ~41/wk remains the standing problem — doubling the proven darling is the lowest-risk lever while GSC is blind.
+
+### Next Run (07:00 deep run)
+1. **Confirm splits moving** — has Ralph/Watcher opened a PR on #1010 (the atomic, independent schema win)? If #1010 ships, the JSON-LD gap closes on all existing lick pages.
+2. **Confirm PR #1009 (+ this entry) merged.**
+3. **#910 GSC** — the instant it lands, file the first real GSC-gap content escalations (dormant quota since launch).
+4. **#987** — if Ricardo wired the gate, run the #984 acceptance test (dead-ID PR must go red); else hold.
+
+*Última revisão: CEO Agent — 2026-06-08 overnight (triaged the inaugural SEO Agent proposal #1008 = CEO-024 lick batch; APPROVED-and-split into 5 atomic `ai-fix` issues #1010-1014, schema-first; handoff validated; GSC #910 + gate #987 still the binding founder-owned constraints)*

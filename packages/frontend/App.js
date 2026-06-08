@@ -460,6 +460,8 @@ const LazyLicksHubPage = lazy(() => import('./components/SignatureLicks').then(m
 const LazyLickDetailPage = lazy(() => import('./components/SignatureLicks').then(m => ({ default: m.LickDetailPage })));
 const LazyLickOfTheDayWidget = lazy(() => import('./components/SignatureLicks').then(m => ({ default: m.LickOfTheDayWidget })));
 const LazyEndorsementNewsWidget = lazy(() => import('./components/EndorsementTracker').then(m => ({ default: m.EndorsementNewsWidget })));
+// Technique Drummers landing pages (Issue #992, split 1/3 of #870) - /technique/<slug>/drummers
+const LazyTechniqueDrummersPage = lazy(() => import('./components/TechniqueDrummersPage').then(m => ({ default: m.TechniqueDrummersPage })));
 let _signatureLicksModule = null;
 let _signatureLicksLoadPromise = null;
 const loadSignatureLicks = () => import('./components/SignatureLicks');
@@ -19383,6 +19385,18 @@ function updateTechniqueURL(slug) {
   window.history.pushState({}, '', newPath);
 }
 
+// Technique Drummers landing page (Issue #992) - /technique/<slug>/drummers
+// Singular "technique" + /drummers suffix; distinct from /techniques/<slug> above.
+function isTechniqueDrummersPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  return /^\/technique\/[a-z0-9-]+\/drummers\/?$/i.test(window.location.pathname);
+}
+function getTechniqueDrummersSlugFromURL() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(/^\/technique\/([a-z0-9-]+)\/drummers\/?$/i);
+  return match ? match[1] : null;
+}
+
 // Update meta tags for technique pages
 function updateTechniqueMeta(technique) {
   // Issue #672: Use centralized OG utility for consistent meta tags
@@ -22118,6 +22132,9 @@ function AppContent() {
   const [showTechniqueDetail, setShowTechniqueDetail] = useState(() => isTechniqueDetailPage());
   const [techniqueSlug, setTechniqueSlug] = useState(() => getTechniqueSlugFromURL());
   const [showTechniquesIndex, setShowTechniquesIndex] = useState(() => isTechniquesIndexPage());
+  // Technique Drummers landing page state (Issue #992) - /technique/<slug>/drummers
+  const [showTechniqueDrummers, setShowTechniqueDrummers] = useState(() => isTechniqueDrummersPage());
+  const [techniqueDrummersSlug, setTechniqueDrummersSlug] = useState(() => getTechniqueDrummersSlugFromURL());
 
   // Drummer vs Drummer Page state (Issue #558)
   const [showDrummerVsIndex, setShowDrummerVsIndex] = useState(() => isDrummerComparisonsIndexPage());
@@ -23112,12 +23129,44 @@ function AppContent() {
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
+      } else if (isTechniqueDrummersPage()) {
+        // Technique Drummers landing page (Issue #992) - /technique/<slug>/drummers
+        const tdSlug = getTechniqueDrummersSlugFromURL();
+        setShowTechniqueDrummers(true);
+        setTechniqueDrummersSlug(tdSlug);
+        setShowTechniqueDetail(false);
+        setTechniqueSlug(null);
+        setShowTechniquesIndex(false);
+        setShowGearComparisonsIndex(false);
+        setShowGearComparison(false);
+        setGearComparisonSlug(null);
+        setShowGenresList(false);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowKitBuilder(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowList(false);
+        setListSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
       } else if (isTechniqueDetailPage()) {
         // Technique detail page (Issue #344)
         preloadTechniques(); // Preload techniques module (TBT optimization #460)
         const slug = getTechniqueSlugFromURL();
         setShowTechniqueDetail(true);
         setTechniqueSlug(slug);
+        setShowTechniqueDrummers(false);
+        setTechniqueDrummersSlug(null);
         setShowTechniquesIndex(false);
         setShowGearComparisonsIndex(false);
         setShowGearComparison(false);
@@ -23152,6 +23201,8 @@ function AppContent() {
         setShowTechniquesIndex(true);
         setShowTechniqueDetail(false);
         setTechniqueSlug(null);
+        setShowTechniqueDrummers(false);
+        setTechniqueDrummersSlug(null);
         setShowGearComparisonsIndex(false);
         setShowGearComparison(false);
         setGearComparisonSlug(null);
@@ -26902,6 +26953,20 @@ setShowList(false);
           onBack={handleBackFromGearComparison}
           onSelectComparison={handleNavigateToGearComparison}
         />
+      );
+    }
+    // Technique Drummers Landing Page (Issue #992) - /technique/<slug>/drummers
+    // Live URL guard prevents a stale flag from shadowing other pages after SPA nav.
+    if (showTechniqueDrummers && isTechniqueDrummersPage()) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyTechniqueDrummersPage
+            slug={techniqueDrummersSlug || getTechniqueDrummersSlugFromURL()}
+            onBack={handleBackFromTechnique}
+            onSelectDrummer={(slug) => handleSelectDrummer(slug)}
+            onSelectTechnique={handleNavigateToTechnique}
+          />
+        </Suspense>
       );
     }
     // Technique Detail Page (Issue #344)

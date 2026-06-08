@@ -2849,3 +2849,25 @@ A second consecutive quiet, churn-free day — the steady state the treadmill fi
 4. **#910 GSC** — the instant it lands, `metrics.md` gains a query/CTR table → file the first real GSC-gap content escalations (the CEO quota item dormant since launch for lack of data).
 
 *Última revisão: CEO Agent — 2026-06-07 evening (2nd churn-free day; `/llms/drummers/*.md` LLM surface live; all material work parked on founder-owned #987 + #910 + tomorrow's inaugural SEO Agent run carrying CEO-024; no new issues — correct no-noise pre-launch output)*
+
+## 2026-06-08 (Monday) — Scheduled Run (Day 129, ~01:48 overnight pulse)
+
+### State at start (metrics refreshed 01:48 UTC)
+- **GA4 (7d):** 41 active users / 47 sessions / 70 views. **Organic Search = 64% (30/47)** — moat thesis holding, volume flat (steady ~41-44 users/week all month). Top pages: `/` (18), **`/drummer/53` (5)**, `/drummer/55` (4), **Joey "Eyeless" lick page (4)**, `/quiz` (4). The numeric `/drummer/53` + `/drummer/55` landings are the live data behind today's canonical approval (see below).
+- **GSC: STILL blind** (`GSC_SITE` missing) — #910 unmoved. #1 KPI unmeasurable. Escalated ×3; not re-spamming.
+- Founder inbox: **empty.** Open `seo-proposal`: **#1015 (triaged this run).**
+- **`ai-fix` queue: 17 atomic issues** — all #870-874 + #1008 splits, every one one-PR-sized. Pipeline deep and on-strategy; Ralph has not drained it.
+
+### Decisions this run
+- **✅ APPROVED #1015 → `ai-fix`** (self-referencing canonical on `/drummer` profiles, fixing the numeric+slug duplicate-URL split). **The single highest-leverage technical SEO fix currently available**, and the GA4 data corroborates it directly: organic traffic is landing on the **numeric** profile form (`/drummer/53`, `/drummer/55`) while the sitemap promotes slugs — exactly the split-signal problem it consolidates, across all 61 profiles (our top organic content type). Already atomic (single-file `App.js` change, 5 crisp verify steps) → no split needed; handed straight to Ralph. This is the SEO Agent's lane producing exactly what the CEO exists to triage — first substantive triage since it went live.
+- **#984 (YouTube gate) — confirmed parked correctly, no action.** Agent work is **done**: `--strict` logic merged in PR #986 (06-06). The only remainder — `pull_request` CI job + required-status-check — needs `workflows` token scope agents lack, filed as **#987 (`human-founder`, OPEN, waiting on Ricardo)**. #984 has a merged PR + explanatory comment → does **not** trigger the atomic-split rule. No re-ping (already nudged 06-06).
+- **No new issues filed beyond the approval — deliberate.** 17 undrained atomic `ai-fix` issues already queued; manufacturing more overnight (an hourly off-cycle pulse, not the 07:00 deep run) dilutes Ralph's focus and risks dup work. Strategic-quota philosophy: triage quality, not raw issue count.
+- **Did NOT** re-spam #910/#987; **did NOT** touch the 4 dormant social blockers.
+
+### Next Run (07:00 deep run)
+1. **Triage any new SEO Agent `seo-proposal`** from its 08:00 cron window — approve (→ `ai-fix`) or reject.
+2. **Watch Ralph on #1015** — highest-value fix in the queue; confirm a PR opens and the 5 verify steps pass (numeric form must canonicalize to slug).
+3. **#987** — if Ricardo wired it, run the #984 acceptance test (throwaway dead-ID PR must go red). If cold, hold.
+4. **#910 GSC** — the instant it lands, file the first real GSC-gap content escalations.
+
+*Última revisão: CEO Agent — 2026-06-08 overnight pulse (approved #1015 canonical fix — GA4-corroborated highest-leverage technical SEO fix; #984 confirmed parked on founder-owned #987; queue deep + atomic, no filler filed; GSC #910 still the binding #1-KPI constraint)*

@@ -77,6 +77,11 @@
 - 21 drummers currently with bios, gear, videos, endorsements
 
 ## Recent Progress
+- **2026-06-08:** 🔍 **Inaugural SEO Agent cron run** (Mondays 08:00 UTC). Audit + 1 net-new proposal.
+  - **Audit:** robots.txt allows all 8 AI crawlers ✅. Quick Facts box live on drummer pages (#872 merged, commit `fbf985e`; mobile tweaks pending #1001). LLM markdown surface: `index.md` + **61/61 drummer `.md`** + `llms-full.txt` all live. GSC still **blind** (`GSC_SITE` missing, #910) — proposals run on GA4-only signal. Live Lighthouse not run (no Chrome/egress in cron sandbox); SEO fundamentals verified statically (title/meta/canonical/schema all present in code).
+  - **Found the standard programmatic queue already saturated:** overnight CEO atomic-split filed + promoted the whole on-strategy batch — CEO-024 signature licks (#1008→#1010–1014), internal-linking #874 (#1005–1007), technique #870 (#992–994), gear/series #871 (#995–998), Quick Facts mobile #872 (#1001), canonical #1015. Did **not** duplicate any of it (anti-noise principle).
+  - **Filed #1017** (`seo-proposal`, net-new, 🟡 LLM-citation): complete the `#873` LLM markdown surface — add `/llms/faq.md` + `/llms/gear-guide.md`, put `/llms/*.md` in the XML sitemap, refresh stale `llms.txt` (Feb-4, undercounts the surface). Only SEO lane the saturated `ai-fix` queue doesn't touch.
+  - **Deferred (deliberately):** Signature-Lick **Phase 3** (remaining ~47 drummers) — holding until Phase 2 (#1010–1014) lands, to avoid over-filing an unconsumed queue (#909: no autonomous implementer; Ricardo merges).
 - **2026-03-25:** SEO audit — Created #777 (Article schema for content) and #778 (WebApplication schema for tools)
 - **2026-02-21:** SEO audit — MusicGroup complete (#517), Phases 1-5a done. Remaining items blocked on features.
 - **2026-02-16:** Core Web Vitals optimization (#442) — YouTube facade, image preloading, CLS/INP improvements
@@ -87,4 +92,4 @@
 - **2026-02-01:** FAQPage (#36) and ItemList (#37) completed
 
 ---
-*Last updated: 2026-03-25 by SEO Agent*
+*Last updated: 2026-06-08 by SEO Agent (inaugural cron run)*

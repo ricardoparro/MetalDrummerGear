@@ -26,9 +26,11 @@ For each open `ai-fix` issue, SKIP it if any of these are true:
 
 Only issues passing ALL checks are "unworked".
 
-### 3. Pick ONE BATCH (not one issue)
+### 3. Pick BATCHES in a drain-the-queue loop
+
 Work in **batches**, where a batch is one *logical unit of work* → one branch → one PR.
-Group the unworked issues first, then take the **oldest** batch:
+Group the unworked issues first, then process them **oldest batch first, looping until
+the queue is empty or a cap is hit.**
 
 - **Cluster homogeneous issues.** Issues that are the same class of mechanical fix —
   same label (e.g. `broken-video`) AND/OR pointing at the same file/subsystem — are ONE
@@ -36,13 +38,37 @@ Group the unworked issues first, then take the **oldest** batch:
   PR that closes all 30. Grinding these one-per-run is wrong: it's 30 reviews for what is
   really one cleanup, and it lets the backlog outpace the watcher.
 - **A standalone feature/bug issue is its own batch** (e.g. a content guide like #833).
-- **Take the oldest batch per run.** Order batches by their oldest member's `createdAt`
-  and handle that one. Still one PR per run — but a PR can resolve many issues.
+- **Order batches by oldest member's `createdAt`. Process the oldest first, then the
+  next oldest, and so on.** Do not stop after the first batch.
 
 Sizing: for a mechanical cluster, do the **whole cluster** in the run (it's one diff).
 For a large/risky batch, cap it (e.g. first N), and `log()` what you deferred so the next
-run continues — never silently truncate. Don't merge *unrelated* issues into one PR just
-to go faster; batch only genuinely homogeneous work.
+batch in the loop continues — never silently truncate. Don't merge *unrelated* issues
+into one PR just to go faster; batch only genuinely homogeneous work.
+
+**Loop policy (single-run drain):**
+
+After each PR is opened, **re-run steps 1 and 2** (Discover + Dedupe — note the newly
+opened PR will now dedupe its own issues), then pick the next-oldest batch and implement
+it. Repeat until one of these terminating conditions:
+
+1. **Queue empty** — `gh issue list --label ai-fix --state open` returns no eligible
+   issues after dedupe.
+2. **Next batch is non-atomic** — apply the atomicity rule (see Guardrails): if the next
+   batch's issue is too large/ambiguous, leave the "needs split" comment for the CEO
+   agent and **continue to the batch after it**. Only stop looping when *every*
+   remaining batch fails the atomicity check.
+3. **Wall-time cap: 45 minutes** for the whole run. If exceeded between batches, stop
+   cleanly and list deferred batches in the report.
+4. **Per-batch cap: 15 minutes** for implementation + push + PR open. If a single batch
+   exceeds this, finish what you can, push partial work as a draft PR (or skip if no
+   commits yet), comment the issue, and move on to the next batch.
+
+Each iteration of the loop:
+1. Pick next eligible batch.
+2. Implement it via step 4 below (the existing single-batch procedure).
+3. Confirm PR opened (step 5).
+4. Go back to the top of the loop.
 
 ### 4. Implement it (you ARE Ralph)
 "Ralph" is not a separate agent — it is this run, following the project's coding
@@ -63,27 +89,44 @@ batches that touch overlapping files and would collide on one branch. A homogene
 cluster (the common case) is ONE branch edited inline — do NOT spawn subagents for it.
 
 ### 5. Verify & Report
-After dispatch, confirm a branch + PR were created (`gh pr list --state open`).
-Output a short report:
+After each batch's dispatch, confirm the branch + PR were created
+(`gh pr list --state open`). After the loop terminates, output a single
+consolidated report covering every batch processed in this run:
+
 ```
 🤘 GitHub Watcher — <date/time>
-Open ai-fix: <count> across <batch count> batch(es)
-Unworked: <#s>  |  Already in progress: <#s>
-Dispatched batch: <label/cluster or single #> (<N issues>) → PR #<M> [or "FAILED: <reason>"]
-Closed by PR: <list of #s>  |  Deferred to next run: <#s or none>
+Open ai-fix at start: <count> across <batch count> batch(es)
+Wall time: <Mm Ss>
+
+Batches dispatched this run: <N>
+  - Batch 1 (<label/cluster or single #>, <K issues>) → PR #<M>  [or "FAILED: <reason>"]
+  - Batch 2 (<label/cluster or single #>, <K issues>) → PR #<M>
+  - ...
+
+Closed by these PRs: <list of #s>
+Skipped (needs CEO split): <list of #s>
+Deferred to next run: <list of #s and reason — e.g. "wall-time cap hit">
 ```
 
 ---
 
 ## Guardrails
-- **One PR per run, one logical change.** A PR may close many issues when they're the
-  same batch (homogeneous cluster), but don't blend unrelated work into one PR.
+- **One PR per batch, one logical change per PR.** A PR may close many issues when
+  they're the same batch (homogeneous cluster), but don't blend unrelated work into one
+  PR. **A single run can produce MANY PRs** — one per batch processed — see the
+  drain-the-queue loop in step 3.
 - **Never touch `human-founder` issues** — those need Ricardo, not Ralph.
 - **Never force-push or touch `main` directly.** Always a feature branch + PR.
 - If an issue looks too large/ambiguous to be atomic, do NOT dispatch — instead add a
-  comment asking the CEO agent to split it, and skip it.
-- If Ralph fails (no PR after a run), comment the failure reason on the issue so the
-  next run doesn't silently retry forever; flag it in your report.
+  comment asking the CEO agent to split it, **and skip to the next batch in the loop**
+  (do not stop the run).
+- If Ralph fails on a specific batch (no PR after implementation), comment the failure
+  reason on the issue so the next run doesn't silently retry forever, flag it in your
+  report, and **continue to the next batch** instead of aborting the whole run.
+- **Drain-the-queue loop is intentional.** Within a single run, process every eligible
+  batch in `createdAt` order until the queue is empty or the 45-min wall-time cap is
+  hit. This supersedes any earlier "one PR per run" assumption — the watcher's job is to
+  keep the queue at zero, not to pace itself.
 
 ---
 

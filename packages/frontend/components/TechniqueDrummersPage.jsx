@@ -7,13 +7,14 @@
 // without re-architecting. Stub/derived data is intentional here.
 
 import React, { useState, useEffect, useContext } from 'react';
-import { View, Text, ScrollView, Pressable, ActivityIndicator, StyleSheet, Platform } from 'react-native';
+import { View, Text, ScrollView, Pressable, ActivityIndicator, StyleSheet, Platform, Image, Linking, useWindowDimensions } from 'react-native';
 import { ThemeContext } from '../ThemeContext';
 import {
   getTechniqueBySlug,
   getRelatedTechniques,
   getAllTechniqueSlugs,
 } from '../data/techniques';
+import { filterLicks } from '../data/signatureLicks';
 
 const BASE_URL = 'https://metalforge.io';
 
@@ -35,6 +36,51 @@ export function getTechniqueDrummersSlugFromURL() {
 // All canonical URLs for this route — used by the sitemap generator (#994).
 export function getTechniqueDrummersUrls() {
   return getAllTechniqueSlugs().map((slug) => `/technique/${slug}/drummers`);
+}
+
+// ==========================================
+// VIDEO ADAPTER (#993) — pull a canonical example from signatureLicks.js
+// ==========================================
+
+// Technique-page slugs don't always match the freer-form technique tags used
+// in signatureLicks.js, so map the ones that differ. Falls back to the slug
+// itself, which already matches blast-beat, double-bass, gravity-blast,
+// one-handed-roll and polyrhythms.
+const TECHNIQUE_LICK_TAGS = {
+  'groove-drumming': ['groove'],
+  'fill-techniques': ['fills', 'fill', 'tom-fill'],
+  'odd-time-signatures': ['odd-time-signatures', 'odd-groupings'],
+};
+
+// Find one canonical video example for a technique by scanning signature licks.
+// Reuses existing, gate-vetted youtubeIds (no new video IDs are introduced).
+// Returns { youtubeId, title, startTime, drummerName, drummerSlug, song } or null.
+export function getTechniqueVideo(slug) {
+  if (!slug) return null;
+  const tags = TECHNIQUE_LICK_TAGS[slug] || [slug];
+  for (const tag of tags) {
+    const licks = filterLicks({ technique: tag });
+    for (const lick of licks) {
+      const youtubeId =
+        (lick.video && lick.video.youtubeId) ||
+        (lick.tutorial && lick.tutorial.youtubeId) ||
+        null;
+      if (youtubeId) {
+        return {
+          youtubeId,
+          title: `${lick.drummerName} — ${lick.name}`,
+          startTime:
+            (lick.video && lick.video.startTime) ||
+            (lick.tutorial && lick.tutorial.startTime) ||
+            0,
+          drummerName: lick.drummerName,
+          drummerSlug: lick.drummerSlug,
+          song: lick.song || null,
+        };
+      }
+    }
+  }
+  return null;
 }
 
 // ==========================================
@@ -74,8 +120,9 @@ export function buildTechniqueFaq(technique) {
   ];
 }
 
-// FAQPage + ItemList(Person) JSON-LD. Valid even when masters is empty.
-export function buildTechniqueDrummersSchema(technique, faq) {
+// FAQPage + ItemList(Person) JSON-LD, plus a VideoObject when an example video
+// is supplied. Valid even when masters is empty / no video.
+export function buildTechniqueDrummersSchema(technique, faq, video) {
   if (!technique) return null;
   const url = `${BASE_URL}/technique/${technique.slug}/drummers`;
   const masters = technique.masters || [];
@@ -110,7 +157,21 @@ export function buildTechniqueDrummersSchema(technique, faq) {
     })),
   };
 
-  return [itemList, faqPage];
+  const schemas = [itemList, faqPage];
+
+  if (video && video.youtubeId) {
+    schemas.push({
+      '@context': 'https://schema.org',
+      '@type': 'VideoObject',
+      name: video.title,
+      description: `${video.drummerName} demonstrating the ${technique.title} technique${video.song ? ` in "${video.song}"` : ''}.`,
+      thumbnailUrl: `https://i.ytimg.com/vi/${video.youtubeId}/hqdefault.jpg`,
+      contentUrl: `https://www.youtube.com/watch?v=${video.youtubeId}`,
+      embedUrl: `https://www.youtube.com/embed/${video.youtubeId}`,
+    });
+  }
+
+  return schemas;
 }
 
 // SEO schema injection (mirrors DrummerGearCategoryPage pattern)
@@ -175,6 +236,133 @@ function QuickFactsBox({ technique, theme }) {
           <Text style={[styles.factValue, { color: theme.text }]}>{f.value}</Text>
         </View>
       ))}
+    </View>
+  );
+}
+
+// About section — renders the long-form description + history so each page
+// carries ≥300 unique words of real content (SEO quality gate, #993).
+function AboutSection({ technique, theme }) {
+  if (!technique.description && !technique.history) return null;
+  return (
+    <View style={styles.section}>
+      <Text style={[styles.sectionTitle, { color: theme.text }]}>📖 About {technique.title}</Text>
+      {technique.description ? (
+        <Text style={[styles.bodyText, { color: theme.secondaryText }]}>{technique.description}</Text>
+      ) : null}
+      {technique.history ? (
+        <Text style={[styles.bodyText, { color: theme.secondaryText, marginTop: 12 }]}>{technique.history}</Text>
+      ) : null}
+    </View>
+  );
+}
+
+// How-to-learn checklist — surfaces the existing howToLearn data (#993).
+function HowToLearnSection({ technique, theme }) {
+  const steps = Array.isArray(technique.howToLearn) ? technique.howToLearn : [];
+  if (steps.length === 0) return null;
+  return (
+    <View style={styles.section}>
+      <Text style={[styles.sectionTitle, { color: theme.text }]}>🎓 How to Learn {technique.title}</Text>
+      {steps.map((step, i) => (
+        <View key={i} style={styles.listRow}>
+          <Text style={[styles.listBullet, { color: theme.primary }]}>{i + 1}.</Text>
+          <Text style={[styles.listText, { color: theme.secondaryText }]}>{step}</Text>
+        </View>
+      ))}
+    </View>
+  );
+}
+
+// Variations of the technique — surfaces the existing variations data (#993).
+function VariationsSection({ technique, theme }) {
+  const variations = Array.isArray(technique.variations) ? technique.variations : [];
+  if (variations.length === 0) return null;
+  return (
+    <View style={styles.section}>
+      <Text style={[styles.sectionTitle, { color: theme.text }]}>🧬 Variations</Text>
+      {variations.map((v, i) => (
+        <View key={i} style={styles.listRow}>
+          <Text style={[styles.listBullet, { color: theme.primary }]}>•</Text>
+          <Text style={[styles.listText, { color: theme.secondaryText }]}>
+            <Text style={{ fontWeight: '700', color: theme.text }}>{v.name}</Text>
+            {v.description ? ` — ${v.description}` : ''}
+          </Text>
+        </View>
+      ))}
+    </View>
+  );
+}
+
+// Embedded canonical video example (#993). Web uses a lazy click-to-load
+// facade; native opens YouTube. Renders nothing when no video is available.
+function VideoExample({ video, technique, theme }) {
+  const { width } = useWindowDimensions();
+  const [activated, setActivated] = useState(false);
+  if (!video || !video.youtubeId) return null;
+
+  const videoWidth = Math.min((width || 360) - 48, 720);
+  const videoHeight = Math.round((videoWidth * 9) / 16);
+  const thumbnailUrl = `https://i.ytimg.com/vi/${video.youtubeId}/hqdefault.jpg`;
+  let embedUrl = `https://www.youtube-nocookie.com/embed/${video.youtubeId}?autoplay=1`;
+  if (video.startTime) embedUrl += `&start=${video.startTime}`;
+  const youtubeUrl = video.startTime
+    ? `https://www.youtube.com/watch?v=${video.youtubeId}&t=${video.startTime}`
+    : `https://www.youtube.com/watch?v=${video.youtubeId}`;
+
+  return (
+    <View style={styles.section}>
+      <Text style={[styles.sectionTitle, { color: theme.text }]}>🎬 Video Example</Text>
+      <Text style={[styles.videoCaption, { color: theme.secondaryText }]}>
+        {video.drummerName} demonstrating {technique.title}{video.song ? ` in “${video.song}”` : ''}.
+      </Text>
+      {Platform.OS === 'web' ? (
+        activated ? (
+          <View style={[styles.videoContainer, { width: videoWidth, height: videoHeight }]}>
+            <iframe
+              width="100%"
+              height="100%"
+              src={embedUrl}
+              title={video.title}
+              frameBorder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+              loading="lazy"
+              style={{ borderRadius: 12, border: 0 }}
+            />
+          </View>
+        ) : (
+          <View
+            style={[styles.videoContainer, { width: videoWidth, height: videoHeight, cursor: 'pointer', position: 'relative' }]}
+            onClick={() => setActivated(true)}
+            role="button"
+            aria-label={`Play ${video.title}`}
+            tabIndex={0}
+            onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') setActivated(true); }}
+          >
+            <img
+              src={thumbnailUrl}
+              alt={`${video.title} video thumbnail`}
+              loading="lazy"
+              decoding="async"
+              style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: 12 }}
+            />
+            <View style={styles.playButtonOverlay}>
+              <Text style={styles.playIcon}>▶</Text>
+            </View>
+          </View>
+        )
+      ) : (
+        <Pressable
+          onPress={() => Linking.openURL(youtubeUrl)}
+          style={[styles.videoContainer, { width: videoWidth, height: videoHeight }]}
+          accessibilityRole="link"
+          accessibilityLabel={`Watch ${video.title} on YouTube`}
+        >
+          <Image source={{ uri: thumbnailUrl }} style={{ width: '100%', height: '100%', borderRadius: 12 }} resizeMode="cover" />
+          <View style={styles.playButtonOverlay}><Text style={styles.playIcon}>▶</Text></View>
+        </Pressable>
+      )}
     </View>
   );
 }
@@ -268,12 +456,13 @@ export function TechniqueDrummersPage({ slug: propSlug, onBack, onSelectDrummer,
   const technique = slug ? getTechniqueBySlug(slug) : null;
   const related = slug ? getRelatedTechniques(slug) : [];
   const faq = buildTechniqueFaq(technique);
+  const video = slug ? getTechniqueVideo(slug) : null;
 
   useEffect(() => {
     setLoading(false);
     if (technique && Platform.OS === 'web') {
       updateMeta(technique);
-      injectSchema(buildTechniqueDrummersSchema(technique, faq));
+      injectSchema(buildTechniqueDrummersSchema(technique, faq, video));
     }
     return () => removeSchema();
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -318,7 +507,11 @@ export function TechniqueDrummersPage({ slug: propSlug, onBack, onSelectDrummer,
       </View>
 
       <QuickFactsBox technique={technique} theme={theme} />
+      <AboutSection technique={technique} theme={theme} />
+      <VideoExample video={video} technique={technique} theme={theme} />
       <DrummersList masters={technique.masters} theme={theme} onSelectDrummer={onSelectDrummer} />
+      <HowToLearnSection technique={technique} theme={theme} />
+      <VariationsSection technique={technique} theme={theme} />
       <FaqList faq={faq} theme={theme} />
       <RelatedTechniques related={related} theme={theme} onSelectTechnique={onSelectTechnique} />
 
@@ -344,6 +537,17 @@ const styles = StyleSheet.create({
   subtitle: { fontSize: 16, lineHeight: 22 },
   section: { marginBottom: 20 },
   sectionTitle: { fontSize: 20, fontWeight: '700', marginBottom: 16, marginTop: 8 },
+  bodyText: { fontSize: 15, lineHeight: 24 },
+  listRow: { flexDirection: 'row', marginBottom: 10, paddingRight: 8 },
+  listBullet: { fontSize: 15, fontWeight: '700', marginRight: 8, lineHeight: 22 },
+  listText: { fontSize: 15, lineHeight: 22, flex: 1 },
+  videoCaption: { fontSize: 14, lineHeight: 20, marginBottom: 12 },
+  videoContainer: { borderRadius: 12, overflow: 'hidden', alignSelf: 'flex-start' },
+  playButtonOverlay: {
+    position: 'absolute', top: 0, left: 0, right: 0, bottom: 0,
+    alignItems: 'center', justifyContent: 'center',
+  },
+  playIcon: { fontSize: 44, color: '#fff' },
   quickFacts: { padding: 20, borderRadius: 12, borderWidth: 2, marginBottom: 20 },
   factRow: { flexDirection: 'row', justifyContent: 'space-between', paddingVertical: 6 },
   factLabel: { fontSize: 14 },

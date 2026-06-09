@@ -4130,14 +4130,32 @@ function updateDocumentMeta(drummer, drummers = [], filters = {}) {
   setMeta('og:description', description, true);
   setMeta('og:type', drummer ? 'profile' : 'website', true);
   setMeta('og:site_name', 'MetalForge', true);
+  // Self-referencing canonical (Issue #1015). Drummer profiles resolve by both
+  // numeric id and slug; the sitemap + internal links promote the slug form, so
+  // canonical (and og:url) must point at the slug to consolidate duplicate-URL
+  // ranking signals. Reset to the homepage when leaving a profile within the SPA
+  // so a stale drummer canonical isn't left behind.
+  const setCanonical = (href) => {
+    let canonical = document.querySelector('link[rel="canonical"]');
+    if (!canonical) {
+      canonical = document.createElement('link');
+      canonical.setAttribute('rel', 'canonical');
+      document.head.appendChild(canonical);
+    }
+    canonical.setAttribute('href', href);
+  };
+
   if (drummer) {
+    const canonicalUrl = `https://metalforge.io/drummer/${toSlug(drummer.name)}`;
     setMeta('og:image', drummer.image || 'https://metalforge.io/og-image.png', true);
-    setMeta('og:url', `https://metalforge.io/drummer/${drummer.id}`, true);
+    setMeta('og:url', canonicalUrl, true);
     setMeta('twitter:image', drummer.image || 'https://metalforge.io/og-image.png');
+    setCanonical(canonicalUrl);
   } else {
     setMeta('og:image', 'https://metalforge.io/og-image.png', true);
     setMeta('og:url', 'https://metalforge.io/', true);
     setMeta('twitter:image', 'https://metalforge.io/og-image.png');
+    setCanonical('https://metalforge.io/');
   }
   setMeta('twitter:card', 'summary_large_image');
   setMeta('twitter:site', '@MetalDrumGear');

@@ -210,6 +210,10 @@ import { GearCardShare, trackGearCardEvent, getCardUrl } from './components/Gear
 // Sticky CTA Component (Issue #820) - Conversion optimization
 import StickyCTA from './components/StickyCTA';
 
+// Related Drummers internal-linking block (Issue #1005, split 1/3 of #874)
+// Stub-tested on the Lars Ulrich page here; #1007 rolls it out everywhere.
+import RelatedDrummersBlock from './components/RelatedDrummersBlock';
+
 // Wishlist Components (Issue #823) - Conversion funnel feature
 import WishlistButton, { FloatingWishlistButton, WishlistBadge } from './components/WishlistButton';
 import {
@@ -4126,14 +4130,32 @@ function updateDocumentMeta(drummer, drummers = [], filters = {}) {
   setMeta('og:description', description, true);
   setMeta('og:type', drummer ? 'profile' : 'website', true);
   setMeta('og:site_name', 'MetalForge', true);
+  // Self-referencing canonical (Issue #1015). Drummer profiles resolve by both
+  // numeric id and slug; the sitemap + internal links promote the slug form, so
+  // canonical (and og:url) must point at the slug to consolidate duplicate-URL
+  // ranking signals. Reset to the homepage when leaving a profile within the SPA
+  // so a stale drummer canonical isn't left behind.
+  const setCanonical = (href) => {
+    let canonical = document.querySelector('link[rel="canonical"]');
+    if (!canonical) {
+      canonical = document.createElement('link');
+      canonical.setAttribute('rel', 'canonical');
+      document.head.appendChild(canonical);
+    }
+    canonical.setAttribute('href', href);
+  };
+
   if (drummer) {
+    const canonicalUrl = `https://metalforge.io/drummer/${toSlug(drummer.name)}`;
     setMeta('og:image', drummer.image || 'https://metalforge.io/og-image.png', true);
-    setMeta('og:url', `https://metalforge.io/drummer/${drummer.id}`, true);
+    setMeta('og:url', canonicalUrl, true);
     setMeta('twitter:image', drummer.image || 'https://metalforge.io/og-image.png');
+    setCanonical(canonicalUrl);
   } else {
     setMeta('og:image', 'https://metalforge.io/og-image.png', true);
     setMeta('og:url', 'https://metalforge.io/', true);
     setMeta('twitter:image', 'https://metalforge.io/og-image.png');
+    setCanonical('https://metalforge.io/');
   }
   setMeta('twitter:card', 'summary_large_image');
   setMeta('twitter:site', '@MetalDrumGear');
@@ -4843,6 +4865,40 @@ function GearSection({ title, content, theme, gearType, drummerName, drummerSlug
   const primaryProduct = extractPrimaryProduct(content);
   const affiliateLinks = getAffiliateLinks(primaryProduct, gearType);
 
+  // Issue #998: cross-link this gear line into its /gear/<brand>/<series>/
+  // drummers-using page when ≥2 pros use the same series. The gear index is
+  // heavy and route-only, so we dynamic-import the lookup (kept out of the
+  // main bundle) and resolve the link after mount.
+  const [seriesLink, setSeriesLink] = useState(null);
+  useEffect(() => {
+    if (!drummerSlug || !content) {
+      setSeriesLink(null);
+      return;
+    }
+    let cancelled = false;
+    import('./data/gearSeriesPages')
+      .then((m) => {
+        if (cancelled) return;
+        const link = m.getGearSeriesLinkForConfig?.(drummerSlug, content);
+        setSeriesLink(link || null);
+      })
+      .catch(() => {});
+    return () => {
+      cancelled = true;
+    };
+  }, [drummerSlug, content]);
+
+  const handleSeriesLinkPress = () => {
+    if (!seriesLink) return;
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', seriesLink.url);
+      window.dispatchEvent(new PopStateEvent('popstate'));
+      window.scrollTo(0, 0);
+    } else {
+      Linking.openURL(`https://metalforge.io${seriesLink.url}`);
+    }
+  };
+
   const handleShopPress = (url, store) => {
     // Open in new tab for web, use Linking for native
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
@@ -4874,6 +4930,17 @@ function GearSection({ title, content, theme, gearType, drummerName, drummerSlug
         )}
       </View>
       <Text style={[styles.gearContent, { color: theme.secondaryText }]} nativeID={`speakable-gear-${gearType}-content`}>{content}</Text>
+      {seriesLink && (
+        <TouchableOpacity
+          onPress={handleSeriesLinkPress}
+          accessibilityRole="link"
+          accessibilityLabel={`See all ${seriesLink.drummerCount} drummers who use ${seriesLink.brand} ${seriesLink.series}`}
+        >
+          <Text style={[styles.gearSeriesLink, { color: theme.primary }]}>
+            {seriesLink.drummerCount} pros use this — see all →
+          </Text>
+        </TouchableOpacity>
+      )}
       <View style={styles.shopLinksContainer}>
         <TouchableOpacity
           onPress={() => handleShopPress(affiliateLinks.sweetwater, 'Sweetwater')}
@@ -5801,11 +5868,17 @@ function buildQuickFacts(drummer) {
  */
 function DrummerQuickFacts({ drummer, theme, isMobile }) {
   const rows = buildQuickFacts(drummer);
+  // Issue #1001 (split 3/3 of #872): width-aware mobile tuning. useWindowDimensions
+  // is reactive, so the layout adapts on rotate/resize without a layout shift.
+  const { width } = useWindowDimensions();
   if (rows.length === 0) return null;
 
   if (Platform.OS === 'web') {
-    const cellPad = isMobile ? '6px 8px' : '8px 12px';
-    const fontSize = isMobile ? 13 : 15;
+    // <420px (iPhone SE / small Android): smaller font + tighter padding, and
+    // let labels wrap so a long label can't force horizontal overflow.
+    const isSmall = width > 0 && width < 420;
+    const cellPad = isSmall ? '5px 6px' : isMobile ? '6px 8px' : '8px 12px';
+    const fontSize = isSmall ? 12 : isMobile ? 13 : 15;
     return (
       <div
         itemScope
@@ -5833,34 +5906,39 @@ function DrummerQuickFacts({ drummer, theme, isMobile }) {
         >
           Quick Facts: {drummer.name}
         </h2>
-        <table style={{ width: '100%', borderCollapse: 'collapse', fontSize }}>
-          <tbody>
-            {rows.map((row, i) => (
-              <tr key={row.label} style={{ borderTop: i === 0 ? 'none' : `1px solid ${theme.border}` }}>
-                <th
-                  scope="row"
-                  style={{
-                    textAlign: 'left',
-                    fontWeight: 600,
-                    color: theme.secondaryText,
-                    padding: cellPad,
-                    verticalAlign: 'top',
-                    width: isMobile ? '42%' : '32%',
-                    whiteSpace: 'nowrap',
-                  }}
-                >
-                  {row.label}
-                </th>
-                <td
-                  {...(row.itemProp ? { itemProp: row.itemProp } : {})}
-                  style={{ color: theme.text, padding: cellPad, verticalAlign: 'top' }}
-                >
-                  {row.value}
-                </td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
+        {/* Horizontal-scroll safety net: if the table ever exceeds the card it
+            scrolls instead of being clipped by the card's overflow:hidden — no
+            facts are ever hidden (LLMs scrape, mobile users can scroll). */}
+        <div style={{ overflowX: 'auto', WebkitOverflowScrolling: 'touch' }}>
+          <table style={{ width: '100%', borderCollapse: 'collapse', fontSize }}>
+            <tbody>
+              {rows.map((row, i) => (
+                <tr key={row.label} style={{ borderTop: i === 0 ? 'none' : `1px solid ${theme.border}` }}>
+                  <th
+                    scope="row"
+                    style={{
+                      textAlign: 'left',
+                      fontWeight: 600,
+                      color: theme.secondaryText,
+                      padding: cellPad,
+                      verticalAlign: 'top',
+                      width: isMobile ? '42%' : '32%',
+                      whiteSpace: isSmall ? 'normal' : 'nowrap',
+                    }}
+                  >
+                    {row.label}
+                  </th>
+                  <td
+                    {...(row.itemProp ? { itemProp: row.itemProp } : {})}
+                    style={{ color: theme.text, padding: cellPad, verticalAlign: 'top' }}
+                  >
+                    {row.value}
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
       </div>
     );
   }
@@ -6254,12 +6332,23 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
         />
       )}
 
+      {/* Related Drummers internal-linking block - Issue #1005 (split 1/3 of #874).
+          Stub-test: rendered on the Lars Ulrich page only; #1007 wires it into
+          every drummer + gear page. */}
+      {drummerSlug === 'lars-ulrich' && allDrummers.length > 0 && (
+        <RelatedDrummersBlock
+          drummer={drummer}
+          allDrummers={allDrummers}
+          theme={theme}
+        />
+      )}
+
       {/* Drummer vs Drummer Comparisons CTA - Issue #558 */}
-      <DrummerComparisonsCTA 
-        drummerSlug={drummerSlug} 
+      <DrummerComparisonsCTA
+        drummerSlug={drummerSlug}
         drummerName={drummer.name}
         allDrummers={allDrummers}
-        theme={theme} 
+        theme={theme}
       />
       
       {/* Last Updated Timestamp - Issue #449 */}
@@ -28107,6 +28196,12 @@ const styles = StyleSheet.create({
   gearContent: {
     fontSize: fontSize.sm,
     lineHeight: lineHeight.sm,
+  },
+  // Issue #998: subtle cross-link from a gear line into the gear/series page.
+  gearSeriesLink: {
+    fontSize: fontSize.xs,
+    fontWeight: fontWeight.medium,
+    marginTop: spacing[1],         // 4px
   },
   shopLinksContainer: {
     flexDirection: 'row',

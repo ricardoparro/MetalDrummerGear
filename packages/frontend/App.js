@@ -4843,6 +4843,40 @@ function GearSection({ title, content, theme, gearType, drummerName, drummerSlug
   const primaryProduct = extractPrimaryProduct(content);
   const affiliateLinks = getAffiliateLinks(primaryProduct, gearType);
 
+  // Issue #998: cross-link this gear line into its /gear/<brand>/<series>/
+  // drummers-using page when ≥2 pros use the same series. The gear index is
+  // heavy and route-only, so we dynamic-import the lookup (kept out of the
+  // main bundle) and resolve the link after mount.
+  const [seriesLink, setSeriesLink] = useState(null);
+  useEffect(() => {
+    if (!drummerSlug || !content) {
+      setSeriesLink(null);
+      return;
+    }
+    let cancelled = false;
+    import('./data/gearSeriesPages')
+      .then((m) => {
+        if (cancelled) return;
+        const link = m.getGearSeriesLinkForConfig?.(drummerSlug, content);
+        setSeriesLink(link || null);
+      })
+      .catch(() => {});
+    return () => {
+      cancelled = true;
+    };
+  }, [drummerSlug, content]);
+
+  const handleSeriesLinkPress = () => {
+    if (!seriesLink) return;
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', seriesLink.url);
+      window.dispatchEvent(new PopStateEvent('popstate'));
+      window.scrollTo(0, 0);
+    } else {
+      Linking.openURL(`https://metalforge.io${seriesLink.url}`);
+    }
+  };
+
   const handleShopPress = (url, store) => {
     // Open in new tab for web, use Linking for native
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
@@ -4874,6 +4908,17 @@ function GearSection({ title, content, theme, gearType, drummerName, drummerSlug
         )}
       </View>
       <Text style={[styles.gearContent, { color: theme.secondaryText }]} nativeID={`speakable-gear-${gearType}-content`}>{content}</Text>
+      {seriesLink && (
+        <TouchableOpacity
+          onPress={handleSeriesLinkPress}
+          accessibilityRole="link"
+          accessibilityLabel={`See all ${seriesLink.drummerCount} drummers who use ${seriesLink.brand} ${seriesLink.series}`}
+        >
+          <Text style={[styles.gearSeriesLink, { color: theme.primary }]}>
+            {seriesLink.drummerCount} pros use this — see all →
+          </Text>
+        </TouchableOpacity>
+      )}
       <View style={styles.shopLinksContainer}>
         <TouchableOpacity
           onPress={() => handleShopPress(affiliateLinks.sweetwater, 'Sweetwater')}
@@ -28107,6 +28152,12 @@ const styles = StyleSheet.create({
   gearContent: {
     fontSize: fontSize.sm,
     lineHeight: lineHeight.sm,
+  },
+  // Issue #998: subtle cross-link from a gear line into the gear/series page.
+  gearSeriesLink: {
+    fontSize: fontSize.xs,
+    fontWeight: fontWeight.medium,
+    marginTop: spacing[1],         // 4px
   },
   shopLinksContainer: {
     flexDirection: 'row',

@@ -10,6 +10,13 @@ import { ALBUM_ARTICLES } from '../packages/frontend/data/albumArticles.js';
 // /technique/<slug>/drummers pages directly from the data module so the
 // sitemap stays in sync as techniques are added.
 import { getAllTechniqueSlugs } from '../packages/frontend/data/techniques.js';
+// Issue #997 (split 3/4 of #871): source the /gear/<brand>/<series>/drummers-using
+// slugs from the generated gear index so the sitemap stays in sync with the
+// pages added in #996. We import the self-contained GEAR_INDEX data directly
+// (rather than data/gearSeriesPages.js, which pulls in pricing/affiliate
+// helpers) and mirror that module's slug + dedupe logic verbatim so the URLs
+// emitted here resolve 1:1 with the live routes.
+import { GEAR_INDEX } from '../packages/frontend/data/gearIndex.js';
 
 // Issue #623: Content Scale Sprint - All 62 drummers now in sitemap
 const drummers = [
@@ -290,6 +297,36 @@ function generateSlug(name) {
   return name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
 }
 
+// Issue #997: gear/series "drummers-using" page URLs.
+// Mirrors slugifySeries + the dedupe rule in
+// packages/frontend/data/gearSeriesPages.js so these <loc>s match the
+// routes #996 actually serves. Only series with ≥2 drummers earn a page,
+// and the first series to claim a given slug wins it (keeps URLs unique).
+function slugifyGearSeries(str) {
+  return String(str)
+    .toLowerCase()
+    .replace(/['"]/g, '')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+}
+
+function getGearSeriesUrls() {
+  const seen = new Set();
+  const urls = [];
+  for (const [brand, seriesObj] of Object.entries(GEAR_INDEX)) {
+    const brandSlug = slugifyGearSeries(brand);
+    for (const [series, drummers] of Object.entries(seriesObj)) {
+      if (!Array.isArray(drummers) || drummers.length < 2) continue;
+      const seriesSlug = slugifyGearSeries(series);
+      const key = `${brandSlug}/${seriesSlug}`;
+      if (seen.has(key)) continue; // first series wins a given slug
+      seen.add(key);
+      urls.push(`/gear/${brandSlug}/${seriesSlug}/drummers-using`);
+    }
+  }
+  return urls;
+}
+
 export default function handler(req, res) {
   res.setHeader('Content-Type', 'application/xml');
   res.setHeader('Cache-Control', 'public, max-age=86400');
@@ -362,6 +399,8 @@ export default function handler(req, res) {
     ...endorsementDrummers.map(slug => ({ loc: `/drummers/${slug}/endorsements`, priority: '0.85', changefreq: 'monthly' })),
     // Issue #813: Gear Price History Tracker pages
     ...gearPriceHistoryDrummers.map(slug => ({ loc: `/drummers/${slug}/gear-history`, priority: '0.9', changefreq: 'monthly' })),
+    // Issue #871/#997: gear/series "drummers-using" SEO pages (≥2 drummers each)
+    ...getGearSeriesUrls().map(loc => ({ loc, priority: '0.8', changefreq: 'monthly' })),
   ];
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">

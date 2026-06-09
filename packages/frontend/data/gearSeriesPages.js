@@ -264,6 +264,33 @@ function setCanonical(href) {
   el.setAttribute('href', href);
 }
 
+// Issue #998: reverse lookup for cross-linking a drummer's gear line into its
+// /gear/<brand>/<series>/drummers-using page. Given the drummer's slug and the
+// exact gear configString shown on their profile, return the page that lists
+// them (or null). Walks the same slug map the route serves, so the destination
+// page is guaranteed to include this drummer and to have ≥2 drummers.
+export function getGearSeriesLinkForConfig(drummerSlug, configString) {
+  if (!drummerSlug || !configString) return null;
+  const target = String(configString).trim();
+  const map = getSlugMap();
+  for (const [brandSlug, seriesObj] of Object.entries(map)) {
+    for (const [seriesSlug, entry] of Object.entries(seriesObj)) {
+      const hit = entry.drummers.find(
+        (d) => d.slug === drummerSlug && d.configString === target
+      );
+      if (hit) {
+        return {
+          url: `/gear/${brandSlug}/${seriesSlug}/drummers-using`,
+          drummerCount: entry.drummers.length,
+          brand: entry.brand,
+          series: entry.series,
+        };
+      }
+    }
+  }
+  return null;
+}
+
 // All gear/series page paths — consumed by #997 (sitemap). Each brand/series
 // with ≥2 drummers yields one entry.
 export function getGearSeriesUrls() {

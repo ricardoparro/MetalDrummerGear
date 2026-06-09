@@ -1,6 +1,6 @@
 # MetalForge - Metal Drummer Gear Database
 # https://metalforge.io
-# Last updated: 2026-02-04
+# Last updated: 2026-06-09
 
 ## About
 MetalForge is a comprehensive database of professional metal drummers and their gear setups. Our mission is to help drummers discover what their favorite metal drummers play, from drum kits and cymbals to hardware and sticks. We cover thrash, death metal, black metal, progressive metal, nu-metal, groove metal, and more.
@@ -13,7 +13,7 @@ MetalForge is a comprehensive database of professional metal drummers and their 
 
 ## Key Content
 
-### Drummers Database (60+ profiles)
+### Drummers Database (61 drummer profiles)
 Detailed profiles including:
 - Complete gear specifications (drums, snare, cymbals, hardware, sticks)
 - Biographical information and career highlights
@@ -50,6 +50,24 @@ Detailed profiles including:
 
 ### Quotes Collection
 Notable quotes from legendary drummers on technique, philosophy, gear, and career insights.
+
+### Signature Licks Database
+Step-by-step breakdowns of iconic metal drum fills, beats, and patterns, each with
+video tutorials, technique notes, gear used, and practice tips. One of our strongest
+organic-search surfaces.
+- /drummers/<slug>/licks - every signature lick for a drummer (hub page)
+- /drummers/<slug>/licks/<lick> - individual lick breakdown with HowTo + VideoObject schema
+
+Examples:
+- /drummers/joey-jordison/licks/joey-jordison-heretic-anthem-intro
+- /drummers/lars-ulrich/licks/lars-ulrich-master-of-puppets-gallop
+- /drummers/dave-lombardo/licks/dave-lombardo-raining-blood-double-bass
+
+### Budget Setup Guides
+Curated, price-tiered gear guides for building a metal drum setup at a target budget.
+- /guides/budget-metal-drum-setup-500 - best metal drum setup under $500
+- /guides/budget-metal-drum-setup-1000 - best metal drum setup under $1000
+- /guides/budget-metal-drum-setup-2000 - best metal drum setup under $2000
 
 ## API Endpoints
 
@@ -104,10 +122,12 @@ Returns robots.txt directives.
 - /quotes - Drummer quotes collection
 
 ## Markdown Profiles (LLM-optimized)
-Clean Markdown versions of every drummer profile, ingestible in one request without
-parsing HTML. One file per drummer at the pattern below:
+Clean Markdown versions of our content, ingestible in one request without
+parsing HTML:
 - /llms/index.md - master index of all drummer markdown profiles
-- /llms/drummers/<slug>.md - full profile (frontmatter, quick facts, bio, gear, FAQ, quotes)
+- /llms/faq.md - frequently asked questions about metal drummers and their gear
+- /llms/gear-guide.md - overview of drum/cymbal/hardware brands and how to choose
+- /llms/drummers/<slug>.md - full profile per drummer (frontmatter, quick facts, bio, gear, FAQ, quotes)
 - /llms-full.txt - complete database dump (all drummers concatenated)
 
 Examples:

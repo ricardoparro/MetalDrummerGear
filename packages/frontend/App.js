@@ -210,6 +210,10 @@ import { GearCardShare, trackGearCardEvent, getCardUrl } from './components/Gear
 // Sticky CTA Component (Issue #820) - Conversion optimization
 import StickyCTA from './components/StickyCTA';
 
+// Related Drummers internal-linking block (Issue #1005, split 1/3 of #874)
+// Stub-tested on the Lars Ulrich page here; #1007 rolls it out everywhere.
+import RelatedDrummersBlock from './components/RelatedDrummersBlock';
+
 // Wishlist Components (Issue #823) - Conversion funnel feature
 import WishlistButton, { FloatingWishlistButton, WishlistBadge } from './components/WishlistButton';
 import {
@@ -6310,12 +6314,23 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
         />
       )}
 
+      {/* Related Drummers internal-linking block - Issue #1005 (split 1/3 of #874).
+          Stub-test: rendered on the Lars Ulrich page only; #1007 wires it into
+          every drummer + gear page. */}
+      {drummerSlug === 'lars-ulrich' && allDrummers.length > 0 && (
+        <RelatedDrummersBlock
+          drummer={drummer}
+          allDrummers={allDrummers}
+          theme={theme}
+        />
+      )}
+
       {/* Drummer vs Drummer Comparisons CTA - Issue #558 */}
-      <DrummerComparisonsCTA 
-        drummerSlug={drummerSlug} 
+      <DrummerComparisonsCTA
+        drummerSlug={drummerSlug}
         drummerName={drummer.name}
         allDrummers={allDrummers}
-        theme={theme} 
+        theme={theme}
       />
       
       {/* Last Updated Timestamp - Issue #449 */}

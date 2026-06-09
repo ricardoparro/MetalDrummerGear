@@ -643,6 +643,22 @@ function updateDrummerGearCategoryMeta(data) {
   return _drummerGearCategoryModule?.updateGearCategoryMeta?.(data);
 }
 
+// Gear Series Pages (Issue #996, split 2/4 of #871) - /gear/<brand>/<series>/drummers-using
+// SEO landing pages listing the pro drummers who use a given brand+series.
+// Routed purely off the live URL (see render block) so no new page-state flag
+// has to be threaded through every navigation reset branch.
+const LazyGearSeriesPage = lazy(() => import('./components/GearSeriesPage').then(m => ({ default: m.GearSeriesPage })));
+function isGearSeriesPage() {
+  return typeof window !== 'undefined' &&
+    /^\/gear\/[a-z0-9-]+\/[a-z0-9-]+\/drummers-using\/?$/i.test(window.location.pathname);
+}
+function getGearSeriesFromURL() {
+  if (typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(/^\/gear\/([a-z0-9-]+)\/([a-z0-9-]+)\/drummers-using\/?$/i);
+  if (!match) return null;
+  return { brandSlug: match[1].toLowerCase(), seriesSlug: match[2].toLowerCase() };
+}
+
 // Extended bios for drummer detail pages (Issue #305)
 // Loaded dynamically for code splitting (~9KB of text data) - TBT optimization #460
 // Fix for #541: Added Promise caching and listeners for reliable async loading
@@ -26227,6 +26243,44 @@ setShowList(false);
       );
     }
     
+    // Gear Series Page (Issue #996, split 2/4 of #871) - /gear/<brand>/<series>/drummers-using
+    // SEO landing pages listing the pro drummers who use a brand+series. Routed off the
+    // live URL (the regex is unambiguous vs the single-segment /gear/:brand brand pages).
+    if (isGearSeriesPage()) {
+      const seriesInfo = getGearSeriesFromURL();
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyGearSeriesPage
+            theme={theme}
+            brandSlug={seriesInfo?.brandSlug}
+            seriesSlug={seriesInfo?.seriesSlug}
+            drummers={drummers}
+            onBack={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/gear');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigate={(brandSlug, seriesSlug) => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/gear/${brandSlug}/${seriesSlug}/drummers-using`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateToDrummer={(slug) => {
+              const drummer = drummers.find(d => toSlug(d.name) === slug);
+              if (drummer) {
+                handleSelectDrummer(drummer);
+              }
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/drummer/${slug}`);
+              }
+            }}
+          />
+        </Suspense>
+      );
+    }
+
     // Drummer Gear Category Page (Issue #770) - /drummer/:slug/:category
     // SEO long-tail keyword pages for "joey jordison cymbals", "what drums does lars ulrich use", etc.
     if (showGearCategoryPage && gearCategoryInfo) {

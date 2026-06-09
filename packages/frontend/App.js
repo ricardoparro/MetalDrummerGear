@@ -5801,11 +5801,17 @@ function buildQuickFacts(drummer) {
  */
 function DrummerQuickFacts({ drummer, theme, isMobile }) {
   const rows = buildQuickFacts(drummer);
+  // Issue #1001 (split 3/3 of #872): width-aware mobile tuning. useWindowDimensions
+  // is reactive, so the layout adapts on rotate/resize without a layout shift.
+  const { width } = useWindowDimensions();
   if (rows.length === 0) return null;
 
   if (Platform.OS === 'web') {
-    const cellPad = isMobile ? '6px 8px' : '8px 12px';
-    const fontSize = isMobile ? 13 : 15;
+    // <420px (iPhone SE / small Android): smaller font + tighter padding, and
+    // let labels wrap so a long label can't force horizontal overflow.
+    const isSmall = width > 0 && width < 420;
+    const cellPad = isSmall ? '5px 6px' : isMobile ? '6px 8px' : '8px 12px';
+    const fontSize = isSmall ? 12 : isMobile ? 13 : 15;
     return (
       <div
         itemScope
@@ -5833,34 +5839,39 @@ function DrummerQuickFacts({ drummer, theme, isMobile }) {
         >
           Quick Facts: {drummer.name}
         </h2>
-        <table style={{ width: '100%', borderCollapse: 'collapse', fontSize }}>
-          <tbody>
-            {rows.map((row, i) => (
-              <tr key={row.label} style={{ borderTop: i === 0 ? 'none' : `1px solid ${theme.border}` }}>
-                <th
-                  scope="row"
-                  style={{
-                    textAlign: 'left',
-                    fontWeight: 600,
-                    color: theme.secondaryText,
-                    padding: cellPad,
-                    verticalAlign: 'top',
-                    width: isMobile ? '42%' : '32%',
-                    whiteSpace: 'nowrap',
-                  }}
-                >
-                  {row.label}
-                </th>
-                <td
-                  {...(row.itemProp ? { itemProp: row.itemProp } : {})}
-                  style={{ color: theme.text, padding: cellPad, verticalAlign: 'top' }}
-                >
-                  {row.value}
-                </td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
+        {/* Horizontal-scroll safety net: if the table ever exceeds the card it
+            scrolls instead of being clipped by the card's overflow:hidden — no
+            facts are ever hidden (LLMs scrape, mobile users can scroll). */}
+        <div style={{ overflowX: 'auto', WebkitOverflowScrolling: 'touch' }}>
+          <table style={{ width: '100%', borderCollapse: 'collapse', fontSize }}>
+            <tbody>
+              {rows.map((row, i) => (
+                <tr key={row.label} style={{ borderTop: i === 0 ? 'none' : `1px solid ${theme.border}` }}>
+                  <th
+                    scope="row"
+                    style={{
+                      textAlign: 'left',
+                      fontWeight: 600,
+                      color: theme.secondaryText,
+                      padding: cellPad,
+                      verticalAlign: 'top',
+                      width: isMobile ? '42%' : '32%',
+                      whiteSpace: isSmall ? 'normal' : 'nowrap',
+                    }}
+                  >
+                    {row.label}
+                  </th>
+                  <td
+                    {...(row.itemProp ? { itemProp: row.itemProp } : {})}
+                    style={{ color: theme.text, padding: cellPad, verticalAlign: 'top' }}
+                  >
+                    {row.value}
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
       </div>
     );
   }

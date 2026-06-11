@@ -1213,6 +1213,528 @@ export const SIGNATURE_LICKS = {
       keywords: ['jaska raatikainen', 'hate crew deathroll drums', 'children of bodom', 'double bass tutorial', 'extreme metal drumming', 'melodic death metal'],
     },
   },
+
+  // ==========================================
+  // BRANN DAILOR - Mastodon
+  // ==========================================
+  'brann-dailor-blood-and-thunder-groove': {
+    slug: 'brann-dailor-blood-and-thunder-groove',
+    name: 'Blood and Thunder Lead Groove',
+    shortName: 'Blood and Thunder',
+    drummerId: 16,
+    drummerName: 'Brann Dailor',
+    drummerSlug: 'brann-dailor',
+    band: 'Mastodon',
+    song: 'Blood and Thunder',
+    album: 'Leviathan (2004)',
+
+    category: 'signature-groove',
+    style: 'progressive-metal',
+    difficulty: 'advanced',
+    difficultyRating: 4,
+    bpm: 168,
+    bpmDisplay: '~168 BPM',
+    timeSignature: '4/4',
+
+    description: "\"Blood and Thunder\" is the opening track of Mastodon's 2004 Moby-Dick concept record Leviathan, and it is the song that introduced most listeners to Brann Dailor's lead-from-the-front approach to metal drumming. Where most players would hold down a simple backbeat under the main riff, Dailor treats the kit like a melodic voice: instead of resting on the snare and ride, he peppers the verses with constant tom-and-snare commentary, answering the guitar phrases with rolling fills that tumble down and back up the kit. The result is a groove that never sits still yet never loses the song's relentless forward gallop. What makes the part instructive for developing drummers is the balance between drive and decoration — the kick keeps the riff's pulse locked while the hands ornament every spare sixteenth, so you learn to fill without ever stepping on the band's momentum. The verse groove relies on a busy ride and hi-hat pattern broken up by quick single-stroke bursts around the toms, while the chorus opens into wider, more anthemic accents that lock with the vocal. Played at roughly 168 BPM it demands both stamina and control: the hands have to stay relaxed enough to keep flowing for three minutes without tensing up, and the fills must land cleanly back on beat one every time so the riff snaps back into focus. Internalising even the first verse teaches you to think melodically around the kit, to phrase fills as musical answers rather than random flurries, and to keep a galloping pulse steady while your hands roam. It is the perfect entry point into Dailor's style and a masterclass in how a drummer can drive a metal song from the front rather than simply holding it down from behind. Spend time with it and you will start hearing every groove you play as an opportunity for melodic conversation rather than mere timekeeping, which is the single biggest mindset shift that separates good metal drummers from genuinely memorable ones.",
+
+    techniques: ['groove-drumming', 'fill-techniques', 'linear-drumming'],
+    techniqueDetails: [
+      'Lock the galloping kick pattern to the main riff so the groove drives forward at a steady ~168 BPM',
+      'Keep a busy but relaxed ride/hi-hat hand running underneath the verse so there is room to ornament',
+      'Answer each guitar phrase with a short single-stroke fill that tumbles down and back up the toms',
+      'Resolve every fill cleanly onto beat one so the riff snaps back into focus',
+      'Open the chorus accents wider and lock them to the vocal phrasing for an anthemic lift',
+    ],
+
+    tutorial: {
+      youtubeId: 'q8B4mSW5e88',
+      startTime: 0,
+      title: 'Brann Dailor (Mastodon) - Blood and Thunder',
+      description: "Brann Dailor's drum playthrough of Blood and Thunder",
+    },
+
+    gearUsed: [
+      { name: 'Tama Starclassic Kit', type: 'drums', link: null },
+      { name: 'Meinl Cymbals', type: 'cymbals', link: null },
+      { name: 'Tama Speed Cobra Pedals', type: 'pedals', link: null },
+    ],
+
+    learningTips: [
+      'Practise the verse fills slowly so each single stroke is even before adding speed',
+      'Keep your shoulders and wrists loose — this part is a three-minute endurance test',
+      'Lock the kick to a metronome first, then layer the ornamentation on top',
+      'Count to beat one out loud so every fill resolves back in time',
+    ],
+
+    seo: {
+      title: 'Brann Dailor Blood and Thunder Groove - Mastodon Drum Tutorial | MetalForge',
+      description: "Learn Brann Dailor's lead-from-the-front groove from Mastodon's Blood and Thunder. Video, technique breakdown, and practice tips.",
+      keywords: ['brann dailor', 'blood and thunder drums', 'mastodon', 'leviathan album', 'metal drum fills', 'progressive metal drumming'],
+    },
+  },
+
+  'brann-dailor-hearts-alive-fills': {
+    slug: 'brann-dailor-hearts-alive-fills',
+    name: 'Hearts Alive Melodic Fills',
+    shortName: 'Hearts Alive',
+    drummerId: 16,
+    drummerName: 'Brann Dailor',
+    drummerSlug: 'brann-dailor',
+    band: 'Mastodon',
+    song: 'Hearts Alive',
+    album: 'Leviathan (2004)',
+
+    category: 'signature-pattern',
+    style: 'progressive-metal',
+    difficulty: 'expert',
+    difficultyRating: 5,
+    bpm: 150,
+    bpmDisplay: '~150 BPM',
+    timeSignature: '4/4 (shifting)',
+
+    description: "\"Hearts Alive\" is the thirteen-minute prog epic near the end of Mastodon's Leviathan, and it is where Brann Dailor's reputation as one of metal's most musical drummers was cemented. The track moves through a long sequence of riffs and feels, and rather than resetting to a plain backbeat at each new section Dailor narrates the journey with near-constant fills that function like a second lead instrument. His signature here is the way he weaves rolling sixteenth-note phrases between hands and feet across the whole kit, treating the toms as melodic pitches and the snare as punctuation, so the drumming sings the song's contour rather than merely keeping time. What makes the part such a rite of passage for ambitious players is the sheer density: there is almost no bar where the hands are simply marking the beat, yet the underlying pulse never wavers, because the kick and hi-hat foot keep an unshakeable reference while the upper-kit ornamentation roams freely on top. The middle sections drop into more spacious, melodic grooves before building back into a triumphant climax, demanding real dynamic control — Dailor pulls right back to let the guitars breathe, then surges forward with cascading fills as the song peaks. Learning even a single section teaches you to phrase fills musically, to maintain a rock-solid pulse while your hands are extremely busy, and to manage stamina and dynamics across a long-form composition rather than a three-minute single. It is also a study in restraint disguised as excess: every flurry is placed to answer the music, never just to show off. For drummers ready to graduate from grooves to genuinely compositional playing, \"Hearts Alive\" is one of the great modern proving grounds. Working through its sections in order also builds the mental endurance that long-form pieces require, training you to keep your focus and your time rock-solid from the first bar to the very last cymbal swell.",
+
+    techniques: ['fill-techniques', 'groove-drumming', 'polyrhythms'],
+    techniqueDetails: [
+      'Keep the kick and hi-hat foot holding a steady pulse so the busy hands always have a reference',
+      'Phrase the rolling sixteenth-note fills as melodies, moving across the toms like pitches',
+      'Use the snare as punctuation between tom phrases rather than a constant backbeat',
+      'Pull the dynamics right back in the spacious middle sections to let the guitars breathe',
+      'Build cascading fills into the climax, surging forward without rushing the pulse',
+    ],
+
+    tutorial: {
+      youtubeId: 'wNFyE2FlWjo',
+      startTime: 0,
+      title: 'Brann Dailor (Mastodon) - Hearts Alive (Drum Cam)',
+      description: "Brann Dailor drum cam of Hearts Alive",
+    },
+
+    gearUsed: [
+      { name: 'Tama Starclassic Kit', type: 'drums', link: null },
+      { name: 'Meinl Cymbals', type: 'cymbals', link: null },
+      { name: 'Tama Speed Cobra Pedals', type: 'pedals', link: null },
+    ],
+
+    learningTips: [
+      'Break the song into sections and master each fill phrase one at a time',
+      'Record yourself to check the pulse stays steady underneath the busy hands',
+      'Practise the melodic tom phrases slowly so each note speaks clearly',
+      'Work on dynamics — play the quiet sections genuinely quietly for contrast',
+    ],
+
+    seo: {
+      title: 'Brann Dailor Hearts Alive Fills - Mastodon Drum Tutorial | MetalForge',
+      description: "Learn Brann Dailor's melodic fills from Mastodon's prog epic Hearts Alive. Video, technique breakdown, and practice tips.",
+      keywords: ['brann dailor', 'hearts alive drums', 'mastodon', 'leviathan album', 'melodic drum fills', 'progressive metal drumming'],
+    },
+  },
+
+  'brann-dailor-ghost-of-karelia-groove': {
+    slug: 'brann-dailor-ghost-of-karelia-groove',
+    name: 'Ghost of Karelia Prog Groove',
+    shortName: 'Ghost of Karelia',
+    drummerId: 16,
+    drummerName: 'Brann Dailor',
+    drummerSlug: 'brann-dailor',
+    band: 'Mastodon',
+    song: 'Ghost of Karelia',
+    album: 'Crack the Skye (2009)',
+
+    category: 'signature-groove',
+    style: 'progressive-metal',
+    difficulty: 'advanced',
+    difficultyRating: 4,
+    bpm: 132,
+    bpmDisplay: '~132 BPM',
+    timeSignature: 'shifting (6/8 & 4/4)',
+
+    description: "\"Ghost of Karelia\" comes from Mastodon's 2009 album Crack the Skye, the record where the band leaned fully into psychedelic prog, and it shows a more patient, hypnotic side of Brann Dailor's playing than the relentless gallop of the Leviathan era. The song breathes between a lilting compound-time feel and straighter four-four sections, and Dailor's job is to make those transitions feel seamless rather than jarring. Instead of hammering the listener, he rides the groove with a flowing, almost circular tom-and-cymbal pattern that emphasises the song's swirling, ocean-like atmosphere, then punctuates phrase endings with his trademark melodic fills. What is instructive here is the way he uses space: in the verses he holds back, locking a hypnotic pulse so the riff and vocal can dominate, and only opens up the fills when the arrangement calls for a lift. That restraint is harder than it looks for a drummer whose instinct is to fill every bar, and it is exactly the lesson developing players need — knowing when not to play is as important as knowing what to play. The shifting time signatures require you to feel the pulse in your body rather than count it bar by bar, so the groove stays relaxed instead of mathematical. The fills, when they come, still flow melodically across the toms in his signature style, but they serve the song's dreamlike arc rather than its aggression. Learning this part develops your sense of feel across compound and straight meters, your dynamic restraint, and your ability to transition between sections without telegraphing the change. It is a great study for any drummer who wants to understand how Dailor matured from a hyperactive young gun into a complete musical drummer capable of serving a long-form psychedelic concept record. More than any single fill, the lasting lesson here is patience: the confidence to leave space, trust the riff, and let the groove breathe until the moment a fill will actually mean something.",
+
+    techniques: ['odd-time-signatures', 'fill-techniques', 'groove-drumming'],
+    techniqueDetails: [
+      'Feel the compound 6/8 sections in your body rather than counting them bar by bar',
+      'Ride a flowing, circular tom-and-cymbal pattern to emphasise the swirling atmosphere',
+      'Hold back in the verses so the riff and vocal can dominate the mix',
+      'Smooth the 6/8-to-4/4 transitions so the pulse carries through without a jolt',
+      'Save the melodic tom fills for phrase endings and section lifts, not every bar',
+    ],
+
+    tutorial: {
+      youtubeId: 'wrbcr8hcb4c',
+      startTime: 0,
+      title: 'Mastodon - Ghost Of Karelia (Brann Dailor Drum Playthrough)',
+      description: "Brann Dailor's drum playthrough of Ghost of Karelia",
+    },
+
+    gearUsed: [
+      { name: 'Tama Starclassic Kit', type: 'drums', link: null },
+      { name: 'Meinl Cymbals', type: 'cymbals', link: null },
+      { name: 'Tama Speed Cobra Pedals', type: 'pedals', link: null },
+    ],
+
+    learningTips: [
+      'Practise switching between 6/8 and 4/4 until the transitions feel automatic',
+      'Work on playing the verses with genuine restraint before adding fills',
+      'Keep the ride/tom pattern relaxed and circular rather than stiff',
+      'Listen to the full song repeatedly so you internalise where the lifts belong',
+    ],
+
+    seo: {
+      title: 'Brann Dailor Ghost of Karelia Groove - Mastodon Drum Tutorial | MetalForge',
+      description: "Learn Brann Dailor's hypnotic prog groove from Mastodon's Ghost of Karelia. Video, technique breakdown, and practice tips.",
+      keywords: ['brann dailor', 'ghost of karelia drums', 'mastodon', 'crack the skye', 'progressive metal drumming', 'odd time signatures'],
+    },
+  },
+
+  // ==========================================
+  // MIKE PORTNOY - Dream Theater
+  // ==========================================
+  'mike-portnoy-dance-of-eternity': {
+    slug: 'mike-portnoy-dance-of-eternity',
+    name: 'The Dance of Eternity',
+    shortName: 'Dance of Eternity',
+    drummerId: 13,
+    drummerName: 'Mike Portnoy',
+    drummerSlug: 'mike-portnoy',
+    band: 'Dream Theater',
+    song: 'The Dance of Eternity',
+    album: 'Metropolis Pt. 2: Scenes from a Memory (1999)',
+
+    category: 'signature-pattern',
+    style: 'progressive-metal',
+    difficulty: 'expert',
+    difficultyRating: 5,
+    bpm: 130,
+    bpmDisplay: 'variable (~130 BPM core)',
+    timeSignature: 'over 100 changes',
+
+    description: "\"The Dance of Eternity\" from Dream Theater's 1999 concept album Metropolis Pt. 2: Scenes from a Memory is widely regarded as one of the most demanding pieces of drumming in progressive metal, and it is the track aspiring prog drummers point to when they talk about Mike Portnoy. In a little over six minutes the band runs through more than a hundred time-signature changes, lurching between meters such as 7/16, 15/8, 5/4 and straight 4/4 with almost no repetition, and Portnoy has to navigate every one of them while keeping the music feeling composed rather than chaotic. What makes his performance a masterclass is not just the technical execution but the phrasing: he treats each metric module as its own miniature groove, locking tightly with bassist John Myung and keyboardist Jordan Rudess so the listener feels the pulse even as it constantly mutates. The famous honky-tonk piano breakdown in the middle is a study in tasteful restraint, after which the band slams back into the metric gauntlet. For a developing drummer the value of studying this piece is enormous: it forces you to count and feel odd meters fluently, to transition between them without dropping the pulse, and to memorise long-form arrangements rather than relying on repetition. It also demands serious independence and double-bass control, because many sections layer fast kick patterns under syncopated hand figures. You do not learn \"The Dance of Eternity\" to play it at a gig so much as to rewire how you hear rhythm — after wrestling with it, ordinary odd-time passages start to feel natural. It remains the definitive benchmark for technical prog drumming and the clearest demonstration of why Portnoy is considered one of the most influential drummers of his generation. Even tackling a single page of the chart will sharpen your reading, your counting and your patience more than months of comfortable practice, which is exactly why so many serious drummers treat it as a personal milestone to conquer.",
+
+    techniques: ['odd-time-signatures', 'fill-techniques', 'double-bass'],
+    techniqueDetails: [
+      'Treat each metric module (7/16, 15/8, 5/4, 4/4) as its own miniature groove and learn them one at a time',
+      'Count or subdivide each section out loud until the transitions stop dropping the pulse',
+      'Lock tightly with the bass and keyboard so the constantly shifting meter still feels grounded',
+      'Build the double-bass independence needed to play fast kick patterns under syncopated hands',
+      'Memorise the long-form arrangement rather than relying on repeated sections to find your place',
+    ],
+
+    tutorial: {
+      youtubeId: 'TQiaK0Mc-38',
+      startTime: 0,
+      title: 'Mike Portnoy Plays THE DANCE OF ETERNITY on Drumeo',
+      description: "Mike Portnoy plays The Dance of Eternity",
+    },
+
+    gearUsed: [
+      { name: 'Tama Starclassic Kit', type: 'drums', link: null },
+      { name: 'Sabian Cymbals', type: 'cymbals', link: null },
+      { name: 'Tama Iron Cobra Pedals', type: 'pedals', link: null },
+    ],
+
+    learningTips: [
+      'Drill each time signature in isolation before stringing the sections together',
+      'Use a metronome that can subdivide odd meters to check your counting',
+      'Practise the double-bass sections hands-and-feet separately first',
+      'Be patient — this piece is learned over weeks, not in a single session',
+    ],
+
+    seo: {
+      title: 'Mike Portnoy Dance of Eternity - Dream Theater Drum Tutorial | MetalForge',
+      description: "Learn Mike Portnoy's legendary drumming on Dream Theater's The Dance of Eternity. Video, technique breakdown, and practice tips.",
+      keywords: ['mike portnoy', 'dance of eternity drums', 'dream theater', 'scenes from a memory', 'odd time signatures', 'progressive metal drumming'],
+    },
+  },
+
+  'mike-portnoy-pull-me-under-groove': {
+    slug: 'mike-portnoy-pull-me-under-groove',
+    name: 'Pull Me Under Groove & Fills',
+    shortName: 'Pull Me Under',
+    drummerId: 13,
+    drummerName: 'Mike Portnoy',
+    drummerSlug: 'mike-portnoy',
+    band: 'Dream Theater',
+    song: 'Pull Me Under',
+    album: 'Images and Words (1992)',
+
+    category: 'signature-groove',
+    style: 'progressive-metal',
+    difficulty: 'advanced',
+    difficultyRating: 4,
+    bpm: 130,
+    bpmDisplay: '~130 BPM',
+    timeSignature: '4/4 (with odd-meter sections)',
+
+    description: "\"Pull Me Under\" is the song that put Dream Theater on the map, the breakout single from their 1992 album Images and Words, and Mike Portnoy himself has called it the track that opened every door for the band. For a piece that became their most recognisable radio moment, it is a surprisingly rich study in dynamic, song-serving drumming. Portnoy spends the verses laying down a patient, atmospheric groove, riding the toms and hi-hat with restraint so the vocal and clean guitar can carry the mood, then opens the kit up as the song builds toward its heavier choruses and the extended instrumental sections. What developing drummers learn from this part is the art of the build: he does not blast from the first bar but instead reserves his power, adding intensity and busier fills only as the arrangement climbs, so the payoff lands hard. The song also slips into odd-meter passages during the instrumental break, where Portnoy navigates the shifting subdivisions while keeping the groove locked with the rest of the band. His fills here are tasteful and melodic, often built from flowing tom phrases that signal section changes rather than gratuitous flurries. Because the tempo sits in a comfortable mid-range around 130 BPM, the technical demands are less about raw speed and more about feel, dynamics and arrangement awareness — which makes it an ideal entry point into Portnoy's catalogue for players not yet ready for \"The Dance of Eternity.\" Studying \"Pull Me Under\" teaches you to serve the song, to build intensity across an arrangement, and to drop tasteful fills that move the music forward. It is a reminder that even the most technical drummers earn their reputation first by playing musically. Master the way Portnoy holds back and then releases across this arrangement and you will carry that sense of pacing into every song you play, because knowing when to give the music room is a skill that never stops paying off.",
+
+    techniques: ['groove-drumming', 'fill-techniques', 'odd-time-signatures'],
+    techniqueDetails: [
+      'Lay a patient, atmospheric tom-and-hi-hat groove in the verses with deliberate restraint',
+      'Reserve your power — add intensity and busier fills only as the arrangement climbs',
+      'Navigate the odd-meter instrumental sections while keeping the groove locked to the band',
+      'Use flowing melodic tom fills to signal section changes rather than to show off',
+      'Open the kit up into the choruses so the dynamic payoff lands hard',
+    ],
+
+    tutorial: {
+      youtubeId: 'lKo-4rpWGSw',
+      startTime: 0,
+      title: 'The Iconic Drumming Behind "Pull Me Under" | Dream Theater',
+      description: "Mike Portnoy breaks down and plays Pull Me Under",
+    },
+
+    gearUsed: [
+      { name: 'Tama Starclassic Kit', type: 'drums', link: null },
+      { name: 'Sabian Cymbals', type: 'cymbals', link: null },
+      { name: 'Tama Iron Cobra Pedals', type: 'pedals', link: null },
+    ],
+
+    learningTips: [
+      'Focus on dynamics — keep the verses genuinely restrained for contrast',
+      'Map out where the song builds so your intensity rises with the arrangement',
+      'Practise the odd-meter break slowly until the subdivisions feel natural',
+      'Play along with the record to internalise the song-serving phrasing',
+    ],
+
+    seo: {
+      title: 'Mike Portnoy Pull Me Under - Dream Theater Drum Tutorial | MetalForge',
+      description: "Learn Mike Portnoy's dynamic groove and fills from Dream Theater's breakout hit Pull Me Under. Video, technique breakdown, and practice tips.",
+      keywords: ['mike portnoy', 'pull me under drums', 'dream theater', 'images and words', 'progressive metal drumming', 'drum dynamics'],
+    },
+  },
+
+  'mike-portnoy-panic-attack-double-bass': {
+    slug: 'mike-portnoy-panic-attack-double-bass',
+    name: 'Panic Attack Double Bass Assault',
+    shortName: 'Panic Attack',
+    drummerId: 13,
+    drummerName: 'Mike Portnoy',
+    drummerSlug: 'mike-portnoy',
+    band: 'Dream Theater',
+    song: 'Panic Attack',
+    album: 'Octavarium (2005)',
+
+    category: 'signature-pattern',
+    style: 'progressive-metal',
+    difficulty: 'expert',
+    difficultyRating: 5,
+    bpm: 175,
+    bpmDisplay: '~175 BPM',
+    timeSignature: '4/4 (with odd-meter riffs)',
+
+    description: "\"Panic Attack\" from Dream Theater's 2005 album Octavarium opens with one of the most recognisable double-bass introductions in modern progressive metal, and it showcases the heavier, more aggressive side of Mike Portnoy's playing. The track begins with a relentless wall of sixteenth-note kick drums under a driving guitar riff, and Portnoy has to sustain that double-bass intensity while accenting the riff's rhythmic hits with his hands. It is a demanding feat of foot endurance and coordination: the legs have to keep a fast, even stream of notes flowing while the upper body locks in syncopated crashes and snare accents that punch alongside the guitar. As the song develops it moves through several riff-based sections, some in straight four and others in odd groupings, and Portnoy threads his powerful fills through the transitions to keep the momentum surging. What makes the part such a valuable study is the combination of stamina, precision and groove — fast double bass is easy to play sloppily, but here every kick note has to be even and articulate or the riff loses its menace. Developing drummers who tackle this song build serious foot technique, learning to keep the ankles relaxed so the pedals rebound naturally rather than fighting the beater, and to coordinate driving feet with accented hands. The tempo around 175 BPM leaves no room for tension, so it is also a lesson in playing fast while staying loose. Studying \"Panic Attack\" pushes your double-bass endurance, your hand-foot coordination and your ability to lock heavy accents to a riff at speed. It is the perfect counterpart to Portnoy's more cerebral odd-time epics, proving he can deliver pure aggressive power when the song demands it. If your double bass tends to fall apart at speed, this intro is the ideal diagnostic: get it sounding even and confident here and the technique will hold up across almost anything else in the metal repertoire.",
+
+    techniques: ['double-bass', 'odd-time-signatures', 'fill-techniques'],
+    techniqueDetails: [
+      'Sustain an even stream of sixteenth-note double bass under the opening riff at tempo',
+      'Lock syncopated crash and snare accents to the guitar hits with the hands while the feet keep driving',
+      'Keep the ankles relaxed so the pedals rebound naturally rather than fighting the beater',
+      'Thread powerful fills through the section transitions without dropping the double-bass momentum',
+      'Stay loose at ~175 BPM — tension is the enemy of clean, fast feet',
+    ],
+
+    tutorial: {
+      youtubeId: 'oa7oOdYPOSk',
+      startTime: 0,
+      title: 'Mike Portnoy Plays "Panic Attack" | Dream Theater',
+      description: "Mike Portnoy plays Panic Attack",
+    },
+
+    gearUsed: [
+      { name: 'Tama Starclassic Kit', type: 'drums', link: null },
+      { name: 'Sabian Cymbals', type: 'cymbals', link: null },
+      { name: 'Tama Iron Cobra Pedals', type: 'pedals', link: null },
+    ],
+
+    learningTips: [
+      'Build double-bass endurance with long, slow, even foot exercises before tackling tempo',
+      'Practise the hands and feet separately, then combine them slowly',
+      'Use a metronome and only push the tempo when every kick note is even',
+      'Take breaks — sustained fast double bass is physically demanding on the legs',
+    ],
+
+    seo: {
+      title: 'Mike Portnoy Panic Attack Double Bass - Dream Theater Drum Tutorial | MetalForge',
+      description: "Learn Mike Portnoy's relentless double-bass assault from Dream Theater's Panic Attack. Video, technique breakdown, and practice tips.",
+      keywords: ['mike portnoy', 'panic attack drums', 'dream theater', 'octavarium album', 'double bass tutorial', 'progressive metal drumming'],
+    },
+  },
+
+  // ==========================================
+  // ELOY CASAGRANDE - Sepultura
+  // ==========================================
+  'eloy-casagrande-means-to-an-end-groove': {
+    slug: 'eloy-casagrande-means-to-an-end-groove',
+    name: 'Means To An End Groove',
+    shortName: 'Means To An End',
+    drummerId: 7,
+    drummerName: 'Eloy Casagrande',
+    drummerSlug: 'eloy-casagrande',
+    band: 'Sepultura',
+    song: 'Means To An End',
+    album: 'Quadra (2020)',
+
+    category: 'signature-groove',
+    style: 'groove-metal',
+    difficulty: 'advanced',
+    difficultyRating: 4,
+    bpm: 160,
+    bpmDisplay: '~160 BPM',
+    timeSignature: '4/4',
+
+    description: "\"Means To An End\" is one of the standout singles from Sepultura's 2020 album Quadra, and the drum cam Eloy Casagrande released for it became a viral demonstration of modern groove-metal drumming. Casagrande, who later joined Slipknot, built his reputation on a rare combination of brute power and surgical precision, and this track puts both on display. The groove is anchored by a driving mid-tempo riff, and rather than simply backing it Casagrande locks his kick drum tightly to the guitar's rhythmic accents, creating that signature Sepultura sense of two instruments moving as one. Over the top he layers crisp, controlled fills and tasteful double-bass runs that fill the gaps without cluttering the pocket. What makes the part instructive is the discipline behind the flash: even his fastest figures are played with even dynamics and immaculate timing, so the groove never loses its weight. The verses sit in a tight pocket that demands relaxed wrists and a strong backbeat, while the heavier sections open into bursts of double bass and syncopated accents that lock the whole band together. For developing drummers the lesson is in marrying power with control — Casagrande hits hard but never sacrifices timing or evenness, which is exactly what separates a great groove-metal drummer from a merely loud one. Studying this song builds your ability to lock kick patterns to a riff, to drop clean fills inside a tight pocket, and to deploy double bass as an accent rather than a constant. It is a perfect modern example of how the Sepultura groove tradition has evolved, and a showcase of why Casagrande is considered one of the most exciting metal drummers of his generation. The biggest takeaway is that controlled power always reads as heavier than uncontrolled speed, so chasing evenness and timing here will make every groove you play hit noticeably harder.",
+
+    techniques: ['double-bass', 'groove-drumming', 'fill-techniques'],
+    techniqueDetails: [
+      'Lock the kick drum tightly to the guitar riff so drums and guitar move as one',
+      'Hold a tight verse pocket with relaxed wrists and a strong, consistent backbeat',
+      'Drop clean, evenly-played fills into the gaps without cluttering the groove',
+      'Deploy double-bass bursts as accents in the heavier sections rather than running them constantly',
+      'Keep every fast figure even in dynamics so the groove never loses its weight',
+    ],
+
+    tutorial: {
+      youtubeId: 'dQe3EwkPcFU',
+      startTime: 0,
+      title: '[Drum Cam] Eloy Casagrande - Means To An End (Sepultura)',
+      description: "Eloy Casagrande drum cam of Means To An End",
+    },
+
+    gearUsed: [
+      { name: 'Tama Starclassic Kit', type: 'drums', link: null },
+      { name: 'Paiste Cymbals', type: 'cymbals', link: null },
+      { name: 'Tama Speed Cobra Pedals', type: 'pedals', link: null },
+    ],
+
+    learningTips: [
+      'Practise locking the kick to a riff with a metronome before adding fills',
+      'Keep your wrists loose so the backbeat stays powerful but relaxed',
+      'Work double-bass bursts slowly for evenness before using them as accents',
+      'Record yourself to confirm the pocket stays tight under the busier figures',
+    ],
+
+    seo: {
+      title: 'Eloy Casagrande Means To An End Groove - Sepultura Drum Tutorial | MetalForge',
+      description: "Learn Eloy Casagrande's powerful groove from Sepultura's Means To An End. Video, technique breakdown, and practice tips.",
+      keywords: ['eloy casagrande', 'means to an end drums', 'sepultura', 'quadra album', 'groove metal drumming', 'double bass tutorial'],
+    },
+  },
+
+  'eloy-casagrande-isolation-blast': {
+    slug: 'eloy-casagrande-isolation-blast',
+    name: 'Isolation Blast & Double Bass',
+    shortName: 'Isolation',
+    drummerId: 7,
+    drummerName: 'Eloy Casagrande',
+    drummerSlug: 'eloy-casagrande',
+    band: 'Sepultura',
+    song: 'Isolation',
+    album: 'Quadra (2020)',
+
+    category: 'blast-section',
+    style: 'groove-metal',
+    difficulty: 'expert',
+    difficultyRating: 5,
+    bpm: 190,
+    bpmDisplay: '~190 BPM',
+    timeSignature: '4/4',
+
+    description: "\"Isolation,\" another highlight from Sepultura's 2020 record Quadra, is the song Eloy Casagrande uses to show off the extreme-metal end of his vocabulary, and the official drum cam for it is a clinic in controlled aggression. Where \"Means To An End\" lives in a mid-tempo pocket, \"Isolation\" pushes into faster, more violent territory, blending blast-beat sections with relentless double bass and the tight, riff-locked grooves that define Sepultura. Casagrande moves fluidly between these gears: one moment he is riding a thrash-style groove with the kick glued to the guitar, the next he drops into a blast section where hands and feet interlock at high speed, then he surges out with a double-bass run that drives the band forward. What makes this such a valuable study is the transitions — the hardest part of extreme metal is not any single pattern but moving cleanly between feels without dropping tempo or letting the dynamics collapse. His blast beats are notably even and articulate, never a smeared wash, and his double bass stays clean even at speed because he keeps his legs relaxed and lets the pedals do the work. For developing drummers the song builds blast-beat coordination, double-bass stamina, and the ability to switch between groove and extreme feels mid-song while staying locked to the band. It also teaches articulation under pressure: at roughly 190 BPM there is no room for tension, so every limb has to stay loose and precise. Studying \"Isolation\" rounds out the picture of Casagrande as a complete modern metal drummer — equally at home in a heavy pocket or a full-throttle blast — and explains why bands at the very top of the genre have sought him out. Treat the gear changes as their own practice exercise, looping just the bars on either side of each transition, and the whole song will quickly feel less like a sprint and more like a series of grooves you can actually breathe through.",
+
+    techniques: ['blast-beat', 'double-bass', 'groove-drumming'],
+    techniqueDetails: [
+      'Interlock hands and feet cleanly in the blast sections so the beat stays articulate, not a smeared wash',
+      'Keep the double-bass runs even by staying relaxed and letting the pedals rebound',
+      'Glue the kick to the guitar in the thrash-style groove sections',
+      'Practise the transitions between groove, blast and double-bass feels without dropping tempo',
+      'Stay loose at ~190 BPM so dynamics hold up under the speed',
+    ],
+
+    tutorial: {
+      youtubeId: 'MyXvmX0BXlM',
+      startTime: 0,
+      title: '[Drum Cam] Eloy Casagrande - Isolation (Sepultura)',
+      description: "Eloy Casagrande drum cam of Isolation",
+    },
+
+    gearUsed: [
+      { name: 'Tama Starclassic Kit', type: 'drums', link: null },
+      { name: 'Paiste Cymbals', type: 'cymbals', link: null },
+      { name: 'Tama Speed Cobra Pedals', type: 'pedals', link: null },
+    ],
+
+    learningTips: [
+      'Drill blast-beat coordination slowly until hands and feet interlock cleanly',
+      'Build double-bass stamina with long even runs before pushing the tempo',
+      'Practise the feel transitions in isolation so they stay tight in the full song',
+      'Keep every limb relaxed at speed — tension kills both speed and articulation',
+    ],
+
+    seo: {
+      title: 'Eloy Casagrande Isolation Blast - Sepultura Drum Tutorial | MetalForge',
+      description: "Learn Eloy Casagrande's blast beats and double bass from Sepultura's Isolation. Video, technique breakdown, and practice tips.",
+      keywords: ['eloy casagrande', 'isolation drums', 'sepultura', 'quadra album', 'blast beat tutorial', 'extreme metal drumming'],
+    },
+  },
+
+  'eloy-casagrande-arise-double-bass': {
+    slug: 'eloy-casagrande-arise-double-bass',
+    name: 'Arise Double Bass Drive',
+    shortName: 'Arise',
+    drummerId: 7,
+    drummerName: 'Eloy Casagrande',
+    drummerSlug: 'eloy-casagrande',
+    band: 'Sepultura',
+    song: 'Arise',
+    album: 'Arise (1991)',
+
+    category: 'signature-groove',
+    style: 'thrash-metal',
+    difficulty: 'advanced',
+    difficultyRating: 4,
+    bpm: 180,
+    bpmDisplay: '~180 BPM',
+    timeSignature: '4/4',
+
+    description: "\"Arise\" is the title track of Sepultura's classic 1991 thrash record, originally drummed by Igor Cavalera, and when Eloy Casagrande recorded his playthrough of it he was both honouring that legacy and stamping it with his own precision. The song is a thrash-metal benchmark: a driving, mid-to-fast tempo built on a half-time chorus groove and verses that lean into double bass and tight, riff-locked snare work. Casagrande's reading of it is a lesson in how a modern player can respect a classic part while elevating its execution — his timing is razor-sharp, his double bass is cleaner and more even than the era's recordings allowed, and his grooves sit perfectly in the pocket. The iconic half-time chorus, where the snare lands heavy on beat three over a churning riff, is one of thrash's great head-bang moments, and learning to make it feel as massive as Casagrande does is all about commitment and backbeat strength. The verses move into faster double-bass-driven patterns that demand both stamina and articulation. What developing drummers gain from studying this track is a foundation in thrash drumming: the half-time-to-double-time feel changes, the locked kick-and-riff relationship, and the disciplined double bass that powers the genre. Because the song is a relatively straightforward 4/4, the challenge is less about complexity and more about feel, power and consistency over a sustained run. Studying \"Arise\" builds your thrash vocabulary, your double-bass endurance, and your sense of how to make a heavy groove feel genuinely heavy through dynamics and commitment rather than speed alone. It is a rite of passage for any metal drummer and a chance to learn from how a top modern player approaches a foundational classic. Comparing Casagrande's reading against Igor Cavalera's original is a lesson in itself, showing how the same iconic part can be honoured note-for-note while still being sharpened by decades of evolved technique and recording clarity.",
+
+    techniques: ['double-bass', 'groove-drumming', 'fill-techniques'],
+    techniqueDetails: [
+      'Commit fully to the half-time chorus, landing a heavy snare on beat three over the riff',
+      'Drive the verses with clean, even double-bass patterns locked to the guitar',
+      'Nail the half-time-to-double-time feel changes so each section hits with the right weight',
+      'Build double-bass endurance to sustain the drive through the full song at ~180 BPM',
+      'Use power and dynamics, not just speed, to make the groove feel genuinely heavy',
+    ],
+
+    tutorial: {
+      youtubeId: 'ZRSM24T9iVI',
+      startTime: 0,
+      title: 'ARISE - SEPULTURA (DRUM PLAYTHROUGH)',
+      description: "Eloy Casagrande drum playthrough of Arise",
+    },
+
+    gearUsed: [
+      { name: 'Tama Starclassic Kit', type: 'drums', link: null },
+      { name: 'Paiste Cymbals', type: 'cymbals', link: null },
+      { name: 'Tama Speed Cobra Pedals', type: 'pedals', link: null },
+    ],
+
+    learningTips: [
+      'Practise the half-time chorus with full commitment so the backbeat feels massive',
+      'Work the double-bass verses slowly for evenness before reaching full tempo',
+      'Drill the feel changes between half-time and double-time sections',
+      'Play along with both the original and the playthrough to compare feel and execution',
+    ],
+
+    seo: {
+      title: 'Eloy Casagrande Arise Double Bass - Sepultura Drum Tutorial | MetalForge',
+      description: "Learn the thrash drive of Sepultura's Arise through Eloy Casagrande's playthrough. Video, technique breakdown, and practice tips.",
+      keywords: ['eloy casagrande', 'arise drums', 'sepultura', 'arise album', 'thrash metal drumming', 'double bass tutorial'],
+    },
+  },
 };
 
 // ==========================================

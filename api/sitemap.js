@@ -254,6 +254,18 @@ const signatureLicksPages = [
   { drummerSlug: 'jaska-raatikainen', lickSlug: 'jaska-raatikainen-sixpounder-double-bass', name: 'Sixpounder Double Bass Drive' },
   { drummerSlug: 'jaska-raatikainen', lickSlug: 'jaska-raatikainen-lake-bodom-fills', name: 'Lake Bodom Driving Fills' },
   { drummerSlug: 'jaska-raatikainen', lickSlug: 'jaska-raatikainen-hate-crew-deathroll-blast', name: 'Hate Crew Deathroll Double-Bass Assault' },
+  // Brann Dailor licks (#1014)
+  { drummerSlug: 'brann-dailor', lickSlug: 'brann-dailor-blood-and-thunder-groove', name: 'Blood and Thunder Lead Groove' },
+  { drummerSlug: 'brann-dailor', lickSlug: 'brann-dailor-hearts-alive-fills', name: 'Hearts Alive Melodic Fills' },
+  { drummerSlug: 'brann-dailor', lickSlug: 'brann-dailor-ghost-of-karelia-groove', name: 'Ghost of Karelia Prog Groove' },
+  // Mike Portnoy licks (#1014)
+  { drummerSlug: 'mike-portnoy', lickSlug: 'mike-portnoy-dance-of-eternity', name: 'The Dance of Eternity' },
+  { drummerSlug: 'mike-portnoy', lickSlug: 'mike-portnoy-pull-me-under-groove', name: 'Pull Me Under Groove & Fills' },
+  { drummerSlug: 'mike-portnoy', lickSlug: 'mike-portnoy-panic-attack-double-bass', name: 'Panic Attack Double Bass Assault' },
+  // Eloy Casagrande licks (#1014)
+  { drummerSlug: 'eloy-casagrande', lickSlug: 'eloy-casagrande-means-to-an-end-groove', name: 'Means To An End Groove' },
+  { drummerSlug: 'eloy-casagrande', lickSlug: 'eloy-casagrande-isolation-blast', name: 'Isolation Blast & Double Bass' },
+  { drummerSlug: 'eloy-casagrande', lickSlug: 'eloy-casagrande-arise-double-bass', name: 'Arise Double Bass Drive' },
 ];
 
 // Drummers with licks hub pages
@@ -265,6 +277,9 @@ const drummerLicksHubs = [
   { drummerSlug: 'mario-duplantier', name: 'Mario Duplantier' },
   { drummerSlug: 'matt-garstka', name: 'Matt Garstka' },
   { drummerSlug: 'jaska-raatikainen', name: 'Jaska Raatikainen' },
+  { drummerSlug: 'brann-dailor', name: 'Brann Dailor' },
+  { drummerSlug: 'mike-portnoy', name: 'Mike Portnoy' },
+  { drummerSlug: 'eloy-casagrande', name: 'Eloy Casagrande' },
 ];
 
 // Issue #802: Endorsement Tracker pages

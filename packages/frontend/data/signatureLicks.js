@@ -1351,11 +1351,17 @@ export function generateLickSchema(lick) {
           "@type": "HowToTool",
           "name": g.name,
         })),
-        "step": lick.learningTips.map((tip, index) => ({
+        // HowTo steps describe how to play the lick — source them from the
+        // technique breakdown (techniqueDetails) per #1010, falling back to
+        // learningTips for older entries that predate techniqueDetails.
+        "step": ((lick.techniqueDetails && lick.techniqueDetails.length)
+          ? lick.techniqueDetails
+          : (lick.learningTips || [])
+        ).map((text, index) => ({
           "@type": "HowToStep",
           "position": index + 1,
           "name": `Step ${index + 1}`,
-          "text": tip,
+          "text": text,
         })),
         "supply": lick.techniques.map(t => ({
           "@type": "HowToSupply",

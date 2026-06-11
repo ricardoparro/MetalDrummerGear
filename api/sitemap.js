@@ -301,6 +301,30 @@ for (const drummerSlug of priorityDrummersForGearPages) {
   }
 }
 
+// Issue #1021 (split 3/4 of #1017): LLM-facing Markdown surface.
+// Static files live in public/llms/*.md and public/llms/drummers/<slug>.md.
+// Listing them in the sitemap makes them crawlable, not just discoverable
+// via prose links in llms.txt. Per-drummer slugs mirror the committed files
+// in public/llms/drummers/ (61 profiles).
+const llmsDrummerSlugs = [
+  'abe-cunningham', 'alex-bent', 'aquiles-priester', 'arin-ilejay',
+  'art-cruz', 'ben-koller', 'bill-ward', 'blake-richardson',
+  'brann-dailor', 'charlie-benante', 'chris-adler', 'chris-turner',
+  'daniel-erlandsson', 'danny-carey', 'daray', 'dave-lombardo',
+  'derek-roddy', 'dirk-verbeuren', 'eloy-casagrande', 'flo-mounier',
+  'frost', 'gavin-harrison', 'gene-hoglan', 'george-kollias',
+  'hannes-grossmann', 'hellhammer', 'igor-cavalera', 'inferno',
+  'isaac-lamb', 'jaska-raatikainen', 'jason-bittner', 'jay-weinberg',
+  'jocke-wallgren', 'joey-jordison', 'john-otto', 'kevin-talley',
+  'lars-ulrich', 'mario-duplantier', 'martin-lopez', 'matt-garstka',
+  'matt-greiner', 'matt-halpern', 'mike-mangini', 'mike-portnoy',
+  'mikkey-dee', 'morgan-gren', 'navene-koperweis', 'nick-augusto',
+  'nicko-mcbrain', 'paul-mazurkiewicz', 'pete-sandoval', 'ray-luzier',
+  'raymond-herrera', 'richard-christy', 'ryan-van-poederooyen', 'scott-travis',
+  'shannon-larkin', 'tim-yeung', 'tomas-haake', 'travis-orbin',
+  'vinnie-paul',
+];
+
 const BASE_URL = 'https://metalforge.io';
 
 function generateSlug(name) {
@@ -411,6 +435,12 @@ export default function handler(req, res) {
     ...gearPriceHistoryDrummers.map(slug => ({ loc: `/drummers/${slug}/gear-history`, priority: '0.9', changefreq: 'monthly' })),
     // Issue #871/#997: gear/series "drummers-using" SEO pages (≥2 drummers each)
     ...getGearSeriesUrls().map(loc => ({ loc, priority: '0.8', changefreq: 'monthly' })),
+    // Issue #1021 (split 3/4 of #1017): LLM-facing Markdown surface (public/llms/*.md).
+    { loc: '/llms/index.md', priority: '0.6', changefreq: 'monthly' },
+    { loc: '/llms/faq.md', priority: '0.6', changefreq: 'monthly' },
+    { loc: '/llms/gear-guide.md', priority: '0.6', changefreq: 'monthly' },
+    // Per-drummer Markdown profiles — low priority, full crawl coverage.
+    ...llmsDrummerSlugs.map(slug => ({ loc: `/llms/drummers/${slug}.md`, priority: '0.4', changefreq: 'monthly' })),
   ];
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">

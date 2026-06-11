@@ -246,6 +246,14 @@ const signatureLicksPages = [
   { drummerSlug: 'mario-duplantier', lickSlug: 'mario-duplantier-polyrhythmic-groove', name: 'Gojira Polyrhythmic Groove' },
   { drummerSlug: 'mario-duplantier', lickSlug: 'mario-duplantier-blast-variation', name: 'Gojira Blast Variation' },
   { drummerSlug: 'mario-duplantier', lickSlug: 'mario-duplantier-backbone-groove', name: 'Backbone Main Groove' },
+  // Matt Garstka licks (#1011)
+  { drummerSlug: 'matt-garstka', lickSlug: 'matt-garstka-monomyth-polyrhythm', name: 'Monomyth Polyrhythmic Groove' },
+  { drummerSlug: 'matt-garstka', lickSlug: 'matt-garstka-woven-web-linear', name: 'The Woven Web Linear Groove' },
+  { drummerSlug: 'matt-garstka', lickSlug: 'matt-garstka-tempting-time-groove', name: 'Tempting Time Odd-Meter Groove' },
+  // Jaska Raatikainen licks (#1011)
+  { drummerSlug: 'jaska-raatikainen', lickSlug: 'jaska-raatikainen-sixpounder-double-bass', name: 'Sixpounder Double Bass Drive' },
+  { drummerSlug: 'jaska-raatikainen', lickSlug: 'jaska-raatikainen-lake-bodom-fills', name: 'Lake Bodom Driving Fills' },
+  { drummerSlug: 'jaska-raatikainen', lickSlug: 'jaska-raatikainen-hate-crew-deathroll-blast', name: 'Hate Crew Deathroll Double-Bass Assault' },
 ];
 
 // Drummers with licks hub pages
@@ -255,6 +263,8 @@ const drummerLicksHubs = [
   { drummerSlug: 'dave-lombardo', name: 'Dave Lombardo' },
   { drummerSlug: 'george-kollias', name: 'George Kollias' },
   { drummerSlug: 'mario-duplantier', name: 'Mario Duplantier' },
+  { drummerSlug: 'matt-garstka', name: 'Matt Garstka' },
+  { drummerSlug: 'jaska-raatikainen', name: 'Jaska Raatikainen' },
 ];
 
 // Issue #802: Endorsement Tracker pages

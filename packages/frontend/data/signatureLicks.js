@@ -865,6 +865,354 @@ export const SIGNATURE_LICKS = {
       keywords: ['backbone drums', 'mario duplantier groove', 'gojira drum lesson', 'heavy groove tutorial'],
     },
   },
+
+  // ==========================================
+  // MATT GARSTKA - Animals as Leaders (#1011, split 2/5 of #1008)
+  // ==========================================
+  'matt-garstka-monomyth-polyrhythm': {
+    slug: 'matt-garstka-monomyth-polyrhythm',
+    name: 'Monomyth Polyrhythmic Groove',
+    shortName: 'Monomyth Groove',
+    drummerId: 53,
+    drummerName: 'Matt Garstka',
+    drummerSlug: 'matt-garstka',
+    band: 'Animals as Leaders',
+    song: 'Monomyth',
+    album: 'The Joy of Motion (2014)',
+
+    category: 'signature-pattern',
+    style: 'progressive-metal',
+    difficulty: 'expert',
+    difficultyRating: 5,
+    bpm: 140,
+    bpmDisplay: '~140 BPM',
+    timeSignature: '4/4 (with superimposed groupings)',
+
+    description: "\"Monomyth\" is the centerpiece of Animals as Leaders' 2014 record The Joy of Motion, and Matt Garstka's drumming on it is one of the clearest modern examples of how to make polyrhythm feel like groove rather than a math exercise. Over Tosin Abasi and Javier Reyes' eight-string riffing, Garstka superimposes phrases grouped in fives and sevens on top of a steady quarter-note pulse, so the kick and snare keep landing in surprising-but-locked places against the guitars. What makes it work musically is his ghost-note vocabulary: the space between the loud backbeats is filled with quiet left-hand strokes and buzzed accents that he learned from jazz and gospel-chops players, which keeps the polyrhythmic figures sounding fluid and human instead of robotic. Drummers who internalise even a single section come away with a sharper sense of subdivision and a more confident relationship to the click, because the song forces you to keep an unwavering pulse while your accents roam freely on top of it — a skill that pays off across every style, not just progressive metal. The track moves through several feels, opening with a syncopated linear pattern that shares notes between hands and feet, settling into the main groove where the displaced backbeat lives, and then opening up into more ambient, dynamic sections where Garstka pulls right back to brushes-and-whispers volume before slamming back in. For developing drummers it is a masterclass in independence and dynamic control: the limbs are doing four different things, yet the overall feel is relaxed and danceable. Learning even four bars of it forces you to internalise odd groupings, count a stable pulse underneath shifting accents, and play ghost notes cleanly at speed. It is also the perfect bridge between the worlds of progressive metal and jazz fusion, which is exactly why Garstka is regarded as one of the most influential drummers of his generation.",
+
+    techniques: ['polyrhythms', 'linear-drumming', 'odd-time-signatures'],
+    techniqueDetails: [
+      'Lock a steady quarter-note pulse with the hi-hat foot or ride so the superimposed groupings have a reference',
+      'Group the main figure in fives against the quarter-note pulse, counting "1-2-3-4-5" out loud until it resolves',
+      'Drop quiet ghost notes between the accented backbeats to keep the groove fluid rather than mechanical',
+      'Pull the dynamics right back in the ambient sections, then re-enter at full volume on the downbeat',
+      'Only add the displaced kick pattern once hands and pulse are locked together',
+    ],
+
+    tutorial: {
+      youtubeId: '-xUqa6pYqnY',
+      startTime: 0,
+      title: 'ANIMALS AS LEADERS - Monomyth (Matt Garstka Drum Playthrough)',
+      description: "Matt Garstka's official drum playthrough of Monomyth",
+    },
+
+    gearUsed: [
+      { name: 'Tama Star Series Kit', type: 'drums', link: null },
+      { name: 'Meinl Byzance Cymbals', type: 'cymbals', link: null },
+      { name: 'Tama Speed Cobra Pedals', type: 'pedals', link: null },
+    ],
+
+    learningTips: [
+      'Practice the five-grouping against a metronome clicking quarter notes before adding anything else',
+      'Sing the guitar riff while you play so the polyrhythm stays anchored to the music',
+      'Work the ghost notes on a practice pad first to get them even and quiet',
+      'Start at 90 BPM and only push tempo once the feel is relaxed, not rushed',
+    ],
+
+    seo: {
+      title: 'Matt Garstka Monomyth Polyrhythm - Animals as Leaders Drum Tutorial | MetalForge',
+      description: "Learn Matt Garstka's polyrhythmic groove from Animals as Leaders' Monomyth. Video playthrough, technique breakdown, and practice tips.",
+      keywords: ['matt garstka', 'monomyth drums', 'animals as leaders', 'polyrhythm tutorial', 'progressive metal drumming', 'the joy of motion'],
+    },
+  },
+
+  'matt-garstka-woven-web-linear': {
+    slug: 'matt-garstka-woven-web-linear',
+    name: 'The Woven Web Linear Groove',
+    shortName: 'Woven Web Groove',
+    drummerId: 53,
+    drummerName: 'Matt Garstka',
+    drummerSlug: 'matt-garstka',
+    band: 'Animals as Leaders',
+    song: 'The Woven Web',
+    album: 'The Joy of Motion (2014)',
+
+    category: 'main-groove',
+    style: 'progressive-metal',
+    difficulty: 'expert',
+    difficultyRating: 5,
+    bpm: 150,
+    bpmDisplay: '~150 BPM',
+    timeSignature: '4/4',
+
+    description: "\"The Woven Web\" from The Joy of Motion (2014) is the track Matt Garstka chose to break down in his widely watched Drumeo session, and it has since become a reference point for anyone studying modern linear drumming. A linear pattern is one where no two limbs strike at the same time — every note is its own event, the hands and feet weaving in and out of each other like a single melodic line spread across the kit. Garstka uses this approach to play fast, flowing sixteenth-note figures that move seamlessly between the snare, toms, hi-hat and kick, creating the illusion of far more notes than are actually being played. Underneath the flash, the groove stays firmly in the pocket: the backbeat is always implied, and the band's djent-style guitar chugs lock to his kick drum so tightly that the riff and the drums read as one rhythmic gesture. The song also showcases his command of dynamics, ghost notes and orchestration around the kit — the way he chooses which drum each note lands on is what turns a technical exercise into a musical phrase. For students, this lick is the ideal gateway into linear playing because Garstka himself demonstrated it slowly and explained the sticking, so the logic behind each move is documented. Building it up teaches limb independence, even sixteenth-note timing, and the discipline of placing every stroke deliberately. It rewards patience: played too fast before the sticking is automatic it falls apart, but once internalised it unlocks a whole vocabulary of fills and grooves that sound impossibly fluid. It is one of the most instructive single tracks in the entire instrumental-progressive-metal catalogue. Spend time with it and you will hear your own fills start to flow more melodically, because the linear approach trains you to think of the kit as one connected instrument rather than a set of separate drums.",
+
+    techniques: ['linear-drumming', 'groove-drumming', 'polyrhythms'],
+    techniqueDetails: [
+      'Map out the sticking so no two limbs ever play at the same time — this is the core of linear playing',
+      'Keep the implied backbeat present even while the notes move around the kit',
+      'Orchestrate the linear figure across snare, toms and hi-hat to turn it into a musical phrase',
+      'Lock the kick drum to the guitar chug so drums and riff read as one rhythm',
+      'Build the pattern one beat at a time at slow tempo before stringing the bars together',
+    ],
+
+    tutorial: {
+      youtubeId: 'bVRNKoodHvQ',
+      startTime: 0,
+      title: 'Matt Garstka - "The Woven Web" By Animals As Leaders (Drumeo)',
+      description: "Matt Garstka's Drumeo breakdown of The Woven Web",
+    },
+
+    gearUsed: [
+      { name: 'Tama Star Series Kit', type: 'drums', link: null },
+      { name: 'Meinl Byzance Cymbals', type: 'cymbals', link: null },
+      { name: 'Tama Speed Cobra Pedals', type: 'pedals', link: null },
+    ],
+
+    learningTips: [
+      'Write out the sticking before you play — linear drumming is a puzzle solved on paper first',
+      'Loop a single beat until the sticking is automatic, then add the next beat',
+      'Practice with a metronome to keep the sixteenth notes perfectly even',
+      'Record yourself and listen back to make sure the backbeat still feels present',
+    ],
+
+    seo: {
+      title: 'Matt Garstka The Woven Web - Linear Drumming Tutorial | MetalForge',
+      description: "Learn Matt Garstka's linear groove from Animals as Leaders' The Woven Web. Drumeo breakdown, sticking guide, and practice tips.",
+      keywords: ['matt garstka', 'the woven web', 'animals as leaders', 'linear drumming tutorial', 'drumeo', 'progressive metal drums'],
+    },
+  },
+
+  'matt-garstka-tempting-time-groove': {
+    slug: 'matt-garstka-tempting-time-groove',
+    name: 'Tempting Time Odd-Meter Groove',
+    shortName: 'Tempting Time',
+    drummerId: 53,
+    drummerName: 'Matt Garstka',
+    drummerSlug: 'matt-garstka',
+    band: 'Animals as Leaders',
+    song: 'Tempting Time',
+    album: 'Animals as Leaders (2009)',
+
+    category: 'signature-pattern',
+    style: 'progressive-metal',
+    difficulty: 'expert',
+    difficultyRating: 5,
+    bpm: 160,
+    bpmDisplay: '~160 BPM',
+    timeSignature: 'mixed (shifting odd meters)',
+
+    description: "\"Tempting Time\" comes from Animals as Leaders' 2009 self-titled debut, and although Navene Koperweis drummed on the original studio recording, Matt Garstka's live and filmed performances of it have become the definitive drumming reference for the song. It is one of the most demanding pieces in the band's catalogue: the eight-string guitar riffs lurch through constantly shifting odd meters and metric modulations, and the drummer's job is to make those jagged subdivisions feel intentional and powerful rather than confusing. Garstka attacks it with aggressive double bass, tightly controlled accents, and a relentless sense of where beat one is, no matter how the riff displaces around him. The track demands fluent counting — bars of seven, five and odd sixteenth-note groupings arrive in quick succession — and the ability to play fast double-kick figures while the hands punctuate the riff with crashes and snare accents. What separates a convincing performance from a sloppy one is dynamic control and consistency: every kick stroke has to speak evenly at speed, and the accents have to land exactly with the guitars or the whole arrangement collapses. For advancing players, learning even a section of \"Tempting Time\" is a complete workout in odd-time reading, double-bass endurance, and locking with a riff that refuses to sit still. It is the kind of piece that exposes any weakness in your time-feel, which is precisely why it has become a rite-of-passage track for modern progressive-metal drummers. Approached patiently, with the riff counted out and the tempo built up gradually, it teaches you to stay calm and grounded inside music that is deliberately trying to throw you off. Few tracks expose a shaky internal clock as ruthlessly, and few reward the work as generously: once it sits comfortably under your hands, almost any other odd-meter metal part will feel approachable by comparison, which is why it endures as a benchmark for the style.",
+
+    techniques: ['odd-time-signatures', 'double-bass', 'fill-techniques'],
+    techniqueDetails: [
+      'Count the shifting meters out loud and mark where beat one lands in every bar',
+      'Play the double-bass figures evenly so every kick stroke speaks at tempo',
+      'Land hand accents exactly with the guitar riff so drums and guitars lock',
+      'Use crashes to punctuate the ends of phrases and reset your internal count',
+      'Loop one odd-meter section until the count is automatic before moving on',
+    ],
+
+    tutorial: {
+      youtubeId: 'SBCvJMUEr9g',
+      startTime: 0,
+      title: 'Animals as Leaders - Tempting Time - Matt Garstka',
+      description: "Matt Garstka performing Tempting Time",
+    },
+
+    gearUsed: [
+      { name: 'Tama Star Series Kit', type: 'drums', link: null },
+      { name: 'Meinl Byzance Cymbals', type: 'cymbals', link: null },
+      { name: 'Tama Speed Cobra Pedals', type: 'pedals', link: null },
+    ],
+
+    learningTips: [
+      'Break the song into its odd-meter sections and master the count of each one separately',
+      'Build double-bass stamina with slow, even foot exercises before attempting full speed',
+      'Tap the guitar rhythm with your hands away from the kit to internalise the accents',
+      'Use a metronome that can subdivide so you never lose beat one in the odd bars',
+    ],
+
+    seo: {
+      title: 'Matt Garstka Tempting Time - Odd-Meter Drum Tutorial | MetalForge',
+      description: "Learn the odd-meter groove from Animals as Leaders' Tempting Time as played by Matt Garstka. Video, technique breakdown, and practice tips.",
+      keywords: ['matt garstka', 'tempting time drums', 'animals as leaders', 'odd time signature tutorial', 'double bass', 'progressive metal drumming'],
+    },
+  },
+
+  // ==========================================
+  // JASKA RAATIKAINEN - Children of Bodom (#1011, split 2/5 of #1008)
+  // ==========================================
+  'jaska-raatikainen-sixpounder-double-bass': {
+    slug: 'jaska-raatikainen-sixpounder-double-bass',
+    name: 'Sixpounder Double Bass Drive',
+    shortName: 'Sixpounder',
+    drummerId: 55,
+    drummerName: 'Jaska Raatikainen',
+    drummerSlug: 'jaska-raatikainen',
+    band: 'Children of Bodom',
+    song: 'Sixpounder',
+    album: 'Hate Crew Deathroll (2003)',
+
+    category: 'main-groove',
+    style: 'melodic-death-metal',
+    difficulty: 'advanced',
+    difficultyRating: 4,
+    bpm: 180,
+    bpmDisplay: '~180 BPM',
+    timeSignature: '4/4',
+
+    description: "\"Sixpounder\" opens Children of Bodom's 2003 album Hate Crew Deathroll and is one of Jaska Raatikainen's most recognisable performances. The record marked a turning point for the band's drumming: Raatikainen leaned harder into double-bass pedalling than on any previous Bodom album, and \"Sixpounder\" is the song where that shift is most obvious. The track rides on a fast, driving foundation — galloping double-kick patterns under Alexi Laiho and Janne Wirman's duelling guitar-and-keyboard leads — while the snare keeps a punchy, on-the-grid backbeat that gives the melodic-death chaos something solid to push against. What makes Raatikainen's playing on it so effective is restraint: rather than blasting constantly, he picks his spots, using sustained double-bass runs to lift the choruses and tight fills to mark the transitions between the neoclassical lead sections. It is a masterclass in supporting a busy, melody-driven band without cluttering the arrangement. For drummers, \"Sixpounder\" is an excellent stamina and coordination study. The double-bass passages demand even, controlled foot technique held over long stretches at high tempo, and the snare backbeat has to stay strong and consistent while the feet do the heavy lifting underneath. Because the song is built on a clear, repeating structure, it is approachable enough to learn in sections, yet fast enough to genuinely build endurance and speed. It also teaches an important musical lesson that defined Children of Bodom's sound — the drums exist to drive the song and frame the melodies, not to dominate them. Working through it develops double-bass control, backbeat consistency, and the judgement to know when to fill and when to lock in and drive. Spend a few weeks with it and you will notice your double-bass endurance and your ability to hold a steady backbeat under fast feet both improve markedly, which is exactly the foundation the rest of the Children of Bodom catalogue is built on.",
+
+    techniques: ['double-bass', 'blast-beat', 'groove-drumming'],
+    techniqueDetails: [
+      'Hold an even, controlled double-bass pattern under the verse without rushing',
+      'Keep the snare backbeat strong and on-grid while the feet carry the drive',
+      'Lift the choruses with sustained double-kick runs rather than constant blasting',
+      'Mark each transition into a lead section with a short, decisive fill',
+      'Build the song in sections so the high-tempo passages develop real stamina',
+    ],
+
+    tutorial: {
+      youtubeId: 'PflWgKFru-4',
+      startTime: 0,
+      title: 'Children of Bodom - Sixpounder',
+      description: 'Reference track for the Sixpounder drum part',
+    },
+
+    gearUsed: [
+      { name: 'Tama Starclassic Kit', type: 'drums', link: null },
+      { name: 'Sabian Cymbals', type: 'cymbals', link: null },
+      { name: 'Tama Iron Cobra Pedals', type: 'pedals', link: null },
+    ],
+
+    learningTips: [
+      'Practise the double-bass pattern slowly with a metronome until both feet are perfectly even',
+      'Build endurance by looping the verse groove for several minutes without stopping',
+      'Keep your ankles relaxed — tension is what makes fast double bass fall apart',
+      'Learn the song in sections and join them once each part is comfortable',
+    ],
+
+    seo: {
+      title: 'Jaska Raatikainen Sixpounder - Double Bass Drum Tutorial | MetalForge',
+      description: "Learn Jaska Raatikainen's driving double-bass groove from Children of Bodom's Sixpounder. Video, technique breakdown, and practice tips.",
+      keywords: ['jaska raatikainen', 'sixpounder drums', 'children of bodom', 'double bass tutorial', 'melodic death metal drumming', 'hate crew deathroll'],
+    },
+  },
+
+  'jaska-raatikainen-lake-bodom-fills': {
+    slug: 'jaska-raatikainen-lake-bodom-fills',
+    name: 'Lake Bodom Driving Fills',
+    shortName: 'Lake Bodom',
+    drummerId: 55,
+    drummerName: 'Jaska Raatikainen',
+    drummerSlug: 'jaska-raatikainen',
+    band: 'Children of Bodom',
+    song: 'Lake Bodom',
+    album: 'Something Wild (1997)',
+
+    category: 'fill',
+    style: 'melodic-death-metal',
+    difficulty: 'advanced',
+    difficultyRating: 4,
+    bpm: 200,
+    bpmDisplay: '~200 BPM',
+    timeSignature: '4/4',
+
+    description: "\"Lake Bodom\" is the opening track of Children of Bodom's 1997 debut Something Wild and the song that introduced the world to the band's signature blend of neoclassical melody and aggressive melodic death metal. Jaska Raatikainen's drumming on it is fast, theatrical and full of momentum — it sets the template for the entire Bodom catalogue. The track is built around driving double-bass verses and a powerful, propulsive feel, punctuated by sharp fills that launch the song from one section to the next. Raatikainen co-founded the band in 1993 alongside the late Alexi Laiho, and his role here is to be the engine: he pushes the tempo, frames Laiho's shred leads and Janne Wirman's keyboard runs, and uses tom fills and crash accents to signal every dramatic turn in the arrangement. The drumcam footage of him performing it live shows just how physical the part is — the fills sweep across the toms with real authority while the feet keep a relentless pulse underneath. For students, \"Lake Bodom\" is a great study in fill vocabulary and transitions: the fills are fast but musical, always landing back on beat one and always serving the song's forward drive rather than showing off. Learning them develops single-stroke speed around the kit, control of dynamics so the fills cut through without flamming, and the timing discipline to place a fill exactly where the arrangement needs a lift. Combined with the double-bass-driven verses, it is a well-rounded workout that captures the youthful energy and precision that made Children of Bodom one of Finland's most influential metal exports. It remains a fan favourite and a benchmark for melodic-death-metal drumming. More than two decades after its release it still functions as a perfect teaching piece, pairing flashy, ear-catching fills with the kind of relentless drive that teaches you to keep the energy up no matter how busy your hands become.",
+
+    techniques: ['fill-techniques', 'double-bass', 'groove-drumming'],
+    techniqueDetails: [
+      'Keep a relentless double-bass pulse driving the verse forward',
+      'Sweep the tom fills cleanly across the kit with even single strokes',
+      'Land every fill back on beat one so the song never loses momentum',
+      'Use crash accents to signal each transition and dramatic turn',
+      'Play the fills musically — fast but always serving the song, not showing off',
+    ],
+
+    tutorial: {
+      youtubeId: 'AgmvOkDqCHI',
+      startTime: 0,
+      title: "Children of Bodom Jaska Raatikainen Drumcam 'Lake Bodom' / Turku, Finland",
+      description: 'Live drumcam of Jaska Raatikainen playing Lake Bodom',
+    },
+
+    gearUsed: [
+      { name: 'Tama Starclassic Kit', type: 'drums', link: null },
+      { name: 'Sabian Cymbals', type: 'cymbals', link: null },
+      { name: 'Tama Iron Cobra Pedals', type: 'pedals', link: null },
+    ],
+
+    learningTips: [
+      'Practise single-stroke fills slowly around the toms before bringing them up to tempo',
+      'Use a metronome and make sure every fill resolves precisely on beat one',
+      'Keep the double-bass pulse steady underneath so the energy never drops',
+      'Watch the live drumcam to see how the fills are orchestrated across the kit',
+    ],
+
+    seo: {
+      title: 'Jaska Raatikainen Lake Bodom - Drum Fill Tutorial | MetalForge',
+      description: "Learn Jaska Raatikainen's driving fills from Children of Bodom's Lake Bodom. Live drumcam, technique breakdown, and practice tips.",
+      keywords: ['jaska raatikainen', 'lake bodom drums', 'children of bodom', 'drum fill tutorial', 'melodic death metal drumming', 'something wild'],
+    },
+  },
+
+  'jaska-raatikainen-hate-crew-deathroll-blast': {
+    slug: 'jaska-raatikainen-hate-crew-deathroll-blast',
+    name: 'Hate Crew Deathroll Double-Bass Assault',
+    shortName: 'Hate Crew Deathroll',
+    drummerId: 55,
+    drummerName: 'Jaska Raatikainen',
+    drummerSlug: 'jaska-raatikainen',
+    band: 'Children of Bodom',
+    song: 'Hate Crew Deathroll',
+    album: 'Hate Crew Deathroll (2003)',
+
+    category: 'signature-pattern',
+    style: 'melodic-death-metal',
+    difficulty: 'advanced',
+    difficultyRating: 4,
+    bpm: 190,
+    bpmDisplay: '~190 BPM',
+    timeSignature: '4/4',
+
+    description: "The title track of Children of Bodom's 2003 album Hate Crew Deathroll is one of Jaska Raatikainen's most aggressive recorded performances and a high point of the band's heaviest, most double-bass-driven era. Where earlier Bodom records leaned on neoclassical flash, Hate Crew Deathroll pushed the rhythm section to the front, and this song is built on relentless, machine-gun double-kick passages that power the verses and choruses alike. Raatikainen drives the track with sustained double-bass runs, sharp blast-influenced sections, and tightly controlled snare work that cuts through the dense guitar-and-keyboard arrangement. The challenge for any drummer attempting it is endurance and evenness: the double-bass figures are fast and long, and they have to stay perfectly consistent while the hands keep the backbeat and accents locked to the riff. It is a song that punishes tension and rewards relaxed, efficient foot technique — the only way to sustain the kick patterns at tempo is to let the pedals do the work rather than fighting them. Musically, it captures the more brutal, hardcore-influenced direction the band took in the mid-2000s, with Raatikainen acting as the relentless engine behind Alexi Laiho's vocals and leads. For advancing players it is a complete double-bass workout that also demands coordination, because the feet never really stop while the hands move between ride, hi-hat, snare and crashes. Working through it slowly and building tempo gradually develops the stamina, evenness and coordination that define extreme-metal drumming, and it pairs naturally with the band's other Hate Crew Deathroll material as a study in how to drive a fast, melody-rich metal song without ever losing the groove. It is a fitting signature for one of melodic death metal's foundational drummers. Master it and you will have one of the most demanding double-bass workouts in the genre sitting comfortably under your feet, ready to carry over into faster, more brutal material whenever you need it.",
+
+    techniques: ['double-bass', 'blast-beat', 'odd-time-signatures'],
+    techniqueDetails: [
+      'Sustain long, even double-bass runs without letting the tempo drift',
+      'Keep the hands locked to the riff with tight snare and accent work',
+      'Stay relaxed and let the pedals rebound — tension kills speed and stamina',
+      'Coordinate ride, hi-hat and crash moves over the constant kick pulse',
+      'Build tempo gradually from a slow, even base to develop real endurance',
+    ],
+
+    tutorial: {
+      youtubeId: 'pLXj-pcZ3EI',
+      startTime: 0,
+      title: 'Jaska Raatikainen (Children of Bodom) - Drum Lesson',
+      description: 'Jaska Raatikainen demonstrating his double-bass technique',
+    },
+
+    gearUsed: [
+      { name: 'Tama Starclassic Kit', type: 'drums', link: null },
+      { name: 'Sabian Cymbals', type: 'cymbals', link: null },
+      { name: 'Tama Iron Cobra Pedals', type: 'pedals', link: null },
+    ],
+
+    learningTips: [
+      'Develop double-bass endurance with long, slow, even foot exercises first',
+      'Keep your legs and ankles relaxed so the pedals rebound on their own',
+      'Practise the hand-and-foot coordination away from full tempo until it is automatic',
+      'Increase the metronome a few BPM at a time rather than jumping to full speed',
+    ],
+
+    seo: {
+      title: 'Jaska Raatikainen Hate Crew Deathroll - Double Bass Drum Tutorial | MetalForge',
+      description: "Learn Jaska Raatikainen's double-bass assault from Children of Bodom's Hate Crew Deathroll title track. Video, technique breakdown, and practice tips.",
+      keywords: ['jaska raatikainen', 'hate crew deathroll drums', 'children of bodom', 'double bass tutorial', 'extreme metal drumming', 'melodic death metal'],
+    },
+  },
 };
 
 // ==========================================

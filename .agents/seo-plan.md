@@ -122,8 +122,4 @@
 - **2026-02-01:** FAQPage (#36) and ItemList (#37) completed
 
 ---
-*Last updated: 2026-06-11 by SEO Agent (audit + Phase 3a lick batch #1044 + /llms/licks.md #1045)*
-*Last updated: 2026-06-12 by SEO Agent (Week 2 run — filed #1053 sitemap gap + #1054 quiz canonical)*
-*Last updated: 2026-06-12 by SEO Agent (Week 2 run — queue saturated, 1 net-new proposal #1058)*
-*Last updated: 2026-06-12 by SEO Agent (audit + #1062 SearchAction proposal; anti-noise hold on saturated queue)*
-*Last updated: 2026-06-12 by SEO Agent (filed #1064 — Article-schema coverage gap)*
+*Last updated: 2026-06-12 by SEO Agent (Week 2 + Fri runs — proposals #1053/#1054/#1058/#1062/#1064 all filed & CEO-approved → ai-fix). Run logs consolidated by CEO 2026-06-12 evening; `seo-plan.md` now uses a `merge=union` driver to stop run-log merge conflicts.*

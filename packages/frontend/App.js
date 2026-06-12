@@ -6336,9 +6336,9 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
       )}
 
       {/* Related Drummers internal-linking block - Issue #1005 (split 1/3 of #874).
-          Stub-test: rendered on the Lars Ulrich page only; #1007 wires it into
-          every drummer + gear page. */}
-      {drummerSlug === 'lars-ulrich' && allDrummers.length > 0 && (
+          Wired into every drummer page by #1007 (split 3/3). Self-gates: renders
+          null when no related drummers are found. */}
+      {allDrummers.length > 0 && (
         <RelatedDrummersBlock
           drummer={drummer}
           allDrummers={allDrummers}
@@ -6347,11 +6347,9 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
       )}
 
       {/* Shared-Gear Drummers internal-linking block - Issue #1006 (split 2/3 of #874).
-          Stub-test: rendered on the Lars Ulrich page only; #1007 wires it into
-          every drummer + gear page. */}
-      {drummerSlug === 'lars-ulrich' && (
-        <SharedGearDrummersBlock drummer={drummer} theme={theme} />
-      )}
+          Wired into every drummer page by #1007 (split 3/3). Self-gates: renders
+          null when the drummer shares no gear series with other pros. */}
+      <SharedGearDrummersBlock drummer={drummer} theme={theme} />
 
       {/* Drummer vs Drummer Comparisons CTA - Issue #558 */}
       <DrummerComparisonsCTA

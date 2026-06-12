@@ -77,6 +77,10 @@
 - 21 drummers currently with bios, gear, videos, endorsements
 
 ## Recent Progress
+- **2026-06-12:** 🔍 **SEO Agent run.** Audit + 1 net-new proposal (anti-noise: queue heavily saturated).
+  - **Audit:** Served `/robots.txt` is the **`api/robots.js`** handler (vercel.json rewrites `/robots.txt → /api/robots`) — all **8 AI crawlers ✅** present there. ⚠️ Two *dead* static robots.txt (`public/robots.txt`, `packages/frontend/web/robots.txt`) drift from the served version but are unreachable (not worth a fix). GSC **still blind** (`GSC_SITE` missing, #910). Live Lighthouse not run (no Chrome in sandbox); fundamentals verified statically. Sitemap healthy — `/drummers`,`/quiz`,`/facts` gaps already covered by open proposals #1051/#1053/#1054.
+  - **Queue saturation:** ~16 open `ai-fix`/`seo-proposal` issues, most filed overnight (06-11/12) covering the obvious wins — SearchAction (#1062), `/llms/articles/*.md` (#1058), quiz canonical (#1054), sitemap adds (#1053), `/facts` (#1051), `/licks` hub (#1042), `/llms/licks.md` (#1045), signature-lick batches (#1012/#1013/#1047-1050), signatureLicks modularization (#1056). Did **not** duplicate any.
+  - **Filed #1064** (`seo-proposal`, net-new, programmatic): **complete #777's Article-schema coverage.** `api/meta/[...path].js` only hardcodes **8** of 60+ `/articles/<slug>` in `ARTICLE_METADATA`; the other **~52** (incl. top-10 GA4 page `/articles/whats-in-mike-portnoys-kit`) hit the generic fallback → duplicate title `Drum Gear Article | MetalForge`, no description, **no Article JSON-LD**. Fix = wire the fallback to `ALBUM_ARTICLES` (all 60 already carry title/description/dates/author/keywords/ogImage). One-file, atomic, Watcher-friendly; lights up ~52 already-indexed pages. Complements (no overlap) #1058.
 - **2026-06-08:** 🔍 **Inaugural SEO Agent cron run** (Mondays 08:00 UTC). Audit + 1 net-new proposal.
   - **Audit:** robots.txt allows all 8 AI crawlers ✅. Quick Facts box live on drummer pages (#872 merged, commit `fbf985e`; mobile tweaks pending #1001). LLM markdown surface: `index.md` + **61/61 drummer `.md`** + `llms-full.txt` all live. GSC still **blind** (`GSC_SITE` missing, #910) — proposals run on GA4-only signal. Live Lighthouse not run (no Chrome/egress in cron sandbox); SEO fundamentals verified statically (title/meta/canonical/schema all present in code).
   - **Found the standard programmatic queue already saturated:** overnight CEO atomic-split filed + promoted the whole on-strategy batch — CEO-024 signature licks (#1008→#1010–1014), internal-linking #874 (#1005–1007), technique #870 (#992–994), gear/series #871 (#995–998), Quick Facts mobile #872 (#1001), canonical #1015. Did **not** duplicate any of it (anti-noise principle).
@@ -92,4 +96,4 @@
 - **2026-02-01:** FAQPage (#36) and ItemList (#37) completed
 
 ---
-*Last updated: 2026-06-08 by SEO Agent (inaugural cron run)*
+*Last updated: 2026-06-12 by SEO Agent (filed #1064 — Article-schema coverage gap)*

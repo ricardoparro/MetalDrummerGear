@@ -364,6 +364,527 @@ export const SIGNATURE_LICKS = {
     },
   },
   // ==========================================
+  // DANNY CAREY - Tool (Issue #1013)
+  // ==========================================
+  'danny-carey-pneuma-groove': {
+    slug: 'danny-carey-pneuma-groove',
+    name: 'Pneuma Main Groove',
+    shortName: 'Pneuma Groove',
+    drummerId: 14,
+    drummerName: 'Danny Carey',
+    drummerSlug: 'danny-carey',
+    band: 'Tool',
+    song: 'Pneuma',
+    album: 'Fear Inoculum (2019)',
+
+    category: 'main-groove',
+    style: 'progressive-metal',
+    difficulty: 'expert',
+    difficultyRating: 5,
+    bpm: 77,
+    bpmDisplay: '77 BPM',
+    timeSignature: '9/8',
+
+    description: 'Pneuma is one of the defining drum performances of Tool\'s comeback record Fear Inoculum, and it showcases everything that makes Danny Carey a generational player: huge tom orchestration, hypnotic odd-time phrasing, and an almost orchestral sense of dynamics. The track lives in a rolling 9/8 pulse that Carey makes feel completely natural, layering ride-bell ostinatos over a deep, breathing kick pattern that anchors the riff cycle. What sounds like effortless groove is actually a carefully constructed grid of three-against-four and tom melodies that move around the kit in long, developing phrases rather than repeating bar to bar. Carey treats the toms as melodic instruments, using his rack and floor toms to answer the guitar figures while keeping the hi-hat and ride steady underneath. The genius of the part is restraint: he leaves enormous space, letting each accent ring before placing the next, so the groove feels meditative even at high technical difficulty. As the song builds, he gradually adds density — more bass-drum subdivisions, busier ride patterns, and longer tom runs that climax in the song\'s towering outro. Learning this groove is a masterclass in counting in nine while still feeling the downbeat, and in playing for the song instead of for the chops. Drummers studying Pneuma should focus first on internalising the 9/8 cycle by clapping and counting before ever sitting at the kit, then slowly adding limbs one at a time. The reward is an understanding of how Carey balances polyrhythmic complexity with deep, patient groove — the same approach that informs his work on Schism and Forty Six & 2. It is demanding, but few grooves teach odd-time independence and dynamic control as completely as this one. Spend time simply listening to how Carey breathes with the riff, and you will understand why this performance is held up as a modern benchmark for taste and technique in equal measure, a track every serious metal drummer eventually returns to study.',
+
+    techniques: ['odd-time-signatures', 'polyrhythms', 'groove-drumming'],
+    techniqueDetails: [
+      'Count the full 9/8 cycle out loud (3+3+3) before adding any limbs',
+      'Establish the steady ride-bell ostinato as your timekeeping anchor',
+      'Layer the breathing kick pattern underneath, locking it to the riff cycle',
+      'Add the melodic tom answers, moving around the kit in developing phrases',
+      'Build dynamics gradually, leaving space between accents before the outro climax',
+    ],
+
+    tutorial: {
+      youtubeId: '417-dhALb7E',
+      startTime: 0,
+      title: 'Danny Carey - Pneuma (Drum Cam)',
+      description: 'Danny Carey performing Pneuma live, captured from the drum cam',
+    },
+
+    gearUsed: [
+      { name: 'Sonor SQ2 Drum Kit', type: 'drums', link: null },
+      { name: 'Paiste Signature Cymbals', type: 'cymbals', link: null },
+      { name: 'DW 9000 Bass Drum Pedals', type: 'pedals', link: null },
+    ],
+
+    learningTips: [
+      'Internalise the 9/8 pulse away from the kit first by clapping in groups of three',
+      'Practice the ride ostinato alone until it is effortless',
+      'Add the kick pattern slowly with a metronome at half tempo',
+      'Prioritise space and dynamics over speed - this groove is about feel',
+    ],
+
+    seo: {
+      title: 'Danny Carey Pneuma Groove - Tool Drum Tutorial | MetalForge',
+      description: 'Learn Danny Carey\'s hypnotic 9/8 groove from Tool\'s Pneuma. Odd-time breakdown, tom melodies, gear, and practice tips.',
+      keywords: ['danny carey', 'pneuma drums', 'tool drumming', 'odd time signature', 'fear inoculum', '9/8 groove'],
+    },
+  },
+
+  'danny-carey-schism-intro': {
+    slug: 'danny-carey-schism-intro',
+    name: 'Schism Intro Pattern',
+    shortName: 'Schism Intro',
+    drummerId: 14,
+    drummerName: 'Danny Carey',
+    drummerSlug: 'danny-carey',
+    band: 'Tool',
+    song: 'Schism',
+    album: 'Lateralus (2001)',
+
+    category: 'intro-fill',
+    style: 'progressive-metal',
+    difficulty: 'expert',
+    difficultyRating: 5,
+    bpm: 134,
+    bpmDisplay: '134 BPM',
+    timeSignature: '5/8',
+
+    description: 'Schism is famous for containing dozens of time-signature changes, and the drum part is the glue that makes that shifting landscape feel musical rather than chaotic. Danny Carey opens with a pattern rooted in alternating 5/8 and 7/8 groupings, locking tightly to Justin Chancellor\'s iconic bassline while leaving room for the vocal phrasing on top. Rather than counting every metric modulation as a separate event, Carey feels the larger phrase, riding subtle ghost notes and crisp hi-hat work that keep the pulse intact through each meter shift. The challenge for any drummer is to stop hearing the changes as obstacles and start hearing them as one continuous, breathing groove. Carey accomplishes this by anchoring the backbeat in consistent snare placement and using small, controlled fills to bridge the transitions between odd groupings, so the listener never loses the thread. As the song develops, the meters expand and contract repeatedly, and the famous middle section piles polyrhythmic accents over the established pulse, demanding total limb independence. This is one of the most studied drum parts in modern metal precisely because it teaches metric fluency: the ability to move between 5/8, 7/8, and other groupings without resetting your internal clock. Drummers approaching Schism should map the song section by section, counting each meter slowly before attempting to connect them at tempo. The payoff is enormous - mastering this part unlocks a deeper understanding of how Carey, like Mike Portnoy and Brann Dailor, turns complex time into something that grooves and feels inevitable. Practice the transitions in isolation, loop the trickiest bars, and keep the dynamics conversational rather than rigid. Played well, Schism does not sound like a math exercise; it sounds like one of the most hypnotic grooves in the Tool catalogue, which is exactly the point Carey is making. Stay patient with the count, trust the bassline as your reference, and the shifting meters will eventually feel as natural to play as a straight backbeat, which is the real goal of studying this iconic part.',
+
+    techniques: ['odd-time-signatures', 'polyrhythms', 'fill-techniques'],
+    techniqueDetails: [
+      'Map the song section by section, counting each meter change slowly',
+      'Lock the kick and snare to the bassline before adding ornamentation',
+      'Feel the larger phrase rather than counting every metric modulation',
+      'Use small controlled fills to bridge the 5/8 and 7/8 transitions',
+      'Loop the polyrhythmic middle section to build limb independence',
+    ],
+
+    tutorial: {
+      youtubeId: 'C6ff5fjhFAU',
+      startTime: 0,
+      title: 'Danny Carey (Tool) - Schism Drum Cam',
+      description: 'Live drum-cam footage of Danny Carey playing Schism',
+    },
+
+    gearUsed: [
+      { name: 'Sonor Designer Series Kit', type: 'drums', link: null },
+      { name: 'Paiste Signature Cymbals', type: 'cymbals', link: null },
+      { name: 'DW 9000 Bass Drum Pedals', type: 'pedals', link: null },
+    ],
+
+    learningTips: [
+      'Count 5/8 and 7/8 groupings separately before connecting them',
+      'Practice with the bassline so the meter changes feel anchored',
+      'Slow the tempo to 60-70% until the transitions are seamless',
+      'Treat the changes as one flowing groove, not separate events',
+    ],
+
+    seo: {
+      title: 'Danny Carey Schism Intro - Tool Drum Tutorial | MetalForge',
+      description: 'Master Danny Carey\'s shifting 5/8 and 7/8 intro from Tool\'s Schism. Time-change breakdown, technique, and practice tips.',
+      keywords: ['danny carey', 'schism drums', 'tool drumming', 'odd time signature', 'lateralus', 'time changes'],
+    },
+  },
+
+  'danny-carey-forty-six-and-2-outro': {
+    slug: 'danny-carey-forty-six-and-2-outro',
+    name: 'Forty Six & 2 Outro Solo',
+    shortName: '46 & 2 Solo',
+    drummerId: 14,
+    drummerName: 'Danny Carey',
+    drummerSlug: 'danny-carey',
+    band: 'Tool',
+    song: 'Forty Six & 2',
+    album: 'Ænima (1996)',
+
+    category: 'drum-solo',
+    style: 'progressive-metal',
+    difficulty: 'expert',
+    difficultyRating: 5,
+    bpm: 110,
+    bpmDisplay: '110 BPM',
+    timeSignature: '4/4',
+
+    description: 'The climax of Forty Six & 2 is one of the most celebrated drum moments in progressive metal, a sprawling solo section where Danny Carey unleashes the full vocabulary of tom melodies, polyrhythmic fills, and tribal phrasing that became his signature. After the song builds through tense, restrained verses, Carey opens up into a cascading run around the kit that uses his deep toms melodically, weaving triplet and sextuplet groupings against the underlying 4/4 pulse so the fills feel like they float above the beat. This is the part that taught a generation of drummers how to think about the kit as a melodic instrument rather than just a timekeeper. The phrasing is conversational: Carey states an idea, develops it, and then answers it, building intensity through repetition and variation rather than sheer speed. Hand-foot combinations link the toms to the bass drum, creating long linear runs where no two limbs strike at once, which is why the section sounds so fluid and continuous. Underneath the flash, the groove never loses its center - the pulse stays rock solid, which is what allows the polyrhythmic ideas to land. For drummers, this outro is a complete study in tom orchestration, dynamic build, and the controlled use of odd groupings over a straight pulse. The best way to approach it is to break the section into individual fills, learn each one slowly, and only then attempt to connect them into the long developing phrase Carey plays. Pay attention to sticking and to which hand leads each tom run, because the orchestration is what gives the lines their melodic shape. Like his work on Pneuma and Schism, this solo rewards patience: practiced methodically, it builds independence, four-limb coordination, and the kind of musical phrasing that separates great metal drummers from merely fast ones. Take your time mapping the orchestration, record yourself often to check that the pulse stays steady underneath the flash, and treat the section as a long-term project rather than something to rush through in a single sitting.',
+
+    techniques: ['fill-techniques', 'polyrhythms', 'groove-drumming'],
+    techniqueDetails: [
+      'Break the solo into individual fills and learn each one slowly',
+      'Identify which hand leads each tom run to shape the melodic phrasing',
+      'Layer triplet and sextuplet groupings over the steady 4/4 pulse',
+      'Connect hand-foot combinations into flowing linear runs around the kit',
+      'Build the section through repetition and variation, not raw speed',
+    ],
+
+    tutorial: {
+      youtubeId: 'DhTKyuJkp9E',
+      startTime: 0,
+      title: 'Danny Carey - Forty Six & 2 Drum Solo Section',
+      description: 'Breakdown of the Forty Six & 2 outro drum solo',
+    },
+
+    gearUsed: [
+      { name: 'Sonor SQ2 Drum Kit', type: 'drums', link: null },
+      { name: 'Paiste Signature Cymbals', type: 'cymbals', link: null },
+      { name: 'DW 9000 Bass Drum Pedals', type: 'pedals', link: null },
+    ],
+
+    learningTips: [
+      'Learn each fill in isolation before connecting the full phrase',
+      'Practice tom orchestration slowly to lock in the melodic shape',
+      'Keep the underlying pulse steady so the polyrhythms land cleanly',
+      'Focus on smooth hand-foot linear runs rather than maximum speed',
+    ],
+
+    seo: {
+      title: 'Danny Carey Forty Six & 2 Solo - Tool Drum Tutorial | MetalForge',
+      description: 'Learn Danny Carey\'s legendary Forty Six & 2 outro drum solo. Tom melodies, polyrhythmic fills, gear, and practice tips.',
+      keywords: ['danny carey', 'forty six and 2 drums', 'tool drum solo', 'tom melodies', 'aenima', 'polyrhythm drumming'],
+    },
+  },
+
+  // ==========================================
+  // GENE HOGLAN - Death (Issue #1013)
+  // ==========================================
+  'gene-hoglan-the-philosopher-groove': {
+    slug: 'gene-hoglan-the-philosopher-groove',
+    name: 'The Philosopher Groove',
+    shortName: 'Philosopher Groove',
+    drummerId: 3,
+    drummerName: 'Gene Hoglan',
+    drummerSlug: 'gene-hoglan',
+    band: 'Death',
+    song: 'The Philosopher',
+    album: 'Individual Thought Patterns (1993)',
+
+    category: 'main-groove',
+    style: 'death-metal',
+    difficulty: 'expert',
+    difficultyRating: 5,
+    bpm: 180,
+    bpmDisplay: '180 BPM',
+    timeSignature: '4/4',
+
+    description: 'The Philosopher is a cornerstone of technical death metal drumming and one of Gene Hoglan\'s most studied performances, the track that earned him the nickname "The Atomic Clock." From the opening, Hoglan locks into a driving double-bass groove with machine-like consistency while the guitars cycle through Chuck Schuldiner\'s angular riffing. What sets the part apart is how Hoglan keeps the groove musical despite its speed: his bass-drum work is relentless but dynamically controlled, and he punctuates the riffs with crisp, perfectly placed snare accents and fills that follow the song\'s twisting structure. The verse grooves sit on continuous sixteenth-note double bass beneath a half-time snare feel, which gives the music its enormous weight, while the transitions are bridged by signature Hoglan fills that move smoothly across the toms. He famously recorded his parts with metronomic precision, and that consistency is the lesson here - the entire performance is an exercise in stamina, evenness between the feet, and the ability to play fast double bass without rushing or dragging the pulse. Drummers studying The Philosopher should begin by building double-bass endurance at a slower tempo, focusing on perfectly even strokes between left and right foot before approaching the recorded speed. The hands sit comfortably in a half-time pocket, so the real work is in the feet and in following the arrangement\'s frequent riff changes. This track is essential listening for understanding how Hoglan, alongside players like George Kollias and Dave Lombardo, built the modern double-bass vocabulary. Approach it methodically: loop the main verse groove, lock it to a metronome, and add the fills only once the feet are solid. Mastering it develops the kind of clock-like timing and lower-body control that underpins all extreme metal drumming, and it connects directly to Hoglan\'s later work on Crystal Mountain and Zero Tolerance. Keep your strokes relaxed, watch that the second kick never lags behind the first, and use short practice bursts to grow endurance safely, and over time the speed will arrive on its own without any loss of the precision that defines this classic performance.',
+
+    techniques: ['double-bass', 'fill-techniques', 'groove-drumming'],
+    techniqueDetails: [
+      'Build double-bass endurance at a slower tempo with perfectly even strokes',
+      'Establish the half-time snare feel over continuous sixteenth-note kick',
+      'Lock the groove tightly to a metronome before adding speed',
+      'Follow the riff changes, bridging sections with smooth tom fills',
+      'Add the signature fills only once the feet are fully solid',
+    ],
+
+    tutorial: {
+      youtubeId: 'eGope68pHf0',
+      startTime: 0,
+      title: 'Gene Hoglan - The Philosopher (Drum Playthrough)',
+      description: 'Gene Hoglan performing The Philosopher by Death',
+    },
+
+    gearUsed: [
+      { name: 'Pearl Drum Kit', type: 'drums', link: null },
+      { name: 'Sabian Cymbals', type: 'cymbals', link: null },
+      { name: 'Double Bass Pedals', type: 'pedals', link: null },
+    ],
+
+    learningTips: [
+      'Develop even double-bass strokes before pushing the tempo',
+      'Use a metronome religiously to maintain clock-like timing',
+      'Keep the hands relaxed in the half-time pocket',
+      'Take breaks - sustained fast double bass is physically demanding',
+    ],
+
+    seo: {
+      title: 'Gene Hoglan The Philosopher - Death Drum Tutorial | MetalForge',
+      description: 'Learn Gene Hoglan\'s driving double-bass groove from Death\'s The Philosopher. Technique breakdown, gear, and practice tips.',
+      keywords: ['gene hoglan', 'the philosopher drums', 'death drumming', 'double bass', 'technical death metal', 'atomic clock'],
+    },
+  },
+
+  'gene-hoglan-crystal-mountain-groove': {
+    slug: 'gene-hoglan-crystal-mountain-groove',
+    name: 'Crystal Mountain Groove',
+    shortName: 'Crystal Mountain',
+    drummerId: 3,
+    drummerName: 'Gene Hoglan',
+    drummerSlug: 'gene-hoglan',
+    band: 'Death',
+    song: 'Crystal Mountain',
+    album: 'Symbolic (1995)',
+
+    category: 'main-groove',
+    style: 'death-metal',
+    difficulty: 'expert',
+    difficultyRating: 5,
+    bpm: 200,
+    bpmDisplay: '200 BPM',
+    timeSignature: '4/4',
+
+    description: 'Crystal Mountain, from Death\'s landmark Symbolic album, contains some of Gene Hoglan\'s most famous and most imitated drumming, including the celebrated double-ride groove and a fill that drummers have transcribed for decades. The song moves between propulsive double-bass-driven verses and more open, groove-oriented sections, and Hoglan navigates them with a combination of precision and creativity that defined the technical-yet-musical death metal sound. The signature element is his use of two ride cymbals to create a flowing, two-handed pattern that gives the groove a shimmering, almost jazz-influenced texture beneath the heavy riffing - a remarkably sophisticated idea for an extreme metal context. Underneath, his double bass remains tight and even, supporting the guitars without ever overpowering the arrangement. The famous fill near the song\'s climax is a masterclass in orchestration around the kit, a fast, melodic run that resolves perfectly back into the groove and has become a rite of passage for aspiring metal drummers. What makes Crystal Mountain so instructive is the balance it demands: you need the lower-body stamina for the double-bass sections, the coordination for the two-ride groove, and the precision to land the signature fills cleanly at tempo. Drummers should approach it in layers - first the double-bass verse groove, then the two-ride section practiced slowly to coordinate the hands, and finally the famous fill broken down note by note. Hoglan reportedly could play this part from memory years after recording it, a testament to how deeply internalised his vocabulary was. Studying Crystal Mountain alongside The Philosopher and Zero Tolerance gives a complete picture of how Hoglan shaped modern death metal drumming, blending raw power with the kind of creative, melodic thinking that most extreme players never attempt. It rewards patience and rewards listening as much as practice. Spend time with the original recording before touching the kit, hum the two-ride groove until it lives in your ear, and the famous fill will start to feel less like an obstacle and more like a natural extension of the song you already know.',
+
+    techniques: ['double-bass', 'groove-drumming', 'fill-techniques'],
+    techniqueDetails: [
+      'Build the double-bass verse groove first with even, controlled strokes',
+      'Practice the two-ride pattern slowly to coordinate both hands',
+      'Break the famous climax fill down note by note before tempo',
+      'Resolve each fill cleanly back into the main groove',
+      'Layer the sections together only once each is solid in isolation',
+    ],
+
+    tutorial: {
+      youtubeId: '3x7uvGofGbs',
+      startTime: 0,
+      title: 'Gene Hoglan - Crystal Mountain (Drum Cam)',
+      description: 'Gene Hoglan performing Death\'s Crystal Mountain',
+    },
+
+    gearUsed: [
+      { name: 'Pearl Drum Kit', type: 'drums', link: null },
+      { name: 'Dual Ride Cymbal Setup', type: 'cymbals', link: null },
+      { name: 'Double Bass Pedals', type: 'pedals', link: null },
+    ],
+
+    learningTips: [
+      'Coordinate the two-ride groove at slow tempo before speeding up',
+      'Develop double-bass stamina for the propulsive verse sections',
+      'Transcribe and isolate the famous climax fill',
+      'Listen closely to the recording to capture the feel between sections',
+    ],
+
+    seo: {
+      title: 'Gene Hoglan Crystal Mountain - Death Drum Tutorial | MetalForge',
+      description: 'Learn Gene Hoglan\'s legendary two-ride groove and signature fill from Death\'s Crystal Mountain. Breakdown, gear, and tips.',
+      keywords: ['gene hoglan', 'crystal mountain drums', 'death drumming', 'double bass', 'symbolic album', 'two ride groove'],
+    },
+  },
+
+  'gene-hoglan-zero-tolerance-groove': {
+    slug: 'gene-hoglan-zero-tolerance-groove',
+    name: 'Zero Tolerance Groove',
+    shortName: 'Zero Tolerance',
+    drummerId: 3,
+    drummerName: 'Gene Hoglan',
+    drummerSlug: 'gene-hoglan',
+    band: 'Death',
+    song: 'Zero Tolerance',
+    album: 'Symbolic (1995)',
+
+    category: 'main-groove',
+    style: 'death-metal',
+    difficulty: 'advanced',
+    difficultyRating: 4,
+    bpm: 190,
+    bpmDisplay: '190 BPM',
+    timeSignature: '4/4',
+
+    description: 'Zero Tolerance, the opening track of Death\'s Symbolic, is a showcase for Gene Hoglan\'s ability to fuse raw aggression with inventive groove, and its bridge section in particular contains one of the most quoted drum patterns in death metal. The song launches with blistering blast-influenced sections and rapid double bass, then drops into a syncopated, almost danceable bridge groove that demonstrates Hoglan\'s rare gift for making technical death metal feel funky and alive. That bridge pattern - a tight interplay between snare, kick, and hi-hat with unexpected accents - is the part drummers most love to learn, because it grooves so hard while still sitting in an extreme metal arrangement. Throughout the track, Hoglan alternates between full-throttle double-bass attack and these more open, accent-driven grooves, using his fills to signal each transition with total clarity. The genius is in the contrast: the heaviness of the fast sections makes the bridge groove hit even harder, and Hoglan\'s impeccable timing keeps everything locked even as the feel shifts. For drummers, Zero Tolerance teaches both ends of the spectrum - the stamina and evenness needed for the double-bass passages, and the feel, syncopation, and accent control needed to make the bridge groove pocket correctly. Approach the song by separating these two worlds: drill the double-bass sections with a metronome for endurance and evenness, then learn the bridge groove slowly, paying close attention to where the accents fall and how the limbs interlock. Played well, that bridge will feel as good to play as it does to hear. Alongside The Philosopher and Crystal Mountain, Zero Tolerance rounds out the picture of why Hoglan is regarded as one of metal\'s most complete drummers, equally capable of overwhelming power and sophisticated, head-nodding groove within a single song. Drill the two feels apart, then practice switching between them at the exact moments the song does, and you will absorb not just the notes but the musical instinct that makes Hoglan such a compelling player to study and emulate.',
+
+    techniques: ['double-bass', 'blast-beat', 'groove-drumming'],
+    techniqueDetails: [
+      'Separate the double-bass sections from the syncopated bridge groove',
+      'Drill the fast double-bass passages with a metronome for evenness',
+      'Learn the bridge groove slowly, mapping where each accent falls',
+      'Lock the snare, kick, and hi-hat interplay so the bridge pockets',
+      'Use clear fills to signal each transition between feels',
+    ],
+
+    tutorial: {
+      youtubeId: '2JicEpsOgfI',
+      startTime: 0,
+      title: 'Death - Zero Tolerance Bridge Pattern (Gene Hoglan)',
+      description: 'Breakdown of Gene Hoglan\'s Zero Tolerance bridge groove',
+    },
+
+    gearUsed: [
+      { name: 'Pearl Drum Kit', type: 'drums', link: null },
+      { name: 'Sabian Cymbals', type: 'cymbals', link: null },
+      { name: 'Double Bass Pedals', type: 'pedals', link: null },
+    ],
+
+    learningTips: [
+      'Practice the syncopated bridge groove slowly to lock the accents',
+      'Build double-bass endurance separately with a metronome',
+      'Focus on feel - the bridge should pocket and groove, not feel stiff',
+      'Use fills to clearly mark the transitions between sections',
+    ],
+
+    seo: {
+      title: 'Gene Hoglan Zero Tolerance - Death Drum Tutorial | MetalForge',
+      description: 'Learn Gene Hoglan\'s syncopated bridge groove and double bass from Death\'s Zero Tolerance. Breakdown, gear, and practice tips.',
+      keywords: ['gene hoglan', 'zero tolerance drums', 'death drumming', 'double bass', 'symbolic album', 'death metal groove'],
+    },
+  },
+
+  // ==========================================
+  // TOMAS HAAKE - Meshuggah (Issue #1013)
+  // ==========================================
+  'tomas-haake-bleed-groove': {
+    slug: 'tomas-haake-bleed-groove',
+    name: 'Bleed Double Bass Groove',
+    shortName: 'Bleed Groove',
+    drummerId: 5,
+    drummerName: 'Tomas Haake',
+    drummerSlug: 'tomas-haake',
+    band: 'Meshuggah',
+    song: 'Bleed',
+    album: 'obZen (2008)',
+
+    category: 'main-groove',
+    style: 'djent',
+    difficulty: 'expert',
+    difficultyRating: 5,
+    bpm: 116,
+    bpmDisplay: '116 BPM',
+    timeSignature: '4/4',
+
+    description: 'Bleed is widely regarded as one of the most physically demanding drum parts in modern metal, and it cemented Tomas Haake\'s reputation as the master of relentless, machine-precise double bass. The song is built on a punishing sixteenth-note kick ostinato that pairs the feet with guitar-locked accents on the snare and cymbals, creating the hypnotic, mechanical groove that became a blueprint for the entire djent movement. What looks deceptively simple on paper is brutal in practice: the double-bass pattern runs almost continuously for the length of the song, demanding extraordinary stamina, perfectly even strokes, and total relaxation in the legs to avoid seizing up. Haake plays the part with surgical evenness, every kick stroke identical in volume and placement, while his hands punctuate the riff with precisely synchronised snare and cymbal hits that lock to the guitars\' rhythmic figures. The groove sits in a deceptively straight 4/4, but the phrasing of the accents over the constant kick creates the illusion of shifting time, which is central to Meshuggah\'s sound. For drummers, Bleed is the ultimate double-bass endurance and control study. The only way to build it is gradually: start the kick pattern at a fraction of the tempo, focus relentlessly on evenness and relaxation, and increase speed in small increments over weeks, never pushing into tension. The hands must lock perfectly with the feet, so practice the snare and cymbal accents against the kick at slow tempo until the synchronisation is automatic. This is a marathon, not a sprint - even seasoned professionals build up to full-tempo Bleed over time. Studying it develops the kind of lower-body endurance, evenness, and limb synchronisation that informs all of Haake\'s work, from Clockworks to New Millennium Cyanide Christ, and it remains a benchmark that drummers worldwide use to measure their double-bass technique. Be honest with yourself about tension, rest whenever your legs tighten, and add tempo only when every stroke stays perfectly even, because rushing this part is the surest way to build bad habits that are difficult to unlearn later.',
+
+    techniques: ['double-bass', 'odd-time-signatures', 'polyrhythms'],
+    techniqueDetails: [
+      'Start the sixteenth-note kick ostinato at a fraction of full tempo',
+      'Focus relentlessly on even strokes and relaxed, tension-free legs',
+      'Synchronise the snare and cymbal accents tightly with the kick',
+      'Increase the tempo in small increments over weeks, never forcing it',
+      'Feel the constant 4/4 pulse beneath the shifting accent phrasing',
+    ],
+
+    tutorial: {
+      youtubeId: 'bAJ1WTGNISk',
+      startTime: 0,
+      title: 'Meshuggah - Bleed - Tomas Haake Playthrough',
+      description: 'Tomas Haake performing Bleed (Wincent Drumsticks playthrough)',
+    },
+
+    gearUsed: [
+      { name: 'Sonor SQ2 Drum Kit', type: 'drums', link: null },
+      { name: 'Sabian Cymbals', type: 'cymbals', link: null },
+      { name: 'Axis Longboard Pedals', type: 'pedals', link: null },
+    ],
+
+    learningTips: [
+      'Build the double-bass ostinato gradually over weeks, never rushing',
+      'Keep the legs completely relaxed to sustain the constant sixteenths',
+      'Lock the hand accents to the feet at slow tempo first',
+      'Treat it as an endurance marathon, not a speed sprint',
+    ],
+
+    seo: {
+      title: 'Tomas Haake Bleed Groove - Meshuggah Drum Tutorial | MetalForge',
+      description: 'Master Tomas Haake\'s relentless double-bass groove from Meshuggah\'s Bleed. Endurance breakdown, gear, and practice tips.',
+      keywords: ['tomas haake', 'bleed drums', 'meshuggah drumming', 'double bass', 'obzen album', 'djent groove'],
+    },
+  },
+
+  'tomas-haake-clockworks-groove': {
+    slug: 'tomas-haake-clockworks-groove',
+    name: 'Clockworks Polymetric Groove',
+    shortName: 'Clockworks',
+    drummerId: 5,
+    drummerName: 'Tomas Haake',
+    drummerSlug: 'tomas-haake',
+    band: 'Meshuggah',
+    song: 'Clockworks',
+    album: 'The Violent Sleep of Reason (2016)',
+
+    category: 'main-groove',
+    style: 'djent',
+    difficulty: 'expert',
+    difficultyRating: 5,
+    bpm: 130,
+    bpmDisplay: '130 BPM',
+    timeSignature: '4/4',
+
+    description: 'Clockworks, the opening track of The Violent Sleep of Reason, is a showcase of everything Tomas Haake brings to Meshuggah\'s mature sound: thunderous polymetric riffing, precise limb independence, and the signature illusion of shifting time over a steady underlying pulse. The drum part anchors the band\'s long, asymmetrical riff cycles by keeping a constant quarter-note or eighth-note reference - often on the ride or hi-hat - while the kick and snare follow the guitars\' odd-length groupings that repeatedly cross the barline before resolving back to the downbeat. This is the heart of the Meshuggah method: the time signature is technically 4/4, but the riffs are phrased in groupings that do not line up with it, so the music feels like it is constantly rotating until the cycle snaps back into place. Haake holds the listener\'s orientation by being the immovable anchor, his cymbal hand marking the true pulse while the rest of his body articulates the polymetric riff. Clockworks also features some of his most powerful double-bass work, locking the feet to the guitars with the evenness that has defined his playing for three decades. For drummers, this track is an advanced study in polymetric phrasing and independence - the ability to keep one limb on a steady grid while the others play a pattern that disagrees with it. The approach is to first identify the length of the riff grouping, count how many times it repeats before resolving, and then practice the steady cymbal pulse against the polymetric kick-and-snare pattern very slowly. Building this independence is challenging but transformative, and it connects directly to the language Haake established on Bleed and New Millennium Cyanide Christ. Mastering Clockworks gives drummers the tools to play with time itself, treating odd groupings as expressive rather than merely difficult. Loop the trickiest cycles until the resolution to beat one feels inevitable, keep your anchor limb absolutely steady, and you will gain an independence that transfers to almost any rhythmically adventurous music you choose to play afterwards.',
+
+    techniques: ['polyrhythms', 'odd-time-signatures', 'double-bass'],
+    techniqueDetails: [
+      'Identify the length of each riff grouping and count its repetitions',
+      'Hold a steady cymbal or hi-hat pulse as your timekeeping anchor',
+      'Articulate the polymetric kick-and-snare pattern against that pulse',
+      'Practice the independence very slowly before building tempo',
+      'Track how the groupings cross the barline and resolve to the downbeat',
+    ],
+
+    tutorial: {
+      youtubeId: 'axGn6qeJHcM',
+      startTime: 0,
+      title: 'Meshuggah - Clockworks (Drum Playthrough w/ Tomas Haake)',
+      description: 'Official Tomas Haake drum playthrough of Clockworks',
+    },
+
+    gearUsed: [
+      { name: 'Sonor SQ2 Drum Kit', type: 'drums', link: null },
+      { name: 'Sabian Cymbals', type: 'cymbals', link: null },
+      { name: 'Axis Longboard Pedals', type: 'pedals', link: null },
+    ],
+
+    learningTips: [
+      'Keep one limb locked to the true pulse while the others play the riff',
+      'Count the riff grouping length until you feel where it resolves',
+      'Drill the polymetric independence at very slow tempo first',
+      'Build double-bass evenness to match the guitar phrasing',
+    ],
+
+    seo: {
+      title: 'Tomas Haake Clockworks - Meshuggah Drum Tutorial | MetalForge',
+      description: 'Learn Tomas Haake\'s polymetric groove from Meshuggah\'s Clockworks. Independence breakdown, odd-time phrasing, gear, and tips.',
+      keywords: ['tomas haake', 'clockworks drums', 'meshuggah drumming', 'polyrhythms', 'violent sleep of reason', 'polymetric groove'],
+    },
+  },
+
+  'tomas-haake-new-millennium-cyanide-christ-groove': {
+    slug: 'tomas-haake-new-millennium-cyanide-christ-groove',
+    name: 'New Millennium Cyanide Christ Groove',
+    shortName: 'NMCC Groove',
+    drummerId: 5,
+    drummerName: 'Tomas Haake',
+    drummerSlug: 'tomas-haake',
+    band: 'Meshuggah',
+    song: 'New Millennium Cyanide Christ',
+    album: 'Chaosphere (1998)',
+
+    category: 'main-groove',
+    style: 'djent',
+    difficulty: 'expert',
+    difficultyRating: 5,
+    bpm: 120,
+    bpmDisplay: '120 BPM',
+    timeSignature: '4/4',
+
+    description: 'New Millennium Cyanide Christ, from Meshuggah\'s ferocious Chaosphere album, is one of the earliest and clearest examples of the polymetric concept that would come to define an entire genre, and Tomas Haake\'s drumming is the engine that makes it work. The song is built on a riff that groups its accents in patterns that do not divide evenly into the 4/4 bar, so the music seems to lurch and rotate even though the underlying pulse never changes. Haake keeps that pulse unshakeable, typically holding a steady hand pattern while his kick and snare lock to the guitars\' displaced accents, letting the listener feel the tension between the stated meter and the phrased groupings. It is a track that sounds chaotic on first listen but reveals an iron internal logic once you find the downbeat and hear how every grouping eventually resolves to it. Haake\'s execution is characteristically precise and powerful, with the relaxed-but-relentless feel that makes Meshuggah grooves so hypnotic and heavy. For drummers, this song is an ideal introduction to polymetric playing because the concept is presented so starkly: a single repeating displaced figure against a constant pulse. The method for learning it is to count the bar in straight 4/4, clap or play the steady pulse, and then layer in the accented figure, noting how many repetitions it takes to come back around to beat one. Practiced slowly, it teaches the core independence skill of keeping time in one place while playing against it in another - the foundation of everything from Bleed to Clockworks. Studying New Millennium Cyanide Christ gives drummers a window into how Haake reshaped metal rhythm, turning displacement and odd groupings into groove rather than mere complexity, and it remains one of the most rewarding entry points into his vast rhythmic vocabulary. Once the displaced figure locks against your steady pulse, try counting out loud as you play to prove you have truly internalised the cycle, and that small test will confirm you are ready to tackle his more demanding later material.',
+
+    techniques: ['polyrhythms', 'odd-time-signatures', 'groove-drumming'],
+    techniqueDetails: [
+      'Count the bar in straight 4/4 and establish the constant pulse',
+      'Clap or play the steady pulse before adding the displaced accents',
+      'Layer the accented riff figure against the unchanging pulse',
+      'Count how many repetitions resolve the figure back to beat one',
+      'Keep the feel relaxed and hypnotic rather than stiff or rushed',
+    ],
+
+    tutorial: {
+      youtubeId: '4A_tSyJBsRQ',
+      startTime: 0,
+      title: 'Meshuggah - New Millennium Cyanide Christ (Official Video)',
+      description: 'Tomas Haake drumming on New Millennium Cyanide Christ',
+    },
+
+    gearUsed: [
+      { name: 'Sonor Drum Kit', type: 'drums', link: null },
+      { name: 'Sabian Cymbals', type: 'cymbals', link: null },
+      { name: 'Axis Longboard Pedals', type: 'pedals', link: null },
+    ],
+
+    learningTips: [
+      'Find the downbeat first - everything resolves back to beat one',
+      'Hold a steady hand pattern while the kick and snare displace',
+      'Practice slowly to internalise the polymetric independence',
+      'Use this track as your entry point into Meshuggah-style phrasing',
+    ],
+
+    seo: {
+      title: 'Tomas Haake New Millennium Cyanide Christ - Meshuggah Drum Tutorial | MetalForge',
+      description: 'Learn Tomas Haake\'s polymetric groove from Meshuggah\'s New Millennium Cyanide Christ. Displacement breakdown, gear, and tips.',
+      keywords: ['tomas haake', 'new millennium cyanide christ drums', 'meshuggah drumming', 'polyrhythms', 'chaosphere', 'polymetric'],
+    },
+  },
+  // ==========================================
   // JOEY JORDISON - Slipknot
   // ==========================================
   'joey-jordison-heretic-anthem-intro': {

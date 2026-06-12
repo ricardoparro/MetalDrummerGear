@@ -3272,3 +3272,36 @@ State at start (16:56 UTC): metrics fresh — 52 active users / 60 sessions / 12
 4. **#910 GSC** — file the first real GSC-gap escalations the instant `GSC_SITE` lands.
 
 *Última revisão: CEO Agent — 2026-06-12 late run (APPROVED the one fresh proposal #1072 sitemap-lastmod repair → ai-fix, premise self-verified at api/sitemap.js:408/490 + albumArticles dateModified; queue fully triaged, 0 open PRs; named the standing constraint — throughput is implementer-bound #909/#1060, not orchestration-bound — and held WIP rather than inflating the backlog; GSC #910 still the binding KPI blocker)*
+
+---
+
+## 2026-06-12 (Friday) — 19:00 Evening Run (review shipped + triage #1075)
+
+### State at start (19:36 UTC, metrics fresh)
+- **GA4 (7d):** 52 active users / 60 sessions / 120 views — **Organic Search 41/60 ≈ 68%** (3rd straight week the moat thesis holds). Top pages `/` (32), `/drummers` (10), `/quiz` (7), then profiles; `/articles/whats-in-mike-portnoys-kit` in the top-10 (3 views) — relevant below.
+- **GSC: still blind** (`GSC_SITE` missing) — #910 unmoved. #1 KPI unmeasurable. Held — no re-spam (escalated ×4+).
+- Founder inbox: **empty**.
+- **What shipped today (strong day):** #1070 (internal-linking wire-up → completed the entire #874 initiative across all 62 drummer pages), #1006 (SharedGearDrummers block), lick batches #1011/#1012/#1013/#1014. The `ai-fix` backlog IS draining — Ralph is consuming, contrary to the worst-case #909 framing. Throughput is real, just serialized.
+- **One fresh `seo-proposal` since the late run: #1075** (+ the SEO Agent's run-log PR #1076).
+
+### Actions
+1. **Triaged #1075 → APPROVED, added `ai-fix`.** Add `BreadcrumbList` to the article/list page schema. **Premise self-verified before approving** (not just trusting the proposal): read `articleSchema` at `App.js:2165–2211` — confirmed **no `breadcrumb` property**, while drummer (`4336`), history (`8898`), gear-category (`12272`) and gear-item (`12541`) all emit one. The article/list corpus (61 album/kit articles + top-10 lists) is the **sole page type missing it**, and it contains a proven top-10 GA4 page (`/articles/whats-in-mike-portnoys-kit`). Atomic: one `breadcrumb` key nested into the existing schema object (mirrors the gear-category precedent — one script tag, one file). Breadcrumb rich results are not deprecated → live CTR + crawl-hierarchy win on the ~68%-organic channel. Impact ~5⭐, serves both KPIs. Left the approval rationale as an issue comment.
+2. **Merged the CLEAN run-log PR #1076** (squash). Diff was log-only — `metrics.md` + `seo-plan.md` (8/+ 2/−), the SEO Agent's standard proposal-logging pattern, not the code fix. Keeps the SEO plan log consistent. 0 open PRs after merge.
+
+### Quota check
+- ✅ **SEO proposals:** queue drained — #1075 was the only un-triaged one; now `ai-fix`. All others already carry `ai-fix`.
+- ✅ **Founder ideas:** inbox empty.
+- ⛔ **GSC-gap escalation:** still blind (#910). Held — no re-spam. The instant `GSC_SITE` lands this is the #1 work item.
+- ✅ **Atomic-split sweep:** nothing non-atomic. #984 (>3d) already confirmed atomic + founder-blocked on #987. Lick batches #1047–#1050 are atomic but intentionally held behind #1056 (modularize `signatureLicks.js`) to avoid the monolith append-serialization tax. No `ceo-aggressive` open. No split warranted.
+- ✅ **Decisions logged** (this entry); **feature/PR queue drained** (1 PR merged, 0 open).
+
+### Standing observation — constraint, softened
+Today actually shipped a lot (#874 internal-linking complete, 4 lick batches, SharedGearDrummers). The "no consumer" framing (#909) is too pessimistic — the backlog **is** draining, just serially. The real lever now is **#1056** (unblocks the 4 queued lick batches without rebase tax) and **#1060** (auto-merge to cut the merge-step latency). Holding WIP discipline: not filing net-new feature issues into a backlog that's draining at a healthy-but-finite rate.
+
+### Next Run (2026-06-13 07:00 deep run)
+1. **#1056 first** — drive the `signatureLicks.js` modularization before merging lick batches #1047–#1050 (append-serialization tax on the 171KB monolith).
+2. **#1075 / #1072 / #1069** — verify PRs open for the approved schema/sitemap fixes; merge when CLEAN.
+3. **Check backlog drain rate** — if PRs stop opening, the report up to Ricardo is the consumer/merge constraint (#909/#1060), not more issues. Resist backlog inflation.
+4. **#910 GSC** — file the first real GSC-gap escalations the instant `GSC_SITE` lands.
+
+*Última revisão: CEO Agent — 2026-06-12 19:00 evening run (APPROVED the one fresh proposal #1075 BreadcrumbList-on-articles → ai-fix, premise self-verified at App.js:2165 vs. 4336/8898/12272/12541; merged CLEAN run-log PR #1076; reviewed a strong shipping day — #874 internal-linking initiative complete + 4 lick batches; softened the "no consumer" constraint — backlog IS draining, real levers are #1056 + #1060; 0 open PRs, queue fully triaged; GSC #910 still the binding KPI blocker)*

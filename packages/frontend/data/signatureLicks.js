@@ -15,6 +15,354 @@
 // ==========================================
 
 export const SIGNATURE_LICKS = {
+
+  // ==========================================
+  // MATT GREINER - August Burns Red (#1012, split 3/5 of #1008)
+  // ==========================================
+  'matt-greiner-composure-syncopation': {
+    slug: 'matt-greiner-composure-syncopation',
+    name: 'Composure Syncopated Groove',
+    shortName: 'Composure',
+    drummerId: 32,
+    drummerName: 'Matt Greiner',
+    drummerSlug: 'matt-greiner',
+    band: 'August Burns Red',
+    song: 'Composure',
+    album: 'Constellations (2009)',
+
+    category: 'signature-pattern',
+    style: 'metalcore',
+    difficulty: 'expert',
+    difficultyRating: 5,
+    bpm: 175,
+    bpmDisplay: '~175 BPM',
+    timeSignature: '4/4 (heavy syncopation)',
+
+    description: "\"Composure\" from August Burns Red's 2009 album Constellations is one of Matt Greiner's most celebrated performances and a defining moment for technical metalcore drumming. The song is a relentless display of syncopation: Greiner locks his kick drum to the band's stop-start, off-beat guitar riffing so tightly that the drums and guitars read as a single jagged rhythmic machine. What sets his playing apart is how he ornaments those syncopated hits — rather than simply doubling the riff, he weaves ghost notes, quick double-bass bursts and crash accents around the guitar stabs, turning what could be a rigid pattern into something that breathes and grooves. The track also showcases his trademark fluency moving between tight, controlled grooves and explosive fills that erupt out of the riff and land precisely back on the downbeat. For drummers, \"Composure\" is a complete study in playing with a band rather than over it: every kick and accent has a purpose tied to the arrangement, and learning it forces you to develop an internal map of where the riff lands so you can lock to it without staring at a click. It demands fast, even double bass, a strong sense of subdivision to nail the off-beat accents, and the dynamic control to make ghost notes whisper between the loud hits. Greiner has built much of his teaching career around exactly this kind of musical, riff-locked playing, and \"Composure\" is the song most often cited as the benchmark. Working through even a single section sharpens your timing, your ear for syncopation, and your ability to make a technical part feel like a groove rather than an exercise — skills that transfer directly to any modern metal style. It remains a rite-of-passage track for aspiring metalcore drummers. More than a decade on, it still appears constantly on lists of the hardest metalcore drum parts, and nailing it cleanly is a genuine milestone for any developing player.",
+
+    techniques: ['odd-time-signatures', 'double-bass', 'fill-techniques'],
+    techniqueDetails: [
+      'Lock the kick drum precisely to the off-beat guitar stabs so drums and riff align',
+      'Ornament the syncopated hits with ghost notes and quick double-bass bursts',
+      'Keep an internal map of where the riff lands so you can lock without a click',
+      'Erupt into fills out of the riff and resolve them exactly on the downbeat',
+      'Build the part in sections, mastering the syncopation slowly before adding speed',
+    ],
+
+    tutorial: {
+      youtubeId: 'iSoU9fs4Umo',
+      startTime: 0,
+      title: 'August Burns Red - Composure (Matt Greiner Drum Playthrough)',
+      description: "Matt Greiner's official drum playthrough of Composure",
+    },
+
+    gearUsed: [
+      { name: 'Tama Star Series Kit', type: 'drums', link: null },
+      { name: 'Meinl Byzance Cymbals', type: 'cymbals', link: null },
+      { name: 'Tama Speed Cobra Pedals', type: 'pedals', link: null },
+    ],
+
+    learningTips: [
+      'Tap the guitar riff with your hands away from the kit until the syncopation is internalised',
+      'Practise the double-bass bursts slowly so every stroke speaks evenly',
+      'Loop one section with a metronome before stringing the parts together',
+      'Record yourself and check that the kick lines up exactly with the riff',
+    ],
+
+    seo: {
+      title: 'Matt Greiner Composure - August Burns Red Drum Tutorial | MetalForge',
+      description: "Learn Matt Greiner's syncopated groove from August Burns Red's Composure. Video playthrough, technique breakdown, and practice tips.",
+      keywords: ['matt greiner', 'composure drums', 'august burns red', 'metalcore drumming', 'syncopation tutorial', 'constellations'],
+    },
+  },
+
+  'matt-greiner-meridian-double-bass': {
+    slug: 'matt-greiner-meridian-double-bass',
+    name: 'Meridian Double-Bass Groove',
+    shortName: 'Meridian',
+    drummerId: 32,
+    drummerName: 'Matt Greiner',
+    drummerSlug: 'matt-greiner',
+    band: 'August Burns Red',
+    song: 'Meridian',
+    album: 'Constellations (2009)',
+
+    category: 'main-groove',
+    style: 'metalcore',
+    difficulty: 'advanced',
+    difficultyRating: 4,
+    bpm: 165,
+    bpmDisplay: '~165 BPM',
+    timeSignature: '4/4',
+
+    description: "\"Meridian\" opens August Burns Red's 2009 album Constellations and immediately establishes Matt Greiner as one of metalcore's most musical heavy hitters. The song is built on driving double-bass grooves that power the verses, punctuated by the kind of crisp, articulate fills that became Greiner's signature. What makes his double bass so effective here is its evenness and its relationship to the riff: rather than a constant wall of kick, he uses bursts and sustained runs that lock to the guitar rhythm and lift each section, leaving space for the band's melodic passages to breathe. The track also highlights his command of orchestration around the kit — the way he moves a groove between the hi-hat, ride and crash-bell to mark the changing sections of the song, keeping a long arrangement feeling dynamic and purposeful. For drummers, \"Meridian\" is an ideal double-bass and groove study because the patterns are demanding but logical: the feet carry the energy while the hands hold a strong, consistent backbeat and decorate the transitions with tasteful fills. Learning it develops foot endurance, the ability to keep double bass even at tempo, and the discipline to play for the song rather than over it. It is also a great lesson in dynamics and sectioning — Greiner constantly signals where the music is going with his cymbal choices and fill placement, so studying the part trains your arranging instincts as much as your hands and feet. Approached patiently, building the double-bass figures up from a slow, even base, it rewards you with a versatile vocabulary of metalcore grooves and the stamina to play them through a full song. It is a cornerstone track for anyone wanting to play in the modern metalcore style with feel and control. Spend time with it and your foot endurance and your instinct for when to drive and when to leave space will both improve noticeably.",
+
+    techniques: ['double-bass', 'groove-drumming', 'blast-beat'],
+    techniqueDetails: [
+      'Drive the verses with even, controlled double-bass bursts locked to the riff',
+      'Hold a strong, consistent backbeat with the hands while the feet carry the energy',
+      'Move the groove between hi-hat, ride and crash-bell to mark each section',
+      'Decorate the transitions with crisp, articulate fills that serve the song',
+      'Build the double-bass figures up from a slow, even base to develop stamina',
+    ],
+
+    tutorial: {
+      youtubeId: 'bhw2vKzNaDo',
+      startTime: 0,
+      title: 'August Burns Red | Meridian (Matt Greiner Drum Playthrough)',
+      description: "Matt Greiner's official drum playthrough of Meridian",
+    },
+
+    gearUsed: [
+      { name: 'Tama Star Series Kit', type: 'drums', link: null },
+      { name: 'Meinl Byzance Cymbals', type: 'cymbals', link: null },
+      { name: 'Tama Speed Cobra Pedals', type: 'pedals', link: null },
+    ],
+
+    learningTips: [
+      'Develop double-bass endurance with slow, even foot exercises before full speed',
+      'Keep your ankles relaxed so the pedals rebound on their own',
+      'Use cymbal changes deliberately to mark the sections as Greiner does',
+      'Practise the fills separately, then place them back into the groove',
+    ],
+
+    seo: {
+      title: 'Matt Greiner Meridian - Double Bass Drum Tutorial | MetalForge',
+      description: "Learn Matt Greiner's driving double-bass groove from August Burns Red's Meridian. Video playthrough, technique breakdown, and practice tips.",
+      keywords: ['matt greiner', 'meridian drums', 'august burns red', 'double bass tutorial', 'metalcore drumming', 'constellations'],
+    },
+  },
+
+  'matt-greiner-sonic-salvation-groove': {
+    slug: 'matt-greiner-sonic-salvation-groove',
+    name: 'Sonic Salvation Metalcore Groove',
+    shortName: 'Sonic Salvation',
+    drummerId: 32,
+    drummerName: 'Matt Greiner',
+    drummerSlug: 'matt-greiner',
+    band: 'August Burns Red',
+    song: 'Sonic Salvation',
+    album: 'Guardians (2020)',
+
+    category: 'main-groove',
+    style: 'metalcore',
+    difficulty: 'advanced',
+    difficultyRating: 4,
+    bpm: 170,
+    bpmDisplay: '~170 BPM',
+    timeSignature: '4/4 (with metric shifts)',
+
+    description: "\"Sonic Salvation\" from August Burns Red's 2020 album Guardians shows a more mature, refined side of Matt Greiner's playing while keeping all the precision that made his earlier work famous. The track blends driving metalcore grooves with the band's progressive tendencies — there are tight, riff-locked verses, expansive melodic sections, and several metric shifts that demand a drummer who can stay grounded while the time feel moves underneath him. Greiner handles it with his characteristic blend of power and finesse: the double-bass work is fast and even, the backbeat is rock-solid, and the fills are inventive without ever derailing the groove. What is most instructive about this song is how he uses dynamics to shape a long, varied arrangement — pulling back to a simpler groove under the clean, melodic passages, then re-engaging the full double-bass assault when the heaviness returns. That sense of restraint and pacing is what separates a seasoned player from a flashy one, and it is on full display here. For drummers, \"Sonic Salvation\" is a great study in playing a modern, dynamic metal arrangement from start to finish: it requires endurance, the ability to navigate metric shifts without losing beat one, and the musical judgement to know when to drive and when to lay back. Learning it builds double-bass stamina, coordination across the kit, and the arranging instincts to support a song's emotional arc rather than just executing parts. Because Greiner filmed an official playthrough, the sticking and orchestration are documented, making it an accessible deep-dive for intermediate and advanced players alike. It is a strong example of how technical drumming can stay tasteful and song-serving even at the highest level of difficulty. It is the kind of track that grows with you — comfortable to approach in pieces, yet deep enough to keep rewarding study as your control and stamina improve over months of practice.",
+
+    techniques: ['groove-drumming', 'double-bass', 'fill-techniques'],
+    techniqueDetails: [
+      'Pull back to a simpler groove under the clean, melodic passages',
+      'Re-engage the full double-bass assault when the heaviness returns',
+      'Navigate the metric shifts while keeping a firm sense of beat one',
+      'Place inventive fills that decorate the groove without derailing it',
+      'Use dynamics to shape the song arc from start to finish',
+    ],
+
+    tutorial: {
+      youtubeId: 'J1fxihr8qxo',
+      startTime: 0,
+      title: 'August Burns Red - Sonic Salvation (Matt Greiner Drum Playthrough)',
+      description: "Matt Greiner's official drum playthrough of Sonic Salvation",
+    },
+
+    gearUsed: [
+      { name: 'Tama Star Series Kit', type: 'drums', link: null },
+      { name: 'Meinl Byzance Cymbals', type: 'cymbals', link: null },
+      { name: 'Tama Speed Cobra Pedals', type: 'pedals', link: null },
+    ],
+
+    learningTips: [
+      'Map the metric shifts and count each one until beat one is automatic',
+      'Practise transitioning between the laid-back and full-intensity grooves',
+      'Build double-bass endurance so the part holds up across the full song',
+      'Follow the official playthrough to learn the orchestration and sticking',
+    ],
+
+    seo: {
+      title: 'Matt Greiner Sonic Salvation - August Burns Red Drum Tutorial | MetalForge',
+      description: "Learn Matt Greiner's dynamic metalcore groove from August Burns Red's Sonic Salvation. Video playthrough, technique breakdown, and practice tips.",
+      keywords: ['matt greiner', 'sonic salvation drums', 'august burns red', 'metalcore drumming', 'double bass tutorial', 'guardians'],
+    },
+  },
+
+  // ==========================================
+  // BEN KOLLER - Converge (#1012, split 3/5 of #1008)
+  // ==========================================
+  'ben-koller-concubine-grind': {
+    slug: 'ben-koller-concubine-grind',
+    name: 'Concubine Grind Assault',
+    shortName: 'Concubine',
+    drummerId: 34,
+    drummerName: 'Ben Koller',
+    drummerSlug: 'ben-koller',
+    band: 'Converge',
+    song: 'Concubine',
+    album: 'Jane Doe (2001)',
+
+    category: 'signature-pattern',
+    style: 'mathcore',
+    difficulty: 'expert',
+    difficultyRating: 5,
+    bpm: 210,
+    bpmDisplay: '~210 BPM',
+    timeSignature: '4/4 (frantic, riff-led)',
+
+    description: "\"Concubine\" is the explosive opening track of Converge's landmark 2001 album Jane Doe, and Ben Koller's drumming on it is one of the most influential performances in the history of mathcore and chaotic hardcore. Lasting barely over a minute, the song is a furious blur of blast-influenced speed, lurching tempo changes and jagged accents, and Koller plays it with a wild, almost unhinged energy that nonetheless stays locked to Kurt Ballou's serrated guitar riffing. What makes his approach so distinctive is that he treats the kit like a hardcore punk drummer rather than a metal technician — there is enormous physicality and abandon in his playing, yet the precision required to track the riff's sudden stops and restarts is immense. The track careens between flat-out blasting, frantic single-stroke fills that tumble around the toms, and tight, punchy hardcore grooves, all delivered at a tempo that punishes any hesitation. For drummers, \"Concubine\" is a study in controlled chaos: it demands raw speed, fearless dynamics, and the ability to lock to a riff that is deliberately trying to throw you off, all while playing with the kind of loose, aggressive feel that gives Converge its identity. Learning even part of it builds single-stroke speed, blast-beat stamina, and the confidence to attack the kit hard without losing the thread of the arrangement. It is also a lesson in feel over polish — the goal is not robotic perfection but a performance that sounds dangerous and alive while still hitting every transition. Koller's drum-cam footage of the song reveals just how much body and motion go into it, making it a fascinating watch for anyone studying how to generate that much intensity. It remains a benchmark for extreme hardcore drumming. Decades after its release it still sounds shockingly intense, and learning to play it with that same reckless abandon is a goal worth chasing for any hardcore drummer.",
+
+    techniques: ['blast-beat', 'fill-techniques', 'double-bass'],
+    techniqueDetails: [
+      'Lock the frantic groove to the guitar riff through its sudden stops and restarts',
+      'Drive the fast sections with blast-influenced single strokes between snare and hi-hat',
+      'Tumble single-stroke fills around the toms and resolve them on the downbeat',
+      'Attack the kit hard with a loose, aggressive hardcore feel rather than rigid precision',
+      'Build speed and stamina from a slower tempo before approaching full pace',
+    ],
+
+    tutorial: {
+      youtubeId: '5T4iTvQ8ZUg',
+      startTime: 0,
+      title: 'Converge Concubine and Dark Horse Live GoPro drum cam Ben Koller',
+      description: 'Ben Koller GoPro drum cam of Concubine',
+    },
+
+    gearUsed: [
+      { name: 'Tama Drums', type: 'drums', link: null },
+      { name: 'Zildjian Cymbals', type: 'cymbals', link: null },
+      { name: 'Tama Iron Cobra Pedals', type: 'pedals', link: null },
+    ],
+
+    learningTips: [
+      'Build single-stroke speed on a practice pad before taking it to the kit',
+      'Work blast stamina up gradually with a metronome — start well below tempo',
+      'Tap the riff to internalise its stops and restarts before playing along',
+      'Focus on aggressive feel and energy, not robotic precision',
+    ],
+
+    seo: {
+      title: 'Ben Koller Concubine - Converge Drum Tutorial | MetalForge',
+      description: "Learn Ben Koller's grind assault from Converge's Concubine. Drum-cam footage, technique breakdown, and practice tips.",
+      keywords: ['ben koller', 'concubine drums', 'converge', 'mathcore drumming', 'hardcore drum tutorial', 'jane doe'],
+    },
+  },
+
+  'ben-koller-dark-horse-fills': {
+    slug: 'ben-koller-dark-horse-fills',
+    name: 'Dark Horse Driving Fills',
+    shortName: 'Dark Horse',
+    drummerId: 34,
+    drummerName: 'Ben Koller',
+    drummerSlug: 'ben-koller',
+    band: 'Converge',
+    song: 'Dark Horse',
+    album: 'Axe to Fall (2009)',
+
+    category: 'fill',
+    style: 'mathcore',
+    difficulty: 'advanced',
+    difficultyRating: 4,
+    bpm: 190,
+    bpmDisplay: '~190 BPM',
+    timeSignature: '4/4',
+
+    description: "\"Dark Horse\" opens Converge's 2009 album Axe to Fall and is one of Ben Koller's most propulsive, fill-heavy performances. Compared with the all-out chaos of earlier Converge material, this song rides a more driving, almost galloping feel, and Koller fills the space with a constant stream of explosive fills and tom runs that push the song relentlessly forward. The track is a showcase of his fill vocabulary: rapid single strokes, snare-and-tom combinations and crash accents that erupt out of the groove and slam back into the pulse, all delivered with his trademark physical, hardcore-rooted energy. Underneath the flash, the groove stays urgent and powerful — the kick and snare drive hard while the hands decorate every available gap, creating a sense of perpetual motion that is central to the song's intensity. For drummers, \"Dark Horse\" is an excellent study in fill placement and forward momentum: the challenge is to play busy without ever sounding cluttered, keeping the fills musical and the groove always present beneath them. Learning it develops single-stroke speed around the kit, the coordination to move seamlessly between groove and fill, and the timing discipline to resolve every burst exactly where the song needs it. It also teaches an important lesson about energy — Koller's playing here is about momentum and feel as much as technique, and capturing that drive is as important as hitting the notes. Because there are clean drum-focused versions of the part available, the orchestration is easy to study, making it an accessible deep-dive for advancing players. It is a great track for building the kind of relentless, fill-driven playing that defines modern aggressive hardcore and mathcore drumming, and a fine example of Koller's enduring influence on the style. Few songs better demonstrate how to keep a part busy and exciting without ever burying the groove that holds it all together.",
+
+    techniques: ['groove-drumming', 'fill-techniques', 'double-bass'],
+    techniqueDetails: [
+      'Keep an urgent, driving kick-and-snare groove beneath the constant fills',
+      'Erupt into single-stroke tom runs and resolve them back into the pulse',
+      'Decorate every available gap without letting the groove sound cluttered',
+      'Use crash accents to punctuate the ends of phrases',
+      'Resolve every fill exactly on the beat the song demands',
+    ],
+
+    tutorial: {
+      youtubeId: 'B8ocT6G5YcI',
+      startTime: 0,
+      title: 'Converge - "Dark Horse" E-Kit Playthrough',
+      description: 'Clean drum-focused playthrough of Dark Horse',
+    },
+
+    gearUsed: [
+      { name: 'Tama Drums', type: 'drums', link: null },
+      { name: 'Zildjian Cymbals', type: 'cymbals', link: null },
+      { name: 'Tama Iron Cobra Pedals', type: 'pedals', link: null },
+    ],
+
+    learningTips: [
+      'Practise single-stroke fills slowly around the toms before bringing them up to speed',
+      'Make sure the groove stays present and urgent underneath the fills',
+      'Use a metronome to land every fill precisely back on the beat',
+      'Focus on momentum and feel, not just executing the notes',
+    ],
+
+    seo: {
+      title: 'Ben Koller Dark Horse - Converge Drum Fill Tutorial | MetalForge',
+      description: "Learn Ben Koller's driving fills from Converge's Dark Horse. Drum playthrough, technique breakdown, and practice tips.",
+      keywords: ['ben koller', 'dark horse drums', 'converge', 'drum fill tutorial', 'mathcore drumming', 'axe to fall'],
+    },
+  },
+
+  'ben-koller-aimless-arrow-hardcore': {
+    slug: 'ben-koller-aimless-arrow-hardcore',
+    name: 'Aimless Arrow Hardcore Drive',
+    shortName: 'Aimless Arrow',
+    drummerId: 34,
+    drummerName: 'Ben Koller',
+    drummerSlug: 'ben-koller',
+    band: 'Converge',
+    song: 'Aimless Arrow',
+    album: 'Jane Doe (2001)',
+
+    category: 'main-groove',
+    style: 'mathcore',
+    difficulty: 'advanced',
+    difficultyRating: 4,
+    bpm: 185,
+    bpmDisplay: '~185 BPM',
+    timeSignature: '4/4',
+
+    description: "\"Aimless Arrow\" from Converge's 2001 masterpiece Jane Doe is a perfect example of Ben Koller's ability to balance hardcore power with mathcore unpredictability. The song moves between pounding, mid-tempo hardcore grooves and faster, more frantic passages, and Koller navigates those shifts with a physical, driving feel that never loses its sense of purpose. His playing here is less about constant blasting and more about dynamics and impact: he leans into heavy, deliberate backbeats during the slower sections, then unleashes bursts of speed and tumbling fills when the song accelerates, using the contrast to maximise intensity. The track demands a strong, confident groove, the coordination to switch gears instantly, and the kind of aggressive attack that gives Converge its visceral edge. What makes it instructive is the way Koller uses space — he does not fill every moment, instead choosing his spots so that when the fast sections and fills arrive they hit with real force. For drummers, \"Aimless Arrow\" is a great study in dynamics, gear-changing and hardcore feel: learning it develops the ability to play heavy and deliberate one moment and fast and chaotic the next, all while keeping the groove rooted and powerful. It builds single-stroke speed, coordination between hands and feet through the tempo shifts, and the musical judgement to use restraint as a tool for impact. Koller's GoPro drum-cam footage of the song captures the sheer physicality of his approach, showing how much of the intensity comes from body and motion rather than just technique. It is a foundational track for understanding how to bring hardcore energy and dynamic contrast to aggressive metal drumming, and another reason Koller is regarded as one of the most influential players in the genre. Working through it will leave you with a sharper sense of dynamics and a more powerful, confident hardcore feel that carries into everything else you play.",
+
+    techniques: ['blast-beat', 'fill-techniques', 'groove-drumming'],
+    techniqueDetails: [
+      'Lean into heavy, deliberate backbeats during the mid-tempo hardcore sections',
+      'Unleash bursts of speed and tumbling fills when the song accelerates',
+      'Switch gears instantly between the slow and fast passages',
+      'Use space and restraint so the fast sections hit with maximum force',
+      'Keep the groove rooted and powerful through every tempo change',
+    ],
+
+    tutorial: {
+      youtubeId: 'JWfmoA5jFMQ',
+      startTime: 0,
+      title: 'Converge - Aimless Arrow GoPro POV Drum Cam',
+      description: 'Ben Koller GoPro drum cam of Aimless Arrow',
+    },
+
+    gearUsed: [
+      { name: 'Tama Drums', type: 'drums', link: null },
+      { name: 'Zildjian Cymbals', type: 'cymbals', link: null },
+      { name: 'Tama Iron Cobra Pedals', type: 'pedals', link: null },
+    ],
+
+    learningTips: [
+      'Practise switching between heavy mid-tempo grooves and fast bursts',
+      'Build single-stroke speed gradually for the accelerated sections',
+      'Use dynamics deliberately — restraint makes the fast parts hit harder',
+      'Watch the drum-cam footage to see how much motion drives the intensity',
+    ],
+
+    seo: {
+      title: 'Ben Koller Aimless Arrow - Converge Drum Tutorial | MetalForge',
+      description: "Learn Ben Koller's hardcore drive and dynamics from Converge's Aimless Arrow. Drum-cam footage, technique breakdown, and practice tips.",
+      keywords: ['ben koller', 'aimless arrow drums', 'converge', 'hardcore drum tutorial', 'mathcore drumming', 'jane doe'],
+    },
+  },
   // ==========================================
   // JOEY JORDISON - Slipknot
   // ==========================================

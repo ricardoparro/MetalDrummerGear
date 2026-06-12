@@ -1,2 +1,4 @@
-.agents/seo-plan.md merge=union
+# Append-only agent run-logs: auto-keep both sides on merge so parallel
+# agent runs stop conflicting on these files (see CEO decisions-log 2026-06-12).
+.agents/ceo/decisions-log.md merge=union
 .agents/seo-plan.md merge=union

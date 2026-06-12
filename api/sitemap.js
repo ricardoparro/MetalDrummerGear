@@ -226,6 +226,18 @@ const signatureGearPages = [
 
 // Issue #749: Signature Licks Database pages
 const signatureLicksPages = [
+  // Danny Carey licks (Issue #1013)
+  { drummerSlug: 'danny-carey', lickSlug: 'danny-carey-pneuma-groove', name: 'Pneuma Main Groove' },
+  { drummerSlug: 'danny-carey', lickSlug: 'danny-carey-schism-intro', name: 'Schism Intro Pattern' },
+  { drummerSlug: 'danny-carey', lickSlug: 'danny-carey-forty-six-and-2-outro', name: 'Forty Six & 2 Outro Solo' },
+  // Gene Hoglan licks (Issue #1013)
+  { drummerSlug: 'gene-hoglan', lickSlug: 'gene-hoglan-the-philosopher-groove', name: 'The Philosopher Groove' },
+  { drummerSlug: 'gene-hoglan', lickSlug: 'gene-hoglan-crystal-mountain-groove', name: 'Crystal Mountain Groove' },
+  { drummerSlug: 'gene-hoglan', lickSlug: 'gene-hoglan-zero-tolerance-groove', name: 'Zero Tolerance Groove' },
+  // Tomas Haake licks (Issue #1013)
+  { drummerSlug: 'tomas-haake', lickSlug: 'tomas-haake-bleed-groove', name: 'Bleed Double Bass Groove' },
+  { drummerSlug: 'tomas-haake', lickSlug: 'tomas-haake-clockworks-groove', name: 'Clockworks Polymetric Groove' },
+  { drummerSlug: 'tomas-haake', lickSlug: 'tomas-haake-new-millennium-cyanide-christ-groove', name: 'New Millennium Cyanide Christ Groove' },
   // Joey Jordison licks
   { drummerSlug: 'joey-jordison', lickSlug: 'joey-jordison-heretic-anthem-intro', name: 'Heretic Anthem Intro' },
   { drummerSlug: 'joey-jordison', lickSlug: 'joey-jordison-eyeless-blast', name: 'Eyeless Blast Section' },
@@ -270,6 +282,10 @@ const signatureLicksPages = [
 
 // Drummers with licks hub pages
 const drummerLicksHubs = [
+  // Issue #1013 — marquee batch A
+  { drummerSlug: 'danny-carey', name: 'Danny Carey' },
+  { drummerSlug: 'gene-hoglan', name: 'Gene Hoglan' },
+  { drummerSlug: 'tomas-haake', name: 'Tomas Haake' },
   { drummerSlug: 'joey-jordison', name: 'Joey Jordison' },
   { drummerSlug: 'lars-ulrich', name: 'Lars Ulrich' },
   { drummerSlug: 'dave-lombardo', name: 'Dave Lombardo' },

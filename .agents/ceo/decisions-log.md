@@ -2965,3 +2965,29 @@ Offense (compounding lick surfaces) is over-supplied relative to the line's merg
 4. **#910 GSC** — file first real GSC-gap escalations the instant it lands.
 
 *Última revisão: CEO Agent — 2026-06-12 deep run (diagnosed the merge-throughput bottleneck: 9 clean PRs unmerged, serialized on monolithic signatureLicks.js; fast-tracked root-cause #1056; filed founder issue #1060 for merge-authority/auto-merge; deliberately held new lick issues to avoid deepening the rebase queue; GSC #910 still the binding KPI blocker)*
+
+---
+
+## 2026-06-12 (Friday) — 07:38 deep-run re-fire + Weekly Summary (consolidated onto this branch — NOT a 4th CEO PR)
+
+The 07:00 deep run (this branch / #1061) already diagnosed the bottleneck and took the right actions. This re-fire adds only what's genuinely new, **deliberately consolidated onto #1061's branch rather than opening another CEO PR** — the open-PR pile is the very problem; a 4th CEO housekeeping PR would deepen it.
+
+### New since #1061 was written
+1. **Triaged the one pending `seo-proposal` → APPROVED #1062** (`SearchAction` / sitelinks-searchbox on the homepage `WebSite` JSON-LD). Added `ai-fix`. Verified before approving: site search is real (`/tools/gear-search?q=` — `GearSearch.js:242-243,345`), the homepage `WebSite` block exists where the proposal targets it (`App.js:4290-4296`), and the fix is genuinely atomic (one schema object, one file). Low-risk CTR/polish lever on `/` (our #1 GA4 page, 29 views/7d). Impact ~4⭐ (Curto ⭐ fast-index, Médio ⭐⭐ compounding branded CTR, Longo ⭐). All other open `seo-proposal`s (#1051/#1053/#1054/#1058) already carry `ai-fix`.
+2. **Atomic-split sweep — ran, nothing to split.** Every stale `ai-fix` issue is PR'd-and-waiting in the merge pile, not stalled-for-atomicity: #1012→PR#1039, #1013→PR#1040, #1006→PR#1032, #1007 depends on #1006 landing, #984 blocked on founder #987. Confirms the constraint is **100% merge throughput**, not issue granularity. No splits manufactured (would be noise).
+3. **Held new generation** (consistent with #1061). Queue saturated: 11 open PRs, 8 open lick issues. The lever is clearing the path (#1056 + #1060), not adding WIP.
+
+### 📅 Weekly Summary (week ending Fri 2026-06-12)
+- **Traffic:** GA4 7d = **51 users / 60 sessions / 115 views**, up from ~41 last week. **Organic Search 65%** (39/60 sessions) — moat thesis holding for a 3rd straight week. `/` is #1, `/drummers` #2, `/quiz` #3; signature-lick + Portnoy-kit surfaces still pulling organic.
+- **Shipped this week:** signature-licks Phase 2 wave (#1010 schema, #1011/#1014 data → merged), LLM citation surface completed (#1019 faq.md, #1020 gear-guide.md, #1021 sitemap, #1022 llms.txt refresh), drummer canonical fix (#1015). Roughly one feature PR/day landing — production + triage both healthy.
+- **The one red flag:** **merge throughput.** 11 PRs sit CLEAN/MERGEABLE unmerged (3 are finished feature work: #1040/#1039/#1032). Root cause = serialization on monolithic `signatureLicks.js` (#1056 fixes it) + no automated merge consumer (#1060 asks Ricardo to enable auto-merge). **Every unmerged feature PR is finished SEO work that isn't indexed yet** — this is the single thing gating the KPI this week.
+- **Still blind:** GSC (#910) — KPI #1 (impressions × CTR) remains unmeasurable; escalated ×4, holding without re-spam.
+- **Dormant/founder-owned (not blockers for strategy):** #987 (YouTube gate wire-up), #909 (stale), social #525/#526/#528/#529.
+
+### Next Run (13:00 mid-day pulse)
+1. **Check #1060 + the PR pile** — did Ricardo merge #1040/#1039/#1032 or enable auto-merge? Target: open-PR count < 4.
+2. **Check #1056** — has the `signatureLicks.js` modularization started? It's the gate for all queued lick work.
+3. **Resume lick-issue generation ONLY once** open-PR count < 4. Until then, hold.
+4. **#910 GSC** — file the first real GSC-gap escalations the instant it lands.
+
+*Última revisão: CEO Agent — 2026-06-12 Friday re-fire (approved the one pending proposal #1062 SearchAction → ai-fix; atomic-split sweep found nothing stalled-for-atomicity — all stale issues are merge-pile-blocked; logged the weekly summary: traffic 41→51, organic 65%, merge throughput is the week's one red flag; consolidated onto #1061's branch to avoid deepening the PR pile)*

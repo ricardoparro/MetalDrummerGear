@@ -4,6 +4,50 @@
 
 ---
 
+## 2026-06-12 (Friday) — Deep Run (07:00, metrics refreshed 00:48 UTC)
+
+### State at start
+- **GA4 (7d):** 51 active users / 60 sessions / 115 views — **best 7d volume in weeks** (was ~41 on 06-08). Engagement 63%, avg session 88s. **Organic Search = 65% (39/60 sessions)** — moat thesis holding. Top pages: `/` (29), `/drummers` (10), `/quiz` (7), then drummer profiles. Lick pages no longer in the top-10 snapshot but profile long-tail is broad.
+- **GSC: STILL blind** (`GSC_SITE` missing) — #910 unmoved (last touched 06-11, no resolution). #1 KPI remains unmeasurable. Held — escalated ×4 already, no re-spam.
+- Founder inbox: **empty** (no new entries since 06-04).
+
+### 🎯 PRIMARY ACTION — SEO-proposal triage
+- **APPROVED #1051** (`/facts` orphan → sitemap + footer link) → `ai-fix`. Score **6⭐**, zero blockers, non-duplicate. The rare free win: a live FAQPage-schema page (shipped #452) that Google has **no crawl path to** — not in `sitemap.xml`, zero internal links, only referenced from `llms/index.md`. Atomic as written; Watcher can take it directly. Serves both KPIs (informational long-tail + LLM-quotable FAQ format).
+- **Queue cleanup:** removed stale `seo-proposal` label from **#1045** and **#1042** — both already carried `ai-fix` (approved on the 06-11 run) but still showed in the proposal queue. Triage queue now accurate.
+
+### 🔴 BINDING CONSTRAINT THIS RUN — PR merge throughput, not atomicity
+The atomic-split sweep found **nothing to split** — every stale `ai-fix` issue already has an open PR or is dependency-blocked on a sibling PR. The real bottleneck is **5 open PRs not landing**:
+
+| PR | Issue | State | Note |
+|---|---|---|---|
+| #1046 | #1044 batch + #1045 | **CLEAN** | Ready to merge — awaiting Ricardo |
+| #1043 | #1042 (CEO 06-11 log) | BEHIND | Needs rebase only |
+| #1032 | #1006 | **CONFLICTING** | blocks #1007 (split 3/3) downstream |
+| #1039 | #1012 | **CONFLICTING** | lick batch |
+| #1040 | #1013 | **CONFLICTING** | lick batch |
+
+**Root cause:** the lick batches + internal-linking blocks all append to the same `SignatureLicks.js` data array and sitemap arrays, so sibling PRs **serialize** — each conflicts with `main` the moment another merges. Classic parallel-PRs-on-one-append-only-file problem.
+
+**Action taken:** commented the recommended drain order on the 3 dirty PRs — **#1046 → #1032 → #1039 → #1040**, rebase each after the prior merges. No content change needed, just conflict resolution.
+
+**Structural lesson (for future splits):** when splitting a programmatic batch where every sub-issue appends to the *same* data file, the splits cannot merge in parallel — they must be serialized or partitioned by file. Future lick/programmatic splits should either (a) note an explicit merge order in each issue body, or (b) be designed so each split owns a distinct data module. Noting here; candidate for a CEO-AGENT.md atomic-split-rule addendum on a daytime edit.
+
+### Held, on-protocol
+- **#910 GSC** + **#987 YouTube-gate wire-up** + 4 dormant social blockers (#525/#526/#528/#529): all `human-founder`, already escalated — no re-spam. GSC remains the single highest-leverage unblock (turns the #1 KPI from blind → measurable; would let me finally file real GSC-gap content escalations).
+- **#1012/#1013** previously watcher-deferred on "can't source verified YouTube IDs" — now have PRs (#1039/#1040), so the data got supplied. Progressing; just need rebase.
+
+### Portfolio read
+Volume up ~24% week-over-week (41→51 users) with organic holding at ~65% — the medium-term lick-surface + LLM-citation compound bet is showing through despite GSC blindness. Offense (compounding ranking surfaces) is the active front; the only thing throttling it now is **merge throughput**, not idea supply or atomicity. Draining the 5-PR queue is worth more this week than any new issue.
+
+### Next Run (13:00 mid-day pulse)
+1. **Did #1046 merge?** If yes, nudge #1032 rebase next per the drain order.
+2. **#1051** — did Watcher open a PR? (atomic, should move fast).
+3. **#910 GSC** — the instant it lands, file the first real GSC-gap content escalations (dormant quota since launch).
+
+*Última revisão: CEO Agent — 2026-06-12 deep run (approved #1051 /facts orphan fix; cleaned stale proposal labels on #1045/#1042; identified PR merge-conflict serialization as the binding delivery constraint and flagged drain order on #1032/#1039/#1040; GSC #910 still the #1 unblock)*
+
+---
+
 ## 2026-01-31 — Initial Strategy
 
 ### Decision: Launch with 13 drummers, expand to 25 in Phase 1

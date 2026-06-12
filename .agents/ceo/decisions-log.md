@@ -3245,3 +3245,30 @@ State at start: metrics fresh (14:01 UTC — 52 active users / 60 sessions / 120
 4. **#910 GSC** — file the first real GSC-gap escalations the instant `GSC_SITE` lands.
 
 *Última revisão: CEO Agent — 2026-06-12 14:00 execution run (MERGED #1070 → completed the #874 internal-linking initiative across all 62 drummer pages, #1007 closed; APPROVED the one pending proposal #1069 /drummers CollectionPage+ItemList schema → ai-fix, verified-genuine + atomic; queue fully triaged, 0 open PRs; GSC #910 still the binding KPI blocker)*
+
+---
+
+## 2026-06-12 (Friday) — Late Run (triage #1072 sitemap-lastmod)
+
+State at start (16:56 UTC): metrics fresh — 52 active users / 60 sessions / 120 views, **Organic Search 41/60 ≈ 68%** (moat thesis holding a 3rd straight week); top pages `/`, `/drummers`, `/quiz`. **0 open PRs** (14:00 run merged #1070; nothing new opened since → the binding constraint remains the *implementer/consumer* #909, not the queue). Founder inbox empty. GSC still blind (#910). The SEO Agent logged one fresh proposal since the 14:00 run: **#1072**.
+
+### Actions
+1. **Triaged #1072 → APPROVED, added `ai-fix`.** Sitemap `<lastmod>` repair: stop stamping `new Date()` (today) on every URL each crawl. **Verified the premise myself before approving** (not just trusting the proposal): `api/sitemap.js:408` computes `const today = new Date()...` and `:490` stamps it on every URL; `ALBUM_ARTICLES` carries real per-article `dateModified` (`2026-03-08` etc.) in `packages/frontend/data/albumArticles.js` — so the honest-date data already exists. Fix = articles use their true `dateModified`, everything else uses one stable `SITE_LASTMOD` constant. Atomic (one file, `<lastmod>` value only — no URLs added/removed). Impact ~4⭐, pure upside: Médio ⭐⭐ (crawl-scheduling efficiency across the expanding programmatic surface = the indexed-pages KPI). Not a dup of #1053 (crawl-path layer vs. freshness-signal layer — they compound). Left an implementer note: keep `SITE_LASTMOD` a *stable* constant, don't rewire it to `new Date()`.
+
+### Quota check
+- ✅ **SEO proposals:** queue drained — #1072 was the only un-triaged one; now `ai-fix`. All others (#1051/#1053/#1054/#1058/#1062/#1064/#1069) already carry `ai-fix`.
+- ✅ **Founder ideas:** inbox empty.
+- ⛔ **GSC-gap escalation:** still blind (#910). Held — no re-spam (escalated ×4+). The instant `GSC_SITE` lands this becomes the #1 work item.
+- ✅ **Atomic-split sweep:** nothing non-atomic. Issues created 06-11/06-12 are <3d old; #984 (>3d) already confirmed atomic + founder-blocked on #987. No `ceo-aggressive` issues open. No split warranted.
+- ✅ **Decisions logged** (this entry).
+
+### Standing observation — the real constraint
+3 CEO runs today (mid-day, 14:00, late) each found the same pattern: **proposals get triaged to `ai-fix` fast, but issues only ship when a PR happens to open.** With 0 open PRs and a deep `ai-fix` backlog (#1042/#1045/#1047–1050/#1051/#1053/#1054/#1056/#1058/#1062/#1064/#1069/#1072), throughput is implementer-bound, not orchestration-bound. This is exactly #909 (queue has no reliable consumer) + #1060 (auto-merge). Not filing new feature issues into a backlog that isn't draining — that just inflates WIP. Holding the line at triage + sequencing until the consumer side moves.
+
+### Next Run (2026-06-13 07:00 deep run)
+1. **Check the `ai-fix` backlog drain rate** — if still 0 PRs / no pickups, the report up to Ricardo is the consumer constraint (#909/#1060), not more issues. Resist backlog inflation.
+2. **#1056 first** — modularize `signatureLicks.js` before lick batches #1047–#1050 (append-serialization tax on the 171KB monolith).
+3. **#1072 / #1069** — verify PRs open and merge when CLEAN.
+4. **#910 GSC** — file the first real GSC-gap escalations the instant `GSC_SITE` lands.
+
+*Última revisão: CEO Agent — 2026-06-12 late run (APPROVED the one fresh proposal #1072 sitemap-lastmod repair → ai-fix, premise self-verified at api/sitemap.js:408/490 + albumArticles dateModified; queue fully triaged, 0 open PRs; named the standing constraint — throughput is implementer-bound #909/#1060, not orchestration-bound — and held WIP rather than inflating the backlog; GSC #910 still the binding KPI blocker)*

@@ -77,6 +77,13 @@
 - 21 drummers currently with bios, gear, videos, endorsements
 
 ## Recent Progress
+- **2026-06-12:** 🔍 **SEO Agent weekly run (Week 2).** Audit + 2 net-new single-fix proposals, both targeting GA4 organic darlings the saturated `ai-fix` queue doesn't touch.
+  - **Audit:** robots.txt allows all 8 AI crawlers (+ Claude-Web) ✅. Quick Facts box shipped to all 62 drummer pages (#991/#1030 mobile-tuned) ✅. LLM markdown surface complete: `index.md` + `faq.md` (#1034) + `gear-guide.md` (#1035) + **61 drummer `.md`** + `llms-full.txt` (302KB) all live; `/llms/*.md` now in sitemap (#1037) ✅. Pipeline **confirmed consuming** — ~1 SEO PR/day merging since 06-08 (technique #1023/1025/1027, gear-series #1024/1026/1028/1029, lick schema #1036, lick batches #1038/1041, related-drummers #1031, canonical #1033). GSC still **blind** (#910). Live Lighthouse not run (no Chrome in sandbox); fundamentals verified statically.
+  - **Found the lick/programmatic queue heavily saturated** (open `ai-fix`: Phase-2 licks #1012/#1013, Phase-3b licks #1047–1050, hubs #1042/#1045, `/facts` #1051, #874 internal-linking #1006/#1007). Did **not** duplicate any of it.
+  - **NEW finding — top organic pages missing from sitemap.** The #2 page `/drummers` (10 views/wk, the 62-profile hub) and #3 page `/quiz` (7 views/wk) are real indexable routes (`App.js:17732`, `:17745`) but **absent from `api/sitemap.js`** — found by Google via internal links only, never formally declared. Same bug class as #1051 (`/facts`) but on pages *already proven to rank*.
+    - **Filed #1053** (`seo-proposal`, 🔴 atomic): add `/drummers` + `/quiz` (bare paths) to sitemap.xml.
+    - **Filed #1054** (`seo-proposal`, 🟠 atomic): fix `/quiz` canonical fragmentation — quiz-result variants (`/quiz?result=<slug>`, ~62) self-canonicalize via `ogMetaTags.js:401` + default `setCanonical:true`, splitting the page's ranking signal. Force canonical → `/quiz`, keep result-specific og:url for share cards. Complements #1053.
+  - **Deferred (deliberately):** no new lick/technique/internal-link proposals — that queue is full and consuming; over-filing it = noise (anti-noise principle).
 - **2026-06-08:** 🔍 **Inaugural SEO Agent cron run** (Mondays 08:00 UTC). Audit + 1 net-new proposal.
   - **Audit:** robots.txt allows all 8 AI crawlers ✅. Quick Facts box live on drummer pages (#872 merged, commit `fbf985e`; mobile tweaks pending #1001). LLM markdown surface: `index.md` + **61/61 drummer `.md`** + `llms-full.txt` all live. GSC still **blind** (`GSC_SITE` missing, #910) — proposals run on GA4-only signal. Live Lighthouse not run (no Chrome/egress in cron sandbox); SEO fundamentals verified statically (title/meta/canonical/schema all present in code).
   - **Found the standard programmatic queue already saturated:** overnight CEO atomic-split filed + promoted the whole on-strategy batch — CEO-024 signature licks (#1008→#1010–1014), internal-linking #874 (#1005–1007), technique #870 (#992–994), gear/series #871 (#995–998), Quick Facts mobile #872 (#1001), canonical #1015. Did **not** duplicate any of it (anti-noise principle).
@@ -92,4 +99,4 @@
 - **2026-02-01:** FAQPage (#36) and ItemList (#37) completed
 
 ---
-*Last updated: 2026-06-08 by SEO Agent (inaugural cron run)*
+*Last updated: 2026-06-12 by SEO Agent (Week 2 run — filed #1053 sitemap gap + #1054 quiz canonical)*

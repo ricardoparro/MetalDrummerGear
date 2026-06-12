@@ -2933,3 +2933,35 @@ This is the deliberate medium-term SEO-compound rebalance executing: the one sur
 4. **#987** — if Ricardo wired the gate, run the #984 acceptance test (dead-ID PR must go red); else hold.
 
 *Última revisão: CEO Agent — 2026-06-08 overnight (triaged the inaugural SEO Agent proposal #1008 = CEO-024 lick batch; APPROVED-and-split into 5 atomic `ai-fix` issues #1010-1014, schema-first; handoff validated; GSC #910 + gate #987 still the binding founder-owned constraints)*
+
+---
+
+## 2026-06-12 (Friday) — Deep Run (07:00 UTC)
+
+> **NB:** This log on `main` ends at 06-08 because every CEO run since (06-11 deep #1043, 06-12 deep #1052, 06-12 pulse #1057) is sitting in **unmerged PRs**. That gap *is* the headline finding of this run.
+
+### State at start (metrics refreshed 05:36 UTC)
+- **GA4 (7d):** 51 active users / 60 sessions / 115 views. **Organic Search = 65% (39/60), 35 users** — moat thesis holding; absolute volume ticked up (~41 → 51). Top pages: `/` (29), `/drummers` (10), `/quiz` (7), then drummer profiles. Portnoy kit article surfacing (3).
+- **GSC: STILL blind** (`GSC_SITE` missing) — #910 unmoved. #1 KPI unmeasurable; no GSC-gap escalations possible. Held (escalated ×4, no re-spam).
+- **Founder inbox: empty.** No new ideas to process.
+- **SEO-proposal triage: nothing pending** — #1051/#1053/#1054/#1058 all already carry `ai-fix` (triaged by 06-12 00:51/01:59 runs).
+
+### 🎯 PRIMARY FINDING — the binding constraint is MERGE throughput, not idea supply
+Production (Ralph opens feat PRs) and triage (CEO approvals) are both healthy. **Shipping is the choke point: 9 open PRs, all MERGEABLE/CLEAN, are not landing** — including 3 shippable feature PRs (#1040 licks, #1039 licks, #1032 gear-block). Merges happen but are **serialized** because every lick PR appends to the monolithic `signatureLicks.js` (+ two `api/sitemap.js` arrays), so siblings conflict and must rebase one-by-one. The root-cause fix #1056 is itself stuck in the same queue.
+
+### Decisions this run
+1. **Did NOT generate new programmatic lick issues** (deliberate quota deviation). The queue is saturated — 8 open lick issues (#1012/#1013/#1047–#1050) + 2 lick PRs serializing on one file. Adding WIP worsens the merge-conflict serialization. **Throughput is subordinate to the daily quota; manufacturing WIP onto a backed-up line is the wrong move.** The quota assumes a draining queue; it isn't.
+2. **Fast-tracked #1056** (modularize `signatureLicks.js`) — commented to flag it as the unblock-everything dependency: implement *before* merging further lick batches so lick PRs become non-conflicting and merge in parallel. This is the *conflict* half of the bottleneck.
+3. **Filed #1060 (`human-founder`)** — the *merge-authority* half. The CEO Actions token is read-limited (cannot read branch protection or `pr checks`, cannot merge). Asked Ricardo to (a) merge the 3 feature PRs now, (b) enable GitHub auto-merge + grant Watcher/CI merge permission on green CI so green PRs land without manual intervention. Success metric: open-PR count < 3 between runs.
+4. **Did NOT** re-spam #909 (stale "no consumer" — pipeline demonstrably consuming), #910, #987; **did NOT** self-merge anything; **did NOT** touch the 4 dormant social blockers (#525/#526/#528/#529).
+
+### Portfolio read
+Offense (compounding lick surfaces) is over-supplied relative to the line's merge rate. The correct lever this week is not *more* content issues but *clearing the merge path* — #1056 (conflict) + #1060 (authority). Until one of those lands, every new lick issue just deepens the rebase queue. Traffic up modestly (41→51) with organic holding ~65% — the proven lick surface is working; the job now is to let finished work ship.
+
+### Next Run (13:00 mid-day pulse)
+1. **Check #1060** — did Ricardo merge the 3 feature PRs / enable auto-merge? If merged, the open-PR count should drop and the queue logic frees up.
+2. **Check #1056** — has Ralph/Watcher started the modularization? It's the gate for all queued lick work.
+3. **Resume lick-issue generation ONLY once** open-PR count < 4 (queue draining). Until then, hold.
+4. **#910 GSC** — file first real GSC-gap escalations the instant it lands.
+
+*Última revisão: CEO Agent — 2026-06-12 deep run (diagnosed the merge-throughput bottleneck: 9 clean PRs unmerged, serialized on monolithic signatureLicks.js; fast-tracked root-cause #1056; filed founder issue #1060 for merge-authority/auto-merge; deliberately held new lick issues to avoid deepening the rebase queue; GSC #910 still the binding KPI blocker)*

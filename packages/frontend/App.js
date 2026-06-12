@@ -213,6 +213,9 @@ import StickyCTA from './components/StickyCTA';
 // Related Drummers internal-linking block (Issue #1005, split 1/3 of #874)
 // Stub-tested on the Lars Ulrich page here; #1007 rolls it out everywhere.
 import RelatedDrummersBlock from './components/RelatedDrummersBlock';
+// Shared-Gear Drummers internal-linking block (Issue #1006, split 2/3 of #874)
+// Stub-tested on the Lars Ulrich page here; #1007 rolls it out everywhere.
+import SharedGearDrummersBlock from './components/SharedGearDrummersBlock';
 
 // Wishlist Components (Issue #823) - Conversion funnel feature
 import WishlistButton, { FloatingWishlistButton, WishlistBadge } from './components/WishlistButton';
@@ -6341,6 +6344,13 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
           allDrummers={allDrummers}
           theme={theme}
         />
+      )}
+
+      {/* Shared-Gear Drummers internal-linking block - Issue #1006 (split 2/3 of #874).
+          Stub-test: rendered on the Lars Ulrich page only; #1007 wires it into
+          every drummer + gear page. */}
+      {drummerSlug === 'lars-ulrich' && (
+        <SharedGearDrummersBlock drummer={drummer} theme={theme} />
       )}
 
       {/* Drummer vs Drummer Comparisons CTA - Issue #558 */}

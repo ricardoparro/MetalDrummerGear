@@ -77,6 +77,11 @@
 - 21 drummers currently with bios, gear, videos, endorsements
 
 ## Recent Progress
+- **2026-06-12:** 🔍 **SEO Agent run** (Fri). Audit + 1 net-new proposal; **anti-noise hold** on everything else (queue saturated).
+  - **Audit (static — no Chrome/egress):** robots.txt allows all 8 AI crawlers ✅. Quick Facts box live (#872). LLM markdown surface live: `index.md`+`faq.md`+`gear-guide.md`+**61 drummer `.md`**, all in sitemap (#1019-1022); `articles/*.md` (#1058) + `licks.md` (#1045) in queue. Sitemap is comprehensive (drummers, gear, techniques, vs, licks, guides, tools…). **GSC still blind** (`GSC_SITE` missing, #910) — GA4-only signal.
+  - **Verified two canonical/duplicate-content candidates are already CLOSED (did not re-file):** (1) drummer profile numeric-vs-slug `/drummer/2` → slug canonical fixed by #1015; (2) gear-category sub-pages `/drummer/:slug/:category` normalize to slug canonical server-side (`api/gear/[slug]/[category].js:245`). Mature canonical handling.
+  - **Queue saturation acknowledged:** overnight/early-AM Actions runs already filed the full data-aligned batch — #1042 (/licks index hub), #1045 (/llms/licks.md), #1047-1050 (signature licks Phase 3, 8 drummers), #1051 (/facts orphan→sitemap), #1053 (/drummers + /quiz → sitemap), #1054 (/quiz canonical), #1058 (article LLM markdown). These map 1:1 to the GA4 top-page + proven-lick signal. Did **not** duplicate any (anti-noise).
+  - **Filed #1062** (`seo-proposal`, 🟡 schema polish, net-new): add `SearchAction` (sitelinks searchbox) to the **homepage `WebSite`** JSON-LD (App.js:4290). Today only a deep `WebPage` SearchAction exists on `/tools/gear-search` — doesn't qualify for the rich result, which must hang off the site-wide `WebSite` entity. Search endpoint `/tools/gear-search?q={term}` is real (GearSearch.js:345). Unblocks the long-deferred Phase 5b "SearchAction (if implemented)" item now that search exists. The one SEO lane the saturated queue doesn't touch.
 - **2026-06-08:** 🔍 **Inaugural SEO Agent cron run** (Mondays 08:00 UTC). Audit + 1 net-new proposal.
   - **Audit:** robots.txt allows all 8 AI crawlers ✅. Quick Facts box live on drummer pages (#872 merged, commit `fbf985e`; mobile tweaks pending #1001). LLM markdown surface: `index.md` + **61/61 drummer `.md`** + `llms-full.txt` all live. GSC still **blind** (`GSC_SITE` missing, #910) — proposals run on GA4-only signal. Live Lighthouse not run (no Chrome/egress in cron sandbox); SEO fundamentals verified statically (title/meta/canonical/schema all present in code).
   - **Found the standard programmatic queue already saturated:** overnight CEO atomic-split filed + promoted the whole on-strategy batch — CEO-024 signature licks (#1008→#1010–1014), internal-linking #874 (#1005–1007), technique #870 (#992–994), gear/series #871 (#995–998), Quick Facts mobile #872 (#1001), canonical #1015. Did **not** duplicate any of it (anti-noise principle).
@@ -92,4 +97,4 @@
 - **2026-02-01:** FAQPage (#36) and ItemList (#37) completed
 
 ---
-*Last updated: 2026-06-08 by SEO Agent (inaugural cron run)*
+*Last updated: 2026-06-12 by SEO Agent (audit + #1062 SearchAction proposal; anti-noise hold on saturated queue)*

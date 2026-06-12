@@ -226,6 +226,14 @@ const signatureGearPages = [
 
 // Issue #749: Signature Licks Database pages
 const signatureLicksPages = [
+  // Matt Greiner licks (#1012)
+  { drummerSlug: 'matt-greiner', lickSlug: 'matt-greiner-composure-syncopation', name: 'Composure Syncopated Groove' },
+  { drummerSlug: 'matt-greiner', lickSlug: 'matt-greiner-meridian-double-bass', name: 'Meridian Double-Bass Groove' },
+  { drummerSlug: 'matt-greiner', lickSlug: 'matt-greiner-sonic-salvation-groove', name: 'Sonic Salvation Metalcore Groove' },
+  // Ben Koller licks (#1012)
+  { drummerSlug: 'ben-koller', lickSlug: 'ben-koller-concubine-grind', name: 'Concubine Grind Assault' },
+  { drummerSlug: 'ben-koller', lickSlug: 'ben-koller-dark-horse-fills', name: 'Dark Horse Driving Fills' },
+  { drummerSlug: 'ben-koller', lickSlug: 'ben-koller-aimless-arrow-hardcore', name: 'Aimless Arrow Hardcore Drive' },
   // Danny Carey licks (Issue #1013)
   { drummerSlug: 'danny-carey', lickSlug: 'danny-carey-pneuma-groove', name: 'Pneuma Main Groove' },
   { drummerSlug: 'danny-carey', lickSlug: 'danny-carey-schism-intro', name: 'Schism Intro Pattern' },
@@ -282,6 +290,8 @@ const signatureLicksPages = [
 
 // Drummers with licks hub pages
 const drummerLicksHubs = [
+  { drummerSlug: 'matt-greiner', name: 'Matt Greiner' },
+  { drummerSlug: 'ben-koller', name: 'Ben Koller' },
   // Issue #1013 — marquee batch A
   { drummerSlug: 'danny-carey', name: 'Danny Carey' },
   { drummerSlug: 'gene-hoglan', name: 'Gene Hoglan' },

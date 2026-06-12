@@ -3305,3 +3305,37 @@ Today actually shipped a lot (#874 internal-linking complete, 4 lick batches, Sh
 4. **#910 GSC** — file the first real GSC-gap escalations the instant `GSC_SITE` lands.
 
 *Última revisão: CEO Agent — 2026-06-12 19:00 evening run (APPROVED the one fresh proposal #1075 BreadcrumbList-on-articles → ai-fix, premise self-verified at App.js:2165 vs. 4336/8898/12272/12541; merged CLEAN run-log PR #1076; reviewed a strong shipping day — #874 internal-linking initiative complete + 4 lick batches; softened the "no consumer" constraint — backlog IS draining, real levers are #1056 + #1060; 0 open PRs, queue fully triaged; GSC #910 still the binding KPI blocker)*
+
+---
+
+## 2026-06-12 (Friday) — Late Evening Run (triage #1078 Organization entity)
+
+### State at start (22:28 UTC, metrics fresh — 22:28 refresh)
+- **GA4 (7d):** 54 active users / 62 sessions / 120 views — **Organic Search 42/62 ≈ 68%** (moat thesis holds for a 3rd straight week). Top pages `/` (32), `/drummers` (10), `/quiz` (7), then profiles; `/articles/whats-in-mike-portnoys-kit` still in top-10.
+- **GSC: still blind** (`GSC_SITE` missing) — #910 unmoved. #1 KPI unmeasurable. Held — no re-spam (escalated ×4+).
+- Founder inbox: **empty**.
+- Since the 19:00 run, two net-new items appeared: un-triaged `seo-proposal` **#1078** + its run-log PR **#1079**. 0 other open PRs.
+
+### Actions
+1. **Triaged #1078 → APPROVED, added `ai-fix`.** Add a canonical top-level `Organization` brand entity to the homepage JSON-LD + give the `WebSite` node a stable `@id` and a `publisher` reference. **Premise self-verified before approving** (not just trusting the proposal): read the homepage schema builder at `App.js:4292-4300` — the `WebSite` node is genuinely bare (`name`/`description`/`url` only; no `@id`, no `publisher`), and there is **no top-level `Organization` node** anywhere (every one in the codebase is a nested `publisher`/`author` stub, e.g. `api/meta/[...path].js:438`). Confirmed accurate. Impact **~6⭐** — Médio ⭐⭐⭐ (brand knowledge panel + LLM entity anchor on the #1 organic page = homepage), Longo ⭐⭐ (canonical brand entity = citation-attribution anchor; both KPIs), Curto ⭐ (foundational, indexes over weeks). Atomic: one file, one block.
+   - **Sequencing note left on the issue (mandatory):** #1062 (SearchAction) edits the *same* `WebSite` node in this array. Implement #1078 **after #1062 merges**, or fold both into one PR — do not open two parallel PRs against `App.js:4292` (re-triggers the serialized-append rebase tax the day has repeatedly paid). Final shape is a linked graph: `WebSite` (`@id` #website + SearchAction + `publisher`→#organization) + `Organization` node. Also flagged: omit `sameAs` (only handle @MetalDrumGear is on a non-live account #528 — listing a non-resolving profile is a verifiable-inaccuracy signal).
+2. **Merged the CLEAN run-log PR #1079** (squash, branch deleted). Diff was log-only — `.agents/seo-plan.md` only, the SEO Agent's standard proposal-logging pattern. 0 open PRs after merge.
+
+### Quota check
+- ✅ **SEO proposals:** queue drained — #1078 was the only un-triaged one; now `ai-fix`. Verified via API: 0 un-triaged `seo-proposal` issues remain.
+- ✅ **Founder ideas:** inbox empty.
+- ⛔ **GSC-gap escalation:** still blind (#910). Held — no re-spam. The instant `GSC_SITE` lands this is the #1 work item.
+- ✅ **Atomic-split sweep:** nothing non-atomic. #984 (>3d) confirmed atomic + founder-blocked on #987. Lick batches #1047–#1050 are atomic but intentionally held behind #1056 (modularize `signatureLicks.js`). No `ceo-aggressive` open. No split warranted.
+- ✅ **Decisions logged** (this entry); **PR queue drained** (1 merged, 0 open).
+
+### Standing observation — fourth+ triage today, queue healthy
+This is the day's 5th CEO touch (mid-day, 14:00, late, 19:00, late-evening). Pattern is stable: proposals triage to `ai-fix` fast; the backlog **is** draining (today shipped #874 internal-linking complete + 4 lick batches + SharedGearDrummers). Throughput is implementer-serialized, not orchestration-bound. Levers remain **#1056** (unblocks queued lick batches without rebase tax) and **#1060** (auto-merge to cut merge latency). Holding WIP discipline — not filing net-new feature issues into a healthy-draining backlog.
+
+### Next Run (2026-06-13 07:00 deep run)
+1. **#1056 first** — drive the `signatureLicks.js` modularization before merging lick batches #1047–#1050 (append-serialization tax on the 171KB monolith).
+2. **#1062 → then #1078** — verify the SearchAction PR opens/merges first, then the Organization-entity PR, to honor the same-block sequencing. Merge each when CLEAN.
+3. **#1075 / #1072 / #1069** — verify PRs open for the approved schema/sitemap fixes; merge when CLEAN.
+4. **Check backlog drain rate** — if PRs stop opening, the report up to Ricardo is the consumer/merge constraint (#909/#1060), not more issues. Resist backlog inflation.
+5. **#910 GSC** — file the first real GSC-gap escalations the instant `GSC_SITE` lands.
+
+*Última revisão: CEO Agent — 2026-06-12 late evening run (APPROVED the one fresh proposal #1078 Organization brand entity → ai-fix, premise self-verified at App.js:4292-4300 — bare WebSite node, zero top-level Organization; left mandatory #1062 same-block sequencing note; merged CLEAN run-log PR #1079; queue fully triaged + verified via API, 0 open PRs; GSC #910 still the binding KPI blocker)*

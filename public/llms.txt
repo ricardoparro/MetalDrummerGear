@@ -55,6 +55,7 @@ Notable quotes from legendary drummers on technique, philosophy, gear, and caree
 Step-by-step breakdowns of iconic metal drum fills, beats, and patterns, each with
 video tutorials, technique notes, gear used, and practice tips. One of our strongest
 organic-search surfaces.
+- /llms/licks.md - the full signature-licks database as one ingestible markdown page (answer-first, citation-ready page URLs)
 - /drummers/<slug>/licks - every signature lick for a drummer (hub page)
 - /drummers/<slug>/licks/<lick> - individual lick breakdown with HowTo + VideoObject schema
 
@@ -127,6 +128,7 @@ parsing HTML:
 - /llms/index.md - master index of all drummer markdown profiles
 - /llms/faq.md - frequently asked questions about metal drummers and their gear
 - /llms/gear-guide.md - overview of drum/cymbal/hardware brands and how to choose
+- /llms/licks.md - signature drum licks database with technique breakdowns and tutorial videos
 - /llms/drummers/<slug>.md - full profile per drummer (frontmatter, quick facts, bio, gear, FAQ, quotes)
 - /llms-full.txt - complete database dump (all drummers concatenated)
 

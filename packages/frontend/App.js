@@ -464,6 +464,7 @@ function updateGearCardsMeta() { return _gearCardsModule?.updateGearCardsMeta?.(
 // URL: /drummers/[slug]/licks and /drummers/[slug]/licks/[lick-slug]
 // Lazy loaded for performance optimization - 42KB component + 40KB data
 const LazyLicksHubPage = lazy(() => import('./components/SignatureLicks').then(m => ({ default: m.LicksHubPage })));
+const LazyLicksIndexPage = lazy(() => import('./components/SignatureLicks').then(m => ({ default: m.LicksIndexPage })));
 const LazyLickDetailPage = lazy(() => import('./components/SignatureLicks').then(m => ({ default: m.LickDetailPage })));
 const LazyLickOfTheDayWidget = lazy(() => import('./components/SignatureLicks').then(m => ({ default: m.LickOfTheDayWidget })));
 const LazyEndorsementNewsWidget = lazy(() => import('./components/EndorsementTracker').then(m => ({ default: m.EndorsementNewsWidget })));
@@ -487,8 +488,13 @@ function isLickDetailPage() {
   return _signatureLicksModule?.isLickDetailPage?.() ?? (typeof window !== 'undefined' &&
     /^\/drummers\/[a-z0-9-]+\/licks\/[a-z0-9-]+$/i.test(window.location.pathname));
 }
+// Top-level /licks index hub (Issue #1042)
+function isLicksIndexPage() {
+  return _signatureLicksModule?.isLicksIndexPage?.() ?? (typeof window !== 'undefined' &&
+    /^\/licks\/?$/i.test(window.location.pathname));
+}
 function isLicksPage() {
-  return isLicksHubPage() || isLickDetailPage();
+  return isLicksIndexPage() || isLicksHubPage() || isLickDetailPage();
 }
 function getLickSlugFromURL() {
   if (typeof window === 'undefined') return null;
@@ -22152,6 +22158,7 @@ function AppContent() {
   
   // Signature Licks state (Issue #749) - /drummers/[slug]/licks and /drummers/[slug]/licks/[lick-slug]
   const [showLicksHub, setShowLicksHub] = useState(() => isLicksHubPage());
+  const [showLicksIndex, setShowLicksIndex] = useState(() => isLicksIndexPage());
   const [showLickDetail, setShowLickDetail] = useState(() => isLickDetailPage());
   const [lickSlug, setLickSlug] = useState(() => getLickSlugFromURL());
   const [licksDrummerSlug, setLicksDrummerSlug] = useState(() => getLicksDrummerSlugFromURL());
@@ -23939,6 +23946,7 @@ function AppContent() {
         setShowLickDetail(false);
         setLickSlug(null);
         setShowLicksHub(false);
+        setShowLicksIndex(false);
         setLicksDrummerSlug(null);
         setShowGearCards(false);
         setShowToolsHub(false);
@@ -23960,6 +23968,7 @@ function AppContent() {
         setShowLickDetail(false);
         setLickSlug(null);
         setShowLicksHub(false);
+        setShowLicksIndex(false);
         setLicksDrummerSlug(null);
         setShowGearCards(false);
         setShowToolsHub(false);
@@ -23980,6 +23989,7 @@ function AppContent() {
         setShowLickDetail(false);
         setLickSlug(null);
         setShowLicksHub(false);
+        setShowLicksIndex(false);
         setLicksDrummerSlug(null);
         setShowGearCards(false);
         setShowToolsHub(false);
@@ -23998,6 +24008,7 @@ function AppContent() {
         setShowLickDetail(false);
         setLickSlug(null);
         setShowLicksHub(false);
+        setShowLicksIndex(false);
         setLicksDrummerSlug(null);
         setShowGearCards(false);
         setShowToolsHub(false);
@@ -24049,6 +24060,62 @@ function AppContent() {
 // Preload the component
         preloadDrummerEvolution();
         preloadDrummerGearCategory();
+      } else if (isLicksIndexPage()) {
+        // Licks Index hub (Issue #1042) - /licks (aggregates every signature lick)
+        setShowLicksIndex(true);
+        setShowLicksHub(false);
+        setLicksDrummerSlug(null);
+        setShowLickDetail(false);
+        setLickSlug(null);
+        setShowGearCards(false);
+        setShowToolsHub(false);
+        setShowGearComparisonTool(false);
+        setShowGearSearch(false);
+        setShowGearBrand(false);
+        setGearBrandSlug(null);
+        setShowNameGenerator(false);
+        setShowBeginnerGuide(false);
+        setShowGuidesHub(false);
+        setShowGuide(false);
+        setGuideSlug(null);
+        setShowArticle(false);
+        setArticleSlug(null);
+        setShowList(false);
+        setListSlug(null);
+        setShowNewsPage(false);
+        setShowGearNewsPage(false);
+        setShowGearStats(false);
+        setShowTechniquesIndex(false);
+        setShowTechniqueDetail(false);
+        setTechniqueSlug(null);
+        setShowGearComparisonsIndex(false);
+        setShowGearComparison(false);
+        setGearComparisonSlug(null);
+        setShowGenresList(false);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowKitBuilder(false);
+        setShowKitQuiz(false);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowBattlePage(false);
+        setBattleSlug(null);
+        setShowTimelinePage(false);
+        setShowSignatureGear(false);
+        setSignatureGearSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+        // Preload the component
+        preloadSignatureLicks();
       } else if (isLickDetailPage()) {
         // Lick Detail page (Issue #749) - /drummers/[slug]/licks/[lick-slug]
         const lSlug = getLickSlugFromURL();
@@ -24057,6 +24124,7 @@ function AppContent() {
         setLickSlug(lSlug);
         setLicksDrummerSlug(dSlug);
         setShowLicksHub(false);
+        setShowLicksIndex(false);
         setShowGearCategoryPage(false);
         setGearCategoryInfo(null);
         setShowGearCards(false);
@@ -24170,6 +24238,7 @@ function AppContent() {
         setShowDrummerGearCategory(true);
         setDrummerGearCategoryInfo(info);
         setShowLicksHub(false);
+        setShowLicksIndex(false);
         setShowLickDetail(false);
         setLickSlug(null);
         setLicksDrummerSlug(null);
@@ -26418,6 +26487,33 @@ setShowList(false);
         </Suspense>
       );
     }
+    // Signature Licks Index Hub (Issue #1042) - /licks
+    // Top-level landing page aggregating every signature lick across all drummers
+    if (showLicksIndex) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyLicksIndexPage
+            theme={theme}
+            onBack={() => {
+              setShowLicksIndex(false);
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onSelectLick={(lick) => {
+              setShowLicksIndex(false);
+              setShowLickDetail(true);
+              setLickSlug(lick.slug);
+              setLicksDrummerSlug(lick.drummerSlug);
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/drummers/${lick.drummerSlug}/licks/${lick.slug}`);
+              }
+            }}
+          />
+        </Suspense>
+      );
+    }
     // Signature Licks Detail Page (Issue #749) - /drummers/[slug]/licks/[lick-slug]
     // Individual lick with video, technique breakdown, and gear info
     if (showLickDetail && lickSlug) {
@@ -26451,6 +26547,7 @@ setShowList(false);
             drummerSlug={licksDrummerSlug}
             onBack={() => {
               setShowLicksHub(false);
+              setShowLicksIndex(false);
               setLicksDrummerSlug(null);
               // Navigate back to drummer profile
               if (licksDrummerSlug && Platform.OS === 'web' && typeof window !== 'undefined') {
@@ -26460,6 +26557,7 @@ setShowList(false);
             }}
             onSelectLick={(lick) => {
               setShowLicksHub(false);
+              setShowLicksIndex(false);
               setShowLickDetail(true);
               setLickSlug(lick.slug);
               if (Platform.OS === 'web' && typeof window !== 'undefined') {

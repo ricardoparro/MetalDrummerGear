@@ -482,6 +482,8 @@ export default function handler(req, res) {
     { loc: '/llms/index.md', priority: '0.6', changefreq: 'monthly' },
     { loc: '/llms/faq.md', priority: '0.6', changefreq: 'monthly' },
     { loc: '/llms/gear-guide.md', priority: '0.6', changefreq: 'monthly' },
+    // Issue #1045: signature-lick database as ingestible markdown for AI crawlers.
+    { loc: '/llms/licks.md', priority: '0.6', changefreq: 'monthly' },
     // Per-drummer Markdown profiles — low priority, full crawl coverage.
     ...llmsDrummerSlugs.map(slug => ({ loc: `/llms/drummers/${slug}.md`, priority: '0.4', changefreq: 'monthly' })),
   ];

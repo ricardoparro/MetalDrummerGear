@@ -25,6 +25,7 @@ import {
   generateLickSchema,
   getLickThumbId,
   generateLicksHubSchema,
+  generateLicksIndexSchema,
   getAvailableDifficulties,
   getAvailableStyles,
   getAvailableTechniques,
@@ -68,10 +69,19 @@ export function isLickDetailPage() {
 }
 
 /**
+ * Check if current URL is the top-level licks index hub (Issue #1042)
+ * Matches: /licks
+ */
+export function isLicksIndexPage() {
+  if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
+  return /^\/licks\/?$/i.test(window.location.pathname);
+}
+
+/**
  * Check if on any licks page
  */
 export function isLicksPage() {
-  return isLicksHubPage() || isLickDetailPage();
+  return isLicksIndexPage() || isLicksHubPage() || isLickDetailPage();
 }
 
 /**
@@ -221,6 +231,65 @@ export function updateLicksHubMeta(drummerName, drummerSlug, licks) {
     ...TOOL_SCHEMAS.signatureLicks,
     description: description, // Use dynamic description
   });
+}
+
+/**
+ * Update meta tags + JSON-LD for the top-level /licks index hub (Issue #1042)
+ */
+export function updateLicksIndexMeta(licks) {
+  if (Platform.OS !== 'web' || typeof document === 'undefined') return;
+
+  const setMeta = (name, content, isProperty = false) => {
+    const attr = isProperty ? 'property' : 'name';
+    let tag = document.querySelector(`meta[${attr}="${name}"]`);
+    if (!tag) {
+      tag = document.createElement('meta');
+      tag.setAttribute(attr, name);
+      document.head.appendChild(tag);
+    }
+    tag.setAttribute('content', content);
+  };
+
+  const count = licks.length;
+  const title = `Signature Metal Drum Licks — ${count}+ Iconic Fills & Beats | MetalForge`;
+  const description = `Browse ${count}+ iconic metal drum licks, fills, and beats from the world's best drummers — with tempo, technique breakdown, and video for each.`;
+  const url = 'https://metalforge.io/licks';
+
+  document.title = title;
+  setMeta('description', description);
+  setMeta('keywords', 'metal drum licks, famous metal drum fills, signature metal drum beats, iconic metal drum patterns, metal drumming tutorials');
+
+  // Open Graph
+  setMeta('og:title', title, true);
+  setMeta('og:description', description, true);
+  setMeta('og:url', url, true);
+  setMeta('og:type', 'website', true);
+
+  // Twitter
+  setMeta('twitter:card', 'summary_large_image');
+  setMeta('twitter:title', title);
+  setMeta('twitter:description', description);
+
+  // Self-referencing canonical (Issue #1015 consistency)
+  let canonical = document.querySelector('link[rel="canonical"]');
+  if (!canonical) {
+    canonical = document.createElement('link');
+    canonical.setAttribute('rel', 'canonical');
+    document.head.appendChild(canonical);
+  }
+  canonical.setAttribute('href', url);
+
+  // JSON-LD: CollectionPage + ItemList + BreadcrumbList
+  const schemaId = 'licks-index-schema';
+  const existingSchema = document.getElementById(schemaId);
+  if (existingSchema) existingSchema.remove();
+
+  const schema = generateLicksIndexSchema(licks);
+  const schemaScript = document.createElement('script');
+  schemaScript.id = schemaId;
+  schemaScript.type = 'application/ld+json';
+  schemaScript.textContent = JSON.stringify(schema);
+  document.head.appendChild(schemaScript);
 }
 
 /**
@@ -805,6 +874,254 @@ export function LicksHubPage({ theme, onBack, drummers, drummerSlug, onSelectLic
 }
 
 // ==========================================
+// Licks Index Hub (Issue #1042) - /licks
+// Top-level landing page aggregating EVERY signature lick across all drummers.
+// Completes the hub family (/techniques, /lists, /vs, /brands, /guides, /tools).
+// ==========================================
+
+export function LicksIndexPage({ theme, onBack, onSelectLick }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+
+  // Client-side filters: technique, difficulty, style (data already carries these)
+  const [filters, setFilters] = useState({ technique: null, difficulty: null, style: null });
+
+  const techniques = useMemo(() => getAvailableTechniques(), []);
+  const difficulties = useMemo(() => getAvailableDifficulties(), []);
+  const stylesList = useMemo(() => getAvailableStyles(), []);
+
+  // All licks (unfiltered) — used for schema/meta so the structured data
+  // always reflects the full corpus regardless of the active filter.
+  const allLicks = useMemo(() => getAllLicks(), []);
+
+  // Filtered licks for display
+  const visibleLicks = useMemo(() => {
+    return allLicks.filter(lick => {
+      if (filters.technique && !lick.techniques.includes(filters.technique)) return false;
+      if (filters.difficulty && lick.difficulty !== filters.difficulty) return false;
+      if (filters.style && lick.style !== filters.style) return false;
+      return true;
+    });
+  }, [allLicks, filters]);
+
+  // Group visible licks by drummer
+  const licksByDrummer = useMemo(() => {
+    const grouped = {};
+    visibleLicks.forEach(lick => {
+      if (!grouped[lick.drummerSlug]) {
+        grouped[lick.drummerSlug] = {
+          drummerName: lick.drummerName,
+          drummerSlug: lick.drummerSlug,
+          band: lick.band,
+          licks: [],
+        };
+      }
+      grouped[lick.drummerSlug].licks.push(lick);
+    });
+    // Alphabetical by drummer name for a stable, scannable order
+    return Object.values(grouped).sort((a, b) => a.drummerName.localeCompare(b.drummerName));
+  }, [visibleLicks]);
+
+  // Update meta tags + JSON-LD (schema reflects the full corpus)
+  useEffect(() => {
+    updateLicksIndexMeta(allLicks);
+  }, [allLicks]);
+
+  // Track page view
+  useEffect(() => {
+    if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
+      window.gtag('event', 'page_view', {
+        page_title: 'Signature Metal Drum Licks',
+        page_location: window.location.href,
+        page_path: window.location.pathname,
+      });
+    }
+  }, []);
+
+  const handleLickPress = useCallback((lick) => {
+    if (onSelectLick) {
+      onSelectLick(lick);
+    } else if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', `/drummers/${lick.drummerSlug}/licks/${lick.slug}`);
+      window.dispatchEvent(new PopStateEvent('popstate'));
+    }
+  }, [onSelectLick]);
+
+  const goToDrummerHub = useCallback((drummerSlug) => {
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', `/drummers/${drummerSlug}/licks`);
+      window.dispatchEvent(new PopStateEvent('popstate'));
+    }
+  }, []);
+
+  const drummerCount = useMemo(
+    () => new Set(allLicks.map(l => l.drummerSlug)).size,
+    [allLicks]
+  );
+
+  const formatLabel = (s) => s.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+
+  // Reusable chip row
+  const ChipRow = ({ label, options, active, onSelect, getKey, getText }) => (
+    <View style={styles.filterGroup}>
+      <Text style={[styles.filterLabel, { color: theme.secondaryText }]}>{label}</Text>
+      <View style={styles.filterOptions}>
+        <TouchableOpacity
+          style={[styles.filterChip, !active && styles.filterChipActive]}
+          onPress={() => onSelect(null)}
+        >
+          <Text style={[styles.filterChipText, !active && styles.filterChipTextActive]}>All</Text>
+        </TouchableOpacity>
+        {options.map(opt => {
+          const key = getKey(opt);
+          return (
+            <TouchableOpacity
+              key={key}
+              style={[styles.filterChip, active === key && styles.filterChipActive]}
+              onPress={() => onSelect(active === key ? null : key)}
+            >
+              <Text style={[styles.filterChipText, active === key && styles.filterChipTextActive]}>
+                {getText(opt)}
+              </Text>
+            </TouchableOpacity>
+          );
+        })}
+      </View>
+    </View>
+  );
+
+  return (
+    <ScrollView
+      style={[styles.container, { backgroundColor: theme.bg }]}
+      contentContainerStyle={styles.contentContainer}
+    >
+      {/* Header */}
+      <View style={styles.header}>
+        <TouchableOpacity onPress={onBack} style={styles.backButton}>
+          <Text style={[styles.backText, { color: theme.primary }]}>← Back</Text>
+        </TouchableOpacity>
+
+        <Text style={[styles.pageTitle, { color: theme.text }]}>
+          🥁 Signature Metal Drum Licks
+        </Text>
+        <Text style={[styles.pageSubtitle, { color: theme.secondaryText }]}>
+          {`Browse ${allLicks.length}+ iconic metal drum licks, fills, and beats from ${drummerCount} legendary drummers — with tempo, technique breakdown, and video for each.`}
+        </Text>
+      </View>
+
+      {/* Answer-first, quotable intro (≥300 words, LLM-citation friendly) */}
+      <View style={[styles.introBlock, { backgroundColor: theme.card, borderColor: theme.border }]}>
+        <Text style={[styles.introText, { color: theme.text }]}>
+          A signature metal drum lick is a short, recognisable fill, beat, or pattern that defines a
+          drummer's style on a specific song — think Joey Jordison's blast-driven intro to Slipknot's
+          "The Heretic Anthem," Danny Carey's hypnotic 9/8 groove on Tool's "Pneuma," or Gene Hoglan's
+          machine-precise double bass on Death's "The Philosopher." This page is the complete index of
+          every signature lick on MetalForge, gathered from across the site's per-drummer libraries into
+          one place so you can browse, compare, and learn them all without hunting drummer by drummer.
+        </Text>
+        <Text style={[styles.introText, { color: theme.text }]}>
+          Each lick below carries the details a drummer actually needs to learn it: the exact tempo in
+          BPM, the time signature, a difficulty rating from beginner to expert, the core techniques it
+          trains (double bass, blast beats, odd-time signatures, polyrhythms, fill vocabulary, and
+          groove control), and a video reference — usually an official playthrough or drum-cam — so you
+          can see and hear the part before you sit down at the kit. The licks span the full spectrum of
+          metal: death metal, metalcore, mathcore, progressive metal, thrash, and more, played by the
+          genre's most influential drummers.
+        </Text>
+        <Text style={[styles.introText, { color: theme.text }]}>
+          Use the filters to narrow the list by technique, difficulty, or style and zero in on what you
+          want to practise — for example, expert-level double-bass death metal licks, or intermediate
+          metalcore grooves. Every card links straight to a full breakdown with step-by-step technique
+          notes, gear used, and practice tips, and each drummer heading links to that drummer's complete
+          signature-lick collection. Whether you are building speed, expanding your fill vocabulary, or
+          studying how the greats lock a part to a riff, this hub is the fastest way to find a lick worth
+          learning and start working on it today. The library grows continually as new signature licks
+          are transcribed and added, so it is worth bookmarking and returning to as your playing develops.
+        </Text>
+      </View>
+
+      {/* Filter Bar: technique / difficulty / style */}
+      <View style={[styles.filterBar, { backgroundColor: theme.card, borderColor: theme.border }]}>
+        <Text style={[styles.filterTitle, { color: theme.text }]}>🎯 Filter Licks</Text>
+        <View style={[styles.filterRow, isMobile && styles.filterRowMobile]}>
+          <ChipRow
+            label="Technique"
+            options={techniques}
+            active={filters.technique}
+            onSelect={(v) => setFilters(f => ({ ...f, technique: v }))}
+            getKey={(t) => t}
+            getText={(t) => formatLabel(t)}
+          />
+          <ChipRow
+            label="Difficulty"
+            options={difficulties}
+            active={filters.difficulty}
+            onSelect={(v) => setFilters(f => ({ ...f, difficulty: v }))}
+            getKey={(d) => d}
+            getText={(d) => d.charAt(0).toUpperCase() + d.slice(1)}
+          />
+          <ChipRow
+            label="Style"
+            options={stylesList}
+            active={filters.style}
+            onSelect={(v) => setFilters(f => ({ ...f, style: v }))}
+            getKey={(s) => s}
+            getText={(s) => formatLabel(s)}
+          />
+        </View>
+        <Text style={[styles.pageSubtitle, { color: theme.secondaryText, marginTop: spacing.sm, marginBottom: 0 }]}>
+          {`Showing ${visibleLicks.length} of ${allLicks.length} licks`}
+        </Text>
+      </View>
+
+      {/* Licks grouped by drummer */}
+      {licksByDrummer.map(group => (
+        <View key={group.drummerSlug} style={styles.drummerSection}>
+          <TouchableOpacity
+            onPress={() => goToDrummerHub(group.drummerSlug)}
+            accessibilityLabel={`View all ${group.drummerName} signature licks`}
+          >
+            <Text style={[styles.drummerSectionTitle, { color: theme.text }]}>
+              {group.drummerName}
+            </Text>
+            <Text style={[styles.drummerSectionSubtitle, { color: theme.secondaryText }]}>
+              {group.band} • {group.licks.length} {group.licks.length === 1 ? 'lick' : 'licks'} →
+            </Text>
+          </TouchableOpacity>
+
+          <View style={styles.licksGrid}>
+            {group.licks.map(lick => (
+              <LickCard
+                key={lick.slug}
+                lick={lick}
+                theme={theme}
+                onPress={() => handleLickPress(lick)}
+                isMobile={isMobile}
+              />
+            ))}
+          </View>
+        </View>
+      ))}
+
+      {/* Empty state */}
+      {visibleLicks.length === 0 && (
+        <View style={styles.emptyState}>
+          <Text style={[styles.emptyStateText, { color: theme.secondaryText }]}>
+            No licks match your filters. Try adjusting the criteria.
+          </Text>
+          <TouchableOpacity
+            style={[styles.resetButton, { backgroundColor: theme.primary }]}
+            onPress={() => setFilters({ technique: null, difficulty: null, style: null })}
+          >
+            <Text style={styles.resetButtonText}>Reset Filters</Text>
+          </TouchableOpacity>
+        </View>
+      )}
+    </ScrollView>
+  );
+}
+
+// ==========================================
 // Lick Detail Page
 // ==========================================
 
@@ -1216,6 +1533,18 @@ const styles = StyleSheet.create({
   },
 
   // Filter Bar
+  introBlock: {
+    margin: spacing.lg,
+    marginTop: 0,
+    padding: spacing.md,
+    borderRadius: 12,
+    borderWidth: 1,
+  },
+  introText: {
+    fontSize: fontSize.md,
+    lineHeight: lineHeight.relaxed,
+    marginBottom: spacing.md,
+  },
   filterBar: {
     margin: spacing.lg,
     marginTop: 0,
@@ -1933,13 +2262,16 @@ const lickOfTheDayStyles = StyleSheet.create({
 
 export default {
   LicksHubPage,
+  LicksIndexPage,
   LickDetailPage,
   LickOfTheDayWidget,
   isLicksHubPage,
+  isLicksIndexPage,
   isLickDetailPage,
   isLicksPage,
   getDrummerSlugFromLicksURL,
   getLickSlugFromURL,
   updateLickMeta,
   updateLicksHubMeta,
+  updateLicksIndexMeta,
 };

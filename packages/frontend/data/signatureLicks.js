@@ -2830,6 +2830,38 @@ export function generateLicksHubSchema(drummerName, drummerSlug, licks) {
   };
 }
 
+/**
+ * Generate Schema.org markup for the top-level /licks index hub (Issue #1042).
+ * CollectionPage wrapping an ItemList of every signature lick, plus a
+ * Home › Licks BreadcrumbList. Each ListItem points at the live per-lick route.
+ */
+export function generateLicksIndexSchema(licks) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Signature Metal Drum Licks",
+    "description": "Browse iconic metal drum licks, fills, and beats from the world's best drummers — with tempo, technique breakdown, and video for each.",
+    "url": "https://metalforge.io/licks",
+    "mainEntity": {
+      "@type": "ItemList",
+      "numberOfItems": licks.length,
+      "itemListElement": licks.map((lick, index) => ({
+        "@type": "ListItem",
+        "position": index + 1,
+        "name": `${lick.name} — ${lick.drummerName}`,
+        "url": `https://metalforge.io/drummers/${lick.drummerSlug}/licks/${lick.slug}`,
+      })),
+    },
+    "breadcrumb": {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://metalforge.io" },
+        { "@type": "ListItem", "position": 2, "name": "Licks", "item": "https://metalforge.io/licks" },
+      ],
+    },
+  };
+}
+
 // Drummer slug to ID mapping (for integration)
 export const DRUMMER_SLUG_MAP = {
   'joey-jordison': 2,

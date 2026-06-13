@@ -418,6 +418,8 @@ export default function handler(req, res) {
     // Issue #723: Metal Drummer Evolution Timeline (1970-2024)
     { loc: '/history', priority: '0.9', changefreq: 'monthly' },
     { loc: '/techniques', priority: '0.9', changefreq: 'weekly' },
+    // Issue #1042: top-level signature licks index hub
+    { loc: '/licks', priority: '0.9', changefreq: 'weekly' },
     // Issue #660: Gear News page with RSS
     { loc: '/gear-news', priority: '0.9', changefreq: 'daily' },
     // Issue #689: Drummer Battle voting feature

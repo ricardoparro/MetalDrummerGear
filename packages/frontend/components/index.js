@@ -90,14 +90,17 @@ export {
 // Signature Licks Database (Issue #749)
 export {
   LicksHubPage,
+  LicksIndexPage,
   LickDetailPage,
   isLicksHubPage,
+  isLicksIndexPage,
   isLickDetailPage,
   isLicksPage,
   getDrummerSlugFromLicksURL,
   getLickSlugFromURL,
   updateLickMeta,
-  updateLicksHubMeta
+  updateLicksHubMeta,
+  updateLicksIndexMeta
 } from './SignatureLicks';
 
 // Dream Setup Builder (Issue #761)

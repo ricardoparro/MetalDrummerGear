@@ -294,6 +294,14 @@ const signatureLicksPages = [
   { drummerSlug: 'vinnie-paul', lickSlug: 'vinnie-paul-walk-groove', name: 'Walk Half-Time Groove' },
   { drummerSlug: 'vinnie-paul', lickSlug: 'vinnie-paul-cowboys-from-hell-groove', name: 'Cowboys from Hell Driving Groove' },
   { drummerSlug: 'vinnie-paul', lickSlug: 'vinnie-paul-domination-double-bass', name: 'Domination Double-Bass Breakdown' },
+  // Charlie Benante licks (#1048, split 2/4 of #1044)
+  { drummerSlug: 'charlie-benante', lickSlug: 'charlie-benante-caught-in-a-mosh-groove', name: 'Caught in a Mosh Syncopated Groove' },
+  { drummerSlug: 'charlie-benante', lickSlug: 'charlie-benante-madhouse-thrash-groove', name: 'Madhouse Thrash Groove' },
+  { drummerSlug: 'charlie-benante', lickSlug: 'charlie-benante-indians-war-dance', name: 'Indians War Dance Breakdown' },
+  // Chris Adler licks (#1048, split 2/4 of #1044)
+  { drummerSlug: 'chris-adler', lickSlug: 'chris-adler-laid-to-rest-groove', name: 'Laid to Rest Ride-Bell Groove' },
+  { drummerSlug: 'chris-adler', lickSlug: 'chris-adler-walk-with-me-in-hell-groove', name: 'Walk with Me in Hell Half-Time Groove' },
+  { drummerSlug: 'chris-adler', lickSlug: 'chris-adler-512-groove', name: '512 Groove & Fills' },
 ];
 
 // Drummers with licks hub pages
@@ -317,6 +325,9 @@ const drummerLicksHubs = [
   // Issue #1047 (split 1/4 of #1044)
   { drummerSlug: 'matt-halpern', name: 'Matt Halpern' },
   { drummerSlug: 'vinnie-paul', name: 'Vinnie Paul' },
+  // Issue #1048 (split 2/4 of #1044)
+  { drummerSlug: 'charlie-benante', name: 'Charlie Benante' },
+  { drummerSlug: 'chris-adler', name: 'Chris Adler' },
 ];
 
 // Issue #802: Endorsement Tracker pages

@@ -286,6 +286,14 @@ const signatureLicksPages = [
   { drummerSlug: 'eloy-casagrande', lickSlug: 'eloy-casagrande-means-to-an-end-groove', name: 'Means To An End Groove' },
   { drummerSlug: 'eloy-casagrande', lickSlug: 'eloy-casagrande-isolation-blast', name: 'Isolation Blast & Double Bass' },
   { drummerSlug: 'eloy-casagrande', lickSlug: 'eloy-casagrande-arise-double-bass', name: 'Arise Double Bass Drive' },
+  // Matt Halpern licks (#1047, split 1/4 of #1044)
+  { drummerSlug: 'matt-halpern', lickSlug: 'matt-halpern-icarus-lives-groove', name: 'Icarus Lives! Djent Groove' },
+  { drummerSlug: 'matt-halpern', lickSlug: 'matt-halpern-marigold-groove', name: 'Marigold Melodic Groove' },
+  { drummerSlug: 'matt-halpern', lickSlug: 'matt-halpern-the-bad-thing-groove', name: 'The Bad Thing Double-Bass Assault' },
+  // Vinnie Paul licks (#1047, split 1/4 of #1044)
+  { drummerSlug: 'vinnie-paul', lickSlug: 'vinnie-paul-walk-groove', name: 'Walk Half-Time Groove' },
+  { drummerSlug: 'vinnie-paul', lickSlug: 'vinnie-paul-cowboys-from-hell-groove', name: 'Cowboys from Hell Driving Groove' },
+  { drummerSlug: 'vinnie-paul', lickSlug: 'vinnie-paul-domination-double-bass', name: 'Domination Double-Bass Breakdown' },
 ];
 
 // Drummers with licks hub pages
@@ -306,6 +314,9 @@ const drummerLicksHubs = [
   { drummerSlug: 'brann-dailor', name: 'Brann Dailor' },
   { drummerSlug: 'mike-portnoy', name: 'Mike Portnoy' },
   { drummerSlug: 'eloy-casagrande', name: 'Eloy Casagrande' },
+  // Issue #1047 (split 1/4 of #1044)
+  { drummerSlug: 'matt-halpern', name: 'Matt Halpern' },
+  { drummerSlug: 'vinnie-paul', name: 'Vinnie Paul' },
 ];
 
 // Issue #802: Endorsement Tracker pages

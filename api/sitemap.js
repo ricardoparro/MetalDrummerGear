@@ -302,6 +302,14 @@ const signatureLicksPages = [
   { drummerSlug: 'chris-adler', lickSlug: 'chris-adler-laid-to-rest-groove', name: 'Laid to Rest Ride-Bell Groove' },
   { drummerSlug: 'chris-adler', lickSlug: 'chris-adler-walk-with-me-in-hell-groove', name: 'Walk with Me in Hell Half-Time Groove' },
   { drummerSlug: 'chris-adler', lickSlug: 'chris-adler-512-groove', name: '512 Groove & Fills' },
+  // Jay Weinberg licks (#1049, split 3/4 of #1044)
+  { drummerSlug: 'jay-weinberg', lickSlug: 'jay-weinberg-unsainted-groove', name: 'Unsainted Driving Groove' },
+  { drummerSlug: 'jay-weinberg', lickSlug: 'jay-weinberg-devil-in-i-groove', name: 'The Devil in I Groove' },
+  { drummerSlug: 'jay-weinberg', lickSlug: 'jay-weinberg-nero-forte-groove', name: 'Nero Forte Syncopated Groove' },
+  // Gavin Harrison licks (#1049, split 3/4 of #1044)
+  { drummerSlug: 'gavin-harrison', lickSlug: 'gavin-harrison-sound-of-muzak-groove', name: 'The Sound of Muzak 7/8 Groove' },
+  { drummerSlug: 'gavin-harrison', lickSlug: 'gavin-harrison-anesthetize-drum-feature', name: 'Anesthetize Polyrhythmic Feature' },
+  { drummerSlug: 'gavin-harrison', lickSlug: 'gavin-harrison-harridan-groove', name: 'Harridan Ghost-Note Groove' },
 ];
 
 // Drummers with licks hub pages
@@ -328,6 +336,9 @@ const drummerLicksHubs = [
   // Issue #1048 (split 2/4 of #1044)
   { drummerSlug: 'charlie-benante', name: 'Charlie Benante' },
   { drummerSlug: 'chris-adler', name: 'Chris Adler' },
+  // Issue #1049 (split 3/4 of #1044)
+  { drummerSlug: 'jay-weinberg', name: 'Jay Weinberg' },
+  { drummerSlug: 'gavin-harrison', name: 'Gavin Harrison' },
 ];
 
 // Issue #802: Endorsement Tracker pages

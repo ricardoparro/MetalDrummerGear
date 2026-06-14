@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-14 01:49 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-14 03:11 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -18,7 +18,7 @@
 | Page | Views | Users |
 | --- | --- | --- |
 | / | 28 | 13 |
-| /drummer/2 | 10 | 7 |
+| /drummer/2 | 10 | 8 |
 | /drummers | 10 | 1 |
 | /drummer/32 | 4 | 4 |
 | /drummer/34 | 4 | 4 |
@@ -33,7 +33,7 @@
 | --- | --- | --- |
 | Organic Search | 42 | 37 |
 | Direct | 18 | 14 |
-| Unassigned | 7 | 5 |
+| Unassigned | 8 | 6 |
 
 ## Search Console — Search performance
 > ⚠️ **GSC data unavailable:** GSC_SITE missing

@@ -310,6 +310,14 @@ const signatureLicksPages = [
   { drummerSlug: 'gavin-harrison', lickSlug: 'gavin-harrison-sound-of-muzak-groove', name: 'The Sound of Muzak 7/8 Groove' },
   { drummerSlug: 'gavin-harrison', lickSlug: 'gavin-harrison-anesthetize-drum-feature', name: 'Anesthetize Polyrhythmic Feature' },
   { drummerSlug: 'gavin-harrison', lickSlug: 'gavin-harrison-harridan-groove', name: 'Harridan Ghost-Note Groove' },
+  // Mike Mangini licks (#1050, split 4/4 of #1044)
+  { drummerSlug: 'mike-mangini', lickSlug: 'mike-mangini-on-the-backs-of-angels-groove', name: 'On the Backs of Angels Odd-Time Groove' },
+  { drummerSlug: 'mike-mangini', lickSlug: 'mike-mangini-the-looking-glass-groove', name: 'The Looking Glass Driving Groove' },
+  { drummerSlug: 'mike-mangini', lickSlug: 'mike-mangini-breaking-all-illusions-feature', name: 'Breaking All Illusions Dynamic Feature' },
+  // Pete Sandoval licks (#1050, split 4/4 of #1044)
+  { drummerSlug: 'pete-sandoval', lickSlug: 'pete-sandoval-rapture-blast', name: 'Rapture Blast-Beat Assault' },
+  { drummerSlug: 'pete-sandoval', lickSlug: 'pete-sandoval-immortal-rites-blast', name: 'Immortal Rites Blast Foundations' },
+  { drummerSlug: 'pete-sandoval', lickSlug: 'pete-sandoval-god-of-emptiness-groove', name: 'God of Emptiness Doom Groove' },
 ];
 
 // Drummers with licks hub pages
@@ -339,6 +347,9 @@ const drummerLicksHubs = [
   // Issue #1049 (split 3/4 of #1044)
   { drummerSlug: 'jay-weinberg', name: 'Jay Weinberg' },
   { drummerSlug: 'gavin-harrison', name: 'Gavin Harrison' },
+  // Issue #1050 (split 4/4 of #1044)
+  { drummerSlug: 'mike-mangini', name: 'Mike Mangini' },
+  { drummerSlug: 'pete-sandoval', name: 'Pete Sandoval' },
 ];
 
 // Issue #802: Endorsement Tracker pages

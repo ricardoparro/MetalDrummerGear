@@ -435,6 +435,7 @@ export default function handler(req, res) {
     { loc: '/kit-builder', priority: '0.9', changefreq: 'weekly' },
     { loc: '/gear', priority: '0.9', changefreq: 'weekly' },
     { loc: '/quotes', priority: '0.9', changefreq: 'weekly' },
+    { loc: '/facts', priority: '0.8', changefreq: 'monthly' }, // Issue #452: Quick Facts (FAQPage schema) — #1051 de-orphan
     { loc: '/lists', priority: '0.9', changefreq: 'weekly' },
     { loc: '/birthdays', priority: '0.9', changefreq: 'weekly' },
     // Issue #723: Metal Drummer Evolution Timeline (1970-2024)

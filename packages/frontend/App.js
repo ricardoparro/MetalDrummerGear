@@ -22047,6 +22047,10 @@ function NewsletterFooter({ theme }) {
             </form>
           )}
         </View>
+        {/* Sitewide quick link — keeps the /facts Quick Facts page (FAQPage schema) crawlable. Issue #1051 */}
+        <View style={styles.newsletterQuickLinks}>
+          <a href="/facts" style={styles.textDecor2}>Quick Facts</a>
+        </View>
       </View>
     );
   }
@@ -30211,6 +30215,16 @@ const styles = StyleSheet.create({
     paddingVertical: 8,
     paddingHorizontal: 20,
     marginTop: 'auto',
+  },
+  newsletterQuickLinks: {
+    maxWidth: 800,
+    marginHorizontal: 'auto',
+    width: '100%',
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    justifyContent: 'center',
+    gap: 12,
+    marginTop: 8,
   },
   newsletterContainer: {
     maxWidth: 800,

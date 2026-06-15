@@ -345,11 +345,16 @@ export default function handler(req, res) {
   const today = new Date().toISOString().split('T')[0];
   const urls = [
     { loc: '/', priority: '1.0', changefreq: 'weekly' },
+    // Issue #1053: #2 organic page (GA4) — drummer database hub, links to all 62 profiles
+    { loc: '/drummers', priority: '0.9', changefreq: 'weekly' },
+    // Issue #1053: #3 organic page (GA4) — "Which Metal Drummer Are You?" match quiz
+    { loc: '/quiz', priority: '0.9', changefreq: 'weekly' },
     { loc: '/kit-quiz', priority: '0.9', changefreq: 'weekly' },
     { loc: '/guess-the-kit', priority: '0.95', changefreq: 'weekly' }, // Issue #706: Photo Quiz
     { loc: '/kit-builder', priority: '0.9', changefreq: 'weekly' },
     { loc: '/gear', priority: '0.9', changefreq: 'weekly' },
     { loc: '/quotes', priority: '0.9', changefreq: 'weekly' },
+    { loc: '/facts', priority: '0.8', changefreq: 'monthly' }, // Issue #452: Quick Facts (FAQPage schema) — #1051 de-orphan
     { loc: '/lists', priority: '0.9', changefreq: 'weekly' },
     { loc: '/birthdays', priority: '0.9', changefreq: 'weekly' },
     // Issue #723: Metal Drummer Evolution Timeline (1970-2024)

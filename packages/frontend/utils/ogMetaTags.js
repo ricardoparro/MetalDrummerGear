@@ -61,6 +61,9 @@ function setCanonical(url) {
  * @param {string} [options.twitterCard] - Twitter card type (defaults to 'summary_large_image')
  * @param {boolean} [options.setTitle] - Whether to set document.title (defaults to true)
  * @param {boolean} [options.setCanonical] - Whether to set canonical URL (defaults to true)
+ * @param {string} [options.canonicalUrl] - Override canonical URL independently of og:url.
+ *   When set, canonical points here while og:url keeps `url` (e.g. quiz result variants
+ *   share the clean /quiz canonical but keep their per-result og:url). Issue #1054.
  */
 export function updateOgMeta({
   title,
@@ -72,6 +75,7 @@ export function updateOgMeta({
   twitterCard = 'summary_large_image',
   setTitle: shouldSetTitle = true,
   setCanonical: shouldSetCanonical = true,
+  canonicalUrl,
 }) {
   if (Platform.OS !== 'web' || typeof document === 'undefined') return;
 
@@ -107,9 +111,13 @@ export function updateOgMeta({
   setMeta('twitter:description', description);
   setMeta('twitter:image', absoluteImage);
 
-  // Canonical URL
+  // Canonical URL — `canonicalUrl` (if provided) overrides og:url so duplicate
+  // query-string variants can consolidate onto a clean canonical (Issue #1054).
   if (shouldSetCanonical) {
-    setCanonical(absoluteUrl);
+    const canonicalAbsolute = canonicalUrl
+      ? (canonicalUrl.startsWith('http') ? canonicalUrl : `${BASE_URL}${canonicalUrl.startsWith('/') ? '' : '/'}${canonicalUrl}`)
+      : absoluteUrl;
+    setCanonical(canonicalAbsolute);
   }
 }
 
@@ -395,11 +403,14 @@ export function updateQuizPageMeta(drummer = null, matchPercentage = 0) {
     const description = `I matched with ${drummer.name} (${drummer.band}) - ${matchPercentage}% match! Take the Metal Drummer Quiz to find out which legendary drummer's setup and style matches yours!`;
     
     // Issue #682: Use dynamic OG image with MetalForge branding
+    // Issue #1054: keep the result-specific og:url for share cards, but consolidate
+    // the canonical onto the clean /quiz so ~62 result variants don't fragment ranking.
     updateOgMeta({
       title,
       description,
       url: `/quiz?result=${drummerSlug}`,
       image: getQuizOgImageUrl(drummer, matchPercentage),
+      canonicalUrl: '/quiz',
     });
     return;
   }

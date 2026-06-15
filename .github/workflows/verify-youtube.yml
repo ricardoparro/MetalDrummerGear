@@ -17,13 +17,25 @@ on:
       - 'packages/frontend/App.js'
       - 'api/**'
       - 'packages/backend/src/**'
+  pull_request:
+    paths:
+      - '.github/workflows/verify-youtube.yml'
+      - 'scripts/verify-youtube-ids.cjs'
+      - 'packages/frontend/data/**'
+      - 'packages/frontend/components/**'
+      - 'packages/frontend/App.js'
+      - 'api/**'
+      - 'packages/backend/src/**'
 
 permissions:
   contents: read
   issues: write
 
 jobs:
+  # Post-merge / scheduled safety net: full scan that files umbrella issues for
+  # any dead ID already on main. Skipped on pull_request (the gate job covers PRs).
   verify:
+    if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     name: Scan for broken YouTube embeds
     steps:
@@ -49,3 +61,26 @@ jobs:
           name: youtube-verification-report
           path: youtube-verification-report.json
           retention-days: 30
+
+  # Pre-merge blocking gate (#984): fail the PR if it introduces a dead YouTube
+  # ID. Strict mode checks only IDs added/changed vs the merge base, so it stays
+  # fast and never flakes on pre-existing dead IDs tracked by the cron above.
+  gate:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    name: YouTube pre-merge gate (strict)
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # Full history + base ref so the three-dot merge-base diff resolves.
+          fetch-depth: 0
+
+      - name: Fetch PR base branch
+        run: git fetch --no-tags origin "+refs/heads/${GITHUB_BASE_REF}:refs/remotes/origin/${GITHUB_BASE_REF}"
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Strict YouTube gate (changed IDs only)
+        run: node scripts/verify-youtube-ids.cjs --strict

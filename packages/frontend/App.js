@@ -2204,7 +2204,23 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
         },
         "keywords": list.seoKeywords?.join(', ') || '',
         "articleSection": list.isAlbumArticle ? "Album Gear Breakdown" : "Top 10 Lists",
-        "inLanguage": "en-US"
+        "inLanguage": "en-US",
+        "breadcrumb": {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://metalforge.io" },
+            {
+              "@type": "ListItem", "position": 2,
+              "name": list.isAlbumArticle ? "Articles" : "Lists",
+              "item": `https://metalforge.io/${urlBase}`
+            },
+            {
+              "@type": "ListItem", "position": 3,
+              "name": list.title,
+              "item": `https://metalforge.io/${urlBase}/${list.slug}`
+            }
+          ]
+        }
       };
 
       let ldScript = document.querySelector('script[data-schema="top10-article"]');

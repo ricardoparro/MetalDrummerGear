@@ -16,6 +16,8 @@ Allow: /
 Crawl-delay: 10
 
 # AI/LLM Crawlers - Full Access (no delay)
+# We explicitly welcome AI crawlers. See /llms.txt and /llms-full.txt for
+# LLM-optimized content, and /llms/drummers/<slug>.md for per-drummer profiles.
 User-agent: GPTBot
 Allow: /
 
@@ -58,6 +60,7 @@ Sitemap: https://metalforge.io/sitemap.xml
 # LLM/AI Discovery
 # See https://metalforge.io/llms.txt for AI-friendly site information
 # See https://metalforge.io/llms-full.txt for comprehensive content
+# See https://metalforge.io/llms/index.md for the per-drummer markdown index
 `;
 
   res.status(200).send(robotsTxt);

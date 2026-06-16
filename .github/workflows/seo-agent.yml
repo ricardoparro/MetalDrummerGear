@@ -64,10 +64,11 @@ jobs:
           git config user.name "Ricardo Parro"
           git config user.email "ricardo.parro@gmail.com"
 
-      - name: Fetch fresh GA4 metrics
+      - name: Fetch fresh GA4 + GSC metrics
         env:
           GOOGLE_APPLICATION_CREDENTIALS: ${{ runner.temp }}/gcp/metrics.json
           GA4_PROPERTY_ID: ${{ secrets.GA4_PROPERTY_ID }}
+          GSC_SITE: ${{ secrets.GSC_SITE }}
         run: node .agents/scripts/fetch-metrics.cjs
 
       - name: Run SEO agent via Claude Code CLI
@@ -76,6 +77,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GOOGLE_APPLICATION_CREDENTIALS: ${{ runner.temp }}/gcp/metrics.json
           GA4_PROPERTY_ID: ${{ secrets.GA4_PROPERTY_ID }}
+          GSC_SITE: ${{ secrets.GSC_SITE }}
         run: |
           cat .agents/seo/PROMPT.md | claude --print --dangerously-skip-permissions
 

@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-14 05:35 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-16 11:44 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,32 +8,32 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 53 |
-| Sessions | 62 |
-| Page views | 110 |
-| Engagement rate | 61.29% |
-| Avg session (s) | 47 |
+| Active users | 48 |
+| Sessions | 56 |
+| Page views | 79 |
+| Engagement rate | 64.29% |
+| Avg session (s) | 39 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 28 | 13 |
-| /drummer/2 | 11 | 8 |
-| /drummers | 10 | 1 |
+| / | 21 | 11 |
+| /drummer/2 | 13 | 10 |
 | /drummer/32 | 4 | 4 |
 | /drummer/34 | 4 | 4 |
-| /drummer/7 | 4 | 3 |
-| /drummer/16 | 3 | 3 |
-| /drummer/18 | 3 | 3 |
-| /drummer/navene-koperweis | 3 | 3 |
-| /quiz | 3 | 1 |
+| /drummer/7 | 3 | 2 |
+| /drummer/16 | 2 | 2 |
+| /drummer/18 | 2 | 2 |
+| /drummer/55 | 2 | 1 |
+| /drummers | 2 | 1 |
+| /drummers/george-kollias/licks/george-kollias-polyrhythmic-mayhem | 2 | 1 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 44 | 39 |
-| Direct | 18 | 14 |
-| Unassigned | 9 | 7 |
+| Organic Search | 44 | 38 |
+| Direct | 12 | 10 |
+| Unassigned | 3 | 3 |
 
 ## Search Console — Search performance
 > ⚠️ **GSC data unavailable:** GSC_SITE missing

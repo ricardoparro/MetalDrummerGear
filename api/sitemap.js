@@ -17,6 +17,11 @@ import { getAllTechniqueSlugs } from '../packages/frontend/data/techniques.js';
 // helpers) and mirror that module's slug + dedupe logic verbatim so the URLs
 // emitted here resolve 1:1 with the live routes.
 import { GEAR_INDEX } from '../packages/frontend/data/gearIndex.js';
+// Issue #1056: derive the signature-lick page + hub URLs directly from the
+// composed SIGNATURE_LICKS data (now modularized under data/licks/) instead of
+// hand-maintaining two parallel arrays here. New lick batches add a per-drummer
+// file and auto-appear in the sitemap — no manual edit, no second conflict surface.
+import { SIGNATURE_LICKS } from '../packages/frontend/data/signatureLicks.js';
 
 // Issue #623: Content Scale Sprint - All 62 drummers now in sitemap
 const drummers = [
@@ -224,111 +229,21 @@ const signatureGearPages = [
   // { drummerSlug: 'gene-hoglan', gearSlug: 'gene-hoglan-pearl-reference-kit', name: 'Pearl Reference Pure Kit' },
 ];
 
-// Issue #749: Signature Licks Database pages
-const signatureLicksPages = [
-  // Matt Greiner licks (#1012)
-  { drummerSlug: 'matt-greiner', lickSlug: 'matt-greiner-composure-syncopation', name: 'Composure Syncopated Groove' },
-  { drummerSlug: 'matt-greiner', lickSlug: 'matt-greiner-meridian-double-bass', name: 'Meridian Double-Bass Groove' },
-  { drummerSlug: 'matt-greiner', lickSlug: 'matt-greiner-sonic-salvation-groove', name: 'Sonic Salvation Metalcore Groove' },
-  // Ben Koller licks (#1012)
-  { drummerSlug: 'ben-koller', lickSlug: 'ben-koller-concubine-grind', name: 'Concubine Grind Assault' },
-  { drummerSlug: 'ben-koller', lickSlug: 'ben-koller-dark-horse-fills', name: 'Dark Horse Driving Fills' },
-  { drummerSlug: 'ben-koller', lickSlug: 'ben-koller-aimless-arrow-hardcore', name: 'Aimless Arrow Hardcore Drive' },
-  // Danny Carey licks (Issue #1013)
-  { drummerSlug: 'danny-carey', lickSlug: 'danny-carey-pneuma-groove', name: 'Pneuma Main Groove' },
-  { drummerSlug: 'danny-carey', lickSlug: 'danny-carey-schism-intro', name: 'Schism Intro Pattern' },
-  { drummerSlug: 'danny-carey', lickSlug: 'danny-carey-forty-six-and-2-outro', name: 'Forty Six & 2 Outro Solo' },
-  // Gene Hoglan licks (Issue #1013)
-  { drummerSlug: 'gene-hoglan', lickSlug: 'gene-hoglan-the-philosopher-groove', name: 'The Philosopher Groove' },
-  { drummerSlug: 'gene-hoglan', lickSlug: 'gene-hoglan-crystal-mountain-groove', name: 'Crystal Mountain Groove' },
-  { drummerSlug: 'gene-hoglan', lickSlug: 'gene-hoglan-zero-tolerance-groove', name: 'Zero Tolerance Groove' },
-  // Tomas Haake licks (Issue #1013)
-  { drummerSlug: 'tomas-haake', lickSlug: 'tomas-haake-bleed-groove', name: 'Bleed Double Bass Groove' },
-  { drummerSlug: 'tomas-haake', lickSlug: 'tomas-haake-clockworks-groove', name: 'Clockworks Polymetric Groove' },
-  { drummerSlug: 'tomas-haake', lickSlug: 'tomas-haake-new-millennium-cyanide-christ-groove', name: 'New Millennium Cyanide Christ Groove' },
-  // Joey Jordison licks
-  { drummerSlug: 'joey-jordison', lickSlug: 'joey-jordison-heretic-anthem-intro', name: 'Heretic Anthem Intro' },
-  { drummerSlug: 'joey-jordison', lickSlug: 'joey-jordison-eyeless-blast', name: 'Eyeless Blast Section' },
-  { drummerSlug: 'joey-jordison', lickSlug: 'joey-jordison-disasterpiece-chaos', name: 'Disasterpiece Chaos Fill' },
-  // Lars Ulrich licks
-  { drummerSlug: 'lars-ulrich', lickSlug: 'lars-ulrich-one-intro', name: 'One Intro Pattern' },
-  { drummerSlug: 'lars-ulrich', lickSlug: 'lars-ulrich-enter-sandman-groove', name: 'Enter Sandman Main Groove' },
-  { drummerSlug: 'lars-ulrich', lickSlug: 'lars-ulrich-master-of-puppets-gallop', name: 'Master of Puppets Gallop' },
-  // Dave Lombardo licks
-  { drummerSlug: 'dave-lombardo', lickSlug: 'dave-lombardo-angel-of-death-chaos', name: 'Angel of Death Opening' },
-  { drummerSlug: 'dave-lombardo', lickSlug: 'dave-lombardo-raining-blood-double-bass', name: 'Raining Blood Double Bass' },
-  { drummerSlug: 'dave-lombardo', lickSlug: 'dave-lombardo-seasons-thrash', name: 'Seasons in the Abyss Groove' },
-  // George Kollias licks
-  { drummerSlug: 'george-kollias', lickSlug: 'george-kollias-gravity-blast', name: 'Nile Gravity Blast Pattern' },
-  { drummerSlug: 'george-kollias', lickSlug: 'george-kollias-polyrhythmic-mayhem', name: 'Polyrhythmic Death Metal Pattern' },
-  { drummerSlug: 'george-kollias', lickSlug: 'george-kollias-sustained-blast', name: 'Sustained 250+ BPM Blast' },
-  // Mario Duplantier licks
-  { drummerSlug: 'mario-duplantier', lickSlug: 'mario-duplantier-polyrhythmic-groove', name: 'Gojira Polyrhythmic Groove' },
-  { drummerSlug: 'mario-duplantier', lickSlug: 'mario-duplantier-blast-variation', name: 'Gojira Blast Variation' },
-  { drummerSlug: 'mario-duplantier', lickSlug: 'mario-duplantier-backbone-groove', name: 'Backbone Main Groove' },
-  // Matt Garstka licks (#1011)
-  { drummerSlug: 'matt-garstka', lickSlug: 'matt-garstka-monomyth-polyrhythm', name: 'Monomyth Polyrhythmic Groove' },
-  { drummerSlug: 'matt-garstka', lickSlug: 'matt-garstka-woven-web-linear', name: 'The Woven Web Linear Groove' },
-  { drummerSlug: 'matt-garstka', lickSlug: 'matt-garstka-tempting-time-groove', name: 'Tempting Time Odd-Meter Groove' },
-  // Jaska Raatikainen licks (#1011)
-  { drummerSlug: 'jaska-raatikainen', lickSlug: 'jaska-raatikainen-sixpounder-double-bass', name: 'Sixpounder Double Bass Drive' },
-  { drummerSlug: 'jaska-raatikainen', lickSlug: 'jaska-raatikainen-lake-bodom-fills', name: 'Lake Bodom Driving Fills' },
-  { drummerSlug: 'jaska-raatikainen', lickSlug: 'jaska-raatikainen-hate-crew-deathroll-blast', name: 'Hate Crew Deathroll Double-Bass Assault' },
-  // Brann Dailor licks (#1014)
-  { drummerSlug: 'brann-dailor', lickSlug: 'brann-dailor-blood-and-thunder-groove', name: 'Blood and Thunder Lead Groove' },
-  { drummerSlug: 'brann-dailor', lickSlug: 'brann-dailor-hearts-alive-fills', name: 'Hearts Alive Melodic Fills' },
-  { drummerSlug: 'brann-dailor', lickSlug: 'brann-dailor-ghost-of-karelia-groove', name: 'Ghost of Karelia Prog Groove' },
-  // Mike Portnoy licks (#1014)
-  { drummerSlug: 'mike-portnoy', lickSlug: 'mike-portnoy-dance-of-eternity', name: 'The Dance of Eternity' },
-  { drummerSlug: 'mike-portnoy', lickSlug: 'mike-portnoy-pull-me-under-groove', name: 'Pull Me Under Groove & Fills' },
-  { drummerSlug: 'mike-portnoy', lickSlug: 'mike-portnoy-panic-attack-double-bass', name: 'Panic Attack Double Bass Assault' },
-  // Eloy Casagrande licks (#1014)
-  { drummerSlug: 'eloy-casagrande', lickSlug: 'eloy-casagrande-means-to-an-end-groove', name: 'Means To An End Groove' },
-  { drummerSlug: 'eloy-casagrande', lickSlug: 'eloy-casagrande-isolation-blast', name: 'Isolation Blast & Double Bass' },
-  { drummerSlug: 'eloy-casagrande', lickSlug: 'eloy-casagrande-arise-double-bass', name: 'Arise Double Bass Drive' },
-  // Matt Halpern licks (#1047, split 1/4 of #1044)
-  { drummerSlug: 'matt-halpern', lickSlug: 'matt-halpern-icarus-lives-groove', name: 'Icarus Lives! Djent Groove' },
-  { drummerSlug: 'matt-halpern', lickSlug: 'matt-halpern-marigold-groove', name: 'Marigold Melodic Groove' },
-  { drummerSlug: 'matt-halpern', lickSlug: 'matt-halpern-the-bad-thing-groove', name: 'The Bad Thing Double-Bass Assault' },
-  // Vinnie Paul licks (#1047, split 1/4 of #1044)
-  { drummerSlug: 'vinnie-paul', lickSlug: 'vinnie-paul-walk-groove', name: 'Walk Half-Time Groove' },
-  { drummerSlug: 'vinnie-paul', lickSlug: 'vinnie-paul-cowboys-from-hell-groove', name: 'Cowboys from Hell Driving Groove' },
-  { drummerSlug: 'vinnie-paul', lickSlug: 'vinnie-paul-domination-double-bass', name: 'Domination Double-Bass Breakdown' },
-  // Charlie Benante licks (#1048, split 2/4 of #1044)
-  { drummerSlug: 'charlie-benante', lickSlug: 'charlie-benante-caught-in-a-mosh-groove', name: 'Caught in a Mosh Syncopated Groove' },
-  { drummerSlug: 'charlie-benante', lickSlug: 'charlie-benante-madhouse-thrash-groove', name: 'Madhouse Thrash Groove' },
-  { drummerSlug: 'charlie-benante', lickSlug: 'charlie-benante-indians-war-dance', name: 'Indians War Dance Breakdown' },
-  // Chris Adler licks (#1048, split 2/4 of #1044)
-  { drummerSlug: 'chris-adler', lickSlug: 'chris-adler-laid-to-rest-groove', name: 'Laid to Rest Ride-Bell Groove' },
-  { drummerSlug: 'chris-adler', lickSlug: 'chris-adler-walk-with-me-in-hell-groove', name: 'Walk with Me in Hell Half-Time Groove' },
-  { drummerSlug: 'chris-adler', lickSlug: 'chris-adler-512-groove', name: '512 Groove & Fills' },
-];
+// Issue #749 / #1056: Signature Licks pages — derived from SIGNATURE_LICKS so new
+// per-drummer lick modules auto-appear in the sitemap (no hand-maintained list).
+const signatureLicksPages = Object.values(SIGNATURE_LICKS).map(lick => ({
+  drummerSlug: lick.drummerSlug,
+  lickSlug: lick.slug,
+  name: lick.name,
+}));
 
-// Drummers with licks hub pages
-const drummerLicksHubs = [
-  { drummerSlug: 'matt-greiner', name: 'Matt Greiner' },
-  { drummerSlug: 'ben-koller', name: 'Ben Koller' },
-  // Issue #1013 — marquee batch A
-  { drummerSlug: 'danny-carey', name: 'Danny Carey' },
-  { drummerSlug: 'gene-hoglan', name: 'Gene Hoglan' },
-  { drummerSlug: 'tomas-haake', name: 'Tomas Haake' },
-  { drummerSlug: 'joey-jordison', name: 'Joey Jordison' },
-  { drummerSlug: 'lars-ulrich', name: 'Lars Ulrich' },
-  { drummerSlug: 'dave-lombardo', name: 'Dave Lombardo' },
-  { drummerSlug: 'george-kollias', name: 'George Kollias' },
-  { drummerSlug: 'mario-duplantier', name: 'Mario Duplantier' },
-  { drummerSlug: 'matt-garstka', name: 'Matt Garstka' },
-  { drummerSlug: 'jaska-raatikainen', name: 'Jaska Raatikainen' },
-  { drummerSlug: 'brann-dailor', name: 'Brann Dailor' },
-  { drummerSlug: 'mike-portnoy', name: 'Mike Portnoy' },
-  { drummerSlug: 'eloy-casagrande', name: 'Eloy Casagrande' },
-  // Issue #1047 (split 1/4 of #1044)
-  { drummerSlug: 'matt-halpern', name: 'Matt Halpern' },
-  { drummerSlug: 'vinnie-paul', name: 'Vinnie Paul' },
-  // Issue #1048 (split 2/4 of #1044)
-  { drummerSlug: 'charlie-benante', name: 'Charlie Benante' },
-  { drummerSlug: 'chris-adler', name: 'Chris Adler' },
-];
+// Drummers with licks hub pages — distinct drummerSlugs in first-appearance order.
+const drummerLicksHubs = Object.values(SIGNATURE_LICKS).reduce((hubs, lick) => {
+  if (!hubs.some(h => h.drummerSlug === lick.drummerSlug)) {
+    hubs.push({ drummerSlug: lick.drummerSlug, name: lick.drummerName });
+  }
+  return hubs;
+}, []);
 
 // Issue #802: Endorsement Tracker pages
 // Track brand deals and endorsement history for drummers
@@ -430,11 +345,16 @@ export default function handler(req, res) {
   const today = new Date().toISOString().split('T')[0];
   const urls = [
     { loc: '/', priority: '1.0', changefreq: 'weekly' },
+    // Issue #1053: #2 organic page (GA4) — drummer database hub, links to all 62 profiles
+    { loc: '/drummers', priority: '0.9', changefreq: 'weekly' },
+    // Issue #1053: #3 organic page (GA4) — "Which Metal Drummer Are You?" match quiz
+    { loc: '/quiz', priority: '0.9', changefreq: 'weekly' },
     { loc: '/kit-quiz', priority: '0.9', changefreq: 'weekly' },
     { loc: '/guess-the-kit', priority: '0.95', changefreq: 'weekly' }, // Issue #706: Photo Quiz
     { loc: '/kit-builder', priority: '0.9', changefreq: 'weekly' },
     { loc: '/gear', priority: '0.9', changefreq: 'weekly' },
     { loc: '/quotes', priority: '0.9', changefreq: 'weekly' },
+    { loc: '/facts', priority: '0.8', changefreq: 'monthly' }, // Issue #452: Quick Facts (FAQPage schema) — #1051 de-orphan
     { loc: '/lists', priority: '0.9', changefreq: 'weekly' },
     { loc: '/birthdays', priority: '0.9', changefreq: 'weekly' },
     // Issue #723: Metal Drummer Evolution Timeline (1970-2024)

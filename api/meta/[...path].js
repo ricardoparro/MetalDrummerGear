@@ -8,6 +8,7 @@
  */
 
 import { drummers } from '../drummers/index.js';
+import { ALBUM_ARTICLES } from '../../packages/frontend/data/albumArticles.js';
 
 const BASE_URL = 'https://metalforge.io';
 const SITE_NAME = 'MetalForge';
@@ -99,6 +100,34 @@ const ARTICLE_METADATA = {
     keywords: ['jay weinberg drum kit', 'slipknot drummer gear', 'nu metal drums'],
   },
 };
+
+// Issue #1064: derive the same articleMeta shape consumed by the meta + schema
+// builders from ALBUM_ARTICLES (60 entries) so every committed article gets a
+// unique title/description/Article-schema instead of falling back to a generic
+// stub. ARTICLE_METADATA above stays as an override for the handful of slugs
+// that are not in ALBUM_ARTICLES (e.g. legacy aliases).
+function articleMetaFromAlbumArticles(slug) {
+  const a = ALBUM_ARTICLES[slug];
+  if (!a) return null;
+  const isAlbum = Boolean(a.albumTitle);
+  const headline = a.title
+    || (isAlbum
+      ? `${a.albumTitle} Drum Setup: ${a.drummer || ''}'s Gear Breakdown`.trim()
+      : `Drum Gear Breakdown — ${a.drummer || a.slug}`);
+  const image = a.ogImage
+    ? (a.ogImage.startsWith('http') ? a.ogImage : `${BASE_URL}${a.ogImage}`)
+    : DEFAULT_IMAGE;
+  return {
+    headline,
+    description: a.description,
+    author: a.author || 'MetalForge Editorial',
+    datePublished: a.datePublished,
+    dateModified: a.dateModified || a.datePublished,
+    image,
+    articleSection: isAlbum ? 'Album Gear Breakdown' : 'Drummer Gear Breakdown',
+    keywords: a.seoKeywords || [],
+  };
+}
 
 // Helper: Get drummer by slug
 function getDrummerBySlug(slug) {
@@ -334,11 +363,15 @@ function getMetaForPath(pathname) {
   }
 
   // Articles pages (Issue #777: Add Article schema to content articles)
+  // Issue #1064: source articleMeta from ALBUM_ARTICLES first so all ~60
+  // committed articles get unique titles/descriptions + Article JSON-LD,
+  // not just the ~10 hand-curated ones in ARTICLE_METADATA.
   const articlesMatch = path.match(/^\/articles\/([a-z0-9-]+)$/);
   if (articlesMatch) {
     const [, articleSlug] = articlesMatch;
-    const articleMeta = ARTICLE_METADATA[articleSlug];
-    
+    const articleMeta = articleMetaFromAlbumArticles(articleSlug)
+      || ARTICLE_METADATA[articleSlug];
+
     if (articleMeta) {
       return {
         title: `${articleMeta.headline} | ${SITE_NAME}`,

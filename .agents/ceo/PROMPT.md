@@ -185,12 +185,14 @@ After writing, also:
 
 ### Decision Rules
 
+> **AGGRESSIVE PROMOTION MODE (active).** Implementation + merge throughput is now high (Ralph + auto-merge automation), so implementer bandwidth is no longer the binding constraint. **Keep the `ai-fix` queue FULL.** Approve liberally, do NOT park atomic, low-risk proposals in RESEARCH, and do NOT impose a backlog/queue-size cap — a deep `ai-fix` queue is the desired state, not noise. Triage every open `seo-proposal` every run; promoting is the default, holding is the exception you must justify.
+
 | Score Total | Decisão |
 |-------------|---------|
-| 7+ ⭐ | APROVAR imediatamente |
-| 4-6 ⭐ | RESEARCH primeiro (validar) |
-| 1-3 ⭐ | BACKLOG (não agora) |
-| 0 ⭐ | REJEITAR (não alinhado) |
+| 5+ ⭐ | APROVAR imediatamente (→ `ai-fix`) |
+| 4 ⭐ | APROVAR se atômico e baixo-risco; senão RESEARCH |
+| 2-3 ⭐ | BACKLOG (não agora) |
+| 0-1 ⭐ | REJEITAR (não alinhado) |
 
 ### Portfolio Balance Rule
 

@@ -1,0 +1,39 @@
+name: PR Merger
+
+# Deterministic auto-merger (counterpart to the GitHub Watcher, which only opens PRs).
+# Migrated from the local session cron to GitHub Actions. Logic: .agents/pr-merger/merge.sh
+# Policy/spec: .agents/pr-merger/MERGER-AGENT.md
+
+on:
+  workflow_dispatch:
+  # React shortly after CI finishes on any PR…
+  check_suite:
+    types: [completed]
+  # …plus a safety-net poll (GitHub cron is best-effort / often delayed).
+  schedule:
+    - cron: '7,22,37,52 * * * *'   # ~every 15 min, off the :00/:30 rush
+
+permissions:
+  contents: write        # merge + delete branch + update-branch
+  pull-requests: write   # merge PRs, comment
+  issues: write          # linked-issue auto-close on merge
+
+# Never run two mergers at once — they'd race on the same PRs.
+concurrency:
+  group: pr-merger
+  cancel-in-progress: false
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50   # script caps itself at 45 min wall time
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Drain mergeable PRs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+        run: |
+          chmod +x .agents/pr-merger/merge.sh
+          .agents/pr-merger/merge.sh

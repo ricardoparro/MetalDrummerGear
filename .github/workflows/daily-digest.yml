@@ -57,52 +57,29 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
-          DIGEST_BRANCH: digest
+          DIGEST_BRANCH: main
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: node .agents/scripts/generate-digest.cjs
 
-      - name: Publish DIGEST.md to the `digest` branch
-        # The `digest` branch is a snapshot branch — no branch protection, no PR
-        # required. Each run rewrites it as `main + 1 commit with the new digest`,
-        # so the URL https://github.com/<repo>/blob/digest/DIGEST.md is always the
-        # latest snapshot. Force-push is safe: this branch is write-only for the
-        # digest workflow and nobody else depends on its history.
+      - name: Commit DIGEST.md + archive to main
         run: |
-          # Stash the just-generated artefacts off the worktree.
-          mkdir -p /tmp/digest-payload
-          cp DIGEST.md /tmp/digest-payload/ 2>/dev/null || true
-          if [ -d .agents/digest ]; then cp -r .agents/digest /tmp/digest-payload/digest-state; fi
-          cp .agents/ceo/metrics.md /tmp/digest-payload/metrics.md 2>/dev/null || true
-
-          # Reset the worktree to a clean origin/main, then carve a fresh `digest`
-          # branch from main (no inherited junk, no protected-branch baggage).
-          git checkout -- . 2>/dev/null || true
-          git clean -fd
-          git checkout -B digest origin/main
-
-          # Re-apply the payload.
-          cp /tmp/digest-payload/DIGEST.md . 2>/dev/null || true
-          mkdir -p .agents/digest .agents/ceo
-          if [ -d /tmp/digest-payload/digest-state ]; then cp -r /tmp/digest-payload/digest-state/. .agents/digest/; fi
-          cp /tmp/digest-payload/metrics.md .agents/ceo/metrics.md 2>/dev/null || true
-
           git add DIGEST.md .agents/digest/ .agents/ceo/metrics.md 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "No digest changes to commit."
             exit 0
           fi
 
-          git commit -m "digest: $(date -u +%FT%H:%MZ)"
+          git commit -m "digest: $(date -u +%FT%H:%MZ) [skip ci]"
 
-          # Force-push the snapshot branch.
           for attempt in 1 2 3 4; do
-            if git push origin digest --force; then
+            if git push origin main; then
               echo "Push succeeded on attempt $attempt"
               exit 0
             fi
             echo "Push attempt $attempt failed; sleeping $((attempt * 2))s and retrying"
             sleep $((attempt * 2))
+            git pull --rebase origin main || true
           done
-          echo "Push failed after 4 attempts"
+          echo "Push failed after 4 attempts — main may have re-acquired protection."
           exit 1

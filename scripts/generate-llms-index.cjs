@@ -27,6 +27,21 @@ try {
   process.exit(1);
 }
 
+// Load articles (ALBUM_ARTICLES) for the /llms/articles/<slug>.md index section (#1058)
+const articlesPath = path.join(__dirname, '../packages/frontend/data/albumArticles.js');
+let articles = {};
+try {
+  const articlesContent = fs.readFileSync(articlesPath, 'utf-8');
+  const objMatch = articlesContent.match(/export const ALBUM_ARTICLES = (\{[\s\S]*?\});\s*(?:\/\/|export|$)/);
+  if (objMatch) {
+    articles = eval(`(function() { return ${objMatch[1]}; })()`);
+  } else {
+    console.warn('Could not extract ALBUM_ARTICLES — Articles section will be empty.');
+  }
+} catch (e) {
+  console.warn('Could not parse ALBUM_ARTICLES, continuing without Articles section:', e.message);
+}
+
 const today = new Date().toISOString().split('T')[0];
 
 function generateSlug(name) {
@@ -68,6 +83,24 @@ This index provides machine-readable links to all content optimized for LLM cons
 for (const d of drummers) {
   const slug = generateSlug(d.name);
   output += `| ${d.name} | ${d.band} | ${d.genre} | [Profile](https://metalforge.io/drummer/${slug}) | [Markdown](https://metalforge.io/api/drummer/${slug}/markdown) |\n`;
+}
+
+// Articles — clean Markdown breakdowns of every album/kit article (#1058)
+const articleList = Object.values(articles).filter((a) => a && a.slug);
+if (articleList.length > 0) {
+  output += `
+---
+
+## Articles (${articleList.length} total)
+
+Clean Markdown gear breakdowns for every album drum-setup and "what's in <drummer>'s kit" article, ingestible in one request.
+
+| Article | Drummer | Markdown |
+|---------|---------|----------|
+`;
+  for (const a of articleList) {
+    output += `| ${a.title || a.slug} | ${a.drummer || '—'} | [Markdown](https://metalforge.io/llms/articles/${a.slug}.md) |\n`;
+  }
 }
 
 output += `

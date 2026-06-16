@@ -70,6 +70,17 @@ Curated, price-tiered gear guides for building a metal drum setup at a target bu
 - /guides/budget-metal-drum-setup-1000 - best metal drum setup under $1000
 - /guides/budget-metal-drum-setup-2000 - best metal drum setup under $2000
 
+### Album & Kit Gear Articles
+In-depth gear breakdowns answering "what's in <drummer>'s kit?" and "<album> drum setup",
+each a token-clean Markdown page citing the exact drums, snare, cymbals, and hardware used.
+- /llms/articles/<slug>.md - clean Markdown breakdown per article (album drum setups + drummer kit breakdowns)
+- /articles/<slug> - the full interactive article (HTML)
+
+Examples:
+- /llms/articles/master-of-puppets-drum-setup.md - Lars Ulrich's Master of Puppets gear
+- /llms/articles/whats-in-mike-portnoys-kit.md - Mike Portnoy's Dream Theater reunion kit
+- /llms/articles/reign-in-blood-drum-setup.md - Dave Lombardo's Reign in Blood setup
+
 ## API Endpoints
 
 ### GET /api/drummers
@@ -130,12 +141,15 @@ parsing HTML:
 - /llms/gear-guide.md - overview of drum/cymbal/hardware brands and how to choose
 - /llms/licks.md - signature drum licks database with technique breakdowns and tutorial videos
 - /llms/drummers/<slug>.md - full profile per drummer (frontmatter, quick facts, bio, gear, FAQ, quotes)
+- /llms/articles/<slug>.md - clean gear breakdown per album/kit article (album drum setups + "what's in <drummer>'s kit")
 - /llms-full.txt - complete database dump (all drummers concatenated)
 
 Examples:
 - /llms/drummers/lars-ulrich.md
 - /llms/drummers/dave-lombardo.md
 - /llms/drummers/danny-carey.md
+- /llms/articles/master-of-puppets-drum-setup.md
+- /llms/articles/whats-in-mike-portnoys-kit.md
 
 ## Structured Data
 All pages include Schema.org structured data:

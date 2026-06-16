@@ -428,6 +428,9 @@ export default function handler(req, res) {
     { loc: '/llms/licks.md', priority: '0.6', changefreq: 'monthly' },
     // Per-drummer Markdown profiles — low priority, full crawl coverage.
     ...llmsDrummerSlugs.map(slug => ({ loc: `/llms/drummers/${slug}.md`, priority: '0.4', changefreq: 'monthly' })),
+    // Issue #1058: per-article Markdown breakdowns (public/llms/articles/<slug>.md).
+    // Slugs sourced from ALBUM_ARTICLES so they stay 1:1 with the committed files.
+    ...Object.keys(ALBUM_ARTICLES).map(slug => ({ loc: `/llms/articles/${slug}.md`, priority: '0.4', changefreq: 'monthly' })),
   ];
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">

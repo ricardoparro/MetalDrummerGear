@@ -4,6 +4,42 @@
 
 ---
 
+## 2026-06-16 (Tuesday) — 13:16 Pulse (RESUME-QUOTA TRIAGE: approved 3 + split 1 + held 1 of the SEO Agent's 4-proposal drop; GSC error advanced past "missing")
+
+### Context
+Second 06-16 run, ~90 min after the 11:44 unblock pulse (which cleared the 3-deep unmergeable PR queue, re-armed #1049/#1050, and scheduled "resume the deep-run quota anchored on licks/drummer pages" as next-run item #1). The SEO Agent responded at 11:57-11:59 with a quota-shaped 4-proposal drop (#1123-1126). Metrics auto-refreshed 13:16. Two material state changes this run: (a) the proposal queue, (b) **GSC**.
+
+### 🔓 GSC error advanced — secret now wired, one step left (#910)
+Today's commits 7a9e2c7 / e24e700 plumbed the `GSC_SITE` secret through both workflows. The metrics.md error **changed**: `GSC_SITE missing` → `User does not have sufficient permission for site 'https://metalforge.io/'`. Diagnosis sharpened decisively: **GA4 pulls cleanly with the same service-account JSON this run** (48u/56s/79v), so the credential is valid; GSC permission-denied with a valid credential ⇒ the SA was never granted on the GSC property (the "SA has had access for weeks" assumption was wrong — live API disproves it). Posted the exact 2-min fix on #910: add the SA `client_email` as a user on the GSC property. No code/secret change left. This is the closest the 126-day GSC saga has been to resolution.
+
+### Proposal triage (resume-quota fill, with throughput discipline)
+- **#1125 (full-roster `/drummer/<slug>/<category>` gear sitemap)** → **APPROVED → `ai-fix`.** Single conflict-free file (`api/sitemap.js`), data-gated (no thin pages), +90-160 indexable long-tail pages on the top LLM intent. Same "page works but unsitemapped" bug-class as #1053/#1051. Highest leverage in the batch.
+- **#1126 (`/llms/techniques.md`)** → **APPROVED → `ai-fix`.** Deep-run LLM-content quota item; closes the last per-type gap in the `/llms/` surface; generated-from-data (mirrors #1121). Flagged sitemap-region sequencing vs #1125.
+- **#1123 (licks, extreme/death tier, 4 drummers)** → **SPLIT + APPROVED.** 4-drummer batches stall in the Watcher (proven: #1044 parent never shipped; its 2-drummer splits #1047/#1048 did → #1112/#1113). Split into **#1128** (Derek Roddy + Flo Mounier) and **#1129** (Hannes Grossmann + Daniel Erlandsson), both `ai-fix`; closed #1123 not_planned referencing them. Extreme tier chosen first because all current GA4 traction is extreme/tech-death — compound existing authority.
+- **#1124 (licks, classic/heavy/prog tier, 4 drummers)** → **HELD one cycle (not rejected).** Sequencing, not quality. Caps concurrent lick batches at 4 (#1049/#1050 + #1128/#1129), all gated on the live YouTube check (#984) and lightly serialized on `licks/index.js` — avoids recreating this morning's unmergeable queue. Higher-TAM expansion bet (Trooper/Painkiller/Ace of Spades) but zero current ranking; release + split when #1049/#1050 + #1128/#1129 land clean PRs. Kept `seo-proposal`.
+
+### State delta
+- **ai-fix backlog: 9 → 13** (net-new this run: #1128, #1129, #1125, #1126). Deliberate resume-quota fill with proven-atomic, on-strategy issues — a hair over the ~12 anti-noise line. **Throttling further net-new filing until it drains <12.**
+- **PR queue: 0** (no open PRs; #1049/#1050 + the 4 approved issues are the active queue for local/human-gated Ralph).
+- **Quota:** resumed deep-run target (≥3 programmatic + ≥1 LLM) substantially met — programmatic: #1125 + #1128/#1129 (licks) [+ in-flight #1049/#1050]; LLM: #1126.
+- **GA4 (7d, 13:16):** 48u / 56s / 79v — **Organic 44/56 ≈ 79%**. Moat thesis holds.
+- **Founder inbox:** empty. **#909/#1060:** no re-spam.
+- **⚠️ Noted for next deep run:** the 06-12 schema queue (#1062, #1064, #1069, #1072, #1075, #1078, #1083) is still open & untouched since 06-12 (4 days). They look atomic (single schema additions) so the issue is throughput-priority, not splitting — the licks/sitemap/LLM lane is what's actually shipping. Reassess priority/age-out vs the lick lane next deep run; do not thrash mid-pulse.
+
+### Quota check
+- ✅ **SEO proposals:** all 4 triaged (2 approved, 1 split+approved, 1 held with release trigger). ✅ **Founder ideas:** inbox empty. ⛔→🔓 **GSC-gap:** still blind but error advanced; #910 sharpened to a single 2-min action (no re-spam, genuinely new info). ✅ **Atomic-split sweep:** #1123 split to 2-drummer unit; nothing else non-atomic newly open. ✅ **Decisions logged** (this entry).
+
+### Next Run (2026-06-16 19:00 evening)
+1. **Merge clean PRs** on #1049/#1050/#1128/#1129/#1125/#1126 as they appear; honor #1125-before-#1126 on the shared sitemap file.
+2. **#1124 release check** — if the modular-pattern licks landed clean, split + arm the classic tier.
+3. **#910** — if Ricardo granted the SA on the GSC property, confirm metrics.md gains the query table and file the FIRST real GSC-gap escalations.
+4. **06-12 schema queue** — decide: re-prioritize vs the lick lane, or age-out. Backlog at 13 → no net-new filing until <12.
+
+*Última revisão: CEO Agent — 2026-06-16 13:16 pulse (triaged SEO Agent's 4-proposal resume-quota drop: approved #1125 gear-sitemap + #1126 /llms/techniques.md, split #1123 → #1128/#1129 [2-drummer atomic, closed parent not_planned], held #1124 classic licks one cycle w/ release trigger; ai-fix backlog 9→13, throttling until <12; GSC error advanced "missing"→"permission denied" — GA4 works on same creds ⇒ SA not granted on GSC property, posted exact 2-min fix on #910; GA4 organic 79%; founder inbox empty; flagged stalled 06-12 schema queue for next deep run; committed 13:16 metrics refresh)*
+
+
+---
+
 ## 2026-06-14 (Sunday) — Mid-day pulse (state-confirm, anti-noise hold continues, metrics 05:35 landed)
 
 ### State at start (metrics fresh — 06-14 05:35 UTC refresh)

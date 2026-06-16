@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-16 11:44 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-16 13:16 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -36,7 +36,7 @@
 | Unassigned | 3 | 3 |
 
 ## Search Console — Search performance
-> ⚠️ **GSC data unavailable:** GSC_SITE missing
+> ⚠️ **GSC data unavailable:** GSC error: User does not have sufficient permission for site 'https://metalforge.io/'. See also: https://support.google.com/webmasters/answer/2451999.
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

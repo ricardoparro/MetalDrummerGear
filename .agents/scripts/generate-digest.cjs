@@ -9,7 +9,7 @@
  *   - .agents/ceo/decisions-log.md (recent decisions)
  *
  * Writes:
- *   - DIGEST.md at repo root (always current snapshot)
+ *   - DIGEST.md at repo root (committed to the `digest` branch, not main)
  *   - .agents/digest/history/YYYY-MM-DD-HH.md (timestamped archive)
  *
  * Pushes:
@@ -18,6 +18,7 @@
  * Required env:
  *   GITHUB_TOKEN, GITHUB_REPOSITORY (auto in Actions)
  * Optional env:
+ *   DIGEST_BRANCH (default 'digest') — used only for the Telegram link.
  *   TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID
  */
 
@@ -374,7 +375,8 @@ function postToTelegram(text) {
   process.stderr.write(`Wrote ${DIGEST_FILE} (${markdown.length} chars)\n`);
 
   const repo = process.env.GITHUB_REPOSITORY || 'ricardoparro/MetalDrummerGear';
-  const fullUrl = `https://github.com/${repo}/blob/main/DIGEST.md`;
+  const branch = process.env.DIGEST_BRANCH || 'digest';
+  const fullUrl = `https://github.com/${repo}/blob/${branch}/DIGEST.md`;
   const telegramText = buildTelegramText(gh, metrics, fullUrl);
   await postToTelegram(telegramText);
 

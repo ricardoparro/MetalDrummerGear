@@ -1,0 +1,143 @@
+#!/usr/bin/env bash
+# Ralph drain-the-queue runner (Watcher + Ralph combined, GitHub Actions).
+# Implements EVERY open `ai-fix` issue — picks all, finishes only when none remain.
+# One issue → one branch → one PR (Closes #N). No per-run issue-count limit.
+#
+# The only stop conditions are:
+#   (a) no eligible issue remains, or
+#   (b) the wall-clock guard (default 320 min) trips — GitHub hard-kills jobs at
+#       6h, so we exit cleanly before that and the next scheduled run resumes.
+#
+# Env: REPO, GH_TOKEN, ANTHROPIC_API_KEY. Optional: WALL_CAP_MIN, PER_ISSUE_TIMEOUT.
+set -uo pipefail
+
+REPO="${REPO:?REPO required}"
+START=$(date +%s)
+WALL_CAP=$(( ${WALL_CAP_MIN:-320} * 60 ))
+PER_ISSUE_TIMEOUT="${PER_ISSUE_TIMEOUT:-1500}"   # 25 min per issue
+RUNS_DIR=".agents/ralph-runs"
+mkdir -p "$RUNS_DIR"
+
+declare -a DONE_PR=() DONE_HUMAN=() DONE_NOOP=() DONE_ERR=()
+elapsed() { echo $(( $(date +%s) - START )); }
+log() { echo "[$(date -u +%H:%M:%S)] $*"; }
+
+# A branch (anywhere on origin) whose name contains the issue number as a token
+branch_exists_for() {
+  git ls-remote --heads origin 2>/dev/null | awk '{print $2}' \
+    | grep -qE "(^|[^0-9])$1([^0-9]|$)"
+}
+# An open PR references the issue in its title/body
+open_pr_for() {
+  [ -n "$(gh pr list --repo "$REPO" --state open --search "$1 in:title,body" --json number --jq '.[0].number // ""' 2>/dev/null)" ]
+}
+
+# Self-heal: clear `in-progress` orphaned by a previously killed run
+# (issue has in-progress but no open PR and no branch → reclaim it).
+reclaim_orphans() {
+  local n
+  for n in $(gh issue list --repo "$REPO" --label ai-fix --state open --limit 200 \
+              --json number,labels \
+              --jq '[.[]|select(.labels|map(.name)|index("in-progress"))]|.[].number' 2>/dev/null); do
+    if ! open_pr_for "$n" && ! branch_exists_for "$n"; then
+      log "Reclaiming orphaned in-progress on #$n"
+      gh issue edit "$n" --repo "$REPO" --remove-label in-progress >/dev/null 2>&1 || true
+    fi
+  done
+}
+
+# Oldest open ai-fix issue that is truly unworked
+next_issue() {
+  local n
+  for n in $(gh issue list --repo "$REPO" --label ai-fix --state open --limit 200 \
+      --json number,labels \
+      --jq '[.[]|select(.labels|map(.name)|(index("in-progress")|not) and (index("human-founder")|not) and (index("needs-human")|not) and (index("pr-opened")|not) and (index("do-not-merge")|not))]|sort_by(.number)|.[].number' 2>/dev/null); do
+    open_pr_for "$n" && continue
+    branch_exists_for "$n" && continue
+    echo "$n"; return 0
+  done
+  return 1
+}
+
+implement_issue() {
+  local n="$1"
+  gh issue edit "$n" --repo "$REPO" --add-label in-progress >/dev/null 2>&1 || true
+
+  git checkout -q main 2>/dev/null || git checkout -qB main origin/main
+  git fetch -q origin main && git reset -q --hard origin/main
+  local br="ralph/issue-$n-$(date -u +%Y%m%d%H%M%S)"
+  git checkout -qb "$br"
+
+  gh issue view "$n" --repo "$REPO" --json title,body > "$RUNS_DIR/issue-$n.json"
+  local title body
+  title=$(jq -r .title "$RUNS_DIR/issue-$n.json")
+  body=$(jq -r .body "$RUNS_DIR/issue-$n.json")
+
+  {
+    echo "# Task"; echo
+    echo "Fix GitHub issue #${n}: ${title}"; echo
+    echo "$body"; echo
+    echo "---"; echo
+    cat .ralph/AGENT.md
+    echo; echo "---"; echo
+    echo "## Instructions"; echo
+    echo "1. Read the issue carefully. If it specifies files/templates, follow them field-for-field."
+    echo "2. Make minimal, focused changes. Do NOT refactor unrelated code."
+    echo "3. Validate: \`node --check\` any .js/.cjs you touched; run available tests."
+    echo "4. Any external resource you embed (e.g. a YouTube id) MUST be real and verified —"
+    echo "   never fabricate ids/links. Verify YouTube ids resolve (oEmbed 200) before using."
+    echo "5. Commit with: \"fix: #${n} <one-line summary>\". Do NOT push or open a PR — the runner does that."
+    echo "6. If blocked on a human decision or a guardrail, output one line: NEEDS_HUMAN: <reason> and stop."
+    echo; echo "Output a 5-line summary when done: problem, files changed, fix, validation, follow-ups."
+  } > "/tmp/ralph-$n.md"
+
+  log "Running Ralph on #$n ($title)"
+  timeout "${PER_ISSUE_TIMEOUT}s" claude --print --dangerously-skip-permissions \
+    < "/tmp/ralph-$n.md" > "$RUNS_DIR/issue-$n.log" 2>&1
+  local rc=$?
+  [ "$rc" = "124" ] && log "#$n timed out after ${PER_ISSUE_TIMEOUT}s"
+
+  if grep -q '^NEEDS_HUMAN:' "$RUNS_DIR/issue-$n.log"; then
+    local reason; reason=$(grep '^NEEDS_HUMAN:' "$RUNS_DIR/issue-$n.log" | head -1 | sed 's/^NEEDS_HUMAN: *//')
+    gh issue comment "$n" --repo "$REPO" --body "🤖 Ralph stopped: ${reason}" >/dev/null 2>&1 || true
+    gh issue edit "$n" --repo "$REPO" --remove-label in-progress --add-label needs-human >/dev/null 2>&1 || true
+    DONE_HUMAN+=("$n"); return
+  fi
+
+  if [ -z "$(git log origin/main..HEAD --oneline 2>/dev/null)" ]; then
+    gh issue comment "$n" --repo "$REPO" --body "🤖 Ralph produced no commits this run (rc=$rc). Retrying next pass." >/dev/null 2>&1 || true
+    gh issue edit "$n" --repo "$REPO" --remove-label in-progress >/dev/null 2>&1 || true
+    DONE_NOOP+=("$n"); return
+  fi
+
+  if git push -q origin "$br" && \
+     gh pr create --repo "$REPO" --base main --head "$br" \
+       --title "fix: #${n} ${title}" \
+       --body "Closes #${n}"$'\n\n'"Implemented autonomously by Ralph (cloud). Run #${GITHUB_RUN_ID:-local}." >/dev/null 2>&1; then
+    gh issue edit "$n" --repo "$REPO" --remove-label in-progress --add-label pr-opened >/dev/null 2>&1 || true
+    DONE_PR+=("$n"); log "Opened PR for #$n"
+  else
+    gh issue edit "$n" --repo "$REPO" --remove-label in-progress >/dev/null 2>&1 || true
+    DONE_ERR+=("$n"); log "push/PR failed for #$n"
+  fi
+}
+
+reclaim_orphans
+
+while :; do
+  if (( $(elapsed) > WALL_CAP )); then
+    log "Wall-clock guard (${WALL_CAP}s) hit — exiting cleanly; next run resumes the drain."
+    break
+  fi
+  ISSUE=$(next_issue) || { log "No eligible ai-fix issues remain — queue drained."; break; }
+  implement_issue "$ISSUE"
+done
+
+{
+  echo "## 🤖 Ralph drain"
+  echo "- Wall time: $(elapsed)s"
+  echo "- PRs opened (${#DONE_PR[@]}): ${DONE_PR[*]:-none}"
+  echo "- Handed to human (${#DONE_HUMAN[@]}): ${DONE_HUMAN[*]:-none}"
+  echo "- No-op/retry (${#DONE_NOOP[@]}): ${DONE_NOOP[*]:-none}"
+  echo "- Push/PR errors (${#DONE_ERR[@]}): ${DONE_ERR[*]:-none}"
+} | tee -a "${GITHUB_STEP_SUMMARY:-/dev/stdout}"

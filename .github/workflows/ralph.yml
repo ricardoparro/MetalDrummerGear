@@ -1,16 +1,17 @@
 name: Ralph (Watcher + Implementer)
 
-# Drains the ENTIRE open `ai-fix` queue: implements every eligible issue, one
-# branch + PR each, finishing only when no issues remain (or the wall-clock
-# guard trips — GitHub kills jobs at 6h, so we stop cleanly at ~5h20m and the
-# next run resumes). Replaces the local Ralph + the one-issue-per-run
-# implementer.yml. Logic: .ralph/drain.sh  ·  Specs: .ralph/AGENT.md,
-# .agents/github-watcher/WATCHER-AGENT.md
+# Drains the ENTIRE open issue queue (ANY label, or none — not just `ai-fix`):
+# implements every eligible issue, one branch + PR each, finishing only when no
+# issues remain (or the wall-clock guard trips — GitHub kills jobs at 6h, so we
+# stop cleanly at ~5h20m and the next run resumes). Eligibility (incl. the
+# human-flagged / non-actionable / hold exclusions) is decided in .ralph/drain.sh.
+# Replaces the local Ralph + the one-issue-per-run implementer.yml.
+# Specs: .ralph/AGENT.md, .agents/github-watcher/WATCHER-AGENT.md
 
 on:
-  # React immediately when the CEO promotes a proposal to ai-fix…
+  # React immediately when an issue is opened, reopened, or (re)labelled…
   issues:
-    types: [labeled]
+    types: [opened, reopened, labeled]
   # …plus a safety-net poll, and manual trigger.
   schedule:
     - cron: '13,43 * * * *'   # every 30 min, off the :00/:30 rush
@@ -30,10 +31,7 @@ jobs:
   drain:
     runs-on: ubuntu-latest
     timeout-minutes: 350   # drain.sh self-guards at 320 min, under GitHub's 6h cap
-    # On a labeled event, only run for the ai-fix label.
-    if: >
-      github.event_name != 'issues' ||
-      github.event.label.name == 'ai-fix'
+    # drain.sh decides eligibility for every issue; no label gate here.
     steps:
       - uses: actions/checkout@v4
         with:
@@ -57,7 +55,7 @@ jobs:
           git config user.name "Ricardo Parro"
           git config user.email "ricardo.parro@gmail.com"
 
-      - name: Drain the ai-fix queue
+      - name: Drain the issue queue
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}

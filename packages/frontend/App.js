@@ -4492,6 +4492,34 @@ function updateDocumentMeta(drummer, drummers = [], filters = {}) {
       }
     ];
 
+    // Query-matched FAQ entries for the proven "<drummer> drum kit / drum set" GSC
+    // template (Issue #1162). The existing "What drums does..." question never uses
+    // the literal "drum kit"/"drum set" phrasing people search, so these verbatim
+    // matches are featured-snippet / People-Also-Ask and AI-citation eligible.
+    // Reuse the same gear fields the "What drums..." answer already pulls.
+    if (drummer.gear && drummer.gear.drums) {
+      const primaryKit = extractPrimaryProduct(drummer.gear.drums) || drummer.gear.drums;
+      const cymbalBrand = drummer.gear.cymbals ? extractPrimaryProduct(drummer.gear.cymbals) : '';
+      faqItems.push(
+        {
+          "@type": "Question",
+          "name": `What drum kit does ${drummer.name} play?`,
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": `${drummer.name} plays a ${primaryKit} drum kit. Full kit: ${drummer.gear.drums}.`
+          }
+        },
+        {
+          "@type": "Question",
+          "name": `What drum set does ${drummer.name} use?`,
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": `${drummer.name}'s drum set features ${primaryKit}${cymbalBrand ? `, paired with ${cymbalBrand} cymbals` : ''}. See the full Quick Facts and gear breakdown for the complete setup.`
+          }
+        }
+      );
+    }
+
     // Add endorsements FAQ if available
     if (drummer.endorsements && drummer.endorsements.length > 0) {
       const endorsementNames = drummer.endorsements.map(e => e.name).join(', ');

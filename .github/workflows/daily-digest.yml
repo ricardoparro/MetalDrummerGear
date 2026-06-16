@@ -8,6 +8,9 @@ on:
 
 permissions:
   contents: write
+  issues: read
+  pull-requests: read
+  actions: read
 
 # Don't race a digest with itself
 concurrency:

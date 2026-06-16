@@ -20,7 +20,7 @@
         },
         {
           "key": "Link",
-          "value": "<https://metalforge.io>; rel=preconnect, <https://upload.wikimedia.org>; rel=preconnect; crossorigin, <https://i.ytimg.com>; rel=preconnect; crossorigin, </api/init>; rel=preload; as=fetch; crossorigin"
+          "value": "<https://metalforge.io>; rel=preconnect, <https://upload.wikimedia.org>; rel=preconnect; crossorigin, <https://i.ytimg.com>; rel=preconnect; crossorigin, </api/init>; rel=preload; as=fetch; crossorigin, </.well-known/api-catalog>; rel=\"api-catalog\", </llms.txt>; rel=\"service-doc\"; type=\"text/plain\", </llms/index.md>; rel=\"service-doc\"; type=\"text/markdown\", </sitemap.xml>; rel=\"sitemap\"; type=\"application/xml\""
         },
         {
           "key": "X-Content-Type-Options",
@@ -264,6 +264,7 @@
   "rewrites": [
     { "source": "/robots.txt", "destination": "/api/robots" },
     { "source": "/sitemap.xml", "destination": "/api/sitemap" },
+    { "source": "/.well-known/api-catalog", "destination": "/api/api-catalog" },
     { "source": "/facts", "destination": "/api/facts" },
     { "source": "/llms.txt", "destination": "/llms.txt" },
     { "source": "/llms-full.txt", "destination": "/llms-full.txt" },

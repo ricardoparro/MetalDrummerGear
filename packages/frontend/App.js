@@ -4301,7 +4301,18 @@ function updateDocumentMeta(drummer, drummers = [], filters = {}) {
         "@type": "WebSite",
         "name": "Metal Drummer Gear",
         "description": description,
-        "url": typeof window !== 'undefined' ? window.location.href : ''
+        "url": "https://metalforge.io/",
+        // SearchAction on the site-wide WebSite entity enables Google's
+        // sitelinks searchbox on branded SERPs. Tokens must match Google's
+        // expected literals exactly (see issue #1062).
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://metalforge.io/tools/gear-search?q={search_term_string}"
+          },
+          "query-input": "required name=search_term_string"
+        }
       }
     ];
 

@@ -6,12 +6,12 @@ country: "Poland"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/inferno"
 source: "https://metalforge.io"
-last_updated: "2026-06-06"
+last_updated: "2026-06-16"
 ---
 
-# Inferno
+# Inferno — Drum Kit & Gear Setup
 
-Inferno is a professional metal drummer best known for their work with Behemoth, a defining act in black/death metal.
+Inferno's drum kit and gear setup. Inferno is a professional metal drummer best known for their work with Behemoth, a defining act in black/death metal.
 
 ## Quick Facts
 
@@ -74,4 +74,4 @@ A: Inferno drums for Behemoth, a black/death metal band.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*

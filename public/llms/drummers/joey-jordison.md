@@ -6,12 +6,12 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/joey-jordison"
 source: "https://metalforge.io"
-last_updated: "2026-06-06"
+last_updated: "2026-06-16"
 ---
 
-# Joey Jordison
+# Joey Jordison — Drum Kit & Gear Setup
 
-Joey Jordison is a professional metal drummer best known for their work with Slipknot, a defining act in nu metal / death metal.
+Joey Jordison's drum kit and gear setup. Joey Jordison is a professional metal drummer best known for their work with Slipknot, a defining act in nu metal / death metal.
 
 ## Quick Facts
 
@@ -99,4 +99,4 @@ A: Joey wore mask #1 in Slipknot, a Kabuki-style Japanese mask.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*

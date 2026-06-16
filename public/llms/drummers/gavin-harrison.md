@@ -6,12 +6,12 @@ country: "UK"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/gavin-harrison"
 source: "https://metalforge.io"
-last_updated: "2026-06-06"
+last_updated: "2026-06-16"
 ---
 
-# Gavin Harrison
+# Gavin Harrison — Drum Kit & Gear Setup
 
-Gavin Harrison is a professional metal drummer best known for their work with Porcupine Tree / King Crimson, a defining act in progressive metal / progressive rock.
+Gavin Harrison's drum kit and gear setup. Gavin Harrison is a professional metal drummer best known for their work with Porcupine Tree / King Crimson, a defining act in progressive metal / progressive rock.
 
 ## Quick Facts
 
@@ -85,4 +85,4 @@ A: Gavin Harrison drums for Porcupine Tree / King Crimson, a progressive metal /
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*

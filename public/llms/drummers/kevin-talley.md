@@ -6,12 +6,12 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/kevin-talley"
 source: "https://metalforge.io"
-last_updated: "2026-06-06"
+last_updated: "2026-06-16"
 ---
 
-# Kevin Talley
+# Kevin Talley — Drum Kit & Gear Setup
 
-Kevin Talley is a professional metal drummer best known for their work with Dying Fetus / Misery Index / Six Feet Under, a defining act in brutal death metal / grindcore.
+Kevin Talley's drum kit and gear setup. Kevin Talley is a professional metal drummer best known for their work with Dying Fetus / Misery Index / Six Feet Under, a defining act in brutal death metal / grindcore.
 
 ## Quick Facts
 
@@ -76,4 +76,4 @@ A: Kevin Talley drums for Dying Fetus / Misery Index / Six Feet Under, a brutal 
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*

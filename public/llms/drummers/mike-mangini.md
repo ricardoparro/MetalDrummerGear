@@ -6,12 +6,12 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/mike-mangini"
 source: "https://metalforge.io"
-last_updated: "2026-06-06"
+last_updated: "2026-06-16"
 ---
 
-# Mike Mangini
+# Mike Mangini — Drum Kit & Gear Setup
 
-Mike Mangini is a professional metal drummer best known for their work with Dream Theater, a defining act in progressive metal.
+Mike Mangini's drum kit and gear setup. Mike Mangini is a professional metal drummer best known for their work with Dream Theater, a defining act in progressive metal.
 
 ## Quick Facts
 
@@ -76,4 +76,4 @@ A: Mike Mangini drums for Dream Theater, a progressive metal band.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*

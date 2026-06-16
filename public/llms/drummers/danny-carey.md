@@ -6,12 +6,12 @@ country: "USA"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/danny-carey"
 source: "https://metalforge.io"
-last_updated: "2026-06-06"
+last_updated: "2026-06-16"
 ---
 
-# Danny Carey
+# Danny Carey — Drum Kit & Gear Setup
 
-Danny Carey is a professional metal drummer best known for their work with Tool, a defining act in progressive metal.
+Danny Carey's drum kit and gear setup. Danny Carey is a professional metal drummer best known for their work with Tool, a defining act in progressive metal.
 
 ## Quick Facts
 
@@ -101,4 +101,4 @@ A: Yes, Danny was inducted into the Modern Drummer Hall of Fame in 2016.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*

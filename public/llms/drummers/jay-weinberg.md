@@ -6,12 +6,12 @@ country: "USA"
 primary_brand: "SJC"
 profile_url: "https://metalforge.io/drummer/jay-weinberg"
 source: "https://metalforge.io"
-last_updated: "2026-06-06"
+last_updated: "2026-06-16"
 ---
 
-# Jay Weinberg
+# Jay Weinberg — Drum Kit & Gear Setup
 
-Jay Weinberg is a professional metal drummer best known for their work with Suicidal Tendencies, a defining act in hardcore / thrash crossover.
+Jay Weinberg's drum kit and gear setup. Jay Weinberg is a professional metal drummer best known for their work with Suicidal Tendencies, a defining act in hardcore / thrash crossover.
 
 ## Quick Facts
 
@@ -76,4 +76,4 @@ A: Jay Weinberg drums for Suicidal Tendencies, a hardcore / thrash crossover ban
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*

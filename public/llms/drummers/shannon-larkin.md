@@ -6,12 +6,12 @@ country: "USA"
 primary_brand: "ddrum"
 profile_url: "https://metalforge.io/drummer/shannon-larkin"
 source: "https://metalforge.io"
-last_updated: "2026-06-06"
+last_updated: "2026-06-16"
 ---
 
-# Shannon Larkin
+# Shannon Larkin — Drum Kit & Gear Setup
 
-Shannon Larkin is a professional metal drummer best known for their work with Godsmack / Ugly Kid Joe / Amen, a defining act in hard rock / heavy metal / nu metal.
+Shannon Larkin's drum kit and gear setup. Shannon Larkin is a professional metal drummer best known for their work with Godsmack / Ugly Kid Joe / Amen, a defining act in hard rock / heavy metal / nu metal.
 
 ## Quick Facts
 
@@ -76,4 +76,4 @@ A: Shannon Larkin drums for Godsmack / Ugly Kid Joe / Amen, a hard rock / heavy 
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*

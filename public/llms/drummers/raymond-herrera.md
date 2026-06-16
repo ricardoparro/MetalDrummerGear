@@ -6,12 +6,12 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/raymond-herrera"
 source: "https://metalforge.io"
-last_updated: "2026-06-06"
+last_updated: "2026-06-16"
 ---
 
-# Raymond Herrera
+# Raymond Herrera — Drum Kit & Gear Setup
 
-Raymond Herrera is a professional metal drummer best known for their work with Fear Factory / Arkaea / Brujeria, a defining act in industrial metal / death metal.
+Raymond Herrera's drum kit and gear setup. Raymond Herrera is a professional metal drummer best known for their work with Fear Factory / Arkaea / Brujeria, a defining act in industrial metal / death metal.
 
 ## Quick Facts
 
@@ -76,4 +76,4 @@ A: Raymond Herrera drums for Fear Factory / Arkaea / Brujeria, a industrial meta
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,12 +6,12 @@ country: "USA"
 primary_brand: "ddrum"
 profile_url: "https://metalforge.io/drummer/vinnie-paul"
 source: "https://metalforge.io"
-last_updated: "2026-06-06"
+last_updated: "2026-06-16"
 ---
 
-# Vinnie Paul
+# Vinnie Paul — Drum Kit & Gear Setup
 
-Vinnie Paul is a professional metal drummer best known for their work with Pantera / Damageplan / Hellyeah, a defining act in groove metal / heavy metal.
+Vinnie Paul's drum kit and gear setup. Vinnie Paul is a professional metal drummer best known for their work with Pantera / Damageplan / Hellyeah, a defining act in groove metal / heavy metal.
 
 ## Quick Facts
 
@@ -75,4 +75,4 @@ A: Vinnie Paul drums for Pantera / Damageplan / Hellyeah, a groove metal / heavy
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*

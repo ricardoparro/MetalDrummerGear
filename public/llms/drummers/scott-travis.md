@@ -6,12 +6,12 @@ country: "USA"
 primary_brand: "ddrum"
 profile_url: "https://metalforge.io/drummer/scott-travis"
 source: "https://metalforge.io"
-last_updated: "2026-06-06"
+last_updated: "2026-06-16"
 ---
 
-# Scott Travis
+# Scott Travis — Drum Kit & Gear Setup
 
-Scott Travis is a professional metal drummer best known for their work with Judas Priest, a defining act in heavy metal / thrash metal.
+Scott Travis's drum kit and gear setup. Scott Travis is a professional metal drummer best known for their work with Judas Priest, a defining act in heavy metal / thrash metal.
 
 ## Quick Facts
 
@@ -83,4 +83,4 @@ A: Scott Travis drums for Judas Priest, a heavy metal / thrash metal band.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*

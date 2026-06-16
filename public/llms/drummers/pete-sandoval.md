@@ -6,12 +6,12 @@ country: "USA"
 primary_brand: "ddrum"
 profile_url: "https://metalforge.io/drummer/pete-sandoval"
 source: "https://metalforge.io"
-last_updated: "2026-06-06"
+last_updated: "2026-06-16"
 ---
 
-# Pete Sandoval
+# Pete Sandoval — Drum Kit & Gear Setup
 
-Pete Sandoval is a professional metal drummer best known for their work with Morbid Angel, a defining act in death metal.
+Pete Sandoval's drum kit and gear setup. Pete Sandoval is a professional metal drummer best known for their work with Morbid Angel, a defining act in death metal.
 
 ## Quick Facts
 
@@ -74,4 +74,4 @@ A: Pete Sandoval drums for Morbid Angel, a death metal band.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*

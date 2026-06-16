@@ -6,12 +6,12 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/tim-yeung"
 source: "https://metalforge.io"
-last_updated: "2026-06-06"
+last_updated: "2026-06-16"
 ---
 
-# Tim Yeung
+# Tim Yeung — Drum Kit & Gear Setup
 
-Tim Yeung is a professional metal drummer best known for their work with Morbid Angel / Hate Eternal / Vital Remains, a defining act in death metal / technical death metal.
+Tim Yeung's drum kit and gear setup. Tim Yeung is a professional metal drummer best known for their work with Morbid Angel / Hate Eternal / Vital Remains, a defining act in death metal / technical death metal.
 
 ## Quick Facts
 
@@ -76,4 +76,4 @@ A: Tim Yeung drums for Morbid Angel / Hate Eternal / Vital Remains, a death meta
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*

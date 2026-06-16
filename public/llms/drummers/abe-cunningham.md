@@ -6,12 +6,12 @@ country: "USA"
 primary_brand: "SJC"
 profile_url: "https://metalforge.io/drummer/abe-cunningham"
 source: "https://metalforge.io"
-last_updated: "2026-06-06"
+last_updated: "2026-06-16"
 ---
 
-# Abe Cunningham
+# Abe Cunningham — Drum Kit & Gear Setup
 
-Abe Cunningham is a professional metal drummer best known for their work with Deftones, a defining act in alternative metal / nu metal.
+Abe Cunningham's drum kit and gear setup. Abe Cunningham is a professional metal drummer best known for their work with Deftones, a defining act in alternative metal / nu metal.
 
 ## Quick Facts
 
@@ -83,4 +83,4 @@ A: Abe Cunningham drums for Deftones, a alternative metal / nu metal band.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*

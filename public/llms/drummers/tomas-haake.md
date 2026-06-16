@@ -6,12 +6,12 @@ country: "Sweden"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/tomas-haake"
 source: "https://metalforge.io"
-last_updated: "2026-06-06"
+last_updated: "2026-06-16"
 ---
 
-# Tomas Haake
+# Tomas Haake — Drum Kit & Gear Setup
 
-Tomas Haake is a professional metal drummer best known for their work with Meshuggah, a defining act in progressive metal / djent.
+Tomas Haake's drum kit and gear setup. Tomas Haake is a professional metal drummer best known for their work with Meshuggah, a defining act in progressive metal / djent.
 
 ## Quick Facts
 
@@ -95,4 +95,4 @@ A: Yes, Tomas has been Meshuggah's drummer and lyricist since 1990.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*

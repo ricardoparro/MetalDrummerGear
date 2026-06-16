@@ -6,12 +6,12 @@ country: "Sweden"
 primary_brand: "Noble"
 profile_url: "https://metalforge.io/drummer/martin-lopez"
 source: "https://metalforge.io"
-last_updated: "2026-06-06"
+last_updated: "2026-06-16"
 ---
 
-# Martin Lopez
+# Martin Lopez — Drum Kit & Gear Setup
 
-Martin Lopez is a professional metal drummer best known for their work with Soen / ex-Opeth, a defining act in progressive metal / progressive death metal.
+Martin Lopez's drum kit and gear setup. Martin Lopez is a professional metal drummer best known for their work with Soen / ex-Opeth, a defining act in progressive metal / progressive death metal.
 
 ## Quick Facts
 
@@ -85,4 +85,4 @@ A: Martin Lopez drums for Soen / ex-Opeth, a progressive metal / progressive dea
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*

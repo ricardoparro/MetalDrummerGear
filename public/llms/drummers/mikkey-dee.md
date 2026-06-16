@@ -6,12 +6,12 @@ country: "Sweden"
 primary_brand: "Yamaha"
 profile_url: "https://metalforge.io/drummer/mikkey-dee"
 source: "https://metalforge.io"
-last_updated: "2026-06-06"
+last_updated: "2026-06-16"
 ---
 
-# Mikkey Dee
+# Mikkey Dee — Drum Kit & Gear Setup
 
-Mikkey Dee is a professional metal drummer best known for their work with Scorpions / Motörhead, a defining act in heavy metal / hard rock.
+Mikkey Dee's drum kit and gear setup. Mikkey Dee is a professional metal drummer best known for their work with Scorpions / Motörhead, a defining act in heavy metal / hard rock.
 
 ## Quick Facts
 
@@ -86,4 +86,4 @@ A: Mikkey Dee drums for Scorpions / Motörhead, a heavy metal / hard rock band.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*

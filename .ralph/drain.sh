@@ -1,7 +1,12 @@
 #!/usr/bin/env bash
 # Ralph drain-the-queue runner (Watcher + Ralph combined, GitHub Actions).
-# Implements EVERY open `ai-fix` issue — picks all, finishes only when none remain.
-# One issue → one branch → one PR (Closes #N). No per-run issue-count limit.
+# Implements EVERY eligible open issue (any label, or none) — NOT just `ai-fix`.
+# Skips only human-flagged (`human`, `human-founder`), non-actionable
+# (`wontfix`/`invalid`/`duplicate`/`question`), pre-triage (`seo-proposal`),
+# hold (`do-not-merge`/`hold`/`wip`/`blocked`) and in-flight
+# (`in-progress`/`pr-opened`/`needs-human`) issues. Picks all the rest, oldest
+# first, finishing only when none remain. One issue → one branch → one PR
+# (Closes #N). No per-run issue-count limit.
 #
 # The only stop conditions are:
 #   (a) no eligible issue remains, or
@@ -36,9 +41,9 @@ open_pr_for() {
 # (issue has in-progress but no open PR and no branch → reclaim it).
 reclaim_orphans() {
   local n
-  for n in $(gh issue list --repo "$REPO" --label ai-fix --state open --limit 200 \
+  for n in $(gh issue list --repo "$REPO" --state open --limit 300 \
               --json number,labels \
-              --jq '[.[]|select(.labels|map(.name)|index("in-progress"))]|.[].number' 2>/dev/null); do
+              --jq '[.[]|select([.labels[].name]|index("in-progress"))]|.[].number' 2>/dev/null); do
     if ! open_pr_for "$n" && ! branch_exists_for "$n"; then
       log "Reclaiming orphaned in-progress on #$n"
       gh issue edit "$n" --repo "$REPO" --remove-label in-progress >/dev/null 2>&1 || true
@@ -46,12 +51,19 @@ reclaim_orphans() {
   done
 }
 
-# Oldest open ai-fix issue that is truly unworked
+# Oldest open issue (any label, or none) that is eligible and truly unworked.
+# Hard-skip if it carries any blocking/human/non-actionable/in-flight label.
+# `seo-proposal` is a SOFT skip — excluded only while awaiting CEO triage; once
+# the CEO promotes it (adds `ai-fix`), it becomes eligible even if the
+# seo-proposal label lingers.
 next_issue() {
   local n
-  for n in $(gh issue list --repo "$REPO" --label ai-fix --state open --limit 200 \
+  for n in $(gh issue list --repo "$REPO" --state open --limit 300 \
       --json number,labels \
-      --jq '[.[]|select(.labels|map(.name)|(index("in-progress")|not) and (index("human-founder")|not) and (index("needs-human")|not) and (index("pr-opened")|not) and (index("do-not-merge")|not))]|sort_by(.number)|.[].number' 2>/dev/null); do
+      --jq '[.[] | select(
+              (([.labels[].name] - ["human","human-founder","needs-human","in-progress","pr-opened","wontfix","invalid","duplicate","question","do-not-merge","hold","wip","blocked"]) == [.labels[].name])
+              and (([.labels[].name] | index("seo-proposal") | not) or ([.labels[].name] | index("ai-fix")))
+            )] | sort_by(.number) | .[].number' 2>/dev/null); do
     open_pr_for "$n" && continue
     branch_exists_for "$n" && continue
     echo "$n"; return 0
@@ -129,7 +141,7 @@ while :; do
     log "Wall-clock guard (${WALL_CAP}s) hit — exiting cleanly; next run resumes the drain."
     break
   fi
-  ISSUE=$(next_issue) || { log "No eligible ai-fix issues remain — queue drained."; break; }
+  ISSUE=$(next_issue) || { log "No eligible issues remain — queue drained."; break; }
   implement_issue "$ISSUE"
 done
 

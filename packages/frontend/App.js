@@ -2243,7 +2243,50 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
         }
         videoScript.textContent = JSON.stringify(videoObjects);
       }
-      
+
+      // Issue #1083: Emit ItemList (ranked Person) schema for ranked top-10
+      // lists. Skips single-drummer album articles, which already get Person
+      // schema below. Additive to the existing Article schema (both are valid
+      // together) — does NOT remove or dedupe.
+      if (!list.isAlbumArticle && Array.isArray(list.drummerIds) && list.drummerIds.length > 1) {
+        const ranked = list.drummerIds
+          .map(id => drummers.find(d => d.id === id))
+          .filter(Boolean);
+
+        const itemListSchema = {
+          "@context": "https://schema.org",
+          "@type": "ItemList",
+          "name": list.title,
+          "description": list.seoDescription || list.description,
+          "url": `https://metalforge.io/lists/${list.slug}`,
+          "numberOfItems": ranked.length,
+          "itemListOrder": "https://schema.org/ItemListOrderDescending",
+          "itemListElement": ranked.map((drummer, index) => {
+            const r = (list.rankings && list.rankings[drummer.id]) || {};
+            return {
+              "@type": "ListItem",
+              "position": r.rank || index + 1,
+              "item": {
+                "@type": "Person",
+                "name": drummer.name,
+                // numeric URL resolves + self-canonicals to the slug profile (#1015)
+                "url": `https://metalforge.io/drummer/${drummer.id}`,
+                "description": r.highlight || r.reason || undefined,
+              },
+            };
+          }),
+        };
+
+        let listScript = document.querySelector('script[data-schema="top10-itemlist"]');
+        if (!listScript) {
+          listScript = document.createElement('script');
+          listScript.type = 'application/ld+json';
+          listScript.setAttribute('data-schema', 'top10-itemlist');
+          document.head.appendChild(listScript);
+        }
+        listScript.textContent = JSON.stringify(itemListSchema);
+      }
+
       // Add Person schema for album articles (Issue #663)
       if (list.isAlbumArticle && list.drummer) {
         const personSchema = {
@@ -2286,8 +2329,11 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
       if (videoScript) videoScript.remove();
       const personScript = document.querySelector('script[data-schema="album-person"]');
       if (personScript) personScript.remove();
+      // Issue #1083: cleanup the ranked-list ItemList node.
+      const itemListScript = document.querySelector('script[data-schema="top10-itemlist"]');
+      if (itemListScript) itemListScript.remove();
     };
-  }, [list, isAlbumArticle]);
+  }, [list, isAlbumArticle, drummers]);
 
   // Toggle expanded state for drummer details with GA4 tracking (Issue #658)
   const toggleDrummerExpanded = (drummerId) => {

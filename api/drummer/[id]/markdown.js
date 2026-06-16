@@ -34,6 +34,11 @@ function generateSlug(name) {
   return name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
 }
 
+// Rough token estimate (~4 chars/token) so agents can budget context.
+function estimateTokens(text) {
+  return Math.ceil(text.length / 4);
+}
+
 export default async function handler(req, res) {
   const { id } = req.query;
   
@@ -67,6 +72,7 @@ export default async function handler(req, res) {
 
   if (!localDrummer) {
     res.setHeader('Content-Type', 'text/markdown; charset=utf-8');
+    res.setHeader('Vary', 'Accept');
     res.status(404).send(`# Drummer Not Found
 
 The drummer "${id}" was not found in our database.
@@ -110,5 +116,7 @@ For full biography, gear details, videos, and more, visit:
 
   res.setHeader('Content-Type', 'text/markdown; charset=utf-8');
   res.setHeader('Cache-Control', 'public, s-maxage=86400, stale-while-revalidate=604800');
+  res.setHeader('Vary', 'Accept');
+  res.setHeader('x-markdown-tokens', String(estimateTokens(markdown)));
   res.status(200).send(markdown);
 }

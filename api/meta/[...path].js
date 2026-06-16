@@ -443,7 +443,7 @@ function getMetaForPath(pathname) {
       const override = DRUMMER_META_OVERRIDES[slug];
 
       return {
-        title: override?.title || `${drummer.name} — Complete Gear Setup | ${SITE_NAME}`,
+        title: override?.title || `${drummer.name} Drum Kit & Gear Setup | ${SITE_NAME}`,
         description: truncate(
           override?.description ||
             `Explore ${drummer.name}'s complete drum setup: ${brandsText}. ${drummer.band} legend's gear breakdown with videos, specs, and prices.`,

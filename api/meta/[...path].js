@@ -8,6 +8,9 @@
  */
 
 import { drummers } from '../drummers/index.js';
+// Issue #1064: source unique meta + Article schema for the full album/kit article
+// corpus from the same data the sitemap uses (api/sitemap.js:8).
+import { ALBUM_ARTICLES } from '../../packages/frontend/data/albumArticles.js';
 
 const BASE_URL = 'https://metalforge.io';
 const SITE_NAME = 'MetalForge';
@@ -359,7 +362,34 @@ function getMetaForPath(pathname) {
         },
       };
     }
-    
+
+    // Issue #1064: derive unique title + description + Article schema from the 60
+    // ALBUM_ARTICLES entries. ARTICLE_METADATA above wins on conflict (hand-tuned
+    // overrides); this only fires for slugs not in that 8-entry map.
+    const album = ALBUM_ARTICLES[articleSlug];
+    if (album) {
+      const keywords = Array.isArray(album.seoKeywords)
+        ? album.seoKeywords
+        : (album.seoKeywords ? [album.seoKeywords] : []);
+      return {
+        title: `${album.title} | ${SITE_NAME}`,
+        description: truncate(album.description, 160),
+        image: album.ogImage || DEFAULT_IMAGE,
+        type: 'article',
+        url: `${BASE_URL}/articles/${articleSlug}`,
+        articleSchema: {
+          headline: album.title,
+          description: album.description,
+          author: album.author || 'MetalForge Editorial',
+          datePublished: album.datePublished,
+          dateModified: album.dateModified || album.datePublished,
+          image: album.ogImage || DEFAULT_IMAGE,
+          articleSection: album.genre ? `${album.genre} Drumming` : 'Drummer Gear',
+          keywords,
+        },
+      };
+    }
+
     // Fallback for unknown articles
     return {
       title: `Drum Gear Article | ${SITE_NAME}`,

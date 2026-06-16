@@ -28,6 +28,8 @@ import mikeManginiLicks from './mike-mangini.js';
 import peteSandovalLicks from './pete-sandoval.js';
 import jayWeinbergLicks from './jay-weinberg.js';
 import gavinHarrisonLicks from './gavin-harrison.js';
+import nickoMcbrainLicks from './nicko-mcbrain.js';
+import scottTravisLicks from './scott-travis.js';
 
 export const SIGNATURE_LICKS = {
   ...mattGreinerLicks,
@@ -57,6 +59,8 @@ export const SIGNATURE_LICKS = {
   ...peteSandovalLicks,
   ...jayWeinbergLicks,
   ...gavinHarrisonLicks,
+  ...nickoMcbrainLicks,
+  ...scottTravisLicks,
 };
 
 export default SIGNATURE_LICKS;

@@ -32,6 +32,13 @@ jobs:
           node-version: '20'
           cache: 'npm'
 
+      - name: Install project deps
+        # fetch-metrics.cjs requires @google-analytics/data + googleapis. Without
+        # them the script writes "GA4/GSC data unavailable: not installed" to
+        # metrics.md, which (a) clobbers the real data the CEO/SEO agents
+        # already populated, and (b) shows up in the digest as "unavailable".
+        run: npm ci --no-audit --no-fund
+
       - name: Write service-account credentials (for metrics refresh)
         env:
           GA_JSON: ${{ secrets.GA_SERVICE_ACCOUNT_JSON }}

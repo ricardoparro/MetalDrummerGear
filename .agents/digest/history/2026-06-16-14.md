@@ -1,6 +1,6 @@
 # MetalForge — Digest
 
-*Generated 2026-06-16 14:26 UTC · Window: last 12h*
+*Generated 2026-06-16 14:31 UTC · Window: last 12h*
 
 ---
 
@@ -15,7 +15,7 @@
 | Open PRs | 2 |
 | PRs merged in window | **2** |
 | Issues closed in window | 3 |
-| Commits to `main` in window | 10 |
+| Commits to `main` in window | 11 |
 
 ## 📈 Business metrics
 
@@ -31,9 +31,9 @@
 
 | Workflow | Total | ✅ | ❌ |
 | --- | --- | --- | --- |
-| Health Check | 30 | 30 | 0 |
+| Health Check | 32 | 32 | 0 |
+| Daily Digest | 6 | 4 | 1 |
 | CEO Agent | 6 | 2 | 4 |
-| Daily Digest | 5 | 3 | 1 |
 | Verify YouTube Videos | 5 | 5 | 0 |
 | SEO Agent | 5 | 1 | 4 |
 

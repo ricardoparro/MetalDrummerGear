@@ -17187,8 +17187,42 @@ function DrummersPage({
       setMeta('twitter:title', `${title} | MetalForge`);
       setMeta('twitter:description', description);
       setMeta('twitter:image', 'https://metalforge.io/og-image.png');
+
+      // Issue #1069: CollectionPage + ItemList JSON-LD for the drummers hub —
+      // the #2 organic page emitted zero structured data. Mirror the homepage
+      // ItemList pattern (App.js:4302-4318) but wrap in CollectionPage and use
+      // a distinct data-schema key so navigating /drummers → / doesn't collide
+      // with the homepage's data-schema="main" node.
+      const baseUrl = 'https://metalforge.io';
+      let ldScript = document.querySelector('script[data-schema="drummers-list"]');
+      if (!ldScript) {
+        ldScript = document.createElement('script');
+        ldScript.type = 'application/ld+json';
+        ldScript.setAttribute('data-schema', 'drummers-list');
+        document.head.appendChild(ldScript);
+      }
+      const listSource = (filteredDrummers && filteredDrummers.length > 0) ? filteredDrummers : drummers;
+      const schema = {
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        'name': title,
+        'description': description,
+        'url': window.location.href,
+        'mainEntity': {
+          '@type': 'ItemList',
+          'name': 'Pro Metal Drummers',
+          'numberOfItems': listSource.length,
+          'itemListElement': listSource.map((d, i) => ({
+            '@type': 'ListItem',
+            'position': i + 1,
+            'name': d.name,
+            'url': `${baseUrl}/drummer/${d.id}`,
+          })),
+        },
+      };
+      ldScript.textContent = JSON.stringify(schema);
     }
-  }, [drummers.length, filteredDrummers.length, filters]);
+  }, [drummers, drummers.length, filteredDrummers, filteredDrummers.length, filters]);
 
   const handleClearAllFilters = () => {
     onFilterChange({ search: '', genre: '', brand: '', era: '' });

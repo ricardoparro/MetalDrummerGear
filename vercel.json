@@ -12,6 +12,15 @@
   "framework": null,
   "headers": [
     {
+      "source": "/",
+      "headers": [
+        {
+          "key": "Link",
+          "value": "<https://metalforge.io>; rel=preconnect, <https://upload.wikimedia.org>; rel=preconnect; crossorigin, <https://i.ytimg.com>; rel=preconnect; crossorigin, </api/init>; rel=preload; as=fetch; crossorigin, </.well-known/api-catalog>; rel=\"api-catalog\", </llms.txt>; rel=\"service-doc\"; type=\"text/plain\", </llms/index.md>; rel=\"service-doc\"; type=\"text/markdown\", </sitemap.xml>; rel=\"sitemap\"; type=\"application/xml\""
+        }
+      ]
+    },
+    {
       "source": "/index.html",
       "headers": [
         {

@@ -38,6 +38,14 @@
       ]
     },
     {
+      "source": "/llms/(.*).md",
+      "headers": [
+        { "key": "Content-Type", "value": "text/markdown; charset=utf-8" },
+        { "key": "Vary", "value": "Accept" },
+        { "key": "Cache-Control", "value": "public, s-maxage=3600, stale-while-revalidate=86400" }
+      ]
+    },
+    {
       "source": "/api/card/(.*)",
       "headers": [
         {
@@ -271,6 +279,13 @@
     { "source": "/:slug-gear-list", "destination": "/drummer/:slug", "permanent": true }
   ],
   "rewrites": [
+    { "source": "/", "has": [{ "type": "header", "key": "accept", "value": "(.*text/markdown.*)" }], "destination": "/llms/index.md" },
+    { "source": "/drummer/:slug", "has": [{ "type": "header", "key": "accept", "value": "(.*text/markdown.*)" }], "destination": "/llms/drummers/:slug.md" },
+    { "source": "/articles/:slug", "has": [{ "type": "header", "key": "accept", "value": "(.*text/markdown.*)" }], "destination": "/llms/articles/:slug.md" },
+    { "source": "/faq", "has": [{ "type": "header", "key": "accept", "value": "(.*text/markdown.*)" }], "destination": "/llms/faq.md" },
+    { "source": "/licks", "has": [{ "type": "header", "key": "accept", "value": "(.*text/markdown.*)" }], "destination": "/llms/licks.md" },
+    { "source": "/techniques", "has": [{ "type": "header", "key": "accept", "value": "(.*text/markdown.*)" }], "destination": "/llms/techniques.md" },
+    { "source": "/gear-guide", "has": [{ "type": "header", "key": "accept", "value": "(.*text/markdown.*)" }], "destination": "/llms/gear-guide.md" },
     { "source": "/robots.txt", "destination": "/api/robots" },
     { "source": "/sitemap.xml", "destination": "/api/sitemap" },
     { "source": "/.well-known/api-catalog", "destination": "/api/api-catalog" },

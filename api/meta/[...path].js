@@ -449,6 +449,10 @@ function getMetaForPath(pathname) {
             `Explore ${drummer.name}'s complete drum setup: ${brandsText}. ${drummer.band} legend's gear breakdown with videos, specs, and prices.`,
           160
         ),
+        // Issue #1161: crawler-facing sub-heading carrying the GSC-proven
+        // "<drummer> drum kit/set/setup" head term in the server-rendered markup,
+        // mirroring the on-page <h2> tagline added under the name H1 in DrummerDetail.
+        subheading: `${drummer.name} Drum Kit, Gear & Setup`,
         image: `${BASE_URL}/api/card/${slug}?format=twitter`,
         type: 'profile',
         url: `${BASE_URL}/${slug}`,
@@ -585,6 +589,7 @@ function generateMetaHtml(meta, originalUrl) {
 <body>
   <main style="font-family: system-ui, sans-serif; max-width: 600px; margin: 40px auto; padding: 20px;">
     <h1>${meta.title}</h1>
+    ${meta.subheading ? `<h2>${meta.subheading}</h2>` : ''}
     <p>${meta.description}</p>
     <p><a href="${meta.url}">Visit MetalForge →</a></p>
   </main>

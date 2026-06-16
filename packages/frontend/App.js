@@ -6002,7 +6002,7 @@ function DrummerQuickFacts({ drummer, theme, isMobile }) {
             marginBottom: 10,
           }}
         >
-          Quick Facts: {drummer.name}
+          Quick Facts: {drummer.name}'s Drum Kit
         </h2>
         {/* Horizontal-scroll safety net: if the table ever exceeds the card it
             scrolls instead of being clipped by the card's overflow:hidden — no
@@ -6123,6 +6123,11 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
           />
           <View style={styles.detailHeaderText}>
             <Text style={[styles.detailName, { color: theme.text }]} accessibilityRole="header">{drummer.name}</Text>
+            {/* Keyworded sub-heading (Issue #1161) — carries GSC-proven "drum kit/set/setup"
+                head term on-page without disturbing the entity-anchor name H1 above. */}
+            <Text style={[styles.detailTagline, { color: theme.secondaryText }]} accessibilityRole="header" aria-level={2}>
+              {drummer.name} Drum Kit, Gear & Setup
+            </Text>
             <Text style={[styles.detailBand, { color: theme.secondaryText }]}>{drummer.band}</Text>
             <GenreTags genres={drummer.genres} size="large" />
             <Text style={[styles.detailMeta, { color: theme.secondaryText }]}>{drummer.country}</Text>
@@ -27774,6 +27779,11 @@ const styles = StyleSheet.create({
   detailName: {
     fontSize: fontSize.xl,
     fontWeight: fontWeight.bold,
+    marginBottom: spacing[1],      // 4px
+  },
+  detailTagline: {
+    fontSize: fontSize.base,
+    fontWeight: fontWeight.semibold,
     marginBottom: spacing[1],      // 4px
   },
   detailBand: {

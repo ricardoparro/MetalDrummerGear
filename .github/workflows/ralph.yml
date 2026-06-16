@@ -1,0 +1,77 @@
+name: Ralph (Watcher + Implementer)
+
+# Drains the ENTIRE open `ai-fix` queue: implements every eligible issue, one
+# branch + PR each, finishing only when no issues remain (or the wall-clock
+# guard trips — GitHub kills jobs at 6h, so we stop cleanly at ~5h20m and the
+# next run resumes). Replaces the local Ralph + the one-issue-per-run
+# implementer.yml. Logic: .ralph/drain.sh  ·  Specs: .ralph/AGENT.md,
+# .agents/github-watcher/WATCHER-AGENT.md
+
+on:
+  # React immediately when the CEO promotes a proposal to ai-fix…
+  issues:
+    types: [labeled]
+  # …plus a safety-net poll, and manual trigger.
+  schedule:
+    - cron: '13,43 * * * *'   # every 30 min, off the :00/:30 rush
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+# Never run two drains at once — they'd race on branches/labels.
+concurrency:
+  group: ralph-implementer
+  cancel-in-progress: false
+
+jobs:
+  drain:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350   # drain.sh self-guards at 320 min, under GitHub's 6h cap
+    # On a labeled event, only run for the ai-fix label.
+    if: >
+      github.event_name != 'issues' ||
+      github.event.label.name == 'ai-fix'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install deps + Claude Code CLI
+        run: |
+          npm ci --no-audit --no-fund || npm install --no-audit --no-fund
+          npm install -g @anthropic-ai/claude-code
+
+      - name: Configure git author
+        # Ricardo's identity so Vercel's Git Authorization recognises the committer
+        # and runs preview/build checks (required for the merger to see CLEAN PRs).
+        run: |
+          git config user.name "Ricardo Parro"
+          git config user.email "ricardo.parro@gmail.com"
+
+      - name: Drain the ai-fix queue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          REPO: ${{ github.repository }}
+          GITHUB_RUN_ID: ${{ github.run_id }}
+        run: |
+          chmod +x .ralph/drain.sh
+          .ralph/drain.sh
+
+      - name: Upload run logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ralph-run-${{ github.run_id }}
+          path: .agents/ralph-runs/
+          retention-days: 14
+          if-no-files-found: ignore

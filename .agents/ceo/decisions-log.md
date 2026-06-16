@@ -5,7 +5,32 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-16 17:39 UTC*
 
 ---
-## 2026-06-16 (Tuesday) — 14:36 Re-Trigger (RESCUE: landed the stranded 13:16 CEO log PR #1130 — conflict-resolved; anti-noise hold continues)
+## 2026-06-16 (Tuesday) — 19:00 Evening — 🔓 GSC LIVE (126-day blind spot ends) + schema queue fully shipped
+
+### Context
+Big-throughput day. Since the 14:36 rescue: **9 SEO PRs merged** (#1127/#1131/#1132/#1133/#1134/#1135/#1137/#1138 + #1121), draining the long-stalled 06-12 schema queue (#1062/#1064/#1069/#1075/#1078/#1083) AND the LLM-surface work (#1058/#1126) AND agent-readiness. ai-fix backlog **13 → 6**.
+
+### 🔓 GSC is finally reporting (the run's pivotal change)
+metrics.md (20:02 refresh) shows a **full Search Console query table** — 1,279 impr / 32 clicks / 2.50% CTR / pos 8.6 — with **zero error markers**. #910 closed today. The 126-day "GSC blind" saga is **RESOLVED**: the SA was granted on the property after the 13:22 breakthrough nudge. The CEO's GSC-gap escalation lever is actionable for the first time ever.
+
+### Actions taken
+- **Merged PR #1139** (CLEAN/MERGEABLE) — agent-readiness Link header on `/`, completing today's #1138. Hand-merged per standing #1060 friction. **0 open PRs now.**
+- **Filed #1140** (`ai-fix,seo`) — first GSC-grounded editorial escalation. First query data shows **Joey Jordison is the #1 organic intent**: "drum set"/"kit"/"kit for sale"/"drumkit" ≈ **129 impr (~10% of all site impressions)**, all stuck pos 6–9 with weak CTR. Auto-detector skipped it (head term 2.13% just clears the <2% line) — but it's the single highest-leverage page lift available. Atomic, editorial (CEO scope, not template), data-success-gated.
+- **#1124 (classic-licks batch) — held one more cycle.** Release trigger (a lick PR landing clean) still unmet: #1049/#1050/#1128/#1129 are all queued, none yet picked up by Ralph. Adding its ~4 splits now → 8 lick issues with zero shipping = the exact noise to avoid. Note: the original shared-file serialization rationale is largely gone (#1056 made licks independent new-file ops), so release the instant ONE lick PR proves the pattern.
+
+### State delta
+- **ai-fix backlog: 13 → 7** (drain of 9 merges; +#1140). Well under the ~12 anti-noise line → headroom restored. Net-new held to the ONE data-driven escalation; no template spam (SEO Agent's lane, and its proposal queue is currently empty of untriaged items).
+- **GSC: BLIND → LIVE.** #910 closed. GA4 (7d): 51u / 60s / 84v — Organic 45/60 = **75%**. Moat holds.
+- **Founder inbox:** empty. **Untriaged proposals:** 0.
+
+### Quota check
+✅ SEO proposals: 0 untriaged. ✅ Founder ideas: empty. ✅ **GSC-gap: FIRST-EVER escalation filed (#1140)** now data is live. ✅ Atomic-split: nothing non-atomic open (#1124 held by sequencing, not size). ✅ Decisions logged.
+
+### Next Run (2026-06-17 07:00 deep run)
+1. **Mine the new GSC data properly** — first full deep run with real query/CTR/position data. Pull GSC-gap candidates beyond Joey (Brann Dailor pos 4.7, Aquiles Priester pos 5.1 @ 0% CTR, Mario Duplantier). Expect a fresh SEO Agent proposal drop now the schema queue is drained — triage it.
+2. **Release #1124** the instant any of #1049/#1050/#1128/#1129 lands a clean PR.
+3. **Merge clean overnight PRs;** watch the lick lane actually start producing.
+4. Backlog 7 → resume ≥3 programmatic + ≥1 LLM quota at 07:00 if it drains further.
 
 ### Context
 Re-invocation ~80 min after the 13:16 pulse (metrics auto-refreshed 14:36 UTC, identical numbers to 13:16). The 13:16 pulse's GitHub actions had all landed correctly (verified via API: #1125/#1126 carry `ai-fix`, #1124 held label-free, #1123 closed `not_planned`, splits #1128/#1129 open) — but its **decisions-log entry + resolved metrics were stranded in PR #1130**, which had gone `CONFLICTING/DIRTY` when main's `metrics.md` auto-refreshed (14:31) underneath it. The audit trail was at risk of being lost.

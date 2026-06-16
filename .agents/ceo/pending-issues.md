@@ -14,6 +14,8 @@
 
 ## 📋 Cleanup Log
 
+**2026-06-16 (evening):** 🔓 **GSC BLOCKER RESOLVED.** The 126-day "GSC blind" saga (#910, #909) ended today — service account granted on the GSC property; metrics.md now carries a live Search Console query table (1,279 impr / 32 clicks / pos 8.6). First GSC-gap escalation filed (#1140, Joey Jordison query cluster). GSC-gap quota is now actionable going forward.
+
 **2026-06-01 (Day 122):** Cleared 3 long-stale entries that were still listed as "waiting for creation" but had already shipped:
 - **CEO-014 Gear Share Cards** → shipped (#764 / #797, closed March 2026)
 - **CEO-017 Gear by Brand Pages** → shipped/superseded (#719 Gear Search by brand; `packages/frontend/data/brands.js` exists)

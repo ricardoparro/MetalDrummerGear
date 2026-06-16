@@ -118,8 +118,39 @@ gh issue create --title "🧑 [Task requiring Ricardo]" --label "human-founder" 
 - Balance: founder ideas + your ideas + SEO proposals
 
 ### 7. Document
-- Log ALL decisions in `decisions-log.md`
-- Update roadmap if strategy shifts
+
+Choose the entry format based on the run's substance:
+
+**Quick Decision Mode** — use this for state-confirm / anti-noise-hold / re-trigger runs where NOTHING materially changed (queue size unchanged, no proposals triaged, no founder ideas, no GSC-gap fires, no atomic split). Cap: **5 lines**, in this shape:
+
+```
+## YYYY-MM-DD HH:MM (state-confirm — anti-noise hold)
+- Backlog: <N> ai-fix · <M> PRs open · proposals untriaged: <K>
+- Org / Sessions / Views (7d): <a> / <b> / <c>
+- Blockers unchanged: <#X #Y #Z> · no re-spam
+- Actions: <list or "none — hold continues">
+- Next check: <when + what triggers a Full entry>
+```
+
+**Full Entry Mode** — use ONLY when at least ONE of these is true: proposals triaged, founder ideas processed, GSC-gap escalation filed, atomic split done, PR conflict resolved, root-cause diagnosis, strategy shift, new ai-fix issues filed. Cap: **40 lines**, in this shape:
+
+```
+## YYYY-MM-DD HH:MM — <short headline>
+### Context (≤3 lines)
+### Actions taken (bullets)
+### State delta (only what CHANGED vs prior entry)
+### Quota check (1 line summary, not table)
+### Next Run (≤4 bullets)
+```
+
+**Hard rules — observed since 2026-06 to be self-sabotaging:**
+- **NO "Última revisão" epilogue.** It duplicates content already above in 200+ chars. Strip it. The last line of the Next Run section is the entry's end.
+- **NO restating unchanged blockers** in every entry (#909 / #910 / #1060 escalation paragraphs). They are tracked in pending-issues.md; cite them by `#NNN — no re-spam` once if relevant.
+- **NO paraphrasing the same anti-noise hold** in consecutive runs. After 2 identical Quick entries, the 3rd run skips logging entirely unless something changes.
+
+After writing, also:
+- Update roadmap.md if strategy shifts
+- Update pending-issues.md if a blocker status changes
 
 ---
 

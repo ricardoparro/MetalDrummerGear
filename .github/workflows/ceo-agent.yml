@@ -71,6 +71,12 @@ jobs:
           GSC_SITE: ${{ secrets.GSC_SITE }}
         run: node .agents/scripts/fetch-metrics.cjs
 
+      - name: Rotate decisions-log (archive entries >7d)
+        # Keeps the hot log gerível for the CEO Agent to read each run.
+        # Idempotent: no-op when nothing to rotate. Older entries move to
+        # .agents/ceo/decisions-history/YYYY-MM.md (one file per month).
+        run: node .agents/scripts/rotate-decisions-log.cjs
+
       - name: Run CEO agent via Claude Code CLI
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}

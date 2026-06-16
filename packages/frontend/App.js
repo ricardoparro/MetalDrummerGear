@@ -4299,9 +4299,12 @@ function updateDocumentMeta(drummer, drummers = [], filters = {}) {
       {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "name": "Metal Drummer Gear",
+        "@id": "https://metalforge.io/#website",
+        "name": "MetalForge",
+        "alternateName": "Metal Drummer Gear",
         "description": description,
         "url": "https://metalforge.io/",
+        "publisher": { "@id": "https://metalforge.io/#organization" },
         // SearchAction on the site-wide WebSite entity enables Google's
         // sitelinks searchbox on branded SERPs. Tokens must match Google's
         // expected literals exactly (see issue #1062).
@@ -4312,6 +4315,19 @@ function updateDocumentMeta(drummer, drummers = [], filters = {}) {
             "urlTemplate": "https://metalforge.io/tools/gear-search?q={search_term_string}"
           },
           "query-input": "required name=search_term_string"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "@id": "https://metalforge.io/#organization",
+        "name": "MetalForge",
+        "alternateName": "Metal Drummer Gear",
+        "url": "https://metalforge.io/",
+        "description": "Definitive resource for metal drummer gear, signature licks and pro setups.",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://metalforge.io/logo.png"
         }
       }
     ];

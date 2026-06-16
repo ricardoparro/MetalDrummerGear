@@ -315,6 +315,21 @@ const llmsDrummerSlugs = [
 
 const BASE_URL = 'https://metalforge.io';
 
+// Issue #1072: stop stamping <lastmod>=today on every URL every crawl.
+// Google discards a site-wide lastmod it observes to be inaccurate, so a
+// churning all-URLs-same-date-every-fetch value forfeits the crawl-freshness
+// signal. Use a single STABLE release date for pages without a verifiable
+// per-URL date; bump it only on material content releases (never wire it back
+// to new Date()). Article URLs override this with their real ALBUM_ARTICLES
+// dateModified via the per-entry `lastmod` field below.
+const SITE_LASTMOD = '2026-06-12';
+
+// Real per-URL date if the entry carries a verifiable one, else the stable
+// site-wide release date.
+function lastmodFor(url) {
+  return url.lastmod || SITE_LASTMOD;
+}
+
 function generateSlug(name) {
   return name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
 }
@@ -352,7 +367,6 @@ function getGearSeriesUrls() {
 export default function handler(req, res) {
   res.setHeader('Content-Type', 'application/xml');
   res.setHeader('Cache-Control', 'public, max-age=86400');
-  const today = new Date().toISOString().split('T')[0];
   const urls = [
     { loc: '/', priority: '1.0', changefreq: 'weekly' },
     // Issue #1053: #2 organic page (GA4) — drummer database hub, links to all 62 profiles
@@ -399,7 +413,8 @@ export default function handler(req, res) {
     // Issue #642: Article pages for SEO-optimized content
     ...articles.map(a => ({ loc: `/articles/${a.slug}`, priority: '0.9', changefreq: 'weekly' })),
     // Issue #663: Album gear breakdown and drummer kit articles
-    ...albumArticles.map(a => ({ loc: `/articles/${a.slug}`, priority: '0.9', changefreq: 'monthly' })),
+    // Issue #1072: emit each article's real dateModified (falls back to SITE_LASTMOD).
+    ...albumArticles.map(a => ({ loc: `/articles/${a.slug}`, lastmod: ALBUM_ARTICLES[a.slug]?.dateModified, priority: '0.9', changefreq: 'monthly' })),
     ...drummers.map(d => ({ loc: `/drummer/${generateSlug(d.name)}`, priority: '0.8', changefreq: 'monthly' })),
     ...gearItems.map(g => ({ loc: `/gear/item/${g.slug}`, priority: '0.7', changefreq: 'monthly' })),
     ...bandPages.map(b => ({ loc: `/band/${b.slug}`, priority: '0.8', changefreq: 'monthly' })),
@@ -442,13 +457,14 @@ export default function handler(req, res) {
     ...llmsDrummerSlugs.map(slug => ({ loc: `/llms/drummers/${slug}.md`, priority: '0.4', changefreq: 'monthly' })),
     // Issue #1058: per-article Markdown breakdowns (public/llms/articles/<slug>.md).
     // Slugs sourced from ALBUM_ARTICLES so they stay 1:1 with the committed files.
-    ...Object.keys(ALBUM_ARTICLES).map(slug => ({ loc: `/llms/articles/${slug}.md`, priority: '0.4', changefreq: 'monthly' })),
+    // Issue #1072: same real dateModified as the article HTML page (1:1 data).
+    ...Object.keys(ALBUM_ARTICLES).map(slug => ({ loc: `/llms/articles/${slug}.md`, lastmod: ALBUM_ARTICLES[slug]?.dateModified, priority: '0.4', changefreq: 'monthly' })),
   ];
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${urls.map(url => `  <url>
     <loc>${BASE_URL}${url.loc}</loc>
-    <lastmod>${today}</lastmod>
+    <lastmod>${lastmodFor(url)}</lastmod>
     <changefreq>${url.changefreq}</changefreq>
     <priority>${url.priority}</priority>
   </url>`).join('\n')}

@@ -1,0 +1,92 @@
+name: Daily Digest
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 08:00 and 19:00 UTC = morning + evening Lisbon (summer: 09 / 20)
+    - cron: '0 8,19 * * *'
+
+permissions:
+  contents: write
+  issues: read
+  pull-requests: read
+  actions: read
+
+# Don't race a digest with itself
+concurrency:
+  group: daily-digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install project deps
+        # fetch-metrics.cjs requires @google-analytics/data + googleapis. Without
+        # them the script writes "GA4/GSC data unavailable: not installed" to
+        # metrics.md, which (a) clobbers the real data the CEO/SEO agents
+        # already populated, and (b) shows up in the digest as "unavailable".
+        run: npm ci --no-audit --no-fund
+
+      - name: Write service-account credentials (for metrics refresh)
+        env:
+          GA_JSON: ${{ secrets.GA_SERVICE_ACCOUNT_JSON }}
+        run: |
+          mkdir -p "$RUNNER_TEMP/gcp"
+          printf '%s' "$GA_JSON" > "$RUNNER_TEMP/gcp/metrics.json"
+          chmod 600 "$RUNNER_TEMP/gcp/metrics.json"
+
+      - name: Refresh GA4 + GSC metrics (best-effort; digest still runs if this fails)
+        continue-on-error: true
+        env:
+          GOOGLE_APPLICATION_CREDENTIALS: ${{ runner.temp }}/gcp/metrics.json
+          GA4_PROPERTY_ID: ${{ secrets.GA4_PROPERTY_ID }}
+          GSC_SITE: ${{ secrets.GSC_SITE }}
+        run: node .agents/scripts/fetch-metrics.cjs
+
+      - name: Configure git author
+        run: |
+          git config user.name "Ricardo Parro"
+          git config user.email "ricardo.parro@gmail.com"
+
+      - name: Generate digest + push to Telegram
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          DIGEST_BRANCH: main
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: node .agents/scripts/generate-digest.cjs
+
+      - name: Commit DIGEST.md + archive to main
+        run: |
+          git add DIGEST.md .agents/digest/ .agents/ceo/metrics.md 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "No digest changes to commit."
+            exit 0
+          fi
+
+          git commit -m "digest: $(date -u +%FT%H:%MZ) [skip ci]"
+
+          for attempt in 1 2 3 4; do
+            if git push origin main; then
+              echo "Push succeeded on attempt $attempt"
+              exit 0
+            fi
+            echo "Push attempt $attempt failed; sleeping $((attempt * 2))s and retrying"
+            sleep $((attempt * 2))
+            git pull --rebase origin main || true
+          done
+          echo "Push failed after 4 attempts — main may have re-acquired protection."
+          exit 1

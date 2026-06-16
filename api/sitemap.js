@@ -22,6 +22,11 @@ import { GEAR_INDEX } from '../packages/frontend/data/gearIndex.js';
 // hand-maintaining two parallel arrays here. New lick batches add a per-drummer
 // file and auto-appear in the sitemap — no manual edit, no second conflict surface.
 import { SIGNATURE_LICKS } from '../packages/frontend/data/signatureLicks.js';
+// Issue #1125: source the full drummer roster WITH gear records so the
+// /drummer/<slug>/<category> long-tail pages are declared for every drummer
+// that has real data in a category (not just 16 hardcoded names). Same module
+// the renderer api/gear/[slug]/[category].js reads, so URLs ↔ pages stay 1:1.
+import { drummers as DRUMMER_GEAR_DATA } from './drummers/index.js';
 
 // Issue #623: Content Scale Sprint - All 62 drummers now in sitemap
 const drummers = [
@@ -262,20 +267,25 @@ const gearPriceHistoryDrummers = [
   'dave-lombardo',   // Reign in Blood era (1986)
 ];
 
-// Issue #770: SEO Blitz - Drummer Gear Category Pages
-// Long-tail keyword pages at /drummer/:slug/:category
-const drummerGearCategories = ['cymbals', 'drums', 'pedals', 'hardware', 'snare', 'sticks'];
-const priorityDrummersForGearPages = [
-  'joey-jordison', 'lars-ulrich', 'george-kollias', 'mario-duplantier',
-  'dave-lombardo', 'brann-dailor', 'tomas-haake', 'danny-carey',
-  'gene-hoglan', 'eloy-casagrande', 'mike-portnoy', 'vinnie-paul',
-  'charlie-benante', 'ray-luzier', 'john-otto', 'jay-weinberg',
-];
-// Generate all drummer gear category page combinations (priority drummers × 4 main categories)
+// Issue #770 / #1125: Drummer Gear Category Pages — long-tail keyword pages at
+// /drummer/<slug>/<category>. The renderer api/gear/[slug]/[category].js serves
+// a real page iff `drummer.gear[category]` is populated (else 404). We mirror
+// that exact gate here and emit a URL for EVERY drummer × category that has real
+// gear data, extending coverage from 16 hardcoded "priority" drummers to the
+// full roster — while guaranteeing every declared URL resolves to a substantive
+// page (no thin/404 pages). This also drops the old hardcoded `pedals` URLs:
+// no drummer carries a `gear.pedals` field, so those 404'd under the renderer.
+const GEAR_CATEGORIES = ['cymbals', 'drums', 'pedals', 'hardware', 'snare', 'sticks'];
+// Same presence check the renderer uses to decide a category section exists.
+function drummerHasCategoryGear(drummer, category) {
+  return Boolean(drummer.gear && drummer.gear[category]);
+}
 const drummerGearCategoryPages = [];
-for (const drummerSlug of priorityDrummersForGearPages) {
-  for (const category of ['cymbals', 'drums', 'pedals', 'hardware']) {
-    drummerGearCategoryPages.push({ drummerSlug, category });
+for (const d of DRUMMER_GEAR_DATA) {
+  for (const category of GEAR_CATEGORIES) {
+    if (drummerHasCategoryGear(d, category)) {
+      drummerGearCategoryPages.push({ drummerSlug: generateSlug(d.name), category });
+    }
   }
 }
 

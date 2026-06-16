@@ -130,3 +130,30 @@ Good balance maintained.
 ---
 
 *Next run: 2026-02-03 09:00 (Morning planning)*
+
+---
+
+## 2026-06-16 - Agent-Readiness Triage
+
+### Decision: OAuth/OIDC discovery metadata — NOT IMPLEMENTED (N/A)
+
+The agent-readiness scanner flagged "No OAuth/OIDC discovery metadata found" and
+suggested publishing `/.well-known/openid-configuration` or
+`/.well-known/oauth-authorization-server`.
+
+**Rejected as not applicable.** MetalForge has no OAuth/OIDC authorization server
+and no user-facing protected API. The entire public API surface is intentionally
+public, read-only, and unauthenticated — that is the strategy (llms.txt,
+Content-Signal, api-catalog all invite agent reads). The only guarded endpoints
+are internal/admin with static shared secrets, not OAuth: `api/cron/fetch-news.js`
+(`CRON_SECRET`), `api/news/refresh.js` (`X-Admin-Key`), `api/image` (hotlink 403).
+
+Publishing the metadata would mean fabricating endpoints that don't exist —
+agents would attempt OAuth flows against dead URLs, and it would advertise a fake
+authorization server as an attack surface. The scanner's own fix text is
+conditional ("If your site has protected APIs"); this is a false positive.
+
+**Revisit if** MetalForge adds an authenticated API (accounts, write access, paid
+tier) — then publish discovery pointing at a real IdP, not a hand-rolled server.
+
+Tracked: #1149.

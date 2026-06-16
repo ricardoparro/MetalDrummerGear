@@ -18,6 +18,24 @@ const TWITTER_HANDLE = '@MetalDrumGear';
 const DEFAULT_IMAGE = `${BASE_URL}/og-image.png`;
 const DEFAULT_DESCRIPTION = 'Explore the drum kits, cymbals, and gear used by legendary metal drummers. Discover what Lars Ulrich, Joey Jordison, Dave Lombardo and 60+ pro drummers play.';
 
+// Issue #1140: per-drummer SEO title/description overrides for pages where the
+// generic "<name> — Complete Gear Setup" title under-serves a high-volume query
+// cluster surfaced by GSC. Keyed by drummer slug. The drummer-page branch below
+// uses an override when present, else falls back to the generic template.
+//
+// Joey Jordison is the single dominant organic intent on the site (~10% of weekly
+// impressions: "joey jordison drum set/kit", stuck pos 6–9). Lead the title with
+// the exact head terms ("Drum Set & Kit") + Slipknot, and surface the signature
+// gear (Pearl signature snare, Promark TX515W) in the description to match the
+// high-CTR "kit for sale" commercial intent.
+const DRUMMER_META_OVERRIDES = {
+  'joey-jordison': {
+    title: `Joey Jordison Drum Set & Kit: Slipknot Gear Breakdown | ${SITE_NAME}`,
+    description:
+      "What drum set does Joey Jordison play? The Slipknot legend's Pearl Reference kit — signature snare, Promark TX515W sticks — with full specs and prices.",
+  },
+};
+
 // Article data for schema.org Article structured data (Issue #777)
 // Maps article slugs to their metadata for SEO schema generation
 const ARTICLE_METADATA = {
@@ -420,11 +438,15 @@ function getMetaForPath(pathname) {
     if (drummer) {
       const brands = getPrimaryBrands(drummer.gear);
       const brandsText = brands.length > 0 ? brands.join(', ') : 'pro gear';
-      
+      // Issue #1140: prefer a query-matched override (e.g. Joey Jordison) when one
+      // exists; otherwise use the generic per-drummer template.
+      const override = DRUMMER_META_OVERRIDES[slug];
+
       return {
-        title: `${drummer.name} — Complete Gear Setup | ${SITE_NAME}`,
+        title: override?.title || `${drummer.name} — Complete Gear Setup | ${SITE_NAME}`,
         description: truncate(
-          `Explore ${drummer.name}'s complete drum setup: ${brandsText}. ${drummer.band} legend's gear breakdown with videos, specs, and prices.`,
+          override?.description ||
+            `Explore ${drummer.name}'s complete drum setup: ${brandsText}. ${drummer.band} legend's gear breakdown with videos, specs, and prices.`,
           160
         ),
         image: `${BASE_URL}/api/card/${slug}?format=twitter`,

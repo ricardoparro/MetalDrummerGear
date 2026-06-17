@@ -441,12 +441,15 @@ function getMetaForPath(pathname) {
       // Issue #1140: prefer a query-matched override (e.g. Joey Jordison) when one
       // exists; otherwise use the generic per-drummer template.
       const override = DRUMMER_META_OVERRIDES[slug];
+      // Issue #1163: question-led, query-matched description ("What drum kit does
+      // X play?") — promotes Joey's hand-override pattern to the default template.
+      const bandText = drummer.band ? `${drummer.band} ` : '';
 
       return {
         title: override?.title || `${drummer.name} Drum Kit & Gear Setup | ${SITE_NAME}`,
         description: truncate(
           override?.description ||
-            `Explore ${drummer.name}'s complete drum setup: ${brandsText}. ${drummer.band} legend's gear breakdown with videos, specs, and prices.`,
+            `What drum kit does ${drummer.name} play? The ${bandText}drummer's ${brandsText} setup — full gear breakdown with videos, specs, and prices.`,
           160
         ),
         // Issue #1161: crawler-facing sub-heading carrying the GSC-proven

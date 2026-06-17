@@ -17157,8 +17157,19 @@ function HeroSection({
           Discover what pro metal{'\n'}drummers actually use
         </Text>
         
-        {/* Search temporarily removed - TODO: fix input focus issues */}
-        
+        {/* Search CTA - primary discovery action (#1231) */}
+        <SearchBar
+          value={searchValue}
+          onChange={onSearchChange}
+          onFocus={onSearchFocus}
+          onClear={onSearchClear}
+          suggestions={suggestions}
+          onSelectSuggestion={onSelectSuggestion}
+          showSuggestions={showSuggestions}
+          theme={theme}
+          inputRef={searchInputRef}
+        />
+
         {/* Stats line */}
         <View style={styles.heroStats}>
           <Text style={[styles.heroStatsText, { color: theme.secondaryText }]}>
@@ -17618,7 +17629,9 @@ function DrummerList({
   };
 
   // Header content that scrolls with the list
-  const ListHeader = () => (
+  // Memoised as a React element (not a function) so FlatList never sees a new
+  // component type on re-render, which would unmount the header and lose focus.
+  const listHeader = useMemo(() => (
     <>
       {/* Hero Section with prominent search CTA (Issue #493) */}
       <HeroSection
@@ -17872,7 +17885,18 @@ function DrummerList({
         </View>
       )}
     </>
-  );
+  ), [
+    theme, searchValue, onSearchChange, onSearchFocus, onSearchClear,
+    suggestions, onSelectSuggestion, showSuggestions, searchInputRef,
+    drummers, onNavigateToQuiz, onNavigateToCompare, onNavigateToBeginnerGuide,
+    onNavigateToQuotes, onNavigateToGearFinder, onNavigateToKitBuilder,
+    onNavigateToBpmTap, onNavigateToBirthdayCalendar, onNavigateToTimeline,
+    onNavigateToGenresList, onNavigateToToolsHub, onNavigateToTechniques,
+    onNavigateToKitQuiz, onNavigateToGuessTheKit, onNavigateToNews,
+    onNavigateToSpotlights, filters, onFilterChange, sortBy, onSortChange,
+    filteredDrummers, handleClearAllFilters, showAllDrummers,
+    spotlight, onSelectDrummer,
+  ]);
 
   // Empty list message (should rarely show on homepage since we show featured drummers)
   const ListEmpty = () => (
@@ -17924,7 +17948,7 @@ function DrummerList({
           index={index}
         />
       )}
-      ListHeaderComponent={ListHeader}
+      ListHeaderComponent={listHeader}
       ListEmptyComponent={ListEmpty}
       ListFooterComponent={ListFooter}
       contentContainerStyle={styles.listContainer}

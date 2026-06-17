@@ -1549,6 +1549,7 @@ function BandLinksSection({ bandLinks, bandName, theme }) {
 function MostPopularGear({ theme, onSelectDrummer }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
+  const impressionRef = useInViewImpression('most_popular_gear');
   const [popularGear, setPopularGear] = useState(null);
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState(null);
@@ -1602,7 +1603,8 @@ function MostPopularGear({ theme, onSelectDrummer }) {
   ];
 
   return (
-    <View 
+    <View
+      ref={impressionRef}
       style={[styles.popularGearSection, { backgroundColor: 'transparent' }]}
       accessibilityRole="region"
       accessibilityLabel="Most Popular Gear"
@@ -1695,10 +1697,11 @@ function MostPopularGear({ theme, onSelectDrummer }) {
 function TrendingThisWeek({ theme, drummers, onSelectDrummer }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
-  
+  const impressionRef = useInViewImpression('trending');
+
   // Get trending drummers with full data
-  const trendingDrummers = useMemo(() => 
-    getTrendingDrummers(drummers), 
+  const trendingDrummers = useMemo(() =>
+    getTrendingDrummers(drummers),
     [drummers]
   );
 
@@ -1709,20 +1712,20 @@ function TrendingThisWeek({ theme, drummers, onSelectDrummer }) {
 
   // Track clicks on trending widget for analytics (GA4 event: trending_click)
   const handleDrummerPress = (drummer) => {
-    // Fire GA4 event
-    if (typeof window !== 'undefined' && window.gtag) {
-      window.gtag('event', 'trending_click', {
-        drummer_id: drummer.id,
-        drummer_name: drummer.name,
-        trending_rank: drummer.trending.rank,
-        trending_change: drummer.trending.change,
-      });
-    }
+    trackEvent('trending_click', {
+      event_category: 'engagement',
+      drummer_id: drummer.id,
+      drummer_name: drummer.name,
+      trending_rank: drummer.trending.rank,
+      trending_change: drummer.trending.change,
+      page: '/',
+    });
     onSelectDrummer(drummer.id);
   };
 
   return (
-    <View 
+    <View
+      ref={impressionRef}
       style={[styles.trendingSection, { backgroundColor: 'transparent' }]}
       accessibilityRole="region"
       accessibilityLabel="Trending This Week"
@@ -3762,6 +3765,65 @@ function FilterBar({ filters, onFilterChange, totalCount, filteredCount, onClear
 // Blurhash placeholder for smooth image loading (gray tone matching dark theme)
 const BLUR_HASH = 'L6Pj0^jt.mfQ~qfQfQfQ~qfQfQfQ';
 
+// ==========================================
+// HOMEPAGE ANALYTICS - Issue #1234
+// GA4 event helpers: section impressions, scroll depth, click tracking
+// ==========================================
+
+function trackEvent(name, params) {
+  if (Platform.OS !== 'web' || typeof window === 'undefined' || !window.gtag) return;
+  window.gtag('event', name, params);
+}
+
+// Fires once per scroll-depth threshold per session (25/50/75/100%)
+function useScrollDepth() {
+  const firedRef = useRef(new Set());
+
+  const handleScroll = useCallback((e) => {
+    if (Platform.OS !== 'web') return;
+    const { contentOffset, contentSize, layoutMeasurement } = e.nativeEvent;
+    const scrollable = contentSize.height - layoutMeasurement.height;
+    if (scrollable <= 0) return;
+    const pct = Math.round((contentOffset.y / scrollable) * 100);
+    for (const threshold of [25, 50, 75, 100]) {
+      if (pct >= threshold && !firedRef.current.has(threshold)) {
+        firedRef.current.add(threshold);
+        trackEvent('scroll_depth', { event_category: 'engagement', percent: threshold, page: '/' });
+      }
+    }
+  }, []);
+
+  return handleScroll;
+}
+
+// Fires a section_impression event once per section per page session
+function useInViewImpression(sectionName) {
+  const ref = useRef(null);
+  const firedRef = useRef(false);
+
+  useEffect(() => {
+    if (Platform.OS !== 'web' || firedRef.current) return;
+    if (typeof IntersectionObserver === 'undefined') return;
+    const el = ref.current;
+    if (!el) return;
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (entries[0].isIntersecting && !firedRef.current) {
+          firedRef.current = true;
+          trackEvent('section_impression', { event_category: 'engagement', section: sectionName, page: '/' });
+          observer.disconnect();
+        }
+      },
+      { threshold: 0.2 }
+    );
+    observer.observe(el);
+    return () => observer.disconnect();
+  }, [sectionName]);
+
+  return ref;
+}
+
 /**
  * useLazyLoad - Intersection Observer hook for lazy loading images (Issue #296)
  * 
@@ -4752,6 +4814,7 @@ function DrummerCard({ drummer, theme, onPress, index = 0 }) {
         href={drummerUrl}
         onClick={(e) => {
           e.preventDefault();
+          trackEvent('drummer_card_click', { event_category: 'engagement', drummer_id: drummer.id, drummer_name: drummer.name, page: '/' });
           onPress();
         }}
         style={{
@@ -7842,11 +7905,12 @@ function CompareView({ theme, onBack, drummers, onNavigateToCompare }) {
 function DrummerSpotlight({ drummer, theme, onSelectDrummer, onViewAllSpotlights }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
+  const impressionRef = useInViewImpression('spotlight');
 
   if (!drummer || !drummer.spotlight) return null;
 
   const { spotlight } = drummer;
-  
+
   // Get feature reason from curated module (birthday, event, or weekly)
   const isBirthday = drummer.isBirthdayFeature;
   const featureReason = drummer.featuredReason || 'This Week';
@@ -7854,7 +7918,7 @@ function DrummerSpotlight({ drummer, theme, onSelectDrummer, onViewAllSpotlights
   const labelColor = isBirthday ? '#ec4899' : '#f59e0b'; // Pink for birthday, amber for regular
 
   return (
-    <View style={[styles.spotlightContainer, { backgroundColor: theme.card, borderColor: theme.border }]}>
+    <View ref={impressionRef} style={[styles.spotlightContainer, { backgroundColor: theme.card, borderColor: theme.border }]}>
       <View style={styles.spotlightHeader}>
         <Text style={[styles.spotlightLabel, { color: labelColor }]}>{labelText}</Text>
         <Text style={[styles.spotlightWeek, { color: theme.secondaryText }]}>{featureReason}</Text>
@@ -17127,9 +17191,10 @@ function HeroSection({
 }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
+  const impressionRef = useInViewImpression('hero');
 
   return (
-    <View style={[styles.heroSection, { backgroundColor: theme.background }]}>
+    <View ref={impressionRef} style={[styles.heroSection, { backgroundColor: theme.background }]}>
       {/* Gradient overlay for visual depth */}
       {Platform.OS === 'web' && (
         <div
@@ -17181,6 +17246,7 @@ function HeroSection({
 function StartHereCTAs({ theme, onNavigateToQuiz, onNavigateToCompare, onNavigateToBeginnerGuide }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
+  const impressionRef = useInViewImpression('start_here');
 
   // GA4 tracking for CTA clicks (Issue #817)
   const trackCTAClick = (ctaName, destination) => {
@@ -17236,7 +17302,7 @@ function StartHereCTAs({ theme, onNavigateToQuiz, onNavigateToCompare, onNavigat
   ];
 
   return (
-    <View style={styles.startHereContainer}>
+    <View ref={impressionRef} style={styles.startHereContainer}>
       <Text style={[styles.startHereLabel, { color: theme.secondaryText }]}>
         ✨ START HERE
       </Text>
@@ -17535,6 +17601,20 @@ function DrummersPage({
   );
 }
 
+function FeaturedDrummersHeader({ theme }) {
+  const impressionRef = useInViewImpression('featured_drummers');
+  return (
+    <View ref={impressionRef} style={styles.featuredSection}>
+      <Text style={[styles.featuredSectionTitle, { color: theme.text }]}>
+        ⭐ Featured Drummers
+      </Text>
+      <Text style={[styles.featuredSectionSubtitle, { color: theme.secondaryText }]}>
+        Legendary metal drummers to explore
+      </Text>
+    </View>
+  );
+}
+
 function DrummerList({
   theme,
   onSelectDrummer,
@@ -17617,6 +17697,12 @@ function DrummerList({
     onSearchClear();
   };
 
+  const handleScrollDepth = useScrollDepth();
+
+  const trackToolClick = (toolName) => {
+    trackEvent('homepage_tool_click', { event_category: 'engagement', tool: toolName, page: '/' });
+  };
+
   // Header content that scrolls with the list
   const ListHeader = () => (
     <>
@@ -17643,7 +17729,7 @@ function DrummerList({
       />
       <View style={styles.actionButtonsRow}>
         <TouchableOpacity
-          onPress={onNavigateToCompare}
+          onPress={() => { trackToolClick('compare_drummers'); onNavigateToCompare(); }}
           style={[styles.compareButton, { backgroundColor: theme.card, borderColor: theme.border }]}
           accessibilityRole="button"
           accessibilityLabel="Compare drummers side by side"
@@ -17651,7 +17737,7 @@ function DrummerList({
           <Text style={[styles.compareButtonText, { color: theme.text }]}>Compare Drummers</Text>
         </TouchableOpacity>
         <TouchableOpacity
-          onPress={onNavigateToQuiz}
+          onPress={() => { trackToolClick('find_your_match'); onNavigateToQuiz(); }}
           style={[styles.quizButton, { backgroundColor: theme.primary, borderColor: theme.primary }]}
           accessibilityRole="button"
           accessibilityLabel="Take the drummer personality quiz"
@@ -17661,7 +17747,7 @@ function DrummerList({
       </View>
       <View style={[styles.actionButtonsRow, { marginTop: -8 }]}>
         <TouchableOpacity
-          onPress={onNavigateToQuotes}
+          onPress={() => { trackToolClick('quotes'); onNavigateToQuotes(); }}
           style={[styles.compareButton, { backgroundColor: theme.card, borderColor: theme.border }]}
           accessibilityRole="button"
           accessibilityLabel="Browse drummer interview quotes"
@@ -17669,7 +17755,7 @@ function DrummerList({
           <Text style={[styles.compareButtonText, { color: theme.text }]}>💬 Quotes</Text>
         </TouchableOpacity>
         <TouchableOpacity
-          onPress={onNavigateToGearFinder}
+          onPress={() => { trackToolClick('gear_finder'); onNavigateToGearFinder(); }}
           style={[styles.quizButton, { backgroundColor: colors.buttons.secondary.bg, borderColor: colors.buttons.secondary.bg }]}
           accessibilityRole="button"
           accessibilityLabel="Search drummers by gear"
@@ -17679,7 +17765,7 @@ function DrummerList({
       </View>
       <View style={[styles.actionButtonsRow, { marginTop: -8 }]}>
         <TouchableOpacity
-          onPress={onNavigateToKitBuilder}
+          onPress={() => { trackToolClick('kit_builder'); onNavigateToKitBuilder(); }}
           style={[styles.quizButton, { backgroundColor: theme.warning, borderColor: theme.warning }]}
           accessibilityRole="button"
           accessibilityLabel="Build your custom drum kit"
@@ -17687,7 +17773,7 @@ function DrummerList({
           <Text style={[styles.quizButtonText, { color: theme.text }]}>🛠️ Kit Builder</Text>
         </TouchableOpacity>
         <TouchableOpacity
-          onPress={onNavigateToBpmTap}
+          onPress={() => { trackToolClick('bpm_tap'); onNavigateToBpmTap(); }}
           style={[styles.quizButton, { backgroundColor: colors.buttons.secondary.bg, borderColor: colors.buttons.secondary.bg }]}
           accessibilityRole="button"
           accessibilityLabel="BPM tap calculator"
@@ -17697,7 +17783,7 @@ function DrummerList({
       </View>
       <View style={[styles.actionButtonsRow, { marginTop: -8 }]}>
         <TouchableOpacity
-          onPress={onNavigateToBirthdayCalendar}
+          onPress={() => { trackToolClick('birthdays'); onNavigateToBirthdayCalendar(); }}
           style={[styles.compareButton, { backgroundColor: theme.card, borderColor: theme.border }]}
           accessibilityRole="button"
           accessibilityLabel="View drummer birthday calendar"
@@ -17705,7 +17791,7 @@ function DrummerList({
           <Text style={[styles.compareButtonText, { color: theme.text }]}>🎂 Birthdays</Text>
         </TouchableOpacity>
         <TouchableOpacity
-          onPress={onNavigateToTimeline}
+          onPress={() => { trackToolClick('history'); onNavigateToTimeline(); }}
           style={[styles.quizButton, { backgroundColor: '#9333ea', borderColor: '#9333ea' }]}
           accessibilityRole="button"
           accessibilityLabel="View metal drumming evolution timeline"
@@ -17715,7 +17801,7 @@ function DrummerList({
       </View>
       <View style={[styles.actionButtonsRow, { marginTop: -8 }]}>
         <TouchableOpacity
-          onPress={onNavigateToGenresList}
+          onPress={() => { trackToolClick('browse_genres'); onNavigateToGenresList(); }}
           style={[styles.quizButton, { backgroundColor: colors.buttons.secondary.bg, borderColor: colors.buttons.secondary.bg }]}
           accessibilityRole="button"
           accessibilityLabel="Browse metal genres"
@@ -17723,7 +17809,7 @@ function DrummerList({
           <Text style={[styles.quizButtonText, { color: colors.buttons.secondary.text }]}>🎸 Browse Genres</Text>
         </TouchableOpacity>
         <TouchableOpacity
-          onPress={onNavigateToToolsHub}
+          onPress={() => { trackToolClick('all_tools'); onNavigateToToolsHub(); }}
           style={[styles.quizButton, { backgroundColor: '#059669', borderColor: '#059669' }]}
           accessibilityRole="button"
           accessibilityLabel="Explore all interactive tools"
@@ -17733,7 +17819,7 @@ function DrummerList({
       </View>
       <View style={[styles.actionButtonsRow, { marginTop: -8 }]}>
         <TouchableOpacity
-          onPress={onNavigateToTechniques}
+          onPress={() => { trackToolClick('learn_techniques'); onNavigateToTechniques(); }}
           style={[styles.quizButton, { backgroundColor: theme.primary, borderColor: theme.primary }]}
           accessibilityRole="button"
           accessibilityLabel="Learn drumming techniques"
@@ -17741,7 +17827,7 @@ function DrummerList({
           <Text style={[styles.quizButtonText, { color: theme.text }]}>🥁 Learn Techniques</Text>
         </TouchableOpacity>
         <TouchableOpacity
-          onPress={onNavigateToKitQuiz}
+          onPress={() => { trackToolClick('kit_quiz'); onNavigateToKitQuiz(); }}
           style={[styles.quizButton, { backgroundColor: '#dc2626', borderColor: '#dc2626' }]}
           accessibilityRole="button"
           accessibilityLabel="Guess the drummer by kit quiz"
@@ -17751,7 +17837,7 @@ function DrummerList({
       </View>
       <View style={[styles.actionButtonsRow, { marginTop: -8 }]}>
         <TouchableOpacity
-          onPress={onNavigateToGuessTheKit}
+          onPress={() => { trackToolClick('photo_quiz'); onNavigateToGuessTheKit(); }}
           style={[styles.quizButton, { backgroundColor: '#7c3aed', borderColor: '#7c3aed' }]}
           accessibilityRole="button"
           accessibilityLabel="Guess the drummer by their kit photo quiz"
@@ -17759,7 +17845,7 @@ function DrummerList({
           <Text style={[styles.quizButtonText, { color: '#fff' }]}>📸 Photo Quiz</Text>
         </TouchableOpacity>
         <TouchableOpacity
-          onPress={onNavigateToNews}
+          onPress={() => { trackToolClick('metal_news'); onNavigateToNews(); }}
           style={[styles.compareButton, { backgroundColor: theme.card, borderColor: theme.border }]}
           accessibilityRole="button"
           accessibilityLabel="View metal news"
@@ -17862,14 +17948,7 @@ function DrummerList({
       
       {/* Featured Drummers Section Header (Issue #496) */}
       {!showAllDrummers && !searchValue && !filters.genre && !filters.brand && (
-        <View style={styles.featuredSection}>
-          <Text style={[styles.featuredSectionTitle, { color: theme.text }]}>
-            ⭐ Featured Drummers
-          </Text>
-          <Text style={[styles.featuredSectionSubtitle, { color: theme.secondaryText }]}>
-            Legendary metal drummers to explore
-          </Text>
-        </View>
+        <FeaturedDrummersHeader theme={theme} />
       )}
     </>
   );
@@ -17928,6 +18007,8 @@ function DrummerList({
       ListEmptyComponent={ListEmpty}
       ListFooterComponent={ListFooter}
       contentContainerStyle={styles.listContainer}
+      onScroll={handleScrollDepth}
+      scrollEventThrottle={200}
     />
   );
 }

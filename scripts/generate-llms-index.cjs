@@ -70,6 +70,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Sitemap | https://metalforge.io/sitemap.xml | XML sitemap |
 | API - Drummers | https://metalforge.io/api/drummers | JSON API endpoint |
 | API - Quotes | https://metalforge.io/api/quotes | Drummer quotes JSON |
+| Bands | https://metalforge.io/llms/bands.md | Band & drummer-history reference (Markdown) |
 
 ---
 

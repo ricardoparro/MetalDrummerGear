@@ -1,0 +1,88 @@
+name: Ralph Night Fleet
+
+# 4 parallel Ralph workers concentrated in the Lisbon night window, to push PR
+# throughput toward the 60–80 PRs/day target. Each matrix worker runs the same
+# .ralph/drain.sh but with a distinct RALPH_WORKER_OFFSET, so they claim
+# DIFFERENT issues from the same eligible queue. Workers coordinate via the
+# `in-progress` label + drain.sh's pre-PR dup guard, so they never double-ship
+# an issue. Runs alongside the all-day single-worker ralph.yml (separate
+# concurrency group); together they cover the night at ~4-wide.
+#
+# Auth: subscription (CLAUDE_CODE_OAUTH_TOKEN). ⚠️ Even on Max 20x, 4 concurrent
+# agentic workers can hit the rolling 5h usage limit — if PR output plateaus
+# well under target, the subscription tier (not this workflow) is the ceiling.
+#
+# ⚠️ TZ: GitHub Actions cron is UTC only. Calibrated for Lisbon SUMMER (UTC+1):
+# launch 23:00 UTC = 00:00 Lisbon, and the 340-min cap covers ~00:00–05:40
+# Lisbon at 4-wide; the all-day ralph.yml carries the 05:40–07:00 tail. In
+# winter (Lisbon UTC+0) shift the cron to '0 0 * * *'.
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 23 * * *'   # 00:00 Lisbon (summer) — start of the night window
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+# Unique per run so the fleet never blocks itself or the all-day ralph.yml.
+# Within a run, the matrix legs run in parallel (that IS the fleet).
+concurrency:
+  group: ralph-night-fleet-${{ github.run_id }}
+  cancel-in-progress: false
+
+jobs:
+  drain:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350   # < GitHub's 6h hard kill; drain.sh self-guards at 340
+    strategy:
+      fail-fast: false     # one worker dying must not cancel the others
+      max-parallel: 4
+      matrix:
+        worker: [0, 1, 2, 3]
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install deps + Claude Code CLI
+        run: |
+          npm ci --no-audit --no-fund || npm install --no-audit --no-fund
+          npm install -g @anthropic-ai/claude-code
+
+      - name: Configure git author
+        # Ricardo's identity so Vercel's Git Authorization recognises the committer
+        # and runs preview/build checks (required for the merger to see CLEAN PRs).
+        run: |
+          git config user.name "Ricardo Parro"
+          git config user.email "ricardo.parro@gmail.com"
+
+      - name: Drain the issue queue (worker ${{ matrix.worker }})
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Subscription auth (Max 20x) — bills the plan, not the API.
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          REPO: ${{ github.repository }}
+          GITHUB_RUN_ID: ${{ github.run_id }}
+          RALPH_WORKER_OFFSET: ${{ matrix.worker }}
+          WALL_CAP_MIN: '340'
+        run: |
+          chmod +x .ralph/drain.sh
+          .ralph/drain.sh
+
+      - name: Upload run logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ralph-night-${{ github.run_id }}-w${{ matrix.worker }}
+          path: .agents/ralph-runs/
+          retention-days: 7
+          if-no-files-found: ignore

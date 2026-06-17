@@ -22608,6 +22608,11 @@ function AppContent() {
     });
   }, []);
 
+  // Stable focus handler — keeps onSearchFocus reference stable across renders
+  // so the listHeader useMemo doesn't recompute and lose input focus on every
+  // parent re-render unrelated to search state.
+  const handleSearchFocus = useCallback(() => setShowSuggestions(true), []);
+
   // Handle suggestion selection
   const handleSelectSuggestion = useCallback((suggestion) => {
     setShowSuggestions(false);
@@ -27456,7 +27461,7 @@ setShowList(false);
           onSearchClear={handleSearchClear}
           suggestions={suggestions}
           showSuggestions={showSuggestions}
-          onSearchFocus={() => setShowSuggestions(true)}
+          onSearchFocus={handleSearchFocus}
           onSelectSuggestion={handleSelectSuggestion}
           searchInputRef={searchInputRef}
           showAllDrummers={showAllDrummers}

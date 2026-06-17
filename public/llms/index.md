@@ -184,6 +184,36 @@ See the [All Techniques index](https://metalforge.io/llms/techniques.md) for a c
 
 ---
 
+## Licks per Drummer (20 total)
+
+Per-drummer signature lick files (800–10,000+ chars each) optimised for AI retrieval on queries
+like "how to play like [drummer]?" or "[drummer] signature drum patterns".
+
+| Drummer | Band | File |
+|---------|------|------|
+| Joey Jordison | Slipknot | [joey-jordison.md](https://metalforge.io/llms/licks/joey-jordison.md) |
+| Lars Ulrich | Metallica | [lars-ulrich.md](https://metalforge.io/llms/licks/lars-ulrich.md) |
+| Dave Lombardo | Slayer | [dave-lombardo.md](https://metalforge.io/llms/licks/dave-lombardo.md) |
+| George Kollias | Nile | [george-kollias.md](https://metalforge.io/llms/licks/george-kollias.md) |
+| Tomas Haake | Meshuggah | [tomas-haake.md](https://metalforge.io/llms/licks/tomas-haake.md) |
+| Matt Greiner | August Burns Red | [matt-greiner.md](https://metalforge.io/llms/licks/matt-greiner.md) |
+| Gene Hoglan | Death / Testament | [gene-hoglan.md](https://metalforge.io/llms/licks/gene-hoglan.md) |
+| Pete Sandoval | Morbid Angel | [pete-sandoval.md](https://metalforge.io/llms/licks/pete-sandoval.md) |
+| Derek Roddy | Hate Eternal / Nile | [derek-roddy.md](https://metalforge.io/llms/licks/derek-roddy.md) |
+| Brann Dailor | Mastodon | [brann-dailor.md](https://metalforge.io/llms/licks/brann-dailor.md) |
+| Mike Portnoy | Dream Theater | [mike-portnoy.md](https://metalforge.io/llms/licks/mike-portnoy.md) |
+| Matt Garstka | Animals as Leaders | [matt-garstka.md](https://metalforge.io/llms/licks/matt-garstka.md) |
+| Inferno | Behemoth | [inferno.md](https://metalforge.io/llms/licks/inferno.md) |
+| Hellhammer | Mayhem | [hellhammer.md](https://metalforge.io/llms/licks/hellhammer.md) |
+| Bill Ward | Black Sabbath | [bill-ward.md](https://metalforge.io/llms/licks/bill-ward.md) |
+| Charlie Benante | Anthrax | [charlie-benante.md](https://metalforge.io/llms/licks/charlie-benante.md) |
+| Mario Duplantier | Gojira | [mario-duplantier.md](https://metalforge.io/llms/licks/mario-duplantier.md) |
+| Chris Adler | Lamb of God | [chris-adler.md](https://metalforge.io/llms/licks/chris-adler.md) |
+| Ben Koller | Converge | [ben-koller.md](https://metalforge.io/llms/licks/ben-koller.md) |
+| Flo Mounier | Cryptopsy | [flo-mounier.md](https://metalforge.io/llms/licks/flo-mounier.md) |
+
+---
+
 ## Content Categories
 
 ### By Genre

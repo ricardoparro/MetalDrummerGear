@@ -15,6 +15,8 @@ import { ALBUM_ARTICLES } from '../../packages/frontend/data/albumArticles.js';
 import { bands as BAND_DATA } from '../../packages/frontend/data/bands.js';
 // Issue #1202: individual technique page SSR meta for /technique/<slug> and /technique/<slug>/drummers.
 import { getTechniqueBySlug } from '../../packages/frontend/data/techniques.js';
+// Issue #1209: lick page SSR meta for /licks, /drummers/<slug>/licks, /drummers/<slug>/licks/<slug>.
+import SIGNATURE_LICKS from '../../packages/frontend/data/licks/index.js';
 
 const BASE_URL = 'https://metalforge.io';
 const SITE_NAME = 'MetalForge';
@@ -536,6 +538,49 @@ function getMetaForPath(pathname) {
       type: 'website',
       url: `${BASE_URL}/bands`,
     };
+  }
+
+  // Issue #1209: /licks top-level hub
+  if (path === '/licks') {
+    return {
+      title: `Signature Metal Drum Licks — Learn from the Legends | ${SITE_NAME}`,
+      description: 'Master the signature drum licks of 60+ metal legends. Step-by-step breakdowns of blast beats, double bass patterns, and iconic fills from George Kollias, Joey Jordison, and more.',
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url: `${BASE_URL}/licks`,
+    };
+  }
+
+  // Issue #1209: /drummers/<slug>/licks per-drummer hub
+  const drummerLicksHubMatch = path.match(/^\/drummers\/([a-z0-9-]+)\/licks$/);
+  if (drummerLicksHubMatch) {
+    const [, drummerSlug] = drummerLicksHubMatch;
+    const anyLick = Object.values(SIGNATURE_LICKS).find(l => l.drummerSlug === drummerSlug);
+    if (anyLick) {
+      return {
+        title: `${anyLick.drummerName} Signature Drum Licks & Patterns | ${SITE_NAME}`,
+        description: `Learn the signature drum licks of ${anyLick.drummerName} (${anyLick.band}). Step-by-step breakdowns of iconic patterns and fills.`,
+        image: DEFAULT_IMAGE,
+        type: 'website',
+        url: `${BASE_URL}/drummers/${drummerSlug}/licks`,
+      };
+    }
+  }
+
+  // Issue #1209: /drummers/<slug>/licks/<lick-slug> individual lick page
+  const lickPageMatch = path.match(/^\/drummers\/([a-z0-9-]+)\/licks\/([a-z0-9-]+)$/);
+  if (lickPageMatch) {
+    const [, drummerSlug, lickSlug] = lickPageMatch;
+    const lick = SIGNATURE_LICKS[lickSlug];
+    if (lick) {
+      return {
+        title: `${lick.name} — ${lick.drummerName} (${lick.band}) Drum Lick | ${SITE_NAME}`,
+        description: `Learn the ${lick.name} drum lick by ${lick.drummerName} of ${lick.band}. From ${lick.song} (${lick.album}). ${lick.description.slice(0, 100)}...`,
+        image: DEFAULT_IMAGE,
+        type: 'article',
+        url: `${BASE_URL}/drummers/${drummerSlug}/licks/${lickSlug}`,
+      };
+    }
   }
 
   // Drummer profiles (root slug)

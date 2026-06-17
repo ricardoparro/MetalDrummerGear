@@ -17691,17 +17691,6 @@ function DrummerList({
           ))}
         </ScrollView>
       </View>
-      {/* Filter Bar - positioned below action buttons, above drummer list (Issue #506) */}
-      <FilterBar
-        filters={filters}
-        onFilterChange={onFilterChange}
-        totalCount={drummers.length}
-        filteredCount={filteredDrummers.length}
-        onClearAll={handleClearAllFilters}
-        theme={theme}
-        sortBy={sortBy}
-        onSortChange={onSortChange}
-      />
       {/* Drummer Spotlight Section */}
       {spotlight && (
         <DrummerSpotlight
@@ -17784,6 +17773,19 @@ function DrummerList({
       {/* Most Popular Gear Section (Issue #640) */}
       <MostPopularGear theme={theme} onSelectDrummer={onSelectDrummer} />
       
+      {/* Filter Bar - directly above drummer grid, sticky while grid is in view (Issue #1233) */}
+      <View style={Platform.select({ web: { position: 'sticky', top: 0, zIndex: 100 } })}>
+        <FilterBar
+          filters={filters}
+          onFilterChange={onFilterChange}
+          totalCount={drummers.length}
+          filteredCount={filteredDrummers.length}
+          onClearAll={handleClearAllFilters}
+          theme={theme}
+          sortBy={sortBy}
+          onSortChange={onSortChange}
+        />
+      </View>
       {/* Featured Drummers Section Header (Issue #496) */}
       {!showAllDrummers && !searchValue && !filters.genre && !filters.brand && (
         <View style={styles.featuredSection}>

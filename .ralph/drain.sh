@@ -15,13 +15,21 @@
 #
 # Env: REPO, GH_TOKEN, CLAUDE_CODE_OAUTH_TOKEN (subscription auth — set instead of
 #      ANTHROPIC_API_KEY to bill the Pro/Max plan, not the API).
-#      Optional: WALL_CAP_MIN, PER_ISSUE_TIMEOUT.
+#      Optional: WALL_CAP_MIN, PER_ISSUE_TIMEOUT, RALPH_WORKER_OFFSET (distinct
+#      per worker when run as a parallel fleet — see .github/workflows/ralph-night-fleet.yml).
+# Safe to run as N concurrent workers: each claims a different issue (offset +
+# `in-progress` label + pre-PR dup guard), so the fleet parallelises the drain.
 set -uo pipefail
 
 REPO="${REPO:?REPO required}"
 START=$(date +%s)
 WALL_CAP=$(( ${WALL_CAP_MIN:-320} * 60 ))
 PER_ISSUE_TIMEOUT="${PER_ISSUE_TIMEOUT:-1500}"   # 25 min per issue
+# Parallel-fleet support: each concurrent worker passes a distinct offset so they
+# claim DIFFERENT issues from the same eligible list, avoiding simultaneous
+# double-picks. Workers still coordinate via the `in-progress` label + the
+# pre-PR dup guard below. Single-worker runs leave this at 0 (no behaviour change).
+RALPH_WORKER_OFFSET="${RALPH_WORKER_OFFSET:-0}"
 RUNS_DIR=".agents/ralph-runs"
 mkdir -p "$RUNS_DIR"
 
@@ -59,7 +67,7 @@ reclaim_orphans() {
 # the CEO promotes it (adds `ai-fix`), it becomes eligible even if the
 # seo-proposal label lingers.
 next_issue() {
-  local n
+  local n; local -a claimable=()
   for n in $(gh issue list --repo "$REPO" --state open --limit 300 \
       --json number,labels \
       --jq '[.[] | select(
@@ -68,9 +76,16 @@ next_issue() {
             )] | sort_by(.number) | .[].number' 2>/dev/null); do
     open_pr_for "$n" && continue
     branch_exists_for "$n" && continue
-    echo "$n"; return 0
+    claimable+=("$n")
+    # Collect a few past our offset, then stop — no need to probe the whole queue.
+    (( ${#claimable[@]} > RALPH_WORKER_OFFSET + 1 )) && break
   done
-  return 1
+  (( ${#claimable[@]} == 0 )) && return 1
+  # This worker takes the issue at its offset; if fewer remain than the offset
+  # (tail of the queue), fall back to the oldest claimable so no worker idles.
+  local idx=$RALPH_WORKER_OFFSET
+  (( idx >= ${#claimable[@]} )) && idx=0
+  echo "${claimable[$idx]}"; return 0
 }
 
 implement_issue() {
@@ -120,6 +135,14 @@ implement_issue() {
 
   if [ -z "$(git log origin/main..HEAD --oneline 2>/dev/null)" ]; then
     gh issue comment "$n" --repo "$REPO" --body "🤖 Ralph produced no commits this run (rc=$rc). Retrying next pass." >/dev/null 2>&1 || true
+    gh issue edit "$n" --repo "$REPO" --remove-label in-progress >/dev/null 2>&1 || true
+    DONE_NOOP+=("$n"); return
+  fi
+
+  # Parallel-fleet dup guard: another worker may have opened a PR for this issue
+  # between our claim and now. If so, discard our work rather than open a 2nd PR.
+  if open_pr_for "$n"; then
+    log "#$n already has a PR (raced by another worker) — discarding our branch"
     gh issue edit "$n" --repo "$REPO" --remove-label in-progress >/dev/null 2>&1 || true
     DONE_NOOP+=("$n"); return
   fi

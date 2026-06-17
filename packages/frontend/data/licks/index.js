@@ -38,6 +38,8 @@ import paulMazurkiewiczLicks from './paul-mazurkiewicz.js';
 import aquilesPriesterLicks from './aquiles-priester.js';
 import infernoLicks from './inferno.js';
 import hellhammerLicks from './hellhammer.js';
+import martinLopezLicks from './martin-lopez.js';
+import naveneKoperwiesLicks from './navene-koperweis.js';
 
 export const SIGNATURE_LICKS = {
   ...mattGreinerLicks,
@@ -77,6 +79,8 @@ export const SIGNATURE_LICKS = {
   ...aquilesPriesterLicks,
   ...infernoLicks,
   ...hellhammerLicks,
+  ...martinLopezLicks,
+  ...naveneKoperwiesLicks,
 };
 
 export default SIGNATURE_LICKS;

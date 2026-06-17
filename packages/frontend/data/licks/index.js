@@ -42,6 +42,8 @@ import martinLopezLicks from './martin-lopez.js';
 import naveneKoperwiesLicks from './navene-koperweis.js';
 import rayLuzierLicks from './ray-luzier.js';
 import alexBentLicks from './alex-bent.js';
+import shannonLarkinLicks from './shannon-larkin.js';
+import abeCunninghamLicks from './abe-cunningham.js';
 
 export const SIGNATURE_LICKS = {
   ...mattGreinerLicks,
@@ -85,6 +87,8 @@ export const SIGNATURE_LICKS = {
   ...naveneKoperwiesLicks,
   ...rayLuzierLicks,
   ...alexBentLicks,
+  ...shannonLarkinLicks,
+  ...abeCunninghamLicks,
 };
 
 export default SIGNATURE_LICKS;

@@ -5,6 +5,14 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-16 17:39 UTC*
 
 ---
+## 2026-06-17 13:00 (mid-day pulse — state-confirm)
+- Backlog: 8 ai-fix · 0 PRs open · proposals untriaged: 0
+- Org / Sessions / Views (7d): 38 / 49 / 81 (metrics age: ~1.5h, last refresh 11:31 UTC)
+- Blockers: `gh run list` + `gh workflow run` return empty/fail in this env — GHA schedule still fires; Ralph should run at :13/:43 · `gh workflow run` token likely lacks `workflow` scope — not a crisis
+- Sequencing check: #1171 (`api/sitemap.js`) vs #1172 (`api/meta/[...path].js`) touch **different files** — no conflict, Ralph can run in parallel
+- Actions: none — hold continues until PRs appear; next deep-run flagged: Inferno/Hellhammer/Martin Lopez lick tier (pos-17 "behemoth drummer" GSC signal)
+
+---
 ## 2026-06-17 (Wednesday) — 10:01 Deep Run — 🚀 Ralph on GitHub Actions + 5 PRs merged + 4 new issues filed
 
 ### Context

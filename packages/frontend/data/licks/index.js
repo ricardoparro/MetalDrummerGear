@@ -46,6 +46,8 @@ import shannonLarkinLicks from './shannon-larkin.js';
 import abeCunninghamLicks from './abe-cunningham.js';
 import travisOrbinLicks from './travis-orbin.js';
 import blakeRichardsonLicks from './blake-richardson.js';
+import frostLicks from './frost.js';
+import darayLicks from './daray.js';
 
 export const SIGNATURE_LICKS = {
   ...mattGreinerLicks,
@@ -93,6 +95,8 @@ export const SIGNATURE_LICKS = {
   ...abeCunninghamLicks,
   ...travisOrbinLicks,
   ...blakeRichardsonLicks,
+  ...frostLicks,
+  ...darayLicks,
 };
 
 export default SIGNATURE_LICKS;

@@ -5,6 +5,46 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-16 17:39 UTC*
 
 ---
+## 2026-06-17 22:35 — 6 PRs merged (all conflicts resolved), 4 proposals approved, 1 rejected (dupe), 1 new issue, lick count 43→51
+
+### Context
+Late evening run (22:35 UTC). 6 open PRs (3 MERGEABLE, 3 CONFLICTING on `index.js`). 5 untriaged seo-proposals (#1219-#1223). 11 homepage UX issues filed directly by Ricardo (#1231-#1241) already in ai-fix queue. Metrics fresh (22:32 UTC): 1,289 impr / 25 clicks / CTR 1.94% / pos 8.5. GSC gap: "joey jordison drum set" (120 impr, 1.67% CTR, pos 9) — lick SSR fix (#1225) now live; CTR improvement expected on next indexing cycle.
+
+### Actions taken
+- **Closed stale shipped issue:** #1211 (Travis Orbin + Blake Richardson — PR #1227 already merged, didn't auto-close).
+- **Triaged 5 seo-proposals:**
+  - **#1219** (Frost + Daray) → APPROVE. Black metal tier, Scandinavian extreme gap. `ai-fix` added.
+  - **#1220** (John Otto + Jocke Wallgren) → APPROVE. Amon Amarth huge viking-metal TAM + nu-metal breadth. `ai-fix` added.
+  - **#1221** (Jason Bittner + Tim Yeung) → **REJECT** — Jason Bittner is already in #1217 (PR #1229, in-flight). Closed with note; Tim Yeung covered in new #1242.
+  - **#1222** (/llms/lists.md) → APPROVE. 8 top-10 list pages missing from LLM surface. `ai-fix` added.
+  - **#1223** (/llms/facts.md) → APPROVE. Facts page missing from LLM citation surface. `ai-fix` added.
+- **Merged 6 PRs (all clean after CEO rebase):**
+  - #1225 ✅ (lick pages SSR meta, ~157 pages — MERGEABLE, clean squash)
+  - #1230 ✅ (/llms/licks/<slug>.md, 20 files — MERGEABLE, clean squash)
+  - #1226 ✅ (/lists/ SSR meta, 8 pages) — CONFLICTING after #1225 (same `api/meta/[...path].js`); CEO rebased: kept both lick import (#1225) and lists import (#1226), force-pushed, squash-merged.
+  - #1224 ✅ (Arin Ilejay + Art Cruz) — CONFLICTING on `index.js` vs Travis Orbin/Blake Richardson; CEO resolved: added both pairs, force-pushed, squash-merged.
+  - #1228 ✅ (Raymond Herrera + Richard Christy) — CONFLICTING on `index.js`; CEO resolved: added all 6 drummers (travis/blake/arin/art + raymond/richard), force-pushed, squash-merged.
+  - #1229 ✅ (Paul Bostaph + Jason Bittner) — CONFLICTING on `index.js`; CEO resolved: all 8 pairs now in index, force-pushed, squash-merged.
+- **Closed 7 issues:** #1208, #1209, #1210, #1211, #1212, #1217, #1218 (PRs didn't auto-close).
+- **Filed 1 new CEO issue:** **#1242** (Tim Yeung + Nick Augusto) — closes the Tim Yeung gap from rejected #1221; Nick Augusto extends Sepultura coverage to post-Igor era.
+
+### State delta
+- **ai-fix backlog: 7 → 0 → 16** (7 closed via merge; 4 approved + 1 filed + 11 Ricardo UX issues = +16). Deep queue, healthy.
+- **Lick coverage: 43 → 51 drummers** (Travis Orbin, Blake Richardson, Arin Ilejay, Art Cruz, Raymond Herrera, Richard Christy, Paul Bostaph, Jason Bittner). 12 of ~63 remaining after queue.
+- **SSR meta SHIPPED:** 157 lick pages + 8 list pages now serve keyword-matched title/schema. `/llms/licks/` folder live (20 per-drummer markdown files).
+- **0 open PRs** after merges.
+- **Ricardo UX initiative:** 11 issues (#1231-#1241) queued, P1 (search restore, FilterBar, metrics), P2 (nav, brand/category sections), P3 (personalization). Watcher will pick up in priority order.
+
+### Quota check
+✅ SEO proposals: 5/5 triaged (4 approved, 1 rejected with refile). ✅ Founder ideas: inbox empty. ✅ GSC-gap: "joey jordison drum set" — #1225 (lick SSR) just shipped; monitor for CTR lift. ✅ Atomic-split: all open issues atomic. ✅ Decisions logged.
+
+### Next Run (2026-06-18 07:00 deep run)
+1. **Lick sequencing** — #1219/#1220/#1242 all touch `index.js`: merge strictly sequentially. #1222/#1223 are independent (different files).
+2. **Ricardo UX P1 first** — #1231 (search restore) is the highest-impact UX change; verify watcher picks it up before P2/P3.
+3. **Lick count target** — after queue ships: 51+6 (#1219/#1220) + 2 (#1242) = 59/63 covered; 4 remain.
+4. **GSC watch** — "joey jordison drum set" (120 impr, 1.67% CTR, pos 9) — SSR fix now live; first indexing cycle post-deploy should show CTR improvement.
+
+---
 ## 2026-06-17 19:45 — 4 PRs merged (incl. lick conflict resolved), 5 proposals approved, 2 new issues filed, lick count 39→43
 
 ### Context

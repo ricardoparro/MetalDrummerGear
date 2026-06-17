@@ -54,6 +54,8 @@ import paulBostaphLicks from './paul-bostaph.js';
 import jasonBittnerLicks from './jason-bittner.js';
 import johnOttoLicks from './john-otto.js';
 import jockeWallgrenLicks from './jocke-wallgren.js';
+import frostLicks from './frost.js';
+import darayLicks from './daray.js';
 
 export const SIGNATURE_LICKS = {
   ...mattGreinerLicks,
@@ -109,6 +111,8 @@ export const SIGNATURE_LICKS = {
   ...jasonBittnerLicks,
   ...johnOttoLicks,
   ...jockeWallgrenLicks,
+  ...frostLicks,
+  ...darayLicks,
 };
 
 export default SIGNATURE_LICKS;

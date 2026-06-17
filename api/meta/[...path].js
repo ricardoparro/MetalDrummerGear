@@ -209,12 +209,28 @@ function getMetaForPath(pathname) {
     const drummer2 = getDrummerBySlug(slug2);
     
     if (drummer1 && drummer2) {
+      const today = new Date().toISOString().split('T')[0];
       return {
         title: `${drummer1.name} vs ${drummer2.name} — Gear Comparison | ${SITE_NAME}`,
         description: `Compare ${drummer1.name} (${drummer1.band}) vs ${drummer2.name} (${drummer2.band}) — drums, cymbals, hardware side-by-side.`,
         image: `${BASE_URL}/api/og/compare?d1=${slug1}&d2=${slug2}`,
         type: 'article',
         url: `${BASE_URL}/vs/${slug1}-vs-${slug2}`,
+        articleSchema: {
+          headline: `${drummer1.name} vs ${drummer2.name} — Gear Comparison`,
+          description: `Compare ${drummer1.name} (${drummer1.band}) vs ${drummer2.name} (${drummer2.band}) — drums, cymbals, hardware side-by-side.`,
+          author: 'MetalForge Editorial',
+          datePublished: '2026-03-05',
+          dateModified: today,
+          image: `${BASE_URL}/api/og/compare?d1=${slug1}&d2=${slug2}`,
+          articleSection: 'Drummer Comparisons',
+          keywords: [drummer1.name, drummer2.name, drummer1.band, drummer2.band, 'drummer comparison', 'drum gear'],
+        },
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: 'Drummer Comparisons', url: `${BASE_URL}/vs` },
+          { name: `${drummer1.name} vs ${drummer2.name}`, url: `${BASE_URL}/vs/${slug1}-vs-${slug2}` },
+        ],
       };
     }
   }
@@ -561,9 +577,32 @@ ${JSON.stringify(schema, null, 2)}
   </script>`;
 }
 
+// Generate BreadcrumbList JSON-LD (Issue #1189)
+function generateBreadcrumbSchema(meta) {
+  if (!meta.breadcrumbSchema || !meta.breadcrumbSchema.length) return '';
+
+  const schema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: meta.breadcrumbSchema.map((item, index) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      name: item.name,
+      item: item.url,
+    })),
+  };
+
+  return `
+  <!-- BreadcrumbList Structured Data (Issue #1189) -->
+  <script type="application/ld+json">
+${JSON.stringify(schema, null, 2)}
+  </script>`;
+}
+
 // Generate HTML with meta tags
 function generateMetaHtml(meta, originalUrl) {
   const articleSchemaScript = generateArticleSchema(meta);
+  const breadcrumbSchemaScript = generateBreadcrumbSchema(meta);
   
   return `<!DOCTYPE html>
 <html lang="en" prefix="og: https://ogp.me/ns#">
@@ -612,6 +651,7 @@ function generateMetaHtml(meta, originalUrl) {
   <!-- Theme Color -->
   <meta name="theme-color" content="#dc2626">
   ${articleSchemaScript}
+  ${breadcrumbSchemaScript}
   <!-- Redirect browsers to actual SPA -->
   <noscript>
     <meta http-equiv="refresh" content="0; url=${originalUrl}">

@@ -468,6 +468,9 @@ export default function handler(req, res) {
     // Slugs sourced from ALBUM_ARTICLES so they stay 1:1 with the committed files.
     // Issue #1072: same real dateModified as the article HTML page (1:1 data).
     ...Object.keys(ALBUM_ARTICLES).map(slug => ({ loc: `/llms/articles/${slug}.md`, lastmod: ALBUM_ARTICLES[slug]?.dateModified, priority: '0.4', changefreq: 'monthly' })),
+    // Issue #1201: per-technique deep-dive Markdown files for AI citation.
+    // One file per technique slug mirrors the per-drummer pattern above.
+    ...getAllTechniqueSlugs().map(slug => ({ loc: `/llms/technique/${slug}.md`, priority: '0.5', changefreq: 'monthly' })),
   ];
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">

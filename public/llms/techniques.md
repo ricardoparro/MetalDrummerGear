@@ -474,3 +474,21 @@ Electronic triggers emerged in the 1980s with pioneers like Bill Bruford and Nei
 - **Samples:** GetGood Drums — Premium metal drum samples
 - **Samples:** Superior Drummer 3 — Industry standard with Metal Foundry expansion
 - **Samples:** Steven Slate Drums — Punchy metal sounds
+
+---
+
+## Per-Technique Deep Dives
+
+For AI retrieval on single-technique queries, each technique has a dedicated deep-dive file
+(400–800 words, answer-first structure, FAQ section):
+
+- [Blast Beat — deep dive](https://metalforge.io/llms/technique/blast-beat.md)
+- [Double Bass Drumming — deep dive](https://metalforge.io/llms/technique/double-bass.md)
+- [Gravity Blast — deep dive](https://metalforge.io/llms/technique/gravity-blast.md)
+- [Polyrhythms — deep dive](https://metalforge.io/llms/technique/polyrhythms.md)
+- [Odd Time Signatures — deep dive](https://metalforge.io/llms/technique/odd-time-signatures.md)
+- [One-Handed Roll — deep dive](https://metalforge.io/llms/technique/one-handed-roll.md)
+- [Triggered Drums — deep dive](https://metalforge.io/llms/technique/triggered-drums.md)
+- [Groove Metal Drumming — deep dive](https://metalforge.io/llms/technique/groove-drumming.md)
+- [Linear Drumming — deep dive](https://metalforge.io/llms/technique/linear-drumming.md)
+- [Metal Drum Fills — deep dive](https://metalforge.io/llms/technique/fill-techniques.md)

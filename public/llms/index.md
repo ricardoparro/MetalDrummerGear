@@ -162,6 +162,28 @@ Clean Markdown gear breakdowns for every album drum-setup and "what's in <drumme
 
 ---
 
+## Techniques (detailed)
+
+Per-technique deep-dive files (400–800 words each) optimised for AI retrieval on definitional queries
+like "what is a blast beat?" or "how to play double bass drums?".
+
+| Technique | File |
+|-----------|------|
+| Blast Beat | [blast-beat.md](https://metalforge.io/llms/technique/blast-beat.md) |
+| Double Bass Drumming | [double-bass.md](https://metalforge.io/llms/technique/double-bass.md) |
+| Gravity Blast | [gravity-blast.md](https://metalforge.io/llms/technique/gravity-blast.md) |
+| Polyrhythms | [polyrhythms.md](https://metalforge.io/llms/technique/polyrhythms.md) |
+| Odd Time Signatures | [odd-time-signatures.md](https://metalforge.io/llms/technique/odd-time-signatures.md) |
+| One-Handed Roll | [one-handed-roll.md](https://metalforge.io/llms/technique/one-handed-roll.md) |
+| Triggered Drums | [triggered-drums.md](https://metalforge.io/llms/technique/triggered-drums.md) |
+| Groove Metal Drumming | [groove-drumming.md](https://metalforge.io/llms/technique/groove-drumming.md) |
+| Linear Drumming | [linear-drumming.md](https://metalforge.io/llms/technique/linear-drumming.md) |
+| Metal Drum Fills | [fill-techniques.md](https://metalforge.io/llms/technique/fill-techniques.md) |
+
+See the [All Techniques index](https://metalforge.io/llms/techniques.md) for a combined overview.
+
+---
+
 ## Content Categories
 
 ### By Genre

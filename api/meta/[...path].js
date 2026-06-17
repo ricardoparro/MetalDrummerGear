@@ -11,6 +11,8 @@ import { drummers } from '../drummers/index.js';
 // Issue #1064: source unique meta + Article schema for the full album/kit article
 // corpus from the same data the sitemap uses (api/sitemap.js:8).
 import { ALBUM_ARTICLES } from '../../packages/frontend/data/albumArticles.js';
+// Issue #1172: band-specific SSR meta for /bands/<slug> and /bands index pages.
+import { bands as BAND_DATA } from '../../packages/frontend/data/bands.js';
 
 const BASE_URL = 'https://metalforge.io';
 const SITE_NAME = 'MetalForge';
@@ -426,6 +428,38 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/articles`,
+    };
+  }
+
+  // Issue #1172: /bands/<slug> — band-specific SSR title + description
+  const bandMatch = path.match(/^\/bands\/([a-z0-9-]+)$/);
+  if (bandMatch) {
+    const band = BAND_DATA[bandMatch[1]];
+    if (band) {
+      const drummerMember = band.members?.find(m => /drum/i.test(m.role));
+      const drummerName = drummerMember?.name;
+      return {
+        title: band.metaTitle || `${band.name} — Drummer, Drum Kit & Gear | ${SITE_NAME}`,
+        description: truncate(
+          band.metaDescription ||
+            `${band.name}${drummerName ? ` drummer ${drummerName}` : ''}: full lineup, drum gear, and discography. ${band.genres?.join(', ') || 'Metal'} band breakdown.`,
+          160
+        ),
+        image: DEFAULT_IMAGE,
+        type: 'profile',
+        url: `${BASE_URL}/bands/${bandMatch[1]}`,
+      };
+    }
+  }
+
+  // Issue #1172: /bands index
+  if (path === '/bands') {
+    return {
+      title: `Metal Bands & Their Drummers | ${SITE_NAME}`,
+      description: 'Browse metal bands and the drummers behind them — lineups, drum gear, and discographies.',
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url: `${BASE_URL}/bands`,
     };
   }
 

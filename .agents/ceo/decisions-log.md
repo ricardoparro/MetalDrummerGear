@@ -5,6 +5,44 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-16 17:39 UTC*
 
 ---
+## 2026-06-17 19:45 — 4 PRs merged (incl. lick conflict resolved), 5 proposals approved, 2 new issues filed, lick count 39→43
+
+### Context
+Evening run (19:45 UTC). 4 UNSTABLE/MERGEABLE PRs open (#1213-#1216). 5 new seo-proposals untriaged (#1208-#1212). ai-fix backlog was 4.
+
+### Actions taken
+- **Merged 4 PRs:**
+  - #1213 ✅ (Ray Luzier + Alex Bent licks — clean squash merge)
+  - #1216 ✅ (technique SSR meta, 20 pages — clean squash merge)
+  - #1215 ✅ (llms/technique/<slug>.md, 10 files — clean squash merge)
+  - #1214 ✅ (Shannon Larkin + Abe Cunningham licks) — **CONFLICTING** on `data/licks/index.js` after #1213 merged; resolved by CEO rebase onto main (added shannon/abe entries after ray/alex), force-pushed to branch, squash-merged.
+- **Closed 4 issues:** #1199, #1200, #1201, #1202 (PRs didn't auto-close).
+- **Triaged 5 seo-proposals → all APPROVED → `ai-fix`:**
+  - **#1208** (Arin Ilejay A7X + Art Cruz LoG) — A7X/LoG are massive TAM; Art Cruz compounds existing Chris Adler LoG coverage. APPROVE.
+  - **#1209** (lick SSR meta, 157 pages) — **highest priority**: `/licks`, `/drummers/<slug>/licks`, `/drummers/<slug>/licks/<lick-slug>` all serve generic meta; same bug class as #1202 (just shipped). 157 pages is the largest SSR-gap batch yet. APPROVE.
+  - **#1210** (/lists/<slug> SSR meta, 8 pages) — high-intent top-10 queries ("fastest metal drummers") with no keyword-matched meta; atomic same-file fix. APPROVE.
+  - **#1211** (Travis Orbin Periphery + Blake Richardson BTBAM) — djent/prog tier, compounds just-shipped /llms/technique/ files. APPROVE.
+  - **#1212** (Raymond Herrera Fear Factory + Richard Christy Death) — industrial metal + tech-death gaps; Richard Christy/Death is heavily searched. APPROVE.
+- **Filed 2 new CEO issues:**
+  - **#1217** (Paul Bostaph Slayer + Jason Bittner Shadows Fall licks) — highest-TAM pair from remaining 14 uncovered: Paul Bostaph fills the thrash-revival gap (compounds Dave Lombardo Slayer coverage); Bittner fills NWOAHM metalcore.
+  - **#1218** (/llms/licks/<slug>.md, top 20 drummers) — per-drummer lick markdown for AI citation; mirrors just-shipped /llms/technique/<slug>.md; closes last per-type gap in the LLM surface.
+
+### State delta
+- **ai-fix backlog: 4 → 0 → 7** (4 closed via merge; 5 approved + 2 filed = +7). Healthy deep queue.
+- **Lick coverage: 39 → 43** (Ray Luzier, Alex Bent, Shannon Larkin, Abe Cunningham). 20 of 63 remaining.
+- **Technique lane SHIPPED:** 20 pages now serve keyword-matched SSR meta (#1216); 10 per-technique LLM files live (#1215).
+- **0 open PRs** after merges.
+
+### Quota check
+✅ SEO proposals: 5/5 triaged (all approved). ✅ Founder ideas: inbox empty. ✅ GSC-gap: "joey jordison drum set" — #1209 (lick SSR fix, 157 pages) further compounds the fix batch already indexed. ✅ Atomic-split: all 7 open issues atomic. ✅ Deep-run quota: 3 lick batches (#1208/#1211/#1212) + 1 LLM (#1218) + 1 SSR pair (#1209/#1210) filed/approved. ✅ Decisions logged.
+
+### Next Run (2026-06-18 07:00 deep run)
+1. **PR sequencing** — lick batches #1208/#1211/#1212/#1217 all touch `index.js`: merge strictly sequentially. #1209 and #1210 both touch `api/meta/[...path].js`: merge sequentially, #1209 first (157 pages > 8 pages).
+2. **Lick count target** — after queue ships: 49/63 covered; 14 remaining. Next batch: Frost (Satyricon) + Tim Yeung (Morbid Angel) or Jocke Wallgren (Amon Amarth) + Nick Augusto (Sepultura).
+3. **GSC monitoring** — "joey jordison drum set" (120 impr, 1.67% CTR, pos 9); "aquiles priester drum kit" (7 impr, 0% CTR, pos 5.1) — monitor for CTR improvement as batch fixes index.
+4. **#1218 (llms/licks/)** — verify generator is independent from lick index.js writes (different files, no conflict risk).
+
+---
 ## 2026-06-17 17:30 — 4 proposals approved, 3 PRs merged, lick count 35→39
 
 ### Context

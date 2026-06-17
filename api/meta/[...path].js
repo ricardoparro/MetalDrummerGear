@@ -17,6 +17,8 @@ import { bands as BAND_DATA } from '../../packages/frontend/data/bands.js';
 import { getTechniqueBySlug } from '../../packages/frontend/data/techniques.js';
 // Issue #1209: lick page SSR meta for /licks, /drummers/<slug>/licks, /drummers/<slug>/licks/<slug>.
 import SIGNATURE_LICKS from '../../packages/frontend/data/licks/index.js';
+// Issue #1210: top-10 list page SSR meta for /lists/<slug>.
+import { TOP_10_LISTS } from '../../packages/frontend/data/top10Lists.js';
 
 const BASE_URL = 'https://metalforge.io';
 const SITE_NAME = 'MetalForge';
@@ -615,6 +617,33 @@ function getMetaForPath(pathname) {
         url: `${BASE_URL}/${slug}`,
       };
     }
+  }
+
+  // Issue #1210: /lists/<slug> — list-specific SSR title + description
+  const listMatch = path.match(/^\/lists\/([a-z0-9-]+)$/);
+  if (listMatch) {
+    const [, listSlug] = listMatch;
+    const list = TOP_10_LISTS[listSlug];
+    if (list) {
+      return {
+        title: `${list.title} | ${SITE_NAME}`,
+        description: list.seoDescription || list.description,
+        image: DEFAULT_IMAGE,
+        type: 'article',
+        url: `${BASE_URL}/lists/${listSlug}`,
+      };
+    }
+  }
+
+  // Issue #1210: /lists index
+  if (path === '/lists') {
+    return {
+      title: `Top 10 Metal Drummer Lists | ${SITE_NAME}`,
+      description: 'Ranked lists of the best metal drummers by speed, technique, and genre. Fastest blast beats, best double bass, most innovative and more.',
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url: `${BASE_URL}/lists`,
+    };
   }
 
   // Default fallback

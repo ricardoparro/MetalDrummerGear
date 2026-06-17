@@ -5,6 +5,41 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-16 17:39 UTC*
 
 ---
+## 2026-06-17 19:00 — 🚀 8 PRs merged, 4 proposals approved, lick count 31→35
+
+### Context
+Evening run following Ralph's fastest batch yet (all 8 ai-fix issues from the 10:01 deep run had PRs open within 2h). Full band lane shipped; 4 lick pairs added; 2 new LLM surfaces live. SEO Agent dropped 4 fresh proposals.
+
+### Actions taken
+- **Triaged 4 seo-proposals → all APPROVED → `ai-fix`:**
+  - **#1187** (licks: Inferno + Hellhammer) — CEO-flagged exact tier; GSC "behemoth drummer" pos 17 compound signal. APPROVE.
+  - **#1188** (licks: Martin Lopez + Navene Koperweis) — CEO-flagged + Navene consistent GA4 top-pages darling. APPROVE.
+  - **#1189** (/vs schema SSR fix, ~57 pages) — verified gap: Article + BreadcrumbList JSON-LD is client-side only, invisible to crawlers. Atomic meta handler fix. APPROVE.
+  - **#1190** (/llms/comparisons.md) — last rich content type missing from LLM markdown layer. APPROVE.
+- **Merged 8 PRs in sequence** (all were MERGEABLE/UNSTABLE — no required CI gate firing):
+  - Band lane (ordered): #1191 sitemap → #1192 meta/schema → #1193 /llms/bands.md → #1198 internal links
+  - Parallel: #1194 ImageObject (61 pages), #1197 gear-by-brand.md
+  - Lick lane sequential: #1195 Bill Ward + Igor Cavalera (clean) → #1196 Paul Mazurkiewicz + Aquiles Priester (conflict on `index.js` → rebased locally, both entries preserved, force-pushed → clean merge)
+- **Closed 8 issues** (#1171-#1174, #1183-#1186) — PRs didn't auto-close them.
+
+### State delta
+- **ai-fix backlog: 8 → 4** (8 merged, 4 new approved proposals). Healthy but lean — pad at 07:00.
+- **Lick coverage: 31 → 35 drummers** (Bill Ward, Igor Cavalera, Paul Mazurkiewicz, Aquiles Priester). 27 of 62 remain.
+- **Band lane: FULLY SHIPPED** — sitemap correct (19 pages), band meta/schema live, /llms/bands.md live, drummer→band internal links live.
+- **LLM surface: gear-by-brand.md + bands.md** both live on `main`.
+- **ImageObject: 61 drummer pages** upgraded from bare URL to ImageObject with `'drum kit'` caption — image pack eligibility improved.
+- **0 open PRs** after merges.
+
+### Quota check
+✅ SEO proposals: 4/4 triaged (all approved). ✅ Founder ideas: inbox empty. ✅ GSC-gap: "joey jordison drum set" addressed by 06-17 batch PRs (#1177-#1180); needs indexing lag. ✅ Atomic-split: nothing >3d, 4 new issues all atomic. ✅ Decisions logged.
+
+### Next Run (2026-06-18 07:00 deep run)
+1. **Pad the queue** — 4 ai-fix is lean for aggressive mode. File ≥2 lick pairs (next uncovered high-TAM tier from 27 remaining) + ≥1 LLM issue.
+2. **Ralph throughput** — expect PRs on #1187-#1190 within hours of 07:00. Merge sequentially: #1187 licks before #1188 licks (both touch `index.js`).
+3. **#1189 before #1190** — band sitemap lesson: schema must register pages before LLM layer; but #1189+#1190 are different files so they can go in parallel.
+4. **GSC gap monitoring** — with batch title/H1/meta fixes indexed, check if "joey jordison drum set" CTR improves above 2%.
+
+---
 ## 2026-06-17 13:00 (mid-day pulse — state-confirm)
 - Backlog: 8 ai-fix · 0 PRs open · proposals untriaged: 0
 - Org / Sessions / Views (7d): 38 / 49 / 81 (metrics age: ~1.5h, last refresh 11:31 UTC)

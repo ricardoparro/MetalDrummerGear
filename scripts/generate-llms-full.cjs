@@ -203,6 +203,17 @@ ${extBio.sections.styleAndInfluences.content}
 `;
 }
 
+// Append supplemental LLM content files (lists, techniques, etc.)
+const supplementalFiles = ['lists.md'];
+for (const fname of supplementalFiles) {
+  const fpath = path.join(__dirname, '../public/llms', fname);
+  if (fs.existsSync(fpath)) {
+    output += `\n================================================================================\n\n`;
+    output += fs.readFileSync(fpath, 'utf-8');
+    output += '\n';
+  }
+}
+
 // Add footer
 output += `
 ================================================================================

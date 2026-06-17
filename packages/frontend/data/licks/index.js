@@ -36,6 +36,8 @@ import billWardLicks from './bill-ward.js';
 import igorCavaleraLicks from './igor-cavalera.js';
 import paulMazurkiewiczLicks from './paul-mazurkiewicz.js';
 import aquilesPriesterLicks from './aquiles-priester.js';
+import martinLopezLicks from './martin-lopez.js';
+import naveneKoperwiesLicks from './navene-koperweis.js';
 
 export const SIGNATURE_LICKS = {
   ...mattGreinerLicks,
@@ -73,6 +75,8 @@ export const SIGNATURE_LICKS = {
   ...igorCavaleraLicks,
   ...paulMazurkiewiczLicks,
   ...aquilesPriesterLicks,
+  ...martinLopezLicks,
+  ...naveneKoperwiesLicks,
 };
 
 export default SIGNATURE_LICKS;

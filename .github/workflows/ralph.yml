@@ -58,7 +58,9 @@ jobs:
       - name: Drain the issue queue
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          # Subscription auth (Pro/Max) instead of pay-per-use API billing.
+          # CLI uses the OAuth token when ANTHROPIC_API_KEY is absent.
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           REPO: ${{ github.repository }}
           GITHUB_RUN_ID: ${{ github.run_id }}
         run: |

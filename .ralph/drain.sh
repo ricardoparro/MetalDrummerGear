@@ -13,7 +13,9 @@
 #   (b) the wall-clock guard (default 320 min) trips — GitHub hard-kills jobs at
 #       6h, so we exit cleanly before that and the next scheduled run resumes.
 #
-# Env: REPO, GH_TOKEN, ANTHROPIC_API_KEY. Optional: WALL_CAP_MIN, PER_ISSUE_TIMEOUT.
+# Env: REPO, GH_TOKEN, CLAUDE_CODE_OAUTH_TOKEN (subscription auth — set instead of
+#      ANTHROPIC_API_KEY to bill the Pro/Max plan, not the API).
+#      Optional: WALL_CAP_MIN, PER_ISSUE_TIMEOUT.
 set -uo pipefail
 
 REPO="${REPO:?REPO required}"

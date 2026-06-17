@@ -79,7 +79,9 @@ jobs:
 
       - name: Run CEO agent via Claude Code CLI
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          # Subscription auth (Pro/Max) instead of pay-per-use API billing.
+          # CLI uses the OAuth token when ANTHROPIC_API_KEY is absent.
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GOOGLE_APPLICATION_CREDENTIALS: ${{ runner.temp }}/gcp/metrics.json
           GA4_PROPERTY_ID: ${{ secrets.GA4_PROPERTY_ID }}

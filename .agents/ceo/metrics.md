@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-17 22:32 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-17 23:33 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,32 +8,32 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 39 |
-| Sessions | 51 |
-| Page views | 82 |
-| Engagement rate | 64.71% |
-| Avg session (s) | 94 |
+| Active users | 41 |
+| Sessions | 53 |
+| Page views | 85 |
+| Engagement rate | 62.26% |
+| Avg session (s) | 91 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 25 | 8 |
+| / | 26 | 9 |
 | /drummer/2 | 13 | 10 |
 | /drummer/32 | 4 | 5 |
 | /drummer/34 | 3 | 3 |
 | /drummers | 3 | 1 |
 | /drummer/16 | 2 | 2 |
+| /drummer/46 | 2 | 2 |
 | /drummer/55 | 2 | 1 |
 | /drummer/flo-mounier | 2 | 2 |
 | /drummers/george-kollias/licks/george-kollias-polyrhythmic-mayhem | 2 | 1 |
-| /articles | 1 | 1 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
 | Organic Search | 36 | 31 |
-| Direct | 13 | 7 |
-| Unassigned | 4 | 3 |
+| Direct | 14 | 8 |
+| Unassigned | 5 | 4 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

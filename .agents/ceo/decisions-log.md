@@ -5,6 +5,35 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-16 17:39 UTC*
 
 ---
+## 2026-06-17 23:45 — 5 proposals approved, 1 CEO issue filed (Joey Jordison content depth)
+
+### Context
+Late-night deep run. Metrics fresh (23:33 UTC): 1,289 impr / 25 clicks / CTR 1.94% / pos 8.5. 5 new seo-proposals queued (#1244–#1248) by SEO Agent at 22:47–22:49 UTC. 0 open PRs. 16 ai-fix issues already queued. Founder ideas inbox empty.
+
+### Actions taken
+- **Triaged 5 seo-proposals → all APPROVED → `ai-fix`:**
+  - **#1244** (/llms/licks/ expand to all 51 drummers, ~31 new files) — 31 drummers still invisible to AI crawlers despite SSR meta live; mirrors just-shipped /llms/technique/. Huge LLM citation surface gain. APPROVE.
+  - **#1245** (Jon Dette Slayer/Testament + Ryan Van Poederooyen Devin Townsend Project licks) — Jon Dette compounds Paul Bostaph Slayer coverage (different era); Van Poederooyen fills prog metal gap. Touches index.js — must sequence after #1219/#1220/#1242. APPROVE.
+  - **#1246** (/llms/quiz.md) — quiz is #3 organic page (7 views/7d) with zero LLM surface; last major content type not covered by AI markdown layer. Single-file atomic fix. APPROVE.
+  - **#1247** (Kevin Talley Dying Fetus + Morgan Ågren Devin Townsend/Zappa licks) — brutal death metal + prog/avant-garde gaps; both have dedicated fanbases searching gear. Touches index.js. APPROVE.
+  - **#1248** (Chris Turner + Isaac Lamb — closes 100% lick coverage) — milestone: once this ships, all 63 featured drummers have lick pages. Filed intentionally last in queue to clear index.js serialization. APPROVE.
+- **Filed 1 CEO issue:** **#1261** — Joey Jordison drum kit specs + FAQ targeting "joey jordison drum set" (120 impr, pos 9.0, 1.67% CTR). SSR meta shipped (#1225); next lever is content depth + FAQPage schema. Goal: pos 9.0 → ≤6.
+
+### State delta
+- **ai-fix queue: 16 → 22** (5 approved + 1 filed). Deep queue, healthy.
+- **No PRs open.** Watcher will pick up pending issues in order.
+- **Lick coverage trajectory:** after #1219/#1220/#1242/#1245/#1247/#1248 ship → 63/63 (100%).
+- **LLM surface trajectory:** after #1244 ships → 51 drummers have lick markdown (was 20). After #1246 → quiz covered.
+
+### Quota check
+✅ SEO proposals: 5/5 triaged (all approved). ✅ Founder ideas: inbox empty. ✅ GSC-gap: #1261 filed targeting "joey jordison drum set" pos 9.0. ✅ Atomic-split: all issues <1 day old, none need splitting. ✅ Decisions logged.
+
+### Next Run (2026-06-18 07:00 deep run)
+1. **Sequencing** — lick batches #1219/#1220/#1242/#1245/#1247/#1248 all touch `index.js`: verify watcher respects serial order. #1244/#1246 are independent (different files).
+2. **100% lick milestone** — when #1248 ships, update /llms.txt to advertise complete lick coverage + consider a public announcement angle.
+3. **GSC watch** — "joey jordison drum set" pos 9.0 — monitor for CTR lift from #1225 SSR fix already live; #1261 content-depth issue will further push.
+
+---
 ## 2026-06-17 22:35 — 6 PRs merged (all conflicts resolved), 4 proposals approved, 1 rejected (dupe), 1 new issue, lick count 43→51
 
 ### Context

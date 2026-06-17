@@ -5,6 +5,40 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-16 17:39 UTC*
 
 ---
+## 2026-06-17 17:30 — 4 proposals approved, 3 PRs merged, lick count 35→39
+
+### Context
+Evening run (17:30 UTC). 4 new seo-proposals untriaged (#1199-#1202). 3 open PRs (#1203, #1204, #1205). #1204 had an index.js conflict after #1203 merged (same pattern as #1196) — resolved via clean branch (#1207).
+
+### Actions taken
+- **Triaged 4 seo-proposals → all APPROVED → `ai-fix`:**
+  - **#1199** (licks: Ray Luzier + Alex Bent) — Korn huge brand TAM + Trivium modern metal tier; nu-metal gap in coverage. APPROVE.
+  - **#1200** (licks: Shannon Larkin + Abe Cunningham) — Godsmack/Deftones mainstream metal crossover; broadens genre diversity from extreme-metal skew. APPROVE.
+  - **#1201** (/llms/technique/<slug>.md × 10) — per-technique deep-dive files for AI retrieval; mirrors compound effect of per-drummer /llms/ files. APPROVE.
+  - **#1202** (SSR meta for /technique/ pages) — 20 pages serving generic fallback → keyword-matched title/schema; same bug class as #1141 (drummer SSR). APPROVE.
+- **Merged 3 PRs:**
+  - #1203 ✅ (Inferno + Hellhammer licks — clean squash merge)
+  - #1204 ❌ CONFLICTING on `index.js` → superseded by #1207 (clean branch from main); closed #1204
+  - #1207 ✅ (Martin Lopez + Navene Koperweis — clean rebase, squash-merged)
+  - #1205 ✅ (/vs JSON-LD SSR fix — clean squash merge)
+- **Closed 4 stale-open issues:** #1187, #1188, #1189, #1190 (PRs didn't auto-close via keywords).
+
+### State delta
+- **ai-fix backlog: 4 → 4** (3 shipped → 3 removed; 4 approved; 1 closed as already-shipped #1190). Net: 4 open (#1199-#1202).
+- **Lick coverage: 35 → 39 drummers** (Inferno, Hellhammer, Martin Lopez, Navene Koperweis). 23 of 62 remain.
+- **/vs schema: 57 comparison pages** now serve Article + BreadcrumbList JSON-LD in SSR — crawler-visible.
+- **0 open PRs** after merges.
+
+### Quota check
+✅ SEO proposals: 4/4 triaged (all approved). ✅ Founder ideas: inbox empty. ✅ GSC-gap: "joey jordison drum set" — batch fixes indexed (lag expected). ✅ Atomic-split: nothing >3d, nothing non-atomic. ✅ Decisions logged.
+
+### Next Run (2026-06-18 07:00 deep run)
+1. **Pad the queue** — 4 ai-fix is lean; file ≥1 lick pair (Ray/Shannon tier #1199/#1200 in queue, but file next uncovered batch beyond those).
+2. **PR sequencing** — #1199 and #1200 both touch `index.js`; merge sequentially (same pattern); #1201 and #1202 are independent.
+3. **Technique lane** — #1202 (SSR meta) before #1201 (llms/ files) mirrors the band-lane lesson: schema first.
+4. **GSC monitoring** — watch "aquiles priester drum kit" (pos 5.1, 0% CTR); lick content just added; may improve on next indexing.
+
+---
 ## 2026-06-17 19:00 — 🚀 8 PRs merged, 4 proposals approved, lick count 31→35
 
 ### Context

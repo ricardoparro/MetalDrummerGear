@@ -5953,7 +5953,13 @@ function DrummerComparisonsCTA({ drummerSlug, drummerName, allDrummers, theme })
  */
 function buildQuickFacts(drummer) {
   const rows = [];
-  if (drummer.band) rows.push({ label: 'Band', value: drummer.band });
+  if (drummer.band) {
+    // Issue #1186: find the first band in the string that has a band page
+    const bandSlug = drummer.band.split(' / ')
+      .map(b => toSlug(b.trim()))
+      .find(slug => hasBand(slug)) || null;
+    rows.push({ label: 'Band', value: drummer.band, bandSlug });
+  }
   if (drummer.genre) rows.push({ label: 'Genre', value: drummer.genre });
   if (drummer.country) rows.push({ label: 'Nationality', value: drummer.country, itemProp: 'nationality' });
 
@@ -6058,7 +6064,19 @@ function DrummerQuickFacts({ drummer, theme, isMobile }) {
                     {...(row.itemProp ? { itemProp: row.itemProp } : {})}
                     style={{ color: theme.text, padding: cellPad, verticalAlign: 'top' }}
                   >
-                    {row.value}
+                    {row.bandSlug ? (
+                      <a
+                        href={`/bands/${row.bandSlug}`}
+                        onClick={(e) => {
+                          e.preventDefault();
+                          window.history.pushState(null, '', `/bands/${row.bandSlug}`);
+                          window.dispatchEvent(new PopStateEvent('popstate'));
+                        }}
+                        style={{ color: theme.primary, textDecoration: 'none' }}
+                      >
+                        {row.value}
+                      </a>
+                    ) : row.value}
                   </td>
                 </tr>
               ))}
@@ -6089,7 +6107,11 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
   const drummerSlug = toSlug(drummer.name);
-  
+  // Issue #1186: primary band slug for linking header band name to band page
+  const primaryBandSlug = drummer.band
+    ? drummer.band.split(' / ').map(b => toSlug(b.trim())).find(slug => hasBand(slug)) || null
+    : null;
+
   // Fix for Issue #640: Wait for extended bios module to load before checking
   // Similar fix as #541 - prevents race condition where module isn't loaded yet
   const [hasBio, setHasBio] = useState(false);
@@ -6156,7 +6178,21 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
             <Text style={[styles.detailTagline, { color: theme.secondaryText }]} accessibilityRole="header" aria-level={2}>
               {drummer.name} Drum Kit, Gear & Setup
             </Text>
-            <Text style={[styles.detailBand, { color: theme.secondaryText }]}>{drummer.band}</Text>
+            {Platform.OS === 'web' && primaryBandSlug ? (
+              <a
+                href={`/bands/${primaryBandSlug}`}
+                onClick={(e) => {
+                  e.preventDefault();
+                  window.history.pushState(null, '', `/bands/${primaryBandSlug}`);
+                  window.dispatchEvent(new PopStateEvent('popstate'));
+                }}
+                style={{ textDecoration: 'none' }}
+              >
+                <Text style={[styles.detailBand, { color: theme.primary }]}>{drummer.band}</Text>
+              </a>
+            ) : (
+              <Text style={[styles.detailBand, { color: theme.secondaryText }]}>{drummer.band}</Text>
+            )}
             <GenreTags genres={drummer.genres} size="large" />
             <Text style={[styles.detailMeta, { color: theme.secondaryText }]}>{drummer.country}</Text>
           </View>

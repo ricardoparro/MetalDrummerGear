@@ -32,6 +32,8 @@ import nickoMcbrainLicks from './nicko-mcbrain.js';
 import scottTravisLicks from './scott-travis.js';
 import mikkeyDeeLicks from './mikkey-dee.js';
 import dirkVerbeurenLicks from './dirk-verbeuren.js';
+import billWardLicks from './bill-ward.js';
+import igorCavaleraLicks from './igor-cavalera.js';
 
 export const SIGNATURE_LICKS = {
   ...mattGreinerLicks,
@@ -65,6 +67,8 @@ export const SIGNATURE_LICKS = {
   ...scottTravisLicks,
   ...mikkeyDeeLicks,
   ...dirkVerbeurenLicks,
+  ...billWardLicks,
+  ...igorCavaleraLicks,
 };
 
 export default SIGNATURE_LICKS;

@@ -5,6 +5,41 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-16 17:39 UTC*
 
 ---
+## 2026-06-17 (Wednesday) — 10:01 Deep Run — 🚀 Ralph on GitHub Actions + 5 PRs merged + 4 new issues filed
+
+### Context
+First deep run with Ralph fully migrated to GitHub Actions (PR#1167/#1165, merged overnight) and scope broadened to ALL eligible issues (PR#1170). Overnight: 9 PRs merged including lick batches (#1166/#1168/#1169: Jay Weinberg, Gavin Harrison, Nicko McBrain, Scott Travis, Mikkey Dee, Dirk Verbeuren), the auth OAuth migration (#1182), and #1164 llms/*.md H1 fix. This is the first run where the implementer-bandwidth bottleneck (#909/#1060) is structurally resolved.
+
+### Actions taken
+- **Merged 5 CLEAN PRs in sequence**: #1176 (robots.txt /api/robots), #1177 (drummer title GSC head term, ~60 pages), #1178 (H1 + Quick Facts GSC terms, ~60 pages), #1179 (FAQ Q&A schema, ~60 pages), #1180 (meta description question-led, ~60 pages). All MERGEABLE; file overlap required sequential merge (#1177→#1178→#1179 touched `api/meta/[...path].js`).
+- **Closed 6 stale-open issues**: #1164 (PR #1181 already merged), #1146, #1158, #1161, #1162, #1163 (PRs didn't auto-close via keywords — closed manually with context).
+- **SEO proposals:** 0 untriaged — all 9 open `seo-proposal` issues already carried `ai-fix` (approved in prior runs or by SEO Agent auto-promotion).
+- **Founder inbox:** empty.
+- **GSC-gap quota:** "joey jordison drum set" (120 impr, 1.67% CTR, pos 9.0) — #1140 already CLOSED/COMPLETED; the batch title/H1/meta fixes (#1158-#1163) shipped today and will resolve this when indexed. Mandatory quota satisfied.
+- **Atomic-split sweep:** all 10 open ai-fix issues were 0 days old (filed yesterday). Nothing >3d open. No split needed.
+- **Filed 4 new issues** (backlog 4 → 8):
+  - **#1183** (licks: Bill Ward + Igor Cavalera, ~6 licks) — highest-TAM uncovered classic/roots tier (Black Sabbath + Sepultura). 31/61 drummers now have licks; 30 remain.
+  - **#1184** (licks: Paul Mazurkiewicz + Aquiles Priester, ~6 licks) — GSC-grounded (Aquiles pos 5.1, 0% CTR → adding lick content deepens page and pushes toward page 1) + death metal TAM.
+  - **#1185** (LLM: /llms/gear-by-brand.md) — AI citation surface for brand-grouped gear queries ("Which metal drummers use Pearl?"). Fills the brand-axis gap in the /llms/ surface.
+  - **#1186** (drummer→band internal links) — compound with the active band lane (#1171-#1172); adds crawler path drummer→band for PageRank flow.
+
+### State delta
+- **ai-fix backlog: 4 → 8** (drained: 5 closed + #1164; added: #1183-#1186). Healthy, active queue.
+- **0 open PRs** after the 5 merges. Ralph (GitHub Actions) will pick up the queue.
+- **Overnight shipped:** lick batches for Jay Weinberg, Gavin Harrison, Nicko McBrain, Scott Travis, Mikkey Dee, Dirk Verbeuren; llms/*.md H1 fix; OAuth auth; PR merger CI.
+- **Active band lane:** #1171-#1174 in queue (sitemap fix, meta/schema, /llms/bands.md, Person.image→ImageObject).
+- **GSC:** 1,289 impr / 25 clicks / 1.94% CTR / pos 8.5. CTR slightly down from last week (2.50%) — expected, batch fixes need indexing lag. Primary gap "joey jordison drum set" being addressed.
+
+### Quota check
+✅ SEO proposals: 0 untriaged. ✅ Founder ideas: inbox empty. ✅ GSC-gap: #1140 completed; batch fixes shipped. ✅ Atomic-split: nothing >3d, nothing non-atomic. ✅ Decisions logged. ✅ Deep-run quota: 3 programmatic (#1183/#1184/#1186) + 1 LLM (#1185) filed.
+
+### Next Run (2026-06-17 13:00 mid-day pulse)
+1. **Ralph throughput check** — with GitHub Actions live and broader scope, expect PRs on the 8-deep queue within hours. Merge any CLEAN ones.
+2. **Band lane sequencing** — honor #1171 (sitemap) before #1172 (meta/schema) since sitemap registers the pages; verify Ralph picks up the right order.
+3. **Lick coverage compound** — 30→34 drummers covered once #1183/#1184 ship; note the next uncovered high-TAM tier: Inferno (Behemoth, GSC "behemoth drummer" pos 17), Hellhammer (Mayhem), Martin Lopez (Opeth).
+4. **#1182 OAuth impact** — auth changed from API key → subscription OAuth; monitor agent runs for any auth failures.
+
+---
 ## 2026-06-16 (Tuesday) — 19:00 Evening — 🔓 GSC LIVE (126-day blind spot ends) + schema queue fully shipped
 
 ### Context

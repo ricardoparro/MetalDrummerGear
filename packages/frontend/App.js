@@ -17654,131 +17654,42 @@ function DrummerList({
         onNavigateToCompare={onNavigateToCompare}
         onNavigateToBeginnerGuide={onNavigateToBeginnerGuide}
       />
-      <View style={styles.actionButtonsRow}>
-        <TouchableOpacity
-          onPress={onNavigateToCompare}
-          style={[styles.compareButton, { backgroundColor: theme.card, borderColor: theme.border }]}
-          accessibilityRole="button"
-          accessibilityLabel="Compare drummers side by side"
+      {/* Explore Tools Strip - replaces 14-button wall (Issue #1232) */}
+      <View style={styles.exploreToolsContainer}>
+        <Text style={[styles.exploreToolsLabel, { color: theme.secondaryText }]}>Explore Tools</Text>
+        <ScrollView
+          horizontal
+          showsHorizontalScrollIndicator={false}
+          contentContainerStyle={styles.exploreToolsStrip}
         >
-          <Text style={[styles.compareButtonText, { color: theme.text }]}>Compare Drummers</Text>
-        </TouchableOpacity>
-        <TouchableOpacity
-          onPress={onNavigateToQuiz}
-          style={[styles.quizButton, { backgroundColor: theme.primary, borderColor: theme.primary }]}
-          accessibilityRole="button"
-          accessibilityLabel="Take the drummer personality quiz"
-        >
-          <Text style={[styles.quizButtonText, { color: theme.text }]}>🥁 Find Your Match</Text>
-        </TouchableOpacity>
-      </View>
-      <View style={[styles.actionButtonsRow, { marginTop: -8 }]}>
-        <TouchableOpacity
-          onPress={onNavigateToQuotes}
-          style={[styles.compareButton, { backgroundColor: theme.card, borderColor: theme.border }]}
-          accessibilityRole="button"
-          accessibilityLabel="Browse drummer interview quotes"
-        >
-          <Text style={[styles.compareButtonText, { color: theme.text }]}>💬 Quotes</Text>
-        </TouchableOpacity>
-        <TouchableOpacity
-          onPress={onNavigateToGearFinder}
-          style={[styles.quizButton, { backgroundColor: colors.buttons.secondary.bg, borderColor: colors.buttons.secondary.bg }]}
-          accessibilityRole="button"
-          accessibilityLabel="Search drummers by gear"
-        >
-          <Text style={[styles.quizButtonText, { color: colors.buttons.secondary.text }]}>🔍 Gear Finder</Text>
-        </TouchableOpacity>
-      </View>
-      <View style={[styles.actionButtonsRow, { marginTop: -8 }]}>
-        <TouchableOpacity
-          onPress={onNavigateToKitBuilder}
-          style={[styles.quizButton, { backgroundColor: theme.warning, borderColor: theme.warning }]}
-          accessibilityRole="button"
-          accessibilityLabel="Build your custom drum kit"
-        >
-          <Text style={[styles.quizButtonText, { color: theme.text }]}>🛠️ Kit Builder</Text>
-        </TouchableOpacity>
-        <TouchableOpacity
-          onPress={onNavigateToBpmTap}
-          style={[styles.quizButton, { backgroundColor: colors.buttons.secondary.bg, borderColor: colors.buttons.secondary.bg }]}
-          accessibilityRole="button"
-          accessibilityLabel="BPM tap calculator"
-        >
-          <Text style={[styles.quizButtonText, { color: colors.buttons.secondary.text }]}>🎵 BPM Tap</Text>
-        </TouchableOpacity>
-      </View>
-      <View style={[styles.actionButtonsRow, { marginTop: -8 }]}>
-        <TouchableOpacity
-          onPress={onNavigateToBirthdayCalendar}
-          style={[styles.compareButton, { backgroundColor: theme.card, borderColor: theme.border }]}
-          accessibilityRole="button"
-          accessibilityLabel="View drummer birthday calendar"
-        >
-          <Text style={[styles.compareButtonText, { color: theme.text }]}>🎂 Birthdays</Text>
-        </TouchableOpacity>
-        <TouchableOpacity
-          onPress={onNavigateToTimeline}
-          style={[styles.quizButton, { backgroundColor: '#9333ea', borderColor: '#9333ea' }]}
-          accessibilityRole="button"
-          accessibilityLabel="View metal drumming evolution timeline"
-        >
-          <Text style={[styles.quizButtonText, { color: '#fff' }]}>📜 History</Text>
-        </TouchableOpacity>
-      </View>
-      <View style={[styles.actionButtonsRow, { marginTop: -8 }]}>
-        <TouchableOpacity
-          onPress={onNavigateToGenresList}
-          style={[styles.quizButton, { backgroundColor: colors.buttons.secondary.bg, borderColor: colors.buttons.secondary.bg }]}
-          accessibilityRole="button"
-          accessibilityLabel="Browse metal genres"
-        >
-          <Text style={[styles.quizButtonText, { color: colors.buttons.secondary.text }]}>🎸 Browse Genres</Text>
-        </TouchableOpacity>
-        <TouchableOpacity
-          onPress={onNavigateToToolsHub}
-          style={[styles.quizButton, { backgroundColor: '#059669', borderColor: '#059669' }]}
-          accessibilityRole="button"
-          accessibilityLabel="Explore all interactive tools"
-        >
-          <Text style={[styles.quizButtonText, { color: '#fff' }]}>🛠️ All Tools</Text>
-        </TouchableOpacity>
-      </View>
-      <View style={[styles.actionButtonsRow, { marginTop: -8 }]}>
-        <TouchableOpacity
-          onPress={onNavigateToTechniques}
-          style={[styles.quizButton, { backgroundColor: theme.primary, borderColor: theme.primary }]}
-          accessibilityRole="button"
-          accessibilityLabel="Learn drumming techniques"
-        >
-          <Text style={[styles.quizButtonText, { color: theme.text }]}>🥁 Learn Techniques</Text>
-        </TouchableOpacity>
-        <TouchableOpacity
-          onPress={onNavigateToKitQuiz}
-          style={[styles.quizButton, { backgroundColor: '#dc2626', borderColor: '#dc2626' }]}
-          accessibilityRole="button"
-          accessibilityLabel="Guess the drummer by kit quiz"
-        >
-          <Text style={[styles.quizButtonText, { color: '#fff' }]}>🎯 Kit Quiz</Text>
-        </TouchableOpacity>
-      </View>
-      <View style={[styles.actionButtonsRow, { marginTop: -8 }]}>
-        <TouchableOpacity
-          onPress={onNavigateToGuessTheKit}
-          style={[styles.quizButton, { backgroundColor: '#7c3aed', borderColor: '#7c3aed' }]}
-          accessibilityRole="button"
-          accessibilityLabel="Guess the drummer by their kit photo quiz"
-        >
-          <Text style={[styles.quizButtonText, { color: '#fff' }]}>📸 Photo Quiz</Text>
-        </TouchableOpacity>
-        <TouchableOpacity
-          onPress={onNavigateToNews}
-          style={[styles.compareButton, { backgroundColor: theme.card, borderColor: theme.border }]}
-          accessibilityRole="button"
-          accessibilityLabel="View metal news"
-        >
-          <Text style={[styles.compareButtonText, { color: theme.text }]}>📰 Metal News</Text>
-        </TouchableOpacity>
+          {[
+            { icon: '🆚', label: 'Compare', onPress: onNavigateToCompare, a11y: 'Compare drummers side by side' },
+            { icon: '🥁', label: 'Find Match', onPress: onNavigateToQuiz, a11y: 'Take the drummer personality quiz' },
+            { icon: '💬', label: 'Quotes', onPress: onNavigateToQuotes, a11y: 'Browse drummer interview quotes' },
+            { icon: '🔍', label: 'Gear Finder', onPress: onNavigateToGearFinder, a11y: 'Search drummers by gear' },
+            { icon: '🛠️', label: 'Kit Builder', onPress: onNavigateToKitBuilder, a11y: 'Build your custom drum kit' },
+            { icon: '🎵', label: 'BPM Tap', onPress: onNavigateToBpmTap, a11y: 'BPM tap calculator' },
+            { icon: '🎂', label: 'Birthdays', onPress: onNavigateToBirthdayCalendar, a11y: 'View drummer birthday calendar' },
+            { icon: '📜', label: 'History', onPress: onNavigateToTimeline, a11y: 'View metal drumming evolution timeline' },
+            { icon: '🎸', label: 'Genres', onPress: onNavigateToGenresList, a11y: 'Browse metal genres' },
+            { icon: '🥁', label: 'Techniques', onPress: onNavigateToTechniques, a11y: 'Learn drumming techniques' },
+            { icon: '🎯', label: 'Kit Quiz', onPress: onNavigateToKitQuiz, a11y: 'Guess the drummer by kit quiz' },
+            { icon: '📸', label: 'Photo Quiz', onPress: onNavigateToGuessTheKit, a11y: 'Guess the drummer by their kit photo quiz' },
+            { icon: '📰', label: 'News', onPress: onNavigateToNews, a11y: 'View metal news' },
+            { icon: '🗂️', label: 'All Tools', onPress: onNavigateToToolsHub, a11y: 'Explore all interactive tools' },
+          ].map(({ icon, label, onPress, a11y }) => (
+            <TouchableOpacity
+              key={label}
+              onPress={onPress}
+              style={[styles.exploreChip, { backgroundColor: theme.card, borderColor: theme.border }]}
+              accessibilityRole="button"
+              accessibilityLabel={a11y}
+            >
+              <Text style={styles.exploreChipIcon}>{icon}</Text>
+              <Text style={[styles.exploreChipLabel, { color: theme.text }]}>{label}</Text>
+            </TouchableOpacity>
+          ))}
+        </ScrollView>
       </View>
       {/* Filter Bar - positioned below action buttons, above drummer list (Issue #506) */}
       <FilterBar
@@ -29030,6 +28941,38 @@ const styles = StyleSheet.create({
   quizButtonText: {
     fontSize: fontSize.base,
     fontWeight: fontWeight.semibold,
+  },
+  // Explore Tools Strip (Issue #1232)
+  exploreToolsContainer: {
+    marginHorizontal: spacing[5],
+    marginBottom: spacing[4],
+  },
+  exploreToolsLabel: {
+    fontSize: fontSize.xs,
+    fontWeight: fontWeight.semibold,
+    textTransform: 'uppercase',
+    letterSpacing: 1,
+    marginBottom: spacing[2],
+  },
+  exploreToolsStrip: {
+    gap: spacing[2],
+    paddingRight: spacing[5],
+  },
+  exploreChip: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    paddingHorizontal: spacing[3],
+    paddingVertical: spacing[2],
+    borderRadius: 20,
+    borderWidth: 1,
+    gap: spacing[1],
+  },
+  exploreChipIcon: {
+    fontSize: 14,
+  },
+  exploreChipLabel: {
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.medium,
   },
   // Quiz Styles
   quizContainer: {

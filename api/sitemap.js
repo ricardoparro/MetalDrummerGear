@@ -462,6 +462,8 @@ export default function handler(req, res) {
     { loc: '/llms/bands.md', priority: '0.6', changefreq: 'monthly' },
     // Issue #1190: drummer comparison pages as ingestible markdown.
     { loc: '/llms/comparisons.md', priority: '0.6', changefreq: 'monthly' },
+    // Issue #1222: top-10 ranked lists as ingestible markdown for AI citation.
+    { loc: '/llms/lists.md', priority: '0.6', changefreq: 'monthly' },
     // Per-drummer Markdown profiles — low priority, full crawl coverage.
     ...llmsDrummerSlugs.map(slug => ({ loc: `/llms/drummers/${slug}.md`, priority: '0.4', changefreq: 'monthly' })),
     // Issue #1058: per-article Markdown breakdowns (public/llms/articles/<slug>.md).

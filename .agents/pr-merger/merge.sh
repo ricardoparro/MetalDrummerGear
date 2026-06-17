@@ -2,7 +2,19 @@
 # PR Merger — deterministic implementation of .agents/pr-merger/MERGER-AGENT.md
 # Finds open PRs to main that are MERGEABLE + CLEAN and squash-merges them,
 # draining the queue (oldest first) until none remain or the wall-time cap hits.
-# No LLM: pure gh + jq gating. Respects branch protection (only merges CLEAN).
+# No LLM: pure gh + jq gating. Respects branch protection.
+#
+# Merges CLEAN and UNSTABLE PRs. UNSTABLE is safe: GitHub reports UNSTABLE only
+# when all *required* checks pass and a *non-required* check is red/pending
+# (a failing required check would be BLOCKED instead).
+#
+# Reaps DIRTY (content-conflicting) Ralph PRs instead of leaving them in limbo:
+# closes the PR, deletes the branch, and clears the linked issue's
+# pr-opened/in-progress labels so Ralph re-implements cleanly from the latest
+# main on the next run. Without this, the first PR touching a shared file merges
+# and every later PR goes DIRTY forever (Ralph won't retry an issue that still
+# has an open PR), so those issues stay open indefinitely. Human PRs are never
+# auto-closed — only branches matching `ralph/*`.
 set -uo pipefail
 
 REPO="${REPO:-ricardoparro/MetalDrummerGear}"
@@ -49,6 +61,27 @@ merge_pr() {
   return 1
 }
 
+# Reap a Ralph PR that conflicts with main: close it, delete the branch, and
+# clear the linked issue's in-flight labels so Ralph re-implements it from a
+# fresh main next run. Closing a PR (vs merging) does NOT auto-close the linked
+# issue, so the issue correctly returns to the queue.
+reap_dirty_ralph_pr() {
+  local n="$1"
+  local issue
+  # First "#<number>" found in the body ("Closes #N") or title ("fix: #N ...").
+  issue=$(gh pr view "$n" --repo "$REPO" --json body,title \
+    --jq '((.body // "") + " " + (.title // "")) | capture("#(?<i>[0-9]+)").i // ""' 2>/dev/null)
+  gh pr close "$n" --repo "$REPO" --delete-branch \
+    --comment $'<!-- pr-merger -->\n🤖 Auto-closed: this branch conflicts with `main` and cannot be auto-merged. Reaped so Ralph can re-implement the issue cleanly from the latest main on the next run.' >/dev/null 2>&1 || true
+  if [[ -n "$issue" ]]; then
+    gh issue edit "$issue" --repo "$REPO" \
+      --remove-label pr-opened --remove-label in-progress >/dev/null 2>&1 || true
+    log "Reaped DIRTY #$n → re-queued issue #$issue"
+  else
+    log "Reaped DIRTY #$n (no linked issue found)"
+  fi
+}
+
 OPEN_AT_START=$(gh pr list --repo "$REPO" --state open --base "$BASE" --json number --jq 'length' 2>/dev/null || echo "?")
 
 while :; do
@@ -76,12 +109,13 @@ while :; do
   fi
 
   # Re-check this PR's live state right before acting (strict mode invalidates stale reads)
-  ST=$(gh pr view "$CAND" --repo "$REPO" --json number,title,isDraft,labels,mergeable,mergeStateStatus 2>/dev/null || echo '{}')
+  ST=$(gh pr view "$CAND" --repo "$REPO" --json number,title,isDraft,labels,mergeable,mergeStateStatus,headRefName 2>/dev/null || echo '{}')
   TITLE=$(echo "$ST" | jq -r '.title // ""')
   IS_DRAFT=$(echo "$ST" | jq -r '.isDraft // false')
   MERGEABLE=$(echo "$ST" | jq -r '.mergeable // "UNKNOWN"')
   MSS=$(echo "$ST" | jq -r '.mergeStateStatus // "UNKNOWN"')
   LABELS=$(echo "$ST" | jq -c '.labels // []')
+  HEAD_REF=$(echo "$ST" | jq -r '.headRefName // ""')
 
   # Ineligible → skip for the rest of this run
   if [[ "$IS_DRAFT" == "true" ]]; then
@@ -91,8 +125,14 @@ while :; do
     SKIP[$CAND]=1; SKIPPED_LINES+=("#$CAND held (blocking label)"); continue
   fi
   if [[ "$MERGEABLE" == "CONFLICTING" || "$MSS" == "DIRTY" ]]; then
-    comment_conflict_once "$CAND"
-    SKIP[$CAND]=1; SKIPPED_LINES+=("#$CAND conflicts"); continue
+    if [[ "$HEAD_REF" == ralph/* ]]; then
+      reap_dirty_ralph_pr "$CAND"
+      SKIP[$CAND]=1; SKIPPED_LINES+=("#$CAND conflicts → reaped (Ralph re-implements)")
+    else
+      comment_conflict_once "$CAND"
+      SKIP[$CAND]=1; SKIPPED_LINES+=("#$CAND conflicts (human PR — left for rebase)")
+    fi
+    continue
   fi
   if [[ "$MERGEABLE" == "UNKNOWN" ]]; then
     SKIP[$CAND]=1; SKIPPED_LINES+=("#$CAND mergeability UNKNOWN (retry next run)"); continue
@@ -125,7 +165,10 @@ while :; do
     BLOCKED)
       SKIP[$CAND]=1; SKIPPED_LINES+=("#$CAND checks pending/blocked (retry next run)") ;;
     UNSTABLE)
-      SKIP[$CAND]=1; SKIPPED_LINES+=("#$CAND UNSTABLE — non-required check red (needs human)") ;;
+      # Required checks pass (else GitHub would report BLOCKED); only a
+      # non-required check is red/pending → safe to merge per policy.
+      log "#$CAND UNSTABLE → required checks pass, merging (non-required check red/pending)"
+      merge_pr "$CAND" || { SKIP[$CAND]=1; SKIPPED_LINES+=("#$CAND UNSTABLE merge failed"); } ;;
     *)
       SKIP[$CAND]=1; SKIPPED_LINES+=("#$CAND state $MSS (skipped)") ;;
   esac

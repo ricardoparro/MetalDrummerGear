@@ -27,6 +27,9 @@ import { SIGNATURE_LICKS } from '../packages/frontend/data/signatureLicks.js';
 // that has real data in a category (not just 16 hardcoded names). Same module
 // the renderer api/gear/[slug]/[category].js reads, so URLs ↔ pages stay 1:1.
 import { drummers as DRUMMER_GEAR_DATA } from './drummers/index.js';
+// Issue #1171: source all 19 band slugs from the canonical data module so the
+// sitemap stays in sync as bands are added, and URLs match the live /bands/ route.
+import { bands as BAND_DATA } from '../packages/frontend/data/bands.js';
 
 // Issue #623: Content Scale Sprint - All 62 drummers now in sitemap
 const drummers = [
@@ -96,10 +99,8 @@ const albumArticles = Object.keys(ALBUM_ARTICLES).map(slug => ({
     : ALBUM_ARTICLES[slug].title || slug
 }));
 
-const bandPages = [
-  { slug: 'metallica', name: 'Metallica' },
-  { slug: 'death', name: 'Death' },
-];
+// Issue #1171: derive slugs from BAND_DATA (19 entries) instead of a hardcoded 2-entry list.
+const bandPages = Object.keys(BAND_DATA);
 
 // Issue #339: Gear category pages for SEO
 const gearCategories = [
@@ -417,7 +418,9 @@ export default function handler(req, res) {
     ...albumArticles.map(a => ({ loc: `/articles/${a.slug}`, lastmod: ALBUM_ARTICLES[a.slug]?.dateModified, priority: '0.9', changefreq: 'monthly' })),
     ...drummers.map(d => ({ loc: `/drummer/${generateSlug(d.name)}`, priority: '0.8', changefreq: 'monthly' })),
     ...gearItems.map(g => ({ loc: `/gear/item/${g.slug}`, priority: '0.7', changefreq: 'monthly' })),
-    ...bandPages.map(b => ({ loc: `/band/${b.slug}`, priority: '0.8', changefreq: 'monthly' })),
+    // Issue #1171: /bands index hub + all 19 band pages at the correct plural path.
+    { loc: '/bands', priority: '0.9', changefreq: 'weekly' },
+    ...bandPages.map(slug => ({ loc: `/bands/${slug}`, priority: '0.8', changefreq: 'monthly' })),
     ...techniques.map(t => ({ loc: `/techniques/${t.slug}`, priority: '0.8', changefreq: 'monthly' })),
     // Issue #870, #994: Technique → drummers SEO pages (/technique/<slug>/drummers)
     // Same priority/changefreq pattern as drummer pages.

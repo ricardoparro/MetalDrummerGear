@@ -1,8 +1,0 @@
-# robots.txt for MetalForge
-# Allow all crawlers to index the site
-
-User-agent: *
-Allow: /
-
-# Sitemap location
-Sitemap: https://metalforge.io/sitemap.xml

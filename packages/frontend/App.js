@@ -17620,13 +17620,13 @@ function DrummerList({
     );
   }
 
-  const handleClearAllFilters = () => {
+  const handleClearAllFilters = useCallback(() => {
     // Clear all filters in one call - this updates URL to '/'
     onFilterChange({ search: '', genre: '', brand: '', era: '' });
     // Clear search input visual state (handleSearchClear now uses functional update
     // so it won't overwrite filters with stale closure values)
     onSearchClear();
-  };
+  }, [onFilterChange, onSearchClear]);
 
   // Header content that scrolls with the list
   // Memoised as a React element (not a function) so FlatList never sees a new
@@ -22608,6 +22608,9 @@ function AppContent() {
     });
   }, []);
 
+  // Handle search focus — stable ref so listHeader useMemo doesn't invalidate on every render
+  const handleSearchFocus = useCallback(() => setShowSuggestions(true), []);
+
   // Handle suggestion selection
   const handleSelectSuggestion = useCallback((suggestion) => {
     setShowSuggestions(false);
@@ -27456,7 +27459,7 @@ setShowList(false);
           onSearchClear={handleSearchClear}
           suggestions={suggestions}
           showSuggestions={showSuggestions}
-          onSearchFocus={() => setShowSuggestions(true)}
+          onSearchFocus={handleSearchFocus}
           onSelectSuggestion={handleSelectSuggestion}
           searchInputRef={searchInputRef}
           showAllDrummers={showAllDrummers}
@@ -30134,6 +30137,7 @@ const styles = StyleSheet.create({
     position: 'relative',
     zIndex: 101,
     marginBottom: 12,
+    width: '100%',
   },
   searchInputWrapper: {
     flexDirection: 'row',

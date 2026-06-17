@@ -471,6 +471,13 @@ export default function handler(req, res) {
     // Issue #1201: per-technique deep-dive Markdown files for AI citation.
     // One file per technique slug mirrors the per-drummer pattern above.
     ...getAllTechniqueSlugs().map(slug => ({ loc: `/llms/technique/${slug}.md`, priority: '0.5', changefreq: 'monthly' })),
+    // Issue #1218: per-drummer lick Markdown files for AI citation (top 20 drummers).
+    ...([
+      'joey-jordison', 'lars-ulrich', 'dave-lombardo', 'george-kollias', 'tomas-haake',
+      'matt-greiner', 'gene-hoglan', 'pete-sandoval', 'derek-roddy', 'brann-dailor',
+      'mike-portnoy', 'matt-garstka', 'inferno', 'hellhammer', 'bill-ward',
+      'charlie-benante', 'mario-duplantier', 'chris-adler', 'ben-koller', 'flo-mounier',
+    ].map(slug => ({ loc: `/llms/licks/${slug}.md`, priority: '0.5', changefreq: 'monthly' }))),
   ];
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">

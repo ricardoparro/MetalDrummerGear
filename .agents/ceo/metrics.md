@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-17 05:41 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-17 07:51 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -38,19 +38,19 @@
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 1,067 |
-| Clicks | 24 |
-| CTR | 2.25% |
-| Avg position | 8.4 |
+| Impressions | 1,289 |
+| Clicks | 25 |
+| CTR | 1.94% |
+| Avg position | 8.5 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| matt greiner drum setup | 18 | 4 | 22.22% | 6.3 |
-| joey jordison drum set | 94 | 2 | 2.13% | 8.9 |
-| joey jordison drum kit for sale | 8 | 1 | 12.50% | 6.9 |
+| matt greiner drum setup | 20 | 4 | 20.00% | 6.4 |
+| joey jordison drum kit for sale | 11 | 2 | 18.18% | 6.6 |
+| joey jordison drum set | 120 | 2 | 1.67% | 9.0 |
 | joey jordison drumkit | 3 | 1 | 33.33% | 6.0 |
-| mario duplantier gear | 3 | 1 | 33.33% | 6.0 |
+| mario duplantier gear | 4 | 1 | 25.00% | 7.3 |
 | aquiles priester drum kit | 7 | 0 | 0.00% | 5.1 |
 | aquiles priester drum set | 1 | 0 | 0.00% | 10.0 |
 | behemoth drum kit | 1 | 0 | 0.00% | 9.0 |
@@ -58,7 +58,9 @@
 | ben koller | 1 | 0 | 0.00% | 44.0 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
-_no significant gaps detected — all queries with traction have decent CTR_
+| Query | Impr | CTR | Pos | Action |
+| --- | --- | --- | --- | --- |
+| joey jordison drum set | 120 | 1.67% | 9.0 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

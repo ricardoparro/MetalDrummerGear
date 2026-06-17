@@ -17546,6 +17546,73 @@ function DrummersPage({
   );
 }
 
+// Browse by Gear Type section — 6 crawlable category links on the homepage (Issue #1235)
+const GEAR_CATEGORY_LINKS = [
+  { slug: 'cymbals', name: 'Metal Cymbals', icon: '🔔' },
+  { slug: 'snares', name: 'Metal Snare Drums', icon: '🪘' },
+  { slug: 'drums', name: 'Metal Drum Kits', icon: '🥁' },
+  { slug: 'pedals', name: 'Metal Bass Drum Pedals', icon: '🦶' },
+  { slug: 'sticks', name: 'Metal Drumsticks', icon: '🥢' },
+  { slug: 'hardware', name: 'Metal Drum Hardware', icon: '⚙️' },
+];
+
+function BrowseByGearSection({ theme }) {
+  const { width } = useWindowDimensions();
+  const numCols = width < 480 ? 2 : 3;
+  const cardWidth = `${Math.floor(100 / numCols) - 1}%`;
+
+  return (
+    <View style={styles.browseGearContainer}>
+      <Text style={[styles.browseGearTitle, { color: theme.text }]}>Browse by Gear Type</Text>
+      <View style={styles.browseGearGrid}>
+        {GEAR_CATEGORY_LINKS.map(({ slug, name, icon }) => {
+          const cardStyle = [
+            styles.browseGearCard,
+            { backgroundColor: theme.card, borderColor: theme.border, width: cardWidth },
+          ];
+          if (Platform.OS === 'web') {
+            return (
+              <a
+                key={slug}
+                href={`/gear/${slug}`}
+                onClick={(e) => {
+                  e.preventDefault();
+                  window.history.pushState({}, '', `/gear/${slug}`);
+                  window.dispatchEvent(new PopStateEvent('popstate'));
+                }}
+                style={{ width: cardWidth, textDecoration: 'none' }}
+                aria-label={`Browse ${name}`}
+              >
+                <View style={cardStyle}>
+                  <Text style={styles.browseGearIcon}>{icon}</Text>
+                  <Text style={[styles.browseGearName, { color: theme.text }]}>{name}</Text>
+                </View>
+              </a>
+            );
+          }
+          return (
+            <TouchableOpacity
+              key={slug}
+              onPress={() => {
+                if (typeof window !== 'undefined') {
+                  window.history.pushState({}, '', `/gear/${slug}`);
+                  window.dispatchEvent(new PopStateEvent('popstate'));
+                }
+              }}
+              style={cardStyle}
+              accessibilityRole="link"
+              accessibilityLabel={`Browse ${name}`}
+            >
+              <Text style={styles.browseGearIcon}>{icon}</Text>
+              <Text style={[styles.browseGearName, { color: theme.text }]}>{name}</Text>
+            </TouchableOpacity>
+          );
+        })}
+      </View>
+    </View>
+  );
+}
+
 function DrummerList({
   theme,
   onSelectDrummer,
@@ -17654,6 +17721,8 @@ function DrummerList({
         onNavigateToCompare={onNavigateToCompare}
         onNavigateToBeginnerGuide={onNavigateToBeginnerGuide}
       />
+      {/* Browse by Gear Type - 6 category links (Issue #1235) */}
+      <BrowseByGearSection theme={theme} />
       {/* Explore Tools Strip - replaces 14-button wall (Issue #1232) */}
       <View style={styles.exploreToolsContainer}>
         <Text style={[styles.exploreToolsLabel, { color: theme.secondaryText }]}>Explore Tools</Text>
@@ -28978,6 +29047,38 @@ const styles = StyleSheet.create({
   exploreChipLabel: {
     fontSize: fontSize.sm,
     fontWeight: fontWeight.medium,
+  },
+  // Browse by Gear Type Styles (Issue #1235)
+  browseGearContainer: {
+    marginHorizontal: spacing[5],
+    marginBottom: spacing[5],
+  },
+  browseGearTitle: {
+    fontSize: fontSize.lg,
+    fontWeight: fontWeight.bold,
+    marginBottom: spacing[3],
+  },
+  browseGearGrid: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: spacing[2],
+  },
+  browseGearCard: {
+    borderRadius: 12,
+    borderWidth: 1,
+    paddingVertical: spacing[4],
+    paddingHorizontal: spacing[2],
+    alignItems: 'center',
+    marginBottom: spacing[2],
+  },
+  browseGearIcon: {
+    fontSize: 28,
+    marginBottom: spacing[2],
+  },
+  browseGearName: {
+    fontSize: fontSize.xs,
+    fontWeight: fontWeight.semibold,
+    textAlign: 'center',
   },
   // Quiz Styles
   quizContainer: {

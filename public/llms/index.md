@@ -21,6 +21,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 | API - Drummers | https://metalforge.io/api/drummers | JSON API endpoint |
 | API - Quotes | https://metalforge.io/api/quotes | Drummer quotes JSON |
 | Bands | https://metalforge.io/llms/bands.md | Band & drummer-history reference (Markdown) |
+| Drummer Comparisons | https://metalforge.io/llms/comparisons.md | Side-by-side drummer gear & style comparisons (Markdown) |
 
 ---
 

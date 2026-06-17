@@ -13,6 +13,8 @@ import { drummers } from '../drummers/index.js';
 import { ALBUM_ARTICLES } from '../../packages/frontend/data/albumArticles.js';
 // Issue #1172: band-specific SSR meta for /bands/<slug> and /bands index pages.
 import { bands as BAND_DATA } from '../../packages/frontend/data/bands.js';
+// Issue #1202: individual technique page SSR meta for /technique/<slug> and /technique/<slug>/drummers.
+import { getTechniqueBySlug } from '../../packages/frontend/data/techniques.js';
 
 const BASE_URL = 'https://metalforge.io';
 const SITE_NAME = 'MetalForge';
@@ -306,6 +308,63 @@ function getMetaForPath(pathname) {
     };
   }
 
+  // Issue #1202: Individual technique page: /technique/<slug>
+  if (path.startsWith('/technique/') && !path.endsWith('/drummers')) {
+    const slug = path.replace('/technique/', '');
+    const technique = getTechniqueBySlug(slug);
+    if (technique) {
+      return {
+        title: `${technique.title} — Metal Drumming Technique | ${SITE_NAME}`,
+        description: truncate(`Learn ${technique.title.toLowerCase()} in metal drumming: ${technique.description}. See who plays it and how.`, 160),
+        image: `${BASE_URL}/images/og/techniques-preview.png`,
+        type: 'article',
+        url: `${BASE_URL}/technique/${slug}`,
+        articleSchema: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'Article',
+          headline: `${technique.title} — Metal Drumming Technique`,
+          description: truncate(technique.description, 250),
+          url: `${BASE_URL}/technique/${slug}`,
+          publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+        }),
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: 'Techniques', url: `${BASE_URL}/techniques` },
+          { name: technique.title, url: `${BASE_URL}/technique/${slug}` },
+        ],
+      };
+    }
+  }
+
+  // Issue #1202: Technique drummers page: /technique/<slug>/drummers
+  if (path.startsWith('/technique/') && path.endsWith('/drummers')) {
+    const slug = path.replace('/technique/', '').replace('/drummers', '');
+    const technique = getTechniqueBySlug(slug);
+    if (technique) {
+      return {
+        title: `Best ${technique.title} Drummers — Who Plays It | ${SITE_NAME}`,
+        description: truncate(`Discover which pro metal drummers use ${technique.title.toLowerCase()}. Gear setups, videos, and tutorials for ${technique.title.toLowerCase()} players.`, 160),
+        image: `${BASE_URL}/images/og/techniques-preview.png`,
+        type: 'website',
+        url: `${BASE_URL}/technique/${slug}/drummers`,
+        articleSchema: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'CollectionPage',
+          name: `${technique.title} Drummers`,
+          description: `Pro metal drummers who use ${technique.title.toLowerCase()}`,
+          url: `${BASE_URL}/technique/${slug}/drummers`,
+          publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+        }),
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: 'Techniques', url: `${BASE_URL}/techniques` },
+          { name: technique.title, url: `${BASE_URL}/technique/${slug}` },
+          { name: 'Drummers', url: `${BASE_URL}/technique/${slug}/drummers` },
+        ],
+      };
+    }
+  }
+
   // Compare page
   if (path === '/compare') {
     return {
@@ -526,7 +585,16 @@ function getMetaForPath(pathname) {
 // Generate Article schema JSON-LD (Issue #777)
 function generateArticleSchema(meta) {
   if (!meta.articleSchema) return '';
-  
+
+  // Support pre-serialized JSON-LD strings (e.g. CollectionPage, DefinedTerm types)
+  if (typeof meta.articleSchema === 'string') {
+    return `
+  <!-- Structured Data -->
+  <script type="application/ld+json">
+${meta.articleSchema}
+  </script>`;
+  }
+
   const schema = {
     '@context': 'https://schema.org',
     '@type': 'Article',

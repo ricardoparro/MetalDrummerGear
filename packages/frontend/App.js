@@ -4309,7 +4309,13 @@ function updateDocumentMeta(drummer, drummers = [], filters = {}) {
       "name": drummer.name,
       "url": `https://metalforge.io/drummer/${drummerSlug}`,
       "description": drummer.bio,
-      "image": `https://metalforge.io${drummer.image}`,
+      "image": {
+        "@type": "ImageObject",
+        "url": `https://metalforge.io${drummer.image}`,
+        "contentUrl": `https://metalforge.io${drummer.image}`,
+        "caption": `${drummer.name} — drum kit and gear setup`,
+        "name": `${drummer.name}'s drum kit`
+      },
       "jobTitle": "Professional Drummer",
       "memberOf": memberOfArray.length > 1 ? memberOfArray : (musicGroupSchema ? {
         "@id": musicGroupSchema["@id"]

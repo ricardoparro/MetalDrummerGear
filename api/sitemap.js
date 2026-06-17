@@ -453,6 +453,8 @@ export default function handler(req, res) {
     { loc: '/llms/licks.md', priority: '0.6', changefreq: 'monthly' },
     // Issue #1126: drumming-techniques reference as ingestible markdown.
     { loc: '/llms/techniques.md', priority: '0.6', changefreq: 'monthly' },
+    // Issue #1173: bands + drummer-history reference as ingestible markdown.
+    { loc: '/llms/bands.md', priority: '0.6', changefreq: 'monthly' },
     // Per-drummer Markdown profiles — low priority, full crawl coverage.
     ...llmsDrummerSlugs.map(slug => ({ loc: `/llms/drummers/${slug}.md`, priority: '0.4', changefreq: 'monthly' })),
     // Issue #1058: per-article Markdown breakdowns (public/llms/articles/<slug>.md).

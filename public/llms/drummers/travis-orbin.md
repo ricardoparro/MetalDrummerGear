@@ -6,12 +6,12 @@ country: "USA"
 primary_brand: "SJC"
 profile_url: "https://metalforge.io/drummer/travis-orbin"
 source: "https://metalforge.io"
-last_updated: "2026-06-06"
+last_updated: "2026-06-16"
 ---
 
-# Travis Orbin
+# Travis Orbin — Drum Kit & Gear Setup
 
-Travis Orbin is a professional metal drummer best known for their work with Darkest Hour / ex-Periphery, a defining act in thrash metal / progressive metal / djent.
+Travis Orbin's drum kit and gear setup. Travis Orbin is a professional metal drummer best known for their work with Darkest Hour / ex-Periphery, a defining act in thrash metal / progressive metal / djent.
 
 ## Quick Facts
 
@@ -74,4 +74,4 @@ A: Travis Orbin drums for Darkest Hour / ex-Periphery, a thrash metal / progress
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*

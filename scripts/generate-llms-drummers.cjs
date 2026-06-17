@@ -89,8 +89,8 @@ function buildMarkdown(drummer) {
   md += `last_updated: ${yaml(today)}\n`;
   md += `---\n\n`;
 
-  md += `# ${drummer.name}\n\n`;
-  md += `${drummer.name} is a professional metal drummer best known for their work with ${drummer.band}`;
+  md += `# ${drummer.name} — Drum Kit & Gear Setup\n\n`;
+  md += `${drummer.name}'s drum kit and gear setup. ${drummer.name} is a professional metal drummer best known for their work with ${drummer.band}`;
   md += drummer.genre ? `, a defining act in ${drummer.genre.toLowerCase()}.\n\n` : `.\n\n`;
 
   // --- Quick Facts table -------------------------------------------------------

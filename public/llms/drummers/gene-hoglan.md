@@ -6,12 +6,12 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/gene-hoglan"
 source: "https://metalforge.io"
-last_updated: "2026-06-06"
+last_updated: "2026-06-16"
 ---
 
-# Gene Hoglan
+# Gene Hoglan — Drum Kit & Gear Setup
 
-Gene Hoglan is a professional metal drummer best known for their work with Death / Testament / Dethklok, a defining act in death metal / thrash metal.
+Gene Hoglan's drum kit and gear setup. Gene Hoglan is a professional metal drummer best known for their work with Death / Testament / Dethklok, a defining act in death metal / thrash metal.
 
 ## Quick Facts
 
@@ -97,4 +97,4 @@ A: Yes, Gene drummed on Death's albums "Individual Thought Patterns" (1993) and 
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*

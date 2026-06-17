@@ -6,12 +6,12 @@ country: "Norway"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/frost"
 source: "https://metalforge.io"
-last_updated: "2026-06-06"
+last_updated: "2026-06-16"
 ---
 
-# Frost
+# Frost — Drum Kit & Gear Setup
 
-Frost is a professional metal drummer best known for their work with Satyricon / 1349, a defining act in black metal.
+Frost's drum kit and gear setup. Frost is a professional metal drummer best known for their work with Satyricon / 1349, a defining act in black metal.
 
 ## Quick Facts
 
@@ -85,4 +85,4 @@ A: Frost drums for Satyricon / 1349, a black metal band.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*

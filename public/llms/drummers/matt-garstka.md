@@ -6,12 +6,12 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/matt-garstka"
 source: "https://metalforge.io"
-last_updated: "2026-06-06"
+last_updated: "2026-06-16"
 ---
 
-# Matt Garstka
+# Matt Garstka — Drum Kit & Gear Setup
 
-Matt Garstka is a professional metal drummer best known for their work with Animals as Leaders, a defining act in progressive metal / djent.
+Matt Garstka's drum kit and gear setup. Matt Garstka is a professional metal drummer best known for their work with Animals as Leaders, a defining act in progressive metal / djent.
 
 ## Quick Facts
 
@@ -71,4 +71,4 @@ A: Matt Garstka drums for Animals as Leaders, a progressive metal / djent band.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*

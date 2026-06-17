@@ -6,12 +6,12 @@ country: "Sweden"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/morgan-gren"
 source: "https://metalforge.io"
-last_updated: "2026-06-06"
+last_updated: "2026-06-16"
 ---
 
-# Morgan Ågren
+# Morgan Ågren — Drum Kit & Gear Setup
 
-Morgan Ågren is a professional metal drummer best known for their work with Mats/Morgan Band / Kaipa / Fredrik Thordendal's Special Defects, a defining act in progressive rock / progressive metal / jazz fusion.
+Morgan Ågren's drum kit and gear setup. Morgan Ågren is a professional metal drummer best known for their work with Mats/Morgan Band / Kaipa / Fredrik Thordendal's Special Defects, a defining act in progressive rock / progressive metal / jazz fusion.
 
 ## Quick Facts
 
@@ -65,4 +65,4 @@ A: Morgan Ågren drums for Mats/Morgan Band / Kaipa / Fredrik Thordendal's Speci
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*

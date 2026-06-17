@@ -6,12 +6,12 @@ country: "USA"
 primary_brand: "Mapex"
 profile_url: "https://metalforge.io/drummer/jason-bittner"
 source: "https://metalforge.io"
-last_updated: "2026-06-06"
+last_updated: "2026-06-16"
 ---
 
-# Jason Bittner
+# Jason Bittner — Drum Kit & Gear Setup
 
-Jason Bittner is a professional metal drummer best known for their work with Shadows Fall / Overkill / Category 7, a defining act in thrash metal / heavy metal.
+Jason Bittner's drum kit and gear setup. Jason Bittner is a professional metal drummer best known for their work with Shadows Fall / Overkill / Category 7, a defining act in thrash metal / heavy metal.
 
 ## Quick Facts
 
@@ -86,4 +86,4 @@ A: Jason Bittner drums for Shadows Fall / Overkill / Category 7, a thrash metal 
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*

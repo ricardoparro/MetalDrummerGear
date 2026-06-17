@@ -6,12 +6,12 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/richard-christy"
 source: "https://metalforge.io"
-last_updated: "2026-06-06"
+last_updated: "2026-06-16"
 ---
 
-# Richard Christy
+# Richard Christy — Drum Kit & Gear Setup
 
-Richard Christy is a professional metal drummer best known for their work with Death / Iced Earth, a defining act in death metal / thrash metal.
+Richard Christy's drum kit and gear setup. Richard Christy is a professional metal drummer best known for their work with Death / Iced Earth, a defining act in death metal / thrash metal.
 
 ## Quick Facts
 
@@ -86,4 +86,4 @@ A: Richard Christy drums for Death / Iced Earth, a death metal / thrash metal ba
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*

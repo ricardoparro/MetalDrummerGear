@@ -6,12 +6,12 @@ country: "Greece"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/george-kollias"
 source: "https://metalforge.io"
-last_updated: "2026-06-06"
+last_updated: "2026-06-16"
 ---
 
-# George Kollias
+# George Kollias — Drum Kit & Gear Setup
 
-George Kollias is a professional metal drummer best known for their work with Nile, a defining act in technical death metal.
+George Kollias's drum kit and gear setup. George Kollias is a professional metal drummer best known for their work with Nile, a defining act in technical death metal.
 
 ## Quick Facts
 
@@ -83,4 +83,4 @@ A: Yes, George is an accomplished drum educator with instructional DVDs and worl
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*

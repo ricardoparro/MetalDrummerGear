@@ -6,12 +6,12 @@ country: "Finland"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/jaska-raatikainen"
 source: "https://metalforge.io"
-last_updated: "2026-06-06"
+last_updated: "2026-06-16"
 ---
 
-# Jaska Raatikainen
+# Jaska Raatikainen — Drum Kit & Gear Setup
 
-Jaska Raatikainen is a professional metal drummer best known for their work with Children of Bodom, a defining act in melodic death metal / power metal.
+Jaska Raatikainen's drum kit and gear setup. Jaska Raatikainen is a professional metal drummer best known for their work with Children of Bodom, a defining act in melodic death metal / power metal.
 
 ## Quick Facts
 
@@ -73,4 +73,4 @@ A: Jaska Raatikainen drums for Children of Bodom, a melodic death metal / power 
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*

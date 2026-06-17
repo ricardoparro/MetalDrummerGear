@@ -6,12 +6,12 @@ country: "USA"
 primary_brand: "Ludwig"
 profile_url: "https://metalforge.io/drummer/art-cruz"
 source: "https://metalforge.io"
-last_updated: "2026-06-06"
+last_updated: "2026-06-16"
 ---
 
-# Art Cruz
+# Art Cruz — Drum Kit & Gear Setup
 
-Art Cruz is a professional metal drummer best known for their work with Lamb of God, a defining act in groove metal / thrash metal.
+Art Cruz's drum kit and gear setup. Art Cruz is a professional metal drummer best known for their work with Lamb of God, a defining act in groove metal / thrash metal.
 
 ## Quick Facts
 
@@ -76,4 +76,4 @@ A: Art Cruz drums for Lamb of God, a groove metal / thrash metal band.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*

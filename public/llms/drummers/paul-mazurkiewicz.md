@@ -6,12 +6,12 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/paul-mazurkiewicz"
 source: "https://metalforge.io"
-last_updated: "2026-06-06"
+last_updated: "2026-06-16"
 ---
 
-# Paul Mazurkiewicz
+# Paul Mazurkiewicz — Drum Kit & Gear Setup
 
-Paul Mazurkiewicz is a professional metal drummer best known for their work with Cannibal Corpse, a defining act in death metal.
+Paul Mazurkiewicz's drum kit and gear setup. Paul Mazurkiewicz is a professional metal drummer best known for their work with Cannibal Corpse, a defining act in death metal.
 
 ## Quick Facts
 
@@ -71,4 +71,4 @@ A: Paul Mazurkiewicz drums for Cannibal Corpse, a death metal band.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*

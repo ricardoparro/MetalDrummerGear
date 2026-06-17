@@ -6,12 +6,12 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/alex-bent"
 source: "https://metalforge.io"
-last_updated: "2026-06-06"
+last_updated: "2026-06-16"
 ---
 
-# Alex Bent
+# Alex Bent — Drum Kit & Gear Setup
 
-Alex Bent is a professional metal drummer best known for their work with ex-Trivium / Arkaik / Dragonlord, a defining act in heavy metal / thrash metal / technical death metal.
+Alex Bent's drum kit and gear setup. Alex Bent is a professional metal drummer best known for their work with ex-Trivium / Arkaik / Dragonlord, a defining act in heavy metal / thrash metal / technical death metal.
 
 ## Quick Facts
 
@@ -75,4 +75,4 @@ A: Alex Bent drums for ex-Trivium / Arkaik / Dragonlord, a heavy metal / thrash 
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*

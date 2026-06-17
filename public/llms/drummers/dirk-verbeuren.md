@@ -6,12 +6,12 @@ country: "Belgium"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/dirk-verbeuren"
 source: "https://metalforge.io"
-last_updated: "2026-06-06"
+last_updated: "2026-06-16"
 ---
 
-# Dirk Verbeuren
+# Dirk Verbeuren — Drum Kit & Gear Setup
 
-Dirk Verbeuren is a professional metal drummer best known for their work with Megadeth, a defining act in thrash metal / melodic death metal.
+Dirk Verbeuren's drum kit and gear setup. Dirk Verbeuren is a professional metal drummer best known for their work with Megadeth, a defining act in thrash metal / melodic death metal.
 
 ## Quick Facts
 
@@ -85,4 +85,4 @@ A: Dirk Verbeuren drums for Megadeth, a thrash metal / melodic death metal band.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*

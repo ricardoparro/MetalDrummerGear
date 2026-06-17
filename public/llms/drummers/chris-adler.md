@@ -6,12 +6,12 @@ country: "USA"
 primary_brand: "Mapex"
 profile_url: "https://metalforge.io/drummer/chris-adler"
 source: "https://metalforge.io"
-last_updated: "2026-06-06"
+last_updated: "2026-06-16"
 ---
 
-# Chris Adler
+# Chris Adler — Drum Kit & Gear Setup
 
-Chris Adler is a professional metal drummer best known for their work with Lamb of God, a defining act in groove metal.
+Chris Adler's drum kit and gear setup. Chris Adler is a professional metal drummer best known for their work with Lamb of God, a defining act in groove metal.
 
 ## Quick Facts
 
@@ -75,4 +75,4 @@ A: Chris Adler drums for Lamb of God, a groove metal band.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*

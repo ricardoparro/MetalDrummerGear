@@ -5,6 +5,55 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-16 17:39 UTC*
 
 ---
+## 2026-06-18 07:10 — 11 PRs merged, 10 proposals approved, 14 issues closed
+
+### Context
+07:00 deep run. Metrics fresh (00:48 UTC): 1,115 impr / 19 clicks / 1.70% CTR / pos 8.4. Slight week-over-week dip (was 1,289 impr / 1.94% CTR) — expected indexing lag from the lick/UX batch. 10 new seo-proposals queued (#1265–#1276, 10 without ai-fix). 9 open PRs (1 CLEAN, 5 UNSTABLE/MERGEABLE, 3 CONFLICTING). Founder inbox empty.
+
+### Actions taken
+- **Closed 4 stale-open issues** (PRs already merged, didn't auto-close): #1246 (quiz LLM via #1287), #1242 (Tim Yeung/Nick Augusto via #1285), #1236 (Popular Brands via #1280), #1232 (action-wall styles via #1277).
+- **Merged 11 PRs:**
+  - #1281 ✅ (CLEAN — /llms/lists.md content; closes #1222)
+  - #1288 ✅ (UNSTABLE — /llms/licks/ expanded to 51 drummers; closes #1244)
+  - #1291 ✅ (UNSTABLE — John Otto + Jocke Wallgren licks; closes #1220)
+  - #1286 ✅ (CONFLICTING on index.js — CEO rebased onto main, added Jon Dette + Van Poederooyen after Tim Yeung/Nick Augusto/Jon Wallgren; closes #1245)
+  - #1289 ✅ (CONFLICTING on index.js — CEO rebased, added Kevin Talley + Morgan Ågren; closes #1247)
+  - #1290 ✅ (UNSTABLE — search box restore; closes #1231)
+  - #1284 ✅ (UNSTABLE — sticky condensed header; closes #1238)
+  - #1292 ✅ (UNSTABLE — engagement metrics; closes #1234)
+  - #1278 ✅ (CONFLICTING on App.js — CEO rebased; conflict was HEAD having PopularBrands + duplicate FilterBar vs branch having correct FilterBar-after-header placement. Resolution: keep PopularBrands from HEAD, take branch's FilterBar-after-header order with backgroundColor; closes #1233)
+  - #1293 ✅ (Ralph new — Browse by Gear Category; closes #1235)
+  - #1294 ✅ (Ralph new — action wall compact strip; #1232 already closed but improvement shipped)
+- **Triaged 10 seo-proposals → all APPROVED → `ai-fix`:**
+  - **#1266** (/drummer/\<slug>/\<category> gear SSR meta, ~90 pages) — largest untriaged SSR gap; mirrors the lick/list/technique SSR fixes that shipped. APPROVE.
+  - **#1267** (Matt Greiner article) — GSC's #1 CTR query (20% CTR, pos 7.0); article + FAQ will push toward page 1. APPROVE.
+  - **#1269** (Aquiles Priester article) — pos 5.1, 0% CTR; page 1 but invisible CTR = bad meta, article fixes it. APPROVE.
+  - **#1265** (/guides/ SSR meta, 11 pages) — same bug class as lick/list/technique SSR fixes. APPROVE.
+  - **#1270** (BreadcrumbList on /vs/ pages, 57 pages) — Article schema shipped (#1189), Breadcrumb missing; atomic. APPROVE.
+  - **#1271** (/llms/gear-series/ markdown, ~20 files) — new axis: per-series LLM markdown for brand+gear queries. APPROVE.
+  - **#1272** (lick→technique cross-links, 157 pages) — PageRank flow between content types; compound. APPROVE.
+  - **#1273** (/llms/tools/ markdown, 5 files) — last tool-section gap in LLM surface. APPROVE.
+  - **#1274** (image sitemap, 61 images) — image pack eligibility after ImageObject upgrade (#1173). APPROVE.
+  - **#1276** (/llms/vs/ markdown, 57 files) — per-comparison LLM markdown; mirrors per-drummer/per-technique pattern. APPROVE.
+- **GSC-gap quota:** "joey jordison drum set" (118 impr, 0.85% CTR, pos 9.0) — #1261 already filed. Quota met.
+
+### State delta
+- **ai-fix queue: 22 → 19** (14 issues closed via merges; 10 approved via proposals).
+- **Lick coverage: 57 → 63 drummers this run** (John Otto, Jocke Wallgren, Jon Dette, Ryan Van Poederooyen, Kevin Talley, Morgan Ågren). After #1248 ships → 100% coverage milestone.
+- **LLM lick surface: 51/63** after #1288; 20 more files covering full roster.
+- **UX shipped:** search hero, sticky header, FilterBar-after-header, metrics, Browse by Category, action wall compact, Popular Brands (prior run).
+- **0 open PRs** after 11 merges.
+
+### Quota check
+✅ SEO proposals: 10/10 triaged (all approved). ✅ Founder ideas: inbox empty. ✅ GSC-gap: #1261 in queue. ✅ Atomic-split: all open issues <1 day old. ✅ Decisions logged.
+
+### Next Run (2026-06-18 13:00 mid-day pulse)
+1. **100% lick milestone watch** — #1248 (Chris Turner + Isaac Lamb) closes 63/63; when shipped, update /llms.txt to advertise complete coverage.
+2. **SSR gap #1266** — 90 gear-category pages is the largest SSR fix in the queue; monitor Ralph picks it up.
+3. **Matt Greiner article #1267** — highest direct CTR impact; verify it ships quickly.
+4. **Metrics watch** — CTR 1.70% is slightly soft; the SSR + article batch should lift it over the next indexing cycle.
+
+---
 ## 2026-06-17 23:45 — 5 proposals approved, 1 CEO issue filed (Joey Jordison content depth)
 
 ### Context

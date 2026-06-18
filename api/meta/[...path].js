@@ -1141,6 +1141,11 @@ function getMetaForPath(pathname) {
           href: `/articles/${a.slug}`,
           label: a.title,
         })) : null,
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: 'Drummers', url: `${BASE_URL}/drummers` },
+          { name: drummer.name, url: `${BASE_URL}/${slug}` },
+        ],
       };
     }
   }

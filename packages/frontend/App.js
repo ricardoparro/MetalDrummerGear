@@ -6458,7 +6458,7 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
     preloadAlbumArticles().then(() => {
       if (mounted) {
         const articles = getAllAlbumArticles()
-          .filter(a => a.drummerId === drummer.id || a.relatedDrummers?.includes(drummer.id))
+          .filter(a => a.drummerId === drummer.id || (a.relatedDrummers || []).includes(drummer.id) || a.relatedDrummerSlug === drummerSlug)
           .slice(0, 3);
         setRelatedArticles(articles);
       }

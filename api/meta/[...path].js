@@ -1102,7 +1102,7 @@ function getMetaForPath(pathname) {
       // Issue #1357: build related article backlinks for SSR body
       const allArticles = Object.values(ALBUM_ARTICLES);
       const relatedArticles = allArticles
-        .filter(a => a.drummerId === drummer.id || (a.relatedDrummers || []).includes(drummer.id))
+        .filter(a => a.drummerId === drummer.id || (a.relatedDrummers || []).includes(drummer.id) || a.relatedDrummerSlug === slug)
         .slice(0, 3);
 
       return {
@@ -1376,7 +1376,7 @@ function getMetaForPath(pathname) {
       const bandText = drummer.band ? `${drummer.band} ` : '';
       const allArticles = Object.values(ALBUM_ARTICLES);
       const relatedArticles = allArticles
-        .filter(a => a.drummerId === drummer.id || (a.relatedDrummers || []).includes(drummer.id))
+        .filter(a => a.drummerId === drummer.id || (a.relatedDrummers || []).includes(drummer.id) || a.relatedDrummerSlug === slug)
         .slice(0, 3);
       return {
         title: override?.title || `${drummer.name} Drum Kit & Gear Setup | ${SITE_NAME}`,

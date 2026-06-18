@@ -30,6 +30,7 @@ const drummers = [
   { id: 20, slug: 'hellhammer', name: 'Hellhammer', band: 'Mayhem', genre: 'Black Metal', country: 'Norway' },
   { id: 21, slug: 'pete-sandoval', name: 'Pete Sandoval', band: 'Morbid Angel', genre: 'Death Metal', country: 'USA' },
   { id: 22, slug: 'art-cruz', name: 'Art Cruz', band: 'Lamb of God', genre: 'Groove Metal', country: 'USA' },
+  { id: 26, slug: 'scott-travis', name: 'Scott Travis', band: 'Judas Priest', genre: 'Heavy Metal', country: 'USA' },
 ];
 
 function generateSlug(name) {
@@ -90,7 +91,7 @@ The drummer "${id}" was not found in our database.
   // Issue #1357: Build related article backlinks (reverse of article→profile links)
   const allArticles = Object.values(ALBUM_ARTICLES);
   const relatedArticles = allArticles
-    .filter(a => a.drummerId === localDrummer.id || (a.relatedDrummers || []).includes(localDrummer.id))
+    .filter(a => a.drummerId === localDrummer.id || (a.relatedDrummers || []).includes(localDrummer.id) || a.relatedDrummerSlug === localDrummer.slug)
     .slice(0, 3);
 
   const articlesSection = relatedArticles.length > 0

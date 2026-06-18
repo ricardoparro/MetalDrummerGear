@@ -30,6 +30,15 @@ const TWITTER_HANDLE = '@MetalDrumGear';
 const DEFAULT_IMAGE = `${BASE_URL}/og-image.png`;
 const DEFAULT_DESCRIPTION = 'Explore the drum kits, cymbals, and gear used by legendary metal drummers. Discover what Lars Ulrich, Joey Jordison, Dave Lombardo and 60+ pro drummers play.';
 
+// Issue #1396: slug → display-name map built from the drummers roster.
+// Bands store drummer references as slugs in drummerHistory; this lets us
+// hydrate MusicGroup member data without a separate lookup array.
+const drummerSlugToName = {};
+drummers.forEach(d => {
+  const slug = d.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+  drummerSlugToName[slug] = d.name;
+});
+
 // Issue #1140: per-drummer SEO title/description overrides for pages where the
 // generic "<name> — Complete Gear Setup" title under-serves a high-volume query
 // cluster surfaced by GSC. Keyed by drummer slug. The drummer-page branch below
@@ -846,11 +855,18 @@ function getMetaForPath(pathname) {
           name: band.name,
           url: `${BASE_URL}/bands/${slug}`,
           genre: band.genres || [],
-          member: (band.members || []).map(m => ({
-            '@type': 'OrganizationRole',
-            member: { '@type': 'Person', name: m.name },
-            roleName: m.role,
-          })),
+          member: (band.members
+            ? band.members.map(m => ({
+                '@type': 'OrganizationRole',
+                member: { '@type': 'Person', name: m.name },
+                roleName: m.role,
+              }))
+            : (band.drummerHistory || []).map(h => ({
+                '@type': 'OrganizationRole',
+                member: { '@type': 'Person', name: drummerSlugToName[h.drummer] || h.drummer },
+                roleName: 'Drums',
+              }))
+          ),
           ...(band.sameAs && band.sameAs.length ? { sameAs: band.sameAs } : {}),
         }),
         breadcrumbSchema: [

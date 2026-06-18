@@ -1054,6 +1054,84 @@ function getMetaForPath(pathname) {
     };
   }
 
+  // Issue #1381: /gear/<item-slug> — individual gear item pages (10 items)
+  const GEAR_ITEM_META = {
+    'tama-iron-cobra-900-double-pedal': {
+      name: 'Tama Iron Cobra 900 Double Pedal',
+      category: 'double bass pedal',
+      description: 'The Tama Iron Cobra 900 double pedal used by pro metal drummers like Eloy Casagrande and Tomas Haake.',
+    },
+    'meinl-byzance-series-cymbals': {
+      name: 'Meinl Byzance Series Cymbals',
+      category: 'cymbals',
+      description: 'Meinl Byzance cymbals — favored by Tomas Haake, Matt Halpern, and top progressive metal drummers.',
+    },
+    'paiste-rude-series-cymbals': {
+      name: 'Paiste RUDE Series Cymbals',
+      category: 'cymbals',
+      description: 'Paiste RUDE cymbals — the aggressive, loud choice of thrash and death metal drummers worldwide.',
+    },
+    'zildjian-a-custom-series-cymbals': {
+      name: 'Zildjian A Custom Series Cymbals',
+      category: 'cymbals',
+      description: 'Zildjian A Custom cymbals — a go-to choice for metal drummers seeking bright, cutting projection.',
+    },
+    'vic-firth-american-classic-5b': {
+      name: 'Vic Firth American Classic 5B',
+      category: 'drumsticks',
+      description: 'Vic Firth American Classic 5B drumsticks — widely used by metal drummers for their balance and power.',
+    },
+    'pearl-demon-drive-double-pedal': {
+      name: 'Pearl Demon Drive Double Pedal',
+      category: 'double bass pedal',
+      description: 'The Pearl Demon Drive double bass pedal — favored by speed-focused metal drummers for its smooth, fast action.',
+    },
+    'tama-starclassic-walnut-birch-drums': {
+      name: 'Tama Starclassic Walnut/Birch Drums',
+      category: 'drum kit',
+      description: 'Tama Starclassic Walnut/Birch drum kit — prized by metal drummers for its warm attack and projection.',
+    },
+    'pearl-reference-series-drums': {
+      name: 'Pearl Reference Series Drums',
+      category: 'drum kit',
+      description: 'Pearl Reference Series drums — a multi-ply, multi-species shell used by metal drummers seeking a versatile, powerful kit.',
+    },
+    'sonor-sq2-heavy-beech-drums': {
+      name: 'Sonor SQ2 Heavy Beech Drums',
+      category: 'drum kit',
+      description: 'Sonor SQ2 Heavy Beech drums — boutique German-made kits delivering punishing low-end for extreme metal.',
+    },
+    'sabian-hhx-series-cymbals': {
+      name: 'Sabian HHX Series Cymbals',
+      category: 'cymbals',
+      description: 'Sabian HHX cymbals — dark, complex sound profile popular among progressive and extreme metal drummers.',
+    },
+  };
+
+  const gearItemMatch = path.match(/^\/gear\/([a-z0-9-]+)$/);
+  if (gearItemMatch) {
+    const slug = gearItemMatch[1];
+    const item = GEAR_ITEM_META[slug];
+    if (item) {
+      return {
+        title: `${item.name} — Used by Pro Metal Drummers | ${SITE_NAME}`,
+        description: item.description,
+        image: DEFAULT_IMAGE,
+        type: 'website',
+        url: `${BASE_URL}/gear/${slug}`,
+        articleSchema: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'BreadcrumbList',
+          itemListElement: [
+            { '@type': 'ListItem', position: 1, name: 'Home', item: BASE_URL },
+            { '@type': 'ListItem', position: 2, name: 'Gear', item: `${BASE_URL}/gear` },
+            { '@type': 'ListItem', position: 3, name: item.name, item: `${BASE_URL}/gear/${slug}` },
+          ],
+        }),
+      };
+    }
+  }
+
   // Issue #1301: /gear/<category> — 6 browsable category pages
   const GEAR_CATEGORY_META = {
     cymbals: {

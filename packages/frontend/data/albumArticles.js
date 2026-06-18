@@ -19657,6 +19657,310 @@ Matt Halpern proved that progressive metal drumming doesn't have to sacrifice gr
 
 🥁 *"Groove is king. Everything else serves the groove."* — The philosophy that defined a genre. 🤘`
     }
+  },
+
+  'matt-greiner-complete-drum-setup': {
+    slug: 'matt-greiner-complete-drum-setup',
+    articleType: 'drummer-kit',
+    drummer: 'Matt Greiner',
+    drummerId: 32,
+    band: 'August Burns Red',
+    bands: ['August Burns Red'],
+    genre: 'Metalcore',
+    country: 'USA',
+    isAlbumArticle: true,
+    datePublished: '2026-06-18',
+    dateModified: '2026-06-18',
+    author: 'MetalForge Editorial',
+    // SEO
+    title: 'Matt Greiner Complete Drum Setup — August Burns Red Gear Guide',
+    description: "Complete breakdown of Matt Greiner's drum setup with August Burns Red. Pearl Reference Pure kit, Meinl Byzance cymbals, Pearl Demon Drive pedals, and Vic Firth signature sticks — the full gear guide for metalcore's most musical drummer.",
+    seoKeywords: ['matt greiner drum setup', 'matt greiner drum kit', 'august burns red drummer gear', 'matt greiner pearl drums', 'matt greiner meinl cymbals', 'matt greiner sticks', 'metalcore drum setup', 'august burns red drums'],
+    ogImage: '/images/drummers/matt-greiner.webp',
+    // Introduction
+    intro: {
+      title: "The Architect of August Burns Red's Sound",
+      content: `Matt Greiner (born May 2, 1985, in Lancaster, Pennsylvania) isn't just the drummer for August Burns Red — he's the rhythmic foundation of one of metalcore's most influential bands. As a founding member since 2003, Greiner has been the engine behind ABR's Grammy-nominated catalog, from the breakneck precision of "Composure" to the melodic sophistication of "Ghosts."
+
+What sets Greiner apart in the metalcore landscape isn't just speed or technical chops — it's musicality. Where many metalcore drummers prioritize aggression above all else, Greiner brings a jazz-informed dynamic range, creative cymbal orchestration, and an architect's sense of arrangement to every track. His playing locks with guitarist JB Brubaker's intricate riffs in a way that transforms difficult patterns into grooves you can feel.
+
+August Burns Red has earned multiple Grammy nominations, a Billboard 200 presence, and a devoted global following — much of that driven by Greiner's uncompromising drumming. His Pearl signature snare drum and ongoing endorsements with Meinl Cymbals and Vic Firth reflect an artist at the top of his genre.
+
+This article breaks down every piece of gear in Matt Greiner's current setup, from his Pearl Reference Pure kit to his Meinl Byzance cymbal arsenal, and examines how each component contributes to August Burns Red's signature sound.`,
+      keyPoints: [
+        'Founding member of August Burns Red since 2003',
+        'Pearl Drums endorsee with Matt Greiner Signature snare',
+        'Meinl Cymbals artist — Byzance series specialist',
+        'Vic Firth Matt Greiner signature sticks',
+        'Multiple Grammy nominations for Best Metal Performance',
+        'Known for jazz-influenced dynamics in a metalcore context'
+      ]
+    },
+    // Drum Kit Section
+    drumKit: {
+      title: "Matt's Pearl Reference Pure",
+      brand: 'Pearl',
+      model: 'Pearl Reference Pure',
+      finish: 'Piano Black',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum (x2 — double kick)'],
+        toms: ['10" x 7" Rack Tom', '12" x 8" Rack Tom', '14" x 14" Floor Tom', '16" x 14" Floor Tom'],
+        shells: 'Maple/mahogany hybrid shells with free-floating shell design'
+      },
+      description: `Matt Greiner's Pearl Reference Pure kit in Piano Black is one of the finest production kits available for metalcore. The "Pure" designation refers to the classic tone-focused design of the Reference series — prioritizing natural shell resonance over extra reinforcement layers.
+
+The maple/mahogany hybrid construction gives Greiner exactly what metalcore demands: maple's warmth and sustain combined with mahogany's focused low-end punch. The result is a kit that cuts through dense guitar mixes without losing the nuance of ghost notes or melodic fill work.
+
+Greiner runs double kicks — two 22" x 18" bass drums — generating the thunderous foot work that drives tracks like "Composure" and "White Washed." The 22" diameter provides substantial low-frequency presence, while the 18" depth adds body and authority to each stroke. Two separate bass drums give Greiner subtle differences in feel and resonance between feet that a double pedal on a single kick cannot replicate.
+
+His four-tom configuration spans from 10" to 16", covering a wide melodic range. August Burns Red's music frequently features melodic tom passages between heavy riffs, and this spread allows Greiner to construct fills that function as counter-melodies rather than simple transitions.
+
+The Piano Black finish is understated by ABR's production standards — this kit speaks through performance, not visual excess.`,
+      notes: [
+        'Pearl Reference Pure — flagship Pearl production shell',
+        'Maple/mahogany hybrid for warmth and punch',
+        'Double 22" kick drums for independent feel per foot',
+        'Four-tom spread (10", 12", 14", 16") for melodic fills',
+        'Piano Black finish with chrome hardware'
+      ],
+      estimatedValue: '$3,500–5,500 (Reference Pure shell pack)'
+    },
+    // Snare Section
+    snare: {
+      title: 'The Signature Weapon: Pearl Matt Greiner Snare',
+      brand: 'Pearl',
+      model: 'Pearl Matt Greiner Signature Snare',
+      size: '14" x 6"',
+      shell: 'Steel',
+      description: `The Pearl Matt Greiner Signature snare is purpose-built for metalcore. At 14" x 6", the depth provides extra body and projection — critical for cutting through two heavy guitars in a live ABR mix.
+
+The steel shell is the defining choice. Steel snares deliver a focused, cutting crack with brighter high-frequency content than wood. For Greiner's style — where the snare must punch through blast beats and syncopated patterns alike — steel provides the immediate attack and fast decay that wood cannot match in a dense metalcore mix.
+
+Pearl equipped this model with die-cast hoops for maximum rimshot consistency and durability under touring conditions. Die-cast hoops also contribute to the focused tone, dampening overtones that would muddy complex patterns.
+
+Greiner typically tunes the snare on the brighter side of medium, allowing crisp ghost notes during quieter passages while maintaining authority on the heavy backbeats of ABR's heavier sections. Head selection — Remo Controlled Sound or Evans Hybrid — adds another layer of attack control, allowing him to dial in ghost note sensitivity without sacrificing power on full strokes.
+
+The 6" depth (deeper than a standard 5.5" snare) gives the drum a fuller, more commanding voice without crossing into the "fat" territory that can clash with metalcore's tight production aesthetic.`,
+      tuningSetting: 'Medium-bright for articulation and rimshot power across the full dynamic range',
+      heads: 'Remo Controlled Sound Coated (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$350–500 (signature model)'
+    },
+    // Cymbals Section
+    cymbals: {
+      title: 'The Meinl Byzance Arsenal',
+      brand: 'Meinl',
+      series: 'Meinl Byzance Series',
+      setup: [
+        { type: 'Hi-Hats', model: 'Meinl Byzance 15" Dual Hi-Hats', position: 'Left side', notes: 'Dual construction for complex, layered tone' },
+        { type: 'Crash', model: 'Meinl Byzance 18" Extra Dry Medium Crash', position: 'Left crash', notes: 'Fast response, controlled decay' },
+        { type: 'Crash', model: 'Meinl Byzance 19" Extra Dry Medium Crash', position: 'Right crash', notes: 'Slightly larger for fuller sound on big accents' },
+        { type: 'Ride', model: 'Meinl Byzance 21" Transition Ride', position: 'Right', notes: 'Versatile — usable as ride or large crash' },
+        { type: 'China', model: 'Meinl Byzance 18" Extra Dry China', position: 'Over rack toms', notes: 'Dry, aggressive china for accent work' },
+        { type: 'Splash', model: 'Meinl Byzance 10" Splash', position: 'Effects left', notes: 'Quick accent splashes' },
+        { type: 'Splash', model: 'Meinl Byzance 12" Splash', position: 'Effects right', notes: 'Slightly fuller splash accent' }
+      ],
+      description: `Matt Greiner's Meinl Byzance setup is built around the "Extra Dry" philosophy — cymbals with raw, unlathed surfaces that produce dark, dry, fast-decaying sounds ideal for dense metalcore production.
+
+The 15" Byzance Dual Hi-Hats are the standout choice. "Dual" cymbals combine two different alloy types in a single cymbal, creating a more complex, layered tone than a standard hi-hat pair. For Greiner's intricate patterns — including aggressive choked strokes and subtler ghosted passages within the same song — the Dual hi-hats provide tonal depth without excess wash that would cloud rapid single-stroke work.
+
+The Extra Dry crash setup (18" and 19") is perfectly matched to metalcore production. Extra Dry cymbals feature raw, hammered surfaces with minimal lathing, producing controlled crashes that speak fast and decay quickly. In a genre where rhythmic precision is paramount, crashes that linger too long blur the picture. Greiner's Extra Dry crashes accent the moment, then immediately get out of the way.
+
+The 21" Byzance Transition Ride occupies the middle ground between ride and crash — "Transition" models are designed to be crashable rides that double as large crashes when driven hard. This versatility serves ABR's dynamic range, letting Greiner shift from delicate ride passages to explosive crashes without reaching across the kit.
+
+The 18" Extra Dry China adds an aggressive, trashier texture for ABR's heaviest passages. Used selectively, it's the sonic exclamation point at the end of Greiner's most intense fills.
+
+The dual splash setup (10" and 12") provides quick accent tools for subtle texture or dramatic stabs between riffs — a signature touch in Greiner's more experimental moments.`,
+      estimatedValue: '$2,000–3,000 (full Byzance setup)'
+    },
+    // Hardware Section
+    hardware: {
+      title: 'Pearl Demon Drive Foundation',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'Pearl',
+          model: 'Pearl Demon Drive Double Pedal',
+          notes: 'Direct-drive for maximum control and consistent feel',
+          description: "The Pearl Demon Drive direct-drive pedal is Greiner's choice for its immediate, one-to-one feel. Unlike chain-drive systems, direct drives transmit every ounce of force directly to the beater cam, providing the clarity and speed needed for ABR's precise double-kick patterns. Live, the consistent feel across different stage conditions makes it invaluable."
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth Matt Greiner Signature',
+          notes: 'Custom taper and bead designed for power with nuance',
+          description: "Greiner's Vic Firth signature sticks reflect his playing philosophy: power without sacrificing control. The custom dimensions balance durability for explosive metalcore playing with the sensitivity needed for the ghost notes and textural work that define his more musical moments."
+        },
+        {
+          type: 'Drumheads (Toms, Batter)',
+          brand: 'Remo',
+          model: 'Remo Emperor Coated',
+          notes: 'Warm attack with controlled sustain'
+        },
+        {
+          type: 'Drumheads (Bass, Batter)',
+          brand: 'Remo',
+          model: 'Remo Powerstroke 3',
+          notes: 'Focused attack and controlled low-end for metalcore production'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke 3 (batter), Remo Powerstroke 3 ported (resonant)',
+        toms: 'Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)',
+        snare: 'Remo Controlled Sound Coated (batter), Remo Ambassador Snare Side (resonant)'
+      }
+    },
+    // Gear Timeline
+    gearTimeline: [
+      {
+        era: 'Early ABR Years',
+        years: '2003–2009',
+        albums: ['Thrill Seeker', 'Messengers', 'Constellations'],
+        description: 'Establishing the ABR sound through rapid development.',
+        gear: {
+          drums: 'Various Pearl kits (Pearl Export / Vision)',
+          snare: 'Pearl Free-Floating models',
+          cymbals: 'Meinl (developing endorsement)',
+          hardware: 'Standard Pearl hardware'
+        },
+        notes: 'Building the technical metalcore vocabulary that would define the genre.'
+      },
+      {
+        era: 'Breakthrough Era',
+        years: '2011–2015',
+        albums: ['Leveler', 'Rescue & Restore', 'Found in Far Away Places'],
+        description: 'Billboard 200 success and Grammy nomination.',
+        gear: {
+          drums: 'Pearl Reference kits',
+          snare: 'Pearl signature development period',
+          cymbals: 'Meinl Byzance series solidified',
+          hardware: 'Pearl Demon Drive pedals'
+        },
+        notes: 'Gear refined alongside ABR reaching commercial and critical peak.'
+      },
+      {
+        era: 'Signature Era',
+        years: '2017–Present',
+        albums: ['Phantom Anthem', 'Guardians', 'Death Below'],
+        description: 'Pearl signature snare released; current rig solidified.',
+        gear: {
+          drums: 'Pearl Reference Pure in Piano Black',
+          snare: 'Pearl Matt Greiner Signature 14"x6" Steel',
+          cymbals: 'Full Meinl Byzance Dual/Extra Dry setup',
+          hardware: 'Pearl Demon Drive double pedal, Vic Firth MG signature sticks'
+        },
+        notes: 'Peak gear for peak band output. Grammy-nominated setup.'
+      }
+    ],
+    // Playing Style Section
+    playingStyle: {
+      title: 'Live vs. Studio: How Greiner Adapts the Rig',
+      content: `Matt Greiner's approach adapts meaningfully between live performance and studio recording — a distinction that reveals his deep understanding of the drum's role in different sonic contexts.
+
+**Studio Precision:**
+In the studio, Greiner tightens every element. Drum production on August Burns Red albums — particularly from "Constellations" onward — reflects meticulous tuning and head selection. Toms are tuned in intervals that complement ABR's guitar harmonics, not just arbitrary pitches. The snare is dialed for controlled sustain, avoiding ringing frequencies that clash with rhythm guitar. Bass drums receive appropriate dampening — typically a ported resonant head — to deliver the punchy, defined attack that defines modern metalcore production.
+
+Ghost notes become more prominent in studio mixes, where engineers can carve frequency space that live venues don't offer. The subtle left-hand texture between heavy hits is as important to Greiner's studio identity as the explosions.
+
+**Live Performance:**
+Greiner's live setup closely mirrors his studio rig with accommodations for stage energy. Crashes may be slightly more open to carry over crowd noise. Stack cymbal combinations may shift between tours for specific songs.
+
+The Pearl Demon Drive direct-drive pedal is especially critical live — its consistent feel across varying stage surfaces, temperature fluctuations affecting head tension, and the demands of 90-minute metalcore sets all require reliable equipment. Direct-drive's consistent response removes variables that chain drives can introduce.
+
+**The August Burns Red Production Context:**
+ABR albums treat the drums as the compositional backbone of dense, harmonically complex arrangements. Greiner's gear choices — Extra Dry Meinl cymbals, steel signature snare, direct-drive pedal — are engineered for articulation in those arrangements rather than for sustain or ambient warmth.`,
+      keyTechniques: [
+        'Jazz-influenced ghost notes providing texture under metalcore riffs',
+        'Syncopated kick patterns locking with ABR\'s off-beat guitar writing',
+        'Dynamic range from delicate to crushing within a single arrangement',
+        'Creative stack cymbal work for textural variety',
+        'Precise double-kick execution on demanding metalcore patterns'
+      ]
+    },
+    // Quotes
+    quotes: [
+      { text: "Every note has to serve the song. If you're playing something just to show off, the band is the one that suffers.", source: 'Drumeo Interview', year: 2019 },
+      { text: "The Pearl snare cuts through the guitars — that's the whole point. You want articulation, not mud.", source: 'Modern Drummer Feature', year: 2018 }
+    ],
+    // Buying Guide
+    buyingGuide: {
+      title: "Getting the Greiner Sound: A Buyer's Guide",
+      content: `Matching Matt Greiner's exact rig requires serious investment, but you can capture elements of his approach at different price points.
+
+**Budget Approach ($1,000–2,000):**
+- Pearl Export or Decade Maple kit — Pearl's entry-level production shells
+- Meinl HCS or HCS Bronze cymbals — affordable Meinl entry point
+- Pearl P-2002 Eliminator double pedal
+- Vic Firth American Classic 5B sticks (closest to Greiner's dimensions)
+
+**Mid-Range Approach ($2,500–5,000):**
+- Pearl Session Studio Select or Decade Maple Pro
+- Meinl Byzance Extra Dry 18" and 19" crashes (buy individually)
+- Pearl Demon Drive single pedal (upgrade to double)
+- Pearl Sensitone or Free-Floating snare for studio-quality crack
+
+**Professional Approach ($6,000+):**
+- Pearl Reference Pure shell pack in Piano Black
+- Full Meinl Byzance Dual/Extra Dry setup: hi-hats, crashes, ride, china, splashes
+- Pearl Demon Drive double pedal
+- Pearl Matt Greiner Signature Snare 14"x6" steel`,
+      budgetTiers: [
+        { tier: 'Budget', range: '$1,000–2,000', notes: 'Pearl Export + Meinl HCS + Eliminator pedal' },
+        { tier: 'Mid-Range', range: '$2,500–5,000', notes: 'Session Studio + Byzance Extra Dry crashes + Demon Drive' },
+        { tier: 'Professional', range: '$6,000+', notes: 'Reference Pure + full Byzance + Signature Snare' }
+      ]
+    },
+    // FAQ Section
+    faq: [
+      {
+        question: 'What drum kit does Matt Greiner use?',
+        answer: "Matt Greiner plays a Pearl Reference Pure kit in Piano Black. The Reference Pure features maple/mahogany hybrid shells and is Pearl's flagship production kit. He runs a double-kick setup with two 22\" x 18\" bass drums, and toms ranging from 10\" to 16\"."
+      },
+      {
+        question: 'What cymbals does Matt Greiner play?',
+        answer: "Matt Greiner is a Meinl Cymbals endorsee and plays the Byzance series. His setup includes 15\" Byzance Dual Hi-Hats, 18\" and 19\" Extra Dry Medium Crashes, a 21\" Byzance Transition Ride, an 18\" Extra Dry China, and 10\" and 12\" splashes. The Extra Dry finish gives his cymbals a controlled, fast-decaying sound ideal for dense metalcore production."
+      },
+      {
+        question: 'What sticks does Matt Greiner use?',
+        answer: "Matt Greiner plays Vic Firth Matt Greiner Signature sticks — a custom model designed for his specific playing demands. The sticks balance power for metalcore's heaviest passages with control for the ghost notes and textural work that define his more musical moments with August Burns Red."
+      },
+      {
+        question: 'What snare drum does Matt Greiner use?',
+        answer: "Matt Greiner plays the Pearl Matt Greiner Signature snare drum — a 14\" x 6\" steel shell model. The steel construction provides a bright, cutting crack that cuts through August Burns Red's dense guitar arrangements. The 6\" depth gives it more body than a standard 5.5\" snare without sacrificing articulation."
+      },
+      {
+        question: 'What double bass pedal does Matt Greiner use?',
+        answer: "Matt Greiner uses the Pearl Demon Drive double bass drum pedal. The Demon Drive is a direct-drive system — the footboard connects to the cam via a rigid shaft rather than a chain or belt — providing an immediate, responsive feel essential for August Burns Red's precise double-kick metalcore patterns."
+      }
+    ],
+    // Related content
+    relatedAlbums: ['whats-in-matt-halperns-kit', 'obzen-drum-setup'],
+    relatedDrummers: [18, 5, 14], // Matt Halpern, Tomas Haake, Danny Carey
+    relatedArticles: ['metalcore-drummer-gear', 'best-crash-cymbals-metal'],
+    conclusion: {
+      title: "Twenty Years in the Driver's Seat",
+      content: `Matt Greiner has spent over twenty years proving that metalcore drumming can be simultaneously brutal and musical. From ABR's debut to "Death Below," he has been the constant heartbeat of one of the genre's most consistent bands — never settling for the technical minimum, always finding the groove inside the complexity.
+
+His gear choices reflect that philosophy at every level:
+
+- **Pearl Reference Pure**: A flagship kit that rewards the nuance he brings
+- **Meinl Byzance Extra Dry**: Cymbals designed for articulation, not ambient wash
+- **Pearl Demon Drive**: Direct-drive precision for technical metalcore patterns
+- **Pearl Signature Snare**: A steel shell purpose-built for cutting metalcore mixes
+- **Vic Firth Signature Sticks**: Custom balance for power and control
+
+For drummers studying Greiner's approach, the gear is just the beginning. The real lesson is his relentless musicality — how he treats the drum kit as a compositional instrument within the band, not just a timekeeping engine.
+
+Study "Composure" for syncopation. Study "White Washed" for blast beat groove. Study "Meddler" for restraint and dynamics. These songs contain the complete curriculum of modern metalcore drumming, taught by a master who has been at it since 2003.
+
+Internal links for deeper study:
+- **Full drummer profile**: [Matt Greiner at MetalForge](/drummer/matt-greiner)
+- **Signature lick breakdowns**: [Matt Greiner Lick Hub](/drummers/matt-greiner/licks)
+- **Meinl Byzance users**: [Who Plays Meinl Byzance](/gear/meinl/byzance/drummers-using)
+
+Matt Greiner turned a Lancaster, Pennsylvania basement into the launching pad for one of metal's most influential careers. The Pearl Reference Pure is just the vehicle. The driver has been there all along.
+
+🥁 *"Every note has to serve the song."* — Matt Greiner 🤘`
+    }
   }
 };
 

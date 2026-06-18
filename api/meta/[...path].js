@@ -523,6 +523,19 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/articles`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        name: 'Metal Drummer Gear Articles & Guides',
+        description: 'In-depth articles about metal drummer gear, album recording setups, and equipment breakdowns.',
+        url: `${BASE_URL}/articles`,
+        publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+        hasPart: Object.values(ALBUM_ARTICLES).slice(0, 20).map(a => ({
+          '@type': 'Article',
+          headline: a.title,
+          url: `${BASE_URL}/articles/${a.slug}`,
+        })),
+      }),
     };
   }
 

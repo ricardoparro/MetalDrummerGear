@@ -187,6 +187,52 @@ See the [All Techniques index](https://metalforge.io/llms/techniques.md) for a c
 
 ---
 
+## Gear Series (36 total)
+
+Per-series deep-dive files (300–500 words each) optimised for AI retrieval on high-intent gear queries
+like "which metal drummers use the Pearl Reference Pure?" or "who plays Tama Starclassic?".
+
+| Brand | Series | Category | Drummers | File |
+|-------|--------|----------|----------|------|
+| DW | 9000 Series Double Pedal | Hardware / Pedals | 2 | [dw-9000-series-double-pedal.md](https://metalforge.io/llms/gear-series/dw-9000-series-double-pedal.md) |
+| DW | 9000 Series Double Pedal + Throne | Hardware / Pedals | 2 | [dw-9000-series-double-pedal-dw-9100-throne.md](https://metalforge.io/llms/gear-series/dw-9000-series-double-pedal-dw-9100-throne.md) |
+| Mapex | Falcon Double Pedal + Throne | Hardware / Pedals | 3 | [mapex-falcon-double-pedal-mapex-t865-throne.md](https://metalforge.io/llms/gear-series/mapex-falcon-double-pedal-mapex-t865-throne.md) |
+| Meinl | Byzance | Cymbals | 8 | [meinl-byzance.md](https://metalforge.io/llms/gear-series/meinl-byzance.md) |
+| Paiste | RUDE & 2002 | Cymbals | 7 | [paiste-rude-2002.md](https://metalforge.io/llms/gear-series/paiste-rude-2002.md) |
+| Pearl | Demon Drive Double Pedal | Hardware / Pedals | 3 | [pearl-demon-drive-double-pedal.md](https://metalforge.io/llms/gear-series/pearl-demon-drive-double-pedal.md) |
+| Pearl | Demon Drive + D-2000 Throne | Hardware / Pedals | 3 | [pearl-demon-drive-double-pedal-pearl-d-2000-throne.md](https://metalforge.io/llms/gear-series/pearl-demon-drive-double-pedal-pearl-d-2000-throne.md) |
+| Pearl | Demon Drive + D-3000 Throne | Hardware / Pedals | 2 | [pearl-demon-drive-double-pedal-pearl-d-3000-throne.md](https://metalforge.io/llms/gear-series/pearl-demon-drive-double-pedal-pearl-d-3000-throne.md) |
+| Pearl | Eliminator Double Pedal | Hardware / Pedals | 2 | [pearl-eliminator-double-pedal.md](https://metalforge.io/llms/gear-series/pearl-eliminator-double-pedal.md) |
+| Pearl | Masters 14x5.5" Maple | Snare Drums | 3 | [pearl-masters-14x5-5-maple.md](https://metalforge.io/llms/gear-series/pearl-masters-14x5-5-maple.md) |
+| Pearl | Masters Maple Complete | Drums / Kits | 2 | [pearl-masters-maple-complete.md](https://metalforge.io/llms/gear-series/pearl-masters-maple-complete.md) |
+| Pearl | Masterworks Stadium Exotic | Drums / Kits | 2 | [pearl-masterworks-stadium-exotic.md](https://metalforge.io/llms/gear-series/pearl-masterworks-stadium-exotic.md) |
+| Pearl | Reference | Drums / Kits | 6 | [pearl-reference.md](https://metalforge.io/llms/gear-series/pearl-reference.md) |
+| Pearl | Reference 14x6.5" Brass | Snare Drums | 7 | [pearl-reference-14x6-5-brass.md](https://metalforge.io/llms/gear-series/pearl-reference-14x6-5-brass.md) |
+| Pearl | Reference Pure | Drums / Kits | 5 | [pearl-reference-pure.md](https://metalforge.io/llms/gear-series/pearl-reference-pure.md) |
+| Sabian | AAX | Cymbals | 6 | [sabian-aax.md](https://metalforge.io/llms/gear-series/sabian-aax.md) |
+| Sabian | AAX & HHX | Cymbals | 4 | [sabian-aax-hhx.md](https://metalforge.io/llms/gear-series/sabian-aax-hhx.md) |
+| Sabian | HHX & AAX | Cymbals | 4 | [sabian-hhx-aax.md](https://metalforge.io/llms/gear-series/sabian-hhx-aax.md) |
+| Sonor | SQ2 | Drums / Kits | 3 | [sonor-sq2.md](https://metalforge.io/llms/gear-series/sonor-sq2.md) |
+| Sonor | SQ2 Heavy Beech | Drums / Kits | 3 | [sonor-sq2-heavy-beech.md](https://metalforge.io/llms/gear-series/sonor-sq2-heavy-beech.md) |
+| Tama | S.L.P. 14x6.5" G-Maple | Snare Drums | 4 | [tama-s-l-p-14x6-5-g-maple.md](https://metalforge.io/llms/gear-series/tama-s-l-p-14x6-5-g-maple.md) |
+| Tama | S.L.P. Big Black Steel 14x6.5" | Snare Drums | 2 | [tama-s-l-p-big-black-steel-14x6-5.md](https://metalforge.io/llms/gear-series/tama-s-l-p-big-black-steel-14x6-5.md) |
+| Tama | Speed Cobra 910 Double Pedal | Hardware / Pedals | 3 | [tama-speed-cobra-910-double-pedal.md](https://metalforge.io/llms/gear-series/tama-speed-cobra-910-double-pedal.md) |
+| Tama | Starclassic | Drums / Kits | 2 | [tama-starclassic.md](https://metalforge.io/llms/gear-series/tama-starclassic.md) |
+| Tama | Starclassic Bubinga | Drums / Kits | 5 | [tama-starclassic-bubinga.md](https://metalforge.io/llms/gear-series/tama-starclassic-bubinga.md) |
+| Tama | Starclassic Maple | Drums / Kits | 5 | [tama-starclassic-maple.md](https://metalforge.io/llms/gear-series/tama-starclassic-maple.md) |
+| Tama | Starclassic Maple/Birch | Drums / Kits | 2 | [tama-starclassic-maple-birch.md](https://metalforge.io/llms/gear-series/tama-starclassic-maple-birch.md) |
+| Tama | Starclassic Walnut/Birch | Drums / Kits | 2 | [tama-starclassic-walnut-birch.md](https://metalforge.io/llms/gear-series/tama-starclassic-walnut-birch.md) |
+| Vic Firth | American Classic 2B | Drumsticks | 3 | [vic-firth-american-classic-2b.md](https://metalforge.io/llms/gear-series/vic-firth-american-classic-2b.md) |
+| Vic Firth | American Classic 5A | Drumsticks | 9 | [vic-firth-american-classic-5a.md](https://metalforge.io/llms/gear-series/vic-firth-american-classic-5a.md) |
+| Vic Firth | American Classic 5B | Drumsticks | 17 | [vic-firth-american-classic-5b.md](https://metalforge.io/llms/gear-series/vic-firth-american-classic-5b.md) |
+| Vic Firth | American Classic Extreme 5B | Drumsticks | 2 | [vic-firth-american-classic-extreme-5b.md](https://metalforge.io/llms/gear-series/vic-firth-american-classic-extreme-5b.md) |
+| Zildjian | A Custom & K | Cymbals | 2 | [zildjian-a-custom-k.md](https://metalforge.io/llms/gear-series/zildjian-a-custom-k.md) |
+| Zildjian | A Custom & K Custom | Cymbals | 3 | [zildjian-a-custom-k-custom.md](https://metalforge.io/llms/gear-series/zildjian-a-custom-k-custom.md) |
+| ddrum | Dios | Drums / Kits | 2 | [ddrum-dios.md](https://metalforge.io/llms/gear-series/ddrum-dios.md) |
+| ddrum | Dios 14x6.5" Maple | Snare Drums | 2 | [ddrum-dios-14x6-5-maple.md](https://metalforge.io/llms/gear-series/ddrum-dios-14x6-5-maple.md) |
+
+---
+
 ## Licks per Drummer (20 total)
 
 Per-drummer signature lick files (800–10,000+ chars each) optimised for AI retrieval on queries

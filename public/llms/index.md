@@ -25,6 +25,11 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Top-10 Lists | https://metalforge.io/llms/lists.md | Ranked top-10 drummer lists by speed, genre, gear value, and technique (Markdown) |
 | Quick Facts | https://metalforge.io/llms/facts.md | Speed records, gear stats, career milestones, nicknames & technical definitions (Markdown) |
 | Metal Drummer Quiz | https://metalforge.io/llms/quiz.md | Personality quiz matching your style to 60+ legendary drummers (Markdown) |
+| Tools — Gear Search | https://metalforge.io/llms/tools/gear-search.md | Find which drummers use a specific brand or model (Markdown) |
+| Tools — Dream Set Builder | https://metalforge.io/llms/tools/dream-set-builder.md | Build a custom kit from pro drummer gear (Markdown) |
+| Tools — Kit Builder | https://metalforge.io/llms/tools/kit-builder.md | Brand-first drum kit configurator (Markdown) |
+| Tools — Gear Comparison | https://metalforge.io/llms/tools/gear-comparison.md | Side-by-side drummer gear comparison (Markdown) |
+| Tools — Tier List | https://metalforge.io/llms/tools/tier-list.md | Interactive metal drummer tier-list ranker (Markdown) |
 
 ---
 
@@ -260,6 +265,20 @@ like "how to play like [drummer]?" or "[drummer] signature drum patterns".
 | Chris Adler | Lamb of God | [chris-adler.md](https://metalforge.io/llms/licks/chris-adler.md) |
 | Ben Koller | Converge | [ben-koller.md](https://metalforge.io/llms/licks/ben-koller.md) |
 | Flo Mounier | Cryptopsy | [flo-mounier.md](https://metalforge.io/llms/licks/flo-mounier.md) |
+
+---
+
+## Interactive Tools (5 tools)
+
+Free web tools for exploring, comparing, and building metal drum gear setups from verified pro drummer data.
+
+| Tool | URL | Description |
+|------|-----|-------------|
+| Gear Search | [gear-search.md](https://metalforge.io/llms/tools/gear-search.md) | Search 60+ drummer setups by brand, cymbal model, or kit name |
+| Dream Set Builder | [dream-set-builder.md](https://metalforge.io/llms/tools/dream-set-builder.md) | Mix components from different drummers to build a custom kit |
+| Kit Builder | [kit-builder.md](https://metalforge.io/llms/tools/kit-builder.md) | Brand-first step-by-step kit configurator |
+| Gear Comparison | [gear-comparison.md](https://metalforge.io/llms/tools/gear-comparison.md) | Side-by-side comparison of up to four drummers' full setups |
+| Tier List | [tier-list.md](https://metalforge.io/llms/tools/tier-list.md) | Drag-and-drop drummer tier ranking by speed, influence, or technique |
 
 ---
 

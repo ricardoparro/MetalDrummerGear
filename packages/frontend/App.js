@@ -18056,110 +18056,8 @@ function DrummerList({
       />
       {/* Browse by Gear Type - 6 category hub links (Issue #1235) */}
       <BrowseByGearCategory theme={theme} />
-      {/* Explore Tools Strip - replaces 14-button wall (Issue #1232, #1234) */}
-      <ExploreToolsStrip
-        theme={theme}
-        onNavigateToCompare={onNavigateToCompare}
-        onNavigateToQuiz={onNavigateToQuiz}
-        onNavigateToQuotes={onNavigateToQuotes}
-        onNavigateToGearFinder={onNavigateToGearFinder}
-        onNavigateToKitBuilder={onNavigateToKitBuilder}
-        onNavigateToBpmTap={onNavigateToBpmTap}
-        onNavigateToBirthdayCalendar={onNavigateToBirthdayCalendar}
-        onNavigateToTimeline={onNavigateToTimeline}
-        onNavigateToGenresList={onNavigateToGenresList}
-        onNavigateToTechniques={onNavigateToTechniques}
-        onNavigateToKitQuiz={onNavigateToKitQuiz}
-        onNavigateToGuessTheKit={onNavigateToGuessTheKit}
-        onNavigateToNews={onNavigateToNews}
-        onNavigateToToolsHub={onNavigateToToolsHub}
-      />
-      {/* Drummer Spotlight Section */}
-      {spotlight && (
-        <DrummerSpotlight
-          drummer={spotlight}
-          theme={theme}
-          onSelectDrummer={onSelectDrummer}
-          onViewAllSpotlights={onNavigateToSpotlights}
-        />
-      )}
-      {/* Recently Updated Gear Section (Issue #715) */}
-      {/* SEO freshness signals + engagement driver */}
-      <RecentlyUpdatedGear
-        theme={theme}
-        drummers={drummers}
-        onSelectDrummer={onSelectDrummer}
-      />
-      {/* Trending This Week Section (Issue #671) */}
-      <TrendingThisWeek
-        theme={theme}
-        drummers={drummers}
-        onSelectDrummer={onSelectDrummer}
-      />
-      {/* This Week's Battle Widget (Issue #689) */}
-      {drummers.length > 0 && (
-        <View style={styles.battleWidgetContainer}>
-          <BattleWidget
-            theme={theme}
-            drummers={drummers}
-            onNavigateToBattle={() => {
-              const battle = generateWeeklyBattle();
-              const d1 = drummers.find(d => d.id === battle.drummer1Id);
-              const d2 = drummers.find(d => d.id === battle.drummer2Id);
-              if (d1 && d2) {
-                const slug = getBattleSlug(generateDrummerSlug(d1.name), generateDrummerSlug(d2.name));
-                if (Platform.OS === 'web' && typeof window !== 'undefined') {
-                  window.history.pushState({}, '', `/battles/${slug}`);
-                  window.dispatchEvent(new PopStateEvent('popstate'));
-                }
-              }
-            }}
-          />
-        </View>
-      )}
-      {/* Endorsement News Widget (Issue #802) */}
-      <Suspense fallback={<View style={{ height: 200, backgroundColor: theme.card, margin: 16, borderRadius: 12 }} />}>
-        <LazyEndorsementNewsWidget
-          theme={theme}
-          onNavigateToNews={() => {
-            if (Platform.OS === 'web' && typeof window !== 'undefined') {
-              window.history.pushState({}, '', '/endorsement-news');
-              window.dispatchEvent(new PopStateEvent('popstate'));
-            }
-          }}
-          onNavigateToDrummer={(slug) => {
-            if (Platform.OS === 'web' && typeof window !== 'undefined') {
-              window.history.pushState({}, '', `/drummers/${slug}/endorsements`);
-              window.dispatchEvent(new PopStateEvent('popstate'));
-            }
-          }}
-        />
-      </Suspense>
-      {/* Lick of the Day Widget (Issue #759) */}
-      <Suspense fallback={<View style={{ height: 300, backgroundColor: theme.card, margin: 16, borderRadius: 16 }} />}>
-        <LazyLickOfTheDayWidget
-          theme={theme}
-          onNavigate={(lick) => {
-            if (Platform.OS === 'web' && typeof window !== 'undefined') {
-              window.history.pushState({}, '', `/drummers/${lick.drummerSlug}/licks/${lick.slug}`);
-              window.dispatchEvent(new PopStateEvent('popstate'));
-            }
-          }}
-        />
-      </Suspense>
-      {/* Top 10 Lists Section */}
-      <TopListsSection theme={theme} onNavigateToList={onNavigateToList} />
-      
-      {/* Album Articles Section - Iconic Album Gear Breakdowns (Issue #663) */}
-      <AlbumArticlesSection theme={theme} />
-      
-      {/* Most Popular Gear Section (Issue #640) */}
-      <MostPopularGear theme={theme} onSelectDrummer={onSelectDrummer} />
-
-      {/* Popular Brands Section (Issue #1236) */}
-      <PopularBrands theme={theme} />
-
-      {/* Featured Drummers Section Header (Issue #496) */}
+      {/* Featured Drummers Section Header (Issue #496) — moved above FilterBar so
+          drummer grid is reachable with far less scrolling (Issue #1237) */}
       {!showAllDrummers && !searchValue && !filters.genre && !filters.brand && (
         <FeaturedDrummersSectionHeader theme={theme} />
       )}
@@ -18184,13 +18082,8 @@ function DrummerList({
     theme, searchValue, onSearchChange, onSearchFocus, onSearchClear,
     suggestions, onSelectSuggestion, showSuggestions, searchInputRef,
     drummers, onNavigateToQuiz, onNavigateToCompare, onNavigateToBeginnerGuide,
-    onNavigateToQuotes, onNavigateToGearFinder, onNavigateToKitBuilder,
-    onNavigateToBpmTap, onNavigateToBirthdayCalendar, onNavigateToTimeline,
-    onNavigateToGenresList, onNavigateToToolsHub, onNavigateToTechniques,
-    onNavigateToKitQuiz, onNavigateToGuessTheKit, onNavigateToNews,
-    onNavigateToSpotlights, filters, onFilterChange, sortBy, onSortChange,
+    filters, onFilterChange, sortBy, onSortChange,
     filteredDrummers, handleClearAllFilters, showAllDrummers,
-    spotlight, onSelectDrummer,
   ]);
 
   // Empty list message (should rarely show on homepage since we show featured drummers)
@@ -18202,7 +18095,8 @@ function DrummerList({
     </View>
   );
 
-  // Footer with "View All Drummers" button (Issue #497) and Last Updated timestamp (Issue #449)
+  // Footer with discovery sections + "View All Drummers" + timestamp (Issue #497, #449, #1237)
+  // Secondary widgets demoted below the drummer grid per wireframe (Issue #1237).
   const ListFooter = () => (
     <View>
       {/* View All Drummers button - navigates to /drummers page (Issue #497) */}
@@ -18219,6 +18113,123 @@ function DrummerList({
           View All {drummers.length} Drummers →
         </Text>
       </TouchableOpacity>
+
+      {/* Trending This Week Section (Issue #671) */}
+      <TrendingThisWeek
+        theme={theme}
+        drummers={drummers}
+        onSelectDrummer={onSelectDrummer}
+      />
+
+      {/* Most Popular Gear Section (Issue #640) */}
+      <MostPopularGear theme={theme} onSelectDrummer={onSelectDrummer} />
+
+      {/* Popular Brands Section (Issue #1236) */}
+      <PopularBrands theme={theme} />
+
+      {/* Recently Updated Gear Section (Issue #715) */}
+      <RecentlyUpdatedGear
+        theme={theme}
+        drummers={drummers}
+        onSelectDrummer={onSelectDrummer}
+      />
+
+      {/* Drummer Spotlight Section */}
+      {spotlight && (
+        <DrummerSpotlight
+          drummer={spotlight}
+          theme={theme}
+          onSelectDrummer={onSelectDrummer}
+          onViewAllSpotlights={onNavigateToSpotlights}
+        />
+      )}
+
+      {/* Explore Tools Strip - tools discovery (Issue #1232, #1234) */}
+      <ExploreToolsStrip
+        theme={theme}
+        onNavigateToCompare={onNavigateToCompare}
+        onNavigateToQuiz={onNavigateToQuiz}
+        onNavigateToQuotes={onNavigateToQuotes}
+        onNavigateToGearFinder={onNavigateToGearFinder}
+        onNavigateToKitBuilder={onNavigateToKitBuilder}
+        onNavigateToBpmTap={onNavigateToBpmTap}
+        onNavigateToBirthdayCalendar={onNavigateToBirthdayCalendar}
+        onNavigateToTimeline={onNavigateToTimeline}
+        onNavigateToGenresList={onNavigateToGenresList}
+        onNavigateToTechniques={onNavigateToTechniques}
+        onNavigateToKitQuiz={onNavigateToKitQuiz}
+        onNavigateToGuessTheKit={onNavigateToGuessTheKit}
+        onNavigateToNews={onNavigateToNews}
+        onNavigateToToolsHub={onNavigateToToolsHub}
+      />
+
+      {/* More to Explore — novelty widgets demoted below core content (Issue #1237) */}
+      <View style={styles.featuredSection}>
+        <Text style={[styles.featuredSectionTitle, { color: theme.text }]}>
+          More to Explore
+        </Text>
+      </View>
+
+      {/* This Week's Battle Widget (Issue #689) */}
+      {drummers.length > 0 && (
+        <View style={styles.battleWidgetContainer}>
+          <BattleWidget
+            theme={theme}
+            drummers={drummers}
+            onNavigateToBattle={() => {
+              const battle = generateWeeklyBattle();
+              const d1 = drummers.find(d => d.id === battle.drummer1Id);
+              const d2 = drummers.find(d => d.id === battle.drummer2Id);
+              if (d1 && d2) {
+                const slug = getBattleSlug(generateDrummerSlug(d1.name), generateDrummerSlug(d2.name));
+                if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                  window.history.pushState({}, '', `/battles/${slug}`);
+                  window.dispatchEvent(new PopStateEvent('popstate'));
+                }
+              }
+            }}
+          />
+        </View>
+      )}
+
+      {/* Endorsement News Widget (Issue #802) */}
+      <Suspense fallback={<View style={{ height: 200, backgroundColor: theme.card, margin: 16, borderRadius: 12 }} />}>
+        <LazyEndorsementNewsWidget
+          theme={theme}
+          onNavigateToNews={() => {
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/endorsement-news');
+              window.dispatchEvent(new PopStateEvent('popstate'));
+            }
+          }}
+          onNavigateToDrummer={(slug) => {
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', `/drummers/${slug}/endorsements`);
+              window.dispatchEvent(new PopStateEvent('popstate'));
+            }
+          }}
+        />
+      </Suspense>
+
+      {/* Lick of the Day Widget (Issue #759) */}
+      <Suspense fallback={<View style={{ height: 300, backgroundColor: theme.card, margin: 16, borderRadius: 16 }} />}>
+        <LazyLickOfTheDayWidget
+          theme={theme}
+          onNavigate={(lick) => {
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', `/drummers/${lick.drummerSlug}/licks/${lick.slug}`);
+              window.dispatchEvent(new PopStateEvent('popstate'));
+            }
+          }}
+        />
+      </Suspense>
+
+      {/* Top 10 Lists Section */}
+      <TopListsSection theme={theme} onNavigateToList={onNavigateToList} />
+
+      {/* Album Articles Section - Iconic Album Gear Breakdowns (Issue #663) */}
+      <AlbumArticlesSection theme={theme} />
+
       <View style={[styles.lastUpdatedContainer, { borderTopColor: theme.border }]}>
         {Platform.OS === 'web' ? (
           <time dateTime="2026-02-17" style={[styles.textXs, { color: theme.secondaryText }]}>

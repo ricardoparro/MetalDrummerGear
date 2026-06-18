@@ -750,17 +750,79 @@ function getMetaForPath(pathname) {
   }
 
   // Issue #1209: /drummers/<slug>/licks/<lick-slug> individual lick page
+  // Issue #1347: add HowTo + VideoObject + MusicRecording JSON-LD for SSR visibility
   const lickPageMatch = path.match(/^\/drummers\/([a-z0-9-]+)\/licks\/([a-z0-9-]+)$/);
   if (lickPageMatch) {
     const [, drummerSlug, lickSlug] = lickPageMatch;
     const lick = SIGNATURE_LICKS[lickSlug];
     if (lick) {
+      const lickUrl = `${BASE_URL}/drummers/${drummerSlug}/licks/${lickSlug}`;
+      const thumbId = lick.video?.youtubeId || lick.tutorial?.youtubeId || null;
+
+      const graph = [
+        // VideoObject — primary performance video if present
+        ...(lick.video ? [{
+          '@type': 'VideoObject',
+          name: lick.video.title,
+          description: lick.video.description,
+          thumbnailUrl: `https://i.ytimg.com/vi/${lick.video.youtubeId}/hqdefault.jpg`,
+          uploadDate: '2024-01-01',
+          contentUrl: `https://www.youtube.com/watch?v=${lick.video.youtubeId}`,
+          embedUrl: `https://www.youtube.com/embed/${lick.video.youtubeId}`,
+        }] : []),
+        // HowTo — step-by-step breakdown
+        {
+          '@type': 'HowTo',
+          name: `How to Play ${lick.name}`,
+          description: lick.description,
+          ...(thumbId ? { image: `https://i.ytimg.com/vi/${thumbId}/hqdefault.jpg` } : {}),
+          totalTime: 'PT30M',
+          tool: (lick.gearUsed || []).map(g => ({ '@type': 'HowToTool', name: g.name })),
+          step: ((lick.techniqueDetails && lick.techniqueDetails.length)
+            ? lick.techniqueDetails
+            : (lick.learningTips || [])
+          ).map((text, index) => ({
+            '@type': 'HowToStep',
+            position: index + 1,
+            name: `Step ${index + 1}`,
+            text,
+          })),
+          supply: (lick.techniques || []).map(t => ({
+            '@type': 'HowToSupply',
+            name: t.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase()),
+          })),
+        },
+        // MusicRecording — song metadata
+        {
+          '@type': 'MusicRecording',
+          name: lick.song,
+          byArtist: { '@type': 'MusicGroup', name: lick.band },
+          inAlbum: { '@type': 'MusicAlbum', name: lick.album.split(' (')[0] },
+        },
+        // Tutorial VideoObject if available
+        ...(lick.tutorial ? [{
+          '@type': 'VideoObject',
+          name: lick.tutorial.title,
+          description: lick.tutorial.description,
+          thumbnailUrl: `https://i.ytimg.com/vi/${lick.tutorial.youtubeId}/hqdefault.jpg`,
+          contentUrl: `https://www.youtube.com/watch?v=${lick.tutorial.youtubeId}`,
+          embedUrl: `https://www.youtube.com/embed/${lick.tutorial.youtubeId}`,
+        }] : []),
+      ];
+
       return {
         title: `${lick.name} — ${lick.drummerName} (${lick.band}) Drum Lick | ${SITE_NAME}`,
         description: `Learn the ${lick.name} drum lick by ${lick.drummerName} of ${lick.band}. From ${lick.song} (${lick.album}). ${lick.description.slice(0, 100)}...`,
         image: DEFAULT_IMAGE,
         type: 'article',
-        url: `${BASE_URL}/drummers/${drummerSlug}/licks/${lickSlug}`,
+        url: lickUrl,
+        articleSchema: JSON.stringify({ '@context': 'https://schema.org', '@graph': graph }),
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: lick.drummerName, url: `${BASE_URL}/drummers/${drummerSlug}` },
+          { name: 'Signature Licks', url: `${BASE_URL}/drummers/${drummerSlug}/licks` },
+          { name: lick.name, url: lickUrl },
+        ],
       };
     }
   }

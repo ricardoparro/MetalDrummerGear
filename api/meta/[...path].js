@@ -565,7 +565,17 @@ function getMetaForPath(pathname) {
     const band = BAND_DATA[bandMatch[1]];
     if (band) {
       const drummerMember = band.members?.find(m => /drum/i.test(m.role));
-      const drummerName = drummerMember?.name;
+      let drummerName = drummerMember?.name;
+      // Fallback: derive current drummer from drummerHistory when members[] is absent
+      if (!drummerName && band.drummerHistory?.length > 0) {
+        const currentEntry =
+          band.drummerHistory.find(d => d.period?.includes('present')) ||
+          band.drummerHistory[band.drummerHistory.length - 1];
+        if (currentEntry) {
+          const d = getDrummerBySlug(currentEntry.drummer);
+          drummerName = d?.name;
+        }
+      }
       const faqItems = [
         ...(drummerName ? [{
           question: `Who is the drummer for ${band.name}?`,

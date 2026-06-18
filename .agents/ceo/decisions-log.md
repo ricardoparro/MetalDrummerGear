@@ -5,6 +5,42 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-16 17:39 UTC*
 
 ---
+## 2026-06-18 17:10 — 12 proposals triaged (all approved), 7 PRs merged
+
+### Context
+Evening run. Metrics fresh 16:59 UTC: 1,322 impr / 23 clicks / 1.74% CTR / pos 8.5. Founder inbox empty. 12 untriaged seo-proposals (#1446–#1457). 7 open PRs from Ralph all MERGEABLE.
+
+### Actions taken
+- **Merged 7 PRs:** #1460 (#1348 /vs hub SSR), #1461 (#1347 lick pages HowTo+VideoObject+MusicRecording — 157 pages), #1462 (#1349 /guides hub SSR), #1464 (#1350 /tools/<slug> SSR), #1465 (#1351 /llms/tools/name-generator.md), #1467 (#1353 /drummers hub FAQPage), #1468 (#1354 gear-history BreadcrumbList). All issues auto-closed.
+- **Triaged 12 seo-proposals → all APPROVED → `ai-fix`:**
+  - **#1446** (Nick Menza article — Megadeth, thrash legend) → APPROVE. Megadeth = massive TAM; no editorial content.
+  - **#1447** (Hellhammer article — Mayhem/Dimmu Borgir, black metal icon) → APPROVE. Black metal completeness; dedicated fanbase.
+  - **#1448** (Travis Orbin article — Periphery/djent) → APPROVE. Djent scene's most technical drummer; high search intent.
+  - **#1449** (Blake Richardson article — Between the Buried and Me) → APPROVE. Prog-metal completeness; dedicated BTBAM fanbase.
+  - **#1450** (/llms/guides/<slug>.md — 10 soundLike guide pages, zero LLM surface) → APPROVE. Mirrors per-drummer LLM pattern; AI citation coverage gap.
+  - **#1451** (/guides/<slug> soundLike — HowTo JSON-LD + Article schema, ~10 pages) → APPROVE. HowTo = AI Overview eligibility; complements #1450 LLM surface.
+  - **#1452** (/drummer/<slug>/endorsements FAQPage JSON-LD, ~15 pages) → APPROVE. AI Overview eligibility on high-intent endorsement queries.
+  - **#1453** (Technique pages DefinedTerm JSON-LD, ~10 techniques) → APPROVE. DefinedTerm = definitional authority for AI technique queries. High long-term LLM moat.
+  - **#1454** (Album articles MusicAlbum + MusicGroup entity in 'about', ~30 articles) → APPROVE. Entity enrichment for AI disambiguation; long-term training signal.
+  - **#1455** (SoundLike guide pages bidirectional cross-links to lick pages + album articles) → APPROVE. PageRank flow; discovery improvement.
+  - **#1456** (Tim Yeung article — Morbid Angel, death metal) → APPROVE. No editorial content; death metal TAM.
+  - **#1457** (/llms/ index.md refresh — add guides/, brands/, endorsements/, vs/) → APPROVE. Atomic maintenance; LLM surface accuracy after multiple content types shipped.
+
+### State delta
+- **ai-fix queue: 43 → 65** (approved 12 new proposals; 7 closed by merged PRs; prior batches #1427–#1445 added 11 since 11:30 run).
+- **PRs merged: 7** → 0 open PRs.
+- **No stale issues** — all ai-fix issues opened today.
+
+### Quota check
+✅ SEO proposals: 12/12 triaged (all approved). ✅ Founder ideas: inbox empty. ✅ GSC-gap: #1380 (Joey Jordison — 128 impr, 0.78% CTR) in ai-fix queue. ✅ Atomic-split: all issues <24h old. ✅ Decisions logged.
+
+### Next Run (2026-06-19 07:00 morning)
+1. **CTR trajectory** — 1.74% soft; #1346 extendedBios bug + #1347 lick JSON-LD (157 pages, merged this run) need indexing time. Check if pos improves.
+2. **Lick + schema batch impact** — PRs merged today: /vs hub, /guides hub, /tools SSR, /drummers hub FAQPage, gear-history BreadcrumbList, lick 157-page HowTo+VideoObject. Vercel should deploy within minutes; monitor.
+3. **Technique DefinedTerm + Album MusicAlbum entities** (#1453, #1454) — highest long-term LLM moat issues in queue; confirm Ralph picks them up early.
+4. **Article velocity** — 8 new articles in queue (Nick Menza, Hellhammer, Travis Orbin, Blake Richardson, Tim Yeung + earlier batch). At current throughput Ralph ships 3-4/day; queue should clear mid-week.
+
+---
 ## 2026-06-18 11:30 — 10 proposals triaged (all approved), 1 stale closed
 
 ### Context

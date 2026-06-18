@@ -2471,6 +2471,13 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
         "keywords": list.seoKeywords?.join(', ') || '',
         "articleSection": list.isAlbumArticle ? "Album Gear Breakdown" : "Top 10 Lists",
         "inLanguage": "en-US",
+        ...(list.relatedDrummerSlug ? {
+          "about": {
+            "@type": "Person",
+            "name": list.drummer,
+            "url": `https://metalforge.io/drummer/${list.relatedDrummerSlug}`
+          }
+        } : {}),
         "breadcrumb": {
           "@type": "BreadcrumbList",
           "itemListElement": [
@@ -3099,6 +3106,21 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
               </View>
             ))}
           </View>
+        )}
+
+        {/* Drummer Profile CTA — bidirectional PageRank link (Issue #1332) */}
+        {list.relatedDrummerSlug && Platform.OS === 'web' && (
+          <a
+            href={`/drummer/${list.relatedDrummerSlug}`}
+            onClick={(e) => { e.preventDefault(); if (typeof window !== 'undefined') window.location.href = `/drummer/${list.relatedDrummerSlug}`; }}
+            style={{ textDecoration: 'none', display: 'block', margin: '0 20px 20px' }}
+          >
+            <View style={[styles.drummerProfileCta, { backgroundColor: theme.primary + '20', borderColor: theme.primary, borderWidth: 2, borderStyle: 'solid', borderRadius: 12, padding: 20, alignItems: 'center' }]}>
+              <Text style={[styles.drummerProfileCtaText, { color: theme.primary, fontSize: 16, fontWeight: '700', textAlign: 'center' }]}>
+                See {list.drummer}'s Complete Gear Setup →
+              </Text>
+            </View>
+          </a>
         )}
 
         {/* Conclusion Section */}

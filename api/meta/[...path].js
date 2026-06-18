@@ -687,6 +687,17 @@ function getMetaForPath(pathname) {
     }
   }
 
+  // Issue #1299: /history page
+  if (path === '/history') {
+    return {
+      title: `Metal Drum Kit History & Evolution Timeline | ${SITE_NAME}`,
+      description: 'The complete history of metal drumming — from Black Sabbath in 1968 to modern extreme metal. How drum kits, techniques, and gear evolved across 50+ years.',
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url: `${BASE_URL}/history`,
+    };
+  }
+
   // Default fallback
   return {
     title: `${SITE_NAME} — Metal Drummer Gear Database`,

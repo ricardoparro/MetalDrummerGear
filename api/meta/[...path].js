@@ -14,7 +14,7 @@ import { ALBUM_ARTICLES } from '../../packages/frontend/data/albumArticles.js';
 // Issue #1172: band-specific SSR meta for /bands/<slug> and /bands index pages.
 import { bands as BAND_DATA } from '../../packages/frontend/data/bands.js';
 // Issue #1202: individual technique page SSR meta for /technique/<slug> and /technique/<slug>/drummers.
-import { getTechniqueBySlug } from '../../packages/frontend/data/techniques.js';
+import { getTechniqueBySlug, getAllTechniques } from '../../packages/frontend/data/techniques.js';
 // Issue #1209: lick page SSR meta for /licks, /drummers/<slug>/licks, /drummers/<slug>/licks/<slug>.
 import SIGNATURE_LICKS from '../../packages/frontend/data/licks/index.js';
 // Issue #1210: top-10 list page SSR meta for /lists/<slug>.
@@ -367,6 +367,23 @@ function getMetaForPath(pathname) {
       image: `${BASE_URL}/images/og/techniques-preview.png`,
       type: 'website',
       url: `${BASE_URL}/techniques`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        name: 'Metal Drumming Techniques',
+        description: 'Complete guide to metal drumming techniques: blast beats, double bass, gravity blast, polyrhythms, and more.',
+        url: `${BASE_URL}/techniques`,
+        publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+        hasPart: getAllTechniques().map(t => ({
+          '@type': 'Article',
+          name: t.title,
+          url: `${BASE_URL}/technique/${t.slug}`,
+        })),
+      }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Techniques', url: `${BASE_URL}/techniques` },
+      ],
     };
   }
 
@@ -648,6 +665,23 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/bands`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        name: 'Metal Bands & Their Drummers',
+        description: 'Browse metal bands and the drummers behind them — lineups, drum gear, and discographies.',
+        url: `${BASE_URL}/bands`,
+        publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+        hasPart: Object.values(BAND_DATA).map(b => ({
+          '@type': 'MusicGroup',
+          name: b.name,
+          url: `${BASE_URL}/bands/${b.slug}`,
+        })),
+      }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Bands', url: `${BASE_URL}/bands` },
+      ],
     };
   }
 

@@ -456,6 +456,34 @@ function getMetaForPath(pathname) {
     }
   }
 
+  // Budget guide — $500
+  if (path === '/guides/budget-metal-drum-setup-500') {
+    return {
+      title: `Budget Metal Drum Setup Under $500 — Full Guide | ${SITE_NAME}`,
+      description: 'Complete guide to building a metal-ready drum kit for under $500. Best budget shells, cymbals, hardware, and pedals for beginner metal drummers.',
+      type: 'article',
+      url: `${BASE_URL}/guides/budget-metal-drum-setup-500`,
+    };
+  }
+  // Budget guide — $1000
+  if (path === '/guides/budget-metal-drum-setup-1000') {
+    return {
+      title: `Best Metal Drum Setup Under $1000 — Buyer's Guide | ${SITE_NAME}`,
+      description: 'Step up your rig: best mid-range metal drum kits, cymbals, and double-kick pedals for under $1000. Gear the pros recommend for serious beginners.',
+      type: 'article',
+      url: `${BASE_URL}/guides/budget-metal-drum-setup-1000`,
+    };
+  }
+  // Budget guide — $2000
+  if (path === '/guides/budget-metal-drum-setup-2000') {
+    return {
+      title: `Best Metal Drum Setup Under $2000 — Pro-Level Picks | ${SITE_NAME}`,
+      description: 'Semi-pro metal kit for under $2000: Tama, Pearl, DW shells, Meinl/Zildjian cymbals, Iron Cobra pedals. The sweet spot before endorsement-level gear.',
+      type: 'article',
+      url: `${BASE_URL}/guides/budget-metal-drum-setup-2000`,
+    };
+  }
+
   // Beginner guide and other /guides/<slug> pages
   const guidesMatch = path.match(/^\/guides\/([a-z0-9-]+)$/);
   if (guidesMatch) {

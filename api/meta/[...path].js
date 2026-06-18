@@ -19,6 +19,8 @@ import { getTechniqueBySlug, getAllTechniques } from '../../packages/frontend/da
 import SIGNATURE_LICKS from '../../packages/frontend/data/licks/index.js';
 // Issue #1210: top-10 list page SSR meta for /lists/<slug>.
 import { TOP_10_LISTS } from '../../packages/frontend/data/top10Lists.js';
+// Issue #1379: /gear/<brand>/<series>/drummers-using SSR meta (~40 pages).
+import { GEAR_INDEX } from '../../packages/frontend/data/gearIndex.js';
 
 const BASE_URL = 'https://metalforge.io';
 const SITE_NAME = 'MetalForge';
@@ -929,6 +931,48 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/history`,
+    };
+  }
+
+  // Issue #1379: /gear/<brand>/<series>/drummers-using (~40 pages)
+  const gearSeriesDrummersMatch = path.match(/^\/gear\/([a-z0-9-]+)\/([a-z0-9-]+)\/drummers-using$/);
+  if (gearSeriesDrummersMatch) {
+    const [, brandSlug, seriesSlug] = gearSeriesDrummersMatch;
+    const slugify = (str) => String(str).toLowerCase().replace(/['"]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+    let brandName = brandSlug;
+    let seriesName = seriesSlug;
+    outer: for (const [brand, seriesObj] of Object.entries(GEAR_INDEX)) {
+      if (slugify(brand) !== brandSlug) continue;
+      for (const series of Object.keys(seriesObj)) {
+        if (slugify(series) === seriesSlug) {
+          brandName = brand;
+          seriesName = series;
+          break outer;
+        }
+      }
+    }
+    return {
+      title: `${brandName} ${seriesName} — Metal Drummers Who Use This Gear | ${SITE_NAME}`,
+      description: `Discover which professional metal drummers use ${brandName} ${seriesName}. Full list of artists, complete gear setups, and equipment endorsements.`,
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url: `${BASE_URL}/gear/${brandSlug}/${seriesSlug}/drummers-using`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        name: `Metal Drummers Who Use ${brandName} ${seriesName}`,
+        description: `Professional metal drummers who use ${brandName} ${seriesName}`,
+        url: `${BASE_URL}/gear/${brandSlug}/${seriesSlug}/drummers-using`,
+        breadcrumb: {
+          '@type': 'BreadcrumbList',
+          itemListElement: [
+            { '@type': 'ListItem', position: 1, name: 'Home', item: BASE_URL },
+            { '@type': 'ListItem', position: 2, name: 'Gear', item: `${BASE_URL}/gear` },
+            { '@type': 'ListItem', position: 3, name: brandName, item: `${BASE_URL}/gear/${brandSlug}` },
+            { '@type': 'ListItem', position: 4, name: `${brandName} ${seriesName} Drummers`, item: `${BASE_URL}/gear/${brandSlug}/${seriesSlug}/drummers-using` },
+          ],
+        },
+      }),
     };
   }
 

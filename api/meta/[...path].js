@@ -606,7 +606,7 @@ function getMetaForPath(pathname) {
     };
   }
 
-  // Issue #1209: /licks top-level hub
+  // Issue #1209 / #1325: /licks top-level hub — CollectionPage + BreadcrumbList
   if (path === '/licks') {
     return {
       title: `Signature Metal Drum Licks — Learn from the Legends | ${SITE_NAME}`,
@@ -629,7 +629,7 @@ function getMetaForPath(pathname) {
     };
   }
 
-  // Issue #1209: /drummers/<slug>/licks per-drummer hub
+  // Issue #1209 / #1325: /drummers/<slug>/licks per-drummer hub — CollectionPage + BreadcrumbList
   const drummerLicksHubMatch = path.match(/^\/drummers\/([a-z0-9-]+)\/licks$/);
   if (drummerLicksHubMatch) {
     const [, drummerSlug] = drummerLicksHubMatch;

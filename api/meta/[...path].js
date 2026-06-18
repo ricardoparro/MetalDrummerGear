@@ -598,6 +598,18 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/licks`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        name: 'Signature Metal Drum Licks',
+        description: 'Master the signature drum licks of 60+ metal legends. Step-by-step breakdowns of blast beats, double bass patterns, and iconic fills from George Kollias, Joey Jordison, and more.',
+        url: `${BASE_URL}/licks`,
+        publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+      }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Signature Drum Licks', url: `${BASE_URL}/licks` },
+      ],
     };
   }
 
@@ -613,6 +625,20 @@ function getMetaForPath(pathname) {
         image: DEFAULT_IMAGE,
         type: 'website',
         url: `${BASE_URL}/drummers/${drummerSlug}/licks`,
+        articleSchema: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'CollectionPage',
+          name: `${anyLick.drummerName} Signature Drum Licks`,
+          description: `Learn the signature drum licks of ${anyLick.drummerName} (${anyLick.band}).`,
+          url: `${BASE_URL}/drummers/${drummerSlug}/licks`,
+          publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+        }),
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: 'Drum Licks', url: `${BASE_URL}/licks` },
+          { name: `${anyLick.drummerName}`, url: `${BASE_URL}/drummers/${drummerSlug}` },
+          { name: 'Licks', url: `${BASE_URL}/drummers/${drummerSlug}/licks` },
+        ],
       };
     }
   }

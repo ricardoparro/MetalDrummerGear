@@ -687,6 +687,17 @@ function getMetaForPath(pathname) {
     }
   }
 
+  // Issue #1300: /gear hub page
+  if (path === '/gear') {
+    return {
+      title: `Pro Metal Drum Gear — Kits, Cymbals & Equipment | ${SITE_NAME}`,
+      description: 'Browse drum gear used by 60+ metal legends. Shop cymbals, kits, snares, pedals, sticks, and hardware — filtered by genre, brand, and price.',
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url: `${BASE_URL}/gear`,
+    };
+  }
+
   // Default fallback
   return {
     title: `${SITE_NAME} — Metal Drummer Gear Database`,

@@ -12,7 +12,7 @@ export const extendedBios = {
     bands: [
       { slug: 'metallica', period: '1981-present', role: 'Drummer, co-founder' }
     ],
-    metaTitle: 'Lars Ulrich Biography - Metallica Drummer, Gear & Career | MetalForge',
+    metaTitle: 'Lars Ulrich Drum Kit & Gear Setup — Metallica Drummer | MetalForge',
     metaDescription: 'Complete biography of Lars Ulrich, co-founder and drummer of Metallica. Explore his career from 1981 to present, drumming style, signature gear, and influence on thrash metal.',
     ogImage: '/images/drummers/lars-ulrich.webp',
     keywords: ['thrash metal', 'metallica', 'big four', 'tama drums', 'danish drummer', 'rock hall of fame', 'heavy metal'],
@@ -143,7 +143,7 @@ Ulrich was the first Danish-born musician inducted into the Rock and Roll Hall o
       { slug: 'murderdolls', period: '2002-2011', role: 'Guitar' },
       { slug: 'sinsaenum', period: '2016-2021', role: 'Drums' }
     ],
-    metaTitle: 'Joey Jordison Biography - Slipknot Drummer Legend (1975-2021) | MetalForge',
+    metaTitle: 'Joey Jordison Drum Kit & Gear Setup — Slipknot Drummer | MetalForge',
     metaDescription: 'Complete biography of Joey Jordison, legendary Slipknot drummer. Explore his incredible career, revolutionary drumming style, rotating drum kit, and lasting influence on metal.',
     ogImage: '/images/drummers/joey-jordison.webp',
     keywords: ['slipknot', 'nu metal', 'pearl drums', 'iowa', 'blast beats', 'masked drummer', 'extreme metal'],
@@ -278,7 +278,7 @@ His blistering speed, technical precision, and theatrical stage presence—inclu
       { slug: 'testament', period: '2007-present', role: 'Drummer' },
       { slug: 'dethklok', period: '2007-2014', role: 'Drummer' }
     ],
-    metaTitle: 'Gene Hoglan Biography - "The Atomic Clock" Death Metal Drummer | MetalForge',
+    metaTitle: 'Gene Hoglan Drum Kit & Gear Setup — "The Atomic Clock" Death Metal Drummer | MetalForge',
     metaDescription: 'Complete biography of Gene Hoglan, nicknamed "The Atomic Clock" for his metronomic precision. Explore his work with Death, Testament, Dethklok, and his influence on extreme metal.',
     ogImage: '/images/drummers/gene-hoglan.webp',
     keywords: ['death metal', 'testament', 'death', 'dethklok', 'atomic clock', 'pearl drums', 'technical drumming'],
@@ -410,7 +410,7 @@ Over a career spanning four decades, Hoglan has performed with over 20 major ban
       { slug: 'dead-cross', period: '2017-present', role: 'Drummer' },
       { slug: 'mr-bungle', period: '2019-present', role: 'Drummer' }
     ],
-    metaTitle: 'Dave Lombardo Biography - Slayer Drummer & Thrash Metal Pioneer | MetalForge',
+    metaTitle: 'Dave Lombardo Drum Kit & Gear Setup — Slayer Drummer | MetalForge',
     metaDescription: 'Complete biography of Dave Lombardo, Slayer\'s legendary drummer and godfather of thrash metal drumming. Explore his revolutionary style, Reign in Blood legacy, and diverse career.',
     ogImage: '/images/drummers/dave-lombardo.webp',
     keywords: ['slayer', 'thrash metal', 'big four', 'reign in blood', 'cuban drummer', 'tama drums', 'double bass'],
@@ -541,7 +541,7 @@ His work on landmark albums such as "Reign in Blood," "South of Heaven," and "Se
     bands: [
       { slug: 'meshuggah', period: '1990-present', role: 'Drummer' }
     ],
-    metaTitle: 'Tomas Haake Biography - Meshuggah Drummer & Djent Pioneer | MetalForge',
+    metaTitle: 'Tomas Haake Drum Kit & Gear Setup — Meshuggah Drummer | MetalForge',
     metaDescription: 'Complete biography of Tomas Haake, Meshuggah\'s drummer and architect of the djent movement. Explore his revolutionary polyrhythmic style, the legendary "Bleed" drum part, and his influence on modern metal.',
     ogImage: '/images/drummers/tomas-haake.webp',
     keywords: ['meshuggah', 'djent', 'polyrhythms', 'sonor drums', 'swedish drummer', 'bleed', 'progressive metal'],
@@ -670,7 +670,7 @@ Haake's approach to drumming involves complex polyrhythmic patterns that create 
     bands: [
       { slug: 'nile', period: '2004-present', role: 'Drummer' }
     ],
-    metaTitle: 'George Kollias Biography - Nile Drummer & Extreme Metal Educator | MetalForge',
+    metaTitle: 'George Kollias Drum Kit & Gear Setup — Nile Drummer | MetalForge',
     metaDescription: 'Complete biography of George Kollias, Nile\'s drummer known for extreme speed and precision. Explore his career, educational materials, signature gear, and influence on death metal drumming.',
     ogImage: '/images/drummers/george-kollias.webp',
     keywords: ['nile', 'death metal', 'greek drummer', 'pearl drums', 'blast beats', 'extreme drumming', 'drum educator'],
@@ -799,7 +799,7 @@ Beyond his work with Nile, Kollias is an accomplished drum educator, having rele
       { slug: 'sepultura', period: '2011-2024', role: 'Drummer' },
       { slug: 'slipknot', period: '2024-present', role: 'Drummer' }
     ],
-    metaTitle: 'Eloy Casagrande Biography - Slipknot Drummer & Brazilian Metal Prodigy | MetalForge',
+    metaTitle: 'Eloy Casagrande Drum Kit & Gear Setup — Slipknot Drummer | MetalForge',
     metaDescription: 'Complete biography of Eloy Casagrande, Slipknot\'s new drummer and former Sepultura member. Explore his journey from Brazilian metal prodigy to joining one of metal\'s biggest bands.',
     ogImage: '/images/drummers/eloy-casagrande.webp',
     keywords: ['slipknot', 'sepultura', 'brazilian drummer', 'tama drums', 'thrash metal', 'modern drummer poll'],
@@ -923,7 +923,7 @@ Starting drums at age 7 and joining Sepultura at just 19, Casagrande represented
       { slug: 'winery-dogs', period: '2012-present', role: 'Drummer' },
       { slug: 'sons-of-apollo', period: '2017-present', role: 'Drummer' }
     ],
-    metaTitle: 'Mike Portnoy Biography - Dream Theater Drummer & Progressive Metal Icon | MetalForge',
+    metaTitle: 'Mike Portnoy Drum Kit & Gear Setup — Dream Theater Drummer | MetalForge',
     metaDescription: 'Complete biography of Mike Portnoy, Dream Theater co-founder and progressive metal drumming legend. Explore his 30+ year career, awards, gear, and influence on modern drumming.',
     ogImage: '/images/drummers/mike-portnoy.webp',
     keywords: ['dream theater', 'progressive metal', 'tama drums', 'berklee', 'modern drummer hall of fame', 'winery dogs'],
@@ -1055,7 +1055,7 @@ Portnoy's technical proficiency, creative compositions, and theatrical live perf
       { slug: 'tool', period: '1990-present', role: 'Drummer' },
       { slug: 'volto', period: '2000-present', role: 'Drummer' }
     ],
-    metaTitle: 'Danny Carey Biography - Tool Drummer & Polyrhythmic Genius | MetalForge',
+    metaTitle: 'Danny Carey Drum Kit & Gear Setup — Tool Drummer | MetalForge',
     metaDescription: 'Complete biography of Danny Carey, Tool\'s legendary drummer known for complex polyrhythms, sacred geometry, and innovative drumming. Explore his career, philosophy, and gear.',
     ogImage: '/images/drummers/danny-carey.webp',
     keywords: ['tool', 'progressive metal', 'sonor drums', 'polyrhythms', 'sacred geometry', 'grammy winner', 'mandala drums'],
@@ -1183,7 +1183,7 @@ Standing at 6'5" (196 cm), Carey is an imposing presence behind his massive Sono
     bands: [
       { slug: 'gojira', period: '1996-present', role: 'Drummer, co-founder' }
     ],
-    metaTitle: 'Mario Duplantier Biography - Gojira Drummer & Visual Artist | MetalForge',
+    metaTitle: 'Mario Duplantier Drum Kit & Gear Setup — Gojira Drummer | MetalForge',
     metaDescription: 'Complete biography of Mario Duplantier, Gojira\'s powerful drummer known for tribal rhythms and visual art. Explore his career with Gojira, unique style, and creative contributions.',
     ogImage: '/images/drummers/mario-duplantier.webp',
     keywords: ['gojira', 'french drummer', 'tama drums', 'progressive death metal', 'visual artist', 'flying whales', 'environmental'],
@@ -1311,7 +1311,7 @@ Mario's drumming combines crushing power with technical precision, featuring com
       { slug: 'exodus', period: '2005-2007', role: 'Drummer' },
       { slug: 'forbidden', period: '1987-1989', role: 'Drummer' }
     ],
-    metaTitle: 'Paul Bostaph Biography - Slayer Drummer & Thrash Metal Legend | MetalForge',
+    metaTitle: 'Paul Bostaph Drum Kit & Gear Setup — Slayer Drummer | MetalForge',
     metaDescription: 'Complete biography of Paul Bostaph, Slayer\'s longest-serving drummer. Explore his career from Forbidden to Slayer, his technical style, and contributions to thrash metal.',
     ogImage: '/images/drummers/paul-bostaph.webp',
     sections: {
@@ -1412,7 +1412,7 @@ Before Slayer, Bostaph established his reputation in the Bay Area thrash scene w
       { slug: 'testament', period: '1997-1999, 2001-2012', role: 'Drummer' },
       { slug: 'anthrax', period: '2010', role: 'Touring drummer' }
     ],
-    metaTitle: 'Jon Dette Biography - Slayer & Testament Touring Drummer | MetalForge',
+    metaTitle: 'Jon Dette Drum Kit & Gear Setup — Slayer & Testament Touring Drummer | MetalForge',
     metaDescription: 'Complete biography of Jon Dette, touring drummer for Slayer, Testament, and Anthrax. Thrash metal\'s go-to fill-in drummer.',
     ogImage: '/images/drummers/jon-dette.webp',
     sections: {
@@ -1492,7 +1492,7 @@ Dette served as Slayer's touring drummer during 1996-1997, filling in when Paul 
     bands: [
       { slug: 'cryptopsy', period: '1992-present', role: 'Drummer, founding member' }
     ],
-    metaTitle: 'Flo Mounier Biography - Cryptopsy Drummer & Technical Death Metal Pioneer | MetalForge',
+    metaTitle: 'Flo Mounier Drum Kit & Gear Setup — Cryptopsy Drummer | MetalForge',
     metaDescription: 'Complete biography of Flo Mounier, founding drummer of Cryptopsy. Explore his revolutionary technical death metal drumming, signature gear, and influence on extreme metal.',
     ogImage: '/images/drummers/flo-mounier.webp',
     sections: {
@@ -1607,7 +1607,7 @@ His lightning-fast blast beats, complex polyrhythmic patterns, and jazz-influenc
       { slug: 'shadows-fall', period: '1999-2015', role: 'Drummer' },
       { slug: 'flotsam-and-jetsam', period: '2013-2017', role: 'Drummer' }
     ],
-    metaTitle: 'Jason Bittner Biography - Overkill & Shadows Fall Drummer | MetalForge',
+    metaTitle: 'Jason Bittner Drum Kit & Gear Setup — Overkill & Shadows Fall Drummer | MetalForge',
     metaDescription: 'Complete biography of Jason Bittner, drummer for Overkill and Shadows Fall. Explore his career spanning thrash metal and metalcore, his powerful style, and signature gear.',
     ogImage: '/images/drummers/jason-bittner.webp',
     sections: {
@@ -1721,7 +1721,7 @@ Bittner rose to prominence with Shadows Fall during the early 2000s metalcore ex
       { slug: 'opeth', period: '1997-2006', role: 'Drummer' },
       { slug: 'amon-amarth', period: '1996-1998', role: 'Drummer' }
     ],
-    metaTitle: 'Martin Lopez Biography - Opeth & Soen Drummer | MetalForge',
+    metaTitle: 'Martin Lopez Drum Kit & Gear Setup — Opeth & Soen Drummer | MetalForge',
     metaDescription: 'Complete biography of Martin Lopez, drummer for Soen and formerly Opeth. Explore his influential work on classic Opeth albums, his Soen career, and unique drumming style.',
     ogImage: '/images/drummers/martin-lopez.webp',
     sections: {
@@ -1841,7 +1841,7 @@ Lopez's tenure with Opeth spanned some of the band's most critically acclaimed a
       { slug: 'darkest-hour', period: '2013-2015', role: 'Drummer' },
       { slug: 'sky-harbor', period: '2012-present', role: 'Drummer' }
     ],
-    metaTitle: 'Travis Orbin Biography - Periphery Founding Drummer & Djent Pioneer | MetalForge',
+    metaTitle: 'Travis Orbin Drum Kit & Gear Setup — Periphery Founding Drummer | MetalForge',
     metaDescription: 'Complete biography of Travis Orbin, founding drummer of Periphery who helped define the djent genre. Explore his technical mastery, solo work, and influence on modern progressive metal.',
     ogImage: '/images/drummers/travis-orbin.webp',
     sections: {
@@ -1951,7 +1951,7 @@ Orbin's technical prowess, creative use of polyrhythms, and ability to navigate 
       { slug: 'devin-townsend', period: '1999-present', role: 'Drummer' },
       { slug: 'devin-townsend-project', period: '2009-2018', role: 'Drummer' }
     ],
-    metaTitle: 'Ryan Van Poederooyen Biography - Devin Townsend Drummer | MetalForge',
+    metaTitle: 'Ryan Van Poederooyen Drum Kit & Gear Setup — Devin Townsend Drummer | MetalForge',
     metaDescription: 'Complete biography of Ryan Van Poederooyen, longtime drummer for Devin Townsend. Explore his 25+ year collaboration, versatile drumming style, and contributions to progressive metal.',
     ogImage: '/images/drummers/ryan-van-poederooyen.webp',
     sections: {
@@ -2068,7 +2068,7 @@ Van Poederooyen's versatile drumming has adapted to Townsend's constantly evolvi
       { slug: 'wrathchild-america', period: '1989-1991', role: 'Drummer' },
       { slug: 'another-animal', period: '2007-2008', role: 'Drummer, vocalist' }
     ],
-    metaTitle: 'Shannon Larkin Biography - Godsmack Drummer & Hard Rock Legend | MetalForge',
+    metaTitle: 'Shannon Larkin Drum Kit & Gear Setup — Godsmack Drummer | MetalForge',
     metaDescription: 'Complete biography of Shannon Larkin, Godsmack\'s powerful drummer since 2002. Explore his journey from Ugly Kid Joe to becoming one of modern hard rock\'s most respected drummers.',
     ogImage: '/images/drummers/shannon-larkin.webp',
     sections: {
@@ -2185,7 +2185,7 @@ Known for his powerful, groove-oriented drumming style and dynamic stage presenc
       { slug: 'brujeria', period: '1989-present', role: 'Drummer' },
       { slug: 'arkaea', period: '2008-2011', role: 'Drummer' }
     ],
-    metaTitle: 'Raymond Herrera Biography - Fear Factory Drummer & Industrial Metal Pioneer | MetalForge',
+    metaTitle: 'Raymond Herrera Drum Kit & Gear Setup — Fear Factory Drummer | MetalForge',
     metaDescription: 'Complete biography of Raymond Herrera, founding Fear Factory drummer who pioneered industrial metal drumming. Explore his machine-like precision, triggering techniques, and influence.',
     ogImage: '/images/drummers/raymond-herrera.webp',
     sections: {
@@ -2300,7 +2300,7 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
       { slug: 'mats-morgan-band', period: '1981-present', role: 'Drummer, co-founder' },
       { slug: 'kaipa', period: '2002-2005', role: 'Drummer' }
     ],
-    metaTitle: 'Morgan Ågren Biography - Devin Townsend Drummer & Prog Virtuoso | MetalForge',
+    metaTitle: 'Morgan Ågren Drum Kit & Gear Setup — Devin Townsend Drummer | MetalForge',
     metaDescription: 'Complete biography of Morgan Ågren, Swedish drum virtuoso known for work with Devin Townsend and Frank Zappa. Explore his remarkable technique, jazz fusion background, and influence.',
     ogImage: '/images/drummers/morgan-agren.webp',
     sections: {
@@ -2412,7 +2412,7 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
       { slug: 'mixhell', period: '2007-present', role: 'DJ, Producer' },
       { slug: 'soulwax', period: '2010-present', role: 'Drummer (touring)' }
     ],
-    metaTitle: 'Igor Cavalera Biography - Sepultura Drummer & Tribal Metal Pioneer | MetalForge',
+    metaTitle: 'Igor Cavalera Drum Kit & Gear Setup — Sepultura Drummer | MetalForge',
     metaDescription: 'Complete biography of Igor Cavalera, legendary Sepultura co-founder who pioneered tribal metal drumming. Explore his revolutionary style, Brazilian percussion fusion, and lasting influence.',
     ogImage: '/images/drummers/igor-cavalera.webp',
     sections: {
@@ -2528,7 +2528,7 @@ His innovative drumming on albums like "Arise," "Chaos A.D.," and "Roots" helped
       { slug: 'black-sabbath', period: '1968-1980, 1983-1984, 1997-1998, 2011-2012', role: 'Drummer, co-founder' },
       { slug: 'solo', period: '1990-present', role: 'Solo artist' }
     ],
-    metaTitle: 'Bill Ward Biography - Black Sabbath Drummer & Heavy Metal Pioneer | MetalForge',
+    metaTitle: 'Bill Ward Drum Kit & Gear Setup — Black Sabbath Drummer | MetalForge',
     metaDescription: 'Complete biography of Bill Ward, founding Black Sabbath drummer who pioneered heavy metal drumming. Explore his jazz-influenced style, classic albums, and enduring influence on metal.',
     ogImage: '/images/drummers/bill-ward.webp',
     sections: {
@@ -2646,7 +2646,7 @@ Ward's drumming style combined jazz influences with proto-metal power, creating 
     bands: [
       { slug: 'trivium', period: '2010-2014', role: 'Drummer' }
     ],
-    metaTitle: 'Nick Augusto Biography - Former Trivium Drummer | MetalForge',
+    metaTitle: 'Nick Augusto Drum Kit & Gear Setup — Former Trivium Drummer | MetalForge',
     metaDescription: 'Complete biography of Nick Augusto, former Trivium drummer (2010-2014). Explore his career, drumming style, work on albums like In Waves and Vengeance Falls, and his influence on modern metal.',
     ogImage: '/images/drummers/nick-augusto.webp',
     keywords: ['trivium', 'metalcore', 'thrash metal', 'tama drums', 'in waves', 'vengeance falls', 'orlando drummer', 'modern metal'],
@@ -2762,7 +2762,7 @@ During his four years with Trivium, Augusto recorded two studio albums—"In Wav
     bands: [
       { slug: 'oceans-ate-alaska', period: '2010-present', role: 'Drummer, founding member' }
     ],
-    metaTitle: 'Chris Turner Biography - Oceans Ate Alaska Drummer & Technical Metal Virtuoso | MetalForge',
+    metaTitle: 'Chris Turner Drum Kit & Gear Setup — Oceans Ate Alaska Drummer | MetalForge',
     metaDescription: 'Complete biography of Chris Turner, founding drummer of Oceans Ate Alaska. Explore his revolutionary technical drumming style, viral videos, and influence on progressive metalcore.',
     ogImage: '/images/drummers/chris-turner.webp',
     keywords: ['oceans ate alaska', 'progressive metalcore', 'technical drumming', 'british drummer', 'djent', 'tama drums', 'viral drummer', 'extreme precision'],
@@ -2881,7 +2881,7 @@ Turner's drumming videos have gone viral on social media, showcasing his ability
     bands: [
       { slug: 'august-burns-red', period: '2005-present', role: 'Drummer, founding member' }
     ],
-    metaTitle: 'Matt Greiner Biography - August Burns Red Drummer & Metalcore Legend | MetalForge',
+    metaTitle: 'Matt Greiner Drum Kit & Gear Setup — August Burns Red Drummer | MetalForge',
     metaDescription: 'Complete biography of Matt Greiner, founding drummer of August Burns Red. Explore his innovative metalcore style, Grammy-nominated work, signature snare drum, and influence on modern metal drumming.',
     ogImage: '/images/drummers/matt-greiner.webp',
     keywords: ['august burns red', 'metalcore', 'christian metal', 'meinl cymbals', 'pearl drums', 'grammy nominated', 'lancaster pa', 'technical metalcore'],
@@ -3007,7 +3007,7 @@ His work with August Burns Red has earned a Grammy nomination and widespread cri
     bands: [
       { slug: 'between-the-buried-and-me', period: '2005-present', role: 'Drummer' }
     ],
-    metaTitle: 'Blake Richardson Biography - Between the Buried and Me Drummer & Prog Metal Master | MetalForge',
+    metaTitle: 'Blake Richardson Drum Kit & Gear Setup — Between the Buried and Me Drummer | MetalForge',
     metaDescription: 'Complete biography of Blake Richardson, drummer of Between the Buried and Me. Explore his progressive metal mastery, work on Colors and The Great Misdirect, and his influence on technical metal.',
     ogImage: '/images/drummers/blake-richardson.webp',
     keywords: ['between the buried and me', 'btbam', 'progressive metal', 'meinl cymbals', 'colors album', 'technical metal', 'north carolina', 'prog death'],
@@ -3136,7 +3136,7 @@ Richardson's work on landmark albums like "Colors," "The Great Misdirect," and "
       { slug: 'all-pigs-must-die', period: '2010-present', role: 'Drummer' },
       { slug: 'killer-be-killed', period: '2011-present', role: 'Drums (studio)' }
     ],
-    metaTitle: 'Ben Koller Biography - Converge Drummer & Hardcore Legend | MetalForge',
+    metaTitle: 'Ben Koller Drum Kit & Gear Setup — Converge Drummer | MetalForge',
     metaDescription: 'Complete biography of Ben Koller, legendary Converge drummer since 1999. Explore his genre-defining work on Jane Doe, Mutoid Man projects, and his influence on metalcore and hardcore drumming.',
     ogImage: '/images/drummers/ben-koller.webp',
     keywords: ['converge', 'hardcore punk', 'metalcore', 'jane doe', 'mutoid man', 'all pigs must die', 'boston hardcore', 'tama drums'],
@@ -3266,7 +3266,7 @@ Beyond Converge, Koller maintains an impressive roster of projects including Mut
     bands: [
       { slug: 'cannibal-corpse', period: '1988-present', role: 'Drummer, co-founder' }
     ],
-    metaTitle: 'Paul Mazurkiewicz Biography - Cannibal Corpse Drummer & Death Metal Pioneer | MetalForge',
+    metaTitle: 'Paul Mazurkiewicz Drum Kit & Gear Setup — Cannibal Corpse Drummer | MetalForge',
     metaDescription: 'Complete biography of Paul Mazurkiewicz, co-founder and drummer of Cannibal Corpse. Explore his 35+ year career, brutal drumming style, and influence on death metal.',
     ogImage: '/images/drummers/paul-mazurkiewicz.webp',
     sections: {
@@ -3386,7 +3386,7 @@ His drumming style combines relentless blast beats, complex double bass patterns
       { slug: 'annihilator', period: '1999', role: 'Drummer' },
       { slug: 'steve-vai', period: '1996-2000', role: 'Drummer' }
     ],
-    metaTitle: 'Mike Mangini Biography - Dream Theater Drummer & World Record Holder | MetalForge',
+    metaTitle: 'Mike Mangini Drum Kit & Gear Setup — Dream Theater Drummer | MetalForge',
     metaDescription: 'Complete biography of Mike Mangini, Dream Theater drummer, Berklee professor, and world record holder. Explore his technical mastery, educational contributions, and progressive metal legacy.',
     ogImage: '/images/drummers/mike-mangini.webp',
     sections: {
@@ -3506,7 +3506,7 @@ Before Dream Theater, Mangini built an impressive resume with Steve Vai, Extreme
     bands: [
       { slug: 'animals-as-leaders', period: '2012-present', role: 'Drummer' }
     ],
-    metaTitle: 'Matt Garstka Biography - Animals as Leaders Drummer & Modern Prog Pioneer | MetalForge',
+    metaTitle: 'Matt Garstka Drum Kit & Gear Setup — Animals as Leaders Drummer | MetalForge',
     metaDescription: 'Complete biography of Matt Garstka, Animals as Leaders\' virtuosic drummer. Explore his jazz-fusion approach, polyrhythmic mastery, and influence on modern progressive metal drumming.',
     ogImage: '/images/drummers/matt-garstka.webp',
     sections: {
@@ -3621,7 +3621,7 @@ Garstka joined Animals as Leaders after the departure of original drummer Navene
       { slug: 'in-flames', period: '1997', role: 'Live drummer' },
       { slug: 'carcass', period: '2007-2008', role: 'Live drummer' }
     ],
-    metaTitle: 'Daniel Erlandsson Biography - Arch Enemy Drummer & Melodic Death Metal Pioneer | MetalForge',
+    metaTitle: 'Daniel Erlandsson Drum Kit & Gear Setup — Arch Enemy Drummer | MetalForge',
     metaDescription: 'Complete biography of Daniel Erlandsson, Arch Enemy drummer and founding member. Explore his Scandinavian metal legacy, technical precision, and 30+ year career.',
     ogImage: '/images/drummers/daniel-erlandsson.webp',
     sections: {
@@ -3741,7 +3741,7 @@ Before Arch Enemy, Erlandsson played with Eucharist, one of the pioneers of the 
       { slug: 'warmen', period: '1999-present', role: 'Session drummer' },
       { slug: 'bodom-after-midnight', period: '2020-2021', role: 'N/A (Alexi\'s project)' }
     ],
-    metaTitle: 'Jaska Raatikainen Biography - Children of Bodom Drummer & Finnish Metal Legend | MetalForge',
+    metaTitle: 'Jaska Raatikainen Drum Kit & Gear Setup — Children of Bodom Drummer | MetalForge',
     metaDescription: 'Complete biography of Jaska Raatikainen, Children of Bodom co-founder and drummer. Explore his 26-year career, neoclassical metal style, and legacy in Finnish metal.',
     ogImage: '/images/drummers/jaska-raatikainen.webp',
     sections: {
@@ -3861,7 +3861,7 @@ Children of Bodom became one of Finland's most successful metal exports, selling
       { slug: 'alkaloid', period: '2014-present', role: 'Drummer' },
       { slug: 'blotted-science', period: '2007-2011', role: 'Drummer' }
     ],
-    metaTitle: 'Hannes Grossmann Biography - Obscura & Necrophagist Drummer | MetalForge',
+    metaTitle: 'Hannes Grossmann Drum Kit & Gear Setup — Obscura & Necrophagist Drummer | MetalForge',
     metaDescription: 'Complete biography of Hannes Grossmann, technical death metal virtuoso known for Obscura, Necrophagist, and Alkaloid. Explore his precision drumming, classical influences, and producer work.',
     ogImage: '/images/drummers/hannes-grossmann.webp',
     sections: {
@@ -3975,7 +3975,7 @@ Grossmann first gained international recognition as the drummer for Necrophagist
       { slug: 'vader', period: '2006-2016', role: 'Drummer' },
       { slug: 'vesania', period: '2003-present', role: 'Drummer' }
     ],
-    metaTitle: 'Daray Biography - Dimmu Borgir & Vader Drummer | MetalForge',
+    metaTitle: 'Daray Drum Kit & Gear Setup — Dimmu Borgir & Vader Drummer | MetalForge',
     metaDescription: 'Complete biography of Daray (Dariusz Brzozowski), drummer for Dimmu Borgir and former Vader member. Explore his extreme speed, theatrical flair, and symphonic black metal drumming.',
     ogImage: '/images/drummers/daray.webp',
     sections: {
@@ -4084,7 +4084,7 @@ Daray's drumming combines extreme speed and technical precision with theatrical 
       { slug: 'amon-amarth', period: '2016-present', role: 'Drummer' },
       { slug: 'valkyria', period: '2009-2016', role: 'Drummer' }
     ],
-    metaTitle: 'Jocke Wallgren Biography - Amon Amarth Drummer | MetalForge',
+    metaTitle: 'Jocke Wallgren Drum Kit & Gear Setup — Amon Amarth Drummer | MetalForge',
     metaDescription: 'Complete biography of Jocke Wallgren, Amon Amarth\'s drummer since 2016. Explore his Viking metal drumming style, transition to Amon Amarth, and powerful live performances.',
     ogImage: '/images/drummers/jocke-wallgren.webp',
     sections: {
@@ -4191,7 +4191,7 @@ Before Amon Amarth, Wallgren was known for his work with Swedish bands including
       { slug: 'divine-heresy', period: '2006-2011', role: 'Drummer' },
       { slug: 'nile', period: '2012', role: 'Fill-in drummer' }
     ],
-    metaTitle: 'Tim Yeung Biography - Morbid Angel & Vital Remains Drummer | MetalForge',
+    metaTitle: 'Tim Yeung Drum Kit & Gear Setup — Morbid Angel & Vital Remains Drummer | MetalForge',
     metaDescription: 'Complete biography of Tim Yeung, extreme metal drummer for Morbid Angel, Vital Remains, and Hate Eternal. Explore his incredible speed, precision, and death metal drumming career.',
     ogImage: '/images/drummers/tim-yeung.webp',
     sections: {
@@ -4305,7 +4305,7 @@ Yeung's drumming combines machine-like consistency with the brutal intensity dem
       { slug: 'suffocation', period: '2005-2007', role: 'Drummer' },
       { slug: 'six-feet-under', period: '2011-2017', role: 'Drummer' }
     ],
-    metaTitle: 'Kevin Talley Biography - Dying Fetus & Chimaira Drummer | MetalForge',
+    metaTitle: 'Kevin Talley Drum Kit & Gear Setup — Dying Fetus & Chimaira Drummer | MetalForge',
     metaDescription: 'Complete biography of Kevin Talley, brutal death metal drummer for Dying Fetus, Chimaira, Suffocation, and more. Explore his extreme speed and defining role in brutal death metal.',
     ogImage: '/images/drummers/kevin-talley.webp',
     sections: {
@@ -4418,7 +4418,7 @@ Talley's drumming combines the technical demands of brutal death metal with the 
       { slug: 'trust', period: '1981-1982', role: 'Drummer' },
       { slug: 'pat-travers-band', period: '1977-1981', role: 'Drummer' }
     ],
-    metaTitle: 'Nicko McBrain Biography - Iron Maiden Drummer Legend | MetalForge',
+    metaTitle: 'Nicko McBrain Drum Kit & Gear Setup — Iron Maiden Drummer | MetalForge',
     metaDescription: 'Complete biography of Nicko McBrain, Iron Maiden\'s legendary drummer since 1982. Explore his career, signature single bass drum style, gear, and influence on heavy metal drumming.',
     ogImage: '/images/drummers/nicko-mcbrain.webp',
     sections: {
@@ -4535,7 +4535,7 @@ McBrain is renowned for his powerful single bass drum technique, incredible stam
       { slug: 'judas-priest', period: '1989-present', role: 'Drummer' },
       { slug: 'racer-x', period: '1985-1989', role: 'Drummer' }
     ],
-    metaTitle: 'Scott Travis Biography - Judas Priest Drummer | MetalForge',
+    metaTitle: 'Scott Travis Drum Kit & Gear Setup — Judas Priest Drummer | MetalForge',
     metaDescription: 'Complete biography of Scott Travis, Judas Priest\'s drummer since 1989. Explore his revolutionary double bass technique, career with Racer X, and influence on heavy metal drumming.',
     ogImage: '/images/drummers/scott-travis.webp',
     sections: {
@@ -4650,7 +4650,7 @@ Before joining Judas Priest, Travis was a founding member of neo-classical metal
       { slug: 'king-diamond', period: '1985-1989', role: 'Drummer' },
       { slug: 'don-dokken', period: '1990-1991', role: 'Drummer' }
     ],
-    metaTitle: 'Mikkey Dee Biography - Motörhead & Scorpions Drummer | MetalForge',
+    metaTitle: 'Mikkey Dee Drum Kit & Gear Setup — Motörhead & Scorpions Drummer | MetalForge',
     metaDescription: 'Complete biography of Mikkey Dee, legendary drummer for Motörhead and Scorpions. Explore his career with Lemmy, King Diamond, and his powerful drumming style.',
     ogImage: '/images/drummers/mikkey-dee.webp',
     sections: {
@@ -4764,7 +4764,7 @@ Dee's powerful, hard-hitting style perfectly complemented Lemmy's raw, loud appr
       { slug: 'aurora-borealis', period: '1994-2000', role: 'Drummer' },
       { slug: 'serpents-rise', period: '2010-present', role: 'Drummer' }
     ],
-    metaTitle: 'Derek Roddy Biography - Extreme Metal Drummer & Educator | MetalForge',
+    metaTitle: 'Derek Roddy Drum Kit & Gear Setup — Extreme Metal Drummer | MetalForge',
     metaDescription: 'Complete biography of Derek Roddy, extreme metal drumming pioneer. Explore his work with Hate Eternal, Nile, and his influential educational materials on blast beats and metal technique.',
     ogImage: '/images/drummers/derek-roddy.webp',
     sections: {
@@ -4875,7 +4875,7 @@ Roddy is considered one of the pioneers of modern extreme metal drumming, having
       { slug: 'soilwork', period: '1998-2016', role: 'Drummer' },
       { slug: 'scarve', period: '1995-2008', role: 'Drummer' }
     ],
-    metaTitle: 'Dirk Verbeuren Biography - Megadeth Drummer | MetalForge',
+    metaTitle: 'Dirk Verbeuren Drum Kit & Gear Setup — Megadeth Drummer | MetalForge',
     metaDescription: 'Complete biography of Dirk Verbeuren, Megadeth\'s drummer since 2016. Explore his career with Soilwork, melodic death metal roots, and his powerful thrash drumming style.',
     ogImage: '/images/drummers/dirk-verbeuren.webp',
     sections: {
@@ -4987,7 +4987,7 @@ Verbeuren's drumming combines the technical precision of melodic death metal wit
       { slug: 'satyricon', period: '1993-present', role: 'Drummer' },
       { slug: '1349', period: '2001-present', role: 'Drummer' }
     ],
-    metaTitle: 'Frost Biography - Satyricon & 1349 Drummer, Black Metal Legend | MetalForge',
+    metaTitle: 'Frost Drum Kit & Gear Setup — Satyricon & 1349 Drummer | MetalForge',
     metaDescription: 'Complete biography of Frost (Kjetil-Vidar Haraldstad), legendary black metal drummer for Satyricon and 1349. Explore his career, hyperspeed blast beats, gear, and influence on extreme metal.',
     ogImage: '/images/drummers/frost.webp',
     sections: {
@@ -5103,7 +5103,7 @@ Frost is renowned for his blistering speed, metronomic precision, and seemingly 
       { slug: 'king-crimson', period: '2008-present', role: 'Drummer' },
       { slug: 'the-pineapple-thief', period: '2016-present', role: 'Drummer' }
     ],
-    metaTitle: 'Gavin Harrison Biography - Porcupine Tree & King Crimson Drummer | MetalForge',
+    metaTitle: 'Gavin Harrison Drum Kit & Gear Setup — Porcupine Tree & King Crimson Drummer | MetalForge',
     metaDescription: 'Complete biography of Gavin Harrison, acclaimed drummer for Porcupine Tree, King Crimson, and The Pineapple Thief. Explore his polyrhythmic mastery, awards, gear, and progressive drumming influence.',
     ogImage: '/images/drummers/gavin-harrison.webp',
     sections: {
@@ -5218,7 +5218,7 @@ Harrison's playing is characterized by intricate polyrhythmic patterns, masterfu
     bands: [
       { slug: 'deftones', period: '1988-present', role: 'Drummer, founding member' }
     ],
-    metaTitle: 'Abe Cunningham Biography - Deftones Drummer & Alternative Metal Pioneer | MetalForge',
+    metaTitle: 'Abe Cunningham Drum Kit & Gear Setup — Deftones Drummer | MetalForge',
     metaDescription: 'Complete biography of Abe Cunningham, founding drummer of Deftones. Explore his unique drumming style, career spanning 35+ years, signature gear, and influence on alternative metal.',
     ogImage: '/images/drummers/abe-cunningham.webp',
     sections: {
@@ -5335,7 +5335,7 @@ Cunningham's playing is characterized by creative, unconventional patterns that 
       { slug: 'control-denied', period: '1996-2001', role: 'Drummer' },
       { slug: 'burning-inside', period: '1997-2002', role: 'Drummer' }
     ],
-    metaTitle: 'Richard Christy Biography - Death & Iced Earth Drummer | MetalForge',
+    metaTitle: 'Richard Christy Drum Kit & Gear Setup — Death & Iced Earth Drummer | MetalForge',
     metaDescription: 'Complete biography of Richard Christy, legendary drummer for Death and Iced Earth. Explore his technical death metal mastery, work with Chuck Schuldiner, and career transition to entertainment.',
     ogImage: '/images/drummers/richard-christy.webp',
     sections: {
@@ -5446,7 +5446,7 @@ Christy's drumming on Death's final two albums—"The Sound of Perseverance" and
       { slug: 'wasp', period: '2006-present', role: 'Drummer' },
       { slug: 'hangar', period: '1996-present', role: 'Drummer, founding member' }
     ],
-    metaTitle: 'Aquiles Priester Biography - Angra & W.A.S.P. Drummer | MetalForge',
+    metaTitle: 'Aquiles Priester Drum Kit & Gear Setup — Angra & W.A.S.P. Drummer | MetalForge',
     metaDescription: 'Complete biography of Aquiles Priester, acclaimed power metal drummer for Angra, W.A.S.P., and Hangar. Explore his incredible speed, double bass mastery, and influence on power metal drumming.',
     ogImage: '/images/drummers/aquiles-priester.webp',
     sections: {
@@ -5561,7 +5561,7 @@ Priester is considered one of the greatest power metal drummers in the world. Hi
       { slug: 'today-is-the-day', period: '1996-1999', role: 'Drummer' },
       { slug: 'lethargy', period: '1993-1998', role: 'Drummer' }
     ],
-    metaTitle: 'Brann Dailor Biography - Mastodon Drummer & Progressive Metal Innovator | MetalForge',
+    metaTitle: 'Brann Dailor Drum Kit & Gear Setup — Mastodon Drummer | MetalForge',
     metaDescription: 'Complete biography of Brann Dailor, Mastodon\'s drummer and vocalist. Explore his revolutionary progressive metal drumming style, career from Lethargy to Grammy nominations, and signature gear.',
     ogImage: '/images/drummers/brann-dailor.webp',
     sections: {
@@ -5682,7 +5682,7 @@ Dailor co-founded Mastodon in Atlanta, Georgia in 2000 alongside guitarist Bill 
       { slug: 'megadeth', period: '2015', role: 'Studio drummer' },
       { slug: 'firstborne', period: '2021-present', role: 'Drummer' }
     ],
-    metaTitle: 'Chris Adler Biography - Lamb of God Drummer & Groove Metal Architect | MetalForge',
+    metaTitle: 'Chris Adler Drum Kit & Gear Setup — Lamb of God Drummer | MetalForge',
     metaDescription: 'Complete biography of Chris Adler, founding drummer of Lamb of God and Grammy nominee. Explore his revolutionary groove metal style, endorsements, and influence on modern metal.',
     ogImage: '/images/drummers/chris-adler.webp',
     sections: {
@@ -5798,7 +5798,7 @@ Adler's innovative approach—combining death metal intensity with groove-focuse
     bands: [
       { slug: 'periphery', period: '2009-present', role: 'Drummer' }
     ],
-    metaTitle: 'Matt Halpern Biography - Periphery Drummer & Djent Pioneer | MetalForge',
+    metaTitle: 'Matt Halpern Drum Kit & Gear Setup — Periphery Drummer | MetalForge',
     metaDescription: 'Complete biography of Matt Halpern, Periphery\'s drummer and a pioneer of djent. Explore his technical style, Drumeo collaborations, signature gear, and influence on modern metal.',
     ogImage: '/images/drummers/matt-halpern.webp',
     sections: {
@@ -5912,7 +5912,7 @@ Beyond his work with Periphery, Halpern is renowned as an educator, with his Dru
       { slug: 'behemoth', period: '1997-present', role: 'Drummer' },
       { slug: 'azarath', period: '2010-2018', role: 'Drummer' }
     ],
-    metaTitle: 'Inferno Biography - Behemoth Drummer & Extreme Metal Powerhouse | MetalForge',
+    metaTitle: 'Inferno Drum Kit & Gear Setup — Behemoth Drummer | MetalForge',
     metaDescription: 'Complete biography of Inferno (Zbigniew Promiński), Behemoth\'s drummer since 1997. Explore his extreme metal drumming, technical precision, and influence on blackened death metal.',
     ogImage: '/images/drummers/inferno.webp',
     sections: {
@@ -6031,7 +6031,7 @@ Inferno joined Behemoth during their transition from a pure black metal band to 
       { slug: 'dimmu-borgir', period: '1999-present', role: 'Drummer' },
       { slug: 'shining', period: '2009-2016', role: 'Drummer' }
     ],
-    metaTitle: 'Hellhammer Biography - Mayhem Drummer & Black Metal Legend | MetalForge',
+    metaTitle: 'Hellhammer Drum Kit & Gear Setup — Mayhem Drummer | MetalForge',
     metaDescription: 'Complete biography of Hellhammer (Jan Axel Blomberg), legendary drummer of Mayhem and Dimmu Borgir. Explore his pioneering black metal drumming, speed, and influence on extreme music.',
     ogImage: '/images/drummers/hellhammer.webp',
     sections: {
@@ -6150,7 +6150,7 @@ Hellhammer's incredible speed, precision, and versatility have made him the go-t
       { slug: 'army-of-anyone', period: '2006-2007', role: 'Drummer' },
       { slug: 'david-lee-roth', period: '1997-2005', role: 'Touring drummer' }
     ],
-    metaTitle: 'Ray Luzier Biography - Korn Drummer & Nu Metal Powerhouse | MetalForge',
+    metaTitle: 'Ray Luzier Drum Kit & Gear Setup — Korn Drummer | MetalForge',
     metaDescription: 'Complete biography of Ray Luzier, Korn\'s drummer since 2007. Explore his career from David Lee Roth to Korn, his technical style, Musicians Institute background, and signature gear.',
     ogImage: '/images/drummers/ray-luzier.webp',
     sections: {
@@ -6264,7 +6264,7 @@ Before joining Korn, Luzier built an impressive resume playing with David Lee Ro
     bands: [
       { slug: 'limp-bizkit', period: '1994-present', role: 'Drummer, founding member' }
     ],
-    metaTitle: 'John Otto Biography - Limp Bizkit Drummer & Nu Metal Pioneer | MetalForge',
+    metaTitle: 'John Otto Drum Kit & Gear Setup — Limp Bizkit Drummer | MetalForge',
     metaDescription: 'Complete biography of John Otto, founding drummer of Limp Bizkit. Explore his career, jazz-influenced style, nu metal legacy, and contributions to one of the biggest bands of the late 90s.',
     ogImage: '/images/drummers/john-otto.webp',
     sections: {
@@ -6377,7 +6377,7 @@ Otto studied jazz drumming at the Douglas Anderson School of the Arts and played
       { slug: 'against-me', period: '2010-2012', role: 'Drummer' },
       { slug: 'e-street-band', period: '2008-2009', role: 'Touring drummer (fill-in)' }
     ],
-    metaTitle: 'Jay Weinberg Biography - Former Slipknot Drummer & Max Weinberg\'s Son | MetalForge',
+    metaTitle: 'Jay Weinberg Drum Kit & Gear Setup — Former Slipknot Drummer | MetalForge',
     metaDescription: 'Complete biography of Jay Weinberg, Slipknot drummer from 2014-2023. Explore his journey from filling in for his father with Bruce Springsteen to becoming a metal icon with Slipknot.',
     ogImage: '/images/drummers/jay-weinberg.webp',
     sections: {
@@ -6491,7 +6491,7 @@ Weinberg's career spans diverse genres: from substituting for his father with Br
       { slug: 'damageplan', period: '2003-2004', role: 'Drummer, co-founder' },
       { slug: 'hellyeah', period: '2006-2018', role: 'Drummer' }
     ],
-    metaTitle: 'Vinnie Paul Biography - Pantera Drummer & Groove Metal Legend (1964-2018) | MetalForge',
+    metaTitle: 'Vinnie Paul Drum Kit & Gear Setup — Pantera Drummer | MetalForge',
     metaDescription: 'Complete biography of Vinnie Paul, legendary Pantera co-founder and drummer (1964-2018). Explore his revolutionary groove metal style, career with Dimebag Darrell, and lasting influence.',
     ogImage: '/images/drummers/vinnie-paul.webp',
     sections: {
@@ -6610,7 +6610,7 @@ After Pantera's breakup, Vinnie Paul co-founded Damageplan with Darrell, and fol
       { slug: 'stormtroopers-of-death', period: '1985-1999', role: 'Drummer' },
       { slug: 'pantera', period: '2022-present', role: 'Touring drummer' }
     ],
-    metaTitle: 'Charlie Benante Biography - Anthrax Drummer & Thrash Metal Pioneer | MetalForge',
+    metaTitle: 'Charlie Benante Drum Kit & Gear Setup — Anthrax Drummer | MetalForge',
     metaDescription: 'Complete biography of Charlie Benante, Anthrax drummer and thrash metal pioneer. Explore his revolutionary double bass and blast beat techniques, Big Four legacy, and current Pantera touring role.',
     ogImage: '/images/drummers/charlie-benante.webp',
     sections: {
@@ -6725,7 +6725,7 @@ Beyond his drumming, Benante is Anthrax's main composer and a talented graphic a
       { slug: 'today-is-the-day', period: '1996-1999', role: 'Drummer' },
       { slug: 'lethargy', period: '1990-1999', role: 'Drummer' }
     ],
-    metaTitle: 'Brann Dailor Biography - Mastodon Drummer & Progressive Metal Innovator | MetalForge',
+    metaTitle: 'Brann Dailor Drum Kit & Gear Setup — Mastodon Drummer | MetalForge',
     metaDescription: 'Complete biography of Brann Dailor, Mastodon\'s Grammy-winning drummer. Explore his revolutionary drumming style, prog-metal innovation, vocal contributions, and signature gear.',
     ogImage: '/images/drummers/brann-dailor.webp',
     sections: {
@@ -6843,7 +6843,7 @@ Dailor's drumming is characterized by constant motion—intricate fills that wea
       { slug: 'lamb-of-god', period: '1994-2019', role: 'Drummer, co-founder' },
       { slug: 'megadeth', period: '2015-2016', role: 'Session/touring drummer' }
     ],
-    metaTitle: 'Chris Adler Biography - Lamb of God Drummer & Groove Metal Pioneer | MetalForge',
+    metaTitle: 'Chris Adler Drum Kit & Gear Setup — Lamb of God Drummer | MetalForge',
     metaDescription: 'Complete biography of Chris Adler, Lamb of God\'s founding drummer. Explore his innovative groove metal style, Megadeth collaboration, signature gear, and lasting influence.',
     ogImage: '/images/drummers/chris-adler.webp',
     sections: {
@@ -6958,7 +6958,7 @@ Adler's drumming is characterized by powerful groove-based patterns, creative us
     bands: [
       { slug: 'periphery', period: '2009-present', role: 'Drummer' }
     ],
-    metaTitle: 'Matt Halpern Biography - Periphery Drummer & Djent Pioneer | MetalForge',
+    metaTitle: 'Matt Halpern Drum Kit & Gear Setup — Periphery Drummer | MetalForge',
     metaDescription: 'Complete biography of Matt Halpern, Periphery\'s influential drummer who helped define the djent movement. Explore his precise style, educational work, and signature gear.',
     ogImage: '/images/drummers/matt-halpern.webp',
     sections: {
@@ -7070,7 +7070,7 @@ A graduate of Berklee College of Music, Halpern brings academic rigor to his dru
     bands: [
       { slug: 'behemoth', period: '1997-present', role: 'Drummer' }
     ],
-    metaTitle: 'Inferno Biography - Behemoth Drummer & Black/Death Metal Machine | MetalForge',
+    metaTitle: 'Inferno Drum Kit & Gear Setup — Behemoth Drummer | MetalForge',
     metaDescription: 'Complete biography of Inferno (Zbigniew Robert Promiński), Behemoth\'s devastating drummer. Explore his extreme metal precision, theatrical performances, and gear.',
     ogImage: '/images/drummers/inferno.webp',
     sections: {
@@ -7186,7 +7186,7 @@ Inferno's drumming combines blistering speed with surgical precision, delivering
       { slug: 'dimmu-borgir', period: '1999-2019', role: 'Session/studio drummer' },
       { slug: 'shining', period: '2005-present', role: 'Session drummer' }
     ],
-    metaTitle: 'Hellhammer Biography - Mayhem Drummer & Black Metal Legend | MetalForge',
+    metaTitle: 'Hellhammer Drum Kit & Gear Setup — Mayhem Drummer | MetalForge',
     metaDescription: 'Complete biography of Hellhammer (Jan Axel Blomberg), legendary Mayhem drummer. Explore his pivotal role in black metal history, extreme drumming style, and diverse career.',
     ogImage: '/images/drummers/hellhammer.webp',
     sections: {
@@ -7299,7 +7299,7 @@ Hellhammer joined Mayhem in 1988, becoming their most enduring member and the rh
     bands: [
       { slug: 'cryptopsy', period: '1992-present', role: 'Drummer, founding member' }
     ],
-    metaTitle: 'Flo Mounier Biography - Cryptopsy Drummer & Technical Death Metal Pioneer | MetalForge',
+    metaTitle: 'Flo Mounier Drum Kit & Gear Setup — Cryptopsy Drummer | MetalForge',
     metaDescription: 'Complete biography of Flo Mounier, founding drummer of Cryptopsy. Explore his revolutionary technical death metal drumming, signature gear, and influence on extreme metal.',
     ogImage: '/images/drummers/flo-mounier.webp',
     sections: {
@@ -7414,7 +7414,7 @@ His lightning-fast blast beats, complex polyrhythmic patterns, and jazz-influenc
       { slug: 'shadows-fall', period: '1999-2015', role: 'Drummer' },
       { slug: 'flotsam-and-jetsam', period: '2013-2017', role: 'Drummer' }
     ],
-    metaTitle: 'Jason Bittner Biography - Overkill & Shadows Fall Drummer | MetalForge',
+    metaTitle: 'Jason Bittner Drum Kit & Gear Setup — Overkill & Shadows Fall Drummer | MetalForge',
     metaDescription: 'Complete biography of Jason Bittner, drummer for Overkill and Shadows Fall. Explore his career spanning thrash metal and metalcore, his powerful style, and signature gear.',
     ogImage: '/images/drummers/jason-bittner.webp',
     sections: {
@@ -7528,7 +7528,7 @@ Bittner rose to prominence with Shadows Fall during the early 2000s metalcore ex
       { slug: 'opeth', period: '1997-2006', role: 'Drummer' },
       { slug: 'amon-amarth', period: '1996-1998', role: 'Drummer' }
     ],
-    metaTitle: 'Martin Lopez Biography - Opeth & Soen Drummer | MetalForge',
+    metaTitle: 'Martin Lopez Drum Kit & Gear Setup — Opeth & Soen Drummer | MetalForge',
     metaDescription: 'Complete biography of Martin Lopez, drummer for Soen and formerly Opeth. Explore his influential work on classic Opeth albums, his Soen career, and unique drumming style.',
     ogImage: '/images/drummers/martin-lopez.webp',
     sections: {
@@ -7648,7 +7648,7 @@ Lopez's tenure with Opeth spanned some of the band's most critically acclaimed a
       { slug: 'darkest-hour', period: '2013-2015', role: 'Drummer' },
       { slug: 'sky-harbor', period: '2012-present', role: 'Drummer' }
     ],
-    metaTitle: 'Travis Orbin Biography - Periphery Founding Drummer & Djent Pioneer | MetalForge',
+    metaTitle: 'Travis Orbin Drum Kit & Gear Setup — Periphery Founding Drummer | MetalForge',
     metaDescription: 'Complete biography of Travis Orbin, founding drummer of Periphery who helped define the djent genre. Explore his technical mastery, solo work, and influence on modern progressive metal.',
     ogImage: '/images/drummers/travis-orbin.webp',
     sections: {
@@ -7758,7 +7758,7 @@ Orbin's technical prowess, creative use of polyrhythms, and ability to navigate 
       { slug: 'devin-townsend', period: '1999-present', role: 'Drummer' },
       { slug: 'devin-townsend-project', period: '2009-2018', role: 'Drummer' }
     ],
-    metaTitle: 'Ryan Van Poederooyen Biography - Devin Townsend Drummer | MetalForge',
+    metaTitle: 'Ryan Van Poederooyen Drum Kit & Gear Setup — Devin Townsend Drummer | MetalForge',
     metaDescription: 'Complete biography of Ryan Van Poederooyen, longtime drummer for Devin Townsend. Explore his 25+ year collaboration, versatile drumming style, and contributions to progressive metal.',
     ogImage: '/images/drummers/ryan-van-poederooyen.webp',
     sections: {
@@ -7872,7 +7872,7 @@ Van Poederooyen's versatile drumming has adapted to Townsend's constantly evolvi
     bands: [
       { slug: 'trivium', period: '2010-2014', role: 'Drummer' }
     ],
-    metaTitle: 'Nick Augusto Biography - Former Trivium Drummer | MetalForge',
+    metaTitle: 'Nick Augusto Drum Kit & Gear Setup — Former Trivium Drummer | MetalForge',
     metaDescription: 'Complete biography of Nick Augusto, former Trivium drummer (2010-2014). Explore his career, drumming style, work on albums like In Waves and Vengeance Falls, and his influence on modern metal.',
     ogImage: '/images/drummers/nick-augusto.webp',
     keywords: ['trivium', 'metalcore', 'thrash metal', 'tama drums', 'in waves', 'vengeance falls', 'orlando drummer', 'modern metal'],
@@ -7988,7 +7988,7 @@ During his four years with Trivium, Augusto recorded two studio albums—"In Wav
     bands: [
       { slug: 'oceans-ate-alaska', period: '2010-present', role: 'Drummer, founding member' }
     ],
-    metaTitle: 'Chris Turner Biography - Oceans Ate Alaska Drummer & Technical Metal Virtuoso | MetalForge',
+    metaTitle: 'Chris Turner Drum Kit & Gear Setup — Oceans Ate Alaska Drummer | MetalForge',
     metaDescription: 'Complete biography of Chris Turner, founding drummer of Oceans Ate Alaska. Explore his revolutionary technical drumming style, viral videos, and influence on progressive metalcore.',
     ogImage: '/images/drummers/chris-turner.webp',
     keywords: ['oceans ate alaska', 'progressive metalcore', 'technical drumming', 'british drummer', 'djent', 'tama drums', 'viral drummer', 'extreme precision'],
@@ -8107,7 +8107,7 @@ Turner's drumming videos have gone viral on social media, showcasing his ability
     bands: [
       { slug: 'august-burns-red', period: '2005-present', role: 'Drummer, founding member' }
     ],
-    metaTitle: 'Matt Greiner Biography - August Burns Red Drummer & Metalcore Legend | MetalForge',
+    metaTitle: 'Matt Greiner Drum Kit & Gear Setup — August Burns Red Drummer | MetalForge',
     metaDescription: 'Complete biography of Matt Greiner, founding drummer of August Burns Red. Explore his innovative metalcore style, Grammy-nominated work, signature snare drum, and influence on modern metal drumming.',
     ogImage: '/images/drummers/matt-greiner.webp',
     keywords: ['august burns red', 'metalcore', 'christian metal', 'meinl cymbals', 'pearl drums', 'grammy nominated', 'lancaster pa', 'technical metalcore'],
@@ -8233,7 +8233,7 @@ His work with August Burns Red has earned a Grammy nomination and widespread cri
     bands: [
       { slug: 'between-the-buried-and-me', period: '2005-present', role: 'Drummer' }
     ],
-    metaTitle: 'Blake Richardson Biography - Between the Buried and Me Drummer & Prog Metal Master | MetalForge',
+    metaTitle: 'Blake Richardson Drum Kit & Gear Setup — Between the Buried and Me Drummer | MetalForge',
     metaDescription: 'Complete biography of Blake Richardson, drummer of Between the Buried and Me. Explore his progressive metal mastery, work on Colors and The Great Misdirect, and his influence on technical metal.',
     ogImage: '/images/drummers/blake-richardson.webp',
     keywords: ['between the buried and me', 'btbam', 'progressive metal', 'meinl cymbals', 'colors album', 'technical metal', 'north carolina', 'prog death'],
@@ -8362,7 +8362,7 @@ Richardson's work on landmark albums like "Colors," "The Great Misdirect," and "
       { slug: 'all-pigs-must-die', period: '2010-present', role: 'Drummer' },
       { slug: 'killer-be-killed', period: '2011-present', role: 'Drums (studio)' }
     ],
-    metaTitle: 'Ben Koller Biography - Converge Drummer & Hardcore Legend | MetalForge',
+    metaTitle: 'Ben Koller Drum Kit & Gear Setup — Converge Drummer | MetalForge',
     metaDescription: 'Complete biography of Ben Koller, legendary Converge drummer since 1999. Explore his genre-defining work on Jane Doe, Mutoid Man projects, and his influence on metalcore and hardcore drumming.',
     ogImage: '/images/drummers/ben-koller.webp',
     keywords: ['converge', 'hardcore punk', 'metalcore', 'jane doe', 'mutoid man', 'all pigs must die', 'boston hardcore', 'tama drums'],
@@ -8494,7 +8494,7 @@ Beyond Converge, Koller maintains an impressive roster of projects including Mut
       { slug: 'terrorizer', period: '1986-1989, 2005-present', role: 'Drummer, co-founder' },
       { slug: 'i-am-morbid', period: '2022-present', role: 'Drummer' }
     ],
-    metaTitle: 'Pete Sandoval Biography - Morbid Angel Drummer & Blast Beat Pioneer | MetalForge',
+    metaTitle: 'Pete Sandoval Drum Kit & Gear Setup — Morbid Angel Drummer | MetalForge',
     metaDescription: 'Complete biography of Pete Sandoval, Morbid Angel\'s legendary drummer and pioneer of extreme metal drumming. Explore his career, gravity blast technique, and influence on death metal.',
     ogImage: '/images/drummers/pete-sandoval.webp',
     sections: {
@@ -8611,7 +8611,7 @@ According to AllMusic's Jason Birchmeier, Sandoval "challenges one's perception 
       { slug: 'winds-of-plague', period: '2008-2012, 2015-2021', role: 'Drummer' },
       { slug: 'prong', period: '2012-2018', role: 'Drummer' }
     ],
-    metaTitle: 'Art Cruz Biography - Lamb of God Drummer & Modern Metal Powerhouse | MetalForge',
+    metaTitle: 'Art Cruz Drum Kit & Gear Setup — Lamb of God Drummer | MetalForge',
     metaDescription: 'Complete biography of Art Cruz, Lamb of God\'s drummer since 2019. Explore his journey from Winds of Plague to one of metal\'s biggest bands, his powerful style, and gear setup.',
     ogImage: '/images/drummers/art-cruz.webp',
     sections: {
@@ -8722,7 +8722,7 @@ Before Lamb of God, Cruz built his reputation through extensive work with Winds 
       { slug: 'avenged-sevenfold', period: '2011-2015', role: 'Drummer' },
       { slug: 'confide', period: '2006-2011', role: 'Drummer' }
     ],
-    metaTitle: 'Arin Ilejay Biography - ex-Avenged Sevenfold Drummer | MetalForge',
+    metaTitle: 'Arin Ilejay Drum Kit & Gear Setup — ex-Avenged Sevenfold Drummer | MetalForge',
     metaDescription: 'Complete biography of Arin Ilejay, former Avenged Sevenfold drummer. Explore his journey from Confide to A7X, his work on Hail to the King, and his drumming style.',
     ogImage: '/images/drummers/arin-ilejay.webp',
     sections: {
@@ -8831,7 +8831,7 @@ Ilejay's time with Avenged Sevenfold coincided with their transition to a more c
       { slug: 'the-faceless', period: '2006', role: 'Drummer (partial)' },
       { slug: 'machine-head', period: '2021-present', role: 'Session drummer' }
     ],
-    metaTitle: 'Navene Koperweis Biography - Entheos Drummer & Electronic Producer | MetalForge',
+    metaTitle: 'Navene Koperweis Drum Kit & Gear Setup — Entheos Drummer | MetalForge',
     metaDescription: 'Complete biography of Navene Koperweis, Entheos drummer and former Animals as Leaders member. Explore his technical drumming, electronic production, and diverse musical career.',
     ogImage: '/images/drummers/navene-koperweis.webp',
     sections: {
@@ -8953,7 +8953,7 @@ Beyond his drumming career, Koperweis is a prolific producer and electronic arti
       { slug: 'arkaik', period: '2011-present', role: 'Drummer' },
       { slug: 'brain-drill', period: '2015', role: 'Drummer' }
     ],
-    metaTitle: 'Alex Bent Biography - Former Trivium Drummer & Technical Metal Prodigy | MetalForge',
+    metaTitle: 'Alex Bent Drum Kit & Gear Setup — Former Trivium Drummer | MetalForge',
     metaDescription: 'Complete biography of Alex Bent, former Trivium drummer known for his technical precision. Explore his career from Brain Drill to Trivium, and his contributions to modern metal drumming.',
     ogImage: '/images/drummers/alex-bent.webp',
     sections: {
@@ -9067,7 +9067,7 @@ Bent's background in technical death metal—with bands like Brain Drill, Arkaik
     bands: [
       { slug: 'kublai-khan-tx', period: '2009-present', role: 'Drummer, founding member' }
     ],
-    metaTitle: 'Isaac Lamb Biography - Kublai Khan TX Drummer & Beatdown Hardcore Pioneer | MetalForge',
+    metaTitle: 'Isaac Lamb Drum Kit & Gear Setup — Kublai Khan TX Drummer | MetalForge',
     metaDescription: 'Complete biography of Isaac Lamb, founding drummer of Kublai Khan TX since 2009. Explore his powerful beatdown hardcore style, crushing breakdowns, and influence on the Texas hardcore scene.',
     ogImage: '/images/drummers/isaac-lamb.webp',
     keywords: ['kublai khan tx', 'beatdown hardcore', 'metalcore', 'texas hardcore', 'sherman texas', 'heavy breakdowns', 'hardcore drums'],

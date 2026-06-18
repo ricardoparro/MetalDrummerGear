@@ -1182,6 +1182,28 @@ function getMetaForPath(pathname) {
     }
   }
 
+  // Issue #1411: /drummers/<slug>/endorsements — 15 endorsement pages (priority 0.85)
+  const endorsementsMatch = path.match(/^\/drummers\/([a-z0-9-]+)\/endorsements$/);
+  if (endorsementsMatch) {
+    const [, slug] = endorsementsMatch;
+    const drummer = getDrummerBySlug(slug);
+    if (drummer) {
+      return {
+        title: `${drummer.name} Endorsements & Gear Sponsors | ${SITE_NAME}`,
+        description: `Official gear endorsements for ${drummer.name} (${drummer.band}): drum brands, cymbal sponsors, stick deals, and hardware partnerships.`,
+        image: drummer.image || `${BASE_URL}/images/og/default.png`,
+        type: 'article',
+        url: `${BASE_URL}/drummers/${slug}/endorsements`,
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: 'Drummers', url: `${BASE_URL}/drummers` },
+          { name: drummer.name, url: `${BASE_URL}/drummer/${slug}` },
+          { name: 'Endorsements', url: `${BASE_URL}/drummers/${slug}/endorsements` },
+        ],
+      };
+    }
+  }
+
   // Drummer profiles (root slug)
   const drummerMatch = path.match(/^\/([a-z0-9-]+)$/);
   if (drummerMatch) {

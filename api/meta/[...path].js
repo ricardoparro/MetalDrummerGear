@@ -230,6 +230,36 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/drummers`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        mainEntity: [
+          {
+            '@type': 'Question',
+            name: 'Who are the best metal drummers of all time?',
+            acceptedAnswer: {
+              '@type': 'Answer',
+              text: 'The greatest metal drummers include Joey Jordison (Slipknot), Dave Lombardo (Slayer), Gene Hoglan (Death/Testament), George Kollias (Nile), and Lars Ulrich (Metallica). MetalForge profiles 60+ professional metal drummers with complete gear breakdowns.',
+            }
+          },
+          {
+            '@type': 'Question',
+            name: 'What drums do metal drummers use?',
+            acceptedAnswer: {
+              '@type': 'Answer',
+              text: 'Most metal drummers use double bass drum kits from brands like Tama, DW (DW Drums), Pearl, and Ludwig. Popular cymbal brands include Zildjian, Meinl, Sabian, and Paiste. Many metal drummers use 22-24" bass drums for a deeper sound.',
+            }
+          },
+          {
+            '@type': 'Question',
+            name: 'How can I find out what gear a metal drummer uses?',
+            acceptedAnswer: {
+              '@type': 'Answer',
+              text: 'MetalForge provides complete gear breakdowns for 60+ metal drummers including drums, cymbals, pedals, hardware, sticks, and endorsements. Visit any drummer profile page for their full setup.',
+            }
+          },
+        ],
+      }),
     };
   }
 

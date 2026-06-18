@@ -997,6 +997,11 @@ function getMetaForPath(pathname) {
       // Issue #1163: question-led, query-matched description ("What drum kit does
       // X play?") — promotes Joey's hand-override pattern to the default template.
       const bandText = drummer.band ? `${drummer.band} ` : '';
+      // Issue #1357: build related article backlinks for SSR body
+      const allArticles = Object.values(ALBUM_ARTICLES);
+      const relatedArticles = allArticles
+        .filter(a => a.drummerId === drummer.id || (a.relatedDrummers || []).includes(drummer.id))
+        .slice(0, 3);
 
       return {
         title: override?.title || `${drummer.name} Drum Kit & Gear Setup | ${SITE_NAME}`,
@@ -1012,6 +1017,10 @@ function getMetaForPath(pathname) {
         image: `${BASE_URL}/api/card/${slug}?format=twitter`,
         type: 'profile',
         url: `${BASE_URL}/${slug}`,
+        ssrLinks: relatedArticles.length > 0 ? relatedArticles.map(a => ({
+          href: `/articles/${a.slug}`,
+          label: a.title,
+        })) : null,
       };
     }
   }
@@ -1209,6 +1218,39 @@ function getMetaForPath(pathname) {
       type: 'website',
       url: `${BASE_URL}/history`,
     };
+  }
+
+  // Issue #1357: /drummer/<slug> profile pages — SSR with related article links
+  const drummerPrefixMatch = path.match(/^\/drummer\/([a-z0-9-]+)$/);
+  if (drummerPrefixMatch) {
+    const [, slug] = drummerPrefixMatch;
+    const drummer = getDrummerBySlug(slug);
+    if (drummer) {
+      const brands = getPrimaryBrands(drummer.gear);
+      const brandsText = brands.length > 0 ? brands.join(', ') : 'pro gear';
+      const override = DRUMMER_META_OVERRIDES[slug];
+      const bandText = drummer.band ? `${drummer.band} ` : '';
+      const allArticles = Object.values(ALBUM_ARTICLES);
+      const relatedArticles = allArticles
+        .filter(a => a.drummerId === drummer.id || (a.relatedDrummers || []).includes(drummer.id))
+        .slice(0, 3);
+      return {
+        title: override?.title || `${drummer.name} Drum Kit & Gear Setup | ${SITE_NAME}`,
+        description: truncate(
+          override?.description ||
+            `What drum kit does ${drummer.name} play? The ${bandText}drummer's ${brandsText} setup — full gear breakdown with videos, specs, and prices.`,
+          160
+        ),
+        subheading: `${drummer.name} Drum Kit, Gear & Setup`,
+        image: `${BASE_URL}/api/card/${slug}?format=twitter`,
+        type: 'profile',
+        url: `${BASE_URL}/drummer/${slug}`,
+        ssrLinks: relatedArticles.length > 0 ? relatedArticles.map(a => ({
+          href: `/articles/${a.slug}`,
+          label: a.title,
+        })) : null,
+      };
+    }
   }
 
   // Issue #1379: /gear/<brand>/<series>/drummers-using (~40 pages)
@@ -1443,6 +1485,11 @@ function generateMetaHtml(meta, originalUrl) {
     <h1>${meta.title}</h1>
     ${meta.subheading ? `<h2>${meta.subheading}</h2>` : ''}
     <p>${meta.description}</p>
+    ${meta.ssrLinks && meta.ssrLinks.length > 0 ? `
+    <nav aria-label="Gear Deep Dives &amp; Articles">
+      <h2>Gear Deep Dives &amp; Articles</h2>
+      <ul>${meta.ssrLinks.map(l => `<li><a href="${l.href}">${l.label}</a></li>`).join('')}</ul>
+    </nav>` : ''}
     <p><a href="${meta.url}">Visit MetalForge →</a></p>
   </main>
 </body>

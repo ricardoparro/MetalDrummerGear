@@ -212,7 +212,77 @@ const drummers = [
         },
         notes: "Joey continued recording until his passing in 2021."
       }
-    ]
+    ],
+    whereToBuy: {
+      heading: "Where to Buy Joey Jordison's Gear",
+      intro: "Joey Jordison's drumming on Slipknot's Iowa and All Hope Is Gone remains one of the most technically demanding and visceral performances in metal history. If you're looking to build a setup inspired by the #9, here's where to find his key gear items — from the Pearl Masters kit that powered Iowa to the Demon Drive pedals behind his legendary blast beats. These are commercially available items used or endorsed by one of the greatest metal drummers of all time.",
+      items: [
+        {
+          name: 'Pearl Masters Premium Maple Drum Kit',
+          notes: "Joey's primary kit during the Iowa and Vol. 3 era. The Pearl Masters Premium Maple delivers the warm, punchy attack he needed for Slipknot's aggressive recording sessions. Configure with a 22\" bass drum and 10\", 12\", 14\" toms to get close to his setup.",
+          retailers: [
+            { name: 'Guitar Center', url: 'https://www.guitarcenter.com/search#q=pearl%20masters%20premium%20maple' },
+            { name: 'Sweetwater', url: 'https://www.sweetwater.com/store/search.php?s=pearl+masters+premium+maple' },
+            { name: "Musician's Friend", url: 'https://www.musiciansfriend.com/search?q=pearl+masters+premium+maple' }
+          ]
+        },
+        {
+          name: 'Pearl Reference Series Drum Kit',
+          notes: "Joey switched to the Pearl Reference Series for the All Hope Is Gone era and his post-Slipknot projects. The Reference Series features a unique multi-species shell design combining maple and birch for exceptional tone and projection.",
+          retailers: [
+            { name: 'Guitar Center', url: 'https://www.guitarcenter.com/search#q=pearl%20reference%20series%20drum%20kit' },
+            { name: 'Sweetwater', url: 'https://www.sweetwater.com/store/search.php?s=pearl+reference+series+drum+kit' },
+            { name: "Musician's Friend", url: 'https://www.musiciansfriend.com/search?q=pearl+reference+series+drum' }
+          ]
+        },
+        {
+          name: 'Pearl Joey Jordison Signature Snare 13"x6.5"',
+          notes: "The most iconic piece of Joey's kit. This compact 13\" snare delivers the trademark cutting crack heard across Slipknot's catalog. The smaller diameter yields a faster, sharper response ideal for the machine-gun fills and rapid ghost note patterns Joey was known for.",
+          retailers: [
+            { name: 'Guitar Center', url: 'https://www.guitarcenter.com/search#q=pearl%20joey%20jordison%20signature%20snare' },
+            { name: 'Sweetwater', url: 'https://www.sweetwater.com/store/search.php?s=pearl+joey+jordison+snare' },
+            { name: 'eBay (used/vintage)', url: 'https://www.ebay.com/sch/i.html?_nkw=pearl+joey+jordison+signature+snare' }
+          ]
+        },
+        {
+          name: 'Pearl Demon Drive Double Bass Pedal',
+          notes: "The Pearl Demon Drive powered Joey's extreme double kick patterns and made his rotating drum riser performances possible. Featuring direct drive linkage and virtually zero energy loss, it remains one of the fastest double pedals on the market and a top choice for metal drummers worldwide.",
+          retailers: [
+            { name: 'Guitar Center', url: 'https://www.guitarcenter.com/search#q=pearl%20demon%20drive%20double%20pedal' },
+            { name: 'Sweetwater', url: 'https://www.sweetwater.com/store/search.php?s=pearl+demon+drive+double+pedal' },
+            { name: "Musician's Friend", url: 'https://www.musiciansfriend.com/search?q=pearl+demon+drive+double+pedal' }
+          ]
+        },
+        {
+          name: 'Paiste RUDE Series Cymbals',
+          notes: "Joey relied on Paiste RUDE cymbals throughout his career. The RUDE line is engineered for maximum volume and aggression — perfect for cutting through Slipknot's dense, down-tuned guitar wall. His setup included 14\" Wild Hi-Hats, 16\"–19\" Power Crashes, 20\" and 22\" Wild Chinas, and a 22\" Power Ride.",
+          retailers: [
+            { name: 'Guitar Center', url: 'https://www.guitarcenter.com/search#q=paiste%20rude%20series%20cymbals' },
+            { name: 'Sweetwater', url: 'https://www.sweetwater.com/store/search.php?s=paiste+rude+series' },
+            { name: "Musician's Friend", url: 'https://www.musiciansfriend.com/search?q=paiste+rude+cymbals' }
+          ]
+        },
+        {
+          name: 'Promark Joey Jordison Signature TX515W Drumsticks',
+          notes: "Joey's signature sticks are a 5A-style hickory stick with a wood tip, designed for speed and durability. The TX515W model balances lightweight feel with the power needed to drive heavy metal drumming at extreme tempos. Still available from authorized Promark dealers.",
+          retailers: [
+            { name: 'Guitar Center', url: 'https://www.guitarcenter.com/search#q=promark%20joey%20jordison%20signature%20drumsticks' },
+            { name: 'Sweetwater', url: 'https://www.sweetwater.com/store/search.php?s=promark+joey+jordison+drumsticks' },
+            { name: "Musician's Friend", url: 'https://www.musiciansfriend.com/search?q=promark+joey+jordison+drumsticks' }
+          ]
+        },
+        {
+          name: 'Evans Drumheads (Clear G2 / Coated G2)',
+          notes: "Joey used Evans heads during his later career. Evans G2 Coated heads on batter sides deliver a warm, slightly darker attack suited to metal recording, while the G1 Clear resonant heads keep the sustain controlled. Available for all standard tom, bass, and snare sizes.",
+          retailers: [
+            { name: 'Guitar Center', url: 'https://www.guitarcenter.com/search#q=evans%20g2%20coated%20drumheads' },
+            { name: 'Sweetwater', url: 'https://www.sweetwater.com/store/search.php?s=evans+g2+coated+drumheads' },
+            { name: "Musician's Friend", url: 'https://www.musiciansfriend.com/search?q=evans+g2+coated+drumheads' }
+          ]
+        }
+      ],
+      outro: "For a complete Joey Jordison-inspired setup, pair a Pearl Masters or Reference Series kit with the Pearl Demon Drive double pedals and Paiste RUDE cymbals. Prices vary based on configuration and availability — check each retailer for current stock, bundle packages, and open-box deals. Note: Joey Jordison passed away in July 2021; some signature items (especially the 13\" snare) may have limited new stock but can often be found on the used market."
+    }
   },
   {
     id: 3,

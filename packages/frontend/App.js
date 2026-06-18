@@ -1145,6 +1145,81 @@ function isSpotlightsPage() {
   return window.location.pathname === '/spotlights';
 }
 
+// ==========================================
+// ANALYTICS HELPERS (Issue #1234)
+// ==========================================
+
+function trackEvent(name, params) {
+  if (Platform.OS !== 'web' || typeof window === 'undefined' || !window.gtag) return;
+  window.gtag('event', name, params);
+}
+
+// Fires a section_impression event once per session when the element scrolls into view.
+function useSectionImpression(sectionName) {
+  const ref = useRef(null);
+  useEffect(() => {
+    if (Platform.OS !== 'web' || typeof window === 'undefined' || typeof IntersectionObserver === 'undefined') return;
+    const key = `imp_${sectionName}`;
+    try {
+      if (sessionStorage.getItem(key)) return;
+    } catch (_) { return; }
+    const el = ref.current;
+    if (!el) return;
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          try { sessionStorage.setItem(key, '1'); } catch (_) {}
+          trackEvent('section_impression', { section: sectionName, page: 'home' });
+          observer.disconnect();
+        }
+      },
+      { threshold: 0.2 }
+    );
+    observer.observe(el);
+    return () => observer.disconnect();
+  }, [sectionName]);
+  return ref;
+}
+
+// Fires scroll_depth events at 25/50/75/100% thresholds, once per session.
+function useScrollDepth() {
+  useEffect(() => {
+    if (Platform.OS !== 'web' || typeof window === 'undefined') return;
+    const thresholds = [25, 50, 75, 100];
+    let remaining;
+    try {
+      remaining = thresholds.filter(p => !sessionStorage.getItem(`scroll_depth_${p}`));
+    } catch (_) { remaining = [...thresholds]; }
+    if (remaining.length === 0) return;
+
+    let ticking = false;
+    const onScroll = () => {
+      if (ticking || remaining.length === 0) return;
+      ticking = true;
+      requestAnimationFrame(() => {
+        ticking = false;
+        const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+        if (docHeight <= 0) return;
+        const pct = Math.round((window.scrollY / docHeight) * 100);
+        remaining = remaining.filter(threshold => {
+          if (pct >= threshold) {
+            try { sessionStorage.setItem(`scroll_depth_${threshold}`, '1'); } catch (_) {}
+            trackEvent('scroll_depth', { percent: threshold, page: 'home' });
+            return false;
+          }
+          return true;
+        });
+        if (remaining.length === 0) {
+          window.removeEventListener('scroll', onScroll);
+        }
+      });
+    };
+
+    window.addEventListener('scroll', onScroll, { passive: true });
+    return () => window.removeEventListener('scroll', onScroll);
+  }, []);
+}
+
 // Helper to get/set URL params for filters
 function getFiltersFromURL() {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return { search: '', genre: '', brand: '', era: '', sort: '' };
@@ -1552,6 +1627,7 @@ function MostPopularGear({ theme, onSelectDrummer }) {
   const [popularGear, setPopularGear] = useState(null);
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState(null);
+  const sectionRef = useSectionImpression('most_popular_gear');
 
   // Fetch popular gear data
   useEffect(() => {
@@ -1576,6 +1652,7 @@ function MostPopularGear({ theme, onSelectDrummer }) {
 
   // Handle drummer click
   const handleDrummerPress = (drummer) => {
+    trackEvent('section_click', { section: 'most_popular_gear', item_type: 'drummer', drummer_name: drummer.name });
     if (onSelectDrummer && drummer.id) {
       onSelectDrummer(drummer.id);
     }
@@ -1583,6 +1660,7 @@ function MostPopularGear({ theme, onSelectDrummer }) {
 
   // Navigate to gear category
   const handleGearPress = (category, gearName) => {
+    trackEvent('section_click', { section: 'most_popular_gear', item_type: 'gear', gear_name: gearName, gear_category: category });
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
       const slug = gearName.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
       window.history.pushState(null, '', `/gear/${category}?q=${encodeURIComponent(gearName)}`);
@@ -1602,7 +1680,8 @@ function MostPopularGear({ theme, onSelectDrummer }) {
   ];
 
   return (
-    <View 
+    <View
+      ref={sectionRef}
       style={[styles.popularGearSection, { backgroundColor: 'transparent' }]}
       accessibilityRole="region"
       accessibilityLabel="Most Popular Gear"
@@ -1695,10 +1774,11 @@ function MostPopularGear({ theme, onSelectDrummer }) {
 function TrendingThisWeek({ theme, drummers, onSelectDrummer }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
-  
+  const sectionRef = useSectionImpression('trending');
+
   // Get trending drummers with full data
-  const trendingDrummers = useMemo(() => 
-    getTrendingDrummers(drummers), 
+  const trendingDrummers = useMemo(() =>
+    getTrendingDrummers(drummers),
     [drummers]
   );
 
@@ -1709,20 +1789,19 @@ function TrendingThisWeek({ theme, drummers, onSelectDrummer }) {
 
   // Track clicks on trending widget for analytics (GA4 event: trending_click)
   const handleDrummerPress = (drummer) => {
-    // Fire GA4 event
-    if (typeof window !== 'undefined' && window.gtag) {
-      window.gtag('event', 'trending_click', {
-        drummer_id: drummer.id,
-        drummer_name: drummer.name,
-        trending_rank: drummer.trending.rank,
-        trending_change: drummer.trending.change,
-      });
-    }
+    trackEvent('trending_click', {
+      section: 'trending',
+      drummer_id: drummer.id,
+      drummer_name: drummer.name,
+      trending_rank: drummer.trending.rank,
+      trending_change: drummer.trending.change,
+    });
     onSelectDrummer(drummer.id);
   };
 
   return (
-    <View 
+    <View
+      ref={sectionRef}
       style={[styles.trendingSection, { backgroundColor: 'transparent' }]}
       accessibilityRole="region"
       accessibilityLabel="Trending This Week"
@@ -7842,6 +7921,7 @@ function CompareView({ theme, onBack, drummers, onNavigateToCompare }) {
 function DrummerSpotlight({ drummer, theme, onSelectDrummer, onViewAllSpotlights }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
+  const sectionRef = useSectionImpression('spotlight');
 
   if (!drummer || !drummer.spotlight) return null;
 
@@ -7854,15 +7934,18 @@ function DrummerSpotlight({ drummer, theme, onSelectDrummer, onViewAllSpotlights
   const labelColor = isBirthday ? '#ec4899' : '#f59e0b'; // Pink for birthday, amber for regular
 
   return (
-    <View style={[styles.spotlightContainer, { backgroundColor: theme.card, borderColor: theme.border }]}>
+    <View ref={sectionRef} style={[styles.spotlightContainer, { backgroundColor: theme.card, borderColor: theme.border }]}>
       <View style={styles.spotlightHeader}>
         <Text style={[styles.spotlightLabel, { color: labelColor }]}>{labelText}</Text>
         <Text style={[styles.spotlightWeek, { color: theme.secondaryText }]}>{featureReason}</Text>
       </View>
-      
+
       <View style={[styles.spotlightContent, isMobile && styles.spotlightContentMobile]}>
-        <TouchableOpacity 
-          onPress={() => onSelectDrummer(drummer.id)}
+        <TouchableOpacity
+          onPress={() => {
+            trackEvent('section_click', { section: 'spotlight', item_type: 'drummer', drummer_name: drummer.name });
+            onSelectDrummer(drummer.id);
+          }}
           style={[styles.spotlightImageContainer, { width: isMobile ? 100 : 140, height: isMobile ? 100 : 140 }]}
           accessibilityRole="button"
           accessibilityLabel={`View ${drummer.name}'s profile`}
@@ -7879,7 +7962,10 @@ function DrummerSpotlight({ drummer, theme, onSelectDrummer, onViewAllSpotlights
         </TouchableOpacity>
         
         <View style={[styles.spotlightInfo, isMobile && styles.spotlightInfoMobile]}>
-          <TouchableOpacity onPress={() => onSelectDrummer(drummer.id)}>
+          <TouchableOpacity onPress={() => {
+            trackEvent('section_click', { section: 'spotlight', item_type: 'drummer_name', drummer_name: drummer.name });
+            onSelectDrummer(drummer.id);
+          }}>
             <Text style={[styles.spotlightName, { color: theme.text }]}>{drummer.name}</Text>
           </TouchableOpacity>
           <Text style={[styles.spotlightBand, { color: theme.secondaryText }]}>{drummer.band}</Text>
@@ -7913,14 +7999,20 @@ function DrummerSpotlight({ drummer, theme, onSelectDrummer, onViewAllSpotlights
           {/* CTA Buttons */}
           <View style={[styles.spotlightCTAs, isMobile && styles.spotlightCTAsMobile]}>
             <TouchableOpacity
-              onPress={() => onSelectDrummer(drummer.id)}
+              onPress={() => {
+                trackEvent('section_click', { section: 'spotlight', item_type: 'view_profile_cta', drummer_name: drummer.name });
+                onSelectDrummer(drummer.id);
+              }}
               style={[styles.spotlightCTAPrimary, { backgroundColor: theme.primary }]}
               accessibilityRole="button"
             >
               <Text style={styles.spotlightCTAPrimaryText}>View Full Profile →</Text>
             </TouchableOpacity>
             <TouchableOpacity
-              onPress={onViewAllSpotlights}
+              onPress={() => {
+                trackEvent('section_click', { section: 'spotlight', item_type: 'past_spotlights_cta' });
+                onViewAllSpotlights();
+              }}
               style={[styles.spotlightCTASecondary, { borderColor: theme.border }]}
               accessibilityRole="button"
             >
@@ -17112,24 +17204,25 @@ function BattlePage({ theme, drummers, onBack, battleSlug }) {
 // HERO SECTION - Homepage hero with prominent search CTA (Issue #493)
 // ==========================================
 
-function HeroSection({ 
-  theme, 
-  searchValue, 
-  onSearchChange, 
-  onSearchFocus, 
-  onSearchClear, 
-  suggestions, 
-  onSelectSuggestion, 
-  showSuggestions, 
+function HeroSection({
+  theme,
+  searchValue,
+  onSearchChange,
+  onSearchFocus,
+  onSearchClear,
+  suggestions,
+  onSelectSuggestion,
+  showSuggestions,
   searchInputRef,
   drummerCount,
-  gearCount 
+  gearCount
 }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
+  const sectionRef = useSectionImpression('hero');
 
   return (
-    <View style={[styles.heroSection, { backgroundColor: theme.background }]}>
+    <View ref={sectionRef} style={[styles.heroSection, { backgroundColor: theme.background }]}>
       {/* Gradient overlay for visual depth */}
       {Platform.OS === 'web' && (
         <div
@@ -17192,16 +17285,16 @@ function HeroSection({
 function StartHereCTAs({ theme, onNavigateToQuiz, onNavigateToCompare, onNavigateToBeginnerGuide }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
+  const sectionRef = useSectionImpression('start_here');
 
   // GA4 tracking for CTA clicks (Issue #817)
   const trackCTAClick = (ctaName, destination) => {
-    if (Platform.OS === 'web' && typeof window !== 'undefined' && window.gtag) {
-      window.gtag('event', 'start_here_cta_click', {
-        event_category: 'engagement',
-        event_label: ctaName,
-        destination_page: destination,
-      });
-    }
+    trackEvent('start_here_cta_click', {
+      event_category: 'engagement',
+      event_label: ctaName,
+      destination_page: destination,
+      section: 'start_here',
+    });
   };
 
   const ctaCards = [
@@ -17247,7 +17340,7 @@ function StartHereCTAs({ theme, onNavigateToQuiz, onNavigateToCompare, onNavigat
   ];
 
   return (
-    <View style={styles.startHereContainer}>
+    <View ref={sectionRef} style={styles.startHereContainer}>
       <Text style={[styles.startHereLabel, { color: theme.secondaryText }]}>
         ✨ START HERE
       </Text>
@@ -17546,6 +17639,76 @@ function DrummersPage({
   );
 }
 
+// ==========================================
+// EXPLORE TOOLS STRIP - Homepage tool discovery bar (Issue #1232, #1234)
+// ==========================================
+
+function ExploreToolsStrip({ theme, onNavigateToCompare, onNavigateToQuiz, onNavigateToQuotes, onNavigateToGearFinder, onNavigateToKitBuilder, onNavigateToBpmTap, onNavigateToBirthdayCalendar, onNavigateToTimeline, onNavigateToGenresList, onNavigateToTechniques, onNavigateToKitQuiz, onNavigateToGuessTheKit, onNavigateToNews, onNavigateToToolsHub }) {
+  const sectionRef = useSectionImpression('explore_tools');
+
+  const chips = [
+    { icon: '🆚', label: 'Compare', onPress: onNavigateToCompare, a11y: 'Compare drummers side by side' },
+    { icon: '🥁', label: 'Find Match', onPress: onNavigateToQuiz, a11y: 'Take the drummer personality quiz' },
+    { icon: '💬', label: 'Quotes', onPress: onNavigateToQuotes, a11y: 'Browse drummer interview quotes' },
+    { icon: '🔍', label: 'Gear Finder', onPress: onNavigateToGearFinder, a11y: 'Search drummers by gear' },
+    { icon: '🛠️', label: 'Kit Builder', onPress: onNavigateToKitBuilder, a11y: 'Build your custom drum kit' },
+    { icon: '🎵', label: 'BPM Tap', onPress: onNavigateToBpmTap, a11y: 'BPM tap calculator' },
+    { icon: '🎂', label: 'Birthdays', onPress: onNavigateToBirthdayCalendar, a11y: 'View drummer birthday calendar' },
+    { icon: '📜', label: 'History', onPress: onNavigateToTimeline, a11y: 'View metal drumming evolution timeline' },
+    { icon: '🎸', label: 'Genres', onPress: onNavigateToGenresList, a11y: 'Browse metal genres' },
+    { icon: '🥁', label: 'Techniques', onPress: onNavigateToTechniques, a11y: 'Learn drumming techniques' },
+    { icon: '🎯', label: 'Kit Quiz', onPress: onNavigateToKitQuiz, a11y: 'Guess the drummer by kit quiz' },
+    { icon: '📸', label: 'Photo Quiz', onPress: onNavigateToGuessTheKit, a11y: 'Guess the drummer by their kit photo quiz' },
+    { icon: '📰', label: 'News', onPress: onNavigateToNews, a11y: 'View metal news' },
+    { icon: '🗂️', label: 'All Tools', onPress: onNavigateToToolsHub, a11y: 'Explore all interactive tools' },
+  ];
+
+  return (
+    <View ref={sectionRef} style={styles.exploreToolsContainer}>
+      <Text style={[styles.exploreToolsLabel, { color: theme.secondaryText }]}>Explore Tools</Text>
+      <ScrollView
+        horizontal
+        showsHorizontalScrollIndicator={false}
+        contentContainerStyle={styles.exploreToolsStrip}
+      >
+        {chips.map(({ icon, label, onPress, a11y }) => (
+          <TouchableOpacity
+            key={label}
+            onPress={() => {
+              trackEvent('section_click', { section: 'explore_tools', tool_label: label });
+              onPress();
+            }}
+            style={[styles.exploreChip, { backgroundColor: theme.card, borderColor: theme.border }]}
+            accessibilityRole="button"
+            accessibilityLabel={a11y}
+          >
+            <Text style={styles.exploreChipIcon}>{icon}</Text>
+            <Text style={[styles.exploreChipLabel, { color: theme.text }]}>{label}</Text>
+          </TouchableOpacity>
+        ))}
+      </ScrollView>
+    </View>
+  );
+}
+
+// ==========================================
+// FEATURED DRUMMERS SECTION HEADER (Issue #1234)
+// ==========================================
+
+function FeaturedDrummersSectionHeader({ theme }) {
+  const sectionRef = useSectionImpression('featured_drummers');
+  return (
+    <View ref={sectionRef} style={styles.featuredSection}>
+      <Text style={[styles.featuredSectionTitle, { color: theme.text }]}>
+        ⭐ Featured Drummers
+      </Text>
+      <Text style={[styles.featuredSectionSubtitle, { color: theme.secondaryText }]}>
+        Legendary metal drummers to explore
+      </Text>
+    </View>
+  );
+}
+
 function DrummerList({
   theme,
   onSelectDrummer,
@@ -17588,6 +17751,9 @@ function DrummerList({
   showAllDrummers,
   onShowAllDrummers
 }) {
+  // Scroll-depth milestones — fires once per session at 25/50/75/100% (Issue #1234)
+  useScrollDepth();
+
   // CLS Optimization: Show skeleton loaders instead of spinner
   // Skeletons match the final layout dimensions to prevent layout shift
   if (loading) {
@@ -17654,43 +17820,24 @@ function DrummerList({
         onNavigateToCompare={onNavigateToCompare}
         onNavigateToBeginnerGuide={onNavigateToBeginnerGuide}
       />
-      {/* Explore Tools Strip - replaces 14-button wall (Issue #1232) */}
-      <View style={styles.exploreToolsContainer}>
-        <Text style={[styles.exploreToolsLabel, { color: theme.secondaryText }]}>Explore Tools</Text>
-        <ScrollView
-          horizontal
-          showsHorizontalScrollIndicator={false}
-          contentContainerStyle={styles.exploreToolsStrip}
-        >
-          {[
-            { icon: '🆚', label: 'Compare', onPress: onNavigateToCompare, a11y: 'Compare drummers side by side' },
-            { icon: '🥁', label: 'Find Match', onPress: onNavigateToQuiz, a11y: 'Take the drummer personality quiz' },
-            { icon: '💬', label: 'Quotes', onPress: onNavigateToQuotes, a11y: 'Browse drummer interview quotes' },
-            { icon: '🔍', label: 'Gear Finder', onPress: onNavigateToGearFinder, a11y: 'Search drummers by gear' },
-            { icon: '🛠️', label: 'Kit Builder', onPress: onNavigateToKitBuilder, a11y: 'Build your custom drum kit' },
-            { icon: '🎵', label: 'BPM Tap', onPress: onNavigateToBpmTap, a11y: 'BPM tap calculator' },
-            { icon: '🎂', label: 'Birthdays', onPress: onNavigateToBirthdayCalendar, a11y: 'View drummer birthday calendar' },
-            { icon: '📜', label: 'History', onPress: onNavigateToTimeline, a11y: 'View metal drumming evolution timeline' },
-            { icon: '🎸', label: 'Genres', onPress: onNavigateToGenresList, a11y: 'Browse metal genres' },
-            { icon: '🥁', label: 'Techniques', onPress: onNavigateToTechniques, a11y: 'Learn drumming techniques' },
-            { icon: '🎯', label: 'Kit Quiz', onPress: onNavigateToKitQuiz, a11y: 'Guess the drummer by kit quiz' },
-            { icon: '📸', label: 'Photo Quiz', onPress: onNavigateToGuessTheKit, a11y: 'Guess the drummer by their kit photo quiz' },
-            { icon: '📰', label: 'News', onPress: onNavigateToNews, a11y: 'View metal news' },
-            { icon: '🗂️', label: 'All Tools', onPress: onNavigateToToolsHub, a11y: 'Explore all interactive tools' },
-          ].map(({ icon, label, onPress, a11y }) => (
-            <TouchableOpacity
-              key={label}
-              onPress={onPress}
-              style={[styles.exploreChip, { backgroundColor: theme.card, borderColor: theme.border }]}
-              accessibilityRole="button"
-              accessibilityLabel={a11y}
-            >
-              <Text style={styles.exploreChipIcon}>{icon}</Text>
-              <Text style={[styles.exploreChipLabel, { color: theme.text }]}>{label}</Text>
-            </TouchableOpacity>
-          ))}
-        </ScrollView>
-      </View>
+      {/* Explore Tools Strip - replaces 14-button wall (Issue #1232, #1234) */}
+      <ExploreToolsStrip
+        theme={theme}
+        onNavigateToCompare={onNavigateToCompare}
+        onNavigateToQuiz={onNavigateToQuiz}
+        onNavigateToQuotes={onNavigateToQuotes}
+        onNavigateToGearFinder={onNavigateToGearFinder}
+        onNavigateToKitBuilder={onNavigateToKitBuilder}
+        onNavigateToBpmTap={onNavigateToBpmTap}
+        onNavigateToBirthdayCalendar={onNavigateToBirthdayCalendar}
+        onNavigateToTimeline={onNavigateToTimeline}
+        onNavigateToGenresList={onNavigateToGenresList}
+        onNavigateToTechniques={onNavigateToTechniques}
+        onNavigateToKitQuiz={onNavigateToKitQuiz}
+        onNavigateToGuessTheKit={onNavigateToGuessTheKit}
+        onNavigateToNews={onNavigateToNews}
+        onNavigateToToolsHub={onNavigateToToolsHub}
+      />
       {/* Drummer Spotlight Section */}
       {spotlight && (
         <DrummerSpotlight
@@ -17786,16 +17933,9 @@ function DrummerList({
           onSortChange={onSortChange}
         />
       </View>
-      {/* Featured Drummers Section Header (Issue #496) */}
+      {/* Featured Drummers Section Header (Issue #496, #1234) */}
       {!showAllDrummers && !searchValue && !filters.genre && !filters.brand && (
-        <View style={styles.featuredSection}>
-          <Text style={[styles.featuredSectionTitle, { color: theme.text }]}>
-            ⭐ Featured Drummers
-          </Text>
-          <Text style={[styles.featuredSectionSubtitle, { color: theme.secondaryText }]}>
-            Legendary metal drummers to explore
-          </Text>
-        </View>
+        <FeaturedDrummersSectionHeader theme={theme} />
       )}
     </>
   ), [

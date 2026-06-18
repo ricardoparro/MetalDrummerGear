@@ -4792,6 +4792,20 @@ function updateDocumentMeta(drummer, drummers = [], filters = {}) {
       );
     }
 
+    // Drummer-specific FAQ items — exact GSC query matches (Issue #1261)
+    if (drummer.faq && drummer.faq.length > 0) {
+      drummer.faq.forEach(item => {
+        faqItems.push({
+          "@type": "Question",
+          "name": item.q,
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": item.a
+          }
+        });
+      });
+    }
+
     // Add endorsements FAQ if available
     if (drummer.endorsements && drummer.endorsements.length > 0) {
       const endorsementNames = drummer.endorsements.map(e => e.name).join(', ');
@@ -6702,6 +6716,36 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
       </View>
 
       <GearTimeline timeline={drummer.gearTimeline} drummerName={drummer.name} theme={theme} />
+
+      {/* Kit Specifications — structured gear breakdown for SEO (Issue #1261) */}
+      {drummer.kitSpecs && drummer.kitSpecs.length > 0 && (
+        <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">
+            {drummer.name} Drum Kit Specifications
+          </Text>
+          {drummer.kitSpecs.map((spec, idx) => (
+            <View key={idx} style={[styles.specRow, { borderBottomColor: theme.border }]}>
+              <Text style={[styles.specLabel, { color: theme.text }]}>{spec.label}</Text>
+              <Text style={[styles.specValue, { color: theme.secondaryText }]}>{spec.value}</Text>
+            </View>
+          ))}
+        </View>
+      )}
+
+      {/* Visible FAQ block — mirrors FAQPage schema for on-page SEO (Issue #1261) */}
+      {drummer.faq && drummer.faq.length > 0 && (
+        <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">
+            Frequently Asked Questions
+          </Text>
+          {drummer.faq.map((item, idx) => (
+            <View key={idx} style={{ marginBottom: 16 }}>
+              <Text style={[styles.gearTitle, { color: theme.text }]}>{item.q}</Text>
+              <Text style={[styles.gearContent, { color: theme.secondaryText }]}>{item.a}</Text>
+            </View>
+          ))}
+        </View>
+      )}
 
       {/* News Section - Issue #513 - Phase 5 */}
       <DrummerNewsSection drummer={drummer} theme={theme} />

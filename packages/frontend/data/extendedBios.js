@@ -248,7 +248,11 @@ His blistering speed, technical precision, and theatrical stage presence—inclu
           { q: 'When did Joey Jordison die?', a: 'Joey Jordison passed away on July 26, 2021, at age 46.' },
           { q: 'Why did Joey Jordison leave Slipknot?', a: 'Joey left Slipknot in 2013; he later revealed he had been battling transverse myelitis.' },
           { q: 'What was Joey Jordison famous for?', a: 'Joey was famous for his extreme speed, rotating drum platform, and co-founding Slipknot.' },
-          { q: "What was Joey Jordison's mask number?", a: 'Joey wore mask #1 in Slipknot, a Kabuki-style Japanese mask.' }
+          { q: "What was Joey Jordison's mask number?", a: 'Joey wore mask #1 in Slipknot, a Kabuki-style Japanese mask.' },
+          { q: 'What drum set did Joey Jordison use?', a: 'Joey Jordison used a Tama Starclassic Performer drum set during his primary Slipknot era, configured with a 22" bass drum and 12", 13", and 16" toms. His snare was the Pearl Joey Jordison Signature 13"×6.5". He later transitioned to a Pearl Reference Pure kit for post-Slipknot projects.' },
+          { q: "What was Joey Jordison's drum kit?", a: "Joey Jordison's drum kit during his peak Slipknot era was a Tama Starclassic Performer (22\" BD, 12\"/13\"/16\" toms) with a Pearl Joey Jordison Signature 13\"×6.5\" snare. Axis A Longboard double bass pedals powered his extreme blast beats, and Remo Ambassador Coated heads were fitted on the batter side." },
+          { q: 'What cymbals did Joey Jordison use?', a: 'Joey Jordison used Sabian HHX Evolution 14" hi-hats, Sabian AAX Stage crashes (16" and 18"), and a Sabian AAX Stage 21" ride cymbal. During the Iowa era he also employed Paiste RUDE and 2002 series cymbals known for their aggressive cut and extreme durability.' },
+          { q: 'What bass drum pedals did Joey Jordison use?', a: "Joey Jordison used Axis A Longboard double bass drum pedals. The long footboard design gave him the leverage and speed required for his extreme double kick patterns and the blast beats he performed live on Slipknot's rotating drum riser." }
         ]
       },
       sources: {

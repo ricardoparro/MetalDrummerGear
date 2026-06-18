@@ -210,6 +210,9 @@ import { GearCardShare, trackGearCardEvent, getCardUrl } from './components/Gear
 // Sticky CTA Component (Issue #820) - Conversion optimization
 import StickyCTA from './components/StickyCTA';
 
+// Sticky Global Header (Issue #1238) - Persistent nav + search across all routes
+import StickyGlobalHeader, { HEADER_HEIGHT } from './components/StickyGlobalHeader';
+
 // Related Drummers internal-linking block (Issue #1005, split 1/3 of #874)
 // Stub-tested on the Lars Ulrich page here; #1007 rolls it out everywhere.
 import RelatedDrummersBlock from './components/RelatedDrummersBlock';
@@ -27707,13 +27710,19 @@ setShowList(false);
   return (
     <View style={[styles.container, { backgroundColor: theme.background }]}>
       {!selectedDrummer && !showCompare && !showQuiz && !showPrivacy && !showQuotes && !selectedGear && !showBpmTap && !showBpmRange && !showBirthdayCalendar && !showBandDetail && !showGearFinder && !showBioPage && !showGearIndex && !showGearCategory && !showGearComparison && !showGearComparisonsIndex && !showSpotlights && !showGenrePage && !showGenresList && !showKitBuilder && !showTechniquesIndex && !showTechniqueDetail && !showDrummerVsIndex && !showDrummerVsDetail && <SEOHead drummers={drummers} filters={filters} />}
-      <View style={styles.header} accessibilityRole="banner">
-        <View style={styles.headerContent}>
-          <Text style={[styles.title, { color: theme.text }]} accessibilityRole="header">
-            Metal Drummer Gear
-          </Text>
-          <View style={styles.headerActions}>
-            {/* Wishlist Badge (Issue #823) */}
+      {/* Sticky Global Header (Issue #1238) */}
+      <StickyGlobalHeader
+        searchValue={searchValue}
+        onSearchChange={handleSearchChange}
+        onSearchClear={handleSearchClear}
+        onNavigate={(path) => {
+          if (Platform.OS === 'web' && typeof window !== 'undefined') {
+            window.history.pushState({}, '', path);
+            window.dispatchEvent(new PopStateEvent('popstate'));
+          }
+        }}
+        rightSlot={
+          <>
             <WishlistBadge
               onPress={() => {
                 setShowWishlist(true);
@@ -27723,9 +27732,11 @@ setShowList(false);
               }}
             />
             <ThemeToggle />
-          </View>
-        </View>
-      </View>
+          </>
+        }
+      />
+      {/* Spacer so fixed header doesn't overlap content */}
+      <View style={{ height: HEADER_HEIGHT }} />
       {renderContent()}
       {/* Wishlist FAB (Issue #823) - Shows when items saved */}
       <FloatingWishlistButton

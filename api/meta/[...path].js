@@ -1141,6 +1141,48 @@ function getMetaForPath(pathname) {
     }
   }
 
+  // Issue #1383: /gear/<brand> — 8 brand landing pages
+  const GEAR_BRAND_META = {
+    tama: { name: 'Tama', type: 'drum kits', tagline: 'Premier Japanese drum manufacturer used by Eloy Casagrande, Tomas Haake, and more.' },
+    pearl: { name: 'Pearl', type: 'drum kits', tagline: 'Pearl drums used by Joey Jordison, Gene Hoglan, and top metal drummers worldwide.' },
+    dw: { name: 'DW', type: 'drum kits', tagline: 'Drum Workshop (DW) kits used by Danny Carey, Mike Mangini, and legendary metal drummers.' },
+    ludwig: { name: 'Ludwig', type: 'drum kits', tagline: 'Ludwig drums — iconic brand used by John Bonham-influenced metal drummers.' },
+    zildjian: { name: 'Zildjian', type: 'cymbals', tagline: 'Zildjian cymbals used by Lars Ulrich, Matt Greiner, and top metal drummers for 400+ years.' },
+    paiste: { name: 'Paiste', type: 'cymbals', tagline: 'Paiste cymbals — Swiss precision used by Tomas Haake, Hellhammer, and extreme metal pros.' },
+    meinl: { name: 'Meinl', type: 'cymbals', tagline: 'Meinl cymbals used by Matt Halpern, Gavin Harrison, and progressive metal elite.' },
+    sabian: { name: 'Sabian', type: 'cymbals', tagline: 'Sabian cymbals used by Neil Peart, Charlie Benante, and leading metal drummers.' },
+  };
+
+  const gearBrandMatch = path.match(/^\/gear\/([a-z]+)$/);
+  if (gearBrandMatch) {
+    const brandSlug = gearBrandMatch[1];
+    const brand = GEAR_BRAND_META[brandSlug];
+    if (brand) {
+      return {
+        title: `${brand.name} ${brand.type === 'drum kits' ? 'Drums' : 'Cymbals'} — Metal Drummers Who Use ${brand.name} | ${SITE_NAME}`,
+        description: brand.tagline,
+        image: DEFAULT_IMAGE,
+        type: 'website',
+        url: `${BASE_URL}/gear/${brandSlug}`,
+        articleSchema: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'CollectionPage',
+          name: `Metal Drummers Who Use ${brand.name}`,
+          description: brand.tagline,
+          url: `${BASE_URL}/gear/${brandSlug}`,
+          breadcrumb: {
+            '@type': 'BreadcrumbList',
+            itemListElement: [
+              { '@type': 'ListItem', position: 1, name: 'Home', item: BASE_URL },
+              { '@type': 'ListItem', position: 2, name: 'Gear', item: `${BASE_URL}/gear` },
+              { '@type': 'ListItem', position: 3, name: brand.name, item: `${BASE_URL}/gear/${brandSlug}` },
+            ],
+          },
+        }),
+      };
+    }
+  }
+
   // Issue #1301: /gear/<category> — 6 browsable category pages
   const GEAR_CATEGORY_META = {
     cymbals: {

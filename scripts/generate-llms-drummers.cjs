@@ -45,11 +45,45 @@ try {
   console.warn('Could not parse extended bios, continuing without them:', e.message);
 }
 
+// --- Load signature licks (index by drummerSlug) ---------------------------------
+// ES module lick files are loaded via regex+eval, same pattern as extendedBios.
+const licksDir = path.join(__dirname, '../packages/frontend/data/licks');
+// Map: drummerSlug -> Array<{ slug, name }>
+const licksByDrummerSlug = {};
+try {
+  const lickFiles = fs.readdirSync(licksDir).filter(f => f.endsWith('.js') && f !== 'index.js');
+  for (const lickFile of lickFiles) {
+    const lickContent = fs.readFileSync(path.join(licksDir, lickFile), 'utf-8');
+    const transformed = lickContent
+      .replace(/^export const /gm, 'const ')
+      .replace(/^export default .*;/gm, '');
+    let fileLicks;
+    try {
+      fileLicks = eval(`(function() { ${transformed}; return licks; })()`);
+    } catch (e) {
+      console.warn(`Could not parse lick file ${lickFile}:`, e.message);
+      continue;
+    }
+    for (const lick of Object.values(fileLicks)) {
+      const ds = lick.drummerSlug;
+      if (!ds) continue;
+      if (!licksByDrummerSlug[ds]) licksByDrummerSlug[ds] = [];
+      licksByDrummerSlug[ds].push({ slug: lick.slug, name: lick.name });
+    }
+  }
+} catch (e) {
+  console.warn('Could not load signature licks, continuing without them:', e.message);
+}
+
 const today = new Date().toISOString().split('T')[0];
 const BASE = 'https://metalforge.io';
 
 function generateSlug(name) {
-  return name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+  return name.toLowerCase()
+    .replace(/[åä]/g, 'a').replace(/ö/g, 'o').replace(/ü/g, 'u')
+    .replace(/é|è|ê|ë/g, 'e').replace(/í|ì|î|ï/g, 'i').replace(/ó|ò|ô/g, 'o')
+    .replace(/ú|ù|û/g, 'u').replace(/ñ/g, 'n').replace(/ß/g, 'ss')
+    .replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
 }
 
 // Best-effort primary brand: first brand word of the drum kit, else first endorsement.
@@ -183,6 +217,17 @@ function buildMarkdown(drummer) {
     for (const q of drummer.quotes) {
       md += `> "${q.text}"\n>\n> — ${q.source}${q.year ? ` (${q.year})` : ''}\n\n`;
     }
+  }
+
+  // --- Signature Licks cross-reference (omit section when drummer has none) -------
+  const drummerLicks = licksByDrummerSlug[slug] || [];
+  if (drummerLicks.length > 0) {
+    md += `## Signature Licks on MetalForge\n\n`;
+    md += `MetalForge has ${drummerLicks.length} signature lick tutorial(s) for ${drummer.name}:\n\n`;
+    for (const lick of drummerLicks) {
+      md += `- [${lick.name}](${BASE}/drummers/${slug}/licks/${lick.slug})\n`;
+    }
+    md += `\nEach lick page includes a video demonstration, HowTo breakdown, and gear notes.\n\n`;
   }
 
   // --- Footer / cross-links ----------------------------------------------------

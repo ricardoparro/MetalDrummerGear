@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Meinl"
 profile_url: "https://metalforge.io/drummer/matt-greiner"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Matt Greiner — Drum Kit & Gear Setup
@@ -81,10 +81,20 @@ A: Matt Greiner co-founded August Burns Red in 2003 and has been their drummer f
 >
 > — Drumeo Interview (2019)
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Matt Greiner:
+
+- [Composure Syncopated Groove](https://metalforge.io/drummers/matt-greiner/licks/matt-greiner-composure-syncopation)
+- [Meridian Double-Bass Groove](https://metalforge.io/drummers/matt-greiner/licks/matt-greiner-meridian-double-bass)
+- [Sonic Salvation Metalcore Groove](https://metalforge.io/drummers/matt-greiner/licks/matt-greiner-sonic-salvation-groove)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Matt Greiner on MetalForge](https://metalforge.io/drummer/matt-greiner)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

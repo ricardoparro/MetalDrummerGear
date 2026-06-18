@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "ddrum"
 profile_url: "https://metalforge.io/drummer/shannon-larkin"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Shannon Larkin — Drum Kit & Gear Setup
@@ -70,10 +70,20 @@ A: Shannon Larkin uses Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19"
 
 A: Shannon Larkin drums for Godsmack / Ugly Kid Joe / Amen, a hard rock / heavy metal / nu metal band.
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Shannon Larkin:
+
+- [I Stand Alone Power Groove](https://metalforge.io/drummers/shannon-larkin/licks/shannon-larkin-i-stand-alone-groove)
+- [Keep Away Groove Lock & Fill Cascade](https://metalforge.io/drummers/shannon-larkin/licks/shannon-larkin-keep-away-groove)
+- [Awake Tribal Tom Pattern](https://metalforge.io/drummers/shannon-larkin/licks/shannon-larkin-awake-tribal-groove)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Shannon Larkin on MetalForge](https://metalforge.io/drummer/shannon-larkin)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

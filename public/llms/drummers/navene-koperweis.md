@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "DW"
 profile_url: "https://metalforge.io/drummer/navene-koperweis"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Navene Koperweis — Drum Kit & Gear Setup
@@ -69,10 +69,20 @@ A: Navene Koperweis uses Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Extra
 
 A: Navene Koperweis drums for Entheos / ex-Animals as Leaders, a progressive metal / djent / technical death metal band.
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Navene Koperweis:
+
+- [Chemical Flashback Djent Assault](https://metalforge.io/drummers/navene-koperweis/licks/navene-koperweis-chemical-flashback-djent)
+- [An End to Everything Technical Groove](https://metalforge.io/drummers/navene-koperweis/licks/navene-koperweis-an-end-to-everything)
+- [The Interior Wilderness Math-Metal Pattern](https://metalforge.io/drummers/navene-koperweis/licks/navene-koperweis-interior-wilderness)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Navene Koperweis on MetalForge](https://metalforge.io/drummer/navene-koperweis)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

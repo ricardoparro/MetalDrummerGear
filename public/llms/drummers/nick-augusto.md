@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/nick-augusto"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Nick Augusto — Drum Kit & Gear Setup
@@ -71,10 +71,20 @@ A: Nick Augusto played Tama Starclassic drums with Meinl cymbals and Tama Iron C
 
 A: Nick parted ways with Trivium in 2014, citing creative differences. He was replaced by Mat Madiro.
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Nick Augusto:
+
+- [In Waves Main Groove Pattern](https://metalforge.io/drummers/nick-augusto/licks/nick-augusto-in-waves-groove)
+- [Built to Fall Metalcore Fill Sequence](https://metalforge.io/drummers/nick-augusto/licks/nick-augusto-built-to-fall-fill)
+- [Vengeance Falls Blast Beat and Drive](https://metalforge.io/drummers/nick-augusto/licks/nick-augusto-vengeance-falls-blast)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Nick Augusto on MetalForge](https://metalforge.io/drummer/nick-augusto)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

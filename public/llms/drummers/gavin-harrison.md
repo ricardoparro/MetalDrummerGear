@@ -6,7 +6,7 @@ country: "UK"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/gavin-harrison"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Gavin Harrison — Drum Kit & Gear Setup
@@ -79,10 +79,20 @@ A: Gavin Harrison drums for Porcupine Tree / King Crimson, a progressive metal /
 >
 > — Drumeo Interview (2019)
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Gavin Harrison:
+
+- [Anesthetize Odd-Time Epic](https://metalforge.io/drummers/gavin-harrison/licks/gavin-harrison-anesthetize)
+- [The Sound of Muzak 7/8 Groove](https://metalforge.io/drummers/gavin-harrison/licks/gavin-harrison-the-sound-of-muzak)
+- [Harridan Displaced-Fill Study](https://metalforge.io/drummers/gavin-harrison/licks/gavin-harrison-harridan)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Gavin Harrison on MetalForge](https://metalforge.io/drummer/gavin-harrison)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

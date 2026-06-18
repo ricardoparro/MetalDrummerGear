@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/ray-luzier"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Ray Luzier — Drum Kit & Gear Setup
@@ -69,10 +69,20 @@ A: Ray Luzier uses Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Cra
 
 A: Ray Luzier drums for Korn, a nu metal band.
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Ray Luzier:
+
+- [Freak on a Leash Nu-Metal Groove](https://metalforge.io/drummers/ray-luzier/licks/ray-luzier-freak-on-a-leash-groove)
+- [Got the Life Rock Groove](https://metalforge.io/drummers/ray-luzier/licks/ray-luzier-got-the-life-groove)
+- [Blind Open Hi-Hat Groove](https://metalforge.io/drummers/ray-luzier/licks/ray-luzier-blind-groove)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Ray Luzier on MetalForge](https://metalforge.io/drummer/ray-luzier)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

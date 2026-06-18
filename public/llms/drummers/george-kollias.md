@@ -6,7 +6,7 @@ country: "Greece"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/george-kollias"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # George Kollias — Drum Kit & Gear Setup
@@ -77,10 +77,20 @@ A: George joined Nile in 2004, replacing Tony Laureano.
 
 A: Yes, George is an accomplished drum educator with instructional DVDs and worldwide clinics.
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for George Kollias:
+
+- [Nile Gravity Blast Pattern](https://metalforge.io/drummers/george-kollias/licks/george-kollias-gravity-blast)
+- [Polyrhythmic Death Metal Pattern](https://metalforge.io/drummers/george-kollias/licks/george-kollias-polyrhythmic-mayhem)
+- [Sustained 250+ BPM Blast](https://metalforge.io/drummers/george-kollias/licks/george-kollias-sustained-blast)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [George Kollias on MetalForge](https://metalforge.io/drummer/george-kollias)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

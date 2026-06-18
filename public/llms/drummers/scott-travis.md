@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "ddrum"
 profile_url: "https://metalforge.io/drummer/scott-travis"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Scott Travis — Drum Kit & Gear Setup
@@ -77,10 +77,20 @@ A: Scott Travis drums for Judas Priest, a heavy metal / thrash metal band.
 >
 > — Modern Drummer (2018)
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Scott Travis:
+
+- [Painkiller Double-Bass Intro & Assault](https://metalforge.io/drummers/scott-travis/licks/scott-travis-painkiller)
+- [Breaking the Law Live Drive](https://metalforge.io/drummers/scott-travis/licks/scott-travis-breaking-the-law)
+- [Living After Midnight Backbeat Power](https://metalforge.io/drummers/scott-travis/licks/scott-travis-living-after-midnight)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Scott Travis on MetalForge](https://metalforge.io/drummer/scott-travis)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/tim-yeung"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Tim Yeung — Drum Kit & Gear Setup
@@ -70,10 +70,20 @@ A: Tim Yeung uses Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX 
 
 A: Tim Yeung drums for Morbid Angel / Hate Eternal / Vital Remains, a death metal / technical death metal band.
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Tim Yeung:
+
+- [Bleed the Fifth Blast Beat Pattern](https://metalforge.io/drummers/tim-yeung/licks/tim-yeung-bleed-the-fifth-blast)
+- [Inferno of Violence Double Bass Drive](https://metalforge.io/drummers/tim-yeung/licks/tim-yeung-inferno-of-violence-double-bass)
+- [Anarchists of the Underground Speed Groove](https://metalforge.io/drummers/tim-yeung/licks/tim-yeung-anarchists-speed-groove)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Tim Yeung on MetalForge](https://metalforge.io/drummer/tim-yeung)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

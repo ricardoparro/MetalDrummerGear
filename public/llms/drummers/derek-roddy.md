@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/derek-roddy"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Derek Roddy — Drum Kit & Gear Setup
@@ -80,10 +80,20 @@ A: Derek Roddy drums for Hate Eternal / Nile, a death metal / technical death me
 >
 > — Modern Drummer (2011)
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Derek Roddy:
+
+- [King of All Kings Single-Stroke Blast](https://metalforge.io/drummers/derek-roddy/licks/derek-roddy-king-of-all-kings-blast)
+- [I, Monarch Double-Bass Control](https://metalforge.io/drummers/derek-roddy/licks/derek-roddy-i-monarch-double-bass)
+- [Sons of Darkness Speed & Endurance Study](https://metalforge.io/drummers/derek-roddy/licks/derek-roddy-sons-of-darkness-speed)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Derek Roddy on MetalForge](https://metalforge.io/drummer/derek-roddy)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "Brazil"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/aquiles-priester"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Aquiles Priester — Drum Kit & Gear Setup
@@ -79,10 +79,20 @@ A: Aquiles Priester drums for Angra / W.A.S.P., a power metal / heavy metal band
 >
 > — Drummerworld Interview (2015)
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Aquiles Priester:
+
+- [Rebirth Double-Bass Power Pattern](https://metalforge.io/drummers/aquiles-priester/licks/aquiles-priester-rebirth)
+- [Heroes of Sand Progressive Prog Feel](https://metalforge.io/drummers/aquiles-priester/licks/aquiles-priester-heroes-of-sand)
+- [Spread Your Fire Speed Groove](https://metalforge.io/drummers/aquiles-priester/licks/aquiles-priester-spread-your-fire)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Aquiles Priester on MetalForge](https://metalforge.io/drummer/aquiles-priester)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

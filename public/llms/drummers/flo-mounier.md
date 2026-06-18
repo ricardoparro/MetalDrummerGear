@@ -6,7 +6,7 @@ country: "Canada"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/flo-mounier"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Flo Mounier — Drum Kit & Gear Setup
@@ -77,10 +77,20 @@ A: Flo Mounier drums for Cryptopsy, a technical death metal / brutal death metal
 >
 > — Drumeo Interview (2020)
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Flo Mounier:
+
+- [Sire of Sin Blast & Gravity Assault](https://metalforge.io/drummers/flo-mounier/licks/flo-mounier-sire-of-sin-blast)
+- [Phobophile Gravity Blast Masterclass](https://metalforge.io/drummers/flo-mounier/licks/flo-mounier-phobophile-gravity-blast)
+- [Slit Your Guts Blast & Double-Bass Barrage](https://metalforge.io/drummers/flo-mounier/licks/flo-mounier-slit-your-guts-blast)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Flo Mounier on MetalForge](https://metalforge.io/drummer/flo-mounier)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

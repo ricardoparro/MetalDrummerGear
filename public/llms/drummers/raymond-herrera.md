@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/raymond-herrera"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Raymond Herrera — Drum Kit & Gear Setup
@@ -70,10 +70,20 @@ A: Raymond Herrera uses Zildjian A Custom & Z Custom Series (14" A Custom Hi-Hat
 
 A: Raymond Herrera drums for Fear Factory / Arkaea / Brujeria, a industrial metal / death metal band.
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Raymond Herrera:
+
+- [Replica Machine-Gun Double Bass](https://metalforge.io/drummers/raymond-herrera/licks/raymond-herrera-replica-double-bass)
+- [Edgecrusher Industrial Groove Pattern](https://metalforge.io/drummers/raymond-herrera/licks/raymond-herrera-edgecrusher-groove)
+- [Linchpin Snare & Bass Interplay](https://metalforge.io/drummers/raymond-herrera/licks/raymond-herrera-linchpin-snare-bass)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Raymond Herrera on MetalForge](https://metalforge.io/drummer/raymond-herrera)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/richard-christy"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Richard Christy — Drum Kit & Gear Setup
@@ -80,10 +80,20 @@ A: Richard Christy drums for Death / Iced Earth, a death metal / thrash metal ba
 >
 > — Sick Drummer Magazine (2009)
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Richard Christy:
+
+- [Scavenger of Human Sorrow Blast Sequence](https://metalforge.io/drummers/richard-christy/licks/richard-christy-scavenger-blast)
+- [Flesh and the Power It Holds Progressive Fill](https://metalforge.io/drummers/richard-christy/licks/richard-christy-flesh-power-fill)
+- [Voice of the Soul Linear Pattern](https://metalforge.io/drummers/richard-christy/licks/richard-christy-voice-soul-linear)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Richard Christy on MetalForge](https://metalforge.io/drummer/richard-christy)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

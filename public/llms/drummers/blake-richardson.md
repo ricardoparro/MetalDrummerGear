@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/blake-richardson"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Blake Richardson — Drum Kit & Gear Setup
@@ -81,10 +81,20 @@ A: Blake Richardson plays progressive metal, seamlessly blending death metal, ja
 >
 > — Drumeo Interview (2021)
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Blake Richardson:
+
+- [Prequel to the Sequel — 7/8 Odd-Time Architecture](https://metalforge.io/drummers/blake-richardson/licks/blake-richardson-prequel-sequel-7-8)
+- [Lay Your Ghosts to Rest — Double Bass Ostinato](https://metalforge.io/drummers/blake-richardson/licks/blake-richardson-lay-ghosts-double-bass)
+- [Telos — Progressive Fill Architecture](https://metalforge.io/drummers/blake-richardson/licks/blake-richardson-telos-progressive-fills)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Blake Richardson on MetalForge](https://metalforge.io/drummer/blake-richardson)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

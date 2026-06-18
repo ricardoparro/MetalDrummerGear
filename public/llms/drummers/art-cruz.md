@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Ludwig"
 profile_url: "https://metalforge.io/drummer/art-cruz"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Art Cruz — Drum Kit & Gear Setup
@@ -70,10 +70,20 @@ A: Art Cruz uses Zildjian (14" A Custom Mastersound Hi-Hats, 18" A Custom EFX, 1
 
 A: Art Cruz drums for Lamb of God, a groove metal / thrash metal band.
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Art Cruz:
+
+- [Memento Mori Polyrhythmic Groove](https://metalforge.io/drummers/art-cruz/licks/art-cruz-memento-mori-groove)
+- [New Colossal Hate Snare-Bass Interplay](https://metalforge.io/drummers/art-cruz/licks/art-cruz-new-colossal-hate-snare-bass)
+- [Gomorrah Blast-to-Groove Transition](https://metalforge.io/drummers/art-cruz/licks/art-cruz-gomorrah-blast-groove)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Art Cruz on MetalForge](https://metalforge.io/drummer/art-cruz)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "ddrum"
 profile_url: "https://metalforge.io/drummer/vinnie-paul"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Vinnie Paul — Drum Kit & Gear Setup
@@ -69,10 +69,20 @@ A: Vinnie Paul uses Sabian AA & AAX Series (14" Hi-Hats, 18" & 19" Crashes, 21" 
 
 A: Vinnie Paul drums for Pantera / Damageplan / Hellyeah, a groove metal / heavy metal band.
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Vinnie Paul:
+
+- [Walk Half-Time Groove](https://metalforge.io/drummers/vinnie-paul/licks/vinnie-paul-walk-groove)
+- [Cowboys from Hell Driving Groove](https://metalforge.io/drummers/vinnie-paul/licks/vinnie-paul-cowboys-from-hell-groove)
+- [Domination Double-Bass Breakdown](https://metalforge.io/drummers/vinnie-paul/licks/vinnie-paul-domination-double-bass)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Vinnie Paul on MetalForge](https://metalforge.io/drummer/vinnie-paul)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

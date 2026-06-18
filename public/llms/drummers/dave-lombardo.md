@@ -6,7 +6,7 @@ country: "Cuba/USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/dave-lombardo"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Dave Lombardo — Drum Kit & Gear Setup
@@ -93,10 +93,20 @@ A: Yes, Dave co-founded Slayer in 1981 with Kerry King, Jeff Hanneman, and Tom A
 >
 > — Revolver Magazine (2016)
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Dave Lombardo:
+
+- [Angel of Death Opening](https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-angel-of-death-chaos)
+- [Raining Blood Double Bass](https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-raining-blood-double-bass)
+- [Seasons in the Abyss Groove](https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-seasons-thrash)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Dave Lombardo on MetalForge](https://metalforge.io/drummer/dave-lombardo)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

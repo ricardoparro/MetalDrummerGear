@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Mapex"
 profile_url: "https://metalforge.io/drummer/chris-adler"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Chris Adler — Drum Kit & Gear Setup
@@ -69,10 +69,20 @@ A: Chris Adler uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crash
 
 A: Chris Adler drums for Lamb of God, a groove metal band.
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Chris Adler:
+
+- [Laid to Rest Ride-Bell Groove](https://metalforge.io/drummers/chris-adler/licks/chris-adler-laid-to-rest-groove)
+- [Walk with Me in Hell Half-Time Groove](https://metalforge.io/drummers/chris-adler/licks/chris-adler-walk-with-me-in-hell-groove)
+- [512 Groove & Fills](https://metalforge.io/drummers/chris-adler/licks/chris-adler-512-groove)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Chris Adler on MetalForge](https://metalforge.io/drummer/chris-adler)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "France"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/mario-duplantier"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Mario Duplantier — Drum Kit & Gear Setup
@@ -89,10 +89,20 @@ A: "Flying Whales" features some of Mario's most recognized and celebrated drum 
 >
 > — Revolver Magazine (2016)
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Mario Duplantier:
+
+- [Gojira Polyrhythmic Groove](https://metalforge.io/drummers/mario-duplantier/licks/mario-duplantier-polyrhythmic-groove)
+- [Gojira Blast Variation](https://metalforge.io/drummers/mario-duplantier/licks/mario-duplantier-blast-variation)
+- [Backbone Main Groove](https://metalforge.io/drummers/mario-duplantier/licks/mario-duplantier-backbone-groove)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Mario Duplantier on MetalForge](https://metalforge.io/drummer/mario-duplantier)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

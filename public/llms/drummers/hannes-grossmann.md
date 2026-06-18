@@ -6,7 +6,7 @@ country: "Germany"
 primary_brand: "DW"
 profile_url: "https://metalforge.io/drummer/hannes-grossmann"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Hannes Grossmann — Drum Kit & Gear Setup
@@ -70,10 +70,20 @@ A: Hannes Grossmann uses Meinl Byzance Series (14" Byzance Traditional Hi-Hats, 
 
 A: Hannes Grossmann drums for Obscura / ex-Necrophagist / Alkaloid, a technical death metal band.
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Hannes Grossmann:
+
+- [Alter Magnitudes Tech-Death Workout](https://metalforge.io/drummers/hannes-grossmann/licks/hannes-grossmann-alter-magnitudes)
+- [In Turmoil's Swirling Reaches Polyrhythm Study](https://metalforge.io/drummers/hannes-grossmann/licks/hannes-grossmann-in-turmoils-swirling-reaches)
+- [Septuagint Odd-Time Mastery](https://metalforge.io/drummers/hannes-grossmann/licks/hannes-grossmann-septuagint-odd-time)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Hannes Grossmann on MetalForge](https://metalforge.io/drummer/hannes-grossmann)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

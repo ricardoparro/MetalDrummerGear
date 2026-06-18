@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Noble"
 profile_url: "https://metalforge.io/drummer/martin-lopez"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Martin Lopez — Drum Kit & Gear Setup
@@ -79,10 +79,20 @@ A: Martin Lopez drums for Soen / ex-Opeth, a progressive metal / progressive dea
 >
 > — Drumeo Interview (2019)
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Martin Lopez:
+
+- [Bleak Ghost Note Groove](https://metalforge.io/drummers/martin-lopez/licks/martin-lopez-bleak-ghost-notes)
+- [The Drapery Falls Dynamic Architecture](https://metalforge.io/drummers/martin-lopez/licks/martin-lopez-drapery-falls-dynamics)
+- [Antagonist Progressive Groove](https://metalforge.io/drummers/martin-lopez/licks/martin-lopez-antagonist-soen-groove)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Martin Lopez on MetalForge](https://metalforge.io/drummer/martin-lopez)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

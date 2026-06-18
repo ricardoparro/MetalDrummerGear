@@ -6,7 +6,7 @@ country: "Norway"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/frost"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Frost — Drum Kit & Gear Setup
@@ -79,10 +79,20 @@ A: Frost drums for Satyricon / 1349, a black metal band.
 >
 > — Metal Hammer (2018)
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Frost:
+
+- [Fuel for Hatred — Precision Blast Beat Architecture](https://metalforge.io/drummers/frost/licks/frost-fuel-for-hatred-blast)
+- [K.I.N.G. — Signature Mid-Tempo Black Metal Groove](https://metalforge.io/drummers/frost/licks/frost-king-mid-tempo-groove)
+- [Mother North — Classic Mid-Paced Black Metal Feel](https://metalforge.io/drummers/frost/licks/frost-mother-north-groove)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Frost on MetalForge](https://metalforge.io/drummer/frost)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

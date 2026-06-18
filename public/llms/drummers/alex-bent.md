@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/alex-bent"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Alex Bent — Drum Kit & Gear Setup
@@ -69,10 +69,20 @@ A: Alex Bent uses Zildjian (14" K Custom Hybrid Hi-Hats, 18" & 19" K Custom Hybr
 
 A: Alex Bent drums for ex-Trivium / Arkaik / Dragonlord, a heavy metal / thrash metal / technical death metal band.
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Alex Bent:
+
+- [The Sin and the Sentence Blast+Groove Hybrid](https://metalforge.io/drummers/alex-bent/licks/alex-bent-sin-and-sentence-groove)
+- [Betrayer Modern Thrash Fill Sequence](https://metalforge.io/drummers/alex-bent/licks/alex-bent-betrayer-groove)
+- [Beyond Oblivion Melodic Metal Groove](https://metalforge.io/drummers/alex-bent/licks/alex-bent-beyond-oblivion-groove)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Alex Bent on MetalForge](https://metalforge.io/drummer/alex-bent)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

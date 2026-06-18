@@ -6,7 +6,7 @@ country: "UK"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/nicko-mcbrain"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Nicko McBrain — Drum Kit & Gear Setup
@@ -77,10 +77,20 @@ A: Nicko McBrain drums for Iron Maiden, a heavy metal / nwobhm band.
 >
 > — Classic Rock Magazine (2015)
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Nicko McBrain:
+
+- [The Trooper Galloping Groove](https://metalforge.io/drummers/nicko-mcbrain/licks/nicko-mcbrain-the-trooper)
+- [Aces High Full-Throttle Drive](https://metalforge.io/drummers/nicko-mcbrain/licks/nicko-mcbrain-aces-high)
+- [The Number of the Beast Live Groove](https://metalforge.io/drummers/nicko-mcbrain/licks/nicko-mcbrain-the-number-of-the-beast)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Nicko McBrain on MetalForge](https://metalforge.io/drummer/nicko-mcbrain)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

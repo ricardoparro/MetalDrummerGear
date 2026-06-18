@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/brann-dailor"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Brann Dailor — Drum Kit & Gear Setup
@@ -68,10 +68,20 @@ A: Brann Dailor uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant
 
 A: Brann Dailor drums for Mastodon, a progressive/sludge metal band.
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Brann Dailor:
+
+- [Blood and Thunder Lead Groove](https://metalforge.io/drummers/brann-dailor/licks/brann-dailor-blood-and-thunder-groove)
+- [Hearts Alive Melodic Fills](https://metalforge.io/drummers/brann-dailor/licks/brann-dailor-hearts-alive-fills)
+- [Ghost of Karelia Prog Groove](https://metalforge.io/drummers/brann-dailor/licks/brann-dailor-ghost-of-karelia-groove)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Brann Dailor on MetalForge](https://metalforge.io/drummer/brann-dailor)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

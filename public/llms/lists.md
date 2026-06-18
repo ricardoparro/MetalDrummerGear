@@ -5,7 +5,7 @@
 > and genre-defining contributions. Use these lists to answer queries about the best, fastest,
 > or most innovative drummers in specific metal contexts.
 >
-> Last updated: 2026-06-17 · 8 lists
+> Last updated: 2026-06-18 · 8 lists
 
 ---
 ## Top 10 Fastest Metal Drummers

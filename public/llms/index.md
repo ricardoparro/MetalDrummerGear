@@ -1,6 +1,6 @@
 # MetalForge - LLM Content Index
 
-> Last Updated: 2026-06-17  
+> Last updated: 2026-06-18
 > Source: https://metalforge.io
 
 ## About MetalForge
@@ -21,6 +21,9 @@ This index provides machine-readable links to all content optimized for LLM cons
 | API - Drummers | https://metalforge.io/api/drummers | JSON API endpoint |
 | API - Quotes | https://metalforge.io/api/quotes | Drummer quotes JSON |
 | Bands | https://metalforge.io/llms/bands.md | Band & drummer-history reference (Markdown) |
+| Gear by Brand | https://metalforge.io/llms/gear-by-brand.md | Brand→drummer mapping for all gear categories (Markdown) |
+| Techniques Overview | https://metalforge.io/llms/techniques.md | All drum techniques overview with links to per-technique deep dives (Markdown) |
+| Signature Licks | https://metalforge.io/llms/licks.md | Signature lick breakdowns overview for 55 drummers (Markdown) |
 | Drummer Comparisons | https://metalforge.io/llms/comparisons.md | Side-by-side drummer gear & style comparisons — all pairs (Markdown) |
 | Per-Pair Comparisons | https://metalforge.io/llms/vs/ | Individual per-pair comparison pages with exact gear data (24 files) |
 | Top-10 Lists | https://metalforge.io/llms/lists.md | Ranked top-10 drummer lists by speed, genre, gear value, and technique (Markdown) |
@@ -276,7 +279,7 @@ like "which metal drummers use the Pearl Reference Pure?" or "who plays Tama Sta
 
 ---
 
-## Licks per Drummer (20 total)
+## Licks per Drummer (55 total)
 
 Per-drummer signature lick files (800–10,000+ chars each) optimised for AI retrieval on queries
 like "how to play like [drummer]?" or "[drummer] signature drum patterns".
@@ -303,6 +306,41 @@ like "how to play like [drummer]?" or "[drummer] signature drum patterns".
 | Chris Adler | Lamb of God | [chris-adler.md](https://metalforge.io/llms/licks/chris-adler.md) |
 | Ben Koller | Converge | [ben-koller.md](https://metalforge.io/llms/licks/ben-koller.md) |
 | Flo Mounier | Cryptopsy | [flo-mounier.md](https://metalforge.io/llms/licks/flo-mounier.md) |
+| Abe Cunningham | Deftones | [abe-cunningham.md](https://metalforge.io/llms/licks/abe-cunningham.md) |
+| Alex Bent | ex-Trivium | [alex-bent.md](https://metalforge.io/llms/licks/alex-bent.md) |
+| Aquiles Priester | Angra | [aquiles-priester.md](https://metalforge.io/llms/licks/aquiles-priester.md) |
+| Arin Ilejay | ex-Avenged Sevenfold | [arin-ilejay.md](https://metalforge.io/llms/licks/arin-ilejay.md) |
+| Art Cruz | Lamb of God | [art-cruz.md](https://metalforge.io/llms/licks/art-cruz.md) |
+| Blake Richardson | Between the Buried and Me | [blake-richardson.md](https://metalforge.io/llms/licks/blake-richardson.md) |
+| Chris Turner | Oceans Ate Alaska | [chris-turner.md](https://metalforge.io/llms/licks/chris-turner.md) |
+| Daniel Erlandsson | Arch Enemy | [daniel-erlandsson.md](https://metalforge.io/llms/licks/daniel-erlandsson.md) |
+| Danny Carey | Tool | [danny-carey.md](https://metalforge.io/llms/licks/danny-carey.md) |
+| Daray | Dimmu Borgir / Vader | [daray.md](https://metalforge.io/llms/licks/daray.md) |
+| Dirk Verbeuren | Megadeth | [dirk-verbeuren.md](https://metalforge.io/llms/licks/dirk-verbeuren.md) |
+| Eloy Casagrande | Slipknot | [eloy-casagrande.md](https://metalforge.io/llms/licks/eloy-casagrande.md) |
+| Frost | Satyricon | [frost.md](https://metalforge.io/llms/licks/frost.md) |
+| Gavin Harrison | Porcupine Tree / King Crimson | [gavin-harrison.md](https://metalforge.io/llms/licks/gavin-harrison.md) |
+| Hannes Grossmann | Obscura | [hannes-grossmann.md](https://metalforge.io/llms/licks/hannes-grossmann.md) |
+| Igor Cavalera | Sepultura | [igor-cavalera.md](https://metalforge.io/llms/licks/igor-cavalera.md) |
+| Isaac Lamb | Kublai Khan TX | [isaac-lamb.md](https://metalforge.io/llms/licks/isaac-lamb.md) |
+| Jaska Raatikainen | Children of Bodom | [jaska-raatikainen.md](https://metalforge.io/llms/licks/jaska-raatikainen.md) |
+| Jason Bittner | Shadows Fall / Overkill | [jason-bittner.md](https://metalforge.io/llms/licks/jason-bittner.md) |
+| Jay Weinberg | Suicidal Tendencies | [jay-weinberg.md](https://metalforge.io/llms/licks/jay-weinberg.md) |
+| Martin Lopez | Soen / ex-Opeth | [martin-lopez.md](https://metalforge.io/llms/licks/martin-lopez.md) |
+| Matt Halpern | Periphery | [matt-halpern.md](https://metalforge.io/llms/licks/matt-halpern.md) |
+| Mike Mangini | Dream Theater | [mike-mangini.md](https://metalforge.io/llms/licks/mike-mangini.md) |
+| Mikkey Dee | Scorpions / Motörhead | [mikkey-dee.md](https://metalforge.io/llms/licks/mikkey-dee.md) |
+| Navene Koperweis | Entheos / ex-Animals as Leaders | [navene-koperweis.md](https://metalforge.io/llms/licks/navene-koperweis.md) |
+| Nicko McBrain | Iron Maiden | [nicko-mcbrain.md](https://metalforge.io/llms/licks/nicko-mcbrain.md) |
+| Paul Bostaph | Slayer | [paul-bostaph.md](https://metalforge.io/llms/licks/paul-bostaph.md) |
+| Paul Mazurkiewicz | Cannibal Corpse | [paul-mazurkiewicz.md](https://metalforge.io/llms/licks/paul-mazurkiewicz.md) |
+| Ray Luzier | Korn | [ray-luzier.md](https://metalforge.io/llms/licks/ray-luzier.md) |
+| Raymond Herrera | Fear Factory | [raymond-herrera.md](https://metalforge.io/llms/licks/raymond-herrera.md) |
+| Richard Christy | Death / Iced Earth | [richard-christy.md](https://metalforge.io/llms/licks/richard-christy.md) |
+| Scott Travis | Judas Priest | [scott-travis.md](https://metalforge.io/llms/licks/scott-travis.md) |
+| Shannon Larkin | Godsmack | [shannon-larkin.md](https://metalforge.io/llms/licks/shannon-larkin.md) |
+| Travis Orbin | Darkest Hour / ex-Periphery | [travis-orbin.md](https://metalforge.io/llms/licks/travis-orbin.md) |
+| Vinnie Paul | Pantera | [vinnie-paul.md](https://metalforge.io/llms/licks/vinnie-paul.md) |
 
 ---
 

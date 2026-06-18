@@ -3248,6 +3248,7 @@ Beyond Converge, Koller maintains an impressive roster of projects including Mut
       sources: {
         title: 'Sources',
         items: [
+          { name: 'Complete Drum Setup Guide', url: 'https://metalforge.io/articles/ben-koller-drum-setup' },
           { name: 'Converge Official', url: 'https://convergecult.com' },
           { name: 'Epitaph Records', url: 'https://www.epitaph.com/artists/converge' },
           { name: 'Modern Drummer Magazine', url: 'https://www.moderndrummer.com' },
@@ -8473,6 +8474,7 @@ Beyond Converge, Koller maintains an impressive roster of projects including Mut
       sources: {
         title: 'Sources',
         items: [
+          { name: 'Complete Drum Setup Guide', url: 'https://metalforge.io/articles/ben-koller-drum-setup' },
           { name: 'Converge Official', url: 'https://convergecult.com' },
           { name: 'Epitaph Records', url: 'https://www.epitaph.com/artists/converge' },
           { name: 'Modern Drummer Magazine', url: 'https://www.moderndrummer.com' },

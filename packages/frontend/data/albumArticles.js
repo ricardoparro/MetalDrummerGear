@@ -20550,6 +20550,320 @@ Mario Duplantier's gear has changed across three decades and multiple endorsemen
     relatedAlbums: [],
     relatedDrummers: [5, 16, 14], // Tomas Haake, Brann Dailor, Danny Carey
     relatedArticles: ['whats-in-mario-duplantiers-kit', 'whats-in-tomas-haakes-kit', 'progressive-death-metal-drummers']
+  },
+
+  'ben-koller-drum-setup': {
+    slug: 'ben-koller-drum-setup',
+    articleType: 'drummer-kit',
+    drummer: 'Ben Koller',
+    drummerId: 34,
+    band: 'Converge',
+    bands: ['Converge', 'Mutoid Man', 'All Pigs Must Die', 'Killer Be Killed'],
+    genre: 'Hardcore / Metalcore',
+    country: 'USA',
+    isAlbumArticle: true,
+    datePublished: '2026-06-18',
+    dateModified: '2026-06-18',
+    author: 'MetalForge Editorial',
+    // SEO — head term "ben koller drum setup" in title and description
+    title: "Ben Koller's Complete Drum Setup — Converge Gear Guide",
+    description: "Complete breakdown of Ben Koller's drum setup with Converge. Tama Starclassic Performer kit, Zildjian K and A Custom cymbals, Tama Iron Cobra pedals, and Evans heads — the full gear guide for hardcore's most intense drummer.",
+    seoKeywords: ['ben koller drum setup', 'ben koller drum kit', 'converge drummer gear', 'ben koller tama drums', 'ben koller zildjian cymbals', 'ben koller pedals', 'hardcore drum setup', 'ben koller converge drums'],
+    ogImage: '/images/drummers/ben-koller.webp',
+    // Introduction — head term in first paragraph
+    intro: {
+      title: "Ben Koller's Drum Setup: The Engine Behind Converge",
+      content: `Ben Koller's drum setup is the visceral core of one of the most influential bands in modern hardcore. As Converge's drummer since 1999, Koller has spent over two decades refining a setup that can deliver the controlled chaos of "Jane Doe," the grinding intensity of "Axe to Fall," and the experimental heaviness of "Bloodmoon: I" — all while maintaining the raw energy that defines Converge's relentless live show.
+
+Born March 12, 1978, Koller joined Converge at age 20, replacing original drummer Damon Bellorado. What followed was an unbroken run of genre-defining records that established him as one of the most important drummers in heavy music. His work has influenced a generation of hardcore, metalcore, and extreme metal drummers who studied his approach to controlled aggression, creative cymbal work, and the ability to make chaos feel intentional.
+
+Koller's current setup centers on a Tama Starclassic Performer B/B kit paired with Zildjian K and A Custom cymbals — a combination chosen for durability, cutting power in dense live mixes, and the response needed to execute his blend of blast beats, intricate fills, and full-kit chaos across Converge's demanding touring schedule. This article breaks down every piece of Ben Koller's drum setup and examines how each choice serves Converge's sound.`,
+      keyPoints: [
+        "Converge drummer since 1999 — joined at age 20",
+        'Tama Starclassic Performer B/B — primary touring kit',
+        'Zildjian K and A Custom cymbals for brightness and cut',
+        'Tama Iron Cobra double pedal for explosive footwork',
+        'Evans G2 and EC2 heads for attack and durability',
+        'Also plays in Mutoid Man, All Pigs Must Die, and Killer Be Killed'
+      ]
+    },
+    // Drum Kit Section
+    drumKit: {
+      title: "Ben's Tama Starclassic Performer B/B",
+      brand: 'Tama',
+      model: 'Tama Starclassic Performer B/B',
+      finish: 'Various (touring and studio configurations)',
+      config: {
+        bassdrums: ['22" Bass Drum (single or double kick configuration)'],
+        toms: ['10" Rack Tom', '12" Rack Tom', '16" Floor Tom'],
+        shells: 'Birch/Bubinga hybrid shells — focused attack with warm resonance'
+      },
+      description: `The Tama Starclassic Performer B/B is built around a birch/bubinga shell construction — "B/B" referring to the combination of these two woods. Birch provides a focused, punchy attack with a tight, controlled low end, while bubinga adds warmth and a deeper fundamental tone. For Ben Koller's style — where every hit needs to register clearly through Converge's dense, distortion-heavy guitar arrangements — this combination delivers the clarity and impact that all-birch or all-maple kits can't match alone.
+
+The Performer series sits in Tama's mid-to-professional range, positioned below the flagship Starclassic Walnut/Birch and above the entry-level Imperial Star. For a drummer with Koller's touring demands, the Performer hits the right balance: professional-quality shell construction and hardware without the cost or fragility concerns of Tama's highest-end options.
+
+Koller's kit configuration is deliberately stripped-down. Hardcore music demands efficiency: a small configuration that can be set up quickly, broken down fast, and still covers the full sonic range the music demands. His rack tom/floor tom layout — typically 10", 12", and 16" — gives him the melodic range for his more creative fills while keeping the kit compact for the physically intense stage presence Converge is known for.
+
+The birch/bubinga shells also provide exceptional durability under heavy-hitting conditions. Koller plays with ferocity — extended blast beat sections, full-force rimshots, aggressive cymbal work — and the Starclassic Performer is built to absorb that punishment on 250-show touring cycles without degrading.`,
+      notes: [
+        'Birch/Bubinga hybrid shells — attack of birch with warmth of bubinga',
+        'Compact configuration for maximum impact per piece',
+        'Tama hardware known for stability under touring conditions',
+        'Configures with both single and double kick depending on setlist demands',
+        'Estimated kit value: $1,800–2,800 (Starclassic Performer B/B shell pack)'
+      ],
+      estimatedValue: '$1,800–2,800 (Starclassic Performer B/B shell pack)'
+    },
+    // Snare Section
+    snare: {
+      title: 'The Snare: Tama S.L.P.',
+      brand: 'Tama',
+      model: 'Tama S.L.P. Snare',
+      size: '14" x 6.5"',
+      shell: 'Steel or wood (varies by configuration)',
+      description: `The Tama S.L.P. (Studio Legendary Percussion) snare series represents Tama's dedication to vintage-inspired drums built for modern performance. At 14" x 6.5", Koller's snare has the depth to project volume and body while maintaining the sharp attack and quick decay that hardcore drumming demands.
+
+In Converge's live mix — guitars tuned down to B standard and below, with distortion that fills every frequency — the snare must be tuned aggressively to cut. Koller consistently tunes his snare on the brighter end of medium, allowing it to register clearly through the mix rather than getting buried beneath the guitar's low-mid content.
+
+The 6.5" depth (deeper than the standard 5.5") provides a fuller, more commanding voice on rimshots — the primary backbeat stroke in Converge's harder-hitting moments. This depth also helps the drum maintain projection even at higher head tensions, preventing the thin, papery sound that can occur when shallower snares are tuned tight.
+
+For heads, Koller favors Evans heads (G1 or similar coated models on the batter side) that provide the controlled attack and response his aggressive rimshot technique requires. The combination of deeper shell and Evans coating produces a snare crack that is audible even in the most sonically chaotic Converge live environments.`,
+      tuningSetting: 'Medium-bright for cut and rimshot authority through dense hardcore mixes',
+      heads: 'Evans G1 Coated or similar (batter), standard snare side (resonant)',
+      estimatedValue: '$200–400 (Tama S.L.P. series)'
+    },
+    // Cymbals Section
+    cymbals: {
+      title: 'The Zildjian Arsenal',
+      brand: 'Zildjian',
+      series: 'Zildjian K and A Custom Series',
+      setup: [
+        { type: 'Hi-Hats', model: 'Zildjian K Custom Dark Hi-Hats 14"', position: 'Left side', notes: 'Dark, complex response for fast closed patterns' },
+        { type: 'Crash', model: 'Zildjian A Custom Crash 18"', position: 'Left crash', notes: 'Bright, explosive response for section-ending accents' },
+        { type: 'Crash', model: 'Zildjian A Custom Crash 19"', position: 'Right crash', notes: 'Slightly fuller sound for big emphasis moments' },
+        { type: 'Ride', model: 'Zildjian K Custom Ride 21"', position: 'Right', notes: 'Complex wash with a defined bell for ride passages' },
+        { type: 'China', model: 'Zildjian A Custom China 18"', position: 'Over toms', notes: 'Aggressive, trashy accent for Converge\'s most violent passages' },
+        { type: 'Splash', model: 'Zildjian K Splash 10"', position: 'Effects', notes: 'Quick accent punctuation in faster sections' }
+      ],
+      description: `Ben Koller's Zildjian setup combines two series with distinct personalities: the K Custom for complexity and darkness, and the A Custom for brightness and projection. This contrast reflects the sonic range Converge's music demands — from chaotic noise passages to explosive, arena-ready crashes.
+
+The K Custom Dark Hi-Hats (14") are the rhythmic anchor. Darker than standard K or A series, the Dark models produce a controlled, complex chick with less wash — ideal for the rapid, muted hi-hat patterns Koller uses to drive Converge's faster tempos. The controlled wash means rapid single-stroke hi-hat work reads clearly even in dense mixes, where standard bright hi-hats would smear together.
+
+The A Custom crashes — 18" and 19" — are Zildjian's brightest, fastest-responding crash models. For hardcore music, crash cymbals need to speak immediately and loudly; the A Custom series's bright, cutting attack ensures every section end, every emphasis point, lands with maximum impact over Converge's guitar volume. The 18"/19" pairing gives Koller slightly different characters between left and right, allowing him to vary his crash textures within a performance.
+
+The K Custom Ride 21" occupies the same complex-but-controlled territory as the Dark hi-hats — usable as a ride with body and bell definition, or as a large cymbal for sustained crashes. Converge's music rarely requires sustained ride patterns, but the K Custom Ride gives Koller a versatile tool for texture in more experimental passages.
+
+The A Custom China 18" is Koller's exclamation point — trashy, aggressive, fast-decaying. Used for accent work in Converge's most intense moments, the China adds a layer of sonic violence that standard crashes and splashes can't match. Paired with the K Splash (10") for quick textural accents, Koller's cymbal configuration covers every expressive need from subtle to extreme.`,
+      estimatedValue: '$1,500–2,500 (Zildjian K Custom and A Custom touring setup)'
+    },
+    // Hardware Section
+    hardware: {
+      title: 'Iron Cobra and Evans Heads',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'Tama',
+          model: 'Tama Iron Cobra Double Pedal',
+          notes: 'Power Glide or Rolling Glide — smooth, consistent chain-drive feel',
+          description: `The Tama Iron Cobra is one of the most widely used double pedals in metal and hardcore, known for its smooth, consistent chain-drive feel and a wide range of adjustability. Koller's footwork with Converge — blast beats, syncopated kick patterns, and the occasional double-time passage — demands a pedal that responds consistently under sustained heavy use. The Iron Cobra's cam system (available in Power Glide or Rolling Glide configurations) provides a linear, even response throughout the stroke, making it ideal for the varied kick demands Converge's catalog places on the left foot as well as the right.`
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth American Classic 5B or Promark 5B',
+          notes: 'Standard 5B dimensions — power and control for hardcore intensity',
+          description: `Koller plays standard 5B sticks — a heavier, longer stick than the common 5A, suited to the power demands of hardcore drumming. The extra mass delivers the heavy rimshots and crash accents Converge's music requires without requiring excessive arm force, reducing fatigue over long touring sets. He has used both Vic Firth and Promark 5B models at different points.`
+        },
+        {
+          type: 'Drumheads (Toms, Batter)',
+          brand: 'Evans',
+          model: 'Evans G2 Coated',
+          notes: 'Two-ply coated — warm attack with controlled sustain for heavy-hitting'
+        },
+        {
+          type: 'Drumheads (Toms, Resonant)',
+          brand: 'Evans',
+          model: 'Evans G1 Clear',
+          notes: 'Single-ply resonant — open tone with natural ring response'
+        },
+        {
+          type: 'Drumheads (Bass, Batter)',
+          brand: 'Evans',
+          model: 'Evans EC2 or EMAD',
+          notes: 'Focused attack and controlled low-end for dense hardcore production'
+        }
+      ],
+      heads: {
+        bassKick: 'Evans EMAD (batter) for focused attack, Evans resonant with port hole',
+        toms: 'Evans G2 Coated (batter), Evans G1 Clear (resonant)',
+        snare: 'Evans G1 Coated or similar (batter), Evans 300 Snare Side (resonant)'
+      }
+    },
+    // Gear Timeline
+    gearTimeline: [
+      {
+        era: 'Early Converge Years',
+        years: '1999–2004',
+        albums: ['Jane Doe', 'You Fail Me'],
+        description: 'Developing the Converge sonic identity on evolving gear.',
+        gear: {
+          drums: 'Various Tama kits (standard touring grade)',
+          snare: 'Tama standard models',
+          cymbals: 'Zildjian A series and K series',
+          hardware: 'Tama hardware and pedals'
+        },
+        notes: 'Jane Doe (2001) was recorded with the raw, aggressive drum sound that would define Converge for the next two decades. The drum mix — close-miked, little room ambience — put Koller\'s kit front and center in the most chaotic hardcore album of its era.'
+      },
+      {
+        era: 'Mid-Period Converge',
+        years: '2004–2012',
+        albums: ['You Fail Me', 'No Heroes', 'Axe to Fall', 'All We Love We Leave Behind'],
+        description: 'Refining the setup as Converge expanded sonically and toured globally.',
+        gear: {
+          drums: 'Tama Starclassic series',
+          snare: 'Tama S.L.P. models developing',
+          cymbals: 'Zildjian K Custom and A Custom series solidified',
+          hardware: 'Tama Iron Cobra double pedal'
+        },
+        notes: 'Axe to Fall (2009) and All We Love We Leave Behind (2012) showcase Koller\'s maturing drumming within an increasingly adventurous Converge sound. The cymbal setup expanded to include more tonal variety as Converge\'s music incorporated more dynamic range.'
+      },
+      {
+        era: 'Current Setup',
+        years: '2017–Present',
+        albums: ['The Dusk in Us', 'Bloodmoon: I'],
+        description: 'Tama Starclassic Performer B/B and established Zildjian K/A Custom configuration.',
+        gear: {
+          drums: 'Tama Starclassic Performer B/B',
+          snare: 'Tama S.L.P. 14"x6.5"',
+          cymbals: 'Zildjian K Custom Dark Hi-Hats, A Custom Crashes, K Custom Ride',
+          hardware: 'Tama Iron Cobra double pedal, Evans heads'
+        },
+        notes: 'The Dusk in Us (2017) received a Grammy nomination. Bloodmoon: I (2021), featuring Chelsea Wolfe, showed Koller adapting to Converge\'s most atmospheric and dynamic album — his restraint and dynamic control on that record are as impressive as his intensity on earlier releases.'
+      }
+    ],
+    // Playing Style Section
+    playingStyle: {
+      title: 'Converge Live vs. Studio: How Koller Adapts',
+      content: `Ben Koller's approach to drums shifts meaningfully between Converge's studio recordings and their legendary live performances — a distinction that reveals both his musicality and his pragmatism as a working drummer in an aggressively touring band.
+
+**Studio Precision:**
+In the studio, Koller works within Converge's self-produced aesthetic — raw but intentional. Converge recordings are produced by Kurt Ballou (guitarist and primary recording engineer) at God City Studio in Salem, Massachusetts, with an emphasis on capturing real, physical drum sounds rather than heavily processed or triggered tones. Koller's studio setup typically uses close-miked shells with minimal overhead ambience, resulting in a drum sound that is brutally direct and immediate.
+
+Head selection and tuning become critical: toms are tuned for specific pitch relationships within each song's arrangement. Blast beats are executed with the precise velocity and control that God City's approach demands — Ballou's recording philosophy prizes feel over technical perfection, but Koller's technique is precise enough that the two needs rarely conflict.
+
+Ghost notes, which Koller deploys subtly between heavy patterns, are more audible in studio mixes where Ballou carefully balances the drum's dynamic range. On records like "The Dusk in Us" and "Bloodmoon: I," these ghost notes add a layer of rhythmic texture that live audiences feel more than hear.
+
+**Live Intensity:**
+Converge's live show is physically aggressive in a way few professional bands match. Koller plays at the edge of his physical limits for extended periods — blast beats, sustained heavy patterns, and the sheer force of Converge's sonic attack require endurance as much as technique. His live setup prioritizes durability and projection.
+
+Crashes are tuned slightly looser to increase their volume and sustain over crowd noise. The Iron Cobra pedal's consistent feel across varying stage conditions — temperature, humidity, different stage surfaces — makes it an ideal choice for Converge's demanding live circuit, which spans small clubs to major festivals with equal intensity.
+
+The Tama Starclassic Performer B/B's birch/bubinga shells project naturally, reducing the need for significant PA reinforcement for the kit's body frequencies. In the small-to-medium venues where Converge most frequently performs, this natural projection ensures the drum sound is physical and immediate rather than processed.
+
+**Multi-Band Demands:**
+Koller also maintains active roles in Mutoid Man (hard rock influenced by classic rock and metal), All Pigs Must Die (crust punk/death metal), and has studio roles with Killer Be Killed. Each band demands something slightly different: Mutoid Man rewards swing and groove more than raw Converge aggression; All Pigs Must Die returns to extreme metal blast technique. His Tama/Zildjian setup handles all these contexts without requiring a completely different kit for each project.`,
+      keyTechniques: [
+        'Controlled blast beats that serve groove rather than overwhelming it',
+        'Explosive full-kit fills transitioning chaotic sections',
+        'Creative cymbal accents including splash work and china integration',
+        'Dynamic contrast — from near-silence to full-chaos within a single song',
+        'Tight ride/cymbal patterns maintaining time through dense riff sections',
+        'Physical endurance enabling full-intensity performances over 70+ minute sets'
+      ]
+    },
+    // Quotes
+    quotes: [
+      { text: "Converge has always been about intensity and honesty. The drums have to reflect that — you can't fake it.", source: 'Various interviews', year: 2015 },
+      { text: "I try to make the chaos feel purposeful. Every fill, every blast, every accent should serve the song.", source: 'Modern Drummer', year: 2018 }
+    ],
+    // Buying Guide
+    buyingGuide: {
+      title: "Getting the Koller Sound: A Buyer's Guide",
+      content: `Matching Ben Koller's exact rig requires mid-to-professional investment, but you can capture the core of his approach at different price points.
+
+**Budget Approach ($800–1,500):**
+- Tama Imperialstar Birch kit — Tama's entry-level birch shell pack
+- Zildjian ZBT or ZHT series cymbals — affordable Zildjian entry point
+- Tama Iron Cobra single pedal (or Cobra 300 double)
+- Evans G2 Coated heads on toms (upgrade immediately from stock heads)
+- Vic Firth or Promark 5B sticks
+
+**Mid-Range Approach ($1,500–3,000):**
+- Tama Starclassic Performer B/B shell pack (the actual Koller choice)
+- Zildjian K Custom Dark 14" Hi-Hats
+- Zildjian A Custom 18"/19" crashes (buy individually)
+- Tama Iron Cobra double pedal (standard model)
+- Evans G2 Coated heads throughout
+
+**Professional Approach ($3,500+):**
+- Tama Starclassic Performer B/B in preferred finish with full hardware
+- Zildjian K Custom and A Custom setup: Dark Hi-Hats, A Custom crashes (18"/19"), K Custom Ride 21", A Custom China 18", K Splash 10"
+- Tama Iron Cobra double pedal (Power Glide or Rolling Glide)
+- Tama S.L.P. snare 14"x6.5"
+- Evans G2 Coated (toms), EMAD (bass), G1 Coated (snare)`,
+      budgetTiers: [
+        { tier: 'Budget', range: '$800–1,500', notes: 'Tama Imperialstar + Zildjian ZBT + Iron Cobra single pedal + Evans G2' },
+        { tier: 'Mid-Range', range: '$1,500–3,000', notes: 'Starclassic Performer B/B + Zildjian K Custom/A Custom + Iron Cobra double' },
+        { tier: 'Professional', range: '$3,500+', notes: 'Full Tama Starclassic Performer B/B rig + complete Zildjian K/A Custom setup' }
+      ]
+    },
+    // FAQ Section — targets 'ben koller drum setup' query intent
+    faq: [
+      {
+        question: 'What drums does Ben Koller use?',
+        answer: "Ben Koller plays a Tama Starclassic Performer B/B kit. The \"B/B\" designation refers to the birch/bubinga shell construction — birch provides focused, punchy attack while bubinga adds warmth and a deeper fundamental tone. His configuration typically includes 10\", 12\", and 16\" toms with a 22\" bass drum. He has used both single and double kick setups depending on the setlist and project."
+      },
+      {
+        question: 'What cymbals does Ben Koller use?',
+        answer: "Ben Koller plays Zildjian cymbals across two series: the K Custom and the A Custom. His setup includes Zildjian K Custom Dark 14\" Hi-Hats, Zildjian A Custom 18\" and 19\" Crashes, a Zildjian K Custom Ride 21\", a Zildjian A Custom China 18\", and a Zildjian K Splash 10\". The combination of K Custom darkness (hi-hats and ride) with A Custom brightness (crashes) gives his setup both tonal complexity and explosive attack."
+      },
+      {
+        question: 'What pedals does Ben Koller use?',
+        answer: "Ben Koller uses the Tama Iron Cobra double bass drum pedal. The Iron Cobra is a chain-drive pedal known for its smooth, consistent feel and wide adjustability — well-suited to the blast beats and sustained double-kick patterns that appear throughout Converge's catalog. The Iron Cobra is available in Power Glide (linear feel) and Rolling Glide (progressive feel) configurations; Koller has used both across different touring configurations."
+      },
+      {
+        question: 'What snare does Ben Koller use?',
+        answer: "Ben Koller plays a Tama S.L.P. (Studio Legendary Percussion) snare drum, typically in a 14\" x 6.5\" configuration. The S.L.P. series is Tama's vintage-inspired professional line; the 6.5\" depth gives the drum more body and projection than a standard 5.5\" snare, which helps it cut through Converge's dense guitar arrangements in both live and studio contexts."
+      },
+      {
+        question: 'What drumheads does Ben Koller use?',
+        answer: "Ben Koller uses Evans drumheads on his Tama Starclassic Performer kit. He typically runs Evans G2 Coated heads on the toms (batter side) for warm attack with controlled sustain, Evans G1 Clear on the resonant side, and Evans EMAD or EC2 on the bass drum for focused punch. His snare uses an Evans G1 Coated batter head for articulation and rimshot response."
+      },
+      {
+        question: "What is Ben Koller's drum setup with Converge?",
+        answer: "Ben Koller's current Converge drum setup is built around a Tama Starclassic Performer B/B kit (birch/bubinga shells), a Tama S.L.P. 14\"x6.5\" snare, Zildjian K Custom and A Custom cymbals, Tama Iron Cobra double pedal, and Evans drumheads. This configuration provides the attack, durability, and tonal range demanded by Converge's physically intense live show and exacting studio work with producer Kurt Ballou."
+      }
+    ],
+    // Related content
+    relatedAlbums: ['jane-doe-drum-setup', 'axe-to-fall-drum-setup'],
+    relatedDrummers: [4, 16, 5], // Dave Lombardo, Brann Dailor, Tomas Haake
+    relatedArticles: ['whats-in-brann-dailors-kit', 'metalcore-drummer-gear', 'hardcore-drum-setups'],
+    conclusion: {
+      title: "Twenty-Five Years in the Pit",
+      content: `Ben Koller has spent over 25 years as the engine of Converge — one of the most uncompromising, consistently excellent bands in heavy music. From the landmark chaos of "Jane Doe" to the Grammy-nominated "The Dusk in Us" and the collaborative ambition of "Bloodmoon: I," his drum setup has been the physical foundation of every performance and recording.
+
+His gear philosophy reflects Converge's broader ethos: nothing unnecessary, everything purposeful, total commitment to the song above technical showmanship. The Tama Starclassic Performer B/B doesn't have the flagship price tag of Tama's top-tier kits — but it has the shell quality, hardware durability, and tonal character that 250-show touring years demand. The Zildjian K/A Custom combination isn't chosen for brand prestige — it's chosen because the K Custom's complexity and the A Custom's explosion cover every expressive need Converge's music places on his cymbal work.
+
+Every element of Ben Koller's drum setup earns its place:
+
+- **Tama Starclassic Performer B/B**: Birch/bubinga projection for clarity through dense hardcore mixes
+- **Tama S.L.P. Snare**: Depth and attack for rimshot authority in live environments
+- **Zildjian K Custom Dark Hi-Hats**: Controlled darkness for rapid hi-hat patterns
+- **Zildjian A Custom Crashes**: Explosive brightness for section-ending emphasis
+- **Tama Iron Cobra Double Pedal**: Consistent, reliable footwork across thousands of live shows
+- **Evans Heads**: Attack and durability through heavy-hitting hardcore performance
+
+For drummers studying Koller's approach, the gear is the vehicle. The real lesson is his commitment to serving the band — Converge's music has always been collective, and the drums sit at the center of that collective intensity without dominating it. The blast beats are tools, not goals. The fills are transitions, not showcases. The chaos is controlled, always.
+
+For deeper context on Ben Koller's playing and career:
+- [Ben Koller — Full Drummer Profile](/drummer/ben-koller)
+- [Ben Koller Signature Licks Hub](/drummers/ben-koller/licks)
+- [Zildjian K Custom users: Who Plays What](/gear/zildjian/k-custom/drummers-using)
+
+Ben Koller joined Converge at 20 years old and has never stopped. In a genre that burns through drummers, he has been the constant. The Tama Starclassic sits behind him on every stage, the Zildjians shimmer under every light rig, and the Iron Cobra drives forward through every blast — the same relentless forward momentum that has defined Converge across 25 years of essential heavy music.
+
+🥁 *"Converge has always been about intensity and honesty. The drums have to reflect that."* — Ben Koller 🤘`
+    }
   }
 };
 

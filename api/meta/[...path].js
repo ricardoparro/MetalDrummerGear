@@ -612,6 +612,39 @@ function getMetaForPath(pathname) {
     }
   }
 
+  // /tools/compare hub — Issue #1410
+  if (path === '/tools/compare') {
+    return {
+      title: `Metal Drummer Gear Comparison Tool | ${SITE_NAME}`,
+      description: "Compare any two metal drummers' gear side-by-side: kits, cymbals, pedals, sticks. See exactly how your favourite rigs stack up.",
+      image: `${BASE_URL}/images/og/compare-preview.png`,
+      type: 'website',
+      url: `${BASE_URL}/tools/compare`,
+    };
+  }
+
+  // /tools/compare/<d1>-vs-<d2> individual comparison pages — Issue #1410
+  const toolsCompareMatch = path.match(/^\/tools\/compare\/([a-z0-9-]+)-vs-([a-z0-9-]+)$/);
+  if (toolsCompareMatch) {
+    const [, slug1, slug2] = toolsCompareMatch;
+    const d1 = getDrummerBySlug(slug1);
+    const d2 = getDrummerBySlug(slug2);
+    if (d1 && d2) {
+      return {
+        title: `${d1.name} vs ${d2.name} — Drum Gear Comparison | ${SITE_NAME}`,
+        description: `Side-by-side gear: ${d1.name} (${d1.band}) vs ${d2.name} (${d2.band}). Kits, cymbals, pedals, sticks — compare specs and prices.`,
+        image: `${BASE_URL}/api/og/compare?d1=${slug1}&d2=${slug2}`,
+        type: 'article',
+        url: `${BASE_URL}/tools/compare/${slug1}-vs-${slug2}`,
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: 'Compare Tool', url: `${BASE_URL}/tools/compare` },
+          { name: `${d1.name} vs ${d2.name}`, url: `${BASE_URL}/tools/compare/${slug1}-vs-${slug2}` },
+        ],
+      };
+    }
+  }
+
   // Compare page
   if (path === '/compare') {
     return {

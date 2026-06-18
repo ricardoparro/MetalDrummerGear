@@ -17927,7 +17927,76 @@ function DrummerList({
         onNavigateToNews={onNavigateToNews}
         onNavigateToToolsHub={onNavigateToToolsHub}
       />
-      {/* Drummer Spotlight Section */}
+      {/* Filter Bar - directly above drummer grid, sticky while grid is in view (Issue #1233, #1237) */}
+      <View style={Platform.select({ web: { position: 'sticky', top: 0, zIndex: 100 } })}>
+        <FilterBar
+          filters={filters}
+          onFilterChange={onFilterChange}
+          totalCount={drummers.length}
+          filteredCount={filteredDrummers.length}
+          onClearAll={handleClearAllFilters}
+          theme={theme}
+          sortBy={sortBy}
+          onSortChange={onSortChange}
+        />
+      </View>
+      {/* Featured Drummers Section Header (Issue #496, #1234) */}
+      {!showAllDrummers && !searchValue && !filters.genre && !filters.brand && (
+        <FeaturedDrummersSectionHeader theme={theme} />
+      )}
+    </>
+  ), [
+    theme, searchValue, onSearchChange, onSearchFocus, onSearchClear,
+    suggestions, onSelectSuggestion, showSuggestions, searchInputRef,
+    drummers, onNavigateToQuiz, onNavigateToCompare, onNavigateToBeginnerGuide,
+    onNavigateToQuotes, onNavigateToGearFinder, onNavigateToKitBuilder,
+    onNavigateToBpmTap, onNavigateToBirthdayCalendar, onNavigateToTimeline,
+    onNavigateToGenresList, onNavigateToToolsHub, onNavigateToTechniques,
+    onNavigateToKitQuiz, onNavigateToGuessTheKit, onNavigateToNews,
+    filters, onFilterChange, sortBy, onSortChange,
+    filteredDrummers, handleClearAllFilters, showAllDrummers,
+  ]);
+
+  // Empty list message (should rarely show on homepage since we show featured drummers)
+  const ListEmpty = () => (
+    <View style={styles.noResultsContainer}>
+      <Text style={[styles.noResultsText, { color: theme.secondaryText }]}>
+        No drummers available
+      </Text>
+    </View>
+  );
+
+  // Footer: discovery content + secondary widgets + metadata (Issue #497, #1237)
+  // Memoised as a React element (not a function) to match listHeader pattern and prevent re-mounting.
+  const listFooter = useMemo(() => (
+    <View>
+      {/* View All Drummers button - navigates to /drummers page (Issue #497) */}
+      <TouchableOpacity
+        onPress={() => onNavigateToDrummers()}
+        style={[styles.viewAllDrummersButton, { backgroundColor: theme.primary, borderColor: theme.primary }]}
+        accessibilityRole="link"
+        accessibilityLabel={`View all ${drummers.length} drummers`}
+      >
+        <Text style={[styles.viewAllDrummersText, { color: theme.text }]}>
+          View All {drummers.length} Drummers →
+        </Text>
+      </TouchableOpacity>
+      {/* Trending / Most Popular Gear — discovery loop into gear pages (Issue #671, #640, #1237) */}
+      <TrendingThisWeek
+        theme={theme}
+        drummers={drummers}
+        onSelectDrummer={onSelectDrummer}
+      />
+      <MostPopularGear theme={theme} onSelectDrummer={onSelectDrummer} />
+      {/* Popular Brands (Issue #1236) */}
+      <PopularBrands theme={theme} />
+      {/* Recently Updated Profiles — freshness signal (Issue #715, #1237) */}
+      <RecentlyUpdatedGear
+        theme={theme}
+        drummers={drummers}
+        onSelectDrummer={onSelectDrummer}
+      />
+      {/* Drummer Spotlight (Issue #1237) */}
       {spotlight && (
         <DrummerSpotlight
           drummer={spotlight}
@@ -17936,19 +18005,10 @@ function DrummerList({
           onViewAllSpotlights={onNavigateToSpotlights}
         />
       )}
-      {/* Recently Updated Gear Section (Issue #715) */}
-      {/* SEO freshness signals + engagement driver */}
-      <RecentlyUpdatedGear
-        theme={theme}
-        drummers={drummers}
-        onSelectDrummer={onSelectDrummer}
-      />
-      {/* Trending This Week Section (Issue #671) */}
-      <TrendingThisWeek
-        theme={theme}
-        drummers={drummers}
-        onSelectDrummer={onSelectDrummer}
-      />
+      {/* More to explore — secondary novelty widgets demoted below core content (Issue #1237) */}
+      <View style={{ paddingHorizontal: 16, paddingTop: 32, paddingBottom: 4, borderTopWidth: 1, borderTopColor: theme.border, marginTop: 16 }}>
+        <Text style={[styles.featuredSectionTitle, { color: theme.text }]}>More to explore</Text>
+      </View>
       {/* This Week's Battle Widget (Issue #689) */}
       {drummers.length > 0 && (
         <View style={styles.battleWidgetContainer}>
@@ -18002,70 +18062,8 @@ function DrummerList({
       </Suspense>
       {/* Top 10 Lists Section */}
       <TopListsSection theme={theme} onNavigateToList={onNavigateToList} />
-      
       {/* Album Articles Section - Iconic Album Gear Breakdowns (Issue #663) */}
       <AlbumArticlesSection theme={theme} />
-      
-      {/* Most Popular Gear Section (Issue #640) */}
-      <MostPopularGear theme={theme} onSelectDrummer={onSelectDrummer} />
-
-      {/* Popular Brands Section (Issue #1236) */}
-      <PopularBrands theme={theme} />
-
-      {/* Filter Bar - directly above drummer grid, sticky while grid is in view (Issue #1233) */}
-      <View style={Platform.select({ web: { position: 'sticky', top: 0, zIndex: 100 } })}>
-        <FilterBar
-          filters={filters}
-          onFilterChange={onFilterChange}
-          totalCount={drummers.length}
-          filteredCount={filteredDrummers.length}
-          onClearAll={handleClearAllFilters}
-          theme={theme}
-          sortBy={sortBy}
-          onSortChange={onSortChange}
-        />
-      </View>
-      {/* Featured Drummers Section Header (Issue #496, #1234) */}
-      {!showAllDrummers && !searchValue && !filters.genre && !filters.brand && (
-        <FeaturedDrummersSectionHeader theme={theme} />
-      )}
-    </>
-  ), [
-    theme, searchValue, onSearchChange, onSearchFocus, onSearchClear,
-    suggestions, onSelectSuggestion, showSuggestions, searchInputRef,
-    drummers, onNavigateToQuiz, onNavigateToCompare, onNavigateToBeginnerGuide,
-    onNavigateToQuotes, onNavigateToGearFinder, onNavigateToKitBuilder,
-    onNavigateToBpmTap, onNavigateToBirthdayCalendar, onNavigateToTimeline,
-    onNavigateToGenresList, onNavigateToToolsHub, onNavigateToTechniques,
-    onNavigateToKitQuiz, onNavigateToGuessTheKit, onNavigateToNews,
-    onNavigateToSpotlights, filters, onFilterChange, sortBy, onSortChange,
-    filteredDrummers, handleClearAllFilters, showAllDrummers,
-    spotlight, onSelectDrummer,
-  ]);
-
-  // Empty list message (should rarely show on homepage since we show featured drummers)
-  const ListEmpty = () => (
-    <View style={styles.noResultsContainer}>
-      <Text style={[styles.noResultsText, { color: theme.secondaryText }]}>
-        No drummers available
-      </Text>
-    </View>
-  );
-
-  // Footer with "View All Drummers" button (Issue #497) and Last Updated timestamp (Issue #449)
-  const ListFooter = () => (
-    <View>
-      {/* View All Drummers button - navigates to /drummers page (Issue #497) */}
-      <TouchableOpacity
-        onPress={() => onNavigateToDrummers()}
-        style={[styles.viewAllDrummersButton, { backgroundColor: theme.primary, borderColor: theme.primary }]}
-        accessibilityRole="link"
-        accessibilityLabel={`View all ${drummers.length} drummers`}
-      >
-        <Text style={[styles.viewAllDrummersText, { color: theme.text }]}>
-          View All {drummers.length} Drummers →
-        </Text>
-      </TouchableOpacity>
       <View style={[styles.lastUpdatedContainer, { borderTopColor: theme.border }]}>
         {Platform.OS === 'web' ? (
           <time dateTime="2026-02-17" style={[styles.textXs, { color: theme.secondaryText }]}>
@@ -18078,7 +18076,10 @@ function DrummerList({
         )}
       </View>
     </View>
-  );
+  ), [
+    theme, drummers, onSelectDrummer, onNavigateToDrummers,
+    spotlight, onNavigateToSpotlights, onNavigateToList,
+  ]);
 
   return (
     <FlatList
@@ -18095,7 +18096,7 @@ function DrummerList({
       )}
       ListHeaderComponent={listHeader}
       ListEmptyComponent={ListEmpty}
-      ListFooterComponent={ListFooter}
+      ListFooterComponent={listFooter}
       contentContainerStyle={styles.listContainer}
     />
   );

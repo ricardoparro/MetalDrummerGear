@@ -959,6 +959,7 @@ function getMetaForPath(pathname) {
   }
 
   // Issue #1308: /drummers/<slug>/gear-history gear price history pages
+  // Issue #1354: add BreadcrumbList JSON-LD (Home → Drummer → Gear History)
   const gearHistoryMatch = path.match(/^\/drummers\/([a-z0-9-]+)\/gear-history$/);
   if (gearHistoryMatch) {
     const [, slug] = gearHistoryMatch;
@@ -970,6 +971,11 @@ function getMetaForPath(pathname) {
         image: `${BASE_URL}/api/card/${slug}?format=twitter`,
         type: 'article',
         url: `${BASE_URL}/drummers/${slug}/gear-history`,
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: drummer.name, url: `${BASE_URL}/drummers/${slug}` },
+          { name: 'Gear History', url: `${BASE_URL}/drummers/${slug}/gear-history` },
+        ],
       };
     }
   }

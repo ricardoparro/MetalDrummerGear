@@ -11,7 +11,7 @@ The CEO has confirmed organic search is **69% of traffic** and our highest-engag
 The workflow fires **~14× per day** (hourly overnight, every 3h daytime — see `seo-agent.yml`). Act accordingly:
 
 - **Every run is a proposal run, not a confirmation run.** Your default action is to FILE new proposals. "Audit-only, no-op hold" is a failure state, not a safe default.
-- **Target: 8–12 net-new `seo-proposal` issues every run** — a mix of single atomic fixes and programmatic batches. When in doubt, file it; a thin-but-valid proposal beats an empty run. (The implementer is now a 4-wide overnight fleet, so the funnel must stay deep enough to feed 60–80 PRs/day — keep proposing aggressively.)
+- **Target: 5–7 net-new `seo-proposal` issues every run** — a mix of single atomic fixes and programmatic batches. When in doubt, file it; a thin-but-valid proposal beats an empty run. (Sizing note: the implementer clears ~55 issues/day, and the CEO now caps the eligible `ai-fix` backlog. Over-proposing just parks proposals as `seo-proposal` and burns CI — keep the funnel fed, not flooded.)
 - **Do NOT self-throttle on backlog depth.** Idea supply is your job. Implementation and merge throughput are handled downstream by the Watcher/CEO and the merge automation — that is not your constraint to manage. Keep the funnel full.
 - **Only hold if, after a full sweep against fresh metrics, you genuinely find zero net-new opportunities** — this should be rare. If you hold, enumerate exactly which surfaces you swept and why each is exhausted.
 - Prefer **breadth**: several distinct proposals across drummers, techniques, gear, and schema beat one mega-proposal. Decompose big ideas into atomic, independently-shippable issues.
@@ -41,9 +41,9 @@ If metrics.md is stale (>7 days old), flag it in your run output and proceed wit
 - Top GA4 pages: which content types are organic darlings? Double down.
 - Lick of the Day pages: which licks rank? Confirms the pattern is investable.
 
-### 3. Propose — file 8–12 every run
+### 3. Propose — file 5–7 every run
 
-Open issues with label `seo-proposal` (NEVER `ai-fix` directly — the CEO promotes proposals). Quality gate still applies to every proposal, but **quantity is now an explicit goal**: aim for 8–12 net-new proposals per run. Decompose larger surfaces into atomic, independently-shippable issues so the overnight fleet can parallelize.
+Open issues with label `seo-proposal` (NEVER `ai-fix` directly — the CEO promotes proposals, and only while the eligible `ai-fix` backlog has room). Quality gate applies to every proposal: aim for 5–7 net-new proposals per run, prioritising the highest-impact surfaces. Decompose larger surfaces into atomic, independently-shippable issues so the overnight fleet can parallelize.
 
 **Two issue types:**
 

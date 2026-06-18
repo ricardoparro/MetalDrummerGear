@@ -21216,8 +21216,8 @@ Joey Jordison played his last show with Slipknot in 2013 and passed away on July
     dateModified: '2026-06-18',
     author: 'MetalForge Editorial',
     // SEO
-    title: "Gene Hoglan Drum Setup: The Atomic Clock's Complete Gear Breakdown",
-    description: "Gene Hoglan's drum kit and gear setup. Pearl Reference drums, Zildjian A Custom cymbals, and the DW 9000 pedals behind Death, Testament, and Strapping Young Lad.",
+    title: "Gene Hoglan Drum Setup: The Atomic Clock Complete Gear Guide",
+    description: "Gene Hoglan's Pearl drums, Zildjian cymbals, and DW pedals — the rig behind Death, Testament, and SYL. Complete setup and technique breakdown.",
     seoKeywords: ['gene hoglan', 'gene hoglan drum setup', 'gene hoglan drums', 'atomic clock drummer', 'death drummer gear', 'testament drummer', 'gene hoglan pearl drums', 'gene hoglan zildjian cymbals', 'gene hoglan dw pedals', 'death metal drummer gear'],
     ogImage: '/images/drummers/gene-hoglan.webp',
     // Introduction

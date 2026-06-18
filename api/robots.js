@@ -56,6 +56,7 @@ User-agent: MJ12bot
 Crawl-delay: 30
 
 Sitemap: https://metalforge.io/sitemap.xml
+Video-Sitemap: https://metalforge.io/video-sitemap.xml
 
 # LLM/AI Discovery
 # See https://metalforge.io/llms.txt for AI-friendly site information

@@ -982,6 +982,68 @@ function getMetaForPath(pathname) {
         }),
       };
     }
+    // Issue #1388: FAQPage for drummers with no licks yet — generic language
+    const drummerForHub = getDrummerBySlug(drummerSlug);
+    if (drummerForHub) {
+      const hubUrl = `${BASE_URL}/drummers/${drummerSlug}/licks`;
+      return {
+        title: `${drummerForHub.name} Signature Drum Licks & Patterns | ${SITE_NAME}`,
+        description: `Signature drum licks and patterns from ${drummerForHub.name}${drummerForHub.band ? ` (${drummerForHub.band})` : ''}. Tutorials coming soon.`,
+        image: DEFAULT_IMAGE,
+        type: 'website',
+        url: hubUrl,
+        articleSchema: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@graph': [
+            {
+              '@type': 'CollectionPage',
+              name: `${drummerForHub.name} Signature Drum Licks`,
+              description: `Signature drum licks and patterns from ${drummerForHub.name}.`,
+              url: hubUrl,
+              publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+            },
+            {
+              '@type': 'BreadcrumbList',
+              itemListElement: [
+                { '@type': 'ListItem', position: 1, name: 'Home', item: BASE_URL },
+                { '@type': 'ListItem', position: 2, name: 'Drum Licks', item: `${BASE_URL}/licks` },
+                { '@type': 'ListItem', position: 3, name: drummerForHub.name, item: `${BASE_URL}/drummers/${drummerSlug}` },
+                { '@type': 'ListItem', position: 4, name: 'Licks', item: hubUrl },
+              ],
+            },
+            {
+              '@type': 'FAQPage',
+              mainEntity: [
+                {
+                  '@type': 'Question',
+                  name: `Does MetalForge have lick tutorials for ${drummerForHub.name}?`,
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: `MetalForge is adding signature lick tutorials for ${drummerForHub.name}. Check back soon for step-by-step breakdowns of their iconic patterns.`,
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: `Are ${drummerForHub.name}'s lick tutorials free?`,
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: `Yes, all MetalForge lick tutorials are free, including video demonstrations and HowTo breakdowns.`,
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: `What is ${drummerForHub.name} known for?`,
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: `${drummerForHub.name}${drummerForHub.band ? ` of ${drummerForHub.band}` : ''} is a legendary metal drummer. Visit their MetalForge profile for complete gear breakdowns and more.`,
+                  },
+                },
+              ],
+            },
+          ],
+        }),
+      };
+    }
   }
 
   // Issue #1209: /drummers/<slug>/licks/<lick-slug> individual lick page

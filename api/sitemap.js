@@ -30,6 +30,9 @@ import { drummers as DRUMMER_GEAR_DATA } from './drummers/index.js';
 // Issue #1171: source all 19 band slugs from the canonical data module so the
 // sitemap stays in sync as bands are added, and URLs match the live /bands/ route.
 import { bands as BAND_DATA } from '../packages/frontend/data/bands.js';
+// Issue #1276: source curated comparison slugs so /llms/vs/*.md sitemap entries
+// stay in sync with the committed files in public/llms/vs/ automatically.
+import { drummerComparisons as CURATED_COMPARISONS } from '../packages/frontend/data/drummerComparisons.js';
 
 // Issue #623: Content Scale Sprint - All 62 drummers now in sitemap
 const drummers = [
@@ -491,6 +494,9 @@ export default function handler(req, res) {
       'raymond-herrera', 'richard-christy', 'scott-travis', 'shannon-larkin', 'travis-orbin',
       'vinnie-paul',
     ].map(slug => ({ loc: `/llms/licks/${slug}.md`, priority: '0.5', changefreq: 'monthly' }))),
+    // Issue #1276: per-pair comparison Markdown files for AI citation (public/llms/vs/<slug>.md).
+    // Sourced from curated CURATED_COMPARISONS to stay in sync with committed files.
+    ...Object.keys(CURATED_COMPARISONS).map(slug => ({ loc: `/llms/vs/${slug}.md`, priority: '0.5', changefreq: 'monthly' })),
   ];
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">

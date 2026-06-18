@@ -765,6 +765,22 @@ function getMetaForPath(pathname) {
     }
   }
 
+  // Issue #1308: /drummers/<slug>/gear-history gear price history pages
+  const gearHistoryMatch = path.match(/^\/drummers\/([a-z0-9-]+)\/gear-history$/);
+  if (gearHistoryMatch) {
+    const [, slug] = gearHistoryMatch;
+    const drummer = getDrummerBySlug(slug);
+    if (drummer) {
+      return {
+        title: `${drummer.name} Drum Kit Evolution — Gear History & Price Timeline | ${SITE_NAME}`,
+        description: `How ${drummer.name}'s drum kit and gear changed over the years. Era-by-era breakdown of kits, cymbals, and signature equipment with prices.`,
+        image: `${BASE_URL}/api/card/${slug}?format=twitter`,
+        type: 'article',
+        url: `${BASE_URL}/drummers/${slug}/gear-history`,
+      };
+    }
+  }
+
   // Drummer profiles (root slug)
   const drummerMatch = path.match(/^\/([a-z0-9-]+)$/);
   if (drummerMatch) {

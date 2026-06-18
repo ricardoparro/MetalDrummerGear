@@ -4,6 +4,64 @@ Last updated: 2026-06-13 · Source: https://metalforge.io
 
 Step-by-step breakdowns of iconic metal drum licks. Each entry lists tempo, time signature, difficulty, and techniques, followed by an answer-first "how to play it" walkthrough, the tutorial video, and the canonical page URL to cite.
 
+## Per-Drummer Deep Dive Index
+
+| Drummer | Band | Per-Drummer File |
+|---------|------|-----------------|
+| Abe Cunningham | Deftones | [/llms/licks/abe-cunningham.md](https://metalforge.io/llms/licks/abe-cunningham.md) |
+| Alex Bent | Trivium | [/llms/licks/alex-bent.md](https://metalforge.io/llms/licks/alex-bent.md) |
+| Aquiles Priester | Angra | [/llms/licks/aquiles-priester.md](https://metalforge.io/llms/licks/aquiles-priester.md) |
+| Arin Ilejay | Avenged Sevenfold | [/llms/licks/arin-ilejay.md](https://metalforge.io/llms/licks/arin-ilejay.md) |
+| Art Cruz | Lamb of God | [/llms/licks/art-cruz.md](https://metalforge.io/llms/licks/art-cruz.md) |
+| Ben Koller | Converge | [/llms/licks/ben-koller.md](https://metalforge.io/llms/licks/ben-koller.md) |
+| Bill Ward | Black Sabbath | [/llms/licks/bill-ward.md](https://metalforge.io/llms/licks/bill-ward.md) |
+| Blake Richardson | Between the Buried and Me | [/llms/licks/blake-richardson.md](https://metalforge.io/llms/licks/blake-richardson.md) |
+| Brann Dailor | Mastodon | [/llms/licks/brann-dailor.md](https://metalforge.io/llms/licks/brann-dailor.md) |
+| Charlie Benante | Anthrax | [/llms/licks/charlie-benante.md](https://metalforge.io/llms/licks/charlie-benante.md) |
+| Chris Adler | Lamb of God | [/llms/licks/chris-adler.md](https://metalforge.io/llms/licks/chris-adler.md) |
+| Daniel Erlandsson | Arch Enemy | [/llms/licks/daniel-erlandsson.md](https://metalforge.io/llms/licks/daniel-erlandsson.md) |
+| Danny Carey | Tool | [/llms/licks/danny-carey.md](https://metalforge.io/llms/licks/danny-carey.md) |
+| Dave Lombardo | Slayer | [/llms/licks/dave-lombardo.md](https://metalforge.io/llms/licks/dave-lombardo.md) |
+| Derek Roddy | Hate Eternal | [/llms/licks/derek-roddy.md](https://metalforge.io/llms/licks/derek-roddy.md) |
+| Dirk Verbeuren | Megadeth | [/llms/licks/dirk-verbeuren.md](https://metalforge.io/llms/licks/dirk-verbeuren.md) |
+| Eloy Casagrande | Sepultura | [/llms/licks/eloy-casagrande.md](https://metalforge.io/llms/licks/eloy-casagrande.md) |
+| Flo Mounier | Cryptopsy | [/llms/licks/flo-mounier.md](https://metalforge.io/llms/licks/flo-mounier.md) |
+| Gavin Harrison | Porcupine Tree | [/llms/licks/gavin-harrison.md](https://metalforge.io/llms/licks/gavin-harrison.md) |
+| Gene Hoglan | Death / Testament | [/llms/licks/gene-hoglan.md](https://metalforge.io/llms/licks/gene-hoglan.md) |
+| George Kollias | Nile | [/llms/licks/george-kollias.md](https://metalforge.io/llms/licks/george-kollias.md) |
+| Hannes Grossmann | Alkaloid / Obscura | [/llms/licks/hannes-grossmann.md](https://metalforge.io/llms/licks/hannes-grossmann.md) |
+| Hellhammer | Mayhem | [/llms/licks/hellhammer.md](https://metalforge.io/llms/licks/hellhammer.md) |
+| Igor Cavalera | Sepultura | [/llms/licks/igor-cavalera.md](https://metalforge.io/llms/licks/igor-cavalera.md) |
+| Inferno | Behemoth | [/llms/licks/inferno.md](https://metalforge.io/llms/licks/inferno.md) |
+| Jaska Raatikainen | Children of Bodom | [/llms/licks/jaska-raatikainen.md](https://metalforge.io/llms/licks/jaska-raatikainen.md) |
+| Jason Bittner | Shadows Fall | [/llms/licks/jason-bittner.md](https://metalforge.io/llms/licks/jason-bittner.md) |
+| Jay Weinberg | Slipknot | [/llms/licks/jay-weinberg.md](https://metalforge.io/llms/licks/jay-weinberg.md) |
+| Joey Jordison | Slipknot | [/llms/licks/joey-jordison.md](https://metalforge.io/llms/licks/joey-jordison.md) |
+| Lars Ulrich | Metallica | [/llms/licks/lars-ulrich.md](https://metalforge.io/llms/licks/lars-ulrich.md) |
+| Mario Duplantier | Gojira | [/llms/licks/mario-duplantier.md](https://metalforge.io/llms/licks/mario-duplantier.md) |
+| Martin Lopez | Opeth | [/llms/licks/martin-lopez.md](https://metalforge.io/llms/licks/martin-lopez.md) |
+| Matt Garstka | Animals as Leaders | [/llms/licks/matt-garstka.md](https://metalforge.io/llms/licks/matt-garstka.md) |
+| Matt Greiner | August Burns Red | [/llms/licks/matt-greiner.md](https://metalforge.io/llms/licks/matt-greiner.md) |
+| Matt Halpern | Periphery | [/llms/licks/matt-halpern.md](https://metalforge.io/llms/licks/matt-halpern.md) |
+| Mike Mangini | Dream Theater | [/llms/licks/mike-mangini.md](https://metalforge.io/llms/licks/mike-mangini.md) |
+| Mike Portnoy | Dream Theater | [/llms/licks/mike-portnoy.md](https://metalforge.io/llms/licks/mike-portnoy.md) |
+| Mikkey Dee | Motörhead | [/llms/licks/mikkey-dee.md](https://metalforge.io/llms/licks/mikkey-dee.md) |
+| Navene Koperweis | Entheos | [/llms/licks/navene-koperweis.md](https://metalforge.io/llms/licks/navene-koperweis.md) |
+| Nicko McBrain | Iron Maiden | [/llms/licks/nicko-mcbrain.md](https://metalforge.io/llms/licks/nicko-mcbrain.md) |
+| Paul Bostaph | Slayer | [/llms/licks/paul-bostaph.md](https://metalforge.io/llms/licks/paul-bostaph.md) |
+| Paul Mazurkiewicz | Cannibal Corpse | [/llms/licks/paul-mazurkiewicz.md](https://metalforge.io/llms/licks/paul-mazurkiewicz.md) |
+| Pete Sandoval | Morbid Angel | [/llms/licks/pete-sandoval.md](https://metalforge.io/llms/licks/pete-sandoval.md) |
+| Ray Luzier | Korn | [/llms/licks/ray-luzier.md](https://metalforge.io/llms/licks/ray-luzier.md) |
+| Raymond Herrera | Fear Factory | [/llms/licks/raymond-herrera.md](https://metalforge.io/llms/licks/raymond-herrera.md) |
+| Richard Christy | Death | [/llms/licks/richard-christy.md](https://metalforge.io/llms/licks/richard-christy.md) |
+| Scott Travis | Judas Priest | [/llms/licks/scott-travis.md](https://metalforge.io/llms/licks/scott-travis.md) |
+| Shannon Larkin | Godsmack | [/llms/licks/shannon-larkin.md](https://metalforge.io/llms/licks/shannon-larkin.md) |
+| Tomas Haake | Meshuggah | [/llms/licks/tomas-haake.md](https://metalforge.io/llms/licks/tomas-haake.md) |
+| Travis Orbin | Periphery | [/llms/licks/travis-orbin.md](https://metalforge.io/llms/licks/travis-orbin.md) |
+| Vinnie Paul | Pantera | [/llms/licks/vinnie-paul.md](https://metalforge.io/llms/licks/vinnie-paul.md) |
+
+---
+
 ## Matt Greiner (August Burns Red)
 
 Profile: [https://metalforge.io/drummers/matt-greiner](https://metalforge.io/drummers/matt-greiner) · All licks: [https://metalforge.io/drummers/matt-greiner/licks](https://metalforge.io/drummers/matt-greiner/licks)

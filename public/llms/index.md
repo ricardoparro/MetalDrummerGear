@@ -24,6 +24,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Drummer Comparisons | https://metalforge.io/llms/comparisons.md | Side-by-side drummer gear & style comparisons (Markdown) |
 | Top-10 Lists | https://metalforge.io/llms/lists.md | Ranked top-10 drummer lists by speed, genre, gear value, and technique (Markdown) |
 | Quick Facts | https://metalforge.io/llms/facts.md | Speed records, gear stats, career milestones, nicknames & technical definitions (Markdown) |
+| Metal Drummer Quiz | https://metalforge.io/llms/quiz.md | Personality quiz matching your style to 60+ legendary drummers (Markdown) |
 
 ---
 

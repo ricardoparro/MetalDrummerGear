@@ -5,6 +5,40 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-16 17:39 UTC*
 
 ---
+## 2026-06-18 11:30 — 10 proposals triaged (all approved), 1 stale closed
+
+### Context
+Mid-day pulse (early, metrics fresh 11:20 UTC). 1,322 impr / 23 clicks / 1.74% CTR / pos 8.5. 0 open PRs. PR#1406 merged since morning run (closes #1324). 10 new seo-proposals (#1407–#1416) untriaged.
+
+### Actions taken
+- **Closed 1 stale issue:** #1324 (/articles CollectionPage+ItemList) — fixed by PR#1406 (merged 08:33 UTC); PR#1360 was an earlier duplicate fix (05:49 UTC).
+- **Triaged 10 seo-proposals → all APPROVED → `ai-fix`:**
+  - **#1407** (/battles + /quotes + /endorsement-news + /facts SSR meta, 4 hub pages) → APPROVE. Same bug class; remaining hub pages with generic fallback. Atomic.
+  - **#1408** (/brands hub + /brands/<slug> SSR meta, 9 pages) → APPROVE. Brand pages have commercial intent; affiliate funnel entry point.
+  - **#1409** (/compare/<slug> gear comparison SSR meta + BreadcrumbList, ~6 pages) → APPROVE. Comparison pages = high purchase intent. Atomic.
+  - **#1410** (/tools/compare hub + top-20 drummer compare pages SSR meta, ~21 pages, priority 0.95/0.9) → APPROVE. Highest-priority pages in batch serving generic meta.
+  - **#1411** (/drummers/<slug>/endorsements SSR meta, ~15 pages, priority 0.85) → APPROVE. Endorsement pages with celebrity drummer names = high search intent.
+  - **#1412** (/guides/<slug> generic title bug, priority 0.95) → APPROVE. Budget/beginner guide queries have commercial intent; same bug class as guides hub already fixed.
+  - **#1413** (Navene Koperweis article) → APPROVE. Navene is a consistent GA4 organic winner (/drummer/navene-koperweis repeatedly in top pages); article compounds existing profile authority.
+  - **#1414** (Ray Luzier drum setup article) → APPROVE. Korn = massive TAM. Consistent with article strategy (Matt Greiner 15.79% CTR, Joey Jordison 128 impr in queue).
+  - **#1415** (per-brand LLM markdown, ~8 brands, /llms/brands/<slug>.md) → APPROVE. Fills per-brand gap in LLM surface; mirrors per-drummer/per-technique pattern.
+  - **#1416** (/llms/endorsements.md cross-brand endorsement index) → APPROVE. Atomic single file; fills endorsement axis in LLM citation surface.
+
+### State delta
+- **ai-fix queue: 33 → 43** (closed 1 stale, approved 10 new proposals).
+- **Open PRs: 0** — no change.
+- **#1324 stale:** closed (PR#1406 merged 08:33 UTC; was duplicate of PR#1360 at 05:49 UTC — both fixed same issue).
+
+### Quota check
+✅ SEO proposals: 10/10 triaged (all approved). ✅ Founder ideas: inbox empty. ✅ GSC-gap: "joey jordison drum set" (128 impr, 0.78% CTR) → #1380 article in ai-fix queue (morning run). ✅ Atomic-split: all 43 issues <3 days old. ✅ Decisions logged.
+
+### Next Run (2026-06-18 19:00 evening)
+1. **#1346 extendedBios.js title bug** — highest CTR impact pending; ~40 drummer pages showing "Biography" in SERP instead of "Drum Kit & Gear Setup". Watch for Ralph's PR.
+2. **#1347 lick JSON-LD SSR** — 157 pages × VideoObject + HowTo; verify PR ships and schema validates.
+3. **SSR batch progress** — 10 new proposals approved today; monitor Ralph picks up the SSR-heavy items (#1407–#1412) first.
+4. **CTR trajectory** — 1.74% is soft; extendedBios fix + article batch need ~5 days indexing. Monitor impr growth.
+
+---
 ## 2026-06-18 07:41 — 10 proposals triaged (9 approved, 1 rejected), 1 PR merged, 3 stale issues closed, 2 dupe PRs closed
 
 ### Context

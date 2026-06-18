@@ -187,6 +187,42 @@ See the [All Techniques index](https://metalforge.io/llms/techniques.md) for a c
 
 ---
 
+## Drum Kit Comparisons (24 total)
+
+Per-pair deep-dive files (350–450 words each) with structured gear tables optimised for AI retrieval on
+"X vs Y drummer" queries like "Lars Ulrich vs Dave Lombardo gear" or "Hellhammer vs Inferno kit comparison".
+
+Hub: [comparisons.md](https://metalforge.io/llms/comparisons.md) — aggregate overview of all pairs.
+
+| Comparison | Category | File |
+|------------|----------|------|
+| Lars Ulrich vs Dave Lombardo | Thrash Metal | [lars-ulrich-vs-dave-lombardo.md](https://metalforge.io/llms/vs/lars-ulrich-vs-dave-lombardo.md) |
+| Lars Ulrich vs Joey Jordison | Thrash Metal | [lars-ulrich-vs-joey-jordison.md](https://metalforge.io/llms/vs/lars-ulrich-vs-joey-jordison.md) |
+| Nicko McBrain vs Lars Ulrich | Thrash Metal | [nicko-mcbrain-vs-lars-ulrich.md](https://metalforge.io/llms/vs/nicko-mcbrain-vs-lars-ulrich.md) |
+| Joey Jordison vs Dave Lombardo | Extreme | [joey-jordison-vs-dave-lombardo.md](https://metalforge.io/llms/vs/joey-jordison-vs-dave-lombardo.md) |
+| Joey Jordison vs Jay Weinberg | Alternative / Nu-Metal | [joey-jordison-vs-jay-weinberg.md](https://metalforge.io/llms/vs/joey-jordison-vs-jay-weinberg.md) |
+| Joey Jordison vs Mike Portnoy | Progressive Metal | [joey-jordison-vs-mike-portnoy.md](https://metalforge.io/llms/vs/joey-jordison-vs-mike-portnoy.md) |
+| Chris Adler vs Joey Jordison | Thrash Metal | [chris-adler-vs-joey-jordison.md](https://metalforge.io/llms/vs/chris-adler-vs-joey-jordison.md) |
+| Dave Lombardo vs Gene Hoglan | Extreme | [dave-lombardo-vs-gene-hoglan.md](https://metalforge.io/llms/vs/dave-lombardo-vs-gene-hoglan.md) |
+| George Kollias vs Pete Sandoval | Extreme | [george-kollias-vs-pete-sandoval.md](https://metalforge.io/llms/vs/george-kollias-vs-pete-sandoval.md) |
+| Gene Hoglan vs Charlie Benante | Thrash Metal | [gene-hoglan-vs-charlie-benante.md](https://metalforge.io/llms/vs/gene-hoglan-vs-charlie-benante.md) |
+| Gene Hoglan vs George Kollias | Extreme | [gene-hoglan-vs-george-kollias.md](https://metalforge.io/llms/vs/gene-hoglan-vs-george-kollias.md) |
+| Hellhammer vs Inferno | Extreme | [hellhammer-vs-inferno.md](https://metalforge.io/llms/vs/hellhammer-vs-inferno.md) |
+| Mario Duplantier vs Tomas Haake | Progressive Metal | [mario-duplantier-vs-tomas-haake.md](https://metalforge.io/llms/vs/mario-duplantier-vs-tomas-haake.md) |
+| Mike Portnoy vs Danny Carey | Progressive Metal | [mike-portnoy-vs-danny-carey.md](https://metalforge.io/llms/vs/mike-portnoy-vs-danny-carey.md) |
+| Danny Carey vs Mario Duplantier | Progressive Metal | [danny-carey-vs-mario-duplantier.md](https://metalforge.io/llms/vs/danny-carey-vs-mario-duplantier.md) |
+| Danny Carey vs Brann Dailor | Progressive Metal | [danny-carey-vs-brann-dailor.md](https://metalforge.io/llms/vs/danny-carey-vs-brann-dailor.md) |
+| Brann Dailor vs Mario Duplantier | Progressive Metal | [brann-dailor-vs-mario-duplantier.md](https://metalforge.io/llms/vs/brann-dailor-vs-mario-duplantier.md) |
+| Tomas Haake vs Matt Halpern | Progressive Metal | [tomas-haake-vs-matt-halpern.md](https://metalforge.io/llms/vs/tomas-haake-vs-matt-halpern.md) |
+| Matt Halpern vs Alex Bent | Progressive Metal | [matt-halpern-vs-alex-bent.md](https://metalforge.io/llms/vs/matt-halpern-vs-alex-bent.md) |
+| Scott Travis vs Nicko McBrain | Thrash Metal | [scott-travis-vs-nicko-mcbrain.md](https://metalforge.io/llms/vs/scott-travis-vs-nicko-mcbrain.md) |
+| Igor Cavalera vs Eloy Casagrande | Thrash Metal | [igor-cavalera-vs-eloy-casagrande.md](https://metalforge.io/llms/vs/igor-cavalera-vs-eloy-casagrande.md) |
+| Vinnie Paul vs Art Cruz | Thrash Metal | [vinnie-paul-vs-art-cruz.md](https://metalforge.io/llms/vs/vinnie-paul-vs-art-cruz.md) |
+| Ray Luzier vs Abe Cunningham | Alternative / Nu-Metal | [ray-luzier-vs-abe-cunningham.md](https://metalforge.io/llms/vs/ray-luzier-vs-abe-cunningham.md) |
+| Joey Jordison vs John Otto | Alternative / Nu-Metal | [joey-jordison-vs-john-otto.md](https://metalforge.io/llms/vs/joey-jordison-vs-john-otto.md) |
+
+---
+
 ## Licks per Drummer (20 total)
 
 Per-drummer signature lick files (800–10,000+ chars each) optimised for AI retrieval on queries

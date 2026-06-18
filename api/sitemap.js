@@ -30,6 +30,8 @@ import { drummers as DRUMMER_GEAR_DATA } from './drummers/index.js';
 // Issue #1171: source all 19 band slugs from the canonical data module so the
 // sitemap stays in sync as bands are added, and URLs match the live /bands/ route.
 import { bands as BAND_DATA } from '../packages/frontend/data/bands.js';
+// Issue #1276: per-pair comparison LLM markdown (public/llms/vs/<slug>.md).
+import { drummerComparisons as CURATED_VS_COMPARISONS } from '../packages/frontend/data/drummerComparisons.js';
 
 // Issue #623: Content Scale Sprint - All 62 drummers now in sitemap
 const drummers = [
@@ -477,6 +479,8 @@ export default function handler(req, res) {
     // Issue #1201: per-technique deep-dive Markdown files for AI citation.
     // One file per technique slug mirrors the per-drummer pattern above.
     ...getAllTechniqueSlugs().map(slug => ({ loc: `/llms/technique/${slug}.md`, priority: '0.5', changefreq: 'monthly' })),
+    // Issue #1276: per-pair comparison Markdown files (public/llms/vs/<slug>.md).
+    ...Object.keys(CURATED_VS_COMPARISONS).map(slug => ({ loc: `/llms/vs/${slug}.md`, priority: '0.5', changefreq: 'monthly' })),
     // Issue #1218 / #1244: per-drummer lick Markdown files for AI citation (all 51 drummers).
     ...([
       'joey-jordison', 'lars-ulrich', 'dave-lombardo', 'george-kollias', 'tomas-haake',

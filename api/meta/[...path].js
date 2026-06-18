@@ -1162,6 +1162,20 @@ function getMetaForPath(pathname) {
         image: DEFAULT_IMAGE,
         type: 'article',
         url: `${BASE_URL}/lists/${listSlug}`,
+        articleSchema: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'ItemList',
+          name: list.title,
+          description: list.seoDescription || list.description,
+          url: `${BASE_URL}/lists/${listSlug}`,
+          numberOfItems: list.items?.length || 10,
+          publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+        }),
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: 'Ranked Lists', url: `${BASE_URL}/lists` },
+          { name: list.title, url: `${BASE_URL}/lists/${listSlug}` },
+        ],
       };
     }
   }

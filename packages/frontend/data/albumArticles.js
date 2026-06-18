@@ -20864,6 +20864,303 @@ Ben Koller joined Converge at 20 years old and has never stopped. In a genre tha
 
 🥁 *"Converge has always been about intensity and honesty. The drums have to reflect that."* — Ben Koller 🤘`
     }
+  },
+
+  'joey-jordison-drum-setup': {
+    slug: 'joey-jordison-drum-setup',
+    articleType: 'drummer-kit',
+    drummer: 'Joey Jordison',
+    drummerId: 2,
+    band: 'Slipknot',
+    bands: ['Slipknot', 'Murderdolls', 'Scar the Martyr'],
+    genre: 'Nu Metal / Death Metal',
+    country: 'USA',
+    isAlbumArticle: true,
+    datePublished: '2026-06-18',
+    dateModified: '2026-06-18',
+    author: 'MetalForge Editorial',
+    // SEO
+    title: 'Joey Jordison Drum Setup: The Complete Slipknot Gear Breakdown',
+    description: "What drum set did Joey Jordison use? Complete gear breakdown of his Pearl kit, Sabian cymbals, and DW pedals — the rig that defined Slipknot's sound.",
+    seoKeywords: ['joey jordison', 'joey jordison drum set', 'joey jordison drum kit', 'slipknot drummer gear', 'joey jordison setup', 'joey jordison pearl drums', 'joey jordison sabian cymbals', 'slipknot drummer kit', 'joey jordison drum setup'],
+    ogImage: '/images/drummers/joey-jordison.webp',
+    // Introduction
+    intro: {
+      title: "The Demon Behind the Mask: Joey Jordison's Iconic Setup",
+      content: `Nathan Jonas Jordison (April 26, 1975 – July 26, 2021) was the founding drummer of Slipknot, and one of the most technically accomplished heavy metal drummers of his generation. Wearing a custom Japanese Hannya mask and seated behind a kit that would literally rotate 360 degrees during live performances, Jordison was a spectacle as much as a musician — but behind the theatre was a player of rare ability.
+
+Jordison joined Slipknot in Des Moines, Iowa in 1995 and helped transform the band from a regional act into one of the defining names of nu-metal and extreme metal. His work on the self-titled debut (1999), Iowa (2001), Vol. 3: The Subliminal Verses (2004), and All Hope Is Gone (2008) documented an extraordinary evolution — from the frantic, raw energy of the early records to the more technically refined yet equally devastating later albums.
+
+What set Jordison apart in the nu-metal era was his refusal to simplify. Where the genre often rewarded groove over complexity, Jordison brought blast beats, jazz-influenced fills, and death metal aggression to a mainstream stage. He was as comfortable playing at 230 BPM as he was locking into a slow, churning groove — and his kit reflected that versatility.
+
+This article breaks down every major component of Joey Jordison's drum setup across the Slipknot years: his Pearl Masterworks and Reference kits, his Sabian cymbal arsenal, his DW 9000 and Pearl Eliminator pedal setups, and the stick choice and philosophy that made his approach to nu-metal drumming unique.`,
+      keyPoints: [
+        'Founding drummer of Slipknot, 1995–2013',
+        'Pearl Drums endorsee — Masterworks and Reference series kits in signature Slipknot black/orange',
+        'Sabian cymbals — AAX and HH series throughout the Slipknot catalog',
+        'DW 9000 double bass pedal, later Pearl Eliminator Redline',
+        'Vic Firth Joey Jordison Signature sticks',
+        'Famous for playing on a 360-degree rotating drum riser live'
+      ]
+    },
+    // Drum Kit Section
+    drumKit: {
+      title: "Pearl Masterworks and Reference: The Slipknot Kit",
+      brand: 'Pearl',
+      model: 'Pearl Masterworks Custom / Pearl Reference',
+      finish: 'Black with orange hardware (Slipknot era)',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum (x2 — double kick)'],
+        toms: ['8" x 7" Rack Tom', '10" x 8" Rack Tom', '12" x 10" Rack Tom', '13" x 11" Rack Tom'],
+        floorToms: ['16" x 16" Floor Tom', '18" x 16" Floor Tom'],
+        shells: 'Maple/African Mahogany hybrid shells'
+      },
+      description: `Joey Jordison played Pearl drums throughout his time with Slipknot, and the kits became as iconic as the band's visual identity. During the Iowa and Vol. 3 eras — his most documented and widely photographed — Jordison ran Pearl Masterworks Custom shells finished in black with orange hardware, a direct visual callback to Slipknot's iconic palette.
+
+The Masterworks line gave Jordison the custom shell configurations and build quality his demanding live and studio schedules required. The maple and African mahogany hybrid shells delivered the combination of attack and warmth that worked in both the dry precision of a recording studio and the cavernous arenas Slipknot was selling out through the mid-2000s.
+
+The tom configuration was expansive: four rack toms (8", 10", 12", 13") plus two floor toms (16" and 18") gave Jordison an enormous melodic palette for his characteristic flowing fills. On tracks like "Disasterpiece" and "The Blister Exists," these fills move seamlessly across the full kit range, creating phrases that feel almost orchestral in their scope.
+
+Double bass drums — two 22" x 18" kicks — were central to the Jordison sound. His foot technique was extraordinary: he could sustain blast-beat level double-kick at speeds that challenged his hands, while maintaining consistency across full-set performances that ran 90 minutes or more. The 22" diameter provided substantial low-frequency presence; the 18" depth added body to each stroke.
+
+In later years, Jordison transitioned to the Pearl Reference series — a production kit with similar shell character but built to precise modern tolerances. The Reference maintained the organic, woody tone of the Masterworks while offering the consistency of a production-line shell.`,
+      notes: [
+        'Pearl Masterworks Custom — flagship Pearl custom-order shells',
+        'Black/orange finish matched Slipknot visual identity',
+        'Six-tom configuration for expansive melodic fills',
+        'Double 22" kicks for devastating double-bass performance',
+        'Maple/mahogany hybrid for attack with warmth'
+      ],
+      estimatedValue: '$5,000–9,000 (Masterworks shell pack)'
+    },
+    // Snare Section
+    snare: {
+      title: 'The Crack That Cut Through: Pearl Free-Floating Snare',
+      brand: 'Pearl',
+      model: 'Pearl Free-Floating Snare',
+      size: '14" x 6.5"',
+      shell: 'Steel / Brass (various models used across eras)',
+      description: `Throughout his career with Slipknot, Joey Jordison favored Pearl's Free-Floating snare drum designs — instruments where the shell is entirely decoupled from the snare wires and resonant head hardware, allowing the shell to resonate freely without mechanical damping.
+
+This free-floating construction produced the enormous, open, singing crack that audiences came to associate with Slipknot records. On Iowa in particular — where Ross Robinson's raw, live production captured every nuance of the band's intensity — Jordison's snare had an almost explosive quality: immediate attack, controlled body, and a decay that cleared the way for the next hit without blurring the rhythmic picture.
+
+Jordison tuned his snare on the higher end of medium, optimizing for the crack and cut that nu-metal production required. In a dense mix featuring three guitars, bass, and six percussionists, the snare had to be aggressive and present. The Free-Floating design delivered this presence while retaining tonal complexity.
+
+Head choice depended on the context — Remo Coated Ambassador or Controlled Sound batter heads were commonly documented in his setup, providing the controlled attack and sensitivity his fast single-stroke patterns demanded. The resonant side was kept light-tensioned to allow the snare wires maximum sensitivity.`,
+      tuningSetting: 'Medium-high for crack and cut through dense Slipknot guitar layers',
+      heads: 'Remo Coated Ambassador (batter), Remo Diplomat Snare Side (resonant)',
+      estimatedValue: '$400–700 (Pearl Free-Floating, various models)'
+    },
+    // Cymbals Section
+    cymbals: {
+      title: 'The Sabian Arsenal: Iowa to Vol. 3',
+      brand: 'Sabian',
+      series: 'Sabian AAX and HH Series',
+      setup: [
+        { type: 'Hi-Hats', model: 'Sabian AAX 14" Stage Hi-Hats', position: 'Left side', notes: 'Aggressive, cutting hi-hat voice for rapid patterns' },
+        { type: 'Crash', model: 'Sabian AAX 16" Stage Crash', position: 'Left crash', notes: 'Fast, explosive — primary accent crash' },
+        { type: 'Crash', model: 'Sabian AAX 18" Stage Crash', position: 'Right crash', notes: 'Fuller crash for heavier section emphasis' },
+        { type: 'Ride', model: 'Sabian HH 20" Raw Bell Dry Ride', position: 'Far right', notes: 'Versatile — bell cuts through even at high volumes' },
+        { type: 'China', model: 'Sabian AAX 18" X-Treme China', position: 'Over rack toms', notes: 'Aggressive, trashier texture for extreme passages' },
+        { type: 'Splash', model: 'Sabian AAX 10" Splash', position: 'Effects position', notes: 'Quick accent tool between fills' }
+      ],
+      description: `Joey Jordison was a Sabian endorsee throughout the Slipknot years, and his cymbal choices were as deliberate as every other element of his setup. The combination of Sabian's AAX and HH series gave him a setup with both the aggressive, cutting character of the AAX and the complex, traditional voice of the HH line.
+
+The AAX Stage Hi-Hats were central to Jordison's approach. AAX cymbals feature a bright, focused, aggressive voice — ideal for the rapid single-stroke hi-hat patterns that drove Slipknot's groove-based nu-metal. The 14" diameter provided quick response without excessive wash, allowing each stroke to speak individually even at extreme tempos.
+
+His crash setup — 16" and 18" AAX Stage Crashes — covered the full spectrum of nu-metal accents. The 16" spoke fast and sharp for punctuating fills; the 18" provided the fuller, more resonant crash for section-ending explosions. Both cymbals' bright, projecting character was essential in venues that ran from clubs to arenas with Slipknot's rapidly expanding audience.
+
+The Sabian HH Raw Bell Dry Ride brought contrasting character to the right side of the kit. HH (Hand Hammered) cymbals feature more traditional, complex sound with more warmth than the AAX series. The "Raw Bell Dry" designation — untreated bell, dry, controlled body — gave Jordison a versatile ride that could serve either as a clean riding surface or as a large crash when driven hard.
+
+The AAX X-Treme China was the exclamation mark of Jordison's setup: raw, aggressive, with the distinctive upturned bell and cutaway edges that produce the trashiest possible china voice. Used selectively in his most extreme passages, it added a sonic violence that matched the intensity of Slipknot's heaviest moments.`,
+      estimatedValue: '$1,500–2,500 (full Sabian AAX/HH setup)'
+    },
+    // Hardware Section
+    hardware: {
+      title: 'DW 9000 to Pearl Eliminator: The Pedal Evolution',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'DW / Pearl',
+          model: 'DW 9000 Double Pedal (early–mid career) / Pearl Eliminator Redline (later career)',
+          notes: 'Shifted from DW chain-drive to Pearl cam-drive for speed',
+          description: "Jordison's pedal journey tracked his career evolution. In the Iowa and Vol. 3 era he ran DW 9000 series double bass pedals — among the most robust and responsive chain-drive pedals ever made, with adjustable cam systems, dual-chain drive, and the precision engineering that made DW the industry standard for professional double-kick work. The 9000 series gave him the power and consistency to sustain his extreme double-bass tempos through full Slipknot performances. In later years, Jordison shifted to Pearl Eliminator Redline pedals — a cam-drive system offering direct-drive-like responsiveness from a chain-drive mechanism. The Redline's interchangeable cam shapes let him dial in the exact acceleration curve his technique required, extending the explosive speed his signature style demanded."
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth Joey Jordison Signature',
+          notes: 'Custom taper and tip designed for extreme metal speed and projection',
+          description: "Vic Firth developed a Joey Jordison Signature stick reflecting his extreme playing demands. The stick featured a custom taper delivering power transfer optimized for blast beats and rapid single-stroke patterns, with a tip shape producing clear articulation on cymbals even at high velocities. For drummers following Jordison's approach, the signature stick represented a balance between the durability needed for metal playing and the lighter feel that allows sustained fast technique."
+        },
+        {
+          type: 'Drumheads (Toms, Batter)',
+          brand: 'Remo',
+          model: 'Remo Emperor Coated / Pinstripe',
+          notes: 'Two-ply construction for controlled sustain under heavy playing'
+        },
+        {
+          type: 'Drumheads (Bass, Batter)',
+          brand: 'Remo',
+          model: 'Remo Powerstroke 3',
+          notes: 'Focused attack and controlled low-end — industry standard for metal double-kick'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke 3 (batter), Remo Powerstroke 3 ported (resonant)',
+        toms: 'Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)',
+        snare: 'Remo Coated Ambassador (batter), Remo Diplomat Snare Side (resonant)'
+      }
+    },
+    // Gear Timeline
+    gearTimeline: [
+      {
+        era: 'Self-Titled / Iowa Era',
+        years: '1999–2001',
+        albums: ['Slipknot (1999)', 'Iowa (2001)'],
+        description: 'Raw aggression — the kit that defined nu-metal brutality.',
+        gear: {
+          drums: 'Pearl Masterworks Custom (early black/orange configuration)',
+          snare: 'Pearl Free-Floating snare (steel/brass)',
+          cymbals: 'Sabian AAX stage setup',
+          hardware: 'DW 9000 double bass pedal, Vic Firth 5B / early Jordison signature sticks'
+        },
+        notes: 'The rawest period of the Slipknot sound. Recorded live at Sound City; maximum aggression at minimum polish.'
+      },
+      {
+        era: 'Vol. 3 Era',
+        years: '2004',
+        albums: ['Vol. 3: The Subliminal Verses (2004)'],
+        description: 'Refined but no less devastating — increased studio sophistication.',
+        gear: {
+          drums: 'Pearl Masterworks / Reference transition period',
+          snare: 'Pearl Free-Floating (tuned for Rick Rubin studio clarity)',
+          cymbals: 'Sabian HH Raw Bell Dry Ride added to AAX setup',
+          hardware: 'DW 9000 continued, Vic Firth Jordison Signature sticks'
+        },
+        notes: 'Rick Rubin\'s production gave the drums more room to breathe. Joey\'s fills became more musical and deliberate.'
+      },
+      {
+        era: 'All Hope Is Gone Era',
+        years: '2007–2008',
+        albums: ['All Hope Is Gone (2008)'],
+        description: 'Heavier, more polished production with expanded gear options.',
+        gear: {
+          drums: 'Pearl Reference series',
+          snare: 'Pearl Free-Floating (steel, 14" x 6.5")',
+          cymbals: 'Full Sabian AAX/HH setup expanded with china and effects',
+          hardware: 'Pearl Eliminator Redline double pedal transition, Jordison Signature sticks'
+        },
+        notes: 'The most technically refined Slipknot record of the Jordison era. Live rig now consistently on the rotating drum riser platform.'
+      }
+    ],
+    // Playing Style Section
+    playingStyle: {
+      title: 'The Jordison Approach: Speed, Groove, and the Nu-Metal Blueprint',
+      content: `Joey Jordison's playing philosophy was built on a paradox that few drummers have resolved as convincingly: he could play at extreme metal speeds — blast beats, galloping double-kick, rapid fills — without sacrificing the groove that made Slipknot's music infectious to audiences far beyond the metal underground.
+
+**Speed Without Sacrifice:**
+At his peak, Jordison was one of the fastest drummers in metal. His double-kick work on "Disasterpiece," "The Heretic Anthem," and the live performances documented in the *Disasterpieces* DVD showed a player capable of sustaining extreme speeds over long stretches. But where many speed-focused drummers lose groove in the chase for BPMs, Jordison maintained the rhythmic density that made Slipknot songs feel heavy rather than just fast. His snare placement was always deliberate, always creating push against the hi-hat patterns.
+
+**The Rotating Riser:**
+Perhaps no element of Jordison's setup is as famous as the rotating drum riser he used in live performance — a hydraulic platform that would spin the entire kit and drummer through 360 degrees during key moments in the Slipknot set. This required Jordison to play through the disorientation of motion in complete darkness, maintaining tempo and accuracy purely by feel. It was simultaneously showmanship and demonstration of extraordinary technique.
+
+**Nu-Metal's Rhythmic Intelligence:**
+Within the nu-metal genre, Jordison stood apart from contemporaries by bringing death metal vocabulary — blast beats, extreme double-kick, complex syncopation — into music that still had to work on radio and in arenas. His kit setup supported this dual purpose: the six-tom configuration gave him melodic range for musical fills; the Sabian AAX cymbals cut through dense mixes; the DW double pedal delivered the consistent power the live show demanded.
+
+Drummers like Lars Ulrich ([Lars Ulrich profile at MetalForge](/drummer/lars-ulrich)) built thrash metal's rhythmic template; Matt Greiner ([Matt Greiner profile at MetalForge](/drummer/matt-greiner)) refined metalcore's precision — Jordison sat at the intersection, taking extreme metal technique into pop-aware production and delivering results that changed what metal drumming could sound like in mainstream contexts.`,
+      keyTechniques: [
+        'Blast beats and double-kick at extreme tempos with consistent groove',
+        'Flowing six-tom fills creating melodic phrases within extreme metal',
+        'Playing blind and in motion on rotating drum riser — purely by feel',
+        'Bringing death metal vocabulary into nu-metal commercial contexts',
+        'Precise snare placement maintaining rhythmic density at high speeds'
+      ]
+    },
+    // Quotes
+    quotes: [
+      { text: "I've always tried to bring something technical to a style that people thought didn't need technique. Slipknot was never just about aggression — there was always craft underneath.", source: 'Modern Drummer', year: 2004 },
+      { text: "The kit has to work for the band first. Everything else is secondary. Speed means nothing if it's not serving the song.", source: 'Rhythm Magazine', year: 2008 }
+    ],
+    // Buying Guide
+    buyingGuide: {
+      title: "Getting the Jordison Sound: A Buyer's Guide",
+      content: `Matching Joey Jordison's complete rig requires significant investment, but elements of his sound are accessible at every price point.
+
+**Budget Approach ($800–1,500):**
+- Pearl Export EXX (starter Pearl production shell in available dark finishes)
+- Sabian SBr or B8X series cymbals — Sabian's entry-level, with similar voicing character
+- Any quality chain-drive double pedal (Pearl P-2002 Eliminator or DW 3000 series)
+- Vic Firth 5B American Classic sticks (similar dimensions to Jordison's signature)
+
+**Mid-Range Approach ($2,000–4,000):**
+- Pearl Session Studio Select or Decade Maple — professional-level shell at mid-range price
+- Sabian AAX 16" and 18" Stage Crashes individually, AAX 14" Stage Hi-Hats
+- DW 5000 or 9000 series double pedal (the actual Jordison-era pedal)
+- Pearl Sensitone snare for studio-quality crack
+
+**Professional Approach ($5,000+):**
+- Pearl Masterworks Custom or Reference Series shell pack
+- Full Sabian AAX Stage and HH setup: hi-hats, two crashes, Raw Bell Dry Ride, china
+- DW 9000 or Pearl Eliminator Redline double pedal
+- Pearl Free-Floating snare drum (14" x 6.5")`,
+      budgetTiers: [
+        { tier: 'Budget', range: '$800–1,500', notes: 'Pearl Export + Sabian SBr/B8X + entry-level double pedal' },
+        { tier: 'Mid-Range', range: '$2,000–4,000', notes: 'Session Studio + Sabian AAX crashes + DW 5000/9000 double pedal' },
+        { tier: 'Professional', range: '$5,000+', notes: 'Pearl Masterworks/Reference + full Sabian AAX/HH + Free-Floating snare' }
+      ]
+    },
+    // FAQ Section
+    faq: [
+      {
+        question: 'What drum kit did Joey Jordison use with Slipknot?',
+        answer: "Joey Jordison played Pearl drums throughout his career with Slipknot. His signature setup was the Pearl Masterworks Custom series in black with orange hardware — Slipknot's iconic colors. The kit featured six toms (8\", 10\", 12\", 13\" rack toms, 16\" and 18\" floor toms) and double 22\" x 18\" bass drums. In later years he transitioned to the Pearl Reference series, maintaining the same maple/mahogany shell character with updated hardware. His full drummer profile is available at [Joey Jordison's MetalForge page](/drummer/joey-jordison)."
+      },
+      {
+        question: 'What cymbals did Joey Jordison play?',
+        answer: "Joey Jordison was a Sabian endorsee and built his setup around the Sabian AAX and HH series. His primary setup included Sabian AAX 14\" Stage Hi-Hats, 16\" and 18\" AAX Stage Crashes, a Sabian HH 20\" Raw Bell Dry Ride, and a Sabian AAX 18\" X-Treme China. The AAX series' bright, aggressive, fast-responding character was essential for cutting through Slipknot's dense multi-guitar and percussion mix — both on albums like Iowa and Vol. 3, and in the massive live arenas Slipknot headlined."
+      },
+      {
+        question: 'What double bass pedals did Joey Jordison use?',
+        answer: "During the Iowa and Vol. 3 era, Joey Jordison played DW 9000 series double bass drum pedals — widely regarded as one of the finest chain-drive double pedals ever made. The DW 9000's adjustable cam, dual-chain drive, and precision construction supported Jordison's extreme double-kick tempos. In later years he transitioned to Pearl Eliminator Redline pedals, which offered a cam-drive system with interchangeable cam shapes for customizing the acceleration curve to match his technique."
+      },
+      {
+        question: 'What drumsticks did Joey Jordison use?',
+        answer: "Joey Jordison played Vic Firth Joey Jordison Signature drumsticks, a model developed with Vic Firth to match his specific extreme-metal playing demands. The sticks featured a custom taper optimized for blast beats and rapid single-stroke patterns, with a tip shape providing clear cymbal articulation at high velocities. Before his signature model was released, Jordison used Vic Firth 5B American Classic sticks."
+      },
+      {
+        question: 'What snare drum did Joey Jordison play?',
+        answer: "Joey Jordison favored Pearl Free-Floating snare drums throughout his Slipknot career. The Free-Floating design decouples the shell from the snare wire hardware, allowing the shell to resonate freely and producing the open, explosive crack heard on records like Iowa and Vol. 3: The Subliminal Verses. He typically used a 14\" diameter model with steel or brass shell construction for maximum cut and projection through Slipknot's dense production."
+      }
+    ],
+    // Related content
+    relatedAlbums: ['iowa-drum-setup', 'whats-in-joey-jordisons-kit'],
+    relatedDrummers: [1, 32, 10], // Lars Ulrich, Matt Greiner, Jay Weinberg
+    relatedArticles: ['nu-metal-drum-setups', 'best-double-bass-pedals-metal'],
+    conclusion: {
+      title: "The Legacy of the Demon Drummer",
+      content: `Joey Jordison (1975–2021) built one of the most distinctive drum setups in metal history — not because it was the most expensive or the most elaborate, but because every element served the band's music with uncompromising commitment.
+
+His Pearl Masterworks kit in Slipknot black and orange was an extension of the band's visual identity. His Sabian AAX cymbals cut through a mix that included nine musicians on stage simultaneously. His DW 9000 pedals sustained the extreme double-kick that turned genre conventions upside down. And his Vic Firth signature sticks balanced power with the speed precision that was always, fundamentally, about serving the song.
+
+Every piece of the Joey Jordison rig reflects that priority:
+
+- **Pearl Masterworks / Reference**: Custom shells built for the demands of a global touring band
+- **Sabian AAX and HH**: Aggressive, cutting, fast — built for projection in arenas and on records
+- **DW 9000 / Pearl Eliminator**: Industry-standard double-kick engineering for extreme tempos
+- **Pearl Free-Floating Snare**: Open, explosive crack that defined nu-metal's sonic template
+- **Vic Firth Jordison Signature**: Speed and power without sacrificing articulation
+
+Jordison's influence extends across a generation of heavy metal drummers. Jay Weinberg, his successor in Slipknot, acknowledged the weight of following a player who had helped define what nu-metal drumming could achieve. For deeper context on the players Jordison influenced and those who influenced him:
+
+- **Full drummer profile**: [Joey Jordison at MetalForge](/drummer/joey-jordison)
+- **Lars Ulrich**: [Lars Ulrich — Slipknot's thrash metal predecessor](/drummer/lars-ulrich) — the drummer who helped pave the way for heavy metal on mainstream stages
+- **Matt Greiner**: [Matt Greiner — metalcore's most musical drummer](/drummer/matt-greiner) — a player who shares Jordison's philosophy of technical depth in service of the song
+
+Joey Jordison played his last show with Slipknot in 2013 and passed away on July 26, 2021. The rotating drum riser sits still now. But the records — Iowa, Vol. 3, All Hope Is Gone — document a drummer who was extraordinary, and a setup built to match.
+
+🥁 *"Speed means nothing if it's not serving the song."* — Joey Jordison 🤘`
+    }
   }
 };
 

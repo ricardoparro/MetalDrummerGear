@@ -1786,8 +1786,10 @@ const POPULAR_BRANDS = [
 function PopularBrands({ theme }) {
   const drumBrands = POPULAR_BRANDS.filter(b => b.type === 'drums');
   const cymbalBrands = POPULAR_BRANDS.filter(b => b.type === 'cymbals');
+  const sectionRef = useSectionImpression('popular_brands');
 
-  const navigateToBrand = (slug) => {
+  const navigateToBrand = (slug, brandName) => {
+    trackEvent('section_click', { section: 'popular_brands', brand_slug: slug, brand_name: brandName });
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
       window.history.pushState({}, '', `/brands/${slug}`);
       window.dispatchEvent(new PopStateEvent('popstate'));
@@ -1802,7 +1804,7 @@ function PopularBrands({ theme }) {
         <a
           key={brand.slug}
           href={`/brands/${brand.slug}`}
-          onClick={(e) => { e.preventDefault(); navigateToBrand(brand.slug); }}
+          onClick={(e) => { e.preventDefault(); navigateToBrand(brand.slug, brand.name); }}
           style={{ textDecoration: 'none' }}
           aria-label={`${brand.name} ${brand.type === 'drums' ? 'drums' : 'cymbals'} brand page`}
         >
@@ -1815,7 +1817,7 @@ function PopularBrands({ theme }) {
     return (
       <TouchableOpacity
         key={brand.slug}
-        onPress={() => navigateToBrand(brand.slug)}
+        onPress={() => navigateToBrand(brand.slug, brand.name)}
         accessibilityRole="link"
         accessibilityLabel={`${brand.name} ${brand.type === 'drums' ? 'drums' : 'cymbals'} brand page`}
       >
@@ -1828,6 +1830,7 @@ function PopularBrands({ theme }) {
 
   return (
     <View
+      ref={sectionRef}
       style={[styles.popularBrandsSection, { backgroundColor: 'transparent' }]}
       accessibilityRole="region"
       accessibilityLabel="Popular Brands"
@@ -1970,7 +1973,8 @@ function TrendingThisWeek({ theme, drummers, onSelectDrummer }) {
 function RecentlyUpdatedGear({ theme, drummers, onSelectDrummer }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
-  
+  const sectionRef = useSectionImpression('recently_updated');
+
   // Get recent gear updates from gearNews data
   const recentUpdates = useMemo(() => getRecentGearUpdates(5), []);
   
@@ -2006,7 +2010,8 @@ function RecentlyUpdatedGear({ theme, drummers, onSelectDrummer }) {
   };
   
   return (
-    <View 
+    <View
+      ref={sectionRef}
       style={[styles.recentlyUpdatedSection, { backgroundColor: 'transparent' }]}
       accessibilityRole="region"
       accessibilityLabel="Recently Updated Gear"
@@ -2116,6 +2121,7 @@ function TopListsSection({ theme, onNavigateToList }) {
   const isMobile = width < 768;
   const [lists, setLists] = useState([]);
   const [isLoaded, setIsLoaded] = useState(false);
+  const sectionRef = useSectionImpression('top_lists');
 
   // Load top 10 lists data lazily
   useEffect(() => {
@@ -2132,7 +2138,7 @@ function TopListsSection({ theme, onNavigateToList }) {
   }
 
   return (
-    <View style={[styles.topListsSection, { backgroundColor: 'transparent' }]}>
+    <View ref={sectionRef} style={[styles.topListsSection, { backgroundColor: 'transparent' }]}>
       <View style={styles.topListsHeader}>
         <Text style={[styles.topListsTitle, { color: theme.text }]}>🏆 Top 10 Lists</Text>
         <Text style={[styles.topListsSubtitle, { color: theme.secondaryText }]}>
@@ -2148,7 +2154,10 @@ function TopListsSection({ theme, onNavigateToList }) {
           <TouchableOpacity
             key={list.slug}
             style={[styles.topListCard, { backgroundColor: theme.card, borderColor: theme.border }]}
-            onPress={() => onNavigateToList(list.slug)}
+            onPress={() => {
+              trackEvent('section_click', { section: 'top_lists', list_slug: list.slug, list_title: list.title });
+              onNavigateToList(list.slug);
+            }}
             accessibilityRole="button"
             accessibilityLabel={`View ${list.title}`}
           >
@@ -2176,6 +2185,7 @@ function AlbumArticlesSection({ theme }) {
   const isMobile = width < 768;
   const [albumArticles, setAlbumArticles] = useState([]);
   const [isLoaded, setIsLoaded] = useState(false);
+  const sectionRef = useSectionImpression('album_articles');
   
   // Load album articles lazily - performance optimization (#708)
   useEffect(() => {
@@ -2193,7 +2203,7 @@ function AlbumArticlesSection({ theme }) {
   if (!isLoaded || albumArticles.length === 0) return null;
 
   return (
-    <View style={[styles.topListsSection, { backgroundColor: 'transparent', marginTop: 8 }]}>
+    <View ref={sectionRef} style={[styles.topListsSection, { backgroundColor: 'transparent', marginTop: 8 }]}>
       <View style={styles.topListsHeader}>
         <Text style={[styles.topListsTitle, { color: theme.text }]}>💿 Iconic Album Gear Breakdowns</Text>
         <Text style={[styles.topListsSubtitle, { color: theme.secondaryText }]}>
@@ -2210,6 +2220,7 @@ function AlbumArticlesSection({ theme }) {
             key={article.slug}
             style={[styles.topListCard, { backgroundColor: theme.card, borderColor: theme.border, width: 180 }]}
             onPress={() => {
+              trackEvent('section_click', { section: 'album_articles', article_slug: article.slug, album_title: article.albumTitle, drummer: article.drummer });
               if (Platform.OS === 'web') {
                 window.location.href = `/articles/${article.slug}`;
               }
@@ -16778,6 +16789,7 @@ function BattleWidget({ theme, drummers, onNavigateToBattle }) {
   const isMobile = width < 768;
   const [battle, setBattle] = useState(null);
   const [isLoaded, setIsLoaded] = useState(false);
+  const sectionRef = useSectionImpression('battle_widget');
   
   // Load battles module lazily - performance optimization (#708)
   useEffect(() => {
@@ -16817,14 +16829,16 @@ function BattleWidget({ theme, drummers, onNavigateToBattle }) {
   );
   
   const handleClick = () => {
+    trackEvent('section_click', { section: 'battle_widget', drummer1: drummer1?.name, drummer2: drummer2?.name });
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
       window.history.pushState({}, '', `/battles/${battleSlug}`);
       window.dispatchEvent(new PopStateEvent('popstate'));
     }
   };
-  
+
   return (
     <TouchableOpacity
+      ref={sectionRef}
       onPress={handleClick}
       style={[
         styles.battleWidget,
@@ -18057,7 +18071,10 @@ function DrummerList({
     <View>
       {/* View All Drummers button - navigates to /drummers page (Issue #497) */}
       <TouchableOpacity
-        onPress={() => onNavigateToDrummers()}
+        onPress={() => {
+          trackEvent('section_click', { section: 'featured_drummers', item_type: 'view_all_cta' });
+          onNavigateToDrummers();
+        }}
         style={[styles.viewAllDrummersButton, { backgroundColor: theme.primary, borderColor: theme.primary }]}
         accessibilityRole="link"
         accessibilityLabel={`View all ${drummers.length} drummers`}

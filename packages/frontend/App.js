@@ -18044,38 +18044,6 @@ function DrummerList({
   // Scroll-depth milestones — fires once per session at 25/50/75/100% (Issue #1234)
   useScrollDepth();
 
-  // CLS Optimization: Show skeleton loaders instead of spinner
-  // Skeletons match the final layout dimensions to prevent layout shift
-  if (loading) {
-    return (
-      <ScrollView 
-        style={styles.listContainer}
-        contentContainerStyle={{ paddingBottom: 20 }}
-      >
-        {/* Hero section skeleton - matches HeroSection dimensions (Issue #493) */}
-        <HeroSectionSkeleton />
-        {/* Action buttons render without data, no skeleton needed */}
-        {/* Filter bar skeleton - below action buttons, above drummer list (Issue #506) */}
-        <FilterBarSkeleton />
-        {/* Spotlight section skeleton - matches DrummerSpotlight dimensions (Issue #324) */}
-        <SpotlightSkeleton />
-        {/* Drummer cards skeleton - show 6 to fill viewport */}
-        <DrummerListSkeleton count={6} />
-      </ScrollView>
-    );
-  }
-
-  if (error) {
-    return (
-      <View style={styles.centerContainer}>
-        <Text style={[styles.errorText, { color: theme.error }]}>Error: {error}</Text>
-        <Text style={[styles.errorHint, { color: theme.secondaryText }]}>
-          Make sure the backend is running on port 3001
-        </Text>
-      </View>
-    );
-  }
-
   const handleClearAllFilters = useCallback(() => {
     // Clear all filters in one call - this updates URL to '/'
     onFilterChange({ search: '', genre: '', brand: '', era: '' });
@@ -18141,6 +18109,42 @@ function DrummerList({
     filters, onFilterChange, sortBy, onSortChange,
     filteredDrummers, handleClearAllFilters, showAllDrummers,
   ]);
+
+  // Conditional returns MUST come after every hook (useScrollDepth, the
+  // handleClearAllFilters useCallback, and the listHeader useMemo above).
+  // Otherwise the hook count differs between the loading and loaded renders and
+  // React throws #310 ("rendered more hooks than during the previous render"),
+  // crashing the homepage to a black screen.
+  // CLS Optimization: skeleton loaders match final layout dimensions (Issue #493).
+  if (loading) {
+    return (
+      <ScrollView
+        style={styles.listContainer}
+        contentContainerStyle={{ paddingBottom: 20 }}
+      >
+        {/* Hero section skeleton - matches HeroSection dimensions (Issue #493) */}
+        <HeroSectionSkeleton />
+        {/* Action buttons render without data, no skeleton needed */}
+        {/* Filter bar skeleton - below action buttons, above drummer list (Issue #506) */}
+        <FilterBarSkeleton />
+        {/* Spotlight section skeleton - matches DrummerSpotlight dimensions (Issue #324) */}
+        <SpotlightSkeleton />
+        {/* Drummer cards skeleton - show 6 to fill viewport */}
+        <DrummerListSkeleton count={6} />
+      </ScrollView>
+    );
+  }
+
+  if (error) {
+    return (
+      <View style={styles.centerContainer}>
+        <Text style={[styles.errorText, { color: theme.error }]}>Error: {error}</Text>
+        <Text style={[styles.errorHint, { color: theme.secondaryText }]}>
+          Make sure the backend is running on port 3001
+        </Text>
+      </View>
+    );
+  }
 
   // Empty list message (should rarely show on homepage since we show featured drummers)
   const ListEmpty = () => (

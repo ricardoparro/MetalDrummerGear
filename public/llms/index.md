@@ -107,7 +107,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 
 ---
 
-## Articles (60 total)
+## Articles (62 total)
 
 Clean Markdown gear breakdowns for every album drum-setup and "what's in <drummer>'s kit" article, ingestible in one request.
 
@@ -173,6 +173,8 @@ Clean Markdown gear breakdowns for every album drum-setup and "what's in <drumme
 | What's In Gavin Harrison's Prog Metal Arsenal: Complete Gear Breakdown | Gavin Harrison | [Markdown](https://metalforge.io/llms/articles/whats-in-gavin-harrisons-kit.md) |
 | White Pony Drum Setup: Abe Cunningham's Atmospheric Masterpiece | Abe Cunningham | [Markdown](https://metalforge.io/llms/articles/white-pony-drum-setup.md) |
 | What's In Matt Halpern's Periphery Kit: Complete Gear Breakdown | Matt Halpern | [Markdown](https://metalforge.io/llms/articles/whats-in-matt-halperns-kit.md) |
+| Aquiles Priester Drum Kit — Complete Angra Gear Guide | Aquiles Priester | [Markdown](https://metalforge.io/llms/articles/aquiles-priester-drum-kit-guide.md) |
+| Matt Greiner Complete Drum Setup — August Burns Red Gear Guide | Matt Greiner | [Markdown](https://metalforge.io/llms/articles/matt-greiner-complete-drum-setup.md) |
 
 ---
 

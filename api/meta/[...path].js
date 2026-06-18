@@ -527,12 +527,27 @@ function getMetaForPath(pathname) {
   }
 
   // Issue #1172: /bands/<slug> — band-specific SSR title + description
+  // Issue #1307: FAQPage JSON-LD for band pages
   const bandMatch = path.match(/^\/bands\/([a-z0-9-]+)$/);
   if (bandMatch) {
     const band = BAND_DATA[bandMatch[1]];
     if (band) {
       const drummerMember = band.members?.find(m => /drum/i.test(m.role));
       const drummerName = drummerMember?.name;
+      const faqItems = [
+        ...(drummerName ? [{
+          question: `Who is the drummer for ${band.name}?`,
+          answer: `The drummer for ${band.name} is ${drummerName}. Visit MetalForge for their complete gear breakdown.`,
+        }] : []),
+        {
+          question: `What drum kit does ${band.name}'s drummer use?`,
+          answer: `See the complete drum gear setup for ${band.name}'s drummer at MetalForge, including kit, cymbals, pedals, and sticks.`,
+        },
+        {
+          question: `What genre is ${band.name}?`,
+          answer: `${band.name} plays ${band.genres?.join(', ') || 'metal'}.`,
+        },
+      ];
       return {
         title: band.metaTitle || `${band.name} — Drummer, Drum Kit & Gear | ${SITE_NAME}`,
         description: truncate(
@@ -543,6 +558,7 @@ function getMetaForPath(pathname) {
         image: DEFAULT_IMAGE,
         type: 'profile',
         url: `${BASE_URL}/bands/${bandMatch[1]}`,
+        faqSchema: faqItems,
       };
     }
   }

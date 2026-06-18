@@ -6747,6 +6747,40 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
         </View>
       )}
 
+      {/* Where to Buy gear section — targets commercial-intent queries (Issue #1327) */}
+      {drummer.whereToBuy && (
+        <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">
+            {drummer.whereToBuy.heading}
+          </Text>
+          <Text style={[styles.gearContent, { color: theme.secondaryText, marginBottom: 16 }]}>
+            {drummer.whereToBuy.intro}
+          </Text>
+          {drummer.whereToBuy.items.map((item, idx) => (
+            <View key={idx} style={{ marginBottom: 20 }}>
+              <Text style={[styles.gearTitle, { color: theme.text }]}>{item.name}</Text>
+              <Text style={[styles.gearContent, { color: theme.secondaryText, marginBottom: 8 }]}>{item.notes}</Text>
+              <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: 8 }}>
+                {item.retailers.map((retailer, rIdx) => (
+                  <TouchableOpacity
+                    key={rIdx}
+                    onPress={() => Linking.openURL(retailer.url)}
+                    style={[styles.shopButton, styles.shopButtonUS, { borderColor: theme.border }]}
+                    accessibilityRole="link"
+                    accessibilityLabel={`Shop ${item.name} at ${retailer.name}`}
+                  >
+                    <Text style={styles.shopButtonText}>{retailer.name}</Text>
+                  </TouchableOpacity>
+                ))}
+              </View>
+            </View>
+          ))}
+          <Text style={[styles.gearContent, { color: theme.secondaryText, marginTop: 8 }]}>
+            {drummer.whereToBuy.outro}
+          </Text>
+        </View>
+      )}
+
       {/* News Section - Issue #513 - Phase 5 */}
       <DrummerNewsSection drummer={drummer} theme={theme} />
 

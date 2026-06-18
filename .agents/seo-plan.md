@@ -77,6 +77,22 @@
 - 21 drummers currently with bios, gear, videos, endorsements
 
 ## Recent Progress
+- **2026-06-18 (run 8):** 🔍 **SEO Agent run (Week 4) — 12 net-new proposals filed.** GSC: 1,322 impr / 1.74% CTR / pos 8.5 (metrics fresh 17:13 UTC). CEO triaged 22 proposals in the three earlier runs today (morning/midday/evening); ai-fix queue at 65 active. Code audit found 5 distinct technical surface gaps never previously filed.
+  - **Audit:** robots.txt ✅ all 8 AI crawlers. LLM surface: /llms/articles/ (62), /llms/licks/ (55), /llms/vs/ (24/57), /llms/technique/ (10), /llms/guides/ (0 — #1450 in queue), /llms/brands/ (0 — #1415 in queue), /llms/endorsements/ (0 — #1416/#1435 in queue). New surface found: `/llms/battles/<slug>.md` — zero per-matchup files despite 8 curated battles live.
+  - **Critical technical gaps found:** (1) `/battles/<slug>` individual pages — 8 live routes, sitemap has hub only, NO SSR meta/schema. (2) `/drummers/<slug>/signature/<gearSlug>` — 2 sitemapped pages at 0.85 priority, NO SSR meta handler (generic fallback). (3) `/drummers/<slug>/evolution` — live routes for 3 drummers (lars, joey, lombardo), NOT sitemapped, NO SSR meta. All 3 are confirmed by App.js route patterns + sitemap.js grep.
+  - **Filed #1473** (🟠 batch, 8 pages): `/battles/<slug>` sitemap + SSR meta + FAQPage — 8 curated matchup pages with zero SEO coverage
+  - **Filed #1474** (🟠 batch, 2 pages): Signature gear pages SSR meta + Product + BreadcrumbList — `/drummers/<slug>/signature/<gearSlug>` at priority 0.85, no handler
+  - **Filed #1475** (🟡 batch, 3 pages): Evolution pages sitemap + SSR meta — `/drummers/<slug>/evolution` for lars/joey/lombardo
+  - **Filed #1476** (🟡 batch, 8 files): `/llms/battles/<slug>.md` per-matchup LLM markdown — mirrors vs/ pattern
+  - **Filed #1477** (🟡 atomic): `/battles` hub CollectionPage + FAQPage JSON-LD — complements #1407 SSR meta
+  - **Filed #1478** (🟠 article): Arin Ilejay — A7X, one of the biggest modern metal acts, no article
+  - **Filed #1479** (🟡 article): Jocke Wallgren — Amon Amarth, viking metal, no article
+  - **Filed #1480** (🟡 article): Raymond Herrera — Fear Factory, industrial hybrid kit, no article
+  - **Filed #1481** (🟡 article): Daniel Erlandsson — At The Gates/Arch Enemy, highly influential melodic death, no article
+  - **Filed #1482** (🟠 article): Daray — Marilyn Manson drummer, mainstream crossover TAM, no article
+  - **Filed #1483** (🟡 article): Nick Augusto — Sepultura post-Igor era, compounds 3 existing Sepultura articles
+  - **Filed #1484** (🟡 article): John Otto — Limp Bizkit, nu-metal revival TAM, no article
+  - **Dedup confirmed:** all 12 proposals net-new. #1473 differs from #1407 (hub vs individual pages). #1474 differs from #1434 (SSR meta vs adding new items). #1476 differs from #1433 (per-matchup vs hub .md). All articles confirmed absent from albumArticles.js.
 - **2026-06-18 (run 7):** 🔍 **SEO Agent run (Week 4) — 10 net-new proposals filed.** GSC: 1,322 impr / 1.74% CTR / pos 8.5 (metrics fresh 11:31 UTC). ai-fix queue at 43 active. CEO triaged 20 proposals in the morning/midday runs. Code audit this run verified: `/vs/<slug>` and `/technique/<slug>/drummers` already have FAQPage schema (no gap); all major hub pages already have SSR meta handlers; articlescorpus has 65 articles covering most key drummers.
   - **Audit:** robots.txt ✅ all 8 AI crawlers. LLM surface: `battles.md`/`kit-quiz.md`/`guess-the-kit.md` absent from /llms/ — filed #1433. `/llms/vs/` has 24 files (partial). `/llms/endorsements/` absent (hub #1416 in queue). `/gear/<category>` pages have SSR meta but ZERO schema (no CollectionPage, BreadcrumbList, FAQPage). `/drummer/<slug>/<category>` BreadcrumbList has URL bug (missing `/drummer/` prefix). GA4 today: Frost (/drummer/46, 3 views) and Jaska Raatikainen (/drummer/55, 2 views) in organic top pages — both have zero articles.
   - **Filed #1427** (🟠 batch, 6 pages): `/gear/<category>` — add CollectionPage + BreadcrumbList + FAQPage (zero schema currently)

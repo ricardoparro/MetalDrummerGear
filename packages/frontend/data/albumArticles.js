@@ -19374,6 +19374,219 @@ Abe Cunningham proved that metal drumming could be an art form — subtle, dynam
     }
   },
 
+  // Aquiles Priester Drum Kit Guide - Issue #1269
+  'aquiles-priester-drum-kit-guide': {
+    slug: 'aquiles-priester-drum-kit-guide',
+    articleType: 'drummer-kit',
+    drummer: 'Aquiles Priester',
+    drummerId: 50,
+    band: 'Angra',
+    bands: ['Angra', 'W.A.S.P.', 'Hangar'],
+    genre: 'Power Metal',
+    country: 'Brazil',
+    isAlbumArticle: true,
+    datePublished: '2026-06-18',
+    dateModified: '2026-06-18',
+    author: 'MetalForge Editorial',
+    // SEO
+    title: "Aquiles Priester Drum Kit — Complete Angra Gear Guide",
+    description: "Discover Aquiles Priester's complete drum kit: Pearl Reference Series shells, Sabian HHX cymbals, Pearl Demon Drive double pedal, and the Brazilian power metal philosophy behind his blazing double-bass technique.",
+    seoKeywords: ['aquiles priester drum kit', 'aquiles priester drum set', 'aquiles priester gear', 'angra drummer drum kit', 'aquiles priester cymbals', 'aquiles priester pedals', 'pearl reference drums power metal', 'angra drum setup'],
+    ogImage: '/images/drummers/aquiles-priester.webp',
+    // Introduction
+    intro: {
+      title: "Brazil's Power Metal Drum Machine",
+      content: `Aquiles Priester (born June 19, 1971, in São Paulo, Brazil) is one of the most decorated power metal drummers of his generation — a two-time Angra mainstay, W.A.S.P. touring force, and founding member of Hangar whose blazing double bass and pinpoint precision set a new benchmark for the genre when he announced himself to the world in 2001.
+
+When Priester joined Angra for their Rebirth album, the metal community took notice immediately. His ability to sustain double-bass patterns at 180+ BPM while maintaining groove, dynamics, and genuine musicality placed him in a category occupied by very few. Albums like Temple of Shadows (2004) — widely regarded as the greatest Brazilian metal album ever recorded — showed a drummer whose technical ceiling seemed impossibly high and whose musical intelligence made every blazing fill feel inevitable rather than gratuitous.
+
+After a decade away from Angra (2012–2023), Priester returned to the band with a mature, refined version of his already formidable technique. His current Pearl Reference Series setup reflects the dual demands of marathon touring with W.A.S.P. and the melodic complexity that Angra's catalog requires — a configuration engineered for maximum power, projection, and the relentless speed that defines his playing.
+
+Priester's endorsement portfolio includes Pearl Drums, Sabian Cymbals, Vic Firth Sticks, and Evans Drumheads — a roster of industry leaders whose flagship products he has tested to their limits across South American festivals, European tours, and studio sessions for some of power metal's most celebrated records.
+
+For a deeper look at his biography and complete career timeline, visit the [Aquiles Priester full profile](/drummers/aquiles-priester). To study the signature patterns and techniques discussed in this guide, the [Aquiles Priester signature lick hub](/drummers/aquiles-priester/licks) breaks down his most iconic Angra grooves with video references and technique tips. His double-bass approach is also covered in the context of the broader genre on the [double bass technique drummers page](/technique/double-bass/drummers).
+
+This guide covers every component of his current kit: drums, cymbals, pedals, sticks, and the Brazilian metal philosophy that shapes how he deploys them night after night.`,
+      keyPoints: [
+        'Pearl Reference Series flagship shells — hybrid maple/birch/poplar construction',
+        'Sabian HHX & AAX cymbals for complex, dynamic cymbal voices',
+        'Pearl Demon Drive Double Pedal for direct-drive double-bass precision',
+        'Vic Firth Aquiles Priester Signature sticks tuned for speed and power',
+        'Temple of Shadows (2004) remains the defining showcase of his technique',
+        'Returned to Angra in 2023 with a refined, battle-tested setup'
+      ]
+    },
+    // Drum Kit Section
+    drumKit: {
+      title: "The Pearl Reference Series: Flagship Power Metal Shells",
+      brand: 'Pearl',
+      model: 'Pearl Reference Series',
+      finish: 'Custom lacquer (varies by tour)',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum', '22" x 18" Bass Drum (double setup)'],
+        toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom', '14" x 11" Rack Tom'],
+        floorToms: ['16" x 16" Floor Tom', '18" x 16" Floor Tom'],
+        shells: 'Hybrid maple/birch/poplar alternating-ply construction'
+      },
+      description: `The Pearl Reference Series is Pearl's flagship shell pack, constructed from a patented hybrid shell featuring maple, birch, and poplar in alternating plies. For Aquiles, this delivers a combination of maple's warmth and sustain with birch's focused punch — ideal for power metal where both projection and tonal clarity are essential to cutting through dense guitar arrangements.
+
+Pearl's All-Range Mounting (ARM) system preserves shell resonance by eliminating direct contact between the tom and its mount hardware, letting each drum ring through its full pitch spectrum. In the dense mix of Angra's progressive passages or W.A.S.P.'s full-stage sound, this extra resonance translates to drums that are heard as full instruments rather than flat percussion.
+
+Priester runs a twin 22" bass drum configuration for maximum impact and the authentic feel of independent kick drums rather than a single drum with a double pedal. Each bass drum carries its own tuning and character; the dual setup also provides visual impact that commands attention on large festival stages.
+
+The Reference Series' extended tom range gives Priester the melodic latitude to phrase fills as cascading lines — a technique he deploys throughout Angra's catalog where the drums often carry melodic weight alongside the guitar leads. Custom lacquer finishes have included deep crimson and black metallics depending on tour cycle.`,
+      notes: [
+        'Hybrid maple/birch/poplar construction for balanced warmth and punch',
+        'ARM mounting preserves full shell resonance',
+        'Twin 22" bass drums for maximum impact',
+        'Broad tom range enables melodic fills'
+      ],
+      estimatedValue: '$6,000–9,000 (Pearl Reference Series shell pack, street price varies by configuration)'
+    },
+    // Snare Section
+    snare: {
+      title: 'The Pearl Reference Brass: Power Metal Crack',
+      brand: 'Pearl',
+      model: 'Pearl Reference 14" x 6.5" Brass',
+      size: '14" x 6.5"',
+      shell: 'Brass',
+      description: `The Pearl Reference 14"x6.5" Brass snare is Priester's primary choice for both Angra and W.A.S.P. performances. The brass shell delivers a bright, cutting crack that punches through even the densest double-bass passages — critical when the song also features the fast cymbal work and kick density that defines power metal production.
+
+At 6.5" depth, this snare provides more body than shallower piccolo alternatives while retaining the sharp attack needed for fast playing. Priester tunes it medium-high for maximum cut without sacrificing the sensitivity required for ghost notes and subtle accents in quieter Angra passages.
+
+Die-cast hoops add both durability for aggressive rim shots and tuning stability across long touring days. In W.A.S.P.'s high-energy live context, a snare that holds its tuning from soundcheck through the final song of a two-hour set is not a luxury but a necessity.
+
+The brass shell's natural brightness means the snare is audible even during the fastest double-bass sections — exactly what a power metal drummer needs when the kick pattern is running at 190 BPM and the snare must still register as a distinct rhythmic anchor.`,
+      tuningSetting: 'Medium-high for crack and sensitivity, adjusted per venue',
+      heads: 'Evans Coated (batter), Evans 300 Snare Side (resonant)',
+      estimatedValue: '$400–550 (Pearl Reference brass snare, street price)'
+    },
+    // Cymbals Section
+    cymbals: {
+      title: 'Sabian HHX Arsenal: Dynamic Power Metal Voices',
+      brand: 'Sabian',
+      series: 'Sabian HHX & AAX Series',
+      setup: [
+        { type: 'Hi-Hats', model: 'Sabian HHX 14" Evolution Hi-Hats', position: 'Primary left side', notes: 'Hand-hammered, unlathed finish for complex, articulate sound' },
+        { type: 'Crash', model: 'Sabian HHX 18" X-Plosion Crash', position: 'Left of hi-hats', notes: 'Fast-responding crash for accents' },
+        { type: 'Crash', model: 'Sabian HHX 19" X-Plosion Crash', position: 'Over toms', notes: 'Fuller crash for larger musical moments' },
+        { type: 'Ride', model: 'Sabian HHX 21" Groove Ride', position: 'Far right', notes: 'Versatile ride with distinctive bell for accents' },
+        { type: 'China', model: 'Sabian AAX 18" Chinese', position: 'Above floor tom', notes: 'Aggressive, trashy accents for power metal punctuation' }
+      ],
+      description: `Priester's Sabian HHX setup is calibrated for the full dynamic range of power metal — from delicate progressive passages on Temple of Shadows to the full-intensity assault of W.A.S.P.'s live performances. The HHX line's hand-hammered, unlathed finish produces complex, responsive cymbal voices that cut through dense mixes without becoming fatiguing over long sets.
+
+The 14" HHX Evolution Hi-Hats are his primary timekeeping tool, offering crisp articulation for the fast 16th-note patterns that underpin songs like Spread Your Fire and Rebirth. The Evolution series' layered construction responds equally well to light jazz-influenced touches and hard power metal attacks, giving Priester the dynamic range his repertoire demands.
+
+The HHX X-Plosion crash series — an 18" and 19" pairing — provides fast response with a bright, aggressive character. X-Plosion cymbals are specifically designed for players who need crashes that speak immediately rather than building into a wash, ideal for rapid-fire accent work in fast songs.
+
+The 21" HHX Groove Ride gives Priester a versatile platform with a distinctive bell tone used frequently during Angra's more progressive sections. The AAX 18" Chinese rounds out the setup with the trashy, explosive accents that power metal crowds in South America and Europe have come to expect from his performances.`,
+      estimatedValue: '$2,200–2,800 total (Sabian HHX & AAX full setup)'
+    },
+    // Hardware Section
+    hardware: {
+      title: 'Pearl Demon Drive: Direct-Drive Double-Bass Precision',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'Pearl',
+          model: 'Pearl Demon Drive Double Pedal',
+          notes: 'Direct-drive mechanism for immediate response at extreme tempos',
+          description: `The Pearl Demon Drive is central to Aquiles Priester's reputation as one of power metal's fastest double-bass specialists. The direct-drive mechanism transfers foot energy with minimal lag, giving the immediate response needed at the 180–200 BPM speeds Priester sustains across full songs. Unlike chain-drive designs that add elastic delay, the Demon Drive's direct connection means every subtle foot technique adjustment translates instantly to the beater. This feedback loop is what allows Priester to play with both the explosive power W.A.S.P. demands and the nuanced control that Angra's more intricate passages require.`
+        },
+        {
+          type: 'Rack System',
+          brand: 'Pearl',
+          model: 'Pearl Icon Rack System',
+          notes: 'Full wraparound rack for mounting cymbals, toms, and accessories',
+          description: "The Pearl Icon Rack provides the stable platform Priester's extensive setup requires. Modular configuration adapts to different stage sizes across festival and club touring."
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth Aquiles Priester Signature',
+          notes: 'Custom hickory design for speed and power balance',
+          description: "Priester's Vic Firth signature stick is engineered for the demands of power metal: long enough for reach across a large kit, weighted for power without sacrificing the speed required for fast single and double strokes."
+        }
+      ],
+      heads: {
+        bassKick: 'Evans EMAD Clear (batter), Evans EQ3 Black (resonant)',
+        toms: 'Evans EC2 Coated (batter), Evans EC Resonant (resonant)',
+        snare: 'Evans Coated (batter), Evans 300 (resonant)'
+      }
+    },
+    // Touring vs Recording
+    tourVsRecording: {
+      title: 'Touring Rig vs. Recording Configuration',
+      content: `Aquiles Priester's live and studio configurations reflect the different demands of each context. On tour with W.A.S.P. — a band known for theatrical live shows requiring sustained high-intensity performance — his kit prioritises projection, durability, and the direct-drive pedal response that lets him maintain double-bass patterns across long sets without fatigue accumulation.
+
+For Angra studio sessions, the configuration shifts toward tonal quality and dynamic sensitivity. Studio recordings of albums like Temple of Shadows and Rebirth required the drums to carry melodic information, respond to subtle dynamic shifts, and sit precisely in the mix alongside keyboards, layered guitars, and orchestral arrangements. In that context, Priester works more closely with engineers on head selection, tuning, and microphone placement to extract the full tonal palette from his Pearl Reference shells.
+
+His early Angra work (2001–2010) was documented with Mapex Saturn Series drums and Axis A double pedals — gear that shaped his technique before his Pearl endorsement. Many power metal drummers cite the Rebirth and Temple of Shadows recordings as primary listening, meaning that era's gear is deeply connected to his influence on the genre.
+
+The Pearl Reference / Sabian HHX / Demon Drive combination represents the mature evolution of that foundational technique: more refined tools serving the same Brazilian power metal philosophy.`
+    },
+    // FAQ Section
+    faq: [
+      {
+        question: 'What drum kit does Aquiles Priester use?',
+        answer: "Aquiles Priester currently plays a Pearl Reference Series drum kit. The Reference Series uses a hybrid maple/birch/poplar shell construction that delivers the warmth and punch required for power metal. He runs a double bass drum configuration with twin 22\" kick drums, giving his setup the impact and independence his technique demands. Pearl's ARM mounting system preserves shell resonance by eliminating metal-to-shell contact on the toms."
+      },
+      {
+        question: 'What cymbals does Aquiles Priester play?',
+        answer: "Aquiles Priester plays Sabian HHX and AAX Series cymbals. His setup centres on 14\" HHX Evolution Hi-Hats for fast, articulate timekeeping, HHX X-Plosion crashes (18\" and 19\") for aggressive accent work, a 21\" HHX Groove Ride with a distinctive bell tone for progressive sections, and an 18\" AAX Chinese cymbal for trashy power metal punctuation. Sabian's hand-hammered HHX construction provides complex, dynamic voices that cut through dense arrangements without fatiguing over long sets."
+      },
+      {
+        question: 'What pedals does Aquiles Priester use?',
+        answer: "Aquiles Priester plays the Pearl Demon Drive Double Pedal. The Demon Drive uses a direct-drive mechanism — a rigid connection between the footboard and the beater shaft — that eliminates the elastic lag of chain-drive designs. This gives Priester the immediate feedback required to sustain double-bass patterns at 180–200 BPM with the precision his technique demands. The direct-drive feel is central to how he plays: every foot movement translates directly and immediately to the drum."
+      },
+      {
+        question: 'What sticks does Aquiles Priester use?',
+        answer: "Aquiles Priester plays his Vic Firth Signature stick. Vic Firth developed this model in collaboration with Priester to balance the reach, weight, and diameter required for power metal drumming: enough mass for powerful strokes, a taper suited to fast rebound, and the durability needed for touring. The signature stick is available commercially and is popular among power metal drummers studying his technique."
+      },
+      {
+        question: "What is Aquiles Priester's double bass technique?",
+        answer: "Aquiles Priester's double bass technique is built on relaxation, evenness, and endurance rather than raw speed alone. He has spoken extensively about practising at sub-maximal tempos until patterns feel effortless before pushing speed, which builds the muscular efficiency required to sustain 180–200 BPM patterns across full songs. His approach — documented in his Inside My Drums instructional series — emphasises that the double bass should serve the melody rather than draw attention to itself as a technical exercise. This philosophy is visible throughout the Temple of Shadows and Rebirth recordings."
+      }
+    ],
+    // Internal Links
+    internalLinks: [
+      { text: 'Aquiles Priester full profile and biography', url: '/drummers/aquiles-priester' },
+      { text: 'Aquiles Priester signature lick hub', url: '/drummers/aquiles-priester/licks' },
+      { text: 'Double bass technique: top drummers and methods', url: '/technique/double-bass/drummers' },
+      { text: 'Pearl Drums brand guide', url: '/brands/pearl' },
+      { text: 'Sabian Cymbals brand guide', url: '/brands/sabian' }
+    ],
+    // Videos
+    videos: [
+      { youtubeId: '5IFAiuw28c4', title: 'Aquiles Priester - W.A.S.P. Tour Kit Rundown (2024)', description: 'Aquiles walks through his Pearl Reference / Sabian HHX touring setup for the W.A.S.P. tour' },
+      { youtubeId: 'N88nwiehE3w', title: 'Spread Your Fire - Aquiles Priester Live (HD)', description: 'High-definition performance showing his blazing double bass at full song tempo' },
+      { youtubeId: 'Jv2A0l12Ldc', title: 'Heroes of Sand - Inside My Drums', description: "Aquiles Priester's detailed breakdown of his approach to Temple of Shadows' most complex track" }
+    ],
+    // Related Content
+    relatedDrummers: [13, 5, 14], // Mike Portnoy, Tomas Haake, Danny Carey
+    relatedArticles: ['whats-in-mike-portnoys-kit', 'power-metal-drummers', 'fastest-metal-drummers'],
+    // Conclusion
+    conclusion: {
+      title: 'The Brazilian Power Metal Standard',
+      content: `Aquiles Priester's equipment reflects the dual demands of a career that has spanned Brazil's most celebrated metal export and one of heavy metal's most theatrical live acts. Pearl Reference drums provide the projection and tonal warmth required for Angra's melodic complexity; Sabian HHX cymbals deliver the dynamic range to move between delicate progressive passages and full-intensity crashes; the Pearl Demon Drive gives his legendary double bass the direct feedback required at the tempos he operates at.
+
+But the gear is only the vehicle. What makes Priester extraordinary is the Brazilian power metal philosophy he embodies — a commitment to serving the song at extreme speeds, to maintaining genuine musicality at technical limits other drummers rarely approach, and to treating every live performance as a demonstration of what South American metal can achieve on the world stage.
+
+**What Drummers Can Learn from His Setup:**
+- Double bass precision requires direct-drive feedback — chain-drive designs mask subtle errors
+- Flagship shells (Pearl Reference) earn their price through tonal versatility, not just volume
+- Complex cymbal voices (HHX) make fast playing musical rather than merely fast
+- Endorsement gear should match technique — Priester's setup is built around his specific strengths
+
+**The Legacy:**
+Temple of Shadows remains one of the most studied power metal recordings in the genre. Every drummer who has worked through Rebirth or Spread Your Fire has absorbed something from Aquiles Priester's approach. His return to Angra in 2023 renewed that influence for a new generation of metal drummers discovering the band's catalog.
+
+His gear is available. His technique, built through decades of dedicated practice and high-intensity touring, is the real instrument.
+
+🥁 *"Power metal demands power drumming. Every stroke has to hit like thunder."* — Aquiles Priester 🤘`
+    }
+  },
+
   // What's In Matt Halpern's Periphery Kit - Issue #MetalForge
   'whats-in-matt-halperns-kit': {
     slug: 'whats-in-matt-halperns-kit',

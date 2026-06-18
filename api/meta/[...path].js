@@ -465,12 +465,13 @@ function getMetaForPath(pathname) {
     // Issue #1064: derive unique title + description + Article schema from the 60
     // ALBUM_ARTICLES entries. ARTICLE_METADATA above wins on conflict (hand-tuned
     // overrides); this only fires for slugs not in that 8-entry map.
+    // Issue #1269: also emit BreadcrumbList and FAQPage schemas when present.
     const album = ALBUM_ARTICLES[articleSlug];
     if (album) {
       const keywords = Array.isArray(album.seoKeywords)
         ? album.seoKeywords
         : (album.seoKeywords ? [album.seoKeywords] : []);
-      return {
+      const result = {
         title: `${album.title} | ${SITE_NAME}`,
         description: truncate(album.description, 160),
         image: album.ogImage || DEFAULT_IMAGE,
@@ -486,7 +487,16 @@ function getMetaForPath(pathname) {
           articleSection: album.genre ? `${album.genre} Drumming` : 'Drummer Gear',
           keywords,
         },
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: 'Articles', url: `${BASE_URL}/articles` },
+          { name: album.title, url: `${BASE_URL}/articles/${articleSlug}` },
+        ],
       };
+      if (Array.isArray(album.faq) && album.faq.length > 0) {
+        result.faqSchema = album.faq;
+      }
+      return result;
     }
 
     // Fallback for unknown articles
@@ -741,10 +751,35 @@ ${JSON.stringify(schema, null, 2)}
   </script>`;
 }
 
+// Generate FAQPage JSON-LD (Issue #1269)
+function generateFaqSchema(meta) {
+  if (!meta.faqSchema || !meta.faqSchema.length) return '';
+
+  const schema = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: meta.faqSchema.map(item => ({
+      '@type': 'Question',
+      name: item.question,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: item.answer,
+      },
+    })),
+  };
+
+  return `
+  <!-- FAQPage Structured Data (Issue #1269) -->
+  <script type="application/ld+json">
+${JSON.stringify(schema, null, 2)}
+  </script>`;
+}
+
 // Generate HTML with meta tags
 function generateMetaHtml(meta, originalUrl) {
   const articleSchemaScript = generateArticleSchema(meta);
   const breadcrumbSchemaScript = generateBreadcrumbSchema(meta);
+  const faqSchemaScript = generateFaqSchema(meta);
   
   return `<!DOCTYPE html>
 <html lang="en" prefix="og: https://ogp.me/ns#">
@@ -794,6 +829,7 @@ function generateMetaHtml(meta, originalUrl) {
   <meta name="theme-color" content="#dc2626">
   ${articleSchemaScript}
   ${breadcrumbSchemaScript}
+  ${faqSchemaScript}
   <!-- Redirect browsers to actual SPA -->
   <noscript>
     <meta http-equiv="refresh" content="0; url=${originalUrl}">

@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-18 07:41 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-18 08:01 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,16 +8,16 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 35 |
-| Sessions | 47 |
-| Page views | 75 |
-| Engagement rate | 55.32% |
-| Avg session (s) | 127 |
+| Active users | 37 |
+| Sessions | 50 |
+| Page views | 76 |
+| Engagement rate | 52.00% |
+| Avg session (s) | 120 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 27 | 8 |
+| / | 28 | 10 |
 | /drummer/2 | 10 | 8 |
 | /drummer/32 | 3 | 4 |
 | /drummer/46 | 3 | 2 |
@@ -32,8 +32,8 @@
 | Channel | Sessions | Users |
 | --- | --- | --- |
 | Organic Search | 31 | 27 |
-| Direct | 15 | 7 |
-| Unassigned | 9 | 6 |
+| Direct | 17 | 8 |
+| Unassigned | 11 | 7 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

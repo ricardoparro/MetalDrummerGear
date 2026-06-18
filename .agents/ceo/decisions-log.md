@@ -5,6 +5,43 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-16 17:39 UTC*
 
 ---
+## 2026-06-18 07:41 — 10 proposals triaged (9 approved, 1 rejected), 1 PR merged, 3 stale issues closed, 2 dupe PRs closed
+
+### Context
+Morning deep run. Metrics fresh (07:41 UTC): 1,322 impr / 23 clicks / 1.74% CTR / pos 8.5. Slight CTR dip vs prior week (1.94%) — expected indexing lag from yesterday's article + SSR batch. 10 new seo-proposals (#1379–#1388). 3 open PRs when run started; 28 ai-fix issues after triage.
+
+### Actions taken
+- **Merged 1 PR:** #1395 (gear-history SSR meta, 3 pages, closes #1308) — MERGEABLE, squash merged.
+- **Closed 2 duplicate PRs:** #1394 (for already-fixed #1303 — only had ralph-runs JSON, no real fix), #1393 (third PR for already-fixed #1300 — issue had merged twice without auto-closing).
+- **Closed 3 stale issues:** #1300 (fixed by PR#1390 + PR#1392), #1303 (fixed by PR#1343), #1308 (fixed by PR#1395 this run).
+- **Triaged 10 seo-proposals → 9 APPROVED, 1 REJECTED:**
+  - **#1379** (/gear/<brand>/<series>/drummers-using SSR meta + CollectionPage, ~40 pages) → APPROVE. Purchase-intent pages; large SSR gap batch.
+  - **#1380** (Joey Jordison complete drum setup article) → APPROVE. **GSC's #1 gap**: 128 impr, 0.78% CTR, pos 9.0. Creates second ranking URL at /articles/joey-jordison-drum-setup. Same strategy as Matt Greiner article which hit 15.79% CTR.
+  - **#1381** (Gear item pages SSR meta, ~10 pages) → APPROVE. Same bug class. Purchase-intent.
+  - **#1382** (/quiz FAQPage JSON-LD) → APPROVE. Quiz is a high-traffic page; FAQPage = AI Overview eligibility.
+  - **#1383** (Gear brand pages SSR meta, ~8 pages) → APPROVE. Same bug class.
+  - **#1384** (Tomas Haake article) → **REJECT — DUPLICATE.** /articles/whats-in-tomas-haakes-kit already live in albumArticles.js (confirmed in GA4 top pages). Creating a second article = cannibalization.
+  - **#1385** (Gene Hoglan drum setup article) → APPROVE. Legend across Death, Dark Angel, Strapping Young Lad, Testament. High TAM. No existing article.
+  - **#1386** (/llms/drummers/<slug>.md Signature Licks section, 63 files) → APPROVE. 100% lick coverage now complete; enriching LLM per-drummer files with lick data is the natural next step for AI citation surface.
+  - **#1387** (Gear item pages 'Drummers Who Use This Gear' section) → APPROVE. Internal linking gear→drummer = PageRank flow + discovery + conversion.
+  - **#1388** (/drummers/<slug>/licks hub FAQPage JSON-LD, ~63 pages) → APPROVE. FAQPage on lick hubs = AI Overview eligibility. Compounds with #1347 (lick JSON-LD SSR, already in queue).
+
+### State delta
+- **Stale issues closed:** 3 (#1300, #1303, #1308). Duplicate PRs closed: 2 (#1393, #1394).
+- **ai-fix queue: 22 → 28** (closed 3 stale from queue; 9 proposals approved).
+- **PR queue: 3 → 0** (merged #1395, closed #1393 + #1394).
+- **No CEO-original issues filed** — queue at 28 is healthy; no gaps beyond what proposals cover.
+
+### Quota check
+✅ SEO proposals: 10/10 triaged (9 approved, 1 rejected as duplicate). ✅ Founder ideas: inbox empty. ✅ GSC-gap: #1380 approved (Joey Jordison article — 128 impr, 0.78% CTR, #1 gap). ✅ Atomic-split: all issues <1 day old. ✅ Decisions logged.
+
+### Next Run (2026-06-18 13:00 mid-day pulse)
+1. **#1346 extendedBios.js bug** — highest-priority fix in queue; watch for Ralph's PR (unblocks CTR for ~40 pages).
+2. **#1347 lick JSON-LD SSR** — 157 pages × VideoObject + HowTo; verify PR ships.
+3. **CTR trajectory** — 1.74% soft; extendedBios fix + article batch need ~5 days indexing to reflect.
+4. **Duplicate PR pattern** — #1377 (PR template auto-close fix) is in queue; once shipped, the "#NNN stale cleanup" pattern should stop.
+
+---
 ## 2026-06-18 19:00 — 100% lick milestone confirmed, 13 stale closed, 8 dupe PRs closed, 9 proposals approved
 
 ### Context

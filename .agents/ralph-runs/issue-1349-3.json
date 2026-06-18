@@ -1,0 +1,7 @@
+{
+  "issue": 1349,
+  "run": 3,
+  "date": "2026-06-18",
+  "status": "already_done",
+  "note": "Handler for path==='/guides' already present at api/meta/[...path].js:399-420. CollectionPage JSON-LD and breadcrumbSchema included. node --check passes. Fix shipped in #1421."
+}

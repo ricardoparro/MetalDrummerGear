@@ -662,6 +662,60 @@ function getMetaForPath(pathname) {
     };
   }
 
+  // Issue #1301: /gear hub
+  if (path === '/gear') {
+    return {
+      title: `Metal Drummer Gear Database — Cymbals, Drums, Pedals & More | ${SITE_NAME}`,
+      description: 'Browse gear used by 60+ legendary metal drummers. Cymbals, snares, drum kits, pedals, sticks, and hardware — filter by brand and drummer.',
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url: `${BASE_URL}/gear`,
+    };
+  }
+
+  // Issue #1301: /gear/<category> — 6 browsable category pages
+  const GEAR_CATEGORY_META = {
+    cymbals: {
+      name: 'Metal Cymbals',
+      description: 'Cymbals used by 60+ metal legends — Zildjian, Paiste, Meinl, Sabian. Filter by brand, price, and drummer.',
+    },
+    snares: {
+      name: 'Metal Snare Drums',
+      description: 'Snare drums used by pro metal drummers. Signature models, custom builds, and budget options — filter by brand and drummer.',
+    },
+    drums: {
+      name: 'Metal Drum Kits',
+      description: 'Full drum kits used by legendary metal drummers. Tama, Pearl, DW, Ludwig — filter by brand, genre, and price.',
+    },
+    pedals: {
+      name: 'Metal Bass Drum Pedals',
+      description: 'Double bass pedals and single pedals used by metal drummers. Speed plate comparisons, signature models, and pro setups.',
+    },
+    sticks: {
+      name: 'Metal Drumsticks',
+      description: 'Drumsticks used by pro metal drummers. Signature models, wood tips, nylon tips — filter by brand and drummer.',
+    },
+    hardware: {
+      name: 'Metal Drum Hardware',
+      description: 'Drum hardware used by metal drummers — hi-hat stands, snare stands, bass drum mounts, and rack systems.',
+    },
+  };
+
+  const gearCategoryMatch = path.match(/^\/gear\/([a-z-]+)$/);
+  if (gearCategoryMatch && !gearCategoryMatch[1].startsWith('item')) {
+    const catSlug = gearCategoryMatch[1];
+    const catMeta = GEAR_CATEGORY_META[catSlug];
+    if (catMeta) {
+      return {
+        title: `Best ${catMeta.name} for Metal — What the Pros Use | ${SITE_NAME}`,
+        description: catMeta.description,
+        image: DEFAULT_IMAGE,
+        type: 'website',
+        url: `${BASE_URL}/gear/${catSlug}`,
+      };
+    }
+  }
+
   // Issue #1266: /drummer/<slug>/<category> gear category pages (~90 pages)
   const drummerCategoryMatch = path.match(/^\/drummer\/([a-z0-9-]+)\/([a-z0-9-]+)$/);
   if (drummerCategoryMatch) {

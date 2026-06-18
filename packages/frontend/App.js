@@ -22817,14 +22817,17 @@ function AppContent() {
     setSearchValue(text);
     setShowSuggestions(true);
     // Non-blocking: Schedule filter update in transition
+    // Use functional update so we don't capture `filters` in the closure —
+    // this keeps handleSearchChange a stable ref (empty dep array) and
+    // prevents a second listHeader useMemo invalidation per keystroke.
     startTransition(() => {
-      setFilters(currentFilters => ({
-        ...currentFilters,
-        search: text
-      }));
-      updateFiltersURL({ ...filters, search: text });
+      setFilters(currentFilters => {
+        const newFilters = { ...currentFilters, search: text };
+        updateFiltersURL(newFilters);
+        return newFilters;
+      });
     });
-  }, [filters]);
+  }, []);
 
   // Handle search clear
   const handleSearchClear = useCallback(() => {

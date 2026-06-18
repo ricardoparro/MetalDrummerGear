@@ -19990,6 +19990,24 @@ function updateDrummerVsMeta(comparison, drummer1, drummer2) {
       }
     };
     ldScript.textContent = JSON.stringify(indexSchema);
+
+    // BreadcrumbList Schema for /vs hub
+    let breadcrumbScript = document.querySelector('script[data-schema="drummer-comparison-breadcrumb"]');
+    if (!breadcrumbScript) {
+      breadcrumbScript = document.createElement('script');
+      breadcrumbScript.type = 'application/ld+json';
+      breadcrumbScript.setAttribute('data-schema', 'drummer-comparison-breadcrumb');
+      document.head.appendChild(breadcrumbScript);
+    }
+    const breadcrumbSchema = {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://metalforge.io" },
+        { "@type": "ListItem", "position": 2, "name": "Comparisons", "item": "https://metalforge.io/vs" }
+      ]
+    };
+    breadcrumbScript.textContent = JSON.stringify(breadcrumbSchema);
   }
 }
 

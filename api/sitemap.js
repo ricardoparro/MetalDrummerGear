@@ -525,6 +525,8 @@ export default function handler(req, res) {
       'navene-koperweis', 'nicko-mcbrain', 'paul-bostaph', 'paul-mazurkiewicz', 'ray-luzier',
       'raymond-herrera', 'richard-christy', 'scott-travis', 'shannon-larkin', 'travis-orbin',
       'vinnie-paul', 'frost', 'daray',
+      // Issue #1248: Chris Turner + Isaac Lamb (100% lick coverage).
+      'chris-turner', 'isaac-lamb',
     ].map(slug => ({ loc: `/llms/licks/${slug}.md`, priority: '0.5', changefreq: 'monthly' }))),
     // Issue #1271: per-series LLM Markdown files for AI citation.
     // Slugs derived from GEAR_INDEX (same slugifyGearSeries logic used for HTML pages)

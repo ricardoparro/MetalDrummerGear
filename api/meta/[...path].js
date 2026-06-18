@@ -212,6 +212,16 @@ function getMetaForPath(pathname) {
     };
   }
 
+  if (path === '/stats/gear-insights') {
+    return {
+      title: `Metal Drummer Gear Stats & Insights — Brand Usage Data | ${SITE_NAME}`,
+      description: 'Real data: which drum brands, cymbals, and pedals are most popular among 60+ pro metal drummers. Usage percentages, trends, and brand breakdowns.',
+      image: `${BASE_URL}/images/og/stats-preview.png`,
+      type: 'website',
+      url: `${BASE_URL}/stats/gear-insights`,
+    };
+  }
+
   // Drummers list
   if (path === '/drummers') {
     return {

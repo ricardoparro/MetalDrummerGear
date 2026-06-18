@@ -263,6 +263,28 @@ function getMetaForPath(pathname) {
           { name: 'Drummer Comparisons', url: `${BASE_URL}/vs` },
           { name: `${drummer1.name} vs ${drummer2.name}`, url: `${BASE_URL}/vs/${slug1}-vs-${slug2}` },
         ],
+        faqSchema: [
+          {
+            question: `What drum kit does ${drummer1.name} use?`,
+            answer: `${drummer1.name} (${drummer1.band}) uses ${drummer1.gear?.drums || 'a custom drum kit'}.`,
+          },
+          {
+            question: `What drum kit does ${drummer2.name} use?`,
+            answer: `${drummer2.name} (${drummer2.band}) uses ${drummer2.gear?.drums || 'a custom drum kit'}.`,
+          },
+          {
+            question: `What cymbals does ${drummer1.name} use?`,
+            answer: `${drummer1.name} uses ${drummer1.gear?.cymbals || 'Zildjian cymbals'}.`,
+          },
+          {
+            question: `What cymbals does ${drummer2.name} use?`,
+            answer: `${drummer2.name} uses ${drummer2.gear?.cymbals || 'Zildjian cymbals'}.`,
+          },
+          {
+            question: `How does ${drummer1.name}'s gear compare to ${drummer2.name}?`,
+            answer: `${drummer1.name} (${drummer1.band}) plays ${drummer1.gear?.drums || 'a custom drum kit'} with ${drummer1.gear?.cymbals || 'cymbals'}, while ${drummer2.name} (${drummer2.band}) plays ${drummer2.gear?.drums || 'a custom drum kit'} with ${drummer2.gear?.cymbals || 'cymbals'}.`,
+          },
+        ],
       };
     }
   }

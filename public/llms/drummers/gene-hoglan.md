@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/gene-hoglan"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Gene Hoglan — Drum Kit & Gear Setup
@@ -91,10 +91,20 @@ A: Yes, Gene drummed on Death's albums "Individual Thought Patterns" (1993) and 
 >
 > — Revolver Magazine (2016)
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Gene Hoglan:
+
+- [The Philosopher Groove](https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-the-philosopher-groove)
+- [Crystal Mountain Groove](https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-crystal-mountain-groove)
+- [Zero Tolerance Groove](https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-zero-tolerance-groove)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Gene Hoglan on MetalForge](https://metalforge.io/drummer/gene-hoglan)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

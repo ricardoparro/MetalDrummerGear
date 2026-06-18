@@ -6,7 +6,7 @@ country: "Canada"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/ryan-van-poederooyen"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Ryan Van Poederooyen — Drum Kit & Gear Setup
@@ -77,10 +77,20 @@ A: Ryan Van Poederooyen drums for Devin Townsend Project, a progressive metal / 
 >
 > — Canadian Musician (2018)
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Ryan Van Poederooyen:
+
+- [Higher Progressive Groove](https://metalforge.io/drummers/ryan-van-poederooyen/licks/ryan-van-poederooyen-higher-groove)
+- [Ziltoid Goes Home Odd-Meter Polyrhythm](https://metalforge.io/drummers/ryan-van-poederooyen/licks/ryan-van-poederooyen-ziltoid-odd-meter)
+- [Transcendence Studio Prog Fill](https://metalforge.io/drummers/ryan-van-poederooyen/licks/ryan-van-poederooyen-transcendence-prog-fill)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Ryan Van Poederooyen on MetalForge](https://metalforge.io/drummer/ryan-van-poederooyen)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

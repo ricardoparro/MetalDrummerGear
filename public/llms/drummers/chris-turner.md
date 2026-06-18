@@ -6,7 +6,7 @@ country: "UK"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/chris-turner"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Chris Turner — Drum Kit & Gear Setup
@@ -71,10 +71,20 @@ A: Chris Turner is known for his extreme technical precision, viral drumming vid
 
 A: Chris Turner is capable of playing extremely fast double bass patterns (200+ BPM) while maintaining clarity and groove.
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Chris Turner:
+
+- [Hansha — Polyrhythmic Metalcore Architecture](https://metalforge.io/drummers/chris-turner/licks/chris-turner-hansha-polyrhythm)
+- [Escapist — Technical Double-Bass Drive](https://metalforge.io/drummers/chris-turner/licks/chris-turner-escapist-double-bass)
+- [Metamorph — Mathcore Odd-Time Precision](https://metalforge.io/drummers/chris-turner/licks/chris-turner-metamorph-odd-time)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Chris Turner on MetalForge](https://metalforge.io/drummer/chris-turner)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

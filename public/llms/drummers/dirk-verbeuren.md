@@ -6,7 +6,7 @@ country: "Belgium"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/dirk-verbeuren"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Dirk Verbeuren — Drum Kit & Gear Setup
@@ -79,10 +79,20 @@ A: Dirk Verbeuren drums for Megadeth, a thrash metal / melodic death metal band.
 >
 > — Drumeo (2019)
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Dirk Verbeuren:
+
+- [We'll Be Back / Tipping Point Thrash Drive](https://metalforge.io/drummers/dirk-verbeuren/licks/dirk-verbeuren-tipping-point)
+- [Mechanix Thrash Speed Workout](https://metalforge.io/drummers/dirk-verbeuren/licks/dirk-verbeuren-mechanix)
+- [King of the Threshold Blast Masterclass](https://metalforge.io/drummers/dirk-verbeuren/licks/dirk-verbeuren-king-of-the-threshold)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Dirk Verbeuren on MetalForge](https://metalforge.io/drummer/dirk-verbeuren)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

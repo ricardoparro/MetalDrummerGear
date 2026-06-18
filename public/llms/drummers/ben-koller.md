@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/ben-koller"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Ben Koller — Drum Kit & Gear Setup
@@ -74,10 +74,20 @@ A: Ben Koller plays Tama Starclassic drums with Zildjian cymbals and Tama Iron C
 
 A: Ben Koller joined Converge in 1999, replacing original drummer Damon Bellorado.
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Ben Koller:
+
+- [Concubine Grind Assault](https://metalforge.io/drummers/ben-koller/licks/ben-koller-concubine-grind)
+- [Dark Horse Driving Fills](https://metalforge.io/drummers/ben-koller/licks/ben-koller-dark-horse-fills)
+- [Aimless Arrow Hardcore Drive](https://metalforge.io/drummers/ben-koller/licks/ben-koller-aimless-arrow-hardcore)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Ben Koller on MetalForge](https://metalforge.io/drummer/ben-koller)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

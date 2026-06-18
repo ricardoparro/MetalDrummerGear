@@ -6,7 +6,7 @@ country: "UK"
 primary_brand: "Ludwig"
 profile_url: "https://metalforge.io/drummer/bill-ward"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Bill Ward — Drum Kit & Gear Setup
@@ -66,10 +66,20 @@ A: Bill Ward uses Paiste 2002 & Giant Beat Series (15" Giant Beat Hi-Hats, 18" &
 
 A: Bill Ward drums for Black Sabbath, a heavy metal / hard rock / blues rock band.
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Bill Ward:
+
+- [War Pigs Swinging Half-Time Groove](https://metalforge.io/drummers/bill-ward/licks/bill-ward-war-pigs-groove)
+- [Iron Man Intro & Verse Groove](https://metalforge.io/drummers/bill-ward/licks/bill-ward-iron-man-groove)
+- [N.I.B. Blues-Shuffle Feel](https://metalforge.io/drummers/bill-ward/licks/bill-ward-nib-shuffle)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Bill Ward on MetalForge](https://metalforge.io/drummer/bill-ward)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

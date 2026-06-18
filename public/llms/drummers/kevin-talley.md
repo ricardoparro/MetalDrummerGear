@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/kevin-talley"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Kevin Talley — Drum Kit & Gear Setup
@@ -70,10 +70,20 @@ A: Kevin Talley uses Sabian AAX Series (14" Stage Hi-Hats, 17" & 18" X-Plosion C
 
 A: Kevin Talley drums for Dying Fetus / Misery Index / Six Feet Under, a brutal death metal / grindcore band.
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Kevin Talley:
+
+- [Epidemic of Hate Gravity Blast](https://metalforge.io/drummers/kevin-talley/licks/kevin-talley-epidemic-of-hate-gravity-blast)
+- [Killing on Adrenaline Two-Handed Blast](https://metalforge.io/drummers/kevin-talley/licks/kevin-talley-killing-on-adrenaline-two-handed-blast)
+- [Destroy the Opposition Groove Breakdown](https://metalforge.io/drummers/kevin-talley/licks/kevin-talley-destroy-the-opposition-groove)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Kevin Talley on MetalForge](https://metalforge.io/drummer/kevin-talley)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

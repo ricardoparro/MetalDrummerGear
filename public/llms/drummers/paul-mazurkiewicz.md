@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/paul-mazurkiewicz"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Paul Mazurkiewicz — Drum Kit & Gear Setup
@@ -65,10 +65,20 @@ A: Paul Mazurkiewicz uses Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plos
 
 A: Paul Mazurkiewicz drums for Cannibal Corpse, a death metal band.
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Paul Mazurkiewicz:
+
+- [Hammer Smashed Face Blast & Groove Blueprint](https://metalforge.io/drummers/paul-mazurkiewicz/licks/paul-mazurkiewicz-hammer-smashed-face)
+- [Tomb of the Mutilated Double-Bass Assault](https://metalforge.io/drummers/paul-mazurkiewicz/licks/paul-mazurkiewicz-tomb-of-the-mutilated)
+- [Evisceration Plague Death-Metal Pocket Groove](https://metalforge.io/drummers/paul-mazurkiewicz/licks/paul-mazurkiewicz-evisceration-plague)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Paul Mazurkiewicz on MetalForge](https://metalforge.io/drummer/paul-mazurkiewicz)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

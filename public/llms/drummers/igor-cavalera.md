@@ -6,7 +6,7 @@ country: "Brazil"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/igor-cavalera"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Igor Cavalera — Drum Kit & Gear Setup
@@ -69,10 +69,20 @@ A: Igor Cavalera uses Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUD
 
 A: Igor Cavalera drums for Sepultura / Cavalera Conspiracy / Soulwax, a thrash metal / groove metal / death metal band.
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Igor Cavalera:
+
+- [Roots Bloody Roots Tribal Groove](https://metalforge.io/drummers/igor-cavalera/licks/igor-cavalera-roots-bloody-roots-tribal-groove)
+- [Refuse/Resist Double-Bass Drive](https://metalforge.io/drummers/igor-cavalera/licks/igor-cavalera-refuse-resist-double-bass)
+- [Beneath the Remains Thrash-Blast Section](https://metalforge.io/drummers/igor-cavalera/licks/igor-cavalera-beneath-the-remains-blast)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Igor Cavalera on MetalForge](https://metalforge.io/drummer/igor-cavalera)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

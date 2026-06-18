@@ -6,7 +6,7 @@ country: "Poland"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/daray"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Daray — Drum Kit & Gear Setup
@@ -67,10 +67,20 @@ A: Daray uses Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 17" & 18" RUDE Crashe
 
 A: Daray drums for Dimmu Borgir / Vader, a black metal / death metal band.
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Daray:
+
+- [Gateways — Technical Blast in Orchestral Context](https://metalforge.io/drummers/daray/licks/daray-gateways-blast)
+- [Progenies of the Great Apocalypse — Live Double Bass Command](https://metalforge.io/drummers/daray/licks/daray-progenies-double-bass)
+- [Council of Wolves and Snakes — Groove Architecture in Symphonic Metal](https://metalforge.io/drummers/daray/licks/daray-council-of-wolves-groove)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Daray on MetalForge](https://metalforge.io/drummer/daray)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

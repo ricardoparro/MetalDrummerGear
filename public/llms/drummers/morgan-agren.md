@@ -4,9 +4,9 @@ band: "Mats/Morgan Band / Kaipa / Fredrik Thordendal's Special Defects"
 genre: "Progressive Rock / Progressive Metal / Jazz Fusion"
 country: "Sweden"
 primary_brand: "Sonor"
-profile_url: "https://metalforge.io/drummer/morgan-gren"
+profile_url: "https://metalforge.io/drummer/morgan-agren"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Morgan Ågren — Drum Kit & Gear Setup
@@ -29,6 +29,10 @@ Morgan Ågren's drum kit and gear setup. Morgan Ågren is a professional metal d
 ## Biography
 
 Morgan Ågren (born July 13, 1967) is a Swedish drummer renowned for his extraordinary technical ability and complex polyrhythmic playing. He began drumming as a child and formed the Mats/Morgan Band with keyboardist Mats Öberg in 1981, performing Frank Zappa's music. Ågren has collaborated with Dweezil and Ahmet Zappa, recorded the legendary Sol Niger Within album with Meshuggah's Fredrik Thordendal, and has been a member of progressive rock band Kaipa since 2002. He's also worked with Devin Townsend on Casualties of Cool and Empath. A documentary about him, "Morgan Ågren's Conundrum: A Percussive Misadventure," was released in 2013.
+
+Morgan Ågren (born November 4, 1967, in Umeå, Sweden) is a Swedish drummer and multi-instrumentalist renowned for his extraordinary technical ability and musical versatility. A child prodigy who was performing professionally by age 13, Ågren gained international recognition for his work with Frank Zappa's band in 1988 and later with Devin Townsend Project.
+
+Ågren's drumming combines jazz fusion sophistication with rock power, making him one of the most technically accomplished drummers in progressive music. His work with the Mats/Morgan Band alongside keyboardist Mats Öberg showcases his incredible improvisational abilities and compositional skills.
 
 ## Gear
 
@@ -59,10 +63,20 @@ A: Morgan Ågren uses Paiste Signature & 2002 Series (14" Signature Heavy Hi-Hat
 
 A: Morgan Ågren drums for Mats/Morgan Band / Kaipa / Fredrik Thordendal's Special Defects, a progressive rock / progressive metal / jazz fusion band.
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Morgan Ågren:
+
+- [Sprite Metric Modulation Study](https://metalforge.io/drummers/morgan-agren/licks/morgan-agren-sprite-metric-modulation)
+- [Odd-Meter Improvisation Study](https://metalforge.io/drummers/morgan-agren/licks/morgan-agren-odd-meter-improvisation)
+- [Neyveli Prog Groove Performance](https://metalforge.io/drummers/morgan-agren/licks/morgan-agren-neyveli-prog-groove)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
-**Full interactive profile:** [Morgan Ågren on MetalForge](https://metalforge.io/drummer/morgan-gren)
+**Full interactive profile:** [Morgan Ågren on MetalForge](https://metalforge.io/drummer/morgan-agren)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

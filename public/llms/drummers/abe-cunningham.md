@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "SJC"
 profile_url: "https://metalforge.io/drummer/abe-cunningham"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Abe Cunningham — Drum Kit & Gear Setup
@@ -77,10 +77,20 @@ A: Abe Cunningham drums for Deftones, a alternative metal / nu metal band.
 >
 > — Rhythm Magazine (2016)
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Abe Cunningham:
+
+- [Digital Bath Dynamic Restraint](https://metalforge.io/drummers/abe-cunningham/licks/abe-cunningham-digital-bath-groove)
+- [My Own Summer Power Groove](https://metalforge.io/drummers/abe-cunningham/licks/abe-cunningham-my-own-summer-groove)
+- [Change Minimalist Alt-Metal Groove](https://metalforge.io/drummers/abe-cunningham/licks/abe-cunningham-change-groove)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Abe Cunningham on MetalForge](https://metalforge.io/drummer/abe-cunningham)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

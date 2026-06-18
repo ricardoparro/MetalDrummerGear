@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Orange"
 profile_url: "https://metalforge.io/drummer/john-otto"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # John Otto — Drum Kit & Gear Setup
@@ -67,10 +67,20 @@ A: John Otto uses Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom
 
 A: John Otto drums for Limp Bizkit, a nu metal / rap metal band.
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for John Otto:
+
+- [Break Stuff Nu-Metal Groove](https://metalforge.io/drummers/john-otto/licks/john-otto-break-stuff-groove)
+- [Rollin' Hip-Hop Metal Groove](https://metalforge.io/drummers/john-otto/licks/john-otto-rollin-groove)
+- [Nookie Signature Fill and Breakdown](https://metalforge.io/drummers/john-otto/licks/john-otto-nookie-fill)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [John Otto on MetalForge](https://metalforge.io/drummer/john-otto)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

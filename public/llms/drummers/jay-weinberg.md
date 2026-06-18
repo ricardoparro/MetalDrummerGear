@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "SJC"
 profile_url: "https://metalforge.io/drummer/jay-weinberg"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Jay Weinberg — Drum Kit & Gear Setup
@@ -70,10 +70,20 @@ A: Jay Weinberg uses Zildjian (14" A New Beat Hi-Hats, 18" & 19" A Custom Crashe
 
 A: Jay Weinberg drums for Suicidal Tendencies, a hardcore / thrash crossover band.
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Jay Weinberg:
+
+- [Unsainted Driving Groove & Double Bass](https://metalforge.io/drummers/jay-weinberg/licks/jay-weinberg-unsainted)
+- [The Devil in I Groove & Dynamics](https://metalforge.io/drummers/jay-weinberg/licks/jay-weinberg-the-devil-in-i)
+- [Duality Live Groove Powerhouse](https://metalforge.io/drummers/jay-weinberg/licks/jay-weinberg-duality)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Jay Weinberg on MetalForge](https://metalforge.io/drummer/jay-weinberg)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

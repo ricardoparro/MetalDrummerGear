@@ -6,7 +6,7 @@ country: "Finland"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/jaska-raatikainen"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Jaska Raatikainen — Drum Kit & Gear Setup
@@ -67,10 +67,20 @@ A: Jaska Raatikainen uses Zildjian A Custom & K Custom Series (14" A Custom Hi-H
 
 A: Jaska Raatikainen drums for Children of Bodom, a melodic death metal / power metal band.
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Jaska Raatikainen:
+
+- [Sixpounder Double Bass Drive](https://metalforge.io/drummers/jaska-raatikainen/licks/jaska-raatikainen-sixpounder-double-bass)
+- [Lake Bodom Driving Fills](https://metalforge.io/drummers/jaska-raatikainen/licks/jaska-raatikainen-lake-bodom-fills)
+- [Hate Crew Deathroll Double-Bass Assault](https://metalforge.io/drummers/jaska-raatikainen/licks/jaska-raatikainen-hate-crew-deathroll-blast)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Jaska Raatikainen on MetalForge](https://metalforge.io/drummer/jaska-raatikainen)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

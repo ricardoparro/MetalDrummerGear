@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/jocke-wallgren"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Jocke Wallgren — Drum Kit & Gear Setup
@@ -67,10 +67,20 @@ A: Jocke Wallgren uses Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats
 
 A: Jocke Wallgren drums for Amon Amarth, a melodic death metal / viking metal band.
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Jocke Wallgren:
+
+- [Twilight of the Thunder God Double Bass Run](https://metalforge.io/drummers/jocke-wallgren/licks/jocke-wallgren-twilight-double-bass)
+- [Runes to My Memory Melodic Death Groove](https://metalforge.io/drummers/jocke-wallgren/licks/jocke-wallgren-runes-to-my-memory-groove)
+- [Fafner's Gold Blast Beat Section](https://metalforge.io/drummers/jocke-wallgren/licks/jocke-wallgren-fafners-gold-blast)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Jocke Wallgren on MetalForge](https://metalforge.io/drummer/jocke-wallgren)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

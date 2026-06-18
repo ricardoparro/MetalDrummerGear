@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Yamaha"
 profile_url: "https://metalforge.io/drummer/mikkey-dee"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Mikkey Dee — Drum Kit & Gear Setup
@@ -80,10 +80,20 @@ A: Mikkey Dee drums for Scorpions / Motörhead, a heavy metal / hard rock band.
 >
 > — Modern Drummer (2012)
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Mikkey Dee:
+
+- [Ace of Spades Driving Power](https://metalforge.io/drummers/mikkey-dee/licks/mikkey-dee-ace-of-spades)
+- [Overkill Double-Bass Freight Train](https://metalforge.io/drummers/mikkey-dee/licks/mikkey-dee-overkill)
+- [Killed by Death Groove & Stamina](https://metalforge.io/drummers/mikkey-dee/licks/mikkey-dee-killed-by-death)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Mikkey Dee on MetalForge](https://metalforge.io/drummer/mikkey-dee)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

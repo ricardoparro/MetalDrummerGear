@@ -6,7 +6,7 @@ country: "Poland"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/inferno"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Inferno — Drum Kit & Gear Setup
@@ -68,10 +68,20 @@ A: Inferno uses Paiste RUDE Series (14" Hi-Hats, 14" Blast China, 18" & 19" Cras
 
 A: Inferno drums for Behemoth, a black/death metal band.
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Inferno:
+
+- [Conquer All Blast Beat Mastery](https://metalforge.io/drummers/inferno/licks/inferno-conquer-all-blast)
+- [Blow Your Trumpets Gabriel — Dynamic Blast Architecture](https://metalforge.io/drummers/inferno/licks/inferno-blow-trumpets-gabriel)
+- [The Satanist — Compositional Double Bass & Blast](https://metalforge.io/drummers/inferno/licks/inferno-the-satanist-double-bass)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Inferno on MetalForge](https://metalforge.io/drummer/inferno)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

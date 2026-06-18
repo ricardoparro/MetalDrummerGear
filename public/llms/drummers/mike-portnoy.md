@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/mike-portnoy"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Mike Portnoy — Drum Kit & Gear Setup
@@ -93,10 +93,20 @@ A: Mike attended Berklee College of Music where Dream Theater was formed.
 >
 > — Drum! Magazine (2012)
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Mike Portnoy:
+
+- [The Dance of Eternity](https://metalforge.io/drummers/mike-portnoy/licks/mike-portnoy-dance-of-eternity)
+- [Pull Me Under Groove & Fills](https://metalforge.io/drummers/mike-portnoy/licks/mike-portnoy-pull-me-under-groove)
+- [Panic Attack Double Bass Assault](https://metalforge.io/drummers/mike-portnoy/licks/mike-portnoy-panic-attack-double-bass)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Mike Portnoy on MetalForge](https://metalforge.io/drummer/mike-portnoy)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

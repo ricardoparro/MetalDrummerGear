@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "ddrum"
 profile_url: "https://metalforge.io/drummer/pete-sandoval"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Pete Sandoval — Drum Kit & Gear Setup
@@ -68,10 +68,20 @@ A: Pete Sandoval uses Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion 
 
 A: Pete Sandoval drums for Morbid Angel, a death metal band.
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Pete Sandoval:
+
+- [Chapel of Ghouls Blast-Beat Blueprint](https://metalforge.io/drummers/pete-sandoval/licks/pete-sandoval-chapel-of-ghouls)
+- [Immortal Rites Death-Metal Speed Study](https://metalforge.io/drummers/pete-sandoval/licks/pete-sandoval-immortal-rites)
+- [Dominate Blast & Double-Bass Onslaught](https://metalforge.io/drummers/pete-sandoval/licks/pete-sandoval-dominate)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Pete Sandoval on MetalForge](https://metalforge.io/drummer/pete-sandoval)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

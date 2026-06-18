@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/charlie-benante"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Charlie Benante — Drum Kit & Gear Setup
@@ -69,10 +69,20 @@ A: Charlie Benante uses Paiste RUDE & 2002 Series (14" Hi-Hats, 18" & 19" Crashe
 
 A: Charlie Benante drums for Anthrax / S.O.D. / Pantera, a thrash metal band.
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Charlie Benante:
+
+- [Caught in a Mosh Syncopated Groove](https://metalforge.io/drummers/charlie-benante/licks/charlie-benante-caught-in-a-mosh-groove)
+- [Madhouse Thrash Groove](https://metalforge.io/drummers/charlie-benante/licks/charlie-benante-madhouse-thrash-groove)
+- [Indians War Dance Breakdown](https://metalforge.io/drummers/charlie-benante/licks/charlie-benante-indians-war-dance)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Charlie Benante on MetalForge](https://metalforge.io/drummer/charlie-benante)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

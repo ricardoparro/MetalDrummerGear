@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Mapex"
 profile_url: "https://metalforge.io/drummer/jason-bittner"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Jason Bittner — Drum Kit & Gear Setup
@@ -80,10 +80,20 @@ A: Jason Bittner drums for Shadows Fall / Overkill / Category 7, a thrash metal 
 >
 > — Drumeo Interview (2018)
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Jason Bittner:
+
+- [The Light That Blinds Opening Groove](https://metalforge.io/drummers/jason-bittner/licks/jason-bittner-light-that-blinds-groove)
+- [What Drives the Weak Metalcore Fill Sequence](https://metalforge.io/drummers/jason-bittner/licks/jason-bittner-what-drives-the-weak-fill)
+- [Overkill Thrash Double Bass Run](https://metalforge.io/drummers/jason-bittner/licks/jason-bittner-overkill-double-bass-run)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Jason Bittner on MetalForge](https://metalforge.io/drummer/jason-bittner)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

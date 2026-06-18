@@ -6,7 +6,7 @@ country: "Brazil"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/eloy-casagrande"
 source: "https://metalforge.io"
-last_updated: "2026-06-16"
+last_updated: "2026-06-18"
 ---
 
 # Eloy Casagrande — Drum Kit & Gear Setup
@@ -77,10 +77,20 @@ A: Eloy was born on August 25, 1991, in São Paulo, Brazil.
 
 A: Eloy was named #1 metal drummer in the Modern Drummer 2024 Readers' Poll.
 
+## Signature Licks on MetalForge
+
+MetalForge has 3 signature lick tutorial(s) for Eloy Casagrande:
+
+- [Means To An End Groove](https://metalforge.io/drummers/eloy-casagrande/licks/eloy-casagrande-means-to-an-end-groove)
+- [Isolation Blast & Double Bass](https://metalforge.io/drummers/eloy-casagrande/licks/eloy-casagrande-isolation-blast)
+- [Arise Double Bass Drive](https://metalforge.io/drummers/eloy-casagrande/licks/eloy-casagrande-arise-double-bass)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Eloy Casagrande on MetalForge](https://metalforge.io/drummer/eloy-casagrande)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*

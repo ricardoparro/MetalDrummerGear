@@ -5334,7 +5334,12 @@ function GearSection({ title, content, theme, gearType, drummerName, drummerSlug
   };
 
   const handleShopPress = (url, store) => {
-    // Open in new tab for web, use Linking for native
+    trackEvent('gear_click', {
+      gear_name: primaryProduct,
+      gear_type: gearType,
+      store: store.toLowerCase(),
+      drummer_slug: drummerSlug || '',
+    });
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
       window.open(url, '_blank', 'noopener,noreferrer');
     } else {
@@ -5382,7 +5387,7 @@ function GearSection({ title, content, theme, gearType, drummerName, drummerSlug
           accessibilityRole="link"
           accessibilityLabel={`Shop ${primaryProduct} at Sweetwater (US)`}
         >
-          <Text style={styles.shopButtonText}>Shop US</Text>
+          <Text style={styles.shopButtonText}>Shop on Sweetwater</Text>
         </TouchableOpacity>
         <TouchableOpacity
           onPress={() => handleShopPress(affiliateLinks.thomann, 'Thomann')}
@@ -5390,7 +5395,7 @@ function GearSection({ title, content, theme, gearType, drummerName, drummerSlug
           accessibilityRole="link"
           accessibilityLabel={`Shop ${primaryProduct} at Thomann (EU)`}
         >
-          <Text style={styles.shopButtonText}>Shop EU</Text>
+          <Text style={styles.shopButtonText}>Shop on Thomann</Text>
         </TouchableOpacity>
       </View>
     </View>

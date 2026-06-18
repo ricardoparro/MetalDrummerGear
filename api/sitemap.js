@@ -492,6 +492,8 @@ export default function handler(req, res) {
     { loc: '/llms/techniques.md', priority: '0.6', changefreq: 'monthly' },
     // Issue #1173: bands + drummer-history reference as ingestible markdown.
     { loc: '/llms/bands.md', priority: '0.6', changefreq: 'monthly' },
+    // Issue #1309: gear price timeline data for Lars Ulrich, Joey Jordison, Dave Lombardo.
+    { loc: '/llms/gear-history.md', priority: '0.5', changefreq: 'monthly' },
     // Issue #1190: drummer comparison pages as ingestible markdown.
     { loc: '/llms/comparisons.md', priority: '0.6', changefreq: 'monthly' },
     // Issue #1222: top-10 ranked lists as ingestible markdown for AI citation.

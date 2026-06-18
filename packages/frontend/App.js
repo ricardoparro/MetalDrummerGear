@@ -1768,6 +1768,95 @@ function MostPopularGear({ theme, onSelectDrummer }) {
 }
 
 // ==========================================
+// POPULAR BRANDS SECTION - Issue #1236
+// Links to brand landing pages for drums and cymbals
+// ==========================================
+
+const POPULAR_BRANDS = [
+  { slug: 'tama',     name: 'Tama',     type: 'drums' },
+  { slug: 'pearl',    name: 'Pearl',    type: 'drums' },
+  { slug: 'dw',       name: 'DW',       type: 'drums' },
+  { slug: 'ludwig',   name: 'Ludwig',   type: 'drums' },
+  { slug: 'zildjian', name: 'Zildjian', type: 'cymbals' },
+  { slug: 'paiste',   name: 'Paiste',   type: 'cymbals' },
+  { slug: 'meinl',    name: 'Meinl',    type: 'cymbals' },
+  { slug: 'sabian',   name: 'Sabian',   type: 'cymbals' },
+];
+
+function PopularBrands({ theme }) {
+  const drumBrands = POPULAR_BRANDS.filter(b => b.type === 'drums');
+  const cymbalBrands = POPULAR_BRANDS.filter(b => b.type === 'cymbals');
+
+  const navigateToBrand = (slug) => {
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', `/brands/${slug}`);
+      window.dispatchEvent(new PopStateEvent('popstate'));
+    }
+  };
+
+  const renderChip = (brand) => {
+    const chipStyle = [styles.popularBrandChip, { backgroundColor: theme.card, borderColor: theme.border }];
+    const labelStyle = [styles.popularBrandChipLabel, { color: theme.text }];
+    if (Platform.OS === 'web') {
+      return (
+        <a
+          key={brand.slug}
+          href={`/brands/${brand.slug}`}
+          onClick={(e) => { e.preventDefault(); navigateToBrand(brand.slug); }}
+          style={{ textDecoration: 'none' }}
+          aria-label={`${brand.name} ${brand.type === 'drums' ? 'drums' : 'cymbals'} brand page`}
+        >
+          <View style={chipStyle}>
+            <Text style={labelStyle}>{brand.name}</Text>
+          </View>
+        </a>
+      );
+    }
+    return (
+      <TouchableOpacity
+        key={brand.slug}
+        onPress={() => navigateToBrand(brand.slug)}
+        accessibilityRole="link"
+        accessibilityLabel={`${brand.name} ${brand.type === 'drums' ? 'drums' : 'cymbals'} brand page`}
+      >
+        <View style={chipStyle}>
+          <Text style={labelStyle}>{brand.name}</Text>
+        </View>
+      </TouchableOpacity>
+    );
+  };
+
+  return (
+    <View
+      style={[styles.popularBrandsSection, { backgroundColor: 'transparent' }]}
+      accessibilityRole="region"
+      accessibilityLabel="Popular Brands"
+    >
+      <View style={styles.popularBrandsHeader}>
+        <Text style={[styles.popularBrandsTitle, { color: theme.text }]} accessibilityRole="header">
+          🏷️ Popular Brands
+        </Text>
+        <Text style={[styles.popularBrandsSubtitle, { color: theme.secondaryText }]}>
+          Explore gear by brand
+        </Text>
+      </View>
+      <View style={styles.popularBrandsGroup}>
+        <Text style={[styles.popularBrandsGroupLabel, { color: theme.secondaryText }]}>Drums</Text>
+        <View style={styles.popularBrandsRow}>
+          {drumBrands.map(renderChip)}
+        </View>
+      </View>
+      <View style={[styles.popularBrandsGroup, { marginTop: 12 }]}>
+        <Text style={[styles.popularBrandsGroupLabel, { color: theme.secondaryText }]}>Cymbals</Text>
+        <View style={styles.popularBrandsRow}>
+          {cymbalBrands.map(renderChip)}
+        </View>
+      </View>
+    </View>
+  );
+}
+
+// ==========================================
 // TRENDING THIS WEEK SECTION - Top drummers by page views (Issue #671)
 // ==========================================
 
@@ -17919,7 +18008,10 @@ function DrummerList({
       
       {/* Most Popular Gear Section (Issue #640) */}
       <MostPopularGear theme={theme} onSelectDrummer={onSelectDrummer} />
-      
+
+      {/* Popular Brands Section (Issue #1236) */}
+      <PopularBrands theme={theme} />
+
       {/* Filter Bar - directly above drummer grid, sticky while grid is in view (Issue #1233) */}
       <View style={Platform.select({ web: { position: 'sticky', top: 0, zIndex: 100 } })}>
         <FilterBar
@@ -35319,6 +35411,48 @@ const styles = StyleSheet.create({
     fontSize: fontSize.xs,
     textAlign: 'center',
     lineHeight: 18,
+  },
+
+  // Popular Brands Section (Issue #1236)
+  popularBrandsSection: {
+    marginVertical: 24,
+    paddingHorizontal: 20,
+  },
+  popularBrandsHeader: {
+    marginBottom: 16,
+  },
+  popularBrandsTitle: {
+    fontSize: 24,
+    fontWeight: '700',
+    marginBottom: 4,
+  },
+  popularBrandsSubtitle: {
+    fontSize: 14,
+  },
+  popularBrandsGroup: {
+    marginBottom: 4,
+  },
+  popularBrandsGroupLabel: {
+    fontSize: 12,
+    fontWeight: '600',
+    textTransform: 'uppercase',
+    letterSpacing: 0.8,
+    marginBottom: 8,
+  },
+  popularBrandsRow: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 8,
+  },
+  popularBrandChip: {
+    paddingHorizontal: 16,
+    paddingVertical: 8,
+    borderRadius: 20,
+    borderWidth: 1,
+  },
+  popularBrandChipLabel: {
+    fontSize: 14,
+    fontWeight: '600',
   },
 
 });

@@ -607,7 +607,7 @@ function getMetaForPath(pathname) {
     };
   }
 
-  // Articles hub
+  // Articles hub — Issue #1324: CollectionPage+ItemList schema
   if (path === '/articles') {
     return {
       title: `Drum Gear Articles & Guides | ${SITE_NAME}`,

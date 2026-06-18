@@ -21,6 +21,8 @@ import SIGNATURE_LICKS from '../../packages/frontend/data/licks/index.js';
 import { TOP_10_LISTS } from '../../packages/frontend/data/top10Lists.js';
 // Issue #1379: /gear/<brand>/<series>/drummers-using SSR meta (~40 pages).
 import { GEAR_INDEX } from '../../packages/frontend/data/gearIndex.js';
+// Issue #1387: gear item drummer links — authoritative drummerIds live in the gear API.
+import { gearItems } from '../gear/[slug].js';
 
 const BASE_URL = 'https://metalforge.io';
 const SITE_NAME = 'MetalForge';
@@ -1224,12 +1226,26 @@ function getMetaForPath(pathname) {
     const slug = gearItemMatch[1];
     const item = GEAR_ITEM_META[slug];
     if (item) {
+      // Issue #1387: build crawler-visible drummer profile links for this gear item.
+      const gearEntry = gearItems.find(g => g.slug === slug);
+      const ssrDrummerLinks = gearEntry && gearEntry.drummerIds
+        ? gearEntry.drummerIds
+            .slice(0, 5)
+            .map(id => drummers.find(d => d.id === id))
+            .filter(Boolean)
+            .map(d => ({
+              href: `/drummer/${d.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')}`,
+              label: `${d.name} (${d.band})`,
+            }))
+        : null;
+
       return {
         title: `${item.name} — Used by Pro Metal Drummers | ${SITE_NAME}`,
         description: item.description,
         image: DEFAULT_IMAGE,
         type: 'website',
         url: `${BASE_URL}/gear/${slug}`,
+        ssrDrummerLinks: ssrDrummerLinks && ssrDrummerLinks.length > 0 ? ssrDrummerLinks : null,
         articleSchema: JSON.stringify({
           '@context': 'https://schema.org',
           '@type': 'BreadcrumbList',
@@ -1634,6 +1650,11 @@ function generateMetaHtml(meta, originalUrl) {
       <h2>Gear Deep Dives &amp; Articles</h2>
       <ul>${meta.ssrLinks.map(l => `<li><a href="${l.href}">${l.label}</a></li>`).join('')}</ul>
     </nav>` : ''}
+    ${meta.ssrDrummerLinks && meta.ssrDrummerLinks.length > 0 ? `
+    <section>
+      <h2>Metal Drummers Who Use This Gear</h2>
+      <ul>${meta.ssrDrummerLinks.map(l => `<li><a href="${l.href}">${l.label}</a></li>`).join('')}</ul>
+    </section>` : ''}
     <p><a href="${meta.url}">Visit MetalForge →</a></p>
   </main>
 </body>

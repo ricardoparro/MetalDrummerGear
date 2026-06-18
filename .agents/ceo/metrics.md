@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-18 09:39 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-18 11:20 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,17 +8,17 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 38 |
-| Sessions | 51 |
-| Page views | 78 |
-| Engagement rate | 58.82% |
-| Avg session (s) | 112 |
+| Active users | 39 |
+| Sessions | 52 |
+| Page views | 79 |
+| Engagement rate | 57.69% |
+| Avg session (s) | 110 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | / | 29 | 11 |
-| /drummer/2 | 10 | 8 |
+| /drummer/2 | 11 | 9 |
 | /drummer/32 | 4 | 4 |
 | /drummer/46 | 3 | 2 |
 | /articles/whats-in-tomas-haakes-kit | 2 | 2 |
@@ -31,7 +31,7 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 32 | 28 |
+| Organic Search | 33 | 29 |
 | Direct | 18 | 9 |
 | Unassigned | 7 | 5 |
 

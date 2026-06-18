@@ -17846,7 +17846,7 @@ function ExploreToolsStrip({ theme, onNavigateToCompare, onNavigateToQuiz, onNav
     { icon: '🎂', label: 'Birthdays', onPress: onNavigateToBirthdayCalendar, a11y: 'View drummer birthday calendar' },
     { icon: '📜', label: 'History', onPress: onNavigateToTimeline, a11y: 'View metal drumming evolution timeline' },
     { icon: '🎸', label: 'Genres', onPress: onNavigateToGenresList, a11y: 'Browse metal genres' },
-    { icon: '🥁', label: 'Techniques', onPress: onNavigateToTechniques, a11y: 'Learn drumming techniques' },
+    { icon: '🎓', label: 'Techniques', onPress: onNavigateToTechniques, a11y: 'Learn drumming techniques' },
     { icon: '🎯', label: 'Kit Quiz', onPress: onNavigateToKitQuiz, a11y: 'Guess the drummer by kit quiz' },
     { icon: '📸', label: 'Photo Quiz', onPress: onNavigateToGuessTheKit, a11y: 'Guess the drummer by their kit photo quiz' },
     { icon: '📰', label: 'News', onPress: onNavigateToNews, a11y: 'View metal news' },

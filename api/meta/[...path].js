@@ -786,6 +786,7 @@ function getMetaForPath(pathname) {
           answer: `${band.name} plays ${band.genres?.join(', ') || 'metal'}.`,
         },
       ];
+      const slug = bandMatch[1];
       return {
         title: band.metaTitle || `${band.name} — Drummer, Drum Kit & Gear | ${SITE_NAME}`,
         description: truncate(
@@ -795,7 +796,25 @@ function getMetaForPath(pathname) {
         ),
         image: DEFAULT_IMAGE,
         type: 'profile',
-        url: `${BASE_URL}/bands/${bandMatch[1]}`,
+        url: `${BASE_URL}/bands/${slug}`,
+        articleSchema: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'MusicGroup',
+          name: band.name,
+          url: `${BASE_URL}/bands/${slug}`,
+          genre: band.genres || [],
+          member: (band.members || []).map(m => ({
+            '@type': 'OrganizationRole',
+            member: { '@type': 'Person', name: m.name },
+            roleName: m.role,
+          })),
+          ...(band.sameAs && band.sameAs.length ? { sameAs: band.sameAs } : {}),
+        }),
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: 'Bands', url: `${BASE_URL}/bands` },
+          { name: band.name, url: `${BASE_URL}/bands/${slug}` },
+        ],
         faqSchema: faqItems,
       };
     }

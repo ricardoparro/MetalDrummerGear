@@ -289,6 +289,29 @@ function getMetaForPath(pathname) {
     }
   }
 
+  // /vs hub index — Issue #1348
+  if (path === '/vs') {
+    return {
+      title: `Metal Drummer Gear Comparisons — Side-by-Side Kit & Setup | ${SITE_NAME}`,
+      description: 'Compare drum kits and gear setups of 60+ metal legends side by side. Joey Jordison vs Lars Ulrich, George Kollias vs Flo Mounier, and more.',
+      image: `${BASE_URL}/images/og/compare-preview.png`,
+      type: 'website',
+      url: `${BASE_URL}/vs`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        name: 'Metal Drummer Gear Comparisons',
+        description: 'Side-by-side comparisons of drum kits and gear setups for 60+ professional metal drummers',
+        url: `${BASE_URL}/vs`,
+        publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+      }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Drummer Comparisons', url: `${BASE_URL}/vs` },
+      ],
+    };
+  }
+
   // Tools hub
   if (path === '/tools') {
     return {

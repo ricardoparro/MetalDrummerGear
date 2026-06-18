@@ -1,17 +1,19 @@
 name: Health Check
 
+# Runs on a fixed 3-hour cadence (not per-deployment). Triggering on
+# `deployment_status` fired this once per Vercel deploy — 55+ times/day with the
+# Ralph fleet shipping that many PRs — which added load to an already-congested
+# Actions queue. A periodic check of the live site is enough for monitoring.
 on:
-  deployment_status:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */3 * * *'   # every 3 hours (UTC)
 
 jobs:
   health-check:
-    if: github.event.deployment_status.state == 'success'
     runs-on: ubuntu-latest
     name: Verify Site Loads
     steps:
-      - name: Wait for deployment to propagate
-        run: sleep 30
-      
       - name: Check site returns content
         run: |
           echo "🔍 Checking https://metalforge.io..."

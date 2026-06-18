@@ -1,0 +1,1 @@
+{"issue":1349,"status":"already-fixed","note":"Handler for path === '/guides' already present at api/meta/[...path].js:358-379, including CollectionPage JSON-LD and breadcrumbSchema. Syntax check passed. No changes needed."}

@@ -17691,7 +17691,76 @@ function DrummerList({
           ))}
         </ScrollView>
       </View>
-      {/* Drummer Spotlight Section */}
+      {/* Filter Bar - directly above drummer grid, sticky while grid is in view (Issue #1233) */}
+      <View style={Platform.select({ web: { position: 'sticky', top: 0, zIndex: 100 } })}>
+        <FilterBar
+          filters={filters}
+          onFilterChange={onFilterChange}
+          totalCount={drummers.length}
+          filteredCount={filteredDrummers.length}
+          onClearAll={handleClearAllFilters}
+          theme={theme}
+          sortBy={sortBy}
+          onSortChange={onSortChange}
+        />
+      </View>
+      {/* Featured Drummers Section Header (Issue #496) */}
+      {!showAllDrummers && !searchValue && !filters.genre && !filters.brand && (
+        <View style={styles.featuredSection}>
+          <Text style={[styles.featuredSectionTitle, { color: theme.text }]}>
+            ⭐ Featured Drummers
+          </Text>
+          <Text style={[styles.featuredSectionSubtitle, { color: theme.secondaryText }]}>
+            Legendary metal drummers to explore
+          </Text>
+        </View>
+      )}
+    </>
+  ), [
+    theme, searchValue, onSearchChange, onSearchFocus, onSearchClear,
+    suggestions, onSelectSuggestion, showSuggestions, searchInputRef,
+    drummers, onNavigateToQuiz, onNavigateToCompare, onNavigateToBeginnerGuide,
+    onNavigateToQuotes, onNavigateToGearFinder, onNavigateToKitBuilder,
+    onNavigateToBpmTap, onNavigateToBirthdayCalendar, onNavigateToTimeline,
+    onNavigateToGenresList, onNavigateToToolsHub, onNavigateToTechniques,
+    onNavigateToKitQuiz, onNavigateToGuessTheKit, onNavigateToNews,
+    filters, onFilterChange, sortBy, onSortChange,
+    filteredDrummers, handleClearAllFilters, showAllDrummers,
+  ]);
+
+  // Empty list message (should rarely show on homepage since we show featured drummers)
+  const ListEmpty = () => (
+    <View style={styles.noResultsContainer}>
+      <Text style={[styles.noResultsText, { color: theme.secondaryText }]}>
+        No drummers available
+      </Text>
+    </View>
+  );
+
+  // Footer with discovery sections + "View All Drummers" button (Issue #497) + Last Updated (Issue #449)
+  // Sections demoted from listHeader per Issue #1237 wireframe reorder:
+  // Trending/MostPopular (step 5) → RecentlyUpdated (step 7) → secondary widgets (step 8)
+  const ListFooter = () => (
+    <View>
+      {/* Trending This Week (Issue #671) — discovery loop into gear pages */}
+      <TrendingThisWeek
+        theme={theme}
+        drummers={drummers}
+        onSelectDrummer={onSelectDrummer}
+      />
+      {/* Most Popular Gear (Issue #640) — discovery loop */}
+      <MostPopularGear theme={theme} onSelectDrummer={onSelectDrummer} />
+      {/* Recently Updated Gear (Issue #715) — freshness signal */}
+      <RecentlyUpdatedGear
+        theme={theme}
+        drummers={drummers}
+        onSelectDrummer={onSelectDrummer}
+      />
+      {/* ── More to explore ─────────────────────────────────────────── */}
+      <View style={[styles.moreToExploreHeader, { borderTopColor: theme.border }]}>
+        <Text style={[styles.moreToExploreTitle, { color: theme.text }]}>More to explore</Text>
+      </View>
+      {/* Drummer Spotlight */}
       {spotlight && (
         <DrummerSpotlight
           drummer={spotlight}
@@ -17700,19 +17769,6 @@ function DrummerList({
           onViewAllSpotlights={onNavigateToSpotlights}
         />
       )}
-      {/* Recently Updated Gear Section (Issue #715) */}
-      {/* SEO freshness signals + engagement driver */}
-      <RecentlyUpdatedGear
-        theme={theme}
-        drummers={drummers}
-        onSelectDrummer={onSelectDrummer}
-      />
-      {/* Trending This Week Section (Issue #671) */}
-      <TrendingThisWeek
-        theme={theme}
-        drummers={drummers}
-        onSelectDrummer={onSelectDrummer}
-      />
       {/* This Week's Battle Widget (Issue #689) */}
       {drummers.length > 0 && (
         <View style={styles.battleWidgetContainer}>
@@ -17766,63 +17822,9 @@ function DrummerList({
       </Suspense>
       {/* Top 10 Lists Section */}
       <TopListsSection theme={theme} onNavigateToList={onNavigateToList} />
-      
-      {/* Album Articles Section - Iconic Album Gear Breakdowns (Issue #663) */}
+      {/* Album Articles Section — Iconic Album Gear Breakdowns (Issue #663) */}
       <AlbumArticlesSection theme={theme} />
-      
-      {/* Most Popular Gear Section (Issue #640) */}
-      <MostPopularGear theme={theme} onSelectDrummer={onSelectDrummer} />
-      
-      {/* Filter Bar - directly above drummer grid, sticky while grid is in view (Issue #1233) */}
-      <View style={Platform.select({ web: { position: 'sticky', top: 0, zIndex: 100 } })}>
-        <FilterBar
-          filters={filters}
-          onFilterChange={onFilterChange}
-          totalCount={drummers.length}
-          filteredCount={filteredDrummers.length}
-          onClearAll={handleClearAllFilters}
-          theme={theme}
-          sortBy={sortBy}
-          onSortChange={onSortChange}
-        />
-      </View>
-      {/* Featured Drummers Section Header (Issue #496) */}
-      {!showAllDrummers && !searchValue && !filters.genre && !filters.brand && (
-        <View style={styles.featuredSection}>
-          <Text style={[styles.featuredSectionTitle, { color: theme.text }]}>
-            ⭐ Featured Drummers
-          </Text>
-          <Text style={[styles.featuredSectionSubtitle, { color: theme.secondaryText }]}>
-            Legendary metal drummers to explore
-          </Text>
-        </View>
-      )}
-    </>
-  ), [
-    theme, searchValue, onSearchChange, onSearchFocus, onSearchClear,
-    suggestions, onSelectSuggestion, showSuggestions, searchInputRef,
-    drummers, onNavigateToQuiz, onNavigateToCompare, onNavigateToBeginnerGuide,
-    onNavigateToQuotes, onNavigateToGearFinder, onNavigateToKitBuilder,
-    onNavigateToBpmTap, onNavigateToBirthdayCalendar, onNavigateToTimeline,
-    onNavigateToGenresList, onNavigateToToolsHub, onNavigateToTechniques,
-    onNavigateToKitQuiz, onNavigateToGuessTheKit, onNavigateToNews,
-    onNavigateToSpotlights, filters, onFilterChange, sortBy, onSortChange,
-    filteredDrummers, handleClearAllFilters, showAllDrummers,
-    spotlight, onSelectDrummer,
-  ]);
-
-  // Empty list message (should rarely show on homepage since we show featured drummers)
-  const ListEmpty = () => (
-    <View style={styles.noResultsContainer}>
-      <Text style={[styles.noResultsText, { color: theme.secondaryText }]}>
-        No drummers available
-      </Text>
-    </View>
-  );
-
-  // Footer with "View All Drummers" button (Issue #497) and Last Updated timestamp (Issue #449)
-  const ListFooter = () => (
-    <View>
+      {/* ──────────────────────────────────────────────────────────────── */}
       {/* View All Drummers button - navigates to /drummers page (Issue #497) */}
       <TouchableOpacity
         onPress={() => onNavigateToDrummers()}
@@ -27852,6 +27854,17 @@ const styles = StyleSheet.create({
     paddingHorizontal: spacing[4],
     paddingTop: spacing[5],
     paddingBottom: spacing[3],
+  },
+  moreToExploreHeader: {
+    paddingHorizontal: spacing[4],
+    paddingTop: spacing[6],
+    paddingBottom: spacing[3],
+    borderTopWidth: 1,
+    marginTop: spacing[4],
+  },
+  moreToExploreTitle: {
+    fontSize: fontSize.xl,
+    fontWeight: fontWeight.bold,
   },
   featuredSectionTitle: {
     fontSize: fontSize.xl,

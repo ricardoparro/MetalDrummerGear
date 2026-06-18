@@ -478,6 +478,7 @@ export default function handler(req, res) {
     // One file per technique slug mirrors the per-drummer pattern above.
     ...getAllTechniqueSlugs().map(slug => ({ loc: `/llms/technique/${slug}.md`, priority: '0.5', changefreq: 'monthly' })),
     // Issue #1218 / #1244: per-drummer lick Markdown files for AI citation (all 51 drummers).
+    // Issue #1219: added frost + daray (black metal batch).
     ...([
       'joey-jordison', 'lars-ulrich', 'dave-lombardo', 'george-kollias', 'tomas-haake',
       'matt-greiner', 'gene-hoglan', 'pete-sandoval', 'derek-roddy', 'brann-dailor',
@@ -489,7 +490,7 @@ export default function handler(req, res) {
       'jay-weinberg', 'martin-lopez', 'matt-halpern', 'mike-mangini', 'mikkey-dee',
       'navene-koperweis', 'nicko-mcbrain', 'paul-bostaph', 'paul-mazurkiewicz', 'ray-luzier',
       'raymond-herrera', 'richard-christy', 'scott-travis', 'shannon-larkin', 'travis-orbin',
-      'vinnie-paul',
+      'vinnie-paul', 'frost', 'daray',
     ].map(slug => ({ loc: `/llms/licks/${slug}.md`, priority: '0.5', changefreq: 'monthly' }))),
   ];
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>

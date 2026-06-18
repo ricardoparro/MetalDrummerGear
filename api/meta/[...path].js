@@ -262,6 +262,17 @@ function getMetaForPath(pathname) {
       image: `${BASE_URL}/images/og/stats-preview.png`,
       type: 'website',
       url: `${BASE_URL}/stats/gear-insights`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'Dataset',
+        name: 'Metal Drummer Gear Brand Usage Statistics',
+        description: 'Brand-by-brand usage percentages across 60+ pro metal drummers — drum kits, cymbals, pedals, sticks.',
+        url: BASE_URL + '/stats/gear-insights',
+        creator: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+        variableMeasured: ['Drum kit brand market share', 'Cymbal brand usage %', 'Pedal brand usage %', 'Stick brand usage %'],
+        temporalCoverage: '1980/..',
+        spatialCoverage: 'Global',
+      }),
     };
   }
 

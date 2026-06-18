@@ -256,6 +256,38 @@ const drummers = [
         featured: true,
         description: 'The aggressive, cutting snare that powered Slipknot\'s most iconic albums including Iowa.'
       }
+    ],
+    // Detailed kit specs for GSC keyword targeting (Issue #1261)
+    kitSpecs: [
+      { label: 'Kit (Primary Slipknot Era)', value: 'Tama Starclassic Performer' },
+      { label: 'Bass Drum', value: '22"' },
+      { label: 'Rack Toms', value: '12", 13"' },
+      { label: 'Floor Tom', value: '16"' },
+      { label: 'Snare', value: 'Pearl Joey Jordison Signature 13"×6.5"' },
+      { label: 'Cymbals', value: 'Sabian HHX Evolution 14" hi-hats; Sabian AAX Stage 16" & 18" crashes; Sabian AAX Stage 21" ride' },
+      { label: 'Bass Pedals', value: 'Axis A Longboard double bass drum pedals' },
+      { label: 'Drum Heads', value: 'Remo Ambassador Coated (batter)' },
+      { label: 'Sticks', value: 'Vic Firth 5B nylon tip' },
+      { label: 'Kit (Later Career)', value: 'Pearl Reference Pure' }
+    ],
+    // Exact-match FAQ items for top GSC queries (Issue #1261)
+    faq: [
+      {
+        q: 'What drum set did Joey Jordison use?',
+        a: 'Joey Jordison used a Tama Starclassic Performer drum set during his primary Slipknot era, configured with a 22" bass drum and 12", 13", and 16" toms. His snare was the Pearl Joey Jordison Signature 13"×6.5". He later transitioned to a Pearl Reference Pure kit for post-Slipknot projects.'
+      },
+      {
+        q: "What was Joey Jordison's drum kit?",
+        a: "Joey Jordison's drum kit during his peak Slipknot era was a Tama Starclassic Performer (22\" BD, 12\"/13\"/16\" toms) with a Pearl Joey Jordison Signature 13\"×6.5\" snare. Axis A Longboard double bass pedals powered his extreme blast beats, and Remo Ambassador Coated heads were fitted on the batter side."
+      },
+      {
+        q: 'What cymbals did Joey Jordison use?',
+        a: 'Joey Jordison used Sabian HHX Evolution 14" hi-hats, Sabian AAX Stage crashes (16" and 18"), and a Sabian AAX Stage 21" ride cymbal. During the Iowa era he also employed Paiste RUDE and 2002 series cymbals known for their aggressive cut and extreme durability.'
+      },
+      {
+        q: 'What bass drum pedals did Joey Jordison use?',
+        a: 'Joey Jordison used Axis A Longboard double bass drum pedals. The long footboard design gave him the leverage and speed required for his extreme double kick patterns and the blast beats he performed live on Slipknot\'s rotating drum riser.'
+      }
     ]
   },
   {

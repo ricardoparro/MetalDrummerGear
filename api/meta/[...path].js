@@ -561,6 +561,61 @@ function getMetaForPath(pathname) {
     };
   }
 
+  // Gear Search - Issue #1350
+  if (path === '/tools/gear-search' || path === '/tools/gear-finder') {
+    return {
+      title: `Metal Drummer Gear Search — Find Drums & Cymbals by Spec | ${SITE_NAME}`,
+      description: 'Search and filter drum gear used by 60+ metal legends. Find kits, cymbals, pedals, and sticks by brand, price, or drummer.',
+      type: 'website',
+      url: `${BASE_URL}/tools/gear-search`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'WebApplication',
+        name: 'Metal Drummer Gear Search',
+        applicationCategory: 'UtilitiesApplication',
+        url: `${BASE_URL}/tools/gear-search`,
+        operatingSystem: 'Any',
+      }),
+    };
+  }
+
+  // Dream Set Builder - Issue #1350
+  if (path === '/tools/dream-set-builder') {
+    return {
+      title: `Dream Metal Drum Kit Builder — Mix Gear from the Legends | ${SITE_NAME}`,
+      description: 'Build your ultimate metal drum kit by combining gear from your favourite drummers. Mix Lars Ulrich shells with George Kollias cymbals.',
+      type: 'website',
+      url: `${BASE_URL}/tools/dream-set-builder`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'WebApplication',
+        name: 'Dream Metal Drum Set Builder',
+        applicationCategory: 'UtilitiesApplication',
+        url: `${BASE_URL}/tools/dream-set-builder`,
+      }),
+    };
+  }
+
+  // Tier List - Issue #1350
+  if (path === '/tools/tier-list') {
+    return {
+      title: `Metal Drummer Tier List — Rank the Greatest of All Time | ${SITE_NAME}`,
+      description: 'Create your own metal drummer tier list. Rank legends like Joey Jordison, Dave Lombardo, and George Kollias from S to D tier.',
+      type: 'website',
+      url: `${BASE_URL}/tools/tier-list`,
+    };
+  }
+
+  // Name Generator - Issue #1350
+  if (path.startsWith('/tools/name-generator') || path === '/tools/metal-drummer-name-generator') {
+    return {
+      title: `Metal Drummer Name Generator — Create Your Drummer Alias | ${SITE_NAME}`,
+      description: 'Generate an epic metal drummer name in seconds. Perfect for band projects, gaming aliases, or just for fun.',
+      type: 'website',
+      url: `${BASE_URL}/tools/name-generator`,
+    };
+  }
+
   // Guess the Kit - Issue #799
   if (path === '/guess-the-kit') {
     return {

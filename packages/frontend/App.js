@@ -20457,35 +20457,65 @@ function GearDetail({ gear, theme, onBack, onSelectDrummer }) {
       {gear.usedBy && gear.usedBy.length > 0 && (
         <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
           <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">
-            Pro Drummers Who Use This
+            Metal Drummers Who Use This Gear
           </Text>
           <Text style={[styles.usedBySubtitle, { color: theme.secondaryText }]}>
             {gear.usedBy.length} drummer{gear.usedBy.length !== 1 ? 's' : ''} in our database use{gear.usedBy.length === 1 ? 's' : ''} this gear
           </Text>
           <View style={styles.usedByContainer}>
-            {gear.usedBy.map((drummer) => (
-              <TouchableOpacity
-                key={drummer.id}
-                onPress={() => onSelectDrummer(drummer.id)}
-                style={[styles.usedByCard, { borderColor: theme.border }]}
-                accessibilityRole="button"
-                accessibilityLabel={`View ${drummer.name}'s gear`}
-              >
-                <ImageWithFallback
-                  source={{ uri: drummer.image }}
-                  style={styles.usedByImage}
-                  accessibilityLabel={`Photo of ${drummer.name}`}
-                  width={50}
-                  height={50}
-                  imageContext="thumbnail"
-                />
-                <View style={styles.usedByText}>
-                  <Text style={[styles.usedByName, { color: theme.text }]}>{drummer.name}</Text>
-                  <Text style={[styles.usedByBand, { color: theme.secondaryText }]}>{drummer.band}</Text>
-                </View>
-              </TouchableOpacity>
-            ))}
+            {gear.usedBy.map((drummer) => {
+              const drummerSlug = toSlug(drummer.name);
+              const drummerUrl = `/drummer/${drummerSlug}`;
+              const cardInner = (
+                <>
+                  <ImageWithFallback
+                    source={{ uri: drummer.image }}
+                    style={styles.usedByImage}
+                    accessibilityLabel={`Photo of ${drummer.name}`}
+                    width={50}
+                    height={50}
+                    imageContext="thumbnail"
+                  />
+                  <View style={styles.usedByText}>
+                    <Text style={[styles.usedByName, { color: theme.text }]}>{drummer.name}</Text>
+                    <Text style={[styles.usedByBand, { color: theme.secondaryText }]}>{drummer.band}</Text>
+                  </View>
+                </>
+              );
+              if (Platform.OS === 'web') {
+                return (
+                  <a
+                    key={drummer.id}
+                    href={drummerUrl}
+                    onClick={(e) => { e.preventDefault(); onSelectDrummer(drummer.id); }}
+                    aria-label={`View ${drummer.name}'s gear setup`}
+                    style={{ textDecoration: 'none', display: 'flex', flexDirection: 'row', alignItems: 'center', padding: 12, borderRadius: 8, border: `1px solid ${theme.border}`, cursor: 'pointer', gap: 12 }}
+                  >
+                    {cardInner}
+                  </a>
+                );
+              }
+              return (
+                <TouchableOpacity
+                  key={drummer.id}
+                  onPress={() => onSelectDrummer(drummer.id)}
+                  style={[styles.usedByCard, { borderColor: theme.border }]}
+                  accessibilityRole="button"
+                  accessibilityLabel={`View ${drummer.name}'s gear`}
+                >
+                  {cardInner}
+                </TouchableOpacity>
+              );
+            })}
           </View>
+          {Platform.OS === 'web' && gear.category && (
+            <a
+              href={`/gear/${gear.category}`}
+              style={{ color: '#e74c3c', textDecoration: 'none', marginTop: 12, display: 'block', fontSize: 14 }}
+            >
+              {`See all metal drummers and their ${gear.category} setups →`}
+            </a>
+          )}
         </View>
       )}
 

@@ -18029,8 +18029,15 @@ function DrummerList({
       {/* Popular Brands Section (Issue #1236) */}
       <PopularBrands theme={theme} />
 
-      {/* Filter Bar - directly above drummer grid, sticky while grid is in view (Issue #1233) */}
-      <View style={Platform.select({ web: { position: 'sticky', top: 0, zIndex: 100 } })}>
+      {/* Featured Drummers Section Header (Issue #496) */}
+      {!showAllDrummers && !searchValue && !filters.genre && !filters.brand && (
+        <FeaturedDrummersSectionHeader theme={theme} />
+      )}
+      {/* Filter Bar - immediately above drummer grid, sticky while grid is in view (Issue #1233) */}
+      <View style={[
+        Platform.select({ web: { position: 'sticky', top: 0, zIndex: 100 } }),
+        { backgroundColor: theme.background },
+      ]}>
         <FilterBar
           filters={filters}
           onFilterChange={onFilterChange}
@@ -18042,10 +18049,6 @@ function DrummerList({
           onSortChange={onSortChange}
         />
       </View>
-      {/* Featured Drummers Section Header (Issue #496, #1234) */}
-      {!showAllDrummers && !searchValue && !filters.genre && !filters.brand && (
-        <FeaturedDrummersSectionHeader theme={theme} />
-      )}
     </>
   ), [
     theme, searchValue, onSearchChange, onSearchFocus, onSearchClear,

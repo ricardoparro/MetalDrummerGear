@@ -29059,34 +29059,6 @@ const styles = StyleSheet.create({
     fontWeight: fontWeight.semibold,
   },
   
-  actionButtonsRow: {
-    flexDirection: 'row',
-    marginHorizontal: spacing[5],  // 20px
-    marginBottom: spacing[4],      // 16px
-    gap: spacing[3],               // 12px
-  },
-  compareButton: {
-    flex: 1,
-    padding: spacing[4],           // 16px (was 14)
-    borderRadius: spacing[2],      // 8px
-    borderWidth: 1,
-    alignItems: 'center',
-  },
-  compareButtonText: {
-    fontSize: fontSize.base,
-    fontWeight: fontWeight.semibold,
-  },
-  quizButton: {
-    flex: 1,
-    padding: spacing[4],           // 16px (was 14)
-    borderRadius: spacing[2],      // 8px
-    borderWidth: 1,
-    alignItems: 'center',
-  },
-  quizButtonText: {
-    fontSize: fontSize.base,
-    fontWeight: fontWeight.semibold,
-  },
   // Explore Tools Strip (Issue #1232)
   exploreToolsContainer: {
     marginHorizontal: spacing[5],

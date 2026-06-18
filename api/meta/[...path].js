@@ -193,6 +193,22 @@ function getMetaForPath(pathname) {
       image: `${BASE_URL}/images/og/stats-preview.png`,
       type: 'website',
       url: `${BASE_URL}/stats`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'Dataset',
+        name: 'Metal Drummer Gear Statistics',
+        description: 'Most popular cymbals, drums, and hardware among 60+ legendary metal drummers — sourced from MetalForge gear database.',
+        url: `${BASE_URL}/stats`,
+        creator: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+        variableMeasured: [
+          'Drum kit brand popularity',
+          'Cymbal brand popularity',
+          'Hardware brand usage',
+          'Drumstick brand usage',
+        ],
+        spatialCoverage: 'Global',
+        temporalCoverage: '1980/..',
+      }),
     };
   }
 

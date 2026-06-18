@@ -355,6 +355,7 @@ function getMetaForPath(pathname) {
     const slug = path.replace('/technique/', '').replace('/drummers', '');
     const technique = getTechniqueBySlug(slug);
     if (technique) {
+      const techniqueDesc = technique.description || `${technique.title} is a metal drumming technique used by many legendary metal drummers.`;
       return {
         title: `Best ${technique.title} Drummers — Who Plays It | ${SITE_NAME}`,
         description: truncate(`Discover which pro metal drummers use ${technique.title.toLowerCase()}. Gear setups, videos, and tutorials for ${technique.title.toLowerCase()} players.`, 160),
@@ -374,6 +375,21 @@ function getMetaForPath(pathname) {
           { name: 'Techniques', url: `${BASE_URL}/techniques` },
           { name: technique.title, url: `${BASE_URL}/technique/${slug}` },
           { name: 'Drummers', url: `${BASE_URL}/technique/${slug}/drummers` },
+        ],
+        // Issue #1310: FAQPage JSON-LD for PAA box eligibility on technique pages
+        faqSchema: [
+          {
+            question: `What is ${technique.title}?`,
+            answer: techniqueDesc,
+          },
+          {
+            question: `Which metal drummers are best known for ${technique.title}?`,
+            answer: `See the complete list of metal drummers known for ${technique.title} on MetalForge, including gear setups and performance videos.`,
+          },
+          {
+            question: `What gear do you need for ${technique.title}?`,
+            answer: `The gear requirements for ${technique.title} vary by drummer. Browse MetalForge for complete kit specs from pros who use this technique.`,
+          },
         ],
       };
     }

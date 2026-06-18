@@ -20274,6 +20274,270 @@ Aquiles Priester has spent over 25 years proving that Brazilian metal drumming b
 
 🥁 *"The speed comes from freedom, not from force."* — Aquiles Priester 🤘`
     }
+  },
+
+  'mario-duplantier-gear': {
+    slug: 'mario-duplantier-gear',
+    articleType: 'drummer-kit',
+    drummer: 'Mario Duplantier',
+    drummerId: 15,
+    band: 'Gojira',
+    bands: ['Gojira'],
+    genre: 'Progressive Death Metal',
+    country: 'France',
+    isAlbumArticle: true,
+    datePublished: '2026-06-18',
+    dateModified: '2026-06-18',
+    author: 'MetalForge Editorial',
+    // SEO — head term "mario duplantier gear" in title and description
+    title: "Mario Duplantier's Drum Kit & Gear Setup — Gojira's Sound Explained",
+    description: "Complete breakdown of Mario Duplantier's drum gear. Discover his current Sonor kit, Meinl cymbal arsenal, Ahead drumheads, and the setup behind Gojira's crushing progressive death metal sound — from 'Flying Whales' to 'Fortitude'.",
+    seoKeywords: ['mario duplantier gear', 'mario duplantier drum kit', 'gojira drummer gear', 'mario duplantier sonor', 'mario duplantier meinl cymbals', 'mario duplantier setup', 'gojira drum sound', 'mario duplantier current gear'],
+    ogImage: '/images/drummers/mario-duplantier.webp',
+    // Introduction — head term in first paragraph
+    intro: {
+      title: "Mario Duplantier's Gear: The Engine Behind Gojira's Sound",
+      content: `Mario Duplantier's gear is the foundation of one of the most distinctive drum sounds in modern metal. As the drummer, co-founder, and visual architect of Gojira, Mario has spent nearly three decades refining a setup that can deliver thunderous dual bass drum assaults, delicate tribal tom patterns, and everything in between — all within a single song. Understanding what mario duplantier gear consists of reveals why Gojira's drum sound stands apart from every other band in extreme metal.
+
+Born June 19, 1981, in Ondres, France, Mario co-founded Gojira (originally Godzilla) with his brother Joe in 1996. From their earliest recordings through Grammy-nominated releases like "Fortitude" and "Magma," the gear powering Mario's playing has evolved to meet Gojira's growing ambition — from regional French metal acts to headlining Download Festival and opening for Metallica in stadiums worldwide.
+
+Mario's current setup is built around Sonor drums, Meinl cymbals, and Ahead drumheads — a combination chosen for projection, tonal complexity, and the durability demanded by Gojira's relentless touring schedule. This article breaks down every element of that setup, traces how his gear has changed across Gojira's catalog, and explains exactly how it contributes to the drum sound on tracks like "Flying Whales," "Silvera," and "Stranded."`,
+      keyPoints: [
+        'Current drums: Sonor (current endorsement)',
+        'Current cymbals: Meinl Byzance series',
+        'Drumheads: Ahead drumheads',
+        'Dual bass drums for visual impact and independent resonance',
+        'Co-founded Gojira in 1996 with brother Joe',
+        'Grammy-nominated for "Amazonia" and "Fortitude" performances'
+      ]
+    },
+    // Drum Kit Section
+    drumKit: {
+      title: "Mario's Sonor Kit: Precision for Progressive Death Metal",
+      brand: 'Sonor',
+      model: 'Sonor SQ2',
+      finish: 'Custom (varies by tour)',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum', '22" x 18" Bass Drum (dual setup)'],
+        toms: ['10" x 7" Rack Tom', '12" x 8" Rack Tom', '13" x 9" Rack Tom'],
+        floorToms: ['16" x 14" Floor Tom', '18" x 16" Floor Tom'],
+        shells: 'Maple/Beech shells for projection and tonal balance'
+      },
+      description: `Sonor's reputation for precision engineering makes their drums an ideal match for Mario Duplantier's exacting requirements. The SQ2 (Super Quality 2) series offers fully customizable shell configurations — shell material, depth, diameter, finish, and hardware can all be specified to the drummer's exact needs. For Mario, this means a kit tuned to Gojira's sonic identity rather than an off-the-shelf compromise.
+
+The dual 22" x 18" bass drum configuration is one of the most recognizable aspects of Mario's stage setup. Two independent kicks — rather than a single drum with a double pedal — give him independent resonance from each shell, a visual statement that matches Gojira's cinematic stage production, and the physical experience of playing two separate instruments. The physical separation matters: each foot drives its own beater into its own drum with its own head tension, creating a subtly different feel and tone that Mario exploits for groove variation in tracks like "Flying Whales" and "The Art of Dying."
+
+The three rack toms (10", 12", 13") provide a focused melodic range suited to Gojira's signature tribal fills. The two floor toms (16" and 18") anchor the low end on heavy breakdown sections. Together, the configuration spans the full tonal range Mario needs for Gojira's dynamic compositions — from intimate atmospheric passages to full-kit explosions.
+
+Sonor's shell construction, combining maple and beech layers in the SQ2, delivers the projection needed for stadium and festival stages while maintaining the warmth and fundamental tone that distinguishes great-sounding drums from merely loud ones.`,
+      notes: [
+        'SQ2 series allows full custom specification per drummer need',
+        'Dual bass drums for independent resonance and visual impact',
+        'Tom configuration optimized for tribal and melodic fill patterns',
+        'Maple/Beech shells balance warmth and projection for large venues',
+        "Kit tuning kept lower for maximum weight in Gojira's dense mix"
+      ],
+      estimatedValue: '$10,000–18,000 (Sonor SQ2 custom configuration)'
+    },
+    // Snare Section
+    snare: {
+      title: 'The Snare That Cuts Through Gojira',
+      brand: 'Sonor',
+      model: 'Sonor SQ2 Snare',
+      size: '14" x 6.5"',
+      shell: 'Maple or beech (varies by context)',
+      description: `Mario's snare must accomplish a demanding dual function within Gojira's mix: cut cleanly through Joe Duplantier's notoriously powerful, tuned-down guitar tones while retaining the sensitivity needed for ghost note embellishments in more atmospheric sections.
+
+The Sonor SQ2 snare — matching the shell material of the main kit — delivers this through a combination of precise shell construction and Mario's medium-high tuning approach. Tuned for crack rather than body, the drum has the definition to register every rimshot over Gojira's dense guitar walls without becoming papery or thin.
+
+At 14" x 6.5", the drum has enough depth to produce body and resonance even at higher tensions, preventing the snare from sounding brittle during the blast beat sections of tracks like "Backbone" or "Stranded." The Ahead drumhead on the batter side provides the attack response Mario's powerful stroke demands, with a surface that remains consistent across the long sets Gojira plays at major festivals.
+
+The snare is the rhythmic anchor of everything Mario does. In Gojira's mix — where guitar, bass, and drums are recorded with unusual care for dynamics and placement — the snare's presence and character are central to the feel of every track.`,
+      tuningSetting: 'Medium-high for definition and cut through dense guitar arrangements',
+      heads: 'Ahead drumhead (batter), standard resonant head (resonant)',
+      estimatedValue: '$600–1,200 (Sonor SQ2 custom snare)'
+    },
+    // Cymbals Section
+    cymbals: {
+      title: 'The Meinl Cymbal Arsenal',
+      brand: 'Meinl',
+      series: 'Meinl Byzance',
+      setup: [
+        { type: 'Hi-Hats', model: 'Meinl Byzance 14" Traditional Hi-Hats', position: 'Left side', notes: 'Warm, dark response with quick chick for fast patterns' },
+        { type: 'Crash', model: 'Meinl Byzance 17" Dark Crash', position: 'Left', notes: 'Dark, complex tone for primary crash accents' },
+        { type: 'Crash', model: 'Meinl Byzance 18" Medium Thin Crash', position: 'Center', notes: 'Versatile workhorse crash for section endings' },
+        { type: 'Crash', model: 'Meinl Byzance 19" Extra Dry Thin Crash', position: 'Right', notes: 'Dry, fast response for quick accents at high tempos' },
+        { type: 'Ride', model: 'Meinl Byzance 21" Vintage Ride', position: 'Far right', notes: 'Complex wash with defined bell for ride patterns and accents' },
+        { type: 'China', model: 'Meinl Byzance 18" China', position: 'Above floor tom', notes: 'Aggressive, cutting accent for heavy moments' },
+        { type: 'Splash', model: 'Meinl Byzance 10" Splash', position: 'Various', notes: 'Quick accent punctuation in faster passages' }
+      ],
+      description: `Meinl's Byzance series is built on a tradition of hand-hammered, hand-lathed craftsmanship that produces cymbals with complex, layered tonal character — qualities that align naturally with Gojira's compositional depth. Where more modern cymbal lines prioritize brightness and projection, the Byzance's darker, warmer tones give Mario's playing a sonic personality that stands apart from most extreme metal setups.
+
+The 14" Byzance Traditional Hi-Hats form the rhythmic foundation of Mario's playing. Their warm, relatively dark response rewards nuanced stick work — opening slightly for accents, closing tight for staccato patterns — with a musical character suited to both the tribal passages and the more aggressive sections of Gojira's catalog. Mario's hi-hat work is notably restrained compared to many metal drummers; he often parks the pattern on kick and snare, reserving hi-hat motion for expressive moments.
+
+The crash selection — 17", 18", and 19" — provides a dynamic range from sharp, quick accents to full, sustained crashes for major section climaxes. The Extra Dry Thin 19" is particularly effective in fast sections where a standard crash's sustain would cloud the mix; its fast decay keeps the arrangement clean even at high tempos.
+
+The 21" Byzance Vintage Ride delivers the complex wash and defined bell that defines Mario's ride playing. On slower, groove-heavy passages, the ride's body provides a bed of harmonic complexity; when Mario moves to the bell for accents, it cuts through without the harsh aggression of more contemporary ride designs.
+
+The 18" China provides the aggressive, trashy accent that punctuates Gojira's heaviest moments — the downtuned, earth-moving riff passages where an accent needs to bite rather than bloom.`,
+      estimatedValue: '$3,500–5,500 (full Meinl Byzance touring setup)'
+    },
+    // Hardware Section
+    hardware: {
+      title: 'Pedals, Sticks, and Hardware',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'Tama',
+          model: 'Tama Iron Cobra 900 Power Glide',
+          notes: 'Independent pedals on each of the two bass drums',
+          description: `Mario runs independent Iron Cobra 900 pedals on each bass drum rather than a linked double pedal unit. This approach preserves the individual resonance and feel of each kick drum, and the Power Glide cam provides smooth, consistent response across the long sustained passages Gojira's heavier tracks demand. The round cam curve keeps the feel even throughout the stroke — essential for the extended dual bass patterns in tracks like "Flying Whales" and "Vacuity."`
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Tama',
+          model: 'Tama Iron Cobra Lever Glide Hi-Hat Stand',
+          notes: 'Quick response for open/closed dynamics'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Tama',
+          model: 'Tama Mario Duplantier Signature Sticks',
+          notes: 'Custom length and taper for power and control',
+          description: `Mario's signature sticks are engineered for the balance of mass and finesse that Gojira's music demands. Heavier than a standard 5A, they deliver the physical power needed for thunderous accents while maintaining the taper and tip design required for ghost note articulation. The signature model reflects years of refinement across hundreds of live performances.`
+        },
+        {
+          type: 'Throne',
+          brand: 'Tama',
+          model: 'Tama 1st Chair Ergo-Rider Throne',
+          notes: 'Ergonomic support for extended headline sets'
+        }
+      ],
+      heads: {
+        bassKick: 'Ahead drumhead (batter), standard resonant (resonant)',
+        toms: 'Ahead drumhead (batter), standard resonant (resonant)',
+        snare: 'Ahead drumhead (batter), standard resonant snare side (resonant)'
+      }
+    },
+    // Gear Timeline (notable changes through Gojira albums)
+    gearTimeline: [
+      {
+        era: 'Early Gojira',
+        years: '1996–2005',
+        albums: ['Possessed', 'Terra Incognita', 'The Link', 'From Mars to Sirius'],
+        description: 'Developing the foundation of the Gojira sound on developing-era gear.',
+        gear: {
+          drums: 'Tama Rockstar / Superstar',
+          cymbals: 'Zildjian A and ZBT series',
+          heads: 'Remo standard heads',
+          hardware: 'Tama standard hardware'
+        },
+        notes: 'From Mars to Sirius (2005) established Gojira internationally. The drum sound on tracks like "Flying Whales" was captured with Tama gear and a raw, roomy recording approach by producer/engineer Joe Duplantier.'
+      },
+      {
+        era: 'Classic Tama Era',
+        years: '2006–2016',
+        albums: ['The Way of All Flesh', 'L\'Enfant Sauvage', 'Magma'],
+        description: 'Tama Starclassic Bubinga and Zildjian K cymbals — the setup behind the band\'s critical peak.',
+        gear: {
+          drums: 'Tama Starclassic Bubinga',
+          cymbals: 'Zildjian K Custom / A Custom',
+          heads: 'Remo Emperor / Ambassador',
+          hardware: 'Tama Iron Cobra 900'
+        },
+        notes: 'L\'Enfant Sauvage (2012) and Magma (2016) were recorded during this period. The Bubinga shells\' density and projection defined Mario\'s recorded sound for a decade, and the Zildjian K series gave his cymbal work its characteristic dark complexity.'
+      },
+      {
+        era: 'Current Setup',
+        years: '2019–Present',
+        albums: ['Fortitude'],
+        description: 'Sonor drums, Meinl cymbals, and Ahead drumheads — Mario\'s current touring and recording configuration.',
+        gear: {
+          drums: 'Sonor SQ2',
+          cymbals: 'Meinl Byzance',
+          heads: 'Ahead drumheads',
+          hardware: 'Tama Iron Cobra 900 (independent dual kick pedals)'
+        },
+        notes: 'The switch to Sonor and Meinl brought new tonal options to Mario\'s playing — the Byzance cymbals\' darker, more complex character complementing Gojira\'s increasingly layered production approach on Fortitude (2021).'
+      }
+    ],
+    // Playing Style
+    signatureSound: {
+      title: 'How Mario Duplantier Achieves Gojira\'s Drum Sound',
+      content: `Mario Duplantier's approach to drums is inseparable from his role as Gojira's co-composer and visual director. The drum sound on any Gojira record is not an accident of studio circumstance — it is designed, refined, and executed with the same intention Mario brings to the band's album artwork and stage visuals.
+
+**Tribal Influence and Groove:**
+Mario's most distinctive contribution to extreme metal drumming is his integration of tribal and world music patterns into a death metal context. The tom-heavy grooves in "Vacuity" and "The Art of Dying" build hypnotic, ritualistic momentum that transcends the genre's purely aggressive templates. This influence — drawn in part from Igor Cavalera's work with Sepultura and world percussion traditions — gives Gojira's music a primal physicality that pure technical drumming rarely achieves.
+
+**Dynamic Control:**
+Most extreme metal drummers operate at one volume: maximum. Mario uses the full dynamic spectrum within songs, creating passages of restrained restraint — the quietly simmering sections of "Born in Winter" or the measured opening of "Stranded" — that make the full-kit explosions hit with far greater impact. This compositional thinking is rare at Gojira's intensity level and is central to why their music remains compelling across repeated listening.
+
+**The Dual Bass Drum Approach:**
+Mario's independent dual bass drum setup is not merely visual. The physical independence of two separate drums produces subtle variations in tone, resonance, and feel that a double pedal cannot replicate. Over long passages — the sustained double bass in "Flying Whales," the relentless kick patterns in "Silvera" — these variations contribute to the groove's feeling of being alive rather than mechanical.
+
+**Recording with Joe:**
+Gojira records in their own studio (Silver Chord Studio, New York), engineered by Joe Duplantier. This self-contained process means Mario's drum sound is developed collaboratively with the person who knows it best. The gear — currently Sonor, Meinl, and Ahead — is chosen not just for live performance but for how it responds to Joe's recording approach: close-miked shells, minimal reverb, and a mix philosophy that places drums at the physical center of the music.`,
+      signatureTracks: [
+        { track: 'Flying Whales', description: 'The definitive Gojira track — sustained dual bass patterns, tribal tom work, and dynamic architecture across seven minutes' },
+        { track: 'Stranded', description: 'Groove-heavy verse drumming contrasting with explosive chorus sections, demonstrating Mario\'s mastery of dynamic control' },
+        { track: 'Silvera', description: 'Relentless energy with signature tribal patterns and driving double-bass throughout' },
+        { track: 'The Art of Dying', description: 'Extended instrumental showcasing Mario\'s full technical and dynamic range' },
+        { track: 'Amazonia', description: 'Grammy-nominated track with environmental themes and powerfully restrained drumming' }
+      ]
+    },
+    // FAQ — head term "mario duplantier gear" in Q1
+    faq: [
+      {
+        question: 'What drums does Mario Duplantier use?',
+        answer: 'Mario Duplantier currently plays Sonor drums — specifically the SQ2 custom series — for both touring and recording with Gojira. His current configuration features dual 22" x 18" bass drums (played independently, not as a double pedal), three rack toms (10", 12", 13"), and two floor toms (16" and 18"). Earlier in his career he was associated with Tama Starclassic Bubinga drums, the setup used on landmark Gojira albums including The Way of All Flesh, L\'Enfant Sauvage, and Magma.'
+      },
+      {
+        question: 'What cymbals does Mario Duplantier use?',
+        answer: 'Mario Duplantier currently endorses and plays Meinl cymbals, using the Byzance series for its dark, complex tonal character. His setup includes 14" Byzance Traditional Hi-Hats, a range of Byzance crashes (17", 18", 19"), a 21" Byzance Vintage Ride, an 18" Byzance China, and splash cymbals. Previously, Mario was closely associated with the Zildjian K Custom and A Custom series, which defined his cymbal sound on Gojira\'s classic albums from From Mars to Sirius through Fortitude.'
+      },
+      {
+        question: 'How is Gojira\'s drum sound achieved?',
+        answer: 'Gojira\'s drum sound is a product of both Mario Duplantier\'s gear choices and the band\'s self-produced recording approach. Mario uses Sonor drums with Ahead drumheads and Meinl Byzance cymbals; the kit is recorded by Joe Duplantier at their Silver Chord Studio in New York using close-miked shells, minimal processing, and a mix philosophy that places drums physically at the center of the arrangement. The Sonor shells\' projection and the Byzance cymbals\' dark complexity complement Joe\'s guitar tone. Equally important is Mario\'s playing approach: independent dual bass drums, tribal tom patterns, and dynamic control across the full spectrum from near-silence to full-kit assault.'
+      },
+      {
+        question: 'What drumheads does Mario Duplantier use?',
+        answer: 'Mario Duplantier currently uses Ahead drumheads on his Sonor kit. Ahead drumheads are selected for their attack response and consistency under heavy playing conditions — qualities essential for the long headline sets Gojira plays at major festivals. In his earlier Tama period, Mario used Remo Emperor and Ambassador heads on the batter and resonant sides respectively.'
+      },
+      {
+        question: 'What sticks does Mario Duplantier play?',
+        answer: 'Mario Duplantier plays his own signature model with Tama sticks. The Mario Duplantier Signature Sticks are custom-designed for the balance of mass and control required by Gojira\'s demanding live show — heavier than a standard 5A for powerful accents, with a taper and tip suited to the ghost note articulation Mario uses in atmospheric passages.'
+      }
+    ],
+    // Conclusion with internal links
+    conclusion: {
+      title: 'Mario Duplantier Gear: The Complete Picture',
+      content: `Mario Duplantier's drum gear represents a system built for one of the most demanding and distinctive jobs in contemporary metal: delivering Gojira's technically ambitious, emotionally intense progressive death metal across marathon festival sets and intimate studio sessions with equal conviction.
+
+Every current gear choice reflects that demand:
+
+- **Sonor SQ2 drums**: Custom-specified shells for the projection and tonal precision Gojira's arrangements require
+- **Meinl Byzance cymbals**: Dark, complex, hand-crafted character that complements rather than fights Joe Duplantier's guitar tone
+- **Ahead drumheads**: Consistent attack response under heavy playing, tour after tour
+- **Tama Iron Cobra pedals**: Independent dual kick action sustaining the bass drum patterns that define Gojira's rhythmic identity
+- **Tama Mario Duplantier Signature Sticks**: Custom-engineered for power and articulation across the full dynamic range of a Gojira performance
+
+For drummers studying Mario's approach, the gear is the tool — but the technique philosophy is the foundation: tribal groove elevated into extreme metal, dynamic control deployed with compositional intention, and a drum sound built in collaboration with the guitarist and producer who knows it better than anyone.
+
+Study "Flying Whales" for dual bass architecture. Study "Stranded" for dynamic control. Study "The Art of Dying" for the full picture: power, groove, restraint, and the tribal sophistication that makes Gojira's drumming unlike anything else in heavy music.
+
+For deeper context on Mario's playing and career:
+- [Mario Duplantier — Full Drummer Profile](/drummer/mario-duplantier)
+- [Mario Duplantier vs Tomas Haake: Progressive Metal Comparison](/llms/vs/mario-duplantier-vs-tomas-haake.md)
+- [What's In Mario Duplantier's Kit: Complete Gear Breakdown](/articles/whats-in-mario-duplantiers-kit)
+- [Brann Dailor vs Mario Duplantier: Progressive Drumming Compared](/llms/vs/brann-dailor-vs-mario-duplantier.md)
+
+Mario Duplantier's gear has changed across three decades and multiple endorsement partnerships, but the approach behind it has remained constant: serve the song, command the room, and make the heaviest music feel like it breathes.
+
+🥁 *"The drums are not just rhythm — they are emotion, they are storytelling."* — Mario Duplantier 🤘`
+    },
+    relatedAlbums: [],
+    relatedDrummers: [5, 16, 14], // Tomas Haake, Brann Dailor, Danny Carey
+    relatedArticles: ['whats-in-mario-duplantiers-kit', 'whats-in-tomas-haakes-kit', 'progressive-death-metal-drummers']
   }
 };
 

@@ -491,6 +491,18 @@ export default function handler(req, res) {
       'raymond-herrera', 'richard-christy', 'scott-travis', 'shannon-larkin', 'travis-orbin',
       'vinnie-paul',
     ].map(slug => ({ loc: `/llms/licks/${slug}.md`, priority: '0.5', changefreq: 'monthly' }))),
+    // Issue #1271: per-series LLM Markdown files for AI citation.
+    // Slugs derived from GEAR_INDEX (same slugifyGearSeries logic used for HTML pages)
+    // so /llms/gear-series/<brand>-<series>.md URLs stay 1:1 with committed files.
+    ...Object.entries(GEAR_INDEX).flatMap(([brand, seriesObj]) =>
+      Object.entries(seriesObj)
+        .filter(([, ds]) => Array.isArray(ds) && ds.length >= 2)
+        .map(([series]) => ({
+          loc: `/llms/gear-series/${slugifyGearSeries(brand)}-${slugifyGearSeries(series)}.md`,
+          priority: '0.5',
+          changefreq: 'monthly',
+        }))
+    ),
   ];
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">

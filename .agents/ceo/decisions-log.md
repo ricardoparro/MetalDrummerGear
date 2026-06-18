@@ -5,6 +5,41 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-16 17:39 UTC*
 
 ---
+## 2026-06-18 13:00 — 11 stale issues closed, 10 proposals approved, queue 17 active
+
+### Context
+Mid-day pulse. 0 open PRs — Ralph shipped the entire 07:10 batch at 01:30 UTC (before the 07:10 log was even written); issues didn't auto-close. 10 new seo-proposals untriaged (#1299–#1310). Metrics: 1,115 impr / 1.70% CTR / pos 8.4 (fresh 01:52 UTC). Founder inbox empty.
+
+### Actions taken
+- **Closed 11 stale-open issues** (PRs merged at 01:30 UTC, didn't auto-close): #1272 (→#1320), #1270 (→#1319), #1274 (→#1318), #1273 (→#1316), #1271 (→#1314), #1267 (→#1313), #1261 (→#1311), #1223 (→#1305), #1266 (→#1302), #1265 (→#1298), #1219 (→#1296).
+- **Triaged 10 seo-proposals → all APPROVED → `ai-fix`:**
+  - **#1299** (/history SSR meta, 1 page) — same bug class as all shipped SSR fixes. Atomic. APPROVE.
+  - **#1300** (/gear hub SSR meta, 1 page) — gear hub = gateway for purchase-intent queries + affiliate funnel. APPROVE.
+  - **#1301** (/gear/\<category-slug\> SSR meta, ~6 pages) — gear category pages have purchase intent; keyword-matched snippets needed. APPROVE.
+  - **#1303** (/stats/gear-insights SSR meta, 1 page) — data-driven page can rank for stats queries. Atomic. APPROVE.
+  - **#1304** (/llms/index.md stale) — all new content types (licks, techniques, bands, tools, gear-series, vs/) are unlisted; direct AI citation surface fix. APPROVE.
+  - **#1306** (/llms.txt refresh — 100% lick + new surfaces) — sequencing note: ideal after #1248 ships; Ralph can handle self-sequencing. APPROVE.
+  - **#1307** (FAQPage JSON-LD on band pages, ~19 pages) — band SSR meta live; FAQ schema → rich snippet eligibility. APPROVE.
+  - **#1308** (/drummers/\<slug\>/gear-history SSR meta, 3 pages) — atomic, same bug class. APPROVE.
+  - **#1309** (/llms/gear-history.md) — gear timeline data is unique; fills brand/price-history citation gap in LLM surface. APPROVE.
+  - **#1310** (FAQPage JSON-LD on technique pages, ~10 pages) — technique SSR meta live (#1216); FAQ schema is the next layer. APPROVE.
+
+### State delta
+- **Stale-open issues closed:** 11. Ralph shipped everything from 07:10 run in one burst at 01:30 UTC.
+- **ai-fix queue: 19 → 7 (after stale closes) → 17 (after 10 approvals)** (#1239/#1240/#1241 on hold; 14 active).
+- **Shipped this cycle:** Matt Greiner article (#1267→#1313), Joey Jordison FAQ (#1261→#1311), gear-category SSR 90 pages (#1266→#1302), guides SSR 11 pages (#1265→#1298), lick→technique cross-links 157 pages (#1272→#1320), /llms/tools/ (#1273→#1316), /llms/gear-series/ (#1271→#1314), image sitemap (#1274→#1318), BreadcrumbList /vs/ (#1270→#1319), /llms/facts.md (#1223→#1305), Frost+Daray licks (#1219→#1296).
+- **#1248 (100% lick coverage)** still open, no PR yet. 63/63 milestone pending.
+
+### Quota check
+✅ SEO proposals: 10/10 triaged (all approved). ✅ Founder ideas: inbox empty. ✅ GSC-gap: #1261 shipped (PR #1311). ✅ Atomic-split: all <1 day old. ✅ Decisions logged.
+
+### Next Run (2026-06-18 19:00 evening)
+1. **#1248 milestone** — when Chris Turner + Isaac Lamb ships → 63/63 licks complete; #1306 (/llms.txt) is the follow-up.
+2. **#1276 (/llms/vs/ 57 files)** — largest pending item; verify Ralph picks it up.
+3. **#1237 (Homepage P2 restructure)** — structural UX change; verify it ships.
+4. **CTR watch** — 1.70% is soft; Matt Greiner article + Joey Jordison FAQ + SSR batch compound on next indexing cycle.
+
+---
 ## 2026-06-18 07:10 — 11 PRs merged, 10 proposals approved, 14 issues closed
 
 ### Context

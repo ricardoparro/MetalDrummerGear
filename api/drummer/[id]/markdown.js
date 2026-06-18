@@ -1,8 +1,10 @@
 // Vercel Serverless Function - Get drummer profile as markdown
 // Issue #451 - Create markdown API endpoints
+// Issue #1357 - Include related article links for agent/crawler discoverability
 
 // Import drummers data from the main index
 import drummersHandler from '../../drummers/index.js';
+import { ALBUM_ARTICLES } from '../../../packages/frontend/data/albumArticles.js';
 
 // Drummers data - simplified copy for markdown generation
 const drummers = [
@@ -84,11 +86,23 @@ The drummer "${id}" was not found in our database.
 
   // Generate markdown response
   const today = new Date().toISOString().split('T')[0];
-  
+
+  // Issue #1357: Build related article backlinks (reverse of article→profile links)
+  const allArticles = Object.values(ALBUM_ARTICLES);
+  const relatedArticles = allArticles
+    .filter(a => a.drummerId === localDrummer.id || (a.relatedDrummers || []).includes(localDrummer.id))
+    .slice(0, 3);
+
+  const articlesSection = relatedArticles.length > 0
+    ? `\n---\n\n## Gear Deep Dives & Articles\n\n${relatedArticles.map(a =>
+        `- [${a.title}](https://metalforge.io/articles/${a.slug})${a.description ? `\n  ${a.description}` : ''}`
+      ).join('\n')}\n`
+    : '';
+
   const markdown = `# ${localDrummer.name}
 
-**Band:** ${localDrummer.band}  
-**Genre:** ${localDrummer.genre}  
+**Band:** ${localDrummer.band}
+**Genre:** ${localDrummer.genre}
 **Country:** ${localDrummer.country}
 
 ---
@@ -99,7 +113,7 @@ ${localDrummer.name} is a professional metal drummer known for their work with $
 
 For full biography, gear details, videos, and more, visit:
 **[${localDrummer.name} on MetalForge](https://metalforge.io/drummer/${localDrummer.slug})**
-
+${articlesSection}
 ---
 
 ## Quick Links

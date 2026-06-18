@@ -735,6 +735,11 @@ function getMetaForPath(pathname) {
           articleSection: articleMeta.articleSection,
           keywords: articleMeta.keywords,
         },
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: 'Articles', url: `${BASE_URL}/articles` },
+          { name: articleMeta.headline, url: `${BASE_URL}/articles/${articleSlug}` },
+        ],
       };
     }
 

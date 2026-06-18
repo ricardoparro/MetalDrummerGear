@@ -43,6 +43,7 @@ import { colors } from '../colors';
 import { fontSize, fontWeight, lineHeight } from '../typography';
 import { spacing } from '../spacing';
 import { injectWebApplicationSchema, TOOL_SCHEMAS } from '../utils/webApplicationSchema';
+import { getTechniqueBySlug } from '../data/techniques';
 
 // ==========================================
 // URL Detection Helpers
@@ -1161,6 +1162,12 @@ export function LickDetailPage({ theme, onBack, lickSlug, drummers }) {
     return index >= 0 ? index + 1 : null;
   }, [playlist, lick]);
 
+  // Technique hub cross-links (Issue #1272)
+  const relatedTechniqueObjects = useMemo(() => {
+    if (!lick || !lick.techniques) return [];
+    return lick.techniques.map(slug => getTechniqueBySlug(slug)).filter(Boolean);
+  }, [lick]);
+
   // Navigate to lick
   const navigateToLick = useCallback((targetLick) => {
     if (!targetLick) return;
@@ -1442,6 +1449,46 @@ export function LickDetailPage({ theme, onBack, lickSlug, drummers }) {
                 isMobile={isMobile}
               />
             ))}
+          </View>
+        </View>
+      )}
+
+      {/* Related Techniques — lick → technique hub cross-link (Issue #1272) */}
+      {relatedTechniqueObjects.length > 0 && (
+        <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.sectionTitle, { color: theme.text }]}>🔗 Related Techniques</Text>
+          <View style={styles.techniquesRow}>
+            {relatedTechniqueObjects.map(technique => {
+              const label = `See all ${technique.title} drummers`;
+              if (Platform.OS === 'web') {
+                return (
+                  <a
+                    key={technique.slug}
+                    href={`/technique/${technique.slug}/drummers`}
+                    aria-label={label}
+                    style={{ textDecoration: 'none' }}
+                  >
+                    <View style={[styles.techniquePillLarge, { backgroundColor: theme.primary + '20', borderColor: theme.primary }]}>
+                      <Text style={[styles.techniquePillLargeText, { color: theme.primary }]}>{label} →</Text>
+                    </View>
+                  </a>
+                );
+              }
+              return (
+                <TouchableOpacity
+                  key={technique.slug}
+                  style={[styles.techniquePillLarge, { backgroundColor: theme.primary + '20', borderColor: theme.primary }]}
+                  onPress={() => {
+                    window.history.pushState({}, '', `/technique/${technique.slug}/drummers`);
+                    window.dispatchEvent(new PopStateEvent('popstate'));
+                  }}
+                  accessibilityRole="link"
+                  accessibilityLabel={label}
+                >
+                  <Text style={[styles.techniquePillLargeText, { color: theme.primary }]}>{label} →</Text>
+                </TouchableOpacity>
+              );
+            })}
           </View>
         </View>
       )}

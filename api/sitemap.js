@@ -506,6 +506,8 @@ export default function handler(req, res) {
     { loc: '/llms/tools/kit-builder.md', priority: '0.6', changefreq: 'monthly' },
     { loc: '/llms/tools/gear-comparison.md', priority: '0.6', changefreq: 'monthly' },
     { loc: '/llms/tools/tier-list.md', priority: '0.6', changefreq: 'monthly' },
+    // Issue #1329: how-to-sound-like + beginner guides LLM citation surface.
+    { loc: '/llms/guides.md', priority: '0.4', changefreq: 'monthly' },
     // Per-drummer Markdown profiles — low priority, full crawl coverage.
     ...llmsDrummerSlugs.map(slug => ({ loc: `/llms/drummers/${slug}.md`, priority: '0.4', changefreq: 'monthly' })),
     // Issue #1058: per-article Markdown breakdowns (public/llms/articles/<slug>.md).

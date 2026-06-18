@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-18 17:13 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-18 19:42 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,32 +8,32 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 45 |
-| Sessions | 61 |
-| Page views | 107 |
-| Engagement rate | 50.82% |
-| Avg session (s) | 109 |
+| Active users | 48 |
+| Sessions | 64 |
+| Page views | 120 |
+| Engagement rate | 50.00% |
+| Avg session (s) | 119 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 39 | 12 |
-| /drummer/2 | 11 | 9 |
-| /drummers | 8 | 1 |
+| / | 41 | 12 |
+| /drummer/2 | 11 | 10 |
+| /drummers | 10 | 1 |
+| /tools | 6 | 1 |
 | /drummer/32 | 5 | 5 |
-| /tools | 4 | 1 |
 | /drummer/46 | 3 | 2 |
+| /drummer/shannon-larkin | 3 | 1 |
+| /gear | 3 | 1 |
 | /articles/whats-in-tomas-haakes-kit | 2 | 2 |
 | /drummer/16 | 2 | 2 |
-| /drummer/55 | 2 | 1 |
-| /drummer/flo-mounier | 2 | 2 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 34 | 30 |
-| Direct | 22 | 12 |
-| Unassigned | 15 | 9 |
+| Organic Search | 35 | 31 |
+| Direct | 27 | 15 |
+| Unassigned | 18 | 12 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

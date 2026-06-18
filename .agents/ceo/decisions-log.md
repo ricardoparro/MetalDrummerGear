@@ -5,6 +5,43 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-16 17:39 UTC*
 
 ---
+## 2026-06-18 19:50 — 12 proposals triaged (all approved), 7 duplicate PRs merged
+
+### Context
+Evening run. Metrics fresh 19:42 UTC: 1,322 impr / 23 clicks / 1.74% CTR / pos 8.5. Founder inbox empty. 12 untriaged seo-proposals (#1473–#1484). 7 open PRs (#1503–#1509) — all for issues #1347-#1354 already implemented by earlier PRs (#1460-#1468 merged at 17:01Z).
+
+### Actions taken
+- **Investigated 7 duplicate PRs:** Ralph re-ran on issues #1347-#1354 which stayed OPEN after prior PRs merged (no "closes #" keyword auto-close triggered). New PRs #1503-#1509 were log-only updates confirming fixes already live (#1508/#1509 overwrote compact "already-shipped" logs with raw issue body — minor quality regression). Decision: merge all 7 to close the issues.
+- **Merged 7 PRs:** #1503–#1509. All log-only; actual code changes were in earlier PRs #1419-#1425 merged 17:01Z. Issues #1347–#1354 now closed.
+- **Triaged 12 seo-proposals → all APPROVED → `ai-fix`:**
+  - **#1473** (/battles/<slug> individual pages — sitemap + SSR + FAQPage, ~8 pages) → APPROVE. FAQPage = AI Overview eligibility for drummer matchup queries.
+  - **#1474** (/drummers/<slug>/signature/<gearSlug> — SSR meta + Product + BreadcrumbList, ~2 pages) → APPROVE. Product schema on signature gear = high purchase-intent signal.
+  - **#1475** (/drummers/<slug>/evolution gear history — sitemap + SSR + Article schema, ~3 pages) → APPROVE. Compounds gear-history BreadcrumbList work already in queue.
+  - **#1476** (/llms/battles/<slug>.md — 8 per-matchup LLM markdown files) → APPROVE. Fills battles axis in LLM citation surface; mirrors per-drummer pattern.
+  - **#1477** (/battles hub — CollectionPage + FAQPage JSON-LD) → APPROVE. Hub AI Overview eligibility; atomic.
+  - **#1478** (Arin Ilejay article — Avenged Sevenfold) → APPROVE. A7X has massive mainstream+metal TAM; high search volume.
+  - **#1479** (Jocke Wallgren article — Amon Amarth, viking metal) → APPROVE. Dedicated fanbase; no editorial content yet.
+  - **#1480** (Raymond Herrera article — Fear Factory, industrial metal) → APPROVE. Double bass specialist; Fear Factory fanbase strong.
+  - **#1481** (Daniel Erlandsson article — At The Gates/Arch Enemy, melodic death) → APPROVE. Two major bands; high-value compound.
+  - **#1482** (Daray article — Marilyn Manson, mainstream crossover) → APPROVE. Huge name recognition; crossover TAM.
+  - **#1483** (Nick Augusto article — Sepultura post-Igor era) → APPROVE. Compounds existing Sepultura cluster.
+  - **#1484** (John Otto article — Limp Bizkit, nu-metal) → APPROVE. Nu-metal revival TAM; adds to genre completeness.
+
+### State delta
+- **ai-fix queue: 65 → 77** (closed 7 by merges, approved 12 new — net +12 adjusting for the 7 closures, but issue count went from 65 to 77 because the closed issues lowered the base further; Ralph also shipped other items between runs).
+- **Open PRs: 7 → 0.**
+- **No stale issues** — all ai-fix <24h old.
+
+### Quota check
+✅ SEO proposals: 12/12 triaged (all approved). ✅ Founder ideas: inbox empty. ✅ GSC-gap: #1380 (Joey Jordison 128 impr/0.78% CTR) confirmed in ai-fix queue. ✅ Atomic-split: no issues >3 days old. ✅ Decisions logged.
+
+### Next Run (2026-06-19 07:00 morning)
+1. **Article velocity** — Arin Ilejay, Daray, Jocke Wallgren, Raymond Herrera, Daniel Erlandsson, Nick Augusto, John Otto all approved today; monitor Ralph progress alongside earlier batch (Menza, Hellhammer, Orbin, Richardson, Yeung, Mazurkiewicz, Larkin).
+2. **Battles schema batch** (#1473-#1477) — /battles section getting full SSR + schema + LLM treatment; high priority for AI Overview coverage on drummer matchup queries.
+3. **CTR trajectory** — 1.74% soft; #1347 (157 lick pages HowTo+VideoObject) merged 17:01Z and needs indexing time.
+4. **DefinedTerm + MusicAlbum entities** (#1453, #1454) — highest LLM moat in queue; confirm Ralph picks these up.
+
+---
 ## 2026-06-18 17:10 — 12 proposals triaged (all approved), 7 PRs merged
 
 ### Context

@@ -335,6 +335,21 @@ function generateSlug(name) {
   return name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
 }
 
+function xmlEscape(str) {
+  if (!str) return '';
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+// Issue #1274: slug→band lookup for drummer image sitemap entries.
+const drummerBandBySlug = {};
+for (const d of DRUMMER_GEAR_DATA) {
+  drummerBandBySlug[generateSlug(d.name)] = d.band || null;
+}
+
 // Issue #997: gear/series "drummers-using" page URLs.
 // Mirrors slugifySeries + the dedupe rule in
 // packages/frontend/data/gearSeriesPages.js so these <loc>s match the
@@ -416,7 +431,20 @@ export default function handler(req, res) {
     // Issue #663: Album gear breakdown and drummer kit articles
     // Issue #1072: emit each article's real dateModified (falls back to SITE_LASTMOD).
     ...albumArticles.map(a => ({ loc: `/articles/${a.slug}`, lastmod: ALBUM_ARTICLES[a.slug]?.dateModified, priority: '0.9', changefreq: 'monthly' })),
-    ...drummers.map(d => ({ loc: `/drummer/${generateSlug(d.name)}`, priority: '0.8', changefreq: 'monthly' })),
+    ...drummers.map(d => {
+      const slug = generateSlug(d.name);
+      const band = drummerBandBySlug[slug] || null;
+      return {
+        loc: `/drummer/${slug}`,
+        priority: '0.8',
+        changefreq: 'monthly',
+        image: {
+          loc: `${BASE_URL}/api/card/${slug}?format=og`,
+          title: `${d.name} drum kit setup${band ? ' — ' + band : ''}`,
+          caption: `Complete drum gear setup of ${d.name}${band ? ' from ' + band : ''}`,
+        },
+      };
+    }),
     ...gearItems.map(g => ({ loc: `/gear/item/${g.slug}`, priority: '0.7', changefreq: 'monthly' })),
     // Issue #1171: /bands index hub + all 19 band pages at the correct plural path.
     { loc: '/bands', priority: '0.9', changefreq: 'weekly' },
@@ -512,12 +540,18 @@ export default function handler(req, res) {
     ),
   ];
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 ${urls.map(url => `  <url>
     <loc>${BASE_URL}${url.loc}</loc>
     <lastmod>${lastmodFor(url)}</lastmod>
     <changefreq>${url.changefreq}</changefreq>
-    <priority>${url.priority}</priority>
+    <priority>${url.priority}</priority>${url.image ? `
+    <image:image>
+      <image:loc>${url.image.loc}</image:loc>
+      <image:title>${xmlEscape(url.image.title)}</image:title>
+      <image:caption>${xmlEscape(url.image.caption)}</image:caption>
+    </image:image>` : ''}
   </url>`).join('\n')}
 </urlset>`;
   res.status(200).send(sitemap);

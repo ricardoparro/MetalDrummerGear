@@ -33,7 +33,7 @@ export const licks = {
       "Sustain double bass quality across full performance duration by maintaining economy of motion and heel-up technique without tightening the ankle under fatigue"
     ],
     "tutorial": {
-      "youtubeId": null,
+      "youtubeId": "E6XY8FkwLjo",
       "startTime": 0,
       "title": "Amon Amarth — Twilight of the Thunder God Live (Jocke Wallgren)",
       "description": "Jocke Wallgren performing Twilight of the Thunder God live with Amon Amarth, demonstrating groove-anchored double bass at 162 BPM and ride/snare independence"
@@ -110,7 +110,7 @@ export const licks = {
       "Navigate feel shifts in bridge sections cleanly — the overall momentum arc continues through these transitions even when the immediate rhythmic feel changes"
     ],
     "tutorial": {
-      "youtubeId": null,
+      "youtubeId": "5S9iruQus1s",
       "startTime": 0,
       "title": "Amon Amarth — Runes to My Memory Live (Jocke Wallgren)",
       "description": "Jocke Wallgren's groove-focused performance on Runes to My Memory with Amon Amarth, demonstrating targeted double bass placement and anthemic dynamic arc"
@@ -188,7 +188,7 @@ export const licks = {
       "Exit blast passages back into the groove feel cleanly and in-pocket — the re-entry must sit exactly on the beat without rushing or overshooting"
     ],
     "tutorial": {
-      "youtubeId": null,
+      "youtubeId": "eSC436FU9tA",
       "startTime": 0,
       "title": "Amon Amarth — Fafner's Gold (Jocke Wallgren drum performance)",
       "description": "Jocke Wallgren's blast beat sections and groove transitions on Fafner's Gold from Berserker, demonstrating melodic death metal blast technique and anthemic snare authority"

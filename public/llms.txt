@@ -8,7 +8,7 @@
 ## Core
 
 - [Drummer Database](/llms/index.md): Complete AI-readable index of all content
-- [All Drummers](/llms/drummers/): 63 per-drummer gear, bio, FAQ profiles
+- [All Drummers](/llms/drummers/): 61 per-drummer gear, bio, FAQ profiles
 - [Gear Guide](/llms/gear-guide.md): Drum brands and equipment overview
 - [Gear by Brand](/llms/gear-by-brand.md): Brand → drummer mapping
 - [FAQ](/llms/faq.md): Frequently asked questions about metal drummer gear
@@ -38,6 +38,9 @@
 - [Top-10 Lists](/llms/lists.md): Fastest drummers, best double bass, most innovative
 - [Facts](/llms/facts.md): Metal drummer quick facts database
 - [Quiz](/llms/quiz.md): Metal drum kit quiz content
+- [Gear Statistics](/llms/stats.md): Brand popularity data aggregated from 61 drummer gear records
+- [Style & Beginner Guides](/llms/guides.md): How-to-sound-like breakdowns + beginner gear guides
+- [Gear History](/llms/gear-history.md): Era-by-era gear evolution and equipment timelines
 
 ## Tools
 

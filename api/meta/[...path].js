@@ -300,6 +300,29 @@ function getMetaForPath(pathname) {
     };
   }
 
+  // /guides hub index
+  if (path === '/guides') {
+    return {
+      title: `Metal Drumming Guides — Sound Like the Legends & Beginner Tutorials | ${SITE_NAME}`,
+      description: 'Step-by-step guides to sound like your favourite metal drummers. Covers kit setup, tuning, technique, and gear selection for beginners and pros.',
+      image: `${BASE_URL}/images/og/techniques-preview.png`,
+      type: 'website',
+      url: `${BASE_URL}/guides`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        name: 'Metal Drumming Guides',
+        description: 'How-to guides and tutorials for metal drummers, covering technique, gear setup, and sound recreation',
+        url: `${BASE_URL}/guides`,
+        publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+      }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Drumming Guides', url: `${BASE_URL}/guides` },
+      ],
+    };
+  }
+
   // Sound-like guides: /guides/how-to-sound-like-<drummer-slug>
   const soundLikeMatch = path.match(/^\/guides\/(how-to-sound-like-([a-z0-9-]+))$/);
   if (soundLikeMatch) {

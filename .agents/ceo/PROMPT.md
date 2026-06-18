@@ -185,7 +185,20 @@ After writing, also:
 
 ### Decision Rules
 
-> **AGGRESSIVE PROMOTION MODE (active).** Implementation + merge throughput is now high (Ralph + auto-merge automation), so implementer bandwidth is no longer the binding constraint. **Keep the `ai-fix` queue FULL.** Approve liberally, do NOT park atomic, low-risk proposals in RESEARCH, and do NOT impose a backlog/queue-size cap — a deep `ai-fix` queue is the desired state, not noise. Triage every open `seo-proposal` every run; promoting is the default, holding is the exception you must justify.
+> **BACKLOG-CAPPED PROMOTION MODE (active).** Issue creation was outpacing Ralph's solve rate (~55/day), so the `ai-fix` queue grew unbounded. Promotion is now **gated by the eligible backlog** so work never exceeds what the implementer can clear:
+>
+> This gate applies to **every way work enters Ralph's queue** — promoting an `seo-proposal` to `ai-fix` **and** filing your own new `ai-fix` issue (founder ideas excepted — those are always top priority and bypass the cap). When the backlog is full, file your own ideas as `seo-proposal` instead, so they park in the idea bank.
+>
+> **Before promoting or filing any `ai-fix`, count the eligible `ai-fix` backlog:**
+> ```bash
+> gh issue list --state open --limit 500 --json number,labels \
+>   --jq '[.[] | select([.labels[].name] | index("ai-fix")) | select([.labels[].name] | (index("in-progress") or index("pr-opened") or index("hold") or index("blocked")) | not)] | length'
+> ```
+> - **Backlog ≥ 45** → **STOP promoting.** Triage proposals on quality but **leave approved ones as `seo-proposal`** (idea bank — they cost nothing parked). Do not add `ai-fix`. Note the hold in your run summary.
+> - **Backlog 25–44** → promote **sparingly** — only 5★ proposals, newest/highest-impact first, enough to top up toward ~45.
+> - **Backlog < 25** → promote liberally to refill toward the ~45 target band so the night fleet never starves.
+>
+> The cap bounds *work*, not *ideas*: SEO keeps proposing freely; those proposals simply wait as `seo-proposal` until the backlog has room. A deep `seo-proposal` bank is fine; a deep `ai-fix` queue is NOT — it means creation is outrunning solving. Re-raise the cap only if the measured solve rate rises.
 
 | Score Total | Decisão |
 |-------------|---------|

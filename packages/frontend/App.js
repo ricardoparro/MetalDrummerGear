@@ -5442,8 +5442,14 @@ function KitCostCalculator({ drummer, theme }) {
       url = getSweetwaterLink(primaryDrums, 'full-kit');
     }
 
-    // Track "Buy Setup" clicks separately with utm_campaign=buy-full-setup
     url = url.replace(/utm_campaign=[^&]+/, 'utm_campaign=buy-full-setup');
+
+    trackEvent('gear_click', {
+      gear_name: primaryDrums,
+      gear_type: 'full-kit',
+      store: store,
+      drummer_slug: drummer.id || '',
+    });
 
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
       window.open(url, '_blank', 'noopener,noreferrer');

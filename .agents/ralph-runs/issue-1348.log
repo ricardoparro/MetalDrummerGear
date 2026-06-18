@@ -1,3 +1,1 @@
-Fix already present in HEAD (api/meta/[...path].js lines 324-345).
-Handler added in commit bfa3c50 (PR #1420), run record committed in b1fe927 (PR #1460).
-Syntax validated: node --check passes. All three spec requirements confirmed in code.
+fix already shipped in bfa3c50 (#1420); /vs hub handler present at api/meta/[...path].js:365-386; CollectionPage JSON-LD + BreadcrumbList confirmed; syntax OK

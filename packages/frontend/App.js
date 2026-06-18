@@ -5387,7 +5387,7 @@ function GearSection({ title, content, theme, gearType, drummerName, drummerSlug
           accessibilityRole="link"
           accessibilityLabel={`Shop ${primaryProduct} at Sweetwater (US)`}
         >
-          <Text style={styles.shopButtonText}>Shop on Sweetwater</Text>
+          <Text style={styles.shopButtonText}>Shop on Sweetwater (US)</Text>
         </TouchableOpacity>
         <TouchableOpacity
           onPress={() => handleShopPress(affiliateLinks.thomann, 'Thomann')}
@@ -5395,7 +5395,7 @@ function GearSection({ title, content, theme, gearType, drummerName, drummerSlug
           accessibilityRole="link"
           accessibilityLabel={`Shop ${primaryProduct} at Thomann (EU)`}
         >
-          <Text style={styles.shopButtonText}>Shop on Thomann</Text>
+          <Text style={styles.shopButtonText}>Shop on Thomann (EU)</Text>
         </TouchableOpacity>
       </View>
     </View>

@@ -184,6 +184,47 @@ function getMetaForPath(pathname) {
       image: `${BASE_URL}/images/og/quiz-preview.png`,
       type: 'website',
       url: `${BASE_URL}/quiz`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@graph': [
+          {
+            '@type': 'FAQPage',
+            mainEntity: [
+              {
+                '@type': 'Question',
+                name: 'What is the MetalForge metal drummer quiz?',
+                acceptedAnswer: {
+                  '@type': 'Answer',
+                  text: 'The MetalForge quiz asks about your drumming style, preferred genres, and gear preferences to match you with a legendary metal drummer profile. Takes about 2 minutes.',
+                },
+              },
+              {
+                '@type': 'Question',
+                name: 'How many metal drummers are in the quiz?',
+                acceptedAnswer: {
+                  '@type': 'Answer',
+                  text: 'The quiz can match you to 60+ legendary metal drummers in the MetalForge database, from Lars Ulrich and Joey Jordison to George Kollias and Tomas Haake.',
+                },
+              },
+              {
+                '@type': 'Question',
+                name: 'Is the MetalForge drummer quiz free?',
+                acceptedAnswer: {
+                  '@type': 'Answer',
+                  text: 'Yes, the MetalForge drummer quiz is completely free. No signup required.',
+                },
+              },
+            ],
+          },
+          {
+            '@type': 'BreadcrumbList',
+            itemListElement: [
+              { '@type': 'ListItem', position: 1, name: 'Home', item: BASE_URL },
+              { '@type': 'ListItem', position: 2, name: 'Drummer Quiz', item: `${BASE_URL}/quiz` },
+            ],
+          },
+        ],
+      }),
     };
   }
 

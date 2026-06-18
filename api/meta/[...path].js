@@ -1495,6 +1495,50 @@ function getMetaForPath(pathname) {
     };
   }
 
+  // Issue #1407: /battles hub page
+  if (path === '/battles') {
+    return {
+      title: `Metal Drummer Battles — Vote for the Best | ${SITE_NAME}`,
+      description: 'Vote in head-to-head metal drummer battles. Who has the better kit? Compare setups and cast your vote for 60+ legendary drummers.',
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url: `${BASE_URL}/battles`,
+    };
+  }
+
+  // Issue #1407: /quotes hub page
+  if (path === '/quotes') {
+    return {
+      title: `Metal Drummer Quotes — Insights on Gear & Technique | ${SITE_NAME}`,
+      description: "Memorable quotes from the world's greatest metal drummers on gear, technique, and the craft. From Lars Ulrich, Joey Jordison, Tomas Haake, and 60+ legends.",
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url: `${BASE_URL}/quotes`,
+    };
+  }
+
+  // Issue #1407: /endorsement-news hub page
+  if (path === '/endorsement-news') {
+    return {
+      title: `Metal Drummer Endorsement News — Brand Deals & Sponsorships | ${SITE_NAME}`,
+      description: 'Latest endorsement deals and brand sponsorships in metal drumming. Track which drum brands are signing which metal drummers.',
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url: `${BASE_URL}/endorsement-news`,
+    };
+  }
+
+  // Issue #1407: /facts hub page
+  if (path === '/facts') {
+    return {
+      title: `Metal Drummer Quick Facts — Records, Stats & Trivia | ${SITE_NAME}`,
+      description: 'Quick facts, records, and trivia about metal drummers. Fastest blast beats, most expensive kits, career milestones, and gear stats from 60+ pros.',
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url: `${BASE_URL}/facts`,
+    };
+  }
+
   // Issue #1357: /drummer/<slug> profile pages — SSR with related article links
   const drummerPrefixMatch = path.match(/^\/drummer\/([a-z0-9-]+)$/);
   if (drummerPrefixMatch) {

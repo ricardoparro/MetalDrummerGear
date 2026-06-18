@@ -6428,10 +6428,13 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
   // Fix for Issue #640: Wait for extended bios module to load before checking
   // Similar fix as #541 - prevents race condition where module isn't loaded yet
   const [hasBio, setHasBio] = useState(false);
-  
+
   // Issue #767: Check if drummer has evolution timeline data
   const [hasEvolution, setHasEvolution] = useState(false);
-  
+
+  // Issue #1357: Related articles backlinks (reverse of #1332)
+  const [relatedArticles, setRelatedArticles] = useState([]);
+
   useEffect(() => {
     let mounted = true;
     preloadExtendedBios().then(() => {
@@ -6445,8 +6448,17 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
         setHasEvolution(hasEvolutionData(drummerSlug));
       }
     });
+    // Issue #1357: Load album articles and build reverse lookup
+    preloadAlbumArticles().then(() => {
+      if (mounted) {
+        const articles = getAllAlbumArticles()
+          .filter(a => a.drummerId === drummer.id || a.relatedDrummers?.includes(drummer.id))
+          .slice(0, 3);
+        setRelatedArticles(articles);
+      }
+    });
     return () => { mounted = false; };
-  }, [drummerSlug]);
+  }, [drummerSlug, drummer.id]);
 
   const handleEndorsementPress = (url) => {
     Linking.openURL(url);
@@ -6885,6 +6897,59 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
           allDrummers={allDrummers}
           theme={theme}
         />
+      )}
+
+      {/* Gear Deep Dives & Articles - Issue #1357: reverse-link from profile → articles
+          Builds bidirectional PageRank flow with #1332 (article → profile). */}
+      {relatedArticles.length > 0 && (
+        <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">
+            Gear Deep Dives &amp; Articles
+          </Text>
+          {relatedArticles.map((article) => (
+            Platform.OS === 'web' ? (
+              <a
+                key={article.slug}
+                href={`/articles/${article.slug}`}
+                onClick={(e) => {
+                  e.preventDefault();
+                  if (typeof window !== 'undefined') {
+                    window.history.pushState({}, '', `/articles/${article.slug}`);
+                    window.dispatchEvent(new PopStateEvent('popstate'));
+                  }
+                }}
+                style={{ textDecoration: 'none', display: 'block', marginBottom: 12 }}
+              >
+                <Text style={[styles.bioMoreLink, { color: theme.primary }]}>{article.title} →</Text>
+                {article.description ? (
+                  <Text style={[styles.bioText, { color: theme.secondaryText, marginTop: 2 }]} numberOfLines={2}>
+                    {article.description}
+                  </Text>
+                ) : null}
+              </a>
+            ) : (
+              <TouchableOpacity
+                key={article.slug}
+                onPress={() => {
+                  if (typeof window !== 'undefined') {
+                    window.history.pushState({}, '', `/articles/${article.slug}`);
+                    window.dispatchEvent(new PopStateEvent('popstate'));
+                  }
+                }}
+                accessibilityRole="link"
+                accessibilityLabel={`Read article: ${article.title}`}
+                style={{ marginBottom: 12 }}
+              >
+                <Text style={[styles.bioMoreLink, { color: theme.primary }]}>{article.title} →</Text>
+                {article.description ? (
+                  <Text style={[styles.bioText, { color: theme.secondaryText, marginTop: 2 }]} numberOfLines={2}>
+                    {article.description}
+                  </Text>
+                ) : null}
+              </TouchableOpacity>
+            )
+          ))}
+        </View>
       )}
 
       {/* Shared-Gear Drummers internal-linking block - Issue #1006 (split 2/3 of #874).

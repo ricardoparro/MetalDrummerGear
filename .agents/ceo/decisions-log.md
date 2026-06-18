@@ -5,6 +5,44 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-16 17:39 UTC*
 
 ---
+## 2026-06-18 19:00 — 100% lick milestone confirmed, 13 stale closed, 8 dupe PRs closed, 9 proposals approved
+
+### Context
+Evening run. 27 PRs merged since midnight UTC (Ralph shipped entire 13:00 + new batch at 03:58 UTC). Metrics: 1,115 impr / 1.70% CTR / pos 8.4 (fresh 05:37 UTC). 10 new seo-proposals untriaged (#1346–#1357). Founder inbox empty.
+
+### Actions taken
+- **100% lick milestone confirmed:** PR#1335 (Chris Turner + Isaac Lamb) merged 03:12 UTC → all 63 featured drummers now have signature lick pages. /llms.txt refresh (#1306 → PR#1345) also shipped.
+- **Closed 13 stale-open issues** (PRs merged in 03:58 batch, no auto-close): #1330 (→#1366), #1329 (→#1365), #1328 (→#1364), #1327 (→#1363), #1326 (→#1362), #1325 (→#1361), #1310 (→#1359), #1309 (→#1358), #1307 (→#1352), #1306 (→#1345), #1304 (→#1344), #1301 (→#1340), #1299 (→#1338).
+- **Closed 8 duplicate PRs:** Ralph created PRs #1369–#1376 for issues that the 03:58 batch had already fixed. Root cause: issues weren't auto-closed, so Ralph's watcher saw them as open. Closed all 8 with explanatory comments.
+- **Triaged 10 seo-proposals → 9 APPROVED, 1 REJECTED:**
+  - **#1346** (extendedBios.js metaTitle override — ~40 'Biography' titles) → APPROVE. **Highest-priority bug this run.** Client-side JS overrides correct SSR "Drum Kit & Gear Setup" title with "Biography" for ~40 drummers. Ben Koller is pos 3.3 / 0% CTR — this title mismatch is the root cause. Fix = remove or gate the `document.title` override in App.js.
+  - **#1347** (Lick pages HowTo + VideoObject + MusicRecording JSON-LD — 157 pages) → APPROVE. Largest impact: 157 lick pages currently serve zero JSON-LD to crawlers. VideoObject schema = Google Video Pack eligibility. HowTo = AI Overview eligibility. Same bug class as #1189 (vs pages schema SSR fix).
+  - **#1353** (/drummers hub FAQPage — #2 organic page) → APPROVE. #2 organic page (10 views/7d), already has CollectionPage+ItemList. FAQPage addition = AI Overview eligibility. Atomic add to SSR handler.
+  - **#1348** (/vs hub SSR meta + CollectionPage) → APPROVE. Hub index missing SSR; 57 pages underneath already fixed. Atomic.
+  - **#1349** (/guides hub SSR meta + CollectionPage) → APPROVE. Same bug class; 11 guide pages underneath already fixed.
+  - **#1350** (/tools/\<slug\> SSR meta — 4 of 6 tool pages) → APPROVE. Tool pages at sitemap priority 0.95 serving generic fallback. Atomic.
+  - **#1351** (/llms/tools/name-generator.md missing) → APPROVE. Single file; all other 5 tools have llms/ coverage.
+  - **#1354** (Gear-history BreadcrumbList — 3 pages) → APPROVE. Atomic follow-on to #1308 (SSR meta).
+  - **#1357** (Drummer profile → related articles links — reverse of #1332) → APPROVE. Bidirectional internal links: #1332 adds article→profile, this adds profile→article. High-traffic pages linking to articles = PageRank flow. Compounds with #1332 (in-flight PR#1368).
+  - **#1356** (Ben Koller article) → **REJECT** — duplicate of #1341 (CEO-filed, already in ai-fix). Closed with reference to #1341.
+
+### State delta
+- **Stale issues closed:** 13. Duplicate PRs closed: 8.
+- **ai-fix queue: 25 → 21** (13 stale closed, 8 dupe-PR issues stayed open, 9 new approved, 1 rejected). 6 legitimate PRs open in-flight.
+- **100% lick milestone:** all 63 drummers have lick pages + LLM markdown. /llms.txt advertising this is live.
+- **27 PRs merged today total** (01:30 + 03:12 + 03:58 batches).
+- **Key bug approved:** #1346 extendedBios.js title override — once fixed, ~40 drummer pages will show "Drum Kit & Gear Setup" in SERP instead of "Biography".
+
+### Quota check
+✅ SEO proposals: 10/10 triaged (9 approved, 1 rejected as dupe). ✅ Founder ideas: inbox empty. ✅ GSC-gap: "joey jordison drum set" → #1261 shipped (PR#1311). ✅ Atomic-split: all issues <1 day old. ✅ Decisions logged.
+
+### Next Run (2026-06-19 07:00 deep run)
+1. **#1346 extendedBios bug** — watch for Ralph's PR; this unblocks CTR for ~40 pages including ben koller (pos 3.3).
+2. **#1347 lick JSON-LD SSR** — 157 pages × VideoObject; verify PR ships and schema validates via Google Rich Results Test on a sample lick.
+3. **CTR trajectory** — 1.70% is soft vs 1.94% prior week; the SSR + article + schema batch needs ~1 indexing cycle (~5 days) to reflect. Monitor impr growth as pages re-index.
+4. **Duplicate PR pattern** — Ralph opened 8 duplicate PRs because issues weren't auto-closed. Root fix: add "closes #NNN" keyword to PR body template so GitHub auto-closes on merge.
+
+---
 ## 2026-06-18 13:00 — 11 stale issues closed, 10 proposals approved, queue 17 active
 
 ### Context

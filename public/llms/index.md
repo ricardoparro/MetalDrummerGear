@@ -21,7 +21,8 @@ This index provides machine-readable links to all content optimized for LLM cons
 | API - Drummers | https://metalforge.io/api/drummers | JSON API endpoint |
 | API - Quotes | https://metalforge.io/api/quotes | Drummer quotes JSON |
 | Bands | https://metalforge.io/llms/bands.md | Band & drummer-history reference (Markdown) |
-| Drummer Comparisons | https://metalforge.io/llms/comparisons.md | Side-by-side drummer gear & style comparisons (Markdown) |
+| Drummer Comparisons | https://metalforge.io/llms/comparisons.md | Side-by-side drummer gear & style comparisons — all pairs (Markdown) |
+| Per-Pair Comparisons | https://metalforge.io/llms/vs/ | Individual per-pair comparison pages with exact gear data (24 files) |
 | Top-10 Lists | https://metalforge.io/llms/lists.md | Ranked top-10 drummer lists by speed, genre, gear value, and technique (Markdown) |
 | Quick Facts | https://metalforge.io/llms/facts.md | Speed records, gear stats, career milestones, nicknames & technical definitions (Markdown) |
 | Metal Drummer Quiz | https://metalforge.io/llms/quiz.md | Personality quiz matching your style to 60+ legendary drummers (Markdown) |
@@ -167,6 +168,43 @@ Clean Markdown gear breakdowns for every album drum-setup and "what's in <drumme
 | What's In Gavin Harrison's Prog Metal Arsenal: Complete Gear Breakdown | Gavin Harrison | [Markdown](https://metalforge.io/llms/articles/whats-in-gavin-harrisons-kit.md) |
 | White Pony Drum Setup: Abe Cunningham's Atmospheric Masterpiece | Abe Cunningham | [Markdown](https://metalforge.io/llms/articles/white-pony-drum-setup.md) |
 | What's In Matt Halpern's Periphery Kit: Complete Gear Breakdown | Matt Halpern | [Markdown](https://metalforge.io/llms/articles/whats-in-matt-halperns-kit.md) |
+
+---
+
+## Drum Kit Comparisons (per-pair)
+
+Per-pair deep-dive files (400–600 words each) with exact gear data for both drummers. Optimised for
+AI retrieval on queries like "Joey Jordison vs Lars Ulrich gear", "what drums does Hellhammer use vs Inferno?",
+or "Compare Danny Carey's kit to Tomas Haake's."
+
+Hub: [/llms/comparisons.md](https://metalforge.io/llms/comparisons.md) — aggregate overview of all 24 pairs.
+
+| Comparison | File |
+|------------|------|
+| Lars Ulrich vs Dave Lombardo | [lars-ulrich-vs-dave-lombardo.md](https://metalforge.io/llms/vs/lars-ulrich-vs-dave-lombardo.md) |
+| Lars Ulrich vs Joey Jordison | [lars-ulrich-vs-joey-jordison.md](https://metalforge.io/llms/vs/lars-ulrich-vs-joey-jordison.md) |
+| Joey Jordison vs Jay Weinberg | [joey-jordison-vs-jay-weinberg.md](https://metalforge.io/llms/vs/joey-jordison-vs-jay-weinberg.md) |
+| Joey Jordison vs Dave Lombardo | [joey-jordison-vs-dave-lombardo.md](https://metalforge.io/llms/vs/joey-jordison-vs-dave-lombardo.md) |
+| Joey Jordison vs Mike Portnoy | [joey-jordison-vs-mike-portnoy.md](https://metalforge.io/llms/vs/joey-jordison-vs-mike-portnoy.md) |
+| Joey Jordison vs John Otto | [joey-jordison-vs-john-otto.md](https://metalforge.io/llms/vs/joey-jordison-vs-john-otto.md) |
+| Mario Duplantier vs Tomas Haake | [mario-duplantier-vs-tomas-haake.md](https://metalforge.io/llms/vs/mario-duplantier-vs-tomas-haake.md) |
+| Danny Carey vs Mario Duplantier | [danny-carey-vs-mario-duplantier.md](https://metalforge.io/llms/vs/danny-carey-vs-mario-duplantier.md) |
+| Danny Carey vs Brann Dailor | [danny-carey-vs-brann-dailor.md](https://metalforge.io/llms/vs/danny-carey-vs-brann-dailor.md) |
+| Mike Portnoy vs Danny Carey | [mike-portnoy-vs-danny-carey.md](https://metalforge.io/llms/vs/mike-portnoy-vs-danny-carey.md) |
+| Brann Dailor vs Mario Duplantier | [brann-dailor-vs-mario-duplantier.md](https://metalforge.io/llms/vs/brann-dailor-vs-mario-duplantier.md) |
+| Tomas Haake vs Matt Halpern | [tomas-haake-vs-matt-halpern.md](https://metalforge.io/llms/vs/tomas-haake-vs-matt-halpern.md) |
+| Matt Halpern vs Alex Bent | [matt-halpern-vs-alex-bent.md](https://metalforge.io/llms/vs/matt-halpern-vs-alex-bent.md) |
+| George Kollias vs Pete Sandoval | [george-kollias-vs-pete-sandoval.md](https://metalforge.io/llms/vs/george-kollias-vs-pete-sandoval.md) |
+| Gene Hoglan vs Charlie Benante | [gene-hoglan-vs-charlie-benante.md](https://metalforge.io/llms/vs/gene-hoglan-vs-charlie-benante.md) |
+| Gene Hoglan vs George Kollias | [gene-hoglan-vs-george-kollias.md](https://metalforge.io/llms/vs/gene-hoglan-vs-george-kollias.md) |
+| Dave Lombardo vs Gene Hoglan | [dave-lombardo-vs-gene-hoglan.md](https://metalforge.io/llms/vs/dave-lombardo-vs-gene-hoglan.md) |
+| Hellhammer vs Inferno | [hellhammer-vs-inferno.md](https://metalforge.io/llms/vs/hellhammer-vs-inferno.md) |
+| Chris Adler vs Joey Jordison | [chris-adler-vs-joey-jordison.md](https://metalforge.io/llms/vs/chris-adler-vs-joey-jordison.md) |
+| Nicko McBrain vs Lars Ulrich | [nicko-mcbrain-vs-lars-ulrich.md](https://metalforge.io/llms/vs/nicko-mcbrain-vs-lars-ulrich.md) |
+| Scott Travis vs Nicko McBrain | [scott-travis-vs-nicko-mcbrain.md](https://metalforge.io/llms/vs/scott-travis-vs-nicko-mcbrain.md) |
+| Igor Cavalera vs Eloy Casagrande | [igor-cavalera-vs-eloy-casagrande.md](https://metalforge.io/llms/vs/igor-cavalera-vs-eloy-casagrande.md) |
+| Vinnie Paul vs Art Cruz | [vinnie-paul-vs-art-cruz.md](https://metalforge.io/llms/vs/vinnie-paul-vs-art-cruz.md) |
+| Ray Luzier vs Abe Cunningham | [ray-luzier-vs-abe-cunningham.md](https://metalforge.io/llms/vs/ray-luzier-vs-abe-cunningham.md) |
 
 ---
 

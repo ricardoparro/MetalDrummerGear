@@ -504,6 +504,8 @@ export default function handler(req, res) {
     { loc: '/llms/quiz.md', priority: '0.6', changefreq: 'monthly' },
     // Issue #1330: gear stats LLM citation surface — brand-popularity data for AI queries.
     { loc: '/llms/stats.md', priority: '0.6', changefreq: 'monthly' },
+    // Issue #1401: gear brand insights LLM citation surface — named drummer citations with % data.
+    { loc: '/llms/gear-insights.md', priority: '0.6', changefreq: 'monthly' },
     // Issue #1273: tools section LLM citation surface — gear-search, dream-set-builder, kit-builder, gear-comparison, tier-list.
     { loc: '/llms/tools/gear-search.md', priority: '0.6', changefreq: 'monthly' },
     { loc: '/llms/tools/dream-set-builder.md', priority: '0.6', changefreq: 'monthly' },

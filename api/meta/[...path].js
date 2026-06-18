@@ -252,23 +252,33 @@ function getMetaForPath(pathname) {
     };
   }
 
-  // Sound-like guides
-  const soundLikeMatch = path.match(/^\/sound-like\/([a-z0-9-]+)$/);
+  // Sound-like guides: /guides/how-to-sound-like-<drummer-slug>
+  const soundLikeMatch = path.match(/^\/guides\/(how-to-sound-like-([a-z0-9-]+))$/);
   if (soundLikeMatch) {
-    const [, drummerSlug] = soundLikeMatch;
+    const drummerSlug = soundLikeMatch[2];
     const drummer = getDrummerBySlug(drummerSlug);
     if (drummer) {
       return {
-        title: `How to Sound Like ${drummer.name} | ${SITE_NAME}`,
-        description: `Get the ${drummer.band} sound! Complete gear guide and technique tips to achieve ${drummer.name}'s legendary drum tone.`,
-        image: `${BASE_URL}/api/og/guide?drummer=${drummerSlug}`,
+        title: `How to Sound Like ${drummer.name} — Drum Gear & Setup Guide | ${SITE_NAME}`,
+        description: `Replicate ${drummer.name}'s ${drummer.band} drum sound. Gear list, settings, and technique tips to get that signature tone.`,
         type: 'article',
-        url: `${BASE_URL}/sound-like/${drummerSlug}`,
+        url: `${BASE_URL}/guides/${soundLikeMatch[1]}`,
       };
     }
   }
 
-  // Beginner guide
+  // Beginner guide and other /guides/<slug> pages
+  const guidesMatch = path.match(/^\/guides\/([a-z0-9-]+)$/);
+  if (guidesMatch) {
+    return {
+      title: `Metal Drumming Guide | ${SITE_NAME}`,
+      description: 'Essential guide for metal drummers covering gear, technique, and setup.',
+      type: 'article',
+      url: `${BASE_URL}/guides/${guidesMatch[1]}`,
+    };
+  }
+
+  // Beginner guide (legacy path)
   if (path === '/beginner-guide') {
     return {
       title: `Metal Drumming Beginner's Guide | ${SITE_NAME}`,

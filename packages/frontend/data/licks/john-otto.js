@@ -33,7 +33,7 @@ export const licks = {
       "Strip the breakdown to minimal kick and snare hits with maximum space — let the silence do the work"
     ],
     "tutorial": {
-      "youtubeId": null,
+      "youtubeId": "ZpUYjpKg9KY",
       "startTime": 0,
       "title": "Limp Bizkit — Break Stuff (John Otto drum performance)",
       "description": "John Otto's signature nu-metal groove on Break Stuff from Significant Other, demonstrating hip-hop kick placement, open snare tone, and jazz-influenced hi-hat dynamics"
@@ -110,7 +110,7 @@ export const licks = {
       "Calibrate the physical snare stroke for maximum centred punch and follow-through so the crack is in the technique before the signal chain adds processing"
     ],
     "tutorial": {
-      "youtubeId": null,
+      "youtubeId": "RYnFIRc0k6E",
       "startTime": 0,
       "title": "Limp Bizkit — Rollin' (John Otto drum performance)",
       "description": "John Otto's hip-hop-influenced metal groove on Rollin' from Chocolate Starfish and the Hot Dog Flavored Water, demonstrating angular kick placement and dynamic snare weight"
@@ -187,7 +187,7 @@ export const licks = {
       "Match the ghost-note escalation in the build sections to the guitar's dynamic arc so the drum and guitar arrive at the chorus together as a unified swell"
     ],
     "tutorial": {
-      "youtubeId": null,
+      "youtubeId": "JTMVOzPPtiw",
       "startTime": 0,
       "title": "Limp Bizkit — Nookie (John Otto drum performance)",
       "description": "John Otto's fill construction, breakdown technique, and groove restraint on Nookie from Significant Other"

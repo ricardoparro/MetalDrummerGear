@@ -762,6 +762,7 @@ function getMetaForPath(pathname) {
           { name: 'Articles', url: `${BASE_URL}/articles` },
           { name: articleMeta.headline, url: `${BASE_URL}/articles/${articleSlug}` },
         ],
+        speakableSchema: true,
       };
     }
 
@@ -795,6 +796,7 @@ function getMetaForPath(pathname) {
           { name: album.title, url: `${BASE_URL}/articles/${articleSlug}` },
         ],
         faqSchema: Array.isArray(album.faq) && album.faq.length > 0 ? album.faq : null,
+        speakableSchema: true,
       };
     }
 
@@ -1665,6 +1667,23 @@ ${JSON.stringify(schema, null, 2)}
   </script>`;
 }
 
+// Generate SpeakableSpecification JSON-LD (Issue #1403)
+function generateSpeakableSchema(meta) {
+  if (!meta.speakableSchema) return '';
+
+  const schema = {
+    '@context': 'https://schema.org',
+    '@type': 'SpeakableSpecification',
+    cssSelector: ['h1', '.article-lead', '.key-fact'],
+  };
+
+  return `
+  <!-- SpeakableSpecification Structured Data (Issue #1403) -->
+  <script type="application/ld+json">
+${JSON.stringify(schema, null, 2)}
+  </script>`;
+}
+
 // Generate BreadcrumbList JSON-LD (Issue #1189)
 function generateBreadcrumbSchema(meta) {
   if (!meta.breadcrumbSchema || !meta.breadcrumbSchema.length) return '';
@@ -1692,6 +1711,7 @@ function generateMetaHtml(meta, originalUrl) {
   const articleSchemaScript = generateArticleSchema(meta);
   const breadcrumbSchemaScript = generateBreadcrumbSchema(meta);
   const faqSchemaScript = generateFaqSchema(meta);
+  const speakableSchemaScript = generateSpeakableSchema(meta);
   
   return `<!DOCTYPE html>
 <html lang="en" prefix="og: https://ogp.me/ns#">
@@ -1742,6 +1762,7 @@ function generateMetaHtml(meta, originalUrl) {
   ${articleSchemaScript}
   ${breadcrumbSchemaScript}
   ${faqSchemaScript}
+  ${speakableSchemaScript}
   <!-- Redirect browsers to actual SPA -->
   <noscript>
     <meta http-equiv="refresh" content="0; url=${originalUrl}">

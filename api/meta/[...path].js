@@ -656,6 +656,31 @@ function getMetaForPath(pathname) {
     };
   }
 
+  // Issue #1266: /drummer/<slug>/<category> gear category pages (~90 pages)
+  const drummerCategoryMatch = path.match(/^\/drummer\/([a-z0-9-]+)\/([a-z0-9-]+)$/);
+  if (drummerCategoryMatch) {
+    const [, drummerSlug, category] = drummerCategoryMatch;
+    const drummer = getDrummerBySlug(drummerSlug);
+    if (drummer) {
+      const categoryLabel = category.charAt(0).toUpperCase() + category.slice(1);
+      return {
+        title: `${drummer.name} ${categoryLabel} — Drum Gear & Setup | ${SITE_NAME}`,
+        description: `See what ${categoryLabel.toLowerCase()} ${drummer.name} uses. Complete ${drummer.band} drummer gear list with specs and prices.`,
+        type: 'website',
+        url: `${BASE_URL}/drummer/${drummerSlug}/${category}`,
+        articleSchema: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'BreadcrumbList',
+          itemListElement: [
+            { '@type': 'ListItem', position: 1, name: 'Home', item: BASE_URL },
+            { '@type': 'ListItem', position: 2, name: drummer.name, item: `${BASE_URL}/${drummerSlug}` },
+            { '@type': 'ListItem', position: 3, name: categoryLabel, item: `${BASE_URL}/drummer/${drummerSlug}/${category}` },
+          ],
+        }),
+      };
+    }
+  }
+
   // Default fallback
   return {
     title: `${SITE_NAME} — Metal Drummer Gear Database`,

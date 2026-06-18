@@ -20918,7 +20918,7 @@ Ben Koller joined Converge at 20 years old and has never stopped. In a genre tha
     dateModified: '2026-06-18',
     author: 'MetalForge Editorial',
     // SEO
-    title: 'Joey Jordison Drum Setup: The Complete Slipknot Gear Breakdown',
+    title: 'Joey Jordison Drum Setup: Slipknot Drummer Kit & Gear Breakdown',
     description: "What drum set did Joey Jordison use? Complete gear breakdown of his Pearl kit, Sabian cymbals, and DW pedals — the rig that defined Slipknot's sound.",
     seoKeywords: ['joey jordison', 'joey jordison drum set', 'joey jordison drum kit', 'slipknot drummer gear', 'joey jordison setup', 'joey jordison pearl drums', 'joey jordison sabian cymbals', 'slipknot drummer kit', 'joey jordison drum setup'],
     ogImage: '/images/drummers/joey-jordison.webp',

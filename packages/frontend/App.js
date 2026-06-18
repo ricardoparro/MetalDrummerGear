@@ -1863,6 +1863,90 @@ function PopularBrands({ theme }) {
 }
 
 // ==========================================
+// BROWSE BY GEAR CATEGORY - Internal links to gear category hubs (Issue #1235)
+// ==========================================
+
+const BROWSE_GEAR_CATEGORIES = [
+  { slug: 'drums', label: 'Metal Drum Kits', icon: '🥁' },
+  { slug: 'cymbals', label: 'Metal Cymbals', icon: '🔔' },
+  { slug: 'snares', label: 'Metal Snare Drums', icon: '🪘' },
+  { slug: 'pedals', label: 'Metal Bass Drum Pedals', icon: '⚙️' },
+  { slug: 'sticks', label: 'Metal Drumsticks', icon: '🥢' },
+  { slug: 'hardware', label: 'Metal Drum Hardware', icon: '🔧' },
+];
+
+function BrowseByGearCategory({ theme }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+
+  const navigateToCategory = (slug) => {
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', `/gear/${slug}`);
+      window.dispatchEvent(new PopStateEvent('popstate'));
+    }
+  };
+
+  const renderCard = (category) => {
+    if (Platform.OS === 'web') {
+      return (
+        <a
+          key={category.slug}
+          href={`/gear/${category.slug}`}
+          onClick={(e) => { e.preventDefault(); navigateToCategory(category.slug); }}
+          style={{
+            textDecoration: 'none',
+            width: isMobile ? 'calc(50% - 6px)' : 'calc(33.33% - 8px)',
+            display: 'block',
+          }}
+          aria-label={`Browse ${category.label}`}
+        >
+          <View style={[styles.gearCategoryCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={styles.gearCategoryCardIcon}>{category.icon}</Text>
+            <Text style={[styles.gearCategoryCardLabel, { color: theme.text }]}>{category.label}</Text>
+          </View>
+        </a>
+      );
+    }
+    return (
+      <TouchableOpacity
+        key={category.slug}
+        onPress={() => navigateToCategory(category.slug)}
+        style={[
+          styles.gearCategoryCard,
+          { backgroundColor: theme.card, borderColor: theme.border },
+          { width: isMobile ? '48%' : '31%' },
+        ]}
+        accessibilityRole="link"
+        accessibilityLabel={`Browse ${category.label}`}
+      >
+        <Text style={styles.gearCategoryCardIcon}>{category.icon}</Text>
+        <Text style={[styles.gearCategoryCardLabel, { color: theme.text }]}>{category.label}</Text>
+      </TouchableOpacity>
+    );
+  };
+
+  return (
+    <View
+      style={[styles.gearCategorySection, { backgroundColor: 'transparent' }]}
+      accessibilityRole="region"
+      accessibilityLabel="Browse by Gear Type"
+    >
+      <View style={styles.gearCategoryHeader}>
+        <Text style={[styles.gearCategoryTitle, { color: theme.text }]} accessibilityRole="header">
+          🎸 Browse by Gear Type
+        </Text>
+        <Text style={[styles.gearCategorySubtitle, { color: theme.secondaryText }]}>
+          Explore metal drumming gear by category
+        </Text>
+      </View>
+      <View style={styles.gearCategoryGrid}>
+        {BROWSE_GEAR_CATEGORIES.map(renderCard)}
+      </View>
+    </View>
+  );
+}
+
+// ==========================================
 // TRENDING THIS WEEK SECTION - Top drummers by page views (Issue #671)
 // ==========================================
 
@@ -17926,6 +18010,8 @@ function DrummerList({
         onNavigateToCompare={onNavigateToCompare}
         onNavigateToBeginnerGuide={onNavigateToBeginnerGuide}
       />
+      {/* Browse by Gear Type - 6 category hub links (Issue #1235) */}
+      <BrowseByGearCategory theme={theme} />
       {/* Explore Tools Strip - replaces 14-button wall (Issue #1232, #1234) */}
       <ExploreToolsStrip
         theme={theme}
@@ -35487,6 +35573,45 @@ const styles = StyleSheet.create({
   popularBrandChipLabel: {
     fontSize: 14,
     fontWeight: '600',
+  },
+
+  gearCategorySection: {
+    marginVertical: 24,
+    paddingHorizontal: 20,
+  },
+  gearCategoryHeader: {
+    marginBottom: 16,
+  },
+  gearCategoryTitle: {
+    fontSize: 24,
+    fontWeight: '700',
+    marginBottom: 4,
+  },
+  gearCategorySubtitle: {
+    fontSize: 14,
+  },
+  gearCategoryGrid: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 12,
+  },
+  gearCategoryCard: {
+    borderWidth: 1,
+    borderRadius: 12,
+    padding: 16,
+    alignItems: 'center',
+    justifyContent: 'center',
+    minHeight: 90,
+  },
+  gearCategoryCardIcon: {
+    fontSize: 28,
+    marginBottom: 8,
+  },
+  gearCategoryCardLabel: {
+    fontSize: 13,
+    fontWeight: '600',
+    textAlign: 'center',
+    lineHeight: 18,
   },
 
 });

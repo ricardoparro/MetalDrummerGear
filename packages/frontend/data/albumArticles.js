@@ -3973,7 +3973,7 @@ Performing Painkiller-level material requires athlete-level conditioning. Travis
       { youtubeId: 'nM__lPTWThU', title: 'Painkiller - Live (Official Video)', description: 'Original music video showcasing the legendary intro' },
     ],
     relatedAlbums: ['reign-in-blood-drum-setup', 'master-of-puppets-drum-setup'],
-    relatedDrummers: [4, 1, 3], // Dave Lombardo, Lars Ulrich, Gene Hoglan
+    relatedDrummers: [4, 1, 3, 2], // Dave Lombardo, Lars Ulrich, Gene Hoglan, Joey Jordison
     relatedArticles: ['fastest-double-bass-drummers', 'thrash-metal-drummers'],
     conclusion: {
       title: 'The Standard That Still Stands',

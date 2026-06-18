@@ -210,22 +210,44 @@ His blistering speed, technical precision, and theatrical stage presence—inclu
         ]
       },
       gearHighlights: {
-        title: 'Gear Highlights',
+        title: 'Drum Kit Specs & Gear',
         content: `Joey Jordison was a Pearl Drums endorser for most of his career, developing signature products that remain popular with metal drummers. His setup was designed for speed, power, and durability during intense performances.
 
-**Signature Setup (Peak Slipknot Era):**
-- **Drums**: Pearl Reference Series in custom purple/black finishes
-- **Snare**: Pearl Joey Jordison Signature 13"x6.5" (smaller diameter for faster response)
-- **Cymbals**: Paiste RUDE and 2002 series (known for durability and cut)
-- **Hardware**: Pearl Demon Drive double pedal; Pearl Icon rack system
-- **Sticks**: Promark Joey Jordison Signature TX515W
-- **Heads**: Evans (Hydraulic or EC2 series)
+**Slipknot Era Kit (1996–2008) — Pearl Masters MMX / Masters Premium Maple:**
+- **Bass Drum**: 22"×18" kick (single and double configurations)
+- **Toms**: 10", 12", 14", 16" rack and floor toms
+- **Shell Material**: Maple — warm attack with defined transient
+- **Finish**: Custom black/blood-red burst wraps matching Slipknot's visual identity
+
+**Later Era Kit (2009–2013) — Pearl Reference Pure:**
+- **Bass Drum**: 22"×18"
+- **Toms**: 12", 13", 16" (streamlined tom count for faster setups)
+- **Shell Material**: Reference Pure maple/mahogany hybrid
+
+**Snare:**
+- Pearl Joey Jordison Signature 13"×6.5" — smaller-than-standard diameter for machine-gun rolls and rapid-fire fills
+
+**Cymbals — Paiste RUDE & 2002 Series:**
+- **Hi-Hats**: 14" RUDE (heavy, cutting response)
+- **Crashes**: 16" and 18" 2002 Medium Crash
+- **Ride**: 20" RUDE Ride
+- **China**: 18" RUDE China
+
+**Bass Drum Pedals:**
+- Pearl Demon Drive Double Pedal (direct-drive, zero lag — critical for 200+ BPM patterns)
+
+**Drum Heads:**
+- **Batter**: Remo Ambassador Coated (balanced attack and sustain control)
+- **Resonant**: Remo Ambassador Clear
+
+**Sticks:**
+- Promark Joey Jordison Signature TX515W (5B taper, nylon tip, 15.75" length)
 
 **Notable Gear Innovations:**
 - Pioneered the rotating/inverted drum platform for theatrical performances
 - Used a 13" snare (smaller than standard 14") for faster response
-- Custom drum rack system to support the rotating rig
-- Later switched to SJC Drums for post-Slipknot projects`
+- Pearl Icon rack system to support the rotating rig
+- Post-Slipknot projects used ddrum Hybrid Series with ddrum Mercury pedals`
       },
       trivia: {
         title: 'Trivia & Notes',
@@ -244,6 +266,10 @@ His blistering speed, technical precision, and theatrical stage presence—inclu
       faq: {
         title: 'Frequently Asked Questions',
         items: [
+          { q: 'What drum set did Joey Jordison use?', a: 'Joey Jordison used Pearl drum sets throughout his Slipknot career — Pearl Masters MMX and Masters Premium Maple during the peak era (1996–2008), and Pearl Reference Pure for later projects (2009–2013). His kits featured a 22"×18" bass drum, signature 13"×6.5" snare, and Paiste RUDE cymbals.' },
+          { q: "What was Joey Jordison's drum kit?", a: "Joey Jordison's primary drum kit during the Slipknot era was Pearl Masters Premium Maple with a 22\"×18\" kick, 10\"/12\"/14\"/16\" toms, and his signature 13\"×6.5\" Pearl snare. He later moved to Pearl Reference Pure shells for side projects." },
+          { q: 'What cymbals did Joey Jordison use?', a: 'Joey Jordison used Paiste RUDE and 2002 series cymbals — 14" RUDE hi-hats, 16" and 18" crashes, 20" RUDE ride, and 18" RUDE china. The RUDE series was chosen for its extreme durability and cutting projection in loud live settings.' },
+          { q: 'What bass drum pedals did Joey Jordison use?', a: 'Joey Jordison used Pearl Demon Drive double bass drum pedals, a direct-drive design that delivers zero-lag response — essential for sustaining his 200+ BPM double-kick patterns on songs like "Eyeless" and "Disasterpiece".' },
           { q: 'What drums did Joey Jordison play?', a: 'Joey Jordison played Pearl Reference Series drums with his signature 13"x6.5" snare.' },
           { q: 'When did Joey Jordison die?', a: 'Joey Jordison passed away on July 26, 2021, at age 46.' },
           { q: 'Why did Joey Jordison leave Slipknot?', a: 'Joey left Slipknot in 2013; he later revealed he had been battling transverse myelitis.' },

@@ -4792,6 +4792,18 @@ function updateDocumentMeta(drummer, drummers = [], filters = {}) {
       );
     }
 
+    // Bass drum pedals FAQ — targets "what pedals does X use" / "what bass drum pedals did X use"
+    if (drummer.gear && drummer.gear.hardware) {
+      faqItems.push({
+        "@type": "Question",
+        "name": `What bass drum pedals did ${drummer.name} use?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `${drummer.name} used ${drummer.gear.hardware}.`
+        }
+      });
+    }
+
     // Add endorsements FAQ if available
     if (drummer.endorsements && drummer.endorsements.length > 0) {
       const endorsementNames = drummer.endorsements.map(e => e.name).join(', ');
@@ -11876,6 +11888,30 @@ function DrummerBioPage({ theme, onBack, drummer, onSelectDrummer }) {
         document.head.appendChild(ldScript);
       }
       ldScript.textContent = JSON.stringify(articleSchema);
+
+      // FAQPage schema for bio page (targets verbatim GSC queries like "joey jordison drum set")
+      if (bio.sections.faq && bio.sections.faq.items && bio.sections.faq.items.length > 0) {
+        const faqSchema = {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": bio.sections.faq.items.map(item => ({
+            "@type": "Question",
+            "name": item.q,
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": item.a
+            }
+          }))
+        };
+        let bioFaqScript = document.querySelector('script[data-schema="bio-faq"]');
+        if (!bioFaqScript) {
+          bioFaqScript = document.createElement('script');
+          bioFaqScript.type = 'application/ld+json';
+          bioFaqScript.setAttribute('data-schema', 'bio-faq');
+          document.head.appendChild(bioFaqScript);
+        }
+        bioFaqScript.textContent = JSON.stringify(faqSchema);
+      }
     }
 
     // Cleanup on unmount
@@ -11883,6 +11919,8 @@ function DrummerBioPage({ theme, onBack, drummer, onSelectDrummer }) {
       if (Platform.OS === 'web' && typeof document !== 'undefined') {
         const ldScript = document.querySelector('script[data-schema="bio"]');
         if (ldScript) ldScript.remove();
+        const bioFaqScript = document.querySelector('script[data-schema="bio-faq"]');
+        if (bioFaqScript) bioFaqScript.remove();
       }
     };
   }, [bio, drummer, drummerSlug]);
@@ -12060,6 +12098,25 @@ function DrummerBioPage({ theme, onBack, drummer, onSelectDrummer }) {
             <Text style={[styles.bioSectionContent, { color: theme.secondaryText }]}>
               {bio.sections.gearHighlights.content}
             </Text>
+          </View>
+        )}
+
+        {/* FAQ Section */}
+        {bio.sections.faq && bio.sections.faq.items && bio.sections.faq.items.length > 0 && (
+          <View style={[styles.bioSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.bioSectionTitle, { color: theme.text }]} accessibilityRole="heading" aria-level="2">
+              {bio.sections.faq.title}
+            </Text>
+            {bio.sections.faq.items.map((item, index) => (
+              <View key={index} style={{ marginBottom: index < bio.sections.faq.items.length - 1 ? 16 : 0 }}>
+                <Text style={[styles.faqQuestion, { color: theme.text, fontWeight: 'bold', marginBottom: 4, fontSize: 15 }]}>
+                  {item.q}
+                </Text>
+                <Text style={[styles.faqAnswer, { color: theme.secondaryText, fontSize: 14, lineHeight: 22 }]}>
+                  {item.a}
+                </Text>
+              </View>
+            ))}
           </View>
         )}
 

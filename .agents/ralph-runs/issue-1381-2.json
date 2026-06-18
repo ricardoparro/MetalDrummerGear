@@ -1,0 +1,1 @@
+{"issue":1381,"date":"2026-06-18","branch":"ralph/issue-1381-20260618222317","status":"already-shipped","notes":"Fix verified present in api/meta/[...path].js: GEAR_ITEM_META map (all 10 entries, lines 1284-1335) and gearItemMatch handler placed before gearCategoryMatch (lines 1337-1373). Previously shipped in PR #1441, run record in PR #1543."}

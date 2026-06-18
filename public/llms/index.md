@@ -34,6 +34,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Tools — Kit Builder | https://metalforge.io/llms/tools/kit-builder.md | Brand-first drum kit configurator (Markdown) |
 | Tools — Gear Comparison | https://metalforge.io/llms/tools/gear-comparison.md | Side-by-side drummer gear comparison (Markdown) |
 | Tools — Tier List | https://metalforge.io/llms/tools/tier-list.md | Interactive metal drummer tier-list ranker (Markdown) |
+| Drummer Style Guides | https://metalforge.io/llms/guides.md | How-to-sound-like style guides for 10 metal legends + beginner gear guides (Markdown) |
 
 ---
 

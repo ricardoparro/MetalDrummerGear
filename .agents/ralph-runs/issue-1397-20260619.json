@@ -1,0 +1,1 @@
+{"status":"already-shipped","issue":1397,"note":"breadcrumbSchema [Home, Drummers, drummer.name] already present in drummerMatch return block at api/meta/[...path].js:1384-1388. Previously shipped in #1535 and #1567. Code verified correct, syntax OK.","verifiedAt":"2026-06-19"}

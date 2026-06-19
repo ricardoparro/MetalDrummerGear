@@ -16,10 +16,11 @@ import {
   StyleSheet
 } from 'react-native';
 import { Image } from 'expo-image';
-import { 
+import {
   getSignatureGearBySlug,
   generateSignatureGearSchema,
   generateGearBreadcrumbSchema,
+  generateGearFAQSchema,
   getSignatureGearByDrummerSlug
 } from '../data/signatureGear';
 import { colors } from '../colors';
@@ -692,6 +693,37 @@ function SimilarGearSection({ similarGear, theme, isMobile, onNavigateToGear }) 
 }
 
 // Breadcrumb Navigation
+// FAQ Section
+function FAQSection({ faq, theme, isMobile }) {
+  const [openIndex, setOpenIndex] = useState(null);
+
+  if (!faq || faq.length === 0) return null;
+
+  return (
+    <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+      <Text style={[styles.sectionTitle, { color: theme.text }]}>❓ Frequently Asked Questions</Text>
+      {faq.map((item, idx) => (
+        <View key={idx} style={[styles.faqItem, { borderBottomColor: theme.border }]}>
+          <TouchableOpacity
+            onPress={() => setOpenIndex(openIndex === idx ? null : idx)}
+            style={styles.faqQuestion}
+            accessibilityLabel={item.question}
+            accessibilityRole="button"
+          >
+            <Text style={[styles.faqQuestionText, { color: theme.text }]}>{item.question}</Text>
+            <Text style={[styles.faqToggle, { color: theme.primary }]}>
+              {openIndex === idx ? '▲' : '▼'}
+            </Text>
+          </TouchableOpacity>
+          {openIndex === idx && (
+            <Text style={[styles.faqAnswer, { color: theme.secondaryText }]}>{item.answer}</Text>
+          )}
+        </View>
+      ))}
+    </View>
+  );
+}
+
 function Breadcrumbs({ gear, theme, onNavigate }) {
   const crumbs = [
     { label: 'Home', path: '/' },
@@ -777,6 +809,19 @@ export function SignatureGearSpotlightPage({ theme, onBack, onSelectDrummer, all
             }
             bcScript.textContent = JSON.stringify(breadcrumbSchema);
           }
+
+          // FAQ schema
+          const faqSchema = generateGearFAQSchema(loadedGear);
+          if (faqSchema) {
+            let faqScript = document.querySelector('script[data-schema="signature-gear-faq"]');
+            if (!faqScript) {
+              faqScript = document.createElement('script');
+              faqScript.type = 'application/ld+json';
+              faqScript.setAttribute('data-schema', 'signature-gear-faq');
+              document.head.appendChild(faqScript);
+            }
+            faqScript.textContent = JSON.stringify(faqSchema);
+          }
         }
 
         // Track page view
@@ -797,8 +842,10 @@ export function SignatureGearSpotlightPage({ theme, onBack, onSelectDrummer, all
       if (Platform.OS === 'web' && typeof document !== 'undefined') {
         const productScript = document.querySelector('script[data-schema="signature-gear-product"]');
         const bcScript = document.querySelector('script[data-schema="signature-gear-breadcrumb"]');
+        const faqScript = document.querySelector('script[data-schema="signature-gear-faq"]');
         if (productScript) productScript.remove();
         if (bcScript) bcScript.remove();
+        if (faqScript) faqScript.remove();
       }
     };
   }, [allDrummers]);
@@ -868,6 +915,9 @@ export function SignatureGearSpotlightPage({ theme, onBack, onSelectDrummer, all
 
         {/* Used On Section */}
         <UsedOnSection usedOn={gear.usedOn} theme={theme} isMobile={isMobile} />
+
+        {/* FAQ Section */}
+        <FAQSection faq={gear.faq} theme={theme} isMobile={isMobile} />
 
         {/* Similar Gear Section */}
         <SimilarGearSection 
@@ -1416,6 +1466,33 @@ const styles = StyleSheet.create({
     marginTop: 4,
   },
   
+  // FAQ Section
+  faqItem: {
+    borderBottomWidth: 1,
+    paddingVertical: 2,
+  },
+  faqQuestion: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    paddingVertical: 14,
+  },
+  faqQuestionText: {
+    fontSize: 15,
+    fontWeight: '600',
+    flex: 1,
+    paddingRight: 8,
+  },
+  faqToggle: {
+    fontSize: 12,
+    fontWeight: '700',
+  },
+  faqAnswer: {
+    fontSize: 14,
+    lineHeight: 22,
+    paddingBottom: 14,
+  },
+
   // Sticky CTA
   stickyCTA: {
     position: 'absolute',

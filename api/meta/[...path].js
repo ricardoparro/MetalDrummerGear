@@ -27,6 +27,8 @@ import { gearItems } from '../gear/[slug].js';
 import { SOUND_LIKE_GUIDES, generateGuideSchema } from '../../packages/frontend/data/soundLikeGuides.js';
 // Issue #1475: drummer gear evolution pages SSR meta.
 import { DRUMMER_EVOLUTION } from '../../packages/frontend/data/drummerEvolution.js';
+// Issue #1473: /battles/<slug> individual pages — FAQPage + BreadcrumbList JSON-LD.
+import { CURATED_MATCHUPS } from '../../packages/frontend/data/battles.js';
 
 const BASE_URL = 'https://metalforge.io';
 const SITE_NAME = 'MetalForge';
@@ -42,6 +44,24 @@ drummers.forEach(d => {
   const slug = d.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
   drummerSlugToName[slug] = d.name;
 });
+
+// Issue #1473: battle-slug → {d1, d2, title} lookup built from CURATED_MATCHUPS.
+// Slugs mirror the front-end generateDrummerSlug + getBattleSlug logic so they
+// resolve 1:1 with the live /battles/<slug> routes.
+function _battleDrummerSlug(name) {
+  return name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+}
+const _drummerById = {};
+drummers.forEach(d => { _drummerById[d.id] = d; });
+const BATTLE_BY_SLUG = {};
+for (const m of CURATED_MATCHUPS) {
+  const d1 = _drummerById[m.drummer1Id];
+  const d2 = _drummerById[m.drummer2Id];
+  if (d1 && d2) {
+    const battleSlug = `${_battleDrummerSlug(d1.name)}-vs-${_battleDrummerSlug(d2.name)}`;
+    BATTLE_BY_SLUG[battleSlug] = { d1, d2, title: m.title };
+  }
+}
 
 // Issue #1140: per-drummer SEO title/description overrides for pages where the
 // generic "<name> — Complete Gear Setup" title under-serves a high-volume query
@@ -1918,6 +1938,38 @@ function getMetaForPath(pathname) {
       type: 'website',
       url: `${BASE_URL}/battles`,
     };
+  }
+
+  // Issue #1473: /battles/<slug> — individual curated battle pages (8 matchups)
+  const battlePageMatch = path.match(/^\/battles\/([^/]+)\/?$/);
+  if (battlePageMatch) {
+    const battleSlug = battlePageMatch[1];
+    const battle = BATTLE_BY_SLUG[battleSlug];
+    if (battle) {
+      const { d1, d2 } = battle;
+      return {
+        title: `${d1.name} vs ${d2.name} — Drum Kit Battle | ${SITE_NAME}`,
+        description: `Who has the better drum kit? ${d1.name} (${d1.band}) vs ${d2.name} (${d2.band}). Full gear breakdown, specs, and community vote.`,
+        image: DEFAULT_IMAGE,
+        type: 'website',
+        url: `${BASE_URL}/battles/${battleSlug}`,
+        faqSchema: [
+          {
+            question: `What drum kit does ${d1.name} use?`,
+            answer: `${d1.name} (${d1.band}) uses ${d1.gear?.drums || 'a custom drum kit'}. Full gear breakdown including cymbals and hardware on MetalForge.`,
+          },
+          {
+            question: `What drum kit does ${d2.name} use?`,
+            answer: `${d2.name} (${d2.band}) uses ${d2.gear?.drums || 'a custom drum kit'}. Full gear breakdown including cymbals and hardware on MetalForge.`,
+          },
+        ],
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: 'Battles', url: `${BASE_URL}/battles` },
+          { name: `${d1.name} vs ${d2.name}`, url: `${BASE_URL}/battles/${battleSlug}` },
+        ],
+      };
+    }
   }
 
   // Issue #1407: /quotes hub page

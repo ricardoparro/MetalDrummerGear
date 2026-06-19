@@ -37,6 +37,9 @@ import { getAllDrummerComparisonSlugs } from '../packages/frontend/data/drummerC
 // Issue #1475: drummer gear evolution pages — source slugs from the canonical
 // data module so /drummers/<slug>/evolution URLs stay 1:1 with live routes.
 import { DRUMMER_EVOLUTION } from '../packages/frontend/data/drummerEvolution.js';
+// Issue #1473: individual /battles/<slug> pages — 8 curated matchups with
+// SEO-targeted titles for "X vs Y drum kit" long-tail queries.
+import { CURATED_MATCHUPS } from '../packages/frontend/data/battles.js';
 
 // Issue #623: Content Scale Sprint - All 62 drummers now in sitemap
 const drummers = [
@@ -274,6 +277,18 @@ const gearPriceHistoryDrummers = [
   'dave-lombardo',   // Reign in Blood era (1986)
 ];
 
+// Issue #1473: Individual /battles/<slug> pages — derive slugs from CURATED_MATCHUPS
+// so the sitemap stays in sync as matchups are added or changed.
+const drummerIdToSlugMap = {};
+for (const d of drummers) {
+  drummerIdToSlugMap[d.id] = generateSlug(d.name);
+}
+const battleSlugs = CURATED_MATCHUPS.map(m => {
+  const s1 = drummerIdToSlugMap[m.drummer1Id];
+  const s2 = drummerIdToSlugMap[m.drummer2Id];
+  return s1 && s2 ? `${s1}-vs-${s2}` : null;
+}).filter(Boolean);
+
 // Issue #770 / #1125: Drummer Gear Category Pages — long-tail keyword pages at
 // /drummer/<slug>/<category>. The renderer api/gear/[slug]/[category].js serves
 // a real page iff `drummer.gear[category]` is populated (else 404). We mirror
@@ -412,6 +427,8 @@ export default function handler(req, res) {
     { loc: '/gear-news', priority: '0.9', changefreq: 'daily' },
     // Issue #689: Drummer Battle voting feature
     { loc: '/battles', priority: '0.9', changefreq: 'weekly' },
+    // Issue #1473: Individual /battles/<slug> pages (8 curated matchups)
+    ...battleSlugs.map(slug => ({ loc: `/battles/${slug}`, priority: '0.85', changefreq: 'monthly' })),
     // Issue #695: Gear Statistics data hub
     { loc: '/stats/gear-insights', priority: '0.9', changefreq: 'weekly' },
     // Issue #685: "How to Sound Like" guides hub

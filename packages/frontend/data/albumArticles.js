@@ -29557,6 +29557,272 @@ For deeper exploration:
 - **Blast beat technique**: [Blast beat guide at MetalForge](/technique/blast-beat)
 - **Double bass technique**: [Double-bass drumming at MetalForge](/technique/double-bass-drumming)`
     }
+  },
+
+  'derek-roddy-hate-eternal-drum-setup': {
+    slug: 'derek-roddy-hate-eternal-drum-setup',
+    articleType: 'drummer-kit',
+    drummer: 'Derek Roddy',
+    relatedDrummerSlug: 'derek-roddy',
+    band: 'Hate Eternal',
+    bands: ['Hate Eternal', 'Morbid Angel', 'Aurora Borealis', 'Malevolent Creation'],
+    genre: 'Technical/Brutal Death Metal',
+    country: 'USA',
+    isAlbumArticle: true,
+    datePublished: '2026-06-19',
+    dateModified: '2026-06-19',
+    author: 'MetalForge Editorial',
+    // SEO
+    title: 'Derek Roddy Drum Setup — Hate Eternal & King of All Kings Gear Guide',
+    description: "Derek Roddy's Tama Starclassic kit, Paiste cymbals, and gravity blast technique — the rig behind Hate Eternal's King of All Kings (2002). Complete breakdown of one of death metal's most technically precise drummers.",
+    seoKeywords: [
+      'derek roddy drum setup',
+      'hate eternal drummer',
+      'derek roddy blast beat',
+      'gravity blast drums',
+      'derek roddy kit',
+      'derek roddy tama',
+      'derek roddy paiste',
+      'hate eternal king of all kings drums',
+      'gravity blast technique',
+      'derek roddy double bass'
+    ],
+    ogImage: '/images/drummers/derek-roddy.webp',
+    // Quick Facts
+    quickFacts: {
+      kit: 'Tama Starclassic Maple',
+      cymbals: 'Paiste',
+      sticks: 'Vater',
+      bands: 'Hate Eternal / Morbid Angel (touring) / Aurora Borealis / Malevolent Creation',
+      knownFor: 'Gravity blast beats, extreme tempo precision',
+      tempoRange: '220–280 BPM blast beats'
+    },
+    // Introduction
+    intro: {
+      title: 'The Gravity Blast Pioneer: Derek Roddy and Hate Eternal',
+      content: `Derek Roddy is one of the most technically admired death metal drummers alive, celebrated for his gravity blast technique, extreme tempo precision, and the controlled violence of his work with Hate Eternal. His performance on Hate Eternal's King of All Kings (2002) — recorded with guitarist and vocalist Erik Rutan — stands as one of the most extreme and precisely executed death metal drum performances ever captured.
+
+King of All Kings is not just fast; it is a demonstration of what happens when technique, physicality, and conceptual clarity align at the furthest reaches of death metal performance. Roddy's gravity blast technique — a one-handed rolling motion derived from rudimental drumming that produces blast beat patterns without alternating hands — allowed him to operate at tempos that bilateral-hand approaches struggle to sustain cleanly.
+
+Roddy studied the pedagogical side of drumming as seriously as the performance side, absorbing rudimental traditions from marching percussion and applying their mechanics to extreme metal contexts. The gravity blast is the visible result of that study: a technique that generates blast-speed patterns from rotational wrist mechanics rather than from muscular speed and alternating stroke efficiency. At the tempos Roddy operates — 220–280 BPM — the physical economy the gravity blast provides is not merely advantageous but necessary for precision and endurance across full-length death metal performances.
+
+This article covers Roddy's gear at the time of King of All Kings and his current setup, explains the gravity blast technique in mechanical terms, and places his work in the death metal technical tradition.`,
+      keyPoints: [
+        'Hate Eternal drummer on King of All Kings (2002) — one of the most extreme death metal recordings',
+        'Inventor and foremost practitioner of the gravity blast technique in death metal',
+        'Tama Starclassic Maple kit — current and era setup for extreme death metal performance',
+        'Paiste cymbals — fast-attacking, controlled-decay instruments for high-tempo articulation',
+        'Vater sticks — custom spec for the power demands of extreme metal drumming',
+        'Also toured with Morbid Angel — direct connection to Pete Sandoval\'s blast beat tradition'
+      ]
+    },
+    // Drum Kit Section
+    drumKit: {
+      title: 'Tama Starclassic Maple: Precision at Extreme Tempos',
+      brand: 'Tama',
+      model: 'Tama Starclassic Maple',
+      finish: 'Various finishes across career periods',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum (x2 — double bass configuration)'],
+        toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
+        floorToms: ['16" x 14" Floor Tom', '18" x 16" Floor Tom'],
+        shells: '100% maple shells — Tama Starclassic construction'
+      },
+      description: `Derek Roddy's Tama Starclassic Maple kit is optimized for the specific demands of technical death metal at extreme tempos. The Starclassic Maple's 100% maple shell construction delivers the attack speed and focused tone that gravity blast technique requires: every stroke — whether from a gravity roll or a standard alternating pattern — must articulate cleanly and immediately to preserve the definition of blast beat patterns at 250+ BPM.
+
+Maple's properties are particularly suited to Roddy's approach. The wood's stiffness produces fast, immediate resonance response — when the stick contacts the head, the shell activates quickly and decays in a controlled manner. At gravity blast tempos, shell decay time becomes a technical parameter: slow-decay shells allow resonance from one stroke to overlap the next, blurring the definition of individual hits into an undifferentiated tone mass. Maple's faster decay preserves individual stroke articulation even at the fastest tempos Roddy employs.
+
+The double bass drum configuration reflects the requirements of death metal's rhythmic architecture. Two 22" x 18" kick drums provide the sub-bass frequency mass and physical impact that Hate Eternal's music demands at live volumes. The 22" diameter generates the full-frequency kick presence that cuts through down-tuned guitars; the 18" depth supports the body and sustain that distinguishes authoritative death metal kick sound from thin, underpowered alternatives.
+
+His tom setup — two rack toms (10" and 12") and two floor toms (16" and 18") — provides the range for transitional fills and accent passages without overloading the physical setup. Hate Eternal's arrangements prioritize blast beat density and riff intensity over extended tom excursions; the four-tom configuration serves those priorities.`,
+      notes: [
+        'Tama Starclassic Maple — 100% maple shells for fast attack and precise articulation at extreme BPM',
+        'Double 22" bass drum configuration — the physical foundation for sustained extreme double kick',
+        'Compact four-tom configuration suited to Hate Eternal\'s riff-centered arrangements',
+        'Tama endorsee — consistent setup across King of All Kings era and beyond'
+      ],
+      estimatedValue: '$3,000–5,500 (Tama Starclassic Maple shell pack)'
+    },
+    // Snare Section
+    snare: {
+      title: 'The Snare: Cutting Through Hate Eternal\'s Sonic Wall',
+      brand: 'Tama',
+      model: 'Tama Starclassic Maple Snare',
+      size: '14" x 6.5"',
+      shell: 'Maple',
+      description: `In the dense, down-tuned guitar environment of Hate Eternal's King of All Kings, the snare drum must project with extreme clarity. Derek Roddy's snare selection prioritizes immediate attack and focused crack — the acoustic characteristics that allow a snare to separate itself from the low-frequency mass of guitars and kick drums without requiring extreme mix compression to achieve presence.
+
+At gravity blast tempos, the snare alternates with the kick in patterns that place individual strokes at intervals measured in milliseconds at the top of the BPM range. A snare with slow attack buildup or extended resonant decay will blur these intervals into an undifferentiated texture; Roddy's setup avoids this through shell selection and tuning discipline.
+
+The maple snare shell's fast response — similar to the kick drums in his setup — ensures immediate activation and controlled decay. Tuned toward the brighter end of the spectrum, it produces the crack and cut needed to articulate cleanly in dense mixes, while the 6.5" depth provides enough body and tone to sound musical rather than purely functional.`,
+      tuningSetting: 'Medium-bright for articulation in extreme death metal mix contexts',
+      heads: 'Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$300–600 (Tama Starclassic snare)'
+    },
+    // Cymbals Section
+    cymbals: {
+      title: 'Paiste Cymbals: Fast, Focused, Extreme Metal Specification',
+      brand: 'Paiste',
+      series: 'Paiste 2002 / Rude series',
+      setup: [
+        { type: 'Hi-Hats', model: 'Paiste 14" Hi-Hats', position: 'Left side', notes: 'Fast attack and controlled decay essential for gravity blast hi-hat articulation at 250+ BPM' },
+        { type: 'Crash', model: 'Paiste 16" Crash', position: 'Left crash', notes: 'Quick, explosive crash for accent work in dense blast beat passages' },
+        { type: 'Crash', model: 'Paiste 18" Crash', position: 'Right crash', notes: 'Fuller crash for section-ending explosions and structural punctuation' },
+        { type: 'Ride', model: 'Paiste 20" Ride', position: 'Right', notes: 'Clear bell articulation for ride patterns; used selectively between blast sections' },
+        { type: 'China', model: 'Paiste 18" China', position: 'Over rack toms', notes: 'Aggressive, trashy accent for the most intense passages and transitional moments' }
+      ],
+      description: `Derek Roddy's Paiste cymbal setup reflects the technical demands of gravity blast technique at extreme tempos. Paiste's cymbal manufacturing — B8 and B20 bronze alloys, depending on the series, with consistent hammering and lathing processes — produces instruments with fast attack characteristics and controlled, predictable decay. Both properties are requirements rather than preferences at the tempos Roddy operates.
+
+The hi-hats are the most technically demanding element in a gravity blast setup. In the classic gravity blast pattern, the hi-hat defines the rhythmic pulse while the kick and snare execute the blast pattern below — the hi-hat's decay speed determines how cleanly each stroke articulates in the overall texture. Paiste's hi-hat designs provide the fast attack and short decay that preserve this articulation at 250+ BPM without blurring.
+
+His crash setup covers the two primary accent demands in Hate Eternal's arrangements. The 16" responds immediately for riff-change accents and fill-endings at high tempos; the 18" provides the larger, fuller sound for section boundaries and climactic moments in songs like "Behold Judas" and "Nailed to Obscurity." The 18" china provides the most aggressive accent character in the setup — the trashy, upward-cutting tone that punctuates Hate Eternal's most intense passages with appropriate sonic violence.`,
+      estimatedValue: '$1,400–2,200 (full Paiste setup)'
+    },
+    // Hardware Section
+    hardware: {
+      title: 'Double Bass Pedals and Hardware',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'Tama',
+          model: 'Tama Speed Cobra Double Bass Pedal',
+          notes: 'Spring tension and cam geometry optimized for relaxed double-bass technique at extreme tempos',
+          description: 'Derek Roddy\'s double bass pedal selection prioritizes the mechanical consistency and smooth action that sustained extreme-tempo double kick requires. At 220–280 BPM double kick, pedal feel consistency is a performance requirement — small variations in spring tension, cam geometry, or linkage play compound into significant inconsistency across long blast beat passages. His setup addresses these demands through a pedal whose engineering rewards the relaxed, rebound-efficient technique he employs rather than forcing tension-based power striking.'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vater',
+          model: 'Vater custom specification',
+          notes: 'Weight and balance spec for extreme metal power demands across full-length performances',
+          description: 'Vater sticks provide the balance between attack power and control that extreme death metal drumming requires. The wood tip specification supports Roddy\'s cymbal work — particularly hi-hat articulation during gravity blast passages where tonal consistency across repeated strokes matters for rhythmic definition.'
+        },
+        {
+          type: 'Drum Heads',
+          brand: 'Remo',
+          model: 'Remo Powerstroke 3 (kick), Remo Ambassador Coated (toms/snare)',
+          notes: 'Attack-focused heads for death metal articulation',
+          description: 'The Powerstroke 3 on the kick drums provides the focused attack zone that Roddy\'s double bass patterns require at high tempos — individual kick strokes need to articulate cleanly without the extended sustain that would blur fast patterns. Coated Ambassador heads on toms balance attack and tone across the range of fill and accent work his playing demands.'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke 3 Clear',
+        toms: 'Remo Ambassador Coated',
+        snare: 'Remo Ambassador Coated'
+      }
+    },
+    // Technique Section
+    technique: {
+      title: 'The Gravity Blast: Technique Breakdown',
+      content: `The gravity blast is the technique most associated with Derek Roddy's name, and understanding it requires stepping back from the conventional framework of drum rudiments. Standard blast beat technique uses alternating hand strokes — right-left-right-left — with each hand striking the snare or hi-hat in sequence. The physical limit of this approach is determined by single-stroke speed: how fast the arms can alternate between strokes.
+
+The gravity blast replaces alternating strokes with a one-handed rolling motion derived from rudimental percussion's "gravity roll" technique. In the gravity roll, a single stick executes multiple bounces per arm motion by allowing the rebound from the drum head to raise the stick for the next stroke rather than muscularly lifting it. The wrist rotates in a controlled arc, and gravity returns the stick to the striking position between bounces.
+
+**Why This Matters at Extreme Tempos:**
+At 250+ BPM blast beat speeds, alternating hand technique requires each individual arm to execute 125 strokes per second for the combined 250 BPM pattern. This is at or beyond the physiological limit of sustained alternating-stroke speed for most drummers. The gravity blast side-steps this ceiling by generating multiple strokes per arm motion — the physical economy of the technique allows higher combined tempo outputs from the same muscular effort.
+
+**Application on King of All Kings:**
+On King of All Kings, Roddy deployed the gravity blast throughout the album's most extreme passages, achieving blast beat tempos that placed him at the recorded frontier of extreme metal drumming in 2002. The technique's controlled character — each stroke generated by the same rolling motion rather than independent alternating impulses — also produces a distinctive sonic texture: slightly more uniform in attack and decay than alternating-stroke blasts, with a rolling, forward-propulsive feel that suits Hate Eternal's relentless, churning musical character.
+
+**Pedagogical Background:**
+Roddy has been notably forthcoming about the technical details of his approach, producing instructional content and discussing the gravity blast's mechanics in interviews and drum clinics. His interest in the pedagogical side of drumming extends to marching percussion traditions — the gravity roll's origins in rudimental percussion — and how those techniques transfer to extreme metal contexts.`,
+      keyTechniques: [
+        'Gravity blast: one-handed rolling motion generating blast beat speed without alternating-stroke limitations',
+        'Derived from rudimental percussion gravity roll technique — marching drum tradition applied to death metal',
+        'Physical economy allows sustained extreme tempos (250+ BPM) that alternating-stroke approaches struggle to maintain',
+        'Produces distinctive rolling texture with forward-propulsive feel suited to Hate Eternal\'s dense arrangements',
+        'Extreme double bass technique: relaxed, rebound-efficient approach at sustained 220–280 BPM'
+      ]
+    },
+    // Career Eras Section
+    careerEras: [
+      {
+        era: 'Aurora Borealis / Malevolent Creation — Early Career',
+        years: '1995–2001',
+        albums: ['Various releases with Aurora Borealis', 'In Cold Blood (Malevolent Creation, 1997)'],
+        description: 'Roddy established his extreme death metal credentials through work with Aurora Borealis and Malevolent Creation, developing the gravity blast technique and building the physical conditioning required for Hate Eternal\'s demands.',
+        gear: {
+          drums: 'Various setups during developmental period',
+          cymbals: 'Various cymbal setups',
+          notes: 'Technique development period — gravity blast refined through live performance and recording work'
+        },
+        notes: 'The early career period with Aurora Borealis established Roddy as one of death metal\'s most technically sophisticated drummers before the Hate Eternal association brought him to wider attention. His work with Malevolent Creation demonstrated that the gravity blast was performance-viable across full-length death metal recordings.'
+      },
+      {
+        era: 'Hate Eternal — King of All Kings',
+        years: '2001–2004',
+        albums: ['King of All Kings (2002)'],
+        description: 'The definitive period. Roddy\'s performance on King of All Kings remains the benchmark against which extreme death metal drum performances are measured. The album\'s combination of extreme tempo, technical precision, and sonic brutality placed it at the frontier of the genre.',
+        gear: {
+          drums: 'Tama Starclassic Maple with double bass configuration',
+          snare: 'Tama snare 14" × 6.5"',
+          cymbals: 'Paiste 2002 / Rude series setup',
+          pedals: 'Tama double bass pedals',
+          sticks: 'Vater'
+        },
+        notes: 'King of All Kings (2002) is widely considered one of the most extreme death metal albums ever recorded. Erik Rutan\'s production captured Roddy\'s blast beats with unusual clarity for a 2002 death metal recording — individual stroke definition at gravity blast tempos is audible in a way that many contemporaneous extreme metal productions obscure. The album\'s influence on technical death metal\'s subsequent development is difficult to overstate.'
+      },
+      {
+        era: 'Morbid Angel (Touring) / Further Career',
+        years: '2004–Present',
+        albums: ['Touring work with Morbid Angel', 'Further Hate Eternal appearances'],
+        description: 'Roddy\'s connection to Morbid Angel as a touring drummer created the death metal genealogical link between his gravity blast approach and Pete Sandoval\'s foundational blast beat work — two of the genre\'s most technically influential drummers in the same band at different moments.',
+        gear: {
+          drums: 'Tama Starclassic Maple (continued)',
+          snare: 'Tama snare',
+          cymbals: 'Paiste (continued)',
+          pedals: 'Tama double bass pedals',
+          sticks: 'Vater'
+        },
+        notes: 'The Morbid Angel touring connection is significant in the death metal historical context: Roddy occupied the drum chair that Pete Sandoval had held, performing the Sandoval-written blast beat parts that helped define the genre. His ability to deliver those performances while maintaining his own technical identity demonstrates the breadth of his approach.'
+      }
+    ],
+    // FAQ Section
+    faq: [
+      {
+        question: 'What is a gravity blast?',
+        answer: 'A gravity blast is a drum technique in which a single hand executes multiple strokes per arm motion by allowing the stick\'s rebound from the drum head to raise it for the next stroke, rather than muscularly lifting it between each hit. Derived from the rudimental percussion "gravity roll," the technique generates blast beat patterns (rapid alternating kick and snare strokes) through a one-handed rolling motion rather than the standard alternating-hand approach. Derek Roddy is the foremost practitioner of the gravity blast in death metal — his performance on Hate Eternal\'s King of All Kings (2002) is the definitive recorded example of the technique at extreme tempos. The physical economy of the gravity blast allows sustained tempos that alternating-stroke blast beats struggle to maintain cleanly: at 250+ BPM, the gravity blast\'s rebound-driven mechanics require less muscular effort per stroke than alternating-stroke techniques, enabling both higher peak tempos and better endurance across full-length death metal performances. For more on blast beat technique variations, see [blast beat technique at MetalForge](/technique/blast-beats/drummers).'
+      },
+      {
+        question: 'How fast does Derek Roddy play?',
+        answer: 'Derek Roddy\'s blast beat tempos on King of All Kings (2002) and across his Hate Eternal career are documented in the 220–280 BPM range, placing him among the fastest death metal drummers on record. His gravity blast technique enables these extremes by generating multiple strokes per arm motion through rebound mechanics rather than pure alternating-stroke speed — the technique\'s efficiency is the physical basis for his documented tempo range. At 280 BPM, individual kick and snare strokes are occurring at approximately 4.67 strokes per second each, or a combined rate of nearly 9–10 events per second in a standard blast beat pattern. Roddy\'s double bass technique at these tempos is equally notable: relaxed, rebound-efficient foot mechanics that parallel the wrist mechanics of the gravity blast above. For comparison with other extreme tempo death metal drummers, see [Derek Roddy\'s profile at MetalForge](/drummer/derek-roddy) and the Altars of Madness drum setup for Pete Sandoval\'s blast beat approach.'
+      },
+      {
+        question: 'What drums does Derek Roddy use?',
+        answer: 'Derek Roddy plays a Tama Starclassic Maple kit, built around a double bass drum configuration. His setup includes two 22" x 18" kick drums, two rack toms (10" and 12"), and two floor toms (16" and 18"). The Starclassic Maple\'s 100% maple shell construction is central to the setup\'s performance characteristics: maple\'s fast resonance response and controlled decay ensure that individual kick and snare strokes articulate clearly at the extreme tempos Roddy employs with Hate Eternal. He plays Paiste cymbals — primarily from the 2002 and Rude series — and uses Vater sticks. His cymbal selection prioritizes fast attack and controlled decay, the characteristics that preserve rhythmic definition in death metal\'s dense sonic environment. For a full profile and career context, see [Derek Roddy at MetalForge](/drummer/derek-roddy).'
+      },
+      {
+        question: 'What cymbals does Derek Roddy use?',
+        answer: 'Derek Roddy plays Paiste cymbals, primarily from the 2002 and Rude series. His setup includes 14" hi-hats for gravity blast rhythmic definition, 16" and 18" crashes for accent work across Hate Eternal\'s dense arrangements, a 20" ride for bell-articulation passages, and an 18" china for the most aggressive accent moments. Paiste\'s cymbal manufacturing produces instruments with fast attack characteristics and controlled, predictable decay — properties that are requirements at the tempos Roddy operates. At 250+ BPM gravity blast speeds, hi-hat decay speed directly affects rhythmic definition: slow-decay hi-hats blur individual strokes into an undifferentiated wash; Paiste\'s design choices preserve articulation across the tempos Roddy employs.'
+      },
+      {
+        question: 'What is the connection between Derek Roddy and Morbid Angel?',
+        answer: 'Derek Roddy has toured with Morbid Angel as a live drummer, filling the drum chair associated with Pete Sandoval — one of death metal\'s most foundational blast beat drummers and the drummer on Altars of Madness (1989), Blessed Are the Sick (1991), and Covenant (1993). The connection creates a direct lineage in death metal\'s blast beat tradition: Sandoval developed the blast beat as a compositional foundation for Morbid Angel\'s extreme approach in the late 1980s; Roddy extended that tradition through the gravity blast technique with Hate Eternal while also performing Sandoval\'s original parts live with Morbid Angel. Both are among the most technically studied drummers in death metal history. See [Altars of Madness drum setup](/articles/altars-of-madness-drum-setup) for the full Pete Sandoval breakdown and comparison.'
+      }
+    ],
+    // Internal Links
+    relatedAlbums: ['altars-of-madness-drum-setup', 'none-so-vile-drum-setup', 'tim-yeung-drum-setup'],
+    relatedDrummers: ['derek-roddy', 'pete-sandoval', 'flo-mounier'],
+    relatedArticles: ['blast-beat-technique', 'death-metal-drummers', 'fastest-metal-drummers'],
+    // Conclusion
+    conclusion: {
+      title: 'Derek Roddy and the Gravity Blast: A Death Metal Benchmark',
+      content: `Derek Roddy\'s work on King of All Kings occupies a specific and irreplaceable position in death metal history: it is the definitive recorded demonstration of the gravity blast technique at its performance ceiling. The album documents what happens when extreme technical preparation, a genuinely innovative technique, and exceptionally demanding musical material align in the same recording.
+
+His gear — the Tama Starclassic Maple kit, Paiste cymbals, Vater sticks — reflects a philosophy of precision over spectacle. Each component serves the demands of sustained extreme-tempo performance:
+
+- **Tama Starclassic Maple**: Fast resonance response and controlled decay — individual stroke articulation at gravity blast tempos requires shells that don\'t let resonance from one stroke overlap the next
+- **Paiste cymbals**: Fast attack, controlled decay — the hi-hat parameters that determine whether a gravity blast sounds defined or blurred in a recorded mix
+- **Vater sticks**: Weight and balance specification for extreme metal power demands without sacrificing control
+- **Double bass configuration**: Two 22" x 18" kick drums providing the sub-bass mass and physical impact that Hate Eternal\'s music requires at live volumes
+
+The gravity blast is not merely a speed trick. It is a technique with specific mechanical properties — derived from rudimental marching percussion, applied to extreme metal contexts — that generates blast beat patterns through physical economy rather than raw muscular speed. Understanding it changes how you hear King of All Kings: not as a display of brute speed, but as a controlled, precise application of technique to music that demands the most from both.
+
+For deeper exploration:
+- **Full drummer profile**: [Derek Roddy at MetalForge](/drummer/derek-roddy)
+- **Pete Sandoval / Morbid Angel connection**: [Altars of Madness drum setup](/articles/altars-of-madness-drum-setup)
+- **Death metal blast beat cluster**: [None So Vile drum setup — Flo Mounier](/articles/none-so-vile-drum-setup)
+- **Blast beat technique overview**: [Blast beat technique at MetalForge](/technique/blast-beats/drummers)`
+    }
   }
 };
 

@@ -1,0 +1,1 @@
+{"issue":1408,"status":"already_shipped","note":"Fix already present in api/meta/[...path].js lines 1065-1108. Shipped in PR #1592, run record in #1625. /brands hub and all 8 /brands/<slug> pages have SSR meta handlers. Syntax validated OK.","date":"2026-06-19"}

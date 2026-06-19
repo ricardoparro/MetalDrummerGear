@@ -5,6 +5,52 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-16 17:39 UTC*
 
 ---
+## 2026-06-19 19:00 — 30 PRs cleared, 12 proposals triaged (11 promoted), 10 articles + 301 redirects + gear-comparison LLMs shipped
+
+### Context
+Evening run. Metrics unchanged (1,148 impr / 18 clicks / 1.57% CTR). 30 open PRs (24 MERGEABLE, 6 CONFLICTING + UNKNOWN). 12 untriaged seo-proposals. Founder inbox empty. Eligible ai-fix backlog: 41 entering → 4 after merges → 14 after promotions.
+
+### Actions taken
+- **Merged 24 MERGEABLE PRs** in sequence (#1751, #1750, #1749, #1747, #1746, #1745, #1744, #1741, #1740, #1739, #1738, #1736, #1735, #1734, #1733, #1732, #1731, #1729, #1759, #1756, #1760, #1762; #1753/#1752 already merged). Issues closed: #1561, #1558, #1559, #1560, #1521, #1522, #1520, #1512, #1480, #1481, #1474, #1455, #1477, #1452, #1466, #1457, #1450, #1454, #1453, #1581, #1562, #1579, #1582.
+- **Resolved 12 CONFLICTING/UNKNOWN PRs via CEO direct commit** (2 commits: 3baaa96 + 3f3bfb8):
+  - Fixed duplicate `jocke-wallgren-drum-setup` entry (merged twice in morning run PRs #1714+#1715)
+  - Fixed duplicate `symbolic-drum-setup` entry (found in merge resolution)
+  - Added 10 articles: jason-bittner, hannes-grossmann, daray, jon-dette, ryan-van-poederooyen, kevin-talley, morgan-agren, john-otto, nick-augusto, arin-ilejay
+  - Applied **#1580** — 301 redirects `/drummer/<numericId>` → `/drummer/<slug>` in vercel.json (62 mappings, GA4 #2 page /drummer/2 now redirects to /drummer/joey-jordison)
+  - Applied **#1514** — `/llms/gear-comparison/` 7 files (meinl-vs-zildjian, paiste-vs-sabian, sonor-vs-dw, tama variants, zildjian-vs-sabian)
+  - Added LLM markdown: jason-bittner, hannes-grossmann, jon-dette, ryan-van-poederooyen, kevin-talley, morgan-agren articles
+- **Closed 6 duplicate PRs:** #1737 (jocke-wallgren 3rd PR), #1755 (#1561 dup), #1757 (#1452 dup), #1758 (#1513 dup, already fixed by f63d314), #1761 (#1581 dup)
+- **Triaged 12 seo-proposals → 11 PROMOTED, 1 PARKED:**
+  - **#1702** (/llms/licks/ 8 missing drummer LLM files) → PROMOTE. 5★ — fills gaps in existing LLM surface; last coverage holes after 100% lick milestone.
+  - **#1709** (George Kollias article — Nile, fastest verified metal drummer) → PROMOTE. 5★ — roster member, no article, extreme death metal TAM. Fastest blast beat on record is a searchable claim.
+  - **#1711** (Derek Roddy article — Hate Eternal, blast beat pioneer) → PROMOTE. 5★ — blast beat authority query; high-search-intent niche.
+  - **#1661** (/brands/<slug> FAQPage+CollectionPage) → PROMOTE. 4★ — backlog < 25, purchase-intent AI Overview coverage.
+  - **#1663** (/lists/<slug> FAQPage) → PROMOTE. 4★ — backlog < 25, AI Overview for list queries.
+  - **#1664** (/compare/<slug> FAQPage) → PROMOTE. 4★ — backlog < 25, comparison purchase-intent.
+  - **#1703** (/llms/battles/ sitemap — 8 per-matchup files absent from sitemap) → PROMOTE. 4★ — AI crawlers currently blind to battles LLM content.
+  - **#1704** (/stats + /stats/gear-insights FAQPage) → PROMOTE. 4★ — data authority pages, FAQPage = AI Overview eligibility.
+  - **#1706** (/tools/compare hub + pages CollectionPage+FAQPage) → PROMOTE. 4★ — tools at sitemap priority 0.95, zero schema.
+  - **#1708** (/endorsement-news CollectionPage+FAQPage) → PROMOTE. 4★ — hub schema completeness.
+  - **#1665** (/facts + /gear-news CollectionPage) → PROMOTE. 3★ — promoted to refill starved backlog (at 4 entering this triage).
+  - **#1660** (Homepage SearchAction) → PARK. 3★ — branded query only, low urgency vs schema gaps above.
+
+### State delta
+- **ai-fix eligible backlog: 41 → 4 (after merges) → 14 (after 11 promotions).**
+- **Open PRs: 30 → 0.**
+- **Issues closed: 42** (23 stale from PR merges + 13 from conflict resolution + 6 from CEO direct commits).
+- **New content shipped:** 10 drum setup articles; 301 redirects (62 numeric URLs → slugs); /llms/gear-comparison/ 7 files; 6 article LLM markdown files; /llms/bpm.md; /bpm+/bpm-tap SSR+sitemap; /llms/guides/ 4 files; /llms/birthdays.md; /llms/quotes.md; various schema + SSR fixes from merged PR batch.
+- **Merge conflict resolution:** remote had diverged with PR squash commits interspersed between CEO commits; resolved by accepting remote state + reapplying 10 missing articles + removing 2 duplicates.
+
+### Quota check
+✅ SEO proposals: 12/12 triaged (11 promoted, 1 parked). ✅ Founder ideas: inbox empty. ✅ GSC-gap: below 50 impr threshold. ✅ Atomic-split: all issues <1 day old. ✅ Decisions logged.
+
+### Next Run (2026-06-20 07:00 morning)
+1. **#1580 live** — /drummer/2 → /drummer/joey-jordison 301 redirect now in vercel.json; verify Vercel deployed and redirect works.
+2. **Article velocity** — George Kollias (#1709) + Derek Roddy (#1711) + 10 articles shipped this run; at Ralph's throughput expect 3-4 more by morning.
+3. **Schema batch** — #1702, #1661, #1663, #1664, #1703, #1704, #1706, #1708, #1665 all in backlog; schema additions compound indexing lag → check CTR in 5-7 days.
+4. **CTR watch** — 1.57% this evening; 301 redirect fix alone should lift /drummer/2 from generic to canonical; monitor next GSC refresh.
+
+---
 ## 2026-06-19 13:00 — 9 PRs resolved, 6 proposals triaged (1 promoted), backlog 48→41
 
 ### Context

@@ -31,6 +31,8 @@ import { DRUMMER_EVOLUTION } from '../../packages/frontend/data/drummerEvolution
 import { CURATED_MATCHUPS } from '../../packages/frontend/data/battles.js';
 // Issue #1474: /drummers/<slug>/signature/<gearSlug> pages — Product + BreadcrumbList JSON-LD.
 import { SIGNATURE_GEAR } from '../../packages/frontend/data/signatureGear.js';
+// Issue #1522: Quotation + ItemList JSON-LD for /quotes page.
+import { getAllQuotes } from '../quotes-data.js';
 
 const BASE_URL = 'https://metalforge.io';
 const SITE_NAME = 'MetalForge';
@@ -441,6 +443,46 @@ function getMetaForPath(pathname) {
       image: `${BASE_URL}/images/og/tools-preview.png`,
       type: 'website',
       url: `${BASE_URL}/tools`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@graph': [
+          {
+            '@type': 'CollectionPage',
+            name: 'Metal Drummer Gear Tools',
+            description: 'Free tools for metal drummers: gear search, kit builder, tier list, name generator, and more.',
+            url: `${BASE_URL}/tools`,
+            publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+            hasPart: [
+              { '@type': 'WebApplication', name: 'Gear Search', url: `${BASE_URL}/tools/gear-search` },
+              { '@type': 'WebApplication', name: 'Dream Set Builder', url: `${BASE_URL}/tools/dream-set-builder` },
+              { '@type': 'WebApplication', name: 'Kit Builder', url: `${BASE_URL}/tools/kit-builder` },
+              { '@type': 'WebApplication', name: 'Gear Comparison', url: `${BASE_URL}/tools/compare` },
+              { '@type': 'WebApplication', name: 'Tier List', url: `${BASE_URL}/tools/tier-list` },
+              { '@type': 'WebApplication', name: 'Name Generator', url: `${BASE_URL}/tools/metal-drummer-name-generator` },
+            ],
+          },
+          {
+            '@type': 'FAQPage',
+            mainEntity: [
+              {
+                '@type': 'Question',
+                name: 'What free tools does MetalForge offer for drummers?',
+                acceptedAnswer: { '@type': 'Answer', text: 'MetalForge offers 6 free tools: Gear Search (find gear by brand or drummer), Dream Set Builder (design your ideal kit), Kit Builder, Gear Comparison, Drummer Tier List, and Metal Drummer Name Generator. All are free at metalforge.io/tools.' },
+              },
+              {
+                '@type': 'Question',
+                name: 'How do I compare drummer gear setups online?',
+                acceptedAnswer: { '@type': 'Answer', text: "Use MetalForge's Gear Comparison tool at metalforge.io/tools/compare to compare drum kit setups side by side between any two pro metal drummers." },
+              },
+              {
+                '@type': 'Question',
+                name: 'Is there a metal drummer name generator?',
+                acceptedAnswer: { '@type': 'Answer', text: "Yes — MetalForge's Metal Drummer Name Generator at metalforge.io/tools/metal-drummer-name-generator creates unique metal drummer aliases using genre, style, and influence inputs." },
+              },
+            ],
+          },
+        ],
+      }),
     };
   }
 
@@ -899,6 +941,131 @@ function getMetaForPath(pathname) {
       image: `${BASE_URL}/images/og/birthdays-preview.png`,
       type: 'website',
       url: `${BASE_URL}/birthdays`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'WebPage',
+        name: 'Metal Drummer Birthday Calendar',
+        description: 'Complete calendar of legendary metal drummer birthdays.',
+        url: `${BASE_URL}/birthdays`,
+        mainEntity: {
+          '@type': 'ItemList',
+          name: 'Metal Drummer Birthdays',
+          description: 'Birthdays of 60+ professional metal drummers',
+          numberOfItems: 61,
+          itemListElement: [
+            {
+              '@type': 'ListItem',
+              position: 1,
+              item: {
+                '@type': 'Person',
+                name: 'Lars Ulrich',
+                birthDate: '1963-12-26',
+                url: `${BASE_URL}/drummers/lars-ulrich`,
+                memberOf: { '@type': 'MusicGroup', name: 'Metallica' },
+              },
+            },
+            {
+              '@type': 'ListItem',
+              position: 2,
+              item: {
+                '@type': 'Person',
+                name: 'Joey Jordison',
+                birthDate: '1975-04-26',
+                url: `${BASE_URL}/drummers/joey-jordison`,
+                memberOf: { '@type': 'MusicGroup', name: 'Slipknot' },
+              },
+            },
+            {
+              '@type': 'ListItem',
+              position: 3,
+              item: {
+                '@type': 'Person',
+                name: 'Dave Lombardo',
+                birthDate: '1965-02-16',
+                url: `${BASE_URL}/drummers/dave-lombardo`,
+                memberOf: { '@type': 'MusicGroup', name: 'Slayer' },
+              },
+            },
+            {
+              '@type': 'ListItem',
+              position: 4,
+              item: {
+                '@type': 'Person',
+                name: 'Gene Hoglan',
+                birthDate: '1967-09-26',
+                url: `${BASE_URL}/drummers/gene-hoglan`,
+                memberOf: { '@type': 'MusicGroup', name: 'Death' },
+              },
+            },
+            {
+              '@type': 'ListItem',
+              position: 5,
+              item: {
+                '@type': 'Person',
+                name: 'Danny Carey',
+                birthDate: '1961-05-10',
+                url: `${BASE_URL}/drummers/danny-carey`,
+                memberOf: { '@type': 'MusicGroup', name: 'Tool' },
+              },
+            },
+            {
+              '@type': 'ListItem',
+              position: 6,
+              item: {
+                '@type': 'Person',
+                name: 'Mike Portnoy',
+                birthDate: '1967-04-20',
+                url: `${BASE_URL}/drummers/mike-portnoy`,
+                memberOf: { '@type': 'MusicGroup', name: 'Dream Theater' },
+              },
+            },
+            {
+              '@type': 'ListItem',
+              position: 7,
+              item: {
+                '@type': 'Person',
+                name: 'Charlie Benante',
+                birthDate: '1962-11-27',
+                url: `${BASE_URL}/drummers/charlie-benante`,
+                memberOf: { '@type': 'MusicGroup', name: 'Anthrax' },
+              },
+            },
+            {
+              '@type': 'ListItem',
+              position: 8,
+              item: {
+                '@type': 'Person',
+                name: 'Vinnie Paul',
+                birthDate: '1964-03-11',
+                url: `${BASE_URL}/drummers/vinnie-paul`,
+                memberOf: { '@type': 'MusicGroup', name: 'Pantera' },
+              },
+            },
+            {
+              '@type': 'ListItem',
+              position: 9,
+              item: {
+                '@type': 'Person',
+                name: 'Inferno',
+                birthDate: '1978-08-14',
+                url: `${BASE_URL}/drummers/inferno`,
+                memberOf: { '@type': 'MusicGroup', name: 'Behemoth' },
+              },
+            },
+            {
+              '@type': 'ListItem',
+              position: 10,
+              item: {
+                '@type': 'Person',
+                name: 'George Kollias',
+                birthDate: '1977-10-17',
+                url: `${BASE_URL}/drummers/george-kollias`,
+                memberOf: { '@type': 'MusicGroup', name: 'Nile' },
+              },
+            },
+          ],
+        },
+      }),
     };
   }
 
@@ -1217,11 +1384,35 @@ function getMetaForPath(pathname) {
       url: `${BASE_URL}/licks`,
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
-        '@type': 'CollectionPage',
-        name: 'Signature Metal Drum Licks',
-        description: 'Master the signature drum licks of 60+ metal legends. Step-by-step breakdowns of blast beats, double bass patterns, and iconic fills from George Kollias, Joey Jordison, and more.',
-        url: `${BASE_URL}/licks`,
-        publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+        '@graph': [
+          {
+            '@type': 'CollectionPage',
+            name: 'Signature Metal Drum Licks',
+            description: 'Master the signature drum licks of 60+ metal legends. Step-by-step breakdowns of blast beats, double bass patterns, and iconic fills from George Kollias, Joey Jordison, and more.',
+            url: `${BASE_URL}/licks`,
+            publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+          },
+          {
+            '@type': 'FAQPage',
+            mainEntity: [
+              {
+                '@type': 'Question',
+                name: 'What are the best metal drum licks to learn?',
+                acceptedAnswer: { '@type': 'Answer', text: 'MetalForge features signature drum licks from 63 metal legends including blast beats from George Kollias, double-bass patterns from Joey Jordison, and groove licks from Brann Dailor. Browse by drummer at metalforge.io/licks.' },
+              },
+              {
+                '@type': 'Question',
+                name: 'How many signature drum licks does MetalForge have?',
+                acceptedAnswer: { '@type': 'Answer', text: 'MetalForge has 157 signature lick pages covering 63 professional metal drummers, with step-by-step HowTo breakdowns and video analysis for each lick.' },
+              },
+              {
+                '@type': 'Question',
+                name: 'What technique is most common in metal drum licks?',
+                acceptedAnswer: { '@type': 'Answer', text: 'Blast beats and double-bass patterns are the most common techniques in metal drum licks. Explore technique-specific licks at metalforge.io/technique/blast-beat/drummers and metalforge.io/technique/double-bass/drummers.' },
+              },
+            ],
+          },
+        ],
       }),
       breadcrumbSchema: [
         { name: 'Home', url: BASE_URL },
@@ -2082,13 +2273,44 @@ function getMetaForPath(pathname) {
   }
 
   // Issue #1407: /quotes hub page
+  // Issue #1522: Quotation + ItemList JSON-LD for AI citation surface
   if (path === '/quotes') {
+    const allQuotes = getAllQuotes();
+    // Top 5 most notable drummers — one representative quote each
+    const featured = [4, 2, 1, 3, 5]
+      .map(dId => allQuotes.find(q => q.drummer.id === dId))
+      .filter(Boolean)
+      .slice(0, 5);
     return {
       title: `Metal Drummer Quotes — Insights on Gear & Technique | ${SITE_NAME}`,
       description: "Memorable quotes from the world's greatest metal drummers on gear, technique, and the craft. From Lars Ulrich, Joey Jordison, Tomas Haake, and 60+ legends.",
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/quotes`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'WebPage',
+        name: 'Metal Drummer Quotes',
+        description: 'Memorable quotes from legendary metal drummers on technique, gear, and philosophy.',
+        url: `${BASE_URL}/quotes`,
+        mainEntity: {
+          '@type': 'ItemList',
+          name: 'Metal Drummer Quotes',
+          itemListElement: featured.map((q, i) => ({
+            '@type': 'ListItem',
+            position: i + 1,
+            item: {
+              '@type': 'Quotation',
+              text: q.text,
+              spokenByCharacter: {
+                '@type': 'Person',
+                name: q.drummer.name,
+                url: `${BASE_URL}/drummer/${q.drummer.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')}`,
+              },
+            },
+          })),
+        },
+      }),
     };
   }
 
@@ -2191,6 +2413,32 @@ function getMetaForPath(pathname) {
           ],
         },
       }),
+    };
+  }
+
+  // Issue #1579: /bpm and /bpm-tap — BPM Tap Calculator + Metal Songs BPM Database
+  if (path === '/bpm' || path === '/bpm-tap') {
+    return {
+      title: `Metal BPM Calculator — Tap & Find Tempo | Metal Songs Database | ${SITE_NAME}`,
+      description: 'Tap to find the BPM of any metal song. Browse 150+ metal songs by tempo — from doom to grindcore. Used by metal drummers to find and match tempos.',
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url: `${BASE_URL}/bpm`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'WebApplication',
+        name: 'MetalForge BPM Tap Calculator',
+        description: 'Tap to calculate BPM of any metal song. Browse 150+ metal songs sorted by tempo.',
+        url: `${BASE_URL}/bpm`,
+        applicationCategory: 'MusicApplication',
+        operatingSystem: 'Web',
+        offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
+        publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+      }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'BPM Calculator', url: `${BASE_URL}/bpm` },
+      ],
     };
   }
 

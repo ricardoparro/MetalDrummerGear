@@ -436,6 +436,9 @@ export default function handler(req, res) {
     ...soundLikeGuides.map(g => ({ loc: `/guides/${g.slug}`, priority: '0.9', changefreq: 'monthly' })),
     // Issue #702: Beginner gear guides
     ...beginnerGuides.map(g => ({ loc: `/guides/${g.slug}`, priority: '0.95', changefreq: 'monthly' })),
+    // Issue #1579: BPM Tap Calculator + Metal Songs BPM Database
+    { loc: '/bpm', priority: '0.95', changefreq: 'weekly' },
+    { loc: '/bpm-tap', priority: '0.9', changefreq: 'monthly' },
     // Issue #729: Tools Hub landing page
     { loc: '/tools', priority: '0.95', changefreq: 'weekly' },
     // Issue #704: Tools pages (viral tools)
@@ -515,6 +518,8 @@ export default function handler(req, res) {
     { loc: '/llms/bands.md', priority: '0.6', changefreq: 'monthly' },
     // Issue #1309: gear price timeline data for Lars Ulrich, Joey Jordison, Dave Lombardo.
     { loc: '/llms/gear-history.md', priority: '0.5', changefreq: 'monthly' },
+    // Issue #1561: drummer birth dates as LLM markdown for birthday/calendar AI queries.
+    { loc: '/llms/birthdays.md', priority: '0.5', changefreq: 'monthly' },
     // Issue #1190: drummer comparison pages as ingestible markdown.
     { loc: '/llms/comparisons.md', priority: '0.6', changefreq: 'monthly' },
     // Issue #1222: top-10 ranked lists as ingestible markdown for AI citation.
@@ -523,6 +528,8 @@ export default function handler(req, res) {
     { loc: '/llms/facts.md', priority: '0.6', changefreq: 'monthly' },
     // Issue #1246: quiz LLM citation surface — #3 organic page, zero prior AI discoverability.
     { loc: '/llms/quiz.md', priority: '0.6', changefreq: 'monthly' },
+    // Issue #1560: quotes LLM citation surface — 36 attributed quotes from 12 metal drummers.
+    { loc: '/llms/quotes.md', priority: '0.5', changefreq: 'monthly' },
     // Issue #1330: gear stats LLM citation surface — brand-popularity data for AI queries.
     { loc: '/llms/stats.md', priority: '0.6', changefreq: 'monthly' },
     // Issue #1401: gear brand insights LLM citation surface — named drummer citations with % data.
@@ -539,10 +546,17 @@ export default function handler(req, res) {
     { loc: '/llms/tools/tier-list.md', priority: '0.6', changefreq: 'monthly' },
     // Issue #1351: name-generator LLM citation surface — metal drummer alias generator.
     { loc: '/llms/tools/name-generator.md', priority: '0.6', changefreq: 'monthly' },
+    // Issue #1582: BPM + metal songs tempo database LLM citation surface.
+    { loc: '/llms/bpm.md', priority: '0.6', changefreq: 'monthly' },
     // Issue #1329: how-to-sound-like + beginner guides LLM citation surface.
     { loc: '/llms/guides.md', priority: '0.4', changefreq: 'monthly' },
     // Issue #1450: per-guide deep-dive Markdown files for AI citation (10 sound-like guides).
     ...soundLikeGuides.map(g => ({ loc: `/llms/guides/${g.slug}.md`, priority: '0.5', changefreq: 'monthly' })),
+    // Issue #1562: beginner/budget gear guide LLM citation surfaces.
+    { loc: '/llms/guides/beginner-metal-drummer-setup.md', priority: '0.5', changefreq: 'monthly' },
+    { loc: '/llms/guides/budget-metal-drum-setup-500.md', priority: '0.5', changefreq: 'monthly' },
+    { loc: '/llms/guides/budget-metal-drum-setup-1000.md', priority: '0.5', changefreq: 'monthly' },
+    { loc: '/llms/guides/budget-metal-drum-setup-2000.md', priority: '0.5', changefreq: 'monthly' },
     // Per-drummer Markdown profiles — low priority, full crawl coverage.
     ...llmsDrummerSlugs.map(slug => ({ loc: `/llms/drummers/${slug}.md`, priority: '0.4', changefreq: 'monthly' })),
     // Issue #1058: per-article Markdown breakdowns (public/llms/articles/<slug>.md).

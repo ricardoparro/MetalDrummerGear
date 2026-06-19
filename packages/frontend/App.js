@@ -2842,10 +2842,24 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
           )}
           
           {list.datePublished && (
-            <Text style={[styles.articleDate, { color: theme.secondaryText }]}>
-              Published: {new Date(list.datePublished).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
-              {list.author && ` • By ${list.author}`}
-            </Text>
+            Platform.OS === 'web' ? (
+              <div style={{ fontSize: 13, marginTop: 12, fontStyle: 'italic', color: theme.secondaryText }}>
+                <time dateTime={list.datePublished} itemProp="datePublished">
+                  Published: {new Date(list.datePublished).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+                </time>
+                {list.dateModified && list.dateModified !== list.datePublished && (
+                  <time dateTime={list.dateModified} itemProp="dateModified" style={{ marginLeft: 8 }}>
+                    {'· Updated: '}{new Date(list.dateModified).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+                  </time>
+                )}
+                {list.author && ` • By ${list.author}`}
+              </div>
+            ) : (
+              <Text style={[styles.articleDate, { color: theme.secondaryText }]}>
+                Published: {new Date(list.datePublished).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+                {list.author && ` • By ${list.author}`}
+              </Text>
+            )
           )}
         </View>
 
@@ -3275,10 +3289,24 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
 
         {/* Article publication info */}
         {isArticle && list.datePublished && (
-          <Text style={[styles.articleDate, { color: theme.secondaryText }]}>
-            Published: {new Date(list.datePublished).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
-            {list.author && ` • By ${list.author}`}
-          </Text>
+          Platform.OS === 'web' ? (
+            <div style={{ fontSize: 13, marginTop: 12, fontStyle: 'italic', color: theme.secondaryText }}>
+              <time dateTime={list.datePublished} itemProp="datePublished">
+                Published: {new Date(list.datePublished).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+              </time>
+              {list.dateModified && list.dateModified !== list.datePublished && (
+                <time dateTime={list.dateModified} itemProp="dateModified" style={{ marginLeft: 8 }}>
+                  {'· Updated: '}{new Date(list.dateModified).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+                </time>
+              )}
+              {list.author && ` • By ${list.author}`}
+            </div>
+          ) : (
+            <Text style={[styles.articleDate, { color: theme.secondaryText }]}>
+              Published: {new Date(list.datePublished).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+              {list.author && ` • By ${list.author}`}
+            </Text>
+          )
         )}
       </View>
 

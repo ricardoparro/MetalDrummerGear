@@ -20,6 +20,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Sitemap | https://metalforge.io/sitemap.xml | XML sitemap |
 | API - Drummers | https://metalforge.io/api/drummers | JSON API endpoint |
 | API - Quotes | https://metalforge.io/api/quotes | Drummer quotes JSON |
+| Drummer Quotes | https://metalforge.io/llms/quotes.md | 36 attributed quotes from 12 metal drummers on technique, gear, and philosophy (Markdown) |
 | Bands | https://metalforge.io/llms/bands.md | Band & drummer-history reference (Markdown) |
 | Drummer Endorsements | https://metalforge.io/llms/endorsements.md | Official gear endorsements for 15 metal drummers with brand and contract details (Markdown) |
 | Gear by Brand | https://metalforge.io/llms/gear-by-brand.md | Brand→drummer mapping for all gear categories (Markdown) |
@@ -33,6 +34,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Gear Statistics | https://metalforge.io/llms/stats.md | Brand-popularity data for 61 drummers — drums, cymbals, hardware, sticks with % breakdowns (Markdown) |
 | Gear Brand Insights | https://metalforge.io/llms/gear-insights.md | Named drummer citations with internal links for every brand — drum kit, cymbal, pedal, and stick usage percentages (Markdown) |
 | Gear History | https://metalforge.io/llms/gear-history.md | Era-by-era breakdown of how iconic drummers' gear evolved — endorsement changes and inflation-adjusted prices (Markdown) |
+| Drummer Birthdays | https://metalforge.io/llms/birthdays.md | Birth dates, birth places, and birthday FAQ for 57 metal drummers in calendar order (Markdown) |
 | Metal Drummer Quiz | https://metalforge.io/llms/quiz.md | Personality quiz matching your style to 60+ legendary drummers (Markdown) |
 | Kit Quiz — Which Drummer Are You? | https://metalforge.io/llms/kit-quiz.md | Answer questions about playing style and gear preferences to match to one of 62 metal drummers (Markdown) |
 | Drummer Battles | https://metalforge.io/llms/battles.md | Community head-to-head vote battles between legendary metal drummers, organised by category (Markdown) |
@@ -45,6 +47,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Tools — Tier List | https://metalforge.io/llms/tools/tier-list.md | Interactive metal drummer tier-list ranker (Markdown) |
 | Drummer Style Guides | https://metalforge.io/llms/guides.md | How-to-sound-like style guides for 10 metal legends + beginner gear guides (Markdown) |
 | Per-Guide Deep Dives | https://metalforge.io/llms/guides/ | Individual how-to-sound-like files — full gear, tuning, technique, and FAQ per drummer (10 files) |
+| BPM Database | https://metalforge.io/llms/bpm.md | 150 metal songs with verified tempos organised by category — doom/groove/thrash/death/blast — with drummer links and BPM FAQ (Markdown) |
 | Master FAQ | https://metalforge.io/llms/faq.md | Answer-first FAQ covering gear and techniques for legendary metal drummers (Markdown) |
 | Gear Guide | https://metalforge.io/llms/gear-guide.md | Brand-by-brand guide to drums, cymbals, pedals, and sticks used by metal legends (Markdown) |
 | Per-Drummer LLM Files | https://metalforge.io/llms/drummers/ | Static LLM-optimised gear files for all 61 drummers — brands, specs, and profile links (61 files) |
@@ -467,6 +470,28 @@ like "how to play like [drummer]?" or "[drummer] signature drum patterns".
 | Shannon Larkin | Godsmack | [shannon-larkin.md](https://metalforge.io/llms/licks/shannon-larkin.md) |
 | Travis Orbin | Darkest Hour / ex-Periphery | [travis-orbin.md](https://metalforge.io/llms/licks/travis-orbin.md) |
 | Vinnie Paul | Pantera | [vinnie-paul.md](https://metalforge.io/llms/licks/vinnie-paul.md) |
+
+---
+
+## Style Guides (per-drummer, 10 total)
+
+Per-drummer "how to sound like" guides (full gear lists, tuning notes, technique breakdowns, and FAQ).
+Optimised for AI retrieval on queries like "how to sound like Joey Jordison?" or "what gear do I need to play like Lars Ulrich?".
+
+Hub: [/llms/guides.md](https://metalforge.io/llms/guides.md) — overview of all style guides + beginner gear guides.
+
+| Drummer | Band | File |
+|---------|------|------|
+| Brann Dailor | Mastodon | [how-to-sound-like-brann-dailor.md](https://metalforge.io/llms/guides/how-to-sound-like-brann-dailor.md) |
+| Chris Adler | Lamb of God | [how-to-sound-like-chris-adler.md](https://metalforge.io/llms/guides/how-to-sound-like-chris-adler.md) |
+| Danny Carey | Tool | [how-to-sound-like-danny-carey.md](https://metalforge.io/llms/guides/how-to-sound-like-danny-carey.md) |
+| Dave Lombardo | Slayer | [how-to-sound-like-dave-lombardo.md](https://metalforge.io/llms/guides/how-to-sound-like-dave-lombardo.md) |
+| Gene Hoglan | Death / Testament | [how-to-sound-like-gene-hoglan.md](https://metalforge.io/llms/guides/how-to-sound-like-gene-hoglan.md) |
+| Joey Jordison | Slipknot | [how-to-sound-like-joey-jordison.md](https://metalforge.io/llms/guides/how-to-sound-like-joey-jordison.md) |
+| Lars Ulrich | Metallica | [how-to-sound-like-lars-ulrich.md](https://metalforge.io/llms/guides/how-to-sound-like-lars-ulrich.md) |
+| Mario Duplantier | Gojira | [how-to-sound-like-mario-duplantier.md](https://metalforge.io/llms/guides/how-to-sound-like-mario-duplantier.md) |
+| Matt Halpern | Periphery | [how-to-sound-like-matt-halpern.md](https://metalforge.io/llms/guides/how-to-sound-like-matt-halpern.md) |
+| Tomas Haake | Meshuggah | [how-to-sound-like-tomas-haake.md](https://metalforge.io/llms/guides/how-to-sound-like-tomas-haake.md) |
 
 ---
 

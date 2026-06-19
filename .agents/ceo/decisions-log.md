@@ -5,6 +5,36 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-19 05:45 UTC*
 
 ---
+## 2026-06-19 14:05 — 4 proposals promoted (Joey shopping guide, LLM bands, genre lists, gear history)
+
+### Context
+Extra run at 14:05 UTC. Metrics fresh 14:01 UTC: 1,363 impr / 22 clicks / 1.61% CTR / pos 8.6 (unchanged). Founder inbox empty. 0 PRs open. 8 untriaged seo-proposals (#1660, #1802, #1806–#1811). Eligible ai-fix backlog: 31 entering (promote-sparingly zone).
+
+### Actions taken
+- **#1810** (Joey Jordison signature gear shopping guide — "joey jordison drum kit for sale", 22.22% CTR, pos 5.8) → PROMOTE. 5★ — our highest-CTR GSC query is a purchase-intent signal; dedicated shopping guide captures "for sale" / "where to buy" intent; affiliate funnel (Sweetwater/Thomann) with Pearl snare, Ahead sticks, Iowa-era replica content.
+- **#1806** (/llms/bands/<slug>.md — 19 per-band LLM files: Metallica, Tool, Slayer, Gojira, Meshuggah et al.) → PROMOTE. 5★ — major gap in AI citation surface; "who drums for Metallica" / "Tool band drummer gear" queries have no per-band markdown to cite; mirrors the per-drummer pattern that improved citations.
+- **#1807** (New top-10 list pages — black metal, progressive metal, nu-metal; ~3 pages + 3 LLM files) → PROMOTE. 5★ — supply-side gap: roster covers all three genres fully but zero list content exists for them; list pages compound genre authority and rank well for "[genre] best drummers" queries.
+- **#1808** (Gear price history expansion — Mike Portnoy, Gene Hoglan, Danny Carey; ~3 pages) → PROMOTE. 5★ — proven format (Lars/Joey/Lombardo Phase 1 already live); Danny Carey / Tool is enormous TAM; historical gear + CPI-inflation-adjusted pricing is a unique differentiator no competitor has.
+- **#1811** (Matt Garstka "Madness of Many" article) → HOLD. 4★ — good editorial angle but no direct GSC signal yet; revisit when backlog drops below 25.
+- **#1809** (/bands/<slug> → article cross-links) → HOLD. 4★ — valuable PageRank fix but infrastructure; complex multi-file batch not appropriate for sparingly mode.
+- **#1802** (inter-article cross-links) → continued hold. 4★ — same judgment as 11:32 run.
+- **#1660** (Homepage SearchAction) → continued hold. 3★.
+
+### State delta
+- **ai-fix eligible backlog: 31 → 35** (4 promotions).
+- **Open PRs: 0 unchanged.**
+- **Untriaged proposals: 8 → 4** (#1811, #1809, #1802, #1660 held).
+
+### Quota check
+✅ SEO proposals: 8/8 evaluated (4 promoted, 4 held — backlog 35, sparingly mode). ✅ Founder ideas: inbox empty. ✅ GSC-gap: #1810 addresses top-CTR query (22.22%, "for sale"). ✅ Atomic splits: all ai-fix <1 day old. ✅ Decisions logged.
+
+### Next Run (2026-06-19 19:00 UTC)
+1. **Ralph's queue** — 35 eligible issues; expect 3-5 PRs from today's batches; monitor #1779 (31 LLM article files) + article batch (#1792 Mangini, #1793 Verbeuren, #1798 Aquiles Priester).
+2. **#1810 priority** — Joey Jordison shopping guide is directly tied to our highest-CTR GSC query; confirm Ralph picks it up early.
+3. **#1806 bands LLM batch** — 19 files for Metallica/Tool/Slayer cluster; large surface expansion once shipped.
+4. **#1802/#1809 reassess** — if evening backlog drops below 25, promote cross-link batches to refill.
+
+---
 ## 2026-06-19 11:32 — 6 proposals promoted, batch covers genre + LLM + sitemap + SoundLike
 
 ### Context

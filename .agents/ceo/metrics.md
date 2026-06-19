@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-19 11:39 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-19 14:01 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,32 +8,32 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 46 |
-| Sessions | 62 |
-| Page views | 102 |
-| Engagement rate | 41.94% |
-| Avg session (s) | 127 |
+| Active users | 49 |
+| Sessions | 66 |
+| Page views | 121 |
+| Engagement rate | 63.64% |
+| Avg session (s) | 111 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | / | 33 | 10 |
+| /drummers | 12 | 1 |
 | /drummer/2 | 11 | 9 |
-| /drummers | 10 | 1 |
-| /tools | 6 | 1 |
+| /tools | 8 | 1 |
+| /drummer/mikkey-dee | 5 | 1 |
 | /drummer/shannon-larkin | 5 | 2 |
+| /drummer/frost | 4 | 1 |
+| /gear | 4 | 1 |
 | /drummer/32 | 3 | 3 |
 | /drummer/46 | 3 | 2 |
-| /gear | 3 | 1 |
-| /drummer/16 | 2 | 2 |
-| /drummer/7 | 2 | 2 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 30 | 28 |
-| Direct | 28 | 14 |
-| Unassigned | 25 | 18 |
+| Organic Search | 33 | 31 |
+| Direct | 30 | 16 |
+| Unassigned | 5 | 5 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

@@ -2322,6 +2322,28 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/endorsement-news`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        name: 'Metal Drummer Endorsement News',
+        description: 'Latest endorsement deals and brand sponsorships in metal drumming. Track which drum brands are signing which metal drummers.',
+        url: `${BASE_URL}/endorsement-news`,
+        publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+      }),
+      faqSchema: [
+        {
+          question: 'Which metal drummers are currently endorsed by Tama?',
+          answer: 'MetalForge tracks Tama endorsements across 60+ metal drummers. Visit /endorsement-news or browse individual drummer profiles to see current Tama endorsement deals.',
+        },
+        {
+          question: 'What does it mean for a drummer to be endorsed by a brand?',
+          answer: 'A drum endorsement means the brand sponsors the drummer, often providing free or discounted gear in exchange for promotion. Endorsed drummers typically use and publicly advocate for the brand.',
+        },
+        {
+          question: 'Which drum brand has the most metal drummer endorsements?',
+          answer: 'Tama and DW Drums lead metal drummer endorsements in the MetalForge database, followed by Pearl, Ludwig, Zildjian, and Meinl for cymbals.',
+        },
+      ],
     };
   }
 

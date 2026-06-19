@@ -1424,18 +1424,60 @@ function getMetaForPath(pathname) {
   };
   const brandPageMatch = path.match(/^\/brands\/([a-z0-9-]+)$/);
   if (brandPageMatch) {
-    const brand = BRAND_META[brandPageMatch[1]];
+    const brandSlug = brandPageMatch[1];
+    const brand = BRAND_META[brandSlug];
     if (brand) {
       return {
         title: `${brand.name} Drums — Metal Drummers Who Use ${brand.name} | ${SITE_NAME}`,
         description: `Which metal drummers use ${brand.name} ${brand.type}? See every pro in MetalForge's database who endorses or plays ${brand.name} gear — kit specs and prices.`,
         image: DEFAULT_IMAGE,
         type: 'website',
-        url: `${BASE_URL}/brands/${brandPageMatch[1]}`,
+        url: `${BASE_URL}/brands/${brandSlug}`,
+        articleSchema: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@graph': [
+            {
+              '@type': 'CollectionPage',
+              name: `${brand.name} Metal Drummers — Who Uses ${brand.name}`,
+              description: `Discover which professional metal drummers use ${brand.name} ${brand.type}.`,
+              url: `${BASE_URL}/brands/${brandSlug}`,
+              publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+            },
+            {
+              '@type': 'FAQPage',
+              mainEntity: [
+                {
+                  '@type': 'Question',
+                  name: `Which metal drummers use ${brand.name}?`,
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: `Many professional metal drummers use ${brand.name} ${brand.type}. See the full list with gear specs on MetalForge.`,
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: `Is ${brand.name} good for metal drumming?`,
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: `${brand.name} is one of the most popular brands among professional metal drummers. Many touring pros endorse and play ${brand.name} gear.`,
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: `What ${brand.name} ${brand.type} do pro metal drummers use?`,
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: `Professional metal drummers use a range of ${brand.name} ${brand.type} models. Browse the MetalForge ${brand.name} page to see every pro and their specific gear.`,
+                  },
+                },
+              ],
+            },
+          ],
+        }),
         breadcrumbSchema: [
           { name: 'Home', url: BASE_URL },
           { name: 'Gear Brands', url: `${BASE_URL}/brands` },
-          { name: brand.name, url: `${BASE_URL}/brands/${brandPageMatch[1]}` },
+          { name: brand.name, url: `${BASE_URL}/brands/${brandSlug}` },
         ],
       };
     }

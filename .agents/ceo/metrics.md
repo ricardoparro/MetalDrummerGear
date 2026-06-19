@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-19 14:11 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-19 16:46 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -10,9 +10,9 @@
 | --- | --- |
 | Active users | 49 |
 | Sessions | 66 |
-| Page views | 121 |
+| Page views | 124 |
 | Engagement rate | 63.64% |
-| Avg session (s) | 111 |
+| Avg session (s) | 119 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -21,9 +21,9 @@
 | /drummers | 12 | 1 |
 | /drummer/2 | 11 | 9 |
 | /tools | 8 | 1 |
-| /drummer/mikkey-dee | 5 | 1 |
+| /drummer/mikkey-dee | 6 | 1 |
+| /drummer/frost | 5 | 1 |
 | /drummer/shannon-larkin | 5 | 2 |
-| /drummer/frost | 4 | 1 |
 | /gear | 4 | 1 |
 | /drummer/32 | 3 | 3 |
 | /drummer/46 | 3 | 2 |
@@ -31,7 +31,7 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 33 | 31 |
+| Organic Search | 34 | 32 |
 | Direct | 30 | 16 |
 | Unassigned | 5 | 5 |
 

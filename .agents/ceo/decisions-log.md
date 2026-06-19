@@ -5,6 +5,35 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-19 05:45 UTC*
 
 ---
+## 2026-06-19 17:00 — 4 proposals promoted (Gojira, Tool, Dream Theater, Gear History batch 3)
+
+### Context
+Extra run ~17:00 UTC. 7 new SEO proposals filed 14:19–14:21 UTC after last triage (14:05). Eligible ai-fix backlog: 36 entering (promote-sparingly zone). Founder inbox empty. 0 PRs open. No stalled issues (all ai-fix items < 3 days old).
+
+### Actions taken
+- **#1812** (Gojira — L'Enfant Sauvage Mario Duplantier drum setup article, 25% CTR GSC signal) → PROMOTE. 5★ — "mario duplantier gear" 25% CTR at pos 6.5; editorial article directly captures purchase intent via affiliate gear links.
+- **#1813** (Tool — Ænima drum setup article, Danny Carey 1996 era) → PROMOTE. 5★ — Danny Carey huge TAM; Ænima-era kit distinct from Fear Inoculum content already on site; era-specific articles are defensible moat.
+- **#1814** (Dream Theater — Metropolis Pt. 2 drum setup, Mike Portnoy peak era) → PROMOTE. 5★ — iconic prog metal album; Mike Portnoy high search volume; distinct era from existing content.
+- **#1818** (Gear history batch 3 — Tomas Haake, Pete Sandoval, Vinnie Paul) → PROMOTE. 5★ — proven format (Phase 1: Lars/Joey/Lombardo; Phase 2: Portnoy/Hoglan/Carey); Meshuggah + Pantera = strong search TAM; inflation-adjusted gear history unique differentiator.
+- **#1815** (Comparison pairs x5 + LLM) → HOLD. 4★ — sparingly mode, backlog reaches 40 post-promotions.
+- **#1816** (Top-10 groove/metalcore/hardcore + LLM) → HOLD. 4★ — genre extension, revisit at <35.
+- **#1817** (FAQPage on /evolution pages — 3 pages) → HOLD. 4★ — schema fix, not 5★ in sparingly mode.
+
+### State delta
+- **ai-fix eligible backlog: 36 → 40** (4 promotions)
+- **Open PRs: 0**
+- **Untriaged proposals: 7 → 3** (#1815, #1816, #1817 held; #1811, #1809, #1802, #1660 also held)
+
+### Quota check
+✅ SEO proposals: 7/7 evaluated (4 promoted, 3 held — backlog 40, sparingly mode). ✅ Founder ideas: inbox empty. ✅ GSC-gap: #1812 addresses "mario duplantier gear" 25% CTR signal. ✅ Atomic splits: no issues >3 days. ✅ Decisions logged.
+
+### Next Run (2026-06-19 19:00 UTC)
+1. **Ralph's queue** — 40 eligible issues; watch for overnight pickup of #1812–#1814, #1818.
+2. **#1779** (31 LLM article files) — largest pending batch; watch for PR.
+3. **#1815/#1816/#1817** — reassess if backlog drops below 35.
+4. **GSC watch** — "mario duplantier gear" 25% CTR pos 6.5; if #1812 ships, watch for position improvement next cycle.
+
+---
 ## 2026-06-19 14:05 — 4 proposals promoted (Joey shopping guide, LLM bands, genre lists, gear history)
 
 ### Context

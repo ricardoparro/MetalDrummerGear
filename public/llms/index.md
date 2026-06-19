@@ -44,6 +44,9 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Tools — Tier List | https://metalforge.io/llms/tools/tier-list.md | Interactive metal drummer tier-list ranker (Markdown) |
 | Drummer Style Guides | https://metalforge.io/llms/guides.md | How-to-sound-like style guides for 10 metal legends + beginner gear guides (Markdown) |
 | Per-Guide Deep Dives | https://metalforge.io/llms/guides/ | Individual how-to-sound-like files — full gear, tuning, technique, and FAQ per drummer (10 files) |
+| Master FAQ | https://metalforge.io/llms/faq.md | Answer-first FAQ covering gear and techniques for legendary metal drummers (Markdown) |
+| Gear Guide | https://metalforge.io/llms/gear-guide.md | Brand-by-brand guide to drums, cymbals, pedals, and sticks used by metal legends (Markdown) |
+| Per-Drummer LLM Files | https://metalforge.io/llms/drummers/ | Static LLM-optimised gear files for all 61 drummers — brands, specs, and profile links (61 files) |
 
 ---
 
@@ -112,6 +115,77 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Tim Yeung | Morbid Angel / Hate Eternal / Vital Remains | Death Metal / Technical Death Metal | [Profile](https://metalforge.io/drummer/tim-yeung) | [Markdown](https://metalforge.io/api/drummer/tim-yeung/markdown) |
 | Kevin Talley | Dying Fetus / Misery Index / Six Feet Under | Brutal Death Metal / Grindcore | [Profile](https://metalforge.io/drummer/kevin-talley) | [Markdown](https://metalforge.io/api/drummer/kevin-talley/markdown) |
 | Isaac Lamb | Kublai Khan TX | Metalcore / Beatdown Hardcore | [Profile](https://metalforge.io/drummer/isaac-lamb) | [Markdown](https://metalforge.io/api/drummer/isaac-lamb/markdown) |
+
+---
+
+## Per-Drummer LLM Files (61 total)
+
+Static LLM-optimised files for every drummer — gear specs, primary brands, technique notes, and profile links.
+Optimised for AI retrieval on queries like "what kit does Lars Ulrich play?" or "which cymbals does Joey Jordison use?".
+
+| Drummer | File |
+|---------|------|
+| Abe Cunningham | [abe-cunningham.md](https://metalforge.io/llms/drummers/abe-cunningham.md) |
+| Alex Bent | [alex-bent.md](https://metalforge.io/llms/drummers/alex-bent.md) |
+| Aquiles Priester | [aquiles-priester.md](https://metalforge.io/llms/drummers/aquiles-priester.md) |
+| Arin Ilejay | [arin-ilejay.md](https://metalforge.io/llms/drummers/arin-ilejay.md) |
+| Art Cruz | [art-cruz.md](https://metalforge.io/llms/drummers/art-cruz.md) |
+| Ben Koller | [ben-koller.md](https://metalforge.io/llms/drummers/ben-koller.md) |
+| Bill Ward | [bill-ward.md](https://metalforge.io/llms/drummers/bill-ward.md) |
+| Blake Richardson | [blake-richardson.md](https://metalforge.io/llms/drummers/blake-richardson.md) |
+| Brann Dailor | [brann-dailor.md](https://metalforge.io/llms/drummers/brann-dailor.md) |
+| Charlie Benante | [charlie-benante.md](https://metalforge.io/llms/drummers/charlie-benante.md) |
+| Chris Adler | [chris-adler.md](https://metalforge.io/llms/drummers/chris-adler.md) |
+| Chris Turner | [chris-turner.md](https://metalforge.io/llms/drummers/chris-turner.md) |
+| Daniel Erlandsson | [daniel-erlandsson.md](https://metalforge.io/llms/drummers/daniel-erlandsson.md) |
+| Danny Carey | [danny-carey.md](https://metalforge.io/llms/drummers/danny-carey.md) |
+| Daray | [daray.md](https://metalforge.io/llms/drummers/daray.md) |
+| Dave Lombardo | [dave-lombardo.md](https://metalforge.io/llms/drummers/dave-lombardo.md) |
+| Derek Roddy | [derek-roddy.md](https://metalforge.io/llms/drummers/derek-roddy.md) |
+| Dirk Verbeuren | [dirk-verbeuren.md](https://metalforge.io/llms/drummers/dirk-verbeuren.md) |
+| Eloy Casagrande | [eloy-casagrande.md](https://metalforge.io/llms/drummers/eloy-casagrande.md) |
+| Flo Mounier | [flo-mounier.md](https://metalforge.io/llms/drummers/flo-mounier.md) |
+| Frost | [frost.md](https://metalforge.io/llms/drummers/frost.md) |
+| Gavin Harrison | [gavin-harrison.md](https://metalforge.io/llms/drummers/gavin-harrison.md) |
+| Gene Hoglan | [gene-hoglan.md](https://metalforge.io/llms/drummers/gene-hoglan.md) |
+| George Kollias | [george-kollias.md](https://metalforge.io/llms/drummers/george-kollias.md) |
+| Hannes Grossmann | [hannes-grossmann.md](https://metalforge.io/llms/drummers/hannes-grossmann.md) |
+| Hellhammer | [hellhammer.md](https://metalforge.io/llms/drummers/hellhammer.md) |
+| Igor Cavalera | [igor-cavalera.md](https://metalforge.io/llms/drummers/igor-cavalera.md) |
+| Inferno | [inferno.md](https://metalforge.io/llms/drummers/inferno.md) |
+| Isaac Lamb | [isaac-lamb.md](https://metalforge.io/llms/drummers/isaac-lamb.md) |
+| Jaska Raatikainen | [jaska-raatikainen.md](https://metalforge.io/llms/drummers/jaska-raatikainen.md) |
+| Jason Bittner | [jason-bittner.md](https://metalforge.io/llms/drummers/jason-bittner.md) |
+| Jay Weinberg | [jay-weinberg.md](https://metalforge.io/llms/drummers/jay-weinberg.md) |
+| Jocke Wallgren | [jocke-wallgren.md](https://metalforge.io/llms/drummers/jocke-wallgren.md) |
+| Joey Jordison | [joey-jordison.md](https://metalforge.io/llms/drummers/joey-jordison.md) |
+| John Otto | [john-otto.md](https://metalforge.io/llms/drummers/john-otto.md) |
+| Kevin Talley | [kevin-talley.md](https://metalforge.io/llms/drummers/kevin-talley.md) |
+| Lars Ulrich | [lars-ulrich.md](https://metalforge.io/llms/drummers/lars-ulrich.md) |
+| Mario Duplantier | [mario-duplantier.md](https://metalforge.io/llms/drummers/mario-duplantier.md) |
+| Martin Lopez | [martin-lopez.md](https://metalforge.io/llms/drummers/martin-lopez.md) |
+| Matt Garstka | [matt-garstka.md](https://metalforge.io/llms/drummers/matt-garstka.md) |
+| Matt Greiner | [matt-greiner.md](https://metalforge.io/llms/drummers/matt-greiner.md) |
+| Matt Halpern | [matt-halpern.md](https://metalforge.io/llms/drummers/matt-halpern.md) |
+| Mike Mangini | [mike-mangini.md](https://metalforge.io/llms/drummers/mike-mangini.md) |
+| Mike Portnoy | [mike-portnoy.md](https://metalforge.io/llms/drummers/mike-portnoy.md) |
+| Mikkey Dee | [mikkey-dee.md](https://metalforge.io/llms/drummers/mikkey-dee.md) |
+| Morgan Ågren | [morgan-agren.md](https://metalforge.io/llms/drummers/morgan-agren.md) |
+| Navene Koperweis | [navene-koperweis.md](https://metalforge.io/llms/drummers/navene-koperweis.md) |
+| Nick Augusto | [nick-augusto.md](https://metalforge.io/llms/drummers/nick-augusto.md) |
+| Nicko McBrain | [nicko-mcbrain.md](https://metalforge.io/llms/drummers/nicko-mcbrain.md) |
+| Paul Mazurkiewicz | [paul-mazurkiewicz.md](https://metalforge.io/llms/drummers/paul-mazurkiewicz.md) |
+| Pete Sandoval | [pete-sandoval.md](https://metalforge.io/llms/drummers/pete-sandoval.md) |
+| Ray Luzier | [ray-luzier.md](https://metalforge.io/llms/drummers/ray-luzier.md) |
+| Raymond Herrera | [raymond-herrera.md](https://metalforge.io/llms/drummers/raymond-herrera.md) |
+| Richard Christy | [richard-christy.md](https://metalforge.io/llms/drummers/richard-christy.md) |
+| Ryan Van Poederooyen | [ryan-van-poederooyen.md](https://metalforge.io/llms/drummers/ryan-van-poederooyen.md) |
+| Scott Travis | [scott-travis.md](https://metalforge.io/llms/drummers/scott-travis.md) |
+| Shannon Larkin | [shannon-larkin.md](https://metalforge.io/llms/drummers/shannon-larkin.md) |
+| Tim Yeung | [tim-yeung.md](https://metalforge.io/llms/drummers/tim-yeung.md) |
+| Tomas Haake | [tomas-haake.md](https://metalforge.io/llms/drummers/tomas-haake.md) |
+| Travis Orbin | [travis-orbin.md](https://metalforge.io/llms/drummers/travis-orbin.md) |
+| Vinnie Paul | [vinnie-paul.md](https://metalforge.io/llms/drummers/vinnie-paul.md) |
 
 ---
 

@@ -28,6 +28,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Drummer Comparisons | https://metalforge.io/llms/comparisons.md | Side-by-side drummer gear & style comparisons — all pairs (Markdown) |
 | Per-Pair Comparisons | https://metalforge.io/llms/vs/ | Individual per-pair comparison pages with exact gear data (24 files) |
 | Top-10 Lists | https://metalforge.io/llms/lists.md | Ranked top-10 drummer lists by speed, genre, gear value, and technique (Markdown) |
+| Per-List Deep Dives | https://metalforge.io/llms/lists/ | Individual per-list ranked guides with full rationale, FAQ, and internal links (8 files) |
 | Quick Facts | https://metalforge.io/llms/facts.md | Speed records, gear stats, career milestones, nicknames & technical definitions (Markdown) |
 | Gear Statistics | https://metalforge.io/llms/stats.md | Brand-popularity data for 61 drummers — drums, cymbals, hardware, sticks with % breakdowns (Markdown) |
 | Gear Brand Insights | https://metalforge.io/llms/gear-insights.md | Named drummer citations with internal links for every brand — drum kit, cymbal, pedal, and stick usage percentages (Markdown) |
@@ -239,6 +240,26 @@ Hub: [/llms/battles.md](https://metalforge.io/llms/battles.md) — overview of a
 | Inferno vs Hellhammer | Black Metal Titans | [inferno-vs-hellhammer.md](https://metalforge.io/llms/battles/inferno-vs-hellhammer.md) |
 | Vinnie Paul vs Dave Lombardo | Groove Metal Icons | [vinnie-paul-vs-dave-lombardo.md](https://metalforge.io/llms/battles/vinnie-paul-vs-dave-lombardo.md) |
 | Brann Dailor vs Chris Adler | Modern Metal Masters | [brann-dailor-vs-chris-adler.md](https://metalforge.io/llms/battles/brann-dailor-vs-chris-adler.md) |
+
+---
+
+## Top-10 Lists (per-list)
+
+Per-list ranked guides (700–2,300 words each) optimised for AI retrieval on high-intent ranking queries
+like "who is the fastest metal drummer?" or "best death metal drummers of all time?".
+
+Hub: [/llms/lists.md](https://metalforge.io/llms/lists.md) — aggregate overview of all 8 ranked lists.
+
+| List | Keyphrase | File |
+|------|-----------|------|
+| Top 10 Fastest Metal Drummers | fastest metal drummers | [fastest-metal-drummers.md](https://metalforge.io/llms/lists/fastest-metal-drummers.md) |
+| Top 10 Death Metal Drummers | best death metal drummers | [death-metal-drummers.md](https://metalforge.io/llms/lists/death-metal-drummers.md) |
+| Top 10 Most Innovative Metal Drummers | most innovative metal drummers | [most-innovative-drummers.md](https://metalforge.io/llms/lists/most-innovative-drummers.md) |
+| Top 10 Thrash Metal Drummers | best thrash metal drummers | [thrash-metal-drummers.md](https://metalforge.io/llms/lists/thrash-metal-drummers.md) |
+| Top 10 Pro Drummers with Budget-Friendly Setups | metal drummers budget gear | [drummers-with-budget-friendly-kits.md](https://metalforge.io/llms/lists/drummers-with-budget-friendly-kits.md) |
+| Top 10 Most Expensive Metal Drum Setups | most expensive drum kits | [most-expensive-drum-setups.md](https://metalforge.io/llms/lists/most-expensive-drum-setups.md) |
+| Top 10 Fastest Double Bass Drummers in Metal History | fastest double bass drummers | [fastest-double-bass-drummers.md](https://metalforge.io/llms/lists/fastest-double-bass-drummers.md) |
+| Top 10 Most Brutal Drum Solos in Metal History | most brutal metal drum solos | [most-brutal-drum-solos.md](https://metalforge.io/llms/lists/most-brutal-drum-solos.md) |
 
 ---
 

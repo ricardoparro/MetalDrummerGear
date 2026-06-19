@@ -5,6 +5,55 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-16 17:39 UTC*
 
 ---
+## 2026-06-19 07:00 — 40 PRs cleared (22 merged + 13 closed dupes + 5 article conflicts resolved), 24 proposals approved, backlog 24→48
+
+### Context
+Morning deep run. Metrics fresh 00:52 UTC: 1,148 impr / 18 clicks / 1.57% CTR / pos 8.5 (slight CTR dip expected from indexing lag). Founder inbox empty. 40 open PRs (36 MERGEABLE, 4 CONFLICTING). 24 untriaged seo-proposals. Eligible ai-fix backlog: 66 → must close issues to clear.
+
+### Actions taken
+- **Closed 7 stale issues** (#1347–#1354): fixes shipped in 17:10 run (PRs #1460–#1468) but weren't auto-closed. Closed 9 duplicate PRs (#1631, #1632, #1634, #1635, #1642, #1644 for re-runs + #1627/#1639/#1647 duplicate pairs).
+- **Merged 22 legitimate MERGEABLE PRs** in sequence: 5 new-file LLM PRs (#1615/#1621/#1637/#1640/#1645), 5 article PRs (#1636/#1638/#1648/#1646/#1617), 15 SSR meta PRs (#1613/#1616/#1618–#1620/#1622–#1626/#1628–#1630/#1641/#1643). Also merged missed PR #1633 (video sitemap) and PR #1650 (/llms/endorsements/<slug>.md).
+- **Resolved 5 CONFLICTING article PRs** via CEO rebase: Frost (#1607), Jaska Raatikainen (#1609), Paul Mazurkiewicz (#1612), Jay Weinberg (#1614), Technique HowTo batch (#1599). All used same pattern: `git checkout --theirs`, extract article from branch, append to main's version, force-push, merge.
+- **Resolved wave-2 article conflicts**: Shannon Larkin (#1649), Hellhammer (#1651), Martin Lopez (#1652) — 3 more article PRs that Ralph filed while CEO was working.
+- **Closed 13 more duplicate PRs** (#1653–#1658, #1662, #1666–#1672) — Ralph created these for issues already fixed by morning merges.
+- **Closed 35 stale issues**: all issues whose fixes shipped via today's PRs but didn't auto-close.
+- **Triaged 24 seo-proposals → all APPROVED → `ai-fix`** after backlog dropped to 24 (< 25 threshold):
+  - **#1580** (/drummer/<numericId> 301 redirect) → APPROVE. GA4 shows /drummer/2 as #2 top page (11 views/9 users) — serving generic meta. Critical CTR fix. Top priority in queue.
+  - **#1579** (/bpm + /bpm-tap sitemap + SSR meta) → APPROVE. Tool pages at sitemap priority 0.95; WebApplication schema for AI citation.
+  - **#1559** (/tools hub CollectionPage + FAQPage) → APPROVE. Hub at priority 0.95 with zero schema.
+  - **#1558** (/licks hub FAQPage) → APPROVE. High-traffic hub, CollectionPage already exists.
+  - **#1581** (Isaac Lamb article) → APPROVE. ONLY roster member with zero editorial content AND no pending proposal — unique gap.
+  - **#1522** (/quotes Quotation + ItemList) → APPROVE. Rich result eligibility for quote queries.
+  - **#1521** (<time datetime> article date stamps) → APPROVE. Google Discover eligibility for 62 articles.
+  - **#1520** (/birthdays Person ItemList) → APPROVE. AI Overview eligibility for birthday queries.
+  - **#1585** (album articles → lick page cross-links) → APPROVE. Bidirectional internal links; complements #1332/#1357.
+  - **#1512** (/llms/lists/<slug>.md 8 files) → APPROVE. LLM surface for list pages.
+  - **#1514** (/llms/gear-comparison/<slug>.md 7 files) → APPROVE. Comparison LLM surface.
+  - **#1513** (WebApplication JSON-LD remaining tools) → APPROVE. Schema completion.
+  - **#1562** (/llms/guides/<slug>.md 4 beginner guides) → APPROVE. Distinct from #1450 (soundLike guides).
+  - **#1561** (/llms/birthdays.md) → APPROVE. LLM surface for birthday data.
+  - **#1560** (/llms/quotes.md) → APPROVE. LLM surface for quotes.
+  - **#1582** (/llms/bpm.md) → APPROVE. BPM tool LLM surface.
+  - **#1586** (/llms/gear-news.md + /llms/endorsement-news.md) → APPROVE. Feed pages LLM surface.
+  - **#1557, #1556, #1519, #1518, #1517, #1516, #1515** (7 roster member articles: Jason Bittner, Chris Turner, Hannes Grossmann, Kevin Talley, Ryan Van Poederooyen, Jon Dette, Morgan Ågren) → all APPROVE. Roster completeness; these all have lick pages but no editorial articles.
+
+### State delta
+- **ai-fix eligible backlog: 66 → 24 → 48** (66 start; PRs closed issues → 24; 24 proposals promoted → 48).
+- **Open PRs: 40 → 0.** No open PRs at end of run.
+- **Issues closed: 42** (7 pre-run stale + 35 from today's PR merges).
+- **Duplicate PRs closed: 22** (3 waves of Ralph re-runs on already-fixed issues).
+- **New content shipped:** 11 articles (Frost, Jaska, Paul Mazurkiewicz, Jay Weinberg, Navene, Ray Luzier, Nick Menza, Shannon Larkin, Hellhammer, Martin Lopez + 5 Technique HowTo); all LLM per-drummer files now have Signature Licks section; 8 brand LLM files; /llms/endorsements.md; /llms/battles.md + kit-quiz + guess-the-kit; /llms/gear-insights.md; 15 SSR meta fixes; SpeakableSpecification on 62 articles; video sitemap; Band pages MusicGroup schema; 63 drummer profile BreadcrumbList; 63 licks hub FAQPage; Signature gear spotlight (Danny Carey, Mario Duplantier, Gene Hoglan).
+
+### Quota check
+✅ SEO proposals: 24/24 triaged (all approved). ✅ Founder ideas: inbox empty. ✅ GSC-gap: brann dailor (13 impr, 0% CTR, pos 5.2) + aquiles priester (12 impr, 0% CTR) below 50 impr threshold — no formal escalation. ✅ Atomic-split: all issues atomic. ✅ Decisions logged.
+
+### Next Run (2026-06-19 13:00 mid-day pulse)
+1. **#1580 priority** (/drummer/<numericId> 301 redirect) — GA4 #2 page serving generic meta; highest CTR impact in new queue; confirm Ralph picks it up first.
+2. **Article velocity** — 7 roster articles + Isaac Lamb now in queue; at current throughput Ralph ships 3-4/day; expect 2 by afternoon.
+3. **Duplicate PR pattern** — Ralph created 3 separate waves of duplicate PRs today. Root fix (#1377 PR template auto-close) is in queue — confirm it ships.
+4. **CTR watch** — 1.57% this morning (down from 1.74%); batch SSR fixes + article merges from today need 1 indexing cycle (~5 days) to reflect.
+
+---
 ## 2026-06-18 19:50 — 12 proposals triaged (all approved), 7 duplicate PRs merged
 
 ### Context

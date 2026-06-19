@@ -582,6 +582,9 @@ export default function handler(req, res) {
       'vinnie-paul', 'frost', 'daray',
       // Issue #1248: Chris Turner + Isaac Lamb (100% lick coverage).
       'chris-turner', 'isaac-lamb',
+      // Issue #1702: Batch 3 — remaining 8 drummers added after 100% lick milestone.
+      'jocke-wallgren', 'john-otto', 'jon-dette', 'kevin-talley',
+      'morgan-agren', 'nick-augusto', 'ryan-van-poederooyen', 'tim-yeung',
     ].map(slug => ({ loc: `/llms/licks/${slug}.md`, priority: '0.5', changefreq: 'monthly' }))),
     // Issue #1271: per-series LLM Markdown files for AI citation.
     // Slugs derived from GEAR_INDEX (same slugifyGearSeries logic used for HTML pages)

@@ -1965,6 +1965,62 @@ function getMetaForPath(pathname) {
           href: `/articles/${a.slug}`,
           label: a.title,
         })) : null,
+        // Issue #1659: Person + FAQPage + MusicGroup JSON-LD for SSR crawler visibility
+        articleSchema: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@graph': [
+            {
+              '@type': 'Person',
+              name: drummer.name,
+              jobTitle: 'Drummer',
+              url: `${BASE_URL}/drummer/${slug}`,
+              image: `${BASE_URL}/api/card/${slug}?format=twitter`,
+              ...(drummer.band ? {
+                memberOf: {
+                  '@type': 'MusicGroup',
+                  name: drummer.band,
+                },
+              } : {}),
+              sameAs: [
+                `https://en.wikipedia.org/wiki/${encodeURIComponent(drummer.name.replace(/ /g, '_'))}`,
+              ],
+              knowsAbout: ['Drumming', 'Metal Music', 'Percussion'],
+            },
+            {
+              '@type': 'FAQPage',
+              mainEntity: [
+                {
+                  '@type': 'Question',
+                  name: `What drum kit does ${drummer.name} play?`,
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: brands.length > 0
+                      ? `${drummer.name} plays a ${brands.join(' and ')} drum kit. See the full gear setup on MetalForge.`
+                      : `${drummer.name}'s full drum kit and gear setup is documented on MetalForge.`,
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: `What cymbals does ${drummer.name} use?`,
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: `${drummer.name}'s cymbal setup includes gear from their complete MetalForge profile at metalforge.io/drummer/${slug}.`,
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: `What band is ${drummer.name} in?`,
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: drummer.band
+                      ? `${drummer.name} is the drummer of ${drummer.band}.`
+                      : `${drummer.name} has performed with multiple bands. See their full career history on MetalForge.`,
+                  },
+                },
+              ],
+            },
+          ],
+        }),
         breadcrumbSchema: [
           { name: 'Home', url: BASE_URL },
           { name: 'Drummers', url: `${BASE_URL}/drummers` },

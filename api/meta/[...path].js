@@ -29,6 +29,8 @@ import { SOUND_LIKE_GUIDES, generateGuideSchema } from '../../packages/frontend/
 import { DRUMMER_EVOLUTION } from '../../packages/frontend/data/drummerEvolution.js';
 // Issue #1473: /battles/<slug> individual pages — FAQPage + BreadcrumbList JSON-LD.
 import { CURATED_MATCHUPS } from '../../packages/frontend/data/battles.js';
+// Issue #1474: /drummers/<slug>/signature/<gearSlug> pages — Product + BreadcrumbList JSON-LD.
+import { SIGNATURE_GEAR } from '../../packages/frontend/data/signatureGear.js';
 
 const BASE_URL = 'https://metalforge.io';
 const SITE_NAME = 'MetalForge';
@@ -1505,6 +1507,42 @@ function getMetaForPath(pathname) {
             answer: `${drummer.name} endorses ${cymbalBrand}. Full cymbal setup and endorsement details are available on MetalForge.`,
           },
         ],
+      };
+    }
+  }
+
+  // Issue #1474: /drummers/<slug>/signature/<gearSlug> — Product + BreadcrumbList JSON-LD
+  const sigGearMatch = path.match(/^\/drummers\/([^/]+)\/signature\/([^/]+)\/?$/);
+  if (sigGearMatch) {
+    const [, drummerSlug, gearSlug] = sigGearMatch;
+    const gear = SIGNATURE_GEAR[gearSlug];
+    const drummer = getDrummerBySlug(drummerSlug);
+    if (gear && drummer) {
+      return {
+        title: `${gear.fullName} — ${drummer.name}'s Signature ${gear.gearType} | ${SITE_NAME}`,
+        description: `${gear.hero.tagline}. Full specs, story, and pricing for ${drummer.name}'s ${gear.name} (${gear.model}).`,
+        type: 'website',
+        url: `${BASE_URL}/drummers/${drummerSlug}/signature/${gearSlug}`,
+        articleSchema: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@graph': [
+            {
+              '@type': 'Product',
+              name: gear.fullName,
+              model: gear.model,
+              brand: { '@type': 'Brand', name: gear.brand },
+              description: gear.hero.subtitle,
+            },
+            {
+              '@type': 'BreadcrumbList',
+              itemListElement: [
+                { '@type': 'ListItem', position: 1, name: 'Home', item: BASE_URL },
+                { '@type': 'ListItem', position: 2, name: drummer.name, item: `${BASE_URL}/drummers/${drummerSlug}` },
+                { '@type': 'ListItem', position: 3, name: gear.name, item: `${BASE_URL}/drummers/${drummerSlug}/signature/${gearSlug}` },
+              ],
+            },
+          ],
+        }),
       };
     }
   }

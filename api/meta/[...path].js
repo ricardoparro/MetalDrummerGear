@@ -926,6 +926,51 @@ function getMetaForPath(pathname) {
     };
   }
 
+  // Issue #1408: /brands hub
+  if (path === '/brands') {
+    return {
+      title: `Metal Drum & Cymbal Brands Used by Pro Drummers | ${SITE_NAME}`,
+      description: 'Browse drum and cymbal brands used by 60+ metal legends. Tama, Pearl, DW, Zildjian, Paiste, Meinl, Sabian — see which pros endorse each brand.',
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url: `${BASE_URL}/brands`,
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Gear Brands', url: `${BASE_URL}/brands` },
+      ],
+    };
+  }
+
+  // Issue #1408: /brands/<slug> individual brand pages
+  const BRAND_META = {
+    tama: { name: 'Tama', type: 'drums' },
+    pearl: { name: 'Pearl', type: 'drums' },
+    dw: { name: 'DW (Drum Workshop)', type: 'drums' },
+    ludwig: { name: 'Ludwig', type: 'drums' },
+    zildjian: { name: 'Zildjian', type: 'cymbals' },
+    paiste: { name: 'Paiste', type: 'cymbals' },
+    meinl: { name: 'Meinl', type: 'cymbals' },
+    sabian: { name: 'Sabian', type: 'cymbals' },
+  };
+  const brandPageMatch = path.match(/^\/brands\/([a-z0-9-]+)$/);
+  if (brandPageMatch) {
+    const brand = BRAND_META[brandPageMatch[1]];
+    if (brand) {
+      return {
+        title: `${brand.name} Drums — Metal Drummers Who Use ${brand.name} | ${SITE_NAME}`,
+        description: `Which metal drummers use ${brand.name} ${brand.type}? See every pro in MetalForge's database who endorses or plays ${brand.name} gear — kit specs and prices.`,
+        image: DEFAULT_IMAGE,
+        type: 'website',
+        url: `${BASE_URL}/brands/${brandPageMatch[1]}`,
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: 'Gear Brands', url: `${BASE_URL}/brands` },
+          { name: brand.name, url: `${BASE_URL}/brands/${brandPageMatch[1]}` },
+        ],
+      };
+    }
+  }
+
   // Issue #1209: /licks top-level hub
   if (path === '/licks') {
     return {

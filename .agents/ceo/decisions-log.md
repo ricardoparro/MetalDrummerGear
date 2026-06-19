@@ -2,7 +2,41 @@
 
 *Record of strategic decisions and reasoning. Hot log: last 7 days. Older entries archived monthly under `.agents/ceo/decisions-history/`.*
 
-*Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-16 17:39 UTC*
+*Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-19 05:45 UTC*
+
+---
+## 2026-06-19 07:00 — 4 PRs resolved, 6 proposals promoted, 1 CEO issue filed (Brann Dailor)
+
+### Context
+Morning deep run. Metrics fresh 05:45 UTC: 1,148 impr / 18 clicks / 1.57% CTR / pos 8.5. Founder inbox empty. 4 open PRs (3 MERGEABLE, 1 CONFLICTING). 6 untriaged seo-proposals (#1779-#1784). Eligible ai-fix backlog: 14 entering.
+
+### Actions taken
+- **Merged 3 MERGEABLE PRs:** #1785 (#1659 Person+FAQPage+MusicGroup on 62 drummer profiles), #1778 (#1586 /llms/gear-news.md + /llms/endorsement-news.md), #1777 (#1585 album articles → lick cross-links).
+- **Resolved CONFLICTING PR #1776** (Derek Roddy Hate Eternal article) via CEO direct commit ae56620. Conflict in albumArticles.js; content extracted from branch and appended to main. Closed PR + issue #1711.
+- **Closed 4 stale issues:** #1659, #1586, #1585 (PR merges didn't auto-close), #1711 (conflict resolution).
+- **Triaged 6 seo-proposals → all PROMOTED:**
+  - **#1779** (/llms/articles/ — 31 missing LLM markdown files for album articles) → PROMOTE. 5★ — album articles sitemapped + have Article schema; 31 LLM files = largest remaining AI citation gap. Directly improves AI search citations for our deepest content.
+  - **#1780** (/llms/gear-comparison/ sitemap — 7 files missing) → PROMOTE. 4★ — files exist (shipped last evening run) but AI crawlers blind; simple sitemap fix.
+  - **#1781** (/llms/brands/ sitemap — 8 files missing) → PROMOTE. 4★ — same pattern; 8 brand LLM files invisible to crawlers.
+  - **#1782** (/llms/gear-history/<slug>.md — 3 files: Lars/Joey/Lombardo) → PROMOTE. 4★ — high-traffic drummers; fills gear-history axis in AI citation surface.
+  - **#1783** (Gavin Harrison / Porcupine Tree article) → PROMOTE. 4★ — prog/metal crossover; Fear of a Blank Planet has dedicated fanbase; distinctive technical drummer with high search intent.
+  - **#1784** (Charlie Benante / Anthrax "Among the Living" article) → PROMOTE. 5★ — Big 4 thrash; Benante is iconic; Among the Living is definitive thrash album; very high TAM.
+- **Filed CEO issue #1786** (Brann Dailor / Mastodon article): GSC shows "brann dailor drum kit" at pos 5.2 / 0% CTR. Page 1 but zero conversions = editorial content gap. Same playbook as Matt Greiner pre-article. No existing proposal.
+- **Parked #1660** (Homepage SearchAction) again — 3★, branded query only, lower urgency vs article + sitemap gaps above.
+
+### State delta
+- **ai-fix eligible backlog: 14 → 10 (after 4 closes) → 17 (after 6 promotions + 1 CEO file).**
+- **Open PRs: 4 → 0.**
+- **Content shipped:** Person+FAQPage+MusicGroup on 62 drummer profiles (AI entity recognition + AI Overview eligibility across entire drummer roster); album-article→lick cross-links; /llms/gear-news.md + /llms/endorsement-news.md; Derek Roddy Hate Eternal article.
+
+### Quota check
+✅ SEO proposals: 6/6 triaged (all promoted). ✅ Founder ideas: inbox empty. ✅ GSC-gap: below 50 impr threshold (max query 13 impr). ✅ Atomic-split: all issues <1 day old. ✅ CEO issue filed: #1786 (Brann Dailor, GSC signal). ✅ Decisions logged.
+
+### Next Run (2026-06-19 13:00 mid-day pulse)
+1. **Person+FAQPage+MusicGroup** (#1659, just shipped) — biggest schema win in weeks; 62 drummer pages now serve structured-data to crawlers. Monitor for impression lift on drummer-profile queries (Brann Dailor, Aquiles Priester both at pos 5–6 with 0% CTR — schema + content depth will move these).
+2. **#1779 (/llms/articles/ 31 files)** — largest batch in current queue; verify Ralph picks it up; expect 1-2 day runtime.
+3. **Article velocity** — Charlie Benante (#1784) + Gavin Harrison (#1783) + Brann Dailor (#1786) now in queue; at Ralph's current throughput expect 1-2 articles by afternoon.
+4. **Backlog watch** — at 17; below 25 refill target; morning run SEO Agent may drop new proposals.
 
 ---
 ## 2026-06-19 19:00 — 30 PRs cleared, 12 proposals triaged (11 promoted), 10 articles + 301 redirects + gear-comparison LLMs shipped
@@ -51,6 +85,9 @@ Evening run. Metrics unchanged (1,148 impr / 18 clicks / 1.57% CTR). 30 open PRs
 4. **CTR watch** — 1.57% this evening; 301 redirect fix alone should lift /drummer/2 from generic to canonical; monitor next GSC refresh.
 
 ---
+
+---
+
 ## 2026-06-19 13:00 — 9 PRs resolved, 6 proposals triaged (1 promoted), backlog 48→41
 
 ### Context
@@ -86,6 +123,9 @@ Mid-day pulse. Metrics unchanged from 01:58 UTC run (1,148 impr / 18 clicks / 1.
 4. **CTR watch** — 1.57% this morning; drummer profile SSR (#1659) + battles SSR (#1693) both need indexing cycle to impact.
 
 ---
+
+---
+
 ## 2026-06-19 07:00 — 40 PRs cleared (22 merged + 13 closed dupes + 5 article conflicts resolved), 24 proposals approved, backlog 24→48
 
 ### Context
@@ -135,6 +175,9 @@ Morning deep run. Metrics fresh 00:52 UTC: 1,148 impr / 18 clicks / 1.57% CTR / 
 4. **CTR watch** — 1.57% this morning (down from 1.74%); batch SSR fixes + article merges from today need 1 indexing cycle (~5 days) to reflect.
 
 ---
+
+---
+
 ## 2026-06-18 19:50 — 12 proposals triaged (all approved), 7 duplicate PRs merged
 
 ### Context
@@ -172,6 +215,9 @@ Evening run. Metrics fresh 19:42 UTC: 1,322 impr / 23 clicks / 1.74% CTR / pos 8
 4. **DefinedTerm + MusicAlbum entities** (#1453, #1454) — highest LLM moat in queue; confirm Ralph picks these up.
 
 ---
+
+---
+
 ## 2026-06-18 17:10 — 12 proposals triaged (all approved), 7 PRs merged
 
 ### Context
@@ -208,6 +254,9 @@ Evening run. Metrics fresh 16:59 UTC: 1,322 impr / 23 clicks / 1.74% CTR / pos 8
 4. **Article velocity** — 8 new articles in queue (Nick Menza, Hellhammer, Travis Orbin, Blake Richardson, Tim Yeung + earlier batch). At current throughput Ralph ships 3-4/day; queue should clear mid-week.
 
 ---
+
+---
+
 ## 2026-06-18 11:30 — 10 proposals triaged (all approved), 1 stale closed
 
 ### Context
@@ -242,6 +291,9 @@ Mid-day pulse (early, metrics fresh 11:20 UTC). 1,322 impr / 23 clicks / 1.74% C
 4. **CTR trajectory** — 1.74% is soft; extendedBios fix + article batch need ~5 days indexing. Monitor impr growth.
 
 ---
+
+---
+
 ## 2026-06-18 07:41 — 10 proposals triaged (9 approved, 1 rejected), 1 PR merged, 3 stale issues closed, 2 dupe PRs closed
 
 ### Context
@@ -279,6 +331,9 @@ Morning deep run. Metrics fresh (07:41 UTC): 1,322 impr / 23 clicks / 1.74% CTR 
 4. **Duplicate PR pattern** — #1377 (PR template auto-close fix) is in queue; once shipped, the "#NNN stale cleanup" pattern should stop.
 
 ---
+
+---
+
 ## 2026-06-18 19:00 — 100% lick milestone confirmed, 13 stale closed, 8 dupe PRs closed, 9 proposals approved
 
 ### Context
@@ -317,6 +372,9 @@ Evening run. 27 PRs merged since midnight UTC (Ralph shipped entire 13:00 + new 
 4. **Duplicate PR pattern** — Ralph opened 8 duplicate PRs because issues weren't auto-closed. Root fix: add "closes #NNN" keyword to PR body template so GitHub auto-closes on merge.
 
 ---
+
+---
+
 ## 2026-06-18 13:00 — 11 stale issues closed, 10 proposals approved, queue 17 active
 
 ### Context
@@ -352,6 +410,9 @@ Mid-day pulse. 0 open PRs — Ralph shipped the entire 07:10 batch at 01:30 UTC 
 4. **CTR watch** — 1.70% is soft; Matt Greiner article + Joey Jordison FAQ + SSR batch compound on next indexing cycle.
 
 ---
+
+---
+
 ## 2026-06-18 07:10 — 11 PRs merged, 10 proposals approved, 14 issues closed
 
 ### Context
@@ -401,6 +462,9 @@ Mid-day pulse. 0 open PRs — Ralph shipped the entire 07:10 batch at 01:30 UTC 
 4. **Metrics watch** — CTR 1.70% is slightly soft; the SSR + article batch should lift it over the next indexing cycle.
 
 ---
+
+---
+
 ## 2026-06-17 23:45 — 5 proposals approved, 1 CEO issue filed (Joey Jordison content depth)
 
 ### Context
@@ -430,6 +494,9 @@ Late-night deep run. Metrics fresh (23:33 UTC): 1,289 impr / 25 clicks / CTR 1.9
 3. **GSC watch** — "joey jordison drum set" pos 9.0 — monitor for CTR lift from #1225 SSR fix already live; #1261 content-depth issue will further push.
 
 ---
+
+---
+
 ## 2026-06-17 22:35 — 6 PRs merged (all conflicts resolved), 4 proposals approved, 1 rejected (dupe), 1 new issue, lick count 43→51
 
 ### Context
@@ -470,6 +537,9 @@ Late evening run (22:35 UTC). 6 open PRs (3 MERGEABLE, 3 CONFLICTING on `index.j
 4. **GSC watch** — "joey jordison drum set" (120 impr, 1.67% CTR, pos 9) — SSR fix now live; first indexing cycle post-deploy should show CTR improvement.
 
 ---
+
+---
+
 ## 2026-06-17 19:45 — 4 PRs merged (incl. lick conflict resolved), 5 proposals approved, 2 new issues filed, lick count 39→43
 
 ### Context
@@ -508,6 +578,9 @@ Evening run (19:45 UTC). 4 UNSTABLE/MERGEABLE PRs open (#1213-#1216). 5 new seo-
 4. **#1218 (llms/licks/)** — verify generator is independent from lick index.js writes (different files, no conflict risk).
 
 ---
+
+---
+
 ## 2026-06-17 17:30 — 4 proposals approved, 3 PRs merged, lick count 35→39
 
 ### Context
@@ -542,6 +615,9 @@ Evening run (17:30 UTC). 4 new seo-proposals untriaged (#1199-#1202). 3 open PRs
 4. **GSC monitoring** — watch "aquiles priester drum kit" (pos 5.1, 0% CTR); lick content just added; may improve on next indexing.
 
 ---
+
+---
+
 ## 2026-06-17 19:00 — 🚀 8 PRs merged, 4 proposals approved, lick count 31→35
 
 ### Context
@@ -577,6 +653,9 @@ Evening run following Ralph's fastest batch yet (all 8 ai-fix issues from the 10
 4. **GSC gap monitoring** — with batch title/H1/meta fixes indexed, check if "joey jordison drum set" CTR improves above 2%.
 
 ---
+
+---
+
 ## 2026-06-17 13:00 (mid-day pulse — state-confirm)
 - Backlog: 8 ai-fix · 0 PRs open · proposals untriaged: 0
 - Org / Sessions / Views (7d): 38 / 49 / 81 (metrics age: ~1.5h, last refresh 11:31 UTC)
@@ -585,6 +664,9 @@ Evening run following Ralph's fastest batch yet (all 8 ai-fix issues from the 10
 - Actions: none — hold continues until PRs appear; next deep-run flagged: Inferno/Hellhammer/Martin Lopez lick tier (pos-17 "behemoth drummer" GSC signal)
 
 ---
+
+---
+
 ## 2026-06-17 (Wednesday) — 10:01 Deep Run — 🚀 Ralph on GitHub Actions + 5 PRs merged + 4 new issues filed
 
 ### Context
@@ -620,6 +702,9 @@ First deep run with Ralph fully migrated to GitHub Actions (PR#1167/#1165, merge
 4. **#1182 OAuth impact** — auth changed from API key → subscription OAuth; monitor agent runs for any auth failures.
 
 ---
+
+---
+
 ## 2026-06-16 (Tuesday) — 19:00 Evening — 🔓 GSC LIVE (126-day blind spot ends) + schema queue fully shipped
 
 ### Context
@@ -677,6 +762,8 @@ Re-invocation ~80 min after the 13:16 pulse (metrics auto-refreshed 14:36 UTC, i
 
 ---
 
+---
+
 ## 2026-06-16 (Tuesday) — 13:16 Pulse (RESUME-QUOTA TRIAGE: approved 3 + split 1 + held 1 of the SEO Agent's 4-proposal drop; GSC error advanced past "missing")
 
 ### Context
@@ -710,6 +797,8 @@ Today's commits 7a9e2c7 / e24e700 plumbed the `GSC_SITE` secret through both wor
 
 *Última revisão: CEO Agent — 2026-06-16 13:16 pulse (triaged SEO Agent's 4-proposal resume-quota drop: approved #1125 gear-sitemap + #1126 /llms/techniques.md, split #1123 → #1128/#1129 [2-drummer atomic, closed parent not_planned], held #1124 classic licks one cycle w/ release trigger; ai-fix backlog 9→13, throttling until <12; GSC error advanced "missing"→"permission denied" — GA4 works on same creds ⇒ SA not granted on GSC property, posted exact 2-min fix on #910; GA4 organic 79%; founder inbox empty; flagged stalled 06-12 schema queue for next deep run; committed 13:16 metrics refresh)*
 
+
+---
 
 ---
 
@@ -750,6 +839,8 @@ Today's commits 7a9e2c7 / e24e700 plumbed the `GSC_SITE` secret through both wor
 
 ---
 
+---
+
 ## 2026-06-14 (Sunday) — 07:00 Deep Run (drained PR queue 2→0: merged 1, closed 1 redundant; anti-noise hold)
 
 ### Context
@@ -778,6 +869,8 @@ Scheduled Sunday deep run (metrics auto-refreshed 06-14 03:10 UTC). Two SEO run-
 4. **#910 GSC** — file the first real GSC-gap escalations the instant `GSC_SITE` lands.
 
 *Última revisão: CEO Agent — 2026-06-14 07:00 deep run (drained PR queue 2→0: merged #1107 `/llms` Sun audit log after resolving the recurring metrics.md run-log conflict — also landed the 03:10 metrics refresh onto main; closed #1108 as redundant duplicate of #1107 rather than conflict-resolve a second identical hold-log; ai-fix backlog 17 unchanged, still >12 threshold → anti-noise hold continues, deep-run issue quota deliberately overridden — binding constraint = implementer/merge throughput #909/#1060, not idea supply; #909/#910 no Ricardo reply / no re-spam, proposals + founder inbox empty, no atomic-split due, GA4 organic 70% in-band; metrics committed)*
+
+---
 
 ---
 
@@ -823,6 +916,8 @@ Scheduled Sunday deep run (metrics auto-refreshed 06-14 03:10 UTC). Two SEO run-
 
 ---
 
+---
+
 ## 2026-06-13 (Saturday) — Early-Morning Touch (clear PR queue: merge #1087, resolve stale #1084)
 
 ### State at start (metrics fresh — 06-13 05:32 UTC refresh)
@@ -859,6 +954,8 @@ Repeating log-PR conflicts on `seo-plan.md` are structural: GitHub never runs th
 5. **#910 GSC** — file the first real GSC-gap escalations the instant `GSC_SITE` lands.
 
 *Última revisão: CEO Agent — 2026-06-13 early-morning touch (cleared PR queue to 0: merged CLEAN log PR #1087 after waiting out the "Verify Site Loads" required check — no admin override; closed stale CONFLICTING #1084 as superseded — documented that `merge=union` is local-only so GitHub log-PR conflicts are structural; **anti-noise hold continued** — drain verdict deferred to the 13:00 mid-day check, binding constraint remains implementer/merge throughput #909/#1060; founder inbox + proposal queue empty; GSC #910 still the binding KPI blocker)*
+
+---
 
 ---
 
@@ -908,6 +1005,8 @@ Volume up ~24% week-over-week (41→51 users) with organic holding at ~65% — t
 
 ---
 
+---
+
 ## 2026-06-12 (Friday) — Evening Review (19:00 UTC)
 
 ### State at start (metrics refreshed 2026-06-12 03:09 UTC)
@@ -944,6 +1043,8 @@ The week's story is **delivery-side, not ideation-side**: traffic is at a monthl
 4. **SEO Agent** — triage any fresh `seo-proposal` from its next run; proposal queue is currently empty/drained.
 
 *Última revisão: CEO Agent — 2026-06-12 evening (proposal queue fully drained — #1058 → ai-fix; atomic-split sweep clean, all stale issues have PRs in flight; flagged the 9-PR merge backlog as the binding constraint; rode the pulse branch to avoid a 3rd conflicting CEO branch)*
+
+---
 
 ---
 
@@ -999,41 +1100,6 @@ The append-conflict is structural: one monolithic `SIGNATURE_LICKS = {…}` obje
 
 ---
 
-## 2026-06-11 (Thursday) — Scheduled Run (Day 132, deep run)
-
-### State at start (metrics refreshed 2026-06-11 22:32 UTC)
-- **GA4 (7d):** 58 active users / 67 sessions / 123 views — **up from ~41/wk** the prior week (first real lift after a flat fortnight). **Organic Search = 69% (46/67)** — moat thesis still holding and now compounding. Engagement 65.7%, avg session 86s.
-- **Top pages:** `/` (29), `/drummers` (11), `/drummer/2` (7), `/quiz` (7), `/drummer/32` Greiner (5), `/drummer/34` Koller (5), `/drummer/53` Garstka (5), `/drummer/7` Casagrande (4), `/articles/whats-in-mike-portnoys-kit` (3). The exact profiles the lick batches target (Greiner/Koller/Garstka/Casagrande) are now all top-10 organic — validates the lick-cluster doubling-down strategy.
-- **GSC: STILL blind** (`GSC_SITE` missing) — #910 unmoved. #1 KPI unmeasurable. Held (escalated ×3+, no re-spam).
-- **Shipped since 06-08** (per git log): #1010 (HowTo/VideoObject JSON-LD on lick pages), #1011 (Garstka + Raatikainen, 6 licks), #1019 (master FAQ generator → `/public/llms/faq.md`), #1020 (gear-guide generator → `/public/llms/gear-guide.md`), #1021/#1022 (LLM markdown surface: sitemap + refreshed llms.txt). The `/public/llms/` endpoint (flagged empty at launch) is now populating — concrete LLM-citation moat progress.
-- **Prod healthy:** metalforge.io 200, sitemap 200, Joey "Eyeless" lick 200.
-- Founder inbox: **empty.** Open `seo-proposal`: **#1042** (triaged below).
-
-### 🎯 PRIMARY ACTION — triaged SEO Agent proposal #1042 (`/licks` index hub) → APPROVED to `ai-fix`
-The SEO Agent's 2nd proposal: a top-level **`/licks` index hub** aggregating every signature lick into one filterable, schema-marked landing page — the missing sibling in the hub family (`/techniques`, `/lists`, `/vs`, `/brands`, `/guides`, `/tools` all have a top-level root; licks does not).
-
-**Decision: APPROVED, promoted as-is (no split).** Score ~7⭐ (Curto ⭐⭐ / Médio ⭐⭐⭐ / Longo ⭐⭐).
-- **Médio ⭐⭐⭐ is the thesis:** distributes PageRank *into* the one surface proven to rank (lick pages top-5 organic 5+ days), captures the head term "metal drum licks" we currently have no page for, and **auto-grows** as #1012/#1013/#1014 land — zero marginal work.
-- **Verified genuine before approving** (Guardrail: no duplicate issues): no `LicksIndexPage`/`isLicksIndexPage` in code (only per-drummer `isLicksHubPage` exists); `/licks` 200 on prod is the SPA catch-all — **not in the sitemap** (`grep metalforge.io/licks< = 0`); `api/sitemap.js` has `/lists`+`/techniques` roots but no `/licks`. Real gap.
-- **Atomic:** one route + one component + one sitemap line + one CollectionPage/ItemList JSON-LD block = one PR. No split needed (unlike #1008). Quality gates preserved in the issue.
-
-### Checklist — everything else held, on-protocol
-- **Atomic-split sweep:** `ai-fix` queue audited. #1012/#1013/#1014 (lick batches, opened 06-09, ~2d, active comments = in-progress) — atomic, not swept. **#1006** ("Drummers-using-this-gear component", split 2/3 of #874) is 4d old + `ceo-aggressive` → **trips the sweep trigger, but it is already atomic** (one component, one PR, clean dep on #995). Splitting an atomic issue = noise; the real constraint is consumer throughput + the unbuilt #995 gear-index dep, not granularity. **Held, not split** — correct application of the rule (procedure only mandates splitting *non*-atomic issues). #1007 (split 3/3) likewise atomic. #984 (gate) last-mile is founder-blocked on #987.
-- **GSC-gap escalation:** still impossible — #910 blind. The instant GSC lands, this dormant quota item activates (file content escalations off real query/CTR data).
-- **Founder ideas:** inbox empty — nothing to convert.
-- **Did NOT** re-spam #909/#910/#987; **did NOT** touch the 4 dormant social blockers (#525/#526/#528/#529).
-
-### Portfolio read
-The flat-traffic plateau **broke this week** (41→58 users, organic 64%→69%) and the lift concentrates exactly where we invested: the GA4 top-10 now includes Greiner/Koller/Garstka/Casagrande — the profiles the lick batches target. The medium-term SEO-compound rebalance is producing measured (GA4) returns even while GSC stays blind. Approving #1042 puts a head-term hub on top of the proven cluster — the right next compounding move. LLM-citation surface (`/public/llms/*.md`) also materially advanced this week (#1019-1022).
-
-### Next Run (13:00 mid-day pulse)
-1. **Confirm #1042 moving** — has the Watcher/Ralph opened a PR on the `/licks` hub?
-2. **Lick batches #1012/#1013/#1014** — confirm progress; these populate the #1042 index for free.
-3. **#910 GSC** — the instant it lands, file the first real GSC-gap content escalations (dormant since launch).
-4. **#987** — if Ricardo wired the gate, run the #984 acceptance test (dead-ID PR must go red); else hold.
-
-*Última revisão: CEO Agent — 2026-06-11 deep run (traffic plateau broke: 41→58 users / organic 69%, concentrated in the lick-target profiles; APPROVED `/licks` index hub #1042 → `ai-fix`, verified-genuine + atomic, no split; #1006 trips sweep trigger but is already atomic → held; GSC #910 still the binding KPI blocker)*
-
 ---
 
 ## 2026-06-12 (Friday) — Deep Run (07:00 UTC)
@@ -1070,6 +1136,8 @@ Offense (compounding lick surfaces) is over-supplied relative to the line's merg
 
 ---
 
+---
+
 ## 2026-06-12 (Friday) — 07:38 deep-run re-fire + Weekly Summary (consolidated onto this branch — NOT a 4th CEO PR)
 
 The 07:00 deep run (this branch / #1061) already diagnosed the bottleneck and took the right actions. This re-fire adds only what's genuinely new, **deliberately consolidated onto #1061's branch rather than opening another CEO PR** — the open-PR pile is the very problem; a 4th CEO housekeeping PR would deepen it.
@@ -1093,6 +1161,8 @@ The 07:00 deep run (this branch / #1061) already diagnosed the bottleneck and to
 4. **#910 GSC** — file the first real GSC-gap escalations the instant it lands.
 
 *Última revisão: CEO Agent — 2026-06-12 Friday re-fire (approved the one pending proposal #1062 SearchAction → ai-fix; atomic-split sweep found nothing stalled-for-atomicity — all stale issues are merge-pile-blocked; logged the weekly summary: traffic 41→51, organic 65%, merge throughput is the week's one red flag; consolidated onto #1061's branch to avoid deepening the PR pile)*
+
+---
 
 ---
 
@@ -1141,6 +1211,8 @@ These four touch only `.agents/seo-plan.md` (the SEO Agent's working doc) and co
 
 ---
 
+---
+
 ## 2026-06-12 (Friday) — Mid-day Pulse (unblock + sequence)
 
 Quick pulse run. State at pulse: metrics fresh (11:14 UTC — 52 active users, organic search still the dominant channel at 41/60 sessions); **0 open PRs** (the morning's 9-PR backlog was hand-merged in the evening run, #1067 last at 08:50); all `seo-proposal` issues already carry `ai-fix` (nothing un-triaged); founder-ideas inbox empty.
@@ -1164,6 +1236,8 @@ The two stale (>3d) `ai-fix` issues — #1007 and #984 (pre-merge YouTube gate) 
 2. #910 GSC remains the #1 KPI blocker — file real gap escalations the instant `GSC_SITE` lands.
 
 *Última revisão: CEO Agent — 2026-06-12 mid-day pulse (unblocked #1007 — deps #1005/#1006 confirmed merged; sequenced #1056 ahead of lick batches #1047–1050; 0 open PRs, queue triaged; GSC still blind)*
+
+---
 
 ---
 
@@ -1196,6 +1270,8 @@ State at start: metrics fresh (14:01 UTC — 52 active users / 60 sessions / 120
 
 ---
 
+---
+
 ## 2026-06-12 (Friday) — Late Run (triage #1072 sitemap-lastmod)
 
 State at start (16:56 UTC): metrics fresh — 52 active users / 60 sessions / 120 views, **Organic Search 41/60 ≈ 68%** (moat thesis holding a 3rd straight week); top pages `/`, `/drummers`, `/quiz`. **0 open PRs** (14:00 run merged #1070; nothing new opened since → the binding constraint remains the *implementer/consumer* #909, not the queue). Founder inbox empty. GSC still blind (#910). The SEO Agent logged one fresh proposal since the 14:00 run: **#1072**.
@@ -1220,6 +1296,8 @@ State at start (16:56 UTC): metrics fresh — 52 active users / 60 sessions / 12
 4. **#910 GSC** — file the first real GSC-gap escalations the instant `GSC_SITE` lands.
 
 *Última revisão: CEO Agent — 2026-06-12 late run (APPROVED the one fresh proposal #1072 sitemap-lastmod repair → ai-fix, premise self-verified at api/sitemap.js:408/490 + albumArticles dateModified; queue fully triaged, 0 open PRs; named the standing constraint — throughput is implementer-bound #909/#1060, not orchestration-bound — and held WIP rather than inflating the backlog; GSC #910 still the binding KPI blocker)*
+
+---
 
 ---
 
@@ -1255,6 +1333,8 @@ Today actually shipped a lot (#874 internal-linking complete, 4 lick batches, Sh
 4. **#910 GSC** — file the first real GSC-gap escalations the instant `GSC_SITE` lands.
 
 *Última revisão: CEO Agent — 2026-06-12 19:00 evening run (APPROVED the one fresh proposal #1075 BreadcrumbList-on-articles → ai-fix, premise self-verified at App.js:2165 vs. 4336/8898/12272/12541; merged CLEAN run-log PR #1076; reviewed a strong shipping day — #874 internal-linking initiative complete + 4 lick batches; softened the "no consumer" constraint — backlog IS draining, real levers are #1056 + #1060; 0 open PRs, queue fully triaged; GSC #910 still the binding KPI blocker)*
+
+---
 
 ---
 
@@ -1296,6 +1376,8 @@ This is the day's 5th CEO touch (mid-day, 14:00, late, 19:00, late-evening). Pat
 
 ---
 
+---
+
 ## 2026-06-12 (Friday) — Late-Night Touch (anti-noise hold)
 
 ### State at start (metrics 23:32 UTC)
@@ -1322,6 +1404,8 @@ This is the day's 5th CEO touch (mid-day, 14:00, late, 19:00, late-evening). Pat
 5. **#910 GSC** — file the first real GSC-gap escalations the instant `GSC_SITE` lands.
 
 *Última revisão: CEO Agent — 2026-06-12 late-night touch (merged CLEAN log-only PR #1081 → PR queue 0; no new issues — held WIP discipline, mirroring the SEO Agent's anti-noise hold into a saturated implementer-bound backlog; founder inbox + proposal queue both empty/API-verified; GSC #910 still the binding KPI blocker)*
+
+---
 
 ---
 
@@ -1370,6 +1454,8 @@ This is the day's 5th CEO touch (mid-day, 14:00, late, 19:00, late-evening). Pat
 
 ---
 
+---
+
 ## 2026-06-13 (Saturday) — 13:00 Mid-Day Pulse (drain-rate escalation — root cause found)
 
 ### State at start (metrics 06-13 10:45 UTC refresh)
@@ -1409,6 +1495,8 @@ The 07:00 run pre-committed: *"if implementation PRs are still zero by mid-day, 
 
 ---
 
+---
+
 ## 2026-06-13 (Saturday) — 13:31 Mid-Day Re-Trigger (drain RESUMED — merged first implementation PR since #1070)
 
 ### Context
@@ -1440,6 +1528,8 @@ Queue now **18-deep** `ai-fix`, all triaged, draining ~1 PR/active-session via m
 4. **#910 GSC** — file the first real GSC-gap escalations the instant `GSC_SITE` lands.
 
 *Última revisão: CEO Agent — 2026-06-13 13:31 mid-day re-trigger (drain RESUMED — merged CLEAN implementation PR #1094 = #1042 /licks index hub, diff-verified sitemap+canonical+ItemList/Breadcrumb schema, first impl PR since #1070 ~23h prior → #1042 closed, queue 0 open PRs / 18 ai-fix; this validates #909 option A — manual/local Ralph is draining on a Saturday, no re-spam; anti-noise hold continued; founder inbox + proposal queue empty; GSC #910 still the binding KPI blocker)*
+
+---
 
 ---
 
@@ -1490,6 +1580,8 @@ Queue now **18-deep** `ai-fix`, all triaged, draining ~1 PR/active-session via m
 
 ---
 
+---
+
 ## 2026-06-13 (Saturday) — 19:29 Evening Re-Trigger (no-op confirmation, anti-noise hold)
 
 ### Context
@@ -1517,6 +1609,8 @@ Re-invocation of the 19:00 evening slot (metrics auto-refreshed 19:29 UTC). The 
 4. **#910 GSC** — file the first real GSC-gap escalations the instant `GSC_SITE` lands.
 
 *Última revisão: CEO Agent — 2026-06-13 19:29 evening re-trigger (no-op confirmation pass — substantive evening run #1096 already shipped; verified 0 open PRs, #909 no Ricardo reply, 0 untriaged proposals, founder inbox empty, GA4 organic 70% flat, GSC #910 still blind; committed 19:29 metrics refresh only; anti-noise hold held, no re-spam, no net-new WIP)*
+
+---
 
 ---
 
@@ -1554,6 +1648,8 @@ Late re-invocation (metrics auto-refreshed 22:21 UTC), ~3h after the 19:29 confi
 
 ---
 
+---
+
 ## 2026-06-13 (Saturday) — 23:26 Late Re-Trigger (no-op confirmation, anti-noise hold)
 
 ### Context
@@ -1585,6 +1681,8 @@ Late re-invocation (metrics auto-refreshed 23:26 UTC), ~1h after the 22:21 drain
 
 ---
 
+---
+
 ## 2026-06-14 (Sunday) — 01:49 Early Re-Trigger (merged 1 CLEAN log PR, anti-noise hold)
 
 ### Context
@@ -1611,6 +1709,8 @@ Off-schedule early-Sunday re-invocation (metrics auto-refreshed 01:49 UTC), ~2.5
 4. **#910 GSC** — file the first real GSC-gap escalations the instant `GSC_SITE` lands.
 
 *Última revisão: CEO Agent — 2026-06-14 01:49 early re-trigger (merged 1 CLEAN log PR #1105 → PR queue 0; ai-fix backlog 17 unchanged, still >12 threshold → anti-noise hold continues; #909 no Ricardo reply/no re-spam, proposals + founder inbox empty, GA4 organic ~70% in-band, GSC #910 still blind; committed 01:49 metrics refresh)*
+
+---
 
 ---
 
@@ -1649,6 +1749,8 @@ PR #1120 modularized the licks data into `packages/frontend/data/licks/<slug>.js
 4. **#909/#1060** — no re-spam; surface again only if drain demonstrably stalls or Ricardo replies on the A/B implementer decision / auto-merge.
 
 *Última revisão: CEO Agent — 2026-06-16 mid-day pulse (UNBLOCK run: #1056 modularization obsoleted 2 in-flight lick PRs → closed all 3 unmergeable PRs #1111/#1114/#1115, PR queue 3→0; re-armed #1049/#1050 with the new-file-op recipe + live-YouTube-gate reminder, both stay ai-fix; ai-fix backlog 9 (<12 threshold) → held net-new filing this pulse slot, flagged next deep run to resume quota; GA4 organic 79% — strongest organic share yet; founder inbox + proposal queue empty; GSC #910 still blind, #909 no re-spam; committed 11:44 metrics refresh)*
+
+---
 
 ---
 

@@ -23591,9 +23591,46 @@ function AppContent() {
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
+      } else if (isDrummersPage()) {
+        // Drummers hub page (Issue #497, nav fix #1463) - /drummers
+        setShowDrummersPage(true);
+        setShowToolsHub(false);
+        setShowGearIndex(false);
+        setShowGearCategory(false);
+        setGearCategory(null);
+        setGearCategoryData(null);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowList(false);
+        setListSlug(null);
+        setShowSpotlights(false);
+        setShowTechniquesIndex(false);
+        setShowTechniqueDetail(false);
+        setTechniqueSlug(null);
+        setShowNewsPage(false);
+        setShowGearNewsPage(false);
+        setShowGearStats(false);
+        setShowBpmTap(false);
+        setShowBpmRange(false);
+        setShowBirthdayCalendar(false);
+        setShowGearComparison(false);
+        setShowGearComparisonsIndex(false);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
       } else if (isGearIndexPage()) {
         // Gear index page (Issue #339)
         setShowGearIndex(true);
+        setShowDrummersPage(false);
+        setShowToolsHub(false);
         setShowGearCategory(false);
         setGearCategory(null);
         setGearCategoryData(null);
@@ -24526,6 +24563,11 @@ function AppContent() {
       } else if (isToolsHubPage()) {
         // Tools Hub page (Issue #729) - /tools
         setShowToolsHub(true);
+        setShowDrummersPage(false);
+        setShowGearIndex(false);
+        setShowGearCategory(false);
+        setGearCategory(null);
+        setGearCategoryData(null);
         setShowGearComparisonTool(false);
         setShowGearSearch(false);
         setShowGearBrand(false);

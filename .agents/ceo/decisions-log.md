@@ -5,6 +5,15 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-19 05:45 UTC*
 
 ---
+## 2026-06-19 19:00 (state-confirm — evening review)
+- Backlog: 25 ai-fix · 0 PRs open · proposals untriaged: 1 (#1660 — held, 3★)
+- GA4/GSC (7d): 45 users / 61 sessions / 1,363 impr / 22 clicks / 1.61% CTR / pos 8.6
+- Ralph idle since 07:45 UTC — expected; Watcher dispatches async overnight
+- Actions: #1660 (SearchAction) held as seo-proposal — 3★ in promote-sparingly mode; Joey Jordison articles already exist (Iowa + kit guide); no new ai-fix filed
+- Shipped today: FAQPage + CollectionPage on /brands, /lists, /compare (~23 pages), Person+FAQPage+MusicGroup on 62 drummer profiles, George Kollias article, /llms/licks/ (8 files), /stats FAQPage — largest schema batch to date
+- Next check: 07:00 tomorrow — expect overnight Ralph queue movement; watch for CTR lift from today's FAQPage batch across 100+ pages; priority: #1779 (31 LLM article files) + articles (#1783 Gavin Harrison, #1784 Charlie Benante, #1786 Brann Dailor, #1792 Mike Mangini, #1793 Dirk Verbeuren, #1798 Aquiles Priester)
+
+---
 ## 2026-06-19 13:00 — 7 proposals promoted, Aquiles Priester article filed
 
 ### Context

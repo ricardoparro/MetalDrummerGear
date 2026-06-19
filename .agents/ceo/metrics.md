@@ -1,6 +1,7 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-19 07:53 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-19 08:45 UTC*
+*CEO evening check 2026-06-19 19:00 UTC — metrics unchanged since 08:45; next refresh at 07:00 tomorrow*
 *Lookback: last 7 days*
 
 ---

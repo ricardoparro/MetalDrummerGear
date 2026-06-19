@@ -534,6 +534,9 @@ export default function handler(req, res) {
     { loc: '/llms/stats.md', priority: '0.6', changefreq: 'monthly' },
     // Issue #1401: gear brand insights LLM citation surface — named drummer citations with % data.
     { loc: '/llms/gear-insights.md', priority: '0.6', changefreq: 'monthly' },
+    // Issue #1586: gear-news + endorsement-news LLM citation surfaces (temporal/news dimension).
+    { loc: '/llms/gear-news.md', priority: '0.6', changefreq: 'daily' },
+    { loc: '/llms/endorsement-news.md', priority: '0.6', changefreq: 'weekly' },
     // Issue #1416: endorsement hub LLM citation surface — cross-brand index of 15 drummers.
     { loc: '/llms/endorsements.md', priority: '0.6', changefreq: 'monthly' },
     // Issue #1435: per-drummer endorsement detail pages — one file per endorsement-tracked drummer.

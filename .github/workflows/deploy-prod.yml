@@ -1,0 +1,53 @@
+name: Deploy to Production (batched)
+
+# Production deploys are now BATCHED, not per-merge. `vercel.json` sets
+# git.deploymentEnabled.main = false, so pushing to `main` no longer triggers a
+# Vercel production build. Instead this workflow fires ONE prod deploy of the
+# current main HEAD — once after the overnight Ralph fleet has drained the
+# queue, plus on-demand via workflow_dispatch (e.g. to ship a hotfix now).
+#
+# This removes the 55+ builds/day storm that was saturating Vercel's build queue
+# and slowing the merger's per-PR preview rebuilds.
+#
+# ⚠️ Requires the `VERCEL_DEPLOY_HOOK` secret — a Vercel Deploy Hook URL for the
+# production (main) branch: Vercel → Project → Settings → Git → Deploy Hooks.
+# Until that secret exists, production will NOT update (the site stays up on its
+# last deploy); this workflow fails loudly so it's obvious.
+
+on:
+  workflow_dispatch:
+  schedule:
+    # ~after the night fleet finishes draining (fleet launches 23:00 UTC,
+    # 340-min cap → ends ~04:40 UTC). 06:00 UTC = 07:00 Lisbon (summer).
+    - cron: '0 6 * * *'
+
+# Never fire two prod deploys at once.
+concurrency:
+  group: deploy-prod
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Trigger Vercel production deploy of current main
+        env:
+          DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
+        run: |
+          if [ -z "$DEPLOY_HOOK" ]; then
+            echo "::error::VERCEL_DEPLOY_HOOK secret is not set. Create a Deploy Hook"
+            echo "::error::in Vercel (Settings → Git → Deploy Hooks, branch=main) and add it"
+            echo "::error::as the VERCEL_DEPLOY_HOOK repo secret. Production cannot deploy without it."
+            exit 1
+          fi
+          echo "🚀 Triggering batched production deploy of main…"
+          code=$(curl -s -o /tmp/resp.json -w '%{http_code}' -X POST "$DEPLOY_HOOK")
+          echo "Vercel responded HTTP $code"
+          cat /tmp/resp.json 2>/dev/null || true
+          echo
+          if [ "$code" != "200" ] && [ "$code" != "201" ]; then
+            echo "::error::Deploy Hook returned $code — production deploy was not triggered."
+            exit 1
+          fi
+          echo "✅ Production deploy triggered. Track it in the Vercel dashboard."

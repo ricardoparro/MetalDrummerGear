@@ -1,5 +1,10 @@
 {
   "trailingSlash": false,
+  "git": {
+    "deploymentEnabled": {
+      "main": false
+    }
+  },
   "crons": [
     {
       "path": "/api/cron/fetch-news",

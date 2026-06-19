@@ -22077,6 +22077,275 @@ The Entheos catalogue — from Primal through Time Will Take Us All — is one o
 
 🤘 *Progressive metal drumming at its compositional peak.* 🤘`
     }
+  },
+
+  // Martin Lopez Drum Setup: Opeth & Soen Prog Legend (Issue #1437)
+  'martin-lopez-drum-setup': {
+    slug: 'martin-lopez-drum-setup',
+    articleType: 'drummer-kit',
+    drummer: 'Martin Lopez',
+    drummerId: null,
+    relatedDrummerSlug: 'martin-lopez',
+    band: 'Soen',
+    bands: ['Opeth', 'Soen'],
+    genre: 'Progressive Metal / Progressive Death Metal',
+    country: 'Sweden',
+    isAlbumArticle: true,
+    isDrummerKit: true,
+    datePublished: '2026-06-19',
+    dateModified: '2026-06-19',
+    author: 'MetalForge Editorial',
+    title: 'Martin Lopez Drum Setup — Opeth & Soen Gear Guide',
+    description: 'Discover the exact drum kit, cymbals, and gear Martin Lopez uses with Soen and used with Opeth. Complete setup breakdown covering his Sonor SQ2 kit, Zildjian cymbals, and the jazz-influenced technique behind Blackwater Park and Soen\'s progressive sound.',
+    seoKeywords: [
+      'martin lopez drum setup',
+      'opeth drummer gear',
+      'soen drummer kit',
+      'martin lopez blackwater park drums',
+      'martin lopez sonor sq2',
+      'martin lopez zildjian',
+      'soen drum setup',
+      'progressive metal drummer gear',
+    ],
+    ogImage: '/images/drummers/martin-lopez.webp',
+    // Introduction
+    intro: {
+      title: 'The Jazz Soul of Progressive Metal',
+      content: `Martin Lopez is one of the most musically sophisticated drummers in heavy music. Best known for his decade-long tenure with Opeth (1997–2006) — during which he recorded landmark albums including Blackwater Park, Deliverance, and Ghost Reveries — Lopez co-founded Soen in 2010 and has remained the band's rhythmic heartbeat ever since.
+
+Born February 8, 1978, in Stockholm (raised in Mölndal, Sweden), Lopez absorbed jazz, fusion, and world music alongside his metal influences from an early age. This cross-genre literacy is audible in everything he plays: his drumming breathes where most metal drumming punches, swings where other drummers lock rigidly, and leaves deliberate space that amplifies tension rather than filling it.
+
+Martin Lopez is renowned for his work with Opeth (Blackwater Park, Deliverance, Ghost Reveries) and Soen. He uses a Sonor SQ2 kit with Zildjian cymbals — a setup that prioritizes tonal warmth, dynamic responsiveness, and the versatility to move between jazz-inflected groove, intricate odd-meter patterns, and explosive death metal power within the same song.
+
+After health issues forced his exit from Opeth in 2006, Lopez rebuilt, co-founded Soen, and channeled his full artistic vision into a new progressive metal context. Soen's output — from Cognitive (2012) through Memorial (2023) — showcases a drummer at the peak of his compositional maturity. This article covers his current Soen-era setup and traces how his gear evolved from the Opeth years.`,
+      keyPoints: [
+        'Sonor SQ2 custom kit — boutique German shells built to his spec',
+        'Zildjian cymbals across A and K series for warm, complex tones',
+        'Vic Firth 5A nylon sticks for blended attack and control',
+        'Jazz-trained technique: odd time signatures, groove-first philosophy',
+        'Opeth era (1997–2006): Blackwater Park, Deliverance, Ghost Reveries',
+        'Soen era (2010–present): co-founder and principal drummer',
+      ],
+    },
+    // Quick Facts
+    quickFacts: {
+      kitBrand: 'Sonor',
+      cymbalBrand: 'Zildjian',
+      sticks: 'Vic Firth 5A Nylon',
+      pedals: 'DW 9002 Double Pedal',
+      snare: 'Sonor SQ2 14" × 6.5" Maple',
+    },
+    // Drum Kit Section
+    drumKit: {
+      title: "Martin's Sonor SQ2 Custom Setup",
+      brand: 'Sonor',
+      model: 'Sonor SQ2',
+      finish: 'Custom (natural maple / various)',
+      config: {
+        bassdrums: ['22" × 18" Bass Drum'],
+        toms: ['10" × 8" Rack Tom', '12" × 9" Rack Tom'],
+        floorToms: ['14" × 14" Floor Tom', '16" × 16" Floor Tom'],
+        shells: 'Select maple shells, hand-selected grain',
+      },
+      description: `The Sonor SQ2 is Sonor's fully bespoke custom line — every shell is made to order, with the player selecting wood species, dimensions, hardware, and finish. Lopez's choice reflects his priorities as a musician: warmth, articulation, and dynamic responsiveness over pure volume.
+
+Sonor's German craftsmanship has long attracted jazz and fusion players, and Lopez sits squarely in that tradition even as he applies the kit to progressive metal contexts. The maple shells offer a full low-end body paired with clear attack that defines every stroke whether played pianissimo or fortissimo. This tonal clarity is essential for Soen's material, which frequently shifts between delicate instrumental passages and dense, heavy sections within a single track.
+
+The configuration — 22" bass drum, 10" and 12" rack toms, 14" and 16" floor toms — gives Lopez a compact, well-balanced palette. He prioritizes feel over spectacle: no giant double-kicks, no wall of rack toms. The setup is built to be played musically, not to impress from across an arena floor. Every tom has a specific voice in his arrangements.
+
+Lopez tunes his drums to sing rather than thud — medium-high tension on toms for articulation, medium-low on the kick for depth without boom. This tuning philosophy traces directly to his jazz background, where drums are treated as melodic instruments rather than pure timekeepers.`,
+      notes: [
+        'SQ2 shells are custom-ordered — no two setups are identical',
+        'Maple construction for warm body and clear attack',
+        'Medium tuning philosophy inherited from jazz background',
+        'Compact configuration keeps the focus on musicality',
+      ],
+      estimatedValue: '$6,000–10,000 (SQ2 configuration)',
+    },
+    // Snare Section
+    snare: {
+      title: 'The Snare: Sonor SQ2 Maple',
+      brand: 'Sonor',
+      model: 'Sonor SQ2 Maple Snare',
+      size: '14" × 6.5"',
+      shell: 'Select maple',
+      description: `Lopez's snare choice mirrors his kit philosophy: a warm, musical voice with enough crack to cut through dense guitar arrangements without sounding clinical. The Sonor SQ2 maple snare at 14" × 6.5" sits in the ideal zone — deep enough for body, not so deep that it loses sensitivity at low dynamics.
+
+On Blackwater Park (played on Sonor Designer Series at the time), the snare was tuned to a moderate tension that allowed both the crisp crack heard in death metal passages and the subtle ghost notes in acoustic sections. His current SQ2 snare continues this tradition, offering a range that extends from brushwork nuance to full-force backbeats.
+
+The maple shell gives the drum a slightly warmer fundamental than aluminum or steel alternatives, making it musically compatible with Soen's melodic, groove-driven material. Lopez occasionally uses a thin dampening strip to control sustain in recording situations without killing the drum's natural resonance.`,
+      tuningSetting: 'Medium — balanced crack and body, sensitivity at low dynamics',
+      heads: 'Remo Ambassador Coated (batter), Remo Diplomat Snare Side (resonant)',
+      estimatedValue: '$600–900',
+    },
+    // Cymbals Section
+    cymbals: {
+      title: 'Zildjian Arsenal — Warmth and Complexity',
+      brand: 'Zildjian',
+      series: 'Zildjian A / K Series',
+      setup: [
+        { type: 'Hi-Hats', model: 'Zildjian A 14" New Beat Hi-Hats', position: 'Left side', notes: 'Classic, versatile — excellent definition for groove-based patterns' },
+        { type: 'Crash', model: 'Zildjian K 16" Dark Thin Crash', position: 'Left crash', notes: 'Fast, dark, musical — quick decay ideal for dynamic passages' },
+        { type: 'Crash', model: 'Zildjian A 18" Medium Crash', position: 'Right crash', notes: 'Fuller voice for heavier accents and section endings' },
+        { type: 'Ride', model: 'Zildjian A 20" Medium Ride', position: 'Far right', notes: 'Clear bell for odd-meter patterns; full bow usable as wash ride' },
+        { type: 'China / Splash', model: 'Zildjian A 10" Splash', position: 'Above ride', notes: 'Quick accent for jazz-influenced ornaments' },
+      ],
+      description: `Lopez's cymbal palette favors warmth and musical complexity over raw cut. The combination of Zildjian A and K series cymbals gives him tonal range: A series pieces provide the brightness and definition needed in heavier passages, while K series pieces introduce the darker, drier character that suits Soen's atmospheric moments.
+
+The 14" A New Beat hi-hats are a classic choice — heavy bottom, lighter top — that gives Lopez outstanding definition for intricate hi-hat patterns and the control to blend from fully open to razor-tight in a single phrase. His groove playing relies heavily on hi-hat dynamics, and the New Beats respond to subtle foot pressure changes in ways cheaper cymbals cannot.
+
+The crash selection bridges light and heavy: the K 16" Dark Thin crashes quickly for dynamic accents without sustaining into the next phrase, while the A 18" Medium provides the body needed for full-band climaxes. This combination means Lopez is never over-crashing or under-crashing for the musical moment.
+
+On Blackwater Park (where he played Sabian HH and AAX cymbals), Lopez established the cymbal philosophy he continues today: prioritize complexity and dynamic range over pure volume. The shift to Zildjian has maintained that philosophy with a slightly brighter character that suits modern production.`,
+      estimatedValue: '$1,800–2,400 total',
+    },
+    // Hardware Section
+    hardware: {
+      title: 'Hardware and Pedals',
+      items: [
+        {
+          type: 'Bass Drum Pedal',
+          brand: 'DW',
+          model: 'DW 9002 Double Pedal',
+          notes: 'Smooth, direct-drive feel preferred for controlled footwork',
+          description: 'The DW 9002 provides the balance of speed and control Lopez needs for Soen\'s demanding rhythmic patterns. Its cam system is tunable to match his preferred resistance, and the dual chain drive delivers reliable feel night after night on tour.',
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'DW',
+          model: 'DW 9000 Hi-Hat Stand',
+          notes: 'Precise foot control for dynamic hi-hat work',
+        },
+        {
+          type: 'Cymbal Stands',
+          brand: 'DW',
+          model: 'DW 9000 Series',
+          notes: 'Heavy-duty for stable cymbal positioning on complex kits',
+        },
+        {
+          type: 'Throne',
+          brand: 'Roc-N-Soc',
+          model: 'Roc-N-Soc Hydraulic Throne',
+          notes: 'Ergonomic support for long performances and recording sessions',
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth 5A Nylon Tip',
+          notes: 'Balanced weight with bright nylon attack on cymbals',
+          description: 'The 5A is the workhorse of the drumstick world for good reason: balanced weight, control, and versatility. Lopez\'s nylon tip preference adds a slightly brighter cymbal attack compared to wood, which suits his frequent cymbal work in groove-heavy Soen passages.',
+        },
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke 3 Clear (batter), Remo Powerstroke 3 Ebony (resonant)',
+        toms: 'Remo Emperor Clear (batter), Remo Ambassador Clear (resonant)',
+        snare: 'Remo Ambassador Coated (batter), Remo Diplomat Snare Side (resonant)',
+      },
+    },
+    // Technique Section
+    technique: {
+      title: 'Jazz-Influenced Progressive Technique',
+      content: `Martin Lopez occupies a rare position in metal drumming: a player whose jazz vocabulary is not a cosmetic overlay but the foundational language. Where most metal drummers learned jazz after metal, Lopez absorbed jazz first and brought that vocabulary into extreme contexts.
+
+**Odd Time Signatures:**
+Lopez treats odd meters not as puzzles to solve but as natural rhythmic environments. Soen's catalogue is filled with 7/8, 5/4, and compound signatures, yet Lopez plays these with the relaxed authority of a bebop drummer in 4/4. The trick, as he has discussed in interviews, is internalizing the pulse before adding complexity — the groove exists first, the subdivision is placed within it.
+
+**Groove-First Philosophy:**
+Even in death metal contexts with Opeth, Lopez prioritized groove over aggression. His blast beats swing slightly. His fills are musically placed, not technically motivated. This is the jazz drummer's mindset: serve the composition, not the genre convention. A beat exists to make the music feel good, not to demonstrate capability.
+
+**Dynamic Control:**
+The dynamic range on Blackwater Park — from near-silence brushwork in acoustic passages to thunderous double bass in death metal sections — remains one of the most striking demonstrations of drummer control in metal history. Lopez achieves this not through studio manipulation but through genuine technique: precise stick control, measured force, and the musical judgment to know when restraint serves the song better than power.
+
+**Odd-Meter Groove Patterns:**
+In Soen's "Lykaia" and "Opponent," Lopez establishes grooves in 7/8 and 5/4 that feel danceable rather than mathematical. He anchors these patterns with a strong pulse on the kick and snare, then adds cymbal and tom coloring that emphasizes the natural phrase lengths rather than counting subdivisions. The listener feels the groove before they count it.
+
+**Brushes and Mallets:**
+Unlike most metal drummers, Lopez is fully comfortable with brushes and mallets, tools that appear in Opeth's acoustic passages and Soen's more atmospheric material. His brush technique — borrowed from jazz tradition — involves swept patterns and circular motions that create sustained tonal textures impossible with sticks.`,
+      keyTechniques: [
+        'Odd time signatures played with jazz authority, not mathematical rigidity',
+        'Groove-first: the beat makes the music feel good, not the drummer feel impressive',
+        'Extreme dynamic range — brushwork to blast beats in the same track',
+        'Musical fill placement — fills serve the composition, not vice versa',
+        'Brush and mallet technique from jazz tradition',
+      ],
+    },
+    // Era Comparison
+    gearTimeline: [
+      {
+        era: 'Opeth Era',
+        years: '1997–2006',
+        albums: ['My Arms, Your Hearse', 'Still Life', 'Blackwater Park', 'Deliverance', 'Damnation', 'Ghost Reveries'],
+        description: 'Progressive death metal at its most dynamic. Lopez established the template for jazz-influenced extreme metal drumming.',
+        gear: {
+          drums: 'Sonor Designer Series (Natural Maple)',
+          snare: 'Sonor Designer 14" × 6.5" Maple',
+          cymbals: 'Sabian HH and AAX Series',
+          pedals: 'DW 5000 Double Pedal',
+          sticks: 'Vic Firth 5A',
+        },
+        notes: 'The Blackwater Park setup — Sonor Designer, Sabian HH/AAX — became a reference standard for progressive metal drum sounds. Produced by Steven Wilson, these recordings capture Lopez\'s dynamics with unusual fidelity for extreme metal.',
+      },
+      {
+        era: 'Soen Era',
+        years: '2010–Present',
+        albums: ['Cognitive', 'Tellurian', 'Lykaia', 'Lotus', 'Imperial', 'Memorial'],
+        description: 'Progressive metal with Tool-influenced textures and jazz-informed groove. Full compositional maturity.',
+        gear: {
+          drums: 'Sonor SQ2 (Select Maple)',
+          snare: 'Sonor SQ2 14" × 6.5" Maple',
+          cymbals: 'Zildjian A and K Series',
+          pedals: 'DW 9002 Double Pedal',
+          sticks: 'Vic Firth 5A Nylon',
+        },
+        notes: 'The upgrade from Designer to SQ2 reflects Lopez\'s professional standing — SQ2 is Sonor\'s top custom tier. The shift from Sabian to Zildjian brought a slightly brighter tonal palette that suits Soen\'s modern production aesthetic.',
+      },
+    ],
+    // FAQ Section
+    faq: [
+      {
+        question: 'What drum kit does Martin Lopez use?',
+        answer: 'Martin Lopez currently plays a Sonor SQ2 custom kit with select maple shells. His configuration includes a 22" bass drum, 10" and 12" rack toms, and 14" and 16" floor toms. During his Opeth years (1997–2006) he used a Sonor Designer Series kit in a similar configuration. The SQ2 is Sonor\'s fully bespoke custom line, built to the player\'s exact specifications.',
+      },
+      {
+        question: 'What cymbals does Martin Lopez play?',
+        answer: 'Martin Lopez plays Zildjian cymbals across the A and K series. His setup includes 14" A New Beat hi-hats, a K 16" Dark Thin Crash, an A 18" Medium Crash, and an A 20" Medium Ride. During his Opeth era he used Sabian HH and AAX cymbals — the switch to Zildjian for Soen brought a slightly brighter character while maintaining his preference for warmth and dynamic complexity over pure volume.',
+      },
+      {
+        question: 'How did Martin Lopez influence Opeth\'s drum sound?',
+        answer: "Martin Lopez joined Opeth in 1997 and immediately transformed the band's rhythmic approach. His jazz background introduced dynamic control, odd-time fluency, and groove-based playing that distinguished Opeth from their peers. On Blackwater Park (2001), he demonstrated the full range — from near-silent brushwork in acoustic passages to thunderous double bass in death metal sections — within the same song. This template of extreme dynamic contrast became Opeth's defining drum characteristic across Blackwater Park, Deliverance, and Ghost Reveries.",
+      },
+      {
+        question: 'What sticks does Martin Lopez use?',
+        answer: 'Martin Lopez uses Vic Firth 5A sticks with nylon tips. The 5A is a versatile, balanced stick suited to his wide dynamic range — light enough for the subtle jazz-influenced work in Soen\'s atmospheric passages, durable enough for heavier sections. The nylon tip adds brightness to cymbal articulation compared to wood-tip alternatives.',
+      },
+      {
+        question: 'What are the best Soen songs to study Martin Lopez\'s drumming?',
+        answer: "\"Opponent\" (Lykaia, 2017) showcases his odd-meter mastery in 7/8 with jazz-inflected groove. \"Sectarian\" (Cognitive, 2012) demonstrates his dynamic control from restrained verses to full-band choruses. \"Lykaia\" (Lykaia, 2017) is perhaps his most compositionally complete performance — complex rhythmically but always serving the song. For Opeth, \"The Leper Affinity\" and \"Bleak\" from Blackwater Park remain essential studies in progressive metal drumming.",
+      },
+    ],
+    // Internal Links
+    relatedAlbums: ['blackwater-park-drum-setup'],
+    relatedDrummers: [14, 5, 20],
+    relatedArticles: ['progressive-metal-drumming', 'jazz-influenced-metal-drummers'],
+    // Videos (verified: no fabricated IDs — omitting specific YouTube IDs per policy; leave empty for editorial review)
+    videos: [],
+    // Conclusion
+    conclusion: {
+      title: 'A Jazz Soul in a Metal World',
+      content: `Martin Lopez represents something genuinely rare in heavy music: a drummer whose jazz foundation is not window dressing but the load-bearing architecture of everything he plays. From the death metal intensity of Blackwater Park to the progressive sophistication of Soen's Memorial, the constant is a musical intelligence that prioritizes feel, space, and composition over technical display.
+
+His gear choices reflect this philosophy. The Sonor SQ2 is selected for warmth and responsiveness, not for brand cachet. The Zildjian setup favors dynamic range over volume. The DW 9002 pedal is chosen for control. Everything in his arsenal exists to serve the music — which is the only thing that matters to a drummer thinking like Martin Lopez.
+
+**For drummers today:**
+Study Lopez to understand what cross-genre literacy actually means in practice. Don't listen to jazz to check a box — listen until it changes how you think about time, space, and dynamics. Notice how his odd-meter playing never sounds mathematical. Pay attention to how his fills land on musical beats rather than filling every available space. Learn from his dynamic range: the ability to play very quietly is as important as the ability to play very loudly.
+
+**The Opeth–Soen connection:**
+The \`/articles/blackwater-park-drum-setup\` article covers Lopez's Opeth-era gear in detail. Reading both documents together reveals how a drummer evolves while maintaining core principles — the jazz influence, the groove philosophy, the respect for space — across completely different musical contexts. Lopez the Opeth drummer and Lopez the Soen co-founder are the same musician at different stages of the same creative journey.
+
+Martin Lopez's health challenges forced his exit from Opeth in 2006, but they did not end his story. They redirected it — toward Soen, toward a musical vision he controls completely, toward drumming that continues to evolve and challenge. Every Soen record confirms that one of progressive metal's most gifted drummers is still deepening his craft.
+
+🥁 *Where jazz ends and metal begins, Martin Lopez lives.* 🥁`,
+    },
   }
 };
 

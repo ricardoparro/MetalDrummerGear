@@ -20,6 +20,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Sitemap | https://metalforge.io/sitemap.xml | XML sitemap |
 | API - Drummers | https://metalforge.io/api/drummers | JSON API endpoint |
 | API - Quotes | https://metalforge.io/api/quotes | Drummer quotes JSON |
+| Drummer Quotes | https://metalforge.io/llms/quotes.md | 36 attributed quotes from 12 metal drummers on technique, gear, and philosophy (Markdown) |
 | Bands | https://metalforge.io/llms/bands.md | Band & drummer-history reference (Markdown) |
 | Drummer Endorsements | https://metalforge.io/llms/endorsements.md | Official gear endorsements for 15 metal drummers with brand and contract details (Markdown) |
 | Gear by Brand | https://metalforge.io/llms/gear-by-brand.md | Brand→drummer mapping for all gear categories (Markdown) |

@@ -25,6 +25,8 @@ import { GEAR_INDEX } from '../../packages/frontend/data/gearIndex.js';
 import { gearItems } from '../gear/[slug].js';
 // Issue #1451: HowTo JSON-LD + Article schema for /guides/how-to-sound-like-<slug> pages.
 import { SOUND_LIKE_GUIDES, generateGuideSchema } from '../../packages/frontend/data/soundLikeGuides.js';
+// Issue #1475: drummer gear evolution pages SSR meta.
+import { DRUMMER_EVOLUTION } from '../../packages/frontend/data/drummerEvolution.js';
 
 const BASE_URL = 'https://metalforge.io';
 const SITE_NAME = 'MetalForge';
@@ -1403,6 +1405,40 @@ function getMetaForPath(pathname) {
           { name: drummer.name, url: `${BASE_URL}/drummers/${slug}` },
           { name: 'Gear History', url: `${BASE_URL}/drummers/${slug}/gear-history` },
         ],
+      };
+    }
+  }
+
+  // Issue #1475: /drummers/<slug>/evolution — gear evolution history pages (3 drummers)
+  const evolutionMatch = path.match(/^\/drummers\/([^/]+)\/evolution\/?$/);
+  if (evolutionMatch) {
+    const [, slug] = evolutionMatch;
+    const drummer = getDrummerBySlug(slug);
+    const evolution = DRUMMER_EVOLUTION[slug];
+    if (drummer && evolution) {
+      return {
+        title: `${drummer.name} Drum Kit Evolution — Complete Gear History | ${SITE_NAME}`,
+        description: `How ${drummer.name}'s drum setup evolved from ${evolution.eras?.[0]?.year || evolution.eras?.[0]?.startYear || 'early career'} to today. Every kit change across ${drummer.band}'s discography.`,
+        type: 'article',
+        url: `${BASE_URL}/drummers/${slug}/evolution`,
+        articleSchema: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@graph': [
+            {
+              '@type': 'Article',
+              headline: `${drummer.name} Drum Kit Evolution`,
+              author: { '@type': 'Organization', name: 'MetalForge' },
+            },
+            {
+              '@type': 'BreadcrumbList',
+              itemListElement: [
+                { '@type': 'ListItem', position: 1, name: 'Home', item: BASE_URL },
+                { '@type': 'ListItem', position: 2, name: drummer.name, item: `${BASE_URL}/drummers/${slug}` },
+                { '@type': 'ListItem', position: 3, name: 'Gear Evolution', item: `${BASE_URL}/drummers/${slug}/evolution` },
+              ],
+            },
+          ],
+        }),
       };
     }
   }

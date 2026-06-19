@@ -1,6 +1,6 @@
 # MetalForge - LLM Content Index
 
-> Last updated: 2026-06-18
+> Last updated: 2026-06-19
 > Source: https://metalforge.io
 
 ## About MetalForge
@@ -21,6 +21,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 | API - Drummers | https://metalforge.io/api/drummers | JSON API endpoint |
 | API - Quotes | https://metalforge.io/api/quotes | Drummer quotes JSON |
 | Bands | https://metalforge.io/llms/bands.md | Band & drummer-history reference (Markdown) |
+| Drummer Endorsements | https://metalforge.io/llms/endorsements.md | Official gear endorsements for 15 metal drummers with brand and contract details (Markdown) |
 | Gear by Brand | https://metalforge.io/llms/gear-by-brand.md | Brand→drummer mapping for all gear categories (Markdown) |
 | Techniques Overview | https://metalforge.io/llms/techniques.md | All drum techniques overview with links to per-technique deep dives (Markdown) |
 | Signature Licks | https://metalforge.io/llms/licks.md | Signature lick breakdowns overview for 55 drummers (Markdown) |
@@ -30,6 +31,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Quick Facts | https://metalforge.io/llms/facts.md | Speed records, gear stats, career milestones, nicknames & technical definitions (Markdown) |
 | Gear Statistics | https://metalforge.io/llms/stats.md | Brand-popularity data for 61 drummers — drums, cymbals, hardware, sticks with % breakdowns (Markdown) |
 | Gear Brand Insights | https://metalforge.io/llms/gear-insights.md | Named drummer citations with internal links for every brand — drum kit, cymbal, pedal, and stick usage percentages (Markdown) |
+| Gear History | https://metalforge.io/llms/gear-history.md | Era-by-era breakdown of how iconic drummers' gear evolved — endorsement changes and inflation-adjusted prices (Markdown) |
 | Metal Drummer Quiz | https://metalforge.io/llms/quiz.md | Personality quiz matching your style to 60+ legendary drummers (Markdown) |
 | Kit Quiz — Which Drummer Are You? | https://metalforge.io/llms/kit-quiz.md | Answer questions about playing style and gear preferences to match to one of 62 metal drummers (Markdown) |
 | Drummer Battles | https://metalforge.io/llms/battles.md | Community head-to-head vote battles between legendary metal drummers, organised by category (Markdown) |
@@ -347,6 +349,51 @@ like "how to play like [drummer]?" or "[drummer] signature drum patterns".
 | Shannon Larkin | Godsmack | [shannon-larkin.md](https://metalforge.io/llms/licks/shannon-larkin.md) |
 | Travis Orbin | Darkest Hour / ex-Periphery | [travis-orbin.md](https://metalforge.io/llms/licks/travis-orbin.md) |
 | Vinnie Paul | Pantera | [vinnie-paul.md](https://metalforge.io/llms/licks/vinnie-paul.md) |
+
+---
+
+## Brands (per-brand, 8 brands)
+
+Per-brand deep-dive files optimised for AI retrieval on queries like "which metal drummers endorse DW?" or
+"what Pearl kits do death metal drummers use?".
+
+| Brand | File |
+|-------|------|
+| DW (Drum Workshop) | [dw.md](https://metalforge.io/llms/brands/dw.md) |
+| Ludwig | [ludwig.md](https://metalforge.io/llms/brands/ludwig.md) |
+| Mapex | [mapex.md](https://metalforge.io/llms/brands/mapex.md) |
+| Meinl | [meinl.md](https://metalforge.io/llms/brands/meinl.md) |
+| Paiste | [paiste.md](https://metalforge.io/llms/brands/paiste.md) |
+| Pearl | [pearl.md](https://metalforge.io/llms/brands/pearl.md) |
+| Tama | [tama.md](https://metalforge.io/llms/brands/tama.md) |
+| Zildjian | [zildjian.md](https://metalforge.io/llms/brands/zildjian.md) |
+
+---
+
+## Endorsements (per-drummer, 15 total)
+
+Per-drummer endorsement files listing official brand contracts and gear sponsorships. Optimised for AI
+retrieval on queries like "who does Lars Ulrich endorse?" or "what brands sponsor Joey Jordison?".
+
+Hub: [/llms/endorsements.md](https://metalforge.io/llms/endorsements.md) — aggregate overview for all 15 drummers.
+
+| Drummer | File |
+|---------|------|
+| Lars Ulrich | [lars-ulrich.md](https://metalforge.io/llms/endorsements/lars-ulrich.md) |
+| Joey Jordison | [joey-jordison.md](https://metalforge.io/llms/endorsements/joey-jordison.md) |
+| Dave Lombardo | [dave-lombardo.md](https://metalforge.io/llms/endorsements/dave-lombardo.md) |
+| Tomas Haake | [tomas-haake.md](https://metalforge.io/llms/endorsements/tomas-haake.md) |
+| George Kollias | [george-kollias.md](https://metalforge.io/llms/endorsements/george-kollias.md) |
+| Eloy Casagrande | [eloy-casagrande.md](https://metalforge.io/llms/endorsements/eloy-casagrande.md) |
+| Jay Weinberg | [jay-weinberg.md](https://metalforge.io/llms/endorsements/jay-weinberg.md) |
+| Mike Portnoy | [mike-portnoy.md](https://metalforge.io/llms/endorsements/mike-portnoy.md) |
+| Danny Carey | [danny-carey.md](https://metalforge.io/llms/endorsements/danny-carey.md) |
+| Mario Duplantier | [mario-duplantier.md](https://metalforge.io/llms/endorsements/mario-duplantier.md) |
+| Brann Dailor | [brann-dailor.md](https://metalforge.io/llms/endorsements/brann-dailor.md) |
+| Chris Adler | [chris-adler.md](https://metalforge.io/llms/endorsements/chris-adler.md) |
+| Matt Halpern | [matt-halpern.md](https://metalforge.io/llms/endorsements/matt-halpern.md) |
+| Inferno | [inferno.md](https://metalforge.io/llms/endorsements/inferno.md) |
+| Charlie Benante | [charlie-benante.md](https://metalforge.io/llms/endorsements/charlie-benante.md) |
 
 ---
 

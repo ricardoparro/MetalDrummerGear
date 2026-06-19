@@ -791,6 +791,8 @@ export function GuidePage({ theme, onBack, guideSlug, onSelectDrummer }) {
           {guide.licksUrl && (
             <TouchableOpacity
               style={[styles.relatedLink, { borderColor: theme.border }]}
+              accessibilityRole="link"
+              href={guide.licksUrl}
               onPress={() => {
                 if (Platform.OS === 'web' && typeof window !== 'undefined') {
                   window.location.href = guide.licksUrl;
@@ -807,6 +809,8 @@ export function GuidePage({ theme, onBack, guideSlug, onSelectDrummer }) {
             <TouchableOpacity
               key={index}
               style={[styles.relatedLink, { borderColor: theme.border }]}
+              accessibilityRole="link"
+              href={`/articles/${article.slug}`}
               onPress={() => {
                 if (Platform.OS === 'web' && typeof window !== 'undefined') {
                   window.location.href = `/articles/${article.slug}`;

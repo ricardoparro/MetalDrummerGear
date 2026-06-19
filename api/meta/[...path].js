@@ -899,6 +899,131 @@ function getMetaForPath(pathname) {
       image: `${BASE_URL}/images/og/birthdays-preview.png`,
       type: 'website',
       url: `${BASE_URL}/birthdays`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'WebPage',
+        name: 'Metal Drummer Birthday Calendar',
+        description: 'Complete calendar of legendary metal drummer birthdays.',
+        url: `${BASE_URL}/birthdays`,
+        mainEntity: {
+          '@type': 'ItemList',
+          name: 'Metal Drummer Birthdays',
+          description: 'Birthdays of 60+ professional metal drummers',
+          numberOfItems: 61,
+          itemListElement: [
+            {
+              '@type': 'ListItem',
+              position: 1,
+              item: {
+                '@type': 'Person',
+                name: 'Lars Ulrich',
+                birthDate: '1963-12-26',
+                url: `${BASE_URL}/drummers/lars-ulrich`,
+                memberOf: { '@type': 'MusicGroup', name: 'Metallica' },
+              },
+            },
+            {
+              '@type': 'ListItem',
+              position: 2,
+              item: {
+                '@type': 'Person',
+                name: 'Joey Jordison',
+                birthDate: '1975-04-26',
+                url: `${BASE_URL}/drummers/joey-jordison`,
+                memberOf: { '@type': 'MusicGroup', name: 'Slipknot' },
+              },
+            },
+            {
+              '@type': 'ListItem',
+              position: 3,
+              item: {
+                '@type': 'Person',
+                name: 'Dave Lombardo',
+                birthDate: '1965-02-16',
+                url: `${BASE_URL}/drummers/dave-lombardo`,
+                memberOf: { '@type': 'MusicGroup', name: 'Slayer' },
+              },
+            },
+            {
+              '@type': 'ListItem',
+              position: 4,
+              item: {
+                '@type': 'Person',
+                name: 'Gene Hoglan',
+                birthDate: '1967-09-26',
+                url: `${BASE_URL}/drummers/gene-hoglan`,
+                memberOf: { '@type': 'MusicGroup', name: 'Death' },
+              },
+            },
+            {
+              '@type': 'ListItem',
+              position: 5,
+              item: {
+                '@type': 'Person',
+                name: 'Danny Carey',
+                birthDate: '1961-05-10',
+                url: `${BASE_URL}/drummers/danny-carey`,
+                memberOf: { '@type': 'MusicGroup', name: 'Tool' },
+              },
+            },
+            {
+              '@type': 'ListItem',
+              position: 6,
+              item: {
+                '@type': 'Person',
+                name: 'Mike Portnoy',
+                birthDate: '1967-04-20',
+                url: `${BASE_URL}/drummers/mike-portnoy`,
+                memberOf: { '@type': 'MusicGroup', name: 'Dream Theater' },
+              },
+            },
+            {
+              '@type': 'ListItem',
+              position: 7,
+              item: {
+                '@type': 'Person',
+                name: 'Charlie Benante',
+                birthDate: '1962-11-27',
+                url: `${BASE_URL}/drummers/charlie-benante`,
+                memberOf: { '@type': 'MusicGroup', name: 'Anthrax' },
+              },
+            },
+            {
+              '@type': 'ListItem',
+              position: 8,
+              item: {
+                '@type': 'Person',
+                name: 'Vinnie Paul',
+                birthDate: '1964-03-11',
+                url: `${BASE_URL}/drummers/vinnie-paul`,
+                memberOf: { '@type': 'MusicGroup', name: 'Pantera' },
+              },
+            },
+            {
+              '@type': 'ListItem',
+              position: 9,
+              item: {
+                '@type': 'Person',
+                name: 'Inferno',
+                birthDate: '1978-08-14',
+                url: `${BASE_URL}/drummers/inferno`,
+                memberOf: { '@type': 'MusicGroup', name: 'Behemoth' },
+              },
+            },
+            {
+              '@type': 'ListItem',
+              position: 10,
+              item: {
+                '@type': 'Person',
+                name: 'George Kollias',
+                birthDate: '1977-10-17',
+                url: `${BASE_URL}/drummers/george-kollias`,
+                memberOf: { '@type': 'MusicGroup', name: 'Nile' },
+              },
+            },
+          ],
+        },
+      }),
     };
   }
 

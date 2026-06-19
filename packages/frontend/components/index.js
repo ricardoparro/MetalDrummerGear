@@ -161,15 +161,3 @@ export {
   default as StickyCTA,
 } from './StickyCTA';
 
-// Wishlist - Conversion Funnel (Issue #823)
-export {
-  default as WishlistPage,
-  isWishlistPage,
-  updateWishlistMeta,
-} from './WishlistPage';
-
-export {
-  default as WishlistButton,
-  WishlistBadge,
-  FloatingWishlistButton,
-} from './WishlistButton';

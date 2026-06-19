@@ -15,7 +15,6 @@ import {
   useWindowDimensions
 } from 'react-native';
 import { Image } from 'expo-image';
-import WishlistButton from './WishlistButton';
 import {
   getBeginnerGuideBySlug,
   isBeginnerGuideSlug,
@@ -631,18 +630,6 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer, slug }) 
                 </TouchableOpacity>
               </View>
 
-              {/* Save to Wishlist (Issue #823/#833) - keyed per guide + kit so
-                  add/remove is unique across guides */}
-              <WishlistButton
-                drummerSlug={`guide-${activeSlug}`}
-                drummerName={guide.title}
-                gearType={`kit-${index}`}
-                itemName={kit.name}
-                primaryProduct={kit.name}
-                estimatedPrice={kit.priceValue}
-                style={{ marginTop: 12 }}
-              />
-
               {/* Related Drummers */}
               {kit.relatedDrummers && kit.relatedDrummers.length > 0 && (
                 <View style={styles.relatedDrummers}>
@@ -762,16 +749,6 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer, slug }) 
                 </TouchableOpacity>
               </View>
 
-              {/* Save to Wishlist (Issue #823/#833) */}
-              <WishlistButton
-                drummerSlug={`guide-${activeSlug}`}
-                drummerName={guide.title}
-                gearType={`cymbals-${index}`}
-                itemName={option.name}
-                primaryProduct={option.name}
-                estimatedPrice={option.priceValue}
-                style={{ marginTop: 12 }}
-              />
             </View>
           ))}
 

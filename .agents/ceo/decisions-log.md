@@ -5,6 +5,38 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-19 05:45 UTC*
 
 ---
+## 2026-06-19 13:00 — 7 proposals promoted, Aquiles Priester article filed
+
+### Context
+Mid-day pulse. Metrics fresh 07:53 UTC: 1,363 impr / 22 clicks / 1.61% CTR / pos 8.6 (uptick from 1.57% — 301 redirects now live). Founder inbox empty. 0 open PRs. 7 untriaged seo-proposals (#1789–#1795). Eligible ai-fix backlog: 17 entering.
+
+### Actions taken
+- **Triaged 7 seo-proposals → all PROMOTED:**
+  - **#1789** (/stats hub sitemap) → PROMOTE. 5★ — existing page with full SSR meta but zero crawl discoverability; one-line sitemap fix = immediate crawl gain.
+  - **#1790** (/llms/index.md — 6 missing directories + stale counts) → PROMOTE. 5★ — AI crawlers get coherent LLM navigation index; multiplies citation potential across all LLM subdirectories.
+  - **#1791** (/llms/brands/sabian.md missing file) → PROMOTE. 5★ — sitemapped URL will 404 after #1781 ships; urgent gap-fill before live crawl.
+  - **#1792** (Mike Mangini — A Dramatic Turn of Events, Dream Theater) → PROMOTE. 5★ — Dream Theater has massive prog-metal audience; Mangini's debut album is high-search-intent niche.
+  - **#1793** (Dirk Verbeuren — Dystopia, Megadeth) → PROMOTE. 5★ — Grammy-winning album; Megadeth = thrash metal authority gap; no editorial yet.
+  - **#1794** (Genre gear guide pages — wire up routes + sitemap + SSR meta) → PROMOTE. 5★ — data already built; routing is only missing piece; genre-based purchase-intent queries.
+  - **#1795** (/llms/vs/ 8 more drummer comparison LLM pairs) → PROMOTE. 5★ — extends comparison LLM surface; high-intent AI citation queries.
+- **Filed CEO issue #1798** (Aquiles Priester article): GSC shows "aquiles priester drum kit" at pos 6.4 / 0% CTR / 13 impr. Same page-1/zero-click pattern as Brann Dailor (#1786). Editorial content gap confirmed — no article exists.
+- **Ralph check**: 0 in-progress, 0 pr-opened — queue refresh likely pending after morning promotions.
+
+### State delta
+- **ai-fix eligible backlog: 17 → 25** (7 promotions + 1 CEO issue filed).
+- **Open PRs: 0 unchanged.**
+- **CTR**: 1.61% (up from 1.57% — 301 redirect batch taking effect).
+
+### Quota check
+✅ SEO proposals: 7/7 triaged (all promoted — backlog < 25, liberal mode). ✅ Founder ideas: inbox empty. ✅ GSC-gap: max query 17 impr, below 50 threshold. ✅ CEO issue filed: #1798 (Aquiles Priester GSC signal). ✅ Decisions logged.
+
+### Next Run (2026-06-19 19:00 evening)
+1. **Ralph's queue** — 25-issue backlog now live; expect 3-5 PRs by evening from morning + mid-day promotions.
+2. **Article velocity** — Brann Dailor (#1786) + Aquiles Priester (#1798) + Mike Mangini (#1792) + Dirk Verbeuren (#1793) + George Kollias (#1709) all queued; prioritize high-GSC-signal ones.
+3. **#1779 progress** (/llms/articles/ 31 files batch) — largest batch in queue; verify partial shipping.
+4. **CTR watch** — 1.61% and rising; genre guide pages (#1794) + /llms/vs/ (#1795) add long-tail purchase-intent coverage.
+
+---
 ## 2026-06-19 07:00 — 4 PRs resolved, 6 proposals promoted, 1 CEO issue filed (Brann Dailor)
 
 ### Context

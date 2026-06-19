@@ -580,11 +580,28 @@ function getMetaForPath(pathname) {
         url: `${BASE_URL}/technique/${slug}`,
         articleSchema: JSON.stringify({
           '@context': 'https://schema.org',
-          '@type': 'Article',
-          headline: `${technique.title} — Metal Drumming Technique`,
-          description: truncate(technique.description, 250),
-          url: `${BASE_URL}/technique/${slug}`,
-          publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+          '@graph': [
+            {
+              '@type': 'Article',
+              headline: `${technique.title} — Metal Drumming Technique`,
+              description: truncate(technique.description, 250),
+              url: `${BASE_URL}/technique/${slug}`,
+              publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+            },
+            {
+              '@type': 'DefinedTerm',
+              '@id': `${BASE_URL}/technique/${slug}#term`,
+              name: technique.title,
+              description: truncate(technique.description, 250),
+              url: `${BASE_URL}/technique/${slug}`,
+              inDefinedTermSet: {
+                '@type': 'DefinedTermSet',
+                '@id': `${BASE_URL}/techniques#termset`,
+                name: 'Metal Drumming Techniques Glossary',
+                url: `${BASE_URL}/techniques`,
+              },
+            },
+          ],
         }),
         breadcrumbSchema: [
           { name: 'Home', url: BASE_URL },

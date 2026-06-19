@@ -22670,7 +22670,280 @@ For deeper study:
 
 🤘 *The jazz-schooled thrash master — four records, a lifetime of influence.* 🤘`
     }
+  },
+
+  'jaska-raatikainen-drum-setup': {
+    slug: 'jaska-raatikainen-drum-setup',
+    articleType: 'drummer-kit',
+    drummer: 'Jaska Raatikainen',
+    drummerId: 55,
+    relatedDrummerSlug: 'jaska-raatikainen',
+    band: 'Children of Bodom',
+    bands: ['Children of Bodom', 'Warmen'],
+    genre: 'Melodic Death Metal',
+    country: 'Finland',
+    isAlbumArticle: true,
+    datePublished: '2026-06-19',
+    dateModified: '2026-06-19',
+    author: 'MetalForge Editorial',
+    // SEO
+    title: "Jaska Raatikainen Drum Setup — Children of Bodom Gear Guide",
+    description: "Jaska Raatikainen's Pearl Masters kit, Zildjian cymbals, and Pearl Eliminator pedals — the complete gear breakdown behind Children of Bodom's melodic death metal sound.",
+    seoKeywords: ['jaska raatikainen drum setup', 'children of bodom drummer gear', 'jaska raatikainen kit', 'alexi laiho band drummer', 'jaska raatikainen pearl drums', 'jaska raatikainen zildjian cymbals', 'children of bodom drum gear', 'finnish metal drummer'],
+    ogImage: '/images/drummers/jaska-raatikainen.webp',
+    // Introduction
+    intro: {
+      title: "Jaska Raatikainen: Children of Bodom's Rhythmic Architect",
+      content: `Jaska Raatikainen is the drummer for Children of Bodom, using a Pearl Masters kit with Zildjian cymbals throughout the band's career. Born July 18, 1979, in Espoo, Finland, Raatikainen co-founded the band alongside the late Alexi Laiho in 1993 — originally performing as Inearthed before adopting the Children of Bodom name in 1997. Together they created one of Finnish metal's most distinctive sounds: neoclassical melodies fused with aggressive death metal, built on a foundation of precise drumming that balanced explosive blast beats with compositionally aware melodic fills.
+
+Children of Bodom became one of Finland's most successful metal exports, selling over 2 million albums worldwide across a 26-year career. Raatikainen's drumming was central to that success. His playing style combined the raw velocity of death metal — double bass patterns, blast beats, aggressive snare attacks — with a musical sensibility shaped by the neoclassical guitar and keyboard counterpoint that defined Alexi Laiho's compositional approach. The drums had to do more than provide a rhythmic foundation; they had to move with the melodic material in ways that pure death metal drumming rarely demands.
+
+This article breaks down every major component of Jaska Raatikainen's drum setup: his Pearl Masters Premium Maple shell pack, his Zildjian A Custom and K Custom cymbal selection, his Pearl Eliminator double pedal technique, and the stylistic approach that drove some of melodic death metal's most essential recordings — from Follow the Reaper through I Worship Chaos.`,
+      keyPoints: [
+        'Co-founded Children of Bodom with Alexi Laiho at age 14 in Espoo, Finland',
+        'Pearl Masters Premium Maple kit — flagship Pearl production shells for touring endurance',
+        'Zildjian A Custom and K Custom cymbals — brightness and definition for melodic death metal',
+        'Pearl Eliminator double bass pedal throughout the band\'s peak touring years',
+        'Vic Firth American Classic 5A sticks — precision and projection for neoclassical-driven arrangements',
+        'Drummed on every Children of Bodom album from Something Wild (1997) through Hexed (2019)'
+      ]
+    },
+    // Drum Kit Section
+    drumKit: {
+      title: "Pearl Masters Premium Maple: Built for Melodic Death Metal",
+      brand: 'Pearl',
+      model: 'Pearl Masters Premium Maple',
+      finish: 'Custom finish (various across touring periods)',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum (x2 — double kick configuration)'],
+        toms: ['10" x 9" Rack Tom', '12" x 10" Rack Tom'],
+        floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom'],
+        shells: 'Six-ply maple shell construction — Pearl Masters Premium grade'
+      },
+      description: `Jaska Raatikainen's primary kit throughout Children of Bodom's career was the Pearl Masters Premium Maple — Pearl's professional-grade production shell line positioned above the Export and Session series but offering the same tonal consistency that endorsed artists require for extensive touring. The Masters Premium Maple's six-ply all-maple shell construction delivers the focused, projecting tone that melodic death metal requires: clear attack for precise double-bass articulation, warm body for the toms, and enough shell resonance to support fills that function as musical countermelodies rather than purely rhythmic events.
+
+The double bass drum configuration — two 22" x 18" kick drums — underpins the relentless double-kick work that characterizes Children of Bodom's most intense material. Tracks like "Needled 24/7," "Hate Crew Deathroll," and "Trashed, Lost & Strungout" demand sustained double-bass velocity across complete songs, often paired with simultaneous cymbal patterns and tom fills. The 22" diameter provides the low-frequency mass that gives kick drums presence in melodic death metal production, while the 18" depth adds the punch needed to cut through dense guitar and keyboard arrangements.
+
+His tom configuration favors a compact spread: two rack toms (10" and 12") and two floor toms (14" and 16") give Raatikainen the range needed for melodic fills without a sprawling setup. Children of Bodom's music features more melody-following tom work than pure death metal bands — Alexi Laiho's guitar runs and Janne Wirman's keyboard lines often set up tom phrases that echo or answer the melodic content. The compact spread keeps those phrases clean and fast without sacrificing tonal variety.
+
+Pearl's manufacturing tolerances in the Masters line ensure consistent shell response across the kit — essential for a drummer who needed his setup to perform identically in a Helsinki club and a Wacken Open Air main stage.`,
+      notes: [
+        'Pearl Masters Premium Maple — professional-grade six-ply all-maple shells',
+        'Double 22" x 18" bass drums for sustained melodic death metal double-kick',
+        'Compact tom spread (10", 12", 14", 16") for fast melodic fill work',
+        'Consistent shell tolerances supporting extended touring across 26 years',
+        'Custom finishes varied across Children of Bodom touring periods'
+      ],
+      estimatedValue: '$2,500–4,500 (Pearl Masters Premium Maple shell pack)'
+    },
+    // Snare Section
+    snare: {
+      title: "Pearl Masters 14\" x 5.5\" Maple Snare",
+      brand: 'Pearl',
+      model: 'Pearl Masters 14" x 5.5" Maple',
+      size: '14" x 5.5"',
+      shell: 'Maple — Masters-grade shell construction',
+      description: `Raatikainen's snare of choice within the Masters line is the 14" x 5.5" maple model — a snare depth that balances crack and body for melodic death metal production contexts. The 5.5" depth sits between the bright sharpness of a 5" snare and the heavier body of a 6.5" model, producing a sound that cuts through guitar and keyboard arrangements while still carrying enough sustain to sound musical in the mix.
+
+Maple shell construction for the snare provides a warmer, slightly less bright character than the steel or brass snares common in pure death metal contexts — a choice that suits Children of Bodom's hybrid melodic sound. The warmth doesn't sacrifice attack: the Masters' precise shell construction and reinforcement ring design ensure the snare responds immediately to single strokes, rolls, and rimshots with consistent crack.
+
+For Children of Bodom's studio recordings, the snare needed to perform across a wide dynamic range — from the moderate velocities of groove-oriented passages to the full-force blast beat sections that punctuate every album. A maple snare in the Masters grade handles this range without losing its character, delivering the same tonal identity from whisper to explosion.`,
+      tuningSetting: 'Medium to medium-bright — clarity for melodic death metal arrangements',
+      heads: 'Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$350–550 (Pearl Masters maple snare)'
+    },
+    // Cymbals Section
+    cymbals: {
+      title: "Zildjian A Custom & K Custom: Definition Over Wash",
+      brand: 'Zildjian',
+      series: 'Zildjian A Custom / K Custom Series',
+      setup: [
+        { type: 'Hi-Hats', model: 'Zildjian A Custom 14" Hi-Hats', position: 'Left side', notes: 'Fast, cutting response for rapid 16th-note patterns at melodic death metal tempos' },
+        { type: 'Crash', model: 'Zildjian A Custom 17" Crash', position: 'Left crash', notes: 'Bright, fast-decaying crash for accent work within dense arrangements' },
+        { type: 'Crash', model: 'Zildjian A Custom 18" Crash', position: 'Right crash', notes: 'Fuller crash for section boundaries and high-intensity moments' },
+        { type: 'Ride', model: 'Zildjian 20" K Custom Ride', position: 'Right side', notes: 'Dark, complex ride character — contrasts the A Custom brightness for tonal variety' },
+        { type: 'China', model: 'Zildjian 18" China', position: 'Above rack toms', notes: 'Aggressive upward-cutting accent — punctuates blast beat sections' }
+      ],
+      description: `Jaska Raatikainen's Zildjian setup pairs two series with complementary characters: A Custom for hi-hats and crashes, K Custom for the ride. The A Custom series is built for definition — multi-stage lathing and hammering produce a bright, focused sound with fast attack and quick decay. In melodic death metal production, where arrangements are dense with guitar, keyboard, and bass, cymbal definition is not optional. A Custom cymbals speak clearly through the mix without requiring post-production enhancement.
+
+The 14" A Custom hi-hats anchor the rhythmic foundation of Raatikainen's playing. Children of Bodom's music demands hi-hat patterns that articulate cleanly at tempos ranging from mid-paced groove sections to full double-time blast beat passages. The A Custom's focused, quick-decaying character ensures every stroke registers distinctly in the mix, even as double-bass and keyboard parts compete for frequency space.
+
+The crash pairing — 17" A Custom and 18" A Custom — covers Raatikainen's two primary accent demands. The 17" provides the fast, sharp explosion appropriate for accenting syncopated figures and fill-endings in tight melodic passages. The 18" supplies the fuller sound required to mark section boundaries and build intensity in Children of Bodom's most dramatic moments.
+
+The 20" K Custom Ride introduces deliberate tonal contrast. Where the A Custom crashes are bright and modern, the K Custom's darker, more complex character provides a different sonic texture for ride passages — particularly effective in the more atmospheric or groove-oriented passages that appear on albums like Halo of Blood and I Worship Chaos, where sustained ride work needs to sit differently in the mix than the sharp attack of the crash-heavy sections.`,
+      estimatedValue: '$1,400–2,200 (full A Custom and K Custom setup)'
+    },
+    // Hardware Section
+    hardware: {
+      title: "Pearl Eliminator: The Engine Behind Children of Bodom's Double Kick",
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'Pearl',
+          model: 'Pearl Eliminator Double Bass Pedal',
+          notes: 'Dual-chain drive with interchangeable cams — the standard for sustained melodic death metal double-kick',
+          description: "The Pearl Eliminator is Jaska Raatikainen's primary foot weapon across Children of Bodom's touring years. Pearl's Eliminator series is built around a key feature that sets it apart from most competition: interchangeable cam system. The Eliminator ships with multiple cam options — round, oval, and tri-cam — allowing the drummer to adjust the pedal's acceleration curve to their personal heel-up technique. Raatikainen's double-kick work runs throughout every Children of Bodom album, sustaining complex patterns against neoclassical guitar runs and keyboard countermelodies at tempos that demand both speed and accuracy. The Eliminator's dual-chain drive delivers the mechanical consistency these demands require: each stroke drives through with the same force and returns to the same resting position, supporting the pattern consistency that melodic death metal's technical arrangements cannot afford to compromise."
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth American Classic 5A',
+          notes: 'Balance of speed and projection for melodic death metal dynamics',
+          description: "Raatikainen's stick choice — Vic Firth American Classic 5A — reflects the dual demands of Children of Bodom's music: enough weight and length for aggressive impact in blast beat and double-time sections, but light enough to support the faster articulation that neoclassical-influenced fill work requires. The 5A sits between the lighter 5B (more common in rock) and heavier sticks used in pure death metal, serving as a practical compromise for a drummer whose band operates in both worlds within a single set."
+        },
+        {
+          type: 'Drumheads (Toms, Batter)',
+          brand: 'Remo',
+          model: 'Remo Emperor Coated',
+          notes: 'Two-ply construction for durability and controlled sustain under heavy melodic death metal playing'
+        },
+        {
+          type: 'Drumheads (Bass, Batter)',
+          brand: 'Remo',
+          model: 'Remo Powerstroke 3',
+          notes: 'Focused attack and controlled low-end — essential for double-kick definition through keyboard-heavy arrangements'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke 3 (batter), Remo Powerstroke 3 (resonant)',
+        toms: 'Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)',
+        snare: 'Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)'
+      }
+    },
+    // Gear Timeline
+    gearTimeline: [
+      {
+        era: 'Something Wild / Hatebreeder Era',
+        years: '1997–1999',
+        albums: ['Something Wild (1997)', 'Hatebreeder (1999)'],
+        description: 'Establishing the Children of Bodom sound — neoclassical speed metal meets death metal intensity.',
+        gear: {
+          drums: 'Pearl drums (developing Masters endorsement relationship)',
+          snare: 'Pearl snare, tuned medium-bright for Finnish death metal production',
+          cymbals: 'Zildjian A series (early relationship, developing toward A Custom)',
+          hardware: 'Pearl pedals — early double-kick configuration'
+        },
+        notes: 'Hatebreeder (1999) established international recognition with its blend of keyboard-driven neoclassical melodies and death metal aggression. Raatikainen\'s double-bass work on tracks like "Children of Bodom" and "Warheart" set the technical template the band would refine across subsequent albums.'
+      },
+      {
+        era: 'Follow the Reaper / Hate Crew Deathroll Era',
+        years: '2000–2003',
+        albums: ['Follow the Reaper (2000)', 'Hate Crew Deathroll (2003)'],
+        description: 'Peak technical and commercial period — the defining Children of Bodom sound fully realized.',
+        gear: {
+          drums: 'Pearl Masters Premium Maple (flagship endorsement solidified)',
+          snare: 'Pearl Masters 14" x 5.5" Maple',
+          cymbals: 'Zildjian A Custom series (hi-hats, crashes; developing K Custom ride relationship)',
+          hardware: 'Pearl Eliminator double bass pedal, Vic Firth American Classic 5A sticks'
+        },
+        notes: 'Follow the Reaper (2000) is widely considered Children of Bodom\'s defining statement. Tracks like "Needled 24/7" and "Sixpounder" demonstrate Raatikainen\'s ability to sustain complex double-kick patterns against guitar runs that shift meter mid-phrase. The Hate Crew Deathroll session pushed the setup harder — the Eliminator and Masters combination proved its endurance across what became the band\'s commercial peak.'
+      },
+      {
+        era: 'Are You Dead Yet? / Blooddrunk Era',
+        years: '2005–2008',
+        albums: ['Are You Dead Yet? (2005)', 'Blooddrunk (2008)'],
+        description: 'Broader mainstream reach without abandoning technical foundations.',
+        gear: {
+          drums: 'Pearl Masters Premium Maple (consistent touring configuration)',
+          snare: 'Pearl Masters 14" x 5.5" Maple',
+          cymbals: 'Zildjian A Custom crashes, K Custom ride — full setup established',
+          hardware: 'Pearl Eliminator double bass pedal'
+        },
+        notes: 'Are You Dead Yet? achieved the widest mainstream reach of any Children of Bodom album. Raatikainen\'s drumming on "In Your Face" and "Are You Dead Yet?" showed his ability to adapt to slightly more accessible song structures without abandoning the technical double-bass vocabulary that defined earlier material.'
+      },
+      {
+        era: 'Halo of Blood / I Worship Chaos Era',
+        years: '2013–2015',
+        albums: ['Halo of Blood (2013)', 'I Worship Chaos (2015)'],
+        description: 'Return to melodic roots — mature articulation of the Children of Bodom identity.',
+        gear: {
+          drums: 'Pearl Masters Premium Maple (updated custom finish)',
+          snare: 'Pearl Masters 14" x 5.5" Maple',
+          cymbals: 'Zildjian A Custom 14" Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride',
+          hardware: 'Pearl Eliminator double bass pedal, Vic Firth American Classic 5A sticks'
+        },
+        notes: 'Halo of Blood (2013) marked a return to the melodic focus that defined the early albums, and Raatikainen\'s drumming reflected that shift. I Worship Chaos (2015) continued the mature direction — technically demanding but more compositionally focused than the peak-speed material of the early 2000s. The gear configuration reached its most fully documented state in this period.'
+      }
+    ],
+    // Playing Style Section
+    playingStyle: {
+      title: "Blast Beats and Neoclassical Fills: Jaska's Hybrid Technique",
+      content: `Jaska Raatikainen occupies a specific and demanding position in the melodic death metal drumming landscape. Pure death metal drummers prioritize velocity and aggression — blast beats, relentless double-kick, snare saturation. Pure power metal drummers prioritize groove and melodic support — feels, fills that follow vocal and guitar lines, dynamic control. Raatikainen had to do both, simultaneously, in service of a band whose music demanded that each approach coexist within the same song.
+
+**Blast Beat Integration:**
+Children of Bodom songs are not pure blasters — but blast beat sections appear throughout the catalog, deployed for maximum intensity at key structural moments. Raatikainen's blast beat execution is precise and locked, matching the velocity of Alexi Laiho's fastest picking runs. The Pearl Eliminator's consistent response supports this: the same stroke produces the same result at 200 BPM as at 160, essential when blast sections are dropping in and out of arrangements with compound melodic material happening above them.
+
+**Melodic Fill Architecture:**
+Where Raatikainen's playing distinguishes itself most clearly is in the melodic fill work that follows, precedes, or counterpoints the melodic content of keyboards and guitar. On tracks like "Bodom After Midnight" and "Lake Bodom," tom fills don't simply fill rhythmic space — they echo melodic phrases, mirror interval content from Wirman's keyboard lines, or set up chord changes with rhythmic anticipation. This neoclassical-complementary fill approach requires the drummer to be listening melodically, not just rhythmically, in real time. The Pearl Masters' consistent tom spread (10" through 16") provides the pitch range these melodic fill phrases need.
+
+**Double-Bass Musicality:**
+Raatikainen's double-kick is not merely a velocity feature — it follows melodic contours. On Children of Bodom recordings, the kick patterns shift density and accent placement in response to guitar riff structures, not just tempo. When Laiho's riff groups in three, the kick often answers in four; when the guitar moves to a sustained chord section, the kick shifts to a more open, less dense pattern. This interplay between kick density and melodic content is a hallmark of Raatikainen's most compositionally sophisticated playing.
+
+**Dynamic Range:**
+Children of Bodom's music moves between atmospheric keyboard passages and full-intensity metal sections within the same song. Raatikainen shifts between these with clarity: light hi-hat and ride work in the quiet moments, full kit deployment in the heavy sections. The A Custom and K Custom cymbals' tonal differentiation supports this — the K Custom ride creates a darker, more atmospheric overhead texture for quieter passages, while the A Custom crashes mark the violent transitions back to full intensity.
+
+For drummers studying Raatikainen's approach:
+- [Jaska Raatikainen at MetalForge](/drummer/55) — full profile, discography, and technique analysis
+- [Gene Hoglan at MetalForge](/drummer/3) — another precision-focused extreme metal drummer whose fill work follows melodic content
+- [Dave Lombardo at MetalForge](/drummer/4) — the thrash architect whose blast beat vocabulary Raatikainen drew on for Children of Bodom's most aggressive passages`,
+      keyTechniques: [
+        'Blast beat sections integrated within melodic death metal arrangements — deployed selectively for maximum impact',
+        'Neoclassical-complementary tom fills that echo or answer keyboard and guitar melodic content',
+        'Double-bass patterns that follow melodic contours, shifting density with guitar riff structure',
+        'Dynamic range across atmospheric and full-intensity sections within single songs',
+        'Pearl Eliminator cam customization supporting consistent double-kick across long live sets'
+      ]
+    },
+    // FAQ Section
+    faq: [
+      {
+        question: 'What drum kit does Jaska Raatikainen use?',
+        answer: "Jaska Raatikainen plays Pearl drums — specifically the Pearl Masters Premium Maple series throughout the majority of Children of Bodom's career. The Masters Premium Maple features a six-ply all-maple shell construction that delivers the focused attack and warm body his melodic death metal work demands. He runs a double-kick configuration with two 22\" x 18\" bass drums, two rack toms (10\" and 12\"), and two floor toms (14\" and 16\") — a compact spread that supports both rapid melodic fill work and the aggressive blast-beat sections that punctuate Children of Bodom's most intense material."
+      },
+      {
+        question: "What cymbals does Children of Bodom's drummer play?",
+        answer: "Jaska Raatikainen plays Zildjian A Custom and K Custom cymbals. His setup includes 14\" A Custom Hi-Hats, a 17\" and 18\" A Custom Crash (paired for tonal variety across accent demands), and a 20\" K Custom Ride. The A Custom series delivers the bright, fast-decaying character that cuts through Children of Bodom's dense keyboard and guitar arrangements without smearing the mix. The K Custom Ride introduces a darker, more complex tonal character that creates deliberate contrast in groove-oriented and atmospheric passages — particularly useful across later albums like Halo of Blood and I Worship Chaos."
+      },
+      {
+        question: "How did Jaska Raatikainen's setup evolve over Children of Bodom's career?",
+        answer: "Raatikainen's core setup remained relatively consistent across Children of Bodom's 26-year career, with evolutionary refinements rather than wholesale changes. The Pearl Masters relationship was established early and solidified through the Follow the Reaper and Hate Crew Deathroll sessions (2000–2003), which represent the most technically demanding period of the band's output. The cymbal setup evolved from Zildjian A series toward the A Custom and K Custom combination that became his established configuration by the mid-2000s. The Pearl Eliminator double bass pedal was his primary foot instrument across the peak touring years, providing the consistent double-kick response that sustained the band's high-velocity material across extensive worldwide touring."
+      },
+      {
+        question: 'What bass drum pedal does Jaska Raatikainen use?',
+        answer: "Jaska Raatikainen uses the Pearl Eliminator double bass pedal. The Eliminator's defining feature is its interchangeable cam system — multiple cam shapes ship with the pedal, allowing the drummer to adjust the acceleration curve to match their personal heel-up technique. The dual-chain drive provides mechanical consistency across long live sets, ensuring each stroke produces the same response whether it's the first song or the last. This consistency is especially important for Children of Bodom's material, where double-kick patterns run continuously against complex melodic arrangements without rhythmic simplification."
+      },
+      {
+        question: 'What drumsticks does Jaska Raatikainen play?',
+        answer: "Jaska Raatikainen plays Vic Firth American Classic 5A sticks. The 5A's weight and length balance serve the dual demands of Children of Bodom's music: enough mass for forceful impact in blast beat and high-intensity sections, but light enough for the faster articulation that neoclassical-influenced fill work requires. The 5A is lighter than the 5B favored by heavier death metal drummers, reflecting Raatikainen's need for speed and precision alongside power."
+      }
+    ],
+    // Related content
+    relatedAlbums: ['gene-hoglan-drum-setup', 'reign-in-blood-drum-setup', 'master-of-puppets-drum-setup'],
+    relatedDrummers: [3, 4, 35], // Gene Hoglan, Dave Lombardo, Flo Mounier
+    relatedArticles: ['death-metal-drummers', 'best-metal-double-kick-technique'],
+    conclusion: {
+      title: "Children of Bodom's Rhythmic Foundation: A Legacy Sealed",
+      content: `Jaska Raatikainen co-founded Children of Bodom at 14 years old and drummed for every record the band ever made — from the raw, youthful energy of Something Wild through the mature melodic sophistication of Hexed. The band's dissolution in 2019 and Alexi Laiho's death in December 2020 permanently sealed the Children of Bodom catalog as one of melodic death metal's defining bodies of work. Raatikainen's drumming is inseparable from that legacy.
+
+His gear choices reflect the demands his music made:
+
+- **Pearl Masters Premium Maple**: Professional-grade shells built for the endurance of 26 years of worldwide touring and technically demanding studio work
+- **Zildjian A Custom Hi-Hats and Crashes**: Definition and attack that cuts through dense keyboard and guitar arrangements without mix compromise
+- **Zildjian K Custom Ride**: Tonal contrast that separates atmospheric passages from full-intensity sections
+- **Pearl Eliminator Double Pedal**: Mechanical consistency supporting the double-kick patterns that drive Children of Bodom's most relentless material
+- **Vic Firth American Classic 5A**: Speed and projection balance for a drummer navigating blast beats and neoclassical fills within the same song
+
+The deeper lesson in Raatikainen's playing is the melodic integration: how fills follow keyboard lines, how kick density responds to guitar riff structure, how the full kit participates in compositional decisions that most drummers treat as the melody instruments' job alone. Children of Bodom demanded that, and Raatikainen delivered it across a decade of peak-era recordings.
+
+For deeper exploration:
+- **Full drummer profile**: [Jaska Raatikainen at MetalForge](/drummer/55)
+- **Gene Hoglan profile**: [Gene Hoglan — the Atomic Clock](/drummer/3) — another extreme metal drummer whose precision and melodic fill intelligence defined a genre
+- **Dave Lombardo profile**: [Dave Lombardo at MetalForge](/drummer/4) — the blast beat architect whose vocabulary Raatikainen drew on for Children of Bodom's most aggressive passages
+
+Children of Bodom's catalog stands as Finnish metal's defining contribution to the global melodic death metal genre. Jaska Raatikainen was there for every note.`
+    }
   }
+
 };
 
 

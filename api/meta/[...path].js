@@ -1930,6 +1930,7 @@ function getMetaForPath(pathname) {
   }
 
   // Issue #1407: /battles hub page
+  // Issue #1477: CollectionPage + FAQPage JSON-LD for AI Overview eligibility
   if (path === '/battles') {
     return {
       title: `Metal Drummer Battles — Vote for the Best | ${SITE_NAME}`,
@@ -1937,6 +1938,43 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/battles`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@graph': [
+          {
+            '@type': 'CollectionPage',
+            name: 'Metal Drummer Battles — Drum Kit Showdowns',
+            description: 'Vote on the greatest drummer gear matchups in metal history. 8 curated battles across thrash, death, prog, and black metal.',
+            url: `${BASE_URL}/battles`,
+            hasPart: CURATED_MATCHUPS.map(m => {
+              const d1 = _drummerById[m.drummer1Id];
+              const d2 = _drummerById[m.drummer2Id];
+              if (!d1 || !d2) return null;
+              const battleSlug = `${_battleDrummerSlug(d1.name)}-vs-${_battleDrummerSlug(d2.name)}`;
+              return {
+                '@type': 'WebPage',
+                name: `${d1.name} vs ${d2.name}`,
+                url: `${BASE_URL}/battles/${battleSlug}`,
+              };
+            }).filter(Boolean),
+          },
+          {
+            '@type': 'FAQPage',
+            mainEntity: [
+              {
+                '@type': 'Question',
+                name: 'Who is the best metal drummer?',
+                acceptedAnswer: { '@type': 'Answer', text: 'MetalForge lets fans vote on legendary matchups including Lars Ulrich vs Dave Lombardo, Gene Hoglan vs George Kollias, and more.' },
+              },
+              {
+                '@type': 'Question',
+                name: 'How do MetalForge drummer battles work?',
+                acceptedAnswer: { '@type': 'Answer', text: "Each week a new matchup is featured. Vote for your favorite, see the community results, and explore each drummer's full gear setup." },
+              },
+            ],
+          },
+        ],
+      }),
     };
   }
 

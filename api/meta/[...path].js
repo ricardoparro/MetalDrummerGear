@@ -23,6 +23,8 @@ import { TOP_10_LISTS } from '../../packages/frontend/data/top10Lists.js';
 import { GEAR_INDEX } from '../../packages/frontend/data/gearIndex.js';
 // Issue #1387: gear item drummer links — authoritative drummerIds live in the gear API.
 import { gearItems } from '../gear/[slug].js';
+// Issue #1474: signature gear page SSR meta for /drummers/<slug>/signature/<gearSlug>
+import { SIGNATURE_GEAR } from '../../packages/frontend/data/signatureGear.js';
 
 const BASE_URL = 'https://metalforge.io';
 const SITE_NAME = 'MetalForge';
@@ -1382,6 +1384,43 @@ function getMetaForPath(pathname) {
           { name: drummer.name, url: `${BASE_URL}/drummer/${slug}` },
           { name: 'Endorsements', url: `${BASE_URL}/drummers/${slug}/endorsements` },
         ],
+      };
+    }
+  }
+
+  // Issue #1474: /drummers/<slug>/signature/<gearSlug> — SSR meta + Product + BreadcrumbList schema
+  const sigGearMatch = path.match(/^\/drummers\/([^/]+)\/signature\/([^/]+)\/?$/);
+  if (sigGearMatch) {
+    const [, drummerSlug, gearSlug] = sigGearMatch;
+    const gear = SIGNATURE_GEAR[gearSlug];
+    const drummer = getDrummerBySlug(drummerSlug);
+    if (gear && drummer) {
+      return {
+        title: `${gear.fullName} — ${drummer.name}'s Signature ${gear.gearType} | MetalForge`,
+        description: `${gear.hero.tagline}. Full specs, story, and pricing for ${drummer.name}'s ${gear.name} (${gear.model}).`,
+        image: gear.seo?.ogImage ? `${BASE_URL}${gear.seo.ogImage}` : DEFAULT_IMAGE,
+        type: 'website',
+        url: `${BASE_URL}/drummers/${drummerSlug}/signature/${gearSlug}`,
+        articleSchema: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@graph': [
+            {
+              '@type': 'Product',
+              name: gear.fullName,
+              model: gear.model,
+              brand: { '@type': 'Brand', name: gear.brand },
+              description: gear.hero.subtitle,
+            },
+            {
+              '@type': 'BreadcrumbList',
+              itemListElement: [
+                { '@type': 'ListItem', position: 1, name: 'Home', item: BASE_URL },
+                { '@type': 'ListItem', position: 2, name: drummer.name, item: `${BASE_URL}/drummers/${drummerSlug}` },
+                { '@type': 'ListItem', position: 3, name: gear.name, item: `${BASE_URL}/drummers/${drummerSlug}/signature/${gearSlug}` },
+              ],
+            },
+          ],
+        }),
       };
     }
   }

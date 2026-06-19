@@ -523,6 +523,8 @@ export default function handler(req, res) {
     { loc: '/llms/facts.md', priority: '0.6', changefreq: 'monthly' },
     // Issue #1246: quiz LLM citation surface — #3 organic page, zero prior AI discoverability.
     { loc: '/llms/quiz.md', priority: '0.6', changefreq: 'monthly' },
+    // Issue #1560: quotes LLM citation surface — 36 attributed quotes from 12 metal drummers.
+    { loc: '/llms/quotes.md', priority: '0.5', changefreq: 'monthly' },
     // Issue #1330: gear stats LLM citation surface — brand-popularity data for AI queries.
     { loc: '/llms/stats.md', priority: '0.6', changefreq: 'monthly' },
     // Issue #1401: gear brand insights LLM citation surface — named drummer citations with % data.

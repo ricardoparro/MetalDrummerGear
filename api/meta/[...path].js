@@ -1217,11 +1217,35 @@ function getMetaForPath(pathname) {
       url: `${BASE_URL}/licks`,
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
-        '@type': 'CollectionPage',
-        name: 'Signature Metal Drum Licks',
-        description: 'Master the signature drum licks of 60+ metal legends. Step-by-step breakdowns of blast beats, double bass patterns, and iconic fills from George Kollias, Joey Jordison, and more.',
-        url: `${BASE_URL}/licks`,
-        publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+        '@graph': [
+          {
+            '@type': 'CollectionPage',
+            name: 'Signature Metal Drum Licks',
+            description: 'Master the signature drum licks of 60+ metal legends. Step-by-step breakdowns of blast beats, double bass patterns, and iconic fills from George Kollias, Joey Jordison, and more.',
+            url: `${BASE_URL}/licks`,
+            publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+          },
+          {
+            '@type': 'FAQPage',
+            mainEntity: [
+              {
+                '@type': 'Question',
+                name: 'What are the best metal drum licks to learn?',
+                acceptedAnswer: { '@type': 'Answer', text: 'MetalForge features signature drum licks from 63 metal legends including blast beats from George Kollias, double-bass patterns from Joey Jordison, and groove licks from Brann Dailor. Browse by drummer at metalforge.io/licks.' },
+              },
+              {
+                '@type': 'Question',
+                name: 'How many signature drum licks does MetalForge have?',
+                acceptedAnswer: { '@type': 'Answer', text: 'MetalForge has 157 signature lick pages covering 63 professional metal drummers, with step-by-step HowTo breakdowns and video analysis for each lick.' },
+              },
+              {
+                '@type': 'Question',
+                name: 'What technique is most common in metal drum licks?',
+                acceptedAnswer: { '@type': 'Answer', text: 'Blast beats and double-bass patterns are the most common techniques in metal drum licks. Explore technique-specific licks at metalforge.io/technique/blast-beat/drummers and metalforge.io/technique/double-bass/drummers.' },
+              },
+            ],
+          },
+        ],
       }),
       breadcrumbSchema: [
         { name: 'Home', url: BASE_URL },

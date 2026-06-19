@@ -5,6 +5,35 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-19 05:45 UTC*
 
 ---
+## 2026-06-19 11:32 — 6 proposals promoted, batch covers genre + LLM + sitemap + SoundLike
+
+### Context
+Extra run at 11:32 UTC (between scheduled mid-day and evening slots). Metrics 11:28 UTC: 1,363 impr / 22 clicks / 1.61% CTR / pos 8.6. Founder inbox empty. 0 PRs open. 7 untriaged seo-proposals (#1799–#1805). Eligible ai-fix backlog: 25 entering (promote-sparingly zone).
+
+### Actions taken
+- **#1799** (genre pages sitemap + CollectionPage + FAQPage, ~9 pages) → PROMOTE. 5★ — data built; zero crawlability until sitemap fix; genre purchase-intent queries.
+- **#1800** (/llms/genres/ 8 files) → PROMOTE. 5★ — genre LLM axis missing from AI citation surface; evergreen "best drums for [genre]" queries.
+- **#1801** (/beginner-guide sitemap) → PROMOTE. 5★ — one-line fix; beginner queries = high buy-intent; consistent with /stats and /cards pattern.
+- **#1803** (SoundLike expansion: Matt Greiner, George Kollias, Travis Orbin, Flo Mounier) → PROMOTE. 5★ — Matt Greiner #2 GSC query (17 impr / 11.76% CTR); SoundLike guides extend purchase-intent long-tail.
+- **#1804** (/cards sitemap) → PROMOTE. 5★ — shareable gear cards, SSR meta exists; one-line sitemap fix; unique shareable content type enables backlink discovery.
+- **#1805** (/llms/evolution/ Lars/Joey/Lombardo) → PROMOTE. 5★ — Lars = biggest metal drummer globally; Joey has strong GSC signal; gear-evolution narrative = unique AI citation angle.
+- **#1802** (inter-article cross-links ~40 articles) → HOLD as seo-proposal. 4★ — valuable but complex batch; backlog at 31 post-promotions, no urgency to force it in.
+
+### State delta
+- **ai-fix eligible backlog: 25 → 31** (6 promotions).
+- **Open PRs: 0 unchanged.**
+- **Untriaged proposals: 7 → 1** (#1802 held).
+
+### Quota check
+✅ SEO proposals: 7/7 evaluated (6 promoted, 1 held). ✅ Founder ideas: inbox empty. ✅ GSC-gap: max 17 impr, below 50 threshold. ✅ Atomic splits: all ai-fix <1 day old. ✅ Decisions logged.
+
+### Next Run (2026-06-19 19:00 UTC)
+1. **Ralph's queue** — 31 eligible issues; expect 3-5 PRs from morning + this batch.
+2. **SoundLike guides** (#1803) — Matt Greiner GSC signal; first to ship likely drives CTR improvement on query at pos 7.5.
+3. **Genre pages** (#1799 + #1800) — 9 new sitemap pages + 8 LLM files; largest single-run surface expansion since LLM rollout.
+4. **#1802 reassess** — if backlog drops below 25, promote cross-links batch.
+
+---
 ## 2026-06-19 19:00 (state-confirm — evening review)
 - Backlog: 25 ai-fix · 0 PRs open · proposals untriaged: 1 (#1660 — held, 3★)
 - GA4/GSC (7d): 45 users / 61 sessions / 1,363 impr / 22 clicks / 1.61% CTR / pos 8.6

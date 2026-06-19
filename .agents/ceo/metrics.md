@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-19 19:38 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-19 22:17 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -12,7 +12,7 @@
 | Sessions | 66 |
 | Page views | 125 |
 | Engagement rate | 63.64% |
-| Avg session (s) | 120 |
+| Avg session (s) | 124 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |

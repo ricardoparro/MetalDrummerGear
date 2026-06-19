@@ -26266,7 +26266,7 @@ For deeper exploration:
 - **Swedish melodic death metal**: [Jaska Raatikainen — Children of Bodom drum setup](/articles/jaska-raatikainen-drum-setup)
 - **Double bass technique**: [Double-bass drumming at MetalForge](/technique/double-bass-drumming)`
     }
-  }
+  },
 
   'raymond-herrera-drum-setup': {
     slug: 'raymond-herrera-drum-setup',

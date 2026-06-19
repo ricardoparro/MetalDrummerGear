@@ -1473,13 +1473,17 @@ function getMetaForPath(pathname) {
         url: `${BASE_URL}/drummer/${drummerSlug}/${category}`,
         articleSchema: JSON.stringify({
           '@context': 'https://schema.org',
-          '@type': 'BreadcrumbList',
-          itemListElement: [
-            { '@type': 'ListItem', position: 1, name: 'Home', item: BASE_URL },
-            { '@type': 'ListItem', position: 2, name: drummer.name, item: `${BASE_URL}/${drummerSlug}` },
-            { '@type': 'ListItem', position: 3, name: categoryLabel, item: `${BASE_URL}/drummer/${drummerSlug}/${category}` },
-          ],
+          '@type': 'CollectionPage',
+          name: `${drummer.name} ${categoryLabel}`,
+          description: `Complete ${categoryLabel.toLowerCase()} gear for ${drummer.name} (${drummer.band})`,
+          url: `${BASE_URL}/drummer/${drummerSlug}/${category}`,
+          publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
         }),
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: drummer.name, url: `${BASE_URL}/drummer/${drummerSlug}` },
+          { name: categoryLabel, url: `${BASE_URL}/drummer/${drummerSlug}/${category}` },
+        ],
       };
     }
   }

@@ -2377,6 +2377,56 @@ function getMetaForPath(pathname) {
           { name: 'Drummers', url: `${BASE_URL}/drummers` },
           { name: drummer.name, url: `${BASE_URL}/drummer/${slug}` },
         ],
+        articleSchema: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@graph': [
+            {
+              '@type': 'Person',
+              name: drummer.name,
+              jobTitle: 'Drummer',
+              url: `${BASE_URL}/drummer/${slug}`,
+              image: `${BASE_URL}/api/card/${slug}?format=twitter`,
+              ...(drummer.band ? { memberOf: { '@type': 'MusicGroup', name: drummer.band } } : {}),
+              sameAs: [
+                `https://en.wikipedia.org/wiki/${encodeURIComponent(drummer.name.replace(/ /g, '_'))}`,
+              ],
+              knowsAbout: ['Drumming', 'Metal Music', 'Percussion'],
+            },
+            {
+              '@type': 'FAQPage',
+              mainEntity: [
+                {
+                  '@type': 'Question',
+                  name: `What drum kit does ${drummer.name} play?`,
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: brands.length > 0
+                      ? `${drummer.name} plays a ${brands.join(' and ')} drum kit. See the full gear setup on MetalForge.`
+                      : `${drummer.name} plays a professional drum kit. See the full gear setup on MetalForge.`,
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: `What cymbals does ${drummer.name} use?`,
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: `${drummer.name}'s cymbal setup includes gear from their complete MetalForge profile.`,
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: `What band is ${drummer.name} in?`,
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: drummer.band
+                      ? `${drummer.name} is the drummer of ${drummer.band}.`
+                      : `${drummer.name} has performed with multiple bands. See their full career history.`,
+                  },
+                },
+              ],
+            },
+          ],
+        }),
       };
     }
   }

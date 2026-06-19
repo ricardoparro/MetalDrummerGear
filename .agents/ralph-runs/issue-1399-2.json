@@ -1,0 +1,1 @@
+{"issue":1399,"status":"already-fixed","note":"ItemList + BreadcrumbList JSON-LD for /lists/<slug> already present at api/meta/[...path].js:1372-1385, shipped in PR #1537 and documented in run record #1578. All 8 TOP_10_LISTS slugs covered. Syntax check passed. No changes needed."}

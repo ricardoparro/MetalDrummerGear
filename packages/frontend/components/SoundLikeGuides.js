@@ -783,6 +783,44 @@ export function GuidePage({ theme, onBack, guideSlug, onSelectDrummer }) {
         </View>
       )}
 
+      {/* Go Deeper: Lick Hub + Album Article Cross-links */}
+      {(guide.licksUrl || (guide.relatedArticles && guide.relatedArticles.length > 0)) && (
+        <View style={[styles.relatedSection, { backgroundColor: theme.card }]}>
+          <Text style={[styles.relatedTitle, { color: theme.text }]}>Go Deeper</Text>
+
+          {guide.licksUrl && (
+            <TouchableOpacity
+              style={[styles.relatedLink, { borderColor: theme.border }]}
+              onPress={() => {
+                if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                  window.location.href = guide.licksUrl;
+                }
+              }}
+            >
+              <Text style={[styles.relatedLinkText, { color: theme.primary }]}>
+                🥁 Practice {guide.drummerName}'s Signature Licks →
+              </Text>
+            </TouchableOpacity>
+          )}
+
+          {guide.relatedArticles && guide.relatedArticles.map((article, index) => (
+            <TouchableOpacity
+              key={index}
+              style={[styles.relatedLink, { borderColor: theme.border }]}
+              onPress={() => {
+                if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                  window.location.href = `/articles/${article.slug}`;
+                }
+              }}
+            >
+              <Text style={[styles.relatedLinkText, { color: theme.primary }]}>
+                📖 {article.label} →
+              </Text>
+            </TouchableOpacity>
+          ))}
+        </View>
+      )}
+
       {/* Author & Update Info */}
       <View style={[styles.authorSection, { backgroundColor: theme.card }]}>
         <Text style={[styles.authorText, { color: theme.secondaryText }]}>

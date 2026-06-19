@@ -278,7 +278,13 @@ This guide will break down exactly how to capture Joey's sound—from his aggres
       similarDrummers: ['Jay Weinberg', 'Art Cruz', 'Chris Adler'],
       relatedGuides: ['how-to-sound-like-lars-ulrich', 'how-to-sound-like-dave-lombardo'],
       gearPages: ['/gear/pedals', '/brands/pearl', '/brands/paiste']
-    }
+    },
+    licksUrl: '/drummers/joey-jordison/licks',
+    relatedArticles: [
+      { slug: 'iowa-drum-setup', label: 'Iowa — Slipknot Drum Setup' },
+      { slug: 'whats-in-joey-jordisons-kit', label: "What's In Joey Jordison's Kit?" },
+      { slug: 'joey-jordison-drum-setup', label: 'Joey Jordison Drum Setup' }
+    ]
   },
 
   'how-to-sound-like-danny-carey': {
@@ -535,7 +541,13 @@ But don't let the complexity fool you—Danny's playing always serves the music.
       similarDrummers: ['Mike Portnoy', 'Gavin Harrison', 'Matt Garstka'],
       relatedGuides: ['how-to-sound-like-tomas-haake', 'how-to-sound-like-brann-dailor'],
       gearPages: ['/gear/drums', '/brands/sonor', '/brands/paiste']
-    }
+    },
+    licksUrl: '/drummers/danny-carey/licks',
+    relatedArticles: [
+      { slug: 'whats-in-danny-careys-kit', label: "What's In Danny Carey's Kit?" },
+      { slug: 'lateralus-drum-setup', label: 'Lateralus — Tool Drum Setup' },
+      { slug: 'fear-inoculum-drum-setup', label: 'Fear Inoculum — Tool Drum Setup' }
+    ]
   },
 
   'how-to-sound-like-lars-ulrich': {
@@ -781,7 +793,13 @@ This guide focuses on capturing Lars's classic sound—the aggressive attack, th
       similarDrummers: ['Dave Lombardo', 'Charlie Benante', 'Scott Travis'],
       relatedGuides: ['how-to-sound-like-dave-lombardo', 'how-to-sound-like-joey-jordison'],
       gearPages: ['/gear/drums', '/brands/tama', '/brands/zildjian']
-    }
+    },
+    licksUrl: '/drummers/lars-ulrich/licks',
+    relatedArticles: [
+      { slug: 'master-of-puppets-drum-setup', label: 'Master of Puppets — Metallica Drum Setup' },
+      { slug: 'whats-in-lars-ulrichs-kit', label: "What's In Lars Ulrich's Kit?" },
+      { slug: 'and-justice-for-all-drum-setup', label: '...And Justice for All Drum Setup' }
+    ]
   },
 
   'how-to-sound-like-dave-lombardo': {
@@ -1025,7 +1043,12 @@ What makes Dave exceptional isn't just speed—it's musicality. His playing brea
       similarDrummers: ['Lars Ulrich', 'Charlie Benante', 'Gene Hoglan'],
       relatedGuides: ['how-to-sound-like-lars-ulrich', 'how-to-sound-like-gene-hoglan'],
       gearPages: ['/gear/pedals', '/brands/tama', '/brands/paiste']
-    }
+    },
+    licksUrl: '/drummers/dave-lombardo/licks',
+    relatedArticles: [
+      { slug: 'reign-in-blood-drum-setup', label: 'Reign in Blood — Slayer Drum Setup' },
+      { slug: 'whats-in-dave-lombardos-kit', label: "What's In Dave Lombardo's Kit?" }
+    ]
   },
 
   'how-to-sound-like-mario-duplantier': {
@@ -1266,7 +1289,13 @@ Mario's approach to dynamics—from whisper-quiet tribal sections to crushing de
       similarDrummers: ['Tomas Haake', 'Matt Halpern', 'Matt Garstka'],
       relatedGuides: ['how-to-sound-like-tomas-haake', 'how-to-sound-like-matt-halpern'],
       gearPages: ['/gear/drums', '/brands/tama', '/brands/meinl']
-    }
+    },
+    licksUrl: '/drummers/mario-duplantier/licks',
+    relatedArticles: [
+      { slug: 'whats-in-mario-duplantiers-kit', label: "What's In Mario Duplantier's Kit?" },
+      { slug: 'from-mars-to-sirius-drum-setup', label: 'From Mars to Sirius — Gojira Drum Setup' },
+      { slug: 'the-way-of-all-flesh-drum-setup', label: 'The Way of All Flesh — Gojira Drum Setup' }
+    ]
   },
 
   'how-to-sound-like-tomas-haake': {
@@ -1512,7 +1541,12 @@ Mastering Tomas's style requires understanding polyrhythms at a deep level and d
       similarDrummers: ['Matt Halpern', 'Matt Garstka', 'Danny Carey'],
       relatedGuides: ['how-to-sound-like-matt-halpern', 'how-to-sound-like-danny-carey'],
       gearPages: ['/gear/pedals', '/brands/sonor', '/brands/zildjian']
-    }
+    },
+    licksUrl: '/drummers/tomas-haake/licks',
+    relatedArticles: [
+      { slug: 'whats-in-tomas-haakes-kit', label: "What's In Tomas Haake's Kit?" },
+      { slug: 'obzen-drum-setup', label: 'obZen — Meshuggah Drum Setup' }
+    ]
   },
 
   'how-to-sound-like-gene-hoglan': {
@@ -1758,7 +1792,13 @@ At 6'3" and over 250 pounds, Gene's physical presence translates to a massive dr
       similarDrummers: ['Dave Lombardo', 'Pete Sandoval', 'Derek Roddy'],
       relatedGuides: ['how-to-sound-like-dave-lombardo', 'how-to-sound-like-joey-jordison'],
       gearPages: ['/gear/drums', '/brands/tama', '/brands/zildjian']
-    }
+    },
+    licksUrl: '/drummers/gene-hoglan/licks',
+    relatedArticles: [
+      { slug: 'whats-in-gene-hoglans-kit', label: "What's In Gene Hoglan's Kit?" },
+      { slug: 'symbolic-drum-setup', label: 'Symbolic — Death Drum Setup' },
+      { slug: 'gene-hoglan-drum-setup', label: 'Gene Hoglan Drum Setup' }
+    ]
   },
 
   'how-to-sound-like-brann-dailor': {
@@ -2004,7 +2044,11 @@ This guide explores how to develop Brann's flowing style while maintaining the g
       similarDrummers: ['Danny Carey', 'Matt Garstka', 'Bill Ward'],
       relatedGuides: ['how-to-sound-like-danny-carey', 'how-to-sound-like-mario-duplantier'],
       gearPages: ['/gear/drums', '/brands/dw', '/brands/meinl']
-    }
+    },
+    licksUrl: '/drummers/brann-dailor/licks',
+    relatedArticles: [
+      { slug: 'whats-in-brann-dailors-kit', label: "What's In Brann Dailor's Kit?" }
+    ]
   },
 
   'how-to-sound-like-matt-halpern': {
@@ -2250,7 +2294,11 @@ This guide explores Matt's groove-first approach to modern progressive metal.`,
       similarDrummers: ['Tomas Haake', 'Matt Garstka', 'Chris Turner'],
       relatedGuides: ['how-to-sound-like-tomas-haake', 'how-to-sound-like-mario-duplantier'],
       gearPages: ['/gear/drums', '/brands/pearl', '/brands/meinl']
-    }
+    },
+    licksUrl: '/drummers/matt-halpern/licks',
+    relatedArticles: [
+      { slug: 'whats-in-matt-halperns-kit', label: "What's In Matt Halpern's Kit?" }
+    ]
   },
 
   'how-to-sound-like-chris-adler': {
@@ -2496,7 +2544,12 @@ This guide explores how to capture Chris's powerful groove metal style.`,
       similarDrummers: ['Art Cruz', 'Dave Lombardo', 'Vinnie Paul'],
       relatedGuides: ['how-to-sound-like-dave-lombardo', 'how-to-sound-like-joey-jordison'],
       gearPages: ['/gear/drums', '/brands/mapex', '/brands/meinl']
-    }
+    },
+    licksUrl: '/drummers/chris-adler/licks',
+    relatedArticles: [
+      { slug: 'whats-in-chris-adlers-kit', label: "What's In Chris Adler's Kit?" },
+      { slug: 'ashes-of-the-wake-drum-setup', label: 'Ashes of the Wake — Lamb of God Drum Setup' }
+    ]
   },
 };
 

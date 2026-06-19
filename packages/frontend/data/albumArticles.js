@@ -25499,6 +25499,253 @@ Blake Richardson arrived at BTBAM in 2005 as a technically gifted young drummer.
     }
   },
 
+  'arin-ilejay-drum-setup': {
+    slug: 'arin-ilejay-drum-setup',
+    articleType: 'drummer-kit',
+    drummer: 'Arin Ilejay',
+    drummerSlug: 'arin-ilejay',
+    relatedDrummerSlug: 'arin-ilejay',
+    band: 'Avenged Sevenfold',
+    bands: ['Avenged Sevenfold', 'Confide'],
+    genre: 'Heavy Metal',
+    country: 'USA',
+    isAlbumArticle: true,
+    datePublished: '2026-06-19',
+    dateModified: '2026-06-19',
+    author: 'MetalForge Editorial',
+    title: 'Arin Ilejay\'s Drum Setup — Avenged Sevenfold\'s Hail to the King Era',
+    metaTitle: 'Arin Ilejay Drum Kit & Gear Setup — Avenged Sevenfold | MetalForge',
+    description: 'Full breakdown of Arin Ilejay\'s drum setup for Avenged Sevenfold. DW Collector\'s kit, Zildjian A Custom cymbals, DW 9000 double pedal specs and pricing.',
+    keywords: ['arin ilejay drum setup', 'avenged sevenfold drummer', 'arin ilejay drum kit', 'a7x drummer gear'],
+    seoKeywords: ['arin ilejay drum setup', 'avenged sevenfold drummer', 'arin ilejay drum kit', 'a7x drummer gear', 'arin ilejay zildjian', 'arin ilejay dw drums', 'avenged sevenfold drum gear', 'hail to the king drums', 'nightmare album drums', 'avenged sevenfold drummer kit'],
+    ogImage: '/images/drummers/arin-ilejay.webp',
+    quickFacts: {
+      kit: 'DW Collector\'s Series',
+      cymbals: 'Zildjian A Custom',
+      doublePedals: 'DW 9000 Double Bass Pedal',
+      sticks: 'Vic Firth 5B',
+      bands: 'Avenged Sevenfold / Confide',
+      albumCredited: 'Hail to the King (2013) — #1 Billboard 200'
+    },
+    intro: {
+      title: 'Arin Ilejay: The Man Who Stepped Into Impossible Shoes',
+      content: `Arin Ilejay joined Avenged Sevenfold in 2011 under circumstances no drummer would envy. The band's founding drummer, Jimmy "The Rev" Sullivan, had passed away in December 2009 — one of metal's most beloved and technically gifted players, gone at 28. Dream Theater's Mike Portnoy stepped in to record the Nightmare album (2010) as a tribute performance, but was always a temporary stand-in. The permanent seat went to Ilejay, a young drummer from the post-hardcore band Confide, who was handed the task of filling The Rev's kit at arena level with Avenged Sevenfold fans watching every move.
+
+Ilejay's response was disciplined and purposeful: rather than attempt to replicate The Rev's idiosyncratic, technically labyrinthine style, he focused on power, consistency, and service to the song. This approach crystallized on Hail to the King (2013), the A7X album he actually recorded — a deliberate tribute to the band's classic heavy metal influences including Metallica, Black Sabbath, and Guns N' Roses. The album debuted at #1 on the Billboard 200 and charted at #1 in the UK, Ireland, Canada, Brazil, and Finland. Ilejay's drumming was central to that sound: driving, punchy, arena-calibrated, with the kind of authority that fills festival stages and stadium tours.
+
+His setup during this period reflected A7X's scale of operation. DW Collector's Series drums provided the high-mass shell construction that projects to the back of amphitheaters. Zildjian A Custom cymbals delivered the bright, cutting frequencies that slice through a wall of layered guitars. DW 9000 double bass pedals handled the double-kick demands of the material. The entire rig was engineered for consistency night after night across a world tour spanning arenas, festivals, and major venues.
+
+This article covers every component of Arin Ilejay's Avenged Sevenfold setup, explains how each piece contributed to Hail to the King's arena-metal sound, and examines what his gear choices reveal about the demands of playing in one of the world's most-watched metal bands.`,
+      keyPoints: [
+        'Joined Avenged Sevenfold in 2011 — replacing The Rev and Mike Portnoy in one of metal\'s most scrutinized drummer searches',
+        'Recorded Hail to the King (2013) with A7X — #1 Billboard 200, UK, Ireland, Canada, Brazil, and Finland',
+        'DW Collector\'s Series kit — arena-grade maple shells built for stadium projection and touring consistency',
+        'Zildjian A Custom cymbals — bright, cutting, the standard for mainstream heavy metal at arena scale',
+        'DW 9000 double bass pedals — smooth action for the double-kick patterns across A7X\'s catalogue',
+        'Post-hardcore technical background from Confide redeployed for heavy metal power and groove'
+      ]
+    },
+    drumKit: {
+      title: 'DW Collector\'s Series: Arena-Grade Construction',
+      brand: 'DW',
+      model: 'DW Collector\'s Series',
+      finish: 'Various finishes during A7X touring period',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum (x2 — double kick configuration for live performances)'],
+        toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom', '14" x 12" Rack Tom'],
+        floorToms: ['16" x 16" Floor Tom', '18" x 16" Floor Tom'],
+        shells: 'North American Hard Rock Maple — DW Collector\'s Series construction'
+      },
+      description: `Arin Ilejay's DW Collector's Series kit is the flagship of DW's production lineup and one of the most widely used professional kits in mainstream metal. The Collector's Series is built from North American Hard Rock Maple — a tonewood chosen for its combination of attack, projection, and tonal clarity that serves arena-scale metal better than smaller studio kits with tighter shell specs.
+
+The double bass drum configuration was a practical requirement for A7X's live show. Songs spanning The Rev's original contributions and Ilejay's Hail to the King material demanded double-kick capability across diverse tempos. Two 22" x 18" kick drums provided the low-frequency mass that projects across arena floors — at these shell dimensions, the fundamental bass frequency extends into the physical environment of large venues in a way that single kick with double pedal cannot replicate at full stage volume.
+
+DW's shell construction method on the Collector's series uses precise bearing edges — the contact point between the shell and drumhead — machined to tolerances that determine the drum's tuning range and resonance characteristics. Ilejay's style on Hail to the King prioritized punch over sustain: tight tuning, focused low-end, drums that attack on each stroke rather than bloom into sustained resonance. The Collector's construction supports this approach because the bearing edges are specified to maximize fundamental frequency response while controlling ring.
+
+The tom configuration spread across three rack toms and two floor toms gave Ilejay sufficient range for A7X's expansive arrangements — from the galloping rhythms of Hail to the King's title track to the classic heavy metal fills on This Means War and Shepherd of Fire. The wide tom spread matched the visual scale expected of arena metal at A7X's level.`,
+      notes: [
+        'DW Collector\'s Series — flagship production maple kit, standard for arena-scale heavy metal',
+        'Double 22" x 18" bass drums — sub-bass projection for festival and arena environments',
+        'Five-tom spread matching A7X\'s arena-scale visual and sonic requirements',
+        'Maple construction prioritizes attack and fundamental punch — ideal for Hail to the King\'s classic metal approach'
+      ],
+      estimatedValue: '$4,500–8,000 (DW Collector\'s Series shell pack with hardware)'
+    },
+    snare: {
+      title: 'Snare: The Crack That Anchors Classic Heavy Metal',
+      brand: 'DW',
+      model: 'DW Collector\'s or Edge Series Snare',
+      size: '14" x 6.5"',
+      shell: 'Maple or Steel',
+      description: `The snare sound on Hail to the King is unmistakably direct — a dry, authoritative crack that anchors each track's groove without the progressive complexity of The Rev's snare orchestration. Ilejay's snare choice reflected the album's classic metal mandate: power, definition, and the kind of reliable attack that translates from a studio recording to a 20,000-seat arena.
+
+DW Collector's and Edge series snares in the 14" x 6.5" size range provide the mid-depth body that balances attack and sustained crack — not as shallow as a 5" snare (which produces a more cutting but thinner sound), not as deep as a 7" or 8" drum (which produces more body but slower attack). The 6.5" configuration sits in the sweet spot for mainstream metal: enough depth for authority, enough shallowness for attack speed across fast sections.
+
+A7X's production on Hail to the King — handled in part by Mike Elizondo — prioritized the natural snare sound over heavy processing, leaning toward the kind of live-sounding drum capture that the album's classic metal references demanded. The snare was tuned for moderate tension: enough for crack and definition, not so high that it lost body in the lower registers. This tuning choice shaped the feel of the entire album — the snare locks with the guitars' mid-frequency density rather than sitting above it.`,
+      tuningSetting: 'Medium tension for power and cut in heavy metal guitar environments',
+      heads: 'Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$350–700 (DW Collector\'s snare, depending on shell material)'
+    },
+    cymbals: {
+      title: 'Zildjian A Custom: The Standard for Mainstream Heavy Metal',
+      brand: 'Zildjian',
+      series: 'Zildjian A Custom',
+      setup: [
+        { type: 'Hi-Hats', model: 'Zildjian A Custom 14" Hi-Hats', position: 'Left side', notes: 'Bright, cutting response suited for fast patterns in heavy metal contexts' },
+        { type: 'Crash', model: 'Zildjian A Custom 16" Crash', position: 'Left of hi-hats', notes: 'Fast, explosive attack for accents and section transitions' },
+        { type: 'Crash', model: 'Zildjian A Custom 18" Crash', position: 'Right of toms', notes: 'Fuller crash for major accents and structural moments' },
+        { type: 'Crash', model: 'Zildjian A Custom 19" Crash', position: 'Far right stack position', notes: 'Large crash for climactic accents in arena-scale arrangements' },
+        { type: 'Ride', model: 'Zildjian A Custom 20" Ping Ride', position: 'Center right', notes: 'Clear bell and bright stick definition for ride patterns' },
+        { type: 'China', model: 'Zildjian A Custom China', position: 'Above rack toms', notes: 'Trashy, aggressive accents for heavy riff punctuation' }
+      ],
+      description: `Arin Ilejay's Zildjian A Custom setup is calibrated for the specific sonic demands of arena-scale heavy metal — cymbals that project across large environments, cut through the frequency-dense mix of A7X's layered guitar arrangements, and respond consistently under the kind of high-volume, extended-performance conditions that define world-touring metal.
+
+The A Custom series is manufactured from Zildjian's proprietary B20 bronze alloy using a computer-guided lathing process that produces a bright, consistent voice across the full surface area. For a drummer playing at A7X's volume level — in venues where stage volume is measured against PA systems reinforcing 15,000+ people — cymbal projection and consistency are not aesthetic preferences but functional requirements. The A Custom delivers both: a cutting attack that remains audible above guitar frequencies, and a decay profile that closes quickly enough to allow rapid successive accents without wash buildup.
+
+The hi-hat choice is critical in A7X's rhythmic context. Ilejay's playing on Hail to the King uses hi-hat articulation as a primary rhythmic driver — the classic metal approach of riding the open hi-hat through guitar riff cycles and closing on the two and four. The A Custom 14" hi-hats provide the cutting quarter-note and eighth-note articulation this approach requires, with enough brightness to project even in open position at stage volume.
+
+Multiple crash configurations allowed Ilejay to match the dynamic scale of A7X's arrangements. The 16" for quick accents in fast passages, the 18" for section endings, the 19" for the climactic moments of songs like Shepherd of Fire and Hail to the King where the entire band swells to maximum intensity.`,
+      estimatedValue: '$1,500–2,500 (full Zildjian A Custom setup)'
+    },
+    hardware: {
+      title: 'DW 9000: Consistent Double Kick Across 200+ Shows Per Year',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'DW',
+          model: 'DW 9000 Double Bass Pedal',
+          notes: 'Touring-grade double pedal with smooth cam action for consistent double-kick across extended world tour schedules',
+          description: 'The DW 9000 double bass pedal was the hardware backbone of Ilejay\'s A7X setup. On a world tour spanning two years and hundreds of shows, hardware consistency is as important as initial performance feel — a pedal that degrades across the course of a tour introduces timing inconsistencies that compound across a 90-minute set. DW\'s 9000 series is engineered for this level of touring demand: the components are interchangeable, the cam system is replaceable in the field, and the spring tension remains consistent across temperature and humidity extremes. The smooth cam action suited Ilejay\'s style — not the click-heavy direct drive approach of extreme metal specialists, but a fluid, responsive feel that supported Hail to the King\'s classic heavy metal double-kick patterns at tempos in the 100–180 BPM range.'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth 5B',
+          notes: 'Heavier than 5A for power at arena volume; balanced for both rim shots and cymbal work',
+          description: 'Vic Firth 5B sticks provided the combination of weight and balance suited to Ilejay\'s hard-hitting arena style. In A7X\'s live context — playing at the volume level required to project over a full PA system in arenas — heavier sticks drive through cymbal and head material more effectively than lighter models. The 5B\'s larger diameter compared to 5A also provides better rim-shot definition, essential for the powerful backbeat snare sound that anchors Hail to the King\'s classic metal grooves.'
+        },
+        {
+          type: 'Drumheads (Bass, Batter)',
+          brand: 'Remo',
+          model: 'Remo Powerstroke 3',
+          notes: 'Focused attack zone for kick drum definition in dense heavy metal mixes'
+        },
+        {
+          type: 'Drumheads (Toms, Batter)',
+          brand: 'Remo',
+          model: 'Remo Emperor Coated',
+          notes: 'Two-ply durability for sustained heavy hitting across world tour conditions'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke 3 (batter), Remo Powerstroke 3 ported (resonant)',
+        toms: 'Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)',
+        snare: 'Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)'
+      }
+    },
+    playingStyle: {
+      title: 'Power, Groove, and Service to the Song',
+      content: `Arin Ilejay\'s drumming approach on Hail to the King was a deliberate philosophical statement as much as a technical performance. Avenged Sevenfold entered the sessions with a specific goal: to make a classic heavy metal album that paid homage to the bands that had inspired A7X's founding members — Metallica, Black Sabbath, Pantera, Guns N' Roses. The drumming needed to reflect that intention at every level.
+
+**The Classic Metal Approach:**
+Ilejay abandoned the rhythmic complexity that defined The Rev\'s A7X contributions — the irregular bar lengths, the jazz-influenced cymbal orchestration, the unexpected structural pivots — in favor of a straightforward, authoritative style rooted in the classic metal templates the album was referencing. Songs like This Means War, whose main riff openly borrowed from Metallica\'s For Whom the Bell Tolls, required drumming that supported the homage rather than complicated it. Ilejay\'s ability to play simply without sounding unambitious — to make a driving 4/4 groove at 145 BPM feel heavy and purposeful rather than generic — was the central challenge of the album.
+
+**Power and Projection:**
+The physical demands of A7X\'s live operation required a different approach than studio nuance. Playing arenas and major festivals meant Ilejay needed to project across environments where the distance between drumkit and audience could exceed 100 meters. His DW Collector\'s kit — large drums, heavy hardware, high-volume Zildjian cymbals — was configured to maximize this projection. His playing style matched the gear: authoritative strokes, consistent velocity, the kind of physical commitment that reads as powerful from the back of an amphitheater.
+
+**Double Bass Architecture:**
+Ilejay\'s double kick work on Hail to the King operates in the classic heavy metal mode — supporting galloping rhythms (Shepherd of Fire, Hail to the King title track), driving four-on-the-floor moments (This Means War\'s verse sections), and punctuating climactic moments in the arrangements. This is not extreme metal blast beat territory; it\'s the application of double bass technique within classic metal structures at tempos that prioritize feel and impact over speed records.
+
+**Internal Links:**
+For the full A7X band context and history, see [Avenged Sevenfold at MetalForge](/bands/avenged-sevenfold). For Ilejay\'s complete biography and career timeline, visit [Arin Ilejay\'s profile at MetalForge](/drummer/arin-ilejay). For comparison with DW Collector\'s Series users in the tech-prog space: [Travis Orbin at MetalForge](/drummer/travis-orbin).`,
+      keyTechniques: [
+        'Classic heavy metal groove approach — power and consistency over complexity',
+        'Arena-scale projection: heavy strokes, high-velocity dynamics, large kit configuration',
+        'Double kick supporting galloping rhythms and climactic accents in A7X\'s classic metal arrangements',
+        'Deliberate simplicity — restraint as a service to Hail to the King\'s classic metal aesthetic',
+        'Post-hardcore technical foundation from Confide redeployed for heavy metal power'
+      ]
+    },
+    gearTimeline: [
+      {
+        era: 'Confide — Post-Hardcore Foundation',
+        years: '2006–2011',
+        albums: ['Confide — Shout the Truth (2009)', 'Confide — Recover (2010)'],
+        description: 'Building technical post-hardcore chops in a demanding band context before A7X recruitment.',
+        gear: {
+          drums: 'Mid-level kit — post-hardcore working drummer setup',
+          snare: 'Standard post-hardcore snare configuration',
+          cymbals: 'Zildjian or Sabian (working touring setup)',
+          pedals: 'Double pedal for post-hardcore technical requirements'
+        },
+        notes: 'Ilejay\'s Confide tenure gave him the technical infrastructure — double kick, dynamic range, live touring experience — that made him competitive for the A7X position. Shout the Truth and Recover documented his ability to handle technically demanding post-hardcore material at a professional level.'
+      },
+      {
+        era: 'Avenged Sevenfold — Joining and World Tour',
+        years: '2011–2013',
+        albums: ['A7X touring — Nightmare era support', 'Major festival appearances: Rock in Rio, Download, etc.'],
+        description: 'Learning A7X\'s full catalogue live on the world stage. The most scrutinized drummer debut in modern metal.',
+        gear: {
+          drums: 'DW Collector\'s Series (initial A7X configuration)',
+          snare: 'DW Collector\'s snare — power and projection focus',
+          cymbals: 'Zildjian A Custom full setup',
+          pedals: 'DW 9000 double bass pedal'
+        },
+        notes: 'The 2011–2013 touring period was Ilejay\'s proving ground. Playing A7X\'s complete catalogue — including The Rev\'s complex contributions — to large audiences that knew those performances intimately required both technical command and the confidence to make the material his own. Critical reception acknowledged his competence and power, even as fans noted the stylistic shift from The Rev\'s approach.'
+      },
+      {
+        era: 'Avenged Sevenfold — Hail to the King',
+        years: '2013–2015',
+        albums: ['Hail to the King (2013, Warner Bros.) — #1 Billboard 200'],
+        description: 'The only Avenged Sevenfold studio album Arin Ilejay recorded. Classic metal approach, worldwide commercial peak.',
+        gear: {
+          drums: 'DW Collector\'s Series (full arena-configured setup)',
+          snare: 'DW Collector\'s or Edge snare — medium tension for classic metal crack',
+          cymbals: 'Zildjian A Custom — full configuration with multiple crashes',
+          pedals: 'DW 9000 double bass pedal'
+        },
+        notes: 'Hail to the King debuted at #1 in the US, UK, Ireland, Canada, Brazil, and Finland — the commercial and artistic apex of Ilejay\'s A7X tenure. The album\'s deliberate homage to classic metal icons defined his recorded contribution. He departed A7X in late 2014; the split was announced in 2015. Brooks Wackerman (Bad Religion) replaced him for the Nightmare Night and Stage era.'
+      }
+    ],
+    faq: [
+      {
+        question: 'What drum kit does Arin Ilejay use?',
+        answer: 'Arin Ilejay plays a DW Collector\'s Series drum kit. The Collector\'s Series is DW\'s flagship production lineup, built from North American Hard Rock Maple shells with precision-machined bearing edges that maximize attack and fundamental frequency response — essential for arena-scale heavy metal projection. His live A7X configuration ran double 22" x 18" bass drums (for double-kick capability across A7X\'s full catalogue), three rack toms (10", 12", 14"), and two floor toms (16", 18"). The large kit matched both the visual scale and sonic demands of Avenged Sevenfold\'s arena and festival performances. For Arin Ilejay\'s full career profile and gear details, see [Arin Ilejay at MetalForge](/drummer/arin-ilejay).'
+      },
+      {
+        question: 'What cymbals does Arin Ilejay play?',
+        answer: 'Arin Ilejay plays Zildjian A Custom cymbals. His A7X setup included Zildjian A Custom 14" hi-hats, 16" and 18" crashes, a 19" crash for major accents, a 20" Ping ride, and an A Custom China cymbal. The A Custom series — B20 bronze, computer-guided lathing — produces a bright, cutting voice that projects clearly in arena environments over A7X\'s dense guitar frequencies. Zildjian A Custom is among the most widely used cymbal series in mainstream heavy metal because of its consistency and cutting attack. For more on who plays Zildjian A Custom, see [Zildjian A Custom at MetalForge](/gear/zildjian) and [Avenged Sevenfold at MetalForge](/bands/avenged-sevenfold).'
+      },
+      {
+        question: 'What drum setup did Arin Ilejay use on Nightmare?',
+        answer: 'Arin Ilejay did not play on the Avenged Sevenfold Nightmare album (2010). The Nightmare album was recorded with Dream Theater\'s Mike Portnoy as a tribute performance following the death of founding A7X drummer Jimmy "The Rev" Sullivan in December 2009. Ilejay joined Avenged Sevenfold in 2011 as the permanent replacement, after Portnoy\'s tenure ended. The only Avenged Sevenfold studio album Arin Ilejay recorded is Hail to the King (2013). His studio setup for that album was a DW Collector\'s Series kit, Zildjian A Custom cymbals, and DW 9000 double bass pedal. For the complete A7X drummer history, see [Avenged Sevenfold at MetalForge](/bands/avenged-sevenfold).'
+      },
+      {
+        question: 'What pedals does Arin Ilejay use?',
+        answer: 'Arin Ilejay uses the DW 9000 double bass pedal. The DW 9000 is DW\'s touring-grade double kick pedal, used for its smooth cam action and field-replaceable components that maintain consistent performance across extended world tour schedules. For A7X\'s touring demands — 200+ shows per year across arenas and major festivals — hardware consistency is a practical requirement. The 9000\'s fluid response suited Ilejay\'s classic metal double-kick approach: galloping rhythms, four-on-the-floor sections, and the occasional rapid double bass passage that Hail to the King\'s arrangements required. See [Arin Ilejay\'s full profile at MetalForge](/drummer/arin-ilejay) for complete gear specs.'
+      }
+    ],
+    relatedAlbums: ['matt-greiner-complete-drum-setup', 'shannon-larkin-drum-setup'],
+    relatedDrummers: ['arin-ilejay', 'matt-greiner'],
+    relatedArticles: ['avenged-sevenfold-drums', 'heavy-metal-drum-setup'],
+    conclusion: {
+      title: 'Arin Ilejay and the Weight of the A7X Legacy',
+      content: `Arin Ilejay\'s tenure with Avenged Sevenfold represents one of the most challenging drummer transitions in modern metal history — stepping in for a founding member beloved for his idiosyncratic genius, under full public scrutiny, in one of the world\'s most-watched metal bands. His response was disciplined, purposeful, and ultimately successful on the album\'s own terms: Hail to the King reached #1 in six countries, sold globally, and delivered on its classic metal ambition.
+
+His DW Collector\'s Series setup was the right tool for the assignment: arena-calibrated, projecting, consistent across the 200+ show world tour cycle that followed the album\'s release. The Zildjian A Custom cymbals cut through A7X\'s layered guitars at stage volume. The DW 9000 double pedal supported the classic heavy metal double-kick approach the material required.
+
+The broader lesson Ilejay\'s A7X period offers is about restraint as a professional skill. In a genre that prizes complexity and technical display, choosing simplicity because the song requires it — and making that simplicity feel authoritative rather than underpowered — is its own form of mastery. Hail to the King\'s drumming is not technically complex compared to The Rev\'s legacy, but it is exactly correct for what the album needed.
+
+For drummers studying Ilejay\'s approach: the DW Collector\'s / Zildjian A Custom / DW 9000 combination is a proven arena-metal setup that delivers consistent performance across the demanding conditions of professional world touring. It is not the most specialized gear in metal, but it is among the most reliable — a reflection of the professional requirements Ilejay navigated during his four years with Avenged Sevenfold.
+
+For deeper exploration:
+- **Full drummer profile**: [Arin Ilejay at MetalForge](/drummer/arin-ilejay)
+- **Band context**: [Avenged Sevenfold at MetalForge](/bands/avenged-sevenfold) — drummer history, discography, and full A7X lineup
+- **DW Collector\'s users**: [Travis Orbin at MetalForge](/drummer/travis-orbin) — Periphery\'s DW Collector\'s specialist in a djent context
+- **Zildjian A Custom**: [Gear guide — Zildjian at MetalForge](/gear/zildjian) — who plays what and why`
+    }
+  },
+
   'tim-yeung-drum-setup': {
     slug: 'tim-yeung-drum-setup',
     articleType: 'drummer-kit',

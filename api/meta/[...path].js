@@ -916,14 +916,28 @@ function getMetaForPath(pathname) {
           image: album.ogImage || DEFAULT_IMAGE,
           articleSection: album.genre ? `${album.genre} Drumming` : 'Drummer Gear',
           keywords,
-          about: album.relatedDrummerSlug ? [
-            {
-              '@type': 'Person',
-              name: album.drummer || album.relatedDrummerSlug,
-              url: `${BASE_URL}/drummer/${album.relatedDrummerSlug}`,
-              sameAs: `https://en.wikipedia.org/wiki/${encodeURIComponent((album.drummer || '').replace(/ /g, '_'))}`,
-            },
-          ] : undefined,
+          about: (() => {
+            const entities = [];
+            if (album.relatedDrummerSlug) {
+              entities.push({
+                '@type': 'Person',
+                name: album.drummer || album.relatedDrummerSlug,
+                url: `${BASE_URL}/drummer/${album.relatedDrummerSlug}`,
+                sameAs: `https://en.wikipedia.org/wiki/${encodeURIComponent((album.drummer || '').replace(/ /g, '_'))}`,
+              });
+            }
+            if (album.albumTitle) {
+              const bandName = album.artist || album.band;
+              if (bandName) {
+                entities.push({
+                  '@type': 'MusicAlbum',
+                  name: album.albumTitle,
+                  byArtist: { '@type': 'MusicGroup', name: bandName },
+                });
+              }
+            }
+            return entities.length > 0 ? entities : undefined;
+          })(),
           mentions: album.band ? [{ '@type': 'MusicGroup', name: album.band }] : undefined,
         },
         breadcrumbSchema: [

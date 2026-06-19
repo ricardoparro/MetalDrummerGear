@@ -26824,7 +26824,7 @@ For deeper exploration:
 - **Double bass technique**: [Escapist lick breakdown — Oceans Ate Alaska](/drummers/chris-turner/licks/chris-turner-escapist-double-bass)
 - **Blast technique**: [Blast-beat technique at MetalForge](/technique/blast-beat)`
     }
-  }
+  },
 
   'daniel-erlandsson-drum-setup': {
     slug: 'daniel-erlandsson-drum-setup',

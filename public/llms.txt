@@ -11,6 +11,7 @@
 - [All Drummers](/llms/drummers/): 63 per-drummer gear, bio, FAQ profiles
 - [Gear Guide](/llms/gear-guide.md): Drum brands and equipment overview
 - [Gear by Brand](/llms/gear-by-brand.md): Brand → drummer mapping
+- [Endorsements Database](/llms/endorsements.md): Cross-brand endorsement index for 15 metal drummers
 - [FAQ](/llms/faq.md): Frequently asked questions about metal drummer gear
 
 ## Signature Licks (100% coverage — 63 drummers)
@@ -42,6 +43,17 @@
 ## Tools
 
 - [Tools Guide](/llms/tools/): MetalForge drummer tools description
+
+## Brands
+
+- [Tama Drums — Endorsers](/llms/brands/tama.md): 17 metal drummer endorsers, Starclassic Maple/Bubinga, Iron Cobra pedals
+- [Pearl Drums — Endorsers](/llms/brands/pearl.md): 18 metal drummer endorsers, Reference/Masterworks series, Demon Drive pedals
+- [DW Drums — Endorsers](/llms/brands/dw.md): Collectors Series, 9000 series pedals, 19+ hardware endorsers
+- [Ludwig Drums — Endorsers](/llms/brands/ludwig.md): Classic Maple, Supraphonic snare, Bill Ward / Art Cruz
+- [Mapex Drums — Endorsers](/llms/brands/mapex.md): Saturn V, Black Panther Design Lab, Chris Adler / Jason Bittner
+- [Meinl Cymbals — Endorsers](/llms/brands/meinl.md): 10 metal drummer endorsers, Byzance Dark/Extra Dry series
+- [Zildjian Cymbals — Endorsers](/llms/brands/zildjian.md): 20 metal drummer endorsers, A Custom/K/K Custom series
+- [Paiste Cymbals — Endorsers](/llms/brands/paiste.md): 14 metal drummer endorsers, RUDE/2002/Giant Beat/Signature series
 
 ## Optional
 

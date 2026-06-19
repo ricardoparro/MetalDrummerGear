@@ -31,6 +31,8 @@ import { DRUMMER_EVOLUTION } from '../../packages/frontend/data/drummerEvolution
 import { CURATED_MATCHUPS } from '../../packages/frontend/data/battles.js';
 // Issue #1474: /drummers/<slug>/signature/<gearSlug> pages — Product + BreadcrumbList JSON-LD.
 import { SIGNATURE_GEAR } from '../../packages/frontend/data/signatureGear.js';
+// Issue #1522: Quotation + ItemList JSON-LD for /quotes page.
+import { getAllQuotes } from '../quotes-data.js';
 
 const BASE_URL = 'https://metalforge.io';
 const SITE_NAME = 'MetalForge';
@@ -2082,13 +2084,44 @@ function getMetaForPath(pathname) {
   }
 
   // Issue #1407: /quotes hub page
+  // Issue #1522: Quotation + ItemList JSON-LD for AI citation surface
   if (path === '/quotes') {
+    const allQuotes = getAllQuotes();
+    // Top 5 most notable drummers — one representative quote each
+    const featured = [4, 2, 1, 3, 5]
+      .map(dId => allQuotes.find(q => q.drummer.id === dId))
+      .filter(Boolean)
+      .slice(0, 5);
     return {
       title: `Metal Drummer Quotes — Insights on Gear & Technique | ${SITE_NAME}`,
       description: "Memorable quotes from the world's greatest metal drummers on gear, technique, and the craft. From Lars Ulrich, Joey Jordison, Tomas Haake, and 60+ legends.",
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/quotes`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'WebPage',
+        name: 'Metal Drummer Quotes',
+        description: 'Memorable quotes from legendary metal drummers on technique, gear, and philosophy.',
+        url: `${BASE_URL}/quotes`,
+        mainEntity: {
+          '@type': 'ItemList',
+          name: 'Metal Drummer Quotes',
+          itemListElement: featured.map((q, i) => ({
+            '@type': 'ListItem',
+            position: i + 1,
+            item: {
+              '@type': 'Quotation',
+              text: q.text,
+              spokenByCharacter: {
+                '@type': 'Person',
+                name: q.drummer.name,
+                url: `${BASE_URL}/drummer/${q.drummer.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')}`,
+              },
+            },
+          })),
+        },
+      }),
     };
   }
 

@@ -612,6 +612,28 @@ function getMetaForPath(pathname) {
     }
   }
 
+  // Individual gear comparison pages (tama-vs-pearl, meinl-vs-zildjian, etc.)
+  const gearCompareMatch = path.match(/^\/compare\/([a-z0-9-]+)$/);
+  if (gearCompareMatch) {
+    const slug = gearCompareMatch[1];
+    const title = slug
+      .split('-vs-')
+      .map(p => p.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' '))
+      .join(' vs ');
+    return {
+      title: `${title} — Drum Gear Comparison | ${SITE_NAME}`,
+      description: `Compare ${title} for metal drumming: specs, pro endorsements, price points, and which metal legends use each. Side-by-side gear breakdown.`,
+      image: DEFAULT_IMAGE,
+      type: 'article',
+      url: `${BASE_URL}/compare/${slug}`,
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Compare', url: `${BASE_URL}/compare` },
+        { name: title, url: `${BASE_URL}/compare/${slug}` },
+      ],
+    };
+  }
+
   // Compare page
   if (path === '/compare') {
     return {

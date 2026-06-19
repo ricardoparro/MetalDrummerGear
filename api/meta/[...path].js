@@ -456,6 +456,34 @@ function getMetaForPath(pathname) {
     }
   }
 
+  // Budget guide — $500
+  if (path === '/guides/budget-metal-drum-setup-500') {
+    return {
+      title: `Budget Metal Drum Setup Under $500 — Full Guide | ${SITE_NAME}`,
+      description: 'Complete guide to building a metal-ready drum kit for under $500. Best budget shells, cymbals, hardware, and pedals for beginner metal drummers.',
+      type: 'article',
+      url: `${BASE_URL}/guides/budget-metal-drum-setup-500`,
+    };
+  }
+  // Budget guide — $1000
+  if (path === '/guides/budget-metal-drum-setup-1000') {
+    return {
+      title: `Best Metal Drum Setup Under $1000 — Buyer's Guide | ${SITE_NAME}`,
+      description: 'Step up your rig: best mid-range metal drum kits, cymbals, and double-kick pedals for under $1000. Gear the pros recommend for serious beginners.',
+      type: 'article',
+      url: `${BASE_URL}/guides/budget-metal-drum-setup-1000`,
+    };
+  }
+  // Budget guide — $2000
+  if (path === '/guides/budget-metal-drum-setup-2000') {
+    return {
+      title: `Best Metal Drum Setup Under $2000 — Pro-Level Picks | ${SITE_NAME}`,
+      description: 'Semi-pro metal kit for under $2000: Tama, Pearl, DW shells, Meinl/Zildjian cymbals, Iron Cobra pedals. The sweet spot before endorsement-level gear.',
+      type: 'article',
+      url: `${BASE_URL}/guides/budget-metal-drum-setup-2000`,
+    };
+  }
+
   // Beginner guide and other /guides/<slug> pages
   const guidesMatch = path.match(/^\/guides\/([a-z0-9-]+)$/);
   if (guidesMatch) {
@@ -610,6 +638,28 @@ function getMetaForPath(pathname) {
         ],
       };
     }
+  }
+
+  // Individual gear comparison pages (tama-vs-pearl, meinl-vs-zildjian, etc.)
+  const gearCompareMatch = path.match(/^\/compare\/([a-z0-9-]+)$/);
+  if (gearCompareMatch) {
+    const slug = gearCompareMatch[1];
+    const title = slug
+      .split('-vs-')
+      .map(p => p.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' '))
+      .join(' vs ');
+    return {
+      title: `${title} — Drum Gear Comparison | ${SITE_NAME}`,
+      description: `Compare ${title} for metal drumming: specs, pro endorsements, price points, and which metal legends use each. Side-by-side gear breakdown.`,
+      image: DEFAULT_IMAGE,
+      type: 'article',
+      url: `${BASE_URL}/compare/${slug}`,
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Compare', url: `${BASE_URL}/compare` },
+        { name: title, url: `${BASE_URL}/compare/${slug}` },
+      ],
+    };
   }
 
   // Compare page
@@ -789,6 +839,15 @@ function getMetaForPath(pathname) {
           image: album.ogImage || DEFAULT_IMAGE,
           articleSection: album.genre ? `${album.genre} Drumming` : 'Drummer Gear',
           keywords,
+          about: album.relatedDrummerSlug ? [
+            {
+              '@type': 'Person',
+              name: album.drummer || album.relatedDrummerSlug,
+              url: `${BASE_URL}/drummer/${album.relatedDrummerSlug}`,
+              sameAs: `https://en.wikipedia.org/wiki/${encodeURIComponent((album.drummer || '').replace(/ /g, '_'))}`,
+            },
+          ] : undefined,
+          mentions: album.band ? [{ '@type': 'MusicGroup', name: album.band }] : undefined,
         },
         breadcrumbSchema: [
           { name: 'Home', url: BASE_URL },
@@ -836,6 +895,7 @@ function getMetaForPath(pathname) {
 
   // Issue #1172: /bands/<slug> — band-specific SSR title + description
   // Issue #1307: FAQPage JSON-LD for band pages
+  // Issue #1396: MusicGroup + BreadcrumbList JSON-LD for all 19 /bands/<slug> pages
   const bandMatch = path.match(/^\/bands\/([a-z0-9-]+)$/);
   if (bandMatch) {
     const band = BAND_DATA[bandMatch[1]];
@@ -923,6 +983,51 @@ function getMetaForPath(pathname) {
         { name: 'Bands', url: `${BASE_URL}/bands` },
       ],
     };
+  }
+
+  // Issue #1408: /brands hub
+  if (path === '/brands') {
+    return {
+      title: `Metal Drum & Cymbal Brands Used by Pro Drummers | ${SITE_NAME}`,
+      description: 'Browse drum and cymbal brands used by 60+ metal legends. Tama, Pearl, DW, Zildjian, Paiste, Meinl, Sabian — see which pros endorse each brand.',
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url: `${BASE_URL}/brands`,
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Gear Brands', url: `${BASE_URL}/brands` },
+      ],
+    };
+  }
+
+  // Issue #1408: /brands/<slug> individual brand pages
+  const BRAND_META = {
+    tama: { name: 'Tama', type: 'drums' },
+    pearl: { name: 'Pearl', type: 'drums' },
+    dw: { name: 'DW (Drum Workshop)', type: 'drums' },
+    ludwig: { name: 'Ludwig', type: 'drums' },
+    zildjian: { name: 'Zildjian', type: 'cymbals' },
+    paiste: { name: 'Paiste', type: 'cymbals' },
+    meinl: { name: 'Meinl', type: 'cymbals' },
+    sabian: { name: 'Sabian', type: 'cymbals' },
+  };
+  const brandPageMatch = path.match(/^\/brands\/([a-z0-9-]+)$/);
+  if (brandPageMatch) {
+    const brand = BRAND_META[brandPageMatch[1]];
+    if (brand) {
+      return {
+        title: `${brand.name} Drums — Metal Drummers Who Use ${brand.name} | ${SITE_NAME}`,
+        description: `Which metal drummers use ${brand.name} ${brand.type}? See every pro in MetalForge's database who endorses or plays ${brand.name} gear — kit specs and prices.`,
+        image: DEFAULT_IMAGE,
+        type: 'website',
+        url: `${BASE_URL}/brands/${brandPageMatch[1]}`,
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: 'Gear Brands', url: `${BASE_URL}/brands` },
+          { name: brand.name, url: `${BASE_URL}/brands/${brandPageMatch[1]}` },
+        ],
+      };
+    }
   }
 
   // Issue #1209: /licks top-level hub
@@ -1177,6 +1282,28 @@ function getMetaForPath(pathname) {
           { name: 'Home', url: BASE_URL },
           { name: drummer.name, url: `${BASE_URL}/drummers/${slug}` },
           { name: 'Gear History', url: `${BASE_URL}/drummers/${slug}/gear-history` },
+        ],
+      };
+    }
+  }
+
+  // Issue #1411: /drummers/<slug>/endorsements — 15 endorsement pages (priority 0.85)
+  const endorsementsMatch = path.match(/^\/drummers\/([a-z0-9-]+)\/endorsements$/);
+  if (endorsementsMatch) {
+    const [, slug] = endorsementsMatch;
+    const drummer = getDrummerBySlug(slug);
+    if (drummer) {
+      return {
+        title: `${drummer.name} Endorsements & Gear Sponsors | ${SITE_NAME}`,
+        description: `Official gear endorsements for ${drummer.name} (${drummer.band}): drum brands, cymbal sponsors, stick deals, and hardware partnerships.`,
+        image: drummer.image || `${BASE_URL}/images/og/default.png`,
+        type: 'article',
+        url: `${BASE_URL}/drummers/${slug}/endorsements`,
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: 'Drummers', url: `${BASE_URL}/drummers` },
+          { name: drummer.name, url: `${BASE_URL}/drummer/${slug}` },
+          { name: 'Endorsements', url: `${BASE_URL}/drummers/${slug}/endorsements` },
         ],
       };
     }
@@ -1449,12 +1576,115 @@ function getMetaForPath(pathname) {
     const catSlug = gearCategoryMatch[1];
     const catMeta = GEAR_CATEGORY_META[catSlug];
     if (catMeta) {
+      // Issue #1427: CollectionPage + BreadcrumbList + FAQPage for gear category pages
+      const catName = catMeta.name;
+      const catUrl = `${BASE_URL}/gear/${catSlug}`;
+      const GEAR_CATEGORY_FAQ = {
+        cymbals: [
+          {
+            question: 'What are the best cymbals for metal?',
+            answer: `The most popular metal cymbals are from Zildjian (A Custom, Z Custom), Paiste (2002, Alpha), Meinl (Classics Custom, Byzance Dark), and Sabian (AAX, HH). Browse the full breakdown at ${catUrl}.`,
+          },
+          {
+            question: 'Which metal drummers use Zildjian or Meinl cymbals?',
+            answer: 'Drummers like Lars Ulrich (Metallica) and Dave Lombardo (Slayer) are known for Zildjian, while Dirk Verbeuren (Megadeth) and Marco Minnemann favour Meinl. Many pros mix brands across ride, crash, and hi-hat.',
+          },
+          {
+            question: 'What should I look for in metal cymbals?',
+            answer: 'Metal cymbals need quick response, cutting projection, and durability under heavy sticking. Look for medium-to-heavy weight crashes (16–18 inch), a loud, dry ride, and tight hi-hats. Avoid thin jazz cymbals — they crack under blast beats.',
+          },
+        ],
+        snares: [
+          {
+            question: 'What are the best snare drums for metal?',
+            answer: `Top metal snares include the Pearl Free-Floating, Ludwig Black Beauty, DW Collector's, and signature models from Tama and Mapex. See the full list at ${catUrl}.`,
+          },
+          {
+            question: 'Which metal drummers use signature snare drums?',
+            answer: "Joey Jordison (Slipknot) used a Tama signature snare, Lars Ulrich is known for a Ludwig Black Beauty, and Gene Hoglan plays a Pearl Free-Floating. Signature models are tuned for maximum crack and projection.",
+          },
+          {
+            question: 'What should I look for in a metal snare drum?',
+            answer: 'Choose a steel or aluminium shell (6.5–8 inch depth) for maximum crack and attack. Tighter tension heads (Remo Ambassador CS or Evans ST) reduce overtones for a dry, cutting snare sound essential in metal production.',
+          },
+        ],
+        drums: [
+          {
+            question: 'What are the best drum kits for metal?',
+            answer: `The most-used metal kits include Tama Starclassic, Pearl Masters, DW Collector's, and Mapex Saturn. Many pros add extra bass drums or toms. Full breakdown at ${catUrl}.`,
+          },
+          {
+            question: 'Which metal drummers use Tama or Pearl kits?',
+            answer: "Tama is favoured by drummers like Nicko McBrain (Iron Maiden) and Yoshiki (X Japan). Pearl kits are used by Gene Hoglan and Chad Smith. DW is popular across thrash and death metal.",
+          },
+          {
+            question: 'What should I look for in a metal drum kit?',
+            answer: 'Prioritise shell depth (deeper toms = more punch), a rigid hardware system, and a heavy-duty bass drum pedal mount. Birch or maple shells are common choices; avoid entry-level poplar kits for live metal performance.',
+          },
+        ],
+        pedals: [
+          {
+            question: 'What are the best bass drum pedals for metal?',
+            answer: `Top metal double pedals include the DW 9002, Tama Iron Cobra, Pearl Eliminator, and Mapex Falcon. Speed plate linkage and spring tension matter most for blast beats. Full comparison at ${catUrl}.`,
+          },
+          {
+            question: 'Which metal drummers use DW or Tama pedals?',
+            answer: "Dave Lombardo (Slayer) is known for DW 9002 double pedals. George Kollias (Nile) has used Pearl Eliminators. Many drummers choose based on footboard feel and spring response rather than brand loyalty.",
+          },
+          {
+            question: 'What should I look for in a metal bass drum pedal?',
+            answer: 'For metal and extreme speeds, look for a direct-drive or longboard cam pedal, adjustable spring tension, and a chain or direct-drive linkage. Heel-up playing favours a longer footboard; heel-toe technique suits compact boards.',
+          },
+        ],
+        sticks: [
+          {
+            question: 'What are the best drumsticks for metal?',
+            answer: `Popular metal drumstick models include Vic Firth 5B and 2B, Promark TX5BW, and Zildjian Artist Series. Hickory for durability, maple for speed. See the full breakdown at ${catUrl}.`,
+          },
+          {
+            question: 'Which metal drummers have signature drumsticks?',
+            answer: "Benny Greb, Dave Lombardo, and Lars Ulrich have signature stick lines. Most metal drummers favour heavier sticks (5B or 2B) with nylon tips for cymbal projection and wood tips for a warmer tom sound.",
+          },
+          {
+            question: 'What should I look for in metal drumsticks?',
+            answer: 'Choose hickory for durability under hard hitting; maple if you prioritise speed. Go heavier (5B, 2B) for metal to withstand rim shots and hard crashes. Nylon tips give brighter cymbal articulation; wood tips are warmer but wear faster.',
+          },
+        ],
+        hardware: [
+          {
+            question: 'What drum hardware do metal drummers use?',
+            answer: `Metal drummers rely on heavy-duty stands from Tama, Pearl, DW, and Gibraltar — double-braced legs, memory locks, and rack systems for large kit configurations. See gear used by pros at ${catUrl}.`,
+          },
+          {
+            question: 'Which metal drummers use rack systems vs traditional stands?',
+            answer: "Rack systems (Pearl DR-503, DW DWCP9000) are common in large metal setups — Gene Hoglan and Chris Adler use them for stability across multiple toms. Traditional stands work fine for smaller kits and touring.",
+          },
+          {
+            question: 'What should I look for in metal drum hardware?',
+            answer: 'Metal drumming requires double-braced stands rated for heavy use. Look for hi-hat stands with smooth action (for fast open-close work), snare stands with memory locks, and boom cymbal arms with ratchet tilters. Avoid single-braced stands — they wobble under hard hitting.',
+          },
+        ],
+      };
       return {
-        title: `Best ${catMeta.name} for Metal — What the Pros Use | ${SITE_NAME}`,
+        title: `Best ${catName} for Metal — What the Pros Use | ${SITE_NAME}`,
         description: catMeta.description,
         image: DEFAULT_IMAGE,
         type: 'website',
-        url: `${BASE_URL}/gear/${catSlug}`,
+        url: catUrl,
+        articleSchema: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'CollectionPage',
+          name: `Best ${catName} for Metal`,
+          description: catMeta.description,
+          url: catUrl,
+          publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+        }),
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: 'Gear', url: `${BASE_URL}/gear` },
+          { name: catName, url: catUrl },
+        ],
+        faqSchema: GEAR_CATEGORY_FAQ[catSlug] || [],
       };
     }
   }
@@ -1473,13 +1703,17 @@ function getMetaForPath(pathname) {
         url: `${BASE_URL}/drummer/${drummerSlug}/${category}`,
         articleSchema: JSON.stringify({
           '@context': 'https://schema.org',
-          '@type': 'BreadcrumbList',
-          itemListElement: [
-            { '@type': 'ListItem', position: 1, name: 'Home', item: BASE_URL },
-            { '@type': 'ListItem', position: 2, name: drummer.name, item: `${BASE_URL}/${drummerSlug}` },
-            { '@type': 'ListItem', position: 3, name: categoryLabel, item: `${BASE_URL}/drummer/${drummerSlug}/${category}` },
-          ],
+          '@type': 'CollectionPage',
+          name: `${drummer.name} ${categoryLabel}`,
+          description: `Complete ${categoryLabel.toLowerCase()} gear for ${drummer.name} (${drummer.band})`,
+          url: `${BASE_URL}/drummer/${drummerSlug}/${category}`,
+          publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
         }),
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: drummer.name, url: `${BASE_URL}/drummer/${drummerSlug}` },
+          { name: categoryLabel, url: `${BASE_URL}/drummer/${drummerSlug}/${category}` },
+        ],
       };
     }
   }
@@ -1492,6 +1726,50 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/history`,
+    };
+  }
+
+  // Issue #1407: /battles hub page
+  if (path === '/battles') {
+    return {
+      title: `Metal Drummer Battles — Vote for the Best | ${SITE_NAME}`,
+      description: 'Vote in head-to-head metal drummer battles. Who has the better kit? Compare setups and cast your vote for 60+ legendary drummers.',
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url: `${BASE_URL}/battles`,
+    };
+  }
+
+  // Issue #1407: /quotes hub page
+  if (path === '/quotes') {
+    return {
+      title: `Metal Drummer Quotes — Insights on Gear & Technique | ${SITE_NAME}`,
+      description: "Memorable quotes from the world's greatest metal drummers on gear, technique, and the craft. From Lars Ulrich, Joey Jordison, Tomas Haake, and 60+ legends.",
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url: `${BASE_URL}/quotes`,
+    };
+  }
+
+  // Issue #1407: /endorsement-news hub page
+  if (path === '/endorsement-news') {
+    return {
+      title: `Metal Drummer Endorsement News — Brand Deals & Sponsorships | ${SITE_NAME}`,
+      description: 'Latest endorsement deals and brand sponsorships in metal drumming. Track which drum brands are signing which metal drummers.',
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url: `${BASE_URL}/endorsement-news`,
+    };
+  }
+
+  // Issue #1407: /facts hub page
+  if (path === '/facts') {
+    return {
+      title: `Metal Drummer Quick Facts — Records, Stats & Trivia | ${SITE_NAME}`,
+      description: 'Quick facts, records, and trivia about metal drummers. Fastest blast beats, most expensive kits, career milestones, and gear stats from 60+ pros.',
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url: `${BASE_URL}/facts`,
     };
   }
 
@@ -1640,7 +1918,15 @@ ${meta.articleSchema}
   if (meta.articleSchema.keywords && meta.articleSchema.keywords.length > 0) {
     schema.keywords = meta.articleSchema.keywords.join(', ');
   }
-  
+
+  // Issue #1405: about (Person entity) and mentions (MusicGroup)
+  if (meta.articleSchema.about) {
+    schema.about = meta.articleSchema.about;
+  }
+  if (meta.articleSchema.mentions) {
+    schema.mentions = meta.articleSchema.mentions;
+  }
+
   return `
   <!-- Article Structured Data (Issue #777) -->
   <script type="application/ld+json">

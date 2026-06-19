@@ -756,6 +756,19 @@ function getMetaForPath(pathname) {
       image: `${BASE_URL}/images/og/compare-preview.png`,
       type: 'website',
       url: `${BASE_URL}/tools/compare`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        name: 'Metal Drummer Gear Comparison Tool',
+        description: 'Compare any two metal drummers gear side-by-side: kits, cymbals, pedals, sticks.',
+        url: `${BASE_URL}/tools/compare`,
+        publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+      }),
+      faqSchema: [
+        { question: 'How can I compare two metal drummers gear?', answer: 'Use MetalForge Compare Tool at /tools/compare — select any two of 60+ metal drummers to see their kits, cymbals, pedals, and hardware side-by-side with full spec breakdowns.' },
+        { question: 'Who has a bigger drum kit, Lars Ulrich or Joey Jordison?', answer: 'Compare Lars Ulrich vs Joey Jordison on MetalForge. Both use large format kits with double bass; see the complete side-by-side on /tools/compare/lars-ulrich-vs-joey-jordison.' },
+        { question: 'Which metal drummer uses more cymbals?', answer: 'Mike Portnoy and Danny Carey are known for having the largest cymbal configurations among metal drummers. Compare any two drummers cymbal setups on MetalForge.' },
+      ],
     };
   }
 
@@ -776,6 +789,11 @@ function getMetaForPath(pathname) {
           { name: 'Home', url: BASE_URL },
           { name: 'Compare Tool', url: `${BASE_URL}/tools/compare` },
           { name: `${d1.name} vs ${d2.name}`, url: `${BASE_URL}/tools/compare/${slug1}-vs-${slug2}` },
+        ],
+        faqSchema: [
+          { question: `What drum kit does ${d1.name} use?`, answer: `${d1.name} uses ${d1.gear?.drums || 'a custom drum kit'} with ${d1.gear?.cymbals || 'cymbal setup'}.` },
+          { question: `What drum kit does ${d2.name} use?`, answer: `${d2.name} uses ${d2.gear?.drums || 'a custom drum kit'} with ${d2.gear?.cymbals || 'cymbal setup'}.` },
+          { question: `Which is better, ${d1.name} or ${d2.name}?`, answer: `Both ${d1.name} (${d1.band}) and ${d2.name} (${d2.band}) are legendary metal drummers. Compare their complete gear setups on MetalForge.` },
         ],
       };
     }

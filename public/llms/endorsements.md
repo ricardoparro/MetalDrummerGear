@@ -2,9 +2,29 @@
 
 This page documents official gear endorsements for the 15 professional metal drummers catalogued in MetalForge's endorsement index.
 
-> Last Updated: 2026-06-18 · Source: https://metalforge.io
+> Last Updated: 2026-06-19 · Source: https://metalforge.io
 
 For a brand-first view of the full 63-drummer roster see [/llms/gear-by-brand.md](https://metalforge.io/llms/gear-by-brand.md).
+
+## Per-Drummer Endorsement Detail Pages
+
+Each of the 15 drummers has a dedicated endorsement page with current endorsements, signature models, endorsement history, and FAQ:
+
+- [Lars Ulrich — Brand Endorsements](https://metalforge.io/llms/endorsements/lars-ulrich.md)
+- [Joey Jordison — Brand Endorsements](https://metalforge.io/llms/endorsements/joey-jordison.md)
+- [Tomas Haake — Brand Endorsements](https://metalforge.io/llms/endorsements/tomas-haake.md)
+- [Dave Lombardo — Brand Endorsements](https://metalforge.io/llms/endorsements/dave-lombardo.md)
+- [George Kollias — Brand Endorsements](https://metalforge.io/llms/endorsements/george-kollias.md)
+- [Eloy Casagrande — Brand Endorsements](https://metalforge.io/llms/endorsements/eloy-casagrande.md)
+- [Jay Weinberg — Brand Endorsements](https://metalforge.io/llms/endorsements/jay-weinberg.md)
+- [Mike Portnoy — Brand Endorsements](https://metalforge.io/llms/endorsements/mike-portnoy.md)
+- [Danny Carey — Brand Endorsements](https://metalforge.io/llms/endorsements/danny-carey.md)
+- [Mario Duplantier — Brand Endorsements](https://metalforge.io/llms/endorsements/mario-duplantier.md)
+- [Brann Dailor — Brand Endorsements](https://metalforge.io/llms/endorsements/brann-dailor.md)
+- [Chris Adler — Brand Endorsements](https://metalforge.io/llms/endorsements/chris-adler.md)
+- [Matt Halpern — Brand Endorsements](https://metalforge.io/llms/endorsements/matt-halpern.md)
+- [Inferno — Brand Endorsements](https://metalforge.io/llms/endorsements/inferno.md)
+- [Charlie Benante — Brand Endorsements](https://metalforge.io/llms/endorsements/charlie-benante.md)
 
 ---
 

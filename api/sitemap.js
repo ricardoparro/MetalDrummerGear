@@ -505,6 +505,10 @@ export default function handler(req, res) {
     { loc: '/llms/stats.md', priority: '0.6', changefreq: 'monthly' },
     // Issue #1401: gear brand insights LLM citation surface — named drummer citations with % data.
     { loc: '/llms/gear-insights.md', priority: '0.6', changefreq: 'monthly' },
+    // Issue #1416: endorsement hub LLM citation surface — cross-brand index of 15 drummers.
+    { loc: '/llms/endorsements.md', priority: '0.6', changefreq: 'monthly' },
+    // Issue #1435: per-drummer endorsement detail pages — one file per endorsement-tracked drummer.
+    ...endorsementDrummers.map(slug => ({ loc: `/llms/endorsements/${slug}.md`, priority: '0.5', changefreq: 'monthly' })),
     // Issue #1273: tools section LLM citation surface — gear-search, dream-set-builder, kit-builder, gear-comparison, tier-list.
     { loc: '/llms/tools/gear-search.md', priority: '0.6', changefreq: 'monthly' },
     { loc: '/llms/tools/dream-set-builder.md', priority: '0.6', changefreq: 'monthly' },

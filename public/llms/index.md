@@ -31,6 +31,9 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Gear Statistics | https://metalforge.io/llms/stats.md | Brand-popularity data for 61 drummers — drums, cymbals, hardware, sticks with % breakdowns (Markdown) |
 | Gear Brand Insights | https://metalforge.io/llms/gear-insights.md | Named drummer citations with internal links for every brand — drum kit, cymbal, pedal, and stick usage percentages (Markdown) |
 | Metal Drummer Quiz | https://metalforge.io/llms/quiz.md | Personality quiz matching your style to 60+ legendary drummers (Markdown) |
+| Kit Quiz — Which Drummer Are You? | https://metalforge.io/llms/kit-quiz.md | Answer questions about playing style and gear preferences to match to one of 62 metal drummers (Markdown) |
+| Drummer Battles | https://metalforge.io/llms/battles.md | Community head-to-head vote battles between legendary metal drummers, organised by category (Markdown) |
+| Guess The Kit — Photo Quiz | https://metalforge.io/llms/guess-the-kit.md | Identify metal drummers from photos of their kits using brand and cymbal visual cues (Markdown) |
 | Tools — Gear Search | https://metalforge.io/llms/tools/gear-search.md | Find which drummers use a specific brand or model (Markdown) |
 | Tools — Dream Set Builder | https://metalforge.io/llms/tools/dream-set-builder.md | Build a custom kit from pro drummer gear (Markdown) |
 | Tools — Kit Builder | https://metalforge.io/llms/tools/kit-builder.md | Brand-first drum kit configurator (Markdown) |

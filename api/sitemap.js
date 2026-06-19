@@ -40,6 +40,10 @@ import { DRUMMER_EVOLUTION } from '../packages/frontend/data/drummerEvolution.js
 // Issue #1473: individual /battles/<slug> pages — 8 curated matchups with
 // SEO-targeted titles for "X vs Y drum kit" long-tail queries.
 import { CURATED_MATCHUPS } from '../packages/frontend/data/battles.js';
+// Issue #1514: gear brand comparison LLM Markdown files — 7 per-comparison
+// pages + hub. Sourced from the canonical data module so new comparisons
+// auto-appear in the sitemap without a manual edit.
+import { getAllGearComparisons } from '../packages/frontend/data/gearComparisons.js';
 
 // Issue #623: Content Scale Sprint - All 62 drummers now in sitemap
 const drummers = [
@@ -587,6 +591,14 @@ export default function handler(req, res) {
     ...getAllDrummerComparisonSlugs().map(slug => ({
       loc: `/llms/vs/${slug}.md`,
       priority: '0.5',
+      changefreq: 'monthly',
+    })),
+    // Issue #1514: gear brand comparison LLM Markdown files — hub + 7 per-comparison.
+    // Targets "Tama vs Pearl metal", "Meinl vs Zildjian", "best cymbal brand for metal" queries.
+    { loc: '/llms/gear-comparison.md', priority: '0.7', changefreq: 'monthly' },
+    ...getAllGearComparisons().map(c => ({
+      loc: `/llms/gear-comparison/${c.slug}.md`,
+      priority: '0.7',
       changefreq: 'monthly',
     })),
   ];

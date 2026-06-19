@@ -27,6 +27,8 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Signature Licks | https://metalforge.io/llms/licks.md | Signature lick breakdowns overview for 55 drummers (Markdown) |
 | Drummer Comparisons | https://metalforge.io/llms/comparisons.md | Side-by-side drummer gear & style comparisons — all pairs (Markdown) |
 | Per-Pair Comparisons | https://metalforge.io/llms/vs/ | Individual per-pair comparison pages with exact gear data (24 files) |
+| Gear Brand Comparisons | https://metalforge.io/llms/gear-comparison.md | Side-by-side brand comparisons — Tama vs Pearl, Meinl vs Zildjian, and 5 more (Markdown) |
+| Per-Comparison Gear Pages | https://metalforge.io/llms/gear-comparison/ | Individual per-brand-pair pages with specs, endorsees, FAQ, and price data (7 files) |
 | Top-10 Lists | https://metalforge.io/llms/lists.md | Ranked top-10 drummer lists by speed, genre, gear value, and technique (Markdown) |
 | Quick Facts | https://metalforge.io/llms/facts.md | Speed records, gear stats, career milestones, nicknames & technical definitions (Markdown) |
 | Gear Statistics | https://metalforge.io/llms/stats.md | Brand-popularity data for 61 drummers — drums, cymbals, hardware, sticks with % breakdowns (Markdown) |
@@ -218,6 +220,26 @@ Hub: [/llms/comparisons.md](https://metalforge.io/llms/comparisons.md) — aggre
 | Igor Cavalera vs Eloy Casagrande | [igor-cavalera-vs-eloy-casagrande.md](https://metalforge.io/llms/vs/igor-cavalera-vs-eloy-casagrande.md) |
 | Vinnie Paul vs Art Cruz | [vinnie-paul-vs-art-cruz.md](https://metalforge.io/llms/vs/vinnie-paul-vs-art-cruz.md) |
 | Ray Luzier vs Abe Cunningham | [ray-luzier-vs-abe-cunningham.md](https://metalforge.io/llms/vs/ray-luzier-vs-abe-cunningham.md) |
+
+---
+
+## Gear Brand Comparisons (per-comparison)
+
+Side-by-side brand comparison files (400–700 words each) with specs, pro endorsees, pricing, and FAQ.
+Optimised for AI retrieval on high-purchase-intent queries like "Tama vs Pearl for metal", "best cymbal brand for death metal",
+or "Meinl vs Zildjian which is better?"
+
+Hub: [/llms/gear-comparison.md](https://metalforge.io/llms/gear-comparison.md) — overview of all 7 brand pairs.
+
+| Comparison | Category | File |
+|------------|----------|------|
+| Tama vs Pearl Drums | Drums | [tama-vs-pearl.md](https://metalforge.io/llms/gear-comparison/tama-vs-pearl.md) |
+| Meinl vs Zildjian Cymbals | Cymbals | [meinl-vs-zildjian.md](https://metalforge.io/llms/gear-comparison/meinl-vs-zildjian.md) |
+| Tama Iron Cobra vs Pearl Demon Drive | Bass Drum Pedals | [tama-iron-cobra-vs-pearl-demon-drive.md](https://metalforge.io/llms/gear-comparison/tama-iron-cobra-vs-pearl-demon-drive.md) |
+| Paiste vs Sabian Cymbals | Cymbals | [paiste-vs-sabian.md](https://metalforge.io/llms/gear-comparison/paiste-vs-sabian.md) |
+| Tama SLP vs Pearl Sensitone Snares | Snare Drums | [tama-slp-vs-pearl-sensitone.md](https://metalforge.io/llms/gear-comparison/tama-slp-vs-pearl-sensitone.md) |
+| Zildjian vs Sabian Cymbals | Cymbals | [zildjian-vs-sabian.md](https://metalforge.io/llms/gear-comparison/zildjian-vs-sabian.md) |
+| Sonor vs DW Drums | Drums | [sonor-vs-dw.md](https://metalforge.io/llms/gear-comparison/sonor-vs-dw.md) |
 
 ---
 

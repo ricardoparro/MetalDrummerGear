@@ -25750,6 +25750,264 @@ For deeper exploration:
 - **Blast beat technique**: [Blast beat guide at MetalForge](/technique/blast-beat)
 - **Double bass technique**: [Double-bass drumming at MetalForge](/technique/double-bass-drumming)`
     }
+  },
+
+  'daray-drum-setup': {
+    slug: 'daray-drum-setup',
+    articleType: 'drummer-kit',
+    drummer: 'Daray',
+    relatedDrummerSlug: 'daray',
+    band: 'Marilyn Manson',
+    bands: ['Marilyn Manson', 'Dimmu Borgir', 'Vader', 'Vesania'],
+    genre: 'Industrial Rock',
+    country: 'Poland',
+    isAlbumArticle: true,
+    datePublished: '2026-06-19',
+    dateModified: '2026-06-19',
+    author: 'MetalForge Editorial',
+    title: 'Daray\'s Drum Setup — Marilyn Manson\'s Drummer Complete Kit Guide',
+    metaTitle: 'Daray Drum Kit & Gear Setup — Marilyn Manson Drummer | MetalForge',
+    description: 'Complete gear breakdown for Daray, Marilyn Manson\'s drummer. Full kit specs, cymbal setup, and how his industrial rock drumming style shapes Manson\'s sound. Also covers his Dimmu Borgir and Vader work.',
+    seoKeywords: ['daray drum setup', 'marilyn manson drummer', 'daray drum kit', 'marilyn manson drum gear', 'daray pearl drums', 'daray paiste cymbals', 'heaven upside down drums', 'daray drum gear'],
+    ogImage: '/images/drummers/daray.webp',
+    quickFacts: {
+      kit: 'Pearl Reference Pure',
+      cymbals: 'Paiste',
+      doublePedals: 'Pearl Demon Drive Double Pedal',
+      sticks: 'Promark 5B',
+      bands: 'Marilyn Manson / Dimmu Borgir / Vader',
+      style: 'Industrial rock / symphonic black metal crossover'
+    },
+    intro: {
+      title: 'Daray: Industrial Precision Meets Extreme Metal Technique',
+      content: `Dariusz "Daray" Brzozowski (born August 23, 1984, Warsaw, Poland) is the drummer for Marilyn Manson and one of the most technically formidable extreme metal drummers in Europe. His crossover between industrial rock's theatrical demands and extreme metal's speed requirements makes him one of the most distinctive drummers working in heavy music today.
+
+Daray's tenure with Marilyn Manson — one of the biggest mainstream rock and metal crossover acts globally — places his drumming before audiences far broader than the extreme metal niche that shaped his technique. Albums like Heaven Upside Down (2017) and Heaven Upside Down showcase a drummer who can deliver the theatrical, groove-driven performance industrial rock demands while drawing on the blast beat precision and double bass architecture he developed in extreme metal contexts.
+
+Beyond the Manson camp, Daray has maintained a parallel career in extreme metal: he has served as drummer for Dimmu Borgir, Norway's premier symphonic black metal band, and contributed a decade of recordings with Polish death metal legends Vader (2006–2016). This combination — mainstream industrial rock visibility with genuine extreme metal credibility — gives Daray a unique position in the drumming world.
+
+His gear reflects both worlds: Pearl Reference Pure drums, Paiste cymbals, and Pearl Demon Drive double bass pedals — a setup built to handle the theatrical precision of industrial rock production and the technical demands of extreme metal performance at the same time.`,
+      keyPoints: [
+        'Marilyn Manson drummer — one of the highest-TAM mainstream metal crossover acts globally',
+        'Pearl Reference Pure kit — high-resonance shells in custom black finish for theatrical visual and sonic impact',
+        'Paiste cymbals throughout — RUDE and 2002 series for aggressive attack with controlled decay',
+        'Pearl Demon Drive double bass pedal — direct drive mechanism for extreme speed and industrial groove',
+        'Dimmu Borgir work since 2008 — replacing Hellhammer, performing with full orchestra productions',
+        'Former Vader member (2006–2016) — Polish death metal credibility underpinning mainstream industrial rock role'
+      ]
+    },
+    drumKit: {
+      title: 'Pearl Reference Pure: Theatrical Precision for Industrial Rock',
+      brand: 'Pearl',
+      model: 'Pearl Reference Pure',
+      finish: 'Custom black finish',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum (x2 — double kick configuration)'],
+        toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
+        floorToms: ['16" x 14" Floor Tom', '18" x 16" Floor Tom'],
+        shells: 'All-maple Reference Pure construction'
+      },
+      description: `Daray's Pearl Reference Pure kit is the foundation of his setup across both Marilyn Manson's industrial rock productions and his extreme metal work with Dimmu Borgir and Vader. The Reference Pure series represents Pearl's all-maple construction philosophy: 100% maple shells across every component, chosen for their immediate attack response, extended sustain, and the dynamic range needed to shift between the groove-heavy industrial rock passages of Marilyn Manson's catalogue and the blast beat extremes of symphonic black metal.
+
+The custom black finish aligns with the theatrical aesthetics of both acts: Marilyn Manson's elaborate stage productions and Dimmu Borgir's corpse-paint-and-orchestra visual identity both demand equipment that reads visually at distance. The custom finish delivers that presence without compromising the sonic character Pearl's maple construction provides.
+
+The double bass configuration — two 22" x 18" kick drums — serves equally in both contexts. For Marilyn Manson's industrial grooves, the kick provides the physical impact that drives songs like "We Know Where You Fucking Live" and the Heaven Upside Down catalogue's hard-rock energy. For Dimmu Borgir's orchestral passages, the double kick provides the sub-bass anchor that grounds the symphonic arrangements. At extreme blast beat tempos, the 22" diameter delivers the depth and mass needed for the kick patterns to cut through down-tuned guitars and full orchestral arrangements.`,
+      notes: [
+        'Pearl Reference Pure — all-maple construction for immediate attack and extended sustain across industrial and extreme metal contexts',
+        'Custom black finish — theatrical visual presence matching both Marilyn Manson and Dimmu Borgir staging requirements',
+        'Double 22" x 18" bass drums — covering industrial rock groove to extreme blast beat double kick demands',
+        'Consistent setup used for studio recording and live performance across multiple acts'
+      ],
+      estimatedValue: '$4,000–7,000 (Pearl Reference Pure shell pack)'
+    },
+    snare: {
+      title: 'Snare: Brass Cut for Industrial and Black Metal Impact',
+      brand: 'Pearl',
+      model: 'Pearl Reference 14" x 5" Brass',
+      size: '14" x 5"',
+      shell: 'Brass',
+      description: `Daray's Pearl Reference brass snare is chosen for its aggressive, cutting character in both the industrial rock environment of Marilyn Manson and the extreme metal productions of Dimmu Borgir and Vader. Brass shell construction delivers a brighter, more cutting snare voice than steel or wood — a distinction that matters when the snare must project through down-tuned guitars, orchestral arrangements, and the dense sonic environment of industrial rock production.
+
+The 14" x 5" size sits between the extended-depth (6.5" and beyond) snares common in death metal and the shallower options favored in more groove-oriented genres. This proportioning gives Daray a snare that delivers both the cutting attack needed for extreme metal passages and the full, present crack needed for Marilyn Manson's heavier groove passages.
+
+In the Dimmu Borgir context specifically, the snare must pierce through not only guitar and bass but full orchestral arrangements — a requirement that puts brass construction's cutting frequency content to practical use. Daray's snare tuning prioritizes this projection without sacrificing the full-bodied crack that Marilyn Manson's production context requires.`,
+      tuningSetting: 'Medium-high for cut and projection across industrial rock and extreme metal sonic environments',
+      heads: 'Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$400–800'
+    },
+    cymbals: {
+      title: 'Paiste: Aggressive, Theatrical, Built for Both Worlds',
+      brand: 'Paiste',
+      series: 'Paiste 2002 / RUDE Series',
+      setup: [
+        { type: 'Hi-Hats', model: 'Paiste 15" Sound Edge Hi-Hats', position: 'Left side', notes: 'Fast, aggressive response — Sound Edge design prevents air lock for maximum tempo performance' },
+        { type: 'Crash', model: 'Paiste 2002 Crash', position: 'Left crash', notes: 'Classic Paiste 2002 voice — warm attack with controlled decay for industrial rock accent work' },
+        { type: 'Crash', model: 'Paiste RUDE Crash', position: 'Right crash', notes: 'Aggressive, raw voice for extreme metal passages and high-impact structural accents' },
+        { type: 'Ride', model: 'Paiste 22" RUDE Power Ride', position: 'Right', notes: 'Loud, aggressive ride with powerful bell for projection over industrial and orchestral textures' },
+        { type: 'Additional', model: 'Paiste RUDE Crash/Ride', position: 'Secondary position', notes: 'Dual crash/ride function for complex arrangements requiring multiple accent points simultaneously' }
+      ],
+      description: `Daray's Paiste cymbal setup spans two distinct Paiste families — the 2002 series and the RUDE series — chosen to cover the full dynamic range of his work across Marilyn Manson's industrial rock and Dimmu Borgir's symphonic black metal.
+
+The Paiste 2002 series represents one of the most recognizable cymbal voices in rock history: warm attack, rich harmonic content, and the kind of presence that projects clearly in both studio and live environments. For Marilyn Manson's context — songs with roots in rock dynamics and industrial groove — the 2002's character suits the music's balance between aggression and groove. The 2002's decay profile allows complex rhythmic passages to breathe between attacks.
+
+The RUDE series adds the aggressive, raw edge required for extreme metal contexts. Where the 2002 is warm and musical, the RUDE is deliberately aggressive — designed for high-volume, high-impact applications where projection and attack matter more than harmonic warmth. Daray's RUDE crashes deliver the violent, immediate character that Dimmu Borgir's symphonic arrangements require at their most extreme: the cymbals must compete with full orchestral dynamics at festival volumes. The 22" RUDE Power Ride provides the massive, sustained wash and powerful bell that both Marilyn Manson's stadium rock productions and Dimmu Borgir's orchestral live shows demand.
+
+The 15" Sound Edge hi-hats provide the fast mechanical response and air-pressure release needed for Daray's hi-hat technique at extreme blast beat tempos — the Sound Edge design's perforated lower bow prevents the air-locking that standard hi-hats experience at high closure speeds.`,
+      estimatedValue: '$1,800–3,000 (full Paiste setup)'
+    },
+    hardware: {
+      title: 'Pearl Demon Drive: Direct Drive for Industrial and Extreme Speed',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'Pearl',
+          model: 'Pearl Demon Drive Double Bass Pedal',
+          notes: 'Direct drive mechanism — eliminates chain lag for consistent response from industrial grooves to extreme blast beat double kick',
+          description: "The Pearl Demon Drive is Daray's primary double bass pedal, and its engineering rationale spans his Marilyn Manson and extreme metal work equally. The Demon Drive's direct drive mechanism — a rigid connection between the footboard and the cam — eliminates the energy loss and lag inherent in chain-driven pedals. At the extreme tempos Daray sustains in Dimmu Borgir and Vader contexts, this directness compounds: 200+ BPM double kick patterns require the beater to respond instantly to foot movement, with no delay introduced by chain flex or stretch. For Marilyn Manson's industrial groove passages, the same directness provides the precise, locked-in feel that studio production and live theatrical performance demand. See [double-bass drumming technique at MetalForge](/technique/double-bass-drumming) for setup and practice methodology."
+        },
+        {
+          type: 'Sticks',
+          brand: 'Promark',
+          model: 'Promark 5B',
+          notes: 'Heavier 5B profile for industrial rock power demands and extreme metal durability',
+          description: "Promark 5B sticks provide the weight and durability that both Marilyn Manson's hard-hitting industrial rock and Dimmu Borgir's extreme metal require. The 5B's larger diameter compared to 5A models drives through cymbals and heads with authority across extended live sets — a practical requirement when performances span both groove-driven rock passages and blast beat extremes within the same night."
+        },
+        {
+          type: 'Drumheads (Bass, Batter)',
+          brand: 'Remo',
+          model: 'Remo Emperor',
+          notes: 'Two-ply durability for the heavy double kick demands of industrial rock and extreme metal'
+        },
+        {
+          type: 'Drumheads (Toms, Batter)',
+          brand: 'Remo',
+          model: 'Remo Ambassador Coated',
+          notes: 'Single-ply for open tom resonance; coated for controlled attack'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Emperor (batter), Remo Powerstroke 3 ported (resonant)',
+        toms: 'Remo Ambassador Coated (batter), Remo Ambassador Clear (resonant)',
+        snare: 'Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)'
+      }
+    },
+    playingStyle: {
+      title: 'Industrial Rock Technique Meets Extreme Metal Precision',
+      content: `Daray's drumming represents a genuinely rare combination: the theatrical groove demands of industrial rock and the technical precision of extreme metal drumming, executed at the highest level in both contexts. Most drummers specialize in one lane; Daray operates across both simultaneously.
+
+**Industrial Rock Context — Marilyn Manson:**
+Marilyn Manson's music demands a drummer who understands groove as much as power. The catalogue's industrial rock DNA — syncopated patterns, mechanical precision, heavy accent placement — requires a fundamentally different musical approach than extreme metal's intensity-above-all-else philosophy. Daray's drumming for Manson locks into the groove with the mechanical precision the genre's production demands while delivering the physical impact that makes the live show work at arena scale. Songs in the Heaven Upside Down era showcase his ability to build tension through rhythmic placement rather than sheer speed — a skill extreme metal drumming doesn't always develop.
+
+**Symphonic Black Metal — Dimmu Borgir:**
+Daray replaced Hellhammer in Dimmu Borgir in 2008 — stepping into one of the most technically and theatrically demanding drummer roles in metal. Dimmu Borgir's live productions involve synchronization with full symphony orchestras, pyrotechnics, and elaborate staging that requires metronomic precision at all times. The orchestral context demands dynamic control that raw extreme metal drumming doesn't require: passages shift between blast beat extremes and orchestral accompaniment within single songs, and the drummer must bridge those worlds without disrupting the ensemble.
+
+His work on Abrahadabra (2010) and Eonian (2018) demonstrates this control: complex rhythmic patterns that serve both the extreme metal aggression Dimmu Borgir's audience expects and the dynamic range that orchestral arrangement requires. In-ear monitoring during Dimmu Borgir's live shows allows him to lock with the orchestral tracks while the stage volume of extreme metal surrounds him — a technical challenge that requires both technical discipline and gear reliability.
+
+**Death Metal Roots — Vader:**
+Daray's ten years with Vader (2006–2016) established his extreme metal technique before either the Marilyn Manson or Dimmu Borgir engagements reached their peak. Vader's death metal — direct, powerful, and technically demanding — provided the blast beat vocabulary and double bass architecture he carried into both later roles. Albums like Welcome to the Morbid Reich (2011) and Tibi et Igni (2014) document a drummer operating in pure extreme metal mode: no theatrical concessions, no orchestral dynamics, just direct death metal execution.
+
+**Gear Critical for Both Contexts:**
+- **Pearl Reference Pure**: All-maple construction for the dynamic range spanning industrial groove to extreme metal blast beats
+- **Paiste 2002 + RUDE cymbals**: 2002 series warmth for rock passages; RUDE aggression for extreme metal sections
+- **Pearl Demon Drive**: Direct drive for both industrial precision and extreme double bass tempo
+- **Pearl Reference 14" Brass snare**: Cutting frequency content for projection through orchestra and industrial production
+
+Related: [Daray full profile at MetalForge](/drummer/daray) — career and technique breakdown. For genre context: [industrial rock at MetalForge](/genre/industrial-rock) and [extreme metal gear at MetalForge](/genre/extreme-metal).`,
+      keyTechniques: [
+        'Industrial rock groove precision — locked mechanical feel for Marilyn Manson\'s production demands',
+        'Dynamic control across orchestral-to-extreme passages in Dimmu Borgir context',
+        'Pearl Demon Drive direct drive for consistent industrial and extreme tempo performance',
+        'Blast beat vocabulary from Vader death metal roots carried into symphonic and industrial contexts',
+        'In-ear monitoring discipline for orchestral synchronization in Dimmu Borgir live production'
+      ]
+    },
+    gearTimeline: [
+      {
+        era: 'Vader and Vesania',
+        years: '2003–2008',
+        albums: ['Vesania — Distractive Killusions (2007)', 'Vader — XXV (2008)'],
+        description: 'Establishing Polish extreme metal credentials. Death metal precision with Vader; black metal foundation with Vesania.',
+        gear: {
+          drums: 'Pearl kit (developing Reference Pure configuration)',
+          snare: 'Bright, aggressive tuning for death metal attack',
+          cymbals: 'Paiste early setup',
+          pedals: 'Pearl double bass pedal configuration'
+        },
+        notes: 'This period built the extreme metal technical foundation Daray carried into both the Dimmu Borgir and Marilyn Manson roles — Vader\'s demanding death metal context required the blast beat vocabulary and double bass architecture he deployed in both later engagements.'
+      },
+      {
+        era: 'Dimmu Borgir — Abrahadabra and Vader Concurrent',
+        years: '2008–2016',
+        albums: ['Dimmu Borgir — Abrahadabra (2010)', 'Vader — Welcome to the Morbid Reich (2011)', 'Vader — Tibi et Igni (2014)', 'Dimmu Borgir — Forces of the Northern Night (2017 live)'],
+        description: 'Simultaneously drumming for Dimmu Borgir and Vader — orchestral black metal and brutal death metal in parallel. Peak extreme metal period.',
+        gear: {
+          drums: 'Pearl Reference Pure (fully configured, custom black finish)',
+          snare: 'Pearl Reference 14" x 5" Brass',
+          cymbals: 'Paiste 2002 and RUDE series fully deployed',
+          pedals: 'Pearl Demon Drive double bass pedal'
+        },
+        notes: 'The concurrent Dimmu Borgir and Vader period (2008–2016) is arguably the most technically demanding stretch of Daray\'s career — symphonic orchestral black metal and brutal death metal simultaneously, both at the highest level of those genres. The gear stabilized around the Pearl Reference Pure and Paiste combination during this period and has remained consistent since.'
+      },
+      {
+        era: 'Marilyn Manson — Heaven Upside Down and Beyond',
+        years: '2016–Present',
+        albums: ['Marilyn Manson — Heaven Upside Down (2017)', 'Dimmu Borgir — Eonian (2018)'],
+        description: 'Industrial rock mainstream crossover role with Marilyn Manson alongside ongoing Dimmu Borgir work. Broadest audience reach of his career.',
+        gear: {
+          drums: 'Pearl Reference Pure (current full configuration)',
+          snare: 'Pearl Reference 14" x 5" Brass',
+          cymbals: 'Full Paiste 2002 and RUDE setup',
+          pedals: 'Pearl Demon Drive double bass pedal'
+        },
+        notes: 'The Marilyn Manson role extends Daray\'s reach from the extreme metal niche to a mainstream rock and metal crossover audience. Heaven Upside Down (2017) placed his drumming before the largest audience of his career. The gear setup remained consistent with the Dimmu Borgir period — the same Pearl Reference Pure and Paiste combination that handles symphonic black metal handles industrial rock\'s theatrical precision demands equally well.'
+      }
+    ],
+    faq: [
+      {
+        question: 'What drum kit does Daray use?',
+        answer: 'Daray plays Pearl Reference Pure drums in a custom black finish. His configuration is built around a double bass setup — two 22" x 18" kick drums for the sustained double kick demands of his Marilyn Manson and extreme metal work — with two rack toms (10" and 12") and two floor toms (16" and 18"). The Pearl Reference Pure series uses all-maple shell construction across every component, chosen for its immediate attack response and the dynamic range needed to cover both industrial rock groove and extreme metal blast beat contexts. See the [full Daray profile at MetalForge](/drummer/daray) for career details.'
+      },
+      {
+        question: 'What cymbals does Daray play?',
+        answer: 'Daray plays Paiste cymbals, drawing from both the 2002 and RUDE series. His setup includes Paiste 15" Sound Edge hi-hats, Paiste 2002 crashes, Paiste RUDE crashes, and a Paiste 22" RUDE Power Ride. The 2002 series delivers the warm, projecting character suited to Marilyn Manson\'s industrial rock context; the RUDE series adds the aggressive, raw voice required for Dimmu Borgir\'s symphonic black metal extremes. The combination covers both performance contexts without compromise. For comparison, see [industrial rock drumming at MetalForge](/genre/industrial-rock).'
+      },
+      {
+        question: 'How long has Daray been Marilyn Manson\'s drummer?',
+        answer: 'Daray has been Marilyn Manson\'s drummer since approximately 2004, with his tenure covering some of Manson\'s most commercially significant work, including the Heaven Upside Down era (2017). His career with Manson spans roughly 15 years, running parallel to his extreme metal work with Dimmu Borgir (since 2008, where he replaced the legendary Hellhammer) and his decade-long tenure with Polish death metal band Vader (2006–2016). This crossover between mainstream industrial rock and extreme metal is what makes Daray\'s drumming position unusually broad in terms of audience reach.'
+      },
+      {
+        question: 'What pedals does Daray use?',
+        answer: 'Daray uses the Pearl Demon Drive double bass pedal. The Demon Drive\'s direct drive mechanism — a rigid connection between footboard and cam, eliminating the energy loss of chain-driven systems — supports both Marilyn Manson\'s precise industrial groove work and the extreme double bass tempos of his Dimmu Borgir and Vader recordings. At blast beat tempos above 200 BPM, the direct drive\'s instant response is a practical requirement: chain lag introduces timing inconsistencies that compound across extended double-kick passages. See [double-bass drumming technique at MetalForge](/technique/double-bass-drumming) for setup guidance.'
+      },
+      {
+        question: 'What is Daray\'s connection to Dimmu Borgir?',
+        answer: 'Daray joined Dimmu Borgir in 2008, replacing the legendary Norwegian drummer Hellhammer — one of the most significant drummer replacements in black metal history. His Dimmu Borgir tenure includes studio albums Abrahadabra (2010) and Eonian (2018), and the live orchestral album Forces of the Northern Night (2017). Dimmu Borgir\'s elaborate productions — full symphony orchestras, pyrotechnics, and major festival appearances — require the metronomic precision and dynamic control that Daray developed across his Vader death metal and Marilyn Manson industrial rock work. The Dimmu Borgir role is covered in detail at [Daray\'s profile at MetalForge](/drummer/daray).'
+      }
+    ],
+    relatedAlbums: ['hellhammer-drum-setup', 'frost-satyricon-drum-setup'],
+    relatedDrummers: ['daray', 'hellhammer'],
+    relatedArticles: ['double-bass-drumming-for-metal', 'blast-beat-technique'],
+    conclusion: {
+      title: 'Daray: Where Industrial Rock Meets Extreme Metal Precision',
+      content: `Daray occupies a position few drummers can claim: genuine extreme metal credibility (Vader death metal, Dimmu Borgir symphonic black metal at the highest level) combined with mainstream industrial rock visibility through Marilyn Manson — one of the biggest metal crossover acts in global music. This combination makes him one of the more uniquely positioned drummers working today.
+
+His gear reflects the full span of that positioning:
+
+- **Pearl Reference Pure**: All-maple shells for the attack speed and dynamic range covering industrial groove to extreme blast beats
+- **Paiste 2002 + RUDE Cymbals**: 2002 warmth for rock contexts; RUDE aggression for extreme metal sections — dual-voice coverage without compromise
+- **Pearl Demon Drive**: Direct drive precision for both industrial rock's mechanical groove demands and extreme double bass tempo
+- **Pearl Reference Brass Snare**: Cutting brass frequency content for projection through orchestra, production, and industrial rock density
+
+For drummers studying Daray's approach, the lesson is breadth: a technique and gear selection flexible enough to serve Marilyn Manson's theatrical industrial rock and Dimmu Borgir's orchestral black metal without requiring separate setups or fundamental technique changes. That flexibility is built on a foundation of extreme metal technical training — the Vader years — applied outward to increasingly broad musical contexts.
+
+Study Heaven Upside Down for industrial rock groove precision and theatrical impact. Study Dimmu Borgir's Abrahadabra for the fusion of extreme blast beat technique with orchestral dynamic control. Study both together to understand how a complete modern drummer bridges mainstream and extreme metal without sacrificing credibility in either direction.
+
+For deeper exploration:
+- **Full drummer profile**: [Daray at MetalForge](/drummer/daray)
+- **Industrial rock genre context**: [Industrial rock at MetalForge](/genre/industrial-rock)
+- **Extreme metal gear cluster**: [Hellhammer drum setup](/articles/hellhammer-drum-setup)
+- **Double bass technique**: [Double-bass drumming at MetalForge](/technique/double-bass-drumming)`
+    }
   }
 
 };

@@ -5,6 +5,39 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-19 05:45 UTC*
 
 ---
+## 2026-06-19 19:31 — 5 proposals promoted (sitemap/schema sweep + Inferno Behemoth article)
+
+### Context
+Evening run. Metrics fresh 19:31 UTC: 1,363 impr / 22 clicks / 1.61% CTR / pos 8.6 (flat vs. midday — no intraday spike). Founder inbox empty. 0 PRs open. 11 untriaged seo-proposals (#1821–#1827 + #1817, #1816, #1815, #1811). Eligible ai-fix backlog: 40 entering (sparingly zone, up to 5 to reach 45 cap).
+
+### Actions taken
+- **#1821** (/articles hub sitemap.js — one-line add, zero crawl discoverability) → PROMOTE. 5★ — most atomic possible fix; CollectionPage schema exists, crawler can't find it.
+- **#1822** (/spotlights sitemap + SSR meta + CollectionPage — live page, zero SEO) → PROMOTE. 5★ — Spotlights is live content with no crawl signal; atomic 3-in-1 for one page.
+- **#1823** (/gear-by-budget sitemap + SSR meta + CollectionPage — high commercial intent) → PROMOTE. 5★ — gear-by-budget is purchase-intent gold; no SEO coverage is a real revenue leak.
+- **#1824** (/history page CollectionPage + FAQPage JSON-LD — sitemap priority 0.9, zero schema) → PROMOTE. 5★ — /history is highest-priority sitemap page without schema; FAQPage enables AI Overview eligibility.
+- **#1825** (Inferno — Behemoth 'The Satanist' drum setup article) → PROMOTE. 5★ — GSC shows Inferno/Behemoth query signals (3 impressions today); AOTY 2014 is a defensible editorial anchor; era-specific article distinct from current kit page.
+- **#1826** (Hellhammer — Mayhem 'De Mysteriis Dom Sathanas') → HOLD. 4★ — extreme niche; no GSC signal; backlog full at 45.
+- **#1827** (Vinnie Paul — Far Beyond Driven) → HOLD. 4★ — Vinnie already in #1818 gear history batch; duplicate coverage risk; revisit after #1818 ships.
+- **#1817** (evolution FAQPage JSON-LD x3) → HOLD. 4★ — continued hold from midday; backlog capped.
+- **#1816** (top-10 groove/metalcore/hardcore + LLM) → HOLD. 4★ — continued hold; revisit at <35.
+- **#1815** (/vs/ comparison pairs x5 + LLM) → HOLD. 4★ — continued hold; revisit at <35.
+- **#1811** (Matt Garstka article) → HOLD. 4★ — no GSC signal; continued hold.
+
+### State delta
+- **ai-fix eligible backlog: 40 → 45** (5 promotions — at cap)
+- **Open PRs: 0**
+- **Untriaged proposals: 11 → 6** (#1826, #1827, #1817, #1816, #1815, #1811 held)
+
+### Quota check
+✅ SEO proposals: 11/11 evaluated (5 promoted, 6 held — backlog 45, cap reached). ✅ Founder ideas: inbox empty. ✅ GSC-gap: no new content-gap queries (all impr <50); #1825 targets existing Behemoth/Inferno signals. ✅ Atomic splits: no issues >3 days old. ✅ Decisions logged.
+
+### Next Run (2026-06-20 07:00 UTC)
+1. **Morning deep run** — pull fresh GA4/GSC; check if today's promotions (#1812–#1814, #1818, #1821–#1825) have PRs opened.
+2. **#1779** (31 LLM article files) — watch for PR; largest pending batch.
+3. **#1826/#1827** — reassess Hellhammer + Far Beyond Driven if backlog drops below 35.
+4. **GSC watch** — "behemoth drum kit" / "behemoth drummer inferno" signals; #1825 should capture once shipped.
+
+---
 ## 2026-06-19 17:00 — 4 proposals promoted (Gojira, Tool, Dream Theater, Gear History batch 3)
 
 ### Context

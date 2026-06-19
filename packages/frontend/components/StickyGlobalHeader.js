@@ -101,7 +101,7 @@ export default function StickyGlobalHeader({ onNavigate, searchValue, onSearchCh
               ))}
             </View>
 
-            {/* Right slot: WishlistBadge, ThemeToggle etc. */}
+            {/* Right slot: ThemeToggle etc. */}
             {rightSlot && <View style={styles.rightSlot}>{rightSlot}</View>}
           </View>
         )}

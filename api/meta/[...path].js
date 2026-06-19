@@ -1377,11 +1377,21 @@ function getMetaForPath(pathname) {
   }
 
   // Issue #1411: /drummers/<slug>/endorsements — 15 endorsement pages (priority 0.85)
+  // Issue #1452: FAQPage JSON-LD for AI Overview eligibility
   const endorsementsMatch = path.match(/^\/drummers\/([a-z0-9-]+)\/endorsements$/);
   if (endorsementsMatch) {
     const [, slug] = endorsementsMatch;
     const drummer = getDrummerBySlug(slug);
     if (drummer) {
+      const endorsements = drummer.endorsements || [];
+      const endorsementNames = endorsements.map(e => e.name);
+      const drumsEndorsement = endorsements.find(e => /drum/i.test(e.name) && !/drumstick|drumhead/i.test(e.name));
+      const cymbalEndorsement = endorsements.find(e => /cymbal/i.test(e.name));
+      const primaryKit = drumsEndorsement ? drumsEndorsement.name : (drummer.gear?.drums || 'a custom drum kit');
+      const cymbalBrand = cymbalEndorsement ? cymbalEndorsement.name : (drummer.gear?.cymbals || 'cymbals');
+      const endorsementList = endorsementNames.length > 0
+        ? endorsementNames.join(', ')
+        : (drummer.gear ? [drummer.gear.drums, drummer.gear.cymbals].filter(Boolean).join(', ') : 'various gear brands');
       return {
         title: `${drummer.name} Endorsements & Gear Sponsors | ${SITE_NAME}`,
         description: `Official gear endorsements for ${drummer.name} (${drummer.band}): drum brands, cymbal sponsors, stick deals, and hardware partnerships.`,
@@ -1393,6 +1403,20 @@ function getMetaForPath(pathname) {
           { name: 'Drummers', url: `${BASE_URL}/drummers` },
           { name: drummer.name, url: `${BASE_URL}/drummer/${slug}` },
           { name: 'Endorsements', url: `${BASE_URL}/drummers/${slug}/endorsements` },
+        ],
+        faqSchema: [
+          {
+            question: `What brands does ${drummer.name} endorse?`,
+            answer: `${drummer.name} endorses ${endorsementList}. Visit MetalForge for the full breakdown of their gear sponsors and partnerships.`,
+          },
+          {
+            question: `What drum kit does ${drummer.name} endorse?`,
+            answer: `${drummer.name}'s main drum endorsement is ${primaryKit}. See the complete kit specs on MetalForge.`,
+          },
+          {
+            question: `Does ${drummer.name} endorse cymbals?`,
+            answer: `${drummer.name} endorses ${cymbalBrand}. Full cymbal setup and endorsement details are available on MetalForge.`,
+          },
         ],
       };
     }

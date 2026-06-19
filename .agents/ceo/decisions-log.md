@@ -5,6 +5,14 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-19 05:45 UTC*
 
 ---
+## 2026-06-19 23:23 (state-confirm — cap hold)
+- Backlog: 45 ai-fix · 0 PRs open · proposals untriaged: 14 (6 new: #1828–#1833; 8 held: #1802/#1809/#1811/#1815–#1817/#1826–#1827)
+- GA4/GSC (7d): 54 users / 72 sessions / 1,363 impr / 22 clicks / 1.61% CTR / pos 8.6
+- New proposals evaluated (quality-only, no promotions): #1828 5★ (13 shipped articles missing LLM files — promote first when cap clears), #1829–#1832 4–5★ era-article cluster (Sepultura/Morbid Angel/Cannibal Corpse/Pantera), #1833 4★ (LLM files for queue articles — sequencing concern, promote after parent articles ship)
+- Actions: none — cap hold continues. All new proposals parked as idea bank.
+- Next check: 07:00 UTC — pull fresh GSC; watch for Ralph overnight PRs on #1821–#1825 batch; promote #1828 (5★) first when backlog drops below 45
+
+---
 ## 2026-06-19 19:31 — 5 proposals promoted (sitemap/schema sweep + Inferno Behemoth article)
 
 ### Context

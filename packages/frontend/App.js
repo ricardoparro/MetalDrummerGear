@@ -2576,6 +2576,31 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
         listScript.textContent = JSON.stringify(itemListSchema);
       }
 
+      // Issue #1404: HowTo JSON-LD for how-to tutorial articles
+      if (list.articleSection === 'HowTo' && Array.isArray(list.howToSteps) && list.howToSteps.length) {
+        const howToSchema = {
+          '@context': 'https://schema.org',
+          '@type': 'HowTo',
+          name: list.title,
+          description: list.description,
+          totalTime: list.totalTime || 'PT30M',
+          step: list.howToSteps.map((s, i) => ({
+            '@type': 'HowToStep',
+            position: i + 1,
+            name: s.name,
+            text: s.text,
+          })),
+        };
+        let howToScript = document.querySelector('script[data-schema="howto"]');
+        if (!howToScript) {
+          howToScript = document.createElement('script');
+          howToScript.type = 'application/ld+json';
+          howToScript.setAttribute('data-schema', 'howto');
+          document.head.appendChild(howToScript);
+        }
+        howToScript.textContent = JSON.stringify(howToSchema);
+      }
+
       // Add Person schema for album articles (Issue #663)
       if (list.isAlbumArticle && list.drummer) {
         const personSchema = {
@@ -2621,6 +2646,9 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
       // Issue #1083: cleanup the ranked-list ItemList node.
       const itemListScript = document.querySelector('script[data-schema="top10-itemlist"]');
       if (itemListScript) itemListScript.remove();
+      // Issue #1404: cleanup HowTo schema node
+      const howToScript = document.querySelector('script[data-schema="howto"]');
+      if (howToScript) howToScript.remove();
     };
   }, [list, isAlbumArticle, drummers]);
 
@@ -2734,12 +2762,14 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
           <Text style={[styles.backButtonText, { color: theme.primary }]}>← Back to Home</Text>
         </TouchableOpacity>
 
-        {/* Article Header - handles both album and drummer-kit types */}
+        {/* Article Header - handles album, drummer-kit, and how-to types */}
         <View style={[styles.albumArticleHeader, { paddingHorizontal: 20 }]}>
           <Text style={[styles.albumArticleAlbum, { color: theme.primary }]}>
-            {list.articleType === 'drummer-kit' 
+            {list.articleType === 'drummer-kit'
               ? `${list.band || ''} • ${list.genre || 'Drummer Kit'}`
-              : `${list.artist} • ${list.albumTitle} (${list.year})`}
+              : list.articleSection === 'HowTo'
+                ? `Tutorial • ${list.genre || 'Metal Drumming'}`
+                : `${list.artist} • ${list.albumTitle} (${list.year})`}
           </Text>
           <Text style={[styles.topListPageTitle, { color: theme.text, marginTop: 8 }]}>{list.title}</Text>
           <Text style={[styles.topListPageDescription, { color: theme.secondaryText, marginTop: 12 }]}>

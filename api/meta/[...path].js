@@ -857,6 +857,50 @@ function getMetaForPath(pathname) {
       const keywords = Array.isArray(album.seoKeywords)
         ? album.seoKeywords
         : (album.seoKeywords ? [album.seoKeywords] : []);
+
+      // Issue #1404: HowTo tutorial articles — emit HowTo JSON-LD for AI Overview eligibility
+      if (album.articleSection === 'HowTo' && Array.isArray(album.howToSteps)) {
+        const howToSchema = JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'HowTo',
+          name: album.title,
+          description: album.description,
+          totalTime: album.totalTime || 'PT30M',
+          step: album.howToSteps.map((s, i) => ({
+            '@type': 'HowToStep',
+            position: i + 1,
+            name: s.name,
+            text: s.text,
+          })),
+        });
+        // Build SSR crawler-visible links to referenced drummer profiles
+        const ssrDrummerProfileLinks = Array.isArray(album.relatedDrummers)
+          ? album.relatedDrummers
+              .map(id => drummers.find(d => d.id === id))
+              .filter(Boolean)
+              .map(d => ({
+                href: `/drummer/${d.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')}`,
+                label: `${d.name} — Complete Gear Setup`,
+              }))
+          : null;
+        return {
+          title: `${album.title} | ${SITE_NAME}`,
+          description: truncate(album.description, 160),
+          image: album.ogImage || DEFAULT_IMAGE,
+          type: 'article',
+          url: `${BASE_URL}/articles/${articleSlug}`,
+          articleSchema: howToSchema,
+          breadcrumbSchema: [
+            { name: 'Home', url: BASE_URL },
+            { name: 'Articles', url: `${BASE_URL}/articles` },
+            { name: album.title, url: `${BASE_URL}/articles/${articleSlug}` },
+          ],
+          faqSchema: Array.isArray(album.faq) && album.faq.length > 0 ? album.faq : null,
+          ssrLinks: ssrDrummerProfileLinks && ssrDrummerProfileLinks.length > 0 ? ssrDrummerProfileLinks : null,
+          speakableSchema: true,
+        };
+      }
+
       return {
         title: `${album.title} | ${SITE_NAME}`,
         description: truncate(album.description, 160),

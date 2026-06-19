@@ -263,6 +263,9 @@ The fundamental approach remains similar — punchy, aggressive, and focused —
     relatedAlbums: ['reign-in-blood-drum-setup', 'ride-the-lightning-drum-setup'],
     relatedDrummers: [4, 12, 3], // Dave Lombardo, Charlie Benante, Gene Hoglan
     relatedArticles: ['thrash-metal-drummers', 'fastest-metal-drummers'],
+    relatedLicks: [
+      { drummerSlug: 'lars-ulrich', lickSlug: 'lars-ulrich-master-of-puppets-gallop', label: "Watch Lars Ulrich's 'Master of Puppets' gallop breakdown" },
+    ],
     // Conclusion
     conclusion: {
       title: 'The Legacy Lives On',
@@ -521,6 +524,10 @@ The fundamentals remain: power, speed, and the Cuban-influenced groove that made
     relatedAlbums: ['master-of-puppets-drum-setup', 'south-of-heaven-drum-setup'],
     relatedDrummers: [1, 12, 21], // Lars Ulrich, Charlie Benante, Pete Sandoval
     relatedArticles: ['thrash-metal-drummers', 'fastest-double-bass-drummers'],
+    relatedLicks: [
+      { drummerSlug: 'dave-lombardo', lickSlug: 'dave-lombardo-angel-of-death-chaos', label: "Watch Dave Lombardo's 'Angel of Death' chaos breakdown" },
+      { drummerSlug: 'dave-lombardo', lickSlug: 'dave-lombardo-raining-blood-double-bass', label: "Watch Dave Lombardo's 'Raining Blood' double bass breakdown" },
+    ],
     conclusion: {
       title: 'The Template for Extreme Metal',
       content: `Reign in Blood's drum sound became the template for extreme metal production. The combination of Lombardo's incredible performance and Rubin's stripped-down production created something that countless bands have tried to replicate.
@@ -1321,6 +1328,10 @@ Joey Jordison passed away in July 2021, leaving behind a legacy that continues t
     relatedAlbums: ['slipknot-self-titled-drum-setup', 'vol3-subliminal-verses-drum-setup'],
     relatedDrummers: [10, 6, 35], // Jay Weinberg, George Kollias, Flo Mounier
     relatedArticles: ['fastest-double-bass-drummers', 'most-brutal-drum-solos'],
+    relatedLicks: [
+      { drummerSlug: 'joey-jordison', lickSlug: 'joey-jordison-heretic-anthem-intro', label: "Watch Joey Jordison's 'The Heretic Anthem' intro breakdown" },
+      { drummerSlug: 'joey-jordison', lickSlug: 'joey-jordison-disasterpiece-chaos', label: "Watch Joey Jordison's 'Disasterpiece' chaos breakdown" },
+    ],
     conclusion: {
       title: 'The Standard for Extreme Drumming',
       content: `Iowa's drum performances set a standard for extreme metal that few have matched. Joey Jordison's combination of speed, precision, stamina, and musicality created a document of drumming that continues to inspire and intimidate drummers two decades later.
@@ -2571,6 +2582,9 @@ Tomas has participated in numerous clinic tours and educational content, helping
     relatedAlbums: ['nothing-drum-setup', 'koloss-drum-setup'],
     relatedDrummers: [14, 9, 16], // Danny Carey, Mario Duplantier, Travis Orbin
     relatedArticles: ['djent-drumming-guide', 'polyrhythm-exercises-metal'],
+    relatedLicks: [
+      { drummerSlug: 'tomas-haake', lickSlug: 'tomas-haake-bleed-groove', label: "Watch Tomas Haake's 'Bleed' double bass groove breakdown" },
+    ],
     conclusion: {
       title: 'The Pattern That Changed Everything',
       content: `obZen — and "Bleed" specifically — represents a watershed moment in metal drumming. Before obZen, polyrhythmic drumming existed in progressive and jazz contexts, but Tomas Haake demonstrated that these concepts could drive extreme metal without sacrificing groove or power.
@@ -3975,6 +3989,9 @@ Performing Painkiller-level material requires athlete-level conditioning. Travis
     relatedAlbums: ['reign-in-blood-drum-setup', 'master-of-puppets-drum-setup'],
     relatedDrummers: [4, 1, 3, 2], // Dave Lombardo, Lars Ulrich, Gene Hoglan, Joey Jordison
     relatedArticles: ['fastest-double-bass-drummers', 'thrash-metal-drummers'],
+    relatedLicks: [
+      { drummerSlug: 'scott-travis', lickSlug: 'scott-travis-painkiller', label: "Watch Scott Travis's 'Painkiller' drum intro breakdown" },
+    ],
     conclusion: {
       title: 'The Standard That Still Stands',
       content: `More than three decades after its release, "Painkiller" remains the benchmark for heavy metal drumming. Scott Travis's performance on this album didn't just showcase technical ability — it redefined what was possible in metal.
@@ -4310,6 +4327,9 @@ Danny still practices daily. He maintains his jazz chops through Volto! and othe
     relatedAlbums: ['lateralus-drum-setup', 'obzen-drum-setup'],
     relatedDrummers: [5, 15, 17], // Tomas Haake, Mario Duplantier, Mike Portnoy
     relatedArticles: ['progressive-metal-drummers', 'best-electronic-drum-pads'],
+    relatedLicks: [
+      { drummerSlug: 'danny-carey', lickSlug: 'danny-carey-pneuma-groove', label: "Watch Danny Carey's 'Pneuma' main groove breakdown" },
+    ],
     conclusion: {
       title: 'Worth the Wait',
       content: `Fear Inoculum justified 13 years of anticipation. Danny Carey's drumming — the synthesis of technical mastery, musical sensitivity, and philosophical depth — anchors an album that stands among Tool's finest achievements.
@@ -4654,6 +4674,9 @@ For progressive metal, Lateralus was a watershed moment. It proved that complexi
     relatedAlbums: ['fear-inoculum-drum-setup', 'obzen-drum-setup'],
     relatedDrummers: [5, 15, 17], // Tomas Haake, Mario Duplantier, Mike Portnoy
     relatedArticles: ['progressive-metal-drummers', 'polyrhythmic-drumming-guide'],
+    relatedLicks: [
+      { drummerSlug: 'danny-carey', lickSlug: 'danny-carey-schism-intro', label: "Watch Danny Carey's 'Schism' polyrhythm intro breakdown" },
+    ],
     conclusion: {
       title: 'The Spiral Continues',
       content: `Lateralus stands as one of the most significant drum performances in progressive metal history. Danny Carey's synthesis of technical virtuosity, mathematical concepts, world music influences, and pure musicality created something that transcended genre boundaries and influenced an entire generation of drummers.
@@ -7582,6 +7605,9 @@ From Mars to Sirius influenced countless bands and drummers. The album proved th
     relatedAlbums: ['obzen-drum-setup', 'lateralus-drum-setup', 'the-way-of-all-flesh-drum-setup'],
     relatedDrummers: [5, 14, 4], // Tomas Haake, Danny Carey, Dave Lombardo
     relatedArticles: ['progressive-metal-drummers', 'best-double-bass-drummers', 'environmental-metal'],
+    relatedLicks: [
+      { drummerSlug: 'mario-duplantier', lickSlug: 'mario-duplantier-backbone-groove', label: "Watch Mario Duplantier's 'Backbone' groove breakdown" },
+    ],
     conclusion: {
       title: 'Where Technical Meets Primal',
       content: `From Mars to Sirius didn't just establish Gojira — it created a new template for progressive death metal. Mario Duplantier's drumming on this album proves that technical proficiency and primal power aren't opposites; they're complementary forces that, when combined correctly, create something transcendent.
@@ -8831,6 +8857,9 @@ Though Adler departed Lamb of God in 2019, his playing on Ashes of the Wake rema
     relatedAlbums: ['vulgar-display-of-power-drum-setup', 'from-mars-to-sirius-drum-setup', 'iowa-drum-setup'],
     relatedDrummers: [11, 2, 15], // Vinnie Paul, Joey Jordison, Mario Duplantier
     relatedArticles: ['groove-metal-drummers', 'best-drum-pedals-for-death-metal', 'whats-in-chris-adlers-kit'],
+    relatedLicks: [
+      { drummerSlug: 'chris-adler', lickSlug: 'chris-adler-laid-to-rest-groove', label: "Watch Chris Adler's 'Laid to Rest' groove breakdown" },
+    ],
     // Conclusion
     conclusion: {
       title: 'The Groove Metal Standard',
@@ -9974,6 +10003,10 @@ Today, Pete Sandoval's influence is heard in every death metal blast beat. The t
     relatedAlbums: ['reign-in-blood-drum-setup', 'symbolic-drum-setup', 'iowa-drum-setup'],
     relatedDrummers: [3, 6, 4], // Gene Hoglan, George Kollias, Dave Lombardo
     relatedArticles: ['blast-beat-techniques', 'fastest-double-bass-drummers', 'tampa-death-metal-sound'],
+    relatedLicks: [
+      { drummerSlug: 'pete-sandoval', lickSlug: 'pete-sandoval-chapel-of-ghouls', label: "Watch Pete Sandoval's 'Chapel of Ghouls' breakdown" },
+      { drummerSlug: 'pete-sandoval', lickSlug: 'pete-sandoval-immortal-rites', label: "Watch Pete Sandoval's 'Immortal Rites' breakdown" },
+    ],
     conclusion: {
       title: 'The Foundation of Extreme',
       content: `Altars of Madness didn't just establish Morbid Angel as death metal pioneers — it created the template for extreme metal drumming that every death metal drummer has followed since. Pete Sandoval's performance on this album remains one of the most influential in heavy music history.
@@ -11414,6 +11447,10 @@ Vinnie's work as co-producer on Cowboys from Hell launched his second career as 
     relatedAlbums: ['vulgar-display-of-power-drum-setup', 'reign-in-blood-drum-setup', 'master-of-puppets-drum-setup'],
     relatedDrummers: [4, 1, 22], // Dave Lombardo, Lars Ulrich, Charlie Benante
     relatedArticles: ['whats-in-vinnie-pauls-kit', 'groove-metal-drumming', 'triggered-vs-acoustic-drums'],
+    relatedLicks: [
+      { drummerSlug: 'vinnie-paul', lickSlug: 'vinnie-paul-cowboys-from-hell-groove', label: "Watch Vinnie Paul's 'Cowboys from Hell' groove breakdown" },
+      { drummerSlug: 'vinnie-paul', lickSlug: 'vinnie-paul-domination-double-bass', label: "Watch Vinnie Paul's 'Domination' double bass breakdown" },
+    ],
     conclusion: {
       title: 'Where Groove Metal Was Born',
       content: `Cowboys from Hell's drum sound wasn't the massive, triggered production of later Pantera albums — it was something rawer and more organic. And in many ways, that makes it more remarkable. Vinnie Paul's performance on this record proves that groove and feel matter more than production tricks.
@@ -12408,6 +12445,10 @@ Nearly 30 years after "None So Vile," Cryptopsy's latest album proves Flo is sti
     relatedAlbums: ['symbolic-drum-setup', 'altars-of-madness-drum-setup', 'reign-in-blood-drum-setup'],
     relatedDrummers: [3, 6, 17], // Gene Hoglan, George Kollias, Pete Sandoval
     relatedArticles: ['whats-in-flo-mouniers-kit', 'blast-beat-techniques', 'fastest-metal-drummers'],
+    relatedLicks: [
+      { drummerSlug: 'flo-mounier', lickSlug: 'flo-mounier-phobophile-gravity-blast', label: "Watch Flo Mounier's 'Phobophile' gravity blast breakdown" },
+      { drummerSlug: 'flo-mounier', lickSlug: 'flo-mounier-slit-your-guts-blast', label: "Watch Flo Mounier's 'Slit Your Guts' blast breakdown" },
+    ],
     conclusion: {
       title: 'The Benchmark That Still Stands',
       content: `Nearly three decades after its release, "None So Vile" remains the benchmark for technical death metal drumming. Albums have been faster. Albums have been more complex. But none have combined speed, precision, and musicality quite like Flo Mounier's performance on Cryptopsy's masterpiece.

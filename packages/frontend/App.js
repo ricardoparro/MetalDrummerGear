@@ -3182,6 +3182,25 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
           </a>
         )}
 
+        {/* Related Lick Breakdowns — Issue #1585: album article → lick page cross-links */}
+        {Array.isArray(list.relatedLicks) && list.relatedLicks.length > 0 && Platform.OS === 'web' && (
+          <div style={{ margin: '0 20px 20px' }}>
+            <div style={{ fontSize: 18, fontWeight: '700', color: theme.text, marginBottom: 12 }}>Related Technique Videos</div>
+            <ul style={{ listStyle: 'none', padding: 0, margin: 0, display: 'flex', flexDirection: 'column', gap: 8 }}>
+              {list.relatedLicks.map((lick) => (
+                <li key={lick.lickSlug}>
+                  <a
+                    href={`/drummers/${lick.drummerSlug}/licks/${lick.lickSlug}`}
+                    style={{ display: 'block', padding: '12px 16px', backgroundColor: theme.card, border: `1px solid ${theme.border}`, borderRadius: 8, color: theme.primary, textDecoration: 'none', fontSize: 15, fontWeight: '600' }}
+                  >
+                    🎬 {lick.label}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+
         {/* Conclusion Section */}
         {list.conclusion && (
           <View style={[styles.articleConclusionSection, { backgroundColor: theme.card, borderColor: theme.primary }]}>

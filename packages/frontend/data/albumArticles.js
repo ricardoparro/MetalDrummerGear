@@ -22108,17 +22108,6 @@ The Atomic Clock is still running. Every click is exactly on time.
     }
   },
 
-<<<<<<< HEAD
-  'jay-weinberg-complete-drum-setup': {
-    slug: 'jay-weinberg-complete-drum-setup',
-    articleType: 'drummer-kit',
-    drummer: 'Jay Weinberg',
-    drummerId: 20,
-    relatedDrummerSlug: 'jay-weinberg',
-    band: 'Slipknot',
-    bands: ['Slipknot', 'Suicidal Tendencies', 'Against Me!', 'Madball'],
-    genre: 'Nu Metal / Extreme Metal',
-=======
   'whats-in-navene-koperweiss-kit': {
     slug: 'whats-in-navene-koperweiss-kit',
     articleType: 'drummer-kit',
@@ -22382,37 +22371,12 @@ The Entheos catalogue — from Primal through Time Will Take Us All — is one o
     band: 'Megadeth',
     bands: ['Megadeth', 'OHM'],
     genre: 'Thrash Metal',
->>>>>>> origin/main
     country: 'USA',
     isAlbumArticle: true,
     datePublished: '2026-06-19',
     dateModified: '2026-06-19',
     author: 'MetalForge Editorial',
     // SEO
-<<<<<<< HEAD
-    title: "Jay Weinberg Drum Setup — Slipknot's Complete Gear Guide",
-    description: "Jay Weinberg drum setup breakdown: SJC Custom drums, Zildjian K Custom cymbals, DW 9000 hardware, Tama SLP snare, and Vater sticks — the complete gear guide for Slipknot's masked drummer #1 across .5: The Gray Chapter, We Are Not Your Kind, and The End, So Far.",
-    seoKeywords: ['jay weinberg drum setup', 'jay weinberg drum kit', 'slipknot drummer gear', 'jay weinberg sjc drums', 'jay weinberg zildjian cymbals', 'jay weinberg sticks', 'jay weinberg kit setup 2026', 'slipknot drummer kit'],
-    ogImage: '/images/drummers/jay-weinberg.webp',
-    // Introduction
-    intro: {
-      title: "Slipknot's Masked Drummer: Jay Weinberg's Complete Setup",
-      content: `Jay Weinberg (born September 8, 1990, in Middletown Township, New Jersey) served as Slipknot's drummer from 2014 to 2023, donning the iconic mask #1 and manning the drum throne behind one of the heaviest live productions in metal. As the son of Max Weinberg — legendary drummer for Bruce Springsteen's E Street Band — Jay brought an unusual combination of hardcore punk intensity, classical technique discipline, and an encyclopedic knowledge of Joey Jordison's parts to the most demanding drum seat in nu-metal.
-
-Weinberg uses an SJC Custom Drums kit paired with Zildjian cymbals as Slipknot's drummer — a setup he developed and refined across three studio albums and years of relentless world touring with the band. His rig is a hybrid acoustic and electronic system built to deliver Slipknot's dense sample-triggered live show while maintaining the explosive, muscular live drumming feel the band demands.
-
-Before Slipknot, Weinberg built his chops in the hardcore and punk scenes — touring with Against Me!, Madball, and filling in for his father on the Springsteen Working on a Dream World Tour in 2009. That background in raw, immediate playing gave him the physical toughness that nine years with Slipknot required.
-
-This article breaks down every piece of Jay Weinberg's drum setup across his Slipknot tenure: his SJC Custom kit, Zildjian K Custom cymbal arsenal, DW 9000 hardware, Tama SLP snare, Vater sticks, and Roland electronics — and how each component served Slipknot's ferocious live and studio demands.`,
-      keyPoints: [
-        'Slipknot drummer 2014–2023 — masked drummer #1',
-        'SJC Custom Drums — custom-finished kit for Slipknot aesthetics',
-        'Zildjian K Custom cymbal series for complex, dark sound character',
-        'DW 9000 double bass pedal for extreme double-kick technique',
-        'Tama SLP snare for cutting crack through dense Slipknot production',
-        'Vater sticks — durability and control for intense live metal performance',
-        'Roland electronics integrated for Slipknot sample playback triggers'
-=======
     title: 'Nick Menza Drum Kit & Gear Setup — Megadeth Complete Guide',
     description: "Complete breakdown of Nick Menza's drum kit and gear with Megadeth. Pearl Masters kit, Zildjian cymbals, Tama Iron Cobra pedals — the full gear guide for thrash metal's most musical drummer across Rust in Peace, Countdown to Extinction, and Youthanasia.",
     seoKeywords: ['nick menza drum setup', 'nick menza drum kit', 'what drums did nick menza use', 'megadeth drummer gear', 'nick menza pearl drums', 'nick menza zildjian cymbals', 'rust in peace drum kit', 'thrash metal drum setup'],
@@ -22437,121 +22401,10 @@ This article covers Nick Menza's complete drum gear across his Megadeth career: 
         'Pedals: Tama Iron Cobra double pedal for sustained double-kick work',
         'Rust in Peace era: Tama Artstar II kit with signature snare',
         'Passed away May 2016 — legacy endures through Rust in Peace and Countdown to Extinction'
->>>>>>> origin/main
       ]
     },
     // Drum Kit Section
     drumKit: {
-<<<<<<< HEAD
-      title: "Jay's SJC Custom Drums",
-      brand: 'SJC Custom Drums',
-      model: 'SJC Custom Series',
-      finish: 'Custom Slipknot-themed finishes (black, custom wraps)',
-      config: {
-        bassdrums: ['22" x 18" Bass Drum (x2 — double kick)'],
-        toms: ['8" x 7" Rack Tom', '10" x 8" Rack Tom', '12" x 10" Rack Tom', '13" x 11" Rack Tom'],
-        floorToms: ['16" x 16" Floor Tom', '18" x 16" Floor Tom'],
-        shells: 'Maple shells, custom hardware and wrap finishes'
-      },
-      description: `Jay Weinberg's choice of SJC Custom Drums for his Slipknot tenure reflects both the boutique drum market's maturity and the specific demands of playing Slipknot material night after night. SJC (Scott Johnson Customs), based in Marlborough, Massachusetts, builds drums by hand to individual artist specifications — giving Weinberg a kit tailored exactly to his touch, tuning preferences, and the visual identity of Slipknot's live show.
-
-SJC shells are maple-based, delivering the warm, full-bodied attack that drives Slipknot's dense, low-tuned production. Maple's natural resonance gives each tom stroke and kick hit a musical character that survives the massive SPL of Slipknot arena shows without losing articulation. Custom hardware finishes match the band's iconic visual aesthetic — Weinberg's kit on stage is unmistakably Slipknot.
-
-The tom configuration mirrors the expansive six-tom setup associated with Slipknot drumming since the Jordison era. Four rack toms (8", 10", 12", 13") plus two floor toms (16", 18") give Weinberg the full melodic kit range for the flowing, orchestral fills that Slipknot's arrangements demand. Songs like "Psychosocial," "Custer," and "The Dying Song (Time to Sing)" feature tom passages that move across the entire kit range.
-
-Double bass drums — two 22" x 18" kicks — form the foundation of Weinberg's foot work. His double-kick technique was developed extensively in his hardcore touring years and refined to meet Jordison's established parts. The 22" diameter and 18" depth deliver the floor-shaking low-frequency punch Slipknot's live production requires.
-
-The custom finishes — typically black with Slipknot-appropriate graphic treatments — transform the kit into a visual component of the live show. Behind the mask, Weinberg's SJC setup is as much a stage prop as a musical instrument.`,
-      notes: [
-        'SJC Custom — boutique hand-built American drum brand',
-        'Maple shells for warm attack and musical resonance',
-        'Six-tom configuration continues Slipknot drumming tradition',
-        'Double 22" kick setup for powerful double-bass performance',
-        'Custom wrap and hardware finishes for Slipknot visual identity'
-      ],
-      estimatedValue: '$4,000–8,000 (SJC Custom shell pack)'
-    },
-    // Snare Section
-    snare: {
-      title: 'The Crack at the Core: Tama SLP Snare',
-      brand: 'Tama',
-      model: 'Tama SLP (Sound Lab Project)',
-      size: '14" x 6.5"',
-      shell: 'Varies by model — brass, steel, or wood SLP offerings',
-      description: `Jay Weinberg's snare choice — the Tama SLP (Sound Lab Project) series — gives him a high-quality, boutique-feeling instrument within a trusted production brand. The Tama SLP line was developed as Tama's premium snare collection, with each model in the series exploring a different shell material and tuning voicing: steel for cutting crack, brass for warm punch, and wood options for darker, more complex tones.
-
-For Slipknot's densely produced live and studio contexts, a SLP steel or brass model makes the most sense: both deliver the immediate attack and focused decay that a snare must have to cut through three guitars, bass, and six percussionists on the Slipknot stage. The crack must be present, defined, and unambiguous in a mix of that density.
-
-Weinberg tunes his snare for immediate attack with controlled sustain. Ghost notes — subtle left-hand strokes between heavy backbeats — are a technique Weinberg developed from his punk background, and these require a snare with enough sensitivity to register light touches cleanly without muddying the principal backbeat. The Tama SLP's floating bearing edge construction supports this dynamic range.
-
-Head selection on the SLP varies by context. Evans heads — Weinberg's endorsed brand — are the choice, typically an Evans Hybrid or Power Center batter for balanced attack and warmth, paired with a light Evans 300 Snare Side resonant head for maximum wire sensitivity.
-
-The Tama SLP's design philosophy — each shell material as a distinct sonic experiment — aligns with Weinberg's need to dial in exactly the right snare voice for Slipknot's production, whether in a studio with controlled acoustics or on a festival stage with unpredictable monitor reflections.`,
-      tuningSetting: 'Medium-high for attack and projection through Slipknot live production',
-      heads: 'Evans Hybrid or Power Center (batter), Evans 300 Snare Side (resonant)',
-      estimatedValue: '$300–600 (Tama SLP series)'
-    },
-    // Cymbals Section
-    cymbals: {
-      title: 'The Zildjian K Custom Arsenal',
-      brand: 'Zildjian',
-      series: 'Zildjian K Custom Series',
-      setup: [
-        { type: 'Hi-Hats', model: 'Zildjian K Custom 14" Hi-Hats', position: 'Left side', notes: 'Complex, dark hi-hat character for heavy patterns' },
-        { type: 'Crash', model: 'Zildjian K Custom 17" Dark Crash', position: 'Left crash', notes: 'Fast, dark response for primary accent crash' },
-        { type: 'Crash', model: 'Zildjian K Custom 19" Dark Crash', position: 'Right crash', notes: 'Fuller crash for heavier section emphasis' },
-        { type: 'Ride', model: 'Zildjian K Custom 20" Ride', position: 'Far right', notes: 'Complex wash with defined bell for heavy riding' },
-        { type: 'China', model: 'Zildjian K Custom 18" China', position: 'Over rack toms', notes: 'Aggressive accent texture for extreme passages' },
-        { type: 'Splash', model: 'Zildjian K Custom 10" Splash', position: 'Effects left', notes: 'Quick accent tool' }
-      ],
-      description: `Jay Weinberg's Zildjian K Custom cymbal setup gives him a sound profile that differs markedly from his predecessor's Sabian AAX kit. The K Custom series produces darker, more complex tones than the bright, forward AAX — a character shift that suited Weinberg's approach to the Slipknot catalog and the evolving sonic direction of We Are Not Your Kind (2019) and The End, So Far (2022).
-
-K Custom cymbals are B20 bronze alloy — 80% copper, 20% tin — with irregular hammering and a lathed surface that produces complex, warm overtones. This alloy's character is "dark first, cutting second": the fundamental tone is deeper and richer than the AAX, with the highs arriving later in the cymbal's decay. In dense metal production, this translates to crashes that feel weighty rather than brittle, and hi-hats that groove with depth rather than cutting on every single stroke.
-
-The K Custom hi-hats give Weinberg's patterns a density and complexity that fits Slipknot's layered sonic landscape. When playing rapid sixteenth-note patterns through "The Dying Song" or "Unsainted," the K Custom's character blends the cymbal wash more smoothly into the band's orchestration rather than sitting on top of the mix.
-
-The crash setup — 17" Dark and 19" Dark — delivers asymmetric crashes: the 17" for fast, tight punctuation; the 19" for the explosive, section-ending crashes Slipknot's most brutal passages demand. The K Custom Dark finish (partially unlathed, darker than standard K Custom) emphasizes the low-frequency content of each strike, adding weight to Weinberg's heaviest moments.
-
-The K Custom 18" China brings the signature trash texture that nu-metal drumming has incorporated since the genre's earliest records. Used selectively and at critical moments, it adds the sonic aggression that Slipknot's extreme passages require.`,
-      estimatedValue: '$1,800–2,800 (full K Custom setup)'
-    },
-    // Hardware Section
-    hardware: {
-      title: 'DW 9000 and Roland Electronics',
-      items: [
-        {
-          type: 'Bass Drum Pedals',
-          brand: 'DW',
-          model: 'DW 9000 Series Double Bass Pedal',
-          notes: 'Dual-chain drive for consistent high-speed double-kick performance',
-          description: "Jay Weinberg's DW 9000 double pedal continues the Slipknot drumming tradition established by Joey Jordison. The DW 9000 is one of the most respected double-kick mechanisms in professional metal drumming — its dual-chain drive system, adjustable cam, precision ball-bearing action, and heavy-duty build have made it the choice for Slipknot's extreme foot-work demands across multiple generations of the band. For Weinberg, the 9000's consistent feel and reliable tracking at high tempos — through 90-minute Slipknot sets, often in adverse stage conditions — made it the logical continuation. The adjustable cam allows him to tune the pedal's acceleration curve to match his technique, which blends hardcore punk snap with the sustained double-kick speed Slipknot's material demands."
-        },
-        {
-          type: 'Electronics',
-          brand: 'Roland',
-          model: 'Roland Drum Triggers / Module',
-          notes: 'Sample triggers integrated for Slipknot live show samples and electronics',
-          description: "Slipknot's live show is one of the most electronically augmented in metal — samples, loops, and triggered hits are woven throughout the band's set. Weinberg's kit integrates Roland drum triggers on bass drums and select pads, feeding a Roland module that fires the band's sample library in sync with live performance. This hybrid setup requires the triggers to read cleanly at high velocities without false triggering — a challenge that Roland's professional-level trigger systems handle with the reliability a major touring act demands."
-        },
-        {
-          type: 'Sticks',
-          brand: 'Vater',
-          model: 'Vater 5A or equivalent model',
-          notes: 'Balanced for power and speed in extreme metal and nu-metal contexts',
-          description: "Weinberg's Vater sticks reflect a balanced approach to the physical demands of Slipknot performance. Vater manufactures premium American hickory sticks; hickory's natural shock absorption and durability make it the industry standard for high-intensity playing. A 5A-profile stick gives Weinberg the speed and control for Slipknot's rapid patterns while providing enough mass for the full-power strokes the band's heaviest sections require."
-        },
-        {
-          type: 'Drumheads',
-          brand: 'Evans',
-          model: 'Evans (various series)',
-          notes: 'Endorsed Evans heads throughout Slipknot tenure'
-        }
-      ],
-      heads: {
-        bassKick: 'Evans EMAD (batter), Evans EQ3 (resonant)',
-        toms: 'Evans G2 Coated (batter), Evans G1 Clear (resonant)',
-        snare: 'Evans Hybrid or Power Center Coated (batter), Evans 300 Snare Side (resonant)'
-=======
       title: "Nick's Pearl Masters Custom",
       brand: 'Pearl',
       model: 'Pearl Masters Custom',
@@ -22654,51 +22507,11 @@ His 20" A Medium Ride provided the tonal foundation for ride cymbal passages —
         bassKick: 'Remo Powerstroke 3 (batter), Remo Powerstroke 3 ported (resonant)',
         toms: 'Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)',
         snare: 'Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)'
->>>>>>> origin/main
       }
     },
     // Gear Timeline
     gearTimeline: [
       {
-<<<<<<< HEAD
-        era: '.5: The Gray Chapter Era',
-        years: '2013–2014',
-        albums: ['.5: The Gray Chapter (2014)'],
-        description: 'Establishing the setup — Weinberg joins Slipknot and records his first album.',
-        gear: {
-          drums: 'SJC Custom kit (initial Slipknot configuration)',
-          snare: 'Tama SLP (developing configuration)',
-          cymbals: 'Zildjian K Custom series (initial setup)',
-          hardware: 'DW 9000 double bass pedal, Roland trigger system, Vater sticks, Evans heads'
-        },
-        notes: 'Weinberg\'s identity as the new Slipknot drummer was kept secret for months. He had to learn the full Slipknot catalog and honor Jordison\'s parts while beginning to develop his own voice within the band.'
-      },
-      {
-        era: 'We Are Not Your Kind Era',
-        years: '2018–2019',
-        albums: ['We Are Not Your Kind (2019)'],
-        description: 'Career peak — critically acclaimed album with fully realized setup.',
-        gear: {
-          drums: 'SJC Custom kit (refined Slipknot configuration)',
-          snare: 'Tama SLP (fully integrated)',
-          cymbals: 'Zildjian K Custom series (expanded)',
-          hardware: 'DW 9000, Roland electronics system expanded for album\'s darker sound palette'
-        },
-        notes: 'We Are Not Your Kind received widespread critical acclaim and debuted at #1 in multiple countries. Weinberg\'s drumming on tracks like "Unsainted," "Solway Firth," and "A Liar\'s Funeral" represents his most sophisticated Slipknot work.'
-      },
-      {
-        era: 'The End, So Far Era',
-        years: '2021–2022',
-        albums: ['The End, So Far (2022)'],
-        description: 'Final Slipknot album — genre-expanding record with Weinberg at full command.',
-        gear: {
-          drums: 'SJC Custom kit (mature Slipknot configuration)',
-          snare: 'Tama SLP (refined tuning for album production)',
-          cymbals: 'Zildjian K Custom (fully established arsenal)',
-          hardware: 'DW 9000, Roland system, Vater sticks, Evans heads'
-        },
-        notes: 'The End, So Far marked Slipknot\'s most experimental record, incorporating alternative rock and electronic influences. Weinberg\'s drumming expanded across the full dynamic range of the album — from atmospheric restraint to the band\'s trademark ferocity. He parted ways with Slipknot in November 2023.'
-=======
         era: 'Rust in Peace Era',
         years: '1989–1991',
         albums: ['Rust in Peace'],
@@ -22749,34 +22562,10 @@ His 20" A Medium Ride provided the tonal foundation for ride cymbal passages —
           hardware: 'Tama Iron Cobra double pedal'
         },
         notes: 'Menza\'s most commercially polished work. Departed Megadeth in 1998 following health issues. Legacy cemented across four essential thrash records.'
->>>>>>> origin/main
       }
     ],
     // Playing Style Section
     playingStyle: {
-<<<<<<< HEAD
-      title: 'The Weinberg Approach: Honoring Jordison, Finding His Own Voice',
-      content: `Jay Weinberg entered one of the most scrutinized drum seats in metal: replacing Joey Jordison in Slipknot, a band whose drumming was inseparable from its founding member's legacy. What makes Weinberg's nine-year tenure remarkable is how he managed both tasks simultaneously — faithful enough to the established parts that Slipknot's existing fanbase accepted him, yet distinctive enough that he became recognizably his own drummer over time.
-
-**The Jordison Legacy:**
-Weinberg learned the Slipknot catalog from the ground up — 20 years of complex, demanding material that Jordison had developed across four studio albums. On tracks like "Disasterpiece," "The Heretic Anthem," and "People = Shit," the extreme double-kick patterns, rapid single-stroke fills, and specific snare accents were load-bearing elements of the songs' identities. Weinberg replicated these faithfully while adding his own physical intensity — the punk energy that comes from a background in shows where drummers have to work twice as hard to be heard.
-
-**Hardcore Punk Foundation:**
-Where Jordison's foundation was extreme metal and jazz, Weinberg's was hardcore punk. Against Me!, Madball, and the DIY touring circuit where he developed gave him a physical, direct approach to drumming — hitting hard, not overthinking it, maintaining intensity through a full set on stages without proper monitors or drum shields. That rawness translated into Slipknot's live show as a kind of reckless commitment that audiences immediately responded to.
-
-**Expanding the Palette:**
-By the We Are Not Your Kind era, Weinberg had established enough credibility to participate actively in the album's creative direction. The drumming on songs like "Unsainted" and "Solway Firth" shows a more dynamic range — restraint and texture alongside the expected aggression — reflecting a drummer who had moved from replicating someone else's parts to co-authoring new ones.
-
-For context on the Slipknot drumming lineage:
-- **Joey Jordison**: [Joey Jordison drum setup at MetalForge](/articles/joey-jordison-drum-setup) — the founding drummer whose legacy Weinberg inherited
-- **Eloy Casagrande**: [What's in Eloy Casagrande's kit](/articles/whats-in-eloy-casagrandes-kit) — Slipknot's current drummer from 2024`,
-      keyTechniques: [
-        'High-impact double-kick sustained through full-set Slipknot performances',
-        'Faithful replication of Joey Jordison\'s established Slipknot parts',
-        'Hardcore punk physical intensity translated into extreme metal context',
-        'Dynamic range expansion across We Are Not Your Kind and The End, So Far',
-        'Hybrid acoustic/electronic integration for Slipknot sample-driven live show'
-=======
       title: 'Jazz Vocabulary in a Thrash Context',
       content: `Nick Menza's greatest contribution to thrash metal was importing jazz drumming concepts — particularly ghost notes, dynamic shading, and melodic fill construction — into a genre that rarely made space for them. Understanding his playing requires understanding this dual vocabulary: he thought like a jazz drummer but performed like a thrash drummer, and the intersection created something uniquely his own.
 
@@ -22797,43 +22586,10 @@ In Megadeth's studio recordings, Menza's jazz-influenced ghost notes and dynamic
         'Double-kick patterns synchronized with guitar riff shapes',
         'Dynamic range from ghost strokes to thunderous rimshots within a single performance',
         'Ride cymbal patterns that lock with guitar harmonic content'
->>>>>>> origin/main
       ]
     },
     // Quotes
     quotes: [
-<<<<<<< HEAD
-      { text: "Slipknot's music is demanding in every sense. You have to be physically prepared, technically prepared, and emotionally prepared every single night.", source: 'Drumeo Interview', year: 2019 },
-      { text: "My father showed me that professional drumming is a discipline. Slipknot showed me what that discipline looks like at maximum intensity.", source: 'Modern Drummer', year: 2020 }
-    ],
-    // Buying Guide
-    buyingGuide: {
-      title: "Getting the Weinberg Sound: A Buyer's Guide",
-      content: `Matching Jay Weinberg's complete Slipknot rig requires investment in professional-level equipment, but elements of his approach are accessible across all price points.
-
-**Budget Approach ($800–1,500):**
-- Any quality maple drum kit with double-kick capability (Pearl Export, Tama Imperialstar)
-- Zildjian ZBT or ZHT series cymbals — affordable Zildjian entry point with similar voicing character
-- Any quality chain-drive double bass pedal (DW 3000 or 5000 series)
-- Vater 5A American Classic hickory sticks
-
-**Mid-Range Approach ($2,000–4,000):**
-- Tama Starclassic Maple or Pearl Reference production kit
-- Zildjian K Custom 17" and 19" Dark Crashes individually, K Custom 14" hi-hats
-- DW 5000 or 9000 double pedal
-- Tama SLP snare (steel or brass) for studio-quality crack
-
-**Professional Approach ($6,000+):**
-- SJC Custom Drums shell pack (custom-ordered to specification)
-- Full Zildjian K Custom setup: hi-hats, Dark crashes (17", 19"), K Custom ride, china, splash
-- DW 9000 double bass pedal
-- Tama SLP snare (flagship model)
-- Roland trigger system for hybrid electronic integration`,
-      budgetTiers: [
-        { tier: 'Budget', range: '$800–1,500', notes: 'Maple kit + Zildjian ZBT/ZHT + DW 3000/5000 double pedal' },
-        { tier: 'Mid-Range', range: '$2,000–4,000', notes: 'Production maple kit + K Custom crashes + DW 9000 + Tama SLP snare' },
-        { tier: 'Professional', range: '$6,000+', notes: 'SJC Custom + full K Custom + DW 9000 + Roland triggers' }
-=======
       { text: "I grew up listening to jazz. My dad was a jazz musician. That's what I knew before metal.", source: 'Drum Magazine', year: 1993 },
       { text: "On Rust in Peace, Dave gave me a lot of freedom. I could put my personality into the parts.", source: 'Modern Drummer', year: 1992 }
     ],
@@ -22863,60 +22619,11 @@ In Megadeth's studio recordings, Menza's jazz-influenced ghost notes and dynamic
         { tier: 'Budget', range: '$800–1,500', notes: 'Pearl Export + Zildjian ZBT + Pearl P-120P double pedal' },
         { tier: 'Mid-Range', range: '$2,000–4,000', notes: 'Session Studio + Zildjian A series + Tama Iron Cobra' },
         { tier: 'Professional', range: '$5,000+', notes: 'Pearl Masters Custom Maple + full Zildjian A + Iron Cobra HP900PTW' }
->>>>>>> origin/main
       ]
     },
     // FAQ Section
     faq: [
       {
-<<<<<<< HEAD
-        question: 'What drum kit does Jay Weinberg use?',
-        answer: "Jay Weinberg plays SJC Custom Drums — a boutique American drum brand based in Marlborough, Massachusetts that builds kits by hand to individual specifications. His Slipknot kit features a six-tom configuration (four rack toms: 8\", 10\", 12\", 13\" and two floor toms: 16\", 18\") and double 22\" x 18\" bass drums. The shells are maple with custom finishes matching Slipknot's visual aesthetic. His full drummer profile is available at the [Jay Weinberg MetalForge profile](/drummer/jay-weinberg)."
-      },
-      {
-        question: 'What cymbals does Jay Weinberg play?',
-        answer: "Jay Weinberg is a Zildjian endorsee and plays the K Custom series. His setup includes Zildjian K Custom 14\" hi-hats, 17\" and 19\" K Custom Dark Crashes, a K Custom 20\" Ride, a K Custom 18\" China, and K Custom splash cymbals. The K Custom series produces dark, complex tones — a different character from the bright Sabian AAX cymbals used by his predecessor Joey Jordison, and a shift that suited the evolving sonic direction of Slipknot's We Are Not Your Kind and The End, So Far albums."
-      },
-      {
-        question: 'How much is Jay Weinberg’s drum kit worth?',
-        answer: "A professional-spec Jay Weinberg-style setup costs approximately $8,000–15,000+ to replicate at the highest level. The SJC Custom shell pack runs $4,000–8,000 depending on configuration and finish. A full Zildjian K Custom cymbal arsenal adds $1,800–2,800. A DW 9000 double bass pedal costs $500–700. The Tama SLP snare adds another $300–600. Roland trigger systems vary widely by configuration. Professional artists typically receive endorsement pricing well below retail — Weinberg's actual cost per tour cycle is substantially lower than market rates."
-      },
-      {
-        question: 'What sticks does Jay Weinberg use?',
-        answer: "Jay Weinberg plays Vater drumsticks during his Slipknot tenure. Vater manufactures American hickory sticks known for their durability and shock absorption — qualities essential for the sustained physical intensity of Slipknot's live sets. Weinberg's model is in the 5A weight range, balancing the speed needed for Slipknot's rapid patterns with the mass required for the band's heaviest passages."
-      },
-      {
-        question: 'What double bass pedal does Jay Weinberg use?',
-        answer: "Jay Weinberg plays DW 9000 series double bass drum pedals — the same pedal used by Joey Jordison in Slipknot's earlier eras. The DW 9000 is a dual-chain drive system with adjustable cam geometry, precision ball-bearing action, and heavy-duty construction built for professional touring demands. Its consistent feel across different stage surfaces and climate conditions makes it reliable for the varied venues of a global Slipknot tour."
-      }
-    ],
-    // Related content
-    relatedAlbums: ['whats-in-eloy-casagrandes-kit', 'joey-jordison-drum-setup'],
-    relatedDrummers: [2, 7, 32], // Joey Jordison, Eloy Casagrande, Matt Greiner
-    relatedArticles: ['whats-in-eloy-casagrandes-kit', 'cowboys-from-hell-drum-setup'],
-    conclusion: {
-      title: "Nine Years Behind the Mask",
-      content: `Jay Weinberg spent nine years proving that one of metal's most impossible jobs — replacing a legend, night after night, behind a mask, on a rotating drum riser — could be done with skill, commitment, and genuine artistry.
-
-His SJC Custom kit, Zildjian K Custom cymbals, DW 9000 pedals, Tama SLP snare, and Roland trigger system represent a professional's answer to Slipknot's uncompromising demands:
-
-- **SJC Custom Drums**: Hand-built American shells with the custom aesthetic Slipknot's visual identity demands
-- **Zildjian K Custom**: Dark, complex cymbals that evolved the Slipknot drum sound beyond the Jordison era's AAX brightness
-- **DW 9000**: Industry-standard double-kick engineering carried forward from the Jordison era
-- **Tama SLP**: A boutique snare cutting through the densest mix in nu-metal
-- **Roland Electronics**: Hybrid trigger system that keeps Slipknot's sample-driven show in lockstep with live performance
-
-From the guarded reveal of his identity in 2014 to the celebrated drumming on We Are Not Your Kind (2019) to the complex, genre-expanding performances on The End, So Far (2022), Weinberg documented an extraordinary trajectory — from careful custodian of someone else's parts to co-author of new ones.
-
-For deeper exploration of Slipknot's drumming lineage:
-- **Full drummer profile**: [Jay Weinberg at MetalForge](/drummer/jay-weinberg)
-- **Joey Jordison setup**: [Joey Jordison drum setup](/articles/joey-jordison-drum-setup) — the founding drummer whose legacy Weinberg inherited
-- **Eloy Casagrande setup**: [What's in Eloy Casagrande's kit](/articles/whats-in-eloy-casagrandes-kit) — Slipknot's current drummer from 2024
-
-The mask concealed his face. The playing spoke for itself.
-
-🥁 *"Slipknot's music is demanding in every sense."* — Jay Weinberg 🤘`
-=======
         question: 'What drums did Nick Menza play?',
         answer: 'Nick Menza used a Tama Artstar II kit (birch shells) during the Rust in Peace era, then transitioned to Pearl Masters Custom (maple shells) from the Countdown to Extinction era onward. The Pearl Masters Custom became his primary instrument through Youthanasia and Cryptic Writings, and he maintained the Pearl relationship for the remainder of his Megadeth career.'
       },
@@ -23234,7 +22941,6 @@ For deeper exploration:
 - **Dave Lombardo profile**: [Dave Lombardo at MetalForge](/drummer/4) — the blast beat architect whose vocabulary Raatikainen drew on for Children of Bodom's most aggressive passages
 
 Children of Bodom's catalog stands as Finnish metal's defining contribution to the global melodic death metal genre. Jaska Raatikainen was there for every note.`
->>>>>>> origin/main
     }
   }
 ,
@@ -23560,6 +23266,311 @@ For deeper exploration:
 - **Full drummer profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)
 - **Blast beat technique comparison**: [Blast beat drummers compared](/technique/blast-beat/drummers) — Mazurkiewicz vs. Mounier vs. Hoglan
 - **Related death metal drum setup**: [None So Vile drum setup — Flo Mounier](/articles/none-so-vile-drum-setup) — technical death metal's alternative approach to the blast beat`
+    }
+  }
+,
+
+  'jay-weinberg-complete-drum-setup': {
+    slug: 'jay-weinberg-complete-drum-setup',
+    articleType: 'drummer-kit',
+    drummer: 'Jay Weinberg',
+    drummerId: 20,
+    relatedDrummerSlug: 'jay-weinberg',
+    band: 'Slipknot',
+    bands: ['Slipknot', 'Suicidal Tendencies', 'Against Me!', 'Madball'],
+    genre: 'Nu Metal / Extreme Metal',
+    country: 'USA',
+    isAlbumArticle: true,
+    datePublished: '2026-06-19',
+    dateModified: '2026-06-19',
+    author: 'MetalForge Editorial',
+    // SEO
+    title: "Jay Weinberg Drum Setup — Slipknot's Complete Gear Guide",
+    description: "Jay Weinberg drum setup breakdown: SJC Custom drums, Zildjian K Custom cymbals, DW 9000 hardware, Tama SLP snare, and Vater sticks — the complete gear guide for Slipknot's masked drummer #1 across .5: The Gray Chapter, We Are Not Your Kind, and The End, So Far.",
+    seoKeywords: ['jay weinberg drum setup', 'jay weinberg drum kit', 'slipknot drummer gear', 'jay weinberg sjc drums', 'jay weinberg zildjian cymbals', 'jay weinberg sticks', 'jay weinberg kit setup 2026', 'slipknot drummer kit'],
+    ogImage: '/images/drummers/jay-weinberg.webp',
+    // Introduction
+    intro: {
+      title: "Slipknot's Masked Drummer: Jay Weinberg's Complete Setup",
+      content: `Jay Weinberg (born September 8, 1990, in Middletown Township, New Jersey) served as Slipknot's drummer from 2014 to 2023, donning the iconic mask #1 and manning the drum throne behind one of the heaviest live productions in metal. As the son of Max Weinberg — legendary drummer for Bruce Springsteen's E Street Band — Jay brought an unusual combination of hardcore punk intensity, classical technique discipline, and an encyclopedic knowledge of Joey Jordison's parts to the most demanding drum seat in nu-metal.
+
+Weinberg uses an SJC Custom Drums kit paired with Zildjian cymbals as Slipknot's drummer — a setup he developed and refined across three studio albums and years of relentless world touring with the band. His rig is a hybrid acoustic and electronic system built to deliver Slipknot's dense sample-triggered live show while maintaining the explosive, muscular live drumming feel the band demands.
+
+Before Slipknot, Weinberg built his chops in the hardcore and punk scenes — touring with Against Me!, Madball, and filling in for his father on the Springsteen Working on a Dream World Tour in 2009. That background in raw, immediate playing gave him the physical toughness that nine years with Slipknot required.
+
+This article breaks down every piece of Jay Weinberg's drum setup across his Slipknot tenure: his SJC Custom kit, Zildjian K Custom cymbal arsenal, DW 9000 hardware, Tama SLP snare, Vater sticks, and Roland electronics — and how each component served Slipknot's ferocious live and studio demands.`,
+      keyPoints: [
+        'Slipknot drummer 2014–2023 — masked drummer #1',
+        'SJC Custom Drums — custom-finished kit for Slipknot aesthetics',
+        'Zildjian K Custom cymbal series for complex, dark sound character',
+        'DW 9000 double bass pedal for extreme double-kick technique',
+        'Tama SLP snare for cutting crack through dense Slipknot production',
+        'Vater sticks — durability and control for intense live metal performance',
+        'Roland electronics integrated for Slipknot sample playback triggers'
+      ]
+    },
+    // Drum Kit Section
+    drumKit: {
+      title: "Jay's SJC Custom Drums",
+      brand: 'SJC Custom Drums',
+      model: 'SJC Custom Series',
+      finish: 'Custom Slipknot-themed finishes (black, custom wraps)',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum (x2 — double kick)'],
+        toms: ['8" x 7" Rack Tom', '10" x 8" Rack Tom', '12" x 10" Rack Tom', '13" x 11" Rack Tom'],
+        floorToms: ['16" x 16" Floor Tom', '18" x 16" Floor Tom'],
+        shells: 'Maple shells, custom hardware and wrap finishes'
+      },
+      description: `Jay Weinberg's choice of SJC Custom Drums for his Slipknot tenure reflects both the boutique drum market's maturity and the specific demands of playing Slipknot material night after night. SJC (Scott Johnson Customs), based in Marlborough, Massachusetts, builds drums by hand to individual artist specifications — giving Weinberg a kit tailored exactly to his touch, tuning preferences, and the visual identity of Slipknot's live show.
+
+SJC shells are maple-based, delivering the warm, full-bodied attack that drives Slipknot's dense, low-tuned production. Maple's natural resonance gives each tom stroke and kick hit a musical character that survives the massive SPL of Slipknot arena shows without losing articulation. Custom hardware finishes match the band's iconic visual aesthetic — Weinberg's kit on stage is unmistakably Slipknot.
+
+The tom configuration mirrors the expansive six-tom setup associated with Slipknot drumming since the Jordison era. Four rack toms (8", 10", 12", 13") plus two floor toms (16", 18") give Weinberg the full melodic kit range for the flowing, orchestral fills that Slipknot's arrangements demand. Songs like "Psychosocial," "Custer," and "The Dying Song (Time to Sing)" feature tom passages that move across the entire kit range.
+
+Double bass drums — two 22" x 18" kicks — form the foundation of Weinberg's foot work. His double-kick technique was developed extensively in his hardcore touring years and refined to meet Jordison's established parts. The 22" diameter and 18" depth deliver the floor-shaking low-frequency punch Slipknot's live production requires.
+
+The custom finishes — typically black with Slipknot-appropriate graphic treatments — transform the kit into a visual component of the live show. Behind the mask, Weinberg's SJC setup is as much a stage prop as a musical instrument.`,
+      notes: [
+        'SJC Custom — boutique hand-built American drum brand',
+        'Maple shells for warm attack and musical resonance',
+        'Six-tom configuration continues Slipknot drumming tradition',
+        'Double 22" kick setup for powerful double-bass performance',
+        'Custom wrap and hardware finishes for Slipknot visual identity'
+      ],
+      estimatedValue: '$4,000–8,000 (SJC Custom shell pack)'
+    },
+    // Snare Section
+    snare: {
+      title: 'The Crack at the Core: Tama SLP Snare',
+      brand: 'Tama',
+      model: 'Tama SLP (Sound Lab Project)',
+      size: '14" x 6.5"',
+      shell: 'Varies by model — brass, steel, or wood SLP offerings',
+      description: `Jay Weinberg's snare choice — the Tama SLP (Sound Lab Project) series — gives him a high-quality, boutique-feeling instrument within a trusted production brand. The Tama SLP line was developed as Tama's premium snare collection, with each model in the series exploring a different shell material and tuning voicing: steel for cutting crack, brass for warm punch, and wood options for darker, more complex tones.
+
+For Slipknot's densely produced live and studio contexts, a SLP steel or brass model makes the most sense: both deliver the immediate attack and focused decay that a snare must have to cut through three guitars, bass, and six percussionists on the Slipknot stage. The crack must be present, defined, and unambiguous in a mix of that density.
+
+Weinberg tunes his snare for immediate attack with controlled sustain. Ghost notes — subtle left-hand strokes between heavy backbeats — are a technique Weinberg developed from his punk background, and these require a snare with enough sensitivity to register light touches cleanly without muddying the principal backbeat. The Tama SLP's floating bearing edge construction supports this dynamic range.
+
+Head selection on the SLP varies by context. Evans heads — Weinberg's endorsed brand — are the choice, typically an Evans Hybrid or Power Center batter for balanced attack and warmth, paired with a light Evans 300 Snare Side resonant head for maximum wire sensitivity.
+
+The Tama SLP's design philosophy — each shell material as a distinct sonic experiment — aligns with Weinberg's need to dial in exactly the right snare voice for Slipknot's production, whether in a studio with controlled acoustics or on a festival stage with unpredictable monitor reflections.`,
+      tuningSetting: 'Medium-high for attack and projection through Slipknot live production',
+      heads: 'Evans Hybrid or Power Center (batter), Evans 300 Snare Side (resonant)',
+      estimatedValue: '$300–600 (Tama SLP series)'
+    },
+    // Cymbals Section
+    cymbals: {
+      title: 'The Zildjian K Custom Arsenal',
+      brand: 'Zildjian',
+      series: 'Zildjian K Custom Series',
+      setup: [
+        { type: 'Hi-Hats', model: 'Zildjian K Custom 14" Hi-Hats', position: 'Left side', notes: 'Complex, dark hi-hat character for heavy patterns' },
+        { type: 'Crash', model: 'Zildjian K Custom 17" Dark Crash', position: 'Left crash', notes: 'Fast, dark response for primary accent crash' },
+        { type: 'Crash', model: 'Zildjian K Custom 19" Dark Crash', position: 'Right crash', notes: 'Fuller crash for heavier section emphasis' },
+        { type: 'Ride', model: 'Zildjian K Custom 20" Ride', position: 'Far right', notes: 'Complex wash with defined bell for heavy riding' },
+        { type: 'China', model: 'Zildjian K Custom 18" China', position: 'Over rack toms', notes: 'Aggressive accent texture for extreme passages' },
+        { type: 'Splash', model: 'Zildjian K Custom 10" Splash', position: 'Effects left', notes: 'Quick accent tool' }
+      ],
+      description: `Jay Weinberg's Zildjian K Custom cymbal setup gives him a sound profile that differs markedly from his predecessor's Sabian AAX kit. The K Custom series produces darker, more complex tones than the bright, forward AAX — a character shift that suited Weinberg's approach to the Slipknot catalog and the evolving sonic direction of We Are Not Your Kind (2019) and The End, So Far (2022).
+
+K Custom cymbals are B20 bronze alloy — 80% copper, 20% tin — with irregular hammering and a lathed surface that produces complex, warm overtones. This alloy's character is "dark first, cutting second": the fundamental tone is deeper and richer than the AAX, with the highs arriving later in the cymbal's decay. In dense metal production, this translates to crashes that feel weighty rather than brittle, and hi-hats that groove with depth rather than cutting on every single stroke.
+
+The K Custom hi-hats give Weinberg's patterns a density and complexity that fits Slipknot's layered sonic landscape. When playing rapid sixteenth-note patterns through "The Dying Song" or "Unsainted," the K Custom's character blends the cymbal wash more smoothly into the band's orchestration rather than sitting on top of the mix.
+
+The crash setup — 17" Dark and 19" Dark — delivers asymmetric crashes: the 17" for fast, tight punctuation; the 19" for the explosive, section-ending crashes Slipknot's most brutal passages demand. The K Custom Dark finish (partially unlathed, darker than standard K Custom) emphasizes the low-frequency content of each strike, adding weight to Weinberg's heaviest moments.
+
+The K Custom 18" China brings the signature trash texture that nu-metal drumming has incorporated since the genre's earliest records. Used selectively and at critical moments, it adds the sonic aggression that Slipknot's extreme passages require.`,
+      estimatedValue: '$1,800–2,800 (full K Custom setup)'
+    },
+    // Hardware Section
+    hardware: {
+      title: 'DW 9000 and Roland Electronics',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'DW',
+          model: 'DW 9000 Series Double Bass Pedal',
+          notes: 'Dual-chain drive for consistent high-speed double-kick performance',
+          description: "Jay Weinberg's DW 9000 double pedal continues the Slipknot drumming tradition established by Joey Jordison. The DW 9000 is one of the most respected double-kick mechanisms in professional metal drumming — its dual-chain drive system, adjustable cam, precision ball-bearing action, and heavy-duty build have made it the choice for Slipknot's extreme foot-work demands across multiple generations of the band. For Weinberg, the 9000's consistent feel and reliable tracking at high tempos — through 90-minute Slipknot sets, often in adverse stage conditions — made it the logical continuation. The adjustable cam allows him to tune the pedal's acceleration curve to match his technique, which blends hardcore punk snap with the sustained double-kick speed Slipknot's material demands."
+        },
+        {
+          type: 'Electronics',
+          brand: 'Roland',
+          model: 'Roland Drum Triggers / Module',
+          notes: 'Sample triggers integrated for Slipknot live show samples and electronics',
+          description: "Slipknot's live show is one of the most electronically augmented in metal — samples, loops, and triggered hits are woven throughout the band's set. Weinberg's kit integrates Roland drum triggers on bass drums and select pads, feeding a Roland module that fires the band's sample library in sync with live performance. This hybrid setup requires the triggers to read cleanly at high velocities without false triggering — a challenge that Roland's professional-level trigger systems handle with the reliability a major touring act demands."
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vater',
+          model: 'Vater 5A or equivalent model',
+          notes: 'Balanced for power and speed in extreme metal and nu-metal contexts',
+          description: "Weinberg's Vater sticks reflect a balanced approach to the physical demands of Slipknot performance. Vater manufactures premium American hickory sticks; hickory's natural shock absorption and durability make it the industry standard for high-intensity playing. A 5A-profile stick gives Weinberg the speed and control for Slipknot's rapid patterns while providing enough mass for the full-power strokes the band's heaviest sections require."
+        },
+        {
+          type: 'Drumheads',
+          brand: 'Evans',
+          model: 'Evans (various series)',
+          notes: 'Endorsed Evans heads throughout Slipknot tenure'
+        }
+      ],
+      heads: {
+        bassKick: 'Evans EMAD (batter), Evans EQ3 (resonant)',
+        toms: 'Evans G2 Coated (batter), Evans G1 Clear (resonant)',
+        snare: 'Evans Hybrid or Power Center Coated (batter), Evans 300 Snare Side (resonant)'
+      }
+    },
+    // Gear Timeline
+    gearTimeline: [
+      {
+        era: '.5: The Gray Chapter Era',
+        years: '2013–2014',
+        albums: ['.5: The Gray Chapter (2014)'],
+        description: 'Establishing the setup — Weinberg joins Slipknot and records his first album.',
+        gear: {
+          drums: 'SJC Custom kit (initial Slipknot configuration)',
+          snare: 'Tama SLP (developing configuration)',
+          cymbals: 'Zildjian K Custom series (initial setup)',
+          hardware: 'DW 9000 double bass pedal, Roland trigger system, Vater sticks, Evans heads'
+        },
+        notes: 'Weinberg\'s identity as the new Slipknot drummer was kept secret for months. He had to learn the full Slipknot catalog and honor Jordison\'s parts while beginning to develop his own voice within the band.'
+      },
+      {
+        era: 'We Are Not Your Kind Era',
+        years: '2018–2019',
+        albums: ['We Are Not Your Kind (2019)'],
+        description: 'Career peak — critically acclaimed album with fully realized setup.',
+        gear: {
+          drums: 'SJC Custom kit (refined Slipknot configuration)',
+          snare: 'Tama SLP (fully integrated)',
+          cymbals: 'Zildjian K Custom series (expanded)',
+          hardware: 'DW 9000, Roland electronics system expanded for album\'s darker sound palette'
+        },
+        notes: 'We Are Not Your Kind received widespread critical acclaim and debuted at #1 in multiple countries. Weinberg\'s drumming on tracks like "Unsainted," "Solway Firth," and "A Liar\'s Funeral" represents his most sophisticated Slipknot work.'
+      },
+      {
+        era: 'The End, So Far Era',
+        years: '2021–2022',
+        albums: ['The End, So Far (2022)'],
+        description: 'Final Slipknot album — genre-expanding record with Weinberg at full command.',
+        gear: {
+          drums: 'SJC Custom kit (mature Slipknot configuration)',
+          snare: 'Tama SLP (refined tuning for album production)',
+          cymbals: 'Zildjian K Custom (fully established arsenal)',
+          hardware: 'DW 9000, Roland system, Vater sticks, Evans heads'
+        },
+        notes: 'The End, So Far marked Slipknot\'s most experimental record, incorporating alternative rock and electronic influences. Weinberg\'s drumming expanded across the full dynamic range of the album — from atmospheric restraint to the band\'s trademark ferocity. He parted ways with Slipknot in November 2023.'
+      }
+    ],
+    // Playing Style Section
+    playingStyle: {
+      title: 'The Weinberg Approach: Honoring Jordison, Finding His Own Voice',
+      content: `Jay Weinberg entered one of the most scrutinized drum seats in metal: replacing Joey Jordison in Slipknot, a band whose drumming was inseparable from its founding member's legacy. What makes Weinberg's nine-year tenure remarkable is how he managed both tasks simultaneously — faithful enough to the established parts that Slipknot's existing fanbase accepted him, yet distinctive enough that he became recognizably his own drummer over time.
+
+**The Jordison Legacy:**
+Weinberg learned the Slipknot catalog from the ground up — 20 years of complex, demanding material that Jordison had developed across four studio albums. On tracks like "Disasterpiece," "The Heretic Anthem," and "People = Shit," the extreme double-kick patterns, rapid single-stroke fills, and specific snare accents were load-bearing elements of the songs' identities. Weinberg replicated these faithfully while adding his own physical intensity — the punk energy that comes from a background in shows where drummers have to work twice as hard to be heard.
+
+**Hardcore Punk Foundation:**
+Where Jordison's foundation was extreme metal and jazz, Weinberg's was hardcore punk. Against Me!, Madball, and the DIY touring circuit where he developed gave him a physical, direct approach to drumming — hitting hard, not overthinking it, maintaining intensity through a full set on stages without proper monitors or drum shields. That rawness translated into Slipknot's live show as a kind of reckless commitment that audiences immediately responded to.
+
+**Expanding the Palette:**
+By the We Are Not Your Kind era, Weinberg had established enough credibility to participate actively in the album's creative direction. The drumming on songs like "Unsainted" and "Solway Firth" shows a more dynamic range — restraint and texture alongside the expected aggression — reflecting a drummer who had moved from replicating someone else's parts to co-authoring new ones.
+
+For context on the Slipknot drumming lineage:
+- **Joey Jordison**: [Joey Jordison drum setup at MetalForge](/articles/joey-jordison-drum-setup) — the founding drummer whose legacy Weinberg inherited
+- **Eloy Casagrande**: [What's in Eloy Casagrande's kit](/articles/whats-in-eloy-casagrandes-kit) — Slipknot's current drummer from 2024`,
+      keyTechniques: [
+        'High-impact double-kick sustained through full-set Slipknot performances',
+        'Faithful replication of Joey Jordison\'s established Slipknot parts',
+        'Hardcore punk physical intensity translated into extreme metal context',
+        'Dynamic range expansion across We Are Not Your Kind and The End, So Far',
+        'Hybrid acoustic/electronic integration for Slipknot sample-driven live show'
+      ]
+    },
+    // Quotes
+    quotes: [
+      { text: "Slipknot's music is demanding in every sense. You have to be physically prepared, technically prepared, and emotionally prepared every single night.", source: 'Drumeo Interview', year: 2019 },
+      { text: "My father showed me that professional drumming is a discipline. Slipknot showed me what that discipline looks like at maximum intensity.", source: 'Modern Drummer', year: 2020 }
+    ],
+    // Buying Guide
+    buyingGuide: {
+      title: "Getting the Weinberg Sound: A Buyer's Guide",
+      content: `Matching Jay Weinberg's complete Slipknot rig requires investment in professional-level equipment, but elements of his approach are accessible across all price points.
+
+**Budget Approach ($800–1,500):**
+- Any quality maple drum kit with double-kick capability (Pearl Export, Tama Imperialstar)
+- Zildjian ZBT or ZHT series cymbals — affordable Zildjian entry point with similar voicing character
+- Any quality chain-drive double bass pedal (DW 3000 or 5000 series)
+- Vater 5A American Classic hickory sticks
+
+**Mid-Range Approach ($2,000–4,000):**
+- Tama Starclassic Maple or Pearl Reference production kit
+- Zildjian K Custom 17" and 19" Dark Crashes individually, K Custom 14" hi-hats
+- DW 5000 or 9000 double pedal
+- Tama SLP snare (steel or brass) for studio-quality crack
+
+**Professional Approach ($6,000+):**
+- SJC Custom Drums shell pack (custom-ordered to specification)
+- Full Zildjian K Custom setup: hi-hats, Dark crashes (17", 19"), K Custom ride, china, splash
+- DW 9000 double bass pedal
+- Tama SLP snare (flagship model)
+- Roland trigger system for hybrid electronic integration`,
+      budgetTiers: [
+        { tier: 'Budget', range: '$800–1,500', notes: 'Maple kit + Zildjian ZBT/ZHT + DW 3000/5000 double pedal' },
+        { tier: 'Mid-Range', range: '$2,000–4,000', notes: 'Production maple kit + K Custom crashes + DW 9000 + Tama SLP snare' },
+        { tier: 'Professional', range: '$6,000+', notes: 'SJC Custom + full K Custom + DW 9000 + Roland triggers' }
+      ]
+    },
+    // FAQ Section
+    faq: [
+      {
+        question: 'What drum kit does Jay Weinberg use?',
+        answer: "Jay Weinberg plays SJC Custom Drums — a boutique American drum brand based in Marlborough, Massachusetts that builds kits by hand to individual specifications. His Slipknot kit features a six-tom configuration (four rack toms: 8\", 10\", 12\", 13\" and two floor toms: 16\", 18\") and double 22\" x 18\" bass drums. The shells are maple with custom finishes matching Slipknot's visual aesthetic. His full drummer profile is available at the [Jay Weinberg MetalForge profile](/drummer/jay-weinberg)."
+      },
+      {
+        question: 'What cymbals does Jay Weinberg play?',
+        answer: "Jay Weinberg is a Zildjian endorsee and plays the K Custom series. His setup includes Zildjian K Custom 14\" hi-hats, 17\" and 19\" K Custom Dark Crashes, a K Custom 20\" Ride, a K Custom 18\" China, and K Custom splash cymbals. The K Custom series produces dark, complex tones — a different character from the bright Sabian AAX cymbals used by his predecessor Joey Jordison, and a shift that suited the evolving sonic direction of Slipknot's We Are Not Your Kind and The End, So Far albums."
+      },
+      {
+        question: 'How much is Jay Weinberg’s drum kit worth?',
+        answer: "A professional-spec Jay Weinberg-style setup costs approximately $8,000–15,000+ to replicate at the highest level. The SJC Custom shell pack runs $4,000–8,000 depending on configuration and finish. A full Zildjian K Custom cymbal arsenal adds $1,800–2,800. A DW 9000 double bass pedal costs $500–700. The Tama SLP snare adds another $300–600. Roland trigger systems vary widely by configuration. Professional artists typically receive endorsement pricing well below retail — Weinberg's actual cost per tour cycle is substantially lower than market rates."
+      },
+      {
+        question: 'What sticks does Jay Weinberg use?',
+        answer: "Jay Weinberg plays Vater drumsticks during his Slipknot tenure. Vater manufactures American hickory sticks known for their durability and shock absorption — qualities essential for the sustained physical intensity of Slipknot's live sets. Weinberg's model is in the 5A weight range, balancing the speed needed for Slipknot's rapid patterns with the mass required for the band's heaviest passages."
+      },
+      {
+        question: 'What double bass pedal does Jay Weinberg use?',
+        answer: "Jay Weinberg plays DW 9000 series double bass drum pedals — the same pedal used by Joey Jordison in Slipknot's earlier eras. The DW 9000 is a dual-chain drive system with adjustable cam geometry, precision ball-bearing action, and heavy-duty construction built for professional touring demands. Its consistent feel across different stage surfaces and climate conditions makes it reliable for the varied venues of a global Slipknot tour."
+      }
+    ],
+    // Related content
+    relatedAlbums: ['whats-in-eloy-casagrandes-kit', 'joey-jordison-drum-setup'],
+    relatedDrummers: [2, 7, 32], // Joey Jordison, Eloy Casagrande, Matt Greiner
+    relatedArticles: ['whats-in-eloy-casagrandes-kit', 'cowboys-from-hell-drum-setup'],
+    conclusion: {
+      title: "Nine Years Behind the Mask",
+      content: `Jay Weinberg spent nine years proving that one of metal's most impossible jobs — replacing a legend, night after night, behind a mask, on a rotating drum riser — could be done with skill, commitment, and genuine artistry.
+
+His SJC Custom kit, Zildjian K Custom cymbals, DW 9000 pedals, Tama SLP snare, and Roland trigger system represent a professional's answer to Slipknot's uncompromising demands:
+
+- **SJC Custom Drums**: Hand-built American shells with the custom aesthetic Slipknot's visual identity demands
+- **Zildjian K Custom**: Dark, complex cymbals that evolved the Slipknot drum sound beyond the Jordison era's AAX brightness
+- **DW 9000**: Industry-standard double-kick engineering carried forward from the Jordison era
+- **Tama SLP**: A boutique snare cutting through the densest mix in nu-metal
+- **Roland Electronics**: Hybrid trigger system that keeps Slipknot's sample-driven show in lockstep with live performance
+
+From the guarded reveal of his identity in 2014 to the celebrated drumming on We Are Not Your Kind (2019) to the complex, genre-expanding performances on The End, So Far (2022), Weinberg documented an extraordinary trajectory — from careful custodian of someone else's parts to co-author of new ones.
+
+For deeper exploration of Slipknot's drumming lineage:
+- **Full drummer profile**: [Jay Weinberg at MetalForge](/drummer/jay-weinberg)
+- **Joey Jordison setup**: [Joey Jordison drum setup](/articles/joey-jordison-drum-setup) — the founding drummer whose legacy Weinberg inherited
+- **Eloy Casagrande setup**: [What's in Eloy Casagrande's kit](/articles/whats-in-eloy-casagrandes-kit) — Slipknot's current drummer from 2024
+
+The mask concealed his face. The playing spoke for itself.
+
+🥁 *"Slipknot's music is demanding in every sense."* — Jay Weinberg 🤘`
     }
   }
 

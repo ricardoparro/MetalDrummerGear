@@ -35,6 +35,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Metal Drummer Quiz | https://metalforge.io/llms/quiz.md | Personality quiz matching your style to 60+ legendary drummers (Markdown) |
 | Kit Quiz — Which Drummer Are You? | https://metalforge.io/llms/kit-quiz.md | Answer questions about playing style and gear preferences to match to one of 62 metal drummers (Markdown) |
 | Drummer Battles | https://metalforge.io/llms/battles.md | Community head-to-head vote battles between legendary metal drummers, organised by category (Markdown) |
+| Per-Matchup Battles | https://metalforge.io/llms/battles/ | Individual per-matchup battle pages with full gear data for both drummers (8 files) |
 | Guess The Kit — Photo Quiz | https://metalforge.io/llms/guess-the-kit.md | Identify metal drummers from photos of their kits using brand and cymbal visual cues (Markdown) |
 | Tools — Gear Search | https://metalforge.io/llms/tools/gear-search.md | Find which drummers use a specific brand or model (Markdown) |
 | Tools — Dream Set Builder | https://metalforge.io/llms/tools/dream-set-builder.md | Build a custom kit from pro drummer gear (Markdown) |
@@ -217,6 +218,27 @@ Hub: [/llms/comparisons.md](https://metalforge.io/llms/comparisons.md) — aggre
 | Igor Cavalera vs Eloy Casagrande | [igor-cavalera-vs-eloy-casagrande.md](https://metalforge.io/llms/vs/igor-cavalera-vs-eloy-casagrande.md) |
 | Vinnie Paul vs Art Cruz | [vinnie-paul-vs-art-cruz.md](https://metalforge.io/llms/vs/vinnie-paul-vs-art-cruz.md) |
 | Ray Luzier vs Abe Cunningham | [ray-luzier-vs-abe-cunningham.md](https://metalforge.io/llms/vs/ray-luzier-vs-abe-cunningham.md) |
+
+---
+
+## Drummer Battles (per-matchup)
+
+Per-matchup battle files (450–670 words each) with full gear data, comparison tables, and FAQ for both drummers.
+Optimised for AI retrieval on queries like "Lars Ulrich vs Dave Lombardo gear", "who has the better kit — Danny Carey or Mike Portnoy?",
+or "Inferno vs Hellhammer drum setup".
+
+Hub: [/llms/battles.md](https://metalforge.io/llms/battles.md) — overview of all 8 battle matchups.
+
+| Battle | Category | File |
+|--------|----------|------|
+| Lars Ulrich vs Dave Lombardo | Thrash Legends | [lars-ulrich-vs-dave-lombardo.md](https://metalforge.io/llms/battles/lars-ulrich-vs-dave-lombardo.md) |
+| Joey Jordison vs Eloy Casagrande | Slipknot Showdown | [joey-jordison-vs-eloy-casagrande.md](https://metalforge.io/llms/battles/joey-jordison-vs-eloy-casagrande.md) |
+| Tomas Haake vs Mario Duplantier | Progressive Giants | [tomas-haake-vs-mario-duplantier.md](https://metalforge.io/llms/battles/tomas-haake-vs-mario-duplantier.md) |
+| Danny Carey vs Mike Portnoy | Prog Masters | [danny-carey-vs-mike-portnoy.md](https://metalforge.io/llms/battles/danny-carey-vs-mike-portnoy.md) |
+| Gene Hoglan vs George Kollias | Death Metal Kings | [gene-hoglan-vs-george-kollias.md](https://metalforge.io/llms/battles/gene-hoglan-vs-george-kollias.md) |
+| Inferno vs Hellhammer | Black Metal Titans | [inferno-vs-hellhammer.md](https://metalforge.io/llms/battles/inferno-vs-hellhammer.md) |
+| Vinnie Paul vs Dave Lombardo | Groove Metal Icons | [vinnie-paul-vs-dave-lombardo.md](https://metalforge.io/llms/battles/vinnie-paul-vs-dave-lombardo.md) |
+| Brann Dailor vs Chris Adler | Modern Metal Masters | [brann-dailor-vs-chris-adler.md](https://metalforge.io/llms/battles/brann-dailor-vs-chris-adler.md) |
 
 ---
 

@@ -776,6 +776,14 @@ function getMetaForPath(pathname) {
       image: `${BASE_URL}/og-quiz.png`,
       type: 'website',
       url: `${BASE_URL}/kit-quiz`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'WebApplication',
+        name: 'Metal Drummer Kit Style Quiz',
+        applicationCategory: 'GameApplication',
+        url: `${BASE_URL}/kit-quiz`,
+        operatingSystem: 'Any',
+      }),
     };
   }
 
@@ -832,6 +840,15 @@ function getMetaForPath(pathname) {
       description: 'Create your own metal drummer tier list. Rank legends like Joey Jordison, Dave Lombardo, and George Kollias from S to D tier.',
       type: 'website',
       url: `${BASE_URL}/tools/tier-list`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'WebApplication',
+        name: 'Metal Drummer Tier List',
+        applicationCategory: 'GameApplication',
+        url: `${BASE_URL}/tools/tier-list`,
+        operatingSystem: 'Any',
+        description: 'Create your own metal drummer tier list ranking S to D tier.',
+      }),
     };
   }
 
@@ -842,6 +859,14 @@ function getMetaForPath(pathname) {
       description: 'Generate an epic metal drummer name in seconds. Perfect for band projects, gaming aliases, or just for fun.',
       type: 'website',
       url: `${BASE_URL}/tools/name-generator`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'WebApplication',
+        name: 'Metal Drummer Name Generator',
+        applicationCategory: 'UtilitiesApplication',
+        url: `${BASE_URL}/tools/name-generator`,
+        operatingSystem: 'Any',
+      }),
     };
   }
 
@@ -853,6 +878,14 @@ function getMetaForPath(pathname) {
       image: `${BASE_URL}/images/og/guess-the-kit-preview.png`,
       type: 'website',
       url: `${BASE_URL}/guess-the-kit`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'WebApplication',
+        name: 'Guess the Kit — Metal Drummer Trivia Game',
+        applicationCategory: 'GameApplication',
+        url: `${BASE_URL}/guess-the-kit`,
+        operatingSystem: 'Any',
+      }),
     };
   }
 

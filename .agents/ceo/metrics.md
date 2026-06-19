@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-18 23:35 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-19 00:56 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,59 +8,57 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 51 |
-| Sessions | 68 |
-| Page views | 124 |
-| Engagement rate | 47.06% |
-| Avg session (s) | 122 |
+| Active users | 44 |
+| Sessions | 60 |
+| Page views | 100 |
+| Engagement rate | 43.33% |
+| Avg session (s) | 130 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 42 | 12 |
-| /drummer/2 | 12 | 10 |
+| / | 33 | 10 |
+| /drummer/2 | 11 | 9 |
 | /drummers | 10 | 1 |
 | /tools | 6 | 1 |
-| /drummer/32 | 5 | 5 |
 | /drummer/shannon-larkin | 5 | 2 |
+| /drummer/32 | 3 | 3 |
 | /drummer/46 | 3 | 2 |
 | /gear | 3 | 1 |
-| /articles/whats-in-tomas-haakes-kit | 2 | 2 |
 | /drummer/16 | 2 | 2 |
+| /articles | 1 | 1 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 37 | 33 |
-| Direct | 28 | 15 |
-| Unassigned | 22 | 15 |
+| Direct | 28 | 14 |
+| Organic Search | 28 | 26 |
+| Unassigned | 23 | 16 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 1,322 |
-| Clicks | 23 |
-| CTR | 1.74% |
+| Impressions | 1,148 |
+| Clicks | 18 |
+| CTR | 1.57% |
 | Avg position | 8.5 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| matt greiner drum setup | 19 | 3 | 15.79% | 7.4 |
-| joey jordison drum kit for sale | 10 | 2 | 20.00% | 6.6 |
-| joey jordison drum set | 128 | 1 | 0.78% | 9.0 |
+| joey jordison drum kit for sale | 8 | 2 | 25.00% | 5.8 |
+| matt greiner drum setup | 15 | 2 | 13.33% | 7.5 |
 | joey jordison drumkit | 3 | 1 | 33.33% | 6.0 |
-| mario duplantier gear | 4 | 1 | 25.00% | 7.3 |
+| mario duplantier gear | 3 | 1 | 33.33% | 6.0 |
 | aquiles priester drum kit | 12 | 0 | 0.00% | 6.5 |
 | aquiles priester drum set | 1 | 0 | 0.00% | 10.0 |
 | behemoth drum kit | 1 | 0 | 0.00% | 9.0 |
 | behemoth drummer inferno | 1 | 0 | 0.00% | 12.0 |
-| ben koller drum setup | 4 | 0 | 0.00% | 3.3 |
+| ben koller drums | 1 | 0 | 0.00% | 14.0 |
+| brann dailor drum kit | 13 | 0 | 0.00% | 5.2 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
-| Query | Impr | CTR | Pos | Action |
-| --- | --- | --- | --- | --- |
-| joey jordison drum set | 128 | 0.78% | 9.0 | open issue to answer better |
+_no significant gaps detected — all queries with traction have decent CTR_
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

@@ -441,6 +441,46 @@ function getMetaForPath(pathname) {
       image: `${BASE_URL}/images/og/tools-preview.png`,
       type: 'website',
       url: `${BASE_URL}/tools`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@graph': [
+          {
+            '@type': 'CollectionPage',
+            name: 'Metal Drummer Gear Tools',
+            description: 'Free tools for metal drummers: gear search, kit builder, tier list, name generator, and more.',
+            url: `${BASE_URL}/tools`,
+            publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+            hasPart: [
+              { '@type': 'WebApplication', name: 'Gear Search', url: `${BASE_URL}/tools/gear-search` },
+              { '@type': 'WebApplication', name: 'Dream Set Builder', url: `${BASE_URL}/tools/dream-set-builder` },
+              { '@type': 'WebApplication', name: 'Kit Builder', url: `${BASE_URL}/tools/kit-builder` },
+              { '@type': 'WebApplication', name: 'Gear Comparison', url: `${BASE_URL}/tools/compare` },
+              { '@type': 'WebApplication', name: 'Tier List', url: `${BASE_URL}/tools/tier-list` },
+              { '@type': 'WebApplication', name: 'Name Generator', url: `${BASE_URL}/tools/metal-drummer-name-generator` },
+            ],
+          },
+          {
+            '@type': 'FAQPage',
+            mainEntity: [
+              {
+                '@type': 'Question',
+                name: 'What free tools does MetalForge offer for drummers?',
+                acceptedAnswer: { '@type': 'Answer', text: 'MetalForge offers 6 free tools: Gear Search (find gear by brand or drummer), Dream Set Builder (design your ideal kit), Kit Builder, Gear Comparison, Drummer Tier List, and Metal Drummer Name Generator. All are free at metalforge.io/tools.' },
+              },
+              {
+                '@type': 'Question',
+                name: 'How do I compare drummer gear setups online?',
+                acceptedAnswer: { '@type': 'Answer', text: "Use MetalForge's Gear Comparison tool at metalforge.io/tools/compare to compare drum kit setups side by side between any two pro metal drummers." },
+              },
+              {
+                '@type': 'Question',
+                name: 'Is there a metal drummer name generator?',
+                acceptedAnswer: { '@type': 'Answer', text: "Yes — MetalForge's Metal Drummer Name Generator at metalforge.io/tools/metal-drummer-name-generator creates unique metal drummer aliases using genre, style, and influence inputs." },
+              },
+            ],
+          },
+        ],
+      }),
     };
   }
 

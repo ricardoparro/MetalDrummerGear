@@ -1,1 +1,1 @@
-{"issue":1354,"status":"already-shipped","shippedIn":"#1425","note":"breadcrumbSchema [Home, drummer.name, Gear History] already present in gear-history handler at api/meta/[...path].js lines 1176-1179. node --check: PASS. No changes needed.","runDate":"2026-06-19"}
+{"issue":1354,"status":"already-shipped","shippedIn":"#1425","note":"breadcrumbSchema [Home, drummer.name, Gear History] already present in gear-history handler at api/meta/[...path].js lines 1281-1285. node --check: PASS. No changes needed.","runDate":"2026-06-19"}

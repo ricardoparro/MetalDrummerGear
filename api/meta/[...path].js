@@ -1449,12 +1449,115 @@ function getMetaForPath(pathname) {
     const catSlug = gearCategoryMatch[1];
     const catMeta = GEAR_CATEGORY_META[catSlug];
     if (catMeta) {
+      // Issue #1427: CollectionPage + BreadcrumbList + FAQPage for gear category pages
+      const catName = catMeta.name;
+      const catUrl = `${BASE_URL}/gear/${catSlug}`;
+      const GEAR_CATEGORY_FAQ = {
+        cymbals: [
+          {
+            question: 'What are the best cymbals for metal?',
+            answer: `The most popular metal cymbals are from Zildjian (A Custom, Z Custom), Paiste (2002, Alpha), Meinl (Classics Custom, Byzance Dark), and Sabian (AAX, HH). Browse the full breakdown at ${catUrl}.`,
+          },
+          {
+            question: 'Which metal drummers use Zildjian or Meinl cymbals?',
+            answer: 'Drummers like Lars Ulrich (Metallica) and Dave Lombardo (Slayer) are known for Zildjian, while Dirk Verbeuren (Megadeth) and Marco Minnemann favour Meinl. Many pros mix brands across ride, crash, and hi-hat.',
+          },
+          {
+            question: 'What should I look for in metal cymbals?',
+            answer: 'Metal cymbals need quick response, cutting projection, and durability under heavy sticking. Look for medium-to-heavy weight crashes (16–18 inch), a loud, dry ride, and tight hi-hats. Avoid thin jazz cymbals — they crack under blast beats.',
+          },
+        ],
+        snares: [
+          {
+            question: 'What are the best snare drums for metal?',
+            answer: `Top metal snares include the Pearl Free-Floating, Ludwig Black Beauty, DW Collector's, and signature models from Tama and Mapex. See the full list at ${catUrl}.`,
+          },
+          {
+            question: 'Which metal drummers use signature snare drums?',
+            answer: "Joey Jordison (Slipknot) used a Tama signature snare, Lars Ulrich is known for a Ludwig Black Beauty, and Gene Hoglan plays a Pearl Free-Floating. Signature models are tuned for maximum crack and projection.",
+          },
+          {
+            question: 'What should I look for in a metal snare drum?',
+            answer: 'Choose a steel or aluminium shell (6.5–8 inch depth) for maximum crack and attack. Tighter tension heads (Remo Ambassador CS or Evans ST) reduce overtones for a dry, cutting snare sound essential in metal production.',
+          },
+        ],
+        drums: [
+          {
+            question: 'What are the best drum kits for metal?',
+            answer: `The most-used metal kits include Tama Starclassic, Pearl Masters, DW Collector's, and Mapex Saturn. Many pros add extra bass drums or toms. Full breakdown at ${catUrl}.`,
+          },
+          {
+            question: 'Which metal drummers use Tama or Pearl kits?',
+            answer: "Tama is favoured by drummers like Nicko McBrain (Iron Maiden) and Yoshiki (X Japan). Pearl kits are used by Gene Hoglan and Chad Smith. DW is popular across thrash and death metal.",
+          },
+          {
+            question: 'What should I look for in a metal drum kit?',
+            answer: 'Prioritise shell depth (deeper toms = more punch), a rigid hardware system, and a heavy-duty bass drum pedal mount. Birch or maple shells are common choices; avoid entry-level poplar kits for live metal performance.',
+          },
+        ],
+        pedals: [
+          {
+            question: 'What are the best bass drum pedals for metal?',
+            answer: `Top metal double pedals include the DW 9002, Tama Iron Cobra, Pearl Eliminator, and Mapex Falcon. Speed plate linkage and spring tension matter most for blast beats. Full comparison at ${catUrl}.`,
+          },
+          {
+            question: 'Which metal drummers use DW or Tama pedals?',
+            answer: "Dave Lombardo (Slayer) is known for DW 9002 double pedals. George Kollias (Nile) has used Pearl Eliminators. Many drummers choose based on footboard feel and spring response rather than brand loyalty.",
+          },
+          {
+            question: 'What should I look for in a metal bass drum pedal?',
+            answer: 'For metal and extreme speeds, look for a direct-drive or longboard cam pedal, adjustable spring tension, and a chain or direct-drive linkage. Heel-up playing favours a longer footboard; heel-toe technique suits compact boards.',
+          },
+        ],
+        sticks: [
+          {
+            question: 'What are the best drumsticks for metal?',
+            answer: `Popular metal drumstick models include Vic Firth 5B and 2B, Promark TX5BW, and Zildjian Artist Series. Hickory for durability, maple for speed. See the full breakdown at ${catUrl}.`,
+          },
+          {
+            question: 'Which metal drummers have signature drumsticks?',
+            answer: "Benny Greb, Dave Lombardo, and Lars Ulrich have signature stick lines. Most metal drummers favour heavier sticks (5B or 2B) with nylon tips for cymbal projection and wood tips for a warmer tom sound.",
+          },
+          {
+            question: 'What should I look for in metal drumsticks?',
+            answer: 'Choose hickory for durability under hard hitting; maple if you prioritise speed. Go heavier (5B, 2B) for metal to withstand rim shots and hard crashes. Nylon tips give brighter cymbal articulation; wood tips are warmer but wear faster.',
+          },
+        ],
+        hardware: [
+          {
+            question: 'What drum hardware do metal drummers use?',
+            answer: `Metal drummers rely on heavy-duty stands from Tama, Pearl, DW, and Gibraltar — double-braced legs, memory locks, and rack systems for large kit configurations. See gear used by pros at ${catUrl}.`,
+          },
+          {
+            question: 'Which metal drummers use rack systems vs traditional stands?',
+            answer: "Rack systems (Pearl DR-503, DW DWCP9000) are common in large metal setups — Gene Hoglan and Chris Adler use them for stability across multiple toms. Traditional stands work fine for smaller kits and touring.",
+          },
+          {
+            question: 'What should I look for in metal drum hardware?',
+            answer: 'Metal drumming requires double-braced stands rated for heavy use. Look for hi-hat stands with smooth action (for fast open-close work), snare stands with memory locks, and boom cymbal arms with ratchet tilters. Avoid single-braced stands — they wobble under hard hitting.',
+          },
+        ],
+      };
       return {
-        title: `Best ${catMeta.name} for Metal — What the Pros Use | ${SITE_NAME}`,
+        title: `Best ${catName} for Metal — What the Pros Use | ${SITE_NAME}`,
         description: catMeta.description,
         image: DEFAULT_IMAGE,
         type: 'website',
-        url: `${BASE_URL}/gear/${catSlug}`,
+        url: catUrl,
+        articleSchema: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'CollectionPage',
+          name: `Best ${catName} for Metal`,
+          description: catMeta.description,
+          url: catUrl,
+          publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+        }),
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: 'Gear', url: `${BASE_URL}/gear` },
+          { name: catName, url: catUrl },
+        ],
+        faqSchema: GEAR_CATEGORY_FAQ[catSlug] || [],
       };
     }
   }

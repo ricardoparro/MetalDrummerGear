@@ -5,6 +5,7 @@
       "main": false
     }
   },
+  "ignoreCommand": "bash -c 'case \"$VERCEL_GIT_COMMIT_REF\" in ralph/*) exit 0 ;; *) exit 1 ;; esac'",
   "crons": [
     {
       "path": "/api/cron/fetch-news",

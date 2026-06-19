@@ -9,12 +9,16 @@ name: Ralph (Watcher + Implementer)
 # Specs: .ralph/AGENT.md, .agents/github-watcher/WATCHER-AGENT.md
 
 on:
-  # React immediately when an issue is opened, reopened, or (re)labelled…
+  # React when an issue is opened or reopened. NOT on `labeled` — we churn
+  # labels constantly (in-progress/pr-opened/promotions), and each label change
+  # fired a full drain run, which was a large, mostly-redundant Actions cost.
   issues:
-    types: [opened, reopened, labeled]
-  # …plus a safety-net poll, and manual trigger.
+    types: [opened, reopened]
+  # Daytime safety-net poll only (every 2h, 08–22 UTC). Nights are covered by
+  # ralph-night-fleet.yml — running this single worker then just competed with
+  # the fleet for the Claude subscription rate limit and burned Actions minutes.
   schedule:
-    - cron: '13,43 * * * *'   # every 30 min, off the :00/:30 rush
+    - cron: '13 8-22/2 * * *'
   workflow_dispatch:
 
 permissions:

@@ -789,6 +789,15 @@ function getMetaForPath(pathname) {
           image: album.ogImage || DEFAULT_IMAGE,
           articleSection: album.genre ? `${album.genre} Drumming` : 'Drummer Gear',
           keywords,
+          about: album.relatedDrummerSlug ? [
+            {
+              '@type': 'Person',
+              name: album.drummer || album.relatedDrummerSlug,
+              url: `${BASE_URL}/drummer/${album.relatedDrummerSlug}`,
+              sameAs: `https://en.wikipedia.org/wiki/${encodeURIComponent((album.drummer || '').replace(/ /g, '_'))}`,
+            },
+          ] : undefined,
+          mentions: album.band ? [{ '@type': 'MusicGroup', name: album.band }] : undefined,
         },
         breadcrumbSchema: [
           { name: 'Home', url: BASE_URL },
@@ -1640,7 +1649,15 @@ ${meta.articleSchema}
   if (meta.articleSchema.keywords && meta.articleSchema.keywords.length > 0) {
     schema.keywords = meta.articleSchema.keywords.join(', ');
   }
-  
+
+  // Issue #1405: about (Person entity) and mentions (MusicGroup)
+  if (meta.articleSchema.about) {
+    schema.about = meta.articleSchema.about;
+  }
+  if (meta.articleSchema.mentions) {
+    schema.mentions = meta.articleSchema.mentions;
+  }
+
   return `
   <!-- Article Structured Data (Issue #777) -->
   <script type="application/ld+json">

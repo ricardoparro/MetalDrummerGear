@@ -220,18 +220,6 @@ import RelatedDrummersBlock from './components/RelatedDrummersBlock';
 // Stub-tested on the Lars Ulrich page here; #1007 rolls it out everywhere.
 import SharedGearDrummersBlock from './components/SharedGearDrummersBlock';
 
-// Wishlist Components (Issue #823) - Conversion funnel feature
-import WishlistButton, { FloatingWishlistButton, WishlistBadge } from './components/WishlistButton';
-import {
-  isWishlistPage,
-  getSharedWishlistFromUrl,
-  addToWishlist,
-  isInWishlist,
-  getWishlistCount,
-  trackWishlistEvent,
-} from './utils/wishlist';
-const LazyWishlistPage = lazy(() => import('./components/WishlistPage'));
-
 // Drummer Battle - Weekly Voting Feature (Issue #689)
 // Lazy loaded for performance optimization (#708) - 10KB module
 let _battlesModule = null;
@@ -5412,18 +5400,6 @@ function GearSection({ title, content, theme, gearType, drummerName, drummerSlug
     <View style={styles.gearSection} nativeID={`speakable-gear-${gearType}`}>
       <View style={styles.gearSectionHeader}>
         <Text style={[styles.gearTitle, { color: titleColor }]}>{title}</Text>
-        {/* Wishlist Button (Issue #823) */}
-        {drummerSlug && (
-          <WishlistButton
-            drummerName={drummerName}
-            drummerSlug={drummerSlug}
-            gearType={gearType}
-            itemName={content}
-            primaryProduct={primaryProduct}
-            estimatedPrice={estimatedPrice || 0}
-            compact={true}
-          />
-        )}
       </View>
       <Text style={[styles.gearContent, { color: theme.secondaryText }]} nativeID={`speakable-gear-${gearType}-content`}>{content}</Text>
       {seriesLink && (
@@ -6702,7 +6678,6 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
 
       <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
         <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">Gear Setup</Text>
-        {/* GearSection with wishlist support (Issue #823) */}
         {(() => {
           const kitCost = calculateKitCost(drummer.gear);
           return (
@@ -22882,9 +22857,6 @@ function AppContent() {
   const [showSpotlights, setShowSpotlights] = useState(() => isSpotlightsPage());
   const [showRedditLanding, setShowRedditLanding] = useState(() => isRedditLandingPage());
   
-  // Wishlist Page state (Issue #823) - Conversion funnel feature
-  const [showWishlist, setShowWishlist] = useState(() => isWishlistPage());
-  
   const [showGearByBudget, setShowGearByBudget] = useState(() => isGearByBudgetPage());
   const [showList, setShowList] = useState(() => isListPage());
   const [listSlug, setListSlug] = useState(() => getListSlugFromURL());
@@ -23568,26 +23540,6 @@ function AppContent() {
       } else if (isRedditLandingPage()) {
         // Reddit Landing Page (Issue #819) - /reddit
         setShowRedditLanding(true);
-        setShowQuotes(false);
-        setShowPrivacy(false);
-        setShowQuiz(false);
-        setShowCompare(false);
-        setShowSpotlights(false);
-        setShowGearByBudget(false);
-        setShowList(false);
-        setListSlug(null);
-        setShowGearFinder(false);
-        setShowBandDetail(false);
-        setBandSlug(null);
-        setShowBioPage(false);
-        setBioSlug(null);
-        setSelectedDrummer(null);
-        setSelectedDrummerId(null);
-        setSelectedGear(null);
-      } else if (isWishlistPage()) {
-        // Wishlist Page (Issue #823) - /wishlist
-        setShowWishlist(true);
-        setShowRedditLanding(false);
         setShowQuotes(false);
         setShowPrivacy(false);
         setShowQuiz(false);
@@ -25285,7 +25237,6 @@ function AppContent() {
         setGearCategory(null);
         setGearCategoryData(null);
         setShowRedditLanding(false);
-        setShowWishlist(false);
         setShowSpotlights(false);
         setShowBattlePage(false);
         setBattleSlug(null);
@@ -25325,7 +25276,6 @@ function AppContent() {
         setShowPrivacy(false);
         setShowQuotes(false);
         setShowRedditLanding(false);
-        setShowWishlist(false);
         setShowNewsPage(false);
         setShowGearNewsPage(false);
         setShowGearStats(false);
@@ -26857,26 +26807,6 @@ setShowList(false);
         />
       );
     }
-    // Wishlist Page (Issue #823) - /wishlist
-    if (showWishlist) {
-      return (
-        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
-          <LazyWishlistPage
-            theme={theme}
-            onBack={() => {
-              setShowWishlist(false);
-              if (Platform.OS === 'web' && typeof window !== 'undefined') {
-                window.history.pushState({}, '', '/');
-              }
-            }}
-            onNavigateToDrummer={(slug) => {
-              setShowWishlist(false);
-              handleSelectDrummer({ slug });
-            }}
-          />
-        </Suspense>
-      );
-    }
     if (showSpotlights) {
       return (
         <SpotlightsArchivePage
@@ -28167,32 +28097,11 @@ setShowList(false);
             window.dispatchEvent(new PopStateEvent('popstate'));
           }
         }}
-        rightSlot={
-          <>
-            <WishlistBadge
-              onPress={() => {
-                setShowWishlist(true);
-                if (Platform.OS === 'web' && typeof window !== 'undefined') {
-                  window.history.pushState({}, '', '/wishlist');
-                }
-              }}
-            />
-            <ThemeToggle />
-          </>
-        }
+        rightSlot={<ThemeToggle />}
       />
       {/* Spacer so fixed header doesn't overlap content */}
       <View style={{ height: HEADER_HEIGHT }} />
       {renderContent()}
-      {/* Wishlist FAB (Issue #823) - Shows when items saved */}
-      <FloatingWishlistButton
-        onPress={() => {
-          setShowWishlist(true);
-          if (Platform.OS === 'web' && typeof window !== 'undefined') {
-            window.history.pushState({}, '', '/wishlist');
-          }
-        }}
-      />
       <StickyCTA
         onNavigate={(path) => {
           if (Platform.OS === 'web' && typeof window !== 'undefined') {

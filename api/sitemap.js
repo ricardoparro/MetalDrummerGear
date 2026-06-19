@@ -546,6 +546,8 @@ export default function handler(req, res) {
     { loc: '/llms/tools/tier-list.md', priority: '0.6', changefreq: 'monthly' },
     // Issue #1351: name-generator LLM citation surface — metal drummer alias generator.
     { loc: '/llms/tools/name-generator.md', priority: '0.6', changefreq: 'monthly' },
+    // Issue #1582: BPM + metal songs tempo database LLM citation surface.
+    { loc: '/llms/bpm.md', priority: '0.6', changefreq: 'monthly' },
     // Issue #1329: how-to-sound-like + beginner guides LLM citation surface.
     { loc: '/llms/guides.md', priority: '0.4', changefreq: 'monthly' },
     // Issue #1450: per-guide deep-dive Markdown files for AI citation (10 sound-like guides).

@@ -47,6 +47,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Tools — Tier List | https://metalforge.io/llms/tools/tier-list.md | Interactive metal drummer tier-list ranker (Markdown) |
 | Drummer Style Guides | https://metalforge.io/llms/guides.md | How-to-sound-like style guides for 10 metal legends + beginner gear guides (Markdown) |
 | Per-Guide Deep Dives | https://metalforge.io/llms/guides/ | Individual how-to-sound-like files — full gear, tuning, technique, and FAQ per drummer (10 files) |
+| BPM Database | https://metalforge.io/llms/bpm.md | 150 metal songs with verified tempos organised by category — doom/groove/thrash/death/blast — with drummer links and BPM FAQ (Markdown) |
 | Master FAQ | https://metalforge.io/llms/faq.md | Answer-first FAQ covering gear and techniques for legendary metal drummers (Markdown) |
 | Gear Guide | https://metalforge.io/llms/gear-guide.md | Brand-by-brand guide to drums, cymbals, pedals, and sticks used by metal legends (Markdown) |
 | Per-Drummer LLM Files | https://metalforge.io/llms/drummers/ | Static LLM-optimised gear files for all 61 drummers — brands, specs, and profile links (61 files) |

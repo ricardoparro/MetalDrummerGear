@@ -2643,6 +2643,16 @@ export function generateGuideSchema(guide) {
     });
   }
 
+  const supply = guide.gear?.drumKit ? [
+    { "@type": "HowToSupply", "name": `${guide.gear.drumKit.brand} ${guide.gear.drumKit.model}` }
+  ].filter(s => s.name !== 'undefined undefined') : [];
+
+  const tools = guide.gear ? [
+    guide.gear.sticks ? { "@type": "HowToTool", "name": `${guide.gear.sticks.brand} ${guide.gear.sticks.model}` } : null,
+    guide.gear.cymbals ? { "@type": "HowToTool", "name": `${guide.gear.cymbals.brand} ${guide.gear.cymbals.series}` } : null,
+    guide.gear.pedals ? { "@type": "HowToTool", "name": `${guide.gear.pedals.brand} ${guide.gear.pedals.model}` } : null,
+  ].filter(t => t && t.name !== 'undefined undefined') : [];
+
   return {
     "@context": "https://schema.org",
     "@type": "HowTo",
@@ -2650,12 +2660,9 @@ export function generateGuideSchema(guide) {
     "description": guide.description,
     "image": `https://metalforge.io${guide.ogImage}`,
     "totalTime": `PT${guide.readingTime?.replace(' min', 'M') || '10M'}`,
+    "supply": supply,
+    "tool": tools,
     "step": steps,
-    "tool": guide.gear ? [
-      { "@type": "HowToTool", "name": `${guide.gear.drumKit?.brand} ${guide.gear.drumKit?.model}` },
-      { "@type": "HowToTool", "name": `${guide.gear.cymbals?.brand} ${guide.gear.cymbals?.series}` },
-      { "@type": "HowToTool", "name": `${guide.gear.pedals?.brand} ${guide.gear.pedals?.model}` }
-    ].filter(t => t.name !== 'undefined undefined') : []
   };
 }
 

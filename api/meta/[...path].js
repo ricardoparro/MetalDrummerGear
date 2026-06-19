@@ -836,6 +836,7 @@ function getMetaForPath(pathname) {
 
   // Issue #1172: /bands/<slug> — band-specific SSR title + description
   // Issue #1307: FAQPage JSON-LD for band pages
+  // Issue #1396: MusicGroup + BreadcrumbList JSON-LD for all 19 /bands/<slug> pages
   const bandMatch = path.match(/^\/bands\/([a-z0-9-]+)$/);
   if (bandMatch) {
     const band = BAND_DATA[bandMatch[1]];

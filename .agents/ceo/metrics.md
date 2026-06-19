@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-19 06:46 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-19 07:53 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -38,24 +38,24 @@
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 1,148 |
-| Clicks | 18 |
-| CTR | 1.57% |
-| Avg position | 8.5 |
+| Impressions | 1,363 |
+| Clicks | 22 |
+| CTR | 1.61% |
+| Avg position | 8.6 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| joey jordison drum kit for sale | 8 | 2 | 25.00% | 5.8 |
-| matt greiner drum setup | 15 | 2 | 13.33% | 7.5 |
-| joey jordison drumkit | 3 | 1 | 33.33% | 6.0 |
-| mario duplantier gear | 3 | 1 | 33.33% | 6.0 |
-| aquiles priester drum kit | 12 | 0 | 0.00% | 6.5 |
+| joey jordison drum kit for sale | 9 | 2 | 22.22% | 5.8 |
+| matt greiner drum setup | 17 | 2 | 11.76% | 7.5 |
+| joey jordison drumkit | 6 | 1 | 16.67% | 5.8 |
+| mario duplantier gear | 4 | 1 | 25.00% | 6.5 |
+| aquiles priester drum kit | 13 | 0 | 0.00% | 6.4 |
 | aquiles priester drum set | 1 | 0 | 0.00% | 10.0 |
-| behemoth drum kit | 1 | 0 | 0.00% | 9.0 |
+| behemoth drum kit | 2 | 0 | 0.00% | 10.5 |
 | behemoth drummer inferno | 1 | 0 | 0.00% | 12.0 |
+| ben koller | 1 | 0 | 0.00% | 29.0 |
 | ben koller drums | 1 | 0 | 0.00% | 14.0 |
-| brann dailor drum kit | 13 | 0 | 0.00% | 5.2 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 _no significant gaps detected — all queries with traction have decent CTR_

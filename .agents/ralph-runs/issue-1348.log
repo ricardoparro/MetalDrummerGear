@@ -1,1 +1,1 @@
-fix already shipped in #1420; CollectionPage schema + breadcrumb present at api/meta/[...path].js:387-408; syntax OK; desc 139 chars OK; run 2026-06-19
+fix already shipped in #1420; CollectionPage schema + breadcrumb present at api/meta/[...path].js:387-408; syntax OK; desc 139 chars OK; title 70 chars (matches codebase norm); run 2026-06-19

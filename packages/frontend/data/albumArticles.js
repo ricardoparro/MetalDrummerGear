@@ -26020,6 +26020,252 @@ For deeper exploration:
 - **Blast beat technique**: [Blast beat guide at MetalForge](/technique/blast-beat)
 - **Double bass technique**: [Double-bass drumming at MetalForge](/technique/double-bass-drumming)`
     }
+  },
+
+  'jocke-wallgren-drum-setup': {
+    slug: 'jocke-wallgren-drum-setup',
+    articleType: 'drummer-kit',
+    drummer: 'Jocke Wallgren',
+    relatedDrummerSlug: 'jocke-wallgren',
+    band: 'Amon Amarth',
+    bands: ['Amon Amarth', 'Valkyria'],
+    genre: 'Melodic Death Metal',
+    country: 'Sweden',
+    isAlbumArticle: true,
+    datePublished: '2026-06-19',
+    dateModified: '2026-06-19',
+    author: 'MetalForge Editorial',
+    title: 'Jocke Wallgren\'s Drum Setup — Amon Amarth\'s Viking Metal Kit',
+    metaTitle: 'Jocke Wallgren Drum Kit & Gear Setup — Amon Amarth | MetalForge',
+    description: 'Complete gear breakdown for Jocke Wallgren of Amon Amarth. Drum kit, cymbals, pedals, sticks, and how his setup powers the viking metal sound.',
+    seoKeywords: ['jocke wallgren drum setup', 'amon amarth drummer', 'jocke wallgren drum kit', 'amon amarth drum gear', 'jocke wallgren cymbals', 'amon amarth drummer kit', 'twilight of the thunder god drums', 'viking metal drum setup'],
+    ogImage: '/images/drummers/jocke-wallgren.webp',
+    quickFacts: {
+      kit: 'Pearl Masters (Reference/Maple series)',
+      cymbals: 'Sabian AAX / HHX',
+      doublePedals: 'DW or Pearl double bass pedal',
+      sticks: 'Vic Firth 5B or 2B',
+      bands: 'Amon Amarth / Valkyria',
+      tempoRange: '160–220 BPM melodic death/viking metal grooves'
+    },
+    intro: {
+      title: 'Jocke Wallgren: Viking Metal Power Behind Amon Amarth',
+      content: `Jocke Wallgren (born April 1, 1986, in Karlstad, Sweden) is the drummer for Amon Amarth, one of the most consistently successful and globally beloved bands in melodic death and viking metal. He joined the band for the Jomsviking album (2016), replacing founding drummer Fredrik Andersson, and has since anchored the band's studio and live performances through Berserker (2019) and The Great Heathen Army (2022).
+
+Amon Amarth's music places unique demands on a drummer. The band's songs are built on long, epic arcs — anthemic verse-chorus structures over galloping double bass patterns, melodic guitar leads, and a production aesthetic that emphasizes power and forward motion over technical complexity. Wallgren's role is to anchor that momentum: sustaining double bass intensity over extended song durations, driving the rhythmic feel on which Johan Hegg's vocals and the twin guitars of Olavi Mikkeli and Johan Söderberg project the band's signature sound.
+
+His setup reflects that context. Pearl's Masters series drums provide the shell weight and projection needed for large outdoor stages and arenas. Sabian cymbals — built for fast attack and controlled projection — complement his driving groove approach. DW's double bass pedal hardware supports the sustained, consistent double kick patterns that run through Amon Amarth's catalogue from Twilight of the Thunder God to The Pursuit of Vikings.
+
+This article covers every component of Wallgren's drum setup, how the gear serves Amon Amarth's viking metal context, and the technique approach that has made him a trusted anchor for one of Sweden's most internationally successful metal exports.`,
+      keyPoints: [
+        'Amon Amarth drummer since the Jomsviking era (2016) — carrying forward the legacy of one of viking/melodic death metal\'s flagship bands',
+        'Pearl Masters series drums — shell weight and projection suited for large outdoor festivals and arenas',
+        'Sabian AAX/HHX cymbals — fast attack and controlled decay supporting the driving groove of Amon Amarth\'s anthemic material',
+        'DW double bass pedal — consistent double kick for the galloping patterns central to Amon Amarth\'s rhythmic identity',
+        'Power and groove oriented style built for sustained endurance across epic-length viking metal songs',
+        'Previously with Valkyria — Swedish metal background before joining one of the genre\'s leading international acts'
+      ]
+    },
+    drumKit: {
+      title: 'Pearl Masters: Festival-Ready Viking Metal Firepower',
+      brand: 'Pearl',
+      model: 'Pearl Masters (Reference or Maple series)',
+      finish: 'Various finishes across touring cycles',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum (x2 — double kick configuration)'],
+        toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
+        floorToms: ['16" x 14" Floor Tom', '18" x 16" Floor Tom'],
+        shells: 'Maple shells — Pearl Masters construction for punch and projection'
+      },
+      description: `Jocke Wallgren's Pearl Masters kit is configured for the specific acoustic and physical demands of Amon Amarth's festival and arena touring schedule. Pearl's Masters series uses maple shells across its primary construction — maple delivers immediate attack, clear projection, and the focused mid-range that translates well across large outdoor stages where the sound environment is unpredictable and competitive with crowd noise, PA systems, and open-air acoustic diffusion.
+
+The double bass drum configuration is the central feature of Wallgren's setup. Amon Amarth's music is built on galloping, driving rhythms where double kick patterns sustain for entire song sections at a time — from the relentless drive of "Twilight of the Thunder God" to the epic arc of "Deceiver of the Gods." Two 22" bass drums give Wallgren the sub-bass frequency mass and individual kick articulation needed to sustain these patterns across full-length sets without the fatigue that single-drum double pedal configurations can introduce.
+
+The tom configuration — two rack toms and two floor toms — provides the fill range required by Amon Amarth's song arrangements while keeping the physical kit manageable for the band's demanding touring schedule. Pearl's hardware is built for consistency and durability across repeated setup and breakdown cycles, a practical requirement for any band operating at Amon Amarth's touring intensity.`,
+      notes: [
+        'Pearl Masters — maple shells for immediate attack and projection on large outdoor stages',
+        'Double 22" bass drums for galloping double kick sustained through full Amon Amarth sets',
+        'Four-tom spread provides fill range for Amon Amarth\'s epic-structure arrangements',
+        'Pearl hardware built for touring durability across repeated stage setups'
+      ],
+      estimatedValue: '$3,000–5,500 (Pearl Masters shell pack)'
+    },
+    snare: {
+      title: 'Snare: Punch and Authority in the Viking Metal Mix',
+      brand: 'Pearl',
+      model: 'Pearl Free-Floating or Maple Signature Snare',
+      size: '14" x 6.5"',
+      shell: 'Maple or Steel',
+      description: `In Amon Amarth's sonic context — guitars tuned low, bass guitar driving with dense harmonic content, and Johan Hegg's deep, commanding vocal delivery sitting above it all — the snare drum must project with authority without being brittle or cutting in a way that conflicts with the band's warm, epic tonal palette.
+
+Wallgren's snare approach favors power and body over extreme brightness. A 14" x 6.5" snare — whether maple-shelled for warmth and body or steel for more aggressive crack — delivers the impact that Amon Amarth's anthemic dynamics require, particularly in live environments where the snare must cut across a full PA system to the back of a festival field.
+
+The 6.5" depth provides additional resonance and volume compared to standard 5" depths, giving each backbeat the physical presence to anchor Amon Amarth's groove-heavy material. In the studio, this translates to a snare that sits clearly in the mix even across the band's dense guitar arrangements.`,
+      tuningSetting: 'Medium to medium-high tension for punch and projection in large-venue environments',
+      heads: 'Remo Coated Emperor (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$400–700'
+    },
+    cymbals: {
+      title: 'Sabian: Attack and Projection for the Viking Stage',
+      brand: 'Sabian',
+      series: 'Sabian AAX / HHX Series',
+      setup: [
+        { type: 'Hi-Hats', model: 'Sabian 14" AAX Hi-Hats', position: 'Left side', notes: 'Fast, aggressive response — drives the galloping groove patterns central to Amon Amarth\'s rhythmic identity' },
+        { type: 'Crash', model: 'Sabian 16" AAX Crash', position: 'Left crash', notes: 'Quick, punchy crash for accent work within driving verse and chorus sections' },
+        { type: 'Crash', model: 'Sabian 18" AAX Crash', position: 'Right crash', notes: 'Fuller crash for section transitions and epic song climaxes' },
+        { type: 'Ride', model: 'Sabian 20" HHX Ride', position: 'Right', notes: 'Clear bell for ride patterns; usable as a crash-ride for the largest dynamic moments' },
+        { type: 'China', model: 'Sabian 18" AAX China', position: 'Over rack toms', notes: 'Aggressive trash accent for Amon Amarth\'s most intense rhythmic moments and song endings' }
+      ],
+      description: `Jocke Wallgren's Sabian cymbal setup is built for Amon Amarth's performance environment: outdoor festivals, arenas, and large-format venues where projection and attack matter more than delicacy. Sabian's AAX series — machine-hammered B20 bronze — produces cymbals with focused, bright voices designed to project over loud, dense guitar environments without requiring excessive volume from the drummer.
+
+The hi-hat pairing is foundational to Wallgren's groove approach. Amon Amarth's rhythmic identity is built on galloping, driving 8th and 16th-note patterns where the hi-hat defines the tempo grid above the double bass patterns. The AAX hi-hats deliver fast mechanical response and a decay profile that keeps each stroke articulate — essential for maintaining groove clarity during sustained high-tempo passages in songs like "Raise Your Horns" or "Deceiver of the Gods."
+
+The crash selection — 16" and 18" AAX — covers Amon Amarth's dynamic range. The 16" responds quickly for accent punctuation within driving sections; the 18" provides the fuller, more resonant crash needed for the structural boundaries and climactic moments of the band's epic-length songs. The china cymbal adds the aggressive, trashy character that punctuates the most intense rhythmic passages with an energy that standard crashes cannot replicate at high stage volumes.`,
+      estimatedValue: '$1,200–2,000 (full Sabian setup)'
+    },
+    hardware: {
+      title: 'DW Double Pedal: Galloping Viking Metal Drive',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'DW',
+          model: 'DW Double Bass Pedal (9000 series)',
+          notes: 'Smooth, consistent action for sustained double kick galloping patterns across full Amon Amarth sets',
+          description: "Wallgren's double bass pedal setup is engineered for the sustained, consistent double kick driving that Amon Amarth's rhythmic style demands. Unlike extreme death metal where double bass patterns operate at blast beat tempos (200–280 BPM), Amon Amarth's double kick operates at 160–200 BPM galloping tempos — slower in absolute speed but demanding in terms of endurance, as these patterns must sustain across entire song sections, often for 4+ minutes per song. The DW double pedal's smooth cam action and consistent spring tension reward the relaxed, efficient foot technique needed to maintain this endurance through full Amon Amarth sets — which typically run 90 minutes or more on their headline tours. For double bass setup methodology, see [double-bass drumming at MetalForge](/technique/double-bass-drumming)."
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth 5B or 2B',
+          notes: 'Heavier stick weight for the powerful, driving stroke required in large festival and arena environments',
+          description: "The heavier stick option — 5B or 2B — reflects Amon Amarth's performance context. In large outdoor festival environments, lighter sticks can feel undersized relative to the scale of sound production required. A heavier stick provides the physical connection between drummer and kit that translates into the commanding, powerful groove Amon Amarth's anthemic material requires."
+        },
+        {
+          type: 'Drumheads (Bass, Batter)',
+          brand: 'Remo',
+          model: 'Remo Powerstroke 3',
+          notes: 'Focused attack zone for kick articulation and projection in large-format venues'
+        },
+        {
+          type: 'Drumheads (Toms, Batter)',
+          brand: 'Remo',
+          model: 'Remo Emperor Coated',
+          notes: 'Two-ply durability and warm attack suited to Amon Amarth\'s melodic death metal tone palette'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke 3 (batter), Remo Powerstroke 3 ported (resonant)',
+        toms: 'Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)',
+        snare: 'Remo Coated Emperor (batter), Remo Ambassador Snare Side (resonant)'
+      }
+    },
+    playingStyle: {
+      title: 'Viking Metal Groove: Endurance, Power, and Anthemic Drive',
+      content: `Jocke Wallgren's drumming style is defined by the specific demands of Amon Amarth's music: sustained power, consistent groove, and the endurance required to drive epic-length viking metal songs across marathon headline sets. Where many technical metal drummers are celebrated for speed or complexity, Wallgren's value to Amon Amarth rests on reliability, feel, and the physical authority to anchor a band whose music is fundamentally anthem-driven.
+
+**The Amon Amarth Rhythmic Context:**
+Amon Amarth's songs are structured for maximum emotional and physical impact on large audiences. The arrangements build through long verses, anthemic choruses, and extended bridges — structures that reward steady, driving groove over rapid stylistic variation. Wallgren's approach matches this context: he locks with the bass guitar, drives the double kick through extended sections without rushing or varying the feel, and executes fills that serve song structure rather than showcase technical virtuosity.
+
+This approach is more demanding than it appears. Sustaining consistent, powerful groove across a 5-minute song at 180 BPM double bass tempo — and then repeating that for 15 songs across a 90-minute set — requires conditioning, relaxed technique, and a drumming philosophy that prioritizes the song over the performance.
+
+**Double Bass in the Viking Metal Context:**
+Amon Amarth's catalogue is built on galloping rhythms derived partly from NWOBHM and partly from the Swedish melodic death metal tradition. Songs like "Twilight of the Thunder God," "Raise Your Horns," and "The Pursuit of Vikings" feature double kick patterns that define the rhythmic identity of the songs themselves. Wallgren's double bass approach is groove-based rather than blast-speed-based: the patterns are consistent, pulsing, and feel-driven rather than technically extreme.
+
+The DW double pedal supports this: smooth, predictable action that translates consistent foot pressure into consistent beater impact without mechanical surprises. For a drummer maintaining the same groove for 4-minute sections, pedal consistency is the hidden foundation of performance quality.
+
+**Live Performance Scale:**
+Amon Amarth regularly plays Download Festival, Wacken Open Air, and other large-format outdoor events where drum sound must project across enormous spaces. Wallgren's setup — heavier sticks, projection-focused cymbal choices, Pearl Masters shells — is calibrated for this scale. His playing incorporates the physical authority needed to drive the groove at stage volumes that translate to audiences thousands of feet from the stage.
+
+For a profile of Wallgren's career and technique context, see [Jocke Wallgren at MetalForge](/drummer/jocke-wallgren). For technique context on double bass in metal: [double-bass drumming at MetalForge](/technique/double-bass-drumming).`,
+      keyTechniques: [
+        'Sustained double bass groove at 160–200 BPM over epic-length song structures',
+        'Power and consistency approach optimized for large outdoor festival and arena environments',
+        'Groove-locked playing that anchors Amon Amarth\'s anthemic rhythmic identity',
+        'Endurance-focused technique suited to 90-minute headline sets',
+        'Pearl Masters projection and Sabian AAX cymbal articulation for large-format stage translation'
+      ]
+    },
+    gearTimeline: [
+      {
+        era: 'Pre-Amon Amarth: Valkyria',
+        years: 'Early 2000s–2015',
+        albums: ['Valkyria studio work'],
+        description: 'Developing Swedish melodic metal drumming approach before joining Amon Amarth.',
+        gear: {
+          drums: 'Pearl kit (developing setup)',
+          snare: 'Standard maple or metal snare',
+          cymbals: 'Sabian (developing configuration)',
+          pedals: 'Double bass pedal setup'
+        },
+        notes: 'Wallgren built his reputation in Sweden\'s melodic metal underground with Valkyria before being selected to replace Fredrik Andersson, Amon Amarth\'s original drummer, bringing a powerful groove-oriented approach to the band\'s sound.'
+      },
+      {
+        era: 'Amon Amarth — Jomsviking',
+        years: '2016–2018',
+        albums: ['Jomsviking (2016)'],
+        description: 'First studio album with Amon Amarth — a concept album about a Viking warrior exile.',
+        gear: {
+          drums: 'Pearl Masters (fully configured for Amon Amarth\'s touring scale)',
+          snare: 'Pearl 14" x 6.5" for power and projection',
+          cymbals: 'Sabian AAX and HHX series',
+          pedals: 'DW double bass pedal'
+        },
+        notes: 'Jomsviking was Amon Amarth\'s first concept album and received strong commercial and critical reception. Wallgren\'s drumming on the record established his feel and approach as a natural continuation of the band\'s sound — powerful, consistent, and anthemically driven.'
+      },
+      {
+        era: 'Amon Amarth — Berserker and The Great Heathen Army',
+        years: '2019–Present',
+        albums: ['Berserker (2019)', 'The Great Heathen Army (2022)'],
+        description: 'Consolidating as Amon Amarth\'s permanent drummer across two acclaimed studio albums and extensive international touring.',
+        gear: {
+          drums: 'Pearl Masters (current full configuration)',
+          snare: 'Pearl 14" x 6.5"',
+          cymbals: 'Full Sabian AAX / HHX setup',
+          pedals: 'DW double bass pedal'
+        },
+        notes: 'Berserker (2019) and The Great Heathen Army (2022) both debuted in the top 10 of the Billboard 200, demonstrating Amon Amarth\'s sustained commercial presence. The Great Heathen Army tour featured some of the band\'s most elaborate Viking-themed stage production, with Wallgren\'s drumming anchoring performances at major European and North American festivals.'
+      }
+    ],
+    faq: [
+      {
+        question: 'What drum kit does Jocke Wallgren use?',
+        answer: 'Jocke Wallgren plays Pearl Masters series drums, configured with a double bass drum setup. His kit features two 22" bass drums for the galloping double kick patterns central to Amon Amarth\'s rhythmic identity, two rack toms (10" and 12"), and two floor toms (16" and 18"). Pearl\'s Masters series uses maple shells that deliver immediate attack and clear projection — essential for the large outdoor festival and arena environments where Amon Amarth regularly performs. The setup is configured for both power and endurance, reflecting the sustained double kick demands of Amon Amarth\'s epic-length viking metal songs. See the full [Jocke Wallgren profile at MetalForge](/drummer/jocke-wallgren) for career and technique context.'
+      },
+      {
+        question: 'What cymbals does Jocke Wallgren play?',
+        answer: 'Jocke Wallgren uses Sabian cymbals, primarily from the AAX and HHX series. His setup includes Sabian 14" AAX hi-hats, 16" and 18" AAX crashes, a 20" HHX ride, and an 18" AAX china cymbal. Sabian\'s AAX line — machine-hammered B20 bronze — produces focused, bright voices with fast attack that articulate clearly in Amon Amarth\'s dense guitar environment. The AAX hi-hats are particularly important: at the galloping 8th and 16th-note patterns that define Amon Amarth\'s groove, the hi-hats must respond fast enough to keep each stroke distinct while projecting across large outdoor stages. The china cymbal adds aggressive trash accents for the band\'s most intense rhythmic moments and song climaxes.'
+      },
+      {
+        question: 'How does Jocke Wallgren get the Amon Amarth drum sound?',
+        answer: 'Jocke Wallgren achieves Amon Amarth\'s characteristic drum sound through a combination of gear choices and a groove-focused playing approach optimized for the band\'s epic, anthemic song structures. The Pearl Masters maple shells deliver punchy attack and projection across large festival stages. Sabian AAX cymbals provide fast, articulate response that drives the galloping rhythmic patterns central to Amon Amarth\'s identity. The DW double bass pedal supports consistent, relaxed double kick sustain across full-length songs — critical for maintaining groove quality across 90-minute headline sets. His approach prioritizes endurance and feel over technical complexity: locking with the bass guitar, driving the double kick steadily through extended sections, and executing fills that serve the song\'s epic arc. For double bass technique context, see [double-bass drumming at MetalForge](/technique/double-bass-drumming).'
+      },
+      {
+        question: 'What double bass pedal does Jocke Wallgren use?',
+        answer: 'Jocke Wallgren uses a DW double bass pedal (9000 series) to drive the galloping double kick patterns that define Amon Amarth\'s rhythmic identity. DW\'s smooth cam action and consistent spring tension support the relaxed, endurance-based foot technique needed to sustain 160–200 BPM double kick patterns across full-length viking metal songs and 90-minute headline sets. Unlike extreme death metal contexts where blast beat speed is the primary challenge, Amon Amarth\'s double bass demands are endurance-focused — maintaining consistent groove at moderate-to-fast tempos over extended durations. The DW pedal\'s mechanical consistency eliminates fatigue-inducing surprises across long song sections.'
+      }
+    ],
+    relatedAlbums: ['hellhammer-drum-setup', 'frost-satyricon-drum-setup', 'jaska-raatikainen-drum-setup'],
+    relatedDrummers: ['jocke-wallgren', 'hellhammer', 'frost'],
+    relatedArticles: ['double-bass-drumming-for-metal', 'best-viking-metal-drummers'],
+    conclusion: {
+      title: 'Jocke Wallgren and the Viking Metal Groove Machine',
+      content: `Jocke Wallgren has secured his place as the permanent rhythmic foundation of one of melodic death and viking metal's most consistently successful bands. Since joining Amon Amarth for Jomsviking in 2016, he has anchored three studio albums and years of international touring — including headline slots at the world's largest metal festivals — with a drumming approach built on power, groove, and endurance.
+
+His gear reflects this philosophy at every level:
+
+- **Pearl Masters**: Maple shells with the projection and punch needed for large outdoor festival stages — attack that translates from the kit to the back of a field
+- **Sabian AAX/HHX Cymbals**: Fast-attacking instruments that drive the galloping rhythmic patterns central to Amon Amarth's identity without losing articulation at performance volumes
+- **DW Double Bass Pedal**: Smooth, consistent action supporting the relaxed, endurance-based double kick technique needed to sustain Amon Amarth's groove across marathon headline sets
+- **Remo Emperor heads**: Two-ply durability and warmth suited to the melodic death metal tonal palette
+
+The lesson from Wallgren's approach is the same as Amon Amarth's songwriting philosophy: power in service of the song, consistency over flash, and the endurance to deliver the same commanding performance on night 50 of a tour as on night one. For a band whose music is fundamentally about epic, emotionally driving viking metal anthems, that consistency is not a limitation — it is the point.
+
+For deeper exploration:
+- **Full drummer profile**: [Jocke Wallgren at MetalForge](/drummer/jocke-wallgren)
+- **Nordic black metal comparison**: [Frost — Satyricon drum setup](/articles/frost-satyricon-drum-setup)
+- **Swedish melodic death metal**: [Jaska Raatikainen — Children of Bodom drum setup](/articles/jaska-raatikainen-drum-setup)
+- **Double bass technique**: [Double-bass drumming at MetalForge](/technique/double-bass-drumming)`
+    }
   }
 
 };

@@ -519,6 +519,8 @@ export default function handler(req, res) {
     { loc: '/llms/tools/name-generator.md', priority: '0.6', changefreq: 'monthly' },
     // Issue #1329: how-to-sound-like + beginner guides LLM citation surface.
     { loc: '/llms/guides.md', priority: '0.4', changefreq: 'monthly' },
+    // Issue #1450: per-guide deep-dive Markdown files for AI citation (10 sound-like guides).
+    ...soundLikeGuides.map(g => ({ loc: `/llms/guides/${g.slug}.md`, priority: '0.5', changefreq: 'monthly' })),
     // Per-drummer Markdown profiles — low priority, full crawl coverage.
     ...llmsDrummerSlugs.map(slug => ({ loc: `/llms/drummers/${slug}.md`, priority: '0.4', changefreq: 'monthly' })),
     // Issue #1058: per-article Markdown breakdowns (public/llms/articles/<slug>.md).

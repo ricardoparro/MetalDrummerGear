@@ -603,6 +603,19 @@ function getMetaForPath(pathname) {
       image: `${BASE_URL}/images/og/news-preview.png`,
       type: 'website',
       url: `${BASE_URL}/gear-news`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        name: 'Metal Drum Gear News & Updates',
+        description: 'Latest news about metal drumming gear: new product releases, artist announcements, and industry updates.',
+        url: `${BASE_URL}/gear-news`,
+        publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+        about: { '@type': 'Thing', name: 'Drum Gear News' },
+        potentialAction: {
+          '@type': 'ReadAction',
+          target: `${BASE_URL}/gear-news`,
+        },
+      }),
     };
   }
 
@@ -2333,6 +2346,15 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/facts`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        name: 'Metal Drummer Quick Facts',
+        description: 'Quick facts, records, and trivia about metal drummers. Fastest blast beats, most expensive kits, career milestones, and gear stats from 60+ pros.',
+        url: `${BASE_URL}/facts`,
+        publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+        about: { '@type': 'Thing', name: 'Metal Drumming' },
+      }),
     };
   }
 

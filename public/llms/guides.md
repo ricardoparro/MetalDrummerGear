@@ -424,4 +424,23 @@ Build a pro-level metal drum setup for under $2000. The top tier of our budget s
 
 ---
 
+## Per-Guide Deep Dives
+
+Individual LLM markdown files for each how-to-sound-like guide — full gear specs, tuning, technique, and FAQ in one request.
+
+| Drummer | Band | Genre | LLM File |
+|---------|------|-------|----------|
+| Joey Jordison | Slipknot | Nu-Metal / Alternative Metal | [how-to-sound-like-joey-jordison.md](https://metalforge.io/llms/guides/how-to-sound-like-joey-jordison.md) |
+| Lars Ulrich | Metallica | Thrash Metal / Heavy Metal | [how-to-sound-like-lars-ulrich.md](https://metalforge.io/llms/guides/how-to-sound-like-lars-ulrich.md) |
+| Danny Carey | Tool | Progressive Metal / Art Metal | [how-to-sound-like-danny-carey.md](https://metalforge.io/llms/guides/how-to-sound-like-danny-carey.md) |
+| Tomas Haake | Meshuggah | Djent / Extreme Progressive Metal | [how-to-sound-like-tomas-haake.md](https://metalforge.io/llms/guides/how-to-sound-like-tomas-haake.md) |
+| Dave Lombardo | Slayer | Thrash Metal | [how-to-sound-like-dave-lombardo.md](https://metalforge.io/llms/guides/how-to-sound-like-dave-lombardo.md) |
+| Mario Duplantier | Gojira | Progressive Death Metal / Groove Metal | [how-to-sound-like-mario-duplantier.md](https://metalforge.io/llms/guides/how-to-sound-like-mario-duplantier.md) |
+| Gene Hoglan | Death / Testament / SYL | Death Metal / Thrash Metal | [how-to-sound-like-gene-hoglan.md](https://metalforge.io/llms/guides/how-to-sound-like-gene-hoglan.md) |
+| Brann Dailor | Mastodon | Progressive Metal / Sludge Metal | [how-to-sound-like-brann-dailor.md](https://metalforge.io/llms/guides/how-to-sound-like-brann-dailor.md) |
+| Matt Halpern | Periphery | Djent / Progressive Metal | [how-to-sound-like-matt-halpern.md](https://metalforge.io/llms/guides/how-to-sound-like-matt-halpern.md) |
+| Chris Adler | Lamb of God | Groove Metal / Thrash Metal | [how-to-sound-like-chris-adler.md](https://metalforge.io/llms/guides/how-to-sound-like-chris-adler.md) |
+
+---
+
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Techniques reference](https://metalforge.io/llms/techniques.md) · [Gear guide](https://metalforge.io/llms/gear-guide.md) · [Drummer index](https://metalforge.io/llms/index.md)

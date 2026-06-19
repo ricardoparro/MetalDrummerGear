@@ -24628,6 +24628,7 @@ The throne remains occupied. Every blast beat is exactly where it belongs.`
     genre: 'Progressive Metal / Djent',
     country: 'USA',
     isAlbumArticle: true,
+    isDrummerKit: true,
     datePublished: '2026-06-19',
     dateModified: '2026-06-19',
     author: 'MetalForge Editorial',

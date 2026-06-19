@@ -1199,6 +1199,13 @@ function getMetaForPath(pathname) {
           { name: album.title, url: `${BASE_URL}/articles/${articleSlug}` },
         ],
         faqSchema: Array.isArray(album.faq) && album.faq.length > 0 ? album.faq : null,
+        // Issue #1585: emit crawler-visible links to lick pages when relatedLicks is present
+        ssrLinks: Array.isArray(album.relatedLicks) && album.relatedLicks.length > 0
+          ? album.relatedLicks.map(l => ({
+              href: `/drummers/${l.drummerSlug}/licks/${l.lickSlug}`,
+              label: l.label,
+            }))
+          : null,
         speakableSchema: true,
       };
     }

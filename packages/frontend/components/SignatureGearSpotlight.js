@@ -691,6 +691,33 @@ function SimilarGearSection({ similarGear, theme, isMobile, onNavigateToGear }) 
   );
 }
 
+// FAQ Section
+function FAQSection({ faq, theme }) {
+  const [openIndex, setOpenIndex] = useState(null);
+  return (
+    <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+      <Text style={[styles.sectionTitle, { color: theme.text }]}>FAQ</Text>
+      {faq.map((item, idx) => (
+        <TouchableOpacity
+          key={idx}
+          onPress={() => setOpenIndex(openIndex === idx ? null : idx)}
+          style={[styles.faqItem, { borderColor: theme.border }]}
+          accessibilityLabel={`FAQ: ${item.question}`}
+        >
+          <Text style={[styles.faqQuestion, { color: theme.text }]}>
+            {openIndex === idx ? '▼' : '▶'} {item.question}
+          </Text>
+          {openIndex === idx && (
+            <Text style={[styles.faqAnswer, { color: theme.secondaryText }]}>
+              {item.answer}
+            </Text>
+          )}
+        </TouchableOpacity>
+      ))}
+    </View>
+  );
+}
+
 // Breadcrumb Navigation
 function Breadcrumbs({ gear, theme, onNavigate }) {
   const crumbs = [
@@ -777,6 +804,27 @@ export function SignatureGearSpotlightPage({ theme, onBack, onSelectDrummer, all
             }
             bcScript.textContent = JSON.stringify(breadcrumbSchema);
           }
+
+          // FAQPage schema
+          if (loadedGear.faq && loadedGear.faq.length > 0) {
+            const faqSchema = {
+              '@context': 'https://schema.org',
+              '@type': 'FAQPage',
+              'mainEntity': loadedGear.faq.map(item => ({
+                '@type': 'Question',
+                'name': item.question,
+                'acceptedAnswer': { '@type': 'Answer', 'text': item.answer },
+              })),
+            };
+            let faqScript = document.querySelector('script[data-schema="signature-gear-faq"]');
+            if (!faqScript) {
+              faqScript = document.createElement('script');
+              faqScript.type = 'application/ld+json';
+              faqScript.setAttribute('data-schema', 'signature-gear-faq');
+              document.head.appendChild(faqScript);
+            }
+            faqScript.textContent = JSON.stringify(faqSchema);
+          }
         }
 
         // Track page view
@@ -797,8 +845,10 @@ export function SignatureGearSpotlightPage({ theme, onBack, onSelectDrummer, all
       if (Platform.OS === 'web' && typeof document !== 'undefined') {
         const productScript = document.querySelector('script[data-schema="signature-gear-product"]');
         const bcScript = document.querySelector('script[data-schema="signature-gear-breadcrumb"]');
+        const faqScript = document.querySelector('script[data-schema="signature-gear-faq"]');
         if (productScript) productScript.remove();
         if (bcScript) bcScript.remove();
+        if (faqScript) faqScript.remove();
       }
     };
   }, [allDrummers]);
@@ -870,12 +920,17 @@ export function SignatureGearSpotlightPage({ theme, onBack, onSelectDrummer, all
         <UsedOnSection usedOn={gear.usedOn} theme={theme} isMobile={isMobile} />
 
         {/* Similar Gear Section */}
-        <SimilarGearSection 
-          similarGear={gear.similarGear} 
-          theme={theme} 
+        <SimilarGearSection
+          similarGear={gear.similarGear}
+          theme={theme}
           isMobile={isMobile}
           onNavigateToGear={handleNavigateToGear}
         />
+
+        {/* FAQ Section */}
+        {gear.faq && gear.faq.length > 0 && (
+          <FAQSection faq={gear.faq} theme={theme} />
+        )}
 
         {/* Footer spacing for sticky CTA */}
         {isMobile && <View style={{ height: 80 }} />}
@@ -1416,6 +1471,23 @@ const styles = StyleSheet.create({
     marginTop: 4,
   },
   
+  // FAQ Section
+  faqItem: {
+    borderBottomWidth: 1,
+    paddingVertical: 14,
+  },
+  faqQuestion: {
+    fontSize: 15,
+    fontWeight: '600',
+    lineHeight: 22,
+  },
+  faqAnswer: {
+    fontSize: 14,
+    lineHeight: 22,
+    marginTop: 8,
+    paddingLeft: 16,
+  },
+
   // Sticky CTA
   stickyCTA: {
     position: 'absolute',

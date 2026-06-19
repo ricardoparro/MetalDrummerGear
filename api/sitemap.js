@@ -233,10 +233,9 @@ const top20GearComparisons = [
 const signatureGearPages = [
   { drummerSlug: 'joey-jordison', gearSlug: 'joey-jordison-pearl-signature-snare', name: 'Pearl Joey Jordison Signature Snare' },
   { drummerSlug: 'lars-ulrich', gearSlug: 'lars-ulrich-paiste-rude-china', name: 'Paiste 20" RUDE Wild China' },
-  // Future items to be added:
-  // { drummerSlug: 'danny-carey', gearSlug: 'danny-carey-paiste-giant-beat-gongs', name: 'Paiste Giant Beat Gongs' },
-  // { drummerSlug: 'mario-duplantier', gearSlug: 'mario-duplantier-tama-starphonic-bronze', name: 'Tama Starphonic Bronze' },
-  // { drummerSlug: 'gene-hoglan', gearSlug: 'gene-hoglan-pearl-reference-kit', name: 'Pearl Reference Pure Kit' },
+  { drummerSlug: 'danny-carey', gearSlug: 'danny-carey-paiste-giant-beat-gongs', name: 'Paiste Giant Beat Gongs' },
+  { drummerSlug: 'mario-duplantier', gearSlug: 'mario-duplantier-tama-starphonic-bronze', name: 'Tama Starphonic Bronze' },
+  { drummerSlug: 'gene-hoglan', gearSlug: 'gene-hoglan-pearl-reference-kit', name: 'Pearl Reference Pure Kit' },
 ];
 
 // Issue #749 / #1056: Signature Licks pages — derived from SIGNATURE_LICKS so new
@@ -506,6 +505,10 @@ export default function handler(req, res) {
     { loc: '/llms/stats.md', priority: '0.6', changefreq: 'monthly' },
     // Issue #1401: gear brand insights LLM citation surface — named drummer citations with % data.
     { loc: '/llms/gear-insights.md', priority: '0.6', changefreq: 'monthly' },
+    // Issue #1416: endorsement hub LLM citation surface — cross-brand index of 15 drummers.
+    { loc: '/llms/endorsements.md', priority: '0.6', changefreq: 'monthly' },
+    // Issue #1435: per-drummer endorsement detail pages — one file per endorsement-tracked drummer.
+    ...endorsementDrummers.map(slug => ({ loc: `/llms/endorsements/${slug}.md`, priority: '0.5', changefreq: 'monthly' })),
     // Issue #1273: tools section LLM citation surface — gear-search, dream-set-builder, kit-builder, gear-comparison, tier-list.
     { loc: '/llms/tools/gear-search.md', priority: '0.6', changefreq: 'monthly' },
     { loc: '/llms/tools/dream-set-builder.md', priority: '0.6', changefreq: 'monthly' },

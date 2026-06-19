@@ -640,6 +640,39 @@ function getMetaForPath(pathname) {
     }
   }
 
+  // Issue #1410: /tools/compare hub
+  if (path === '/tools/compare') {
+    return {
+      title: `Metal Drummer Gear Comparison Tool | ${SITE_NAME}`,
+      description: "Compare any two metal drummers' gear side-by-side: kits, cymbals, pedals, sticks. See exactly how your favourite rigs stack up.",
+      image: `${BASE_URL}/images/og/compare-preview.png`,
+      type: 'website',
+      url: `${BASE_URL}/tools/compare`,
+    };
+  }
+
+  // Issue #1410: /tools/compare/<d1>-vs-<d2> individual comparison pages
+  const toolsCompareMatch = path.match(/^\/tools\/compare\/([a-z0-9-]+)-vs-([a-z0-9-]+)$/);
+  if (toolsCompareMatch) {
+    const [, slug1, slug2] = toolsCompareMatch;
+    const d1 = getDrummerBySlug(slug1);
+    const d2 = getDrummerBySlug(slug2);
+    if (d1 && d2) {
+      return {
+        title: `${d1.name} vs ${d2.name} — Drum Gear Comparison | ${SITE_NAME}`,
+        description: `Side-by-side gear: ${d1.name} (${d1.band}) vs ${d2.name} (${d2.band}). Kits, cymbals, pedals, sticks — compare specs and prices.`,
+        image: `${BASE_URL}/api/og/compare?d1=${slug1}&d2=${slug2}`,
+        type: 'article',
+        url: `${BASE_URL}/tools/compare/${slug1}-vs-${slug2}`,
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: 'Compare Tool', url: `${BASE_URL}/tools/compare` },
+          { name: `${d1.name} vs ${d2.name}`, url: `${BASE_URL}/tools/compare/${slug1}-vs-${slug2}` },
+        ],
+      };
+    }
+  }
+
   // Individual gear comparison pages (tama-vs-pearl, meinl-vs-zildjian, etc.)
   const gearCompareMatch = path.match(/^\/compare\/([a-z0-9-]+)$/);
   if (gearCompareMatch) {
@@ -824,6 +857,50 @@ function getMetaForPath(pathname) {
       const keywords = Array.isArray(album.seoKeywords)
         ? album.seoKeywords
         : (album.seoKeywords ? [album.seoKeywords] : []);
+
+      // Issue #1404: HowTo tutorial articles — emit HowTo JSON-LD for AI Overview eligibility
+      if (album.articleSection === 'HowTo' && Array.isArray(album.howToSteps)) {
+        const howToSchema = JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'HowTo',
+          name: album.title,
+          description: album.description,
+          totalTime: album.totalTime || 'PT30M',
+          step: album.howToSteps.map((s, i) => ({
+            '@type': 'HowToStep',
+            position: i + 1,
+            name: s.name,
+            text: s.text,
+          })),
+        });
+        // Build SSR crawler-visible links to referenced drummer profiles
+        const ssrDrummerProfileLinks = Array.isArray(album.relatedDrummers)
+          ? album.relatedDrummers
+              .map(id => drummers.find(d => d.id === id))
+              .filter(Boolean)
+              .map(d => ({
+                href: `/drummer/${d.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')}`,
+                label: `${d.name} — Complete Gear Setup`,
+              }))
+          : null;
+        return {
+          title: `${album.title} | ${SITE_NAME}`,
+          description: truncate(album.description, 160),
+          image: album.ogImage || DEFAULT_IMAGE,
+          type: 'article',
+          url: `${BASE_URL}/articles/${articleSlug}`,
+          articleSchema: howToSchema,
+          breadcrumbSchema: [
+            { name: 'Home', url: BASE_URL },
+            { name: 'Articles', url: `${BASE_URL}/articles` },
+            { name: album.title, url: `${BASE_URL}/articles/${articleSlug}` },
+          ],
+          faqSchema: Array.isArray(album.faq) && album.faq.length > 0 ? album.faq : null,
+          ssrLinks: ssrDrummerProfileLinks && ssrDrummerProfileLinks.length > 0 ? ssrDrummerProfileLinks : null,
+          speakableSchema: true,
+        };
+      }
+
       return {
         title: `${album.title} | ${SITE_NAME}`,
         description: truncate(album.description, 160),

@@ -784,6 +784,9 @@ Today, "sounding like Vulgar Display" is a production reference point. The combi
     relatedAlbums: ['cowboys-from-hell-drum-setup', 'far-beyond-driven-drum-setup'],
     relatedDrummers: [8, 9, 10], // Ray Luzier, John Otto, Jay Weinberg
     relatedArticles: ['most-expensive-drum-setups', 'drummers-with-budget-friendly-kits'],
+    relatedLicks: [
+      { drummerSlug: 'vinnie-paul', lickSlug: 'vinnie-paul-walk-groove', label: "Watch Vinnie Paul's 'Walk' groove breakdown" },
+    ],
     conclusion: {
       title: 'Defining Heaviness',
       content: `Vulgar Display of Power's drum sound didn't just define Pantera — it defined an era of heavy music. Vinnie Paul's combination of massive kit, innovative triggering, and groove-focused playing created a template that's still followed today.
@@ -1041,6 +1044,9 @@ The Number of the Beast songs have evolved over 40+ years of touring. Nicko's in
     relatedAlbums: ['powerslave-drum-setup', 'piece-of-mind-drum-setup'],
     relatedDrummers: [1, 4, 12], // Lars Ulrich, Dave Lombardo, Charlie Benante
     relatedArticles: ['thrash-metal-drummers', 'most-innovative-drummers'],
+    relatedLicks: [
+      { drummerSlug: 'nicko-mcbrain', lickSlug: 'nicko-mcbrain-the-number-of-the-beast', label: "Watch Nicko McBrain's 'The Number of the Beast' drum breakdown" },
+    ],
     conclusion: {
       title: 'A Drummer\'s Album',
       content: `The Number of the Beast remains one of heavy metal's essential albums, and its drum performances — both Clive Burr's original recording and Nicko McBrain's decades of live interpretation — are central to its legacy.
@@ -5430,6 +5436,9 @@ The real Images and Words sound comes from Mike's technique and musicality. Prac
     relatedAlbums: ['lateralus-drum-setup', 'obzen-drum-setup', 'master-of-puppets-drum-setup'],
     relatedDrummers: [14, 5, 1], // Danny Carey, Tomas Haake, Lars Ulrich
     relatedArticles: ['progressive-metal-drummers', 'best-double-bass-pedals'],
+    relatedLicks: [
+      { drummerSlug: 'mike-portnoy', lickSlug: 'mike-portnoy-pull-me-under-groove', label: "Watch Mike Portnoy's 'Pull Me Under' groove breakdown" },
+    ],
     conclusion: {
       title: 'The Album That Changed Everything',
       content: `Images and Words arrived at a pivotal moment for heavy music. In 1992, grunge dominated rock radio. Nirvana's "Nevermind" had changed everything. Complex, technical music was supposedly dead.
@@ -7917,6 +7926,10 @@ Today, Gene plays:
     relatedAlbums: ['individual-thought-patterns-drum-setup', 'reign-in-blood-drum-setup', 'painkiller-drum-setup'],
     relatedDrummers: [4, 2, 6], // Dave Lombardo, Joey Jordison, George Kollias
     relatedArticles: ['death-metal-drumming-guide', 'atomic-clock-technique', 'progressive-death-metal'],
+    relatedLicks: [
+      { drummerSlug: 'gene-hoglan', lickSlug: 'gene-hoglan-crystal-mountain-groove', label: "Watch Gene Hoglan's 'Crystal Mountain' groove breakdown" },
+      { drummerSlug: 'gene-hoglan', lickSlug: 'gene-hoglan-zero-tolerance-groove', label: "Watch Gene Hoglan's 'Zero Tolerance' groove breakdown" },
+    ],
     conclusion: {
       title: 'The Perfect Death Metal Drum Performance',
       content: `"Symbolic" isn't just Death's masterpiece — it's the definitive statement of what technical death metal drumming can be. Gene Hoglan's performance isn't about showing off speed or complexity; it's about serving Chuck Schuldiner's progressive vision with the precision, power, and musicality it demanded.
@@ -11471,6 +11484,9 @@ The most important lesson from "Roots" is humility. Igor, already one of thrash 
 
 Your ego is the enemy of musical growth. Be willing to play less. Be willing to learn from genres you don't typically play. Be willing to serve the song rather than showcase your abilities.`
     },
+    relatedLicks: [
+      { drummerSlug: 'igor-cavalera', lickSlug: 'igor-cavalera-roots-bloody-roots-tribal-groove', label: "Watch Igor Cavalera's 'Roots Bloody Roots' tribal groove breakdown" },
+    ],
     conclusion: {
       title: 'When Metal Found Its Roots',
       content: `"Roots" stands as one of the most ambitious and influential albums in metal history. Igor Cavalera's drumming — a fusion of thrash metal power, groove metal pocket, and Brazilian tribal rhythms — created a template that influenced everyone from Korn to Soulfly to Gojira.
@@ -11831,6 +11847,9 @@ Songs like "The Art of Dying" and the title track are marathons. Nine minutes of
     relatedAlbums: ['from-mars-to-sirius-drum-setup', 'obzen-drum-setup', 'ashes-of-the-wake-drum-setup'],
     relatedDrummers: [5, 14, 7], // Tomas Haake, Danny Carey, Eloy Casagrande
     relatedArticles: ['whats-in-mario-duplantiers-kit', 'progressive-death-metal-drummers', 'dual-bass-drum-vs-double-pedal'],
+    relatedLicks: [
+      { drummerSlug: 'mario-duplantier', lickSlug: 'mario-duplantier-polyrhythmic-groove', label: "Watch Mario Duplantier's polyrhythmic groove breakdown" },
+    ],
     conclusion: {
       title: 'When Death Metal Achieved Art',
       content: `"The Way of All Flesh" stands as proof that extreme metal can achieve genuine artistic significance. It's an album about mortality, consciousness, and transformation — themes that have occupied philosophers for millennia — delivered with the heaviest music ever created. At the center of this achievement sits Mario Duplantier, whose drumming gives physical form to these abstract concepts.
@@ -12887,6 +12906,9 @@ Thrash drumming is athletic. Cardio training, wrist exercises, and core strength
 4. Relax to go fast — tension kills speed and endurance
 5. Study the masters — Igor learned from Lombardo, Ulrich, and others`
     },
+    relatedLicks: [
+      { drummerSlug: 'igor-cavalera', lickSlug: 'igor-cavalera-beneath-the-remains-blast', label: "Watch Igor Cavalera's 'Beneath the Remains' blast beat breakdown" },
+    ],
     conclusion: {
       title: 'When Brazil Stormed the Gates',
       content: `"Beneath the Remains" is more than a great thrash metal album — it's a statement of defiance. Four young men from Brazil proved that geography couldn't limit talent, that passion and dedication could overcome any obstacle, and that thrash metal belonged to the world.
@@ -13313,6 +13335,9 @@ Igor's "Chaos A.D." performance isn't about what he plays — it's about what he
         { artist: 'Carlinhos Brown', album: 'Alfagamabetizado', note: 'Brazilian percussion Igor studied' }
       ]
     },
+    relatedLicks: [
+      { drummerSlug: 'igor-cavalera', lickSlug: 'igor-cavalera-refuse-resist-double-bass', label: "Watch Igor Cavalera's 'Refuse/Resist' double-bass groove breakdown" },
+    ],
     conclusion: {
       title: 'The Album That Changed Everything',
       content: `"Chaos A.D." wasn't just a good album — it was a paradigm shift. When Sepultura slowed down and grooved on "Refuse/Resist," they didn't just write a song; they wrote a template that would influence two decades of heavy music.
@@ -15365,6 +15390,10 @@ In interviews, Lopez has emphasized that he never thought of himself as a "death
     relatedDrummers: [14, 5, 13], // Danny Carey, Tomas Haake, Mike Portnoy
     relatedArticles: ['progressive-metal-drumming', 'jazz-influenced-metal-drummers', 'opeth-discography'],
     relatedAlbums: ['still-life-drum-setup', 'ghost-reveries-drum-setup', 'damnation-drum-setup'],
+    relatedLicks: [
+      { drummerSlug: 'martin-lopez', lickSlug: 'martin-lopez-drapery-falls-dynamics', label: "Watch Martin Lopez's 'The Drapery Falls' dynamics breakdown" },
+      { drummerSlug: 'martin-lopez', lickSlug: 'martin-lopez-bleak-ghost-notes', label: "Watch Martin Lopez's 'Bleak' ghost notes breakdown" },
+    ],
     conclusion: {
       title: 'The Album That Taught Death Metal to Breathe',
       content: `Blackwater Park stands as one of the most important albums in progressive metal history, and Martin Lopez's drumming is fundamental to its success. In 2001, he proved that extreme metal didn't have to sacrifice dynamics for heaviness—that the two could coexist and enhance each other.
@@ -16560,6 +16589,10 @@ The final drum mix balanced clarity with aggression. EQ enhanced the snare's cut
       { youtubeId: 'W2Q3Su4cKh4', title: 'Death - Live in Eindhoven 1998 (Full Concert, HQ)', description: 'Full Dynamo \'98 concert featuring the Sound of Perseverance lineup and Richard Christy\'s drumming' }
     ],
     relatedAlbums: ['symbolic-drum-setup', 'human-drum-setup', 'painkiller-drum-setup'],
+    relatedLicks: [
+      { drummerSlug: 'richard-christy', lickSlug: 'richard-christy-scavenger-blast', label: "Watch Richard Christy's 'Scavenger of Human Sorrow' blast breakdown" },
+      { drummerSlug: 'richard-christy', lickSlug: 'richard-christy-flesh-power-fill', label: "Watch Richard Christy's 'Flesh and the Power It Holds' fill breakdown" },
+    ],
     conclusion: {
       title: 'The Final Statement: Legacy of Perseverance',
       content: `"The Sound of Perseverance" wasn't meant to be Death's final album. Chuck Schuldiner was already planning Control Denied's debut and had ideas for future Death material. But fate intervened — Chuck's brain cancer diagnosis in 1999 and his passing in December 2001 made Perseverance the unintended swan song for one of metal's most important bands.
@@ -17144,6 +17177,9 @@ The dry, punchy drum sound of Justice influenced countless thrash and death meta
     relatedAlbums: ['master-of-puppets-drum-setup', 'rust-in-peace-drum-setup', 'reign-in-blood-drum-setup'],
     relatedDrummers: [4, 3, 12], // Dave Lombardo, Gene Hoglan, Charlie Benante
     relatedArticles: ['whats-in-lars-ulrichs-kit', 'big-four-drummers', 'thrash-metal-drummers'],
+    relatedLicks: [
+      { drummerSlug: 'lars-ulrich', lickSlug: 'lars-ulrich-one-intro', label: "Watch Lars Ulrich's 'One' intro breakdown" },
+    ],
     conclusion: {
       title: 'The Technical Peak',
       content: `...And Justice for All represents Lars Ulrich's most technically demanding and complex work on record. The album's intricate arrangements, extended song lengths, and relentless tempos required a level of precision and stamina that pushed the boundaries of thrash metal drumming.
@@ -19150,6 +19186,9 @@ Terry Date's approach to White Pony's drums — capturing natural dynamics, usin
     relatedDrummers: [14, 47, 48], // Danny Carey, Gavin Harrison, Abe Cunningham
     relatedArticles: ['whats-in-abe-cunninghams-kit', 'atmospheric-metal-drummers', 'best-dynamic-drummers'],
     relatedAlbums: ['koi-no-yokan-drum-setup', 'diamond-eyes-drum-setup'],
+    relatedLicks: [
+      { drummerSlug: 'abe-cunningham', lickSlug: 'abe-cunningham-digital-bath-groove', label: "Watch Abe Cunningham's 'Digital Bath' groove breakdown" },
+    ],
     conclusion: {
       title: 'The Album That Taught Metal to Breathe',
       content: `Twenty-six years after its release, White Pony remains essential listening for anyone interested in the evolution of heavy music. It proved that metal could be atmospheric, dynamic, and emotionally nuanced without sacrificing heaviness. And Abe Cunningham's drumming was the foundation that made it all possible.

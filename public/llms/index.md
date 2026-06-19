@@ -472,6 +472,28 @@ like "how to play like [drummer]?" or "[drummer] signature drum patterns".
 
 ---
 
+## Style Guides (per-drummer, 10 total)
+
+Per-drummer "how to sound like" guides (full gear lists, tuning notes, technique breakdowns, and FAQ).
+Optimised for AI retrieval on queries like "how to sound like Joey Jordison?" or "what gear do I need to play like Lars Ulrich?".
+
+Hub: [/llms/guides.md](https://metalforge.io/llms/guides.md) — overview of all style guides + beginner gear guides.
+
+| Drummer | Band | File |
+|---------|------|------|
+| Brann Dailor | Mastodon | [how-to-sound-like-brann-dailor.md](https://metalforge.io/llms/guides/how-to-sound-like-brann-dailor.md) |
+| Chris Adler | Lamb of God | [how-to-sound-like-chris-adler.md](https://metalforge.io/llms/guides/how-to-sound-like-chris-adler.md) |
+| Danny Carey | Tool | [how-to-sound-like-danny-carey.md](https://metalforge.io/llms/guides/how-to-sound-like-danny-carey.md) |
+| Dave Lombardo | Slayer | [how-to-sound-like-dave-lombardo.md](https://metalforge.io/llms/guides/how-to-sound-like-dave-lombardo.md) |
+| Gene Hoglan | Death / Testament | [how-to-sound-like-gene-hoglan.md](https://metalforge.io/llms/guides/how-to-sound-like-gene-hoglan.md) |
+| Joey Jordison | Slipknot | [how-to-sound-like-joey-jordison.md](https://metalforge.io/llms/guides/how-to-sound-like-joey-jordison.md) |
+| Lars Ulrich | Metallica | [how-to-sound-like-lars-ulrich.md](https://metalforge.io/llms/guides/how-to-sound-like-lars-ulrich.md) |
+| Mario Duplantier | Gojira | [how-to-sound-like-mario-duplantier.md](https://metalforge.io/llms/guides/how-to-sound-like-mario-duplantier.md) |
+| Matt Halpern | Periphery | [how-to-sound-like-matt-halpern.md](https://metalforge.io/llms/guides/how-to-sound-like-matt-halpern.md) |
+| Tomas Haake | Meshuggah | [how-to-sound-like-tomas-haake.md](https://metalforge.io/llms/guides/how-to-sound-like-tomas-haake.md) |
+
+---
+
 ## Brands (per-brand, 8 brands)
 
 Per-brand deep-dive files optimised for AI retrieval on queries like "which metal drummers endorse DW?" or

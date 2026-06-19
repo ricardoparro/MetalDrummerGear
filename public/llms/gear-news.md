@@ -2,7 +2,7 @@
 
 Chronological feed of drummer gear updates. See full tracker at https://metalforge.io/gear-news
 
-> Last updated: 2026-06-19 · 15 total events · 4 gear change events
+> Last updated: 2026-06-19 · 21 total events · 10 gear change events
 
 ---
 
@@ -164,6 +164,72 @@ AAX, HHX, and more - discover Sabian's metal offerings.
 
 ---
 
+### Tomas Haake updates Sabian HHX/AAX setup for 2026 tour — 2026-02-12
+
+**Type:** Gear Updated
+**Drummer:** Tomas Haake — /drummer/tomas-haake
+**Gear:** Sabian HHX & AAX Series
+
+Meshuggah's Tomas Haake refines his Sabian HHX and AAX cymbal configuration ahead of the 2026 European tour cycle.
+*Polymetric precision demands exact cymbal articulation at every tempo.*
+
+---
+
+### Danny Carey updates Paiste Signature ride for Fear Inoculum shows — 2026-02-10
+
+**Type:** Gear Updated
+**Drummer:** Danny Carey — /drummer/danny-carey
+**Gear:** Paiste Signature Dry Heavy Ride
+
+Tool's Danny Carey fine-tunes his Paiste Signature Dry Heavy Ride configuration for the Fear Inoculum anniversary live dates.
+*Crafting the exact sonic landscape Fear Inoculum demands live.*
+
+---
+
+### Brann Dailor adds Meinl Mb8 hi-hats to Mastodon live rig — 2026-02-08
+
+**Type:** Gear Added
+**Drummer:** Brann Dailor — /drummer/brann-dailor
+**Gear:** Meinl Mb8 Hi-Hats
+
+Mastodon's Brann Dailor expands his Meinl setup with Mb8 series hi-hats for increased brightness in progressive passages.
+*Brighter articulation to complement the melodic Mastodon live sound.*
+
+---
+
+### Lars Ulrich tunes Tama Starclassic kit for 2026 Metallica dates — 2026-02-05
+
+**Type:** Gear Updated
+**Drummer:** Lars Ulrich — /drummer/lars-ulrich
+**Gear:** Tama Starclassic Maple
+
+Metallica's Lars Ulrich updates his Tama Starclassic Maple configuration with adjusted tuning ahead of 2026 M72 World Tour arena shows.
+*Same iconic setup, dialed in for stadium acoustics.*
+
+---
+
+### Mike Portnoy refreshes Tama kit for Dream Theater reunion run — 2026-02-03
+
+**Type:** Gear Updated
+**Drummer:** Mike Portnoy — /drummer/mike-portnoy
+**Gear:** Tama Drums
+
+Dream Theater's Mike Portnoy updates his Tama setup — continuing his decades-long partnership — for the full 2026 touring cycle following his reunion with the band.
+*Decades of Tama loyalty continues through the Dream Theater reunion era.*
+
+---
+
+### Charlie Benante adds Tama Speed Cobra 910 to Pantera touring kit — 2026-01-28
+
+**Type:** Gear Added
+**Drummer:** Charlie Benante — /drummer/charlie-benante
+**Gear:** Tama Speed Cobra 910 Double Pedal
+
+Anthrax's Charlie Benante integrates the Tama Speed Cobra 910 double pedal into his Pantera reunion touring rig for maximum velocity on Dimebag tributes.
+*Extra speed for flying in Vinnie Paul's legendary footsteps.*
+
+---
+
 ## Drummer Gear Changes
 
 Filtered view: only events where a drummer added, removed, updated, or switched specific gear.
@@ -205,6 +271,60 @@ Periphery's Matt Halpern incorporates Meinl Classics Custom Dark cymbals for stu
 
 ---
 
+### Tomas Haake — Sabian HHX & AAX Series (Updated) — 2026
+
+Meshuggah's Tomas Haake refines his Sabian HHX and AAX cymbal configuration ahead of the 2026 European tour cycle.
+
+**Note:** Polymetric precision demands exact cymbal articulation at every tempo.
+**Profile:** https://metalforge.io/drummer/tomas-haake
+
+---
+
+### Danny Carey — Paiste Signature Dry Heavy Ride (Updated) — 2026
+
+Tool's Danny Carey fine-tunes his Paiste Signature Dry Heavy Ride configuration for the Fear Inoculum anniversary live dates.
+
+**Note:** Crafting the exact sonic landscape Fear Inoculum demands live.
+**Profile:** https://metalforge.io/drummer/danny-carey
+
+---
+
+### Brann Dailor — Meinl Mb8 Hi-Hats (Added) — 2026
+
+Mastodon's Brann Dailor expands his Meinl setup with Mb8 series hi-hats for increased brightness in progressive passages.
+
+**Note:** Brighter articulation to complement the melodic Mastodon live sound.
+**Profile:** https://metalforge.io/drummer/brann-dailor
+
+---
+
+### Lars Ulrich — Tama Starclassic Maple (Updated) — 2026
+
+Metallica's Lars Ulrich updates his Tama Starclassic Maple configuration with adjusted tuning ahead of 2026 M72 World Tour arena shows.
+
+**Note:** Same iconic setup, dialed in for stadium acoustics.
+**Profile:** https://metalforge.io/drummer/lars-ulrich
+
+---
+
+### Mike Portnoy — Tama Drums (Updated) — 2026
+
+Dream Theater's Mike Portnoy updates his Tama setup — continuing his decades-long partnership — for the full 2026 touring cycle following his reunion with the band.
+
+**Note:** Decades of Tama loyalty continues through the Dream Theater reunion era.
+**Profile:** https://metalforge.io/drummer/mike-portnoy
+
+---
+
+### Charlie Benante — Tama Speed Cobra 910 Double Pedal (Added) — 2026
+
+Anthrax's Charlie Benante integrates the Tama Speed Cobra 910 double pedal into his Pantera reunion touring rig for maximum velocity on Dimebag tributes.
+
+**Note:** Extra speed for flying in Vinnie Paul's legendary footsteps.
+**Profile:** https://metalforge.io/drummer/charlie-benante
+
+---
+
 ## Drummer Activity Summary
 
 ### Matt Garstka
@@ -241,6 +361,36 @@ Periphery's Matt Halpern incorporates Meinl Classics Custom Dark cymbals for stu
 
 - **2026-02-22** (Gear Added) — Meinl Classics Custom Dark Cymbals: Matt Halpern adds Meinl Classics Custom Dark stack
 - Profile: https://metalforge.io/drummer/matt-halpern
+
+### Tomas Haake
+
+- **2026-02-12** (Gear Updated) — Sabian HHX & AAX Series: Tomas Haake updates Sabian HHX/AAX setup for 2026 tour
+- Profile: https://metalforge.io/drummer/tomas-haake
+
+### Danny Carey
+
+- **2026-02-10** (Gear Updated) — Paiste Signature Dry Heavy Ride: Danny Carey updates Paiste Signature ride for Fear Inoculum shows
+- Profile: https://metalforge.io/drummer/danny-carey
+
+### Brann Dailor
+
+- **2026-02-08** (Gear Added) — Meinl Mb8 Hi-Hats: Brann Dailor adds Meinl Mb8 hi-hats to Mastodon live rig
+- Profile: https://metalforge.io/drummer/brann-dailor
+
+### Lars Ulrich
+
+- **2026-02-05** (Gear Updated) — Tama Starclassic Maple: Lars Ulrich tunes Tama Starclassic kit for 2026 Metallica dates
+- Profile: https://metalforge.io/drummer/lars-ulrich
+
+### Mike Portnoy
+
+- **2026-02-03** (Gear Updated) — Tama Drums: Mike Portnoy refreshes Tama kit for Dream Theater reunion run
+- Profile: https://metalforge.io/drummer/mike-portnoy
+
+### Charlie Benante
+
+- **2026-01-28** (Gear Added) — Tama Speed Cobra 910 Double Pedal: Charlie Benante adds Tama Speed Cobra 910 to Pantera touring kit
+- Profile: https://metalforge.io/drummer/charlie-benante
 
 ---
 

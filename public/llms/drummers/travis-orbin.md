@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "SJC"
 profile_url: "https://metalforge.io/drummer/travis-orbin"
 source: "https://metalforge.io"
-last_updated: "2026-06-18"
+last_updated: "2026-06-19"
 ---
 
 # Travis Orbin — Drum Kit & Gear Setup
@@ -84,4 +84,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-19 · Source: [MetalForge.io](https://metalforge.io)*

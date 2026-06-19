@@ -2416,6 +2416,32 @@ function getMetaForPath(pathname) {
     };
   }
 
+  // Issue #1579: /bpm and /bpm-tap — BPM Tap Calculator + Metal Songs BPM Database
+  if (path === '/bpm' || path === '/bpm-tap') {
+    return {
+      title: `Metal BPM Calculator — Tap & Find Tempo | Metal Songs Database | ${SITE_NAME}`,
+      description: 'Tap to find the BPM of any metal song. Browse 150+ metal songs by tempo — from doom to grindcore. Used by metal drummers to find and match tempos.',
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url: `${BASE_URL}/bpm`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'WebApplication',
+        name: 'MetalForge BPM Tap Calculator',
+        description: 'Tap to calculate BPM of any metal song. Browse 150+ metal songs sorted by tempo.',
+        url: `${BASE_URL}/bpm`,
+        applicationCategory: 'MusicApplication',
+        operatingSystem: 'Web',
+        offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
+        publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+      }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'BPM Calculator', url: `${BASE_URL}/bpm` },
+      ],
+    };
+  }
+
   // Default fallback
   return {
     title: `${SITE_NAME} — Metal Drummer Gear Database`,

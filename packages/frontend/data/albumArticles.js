@@ -25750,6 +25750,271 @@ For deeper exploration:
 - **Blast beat technique**: [Blast beat guide at MetalForge](/technique/blast-beat)
 - **Double bass technique**: [Double-bass drumming at MetalForge](/technique/double-bass-drumming)`
     }
+  },
+
+  'daniel-erlandsson-drum-setup': {
+    slug: 'daniel-erlandsson-drum-setup',
+    articleType: 'drummer-kit',
+    drummer: 'Daniel Erlandsson',
+    relatedDrummerSlug: 'daniel-erlandsson',
+    band: 'At The Gates',
+    bands: ['At The Gates', 'Arch Enemy'],
+    genre: 'Melodic Death Metal',
+    country: 'Sweden',
+    isAlbumArticle: true,
+    isDrummerKit: true,
+    datePublished: '2026-06-19',
+    dateModified: '2026-06-19',
+    author: 'MetalForge Editorial',
+    title: 'Daniel Erlandsson\'s Drum Setup — At The Gates & Arch Enemy Kit Guide',
+    description: 'Daniel Erlandsson\'s complete drum setup for At The Gates and Arch Enemy. DW kit, Meinl cymbals, pedals, and the gear that powered Slaughter of the Soul\'s legendary sound.',
+    seoKeywords: [
+      'daniel erlandsson drum setup',
+      'at the gates drummer',
+      'daniel erlandsson drum kit',
+      'arch enemy drummer gear',
+      'slaughter of the soul drums',
+      'daniel erlandsson dw kit',
+      'at the gates drum kit',
+      'melodic death metal drummer'
+    ],
+    ogImage: '/images/drummers/daniel-erlandsson.webp',
+    quickFacts: {
+      kit: 'DW Collector\'s Series',
+      cymbals: 'Meinl',
+      doublePedals: 'DW Double Bass Pedal',
+      sticks: 'Vic Firth 5B',
+      bands: 'At The Gates / Arch Enemy',
+      tempoRange: '160–220 BPM melodic death metal'
+    },
+    intro: {
+      title: 'Daniel Erlandsson: The Engine Behind Melodic Death Metal\'s Two Greatest Bands',
+      content: `Daniel Erlandsson is the drummer behind two of melodic death metal's most important acts: At The Gates, whose *Slaughter of the Soul* (1995) became one of the most influential metal albums ever recorded, and Arch Enemy, where he has anchored the band's lineup since 1996 across more than a dozen albums and decades of international touring.
+
+Born in Gothenburg, Sweden in 1975, Erlandsson grew up immersed in the same vibrant extreme metal scene that produced In Flames, Dark Tranquillity, and the Göteborg sound that would define a generation of metal drumming. His approach is a masterclass in melodic death metal technique: precise, powerful, and always in service of the riff. He is not a show-off drummer — he is a drummer who makes the music better.
+
+Erlandsson's setup centers on DW Collector's Series drums and Meinl cymbals — gear that balances the attack and clarity needed for melodic death metal's layered guitar arrangements with the durability required for relentless international touring. His pedal work on Arch Enemy's Wages of Sin, Doomsday Machine, and subsequent albums established a template for how double bass drumming supports melodic death metal composition without overwhelming it.
+
+This article covers his full gear setup, traces the kit evolution from At The Gates' *Slaughter of the Soul* sessions through At War With Reality and the modern Arch Enemy catalog, and answers the questions the melodic death metal community most frequently asks about his rig.`,
+      keyPoints: [
+        'At The Gates drummer — Slaughter of the Soul (1995), At War With Reality (2014), To Drink From the Night Itself (2018)',
+        'Arch Enemy drummer since 1996 — Stigmata through Deceivers and beyond',
+        'DW Collector\'s Series kit — precision shells for melodic death metal\'s layered arrangements',
+        'Meinl cymbals — fast, musical, and engineered for the Göteborg sound',
+        'Melodic death metal pioneer from Gothenburg, Sweden',
+        'One of metal\'s most adaptable drummers — two decades across two landmark bands simultaneously'
+      ]
+    },
+    drumKit: {
+      title: 'DW Collector\'s Series: Precision for Melodic Death Metal',
+      brand: 'DW',
+      model: 'DW Collector\'s Series',
+      finish: 'Various finishes across touring periods',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum (x2 — double kick configuration)'],
+        toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
+        floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom'],
+        shells: 'North American maple — DW Collector\'s Series construction'
+      },
+      description: `Daniel Erlandsson's DW Collector's Series kit is built for the specific demands of melodic death metal drumming: fast, precise articulation that complements the genre's interlocking guitar harmonies without muddying the sonic environment. The Collector's Series uses DW's North American maple shells, hand-selected and precision-machined to deliver consistent tonal response from kit to kit and recording session to touring stage.
+
+The double bass drum configuration is essential to Erlandsson's approach in both At The Gates and Arch Enemy. Melodic death metal's rhythmic identity rests heavily on the relationship between the guitar riff and the kick pattern — where death metal uses double bass for raw power, melodic death metal uses it to create rhythmic counterpoint to the melodic guitar lines. Erlandsson's 22" bass drums provide the frequency mass to anchor the low end while retaining sufficient attack clarity for the patterns to articulate against dense guitar arrangements.
+
+His tom configuration — two rack toms (10" and 12") and two floor toms (14" and 16") — reflects the Göteborg approach to drumming: enough tonal range for compositional fills and accents, compact enough to keep the focus on the interplay between drums and guitar. Arch Enemy's arrangements frequently use tom patterns as transitional voices between guitar riff sections; the four-tom spread provides the palette those transitions require.`,
+      notes: [
+        'DW Collector\'s Series — North American maple for precise attack and controlled resonance',
+        'Double 22" x 18" bass drums — rhythmic counterpoint to melodic guitar lines rather than raw power',
+        'Four-tom configuration matches melodic death metal\'s compositionally focused arrangement style',
+        'Consistent setup across At The Gates reunion tours and Arch Enemy touring cycles'
+      ],
+      estimatedValue: '$4,000–7,500 (DW Collector\'s Series shell pack)'
+    },
+    snare: {
+      title: 'Snare: Attack and Crack for the Göteborg Sound',
+      brand: 'DW',
+      model: 'DW Collector\'s Maple or Steel Snare',
+      size: '14" x 6.5"',
+      shell: 'Maple or Steel',
+      description: `In melodic death metal's sonic environment — guitars tuned to Drop B and below, saturated with harmonic overdrive — the snare drum serves as the rhythmic anchor that keeps the track human and physical amid layers of processed guitar. Erlandsson's snare is tuned for crack and projection: a bright, defined attack that cuts through the twin-guitar wall of sound that Arch Enemy and At The Gates both employ.
+
+The 14" x 6.5" dimension sits in a range that delivers a full, warm body without sacrificing the sharp attack that melodic death metal production requires. On Arch Enemy recordings — produced by Daniel Bergstrand and others across the catalog — the snare sound has a consistent forward character: present, dry, and cutting without the cavernous reverb of more traditional heavy metal production.
+
+At The Gates' *Slaughter of the Soul* snare sound — tight, aggressive, but with enough body to anchor the mid-tempo grooves — remains one of the most studied snare tones in extreme metal. That recording used a similar philosophy: immediate attack, controlled sustain, tuned to sit above the guitars rather than compete with them in the low-mid frequency range.`,
+      tuningSetting: 'Medium-bright — sharp attack for projection through twin-guitar arrangements',
+      heads: 'Evans EC Coated (batter), Remo Diplomat Snare Side (resonant)',
+      estimatedValue: '$400–750'
+    },
+    cymbals: {
+      title: 'Meinl: Musical, Fast, Göteborg-Built',
+      brand: 'Meinl',
+      series: 'Meinl Byzance / Classics Custom Series',
+      setup: [
+        { type: 'Hi-Hats', model: 'Meinl 14" Byzance Hi-Hats', position: 'Left side', notes: 'Fast, musical response — complex overtones that sit well in melodic death metal\'s harmonic environment' },
+        { type: 'Crash', model: 'Meinl 16" Byzance Crash', position: 'Left crash', notes: 'Quick decay for accent work in dense riff passages' },
+        { type: 'Crash', model: 'Meinl 18" Byzance Crash', position: 'Right crash', notes: 'Fuller crash for section endings and climactic accents' },
+        { type: 'Ride', model: 'Meinl 20" Byzance Ride', position: 'Right', notes: 'Clear bell for structured ride patterns over guitar riff sections' },
+        { type: 'China', model: 'Meinl 18" Classics Custom China', position: 'Over rack toms', notes: 'Aggressive trash accent for the most intense Arch Enemy passages' }
+      ],
+      description: `Erlandsson's Meinl cymbal setup reflects the specific acoustic demands of playing in two of melodic death metal's loudest, most guitar-forward bands. Meinl's Byzance series — hand-hammered B20 bronze, Turkish-style craftsmanship — produces cymbals with a complex, musical character that complements rather than competes with the layered guitar harmonics of melodic death metal.
+
+The Byzance hi-hats are particularly significant in Erlandsson's setup. In Arch Enemy's arrangements, the hi-hat voice provides the steady eighth-note or sixteenth-note pulse that organizes the rhythmic space above Michael Amott's guitar harmonies. The Byzance hi-hats' complex B20 overtone structure sits naturally in the same frequency range as melodic guitar — they blend rather than clash, creating a cymbal-guitar relationship that feels organic rather than mechanical.
+
+The crash selection covers Arch Enemy's full dynamic range. The 16" responds quickly for accent work within dense passages; the 18" provides the weight for structural section boundaries. Both crashes decay fast enough to clear before the next phrase arrives — a critical quality in a genre where the guitar riff must always remain the dominant voice in the mix.
+
+The china cymbal appears selectively but decisively: in Arch Enemy's most intense rhythmic sections, the china's trash character cuts through everything else, providing the violent accent that standard crashes cannot replicate at extreme volume levels.`,
+      estimatedValue: '$1,500–2,200 (full Meinl Byzance setup)'
+    },
+    hardware: {
+      title: 'DW Double Bass Pedals and Hardware',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'DW',
+          model: 'DW 9002 Double Bass Pedal',
+          notes: 'Smooth, consistent cam action supporting the controlled double-bass patterns central to melodic death metal',
+          description: "Daniel Erlandsson's DW double bass pedal setup is optimized for the melodic death metal context: consistent, controlled double-kick patterns that support guitar-riff-driven arrangements rather than dominate them. Unlike death metal's blast-beat-heavy approach, melodic death metal uses double bass as a compositional voice that interlocks with guitar patterns — this demands pedal precision and consistency rather than pure speed. DW's 9002 series delivers smooth, predictable cam action that allows Erlandsson to execute the interlocking kick-guitar patterns that define Arch Enemy's arrangements without fighting the pedal mechanics. The direct-drive feel gives him tactile feedback that translates musical intention into precise beater strikes. For double bass technique context, see [double-bass drumming at MetalForge](/technique/double-bass-drumming)."
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth 5B',
+          notes: 'Additional weight for projection in melodic death metal\'s layered guitar environment',
+          description: 'The 5B provides the mass needed to drive through Meinl cymbals and drum heads with authority in the high-volume environments of Arch Enemy and At The Gates performances. The larger diameter also provides durability across the demanding striking patterns of melodic death metal drumming.'
+        },
+        {
+          type: 'Drumheads (Bass, Batter)',
+          brand: 'Evans',
+          model: 'Evans EMAD2',
+          notes: 'Focused attack zone with adjustable dampening for controlled kick articulation'
+        },
+        {
+          type: 'Drumheads (Toms, Batter)',
+          brand: 'Evans',
+          model: 'Evans EC2 Coated',
+          notes: 'Two-ply durability with controlled sustain for heavy metal playing'
+        }
+      ],
+      heads: {
+        bassKick: 'Evans EMAD2 (batter), Evans EQ4 (resonant)',
+        toms: 'Evans EC2 Coated (batter), Evans G1 Clear (resonant)',
+        snare: 'Evans EC Coated (batter), Remo Diplomat Snare Side (resonant)'
+      }
+    },
+    playingStyle: {
+      title: 'Melodic Death Metal Precision: The At The Gates and Arch Enemy Approaches',
+      content: `Daniel Erlandsson's drumming philosophy is built on a principle that defines the Göteborg sound itself: the riff is the hero, and the drums serve the riff. Where many metal drummers impose their personality on arrangements, Erlandsson adapts — shaping his approach to the compositional requirements of each musical context without losing his own voice.
+
+**At The Gates: Slaughter of the Soul and the Template**
+
+*Slaughter of the Soul* (1995) remains Erlandsson's most studied recording and one of the most influential drum performances in metal history. The album's drum tracks are notable not for complexity but for precision: every beat is exactly where it needs to be, every accent amplifies the guitar riff's power, and the tempo consistency across the album's driving mid-paced tempos (typically 170–190 BPM) is machine-tight without sounding mechanical.
+
+The album's drum sound — tight, dry, extremely forward in the mix — was a deliberate production choice that placed the drums in direct conversation with the guitars rather than behind or beneath them. Erlandsson's performance matched this production philosophy: every stroke has weight and purpose, fills are minimal and functional, and the groove is relentless.
+
+**Arch Enemy: Melodic Extremity and the Dual-Guitar Arrangement**
+
+Arch Enemy's catalog from Stigmata (1998) through Deceivers (2022) documents Erlandsson's adaptation to a more melodic and arrangement-complex environment. Michael Amott's guitar compositions frequently layer multiple melodic and harmonic voices — the drums must provide a rhythmic foundation stable enough to anchor these layers while remaining flexible enough to follow the dynamics of the arrangements.
+
+Erlandsson achieves this through controlled double bass patterns that mirror guitar rhythms rather than run independently of them, hi-hat work that provides the steady subdivision without overwhelming the melodic guitar voice, and crash accents placed at structural rather than random points. The result is drumming that feels inevitable — as if the parts couldn't have been written any other way.
+
+**Technique Fundamentals:**
+- **Double bass as melodic counterpoint**: kick patterns interlock with guitar riff rhythms rather than running in parallel
+- **Hi-hat dynamics**: steady pulse that organizes without overwhelming — the Meinl Byzance voice sits in the harmonic environment naturally
+- **Restraint on fills**: fills serve compositional transitions, not technique demonstration
+- **Blast beats as accent**: used for maximum emotional impact at structural moments, not as default texture
+
+For deeper exploration of blast beat context and melodic death metal drumming, see the [blast beat technique guide at MetalForge](/technique/blast-beat) and the [Jaska Raatikainen drum setup](/articles/jaska-raatikainen-drum-setup) for comparison with another Göteborg-adjacent melodic death metal approach.`,
+      keyTechniques: [
+        'Double bass as melodic counterpoint — kick patterns interlock with guitar riff rhythms',
+        'Hi-hat dynamics — steady subdivision that organizes without competing with melodic guitar',
+        'Restraint-first fills — compositional transitions, not technique demonstration',
+        'Tempo precision — Slaughter of the Soul\'s mid-paced 170–190 BPM grooves are metronomically consistent',
+        'Blast beats used for structural emphasis rather than as default texture'
+      ]
+    },
+    gearTimeline: [
+      {
+        era: 'At The Gates — Classic Period',
+        years: '1990–1996',
+        albums: ['The Red in the Sky is Ours (1992)', 'With Fear I Kiss the Burning Darkness (1993)', 'Terminal Spirit Disease (1994)', 'Slaughter of the Soul (1995)'],
+        description: 'The foundational recordings that defined melodic death metal drumming. Slaughter of the Soul remains the reference point.',
+        gear: {
+          drums: 'Sonor or Pearl kit (consistent with Swedish mid-90s extreme metal setups)',
+          snare: 'Tight, dry tuning that defined the album\'s forward drum sound',
+          cymbals: 'Paiste / Zildjian (period-appropriate Swedish metal setup)',
+          pedals: 'DW or Pearl double bass pedal'
+        },
+        notes: 'Slaughter of the Soul\'s drum sound — produced at Fredman Studios with Fredrik Nordström — became the reference for an entire generation of melodic death metal recordings. The tight, dry, forward drum mix influenced everything from In Flames\' The Jester Race to countless bands that followed the Göteborg template.'
+      },
+      {
+        era: 'Arch Enemy — Establishment Era',
+        years: '1996–2005',
+        albums: ['Stigmata (1998)', 'Burning Bridges (1999)', 'Wages of Sin (2001)', 'Anthems of Rebellion (2003)', 'Doomsday Machine (2005)'],
+        description: 'Erlandsson joins Arch Enemy and helps establish their dual-guitar melodic death metal approach. Wages of Sin marks the arrival of Angela Gossow and the band\'s international breakthrough.',
+        gear: {
+          drums: 'DW Collector\'s Series (transitioning from earlier setup)',
+          snare: 'DW snare — medium-bright tuning for cut in Arch Enemy\'s dense arrangements',
+          cymbals: 'Meinl Byzance and Classics series',
+          pedals: 'DW double bass pedal configuration'
+        },
+        notes: 'Wages of Sin (2001) is widely considered Arch Enemy\'s breakthrough record internationally, with Angela Gossow\'s arrival expanding the band\'s visibility significantly. Erlandsson\'s drum performances on this album established the template for Arch Enemy\'s melodic death metal drumming — double bass patterns that follow guitar rhythms, controlled crashes, and fills that serve the arrangement.'
+      },
+      {
+        era: 'At The Gates Reunion and Arch Enemy Modern Period',
+        years: '2007–Present',
+        albums: ['At The Gates — At War With Reality (2014)', 'At The Gates — To Drink From the Night Itself (2018)', 'Arch Enemy — Khaos Legions (2011)', 'Arch Enemy — War Eternal (2014)', 'Arch Enemy — Will to Power (2017)', 'Arch Enemy — Deceivers (2022)'],
+        description: 'Erlandsson balances dual commitments to At The Gates (reunited 2007) and Arch Enemy, maintaining consistent performance across both bands\' extensive touring and recording activities.',
+        gear: {
+          drums: 'DW Collector\'s Series (current full configuration)',
+          snare: 'DW Collector\'s 14" x 6.5" tuned for attack and projection',
+          cymbals: 'Meinl Byzance full setup',
+          pedals: 'DW 9002 double bass pedal'
+        },
+        notes: 'At War With Reality (2014) marked At The Gates\' return after 19 years and was received as a genuine continuation of the Slaughter of the Soul legacy rather than a nostalgia exercise. Erlandsson\'s drumming on the record demonstrated that his approach to melodic death metal — precise, riff-serving, powerful — had matured but not changed fundamentally. The dual-band commitment since 2007 makes him one of metal\'s busiest working drummers.'
+      }
+    ],
+    faq: [
+      {
+        question: 'What drum kit does Daniel Erlandsson use?',
+        answer: 'Daniel Erlandsson plays DW Collector\'s Series drums. His current setup is built around a double bass drum configuration with two 22" kick drums, rack toms (10" and 12"), and floor toms (14" and 16"). The DW Collector\'s Series uses hand-selected North American maple shells that provide the precise attack and controlled resonance his melodic death metal style requires. He uses Evans EMAD2 batter heads on the bass drums for focused kick attack, and Evans EC2 Coated heads on the toms. The setup is consistent across both his At The Gates and Arch Enemy engagements. For his full profile, see [Daniel Erlandsson at MetalForge](/drummer/daniel-erlandsson).'
+      },
+      {
+        question: 'What drums were used on Slaughter of the Soul?',
+        answer: 'At The Gates\' Slaughter of the Soul (1995) was recorded at Fredman Studios in Gothenburg with producer Fredrik Nordström — one of the key figures of the Göteborg sound. Erlandsson used a tight, forward-in-the-mix drum setup that became a genre-defining reference. The exact kit from the 1995 recording sessions was a mid-90s professional kit consistent with Swedish extreme metal production of the period — likely a Sonor or Pearl setup. The drum sound on Slaughter of the Soul was as much a production achievement as a gear achievement: the tight, dry, extremely present mix placed the drums in direct conversation with the twin-guitar arrangements rather than behind them. This approach, pioneered by Nordström and Erlandsson at Fredman, influenced the production aesthetic of melodic death metal globally for years afterward. See also the [Jaska Raatikainen drum setup](/articles/jaska-raatikainen-drum-setup) for comparison with another key Göteborg-era melodic death metal drummer.'
+      },
+      {
+        question: 'Does Daniel Erlandsson use the same kit for Arch Enemy and At The Gates?',
+        answer: 'Yes — Daniel Erlandsson uses essentially the same DW Collector\'s Series kit configuration for both At The Gates and Arch Enemy. The fundamental setup (double bass drum configuration, four-tom spread, Meinl Byzance cymbals, DW double pedals) travels consistently between both bands\' touring operations. Some adjustments in cymbal positioning and hardware configuration may occur between different venue types and setups, but the core setup is stable. This consistency is characteristic of professional touring drummers at Erlandsson\'s level — the same gear reliably night after night, regardless of which band is playing. His full touring and recording history with both bands is documented in [Daniel Erlandsson\'s profile at MetalForge](/drummer/daniel-erlandsson).'
+      },
+      {
+        question: 'What cymbals does Daniel Erlandsson use?',
+        answer: 'Daniel Erlandsson uses Meinl cymbals, primarily from the Byzance series. His setup includes Meinl 14" Byzance hi-hats, 16" and 18" Byzance crash cymbals, a 20" Byzance ride, and an 18" Classics Custom china cymbal. Meinl\'s Byzance line — hand-hammered B20 bronze with complex Turkish-style overtones — suits melodic death metal\'s harmonic guitar environment: the cymbals\' complex character blends with layered guitar harmonics rather than competing with them in the frequency spectrum. The Byzance hi-hats in particular provide the musical subdivision pulse that anchors Arch Enemy\'s twin-guitar arrangements.'
+      },
+      {
+        question: 'What pedals does Daniel Erlandsson use?',
+        answer: 'Daniel Erlandsson uses DW double bass pedals, specifically the DW 9002 double bass pedal configuration. DW\'s 9002 provides the smooth, consistent cam action that melodic death metal\'s interlocking kick-guitar patterns require — not the maximum-speed platform of extreme blast beat drumming, but the controlled, precise mechanism that lets kick patterns follow guitar rhythm with accuracy. At the mid-to-high tempos of Arch Enemy and At The Gates material (typically 160–210 BPM), pedal consistency and feel are more important than absolute mechanical speed. The 9002\'s direct-drive design gives Erlandsson immediate tactile feedback for the precise rhythmic placement his style demands. For double bass setup context, see [double-bass drumming at MetalForge](/technique/double-bass-drumming).'
+      }
+    ],
+    relatedAlbums: ['jaska-raatikainen-drum-setup', 'martin-lopez-drum-setup', 'altars-of-madness-drum-setup'],
+    relatedDrummers: ['daniel-erlandsson', 'jaska-raatikainen'],
+    relatedArticles: ['melodic-death-metal-drumming', 'blast-beat-technique'],
+    conclusion: {
+      title: 'The Göteborg Standard: Daniel Erlandsson\'s Enduring Legacy',
+      content: `Daniel Erlandsson occupies a unique position in metal history: the drummer who played on *Slaughter of the Soul* and then continued to define melodic death metal drumming for three more decades with Arch Enemy. No other drummer in the genre can claim that depth of connection to both the foundational moment and the sustained evolution of the style.
+
+His gear philosophy reflects this longevity. The DW Collector's Series kit is professional-grade, consistent, and reliable — not flashy, but precisely right for the work. The Meinl Byzance cymbals are musical and adaptable to both bands' distinct arrangements. The DW double bass pedals provide the controlled precision his style demands. Everything in his arsenal serves the riff.
+
+What makes Erlandsson essential to study is not what he does but what he doesn't do. He doesn't play unnecessarily complex fills. He doesn't impose technique for its own sake. He doesn't fight the guitar arrangements for sonic space. He serves the music first — and the music he has served across At The Gates and Arch Enemy is among the most important and enduring in melodic death metal's 30-year history.
+
+For drummers studying the Göteborg approach:
+- **Full drummer profile**: [Daniel Erlandsson at MetalForge](/drummer/daniel-erlandsson)
+- **Melodic death metal comparison**: [Jaska Raatikainen drum setup — Children of Bodom](/articles/jaska-raatikainen-drum-setup)
+- **Progressive death metal adjacent**: [Martin Lopez drum setup — Opeth](/articles/martin-lopez-drum-setup)
+- **Double bass technique**: [Double-bass drumming at MetalForge](/technique/double-bass-drumming)
+
+Slaughter of the Soul changed metal drumming in 1995. Daniel Erlandsson has been changing it — quietly, precisely, relentlessly — ever since.
+
+🥁 *Where the riff ends and the drums begin, Daniel Erlandsson draws no distinction.* 🤘`
+    }
   }
 
 };

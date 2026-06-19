@@ -291,6 +291,20 @@ function getMetaForPath(pathname) {
         spatialCoverage: 'Global',
         temporalCoverage: '1980/..',
       }),
+      faqSchema: [
+        {
+          question: 'What drum brand do most metal drummers use?',
+          answer: 'Tama is the most popular drum brand among metal drummers on MetalForge, used by a significant percentage of the 60+ pros in the database. DW, Pearl, and Ludwig are also widely represented.',
+        },
+        {
+          question: 'Which cymbal brand is most popular with metal drummers?',
+          answer: 'Zildjian leads cymbal adoption among metal drummers, followed closely by Meinl, Sabian, and Paiste. Many extreme metal drummers favour Meinl for their darker tone.',
+        },
+        {
+          question: 'What pedals do professional metal drummers prefer?',
+          answer: 'DW 9000 and Tama Iron Cobra are the most commonly used double bass pedals among the metal drummers profiled on MetalForge.',
+        },
+      ],
     };
   }
 
@@ -312,6 +326,20 @@ function getMetaForPath(pathname) {
         temporalCoverage: '1980/..',
         spatialCoverage: 'Global',
       }),
+      faqSchema: [
+        {
+          question: 'What drum brand do most metal drummers use?',
+          answer: 'Tama is the most popular drum brand among metal drummers on MetalForge, used by a significant percentage of the 60+ pros in the database. DW, Pearl, and Ludwig are also widely represented.',
+        },
+        {
+          question: 'Which cymbal brand is most popular with metal drummers?',
+          answer: 'Zildjian leads cymbal adoption among metal drummers, followed closely by Meinl, Sabian, and Paiste. Many extreme metal drummers favour Meinl for their darker tone.',
+        },
+        {
+          question: 'What pedals do professional metal drummers prefer?',
+          answer: 'DW 9000 and Tama Iron Cobra are the most commonly used double bass pedals among the metal drummers profiled on MetalForge.',
+        },
+      ],
     };
   }
 

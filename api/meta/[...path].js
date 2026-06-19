@@ -1833,12 +1833,51 @@ function getMetaForPath(pathname) {
         url: `${BASE_URL}/lists/${listSlug}`,
         articleSchema: JSON.stringify({
           '@context': 'https://schema.org',
-          '@type': 'ItemList',
-          name: list.title,
-          description: list.seoDescription || list.description,
-          url: `${BASE_URL}/lists/${listSlug}`,
-          numberOfItems: list.items?.length || 10,
-          publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+          '@graph': [
+            {
+              '@type': 'ItemList',
+              name: list.title,
+              description: list.seoDescription || list.description,
+              url: `${BASE_URL}/lists/${listSlug}`,
+              numberOfItems: list.items?.length || 10,
+              publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+              itemListElement: (list.items || []).slice(0, 10).map((item, i) => ({
+                '@type': 'ListItem',
+                position: i + 1,
+                name: item.name || item,
+                url: item.url || `${BASE_URL}/drummer/${item.slug || ''}`,
+              })),
+            },
+            {
+              '@type': 'FAQPage',
+              mainEntity: [
+                {
+                  '@type': 'Question',
+                  name: `Who tops the ${list.title}?`,
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: `The #1 ranked entry in ${list.title} on MetalForge is ${list.items?.[0]?.name || 'featured on the MetalForge ranked list'}. See the full ranked list at metalforge.io/lists/${listSlug}.`,
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: `How is the ${list.title} determined?`,
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: `The ${list.title} is curated by MetalForge editors based on technique, innovation, influence, and community recognition within the metal genre.`,
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: `How many drummers are on the ${list.title}?`,
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: `The ${list.title} features ${list.items?.length || 10} professional metal drummers ranked by MetalForge.`,
+                  },
+                },
+              ],
+            },
+          ],
         }),
         breadcrumbSchema: [
           { name: 'Home', url: BASE_URL },

@@ -2601,6 +2601,30 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
         howToScript.textContent = JSON.stringify(howToSchema);
       }
 
+      // Add FAQPage schema for album articles with faq data (Issue #1449)
+      if (list.isAlbumArticle && Array.isArray(list.faq) && list.faq.length > 0) {
+        const faqPageSchema = {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": list.faq.map(item => ({
+            "@type": "Question",
+            "name": item.question,
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": item.answer
+            }
+          }))
+        };
+        let faqPageScript = document.querySelector('script[data-schema="album-faq"]');
+        if (!faqPageScript) {
+          faqPageScript = document.createElement('script');
+          faqPageScript.type = 'application/ld+json';
+          faqPageScript.setAttribute('data-schema', 'album-faq');
+          document.head.appendChild(faqPageScript);
+        }
+        faqPageScript.textContent = JSON.stringify(faqPageSchema);
+      }
+
       // Add Person schema for album articles (Issue #663)
       if (list.isAlbumArticle && list.drummer) {
         const personSchema = {
@@ -2649,6 +2673,9 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
       // Issue #1404: cleanup HowTo schema node
       const howToScript = document.querySelector('script[data-schema="howto"]');
       if (howToScript) howToScript.remove();
+      // Issue #1449: cleanup FAQPage schema node
+      const faqPageScript = document.querySelector('script[data-schema="album-faq"]');
+      if (faqPageScript) faqPageScript.remove();
     };
   }, [list, isAlbumArticle, drummers]);
 

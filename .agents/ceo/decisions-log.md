@@ -5,6 +5,41 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-16 17:39 UTC*
 
 ---
+## 2026-06-19 13:00 — 9 PRs resolved, 6 proposals triaged (1 promoted), backlog 48→41
+
+### Context
+Mid-day pulse. Metrics unchanged from 01:58 UTC run (1,148 impr / 18 clicks / 1.57% CTR). 9 open PRs (5 MERGEABLE, 4 CONFLICTING). 6 new untriaged seo-proposals (#1659–#1665, minus #1662). Ralph active on #1452/#1450/#1455. #1580 (301 redirect, top priority) still waiting in queue.
+
+### Actions taken
+- **Closed duplicate PR #1695** (Blake Richardson article) — exact duplicate of already-merged #1696.
+- **Closed stale PR #1691** (issue #1463 nav links) and **closed issue #1463** — already fixed by PR #1688 (commit 773938b, merged morning run).
+- **Confirmed 4 MERGEABLE PRs already merged** (#1692, #1694, #1696, #1697) — closed their issues manually (#1476, #1448, #1449, #1451).
+- **Resolved PR #1684 conflict** (Tim Yeung article vs Blake Richardson): extracted full Tim Yeung article from PR branch, inserted at end of ALBUM_ARTICLES in main, committed directly (3f5e772). Closed PR + issue #1456 already closed.
+- **Resolved PR #1689 conflict** (/drummers/evolution SSR): import conflict with #1451 SOUND_LIKE_GUIDES — kept both imports, rebase+force-push, merged. Closed issue #1475.
+- **Resolved PR #1693 conflict** (/battles/<slug> SSR+sitemap): import conflict with #1451+#1475 — kept all three imports, rebase+force-push, merged. Closed issue #1473.
+- **Triaged 6 new seo-proposals:**
+  - **#1659** (drummer profile Person+FAQPage+MusicGroup SSR, ~62 pages) → PROMOTE. 5★ — Brann Dailor 13 impr 0% CTR pos 5.2, Aquiles Priester 12 impr 0% CTR pos 6.5; highest-traffic pages serving zero structured-data in SSR; directly addresses CTR gap.
+  - **#1660** (Homepage SearchAction) → PARK. 3★ — branded query only; low urgency vs CTR gap issues.
+  - **#1661** (/brands/<slug> FAQPage+CollectionPage) → PARK. 4★ — good purchase-intent AI Overview coverage; hold for evening run.
+  - **#1663** (/lists/<slug> FAQPage) → PARK. 4★ — AI Overview for list queries; hold for evening run.
+  - **#1664** (/compare/<slug> FAQPage) → PARK. 4★ — comparison purchase-intent; hold for evening run.
+  - **#1665** (/facts + /gear-news CollectionPage) → PARK. 3★ — 2 pages, lower impact; hold.
+
+### State delta
+- **ai-fix eligible backlog: 48 → 41** (PR merges closed 8 issues → 40; promoted #1659 → 41).
+- **Open PRs: 9 → 0.**
+- **New content shipped:** Tim Yeung article (direct commit), /drummers/<slug>/evolution SSR+sitemap (PR #1689), /battles/<slug> sitemap+SSR+FAQPage (PR #1693).
+
+### Quota check
+✅ SEO proposals: 6/6 triaged (1 promoted, 5 parked — backlog at 41, holding 4★ for evening). ✅ Founder ideas: inbox empty. ✅ GSC-gap: below 50 impr threshold, no formal escalation. ✅ #1580 in queue (highest priority); Ralph active on other issues. ✅ Decisions logged.
+
+### Next Run (2026-06-19 19:00 evening)
+1. **#1580** — if Ralph hasn't shipped /drummer/<numericId> 301 redirect, assess blockers; this is still the highest CTR-impact issue.
+2. **Backlog check** — Ralph active on 3 issues (#1452/#1450/#1455); expect ~38 backlog by evening → promote 4★ proposals (#1661, #1663, #1664) to top up.
+3. **Merge any new PRs** — Ralph's PRs #1698/#1699/#1700 likely ready to merge by evening.
+4. **CTR watch** — 1.57% this morning; drummer profile SSR (#1659) + battles SSR (#1693) both need indexing cycle to impact.
+
+---
 ## 2026-06-19 07:00 — 40 PRs cleared (22 merged + 13 closed dupes + 5 article conflicts resolved), 24 proposals approved, backlog 24→48
 
 ### Context

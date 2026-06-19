@@ -23597,6 +23597,8 @@ function AppContent() {
         setShowGearCategory(false);
         setGearCategory(null);
         setGearCategoryData(null);
+        setShowDrummersPage(false);
+        setShowToolsHub(false);
         setShowBandDetail(false);
         setBandSlug(null);
         setShowQuotes(false);
@@ -24526,6 +24528,7 @@ function AppContent() {
       } else if (isToolsHubPage()) {
         // Tools Hub page (Issue #729) - /tools
         setShowToolsHub(true);
+        setShowDrummersPage(false);
         setShowGearComparisonTool(false);
         setShowGearSearch(false);
         setShowGearBrand(false);
@@ -25243,6 +25246,47 @@ function AppContent() {
         setBioSlug(null);
         setShowGearFinder(false);
         setShowGearByBudget(false);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+      } else if (isDrummersPage()) {
+        // Drummers page (Issue #497) - /drummers
+        setShowDrummersPage(true);
+        setShowToolsHub(false);
+        setShowGearIndex(false);
+        setShowGearCategory(false);
+        setGearCategory(null);
+        setGearCategoryData(null);
+        setShowRedditLanding(false);
+        setShowWishlist(false);
+        setShowSpotlights(false);
+        setShowBattlePage(false);
+        setBattleSlug(null);
+        setShowNewsPage(false);
+        setShowGearNewsPage(false);
+        setShowGearStats(false);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setShowBandDetail(false);
+        setBandSlug(null);
+        setShowGenrePage(false);
+        setGenreSlug(null);
+        setShowGenresList(false);
+        setShowKitBuilder(false);
+        setShowGearFinder(false);
+        setShowGearByBudget(false);
+        setShowList(false);
+        setListSlug(null);
+        setShowTechniquesIndex(false);
+        setShowTechniqueDetail(false);
+        setTechniqueSlug(null);
+        setShowGearComparison(false);
+        setGearComparisonSlug(null);
+        setShowGearComparisonsIndex(false);
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);

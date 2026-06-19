@@ -33,6 +33,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Gear Statistics | https://metalforge.io/llms/stats.md | Brand-popularity data for 61 drummers — drums, cymbals, hardware, sticks with % breakdowns (Markdown) |
 | Gear Brand Insights | https://metalforge.io/llms/gear-insights.md | Named drummer citations with internal links for every brand — drum kit, cymbal, pedal, and stick usage percentages (Markdown) |
 | Gear History | https://metalforge.io/llms/gear-history.md | Era-by-era breakdown of how iconic drummers' gear evolved — endorsement changes and inflation-adjusted prices (Markdown) |
+| Drummer Birthdays | https://metalforge.io/llms/birthdays.md | Birth dates, birth places, and birthday FAQ for 57 metal drummers in calendar order (Markdown) |
 | Metal Drummer Quiz | https://metalforge.io/llms/quiz.md | Personality quiz matching your style to 60+ legendary drummers (Markdown) |
 | Kit Quiz — Which Drummer Are You? | https://metalforge.io/llms/kit-quiz.md | Answer questions about playing style and gear preferences to match to one of 62 metal drummers (Markdown) |
 | Drummer Battles | https://metalforge.io/llms/battles.md | Community head-to-head vote battles between legendary metal drummers, organised by category (Markdown) |

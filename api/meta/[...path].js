@@ -23,6 +23,8 @@ import { TOP_10_LISTS } from '../../packages/frontend/data/top10Lists.js';
 import { GEAR_INDEX } from '../../packages/frontend/data/gearIndex.js';
 // Issue #1387: gear item drummer links — authoritative drummerIds live in the gear API.
 import { gearItems } from '../gear/[slug].js';
+// Issue #1451: HowTo JSON-LD + Article schema for /guides/how-to-sound-like-<slug> pages.
+import { SOUND_LIKE_GUIDES, generateGuideSchema } from '../../packages/frontend/data/soundLikeGuides.js';
 
 const BASE_URL = 'https://metalforge.io';
 const SITE_NAME = 'MetalForge';
@@ -444,14 +446,24 @@ function getMetaForPath(pathname) {
   // Sound-like guides: /guides/how-to-sound-like-<drummer-slug>
   const soundLikeMatch = path.match(/^\/guides\/(how-to-sound-like-([a-z0-9-]+))$/);
   if (soundLikeMatch) {
+    const guideSlug = soundLikeMatch[1];
     const drummerSlug = soundLikeMatch[2];
     const drummer = getDrummerBySlug(drummerSlug);
+    const guide = SOUND_LIKE_GUIDES[guideSlug];
     if (drummer) {
+      const guideUrl = `${BASE_URL}/guides/${guideSlug}`;
+      const howToSchema = guide ? generateGuideSchema(guide) : null;
       return {
         title: `How to Sound Like ${drummer.name} — Drum Gear & Setup Guide | ${SITE_NAME}`,
         description: `Replicate ${drummer.name}'s ${drummer.band} drum sound. Gear list, settings, and technique tips to get that signature tone.`,
         type: 'article',
-        url: `${BASE_URL}/guides/${soundLikeMatch[1]}`,
+        url: guideUrl,
+        articleSchema: howToSchema ? JSON.stringify(howToSchema) : null,
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: 'Guides', url: `${BASE_URL}/guides` },
+          { name: `How to Sound Like ${drummer.name}`, url: guideUrl },
+        ],
       };
     }
   }

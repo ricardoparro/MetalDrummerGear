@@ -33,7 +33,7 @@ export const licks = {
       "Focus on feel and looseness rather than metronomic precision"
     ],
     "tutorial": {
-      "youtubeId": "2nopWODWtpM",
+      "youtubeId": "r-qy7Mg6AMo",
       "startTime": 0,
       "title": "Black Sabbath - War Pigs - Drum Cover",
       "description": "Full-song drum cover following Bill Ward's swinging half-time groove on War Pigs"
@@ -93,7 +93,7 @@ export const licks = {
       "Open up with busier fills in the solo section before returning to the lurch"
     ],
     "tutorial": {
-      "youtubeId": "8a2LHPDWgcI",
+      "youtubeId": "JRJsXfRdlxo",
       "startTime": 0,
       "title": "Black Sabbath - Iron Man - Drum Cover",
       "description": "Drum cover of Bill Ward's authoritative groove on Black Sabbath's Iron Man"
@@ -153,7 +153,7 @@ export const licks = {
       "Let the groove swing and breathe — resist locking to a strict grid"
     ],
     "tutorial": {
-      "youtubeId": "X_PeqKHGz_c",
+      "youtubeId": "AdlG5hVm5F4",
       "startTime": 0,
       "title": "Black Sabbath - N.I.B. - Drum Cover",
       "description": "Drum cover highlighting Bill Ward's blues-shuffle feel on Black Sabbath's N.I.B."

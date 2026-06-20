@@ -1,1 +1,1 @@
-fix already applied: api/sitemap.js line 465 has beginner-guide entry (priority 0.85, monthly); api/meta/index.js lines 298-352 have WebPage + FAQPage JSON-LD schema. No changes needed.
+fix already applied: /beginner-guide added to api/sitemap.js at line 465 with priority 0.85, changefreq monthly

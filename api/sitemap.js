@@ -683,6 +683,8 @@ export default function handler(req, res) {
       priority: '0.5',
       changefreq: 'monthly',
     })),
+    // Issue #1800: genre LLM citation surface — 8 genre pages
+    ...getAllGenreSlugs().map(slug => ({ loc: `/llms/genres/${slug}.md`, priority: '0.5', changefreq: 'monthly' })),
   ];
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"

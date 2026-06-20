@@ -59,6 +59,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Per-Technique Files | https://metalforge.io/llms/technique/ | Deep-dive technique files: blast-beat, double-bass, gravity-blast, etc. (10 files) |
 | Gear Series Files | https://metalforge.io/llms/gear-series/ | Per-gear-model LLM files covering specs and user profiles (36 files) |
 | Per-Drummer Endorsements | https://metalforge.io/llms/endorsements/ | Individual brand endorsement histories per drummer (15 files) |
+| Genre Guides | https://metalforge.io/llms/genres/ | Per-genre LLM guides covering featured drummers, techniques, gear, and FAQ — thrash, death, black, progressive, nu-metal, groove, metalcore, hardcore (8 files) |
 
 ---
 

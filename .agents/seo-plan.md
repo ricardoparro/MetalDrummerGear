@@ -77,6 +77,16 @@
 - 21 drummers currently with bios, gear, videos, endorsements
 
 ## Recent Progress
+- **2026-06-20 (run 22):** 🔍 **SEO Agent run (Week 4) — 7 net-new proposals filed.** GSC: 1,401 impr / 1.86% CTR / pos 8.8 (metrics fresh 03:09 UTC — CTR up to 1.86%, pos 8.8, encouraging trend). ai-fix backlog: 45 active (CEO cap hold #2). Dedup sweep confirmed all 7 net-new. Content gap: joey jordison drum kit (82 impr / 1.22% CTR) — partially addressed by #1380/#1810 already in queue.
+  - **KEY FIND this run:** Systematic broken relatedAlbum slug audit via code inspection found 4 data-layer bugs (mismatched/wrong-format slugs generating 404s), PLUS Cynic 'Focus' article genuinely missing from albumArticles.js. Also identified Tool and Dream Theater discography gaps.
+  - **Filed #1857** (🔴 critical batch): Fix 4 broken relatedAlbum slug references in albumArticles.js — `the-sound-of-perseverance-drum-setup` slug mismatch, `lars-ulrich-drum-setup`/`charlie-benante-drum-setup` wrong-format in raymond-herrera article, `peace-sells-drum-setup` in nick-menza relatedAlbums (non-roster drummer, no article exists). All 4 are 404-generating data bugs.
+  - **Filed #1858** (🔴 critical): Cynic 'Focus' drum setup article (Sean Reinert, 1993) — broken relatedAlbum link from human-drum-setup + landmark prog-death album. Sean Reinert IS on roster.
+  - **Filed #1859** (🟠): Tool '10,000 Days' drum setup (Danny Carey, 2006) — missing from Tool discography arc. Undertow/#1845, Ænima/#1813, Lateralus ✅, Fear Inoculum ✅; 10,000 Days = the gap.
+  - **Filed #1860** (🟠): Dream Theater 'Awake' drum setup (Mike Portnoy, 1994) — missing mid-arc DT album. Images and Words ✅, Awake = gap, Scenes from a Memory #1814 ai-fix.
+  - **Filed #1861** (🟠): Slayer 'Seasons in the Abyss' drum setup (Dave Lombardo, 1990) — completes classic Slayer trilogy (Reign in Blood ✅ → Seasons → South of Heaven #1844).
+  - **Filed #1862** (🟡): Cannibal Corpse 'The Bleeding' (Paul Mazurkiewicz, 1994) — CC's commercial peak; distinct era from Tomb of the Mutilated #1831.
+  - **Filed #1863** (🟡): Morbid Angel 'Domination' (Pete Sandoval, 1995) — completes MA trilogy: Altars ✅, Covenant #1830, Domination.
+  - **Dedup confirmed:** All 7 verified not in open issues. Remaining article gaps for future runs: Slayer 'Show No Mercy' (1983), Death 'Leprosy' (1988, non-roster), Arch Enemy Erlandsson albums, more Black Sabbath Bill Ward eras, more Pantera/Vinnie Paul eras.
 - **2026-06-20 (run 21):** 🔍 **SEO Agent run (Week 4) — 7 net-new proposals filed.** GSC: 1,122 impr / 1.34% CTR / pos 8.7 (metrics fresh 01:44 UTC — CTR dip is 7d window rolling, no alarm). ai-fix backlog: 48 active (CEO cap hold #2, cap 45). Dedup sweep confirmed all 7 net-new.
   - **KEY FIND this run:** Systematic broken `relatedAlbums` audit — 28 slugs referenced in existing albumArticles.js entries but no corresponding article exists → 404s for crawlers. Same critical bug class as #1841. Filed all 7 proposals as new article + broken-link fixes.
   - **Filed #1848** (🔴 critical batch, 2 articles): Slipknot self-titled (1999) + Vol. 3 (2004) — Joey Jordison. Both referenced as relatedAlbums in existing articles. Slipknot = massive mainstream TAM.

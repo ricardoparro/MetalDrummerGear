@@ -1307,7 +1307,7 @@ export function LickDetailPage({ theme, onBack, lickSlug, drummers }) {
       </View>
 
       {/* Main Video (only when a primary video exists) */}
-      {lick.video && (
+      {lick.video && lick.video.youtubeId && (
         <View style={styles.videoSection}>
           <Text style={[styles.sectionTitle, { color: theme.text }]}>📹 Watch & Learn</Text>
           <YouTubeEmbed
@@ -1379,7 +1379,7 @@ export function LickDetailPage({ theme, onBack, lickSlug, drummers }) {
       </View>
 
       {/* Tutorial Video (if available) */}
-      {lick.tutorial && (
+      {lick.tutorial && lick.tutorial.youtubeId && (
         <View style={styles.videoSection}>
           <Text style={[styles.sectionTitle, { color: theme.text }]}>🎓 Tutorial Video</Text>
           <YouTubeEmbed

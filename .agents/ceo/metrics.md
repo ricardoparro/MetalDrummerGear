@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-20 00:47 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-20 01:44 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -10,7 +10,7 @@
 | --- | --- |
 | Active users | 54 |
 | Sessions | 70 |
-| Page views | 129 |
+| Page views | 132 |
 | Engagement rate | 54.29% |
 | Avg session (s) | 115 |
 
@@ -18,7 +18,7 @@
 | Page | Views | Users |
 | --- | --- | --- |
 | / | 32 | 10 |
-| /drummers | 12 | 1 |
+| /drummers | 14 | 2 |
 | /tools | 11 | 2 |
 | /drummer/2 | 9 | 8 |
 | /drummer/mikkey-dee | 6 | 1 |

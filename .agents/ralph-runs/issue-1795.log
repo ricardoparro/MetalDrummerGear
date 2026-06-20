@@ -1,1 +1,4 @@
-already-applied
+status: complete
+files: public/llms/vs/tomas-haake-vs-george-kollias.md, public/llms/vs/brann-dailor-vs-danny-carey.md, public/llms/vs/pete-sandoval-vs-flo-mounier.md, public/llms/vs/mike-portnoy-vs-mike-mangini.md, public/llms/vs/lars-ulrich-vs-charlie-benante.md, public/llms/vs/vinnie-paul-vs-dave-lombardo.md, public/llms/vs/travis-orbin-vs-matt-halpern.md, public/llms/vs/pete-sandoval-vs-george-kollias.md, api/sitemap.js
+quality: all 8 files pass (words=898-979, faqs=3, links=2, table_rows=7)
+count: ls public/llms/vs/ | wc -l = 32

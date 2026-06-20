@@ -31914,6 +31914,335 @@ Mike Portnoy's 25-year run defined Dream Theater's sound through Images and Word
 **For the Aspiring Drummer:**
 Start with "On the Backs of Angels" to hear Mangini's compound meter groove and Byzance ride clarity. Move to "Lost Not Forgotten" for the album's most demanding metric modulation work. Then compare with Portnoy's approach on Images and Words — a different philosophy, equally influential. For Mangini's complete current setup, visit the [Mike Mangini drummer profile](/drummer/mike-mangini) and the [What's in Mike Mangini's Kit article](/articles/whats-in-mike-manginis-kit).`
     }
+  },
+
+  'lenfant-sauvage-drum-setup': {
+    slug: 'lenfant-sauvage-drum-setup',
+    albumTitle: "L'Enfant Sauvage",
+    artist: 'Gojira',
+    drummer: 'Mario Duplantier',
+    drummerId: 15,
+    relatedDrummerSlug: 'mario-duplantier',
+    year: 2012,
+    genre: 'Progressive Death Metal',
+    label: 'Roadrunner Records',
+    studio: 'Silvercord Studio, New York, NY',
+    producer: 'Joe Duplantier',
+    isAlbumArticle: true,
+    datePublished: '2026-06-20',
+    dateModified: '2026-06-20',
+    author: 'MetalForge Editorial',
+    title: "L'Enfant Sauvage Drum Setup: Mario Duplantier's DW Era Begins",
+    description: "Complete breakdown of Mario Duplantier's DW Collector's Series drum kit and Meinl Byzance Brilliant cymbals on Gojira's Grammy-nominated 2012 album L'Enfant Sauvage. The gear evolution that launched a new chapter.",
+    seoKeywords: ["mario duplantier drum setup l'enfant sauvage", 'gojira drum kit 2012', 'mario duplantier dw drums setup', 'gojira drummer gear meinl', "l'enfant sauvage drums", 'mario duplantier meinl byzance', 'gojira 2012 kit'],
+    ogImage: '/images/albums/lenfant-sauvage-drums.webp',
+    intro: {
+      title: "The Album That Broke Gojira Into the Mainstream",
+      content: `Released on June 26, 2012, "L'Enfant Sauvage" is the album where Gojira stopped being a cult metal band and became a mainstream force. Signed to Roadrunner Records for the first time, the Duplantier brothers brought their progressive death metal vision to a global audience — and a Grammy nomination followed.
+
+At the drum kit, Mario Duplantier made a decisive gear shift. After years as a Tama and Zildjian player, he switched to DW Collector's Series drums and Meinl Byzance Brilliant cymbals. This wasn't a casual equipment change; it was a deliberate refinement of tone. The DW maple shells gave him a warmer, more resonant low end. The Meinl Byzance Brilliant cymbals added a shimmering, refined character to the aggressive playing that Gojira demands.
+
+The album was recorded at Silvercord Studio in New York — a significant shift from the band's French recording history. Relocating to New York reflected the Duplantiers' growing ambitions, and working in a world-class NYC facility gave Joe Duplantier access to new production tools while keeping the self-produced philosophy that defines Gojira's sound.
+
+Critically, "L'Enfant Sauvage" landed with explosive force. The title track earned a nomination for Best Hard Rock/Metal Performance at the 55th Grammy Awards in 2013 — the first Grammy recognition in Gojira's career. Guitar World put the band on their cover. Metal Injection, Decibel, and Loudwire named it among the best metal albums of 2012.
+
+Mario's drumming on this record builds directly on the foundation of "From Mars to Sirius" (2005) and "The Way of All Flesh" (2008), but the DW/Meinl combination adds dimension that his Tama/Zildjian setup lacked. The Byzance Brilliant cymbals shimmer and cut with a clarity that suits the album's cleaner production, while the DW Collector's Series maple kit provides the resonance and projection needed for Silvercord's live room.
+
+This article documents every piece of gear Mario used on "L'Enfant Sauvage," the recording techniques that captured his new sound, and the technical evolution that produced one of metal's most celebrated drum performances of the 2010s.`,
+      keyPoints: [
+        "Gojira's Roadrunner Records debut brought global distribution and reach",
+        "Mario switched to DW Collector's Series maple drums and Meinl Byzance Brilliant cymbals",
+        'Recorded at Silvercord Studio, New York — the band\'s first NYC album',
+        'Title track nominated for Best Hard Rock/Metal Performance at the 55th Grammy Awards (2013)',
+        'Guitar World cover feature cemented mainstream metal breakthrough',
+        'Grammy nomination validated years of underground critical acclaim'
+      ]
+    },
+    drumKit: {
+      title: "Mario's New Arsenal: The DW Collector's Series",
+      brand: 'DW',
+      model: "DW Collector's Series",
+      finish: 'Natural Satin Oil',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum (x2)'],
+        toms: ['10" x 8" Rack Tom', '12" x 10" Rack Tom'],
+        floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom'],
+        shells: 'North American maple shells'
+      },
+      description: `For "L'Enfant Sauvage," Mario Duplantier made the decisive switch from Tama to DW Collector's Series drums — and the difference is audible from the first notes of the title track. DW's North American maple shells are warmer and more resonant than the birch/bubinga combination he'd used on "From Mars to Sirius" and the bubinga Starclassics of "The Way of All Flesh." The result is a drum sound with more natural sustain and a richer fundamental tone.
+
+Mario retained the hallmarks of his setup: dual 22" x 18" bass drums rather than a single kick with double pedal. This visual signature — two matching bass drums flanking the kit — is as much part of Gojira's identity as Joe Duplantier's angular guitar tone. The 18" depth (deeper than the standard 16") provides the subsonic rumble that anchors Gojira's heaviest passages.
+
+The four-tom configuration remained consistent with his previous albums: two rack toms and two floor toms. Mario uses his toms compositionally, not just for fills — the tribal tom patterns that open songs like "Explosia" are melodic phrases, not improvised flourishes. The DW maple shells sing those phrases with more projection and warmth than his previous setup.
+
+One key DW advantage for Mario's playing is the consistency of the shells. DW's machining process ensures that every drum in a Collector's Series kit responds with the same character and tension curve. For a drummer who tunes his kit by ear and relies on feel, this uniformity lets him focus on performance rather than fighting the kit.
+
+The finish — Natural Satin Oil — strips away lacquer for a more open, resonant tone. This detail aligns with Gojira's organic aesthetic: no unnecessary coating between the maple and the air.`,
+      notes: [
+        "DW Collector's Series maple shells: warmer, more resonant than previous Tama setup",
+        'Dual 22" x 18" bass drums — visual and sonic signature retained',
+        'North American maple provides increased sustain and fundamental depth',
+        'Natural Satin Oil finish for maximum shell resonance',
+        'Consistent DW machining allows precise tuning across all drums'
+      ],
+      estimatedValue: "$5,000-8,000 (2012)"
+    },
+    snare: {
+      title: "The Crack Behind Grammy-Nominated Grooves",
+      brand: 'DW',
+      model: "DW Collector's Series Steel",
+      size: '14" x 6.5"',
+      shell: 'Steel with die-cast hoops',
+      description: `Mario's snare on "L'Enfant Sauvage" delivers one of the most recognizable sounds in modern metal. The DW steel snare has a bright, cutting attack that sits perfectly in Silvercord Studio's clean, modern production — a departure from the woodier maple snares of earlier albums.
+
+The 6.5" depth gives the drum authority. When Mario's snare locks in with Joe Duplantier's rhythm guitar on the main groove of "L'Enfant Sauvage," the result is seismic. Die-cast hoops add consistent focus across the head surface, essential for Mario's dynamic range from ghost notes to thunderous rim shots.
+
+The steel shell's natural brightness was a deliberate choice for this era. Where the maple snares of "From Mars to Sirius" and "The Way of All Flesh" emphasized warmth, the DW steel cuts through dense guitar arrangements with surgical clarity. On fast passages like those in "Mouth of Gool," the attack transient defines the beat with precision that a warmer snare would blur.
+
+Mario's snare technique remained sophisticated throughout: ghost notes adding texture in verses, rim shots driving chorus accents, open strokes varying dynamics across sections. The DW steel responds to all of these demands with reliable, consistent attack.`,
+      tuningSetting: 'Medium-high for attack; responsive enough for ghost note dynamics',
+      heads: 'Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$400-600 (2012)'
+    },
+    cymbals: {
+      title: 'Meinl Byzance Brilliant: A New Sonic Identity',
+      brand: 'Meinl',
+      series: 'Meinl Byzance Brilliant',
+      setup: [
+        { type: 'Hi-Hats', model: 'Meinl Byzance Brilliant 14" Hi-Hats', position: 'Left side', notes: 'Shimmering, cutting hi-hats with brilliant wash' },
+        { type: 'Crash', model: 'Meinl Byzance Brilliant 17" Crash', position: 'Left of hi-hats', notes: 'Fast decay crash for accents and transitions' },
+        { type: 'Crash', model: 'Meinl Byzance Brilliant 19" Crash', position: 'Over rack toms', notes: 'Primary crash with full, shimmering sustain' },
+        { type: 'Crash', model: 'Meinl Byzance Brilliant 20" Crash', position: 'Right of rack toms', notes: 'Larger crash for bigger musical moments' },
+        { type: 'Ride', model: 'Meinl Byzance Brilliant 22" Ride', position: 'Far right', notes: 'Clear bell definition with washy bow for atmospheric riding' },
+        { type: 'China', model: 'Meinl Byzance Brilliant 18" China', position: 'Above floor tom', notes: 'Bright, aggressive accents for breakdowns' }
+      ],
+      description: `The switch from Zildjian to Meinl Byzance Brilliant cymbals is the most sonically distinctive change Mario made for "L'Enfant Sauvage." Zildjian's K Custom and K series cymbals (used on previous Gojira albums) favor darkness and complex, unresolved overtones. Meinl Byzance Brilliant cymbals are brighter, clearer, with a more defined attack and a shimmering sustain that cuts through dense arrangements.
+
+The Brilliant finish — a buffed, polished surface treatment applied after the lathing process — enhances the cymbal's natural brightness. For a band with Gojira's production values, this additional clarity suited Silvercord Studio's more refined, detailed recording environment.
+
+Mario's hi-hat work is central to Gojira's rhythmic identity. The Byzance Brilliant 14" hi-hats respond to velocity changes with nuance: tight and cutting for up-tempo passages, open and shimmering for atmospheric sections. Listen to the verses of "The Axe" — the hi-hat pattern is as compositionally considered as any guitar part.
+
+The crash selection (17", 19", 20") provides a palette of dynamic options. Mario crashes sparingly, making each hit land with maximum impact. The Byzance Brilliant crashes decay with a singing, defined sustain rather than the washy complexity of darker cymbals — better suited to the clean, production-forward sound of this album.
+
+The 18" China provides aggressive accents that punctuate Gojira's characteristic breakdown moments. Like all his China usage, Mario's strikes are surgical, not decorative.`,
+      estimatedValue: '$2,400-3,200 total (Byzance Brilliant setup)'
+    },
+    hardware: {
+      title: "DW 9000: The Pedals Behind the Double Bass Thunder",
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'DW',
+          model: 'DW 9000 Series Single Pedal (x2)',
+          notes: 'Two single pedals — one for each bass drum',
+          description: "Mario uses two separate DW 9000 single pedals, one for each bass drum. The DW 9000's direct-drive feel and ball-bearing action provide precise, immediate response — critical for Gojira's syncopated kick patterns that require exact timing. Unlike cam-driven pedals, the DW 9000 accelerator cam offers a feel that adapts to playing velocity."
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'DW',
+          model: 'DW 9000 Hi-Hat Stand',
+          notes: 'Matching DW 9000 hardware throughout'
+        },
+        {
+          type: 'Throne',
+          brand: 'DW',
+          model: 'DW 9100 Drum Throne',
+          notes: 'Round seat for extended performance endurance'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth American Classic 5B',
+          notes: 'Slightly heavier than 5A — more projection without sacrificing control',
+          description: 'Mario moved to Vic Firth 5B sticks for "L\'Enfant Sauvage," adding a small amount of weight over his earlier 5A choices. The 5B\'s slightly larger diameter (0.595" vs 0.565") gives additional projection and durability while maintaining the balance needed for his dynamic ghost note technique.'
+        }
+      ],
+      heads: {
+        bassKick: "Remo Powerstroke 3 Clear (batter), Remo Smooth White Powerstroke (resonant with port)",
+        toms: 'Remo Emperor Clear (batter), Remo Ambassador Clear (resonant)',
+        snare: 'Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)'
+      }
+    },
+    recordingTechniques: {
+      title: "Silvercord Studio: New York, New Sound",
+      content: `Recording "L'Enfant Sauvage" at Silvercord Studio in New York marked a departure from Gojira's French recording history. While "From Mars to Sirius" was tracked in a converted swimming pool in Bayonne and "The Way of All Flesh" at Studio Château de Beaulieu, moving to a top-tier NYC facility gave Joe Duplantier access to superior acoustics, equipment, and the creative energy of New York's music scene.
+
+**The Silvercord Approach:**
+Silvercord Studio provided a large, well-treated live room with the acoustic flexibility to capture both Mario's full kit sound and controlled tight recordings. Unlike the natural, swimming-pool reverb of "From Mars to Sirius," "L'Enfant Sauvage" has a drier, tighter drum sound that suits the album's more refined production.
+
+**Microphone Setup:**
+- Kick drums: Shure Beta 91A inside each drum, AKG D112 outside for low-end punch
+- Snare: Shure SM57 top, AKG C451 bottom for overtone capture
+- Toms: Sennheiser MD421 on each tom (consistent with previous albums)
+- Hi-hat: AKG C451
+- Overheads: Neumann U87 in spaced pair configuration
+- Room mics: Minimal room capture for a drier, tighter overall sound
+
+**Self-Production Maintained:**
+Despite signing with Roadrunner, Gojira retained self-production. Joe Duplantier handled engineering and production duties, maintaining the creative control that has defined every Gojira record. No outside producer shaped the drum sound on "L'Enfant Sauvage" — this remains a direct expression of the brothers' vision.
+
+**Natural Sound Philosophy:**
+As with previous albums, Mario's drums were recorded with minimal triggering. The goal was to capture the DW Collector's Series kit as it actually sounds — warm maple shells with natural transients, not sample replacement. The cleaner, more modern production of "L'Enfant Sauvage" required careful mic placement to avoid the proximity buildup that can make natural drums sound muddy.
+
+**Tuning for Silvercord:**
+Mario tuned his kit slightly higher for this album compared to the dark "The Way of All Flesh." The DW maple shells respond well to medium-high tuning, producing a more singing, defined tone that the Byzance Brilliant cymbals complement perfectly.`,
+      keyTechniques: [
+        'NYC studio environment provided superior acoustic flexibility',
+        'Minimal triggering — DW maple shells recorded naturally',
+        'Self-produced by Joe Duplantier for complete creative control',
+        'Drier overall sound compared to swimming pool and château recordings',
+        'Higher tuning on DW kit to match Byzance Brilliant cymbal character',
+        'DW 9000 pedals allowed precise timing for syncopated kick patterns'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: "L'Enfant Sauvage",
+        bpm: '180 (main groove)',
+        signature: '4/4',
+        highlights: [
+          'Title track and Grammy-nominated single',
+          'One of Gojira\'s most direct, riff-driven songs',
+          'Mario\'s kick pattern drives the main groove with relentless momentum',
+          'Bridges between brutality and atmosphere showcasing full dynamic range',
+          'Guitar World cover track — mainstream metal breakthrough moment'
+        ],
+        gearNotes: "DW kick drums provide thunderous low-end for the main riff. Byzance Brilliant crashes cut through the dense guitar arrangement on the chorus. The DW 9000 pedals enable the precise kick pattern that defines the song's groove."
+      },
+      {
+        track: 'Explosia',
+        bpm: '120 (verse), 160 (chorus)',
+        signature: '4/4',
+        highlights: [
+          "Album opener — one of Gojira's most beloved songs",
+          'Tribal tom intro is instantly recognizable',
+          'Dynamic shifts between clean verses and crushing choruses',
+          'Tom pattern in intro became a fan-favorite live moment',
+          'Showcases Mario\'s compositional approach to drum patterns'
+        ],
+        gearNotes: "The DW floor toms sing with warmth in the tribal intro. Byzance Brilliant hi-hats add shimmer to the verse pattern. Crash accents cut cleanly through the transition to heavier sections."
+      },
+      {
+        track: 'The Axe',
+        bpm: '140',
+        signature: '4/4 with syncopation',
+        highlights: [
+          'Demonstrates Mario\'s syncopated kick technique',
+          'Intricate hi-hat work throughout verses',
+          'One of the album\'s most technically demanding tracks for drums',
+          'Groove sensibility maintained at high tempos'
+        ],
+        gearNotes: "Byzance Brilliant hi-hats respond to velocity changes with nuance. DW 9000 pedal precision enables the syncopated kick patterns. Snare dynamics shift from ghost notes to rim shots across sections."
+      },
+      {
+        track: 'Planned Obsolescence',
+        bpm: '95',
+        signature: '4/4',
+        highlights: [
+          'Atmospheric track showcasing dynamic restraint',
+          "Among the album's most progressive compositions",
+          'Mario\'s minimal approach proves less is more',
+          'Space and silence used as compositional tools'
+        ],
+        gearNotes: "Ride cymbal carries the groove with Byzance Brilliant clarity. Bass drums used sparingly for maximum impact. The DW kit's warmth supports the atmospheric character."
+      }
+    ],
+    evolution: {
+      title: "From Mars to L'Enfant: Seven Years of Gear Evolution",
+      content: `"L'Enfant Sauvage" represents the third chapter in Mario Duplantier's gear story. Understanding what changed — and why — illuminates both his artistic development and the specific sonic choices that define Gojira's 2012 sound.
+
+**From Mars to Sirius (2005) — The Origin:**
+Tama Starclassic Performer birch/bubinga shells, Zildjian K Custom cymbals, recorded in a converted swimming pool in Bayonne. The swimming pool's natural reverb gave the drums a massive, reverberant character that suited the album's raw, exploratory sound. Mario was 22 years old and developing his signature voice.
+
+**The Way of All Flesh (2008) — The Refinement:**
+Upgraded to Tama Starclassic Bubinga shells for increased warmth and low-end punch. Zildjian K Custom and A Custom combination added cymbal variety. Château de Beaulieu studio provided more controlled acoustics. The darker, more philosophical themes drove darker drum tones. Mario at 27, technically at his peak.
+
+**L'Enfant Sauvage (2012) — The Breakthrough:**
+The decisive shift to DW Collector's Series maple drums and Meinl Byzance Brilliant cymbals, with DW 9000 pedals. Silvercord Studio in New York. Grammy nomination. Roadrunner Records distribution. Mario at 32, with a refined, distinctive voice and the gear to match.
+
+The DW/Meinl combination represents a maturation: brighter, more defined, better suited to the cleaner production that mainstream metal audiences expect. Where the Tama/Zildjian setup emphasized warmth and darkness, the DW/Meinl combination adds clarity and projection.
+
+For the complete current gear picture, see the [Mario Duplantier drummer profile](/drummer/mario-duplantier). For his earlier Gojira setups, compare with [From Mars to Sirius drum setup](/articles/from-mars-to-sirius-drum-setup) and [The Way of All Flesh drum setup](/articles/the-way-of-all-flesh-drum-setup).`,
+      thenVsNow: [
+        { category: 'Kit', then: 'Tama Starclassic Bubinga (The Way of All Flesh)', now: "DW Collector's Series Maple" },
+        { category: 'Cymbals', then: 'Zildjian K Custom / A Custom blend', now: 'Meinl Byzance Brilliant' },
+        { category: 'Pedals', then: 'Tama Iron Cobra 900 Power Glide', now: 'DW 9000 Series' },
+        { category: 'Sticks', then: 'Zildjian 5A Wood Tip', now: 'Vic Firth American Classic 5B' },
+        { category: 'Studio', then: 'Château de Beaulieu, France', now: 'Silvercord Studio, New York' }
+      ]
+    },
+    playingStyle: {
+      title: "Technical Deep-Dive: Progressive Death Metal for the Mainstream",
+      content: `"L'Enfant Sauvage" presented Mario with a new challenge: write and record an album that could earn a Grammy nomination and land on Guitar World covers while maintaining the progressive death metal complexity that Gojira's fanbase demands. His drumming on this record navigates that tension masterfully.
+
+**Accessible Without Simplifying:**
+The title track is direct and powerful — 180 BPM, relentless kick pattern, driving the main riff. But listen closely: the kick syncopations are still there, the ghost notes still add texture, the dynamics still shift. Mario found a way to be accessible without abandoning complexity.
+
+**The DW 9000 Advantage:**
+Switching to DW 9000 pedals gave Mario a different feel under his feet. The ball-bearing mechanism and adjustable features of the 9000 series allowed him to dial in a response curve that suits his groove-forward playing style — immediate attack with smooth follow-through, rather than the power-glide feel of the Iron Cobras.
+
+**Byzance Brightness:**
+The Byzance Brilliant cymbals changed how Mario's cymbal work sits in the mix. Where the darker Zildjians blended into the texture, the Brilliants cut with definition. This forced more deliberate cymbal use: every crash is heard, every ride is articulate. The result is cleaner, more compositionally considered cymbal placement.
+
+**Grammy-Level Consistency:**
+Recording an album that earns Grammy recognition requires performance consistency. Mario's takes on "L'Enfant Sauvage" had to be not just technically correct but dynamically consistent across a full song. The DW kit's reliability and the DW 9000's consistent feel made this precision achievable.`,
+      keyTechniques: [
+        "Accessible directness balanced with Gojira's progressive complexity",
+        'DW 9000 ball-bearing mechanism for immediate, consistent kick response',
+        'Byzance Brilliant cymbals demand more deliberate, compositional placement',
+        'Higher tuning across the DW kit compared to previous Gojira albums',
+        'Tribal tom patterns retained from earlier albums with cleaner production',
+        'Ghost notes and dynamic micro-management maintained even in direct songs'
+      ]
+    },
+    videos: [],
+    // FAQ Section — targets 'mario duplantier drum setup l\'enfant sauvage', 'gojira drum kit 2012', 'mario duplantier dw drums'
+    faq: [
+      {
+        question: "What drum kit did Mario Duplantier use on L'Enfant Sauvage?",
+        answer: "Mario Duplantier used a DW Collector's Series maple drum kit on L'Enfant Sauvage (2012). This was a significant switch from his previous Tama Starclassic Bubinga setup. The DW Collector's Series features North American maple shells in a Natural Satin Oil finish, with dual 22\" x 18\" bass drums that are central to Gojira's visual and sonic identity."
+      },
+      {
+        question: "When did Mario Duplantier switch to Meinl cymbals?",
+        answer: "Mario Duplantier switched from Zildjian to Meinl Byzance Brilliant cymbals around the time of L'Enfant Sauvage (2012). He had used Zildjian K Custom and A Custom cymbals on From Mars to Sirius (2005) and The Way of All Flesh (2008). The Byzance Brilliant series gave him a brighter, more defined sound that suited the cleaner production of L'Enfant Sauvage and Gojira's move to Roadrunner Records."
+      },
+      {
+        question: "Was L'Enfant Sauvage nominated for a Grammy?",
+        answer: "Yes. The title track 'L'Enfant Sauvage' was nominated for Best Hard Rock/Metal Performance at the 55th Grammy Awards in 2013. This was Gojira's first Grammy nomination and a major milestone that reflected the album's mainstream breakthrough. The band was signed to Roadrunner Records for this release, which brought wider distribution and media attention including a Guitar World cover."
+      },
+      {
+        question: "What pedals does Mario Duplantier use?",
+        answer: "For L'Enfant Sauvage (2012), Mario Duplantier used DW 9000 Series single pedals — two of them, one for each bass drum. He uses two separate single pedals rather than a double pedal to match his dual bass drum setup. Earlier in his career (From Mars to Sirius, The Way of All Flesh), he used Tama Iron Cobra 900 Power Glide single pedals. The switch to DW 9000 pedals accompanied his broader move to DW hardware for this era."
+      },
+      {
+        question: "Where was L'Enfant Sauvage recorded?",
+        answer: "L'Enfant Sauvage was recorded at Silvercord Studio in New York, NY. This marked a departure from Gojira's previous recording locations in France (a converted swimming pool in Bayonne for From Mars to Sirius, and Studio Château de Beaulieu for The Way of All Flesh). The album was self-produced by Joe Duplantier, maintaining Gojira's tradition of complete creative control."
+      }
+    ],
+    relatedAlbums: ['from-mars-to-sirius-drum-setup', 'the-way-of-all-flesh-drum-setup', 'magma-drum-setup'],
+    relatedDrummers: [5, 14, 4], // Tomas Haake, Danny Carey, Dave Lombardo
+    relatedArticles: ['whats-in-mario-duplantiers-kit', 'mario-duplantier-gear', 'progressive-death-metal-drummers'],
+    relatedLicks: [
+      { drummerSlug: 'mario-duplantier', lickSlug: 'mario-duplantier-polyrhythmic-groove', label: "Watch Mario Duplantier's polyrhythmic groove breakdown" },
+    ],
+    conclusion: {
+      title: "The Album That Changed Everything",
+      content: `"L'Enfant Sauvage" stands as the hinge point in Gojira's career — the album where underground credibility met mainstream recognition. Mario Duplantier's drumming was central to this transition, and his gear choices reflected both the ambition and the artistic integrity of the record.
+
+The switch to DW Collector's Series drums and Meinl Byzance Brilliant cymbals wasn't about chasing endorsement deals. It was about finding the right tool for the right moment. The DW maple shells gave "L'Enfant Sauvage" a warmer, more resonant drum sound. The Byzance Brilliant cymbals added the clarity and definition that Silvercord Studio's modern production required. The DW 9000 pedals brought reliable, consistent response for the precise kick work that Gojira's grooves demand.
+
+The Grammy nomination for Best Hard Rock/Metal Performance confirmed what metal fans already knew: Mario Duplantier is one of the most important drummers of his generation. The Guitar World cover made it official for a broader audience.
+
+**What This Album Teaches Drummers:**
+- **Gear transitions matter**: The DW/Meinl combination sounds distinctly different from the Tama/Zildjian setup. Understand how shell material and cymbal finish affect your sound.
+- **Accessibility isn't simplicity**: The title track is direct and driving, but the nuance is still there. Accessible playing still requires mastery.
+- **Composition over showcase**: Mario's tribal tom patterns and syncopated kick grooves serve the songs. Technical ability is deployed in service of music.
+- **Studio environment shapes sound**: Silvercord's modern acoustics required different tuning and mic placement than the swimming pool or French château.
+
+For Mario's complete gear history across all Gojira albums, see the [Mario Duplantier drummer profile](/drummer/mario-duplantier). For comparison with his earlier setups, see [From Mars to Sirius drum setup](/articles/from-mars-to-sirius-drum-setup) (2005) and [The Way of All Flesh drum setup](/articles/the-way-of-all-flesh-drum-setup) (2008).
+
+"L'Enfant Sauvage" is proof that progressive death metal can be uncompromisingly heavy, technically demanding, and Grammy-nominated — all at once. Mario Duplantier made that possible from behind the kit. 🤘`
+    }
   }
 };
 

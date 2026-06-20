@@ -1,0 +1,9 @@
+**Problem:** Issue #1801 requested adding `/beginner-guide` to `api/sitemap.js` (the hub page was live with SSR meta but missing from sitemap, making it invisible to crawlers).
+
+**Files changed:** `.agents/ralph-runs/issue-1801.log` (state logged as `already_applied`)
+
+**Fix:** All work was already done in commit `e0fdea3` — `api/sitemap.js` line 448 has `{ loc: '/beginner-guide', priority: '0.85', changefreq: 'monthly' }`, and `api/meta/index.js` lines 297–353 already include `WebPage` + `FAQPage` JSON-LD schema with 4 FAQ entries targeting "beginner metal drummer" queries.
+
+**Validation:** `grep "beginner-guide" api/sitemap.js` returns line 448 ✅. Meta handler at line 297 returns keyword-matched title/description with WebPage + FAQPage articleSchema ✅. Both the sitemap entry and bonus JSON-LD schema are fully applied.
+
+**Follow-ups:** None — issue is fully resolved.

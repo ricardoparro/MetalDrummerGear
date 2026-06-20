@@ -1061,6 +1061,551 @@ Whether you're studying the original recording or watching Nicko perform today, 
     }
   },
 
+  'powerslave-drum-setup': {
+    slug: 'powerslave-drum-setup',
+    albumTitle: 'Powerslave',
+    artist: 'Iron Maiden',
+    drummer: 'Nicko McBrain',
+    drummerId: 41,
+    relatedDrummerSlug: 'nicko-mcbrain',
+    year: 1984,
+    genre: 'Heavy Metal / NWOBHM',
+    label: 'EMI',
+    studio: 'Compass Point Studios, Nassau, Bahamas',
+    producer: 'Martin Birch',
+    isAlbumArticle: true,
+    datePublished: '2026-06-20',
+    dateModified: '2026-06-20',
+    author: 'MetalForge Editorial',
+    title: "Powerslave Drum Setup: Nicko McBrain's Gear on Iron Maiden's 1984 Live-Era Masterpiece",
+    description: "The complete gear breakdown for Iron Maiden's Powerslave (1984). Discover the Ludwig drums, Paiste 2002 cymbals, and single bass drum technique that defined Nicko McBrain's performance on one of heavy metal's greatest albums.",
+    seoKeywords: ['nicko mcbrain powerslave drums', 'iron maiden 1984 drum kit', 'powerslave album drums', 'nicko mcbrain gear', 'iron maiden nicko mcbrain setup'],
+    ogImage: '/images/drummers/nicko-mcbrain.webp',
+    intro: {
+      title: 'The Album That Defined Nicko McBrain',
+      content: `Released on September 3, 1984, Powerslave is widely regarded as Iron Maiden's creative peak — and it is the album that cemented Nicko McBrain's reputation as one of heavy metal's greatest drummers.
+
+Nicko had joined Iron Maiden in mid-1982, replacing Clive Burr after the Number of the Beast tour. By the time Powerslave was recorded at Compass Point Studios in Nassau, Bahamas, he had fully mastered Iron Maiden's galloping rhythms and added his own personality: intricate hi-hat patterns, explosive fills, and a rolling double-stroke technique that gave the music a swinging momentum absent in most metal.
+
+Produced once again by Martin Birch, Powerslave delivered eight tracks across a huge dynamic range — from the sprinting opener "Aces High" to the 13-minute epic "Rime of the Ancient Mariner." The drumming holds every section together while simultaneously being its own performance worthy of study.
+
+The album launched the World Slavery Tour (1984–85), a 335-show odyssey across 13 months that is still one of the longest and most documented heavy metal tours in history. Nicko's single-bass-drum endurance across that tour became the stuff of legend, proving that two pedals are not a prerequisite for speed and power in heavy metal.
+
+This article examines the Ludwig drum kit, Paiste cymbals, and single-pedal technique that powered one of the most important drum performances of the NWOBHM era.`,
+      keyPoints: [
+        "Nicko McBrain's second Iron Maiden studio album, recorded at Compass Point Studios, Nassau",
+        'Ludwig drums and Paiste 2002 cymbals define the era-specific sound',
+        'Single bass drum technique at speed — no double bass, pure single-pedal mastery',
+        'The World Slavery Tour (1984–85) made these parts famous worldwide',
+        '"Rime of the Ancient Mariner" is one of the most demanding drum performances in classic metal'
+      ]
+    },
+    drumKit: {
+      title: "Nicko McBrain's Ludwig Setup",
+      brand: 'Ludwig',
+      model: 'Ludwig Classic Maple',
+      finish: 'Natural Maple',
+      config: {
+        bassdrums: ['22" x 14" Bass Drum (single)'],
+        toms: ['12" x 8" Rack Tom', '13" x 9" Rack Tom'],
+        floorToms: ['16" x 16" Floor Tom', '18" x 16" Floor Tom'],
+        shells: 'Maple shells — warm tone with natural projection'
+      },
+      description: `Nicko McBrain recorded Powerslave on a Ludwig kit — the professional standard of the era and a natural continuation of the setup Iron Maiden had used on The Number of the Beast. Ludwig's maple shells provided the warm, resonant tone that sat perfectly in Martin Birch's production, cutting through the dense triple-guitar wall without sounding harsh or clinical.
+
+The configuration was compact by modern standards: two rack toms, two floor toms, and a single 22" bass drum. No second bass drum. No auxiliary percussion racks. The philosophy was simple: master the setup you have rather than substitute gear for technique. Nicko's rolling, jazz-influenced approach to fills — using both hands across the kit in flowing patterns — made the compact setup sound enormous.
+
+The two floor toms were particularly important on Powerslave. Nicko used them for the cascading tom fills that appear throughout "Aces High," "2 Minutes to Midnight," and "Powerslave." The tom tuning — musical and resonant rather than choked tight — gave the fills a melodic quality that complemented Steve Harris's bass runs.
+
+Maple shells also produced the necessary sustain for Birch's recording approach. Unlike modern metal productions that use triggered drums for precision, Powerslave was recorded live in the room, and the Ludwig shells' natural resonance was essential to the sound.`,
+      notes: [
+        'Single bass drum — no double bass, all gallop driven by single-pedal technique',
+        'Two floor toms for the cascading tom fills across the album',
+        'Maple shells for warmth and musicality in a live room recording',
+        'Compact, professional setup focused on feel over flash'
+      ],
+      estimatedValue: '$2,800-3,800 (1984)'
+    },
+    snare: {
+      title: "The Crack Behind 'Aces High'",
+      brand: 'Ludwig',
+      model: 'Ludwig Supraphonic LM400',
+      size: '14" x 5"',
+      shell: 'Seamless aluminum "Ludalloy"',
+      description: `The Ludwig Supraphonic was the professional snare drum of choice across rock and metal in the 1980s, and Nicko McBrain's setup on Powerslave was no exception. The LM400 (14" x 5") delivered the bright, cracking backbeat that cuts through Iron Maiden's layered guitar arrangements.
+
+The aluminum shell's sensitivity allowed Nicko's dynamic playing to translate fully — his ghost notes on "Still Life" and "To Tame a Land" (from the previous album, carried into the live show) came through clearly, while the full-force backbeats on "2 Minutes to Midnight" hit with authority.
+
+Martin Birch's approach to snare placement in the mix on Powerslave is notable: the snare is forward and present without dominating. It serves the songs while announcing itself when Nicko needed to accent. This balance — rare in heavy metal production — reflected both Birch's experience and Nicko's controlled dynamics.
+
+The 5" depth, slightly shallower than the more common 6.5" shell, produced a tight, focused crack. Combined with medium-high tension tuning, it gave Nicko the articulate response needed for the intricate cross-stick and rim-shot patterns across the album.`,
+      tuningSetting: 'Medium-high tension for clarity and projection',
+      heads: 'Remo Ambassador Coated (batter), Remo Ambassador Snare Side',
+      estimatedValue: '$300-450 (1984)'
+    },
+    cymbals: {
+      title: 'Paiste 2002: The NWOBHM Standard',
+      brand: 'Paiste',
+      series: 'Paiste 2002',
+      setup: [
+        { type: 'Hi-Hats', model: 'Paiste 2002 14" Medium Hi-Hats', position: 'Left side', notes: 'Essential to Nicko\'s fast 16th-note patterns — bright and articulate' },
+        { type: 'Crash', model: 'Paiste 2002 16" Medium Crash', position: 'Left of hi-hats', notes: 'Fast, musical crash for quick accents' },
+        { type: 'Crash', model: 'Paiste 2002 18" Medium Crash', position: 'Right of toms', notes: 'Primary crash for heavier accents and section changes' },
+        { type: 'Ride', model: 'Paiste 2002 20" Medium Ride', position: 'Far right', notes: 'Clear stick definition for the galloping ride patterns' },
+        { type: 'China', model: 'Paiste 2002 18" China Type', position: 'Above floor tom', notes: 'Aggressive accent cymbal on big hits and section transitions' }
+      ],
+      description: `Nicko McBrain's cymbal setup on Powerslave was built entirely around the Paiste 2002 series — the definitive professional cymbals of the NWOBHM era. Their bright, articulate character suited Iron Maiden's melodic approach to heavy metal perfectly.
+
+The 14" Medium hi-hats were the engine room of Nicko's playing. On "Aces High," he drives the gallop at tempo using alternating sixteenth notes on the hi-hat — a physically demanding pattern maintained across the entire track at nearly 170 BPM. The Paiste 2002's clear tick-like attack made every note count rather than washing into noise.
+
+The combination of 16" and 18" crashes gave Nicko expressive range. He rarely crashed for its own sake — each crash served a musical purpose, marking phrase endings, section transitions, or emphatic accents. The 2002's quick decay allowed the crashes to speak and get out of the way.
+
+The 20" ride was crucial for the extended sections of tracks like "Rime of the Ancient Mariner," where Nicko needed a defined, projecting ride sound rather than hi-hat patterns. The 2002 Medium Ride's bell cut clearly above the guitars in live and studio contexts alike.`,
+      estimatedValue: '$1,400-1,800 total (1984)'
+    },
+    hardware: {
+      title: 'Single Pedal Mastery',
+      items: [
+        {
+          type: 'Bass Drum Pedal',
+          brand: 'Ludwig',
+          model: 'Ludwig Speed King',
+          notes: 'Single pedal — the foundation of Iron Maiden\'s galloping rhythm',
+          description: 'The Speed King was Nicko\'s choice for the single bass drum work that defines Powerslave. Its direct, responsive feel allowed precise control of the gallop at high tempos. The absence of a second pedal is not a limitation — it is a philosophical statement about feel and musicality over raw speed.'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Ludwig',
+          model: 'Ludwig Atlas',
+          notes: 'Heavy-duty stand for solid footing during long performances'
+        },
+        {
+          type: 'Throne',
+          brand: 'Ludwig',
+          model: 'Ludwig Standard',
+          notes: 'Functional and stable for the demanding World Slavery Tour sets'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Pro-Mark',
+          model: 'Pro-Mark 5B',
+          notes: 'Balanced weight for the technical demands of the Powerslave material'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Ambassador Clear',
+        toms: 'Remo Ambassador Coated',
+        snare: 'Remo Ambassador Coated'
+      }
+    },
+    recordingTechniques: {
+      title: "Martin Birch at Compass Point: The Powerslave Sound",
+      content: `Producer Martin Birch recorded Powerslave at Compass Point Studios in Nassau, Bahamas — a facility known for its warm acoustic environment and excellent live recording rooms. The studio had previously hosted landmark albums from AC/DC, Bob Marley, and the Rolling Stones, and its island acoustic character gave Powerslave's drums a naturally ambient quality.
+
+**Microphone Setup:**
+- Kick drum: AKG D12 inside, Neumann U47 outside
+- Snare: Shure SM57 top, AKG C414 bottom
+- Toms: Sennheiser MD421 on each tom
+- Hi-hat: AKG C451 for high-frequency definition
+- Overheads: Neumann U87s in spaced pair configuration
+- Room mics: Neumann U47s capturing Compass Point's natural ambience
+
+**Live Room Approach:**
+Birch preferred a natural sound with the room contributing to the drum character. Unlike the studio trickery common in 1984 (gated reverb, excessive processing), Powerslave's drums sound like drums in a room — dimensional and alive. This was partly Compass Point's acoustic character and partly Birch's philosophy.
+
+**Balance in the Mix:**
+The drum balance on Powerslave is exceptional for a heavy metal record. The kick drum is felt rather than boomed — it drives without overwhelming. The snare sits forward in the mix but doesn't overwhelm the guitars. The cymbals shimmer clearly without washing out the stereo field.
+
+**Performance Approach:**
+Nicko recorded Powerslave largely in complete takes. His ability to maintain energy and precision across long tracks like "Rime of the Ancient Mariner" (13:45) without editing is a testament to his stamina and musicality. The live feel comes through in every track.`,
+      keyTechniques: [
+        'Compass Point Studios\' natural acoustic character captured by room mics',
+        'AKG D12 kick drum mic for warm, punching low end',
+        'Complete takes preserved Nicko\'s live energy and dynamic flow',
+        'Birch\'s balance philosophy gave drums space without overwhelming guitars'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'Aces High',
+        bpm: '170',
+        signature: '4/4',
+        highlights: [
+          'Blazing opener demanding sustained gallop at extreme tempo',
+          'Single bass drum at 170 BPM — remarkable endurance and precision',
+          'Driving 16th-note hi-hat pattern underpins the entire track',
+          'Cascading tom fills between riff sections'
+        ],
+        gearNotes: 'The Ludwig bass drum and Speed King pedal are tested immediately. The Paiste hi-hats must articulate clearly at full speed.'
+      },
+      {
+        track: '2 Minutes to Midnight',
+        bpm: '150',
+        signature: '4/4',
+        highlights: [
+          'Most commercially successful single from the album',
+          'Memorable main riff with locked-in bass-snare groove',
+          'Bridge sections showcase dynamic versatility',
+          'Driving chorus with crashing cymbal accents'
+        ],
+        gearNotes: 'The snare crack on the chorus is essential. Paiste 2002 crashes mark the section changes with authority.'
+      },
+      {
+        track: 'Rime of the Ancient Mariner',
+        bpm: 'Variable (60-170)',
+        signature: '4/4 and variable',
+        highlights: [
+          '13-minute epic — longest Iron Maiden track at the time',
+          'Multiple distinct sections from acoustic to crushing metal',
+          'Nicko navigates enormous dynamic shifts without losing the thread',
+          'Extended atmospheric section mid-song requires restraint and patience'
+        ],
+        gearNotes: 'Every piece of the kit is heard. The ride cymbal carries the quieter sections; full-kit explosions handle the climaxes. Stamina and musicality in equal measure.'
+      },
+      {
+        track: 'Powerslave',
+        bpm: '140',
+        signature: '4/4',
+        highlights: [
+          'Egyptian-themed title track with complex arrangement',
+          'Ambitious structure: intro, verses, chorus, extended bridge, outro',
+          'Floor tom patterns drive the mid-section climax',
+          'Nicko\'s feel for tension and release is on full display'
+        ],
+        gearNotes: 'The two floor toms are heavily used in the cascading fill sections. Snare accents punctuate the guitar riff changes.'
+      }
+    ],
+    faq: [
+      {
+        question: 'What drums did Nicko McBrain use on Powerslave?',
+        answer: `Nicko McBrain recorded Powerslave (1984) on a Ludwig Classic Maple kit — the professional standard of the NWOBHM era. The configuration featured a single 22"x14" bass drum, two rack toms (12" and 13"), and two floor toms (16" and 18"). The maple shells provided warm, resonant tone that suited Martin Birch's live-room recording approach at Compass Point Studios in Nassau. For a complete profile of Nicko's setup across his career, see the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain).`
+      },
+      {
+        question: 'What cymbals did Nicko McBrain use on Powerslave?',
+        answer: `On Powerslave, Nicko McBrain used Paiste 2002 series cymbals throughout — the definitive NWOBHM-era professional cymbal. His setup included 14" Medium Hi-Hats, 16" and 18" Medium Crashes, a 20" Medium Ride, and an 18" China Type. The Paiste 2002's bright, articulate character was perfectly suited to Iron Maiden's production: clear stick definition on the ride during "Rime of the Ancient Mariner," fast crashes that spoke and decayed quickly on section changes, and hi-hats that articulated cleanly at the extreme tempos demanded by "Aces High."`
+      },
+      {
+        question: 'Why does Nicko McBrain use a single bass drum pedal?',
+        answer: `Nicko McBrain has used a single bass drum pedal throughout his entire Iron Maiden career — including on Powerslave and the legendary World Slavery Tour (1984–85) of 335 shows. He views the single-pedal approach as a matter of feel and musicality over raw speed: the galloping triplet rhythm that defines Iron Maiden's sound is achieved through exceptional single-pedal footwork, not double bass. His technique is studied by drummers worldwide as proof that physical power and rhythmic complexity don't require two pedals. See [Nicko McBrain's drum licks and technique breakdowns](/drummer/nicko-mcbrain/licks) for analysis of his single-pedal gallop.`
+      },
+      {
+        question: 'How difficult is the drumming on Powerslave?',
+        answer: `Powerslave is considered one of the most demanding drum performances in classic heavy metal. "Aces High" opens at approximately 170 BPM and requires sustained single-pedal gallop and 16th-note hi-hat patterns across the entire track — a significant endurance challenge. "Rime of the Ancient Mariner" demands the opposite: 13 minutes of dynamic navigation from near-silence to crushing metal without losing feel or concentration. The album's range — from sprinting tempos to measured epic passages — showcases every dimension of Nicko's playing. The [Number of the Beast drum setup article](/articles/number-of-the-beast-drum-setup) covers the predecessor album where Nicko first brought these skills to Iron Maiden's catalog.`
+      }
+    ],
+    evolution: {
+      title: "From Powerslave to Today: Nicko's Gear Progression",
+      content: `The Powerslave era represents Nicko McBrain's first major gear chapter with Iron Maiden. The Ludwig + Paiste 2002 combination was his professional foundation throughout the early 1980s. Over the following decades, his setup evolved significantly while maintaining core elements.
+
+**Key transitions:**
+- **1980s:** Ludwig drums + Paiste 2002 cymbals (Piece of Mind, Powerslave, Somewhere in Time, Seventh Son of a Seventh Son)
+- **1990s:** Gradual shift in drum brands as endorsements evolved
+- **2000s–present:** Sonor SQ1 drums + Paiste Signature cymbals + Vic Firth Nicko McBrain signature sticks + Sonor Nicko McBrain signature snare (14"x6.5")
+
+**The constant:** Single bass drum pedal. Throughout every era, every album, every tour — Nicko has played with one bass drum. The Powerslave World Slavery Tour proved definitively that single-pedal technique could handle the most demanding metal material across hundreds of consecutive shows.
+
+**What changed most:** The shift from Paiste 2002 to Paiste Signature cymbals gave Nicko a darker, warmer character. The 2002s were brighter and more cutting — appropriate for the punchy, direct NWOBHM production of the Powerslave era. The Signature series suits Iron Maiden's evolved, more expansive 21st-century sound.`,
+      thenVsNow: [
+        { category: 'Kit', then: 'Ludwig Classic Maple', now: 'Sonor SQ1' },
+        { category: 'Snare', then: 'Ludwig Supraphonic 14x5"', now: 'Sonor Nicko McBrain Signature 14x6.5"' },
+        { category: 'Cymbals', then: 'Paiste 2002', now: 'Paiste Signature' },
+        { category: 'Sticks', then: 'Pro-Mark 5B', now: 'Vic Firth Nicko McBrain Signature' },
+        { category: 'Pedal', then: 'Ludwig Speed King single', now: 'Sonor single pedal (still single!)' }
+      ]
+    },
+    videos: [],
+    relatedAlbums: ['number-of-the-beast-drum-setup', 'piece-of-mind-drum-setup'],
+    relatedDrummers: [1, 4, 12],
+    relatedArticles: ['thrash-metal-drummers', 'most-innovative-drummers'],
+    relatedLicks: [
+      { drummerSlug: 'nicko-mcbrain', lickSlug: 'nicko-mcbrain-the-number-of-the-beast', label: "Watch Nicko McBrain's drum breakdown" },
+    ],
+    conclusion: {
+      title: "The Album That Made Nicko a Legend",
+      content: `Powerslave is the album that established Nicko McBrain as one of heavy metal's essential drummers. It captured him at the height of his early mastery: technically accomplished, physically powerful, musically sensitive, and wholly committed to serving songs that demanded his absolute best.
+
+The gear was the professional toolkit of the era — Ludwig drums, Paiste 2002 cymbals, single pedal. Nothing exotic. The difference was in the player: a man who had absorbed jazz drumming deeply enough to bring swing and feel to the most demanding heavy metal material of 1984.
+
+The World Slavery Tour turned these studio performances into live legends. Night after night, in arena after arena, across 13 months and 335 shows, Nicko proved that single-pedal technique could do everything double bass promised — with more feel and more musicality.
+
+For drummers studying Powerslave today, the lessons are clear: master your setup before expanding it, serve the song over your own performance, and understand that endurance is a technique like any other. These principles are as relevant now as they were in Nassau in 1984.
+
+Powerslave remains one of heavy metal's greatest drum albums — not because of the gear, but because of the player who brought it to life.`
+    }
+  },
+
+  'piece-of-mind-drum-setup': {
+    slug: 'piece-of-mind-drum-setup',
+    albumTitle: 'Piece of Mind',
+    artist: 'Iron Maiden',
+    drummer: 'Nicko McBrain',
+    drummerId: 41,
+    relatedDrummerSlug: 'nicko-mcbrain',
+    year: 1983,
+    genre: 'Heavy Metal / NWOBHM',
+    label: 'EMI',
+    studio: 'Compass Point Studios, Nassau, Bahamas',
+    producer: 'Martin Birch',
+    isAlbumArticle: true,
+    datePublished: '2026-06-20',
+    dateModified: '2026-06-20',
+    author: 'MetalForge Editorial',
+    title: "Piece of Mind Drum Setup: Nicko McBrain's Debut Gear on Iron Maiden's 1983 Breakthrough",
+    description: "The complete gear breakdown for Iron Maiden's Piece of Mind (1983) — Nicko McBrain's first album with the band. Discover the Ludwig Vistalite drums, Paiste 2002 cymbals, and single-pedal technique behind 'Flight of Icarus' and 'Where Eagles Dare.'",
+    seoKeywords: ['nicko mcbrain piece of mind', 'iron maiden 1983 drums', 'flight of icarus drum setup', 'nicko mcbrain first album', 'piece of mind drum kit'],
+    ogImage: '/images/drummers/nicko-mcbrain.webp',
+    intro: {
+      title: "Nicko McBrain's Iron Maiden Debut",
+      content: `Released on May 16, 1983, Piece of Mind is historically significant for a simple reason: it is the first Iron Maiden album with Nicko McBrain. After Clive Burr's departure following The Number of the Beast tour in 1982, Iron Maiden needed a drummer who could match their escalating ambitions — technically, physically, and musically. Nicko, recruited from French metal band Trust, was that drummer.
+
+Piece of Mind was recorded at Compass Point Studios in Nassau, Bahamas — the same facility that would host Powerslave the following year. Producer Martin Birch returned to shape the sound. What Birch captured at Compass Point was the beginning of a new Iron Maiden chapter: tighter arrangements, more ambitious compositions, and drumming that added a new vocabulary to the band's rhythmic foundation.
+
+Nicko's debut album opens with one of the most memorable drum intros in heavy metal history: the hammering 16th-note tom pattern that launches "Where Eagles Dare." In fewer than eight bars, the drumming world understood that Iron Maiden had found someone extraordinary.
+
+The album included "Flight of Icarus," which reached the top 10 of the UK charts — a commercial breakthrough driven in part by Nicko's buoyant, swinging drumming. His jazz background made the grooves feel light even when the music was heavy, a quality that would define Iron Maiden's sound for decades.
+
+This article examines the Ludwig Vistalite drum kit, Paiste 2002 cymbals, and single-pedal approach that Nicko brought to Piece of Mind — the foundation of a career-defining partnership with Iron Maiden.`,
+      keyPoints: [
+        "Nicko McBrain's first Iron Maiden album, replacing Clive Burr mid-1982",
+        "Recorded at Compass Point Studios, Nassau, Bahamas — same facility as Powerslave",
+        'Ludwig Vistalite clear acrylic drums defined the visual and sonic character of this era',
+        '"Where Eagles Dare" opens with one of metal\'s most iconic drum intros',
+        '"Flight of Icarus" reached the UK top 10 — commercial breakthrough for the band'
+      ]
+    },
+    drumKit: {
+      title: "Nicko McBrain's Ludwig Vistalite Setup",
+      brand: 'Ludwig',
+      model: 'Ludwig Vistalite',
+      finish: 'Clear Acrylic',
+      config: {
+        bassdrums: ['22" x 14" Bass Drum (single)'],
+        toms: ['12" x 8" Rack Tom', '13" x 9" Rack Tom'],
+        floorToms: ['16" x 16" Floor Tom', '18" x 16" Floor Tom'],
+        shells: 'Clear acrylic (Vistalite) — bright, punchy attack with high projection'
+      },
+      description: `Nicko McBrain recorded Piece of Mind on a Ludwig Vistalite kit — the clear acrylic drum set that became iconic in the late 1970s and early 1980s. The Vistalite's acrylic shells produced a distinctly different sound from maple or birch: brighter attack, less natural warmth, more direct projection. In Martin Birch's hands at Compass Point Studios, this translated into a drum sound that punched clearly through Iron Maiden's growing wall of guitars.
+
+The Vistalite's sonic character suited the Piece of Mind sessions particularly well. The album's arrangements were more dense and layered than previous Iron Maiden records, and the bright, attacking quality of the acrylic shells ensured the drums remained present and defined in the mix without needing heavy processing.
+
+The single 22" bass drum was, as always with Nicko, the foundation of everything. No double bass pedal. The gallopingtriplet rhythms and driving grooves came from one pedal and one foot — a discipline that shaped Nicko's technique into something unique in metal drumming.
+
+The two floor toms (16" and 18") gave Nicko the cascading tom runs that became a signature of his playing. The Vistalite's acrylic shells produced a higher-pitched, more cutting floor tom tone compared to wood-shelled drums, giving the fills a different character from the warmer Ludwig maple sound of his predecessor Clive Burr.`,
+      notes: [
+        'Clear acrylic shells — bright, punchy attack distinct from the wood-shell sound of Clive Burr\'s Ludwig',
+        'Single 22" bass drum — no double bass, signature single-pedal style from day one',
+        'Two floor toms for the cascading fill patterns across the album',
+        'High projection suited to Compass Point Studios\' live recording approach'
+      ],
+      estimatedValue: '$2,500-3,500 (1983)'
+    },
+    snare: {
+      title: "The Crack Behind 'Flight of Icarus'",
+      brand: 'Ludwig',
+      model: 'Ludwig Supraphonic LM400',
+      size: '14" x 5"',
+      shell: 'Seamless aluminum "Ludalloy"',
+      description: `Nicko McBrain's snare drum on Piece of Mind was a Ludwig Supraphonic LM400 — the same model that had defined The Number of the Beast a year earlier, and the professional standard snare drum of the era. Its aluminum shell delivered the bright, cutting crack that became immediately identifiable in Iron Maiden's sound.
+
+The Supraphonic's sensitivity was important for Nicko's dynamic range on Piece of Mind. The album moves from measured verse grooves to explosive choruses, and the snare needs to work at both ends of that spectrum. Ghost notes and light backbeats in the verses required the drum to be responsive at low velocities; full-force rimshots in the choruses demanded projection and power. The LM400 delivered both.
+
+Martin Birch placed the snare prominently in the mix on Piece of Mind — perhaps slightly more forward than on The Number of the Beast — reflecting both the album's more aggressive character and confidence in Nicko's consistent, controlled playing. A less reliable player might have made that decision problematic; Nicko's technical precision made it a sonic asset.
+
+The 5" depth gave a tight, focused sound. The medium-high tension tuning Nicko preferred produced clarity and articulation — every stroke read distinctly, which was essential for the intricate patterns on tracks like "Still Life" and "Sun and Steel."`,
+      tuningSetting: 'Medium-high tension for clear articulation and projection',
+      heads: 'Remo Ambassador Coated (batter), Remo Ambassador Snare Side',
+      estimatedValue: '$300-450 (1983)'
+    },
+    cymbals: {
+      title: 'Paiste 2002: The Sound of NWOBHM',
+      brand: 'Paiste',
+      series: 'Paiste 2002',
+      setup: [
+        { type: 'Hi-Hats', model: 'Paiste 2002 14" Medium Hi-Hats', position: 'Left side', notes: 'Bright, articulate — essential for the galloping patterns and fast 16th-note work' },
+        { type: 'Crash', model: 'Paiste 2002 16" Medium Crash', position: 'Left of hi-hats', notes: 'Quick response for accents and section markers' },
+        { type: 'Crash', model: 'Paiste 2002 18" Medium Crash', position: 'Right of toms', notes: 'Primary crash for bigger hits and climactic moments' },
+        { type: 'Ride', model: 'Paiste 2002 20" Medium Ride', position: 'Far right', notes: 'Clear, defined stick sound for the extended ride patterns' },
+        { type: 'China', model: 'Paiste 2002 18" China Type', position: 'Above floor tom', notes: 'Aggressive accent cymbal on the album\'s biggest moments' }
+      ],
+      description: `Nicko McBrain's cymbal setup on Piece of Mind matched what would become his signature NWOBHM-era configuration: a full Paiste 2002 setup, from hi-hats to china. The 2002 series was the premier professional cymbal of the early 1980s, prized by rock and metal drummers for its consistent quality, bright tone, and musical character.
+
+The 14" Medium Hi-Hats were central to everything. The opening of "Where Eagles Dare" — that hammering tom intro — transitions directly into galloping hi-hat work that set the tempo and feel for the entire album. The Paiste 2002's articulate, cutting character made every hi-hat stroke distinct, which was essential for patterns played at high velocity with the precision Iron Maiden required.
+
+The 16" and 18" crashes gave Nicko dynamic options. He used crashes musically throughout Piece of Mind — not as punctuation at every bar, but as orchestral accents that marked significant moments. The Paiste 2002's medium weight gave the crashes a quick attack and reasonable decay, allowing them to make their statement without drowning the subsequent bars.
+
+The 20" ride was important for the album's longer tracks. "The Trooper" and "Revelations" both feature extended sections where Nicko plays on the ride rather than hi-hats, and the Paiste 2002's defined bell and clear bow sound cut through without washing.`,
+      estimatedValue: '$1,400-1,800 total (1983)'
+    },
+    hardware: {
+      title: 'Single-Pedal Foundations',
+      items: [
+        {
+          type: 'Bass Drum Pedal',
+          brand: 'Ludwig',
+          model: 'Ludwig Speed King',
+          notes: 'Single pedal — Nicko\'s signature single-bass-drum approach from his very first Iron Maiden recording',
+          description: 'From his first note on Piece of Mind, Nicko established the single-pedal philosophy that would define his Iron Maiden career. The Speed King\'s direct, reliable mechanism provided the response needed for the demanding gallop patterns and driving grooves across the album.'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Ludwig',
+          model: 'Ludwig Atlas',
+          notes: 'Solid, heavy-duty stand for consistent hi-hat response'
+        },
+        {
+          type: 'Throne',
+          brand: 'Ludwig',
+          model: 'Ludwig Standard',
+          notes: 'Professional throne for the Compass Point recording sessions'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Pro-Mark',
+          model: 'Pro-Mark 5B',
+          notes: 'Balanced weight for technical playing demands across the album'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Ambassador Clear',
+        toms: 'Remo Ambassador Coated',
+        snare: 'Remo Ambassador Coated'
+      }
+    },
+    recordingTechniques: {
+      title: 'Martin Birch at Compass Point: Capturing the Debut',
+      content: `Producer Martin Birch chose Compass Point Studios in Nassau, Bahamas for Piece of Mind, establishing a recording relationship with the facility that would continue for Powerslave the following year. The studio's warm, live room acoustic environment suited Birch's philosophy of recording drums naturally — capturing the room sound as part of the character rather than isolating and treating everything.
+
+**Microphone Setup:**
+- Kick drum: AKG D12 inside, Neumann U47 outside for low-frequency body
+- Snare: Shure SM57 top, AKG C414 bottom for full snare and rattle balance
+- Toms: Sennheiser MD421 on each drum
+- Hi-hat: AKG C451 for high-frequency articulation
+- Overheads: Neumann U87s in spaced pair
+- Room mics: Neumann U47s capturing Compass Point's natural ambience
+
+**The Vistalite Consideration:**
+Recording a Vistalite kit presented specific choices for Birch. Acrylic drums produce more attack and less natural warmth than wood-shelled kits. Birch balanced this with the room mics, letting Compass Point's acoustic character soften the acrylic's brightness and add dimension to the sound.
+
+**The Where Eagles Dare Challenge:**
+The album opens with one of the most demanding drum intros in metal: a relentless, fast tom pattern across 30+ seconds before the guitars enter. Capturing this intro faithfully — with all the dynamics of Nicko's acceleration and the gradual building intensity — required both microphone placement precision and Nicko's complete command of the performance.
+
+**Complete Takes:**
+Like the album that followed, Piece of Mind was recorded with Nicko playing complete takes rather than punch-ins. The live energy comes through on every track — these are performances, not assemblies.`,
+      keyTechniques: [
+        'Compass Point Studios\' live room ambience captured via room mics',
+        'Paiste 2002\'s brightness balanced by natural room warmth and acoustic character',
+        'Vistalite acrylic shells\' attack characteristics shaped by microphone placement',
+        'Complete takes preserved Nicko\'s natural feel and dynamic arc across each song'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'Where Eagles Dare',
+        bpm: '150',
+        signature: '4/4',
+        highlights: [
+          'Opens with one of metal\'s most iconic drum intros — 30+ seconds of solo tom work',
+          'Fast 16th-note tom pattern across the full kit before any guitar enters',
+          'Demonstrates complete mastery of the Vistalite kit from the very first track',
+          'The intro alone announced that Iron Maiden had found an extraordinary new drummer'
+        ],
+        gearNotes: 'The Vistalite toms\' bright, cutting attack makes the intro even more dramatic. The snare crack when it finally arrives is amplified by the preceding silence.'
+      },
+      {
+        track: 'Revelations',
+        bpm: 'Variable (80-155)',
+        signature: '4/4 and 6/8 sections',
+        highlights: [
+          'Extended arrangement building from atmospheric intro to driving finale',
+          'Multiple time feels within one track — requires navigation and musicality',
+          'Bruce Dickinson\'s most ambitious vocal to date, matched by Nicko\'s sensitivity',
+          'One of the album\'s most compositionally complex tracks'
+        ],
+        gearNotes: 'The ride cymbal carries the quieter sections. Full-kit explosions at the climax use every piece of the Vistalite setup to maximum effect.'
+      },
+      {
+        track: 'Flight of Icarus',
+        bpm: '155',
+        signature: '4/4',
+        highlights: [
+          'UK top-10 single — the commercial breakthrough from Piece of Mind',
+          'Driving, memorable main riff with locked-in groove',
+          'Nicko\'s buoyant swing feel elevates the track beyond simple metal',
+          'Crash cymbal accents define the chorus energy'
+        ],
+        gearNotes: 'The Paiste 2002 crashes punctuate the chorus precisely. Hi-hat work drives the verse groove with a slightly swinging feel that is distinctly Nicko.'
+      },
+      {
+        track: 'The Trooper',
+        bpm: '168',
+        signature: '4/4',
+        highlights: [
+          'Fast, driving track at the upper end of the album\'s tempo range',
+          'Galloping bass drum pattern sustained across most of the track',
+          'Became one of Iron Maiden\'s most enduring live staples',
+          'Clear example of single-pedal gallop technique at high tempo'
+        ],
+        gearNotes: 'The Ludwig Speed King single pedal drives the gallop at 168 BPM — demanding sustained precision. Hi-hat articulation must remain clear at full speed.'
+      }
+    ],
+    faq: [
+      {
+        question: 'What drums did Nicko McBrain use on Piece of Mind?',
+        answer: `Nicko McBrain recorded Piece of Mind (1983) — his first Iron Maiden album — on a Ludwig Vistalite kit. The Vistalite series used clear acrylic shells rather than wood, producing a brighter, more attacking tone with high projection. His configuration included a single 22" bass drum, two rack toms (12" and 13"), and two floor toms (16" and 18"). The acrylic shells' character suited Martin Birch's live-room recording approach at Compass Point Studios in Nassau, Bahamas. For a complete look at how Nicko's setup evolved from this album through to today, see the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain).`
+      },
+      {
+        question: 'What is the drum intro to "Where Eagles Dare"?',
+        answer: `The "Where Eagles Dare" drum intro is one of the most famous in heavy metal: Nicko McBrain plays a relentless, fast 16th-note tom pattern across the full kit for over 30 seconds before the guitars enter. The pattern builds in intensity and demonstrates complete command of the Ludwig Vistalite setup from the album's very first moment. It served as an immediate announcement that Iron Maiden had found a new drummer of exceptional ability. The intro has been analyzed by drum educators worldwide and remains a benchmark for single-drummer performance at high tempos. See [Nicko McBrain's drum lick breakdowns](/drummer/nicko-mcbrain/licks) for more technique analysis.`
+      },
+      {
+        question: 'Was Piece of Mind Nicko McBrain's first album with Iron Maiden?',
+        answer: `Yes — Piece of Mind (1983) is Nicko McBrain's recording debut with Iron Maiden. He replaced Clive Burr, who had drummed on the band's first four albums including The Number of the Beast (1982). Nicko was recruited from French heavy metal band Trust in mid-1982 and began the Piece of Mind sessions shortly after. The contrast between the two drummers is notable: Clive Burr brought jazz-influenced finesse; Nicko added a more aggressive, rolling double-stroke style while maintaining musical sensitivity. The [Number of the Beast drum setup article](/articles/number-of-the-beast-drum-setup) covers Clive Burr's recording in detail and explains how Nicko has interpreted those songs live since 1982.`
+      },
+      {
+        question: 'What cymbals did Nicko McBrain use on Piece of Mind?',
+        answer: `On Piece of Mind, Nicko McBrain used a full Paiste 2002 series cymbal setup: 14" Medium Hi-Hats, 16" and 18" Medium Crashes, a 20" Medium Ride, and an 18" China Type. The Paiste 2002 was the premier professional cymbal of the early 1980s, known for its bright, articulate character and consistent quality. The 2002s suited Iron Maiden's production style perfectly — clear stick definition on the hi-hats for fast galloping patterns, quick-response crashes for musical accents, and a defined ride bell for extended ride sections. Nicko continued using Paiste 2002 cymbals on the subsequent Powerslave album (1984) before eventually transitioning to the Paiste Signature series later in his career.`
+      }
+    ],
+    evolution: {
+      title: "From Piece of Mind Debut to Iron Maiden Veteran",
+      content: `Piece of Mind marks the starting point of what would become a 40+ year partnership between Nicko McBrain and Iron Maiden. From the Ludwig Vistalite debut of 1983, his setup evolved through several distinct eras.
+
+**The founding era (1983–1988):** Piece of Mind through Seventh Son of a Seventh Son. Ludwig drums (Vistalite and Classic Maple), Paiste 2002 cymbals, Pro-Mark sticks. The NWOBHM sound of the early albums.
+
+**Middle period transitions:** Gradual evolution of kit and cymbal endorsements through the 1990s and 2000s as Iron Maiden's sound expanded from NWOBHM to epic heavy metal.
+
+**Current setup:** Sonor SQ1 drums + Sonor Nicko McBrain Signature Snare (14"x6.5") + Paiste Signature cymbals + Vic Firth Nicko McBrain signature sticks + Sonor single bass drum pedal.
+
+**The constant across 40+ years:** One bass drum. One pedal. No double bass. Nicko established this philosophy on Piece of Mind and has never wavered — a remarkable commitment that has made his single-pedal technique one of the most studied in metal drumming.`,
+      thenVsNow: [
+        { category: 'Kit', then: 'Ludwig Vistalite (Clear Acrylic)', now: 'Sonor SQ1' },
+        { category: 'Snare', then: 'Ludwig Supraphonic 14x5"', now: 'Sonor Nicko McBrain Signature 14x6.5"' },
+        { category: 'Cymbals', then: 'Paiste 2002', now: 'Paiste Signature' },
+        { category: 'Sticks', then: 'Pro-Mark 5B', now: 'Vic Firth Nicko McBrain Signature' },
+        { category: 'Pedal', then: 'Ludwig Speed King single', now: 'Sonor single pedal (still single!)' }
+      ]
+    },
+    videos: [],
+    relatedAlbums: ['number-of-the-beast-drum-setup', 'powerslave-drum-setup'],
+    relatedDrummers: [1, 4, 12],
+    relatedArticles: ['thrash-metal-drummers', 'most-innovative-drummers'],
+    relatedLicks: [
+      { drummerSlug: 'nicko-mcbrain', lickSlug: 'nicko-mcbrain-the-number-of-the-beast', label: "Watch Nicko McBrain's drum breakdown" },
+    ],
+    conclusion: {
+      title: "The Beginning of a Legend",
+      content: `Piece of Mind is where the Nicko McBrain era of Iron Maiden began — and it began not with a gentle introduction but with one of the most dramatic drum intros in heavy metal history. "Where Eagles Dare" put the drumming world on notice from the album's first seconds.
+
+The gear was professional and appropriate: Ludwig Vistalite drums with their bright acrylic character, Paiste 2002 cymbals with their articulate brightness, and a single Ludwig Speed King pedal establishing from the very first recording that Nicko would do this with one bass drum.
+
+What makes Piece of Mind historically significant is the before/after narrative. Clive Burr had defined Iron Maiden's rhythmic character on the first four albums. Nicko McBrain arrived and maintained everything essential — the galloping rhythms, the dynamic sensitivity, the musical approach — while adding his own vocabulary of rolling fills, swinging grooves, and explosive tom work.
+
+"Flight of Icarus" became Iron Maiden's first major UK top-10 hit. "The Trooper" became one of their most enduring live staples. "Where Eagles Dare" became a lesson in how to open an album. All of it powered by Nicko's debut performance on Ludwig Vistalite and Paiste 2002.
+
+For drummers approaching this album today, Piece of Mind offers a masterclass in debut impact: how to arrive fully formed, honor what came before, and immediately establish something new. Nicko McBrain managed all three on his very first Iron Maiden record.`
+    }
+  },
+
   'iowa-drum-setup': {
     slug: 'iowa-drum-setup',
     albumTitle: 'Iowa',

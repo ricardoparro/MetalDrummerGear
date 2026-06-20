@@ -33,6 +33,8 @@ import { CURATED_MATCHUPS } from '../../packages/frontend/data/battles.js';
 import { SIGNATURE_GEAR } from '../../packages/frontend/data/signatureGear.js';
 // Issue #1522: Quotation + ItemList JSON-LD for /quotes page.
 import { getAllQuotes } from '../quotes-data.js';
+// Issue #1794: genre gear guide pages — /guides/best-[gear]-for-[genre]
+import { GENRE_GEAR_GUIDES } from '../../packages/frontend/data/genreGearGuides.js';
 
 const BASE_URL = 'https://metalforge.io';
 const SITE_NAME = 'MetalForge';
@@ -590,14 +592,55 @@ function getMetaForPath(pathname) {
     };
   }
 
-  // Beginner guide and other /guides/<slug> pages
+  // Beginner/genre gear guides and other /guides/<slug> pages
   const guidesMatch = path.match(/^\/guides\/([a-z0-9-]+)$/);
   if (guidesMatch) {
+    const slug = guidesMatch[1];
+    // Issue #1794: genre gear guide pages — emit keyword-matched title + Article + FAQPage JSON-LD
+    const genreGuide = GENRE_GEAR_GUIDES[slug];
+    if (genreGuide) {
+      return {
+        title: genreGuide.metaTitle,
+        description: genreGuide.description,
+        image: `${BASE_URL}${genreGuide.ogImage}`,
+        type: 'article',
+        url: `${BASE_URL}/guides/${genreGuide.slug}`,
+        articleSchema: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@graph': [
+            {
+              '@type': 'Article',
+              headline: genreGuide.title,
+              description: genreGuide.description,
+              author: { '@type': 'Organization', name: genreGuide.author || 'MetalForge Editorial' },
+              datePublished: genreGuide.datePublished,
+              dateModified: genreGuide.dateModified,
+              publisher: { '@type': 'Organization', name: SITE_NAME, url: BASE_URL },
+              keywords: (genreGuide.seoKeywords || []).join(', '),
+            },
+            ...(genreGuide.faq ? [{
+              '@type': 'FAQPage',
+              mainEntity: genreGuide.faq.map(q => ({
+                '@type': 'Question',
+                name: q.question,
+                acceptedAnswer: { '@type': 'Answer', text: q.answer },
+              })),
+            }] : []),
+          ],
+        }),
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: 'Guides', url: `${BASE_URL}/guides` },
+          { name: genreGuide.title, url: `${BASE_URL}/guides/${genreGuide.slug}` },
+        ],
+        faqSchema: genreGuide.faq || null,
+      };
+    }
     return {
       title: `Metal Drumming Guide | ${SITE_NAME}`,
       description: 'Essential guide for metal drummers covering gear, technique, and setup.',
       type: 'article',
-      url: `${BASE_URL}/guides/${guidesMatch[1]}`,
+      url: `${BASE_URL}/guides/${slug}`,
     };
   }
 

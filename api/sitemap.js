@@ -40,6 +40,8 @@ import { DRUMMER_EVOLUTION } from '../packages/frontend/data/drummerEvolution.js
 // Issue #1473: individual /battles/<slug> pages — 8 curated matchups with
 // SEO-targeted titles for "X vs Y drum kit" long-tail queries.
 import { CURATED_MATCHUPS } from '../packages/frontend/data/battles.js';
+// Issue #1794: Genre gear guide pages — /guides/best-[gear]-for-[genre]
+import { GENRE_GEAR_GUIDES } from '../packages/frontend/data/genreGearGuides.js';
 
 // Issue #623: Content Scale Sprint - All 62 drummers now in sitemap
 const drummers = [
@@ -438,6 +440,8 @@ export default function handler(req, res) {
     ...soundLikeGuides.map(g => ({ loc: `/guides/${g.slug}`, priority: '0.9', changefreq: 'monthly' })),
     // Issue #702: Beginner gear guides
     ...beginnerGuides.map(g => ({ loc: `/guides/${g.slug}`, priority: '0.95', changefreq: 'monthly' })),
+    // Issue #1794: Genre gear guides (commercial-intent purchase queries)
+    ...Object.values(GENRE_GEAR_GUIDES).map(g => ({ loc: `/guides/${g.slug}`, priority: '0.95', changefreq: 'monthly' })),
     // Issue #1579: BPM Tap Calculator + Metal Songs BPM Database
     { loc: '/bpm', priority: '0.95', changefreq: 'weekly' },
     { loc: '/bpm-tap', priority: '0.9', changefreq: 'monthly' },

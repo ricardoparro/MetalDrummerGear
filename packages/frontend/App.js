@@ -154,6 +154,8 @@ import {
   getRelatedPages as getRelatedGearPages,
   extractBrand as extractGearBrand,
 } from './data/gearCategoryPages';
+// Issue #1794: Genre gear guide pages — /guides/best-[gear]-for-[genre]
+import { GENRE_GEAR_GUIDES } from './data/genreGearGuides';
 
 // ==========================================
 // LAZY-LOADED DATA MODULES - Performance Optimization (#708)
@@ -283,15 +285,29 @@ function preloadBeginnerGuide() {
   }
   return _beginnerGuideLoadPromise;
 }
-function isBeginnerGuidePage() { 
-  return _beginnerGuideModule?.isBeginnerGuidePage?.() ?? (typeof window !== 'undefined' && (
-    window.location.pathname === '/guides/beginner-metal-drummer-setup' || 
+function isBeginnerGuidePage() {
+  const isKnownBeginnerGuide = _beginnerGuideModule?.isBeginnerGuidePage?.() ?? (typeof window !== 'undefined' && (
+    window.location.pathname === '/guides/beginner-metal-drummer-setup' ||
     window.location.pathname === '/guides/beginner-metal-drummer-setup/' ||
     window.location.pathname === '/beginner-setup' ||
     window.location.pathname === '/beginner-setup/'
-  )); 
+  ));
+  if (isKnownBeginnerGuide) return true;
+  // Issue #1794: also detect genre gear guide pages at /guides/best-[gear]-for-[genre]
+  if (typeof window !== 'undefined' && window.location.pathname.startsWith('/guides/')) {
+    const slug = window.location.pathname.replace(/\/+$/, '').slice('/guides/'.length);
+    if (GENRE_GEAR_GUIDES[slug]) return true;
+  }
+  return false;
 }
-function getBeginnerGuideSlugFromURL() { return _beginnerGuideModule?.getBeginnerGuideSlugFromURL?.() ?? 'beginner-metal-drummer-setup'; }
+function getBeginnerGuideSlugFromURL() {
+  // Issue #1794: return genre guide slug before deferring to module
+  if (typeof window !== 'undefined' && window.location.pathname.startsWith('/guides/')) {
+    const slug = window.location.pathname.replace(/\/+$/, '').slice('/guides/'.length);
+    if (GENRE_GEAR_GUIDES[slug]) return slug;
+  }
+  return _beginnerGuideModule?.getBeginnerGuideSlugFromURL?.() ?? 'beginner-metal-drummer-setup';
+}
 
 // Metal Drummer Name Generator (Issue #704) - Viral tool at /tools/metal-drummer-name-generator
 // Lazy loaded for performance optimization (#708) - 26KB component + 17KB data

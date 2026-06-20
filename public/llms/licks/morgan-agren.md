@@ -1,85 +1,77 @@
 # Morgan Ågren — Signature Drum Licks & Patterns
 
-**Band:** Mats/Morgan Band / Devin Townsend | **Genre:** Progressive Metal | **Lick Count:** 3
+**Band:** Mats/Morgan Band | **Genre:** Progressive Metal | **Lick Count:** 3
 
 ---
 
 ## Overview
 
-Morgan Ågren is one of Progressive Metal's most adventurous drummers, best known for his long-running collaboration with pianist Mats Öberg in the Mats/Morgan Band and his studio and live work with Devin Townsend. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Morgan Ågren" or "Morgan Ågren signature drum patterns". His style draws on a lifetime engagement with odd meters, metric modulation, and the Frank Zappa compositional tradition to produce drumming that makes rhythmic complexity feel musical and inevitable rather than academic.
+Morgan Ågren is one of Progressive Metal's most influential drummers, best known for their work with Mats/Morgan Band. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Morgan Ågren" or "Morgan Ågren signature drum patterns". Their style spans progressive metal.
 
 ## Sprite Metric Modulation Study
 
-**Song:** Sprite | **Album:** Empath (2019) — Devin Townsend | **BPM:** shifting (~130–165 BPM) | **Technique:** metric-modulation | **Difficulty:** expert
+**Song:** Sprite | **Album:** Empath (2019) | **BPM:** shifting (~130–165 BPM) | **Technique:** metric modulation | **Difficulty:** expert
 
-Devin Townsend's 2019 album Empath is one of the most ambitious progressive metal records in recent memory, and Morgan Ågren's drumming is a masterclass in applying metric modulation to a rock context. On Sprite, Ågren navigates time-signature shifts — moving between 4/4, 7/8, and 5/4 passages — without ever losing the underlying pulse that makes the song feel coherent. Metric modulation here means the felt tempo changes but the subdivision remains constant: a quarter note in 4/4 becomes a dotted quarter in the new time signature, so the beat shifts but the listener's internal clock does not lurch.
+Morgan Ågren's metric modulation work — demonstrated here through his contribution to Devin Townsend's Empath — requires keeping the subdivision constant across bar-line changes so the pulse feels continuous rather than lurching through gear shifts. The hi-hat foot serves as an anchor subdivision marker persisting through time-signature changes. Internalising the new metric feel before the downbeat of each section, rather than recounting from beat one, is what separates fluent modulation from anxious counting.
 
 ### How to Play
 
 - Keep the subdivision constant across bar-line changes so the pulse feels continuous rather than lurching
 - Use the hi-hat foot as an anchor subdivision marker that persists through time-signature shifts
-- Internalise the new metric feel before the downbeat of each new section rather than recounting from bar one
-- Practise each time signature in isolation until it feels natural, then practise the transition points specifically
-- Sing or tap the melodic line while playing to keep the modulations serving the music rather than dominating it
+- Internalise the new metric feel before the downbeat of each new section rather than recounting from beat one
 
 ### Key Elements
 
 - Record the modulation transitions and listen back critically — the subdivision should feel seamless, not like a reset
 - Practise with a click set to the common subdivision, not the beat, so the click persists across time-signature changes
-- Tap the melodic line while practising the drum part to understand where the modulation points align with the composition
-- Work through time signatures one relationship at a time (4/4 → 7/8, then 7/8 → 5/4) rather than the full sequence at once
+- Tap the melodic line while practising the drum part to understand where the modulation points align with harmonic changes
 
-**Core Techniques:** [Metric Modulation](https://metalforge.io/technique/metric-modulation), [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Polyrhythm](https://metalforge.io/technique/polyrhythm)
+**Core Techniques:** [Metric Modulation](https://metalforge.io/technique/metric-modulation), [Odd Time](https://metalforge.io/technique/odd-time), [Hi-Hat Control](https://metalforge.io/technique/hi-hat-control)
 
 ## Odd-Meter Improvisation Study
 
-**Song:** Drum Set Improvisation | **Album:** ArtOfDrumming Clinic (2021) | **BPM:** ~120 BPM (shifting meters) | **Technique:** odd-time-signatures | **Difficulty:** expert
+**Song:** Drum Set Improvisation | **Album:** ArtOfDrumming Clinic (2021) | **BPM:** ~120 BPM (shifting meters) | **Technique:** odd-meter improvisation | **Difficulty:** expert
 
-Morgan Ågren's approach to odd-meter improvisation is one of the most instructive examples in contemporary drumming of how to make unconventional time signatures feel musical rather than academic. In this clinic performance, Ågren improvises through 7/8, 9/8, and 11/8, treating them not as puzzles to be solved but as rhythmic characters with their own feel and momentum. Rather than parsing 7/8 as 3+4 or 4+3 and counting through it, Ågren feels the group as a single rhythmic unit with its own internal weight distribution — a capacity built from decades of playing with Mats Öberg where odd meters are the compositional norm.
+Ågren's clinic work for ArtOfDrumming demonstrates his approach to odd-meter improvisation — feeling each odd grouping as a bodily unit rather than counting subdivisions. A 7/8 should have a single internal weight distribution, not seven counted eighth notes. The hi-hat or ride makes a musical statement rather than just marking meter through odd bars, and moving between 7/8, 9/8, and 11/8 is executed with a constant eighth-note reference so transitions feel like expansions rather than disruptions.
 
 ### How to Play
 
 - Feel each odd grouping as a bodily unit rather than counting subdivisions — a 7/8 should have a single internal weight distribution
 - Keep the hi-hat or ride making a musical statement rather than just marking the meter through odd bars
-- Practise moving between 7/8, 9/8, and 11/8 with a constant eighth-note reference so the transitions feel continuous
-- Resolve fills to the downbeat of the new grouping rather than the old one to make the meter change feel inevitable
-- Play odd-meter patterns daily until they feel as natural as 4/4 — fluency comes from habituation, not calculation
+- Practise moving between 7/8, 9/8, and 11/8 with a constant eighth-note reference so the transitions feel like expansions
 
 ### Key Elements
 
 - Practise walking and clapping a 7/8 pattern before playing it on the kit — embodied feeling precedes technical execution
-- Set a metronome to the eighth-note subdivision and practise switching meters over it so the pulse never breaks
-- Compose short one- or two-bar odd-meter ostinatos and improvise fills over them rather than free-improvising from scratch
-- Listen extensively to the Mats/Morgan Band catalogue — passive listening in odd meters accelerates internalisation
+- Set a metronome to the eighth-note subdivision and practise switching meters over it so the pulse never resets
+- Compose short one- or two-bar odd-meter ostinatos and improvise fills over them to build vocabulary before attempting free improvisation
 
-**Core Techniques:** [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Polyrhythm](https://metalforge.io/technique/polyrhythm), [Metric Modulation](https://metalforge.io/technique/metric-modulation)
+**Core Techniques:** [Odd Time](https://metalforge.io/technique/odd-time), [Metric Modulation](https://metalforge.io/technique/metric-modulation), [Improvisation](https://metalforge.io/technique/improvisation)
 
 ## Neyveli Prog Groove Performance
 
-**Song:** Neyveli | **Album:** ArtOfDrumming Feature (2021) | **BPM:** ~160 BPM | **Technique:** metric-displacement | **Difficulty:** advanced
+**Song:** Neyveli | **Album:** ArtOfDrumming Feature (2021) | **BPM:** ~160 BPM | **Technique:** displaced groove | **Difficulty:** advanced
 
-The ArtOfDrumming Neyveli performance captures Morgan Ågren applying his full rhythmic vocabulary to a focused groove context, illustrating what separates a prog-inflected groove from a straightforward rock beat. Ågren plays in 4/4 but uses metric displacement — phrasing rhythmic motifs that start in unexpected places in the bar — to give the groove a floating, shifting quality while the underlying pulse remains absolutely solid. A locked, confident pulse is not the same thing as a metrically plain one: you can be completely in time while playing phrases that begin off the anticipated beat.
+This ArtOfDrumming feature performance showcases Ågren's metric displacement approach to groove — the bass drum and hi-hat stay absolutely locked to the pulse while snare phrases begin on displaced beats, creating a polyrhythmic texture without ever sacrificing rhythmic stability. The displaced phrases land with authority because the foundation is rock-solid. Maintaining consistent groove dynamics across the displacement ensures that the displaced phrases read as expressive choices rather than timing errors.
 
 ### How to Play
 
 - Keep the bass drum and hi-hat absolutely locked to the pulse even while snare phrases start on displaced beats
-- Treat metric displacement as an expressive tool — begin rhythmic motifs a dotted quarter or half-beat early or late for tension
+- Treat metric displacement as an expressive tool — begin rhythmic motifs a dotted quarter or half-beat late to create forward tension
 - Maintain consistent groove dynamics so the displaced phrases land with authority rather than feeling hesitant
-- Practise the two-layer approach: first lock the pulse limbs alone, then improvise displaced phrases over them without disturbing the foundation
-- Listen back to recordings and ask whether the displaced phrases feel intentional and musical or merely accidental
 
 ### Key Elements
 
 - Practise locking the bass drum and hi-hat to a click while freeing the snare to land on any subdivision — the two layers should not influence each other
 - Start displacement exercises by moving snare hits one eighth-note late or early before attempting dotted-quarter displacements
-- Record and listen critically: if the pulse feels unstable when phrases displace, strengthen the pulse foundation before adding complexity
-- Transcribe Ågren's phrase start-points in the Neyveli performance and work them into your own groove practice as a vocabulary exercise
+- Record and listen critically: if the pulse feels unstable when phrases displace, strengthen the pulse layer before increasing displacement complexity
 
-**Core Techniques:** [Groove](https://metalforge.io/technique/groove), [Metric Modulation](https://metalforge.io/technique/metric-modulation), [Polyrhythm](https://metalforge.io/technique/polyrhythm)
+**Core Techniques:** [Metric Modulation](https://metalforge.io/technique/metric-modulation), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Independence](https://metalforge.io/technique/independence)
+
 
 ## Teaching Points
 
-Morgan Ågren's style is defined by the internalisation of rhythmic complexity to the point where it becomes expressive rather than calculated. Key practice principles across all his licks: feel odd groupings as bodily units rather than counting through them; use the hi-hat foot as a subdivision anchor across meter changes; and separate the pulse-locking function of bass drum and hi-hat from the phrase-freedom of the snare. Mastering these patterns builds the foundation for understanding how Ågren makes the most rhythmically demanding music sound natural and inevitable.
+Morgan Ågren's style is defined by embodied metric intelligence — he feels odd groupings as physical units rather than counting them. Key practice principles across all his licks: use the hi-hat foot as a subdivision anchor through time-signature shifts; build odd-meter vocabulary by walking and clapping patterns before playing them; and lock the pulse layer absolutely before experimenting with displaced or modulated layers.
 
 ## More Resources
 
@@ -90,4 +82,4 @@ Morgan Ågren's style is defined by the internalisation of rhythmic complexity t
 
 ---
 
-*Last updated: 2026-06-19 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-20 · Source: [MetalForge.io](https://metalforge.io)*

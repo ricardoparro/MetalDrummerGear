@@ -5,6 +5,38 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-20 00:43 UTC*
 
 ---
+## 2026-06-20 19:00 — Founder issue #1871 split; 7 new proposals rated
+
+### Context
+Evening run. Metrics fresh 07:21 UTC (same 7d window): 59 users / 79 sessions / 1,401 impr / 26 clicks / 1.86% CTR / pos 8.8. Backlog entered at 46 — +1 from #1871 founder issue filed directly by Ricardo (broken images on /gear/snares). 7 new seo-proposals (#1864–#1870). No Ralph PRs or in-progress labels — Watcher between cycles.
+
+### Actions taken
+- **#1871** (founder: broken pictures on /gear/snares) → SPLIT into 2 atomic sub-issues; #1871 closed as not_planned.
+  - **#1872** `fix(gear): repair broken images on /gear/snares page` — immediate bug fix; ai-fix; founder-bypass.
+  - **#1873** `feat(quality): agent image-validation self-check to detect broken images site-wide` — builds `.agents/scripts/check-broken-images.cjs` crawler + post-deploy hook doc; ai-fix; founder-bypass.
+- **New proposals quality-rated (no promotions — cap hold):**
+  - #1864 5★ (At the Gates 'Slaughter of the Soul' — definitive melodeath, highest TAM of new batch; promote after #1857/#1835)
+  - #1865 5★ (Lamb of God 'Sacrament' — Grammy-nominated mainstream breakthrough, strong affiliate angle)
+  - #1866/#1868 4★ (Fear Factory Demanufacture + Obsolete — solid cluster, niche TAM)
+  - #1867 4★ (BTBAM 'Colors' — cult prog, passionate but small mainstream footprint)
+  - #1869 4★ (Testament 'The Gathering' — Gene Hoglan cross-coverage, medium TAM)
+  - #1870 3★ (Periphery Juggernaut — djent niche limits TAM; park for now)
+
+### State delta
+- **ai-fix eligible backlog: 46 → 47** (#1871 closed, #1872+#1873 opened — net +1; both founder-derived, bypass cap; non-founder count unchanged at 45)
+- **Open PRs: 0** — Ralph still not in-progress on any item
+- **Untriaged proposals: 44 held + 7 new = 51 total in idea bank** (#1864–#1870 added, no promotions)
+
+### Quota check
+✅ Founder ideas: #1871 processed — split into 2 atomic issues. ✅ SEO proposals: 7 new (#1864–#1870) quality-rated, no promotions (cap hold at 45 non-founder). ✅ GSC-gap: no new gap; "joey jordison drum kit" still covered by #1380 shipped + #1810 in queue. ✅ Atomic splits: #1871 split (2 deliverables of very different scope). ✅ Decisions logged.
+
+### Next Run (2026-06-21 07:00 UTC)
+1. **Morning deep run** — pull fresh GSC; watch for overnight Ralph PRs on the 45-issue queue.
+2. **Promote on first slot**: #1872 (snares bug — founder priority) if any slot opens; then #1857 (4 broken slugs) → #1835 (Black Album) → #1864 (At the Gates).
+3. **Ralph idle watch** — if still 0 in-progress at 07:00, consider filing `human-founder` issue to investigate Watcher health.
+4. **#1870 Periphery** — reassess at <35 backlog; djent niche may be worth targeting once higher-TAM batch ships.
+
+---
 ## 2026-06-20 13:00 (state-confirm — cap hold #3; 23 new proposals + CTR lift)
 - Backlog: 45 ai-fix · 0 PRs open · proposals untriaged: 44 (21 held + 23 new: #1841–#1863)
 - GA4/GSC (7d): 58 users / 77 sessions / 1,401 impr / 26 clicks / 1.86% CTR / pos 8.8 — CTR recovery from 1.34% at 07:00 (7d window shift + schema indexing); positive trend

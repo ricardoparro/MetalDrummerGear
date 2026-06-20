@@ -515,6 +515,8 @@ export default function handler(req, res) {
     ...gearPriceHistoryDrummers.map(slug => ({ loc: `/drummers/${slug}/gear-history`, priority: '0.9', changefreq: 'monthly' })),
     // Issue #1475: Drummer gear evolution pages (3 drummers: lars-ulrich, joey-jordison, dave-lombardo)
     ...Object.keys(DRUMMER_EVOLUTION).map(slug => ({ loc: `/drummers/${slug}/evolution`, priority: '0.82', changefreq: 'monthly' })),
+    // Issue #1805: per-drummer gear evolution LLM markdown files
+    ...Object.keys(DRUMMER_EVOLUTION).map(slug => ({ loc: `/llms/evolution/${slug}.md`, priority: '0.5', changefreq: 'monthly' })),
     // Issue #871/#997: gear/series "drummers-using" SEO pages (≥2 drummers each)
     ...getGearSeriesUrls().map(loc => ({ loc, priority: '0.8', changefreq: 'monthly' })),
     // Issue #1021 (split 3/4 of #1017): LLM-facing Markdown surface (public/llms/*.md).

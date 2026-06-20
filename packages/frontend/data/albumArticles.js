@@ -32605,6 +32605,348 @@ For the complete story of Joey's gear across all eras, start with the [Joey Jord
 
 Rest in power, #1. 🥁`
     }
+  },
+
+  // Ænima Drum Setup - Danny Carey (1996 era) - Added 2026-06-20
+  'aenima-drum-setup': {
+    slug: 'aenima-drum-setup',
+    albumTitle: 'Ænima',
+    artist: 'Tool',
+    drummer: 'Danny Carey',
+    drummerId: 14,
+    relatedDrummerSlug: 'danny-carey',
+    year: 1996,
+    genre: 'Progressive Metal / Alternative Metal',
+    label: 'Zoo Entertainment / Volcano Records',
+    studio: 'Grandmaster Recording, Los Angeles',
+    producer: 'David Bottrill & Tool',
+    isAlbumArticle: true,
+    datePublished: '2026-06-20',
+    dateModified: '2026-06-20',
+    author: 'MetalForge Editorial',
+    title: "Ænima Drum Setup: Danny Carey's 1996 Pearl Masters Kit Breakdown",
+    description: "Complete breakdown of Danny Carey's drum gear on Tool's Ænima (1996). Discover the Pearl Masters Custom kit, Paiste 2002 cymbals, DW 5000 pedals, and how 'Forty Six & 2' was recorded at Grandmaster Recording in Los Angeles.",
+    seoKeywords: ['aenima drums', 'danny carey drum setup 1996', 'tool aenima gear', 'forty six and two drums', 'danny carey pearl drums', 'danny carey 90s kit', 'tool 1996 drum setup', 'aenima recording drum kit'],
+    ogImage: '/images/albums/aenima-drums.webp',
+    intro: {
+      title: "Tool's Most Influential Album — A Different Gear Era",
+      content: `Released on <time datetime="1996-09-17">September 17, 1996</time>, Tool's "Ænima" is widely regarded as one of the most influential metal albums ever made — and the drum performances Danny Carey delivered on it are a significant reason why. Complex, dynamic, and rooted in a distinct gear setup that would change dramatically by the time Lateralus arrived in 2001, Ænima captures Carey at a raw creative peak.
+
+The album was recorded at Grandmaster Recording in Los Angeles — then known as Hollywood Sound Recorders — with producer David Bottrill at the controls. Bottrill brought a clarity to the drum sound that separated Ænima from the muddier production of many mid-90s metal records. Working with Danny's Pearl Masters Custom kit, Bottrill captured the full weight and complexity of Carey's playing without sacrificing detail.
+
+At the time of the Ænima sessions, Danny was building his reputation as one of rock's most innovative drummers. His kit was grounded in a Pearl Masters Custom maple/birch configuration — a world apart from the Sonor SQ2 Heavy Beech setup he would become synonymous with later. The cymbals were Paiste 2002s, not the Signature series of Fear Inoculum. The pedals were DW 5000s, not the Sonor Giant Step.
+
+This is the gear that powered "Stinkfist," "Eulogy," "H.," and "Forty Six & 2" — one of the most analyzed drum tracks in progressive metal. Understanding what Danny played on Ænima is essential for anyone studying the evolution of Tool's drum sound, the 90s alternative metal era, or the development of one of rock's most distinctive drummers.`,
+      keyPoints: [
+        'Recorded at Grandmaster Recording, Los Angeles in 1996 with producer David Bottrill',
+        'Pearl Masters Custom maple/birch shells — dramatically different from later Sonor setup',
+        'Paiste 2002 cymbals rather than the Signature series used from Lateralus onward',
+        'DW 5000 double pedal and hi-hat stand anchored the hardware setup',
+        '"Forty Six & 2" is considered one of the greatest progressive rock drum performances',
+        'Album debuted at #2 on Billboard 200 and remains Tool\'s most acclaimed early work'
+      ]
+    },
+    drumKit: {
+      title: "The 90s Foundation: Danny's Pearl Masters Custom Setup",
+      brand: 'Pearl',
+      model: 'Pearl Masters Custom',
+      finish: 'Natural Maple',
+      config: {
+        bassdrums: ['22" x 16" Bass Drum'],
+        toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom', '13" x 10" Rack Tom'],
+        floorToms: ['16" x 16" Floor Tom', '18" x 16" Floor Tom'],
+        shells: 'Maple/birch hybrid shells with 6-ply construction'
+      },
+      description: `Danny Carey's Pearl Masters Custom kit on Ænima represented the state-of-the-art for progressive and alternative metal drumming in 1996. The Masters Custom series was Pearl's flagship line — hand-selected shells, superior hardware, and a build quality that could handle both the studio and relentless touring.
+
+The maple/birch hybrid shell construction gave the kit a distinctive voice: the attack and projection of maple combined with the focused midrange punch of birch. This combination suited Tool's dynamic range perfectly — the drums could whisper during quiet passages and thunder through the heaviest riffs without losing clarity.
+
+The 22" bass drum was standard for the era but punchy and well-defined through the DW 5000 pedal. Unlike the massive 24" bass drum Danny would eventually adopt, the 22" sat cleanly in the Ænima mix, providing a solid rhythmic foundation without overwhelming Maynard's vocals or Adam Jones's layered guitars.
+
+The tom configuration — rack toms at 10", 12", and 13", plus floor toms at 16" and 18" — gave Danny the range he needed for his melodic fills while remaining more compact than his later setups. Songs like "Eulogy" and "Forty Six & 2" rely heavily on tom work, and the Pearl Masters' tonal consistency across the kit made these patterns flow naturally.
+
+Pearl's SST (Superior Shell Technology) of the era used a proprietary process that optimized the shell vibration, creating a more resonant drum that required less muffling in the studio. Producer David Bottrill allowed the natural sound of the kit to breathe in the recording — minimal gating, natural decay — which contributed to the organic, powerful drum sound throughout Ænima.`,
+      notes: [
+        'Pearl Masters Custom was the top-of-line Pearl offering in 1996',
+        'Maple/birch hybrid shells balanced attack with warm midrange punch',
+        '22" bass drum — smaller than later Sonor SQ2 setup, punchier in the mix',
+        'This setup retired before Lateralus sessions; Danny moved to Sonor circa 2000'
+      ],
+      estimatedValue: '$3,000-4,500 (1996) / $2,000-4,000 (vintage Masters Custom today)'
+    },
+    snare: {
+      title: 'The Mid-90s Snare: Punchy and Precise',
+      brand: 'Pearl',
+      model: 'Pearl Free-Floating Maple Snare',
+      size: '14" x 6.5"',
+      shell: 'Maple',
+      description: `The snare sound on Ænima is one of its most distinctive sonic signatures — warm but cutting, with enough crack to slice through Adam Jones's down-tuned guitar wall without sounding brittle. Danny used a Pearl Free-Floating maple snare that suited both the heavier sections and the dynamic, ghost-note-heavy passages throughout the album.
+
+The Free-Floating design suspends the shell independently from the lugs, allowing the shell to vibrate freely and produce a more resonant, musical tone. On a studio recording like Ænima, where every nuance of the drum sound is captured, this design advantage is audible. The snare's fundamental note rings longer and more musically than a conventional design.
+
+At 6.5" deep, the snare offered more body than a shallow-depth alternative while remaining quick enough for the 16th-note ghost note patterns that appear throughout "Forty Six & 2" and "Eulogy." David Bottrill's miking — close mic on the batter head, a mic beneath the snare wires, and a room mic to capture the shell's natural resonance — made the most of the Free-Floating's tonal qualities.
+
+Danny tuned the snare at medium tension, allowing ghost notes to speak clearly while delivering full-bodied backbeats. The Remo Coated Ambassador head contributed the slight warmth that distinguished the Ænima snare sound from the brighter, tighter snares common in thrash metal. This choice reflected Danny's jazz background — even in a heavy context, the drum needed to sing, not just crack.`,
+      tuningSetting: 'Medium tension, allowing ghost notes to speak clearly',
+      heads: 'Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$400-600 (1996) / $350-550 (vintage Free-Floating today)'
+    },
+    cymbals: {
+      title: 'Paiste 2002: The Aggressive Foundation',
+      brand: 'Paiste',
+      series: 'Paiste 2002',
+      setup: [
+        { type: 'Hi-Hats', model: 'Paiste 2002 14" Sound Edge Hi-Hats', position: 'Left side', notes: 'Crisp, defined hi-hat response — essential for the intricate patterns in Forty Six & 2' },
+        { type: 'Crash', model: 'Paiste 2002 16" Crash', position: 'Left of hi-hats', notes: 'Quick, explosive crash for accents throughout the album' },
+        { type: 'Crash', model: 'Paiste 2002 18" Crash', position: 'Right side', notes: 'Full-bodied crash providing weight on heavier accents' },
+        { type: 'Ride', model: 'Paiste 2002 20" Ride', position: 'Far right', notes: 'Bright, projecting ride with clear bell — used extensively on Eulogy and H.' },
+        { type: 'China', model: 'Paiste RUDE 18" China', position: 'Above floor tom', notes: 'Aggressive, trashy accents marking transitions and big moments' },
+        { type: 'Splash', model: 'Paiste 2002 10" Splash', position: 'Left, above hi-hats', notes: 'Quick accent colors for smaller moments' }
+      ],
+      description: `Danny Carey's Paiste 2002 cymbal setup on Ænima was a dramatic departure from the darker Signature series he would adopt for Lateralus. The 2002 series is known for its bright, cutting, aggressive tone — a classic rock and metal cymbal sound that had defined drum sounds since the 1970s.
+
+The 2002's characteristic brilliance suited the raw, aggressive character of Ænima perfectly. Songs like "Stinkfist," "Hooker with a Penis," and "Ticks & Leeches" (later rerecorded for Lateralus) demanded cymbals that cut through and projected — the 2002s delivered this without compromise.
+
+The 14" Sound Edge hi-hats provided crisp articulation for Danny's intricate patterns. In "Forty Six & 2," the hi-hat work is as complex as any other element of the track — open and closed patterns weaving through the polyrhythmic groove. The Sound Edge serration on the bottom cymbal maintained definition even when the hat was slightly open, crucial for the nuanced dynamics Danny employed.
+
+The 18" crash served as the primary accent cymbal throughout the album, its full, projecting sound filling the Grandmaster Recording room mics. Producer David Bottrill's microphone placement captured both the direct stick attack and the long sustain of the 2002, adding dimension to what might otherwise have been a one-dimensional cymbal sound.
+
+By the time Lateralus was recorded (2000-2001), Danny had transitioned to Paiste's more sophisticated Signature and Traditional series. Looking back, the 2002s on Ænima have a raw, immediate quality that fits the album's more visceral character — darker and more complex than Lateralus, but no less intense.`,
+      estimatedValue: '$1,800-2,400 total (Paiste 2002 complete setup, 1996 pricing)'
+    },
+    hardware: {
+      title: 'DW 5000 Pedals and the Hardware Foundation',
+      items: [
+        {
+          type: 'Bass Drum Pedal',
+          brand: 'DW',
+          model: 'DW 5000 Series Double Bass Pedal',
+          notes: 'Chain-drive mechanism with smooth, consistent action — standard for 90s progressive metal',
+          description: 'The DW 5000 double pedal was the professional standard for rock and metal drummers in the mid-90s. Its chain-drive mechanism offered the right balance of speed and power for Danny\'s playing style on Ænima. Unlike his later Sonor Giant Step setup, the DW 5000 has a more conventional feel that suited the more direct, aggressive sections of the album.'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'DW',
+          model: 'DW 5000 Hi-Hat Stand',
+          notes: 'Stable and consistent — essential for the intricate hi-hat work throughout Ænima',
+          description: 'The DW 5000 hi-hat stand provided the stability Danny needed for his complex hi-hat patterns. Smooth spring tension allowed for both quick open-close patterns and subtle half-open sounds.'
+        },
+        {
+          type: 'Throne',
+          brand: 'Roc-N-Soc',
+          model: 'Roc-N-Soc Nitro Throne (extended height)',
+          notes: "Danny's 6'5\" height requires custom throne positioning even in 1996",
+          description: "At 6'5\", Danny has always required a throne positioned higher than standard. The Roc-N-Soc Nitro provided the ergonomic support needed for the physically demanding Ænima sessions."
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth 5A / American Classic',
+          notes: 'Standard 5A profile in the Ænima era — before his signature model',
+          description: 'Before his signature model, Danny used Vic Firth 5A sticks, which provided the balance of weight and speed needed for Tool\'s demanding compositions. The American Classic line offered consistent quality across sessions and tours.'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke P3 Clear (batter), Remo Ebony Ambassador (resonant)',
+        toms: 'Remo Emperor Clear (batter), Ambassador Clear (resonant)',
+        snare: 'Remo Coated Ambassador (batter), Ambassador Snare Side (resonant)'
+      }
+    },
+    recordingTechniques: {
+      title: 'Grandmaster Recording: Capturing the Ænima Sound',
+      content: `Ænima was recorded at Grandmaster Recording (then called Hollywood Sound Recorders) in Los Angeles — a studio with a long history of capturing significant rock and pop records. Producer David Bottrill, fresh from working with Manic Street Preachers and Filter, brought a methodical approach to the sessions that captured Danny's playing with exceptional clarity.
+
+**Studio Configuration:**
+The drum room at Grandmaster Recording gave Danny's Pearl Masters kit room to breathe. Unlike the controlled, dead-sounding rooms common in 90s metal production, Bottrill used the natural ambience of the recording space — room mics captured the size and scale of Danny's playing, giving Ænima a sonic depth that distinguished it from more claustrophobic productions of the era.
+
+**Microphone Setup:**
+- Kick drum: AKG D112 inside, Shure Beta 52A at the port
+- Snare: Shure SM57 top (angled for crack), AKG C451 bottom for wire response
+- Toms: Sennheiser MD421 on each tom — the standard for 90s rock production
+- Hi-hat: AKG C451 positioned above the bow
+- Overheads: Neumann KM84 spaced pair for natural stereo image
+- Room mics: Neumann U87 pair at mid-distance for natural ambience
+
+**The Ænima Drum Sound:**
+Unlike many metal productions of the era that gated the drums heavily, Bottrill allowed natural decay on the toms and snare. This gave the Ænima drum sound a sense of space and dimension absent from contemporaneous records. The Pearl Masters shells' natural sustain was preserved rather than cut off — a choice that made songs like "Forty Six & 2" feel organic and alive.
+
+**Recording Philosophy:**
+Tool worked collaboratively during the Ænima sessions, with Danny contributing significantly to arrangement decisions. Unlike a conventional rock band where the drummer plays what\'s written, Carey\'s patterns often shaped the songs themselves. "Forty Six & 2," "H.," and "Eulogy" evolved through the recording process with Danny\'s drum parts as central compositional elements, not afterthoughts.
+
+**Post-Production:**
+Minimal processing was applied to the drums in the final mix. The natural drum sound achieved at Grandmaster Recording required little corrective EQ or heavy compression. This production philosophy — trusting the source sound rather than fixing it in the mix — is evident in how immediate and powerful the drums sound throughout the album.`,
+      keyTechniques: [
+        'Natural room ambience preserved rather than dead-room recording',
+        'MD421 on toms for warmth and punch without excessive brightness',
+        'Minimal gating allowed natural shell resonance and sustain',
+        'Danny contributed to song arrangements during sessions',
+        'Straightforward mic setup trusted the Pearl Masters\' natural tone'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'Stinkfist',
+        bpm: '112',
+        signature: '4/4 with feel variations',
+        highlights: [
+          'Opening track establishes the Ænima drum sound immediately',
+          'Driving, precise bass drum work under angular guitar riff',
+          'Rim accent punctuation throughout the verse groove',
+          'Dynamic build from restrained verse to explosive chorus'
+        ],
+        gearNotes: 'The 22" bass drum punches through clearly. The 2002 crash cymbals mark the chorus arrivals with the bright, immediate character typical of the era.'
+      },
+      {
+        track: 'Forty Six & 2',
+        bpm: '89',
+        signature: '4/4 with complex subdivision',
+        highlights: [
+          'Considered one of the greatest progressive rock drum performances',
+          'Complex polyrhythmic interplay between hi-hat, bass drum, and snare',
+          'Ghost notes woven throughout the main groove create underlying texture',
+          'Extended fill sections demonstrate full Pearl Masters tom range',
+          'Odd-feel intro gradually resolves into the main groove'
+        ],
+        gearNotes: 'The 14" Sound Edge hi-hats are central — the interplay between open and closed positions defines the track\'s feel. The snare ghost notes are made possible by the Free-Floating design\'s sensitivity. The floor toms\' warm decay adds weight to the chorus.'
+      },
+      {
+        track: 'Eulogy',
+        bpm: '80-115 (variable)',
+        signature: 'Mixed — 4/4 and 3/4 passages',
+        highlights: [
+          'Extended build structure tests Danny\'s dynamic control',
+          'Ride cymbal-driven verses contrast with crash-heavy chorus',
+          'Intricate fill passages between vocal sections',
+          'Final section\'s intensity is among the most demanding on the album'
+        ],
+        gearNotes: 'The Paiste 2002 20" Ride drives the mid-section. Its bright bell cuts through even during the densest guitar passages. The tom fills use the full 10"-18" range available on the Pearl Masters.'
+      },
+      {
+        track: 'H.',
+        bpm: '76',
+        signature: '6/8 feel',
+        highlights: [
+          'One of Tool\'s most groove-oriented tracks',
+          'Swung 6/8 feel requires sensitive dynamic control',
+          'Simple on the surface, highly musical in execution',
+          'Demonstrates Danny\'s jazz influence in a heavy context'
+        ],
+        gearNotes: 'The Pearl Masters\' warm, natural sustain suits the swinging groove of H. The Paiste 2002 crash cymbals add character without overwhelming the laid-back feel.'
+      },
+      {
+        track: 'Ænema',
+        bpm: '90-140 (variable)',
+        signature: '4/4 with acceleration passages',
+        highlights: [
+          'Title track — aggressive and cathartic',
+          'Controlled intensity in verses builds to explosive release',
+          'China cymbal deployed effectively for maximum aggression',
+          'Bass drum work is among the most relentless on the album'
+        ],
+        gearNotes: 'The Paiste RUDE China delivers its maximum trashy aggression here. DW 5000 double pedal handles the bass drum intensity through the building sections.'
+      }
+    ],
+    evolution: {
+      title: "From Ænima to Lateralus: Danny's Gear Transformation",
+      content: `The gear Danny Carey used on Ænima (1996) and the setup he assembled for Lateralus (2001) represent a significant evolution — not just in brand allegiances but in sonic philosophy. Understanding the differences helps explain why the two albums sound so distinct despite sharing the same band.
+
+**Kit:**
+Ænima's Pearl Masters Custom gave way to Sonor's Designer Series and eventually the SQ2 Heavy Beech for Lateralus and beyond. The Pearl shells were bright, punchy, and immediate — perfect for the more aggressive, 90s-rooted character of Ænima. The Sonor's heavier beech shells offered deeper warmth and more complex overtones, suited to the longer, more introspective compositions of Lateralus.
+
+**Cymbals:**
+The Paiste 2002 series on Ænima are fundamentally brighter and more aggressive than the Signature series Danny adopted for Lateralus. The 2002's cutting, direct quality cut through the raw production style of mid-90s alternative metal. The Signature series' darker, more complex tone suited the cleaner, more detailed production that David Bottrill brought to Lateralus.
+
+**Pedals:**
+The DW 5000 double pedal on Ænima served Danny well but gave way to a DW single pedal for Lateralus as Danny's playing style became more musically deliberate. By Fear Inoculum, he had moved to the Sonor Giant Step setup that remains his signature.
+
+**Overall Philosophy:**
+Ænima was recorded in a context where Tool was still establishing their signature sound. The gear reflected that — proven, professional equipment that could handle aggressive playing. By Lateralus, Danny was building toward the maximalist setup that would define his career. The Ænima era gear was the foundation.`,
+      thenVsNow: [
+        { category: 'Kit', then: 'Pearl Masters Custom (maple/birch)', now: 'Sonor SQ2 Heavy Beech (Lateralus onward)' },
+        { category: 'Snare', then: 'Pearl Free-Floating Maple (14" x 6.5")', now: 'Sonor Danny Carey Signature Bronze (14" x 8")' },
+        { category: 'Cymbals', then: 'Paiste 2002 series', now: 'Paiste Signature / Traditional series' },
+        { category: 'Pedals', then: 'DW 5000 Double Pedal', now: 'Sonor Giant Step Twin Effect' },
+        { category: 'Sticks', then: 'Vic Firth 5A / American Classic', now: 'Vic Firth Danny Carey Signature' }
+      ]
+    },
+    technique: {
+      title: "Forty Six & 2: Danny's Polyrhythmic Breakthrough",
+      content: `"Forty Six & 2" is the defining drum performance on Ænima and one of the most studied tracks in progressive rock drumming. Understanding how Danny approaches this track reveals the core of his technique at this point in his career — before the deeper integration of sacred geometry that would characterize Lateralus.
+
+**The Main Groove:**
+The track's main groove sits in 4/4 but feels fundamentally displaced. Danny plays a bass drum pattern that suggests one rhythmic cycle while his hi-hat plays another, and the snare lands in a position that creates a third implied rhythm. The result is a groove that constantly feels like it's about to tip over — but never does.
+
+**Ghost Note Integration:**
+Throughout "Forty Six & 2," Danny weaves ghost notes on the snare in a nearly constant stream. These aren't decorative — they're structural, maintaining the groove's flow during bass drum and hi-hat pattern shifts. The Pearl Free-Floating snare's sensitivity made these ghost notes possible at the volume the rest of the kit demanded.
+
+**Hi-Hat Technique:**
+The 14" Sound Edge hi-hats carry enormous weight in this track. Danny's shoulder technique — partially opening the hat at specific points in the pattern — creates a sloshy, breathing quality that gives the groove its characteristic feel. This open hi-hat work requires precise footwork coordinated with complex hand patterns.
+
+**The Build:**
+The track's dynamic evolution — from the restrained, polyrhythm-focused verse to the explosive fills and tom runs of the bridge — demonstrates Danny's mastery of musical pacing. The Pearl Masters' consistent tuning across all toms allowed the fill sections to flow musically rather than sounding like a random sequence of hits.
+
+**Tabla Influence:**
+Already present on Ænima, Danny's interest in Indian tabla rhythms informed the displaced accents and unusual phrase lengths in "Forty Six & 2." Unlike the more explicit tabla integration of Lateralus, here the influence is absorbed into standard kit technique — you hear the concept without the direct citation.`,
+      keyTechniques: [
+        'Polyrhythmic layering of bass drum, hi-hat, and snare patterns',
+        'Ghost note streams maintaining groove continuity during pattern shifts',
+        'Shoulder hi-hat technique creating breathing, open texture',
+        'Musical pacing across extended dynamic builds',
+        'Early tabla influence absorbed into rock drum kit technique'
+      ]
+    },
+    faq: [
+      {
+        question: 'What drum kit did Danny Carey use on Ænima?',
+        answer: 'Danny Carey used a Pearl Masters Custom kit on Ænima (1996). The setup featured maple/birch hybrid shells in a configuration including a 22" bass drum, rack toms at 10", 12", and 13", and floor toms at 16" and 18". This was notably different from his later Sonor SQ2 Heavy Beech setup used on Lateralus (2001) and Fear Inoculum (2019).'
+      },
+      {
+        question: 'What cymbals did Danny Carey use on Ænima?',
+        answer: 'Danny Carey used Paiste 2002 cymbals on Ænima, including 14" Sound Edge hi-hats, 16" and 18" crash cymbals, a 20" ride, and a Paiste RUDE 18" China. This was a brighter, more aggressive setup than the Paiste Signature series he adopted for Lateralus and later albums. The 2002 series\' direct, cutting sound suited Ænima\'s raw, mid-90s production style.'
+      },
+      {
+        question: 'What pedals did Danny Carey use on Ænima?',
+        answer: 'Danny Carey used DW 5000 Series double bass pedals on Ænima. This was the professional standard for rock drummers in the mid-1990s. By the time of Lateralus (2001), he had moved to a DW single pedal, and by Fear Inoculum (2019), he was using the Sonor Giant Step Twin Effect pedal.'
+      },
+      {
+        question: "How was 'Forty Six & 2' recorded?",
+        answer: "'Forty Six & 2' was recorded at Grandmaster Recording in Los Angeles with producer David Bottrill. The track's complex polyrhythmic groove was captured with a standard but carefully placed microphone setup — Sennheiser MD421s on toms, Shure SM57 on the snare, AKG D112 on the kick, and Neumann overheads. Bottrill preserved natural drum room ambience and minimal gating, which gave the track its organic, live feel. Danny's ghost note-heavy technique on the Pearl Free-Floating snare is clearly audible in the recording."
+      },
+      {
+        question: 'How does the Ænima drum setup differ from the Lateralus setup?',
+        answer: 'The Ænima setup (Pearl Masters Custom, Paiste 2002, DW 5000) is fundamentally different from Lateralus (Sonor Designer Series/proto-SQ2, Paiste Signature, DW single pedal). Pearl\'s maple/birch shells are brighter and punchier than Sonor\'s beech. The Paiste 2002s are more aggressive and direct than the Signature series\' darker, more complex character. The DW 5000 double pedal of Ænima was replaced by a single pedal for Lateralus as Danny\'s playing became more musically deliberate. These differences explain why the two albums have distinct drum sounds despite the same band and producer.'
+      },
+      {
+        question: 'Where was Ænima recorded?',
+        answer: "Ænima was recorded at Grandmaster Recording in Hollywood, Los Angeles (formerly known as Hollywood Sound Recorders). The sessions took place in 1996 with producer David Bottrill, who captured the Pearl Masters Custom drum kit with natural room ambience and minimal processing. The studio's room sound contributed significantly to the organic, powerful character of the album's drum sound."
+      }
+    ],
+    relatedAlbums: ['lateralus-drum-setup', 'fear-inoculum-drum-setup', 'whats-in-danny-careys-kit'],
+    relatedDrummers: [5, 15, 25], // Tomas Haake, Mario Duplantier, Brann Dailor
+    relatedArticles: ['progressive-metal-drummers', 'polyrhythmic-drumming-guide'],
+    relatedLicks: [
+      { drummerSlug: 'danny-carey', lickSlug: 'danny-carey-forty-six-and-two', label: "Watch Danny Carey's 'Forty Six & 2' polyrhythmic groove breakdown" },
+    ],
+    conclusion: {
+      title: 'The Raw Power Behind the Complexity',
+      content: `Ænima stands apart from Tool's later catalog not just in tone and attitude but in the gear that created it. The Pearl Masters Custom kit, Paiste 2002 cymbals, and DW 5000 pedals were professional tools used with extraordinary musicality — proof that great drumming isn't about the most expensive or most exotic equipment.
+
+What Danny Carey achieved on Ænima was remarkable in context: mid-90s progressive metal was not yet the codified genre it would become. Tool was inventing the template that bands would follow for the next three decades. Danny's drum performances — particularly on "Forty Six & 2" and "Eulogy" — set a standard for complexity-in-service-of-groove that remains the benchmark.
+
+The transition from this Pearl/Paiste/DW setup to the Sonor/Paiste Signature/Sonor Giant Step configuration of Lateralus and beyond represents one of the most significant gear evolutions in progressive metal drumming history. Studying both setups reveals how gear choices can reinforce artistic vision: the brighter, more aggressive 2002s suited the rawer energy of Ænima, while the darker, more complex Signature series matched the expanded compositional ambitions of Lateralus.
+
+For drummers studying Danny Carey's evolution, the Ænima era is essential:
+
+- **Gear serves the music**: The 2002s' aggression matched Ænima's character; they were replaced when the music evolved
+- **Complexity can groove**: "Forty Six & 2" is technically demanding and physically compelling simultaneously
+- **Pearl Masters remain relevant**: The kit's balanced sound holds up decades later
+- **DW 5000 reliability**: For pure performance reliability, this pedal served the most demanding conditions
+- **Room sound matters**: Grandmaster Recording's natural ambience is as much an instrument as Danny's kit
+
+Ænima is widely considered Tool's most influential album. Its drum performances are a central reason why — and understanding the gear behind them is the first step to understanding how Danny Carey became one of rock's greatest drummers.
+
+*"Some say the end is near. Some say we'll see Armageddon soon."*`
+    }
   }
 };
 

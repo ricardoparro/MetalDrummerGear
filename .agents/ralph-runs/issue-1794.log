@@ -1,0 +1,7 @@
+**Summary:**
+
+- **Problem:** `packages/frontend/data/genreGearGuides.js` contained 2 fully-built genre gear guide entries (`best-drum-pedals-for-death-metal`, `best-snare-drums-for-thrash-metal`) that were not wired into App.js routes, sitemap.js, or api/meta/[...path].js.
+- **Files changed:** This fix was already applied in commit 2f88c84 (`fix: #1794 wire genre gear guide routes, sitemap, and SSR meta`), touching `packages/frontend/App.js`, `packages/frontend/components/BeginnerGearGuide.js`, `api/sitemap.js`, and `api/meta/[...path].js`.
+- **Fix:** (1) App.js: extended `isBeginnerGuidePage()` and `getBeginnerGuideSlugFromURL()` to detect `/guides/best-[gear]-for-[genre]` URLs via `GENRE_GEAR_GUIDES` lookup; (2) BeginnerGearGuide.js: added genre guide fallback — when slug not in beginner guides, loads from `GENRE_GEAR_GUIDES` and renders Article + FAQPage JSON-LD; (3) sitemap.js: added 2 entries at priority 0.95; (4) api/meta/[...path].js: added genre-guide handler emitting keyword-matched title, Article + FAQPage JSON-LD, and breadcrumbs.
+- **Validation:** `node --check` passes on all touched files; `grep GENRE_GEAR_GUIDES api/sitemap.js` confirms 2 sitemap entries; `grep GENRE_GEAR_GUIDES api/meta/\[...path\].js` confirms SSR meta handler present; App.js routes genre slugs to `LazyBeginnerGearGuidePage` which renders genre guide content.
+- **Follow-ups:** Consider adding more genre gear guides (e.g., best cymbals for black metal, best snare for death metal) following the same `GENRE_GEAR_GUIDES` data pattern.

@@ -1,7 +1,1 @@
-**Summary:**
-
-- **Problem:** `/stats` hub was absent from `api/sitemap.js`, making it invisible to Googlebot and AI crawlers despite having full SSR meta, Dataset JSON-LD, and FAQPage schema.
-- **Files changed:** `.agents/ralph-runs/issue-1789.log` (agent run state); `api/sitemap.js` was already fixed in commit fd5ee5a.
-- **Fix:** `{ loc: '/stats', priority: '0.9', changefreq: 'weekly' }` is already present at line 434 of `api/sitemap.js`, immediately before the existing `/stats/gear-insights` entry at line 435.
-- **Validation:** `node --check api/sitemap.js` passes; `grep '/stats'` in `api/sitemap.js` returns both line 434 (`/stats`) and line 435 (`/stats/gear-insights`), confirming both entries are in place.
-- **Follow-ups:** None — checklist item complete; Google Search Console should confirm `/stats` in indexed URLs within 48h of sitemap re-crawl.
+already-applied

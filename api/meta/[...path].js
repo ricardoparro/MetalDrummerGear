@@ -2565,6 +2565,25 @@ function getMetaForPath(pathname) {
     }
   }
 
+  // Issue #1822: /spotlights hub page — CollectionPage JSON-LD
+  if (path === '/spotlights') {
+    return {
+      title: `Metal Drummer Spotlights — Featured Profiles & Stories | ${SITE_NAME}`,
+      description: 'Deep-dive spotlight features on metal drumming legends. Equipment breakdowns, career milestones, and gear stories for 60+ pro drummers.',
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url: `${BASE_URL}/spotlights`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        name: 'Metal Drummer Spotlights',
+        description: 'Curated spotlight features on professional metal drummers.',
+        url: `${BASE_URL}/spotlights`,
+        publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+      }),
+    };
+  }
+
   // Issue #1407: /quotes hub page
   // Issue #1522: Quotation + ItemList JSON-LD for AI citation surface
   if (path === '/quotes') {

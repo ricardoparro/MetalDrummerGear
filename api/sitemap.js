@@ -445,6 +445,8 @@ export default function handler(req, res) {
     { loc: '/gear-news', priority: '0.9', changefreq: 'daily' },
     // Issue #689: Drummer Battle voting feature
     { loc: '/battles', priority: '0.9', changefreq: 'weekly' },
+    // Issue #1822: Drummer spotlight features hub
+    { loc: '/spotlights', priority: '0.85', changefreq: 'weekly' },
     // Issue #1473: Individual /battles/<slug> pages (8 curated matchups)
     ...battleSlugs.map(slug => ({ loc: `/battles/${slug}`, priority: '0.85', changefreq: 'monthly' })),
     // Issue #695: Gear Statistics data hub

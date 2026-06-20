@@ -2635,7 +2635,7 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
           "@context": "https://schema.org",
           "@type": "Person",
           "name": list.drummer,
-          "description": list.articleType === 'drummer-kit' 
+          "description": list.articleType === 'drummer-kit' || list.articleType === 'gear-guide'
             ? `${list.genre} drummer from ${list.band}`
             : `Drummer for ${list.artist}`,
           "url": `https://metalforge.io/drummer/${list.slug.split('-')[0]}-${list.slug.split('-')[1]}`,
@@ -2793,11 +2793,11 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
           <Text style={[styles.backButtonText, { color: theme.primary }]}>← Back to Home</Text>
         </TouchableOpacity>
 
-        {/* Article Header - handles album, drummer-kit, and how-to types */}
+        {/* Article Header - handles album, drummer-kit, gear-guide, and how-to types */}
         <View style={[styles.albumArticleHeader, { paddingHorizontal: 20 }]}>
           <Text style={[styles.albumArticleAlbum, { color: theme.primary }]}>
-            {list.articleType === 'drummer-kit'
-              ? `${list.band || ''} • ${list.genre || 'Drummer Kit'}`
+            {list.articleType === 'drummer-kit' || list.articleType === 'gear-guide'
+              ? `${list.band || ''} • ${list.genre || 'Gear Guide'}`
               : list.articleSection === 'HowTo'
                 ? `Tutorial • ${list.genre || 'Metal Drumming'}`
                 : `${list.artist} • ${list.albumTitle} (${list.year})`}
@@ -2807,12 +2807,12 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
             {list.description}
           </Text>
           
-          {/* Metadata badges - different for album vs drummer-kit */}
+          {/* Metadata badges - different for album vs drummer-kit/gear-guide */}
           <View style={[styles.flexRowWrap, { marginTop: 16, gap: 8 }]}>
             <View style={[styles.genreTag, styles.genreTagLarge, { backgroundColor: theme.primary + '20' }]}>
               <Text style={[styles.genreTagText, { color: theme.primary }]}>🎸 {list.genre}</Text>
             </View>
-            {list.articleType === 'drummer-kit' ? (
+            {list.articleType === 'drummer-kit' || list.articleType === 'gear-guide' ? (
               <>
                 {list.country && (
                   <View style={[styles.genreTag, styles.genreTagLarge, { backgroundColor: theme.border }]}>
@@ -3755,8 +3755,8 @@ function ArticlesIndexPage({ theme, onBack, onSelectArticle }) {
               <View style={{ flex: 1 }}>
                 <Text style={[styles.articleListTitle, { color: theme.text }]}>{article.title}</Text>
                 <Text style={[styles.articleListMeta, { color: theme.secondaryText }]}>
-                  {article.articleType === 'drummer-kit' 
-                    ? `${article.band || ''} • ${article.genre || 'Drummer Kit'}`
+                  {article.articleType === 'drummer-kit' || article.articleType === 'gear-guide'
+                    ? `${article.band || ''} • ${article.genre || 'Gear Guide'}`
                     : `${article.artist} • ${article.albumTitle} (${article.year})`}
                 </Text>
               </View>

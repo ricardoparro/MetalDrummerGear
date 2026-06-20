@@ -31914,6 +31914,338 @@ Mike Portnoy's 25-year run defined Dream Theater's sound through Images and Word
 **For the Aspiring Drummer:**
 Start with "On the Backs of Angels" to hear Mangini's compound meter groove and Byzance ride clarity. Move to "Lost Not Forgotten" for the album's most demanding metric modulation work. Then compare with Portnoy's approach on Images and Words — a different philosophy, equally influential. For Mangini's complete current setup, visit the [Mike Mangini drummer profile](/drummer/mike-mangini) and the [What's in Mike Mangini's Kit article](/articles/whats-in-mike-manginis-kit).`
     }
+  },
+
+  // Joey Jordison Signature Gear Guide — Shopping / Collector's Guide (Issue #1810)
+  'joey-jordison-signature-gear-guide': {
+    slug: 'joey-jordison-signature-gear-guide',
+    articleType: 'gear-guide',
+    drummer: 'Joey Jordison',
+    drummerId: 2,
+    relatedDrummerSlug: 'joey-jordison',
+    band: 'Slipknot',
+    bands: ['Slipknot', 'Murderdolls', 'Sinsaenum'],
+    genre: 'Nu Metal / Death Metal',
+    country: 'USA',
+    isAlbumArticle: true,
+    datePublished: '2026-06-20',
+    dateModified: '2026-06-20',
+    author: 'MetalForge Editorial',
+    // SEO
+    title: "Joey Jordison Signature Gear: What's Available Today & How to Get His Sound",
+    description: "The complete buyer's guide to Joey Jordison signature gear. Which items are still in production, what to look for on the used market, and how to build his Slipknot Iowa setup today.",
+    seoKeywords: [
+      'joey jordison drum kit for sale',
+      'joey jordison pearl snare for sale',
+      'joey jordison signature sticks',
+      'joey jordison gear where to buy',
+      'replica joey jordison setup',
+      'joey jordison signature gear',
+      'joey jordison iowa kit replica',
+      'joey jordison pearl snare',
+      'joey jordison collector gear'
+    ],
+    ogImage: '/images/drummers/joey-jordison.webp',
+    // Introduction
+    intro: {
+      title: "Joey Jordison's Gear: Still Available, Still Devastating",
+      content: `Joey Jordison (April 26, 1975 – July 26, 2021) left behind one of metal's most distinctive drum setups. His Pearl Masterworks kit, Paiste RUDE cymbals, and signature snare defined the sound of Slipknot's Iowa era and influenced a generation of extreme metal drummers. Since his passing, interest in his signature items has only grown — both from players who want to capture his sound and from collectors seeking a piece of metal history.
+
+This guide covers exactly what's still available from Joey's rig, what has been discontinued, and where to find everything from signature production pieces to vintage Iowa-era gear. Whether you want to build a functional replica of his iconic setup or track down a collector's item, this is the complete resource.
+
+For a deep dive into Joey's gear by era, see the [full Joey Jordison kit breakdown](/articles/whats-in-joey-jordisons-kit). For the specific gear used on the Iowa album, read the [Iowa drum setup article](/articles/iowa-drum-setup). And for Joey's complete biography and career timeline, visit the [Joey Jordison drummer profile](/drummer/joey-jordison).`,
+      keyPoints: [
+        'Pearl Joey Jordison Signature Snare (JJ1365) still in production',
+        'Promark TX515W signature sticks — confirmed available',
+        'Paiste RUDE series cymbals — same models Joey used, still made',
+        'Iowa-era Pearl Masterworks kits available on the used market',
+        'Pearl Demon Drive pedals updated but direct-drive concept unchanged',
+        'Multiple avenues for authentic gear: retailers, Reverb, vintage drum dealers'
+      ]
+    },
+    // Section 1: Signature Items
+    signatureItems: {
+      title: "Joey's Signature Items: In Production vs Discontinued",
+      items: [
+        {
+          item: 'Pearl Joey Jordison Signature Snare (JJ1365)',
+          status: 'In Production',
+          description: `The Pearl JJ1365 is the crown jewel of Joey's signature line. A 13" x 6.5" steel shell with a 1.0mm beaded construction, it delivers the piercing crack and aggressive overtones that defined Iowa's snare sound. The smaller 13" diameter — unusual for metal — gives a higher fundamental pitch that cuts through dense mixes without getting lost under guitars, samples, and percussion.
+
+The JJ1365 remains in production as of 2026 and is widely stocked at drum retailers. It's one of the most affordable ways to connect with Joey's sound — and one of the few signature items where you can buy new, not just used. Street price typically runs $250–350 depending on the retailer.`,
+          priceRange: '$250–350 new',
+          availability: 'Major drum retailers, online stores',
+          notes: 'Most popular Joey Jordison signature item still in production'
+        },
+        {
+          item: 'Promark TX515W Joey Jordison Signature Sticks',
+          status: 'In Production',
+          description: `The Promark TX515W was developed with Joey to match his extreme-metal playing demands. Longer than a standard 5B, these sticks were designed for reach across his massive kit and speed through rapid blast beat passages. The wood tip provides clear cymbal articulation even at high velocity — essential for Slipknot's complex cymbal arrangements.
+
+At $12–15 per pair, these are the most accessible piece of Joey Jordison gear available. Stock them by the box — like Joey, you will go through them.`,
+          priceRange: '$12–15 per pair',
+          availability: 'All major music retailers',
+          notes: 'Best entry-level connection to the Joey Jordison sound'
+        },
+        {
+          item: 'Paiste RUDE Series Cymbals',
+          status: 'In Production',
+          description: `Joey's entire cymbal setup was built around Paiste RUDE and 2002 series. The RUDE Wild Hi-Hats, Power Crashes, Wild Chinas, and Power Ride were specifically chosen for their aggressive, unlathed character and near-indestructible construction. The same models Joey played on Iowa are still manufactured and available today.
+
+A RUDE setup matching the Iowa configuration (14" Wild Hi-Hats, 16"–19" Power Crashes, 20"/22" Wild Chinas, 22" Power Ride) will run $2,000–3,000 new. Individual cymbals are available from $150–400 depending on size and model.`,
+          priceRange: '$150–400 per cymbal; $2,000–3,000 full setup',
+          availability: 'Paiste authorized dealers, online',
+          notes: 'Most complete piece of Joey\'s authentic rig still in production'
+        },
+        {
+          item: 'Pearl Demon Drive Double Pedal',
+          status: 'In Production (Updated Model)',
+          description: `Joey used the Pearl Demon Drive throughout his career for its direct-drive response and adjustability. The current model has been updated since the Iowa era but maintains the same direct-drive concept and feel. If authenticity is less important than performance, the current Demon Drive delivers the speed and response Joey's technique demanded.
+
+For the exact Iowa-era configuration, look for used Pearl Eliminator or Demon Drive units from 2000–2005 on Reverb.`,
+          priceRange: '$400–700 new; $150–300 used (Iowa-era)',
+          availability: 'Pearl authorized dealers; Reverb for vintage',
+          notes: 'Current model updated; Iowa-era pedals available used'
+        }
+      ]
+    },
+    // Section 2: Replica Kit Builder
+    replicaBuilder: {
+      title: "Build Joey's Slipknot Iowa Setup for Under $2,500",
+      intro: `You don't need to spend $10,000 to get close to Joey's Iowa sound. A strategic build using available signature items plus a mid-range Pearl or equivalent kit delivers 90% of the character at a fraction of the cost. Here's the blueprint:`,
+      budget: {
+        total: 'Under $2,500',
+        items: [
+          {
+            component: 'Snare',
+            recommendation: 'Pearl JJ1365 Joey Jordison Signature',
+            price: '$280',
+            notes: 'The one non-negotiable. This IS the Joey Jordison snare sound.'
+          },
+          {
+            component: 'Kit',
+            recommendation: 'Pearl Export EXX or Roadshow in black finish',
+            price: '$700–1,000',
+            notes: 'Budget Pearl that shares shell character. Upgrade to Reference if budget allows.'
+          },
+          {
+            component: 'Bass Drum Pedals',
+            recommendation: 'Pearl P-930 Demonator or used Demon Drive',
+            price: '$150–300',
+            notes: 'Direct-drive feel without the top-tier price. Or hunt Reverb for a used Demon Drive.'
+          },
+          {
+            component: 'Hi-Hats',
+            recommendation: 'Paiste RUDE 14" Wild Hi-Hats',
+            price: '$200–280',
+            notes: 'Exact model Joey used. Non-negotiable for the Iowa hi-hat character.'
+          },
+          {
+            component: 'Crashes',
+            recommendation: 'Paiste RUDE 16" + 18" Power Crash (start here, expand later)',
+            price: '$180–260 each',
+            notes: 'Iowa used four crashes — build up over time.'
+          },
+          {
+            component: 'China',
+            recommendation: 'Paiste RUDE 20" Wild China',
+            price: '$250–320',
+            notes: 'The signature Slipknot china accent. One is enough to start.'
+          },
+          {
+            component: 'Sticks',
+            recommendation: 'Promark TX515W Joey Jordison Signature',
+            price: '$13/pair',
+            notes: 'Buy a box. You\'ll go through them.'
+          },
+          {
+            component: 'Heads',
+            recommendation: 'Evans EMAD Clear (kick), Evans EC2S Clear (toms)',
+            price: '$80–120',
+            notes: 'Same family Joey used on Iowa — attack-focused with clear sound.'
+          }
+        ]
+      },
+      pro: `For a closer replica, upgrade the kit to a used Pearl Masterworks or Reference Series — budget $2,000–4,000 for the shells alone on the used market. Add the full RUDE cymbal array (four crashes 16"–19", dual Chinas 20" + 22", 22" Power Ride) and a Pearl Icon Rack System for the authentic Iowa configuration. The complete replica build runs $6,000–10,000 for a genuine Pearl Reference / Masterworks setup with the full Paiste RUDE arsenal.`
+    },
+    // Section 3: Collector's Corner
+    collectorsCorner: {
+      title: "Collector's Corner: Authentic Iowa-Era Gear",
+      content: `The Iowa era (2001–2004) produced some of Joey's most distinctive gear configurations. For collectors seeking authentic pieces from this period, here's what to look for and what to avoid:
+
+**Pearl Masterworks (Iowa Era)**
+Joey's Iowa kit was a Pearl Masterworks Custom in a custom purple/black fade finish with black hardware. Genuine Iowa-era Masterworks kits are identifiable by their maple/African mahogany hybrid shells and pre-2005 Pearl Masterworks badging. These kits come up occasionally on Reverb and eBay but command significant premiums. A complete six-tom Iowa configuration in good condition can fetch $3,000–6,000 depending on finish condition and provenance. Verify serial numbers and badging — Pearl's vintage drum database can help authenticate.
+
+**Pearl Joey Jordison Signature Snare — Original vs Current**
+The JJ1365 has been in continuous production since the early 2000s. Early production models (pre-2010) are largely identical to current versions — the design hasn't changed significantly. Don't pay a premium for "vintage" JJ1365 snares unless they have documented tour provenance. The current production model is the same snare.
+
+**What to Look For on the Used Market**
+- Pearl Masterworks Custom shells with maple/mahogany construction (2000–2008 vintage)
+- Pearl Icon Rack System (the exact mounting system from the Iowa setup)
+- Paiste RUDE cymbals from the early 2000s — look for the original Paiste RUDE logo without the 2010s era updates
+- Pearl Demon Drive pedals, Iowa-era (2000–2005) — identifiable by hardware details
+
+**Red Flags**
+- "Original Joey Jordison" claims without documentation or provenance
+- Pearl Masterworks shells with post-2010 badging sold as "Iowa era"
+- Counterfeit signature sticks — buy from established retailers only`,
+    },
+    // Section 4: Where to Buy
+    whereToBuy: {
+      title: 'Where to Find Joey Jordison Gear',
+      channels: [
+        {
+          channel: 'Authorized Dealers (New Gear)',
+          description: 'For signature items still in production (JJ1365 snare, Promark sticks, Paiste RUDE cymbals, Pearl Demon Drive), any Pearl authorized dealer stocks or can order these. Major chains — Guitar Center, Sweetwater, Musician\'s Friend — carry most items. Call ahead for the JJ1365 as it\'s sometimes a special order.',
+          searchTerms: ['Pearl JJ1365', 'Promark TX515W', 'Paiste RUDE Wild']
+        },
+        {
+          channel: 'Reverb.com',
+          description: 'The primary marketplace for used and vintage drum gear. Search specifically for "Pearl Masterworks joey jordison", "Pearl JJ1365", "Paiste RUDE iowa", and "Pearl Icon Rack". Reverb\'s buyer protection makes it the safest option for higher-value purchases. Set up saved searches for alerts when items match.',
+          searchTerms: ['Pearl Masterworks joey jordison', 'Paiste RUDE 2001', 'Pearl Icon Rack', 'Joey Jordison Pearl snare']
+        },
+        {
+          channel: 'eBay',
+          description: 'Wider inventory but less buyer protection than Reverb for drum gear. Good for sticks, smaller items, and parts. For kits and cymbals, prefer Reverb unless eBay has documented seller feedback for drum gear specifically.',
+          searchTerms: ['Joey Jordison signature', 'Pearl Masterworks black purple', 'Paiste RUDE heavy']
+        },
+        {
+          channel: 'Vintage Drum Dealers',
+          description: 'Specialists in vintage Pearl and Paiste gear can source Iowa-era pieces with authenticated provenance. Sites like Vintage Drum Center and Classic Drum Shop occasionally have Iowa-era Pearl Masterworks configurations. Expect to pay a premium for authenticated pieces.',
+          searchTerms: ['Pearl Masterworks 2001', 'Pearl custom iowa era', 'vintage Paiste RUDE']
+        }
+      ]
+    },
+    // Section 5: Modern Alternatives
+    alternatives: {
+      title: 'Modern Alternatives: Closest Equivalents to Discontinued Items',
+      items: [
+        {
+          original: 'Pearl Masterworks Custom (Iowa custom purple finish)',
+          alternative: 'Pearl Masters Maple Complete',
+          reason: 'Same maple-forward shell character, available in custom finishes, closer to the Iowa sonic signature than the Reference series',
+          priceRange: '$2,500–4,000'
+        },
+        {
+          original: 'Paiste 2002 Power Ride 22" (discontinued models)',
+          alternative: 'Paiste RUDE Power Ride 22"',
+          reason: 'The RUDE version is still in production and delivers the same aggressive, heavy character Joey needed for Slipknot\'s dense arrangements',
+          priceRange: '$300–400'
+        },
+        {
+          original: 'Pearl Demon Drive (Iowa-era configuration)',
+          alternative: 'Pearl P-3002D Demon Drive (current)',
+          reason: 'Direct-drive mechanism unchanged in concept; current model updated for ergonomics while maintaining the speed response Joey\'s technique required',
+          priceRange: '$500–650'
+        },
+        {
+          original: 'Evans Genera HD Dry (Iowa studio snare head)',
+          alternative: 'Evans MX White Marching Head or Evans HD Dry',
+          reason: 'The HD Dry is still in production — no substitute needed. Pair with the JJ1365 snare for the complete Iowa snare package',
+          priceRange: '$18–25'
+        }
+      ]
+    },
+    // FAQ Section
+    faq: [
+      {
+        question: "Is Joey Jordison's Pearl signature snare still available?",
+        answer: "Yes. The Pearl Joey Jordison Signature Snare (model JJ1365) remains in production as of 2026. It's a 13\" x 6.5\" steel shell with 1.0mm beaded construction — the same design Joey played throughout his career with Slipknot. Street price is $250–350 at Pearl authorized dealers including Guitar Center, Sweetwater, and Musician's Friend. This is one of the few Joey Jordison signature items that never went out of production after his passing in 2021. For context on how he used this snare in the studio, see the [Iowa drum setup article](/articles/iowa-drum-setup)."
+      },
+      {
+        question: 'What drum kit did Joey Jordison use for the Iowa tour?',
+        answer: "For the Iowa tour (2001–2002), Joey Jordison played a Pearl Masterworks Custom kit in a custom purple/black fade finish. The configuration included six toms (8\", 10\", 12\", 14\" rack toms, 16\" and 18\" floor toms) and double 22\" x 18\" bass drums, mounted on a Pearl Icon Rack System. This same setup was used both on the Iowa album and for the Disasterpieces live shows — including the famous rotating drum platform performance. The cymbals were Paiste RUDE and 2002 series. The complete Iowa gear breakdown, including studio recording specifics, is at the [Iowa drum setup article](/articles/iowa-drum-setup). For Joey's full career gear timeline, visit his [drummer profile](/drummer/joey-jordison)."
+      },
+      {
+        question: 'How do I build a setup that sounds like Joey Jordison?',
+        answer: "Start with the three non-negotiables: the Pearl JJ1365 signature snare ($250–350), Promark TX515W signature sticks ($13/pair), and at least one Paiste RUDE Wild China cymbal ($250–320). These three items are the most distinctive elements of the Joey Jordison sound and all remain in production. Add Paiste RUDE Wild Hi-Hats and Power Crashes to complete the cymbal voice. For the kit itself, any Pearl maple-shell drum (Export or higher) gets you the shell character — a used Pearl Masterworks or Reference is the closest match to the Iowa studio sound. Run Evans EMAD heads on the bass drums and Evans EC2S on the toms. The full Iowa-replica kit with signature items runs $2,000–2,500 on a budget build, or $6,000–10,000 for a genuine Pearl Reference / Masterworks setup. See our [complete Joey Jordison gear breakdown](/articles/whats-in-joey-jordisons-kit) for the full setup across all eras."
+      },
+      {
+        question: 'What happened to Joey Jordison signature items after he passed away?',
+        answer: "Pearl and Promark have continued producing their respective Joey Jordison signature items since his passing on July 26, 2021. The Pearl JJ1365 snare and Promark TX515W sticks remain active catalog items as tributes to his legacy. Paiste RUDE cymbals — while not signature-branded specifically to Joey — are the same models he used throughout his career and remain in full production. There has been no announcement of plans to discontinue any of these items. Collectors seeking documented tour-used or personally owned Joey Jordison gear should look for estate auction items or documented provenance pieces, which occasionally surface on Reverb and through specialist drum dealers."
+      },
+      {
+        question: 'Where can I find Joey Jordison Pearl Masterworks drums for sale?',
+        answer: "Joey Jordison's Iowa-era Pearl Masterworks Custom kits (2000–2004 vintage) appear occasionally on Reverb.com — search 'Pearl Masterworks joey jordison' or 'Pearl Masterworks custom purple black'. eBay is a secondary source with wider inventory but less buyer protection for high-value purchases. Vintage drum specialists like Vintage Drum Center and Classic Drum Shop occasionally source authenticated Iowa-era Pearl pieces. For a more budget-friendly option, a used Pearl Reference Series kit (2008–present) delivers similar maple/mahogany shell character at $2,000–4,000 depending on configuration. The Pearl Masterworks is a fully custom build, so no two configurations are identical — verify shell sizes and hardware match before purchasing."
+      }
+    ],
+    // Videos
+    videos: [
+      { youtubeId: 'tUibKh0Z--c', title: 'Disasterpieces Drum Solo (Official)', description: 'The legendary Iowa-era rotating platform drum solo — the setup in action' },
+      { youtubeId: 'zRS9uKs3Rlk', title: 'People=Shit - Drum Cam (London 2002)', description: 'Iowa tour live performance showing the full Masterworks / RUDE setup' }
+    ],
+    // Related Content
+    relatedAlbums: ['iowa-drum-setup', 'whats-in-joey-jordisons-kit', 'joey-jordison-drum-setup'],
+    relatedDrummers: [2, 10, 11], // Joey Jordison, Jay Weinberg, Vinnie Paul
+    relatedArticles: ['best-metal-snare-drums', 'fastest-double-bass-drummers'],
+    // Gear Still Available (for component rendering)
+    gearStillAvailable: {
+      title: "Joey's Gear You Can Buy Today",
+      items: [
+        {
+          item: 'Pearl Joey Jordison Signature Snare (JJ1365)',
+          available: true,
+          priceRange: '$250–350',
+          notes: 'Still in production at all major drum retailers'
+        },
+        {
+          item: 'Promark TX515W Joey Jordison Signature Sticks',
+          available: true,
+          priceRange: '$12–15 per pair',
+          notes: 'Available at all major music retailers'
+        },
+        {
+          item: 'Paiste RUDE Wild Hi-Hats 14"',
+          available: true,
+          priceRange: '$200–280',
+          notes: 'Same model Joey used — still in production'
+        },
+        {
+          item: 'Paiste RUDE Power Crashes (16"–19")',
+          available: true,
+          priceRange: '$180–260 each',
+          notes: 'Full Iowa crash lineup still available new'
+        },
+        {
+          item: 'Paiste RUDE Wild China (20" and 22")',
+          available: true,
+          priceRange: '$250–380 each',
+          notes: 'The signature Slipknot china sound — still in production'
+        },
+        {
+          item: 'Pearl Demon Drive Double Pedal',
+          available: true,
+          priceRange: '$500–650 (current model)',
+          notes: 'Updated but same direct-drive concept; Iowa-era used units $150–300 on Reverb'
+        },
+        {
+          item: 'Pearl Masterworks / Reference Series (Iowa-era used)',
+          available: true,
+          priceRange: '$2,000–6,000 used',
+          notes: 'Available on Reverb and through vintage drum dealers'
+        }
+      ]
+    },
+    // Conclusion
+    conclusion: {
+      title: "Joey's Legacy: Gear That Outlives the Drummer",
+      content: `Joey Jordison's gear tells a story about how he thought about drumming: every piece was chosen for a specific purpose, built to endure extreme playing, and designed to serve the music rather than impress observers. The Pearl JJ1365 wasn't just a snare — it was an engineering solution to the problem of cutting through Slipknot's nine-instrument wall of sound. The Paiste RUDE cymbals weren't just cymbals — they were chosen because they were physically capable of withstanding his playing night after night.
+
+The good news for drummers and collectors in 2026 is that most of Joey's sound is still accessible. The JJ1365 snare and Promark TX515W sticks are in production. The Paiste RUDE lineup hasn't changed. The Pearl Reference and Masters series maintain the shell character of his Iowa-era Masterworks setup.
+
+What's harder to find is the Iowa-era Masterworks kit in its original purple/black fade configuration — but these kits surface on Reverb and through vintage dealers for collectors willing to be patient. And for players who just want the sound rather than the artifact, a budget build using the three signature items (snare, sticks, one RUDE China) plus a mid-tier Pearl kit delivers the essential Joey Jordison character at a fraction of the full replica cost.
+
+**Quick Reference:**
+- **JJ1365 Signature Snare**: Buy new from any Pearl dealer — $250–350
+- **TX515W Signature Sticks**: Any music retailer — $13/pair
+- **Paiste RUDE**: Authorized Paiste dealers or Guitar Center — $150–380 per cymbal
+- **Iowa-era Pearl Masterworks**: Reverb.com, patience required — $2,000–6,000
+- **Full Replica Build**: $2,000–2,500 budget / $6,000–10,000 authentic
+
+For the complete story of Joey's gear across all eras, start with the [Joey Jordison drummer profile](/drummer/joey-jordison), then read the [Iowa drum setup breakdown](/articles/iowa-drum-setup) and the [What's In Joey Jordison's Kit article](/articles/whats-in-joey-jordisons-kit).
+
+Rest in power, #1. 🥁`
+    }
   }
 };
 

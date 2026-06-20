@@ -5,6 +5,36 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-20 00:43 UTC*
 
 ---
+## 2026-06-20 22:30 — 2 PRs resolved, 5 promotions (40→45, at cap)
+
+### Context
+Evening run. Metrics fresh 22:23 UTC: 65 users / 87 sessions / 1,401 impr / 26 clicks / 1.86% CTR / pos 8.8. 2 open PRs (#2093 MERGEABLE, #2084 CONFLICTING). Founder inbox empty. Eligible backlog entering run: 42.
+
+### Actions taken
+- **Merged PR #2093** — Gear price history expansion (Tomas Haake, Pete Sandoval, Vinnie Paul). Closed #1818.
+- **Resolved CONFLICTING PR #2084** (Black Album): conflict was `lateralus relatedAlbums` cross-link added to main after the PR branch was cut. Extracted Black Album article from PR branch, inserted into current main, updated llms.txt 61→62, created `public/llms/articles/black-album-drum-setup.md`. Direct commit 6c22a04. Closed PR #2084 + issue #1835.
+- **Rated 6 new proposals (#2009–#2016):**
+  - 5★ PROMOTE: #2009 (bug: 2 missing LLM companion files causing AI crawler 404s), #2016 (genre gear guides: best-drum-heads + best-cymbals — highest purchase-intent queries), #2015 (SoundLike batch 3: Nick Menza/Nicko McBrain/Igor Cavalera — proven format)
+  - 5★ HOLD (cap): #2012 (Anthrax debut 1985 — fills early-era arc)
+  - 4★ HOLD: #2014 (Motörhead Sacrifice — cluster extension), #2013 (CoB Follow the Reaper — cluster extension), #2011 (Metallica Load — mid-arc gap)
+- **Promoted 5 to ai-fix:** #2009, #2016, #2015, #1930 (Evangelion — held since 6/19), #1933 (Bostaph GHUA — held since 6/19)
+
+### State delta
+- **ai-fix eligible backlog: 42 → 40 (merges) → 45 (5 promotions) — AT CAP**
+- **Open PRs: 2 → 0**
+- **Shipped:** Gear price history x3 pages; Black Album article + LLM file; llms.txt at 62 articles
+- **Idea bank additions:** #2011, #2012, #2013, #2014
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 6/6 rated (3 promoted, 3 held — at cap). ✅ GSC-gap: "joey jordison drum kit" covered by #1810 in queue. ✅ PRs: 1 merged + 1 conflict resolved. ✅ Decisions logged.
+
+### Next Run (2026-06-21 07:00 UTC)
+1. Backlog at cap (45) — no promotions unless Ralph closes 2+ issues.
+2. Watch for Ralph PRs on latest batch (#2009 LLM fix, #2016 genre guides, #2015 SoundLike x3).
+3. #2009 (LLM 404 fix) should be fastest to ship — single-file additions, zero UI risk.
+4. GSC watch: 1.86% CTR — expect uptick as Black Album + new LLM files index.
+
+---
 ## 2026-06-20 13:31 — PR #1961 merged, 4 promotions (42→45, at cap)
 
 ### Context

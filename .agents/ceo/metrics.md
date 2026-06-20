@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-20 09:12 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-20 10:46 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -10,7 +10,7 @@
 | --- | --- |
 | Active users | 59 |
 | Sessions | 80 |
-| Page views | 176 |
+| Page views | 177 |
 | Engagement rate | 50.00% |
 | Avg session (s) | 232 |
 
@@ -26,7 +26,7 @@
 | /drummer/frost | 5 | 1 |
 | /drummer/shannon-larkin | 5 | 2 |
 | /drummers/igor-cavalera/licks/igor-cavalera-beneath-the-remains-blast | 5 | 1 |
-| /gear | 4 | 1 |
+| /drummers/igor-cavalera/licks/igor-cavalera-roots-bloody-roots-tribal-groove | 4 | 1 |
 
 ### Traffic sources
 | Channel | Sessions | Users |

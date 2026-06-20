@@ -1,7 +1,7 @@
 # MetalForge — llms.txt
 # https://llmstxt.org/
 # Last updated: 2026-06-18
-# Content: 63 drummers, 157 lick pages (100% coverage), 60 articles, 10 techniques, 19 bands, 57 comparisons
+# Content: 63 drummers, 157 lick pages (100% coverage), 61 articles, 10 techniques, 19 bands, 57 comparisons
 
 > MetalForge is the definitive database of professional metal drummers and their gear. 63 drummers, complete gear specs, 157 signature drum lick breakdowns, performance videos, and career histories.
 
@@ -32,7 +32,7 @@
 
 ## Content Articles
 
-- [Articles](/llms/articles/): 60 album drum setup breakdowns (Painkiller, Master of Puppets, etc.)
+- [Articles](/llms/articles/): 61 album drum setup breakdowns and gear guides (Painkiller, Master of Puppets, etc.)
 
 ## Lists & Reference
 

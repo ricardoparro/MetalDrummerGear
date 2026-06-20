@@ -202,7 +202,7 @@ Optimised for AI retrieval on queries like "what kit does Lars Ulrich play?" or 
 
 ---
 
-## Articles (60 total)
+## Articles (61 total)
 
 Clean Markdown gear breakdowns for every album drum-setup and "what's in <drummer>'s kit" article, ingestible in one request.
 
@@ -214,6 +214,7 @@ Clean Markdown gear breakdowns for every album drum-setup and "what's in <drumme
 | Number of the Beast Drum Setup: The Gear Behind Clive Burr's Performance (& Nicko's Legacy) | Nicko McBrain | [Markdown](https://metalforge.io/llms/articles/number-of-the-beast-drum-setup.md) |
 | Iowa Drum Setup: Joey Jordison's Gear Breakdown | Joey Jordison | [Markdown](https://metalforge.io/llms/articles/iowa-drum-setup.md) |
 | What's In Joey Jordison's Legendary Kit: Complete Gear Breakdown | Joey Jordison | [Markdown](https://metalforge.io/llms/articles/whats-in-joey-jordisons-kit.md) |
+| Joey Jordison Signature Gear: What's Available Today & How to Get His Sound | Joey Jordison | [Markdown](https://metalforge.io/llms/articles/joey-jordison-signature-gear-guide.md) |
 | What's In Danny Carey's Mind-Bending Kit: Complete Gear Breakdown | Danny Carey | [Markdown](https://metalforge.io/llms/articles/whats-in-danny-careys-kit.md) |
 | What's In Tomas Haake's Polyrhythmic Arsenal: Complete Gear Breakdown | Tomas Haake | [Markdown](https://metalforge.io/llms/articles/whats-in-tomas-haakes-kit.md) |
 | obZen Drum Setup: Tomas Haake's Legendary "Bleed" Gear Breakdown | Tomas Haake | [Markdown](https://metalforge.io/llms/articles/obzen-drum-setup.md) |

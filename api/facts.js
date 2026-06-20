@@ -116,6 +116,17 @@ export default function handler(req, res) {
     })),
   };
 
+  // Generate CollectionPage JSON-LD schema (Issue #1665)
+  const collectionSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: 'Metal Drummer Quick Facts',
+    description: 'Quick facts, records, and trivia about metal drummers. Fastest blast beats, most expensive kits, career milestones, and gear stats from 60+ pros.',
+    url: 'https://metalforge.io/facts',
+    publisher: { '@type': 'Organization', name: 'MetalForge', url: 'https://metalforge.io' },
+    about: { '@type': 'Thing', name: 'Metal Drumming' },
+  };
+
   // Group facts by category
   const factsByCategory = facts.reduce((acc, fact) => {
     if (!acc[fact.category]) acc[fact.category] = [];
@@ -146,6 +157,11 @@ export default function handler(req, res) {
   <meta name="twitter:description" content="Speed records, gear stats, famous nicknames, and career records of legendary metal drummers.">
   <meta name="twitter:site" content="@MetalDrumGear">
   
+  <!-- JSON-LD CollectionPage Schema (Issue #1665) -->
+  <script type="application/ld+json">
+  ${JSON.stringify(collectionSchema, null, 2)}
+  </script>
+
   <!-- JSON-LD FAQPage Schema -->
   <script type="application/ld+json">
   ${JSON.stringify(faqSchema, null, 2)}

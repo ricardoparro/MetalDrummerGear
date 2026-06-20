@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-20 19:38 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-20 22:23 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 64 |
-| Sessions | 86 |
-| Page views | 201 |
-| Engagement rate | 58.14% |
-| Avg session (s) | 742 |
+| Active users | 65 |
+| Sessions | 87 |
+| Page views | 203 |
+| Engagement rate | 57.47% |
+| Avg session (s) | 739 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -26,14 +26,14 @@
 | /tools/setup-builder | 6 | 1 |
 | /drummer/shannon-larkin | 5 | 2 |
 | /drummers/igor-cavalera/licks/igor-cavalera-beneath-the-remains-blast | 5 | 1 |
-| /drummer/joey-jordison | 4 | 4 |
+| /drummer/eloy-casagrande | 4 | 2 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 45 | 41 |
+| Organic Search | 47 | 43 |
 | Direct | 37 | 20 |
-| Unassigned | 11 | 9 |
+| Unassigned | 12 | 10 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

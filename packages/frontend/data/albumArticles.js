@@ -30234,6 +30234,270 @@ For deeper exploration:
 - **Death metal blast beat cluster**: [None So Vile drum setup — Flo Mounier](/articles/none-so-vile-drum-setup)
 - **Blast beat technique overview**: [Blast beat technique at MetalForge](/technique/blast-beats/drummers)`
     }
+  },
+
+  // Charlie Benante — Among the Living (1987) — Big Four Anthrax album article
+  'charlie-benante-among-the-living-drum-setup': {
+    slug: 'charlie-benante-among-the-living-drum-setup',
+    albumTitle: 'Among the Living',
+    artist: 'Anthrax',
+    drummer: 'Charlie Benante',
+    drummerId: 12,
+    relatedDrummerSlug: 'charlie-benante',
+    year: 1987,
+    genre: 'Thrash Metal',
+    label: 'Island Records / Megaforce Records',
+    studio: 'Kajem/Victory Studios, Gladwyne, PA',
+    producer: 'Eddie Kramer',
+    isAlbumArticle: true,
+    datePublished: '2026-06-20',
+    dateModified: '2026-06-20',
+    author: 'MetalForge Editorial',
+    title: "Among the Living Drum Setup: Charlie Benante's Anthrax Gear Breakdown",
+    description: "Complete breakdown of Charlie Benante's drum setup on Anthrax's Among the Living (1987). Tama kit, Paiste cymbals, and the double bass techniques that defined Big Four thrash metal.",
+    seoKeywords: ['charlie benante drum setup', 'charlie benante drum kit', 'anthrax drummer gear', 'among the living drum setup', 'charlie benante among the living', 'anthrax 1987 drums', 'big four thrash drums'],
+    ogImage: '/images/albums/among-the-living-drums.webp',
+    intro: {
+      title: 'The Album That Defined Big Four Thrash Drumming',
+      content: `Released on March 22, 1987, Anthrax's Among the Living cemented the band's place alongside Metallica, Megadeth, and Slayer as architects of the Big Four of thrash metal. At the center of its relentless aggression was Charlie Benante — a drummer who didn't just keep up with thrash's escalating demands, he helped define them.
+
+Produced by Eddie Kramer — the legendary engineer behind Jimi Hendrix, Led Zeppelin, and KISS — at Kajem/Victory Studios in Gladwyne, Pennsylvania, Among the Living gave Benante's drumming a production context unlike anything in thrash at the time. Kramer's experience with dynamics and room sound translated into a drum mix that was simultaneously raw and full — every double bass hit landed with physical weight, every snare crack cut like a blade.
+
+The album opens with the title track, inspired by Stephen King's The Stand, and within seconds Benante's signature blend of power and precision is fully apparent. The sustained double bass patterns, the judicious fills that never sacrifice the groove, the cymbal accents timed to hit exactly when the riff demands: this is mastery.
+
+Songs like "Caught in a Mosh," "Indians," and "I Am the Law" showcased Benante's ability to maintain blistering tempos while retaining swing and musicality. Unlike some thrash drummers who played through the songs, Benante played with them — reacting to guitar riffs, accenting vocal phrases, building tension through dynamic restraint and explosive release.
+
+This article examines every piece of equipment Charlie Benante used to record Among the Living, plus the techniques that made this album one of the definitive thrash drumming performances of the 1980s. Among the Living completes the Big Four thrash album breakdown at MetalForge alongside Metallica's Master of Puppets, Slayer's Reign in Blood, and Megadeth's Rust in Peace.`,
+      keyPoints: [
+        'Recorded at Kajem/Victory Studios, Gladwyne, PA in 1986-87',
+        'Produced by Eddie Kramer, famous for Jimi Hendrix and Led Zeppelin recordings',
+        'Benante\'s pioneering double bass technique is fully realized throughout',
+        'Among the Living established the template for Big Four Anthrax drumming',
+        'Album peaked at #62 on the Billboard 200 — major commercial breakthrough for thrash'
+      ]
+    },
+    drumKit: {
+      title: "Benante's 1987 Tama Arsenal",
+      brand: 'Tama',
+      model: 'Tama Artstar II',
+      finish: 'Black Lacquer',
+      config: {
+        bassdrums: ['22" x 16" Bass Drum (x2)'],
+        toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom', '13" x 10" Rack Tom'],
+        floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom'],
+        shells: 'Birch shells with die-cast hoops'
+      },
+      description: `For Among the Living, Charlie Benante used a Tama Artstar II kit — the professional-grade series that Tama offered before introducing the Starclassic line. By 1986-87, Benante had been a Tama endorser for several years and had developed a clear preference for the brand's hardware and shell construction.
+
+The dual 22" bass drums were non-negotiable for Benante. His pioneering sustained double bass technique required two separate kick drums, each independently tuned and miked. The physical symmetry of two separate instruments gave him the consistency and punch that a double pedal on a single drum could not match — particularly important for the relentless patterns on tracks like "Indians" and "I Am the Law."
+
+The extended tom configuration — three rack toms and two floor toms — reflected Benante's compositional approach. As Anthrax's primary songwriter, he thought about drums in musical terms: more toms meant more melodic options for fills and transitions. The toms on Among the Living aren't used as wallpaper; they're structural elements within the arrangements.
+
+Tama's birch shells delivered the punchy, focused attack that cut through Scott Ian and Dan Spitz's guitar assault. Birch naturally produces more upper-midrange presence than maple, giving each tom hit definition and articulation even in dense passages. The die-cast hoops added sustain control and the durability needed for Benante's powerful rimshots.`,
+      notes: [
+        'Two separate 22" bass drums — not a double pedal setup',
+        'Birch shells for punchy, high-definition attack',
+        'Extended tom configuration reflects Benante\'s compositional mindset',
+        'Die-cast hoops for sustain control and durability',
+        'Long-term Tama endorsee since the mid-1980s'
+      ],
+      estimatedValue: '$2,000-3,000 (1987 era)'
+    },
+    snare: {
+      title: 'The Anthrax Crack',
+      brand: 'Tama',
+      model: 'Tama Artstar Steel Snare',
+      size: '14" x 6.5"',
+      shell: 'Steel shell',
+      description: `The snare sound on Among the Living is one of thrash metal's defining characteristics — a sharp, cutting crack that anchors every song with authority. Benante achieved this with a Tama steel snare, tuned high for maximum articulation and attack.
+
+The steel shell provided the bright, aggressive tone that defined 1987-era thrash production. Steel delivers more upper-frequency content than brass or wood, resulting in a snare that cuts through even the densest guitar textures. Eddie Kramer's production captured this brightness without letting it become harsh — a crucial balance.
+
+Benante's tuning philosophy prioritized attack over warmth. High tension on the batter head eliminated unwanted ring and maximized the initial transient — the crack that makes thrash snare work so satisfying. The snare wires were tensioned tight, giving the drum its characteristic snap on even the fastest single-stroke passages.
+
+This snare sound became a template for an entire generation of thrash drummers. The combination of steel shell, high tuning, and Kramer's production approach created something immediately identifiable — an important part of what makes Among the Living sound like itself rather than any other thrash album of the era.`,
+      tuningSetting: 'High tension for maximum attack and crack',
+      heads: 'Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$200-300 (1987 era)'
+    },
+    cymbals: {
+      title: 'Paiste 2002 Thrash Weapons',
+      brand: 'Paiste',
+      series: 'Paiste 2002',
+      setup: [
+        { type: 'Hi-Hats', model: 'Paiste 2002 14" Sound Edge Hi-Hats', position: 'Left side', notes: 'Crisp attack for fast thrash patterns' },
+        { type: 'Crash', model: 'Paiste 2002 16" Medium Crash', position: 'Far left', notes: 'Quick response for rapid accents' },
+        { type: 'Crash', model: 'Paiste 2002 18" Medium Crash', position: 'Left of toms', notes: 'Primary crash cymbal' },
+        { type: 'Crash', model: 'Paiste 2002 20" Heavy Crash', position: 'Right of toms', notes: 'Big crash for major accent points' },
+        { type: 'Ride', model: 'Paiste 2002 22" Heavy Ride', position: 'Far right', notes: 'Powerful ride with clear bell for accents' },
+        { type: 'China', model: 'Paiste 2002 18" China', position: 'Above floor tom', notes: 'Trashy accents throughout' }
+      ],
+      description: `Charlie Benante's cymbal setup on Among the Living centered on Paiste's 2002 series — a line that had become the gold standard for heavy rock and metal drumming by the mid-1980s. The 2002s were known for their powerful, full-bodied sound and exceptional durability under aggressive playing.
+
+The 14" Sound Edge hi-hats were central to Benante's thrash vocabulary. The wavy bottom cymbal design created a crisp, defined chick sound and fast closure response — essential for the tight hi-hat patterns that drive tracks like "Caught in a Mosh" and "Madhouse." These hats articulated clearly even at the blistering tempos Benante employed.
+
+Multiple crash cymbals in different sizes gave Benante dynamic range across the album. The 16" provided fast, cutting accents for quick transitions, while the 18" served as the primary workhorse crash. The 20" Heavy Crash appeared for the album's most intense moments — the massive accents that punctuate thrash's most aggressive passages.
+
+The 18" China cymbal provided the explosive, trashy accents that are a signature element of thrash metal production. Benante used it strategically rather than constantly, making its appearances land with maximum impact. The China's aggressive overtones cut through the dense guitar arrangement and announced key structural moments in the songs.`,
+      estimatedValue: '$1,500-2,000 total (1987 era)'
+    },
+    hardware: {
+      title: 'Tama HP35 Camco Foundation',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'Tama',
+          model: 'Tama HP35 Camco',
+          notes: 'His legendary chain-drive pedals, used from 1984 to 2010',
+          description: 'The Tama HP35 Camco chain-drive pedal was Benante\'s weapon of choice for over 26 years. The Camco design provided a direct, responsive feel with consistent spring action that allowed his pioneering double bass technique to develop and flourish. These pedals are central to the Among the Living drum sound — the reason his double bass patterns feel controlled rather than frantic.'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Tama',
+          model: 'Tama Titan Hi-Hat Stand',
+          notes: 'Stable support for fast hi-hat footwork',
+          description: 'Heavy-duty Tama stand providing the stability needed for the precise hi-hat patterns throughout Among the Living.'
+        },
+        {
+          type: 'Throne',
+          brand: 'Tama',
+          model: 'Tama 1st Chair',
+          notes: 'Consistent seating for demanding performances'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth 2B Wood Tip',
+          notes: 'Heavy sticks for power and projection through the album sessions'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke 3 Clear (batter), front head removed or ported for mic placement',
+        toms: 'Remo Emperor Clear (batter), Remo Ambassador Clear (resonant)',
+        snare: 'Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)'
+      }
+    },
+    recordingTechniques: {
+      title: "Eddie Kramer's Drum Production Approach",
+      content: `Eddie Kramer brought a distinctly different production sensibility to Among the Living than the dry, brutal approach Rick Rubin had applied to thrash albums. Kramer's background with Hendrix, Zeppelin, and KISS gave him an understanding of how to make drums feel powerful through dynamics and space — not just volume.
+
+**Room and Ambience:**
+Unlike the dead, close-miked approach of Reign in Blood, Kramer gave the drums more room to breathe. Kajem/Victory Studios had good natural acoustics, and Kramer used this to add depth to the drum sound. The result is a kit that feels live and three-dimensional — you can sense the physical space around the drums.
+
+**Microphone Setup:**
+- Kick drums: Individual close mics on each bass drum for punch and definition
+- Snare: Top and bottom microphones for body and crack
+- Toms: Close mics on each (likely Sennheiser MD421s)
+- Overheads: Pair of condensers capturing cymbal wash and room sound
+- Room mics: Used to add depth and the sense of live performance
+
+**The Double Bass Sound:**
+Kramer gave particular attention to the bass drum sound, working with Benante to dial in a kick tone that was tight and punchy without sacrificing the low-end weight the music demanded. The ported or removed front heads allowed direct sound capture with minimal ring.
+
+**Mix Balance:**
+The snare sits forward in the mix — closer than on many thrash records. This deliberate choice emphasized Benante's backbeats and gave the rhythmic structure clarity. The cymbals are present but not overwhelming, allowing the full-range kit sound to breathe and create a more musical overall texture.`,
+      keyTechniques: [
+        'Room ambience preserved for depth and live feel',
+        'Individual close mics on each bass drum for definition',
+        'Snare forward in the mix for rhythmic clarity',
+        'Dynamic balance between close and room miking'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'Among the Living',
+        bpm: '175',
+        signature: '4/4',
+        highlights: [
+          'Album opener establishes the double bass template immediately',
+          'Multiple tempo sections requiring smooth transitions',
+          'Sustained intensity over five-plus minutes',
+          'Stephen King\'s The Stand-inspired epic structure'
+        ],
+        gearNotes: 'Double bass drums drive the main riff sections throughout. Hi-hats maintain a tight pattern in the verse grooves.'
+      },
+      {
+        track: 'Caught in a Mosh',
+        bpm: '175',
+        signature: '4/4',
+        highlights: [
+          'The definitive Anthrax groove — almost impossible not to mosh to',
+          'Crossover thrash influence from S.O.D. days is audible',
+          'Benante\'s swing within thrash is most apparent here',
+          'One of the most kinetic thrash songs ever recorded'
+        ],
+        gearNotes: 'Hi-hat work is central — the driving 16th-note patterns show the Sound Edge hi-hats at their best. China cymbal punctuates the chorus accents.'
+      },
+      {
+        track: 'I Am the Law',
+        bpm: '165',
+        signature: '4/4',
+        highlights: [
+          'Judge Dredd-inspired track with complex arrangement',
+          'Sustained double bass throughout the main sections',
+          'Dynamic shifts from verse groove to chorus intensity',
+          'One of Benante\'s most celebrated recorded performances'
+        ],
+        gearNotes: 'The double bass sustain on the chorus sections showcases the HP35 Camco pedals at their best. Bass drum tone is full and punchy throughout.'
+      },
+      {
+        track: 'Indians',
+        bpm: '145',
+        signature: '4/4',
+        highlights: [
+          'Native American rhythmic influence embedded in the groove',
+          'Slightly slower tempo allows Benante\'s dynamics to shine',
+          'Memorable drum intro and breakdown sections',
+          'One of the album\'s most melodic and enduring tracks'
+        ],
+        gearNotes: 'Floor toms feature prominently in the intro and breakdown. The lower tempo showcases Benante\'s groove and feel beyond pure speed.'
+      }
+    ],
+    evolution: {
+      title: 'From Among the Living to Today',
+      content: `Among the Living represents a specific moment in Charlie Benante's gear evolution — before the Tama Starclassic era, when the Artstar II was his primary weapon. In the decades since, his equipment has evolved significantly while maintaining the same core philosophy: two bass drums, a powerful snare, and cymbals that can survive the punishment of thrash.`,
+      thenVsNow: [
+        { category: 'Kit', then: 'Tama Artstar II (birch)', now: 'Tama Starclassic Maple' },
+        { category: 'Snare', then: 'Tama Artstar Steel', now: 'Tama Charlie Benante Signature Steel' },
+        { category: 'Cymbals', then: 'Paiste 2002', now: 'Paiste 2002 / Signature / RUDE mix' },
+        { category: 'Pedals', then: 'Tama HP35 Camco (1984-2010)', now: 'Tama Speed Cobra (2010-present)' },
+        { category: 'Sticks', then: 'Vic Firth 2B', now: 'Vic Firth Charlie Benante Signature' }
+      ]
+    },
+    // FAQ Section — targets 'charlie benante drum setup', 'charlie benante drum kit', 'anthrax drummer gear', 'among the living drum setup'
+    faq: [
+      {
+        question: 'What drum kit did Charlie Benante use on Among the Living?',
+        answer: 'Charlie Benante used a Tama Artstar II kit on Among the Living (1987). The setup included dual 22" bass drums, three rack toms (10", 12", 13"), and two floor toms (14" and 16") with birch shells and die-cast hoops. This configuration directly supported his pioneering double bass technique that became a hallmark of Anthrax\'s thrash sound.'
+      },
+      {
+        question: 'What is Charlie Benante\'s drum setup?',
+        answer: 'Charlie Benante\'s drum setup on Among the Living consisted of a Tama Artstar II kit with dual 22" bass drums, Paiste 2002 cymbals (including 14" Sound Edge hi-hats and an 18" China), a Tama steel snare, and the legendary Tama HP35 Camco pedals he used from 1984 to 2010. In modern use he plays Tama Starclassic Maple, Paiste cymbals, and Vic Firth Charlie Benante Signature sticks.'
+      },
+      {
+        question: 'What gear did the Anthrax drummer use on Among the Living?',
+        answer: 'Anthrax drummer Charlie Benante used Tama Artstar II drums, Paiste 2002 cymbals, and Tama HP35 Camco bass drum pedals on Among the Living. The album was produced by Eddie Kramer at Kajem/Victory Studios in 1987. Benante\'s double bass patterns — particularly on "Caught in a Mosh," "I Am the Law," and "Indians" — are considered among the finest thrash drumming performances of the 1980s.'
+      },
+      {
+        question: 'What is the drum setup on Among the Living?',
+        answer: 'The drum setup on Among the Living features Charlie Benante\'s Tama Artstar II kit with dual 22" bass drums, multiple rack and floor toms, Paiste 2002 cymbals, and a Tama steel snare. Produced by Eddie Kramer, the recording gave the drums more room and ambience than typical thrash albums of the era, resulting in a sound that feels live and powerful rather than purely dead and close-miked.'
+      }
+    ],
+    videos: [],
+    relatedAlbums: ['reign-in-blood-drum-setup', 'rust-in-peace-drum-setup', 'master-of-puppets-drum-setup'],
+    relatedDrummers: [4, 1, 3], // Dave Lombardo, Lars Ulrich, Gene Hoglan
+    relatedArticles: ['thrash-metal-drummers', 'big-four-thrash', 'double-bass-technique'],
+    relatedLicks: [],
+    conclusion: {
+      title: 'The Blueprint for Big Four Anthrax Drumming',
+      content: `Among the Living stands as Charlie Benante's definitive studio statement — the moment where everything he had been developing since joining Anthrax in 1983 crystallized into something timeless. The double bass patterns, the groove within the aggression, the musical intelligence applied to thrash metal's raw energy: it's all here, captured by Eddie Kramer in a production that still sounds vital decades later.
+
+For drummers studying the Big Four, Among the Living is essential listening alongside Metallica's Master of Puppets, Slayer's Reign in Blood, and Megadeth's Rust in Peace. Each album represents a different vision of what thrash drumming could achieve. Benante's contribution is the one most concerned with feel — you can hear him swinging, breathing, making the music move in ways that pure speed alone cannot.
+
+The Tama HP35 Camco pedals, the Artstar II birch shells, the Paiste 2002 cymbals: the gear was excellent, but the man behind it is what made Among the Living transcendent. Charlie Benante didn't just play these songs — he wrote most of them, conceived the arrangements, and then executed them with the authority of someone who knew exactly what he wanted to say.
+
+For the full Charlie Benante gear story beyond Among the Living, visit the [Charlie Benante drummer profile](/drummer/charlie-benante). For Anthrax's complete drummer history and band context, see the [Anthrax band page](/bands/anthrax).`
+    }
   }
 };
 

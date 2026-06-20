@@ -1,1 +1,1 @@
-issue-1803: SEO batch — 4 new "How to Sound Like" guides already applied. All entries exist in soundLikeGuides.js (Matt Greiner priority 11, George Kollias priority 12, Travis Orbin priority 13, Flo Mounier priority 14) and LLM markdown files exist at public/llms/guides/how-to-sound-like-{matt-greiner,george-kollias,travis-orbin,flo-mounier}.md. JS syntax validates. No further changes needed.
+already-applied

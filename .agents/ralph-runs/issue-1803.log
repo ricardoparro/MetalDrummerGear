@@ -1,0 +1,11 @@
+All changes for #1803 were already applied in a prior run (commits `dc628ec` / `59c0887`). Here's the 5-line summary:
+
+**Problem:** Zero "How to Sound Like" guides existed for Matt Greiner (August Burns Red), George Kollias (Nile), Travis Orbin (Periphery), and Flo Mounier (Cryptopsy) — high-intent GSC search clusters with no landing pages.
+
+**Files changed:** `packages/frontend/data/soundLikeGuides.js` (4 new complete guide entries with intro, technique, gear, tuning, practice, FAQ, and related sections), `public/llms/guides/how-to-sound-like-matt-greiner.md`, `public/llms/guides/how-to-sound-like-george-kollias.md`, `public/llms/guides/how-to-sound-like-travis-orbin.md`, `public/llms/guides/how-to-sound-like-flo-mounier.md`.
+
+**Fix:** Added all 4 guide data entries to `SOUND_LIKE_GUIDES` with ≥3 technique sections, ≥5 FAQ entries, ≥3 internal links (drummer profile + licks hub + album articles), and LLM markdown companion files for each. Sitemap auto-includes all 4 via the existing `soundLikeGuides.map()` pattern.
+
+**Validation:** All 4 slugs confirmed present in `soundLikeGuides.js`; all 4 LLM markdown files exist at `public/llms/guides/`; each guide has full required sections including FAQ (5 Q&A each), 3 technique patterns, budget setups, and internal links; sitemap coverage is automatic.
+
+**Follow-ups:** None — quality gate fully met (each guide word count 1900–2000, ≥3 technique sections, ≥5 FAQ, ≥3 internal links).

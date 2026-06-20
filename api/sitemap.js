@@ -520,6 +520,8 @@ export default function handler(req, res) {
     { loc: '/llms/bands.md', priority: '0.6', changefreq: 'monthly' },
     // Issue #1309: gear price timeline data for Lars Ulrich, Joey Jordison, Dave Lombardo.
     { loc: '/llms/gear-history.md', priority: '0.5', changefreq: 'monthly' },
+    // Issue #1782: per-drummer gear history LLM markdown
+    ...gearPriceHistoryDrummers.map(slug => ({ loc: `/llms/gear-history/${slug}.md`, priority: '0.5', changefreq: 'monthly' })),
     // Issue #1561: drummer birth dates as LLM markdown for birthday/calendar AI queries.
     { loc: '/llms/birthdays.md', priority: '0.5', changefreq: 'monthly' },
     // Issue #1190: drummer comparison pages as ingestible markdown.

@@ -30234,6 +30234,251 @@ For deeper exploration:
 - **Death metal blast beat cluster**: [None So Vile drum setup — Flo Mounier](/articles/none-so-vile-drum-setup)
 - **Blast beat technique overview**: [Blast beat technique at MetalForge](/technique/blast-beats/drummers)`
     }
+  },
+
+  // Gavin Harrison — Porcupine Tree Drum Setup (Fear of a Blank Planet / In Absentia)
+  'gavin-harrison-porcupine-tree-drum-setup': {
+    slug: 'gavin-harrison-porcupine-tree-drum-setup',
+    articleType: 'drummer-kit',
+    drummer: 'Gavin Harrison',
+    drummerId: 47,
+    band: 'Porcupine Tree',
+    bands: ['Porcupine Tree', 'King Crimson', 'The Pineapple Thief'],
+    albumTitle: 'Fear of a Blank Planet',
+    albumYear: 2007,
+    genre: 'Progressive Metal',
+    country: 'UK',
+    isAlbumArticle: true,
+    datePublished: '2026-06-20',
+    dateModified: '2026-06-20',
+    author: 'MetalForge Editorial',
+    // SEO
+    title: 'Gavin Harrison Drum Setup — Porcupine Tree Fear of a Blank Planet Gear Guide',
+    description: "Complete breakdown of Gavin Harrison's drum setup for Porcupine Tree. Sonor SQ2 drums, Zildjian K Custom Special Dry cymbals, signature snares, and the polyrhythmic techniques behind Fear of a Blank Planet and In Absentia — progressive metal's most studied drumming.",
+    seoKeywords: ['gavin harrison drum setup', 'gavin harrison drum kit', 'porcupine tree drummer gear', 'fear of a blank planet drum setup', 'gavin harrison porcupine tree', 'gavin harrison sonor sq2', 'gavin harrison zildjian', 'progressive rock drummer gear', 'in absentia drums', 'gavin harrison gear'],
+    ogImage: '/images/drummers/gavin-harrison.webp',
+    // Introduction
+    intro: {
+      title: "Gavin Harrison's Drum Setup: The Engine Behind Porcupine Tree's Prog Metal Sound",
+      content: `Gavin Harrison's drum setup for Porcupine Tree is one of the most analysed in progressive rock and progressive metal. From the jazz-inflected ghost note work on *In Absentia* (2002) to the breathtaking polyrhythmic architecture of *Fear of a Blank Planet* (2007), Harrison elevated drum production in a genre already demanding by any standard. Understanding his gear reveals why: every component in his rig is optimised for the specific challenge of making odd time signatures feel inevitable, intricate patterns feel musical, and extreme dynamics feel natural.
+
+Harrison joined Porcupine Tree in 2002 — just in time for *In Absentia*, the album that brought the band wider recognition and introduced listeners worldwide to his approach. The controlled power on "Blackest Eyes," the delicate cymbal textures of "Heartattack in a Layby," and the seven-minute polyrhythmic showcase "The Sound of Muzak" made clear he was operating at a different level. When *Fear of a Blank Planet* arrived in 2007, that reputation was confirmed: the title track's interlocking odd-meter groove became a masterclass distributed across drumming forums globally.
+
+Harrison's gear philosophy matches his musical philosophy: precision first, power second. He builds his setup around instruments that respond to nuance, reward subtlety, and allow extreme dynamic shifts within a single song. The Sonor SQ2 custom kit, his Zildjian K Custom Special Dry cymbals (developed in direct collaboration with Zildjian), and his signature snares are not rock star accessories — they are precision tools shaped by decades of exacting progressive music.
+
+This article breaks down the complete Gavin Harrison drum setup as used across the *Fear of a Blank Planet* and *In Absentia* era, examining every component and what it contributes to his sound.`,
+      keyPoints: [
+        'Sonor SQ2 custom drums — German engineering for maximum sensitivity and resonance',
+        'Zildjian K Custom Special Dry cymbals developed in collaboration with Harrison',
+        'Sonor Gavin Harrison Signature Snares (14" x 5.25" brass and 12" Protean)',
+        'Sonor Perfect Balance Pedal for dynamic foot control',
+        'Modern Drummer award-winner — multiple times in Progressive category',
+        'Fear of a Blank Planet (2007) and In Absentia (2002) as career-defining recordings'
+      ]
+    },
+    // Drum Kit Section
+    drumKit: {
+      title: "The Sonor SQ2: Gavin Harrison's Custom Kit",
+      brand: 'Sonor',
+      model: 'Sonor SQ2 Series',
+      finish: 'Custom (varies by era)',
+      config: {
+        bassdrums: ['22" x 17" Bass Drum'],
+        toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
+        floorToms: ['14" x 13" Floor Tom', '16" x 15" Floor Tom'],
+        shells: 'Premium maple — thin shells optimised for sensitivity and resonance'
+      },
+      description: `The Sonor SQ2 is not a production kit with a standard shell pack — it is a fully custom instrument built to Harrison's exact specifications. Sonor's SQ2 program allows each shell to be configured for wood type, thickness, bearing edge profile, and hardware placement. Harrison's configuration prioritises thin maple shells for maximum resonance and sensitivity: these drums respond to whisper-quiet ghost notes as clearly as they respond to full-force accents.
+
+The 22" bass drum sits at the smaller end of what many hard rock or metal drummers choose, but it serves Harrison's purpose precisely. A smaller kick diameter means faster response and more articulate patterns — essential for the intricate rhythmic figures in songs like "Fear of a Blank Planet," "Open Car," and "Anesthetize." On *In Absentia*, the kick drum is often felt more than heard, locking with Steven Wilson's bass lines and guitar arrangements rather than dominating the mix.
+
+His four-piece tom configuration (10", 12", 14", 16") covers the full melodic range a progressive rock drummer needs for melodic fills and orchestrated transitions. Harrison treats his toms as melodic instruments: tuned in musical intervals, voiced to complement the guitar harmonics, and played with a sensitivity that makes them sing rather than thud. The SQ2's mounting hardware preserves shell resonance fully — no clamps or brackets that dampen vibration — which is essential for the tuned melodic tom work Porcupine Tree's arrangements frequently demand.
+
+The SQ2 kits used during the *Fear of a Blank Planet* and *In Absentia* period were configured to excel at precisely the dynamic range those albums required: from the lightest brush-stroke textures to full-band thunderous passages, with equal clarity and control at every point on that spectrum.`,
+      notes: [
+        'Fully custom build — no two SQ2 kits are identical',
+        'Thin maple shells for sensitivity and resonance',
+        '22" kick for articulation over raw power',
+        'Four toms tuned as melodic instruments',
+        'Hardware preserves full shell resonance'
+      ],
+      estimatedValue: '$6,000–9,000 (custom Sonor SQ2 kit)'
+    },
+    // Snare Section
+    snare: {
+      title: 'The Signature Snares: Brass and Protean',
+      brand: 'Sonor',
+      model: 'Sonor Gavin Harrison Signature Snares',
+      size: '14" x 5.25" (primary) and 12" x 5" Protean',
+      shell: 'Brass (14") / varies (12" Protean)',
+      description: `Harrison's signature snares are the result of years of collaboration with Sonor and represent one of his most significant contributions to the instrument. The 14" x 5.25" brass-shell primary snare has become a benchmark in progressive rock drumming: it provides warmth and body that a steel shell can't deliver, while still projecting powerfully enough to cut through Porcupine Tree's dense arrangements. The .25" additional depth over a standard 5" snare gives it more body on quieter passages without sacrificing the crack on rimshots.
+
+The brass shell is the critical choice here. On *In Absentia* and *Fear of a Blank Planet*, Harrison frequently uses the snare as a textural instrument as much as a rhythmic one — ghost notes layered under hi-hat patterns, delicate brush-work, quiet single strokes between heavy backbeats. Brass responds to light touches in a way steel does not: the warmth of the material means soft strokes sing rather than rattle, allowing the snare to function across the full dynamic range the albums demand.
+
+The 12" Protean snare is Harrison's studio and textural tool — a tighter, more intimate drum designed for the close-mic, forensic quality of *Fear of a Blank Planet*'s production. The smaller diameter gives it a quick, focused attack ideal for the studio context where individual stroke definition is paramount. Its tight response makes it the ideal instrument for the complex ghost note passages that appear throughout the album.
+
+Both snares are configured for medium to medium-high tuning: responsive enough for the softest ghost notes, authoritative enough for the hardest rimshot accents. Harrison's die-cast hoops provide consistent tension and excellent rim click sounds used extensively in Porcupine Tree's more textural passages.`,
+      tuningSetting: 'Medium to medium-high — maximum dynamic range from ghost note to accent',
+      heads: 'Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$600–900 (Gavin Harrison Signature Snares)'
+    },
+    // Cymbals Section
+    cymbals: {
+      title: 'Zildjian K Custom Special Dry: Harrison\'s Co-Creation',
+      brand: 'Zildjian',
+      series: 'K Custom Special Dry',
+      setup: [
+        { type: 'Hi-Hats', model: 'Zildjian 14" K Custom Special Dry Hi-Hats', position: 'Left side', notes: 'Dry, quick decay — essential for complex, fast patterns without wash buildup' },
+        { type: 'Crash', model: 'Zildjian 16" K Custom Special Dry Crash', position: 'Left of hi-hats', notes: 'Fast attack, controlled decay for articulate small-section accents' },
+        { type: 'Crash', model: 'Zildjian 18" K Custom Special Dry Crash', position: 'Over rack toms', notes: 'Primary crash — controlled wash that clears quickly in dense arrangements' },
+        { type: 'Ride', model: 'Zildjian 21" K Custom Special Dry Ride', position: 'Right side', notes: 'Centrepiece cymbal — dry, complex, defined ping and bell for all ride work' },
+        { type: 'China/Trash', model: 'Zildjian 18" K Custom Trash China', position: 'Above floor tom', notes: 'Selective use for trashy accent moments in more aggressive passages' }
+      ],
+      description: `The Zildjian K Custom Special Dry series was developed in direct collaboration with Gavin Harrison, and these cymbals are inseparable from his sound on *In Absentia* and *Fear of a Blank Planet*. The fundamental design principle — dry, controlled sound with fast decay — addresses the specific problem that conventional bright, washy cymbals create for complex polyrhythmic drumming: they build up and obscure detail.
+
+When Harrison is layering three or four rhythmic ideas simultaneously — a hi-hat pattern in 4, a ride bell in 3, a snare ghost note sequence in 5, a kick pattern in 7 — every sound needs its own space. Cymbals that sustain too long bleed into the next rhythmic phrase and muddy the entire structure. The Special Dry design, with its raw, hammered finish and minimal lathing, produces a sound that speaks immediately and then decays quickly, leaving room for the next event.
+
+The 21" Special Dry Ride is the centrepiece of Harrison's setup and the defining sound of his Porcupine Tree work. It has a clear, articulate ping on the bow, a complex but controlled wash, and a cutting bell — all of which appear prominently in *Fear of a Blank Planet* songs like "My Ashes" and "Sentimental." At low volumes it provides delicate texture; driven hard it becomes a sustained sound mass. This range within a single cymbal is rare and essential.
+
+The 14" Special Dry Hi-Hats drive the intricate rhythmic conversations Harrison builds throughout Porcupine Tree's catalogue. They respond instantly to variations in stick pressure and angle, allowing the subtle open/closed gradations that separate his hi-hat technique from simpler approaches. On "In Absentia" and "Blackest Eyes," the hi-hat nuance is as compositionally significant as the snare or kick patterns.
+
+His crashes (16" and 18" Special Dry) speak fast and clear — perfect for the dramatic section-ending accents in songs like "The Sound of Muzak" and "Anesthetize" where the crash must register precisely without overstaying.`,
+      notes: [
+        'Co-developed with Harrison — designed for polyrhythmic clarity',
+        'Dry, fast-decay design prevents wash buildup in complex arrangements',
+        '21" Special Dry Ride is the centrepiece of his recorded sound',
+        '14" Special Dry Hi-Hats for intricate, nuanced hi-hat work',
+        'Industry standard for progressive rock and jazz-influenced metal drumming'
+      ],
+      estimatedValue: '$1,800–2,500 (full K Custom Special Dry setup)'
+    },
+    // Hardware Section
+    hardware: {
+      title: 'Sonor Perfect Balance: The Foundation',
+      pedals: 'Sonor Perfect Balance Pedal',
+      hihatStand: 'Sonor 600 Series Hi-Hat Stand',
+      throne: 'Sonor Professional Throne',
+      stands: 'Sonor 600 Series',
+      description: `The Sonor Perfect Balance Pedal is central to Harrison's technique in a way that few drummers' pedal choices are. The "Perfect Balance" design provides even, consistent resistance throughout the entire stroke — from toe-down to heel-up — which means dynamic control with the foot is as refined as dynamic control with the hand. For Harrison, whose bass drum is frequently used as a melodic element within polyrhythmic patterns rather than just a rhythmic anchor, this even response is not a preference but a requirement.
+
+On *Fear of a Blank Planet* — particularly in tracks like "Fear of a Blank Planet" and "Anesthetize" — the kick drum operates within complex cross-rhythmic structures where ghost notes and accent-level strokes alternate in rapid succession. The Perfect Balance pedal's even feel allows Harrison to vary bass drum dynamics across a wide range cleanly, without the inconsistency that uneven pedal response would introduce.
+
+His throne positioning sits lower than many rock or metal drummers, giving him a mechanical advantage for powerful playing while preserving mobility across the full kit. This position — combined with his preference for flat cymbal placement and minimal physical excess in setup — reflects the principle that informs every element of his rig: maximum musical output from minimum physical effort.
+
+Sonor's 600 Series hardware provides the stability needed for intense playing while allowing fine adjustments to cymbal angles and heights. Harrison positions cymbals low and flat, reducing the travel distance between strokes and allowing faster, more efficient movement between cymbals — a practical necessity for the rapid cymbal orchestrations *In Absentia* and *Fear of a Blank Planet* demand.`,
+      notes: [
+        'Perfect Balance Pedal for nuanced dynamic foot control',
+        'Low throne position for leverage and efficiency',
+        'Flat cymbal placement to minimise travel between strokes',
+        'Full Sonor hardware for consistent feel and stability'
+      ],
+      estimatedValue: '$1,200–1,600 (full hardware package)'
+    },
+    // Gear Timeline
+    gearTimeline: [
+      {
+        era: 'In Absentia Era',
+        years: '2002–2004',
+        albums: ['In Absentia', 'Deadwing'],
+        description: 'Harrison joins Porcupine Tree and establishes his setup around progressive studio demands.',
+        gear: {
+          drums: 'Sonor custom kit (developing SQ2 relationship)',
+          snare: 'Early Sonor signature snare work',
+          cymbals: 'Zildjian K Custom Special Dry (established setup)',
+          pedals: 'Sonor Perfect Balance Pedal'
+        },
+        notes: 'In Absentia introduced Harrison\'s jazz-inflected prog metal approach to a mainstream rock audience.'
+      },
+      {
+        era: 'Fear of a Blank Planet Era',
+        years: '2007–2009',
+        albums: ['Fear of a Blank Planet', 'The Incident'],
+        description: 'Harrison at his Porcupine Tree peak — polyrhythmic complexity at its most refined.',
+        gear: {
+          drums: 'Sonor SQ2 Series (custom specifications)',
+          snare: 'Sonor Gavin Harrison Signature 14" x 5.25" brass primary',
+          cymbals: 'Full Zildjian K Custom Special Dry setup (21" Ride centrepiece)',
+          pedals: 'Sonor Perfect Balance — essential for dynamic foot work'
+        },
+        notes: 'Fear of a Blank Planet is the definitive recording of this setup. The title track is the most-studied Gavin Harrison performance in drumming education.'
+      },
+      {
+        era: 'King Crimson / Pineapple Thief Era',
+        years: '2014–Present',
+        albums: ['Closure/Continuation (2022)', 'Taming the Lions (Pineapple Thief)'],
+        description: 'Three-drummer King Crimson lineup; Porcupine Tree reunion; Protean snare developed.',
+        gear: {
+          drums: 'Sonor SQ2 Series (refined configuration)',
+          snare: 'Sonor Gavin Harrison Signature — both 14" and 12" Protean',
+          cymbals: 'Zildjian K Custom Special Dry (continuous)',
+          pedals: 'Sonor Perfect Balance'
+        },
+        notes: 'Porcupine Tree\'s 2022 reunion album Closure/Continuation uses the same core setup that defined Fear of a Blank Planet, demonstrating how stable and purpose-built Harrison\'s rig has always been.'
+      }
+    ],
+    // Playing Style Section
+    playingStyle: {
+      title: 'How Harrison\'s Setup Serves Progressive Metal',
+      content: `Gavin Harrison's gear choices are inseparable from his musical philosophy — which is, fundamentally, that drums should function as melodic and harmonic instruments within an arrangement, not merely as a rhythmic framework beneath it.
+
+**The Polyrhythm Problem:**
+Polyrhythmic drumming creates a specific acoustic problem: multiple rhythmic layers must remain individually audible within a single kit's output. Harrison's setup solves this at every level. The Sonor SQ2's thin maple shells articulate each stroke with exceptional clarity — ghost notes don't disappear into the shell, and accents don't overwhelm quieter surrounding strokes. The Zildjian K Custom Special Dry cymbals decay quickly, leaving the sonic field open for the next layer. The Sonor Perfect Balance Pedal allows bass drum dynamics precise enough to function as a separate compositional voice.
+
+**In Absentia vs. Fear of a Blank Planet:**
+The two albums showcase different applications of the same setup. *In Absentia* (2002) is the introduction: Harrison uses the kit's dynamic range and sensitivity to blend progressive rock textures with heavier passages. "Blackest Eyes" demonstrates the power side; "Heartattack in a Layby" demonstrates the delicate end. Both coexist because the rig handles them both.
+
+*Fear of a Blank Planet* (2007) is the advanced class. The title track runs in 6/4 with a three-against-four snare figure against a kick drum pattern that implies a third grouping — three distinct time layers simultaneously. Harrison's setup makes this audible: the snare cuts through with the brass shell's warmth and authority, the kick sits precisely in the mix with the Perfect Balance pedal's dynamic control, and the hi-hat pattern drives the whole without obscuring either.
+
+**The Studio Context:**
+Both albums were recorded with Steven Wilson at the production helm, prioritising detail and sonic transparency over compression and density. Harrison's gear is optimised for exactly this context: it captures nuance, rewards dynamics, and allows the forensic production approach Wilson employed. A setup built for power and sustain — the conventional metal drummer's rig — would undermine the entire production philosophy these albums represent.`,
+      keyTechniques: [
+        'Polyrhythmic layering — three or more independent rhythmic groupings simultaneously',
+        'Ghost note integration as compositional melody, not just texture',
+        'Extreme dynamic range within a single song or section',
+        'Hi-hat manipulation as a primary rhythmic voice (not just time-keeping)',
+        'Bass drum as melodic element in cross-rhythmic structures'
+      ]
+    },
+    // FAQ Section
+    faq: [
+      {
+        question: 'What is Gavin Harrison\'s drum setup?',
+        answer: "Gavin Harrison's drum setup centres on a custom Sonor SQ2 kit with thin maple shells, a 22\" bass drum, two rack toms (10\", 12\"), and two floor toms (14\", 16\"). His cymbals are the Zildjian K Custom Special Dry series — developed in direct collaboration with Zildjian — anchored by a 21\" Special Dry Ride and 14\" Special Dry Hi-Hats. He plays Sonor Gavin Harrison Signature snares (14\" x 5.25\" brass and 12\" Protean) and uses the Sonor Perfect Balance Pedal for bass drum control. See the full profile at [Gavin Harrison at MetalForge](/drummer/gavin-harrison) and his [lick hub](/drummers/gavin-harrison/licks) for technique breakdowns."
+      },
+      {
+        question: 'What drum kit does Gavin Harrison use?',
+        answer: "Gavin Harrison plays a custom Sonor SQ2 kit. The SQ2 is Sonor's fully bespoke program — each kit is built to the player's exact specifications for shell material, thickness, bearing edge, and hardware placement. Harrison's configuration uses thin maple shells for exceptional sensitivity and resonance, optimised for the polyrhythmic, dynamically complex playing that defines his work with Porcupine Tree on albums like Fear of a Blank Planet (2007) and In Absentia (2002). His kit includes a 22\" bass drum, 10\" and 12\" rack toms, and 14\" and 16\" floor toms — all tuned as melodic instruments within Porcupine Tree's progressive arrangements."
+      },
+      {
+        question: 'What gear does the Porcupine Tree drummer use?',
+        answer: "Gavin Harrison — the drummer for Porcupine Tree — uses a custom Sonor SQ2 drum kit, Zildjian K Custom Special Dry cymbals (which he co-developed with Zildjian), Sonor Gavin Harrison Signature snare drums, and the Sonor Perfect Balance bass drum pedal. His cymbal setup is built around a 21\" K Custom Special Dry Ride as the centrepiece, with 14\" Special Dry Hi-Hats and 16\" and 18\" Special Dry crashes. This rig has remained consistent across Porcupine Tree's key recordings from In Absentia (2002) through Fear of a Blank Planet (2007) and the reunion album Closure/Continuation (2022)."
+      },
+      {
+        question: 'What is the drum setup on Fear of a Blank Planet?',
+        answer: "The drum setup on Fear of a Blank Planet (2007) is Gavin Harrison's Sonor SQ2 custom kit — thin maple shells with a 22\" bass drum and four toms (10\", 12\", 14\", 16\") — paired with Zildjian K Custom Special Dry cymbals, including the 21\" Special Dry Ride that drives much of the album's polyrhythmic texture. His Sonor Gavin Harrison Signature 14\" x 5.25\" brass snare is the primary snare throughout. The Sonor Perfect Balance Pedal allows the dynamic foot control central to tracks like the title track's interlocking 6/4 patterns. The album was produced by Steven Wilson and recorded to capture the maximum detail and dynamics Harrison's setup provides."
+      }
+    ],
+    // Related content
+    relatedAlbums: ['whats-in-gavin-harrisons-kit', 'blackwater-park-drum-setup', 'fear-inoculum-drum-setup'],
+    relatedDrummers: [47, 18, 14], // Gavin Harrison, Matt Halpern, Danny Carey
+    relatedArticles: ['prog-metal-drummer-gear', 'best-ride-cymbals-metal'],
+    conclusion: {
+      title: 'Gavin Harrison: Where Precision Meets Musicality',
+      content: `Gavin Harrison's drum setup for Porcupine Tree is the physical expression of a musical philosophy: that the drum kit should function as a complete compositional instrument, not merely a rhythmic support system. Every component of his rig — the Sonor SQ2's thin maple shells, the Zildjian K Custom Special Dry cymbals, the Sonor Perfect Balance Pedal — reflects the demands that *Fear of a Blank Planet* and *In Absentia* make on the drummer playing them.
+
+The SQ2 shells respond to ghost notes as clearly as to full-force accents. The K Custom Special Dry cymbals decay quickly, keeping the sonic landscape clear for the next rhythmic layer. The Perfect Balance pedal allows bass drum dynamics precise enough to operate as a melodic voice within a polyrhythmic structure. None of these choices are arbitrary.
+
+*Fear of a Blank Planet* (2007) stands as the most complete recorded demonstration of this setup's capabilities. The title track alone — with its interlocking odd-meter layers, simultaneous three-against-four snare figure, and dynamically precise bass drum — is a clinic in what the right gear, the right technique, and the right musical context can produce together. It has been studied by drummers worldwide not as an exercise in technical excess but as a model of how complexity and groove can coexist.
+
+For drummers approaching Harrison's setup:
+
+- **Full drummer profile**: [Gavin Harrison at MetalForge](/drummer/gavin-harrison)
+- **Signature lick breakdowns**: [Gavin Harrison Lick Hub](/drummers/gavin-harrison/licks)
+- **Full gear profile**: [What's In Gavin Harrison's Kit](/articles/whats-in-gavin-harrisons-kit)
+- **LLM summary**: [Gavin Harrison Porcupine Tree Drum Setup — LLM](/llms/articles/gavin-harrison-porcupine-tree-drum-setup.md)
+
+The most important lesson from Harrison's gear is not what he plays — it's why every choice enables the music those instruments serve. That philosophy, more than any specific piece of hardware, is what has made him one of progressive rock and progressive metal's most enduring voices.`
+    }
   }
 };
 

@@ -9,7 +9,7 @@
 
 ## Overview
 
-Released on September 17, 1996, Tool's "Ænima" is widely regarded as one of the most influential metal albums ever made — and the drum performances Danny Carey delivered on it are a significant reason why. Complex, dynamic, and rooted in a distinct gear setup that would change dramatically by the time Lateralus arrived in 2001, Ænima captures Carey at a raw creative peak.
+Released on <time datetime="1996-09-17">September 17, 1996</time>, Tool's "Ænima" is widely regarded as one of the most influential metal albums ever made — and the drum performances Danny Carey delivered on it are a significant reason why. Complex, dynamic, and rooted in a distinct gear setup that would change dramatically by the time Lateralus arrived in 2001, Ænima captures Carey at a raw creative peak.
 
 The album was recorded at Grandmaster Recording in Los Angeles with producer David Bottrill at the controls. Working with Danny's Pearl Masters Custom kit, Bottrill captured the full weight and complexity of Carey's playing without sacrificing detail.
 

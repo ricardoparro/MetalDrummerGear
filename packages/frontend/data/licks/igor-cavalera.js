@@ -33,7 +33,7 @@ export const licks = {
       "Let the snare backbeat feel powerful and unforced, matching the song's primal energy"
     ],
     "tutorial": {
-      "youtubeId": "6lK7tpBv7HE",
+      "youtubeId": "EzclxDSPbXI",
       "startTime": 0,
       "title": "Sepultura - Roots Bloody Roots - Drum Cover",
       "description": "Full-song drum cover following Igor Cavalera's tribal groove on Roots Bloody Roots"
@@ -93,7 +93,7 @@ export const licks = {
       "Build stamina to sustain powerful, even double-bass across a full performance"
     ],
     "tutorial": {
-      "youtubeId": "awEBplk-C7A",
+      "youtubeId": "Dsr5ZCLI76A",
       "startTime": 0,
       "title": "Sepultura - Refuse/Resist - Drum Cover",
       "description": "Full-song drum cover following Igor Cavalera's double-bass drive on Refuse/Resist"
@@ -153,7 +153,7 @@ export const licks = {
       "Maintain clarity at extreme speed so every stroke contributes to the groove"
     ],
     "tutorial": {
-      "youtubeId": "YxHMJqsHPjQ",
+      "youtubeId": "MrQ8ZkZxN3c",
       "startTime": 0,
       "title": "Sepultura - Beneath the Remains - Drum Cover",
       "description": "Full-song drum cover of Igor Cavalera's thrash-blast masterclass on Beneath the Remains"

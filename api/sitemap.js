@@ -42,6 +42,8 @@ import { DRUMMER_EVOLUTION } from '../packages/frontend/data/drummerEvolution.js
 import { CURATED_MATCHUPS } from '../packages/frontend/data/battles.js';
 // Issue #1794: Genre gear guide pages — /guides/best-[gear]-for-[genre]
 import { GENRE_GEAR_GUIDES } from '../packages/frontend/data/genreGearGuides.js';
+// Issue #1799: Genre hub + 8 genre landing pages
+import { getAllGenreSlugs } from '../packages/frontend/data/genres.js';
 
 // Issue #623: Content Scale Sprint - All 62 drummers now in sitemap
 const drummers = [
@@ -478,6 +480,9 @@ export default function handler(req, res) {
       };
     }),
     ...gearItems.map(g => ({ loc: `/gear/item/${g.slug}`, priority: '0.7', changefreq: 'monthly' })),
+    // Issue #1799: Genre hub (/genres) + 8 genre landing pages (/genre/<slug>)
+    { loc: '/genres', priority: '0.9', changefreq: 'weekly' },
+    ...getAllGenreSlugs().map(slug => ({ loc: `/genre/${slug}`, priority: '0.8', changefreq: 'monthly' })),
     // Issue #1171: /bands index hub + all 19 band pages at the correct plural path.
     { loc: '/bands', priority: '0.9', changefreq: 'weekly' },
     ...bandPages.map(slug => ({ loc: `/bands/${slug}`, priority: '0.8', changefreq: 'monthly' })),

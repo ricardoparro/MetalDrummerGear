@@ -432,6 +432,8 @@ export default function handler(req, res) {
     { loc: '/guess-the-kit', priority: '0.95', changefreq: 'weekly' }, // Issue #706: Photo Quiz
     { loc: '/kit-builder', priority: '0.9', changefreq: 'weekly' },
     { loc: '/gear', priority: '0.9', changefreq: 'weekly' },
+    // Issue #1823: Budget-tier gear shopping hub — high commercial intent
+    { loc: '/gear-by-budget', priority: '0.9', changefreq: 'weekly' },
     { loc: '/quotes', priority: '0.9', changefreq: 'weekly' },
     { loc: '/facts', priority: '0.8', changefreq: 'monthly' }, // Issue #452: Quick Facts (FAQPage schema) — #1051 de-orphan
     { loc: '/lists', priority: '0.9', changefreq: 'weekly' },

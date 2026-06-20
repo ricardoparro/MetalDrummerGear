@@ -34,7 +34,7 @@ export const licks = {
       "Sustain consistent snare weight across the full song to maintain the groove's authority at arena volume"
     ],
     "tutorial": {
-      "youtubeId": "#",
+      "youtubeId": "DelhLppPSxY",
       "startTime": 0,
       "title": "Avenged Sevenfold - Hail to the King (Official Music Video)",
       "description": "Official reference for Arin Ilejay's half-time groove on Avenged Sevenfold's Hail to the King"
@@ -112,7 +112,7 @@ export const licks = {
       "Practise the double bass in isolation with a metronome to ensure both feet hit at equal volume and timing"
     ],
     "tutorial": {
-      "youtubeId": "#",
+      "youtubeId": "bT8FEOJEFcI",
       "startTime": 0,
       "title": "Avenged Sevenfold - Shepherd of Fire (Official Music Video)",
       "description": "Official reference for Arin Ilejay's double bass drive and high-energy groove on Shepherd of Fire"
@@ -190,7 +190,7 @@ export const licks = {
       "Build the fill sequence slowly at 100 BPM until it is perfectly accurate, then raise speed in 5 BPM steps"
     ],
     "tutorial": {
-      "youtubeId": "#",
+      "youtubeId": null,
       "startTime": 0,
       "title": "Avenged Sevenfold - God Forsaken (Hail to the King)",
       "description": "Reference for Arin Ilejay's high-tempo fill cascades and driving groove on God Forsaken"

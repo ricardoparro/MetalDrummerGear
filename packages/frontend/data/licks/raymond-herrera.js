@@ -34,7 +34,7 @@ export const licks = {
       "Train endurance through long-form double bass passages before integrating upper body coordination"
     ],
     "tutorial": {
-      "youtubeId": "#",
+      "youtubeId": "7RJsRQOneMY",
       "startTime": 0,
       "title": "Fear Factory - Replica (Demanufacture)",
       "description": "Fear Factory's Replica from Demanufacture — the definitive showcase of Raymond Herrera's machine-gun double bass technique"
@@ -97,7 +97,7 @@ export const licks = {
       "Use the triggered kick sound to reinforce the robotic, processed quality of the industrial groove"
     ],
     "tutorial": {
-      "youtubeId": "#",
+      "youtubeId": "fQz97BYFrMY",
       "startTime": 0,
       "title": "Fear Factory - Edgecrusher (Obsolete)",
       "description": "Fear Factory's Edgecrusher from Obsolete — Raymond Herrera's industrial groove-metal drum pattern and syncopated kick technique"
@@ -160,7 +160,7 @@ export const licks = {
       "Keep snare accents precise and decisive even when the kick is driving at high density underneath"
     ],
     "tutorial": {
-      "youtubeId": "#",
+      "youtubeId": "MuDxo-fbW9c",
       "startTime": 0,
       "title": "Fear Factory - Linchpin (Digimortal)",
       "description": "Fear Factory's Linchpin from Digimortal — Raymond Herrera's snare and bass drum interplay and machine-precise fill technique"

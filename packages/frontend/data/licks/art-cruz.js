@@ -34,7 +34,7 @@ export const licks = {
       "Execute section transitions precisely on the intended beat so the band can lock the transition collectively"
     ],
     "tutorial": {
-      "youtubeId": "#",
+      "youtubeId": "hBj0-dIU8HI",
       "startTime": 0,
       "title": "Lamb of God - Memento Mori (Omens)",
       "description": "Reference for Art Cruz's polyrhythmic groove and double bass foundation on Memento Mori from Omens"
@@ -112,7 +112,7 @@ export const licks = {
       "Keep snare tone dry and authoritative — the punch of the backbeat is what drives the groove metal feel"
     ],
     "tutorial": {
-      "youtubeId": "#",
+      "youtubeId": "v6rB1vOF84w",
       "startTime": 0,
       "title": "Lamb of God - New Colossal Hate (Official Music Video)",
       "description": "Art Cruz's studio debut with Lamb of God — reference for his snare-bass interplay and precision riff-lock groove"
@@ -190,7 +190,7 @@ export const licks = {
       "Build blast endurance in isolation before connecting it to the groove transitions that surround it"
     ],
     "tutorial": {
-      "youtubeId": "#",
+      "youtubeId": "p9d5HMNBFoE",
       "startTime": 0,
       "title": "Lamb of God - Gomorrah (Omens)",
       "description": "Reference for Art Cruz's blast-to-groove transitions and extreme-tempo drumming on Gomorrah from Omens"

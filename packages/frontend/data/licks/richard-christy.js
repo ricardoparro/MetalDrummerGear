@@ -34,7 +34,7 @@ export const licks = {
       "Train musical responsiveness — track the guitar and bass movement while blasting to stay compositionally engaged"
     ],
     "tutorial": {
-      "youtubeId": "#",
+      "youtubeId": "hN8XncMtwAA",
       "startTime": 0,
       "title": "Death - Scavenger of Human Sorrow (The Sound of Perseverance)",
       "description": "Death's Scavenger of Human Sorrow from The Sound of Perseverance — Richard Christy's blast beat sequence at ~230 BPM"
@@ -97,7 +97,7 @@ export const licks = {
       "Sustain technical precision across an eight-minute form by pacing and endurance management throughout"
     ],
     "tutorial": {
-      "youtubeId": "#",
+      "youtubeId": "wK4VPM-0ssU",
       "startTime": 0,
       "title": "Death - Flesh and the Power It Holds (The Sound of Perseverance)",
       "description": "Death's Flesh and the Power It Holds from The Sound of Perseverance — Richard Christy's progressive fill work and meter navigation over eight minutes"
@@ -160,7 +160,7 @@ export const licks = {
       "Approach the drum part compositionally: ask what sound the guitar needs at each moment rather than what pattern to play"
     ],
     "tutorial": {
-      "youtubeId": "#",
+      "youtubeId": "s2EJ1AqPIPg",
       "startTime": 0,
       "title": "Death - Voice of the Soul (The Sound of Perseverance)",
       "description": "Death's Voice of the Soul from The Sound of Perseverance — Richard Christy's linear drumming accompanying Chuck Schuldiner's acoustic guitar"

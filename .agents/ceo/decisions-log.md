@@ -5,6 +5,37 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-20 00:43 UTC*
 
 ---
+## 2026-06-21 10:46 — 10 PRs merged, conflict resolved, 11 promotions (34→42)
+
+### Context
+Morning deep run. Metrics fresh 10:46 UTC: 59 users / 80 sessions / 1,401 impr / 26 clicks / 1.86% CTR / pos 8.8 — CTR holding at 1.86% (strong recovery from 1.34% two days ago; June 19 schema batch indexing). 11 open PRs (10 MERGEABLE, 1 CONFLICTING #1902). 15 new seo-proposals (#1874–#1896). Founder inbox empty.
+
+### Actions taken
+- **Merged 10 PRs:** #1920 (gear-history LLM x3), #1919 (brands sitemap), #1918 (articles LLM 31 files), #1917 (endorsement-news schema), #1916 (tools/compare schema), #1915 (battles sitemap), #1912 (Gavin Harrison article), #1910 (gear-comparison sitemap), #1908 (George Kollias article). PR #1921 was already merged.
+- **Closed 10 issues manually** (no auto-close): #1786, #1782, #1781, #1779, #1708, #1706, #1703, #1783, #1780, #1709.
+- **Resolved CONFLICTING PR #1902** (Charlie Benante Among the Living): extracted article from PR branch, inserted into `albumArticles.js` after Brann Dailor entry, wrote LLM companion file. Direct commit cb2f98f. Closed PR #1902 + issue #1784.
+- **Rated 15 new proposals (#1874–#1896):**
+  - 5★ PROMOTE: #1889 (FAQ for 60 album articles), #1875 (Matt Greiner GSC signal), #1874 (Jaska CoB GSC signal), #1876 (Mikkey Dee GA4 signal), #1893 (Bill Ward debut), #1895 (Lars St. Anger)
+  - 4★ HOLD: #1881 (Adler Wrath), #1880 (Kollias Ithyphallic — 2nd article), #1879 (Erlandsson Khaos), #1878 (Casagrande Quadra), #1877 (Bent TSATS), #1896 (Benante Persistence — 2nd article), #1892 (Scott Travis Firepower)
+  - 3★ HOLD: #1891 (Art Cruz LoG 2020), #1890 (Ray Luzier Paradigm Shift)
+- **Promoted 11 to ai-fix:** #1857 (bug: broken slugs), #1889, #1875, #1874, #1876, #1893, #1895, #1835 (Black Album), #1842 (Bill Ward Paranoid), #1843 (Brann Dailor CTS), #1864 (At the Gates SOTS).
+
+### State delta
+- **ai-fix eligible backlog: 47 → 35 (after merges/closes) → 42 (after 11 promotions)**
+- **Open PRs: 11 → 0**
+- **Shipped:** Brann Dailor article, Gavin Harrison article, George Kollias article, Charlie Benante Among the Living article; /llms/articles/ 31 files; /llms/brands/ sitemap; /llms/gear-comparison/ sitemap; /llms/battles/ sitemap; /llms/gear-history/ 3 files; /endorsement-news schema; /tools/compare schema
+- **Proposals held (idea bank):** #1865 (LoG Sacrament), #1881, #1880, #1879, #1878, #1877, #1896, #1892, #1891, #1890 + all prior held
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 15/15 rated (6 promoted, 9 held — at cap). ✅ GSC-gap: "joey jordison drum kit" 82 impr / 1.22% CTR — #1810 shopping guide already in eligible backlog; no new issue needed. ✅ PRs: 10 merged + 1 conflict resolved. ✅ Atomic splits: no issues >3 days old. ✅ Decisions logged.
+
+### Next Run (2026-06-21 13:00 UTC)
+1. **Ralph queue** — 42 eligible issues; watch for new PRs on this morning's batch.
+2. **#1857 priority** — bug fix: 4 broken relatedAlbum slugs; most atomic issue, should ship fast.
+3. **#1889 FAQ batch** — 60 album articles gaining FAQPage schema; large surface expansion.
+4. **GSC watch** — 1.86% CTR holding; next improvement signal expected from June 19 FAQPage/schema batch across 100+ pages.
+
+---
 ## 2026-06-20 19:00 — Founder issue #1871 split; 7 new proposals rated
 
 ### Context

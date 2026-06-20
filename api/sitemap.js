@@ -543,6 +543,8 @@ export default function handler(req, res) {
     { loc: '/llms/endorsements.md', priority: '0.6', changefreq: 'monthly' },
     // Issue #1435: per-drummer endorsement detail pages — one file per endorsement-tracked drummer.
     ...endorsementDrummers.map(slug => ({ loc: `/llms/endorsements/${slug}.md`, priority: '0.5', changefreq: 'monthly' })),
+    // Issue #1781: per-brand LLM markdown — sitemap entries for 8 files shipped in #1415
+    ...gearBrands.map(b => ({ loc: `/llms/brands/${b.slug}.md`, priority: '0.5', changefreq: 'monthly' })),
     // Issue #1273: tools section LLM citation surface — gear-search, dream-set-builder, kit-builder, gear-comparison, tier-list.
     { loc: '/llms/tools/gear-search.md', priority: '0.6', changefreq: 'monthly' },
     { loc: '/llms/tools/dream-set-builder.md', priority: '0.6', changefreq: 'monthly' },

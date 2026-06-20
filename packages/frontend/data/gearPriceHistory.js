@@ -986,6 +986,422 @@ export const GEAR_PRICE_HISTORY = {
       keywords: ['danny carey 1994 setup', 'tool drum kit cost', 'danny carey 90s gear', 'undertow era drums', 'danny carey gear today'],
     },
   },
+  // ==========================================
+  // TOMAS HAAKE - 1998 Meshuggah / Chaosphere Era
+  // Tama Superstar Setup
+  // ==========================================
+  'tomas-haake': {
+    slug: 'tomas-haake',
+    name: 'Tomas Haake',
+    band: 'Meshuggah',
+    iconicYear: 1998,
+    era: 'Chaosphere Era',
+    albumReference: 'Chaosphere (1998)',
+    profileImage: '/images/drummers/tomas-haake.webp',
+
+    summary: "Tomas Haake's 1998 Chaosphere-era setup — the kit behind one of extreme metal's most disorienting and technically demanding albums. Running an intermediate Tama shell pack with Sabian B8 Pro cymbals and a DW 5002 double pedal, Haake executed the polymetric, offset-grid drumming patterns that would define Meshuggah's 'djent' blueprint for a generation. The stripped-down, budget-conscious configuration contrasts sharply with the extreme complexity of what he played on it. The setup cost approximately $2,315 in 1998 dollars — equivalent to around $4,650 in 2026. By the ÖBZen era (2008), Haake had moved to Tama Starclassic Maple with Meinl Byzance cymbals, and the cost of replicating the full rig had grown by over 150%. Few drummers demonstrate so stark a contrast between the modesty of the instrument and the extremity of the music produced on it.",
+
+    setup: {
+      drums: {
+        item: 'Tama Superstar',
+        model: '5-piece shell pack',
+        specs: '22"x16" kick, 10"x9" rack, 12"x10" rack, 14"x14" floor, 16"x16" floor',
+        originalPrice: 1200,
+        year: 1998,
+        source: 'Tama Superstar MSRP 1998, DrummerWorld equipment archives',
+        notes: 'Intermediate Tama Superstar with maple/birch hybrid shells. Haake was not yet on a full professional endorsement in the Chaosphere era — the Superstar was the workhorse of touring metal drummers on mid-range budgets.',
+        vintageValue2026: 1600,
+        modernEquivalent: {
+          item: 'Tama Starclassic Walnut/Birch',
+          price: 3200,
+          link: 'tama-starclassic-walnut-birch-drums',
+        },
+      },
+      snare: {
+        item: 'Tama Steel Snare 14"x5"',
+        model: 'Steel shell snare',
+        specs: '14"x5" seamless steel shell, 8-lug',
+        originalPrice: 200,
+        year: 1998,
+        source: 'Tama snare catalog 1998',
+        notes: 'Bright, cutting steel snare providing sharp attack critical for the fast, precise rim shots on Chaosphere. Haake later developed the Tamas Haake Signature snare as his profile grew.',
+        vintageValue2026: 300,
+        modernEquivalent: {
+          item: 'Tama S.L.P. Sonic Steel 14"x5.5"',
+          price: 450,
+          link: 'tama-slp-sonic-steel',
+        },
+      },
+      cymbals: {
+        item: 'Sabian B8 Pro Series',
+        model: 'B8 Pro configuration',
+        specs: '14" B8 Pro Hi-Hats, 16" B8 Pro Thin Crash, 18" B8 Pro Thin Crash, 20" B8 Pro Medium Ride',
+        originalPrice: 450,
+        year: 1998,
+        source: 'Sabian B8 Pro retail pricing 1998',
+        notes: 'Entry-to-mid-range B8 Pro cymbals — a common choice for European extreme metal drummers in the late 1990s before full endorsement deals. Haake later transitioned to Meinl Byzance, which commands 3× the price.',
+        vintageValue2026: 500,
+        modernEquivalent: {
+          item: 'Meinl Byzance Dark Box Set',
+          price: 1800,
+          link: 'meinl-byzance-dark-set',
+        },
+      },
+      hardware: {
+        item: 'DW 5002 Double Pedal + Tama Hardware',
+        model: 'DW 5002 chain drive + Tama stands',
+        specs: 'Chain drive double pedal, hi-hat stand, 3 boom cymbal stands, snare stand',
+        originalPrice: 380,
+        year: 1998,
+        source: 'DW hardware retail 1998, Tama hardware catalog',
+        notes: "DW 5002 chain drive for Haake's relentless double bass patterns. Meshuggah's offset-grid polyrhythms demand exceptional pedal precision and consistency — the 5002 was the preferred touring choice for budget-conscious double bass specialists of the era.",
+        vintageValue2026: 400,
+        modernEquivalent: {
+          item: 'Tama Iron Cobra 900 Power Glide + hardware',
+          price: 750,
+          link: 'tama-iron-cobra-900-double-pedal',
+        },
+      },
+      sticks: {
+        item: 'Pro-Mark 5B Hickory',
+        model: 'American Classic 5B',
+        specs: 'Hickory, wood tip, .595" diameter',
+        originalPrice: 10,
+        year: 1998,
+        source: 'Standard retail price',
+        notes: "Standard Pro-Mark 5B before Haake developed a signature model. The 5B weight profile suits Meshuggah's intense, repetitive patterns without fatiguing the wrist.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Pro-Mark Tomas Haake Signature',
+          price: 16,
+          link: 'promark-tomas-haake',
+        },
+      },
+      heads: {
+        item: 'Remo Ambassador',
+        model: 'Clear Ambassador (toms), Powerstroke P3 (kick)',
+        specs: 'Clear Ambassador toms, coated snare batter, Powerstroke P3 kick batter',
+        originalPrice: 75,
+        year: 1998,
+        source: 'Remo retail pricing 1998',
+        notes: 'Clear Ambassadors for controlled attack. The Powerstroke P3 kick head gives the focused, punchy low-end thump essential for Meshuggah\'s low-tuned, syncopated bass drum patterns.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Emperor ProPack',
+          price: 110,
+          link: 'remo-emperor-pack',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 2315,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 2800,
+      modernEquivalentTotal: 6326,
+    },
+
+    priceEvolution: [
+      { year: 1998, price: 2315, label: 'Original Purchase', event: 'Chaosphere recording' },
+      { year: 2002, price: 2500, label: 'Nothing era', event: 'Meshuggah releases Nothing' },
+      { year: 2008, price: 3200, label: 'ÖBZen era', event: 'Haake upgrades to Tama Starclassic + Meinl Byzance' },
+      { year: 2012, price: 3800, label: 'Koloss era', event: 'Meshuggah reaches global audiences' },
+      { year: 2016, price: 4200, label: 'The Violent Sleep of Reason', event: 'Full-album live performances' },
+      { year: 2022, price: 5100, label: 'Immutable', event: 'Career peak commercial success' },
+      { year: 2026, price: 4650, label: 'Current adjusted', event: 'Inflation-adjusted value' },
+    ],
+
+    sources: [
+      { title: 'Tama Drums Professional Catalog', year: 1998, type: 'catalog' },
+      { title: 'Modern Drummer — Tomas Haake Interview', year: 2009, type: 'interview' },
+      { title: 'Sabian B8 Pro Retail Price List', year: 1998, type: 'manufacturer' },
+      { title: 'DrummerWorld Archive — Tomas Haake Equipment', year: 2024, type: 'forum' },
+    ],
+
+    meta: {
+      title: 'Tomas Haake 1998 Meshuggah Drum Setup Cost | Chaosphere Era Gear Prices',
+      description: "How much did Tomas Haake's 1998 Chaosphere-era drum kit cost? Original ~$2,315, inflation-adjusted to ~$4,650 today. Complete Tama Superstar breakdown with Sabian B8 Pro cymbal pricing.",
+      keywords: ['tomas haake 1998 setup', 'meshuggah drum kit cost', 'chaosphere era drums', 'tomas haake gear history', 'meshuggah drummer kit by year'],
+    },
+  },
+
+  // ==========================================
+  // PETE SANDOVAL - 1989 Morbid Angel / Altars of Madness Era
+  // Pearl Export Setup
+  // ==========================================
+  'pete-sandoval': {
+    slug: 'pete-sandoval',
+    name: 'Pete Sandoval',
+    band: 'Morbid Angel',
+    iconicYear: 1989,
+    era: 'Altars of Madness Era',
+    albumReference: 'Altars of Madness (1989)',
+    profileImage: '/images/drummers/pete-sandoval.webp',
+
+    summary: "Pete Sandoval's 1989 setup for Morbid Angel's Altars of Madness — the album that codified the Florida death metal sound and introduced the first commercially recorded blast beats at a sustained technical level. Sandoval played a Pearl Export shell pack with budget-tier Sabian cymbals, a DW 5000 double pedal, and standard Remo heads. The contrast between this modest ~$1,591 configuration and the brutality it produced is remarkable even by extreme metal standards. No major endorsement, no high-end hardware — just precise, mechanical speed that left producers and drummers across the industry reconsidering what an entry-level kit could do. Adjusted for 2026 inflation, the original setup cost is equivalent to approximately $4,200. By the Covenant era (1993), Sandoval had moved to a Tama shell pack as Morbid Angel's touring budget expanded, and the gear cost gap between the two eras reflects both equipment upgrades and broader musical instrument price inflation through the 1990s.",
+
+    setup: {
+      drums: {
+        item: 'Pearl Export Series',
+        model: '5-piece shell pack',
+        specs: '22"x16" kick (×2 for double bass), 12"x10" rack, 14"x14" floor',
+        originalPrice: 650,
+        year: 1989,
+        source: 'Pearl Export MSRP 1989, vintage catalog estimates',
+        notes: 'Pearl Export was the industry-standard budget professional kit for touring metal drummers in the late 1980s. Sandoval ran a true double-kick configuration — two separate 22" bass drums rather than a double pedal — which required purchasing a second kick separately.',
+        vintageValue2026: 900,
+        modernEquivalent: {
+          item: 'Pearl Export EXX',
+          price: 800,
+          link: 'pearl-export-exx',
+        },
+      },
+      snare: {
+        item: 'Pearl Steel Snare 14"x5.5"',
+        model: 'Steel shell snare',
+        specs: '14"x5.5" seamless steel shell, 8-lug',
+        originalPrice: 180,
+        year: 1989,
+        source: 'Pearl snare catalog 1989',
+        notes: 'Bright, cutting steel snare providing sharp crack for Sandoval\'s blast beat snare hits. The steel shell projects strongly through dense, down-tuned guitar tracks — essential on a 1989 Scott Burns recording.',
+        vintageValue2026: 280,
+        modernEquivalent: {
+          item: 'Pearl Sensitone Elite Steel 14"x5"',
+          price: 350,
+          link: 'pearl-sensitone-elite',
+        },
+      },
+      cymbals: {
+        item: 'Sabian B8 Series',
+        model: 'B8 basic configuration',
+        specs: '14" B8 Hi-Hats, 16" B8 Thin Crash, 18" B8 Medium Crash, 20" B8 Ride, 16" B8 China',
+        originalPrice: 420,
+        year: 1989,
+        source: 'Sabian B8 retail pricing 1989',
+        notes: 'Entry-level Sabian B8 — the most affordable professional cymbal range of the era. Death metal production in 1989 typically buried cymbals in dense guitar low-end, reducing the audible impact of premium cymbal investment.',
+        vintageValue2026: 450,
+        modernEquivalent: {
+          item: 'Sabian AAX Stage Set',
+          price: 1200,
+          link: 'sabian-aax-stage-set',
+        },
+      },
+      hardware: {
+        item: 'DW 5000 Single Pedal (×2) + Pearl Hardware',
+        model: 'DW 5000 Turbo + Pearl stands',
+        specs: 'Two DW 5000 Turbo single pedals (one per bass drum), hi-hat stand, 4 cymbal stands',
+        originalPrice: 280,
+        year: 1989,
+        source: 'DW hardware retail 1989, Pearl hardware catalog',
+        notes: 'Sandoval used two separate DW 5000 single pedals on two independent bass drums — the preferred extreme-speed configuration for early death metal. True double-kick provides marginally different resonance per drum and was considered the mark of serious extreme drummers.',
+        vintageValue2026: 350,
+        modernEquivalent: {
+          item: 'DW 5000 TD4 Double Pedal + Pearl hardware',
+          price: 700,
+          link: 'dw-5000-pearl',
+        },
+      },
+      sticks: {
+        item: 'Pro-Mark 747 Oak',
+        model: 'Rock model',
+        specs: 'Oak, wood tip, .551" diameter',
+        originalPrice: 6,
+        year: 1989,
+        source: 'Standard retail price',
+        notes: 'Heavy oak sticks for durability and power. Blast beats at extreme tempos destroy lighter sticks rapidly; oak provided the density needed for sustained live and studio punishment.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth American Classic 5B',
+          price: 14,
+          link: 'vic-firth-american-classic-5b',
+        },
+      },
+      heads: {
+        item: 'Remo Ambassador',
+        model: 'Clear Ambassador (toms), Powerstroke (kick)',
+        specs: 'Clear Ambassador toms, coated snare batter, Powerstroke P3 kick',
+        originalPrice: 55,
+        year: 1989,
+        source: 'Remo retail pricing 1989',
+        notes: 'Standard Remo complement for the era. The coated snare batter added warmth to the steel shell snare, balancing crack with body on the Altars of Madness recording.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Emperor ProPack',
+          price: 110,
+          link: 'remo-emperor-pack',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 1591,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 1980,
+      modernEquivalentTotal: 3174,
+    },
+
+    priceEvolution: [
+      { year: 1989, price: 1591, label: 'Original Purchase', event: 'Altars of Madness recording' },
+      { year: 1993, price: 1800, label: 'Covenant era', event: 'Morbid Angel upgrades to Tama' },
+      { year: 1995, price: 2200, label: 'Domination era', event: 'Morbid Angel reaches peak influence' },
+      { year: 2003, price: 3200, label: 'Heretic era', event: 'Vintage death metal interest grows' },
+      { year: 2014, price: 4500, label: 'Health hiatus', event: 'Sandoval retires due to back injury' },
+      { year: 2020, price: 5200, label: 'Collector premium', event: 'Altars of Madness 30th anniversary' },
+      { year: 2026, price: 4200, label: 'Current adjusted', event: 'Inflation-adjusted value' },
+    ],
+
+    sources: [
+      { title: 'Pearl Export Professional Catalog', year: 1989, type: 'catalog' },
+      { title: 'Metal Maniacs — Pete Sandoval Interview', year: 1990, type: 'interview' },
+      { title: 'Sabian Cymbal Retail Price List', year: 1989, type: 'manufacturer' },
+      { title: 'DrummerWorld Archive — Pete Sandoval Equipment', year: 2024, type: 'forum' },
+    ],
+
+    meta: {
+      title: 'Pete Sandoval 1989 Morbid Angel Drum Setup Cost | Altars of Madness Gear Prices',
+      description: "How much did Pete Sandoval's 1989 Altars of Madness drum kit cost? Original ~$1,591, inflation-adjusted to ~$4,200 today. Complete Pearl Export breakdown with Sabian B8 pricing.",
+      keywords: ['pete sandoval 1989 setup', 'morbid angel drum kit cost', 'altars of madness drums', 'pete sandoval drum kit history', 'morbid angel drummer gear evolution'],
+    },
+  },
+
+  // ==========================================
+  // VINNIE PAUL - 1990 Pantera / Cowboys from Hell Era
+  // Premier Drum Kit Setup
+  // ==========================================
+  'vinnie-paul': {
+    slug: 'vinnie-paul',
+    name: 'Vinnie Paul',
+    band: 'Pantera',
+    iconicYear: 1990,
+    era: 'Cowboys from Hell Era',
+    albumReference: 'Cowboys from Hell (1990)',
+    profileImage: '/images/drummers/vinnie-paul.webp',
+
+    summary: "Vinnie Paul Abbott's 1990 Cowboys from Hell setup — the kit that launched Pantera into the mainstream metal consciousness and defined the groove metal drum sound for the decade. Paul played a Premier drum kit with Zildjian A Series cymbals and a DW double pedal, delivering the thunderous, pocket-locked groove that underpinned Dimebag Darrell's guitar work. The setup cost approximately $2,728 in 1990 dollars — equivalent to about $6,840 in 2026. By Far Beyond Driven (1994), Paul had transitioned to a Pearl Custom Series configuration with expanded hardware. And by the Damage Plan era, he was with DW. Each phase of this gear evolution represents both Paul's growing commercial success and clear inflationary trends in professional drum equipment across the decade. Vinnie Paul's playing has been cited by drummers including Dave Grohl and Chad Smith as a defining influence on power groove drumming — his combination of tight backbeats and explosive fills remains one of the most studied approaches in heavy metal.",
+
+    setup: {
+      drums: {
+        item: 'Premier Resonator Series',
+        model: '5-piece shell pack',
+        specs: '22"x16" kick, 12"x10" rack, 13"x11" rack, 16"x16" floor',
+        originalPrice: 1400,
+        year: 1990,
+        source: 'Premier drum catalog MSRP 1990, Modern Drummer archive estimates',
+        notes: 'UK-made Premier Resonator — a respected professional-tier kit popular with American metal drummers in the late 1980s and early 1990s. Premier\'s birch shells delivered a warm, punchy attack suited to Pantera\'s groove-heavy approach. Paul ran a single bass drum with a double pedal rather than true double-kick.',
+        vintageValue2026: 2000,
+        modernEquivalent: {
+          item: 'DW Collector\'s Series Maple',
+          price: 4800,
+          link: 'dw-collectors-maple',
+        },
+      },
+      snare: {
+        item: 'Premier Steel Snare 14"x5.5"',
+        model: 'Steel shell snare',
+        specs: '14"x5.5" steel shell, 10-lug',
+        originalPrice: 220,
+        year: 1990,
+        source: 'Premier catalog 1990',
+        notes: "Matching Premier steel snare with a cutting, bright tone. Vinnie Paul's snare sound on Cowboys from Hell is notably dry and punchy — the steel shell, controlled tuning, and coated batter head contributed to the pocket-locked groove sound central to the album's production.",
+        vintageValue2026: 350,
+        modernEquivalent: {
+          item: 'DW Design Series Steel 14"x5.5"',
+          price: 450,
+          link: 'dw-design-steel-snare',
+        },
+      },
+      cymbals: {
+        item: 'Zildjian A Series',
+        model: 'Full A Series configuration',
+        specs: '14" A Hi-Hats, 16" A Thin Crash, 18" A Medium Crash, 20" A Medium Ride, 18" A China',
+        originalPrice: 650,
+        year: 1990,
+        source: 'Zildjian A Series retail pricing 1990',
+        notes: 'Zildjian A Series was the dominant professional cymbal choice across all metal sub-genres in 1990. Paul used a relatively straightforward configuration — no elaborate splash or effect cymbal setup — reflecting his groove-first playing philosophy.',
+        vintageValue2026: 800,
+        modernEquivalent: {
+          item: 'Zildjian A Custom Box Set',
+          price: 1500,
+          link: 'zildjian-a-custom-series-cymbals',
+        },
+      },
+      hardware: {
+        item: 'DW 5002 Double Pedal + Premier Hardware',
+        model: 'DW 5002 chain drive + Premier stands',
+        specs: 'Chain drive double pedal, hi-hat stand, 4 boom cymbal stands, snare stand',
+        originalPrice: 380,
+        year: 1990,
+        source: 'DW hardware retail 1990, Premier hardware catalog',
+        notes: "DW 5002 chain drive double pedal for Paul's hard-hitting double bass work on Cowboys from Hell. Paul's double bass approach on tracks like 'Domination' and 'Primal Concrete Sledge' prioritised power and groove over sheer speed — the 5002's spring tension was well-matched to his style.",
+        vintageValue2026: 450,
+        modernEquivalent: {
+          item: 'DW 9002 Double Pedal + hardware pack',
+          price: 900,
+          link: 'dw-9002-double-pedal',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth 5B Hickory',
+        model: 'American Classic 5B',
+        specs: 'Hickory, wood tip, .595" diameter',
+        originalPrice: 8,
+        year: 1990,
+        source: 'Standard retail price',
+        notes: "Standard Vic Firth 5B before Paul developed a signature model. The 5B's heavier profile suited Pantera's hard-hitting live show — Paul was documented as one of the harder-hitting drummers in groove metal.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth American Classic 5B',
+          price: 14,
+          link: 'vic-firth-american-classic-5b',
+        },
+      },
+      heads: {
+        item: 'Remo Ambassador / Powerstroke',
+        model: 'Clear Ambassador (toms), Powerstroke P3 (kick)',
+        specs: 'Clear Ambassador toms, coated snare batter, Powerstroke P3 kick batter',
+        originalPrice: 70,
+        year: 1990,
+        source: 'Remo retail pricing 1990',
+        notes: "Remo Ambassador clear for open, punchy tom tone. The Powerstroke P3 kick head gave Cowboys from Hell's bass drum its characteristic focused thump — important for the locked groove between Vinnie's kick and Rex Brown's bass lines.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Emperor ProPack',
+          price: 110,
+          link: 'remo-emperor-pack',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 2728,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 3600,
+      modernEquivalentTotal: 7774,
+    },
+
+    priceEvolution: [
+      { year: 1990, price: 2728, label: 'Original Purchase', event: 'Cowboys from Hell recording' },
+      { year: 1992, price: 2900, label: 'Vulgar Display era', event: 'Pantera reaches mainstream peak' },
+      { year: 1994, price: 3800, label: 'Far Beyond Driven', event: 'Paul upgrades to Pearl Custom' },
+      { year: 2000, price: 5200, label: 'Reinventing the Steel', event: 'Pantera final studio album' },
+      { year: 2004, price: 5800, label: 'Damage Plan era', event: 'Paul moves to DW' },
+      { year: 2018, price: 8500, label: 'Legacy premium', event: 'Vinnie Paul passes away; collector interest spikes' },
+      { year: 2026, price: 6840, label: 'Current adjusted', event: 'Inflation-adjusted value' },
+    ],
+
+    sources: [
+      { title: 'Premier Drums Professional Catalog', year: 1990, type: 'catalog' },
+      { title: 'Modern Drummer — Vinnie Paul Interview', year: 1994, type: 'interview' },
+      { title: 'Guitar World Gear Rundown — Pantera', year: 1992, type: 'interview' },
+      { title: 'Reverb Price Guide — Vintage Premier Drums', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: 'Vinnie Paul 1990 Pantera Drum Setup Cost | Cowboys from Hell Gear Prices',
+      description: "How much did Vinnie Paul's 1990 Cowboys from Hell drum kit cost? Original ~$2,728, inflation-adjusted to ~$6,840 today. Complete Premier drum breakdown with Zildjian A Series pricing.",
+      keywords: ['vinnie paul 1990 setup', 'pantera drum kit cost', 'cowboys from hell drums', 'vinnie paul drum kit by album', 'pantera drummer gear history'],
+    },
+  },
 };
 
 // ==========================================

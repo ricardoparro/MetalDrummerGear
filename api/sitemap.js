@@ -286,6 +286,7 @@ const endorsementDrummers = [
 // Issue #813: Gear Price History Tracker pages
 // Inflation-adjusted setup costs over time
 // Issue #1808: Phase 2 — Mike Portnoy, Gene Hoglan, Danny Carey
+// Issue #1818: Phase 3 — Tomas Haake, Pete Sandoval, Vinnie Paul
 const gearPriceHistoryDrummers = [
   'lars-ulrich',     // Kill 'Em All era (1983)
   'joey-jordison',   // Iowa era (2001)
@@ -293,6 +294,9 @@ const gearPriceHistoryDrummers = [
   'mike-portnoy',    // Images and Words era (1992)
   'gene-hoglan',     // Individual Thought Patterns era (1993)
   'danny-carey',     // Undertow/Aenima era (1994)
+  'tomas-haake',     // Chaosphere era (1998)
+  'pete-sandoval',   // Altars of Madness era (1989)
+  'vinnie-paul',     // Cowboys from Hell era (1990)
 ];
 
 // Issue #1473: Individual /battles/<slug> pages — derive slugs from CURATED_MATCHUPS

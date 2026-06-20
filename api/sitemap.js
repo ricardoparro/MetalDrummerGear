@@ -95,6 +95,10 @@ const top10Lists = [
   { slug: 'fastest-double-bass-drummers', name: 'Top 10 Fastest Double Bass Drummers in Metal' },
   // Issue #658: Most Brutal Drum Solos article page
   { slug: 'most-brutal-drum-solos', name: 'Top 10 Most Brutal Drum Solos in Metal History' },
+  // Issue #1807: Black metal, progressive metal, nu-metal list pages
+  { slug: 'black-metal-drummers', name: 'Top 10 Black Metal Drummers' },
+  { slug: 'progressive-metal-drummers', name: 'Top 10 Progressive Metal Drummers' },
+  { slug: 'nu-metal-drummers', name: 'Top 10 Nu-Metal Drummers' },
 ];
 
 // Issue #642, #658: Article pages (SEO-optimized with /articles/:slug route)

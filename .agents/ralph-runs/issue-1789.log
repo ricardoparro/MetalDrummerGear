@@ -1,1 +1,1 @@
-already-applied
+fix already applied: { loc: '/stats', priority: '0.9', changefreq: 'weekly' } present at api/sitemap.js line 438 (committed in fd5ee5a)

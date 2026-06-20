@@ -284,6 +284,12 @@ const gearPriceHistoryDrummers = [
   'lars-ulrich',     // Kill 'Em All era (1983)
   'joey-jordison',   // Iowa era (2001)
   'dave-lombardo',   // Reign in Blood era (1986)
+  'mike-portnoy',    // Metropolis Pt. 2 era (1999)
+  'gene-hoglan',     // Individual Thought Patterns era (1993)
+  'danny-carey',     // Undertow era (1993)
+  'tomas-haake',     // Chaosphere era (1998)
+  'pete-sandoval',   // Covenant era (1993)
+  'vinnie-paul',     // Far Beyond Driven era (1994)
 ];
 
 // Issue #1473: Individual /battles/<slug> pages — derive slugs from CURATED_MATCHUPS

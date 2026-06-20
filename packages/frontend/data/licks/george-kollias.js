@@ -32,6 +32,12 @@ export const licks = {
       "Other hand maintains ride/hi-hat pattern",
       "Feet continue standard blast underneath"
     ],
+    "tutorial": {
+      "youtubeId": "sqk2wprx6j4",
+      "startTime": 0,
+      "title": "George Kollias - Papyrus Containing the Spell to Preserve Its Possessor (Live)",
+      "description": "George Kollias performing his gravity blast technique live with Nile on Papyrus Containing the Spell"
+    },
     "gearUsed": [
       {
         "name": "Pearl Reference Series Kit",
@@ -96,7 +102,12 @@ export const licks = {
       "Requires extreme limb independence",
       "Each limb operates somewhat independently"
     ],
-    "tutorial": null,
+    "tutorial": {
+      "youtubeId": "mMqfMuQMTEU",
+      "startTime": 0,
+      "title": "George Kollias - Annihilation of the Wicked (Live Drums)",
+      "description": "George Kollias performing his polyrhythmic death metal patterns live on Annihilation of the Wicked"
+    },
     "gearUsed": [
       {
         "name": "Pearl Reference Series Kit",
@@ -160,6 +171,12 @@ export const licks = {
       "Proper breathing maintains oxygen flow",
       "Efficient motion minimizes energy use"
     ],
+    "tutorial": {
+      "youtubeId": "1LR3woj1mjI",
+      "startTime": 0,
+      "title": "Nile - Sacrifice Unto Sebek (Drum Cover)",
+      "description": "Drum cover demonstrating George Kollias's sustained 250+ BPM blast technique on Sacrifice Unto Sebek"
+    },
     "gearUsed": [
       {
         "name": "Pearl Reference Series Kit",

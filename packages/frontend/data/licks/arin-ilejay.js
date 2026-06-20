@@ -189,7 +189,12 @@ export const licks = {
       "Plant snare backbeats with full authority even at high tempo — weight before speed",
       "Build the fill sequence slowly at 100 BPM until it is perfectly accurate, then raise speed in 5 BPM steps"
     ],
-    "tutorial": null,
+    "tutorial": {
+      "youtubeId": "JflCPMkd-6c",
+      "startTime": 0,
+      "title": "Avenged Sevenfold - Heretic (Drum Cover)",
+      "description": "Arin Ilejay's fill cascade technique from the Hail to the King album (2013)"
+    },
     "gearUsed": [
       {
         "name": "PDP Concept Series Custom Maple Kit",

@@ -31323,6 +31323,301 @@ Start with "Dystopia" to hear Dirk's precision double bass and controlled aggres
 
 For Dirk's current full Megadeth touring setup — Tama Starclassic Maple, Meinl Byzance cymbals, Speed Cobra pedals — visit the [Dirk Verbeuren drummer profile](/drummer/dirk-verbeuren).`
     }
+  },
+
+  'a-dramatic-turn-of-events-drum-setup': {
+    slug: 'a-dramatic-turn-of-events-drum-setup',
+    albumTitle: 'A Dramatic Turn of Events',
+    artist: 'Dream Theater',
+    drummer: 'Mike Mangini',
+    drummerId: 52,
+    relatedDrummerSlug: 'mike-mangini',
+    year: 2011,
+    genre: 'Progressive Metal',
+    label: 'Roadrunner Records',
+    studio: 'Cove City Sound Studios, Glen Cove, New York',
+    producer: 'John Petrucci & Mike Mangini',
+    isAlbumArticle: true,
+    datePublished: '2026-06-20',
+    dateModified: '2026-06-20',
+    author: 'MetalForge Editorial',
+    title: "Mike Mangini's Kit on 'A Dramatic Turn of Events' (Dream Theater, 2011)",
+    description: "World-record holder Mike Mangini replaced Mike Portnoy on Dream Theater's landmark 2011 album. Full breakdown of the Pearl Masterworks kit, Meinl Byzance cymbals, and DW 9002 double pedals used to record A Dramatic Turn of Events.",
+    seoKeywords: [
+      'mike mangini drum setup',
+      'a dramatic turn of events drums',
+      'dream theater 2011 drummer',
+      'mike mangini kit dream theater',
+      'dream theater a dramatic turn of events drummer',
+      'mike mangini pearl drums',
+      'mike mangini meinl cymbals',
+      'mike mangini gear breakdown'
+    ],
+    ogImage: '/images/albums/a-dramatic-turn-of-events-drums.webp',
+    intro: {
+      title: 'The Most Watched Drum Audition in History',
+      content: `When Mike Portnoy resigned from Dream Theater in September 2010 after 25 years as the band's founding drummer, the progressive metal world went into shock. Portnoy was not just a drummer — he was half the compositional engine of one of the genre's most technically demanding bands. The question of who could possibly step into that role felt almost unanswerable.
+
+Dream Theater's answer was to hold auditions, and the process became a cultural event. The band filmed and released footage of the auditions, capturing reactions in real time as candidates — including Thomas Lang, Marco Minnemann, Peter Wildoer, Aquiles Priester, and Mike Mangini — navigated some of the most rhythmically complex material in rock music. The audition videos spread across drumming forums, YouTube, and music blogs with a velocity that surprised even the band.
+
+Mike Mangini won. And the story behind his victory is one of prog metal's greatest moments.
+
+Mangini, born April 18, 1963, in Newton, Massachusetts, arrived as a double credential: Guinness World Record holder for drumming speed and a professor at Berklee College of Music. He had honed his craft touring with Steve Vai and Annihilator, and had developed a scientific approach to rhythm — breaking down polyrhythms, limb independence, and timing with the precision of an applied physicist. The other candidates were world-class; Mangini was on another level.
+
+"A Dramatic Turn of Events," released September 13, 2011, on Roadrunner Records, was the direct product of this transition. Recorded at Cove City Sound Studios in Glen Cove, New York, the album was co-produced by John Petrucci and Mike Mangini himself — a remarkable degree of trust for a debut appearance. Tracks like "On the Backs of Angels," "Build Me Up Break Me Down," and "Lost Not Forgotten" challenged Mangini to serve compositions he had not shaped from scratch, while "Bridges in the Sky" and "Breaking All Illusions" gave him room to demonstrate the full complexity of his arsenal.
+
+The album debuted at number eight on the Billboard 200 and earned Grammy nominations. More importantly, it answered the central question: Dream Theater not only survived the transition, it found a drummer whose technical capabilities arguably exceeded even those of his legendary predecessor. This article breaks down every piece of gear Mike Mangini used to deliver that performance.`,
+      keyPoints: [
+        'Mike Mangini joined Dream Theater in 2010 after a globally watched audition process',
+        'Album recorded at Cove City Sound Studios, Glen Cove, New York',
+        'Co-produced by John Petrucci and Mike Mangini',
+        'Debuted at number 8 on the Billboard 200',
+        'Pearl Masterworks kit — custom-spec maple/birch hybrid shells',
+        'Meinl Byzance cymbals for warm, complex tone'
+      ]
+    },
+    drumKit: {
+      title: "Mangini's Pearl Masterworks: The Studio Configuration",
+      brand: 'Pearl',
+      model: 'Pearl Masterworks Custom',
+      finish: 'Custom lacquer',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum'],
+        toms: ['8" x 7" Rack Tom', '10" x 8" Rack Tom', '12" x 9" Rack Tom', '13" x 10" Rack Tom'],
+        floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom'],
+        shells: 'Maple/birch hybrid with 6-ply maple outer and inner plies, birch core'
+      },
+      description: `For the "A Dramatic Turn of Events" sessions, Mike Mangini played a Pearl Masterworks kit — Pearl's flagship professional series, built entirely to the artist's specification. Mangini's configuration was extensive by any standard, a reflection of the progressive metal context he was stepping into: Dream Theater compositions demand rapid tom movements across a wide pitch range, and a larger kit is not vanity but a practical necessity.
+
+The maple/birch hybrid shell formula was central to the kit's studio character. Maple delivers warm, rounded fundamentals with natural attack; birch tightens the tone and increases projection. The hybrid approach — maple outer plies around a birch core — gave Mangini the punch of birch in recording contexts while preserving the warmth that maple-dominated progressive metal production demands. On the complex, layered arrangements of "A Dramatic Turn of Events," this translates to drums that sit clearly in the mix without fighting the dense guitar work of John Petrucci and rhythm section of John Myung.
+
+The four-tom rack setup (8", 10", 12", 13") plus two floor toms (14", 16") reflects how Mangini actually plays. Unlike drummers who use extended kits for show, Mangini's fill vocabulary navigates all of these voices actively — the 8" piccolo tom appears in quick triplet runs, the 16" floor tom anchors lower-register accents on the heavier sections of tracks like "Lost Not Forgotten." The configuration gives him a nearly four-octave range of drum voices for a band that thinks orchestrally.
+
+The 22" x 18" bass drum runs a single drum with a double pedal. Mangini's preference for a single kick over a two-kick setup is partly sonic (identical beater tone across both feet) and partly philosophical — he achieved his Guinness World Record speeds with a single bass drum, and his technique is built around single-drum efficiency.`,
+      notes: [
+        'Pearl Masterworks — Pearl\'s handcrafted flagship series, built to exact artist spec',
+        'Maple/birch hybrid shells: warmth of maple with projection of birch',
+        'Six-tom configuration covers nearly four octaves of drum voice',
+        'Single 22" bass drum with DW 9002 double pedal',
+        'Extended setup matches the orchestral complexity of Dream Theater compositions'
+      ],
+      estimatedValue: "$7,000-12,000 (Pearl Masterworks configuration)"
+    },
+    snare: {
+      title: "The Crack Behind 'On the Backs of Angels'",
+      brand: 'Pearl',
+      model: 'Pearl Free-Floating Brass Snare',
+      size: '14" x 6.5"',
+      shell: 'Brass',
+      description: `Mike Mangini's primary snare on "A Dramatic Turn of Events" was a Pearl Free-Floating brass drum — one of Pearl's most sophisticated snare designs, and a choice that suited both the recording environment and Mangini's playing philosophy.
+
+The Free-Floating design is Pearl's answer to a fundamental problem in snare construction: traditional lugs attach directly to the shell, creating stress points that color the drum's resonance. Pearl's Free-Floating system suspends the shell from an independent aluminum frame, allowing it to vibrate without restriction. The result is a more open, responsive tone — the drum rings truer and responds more consistently across its full dynamic range. For a drummer like Mangini, whose playing spans whisper-quiet ghost notes and full-force accents within a single bar, this dynamic consistency is not a luxury.
+
+The brass shell produces the articulate, focused crack that progressive metal production requires. On tracks like "Build Me Up Break Me Down," where the snare must cut through John Petrucci's layered guitar arrangements and Jordan Rudess's keyboard stacks, brass provides the high-frequency attack that keeps the snare audible without requiring heavy EQ in the mix.
+
+Mangini typically runs the drum at medium-to-high tension, giving him a crisp, controlled response that suits the technical demands of Dream Theater's arrangements. Ghost note detail is preserved through careful tuning — tight enough for crack on accents, responsive enough that light touches register clearly at recording level.`,
+      tuningSetting: 'Medium-high batter tension for crack; moderate snare wire tension for ghost note response',
+      heads: 'Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$600-900'
+    },
+    cymbals: {
+      title: 'Meinl Byzance: Warmth and Complexity for Progressive Metal',
+      brand: 'Meinl',
+      series: 'Meinl Byzance',
+      setup: [
+        { type: 'Hi-Hats', model: 'Meinl Byzance Traditional 14" Medium Hi-Hats', position: 'Left side', notes: 'Warm, complex tone; hand-hammered for organic response at varied dynamics' },
+        { type: 'Crash', model: 'Meinl Byzance Traditional 16" Thin Crash', position: 'Left of hi-hats', notes: 'Fast response for quick accent bursts in complex passages' },
+        { type: 'Crash', model: 'Meinl Byzance Traditional 18" Medium Crash', position: 'Above rack toms', notes: 'Full-bodied crash for major section transitions' },
+        { type: 'Crash', model: 'Meinl Byzance Traditional 20" Medium Crash', position: 'Right of toms', notes: 'Larger crash for high-impact moments; broader sustain' },
+        { type: 'Ride', model: 'Meinl Byzance Traditional 22" Medium Ride', position: 'Far right', notes: 'Defined bell for pattern clarity; controlled wash for groove sections' },
+        { type: 'China', model: 'Meinl Byzance Traditional 18" China', position: 'Above floor tom', notes: 'Trashy accent cymbal for riff punctuation and prog accents' },
+        { type: 'Splash', model: 'Meinl Byzance Traditional 10" Splash', position: 'Above kit', notes: 'Fast accent texture; adds rhythmic detail in quieter passages' }
+      ],
+      description: `Mangini's choice of Meinl Byzance cymbals for "A Dramatic Turn of Events" was a deliberate departure from the bright, aggressive cymbal sounds common in metal. The Byzance line — hand-hammered in Turkey using traditional cymbal-making techniques — produces a warm, complex, harmonically rich tone that suits the layered dynamics of progressive metal far better than the aggressive, fast-decaying sounds of bright-finish cymbals.
+
+The Byzance Traditional series uses irregular hand-hammering, meaning no two cymbals in the line are identical. Each instrument has its own overtone profile — a character that interacts differently with every recording space. For a studio album co-produced by the drummer himself, this individuality matters. Mangini would have selected each cymbal for its specific voice in the context of the kit and the recording room.
+
+The 14" Traditional hi-hats anchor Mangini's pattern work throughout the album. On "On the Backs of Angels" — the album's first single and most immediately accessible track — the hi-hat groove is clean and propulsive, the Byzance warmth preventing the cymbals from cluttering Petrucci's melodic guitar work. On the more aggressive "Lost Not Forgotten," the hats open into a driving 16th-note pattern that pushes the track's intensity.
+
+Multiple Byzance crashes gave Mangini a full palette of accent dynamics. The 16" thin crash responded fast enough for single-note accents in rapid fill sequences; the 18" and 20" medium crashes provided the broader, fuller sweeps suited to Dream Theater's large-scale compositional transitions. The 22" Byzance ride delivered the bell clarity that prog drummers depend on for pattern definition in complex time signatures — audible through the densest keyboard/guitar textures.`,
+      estimatedValue: '$2,200-3,000 total'
+    },
+    hardware: {
+      title: 'DW 9002 Double Pedal: Speed and Consistency',
+      items: [
+        {
+          type: 'Double Bass Drum Pedal',
+          brand: 'DW',
+          model: 'DW 9002 Double Pedal',
+          notes: 'Chain drive for direct, consistent response; Mangini\'s precision footwork demands repeatable feel',
+          description: "The DW 9002 is Mike Mangini's central hardware piece on the album — the double pedal that converts his world-record-level footwork into the kick drum sound on 'A Dramatic Turn of Events.' The 9002 uses a chain drive mechanism that gives Dirk direct, consistent beater response without the delay sometimes associated with belt or strap drives. For Mangini's technique — which involves highly controlled velocity patterns across both feet rather than brute-force thrash patterns — the 9002's predictable feel is essential. On 'Lost Not Forgotten,' where kick patterns shift between straight 8th notes and syncopated 16th-note bursts, the pedal's consistency keeps every hit articulate in the recording."
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'DW',
+          model: 'DW 9000 Series Hi-Hat Stand',
+          notes: 'Stability under varied foot pressure; used alongside left foot hi-hat patterns'
+        },
+        {
+          type: 'Cymbal Stands',
+          brand: 'DW',
+          model: 'DW 9000 Series Straight & Boom Stands',
+          notes: 'Full DW hardware setup throughout the kit for consistent feel and stage-reliable stability'
+        },
+        {
+          type: 'Throne',
+          brand: 'DW',
+          model: 'DW 9120M Drum Throne',
+          notes: 'Matched hardware for extended recording and touring sessions'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth MM (Mike Mangini) Signature Sticks',
+          notes: 'Mangini\'s signature model: slightly lighter than a 5B for speed without sacrificing power'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke 3 Clear (batter), Remo Powerstroke 3 Clear (resonant with Aquarian Super-Kick port)',
+        toms: 'Remo Emperor Clear (batter), Ambassador Clear (resonant)',
+        snare: 'Remo Coated Ambassador'
+      }
+    },
+    recordingTechniques: {
+      title: 'Co-Producing His Own Debut: Mangini at the Console',
+      content: `One of the most striking facts about "A Dramatic Turn of Events" is the production credit: John Petrucci and Mike Mangini. For a drummer making his studio debut with the band, sharing the producer's chair with the band's lead guitarist and compositional anchor was an extraordinary statement of trust — and an indication of how completely Dream Theater had committed to their new member.
+
+Recording took place at Cove City Sound Studios in Glen Cove, New York. The studio had a long history with progressive and rock recordings, giving Mangini a professionally calibrated tracking room for his drum sessions. Unlike some live band tracking scenarios, Dream Theater's approach allowed Mangini to focus on drum perfection with the room to himself before overdubs built around the drum foundation.
+
+**Microphone Setup:**
+The drum recording for a complex progressive metal production demanded comprehensive miking:
+- Kick drum: AKG D112 inside for attack definition; large-diaphragm condenser outside for low-frequency weight
+- Snare: Shure SM57 on batter head for attack; condenser underneath for snare wire detail
+- Toms: Sennheiser MD421 on each drum (six-tom kit requires six tom mics)
+- Hi-hat: AKG C451 for high-frequency articulation
+- Overheads: Neumann U87s in spaced pair for stereo image of cymbals and room
+- Room mics: Pair of condensers to capture Cove City's acoustic character
+
+**Mangini's Preparation:**
+Mangini entered these sessions having learned the album material from scratch — compositions that had been written around the audition process and the transition period. His scientific approach was evident in the preparation: he analyzed the time signatures, mapped out his fills architecturally, and arrived ready to execute rather than experiment. The co-production credit likely reflects the degree to which his input shaped the drum sound decisions at the mixing stage.
+
+**Mix Philosophy:**
+The album's production gives the drums room and air without sacrificing the density that Dream Theater's progressive arrangements require. The kick sits low and punchy; the snare cuts precisely through Petrucci's layered guitars; the toms move in clear melodic arcs through the complex fill sequences. The Byzance cymbals' warm character is preserved in the overheads — they shimmer rather than clash, supporting the harmonic complexity of the keyboard arrangements.`,
+      keyTechniques: [
+        'Mangini co-produced the album alongside John Petrucci — unusual for a debut session',
+        'Six-tom configuration required comprehensive individual tom miking',
+        'Meinl Byzance warmth preserved in overhead capture',
+        'Single bass drum with DW 9002 double pedal for tonal consistency across both feet'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'On the Backs of Angels',
+        bpm: '~144',
+        signature: '6/8',
+        highlights: [
+          'Album opener and first single — Mangini\'s commercial introduction to Dream Theater audiences',
+          'Compound 6/8 time signature showcases Mangini\'s ability to groove in complex meters',
+          'Ride cymbal pattern drives the verse with warm Byzance bell clarity',
+          'Drum fill at the bridge section is one of the most transcribed moments on the album',
+          'Grammy nominated: Best Hard Rock/Metal Performance (54th Grammy Awards, 2012)'
+        ],
+        gearNotes: "Meinl Byzance 22\" ride bell prominent in verse pattern. Pearl Masterworks toms feature in the bridge fill. DW 9002 provides controlled kick-snare foundation throughout."
+      },
+      {
+        track: 'Build Me Up Break Me Down',
+        bpm: '~192',
+        signature: '4/4',
+        highlights: [
+          'One of the album\'s faster tracks — Mangini\'s speed credentials put to immediate use',
+          'Sustained 16th-note double bass patterns across extended sections',
+          'Snare ghost note work in the verses demonstrates dynamic control at high tempo',
+          'Hi-hat ostinato underpins one of the album\'s most driving grooves',
+          'Showcases how Mangini integrates world-record-level speed into musical context'
+        ],
+        gearNotes: "DW 9002 double pedal drives the album's most sustained double bass passages. Byzance 14\" hi-hats provide the fast, warm articulation the track demands."
+      },
+      {
+        track: 'Lost Not Forgotten',
+        bpm: '~160',
+        signature: '4/4 with 7/8 sections',
+        highlights: [
+          'One of the album\'s most technically demanding tracks across mixed time signatures',
+          'Shifts between 4/4 and 7/8 without rhythmic disruption — advanced metric modulation',
+          'Floor tom emphasis in the pre-chorus sections creates a heavy, low-frequency anchor',
+          'Complex fill vocabulary across all six toms during the instrumental break',
+          'Demonstrates the full range of the Pearl Masterworks six-tom configuration'
+        ],
+        gearNotes: "Six-tom Pearl Masterworks fills span the full kit during the instrumental break. Byzance crashes punctuate metric shifts. Floor toms (14\"/16\") anchor the 7/8 sections."
+      }
+    ],
+    faq: [
+      {
+        question: 'What drums did Mike Mangini use on A Dramatic Turn of Events?',
+        answer: "On Dream Theater's A Dramatic Turn of Events (2011), Mike Mangini used a Pearl Masterworks Custom kit with a maple/birch hybrid shell formula. The configuration included a 22\" x 18\" bass drum, four rack toms (8\", 10\", 12\", 13\"), and two floor toms (14\", 16\"). He paired the kit with DW 9002 double pedals and a Pearl Free-Floating brass snare. For Mangini's complete current touring setup and gear history, see the [Mike Mangini drummer profile](/drummer/mike-mangini) and the [What's in Mike Mangini's Kit article](/articles/whats-in-mike-manginis-kit)."
+      },
+      {
+        question: 'What cymbals did Mike Mangini use on A Dramatic Turn of Events?',
+        answer: "Mike Mangini used Meinl Byzance Traditional series cymbals throughout the recording of A Dramatic Turn of Events. The setup included 14\" Traditional medium hi-hats, three crashes (16\" thin, 18\" medium, 20\" medium), a 22\" Traditional medium ride, an 18\" Traditional China, and a 10\" Traditional splash. The Byzance Traditional series is hand-hammered in Turkey and produces a warm, complex tone that suited the album's dense progressive metal arrangements. Meinl Byzance remains Mangini's primary cymbal choice — full details at the [Mike Mangini drummer profile](/drummer/mike-mangini)."
+      },
+      {
+        question: 'When did Mike Mangini join Dream Theater?',
+        answer: "Mike Mangini joined Dream Theater in April 2011, following a globally watched audition process that began in late 2010 after founding drummer Mike Portnoy resigned in September 2010. Dream Theater filmed the auditions and released footage showing all five candidates — Thomas Lang, Marco Minnemann, Peter Wildoer, Aquiles Priester, and Mike Mangini — performing the band's material. The audition videos became some of the most-watched drumming content on YouTube. Mangini's first studio recording with the band, A Dramatic Turn of Events, was released in September 2011. For context on the Mike Portnoy era of Dream Theater, see the [Images and Words Drum Setup article](/articles/images-and-words-drum-setup)."
+      },
+      {
+        question: 'How does Mike Mangini compare to Mike Portnoy on Dream Theater recordings?',
+        answer: "The two Mikes represent distinctly different but equally valid approaches to progressive metal drumming. Portnoy — co-founder, lyricist, and visual architect of Dream Theater for 25 years — brought a rock-based power and compositional authority built on Ludwig and then Tama kits with Zildjian cymbals. Mangini brought scientific precision, world-record-level speed, and a Berklee-trained theoretical foundation built on Pearl Masterworks and Meinl Byzance. Portnoy's performances on Images and Words and Metropolis Pt. 2 are more emotionally raw; Mangini's work on A Dramatic Turn of Events and The Astonishing is metronomically precise. For the Portnoy-era gear breakdown, see the [Images and Words Drum Setup article](/articles/images-and-words-drum-setup) and the [Mike Portnoy drummer profile](/drummer/mike-portnoy)."
+      }
+    ],
+    videos: [],
+    relatedAlbums: ['images-and-words-drum-setup', 'whats-in-mike-manginis-kit', 'whats-in-mike-portnoys-kit'],
+    relatedDrummers: [52],
+    relatedArticles: ['whats-in-mike-manginis-kit', 'images-and-words-drum-setup', 'progressive-metal-drummers'],
+    relatedLicks: [],
+    schema: {
+      '@context': 'https://schema.org',
+      '@type': 'MusicAlbum',
+      name: 'A Dramatic Turn of Events',
+      byArtist: {
+        '@type': 'MusicGroup',
+        name: 'Dream Theater'
+      },
+      datePublished: '2011-09-13',
+      genre: 'Progressive Metal',
+      recordLabel: {
+        '@type': 'Organization',
+        name: 'Roadrunner Records'
+      },
+      track: [
+        { '@type': 'MusicRecording', name: 'On the Backs of Angels' },
+        { '@type': 'MusicRecording', name: 'Build Me Up Break Me Down' },
+        { '@type': 'MusicRecording', name: 'Lost Not Forgotten' },
+        { '@type': 'MusicRecording', name: 'Breaking All Illusions' },
+        { '@type': 'MusicRecording', name: 'Bridges in the Sky' }
+      ],
+      albumRelease: [
+        {
+          '@type': 'MusicRelease',
+          releaseDate: '2011-09-13',
+          releaseOf: { '@type': 'MusicAlbum', name: 'A Dramatic Turn of Events' }
+        }
+      ]
+    },
+    drummerSlug: 'mike-mangini',
+    albumYear: 2011,
+    band: 'Dream Theater',
+    conclusion: {
+      title: 'A New Era Defined',
+      content: `"A Dramatic Turn of Events" accomplished something that seemed impossible in the months after Mike Portnoy's departure: it demonstrated not only that Dream Theater could survive the loss of a founding member, but that the transition opened creative space for a new kind of precision. Mike Mangini brought to Dream Theater a technical vocabulary built on decades of study, world-record speed, and academic rigor — a foundation that produced one of the most impressive debut performances in progressive metal history.
+
+The Pearl Masterworks kit, Meinl Byzance cymbals, and DW 9002 double pedals are the instruments that made this possible. In a studio album co-produced by the drummer himself, every piece of gear was a deliberate choice. The warmth of the Byzance cymbals suits the harmonic complexity of Dream Theater's keyboard-rich arrangements. The six-tom Pearl Masterworks configuration gives Mangini the melodic fill vocabulary to match Petrucci's guitar orchestrations. The DW 9002's consistency enabled the clean double-bass execution that tracks like "Build Me Up Break Me Down" demand.
+
+**The Dream Theater Drummer Timeline:**
+Mike Portnoy's 25-year run defined Dream Theater's sound through Images and Words, Metropolis Pt. 2, and Train of Thought. Mangini's arrival — won in the most transparent audition process in rock history — carried the band into its next chapter. For the Portnoy-era breakdown, see the [Images and Words Drum Setup article](/articles/images-and-words-drum-setup) and the [Mike Portnoy drummer profile](/drummer/mike-portnoy).
+
+**For the Aspiring Drummer:**
+Start with "On the Backs of Angels" to hear Mangini's compound meter groove and Byzance ride clarity. Move to "Lost Not Forgotten" for the album's most demanding metric modulation work. Then compare with Portnoy's approach on Images and Words — a different philosophy, equally influential. For Mangini's complete current setup, visit the [Mike Mangini drummer profile](/drummer/mike-mangini) and the [What's in Mike Mangini's Kit article](/articles/whats-in-mike-manginis-kit).`
+    }
   }
 };
 

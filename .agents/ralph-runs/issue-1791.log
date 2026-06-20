@@ -1,7 +1,1 @@
-**Summary:**
-
-- **Problem:** `/llms/brands/sabian.md` was missing, causing a prospective 404 after the #1781 sitemap fix added `/llms/brands/<slug>.md` entries for all 8 `gearBrands`.
-- **Files changed:** `public/llms/brands/sabian.md` was created in commit e3cdb28 (fix: #1781) with 502 words, 4 FAQ entries, and internal links — all quality gates satisfied.
-- **Fix:** `public/llms/brands/sabian.md` already exists and satisfies all quality gates: ≥300 words (502), 4 FAQ Q&As (≥3 required), internal links to `/brands/sabian`, `/llms/gear-by-brand.md`, `/llms/gear-guide.md`, and `/llms.txt`.
-- **Validation:** `ls public/llms/brands/` confirms sabian.md present; `wc -w` returns 502 words.
-- **Follow-ups:** Consider adding Mapex to `gearBrands` in `api/sitemap.js` (or removing the orphaned `public/llms/brands/mapex.md`) — Mapex is not currently sitemapped.
+already-applied: public/llms/brands/sabian.md created in commit e3cdb28 (fix: #1781) — 502 words, 4 FAQ Q&As, 7 metal drummers listed, internal links present; all quality gates passed

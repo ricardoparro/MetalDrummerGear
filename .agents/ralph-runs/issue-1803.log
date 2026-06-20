@@ -1,1 +1,7 @@
-already-applied
+**Summary:**
+
+- **Problem:** Issue #1803 requested 4 new "How to Sound Like" guide entries (Matt Greiner, George Kollias, Travis Orbin, Flo Mounier) in `soundLikeGuides.js` plus corresponding LLM markdown files.
+- **Files changed:** `.agents/ralph-runs/issue-1803.log` (state update only).
+- **Fix:** Already applied — all 4 entries exist in `packages/frontend/data/soundLikeGuides.js` at priorities 11–14 (lines 2555, 2816, 3077, 3337) with full technique sections (3 signaturePatterns each), gear, tuning, practice exercises, 5 FAQ Q&As, and ≥3 internal links via `relatedArticles` + `drummerProfile` + `licksUrl`. All 4 LLM markdown files exist at `public/llms/guides/how-to-sound-like-{matt-greiner,george-kollias,travis-orbin,flo-mounier}.md` (~90 lines each). Sitemap auto-includes via existing `soundLikeGuides.map(g => ...)` in `api/sitemap.js`.
+- **Validation:** All quality gates pass — ≥1900 words each, ≥3 technique sections, ≥5 FAQ Q&As, ≥3 internal links per guide; JS syntax clean (`node --check` passes).
+- **Follow-ups:** None; fix is complete and verified in commit `8de5ed5`.

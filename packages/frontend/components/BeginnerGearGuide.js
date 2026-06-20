@@ -52,6 +52,8 @@ export function getBeginnerGuideSlugFromURL() {
   if (pathname.startsWith('/guides/')) {
     const slug = pathname.slice('/guides/'.length);
     if (slug && isBeginnerGuideSlug(slug)) return slug;
+    // Issue #1794: genre gear guide pages share the same route + component
+    if (slug && GENRE_GEAR_GUIDES[slug]) return slug;
   }
   return null;
 }

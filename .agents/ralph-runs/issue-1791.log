@@ -1,0 +1,7 @@
+**Summary:**
+
+- **Problem:** `/llms/brands/sabian.md` was missing, causing a prospective 404 after the #1781 sitemap fix added `/llms/brands/<slug>.md` entries for all 8 `gearBrands`.
+- **Files changed:** `.agents/ralph-runs/issue-1791.log` (agent run state); `public/llms/brands/sabian.md` was already present in main (502 words, 4 FAQ entries, internal links to brand and gear pages).
+- **Fix:** `public/llms/brands/sabian.md` already exists and satisfies all quality gates: ≥300 words (502), 4 FAQ Q&As (≥3 required), internal links to `/brands/sabian`, `/llms/gear-by-brand.md`, `/llms/gear-guide.md`, and `/llms.txt`.
+- **Validation:** `ls public/llms/brands/` confirms sabian.md present; `wc -w` returns 502 words.
+- **Follow-ups:** Consider adding Mapex to `gearBrands` in `api/sitemap.js` (or removing the orphaned `public/llms/brands/mapex.md`) — Mapex is not currently sitemapped.

@@ -295,12 +295,60 @@ function getMetaForPath(pathname) {
 
   // Beginner guide
   if (path === '/beginner-guide') {
+    const articleSchema = [
+      {
+        '@context': 'https://schema.org',
+        '@type': 'WebPage',
+        name: "Metal Drumming Beginner's Guide",
+        url: `${BASE_URL}/beginner-guide`,
+        description: 'Start your metal drumming journey! Essential gear recommendations, technique basics, and tips from legendary drummers.',
+      },
+      {
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        mainEntity: [
+          {
+            '@type': 'Question',
+            name: 'What gear does a beginner metal drummer need?',
+            acceptedAnswer: {
+              '@type': 'Answer',
+              text: 'A beginner metal drummer needs a drum kit (acoustic or electronic), drumsticks (5A or 5B nylon-tip work well), a practice pad, a metronome, and hearing protection. An acoustic kit should include a bass drum, snare, hi-hat, crash, and ride cymbal as a minimum setup.',
+            },
+          },
+          {
+            '@type': 'Question',
+            name: 'How long does it take to learn metal drumming?',
+            acceptedAnswer: {
+              '@type': 'Answer',
+              text: 'With consistent daily practice (30–60 minutes), most beginners can play basic metal beats within 3–6 months. Mastering double bass technique, blast beats, and complex polyrhythms typically takes 2–4 years of dedicated practice.',
+            },
+          },
+          {
+            '@type': 'Question',
+            name: 'What drumsticks are best for beginner metal drummers?',
+            acceptedAnswer: {
+              '@type': 'Answer',
+              text: 'Beginner metal drummers typically start with 5A or 5B drumsticks. 5B sticks are slightly thicker and heavier, offering more power for metal playing. Nylon tips provide a brighter cymbal sound and are more durable than wood tips.',
+            },
+          },
+          {
+            '@type': 'Question',
+            name: 'Should a beginner metal drummer get an acoustic or electronic drum kit?',
+            acceptedAnswer: {
+              '@type': 'Answer',
+              text: 'Electronic kits are ideal for beginners with space or noise constraints — they are quieter, require less tuning, and often include practice features. Acoustic kits give a more authentic feel and response. If space and neighbors allow, an entry-level acoustic kit provides the best learning experience for metal drumming.',
+            },
+          },
+        ],
+      },
+    ];
     return {
       title: `Metal Drumming Beginner's Guide | ${SITE_NAME}`,
       description: 'Start your metal drumming journey! Essential gear recommendations, technique basics, and tips from legendary drummers.',
       image: `${BASE_URL}/images/og/beginner-guide-preview.png`,
       type: 'article',
       url: `${BASE_URL}/beginner-guide`,
+      articleSchema,
     };
   }
 

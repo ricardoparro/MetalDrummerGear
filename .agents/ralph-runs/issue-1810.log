@@ -1,0 +1,11 @@
+Done. Here's the 5-line summary:
+
+**Problem:** Issue #1810 requested a new `joey-jordison-signature-gear-guide` article targeting the 'joey jordison drum kit for sale' query (22.22% CTR, pos 5.8) — covering signature items (Pearl JJ1365, Promark TX515W), a budget replica builder, collector's corner, where-to-buy guide, and modern alternatives.
+
+**Files changed:** Already applied in commit `9b25767` — `packages/frontend/data/albumArticles.js` (entry at key `joey-jordison-signature-gear-guide`, lines 32589–32919) and `public/llms/articles/joey-jordison-signature-gear-guide.md` (127 lines). The gear-guide articleType rendering was patched in a follow-up commit `7cbbacf` in `packages/frontend/App.js`.
+
+**Fix:** Added complete `gear-guide` articleType article with 5 FAQ pairs (Pearl snare availability, Iowa tour kit, how-to-build, post-death signature status, where-to-find Masterworks), budget replica builder table ($2,500 target), collector authentication guidance, where-to-buy channel breakdown (authorized dealers, Reverb, eBay, vintage drum dealers), modern alternatives for discontinued items, and relatedDrummerSlug of `joey-jordison` for internal linking.
+
+**Validation:** `node --check` passes on albumArticles.js; `getAlbumArticleBySlug('joey-jordison-signature-gear-guide')` returns the full article; FAQ count = 5 (≥3 required); datePublished = 2026-06-20 present; mentions JJ1365, Iowa tour, and TX515W; relatedDrummerSlug = joey-jordison; LLM companion file exists at public/llms/articles/joey-jordison-signature-gear-guide.md; gear-guide articleType handled in App.js header and list rendering.
+
+**Follow-ups:** None — both deliverables exist, all quality gates pass, sitemap entry is served dynamically from `getAllAlbumArticles()`, and gear-guide articleType rendering is live.

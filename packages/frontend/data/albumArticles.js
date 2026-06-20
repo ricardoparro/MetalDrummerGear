@@ -33515,6 +33515,20 @@ Despite the gear change, Mario's fundamental approach remained constant: dual ba
     relatedLicks: [
       { drummerSlug: 'mario-duplantier', lickSlug: 'mario-duplantier-polyrhythmic-groove', label: "Watch Mario Duplantier's polyrhythmic groove breakdown" }
     ],
+    faq: [
+      {
+        question: "What drums did Mario Duplantier use on L'Enfant Sauvage?",
+        answer: "On L'Enfant Sauvage (2012), Mario Duplantier played a DW Collector's Series maple kit in a Custom Lacquer Black Burst finish. The configuration included dual 22\" x 18\" bass drums (played as two independent instruments, not a double pedal), 10\" and 12\" rack toms, and 14\" and 16\" floor toms. This was a significant departure from his earlier Tama Starclassic Bubinga setup used on The Way of All Flesh — the DW maple shells deliver a cleaner, more defined attack suited to the album's more produced sound."
+      },
+      {
+        question: "What cymbals does Mario Duplantier play on L'Enfant Sauvage?",
+        answer: "Mario Duplantier switched to Meinl Byzance Brilliant cymbals for L'Enfant Sauvage, replacing the Zildjian K Custom series he had used on earlier Gojira albums. His setup included 14\" Byzance Brilliant hi-hats, crashes in 17\", 19\", and 20\" sizes, a 21\" Byzance Brilliant ride, and an 18\" Byzance Brilliant china. The Brilliant finish — a mirror-polished surface — adds brightness and projection compared to the darker, more complex Zildjian K Custom character, contributing to the album's more articulate upper-frequency texture."
+      },
+      {
+        question: "Was L'Enfant Sauvage Grammy nominated?",
+        answer: "Yes. Gojira received a Grammy nomination for Best Hard Rock/Metal Performance at the 2013 Grammy Awards for the title track 'L'Enfant Sauvage.' This was a landmark achievement for a French progressive death metal band and confirmed the album's crossover appeal. The band also appeared on the cover of Guitar World magazine during this album cycle — extraordinary mainstream recognition for an uncompromising heavy metal act."
+      }
+    ],
     conclusion: {
       title: "The Wild Child Grows Up",
       content: `"L'Enfant Sauvage" — the wild child — is Gojira's album of maturation without compromise. It is simultaneously their most accessible and most accomplished record: cleaner production, stronger songs, and a drummer who has fully absorbed his influences and transformed them into something entirely personal.

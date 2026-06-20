@@ -225,6 +225,7 @@ Clean Markdown gear breakdowns for every album drum-setup and "what's in <drumme
 | Lateralus Drum Setup: Danny Carey's Progressive Masterpiece | Danny Carey | [Markdown](https://metalforge.io/llms/articles/lateralus-drum-setup.md) |
 | What's In Mike Portnoy's Reunion Kit: Dream Theater 2025 Complete Breakdown | Mike Portnoy | [Markdown](https://metalforge.io/llms/articles/whats-in-mike-portnoys-kit.md) |
 | Images and Words Drum Setup: Mike Portnoy's Progressive Metal Breakthrough | Mike Portnoy | [Markdown](https://metalforge.io/llms/articles/images-and-words-drum-setup.md) |
+| Metropolis Pt. 2: Scenes from a Memory Drum Setup — Mike Portnoy's Magnum Opus | Mike Portnoy | [Markdown](https://metalforge.io/llms/articles/scenes-from-a-memory-drum-setup.md) |
 | What's In Mario Duplantier's Environmental Kit: Complete Gear Breakdown | Mario Duplantier | [Markdown](https://metalforge.io/llms/articles/whats-in-mario-duplantiers-kit.md) |
 | What's In Brann Dailor's Kit: Mastodon's Melodic Thunder Complete Breakdown | Brann Dailor | [Markdown](https://metalforge.io/llms/articles/whats-in-brann-dailors-kit.md) |
 | What's In Chris Adler's Lamb of God Arsenal: Complete Gear Breakdown | Chris Adler | [Markdown](https://metalforge.io/llms/articles/whats-in-chris-adlers-kit.md) |

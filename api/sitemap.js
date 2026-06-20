@@ -201,6 +201,11 @@ const soundLikeGuides = [
   { slug: 'how-to-sound-like-brann-dailor', name: 'How to Sound Like Brann Dailor' },
   { slug: 'how-to-sound-like-matt-halpern', name: 'How to Sound Like Matt Halpern' },
   { slug: 'how-to-sound-like-chris-adler', name: 'How to Sound Like Chris Adler' },
+  // Issue #1803: SEO batch — 4 new sound-like guides
+  { slug: 'how-to-sound-like-matt-greiner', name: 'How to Sound Like Matt Greiner' },
+  { slug: 'how-to-sound-like-george-kollias', name: 'How to Sound Like George Kollias' },
+  { slug: 'how-to-sound-like-travis-orbin', name: 'How to Sound Like Travis Orbin' },
+  { slug: 'how-to-sound-like-flo-mounier', name: 'How to Sound Like Flo Mounier' },
 ];
 
 // Issue #702: Beginner gear guides - SEO content hub

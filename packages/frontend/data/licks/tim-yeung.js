@@ -34,7 +34,7 @@ export const licks = {
       "Build the pattern from 100 BPM with clean single strokes before raising tempo, letting efficiency create speed"
     ],
     "tutorial": {
-      "youtubeId": null,
+      "youtubeId": "PDfqG3f4zjM",
       "startTime": 0,
       "title": "Divine Heresy — Bleed the Fifth (Tim Yeung drum performance)",
       "description": "Tim Yeung's blast beat pattern on the title track from Divine Heresy's 2007 Roadrunner debut, demonstrating extreme-tempo blast control with locked double bass"
@@ -96,7 +96,7 @@ export const licks = {
       "Practice with trigger-free monitoring at low volumes so any unevenness in tone becomes immediately audible"
     ],
     "tutorial": {
-      "youtubeId": null,
+      "youtubeId": "RNX1dAiZMoE",
       "startTime": 0,
       "title": "Divine Heresy — Inferno of Violence (Tim Yeung drum performance)",
       "description": "Tim Yeung's extended double bass drive on Inferno of Violence from Divine Heresy's Bleed the Fifth album"
@@ -158,7 +158,7 @@ export const licks = {
       "Build all four limbs to full independence at tempo before attempting dynamic variation within the pattern"
     ],
     "tutorial": {
-      "youtubeId": null,
+      "youtubeId": "RNX1dAiZMoE",
       "startTime": 0,
       "title": "Divine Heresy — Anarchists of the Underground (Tim Yeung drum performance)",
       "description": "Tim Yeung's extreme-tempo speed groove on Anarchists of the Underground from Divine Heresy's Bleed the Fifth"

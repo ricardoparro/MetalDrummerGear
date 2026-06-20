@@ -34,7 +34,7 @@ export const licks = {
       "Mirror the breakdown riff's rhythmic accent hits on kick and snare for a locked, precision riff-unison moment"
     ],
     "tutorial": {
-      "youtubeId": null,
+      "youtubeId": "Qusz5TmXWQQ",
       "startTime": 0,
       "title": "Shadows Fall — The Light That Blinds (Jason Bittner drum performance)",
       "description": "Jason Bittner's drum performance on The Light That Blinds from The War Within, demonstrating metalcore groove control, double bass density, and breakdown precision"
@@ -112,7 +112,7 @@ export const licks = {
       "Insert off-beat single-stroke roll entries to give fills an animated, rhythmically surprising quality over the driving groove"
     ],
     "tutorial": {
-      "youtubeId": null,
+      "youtubeId": "IiykDQrUfZo",
       "startTime": 0,
       "title": "Shadows Fall — What Drives the Weak (Jason Bittner drum performance)",
       "description": "Jason Bittner's metalcore fill sequences and groove construction on What Drives the Weak from Threads of Life"
@@ -190,7 +190,7 @@ export const licks = {
       "Adapt kick dynamics to the riff's breathing points — less kick when the riff breathes, more density when it locks into its tightest rhythmic figures"
     ],
     "tutorial": {
-      "youtubeId": null,
+      "youtubeId": "GSbgxG-jLMU",
       "startTime": 0,
       "title": "Overkill — Goddamn Trouble (Jason Bittner drum performance)",
       "description": "Jason Bittner's thrash double bass runs and ride-driving groove with Overkill on Goddamn Trouble from The Grinding Wheel"

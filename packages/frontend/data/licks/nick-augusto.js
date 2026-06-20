@@ -34,7 +34,7 @@ export const licks = {
       "Build the groove in layers: ride first, then kick, then snare — adding each limb cleanly before introducing the next"
     ],
     "tutorial": {
-      "youtubeId": null,
+      "youtubeId": "0Xfvk028Kv0",
       "startTime": 0,
       "title": "Trivium — In Waves (Nick Augusto drum performance)",
       "description": "Nick Augusto's main groove pattern on In Waves from Trivium's 2011 album of the same name, demonstrating thrash-meets-metalcore groove construction"
@@ -96,7 +96,7 @@ export const licks = {
       "Practise each fill in its full phrase context — preceding groove plus fill plus landing — rather than isolating the fill alone"
     ],
     "tutorial": {
-      "youtubeId": null,
+      "youtubeId": "f7rXtYuxUzs",
       "startTime": 0,
       "title": "Trivium — Built to Fall (Nick Augusto drum performance)",
       "description": "Nick Augusto's metalcore fill sequences and phrase-end placement on Built to Fall from Trivium's In Waves album"
@@ -158,7 +158,7 @@ export const licks = {
       "Practise blast-to-groove transitions slowly before adding tempo — the clean handoff between patterns is the hardest coordination challenge"
     ],
     "tutorial": {
-      "youtubeId": null,
+      "youtubeId": "tWaye_eG1e8",
       "startTime": 0,
       "title": "Trivium — Vengeance Falls (Nick Augusto drum performance)",
       "description": "Nick Augusto's blast beat passages and metalcore drive on Vengeance Falls from Trivium's 2013 David Draiman-produced album"

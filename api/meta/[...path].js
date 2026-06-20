@@ -2500,6 +2500,25 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/history`,
+      articleSchema: JSON.stringify([
+        {
+          '@context': 'https://schema.org',
+          '@type': 'CollectionPage',
+          name: 'Metal Drum Kit History & Evolution Timeline',
+          description: 'The complete history of metal drumming from Black Sabbath to modern extreme metal.',
+          url: `${BASE_URL}/history`,
+          publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+        },
+        {
+          '@context': 'https://schema.org',
+          '@type': 'FAQPage',
+          mainEntity: [
+            { '@type': 'Question', name: 'When did metal drumming begin?', acceptedAnswer: { '@type': 'Answer', text: 'Metal drumming traces its origins to Black Sabbath in 1968-1970, when Bill Ward developed the heavy, blues-influenced drumming style that defined early heavy metal.' } },
+            { '@type': 'Question', name: 'When was the blast beat invented?', acceptedAnswer: { '@type': 'Answer', text: 'The blast beat emerged in the mid-1980s from hardcore punk and grindcore bands like Repulsion and Napalm Death, popularized in death metal by Pete Sandoval of Morbid Angel.' } },
+            { '@type': 'Question', name: 'How have metal drum kits evolved over the decades?', acceptedAnswer: { '@type': 'Answer', text: 'Metal drum kits evolved from basic 4-piece rock setups (1970s) to double bass configurations (1980s thrash), to massive triggered electronic/acoustic hybrids (1990s-2000s extreme metal), to modern minimal precision rigs (2010s-present).' } },
+          ],
+        },
+      ]),
     };
   }
 

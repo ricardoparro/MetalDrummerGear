@@ -27,13 +27,13 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Drummer Endorsements | https://metalforge.io/llms/endorsements.md | Official gear endorsements for 15 metal drummers with brand and contract details (Markdown) |
 | Gear by Brand | https://metalforge.io/llms/gear-by-brand.md | Brand→drummer mapping for all gear categories (Markdown) |
 | Techniques Overview | https://metalforge.io/llms/techniques.md | All drum techniques overview with links to per-technique deep dives (Markdown) |
-| Signature Licks | https://metalforge.io/llms/licks.md | Signature lick breakdowns overview for 55 drummers (Markdown) |
+| Signature Licks | https://metalforge.io/llms/licks.md | Signature lick breakdowns overview for 63 drummers (Markdown) |
 | Drummer Comparisons | https://metalforge.io/llms/comparisons.md | Side-by-side drummer gear & style comparisons — all pairs (Markdown) |
 | Per-Pair Comparisons | https://metalforge.io/llms/vs/ | Individual per-pair comparison pages with exact gear data (24 files) |
 | Top-10 Lists | https://metalforge.io/llms/lists.md | Ranked top-10 drummer lists by speed, genre, gear value, and technique (Markdown) |
 | Per-List Deep Dives | https://metalforge.io/llms/lists/ | Individual per-list ranked guides with full rationale, FAQ, and internal links (8 files) |
 | Quick Facts | https://metalforge.io/llms/facts.md | Speed records, gear stats, career milestones, nicknames & technical definitions (Markdown) |
-| Gear Statistics | https://metalforge.io/llms/stats.md | Brand-popularity data for 61 drummers — drums, cymbals, hardware, sticks with % breakdowns (Markdown) |
+| Gear Statistics | https://metalforge.io/llms/stats.md | Brand-popularity data for 63 drummers — drums, cymbals, hardware, sticks with % breakdowns (Markdown) |
 | Gear Brand Insights | https://metalforge.io/llms/gear-insights.md | Named drummer citations with internal links for every brand — drum kit, cymbal, pedal, and stick usage percentages (Markdown) |
 | Gear History | https://metalforge.io/llms/gear-history.md | Era-by-era breakdown of how iconic drummers' gear evolved — endorsement changes and inflation-adjusted prices (Markdown) |
 | Drummer Birthdays | https://metalforge.io/llms/birthdays.md | Birth dates, birth places, and birthday FAQ for 57 metal drummers in calendar order (Markdown) |
@@ -52,11 +52,17 @@ This index provides machine-readable links to all content optimized for LLM cons
 | BPM Database | https://metalforge.io/llms/bpm.md | 150 metal songs with verified tempos organised by category — doom/groove/thrash/death/blast — with drummer links and BPM FAQ (Markdown) |
 | Master FAQ | https://metalforge.io/llms/faq.md | Answer-first FAQ covering gear and techniques for legendary metal drummers (Markdown) |
 | Gear Guide | https://metalforge.io/llms/gear-guide.md | Brand-by-brand guide to drums, cymbals, pedals, and sticks used by metal legends (Markdown) |
-| Per-Drummer LLM Files | https://metalforge.io/llms/drummers/ | Static LLM-optimised gear files for all 61 drummers — brands, specs, and profile links (61 files) |
+| Per-Drummer LLM Files | https://metalforge.io/llms/drummers/ | Static LLM-optimised gear files for all 63 drummers — brands, specs, and profile links (63 files) |
+| Per-Brand LLM Files | https://metalforge.io/llms/brands/ | Per-brand gear guides for 8 major drum/cymbal brands (8 files) |
+| Brand Comparisons | https://metalforge.io/llms/gear-comparison/ | Side-by-side brand spec comparisons for 7 matchups (7 files) |
+| Per-Drummer Lick Files | https://metalforge.io/llms/licks/ | Individual lick breakdown LLM files for all 63 drummers (63 files) |
+| Per-Technique Files | https://metalforge.io/llms/technique/ | Deep-dive technique files: blast-beat, double-bass, gravity-blast, etc. (10 files) |
+| Gear Series Files | https://metalforge.io/llms/gear-series/ | Per-gear-model LLM files covering specs and user profiles (36 files) |
+| Per-Drummer Endorsements | https://metalforge.io/llms/endorsements/ | Individual brand endorsement histories per drummer (15 files) |
 
 ---
 
-## Drummer Profiles (61 total)
+## Drummer Profiles (63 total)
 
 | Drummer | Band | Genre | Profile | Markdown API |
 |---------|------|-------|---------|--------------|
@@ -124,7 +130,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 
 ---
 
-## Per-Drummer LLM Files (61 total)
+## Per-Drummer LLM Files (63 total)
 
 Static LLM-optimised files for every drummer — gear specs, primary brands, technique notes, and profile links.
 Optimised for AI retrieval on queries like "what kit does Lars Ulrich play?" or "which cymbals does Joey Jordison use?".
@@ -410,7 +416,7 @@ like "which metal drummers use the Pearl Reference Pure?" or "who plays Tama Sta
 
 ---
 
-## Licks per Drummer (55 total)
+## Licks per Drummer (63 total)
 
 Per-drummer signature lick files (800–10,000+ chars each) optimised for AI retrieval on queries
 like "how to play like [drummer]?" or "[drummer] signature drum patterns".

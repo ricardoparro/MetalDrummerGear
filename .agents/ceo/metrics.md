@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-20 05:31 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-20 07:21 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,32 +8,32 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 58 |
-| Sessions | 77 |
-| Page views | 147 |
-| Engagement rate | 49.35% |
-| Avg session (s) | 201 |
+| Active users | 59 |
+| Sessions | 79 |
+| Page views | 173 |
+| Engagement rate | 50.63% |
+| Avg session (s) | 229 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 38 | 11 |
-| /drummers | 14 | 2 |
+| / | 40 | 11 |
+| /drummers | 18 | 2 |
 | /tools | 11 | 2 |
 | /drummer/2 | 9 | 8 |
+| /drummers/igor-cavalera/licks/igor-cavalera-refuse-resist-double-bass | 9 | 1 |
 | /drummer/mikkey-dee | 6 | 1 |
 | /drummer/frost | 5 | 1 |
 | /drummer/shannon-larkin | 5 | 2 |
-| /drummers/igor-cavalera/licks/igor-cavalera-refuse-resist-double-bass | 5 | 1 |
+| /drummers/igor-cavalera/licks/igor-cavalera-beneath-the-remains-blast | 5 | 1 |
 | /gear | 4 | 1 |
-| /drummer/46 | 3 | 2 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 35 | 33 |
-| Direct | 32 | 17 |
-| Unassigned | 19 | 15 |
+| Organic Search | 40 | 37 |
+| Direct | 33 | 17 |
+| Unassigned | 20 | 16 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

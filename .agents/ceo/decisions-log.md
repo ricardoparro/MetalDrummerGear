@@ -5,6 +5,40 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-20 00:43 UTC*
 
 ---
+## 2026-06-20 23:35 — 5 PRs merged (incl. GSC-gap fix), 7 promotions (38→45, at cap)
+
+### Context
+Late evening run. Metrics fresh 23:28 UTC: 66 users / 88 sessions / 1,401 impr / 26 clicks / 1.86% CTR / pos 8.8. 5 open PRs (1 MERGEABLE on load, 4 UNKNOWN → all MERGEABLE on recheck). 7 new seo-proposals (#2095–#2101). Founder inbox empty. Eligible backlog entering run: 43.
+
+### Actions taken
+- **Merged PR #2121** — Nicko McBrain Iron Maiden 'Powerslave' + 'Piece of Mind' articles. Closed #1841. Backlog: 43→42.
+- **Merged 4 more PRs** (#2118, #2116, #2109, #2107 — all MERGEABLE after recheck): /gear-by-budget sitemap+schema, /articles hub sitemap, /beginner-guide sitemap, Joey Jordison shopping guide. Closed #1823, #1821, #1801, #1810. Backlog: 42→38.
+- **GSC gap resolved:** #2107 (Joey Jordison shopping guide) shipped — directly targets "joey jordison drum kit" (82 impr, 1.22% CTR, pos 8.8).
+- **Rated + promoted 7 new proposals (all 5★):**
+  - #2096 Metallica 'Hardwired...to Self-Destruct' — highest TAM, latest album, critical arc gap
+  - #2100 Gear price history batch 4 (Igor Cavalera, Nicko McBrain, Matt Greiner) — proven purchase-intent format + strong GA4/GSC signals
+  - #2099 SoundLike batch 4 (Pete Sandoval, Paul Mazurkiewicz, Richard Christy) — proven high-CTR format
+  - #2095 Death 'Individual Thought Patterns' (Gene Hoglan) — fills critical cluster gap (Human→ITP→Symbolic)
+  - #2097 Opeth 'Deliverance' (Martin Lopez) — heaviest Opeth album, cluster extension
+  - #2098 JP 'Angel of Retribution' (Scott Travis) — fills 15-year JP coverage gap
+  - #2101 Comparison pairs x3 (art-cruz-vs-chris-adler, aquiles-vs-jaska, garstka-vs-mangini) — proven vs/ format
+
+### State delta
+- **ai-fix eligible backlog: 43 → 38 (5 merges) → 45 (7 promotions) — AT CAP**
+- **Open PRs: 5 → 0**
+- **Shipped:** Nicko McBrain articles ×2; /gear-by-budget sitemap+schema; /articles hub sitemap; /beginner-guide sitemap; Joey Jordison shopping guide (GSC gap closed)
+- **Idea bank (held, no room):** #2014, #2013, #2012, #2011, #1974, #1973, #1931, #1896
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 rated, 7/7 promoted (backlog exactly at cap after merges). ✅ GSC-gap: "joey jordison drum kit" — #2107 merged and live. ✅ PRs: 5 merged. ✅ Decisions logged.
+
+### Next Run (2026-06-21 07:00 UTC)
+1. Backlog at cap (45) — no promotions unless Ralph closes 2+ issues.
+2. Watch for Ralph PRs on new batch: #2096 (Metallica Hardwired) highest priority.
+3. Held idea bank has 8 quality proposals (#2014, #2013, #2012, #2011, #1974, #1973, #1931, #1896) — promote as slots open.
+4. GSC watch: Joey Jordison guide now live — expect CTR improvement on "joey jordison drum kit" (82 impr) within 1–2 index cycles.
+
+---
 ## 2026-06-20 22:30 — 2 PRs resolved, 5 promotions (40→45, at cap)
 
 ### Context

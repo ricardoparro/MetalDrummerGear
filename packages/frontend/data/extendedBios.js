@@ -5545,7 +5545,8 @@ Priester is considered one of the greatest power metal drummers in the world. Hi
           { name: 'Pearl Drums', url: 'https://pearldrum.com' },
           { name: 'Vic Firth', url: 'https://vicfirth.com' },
           { name: 'Wikipedia: Aquiles Priester', url: 'https://en.wikipedia.org/wiki/Aquiles_Priester' },
-          { name: 'Angra Official', url: 'https://www.angra.net/' }
+          { name: 'Angra Official', url: 'https://www.angra.net/' },
+          { name: 'Complete Drum Setup Guide', url: 'https://metalforge.io/articles/aquiles-priester-drum-setup' }
         ]
       }
     }

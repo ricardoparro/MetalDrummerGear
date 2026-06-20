@@ -4677,7 +4677,7 @@ For progressive metal, Lateralus was a watershed moment. It proved that complexi
     videos: [
       { youtubeId: 'Y7JG63IuaWs', title: 'The Grudge - Live', description: 'Extended live performance' },
     ],
-    relatedAlbums: ['fear-inoculum-drum-setup', 'obzen-drum-setup'],
+    relatedAlbums: ['aenima-drum-setup', 'fear-inoculum-drum-setup', 'obzen-drum-setup'],
     relatedDrummers: [5, 15, 17], // Tomas Haake, Mario Duplantier, Mike Portnoy
     relatedArticles: ['progressive-metal-drummers', 'polyrhythmic-drumming-guide'],
     relatedLicks: [

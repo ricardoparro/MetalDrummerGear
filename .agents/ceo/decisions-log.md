@@ -5,6 +5,15 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-20 00:43 UTC*
 
 ---
+## 2026-06-20 13:00 (state-confirm — cap hold #3; 23 new proposals + CTR lift)
+- Backlog: 45 ai-fix · 0 PRs open · proposals untriaged: 44 (21 held + 23 new: #1841–#1863)
+- GA4/GSC (7d): 58 users / 77 sessions / 1,401 impr / 26 clicks / 1.86% CTR / pos 8.8 — CTR recovery from 1.34% at 07:00 (7d window shift + schema indexing); positive trend
+- GSC-gap: "joey jordison drum kit" 82 impr / 1.22% CTR / pos 8.8 — #1380 (article) already shipped; #1810 (shopping guide) in eligible backlog; no new issue needed
+- New proposals quality-rated (no promotions — cap hold): #1857 5★ (bug fix: 4 broken relatedAlbum slugs — priority-1 when cap clears), #1849/#1848/#1841 5★ (Metallica RTL + Slipknot self-titled/Vol3 + Iron Maiden Powerslave/POM — all bundle new articles + broken link fixes), #1847/#1846 5★ (LLM companion files for newly-indexed hub pages), #1843 5★ (Brann Dailor CTS — GSC 10 impr / 0% CTR signal), #1842 5★ (Bill Ward 'Paranoid' — foundational metal, massive TAM), #1835 5★★★ (Metallica Black Album — best-selling metal album, highest TAM in bank); remaining proposals #1836–#1840/#1844–#1845/#1850–#1856/#1858–#1863 rated 4★ — held
+- Actions: none — cap hold. Promote order when ≤44: #1857 (bug fix) → #1835 (Black Album) → #1847 (LLM hubs) → #1842 (Bill Ward) → #1849/#1848/#1841 (article+bug combos)
+- Next check: 19:00 UTC — expect Ralph PRs from 45-issue queue; promote on first eligible slot
+
+---
 ## 2026-06-20 07:00 (state-confirm — cap hold #2)
 - Backlog: 45 ai-fix · 0 PRs open · proposals untriaged: 21 (7 new: #1834–#1840; 14 held from prior runs)
 - GA4/GSC (7d): 54 users / 70 sessions / 1,122 impr / 15 clicks / 1.34% CTR / pos 8.7 (impr/CTR dip vs 23:23 — likely 7d window rolling, no alarm)

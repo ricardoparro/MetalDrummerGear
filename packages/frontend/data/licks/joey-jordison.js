@@ -107,6 +107,12 @@ export const licks = {
       "Maintain consistent volume throughout",
       "Focus on wrist technique to avoid fatigue"
     ],
+    "tutorial": {
+      "youtubeId": "fyRg3IKLCuY",
+      "startTime": 0,
+      "title": "Slipknot - Eyeless (Joey Jordison Drum Cover)",
+      "description": "Drum cover of Joey Jordison's blast beat section from Slipknot's Eyeless"
+    },
     "gearUsed": [
       {
         "name": "Pearl Joey Jordison Signature Snare",

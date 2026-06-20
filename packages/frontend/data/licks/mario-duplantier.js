@@ -174,6 +174,12 @@ export const licks = {
       "Bass drum locks with guitar chug",
       "Ride cymbal provides wash and texture"
     ],
+    "tutorial": {
+      "youtubeId": "c8my3UqStjI",
+      "startTime": 0,
+      "title": "Gojira - Backbone (Drum Cover)",
+      "description": "Drum cover of Mario Duplantier's heavy pocket groove on Gojira's Backbone"
+    },
     "gearUsed": [
       {
         "name": "Mapex Saturn Kit",

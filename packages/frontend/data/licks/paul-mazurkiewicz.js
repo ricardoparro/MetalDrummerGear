@@ -93,7 +93,12 @@ export const licks = {
       "Prioritise consistency and grinding momentum over fills",
       "Build the double bass slowly and evenly before adding accent layers"
     ],
-    "tutorial": null,
+    "tutorial": {
+      "youtubeId": "7pINeSy8Dow",
+      "startTime": 0,
+      "title": "Cannibal Corpse - I Cum Blood (Drum Cover)",
+      "description": "Paul Mazurkiewicz's sustained double-bass technique from the Tomb of the Mutilated album (1992)"
+    },
     "gearUsed": [
       { "name": "DW Collector's Series Kit", "type": "drums", "link": null },
       { "name": "Paiste 2002 Cymbals", "type": "cymbals", "link": null },

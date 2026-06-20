@@ -444,6 +444,8 @@ export default function handler(req, res) {
     ...beginnerGuides.map(g => ({ loc: `/guides/${g.slug}`, priority: '0.95', changefreq: 'monthly' })),
     // Issue #1794: Genre gear guides (commercial-intent purchase queries)
     ...Object.values(GENRE_GEAR_GUIDES).map(g => ({ loc: `/guides/${g.slug}`, priority: '0.95', changefreq: 'monthly' })),
+    // Issue #1804: Shareable gear cards gallery
+    { loc: '/cards', priority: '0.6', changefreq: 'monthly' },
     // Issue #1579: BPM Tap Calculator + Metal Songs BPM Database
     { loc: '/bpm', priority: '0.95', changefreq: 'weekly' },
     { loc: '/bpm-tap', priority: '0.9', changefreq: 'monthly' },

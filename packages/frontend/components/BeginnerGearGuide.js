@@ -22,6 +22,8 @@ import {
   generateProductSchemas,
   generateBeginnerFaqSchema
 } from '../data/beginnerGuides';
+// Issue #1794: genre gear guide pages — /guides/best-[gear]-for-[genre]
+import { GENRE_GEAR_GUIDES } from '../data/genreGearGuides';
 
 // Legacy slug for back-compat (Issue #702 shipped a single hardcoded guide).
 const DEFAULT_BEGINNER_GUIDE_SLUG = 'beginner-metal-drummer-setup';
@@ -109,14 +111,56 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer, slug }) 
   const isMobile = width < 768;
   const activeSlug = slug || DEFAULT_BEGINNER_GUIDE_SLUG;
   const [guide, setGuide] = useState(null);
+  const [genreGuide, setGenreGuide] = useState(null);
+  const [genreActiveSection, setGenreActiveSection] = useState('intro');
   const [notFound, setNotFound] = useState(false);
   const [activeSection, setActiveSection] = useState('intro');
   const [expandedFaq, setExpandedFaq] = useState({});
 
   useEffect(() => {
     const loadedGuide = getBeginnerGuideBySlug(activeSlug);
+    // Issue #1794: fall back to genre gear guide data when not a beginner guide slug
+    const loadedGenreGuide = !loadedGuide ? (GENRE_GEAR_GUIDES[activeSlug] || null) : null;
     setGuide(loadedGuide);
-    setNotFound(!loadedGuide);
+    setGenreGuide(loadedGenreGuide);
+    setNotFound(!loadedGuide && !loadedGenreGuide);
+
+    if (loadedGenreGuide) {
+      // Genre guide: reuse the same OG meta updater (same field shapes)
+      updateBeginnerGuideMeta(loadedGenreGuide);
+      if (Platform.OS === 'web' && typeof document !== 'undefined') {
+        const schemaObj = {
+          '@context': 'https://schema.org',
+          '@graph': [
+            {
+              '@type': 'Article',
+              headline: loadedGenreGuide.title,
+              description: loadedGenreGuide.description,
+              author: { '@type': 'Organization', name: loadedGenreGuide.author || 'MetalForge Editorial' },
+              datePublished: loadedGenreGuide.datePublished,
+              dateModified: loadedGenreGuide.dateModified,
+              publisher: { '@type': 'Organization', name: 'MetalForge', url: 'https://metalforge.io' },
+            },
+            ...(loadedGenreGuide.faq ? [{
+              '@type': 'FAQPage',
+              mainEntity: loadedGenreGuide.faq.map(q => ({
+                '@type': 'Question',
+                name: q.question,
+                acceptedAnswer: { '@type': 'Answer', text: q.answer },
+              })),
+            }] : []),
+          ],
+        };
+        let ldScript = document.querySelector('script[data-schema="genre-guide-article"]');
+        if (!ldScript) {
+          ldScript = document.createElement('script');
+          ldScript.type = 'application/ld+json';
+          ldScript.setAttribute('data-schema', 'genre-guide-article');
+          document.head.appendChild(ldScript);
+        }
+        ldScript.textContent = JSON.stringify(schemaObj);
+      }
+    }
 
     if (loadedGuide) {
       // Update OG meta
@@ -177,7 +221,7 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer, slug }) 
     // Cleanup schemas on unmount
     return () => {
       if (Platform.OS === 'web' && typeof document !== 'undefined') {
-        ['beginner-howto', 'beginner-products', 'beginner-faq'].forEach(schemaId => {
+        ['beginner-howto', 'beginner-products', 'beginner-faq', 'genre-guide-article'].forEach(schemaId => {
           const script = document.querySelector(`script[data-schema="${schemaId}"]`);
           if (script) script.remove();
         });
@@ -275,6 +319,183 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer, slug }) 
           <Text style={[styles.loadingText, { color: theme.text }]}>Loading guide...</Text>
         </View>
       </View>
+    );
+  }
+
+  // Issue #1794: Genre gear guide render (different data shape from beginner guides)
+  if (genreGuide) {
+    const picks = genreGuide.proRecommendations?.pedals || genreGuide.proRecommendations?.snares || [];
+    const budgetPicks = genreGuide.budgetOptions?.pedals || genreGuide.budgetOptions?.snares || [];
+    const genreSections = [
+      genreGuide.intro && { id: 'intro', label: '📖 Intro', icon: '📖' },
+      genreGuide.whatToLookFor && { id: 'features', label: '⚙️ Features', icon: '⚙️' },
+      picks.length > 0 && { id: 'picks', label: '🏆 Pro Picks', icon: '🏆' },
+      budgetPicks.length > 0 && { id: 'budget', label: '💰 Budget', icon: '💰' },
+      genreGuide.faq && { id: 'faq', label: '❓ FAQ', icon: '❓' },
+    ].filter(Boolean);
+    const resolvedGenreSection = genreSections.some(s => s.id === genreActiveSection)
+      ? genreActiveSection
+      : (genreSections[0]?.id || 'intro');
+
+    return (
+      <ScrollView style={[styles.container, { backgroundColor: theme.background }]} contentContainerStyle={styles.contentContainer}>
+        <View style={styles.header}>
+          <TouchableOpacity onPress={onBack} style={[styles.backButton, { borderColor: theme.border }]}>
+            <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Guides</Text>
+          </TouchableOpacity>
+        </View>
+
+        {/* Hero */}
+        <View style={[styles.heroSection, { backgroundColor: theme.card }]}>
+          {genreGuide.hero?.badge && (
+            <View style={[styles.heroBadge, { backgroundColor: theme.primary }]}>
+              <Text style={styles.heroBadgeText}>{genreGuide.hero.badge}</Text>
+            </View>
+          )}
+          <Text style={[styles.heroTitle, { color: theme.text }]}>{genreGuide.hero?.title || genreGuide.title}</Text>
+          <Text style={[styles.heroSubtitle, { color: theme.secondaryText }]}>{genreGuide.hero?.subtitle || genreGuide.description}</Text>
+          <View style={styles.heroStats}>
+            {(genreGuide.hero?.stats || []).map((stat, i) => (
+              <View key={i} style={[styles.heroStat, { backgroundColor: theme.background }]}>
+                <Text style={[styles.heroStatValue, { color: theme.primary }]}>{stat.value}</Text>
+                <Text style={[styles.heroStatLabel, { color: theme.secondaryText }]}>{stat.label}</Text>
+              </View>
+            ))}
+          </View>
+        </View>
+
+        {/* Section Nav */}
+        <ScrollView horizontal showsHorizontalScrollIndicator={false} style={styles.sectionNav} contentContainerStyle={styles.sectionNavContent}>
+          {genreSections.map(section => (
+            <TouchableOpacity
+              key={section.id}
+              style={[styles.sectionNavButton, resolvedGenreSection === section.id && { backgroundColor: theme.primary }, { borderColor: theme.primary }]}
+              onPress={() => setGenreActiveSection(section.id)}
+            >
+              <Text style={[styles.sectionNavText, { color: resolvedGenreSection === section.id ? '#fff' : theme.primary }]}>
+                {isMobile ? section.icon : section.label}
+              </Text>
+            </TouchableOpacity>
+          ))}
+        </ScrollView>
+
+        {/* Intro */}
+        {resolvedGenreSection === 'intro' && genreGuide.intro && (
+          <View style={[styles.section, { backgroundColor: theme.card }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>{genreGuide.intro.title}</Text>
+            <Text style={[styles.sectionContent, { color: theme.secondaryText }]}>{genreGuide.intro.content}</Text>
+            {genreGuide.intro.keyPoints?.length > 0 && (
+              <View style={[styles.keyPointsBox, { backgroundColor: theme.background, borderColor: theme.primary }]}>
+                <Text style={[styles.keyPointsTitle, { color: theme.text }]}>🔑 Key Takeaways</Text>
+                {genreGuide.intro.keyPoints.map((point, i) => (
+                  <Text key={i} style={[styles.keyPoint, { color: theme.secondaryText }]}>• {point}</Text>
+                ))}
+              </View>
+            )}
+          </View>
+        )}
+
+        {/* What to Look For */}
+        {resolvedGenreSection === 'features' && genreGuide.whatToLookFor && (
+          <View style={[styles.section, { backgroundColor: theme.card }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>{genreGuide.whatToLookFor.title}</Text>
+            {(genreGuide.whatToLookFor.features || []).map((feature, i) => (
+              <View key={i} style={[styles.keyPointsBox, { backgroundColor: theme.background, borderColor: theme.primary, marginBottom: 12 }]}>
+                <Text style={[styles.keyPointsTitle, { color: theme.text }]}>{feature.icon} {feature.name}</Text>
+                <Text style={[styles.keyPoint, { color: theme.secondaryText }]}>{feature.description}</Text>
+                {feature.recommendation && (
+                  <Text style={[styles.keyPoint, { color: theme.primary, fontWeight: '600' }]}>✓ {feature.recommendation}</Text>
+                )}
+              </View>
+            ))}
+          </View>
+        )}
+
+        {/* Pro Picks */}
+        {resolvedGenreSection === 'picks' && picks.length > 0 && (
+          <View style={[styles.section, { backgroundColor: theme.card }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>{genreGuide.proRecommendations?.title || 'Top Picks'}</Text>
+            {picks.map((pick, i) => (
+              <View key={i} style={[styles.kitCard, { backgroundColor: theme.background, borderColor: theme.border, marginBottom: 16 }]}>
+                <View style={{ flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', marginBottom: 8 }}>
+                  <Text style={[styles.kitCardName, { color: theme.text }]}>#{pick.rank} {pick.name}</Text>
+                  <Text style={[{ color: theme.primary, fontWeight: '700', fontSize: 14 }]}>{pick.priceRange}</Text>
+                </View>
+                <Text style={[{ color: theme.secondaryText, fontSize: 12, marginBottom: 8 }]}>{pick.driveType || pick.material} · {(pick.tier || '').toUpperCase()}</Text>
+                {pick.rating && (
+                  <Text style={[{ color: theme.primary, fontSize: 13, fontWeight: '600', marginBottom: 8 }]}>⭐ {pick.rating}/5.0</Text>
+                )}
+                <Text style={[styles.sectionContent, { color: theme.secondaryText, fontSize: 13 }]}>{pick.verdict}</Text>
+                {pick.usedBy?.length > 0 && (
+                  <View style={[styles.keyPointsBox, { backgroundColor: theme.card, borderColor: theme.primary, marginTop: 8 }]}>
+                    <Text style={[styles.keyPointsTitle, { color: theme.text, fontSize: 12 }]}>🥁 Used by:</Text>
+                    {pick.usedBy.map((u, j) => (
+                      <Text key={j} style={[styles.keyPoint, { color: theme.secondaryText, fontSize: 12 }]}>• {u.name} ({u.band})</Text>
+                    ))}
+                  </View>
+                )}
+                {pick.pros?.length > 0 && (
+                  <View style={{ marginTop: 8 }}>
+                    {pick.pros.map((pro, j) => (
+                      <Text key={j} style={[{ color: '#4CAF50', fontSize: 12, marginBottom: 2 }]}>✓ {pro}</Text>
+                    ))}
+                  </View>
+                )}
+              </View>
+            ))}
+          </View>
+        )}
+
+        {/* Budget Options */}
+        {resolvedGenreSection === 'budget' && budgetPicks.length > 0 && (
+          <View style={[styles.section, { backgroundColor: theme.card }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>{genreGuide.budgetOptions?.title || 'Budget Picks'}</Text>
+            {genreGuide.budgetOptions?.description && (
+              <Text style={[styles.sectionContent, { color: theme.secondaryText, marginBottom: 16 }]}>{genreGuide.budgetOptions.description}</Text>
+            )}
+            {budgetPicks.map((pick, i) => (
+              <View key={i} style={[styles.kitCard, { backgroundColor: theme.background, borderColor: theme.border, marginBottom: 12 }]}>
+                <View style={{ flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', marginBottom: 6 }}>
+                  <Text style={[styles.kitCardName, { color: theme.text, fontSize: 15 }]}>{pick.name}</Text>
+                  <Text style={[{ color: theme.primary, fontWeight: '700' }]}>{pick.priceRange}</Text>
+                </View>
+                <Text style={[{ color: theme.secondaryText, fontSize: 12, marginBottom: 6 }]}>{pick.driveType || pick.material}</Text>
+                <Text style={[{ color: theme.secondaryText, fontSize: 13 }]}>{pick.verdict}</Text>
+              </View>
+            ))}
+          </View>
+        )}
+
+        {/* FAQ */}
+        {resolvedGenreSection === 'faq' && genreGuide.faq && (
+          <View style={[styles.section, { backgroundColor: theme.card }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>Frequently Asked Questions</Text>
+            {genreGuide.faq.map((item, index) => (
+              <TouchableOpacity
+                key={index}
+                style={[styles.faqItem, { backgroundColor: theme.background, borderColor: theme.border }]}
+                onPress={() => setExpandedFaq(prev => ({ ...prev, [index]: !prev[index] }))}
+              >
+                <View style={styles.faqQuestion}>
+                  <Text style={[styles.faqQuestionText, { color: theme.text }]}>{item.question}</Text>
+                  <Text style={[styles.faqToggle, { color: theme.primary }]}>{expandedFaq[index] ? '−' : '+'}</Text>
+                </View>
+                {expandedFaq[index] && (
+                  <Text style={[styles.faqAnswer, { color: theme.secondaryText }]}>{item.answer}</Text>
+                )}
+              </TouchableOpacity>
+            ))}
+          </View>
+        )}
+
+        {/* Conclusion */}
+        {genreGuide.conclusion && (
+          <View style={[styles.section, { backgroundColor: theme.card }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>{genreGuide.conclusion.title}</Text>
+            <Text style={[styles.sectionContent, { color: theme.secondaryText }]}>{genreGuide.conclusion.content}</Text>
+          </View>
+        )}
+      </ScrollView>
     );
   }
 

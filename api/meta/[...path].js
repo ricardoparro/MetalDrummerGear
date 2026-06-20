@@ -666,6 +666,25 @@ function getMetaForPath(pathname) {
     };
   }
 
+  // Issue #1823: Gear by budget hub — budget-tiered shopping experience
+  if (path === '/gear-by-budget') {
+    return {
+      title: `Metal Drum Kit by Budget — Best Setups Under $500, $1000, $2000 | ${SITE_NAME}`,
+      description: 'Find the perfect metal drum kit for your budget. Browse professional-grade setups under $500, $1000, and $2000 — curated from gear used by 60+ pro metal drummers.',
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url: `${BASE_URL}/gear-by-budget`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        name: 'Metal Drum Kits by Budget',
+        description: 'Budget-tiered metal drum kit recommendations based on what 60+ pro metal drummers use.',
+        url: `${BASE_URL}/gear-by-budget`,
+        publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+      }),
+    };
+  }
+
   // Gear news
   if (path === '/gear-news') {
     return {

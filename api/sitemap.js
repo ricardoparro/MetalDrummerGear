@@ -280,10 +280,14 @@ const endorsementDrummers = [
 
 // Issue #813: Gear Price History Tracker pages
 // Inflation-adjusted setup costs over time
+// Issue #1808: Phase 2 — Mike Portnoy, Gene Hoglan, Danny Carey
 const gearPriceHistoryDrummers = [
   'lars-ulrich',     // Kill 'Em All era (1983)
   'joey-jordison',   // Iowa era (2001)
   'dave-lombardo',   // Reign in Blood era (1986)
+  'mike-portnoy',    // Images and Words era (1992)
+  'gene-hoglan',     // Individual Thought Patterns era (1993)
+  'danny-carey',     // Undertow/Aenima era (1994)
 ];
 
 // Issue #1473: Individual /battles/<slug> pages — derive slugs from CURATED_MATCHUPS

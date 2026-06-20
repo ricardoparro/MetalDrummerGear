@@ -621,6 +621,22 @@ export default function handler(req, res) {
       priority: '0.5',
       changefreq: 'monthly',
     })),
+    // Issue #1795: high-value drummer comparison LLM files not in drummerComparisons data.
+    // Hardcoded to match the 8 files shipped in public/llms/vs/ by this issue.
+    ...([
+      'tomas-haake-vs-george-kollias',
+      'brann-dailor-vs-danny-carey',
+      'pete-sandoval-vs-flo-mounier',
+      'mike-portnoy-vs-mike-mangini',
+      'lars-ulrich-vs-charlie-benante',
+      'vinnie-paul-vs-dave-lombardo',
+      'travis-orbin-vs-matt-halpern',
+      'pete-sandoval-vs-george-kollias',
+    ].map(slug => ({
+      loc: `/llms/vs/${slug}.md`,
+      priority: '0.5',
+      changefreq: 'monthly',
+    }))),
     // Issue #1703: per-matchup battle LLM Markdown files for AI citation (8 files).
     // Hardcoded to match the 8 files shipped in public/llms/battles/.
     ...([

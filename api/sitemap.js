@@ -431,6 +431,7 @@ export default function handler(req, res) {
     // Issue #1473: Individual /battles/<slug> pages (8 curated matchups)
     ...battleSlugs.map(slug => ({ loc: `/battles/${slug}`, priority: '0.85', changefreq: 'monthly' })),
     // Issue #695: Gear Statistics data hub
+    { loc: '/stats', priority: '0.9', changefreq: 'weekly' },
     { loc: '/stats/gear-insights', priority: '0.9', changefreq: 'weekly' },
     // Issue #685: "How to Sound Like" guides hub
     { loc: '/guides', priority: '0.9', changefreq: 'weekly' },

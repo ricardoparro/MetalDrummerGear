@@ -1937,7 +1937,7 @@ For drummers interested in exploring electronics, Danny's approach offers a phil
       ]
     },
     // Related Content
-    relatedAlbums: ['fear-inoculum-drum-setup', 'lateralus-drum-setup'],
+    relatedAlbums: ['fear-inoculum-drum-setup', 'lateralus-drum-setup', 'aenima-drum-setup'],
     relatedDrummers: [5, 15, 7], // Tomas Haake, Mario Duplantier, Mike Portnoy
     relatedArticles: ['best-progressive-metal-drummers', 'electronic-drums-metal'],
     // Conclusion

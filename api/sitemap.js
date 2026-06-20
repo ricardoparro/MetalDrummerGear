@@ -479,6 +479,8 @@ export default function handler(req, res) {
     })),
     ...gearCategories.map(c => ({ loc: `/gear/${c.slug}`, priority: '0.9', changefreq: 'weekly' })),
     ...top10Lists.map(l => ({ loc: `/lists/${l.slug}`, priority: '0.8', changefreq: 'monthly' })),
+    // Issue #1821: Articles hub (CollectionPage schema exists in api/meta/[...path].js)
+    { loc: '/articles', priority: '0.9', changefreq: 'weekly' },
     // Issue #642: Article pages for SEO-optimized content
     ...articles.map(a => ({ loc: `/articles/${a.slug}`, priority: '0.9', changefreq: 'weekly' })),
     // Issue #663: Album gear breakdown and drummer kit articles

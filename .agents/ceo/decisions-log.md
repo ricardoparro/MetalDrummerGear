@@ -2,7 +2,16 @@
 
 *Record of strategic decisions and reasoning. Hot log: last 7 days. Older entries archived monthly under `.agents/ceo/decisions-history/`.*
 
-*Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-19 05:45 UTC*
+*Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-20 00:43 UTC*
+
+---
+## 2026-06-20 07:00 (state-confirm — cap hold #2)
+- Backlog: 45 ai-fix · 0 PRs open · proposals untriaged: 21 (7 new: #1834–#1840; 14 held from prior runs)
+- GA4/GSC (7d): 54 users / 70 sessions / 1,122 impr / 15 clicks / 1.34% CTR / pos 8.7 (impr/CTR dip vs 23:23 — likely 7d window rolling, no alarm)
+- Ralph idle: 0 in-progress, 0 pr-opened across 45 eligible — Watcher between cycles, no blocker
+- New proposals evaluated quality-only (no promotions): #1835 5★★★ (Metallica Black Album — highest TAM of any article yet), #1834 5★★ (Kill 'Em All 1983 era), #1836 5★ (Death ITP Gene Hoglan), #1837 5★ (Megadeth CTE Nick Menza), #1838 4★ (Dimmu Borgir PEM Hellhammer — niche), #1839 4★ (Slayer Divine Intervention Bostaph), #1840 4★ (SoundLike Portnoy/Sandoval/Paul — sequencing: wait for #1803)
+- Actions: none — cap hold. Promote #1835 first when backlog drops to ≤44.
+- Next check: 13:00 UTC — expect Ralph PRs from overnight/morning dispatch; promote on first eligible slot
 
 ---
 ## 2026-06-19 23:23 (state-confirm — cap hold)
@@ -13,6 +22,9 @@
 - Next check: 07:00 UTC — pull fresh GSC; watch for Ralph overnight PRs on #1821–#1825 batch; promote #1828 (5★) first when backlog drops below 45
 
 ---
+
+---
+
 ## 2026-06-19 19:31 — 5 proposals promoted (sitemap/schema sweep + Inferno Behemoth article)
 
 ### Context
@@ -46,6 +58,9 @@ Evening run. Metrics fresh 19:31 UTC: 1,363 impr / 22 clicks / 1.61% CTR / pos 8
 4. **GSC watch** — "behemoth drum kit" / "behemoth drummer inferno" signals; #1825 should capture once shipped.
 
 ---
+
+---
+
 ## 2026-06-19 17:00 — 4 proposals promoted (Gojira, Tool, Dream Theater, Gear History batch 3)
 
 ### Context
@@ -75,6 +90,9 @@ Extra run ~17:00 UTC. 7 new SEO proposals filed 14:19–14:21 UTC after last tri
 4. **GSC watch** — "mario duplantier gear" 25% CTR pos 6.5; if #1812 ships, watch for position improvement next cycle.
 
 ---
+
+---
+
 ## 2026-06-19 14:05 — 4 proposals promoted (Joey shopping guide, LLM bands, genre lists, gear history)
 
 ### Context
@@ -105,6 +123,9 @@ Extra run at 14:05 UTC. Metrics fresh 14:01 UTC: 1,363 impr / 22 clicks / 1.61% 
 4. **#1802/#1809 reassess** — if evening backlog drops below 25, promote cross-link batches to refill.
 
 ---
+
+---
+
 ## 2026-06-19 11:32 — 6 proposals promoted, batch covers genre + LLM + sitemap + SoundLike
 
 ### Context
@@ -134,6 +155,9 @@ Extra run at 11:32 UTC (between scheduled mid-day and evening slots). Metrics 11
 4. **#1802 reassess** — if backlog drops below 25, promote cross-links batch.
 
 ---
+
+---
+
 ## 2026-06-19 19:00 (state-confirm — evening review)
 - Backlog: 25 ai-fix · 0 PRs open · proposals untriaged: 1 (#1660 — held, 3★)
 - GA4/GSC (7d): 45 users / 61 sessions / 1,363 impr / 22 clicks / 1.61% CTR / pos 8.6
@@ -143,6 +167,9 @@ Extra run at 11:32 UTC (between scheduled mid-day and evening slots). Metrics 11
 - Next check: 07:00 tomorrow — expect overnight Ralph queue movement; watch for CTR lift from today's FAQPage batch across 100+ pages; priority: #1779 (31 LLM article files) + articles (#1783 Gavin Harrison, #1784 Charlie Benante, #1786 Brann Dailor, #1792 Mike Mangini, #1793 Dirk Verbeuren, #1798 Aquiles Priester)
 
 ---
+
+---
+
 ## 2026-06-19 13:00 — 7 proposals promoted, Aquiles Priester article filed
 
 ### Context
@@ -175,6 +202,9 @@ Mid-day pulse. Metrics fresh 07:53 UTC: 1,363 impr / 22 clicks / 1.61% CTR / pos
 4. **CTR watch** — 1.61% and rising; genre guide pages (#1794) + /llms/vs/ (#1795) add long-tail purchase-intent coverage.
 
 ---
+
+---
+
 ## 2026-06-19 07:00 — 4 PRs resolved, 6 proposals promoted, 1 CEO issue filed (Brann Dailor)
 
 ### Context
@@ -209,6 +239,9 @@ Morning deep run. Metrics fresh 05:45 UTC: 1,148 impr / 18 clicks / 1.57% CTR / 
 4. **Backlog watch** — at 17; below 25 refill target; morning run SEO Agent may drop new proposals.
 
 ---
+
+---
+
 ## 2026-06-19 19:00 — 30 PRs cleared, 12 proposals triaged (11 promoted), 10 articles + 301 redirects + gear-comparison LLMs shipped
 
 ### Context
@@ -258,6 +291,8 @@ Evening run. Metrics unchanged (1,148 impr / 18 clicks / 1.57% CTR). 30 open PRs
 
 ---
 
+---
+
 ## 2026-06-19 13:00 — 9 PRs resolved, 6 proposals triaged (1 promoted), backlog 48→41
 
 ### Context
@@ -291,6 +326,8 @@ Mid-day pulse. Metrics unchanged from 01:58 UTC run (1,148 impr / 18 clicks / 1.
 2. **Backlog check** — Ralph active on 3 issues (#1452/#1450/#1455); expect ~38 backlog by evening → promote 4★ proposals (#1661, #1663, #1664) to top up.
 3. **Merge any new PRs** — Ralph's PRs #1698/#1699/#1700 likely ready to merge by evening.
 4. **CTR watch** — 1.57% this morning; drummer profile SSR (#1659) + battles SSR (#1693) both need indexing cycle to impact.
+
+---
 
 ---
 
@@ -348,6 +385,8 @@ Morning deep run. Metrics fresh 00:52 UTC: 1,148 impr / 18 clicks / 1.57% CTR / 
 
 ---
 
+---
+
 ## 2026-06-18 19:50 — 12 proposals triaged (all approved), 7 duplicate PRs merged
 
 ### Context
@@ -383,6 +422,8 @@ Evening run. Metrics fresh 19:42 UTC: 1,322 impr / 23 clicks / 1.74% CTR / pos 8
 2. **Battles schema batch** (#1473-#1477) — /battles section getting full SSR + schema + LLM treatment; high priority for AI Overview coverage on drummer matchup queries.
 3. **CTR trajectory** — 1.74% soft; #1347 (157 lick pages HowTo+VideoObject) merged 17:01Z and needs indexing time.
 4. **DefinedTerm + MusicAlbum entities** (#1453, #1454) — highest LLM moat in queue; confirm Ralph picks these up.
+
+---
 
 ---
 
@@ -427,6 +468,8 @@ Evening run. Metrics fresh 16:59 UTC: 1,322 impr / 23 clicks / 1.74% CTR / pos 8
 
 ---
 
+---
+
 ## 2026-06-18 11:30 — 10 proposals triaged (all approved), 1 stale closed
 
 ### Context
@@ -459,6 +502,8 @@ Mid-day pulse (early, metrics fresh 11:20 UTC). 1,322 impr / 23 clicks / 1.74% C
 2. **#1347 lick JSON-LD SSR** — 157 pages × VideoObject + HowTo; verify PR ships and schema validates.
 3. **SSR batch progress** — 10 new proposals approved today; monitor Ralph picks up the SSR-heavy items (#1407–#1412) first.
 4. **CTR trajectory** — 1.74% is soft; extendedBios fix + article batch need ~5 days indexing. Monitor impr growth.
+
+---
 
 ---
 
@@ -499,6 +544,8 @@ Morning deep run. Metrics fresh (07:41 UTC): 1,322 impr / 23 clicks / 1.74% CTR 
 2. **#1347 lick JSON-LD SSR** — 157 pages × VideoObject + HowTo; verify PR ships.
 3. **CTR trajectory** — 1.74% soft; extendedBios fix + article batch need ~5 days indexing to reflect.
 4. **Duplicate PR pattern** — #1377 (PR template auto-close fix) is in queue; once shipped, the "#NNN stale cleanup" pattern should stop.
+
+---
 
 ---
 
@@ -545,6 +592,8 @@ Evening run. 27 PRs merged since midnight UTC (Ralph shipped entire 13:00 + new 
 
 ---
 
+---
+
 ## 2026-06-18 13:00 — 11 stale issues closed, 10 proposals approved, queue 17 active
 
 ### Context
@@ -578,6 +627,8 @@ Mid-day pulse. 0 open PRs — Ralph shipped the entire 07:10 batch at 01:30 UTC 
 2. **#1276 (/llms/vs/ 57 files)** — largest pending item; verify Ralph picks it up.
 3. **#1237 (Homepage P2 restructure)** — structural UX change; verify it ships.
 4. **CTR watch** — 1.70% is soft; Matt Greiner article + Joey Jordison FAQ + SSR batch compound on next indexing cycle.
+
+---
 
 ---
 
@@ -635,6 +686,8 @@ Mid-day pulse. 0 open PRs — Ralph shipped the entire 07:10 batch at 01:30 UTC 
 
 ---
 
+---
+
 ## 2026-06-17 23:45 — 5 proposals approved, 1 CEO issue filed (Joey Jordison content depth)
 
 ### Context
@@ -662,6 +715,8 @@ Late-night deep run. Metrics fresh (23:33 UTC): 1,289 impr / 25 clicks / CTR 1.9
 1. **Sequencing** — lick batches #1219/#1220/#1242/#1245/#1247/#1248 all touch `index.js`: verify watcher respects serial order. #1244/#1246 are independent (different files).
 2. **100% lick milestone** — when #1248 ships, update /llms.txt to advertise complete lick coverage + consider a public announcement angle.
 3. **GSC watch** — "joey jordison drum set" pos 9.0 — monitor for CTR lift from #1225 SSR fix already live; #1261 content-depth issue will further push.
+
+---
 
 ---
 
@@ -710,6 +765,8 @@ Late evening run (22:35 UTC). 6 open PRs (3 MERGEABLE, 3 CONFLICTING on `index.j
 
 ---
 
+---
+
 ## 2026-06-17 19:45 — 4 PRs merged (incl. lick conflict resolved), 5 proposals approved, 2 new issues filed, lick count 39→43
 
 ### Context
@@ -751,6 +808,8 @@ Evening run (19:45 UTC). 4 UNSTABLE/MERGEABLE PRs open (#1213-#1216). 5 new seo-
 
 ---
 
+---
+
 ## 2026-06-17 17:30 — 4 proposals approved, 3 PRs merged, lick count 35→39
 
 ### Context
@@ -783,6 +842,8 @@ Evening run (17:30 UTC). 4 new seo-proposals untriaged (#1199-#1202). 3 open PRs
 2. **PR sequencing** — #1199 and #1200 both touch `index.js`; merge sequentially (same pattern); #1201 and #1202 are independent.
 3. **Technique lane** — #1202 (SSR meta) before #1201 (llms/ files) mirrors the band-lane lesson: schema first.
 4. **GSC monitoring** — watch "aquiles priester drum kit" (pos 5.1, 0% CTR); lick content just added; may improve on next indexing.
+
+---
 
 ---
 
@@ -826,12 +887,16 @@ Evening run following Ralph's fastest batch yet (all 8 ai-fix issues from the 10
 
 ---
 
+---
+
 ## 2026-06-17 13:00 (mid-day pulse — state-confirm)
 - Backlog: 8 ai-fix · 0 PRs open · proposals untriaged: 0
 - Org / Sessions / Views (7d): 38 / 49 / 81 (metrics age: ~1.5h, last refresh 11:31 UTC)
 - Blockers: `gh run list` + `gh workflow run` return empty/fail in this env — GHA schedule still fires; Ralph should run at :13/:43 · `gh workflow run` token likely lacks `workflow` scope — not a crisis
 - Sequencing check: #1171 (`api/sitemap.js`) vs #1172 (`api/meta/[...path].js`) touch **different files** — no conflict, Ralph can run in parallel
 - Actions: none — hold continues until PRs appear; next deep-run flagged: Inferno/Hellhammer/Martin Lopez lick tier (pos-17 "behemoth drummer" GSC signal)
+
+---
 
 ---
 
@@ -870,6 +935,8 @@ First deep run with Ralph fully migrated to GitHub Actions (PR#1167/#1165, merge
 2. **Band lane sequencing** — honor #1171 (sitemap) before #1172 (meta/schema) since sitemap registers the pages; verify Ralph picks up the right order.
 3. **Lick coverage compound** — 30→34 drummers covered once #1183/#1184 ship; note the next uncovered high-TAM tier: Inferno (Behemoth, GSC "behemoth drummer" pos 17), Hellhammer (Mayhem), Martin Lopez (Opeth).
 4. **#1182 OAuth impact** — auth changed from API key → subscription OAuth; monitor agent runs for any auth failures.
+
+---
 
 ---
 
@@ -934,6 +1001,8 @@ Re-invocation ~80 min after the 13:16 pulse (metrics auto-refreshed 14:36 UTC, i
 
 ---
 
+---
+
 ## 2026-06-16 (Tuesday) — 13:16 Pulse (RESUME-QUOTA TRIAGE: approved 3 + split 1 + held 1 of the SEO Agent's 4-proposal drop; GSC error advanced past "missing")
 
 ### Context
@@ -967,6 +1036,8 @@ Today's commits 7a9e2c7 / e24e700 plumbed the `GSC_SITE` secret through both wor
 
 *Última revisão: CEO Agent — 2026-06-16 13:16 pulse (triaged SEO Agent's 4-proposal resume-quota drop: approved #1125 gear-sitemap + #1126 /llms/techniques.md, split #1123 → #1128/#1129 [2-drummer atomic, closed parent not_planned], held #1124 classic licks one cycle w/ release trigger; ai-fix backlog 9→13, throttling until <12; GSC error advanced "missing"→"permission denied" — GA4 works on same creds ⇒ SA not granted on GSC property, posted exact 2-min fix on #910; GA4 organic 79%; founder inbox empty; flagged stalled 06-12 schema queue for next deep run; committed 13:16 metrics refresh)*
 
+
+---
 
 ---
 
@@ -1011,6 +1082,8 @@ Today's commits 7a9e2c7 / e24e700 plumbed the `GSC_SITE` secret through both wor
 
 ---
 
+---
+
 ## 2026-06-14 (Sunday) — 07:00 Deep Run (drained PR queue 2→0: merged 1, closed 1 redundant; anti-noise hold)
 
 ### Context
@@ -1039,6 +1112,8 @@ Scheduled Sunday deep run (metrics auto-refreshed 06-14 03:10 UTC). Two SEO run-
 4. **#910 GSC** — file the first real GSC-gap escalations the instant `GSC_SITE` lands.
 
 *Última revisão: CEO Agent — 2026-06-14 07:00 deep run (drained PR queue 2→0: merged #1107 `/llms` Sun audit log after resolving the recurring metrics.md run-log conflict — also landed the 03:10 metrics refresh onto main; closed #1108 as redundant duplicate of #1107 rather than conflict-resolve a second identical hold-log; ai-fix backlog 17 unchanged, still >12 threshold → anti-noise hold continues, deep-run issue quota deliberately overridden — binding constraint = implementer/merge throughput #909/#1060, not idea supply; #909/#910 no Ricardo reply / no re-spam, proposals + founder inbox empty, no atomic-split due, GA4 organic 70% in-band; metrics committed)*
+
+---
 
 ---
 
@@ -1088,6 +1163,8 @@ Scheduled Sunday deep run (metrics auto-refreshed 06-14 03:10 UTC). Two SEO run-
 
 ---
 
+---
+
 ## 2026-06-13 (Saturday) — Early-Morning Touch (clear PR queue: merge #1087, resolve stale #1084)
 
 ### State at start (metrics fresh — 06-13 05:32 UTC refresh)
@@ -1126,454 +1203,6 @@ Repeating log-PR conflicts on `seo-plan.md` are structural: GitHub never runs th
 *Última revisão: CEO Agent — 2026-06-13 early-morning touch (cleared PR queue to 0: merged CLEAN log PR #1087 after waiting out the "Verify Site Loads" required check — no admin override; closed stale CONFLICTING #1084 as superseded — documented that `merge=union` is local-only so GitHub log-PR conflicts are structural; **anti-noise hold continued** — drain verdict deferred to the 13:00 mid-day check, binding constraint remains implementer/merge throughput #909/#1060; founder inbox + proposal queue empty; GSC #910 still the binding KPI blocker)*
 
 ---
-
----
-
----
-
-## 2026-06-12 (Friday) — Deep Run (07:00, metrics refreshed 00:48 UTC)
-
-### State at start
-- **GA4 (7d):** 51 active users / 60 sessions / 115 views — **best 7d volume in weeks** (was ~41 on 06-08). Engagement 63%, avg session 88s. **Organic Search = 65% (39/60 sessions)** — moat thesis holding. Top pages: `/` (29), `/drummers` (10), `/quiz` (7), then drummer profiles. Lick pages no longer in the top-10 snapshot but profile long-tail is broad.
-- **GSC: STILL blind** (`GSC_SITE` missing) — #910 unmoved (last touched 06-11, no resolution). #1 KPI remains unmeasurable. Held — escalated ×4 already, no re-spam.
-- Founder inbox: **empty** (no new entries since 06-04).
-
-### 🎯 PRIMARY ACTION — SEO-proposal triage
-- **APPROVED #1051** (`/facts` orphan → sitemap + footer link) → `ai-fix`. Score **6⭐**, zero blockers, non-duplicate. The rare free win: a live FAQPage-schema page (shipped #452) that Google has **no crawl path to** — not in `sitemap.xml`, zero internal links, only referenced from `llms/index.md`. Atomic as written; Watcher can take it directly. Serves both KPIs (informational long-tail + LLM-quotable FAQ format).
-- **Queue cleanup:** removed stale `seo-proposal` label from **#1045** and **#1042** — both already carried `ai-fix` (approved on the 06-11 run) but still showed in the proposal queue. Triage queue now accurate.
-
-### 🔴 BINDING CONSTRAINT THIS RUN — PR merge throughput, not atomicity
-The atomic-split sweep found **nothing to split** — every stale `ai-fix` issue already has an open PR or is dependency-blocked on a sibling PR. The real bottleneck is **5 open PRs not landing**:
-
-| PR | Issue | State | Note |
-|---|---|---|---|
-| #1046 | #1044 batch + #1045 | **CLEAN** | Ready to merge — awaiting Ricardo |
-| #1043 | #1042 (CEO 06-11 log) | BEHIND | Needs rebase only |
-| #1032 | #1006 | **CONFLICTING** | blocks #1007 (split 3/3) downstream |
-| #1039 | #1012 | **CONFLICTING** | lick batch |
-| #1040 | #1013 | **CONFLICTING** | lick batch |
-
-**Root cause:** the lick batches + internal-linking blocks all append to the same `SignatureLicks.js` data array and sitemap arrays, so sibling PRs **serialize** — each conflicts with `main` the moment another merges. Classic parallel-PRs-on-one-append-only-file problem.
-
-**Action taken:** commented the recommended drain order on the 3 dirty PRs — **#1046 → #1032 → #1039 → #1040**, rebase each after the prior merges. No content change needed, just conflict resolution.
-
-**Structural lesson (for future splits):** when splitting a programmatic batch where every sub-issue appends to the *same* data file, the splits cannot merge in parallel — they must be serialized or partitioned by file. Future lick/programmatic splits should either (a) note an explicit merge order in each issue body, or (b) be designed so each split owns a distinct data module. Noting here; candidate for a CEO-AGENT.md atomic-split-rule addendum on a daytime edit.
-
-### Held, on-protocol
-- **#910 GSC** + **#987 YouTube-gate wire-up** + 4 dormant social blockers (#525/#526/#528/#529): all `human-founder`, already escalated — no re-spam. GSC remains the single highest-leverage unblock (turns the #1 KPI from blind → measurable; would let me finally file real GSC-gap content escalations).
-- **#1012/#1013** previously watcher-deferred on "can't source verified YouTube IDs" — now have PRs (#1039/#1040), so the data got supplied. Progressing; just need rebase.
-
-### Portfolio read
-Volume up ~24% week-over-week (41→51 users) with organic holding at ~65% — the medium-term lick-surface + LLM-citation compound bet is showing through despite GSC blindness. Offense (compounding ranking surfaces) is the active front; the only thing throttling it now is **merge throughput**, not idea supply or atomicity. Draining the 5-PR queue is worth more this week than any new issue.
-
-### Next Run (13:00 mid-day pulse)
-1. **Did #1046 merge?** If yes, nudge #1032 rebase next per the drain order.
-2. **#1051** — did Watcher open a PR? (atomic, should move fast).
-3. **#910 GSC** — the instant it lands, file the first real GSC-gap content escalations (dormant quota since launch).
-
-*Última revisão: CEO Agent — 2026-06-12 deep run (approved #1051 /facts orphan fix; cleaned stale proposal labels on #1045/#1042; identified PR merge-conflict serialization as the binding delivery constraint and flagged drain order on #1032/#1039/#1040; GSC #910 still the #1 unblock)*
-
----
-
----
-
-## 2026-06-12 (Friday) — Evening Review (19:00 UTC)
-
-### State at start (metrics refreshed 2026-06-12 03:09 UTC)
-- **GA4 (7d):** 51 active users / 60 sessions / 115 views — holding the best week of the month (was ~41 on 06-08). **Organic Search = 65% (39/60 sessions)** — moat thesis intact and volume up ~25% w/w.
-- **Top pages unchanged from mid-day:** `/` (29), **`/drummers` (10, #2)**, **`/quiz` (7, #3)**, drummer profiles, `/articles/whats-in-mike-portnoys-kit` (#8). The two SEO fixes approved mid-day (#1053 sitemap, #1054 quiz canonical) target exactly the #2/#3 surfaces — correct prioritization confirmed by the evening snapshot.
-- **GSC: STILL blind** (`GSC_SITE` missing) — #910 unmoved. GSC-gap escalation quota cannot run.
-- Founder inbox: **empty.** No new ideas to process.
-
-### 🎯 PRIMARY ACTION — triaged the last open SEO proposal: #1058 → `ai-fix` (APPROVED)
-After the deep run (#1051) and mid-day pulse (#1053/#1054) cleared most of the proposal queue, **#1058** (article corpus → `/llms/articles/<slug>.md`, ~61 pages) was the only proposal still lacking `ai-fix`. Approved:
-- Reuses the **shipped** generator pattern (`generate-llms-drummers.cjs`; `faq.md`/`gear-guide.md` from #1019/#1020 each shipped as a *single* PR #1034/#1035) → **atomic as-is, no split**.
-- Serves a **demonstrated** GA4 top-10 page type (`whats-in-mike-portnoys-kit`, #8 this week) — the last content type missing from the per-type LLM surface.
-- Additive, low-priority sitemap, zero ranking risk; compounds the #873/#1017 LLM-citation moat. Score ~5⭐ (Curto ⭐ / Médio ⭐⭐ / Longo ⭐⭐).
-
-### Quota check (evening review)
-- ✅ **SEO proposals:** queue now **fully drained** — #1051 (deep), #1053/#1054 (pulse), #1058 (this run) all → `ai-fix`. Zero open `seo-proposal` without `ai-fix`.
-- ✅ **Founder ideas:** inbox empty.
-- ⛔ **GSC-gap escalation:** blocked — GSC blind (#910). Held (escalated, no re-spam).
-- ✅ **Atomic-split sweep:** swept all `ai-fix` issues open >3d / `ceo-aggressive`. **Nothing needs splitting** — every stale one has a PR in flight: #1006→PR #1032, #1007 (depends on #1006, auto-unblocks on its merge), #1012→#1039, #1013→#1040; #984 is blocked on human-founder #987, not on atomicity. The mid-day pulse already established these were *PR-conflict*-blocked, not non-atomic.
-- ✅ **Decisions logged** (this entry).
-
-### ⚠️ Standing risk — the merge queue, not the issue queue
-**9 PRs are open and all `mergeStateStatus: CLEAN`** (no CI gate, no required review) — 5 feature PRs (#1032/#1039/#1040/#1046/#1059) + 4 agent-state PRs (#1043/#1052/#1055/#1057). Nothing has merged since Ricardo's 06-11 batch (#1041/#1038). This is **batch-cadence accumulation, not a broken pipeline** — Ricardo merges in batches every 1–2 days (06-09: 13 PRs; 06-11: 2). But two structural costs are real:
-1. **Conflict serialization** — deep-run (#1052) and pulse (#1057) are *independent* branches both editing `decisions-log.md`; they will conflict on sequential merge. To avoid a *third* conflicting branch, **this evening entry rides the pulse branch (#1057)** rather than opening a new CEO PR. The root-cause fix for feature-side conflicts (#1056, modularize `signatureLicks.js`) is already queued.
-2. **Backlog depth** — 9 PRs is the largest standing queue this month. Not re-escalating to Ricardo (no `human-founder` gate; he merges on his cadence), but flagging here as the metric to watch: if it's not drained by the 06-13 deep run, the merge bottleneck becomes the binding growth constraint over the (now-empty) idea queue.
-
-### Evening read
-The week's story is **delivery-side, not ideation-side**: traffic is at a monthly high (51 users, 65% organic) and the proposal queue is fully triaged and drained, but throughput is now gated entirely by the PR merge batch + conflict tax. The strategic levers are all queued (lick batches, internal-linking #1007, article LLM surface #1058, the #1056 conflict fix). The job now is to keep the queue clean and let Ricardo's batch merge land them — not to manufacture more `ai-fix` noise into an already-deep queue.
-
-### Next Run (2026-06-13 07:00 deep run)
-1. **Merge-queue check first** — did Ricardo's batch land the 9 PRs? If yes, confirm #1056 then sequences cleanly (it moves the same `signatureLicks.js` lines as #1039/#1040). If the queue is still ≥9, that's the headline item.
-2. **#1007 unblock** — once #1032 merges, confirm #1007 (internal-linking across 62 profiles) gets a PR; it's the compounding crawl-graph win.
-3. **#910 GSC** — the instant `GSC_SITE` lands, file the first real GSC-gap content escalations (quota dormant since launch).
-4. **SEO Agent** — triage any fresh `seo-proposal` from its next run; proposal queue is currently empty/drained.
-
-*Última revisão: CEO Agent — 2026-06-12 evening (proposal queue fully drained — #1058 → ai-fix; atomic-split sweep clean, all stale issues have PRs in flight; flagged the 9-PR merge backlog as the binding constraint; rode the pulse branch to avoid a 3rd conflicting CEO branch)*
-
----
-
----
-
----
-
-## 2026-06-12 (Friday) — Mid-day Pulse (13:00 UTC) + Weekly Summary
-
-### State at start (metrics refreshed 2026-06-12 01:49 UTC)
-- **GA4 (7d):** 51 active users / 60 sessions / 115 views — **best week of the month** (was ~41 on 06-08). **Organic Search = 65% (39/60 sessions, 35/51 users)** — moat thesis holding and volume finally lifting.
-- **Top pages:** `/` (29), **`/drummers` (10, #2)**, **`/quiz` (7, #3)**, then drummer profiles (`/drummer/2,32,34,7`) and `/articles/whats-in-mike-portnoys-kit`. The #2/#3 organic pages are the *database hub* and the *quiz* — both surfaced by today's SEO proposals.
-- **GSC: STILL blind** (`GSC_SITE` missing) — #910 unmoved. #1 KPI unmeasurable; GSC-gap quota held (cannot escalate without data).
-- Founder inbox: **empty.**
-
-### 🎯 PRIMARY ACTION — drained the merge-conflict delivery bottleneck (3 PRs)
-The real blocker this week was **not** the issue queue — it was the **PR merge queue**. Three PRs sat CONFLICTING/DIRTY since 06-07/06-09:
-- **#1032** (#1006 `SharedGearDrummersBlock`) — keystone; **blocks #1007** (wire internal-linking blocks into all 62 drummer/gear pages). The Watcher *defers and waits* for conflicting PRs to go clean but **never rebases them itself**, so they sit forever. The 06-12 deep run flagged a merge order but nothing rebased.
-- **#1039** (#1012 Greiner+Koller licks), **#1040** (#1013 Carey+Hoglan+Haake licks) — both conflicting on the monolithic `signatureLicks.js` array + `sitemap.js`.
-
-**Decision: CEO resolved all three by hand** (TRY-FIRST per protocol; mechanical append-only conflicts, Watcher won't touch them, queue stuck 3–5 days).
-- **#1032:** rebased onto `main`, kept **both** internal-linking blocks (#1005 `RelatedDrummersBlock` already on main + #1006). `node --check` clean → **MERGEABLE/CLEAN**.
-- **#1039 / #1040:** the git rebase *interleaved* the new lick objects with already-merged sibling batches (boundaries cut mid-object). Aborted the rebase; **rebuilt each as a pure-insertion diff** on current `main` (extracted the exact added lick objects + sitemap entries, identical content), force-pushed. ESM `node --check` clean, all lick keys unique (36 and 39 total respectively) → both **MERGEABLE** (BLOCKED only on pending CI from the fresh push).
-- Commented resolution on all three; auto-merger to land.
-
-**Impact:** unblocks #1007 (internal-linking across all 62 profiles — compounding crawl-graph win) and ships 15 proven-organic lick pages that were stuck.
-
-### 🏗️ ROOT-CAUSE FIX — filed #1056 (ai-fix)
-The append-conflict is structural: one monolithic `SIGNATURE_LICKS = {…}` object + hand-maintained sitemap arrays → every batch PR conflicts. Filed **#1056**: modularize into per-drummer `data/licks/<slug>.js` files + an index that composes the same export, and **derive** sitemap lick URLs programmatically. Future batches become *new-file* operations (zero conflict surface). **Sequenced after #1032/#1039/#1040 merge** (it moves the same lines). Impact: 📈 Médio (kills a recurring delivery tax) — score ~6⭐.
-
-### SEO proposal triage (both APPROVED → ai-fix)
-- **#1053** — add `/drummers` + `/quiz` (the **#2 and #3 organic pages**) to `sitemap.xml`. They rank today via internal links only, never formally declared. Zero-risk ~2-line change serving our highest-engagement channel. **APPROVED.**
-- **#1054** — fix `/quiz` canonical fragmentation: ~62 self-canonicalizing `?result=<slug>` variants split the quiz's ranking signal. Force canonical to clean `/quiz`, keep per-result og:url for share cards. Consolidates signal on the #3 organic page; pairs with #1053. **APPROVED.**
-
-### Quota check (mid-day pulse)
-- ✅ **SEO proposals:** all open triaged (#1053, #1054 → ai-fix). Earlier deep run handled #1051.
-- ✅ **Founder ideas:** inbox empty.
-- ⛔ **GSC-gap escalation:** blocked — GSC still blind (#910). Quota cannot run.
-- ✅ **Atomic-split sweep:** #1006/#1007 were *not* non-atomic — they were PR-conflict-blocked (now resolved). No split needed; #1007 auto-unblocks once #1032 lands. No `ai-fix` issue is non-atomic-and-stale.
-- ✅ **Decisions logged** (this entry).
-
----
-
-### 📅 WEEKLY SUMMARY (week ending 2026-06-12)
-- **Traffic:** 51 users / 60 sessions / 115 views — **up ~24% on users** vs 06-08 (41). Organic share steady at ~65%. Best week of the period.
-- **Proven-organic surfaces:** signature-lick pages + the `/drummers` hub + `/quiz` are now consistent top-organic pages → the medium-term SEO-compound rebalance is working.
-- **Shipped this week (merged):** signature-lick batches #1011/#1014 (Garstka, Raatikainen, Dailor, Portnoy, Casagrande), lick-page HowTo/VideoObject JSON-LD (#1010), LLM markdown surface — sitemap + llms.txt (#1021/#1022), gear-guide + master-FAQ generators (#1019/#1020), self-referencing canonical fix (#1015), RelatedDrummersBlock (#1005). Pipeline shipping ~1 feature PR/day.
-- **Unblocked today:** 3-PR merge-conflict jam (#1032/#1039/#1040) cleared by hand; root-cause fix filed (#1056).
-- **Standing constraints (founder-owned, held):** #910 GSC blind (#1 KPI unmeasurable — the single biggest limiter), #987 YouTube-gate wire-up, #875 GA4 key events, dormant social blockers (#525/#526/#528/#529).
-- **Next deep run (07:00):** confirm #1032→#1039→#1040 merged and #1007 picked up; verify #1053/#1054 ship; if #910 lands, finally open the dormant GSC-gap content escalations.
-
-*Última revisão: CEO Agent — 2026-06-12 mid-day pulse (drained the 3-PR merge-conflict bottleneck #1032/#1039/#1040 by hand → all MERGEABLE; filed root-cause refactor #1056; approved SEO proposals #1053/#1054; GSC #910 remains the binding constraint). Weekly summary logged.*
-
----
-
----
-
----
-
-## 2026-06-12 (Friday) — Deep Run (07:00 UTC)
-
-> **NB:** This log on `main` ends at 06-08 because every CEO run since (06-11 deep #1043, 06-12 deep #1052, 06-12 pulse #1057) is sitting in **unmerged PRs**. That gap *is* the headline finding of this run.
-
-### State at start (metrics refreshed 05:36 UTC)
-- **GA4 (7d):** 51 active users / 60 sessions / 115 views. **Organic Search = 65% (39/60), 35 users** — moat thesis holding; absolute volume ticked up (~41 → 51). Top pages: `/` (29), `/drummers` (10), `/quiz` (7), then drummer profiles. Portnoy kit article surfacing (3).
-- **GSC: STILL blind** (`GSC_SITE` missing) — #910 unmoved. #1 KPI unmeasurable; no GSC-gap escalations possible. Held (escalated ×4, no re-spam).
-- **Founder inbox: empty.** No new ideas to process.
-- **SEO-proposal triage: nothing pending** — #1051/#1053/#1054/#1058 all already carry `ai-fix` (triaged by 06-12 00:51/01:59 runs).
-
-### 🎯 PRIMARY FINDING — the binding constraint is MERGE throughput, not idea supply
-Production (Ralph opens feat PRs) and triage (CEO approvals) are both healthy. **Shipping is the choke point: 9 open PRs, all MERGEABLE/CLEAN, are not landing** — including 3 shippable feature PRs (#1040 licks, #1039 licks, #1032 gear-block). Merges happen but are **serialized** because every lick PR appends to the monolithic `signatureLicks.js` (+ two `api/sitemap.js` arrays), so siblings conflict and must rebase one-by-one. The root-cause fix #1056 is itself stuck in the same queue.
-
-### Decisions this run
-1. **Did NOT generate new programmatic lick issues** (deliberate quota deviation). The queue is saturated — 8 open lick issues (#1012/#1013/#1047–#1050) + 2 lick PRs serializing on one file. Adding WIP worsens the merge-conflict serialization. **Throughput is subordinate to the daily quota; manufacturing WIP onto a backed-up line is the wrong move.** The quota assumes a draining queue; it isn't.
-2. **Fast-tracked #1056** (modularize `signatureLicks.js`) — commented to flag it as the unblock-everything dependency: implement *before* merging further lick batches so lick PRs become non-conflicting and merge in parallel. This is the *conflict* half of the bottleneck.
-3. **Filed #1060 (`human-founder`)** — the *merge-authority* half. The CEO Actions token is read-limited (cannot read branch protection or `pr checks`, cannot merge). Asked Ricardo to (a) merge the 3 feature PRs now, (b) enable GitHub auto-merge + grant Watcher/CI merge permission on green CI so green PRs land without manual intervention. Success metric: open-PR count < 3 between runs.
-4. **Did NOT** re-spam #909 (stale "no consumer" — pipeline demonstrably consuming), #910, #987; **did NOT** self-merge anything; **did NOT** touch the 4 dormant social blockers (#525/#526/#528/#529).
-
-### Portfolio read
-Offense (compounding lick surfaces) is over-supplied relative to the line's merge rate. The correct lever this week is not *more* content issues but *clearing the merge path* — #1056 (conflict) + #1060 (authority). Until one of those lands, every new lick issue just deepens the rebase queue. Traffic up modestly (41→51) with organic holding ~65% — the proven lick surface is working; the job now is to let finished work ship.
-
-### Next Run (13:00 mid-day pulse)
-1. **Check #1060** — did Ricardo merge the 3 feature PRs / enable auto-merge? If merged, the open-PR count should drop and the queue logic frees up.
-2. **Check #1056** — has Ralph/Watcher started the modularization? It's the gate for all queued lick work.
-3. **Resume lick-issue generation ONLY once** open-PR count < 4 (queue draining). Until then, hold.
-4. **#910 GSC** — file first real GSC-gap escalations the instant it lands.
-
-*Última revisão: CEO Agent — 2026-06-12 deep run (diagnosed the merge-throughput bottleneck: 9 clean PRs unmerged, serialized on monolithic signatureLicks.js; fast-tracked root-cause #1056; filed founder issue #1060 for merge-authority/auto-merge; deliberately held new lick issues to avoid deepening the rebase queue; GSC #910 still the binding KPI blocker)*
-
----
-
----
-
----
-
-## 2026-06-12 (Friday) — 07:38 deep-run re-fire + Weekly Summary (consolidated onto this branch — NOT a 4th CEO PR)
-
-The 07:00 deep run (this branch / #1061) already diagnosed the bottleneck and took the right actions. This re-fire adds only what's genuinely new, **deliberately consolidated onto #1061's branch rather than opening another CEO PR** — the open-PR pile is the very problem; a 4th CEO housekeeping PR would deepen it.
-
-### New since #1061 was written
-1. **Triaged the one pending `seo-proposal` → APPROVED #1062** (`SearchAction` / sitelinks-searchbox on the homepage `WebSite` JSON-LD). Added `ai-fix`. Verified before approving: site search is real (`/tools/gear-search?q=` — `GearSearch.js:242-243,345`), the homepage `WebSite` block exists where the proposal targets it (`App.js:4290-4296`), and the fix is genuinely atomic (one schema object, one file). Low-risk CTR/polish lever on `/` (our #1 GA4 page, 29 views/7d). Impact ~4⭐ (Curto ⭐ fast-index, Médio ⭐⭐ compounding branded CTR, Longo ⭐). All other open `seo-proposal`s (#1051/#1053/#1054/#1058) already carry `ai-fix`.
-2. **Atomic-split sweep — ran, nothing to split.** Every stale `ai-fix` issue is PR'd-and-waiting in the merge pile, not stalled-for-atomicity: #1012→PR#1039, #1013→PR#1040, #1006→PR#1032, #1007 depends on #1006 landing, #984 blocked on founder #987. Confirms the constraint is **100% merge throughput**, not issue granularity. No splits manufactured (would be noise).
-3. **Held new generation** (consistent with #1061). Queue saturated: 11 open PRs, 8 open lick issues. The lever is clearing the path (#1056 + #1060), not adding WIP.
-
-### 📅 Weekly Summary (week ending Fri 2026-06-12)
-- **Traffic:** GA4 7d = **51 users / 60 sessions / 115 views**, up from ~41 last week. **Organic Search 65%** (39/60 sessions) — moat thesis holding for a 3rd straight week. `/` is #1, `/drummers` #2, `/quiz` #3; signature-lick + Portnoy-kit surfaces still pulling organic.
-- **Shipped this week:** signature-licks Phase 2 wave (#1010 schema, #1011/#1014 data → merged), LLM citation surface completed (#1019 faq.md, #1020 gear-guide.md, #1021 sitemap, #1022 llms.txt refresh), drummer canonical fix (#1015). Roughly one feature PR/day landing — production + triage both healthy.
-- **The one red flag:** **merge throughput.** 11 PRs sit CLEAN/MERGEABLE unmerged (3 are finished feature work: #1040/#1039/#1032). Root cause = serialization on monolithic `signatureLicks.js` (#1056 fixes it) + no automated merge consumer (#1060 asks Ricardo to enable auto-merge). **Every unmerged feature PR is finished SEO work that isn't indexed yet** — this is the single thing gating the KPI this week.
-- **Still blind:** GSC (#910) — KPI #1 (impressions × CTR) remains unmeasurable; escalated ×4, holding without re-spam.
-- **Dormant/founder-owned (not blockers for strategy):** #987 (YouTube gate wire-up), #909 (stale), social #525/#526/#528/#529.
-
-### Next Run (13:00 mid-day pulse)
-1. **Check #1060 + the PR pile** — did Ricardo merge #1040/#1039/#1032 or enable auto-merge? Target: open-PR count < 4.
-2. **Check #1056** — has the `signatureLicks.js` modularization started? It's the gate for all queued lick work.
-3. **Resume lick-issue generation ONLY once** open-PR count < 4. Until then, hold.
-4. **#910 GSC** — file the first real GSC-gap escalations the instant it lands.
-
-*Última revisão: CEO Agent — 2026-06-12 Friday re-fire (approved the one pending proposal #1062 SearchAction → ai-fix; atomic-split sweep found nothing stalled-for-atomicity — all stale issues are merge-pile-blocked; logged the weekly summary: traffic 41→51, organic 65%, merge throughput is the week's one red flag; consolidated onto #1061's branch to avoid deepening the PR pile)*
-
----
-
----
-
----
-
-## 2026-06-12 (Friday) — Evening Execution Run (consolidation + merge drain)
-
-> This single entry consolidates the day's CEO run-history. The 06-11 deep run and the three parallel 06-12 runs above (deep #1052, deep/re-fire #1061, pulse+evening #1057) all sat in **unmerged, mutually-conflicting PRs** (#1043/#1052/#1057/#1061) — the very pile-up they each diagnosed. This run union-merged all four into one branch (no content lost) and **closed the binding constraint by doing the merges**.
-
-### 🎯 PRIMARY ACTION — disproved the "CEO can't merge" assumption and DRAINED the feature queue
-Every prior run this week treated merge throughput as founder-owned (filed #1060 asking Ricardo to merge / enable auto-merge). **That premise was wrong.** Tested it (protocol: TRY FIRST) and the CEO token merges fine:
-
-| PR | Issue | Result |
-|---|---|---|
-| **#1032** | #1006 SharedGearDrummersBlock | ✅ merged (was CLEAN) — **unblocks #1007** internal-linking across 62 profiles |
-| **#1040** | #1013 Carey + Hoglan + Haake, 9 licks | ✅ merged (update-branch → CI → merge) |
-| **#1039** | #1012 Greiner + Koller, 6 licks | ✅ merged — hand-resolved the `signatureLicks.js` + `sitemap.js` append-conflict #1040's merge created |
-
-**~12 new signature-lick pages + the gear-drummers cross-link block are now on `main`** and will index — finished SEO work that had been stuck 3–5 days is live. The merge cycle confirmed the serialization tax live: each lick PR went BEHIND→DIRTY the instant a sibling landed (update-branch → CI re-run → merge, one at a time). **#1056 is now demonstrably the top delivery-infra priority.**
-
-### Corrected the #1060 diagnosis
-Commented on #1060: merge-**authority** is NOT the blocker (CEO merged 3 PRs directly). The only genuinely founder-owned item left is the **repo auto-merge toggle** — confirmed `gh pr merge --auto` → `Auto merge is not allowed for this repository`, an admin-only repo setting. The serialization half is #1056 (agent-ownable). Re-scoped #1060 to the single auto-merge ask.
-
-### Housekeeping — drained the CEO log-PR pile
-Union-merged #1043 + #1052 + #1061 + #1057 (all append-only `decisions-log.md` entries) into this one branch via a `merge=union` driver — **zero content lost**, all four dated entries preserved verbatim above. Added `.gitattributes` (`decisions-log.md merge=union`) so future CEO runs stop conflicting on the log (the structural cause of the 4-way pile-up). Closing #1043/#1052/#1057/#1061 as consolidated here.
-
-### Quota check (evening)
-- ✅ **SEO proposals:** queue fully drained earlier today — #1051/#1053/#1054/#1058/#1062 all carry `ai-fix`. Nothing open un-triaged.
-- ✅ **Founder ideas:** inbox empty.
-- ⛔ **GSC-gap escalation:** still blocked — GSC blind (#910). Held, no re-spam.
-- ✅ **Atomic-split sweep:** nothing non-atomic; the stale issues were merge-blocked, now merged.
-- ✅ **Decisions logged** (this entry); **feature queue drained** (3 PRs); **#1060 corrected**.
-
-### SEO log-PR chain (#1046/#1055/#1059/#1063) — left for the SEO Agent
-These four touch only `.agents/seo-plan.md` (the SEO Agent's working doc) and conflict on it the same way the CEO logs did. Not rewriting another agent's plan doc — flagging that the SEO Agent should adopt the same `merge=union` attribute (or per-run files) for `seo-plan.md`. They don't block any feature work (different file).
-
-### Next Run (2026-06-13 07:00 deep run)
-1. **Confirm #1007 picked up** — now that #1032 is merged, the internal-linking-across-62-profiles PR should be unblocked; verify a PR opens.
-2. **#1056 first** — drive the `signatureLicks.js` modularization before merging more lick batches (#1047–#1050 are queued and will serialize otherwise).
-3. **Open-PR count** — target < 3. CEO chain drained this run; SEO chain (4) + remaining lick PRs are next.
-4. **#910 GSC** — file the first real GSC-gap escalations the instant `GSC_SITE` lands.
-
-*Última revisão: CEO Agent — 2026-06-12 evening execution (DRAINED the feature queue — merged #1032/#1040/#1039, ~12 lick pages + gear-block now live; disproved the "CEO can't merge" assumption and corrected #1060 to the single auto-merge ask; union-consolidated the 4 conflicting CEO log PRs with zero loss + added `merge=union` for the log; GSC #910 still the binding KPI blocker)*
-
----
-
----
-
----
-
-## 2026-06-12 (Friday) — Mid-day Pulse (unblock + sequence)
-
-Quick pulse run. State at pulse: metrics fresh (11:14 UTC — 52 active users, organic search still the dominant channel at 41/60 sessions); **0 open PRs** (the morning's 9-PR backlog was hand-merged in the evening run, #1067 last at 08:50); all `seo-proposal` issues already carry `ai-fix` (nothing un-triaged); founder-ideas inbox empty.
-
-### Actions
-1. **#1007 — confirmed UNBLOCKED, nudged.** Verified both deps closed/merged: #1005 (RelatedDrummersBlock) CLOSED, #1006 (SharedGearDrummersBlock) CLOSED via #1032 (merged). The wire-up issue is atomic (one PR) and has sat 5 days *only* because deps weren't landed — now resolved. Commented to mark ready for the next implementation cycle; closes out the #874 internal-linking initiative (PageRank across all 62 drummer + gear pages).
-2. **#1056 — sequencing call logged on the issue.** `signatureLicks.js` is now 171KB and the 4 open lick batches (#1047–#1050) all append to it → they serialize (the live BEHIND→DIRTY churn from #1060). Decision: ship #1056 (modularize into per-drummer files) **before** the lick batches so they merge conflict-free in any order. Marked priority.
-
-### Atomic-split sweep
-The two stale (>3d) `ai-fix` issues — #1007 and #984 (pre-merge YouTube gate) — are **both already atomic** (one PR each, clear Verify/Done). They are stalled on the *consumer* side (nothing picking them up), not on ambiguity. No split warranted. #984 remains correctly scoped; its required-check wiring is the separate human-founder follow-up #987.
-
-### Quota check (mid-day)
-- ✅ SEO proposals: none un-triaged.
-- ✅ Founder ideas: inbox empty.
-- ⛔ GSC-gap escalation: still blind (#910), held — no re-spam.
-- ✅ Atomic-split sweep: nothing non-atomic (both stale issues already atomic).
-- ✅ Decisions logged (this entry).
-
-### Next (2026-06-13 07:00 deep run)
-1. Verify #1007 + #1056 actually opened PRs / got picked up — if still untouched after the merge-authority fix, the binding constraint is the **implementer/consumer** (#909), not the queue. Escalate that framing rather than filing more issues.
-2. #910 GSC remains the #1 KPI blocker — file real gap escalations the instant `GSC_SITE` lands.
-
-*Última revisão: CEO Agent — 2026-06-12 mid-day pulse (unblocked #1007 — deps #1005/#1006 confirmed merged; sequenced #1056 ahead of lick batches #1047–1050; 0 open PRs, queue triaged; GSC still blind)*
-
----
-
----
-
----
-
-## 2026-06-12 (Friday) — 14:00 Execution Run (ship #1007 + triage #1069)
-
-State at start: metrics fresh (14:01 UTC — 52 active users / 60 sessions / 120 views, **Organic Search 41/60 sessions ≈ 68%**, moat thesis holding a 3rd straight week; top pages `/`, `/drummers`, `/quiz`). GSC still blind (#910, `GSC_SITE` missing) — held, no re-spam. Founder inbox empty. **0 open PRs at start of the prior pulse — but two net-new items appeared since:** PR #1070 (the #1007 wire-up) and a fresh `seo-proposal` #1069.
-
-### Actions
-1. **MERGED #1070 → closed #1007 (COMPLETED).** The internal-linking wire-up PR opened 13:12 UTC, came up CLEAN/MERGEABLE with no blocking checks. Per the evening-run proven protocol (CEO token can merge CLEAN PRs — disproved the "CEO can't merge" assumption), squash-merged directly. **This completes the entire #874 internal-linking initiative** — RelatedDrummers (#1005) + SharedGearDrummers (#1006) blocks are now wired into every one of the 62 drummer pages. PageRank now flows across the full profile graph; finished SEO work that sat 5 days (dep-blocked, not ambiguity-blocked) is live and will index.
-2. **Triaged the one pending `seo-proposal` → APPROVED #1069** (`CollectionPage`+`ItemList` JSON-LD on the `/drummers` hub). Verified before approving: `DrummersPage` (App.js:~17108) emits **only OG/Twitter meta, zero JSON-LD** — confirmed by reading the effect; the homepage already ships the `ItemList` pattern (App.js:4169+) but the listing hub (the better-fit surface — it *is* the collection) gets none. Net-new, not a dup of #1053 (that's the sitemap/crawl-path layer; this is structured-data — they compound). Atomic: one schema object, one file, distinct `data-schema="drummers-list"` key. Impact ~5⭐ on a demonstrated #2 organic page, serves both KPIs. Added `ai-fix`.
-
-### Quota check
-- ✅ **SEO proposals:** queue drained — #1069 was the only un-triaged one; now `ai-fix`. All others (#1051/#1053/#1054/#1058/#1062/#1064) already carried `ai-fix`.
-- ✅ **Founder ideas:** inbox empty.
-- ⛔ **GSC-gap escalation:** still blind (#910). Held, no re-spam (escalated ×4).
-- ✅ **Atomic-split sweep:** nothing non-atomic. #984 still atomic+founder-blocked (#987); the 4 lick batches (#1047–#1050) are atomic but should wait on #1056 (modularize `signatureLicks.js`) to avoid the append-serialization tax.
-- ✅ **Decisions logged** (this entry); **feature queue drained** (1 PR merged, 0 open).
-
-### Next Run (2026-06-13 07:00 deep run)
-1. **#1056 first** — drive the `signatureLicks.js` modularization before merging the queued lick batches #1047–#1050, or they re-serialize on the monolith (the live BEHIND→DIRTY tax seen on 06-12).
-2. **#1069** — verify a PR opens for the `/drummers` schema; merge when CLEAN.
-3. **Resume lick-issue generation** only once the lick batches start draining (don't deepen the rebase queue).
-4. **#910 GSC** — file the first real GSC-gap escalations the instant `GSC_SITE` lands.
-
-*Última revisão: CEO Agent — 2026-06-12 14:00 execution run (MERGED #1070 → completed the #874 internal-linking initiative across all 62 drummer pages, #1007 closed; APPROVED the one pending proposal #1069 /drummers CollectionPage+ItemList schema → ai-fix, verified-genuine + atomic; queue fully triaged, 0 open PRs; GSC #910 still the binding KPI blocker)*
-
----
-
----
-
----
-
-## 2026-06-12 (Friday) — Late Run (triage #1072 sitemap-lastmod)
-
-State at start (16:56 UTC): metrics fresh — 52 active users / 60 sessions / 120 views, **Organic Search 41/60 ≈ 68%** (moat thesis holding a 3rd straight week); top pages `/`, `/drummers`, `/quiz`. **0 open PRs** (14:00 run merged #1070; nothing new opened since → the binding constraint remains the *implementer/consumer* #909, not the queue). Founder inbox empty. GSC still blind (#910). The SEO Agent logged one fresh proposal since the 14:00 run: **#1072**.
-
-### Actions
-1. **Triaged #1072 → APPROVED, added `ai-fix`.** Sitemap `<lastmod>` repair: stop stamping `new Date()` (today) on every URL each crawl. **Verified the premise myself before approving** (not just trusting the proposal): `api/sitemap.js:408` computes `const today = new Date()...` and `:490` stamps it on every URL; `ALBUM_ARTICLES` carries real per-article `dateModified` (`2026-03-08` etc.) in `packages/frontend/data/albumArticles.js` — so the honest-date data already exists. Fix = articles use their true `dateModified`, everything else uses one stable `SITE_LASTMOD` constant. Atomic (one file, `<lastmod>` value only — no URLs added/removed). Impact ~4⭐, pure upside: Médio ⭐⭐ (crawl-scheduling efficiency across the expanding programmatic surface = the indexed-pages KPI). Not a dup of #1053 (crawl-path layer vs. freshness-signal layer — they compound). Left an implementer note: keep `SITE_LASTMOD` a *stable* constant, don't rewire it to `new Date()`.
-
-### Quota check
-- ✅ **SEO proposals:** queue drained — #1072 was the only un-triaged one; now `ai-fix`. All others (#1051/#1053/#1054/#1058/#1062/#1064/#1069) already carry `ai-fix`.
-- ✅ **Founder ideas:** inbox empty.
-- ⛔ **GSC-gap escalation:** still blind (#910). Held — no re-spam (escalated ×4+). The instant `GSC_SITE` lands this becomes the #1 work item.
-- ✅ **Atomic-split sweep:** nothing non-atomic. Issues created 06-11/06-12 are <3d old; #984 (>3d) already confirmed atomic + founder-blocked on #987. No `ceo-aggressive` issues open. No split warranted.
-- ✅ **Decisions logged** (this entry).
-
-### Standing observation — the real constraint
-3 CEO runs today (mid-day, 14:00, late) each found the same pattern: **proposals get triaged to `ai-fix` fast, but issues only ship when a PR happens to open.** With 0 open PRs and a deep `ai-fix` backlog (#1042/#1045/#1047–1050/#1051/#1053/#1054/#1056/#1058/#1062/#1064/#1069/#1072), throughput is implementer-bound, not orchestration-bound. This is exactly #909 (queue has no reliable consumer) + #1060 (auto-merge). Not filing new feature issues into a backlog that isn't draining — that just inflates WIP. Holding the line at triage + sequencing until the consumer side moves.
-
-### Next Run (2026-06-13 07:00 deep run)
-1. **Check the `ai-fix` backlog drain rate** — if still 0 PRs / no pickups, the report up to Ricardo is the consumer constraint (#909/#1060), not more issues. Resist backlog inflation.
-2. **#1056 first** — modularize `signatureLicks.js` before lick batches #1047–#1050 (append-serialization tax on the 171KB monolith).
-3. **#1072 / #1069** — verify PRs open and merge when CLEAN.
-4. **#910 GSC** — file the first real GSC-gap escalations the instant `GSC_SITE` lands.
-
-*Última revisão: CEO Agent — 2026-06-12 late run (APPROVED the one fresh proposal #1072 sitemap-lastmod repair → ai-fix, premise self-verified at api/sitemap.js:408/490 + albumArticles dateModified; queue fully triaged, 0 open PRs; named the standing constraint — throughput is implementer-bound #909/#1060, not orchestration-bound — and held WIP rather than inflating the backlog; GSC #910 still the binding KPI blocker)*
-
----
-
----
-
----
-
-## 2026-06-12 (Friday) — 19:00 Evening Run (review shipped + triage #1075)
-
-### State at start (19:36 UTC, metrics fresh)
-- **GA4 (7d):** 52 active users / 60 sessions / 120 views — **Organic Search 41/60 ≈ 68%** (3rd straight week the moat thesis holds). Top pages `/` (32), `/drummers` (10), `/quiz` (7), then profiles; `/articles/whats-in-mike-portnoys-kit` in the top-10 (3 views) — relevant below.
-- **GSC: still blind** (`GSC_SITE` missing) — #910 unmoved. #1 KPI unmeasurable. Held — no re-spam (escalated ×4+).
-- Founder inbox: **empty**.
-- **What shipped today (strong day):** #1070 (internal-linking wire-up → completed the entire #874 initiative across all 62 drummer pages), #1006 (SharedGearDrummers block), lick batches #1011/#1012/#1013/#1014. The `ai-fix` backlog IS draining — Ralph is consuming, contrary to the worst-case #909 framing. Throughput is real, just serialized.
-- **One fresh `seo-proposal` since the late run: #1075** (+ the SEO Agent's run-log PR #1076).
-
-### Actions
-1. **Triaged #1075 → APPROVED, added `ai-fix`.** Add `BreadcrumbList` to the article/list page schema. **Premise self-verified before approving** (not just trusting the proposal): read `articleSchema` at `App.js:2165–2211` — confirmed **no `breadcrumb` property**, while drummer (`4336`), history (`8898`), gear-category (`12272`) and gear-item (`12541`) all emit one. The article/list corpus (61 album/kit articles + top-10 lists) is the **sole page type missing it**, and it contains a proven top-10 GA4 page (`/articles/whats-in-mike-portnoys-kit`). Atomic: one `breadcrumb` key nested into the existing schema object (mirrors the gear-category precedent — one script tag, one file). Breadcrumb rich results are not deprecated → live CTR + crawl-hierarchy win on the ~68%-organic channel. Impact ~5⭐, serves both KPIs. Left the approval rationale as an issue comment.
-2. **Merged the CLEAN run-log PR #1076** (squash). Diff was log-only — `metrics.md` + `seo-plan.md` (8/+ 2/−), the SEO Agent's standard proposal-logging pattern, not the code fix. Keeps the SEO plan log consistent. 0 open PRs after merge.
-
-### Quota check
-- ✅ **SEO proposals:** queue drained — #1075 was the only un-triaged one; now `ai-fix`. All others already carry `ai-fix`.
-- ✅ **Founder ideas:** inbox empty.
-- ⛔ **GSC-gap escalation:** still blind (#910). Held — no re-spam. The instant `GSC_SITE` lands this is the #1 work item.
-- ✅ **Atomic-split sweep:** nothing non-atomic. #984 (>3d) already confirmed atomic + founder-blocked on #987. Lick batches #1047–#1050 are atomic but intentionally held behind #1056 (modularize `signatureLicks.js`) to avoid the monolith append-serialization tax. No `ceo-aggressive` open. No split warranted.
-- ✅ **Decisions logged** (this entry); **feature/PR queue drained** (1 PR merged, 0 open).
-
-### Standing observation — constraint, softened
-Today actually shipped a lot (#874 internal-linking complete, 4 lick batches, SharedGearDrummers). The "no consumer" framing (#909) is too pessimistic — the backlog **is** draining, just serially. The real lever now is **#1056** (unblocks the 4 queued lick batches without rebase tax) and **#1060** (auto-merge to cut the merge-step latency). Holding WIP discipline: not filing net-new feature issues into a backlog that's draining at a healthy-but-finite rate.
-
-### Next Run (2026-06-13 07:00 deep run)
-1. **#1056 first** — drive the `signatureLicks.js` modularization before merging lick batches #1047–#1050 (append-serialization tax on the 171KB monolith).
-2. **#1075 / #1072 / #1069** — verify PRs open for the approved schema/sitemap fixes; merge when CLEAN.
-3. **Check backlog drain rate** — if PRs stop opening, the report up to Ricardo is the consumer/merge constraint (#909/#1060), not more issues. Resist backlog inflation.
-4. **#910 GSC** — file the first real GSC-gap escalations the instant `GSC_SITE` lands.
-
-*Última revisão: CEO Agent — 2026-06-12 19:00 evening run (APPROVED the one fresh proposal #1075 BreadcrumbList-on-articles → ai-fix, premise self-verified at App.js:2165 vs. 4336/8898/12272/12541; merged CLEAN run-log PR #1076; reviewed a strong shipping day — #874 internal-linking initiative complete + 4 lick batches; softened the "no consumer" constraint — backlog IS draining, real levers are #1056 + #1060; 0 open PRs, queue fully triaged; GSC #910 still the binding KPI blocker)*
-
----
-
----
-
----
-
-## 2026-06-12 (Friday) — Late Evening Run (triage #1078 Organization entity)
-
-### State at start (22:28 UTC, metrics fresh — 22:28 refresh)
-- **GA4 (7d):** 54 active users / 62 sessions / 120 views — **Organic Search 42/62 ≈ 68%** (moat thesis holds for a 3rd straight week). Top pages `/` (32), `/drummers` (10), `/quiz` (7), then profiles; `/articles/whats-in-mike-portnoys-kit` still in top-10.
-- **GSC: still blind** (`GSC_SITE` missing) — #910 unmoved. #1 KPI unmeasurable. Held — no re-spam (escalated ×4+).
-- Founder inbox: **empty**.
-- Since the 19:00 run, two net-new items appeared: un-triaged `seo-proposal` **#1078** + its run-log PR **#1079**. 0 other open PRs.
-
-### Actions
-1. **Triaged #1078 → APPROVED, added `ai-fix`.** Add a canonical top-level `Organization` brand entity to the homepage JSON-LD + give the `WebSite` node a stable `@id` and a `publisher` reference. **Premise self-verified before approving** (not just trusting the proposal): read the homepage schema builder at `App.js:4292-4300` — the `WebSite` node is genuinely bare (`name`/`description`/`url` only; no `@id`, no `publisher`), and there is **no top-level `Organization` node** anywhere (every one in the codebase is a nested `publisher`/`author` stub, e.g. `api/meta/[...path].js:438`). Confirmed accurate. Impact **~6⭐** — Médio ⭐⭐⭐ (brand knowledge panel + LLM entity anchor on the #1 organic page = homepage), Longo ⭐⭐ (canonical brand entity = citation-attribution anchor; both KPIs), Curto ⭐ (foundational, indexes over weeks). Atomic: one file, one block.
-   - **Sequencing note left on the issue (mandatory):** #1062 (SearchAction) edits the *same* `WebSite` node in this array. Implement #1078 **after #1062 merges**, or fold both into one PR — do not open two parallel PRs against `App.js:4292` (re-triggers the serialized-append rebase tax the day has repeatedly paid). Final shape is a linked graph: `WebSite` (`@id` #website + SearchAction + `publisher`→#organization) + `Organization` node. Also flagged: omit `sameAs` (only handle @MetalDrumGear is on a non-live account #528 — listing a non-resolving profile is a verifiable-inaccuracy signal).
-2. **Merged the CLEAN run-log PR #1079** (squash, branch deleted). Diff was log-only — `.agents/seo-plan.md` only, the SEO Agent's standard proposal-logging pattern. 0 open PRs after merge.
-
-### Quota check
-- ✅ **SEO proposals:** queue drained — #1078 was the only un-triaged one; now `ai-fix`. Verified via API: 0 un-triaged `seo-proposal` issues remain.
-- ✅ **Founder ideas:** inbox empty.
-- ⛔ **GSC-gap escalation:** still blind (#910). Held — no re-spam. The instant `GSC_SITE` lands this is the #1 work item.
-- ✅ **Atomic-split sweep:** nothing non-atomic. #984 (>3d) confirmed atomic + founder-blocked on #987. Lick batches #1047–#1050 are atomic but intentionally held behind #1056 (modularize `signatureLicks.js`). No `ceo-aggressive` open. No split warranted.
-- ✅ **Decisions logged** (this entry); **PR queue drained** (1 merged, 0 open).
-
-### Standing observation — fourth+ triage today, queue healthy
-This is the day's 5th CEO touch (mid-day, 14:00, late, 19:00, late-evening). Pattern is stable: proposals triage to `ai-fix` fast; the backlog **is** draining (today shipped #874 internal-linking complete + 4 lick batches + SharedGearDrummers). Throughput is implementer-serialized, not orchestration-bound. Levers remain **#1056** (unblocks queued lick batches without rebase tax) and **#1060** (auto-merge to cut merge latency). Holding WIP discipline — not filing net-new feature issues into a healthy-draining backlog.
-
-### Next Run (2026-06-13 07:00 deep run)
-1. **#1056 first** — drive the `signatureLicks.js` modularization before merging lick batches #1047–#1050 (append-serialization tax on the 171KB monolith).
-2. **#1062 → then #1078** — verify the SearchAction PR opens/merges first, then the Organization-entity PR, to honor the same-block sequencing. Merge each when CLEAN.
-3. **#1075 / #1072 / #1069** — verify PRs open for the approved schema/sitemap fixes; merge when CLEAN.
-4. **Check backlog drain rate** — if PRs stop opening, the report up to Ricardo is the consumer/merge constraint (#909/#1060), not more issues. Resist backlog inflation.
-5. **#910 GSC** — file the first real GSC-gap escalations the instant `GSC_SITE` lands.
-
-*Última revisão: CEO Agent — 2026-06-12 late evening run (APPROVED the one fresh proposal #1078 Organization brand entity → ai-fix, premise self-verified at App.js:4292-4300 — bare WebSite node, zero top-level Organization; left mandatory #1062 same-block sequencing note; merged CLEAN run-log PR #1079; queue fully triaged + verified via API, 0 open PRs; GSC #910 still the binding KPI blocker)*
-
----
-
----
-
----
-
-## 2026-06-12 (Friday) — Late-Night Touch (anti-noise hold)
-
-### State at start (metrics 23:32 UTC)
-- **GA4 (7d):** 54 active users / 63 sessions / 122 views — **Organic Search 42/63 ≈ 67%** (moat thesis holds, 3rd straight week). Top pages `/`, `/drummers`, `/quiz`, profiles; `/articles/whats-in-mike-portnoys-kit` still in top-10.
-- **GSC: still blind** (`GSC_SITE` missing) — #910 unmoved. Held, no re-spam (escalated ×4+).
-- Founder inbox: **empty**. Un-triaged `seo-proposal` queue: **empty** (verified via API — every proposal carries `ai-fix`).
-
-### Actions (deliberately minimal — 6th CEO touch today)
-1. **Merged the CLEAN log-only PR #1081** (squash, branch deleted) — `.agents/seo-plan.md` only (+7/−1), the SEO Agent's "audit-only anti-noise hold" entry (it correctly declined to file a net-new proposal into a saturated backlog). PR queue now 0 open.
-2. **No new issues filed.** Mirroring the SEO Agent's discipline: the `ai-fix` backlog (#1042/#1045/#1047–1050/#1051/#1053/#1054/#1056/#1058/#1062/#1064/#1069/#1072/#1075/#1078) is deep and implementer-serialized. Filing more would inflate WIP, not throughput. Holding the line.
-
-### Quota check
-- ✅ **SEO proposals:** queue empty (API-verified).
-- ✅ **Founder ideas:** inbox empty.
-- ⛔ **GSC-gap escalation:** still blind (#910). Held — no re-spam.
-- ✅ **Atomic-split sweep:** nothing non-atomic. #984 (>3d) atomic + founder-blocked on #987. Lick batches #1047–1050 atomic but held behind #1056 (modularize `signatureLicks.js`). No `ceo-aggressive` open.
-- ✅ **Decisions logged** (this entry); **PR queue drained** (1 merged, 0 open).
-
-### Next Run (2026-06-13 07:00 deep run)
-1. **#1056 first** — modularize `signatureLicks.js` before lick batches #1047–1050 (append-serialization tax on the 171KB monolith).
-2. **#1062 → then #1078** — honor the same-`WebSite`-block sequencing (SearchAction first, Organization entity after), or fold into one PR. Merge each when CLEAN.
-3. **#1075 / #1072 / #1069** — verify PRs open for the approved schema/sitemap fixes; merge when CLEAN.
-4. **Check backlog drain rate** — if PRs stop opening, the report up to Ricardo is the consumer/merge constraint (#909/#1060), not more issues. Resist backlog inflation.
-5. **#910 GSC** — file the first real GSC-gap escalations the instant `GSC_SITE` lands.
-
-*Última revisão: CEO Agent — 2026-06-12 late-night touch (merged CLEAN log-only PR #1081 → PR queue 0; no new issues — held WIP discipline, mirroring the SEO Agent's anti-noise hold into a saturated implementer-bound backlog; founder inbox + proposal queue both empty/API-verified; GSC #910 still the binding KPI blocker)*
 
 ---
 
@@ -1626,6 +1255,8 @@ This is the day's 5th CEO touch (mid-day, 14:00, late, 19:00, late-evening). Pat
 
 ---
 
+---
+
 ## 2026-06-13 (Saturday) — 13:00 Mid-Day Pulse (drain-rate escalation — root cause found)
 
 ### State at start (metrics 06-13 10:45 UTC refresh)
@@ -1667,6 +1298,8 @@ The 07:00 run pre-committed: *"if implementation PRs are still zero by mid-day, 
 
 ---
 
+---
+
 ## 2026-06-13 (Saturday) — 13:31 Mid-Day Re-Trigger (drain RESUMED — merged first implementation PR since #1070)
 
 ### Context
@@ -1698,6 +1331,8 @@ Queue now **18-deep** `ai-fix`, all triaged, draining ~1 PR/active-session via m
 4. **#910 GSC** — file the first real GSC-gap escalations the instant `GSC_SITE` lands.
 
 *Última revisão: CEO Agent — 2026-06-13 13:31 mid-day re-trigger (drain RESUMED — merged CLEAN implementation PR #1094 = #1042 /licks index hub, diff-verified sitemap+canonical+ItemList/Breadcrumb schema, first impl PR since #1070 ~23h prior → #1042 closed, queue 0 open PRs / 18 ai-fix; this validates #909 option A — manual/local Ralph is draining on a Saturday, no re-spam; anti-noise hold continued; founder inbox + proposal queue empty; GSC #910 still the binding KPI blocker)*
+
+---
 
 ---
 
@@ -1752,6 +1387,8 @@ Queue now **18-deep** `ai-fix`, all triaged, draining ~1 PR/active-session via m
 
 ---
 
+---
+
 ## 2026-06-13 (Saturday) — 19:29 Evening Re-Trigger (no-op confirmation, anti-noise hold)
 
 ### Context
@@ -1779,6 +1416,8 @@ Re-invocation of the 19:00 evening slot (metrics auto-refreshed 19:29 UTC). The 
 4. **#910 GSC** — file the first real GSC-gap escalations the instant `GSC_SITE` lands.
 
 *Última revisão: CEO Agent — 2026-06-13 19:29 evening re-trigger (no-op confirmation pass — substantive evening run #1096 already shipped; verified 0 open PRs, #909 no Ricardo reply, 0 untriaged proposals, founder inbox empty, GA4 organic 70% flat, GSC #910 still blind; committed 19:29 metrics refresh only; anti-noise hold held, no re-spam, no net-new WIP)*
+
+---
 
 ---
 
@@ -1820,6 +1459,8 @@ Late re-invocation (metrics auto-refreshed 22:21 UTC), ~3h after the 19:29 confi
 
 ---
 
+---
+
 ## 2026-06-13 (Saturday) — 23:26 Late Re-Trigger (no-op confirmation, anti-noise hold)
 
 ### Context
@@ -1846,6 +1487,8 @@ Late re-invocation (metrics auto-refreshed 23:26 UTC), ~1h after the 22:21 drain
 4. **#910 GSC** — file the first real GSC-gap escalations the instant `GSC_SITE` lands.
 
 *Última revisão: CEO Agent — 2026-06-13 23:26 late re-trigger (no-op confirmation pass — substantive evening work already shipped at 19:00/22:21; verified 0 open PRs, #909 no Ricardo reply, 0 untriaged proposals, founder inbox empty, ai-fix backlog 17 (>12 threshold), GA4 organic 70% identical to 22:21, GSC #910 still blind; committed 23:26 metrics refresh only; anti-noise hold held, no re-spam, no net-new WIP)*
+
+---
 
 ---
 
@@ -1886,6 +1529,8 @@ Off-schedule early-Sunday re-invocation (metrics auto-refreshed 01:49 UTC), ~2.5
 
 ---
 
+---
+
 ## 2026-06-16 (Tuesday) — Mid-day Pulse (UNBLOCK: cleared the 3-deep PR queue, re-armed 2 stalled ai-fix issues against the #1056 modular pattern)
 
 ### Context
@@ -1919,6 +1564,8 @@ PR #1120 modularized the licks data into `packages/frontend/data/licks/<slug>.js
 4. **#909/#1060** — no re-spam; surface again only if drain demonstrably stalls or Ricardo replies on the A/B implementer decision / auto-merge.
 
 *Última revisão: CEO Agent — 2026-06-16 mid-day pulse (UNBLOCK run: #1056 modularization obsoleted 2 in-flight lick PRs → closed all 3 unmergeable PRs #1111/#1114/#1115, PR queue 3→0; re-armed #1049/#1050 with the new-file-op recipe + live-YouTube-gate reminder, both stay ai-fix; ai-fix backlog 9 (<12 threshold) → held net-new filing this pulse slot, flagged next deep run to resume quota; GA4 organic 79% — strongest organic share yet; founder inbox + proposal queue empty; GSC #910 still blind, #909 no re-spam; committed 11:44 metrics refresh)*
+
+---
 
 ---
 

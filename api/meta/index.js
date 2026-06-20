@@ -7,6 +7,7 @@
  */
 
 import { drummers } from '../drummers/index.js';
+import { genres as GENRES } from '../../packages/frontend/data/genres.js';
 
 const BASE_URL = 'https://metalforge.io';
 const SITE_NAME = 'MetalForge';
@@ -217,17 +218,62 @@ function getMetaForPath(pathname) {
     };
   }
 
+  // Genres hub
+  if (path === '/genres') {
+    return {
+      title: `Metal Genres — Explore Drumming by Genre | ${SITE_NAME}`,
+      description: 'Explore metal drumming by genre. From thrash and death to progressive and metalcore — discover the drummers and gear that define each style.',
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url: `${BASE_URL}/genres`,
+      articleSchema: [
+        {
+          '@context': 'https://schema.org',
+          '@type': 'CollectionPage',
+          name: 'Metal Drummer Genres — Gear & Setups by Style',
+          url: `${BASE_URL}/genres`,
+          description: 'Explore metal drumming by genre: thrash, death, black, progressive, nu-metal, groove, metalcore, and hardcore. Discover the drummers and gear that define each style.',
+        },
+      ],
+    };
+  }
+
   // Genre pages
   const genreMatch = path.match(/^\/genre\/([a-z0-9-]+)$/);
   if (genreMatch) {
     const [, genreSlug] = genreMatch;
-    const genreName = genreSlug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+    const genreData = GENRES[genreSlug];
+    const genreName = genreData
+      ? genreData.name
+      : genreSlug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+    const faqItems = genreData?.faq || [];
+    const articleSchema = [
+      {
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        name: `${genreName} Drummers — Gear & Setups`,
+        url: `${BASE_URL}/genre/${genreSlug}`,
+        description: `Explore ${genreName.toLowerCase()} drummers and their complete gear setups on MetalForge.`,
+      },
+    ];
+    if (faqItems.length > 0) {
+      articleSchema.push({
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        mainEntity: faqItems.map(faq => ({
+          '@type': 'Question',
+          name: faq.question,
+          acceptedAnswer: { '@type': 'Answer', text: faq.answer },
+        })),
+      });
+    }
     return {
       title: `${genreName} Drummers — Gear & Setups | ${SITE_NAME}`,
       description: `Explore ${genreName.toLowerCase()} drummers and their gear. From icons to rising stars, see what powers the ${genreName.toLowerCase()} sound.`,
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/genre/${genreSlug}`,
+      articleSchema,
     };
   }
 
@@ -338,17 +384,20 @@ function getMetaForPath(pathname) {
 
 // Generate HTML with meta tags
 function generateMetaHtml(meta) {
+  const schemaBlock = meta.articleSchema
+    ? `\n  <script type="application/ld+json">\n  ${JSON.stringify(meta.articleSchema, null, 2)}\n  </script>`
+    : '';
   return `<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  
+
   <!-- Primary Meta Tags -->
   <title>${meta.title}</title>
   <meta name="title" content="${meta.title}">
   <meta name="description" content="${meta.description}">
-  
+
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="${meta.type}">
   <meta property="og:url" content="${meta.url}">
@@ -359,7 +408,7 @@ function generateMetaHtml(meta) {
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
   <meta property="og:image:alt" content="${meta.title}">
-  
+
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="${TWITTER_HANDLE}">
@@ -368,16 +417,16 @@ function generateMetaHtml(meta) {
   <meta name="twitter:description" content="${meta.description}">
   <meta name="twitter:image" content="${meta.image}">
   <meta name="twitter:image:alt" content="${meta.title}">
-  
+
   <!-- Canonical URL -->
   <link rel="canonical" href="${meta.url}">
-  
+
   <!-- Favicon -->
   <link rel="icon" href="${BASE_URL}/favicon.ico">
-  
+
   <!-- Theme Color -->
-  <meta name="theme-color" content="#dc2626">
-  
+  <meta name="theme-color" content="#dc2626">${schemaBlock}
+
   <!-- Redirect to actual page for browsers -->
   <meta http-equiv="refresh" content="0; url=${meta.url}">
   <script>window.location.href = "${meta.url}";</script>

@@ -189,12 +189,7 @@ export const licks = {
       "Plant snare backbeats with full authority even at high tempo — weight before speed",
       "Build the fill sequence slowly at 100 BPM until it is perfectly accurate, then raise speed in 5 BPM steps"
     ],
-    "tutorial": {
-      "youtubeId": null,
-      "startTime": 0,
-      "title": "Avenged Sevenfold - God Forsaken (Hail to the King)",
-      "description": "Reference for Arin Ilejay's high-tempo fill cascades and driving groove on God Forsaken"
-    },
+    "tutorial": null,
     "gearUsed": [
       {
         "name": "PDP Concept Series Custom Maple Kit",

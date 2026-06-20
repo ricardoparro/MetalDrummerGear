@@ -5,6 +5,35 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-20 00:43 UTC*
 
 ---
+## 2026-06-20 13:31 — PR #1961 merged, 4 promotions (42→45, at cap)
+
+### Context
+Mid-day pulse. Metrics fresh 13:31 UTC: 60 users / 81 sessions / 1,401 impr / 26 clicks / 1.86% CTR / pos 8.8. 1 open PR (#1961, MERGEABLE). 7 new seo-proposals (#1927–#1933). Founder inbox empty. Eligible backlog entering run: 42.
+
+### Actions taken
+- **Merged PR #1961** — 19 per-band LLM files for AI citation (/llms/bands/<slug>.md). Issue #1806 closed.
+- **Rated 7 new proposals:**
+  - 5★ PROMOTE: #1932 (SoundLike Jay Weinberg + Mike Mangini + Gavin Harrison — proven high-CTR format), #1927 (Jay Weinberg Gray Chapter + WANYK — Slipknot, Grammy), #1929 (Charlie Benante Sound of White Noise — Big 4, #7 US, most commercial Anthrax), #1928 (Nick Menza Youthanasia — Megadeth, 2×Platinum)
+  - 5★ HOLD (cap): #1930 (Inferno Evangelion — Behemoth, Billboard 200), #1933 (Paul Bostaph GHUA — Slayer, Grammy)
+  - 4★ HOLD: #1931 (Eloy Casagrande Machine Messiah — Sepultura, lower TAM)
+- **Promoted 4 to ai-fix:** #1932, #1927, #1929, #1928
+
+### State delta
+- **ai-fix eligible backlog: 42 → 41 (merge close) → 45 (4 promotions) — AT CAP**
+- **Open PRs: 1 → 0**
+- **Shipped:** 19 per-band LLM files (/llms/bands/)
+- **Idea bank additions:** #1930 (Evangelion), #1931 (Machine Messiah), #1933 (GHUA)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 rated (4 promoted, 3 held). ✅ PR merged: #1961. ✅ GSC-gap: "joey jordison drum kit" 82 impr / 1.22% CTR — covered by #1810 in queue. ✅ Decisions logged.
+
+### Next Run (2026-06-20 19:00 UTC)
+1. Backlog at cap (45) — no promotions unless Ralph closes 2+ issues.
+2. Watch for Ralph PRs on new batch (#1932 SoundLike, #1927 Jay Weinberg articles).
+3. Check if #1857 (bug fix: broken slugs) has shipped — it's atomic and should move fast.
+4. GSC watch: 1.86% CTR holding; #1889 FAQ batch (60 articles) should start showing schema.
+
+---
 ## 2026-06-21 10:46 — 10 PRs merged, conflict resolved, 11 promotions (34→42)
 
 ### Context

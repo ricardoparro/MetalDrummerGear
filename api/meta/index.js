@@ -255,6 +255,46 @@ function getMetaForPath(pathname) {
       image: `${BASE_URL}/images/og/beginner-guide-preview.png`,
       type: 'article',
       url: `${BASE_URL}/beginner-guide`,
+      jsonLd: [
+        {
+          '@context': 'https://schema.org',
+          '@type': 'WebPage',
+          name: `Metal Drumming Beginner's Guide`,
+          description: 'Start your metal drumming journey! Essential gear recommendations, technique basics, and tips from legendary drummers.',
+          url: `${BASE_URL}/beginner-guide`,
+          isPartOf: { '@type': 'WebSite', name: SITE_NAME, url: BASE_URL },
+        },
+        {
+          '@context': 'https://schema.org',
+          '@type': 'FAQPage',
+          mainEntity: [
+            {
+              '@type': 'Question',
+              name: 'What gear do I need to start metal drumming?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: 'To start metal drumming you need a drum kit with a durable bass drum, snare, toms, hi-hats, crash and ride cymbals, drumsticks (2B or 5B), a drum throne, and hearing protection. A beginner kit from brands like Pearl, Tama, or Ludwig is a solid starting point.',
+              },
+            },
+            {
+              '@type': 'Question',
+              name: 'How do I learn metal drumming as a beginner?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: 'Start by learning basic rock beats and single-stroke rolls, then progress to double bass technique and blast beats. Study the setups of legendary metal drummers like Lars Ulrich, Joey Jordison, and Dave Lombardo for inspiration.',
+              },
+            },
+            {
+              '@type': 'Question',
+              name: 'What is a good budget for a beginner metal drum kit?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: 'A solid beginner metal drum kit typically costs between $400 and $900. Budget kits in this range from Pearl Export, Tama Imperialstar, or Ludwig Accent provide the durability needed for metal drumming.',
+              },
+            },
+          ],
+        },
+      ],
     };
   }
 
@@ -378,6 +418,9 @@ function generateMetaHtml(meta) {
   <!-- Theme Color -->
   <meta name="theme-color" content="#dc2626">
   
+  <!-- JSON-LD Structured Data -->
+  ${meta.jsonLd ? meta.jsonLd.map(schema => `<script type="application/ld+json">${JSON.stringify(schema)}</script>`).join('\n  ') : ''}
+
   <!-- Redirect to actual page for browsers -->
   <meta http-equiv="refresh" content="0; url=${meta.url}">
   <script>window.location.href = "${meta.url}";</script>

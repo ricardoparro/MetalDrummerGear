@@ -438,6 +438,8 @@ export default function handler(req, res) {
     // Issue #685: "How to Sound Like" guides hub
     { loc: '/guides', priority: '0.9', changefreq: 'weekly' },
     ...soundLikeGuides.map(g => ({ loc: `/guides/${g.slug}`, priority: '0.9', changefreq: 'monthly' })),
+    // Issue #1801: Beginner guide hub page
+    { loc: '/beginner-guide', priority: '0.85', changefreq: 'monthly' },
     // Issue #702: Beginner gear guides
     ...beginnerGuides.map(g => ({ loc: `/guides/${g.slug}`, priority: '0.95', changefreq: 'monthly' })),
     // Issue #1794: Genre gear guides (commercial-intent purchase queries)

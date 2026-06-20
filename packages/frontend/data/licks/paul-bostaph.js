@@ -34,7 +34,7 @@ export const licks = {
       "Pace the physical output across the full song: economy of motion preserves the quality of the double bass pattern to the end"
     ],
     "tutorial": {
-      "youtubeId": null,
+      "youtubeId": "cbyswHABG3Q",
       "startTime": 0,
       "title": "Slayer — Raining Blood (Live, Bostaph on drums)",
       "description": "Paul Bostaph performing Raining Blood live, demonstrating his extreme double bass technique and precision at 220 BPM"
@@ -112,7 +112,7 @@ export const licks = {
       "Drop into the bridge half-time feel with deliberate weight to maximise the dynamic contrast before the final surge"
     ],
     "tutorial": {
-      "youtubeId": null,
+      "youtubeId": "mD-jXXi7N5k",
       "startTime": 0,
       "title": "Slayer — Disciple (Paul Bostaph Drum Performance)",
       "description": "Paul Bostaph's studio and live drum performance on Disciple from God Hates Us All, demonstrating thrash groove precision and structural command"
@@ -190,7 +190,7 @@ export const licks = {
       "Build output across the outro's extended blast sequence while preserving stroke evenness and dynamic consistency to the final note"
     ],
     "tutorial": {
-      "youtubeId": null,
+      "youtubeId": "5h1igyKQUuk",
       "startTime": 0,
       "title": "Slayer — War Ensemble Live (Bostaph era)",
       "description": "Paul Bostaph performing War Ensemble live, demonstrating blast-to-groove transitions, 210 BPM blast technique, and stamina across the full song"

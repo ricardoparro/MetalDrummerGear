@@ -2738,12 +2738,12 @@ His 2017 Pearl Signature Snare cemented his status among the gear community, but
     videos: [
       {
         title: "August Burns Red - Meddler (Drum Playthrough, Matt Greiner)",
-        url: "https://www.youtube.com/watch?v=VGvl0fJFbUY",
+        url: "https://www.youtube.com/watch?v=nBleQyHTTzY",
         description: "Matt's dynamics and technique on full display in a studio playthrough"
       },
       {
         title: "August Burns Red - White Washed (Live Drum Cam)",
-        url: "https://www.youtube.com/watch?v=nHVYiNVuJJY",
+        url: "https://www.youtube.com/watch?v=cw2Z3ATMF9I",
         description: "Greiner's jazz-influenced metalcore in a live setting"
       }
     ],
@@ -2998,13 +2998,13 @@ This guide breaks down Kollias's technique, the endurance training behind his st
     },
     videos: [
       {
-        title: "George Kollias - Intense Metal Drumming (Instructional Trailer)",
-        url: "https://www.youtube.com/watch?v=q5F_gGqzPy8",
+        title: "George Kollias - Intense Metal Drumming (Instructional DVD Part 1)",
+        url: "https://www.youtube.com/watch?v=XagspfIdhqk",
         description: "George demonstrating his systematic approach to extreme speed"
       },
       {
         title: "Nile - Annihilation of the Wicked (Live, George Kollias Drum Cam)",
-        url: "https://www.youtube.com/watch?v=9jv8bq78GsM",
+        url: "https://www.youtube.com/watch?v=Jks4cjAFUCg",
         description: "Kollias sustaining extreme blast beats across a full Nile performance"
       }
     ],
@@ -3259,13 +3259,13 @@ Orbin left Periphery in 2012, replaced by Matt Halpern, but his recorded work re
     },
     videos: [
       {
-        title: "Travis Orbin - Icarus Lives! (Full Playthrough)",
-        url: "https://www.youtube.com/watch?v=Xh9pHb7EB5I",
+        title: "Travis Orbin - Periphery Playalongs - Juggernaut: Icarus Lives!",
+        url: "https://www.youtube.com/watch?v=EjibYYhIsAk",
         description: "Travis performing Periphery's signature track with full technique on display"
       },
       {
-        title: "Travis Orbin Drum Solo / Playthrough Compilation",
-        url: "https://www.youtube.com/watch?v=JhGX4VFdQYM",
+        title: "Travis Orbin - Drum Solo #1",
+        url: "https://www.youtube.com/watch?v=N6Fc-7upYeY",
         description: "Solo work showcasing Orbin's technical vocabulary beyond Periphery"
       }
     ],
@@ -3519,13 +3519,13 @@ This guide breaks down Mounier's blast technique, his endurance methodology, and
     },
     videos: [
       {
-        title: "Cryptopsy - None So Vile Full Album (Classic 1996 Recording)",
-        url: "https://www.youtube.com/watch?v=G_UGNFpWsUg",
+        title: "Cryptopsy - None So Vile (Official Album Stream)",
+        url: "https://www.youtube.com/watch?v=j_vF1Wptvbw",
         description: "The landmark album featuring 'Who Was Called?' — the essential Mounier reference"
       },
       {
-        title: "Flo Mounier Drum Clinic (Technical Death Metal Masterclass)",
-        url: "https://www.youtube.com/watch?v=H7kCLJpDKuM",
+        title: "Flo Mounier Drum Clinic - Cryptopsy Slit Your Guts (Part 1)",
+        url: "https://www.youtube.com/watch?v=oFkm5NjxEtM",
         description: "Mounier explaining his technique and approach to extreme drumming"
       }
     ],

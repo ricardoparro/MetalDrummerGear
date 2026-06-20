@@ -8,7 +8,7 @@ MetalForge publishes two categories of drummer guides: **how-to-sound-like** sty
 
 ## How to Sound Like: Index
 
-10 in-depth guides — each covers style, technique, gear, tuning, and recommended songs to study.
+14 in-depth guides — each covers style, technique, gear, tuning, and recommended songs to study.
 
 - [Joey Jordison — Slipknot](https://metalforge.io/guides/how-to-sound-like-joey-jordison) · Nu-Metal / Alternative Metal
 - [Danny Carey — Tool](https://metalforge.io/guides/how-to-sound-like-danny-carey) · Progressive Metal / Art Metal
@@ -20,6 +20,10 @@ MetalForge publishes two categories of drummer guides: **how-to-sound-like** sty
 - [Brann Dailor — Mastodon](https://metalforge.io/guides/how-to-sound-like-brann-dailor) · Progressive Metal / Sludge Metal
 - [Matt Halpern — Periphery](https://metalforge.io/guides/how-to-sound-like-matt-halpern) · Djent / Progressive Metal
 - [Chris Adler — Lamb of God](https://metalforge.io/guides/how-to-sound-like-chris-adler) · Groove Metal / Thrash Metal
+- [Matt Greiner — August Burns Red](https://metalforge.io/guides/how-to-sound-like-matt-greiner) · Metalcore / Progressive Metalcore
+- [George Kollias — Nile](https://metalforge.io/guides/how-to-sound-like-george-kollias) · Technical Death Metal
+- [Travis Orbin — Periphery](https://metalforge.io/guides/how-to-sound-like-travis-orbin) · Djent / Progressive Metal
+- [Flo Mounier — Cryptopsy](https://metalforge.io/guides/how-to-sound-like-flo-mounier) · Technical Death Metal / Brutal Death Metal
 
 ---
 
@@ -384,6 +388,150 @@ Chris uses matched grip with strong wrist technique. His playing emphasizes sync
 - Snare: Mapex Chris Adler Signature Snare
 - Cymbals: Meinl Meinl Mb20
 - Pedals: Mapex Mapex Falcon Double Pedal
+
+---
+
+## How to Sound Like Matt Greiner (August Burns Red)
+
+**Genre:** Metalcore / Progressive Metalcore  
+**Guide URL:** [https://metalforge.io/guides/how-to-sound-like-matt-greiner](https://metalforge.io/guides/how-to-sound-like-matt-greiner)
+
+Master Matt Greiner's jazz-influenced metalcore drumming. Learn his ghost-note technique, Pearl setup, and how he brings dynamics and restraint to August Burns Red's progressive sound.
+
+### Style Overview
+
+Matt uses matched grip with a relaxed, musical approach unusual in heavy metalcore. He draws on jazz vocabulary — ghost notes, dynamic swells, creative hi-hat footwork — applied within metalcore song structures. His ability to make complexity feel natural is his defining trait.
+
+**Grip:** Matched Grip — relaxed and dynamic, allowing ghost note sensitivity and full-power metalcore hits from the same setup.
+
+### Signature Patterns
+
+- **The Greiner Pocket Blast** (170–210 BPM, Intermediate-Advanced): Short, accented blast phrases that punctuate riffs rather than blanket sections. Contrast between blast and groove is the whole point.
+- **Jazz-Ghost Groove** (140–180 BPM, Intermediate): Ghost notes layered beneath metalcore grooves — left hand ghosts constantly at pp while right hand drives the main pattern.
+- **Progressive Time-Feel Shifts** (Variable, Advanced): ABR shifts feels within songs. Know where the one lives before adding complexity.
+
+### Key Songs to Study
+
+- *Meddler* (Constellations, 2009) — Showcases ghost-note vocabulary and dynamic restraint
+- *White Washed* (Leveler, 2011) — Jazz-influenced feel within metalcore
+- *Carve a Name* (Rescue & Restore, 2013) — Progressive dynamics and complex fills
+- *Provision* (Leveler, 2011) — Groove and complexity balanced perfectly
+- *King of Sorrow* (Constellations, 2009) — ABR dynamics on full display
+
+### Gear Setup
+
+- Drums: Pearl Masters Maple Reserve (warm attack and resonance for dynamic range)
+- Snare: Pearl Matt Greiner Signature 14" x 6.5" (Brass shell)
+- Cymbals: Sabian AAX / HHX Evolution Series
+- Pedals: Pearl Demon Drive Double Pedal
+
+---
+
+## How to Sound Like George Kollias (Nile)
+
+**Genre:** Technical Death Metal  
+**Guide URL:** [https://metalforge.io/guides/how-to-sound-like-george-kollias](https://metalforge.io/guides/how-to-sound-like-george-kollias)
+
+Master George Kollias's Guinness-certified blast beat technique. Learn his ankle-isolation foot method, Pearl Reference setup, and the systematic training behind Nile's extreme tempos.
+
+### Style Overview
+
+George uses matched grip with a highly refined wrist technique — scientific and systematic. His ankle-isolation foot technique keeps calf muscles out of the equation entirely, enabling sustained extreme tempos without fatigue. His approach is documented in his instructional series "Intense Metal Drumming."
+
+**Grip:** Matched Grip — wrist-dominant with eliminated tension points identified and removed through systematic analysis.
+
+### Signature Patterns
+
+- **Kolossus Foot Technique** (200–280 BPM, Expert): Heel-up, ankle-driven double bass with no calf involvement. Isolate one foot at 200 BPM for 2 minutes — if the calf burns, technique is wrong.
+- **Single-Stroke Blast** (180–260 BPM, Expert): Alternating single-stroke blast — more sustainable than hand-to-hand at extreme tempos. Consistency before speed.
+- **Dynamic Death Metal Groove** (140–180 BPM, Intermediate-Advanced): Transitioning from full blast to heavy mid-tempo groove — practice the transition specifically.
+
+### Key Songs to Study
+
+- *Annihilation of the Wicked* (Annihilation of the Wicked, 2005) — Blueprint for technical death metal drumming
+- *Cast Down the Heretic* (Ithyphallic, 2007) — Sustained extreme performance
+- *What Should Not Be Unearthed* (What Should Not Be Unearthed, 2015) — Modern Nile with full technique on display
+- *Lashed to the Slave Stick* (Annihilation of the Wicked, 2005) — Relentless intensity
+- *Kafir!* (Those Whom the Gods Detest, 2009) — Speed and musicality combined
+
+### Gear Setup
+
+- Drums: Pearl Reference Pure (optimized for sustained extreme performance)
+- Snare: Pearl George Kollias Signature 14" x 6.5"
+- Cymbals: Meinl Classics Custom Dark / Byzance Series
+- Pedals: Pearl Demon Drive Double Pedal
+
+---
+
+## How to Sound Like Travis Orbin (Periphery)
+
+**Genre:** Djent / Progressive Metal  
+**Guide URL:** [https://metalforge.io/guides/how-to-sound-like-travis-orbin](https://metalforge.io/guides/how-to-sound-like-travis-orbin)
+
+Master Travis Orbin's djent drumming fundamentals. Learn his four-way independence system, DW setup, and the riff-transcription approach that defined Periphery's rhythmic language.
+
+### Style Overview
+
+Travis uses matched grip with exceptional four-way independence. His djent approach requires the left hand to execute complex snare patterns completely independent of intricate kick figures and a steady hi-hat pulse. His philosophy: translate guitar riffs directly to kick patterns.
+
+**Grip:** Matched Grip — independence-focused, with each limb capable of executing independently complex patterns simultaneously.
+
+### Signature Patterns
+
+- **The Djent Foundation Groove** (120–160 BPM, Intermediate): 8th notes on hi-hat while kick executes the guitar's rhythmic pattern and snare accents on 2 and 4. The guitar riff IS the kick pattern.
+- **Displaced Backbeat Patterns** (130–170 BPM, Advanced): Snare backbeat on the 'and' of beats or odd subdivisions. Subdivide at 16th note level and count before adding to full kit.
+- **Progressive Metric Modulation** (Variable, Expert): Periphery modulates between time signatures. Find common subdivisions bridging departing and arriving meters.
+
+### Key Songs to Study
+
+- *Icarus Lives!* (Periphery, 2010) — Djent drumming template
+- *Zyglrox* (Periphery, 2010) — Complex polyrhythmic independence
+- *Jetpacks Was Yes!* (Periphery, 2010) — Displaced backbeats in context
+- *Buttersnips* (Periphery, 2010) — Technical extremity
+- *The Walk* (Periphery, 2010) — Accessible entry point into Orbin's style
+
+### Gear Setup
+
+- Drums: DW Collector's Series Maple (warm attack with upper-mid projection)
+- Snare: DW Collector's Series Steel 14" x 6.5"
+- Cymbals: Meinl Byzance / Classics Custom Series
+- Pedals: DW 9000 Series Double Pedal
+
+---
+
+## How to Sound Like Flo Mounier (Cryptopsy)
+
+**Genre:** Technical Death Metal / Brutal Death Metal  
+**Guide URL:** [https://metalforge.io/guides/how-to-sound-like-flo-mounier](https://metalforge.io/guides/how-to-sound-like-flo-mounier)
+
+Master Flo Mounier's canonical death metal blast beat technique. Learn the micro-dynamics within brutality, Pearl setup, and the systematic tempo-building approach behind "None So Vile."
+
+### Style Overview
+
+Flo uses matched grip with wrist-dominant technique for sustained blast work. His key distinction: micro-dynamic control within blast sections — subtle accents every 4 beats that create the illusion of musical breathing even at 220+ BPM. The brutality has structure.
+
+**Grip:** Matched Grip — wrist-dominant with loose hold for both power and endurance.
+
+### Signature Patterns
+
+- **The 'None So Vile' Blast** (210–240 BPM, Expert): Traditional alternating hand over steady double bass with slight dynamic swell — snare hand accents every 4th stroke. Start at 180 BPM; add the accent consciously before adding speed.
+- **Chaotic Fill Architecture** (Variable, Expert): Rapid fills structured around song rhythmic anchors — tom runs ending on the downbeat of the next section. Transcribe before improvising.
+- **Dynamic Blast Variation** (200+ BPM, Advanced): Blast beats at multiple dynamic levels within a single song — open at fff, gradually pull back while tempo stays constant.
+
+### Key Songs to Study
+
+- *Who Was Called?* (None So Vile, 1996) — The canonical death metal blast benchmark
+- *Slit Your Guts* (None So Vile, 1996) — Relentless technical brutality
+- *Cold Hate, Warm Blood* (Whisper Supremacy, 1998) — Technical evolution from None So Vile
+- *Emaciate* (Whisper Supremacy, 1998) — Dynamic mastery within extreme metal
+- *The Pestilence That Walketh in Darkness* (None So Vile, 1996) — Full technical vocabulary
+
+### Gear Setup
+
+- Drums: Pearl Reference Pure (engineered for sustained extreme performance)
+- Snare: Pearl Free-Floating Steel 14" x 6.5"
+- Cymbals: Sabian AAX / HH Series
+- Pedals: Pearl Demon Drive Double Pedal
 
 ---
 

@@ -47,8 +47,8 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Tools — Kit Builder | https://metalforge.io/llms/tools/kit-builder.md | Brand-first drum kit configurator (Markdown) |
 | Tools — Gear Comparison | https://metalforge.io/llms/tools/gear-comparison.md | Side-by-side drummer gear comparison (Markdown) |
 | Tools — Tier List | https://metalforge.io/llms/tools/tier-list.md | Interactive metal drummer tier-list ranker (Markdown) |
-| Drummer Style Guides | https://metalforge.io/llms/guides.md | How-to-sound-like style guides for 10 metal legends + beginner gear guides (Markdown) |
-| Per-Guide Deep Dives | https://metalforge.io/llms/guides/ | Individual how-to-sound-like files — full gear, tuning, technique, and FAQ per drummer (10 files) |
+| Drummer Style Guides | https://metalforge.io/llms/guides.md | How-to-sound-like style guides for 14 metal legends + beginner gear guides (Markdown) |
+| Per-Guide Deep Dives | https://metalforge.io/llms/guides/ | Individual how-to-sound-like files — full gear, tuning, technique, and FAQ per drummer (14 files) |
 | BPM Database | https://metalforge.io/llms/bpm.md | 150 metal songs with verified tempos organised by category — doom/groove/thrash/death/blast — with drummer links and BPM FAQ (Markdown) |
 | Master FAQ | https://metalforge.io/llms/faq.md | Answer-first FAQ covering gear and techniques for legendary metal drummers (Markdown) |
 | Gear Guide | https://metalforge.io/llms/gear-guide.md | Brand-by-brand guide to drums, cymbals, pedals, and sticks used by metal legends (Markdown) |
@@ -504,6 +504,10 @@ Hub: [/llms/guides.md](https://metalforge.io/llms/guides.md) — overview of all
 | Mario Duplantier | Gojira | [how-to-sound-like-mario-duplantier.md](https://metalforge.io/llms/guides/how-to-sound-like-mario-duplantier.md) |
 | Matt Halpern | Periphery | [how-to-sound-like-matt-halpern.md](https://metalforge.io/llms/guides/how-to-sound-like-matt-halpern.md) |
 | Tomas Haake | Meshuggah | [how-to-sound-like-tomas-haake.md](https://metalforge.io/llms/guides/how-to-sound-like-tomas-haake.md) |
+| Flo Mounier | Cryptopsy | [how-to-sound-like-flo-mounier.md](https://metalforge.io/llms/guides/how-to-sound-like-flo-mounier.md) |
+| George Kollias | Nile | [how-to-sound-like-george-kollias.md](https://metalforge.io/llms/guides/how-to-sound-like-george-kollias.md) |
+| Matt Greiner | August Burns Red | [how-to-sound-like-matt-greiner.md](https://metalforge.io/llms/guides/how-to-sound-like-matt-greiner.md) |
+| Travis Orbin | Periphery / Darkest Hour | [how-to-sound-like-travis-orbin.md](https://metalforge.io/llms/guides/how-to-sound-like-travis-orbin.md) |
 
 ---
 

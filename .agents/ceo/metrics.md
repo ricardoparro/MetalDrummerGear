@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-20 16:40 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-20 19:29 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,32 +8,32 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 63 |
-| Sessions | 85 |
-| Page views | 181 |
-| Engagement rate | 47.06% |
-| Avg session (s) | 457 |
+| Active users | 64 |
+| Sessions | 86 |
+| Page views | 201 |
+| Engagement rate | 58.14% |
+| Avg session (s) | 742 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 41 | 11 |
-| /drummers | 18 | 2 |
-| /tools | 11 | 2 |
+| / | 43 | 11 |
+| /drummers | 24 | 2 |
+| /tools | 14 | 2 |
 | /drummer/2 | 9 | 8 |
 | /drummers/igor-cavalera/licks/igor-cavalera-refuse-resist-double-bass | 9 | 1 |
-| /drummer/mikkey-dee | 6 | 1 |
-| /drummer/frost | 5 | 1 |
+| /drummers/igor-cavalera/licks/igor-cavalera-roots-bloody-roots-tribal-groove | 6 | 1 |
+| /tools/setup-builder | 6 | 1 |
 | /drummer/shannon-larkin | 5 | 2 |
 | /drummers/igor-cavalera/licks/igor-cavalera-beneath-the-remains-blast | 5 | 1 |
-| /drummers/igor-cavalera/licks/igor-cavalera-roots-bloody-roots-tribal-groove | 4 | 1 |
+| /drummer/joey-jordison | 4 | 4 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 43 | 39 |
-| Direct | 35 | 18 |
-| Unassigned | 26 | 20 |
+| Organic Search | 45 | 41 |
+| Direct | 37 | 20 |
+| Unassigned | 11 | 9 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

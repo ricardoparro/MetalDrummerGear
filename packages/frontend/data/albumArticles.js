@@ -30234,6 +30234,354 @@ For deeper exploration:
 - **Death metal blast beat cluster**: [None So Vile drum setup — Flo Mounier](/articles/none-so-vile-drum-setup)
 - **Blast beat technique overview**: [Blast beat technique at MetalForge](/technique/blast-beats/drummers)`
     }
+  },
+
+  'brann-dailor-mastodon-drum-setup': {
+    slug: 'brann-dailor-mastodon-drum-setup',
+    articleType: 'drummer-kit',
+    drummer: 'Brann Dailor',
+    drummerId: 50,
+    relatedDrummerSlug: 'brann-dailor',
+    band: 'Mastodon',
+    bands: ['Mastodon', 'Killer Be Killed', 'Arcadea'],
+    genre: 'Progressive Sludge Metal',
+    country: 'USA',
+    isAlbumArticle: true,
+    datePublished: '2026-06-20',
+    dateModified: '2026-06-20',
+    author: 'MetalForge Editorial',
+    // SEO
+    title: 'Brann Dailor Drum Kit — Mastodon Gear Setup Complete Guide',
+    description: "Complete guide to Brann Dailor's drum kit. From his early Tama Starclassic Maple setup on Leviathan and Blood Mountain to his DW Collector's era on Crack the Skye and Emperor of Sand — every piece of gear behind Mastodon's prog-sludge throne.",
+    seoKeywords: ['brann dailor drum kit', 'what drums does brann dailor use', 'brann dailor kit', 'mastodon drummer gear', 'brann dailor tama drums', 'brann dailor drum setup', 'mastodon drums leviathan', 'brann dailor cymbals'],
+    ogImage: '/images/drummers/brann-dailor.webp',
+    // Introduction
+    intro: {
+      title: "Mastodon's Prog-Sludge Throne",
+      content: `Brann Dailor (born March 19, 1975, in Rochester, New York) is one of the most compositionally minded drummers in modern metal. As a founding member of Mastodon since 2000, he built a reputation for melodic, constantly flowing drum parts that function less as timekeeping and more as a fourth melodic voice in the band — an approach informed equally by progressive rock, jazz, and the crushing weight of sludge metal.
+
+Dailor is also Mastodon's co-lead vocalist, sharing vocal duties on albums from Crack the Skye (2009) onward. The combination — complex, technically demanding drumming delivered simultaneously with melodic singing — puts him among the rarest performers in heavy music.
+
+His drum kit history spans two defining eras: an early period anchored by Tama Starclassic Maple through Mastodon's foundational albums (Remission through Blood Mountain), and a long DW Collector's Series tenure that covers the band's Grammy-nominated peak output from Crack the Skye through the present. Both eras share a common sonic philosophy: warm, resonant shells tuned for melody, paired with cymbals that sing rather than slash.
+
+This guide covers both eras — the Tama and DW kits, the cymbal evolution from Sabian/Zildjian roots to the Meinl Byzance setup, and the gear choices behind every key Mastodon album from Leviathan (2004) to Emperor of Sand (2017) and beyond.`,
+      keyPoints: [
+        'Founding member of Mastodon since 2000; co-lead vocalist from Crack the Skye onward',
+        'Early career: Tama Starclassic Maple (Remission, Leviathan, Blood Mountain)',
+        "Current setup: DW Collector's Series Maple with Meinl Byzance cymbals",
+        'Single bass drum — groove and melodic placement over double-kick speed',
+        'Toms tuned in musical intervals to create genuine melodic fills',
+        'Four Grammy nominations; one Grammy win (Best Metal Performance 2017)',
+        'Vic Firth 5A sticks; DW 9000 single pedal'
+      ]
+    },
+    // Drum Kit Section
+    drumKit: {
+      title: 'The Tama Starclassic Maple — Leviathan to Blood Mountain',
+      brand: 'Tama',
+      model: 'Tama Starclassic Maple',
+      finish: 'Various finishes (natural and custom)',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum (single kick)'],
+        toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom', '13" x 10" Rack Tom'],
+        floorToms: ['16" x 14" Floor Tom'],
+        shells: "Japanese maple shells with Tama Star-Cast mounting system"
+      },
+      description: `Brann Dailor established Mastodon's foundational sound behind a Tama Starclassic Maple kit — the instrument that appears across the band's first three albums, including the landmark Leviathan (2004) and Blood Mountain (2006).
+
+The Starclassic Maple is one of Tama's premier production shells, featuring 100% Japanese maple construction with Tama's proprietary Star-Cast mounting system. This hardware isolates the shell acoustically, allowing it to resonate freely — producing the warm, singing quality that defines Dailor's melodic approach. The maple shells deliver full-bodied warmth with a rounded attack: ideal for a drummer who treats fills as melodies rather than percussive interjections.
+
+Dailor's single 22" bass drum is one of the most immediately identifiable aspects of his approach. In an era when progressive and extreme metal drummers were adopting double bass or at minimum larger double-pedal setups, Dailor stayed with one kick — demonstrating that groove, placement, and musical intention count for more than raw velocity. The bass drum grounds Mastodon's heaviest passages while leaving room for the tom-centric melodic compositions that define his style.
+
+The four-tom spread — three rack toms (10", 12", 13") plus one floor tom (16") — gives Dailor the pitch range for melodic patterns. Tracks like "Blood and Thunder" and "Megalodon" contain fill passages where the toms map to actual musical intervals, not merely high-to-low texture. This tuning philosophy — each drum at a specific pitch within a scale — is the secret behind the "melody inside the drumming" quality that makes Mastodon's compositions so distinct.
+
+The Starclassic era represents Dailor building his voice: raw, relentless, and melodic simultaneously. The kit's warmth under the weight of Mastodon's sludge tunings made Leviathan and Blood Mountain sound like no other metal albums of their era.`,
+      notes: [
+        'Tama Starclassic Maple — Japanese maple shells, premium production line',
+        'Star-Cast mounting for free-resonating shell tone',
+        'Single 22" bass drum — groove over double-kick speed',
+        'Four-tom spread (10", 12", 13", 16") for melodic versatility',
+        'Toms tuned to musical intervals, not arbitrary pitches'
+      ],
+      estimatedValue: '$2,500–4,000 (Starclassic Maple configuration)'
+    },
+    // Snare Section
+    snare: {
+      title: 'Steel and Sensitivity',
+      brand: 'Tama / DW',
+      model: "Tama Steel Snare (early era); DW Collector's Aluminum 14\"x6.5\" (DW era)",
+      size: '14" x 6.5"',
+      shell: 'Steel (early); Aluminum (DW era)',
+      description: `Brann Dailor's snare choices reflect the dual requirement of his style: enough attack to cut through Mastodon's dense, down-tuned guitar arrangements, and enough sensitivity to voice the ghost notes and dynamic gradations that fill his grooves.
+
+In the Tama era (Remission through Blood Mountain), Dailor used steel-shell snares from Tama's lineup. Steel delivers a cutting, bright crack with fast decay — a sound that can slice through the sludge guitar tones and extended bass drone that define Mastodon's sound. The brightness also supports ghost notes: lighter strokes on a steel snare register cleanly without muddying the pattern.
+
+With his move to DW, Dailor settled on a DW Collector's aluminum snare at 14" x 6.5". Aluminum occupies a middle ground between steel (bright, cutting) and brass (warm, full): it produces a focused crack with slightly more body than steel, allowing the drum to project in Mastodon's dense live environment while maintaining the sensitivity for dynamic gradation. The 6.5" depth adds body and sustain without pushing the snare into "fat" territory.
+
+Dailor tunes his snare for tone over maximum attack — unusual for metal, where most drummers prioritize the loudest possible crack. His approach treats the snare as an instrument with voice, capable of expression at low volumes as well as at high ones. This is the snare philosophy of a jazz-influenced drummer transplanted into sludge metal.`,
+      tuningSetting: 'Medium — tuned for tone and sensitivity rather than maximum attack',
+      heads: 'Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: "$400–700 (DW Collector's Aluminum)"
+    },
+    // Cymbals Section
+    cymbals: {
+      title: 'From Sabian/Zildjian to Meinl Byzance',
+      brand: 'Meinl',
+      series: 'Meinl Byzance Traditional/Brilliant (current); Sabian/Zildjian (early)',
+      setup: [
+        { type: 'Hi-Hats', model: 'Meinl 14" Byzance Traditional Medium Hi-Hats', position: 'Left side', notes: 'Warm, complex wash for intricate patterns' },
+        { type: 'Crash', model: 'Meinl 18" Byzance Brilliant Thin Crash', position: 'Far left', notes: 'Fast, musical crash with complex overtones' },
+        { type: 'Crash', model: 'Meinl 19" Byzance Traditional Medium Thin Crash', position: 'Left of rack toms', notes: 'Primary crash — versatile for dynamics' },
+        { type: 'Crash', model: 'Meinl 20" Byzance Traditional Medium Crash', position: 'Right of rack toms', notes: 'Full-bodied crash for climactic accents' },
+        { type: 'Ride', model: 'Meinl 22" Byzance Traditional Medium Ride', position: 'Far right', notes: 'Warm ride with musical wash — functions melodically' },
+        { type: 'China', model: 'Meinl 18" Byzance Brilliant China', position: 'Above floor tom', notes: 'Musical china — less harsh than typical metal chinas' }
+      ],
+      description: `Brann Dailor's cymbal evolution mirrors Mastodon's own musical development. In the band's earliest years (Remission, early touring), he worked with Sabian and Zildjian — the standard production cymbals available on endorsement at any level of the industry. Both brands provided the volume and projection needed for heavy live performance.
+
+By Blood Mountain (2006), Dailor's cymbal choices had begun to reflect his musical approach more deliberately. The move toward Meinl Byzance — which became his established choice through the DW era — was a move toward complexity and musicality over cutting brightness.
+
+The Byzance series is hand-hammered in Turkey using B20 bronze alloy, producing the layered, complex overtones associated with traditional Turkish cymbal craftsmanship. These are not cymbals designed to slash; they are cymbals designed to sing. The overtone structure develops as each crash or hit decays, adding atmosphere and harmonic content to the music rather than simply providing a percussive accent.
+
+This character is perfectly suited to Mastodon's progressive material. On Crack the Skye and Emperor of Sand — albums where dynamics and atmosphere are central to the songwriting — Dailor's Byzance crashes and ride contribute to the music as harmonic elements, not just rhythmic punctuation.
+
+The 14" Byzance Traditional hi-hats provide warmth and density for intricate 16th-note and triplet patterns. The warm character blends with Mastodon's guitar tone rather than competing with it, supporting the melodic quality of Dailor's drumming without adding brightness that would disrupt the band's tonal palette.
+
+The 22" Byzance Traditional Medium Ride is the anchor of Dailor's sustained patterns — a cymbal that builds wash over a performance, adding texture and atmosphere. Unlike the cutting clarity of a dry jazz ride or the bright aggression of an aggressive metal ride, the Byzance Traditional develops musically, responding to dynamics and touch.`,
+      estimatedValue: '$2,500–3,500 (full Byzance setup)'
+    },
+    // Hardware Section
+    hardware: {
+      title: 'DW Foundation',
+      items: [
+        {
+          type: 'Bass Drum Pedal',
+          brand: 'DW',
+          model: 'DW 9000 Series Single Pedal',
+          notes: 'Single pedal throughout career — creative patterns over double-kick speed',
+          description: "The DW 9000 single pedal is the foundation of Dailor's foot technique. Its smooth, adjustable action allows him to execute the nuanced, musically placed bass drum patterns that drive Mastodon's grooves. The 9000 series is adjustable for spring tension, beater angle, and cam profile — giving Dailor the ability to dial in the feel he needs for both studio recording and the physical demands of live touring."
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth American Classic 5A',
+          notes: "Standard 5A — technique and touch create the tone, not specialized sticks",
+          description: "Brann Dailor uses Vic Firth American Classic 5A sticks — one of the most standard stick choices in drumming. The 5A size provides a balanced weight-to-response ratio that supports both dynamic ghost-note work and the full-force strokes Mastodon's heaviest passages demand. That he achieves his distinct tone with standard sticks underscores that his sound comes from technique, touch, and tuning — not exotic equipment."
+        },
+        {
+          type: 'Drumheads (Toms, Batter)',
+          brand: 'Remo',
+          model: 'Remo Emperor Coated',
+          notes: 'Warm attack and controlled sustain for melodic tom work'
+        },
+        {
+          type: 'Drumheads (Bass, Batter)',
+          brand: 'Remo',
+          model: 'Remo Powerstroke P4 Coated',
+          notes: 'Focused bass drum attack with controlled low-end'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke P4 Coated (batter), Remo Smooth White Ambassador ported (resonant)',
+        toms: 'Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)',
+        snare: 'Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)'
+      }
+    },
+    // Gear Timeline
+    gearTimeline: [
+      {
+        era: 'Formation Era',
+        years: '2000–2002',
+        albums: ['Remission'],
+        description: "Building Mastodon's foundational sludge attack.",
+        gear: {
+          drums: 'Tama Starclassic Maple',
+          snare: 'Tama steel snares',
+          cymbals: 'Sabian / Zildjian mix',
+          hardware: 'Tama hardware'
+        },
+        notes: 'Raw, relentless sludge drumming establishing the Mastodon identity.'
+      },
+      {
+        era: 'Leviathan Era',
+        years: '2004',
+        albums: ['Leviathan'],
+        description: 'Prog-sludge breakthrough and critical acclaim.',
+        gear: {
+          drums: 'Tama Starclassic Maple (refined configuration)',
+          snare: 'Tama steel snare',
+          cymbals: 'Sabian/Zildjian (transitioning)',
+          hardware: 'Tama hardware'
+        },
+        notes: "Moby-Dick concept album — melodic drumming fully developed. Considered one of metal's landmark drum performances."
+      },
+      {
+        era: 'Blood Mountain Era',
+        years: '2006',
+        albums: ['Blood Mountain'],
+        description: 'Progressive complexity deepens; mainstream crossover begins.',
+        gear: {
+          drums: 'Tama Starclassic Maple',
+          snare: 'Tama steel snare',
+          cymbals: 'Moving toward Meinl Byzance',
+          hardware: 'Tama/transitional hardware'
+        },
+        notes: 'Grammy nomination cycle begins. Final Tama era album.'
+      },
+      {
+        era: 'DW Transition & Crack the Skye',
+        years: '2009–2011',
+        albums: ['Crack the Skye', 'The Hunter'],
+        description: "DW Collector's endorsed; singing duties begin; Grammy nominations.",
+        gear: {
+          drums: "DW Collector's Series Maple",
+          snare: "DW Collector's Metal/Aluminum",
+          cymbals: 'Meinl Byzance (established partnership)',
+          hardware: 'DW 9000 Series'
+        },
+        notes: 'Artistic and commercial peak. Dailor takes on lead vocal duties alongside complex drumming.'
+      },
+      {
+        era: 'Emperor of Sand & Grammy Win',
+        years: '2014–2017',
+        albums: ["Once More 'Round the Sun", 'Emperor of Sand'],
+        description: 'Grammy win for Best Metal Performance; mature artistic voice.',
+        gear: {
+          drums: "DW Collector's Series Maple (refined)",
+          snare: 'DW Collector\'s Aluminum 14"x6.5"',
+          cymbals: 'Meinl Byzance Traditional and Brilliant',
+          hardware: 'DW 9000 Series'
+        },
+        notes: 'Emperor of Sand wins Grammy for Best Metal Performance (2017). Setup fully stabilized.'
+      },
+      {
+        era: 'Current Setup',
+        years: '2019–Present',
+        albums: ['Hushed and Grim', 'Current touring'],
+        description: 'Double album; continued artistic development.',
+        gear: {
+          drums: "DW Collector's Series Maple",
+          snare: 'DW Collector\'s Aluminum 14"x6.5"',
+          cymbals: 'Meinl Byzance full setup',
+          hardware: 'DW 9000 Series'
+        },
+        notes: 'Setup stable; focus on vocal-drum dual role and compositional depth.'
+      }
+    ],
+    // Playing Style Section
+    playingStyle: {
+      title: 'Drums as Melody: The Dailor Philosophy',
+      content: `Brann Dailor's approach to drumming is built on a single foundational idea: the drums can carry melody. Where most metal drummers build parts that support the guitar riff and punctuate transitions, Dailor's drum parts contain melodies of their own — fills that rise and fall in pitch-mapped patterns, grooves that counterpoint the guitar harmonically rather than simply locking to the kick and snare grid.
+
+**Melodic Tom Tuning:**
+The most audible expression of this philosophy is Dailor's tuning approach. His toms are tuned in deliberate musical intervals — specific pitches that form a usable scale when traversed in sequence. On "Blood and Thunder," the tom pattern in the intro descends through what functions as a pentatonic phrase. On "The Czar" and "Crack the Skye," the fills include motifs that recur across the song like melodic themes, not random drum patterns.
+
+This requires drum equipment that cooperates: resonant maple shells (Tama Starclassic, DW Collector's) with coated heads that provide sustain without excess ringiness. Meinl Byzance cymbals, with their complex harmonic content, support these melodic passages rather than drowning them in metallic wash.
+
+**The Constant Fill:**
+Dailor rarely rests. His drumming between riffs, through verses, across transitions — all of it contains motion. Other drummers hold patterns down and punctuate with fills; Dailor's fills ARE the pattern. The boundary between "groove" and "fill" dissolves in his playing into a continuous stream of melodic drum composition.
+
+**Single Pedal in a Double-Kick World:**
+His choice to anchor nearly everything on a single bass drum pedal is a defining statement. It is not a limitation — it is a deliberate prioritization of groove quality and musical placement over physical velocity. The DW 9000 single pedal gives him all the control he needs for the bass drum lines that drive Mastodon's arrangements: patterns that breathe within the music rather than competing for space.
+
+**Singing While Playing:**
+From Crack the Skye (2009) onward, Dailor delivers significant vocal contributions — harmonies, lead passages, entire sections — while executing his signature demanding drum parts. This dual role requires that the drumming be internalised to muscle memory at a depth that allows full conscious attention to melodic pitch and vocal phrasing simultaneously. It is one of the most technically demanding roles in heavy music.`,
+      keyTechniques: [
+        'Tom tuning in musical intervals — fills that are literally melodic',
+        'Constant motion through verses and transitions, not isolated fill bursts',
+        'Single pedal bass drum with musical groove placement',
+        'Ghost notes and dynamic gradation across the full amplitude range',
+        'Simultaneous lead/harmony vocal delivery during complex drum parts',
+        'Cymbal orchestration using Byzance warmth to support rather than dominate'
+      ]
+    },
+    // Quotes
+    quotes: [
+      { text: "I want the toms to actually make music. I want it to be like they're telling a story with notes, not just doing fills.", source: 'Drumeo Interview', year: 2014 },
+      { text: "I don't really think about patterns as patterns. I think about what the song needs — where it needs to go.", source: 'Modern Drummer', year: 2017 }
+    ],
+    // Buying Guide
+    buyingGuide: {
+      title: "Getting the Dailor Sound: A Buyer's Guide",
+      content: `Matching Brann Dailor's gear varies depending on which era you target — the Tama Starclassic years or the DW Collector's era. Either way, the core investment is in tuning philosophy and technique, not price tag.
+
+**Budget Approach ($1,500–2,500):**
+- Tama Starclassic Walnut/Birch or Imperialstar Maple — Tama's accessible Starclassic-family shells
+- Meinl HCS or HCS Bronze cymbals — Meinl entry point before committing to Byzance pricing
+- DW 3000 or 5000 single pedal
+- Vic Firth American Classic 5A sticks (Dailor's exact choice)
+
+**Mid-Range Approach ($3,000–6,000):**
+- Tama Starclassic Maple or DW Performance Series — matching shell materials to Dailor's approach
+- Meinl Byzance 19" Traditional or Brilliant crash (first Byzance purchase)
+- DW 9000 single pedal
+- Remo Emperor Coated toms + Ambassador resonants for melodic sustain
+
+**Professional Approach ($8,000+):**
+- DW Collector's Series Maple in custom finish
+- Full Meinl Byzance Traditional/Brilliant setup: 14" hi-hats, 18"/19"/20" crashes, 22" ride, 18" China
+- DW 9000 single pedal
+- DW Collector's Aluminum snare 14"x6.5"`,
+      budgetTiers: [
+        { tier: 'Budget', range: '$1,500–2,500', notes: 'Tama Imperialstar Maple + Meinl HCS + DW 3000 pedal' },
+        { tier: 'Mid-Range', range: '$3,000–6,000', notes: 'Starclassic Maple + Byzance crash + DW 9000 single' },
+        { tier: 'Professional', range: '$8,000+', notes: "DW Collector's Maple + full Byzance + DW Aluminum snare" }
+      ]
+    },
+    // FAQ Section
+    faq: [
+      {
+        question: 'What drums does Brann Dailor use?',
+        answer: "Brann Dailor currently plays a DW Collector's Series Maple kit. In Mastodon's early years (Remission through Blood Mountain), he used a Tama Starclassic Maple kit — one of Tama's premier maple shell lines. His current DW setup features a four-tom configuration (10\", 12\", 13\" rack toms plus a 16\" floor tom) and a single 22\" bass drum. He uses a single bass drum pedal throughout his career, prioritizing groove and musical placement over double-kick velocity. Full profile at [Brann Dailor MetalForge profile](/drummer/brann-dailor)."
+      },
+      {
+        question: 'What drum kit does Brann Dailor use?',
+        answer: "Brann Dailor's drum kit is a DW Collector's Series Maple. He originally established Mastodon's sound on a Tama Starclassic Maple, which appears on Leviathan (2004) and Blood Mountain (2006). The DW Collector's Series — featuring North American hard rock maple shells and DW's proprietary bearing edges — has been his primary kit since approximately the Crack the Skye (2009) recording period, through Emperor of Sand and Hushed and Grim."
+      },
+      {
+        question: 'What cymbals does Brann Dailor play?',
+        answer: "Brann Dailor plays Meinl Byzance cymbals — the Traditional and Brilliant series. His setup includes 14\" Byzance Traditional Medium hi-hats, crashes ranging from 18\" to 20\", a 22\" Byzance Traditional Medium Ride, and an 18\" Byzance Brilliant China. The Byzance series is hand-hammered in Turkey using B20 bronze, producing complex, warm overtones suited to Mastodon's progressive and atmospheric arrangements. In earlier years he used Sabian and Zildjian cymbals."
+      },
+      {
+        question: 'What sticks does Brann Dailor use?',
+        answer: 'Brann Dailor uses Vic Firth American Classic 5A sticks — one of the most standard stick models available. The 5A size offers a balanced weight and length that supports both dynamic ghost-note work and full-power strokes. His sound comes from technique and tuning philosophy, not specialized stick design.'
+      },
+      {
+        question: 'Does Brann Dailor use double bass drums?',
+        answer: 'No — Brann Dailor uses a single bass drum with a single pedal throughout his career. This is one of the most distinctive aspects of his approach. Rather than double-kick speed, he focuses on musical placement, groove quality, and the creative single-pedal patterns that drive Mastodon\'s arrangements. His DW 9000 single pedal provides the smooth, adjustable action he needs for nuanced, melodic bass drum work.'
+      },
+      {
+        question: 'What snare does Brann Dailor use?',
+        answer: "Brann Dailor plays a DW Collector's Series Aluminum snare, 14\" x 6.5\". Aluminum provides a focused crack with more body than a steel snare, giving him both projection and dynamic sensitivity. He tunes for tone rather than maximum attack — an approach reflecting his jazz-influenced philosophy. In the early Mastodon era he used Tama steel snares appropriate to the Starclassic kit period."
+      }
+    ],
+    // Related content
+    relatedAlbums: ['whats-in-brann-dailors-kit', 'blake-richardson-drum-setup', 'martin-lopez-drum-setup'],
+    relatedDrummers: [50, 14, 5],
+    relatedArticles: ['how-to-play-polyrhythm-drums', 'progressive-metal-drum-setups'],
+    conclusion: {
+      title: 'Twenty-Five Years Behind the Kit — and the Mic',
+      content: `Brann Dailor has spent a quarter century redefining what the drum kit can do inside heavy music. From the raw sludge attack of Remission to the fully compositional polyrhythmic architecture of Hushed and Grim, his evolution has never stopped — and neither has his drumming.
+
+His gear history tells that story in equipment:
+
+- **Tama Starclassic Maple**: The instrument that built the Mastodon sound on Leviathan and Blood Mountain — warm Japanese maple shells tuned for melody, driving some of the most influential prog-sludge albums ever recorded
+- **DW Collector's Series**: His mature-era instrument from Crack the Skye onward — refined, resonant, and purpose-built for the compositional demands of Grammy-winning heavy music
+- **Meinl Byzance**: Cymbals that sing alongside his drums rather than cutting over them — the harmonic support system for Mastodon's atmospheric arrangements
+- **DW 9000 Single Pedal**: The deliberate choice against double bass — groove, placement, and melody over speed
+- **Vic Firth 5A**: Proof that extraordinary tone lives in technique, not in exotic equipment
+
+For drummers studying Dailor's approach, the gear is secondary to the philosophy: treat every drum as a melodic instrument. Tune to specific pitches. Make fills into counter-melodies. Never stop moving. And if the song asks for it — sing.
+
+Internal links for deeper study:
+- **Full drummer profile**: [Brann Dailor at MetalForge](/drummer/brann-dailor)
+- **Polyrhythm technique**: [How to Play Polyrhythm on Drums](/articles/how-to-play-polyrhythm-drums)
+- **Mastodon drum comparison**: [Brann Dailor complete kit breakdown](/articles/whats-in-brann-dailors-kit)
+- **Progressive metal drumming**: [Blake Richardson drum setup — BTBAM](/articles/blake-richardson-drum-setup)
+
+Brann Dailor turned Rochester, New York into the origin point for one of heavy music's most singular drum voices. The Tama Starclassic and the DW Collector's are just the vehicles. The driver has been composing since before Mastodon existed.
+
+\u{1F941} *"I want the toms to actually make music."* — Brann Dailor \u{1F918}`
+    }
   }
 };
 

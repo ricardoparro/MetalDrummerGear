@@ -323,6 +323,15 @@ function getMetaForPath(pathname) {
       image: `${BASE_URL}/images/og/cards-preview.png`,
       type: 'website',
       url: `${BASE_URL}/cards`,
+      articleSchema: [
+        {
+          '@context': 'https://schema.org',
+          '@type': 'CollectionPage',
+          name: `Drummer Gear Cards Gallery | ${SITE_NAME}`,
+          url: `${BASE_URL}/cards`,
+          description: 'Beautiful shareable gear cards for every drummer. Download and share on Instagram, Twitter, and more!',
+        },
+      ],
     };
   }
 

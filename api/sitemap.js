@@ -158,6 +158,7 @@ const gearComparisons = [
   { slug: 'paiste-vs-sabian', name: 'Paiste vs Sabian Cymbals' },
   { slug: 'tama-slp-vs-pearl-sensitone', name: 'Tama SLP vs Pearl Sensitone' },
   { slug: 'sonor-vs-dw', name: 'Sonor vs DW Drums' },
+  { slug: 'zildjian-vs-sabian', name: 'Zildjian vs Sabian Cymbals' },
 ];
 
 // Issue #558, #598, #650: Drummer vs Drummer comparison pages for SEO
@@ -546,6 +547,8 @@ export default function handler(req, res) {
     { loc: '/llms/tools/dream-set-builder.md', priority: '0.6', changefreq: 'monthly' },
     { loc: '/llms/tools/kit-builder.md', priority: '0.6', changefreq: 'monthly' },
     { loc: '/llms/tools/gear-comparison.md', priority: '0.6', changefreq: 'monthly' },
+    // Issue #1780: per-comparison brand LLM files — 7 files shipped in #1514, absent from sitemap.
+    ...gearComparisons.map(c => ({ loc: `/llms/gear-comparison/${c.slug}.md`, priority: '0.5', changefreq: 'monthly' })),
     { loc: '/llms/tools/tier-list.md', priority: '0.6', changefreq: 'monthly' },
     // Issue #1351: name-generator LLM citation surface — metal drummer alias generator.
     { loc: '/llms/tools/name-generator.md', priority: '0.6', changefreq: 'monthly' },

@@ -42,6 +42,8 @@ import { DRUMMER_EVOLUTION } from '../packages/frontend/data/drummerEvolution.js
 import { CURATED_MATCHUPS } from '../packages/frontend/data/battles.js';
 // Issue #1794: Genre gear guide pages — /guides/best-[gear]-for-[genre]
 import { GENRE_GEAR_GUIDES } from '../packages/frontend/data/genreGearGuides.js';
+// Issue #1800: genre LLM citation surface — 8 genre pages
+import { getAllGenreSlugs } from '../packages/frontend/data/genres.js';
 
 // Issue #623: Content Scale Sprint - All 62 drummers now in sitemap
 const drummers = [
@@ -648,6 +650,8 @@ export default function handler(req, res) {
       priority: '0.5',
       changefreq: 'monthly',
     })),
+    // Issue #1800: genre LLM citation surface — 8 genre pages
+    ...getAllGenreSlugs().map(slug => ({ loc: `/llms/genres/${slug}.md`, priority: '0.5', changefreq: 'monthly' })),
   ];
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"

@@ -5,6 +5,48 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-21 00:47 UTC*
 
 ---
+## 2026-06-21 21:00 — 2 PRs merged, 14 proposals rated (12 held, 2 bug-fixes promoted)
+
+### Context
+Late evening run. Metrics from 11:01 UTC: 64 users / 83 sessions / 1,439 impr / 32 clicks / 2.22% CTR / pos 8.7. 2 open MERGEABLE PRs. 14 new seo-proposals (#2152–#2165). Founder inbox empty. Eligible backlog entering run: 47 (ABOVE CAP).
+
+### Actions taken
+- **Merged PR #2170** (Gojira L'Enfant Sauvage article, closes #1812). Backlog: 47→46.
+- **Merged PR #2171** (weekly broken-image crawler + auto-maintained umbrella issue, closes #1873 — manual close needed). Backlog: 46→45.
+- **Promoted #2165 as bug fix exception (cap → 46):** Duplicate `tim-yeung-drum-setup` slug in albumArticles.js causes sitemap duplication (duplicate content signal to Google) + routing ambiguity. Data integrity fix.
+- **Promoted #2152 as bug fix exception (cap → 47):** Missing `/llms/articles/tim-yeung-drum-setup.md` causes AI crawler 404 on a sitemapped URL. Same class as #2009 and #2145. Two bugs form a Tim Yeung data integrity sweep.
+- **Rated 12 content proposals — all HOLD (cap):**
+  - **5★ holds (promote when slots open):**
+    - #2153 Slipknot 'All Hope Is Gone' (Joey Jordison, 2008) — closes joey-jordison content gap; 74 impr / 1.35% CTR is our #1 GSC gap query
+    - #2159 Mastodon 'Blood Mountain' (Brann Dailor, 2006) — fills Leviathan→CTS arc gap; Brann has active GSC signal
+    - #2160 Children of Bodom 'Hatebreeder' (Jaska Raatikainen, 1999) — Jaska 50% CTR pos 9.5; earliest CoB arc slot
+    - #2162 Morbid Angel 'Blessed Are the Sick' (Pete Sandoval, 1991) — pivotal death metal arc gap; Altars→BAtS→Covenant
+    - #2164 Comparison pairs batch 7 (Dailor/Portnoy, Carey/Harrison, Duplantier/Kollias) — all three pairs have active signals
+    - #2154 Gojira 'The Link' (Mario Duplantier, 2003) — 20% GSC CTR; fills Terra Incognita→FMtS gap
+  - **4★ holds:**
+    - #2155 Iron Maiden 'Fear of the Dark' (Nicko McBrain, 1992) — cluster extension, no direct GSC signal yet
+    - #2156 SoundLike batch 8 (Art Cruz, Daniel Erlandsson, Dirk Verbeuren) — proven format, lower TAM than prior batches
+    - #2157 Gear price history batch 8 (Shannon Larkin, Art Cruz, Blake Richardson) — Shannon GA4 signal; others lower TAM
+    - #2158 Comparison pairs batch 6 (Larkin/Cruz, Luzier/Weinberg, Jaska/Erlandsson) — Jay Weinberg remains high TAM
+    - #2161 Gojira 'Fortitude' (Mario Duplantier, 2021) — recency signal but less iconic than FMtS/LS
+    - #2163 Top-10 list pages batch 4 (power-metal, symphonic-metal, deathcore) — proven format, emerging genre niches
+
+### State delta
+- **ai-fix eligible backlog: 47 → 45 (2 merges + close) → 47 (2 bug fix promotions)**
+- **Open PRs: 2 → 0**
+- **Shipped:** Gojira L'Enfant Sauvage article (#1812); weekly broken-image crawler pipeline (#1873)
+- **Idea bank:** 30 prior held + 12 new = 42 quality proposals queued
+- **Priority promote order (updated):** #2135 (Aquiles GSC) → #2153 (Joey content gap 74 impr) → #2147 (Shannon Larkin TAM+signal) → #2160 (Jaska 50% CTR) → #2150 (comparison LLM+Igor) → #2159 (Blood Mountain arc) → #2164 (comparison batch 7 all-signal) → #2141 (Gojira Terra Incognita) → #2162 (death metal arc) → #2154 (Gojira The Link)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 14/14 rated (12 held, 2 bug-fixes promoted). ✅ GSC-gap: "joey jordison drum kit" covered by #2107 (indexed) + #2153 queued as next promote. ✅ Bug fix exceptions: #2165 + #2152 (Tim Yeung data sweep). ✅ PRs: 2 merged. ✅ Decisions logged.
+
+### Next Run (2026-06-22 07:00 UTC)
+1. Count Ralph PRs overnight — each merge frees a slot; promote in priority order above (starting #2135 Aquiles GSC gap, then #2153 Joey content gap).
+2. Watch #2165 + #2152 (Tim Yeung data fixes) — atomic, should ship fast.
+3. GSC watch: "joey jordison drum kit" CTR should improve as #2107 indexes; CTR at 2.22% is first-ever above 2% threshold.
+
+---
 ## 2026-06-21 19:00 — 13 proposals rated (12 held, 1 bug-fix promoted), 0 Ralph PRs
 
 ### Context

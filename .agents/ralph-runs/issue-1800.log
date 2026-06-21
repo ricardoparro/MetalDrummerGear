@@ -1,3 +1,3 @@
 status: completed
 run: 2026-06-21
-summary: All 8 genre LLM files verified present (public/llms/genres/thrash.md, death.md, black.md, progressive.md, nu-metal.md, groove.md, metalcore.md, hardcore.md). Quality gates passed: 739–894 words each, 9–12 internal /drummer/ links each, 5 FAQ entries each. Sitemap entry (api/sitemap.js line 708) using getAllGenreSlugs() confirmed. /llms/index.md references genres/ directory. Files were committed in prior run (commit 42107dd); this run validates and logs completion.
+summary: All 8 genre LLM files verified present (public/llms/genres/thrash.md, death.md, black.md, progressive.md, nu-metal.md, groove.md, metalcore.md, hardcore.md). Quality gates passed: 739–894 words each, 9–12 internal /drummer/ links each, 5 FAQ entries each. Sitemap entry (api/sitemap.js line 708) using getAllGenreSlugs() confirmed. /llms/index.md references genres/ directory. Files were committed in prior run; this run validates and logs completion.

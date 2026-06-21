@@ -1,0 +1,145 @@
+name: Check broken images
+
+# Crawls metalforge.io for broken images and maintains a SINGLE umbrella issue
+# tagged `broken-images`. If the umbrella issue is already open, the workflow
+# updates its body; if not, it opens a new one. When the report is empty AND
+# an umbrella issue is currently open, the workflow closes it as resolved.
+#
+# Specs: .agents/scripts/check-broken-images.cjs
+
+on:
+  workflow_dispatch:
+    inputs:
+      base:
+        description: 'Base URL to crawl (default https://metalforge.io)'
+        required: false
+        default: 'https://metalforge.io'
+      max-pages:
+        description: 'Max pages to scan'
+        required: false
+        default: '300'
+  schedule:
+    # Weekly: Monday 06:30 UTC. Off the cron rush, before the Lisbon work day.
+    - cron: '30 6 * * 1'
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: check-broken-images
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run broken-image crawler
+        id: crawl
+        env:
+          BASE: ${{ inputs.base || 'https://metalforge.io' }}
+          MAX_PAGES: ${{ inputs.max-pages || '300' }}
+        run: |
+          node .agents/scripts/check-broken-images.cjs \
+            --base "$BASE" \
+            --max-pages "$MAX_PAGES" \
+            --out broken-images.json
+
+      - name: Summarize report
+        id: summary
+        run: |
+          node -e '
+            const r = require("./broken-images.json");
+            const fs = require("fs");
+            const out = process.env.GITHUB_OUTPUT;
+            const lines = [];
+            lines.push(`broken_count=${r.brokenImagesUnique}`);
+            lines.push(`affected_pages=${r.affectedPages}`);
+            lines.push(`pages_scanned=${r.pagesScanned}`);
+            lines.push(`generated_at=${r.generatedAt}`);
+            fs.appendFileSync(out, lines.join("\n") + "\n");
+          '
+
+      - name: Build issue body
+        id: body
+        if: steps.summary.outputs.broken_count != '0'
+        run: |
+          node .agents/scripts/render-broken-images-issue.cjs \
+            --report broken-images.json \
+            --out issue-body.md
+          {
+            echo 'body<<__BODY_EOF__'
+            cat issue-body.md
+            echo
+            echo '__BODY_EOF__'
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Find existing umbrella issue
+        id: existing
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          n=$(gh issue list \
+                --repo "${{ github.repository }}" \
+                --state open \
+                --label broken-images \
+                --json number,title \
+                --jq '[.[] | select(.title | startswith("Broken images on metalforge.io"))][0].number // ""')
+          echo "number=$n" >> "$GITHUB_OUTPUT"
+
+      - name: Open / update / close umbrella issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BROKEN: ${{ steps.summary.outputs.broken_count }}
+          EXISTING: ${{ steps.existing.outputs.number }}
+        run: |
+          set -euo pipefail
+          if [ "$BROKEN" = "0" ]; then
+            if [ -n "$EXISTING" ]; then
+              echo "All clear — closing issue #$EXISTING."
+              gh issue close "$EXISTING" \
+                --repo "${{ github.repository }}" \
+                --comment "🤖 Weekly broken-image check found 0 broken images on $(date -u +%Y-%m-%d). Closing."
+            else
+              echo "All clear. No umbrella issue exists, nothing to do."
+            fi
+            exit 0
+          fi
+
+          TITLE="Broken images on metalforge.io ($BROKEN broken across ${{ steps.summary.outputs.affected_pages }} pages)"
+          if [ -n "$EXISTING" ]; then
+            echo "Updating #$EXISTING."
+            gh issue edit "$EXISTING" \
+              --repo "${{ github.repository }}" \
+              --title "$TITLE" \
+              --body-file issue-body.md
+            gh issue comment "$EXISTING" \
+              --repo "${{ github.repository }}" \
+              --body "🤖 Weekly broken-image check refreshed $(date -u +%Y-%m-%dT%H:%MZ): $BROKEN broken images across ${{ steps.summary.outputs.affected_pages }} pages."
+          else
+            echo "Opening new umbrella issue."
+            gh issue create \
+              --repo "${{ github.repository }}" \
+              --title "$TITLE" \
+              --body-file issue-body.md \
+              --label broken-images \
+              --label ai-fix
+          fi
+
+      - name: Upload report artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: broken-images-report-${{ github.run_id }}
+          path: |
+            broken-images.json
+            issue-body.md
+          retention-days: 30
+          if-no-files-found: ignore

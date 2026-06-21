@@ -1,1 +1,3 @@
-already-applied
+status: completed
+run: 2026-06-21
+summary: All 4 sound-like guides (Matt Greiner, George Kollias, Travis Orbin, Flo Mounier) fully implemented — JS entries in soundLikeGuides.js, LLM markdown files (1000-1238 words each), and sitemap.js entries all verified present and valid.

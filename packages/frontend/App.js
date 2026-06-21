@@ -2651,6 +2651,35 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
         }
         personScript.textContent = JSON.stringify(personSchema);
       }
+
+      // Add MusicAlbum schema for album articles (Issue #1813)
+      if (list.isAlbumArticle && list.albumTitle && list.artist) {
+        const musicAlbumSchema = {
+          "@context": "https://schema.org",
+          "@type": "MusicAlbum",
+          "name": list.albumTitle,
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": list.artist
+          },
+          ...(list.year ? { "datePublished": String(list.year) } : {}),
+          ...(list.genre ? { "genre": list.genre } : {}),
+          ...(list.label ? {
+            "recordLabel": {
+              "@type": "Organization",
+              "name": list.label
+            }
+          } : {})
+        };
+        let musicAlbumScript = document.querySelector('script[data-schema="album-music-album"]');
+        if (!musicAlbumScript) {
+          musicAlbumScript = document.createElement('script');
+          musicAlbumScript.type = 'application/ld+json';
+          musicAlbumScript.setAttribute('data-schema', 'album-music-album');
+          document.head.appendChild(musicAlbumScript);
+        }
+        musicAlbumScript.textContent = JSON.stringify(musicAlbumSchema);
+      }
     }
 
     // Track GA4 article_view event (Issue #658)
@@ -2680,6 +2709,9 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
       // Issue #1449: cleanup FAQPage schema node
       const faqPageScript = document.querySelector('script[data-schema="album-faq"]');
       if (faqPageScript) faqPageScript.remove();
+      // Issue #1813: cleanup MusicAlbum schema node
+      const musicAlbumScript = document.querySelector('script[data-schema="album-music-album"]');
+      if (musicAlbumScript) musicAlbumScript.remove();
     };
   }, [list, isAlbumArticle, drummers]);
 

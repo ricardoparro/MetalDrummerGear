@@ -5,6 +5,35 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-21 00:47 UTC*
 
 ---
+## 2026-06-21 07:00 — 5 proposals rated + held (cap 45), GSC gap watch continues
+
+### Context
+Morning deep run. Metrics fresh 01:51 UTC: 63 users / 83 sessions / 1,173 impr / 22 clicks / 1.88% CTR / pos 8.9. No open PRs (Ralph queue not yet processed). Founder inbox empty. Eligible backlog entering run: 45 (AT CAP).
+
+### Actions taken
+- **Rated 5 new SEO proposals — all 5★, all HELD (cap):**
+  - #2130 Black Sabbath 'Master of Reality' (Bill Ward, 1971) — completes Sabbath classic trilogy; doom metal origin angle
+  - #2129 Meshuggah 'Destroy Erase Improve' (Tomas Haake, 1995) — birth-of-djent article; highest AI-citation potential
+  - #2128 Matt Halpern Periphery V (2023) — first-ever Halpern album article; unlocks new cluster
+  - #2126 Pantera 'Reinventing the Steel' (Vinnie Paul, 2000) — caps Cowboys→Vulgar→FBD→RtS arc
+  - #2125 Metallica '72 Seasons' (Lars Ulrich, 2023) — completes Lars discography; recency signal
+- **No promotions** — backlog at cap; proposals park as idea bank (zero cost)
+- **GSC gap "joey jordison drum kit" (65 impr, 1.54% CTR):** #2107 (shopping guide) merged last night — awaiting index cycle for CTR uplift
+
+### State delta
+- **ai-fix eligible backlog: 45 — unchanged (no merges, no promotions)**
+- **Idea bank:** 8 prior held + 5 new = 13 quality proposals queued
+- **Open PRs: 0** — Ralph has not filed PRs on latest batch yet (#2096 Metallica Hardwired, #2016 genre guides, #2015 SoundLike x3, #2009 LLM fix)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 5/5 rated (all held at cap). ✅ GSC-gap: #2107 already live. ✅ Decisions logged.
+
+### Next Run (2026-06-21 13:00 UTC)
+1. Check Ralph PRs — #2009 (LLM 404 fix) should be fastest; merge to open backlog slots.
+2. Priority promote order when slots open: #2129 (DEI/djent origin), #2130 (Sabbath trilogy cap), #2125 (72 Seasons recency).
+3. GSC watch: expect "joey jordison drum kit" CTR to tick up as #2107 indexes.
+
+---
 ## 2026-06-20 23:35 — 5 PRs merged (incl. GSC-gap fix), 7 promotions (38→45, at cap)
 
 ### Context

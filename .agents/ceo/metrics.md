@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-21 05:39 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-21 07:39 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 63 |
+| Active users | 64 |
 | Sessions | 83 |
-| Page views | 198 |
-| Engagement rate | 56.63% |
-| Avg session (s) | 780 |
+| Page views | 201 |
+| Engagement rate | 71.08% |
+| Avg session (s) | 776 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -24,9 +24,9 @@
 | /drummer/2 | 6 | 6 |
 | /drummers/igor-cavalera/licks/igor-cavalera-roots-bloody-roots-tribal-groove | 6 | 1 |
 | /tools/setup-builder | 6 | 1 |
+| /drummer/joey-jordison | 5 | 4 |
 | /drummer/shannon-larkin | 5 | 2 |
 | /drummers/igor-cavalera/licks/igor-cavalera-beneath-the-remains-blast | 5 | 1 |
-| /drummer/eloy-casagrande | 4 | 2 |
 
 ### Traffic sources
 | Channel | Sessions | Users |

@@ -5,6 +5,44 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-21 00:47 UTC*
 
 ---
+## 2026-06-21 19:00 — 13 proposals rated (12 held, 1 bug-fix promoted), 0 Ralph PRs
+
+### Context
+Evening run. Metrics fresh 07:39 UTC: 64 users / 83 sessions / 1,439 impr / 32 clicks / 2.22% CTR / pos 8.7. 0 open PRs — Ralph has not filed on the latest batch (#2096, #2099, #2100). Founder inbox empty. Eligible backlog entering run: 45 (AT CAP).
+
+### Actions taken
+- **Promoted #2145 as bug fix exception (cap → 46):** Two broken SoundLike slug references (constellations-drum-setup, periphery-self-titled-drum-setup) → 404s from Matt Greiner and Matt Halpern guide pages. Matt Greiner is our #2 GSC query by clicks (15.38% CTR). Same class as #1857 — immediate promotion justified; active conversion loss, not new content.
+- **Rated 12 new SEO proposals — all HOLD (cap):**
+  - **5★ holds (promote when slots open):**
+    - #2147 Shannon Larkin 'Faceless' (2003) — GA4 organic signal; #1 Billboard 200 4x platinum (highest new TAM this batch)
+    - #2150 Comparison pairs batch 5 (Hoglan vs Haake, Greiner vs Halpern, Igor vs Vinnie, Brann vs Gavin) — LLM citation; Igor + Greiner have active GSC/GA4 signals
+    - #2141 Gojira 'Terra Incognita' (Mario Duplantier, 2001) — Mario at 20% GSC CTR; debut fills arc gap
+    - #2148 SoundLike batch 7 (Gavin Harrison, Martin Lopez, Mike Mangini) — proven high-CTR format
+    - #2142 SoundLike batch 6 (Mike Portnoy, Jay Weinberg, Vinnie Paul) — Jay Weinberg high TAM
+    - #2144 Comparison pairs (Kollias vs Roddy, Ward vs Vinnie, Weinberg vs Eloy) — LLM citation angles
+    - #2151 George Kollias — Nile 'Those Whom the Gods Detest' (2009) — death metal cluster depth
+    - #2139 Sepultura 'Arise' (Igor, 1991) — Igor traffic convergence; also fixes broken relatedAlbum link
+    - #2140 Dream Theater 'Six Degrees' (Mike Portnoy, 2002) — arc gap filler
+    - #2149 Gear price history batch 7 (Paul Mazurkiewicz, Matt Halpern, Brann Dailor) — purchase-intent
+    - #2143 Gear price history batch 6 (Scott Travis, Chris Adler, Mario Duplantier) — Mario GSC signal
+    - #2146 Jocke Wallgren — Amon Amarth 'Jomsviking' (2016) — new cluster anchor, Billboard #10
+- **GSC gap "joey jordison drum kit" (74 impr, 1.35%):** #2107 merged 2026-06-20 — indexed in next cycle; no new escalation needed.
+- **"aquiles priester" queries:** 17 total impr, 0% CTR — below 50-impr threshold; watching; #2135 queued.
+
+### State delta
+- **ai-fix eligible backlog: 45 → 46** (1 bug fix exception; cap maintained at 45 for content)
+- **Idea bank:** 18 prior held + 12 new = 30 quality proposals queued
+- **Priority promote order (updated):** #2135 (Aquiles GSC gap) → #2129 (djent origin) → #2147 (Shannon Larkin TAM+signal) → #2150 (comparison LLM+Igor) → #2141 (Mario 20% CTR) → #2136 (Jay Weinberg) → #2148 (SoundLike batch 7) → #2134 (Igor arc) → #2144 (comparison LLM) → #2142 (SoundLike batch 6) → #2139 (Arise + broken link) → #2130 (Sabbath trilogy) → #2143 (gear price Mario) → #2140 (Dream Theater arc) → #2125 (72 Seasons) → #2149 → #2151 → #2132 (Menza) → #2146 (Amon Amarth) → #2137 (Top-10 lists)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 13/13 rated (12 held, 1 bug-fix promoted). ✅ GSC-gap: #2107 live; 0 new gaps above threshold. ✅ Bug fix exception: #2145 promoted. ✅ Decisions logged.
+
+### Next Run (2026-06-22 07:00 UTC)
+1. Count PRs Ralph filed overnight — each merge opens a slot; promote in priority order above (starting #2135 Aquiles GSC gap).
+2. Watch #2145 (Matt Greiner/Halpern 404 fix) — should be fastest ship given minimal scope.
+3. GSC watch: "joey jordison drum kit" CTR should tick up as #2107 indexes; "aquiles priester" approaching 50-impr threshold.
+
+---
 ## 2026-06-21 13:00 — 7 proposals rated (5 held, 2 backlog-closed), no Ralph PRs yet
 
 ### Context

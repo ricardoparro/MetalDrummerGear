@@ -5,6 +5,40 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-21 00:47 UTC*
 
 ---
+## 2026-06-21 13:35 — 7 PRs merged, 7 proposals rated (all held), 6 backlog slots refilled
+
+### Context
+Mid-day pulse. Metrics: 66 users / 86 sessions / 1,439 impr / 32 clicks / 2.22% CTR / pos 8.7. 7 open mergeable PRs. 7 new seo-proposals (#2172–#2178). Founder inbox empty. Eligible backlog entering run: 46 → after 7 merges: 39 (25–44 range).
+
+### Actions taken
+- **Merged 7 PRs:** #2188 (8 genre LLM files), #2189 (SoundLike 4 drummers), #2190 (3 gear evolution LLM files), #2191 (Gear price history Portnoy/Hoglan/Carey), #2192 (Tool Ænima article), #2193 (Dream Theater Scenes from a Memory), #2194 (Lick of the Day YouTube fix).
+- **Promoted 6 from priority queue to ai-fix (backlog 39→45):** #2135 (Aquiles Priester SoundLike batch), #2153 (Joey Jordison #1 GSC gap 74 impr), #2147 (Shannon Larkin Faceless), #2160 (Jaska Raatikainen Hatebreeder — 50% CTR), #2150 (comparison batch 5 LLM+Igor), #2159 (Mastodon Blood Mountain arc).
+- **Rated 7 new SEO proposals — all HOLD (cap at 45):**
+  - **5★ holds (promote next):**
+    - #2172 Death 'Spiritual Healing' (Sean Reinert, 1990) — pre-Human arc gap; death metal cornerstone
+    - #2173 A7X 'Hail to the King' (Arin Ilejay, 2013) — massive mainstream TAM, opens A7X cluster
+    - #2174 Cannibal Corpse 'Tomb of the Mutilated' (Paul Mazurkiewicz, 1992) — CC's most iconic album; best-selling death metal band
+    - #2175 Trivium 'Shogun' (Nick Augusto, 2008) — opens Trivium cluster; widely regarded as band's masterpiece
+    - #2177 Comparison pairs batch 8 (Mazurkiewicz/Sandoval, Dailor/Haake, Menza/Verbeuren) — LLM citation; death metal dual-legend pairing
+  - **4★ holds:**
+    - #2176 Korn 'The Serenity of Suffering' (Ray Luzier, 2016) — Korn TAM large but album less iconic; cluster extension not anchor
+    - #2178 Top-10 batch 5 (stoner/sludge/post-metal) — smaller niche genres; valid catalog depth
+
+### State delta
+- **ai-fix eligible backlog: 46 → 39 (7 merges) → 45 (6 promotions)**
+- **Shipped:** 8 genre LLM files; SoundLike x4; 3 gear evolution LLMs; gear price history Portnoy/Hoglan/Carey; Tool Ænima; DT Scenes from a Memory; Lick of the Day YouTube fixes
+- **Idea bank:** 42 prior held + 7 new = 49 quality proposals queued
+- **Priority promote order (updated):** #2164 (comparison batch 7 all-signal) → #2162 (Morbid Angel BAtS arc) → #2154 (Gojira The Link) → #2172 (Death Spiritual Healing) → #2173 (A7X Hail to the King) → #2174 (CC Tomb) → #2175 (Trivium Shogun) → #2177 (comparison batch 8) → #2141 (Gojira Terra Incognita) → #2156 (SoundLike batch 8) → #2157 (gear price batch 8) → #2158 (comparison batch 6) → #2163 (Top-10 batch 4)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 rated (all held — cap). ✅ GSC-gap: "joey jordison drum kit" covered (#2107 indexed + #2153 now promoted). ✅ PRs: 7 merged. ✅ Backlog refilled to cap. ✅ Decisions logged.
+
+### Next Run (2026-06-21 19:00 UTC)
+1. Count Ralph PRs overnight — promote in priority order (starting #2164 comparison batch 7) as slots open.
+2. Monitor #2135/#2153/#2147/#2160/#2150/#2159 — all atomic, should progress quickly.
+3. GSC watch: CTR at 2.22% (above threshold for first time); maintain momentum.
+
+---
 ## 2026-06-21 21:00 — 2 PRs merged, 14 proposals rated (12 held, 2 bug-fixes promoted)
 
 ### Context

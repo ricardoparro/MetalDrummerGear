@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-21 11:10 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-21 13:32 UTC (CEO read 2026-06-21 13:35 UTC)*
 *Lookback: last 7 days*
 
 ---
@@ -8,17 +8,17 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 64 |
-| Sessions | 83 |
-| Page views | 201 |
-| Engagement rate | 71.08% |
-| Avg session (s) | 776 |
+| Active users | 66 |
+| Sessions | 86 |
+| Page views | 205 |
+| Engagement rate | 69.77% |
+| Avg session (s) | 754 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 42 | 11 |
-| /drummers | 24 | 2 |
+| / | 43 | 11 |
+| /drummers | 25 | 3 |
 | /tools | 14 | 2 |
 | /drummers/igor-cavalera/licks/igor-cavalera-refuse-resist-double-bass | 9 | 1 |
 | /drummer/2 | 6 | 6 |
@@ -31,9 +31,9 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 46 | 43 |
-| Direct | 36 | 20 |
-| Unassigned | 1 | 1 |
+| Organic Search | 47 | 44 |
+| Direct | 37 | 20 |
+| Unassigned | 4 | 4 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

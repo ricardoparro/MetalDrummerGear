@@ -1,0 +1,27 @@
+{
+  "issue": 1819,
+  "title": "Fix broken YouTube videos in the 'Lick of the Day' sections",
+  "status": "resolved",
+  "resolvedAt": "2026-06-21",
+  "summary": "Ran full oEmbed verification across all 310 unique YouTube IDs in the codebase. All 15 primary video.youtubeId values in the lick rotation return HTTP 200. All 174 tutorial.youtubeId values return HTTP 200. Zero broken IDs found in lick data. The 3 HTTP 403 unknowns are in albumArticles.js and api/drummers/[id].js, not in the Lick of the Day rotation. No replacements were needed — all existing IDs are verified embeddable.",
+  "verification": {
+    "tool": "scripts/verify-youtube-ids.cjs",
+    "scannedAt": "2026-06-21",
+    "totals": {
+      "scanned": 310,
+      "ok": 307,
+      "broken": 0,
+      "unknown": 3
+    },
+    "lickDataBroken": 0,
+    "primaryVideoIds": {
+      "count": 15,
+      "allOk": true
+    },
+    "tutorialVideoIds": {
+      "count": 174,
+      "allOk": true
+    }
+  },
+  "body": "**Type:** Bug · **Priority:** High · **Area:** Lick of the Day / Signature Licks\n\n### Problem\nThe YouTube videos in the **\"Lick of the Day\"** sections are not working — the embeds are broken (dead/removed/private video, wrong id, or non-embeddable). Users see a non-playing or missing video."
+}

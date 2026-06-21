@@ -15,7 +15,7 @@ At the core of this transformation was Mario Duplantier's most significant gear 
 
 The title track earned the band a Grammy nomination for Best Hard Rock/Metal Performance at the 2013 ceremony and landed Gojira on the cover of Guitar World. Mario's drumming here is his most compositionally sophisticated: technique fully internalized, every pattern in service of the song.
 
-See also: [From Mars to Sirius drum setup](/llms/articles/from-mars-to-sirius-drum-setup.md) · [The Way of All Flesh drum setup](/llms/articles/the-way-of-all-flesh-drum-setup.md)
+See also: [From Mars to Sirius drum setup](/llms/articles/from-mars-to-sirius-drum-setup.md) · [The Way of All Flesh drum setup](/llms/articles/the-way-of-all-flesh-drum-setup.md) · [Mario Duplantier full gear profile](/llms/articles/whats-in-mario-duplantiers-kit.md)
 
 ## Gear Breakdown
 
@@ -69,4 +69,4 @@ The 14" Byzance Brilliant hi-hats provide crisp articulation for Mario's intrica
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-20 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-21 · Source: [MetalForge.io](https://metalforge.io)*

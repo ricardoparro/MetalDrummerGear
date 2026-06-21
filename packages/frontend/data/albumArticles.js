@@ -1558,7 +1558,7 @@ Like the album that followed, Piece of Mind was recorded with Nicko playing comp
         answer: `The "Where Eagles Dare" drum intro is one of the most famous in heavy metal: Nicko McBrain plays a relentless, fast 16th-note tom pattern across the full kit for over 30 seconds before the guitars enter. The pattern builds in intensity and demonstrates complete command of the Ludwig Vistalite setup from the album's very first moment. It served as an immediate announcement that Iron Maiden had found a new drummer of exceptional ability. The intro has been analyzed by drum educators worldwide and remains a benchmark for single-drummer performance at high tempos. See [Nicko McBrain's drum lick breakdowns](/drummer/nicko-mcbrain/licks) for more technique analysis.`
       },
       {
-        question: 'Was Piece of Mind Nicko McBrain's first album with Iron Maiden?',
+        question: `Was Piece of Mind Nicko McBrain's first album with Iron Maiden?`,
         answer: `Yes — Piece of Mind (1983) is Nicko McBrain's recording debut with Iron Maiden. He replaced Clive Burr, who had drummed on the band's first four albums including The Number of the Beast (1982). Nicko was recruited from French heavy metal band Trust in mid-1982 and began the Piece of Mind sessions shortly after. The contrast between the two drummers is notable: Clive Burr brought jazz-influenced finesse; Nicko added a more aggressive, rolling double-stroke style while maintaining musical sensitivity. The [Number of the Beast drum setup article](/articles/number-of-the-beast-drum-setup) covers Clive Burr's recording in detail and explains how Nicko has interpreted those songs live since 1982.`
       },
       {

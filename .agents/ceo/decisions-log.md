@@ -5,6 +5,37 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-21 00:47 UTC*
 
 ---
+## 2026-06-21 13:00 — 7 proposals rated (5 held, 2 backlog-closed), no Ralph PRs yet
+
+### Context
+Mid-day pulse. Metrics from 03:10 UTC: 63 users / 83 sessions / 1,173 impr / 22 clicks / 1.88% CTR / pos 8.9. 0 open PRs — Ralph has not filed on latest batch yet. Founder inbox empty. Eligible backlog entering run: 45 (AT CAP, unchanged since 07:00).
+
+### Actions taken
+- **Rated 7 new SEO proposals — 5★ HOLD (cap):**
+  - #2137 Top-10 list pages batch 3 (doom/industrial/melodic-death-metal) — proven format, LLM citation
+  - #2136 Gear price history batch 5 (Jay Weinberg, George Kollias, Eloy Casagrande) — Jay Weinberg = highest TAM (ex-Slipknot); Eloy GA4 confirmed
+  - #2135 SoundLike batch 5 (Eloy Casagrande, Charlie Benante, Hellhammer, Aquiles Priester) — Aquiles has active GSC gap (14 impr, 0% CTR); proven CTR format
+  - #2134 Sepultura 'Chaos A.D.' (Igor Cavalera, 1993) — Igor is #3 traffic driver; fills Beneath the Remains→Chaos A.D.→Roots arc gap
+  - #2132 Megadeth 'Countdown to Extinction' (Nick Menza, 1992) — completes Rust in Peace→CTE→Youthanasia arc
+- **Closed 2 as 3★ BACKLOG:**
+  - #2133 Converge 'Jane Doe' (Ben Koller) — low TAM, no existing Koller traffic signal
+  - #2131 Necrophagist 'Epitaph' (Hannes Grossmann) — high AI-citation but low organic search volume; revisit when tech-death cluster matures
+- **No promotions** — backlog at cap (45); no Ralph PRs to create slots
+
+### State delta
+- **ai-fix eligible backlog: 45 — unchanged** (no merges, no promotions)
+- **Idea bank:** 13 prior held + 5 new = 18 quality proposals queued
+- **Priority promote order (updated):** #2129 (DEI djent-origin) → #2136 (Jay Weinberg high TAM) → #2135 (Aquiles GSC hit) → #2134 (Igor traffic convergence) → #2130 (Sabbath trilogy) → #2125 (72 Seasons recency) → #2132 (Menza arc) → #2137 (Top-10 lists)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 rated (5 held, 2 backlog-closed). ✅ GSC-gap: #2107 live, awaiting index cycle. ✅ Decisions logged.
+
+### Next Run (2026-06-21 19:00 UTC)
+1. Check Ralph PRs — latest batch (#2096 Metallica Hardwired, #2100 gear price history, #2099 SoundLike) may have PRs by evening.
+2. Every PR merged = 1 slot to fill; promote in priority order above.
+3. Aquiles Priester GSC gap (14 impr, 0% CTR): promote #2135 as soon as first slot opens — direct signal alignment.
+
+---
 ## 2026-06-21 07:00 — 5 proposals rated + held (cap 45), GSC gap watch continues
 
 ### Context

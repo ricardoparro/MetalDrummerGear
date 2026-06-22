@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-22 09:10 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-22 10:10 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 72 |
-| Sessions | 98 |
-| Page views | 252 |
-| Engagement rate | 66.33% |
-| Avg session (s) | 683 |
+| Active users | 74 |
+| Sessions | 100 |
+| Page views | 253 |
+| Engagement rate | 65.00% |
+| Avg session (s) | 670 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -21,19 +21,19 @@
 | /drummers | 26 | 3 |
 | /tools | 18 | 2 |
 | /drummers/igor-cavalera/licks/igor-cavalera-refuse-resist-double-bass | 9 | 1 |
+| /drummer/joey-jordison | 6 | 6 |
 | /drummers/igor-cavalera/licks/igor-cavalera-roots-bloody-roots-tribal-groove | 6 | 1 |
 | /gear/drums | 6 | 2 |
 | /tools/setup-builder | 6 | 1 |
-| /drummer/joey-jordison | 5 | 4 |
 | /drummer/shannon-larkin | 5 | 2 |
 | /drummers/igor-cavalera/licks/igor-cavalera-beneath-the-remains-blast | 5 | 1 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 51 | 46 |
+| Organic Search | 52 | 47 |
 | Direct | 44 | 24 |
-| Unassigned | 6 | 5 |
+| Unassigned | 8 | 7 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-22 01:53 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-22 03:10 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 69 |
-| Sessions | 93 |
+| Active users | 70 |
+| Sessions | 94 |
 | Page views | 239 |
-| Engagement rate | 62.37% |
-| Avg session (s) | 743 |
+| Engagement rate | 61.70% |
+| Avg session (s) | 736 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -33,34 +33,32 @@
 | --- | --- | --- |
 | Organic Search | 48 | 43 |
 | Direct | 43 | 24 |
-| Unassigned | 13 | 11 |
+| Unassigned | 14 | 12 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 1,189 |
-| Clicks | 30 |
-| CTR | 2.52% |
+| Impressions | 1,706 |
+| Clicks | 38 |
+| CTR | 2.23% |
 | Avg position | 8.8 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| matt greiner drum setup | 11 | 2 | 18.18% | 7.4 |
+| joey jordison drum kit | 79 | 2 | 2.53% | 8.3 |
+| matt greiner drum setup | 12 | 2 | 16.67% | 7.4 |
+| eloy casagrande drum kit | 13 | 1 | 7.69% | 9.1 |
+| gene hoglan drum kit | 2 | 1 | 50.00% | 8.0 |
 | jaska raatikainen drum set | 1 | 1 | 100.00% | 2.0 |
-| joey jordison drum kit | 62 | 1 | 1.61% | 8.6 |
 | joey jordison drum kit for sale | 5 | 1 | 20.00% | 5.8 |
-| matt garstka drum kit | 6 | 1 | 16.67% | 6.7 |
-| matt greiner drum kit | 1 | 1 | 100.00% | 6.0 |
-| aquiles priester drum kit | 10 | 0 | 0.00% | 7.8 |
-| aquiles priester drum set | 1 | 0 | 0.00% | 12.0 |
-| behemoth drum kit | 1 | 0 | 0.00% | 12.0 |
-| behemoth drummer inferno | 1 | 0 | 0.00% | 12.0 |
+| joey jordison iowa drum kit | 4 | 1 | 25.00% | 7.8 |
+| matt garstka drum kit | 7 | 1 | 14.29% | 6.9 |
+| matt greiner drum kit | 2 | 1 | 50.00% | 5.0 |
+| aquiles priester drum kit | 11 | 0 | 0.00% | 7.6 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
-| Query | Impr | CTR | Pos | Action |
-| --- | --- | --- | --- | --- |
-| joey jordison drum kit | 62 | 1.61% | 8.6 | open issue to answer better |
+_no significant gaps detected — all queries with traction have decent CTR_
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

@@ -383,7 +383,7 @@ export function GearCardShareInline({ drummerSlug, drummerName, bandName }) {
 
 const styles = StyleSheet.create({
   container: {
-    backgroundColor: colors.card,
+    backgroundColor: colors.bg.secondary,
     borderRadius: 16,
     padding: spacing.md,
     marginVertical: spacing.md,
@@ -396,12 +396,12 @@ const styles = StyleSheet.create({
   },
   sectionTitle: {
     ...textStyles.h3,
-    color: colors.text,
+    color: colors.text.primary,
     marginBottom: 4,
   },
   sectionSubtitle: {
     ...textStyles.small,
-    color: colors.textSecondary,
+    color: colors.text.secondary,
   },
   
   // Download Section
@@ -410,7 +410,7 @@ const styles = StyleSheet.create({
   },
   downloadLabel: {
     ...textStyles.label,
-    color: colors.textSecondary,
+    color: colors.text.secondary,
     textTransform: 'uppercase',
     letterSpacing: 1,
     marginBottom: spacing.sm,
@@ -425,7 +425,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     backgroundColor: 'rgba(255, 107, 53, 0.15)',
     borderWidth: 1,
-    borderColor: colors.primary,
+    borderColor: colors.brand.primary,
     borderRadius: 12,
     padding: spacing.sm,
     gap: spacing.sm,
@@ -437,12 +437,12 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   downloadButtonLabel: {
-    color: colors.text,
+    color: colors.text.primary,
     fontSize: fontSize.md,
     fontWeight: fontWeight.semibold,
   },
   downloadButtonFormat: {
-    color: colors.textMuted,
+    color: colors.text.muted,
     fontSize: fontSize.xs,
     marginTop: 2,
   },
@@ -456,7 +456,7 @@ const styles = StyleSheet.create({
   },
   previewLabel: {
     ...textStyles.label,
-    color: colors.textSecondary,
+    color: colors.text.secondary,
     textTransform: 'uppercase',
     letterSpacing: 1,
     marginBottom: spacing.sm,
@@ -473,7 +473,7 @@ const styles = StyleSheet.create({
     padding: spacing.sm,
   },
   previewButtonText: {
-    color: colors.textSecondary,
+    color: colors.text.secondary,
     fontSize: fontSize.sm,
   },
   
@@ -483,7 +483,7 @@ const styles = StyleSheet.create({
   },
   shareLabel: {
     ...textStyles.label,
-    color: colors.textSecondary,
+    color: colors.text.secondary,
     textTransform: 'uppercase',
     letterSpacing: 1,
     marginBottom: spacing.sm,
@@ -506,7 +506,7 @@ const styles = StyleSheet.create({
     fontSize: 16,
   },
   shareButtonLabel: {
-    color: colors.text,
+    color: colors.text.primary,
     fontSize: fontSize.sm,
   },
   copiedButton: {
@@ -522,11 +522,11 @@ const styles = StyleSheet.create({
     borderTopColor: 'rgba(255, 255, 255, 0.1)',
   },
   tipText: {
-    color: colors.textMuted,
+    color: colors.text.muted,
     fontSize: fontSize.sm,
   },
   tipHighlight: {
-    color: colors.primary,
+    color: colors.brand.primary,
     fontWeight: fontWeight.semibold,
   },
   
@@ -543,7 +543,7 @@ const styles = StyleSheet.create({
     paddingVertical: spacing.sm,
   },
   compactButtonText: {
-    color: colors.text,
+    color: colors.text.primary,
     fontSize: fontSize.sm,
     fontWeight: fontWeight.medium,
   },
@@ -556,7 +556,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 12,
   },
   inlineButtonText: {
-    color: colors.primary,
+    color: colors.brand.primary,
     fontSize: fontSize.sm,
     fontWeight: fontWeight.medium,
   },
@@ -572,7 +572,7 @@ const styles = StyleSheet.create({
   modalContent: {
     width: '100%',
     maxWidth: 600,
-    backgroundColor: colors.card,
+    backgroundColor: colors.bg.secondary,
     borderRadius: 16,
     overflow: 'hidden',
   },
@@ -586,13 +586,13 @@ const styles = StyleSheet.create({
   },
   modalTitle: {
     ...textStyles.h3,
-    color: colors.text,
+    color: colors.text.primary,
   },
   modalClose: {
     padding: spacing.xs,
   },
   modalCloseText: {
-    color: colors.textSecondary,
+    color: colors.text.secondary,
     fontSize: 20,
   },
   previewContainer: {
@@ -610,7 +610,7 @@ const styles = StyleSheet.create({
     height: '100%',
   },
   modalHint: {
-    color: colors.textMuted,
+    color: colors.text.muted,
     fontSize: fontSize.sm,
     textAlign: 'center',
     padding: spacing.sm,

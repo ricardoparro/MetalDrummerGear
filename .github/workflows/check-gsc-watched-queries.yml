@@ -160,11 +160,21 @@ jobs:
 
       - name: Commit snapshot
         run: |
-          if git diff --quiet -- .agents/seo/gsc-watch-snapshot.md; then
+          # Stage first, THEN diff the index against HEAD. Two reasons:
+          #  - `git diff --quiet` on an untracked file (first run, before the
+          #    snapshot exists in the repo) returns clean (exit 0) because
+          #    plain `git diff` only inspects tracked files. The original
+          #    code skipped the commit step on the very first run, leaving
+          #    the snapshot orphaned in the runner. Fixed: we now stage and
+          #    compare the index, which DOES see new files.
+          #  - `--cached --quiet` against HEAD also correctly returns clean
+          #    when an existing snapshot was rewritten with identical content
+          #    (no spurious commits).
+          git add .agents/seo/gsc-watch-snapshot.md
+          if git diff --cached --quiet -- .agents/seo/gsc-watch-snapshot.md; then
             echo "Snapshot unchanged."
             exit 0
           fi
-          git add .agents/seo/gsc-watch-snapshot.md
           git commit -m "seo: refresh GSC watch snapshot [skip ci]"
           for attempt in 1 2 3 4; do
             if git push origin HEAD:${{ github.ref_name }}; then

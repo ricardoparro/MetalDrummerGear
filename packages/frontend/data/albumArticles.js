@@ -34677,7 +34677,7 @@ The gear behind that performance — a mid-90s budget recording setup at Studio 
 - [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson) — the Erlandsson family in the Gothenburg scene
 - [Reign in Blood drum setup](/articles/reign-in-blood-drum-setup) — the 1986 extreme metal blueprint that influenced the Gothenburg generation`
     }
-  }
+  },
   'paranoid-drum-setup': {
     slug: 'paranoid-drum-setup',
     albumTitle: 'Paranoid',
@@ -35003,6 +35003,358 @@ The Ludwig Acrolite Ward used is still in production. The Speed King pedal is st
 For the complete exploration of Bill Ward's technique, see the [Bill Ward drummer profile](/drummer/bill-ward) and the [Bill Ward licks and technique breakdowns](/drummer/bill-ward/licks). For the broader tradition Ward's playing created, the [groove drumming techniques guide](/techniques/groove-drumming) traces the jazz-to-metal lineage.
 
 🥁 *The Ludwig kit that started heavy metal — four days, four tracks, and one of the most influential drum performances in music history.* 🥁`
+    }
+  },
+
+  'leveler-drum-setup': {
+    slug: 'leveler-drum-setup',
+    albumTitle: 'Leveler',
+    artist: 'August Burns Red',
+    drummer: 'Matt Greiner',
+    drummerId: 32,
+    relatedDrummerSlug: 'matt-greiner',
+    year: 2011,
+    genre: 'Metalcore / Progressive Metal',
+    label: 'Metal Blade Records',
+    studio: 'Audiohammer Studios, Sanford, Florida',
+    producer: 'Jason Suecof',
+    isAlbumArticle: true,
+    datePublished: '2026-06-23',
+    dateModified: '2026-06-23',
+    author: 'MetalForge Editorial',
+    title: "August Burns Red 'Leveler' Drum Setup — Matt Greiner's 2011 Gear",
+    description: "Discover Matt Greiner's drum setup on August Burns Red's Grammy-nominated Leveler (2011) — Ludwig Classic Maple kit, Paiste 2002 cymbals, DW 9000 double pedal, and the odd-meter technique that defines metalcore's most musical drummer.",
+    seoKeywords: ['matt greiner drum setup 2011', 'august burns red leveler drums', 'matt greiner leveler gear', 'august burns red drummer kit', 'leveler drum setup', 'matt greiner ludwig classic maple', 'matt greiner paiste cymbals', 'metalcore drum setup 2011'],
+    ogImage: '/images/albums/leveler-drums.webp',
+    intro: {
+      title: "Metalcore's Most Acclaimed Album — and the Drummer Behind It",
+      content: `Released on June 28, 2011 on Metal Blade Records, August Burns Red's fourth studio album *Leveler* represents the peak of the band's Grammy-nominated run and a landmark in progressive metalcore. Where earlier ABR records established the band's technical identity, *Leveler* pushed into genuinely progressive territory — odd-meter patterns, polyrhythmic layering, and arrangements that demanded as much from the drummer as any technical metal record of the era.
+
+At the center of that demanding performance was Matt Greiner. The Lancaster, Pennsylvania native had been the rhythmic foundation of August Burns Red since the band's formation in 2003, but *Leveler* was the album where his playing was recognized beyond the metalcore community. The Grammy nomination for Best Metal Performance that followed the album's release confirmed what the genre already knew: Greiner was one of the most musically sophisticated drummers working in heavy music.
+
+The drumming on *Leveler* is distinguished by Greiner's lever-driven double bass technique — a precise, mechanical approach that generates clean separation between foot strokes even at high velocity — and his architectural approach to odd-meter patterns. Songs that navigate between 5/4, 7/8, and standard 4/4 feel natural under Greiner's control because he treats odd time signatures as vocabulary rather than as technical demonstrations.
+
+The gear behind the performance was matched to the music's demands. A Ludwig Classic Maple kit provided the warm, musical tone that distinguished Greiner's sound from the more synthetic-leaning drum tones prevalent in 2011 metalcore production. Paiste 2002 cymbals added the full, harmonically complex character that Greiner's intricate cymbal orchestration required. The DW 9000 double pedal gave his lever-driven technique the mechanical precision the album's most exacting passages demanded. And his Vic Firth Matt Greiner signature sticks brought the right balance of power and sensitivity for a performance that covers enormous dynamic ground.
+
+This article breaks down every component of Matt Greiner's setup for the *Leveler* sessions — the gear, the technique, and the recording approach that captured one of metalcore's definitive drum performances.`,
+      keyPoints: [
+        'Released June 28, 2011 on Metal Blade Records — August Burns Red\'s fourth studio album',
+        'Grammy-nominated for Best Metal Performance — the highest-profile recognition of Greiner\'s drumming',
+        'Lever-driven double bass technique provides clean, separated strokes at high velocity',
+        'Odd-meter patterns and progressive arrangements distinguish Leveler from standard metalcore',
+        'Ludwig Classic Maple + Paiste 2002 — a warmer, more musical gear combination than typical 2011 metalcore production',
+        'Produced by Jason Suecof at Audiohammer Studios — a defining metalcore production environment'
+      ]
+    },
+    drumKit: {
+      title: "The Ludwig Classic Maple Setup",
+      brand: 'Ludwig',
+      model: 'Ludwig Classic Maple',
+      finish: 'Natural / Custom',
+      config: {
+        bassdrums: ['22" Bass Drum (x2 — double kick configuration)'],
+        toms: ['12" Rack Tom', '13" Rack Tom'],
+        floorToms: ['16" Floor Tom'],
+        shells: '6-ply maple with reinforcement rings — Ludwig\'s Classic Maple formula'
+      },
+      description: `Matt Greiner recorded *Leveler* on a Ludwig Classic Maple kit — a choice that placed him at odds with the synthetic drum-tone aesthetic prevalent in metalcore production around 2011. While many contemporary metalcore records used triggered drums and processed sounds, Greiner's Ludwig Classic Maple shells offered genuine acoustic character: warm, musical tone with the natural attack and decay of quality maple construction.
+
+The Ludwig Classic Maple's 6-ply maple shells with reinforcement rings produce a full, resonant sound with excellent projection. The warmth of maple at the top end, the punch in the midrange, and the solid low-end foundation made this kit capable of supporting both the aggressive double-bass passages of *Leveler*'s heaviest moments and the delicate dynamic work that characterized Greiner's more musical playing.
+
+The double bass configuration was essential to Greiner's approach across the Leveler sessions. Running two 22" bass drums rather than a double pedal on a single kick gave each foot its own independent voice — critical for the lever-driven technique that defines Greiner's double bass style, where precision and separation between strokes is the primary technical goal.
+
+The 4-piece shell configuration (supplemented with additional toms for the full studio setup) reflects a discipline in approach: the Classic Maple's natural resonance does not require an extended tom array to generate musical interest. Greiner's fills on *Leveler* are architectural — the kit generates the necessary musical range without excess.`,
+      notes: [
+        'Ludwig Classic Maple — 6-ply maple shells with reinforcement rings',
+        'Double bass drum configuration for Greiner\'s lever-driven double kick technique',
+        'Natural acoustic character contrasts with the triggered sounds common in 2011 metalcore',
+        'Ludwig\'s professional-grade shell construction supports both high-velocity and dynamic playing'
+      ],
+      estimatedValue: '$2,500–3,800 (Ludwig Classic Maple shell pack, 2011)'
+    },
+    snare: {
+      title: 'Precision and Power: The Leveler Snare Sound',
+      brand: 'Ludwig',
+      model: 'Ludwig Supraphonic LM402',
+      size: '14" x 6.5"',
+      shell: 'Seamless aluminum (Ludalloy)',
+      description: `The snare drum sound on *Leveler* needed to cut through dense double-guitar arrangements while maintaining the articulation required for the album's complex syncopated patterns. Greiner's snare of choice for the era — consistent with his Ludwig endorsement — delivered exactly this combination: an aggressive crack with enough body to register through the production's dense low-end.
+
+The Ludwig Supraphonic LM402, Ludwig's flagship aluminum snare and one of the most-recorded drums in metal history, provides the bright, cutting attack that metalcore production demands. The seamless aluminum shell's resonance and projection characteristics allow the snare to speak clearly even during dense bass frequencies and sustained crash cymbal sounds.
+
+The 6.5" depth gives the Supraphonic a fuller voice than the standard 5" model, providing presence and authority on downbeat backbeats while maintaining crisp articulation on the faster snare work that characterizes *Leveler*'s more complex patterns.
+
+At Audiohammer Studios, Jason Suecof's production approach for the *Leveler* sessions emphasized clarity and definition in the drum sound — the snare's recorded character is direct and cutting, reflecting both the Supraphonic's natural properties and Suecof's preference for drums that serve the song rather than compete with the guitars.`,
+      tuningSetting: 'Medium-high tension for maximum articulation through dense guitar arrangements',
+      heads: 'Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$450–600 (Ludwig Supraphonic LM402)'
+    },
+    cymbals: {
+      title: 'The Paiste 2002 Arsenal',
+      brand: 'Paiste',
+      series: 'Paiste 2002',
+      setup: [
+        { type: 'Hi-Hats', model: 'Paiste 2002 14" Sound Edge Hi-Hats', position: 'Left side', notes: 'Sound Edge bottom for complex, layered hi-hat tone with excellent stick definition' },
+        { type: 'Crash', model: 'Paiste 2002 16" Crash', position: 'Left crash', notes: 'Fast, full crash for accent work and section boundaries' },
+        { type: 'Crash', model: 'Paiste 2002 18" Crash', position: 'Right crash', notes: 'Fuller crash for larger accents and heavier moments' },
+        { type: 'Ride', model: 'Paiste 2002 20" Ride', position: 'Far right', notes: 'Full, complex ride for time-keeping and melodic sections' },
+        { type: 'China', model: 'Paiste 2002 18" China', position: 'Above rack toms', notes: 'Bright, aggressive China for accent work on riff transitions' }
+      ],
+      description: `The Paiste 2002 series represented a departure from the darker, drier cymbal sounds that dominated metalcore production in 2011. Where contemporary acts were gravitating toward Meinl and Sabian's darker alloys, Greiner's choice of Paiste 2002 gave *Leveler* a distinctive cymbal character: full, complex, and musically bright without sacrificing the aggressive attack metalcore requires.
+
+The 2002 series is constructed from Paiste's proprietary CuSn8 alloy (nickel-silver), producing a sound with more harmonic richness and body than the B20 bronze alloys more commonly found in extreme metal contexts. For Greiner's intricate cymbal orchestration — where cymbal selection functions as a melodic layer rather than just a punctuation device — the 2002's musical complexity provided the palette his playing demanded.
+
+The 14" Sound Edge hi-hats are central to the *Leveler* sound. The Sound Edge bottom cymbal's wavy edge creates a complex, layered tone on both closed and open positions, giving Greiner's hi-hat patterns the textural richness that distinguishes his playing from more straightforward metalcore timekeeping.
+
+The China cymbal's presence throughout the album provides aggressive, directive accent work on riff transitions — a technique Greiner uses architecturally, with the China marking musical boundaries rather than simply adding volume.`,
+      estimatedValue: '$1,400–1,800 total (Paiste 2002 series, full setup)'
+    },
+    hardware: {
+      title: 'The Mechanical Precision: DW 9000 and Hardware',
+      items: [
+        {
+          type: 'Bass Drum Pedal',
+          brand: 'DW',
+          model: 'DW 9000 Double Bass Drum Pedal',
+          notes: 'Chain-drive mechanism providing consistent feel for lever-driven double bass technique',
+          description: 'The DW 9000 was the premier double bass pedal in professional metal drumming through much of the 2000s and early 2010s. Its chain-drive mechanism offers the precise, controllable feel that Greiner\'s lever-driven double bass technique requires — each stroke initiates from the same mechanical point, enabling the clean separation between hits that characterizes his approach. The 9000 series\' adjustable beater angle and spring tension allowed Greiner to dial in the exact response weight his technique demanded for the precision double-kick patterns throughout *Leveler*.'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'DW',
+          model: 'DW 9000 Series Hi-Hat Stand',
+          notes: 'Matching DW 9000 series stand for consistency of feel'
+        },
+        {
+          type: 'Throne',
+          brand: 'Roc-N-Soc',
+          model: 'Roc-N-Soc Nitro Throne',
+          notes: 'Standard professional choice for extended studio sessions'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth Matt Greiner Signature Sticks',
+          notes: 'Custom dimensions designed for Greiner\'s balance of power and sensitivity'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke 3 Clear — front head removed or ported for studio mic placement',
+        toms: 'Remo Emperor Coated — balance of attack and sustain for studio recording',
+        snare: 'Remo Emperor Coated (batter)'
+      }
+    },
+    recordingTechniques: {
+      title: "Audiohammer Studios: Jason Suecof's Metalcore Production Approach",
+      content: `Audiohammer Studios in Sanford, Florida was one of the defining recording environments for progressive and technical metalcore in the 2000s and early 2010s. Producer and engineer Jason Suecof developed a production philosophy that prioritized clarity, dynamics, and the natural character of well-recorded drums — a philosophy that aligned precisely with what Matt Greiner's playing on *Leveler* required.
+
+**Suecof's Drum Recording Approach:**
+The Audiohammer approach for *Leveler* emphasized capturing Greiner's actual playing with intelligent microphone placement and controlled processing:
+
+- Kick drums: Large-diaphragm dynamic microphone (AKG D112 or similar) with secondary mic for attack character
+- Snare: Shure SM57 top and bottom for full tonal capture
+- Toms: Sennheiser MD421 on each tom, allowing individual EQ and processing
+- Overheads: Condenser pair for room context and cymbal representation
+- Room mics: Moderate room capture preserving the natural acoustic environment
+
+**Processing Philosophy:**
+The *Leveler* drum sound achieves a balance rare in metalcore production: modern and defined without sacrificing the natural character of the Ludwig Classic Maple shells and Paiste 2002 cymbals. Suecof's approach to gating and compression preserved Greiner's dynamic range — the ghost notes that characterize his playing register in quieter passages, while the full-velocity strokes of the album's heaviest moments have weight and authority.
+
+**Handling Complex Patterns:**
+*Leveler*'s odd-meter passages presented a production challenge: capturing rhythmically complex material with the clarity that allows listeners to follow the patterns. The solution was precision in both performance and recording — Greiner's clean execution meant minimal editing was required, and Suecof's microphone placement ensured each drum's contribution to the complex patterns was audible and distinct.`,
+      keyTechniques: [
+        'Natural drum recording approach — Ludwig Classic Maple shells captured with minimal artificial processing',
+        'Individual tom miking with MD421 for clarity in complex odd-meter patterns',
+        'Moderate room capture preserving natural kit acoustic character',
+        'Dynamic range preservation — ghost notes and full-velocity strokes coexist in the final mix'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'Leveler',
+        bpm: '185-200',
+        signature: '4/4 with progressive metric variations',
+        highlights: [
+          'Title track opens with an establishing double-bass groove that defines the album\'s rhythmic identity',
+          'Progressive metric shifts demonstrate Greiner\'s command of odd-meter patterns as natural vocabulary',
+          'Lever-driven double kick provides the rhythmic foundation under the album\'s signature guitar arrangements',
+          'Dynamic range from controlled groove to full-intensity blast sections'
+        ],
+        gearNotes: 'The Ludwig Classic Maple\'s natural warmth is prominent in the groove sections. The DW 9000 double pedal provides the mechanical precision the lever-driven patterns require.'
+      },
+      {
+        track: 'Internal Cannon',
+        bpm: '190-210',
+        signature: '4/4',
+        highlights: [
+          'Among August Burns Red\'s most aggressive tracks — full-intensity metalcore with minimal breathing room',
+          'Double bass runs demand both speed and cleanliness — lever-driven technique provides both',
+          'Snare work cuts through the dense guitar arrangement with consistent clarity at high velocity',
+          'One of the most circulated Greiner performances — a defining statement of his double-kick approach'
+        ],
+        gearNotes: 'The Supraphonic snare\'s cutting attack is essential — it must register clearly during the fastest double-bass passages. Paiste 2002 crashes provide immediate, full accent sounds without obscuring the drum mix.'
+      },
+      {
+        track: 'Empire',
+        bpm: '165-185',
+        signature: '4/4 with polyrhythmic sections',
+        highlights: [
+          'Progressive metalcore arrangement with extended polyrhythmic passages',
+          'Tom work provides melodic counterpoint to guitar arrangements — the Ludwig maple range is audible',
+          'Dynamic control demonstrated across the track\'s varied intensity levels',
+          'Complex fill work showcases Greiner\'s architectural approach to drum arrangement'
+        ],
+        gearNotes: 'The full tom range is utilized. The Ludwig Classic Maple\'s warmth gives the melodic tom passages musical presence that more aggressive shell constructions would sacrifice.'
+      },
+      {
+        track: 'Carpe Diem',
+        bpm: '170-195',
+        signature: 'Progressive time signatures',
+        highlights: [
+          'Among the album\'s most technically demanding tracks for odd-meter navigation',
+          'Demonstrates how Greiner integrates complex time signatures into fluid, feel-based playing',
+          'China cymbal accents mark riff boundaries with architectural precision throughout',
+          'The full Paiste 2002 cymbal setup contributes to the track\'s complex sonic texture'
+        ],
+        gearNotes: 'The Paiste 2002 China provides bright, aggressive accent character. The Sound Edge hi-hat construction allows complex open/close combinations at speed without loss of articulation.'
+      }
+    ],
+    evolution: {
+      title: "From Leveler to Today: Matt Greiner's Gear Evolution",
+      content: `The *Leveler* sessions captured Matt Greiner at a pivotal point in his gear evolution — on the Ludwig Classic Maple kit that had defined his early August Burns Red sound, using Paiste 2002 cymbals that reflected his preference for musically complex cymbal character. The years following *Leveler* brought significant equipment changes as his endorsement relationships evolved and his technical demands grew.
+
+**Post-Leveler Transition (2012–2016):**
+In the years following *Leveler*, Greiner transitioned from Ludwig to Pearl drums, adopting the Pearl Reference Pure as his primary kit — a move that shifted his sound toward the more focused, precise character the Reference Pure's maple/mahogany hybrid shells provide. Simultaneously, his cymbal setup evolved from Paiste 2002 to Meinl Byzance, a transition toward the darker, drier Extra Dry character that his current playing demands.
+
+**Current Setup (Pearl / Meinl Era):**
+- Pearl Reference Pure in Piano Black (maple/mahogany hybrid shells)
+- Pearl Matt Greiner Signature Snare (14" x 6" steel)
+- Meinl Byzance 15" Dual Hi-Hats, 18"/19" Extra Dry Crashes, 21" Transition Ride
+- Pearl Demon Drive double bass pedal (direct-drive replacing the DW 9000's chain-drive)
+- Vic Firth Matt Greiner signature sticks (continued from Leveler era)
+
+**The Lever-Driven Technique Persists:**
+What has not changed across Greiner's gear evolution is the fundamental lever-driven double bass approach. Whether executing the technique on DW 9000 chain-drive pedals or the Pearl Demon Drive's direct-drive mechanism, the mechanical precision and clean note separation remain constant hallmarks of his playing. The gear evolved; the technique that defines his sound endured.
+
+For the full current Matt Greiner setup, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup).`,
+      thenVsNow: [
+        { category: 'Kit', then: 'Ludwig Classic Maple (6-ply maple shells)', now: 'Pearl Reference Pure (maple/mahogany hybrid)' },
+        { category: 'Snare', then: 'Ludwig Supraphonic LM402 (aluminum, 14" x 6.5")', now: 'Pearl Matt Greiner Signature (steel, 14" x 6")' },
+        { category: 'Cymbals', then: 'Paiste 2002 (CuSn8 alloy, full/bright)', now: 'Meinl Byzance (B20 bronze, darker/drier)' },
+        { category: 'Pedals', then: 'DW 9000 Double Pedal (chain-drive)', now: 'Pearl Demon Drive (direct-drive)' },
+        { category: 'Sticks', then: 'Vic Firth Matt Greiner Signature', now: 'Vic Firth Matt Greiner Signature (continued)' }
+      ]
+    },
+    faq: [
+      {
+        question: 'What drums did Matt Greiner use on Leveler?',
+        answer: 'Matt Greiner recorded August Burns Red\'s *Leveler* (2011) on a Ludwig Classic Maple kit. The Classic Maple\'s 6-ply maple shells with reinforcement rings produced the warm, musical tone that distinguished Greiner\'s sound from the more synthetic drum aesthetics common in 2011 metalcore production. He ran a double bass drum configuration — two 22" bass drums — providing the independent foot control his lever-driven double kick technique requires. For his current setup, Greiner has since transitioned to Pearl Reference Pure drums. See the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup) for his modern gear.'
+      },
+      {
+        question: 'What is Matt Greiner known for technically?',
+        answer: 'Matt Greiner is best known technically for his lever-driven double bass technique — a precise mechanical approach that generates clean, separated strokes at high velocity, demonstrated throughout *Leveler*\'s most demanding double-kick passages. He is also recognized for his command of odd-meter patterns: where many drummers treat complex time signatures as technical challenges, Greiner integrates 5/4, 7/8, and polyrhythmic figures into naturally-feeling musical phrases. Beyond technique, he is known for a jazz-influenced musicality — the use of dynamics, space, and cymbal orchestration — that distinguishes his approach from drummers who prioritize aggression above all else. His [drummer profile at MetalForge](/drummer/matt-greiner) covers the full range of his technical and musical contributions.'
+      },
+      {
+        question: 'What makes the drumming on Leveler unique?',
+        answer: 'The drumming on *Leveler* stands out from both standard metalcore and technical metal for several interconnected reasons. First, the integration of progressive metric vocabulary — odd time signatures that feel natural rather than forced, a product of Greiner\'s commitment to treating complex meters as musical language. Second, the dynamic range: where many metalcore records operate at near-constant intensity, *Leveler* contains moments of genuine dynamic contrast, and Greiner\'s playing is central to that. Third, the cymbal orchestration — the Paiste 2002 setup contributes a harmonic complexity to the overall drum sound that gives the album a musical dimension beyond its technical content. The Grammy nomination for Best Metal Performance that followed the album\'s release recognized exactly this combination of technical sophistication and musical judgment. See the [Matt Greiner drummer profile](/drummer/matt-greiner) for a broader view of his approach.'
+      },
+      {
+        question: 'What cymbals did Matt Greiner use on Leveler?',
+        answer: 'Matt Greiner\'s cymbal setup for the *Leveler* sessions was built around the Paiste 2002 series — 14" Sound Edge hi-hats, 16" and 18" crashes, a 20" ride, and an 18" China. The 2002 series uses Paiste\'s CuSn8 alloy (nickel-silver), which produces a fuller, more harmonically complex sound than B20 bronze cymbals. This character suited Greiner\'s musical cymbal approach: each cymbal functions as a tonal component of the arrangement, not merely a dynamic accent tool. He has since transitioned to Meinl Byzance cymbals for his current setup — see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup).'
+      }
+    ],
+    videos: [],
+    relatedAlbums: ['matt-greiner-complete-drum-setup'],
+    relatedDrummers: [32],
+    relatedArticles: ['metalcore-drumming'],
+    internalLinks: [
+      { text: 'Matt Greiner drummer profile', url: '/drummer/matt-greiner' },
+      { text: 'Matt Greiner complete drum setup (current gear)', url: '/articles/matt-greiner-complete-drum-setup' },
+      { text: 'Matt Greiner licks and technique breakdowns', url: '/drummers/matt-greiner/licks' },
+      { text: 'DW hardware brand guide', url: '/brand/dw' },
+      { text: 'Ludwig drum brand guide', url: '/brand/ludwig' }
+    ],
+    schema: {
+      '@context': 'https://schema.org',
+      '@graph': [
+        {
+          '@type': 'Article',
+          headline: "August Burns Red 'Leveler' Drum Setup — Matt Greiner's 2011 Gear",
+          description: "Discover Matt Greiner's drum setup on August Burns Red's Grammy-nominated Leveler (2011) — Ludwig Classic Maple kit, Paiste 2002 cymbals, DW 9000 double pedal, and the odd-meter technique that defines metalcore's most musical drummer.",
+          author: {
+            '@type': 'Organization',
+            name: 'MetalForge Editorial'
+          },
+          datePublished: '2026-06-23',
+          dateModified: '2026-06-23'
+        },
+        {
+          '@type': 'MusicAlbum',
+          name: 'Leveler',
+          byArtist: {
+            '@type': 'MusicGroup',
+            name: 'August Burns Red'
+          },
+          datePublished: '2011-06-28',
+          genre: 'Metalcore',
+          recordLabel: {
+            '@type': 'Organization',
+            name: 'Metal Blade Records'
+          },
+          track: [
+            { '@type': 'MusicRecording', name: 'Leveler' },
+            { '@type': 'MusicRecording', name: 'Internal Cannon' },
+            { '@type': 'MusicRecording', name: 'Carpe Diem' },
+            { '@type': 'MusicRecording', name: 'Empire' }
+          ]
+        },
+        {
+          '@type': 'FAQPage',
+          mainEntity: [
+            {
+              '@type': 'Question',
+              name: 'What drums did Matt Greiner use on Leveler?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "Matt Greiner recorded August Burns Red's Leveler (2011) on a Ludwig Classic Maple kit with double 22\" bass drums, paired with a DW 9000 double pedal and Paiste 2002 cymbals."
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'What is Matt Greiner known for technically?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: 'Matt Greiner is known for his lever-driven double bass technique, command of odd-meter patterns, and jazz-influenced dynamics applied in a metalcore context.'
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'What makes the drumming on Leveler unique?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "Leveler's drumming is distinguished by progressive metric vocabulary, genuine dynamic range, intricate cymbal orchestration, and a Grammy-nominated performance combining technical sophistication with musical judgment."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    conclusion: {
+      title: "The Album That Defined Metalcore's Technical Ceiling",
+      content: `*Leveler* stands as the high-water mark of August Burns Red's Grammy-nominated run — an album that pushed metalcore's technical vocabulary while maintaining the musicality that distinguishes Greiner's drumming from pure technical display. The Ludwig Classic Maple kit's warmth, the Paiste 2002's harmonic complexity, and the DW 9000's mechanical precision all contributed to a recorded drum sound that served the album's progressive ambitions.
+
+Matt Greiner's approach on *Leveler* offers lessons that extend beyond the album's specific technical content:
+
+**Technique serves music:** The odd-meter patterns throughout *Leveler* are technically demanding, but their purpose is musical — they shape the emotional arc of each song, not demonstrate the drummer's capabilities for their own sake. Greiner's lever-driven double bass delivers precision in service of feel, not feel sacrificed for precision.
+
+**Gear character matters:** The choice of Ludwig Classic Maple over more aggressive shell constructions, and Paiste 2002 over darker/drier cymbals, reflects a deliberate aesthetic position: the drums should have musical warmth, not just attack. This choice gave *Leveler* a sonic identity distinct from contemporaries.
+
+**Progressive metalcore has a ceiling — and Greiner reached it:** The combination of odd-meter fluency, dynamic range, and physical stamina demonstrated on *Leveler* set a benchmark that remains relevant over a decade later. The gear enabled the performance; the performance was entirely Greiner's.
+
+**Explore related content at MetalForge:**
+- [Matt Greiner complete drum setup](/articles/matt-greiner-complete-drum-setup) — his current Pearl/Meinl era gear
+- [Matt Greiner drummer profile](/drummer/matt-greiner) — full career biography and technique overview
+- [Matt Greiner lick breakdowns](/drummers/matt-greiner/licks) — signature patterns analyzed`
     }
   }
 };

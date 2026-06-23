@@ -1,0 +1,179 @@
+name: Check GSC watched queries
+
+# L1 — GSC-gap CLOSURE verifier. For each query in
+# .agents/seo/watched-queries.json, fetch the last 7 days of GSC numbers,
+# compare to the baseline captured when the entry was added, classify into
+# win / loss / mixed / null / no-data / baselining. Output is twofold:
+#   - Umbrella issue lifecycle (open / edit / close) labelled `gsc-watch`
+#   - Commits .agents/seo/gsc-watch-snapshot.md so the CEO Agent reads
+#     fresh numbers every run.
+#
+# Secrets reused from CEO agent: GA_SERVICE_ACCOUNT_JSON + GSC_SITE.
+
+on:
+  workflow_dispatch:
+    inputs:
+      watches:
+        description: 'Path to watched-queries JSON (default .agents/seo/watched-queries.json)'
+        required: false
+        default: '.agents/seo/watched-queries.json'
+  schedule:
+    # Mondays 08:00 UTC, after broken-images (06:30) and llm-citations (07:30).
+    - cron: '0 8 * * 1'
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: check-gsc-watched-queries
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install project deps (for googleapis)
+        run: npm ci --no-audit --no-fund
+
+      - name: Configure git author
+        # Same identity used by the CEO/SEO/Ralph workflows so Vercel's git
+        # authorization recognises the committer (cost-control: doesn't
+        # affect anything when previews are off, but keeps consistency).
+        run: |
+          git config user.name "Ricardo Parro"
+          git config user.email "ricardo.parro@gmail.com"
+
+      - name: Write GSC service-account credentials
+        env:
+          GA_JSON: ${{ secrets.GA_SERVICE_ACCOUNT_JSON }}
+        run: |
+          mkdir -p "$RUNNER_TEMP/gcp"
+          printf '%s' "$GA_JSON" > "$RUNNER_TEMP/gcp/metrics.json"
+          chmod 600 "$RUNNER_TEMP/gcp/metrics.json"
+
+      - name: Run GSC watch crawler
+        id: crawl
+        env:
+          GOOGLE_APPLICATION_CREDENTIALS: ${{ runner.temp }}/gcp/metrics.json
+          GSC_SITE: ${{ secrets.GSC_SITE }}
+          WATCHES: ${{ inputs.watches || '.agents/seo/watched-queries.json' }}
+        run: |
+          node .agents/scripts/check-gsc-watched-queries.cjs \
+            --watches "$WATCHES" \
+            --out gsc-watch.json
+
+      - name: Render issue body + snapshot
+        run: |
+          node .agents/scripts/render-gsc-watch-issue.cjs \
+            --report gsc-watch.json \
+            --issue issue-body.md \
+            --snapshot .agents/seo/gsc-watch-snapshot.md
+
+      - name: Summarize
+        id: summary
+        run: |
+          node -e '
+            const r = require("./gsc-watch.json");
+            const fs = require("fs");
+            const c = r.counts || {};
+            const losses = c.loss || 0;
+            const wins = c.win || 0;
+            const actionable = losses;  // umbrella only opens on actionable signal
+            fs.appendFileSync(process.env.GITHUB_OUTPUT,
+              `wins=${wins}\nlosses=${losses}\nactionable=${actionable}\ntotal=${r.watchesTotal}\n`);
+          '
+
+      - name: Find existing umbrella issue
+        id: existing
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          n=$(gh issue list \
+                --repo "${{ github.repository }}" \
+                --state open \
+                --label gsc-watch \
+                --json number,title \
+                --jq '[.[] | select(.title | startswith("GSC watched queries"))][0].number // ""')
+          echo "number=$n" >> "$GITHUB_OUTPUT"
+
+      - name: Open / update / close umbrella issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ACTIONABLE: ${{ steps.summary.outputs.actionable }}
+          WINS: ${{ steps.summary.outputs.wins }}
+          LOSSES: ${{ steps.summary.outputs.losses }}
+          TOTAL: ${{ steps.summary.outputs.total }}
+          EXISTING: ${{ steps.existing.outputs.number }}
+        run: |
+          set -euo pipefail
+          if [ "$ACTIONABLE" = "0" ]; then
+            if [ -n "$EXISTING" ]; then
+              echo "No losses to act on — closing issue #$EXISTING."
+              gh issue close "$EXISTING" \
+                --repo "${{ github.repository }}" \
+                --comment "🤖 Weekly GSC watch on $(date -u +%Y-%m-%d): 0 losses, ${WINS} wins / ${TOTAL} total. Snapshot committed to \`.agents/seo/gsc-watch-snapshot.md\`. Closing."
+            else
+              echo "All clear, no existing issue. Nothing to do."
+            fi
+          else
+            TITLE="GSC watched queries — ${LOSSES} losses, ${WINS} wins (${TOTAL} tracked)"
+            if [ -n "$EXISTING" ]; then
+              echo "Updating #$EXISTING."
+              gh issue edit "$EXISTING" \
+                --repo "${{ github.repository }}" \
+                --title "$TITLE" \
+                --body-file issue-body.md
+              gh issue comment "$EXISTING" \
+                --repo "${{ github.repository }}" \
+                --body "🤖 Weekly GSC watch refreshed $(date -u +%Y-%m-%dT%H:%MZ): ${LOSSES} losses, ${WINS} wins / ${TOTAL} total."
+            else
+              echo "Opening new umbrella issue."
+              gh issue create \
+                --repo "${{ github.repository }}" \
+                --title "$TITLE" \
+                --body-file issue-body.md \
+                --label gsc-watch \
+                --label seo-proposal
+            fi
+          fi
+
+      - name: Commit snapshot
+        run: |
+          if git diff --quiet -- .agents/seo/gsc-watch-snapshot.md; then
+            echo "Snapshot unchanged."
+            exit 0
+          fi
+          git add .agents/seo/gsc-watch-snapshot.md
+          git commit -m "seo: refresh GSC watch snapshot [skip ci]"
+          for attempt in 1 2 3 4; do
+            if git push origin HEAD:${{ github.ref_name }}; then
+              echo "Pushed on attempt $attempt"
+              break
+            fi
+            echo "Push attempt $attempt failed; sleeping $((attempt * 2))s"
+            sleep $((attempt * 2))
+            git pull --rebase origin ${{ github.ref_name }} || true
+          done
+
+      - name: Upload report artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: gsc-watch-${{ github.run_id }}
+          path: |
+            gsc-watch.json
+            issue-body.md
+            .agents/seo/gsc-watch-snapshot.md
+          retention-days: 90
+          if-no-files-found: ignore

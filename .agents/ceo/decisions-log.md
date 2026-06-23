@@ -5,6 +5,14 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-22 00:46 UTC*
 
 ---
+## 2026-06-23 22:30 (state-confirm — anti-noise hold)
+- Backlog: 45 ai-fix · 0 PRs open · proposals untriaged: 20 (all held from prior run)
+- Org / Sessions / Views (7d): 96 / 123 / 288
+- Blockers unchanged: #1822 #1824 #1825 (hold) · no re-spam
+- Actions: none — cap hold continues; 0 Ralph PRs since 2026-06-21; no new proposals, no founder ideas
+- Next check: 2026-06-24 07:00 UTC — investigate #1822 rc=1 root cause; stale sweep (#2147/#2150 hit ~49h, not yet 72h); promote if any overnight merges
+
+---
 ## 2026-06-23 21:08 — 3 Ralph-stuck issues held, 7 proposals rated, 3 promotions (42→45)
 
 ### Context

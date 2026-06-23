@@ -1,0 +1,167 @@
+{
+  "_comment": "Target queries for the LLM-citation auto-test loop. Each entry is a query MetalForge competes for. The weekly check fires every query at one or more LLM providers (Perplexity to start) and records whether metalforge.io appears in the response body or citations. Edit freely — the workflow re-reads this file every run.",
+  "_competitors": [
+    "drumeo.com",
+    "moderndrummer.com",
+    "drummerworld.com",
+    "vintagedrumguide.com",
+    "drumsetbuying.com",
+    "drummagazine.com",
+    "loudwire.com",
+    "blabbermouth.net",
+    "drumhead.com",
+    "premier-guitar.com"
+  ],
+  "queries": [
+    {
+      "q": "joey jordison drum kit",
+      "intent": "drummer-head-term",
+      "target_entity": "drummer:joey-jordison",
+      "priority": "high"
+    },
+    {
+      "q": "what cymbals does joey jordison use",
+      "intent": "long-tail-informational",
+      "target_entity": "drummer:joey-jordison",
+      "priority": "high"
+    },
+    {
+      "q": "lars ulrich drum kit",
+      "intent": "drummer-head-term",
+      "target_entity": "drummer:lars-ulrich",
+      "priority": "high"
+    },
+    {
+      "q": "lars ulrich cymbals",
+      "intent": "long-tail-informational",
+      "target_entity": "drummer:lars-ulrich",
+      "priority": "high"
+    },
+    {
+      "q": "dave lombardo drum setup",
+      "intent": "drummer-head-term",
+      "target_entity": "drummer:dave-lombardo",
+      "priority": "high"
+    },
+    {
+      "q": "gene hoglan drum kit",
+      "intent": "drummer-head-term",
+      "target_entity": "drummer:gene-hoglan",
+      "priority": "high"
+    },
+    {
+      "q": "george kollias drum kit",
+      "intent": "drummer-head-term",
+      "target_entity": "drummer:george-kollias",
+      "priority": "high"
+    },
+    {
+      "q": "tomas haake drum kit",
+      "intent": "drummer-head-term",
+      "target_entity": "drummer:tomas-haake",
+      "priority": "high"
+    },
+    {
+      "q": "danny carey drum setup",
+      "intent": "drummer-head-term",
+      "target_entity": "drummer:danny-carey",
+      "priority": "high"
+    },
+    {
+      "q": "mike portnoy drum kit",
+      "intent": "drummer-head-term",
+      "target_entity": "drummer:mike-portnoy",
+      "priority": "high"
+    },
+    {
+      "q": "what drums did lars ulrich use on master of puppets",
+      "intent": "album-specific",
+      "target_entity": "article:master-of-puppets-drum-setup",
+      "priority": "high"
+    },
+    {
+      "q": "what drums did dave lombardo use on reign in blood",
+      "intent": "album-specific",
+      "target_entity": "article:reign-in-blood-drum-setup",
+      "priority": "high"
+    },
+    {
+      "q": "what drum kit on iowa album",
+      "intent": "album-specific",
+      "target_entity": "article:iowa-drum-setup",
+      "priority": "medium"
+    },
+    {
+      "q": "danny carey gear lateralus",
+      "intent": "album-specific",
+      "target_entity": "article:lateralus-drum-setup",
+      "priority": "medium"
+    },
+    {
+      "q": "fastest metal drummer",
+      "intent": "comparative",
+      "target_entity": "lists:fastest-metal-drummers",
+      "priority": "high"
+    },
+    {
+      "q": "best death metal drummer",
+      "intent": "comparative",
+      "target_entity": "lists:death-metal-drummers",
+      "priority": "high"
+    },
+    {
+      "q": "most innovative metal drummers",
+      "intent": "comparative",
+      "target_entity": "lists:most-innovative-drummers",
+      "priority": "medium"
+    },
+    {
+      "q": "how fast does george kollias play",
+      "intent": "fact-lookup",
+      "target_entity": "drummer:george-kollias",
+      "priority": "high"
+    },
+    {
+      "q": "how to play double bass like joey jordison",
+      "intent": "how-to",
+      "target_entity": "technique:double-bass",
+      "priority": "high"
+    },
+    {
+      "q": "blast beat technique metal drummers",
+      "intent": "how-to",
+      "target_entity": "technique:blast-beat",
+      "priority": "high"
+    },
+    {
+      "q": "metalforge",
+      "intent": "brand",
+      "target_entity": "site:home",
+      "priority": "high"
+    },
+    {
+      "q": "metalforge drummer database",
+      "intent": "brand",
+      "target_entity": "site:home",
+      "priority": "medium"
+    },
+    {
+      "q": "metal drummer gear database",
+      "intent": "category",
+      "target_entity": "site:home",
+      "priority": "medium"
+    },
+    {
+      "q": "joey jordison vs gene hoglan",
+      "intent": "comparative",
+      "target_entity": "vs:joey-jordison-vs-gene-hoglan",
+      "priority": "medium"
+    },
+    {
+      "q": "thrash metal drummers ranked",
+      "intent": "comparative",
+      "target_entity": "lists:thrash-metal-drummers",
+      "priority": "medium"
+    }
+  ]
+}

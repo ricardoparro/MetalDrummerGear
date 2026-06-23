@@ -20,7 +20,7 @@ Rules:
 
 *(Format: `<intent type> + <on-page format> → <verdict source> · <reason>`)*
 
-_(Empty — first entries will be appended as L1 and L2 produce verifiable wins.)_
+`long-tail gear-detail` + drummer profile page with structured gear inventory (brand/model per component) → L2 #2211 (2026-06-23) · Perplexity cited "what cymbals does joey jordison use" from our gear taxonomy data; specificity of component-level data matches the query granularity LLMs need for gear-detail answers. **Replicate to sibling queries:** what snare does X use, what cymbals does Y use, what bass drum does Z use.
 
 ---
 

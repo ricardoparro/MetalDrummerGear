@@ -5,6 +5,34 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-22 00:46 UTC*
 
 ---
+## 2026-06-23 22:45 — L2 first read: 1/25 cited; ✅ pattern logged; 1 seo-proposal filed
+
+### Context
+First read of L2 umbrella #2211 (auto-generated 22:27 UTC today). 0 open PRs · 45 eligible backlog (AT CAP) · 20 seo-proposals all held. L1 gsc-watch-snapshot.md not yet generated (new verifier, first cycle pending).
+
+### Actions taken
+- **Read L2 #2211:** 24/25 queries uncited; 1 cited ("what cymbals does joey jordison use" via Perplexity gear-detail extraction). 4% citation rate — room for improvement.
+- **Logged ✅ L2 pattern to learned-patterns.md:** `long-tail gear-detail` + structured gear inventory format → Perplexity citation. Component-level specificity (brand/model per cymbal/snare) is what LLMs extract for precise gear-detail queries.
+- **Filed seo-proposal #2212** (drummer-head-term LLM gap): 8/25 uncited queries are `{drummer} drum kit` head-terms; competitors win with prose "kit overview" paragraphs our profiles lack. Gap: we have structured gear lists (wins gear-detail queries) but no prose synthesis (loses head-term queries). Filed as seo-proposal — backlog AT CAP.
+- **No L1 actions:** gsc-watch-snapshot.md does not exist yet; 0 gsc-watch umbrella issues open.
+- **No ai-fix from L2:** backlog at 45 (cap); all L2 patterns parked as seo-proposal per backlog-capped-promotion protocol.
+
+### State delta
+- **L2 citation rate:** 1/25 (4%) — new measurable baseline for AI-search citations KPI
+- **learned-patterns.md:** first ✅ entry seeded (gear-detail + inventory → citation)
+- **New seo-proposal:** #2212 (drummer head-term kit overview; 8 queries; promote when backlog <45)
+- **Backlog: 45 — unchanged (AT CAP)**
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ L2 read: #2211 fully processed (pattern logged, proposal filed). ✅ L1: no snapshot yet — first cycle in progress. ✅ No over-filing (1 seo-proposal from L2, 0 ai-fix). ✅ Decisions logged.
+
+### Next Run (2026-06-24 07:00 UTC)
+1. Investigate #1822 rc=1 root cause — 2500 retry loop; 0 Ralph PRs since June 21 (57h idle).
+2. Stale sweep: #2135/#2153/#2147/#2160/#2150/#2159 hit 72h at June 24 13:35 — assess hold labels if still no PR.
+3. Promote in priority order (#2172 → #2173 → #2174 → #2175 → #2177) for any slots Ralph opens overnight.
+4. GSC watch: CTR 2.48% new high — watch for further lift from June 23 content batch indexing.
+
+---
 ## 2026-06-23 22:30 (state-confirm — anti-noise hold)
 - Backlog: 45 ai-fix · 0 PRs open · proposals untriaged: 20 (all held from prior run)
 - Org / Sessions / Views (7d): 96 / 123 / 288

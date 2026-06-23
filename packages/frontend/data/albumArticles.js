@@ -35004,6 +35004,364 @@ For the complete exploration of Bill Ward's technique, see the [Bill Ward drumme
 
 🥁 *The Ludwig kit that started heavy metal — four days, four tracks, and one of the most influential drum performances in music history.* 🥁`
     }
+  },
+
+  'crack-the-skye-drum-setup': {
+    slug: 'crack-the-skye-drum-setup',
+    albumTitle: 'Crack the Skye',
+    artist: 'Mastodon',
+    drummer: 'Brann Dailor',
+    drummerId: 16,
+    relatedDrummerSlug: 'brann-dailor',
+    year: 2009,
+    genre: 'Progressive Metal / Sludge Metal',
+    label: 'Reprise Records',
+    studio: 'Doppler Studios, Atlanta, GA',
+    producer: 'Brendan O\'Brien',
+    isAlbumArticle: true,
+    datePublished: '2026-06-23',
+    dateModified: '2026-06-23',
+    author: 'MetalForge Editorial',
+    title: "Crack the Skye Drum Setup: Brann Dailor's Gear on Mastodon's Masterwork",
+    description: "The complete breakdown of Brann Dailor's drum setup on Mastodon's Crack the Skye (2009). Tama Starclassic Maple, Istanbul Agop Byzance cymbals, and the recording techniques behind progressive metal's most melodically sophisticated drum performance.",
+    seoKeywords: ['brann dailor drum kit', 'mastodon drummer setup', 'crack the skye drums', 'brann dailor gear', 'mastodon crack the skye recording', 'brann dailor cymbals', 'crack the skye drum setup'],
+    ogImage: '/images/albums/crack-the-skye-drums.webp',
+    intro: {
+      title: 'The Drummer as Melodist: Brann Dailor on Mastodon\'s Progressive Peak',
+      content: `Released on March 24, 2009, Mastodon's *Crack the Skye* is the album that permanently moved the band beyond genre classification. Grammy-nominated, universally acclaimed by critics, and named to Rolling Stone's list of the best albums of the 2000s, it is the record on which Brann Dailor's drumming reached its most sophisticated expression — the moment where the "drummer as melodist" concept stopped being an interesting idea and became an undeniable sonic reality.
+
+Dailor has spoken extensively about his approach: he does not think of the drum kit as a rhythmic instrument alone. Every tom pattern is a melodic phrase. Ghost notes are vocabulary, not filler. The kit is tuned so that its pitches relate to the music harmonically. On *Crack the Skye*, those ideas operate at their highest density — on "The Czar," "Oblivion," and the title track itself, his parts function as counter-melodies to the guitar arrangements, not mere rhythmic support.
+
+The album was recorded at Doppler Studios in Atlanta, Georgia, with producer Brendan O'Brien — the engineer and producer known for his work with Pearl Jam, Bruce Springsteen, and AC/DC. O'Brien's instinct for natural, dynamic drum sounds suited Dailor's playing philosophy perfectly. The drums on *Crack the Skye* breathe; they occupy space in the mix as a melodic element rather than a rhythmic layer underneath the guitars.
+
+Conceptually, *Crack the Skye* explores time loops, astral projection, and the soul's journey through the cosmos — Mastodon's most ambitious narrative, written partly as a tribute to Dailor's late sister Skye. That emotional weight is present in every drum performance. The polyrhythmic complexity of the title track, the cascading fills of "The Czar," the restrained atmospheric playing on "The Last Baron" — all serve the album's story as much as its songs.
+
+This article breaks down the complete Brann Dailor drum setup for *Crack the Skye*, including the Tama Starclassic Maple kit, his Istanbul Agop cymbal selection, and the recording and playing techniques that made this the most studied drum performance in modern progressive metal.`,
+      keyPoints: [
+        'Recorded at Doppler Studios, Atlanta with producer Brendan O\'Brien',
+        'Grammy-nominated album — Mastodon\'s critical and progressive peak',
+        'Dailor\'s "drummer as melodist" philosophy at its most fully realized',
+        'Conceptual album about astral projection and time loops — emotional intensity in every performance',
+        'Rolling Stone Top 100 Albums of the 2000s — the definitive Mastodon record'
+      ]
+    },
+    drumKit: {
+      title: "Tama Starclassic Maple: The Melodic Engine Behind Crack the Skye",
+      brand: 'Tama',
+      model: 'Tama Starclassic Maple',
+      finish: 'Natural / Custom finish',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum (single kick)'],
+        toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom', '13" x 10" Rack Tom'],
+        floorToms: ['16" x 16" Floor Tom'],
+        shells: '100% maple shells — warm, resonant, melodically focused'
+      },
+      description: `Brann Dailor's Tama Starclassic Maple kit was the foundation of the *Crack the Skye* sessions, and understanding why requires understanding his playing philosophy. Tama's Starclassic Maple uses 100% maple shells — a choice that prioritizes warmth, sustain, and a full fundamental tone. For a drummer whose toms function as melodic instruments tuned in musical intervals, maple is the only logical shell material.
+
+On *Crack the Skye*, those melodic tom patterns are front and center throughout. The opening of "The Czar" deploys flowing tom runs as melodic lines responding to the guitar harmonics — not fills punctuating the rhythm, but active melodic phrases integrated into the fabric of the arrangement. This is only possible because the Starclassic's maple shells are capable of sustaining pitches that the ear interprets as musical notes.
+
+The three-rack configuration (10", 12", 13") gives Dailor a dense cluster of adjacent pitches — close enough in interval to allow rapid melodic movement without large physical jumps between drums. Combined with the 16" floor tom, he has a four-drum melodic palette spanning a usable harmonic range. On "Oblivion" and "Pendulous Skin," the spacing between these pitches is audible: they outline musical intervals, not arbitrary percussive thuds.
+
+The single 22" bass drum deserves special attention in the context of this album. *Crack the Skye* is not a record that rewards double-bass speed — it rewards groove, feel, and melodic intent. Dailor's single-kick approach, driving Mastodon's most progressive and psychedelic album, demonstrates that the foot is a groove instrument. Brendan O'Brien's production captures that kick with warmth and presence, giving it weight without dominating the mix.
+
+The natural finish shells, combined with O'Brien's room-aware recording philosophy at Doppler Studios, produced a drum sound that sits in the *Crack the Skye* mix like a second band. The drums don't just support the songs — they participate in them.`,
+      notes: [
+        'Tama Starclassic Maple — 100% maple shells tuned in musical intervals for melodic tom work',
+        'Single 22" bass drum — groove philosophy over double-kick speed across a progressive album',
+        'Three rack toms (10", 12", 13") for dense melodic resolution throughout arrangements',
+        'Natural finish resonates clearly in Doppler Studios\' room-aware recording environment'
+      ],
+      estimatedValue: '$3,000–5,500 (Starclassic Maple shell pack)'
+    },
+    snare: {
+      title: 'The Snare: Tone and Sensitivity for a Progressive Palette',
+      brand: 'Tama',
+      model: 'Tama Starphonic / Artstar Snare',
+      size: '14" x 6.5"',
+      shell: 'Steel or Brass',
+      description: `The snare drum sound on *Crack the Skye* walks a careful line: present and authoritative enough to anchor Mastodon's dense arrangements, but sensitive enough to register Dailor's extensive ghost note vocabulary and the dynamic passages that make the album so musically rich.
+
+A 14" x 6.5" Tama snare at medium tension serves both requirements. The deeper shell — 6.5" vs the standard 5.5" — provides projection and body without sacrificing responsiveness. In Mastodon's dense guitar wall, the snare needs genuine presence; the extra depth delivers that presence while Dailor's tuning philosophy — aimed at musical tone rather than maximum crack — keeps it from sounding harsh in the mix.
+
+Ghost notes are central to understanding how the snare sits on *Crack the Skye*. Dailor's ghost note density on tracks like "The Czar" and "The Last Baron" creates a constant subtle motion beneath the louder accents — connective tissue from jazz drumming applied to progressive metal. The snare must register these soft strokes clearly, which requires both the right drumhead selection and a tension setting that keeps the drum resonant at low velocities.
+
+Brendan O'Brien's recording approach at Doppler Studios allowed the snare to breathe in the room rather than being captured completely dry. The result is a snare that sounds like a physical object in a real space — dimensional and present in a way that purely close-miked, heavily-gated drum sounds cannot replicate. For drummers studying *Crack the Skye*'s production, that snare sound is one of the key elements separating it from most progressive metal albums of its era.`,
+      tuningSetting: 'Medium tension — tuned for tone and ghost note sensitivity, not maximum attack',
+      heads: 'Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$400–700 (Tama snare)'
+    },
+    cymbals: {
+      title: 'Istanbul Agop: Atmospheric Warmth for a Progressive Concept Album',
+      brand: 'Istanbul Agop',
+      series: 'Istanbul Agop Traditional Series',
+      setup: [
+        { type: 'Hi-Hats', model: 'Istanbul Agop 14" Traditional Hi-Hats', position: 'Left side', notes: 'Hand-hammered Turkish bronze — warm, complex, musical rather than aggressive; ideal for intricate hi-hat patterns throughout the album' },
+        { type: 'Crash', model: 'Istanbul Agop 18" Traditional Crash', position: 'Left crash', notes: 'Dark, warm crash with rich overtone bloom — adds musical wash rather than sharp attack' },
+        { type: 'Crash', model: 'Istanbul Agop 20" Traditional Crash', position: 'Right crash', notes: 'Fuller crash for structural section endings; dark complex character consistent with hi-hat palette' },
+        { type: 'Ride', model: 'Istanbul Agop 22" Traditional Ride', position: 'Right side', notes: 'Atmospheric, complex bell — used as textural layer on ambient passages throughout the album' },
+        { type: 'China', model: 'Istanbul Agop China or Zildjian 18" China', position: 'Over rack toms', notes: 'Selective use for aggressive accent moments on heavier passages' }
+      ],
+      description: `Brann Dailor's Istanbul Agop cymbal setup is one of the most musically logical gear choices on *Crack the Skye*. Istanbul Agop, continuing the Turkish hand-hammering tradition from their Istanbul workshop, produces cymbals with warmth, complexity, and dark musicality that sets them fundamentally apart from the brighter, more aggressive options that dominate metal. For an album as atmospherically rich and harmonically complex as *Crack the Skye*, those qualities are not incidental — they are essential.
+
+Istanbul Agop's Traditional series is hand-hammered, unlacquered, and produced by individual craftspeople following the same techniques that have characterized Turkish cymbal-making for centuries. The result is cymbals that develop tonally over time. A crash doesn't simply attack and decay in a linear arc; it blooms, revealing overtone layers as it opens and subsiding with musical character. This tonal complexity suits Dailor's compositional drumming approach: his cymbal work on *Crack the Skye* is as much about colour and atmosphere as rhythmic punctuation.
+
+The 14" Traditional hi-hats provide the foundation for patterns that run throughout the album's most intricate passages. Mastodon's rhythmic complexity on *Crack the Skye* — the overlapping odd-time patterns of the title track, the cascading figures of "The Czar" — requires hi-hats that register both subtle open-close variations and fully-open atmospheric washing passages with equal musical quality. Istanbul Agop's warmth means even rapid articulate patterns retain musical character rather than becoming machine-like noise.
+
+The 22" Traditional Ride is particularly significant on an album of this character. O'Brien's production places the ride in the mix as an atmospheric layer on the album's quieter passages — "Oblivion" and "The Last Baron" both feature ride work that colors the music rather than simply marking time. The Agop ride's complex bell and washy body serve this function better than any brighter, more aggressive cymbal could.
+
+The crash selection in 18" and 20" covers *Crack the Skye*'s significant dynamic range. The 18" speaks quickly for abrupt accents; the 20" provides the fuller crash that marks the structural arrival points of the album's extended compositions.`,
+      estimatedValue: '$2,000–3,500 (full Istanbul Agop Traditional setup)'
+    },
+    hardware: {
+      title: 'Pedals, Sticks, and Hardware: The Single-Kick Philosophy',
+      items: [
+        {
+          type: 'Bass Drum Pedal',
+          brand: 'Tama',
+          model: 'Tama Iron Cobra Single Pedal',
+          notes: 'Single pedal — Dailor is a single-bass-drum player; groove and placement over double-kick speed',
+          description: `Brann Dailor's single-pedal approach on *Crack the Skye* is one of the album's most revealing gear decisions. In a progressive metal context where double-bass pedal work is standard, Dailor drives one of the genre's most complex albums with a single Tama Iron Cobra. The Iron Cobra's direct, consistent spring action allows the controlled, precisely-placed single strokes that create Mastodon's grooves. The bass drum on *Crack the Skye* is not a speed demonstration — it is a groove instrument, and every note placement is a musical decision. Brendan O'Brien's production rewards that restraint, giving the single kick drum a fullness and presence in the mix that double-kick saturation would have obscured.`
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vater',
+          model: 'Vater American Hickory',
+          notes: 'Hickory construction — power for heavy sections, sensitivity for ghost notes and melodic cymbal work',
+          description: `Vater drumsticks in American hickory provide the balance Dailor's playing demands: enough mass for Mastodon's heaviest passages, enough sensitivity for the ghost note work and nuanced cymbal playing that distinguish *Crack the Skye*. Hickory's density sits between the lighter maple (speed-oriented) and heavier oak (maximum power), making it the professional standard for a player who operates across a wide dynamic range within single songs.`
+        },
+        {
+          type: 'Drumheads (Toms, Batter)',
+          brand: 'Remo',
+          model: 'Remo Emperor Coated',
+          notes: 'Two-ply warmth for melodic tom resonance — sustain and tone without excess overtones'
+        },
+        {
+          type: 'Drumheads (Bass, Batter)',
+          brand: 'Remo',
+          model: 'Remo Powerstroke 3',
+          notes: 'Controlled kick attack and low-end presence for studio recording'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Tama',
+          model: 'Tama Titan Hi-Hat Stand',
+          notes: 'Heavy-duty stand for aggressive footwork across extended live performances'
+        },
+        {
+          type: 'Throne',
+          brand: 'Roc-N-Soc',
+          model: 'Roc-N-Soc Nitro Throne',
+          notes: 'Essential comfort for extended studio sessions at Doppler Studios'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke 3 (batter), Remo Powerstroke 3 ported (resonant)',
+        toms: 'Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)',
+        snare: 'Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)'
+      }
+    },
+    recordingTechniques: {
+      title: 'Doppler Studios with Brendan O\'Brien: Capturing the Melodic Drummer',
+      content: `The choice of Brendan O'Brien as producer for *Crack the Skye* was significant for Dailor's drum sound. O'Brien is not a producer associated with metal — his primary discography includes Pearl Jam, Bruce Springsteen, Stone Temple Pilots, and AC/DC's *Black Ice*. What he brought to Mastodon was a rock producer's instinct for natural, dynamic, room-aware drum sounds — exactly what Dailor's playing philosophy required.
+
+**Doppler Studios, Atlanta:**
+Doppler Studios is a world-class facility in Atlanta — the same city where Mastodon formed and developed their sound. Recording in familiar territory, with a studio environment large enough to let the kit breathe, gave the *Crack the Skye* sessions an organic quality that suits the album's atmospheric ambitions. O'Brien used the room consciously: overheads and room mics capture the Tama Starclassic's natural resonance as much as the close mics capture individual drum attacks.
+
+**O'Brien's Philosophy:**
+Unlike the heavily-gated, close-miked drum sound that dominated metal production through the 2000s, O'Brien prioritized the relationship between the drums and the room. The result is a drum sound that lives in a physical space — dimensional, with ambience and depth that makes Dailor's melodic tom work audible as musical phrases rather than percussive events.
+
+**Microphone Approach (O'Brien-typical):**
+- Kick: Combination of inside dynamic (AKG D112 or Shure Beta 52) and outside condenser for tone
+- Snare: Shure SM57 top and bottom — capturing the full snare response for ghost notes
+- Toms: Sennheiser MD421 per tom — mid-forward sound that captures the Starclassic's pitch
+- Hi-hat: Small-diaphragm condenser (AKG C451 or similar) — detail in fast patterns
+- Overheads: Spaced pair of large-diaphragm condensers — Neumann U87s or similar
+- Room: Ambient mics capturing Doppler's natural reverb
+
+**The Ghost Note Challenge:**
+Recording Dailor's ghost note density requires careful snare mic placement and gain staging. Too little gain and the ghosts disappear; too much and the track becomes muddy. O'Brien's background recording singers and dynamics-conscious rock bands gave him the sensitivity to balance Dailor's soft strokes with the hard backbeats.`,
+      keyTechniques: [
+        'Room-aware recording at Doppler Studios — natural ambience captured, not gated out',
+        'O\'Brien\'s rock production instincts applied to progressive metal — dimensional drum sound',
+        'Snare miked for ghost note clarity — top and bottom mics for full dynamic range',
+        'Toms miked for pitch — Sennheiser MD421 captures the Starclassic Maple\'s melodic resonance'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'Crack the Skye',
+        bpm: '130–152 (varies across sections)',
+        signature: '7/4 and 4/4 alternating',
+        highlights: [
+          '7-over-4 polyrhythmic patterns define the title track — Dailor\'s most studied rhythmic construction',
+          'The 7/4 sections create rhythmic displacement that suits the album\'s time-loop concept thematically',
+          'Istanbul Agop ride used as atmospheric wash in the quieter mid-section',
+          'Single-kick groove patterns in odd time demonstrate why double bass would have cluttered the arrangement'
+        ],
+        gearNotes: 'The Starclassic\'s maple warmth is essential in the quieter 7/4 passages — the toms need to sing, not punch, to work as melodic counter-lines. The Agop ride\'s complexity adds atmospheric colour.'
+      },
+      {
+        track: 'The Czar',
+        bpm: '120–168 (dramatic tempo changes across 10+ minutes)',
+        signature: '4/4 with frequent metric modulation',
+        highlights: [
+          'Ten-minute epic — Dailor\'s most comprehensive single-track performance on the album',
+          'Opens with flowing tom melodics that function as an equal melodic voice to the guitars',
+          'Tempo and feel shift dramatically between sections — from atmospheric to full-assault metal',
+          'Ghost note density in the quieter sections demonstrates jazz vocabulary in prog metal context'
+        ],
+        gearNotes: 'The three-rack-tom (10", 12", 13") melodic palette is showcased throughout the opening section. Istanbul Agop crashes\' dark bloom suits the dynamic shifts between the Czar\'s contrasting sections.'
+      },
+      {
+        track: 'Oblivion',
+        bpm: '128',
+        signature: '4/4',
+        highlights: [
+          'Dailor\'s vocals are most prominent here — dual drummer-vocalist role at its clearest',
+          'Groove-focused playing contrasting with the complexity of "The Czar" — melodic restraint serving the song',
+          'Hi-hat work carries intricate pattern underneath Brent Hinds\'s vocal melody',
+          'Demonstrates Dailor\'s ability to play supportively when the song requires it'
+        ],
+        gearNotes: 'The Agop 14" hi-hats\' warmth is particularly audible on "Oblivion" — fast, articulate patterns with musical character throughout.'
+      },
+      {
+        track: 'The Last Baron',
+        bpm: '96–144 (evolves across 13 minutes)',
+        signature: '4/4 with progressive metric development',
+        highlights: [
+          'Thirteen-minute album closer — longest and most ambitious track on the record',
+          'Builds from near-silence to full-band assault, requiring enormous dynamic range from the kit',
+          'Dailor\'s restraint in the quiet opening sections is as impressive as the density of the climax',
+          'Closes the album\'s conceptual arc — drumming serves the narrative resolution'
+        ],
+        gearNotes: 'The full Istanbul Agop cymbal palette is used across "The Last Baron\'s" range — from the subtle wash of the ride\'s bow in quiet passages to the full crash of the 20" at climactic moments.'
+      }
+    ],
+    faq: [
+      {
+        question: 'What drums does Brann Dailor use on Crack the Skye?',
+        answer: `Brann Dailor recorded *Crack the Skye* (2009) on his long-established Tama Starclassic Maple kit. The 100% maple shells provide the warm, resonant tone his melodic drumming philosophy demands — these drums are tuned to function as melodic instruments, not just rhythmic support. His *Crack the Skye* configuration included a single 22" bass drum, three rack toms (10", 12", and 13") tuned in musical intervals, and a 16" floor tom. The Tama Starclassic was his primary kit across Mastodon's entire formative period, from *Leviathan* (2004) through *Emperor of Sand* (2017). For the complete Brann Dailor gear profile across all eras, see the [Brann Dailor drummer profile](/drummer/brann-dailor).`
+      },
+      {
+        question: 'What cymbals does Brann Dailor use on Crack the Skye?',
+        answer: `Brann Dailor's cymbal setup on *Crack the Skye* was built around Istanbul Agop's Traditional series — hand-hammered Turkish cymbals known for their warm, complex, dark character. His setup included 14" Traditional hi-hats, crashes in 18" and 20", and a 22" Traditional Ride. Istanbul Agop's warmth and atmospheric tonal development suit *Crack the Skye*'s progressive and psychedelic character far better than brighter, more aggressive cymbal options. The ride cymbal in particular is used as a textural colour layer throughout the album's ambient passages. For comparison with modern cymbal options that approximate Istanbul Agop's warmth, see the [obZen drum setup article](/articles/obzen-drum-setup) covering Fredrik Thordendal and Tomas Haake's approach.`
+      },
+      {
+        question: 'What makes Brann Dailor\'s drumming style unique on Crack the Skye?',
+        answer: `Brann Dailor's drumming on *Crack the Skye* is unique for applying a jazz-influenced melodic vocabulary to progressive metal at its most sophisticated. The key elements: toms tuned in musical intervals and integrated throughout arrangements as counter-melodies (not just fills); extensive ghost note work derived from jazz's constant-hand-motion technique, audible throughout the album's quieter passages; and a single-bass-drum groove philosophy across a concept album where double-kick would have cluttered the harmonic space. His dual role as drummer and vocalist is also at its most prominent on *Crack the Skye* — he performs demanding drum parts while singing harmonies and melody lines simultaneously. The result is drumming that functions compositionally, not just rhythmically. For technique breakdowns and lick analysis: [Brann Dailor licks and technique at MetalForge](/drummer/brann-dailor/licks).`
+      },
+      {
+        question: 'Does Brann Dailor use double bass pedal on Crack the Skye?',
+        answer: `No — Brann Dailor plays a single bass drum with a single Tama Iron Cobra pedal throughout *Crack the Skye*, one of his most musically consequential gear decisions. In a genre where double-kick saturation is standard, Dailor drives Mastodon's most progressive and harmonically rich album with one foot. This choice reflects his jazz-influenced philosophy: the bass drum is a groove instrument, not a speed demonstration. Single-kick patterns with precise note placement give *Crack the Skye*'s rhythm section its musical quality — the warmth and space that double-kick density would have replaced. Producer Brendan O'Brien's mix rewards this restraint, giving the single kick a fullness that anchors the arrangement without dominating it. For broader context on polyrhythmic drumming approaches that achieve complexity without double-bass speed, see the [polyrhythms technique guide](/techniques/polyrhythms).`
+      },
+      {
+        question: 'What are the polyrhythm patterns in Crack the Skye?',
+        answer: `The most analyzed polyrhythmic construction on *Crack the Skye* appears in the title track itself, which alternates between 7/4 and 4/4 time signatures in a way that creates rhythmic displacement — patterns that cycle against each other rather than resolving at a shared downbeat. Dailor's ability to navigate these odd-meter sections while maintaining the groove feel (rather than merely executing the math) is what distinguishes the performance. "The Czar" also features metric modulation — gradual tempo shifts that change the felt pulse without a clear beat-one moment of change. These techniques align with the album's conceptual themes of time loops and non-linear consciousness; the music and the narrative share a rhythmic philosophy. For deeper technique exploration: [Brann Dailor signature lick breakdowns](/drummer/brann-dailor/licks) and the [polyrhythms technique guide](/techniques/polyrhythms).`
+      }
+    ],
+    evolution: {
+      title: "From Crack the Skye to Emperor of Sand: Brann Dailor's Gear Evolution",
+      content: `*Crack the Skye* represents Brann Dailor's gear in its most precisely calibrated form for progressive studio work. The Tama Starclassic Maple foundation, Istanbul Agop Traditional cymbals, and Vater sticks remained consistent across subsequent albums, but their application evolved as Mastodon's music shifted.
+
+**The Hunter (2011) and Accessibility:**
+Mastodon's next album streamlined its approach for greater commercial accessibility. Dailor's gear remained consistent — the same Tama / Istanbul Agop foundation — but the applications became more direct. Shorter songs, clearer structures, and Billboard 200 Top 10 success. The kit that produced *Crack the Skye*'s progressive complexity proved equally suited to more accessible material.
+
+**Once More 'Round the Sun (2014) and Live Application:**
+The touring demands of Mastodon's expanding success required Dailor's setup to translate reliably to arena stages. The Tama Starclassic's projection and Istanbul Agop's musical warmth survived the transition from Doppler Studios' controlled environment to large live venues — a testament to the quality of both the gear and the setup.
+
+**Emperor of Sand (2017) — Grammy-Nominated Consistency:**
+Nominated for the Grammy for Best Metal Performance, *Emperor of Sand* was recorded on effectively the same kit configuration as *Crack the Skye*, eight years later. The Tama Starclassic Maple and Istanbul Agop combination remained Dailor's core setup — gear that had proven its capability for the highest-level progressive metal production.`,
+      thenVsNow: [
+        { category: 'Kit', then: 'Tama Starclassic Maple (2009 configuration)', now: 'Tama Starclassic Maple — same family, refined over 15+ years of development' },
+        { category: 'Cymbals', then: 'Istanbul Agop Traditional Series', now: 'Istanbul Agop Traditional — consistent across entire Mastodon era' },
+        { category: 'Pedal', then: 'Tama Iron Cobra (single pedal)', now: 'Tama Iron Cobra or Speed Cobra (single pedal philosophy unchanged)' },
+        { category: 'Sticks', then: 'Vater American Hickory', now: 'Vater sticks — consistent endorsement' },
+        { category: 'Heads', then: 'Remo Emperor Coated (toms), Remo Powerstroke 3 (kick)', now: 'Remo heads — consistent across Mastodon career' }
+      ]
+    },
+    videos: [],
+    relatedAlbums: ['images-and-words-drum-setup', 'obzen-drum-setup'],
+    relatedDrummers: [16],
+    relatedArticles: ['progressive-metal-drum-setups', 'most-innovative-drummers'],
+    relatedLicks: [
+      { drummerSlug: 'brann-dailor', lickSlug: 'brann-dailor-crack-the-skye-tom-melodics', label: "Watch Brann Dailor's Crack the Skye melodic tom technique breakdown" }
+    ],
+    internalLinks: [
+      { text: 'Brann Dailor drummer profile', url: '/drummer/brann-dailor' },
+      { text: 'Brann Dailor licks and technique breakdowns', url: '/drummer/brann-dailor/licks' },
+      { text: 'Polyrhythms technique guide', url: '/techniques/polyrhythms' },
+      { text: 'obZen drum setup', url: '/articles/obzen-drum-setup' },
+      { text: 'Brann Dailor Mastodon drum setup overview', url: '/articles/brann-dailor-mastodon-drum-setup' }
+    ],
+    schema: {
+      '@context': 'https://schema.org',
+      '@graph': [
+        {
+          '@type': 'Article',
+          headline: "Crack the Skye Drum Setup: Brann Dailor's Gear on Mastodon's Masterwork",
+          description: "The complete breakdown of Brann Dailor's drum setup on Mastodon's Crack the Skye (2009). Tama Starclassic Maple, Istanbul Agop cymbals, and the recording techniques behind progressive metal's most melodically sophisticated drum performance.",
+          author: {
+            '@type': 'Organization',
+            name: 'MetalForge Editorial'
+          },
+          datePublished: '2026-06-23',
+          dateModified: '2026-06-23'
+        },
+        {
+          '@type': 'MusicAlbum',
+          name: 'Crack the Skye',
+          byArtist: {
+            '@type': 'MusicGroup',
+            name: 'Mastodon'
+          },
+          datePublished: '2009-03-24',
+          genre: 'Progressive Metal',
+          recordLabel: {
+            '@type': 'Organization',
+            name: 'Reprise Records'
+          },
+          track: [
+            { '@type': 'MusicRecording', name: 'Oblivion' },
+            { '@type': 'MusicRecording', name: 'Divinations' },
+            { '@type': 'MusicRecording', name: 'Quintessence' },
+            { '@type': 'MusicRecording', name: 'The Czar' },
+            { '@type': 'MusicRecording', name: 'Ghost of Karelia' },
+            { '@type': 'MusicRecording', name: 'Crack the Skye' },
+            { '@type': 'MusicRecording', name: 'The Last Baron' }
+          ]
+        },
+        {
+          '@type': 'Person',
+          name: 'Brann Dailor',
+          sameAs: 'https://metalforge.io/drummer/brann-dailor',
+          memberOf: {
+            '@type': 'MusicGroup',
+            name: 'Mastodon'
+          },
+          instrument: 'Drums'
+        }
+      ]
+    },
+    conclusion: {
+      title: 'Why Crack the Skye Remains the Definitive Brann Dailor Performance',
+      content: `*Crack the Skye* is the record that proves Brann Dailor's thesis: a drummer can be a melodist. Not in the decorative sense — not occasional melodic fills as contrast to the main rhythm — but fundamentally, structurally, as a matter of how every note is chosen. The toms aren't punctuation on *Crack the Skye*; they're melodic counterpoint. The ghost notes aren't texture; they're vocabulary. The single bass drum isn't a limitation; it's a musical choice that gives the album's rhythmic foundation its groove and breath.
+
+The gear behind that performance — Tama Starclassic Maple warmth, Istanbul Agop Traditional complexity, Vater sensitivity, single-pedal restraint — is in perfect service of the philosophy. Every component was chosen because it makes the music better, not because it impresses at a drum clinic. That alignment between gear, technique, and musical vision is what makes studying *Crack the Skye* so valuable for drummers who want to play with intention rather than display.
+
+**For Drummers Studying This Album:**
+Start with "Oblivion" — it is Dailor's most accessible performance on the album, where the melodic approach is audible even to listeners unfamiliar with progressive metal. Then move to the title track for the polyrhythmic construction, and finally "The Czar" for the complete picture of everything he is capable of in a single extended performance.
+
+The Istanbul Agop cymbals are the secret ingredient most drummers miss. A player who learns Dailor's tom patterns on a kit with bright, aggressive cymbals will sound wrong — the Agop warmth is integral to the overall texture that makes the melodic drumming work. Gear and technique are not separable on this album.
+
+For the complete exploration of Brann Dailor's playing approach and career gear:
+- **Full drummer profile**: [Brann Dailor at MetalForge](/drummer/brann-dailor)
+- **Signature lick breakdowns**: [Brann Dailor Lick Hub](/drummer/brann-dailor/licks)
+- **Mastodon career gear overview**: [Brann Dailor Mastodon Drum Setup](/articles/brann-dailor-mastodon-drum-setup)
+- **Polyrhythm technique context**: [Polyrhythms guide at MetalForge](/techniques/polyrhythms)
+- **LLM summary**: [Crack the Skye Drum Setup — LLM](/llms/articles/crack-the-skye-drum-setup.md)
+
+*Crack the Skye* is the album that earned Mastodon their Grammy nomination and their place in the Rolling Stone canon. Brann Dailor's drumming is the reason the album sounds like nothing else in metal — and understanding the gear, technique, and philosophy behind it is understanding one of the most original drum performances of the modern era.`
+    }
   }
 };
 

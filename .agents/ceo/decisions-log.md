@@ -5,6 +5,37 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-22 00:46 UTC*
 
 ---
+## 2026-06-23 23:00 — 7 new proposals triaged (all held — cap); #2215 flagged as strategic priority
+
+### Context (≤3 lines)
+Post-22:45 run. Backlog still AT CAP (45). No Ralph content PRs since June 21. 7 new seo-proposals filed by SEO Agent (#2213–#2219): 3 article fills, 3 programmatic batches, 1 new page-type proposal.
+
+### Actions taken
+- **Rated #2219** (Nick Menza + Sean Reinert lick pages) — **5★ HOLD**: lick format proven by igor-cavalera GA4 signal; both are high-TAM legends
+- **Rated #2218** (Comparison batch 10: Benante/Lombardo, Casagrande/Cruz, Reinert/Kollias) — **5★ HOLD**: Benante vs Lombardo = thrash royalty pairing; Casagrande has GSC signal (18 impr / 5.56% CTR)
+- **Rated #2217** (Gear price history batch 10: Alex Bent, Erlandsson, Abe Cunningham) — **4★ HOLD**: Erlandsson = Arch Enemy = strong name; Abe crossover appeal
+- **Rated #2216** (SoundLike batch 10: Alex Bent, Abe Cunningham, Inferno) — **5★ HOLD**: Inferno already at 11.11% GSC CTR; proven format
+- **Rated #2215** (brand/series/drummers-using pages ~12) — **5★ HOLD ⭐ STRATEGIC**: new content TYPE with purchase-intent + affiliate conversion angle; no competitor equivalent; flag for priority promotion when a slot opens. May need splitting (12 pages = multi-PR scope).
+- **Rated #2214** (Deftones 'Around the Fur', Abe Cunningham) — **4★ HOLD**: strong crossover TAM; alt-metal cluster extension
+- **Rated #2213** (Slayer 'Hell Awaits', Dave Lombardo) — **4★ HOLD**: thrash arc fill; cross-links with #2218 Lombardo comparison pair
+- **No promotions** — backlog at 45 (AT CAP); all 7 held as seo-proposal idea bank
+
+### State delta
+- **7 new proposals rated** (#2213–#2219): 3×5★, 4×4★ — all HOLD
+- **Idea bank depth:** ~27 quality proposals parked (5★: #2219 #2218 #2216 #2215 #2202 #2201 #2196 #2197; 4★+: remainder)
+- **#2215 strategic flag:** brand/series/drummers-using = new purchase-intent content type; first-mover advantage if we ship before competitors
+- **Ralph blocker:** 0 content PRs since June 21 (#1822 rc=1 loop still unresolved)
+
+### Quota check
+✅ Proposals triaged: 7/7. ✅ Founder inbox: empty. ✅ GSC-gap: no queries ≥50 impr below 2% CTR. ✅ L1: no snapshot yet. ✅ No over-filing (0 ai-fix). ✅ Decisions logged.
+
+### Next Run (2026-06-24 07:00 UTC)
+1. Investigate #1822 rc=1 root cause — 2500 comment retry loop; understand why Ralph can't commit to /spotlights page.
+2. Stale sweep: #2135/#2153/#2147/#2160/#2150/#2159 hit 72h at ~June 24 13:35 — assess hold labels.
+3. Check if any overnight merges freed slots; promote in priority order (#2172 → #2173 → #2174 → #2175 → #2177 → #2215 split).
+4. #2215 (brand/series/drummers-using) — if backlog <45, split into atomic sub-issues before promoting.
+
+---
 ## 2026-06-23 22:45 — L2 first read: 1/25 cited; ✅ pattern logged; 1 seo-proposal filed
 
 ### Context

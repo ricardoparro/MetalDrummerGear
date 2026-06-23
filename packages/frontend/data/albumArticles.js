@@ -15659,7 +15659,7 @@ Sean Reinert passed away in January 2020, but his innovations continue to influe
     },
     videos: [
     ],
-    relatedAlbums: ['symbolic-drum-setup', 'the-sound-of-perseverance-drum-setup', 'focus-drum-setup'],
+    relatedAlbums: ['symbolic-drum-setup', 'sound-of-perseverance-drum-setup', 'focus-drum-setup'],
     relatedDrummers: [3, 6, 21], // Gene Hoglan, George Kollias, Pete Sandoval
     relatedArticles: ['progressive-death-metal-drummers', 'jazz-influenced-metal-drummers'],
     conclusion: {
@@ -16650,7 +16650,7 @@ The 18" Byzance Brilliant China delivers the aggressive accent that defines thra
       { youtubeId: 'rawNLGxrKi4', title: 'Unleashing Creativity With Megadeth - Dirk Verbeuren (Drumeo)', description: 'Drumeo feature on Dirk Verbeuren\'s approach to drumming in Megadeth' },
       { youtubeId: 'Sxcwl3qXiDQ', title: 'Dirk Verbeuren\'s Mega Drum Kit Tour (Evans Drumheads)', description: 'Dirk Verbeuren gives a full tour of his Megadeth touring drum kit' }
     ],
-    relatedAlbums: ['dystopia-drum-setup', 'rust-in-peace-drum-setup', 'peace-sells-drum-setup'],
+    relatedAlbums: ['dystopia-drum-setup', 'rust-in-peace-drum-setup'],
     conclusion: {
       title: 'Thrash Royalty Earned',
       content: `Dirk Verbeuren didn't inherit Megadeth's drum throne — he earned it. When you join a band with the legacy of Gar Samuelson, Nick Menza, and countless other talented drummers, you're not just learning songs. You're becoming a steward of thrash metal history.
@@ -27273,7 +27273,7 @@ For the Fear Factory discography context and Herrera's career arc: [Raymond Herr
         answer: 'Raymond Herrera plays Zildjian Z Custom cymbals. His setup includes Z Custom 14" hi-hats, 16" and 18" crash cymbals, a 20" ride, and a china cymbal. The Z Custom series was designed for maximum projection and durability — machine-hammered B20 bronze construction with bright, cutting upper-frequency character. In Fear Factory\'s sonic environment, where down-tuned guitars and industrial processing fill the low and mid frequency range, the Z Custom\'s brightness places cymbal frequencies above the guitar mass where they can articulate Herrera\'s rhythmic patterns clearly. The series\' physical durability also suits Fear Factory\'s demanding touring schedule, resisting the edge cracking that thinner cymbals develop under sustained high-impact playing.'
       }
     ],
-    relatedAlbums: ['lars-ulrich-drum-setup', 'charlie-benante-drum-setup'],
+    relatedAlbums: ['master-of-puppets-drum-setup'],
     relatedDrummers: ['raymond-herrera', 'lars-ulrich'],
     relatedArticles: ['best-metal-double-kick-technique', 'blast-beat-technique'],
     conclusion: {
@@ -27296,7 +27296,7 @@ Study Demanufacture's "Replica" for the machine-gun double-kick approach. Study 
 
 For deeper exploration:
 - **Full drummer profile**: [Raymond Herrera at MetalForge](/drummer/raymond-herrera)
-- **Industrial metal gear context**: [Lars Ulrich drum setup — Metallica](/articles/lars-ulrich-drum-setup)
+- **Industrial metal gear context**: [Lars Ulrich drum setup — Metallica](/articles/master-of-puppets-drum-setup)
 - **Double bass technique**: [Double-bass drumming at MetalForge](/technique/double-bass-drumming)
 - **Trigger technique**: [Blast beat technique guide at MetalForge](/technique/blast-beat)`
     }

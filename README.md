@@ -81,6 +81,7 @@ Without `RESEND_API_KEY`, subscriptions still work but no welcome email is sent.
 - [Vercel Spend Management](docs/vercel-spend-management.md) - Cost controls and usage alerts setup
 - [Broken-image check](docs/broken-image-check.md) - Weekly crawler + umbrella issue model
 - [LLM citation check](docs/llm-citation-check.md) - Weekly auto-test for the "AI citations / week" sub-KPI
+- [GSC watch loop (L1)](docs/gsc-watch-loop.md) - Weekly Google organic verifier for the SEO Agent / Ralph pipeline
 
 ---
 *Built for metalheads, by metalheads* 🤘

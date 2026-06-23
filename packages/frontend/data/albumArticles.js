@@ -34677,7 +34677,8 @@ The gear behind that performance — a mid-90s budget recording setup at Studio 
 - [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson) — the Erlandsson family in the Gothenburg scene
 - [Reign in Blood drum setup](/articles/reign-in-blood-drum-setup) — the 1986 extreme metal blueprint that influenced the Gothenburg generation`
     }
-  }
+  },
+
   'paranoid-drum-setup': {
     slug: 'paranoid-drum-setup',
     albumTitle: 'Paranoid',

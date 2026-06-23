@@ -22,6 +22,10 @@ Rules:
 
 `long-tail gear-detail` + drummer profile page with structured gear inventory (brand/model per component) → L2 #2211 (2026-06-23) · Perplexity cited "what cymbals does joey jordison use" from our gear taxonomy data; specificity of component-level data matches the query granularity LLMs need for gear-detail answers. **Replicate to sibling queries:** what snare does X use, what cymbals does Y use, what bass drum does Z use.
 
+`head-term drummer kit` + drummer profile page with gear inventory → L1 2026-06-23 snapshot · 4 entities won (brann-dailor: impr 10→22; matt-greiner: pos 6.4→5.0 + first click; aquiles-priester: impr 0→11 first appearance; mario-duplantier: pos 7.3→5.5). Structured gear inventory drives Google organic ranking for "{drummer} drum kit" head-terms. **Note:** drives organic position but NOT LLM citation (L2 gap — complement with prose kit overview per #2212).
+
+`soundlike-guide` + HowTo + Article JSON-LD + ≥3 FAQs + internal links → pattern established from existing guides; now applying to Eloy Casagrande, Charlie Benante, Hellhammer, Aquiles Priester via #2224–#2227. First-mover advantage in black metal (Hellhammer) and neoclassical metal (Aquiles) sub-niches.
+
 ---
 
 ## ❌ Do-not-promote patterns

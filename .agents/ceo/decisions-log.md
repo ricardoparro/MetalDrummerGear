@@ -5,6 +5,37 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-22 00:46 UTC*
 
 ---
+## 2026-06-24 07:00 — L1 patterns logged (4 wins); #2135 split (4 atomic); Ralph active with 3 PRs
+
+### Context (≤3 lines)
+Morning deep run. First full L1 snapshot available (gsc-watch-snapshot.md generated 22:51 UTC June 23). Ralph reactivated — 3 PRs opened overnight (#2221 Bill Ward, #2222 Brann Dailor Crack the Skye, #2223 slug fixes). Backlog: 45 (AT CAP, but 3 PRs pending merge will open slots).
+
+### Actions taken
+- **L1 pattern logging (4 wins):** Appended 2 new patterns to `learned-patterns.md`:
+  - `head-term drummer kit` + structured gear inventory → 4-entity win cluster (brann-dailor, matt-greiner, aquiles-priester, mario-duplantier). Drives Google position but NOT LLM citation — complement with prose kit overview (#2212).
+  - `soundlike-guide` + HowTo/Article JSON-LD + ≥3 FAQs → established pattern, now extending to 4 new guides via splits.
+- **L1 no-data cross-check:** `fastest metal drummer` + `lars ulrich drum kit` both show no-data (impr=0). Cross-checked vs broken-images umbrella (#1872 = /gear/snares only). No overlap → no escalation. These watches are simply new and not yet surfacing.
+- **L1 losses:** 0 — no regression issues opened.
+- **Atomic split #2135 → #2224–#2227:** SoundLike batch 5 (3 days stale, 0 watcher activity, 4 deliverables). Closed #2135 as `not_planned`. 4 atomic issues: Eloy Casagrande (#2224), Charlie Benante (#2225), Hellhammer (#2226), Aquiles Priester (#2227). Each = 1 guide + 1 LLM file — watcher-pickable.
+- **Stale sweep deferred:** #2150 (Comparison pairs batch 5, also 3 days stale, 0 comments) — deferred to 13:00 run to stay within spirit of cap. Ralph's 3 PRs should merge by then (backlog ~42).
+- **No promotions:** Backlog 45 → AT CAP. No new ai-fix from seo-proposals.
+
+### State delta
+- **learned-patterns.md:** 3 ✅ entries total (was 1 yesterday; now 3 after 2 new L1 appends)
+- **Split #2135 closed:** replaced by #2224/#2225/#2226/#2227 (net backlog: 45→48, but 3 pending PR merges will return to ~45)
+- **Ralph online:** 3 PRs active; rc=1 loop isolated to #1822 (/spotlights, `hold` label applied)
+- **#1822 status:** 2500 comments, hold label applied — no new action; tracked in pending-issues
+
+### Quota check
+✅ L1 read: 4 wins logged, 0 losses, 2 no-data cross-checked. ✅ Founder inbox: empty. ✅ Atomic split: #2135 done. ✅ No L1/L2 overfile (0 ai-fix from verifiers, splits are operational). ✅ Decisions logged.
+
+### Next Run (13:00 UTC)
+1. Split #2150 (Comparison pairs batch 5 → 4 atomic comparison issues) — pending Ralph PRs merging first.
+2. If backlog <45 after PR merges: promote in priority order (#2224 → #2225 already ai-fix; check #2172 → #2173 → #2215 split).
+3. Check #1822 rc=1 root cause — can we diagnose why /spotlights fails without just re-opening the loop?
+4. Triage any new seo-proposals from SEO Agent.
+
+---
 ## 2026-06-23 23:00 — 7 new proposals triaged (all held — cap); #2215 flagged as strategic priority
 
 ### Context (≤3 lines)

@@ -1,0 +1,136 @@
+name: Check LLM citations
+
+# Weekly auto-test for the "AI citations / week" sub-KPI: for each query in
+# .agents/llm-citation-targets.json, ask an LLM (Perplexity to start) and
+# check whether metalforge.io appears in the response body or in the cited
+# URLs. Maintains a SINGLE umbrella issue labelled `llm-citations` (open /
+# edit / close), same lifecycle as check-broken-images.yml.
+#
+# Secrets required: PERPLEXITY_API_KEY (Pro tier ~$5/mo covers ~50 queries/wk).
+# If the secret is absent, the script exits 1 BEFORE touching the issue, so
+# the workflow is safe to merge before adding the key.
+
+on:
+  workflow_dispatch:
+    inputs:
+      targets:
+        description: 'Targets JSON path (default .agents/llm-citation-targets.json)'
+        required: false
+        default: '.agents/llm-citation-targets.json'
+  schedule:
+    # Mondays 07:30 UTC, after check-broken-images runs at 06:30.
+    - cron: '30 7 * * 1'
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: check-llm-citations
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run LLM citation crawler
+        env:
+          PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
+          TARGETS: ${{ inputs.targets || '.agents/llm-citation-targets.json' }}
+        run: |
+          node .agents/scripts/check-llm-citations.cjs \
+            --targets "$TARGETS" \
+            --out llm-citations.json
+
+      - name: Summarize report
+        id: summary
+        run: |
+          node -e '
+            const r = require("./llm-citations.json");
+            const fs = require("fs");
+            fs.appendFileSync(process.env.GITHUB_OUTPUT,
+              `not_cited=${r.queriesNotCitedAny}\n` +
+              `cited=${r.queriesCitedAny}\n` +
+              `errored=${r.queriesErrored}\n` +
+              `total=${r.queriesTotal}\n` +
+              `generated_at=${r.generatedAt}\n`);
+          '
+
+      - name: Build issue body
+        if: steps.summary.outputs.not_cited != '0'
+        run: |
+          node .agents/scripts/render-llm-citation-issue.cjs \
+            --report llm-citations.json \
+            --out issue-body.md
+
+      - name: Find existing umbrella issue
+        id: existing
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          n=$(gh issue list \
+                --repo "${{ github.repository }}" \
+                --state open \
+                --label llm-citations \
+                --json number,title \
+                --jq '[.[] | select(.title | startswith("LLM citation gaps"))][0].number // ""')
+          echo "number=$n" >> "$GITHUB_OUTPUT"
+
+      - name: Open / update / close umbrella issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NOT_CITED: ${{ steps.summary.outputs.not_cited }}
+          CITED: ${{ steps.summary.outputs.cited }}
+          TOTAL: ${{ steps.summary.outputs.total }}
+          EXISTING: ${{ steps.existing.outputs.number }}
+        run: |
+          set -euo pipefail
+          if [ "$NOT_CITED" = "0" ]; then
+            if [ -n "$EXISTING" ]; then
+              echo "All queries cite us — closing issue #$EXISTING."
+              gh issue close "$EXISTING" \
+                --repo "${{ github.repository }}" \
+                --comment "🤖 Weekly LLM citation check found 0 gaps on $(date -u +%Y-%m-%d) (${CITED}/${TOTAL} cited). Closing."
+            else
+              echo "All clear. No umbrella issue exists, nothing to do."
+            fi
+            exit 0
+          fi
+
+          TITLE="LLM citation gaps (${NOT_CITED} of ${TOTAL} queries do not cite metalforge.io)"
+          if [ -n "$EXISTING" ]; then
+            echo "Updating #$EXISTING."
+            gh issue edit "$EXISTING" \
+              --repo "${{ github.repository }}" \
+              --title "$TITLE" \
+              --body-file issue-body.md
+            gh issue comment "$EXISTING" \
+              --repo "${{ github.repository }}" \
+              --body "🤖 Weekly LLM citation check refreshed $(date -u +%Y-%m-%dT%H:%MZ): ${NOT_CITED} gaps, ${CITED}/${TOTAL} cited."
+          else
+            echo "Opening new umbrella issue."
+            gh issue create \
+              --repo "${{ github.repository }}" \
+              --title "$TITLE" \
+              --body-file issue-body.md \
+              --label llm-citations \
+              --label seo-proposal
+          fi
+
+      - name: Upload report artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: llm-citations-report-${{ github.run_id }}
+          path: |
+            llm-citations.json
+            issue-body.md
+          retention-days: 90
+          if-no-files-found: ignore

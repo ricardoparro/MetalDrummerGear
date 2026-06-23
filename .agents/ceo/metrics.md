@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-22 23:31 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-23 00:42 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 88 |
-| Sessions | 114 |
-| Page views | 271 |
-| Engagement rate | 57.02% |
-| Avg session (s) | 593 |
+| Active users | 87 |
+| Sessions | 113 |
+| Page views | 273 |
+| Engagement rate | 55.75% |
+| Avg session (s) | 600 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -32,30 +32,30 @@
 | Channel | Sessions | Users |
 | --- | --- | --- |
 | Organic Search | 61 | 56 |
-| Direct | 49 | 29 |
-| Unassigned | 19 | 18 |
+| Direct | 48 | 28 |
+| Unassigned | 21 | 20 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 1,706 |
-| Clicks | 38 |
-| CTR | 2.23% |
-| Avg position | 8.8 |
+| Impressions | 1,484 |
+| Clicks | 37 |
+| CTR | 2.49% |
+| Avg position | 8.9 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| joey jordison drum kit | 79 | 2 | 2.53% | 8.3 |
-| matt greiner drum setup | 12 | 2 | 16.67% | 7.4 |
-| eloy casagrande drum kit | 13 | 1 | 7.69% | 9.1 |
+| joey jordison drum kit | 67 | 2 | 2.99% | 8.6 |
+| matt greiner drum setup | 10 | 2 | 20.00% | 7.5 |
+| eloy casagrande drum kit | 12 | 1 | 8.33% | 9.0 |
 | gene hoglan drum kit | 2 | 1 | 50.00% | 8.0 |
 | jaska raatikainen drum set | 1 | 1 | 100.00% | 2.0 |
-| joey jordison drum kit for sale | 5 | 1 | 20.00% | 5.8 |
 | joey jordison iowa drum kit | 4 | 1 | 25.00% | 7.8 |
 | matt garstka drum kit | 7 | 1 | 14.29% | 6.9 |
 | matt greiner drum kit | 2 | 1 | 50.00% | 5.0 |
 | aquiles priester drum kit | 11 | 0 | 0.00% | 7.6 |
+| aquiles priester drum set | 2 | 0 | 0.00% | 12.0 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 _no significant gaps detected — all queries with traction have decent CTR_

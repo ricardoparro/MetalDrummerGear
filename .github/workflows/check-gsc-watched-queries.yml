@@ -94,6 +94,16 @@ jobs:
               `wins=${wins}\nlosses=${losses}\nactionable=${actionable}\ntotal=${r.watchesTotal}\n`);
           '
 
+      - name: Ensure umbrella label exists
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh label create gsc-watch \
+            --repo "${{ github.repository }}" \
+            --color C5DEF5 \
+            --description "Auto-managed by check-gsc-watched-queries.yml — single umbrella issue per repo" \
+            2>/dev/null || true
+
       - name: Find existing umbrella issue
         id: existing
         env:

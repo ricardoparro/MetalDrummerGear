@@ -70,6 +70,20 @@ jobs:
             --report llm-citations.json \
             --out issue-body.md
 
+      - name: Ensure umbrella label exists
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # Idempotent: `gh label create` errors if the label exists, so swallow
+        # that. The label only needs to exist once per repo; we create it here
+        # so the workflow is self-bootstrapping (no manual `gh label create`
+        # step required after `feat/llm-citation-check` lands).
+        run: |
+          gh label create llm-citations \
+            --repo "${{ github.repository }}" \
+            --color BFD4F2 \
+            --description "Auto-managed by check-llm-citations.yml — single umbrella issue per repo" \
+            2>/dev/null || true
+
       - name: Find existing umbrella issue
         id: existing
         env:

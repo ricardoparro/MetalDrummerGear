@@ -81,6 +81,16 @@ jobs:
             echo '__BODY_EOF__'
           } >> "$GITHUB_OUTPUT"
 
+      - name: Ensure umbrella label exists
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh label create broken-images \
+            --repo "${{ github.repository }}" \
+            --color D93F0B \
+            --description "Auto-managed by check-broken-images.yml — single umbrella issue per repo" \
+            2>/dev/null || true
+
       - name: Find existing umbrella issue
         id: existing
         env:

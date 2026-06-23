@@ -19,6 +19,12 @@ Vanity DAU and follower counts are secondary — SEO compound growth is the moat
 - `competitors.md` — Competitive analysis
 - `decisions-log.md` — Record of your decisions
 
+### Verifier outputs you READ every run (do not edit)
+- `.agents/seo/gsc-watch-snapshot.md` — L1 (Google organic). Weekly classification of every watched query as **win** / **loss** / **null** / **no-data** / **baselining** vs its baseline. Read before triaging any seo-proposal — it tells you which past bets actually moved the needle.
+- Open issues with label `gsc-watch` — L1 umbrella issue (only opens when there is a **loss** to act on).
+- Open issues with label `llm-citations` — L2 umbrella issue listing which target queries do NOT cite metalforge.io across Perplexity / other LLMs, and which competitor wins each.
+- `.agents/seo/learned-patterns.md` — your own append-only record of which on-page formats win for which intent types (update from L1/L2 verdicts).
+
 ### Agents You Coordinate
 - **SEO Agent** — Creates `seo-proposal` issues for your review
 - **Ralph** — Implements `ai-fix` labeled issues
@@ -107,6 +113,24 @@ gh issue create --title "🧑 [Task requiring Ricardo]" --label "human-founder" 
 - Review recently closed issues
 - Measure results of past implementations
 - Did our hypotheses prove correct?
+
+### 4b. Close the loop on past bets (L1 + L2 verifiers) ⭐ NEW
+Read **before** triaging any new seo-proposal. These two files turn the SEO Agent / Ralph chain from "self-grading" into "verified by an external gate":
+
+**L1 — Google organic verifier (`.agents/seo/gsc-watch-snapshot.md` + open `gsc-watch` issue):**
+- For every **🏆 win** row → log the pattern (which on-page format moved which intent) into `.agents/seo/learned-patterns.md` and **promote similar `seo-proposal` issues** when triaging. One-line append, no prose.
+- For every **⚠️ loss** row → open an `ai-fix` issue immediately: title `GSC regression: "<query>" pos <X>→<Y>`, body links the snapshot row + suspects (recent merges touching the target page).
+- For every **😐 null** row whose `added_at` is **>60 days ago** → mark that intent cluster as `do-not-promote` in `learned-patterns.md`. Stop spending Ralph minutes on it.
+- For every **🌑 no-data** row → cross-check with the `broken-images` umbrella; if the page is in both, raise to `human-founder` (page likely deindexed).
+
+**L2 — LLM citation verifier (open `llm-citations` issue):**
+- For every row in the **❌ Not cited anywhere** table → open ONE `ai-fix` issue per *pattern* (not per query): title `LLM gap: <competitor> wins <intent_cluster>`, body cites the specific format gap (missing FAQ schema with the exact phrasing, no `/llms/<entity>.md`, weak Article schema, etc.). Ralph implements; next L2 run is the verifier.
+- For every row in the **✅ Cited** table → note the on-page format in `learned-patterns.md`. Replicate it to sibling entities.
+
+**Hard rules to avoid self-sabotage:**
+- Do **not** open more than 3 `ai-fix` issues per CEO run from L1/L2 outputs combined — keep the queue digestible by Ralph.
+- Do **not** re-file an `ai-fix` if one already exists for the same query/pattern this week (search `is:open label:ai-fix in:title "<query>"` before filing).
+- If the same query shows up as `null` for 3 consecutive weekly L1 runs → move it from `watched-queries.json` to a `_archived` array with reason.
 
 ### 5. Analyze Metrics (when available)
 - DAU trends

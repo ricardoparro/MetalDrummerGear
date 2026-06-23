@@ -5,6 +5,48 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-22 00:46 UTC*
 
 ---
+## 2026-06-23 21:08 — 3 Ralph-stuck issues held, 7 proposals rated, 3 promotions (42→45)
+
+### Context
+Evening run. Metrics fresh 21:08 UTC: 96 users / 123 sessions / 2,017 impr / 50 clicks / 2.48% CTR / pos 8.7 — **CTR at 2.48%, highest recorded; impressions up to 2,017**. 0 open PRs. 7 unreviewed seo-proposals (#2196–#2202, filed 2026-06-21 13:47–13:50, missed in prior run). Eligible backlog entering run: 45.
+
+### Actions taken
+- **Held 3 stale Ralph rc=1 issues** (add "hold" label — stop wasted retry cycles):
+  - **#1822** (/spotlights sitemap+SSR+CollectionPage) — **2500 comments** of "Ralph produced no commits (rc=1)"; catastrophic retry loop. Held pending investigation.
+  - **#1824** (/history CollectionPage+FAQPage) — 98 comments, same failure pattern.
+  - **#1825** (Inferno Behemoth 'The Satanist' article) — 81 comments, same failure.
+  - Backlog after holds: 45 → 42 (sparingly zone unlocked).
+- **Rated 7 new seo-proposals — all HOLD (cap target 45):**
+  - **#2202** HowTo JSON-LD on 14 SoundLike guide pages — 5★ (schema unlock for AI Overview across proven high-CTR guides)
+  - **#2201** Meshuggah 'Chaosphere' (1998) — 5★ (fills DEI→Nothing arc; sequence after #2129 DEI ships)
+  - **#2200** Children of Bodom 'Are You Dead Yet?' (2005) — 4★ (CoB arc extension; after #2160 Hatebreeder)
+  - **#2199** Top-10 batch 6 (technical-death, grindcore, viking/folk) — 4★ (niche genres, solid catalog depth)
+  - **#2198** Comparison pairs batch 9 (Ilejay/Weinberg, Augusto/Richardson, Travis/McBrain) — 4★ (Weinberg+McBrain have TAM)
+  - **#2197** Gear price history batch 9 (Garstka, Augusto, Aquiles) — 5★ (Aquiles GSC signal + Garstka GA4)
+  - **#2196** SoundLike batch 9 (Jaska, Shannon Larkin, Luzier) — 5★ (Jaska 50% CTR + Shannon GA4)
+- **Promoted 3 to ai-fix (backlog 42→45, at cap):**
+  - **#2164** Comparison pairs batch 7 (Dailor/Portnoy, Carey/Harrison, Duplantier/Kollias) — all-signal pairs; LLM citation + GSC coverage
+  - **#2162** Morbid Angel 'Blessed Are the Sick' (Pete Sandoval, 1991) — pivotal death metal arc gap
+  - **#2154** Gojira 'The Link' (Mario Duplantier, 2003) — 20% GSC CTR; Terra Incognita→FMtS gap
+- **Strategic note:** PRs #2206 + #2207 (weekly GSC-gap verifier L1 + LLM-citation auto-test L2) merged today — automated loops now active; will generate structured proposals going forward.
+
+### State delta
+- **ai-fix eligible backlog: 45 → 42 (3 holds) → 45 (3 promotions) — AT CAP**
+- **Held idea bank:** 7 new (#2196–#2202) + all prior held ≈ 56 quality proposals queued
+- **Ralph blocker:** #1822 with 2500 retry comments is the most alarming signal — investigate root cause in next deep run
+- **CTR milestone:** 2.48% (new high; up from 2.22% prior peak)
+- **New automated loops:** GSC-gap verifier + LLM-citation test now running weekly
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 rated (all held — cap). ✅ GSC-gap: no queries ≥50 impr below 2% CTR (dashboard clean). ✅ Stale sweep: #1822/#1824/#1825 held (4 days old, rc=1 loop stopped). ✅ Promotions: 3 (backlog at 45). ✅ Decisions logged.
+
+### Next Run (2026-06-24 07:00 UTC)
+1. Count Ralph PRs overnight — promote in priority order (#2172 Death Spiritual Healing → #2173 A7X → #2174 CC Tomb → #2175 Trivium Shogun → #2177 comparison batch 8) as slots open.
+2. Investigate #1822 rc=1 root cause — 2500 retry loop is waste; look at spotlights page component to understand why Ralph can't commit.
+3. GSC watch: CTR at 2.48% (new high) — watch for further lift as recent content batch indexes.
+4. New automated loops active — expect GSC-gap verifier to generate proposals; triage immediately on next morning run.
+
+---
 ## 2026-06-21 13:35 — 7 PRs merged, 7 proposals rated (all held), 6 backlog slots refilled
 
 ### Context

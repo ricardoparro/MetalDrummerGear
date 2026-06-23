@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-23 03:09 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-23 05:22 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 89 |
-| Sessions | 115 |
-| Page views | 275 |
-| Engagement rate | 54.78% |
-| Avg session (s) | 590 |
+| Active users | 91 |
+| Sessions | 117 |
+| Page views | 277 |
+| Engagement rate | 53.85% |
+| Avg session (s) | 581 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -31,31 +31,31 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 63 | 58 |
+| Organic Search | 65 | 60 |
 | Direct | 48 | 28 |
 | Unassigned | 22 | 21 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 1,484 |
-| Clicks | 37 |
-| CTR | 2.49% |
-| Avg position | 8.9 |
+| Impressions | 2,017 |
+| Clicks | 50 |
+| CTR | 2.48% |
+| Avg position | 8.7 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| joey jordison drum kit | 67 | 2 | 2.99% | 8.6 |
-| matt greiner drum setup | 10 | 2 | 20.00% | 7.5 |
-| eloy casagrande drum kit | 12 | 1 | 8.33% | 9.0 |
+| matt greiner drum setup | 13 | 4 | 30.77% | 6.5 |
+| joey jordison drum kit | 84 | 2 | 2.38% | 8.5 |
+| eloy casagrande drum kit | 18 | 1 | 5.56% | 8.9 |
 | gene hoglan drum kit | 2 | 1 | 50.00% | 8.0 |
+| igor cavalera drum kit | 4 | 1 | 25.00% | 3.8 |
+| inferno drum kit | 9 | 1 | 11.11% | 7.1 |
 | jaska raatikainen drum set | 1 | 1 | 100.00% | 2.0 |
-| joey jordison iowa drum kit | 4 | 1 | 25.00% | 7.8 |
+| joey jordison iowa drum kit | 5 | 1 | 20.00% | 6.6 |
 | matt garstka drum kit | 7 | 1 | 14.29% | 6.9 |
 | matt greiner drum kit | 2 | 1 | 50.00% | 5.0 |
-| aquiles priester drum kit | 11 | 0 | 0.00% | 7.6 |
-| aquiles priester drum set | 2 | 0 | 0.00% | 12.0 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 _no significant gaps detected — all queries with traction have decent CTR_

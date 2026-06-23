@@ -11,7 +11,7 @@ const gearItems = [
     subcategory: 'double-bass-pedals',
     brand: 'Tama',
     description: 'The Tama Iron Cobra 900 is one of the most popular double bass pedals in metal drumming. Known for its smooth Power Glide cam, quick response, and durability, it has been the pedal of choice for many legendary drummers.',
-    image: 'https://www.tama.com/usa/products/images/HP900PTWN_main.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg',
     specs: {
       camType: 'Power Glide',
       beaterType: 'Dual-surface (felt/plastic)',
@@ -30,7 +30,7 @@ const gearItems = [
     subcategory: 'professional-cymbals',
     brand: 'Meinl',
     description: 'Meinl Byzance cymbals are hand-hammered in Turkey using traditional B20 bronze alloy. Popular with progressive and extreme metal drummers for their complex overtones.',
-    image: 'https://meinlcymbals.com/images/products/cymbal_byzance.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/3/31/Cymbal_Hammering.JPG',
     specs: {
       material: 'B20 Bronze',
       finish: 'Traditional/Brilliant/Extra Dry',
@@ -49,7 +49,7 @@ const gearItems = [
     subcategory: 'professional-cymbals',
     brand: 'Paiste',
     description: 'Paiste RUDE cymbals are designed specifically for heavy hitting drummers. A staple in thrash and death metal drumming since the 1980s.',
-    image: 'https://www.paiste.com/images/products/rude.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/c/c3/SABIAN_Paragon_Ride_Limited_Edition_Steampunk.jpg',
     specs: {
       material: 'CuSn8 Bronze (2002 Bronze)',
       finish: 'Colored finish (various)',
@@ -68,7 +68,7 @@ const gearItems = [
     subcategory: 'professional-cymbals',
     brand: 'Zildjian',
     description: 'The Zildjian A Custom series delivers bright, cutting tones with a quick response. A standard in rock and metal drumming.',
-    image: 'https://zildjian.com/images/products/a-custom.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/4/43/Zildjian_Quick_Beat_Hi_Hat_15.jpg',
     specs: {
       material: 'B20 Bronze',
       finish: 'Brilliant',
@@ -87,7 +87,7 @@ const gearItems = [
     subcategory: 'wood-tip-sticks',
     brand: 'Vic Firth',
     description: 'The Vic Firth American Classic 5B is one of the most popular drumstick models in the world. Great balance and durability.',
-    image: 'https://vicfirth.zildjian.com/images/products/5b.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/2/2b/Plain_wooden_drumsticks.JPG',
     specs: {
       length: '16"',
       diameter: '.595"',
@@ -106,7 +106,7 @@ const gearItems = [
     subcategory: 'double-bass-pedals',
     brand: 'Pearl',
     description: 'The Pearl Demon Drive is an advanced double bass pedal featuring the innovative NiNjA Bearing technology for ultra-smooth action.',
-    image: 'https://pearldrum.com/images/products/demon-drive.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg',
     specs: {
       camType: 'Interchangeable (Direct/Standard)',
       beaterType: 'Demon Beater (switchable)',
@@ -125,7 +125,7 @@ const gearItems = [
     subcategory: 'professional-drum-kits',
     brand: 'Tama',
     description: 'Tama Starclassic Walnut/Birch drums combine the warmth and low-end of walnut with the attack and projection of birch.',
-    image: 'https://www.tama.com/images/products/starclassic-wb.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg',
     specs: {
       shells: 'Walnut/Birch hybrid',
       plies: '6mm (5-ply)',
@@ -144,7 +144,7 @@ const gearItems = [
     subcategory: 'professional-drum-kits',
     brand: 'Pearl',
     description: 'Pearl Reference drums feature the innovative Reference Shell construction with birch, maple, and mahogany plies.',
-    image: 'https://pearldrum.com/images/products/reference.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg',
     specs: {
       shells: 'Birch/Maple/Mahogany hybrid',
       plies: 'Size-specific',
@@ -163,7 +163,7 @@ const gearItems = [
     subcategory: 'professional-drum-kits',
     brand: 'Sonor',
     description: 'Sonor SQ2 drums with Heavy Beech shells are custom-built in Germany. Ideal for heavy music.',
-    image: 'https://www.sonor.com/images/products/sq2.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg',
     specs: {
       shells: 'Heavy Beech',
       plies: '9mm (7-ply)',
@@ -182,7 +182,7 @@ const gearItems = [
     subcategory: 'professional-cymbals',
     brand: 'Sabian',
     description: 'Sabian HHX cymbals combine hand-hammering with modern manufacturing for a dark, complex sound.',
-    image: 'https://www.sabian.com/images/products/hhx.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/8/8f/Avedis_Zildjian_Cymbal.jpg',
     specs: {
       material: 'B20 Bronze',
       finish: 'Natural/Brilliant',
@@ -202,7 +202,7 @@ const gearItems = [
     subcategory: 'metal-snares',
     brand: 'Tama',
     description: 'The Tama SLP Black Brass snare delivers powerful, cutting tones with excellent projection. The black brass shell provides a warm fundamental with bright overtones.',
-    image: 'https://www.tama.com/images/products/slp-black-brass.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/4/46/2006-07-06_snare_14.jpg',
     specs: {
       shell: 'Black Brass (1.2mm)',
       size: '14" x 6.5"',
@@ -221,7 +221,7 @@ const gearItems = [
     subcategory: 'metal-snares',
     brand: 'Pearl',
     description: 'The Pearl Sensitone Steel snare is a versatile studio workhorse with bright, articulate tones and excellent sensitivity.',
-    image: 'https://pearldrum.com/images/products/sensitone-steel.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/e/ee/Pearl_MCX_snare_drum.JPG',
     specs: {
       shell: 'Beaded Steel (1.2mm)',
       size: '14" x 5.5"',

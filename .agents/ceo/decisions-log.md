@@ -5,6 +5,34 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-22 00:46 UTC*
 
 ---
+## 2026-06-24 13:00 — Issue cleanup (3 closed, 3 PRs resolved); backlog at cap (45)
+
+### Context (≤3 lines)
+Mid-day pulse. Backlog was 48 (3 above cap) — issues #1842/#1857/#1864 not auto-closed after PRs #2221/#2223/#2228 merged. Plus duplicate PR #2230 opened for already-fixed #1842, and conflicting PRs #2222/#2229 stalled. No new seo-proposals since June 23 22:43.
+
+### Actions taken
+- **Closed 3 zombie-open issues:** #1842 (Bill Ward Paranoid — fixed by merged #2221), #1857 (slug fixes — fixed by merged #2223), #1864 (At the Gates SOTS — fixed by merged #2228). Root cause: Ralph's PR bodies DO use "Closes #NNN" but GitHub auto-close is not triggering — possibly a repo setting or fork-PR limitation. CEO must manually close after merge.
+- **Closed duplicate PR #2230** (Ralph re-attempted Bill Ward Paranoid after issue wasn't closed; content already live via #2221).
+- **Closed conflicting PRs #2222 + #2229** — both modified albumArticles.js on stale branches before recent merges (#2221/#2223/#2228). Commented for retry. Issues #1843 (Brann Dailor CTS) and #1865 (LoG Sacrament) remain open → watcher will retry.
+- **#2150 split deferred:** Batch 5 comparison pairs still stale but backlog now AT CAP (45); splitting would net +3 → 48. Held until next merge frees a slot.
+- **No promotions:** Backlog at exactly 45 (AT CAP).
+
+### State delta
+- **Backlog: 48 → 45** (3 issues closed; AT CAP)
+- **Open PRs: 3 → 0** (2230 duplicate closed; 2222/2229 conflict-closed for retry)
+- **Issues #1843 + #1865 open** — Ralph will re-attempt from clean main; no pr-opened label blocking
+- **Systemic note:** Ralph never uses GitHub close-keyword — CEO must manually close issues after PR merge. Pattern to watch.
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: no new since June 23 (all triaged). ✅ PR cleanup: 3 PRs resolved. ✅ Issue cleanup: 3 zombie-open issues closed. ✅ No over-filing (0 ai-fix from this run). ✅ Decisions logged.
+
+### Next Run (19:00 UTC)
+1. Check if Ralph re-attempts #1843 (Brann Dailor CTS) and #1865 (LoG Sacrament) — expect new PRs.
+2. If any PRs merge and issues close → backlog <45 → promote in priority order (#2172 Death Spiritual Healing → #2173 A7X Hail to the King).
+3. Split #2150 (comparison pairs batch 5 → 4 atomic) only if backlog drops to ≤44 first.
+4. Investigate root cause of "Ralph doesn't use Fixes keyword" — consider filing `human-founder` to update Ralph's PR template.
+
+---
 ## 2026-06-24 07:00 — L1 patterns logged (4 wins); #2135 split (4 atomic); Ralph active with 3 PRs
 
 ### Context (≤3 lines)

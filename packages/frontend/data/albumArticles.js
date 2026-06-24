@@ -42368,6 +42368,260 @@ For the full Arin Ilejay gear story, see the [Arin Ilejay drummer profile](/drum
         }
       ]
     }
+  },
+
+  'the-link-drum-setup': {
+    slug: 'the-link-drum-setup',
+    albumTitle: 'The Link',
+    artist: 'Gojira',
+    drummer: 'Mario Duplantier',
+    drummerId: 15,
+    relatedDrummerSlug: 'mario-duplantier',
+    year: 2003,
+    genre: 'Progressive Death Metal',
+    label: 'Listenable Records',
+    studio: 'Bayonne, France (self-produced)',
+    producer: 'Gojira (self-produced)',
+    isAlbumArticle: true,
+    datePublished: '2026-06-24',
+    dateModified: '2026-06-24',
+    author: 'MetalForge Editorial',
+    title: "Mario Duplantier's Drum Setup on Gojira's The Link (2003)",
+    description: "Complete breakdown of Mario Duplantier's transitional drum kit on Gojira's The Link (2003). Discover his Mapex Black Panther setup, Paiste 2002 cymbals, and how this record bridged Terra Incognita's raw energy and From Mars to Sirius's landmark sound.",
+    seoKeywords: ['the link gojira drums', 'mario duplantier 2003 drum setup', 'gojira the link gear', 'mario duplantier mapex', 'gojira 2003 kit', 'mario duplantier paiste 2002', 'gojira early drum setup'],
+    ogImage: '/images/albums/the-link-drums.webp',
+    intro: {
+      title: 'The Album That Bridged Gojira\'s Two Worlds',
+      content: `Released in June 2003, "The Link" is the pivotal second album that sits at the exact midpoint of Gojira's artistic trajectory. Between the raw, lo-fi aggression of their debut "Terra Incognita" (2001) and the landmark production of "From Mars to Sirius" (2005), "The Link" captures a band — and a drummer — in the act of becoming something extraordinary.
+
+Mario Duplantier was 22 years old when The Link was recorded. His drumming here is lean and hungry: less polished than his later studio work but bristling with the creative energy of a musician discovering his own voice. The tribal tom patterns, the dual-bass-drum interlocking grooves, and the extreme dynamic range that would define his playing on later records are all present in nascent form — you can hear the blueprint being drawn.
+
+The gear Mario used reflects this transitional moment. He had moved away from the entry-level setups of Terra Incognita and into his first serious professional configuration: a Mapex Black Panther kit paired with Paiste 2002 cymbals. These were working musician tools chosen for power and durability — not endorsement contracts, just the equipment he could source and afford as a young drummer in Bayonne, France, playing extreme metal for a cult audience.
+
+That pragmatism shows in the recording. "The Link" has a rawer, more live-feeling sound than its successor, but it's a quality rawness — the kind that makes the performances feel urgent and unmediated. Mario's kick drums hit like a physical event. His snare cracks with authority. And the Paiste 2002s cut through the mix with a brightness that suits the album's aggressive, death metal-adjacent approach.
+
+This article documents every piece of gear Mario Duplantier used on Gojira's "The Link" — the equipment behind one of progressive metal's most important transitional records.`,
+      keyPoints: [
+        'Second Gojira album; transitional between Terra Incognita and From Mars to Sirius',
+        'Mario\'s first professional-grade setup: Mapex Black Panther and Paiste 2002',
+        'Recorded and self-produced in Bayonne, France',
+        'Establishes the tribal double-bass template Mario would refine on later records',
+        'Raw, live-feeling drum sound that complements the album\'s aggressive energy'
+      ]
+    },
+    drumKit: {
+      title: 'The First Professional Rig: Mapex Black Panther',
+      brand: 'Mapex',
+      model: 'Mapex Black Panther',
+      finish: 'Black Lacquer',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum (x2)'],
+        toms: ['10" Rack Tom', '12" Rack Tom'],
+        floorToms: ['14" Floor Tom', '16" Floor Tom'],
+        shells: 'Maple/Walnut hybrid shells'
+      },
+      description: `For "The Link," Mario Duplantier played a Mapex Black Panther kit — the professional series that Mapex introduced as their flagship line for serious drummers seeking both quality and character. The Black Panther's maple/walnut shell construction gives the drums a punchy, focused attack with a natural darkness in the mid-range, well-suited to progressive death metal's dense sonic landscape.
+
+The dual bass drum configuration was already a Mario signature by this point. Two 22" x 18" kick drums — played with two independent pedals rather than a double-pedal mechanism — gave him the visual symmetry and physical impact that would become inseparable from the Gojira identity. The deep 18" shells delivered the subsonic low end that Gojira's down-tuned guitars demanded: not just loud, but felt.
+
+The four-tom setup — two rack toms and two floor toms — was the same configuration Mario would carry forward into From Mars to Sirius and beyond. Minimalist by death metal standards, it forced creativity within constraints. Rather than filling space with excess hardware, Mario used the available drums melodically, constructing tom patterns that function almost as melodic counterpoints to the guitar riffs.
+
+What separates The Link's drum sound from Mario's later work is the room. Recorded in Bayonne without the converted swimming pool acoustics of the From Mars sessions, the kit sounds tighter and more direct — less reverberant, more immediate. This gives The Link a different energy: more claustrophobic, more urgent.`,
+      notes: [
+        'Mapex Black Panther: Mario\'s first serious professional kit',
+        'Dual 22" x 18" bass drums — same configuration used through entire career',
+        'Maple/walnut shells for punchy attack with natural mid-range darkness',
+        'Tighter, more direct room sound compared to the From Mars swimming pool sessions'
+      ],
+      estimatedValue: '$1,800-2,800 (2003)'
+    },
+    snare: {
+      title: 'Power in a Shell: The Black Panther Snare',
+      brand: 'Mapex',
+      model: 'Mapex Black Panther',
+      size: '14" x 6.5"',
+      shell: 'Maple with die-cast hoops',
+      description: `Mario's snare on The Link was a Mapex Black Panther — consistent with the kit brand. The 14" x 6.5" maple shell hit the sweet spot between crack and body, essential for a drummer who needed the snare to register in both quiet atmospheric passages and full-assault death metal sections.
+
+The Black Panther snare is known for its rimshot authority — the kind of cutting pop that punches through dense guitar arrangements without requiring EQ assistance. In a recording context where Gojira was still developing their studio approach, having a snare that behaved reliably across dynamic extremes was critical.
+
+Mario tuned it on the higher side to maintain articulation. His snare technique — heavy rimshots for accents, ghost notes for texture — was already forming at this stage, and the Black Panther responded to that dynamic range more than a budget snare could.
+
+The die-cast hoops added tension consistency and a sharper rimshot definition. These would have been audible advantages in a production environment where the snare needed to carry without post-processing.`,
+      tuningSetting: 'High-medium for attack and articulation in dense metal context',
+      heads: 'Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$250-350 (2003)'
+    },
+    cymbals: {
+      title: 'Swiss Precision: Paiste 2002 Series',
+      brand: 'Paiste',
+      series: 'Paiste 2002',
+      setup: [
+        { type: 'Hi-Hats', model: 'Paiste 2002 14" Sound Edge Hi-Hats', position: 'Left side', notes: 'Crisp, cutting sound with pronounced chick definition' },
+        { type: 'Crash', model: 'Paiste 2002 17" Crash', position: 'Left of hi-hats', notes: 'Fast, full crash for aggressive accents' },
+        { type: 'Crash', model: 'Paiste 2002 19" Crash', position: 'Over rack toms', notes: 'Primary crash with bright, explosive character' },
+        { type: 'Ride', model: 'Paiste 2002 20" Ride', position: 'Right side', notes: 'Clear bell definition with washy body for dual-purpose use' },
+        { type: 'China', model: 'Paiste 2002 18" China', position: 'Above floor tom', notes: 'Trashy, cutting accent cymbal for breakdowns' }
+      ],
+      description: `Mario's cymbal choice for The Link — Paiste 2002s — is one of the most telling facts about this period in his career. The 2002 series is a working drummer's cymbal: bright, direct, highly responsive, and built to cut through dense arrangements without requiring a sound engineer's intervention.
+
+The 2002s have a fundamentally different character from the Zildjian K Custom Dark cymbals Mario would use on From Mars to Sirius. Where the K Customs are dark, complex, and musical in their overtones, the Paiste 2002s are forward and assertive — they project rather than bloom. On The Link's rawer production, this brightness was an advantage: the cymbals registered clearly in the mix without fighting the guitars.
+
+The 14" Sound Edge hi-hats provided the crisp, defined chick that Mario's groove-focused playing required. In complex double-bass passages, hi-hat clarity keeps the listener oriented — and on The Link, that orientation mattered for compositions that were already stretching into progressive territory.
+
+The crash selection — 17" and 19" — gave Mario fast response on the 17" for quick accents and a fuller explosion on the 19" for the album's biggest moments. The 2002 series crashes are known for their immediate response: they open instantly rather than building, which suited Gojira's punchy, attack-forward sound at this stage.
+
+The 18" China provided the aggressive punctuation that death metal dynamics require. Gojira used China cymbals more prominently in their early work, and on The Link you can hear Mario using it more frequently than on the later, more restrained From Mars sessions.`,
+      estimatedValue: '$900-1,400 total (2003)'
+    },
+    hardware: {
+      title: 'The Infrastructure of Power',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'Tama',
+          model: 'Tama Iron Cobra',
+          notes: 'Two single pedals, one per bass drum',
+          description: 'Mario has consistently used Tama Iron Cobra pedals for his independent dual bass drum setup. The Power Glide cam provides smooth, powerful strokes suited to his grooving double-bass approach rather than machine-gun blasting.'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Tama',
+          model: 'Tama Iron Cobra Hi-Hat Stand',
+          notes: 'Matching Tama hardware'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth 5A American Classic',
+          notes: 'Pre-signature standard weight sticks'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke 3 Clear with felt muffling',
+        toms: 'Remo Emperor Clear (batter), Ambassador Clear (resonant)',
+        snare: 'Remo Emperor Coated'
+      }
+    },
+    recordingTechniques: {
+      title: 'Lo-Fi No More: The Link\'s Production Step-Up',
+      content: `"The Link" represented a meaningful leap in production quality from "Terra Incognita." Gojira self-produced both records, but by 2002–2003 they had developed more confidence in the recording process and a clearer sonic vision for what Gojira should sound like.
+
+**The Room:**
+Recorded in Bayonne, France, at a space the Duplantier brothers controlled, The Link captured the drums with a directness that reflects both the room's acoustic character and the production choices of a band learning to engineer their own sound. There's less room ambience than on From Mars to Sirius — the swimming pool reverb was still two years away.
+
+**Close-Mic Philosophy:**
+The drum sound is primarily close-miked, giving the kit a tight, punchy character. This suited the Mapex Black Panther's natural attack and the Paiste 2002's forward brightness. Room mics, if used, are more subtle in the mix than they would become on later records.
+
+**Self-Produced Approach:**
+By self-producing again, Gojira maintained full creative control. This meant Mario could dial in his drum sound without compromise — the kind of creative freedom that a producer-for-hire might not allow. The result is a performance that sounds exactly like Mario wanted it to sound, not like someone else's idea of how a death metal kit should be recorded.
+
+**Dynamic Range:**
+Even at this early stage, the production preserved Mario's dynamic range. The quiet passages are genuinely quiet; the loud passages hit with physical force. This dynamic intentionality would become Gojira's signature production technique on all subsequent records.`,
+      keyTechniques: [
+        'Self-produced with full creative control over drum sound',
+        'Direct, close-miked approach capturing Mapex Black Panther\'s natural attack',
+        'Less room ambience than later From Mars to Sirius swimming-pool sessions',
+        'Dynamic range preserved from quiet atmospheric passages to full-force death metal'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'The Link',
+        bpm: '115',
+        signature: '4/4 with polyrhythmic elements',
+        highlights: [
+          'Title track establishing the album\'s progressive death metal template',
+          'Early example of Mario\'s tribal tom patterns as melodic counterpoint',
+          'Dynamic shifts from atmospheric passages to crushing double-bass sections',
+          'The double-bass groove is muscular but never loses rhythmic intelligence'
+        ],
+        gearNotes: 'Mapex Black Panther bass drums deliver the punch the track demands. Paiste 2002 crashes punctuate the gear-changes with authority.'
+      },
+      {
+        track: 'Clone',
+        bpm: '130',
+        signature: '4/4',
+        highlights: [
+          'One of the album\'s more aggressive, full-speed tracks',
+          'Showcases Mario\'s early blast-influenced patterns with groove foundation',
+          'Complex fills that suggest jazz influence within death metal framework',
+          'Snare rimshots cut through the dense guitar arrangements'
+        ],
+        gearNotes: 'The Black Panther snare\'s rimshot authority is prominent here. Paiste 2002 China accents the breakdown transitions.'
+      },
+      {
+        track: 'Remembrance',
+        bpm: '90',
+        signature: '4/4 with tempo variation',
+        highlights: [
+          'More atmospheric track demonstrating early dynamic range',
+          'Patient, spacious drumming that allows the guitars to breathe',
+          'Tribal tom patterns establishing the Gojira sonic vocabulary',
+          'Proves the band\'s progressive ambitions were already fully formed'
+        ],
+        gearNotes: 'Hi-hat textures provide atmosphere. Floor toms carry the tribal pattern. Dynamic restraint makes the eventual crashes more impactful.'
+      }
+    ],
+    evolution: {
+      title: 'From The Link to From Mars: Two Years of Transformation',
+      content: `"The Link" sits in the most interesting position in Gojira's discography: it is the last album before the breakthrough, the final step in a journey that culminated in one of progressive metal's landmark records.
+
+**What Changed by From Mars to Sirius:**
+The most significant gear evolution between The Link (2003) and From Mars to Sirius (2005) was the kit itself. Mario moved from the Mapex Black Panther to the Tama Starclassic Performer — a shift from a solid professional tool to a flagship studio instrument. The Tama's birch/bubinga hybrid shells delivered the deeper, more resonant sound that defined the From Mars sound.
+
+The cymbal change was equally significant. Trading the forward, bright Paiste 2002s for Zildjian K Custom Darks fundamentally altered the harmonic character of Mario's playing. The K Customs bloom where the 2002s project; they add complexity where the 2002s add clarity. The atmospheric passages on From Mars benefit enormously from this darker, more complex cymbal character.
+
+**What Stayed the Same:**
+The core musical philosophy — dual bass drums, four-tom melodic configuration, extreme dynamic range, tribal rhythmic patterns — was fully established on The Link and carried forward unchanged. The [From Mars to Sirius drum setup](/articles/from-mars-to-sirius-drum-setup) and the [The Way of All Flesh drum setup](/articles/the-way-of-all-flesh-drum-setup) are evolutions of the language Mario was already speaking on The Link.
+
+**The Full Picture:**
+Understanding [Mario Duplantier's complete gear history](/drummer/mario-duplantier) requires The Link. Without this transitional record, the jump from Terra Incognita's raw energy to From Mars to Sirius's majestic production seems inexplicable. The Link is the missing link — the document of a drummer figuring out exactly what kind of musician he wanted to be.`,
+      thenVsNow: [
+        { category: 'Kit', then: 'Mapex Black Panther (maple/walnut)', now: 'Tama Starclassic Performer (birch/bubinga) on From Mars' },
+        { category: 'Snare', then: 'Mapex Black Panther 14"x6.5"', now: 'Tama S.L.P. G-Maple 14"x6.5" on From Mars' },
+        { category: 'Cymbals', then: 'Paiste 2002 (bright, forward)', now: 'Zildjian K Custom Dark (complex, atmospheric) on From Mars' },
+        { category: 'Sticks', then: 'Vic Firth 5A', now: 'Vic Firth 5A (same)' },
+        { category: 'Studio', then: 'Bayonne, France (direct, close-miked)', now: 'Swimming pool studio (massive natural reverb) on From Mars' }
+      ]
+    },
+    videos: [],
+    relatedAlbums: ['from-mars-to-sirius-drum-setup', 'the-way-of-all-flesh-drum-setup'],
+    relatedDrummers: [50, 5],
+    relatedArticles: ['whats-in-mario-duplantiers-kit', 'progressive-death-metal-drummers', 'dual-bass-drum-vs-double-pedal'],
+    relatedLicks: [],
+    faq: [
+      {
+        question: 'What drums did Mario Duplantier use on The Link?',
+        answer: 'On Gojira\'s The Link (2003), Mario Duplantier played a Mapex Black Panther drum kit. The setup featured dual 22" x 18" bass drums — played as two independent instruments with separate pedals rather than a double-pedal mechanism — plus 10" and 12" rack toms and 14" and 16" floor toms. The Mapex Black Panther\'s maple/walnut shell construction gave the drums a punchy, focused attack well-suited to progressive death metal. This was Mario\'s first serious professional-grade kit, a step up from the lo-fi Terra Incognita setup and the precursor to the Tama Starclassic Performer he would use on From Mars to Sirius.'
+      },
+      {
+        question: 'How did Mario\'s setup differ between The Link and From Mars to Sirius?',
+        answer: 'Between The Link (2003) and From Mars to Sirius (2005), Mario Duplantier made two significant gear changes. First, he switched from the Mapex Black Panther kit to a Tama Starclassic Performer with birch/bubinga hybrid shells, which delivered a deeper, more resonant sound with greater sustain. Second, his cymbals changed from Paiste 2002s — a bright, forward-projecting series — to Zildjian K Custom Darks, which have a warmer, more complex harmonic character that defined the atmospheric passages on From Mars. The core configuration (dual bass drums, four toms, single pedals per kick) remained unchanged. The recording environment also changed dramatically: The Link used direct, close-miked recording in Bayonne, while From Mars benefited from the natural reverb of the Duplantiers\' converted swimming pool studio.'
+      },
+      {
+        question: 'What cymbals does Mario Duplantier use on The Link?',
+        answer: 'Mario Duplantier used Paiste 2002 cymbals on Gojira\'s The Link (2003). His setup included 14" Sound Edge hi-hats, 17" and 19" crashes, a 20" ride, and an 18" China. The Paiste 2002 series is known for its bright, assertive, forward-projecting character — very different from the dark, complex Zildjian K Custom Darks Mario would later use on From Mars to Sirius. On The Link\'s rawer, more direct production, the 2002s\' brightness was an advantage, cutting through the dense guitar arrangements without requiring mix assistance.'
+      }
+    ],
+    conclusion: {
+      title: 'The Missing Link in the Gojira Story',
+      content: `"The Link" is the essential document that makes Gojira's discography make sense. Without it, the transformation from Terra Incognita's raw underground energy to From Mars to Sirius's landmark production sounds like an inexplicable leap. With it, you can trace every step of the evolution.
+
+Mario Duplantier's drumming on this album is hungry, urgent, and already distinctly him. The Mapex Black Panther kit and Paiste 2002 cymbals were the tools of a young drummer who had found his musical philosophy — dual kicks, tribal toms, extreme dynamics, groove over flash — and was refining the technique to execute it with increasing authority.
+
+The Paiste 2002s, in particular, tell a story. They're the cymbals of a working musician in a working band: durable, projecting, reliable in live and studio contexts. When Mario eventually switched to Zildjian K Custom Darks on From Mars to Sirius, it wasn't because the 2002s failed him — it was because his production ambitions had grown to a point where darker, more harmonically complex cymbals served the music better.
+
+For drummers studying progressive death metal, The Link offers a rare look at the moment before mastery becomes effortless. Mario's fills are slightly more raw, his transitions slightly more obvious. You can hear him thinking through the music, working it out in real time. On From Mars to Sirius and beyond, the thinking is invisible — only the music remains. The Link shows you where the thinking happened.
+
+**Lessons from The Link:**
+- **Gear transitions are part of artistic growth** — the Mapex-to-Tama, Paiste-to-Zildjian moves weren't random, they tracked Mario's evolving sound
+- **The musical philosophy came first** — dual kicks, four toms, extreme dynamics are all present here, years before the endorsements caught up
+- **Self-production builds mastery** — by controlling their own sound, Gojira learned exactly how to capture what they heard in their heads
+- **Raw doesn't mean unrealized** — The Link's directness is a feature, not a limitation
+
+Gojira's discography cluster — from [The Link](/articles/the-link-drum-setup) through [From Mars to Sirius](/articles/from-mars-to-sirius-drum-setup) and [The Way of All Flesh](/articles/the-way-of-all-flesh-drum-setup) — traces one of modern metal's great artistic trajectories. This is where that trajectory became clear.`
+    }
   }
 };
 

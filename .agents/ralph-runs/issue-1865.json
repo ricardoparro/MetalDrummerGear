@@ -1,1 +1,24 @@
-{"body":"## Rationale\n\n**Lamb of God 'Sacrament' (2006)** is LoG's Epic Records debut — Grammy-nominated for Best Metal Performance ('Redneck'), debuted at #8 on Billboard 200, and cemented Chris Adler as one of metal's premier groove/thrash drummers. We already have `ashes-of-the-wake-drum-setup` (2004) for Chris Adler, but **Sacrament (2006) is a distinct recording era** — upgraded touring rig, different snare tuning, more studio polish. Chris Adler IS on roster.\n\n**GSC signal:** 'chris adler drum setup' has growing impression volume; 'lamb of god sacrament drums' is a TAM expansion into mainstream heavy metal audiences.\n\n## File to create\n\n`packages/frontend/data/albumArticles.js` — slug `sacrament-drum-setup`\n\n## Template shape\n\n```js\n'sacrament-drum-setup': {\n  slug: 'sacrament-drum-setup',\n  title: \"Lamb of God 'Sacrament' Drum Setup — Chris Adler's 2006 Grammy-Era Kit\",\n  description: \"Explore Chris Adler's drum setup on Lamb of God's Grammy-nominated Sacrament (2006) — DW kit, Zildjian cymbals, groove metal technique.\",\n  drummer: 'chris-adler',\n  drummerName: 'Chris Adler',\n  band: 'Lamb of God',\n  album: 'Sacrament',\n  year: 2006,\n  genre: 'Groove Metal / New Wave of American Heavy Metal',\n  relatedAlbums: ['ashes-of-the-wake-drum-setup', 'whats-in-chris-adlers-kit'],\n  datePublished: '2026-06-20',\n  dateModified: '2026-06-20'\n}\n```\n\nContent must cover:\n- DW Collector's kit (Chris's main endorsement era) — specific dimensions\n- Zildjian A Custom cymbals setup\n- Groove metal technique: the syncopated right-hand/kick interplay that defines LoG\n- Recording context: Machine (Colin Richardson), Capitol Studios\n- Gear diff vs Ashes of the Wake (2004 era)\n- FAQ: 'what kit does chris adler use', 'lamb of god sacrament recording drums', 'chris adler dw kit specs'\n- Internal links: /drummer/chris-adler, /articles/ashes-of-the-wake-drum-setup\n\n## Quality gate\n- ≥350 words\n- ≥3 FAQ entries\n- ≥3 internal links\n- Article + BreadcrumbList + MusicAlbum schemas\n- LLM companion: `public/llms/articles/sacrament-drum-setup.md`\n\n## Estimated organic uplift\n'Sacrament' + 'Chris Adler' = NWOAHM + mainstream metal TAM. Grammy nomination makes this a high-authority editorial anchor. Complements the existing Ashes of the Wake article.\n\n## Verify\n1. `/articles/sacrament-drum-setup` returns 200\n2. JSON-LD has Article + MusicAlbum + FAQPage\n3. relatedAlbums links resolve (ashes-of-the-wake slug exists)\n4. LLM file at `/llms/articles/sacrament-drum-setup.md` returns 200\n5. Sitemap entry at priority 0.9\n\n## Done\nSlug `sacrament-drum-setup` live in albumArticles.js, page rendering, LLM file created.","title":"SEO: Lamb of God 'Sacrament' drum setup article — Grammy-nominated mainstream breakthrough (Chris Adler, 2006)"}
+{
+  "issue": 1865,
+  "slug": "sacrament-drum-setup",
+  "status": "done",
+  "completedAt": "2026-06-24",
+  "commits": [
+    "5414c63",
+    "db65fbb",
+    "5ebf024",
+    "2d8945c",
+    "c175d16"
+  ],
+  "files": [
+    "packages/frontend/data/albumArticles.js",
+    "public/llms/articles/sacrament-drum-setup.md"
+  ],
+  "qualityGate": {
+    "wordCount": "1095 (LLM file), 3000+ (albumArticles.js entry)",
+    "faqEntries": 6,
+    "internalLinks": 5,
+    "schemas": ["Article", "BreadcrumbList", "MusicAlbum", "Person", "FAQPage"],
+    "sitemapPriority": 0.9
+  }
+}

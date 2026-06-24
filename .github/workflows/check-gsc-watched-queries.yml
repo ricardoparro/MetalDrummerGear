@@ -1,22 +1,21 @@
 name: Check GSC watched queries
 
-# L1 — GSC-gap CLOSURE verifier. For each query in
-# .agents/seo/watched-queries.json, fetch the last 7 days of GSC numbers,
-# compare to the baseline captured when the entry was added, classify into
-# win / loss / mixed / null / no-data / baselining. Output is twofold:
-#   - Umbrella issue lifecycle (open / edit / close) labelled `gsc-watch`
-#   - Commits .agents/seo/gsc-watch-snapshot.md so the CEO Agent reads
-#     fresh numbers every run.
+# L1 v2 — GSC scan-all-queries verifier. Fetches EVERY query the GSC property
+# surfaced for the last 7 days, diffs each one against the most recent prior
+# weekly run (stored under .agents/seo/gsc-history/), classifies into
+# big-loss / disappeared / ctr-gap-opportunity / big-win / new / null / noise.
+#
+# Outputs:
+#   - .agents/seo/gsc-watch-snapshot.md (every query, grouped by class) — the
+#     CEO Agent reads this on every run.
+#   - Umbrella issue `gsc-watch` (only ACTIONABLE rows: big-loss, disappeared,
+#     ctr-gap-opportunity).
+#   - .agents/seo/gsc-history/YYYY-MM-DD.json — next run's baseline.
 #
 # Secrets reused from CEO agent: GA_SERVICE_ACCOUNT_JSON + GSC_SITE.
 
 on:
   workflow_dispatch:
-    inputs:
-      watches:
-        description: 'Path to watched-queries JSON (default .agents/seo/watched-queries.json)'
-        required: false
-        default: '.agents/seo/watched-queries.json'
   schedule:
     # Mondays 08:00 UTC, after broken-images (06:30) and llm-citations (07:30).
     - cron: '0 8 * * 1'
@@ -47,9 +46,6 @@ jobs:
         run: npm ci --no-audit --no-fund
 
       - name: Configure git author
-        # Same identity used by the CEO/SEO/Ralph workflows so Vercel's git
-        # authorization recognises the committer (cost-control: doesn't
-        # affect anything when previews are off, but keeps consistency).
         run: |
           git config user.name "Ricardo Parro"
           git config user.email "ricardo.parro@gmail.com"
@@ -62,15 +58,13 @@ jobs:
           printf '%s' "$GA_JSON" > "$RUNNER_TEMP/gcp/metrics.json"
           chmod 600 "$RUNNER_TEMP/gcp/metrics.json"
 
-      - name: Run GSC watch crawler
-        id: crawl
+      - name: Run GSC scan-all crawler
         env:
           GOOGLE_APPLICATION_CREDENTIALS: ${{ runner.temp }}/gcp/metrics.json
           GSC_SITE: ${{ secrets.GSC_SITE }}
-          WATCHES: ${{ inputs.watches || '.agents/seo/watched-queries.json' }}
         run: |
           node .agents/scripts/check-gsc-watched-queries.cjs \
-            --watches "$WATCHES" \
+            --history-dir .agents/seo/gsc-history \
             --out gsc-watch.json
 
       - name: Render issue body + snapshot
@@ -79,20 +73,6 @@ jobs:
             --report gsc-watch.json \
             --issue issue-body.md \
             --snapshot .agents/seo/gsc-watch-snapshot.md
-
-      - name: Summarize
-        id: summary
-        run: |
-          node -e '
-            const r = require("./gsc-watch.json");
-            const fs = require("fs");
-            const c = r.counts || {};
-            const losses = c.loss || 0;
-            const wins = c.win || 0;
-            const actionable = losses;  // umbrella only opens on actionable signal
-            fs.appendFileSync(process.env.GITHUB_OUTPUT,
-              `wins=${wins}\nlosses=${losses}\nactionable=${actionable}\ntotal=${r.watchesTotal}\n`);
-          '
 
       - name: Ensure umbrella label exists
         env:
@@ -104,6 +84,20 @@ jobs:
             --description "Auto-managed by check-gsc-watched-queries.yml — single umbrella issue per repo" \
             2>/dev/null || true
 
+      - name: Summarize
+        id: summary
+        run: |
+          ACTIONABLE=$(cat /tmp/gsc-watch-actionable-count.txt 2>/dev/null || echo 0)
+          echo "actionable=${ACTIONABLE}" >> "$GITHUB_OUTPUT"
+          node -e '
+            const r = require("./gsc-watch.json");
+            const fs = require("fs");
+            const c = r.counts || {};
+            const wins = c["big-win"] || 0;
+            fs.appendFileSync(process.env.GITHUB_OUTPUT,
+              `wins=${wins}\ntotal=${r.queriesTotal}\n`);
+          '
+
       - name: Find existing umbrella issue
         id: existing
         env:
@@ -114,7 +108,7 @@ jobs:
                 --state open \
                 --label gsc-watch \
                 --json number,title \
-                --jq '[.[] | select(.title | startswith("GSC watched queries"))][0].number // ""')
+                --jq '[.[] | select(.title | startswith("GSC watch"))][0].number // ""')
           echo "number=$n" >> "$GITHUB_OUTPUT"
 
       - name: Open / update / close umbrella issue
@@ -122,22 +116,21 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ACTIONABLE: ${{ steps.summary.outputs.actionable }}
           WINS: ${{ steps.summary.outputs.wins }}
-          LOSSES: ${{ steps.summary.outputs.losses }}
           TOTAL: ${{ steps.summary.outputs.total }}
           EXISTING: ${{ steps.existing.outputs.number }}
         run: |
           set -euo pipefail
           if [ "$ACTIONABLE" = "0" ]; then
             if [ -n "$EXISTING" ]; then
-              echo "No losses to act on — closing issue #$EXISTING."
+              echo "No actionable rows — closing issue #$EXISTING."
               gh issue close "$EXISTING" \
                 --repo "${{ github.repository }}" \
-                --comment "🤖 Weekly GSC watch on $(date -u +%Y-%m-%d): 0 losses, ${WINS} wins / ${TOTAL} total. Snapshot committed to \`.agents/seo/gsc-watch-snapshot.md\`. Closing."
+                --comment "🤖 Weekly GSC scan on $(date -u +%Y-%m-%d): 0 actionable rows out of ${TOTAL} queries (${WINS} wins recorded in snapshot). Closing."
             else
-              echo "All clear, no existing issue. Nothing to do."
+              echo "All clear, no existing issue."
             fi
           else
-            TITLE="GSC watched queries — ${LOSSES} losses, ${WINS} wins (${TOTAL} tracked)"
+            TITLE="GSC watch — ${ACTIONABLE} actionable rows, ${WINS} wins / ${TOTAL} queries"
             if [ -n "$EXISTING" ]; then
               echo "Updating #$EXISTING."
               gh issue edit "$EXISTING" \
@@ -146,7 +139,7 @@ jobs:
                 --body-file issue-body.md
               gh issue comment "$EXISTING" \
                 --repo "${{ github.repository }}" \
-                --body "🤖 Weekly GSC watch refreshed $(date -u +%Y-%m-%dT%H:%MZ): ${LOSSES} losses, ${WINS} wins / ${TOTAL} total."
+                --body "🤖 Weekly GSC watch refreshed $(date -u +%Y-%m-%dT%H:%MZ): ${ACTIONABLE} actionable, ${WINS} wins / ${TOTAL} queries."
             else
               echo "Opening new umbrella issue."
               gh issue create \
@@ -158,24 +151,15 @@ jobs:
             fi
           fi
 
-      - name: Commit snapshot
+      - name: Commit snapshot + new history file
         run: |
-          # Stage first, THEN diff the index against HEAD. Two reasons:
-          #  - `git diff --quiet` on an untracked file (first run, before the
-          #    snapshot exists in the repo) returns clean (exit 0) because
-          #    plain `git diff` only inspects tracked files. The original
-          #    code skipped the commit step on the very first run, leaving
-          #    the snapshot orphaned in the runner. Fixed: we now stage and
-          #    compare the index, which DOES see new files.
-          #  - `--cached --quiet` against HEAD also correctly returns clean
-          #    when an existing snapshot was rewritten with identical content
-          #    (no spurious commits).
-          git add .agents/seo/gsc-watch-snapshot.md
-          if git diff --cached --quiet -- .agents/seo/gsc-watch-snapshot.md; then
-            echo "Snapshot unchanged."
+          # Stage everything that might have changed: snapshot + history dir.
+          git add .agents/seo/gsc-watch-snapshot.md .agents/seo/gsc-history/
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
             exit 0
           fi
-          git commit -m "seo: refresh GSC watch snapshot [skip ci]"
+          git commit -m "seo: refresh GSC scan-all snapshot [skip ci]"
           for attempt in 1 2 3 4; do
             if git push origin HEAD:${{ github.ref_name }}; then
               echo "Pushed on attempt $attempt"

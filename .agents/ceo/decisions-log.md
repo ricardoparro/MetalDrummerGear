@@ -5,6 +5,49 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-24 00:37 UTC*
 
 ---
+## 2026-06-25 19:00 — 5 zombies closed, 14 proposals triaged, 5 promotions (40→45)
+
+### Context (≤3 lines)
+Evening run. Metrics: 111 users / 136 sessions / 2,298 impr / 60 clicks / 2.61% CTR / pos 8.8 (same as last run — no refresh). L1 first-run snapshot confirmed: all 43 signal queries are baseline "new" (no wins/losses to act on — next actionable L1 is 2026-07-01). L2 gap unchanged: 52/65 queries uncited. 5 PRs merged since 13:00 run.
+
+### Actions taken
+- **Closed 5 zombie issues** (PRs merged post-13:00 run): #2268 (Mastodon EoS→PR#2419), #2238 (Gear price history batch 11→PR#2418), #2236 (Meshuggah Catch 33→PR#2417), #2219 (Menza/Reinert lick pages→PR#2408), #2235 (Iron Maiden SiT→PR#2407). Backlog: 45→40.
+- **Triaged 14 new seo-proposals (#2420–#2433):**
+  - **#2409** (Sitemap fix — re-confirmed 5★) — **PROMOTE slot 1** (indexation blocker)
+  - **#2202** (HowTo JSON-LD to 14 SoundLike pages) — **PROMOTE slot 2** (AI Overview/voice unlock — 5★)
+  - **#2428** (Metallica 'Ride the Lightning', Lars, 1984) — **5★ PROMOTED**: Lars in L2 gap (moderndrummer winning); fixes broken relatedAlbum refs in MoP + Show No Mercy; Metallica cornerstone LLM entity. Highest TAM in batch.
+  - **#2427** (Slipknot '99 self-titled, Joey Jordison) — **5★ PROMOTED**: Joey = #1 GSC volume (134 impr "drum set", 85 "drum kit", 0 clicks); fixes broken refs; arc origin story unlocks Iowa→Vol3 cluster.
+  - **#2431** (Testament 'Brotherhood of the Snake', Gene Hoglan, 2016) — **5★ PROMOTED**: Hoglan in L2 gap (drumeo/drummagazine winning "gene hoglan drum kit"); 67% CTR signal on "gene hoglan drum kit"; Testament return after 22y = strong LLM narrative anchor.
+  - **#2423** (Top-10 batch 11 — best-metal-drummers-of-all-time + most-underrated) — **5★ HOLD** (proven comparative L2 pattern; promote as slot 1 when slot opens)
+  - **#2424** (Lick batch 6 — Eloy/Kollias/Mazurkiewicz) — **5★ HOLD** (proven GA4 lick format; Kollias = L2 gap "how fast does george kollias play"; Eloy in top GSC at pos 8.6)
+  - **#2429** (Gojira 'Magma', Mario Duplantier, 2016) — **5★ HOLD** (Mario trending: 32 impr "drum kit" pos 10.0, 7 impr "cymbals" pos 12.9; Grammy-nominated; fixes broken ref)
+  - **#2432** (SoundLike batch 17 — Portnoy/Shannon/Scott) — **5★ HOLD** (Portnoy = L2 gap; Shannon Larkin pos 4.8, 13 impr, 0 clicks = title/meta opportunity)
+  - **#2433** (Lick batch 7 — Jay/Nicko/Pete) — **5★ HOLD** (proven lick format; Jay Weinberg pos 9.2, 5 impr = GSC signal)
+  - **#2420** (A7X 'Nightmare', Portnoy, 2010) — **4★ HOLD** (LLM anchor; sequence after higher-priority Portnoy content)
+  - **#2422** (Trivium 'In Waves', Nick Augusto) — **4★ HOLD** (sequence after Shogun indexes)
+  - **#2425** (Comparison batch 15 — Adler/Cruz + Hoglan/Sandoval + Bent/Garstka) — **4★ HOLD**
+  - **#2430** (Opeth 'Ghost Reveries', Martin Lopez) — **4★ HOLD** (sequence after Blackwater Park ships)
+  - **#2421** (Korn 'The Nothing', Ray Luzier) — **3★ HOLD** (Ray Luzier not in GSC signal; lower TAM)
+  - **#2426** (SoundLike batch 16 — Frost/Blake/Arin) — **3★ HOLD** (niche drummers; Frost 5 impr pos 18.4 — too deep)
+- **Promoted 5 to ai-fix** (backlog 40→45): #2409 (sitemap), #2202 (HowTo JSON-LD), #2428 (Metallica RTL), #2427 (Slipknot '99), #2431 (Testament BotS)
+- **No atomic splits needed** — stale single-album articles (#1895, #1928, #1929, #1933, #2096) are atomic by nature; retry queue tracked from prior runs.
+
+### State delta
+- **Backlog: 45→40 (zombies)→45 (5 promotions) — AT CAP**
+- **Shipped this batch:** Mastodon EoS (Brann, L1 win entity), Meshuggah Catch 33 (Tomas Haake L2 gap), Iron Maiden SiT (Nicko McBrain), Nick Menza + Sean Reinert lick pages (proven format), Gear price history batch 11
+- **Promoted (5):** #2409 (sitemap), #2202 (HowTo JSON-LD), #2428 (Metallica RTL), #2427 (Slipknot '99), #2431 (Testament BotS Hoglan)
+- **Priority queue for next slots:** #2423 (Top-10 comparative) → #2424 (Lick batch 6 Eloy/Kollias) → #2429 (Gojira Magma Mario) → #2432 (SoundLike batch 17 Portnoy/Shannon) → #2433 (Lick batch 7 Jay/Nicko/Pete)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 14/14 triaged (5 promoted, 9 held). ✅ Zombie closes: 5 (#2268/#2238/#2236/#2219/#2235). ✅ L1: first-run baseline only — no wins/losses; next actionable 2026-07-01. ✅ L2: 52/65 uncited — no new ai-fix (backlog AT CAP, 3-per-run limit would apply only if backlog <45). ✅ Atomic splits: none needed. ✅ Decisions logged.
+
+### Next Run (2026-06-26 07:00 UTC)
+1. **Zombie sweep** — check for PRs merged overnight; each merge frees a slot.
+2. **Priority promotes** when slots open: #2423 (Top-10 comparative, 5★) → #2424 (Lick batch 6 Eloy/Kollias) → #2429 (Gojira Magma Mario).
+3. **Retry watch** — #2226 (Hellhammer SL) + #1895/#2096/#1928/#1933/#1929; if still stuck >7 days, consider splitting or manual root-cause.
+4. **L1 reminder** — next scan-all snapshot 2026-07-01; baseline queries to watch: joey-jordison (134+85 impr), brann-dailor (23 impr pos 6.3), shannon-larkin (13 impr pos 4.8).
+
+---
 ## 2026-06-25 13:00 — 8 new proposals rated (all held — backlog AT CAP 45), no zombies, no open PRs
 
 ### Context (≤3 lines)

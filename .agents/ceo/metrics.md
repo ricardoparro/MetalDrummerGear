@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-24 22:34 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-24 23:26 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -10,7 +10,7 @@
 | --- | --- |
 | Active users | 111 |
 | Sessions | 136 |
-| Page views | 323 |
+| Page views | 325 |
 | Engagement rate | 58.09% |
 | Avg session (s) | 597 |
 
@@ -21,8 +21,8 @@
 | /drummer/joey-jordison | 28 | 12 |
 | /drummers | 28 | 4 |
 | /tools | 18 | 2 |
+| /drummer/shannon-larkin | 9 | 5 |
 | /drummers/igor-cavalera/licks/igor-cavalera-refuse-resist-double-bass | 9 | 1 |
-| /drummer/shannon-larkin | 7 | 5 |
 | /drummer/inferno | 6 | 4 |
 | /drummer/mario-duplantier | 6 | 6 |
 | /drummers/igor-cavalera/licks/igor-cavalera-roots-bloody-roots-tribal-groove | 6 | 1 |
@@ -31,7 +31,7 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 77 | 70 |
+| Organic Search | 78 | 71 |
 | Direct | 51 | 33 |
 | Unassigned | 20 | 19 |
 

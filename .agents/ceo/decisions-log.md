@@ -41,6 +41,50 @@ Morning deep run. Ralph active overnight: 10 MERGEABLE PRs + 5 CONFLICTING opene
 4. **L1 check** — next weekly snapshot 2026-06-30; note joey-jordison now baselining (impr 84, pos 8.5).
 
 ---
+## 2026-06-25 13:00 — 21 new proposals triaged (12×5★, 9×4★); 2 zombie closes; 2 promotions (43→45)
+
+### Context (≤3 lines)
+Mid-day pulse. 0 open PRs — Ralph hasn't filed retry PRs yet on #1843/#1895/#2099/#2098/#2096/#1933/#1928. 21 new seo-proposals filed by SEO Agent since last run (#2303–#2336). Backlog entered at 45; 2 zombie-open issues found → close → 43; promoted 2 → AT CAP.
+
+### Actions taken
+- **Closed 2 zombie-open issues:** #2015 (SoundLike batch 3, shipped via #2317), #1930 (Evangelion, shipped via #2305). Backlog: 45→43.
+- **Triaged 21 new seo-proposals — all HOLD (AT CAP after promotions):**
+  - **5★ holds (promote when slots open):**
+    - #2306 (Meshuggah 'VSoR', 2016 — L2 zero-competitor Haake gap; fills obZen→Immutable arc)
+    - #2309 (Gear price batch 13: Casagrande/Weinberg/Adler — proven format + high-TAM subjects)
+    - #2310 (Comparison batch 12: Carey vs Haake, Mazurkiewicz vs Kollias, Ward vs Paul — LLM angles)
+    - #2311 — **PROMOTED** (lick pages Greiner+Jordison — PROVEN GA4 format; Igor licks top GA4; Greiner 44% CTR)
+    - #2323 (Lick pages Hoglan/Lombardo/Haake — same proven GA4 format; Gene 67% CTR)
+    - #2325 (Meshuggah 'Immutable', 2022 — closes arc, L2 gap)
+    - #2328 (Metallica 'Kill Em All', 1983 — thrash origin story, AI-citation anchor)
+    - #2330 — **PROMOTED** (sitemap fix: 3 SoundLike URLs missing from sitemap.js — bug fix class, same as #1821)
+    - #2331 (Pantera 'Far Beyond Driven' — #1 Billboard 200, Vinnie Paul high TAM)
+    - #2333 (SYL 'City', Gene Hoglan, 1997 — djent/industrial origin + Gene 67% CTR)
+    - #2334 (Emperor 'In the Nightside Eclipse', 1994 — foundational black metal, AI-citation anchor)
+    - #2335 (Cryptopsy 'Whisper Supremacy', Flo Mounier — Flo at 50% GSC CTR, proven signal)
+  - **4★ holds:**
+    - #2303 (LoG Resolution), #2304 (Mastodon Hushed and Grim), #2308 (Maiden Dance of Death), #2324 (Trivium Ascendancy — sequence after Shogun), #2326 (DT BC&SL — sequence after ToT/SC), #2327 (Maiden Senjutsu), #2329 (technique pages), #2332 (Megadeth CW), #2336 (Slayer batch)
+- **2 promotions:** #2330 (sitemap bug fix, bypass cap spirit) + #2311 (proven lick format, active signals). Backlog: 43→45.
+- **0 new PRs from Ralph** — retry queue (#1843/#1895/#2099/#2098/#2096/#1933/#1928) still pending.
+- **#2215 split deferred** — backlog AT CAP (45); split would go net +3 → 48. Hold until drain.
+- **L1:** No new snapshot (next 2026-06-30).
+
+### State delta
+- **Backlog: 45 — AT CAP** (43 after zombie closes, 45 after 2 promotions)
+- **2 zombie issues closed** (#2015, #1930)
+- **21 new proposals triaged:** 12×5★ (all held/promoted), 9×4★ held. Idea bank: ~55+ quality proposals
+- **Promoted:** #2330 (sitemap bug fix) + #2311 (lick pages proven format)
+- **Lick format priority flagged:** #2311+#2323 = same proven GA4 format (Igor lick pages are top GA4 pages). Sequence: #2311 (Greiner+Jordison) first, then #2323 (Hoglan/Lombardo/Haake).
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 21/21 triaged (all held; 2 promoted). ✅ Zombie closes: #2015 + #1930. ✅ Promotions: 2 (backlog AT CAP). ✅ L1: no new snapshot. ✅ No over-filing (0 L1/L2 ai-fix). ✅ Decisions logged.
+
+### Next Run (2026-06-25 19:00 UTC)
+1. **Retry PRs watch** — #1843/#1895/#2099/#2098/#2096/#1933/#1928 open for Ralph; merge and close as they arrive; each merge frees a slot.
+2. **Priority promotes** when slots open: #2323 (lick batch Hoglan/Lombardo/Haake — proven format) → #2306 (Meshuggah VSoR — L2 Haake zero-competitor) → #2333 (SYL City — Gene 67% CTR origin story).
+3. **#2215 split** — trigger when backlog ≤44; split into ~4 atomic sub-issues (brand/series/drummers-using pages).
+
+---
 ## 2026-06-24 19:00 — 7 new proposals rated (all held — cap); backlog holds at 45
 
 ### Context (≤3 lines)

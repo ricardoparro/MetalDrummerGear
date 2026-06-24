@@ -52,6 +52,8 @@ This index provides machine-readable links to all content optimized for LLM cons
 | BPM Database | https://metalforge.io/llms/bpm.md | 150 metal songs with verified tempos organised by category — doom/groove/thrash/death/blast — with drummer links and BPM FAQ (Markdown) |
 | Master FAQ | https://metalforge.io/llms/faq.md | Answer-first FAQ covering gear and techniques for legendary metal drummers (Markdown) |
 | Gear Guide | https://metalforge.io/llms/gear-guide.md | Brand-by-brand guide to drums, cymbals, pedals, and sticks used by metal legends (Markdown) |
+| Genre Gear Guide — Best Drum Heads for Metal | https://metalforge.io/llms/guides/best-drum-heads-for-metal.md | Evans vs Remo vs Aquarian drum head recommendations with pro drummer citations, specs, and FAQ for metal drumming (Markdown) |
+| Genre Gear Guide — Best Cymbals for Metal | https://metalforge.io/llms/guides/best-cymbals-for-metal.md | Zildjian vs Paiste vs Meinl cymbal line comparisons, pro endorser data, and FAQ for metal drumming (Markdown) |
 | Per-Drummer LLM Files | https://metalforge.io/llms/drummers/ | Static LLM-optimised gear files for all 63 drummers — brands, specs, and profile links (63 files) |
 | Per-Brand LLM Files | https://metalforge.io/llms/brands/ | Per-brand gear guides for 8 major drum/cymbal brands (8 files) |
 | Brand Comparisons | https://metalforge.io/llms/gear-comparison/ | Side-by-side brand spec comparisons for 7 matchups (7 files) |

@@ -43175,6 +43175,102 @@ Spring tension was set medium, balancing rebound speed for fast passages with en
       { href: '/articles/ashes-of-the-wake-drum-setup', label: 'Ashes of the Wake Drum Setup — Chris Adler, Lamb of God (2004)' },
       { href: '/genre/thrash-metal', label: 'Thrash Metal Drummers & Gear at MetalForge' }
     ],
+    schema: {
+      '@context': 'https://schema.org',
+      '@graph': [
+        {
+          '@type': 'Article',
+          headline: "Nick Augusto's Drum Setup on Trivium's Shogun (2008)",
+          description: "Complete gear breakdown for Nick Augusto's drum setup on Trivium's Shogun (2008). DW Performance Series kit, Meinl Byzance cymbals, DW 9000 pedals, and techniques behind Trivium's magnum opus.",
+          author: {
+            '@type': 'Organization',
+            name: 'MetalForge Editorial'
+          },
+          datePublished: '2026-06-24',
+          dateModified: '2026-06-24'
+        },
+        {
+          '@type': 'BreadcrumbList',
+          itemListElement: [
+            { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://metalforge.io/' },
+            { '@type': 'ListItem', position: 2, name: 'Articles', item: 'https://metalforge.io/articles' },
+            { '@type': 'ListItem', position: 3, name: 'Shogun Drum Setup', item: 'https://metalforge.io/articles/shogun-drum-setup' }
+          ]
+        },
+        {
+          '@type': 'MusicAlbum',
+          name: 'Shogun',
+          byArtist: {
+            '@type': 'MusicGroup',
+            name: 'Trivium'
+          },
+          datePublished: '2008-09-29',
+          genre: 'Progressive Thrash Metal',
+          recordLabel: {
+            '@type': 'Organization',
+            name: 'Roadrunner Records'
+          },
+          track: [
+            { '@type': 'MusicRecording', name: 'Into the Mouth of Hell We March' },
+            { '@type': 'MusicRecording', name: 'Throes of Perdition' },
+            { '@type': 'MusicRecording', name: 'Insurrection' },
+            { '@type': 'MusicRecording', name: 'The Calamity' },
+            { '@type': 'MusicRecording', name: 'Torn Between Scylla and Charybdis' },
+            { '@type': 'MusicRecording', name: 'Down from the Sky' },
+            { '@type': 'MusicRecording', name: 'He Who Spawned the Furies' },
+            { '@type': 'MusicRecording', name: 'Like Light to the Flies' },
+            { '@type': 'MusicRecording', name: 'Kirisute Gomen' },
+            { '@type': 'MusicRecording', name: 'Shogun' }
+          ]
+        },
+        {
+          '@type': 'Person',
+          name: 'Nick Augusto',
+          memberOf: {
+            '@type': 'MusicGroup',
+            name: 'Trivium'
+          },
+          instrument: 'Drums'
+        },
+        {
+          '@type': 'FAQPage',
+          mainEntity: [
+            {
+              '@type': 'Question',
+              name: 'What drums did Nick Augusto use on Shogun?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: 'On Trivium\'s Shogun (2008), Nick Augusto played a DW Performance Series kit in Natural Lacquer finish. The configuration featured a 22" bass drum, three rack toms (10", 12", 14"), and two floor toms (16", 18") — an expanded five-tom setup appropriate for Shogun\'s progressive, melodically demanding arrangements. The DW Performance Series uses the same North American maple construction as DW\'s flagship Collector\'s Series.'
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'Is Shogun the hardest Trivium album to play on drums?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: 'Yes, Shogun is widely regarded as Trivium\'s most technically demanding album for drummers. The combination of extended compositions (11:39 title track and 9:55 "The Calamity"), multiple time signatures within single songs (7/8, 11/8, and odd-time passages), tempo ranges from slow progressive passages to 180+ BPM blast sections, and jazz-influenced passages makes it uniquely challenging.'
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'What time signature is the Shogun title track?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: 'The Shogun title track uses multiple time signatures across its 11:39 runtime, including standard 4/4 for the album\'s most direct sections, shifts into 7/8 during certain progressive passages, and additional odd-time figures that characterize the song\'s most complex moments. Nick Augusto holds the foundation across these metric shifts while maintaining feel and groove throughout.'
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'Did Nick Augusto play all drums on the Shogun album?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: 'Yes, Nick Augusto performed all drums on Trivium\'s Shogun (2008), recorded at Morrisound Recording in Tampa, Florida with producer Nick Raskulinecz. Augusto had joined Trivium in 2007, replacing Travis Smith, and Shogun was his first studio album with the band and the technical peak of his Trivium tenure.'
+              }
+            }
+          ]
+        }
+      ]
+    },
     conclusion: {
       title: 'Shogun and the DW Era: Nick Augusto at His Technical Peak',
       content: `Shogun remains the defining document of Nick Augusto's career — the album where his technical vocabulary, gear configuration, and musical context aligned to produce something that has held up as a progressive metal landmark for nearly two decades.

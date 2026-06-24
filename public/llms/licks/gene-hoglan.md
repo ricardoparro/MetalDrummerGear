@@ -1,12 +1,58 @@
 # Gene Hoglan — Signature Drum Licks & Patterns
 
-**Band:** Death / Testament | **Genre:** Death Metal / Thrash Metal | **Lick Count:** 3
+**Band:** Death / Dark Angel / Testament | **Genre:** Death Metal / Thrash Metal | **Lick Count:** 5
 
 ---
 
 ## Overview
 
-Gene Hoglan is one of Death Metal / Thrash Metal's most influential drummers, best known for their work with Death. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Gene Hoglan" or "Gene Hoglan signature drum patterns". Their style spans death-metal.
+Gene Hoglan is one of Death Metal / Thrash Metal's most influential drummers, best known for their work with Death and Dark Angel. This file covers 5 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Gene Hoglan" or "Gene Hoglan signature drum patterns". Their style spans death-metal, thrash-metal.
+
+## Dark Angel 220 BPM Blast Beat
+
+**Song:** Darkness Descends | **Album:** Darkness Descends (1986) | **BPM:** ~220 BPM | **Technique:** blast-beat | **Difficulty:** expert
+
+Gene Hoglan's work on Dark Angel's Darkness Descends, released in 1986, is one of the most historically significant drumming performances in the history of extreme metal. At a time when no one had heard drumming at these speeds in a fully produced studio metal context, Hoglan delivered blast beats approaching 220 BPM with a clarity, power, and consistency that was simply unprecedented. The album is widely cited as a direct precursor to death metal, and Hoglan's drumming is central to why it still sounds ferocious four decades later. What makes the blast beats on Darkness Descends particularly instructive is Hoglan's technique: unlike the heel-up, double-bass-driven blasts that became standard in death and grindcore, Hoglan at this stage played with a heavy reliance on wrist power and a single bass drum pedal. The right hand drives the ride or crash at the blast speed, the left hand locks to the snare with a near-simultaneous backbeat, and the single kick drives underneath with a pumping pattern. This wrist-driven approach gives the blasts a human urgency and physicality that the more metronomic double-bass approach sometimes lacks. For drummers, studying this lick teaches the historical roots of extreme metal blasting, the mechanics of single-bass blast technique, and how wrist power rather than foot speed alone can drive a blast at extreme tempos. Building this technique requires developing wrist endurance at the ride or crash through short blast bursts at moderate speed before pushing the BPM. The approach differs meaningfully from double-bass blast practice: the hands carry more of the velocity burden, and power comes from shoulders and wrists rather than two feet dividing the work.
+
+### How to Play
+
+- Drive the blast with wrist power at the ride or crash — hands carry the velocity burden
+- Lock the snare with a near-simultaneous backbeat on the left hand
+- Use a single bass drum pedal with a consistent pumping pattern underneath
+- Build wrist endurance through short blast bursts before extending duration
+- Focus on clarity and evenness of each stroke rather than raw maximum speed
+
+### Key Elements
+
+- Practice short blast bursts at moderate speed before pushing the BPM — evenness beats velocity
+- Focus on wrist relaxation and rebound; tension at these speeds causes injury and kills endurance
+- Use a single kick pedal to develop this specific technique before switching to double bass
+- Record yourself to monitor stroke evenness — both hands should sound identical in volume
+
+**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Wrist Technique](https://metalforge.io/technique/wrist-technique), [Single Bass](https://metalforge.io/technique/single-bass)
+
+## Symbolic Groove-to-Blast Switch
+
+**Song:** Symbolic | **Album:** Symbolic (1995) | **BPM:** ~195 BPM | **Technique:** groove-to-blast | **Difficulty:** expert
+
+The Symbolic album (1995) represents the apex of Gene Hoglan's collaboration with Chuck Schuldiner, and the defining drum technique of that record is Hoglan's seamless shifting between deep, groove-locked patterns and devastating blast sections within a single song. The title track moves from a mid-paced, heavily riff-locked groove into searing blast passages and back again, each transition executed with surgical precision using fills that bridge the two worlds without a moment of hesitation or loss of momentum. This is a genuinely difficult skill: many drummers can play a blast and many can play a groove, but Hoglan makes the switch feel inevitable rather than laboured, because his internal pulse is so locked that the tempo feels unified even as the playing density changes dramatically. The groove sections demonstrate Hoglan's refined half-time feel — wide, breathing snare placement over a driving kick figure — that gives the riff maximum space to breathe, while the blast sections are tight, wrist-led, and ferociously precise. The transition fills are typically compact and musical, a few quick strokes across the toms arriving exactly on the barline. For drummers, this lick teaches one of the most valuable skills in extreme metal: gear-change fluency. The practice method is to isolate the groove section, then the blast section, and then work through each transition individually, building the fill from slow speed up to tempo with the goal of making each arrival feel natural and unforced.
+
+### How to Play
+
+- Isolate the groove section and the blast section separately before practising the transitions
+- Use compact, barline-landing fills to bridge between groove and blast without disruption
+- Maintain a unified internal pulse so the feel shifts but the tempo lock never wavers
+- Execute the half-time snare with authority in groove sections — wide and breathing, not rushed
+- Build each fill from slow speed to tempo before inserting it into the full passage
+
+### Key Elements
+
+- Practice the groove and blast sections as separate modules before combining them
+- Work on the fill bridging each transition in isolation at half speed first
+- Record the full passage to check that each section feels genuinely different in density and feel
+- Keep fills short and decisive — the transition should happen in two to four strokes maximum
+
+**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Blast Beat](https://metalforge.io/technique/blast-beat), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
 
 ## The Philosopher Groove
 
@@ -79,7 +125,7 @@ Zero Tolerance, the opening track of Death's Symbolic, is a showcase for Gene Ho
 
 ## Teaching Points
 
-Gene Hoglan's style is defined by precision, timing, and genre-defining grooves. Key practice principles across all their licks: Develop even double-bass strokes before pushing the tempo; Use a metronome religiously to maintain clock-like timing; Keep the hands relaxed in the half-time pocket. Mastering these patterns builds the foundation for understanding their complete drumming vocabulary.
+Gene Hoglan's style is defined by precision, timing, and genre-defining grooves. Key practice principles across all their licks: Develop even double-bass strokes before pushing the tempo; Use a metronome religiously to maintain clock-like timing; Keep the hands relaxed in the half-time pocket; Build gear-change fluency between grooves and blasts. Mastering these patterns builds the foundation for understanding their complete drumming vocabulary, from the raw Dark Angel blast era through the sophisticated Death-period genre synthesis.
 
 ## More Resources
 

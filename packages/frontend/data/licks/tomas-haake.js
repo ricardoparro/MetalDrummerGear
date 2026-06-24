@@ -3,6 +3,140 @@
 // Adding a drummer's licks is now a new-file op — no shared-file append conflict. Issue #1056.
 
 export const licks = {
+  "tomas-haake-obzen-polyrhythm-groove": {
+    "slug": "tomas-haake-obzen-polyrhythm-groove",
+    "name": "obZen Polyrhythm Ostinato",
+    "shortName": "obZen Polyrhythm",
+    "drummerId": 5,
+    "drummerName": "Tomas Haake",
+    "drummerSlug": "tomas-haake",
+    "band": "Meshuggah",
+    "song": "Bleed",
+    "album": "obZen (2008)",
+    "category": "polyrhythm",
+    "style": "djent",
+    "difficulty": "expert",
+    "difficultyRating": 5,
+    "bpm": 116,
+    "bpmDisplay": "116 BPM",
+    "timeSignature": "4/4",
+    "description": "The polyrhythmic grid underlying Bleed from Meshuggah's 2008 album obZen is one of the most analytically rich drum patterns in contemporary metal, and it is distinct from the double-bass endurance story that defines how the song is usually taught. The central concept is a 4/4 metric structure over which the guitars and drums project an accent pattern that follows a grid built on non-aligned groupings, creating the sensation that the time signature is constantly shifting even though the pulse never wavers. Tomas Haake's hands are the key to understanding this: while the feet deliver the relentless sixteenth-note ostinato, it is the snare and cymbal accents that articulate the polyrhythmic displacement — hits that land on specific offbeats of the 4/4 grid, grouped in patterns whose length does not divide evenly into the bar. The effect is hypnotic and deeply mathematical, yet Haake executes it with such evenness and control that the complexity is almost hidden beneath the physicality of the performance. The accent pattern runs over the top of the constant kick, and the tension between the two layers — the steady mechanical feet and the displaced hand accents — is the source of Bleed's hypnotic quality. The most-watched Meshuggah drum performance video, Haake playing Bleed, has accumulated over eight million views, and a significant portion of viewers describe it as the moment they first understood that metal drumming could be simultaneously intellectual and overwhelming. For drummers, the polyrhythmic analysis of Bleed is a separate study from its endurance demands. Approach it by writing out the 4/4 bar and mapping where each snare and cymbal accent falls against the sixteenth-note grid; count how many bars it takes before the accent pattern resolves back to beat one. That resolution cycle — the full span before the pattern repeats — is your polyrhythmic unit, and understanding it intellectually before playing it is essential. Slow the pattern down to a fraction of the recorded tempo and layer in the accents one limb at a time: first the steady kick, then the hi-hat or ride pulse, then the snare displacement. The goal is to hear the layers simultaneously rather than feeling them as a coordination challenge. Mastering this analysis unlocks not just Bleed but the entire Meshuggah compositional method, revealing how displacement can create groove, tension, and resolution without ever leaving 4/4.",
+    "techniques": [
+      "polyrhythms",
+      "ostinato",
+      "limb-independence"
+    ],
+    "techniqueDetails": [
+      "Map where each snare and cymbal accent falls against the 4/4 sixteenth-note grid before playing",
+      "Count the full resolution cycle — how many bars before the accent pattern returns to beat one",
+      "Layer the ostinato one limb at a time: feet first, then hi-hat pulse, then snare displacement",
+      "Listen to the two layers simultaneously rather than treating them as a coordination obstacle",
+      "Practice at a fraction of recorded tempo until the polyrhythmic logic is fully internalised"
+    ],
+    "tutorial": null,
+    "gearUsed": [
+      {
+        "name": "Sonor SQ2 Drum Kit",
+        "type": "drums",
+        "link": null
+      },
+      {
+        "name": "Sabian Cymbals",
+        "type": "cymbals",
+        "link": null
+      },
+      {
+        "name": "Axis Longboard Pedals",
+        "type": "pedals",
+        "link": null
+      }
+    ],
+    "learningTips": [
+      "Write out the accent pattern on paper before touching the kit — understanding it intellectually is 50% of the work",
+      "Count aloud to identify the resolution cycle length; this proves you have truly mapped the polyrhythm",
+      "Keep the feet completely relaxed and even while focusing mental attention on the hand pattern",
+      "Study this polyrhythmic aspect alongside the endurance aspect — they are complementary, not the same skill"
+    ],
+    "seo": {
+      "title": "Tomas Haake obZen Polyrhythm - Meshuggah Bleed Drum Tutorial | MetalForge",
+      "description": "Learn the polyrhythmic ostinato grid from Tomas Haake's Bleed (Meshuggah obZen). 4/4 displacement analysis, accent mapping, and practice method.",
+      "keywords": [
+        "tomas haake",
+        "obzen polyrhythm",
+        "bleed drum pattern",
+        "meshuggah polyrhythm",
+        "4/4 displacement",
+        "djent polyrhythm groove"
+      ]
+    }
+  },
+  "tomas-haake-koloss-groove-ostinato": {
+    "slug": "tomas-haake-koloss-groove-ostinato",
+    "name": "Koloss I Am Colossus Groove",
+    "shortName": "Koloss Ostinato",
+    "drummerId": 5,
+    "drummerName": "Tomas Haake",
+    "drummerSlug": "tomas-haake",
+    "band": "Meshuggah",
+    "song": "I Am Colossus",
+    "album": "Koloss (2012)",
+    "category": "polyrhythm",
+    "style": "djent",
+    "difficulty": "advanced",
+    "difficultyRating": 4,
+    "bpm": 100,
+    "bpmDisplay": "~100 BPM",
+    "timeSignature": "4/4",
+    "description": "I Am Colossus, the opening track from Meshuggah's 2012 album Koloss, presents what is arguably Tomas Haake's most accessible polyrhythmic performance — deceptively simple on the surface but built on deep subdivisions that reveal their logic only on close listening. The song's main groove sits at a slower tempo than Bleed or New Millennium Cyanide Christ, which gives the polyrhythmic displacement more space to breathe and makes the structural logic of the pattern easier to identify and study. The surface rhythm is a heavy, lurching groove driven by a powerful kick pattern that accents specific eighth notes against a slow hi-hat pulse, while the snare lands in places that feel almost wrong in the context of a conventional rock groove — until you identify the riff grouping length and hear how the displaced hits lock perfectly to the guitar accents. This is the Meshuggah paradox at its most accessible: the drumming feels off-kilter yet inevitable, strange yet deeply grooved, because Haake is perfectly in time with a rhythmic structure that does not divide evenly into the Western metric bar. The Koloss album production — heavier and more stripped-back than obZen — gives the drums a density and power that makes this groove feel physical rather than academic, and I Am Colossus is a track where the rhythmic complexity is clearly emotional as well as mathematical. Haake described the Koloss sessions as an attempt to find something heavier through simplicity, and the groove of I Am Colossus delivers exactly that: fewer notes than Bleed, but each one landing with heightened intentionality. For drummers, this lick is the ideal entry point into Meshuggah-style ostinato playing before tackling the full-speed complexity of Bleed or Clockworks. Identify the riff grouping — count the notes in each guitar accent cycle and determine how many bars pass before the pattern resets. Then set a slow metronome, establish the hi-hat pulse, and add the kick and snare pattern against it, focusing on locking the displaced accents to the guitar figures rather than to the metronome grid. The goal is to make the groove feel natural at a slow tempo, building the polyrhythmic independence in your body before chasing any recorded speed. Starting here and working forward through the Meshuggah catalogue is the most reliable path through Haake's complete rhythmic vocabulary.",
+    "techniques": [
+      "polyrhythms",
+      "groove-drumming",
+      "odd-time-signatures"
+    ],
+    "techniqueDetails": [
+      "Count the guitar riff grouping cycle length and track how many bars before the pattern resets",
+      "Establish a steady hi-hat pulse as your anchor before adding the displaced kick and snare",
+      "Lock the displaced snare hits to the guitar accent figures rather than to the metronome grid",
+      "Practice at a tempo slow enough that the groove feels natural before building speed",
+      "Use this lick as your Meshuggah entry point before tackling faster tracks like Bleed"
+    ],
+    "tutorial": null,
+    "gearUsed": [
+      {
+        "name": "Sonor SQ2 Drum Kit",
+        "type": "drums",
+        "link": null
+      },
+      {
+        "name": "Sabian Cymbals",
+        "type": "cymbals",
+        "link": null
+      },
+      {
+        "name": "Axis Longboard Pedals",
+        "type": "pedals",
+        "link": null
+      }
+    ],
+    "learningTips": [
+      "This is the most approachable Meshuggah lick — slower tempo gives the polyrhythm room to click",
+      "Count the riff cycle length until you can predict the resolution without consciously tracking it",
+      "Learn I Am Colossus before New Millennium Cyanide Christ and before Bleed — build the vocabulary in order",
+      "Play along with the album recording to feel how the groove locks against the guitars in full context"
+    ],
+    "seo": {
+      "title": "Tomas Haake Koloss I Am Colossus Groove - Meshuggah Drum Tutorial | MetalForge",
+      "description": "Learn Tomas Haake's polyrhythmic ostinato from Meshuggah's I Am Colossus (Koloss 2012). Ideal entry point into Meshuggah-style groove playing.",
+      "keywords": [
+        "tomas haake",
+        "i am colossus drums",
+        "meshuggah koloss",
+        "koloss drumming",
+        "polyrhythm groove",
+        "meshuggah entry level"
+      ]
+    }
+  },
   "tomas-haake-bleed-groove": {
     "slug": "tomas-haake-bleed-groove",
     "name": "Bleed Double Bass Groove",

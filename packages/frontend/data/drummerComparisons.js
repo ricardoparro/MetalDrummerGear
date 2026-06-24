@@ -398,6 +398,74 @@ export const drummerComparisons = {
     verdict: 'Two artists who transcend drumming. Danny Carey is the philosopher-mathematician behind the kit. Brann Dailor is perpetual motion incarnate. Both have created unique voices in progressive metal.',
   },
 
+  // Issue #1975: SEO batch — NWOBHM legends
+  'nicko-mcbrain-vs-mikkey-dee': {
+    slug: 'nicko-mcbrain-vs-mikkey-dee',
+    title: 'Nicko McBrain vs Mikkey Dee',
+    metaTitle: 'Nicko McBrain vs Mikkey Dee: Comparing Two Classic Heavy Metal Icons | MetalForge',
+    metaDescription: 'Iron Maiden\'s Nicko McBrain vs Motörhead\'s Mikkey Dee. Two titans of British heavy metal drumming compared. Technique, gear, and legacy analyzed.',
+    category: 'thrash',
+    drummers: ['nicko-mcbrain', 'mikkey-dee'],
+    comparison: {
+      style: 'Nicko delivers galloping rhythms and complex patterns that underpin Iron Maiden\'s progressive metal epics. Mikkey brings explosive raw power and relentless drive to Motörhead\'s high-speed rock and roll.',
+      technique: 'Nicko is a single-bass master known for intricate galloping patterns and dynamic control across long songs. Mikkey employs double bass for thunderous speed, hard-hitting snare, and a no-frills aggressive attack.',
+      gear: 'Nicko plays Sonor SQ2 drums with Paiste 2002 cymbals for a bright, cutting tone. Mikkey endorses Sonor drums with Zildjian A Custom and K Series cymbals for aggressive projection.',
+      influence: 'Nicko shaped British heavy metal drumming through four decades and hundreds of millions of Iron Maiden records sold. Mikkey anchored Motörhead\'s final and most celebrated live era, earning legendary status in hard rock and metal.',
+    },
+    verdict: 'Nicko McBrain is the technical architect of Iron Maiden\'s galloping sound — complex, melodic, and precise. Mikkey Dee is the raw force that made Motörhead\'s final years their most powerful. Both are irreplaceable NWOBHM legends who defined their respective bands\' sound.',
+  },
+
+  // Issue #1975: SEO batch — Nu-metal era rivals
+  'john-otto-vs-ray-luzier': {
+    slug: 'john-otto-vs-ray-luzier',
+    title: 'John Otto vs Ray Luzier',
+    metaTitle: 'John Otto vs Ray Luzier: Comparing Two Nu-Metal Era Legends | MetalForge',
+    metaDescription: 'Limp Bizkit\'s John Otto vs Korn\'s Ray Luzier. Nu-metal drumming compared: groove vs technical precision. The Limp Bizkit vs Korn drummer showdown.',
+    category: 'other',
+    drummers: ['john-otto', 'ray-luzier'],
+    comparison: {
+      style: 'John Otto blends jazz sophistication, hip-hop groove, and metal power into Limp Bizkit\'s rap-rock foundation. Ray Luzier brings session-musician precision and modern technique to Korn\'s heavy alternative metal.',
+      technique: 'John studied jazz at the Douglas Anderson School of the Arts, using syncopated patterns and funky ghost notes to create Limp Bizkit\'s signature groove. Ray excels at tight, controlled patterns with double bass fluency and dynamic range.',
+      gear: 'John Otto plays Pearl drums with a hip-hop-inspired setup focused on groove and pocket. Ray endorses Pearl Reference drums with Sabian AAX cymbals for a bright, punchy attack.',
+      influence: 'John Otto defined the rhythmic DNA of one of the best-selling bands of the late 1990s, bringing jazz vocabulary to mainstream metal. Ray Luzier maintains Korn\'s heavyweight nu-metal legacy while adding modern technical flair.',
+    },
+    verdict: 'John Otto\'s jazz-meets-hip-hop grooves made Limp Bizkit\'s sound instantly recognizable and commercially unstoppable. Ray Luzier\'s technical precision has sustained Korn\'s intensity for over a decade. Both represent nu-metal drumming at its finest.',
+  },
+
+  // Issue #1975: SEO batch — Modern thrash rivals
+  'dirk-verbeuren-vs-chris-adler': {
+    slug: 'dirk-verbeuren-vs-chris-adler',
+    title: 'Dirk Verbeuren vs Chris Adler',
+    metaTitle: 'Dirk Verbeuren vs Chris Adler: Comparing Two Modern Thrash Icons | MetalForge',
+    metaDescription: 'Megadeth\'s Dirk Verbeuren vs Lamb of God\'s Chris Adler. Modern thrash drumming precision compared. Grammy-nominated rivals — technique, gear, and legacy.',
+    category: 'thrash',
+    drummers: ['dirk-verbeuren', 'chris-adler'],
+    comparison: {
+      style: 'Dirk brings European technical precision to Megadeth\'s classic thrash with blinding speed and mathematical accuracy. Chris forged a southern groove-infused thrash style with Lamb of God that defined New Wave of American Heavy Metal.',
+      technique: 'Dirk is known for extreme double bass speed, technical fills, and seamless transitions between blast beats and groove. Chris pioneered precise triplet-based groove drumming with signature kick patterns and explosive snare accents.',
+      gear: 'Dirk endorses Tama Starclassic Walnut/Birch drums with Zildjian A Custom and K Custom cymbals for versatile attack. Chris played DW drums with Meinl Byzance cymbals for a dark, aggressive tone.',
+      influence: 'Dirk brought a new level of technical sophistication to Megadeth after joining in 2016, contributing to their Grammy-nominated "Dystopia." Chris defined the NWOAHM drumming template with Lamb of God\'s Grammy-nominated work across the 2000s and 2010s.',
+    },
+    verdict: 'Dirk Verbeuren is the technical perfectionist who elevated Megadeth\'s modern sound to new extremes. Chris Adler is the groove-thrash architect who built Lamb of God into a defining force of 21st-century metal. Both earned Grammy recognition — proof of their artistry.',
+  },
+
+  // Issue #1975: SEO batch — Progressive rock/metal legends
+  'mike-portnoy-vs-gavin-harrison': {
+    slug: 'mike-portnoy-vs-gavin-harrison',
+    title: 'Mike Portnoy vs Gavin Harrison',
+    metaTitle: 'Mike Portnoy vs Gavin Harrison: Comparing Two Progressive Drumming Legends | MetalForge',
+    metaDescription: 'Dream Theater\'s Mike Portnoy vs Porcupine Tree\'s Gavin Harrison. The ultimate prog drummer debate: power vs finesse. Technique, gear, and legacy compared.',
+    category: 'progressive',
+    drummers: ['mike-portnoy', 'gavin-harrison'],
+    comparison: {
+      style: 'Mike Portnoy delivers theatrical progressive metal with aggressive power, massive fills, and dramatic arrangement complexity. Gavin Harrison plays with restrained sophistication, using polyrhythms and ghost notes to create prog textures that reward close listening.',
+      technique: 'Mike excels at rapid-fire transitions, extreme endurance across marathon compositions, and theatrical showmanship on massive multi-bass drum kits. Gavin masterfully weaves intricate polyrhythmic patterns through odd time signatures while maintaining groove and musicality.',
+      gear: 'Mike plays Tama Starclassic Maple/Birch drums with Sabian cymbals on his iconic multi-bass signature setup. Gavin uses Sonor SQ2 drums, known for their craftsmanship and tonal depth, paired with a streamlined kit philosophy.',
+      influence: 'Mike Portnoy co-founded Dream Theater and shaped 1990s progressive metal, mentoring countless drummers through instructional work and YouTube presence. Gavin Harrison is a multiple Modern Drummer award winner who elevated Porcupine Tree, King Crimson, and The Pineapple Thief.',
+    },
+    verdict: 'Mike Portnoy is the definitive progressive metal powerhouse — explosive, theatrical, and relentless. Gavin Harrison is the prog drummer\'s drummer — subtle, sophisticated, and polyrhythmically brilliant. The debate between power and finesse makes this the ultimate prog drumming comparison.',
+  },
+
   // Issue #691: Top 20 SEO Comparison Pages - Speed vs Artistry
   'joey-jordison-vs-mike-portnoy': {
     slug: 'joey-jordison-vs-mike-portnoy',

@@ -5208,6 +5208,278 @@ This guide covers Igor's core technique across both the thrash period (Beneath t
       { slug: 'chaos-ad-drum-setup', label: 'Chaos A.D. — Sepultura Drum Setup' }
     ]
   },
+
+  'how-to-sound-like-eloy-casagrande': {
+    slug: 'how-to-sound-like-eloy-casagrande',
+    drummerSlug: 'eloy-casagrande',
+    drummerId: 7,
+    drummerName: 'Eloy Casagrande',
+    band: 'Sepultura',
+    name: 'Eloy Casagrande',
+    genre: 'Thrash Metal / Groove Metal',
+    priority: 21,
+    title: "How to Sound Like Eloy Casagrande: Complete Gear & Technique Guide",
+    description: "Master Eloy Casagrande's explosive Sepultura drumming style. Learn his signature double-bass patterns, Brazilian-groove techniques, exact Tama/Paiste gear setup, and tuning tips to capture the modern Sepultura sound.",
+    seoKeywords: ['eloy casagrande drumming', 'how to sound like eloy casagrande', 'sepultura drums', 'eloy casagrande gear', 'eloy casagrande technique', 'eloy casagrande drum kit', 'sepultura drum sound', 'how to sound like sepultura drums'],
+    ogImage: '/images/guides/eloy-casagrande-guide.webp',
+    datePublished: '2026-06-24',
+    dateModified: '2026-06-24',
+    author: 'MetalForge Editorial',
+    wordCount: 2100,
+    readingTime: '10 min',
+    intro: {
+      title: "The Modern Force Behind Sepultura's Final Chapter",
+      content: `Eloy Casagrande (born August 25, 1991, in São Paulo, Brazil) joined Sepultura in 2011 at just 19 years old and spent 13 years driving one of thrash metal's most storied bands through its most technically ambitious era. Voted the #1 metal drummer in Modern Drummer's 2024 Readers' Poll, Casagrande is the bridge between Sepultura's legendary past and the explosive future of extreme metal drumming.
+
+What separates Eloy from his thrash contemporaries is the marriage of raw Brazilian aggression with surgical modern precision. On Quadra (2020), a double concept album of staggering ambition, he plays everything from tribal-groove passages to machine-gun blast beats — often within the same song. His viral drum-cam videos on tracks like "Means To An End" turned heads across the drumming world: this is controlled power at its finest, where every fast figure is played with even dynamics and immaculate timing.
+
+This guide covers Eloy's core technique — double-bass drive, dynamic control, explosive groove-metal pocket — his Tama Starclassic Bubinga and Paiste setup used throughout his Sepultura tenure, and how to practice both dimensions of his playing.`,
+      keyPoints: [
+        "Eloy joined Sepultura at 19 and drove the band through its most technically ambitious era (2011-2024)",
+        "Voted #1 metal drummer in Modern Drummer's 2024 Readers' Poll",
+        "His style fuses Brazilian thrash aggression with modern technical precision and explosive dynamics",
+        "Quadra (2020) and Machine Messiah (2017) are the definitive records for studying his approach"
+      ]
+    },
+    technique: {
+      title: "Eloy's Signature Playing Style",
+      overview: `Eloy plays matched grip with a powerful, upright technique that generates both speed and impact. His defining quality is controlled power — he hits hard without sacrificing timing or evenness, which is exactly what separates elite groove-metal drumming from merely loud playing. He uses the kick drum to lock tightly with guitar riffs rather than running constant 16th notes, creating the signature Sepultura sense of two instruments moving as one machine.`,
+      stickGrip: {
+        type: 'Matched Grip',
+        description: "Eloy uses a firm matched grip with wrists doing the primary work on fast passages, and fuller arm strokes on accents and crashes. His grip stays relaxed enough to generate rebound speed but firm enough to deliver impact — the balance is everything at his dynamic range.",
+        tips: [
+          "Keep grip relaxed enough for rebound but firm enough for power — tension is the enemy of both",
+          "Focus on even dynamics across fast passages: every note should match in volume before you add speed",
+          "Let your arms contribute on accented hits — don't try to power everything from the wrists alone"
+        ]
+      },
+      signaturePatterns: [
+        {
+          name: "Riff-Locked Double Bass Drive",
+          description: "Eloy's most recognizable pattern: kick drum placed to mirror and reinforce the guitar riff's rhythmic accents rather than running straight 16th notes. On 'Means To An End' and 'Isolation', the kick locks so tightly with the guitar that they sound like one instrument. This requires learning the guitar riff first, then building the kick pattern around it.",
+          tempo: "130-170 BPM",
+          difficulty: "Intermediate",
+          practiceHint: "Listen to the guitar riff in isolation and tap the accent points on your kick. Only add the snare/hand pattern once the kick-guitar lock feels natural and intuitive."
+        },
+        {
+          name: "Explosive Blast Beats",
+          description: "On Sepultura's thrash passages, Eloy deploys blast beats at 180-210+ BPM with explosive, even-velocity hits. His blasts are purposeful rather than just fast — clear accents keep the groove from dissolving into blur, and he transitions in and out of blasts with precision that maintains the song's momentum.",
+          tempo: "180-210 BPM",
+          difficulty: "Advanced",
+          practiceHint: "Build from 120 BPM with alternating single strokes on snare against kick. Match the velocity between hands and feet before increasing speed. At 190+ BPM, every hit should still be distinct."
+        },
+        {
+          name: "Brazilian Groove-Metal Pocket",
+          description: "Eloy's mid-tempo groove is where his Brazilian roots surface — heavy, deliberate kick placement with syncopated snare accents that create forward pull against the riff. He plays with more deliberate weight than most thrash drummers at the same tempo, giving Sepultura's groove passages their distinctive inevitable quality.",
+          tempo: "100-140 BPM",
+          difficulty: "Intermediate",
+          practiceHint: "Play at 110 BPM and focus on the weight of each kick hit rather than its tempo. Record yourself: the groove should feel physical, not just metronomic. Increase commitment before increasing speed."
+        },
+        {
+          name: "Syncopated Fill Cascades",
+          description: "Eloy's fills often run through all toms in rapid succession with syncopated entry points that set up the next section. What makes them advanced is the dynamic evenness — his fastest tom runs maintain consistent volume across all voices, which makes them land with impact rather than trailing off.",
+          tempo: "Variable",
+          difficulty: "Intermediate-Advanced",
+          practiceHint: "Practice single strokes around all toms at consistent volume (use a DB meter or record yourself). Speed comes last — evenness first."
+        }
+      ],
+      keySongs: [
+        { song: "Means To An End", album: "Quadra", year: 2020, why: "Definitive showcase of riff-locked double bass and groove-metal pocket control" },
+        { song: "Isolation", album: "Quadra", year: 2020, why: "Blast beats integrated into groove framework — transitions are the lesson" },
+        { song: "Vandal's Nest", album: "Machine Messiah", year: 2017, why: "Technical precision with explosive dynamics across tempo changes" },
+        { song: "Phantom Self", album: "Machine Messiah", year: 2017, why: "Double-bass complexity within a locked groove feel" },
+        { song: "Alethea", album: "Quadra", year: 2020, why: "Dynamic control — quiet to explosive within a single song" }
+      ]
+    },
+    gear: {
+      title: "Eloy's Tama Starclassic Bubinga Setup",
+      drumKit: {
+        brand: 'Tama',
+        model: 'Tama Starclassic Bubinga',
+        shells: 'Bubinga',
+        finish: 'Custom Sepultura configurations',
+        config: {
+          kick: '22" x 16" Bass Drums (x2, independent)',
+          snare: '14" x 5.5" Tama Bell Brass (BB146)',
+          toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom', '14" x 11" Rack Tom'],
+          floorToms: ['16" x 14" Floor Tom', '18" x 16" Floor Tom']
+        },
+        description: "Eloy used Tama Starclassic Bubinga throughout his Sepultura tenure. Bubinga shells are dense, with tight grain that delivers focused attack and less sustain than maple — giving each hit defined edges that suit the riff-locked kick patterns at the center of his style. He uses two independent bass drums rather than a double pedal, eliminating any slave-pedal delay for maximum precision at high speed.",
+        affiliateNote: "Tama Superstar Classic or Starclassic Walnut/Birch are accessible alternatives with comparable attack and projection."
+      },
+      snare: {
+        brand: 'Tama',
+        model: 'Tama Bell Brass BB146',
+        size: '14" x 5.5"',
+        shell: 'Bell Brass',
+        description: "Eloy's bell brass snare delivers a bright, cutting crack that cuts through Sepultura's dense guitar sound. The bell brass shell has more presence than steel without the brittle quality of thin steel — it cracks cleanly on backbeats and responds sensitively to ghost notes.",
+        alternative: "Ludwig Acrolite or Pearl Free-Floating Steel for comparable cutting crack with sensitivity"
+      },
+      cymbals: {
+        brand: 'Paiste',
+        series: 'Paiste Masters Dark / 2002 / Formula 602 Series',
+        setup: [
+          { type: 'Hi-Hats', model: 'Paiste 15" Masters Dark Hi-Hats', notes: 'Dark, controlled — cuts without excessive brightness' },
+          { type: 'Crash', model: 'Paiste 20" Formula 602 Modern Essentials Crash', notes: 'Fast attack with complex overtones for musical crashes' },
+          { type: 'Crash', model: 'Paiste 20" 2002 Wild Crash', notes: 'Explosive, aggressive crash for high-impact accent moments' },
+          { type: 'Crash', model: 'Paiste 20" Masters Dark Crash', notes: 'Darker crash for transition moments and contrast' },
+          { type: 'China', model: 'Paiste 20" 2002 Novo China', notes: 'China for thrash accent punctuation and blast-beat openings' },
+          { type: 'Ride', model: 'Paiste 20" 2002 Power Ride', notes: 'Powerful ride with defined bell for groove passages' }
+        ],
+        description: "Eloy's Paiste setup blends dark and aggressive voices. The Masters Dark hi-hats give controlled, non-piercing response for fast patterns, while the 2002 Wild Crash and Novo China deliver the explosive impact his thrash passages demand. The Formula 602 crash adds complex musical overtones for melodic moments on Quadra's more progressive passages."
+      },
+      pedals: {
+        brand: 'Tama',
+        model: 'Tama Iron Cobra Power Glide Double Pedal',
+        description: "Eloy uses Tama Iron Cobra Power Glide double pedals — Tama's flagship cam-drive pedal. The Power Glide cam provides an even, consistent feel across the entire stroke range, which suits Eloy's goal of even velocity across all kick hits. The cam-drive (rather than direct-drive) gives a natural feel that works for both slow, heavy groove passages and 200+ BPM blast sequences.",
+        alternative: "Tama Iron Cobra 900 Rolling Glide or DW 9000 for comparable cam-drive performance"
+      },
+      sticks: {
+        brand: 'Promark',
+        model: 'Promark Eloy Casagrande Signature',
+        specs: '5B weight, wood tip',
+        description: "Eloy plays Promark sticks at 5B weight — heavier than standard 5A, suited to power-forward thrash drumming where impact matters. The additional weight adds authority to both his groove pocket and his explosive accent hits without requiring more physical effort.",
+        alternative: "Promark 5B or Vic Firth 5B for comparable weight"
+      },
+      heads: {
+        kick: 'Evans EQ4 Clear',
+        snare: 'Evans G2 Coated',
+        toms: 'Evans G2 Coated',
+        resonant: 'Evans G1 Clear'
+      }
+    },
+    tuning: {
+      title: "Tuning for Eloy's Modern Sepultura Sound",
+      overview: "Eloy tunes for attack, impact, and projection. The Bubinga shells naturally deliver focused attack with less bloom than maple — his tuning approach reinforces that: controlled sustain on all drums, medium-high tension on the snare for cutting crack, and a kick tuned for defined thump rather than pillowy boom.",
+      kickDrum: {
+        tension: "Medium-low — warm thump with controlled sustain",
+        muffling: "Evans EQ pad inside (or small pillow touching batter); ported resonant head",
+        description: "Eloy's kick has a defined, focused thump — audible attack edge followed by controlled sustain. It locks with guitar riffs because of the defined attack transient rather than blending into a boom. The ported resonant head lets the mic breathe while the internal padding controls bloom.",
+        tip: "Use the Evans EQ pad touching only the outer edge of the batter head. Too much padding kills the thump body that makes the kick-guitar lock feel physical."
+      },
+      snare: {
+        tension: "Medium-high on batter; medium on resonant",
+        muffling: "One Moongel at edge for recording; none for live",
+        description: "The Bell Brass shell rewards medium-high tension with a bright, cutting crack that projects over thick guitars. Too loose and the shell's resonance muddies the note. Too tight and it loses the slight body that separates a crack from a ping.",
+        tip: "Tune the bell brass to where you can feel the shell vibrate through the rim when you tap it. That resonance point is where it sounds best — about 2 half-turns past finger-tight."
+      },
+      toms: {
+        tension: "Medium with controlled sustain",
+        muffling: "One small Moongel per tom or none — Bubinga has natural sustain control",
+        description: "Bubinga toms naturally sustain less than maple, so Eloy can leave them more open than you might expect for thrash drumming. The fills land with definition because the shell itself provides natural attack emphasis.",
+        tip: "Let the Bubinga sustain naturally before adding muffling. If you're using maple or birch shells as substitutes, start with one Moongel and remove it if the tom still sounds musical and defined."
+      }
+    },
+    practice: {
+      title: "Practice Tips to Develop Eloy's Style",
+      exercises: [
+        {
+          name: "Riff-Lock Kick Training",
+          description: "Develop the riff-locked double bass technique at the heart of Eloy's Sepultura groove",
+          instructions: "Choose a Sepultura riff from Quadra or Machine Messiah. Learn the guitar part's rhythmic accents (where the riff hits hardest). Play those accent points on your kick drum with a simple snare pattern. Once the kick-riff lock feels natural, add fills and complexity. Record and compare against the original.",
+          duration: "20 minutes per song",
+          goal: "Kick drum placement that mirrors the guitar riff's accent points at 130-160 BPM"
+        },
+        {
+          name: "Dynamic Blast Builder",
+          description: "Develop Eloy's even-velocity blast beats at speed",
+          instructions: "At 120 BPM, alternate single strokes on snare with kick on every other hit. Every stroke — hands and feet — should match in volume. Record it. Increase by 10 BPM per week only when the recording sounds even. Target: clean, defined blasts at 190+ BPM with matching velocities.",
+          duration: "15 minutes daily",
+          goal: "Even-velocity blast beats at 190+ BPM where every note is distinct"
+        },
+        {
+          name: "Brazilian Groove Pocket",
+          description: "Develop the heavy, deliberate mid-tempo groove at the core of Eloy's Sepultura playing",
+          instructions: "Set metronome to 110 BPM. Play a basic groove with kick on 1 and the '3-and', snare on 2 and 4. Focus entirely on weight — each kick should feel physical. Record yourself. If the kicks don't sound or feel heavy, increase stick and pedal commitment, not tempo.",
+          duration: "15 minutes daily",
+          goal: "Heavy, inevitable mid-tempo groove at 100-130 BPM that feels physically weighty on playback"
+        },
+        {
+          name: "Even Tom Fill Drill",
+          description: "Develop the even-dynamic tom fills that make Eloy's cascades land with impact",
+          instructions: "Play single strokes around all toms at 80 BPM, aiming for matching volumes on every tom. Use a DB meter app or recording to verify. When all toms match at 80 BPM, increase to 100 BPM, then 120 BPM. Speed and evenness together — not one without the other.",
+          duration: "10 minutes daily",
+          goal: "Tom fills at 130+ BPM where all toms match in volume and feel like one movement"
+        }
+      ],
+      commonMistakes: [
+        "Playing kick patterns that don't follow the guitar riff — the riff-lock is the whole point of Eloy's groove",
+        "Chasing speed before achieving even dynamics — uneven blasts fall apart at high BPM",
+        "Over-muffling the kit — Bubinga shells (and substitutes) benefit from natural sustain control",
+        "Under-committing on the mid-tempo groove — each hit should feel physical and deliberate, not merely correct"
+      ]
+    },
+    videos: [],
+    budgetSetups: {
+      budget: {
+        price: "$1,200",
+        label: "Starter Eloy-Inspired Setup",
+        kit: "Tama Imperialstar ($500) or Pearl Export ($550)",
+        cymbals: "Paiste PST 8 or 900 Series ($300)",
+        pedals: "Tama Iron Cobra 200 Double Pedal ($200)",
+        sticks: "Promark 5B ($10)",
+        notes: "Tama Imperialstar shares brand DNA with Starclassic. Any Paiste tier delivers the projection Eloy needs — the brand character is there across the range."
+      },
+      mid: {
+        price: "$3,500",
+        label: "Intermediate Setup",
+        kit: "Tama Superstar Classic ($1,500)",
+        cymbals: "Paiste Masters Dark Hi-Hats + 2002 crashes ($1,200)",
+        pedals: "Tama Iron Cobra 900 Double Pedal ($400)",
+        sticks: "Promark 5B ($10)",
+        heads: "Evans G2 Coated set ($150)",
+        notes: "Tama Superstar Classic brings you into the Starclassic's tonal neighborhood. Start with the Masters Dark hi-hats — they define Eloy's modern Sepultura sound more than any other single cymbal."
+      },
+      pro: {
+        price: "$7,000+",
+        label: "Professional Setup",
+        kit: "Tama Starclassic Bubinga ($3,500+)",
+        cymbals: "Full Paiste Masters Dark / 2002 selection ($2,500+)",
+        pedals: "Tama Iron Cobra Power Glide Double Pedal ($500)",
+        snare: "Tama Bell Brass BB146 ($400)",
+        heads: "Full Evans G2 setup ($200)",
+        notes: "Tama Starclassic Bubinga is Eloy's kit. Pair with the Masters Dark hi-hats and 2002 crashes for the complete modern Sepultura sound."
+      }
+    },
+    faq: [
+      {
+        question: "What drum kit does Eloy Casagrande use?",
+        answer: "Eloy Casagrande plays Tama Starclassic Bubinga drums throughout his Sepultura tenure. The Bubinga series uses dense bubinga wood shells that deliver focused, high-attack sound with naturally controlled sustain — well-suited to the riff-locked double bass patterns at the center of his playing. He uses dual 22\" bass drums (independent, not a double pedal) for maximum precision at high speeds."
+      },
+      {
+        question: "What cymbals does Eloy Casagrande use with Sepultura?",
+        answer: "Eloy Casagrande is a Paiste endorser. His Sepultura setup includes 15\" Masters Dark Hi-Hats, Paiste Formula 602 Modern Essentials and 2002 Wild crashes, a Masters Dark Crash, a 2002 Novo China, and a 2002 Power Ride. The Masters Dark series gives dark, controlled response for fast patterns, while the 2002 Wild Crash delivers the explosive impact his thrash passages demand."
+      },
+      {
+        question: "How does Eloy Casagrande get the Sepultura drum sound?",
+        answer: "The Sepultura drum sound in Eloy's era comes from three elements: Tama Bubinga shells (focused attack, natural sustain control), Paiste Masters Dark cymbals (dark but cutting), and Eloy's technique of locking the kick drum tightly to the guitar riff's rhythmic accents. The result is a sound where kick and guitar move as one machine. For recording, medium-high snare tension and a controlled kick with defined attack transient are the key tuning choices."
+      },
+      {
+        question: "Does Eloy Casagrande use double bass or a double pedal?",
+        answer: "Eloy Casagrande uses two independent bass drums, not a single kick with a double pedal. This eliminates the slight response lag of a slave pedal and allows complete foot independence — important for the precision his riff-locked kick patterns require at 160-210+ BPM. He uses Tama Iron Cobra Power Glide double pedals on each independent kick drum."
+      },
+      {
+        question: "What are the best Sepultura songs to learn Eloy's drumming?",
+        answer: "Start with 'Means To An End' and 'Isolation' from Quadra (2020) — both showcase Eloy's riff-locked double bass and groove-metal pocket in accessible contexts. Eloy released drum-cam videos for both that make them excellent learning resources. For more technical depth, 'Vandal's Nest' and 'Phantom Self' from Machine Messiah (2017) demonstrate his double-bass complexity. All are available as drum transcriptions and teaching resources online."
+      },
+      {
+        question: "How did Eloy Casagrande develop his style?",
+        answer: "Eloy grew up in São Paulo, Brazil, and started drumming at age 7. His primary influences are Igor Cavalera (Sepultura's original drummer — whose tribal groove roots are in Eloy's DNA), Dave Lombardo (thrash precision), and Joey Jordison (extreme metal intensity). He joined Sepultura at 19, stepping directly into one of thrash metal's most demanding roles, and spent 13 years evolving his technique through increasingly ambitious material. The viral drum-cam videos he released during the Quadra cycle — showing his technique in real time — accelerated his international reputation significantly."
+      }
+    ],
+    related: {
+      drummerProfile: '/drummer/eloy-casagrande',
+      similarDrummers: ['Igor Cavalera', 'Dave Lombardo', 'Jay Weinberg'],
+      relatedGuides: ['how-to-sound-like-igor-cavalera', 'how-to-sound-like-dave-lombardo', 'how-to-sound-like-jay-weinberg'],
+      gearPages: ['/gear/pedals', '/brands/tama', '/brands/paiste']
+    },
+    licksUrl: '/drummers/eloy-casagrande/licks',
+    relatedArticles: [
+      { slug: 'whats-in-eloy-casagrandes-kit', label: "What's In Eloy Casagrande's Kit in 2026" },
+      { slug: 'igor-cavalera-vs-eloy-casagrande', label: 'Igor Cavalera vs Eloy Casagrande — Sepultura Drum Comparison' },
+      { slug: 'roots-drum-setup', label: 'Roots — Sepultura Drum Setup' }
+    ]
+  },
 };
 
 // ================================

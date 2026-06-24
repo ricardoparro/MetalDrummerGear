@@ -281,4 +281,23 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <!-- Drummer Comparisons batch 7 (Issue #2164) -->
+  <url>
+    <loc>https://metalforge.io/vs/brann-dailor-vs-mike-portnoy</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://metalforge.io/vs/danny-carey-vs-gavin-harrison</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://metalforge.io/vs/mario-duplantier-vs-george-kollias</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>

@@ -35686,6 +35686,412 @@ For Mikkey Dee's complete setup evolution — from the Tama era through his Yama
 
 🤘 *Twenty-three years with the world's loudest band. It started here.* 🤘`
     }
+  },
+
+  'crack-the-skye-drum-setup': {
+    slug: 'crack-the-skye-drum-setup',
+    albumTitle: 'Crack the Skye',
+    artist: 'Mastodon',
+    drummer: 'Brann Dailor',
+    drummerId: 16,
+    relatedDrummerSlug: 'brann-dailor',
+    year: 2009,
+    genre: 'Progressive Metal / Sludge Metal',
+    label: 'Reprise Records',
+    studio: 'Doppler Studios, Atlanta, Georgia',
+    producer: 'Brendan O\'Brien',
+    isAlbumArticle: true,
+    datePublished: '2026-06-24',
+    dateModified: '2026-06-24',
+    author: 'MetalForge Editorial',
+    title: "Crack the Skye Drum Setup: Brann Dailor's Gear on Mastodon's Masterpiece",
+    description: "Discover the exact drum kit, cymbals, and gear Brann Dailor used to record Mastodon's Crack the Skye (2009). Complete breakdown of his DW Collector's Series kit, Meinl Byzance cymbals, DW 9000 double pedal, and the melodic drumming philosophy behind progressive metal's most studied album.",
+    seoKeywords: ['brann dailor drum kit', 'mastodon drummer setup', 'crack the skye drums', 'brann dailor gear', 'mastodon crack the skye recording', 'brann dailor meinl', 'brann dailor dw drums', 'progressive metal drumming'],
+    ogImage: '/images/albums/crack-the-skye-drums.webp',
+    intro: {
+      title: 'The Drummer as Melodist: Brann Dailor and the Album Named for His Sister',
+      content: `Released on March 24, 2009, Mastodon's *Crack the Skye* stands apart from every other metal album of its era — a progressive concept record about astral projection, time loops, and a paraplegic boy's journey through the spirit world. At its center is Brann Dailor, whose drumming on this album is studied in music schools, dissected on drum forums, and cited by professionals as a masterclass in melodic percussion.
+
+The album's title carries deep personal weight. Brann named it after his sister Skye Dailor, who died by suicide in 1995. That grief — processed over fourteen years — shaped the album's emotional weight and Brann's approach to every drum part. Where other drummers play time, Brann plays melody. Where others fill the space between guitar riffs, Brann competes with them for the listener's ear.
+
+*Crack the Skye* was recorded at Doppler Studios in Atlanta with producer Brendan O'Brien, whose resume included Pearl Jam and Rage Against the Machine but who understood immediately what Mastodon needed: a production that could hold the album's conceptual ambition without collapsing under its own weight. O'Brien's approach gave the drums warmth and presence without sacrificing the progressive edge that defines Mastodon's sound.
+
+Brann's kit for these sessions centered on a DW Collector's Series configuration, paired with Meinl Byzance cymbals and a DW 9000 double pedal. The combination produced a drum sound simultaneously warm and precise — ideal for music that shifts from sludge-metal devastation to melodic passages within the span of a single measure.
+
+This article breaks down every element of Brann Dailor's *Crack the Skye* setup, explores the polyrhythmic techniques behind the album's most complex passages, and examines why this 2009 record remains the essential reference point for melodic progressive metal drumming.`,
+      keyPoints: [
+        'Recorded at Doppler Studios, Atlanta with producer Brendan O\'Brien',
+        'Named after Brann Dailor\'s late sister Skye — deeply personal creative context',
+        'Grammy nominated; Rolling Stone Top 100 Albums of the 2000s',
+        'Brann plays melodies on the kit — fills compete with guitar riffs for melodic interest',
+        'Complex polyrhythms including the title track\'s 7-over-4 patterns'
+      ]
+    },
+    drumKit: {
+      title: "The DW Collector's Series: Warm, Responsive, Progressive",
+      brand: 'DW',
+      model: "DW Collector's Series",
+      finish: 'Natural / Lacquer finish',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum (double pedal setup)'],
+        toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom', '13" x 11" Rack Tom'],
+        floorToms: ['16" x 14" Floor Tom', '18" x 16" Floor Tom'],
+        shells: 'Maple shells with Lacquer or Natural finish — DW Collector\'s Series signature construction'
+      },
+      description: `For *Crack the Skye*, Brann Dailor built his setup around DW Collector's Series drums — the flagship line from Drum Workshop, built in Oxnard, California with vertically grain maple shells and VLT (Vertical Low Timbre) construction. DW's Collector's Series had become the professional standard in rock and metal drumming by the mid-2000s, prized for their even response across the full dynamic range.
+
+The Collector's Series shells are constructed with a 7-ply configuration for snares and select toms, and up to 10-ply for bass drums, using DW's proprietary True-Pitch tension rods for consistent tuning. This construction gave Brann the ability to tune his kit precisely — essential for a drummer who plays melodic intervals across toms.
+
+Brann's multi-tom configuration provided the tonal palette his melodic approach demands. Three rack toms (10", 12", 13") and dual floor toms (16", 18") gave him a full chromatic-adjacent range of pitches, making the flowing tom runs that define tracks like "Oblivion" and "The Last Baron" possible without pitch gaps.
+
+The 22" bass drum running through the DW 9000 double pedal produced the focused, punchy low-end that drove Mastodon's progressively structured arrangements. Unlike pure metal drummers who prioritize attack over tone, Brann tuned his bass drum to blend with the low-end guitar work of Troy Sanders and Bill Kelliher — a collaborative sonic philosophy that makes Mastodon's rhythm section unusually cohesive.
+
+The natural finish shells resonated freely, contributing warmth that Brendan O'Brien captured faithfully. The result is a drum sound that feels organic and alive — quite different from the heavily processed percussion on many metal records of the era.`,
+      notes: [
+        'VLT (Vertical Low Timbre) maple shell construction for consistent resonance',
+        'Five-tom configuration enables melodic sequences across tonal range',
+        '22" bass drum tuned for blend, not just attack — works with guitar low-end',
+        'Natural finish shells contribute acoustic warmth captured by O\'Brien\'s production',
+        'DW True-Pitch tension rods allow the precise tuning Brann\'s melodic playing requires'
+      ],
+      estimatedValue: '$6,000-9,000 (2009 configuration)'
+    },
+    snare: {
+      title: 'The Voice of the Kit: DW Collector\'s Series Snare',
+      brand: 'DW',
+      model: "DW Collector's Series Maple Snare",
+      size: '14" x 6.5"',
+      shell: 'Maple with chrome hardware',
+      description: `The snare on *Crack the Skye* occupies an unusual role. In most metal contexts, the snare is the loudest, most dominant voice in the mix — a blunt accent on 2 and 4. Under Brann Dailor's hands, it becomes something closer to a conversational partner for the rest of the kit, as likely to ghost a melody as to punctuate a riff.
+
+Brann's DW Collector's Series maple snare provided the warmth and sensitivity his playing requires. The maple shell delivered a fuller fundamental than steel or aluminum, and the 6.5" depth gave it body without losing the attack needed to project in Mastodon's dense arrangements.
+
+The snare was tuned medium, allowing a range of dynamics from whisper-quiet ghost notes to explosive accents. This tuning choice reflects Brann's background as a singer who drums — he approaches the snare as a voice that can shout or murmur, and his tuning supports that expressiveness.
+
+On tracks like "Quintessence" and the title track, ghost note density is extraordinary. Brann weaves ghost notes between primary accents to create rhythmic fills that serve a melodic rather than purely percussive function. The maple snare's sensitivity makes these articulations audible rather than burying them in the mix.
+
+Evans UV1 batter heads provided the playing surface, their UV coating offering extended durability — essential for a drummer as aggressive as Brann while maintaining the controlled response his technique demands.`,
+      tuningSetting: 'Medium tension with tight snare wires for sensitivity and dynamic range',
+      heads: 'Evans UV1 Coated (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$500-700 (2009)'
+    },
+    cymbals: {
+      title: 'Meinl Byzance: The Warm, Complex Sound of Brann\'s Arsenal',
+      brand: 'Meinl',
+      series: 'Meinl Byzance',
+      setup: [
+        { type: 'Hi-Hats', model: 'Meinl Byzance Traditional 14" Medium Hi-Hats', position: 'Left side', notes: 'Warm, complex response with excellent articulation for intricate hi-hat patterns' },
+        { type: 'Crash', model: 'Meinl Byzance Traditional 18" Medium Thin Crash', position: 'Left of hi-hats', notes: 'Quick response crash for fast accent work' },
+        { type: 'Crash', model: 'Meinl Byzance Traditional 20" Medium Crash', position: 'Right of toms', notes: 'Fuller crash for dramatic section climaxes' },
+        { type: 'Ride', model: 'Meinl Byzance Traditional 22" Medium Ride', position: 'Far right', notes: 'Complex bell and bow for varied time-keeping textures' },
+        { type: 'China', model: 'Meinl Byzance Traditional 18" China', position: 'Left, inverted', notes: 'Trashy, explosive accent for heavier passages' },
+        { type: 'Splash', model: 'Meinl Byzance Traditional 10" Splash', position: 'Above hi-hats', notes: 'Quick accent for melodic fill punctuation' }
+      ],
+      description: `Brann Dailor's long-time endorsement relationship with Meinl brought the Byzance series to the *Crack the Skye* sessions — a range of cymbals that share the same hand-hammered B20 bronze alloy as the finest Turkish cymbals, offering warmth, complexity, and a musical quality that paired ideally with his melodic drumming approach.
+
+The Byzance Traditional series is defined by its irregular hammering and lathing, creating a complex wash with a dark fundamental and rich overtones. Where brighter, more precise cymbals suit bands that need technical clarity (Sabian AAX, Zildjian A Custom), the Byzance's complexity serves music that demands texture and atmosphere. *Crack the Skye*'s conceptual ambition required exactly that: cymbals that sounded like part of the musical fabric, not percussion sitting on top of it.
+
+The 14" Traditional Medium hi-hats delivered the articulation Brann needed for intricate open/closed patterns without sacrificing the warmth that characterized the album's production. His hi-hat work — particularly on "Divinations" — is some of the most rhythmically complex in metal, and the Byzance Traditional's sensitivity made every partial opening and accent distinct.
+
+The crash setup (18" and 20") gave Brann dynamic range across accent sizes, while the 22" Traditional Ride provided a playing surface that could function as time-keeping or wash depending on how it was struck. The relatively complex bell tone suited Mastodon's progressive arrangements, where a pure, simple ride bell would have felt incongruous.
+
+The 18" China added the explosive, trashy accents that punctuate Mastodon's heaviest moments — particularly the doomed sludge sections that counterbalance the album's most melodic passages.`,
+      estimatedValue: '$1,800-2,500 total (2009 Byzance Traditional setup)'
+    },
+    hardware: {
+      title: 'DW 9000: The Double Pedal Behind the Progressive Power',
+      items: [
+        {
+          type: 'Double Bass Pedal',
+          brand: 'DW',
+          model: 'DW 9000 Double Pedal',
+          notes: 'Chain-drive double pedal — Brann\'s long-time choice for combining power with control',
+          description: `The DW 9000 is the professional benchmark for double bass pedals, and Brann Dailor's choice of it over more aggressive alternatives (Tama Iron Cobra Flexi-Glide, Pearl Eliminator) reveals his priorities. The 9000's chain-drive mechanism provides a heavier, more deliberate feel compared to direct-drive alternatives — suited to drummers who want to feel the board resistance as part of their technique.
+
+For *Crack the Skye*'s complex double bass passages, the DW 9000's adjustability was essential. Multiple cam options (round, offset, eccentric) allowed Brann to tune the pedal response to each song's demands. The extended footboard gave him access to the full range of motion his technique required, from the precise single strokes in "The Czar" to the more aggressive passages in "Ghost of Karelia."`
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'DW',
+          model: 'DW 9000 Series Hi-Hat Stand',
+          notes: 'Matched DW hardware for consistent feel across the kit'
+        },
+        {
+          type: 'Throne',
+          brand: 'DW',
+          model: 'DW 9000 Airlift Throne',
+          notes: 'Hydraulic-adjust throne for long session comfort and optimal ergonomics'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth 5A American Classic',
+          notes: 'Standard 5A for the Crack the Skye era — Brann used Vic Firth before transitioning to Meinl stick endorsement'
+        }
+      ],
+      heads: {
+        bassKick: 'Evans EMAD2 Clear (batter), Evans EQ3 Resonant (front)',
+        toms: 'Evans UV1 Coated (batter), Evans EC Resonant (resonant)',
+        snare: 'Evans UV1 Coated (batter)'
+      }
+    },
+    recordingTechniques: {
+      title: 'Brendan O\'Brien at Doppler Studios: Capturing Melodic Complexity',
+      content: `Doppler Studios in Atlanta had been a professional recording facility for decades, and producer Brendan O'Brien brought both the technical expertise and the musical intuition needed to capture what Brann Dailor was doing on *Crack the Skye*. O'Brien's approach to drum recording prioritized natural acoustics over heavy processing — a deliberate choice for an album whose drumming needed to sound like music, not just percussion.
+
+**The Room:**
+Doppler's main live room provided the controlled ambience that O'Brien used to create depth in the drum sound. Unlike heavily deadened rooms that produce the dry, modern metal sound, the Doppler space gave the kit natural reverb tails that contributed to the atmospheric quality of *Crack the Skye*'s production.
+
+**Microphone Setup:**
+- Kick drum: AKG D112 inside, Yamaha Subkick-style large-diaphragm mic outside
+- Snare: Shure SM57 top, AKG C451 bottom for snare wire detail
+- Toms: Sennheiser MD421 on each — Brann's tom tuning demanded mics with even frequency response across the tonal range
+- Hi-hat: AKG C451 or Neumann KM184 for Byzance's complex character
+- Overheads: Neumann U87s in an ORTF configuration — capturing the full cymbal spread
+- Room mics: Coles 4038 ribbon mics for natural ambience
+
+**The Melodic Challenge:**
+Recording Brann's playing presented a specific engineering challenge: his ghost notes are dense and rhythmically important, but a heavy-handed gate or compression would bury them. O'Brien used minimal dynamics processing on the snare, relying instead on Brann's consistent playing to deliver a recording where every ghost note was audible without artificial enhancement.
+
+**The Click Track Question:**
+Mastodon's time signatures on *Crack the Skye* are complex enough that click tracks were used throughout the sessions. Brann plays to the click while simultaneously weaving against it — his patterns often imply different time signatures over the underlying pulse. Maintaining the click while executing these patterns required the same kind of mental compartmentalization Tomas Haake employs for Meshuggah's polyrhythms.
+
+**The Vocal Challenge:**
+An additional complexity: Brann sings lead vocals on "Oblivion" — one of the album's most demanding tracks — while playing one of his most intricate drum parts. This dual performance required separate tracking approaches and extraordinary concentration.`,
+      keyTechniques: [
+        'Natural room ambience preserved — minimal deadening for atmospheric drum sound',
+        'Minimal gate/compression on snare to preserve ghost note audibility',
+        'ORTF overhead placement for accurate Meinl Byzance cymbal reproduction',
+        'Click track used throughout — Brann plays complex time against, not instead of, the pulse',
+        'Separate vocal tracking for "Oblivion" — one of metal\'s most demanding dual performances'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'Oblivion',
+        bpm: '108',
+        signature: '4/4 with triplet feel',
+        highlights: [
+          'Album opener and most accessible track — Brann sings lead vocals while playing',
+          'Flowing tom sequences that move melodically across the full kit range',
+          'Hi-hat work alternates open and closed with unusual phrasing that creates rhythmic tension',
+          'The dual performance (drums + lead vocal) is one of metal\'s most impressive live feats',
+          'Crash cymbal placement is compositional — used to mark emotional high points, not every measure'
+        ],
+        gearNotes: 'The Meinl Byzance crashes are clearly audible in the mix — their warm character suits the song\'s melodic quality. Byzance hi-hats provide texture for the song\'s atmospheric passages.'
+      },
+      {
+        track: 'Divinations',
+        bpm: '145',
+        signature: '4/4 with banjo interlude',
+        highlights: [
+          'High-tempo track that demonstrates Brann\'s ability to play demanding parts at speed',
+          'Hi-hat patterns are intricate and rhythmically displaced — significant independence required',
+          'Transitions between the fast metal sections and the banjo interlude show Brann\'s dynamic control',
+          'Double bass work is aggressive but precise — DW 9000 pedal performance is critical here'
+        ],
+        gearNotes: 'The DW 9000\'s consistent feel across extended passages is essential — "Divinations" demands sustained double bass accuracy.'
+      },
+      {
+        track: 'The Czar',
+        bpm: '90 (varies)',
+        signature: 'Multiple time signatures across four movements',
+        highlights: [
+          'Epic four-movement suite: Usurper, Escape, Martyr, Spiral',
+          'Each movement has its own rhythmic feel — Brann navigates all four without losing coherence',
+          'The "Spiral" section features the album\'s most complex polyrhythmic layering',
+          'Dynamic range is extraordinary — from near-silent to full power within sections',
+          'Floor tom melodies in the "Martyr" section show Brann\'s intervallic thinking'
+        ],
+        gearNotes: 'The multi-tom configuration earns its complexity here — the tonal range across five drums makes the melodic floor tom sequences possible. Byzance ride provides time in the quieter passages with appropriate warmth.'
+      },
+      {
+        track: 'Crack the Skye',
+        bpm: '120 (core pulse)',
+        signature: '7-over-4 primary polyrhythm',
+        highlights: [
+          'Title track and conceptual apex of the album',
+          '7-against-4 polyrhythm creates the signature rhythmic displacement',
+          'Listeners experience a sense of floating time — the groove feels simultaneously grounded and weightless',
+          'Brann\'s fills serve the 7-pulse pattern, creating melodic contours within the polyrhythm',
+          'One of the most studied polyrhythmic drum tracks in progressive metal'
+        ],
+        gearNotes: 'The DW Collector\'s Series tuning is critical — the 7-over-4 pattern requires precise tom pitches for the melodic character to be audible. Ghost note density on the snare maintains the underlying 4/4 pulse for listeners to anchor to.'
+      },
+      {
+        track: 'The Last Baron',
+        bpm: 'Multiple sections (60-155)',
+        signature: 'Suite structure with multiple time signatures',
+        highlights: [
+          '13-minute album closer — the most demanding extended drum performance on the record',
+          'Tempo shifts across sections require genuine internal clock mastery',
+          'The climactic final section builds from ambient to full-band devastation',
+          'Every tom in Brann\'s configuration appears at least once — the full melodic range is explored',
+          'Ends with a drum-led decrescendo that closes the album\'s conceptual arc'
+        ],
+        gearNotes: 'The full DW/Meinl setup is deployed across 13 minutes without a single weak moment. The Byzance China\'s trashy character punctuates the heaviest transitions.'
+      }
+    ],
+    faq: [
+      {
+        question: 'What drums does Brann Dailor use on Crack the Skye?',
+        answer: `On *Crack the Skye* (2009), Brann Dailor used a DW Collector's Series drum kit with maple shells in a natural/lacquer finish. The configuration included a 22" bass drum driven by a DW 9000 double pedal, three rack toms (10", 12", 13"), and two floor toms (16", 18"). This five-tom spread was essential for Brann's melodic approach to the instrument — he plays sequences across toms that function more like instrumental melodies than conventional fills. DW Collector's Series drums were his primary kit during this era, offering the consistent tuning and warm response that his playing demanded. For more on Brann's complete career setup, see the [Brann Dailor drummer profile](/drummer/brann-dailor).`
+      },
+      {
+        question: 'What cymbals did Brann Dailor use on Crack the Skye?',
+        answer: `Brann Dailor used Meinl Byzance cymbals on *Crack the Skye* (2009) — the same series he has long endorsed and continues to use. His setup centered on Byzance Traditional 14" Medium hi-hats, crashes in 18" and 20", a 22" Medium Ride, and an 18" China cymbal, with a 10" splash for quick accents. The Meinl Byzance Traditional series uses hand-hammered B20 bronze with irregular lathing, producing the warm, complex sound that characterized the album's atmospheric production. Brendan O'Brien's recording approach at Doppler Studios captured the Byzance's full tonal character, making the cymbals a genuine musical element rather than just rhythmic texture. Brann's Meinl endorsement represents one of the most natural drummer-cymbal pairings in progressive metal.`
+      },
+      {
+        question: 'What makes Brann Dailor\'s drumming style unique?',
+        answer: `Brann Dailor is often described as the "drummer as melodist" — his playing prioritizes melodic interest alongside rhythmic function in a way that few metal drummers achieve. While most drummers play fills that temporarily exit the groove to add excitement before returning to the pocket, Brann's fills are themselves melodic statements, playing intervallic sequences across the kit that have harmonic relationship to what the guitars and bass are doing. On *Crack the Skye*, this approach is most visible in tracks like "The Czar" and "The Last Baron," where tom sequences move through pitch relationships rather than simply descending chromatically. His ghost note density is also exceptional — the snare rarely goes quiet, instead sustaining a continuous rhythmic conversation at lower dynamic levels. A third element is his polyrhythmic sophistication: tracks like the title track "Crack the Skye" feature 7-over-4 patterns that create the sensation of floating time. For technique breakdowns, see [Brann Dailor's signature licks](/drummer/brann-dailor/licks) and the [polyrhythm techniques guide](/techniques/polyrhythms).`
+      },
+      {
+        question: 'What double pedal does Brann Dailor use?',
+        answer: `On *Crack the Skye* (2009), Brann Dailor used the DW 9000 double bass pedal — the professional flagship from Drum Workshop, matched to his DW Collector's Series kit. The DW 9000 uses a chain-drive mechanism with an adjustable cam system, allowing players to tune the feel between a lighter, faster response and a heavier, more deliberate stroke. Brann's double bass work on the album — present throughout tracks like "Divinations" and "The Czar" — reflects the 9000's combination of power and control. Unlike some metal drummers who prioritize raw speed (choosing direct-drive pedals), Brann's approach favors placement and groove, making the chain-drive DW 9000 a natural fit. He matched it with DW 9000 hardware throughout his setup during this era.`
+      }
+    ],
+    evolution: {
+      title: "From Crack the Skye to Emperor of Sand: Brann Dailor's Gear Through the Mastodon Years",
+      content: `*Crack the Skye* (2009) represented a creative and commercial peak for Mastodon — the album that brought the band to the attention of mainstream rock audiences while retaining the progressive complexity that defined their underground reputation. Brann Dailor's setup from this era became closely associated with the album's sound, though his gear continued to evolve across subsequent releases.
+
+**The DW Era (through approximately 2015):**
+Brann remained with DW Collector's Series drums through *The Hunter* (2011) and *Once More 'Round the Sun* (2014). His Meinl Byzance endorsement continued uninterrupted. The basic configuration — multiple rack toms, two floor toms, DW double pedal — remained consistent while specific models and finishes changed.
+
+**The Tama Transition (c. 2017 onward):**
+For *Emperor of Sand* (2017), Brann transitioned to Tama drums — specifically the Tama Star Series, using Japanese-built birch/elm shells. The tonal character shifted: birch shells produce a punchier, more focused attack compared to maple's warmth, and the *Emperor of Sand* drum sound reflects this. The Tama kit gave Brann sharper transients suited to the album's slightly more aggressive production.
+
+**The Meinl Byzance Constant:**
+Through every kit change, Brann has remained with Meinl Byzance cymbals. His endorsement has expanded to include Byzance Artist Concept models — specifically the "Brann Dailor Ambience Hi-Hat" developed with Meinl. This development reflects his long-standing influence on the Byzance line and his unique requirements from a hi-hat.
+
+**The Playing Philosophy:**
+More important than any gear change is the consistency of Brann's approach. Whether on DW or Tama, Meinl or otherwise, he remains the drummer who plays melodies on the kit — whose fills have harmonic content, whose ghost notes sustain a continuous conversation, whose polyrhythms make time feel elastic. The tools serve this philosophy; they don't create it.`,
+      thenVsNow: [
+        { category: 'Kit', then: "DW Collector's Series (Maple, Natural finish)", now: 'Tama Star Series (Birch/Elm)' },
+        { category: 'Snare', then: "DW Collector's Series Maple 14\" x 6.5\"", now: 'Tama Star Reserve Maple 14" x 6.5"' },
+        { category: 'Cymbals', then: 'Meinl Byzance Traditional', now: 'Meinl Byzance Artist Concept (signature series)' },
+        { category: 'Pedals', then: 'DW 9000 Double Pedal', now: 'Tama Speed Cobra / Iron Cobra with Meinl era hardware' },
+        { category: 'Sticks', then: 'Vic Firth 5A', now: 'Meinl Stick & Brush signature sticks' },
+        { category: 'Heads', then: 'Evans UV1 Coated (all drums)', now: 'Evans UV1 Coated (batter), Evans EC Resonant' }
+      ]
+    },
+    videos: [],
+    relatedAlbums: ['images-and-words-drum-setup', 'obzen-drum-setup'],
+    relatedDrummers: [5, 14],
+    relatedArticles: ['polyrhythm-exercises-metal', 'progressive-metal-drumming-guide'],
+    relatedLicks: [
+      { drummerSlug: 'brann-dailor', lickSlug: 'brann-dailor-melodic-fills', label: "Watch Brann Dailor's melodic fill approach breakdown" },
+    ],
+    internalLinks: [
+      { text: 'Brann Dailor drummer profile', url: '/drummer/brann-dailor' },
+      { text: 'Brann Dailor signature licks', url: '/drummer/brann-dailor/licks' },
+      { text: 'Polyrhythm techniques guide', url: '/techniques/polyrhythms' },
+      { text: 'obZen drum setup', url: '/articles/obzen-drum-setup' },
+      { text: 'DW drums brand overview', url: '/gear/dw' },
+      { text: 'Meinl Byzance cymbals', url: '/gear/meinl' }
+    ],
+    schema: {
+      '@context': 'https://schema.org',
+      '@graph': [
+        {
+          '@type': 'Article',
+          headline: "Crack the Skye Drum Setup: Brann Dailor's Gear on Mastodon's Masterpiece",
+          description: "Discover the exact drum kit, cymbals, and gear Brann Dailor used to record Mastodon's Crack the Skye (2009). Complete breakdown of his DW Collector's Series kit, Meinl Byzance cymbals, and the melodic drumming philosophy behind progressive metal's most studied album.",
+          author: {
+            '@type': 'Organization',
+            name: 'MetalForge Editorial'
+          },
+          datePublished: '2026-06-24',
+          dateModified: '2026-06-24'
+        },
+        {
+          '@type': 'MusicAlbum',
+          name: 'Crack the Skye',
+          byArtist: {
+            '@type': 'MusicGroup',
+            name: 'Mastodon'
+          },
+          datePublished: '2009-03-24',
+          genre: 'Progressive Metal',
+          recordLabel: {
+            '@type': 'Organization',
+            name: 'Reprise Records'
+          },
+          track: [
+            { '@type': 'MusicRecording', name: 'Oblivion' },
+            { '@type': 'MusicRecording', name: 'Divinations' },
+            { '@type': 'MusicRecording', name: 'Quintessence' },
+            { '@type': 'MusicRecording', name: 'The Czar' },
+            { '@type': 'MusicRecording', name: 'Ghost of Karelia' },
+            { '@type': 'MusicRecording', name: 'Crack the Skye' },
+            { '@type': 'MusicRecording', name: 'The Last Baron' }
+          ]
+        },
+        {
+          '@type': 'Person',
+          name: 'Brann Dailor',
+          memberOf: {
+            '@type': 'MusicGroup',
+            name: 'Mastodon'
+          },
+          instrument: 'Drums'
+        },
+        {
+          '@type': 'FAQPage',
+          mainEntity: [
+            {
+              '@type': 'Question',
+              name: 'What drums does Brann Dailor use on Crack the Skye?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "On Crack the Skye (2009), Brann Dailor used a DW Collector's Series drum kit with maple shells — 22\" bass drum, three rack toms (10\", 12\", 13\"), and two floor toms (16\", 18\"). The five-tom configuration supports his melodic approach to the instrument."
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'What cymbals did Brann Dailor use on Crack the Skye?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: 'Brann Dailor used Meinl Byzance Traditional cymbals on Crack the Skye — 14" Medium hi-hats, 18" and 20" crashes, 22" Medium Ride, 18" China, and a 10" splash. The Byzance series uses hand-hammered B20 bronze for warm, complex character.'
+              }
+            },
+            {
+              '@type': 'Question',
+              name: "What makes Brann Dailor's drumming style unique?",
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "Brann Dailor plays melodies on the kit rather than just marking time. His fills are intervallic sequences with harmonic relationship to the guitar and bass lines. He also employs dense ghost notes, polyrhythmic patterns (including 7-over-4 on the title track), and sings lead vocals on Oblivion while executing demanding drum parts."
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'What double pedal does Brann Dailor use?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "On Crack the Skye (2009), Brann Dailor used the DW 9000 double bass pedal — a chain-drive pedal with adjustable cam system matched to his DW Collector's Series kit. The 9000's combination of power and control suited his placement-focused double bass technique."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    conclusion: {
+      title: 'The Album That Redefined What Metal Drumming Could Be',
+      content: `*Crack the Skye* (2009) arrived at a moment when progressive metal was searching for a new vocabulary. The genre had long since mastered speed and complexity, but Brann Dailor offered something different: the proposition that a metal drummer could be a melodist, that fills could carry harmonic information, that polyrhythms could make time feel like a living, breathing thing rather than a mathematical constraint.
+
+The DW Collector's Series kit and Meinl Byzance cymbals that powered this album were not exotic choices — they were professional tools deployed with extraordinary intention. A DW Collector's maple kit can sound like a thousand things; in Brann's hands, it sounds like music.
+
+**For Drummers Studying Crack the Skye:**
+Start with "Oblivion." The opening track is accessible enough to analyze without being overwhelmed, but Brann's ghost note density and melodic tom work are immediately visible on close listening. Notice how his fills don't disrupt the pocket — they extend it, adding melodic information without losing the groove.
+
+Then approach "The Czar." The four-movement suite is among the most demanding extended drum compositions in metal, requiring different technical and emotional registers across its full length. Study each movement separately before attempting the transitions.
+
+Finally, the title track: the 7-over-4 polyrhythm is best learned by first internalizing each layer separately. Play the 4/4 pulse. Then the 7-pulse. Then combine them. The sensation of the patterns locking and unlocking — which Brann sustains for minutes — is one of drumming's great intellectual pleasures.
+
+**The Legacy:**
+*Crack the Skye* expanded the definition of metal drumming. It demonstrated that technical sophistication and emotional depth are not competing values — that a drummer can play the most complex patterns in the genre and simultaneously move listeners to tears. Brann Dailor didn't just record an album. He built an argument for what drums can do.
+
+For Brann's complete gear evolution and technique breakdowns, see the [Brann Dailor drummer profile](/drummer/brann-dailor) and his [signature licks collection](/drummer/brann-dailor/licks). For the polyrhythmic foundation underlying this album, the [polyrhythm techniques guide](/techniques/polyrhythms) provides the theoretical grounding. 🤘`
+    }
   }
 };
 

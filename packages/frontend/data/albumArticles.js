@@ -41592,6 +41592,377 @@ For the complete arc of Brann Dailor's gear evolution, see the [Brann Dailor dru
         }
       ]
     }
+  },
+
+  'tomb-of-the-mutilated-drum-setup': {
+    slug: 'tomb-of-the-mutilated-drum-setup',
+    albumTitle: 'Tomb of the Mutilated',
+    artist: 'Cannibal Corpse',
+    drummer: 'Paul Mazurkiewicz',
+    drummerId: 56,
+    relatedDrummerSlug: 'paul-mazurkiewicz',
+    year: 1992,
+    genre: 'Death Metal',
+    label: 'Metal Blade Records',
+    studio: 'Morrisound Recording, Tampa, FL',
+    producer: 'Scott Burns',
+    isAlbumArticle: true,
+    datePublished: '2026-06-24',
+    dateModified: '2026-06-24',
+    author: 'MetalForge Editorial',
+    title: "Tomb of the Mutilated Drum Setup: Paul Mazurkiewicz's Gear on Cannibal Corpse's 1992 Classic",
+    description: "Discover the exact drum kit, cymbals, and gear Paul Mazurkiewicz used on Cannibal Corpse's Tomb of the Mutilated (1992). Complete breakdown of the Pearl Export configuration, Zildjian A Series cymbals, Pearl P-100P double pedal, and the Morrisound 'Tampa sound' that defined US death metal drumming.",
+    seoKeywords: ['tomb of the mutilated drums', 'paul mazurkiewicz drum setup', 'cannibal corpse 1992 drum kit', 'paul mazurkiewicz 1992 kit', 'morrisound recording death metal drums', 'cannibal corpse drummer setup', 'paul mazurkiewicz pearl export', 'tampa sound death metal'],
+    ogImage: '/images/albums/tomb-of-the-mutilated-drums.webp',
+    intro: {
+      title: "Death Metal's Most Iconic Album: The Kit Behind Tomb of the Mutilated",
+      content: `Released on November 22, 1992 on Metal Blade Records, *Tomb of the Mutilated* is Cannibal Corpse's third studio album and arguably the band's most culturally significant record — banned in several countries, featured in *Ace Ventura: Pet Detective* (1994), and one of the best-selling death metal albums of all time. At the center of its relentless sonic assault was Paul Mazurkiewicz, whose 220–240 BPM blast beats with alternating-leg double kick delivered the rhythmic foundation for tracks like "Hammer Smashed Face," "Stripped, Raped and Strangled," and "I Cum Blood."
+
+Recorded at Morrisound Recording in Tampa, Florida — the studio Scott Burns had transformed into death metal's Ground Zero — *Tomb of the Mutilated* documents the peak of the "Tampa sound" era: that specific combination of close-miked shells, surgical EQ, and a controlled room that produced drum tracks simultaneously brutal and precise. Paul's Pearl Export kit, a touring-budget workhorse with surprising sonic potential in Morrisound's room, was transformed by Scott Burns's engineering into one of death metal's most recognizable drum sounds.
+
+Paul Mazurkiewicz's technique was distinct from contemporaries like Pete Sandoval of Morbid Angel. Where Sandoval used single-kick blasting, Paul deployed alternating-leg double kick patterns — a biomechanically different approach that produced its own rhythmic character at extreme tempos. This distinction, combined with the Pearl Export's brighter shell response versus the birch Tama kits Sandoval favored, gave *Tomb of the Mutilated* its particular sonic fingerprint among Tampa-era death metal records.
+
+This article breaks down every component of Paul's 1992 setup — the Pearl Export shells, the Pearl Free-Floating snare, the Zildjian A Series cymbals, the Pearl P-100P double pedal — and explores the Morrisound techniques that made this album a permanent reference point for extreme metal drumming.`,
+      keyPoints: [
+        'Recorded at Morrisound Recording, Tampa — Scott Burns engineering the peak of the Tampa sound era',
+        'Paul Mazurkiewicz, 220–240 BPM blast beats with alternating-leg double kick — distinct from Sandoval\'s single-kick approach',
+        'Pearl Export kit — touring-budget shells that Morrisound\'s room treated differently from Lombardo\'s Ludwig or Sandoval\'s Tama',
+        'One of the best-selling death metal albums of all time; banned in several countries',
+        'Featured in Ace Ventura: Pet Detective (1994) — drove search volume to the album for decades',
+        'Entry point for the Paul Mazurkiewicz discovery cluster: Cannibal Corpse\'s most iconic album'
+      ]
+    },
+    drumKit: {
+      title: "Pearl Export: The Budget Workhorse That Defined a Sound",
+      brand: 'Pearl',
+      model: 'Pearl Export',
+      finish: 'Black',
+      config: {
+        bassdrums: ['22" Bass Drum (first endorsement era configuration)'],
+        toms: ['10" Rack Tom', '12" Rack Tom'],
+        floorToms: ['16" Floor Tom'],
+        shells: 'Poplar/Asian mahogany shells — Pearl Export professional series, 1992 configuration'
+      },
+      description: `For *Tomb of the Mutilated*, Paul Mazurkiewicz played a Pearl Export — a professional-grade kit that was nonetheless on the more affordable end of the spectrum compared to the endorsement-level gear that more established drummers were using in 1992. This was Cannibal Corpse's first endorsement era, and the Pearl Export represented the band's entry into sponsored gear after years on the road with whatever they could source.
+
+The Pearl Export's poplar/Asian mahogany shell construction is often overlooked by players focused on the more prestigious maple or birch alternatives. At Morrisound Recording under Scott Burns's engineering, the Export's shells responded to the room's controlled acoustics in a way that produced a brighter, more cutting drum sound than the birch Tama kits Pete Sandoval was using on Morbid Angel records. This is part of what differentiates the *Tomb of the Mutilated* drum sound from other Tampa-era productions: the specific combination of Pearl Export shells and Morrisound's close-miking approach.
+
+The single 22" kick drum is significant. Despite the album's extreme tempos and double-kick demands, Paul was using a double pedal on a single bass drum rather than two separate kick drums — a configuration that requires precise coordination between primary and secondary beater and produces a slightly different attack character than a two-drum setup. The 22" diameter provided the low-frequency foundation needed for death metal kick impact.
+
+The compact tom configuration — 10" and 12" rack toms plus a 16" floor tom — was well-suited to Paul's relatively direct fill approach. Cannibal Corpse's arrangements on *Tomb of the Mutilated* prioritized groove and impact over elaborate tom runs, and Paul's tom usage reflected that compositional priority: fills were deployed as rhythmic punctuation rather than melodic statements.`,
+      notes: [
+        'Pearl Export — first endorsement era, budget-professional configuration',
+        'Single 22" bass drum with double pedal (Pearl P-100P) rather than two-drum setup',
+        'Compact tom spread (10", 12", 16") focused on rhythmic impact over elaborate fill work',
+        'Poplar/Asian mahogany shells — brighter response than Sandoval\'s Tama birch at Morrisound',
+        'Scott Burns\'s engineering transformed the Export\'s budget shells into the Tampa sound'
+      ],
+      estimatedValue: '$600–900 (Pearl Export, 1992) / $400–700 (vintage condition today)'
+    },
+    snare: {
+      title: 'Pearl Free-Floating 14×5.5 Maple: The Crack of Tampa',
+      brand: 'Pearl',
+      model: 'Pearl Free-Floating',
+      size: '14" x 5.5"',
+      shell: 'Maple — Pearl Free-Floating system, isolated shell construction',
+      description: `Paul Mazurkiewicz's snare on *Tomb of the Mutilated* was a Pearl Free-Floating 14" x 5.5" maple — a technically distinctive choice that used Pearl's Free-Floating mounting system to isolate the shell from the hardware, allowing the maple to resonate more freely than in conventional snare construction.
+
+The Free-Floating system's isolation principle means the shell vibrates without the dampening effect of lug contact, producing a more open, resonant tone with a longer natural sustain before tuning and muffling adjustments. In Scott Burns's Morrisound sessions, this characteristic was an asset: the maple's natural resonance could be shaped with muffling and EQ rather than being constrained by hardware contact at the shell. The result was a snare that could be both cutting and full — the crack of the Free-Floating maple on blast beat sections didn't sacrifice body.
+
+The 5.5" depth balanced attack speed with tonal body. Shallower snares respond faster but lose low-frequency warmth; deeper snares have more body but can feel sluggish at extreme tempos. The 5.5" Free-Floating sat in a practical middle ground for Paul's alternating-leg blast beat approach, where each snare stroke had to cut through the double-kick density at 220–240 BPM.
+
+For *Tomb of the Mutilated*'s production, Scott Burns positioned the snare mic (a Shure SM57 in the standard Morrisound configuration) to capture the Free-Floating maple's natural attack transient. The tuning was medium-tight — enough tension for clarity and crack without the excessive tightness that can thin out a maple shell's character.`,
+      tuningSetting: 'Medium-tight — attack clarity for death metal blast beats with enough maple body for musical sustain',
+      heads: 'Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$400–700 (Pearl Free-Floating maple, 1992)'
+    },
+    cymbals: {
+      title: 'Zildjian A Series: Touring Budget, Death Metal Cut',
+      brand: 'Zildjian',
+      series: 'Zildjian A Series',
+      setup: [
+        { type: 'Hi-Hats', model: 'Zildjian A New Beat 14"', position: 'Left side', notes: 'Industry-standard configuration — crisp chick and clear open tone for definition at extreme tempos' },
+        { type: 'Crash', model: 'Zildjian A 16" Crash', position: 'Left of hi-hats', notes: 'Fast, bright crash for accent work in tight riff passages' },
+        { type: 'Crash', model: 'Zildjian A 18" Crash', position: 'Right of rack toms', notes: 'Fuller crash for section endings and high-intensity transitions' },
+        { type: 'Ride', model: 'Zildjian A 20" Ride', position: 'Far right', notes: 'Versatile ride — deployed sparingly in a blast-heavy arrangement context' },
+        { type: 'China', model: 'Zildjian A 18" China', position: 'Above floor tom', notes: 'Trashy, explosive accent for riff transitions — essential to the Tampa-era death metal sonic palette' }
+      ],
+      description: `Paul Mazurkiewicz's cymbal setup on *Tomb of the Mutilated* centered on the Zildjian A Series — a pre-Paiste selection that reflected the touring budget realities of a band at Cannibal Corpse's commercial level in 1992 rather than any particular endorsement strategy. The A Series was the reliable, widely-available option that working death metal drummers could acquire consistently across a touring schedule.
+
+The Zildjian A New Beat 14" hi-hats were the configuration most drummers reached for in this era — their paired bottom cymbal's undercutting edge produced the defined, crisp "chick" sound that remained articulate even at death metal tempos. For Paul's alternating-leg blast beat approach, where the hi-hat foot was active in coordinated patterns with the kick drum work, a hi-hat that responded consistently and clearly was not optional.
+
+The A Series crashes — 16" and 18" — gave Paul the tonal range for Cannibal Corpse's accent work. Death metal cymbal use in this era was deliberately economical: crashes deployed at structurally significant moments rather than continuously, letting the riff structures breathe between accent points. The 16" A responded fast and bright for tight passages; the 18" A delivered fuller weight for section boundaries.
+
+Scott Burns's Morrisound approach typically captured cymbal tracks with the room mics providing natural wash without close-miking each cymbal separately. The Zildjian A's natural brightness and projection made them well-suited to this capture approach — they cut through the mix's dense guitar layer without post-production boosting.`,
+      estimatedValue: '$800–1,200 (full Zildjian A Series setup, 1992)'
+    },
+    hardware: {
+      title: 'Pearl P-100P Double Pedal: The Double-Kick Engine',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'Pearl',
+          model: 'Pearl P-100P Double Pedal',
+          notes: 'Chain-drive mechanism on a single bass drum — distinct biomechanics from two-drum double kick; consistent action for 220–240 BPM patterns',
+          description: `The Pearl P-100P double pedal was Paul Mazurkiewicz's double-kick foundation on *Tomb of the Mutilated* — and the choice of a double pedal rather than two separate bass drums is meaningful for understanding his technique and the album's sound.
+
+Pete Sandoval of Morbid Angel used two separate bass drums, each with its own beater and head, mounted side by side. Paul's single-drum double pedal approach places both beaters on the same 22" shell, with the secondary pedal connected to the primary via a shaft that runs under the hi-hat stand. The biomechanics are different: the secondary beater's attack travels a slightly longer mechanical path than the primary, and the single shell receives both beaters' impact simultaneously rather than independently. At 220–240 BPM, these differences are subtle — but they contribute to the specific rhythmic character of Paul's alternating-leg patterns versus Sandoval's approach.
+
+The Pearl P-100P's chain-drive mechanism delivered consistent response across the sustained double-kick patterns that tracks like "Hammer Smashed Face" required. Chain drive provides a direct mechanical connection between foot pressure and beater velocity, which at extreme tempos means each stroke registers with predictable weight. For Paul's playing style — where double-kick patterns function as rhythmic groove rather than pure velocity showcase — the P-100P's consistency allowed him to maintain musical feel at speeds where feel can easily be sacrificed for tempo.`
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth 5A',
+          notes: 'Standard 5A dimensions — balance of weight and speed for death metal dynamics',
+          description: `The Vic Firth 5A was Paul Mazurkiewicz's stick choice on *Tomb of the Mutilated* — the industry-standard option that balanced mass for snare and cymbal impact with the lighter weight that extreme tempos demand. The 5A's dimensions sit between the heavier 5B and lighter 7A, giving the drummer enough wood behind blast beat strokes without the fatigue penalty of larger stick models during extended sessions.`
+        },
+        {
+          type: 'Drumheads (Toms, Batter)',
+          brand: 'Remo',
+          model: 'Remo Emperor Coated',
+          notes: 'Two-ply construction for durability and controlled sustain under heavy death metal playing'
+        },
+        {
+          type: 'Drumheads (Bass, Batter)',
+          brand: 'Remo',
+          model: 'Remo Powerstroke 3',
+          notes: 'Focused attack and controlled low-end resonance — essential for double-kick definition at Morrisound\'s close-mic approach'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke 3 (batter), Remo Powerstroke 3 (resonant)',
+        toms: 'Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)',
+        snare: 'Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)'
+      }
+    },
+    recordingTechniques: {
+      title: 'Morrisound Recording and the Tampa Sound: Death Metal\'s Ground Zero',
+      content: `Morrisound Recording in Tampa, Florida was the defining production environment for US death metal in the late 1980s and early 1990s. By 1992, engineer Scott Burns had refined a recording approach at Morrisound that produced the specific sonic signature heard on *Tomb of the Mutilated* — simultaneously brutal and articulate, with drum tracks that remained intelligible at speeds and densities that would have turned most recording approaches into a wall of noise.
+
+**The Tampa Sound Philosophy:**
+Scott Burns's approach at Morrisound was built around clarity and separation. Where some extreme metal production of the era used reverb and room ambience to create a sense of scale, Burns favored close-miking that captured each drum's direct sound with minimal room bleed. Every strike was isolated and distinct, even at 240 BPM. This surgical approach to capture — combined with the natural acoustics of Morrisound's rooms — produced the "Tampa sound" that defined death metal production through the early 1990s.
+
+**Pearl Export in the Tampa Room:**
+Paul's Pearl Export shells responded to Morrisound's close-miking approach differently than the birch Tama kits Pete Sandoval had used for *Altars of Madness* (1989) and *Blessed Are the Sick* (1991). The Export's poplar/mahogany construction produced a brighter, somewhat more forward-sounding shell tone than Sandoval's birch Superstar — a distinction that Scott Burns's EQ approach preserved rather than corrected. This is one reason the *Tomb of the Mutilated* drum sound has its own character within the Tampa sound family, distinct from the Morbid Angel records despite using the same studio and engineer.
+
+**Kick Drum Treatment:**
+The single 22" kick drum receiving both beaters of Paul's P-100P double pedal required careful EQ to maintain clarity between strokes at extreme tempos. Burns focused on the upper attack transient rather than sub-bass reinforcement, keeping each kick drum stroke audible as a distinct rhythmic event rather than a sustained low-frequency wash. The Remo Powerstroke 3 batter head's built-in dampening ring controlled sustain at the source, reducing the post-processing needed.
+
+**The Snare in the Mix:**
+The Pearl Free-Floating maple's natural resonance, captured with a Shure SM57 at Morrisound's typical positioning, was shaped with moderate EQ to emphasize the attack transient while preserving enough body to sound musical rather than clinical. On tracks like "Hammer Smashed Face," the snare's crack sits precisely in the mix — prominent enough to anchor the blast beat without overwhelming the guitar riff that gives the track its identity.`,
+      keyTechniques: [
+        'Close-miking of Pearl Export shells — each drum isolated and distinct at extreme tempos',
+        'Scott Burns\'s "Tampa sound": surgical separation over reverb-based scale',
+        'Kick EQ focused on upper attack transient — double-kick intelligibility at 220–240 BPM',
+        'Pearl Free-Floating maple snare captured with SM57 — natural resonance preserved with targeted EQ',
+        'Zildjian A Series natural brightness reduced cymbal processing need in a close-mic environment'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'Hammer Smashed Face',
+        bpm: '220',
+        signature: '4/4',
+        highlights: [
+          'The album\'s defining track — blast beat foundation under one of death metal\'s most recognizable riffs',
+          'Paul\'s alternating-leg double kick sustains continuous 220 BPM patterns across extended riff sections',
+          'Snare placement is structurally load-bearing: each crack anchors the riff\'s rhythmic identity',
+          'Zildjian A New Beat hi-hats articulate the 16th-note grid clearly above the dense guitar layer',
+          'Featured in Ace Ventura: Pet Detective (1994) — drove this track\'s search volume for decades'
+        ],
+        gearNotes: 'The Pearl P-100P\'s consistent double-kick response is most audible on "Hammer Smashed Face" — the 220 BPM patterns require the same mechanical feel from the first bar to the last without inconsistency that would disrupt the riff groove.'
+      },
+      {
+        track: 'Stripped, Raped and Strangled',
+        bpm: '200',
+        signature: '4/4',
+        highlights: [
+          'Mid-tempo groove sections alternate with blast beat passages — Paul\'s dynamic range on display',
+          'Tom fills deployed as rhythmic punctuation at section transitions, not melodic statements',
+          'Snare ghost notes audible in verse sections — musical sensitivity behind the aggression',
+          'Double kick builds used structurally to escalate intensity toward chorus sections'
+        ],
+        gearNotes: 'The Pearl Export\'s tom response under Paul\'s relatively direct fill approach gives "Stripped, Raped and Strangled" its characteristic rhythmic weight — each fill lands with impact rather than washing over the listener.'
+      },
+      {
+        track: 'I Cum Blood',
+        bpm: '215',
+        signature: '4/4',
+        highlights: [
+          'Opening hi-hat pattern establishes the Zildjian A New Beat\'s articulation in isolation before the full band enters',
+          'Blast beat deployment is structurally deliberate — sections of sustained blasting alternate with groove passages',
+          'China cymbal accents mark major riff transitions — the Zildjian A 18" China\'s trashy attack cuts through the guitar density',
+          'One of the most searched Cannibal Corpse tracks: high discovery value for the drum setup article'
+        ],
+        gearNotes: 'The "I Cum Blood" intro is one of the clearest showcases of Paul\'s hi-hat work in isolation — the Zildjian A New Beat 14" responds with definition at 215 BPM in a context where every sixteenth note registers individually.'
+      },
+      {
+        track: 'Addicted to Vaginal Skin',
+        bpm: '230',
+        signature: '4/4',
+        highlights: [
+          'Album\'s fastest sustained blast beat passages — 230 BPM sustained double kick at the Pearl P-100P\'s limit',
+          'Snare placement remains consistent at the highest tempos: the Free-Floating maple\'s isolation allows response without mechanical dampening',
+          'Crash cymbal use is economical — accents at section boundaries rather than continuous over-the-top work',
+          'Double kick groove character distinct from pure velocity showcase: rhythmic feel maintained at extreme speed'
+        ],
+        gearNotes: 'At 230 BPM, the Pearl P-100P double pedal\'s mechanical consistency is the limiting factor for musical coherence. The alternating-leg technique requires identical feel from both primary and secondary beater — the P-100P\'s chain-drive delivers it.'
+      }
+    ],
+    faq: [
+      {
+        question: 'What drums did Paul Mazurkiewicz use on Tomb of the Mutilated?',
+        answer: `On *Tomb of the Mutilated* (1992), Paul Mazurkiewicz played a Pearl Export kit — Cannibal Corpse's first endorsement-era configuration. The setup included a single 22" bass drum (with Pearl P-100P double pedal), 10" and 12" rack toms, and a 16" floor tom. The Pearl Export's poplar/Asian mahogany shells produced a brighter tone than the birch Tama kits Pete Sandoval used at the same studio (Morrisound Recording, Tampa), contributing to *Tomb of the Mutilated*'s distinct sonic character within the Tampa sound family. For Paul's complete gear history, see the [Paul Mazurkiewicz drummer profile](/drummer/paul-mazurkiewicz).`
+      },
+      {
+        question: "What is the 'Tampa sound' in death metal drumming?",
+        answer: `The "Tampa sound" refers to the specific drum production aesthetic developed by engineer Scott Burns at Morrisound Recording in Tampa, Florida during the late 1980s and early 1990s. Rather than using reverb and room ambience to create scale, Burns built the sound around close-miking: each drum isolated and captured with surgical separation, producing tracks where every stroke remained distinct and audible even at 220–240 BPM. The result was simultaneously brutal and precise — a combination that previous extreme metal production had not achieved. Key records in this tradition include Morbid Angel's *Altars of Madness* (1989), Deicide's debut (1990), Obituary's *Cause of Death* (1990), and Cannibal Corpse's *Tomb of the Mutilated* (1992). Each album used the same studio and engineer, but the different drummers' kits and techniques produced distinct variations on the Tampa sound template.`
+      },
+      {
+        question: "How does Paul Mazurkiewicz's blast beat technique differ from Pete Sandoval's?",
+        answer: `The key technical distinction is the kick drum configuration. Pete Sandoval of Morbid Angel used two separate bass drums — each with its own beater, head, and shell — mounted side by side. Paul Mazurkiewicz on *Tomb of the Mutilated* used a single 22" bass drum with a Pearl P-100P double pedal, placing both beaters on the same shell. The biomechanics differ: Sandoval's two-drum setup delivers each beater's impact to an independent shell; Paul's double pedal approach places both beaters on the same resonating surface, with the secondary pedal's mechanical path slightly longer than the primary. At 220–240 BPM, both approaches achieve comparable tempos, but the rhythmic character of alternating-leg double kick on a single drum has a subtly different groove quality than twin-bass blasting. Compare [Altars of Madness (Pete Sandoval, 1989)](/articles/altars-of-madness-drum-setup) directly against *Tomb of the Mutilated* to hear the distinction.`
+      },
+      {
+        question: 'What studio did Cannibal Corpse use to record Tomb of the Mutilated?',
+        answer: `Cannibal Corpse recorded *Tomb of the Mutilated* at Morrisound Recording in Tampa, Florida, engineered by Scott Burns. Morrisound had become death metal's primary recording facility by 1992, having hosted foundational recordings from Morbid Angel, Deicide, Obituary, and Death, among others. Scott Burns's engineering approach — close-miking for separation and clarity at extreme tempos — defined the "Tampa sound" that dominated US death metal production through the early 1990s. Paul Mazurkiewicz's Pearl Export kit, in Morrisound's controlled acoustic environment, produced the drum sound that made *Tomb of the Mutilated* a permanent sonic reference in the genre.`
+      }
+    ],
+    evolution: {
+      title: 'Paul Mazurkiewicz Gear Arc: From Pearl Export to Modern Setup',
+      content: `*Tomb of the Mutilated* (1992) captures Paul Mazurkiewicz at the beginning of his Pearl endorsement era — the Pearl Export kit representing Cannibal Corpse's first significant corporate gear relationship after years of touring on whatever was available. The arc from this album forward traces the band's commercial trajectory as much as Paul's personal gear evolution.
+
+**The Pearl Export Era (1992):**
+Pearl Export kit with Pearl Free-Floating 14×5.5 maple snare, Zildjian A Series cymbals, Pearl P-100P double pedal. The Export's budget-professional construction, combined with Morrisound's engineering, produced the drum sound that made *Tomb of the Mutilated* a genre landmark. This was the pre-Paiste period — Zildjian A Series throughout.
+
+**The Mid-1990s Progression:**
+Through *The Bleeding* (1994) and *Vile* (1996), Paul moved toward more professional Pearl configurations while maintaining the fundamental double-kick approach and relatively direct fill language established on *Tomb of the Mutilated*. Cannibal Corpse's commercial growth (despite the controversies and bans) enabled gear upgrades.
+
+**The Mature Setup:**
+By the 2000s, Paul had settled into a more established Pearl setup with DW pedals and Sabian cymbals — a combination that maintained his alternating-leg double kick philosophy while accessing higher-tier gear. The fundamental technique documented on *Tomb of the Mutilated* remained consistent: rhythmically musical blast beats rather than pure speed showcase, economical fill work that served the riff, and a groove-oriented approach to death metal drumming that prioritized feel over technical elaboration.`,
+      thenVsNow: [
+        { category: 'Kit', then: 'Pearl Export (22" kick, 10"/12" rack toms, 16" floor tom)', now: 'Pearl Reference Pure (maple configuration)' },
+        { category: 'Snare', then: 'Pearl Free-Floating 14" x 5.5" Maple', now: 'Pearl Free-Floating 14" x 5" Steel / Maple' },
+        { category: 'Hi-Hats', then: 'Zildjian A New Beat 14"', now: 'Sabian 14" hi-hats' },
+        { category: 'Crashes', then: 'Zildjian A 16" and 18"', now: 'Sabian AAX and HHX crashes' },
+        { category: 'Ride', then: 'Zildjian A 20"', now: 'Sabian HHX 20"' },
+        { category: 'Pedals', then: 'Pearl P-100P Double Pedal', now: 'DW 9000 Double Pedal' },
+        { category: 'Sticks', then: 'Vic Firth 5A', now: 'Vic Firth 5A / 5B' }
+      ]
+    },
+    videos: [],
+    relatedAlbums: ['paul-mazurkiewicz-drum-setup', 'altars-of-madness-drum-setup', 'none-so-vile-drum-setup'],
+    relatedDrummers: [56],
+    relatedArticles: ['altars-of-madness-drum-setup', 'none-so-vile-drum-setup', 'how-to-play-blast-beats'],
+    relatedLicks: [],
+    internalLinks: [
+      { text: 'Paul Mazurkiewicz drummer profile', url: '/drummer/paul-mazurkiewicz' },
+      { text: 'Altars of Madness drum setup (Pete Sandoval, 1989)', url: '/articles/altars-of-madness-drum-setup' },
+      { text: 'None So Vile drum setup (Flo Mounier, 1996)', url: '/articles/none-so-vile-drum-setup' },
+      { text: 'How to play blast beats', url: '/articles/how-to-play-blast-beats' }
+    ],
+    schema: {
+      '@context': 'https://schema.org',
+      '@graph': [
+        {
+          '@type': 'Article',
+          headline: "Tomb of the Mutilated Drum Setup: Paul Mazurkiewicz's Gear on Cannibal Corpse's 1992 Classic",
+          description: "Discover the exact drum kit, cymbals, and gear Paul Mazurkiewicz used on Cannibal Corpse's Tomb of the Mutilated (1992). Complete breakdown of the Pearl Export configuration, Zildjian A Series cymbals, Pearl P-100P double pedal, and the Morrisound Tampa sound.",
+          author: {
+            '@type': 'Organization',
+            name: 'MetalForge Editorial'
+          },
+          datePublished: '2026-06-24',
+          dateModified: '2026-06-24'
+        },
+        {
+          '@type': 'MusicAlbum',
+          name: 'Tomb of the Mutilated',
+          byArtist: {
+            '@type': 'MusicGroup',
+            name: 'Cannibal Corpse'
+          },
+          datePublished: '1992-11-22',
+          genre: 'Death Metal',
+          recordLabel: {
+            '@type': 'Organization',
+            name: 'Metal Blade Records'
+          },
+          track: [
+            { '@type': 'MusicRecording', name: 'Hammer Smashed Face' },
+            { '@type': 'MusicRecording', name: 'I Cum Blood' },
+            { '@type': 'MusicRecording', name: 'Addicted to Vaginal Skin' },
+            { '@type': 'MusicRecording', name: 'Split Wide Open' },
+            { '@type': 'MusicRecording', name: 'Necropedophile' },
+            { '@type': 'MusicRecording', name: 'The Cryptic Stench' },
+            { '@type': 'MusicRecording', name: 'Entrails Ripped from a Virgin\'s Cunt' },
+            { '@type': 'MusicRecording', name: 'Post Mortal Ejaculation' },
+            { '@type': 'MusicRecording', name: 'Beyond the Cemetery' },
+            { '@type': 'MusicRecording', name: 'Stripped, Raped and Strangled' }
+          ]
+        },
+        {
+          '@type': 'Person',
+          name: 'Paul Mazurkiewicz',
+          memberOf: {
+            '@type': 'MusicGroup',
+            name: 'Cannibal Corpse'
+          },
+          instrument: 'Drums'
+        },
+        {
+          '@type': 'FAQPage',
+          mainEntity: [
+            {
+              '@type': 'Question',
+              name: 'What drums did Paul Mazurkiewicz use on Tomb of the Mutilated?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: 'On Tomb of the Mutilated (1992), Paul Mazurkiewicz played a Pearl Export kit — single 22" bass drum with Pearl P-100P double pedal, 10" and 12" rack toms, and a 16" floor tom. Snare was a Pearl Free-Floating 14" x 5.5" maple. Recorded at Morrisound Recording, Tampa, with Scott Burns engineering.'
+              }
+            },
+            {
+              '@type': 'Question',
+              name: "What is the Tampa sound in death metal drumming?",
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: 'The Tampa sound refers to the drum production aesthetic developed by engineer Scott Burns at Morrisound Recording in Tampa, Florida. Built around close-miking for surgical separation rather than reverb-based scale, it produced drum tracks where every stroke remained distinct and audible at 220–240 BPM. Key records include Morbid Angel Altars of Madness (1989), Deicide (1990), and Cannibal Corpse Tomb of the Mutilated (1992).'
+              }
+            },
+            {
+              '@type': 'Question',
+              name: "How does Paul Mazurkiewicz's blast beat technique differ from Pete Sandoval's?",
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "Paul Mazurkiewicz used a single bass drum with a Pearl P-100P double pedal, while Pete Sandoval used two separate bass drums. The biomechanics differ: Sandoval's twin-drum approach delivers each beater's impact to an independent shell; Paul's double pedal places both beaters on the same 22\" shell. At 220–240 BPM both achieve comparable tempos, but the rhythmic character of alternating-leg single-drum double kick has a subtly different groove quality than twin-bass blasting."
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'What studio did Cannibal Corpse use to record Tomb of the Mutilated?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: 'Cannibal Corpse recorded Tomb of the Mutilated at Morrisound Recording in Tampa, Florida, engineered by Scott Burns. By 1992, Morrisound had become death metal\'s primary recording facility, having hosted Morbid Angel, Deicide, Obituary, and Death. Burns\'s close-miking approach defined the Tampa sound that dominated US death metal production through the early 1990s.'
+              }
+            }
+          ]
+        }
+      ]
+    },
+    conclusion: {
+      title: 'Tomb of the Mutilated: Death Metal\'s Most Searched Drum Setup',
+      content: `*Tomb of the Mutilated* (1992) occupies a unique position in death metal history — culturally significant enough to have been banned in several countries and featured in a mainstream Hollywood film, commercially successful enough to have driven sustained search volume to Cannibal Corpse for over three decades, and sonically influential enough that Paul Mazurkiewicz's Pearl Export setup at Morrisound remains a reference point in discussions of death metal drum production.
+
+The gap between the gear's apparent modesty (a Pearl Export on a touring budget) and its sonic outcome (one of death metal's most recognizable drum sounds) is the central lesson of this album's drum story. Scott Burns's engineering at Morrisound transformed what was available to a working death metal band in 1992 into something that has outlasted countless more expensive setups. The Tampa sound wasn't built on endorsement-level gear — it was built on close-miking, controlled acoustics, and a producer who understood how to capture extreme drumming with precision.
+
+**For Drummers Studying Tomb of the Mutilated:**
+Start with "Hammer Smashed Face" — count Paul's alternating-leg double kick pattern against the riff, and observe how the kick drum placement defines the groove rather than simply marking tempo. Then compare directly with Pete Sandoval's twin-bass approach on [Altars of Madness](/articles/altars-of-madness-drum-setup) to hear the technique distinction. Finally, listen to [None So Vile](/articles/none-so-vile-drum-setup) for the next generation's development of Tampa-era death metal drumming.
+
+**The Cultural Legacy:**
+The *Ace Ventura* placement of "Hammer Smashed Face" is one of the stranger cultural crossovers in metal history — a film with a mainstream comedy audience introduced Cannibal Corpse to millions of listeners who had no prior death metal context. That placement drove search volume to the album, the band, and the specific tracks for years, and the downstream effect on Paul Mazurkiewicz's discoverability has been persistent. It is one reason this article exists: the search angles around this album are real, sustained, and unmet by existing content.
+
+For Paul Mazurkiewicz's complete career gear evolution — from the Pearl Export era through the mature setup — see the [Paul Mazurkiewicz drummer profile](/drummer/paul-mazurkiewicz) and the [paul-mazurkiewicz-drum-setup guide](/articles/paul-mazurkiewicz-drum-setup).`
+    }
   }
 };
 

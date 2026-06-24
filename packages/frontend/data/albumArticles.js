@@ -3496,6 +3496,258 @@ That\'s the Tomas Haake way: complexity in service of groove, technique in servi
     }
   },
 
+  'catch-33-drum-setup': {
+    slug: 'catch-33-drum-setup',
+    albumTitle: 'Catch 33',
+    artist: 'Meshuggah',
+    drummer: 'Tomas Haake',
+    drummerId: 5,
+    relatedDrummerSlug: 'tomas-haake',
+    year: 2005,
+    genre: 'Extreme Progressive Metal / Djent',
+    label: 'Nuclear Blast',
+    studio: 'Logic Pro (programmed by Tomas Haake) — Mixed at Fear and Loathing Studios, Stockholm',
+    producer: 'Tomas Haake & Fredrik Thordendal',
+    isAlbumArticle: true,
+    datePublished: '2026-06-24',
+    dateModified: '2026-06-24',
+    author: 'MetalForge Editorial',
+    title: "Catch 33 Drum Setup: When Tomas Haake Replaced Himself with a Computer",
+    description: "Complete breakdown of Tomas Haake's drum programming on Meshuggah's Catch 33. Discover how the 'Atomic Clock' traded his kit for Logic Pro and dfh Superior, creating the most unique drum album in progressive metal history.",
+    seoKeywords: ['catch 33 drums programmed', 'tomas haake logic pro', 'meshuggah catch 33 drums', 'tomas haake drum kit 2005', 'dfh superior meshuggah', 'programmed metal drums', 'djent programmed drums', 'tomas haake drum setup'],
+    ogImage: '/images/albums/catch-33-drums.webp',
+    intro: {
+      title: 'When the Atomic Clock Went Digital',
+      content: `Released on May 23, 2005, Meshuggah\'s *Catch 33* stands apart from every other album in metal history for one remarkable reason: there is no live drum performance on it. Every single drum note — every kick, every snare, every cymbal — was programmed by Tomas Haake on a laptop using Logic Pro and Toontrack\'s dfh Superior (now known as Superior Drummer).
+
+The irony is extraordinary. Tomas Haake, widely celebrated as one of the most technically gifted drummers in extreme metal, chose to replace himself with a computer for an entire album. But this wasn\'t laziness or creative avoidance — it was a deliberate artistic statement that fundamentally shaped the album\'s character.
+
+*Catch 33* is a 47-minute continuous piece, never breaking into discrete tracks in the traditional sense. Its nine sections — Autonomy Lost, Imprint of the Un-Saved, Munspori (The Uncontrollable Spread), In Death - Is Life, In Death - Is Death, Shed, Personae Non Gratae, Dehumanisation, and Sum — flow into one another without pause, forming a single unified composition that unfolds more like a symphony than a metal record.
+
+The album sits chronologically between *Nothing* (2002) and *obZen* (2008), bridging two live-recorded masterworks with a digital experiment that remains unlike anything else in Meshuggah\'s — or any other band\'s — catalog. Understanding *Catch 33* means understanding not just the gear, but the philosophy: sometimes the most powerful creative tool is the one that removes every physical limitation.`,
+      keyPoints: [
+        'ALL drums programmed in Logic Pro — no live kit recorded',
+        'Toontrack dfh Superior used for drum sounds (pre-commercial beta)',
+        '47-minute single continuous composition divided into nine sections',
+        'Programmed by Tomas Haake on laptop — completely solo drum creation process',
+        'Bridges the Nothing (2002) and obZen (2008) eras of Meshuggah\'s sound',
+        'Unique in metal: a masterwork of rhythm created without touching a drum'
+      ]
+    },
+    drumKit: {
+      title: 'The Digital Arsenal: Logic Pro + dfh Superior',
+      brand: 'Toontrack / Apple',
+      model: 'dfh Superior (Drumkit From Hell Superior) — pre-commercial beta build',
+      finish: 'N/A — software instrument',
+      config: {
+        bassdrums: ['Programmed double bass patterns — no physical pedals used'],
+        toms: ['All toms triggered via MIDI in Logic Pro'],
+        floorToms: ['Programmed via MIDI sequencing'],
+        shells: 'dfh Superior sample library — multi-velocity sampled acoustic kit'
+      },
+      description: `*Catch 33* has no drum kit in the conventional sense. Tomas Haake sat at a laptop with Logic Pro and a pre-commercial build of Toontrack\'s dfh Superior — a sample-based drum instrument that would later be released to the public as Superior Drummer — and programmed every drum part note by note.
+
+dfh Superior (short for "Drumkit From Hell Superior") was the successor to the original dfh sample library that had become popular among metal producers. The Superior version introduced multi-velocity layering, round-robin sampling, and realistic cymbal bleed — features that made it far more convincing than earlier drum replacement software.
+
+Haake used this software not as a convenience but as a compositional canvas. Without the physical constraints of a human body — the limits of what two arms and two legs can play simultaneously — he was free to write parts of any theoretical complexity. The polyrhythms on *Catch 33* occasionally exceed what is humanly playable, existing in a space between composition and performance art.
+
+The drum programming was done entirely on laptop, with MIDI input likely via keyboard or step-sequencing directly in Logic Pro\'s piano roll. Each note was placed with deliberate precision, each velocity carefully shaped to create the illusion of organic performance while simultaneously embracing the mechanical accuracy that only programming allows.`,
+      notes: [
+        'No physical drum kit used for the recording',
+        'dfh Superior provided the drum sounds — multi-velocity sampled library',
+        'Logic Pro used as the DAW for all programming',
+        'Programming done on laptop — completely solo creative process',
+        'Some patterns deliberately exceed what is humanly playable',
+        'Live performances later required an extended physical kit plus triggering'
+      ],
+      estimatedValue: 'N/A — software (dfh Superior retailed at ~$300 USD at commercial release)'
+    },
+    snare: {
+      title: 'The Programmed Crack',
+      brand: 'Toontrack',
+      model: 'dfh Superior snare samples',
+      size: 'Various — programmed velocities and articulations',
+      shell: 'Sampled — multiple snare articulations available in dfh Superior',
+      description: `The snare sound on *Catch 33* comes from the dfh Superior library, which included multi-velocity samples of actual studio snare drums recorded in a professional environment. The snare could be programmed with precise velocity values — ranging from ghost notes to full-power rimshots — without the physical fatigue that limits a live drummer\'s dynamic range over an extended session.
+
+What makes this particularly interesting is that Haake\'s programming reflects the same philosophy as his live playing. The snare patterns on *Catch 33* exhibit the same polyrhythmic logic that defines his work behind a physical kit. The "feel" of the snare placement — its relationship to the kick and hi-hat patterns — carries Haake\'s musical fingerprint even when executed by software.
+
+The tight, dry snare sound that characterizes the album helped establish a production aesthetic that would influence the early djent movement. Bands like Periphery would later use similar sample-based drum approaches in demo recordings, creating a sonic lineage that traces back directly to *Catch 33*\'s production choices.`,
+      tuningSetting: 'Programmed — velocity layers simulate dynamic range from ghost notes to rimshots',
+      heads: 'N/A — sampled drum library',
+      estimatedValue: 'N/A — included in dfh Superior library'
+    },
+    cymbals: {
+      title: 'Digital Cymbals: Precision Without Physics',
+      brand: 'Toontrack',
+      series: 'dfh Superior cymbal sample library',
+      setup: [
+        { type: 'Hi-Hats', model: 'dfh Superior hi-hat samples — open/closed/half-open', position: 'Programmed position', notes: 'Multiple articulations programmed via MIDI' },
+        { type: 'Crash', model: 'dfh Superior crash samples', position: 'Programmed', notes: 'Crash accents placed with mathematical precision' },
+        { type: 'Ride', model: 'dfh Superior ride samples', position: 'Programmed', notes: 'Ride bell and bow articulations available' },
+        { type: 'China', model: 'dfh Superior china samples', position: 'Programmed', notes: 'Trashy accents for section transitions' }
+      ],
+      description: `The cymbal sounds on *Catch 33* derive entirely from the dfh Superior sample library. This library was revolutionary for its time, capturing cymbal articulations with a realism that previous metal drum samples had failed to achieve — including the natural decay curves and overtone behavior of real cymbals.
+
+One of the most distinctive aspects of programming cymbals versus recording them live is control over bleed. In a live session, cymbal bleed into drum microphones is inevitable and must be managed. In dfh Superior, bleed is simulated algorithmically, giving Haake complete control over the album\'s sonic space.
+
+The hi-hat programming on *Catch 33* is particularly noteworthy. Haake programmed intricate open/closed transitions that mirror the complexity of his live hi-hat work, creating rhythmic textures that serve the same function — establishing pulse reference points within the polyrhythmic chaos — that his physical hi-hat playing does in live contexts.`,
+      estimatedValue: 'N/A — included in dfh Superior library'
+    },
+    hardware: {
+      title: 'The Real Kit: Tomas\'s Live Setup for Catch 33 Performances',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'Sonor',
+          model: 'Sonor Perfect Balance Pedal (x2 single pedals)',
+          notes: 'Two separate single pedals — used for live performances of the album',
+          description: 'When Meshuggah performed Catch 33 material live, Haake returned to his physical kit. He used two completely independent single pedals, consistent with his established approach across all live performances.'
+        },
+        {
+          type: 'Drum Kit (Live)',
+          brand: 'Sonor',
+          model: 'Sonor Designer Series',
+          notes: 'Physical kit used for live Catch 33 performances',
+          description: 'In 2005, Haake\'s live kit was the Sonor Designer Series — the same setup used on Nothing (2002) and obZen (2008). For live Catch 33 performances, he played an extended version of this kit supplemented by triggers and sample triggering to reproduce the programmed parts.'
+        },
+        {
+          type: 'Trigger System',
+          brand: 'Various',
+          model: 'Electronic triggers on bass drums and select pads',
+          notes: 'Essential for live reproduction of programmed parts',
+          description: 'Reproducing Catch 33 live required trigger technology to fire samples for parts that either exceeded physical human capability or needed to match the studio programming precisely. Haake used a combination of mesh pads and acoustic triggers feeding into a drum module.'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth 5A American Classic',
+          notes: 'Standard stick for live performances'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke P3 Clear (batter) — live kit only',
+        toms: 'Remo Emperor Clear (batter), Remo Ambassador Clear (resonant) — live kit only',
+        snare: 'Remo Ambassador Coated (batter) — live kit only'
+      }
+    },
+    recordingTechniques: {
+      title: 'The Laptop Studio: Programming an Album\'s Worth of Drums',
+      content: `*Catch 33* represents a fundamentally different creative process from any other Meshuggah album. There was no studio booking, no microphone placement, no engineer managing gain structure or room acoustics. Tomas Haake sat with a laptop, Logic Pro, and dfh Superior, and built an entire album\'s drum performance note by note.
+
+**The Programming Workflow:**
+In Logic Pro, Haake would have used the piano roll editor to place MIDI notes with precise timing and velocity values. Each kick drum note, each snare hit, each hi-hat articulation is a discrete data point — adjustable, deletable, repositionable without affecting surrounding notes. This granular control enables musical decisions that are simply impossible to make in real-time performance.
+
+**Why dfh Superior:**
+Toontrack\'s dfh Superior was chosen because it represented the state of the art in metal drum sampling at the time. Earlier drum replacement tools often produced a mechanical, obviously synthetic quality — perfectly timed hits with no velocity variation sounded inhuman in the wrong way. dfh Superior\'s multi-velocity layers and round-robin sampling meant consecutive identical hits sounded slightly different, mimicking the natural variation of a live player.
+
+**The Compositional Freedom:**
+Programming removed the constraint of human physical limitation. Haake could write kick drum patterns that a human being could not play. He could place snare notes at any subdivision. He could create cymbal patterns with velocities precisely calibrated to the millimeter. *Catch 33*\'s most extreme rhythmic passages exist in this liberated space — composed for maximum musical effect rather than maximum physical achievability.
+
+**The Mix:**
+The drum programming was mixed by Haake and Fredrik Thordendal at Fear and Loathing Studios, the band\'s personal facility in Stockholm. Without acoustic bleed to manage, the mixing process had a different character — each instrument was entirely isolated, and the spatial relationships between drums were entirely controlled in the mix stage.
+
+**The Contrast with obZen:**
+Three years later, Haake returned to a live kit for *obZen* and demonstrated definitively that he could play the patterns he\'d been programming. The "Bleed" pattern — perhaps the most demanding thing he\'s ever recorded live — can be understood as a direct challenge to himself: after spending a full album programming drums that pushed beyond human limits, could he bring those ideas back into the physical world? *obZen* answered yes.`,
+      keyTechniques: [
+        'MIDI programming in Logic Pro piano roll — note-by-note drum composition',
+        'dfh Superior multi-velocity layers for realistic dynamics',
+        'No acoustic recording — entirely digital creation process',
+        'Some patterns deliberately exceed physical human playability',
+        'Mixed at Fear and Loathing Studios for final sonic shaping'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'Autonomy Lost',
+        bpm: '~100',
+        signature: 'Polymetric — multiple simultaneous patterns',
+        highlights: [
+          'Opening section establishes the album\'s hypnotic, cyclic character',
+          'Kick patterns immediately establish the djent template',
+          'Programming allows simultaneous patterns that would be impossible live',
+          'Seamlessly transitions into the next section without pause'
+        ],
+        gearNotes: 'Programmed kick patterns establish the album\'s rhythmic language. No physical limitations constrain the note placement.'
+      },
+      {
+        track: 'Shed',
+        bpm: '~105',
+        signature: '4/4 with extended polyrhythmic overlays',
+        highlights: [
+          'One of the album\'s most frequently live-performed sections',
+          'Demonstrates the groove-first approach even in programmed context',
+          'The kick and snare relationship creates the signature Meshuggah push-pull feel',
+          'Became a touchstone for the early djent movement'
+        ],
+        gearNotes: 'The groove on Shed is so compelling that it became a live setlist staple — proof that programmed drums can carry real musical emotion.'
+      },
+      {
+        track: 'In Death - Is Life / In Death - Is Death',
+        bpm: '~95',
+        signature: 'Transitional — shifting metric cycles',
+        highlights: [
+          'The two-part structure demonstrates the album\'s compositional ambition',
+          'Drum programming shifts between sections to reflect the lyrical tension',
+          'Extended metric cycles that would be exhausting to maintain live',
+          'Shows Haake\'s ability to build tension through rhythmic architecture'
+        ],
+        gearNotes: 'The transitional drumming across these two sections benefits enormously from programming — precise metric shifts that live performance would struggle to execute cleanly.'
+      },
+      {
+        track: 'Sum',
+        bpm: '~100',
+        signature: 'Closing — resolution of all prior rhythmic material',
+        highlights: [
+          'Final section brings the 47-minute composition to its conclusion',
+          'Drum patterns reference earlier sections, providing structural cohesion',
+          'The fade-out represents the album\'s only conventional ending gesture',
+          'Demonstrates that programmed drums can carry genuine emotional weight'
+        ],
+        gearNotes: 'The closing section proves the central thesis of Catch 33: whether the hands playing are human or digital, the music is real.'
+      }
+    ],
+    faq: [
+      {
+        question: 'Were the drums on Meshuggah\'s Catch 33 programmed or recorded live?',
+        answer: 'All drums on Meshuggah\'s Catch 33 (2005) were programmed — there is no live drum performance on the album. Tomas Haake programmed every note in Logic Pro using Toontrack\'s dfh Superior drum instrument, which was still in a pre-commercial beta phase at the time. This makes Catch 33 unique in Meshuggah\'s catalog and unusual among major metal albums: a full-length release from a band celebrated for live drumming virtuosity with no live drums whatsoever.',
+      },
+      {
+        question: 'What software did Tomas Haake use to program the drums on Catch 33?',
+        answer: 'Tomas Haake programmed the drums on Catch 33 using Apple Logic Pro as the digital audio workstation and Toontrack dfh Superior (short for Drumkit From Hell Superior) for the drum sounds. dfh Superior was a sample-based virtual instrument that would later be commercially released as Superior Drummer. The dfh Superior library featured multi-velocity sampled drum hits with round-robin sampling — techniques that made the programmed drums sound more realistic than previous drum replacement tools available at the time.',
+      },
+      {
+        question: 'How does Catch 33 differ from other Meshuggah albums in terms of drums?',
+        answer: 'Catch 33 is the only Meshuggah album with entirely programmed drums. Every other album in the band\'s catalog — including Nothing (2002) before it and obZen (2008) after it — features Tomas Haake performing live on a physical drum kit. Catch 33 was also released as a single 47-minute continuous composition rather than discrete tracks, making it unique in the band\'s catalog on multiple levels. The programmed drums allowed for rhythmic patterns that occasionally exceed what a human drummer can physically play, though Haake later demonstrated on obZen that he could execute similarly extreme ideas on a live kit.',
+      },
+      {
+        question: 'Can Catch 33 be played live? How does Tomas Haake perform it?',
+        answer: 'Meshuggah has performed sections of Catch 33 live — most notably Shed — but reproducing the full programmed album requires a hybrid approach. Haake plays his physical Sonor drum kit live but supplements it with electronic triggers and samples to reproduce parts that were programmed beyond normal physical capability or to match the studio recording precisely. The live experience differs from the album: Haake\'s live performances add human variation and energy that the programmed original lacks, while the click track and sample triggering maintain the rhythmic precision that defines Meshuggah\'s sound.',
+      },
+      {
+        question: 'Why did Tomas Haake program the drums on Catch 33 instead of recording them live?',
+        answer: 'Tomas Haake has explained that Catch 33 was a deliberate compositional experiment. The album — conceived as a single continuous 47-minute piece — was designed by Fredrik Thordendal with musical ideas that benefited from the limitless rhythmic precision that programming allows. Programming removed the constraint of human physical limits, allowing Haake to explore rhythmic concepts without worrying about whether they were executable live. It was also a creative statement about the nature of performance and composition in metal: the groove and emotion of the music did not require a human body to produce them.',
+      },
+    ],
+    conclusion: {
+      title: 'The Proof That Rhythm Lives in the Music, Not the Hands',
+      content: `*Catch 33* poses a question that cuts to the heart of what drumming means: if you cannot hear the difference between a great drummer and a thoughtfully programmed facsimile, does it matter which it is?
+
+Tomas Haake\'s answer, embodied across 47 continuous minutes of programmed drums, is that the music is what matters. The groove on *Catch 33* is real. The tension, the release, the hypnotic pulse that locks you into its cycles — these are musical qualities that exist independent of how they were generated. A listener discovering the album without knowing its production history would almost certainly assume a drummer was behind it.
+
+For drummers, the album offers a counterintuitive lesson. Programming is not the enemy of live drumming — it is a different tool with different capabilities. Haake used programming to explore musical territory that physical performance couldn\'t reach, and then brought those lessons back to his kit for *obZen*. The programmed extreme of *Catch 33* and the live extreme of "Bleed" are two sides of the same compositional philosophy.
+
+The practical implications for modern drummers are significant. Sample-based drum tools — descended directly from dfh Superior — are now standard in home studios. *Catch 33* demonstrated that these tools, in the right hands, can produce music that holds up against any live recording. It also demonstrated their limits: hearing Haake play "Bleed" live has an electricity that no programming can replicate.
+
+*Catch 33* remains one of progressive metal\'s most singular documents — an album that only Meshuggah could have made, in a form that only Tomas Haake could have conceived. The absence of a kit did nothing to diminish the drummer\'s vision. If anything, removing every physical constraint revealed the pure musical mind behind Meshuggah\'s rhythmic architecture. 🤘`
+    },
+    videos: [],
+    relatedAlbums: ['nothing-drum-setup', 'obzen-drum-setup', 'koloss-drum-setup'],
+    relatedDrummers: [14, 9, 16], // Danny Carey, Mario Duplantier, Travis Orbin
+    relatedArticles: ['djent-drumming-guide', 'polyrhythm-exercises-metal'],
+    relatedLicks: [],
+  },
+
   'obzen-drum-setup': {
     slug: 'obzen-drum-setup',
     albumTitle: 'obZen',

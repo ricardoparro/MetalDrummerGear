@@ -40148,6 +40148,386 @@ Both approaches are valid. Both produce exceptional recordings. Understanding *E
 
 For the complete picture of Inferno's gear across Behemoth's career, visit the [What's In Inferno's Kit breakdown](/articles/whats-in-infernos-kit) and the [Inferno drummer profile](/drummer/inferno). For the technical foundations of the blast beat technique central to this album, the [blast beat techniques guide](/articles/blast-beat-techniques) provides the complete mechanical breakdown. And for the remarkable follow-up that *Evangelion* made possible, see the [The Satanist drum setup breakdown](/articles/the-satanist-drum-setup).`
     }
+  },
+
+  'wages-of-sin-drum-setup': {
+    slug: 'wages-of-sin-drum-setup',
+    articleType: 'album-gear',
+    albumTitle: 'Wages of Sin',
+    artist: 'Arch Enemy',
+    drummer: 'Daniel Erlandsson',
+    relatedDrummerSlug: 'daniel-erlandsson',
+    year: 2002,
+    genre: 'Melodic Death Metal',
+    label: 'Century Media Records',
+    studio: 'The Abyss Studio, Pärnäs, Sweden',
+    producer: 'Peter Tägtgren',
+    isAlbumArticle: true,
+    datePublished: '2026-06-24',
+    dateModified: '2026-06-24',
+    author: 'MetalForge Editorial',
+    title: "Daniel Erlandsson's Drum Setup on Arch Enemy's Wages of Sin (2002)",
+    metaTitle: "Arch Enemy Wages of Sin Drum Setup — Daniel Erlandsson's 2002 Kit | MetalForge",
+    description: "Daniel Erlandsson's defining Arch Enemy performance — the album that launched Angela Gossow's reign and brought melodic death metal to global audiences. Complete Tama Starclassic Maple drum kit, Paiste cymbals, and Axis pedal breakdown.",
+    seoKeywords: ['arch enemy wages of sin drums', 'daniel erlandsson drum setup 2002', 'wages of sin drum kit', 'arch enemy angela gossow album drummer', 'melodic death metal drummer setup', 'daniel erlandsson tama drums', 'arch enemy drummer gear 2002', 'wages of sin recording gear', 'daniel erlandsson paiste cymbals', 'arch enemy 2002 drummer'],
+    ogImage: '/images/albums/wages-of-sin-drums.webp',
+    quickFacts: {
+      kit: 'Tama Starclassic Maple',
+      snare: 'Tama Starphonic Steel 14" x 6.5"',
+      cymbals: 'Paiste (professional series)',
+      doublePedals: 'Axis A Longboard Double Bass Pedal',
+      sticks: 'ProMark 5B',
+      studio: 'The Abyss Studio, Pärnäs, Sweden — producer: Peter Tägtgren'
+    },
+    intro: {
+      title: "Wages of Sin: The Album That Launched Arch Enemy's Global Breakthrough",
+      content: `Released on March 26, 2002, *Wages of Sin* is the fourth studio album by Swedish melodic death metal band Arch Enemy — and the most consequential release in the band's catalog. It was the first album to feature Angela Gossow as vocalist, replacing original singer Johan Liiva, and the combination of Gossow's aggressive female-fronted delivery and the band's increasingly refined melodic death metal approach catapulted Arch Enemy from Gothenburg underground recognition to international prominence.
+
+For Daniel Erlandsson, *Wages of Sin* represents the performance that defined his career. The album's drum work exemplifies every quality that makes Erlandsson one of melodic death metal's most respected practitioners: blast beats deployed with structural precision, double-kick patterns that track the melodic contours of Michael Amott's guitar arrangements, fills that function as compositional events rather than mere gap-filling, and the dynamic awareness to make every transition between the album's atmospheric and full-intensity sections land with maximum force.
+
+The album was recorded at The Abyss Studio in Pärnäs, Sweden, produced by Peter Tägtgren — the producer whose engineering fingerprint on melodic death metal releases in this era is unmistakable. Tägtgren's production on *Wages of Sin* captured the Tama Starclassic Maple drum sound with remarkable clarity, giving Erlandsson's kick drum attack the punch and articulation that the album's double-bass-heavy tracks demand.
+
+*Wages of Sin* charted in multiple European countries and established Arch Enemy as a genuine international metal act. Tracks like "Enemy Within," "Burning Angel," and "Heart of Darkness" became catalog standards that the band continues to perform decades later. For a complete overview of Erlandsson's drumming career and current setup, see the [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson) and the [Daniel Erlandsson full gear breakdown](/articles/daniel-erlandsson-drum-setup).`,
+      keyPoints: [
+        'Released March 26, 2002 on Century Media Records — Arch Enemy\'s international breakthrough album',
+        'First album featuring Angela Gossow as vocalist — Gossow\'s debut transformed the band\'s global profile',
+        'Recorded at The Abyss Studio, Sweden, produced by Peter Tägtgren',
+        'Daniel Erlandsson recorded with Tama Starclassic Maple drums, Paiste cymbals, and Axis A Longboard pedals',
+        '"Enemy Within," "Burning Angel," and "Heart of Darkness" are defining tracks for Erlandsson\'s double-kick work',
+        'Charted across European markets — Arch Enemy\'s first significant international chart presence',
+        'The Gossow debut album remains the most-searched period in Arch Enemy\'s catalog'
+      ]
+    },
+    drumKit: {
+      title: 'Tama Starclassic Maple: The 2002-Era Foundation',
+      brand: 'Tama',
+      model: 'Tama Starclassic Maple',
+      finish: 'Gloss Black',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum (x2 — double kick configuration)'],
+        toms: ['10" x 9" Rack Tom', '12" x 10" Rack Tom'],
+        floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom'],
+        shells: 'Pure maple — Starclassic Maple shell construction for warmth, clarity, and projection'
+      },
+      description: `Daniel Erlandsson's 2002-era Tama Starclassic Maple kit provided the tonal foundation for *Wages of Sin*'s drum sound. The Starclassic Maple — Tama's flagship all-maple professional shell line at the time — delivers a warmer, more resonant character than birch-based alternatives, with natural sustain in the toms and controlled low-frequency weight in the kick drums that suits melodic death metal's harmonic density.
+
+The double bass drum configuration — two 22" x 18" kick drums — provides the low-frequency mass that *Wages of Sin*'s most demanding tracks require. "Enemy Within" opens the album with a blast beat introduction that transitions into sustained double-kick grooves; "The First Deadly Sin" builds its rhythmic foundation on relentless kick patterns that sustain across nearly five minutes of material. The 22" diameter generates sub-bass body, while the 18" depth delivers the punchy beater attack that cuts through Amott's layered guitar production.
+
+Erlandsson's compact tom configuration — two rack toms (10" and 12") and two floor toms (14" and 16") — follows the Gothenburg approach to tom work: pitch variety sufficient for melodic fill phrasing without the sprawling configurations that prioritize visual impact over playing speed. On *Wages of Sin*, his tom fills function as melodic punctuation — rapid descending patterns that answer Amott's guitar resolutions or mark structural section boundaries.
+
+The Tama Starclassic Maple remained Erlandsson's recording and touring instrument through Arch Enemy's early Gossow-era albums before he transitioned to his Pearl Reference Pure endorsement. The Starclassic Maple's legacy on *Wages of Sin* is the sonic backbone of the album that defined his career. For comparison with his current Pearl setup, see the [Daniel Erlandsson full gear breakdown](/articles/daniel-erlandsson-drum-setup).`,
+      notes: [
+        'Tama Starclassic Maple — all-maple shells at the top of Tama\'s 2002-era professional production line',
+        'Double 22" x 18" bass drums for Arch Enemy\'s sustained double-kick foundations',
+        'Compact tom spread (10", 12", 14", 16") for fast melodic fill articulation',
+        'Gloss black finish — consistent with the band\'s visual identity',
+        'Later transitioned to Pearl Reference Pure endorsement; Starclassic Maple is the Wages of Sin-era instrument'
+      ],
+      estimatedValue: '$2,800–4,500 (Tama Starclassic Maple shell pack, 2002 pricing)'
+    },
+    snare: {
+      title: 'Tama Starphonic Steel: 14" x 6.5" Cutting Authority',
+      brand: 'Tama',
+      model: 'Tama Starphonic Steel 14" x 6.5"',
+      size: '14" x 6.5"',
+      shell: 'Steel shell — bright, cutting attack for presence in dense melodic death metal guitar frequencies',
+      description: `Daniel Erlandsson's snare choice on *Wages of Sin* — a steel-shell model in the 14" x 6.5" format — reflects the same logic that steel snares bring to dense, guitar-driven metal productions: brightness, projection, and authority that cuts through without compromising the snare's tonal identity under compression and in the mix.
+
+The 6.5" depth provides the body and volume of a deep snare while maintaining the quick response that Erlandsson's melodic death metal snare work demands. On *Wages of Sin*, the snare must operate across a wide dynamic range — from the moderate-velocity groove passages of "Burning Angel" and "Heart of Darkness" through the full-intensity blast work in "Enemy Within" and "The First Deadly Sin." A steel shell at 6.5" depth delivers consistent character across that full range, which a shallower or more tonally complex shell might not.
+
+Peter Tägtgren's production at The Abyss Studio captured the steel snare with the characteristic Abyss approach: present, punchy, and fully integrated into the rhythmic foundation rather than isolated as a production centerpiece. The result is a snare sound that serves *Wages of Sin*'s songs — forward and authoritative in every context.`,
+      tuningSetting: 'Medium to medium-high — brightness and attack optimized for melodic death metal guitar frequencies',
+      heads: 'Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$300–500 (Tama Starphonic Steel, 2002 era)'
+    },
+    cymbals: {
+      title: 'Paiste Cymbals: Professional Projection for The Abyss Studio Sessions',
+      brand: 'Paiste',
+      series: 'Paiste Professional Series',
+      setup: [
+        { type: 'Hi-Hats', model: 'Paiste 14" Hi-Hats', position: 'Left side', notes: 'Defined, cutting hi-hat attack for fast 16th-note patterns at Arch Enemy tempos' },
+        { type: 'Crash', model: 'Paiste 16" Crash', position: 'Left crash', notes: 'Fast, bright crash for accent work in high-velocity melodic passages' },
+        { type: 'Crash', model: 'Paiste 18" Crash', position: 'Right crash', notes: 'Fuller crash for section boundaries and climactic intensity moments' },
+        { type: 'Ride', model: 'Paiste 20" Ride', position: 'Right side', notes: 'Clear, defined ride for groove-oriented passages' },
+        { type: 'China', model: 'Paiste China', position: 'Over rack toms', notes: 'Aggressive, cutting accent for blast sections and intensity peaks' }
+      ],
+      description: `Daniel Erlandsson's Paiste cymbal setup on *Wages of Sin* provided the projection and tonal character that Peter Tägtgren's Abyss Studio production required. Paiste's professional series cymbals deliver a distinctly European tonal character — bell-forward, with defined attack and controlled wash — that suited the crisp, present production style Tägtgren favored in Scandinavian melodic death metal recordings of the early 2000s.
+
+The 14" hi-hats establish Erlandsson's rhythmic pulse across *Wages of Sin*'s varied tempo range — from the driving mid-paced grooves of "Burning Angel" through the higher-velocity blast foundations of "Enemy Within." Paiste's fast decay characteristic in this size means each hi-hat stroke registers distinctly in the production, even when Amott's layered guitar arrangements compete heavily for frequency space.
+
+The crash setup — 16" for fast accent work, 18" for bigger structural moments — mirrors the functional logic of the Sabian AAX setup Erlandsson later used with Pearl: smaller crashes for precision accents, larger for impact at section boundaries. The China cymbal added the aggressive, cutting accent punctuation that marks Arch Enemy's most intense passages on the album — the accent on the word "China" in the mix context is hard, fast, and unambiguous.
+
+The Paiste setup on *Wages of Sin* reflects the 2002-era configuration that Erlandsson brought to The Abyss Studio. His cymbal selection evolved toward the Sabian AAX/HHX pairing documented in his current [Daniel Erlandsson drum setup](/articles/daniel-erlandsson-drum-setup) after the Wages of Sin era.`,
+      estimatedValue: '$1,200–2,000 (full Paiste professional cymbal setup, 2002 era)'
+    },
+    hardware: {
+      title: 'Axis A Longboard: Double-Kick Authority for Wages of Sin',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'Axis',
+          model: 'Axis A Longboard Double Bass Pedal',
+          notes: 'Linear cam action for consistent double-kick velocity across Wages of Sin\'s most demanding passages',
+          description: `The Axis A Longboard double bass pedal is Daniel Erlandsson's foot technique instrument on *Wages of Sin* — and one of the most consequential gear choices on the album. Arch Enemy's melodic death metal demands sustained double-kick work at tempos where every stroke must register cleanly and independently, across performance contexts ranging from studio recording sessions to touring.
+
+The Axis A Longboard's defining characteristic is its linear cam geometry: unlike the cam-based designs of major competitors (which accelerate the beater at a non-linear rate through the stroke), the Axis uses a direct-drive linkage that produces the same feel at every point in the pedal's range of motion. For Erlandsson's heel-up technique at *Wages of Sin*'s tempos, this linearity means the double-kick passages maintain mechanical consistency — the 15th stroke of a 16th-note pattern at 200 BPM produces the same result as the first.
+
+"Enemy Within," which opens the album and establishes the performance expectations immediately, features blast beat/double-kick integration that requires this kind of precision. The Axis A Longboard provided the response that Tägtgren's tight Abyss Studio production could capture cleanly.`
+        },
+        {
+          type: 'Sticks',
+          brand: 'ProMark',
+          model: 'ProMark 5B',
+          notes: 'Mass and durability for high-impact melodic death metal performance',
+          description: 'ProMark 5B sticks provide the mass needed for driving impact in Arch Enemy\'s most aggressive passages while maintaining the control that melodic fill work demands. The 5B\'s diameter and weight sit above the 5A used by more technically-oriented players but remain manageable for the faster articulation that melodic fill phrases require at Arch Enemy\'s tempos.'
+        },
+        {
+          type: 'Drumheads (Toms, Batter)',
+          brand: 'Remo',
+          model: 'Remo Emperor Coated',
+          notes: 'Two-ply durability and controlled sustain for touring and studio demands'
+        },
+        {
+          type: 'Drumheads (Bass, Batter)',
+          brand: 'Remo',
+          model: 'Remo Powerstroke 3',
+          notes: 'Focused bass drum attack with controlled low-end for double-kick definition in dense melodic death metal production'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke 3 (batter — focused attack for double-kick definition), Remo Powerstroke 3 (resonant)',
+        toms: 'Remo Emperor Coated (batter — two-ply durability), Remo Ambassador Clear (resonant)',
+        snare: 'Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)'
+      }
+    },
+    recordingTechniques: {
+      title: 'The Abyss Studio: Peter Tägtgren\'s Approach to Wages of Sin',
+      content: `*Wages of Sin* was recorded at The Abyss Studio in Pärnäs, Sweden — producer Peter Tägtgren's facility and one of Scandinavia's most important metal recording environments in the late 1990s and early 2000s. Tägtgren had built The Abyss into the preferred destination for Swedish and international melodic death metal and black metal acts who wanted a specific combination of sonic clarity, punch, and European character that mainstream studios could not or would not deliver.
+
+Tägtgren's approach to drum recording at The Abyss emphasized close-mic clarity combined with enough room character to give the kit physical presence. The Tama Starclassic Maple's natural resonance worked with the studio's acoustic environment rather than against it — the shells' warmth complemented the controlled ambience Tägtgren preferred in his drum productions.
+
+**Key Production Characteristics:**
+- Kick drum recorded with presence and punch — the double-kick work on "Enemy Within" and "Burning Angel" registers with definition even at high velocities
+- Snare captured with steel-shell brightness and authority — forward in the mix without being harsh
+- Toms treated as melodic instruments — the descending fill phrases in tracks like "Heart of Darkness" have pitch differentiation rather than blending into a single percussive mass
+- Paiste cymbals recorded with bell definition and controlled wash — crash cymbals decay cleanly rather than building into sustained frequency congestion in the mix
+
+The *Wages of Sin* drum sound reflects Tägtgren's 2002-era production philosophy: every element of the kit should be individually legible in the mix while functioning as a unified rhythmic force. Erlandsson's Tama Starclassic Maple setup — warm, clear, and physically present — was well matched to that philosophy.`,
+      keyTechniques: [
+        'Kick drum recorded for punch and definition — essential for double-kick passages at melodic death metal tempos',
+        'Steel snare captured for brightness and authority in dense guitar frequency environments',
+        'Tom fills treated as melodic phrases — pitch differentiation preserved in the production',
+        'Paiste cymbal wash controlled for clarity — crashes decay cleanly in Tägtgren\'s mix',
+        'Room character balanced with close-mic definition — The Abyss Studio\'s characteristic sound'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'Enemy Within',
+        bpm: '~200',
+        signature: '4/4',
+        highlights: [
+          'Album opener — blast beat introduction establishes Gossow-era intensity immediately',
+          'Sustained double-kick patterns across the main riff sequences',
+          'Dynamic transitions between blast sections and mid-paced groove foundations',
+          'Defines the Wages of Sin drum template for the rest of the album'
+        ],
+        gearNotes: 'Axis A Longboard linearity is most audible here — the blast/double-kick transitions require consistent mechanical response. Paiste hi-hats provide definition in the fast 16th-note patterns above the kick drum density.'
+      },
+      {
+        track: 'Burning Angel',
+        bpm: '~180',
+        signature: '4/4',
+        highlights: [
+          'One of the album\'s most accessible tracks — groove-oriented foundation with melodic fill integration',
+          'Erlandsson\'s tom fill phrasing follows Amott\'s guitar melody in the pre-chorus',
+          'Demonstrates the mid-tempo double-kick groove that became an Arch Enemy signature',
+          'Became a live set staple — drumming calibrated for repeated performance'
+        ],
+        gearNotes: 'Tama Starclassic Maple tom warmth carries the melodic fill work. Snare authority drives the groove sections without dominating the mix.'
+      },
+      {
+        track: 'Heart of Darkness',
+        bpm: '~175',
+        signature: '4/4',
+        highlights: [
+          'Mid-album intensity peak — full double-kick foundation across the verse sequences',
+          'Descending tom fill pattern in the pre-chorus is a signature Erlandsson phrase',
+          'Demonstrates dynamic range — restrained verses, full-intensity chorus attacks',
+          'Peter Tägtgren\'s production captures the Starclassic Maple tom pitch differentiation clearly'
+        ],
+        gearNotes: 'The tom fill articulation benefits from the Starclassic Maple\'s natural resonance. Paiste 18" crash marks section boundaries with appropriate mass and decay speed.'
+      },
+      {
+        track: 'Shadows and Dust',
+        bpm: '~165',
+        signature: '4/4',
+        highlights: [
+          'Album closer — sustained grooves that consolidate the Wages of Sin drum aesthetic',
+          'Double-kick work at a slightly lower tempo, emphasizing weight over velocity',
+          'Erlandsson demonstrates control and endurance across a longer form arrangement',
+          'Serves as the album\'s rhythmic conclusion — matching the compositional arc'
+        ],
+        gearNotes: 'Axis A Longboard consistency is critical in the slower double-kick work — each stroke must maintain even velocity across the arrangement. Tama kick drums at 22" provide appropriate sub-bass body.'
+      }
+    ],
+    evolution: {
+      title: "From Wages of Sin to the Modern Era: Erlandsson's Gear Evolution",
+      content: `*Wages of Sin* (2002) marks a specific moment in Daniel Erlandsson's gear evolution — the Tama Starclassic Maple and Axis A Longboard era that predates his transition to Pearl endorsement. Comparing the 2002 setup to his modern configuration illustrates how his gear evolved alongside Arch Enemy's commercial growth and production budget expansion.
+
+**The 2002 Configuration:**
+The Tama Starclassic Maple with Paiste cymbals and Axis A Longboard pedals was a professional-tier setup appropriate for the Abyss Studio sessions and the European touring that followed the album. The Axis pedal in particular — a boutique choice relative to the Tama and Pearl pedals that dominated the market — reflected Erlandsson's preference for linear-cam response at a time when most drummers used cam-based designs.
+
+**The Modern Configuration:**
+By the mid-to-late 2000s, Erlandsson had transitioned to Pearl Reference Pure drums, the Pearl Daniel Erlandsson Signature snare, Sabian AAX/HHX cymbals, and Pearl Eliminator double bass pedals — the setup documented in full at the [Daniel Erlandsson drum setup guide](/articles/daniel-erlandsson-drum-setup). The Pearl Eliminator's interchangeable cam system allowed him to replicate aspects of the linear feel he'd used with the Axis while gaining the reliability advantage of Pearl's endorsement infrastructure for international touring.
+
+**What Stayed the Same:**
+Erlandsson's fundamental approach — compact tom configuration, double 22" bass drums, steel snare for brightness and authority — remained consistent between 2002 and the modern era. The gear brands changed; the drumming philosophy did not. For the full career arc and how the Wages of Sin era fits within it, the [Arch Enemy band page](/band/arch-enemy) provides the broader context.`,
+      thenVsNow: [
+        { category: 'Kit', then: 'Tama Starclassic Maple (2002)', now: 'Pearl Reference Pure' },
+        { category: 'Snare', then: 'Tama Starphonic Steel 14" x 6.5"', now: 'Pearl Daniel Erlandsson Signature 14" x 5.5"' },
+        { category: 'Cymbals', then: 'Paiste professional series', now: 'Sabian AAX and HHX series' },
+        { category: 'Pedals', then: 'Axis A Longboard Double Bass Pedal', now: 'Pearl Eliminator Double Bass Pedal' },
+        { category: 'Sticks', then: 'ProMark 5B', now: 'ProMark 5B (unchanged)' }
+      ]
+    },
+    videos: [],
+    relatedAlbums: ['daniel-erlandsson-drum-setup', 'slaughter-of-the-soul-drum-setup'],
+    relatedDrummers: ['daniel-erlandsson'],
+    relatedArticles: ['melodic-death-metal-drummers', 'best-metal-double-kick-technique'],
+    internalLinks: [
+      { text: 'Daniel Erlandsson drummer profile', url: '/drummer/daniel-erlandsson' },
+      { text: 'Daniel Erlandsson complete gear guide', url: '/articles/daniel-erlandsson-drum-setup' },
+      { text: 'Arch Enemy band page', url: '/band/arch-enemy' },
+      { text: 'At the Gates Slaughter of the Soul drum breakdown — Adrian Erlandsson', url: '/articles/slaughter-of-the-soul-drum-setup' },
+      { text: 'Axis A Longboard pedal overview', url: '/gear/axis-pedals' },
+      { text: 'Tama Starclassic Maple brand guide', url: '/gear/tama' }
+    ],
+    faq: [
+      {
+        question: "What drum kit did Daniel Erlandsson use on Wages of Sin?",
+        answer: "Daniel Erlandsson recorded Wages of Sin (2002) using a Tama Starclassic Maple drum kit in a double bass configuration — two 22\" x 18\" kick drums, two rack toms (10\" and 12\"), and two floor toms (14\" and 16\"). The Tama Starclassic Maple was his primary recording and touring instrument in Arch Enemy's early Gossow era, providing all-maple shell construction for warmth, clarity, and physical projection. He later transitioned to Pearl Reference Pure drums as his primary endorsement. For his complete modern setup, see the Daniel Erlandsson drum setup guide at MetalForge."
+      },
+      {
+        question: "What cymbals did Daniel Erlandsson use on Wages of Sin?",
+        answer: "Daniel Erlandsson's cymbal setup on Wages of Sin (2002) used Paiste professional series cymbals — a configuration that provided the bright, defined attack and controlled wash that Peter Tägtgren's Abyss Studio production style required. His Paiste setup included 14\" hi-hats for fast 16th-note pattern definition, 16\" and 18\" crashes for accent work and section boundaries, a 20\" ride, and a China cymbal for aggressive accent punctuation in blast sections. Erlandsson later transitioned to Sabian AAX and HHX cymbals in his current professional setup."
+      },
+      {
+        question: "What bass drum pedals did Daniel Erlandsson use on Wages of Sin?",
+        answer: "Daniel Erlandsson used the Axis A Longboard double bass pedal on Wages of Sin (2002). The Axis A Longboard's defining characteristic is its linear cam geometry — a direct-drive design that produces consistent mechanical response across the full stroke range, unlike the non-linear acceleration of cam-based competitors. For Arch Enemy's sustained double-kick work at melodic death metal tempos, the Axis's linearity meant consistent stroke velocity across the longest passages in tracks like \"Enemy Within\" and \"Burning Angel.\" He later transitioned to Pearl Eliminator double bass pedals for his Pearl endorsement era."
+      },
+      {
+        question: "Who played drums on Arch Enemy's Wages of Sin?",
+        answer: "Daniel Erlandsson played drums on Arch Enemy's Wages of Sin (2002). Erlandsson is a co-founding member of Arch Enemy, having joined when the band formed in 1995, and has been their drummer across all ten studio albums. Wages of Sin was recorded at The Abyss Studio in Sweden and produced by Peter Tägtgren. A common point of confusion: Daniel's brother Adrian Erlandsson is the drummer for At the Gates — a different Swedish melodic death metal band. Adrian recorded Slaughter of the Soul (1995) for At the Gates, while Daniel recorded Wages of Sin for Arch Enemy. For the At the Gates comparison, see the Slaughter of the Soul drum setup breakdown at MetalForge."
+      },
+      {
+        question: "Why is Wages of Sin Daniel Erlandsson's most important album?",
+        answer: "Wages of Sin (2002) is Daniel Erlandsson's most consequential recording because it was the album that launched Arch Enemy's international breakthrough. Angela Gossow's debut as vocalist on this album transformed Arch Enemy from a respected Gothenburg underground act into a globally recognized melodic death metal band with mainstream metal media coverage, major festival slots, and sustained international touring. The album's drum work — recorded with Tama Starclassic Maple drums, Paiste cymbals, and Axis A Longboard pedals at Peter Tägtgren's Abyss Studio — became the reference point for Erlandsson's melodic death metal drumming approach. Tracks like \"Enemy Within\" and \"Burning Angel\" remain live set staples and are among the most-streamed Arch Enemy songs. For the full Arch Enemy and Erlandsson career context, see the Daniel Erlandsson drummer profile at MetalForge."
+      }
+    ],
+    schema: {
+      '@context': 'https://schema.org',
+      '@graph': [
+        {
+          '@type': 'Article',
+          headline: "Daniel Erlandsson's Drum Setup on Arch Enemy's Wages of Sin (2002)",
+          description: "Daniel Erlandsson's defining Arch Enemy performance — the album that launched Angela Gossow's reign and brought melodic death metal to global audiences. Tama Starclassic Maple, Paiste cymbals, and Axis A Longboard pedal breakdown.",
+          author: {
+            '@type': 'Organization',
+            name: 'MetalForge Editorial'
+          },
+          datePublished: '2026-06-24',
+          dateModified: '2026-06-24'
+        },
+        {
+          '@type': 'MusicAlbum',
+          name: 'Wages of Sin',
+          byArtist: {
+            '@type': 'MusicGroup',
+            name: 'Arch Enemy'
+          },
+          datePublished: '2002-03-26',
+          genre: 'Melodic Death Metal',
+          recordLabel: {
+            '@type': 'Organization',
+            name: 'Century Media Records'
+          },
+          track: [
+            { '@type': 'MusicRecording', name: 'Enemy Within' },
+            { '@type': 'MusicRecording', name: 'The First Deadly Sin' },
+            { '@type': 'MusicRecording', name: 'Heart of Darkness' },
+            { '@type': 'MusicRecording', name: 'Burning Angel' },
+            { '@type': 'MusicRecording', name: 'Savage Messiah' },
+            { '@type': 'MusicRecording', name: 'Dead Bury Their Dead' },
+            { '@type': 'MusicRecording', name: 'Web of Lies' },
+            { '@type': 'MusicRecording', name: 'The Ides of March' },
+            { '@type': 'MusicRecording', name: 'Behind the Smile' },
+            { '@type': 'MusicRecording', name: 'Snow Bound' },
+            { '@type': 'MusicRecording', name: 'Shadows and Dust' }
+          ]
+        },
+        {
+          '@type': 'Person',
+          name: 'Daniel Erlandsson',
+          birthDate: '1976-05-22',
+          birthPlace: {
+            '@type': 'Place',
+            name: 'Malmö, Sweden'
+          },
+          memberOf: {
+            '@type': 'MusicGroup',
+            name: 'Arch Enemy'
+          },
+          instrument: 'Drums'
+        },
+        {
+          '@type': 'FAQPage',
+          mainEntity: [
+            {
+              '@type': 'Question',
+              name: 'What drum kit did Daniel Erlandsson use on Wages of Sin?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: 'Daniel Erlandsson recorded Wages of Sin (2002) using a Tama Starclassic Maple drum kit in a double bass configuration — two 22" x 18" kick drums, two rack toms (10" and 12"), and two floor toms (14" and 16"). He later transitioned to Pearl Reference Pure drums as his primary endorsement kit.'
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'What cymbals did Daniel Erlandsson use on Wages of Sin?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "Daniel Erlandsson's cymbal setup on Wages of Sin (2002) used Paiste professional series cymbals — 14\" hi-hats, 16\" and 18\" crashes, a 20\" ride, and a China cymbal. He later transitioned to Sabian AAX and HHX cymbals for his current professional setup."
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'What bass drum pedals did Daniel Erlandsson use on Wages of Sin?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "Daniel Erlandsson used the Axis A Longboard double bass pedal on Wages of Sin (2002). The Axis A Longboard's linear cam geometry delivers consistent mechanical response across the full stroke range — essential for Arch Enemy's sustained double-kick passages at melodic death metal tempos."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    conclusion: {
+      title: "Wages of Sin: The Breakthrough That Defined a Career",
+      content: `*Wages of Sin* (2002) is not simply another Arch Enemy album — it is the album that changed the band's trajectory permanently and established Daniel Erlandsson's performance benchmark for the decade that followed. Angela Gossow's debut as vocalist provided the catalyst; Erlandsson's drumming provided the foundation that made the album's ambition achievable.
+
+The 2002-era gear configuration — Tama Starclassic Maple shells, Paiste cymbals, Axis A Longboard double bass pedals — was well matched to Peter Tägtgren's production philosophy at The Abyss Studio: clear, punchy, and physically present without sacrificing the melodic character that distinguishes Arch Enemy from less compositionally aware extreme metal acts. Every gear choice on *Wages of Sin* served the music.
+
+**Key Takeaways for Drummers Studying This Album:**
+
+- The Tama Starclassic Maple's all-maple warmth suits melodic death metal's harmonic density better than brighter birch alternatives — the shells support guitar melody rather than competing with it
+- The Axis A Longboard's linear pedal feel enables the consistent double-kick velocity that *Wages of Sin*'s most demanding tracks require across extended passages
+- Paiste's European tonal character — bell-forward, controlled wash — integrates cleanly into Tägtgren's Abyss Studio production style
+- The compact double-bass configuration (two 22" kicks, minimal tom spread) prioritizes playing speed and articulation over visual scale
+
+Study "Enemy Within" for blast beat and double-kick integration within a fully realized melodic context. Study "Burning Angel" for mid-tempo groove work that serves the melody while maintaining death metal authority. Study "Heart of Darkness" for Erlandsson's approach to tom fill work as compositional phrasing rather than pattern repetition.
+
+For the complete picture of Daniel Erlandsson's drumming career — from the *Wages of Sin* breakthrough through the modern Pearl Reference Pure era — see the [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson) and the [full gear breakdown](/articles/daniel-erlandsson-drum-setup). For the parallel story of the Erlandsson family in Swedish melodic death metal, the [Slaughter of the Soul drum setup breakdown](/articles/slaughter-of-the-soul-drum-setup) covers Adrian Erlandsson's At the Gates work that developed simultaneously with Daniel's Arch Enemy career. And for the full Arch Enemy story beyond the *Wages of Sin* era, the [Arch Enemy band page](/band/arch-enemy) provides the complete context.`
+    }
   }
 };
 

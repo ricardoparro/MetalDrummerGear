@@ -5,6 +5,44 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-24 00:37 UTC*
 
 ---
+## 2026-06-25 07:00 — 6 zombies closed, #2215 split (4 atomic), 7 proposals rated, 2 promotions (39→45)
+
+### Context (≤3 lines)
+Morning deep run. Metrics: 109 users / 134 sessions / 2,298 impr / 60 clicks / 2.61% CTR / pos 8.8 (fresh 2026-06-24 16:40 UTC — ~14h old, acceptable). Big milestone: **#2212 (LLM kit overview prose) shipped** — 8 drummer head-term queries now have prose "complete drum kit overview" on profile pages, directly addressing the L2 head-term citation gap. Also shipped: #2234 DT Train of Thought (Portnoy L2 gap), #2175 Trivium Shogun, 3× SoundLike (#2224/#2225/#2227). Backlog entered at 45.
+
+### Actions taken
+- **Closed 6 zombie issues** (PRs merged but issues not auto-closed): #2227 (Aquiles Priester SL→#2402), #2225 (Charlie Benante SL→#2400), #2175 (Trivium Shogun→#2398), #2212 (LLM kit overview→#2397), #2234 (DT Train of Thought→#2395), #2224 (Eloy Casagrande SL→#2391). Backlog: 45→39.
+- **Resolved 2 PRs:** #2399 (duplicate — Eloy SL already live via #2391, closed); #2401 (CONFLICTING → #2226 Hellhammer SL retry, issue remains open for Ralph).
+- **Triaged 7 new seo-proposals (#2383–#2389):**
+  - **#2383** (Slipknot 'Vol. 3', Joey Jordison, 2004 — 3× Platinum, fills Iowa→Vol3→AHIG arc) — **5★ PROMOTED**: Joey is #1 GSC impressions (85 impr, baselining in L1); Vol. 3 is the missing arc anchor before AHIG.
+  - **#2384** (DT 'Octavarium', Portnoy, 2005) — **4★ HOLD**: arc filler (ToT→Oct→SC); sequence after #2234 (ToT) indexes.
+  - **#2385** (Behemoth 'The Apostasy', Inferno, 2007) — **4★ HOLD**: Inferno 8.33% CTR; sequence after #2339 (Demigod) ships first.
+  - **#2386** (Black Sabbath 'Vol. 4', Bill Ward, 1972) — **3★ HOLD**: arc fill, lower TAM; Bill Ward debut already shipped.
+  - **#2387** (Mastodon 'OMROTS', Brann, 2014) — **4★ HOLD**: Brann L1 win; fills Hunter→OMROTS→EoS arc; #2268 (EoS) already in queue.
+  - **#2388** (SoundLike batch 15: Jocke Wallgren + Jon Dette + Morgan Ågren) — **4★ HOLD**: proven format; Jocke Wallgren Billboard signal.
+  - **#2389** (Comparison batch 13: Lars/Benante, Flo/Sandoval, Brann/Reinert) — **4★ HOLD**: Brann L1 win + Flo 50% CTR; Lars still no-data in L1.
+- **Split #2215** (brand/series/drummers-using, 12 pages + new route — stale 3+ days, 0 watcher activity, had 5+ distinct deliverables): closed as not_planned. 4 atomic: #2403 (engineering scaffold: route + DrummersUsingKitPage + SSR + sitemap), #2404 (top-3: Tama Star Classic + DW Collector's + Pearl Reference Pure), #2405 (mid-tier: Gretsch USA + Sonor SQ2 + Mapex Armory), #2406 (remaining 6 pages). Scaffold (#2403) is dependency for data splits (#2404–#2406).
+- **Promoted 2 to ai-fix** (backlog 43→45): #2383 (Joey Vol. 3 — 5★), #2219 (Lick pages Nick Menza + Sean Reinert — 5★, proven GA4 lick format).
+
+### State delta
+- **Backlog: 45→39 (zombies)→43 (4 new splits)→45 (2 promotions) — AT CAP**
+- **6 zombie issues closed**: #2227/#2225/#2175/#2212/#2234/#2224 — all content live; Ralph triple-filed on #2175 (Shogun) and double-filed on #2212
+- **Content shipped this batch:** Trivium Shogun, DT Train of Thought (Portnoy L2 gap), LLM kit overview prose (8 profiles — L2 head-term gap), Eloy/Charlie/Aquiles SoundLike (3 guides)
+- **Split #2215:** 4 atomic (#2403–#2406); #2403 is unblocked scaffold; #2404–#2406 depend on #2403
+- **Promoted:** #2383 (Joey Vol. 3), #2219 (Menza/Reinert licks)
+- **#2202 (HowTo JSON-LD SoundLike) remains held** — removed ai-fix after over-count correction; priority next when slot opens
+- **Priority next when slots open:** #2202 (HowTo JSON-LD SoundLike — 5★) → #2384 (DT Octavarium — 4★, ToT just shipped) → #2387 (Mastodon OMROTS — 4★, Brann L1 win)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 triaged (1 promoted, 6 held). ✅ Zombie closes: 6 (#2227/#2225/#2175/#2212/#2234/#2224). ✅ PRs: #2399 duplicate closed + #2401 conflict retry. ✅ Split: #2215 done (stale 3+ days) → #2403–#2406. ✅ Promotions: 2 (backlog AT CAP). ✅ L1: no new snapshot (next 2026-06-30). ✅ No over-filing (0 L1/L2 ai-fix). ✅ Decisions logged.
+
+### Next Run (2026-06-25 13:00 UTC)
+1. **Merge watch** — #2226 (Hellhammer SL split 3/4) retry queued for Ralph; also #1895/#2096/#1928/#1933 retry queue. Each merge frees a slot.
+2. **Priority promotes** when slots open: #2202 (HowTo JSON-LD — 5★) → #2384 (DT Octavarium, 4★) → #2387 (Mastodon OMROTS, 4★).
+3. **L2 watch** — #2212 (LLM kit overview) shipped this batch; next L2 run will tell if head-term citation rate improves from 4%.
+4. **L1 check** — next weekly snapshot 2026-06-30; joey-jordison baselining (85 impr, pos 8.5).
+
+---
 ## 2026-06-24 19:02 — 9 zombies closed, 3 PRs resolved, 7 proposals rated, 9 promotions (36→45)
 
 ### Context (≤3 lines)

@@ -1,6 +1,7 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-24 03:09 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-24 05:22 UTC*
+*SEO Agent read: 2026-06-24 (run 31) — data fresh ✅ (<24h)*
 *Lookback: last 7 days*
 
 ---
@@ -9,31 +10,31 @@
 | Metric | Last 7d |
 | --- | --- |
 | Active users | 97 |
-| Sessions | 121 |
-| Page views | 287 |
-| Engagement rate | 59.50% |
-| Avg session (s) | 590 |
+| Sessions | 122 |
+| Page views | 298 |
+| Engagement rate | 59.02% |
+| Avg session (s) | 622 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | / | 59 | 17 |
-| /drummers | 27 | 4 |
-| /drummer/joey-jordison | 18 | 10 |
+| /drummers | 28 | 4 |
+| /drummer/joey-jordison | 22 | 10 |
 | /tools | 18 | 2 |
 | /drummers/igor-cavalera/licks/igor-cavalera-refuse-resist-double-bass | 9 | 1 |
+| /drummer/shannon-larkin | 6 | 3 |
 | /drummers/igor-cavalera/licks/igor-cavalera-roots-bloody-roots-tribal-groove | 6 | 1 |
 | /gear/drums | 6 | 2 |
 | /tools/setup-builder | 6 | 1 |
 | /drummer/matt-greiner | 5 | 3 |
-| /drummer/shannon-larkin | 5 | 3 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 63 | 57 |
+| Organic Search | 66 | 59 |
 | Direct | 50 | 32 |
-| Unassigned | 15 | 15 |
+| Unassigned | 16 | 15 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

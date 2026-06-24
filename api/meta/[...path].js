@@ -24,6 +24,7 @@ import { GEAR_INDEX } from '../../packages/frontend/data/gearIndex.js';
 // Issue #1387: gear item drummer links — authoritative drummerIds live in the gear API.
 import { gearItems } from '../gear/[slug].js';
 // Issue #1451: HowTo JSON-LD + Article schema for /guides/how-to-sound-like-<slug> pages.
+// Issue #2202: FAQPage JSON-LD alongside HowTo for AI Overview + voice search eligibility.
 import { SOUND_LIKE_GUIDES, generateGuideSchema } from '../../packages/frontend/data/soundLikeGuides.js';
 // Issue #1475: drummer gear evolution pages SSR meta.
 import { DRUMMER_EVOLUTION } from '../../packages/frontend/data/drummerEvolution.js';
@@ -555,6 +556,8 @@ function getMetaForPath(pathname) {
         type: 'article',
         url: guideUrl,
         articleSchema: howToSchema ? JSON.stringify(howToSchema) : null,
+        // Issue #2202: FAQPage schema alongside HowTo for AI Overview + voice search unlock.
+        faqSchema: guide?.faq?.length ? guide.faq : null,
         breadcrumbSchema: [
           { name: 'Home', url: BASE_URL },
           { name: 'Guides', url: `${BASE_URL}/guides` },

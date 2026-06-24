@@ -466,6 +466,57 @@ export const drummerComparisons = {
     verdict: 'Mike Portnoy is the definitive progressive metal powerhouse — explosive, theatrical, and relentless. Gavin Harrison is the prog drummer\'s drummer — subtle, sophisticated, and polyrhythmically brilliant. The debate between power and finesse makes this the ultimate prog drumming comparison.',
   },
 
+  // Issue #2177: SEO batch — Tampa vs Miami death metal legends
+  'paul-mazurkiewicz-vs-pete-sandoval': {
+    slug: 'paul-mazurkiewicz-vs-pete-sandoval',
+    title: 'Paul Mazurkiewicz vs Pete Sandoval',
+    metaTitle: 'Paul Mazurkiewicz vs Pete Sandoval: Tampa vs Miami Death Metal Drumming | MetalForge',
+    metaDescription: 'Cannibal Corpse\'s Paul Mazurkiewicz vs Morbid Angel\'s Pete Sandoval. The Tampa vs Miami school of US death metal compared. Double kick technique, blast beats, and legacy analyzed.',
+    category: 'extreme',
+    drummers: ['paul-mazurkiewicz', 'pete-sandoval'],
+    comparison: {
+      style: 'Paul anchors Cannibal Corpse\'s relentless brutality with thunderous alternating-leg double kick that drives some of death metal\'s most violent riffs. Pete defined Morbid Angel\'s occult intensity with single-footed hyperblasts and savage gravity blast technique.',
+      technique: 'Paul uses a traditional alternating-leg double kick approach to sustain brutal tempos across marathon brutal death compositions. Pete pioneered the gravity blast — letting gravity and rebound do the work — enabling inhuman single-footed blast beat speeds that redefined what was physically possible.',
+      gear: 'Paul plays Pearl Reference drums with Pearl Demon Drive double pedals for controlled power. Pete used Tama Artstar drums with Tama Iron Cobra pedals throughout his peak Morbid Angel years.',
+      influence: 'Paul has been the backbone of the world\'s best-selling death metal band for over 35 years, anchoring every Cannibal Corpse record from "Eaten Back to Life" through the modern era. Pete\'s gravity blast invention spread through all of extreme metal — virtually every death and black metal drummer since the mid-1990s has learned the technique.',
+    },
+    verdict: 'Paul Mazurkiewicz is the definition of consistent, punishing death metal drumming — 35 years of brutal reliability behind the world\'s biggest death metal band. Pete Sandoval invented a physical technique that changed how drummers approach extreme speed. The Tampa vs Miami rivalry produced two of the most influential death metal drummers in history, each defining their band\'s sound absolutely.',
+  },
+
+  // Issue #2177: SEO batch — Progressive/avant-garde innovators
+  'brann-dailor-vs-tomas-haake': {
+    slug: 'brann-dailor-vs-tomas-haake',
+    title: 'Brann Dailor vs Tomas Haake',
+    metaTitle: 'Brann Dailor vs Tomas Haake: Jazz Chaos vs Polyrhythmic Machine | MetalForge',
+    metaDescription: 'Mastodon\'s Brann Dailor vs Meshuggah\'s Tomas Haake. Two of metal\'s most innovative drummers compared. Jazz-informed progressive chaos vs mathematical djent precision.',
+    category: 'progressive',
+    drummers: ['brann-dailor', 'tomas-haake'],
+    comparison: {
+      style: 'Brann brings jazz-informed free-flowing chaos to Mastodon\'s progressive sludge — fills that overflow every bar, melodic tom runs that sing over the riffs, and a constant motion that makes his drumming feel alive and unpredictable. Tomas constructs polyrhythmic machinery with Meshuggah — interlocking kick, snare, and cymbal patterns across extended time signatures that feel like a computer running at human-hostile precision.',
+      technique: 'Brann treats the entire kit as a melodic instrument, using his snare and toms to carry melody lines and signature fills that are as recognizable as guitar riffs. Tomas dissects rhythm into pure mathematics — his kick and snare patterns cycle across groupings that create hypnotic polyrhythms independent of the guitar riff, inventing the djent rhythmic vocabulary.',
+      gear: 'Brann plays DW Collector\'s Series drums with Sabian HHX cymbals for a warm, musical tone that suits his melodic approach. Tomas uses Sonor SQ2 drums with Sabian Vault and HH Series cymbals, chosen for focused attack and projection that cut through Meshuggah\'s dense tuning.',
+      influence: 'Brann co-defined the progressive sludge metal drumming approach with Mastodon from "Remission" (2002) through "Emperor of Sand," influencing a generation of rock and metal drummers to treat fills as compositional elements rather than transitions. Tomas invented djent drumming with Meshuggah from "Destroy Erase Improve" (1995) onward — every djent drummer from Periphery to Animals as Leaders traces their rhythmic DNA back to Haake.',
+    },
+    verdict: 'Brann Dailor is jazz chaos incarnate — a drummer who makes fills feel like melodies and turns progressive metal into an improvised conversation. Tomas Haake is the polyrhythmic machine — a drummer whose mathematical precision created an entirely new genre. Both are among the most innovative drummers in metal history, representing two opposite philosophical poles: organic freedom vs mathematical structure.',
+  },
+
+  // Issue #2177: SEO batch — Two Megadeth drummers across generations
+  'nick-menza-vs-dirk-verbeuren': {
+    slug: 'nick-menza-vs-dirk-verbeuren',
+    title: 'Nick Menza vs Dirk Verbeuren',
+    metaTitle: 'Nick Menza vs Dirk Verbeuren: Two Megadeth Drummer Eras Compared | MetalForge',
+    metaDescription: 'Megadeth\'s Nick Menza (Rust in Peace era) vs Dirk Verbeuren (Dystopia era). Two generations of Megadeth drumming compared. Technique, gear, and legacy analyzed.',
+    category: 'thrash',
+    drummers: ['nick-menza', 'dirk-verbeuren'],
+    comparison: {
+      style: 'Nick Menza defined Megadeth\'s golden thrash era with aggressive power, driving grooves, and the muscular double bass that underpins "Rust in Peace" and "Countdown to Extinction." Dirk Verbeuren brought European technical extreme metal precision to Megadeth\'s modern era, adding blast beats and mathematical speed while honoring the thrash foundation.',
+      technique: 'Nick combined powerful single and double bass work with aggressive fills and the driving pocket that made Megadeth\'s 1990–1994 material so punishing. Dirk applies Soilwork-trained extreme metal technique to Megadeth\'s thrash framework — seamlessly shifting from groove thrash to blast-beat-driven extreme speed within the same song.',
+      gear: 'Nick played Pearl drums with Zildjian cymbals throughout his classic Megadeth tenure. Dirk endorses Tama Starclassic Walnut/Birch drums with Zildjian A Custom and K Custom cymbals, using Tama Iron Cobra 910 double pedals for technical speed.',
+      influence: 'Nick Menza\'s drumming on "Rust in Peace" (1990) is canonical thrash metal — his parts on "Tornado of Souls," "Holy Wars," and "Hangar 18" are studied by every thrash drummer. Dirk Verbeuren brought Megadeth\'s drumming into the modern extreme metal era, contributing to "Dystopia" (2016) which won the Grammy for Best Metal Performance.',
+    },
+    verdict: 'Nick Menza\'s "Rust in Peace" drumming is one of thrash metal\'s defining performances — raw, powerful, and perfectly matched to Megadeth\'s most celebrated material. Dirk Verbeuren\'s Grammy-winning "Dystopia" work proves Megadeth\'s drumming can evolve without losing identity. The Menza era defined Megadeth\'s peak; the Verbeuren era secured their modern relevance. Both are essential chapters in one of metal\'s greatest drumming stories.',
+  },
+
   // Issue #691: Top 20 SEO Comparison Pages - Speed vs Artistry
   'joey-jordison-vs-mike-portnoy': {
     slug: 'joey-jordison-vs-mike-portnoy',

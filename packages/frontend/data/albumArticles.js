@@ -40148,6 +40148,286 @@ Both approaches are valid. Both produce exceptional recordings. Understanding *E
 
 For the complete picture of Inferno's gear across Behemoth's career, visit the [What's In Inferno's Kit breakdown](/articles/whats-in-infernos-kit) and the [Inferno drummer profile](/drummer/inferno). For the technical foundations of the blast beat technique central to this album, the [blast beat techniques guide](/articles/blast-beat-techniques) provides the complete mechanical breakdown. And for the remarkable follow-up that *Evangelion* made possible, see the [The Satanist drum setup breakdown](/articles/the-satanist-drum-setup).`
     }
+  },
+
+  'all-hope-is-gone-drum-setup': {
+    slug: 'all-hope-is-gone-drum-setup',
+    albumTitle: 'All Hope Is Gone',
+    artist: 'Slipknot',
+    drummer: 'Joey Jordison',
+    drummerId: 2,
+    relatedDrummerSlug: 'joey-jordison',
+    year: 2008,
+    genre: 'Nu Metal / Alternative Metal',
+    label: 'Roadrunner Records',
+    studio: 'Henson Recording Studios, Hollywood, CA',
+    producer: 'Dave Fortman',
+    isAlbumArticle: true,
+    datePublished: '2026-06-24',
+    dateModified: '2026-06-24',
+    author: 'MetalForge Editorial',
+    title: "Joey Jordison's Drum Setup on Slipknot's All Hope Is Gone (2008)",
+    description: "Complete breakdown of Joey Jordison's drum setup on Slipknot's All Hope Is Gone (2008). Tama Starclassic Bubinga 9-piece, Zildjian K Custom Dark cymbals — the final studio album recorded with Joey before his 2013 departure.",
+    seoKeywords: ['all hope is gone drums', 'joey jordison 2008 drum setup', 'slipknot all hope is gone gear', 'joey jordison tama kit', 'joey jordison zildjian cymbals', 'slipknot 2008 drummer', 'joey jordison drum kit'],
+    ogImage: '/images/drummers/joey-jordison.webp',
+    intro: {
+      title: 'The Final Chapter: Joey Jordison on All Hope Is Gone',
+      content: `Released on August 26, 2008, Slipknot's fourth studio album *All Hope Is Gone* arrived at a pivotal moment in the band's career. Debuting at #1 on the Billboard 200 — the first Slipknot album to do so — it demonstrated the band's commercial ascent while simultaneously dividing the fanbase with its more expansive, melodic production approach. At the kit was Joey Jordison, five years removed from the bludgeoning intensity of *Iowa* and pushing his drumming in new directions.
+
+*All Hope Is Gone* represents the final studio document of Jordison's tenure with Slipknot. He would be dismissed from the band in December 2013 under circumstances that remained publicly unaddressed for years — Joey revealing in 2021 that he had been battling transverse myelitis, a spinal cord inflammation that had severely affected his ability to play. The 2008 sessions, then, are the last time audiences hear Jordison at full power within the Slipknot framework.
+
+Produced by Dave Fortman at Henson Recording Studios in Hollywood, the album took a deliberately more varied approach than its predecessors. Where *Iowa* was an assault without pause and *Vol. 3* experimented with melody under Rick Rubin's direction, *All Hope Is Gone* aimed for both extremes simultaneously — the blast-beat violence of "Psychosocial" alongside the orchestrated melancholy of "Dead Memories." Joey's drumming tracked every shift, expanding his already considerable palette with a larger kit configuration and a revised cymbal setup tuned for the album's wider dynamic range.
+
+This article documents the gear Joey Jordison used to record one of nu-metal's most debated albums, and traces what the 2008 setup reveals about where his drumming had evolved in the seven years since *Iowa*.`,
+      keyPoints: [
+        'First Slipknot album to debut at #1 on the Billboard 200',
+        'Recorded at Henson Recording Studios in Hollywood, produced by Dave Fortman',
+        "Joey's last studio album with Slipknot before his 2013 departure",
+        'Expanded 9-piece Tama Starclassic Bubinga configuration vs Iowa-era setup',
+        'Zildjian K Custom Dark cymbals replace the Paiste RUDE setup from Iowa',
+        'Album spans extreme blast beats ("Psychosocial") and melodic balladry ("Dead Memories")'
+      ]
+    },
+    drumKit: {
+      title: 'The Bubinga Beast: Tama Starclassic 9-Piece',
+      brand: 'Tama',
+      model: 'Tama Starclassic Bubinga',
+      finish: 'Black with custom hardware',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum (x2 — double kick)'],
+        toms: ['8" x 7" Rack Tom', '10" x 8" Rack Tom', '12" x 10" Rack Tom', '13" x 11" Rack Tom'],
+        floorToms: ['16" x 16" Floor Tom', '18" x 16" Floor Tom', '20" x 18" Floor Tom'],
+        shells: 'Bubinga — dense, heavy-resonating exotic hardwood'
+      },
+      description: `For *All Hope Is Gone*, Joey Jordison ran a Tama Starclassic Bubinga configuration — a notable departure from the Pearl Masterworks that defined the *Iowa* era and a direct reflection of where his playing had evolved by 2008. The Starclassic Bubinga is built from one of the densest commercially available drumshell woods, delivering a low-frequency weight and sustained fundamental tone that maple or birch configurations cannot match.
+
+The 9-piece expanded layout added a third floor tom — a 20" x 18" — to the standard six-tom configuration Jordison had used since Slipknot's early years. This gave him an enormous tonal range at the low end: fills that descended from the 8" rack tom through all three floor toms produced a cascading, orchestral sweep rarely heard at extreme metal tempos. On "All Hope Is Gone" and "Sulfur," these extended tom voicings are audible in the fills between sections, adding texture that the smaller Iowa-era setups couldn't have produced.
+
+The double 22" x 18" bass drums remained unchanged from previous Slipknot setups — Jordison's foot technique was so well-established by 2008 that altering the kick drum dimensions would have introduced unnecessary variables. The 22" diameter continued to deliver the massive low-frequency presence Slipknot's sound required, and the 18" depth gave each stroke its characteristic long, rolling decay.
+
+Bubinga shells resonate differently from the maple/mahogany hybrid of the Iowa kit — they sustain longer, with a thicker fundamental, and project powerfully even in dense mixes. Dave Fortman's production on *All Hope Is Gone* made full use of this character, giving the drums a heavy, present quality that pushed forward in the album's wide-spectrum sound.`,
+      notes: [
+        'Tama Starclassic Bubinga — expanded from Iowa-era Pearl Masterworks configuration',
+        'Third floor tom (20" x 18") added for extended melodic range on fills',
+        'Bubinga shells deliver denser fundamental tone and longer sustain than maple',
+        'Double 22" bass drums retained for foot-technique consistency',
+        'Nine-piece total configuration for maximum tonal and melodic palette'
+      ],
+      estimatedValue: '$7,000–11,000 (2008)'
+    },
+    snare: {
+      title: 'The Backbeat Engine',
+      brand: 'Pearl',
+      model: 'Pearl Free-Floating Snare',
+      size: '14" x 6.5"',
+      shell: 'Steel',
+      description: `Joey Jordison's snare in the *All Hope Is Gone* era continued to favor Pearl's Free-Floating design — a construction that decouples the shell from the hoop and snare mechanism, allowing the shell to resonate without mechanical interference. The result is a more open, complex decay than a conventionally lugged snare produces.
+
+The 14" x 6.5" steel shell delivered the explosive crack that cut through Dave Fortman's production and the layered guitars, bass, and keyboard textures that defined the album's sonic landscape. Steel shells are brighter and more projecting than wood, a quality that proved essential on an album where the mix was intentionally fuller and more layered than Slipknot's previous records.
+
+On tracks like "Psychosocial" — the album's breakthrough single and one of Jordison's most celebrated performances — the snare maintains a tight, cutting presence even through sections with sustained crashes and dense guitar chords. Tuning was kept in the medium-high range: tight enough to eliminate sympathetic overtones, with enough tension to produce a clear fundamental that sat distinctly in the mix without sounding choked.`,
+      tuningSetting: 'Medium-high for presence and cut in dense production',
+      heads: 'Remo Coated Ambassador (batter), Remo Diplomat Snare Side (resonant)',
+      estimatedValue: '$450–700 (2008)'
+    },
+    cymbals: {
+      title: 'Zildjian K Custom Dark: A New Palette',
+      brand: 'Zildjian',
+      series: 'Zildjian K Custom Dark',
+      setup: [
+        { type: 'Hi-Hats', model: 'Zildjian K Custom Dark 14" Hi-Hats', position: 'Left side', notes: 'Dark, complex hi-hat voice for nuanced pattern work' },
+        { type: 'Crash', model: 'Zildjian K Custom Dark 16" Crash', position: 'Left crash', notes: 'Fast, dark crash — immediate response' },
+        { type: 'Crash', model: 'Zildjian K Custom Dark 18" Crash', position: 'Right crash', notes: 'Fuller body, used for heavier section emphasis' },
+        { type: 'Crash', model: 'Zildjian K Custom Dark 19" Crash', position: 'Far right crash', notes: 'Large crash for maximum sustain on big moments' },
+        { type: 'Ride', model: 'Zildjian K Custom Dark 20" Ride', position: 'Far right', notes: 'Dark ride with clear bell — versatile across dynamic range' },
+        { type: 'China', model: 'Zildjian K Custom Dark 18" China', position: 'Over rack toms', notes: 'Trashy China accent for extreme passages and transitions' },
+        { type: 'Splash', model: 'Zildjian K 10" Splash', position: 'Effects position', notes: 'Quick accent tool between fills' }
+      ],
+      description: `The *All Hope Is Gone* era saw Joey Jordison move to Zildjian K Custom Dark cymbals — a clear sonic statement matching the album's broader, darker tonal ambitions. The K Custom Dark series produces a complex, dry, dark sound with prominent overtones and a quick, controlled decay. Where the Paiste RUDE cymbals of the *Iowa* era delivered raw, aggressive sustain, the K Custom Dark setup offered a more nuanced, layered character suited to an album that asked the drums to function across a wider dynamic range.
+
+The 14" K Custom Dark hi-hats provide a distinctly different articulation profile from the "Wild" Paiste hats of the earlier era. They are darker in pitch, more complex in timbre, and respond with a controlled crispness that works across both the blast-beat sections and the mid-tempo groove passages that *All Hope Is Gone* contains in greater quantity than any previous Slipknot album.
+
+The crash lineup — 16", 18", and 19" — covers a practical range for extreme metal. The K Custom Dark crashes open quickly and decay without excessive wash, a property that matters in fast passages where successive crash hits need to remain distinct. On "Psychosocial," where Jordison accents transitions and choruses with rapid crash work, this controlled decay prevents the cymbal wash from blurring the rhythmic structure.
+
+The 18" K Custom Dark China provides the trashy, cutting accent that remains a signature Slipknot element — the sound that punches through riff transitions and builds. Its dark voicing, compared to a brighter China, sits differently in the mix: less strident, more integrated with the guitar and bass tones, complementing the album's more layered production approach.`,
+      estimatedValue: '$2,500–3,500 total (2008)'
+    },
+    hardware: {
+      title: 'The Mechanical Foundation',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'DW',
+          model: 'DW 9000 Double Bass Pedal',
+          notes: 'Long-footboard version for extended reach and power',
+          description: 'The DW 9000 provided the combination of power and speed Jordison required for sustained double-kick at extreme tempos. The cam-driven mechanism allowed precise spring tension adjustment for consistent feel between left and right feet.'
+        },
+        {
+          type: 'Rack System',
+          brand: 'Tama',
+          model: 'Tama Iron Works Studio Rack',
+          notes: 'Custom configuration to mount nine-piece kit efficiently'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'DW',
+          model: 'DW 9000 Hi-Hat Stand',
+          notes: 'Matched to pedal series for consistent foot feel'
+        },
+        {
+          type: 'Throne',
+          brand: 'Tama',
+          model: 'Tama HT series Throne',
+          notes: 'Saddle-style for stability during high-intensity playing'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth Joey Jordison Signature',
+          notes: 'Long taper for balance between speed and power'
+        }
+      ],
+      heads: {
+        bassKick: 'Evans EMAD Clear with weighted muffling ring',
+        toms: 'Evans EC2S Clear',
+        snare: 'Remo Coated Ambassador'
+      }
+    },
+    recordingTechniques: {
+      title: "Dave Fortman's Expansive Production",
+      content: `Producer Dave Fortman brought a different philosophy to *All Hope Is Gone* than either Ross Robinson (*Iowa*) or Rick Rubin (*Vol. 3*). Where Robinson captured raw, live intensity and Rubin pursued a stripped-down clarity, Fortman aimed for sonic scale — a production that could support Slipknot's most melodic material without losing the band's capacity for violence.
+
+**Recording Environment:**
+Henson Recording Studios in Hollywood (formerly A&M Studios) is one of Los Angeles' most prestigious facilities, with rooms capable of capturing large-scale drum sounds. The larger acoustic space compared to the sessions for earlier albums contributed to the drums' more expansive, room-present quality on *All Hope Is Gone*.
+
+**Drum Sound Approach:**
+Fortman's drum production on the album emphasizes weight and presence over raw aggression. The Tama Starclassic Bubinga shells' natural sustain was captured with minimal damping compared to the tighter, more controlled sound on *Iowa*. This gives the drums a roomier, more powerful character on tracks like "Sulfur" and "This Cold Black" while remaining controlled enough for the album's aggressive material.
+
+**Trigger Integration:**
+As with previous Slipknot recordings, triggers were blended with natural drum sounds — particularly on the bass drums — to ensure consistency and attack clarity across the album's dynamic range. The blend was calibrated to preserve the organic character of the Bubinga shells while providing the definition that dense production demands.
+
+**The Dynamic Challenge:**
+One of Fortman's key tasks was ensuring Jordison's kit could function across the album's extreme dynamic range — from the all-out assault of "Psychosocial" to the understated restraint of "Snuff." The K Custom Dark cymbal palette and expanded tom configuration gave the production options that the more uniform Iowa setup couldn't have offered.`,
+      keyTechniques: [
+        'Henson Recording Studios — larger acoustic space for expansive drum sound',
+        'Bubinga shell character captured with less damping than Iowa sessions',
+        'Triggers blended for kick clarity across wide dynamic range',
+        'K Custom Dark cymbals contribute darker, more integrated cymbal texture'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'Psychosocial',
+        bpm: '142',
+        signature: '4/4',
+        highlights: [
+          'Grammy-nominated performance — Best Metal Performance 2010',
+          'Machine-gun double bass in verse drives relentless forward momentum',
+          'Snare accents in pre-chorus build tension before explosive chorus',
+          'One of Jordison\'s most widely cited recorded grooves'
+        ],
+        gearNotes: 'The Bubinga kit\'s low-end weight is fully audible in the verse groove. K Custom Dark crashes land cleanly through the transitions.'
+      },
+      {
+        track: 'All Hope Is Gone',
+        bpm: '195+',
+        signature: '4/4',
+        highlights: [
+          'Album\'s most extreme track — blast beats throughout',
+          'Extended tom fills showcase the 9-piece configuration\'s range',
+          'Closest to Iowa-era aggression on the record',
+          'Demands sustained intensity at near-maximum BPM for nearly 4 minutes'
+        ],
+        gearNotes: 'The third floor tom\'s deep voicing is audible in the descending fills. DW 9000 double pedal tested at near its operational ceiling.'
+      },
+      {
+        track: 'Sulfur',
+        bpm: '120',
+        signature: '4/4',
+        highlights: [
+          'Mid-tempo groove-driven track with anthemic feel',
+          'Shows Jordison\'s pocket and restraint — not every moment is extreme',
+          'Tom accents in bridge demonstrate melodic fill thinking',
+          'Became a live staple through the touring cycle'
+        ],
+        gearNotes: 'K Custom Dark ride cymbal is particularly audible here. Bubinga warmth supports the groove-forward arrangement.'
+      },
+      {
+        track: 'Dead Memories',
+        bpm: '108',
+        signature: '4/4',
+        highlights: [
+          'Album\'s most melodic track — radio single with restrained drumming',
+          'Jordison demonstrates dynamics: full-band crashes land with maximum impact after quiet verses',
+          'Ghost notes on snare add texture in lower-velocity sections',
+          'Illustrates range from Iowa\'s relentlessness to deliberate musical sensitivity'
+        ],
+        gearNotes: 'K Custom Dark cymbal character is most apparent here — dark, complex, not aggressive. The full-kit crashes hit harder by contrast with restrained verse.'
+      },
+      {
+        track: 'Snuff',
+        bpm: 'Variable / slow',
+        signature: '4/4',
+        highlights: [
+          'Acoustic ballad — drums enter late and spare',
+          'Every hit is deliberate, with maximum dynamic control',
+          "Demonstrates that Jordison's artistry extended well beyond extreme tempos",
+          'One of Slipknot\'s best-known non-heavy tracks'
+        ],
+        gearNotes: 'The kit\'s full palette is irrelevant here — subtlety is the entire performance.'
+      }
+    ],
+    evolution: {
+      title: "The End of an Era: Joey's Final Studio Statement",
+      content: `*All Hope Is Gone* closed a chapter that began with Slipknot's 1999 self-titled debut. Joey Jordison's drumming across those four albums traced an arc from raw, frantic power through absolute physical extremity (*Iowa*), melodic experimentation (*Vol. 3*), and finally to the expanded, technically sophisticated approach of *All Hope Is Gone*.
+
+**The 2013 Departure:**
+Five years after the *All Hope Is Gone* sessions, Slipknot announced that Joey Jordison was no longer a member. The circumstances were not disclosed publicly at the time. In 2021, Joey revealed that he had been diagnosed with transverse myelitis — a neurological disorder causing spinal inflammation that left him temporarily unable to move his legs or play drums. The condition explained the gap in his public drumming activity and cast his 2013 departure in a completely different light.
+
+**Jay Weinberg's Succession:**
+Jay Weinberg joined Slipknot for the *5: The Gray Chapter* (2014) and *We Are Not Your Kind* (2019) albums. Weinberg brought his own approach — rooted in hardcore and rock rather than Jordison's jazz and death metal foundations — but acknowledged the weight of following one of the genre's defining drummers. The [Jay Weinberg drum setup breakdown](/articles/jay-weinberg-complete-drum-setup) documents his SJC Custom kit and Zildjian cymbal setup, and offers a useful comparison point for understanding how the Slipknot drum chair evolved post-Jordison.
+
+**Jordison's Legacy:**
+Joey Jordison passed away on July 26, 2021. *All Hope Is Gone* stands as the final record of his time in the band he co-founded, and the Tama Starclassic Bubinga / Zildjian K Custom Dark setup documented here represents the most evolved and technically comprehensive version of his Slipknot kit. For the complete picture of his drumming across all eras, the [Iowa drum setup breakdown](/articles/iowa-drum-setup) covers the peak-intensity *Iowa* era, and the [Joey Jordison complete kit guide](/articles/joey-jordison-drum-setup) provides a career-spanning gear overview.`,
+      thenVsNow: [
+        { category: 'Kit', then: 'Tama Starclassic Bubinga 9-piece', now: '(Joey passed in 2021; kit toured with Slipknot)' },
+        { category: 'Cymbals', then: 'Zildjian K Custom Dark series', now: 'K Custom Dark remains available' },
+        { category: 'Pedals', then: 'DW 9000 Double Pedal', now: 'DW 9000 series still current production' },
+        { category: 'Sticks', then: 'Vic Firth Joey Jordison Signature', now: 'Signature model still catalogued' },
+        { category: 'Successor', then: 'Joey Jordison (1995–2013)', now: 'Jay Weinberg (2014–2023), Eloy Casagrande (2024–)' }
+      ]
+    },
+    faq: [
+      {
+        question: 'What drums did Joey Jordison use on All Hope Is Gone?',
+        answer: "Joey Jordison recorded All Hope Is Gone in 2008 using a Tama Starclassic Bubinga kit in a 9-piece expanded configuration. The setup included double 22\" x 18\" bass drums, four rack toms (8\", 10\", 12\", 13\"), and three floor toms (16\", 18\", and 20\") — an expanded layout compared to his Iowa-era Pearl Masterworks setup. Bubinga is a dense exotic hardwood that delivers a heavier fundamental tone and longer sustain than maple, giving the kit a more powerful, room-filling character suited to Dave Fortman's expansive production approach. The complete breakdown of Joey's career-spanning gear is covered in the Joey Jordison drum setup guide at /articles/joey-jordison-drum-setup.",
+      },
+      {
+        question: 'How many drums did Joey Jordison play on All Hope Is Gone?',
+        answer: "Joey Jordison used a 9-piece drum kit on All Hope Is Gone: two 22\" x 18\" bass drums, four rack toms (8\", 10\", 12\", and 13\"), and three floor toms (16\", 18\", and 20\"). The addition of a third floor tom at 20\" was a notable expansion from his earlier Slipknot setups, which typically featured two floor toms. This larger layout gave him an extended tonal range at the low end, enabling the cascading multi-tom fills audible on tracks like the title track and Sulfur. For comparison, the Iowa-era kit breakdown is available at /articles/iowa-drum-setup.",
+      },
+      {
+        question: 'What cymbals did Joey Jordison use on All Hope Is Gone?',
+        answer: "Joey Jordison used Zildjian K Custom Dark cymbals on All Hope Is Gone — a significant shift from the Paiste RUDE and 2002 series he used during the Iowa era. The K Custom Dark setup included 14\" hi-hats, crashes in 16\", 18\", and 19\" sizes, a 20\" ride, an 18\" China, and a 10\" splash. The K Custom Dark series produces a darker, drier, more complex tone than the aggressive sustain of the RUDE cymbals, matching the album's broader dynamic range — from the blast-beat violence of Psychosocial to the restrained melodic passages of Dead Memories and Snuff.",
+      },
+      {
+        question: 'Is All Hope Is Gone Joey Jordison\'s last album with Slipknot?',
+        answer: "Yes. All Hope Is Gone (2008) is the final studio album Joey Jordison recorded with Slipknot. He was dismissed from the band in December 2013. In 2021, Jordison revealed he had been battling transverse myelitis — a spinal cord inflammation — which had severely affected his ability to play during that period and explained his departure. Joey Jordison passed away on July 26, 2021. Jay Weinberg joined Slipknot for the 2014 album 5: The Gray Chapter; his kit and gear are documented at /articles/jay-weinberg-complete-drum-setup.",
+      },
+    ],
+    relatedAlbums: ['iowa-drum-setup', 'joey-jordison-drum-setup', 'jay-weinberg-complete-drum-setup'],
+    relatedDrummers: [10, 2, 35], // Jay Weinberg, Joey Jordison (by ID), Flo Mounier
+    relatedArticles: ['fastest-double-bass-drummers', 'nu-metal-drum-setups'],
+    conclusion: {
+      title: 'All Hope Is Gone: The Definitive Late-Era Jordison Document',
+      content: `*All Hope Is Gone* is the most debated Slipknot album — the record that divided the fanbase between those who saw it as a natural evolution and those who preferred the band's rawer earlier sound. Whatever its place in the catalog, as a drum performance document it is extraordinary.
+
+Joey Jordison's playing across the album's 56 minutes demonstrates a musician who had taken everything he learned from *Iowa*'s brutality and *Vol. 3*'s experimentation and synthesized it into a more complete approach. The Tama Starclassic Bubinga kit's extended configuration, the Zildjian K Custom Dark cymbal palette, and the controlled aggression of tracks like "Psychosocial" all point to a drummer at the height of his technical capabilities.
+
+The fact that this would prove to be his final studio album with Slipknot gives *All Hope Is Gone* a particular weight. Every blast beat on the title track, every ghost note on "Dead Memories," every China accent on "Sulfur" is now heard as part of a conclusion rather than a continuation. For drummers studying Jordison's career, the *All Hope Is Gone* sessions form an essential endpoint — the gear was at its most evolved, the musicianship at its most comprehensive, and the performances captured a player who was, by every available measure, at his peak.
+
+For the full Slipknot drum story, the [Iowa setup breakdown](/articles/iowa-drum-setup) documents the mid-career intensity that preceded this album, and the [Joey Jordison complete gear guide](/articles/joey-jordison-drum-setup) covers his equipment across every era. The [Jay Weinberg drum setup](/articles/jay-weinberg-complete-drum-setup) picks up the Slipknot drum chair story from 2014 forward.`
+    }
   }
 };
 

@@ -27,6 +27,10 @@ Gene Hoglan's drum kit and gear setup. Gene Hoglan is a professional metal drumm
 | Signature snare | Pearl Reference 14x6.5" Brass |
 | Sticks | Promark 5B |
 
+## Kit Overview
+
+Gene "The Atomic Clock" Hoglan plays a Pearl Reference Pure kit with a Pearl Reference Brass snare (14x6.5"), backed by Sabian AAX cymbals — 15" Hi-Hats, 18" and 20" Crashes, a 22" Ride, and a 20" China. Pearl Demon Drive double pedals fuel his metronomic precision across death and thrash metal projects including Death, Testament, and Dethklok.
+
 ## Biography
 
 Gene Hoglan, nicknamed "The Atomic Clock" for his precise timing, is one of the most respected drummers in extreme metal. Born in 1967, he has played with Death, Dark Angel, Testament, Strapping Young Lad, Fear Factory, and Dethklok. His combination of speed, power, and musicality has influenced countless metal drummers.

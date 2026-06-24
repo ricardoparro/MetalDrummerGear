@@ -27,6 +27,10 @@ Brann Dailor's drum kit and gear setup. Brann Dailor is a professional metal dru
 | Signature snare | Tama S.L.P. 14x6.5" G-Maple |
 | Sticks | Vater 5B |
 
+## Kit Overview
+
+Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare (14x6.5"), topped with Meinl Byzance Series cymbals — 14" Dark Hi-Hats, 18" and 19" Brilliant Heavy Hammered Crashes, a 21" Ghost Ride, and an 18" Extra Dry China. His Tama Speed Cobra double pedal and jazz-influenced approach to fills define Mastodon's progressive sludge metal sound across albums like Leviathan and Crack the Skye.
+
 ## Biography
 
 Brann Dailor, born in 1975 in Rochester, New York, is the drummer and vocalist for progressive sludge metal band Mastodon. His drumming style is characterized by complex fills, jazz-influenced patterns, and an almost melodic approach to the drums that sets him apart from traditional metal drummers. Dailor's work on albums like "Leviathan," "Blood Mountain," and "Crack the Skye" has earned him widespread acclaim. He began singing lead vocals on Mastodon's later albums, adding another dimension to the band's sound. His technical proficiency combined with his musical creativity has made him one of the most influential drummers in modern metal.

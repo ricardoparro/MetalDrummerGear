@@ -27,6 +27,10 @@ Joey Jordison's drum kit and gear setup. Joey Jordison is a professional metal d
 | Signature snare | Pearl Joey Jordison Signature 13x6.5" |
 | Sticks | Promark Joey Jordison Signature TX515W |
 
+## Kit Overview
+
+Joey Jordison built his legendary Slipknot sound on a Tama Starclassic Performer kit configured with a 22" bass drum and 12", 13", and 16" toms, paired with his signature Pearl 13x6.5" snare. His Paiste RUDE and 2002 Series cymbals — Wild Hi-Hats, Power Crashes, and Wild China cymbals — gave him the aggressive cut needed for the Iowa era's brutal performances. Axis A Longboard double pedals powered his extreme double kick technique on Slipknot's rotating drum riser.
+
 ## Biography
 
 Joey Jordison (1975-2021) was an American musician best known as the original drummer of Slipknot. His blistering speed, technical precision, and theatrical stage presence made him one of the most influential metal drummers of his generation. He also played guitar for Murderdolls and drums for various other projects.

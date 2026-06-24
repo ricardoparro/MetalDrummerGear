@@ -27,6 +27,10 @@ Danny Carey's drum kit and gear setup. Danny Carey is a professional metal drumm
 | Signature snare | Sonor Danny Carey Signature 14x8" Bronze |
 | Sticks | Vic Firth Danny Carey Signature |
 
+## Kit Overview
+
+Danny Carey's legendary kit centers on a Sonor SQ2 Heavy Beech shell set with his oversized signature bronze snare (14x8"), complemented by Paiste Signature Series cymbals — 15" Sound Edge Hi-Hats, 18" and 19" Power Crashes, a 22" Dry Heavy Ride, and multiple China cymbals. A Sonor Giant Step Twin Effect double pedal and Mandala Drum electronic pads augment his sacred-geometry-inspired polyrhythmic compositions throughout Tool's catalog from Undertow through Fear Inoculum.
+
 ## Biography
 
 Danny Carey, born in 1961 in Lawrence, Kansas, is widely regarded as one of the greatest drummers in rock and metal history. As the drummer for Tool since the band's formation in 1990, he has developed a unique style that blends complex polyrhythmic patterns with influences from jazz, world music, and progressive rock. His technical proficiency and creative approach to rhythm have earned him numerous accolades, including being voted the best drummer by readers of Modern Drummer magazine. Carey's drumming incorporates unusual time signatures, intricate subdivisions, and the use of electronic percussion. Beyond Tool, he has collaborated with artists like Pigface, Zaum, and Volto! His towering presence behind his massive Sonor kit and his dedication to expanding the boundaries of rock drumming have made him an icon in the drumming community.

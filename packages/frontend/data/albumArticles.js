@@ -41653,6 +41653,398 @@ For the complete picture of Brann Dailor's gear across Mastodon's career, visit 
     }
   },
 
+  'emperor-of-sand-drum-setup': {
+    slug: 'emperor-of-sand-drum-setup',
+    albumTitle: 'Emperor of Sand',
+    artist: 'Mastodon',
+    drummer: 'Brann Dailor',
+    drummerId: 16,
+    relatedDrummerSlug: 'brann-dailor',
+    year: 2017,
+    genre: 'Progressive Sludge Metal',
+    label: 'Reprise Records',
+    studio: 'Doppler Studios, Atlanta, Georgia',
+    producer: 'Brendan O\'Brien',
+    isAlbumArticle: true,
+    datePublished: '2026-06-24',
+    dateModified: '2026-06-24',
+    author: 'MetalForge Editorial',
+    title: "Emperor of Sand Drum Setup: Brann Dailor's Grammy-Winning Kit on Mastodon's 2017 Masterpiece",
+    description: "Discover the exact drum kit, cymbals, and gear Brann Dailor used to record Mastodon's Grammy-winning Emperor of Sand (2017). Full breakdown of the Tama Starclassic Maple kit, Meinl Byzance cymbals, Iron Cobra single pedal, and the melodic single-kick approach behind progressive metal's most emotionally resonant album.",
+    seoKeywords: ['brann dailor emperor of sand', 'mastodon 2017 drum setup', 'brann dailor grammy drumming', 'brann dailor 2017 kit', 'mastodon emperor of sand drums', 'brann dailor tama starclassic', 'emperor of sand drum setup', 'brann dailor meinl cymbals', 'mastodon grammy drums', 'brann dailor single kick'],
+    ogImage: '/images/albums/emperor-of-sand-drums.webp',
+    intro: {
+      title: "The Wanderer's Rhythm: Brann Dailor's Most Emotionally Resonant Performance",
+      content: `Released on March 31, 2017, Mastodon's *Emperor of Sand* is a concept album about mortality and loss — a wanderer sentenced to death, traversing a desert and encountering forces that mirror the band's own experiences with cancer diagnoses affecting family members and loved ones. The album won **Best Metal Performance at the 2018 Grammy Awards** for "Sultan's Curse," Mastodon's first Grammy win, confirming what critics had already recognised: *Emperor of Sand* is among the most emotionally sophisticated heavy albums of the decade.
+
+For [Brann Dailor](/drummer/brann-dailor), *Emperor of Sand* represents a compositional turning point. After the double-kick complexity of [Crack the Skye](/articles/crack-the-skye-drum-setup) (2009) and the expansive prog architecture of earlier records, Dailor deliberately simplified his bass drum approach — returning to single kick — and redirected that creative energy into melodic, groove-centred playing and expanded vocal responsibilities. On tracks like "Show Yourself" and "Ancient Kingdom," he anchors both the rhythm section and the vocal harmonies simultaneously, demonstrating a discipline and musicality that elevates the album's emotional impact.
+
+The gear Dailor used for the *Emperor of Sand* sessions reflects this philosophical shift. The Tama Starclassic Maple kit — warm, resonant, and melodically capable — provided the canvas for a drum performance built around feel and musical storytelling rather than technical velocity. The Meinl Byzance cymbal palette continued from the *Crack the Skye* era but expanded in range, adding atmospheric depth and emotional colour that suited the album's desert-and-death concept.
+
+This article breaks down every piece of gear Dailor used during the *Emperor of Sand* sessions: the Tama Starclassic kit that became his defining instrument, the Meinl Byzance cymbals that coloured the album's vast emotional range, and the Iron Cobra single pedal that drove one of Mastodon's most groove-forward performances.`,
+      keyPoints: [
+        'Won Best Metal Performance at the 2018 Grammy Awards for "Sultan\'s Curse" — Mastodon\'s first Grammy win',
+        'Concept album about a wanderer facing death — informed by band members\' experiences with illness',
+        'Tama Starclassic Maple shells — warm, resonant, melodically capable single-kick setup',
+        'Meinl Byzance expanded range — Traditional, Foundry Reserve, and Brilliant series',
+        'Return to single bass drum: Tama Iron Cobra single pedal — groove and feel over velocity',
+        'Brann Dailor\'s most vocal-forward album — singing extensive harmonies and lead parts while drumming'
+      ]
+    },
+    drumKit: {
+      title: "The Tama Starclassic Maple: Brann's Melodic Single-Kick Canvas",
+      brand: 'Tama',
+      model: 'Tama Starclassic Maple',
+      finish: 'Custom wrap finish',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum (single kick configuration)'],
+        toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom', '13" x 10" Rack Tom'],
+        floorToms: ['16" x 16" Floor Tom'],
+        shells: '100% maple shells, Star-Cast mounting system'
+      },
+      description: `For the *Emperor of Sand* sessions, Brann Dailor anchored his setup around a Tama Starclassic Maple kit — returning to a single bass drum configuration after the double-kick architecture of the [Crack the Skye](/articles/crack-the-skye-drum-setup) era. The Starclassic Maple is Tama's flagship maple-shell series, featuring 100% pure maple shells built with Tama's proprietary Star-Cast mounting system that allows shells to resonate freely without the restriction of traditional lug mounting.
+
+The maple shell construction was the correct choice for this album's emotional character. *Emperor of Sand* is Mastodon's most melodically accessible record — concept album ambition married to radio-ready song architecture — and the Starclassic's warm, fundamental-rich tone allowed Dailor's kit to sing through the mix without imposing the aggressive, punching character of a birch or poplar shell. When he cascades through the tom runs on "Roots Remain" or anchors the groove on "Show Yourself," the shells produce melodic pitches that register as musical content rather than rhythmic noise.
+
+The single bass drum configuration is the most significant structural change from his earlier Mastodon work. On *Emperor of Sand*, Dailor committed to single-kick playing throughout — a deliberate compositional choice that forced greater creativity in his foot patterns and placed the rhythmic emphasis on groove, feel, and musical conversation with the vocal and guitar lines rather than on bass drum velocity or technical complexity. The single 22" kick, driven by the Tama Iron Cobra pedal, produces a full, round fundamental that anchors the album without the mechanical doubling effect of a double-kick setup.
+
+The four-tom melodic palette (10", 12", 13" rack toms plus the 16" floor tom) remained consistent with Dailor's established configuration — three closely spaced rack toms in adjacent pitches for dense melodic resolution, with the floor tom providing the lower interval anchor. For how this setup compares to his earlier gear, see the [Brann Dailor drummer profile](/drummer/brann-dailor).`,
+      notes: [
+        'Tama Starclassic Maple — flagship maple shells for warm, resonant melodic tone',
+        'Single 22" bass drum — defining shift from the double-kick setup of Crack the Skye',
+        'Three rack toms (10", 12", 13") for dense melodic resolution',
+        'Star-Cast mounting system allows free shell resonance without lug restriction',
+        'Used across Emperor of Sand studio sessions and the subsequent world tour'
+      ],
+      estimatedValue: '$3,500–5,500 (Tama Starclassic Maple shell pack)'
+    },
+    snare: {
+      title: 'The Snare: Crack and Sensitivity in Service of Concept',
+      brand: 'Tama',
+      model: 'Tama Starphonic or Artstar Snare',
+      size: '14" x 6.5"',
+      shell: 'Steel or aluminium — matched to the Tama kit aesthetic',
+      description: `On *Emperor of Sand*, the snare drum occupies a central emotional role. The album's concept — mortality, loss, a wanderer facing death — demanded a snare sound that could carry grief and weight without becoming purely brutal. Dailor's snare choice reflects this: full, present, and authoritative without the clinical aggression of a tightly cranked metal snare.
+
+Dailor's snare on the *Emperor of Sand* sessions — a Tama model matched to the Starclassic kit era — delivers a full crack with enough body to anchor the album's dynamic range. The 14" x 6.5" configuration provides more fundamental tone than a standard 5.5" snare while maintaining the sensitivity Dailor's ghost note-dense playing requires.
+
+Ghost notes are particularly significant on this album. "Clandestiny" and "Roots Remain" feature extended passages where Dailor weaves ghost notes through the groove to create rhythmic texture that supports the vocal and guitar lines without competing with them. These ghost notes must register clearly — not as noise but as intentional rhythmic content. A well-tuned 6.5" steel snare at medium-high tension gives the resonance for ghost notes to speak while providing the crack needed for the album's more emphatic backbeats.
+
+The snare's role on "Show Yourself" — Mastodon's biggest commercial crossover hit — is worth examining: Dailor tunes and plays the snare to serve the song's infectious forward motion, prioritising groove feel over technical display. This restraint is as impressive as any of his more technically demanding performances. See the [Brann Dailor licks breakdowns](/drummer/brann-dailor/licks) for the snare technique breakdown from this era.`,
+      tuningSetting: 'Medium-high tension — tuned for crack and projection with ghost note sensitivity',
+      heads: 'Evans UV1 Coated (batter), Evans Hazy 300 (resonant)',
+      estimatedValue: '$400–800 (Tama Starphonic or Artstar snare)'
+    },
+    cymbals: {
+      title: 'Meinl Byzance: Expanded Palette for the Desert Concept',
+      brand: 'Meinl',
+      series: 'Meinl Byzance Series (expanded range)',
+      setup: [
+        { type: 'Hi-Hats', model: 'Meinl Byzance 14" Traditional Hi-Hats', position: 'Left side', notes: 'Dark, complex, hand-hammered B20 bronze — the same hi-hat foundation used across multiple Mastodon eras' },
+        { type: 'Crash', model: 'Meinl Byzance 18" Foundry Reserve Crash', position: 'Left crash', notes: 'Softer attack, slower bloom — atmospheric wash suited to the album\'s reflective passages' },
+        { type: 'Crash', model: 'Meinl Byzance 20" Traditional Medium Crash', position: 'Right crash', notes: 'Fuller, dark crash for heavier accents; consistent with the Meinl Byzance palette' },
+        { type: 'Ride', model: 'Meinl Byzance 22" Traditional Ride', position: 'Right side', notes: 'Complex bell, washy body — atmospheric colour layer for slower, melodic passages' },
+        { type: 'China', model: 'Meinl Byzance 18" China', position: 'Above rack toms', notes: 'Dark, controlled aggression for section accents' },
+        { type: 'Splash', model: 'Meinl Byzance 10" Brilliant Splash', position: 'Aux position', notes: 'Bright, fast accent cymbal for quick punctuation in melodic passages' }
+      ],
+      description: `Brann Dailor's Meinl Byzance cymbal palette on *Emperor of Sand* represents an expansion of the Byzance setup he established on [Crack the Skye](/articles/crack-the-skye-drum-setup). Where the 2009 sessions used primarily the Traditional series, the *Emperor of Sand* sessions drew from a broader range: Traditional series for the hi-hats and ride, Foundry Reserve for the softer crashes, and Brilliant series accents that added a brighter overtone option to the otherwise dark, warm Byzance character.
+
+The Byzance series' B20 bronze — 80% copper, 20% tin — hand-hammered and lathed using Turkish techniques, produces the dark, complex, bloom-heavy sound that distinguishes Meinl's premium range from bright, aggressive alternatives. For *Emperor of Sand*'s conceptual scope — desert imagery, existential confrontation, the emotional weight of loss — the Byzance palette was the musically correct choice. Bright cymbals would have imposed a clinical aggression that contradicted the album's emotional intimacy; the Byzance's blooming, atmospheric character added emotional resonance to each accent.
+
+The addition of Foundry Reserve crashes in this era is notable. The Foundry Reserve series features an even softer attack and slower bloom than the Traditional series — producing a swell of complex overtones rather than an immediate aggressive crash. On the album's slower, more atmospheric passages, these crashes function almost as orchestral textures rather than rhythmic punctuation, adding emotional weight without interrupting the musical flow.
+
+For drummers studying this album's cymbal approach, the key observation is restraint. Dailor does not crash frequently — each cymbal accent is placed with compositional intent, adding emotional colour at moments that serve the song's narrative. This restraint is as difficult to learn as any technical skill, and the Meinl Byzance palette's nuanced dynamic range makes it possible. See the [Mastodon band page](/bands/mastodon) for the complete discography context.`,
+      estimatedValue: '$2,000–2,800 (Meinl Byzance expanded setup)'
+    },
+    hardware: {
+      title: 'Pedals, Sticks, and Hardware',
+      items: [
+        {
+          type: 'Bass Drum Pedal',
+          brand: 'Tama',
+          model: 'Tama Iron Cobra Single Pedal',
+          notes: 'Single kick configuration — the defining hardware shift from the Crack the Skye double-pedal era',
+          description: "The Tama Iron Cobra single pedal was Brann Dailor's choice for the *Emperor of Sand* sessions, driving the single 22\" bass drum that anchors the album. The Iron Cobra's chain drive mechanism provides smooth, responsive action with the power transfer consistency that Dailor's grooves require. Matched naturally to the Tama Starclassic kit, the Iron Cobra features a linear cam drive, adjustable beater angle, and robust cast iron construction. For the groove-forward playing that defines *Emperor of Sand* — particularly on 'Show Yourself' and 'Sultan's Curse' — the Iron Cobra's consistent single-pedal feel provided the rhythmic precision that both songs' infectious forward motion required."
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Tama',
+          model: 'Tama Iron Cobra Hi-Hat Stand',
+          notes: 'Matched hardware series for consistent feel and aesthetic'
+        },
+        {
+          type: 'Throne',
+          brand: 'Roc-N-Soc',
+          model: 'Roc-N-Soc Nitro Throne',
+          notes: 'Comfort and stability for extended studio and touring sessions'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Meinl',
+          model: 'Meinl Stick & Brush',
+          notes: 'Post-endorsement era — Meinl sticks used following the transition from Vic Firth'
+        }
+      ],
+      heads: {
+        bassKick: 'Evans EMAD Clear (front head: Evans Resonant Bass)',
+        toms: 'Evans UV1 Coated batter heads — Brann\'s preference for durability and consistent tone',
+        snare: 'Evans UV1 Coated'
+      }
+    },
+    recordingTechniques: {
+      title: "Recording Emperor of Sand: Emotional Clarity Over Technical Display",
+      content: `Recording the drums for *Emperor of Sand* continued Mastodon's working relationship with producer Brendan O'Brien, who had helmed [Crack the Skye](/articles/crack-the-skye-drum-setup) eight years earlier. The sessions took place ahead of the March 2017 release, during a period of personal difficulty for multiple band members — family members facing cancer diagnoses that directly informed the album's concept.
+
+**Emotional Context in the Studio:**
+The circumstances surrounding the recording — mortality, illness, loss — shaped every aspect of the sessions, including Dailor's approach to the drums. The playing on *Emperor of Sand* is notably less technically demonstrative than on earlier records; there are fewer polyrhythmic showpieces and more moments of deliberate restraint. This was a compositional choice, not a technical limitation. Dailor directed his considerable skill toward emotional expression rather than technical display.
+
+**Production Approach:**
+O'Brien's production philosophy remained consistent with his *Crack the Skye* approach: quality over density, natural dynamics over compression, musical space over sonic saturation. The *Emperor of Sand* drum sound is open, warm, and dynamic — the Tama Starclassic maple shells are recorded with enough room sound to feel physically present without the artificial hyper-compression common in modern metal production.
+
+**The Single-Kick Decision:**
+One of the most deliberate production choices was the commitment to single bass drum throughout. This forced Dailor to develop more melodic and rhythmically varied foot patterns — each kick placement needed to be intentional and musical rather than relying on the textural wall of double-kick. The result is bass drum playing that grooves and breathes in a way that double kick fundamentally cannot.
+
+**Vocal Integration:**
+Unusually for a heavy album, the *Emperor of Sand* sessions required Dailor to record his vocal parts and drum parts in close coordination — he performs significant vocal contributions while drumming on tracks like "Show Yourself," "Roots Remain," and "Ancient Kingdom." This integration of two demanding simultaneous skills is itself a production and performance achievement that separates Dailor from nearly every other drummer in metal.`,
+      keyTechniques: [
+        'Single-kick commitment throughout — groove and feel prioritised over velocity',
+        'Emotional restraint as compositional discipline — fewer technical showpieces, more musical storytelling',
+        "O'Brien's open, dynamic production approach — natural room sound, minimal compression",
+        'Simultaneous vocal and drum performance on multiple tracks',
+        'Meinl Byzance expanded palette for broader emotional and dynamic range'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: "Sultan's Curse",
+        bpm: '138-148',
+        signature: '4/4 with progressive metric variations',
+        highlights: [
+          'Grammy winner for Best Metal Performance at the 2018 Grammy Awards',
+          'Album opener that establishes the single-kick groove philosophy immediately',
+          'Driving 4/4 framework with melodic tom fills between vocal phrases',
+          'Dailor\'s restrained yet powerful backbeat anchors the song\'s forward momentum'
+        ],
+        gearNotes: "The Iron Cobra single pedal's consistent feel drives the song's infectious momentum. The Meinl Byzance crashes are placed sparingly — each one earns its emotional weight."
+      },
+      {
+        track: 'Show Yourself',
+        bpm: '128-136',
+        signature: '4/4',
+        highlights: [
+          'Mastodon\'s most commercially successful song — accessible without sacrificing musical depth',
+          'Dailor sings significant vocal harmonies while executing the drum part',
+          'Groove-forward playing that demonstrates compositional restraint as a high-level skill',
+          'The most studied example of Dailor\'s service playing — drums in service of the song'
+        ],
+        gearNotes: "The Tama Starclassic maple shells give the kit a warm, open tone that suits the song's accessible character. The single Iron Cobra kick provides consistent groove without the mechanical feel of double kick."
+      },
+      {
+        track: 'Roots Remain',
+        bpm: '104-120',
+        signature: '4/4 with metric modulations',
+        highlights: [
+          'Dailor sings lead and harmony vocals throughout the track while drumming',
+          'Ghost note density weaves rhythmic texture beneath the guitar and vocal lines',
+          'Dynamic arc from restrained verses to full-kit chorus sections',
+          'One of the album\'s most melodically sophisticated drum performances'
+        ],
+        gearNotes: 'The medium-high tension Tama snare allows ghost notes to register as intentional rhythmic content. The Meinl Byzance Foundry Reserve crashes bloom slowly through the dynamic builds.'
+      },
+      {
+        track: 'Ancient Kingdom',
+        bpm: '112-124',
+        signature: '4/4 with progressive elements',
+        highlights: [
+          'Album closer with significant Dailor vocal contributions',
+          'Builds from restrained, atmospheric verses to a full-kit emotional culmination',
+          'Tom-melody sequences function as narrative drumming — the concept expressed in rhythm',
+          'The album\'s most overtly melodic drum performance, referencing the opening motifs'
+        ],
+        gearNotes: "The Tama Starclassic's warm maple tone is most evident on the album's slower, atmospheric passages. The Byzance ride adds textural depth through the song's extended instrumental sections."
+      }
+    ],
+    evolution: {
+      title: "From Emperor of Sand to Hushed and Grim: Brann's Continuing Journey",
+      content: `*Emperor of Sand* represents the midpoint in Brann Dailor's single-kick era — the philosophical and technical shift that began when he moved away from the double-kick architecture of [Crack the Skye](/articles/crack-the-skye-drum-setup) and continues through subsequent Mastodon records.
+
+**The Single-Kick Legacy:**
+The decision to commit to single bass drum on *Emperor of Sand* was not merely a gear change but a compositional philosophy shift. Where double kick invites the use of bass drum as texture — a constant presence beneath the playing — single kick forces every kick placement to be a deliberate musical choice. This constraint produces more melodic, more intentional bass drum playing, and the *Emperor of Sand* sessions are the clearest demonstration of this philosophy at its most emotionally effective.
+
+**Cymbal Palette Expansion:**
+The Meinl Byzance range that Dailor established on *Crack the Skye* continued to expand through the *Emperor of Sand* era. The Foundry Reserve and Brilliant series additions to his Traditional series foundation gave him a wider dynamic and tonal range — darker and softer options at one end, brighter attack options at the other — that suited the album's wide emotional spectrum from grief to defiance.
+
+**Vocal-Drummer Integration:**
+*Emperor of Sand* solidified Dailor's status as one of the rare drummer-vocalists operating at the highest level across both disciplines simultaneously. The techniques he developed for integrating complex drum parts with extensive vocal contributions on this album informed everything that followed. For the full picture of how this dual role evolved, see the [Brann Dailor drummer profile](/drummer/brann-dailor).
+
+Visit the [Blood Mountain drum setup](/articles/blood-mountain-drum-setup) for an earlier chapter in the Mastodon story, and the [Crack the Skye drum setup](/articles/crack-the-skye-drum-setup) for the peak of Dailor's pre-*Emperor* technical complexity.`,
+      thenVsNow: [
+        { category: 'Kit', then: 'Tama Starclassic Maple (single kick, 2017)', now: 'Tama Starclassic Maple (continued and refined on subsequent records)' },
+        { category: 'Snare', then: 'Tama Starphonic/Artstar 14" x 6.5"', now: 'Tama Starphonic series (continued)' },
+        { category: 'Cymbals', then: 'Meinl Byzance Traditional + Foundry Reserve + Brilliant', now: 'Meinl Byzance (further expanded range on later albums)' },
+        { category: 'Sticks', then: 'Meinl Stick & Brush', now: 'Meinl Stick & Brush (continued endorsement)' },
+        { category: 'Bass Drum', then: 'Tama Iron Cobra single pedal (single kick)', now: 'Single pedal approach continued on all subsequent records' }
+      ]
+    },
+    faq: [
+      {
+        question: 'What drums does Brann Dailor use on Emperor of Sand?',
+        answer: "Brann Dailor recorded Mastodon's Emperor of Sand (2017) using a Tama Starclassic Maple drum kit. The configuration featured a single 22 inch bass drum — a significant shift from the double kick setup used on Crack the Skye (2009) — with three rack toms at 10, 12, and 13 inches, and a 16 inch floor tom. The Tama Starclassic Maple's 100% maple shells produce the warm, resonant tone that gives Dailor's melodic tom patterns their musical character. The single-kick configuration reflects a deliberate compositional choice: single bass drum forces more creative foot patterns and places the rhythmic emphasis on groove and feel rather than velocity.",
+      },
+      {
+        question: 'What kit did Brann Dailor use in 2017?',
+        answer: "In 2017, Brann Dailor used a Tama Starclassic Maple kit as his primary setup, both for the Emperor of Sand studio sessions and the subsequent world tour. The setup included a single 22 inch bass drum driven by a Tama Iron Cobra single pedal, three rack toms (10, 12, and 13 inch), and a 16 inch floor tom. His cymbal setup was Meinl Byzance across multiple series including Traditional, Foundry Reserve, and Brilliant. He played Meinl sticks following his endorsement relationship with the brand. Evans UV1 Coated heads were his preference for batter surfaces.",
+      },
+      {
+        question: 'What cymbals does Brann Dailor use on Emperor of Sand?',
+        answer: "On Emperor of Sand (2017), Brann Dailor used Meinl Byzance cymbals across multiple series. His setup included 14 inch Traditional hi-hats, an 18 inch Foundry Reserve crash, a 20 inch Traditional Medium crash, a 22 inch Traditional ride, an 18 inch China, and a 10 inch Brilliant splash. The Meinl Byzance series uses hand-hammered B20 bronze with Turkish craftsmanship that produces dark, warm, complex tones — suited to Emperor of Sand's atmospheric and emotionally resonant character.",
+      },
+      {
+        question: 'Did Mastodon win a Grammy for Emperor of Sand?',
+        answer: "Yes. Mastodon won the Grammy Award for Best Metal Performance at the 60th Grammy Awards (2018) for 'Sultan's Curse' from Emperor of Sand. This was Mastodon's first Grammy win — previous albums including Crack the Skye (2009) had received Grammy nominations without winning. The Grammy confirmed what critics had already recognised: Emperor of Sand represents a peak moment in the band's artistic evolution, with Brann Dailor's drumming and vocal contributions central to the album's emotional impact.",
+      },
+      {
+        question: 'How does Emperor of Sand differ from earlier Mastodon albums in terms of drumming?',
+        answer: "Emperor of Sand (2017) marks a significant shift in Brann Dailor's drumming approach compared to earlier Mastodon albums. The most fundamental change is the return to single bass drum — Crack the Skye (2009) featured extensive double-kick playing, while Emperor of Sand commits to a single Iron Cobra pedal throughout. This forced greater creativity in foot patterns and shifted the emphasis to groove and feel over velocity. The playing is also notably more restrained and song-serving — fewer technical showpieces, more deliberate emotional storytelling. Dailor also takes on more extensive vocal duties, singing harmonies and lead parts while drumming at a high technical level. The album represents the mature expression of his drummer as melodist philosophy applied to emotionally resonant, accessible heavy music.",
+      },
+      {
+        question: 'What pedal does Brann Dailor use on Emperor of Sand?',
+        answer: "On Emperor of Sand (2017), Brann Dailor used a Tama Iron Cobra single bass drum pedal. This represents a shift from the DW 9000 double pedal he used on Crack the Skye — the Iron Cobra single pedal matches the Tama Starclassic kit and reflects the deliberate decision to anchor the album on single kick. The Iron Cobra's chain drive mechanism and linear cam provide smooth, consistent action suited to the groove-forward playing style Dailor adopted for this album.",
+      }
+    ],
+    conclusion: {
+      title: "Emperor of Sand: Grammy-Winning Peak of Dailor's Compositional Maturity",
+      content: `*Emperor of Sand* is the album that proved Brann Dailor's place among the most complete musician-drummers in modern music. The Grammy win for Best Metal Performance confirmed what the album's emotional depth had already demonstrated: this is drumming in service of something larger than technical display — music that uses the drum kit as a vehicle for storytelling, grief, and resilience.
+
+The gear choices for this album reflect a mature musical philosophy. The Tama Starclassic Maple kit, with its warm maple shells and single-kick configuration, was chosen to serve the album's groove-forward character. The Meinl Byzance cymbal palette — expanded from the *Crack the Skye* era to include Foundry Reserve and Brilliant options — provided the atmospheric depth and emotional range that a concept album about mortality required. The Iron Cobra single pedal anchored everything in a groove that remains the album's most commercially accessible and emotionally resonant element.
+
+For drummers building setups influenced by this album, the lesson is the same one that runs through all of Dailor's best work: gear is a tool for musical expression, and the right tools are the ones that serve the music rather than impose a generic sound. The *Emperor of Sand* setup is defined not by what it does aggressively but by what it does musically — how the warm maple shells, dark Byzance cymbals, and controlled single kick combine to create drum sounds that feel emotionally present in a way that purely technical drumming never achieves.
+
+For the complete picture of Brann Dailor's gear across Mastodon's career, visit the [Brann Dailor drummer profile](/drummer/brann-dailor) and the related album breakdowns for [Crack the Skye](/articles/crack-the-skye-drum-setup) and [Blood Mountain](/articles/blood-mountain-drum-setup). For context on the Grammy-winning album and Mastodon's complete discography, see the [Mastodon band page](/bands/mastodon).`
+    },
+    relatedAlbums: ['crack-the-skye-drum-setup', 'blood-mountain-drum-setup'],
+    relatedDrummers: [5, 14, 28],
+    relatedArticles: ['progressive-metal-drummers', 'polyrhythm-techniques'],
+    relatedLicks: [],
+    schema: {
+      '@context': 'https://schema.org',
+      '@graph': [
+        {
+          '@type': 'Article',
+          headline: "Emperor of Sand Drum Setup: Brann Dailor's Grammy-Winning Kit on Mastodon's 2017 Masterpiece",
+          description: "Discover the exact drum kit, cymbals, and gear Brann Dailor used to record Mastodon's Grammy-winning Emperor of Sand (2017). Full breakdown of the Tama Starclassic Maple kit, Meinl Byzance cymbals, Iron Cobra single pedal, and the melodic single-kick approach behind progressive metal's most emotionally resonant album.",
+          author: {
+            '@type': 'Organization',
+            name: 'MetalForge Editorial'
+          },
+          datePublished: '2026-06-24',
+          dateModified: '2026-06-24'
+        },
+        {
+          '@type': 'BreadcrumbList',
+          itemListElement: [
+            { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://metalforge.io/' },
+            { '@type': 'ListItem', position: 2, name: 'Articles', item: 'https://metalforge.io/articles' },
+            { '@type': 'ListItem', position: 3, name: "Emperor of Sand Drum Setup", item: 'https://metalforge.io/articles/emperor-of-sand-drum-setup' }
+          ]
+        },
+        {
+          '@type': 'MusicAlbum',
+          name: 'Emperor of Sand',
+          byArtist: {
+            '@type': 'MusicGroup',
+            name: 'Mastodon'
+          },
+          datePublished: '2017-03-31',
+          genre: 'Progressive Sludge Metal',
+          recordLabel: {
+            '@type': 'Organization',
+            name: 'Reprise Records'
+          },
+          track: [
+            { '@type': 'MusicRecording', name: "Sultan's Curse" },
+            { '@type': 'MusicRecording', name: 'Show Yourself' },
+            { '@type': 'MusicRecording', name: 'Precious Stones' },
+            { '@type': 'MusicRecording', name: 'Steambreather' },
+            { '@type': 'MusicRecording', name: 'Roots Remain' },
+            { '@type': 'MusicRecording', name: 'Word to the Wise' },
+            { '@type': 'MusicRecording', name: 'Ancient Kingdom' },
+            { '@type': 'MusicRecording', name: 'Clandestiny' },
+            { '@type': 'MusicRecording', name: 'Andromeda' },
+            { '@type': 'MusicRecording', name: 'Jaguar God' }
+          ]
+        },
+        {
+          '@type': 'Person',
+          name: 'Brann Dailor',
+          birthDate: '1975-03-19',
+          birthPlace: {
+            '@type': 'Place',
+            name: 'Rochester, New York, USA'
+          },
+          memberOf: {
+            '@type': 'MusicGroup',
+            name: 'Mastodon'
+          },
+          instrument: 'Drums'
+        },
+        {
+          '@type': 'FAQPage',
+          mainEntity: [
+            {
+              '@type': 'Question',
+              name: 'What drums does Brann Dailor use on Emperor of Sand?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "Brann Dailor recorded Mastodon's Emperor of Sand (2017) using a Tama Starclassic Maple drum kit with a single 22\" bass drum, three rack toms at 10\", 12\", and 13\", and a 16\" floor tom — a single-kick configuration representing a significant shift from the double kick setup used on Crack the Skye."
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'What kit did Brann Dailor use in 2017?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "In 2017, Brann Dailor used a Tama Starclassic Maple kit with a single 22\" bass drum driven by a Tama Iron Cobra single pedal. Cymbals: Meinl Byzance across Traditional, Foundry Reserve, and Brilliant series. Sticks: Meinl Stick & Brush."
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'Did Mastodon win a Grammy for Emperor of Sand?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "Yes. Mastodon won Best Metal Performance at the 60th Grammy Awards (2018) for 'Sultan's Curse' from Emperor of Sand. This was Mastodon's first Grammy win."
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'How does Emperor of Sand differ from earlier Mastodon albums in terms of drumming?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "Emperor of Sand (2017) marks Brann Dailor's return to single bass drum after the double-kick architecture of Crack the Skye (2009). The playing is more restrained and groove-forward, with greater emphasis on feel and emotional storytelling over technical display. Dailor also takes on more extensive vocal duties on this album."
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'What cymbals does Brann Dailor use on Emperor of Sand?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "On Emperor of Sand (2017), Brann Dailor used Meinl Byzance cymbals across multiple series: 14\" Traditional hi-hats, 18\" Foundry Reserve crash, 20\" Traditional crash, 22\" Traditional ride, 18\" China, and 10\" Brilliant splash. The B20 bronze Byzance cymbals produce dark, warm, atmospheric tones suited to the album's concept."
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'What pedal does Brann Dailor use on Emperor of Sand?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "On Emperor of Sand (2017), Brann Dailor used a Tama Iron Cobra single bass drum pedal, driving a single 22\" kick drum. This is a shift from the DW 9000 double pedal used on Crack the Skye — reflecting the deliberate move to single-kick playing that defines the Emperor of Sand era."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+
   'death-magnetic-drum-setup': {
     slug: 'death-magnetic-drum-setup',
     albumTitle: 'Death Magnetic',

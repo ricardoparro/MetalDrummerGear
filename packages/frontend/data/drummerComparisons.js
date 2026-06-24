@@ -160,6 +160,23 @@ export const drummerComparisons = {
     verdict: 'Brann Dailor and Mario Duplantier represent two paths of modern progressive metal drumming. Both push boundaries while maintaining musical identity.',
   },
 
+  // Thrash vs Thrash: Sepultura Roots vs Pantera Groove
+  'igor-cavalera-vs-vinnie-paul': {
+    slug: 'igor-cavalera-vs-vinnie-paul',
+    title: 'Igor Cavalera vs Vinnie Paul',
+    metaTitle: 'Igor Cavalera vs Vinnie Paul - Thrash Metal Drumming Legends | MetalForge',
+    metaDescription: 'Sepultura\'s Igor Cavalera vs Pantera\'s Vinnie Paul. Thrash-vs-thrash: Brazilian tribal grooves vs Texas power groove. Gear, technique, and legacy compared.',
+    category: 'thrash',
+    drummers: ['igor-cavalera', 'vinnie-paul'],
+    comparison: {
+      style: 'Igor brought tribal rhythms and raw Brazilian thrash energy to Sepultura. Vinnie defined American groove metal with crushing pocket and power.',
+      technique: 'Igor fused tribal percussion with thrash aggression and signature groove patterns. Vinnie pioneered the heavy power-groove with punchy snare authority.',
+      gear: 'Igor played Tama Starclassic Maple with Paiste RUDE & 2002 cymbals. Vinnie endorsed ddrum Signature Series with Sabian AA & AAX cymbals.',
+      influence: 'Igor defined Brazilian metal and influenced global thrash. Vinnie\'s groove metal template shaped 90s American metal and beyond.',
+    },
+    verdict: 'Igor Cavalera and Vinnie Paul are two of thrash and groove metal\'s most defining forces. Igor built Sepultura\'s tribal-thrash blueprint; Vinnie cemented Pantera\'s unmistakable groove. Metal\'s evolution owes a debt to both.',
+  },
+
   // Sepultura Legends
   'igor-cavalera-vs-eloy-casagrande': {
     slug: 'igor-cavalera-vs-eloy-casagrande',

@@ -26516,8 +26516,377 @@ Shannon Larkin arrived at Godsmack with a resume built on professional gigs acro
 
 🥁 *Hard rock power, night after night.* 🤘`
     }
-  }
-,
+  },
+
+  // Shannon Larkin - Godsmack Faceless (June 2026)
+  'faceless-drum-setup': {
+    slug: 'faceless-drum-setup',
+    albumTitle: 'Faceless',
+    artist: 'Godsmack',
+    drummer: 'Shannon Larkin',
+    drummerId: 18,
+    relatedDrummerSlug: 'shannon-larkin',
+    year: 2003,
+    genre: 'Hard Rock / Heavy Metal',
+    label: 'Republic Records / Universal',
+    studio: 'Boston, Massachusetts',
+    producer: 'Godsmack',
+    isAlbumArticle: true,
+    datePublished: '2026-06-24',
+    dateModified: '2026-06-24',
+    author: 'MetalForge Editorial',
+    title: "Faceless Drum Setup: Shannon Larkin's Gear on Godsmack's #1 Billboard Album (2003)",
+    description: "Discover the exact drum kit, cymbals, and gear Shannon Larkin used on Godsmack's Faceless (2003) — the #1 Billboard 200 debut, 4× Platinum album. Tama Starclassic Maple kit, Sabian cymbals, and the hard rock powerhouse that defined an era.",
+    seoKeywords: ['shannon larkin drum setup', 'godsmack faceless drums', 'godsmack drummer kit', 'shannon larkin tama', 'shannon larkin sabian cymbals', 'godsmack faceless drum setup', 'shannon larkin 2003', 'faceless godsmack drummer', 'godsmack i stand alone drums', 'shannon larkin gear'],
+    ogImage: '/images/drummers/shannon-larkin.webp',
+    intro: {
+      title: "Shannon Larkin's Billboard #1 Debut: The Drum Setup Behind Faceless",
+      content: `Released on April 8, 2003, *Faceless* is the commercial and artistic summit of Godsmack's career — a hard rock album that debuted at #1 on the Billboard 200 in its first week and eventually certified 4× Platinum in the United States. At the center of that achievement was Shannon Larkin, recording his first full studio album with Godsmack less than a year after joining the band.
+
+Larkin had replaced founding drummer Tommy Stewart in 2002, bringing with him a resume that included thrash metal work with Wrathchild America and the mainstream crossover success of Ugly Kid Joe's "Everything About You" (1992). When Godsmack entered the studio for *Faceless*, Larkin arrived with his Tama Starclassic Maple kit and Sabian cymbal setup — the gear he had refined through years of professional touring — and proceeded to record the most commercially significant hard rock drum performance of the decade's first half.
+
+The album's lead single, "I Stand Alone" — written for the 2004 film *The Chronicles of Riddick* — became one of the most-played rock songs of the 2000s on American radio, driven by Larkin's relentless, pounding groove. "Straight Out of Line" demonstrated a heavier, more aggressive approach. "Changes" showcased his dynamic range. Together, these tracks established Larkin as one of hard rock's most powerful drummers almost immediately upon joining one of its biggest bands.
+
+This article examines the Tama Starclassic Maple kit, Sabian cymbal setup, and hardware that powered Larkin's *Faceless* studio performance — the gear behind Godsmack's commercial peak and Shannon Larkin's arrival as a hard rock force.`,
+      keyPoints: [
+        'Shannon Larkin\'s first full studio album with Godsmack — joined the band in 2002',
+        'Faceless debuted #1 on Billboard 200 (April 2003) and certified 4× Platinum in the US',
+        '"I Stand Alone" became one of the most-played rock songs of the 2000s',
+        'Tama Starclassic Maple kit — Shannon\'s touring setup in his early Godsmack years',
+        'Sabian cymbals: AAX series hi-hats, crashes, and ride',
+        'Replaced founding drummer Tommy Stewart; brought veteran gear from Wrathchild America / Ugly Kid Joe era'
+      ]
+    },
+    drumKit: {
+      title: "Tama Starclassic Maple: The Kit That Topped the Billboard 200",
+      brand: 'Tama',
+      model: 'Tama Starclassic Maple',
+      finish: 'Custom touring finish',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum (x2 — double kick configuration)'],
+        toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
+        floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom'],
+        shells: 'Maple shells — Tama Starclassic professional series'
+      },
+      description: `Shannon Larkin's early Godsmack era was defined by his Tama Starclassic Maple kit — one of the most respected professional drum kits available in the early 2000s and a natural choice for a drummer who had built his career on road-tested professional gear. The Starclassic Maple's all-maple shell construction delivers a warm, full-bodied tone with a focused attack: characteristics that translate exceptionally well both in studio environments and on the arena stages Godsmack was beginning to headline.
+
+The double 22" kick configuration was central to Larkin's approach on *Faceless*. Godsmack's music — particularly the groove-driven hard rock that defined their commercial identity — relies on a bass drum that speaks with authority in the low register without muddying the rhythm. The 22" Starclassic kicks delivered exactly that: punchy, defined, and locked with bassist Robbie Merrill's low-end foundation throughout the album's 13 tracks.
+
+Tama's Starclassic Maple shells were prized in the early 2000s professional touring community for their even sustain, warm fundamental, and durability. The maple construction's natural tonal character sits beautifully in hard rock mixes — dense enough to feel powerful but open enough to breathe within arrangements that required dynamic range, as *Faceless* tracks like "Changes" and "Serenity" demonstrated.
+
+The streamlined four-tom setup — two rack toms (10", 12") and two floor toms (14", 16") — gave Larkin the range for creative fills without overcomplicating his configuration. Godsmack's music demands power and momentum above technical complexity, and Larkin's Tama setup was calibrated precisely for those priorities.
+
+On *Faceless*, the Starclassic Maple's tone is heard at its most natural: close-miked for attack definition, the shell's maple warmth providing the body that distinguishes genuine hard rock drum production from the processed, triggered sounds that had become common in heavy rock by 2003. The kit sounded like drums — powerful, physical, and room-filling.`,
+      notes: [
+        'Tama Starclassic Maple — Shannon\'s professional standard in his early Godsmack years',
+        'Double 22" bass drums: focused low-end punch suited to hard rock arena environments',
+        'Four-tom spread (10", 12", 14", 16") for dynamic fills across Faceless arrangements',
+        'Maple shells: warm fundamental and natural sustain — authentic hard rock drum tone',
+        'Later transitioned to Ddrum Reflex endorsement; Tama was his Faceless-era standard'
+      ],
+      estimatedValue: '$2,000–4,000 (Tama Starclassic Maple shell pack, 2003)'
+    },
+    snare: {
+      title: 'Steel Snare Authority: The Crack Behind the Billboard #1',
+      brand: 'Tama',
+      model: 'Tama Starclassic Steel Snare',
+      size: '14" x 6.5"',
+      shell: 'Steel',
+      description: `Shannon Larkin's snare voice on *Faceless* is one of the most immediately identifiable elements of the album's drum sound: a cutting, authoritative crack that drives through Godsmack's wall-of-guitar production with complete clarity. The 14" x 6.5" steel snare produced a high-frequency attack and projection that defined Godsmack's hard rock backbeat across every track on the album.
+
+Steel shell construction delivers the bright, cutting attack that hard rock production demands at this level. In Godsmack's sonic context — heavy guitar tones tuned down, Robbie Merrill's prominent bass, and Sully Erna's powerful vocal delivery — the snare needed to establish its own sonic territory with authority. A steel shell's bright upper-midrange character claims that space naturally, without requiring excessive eq or processing.
+
+The 6.5" depth provided the body and sustain that separates a powerful snare sound from a thin one. Each backbeat on *Faceless* — whether on the driving eighth-note groove of "I Stand Alone" or the more explosive accent patterns of "Greed" — arrives with a full, three-dimensional character that shallow snares cannot replicate.
+
+Larkin tuned the snare at medium-high tension, prioritizing the cut and definition his playing style requires. The attack is immediate and unambiguous — a technique choice as much as a tuning choice, ensuring the backbeat communicates the track's groove without any ambiguity. This approach is particularly evident on "Straight Out of Line," where the snare's authority is what makes the groove feel genuinely heavy.`,
+      tuningSetting: 'Medium-high for cut and projection through Godsmack\'s dense guitar mix',
+      heads: 'Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$200–400 (steel snare, 2003 era)'
+    },
+    cymbals: {
+      title: 'Sabian AAX: Bright and Explosive for Hard Rock\'s Biggest Stage',
+      brand: 'Sabian',
+      series: 'Sabian AAX Series',
+      setup: [
+        { type: 'Hi-Hats', model: 'Sabian AAX 14" Stage Hi-Hats', position: 'Left side', notes: 'Bright, cutting voice — projects clearly through Godsmack\'s dense live and studio mix' },
+        { type: 'Crash', model: 'Sabian AAX 18" X-Plosion Crash', position: 'Left crash', notes: 'Fast, explosive attack — primary accent crash' },
+        { type: 'Crash', model: 'Sabian AAX 19" X-Plosion Crash', position: 'Right crash', notes: 'Fuller, more sustained crash for section-ending accents' },
+        { type: 'Ride', model: 'Sabian AAX 21" Stage Ride', position: 'Far right', notes: 'Bright, projecting ride voice suited to hard rock arena environments' },
+        { type: 'China', model: 'Sabian AAX 18" Chinese', position: 'Over rack toms', notes: 'Aggressive trashy accent for Godsmack\'s heaviest section punctuations' }
+      ],
+      description: `Shannon Larkin's Sabian AAX setup on *Faceless* was chosen for its aggressive, bright character — a cymbal voice that cuts through dense hard rock production without disappearing into the guitar wall. The AAX series, machine-hammered from brilliant brass, delivers a fast-speaking, high-frequency profile ideally suited to Godsmack's sonic environment.
+
+The 14" AAX Stage Hi-Hats are the rhythmic engine of Larkin's playing throughout *Faceless*. Driving eighth-note patterns on "I Stand Alone," the relentless pulse of "Straight Out of Line," and the more nuanced quarter-note work on "Changes" all share the same bright, assertive hi-hat voice that anchors Godsmack's grooves. The AAX's machine-hammered construction ensures consistency across playing dynamics — from soft verse passages to full-force chorus hits — and the Stage Hi-Hat's heavier bottom cymbal provides stability under aggressive foot and stick work.
+
+His crash configuration — 18" and 19" AAX X-Plosion Crashes — provides two distinct accent voices suited to *Faceless*'s dynamic range. The 18" speaks fast and precisely for transitional fills; the 19" delivers a larger, more resonant crash for the album's biggest moments. The X-Plosion series' wider bow and fast-lathing make both cymbals respond immediately even at moderate volume, essential in a studio environment where every crash must be intentional.
+
+The 21" AAX Stage Ride provides a bright, projecting time-keeping surface with a clear bell — appropriate for the passages in *Faceless* where Larkin needed a defined, cutting ride voice rather than a wash. The 18" AAX Chinese rounds out the setup with its upward-projecting trash accent, heard to maximum effect on the album's heavier sections.
+
+This Sabian AAX configuration evolved over Larkin's Godsmack career into the dual AAX/HHX setup documented in later years, but on *Faceless* — his debut Godsmack album — the pure AAX setup delivered exactly the bright, explosive cymbal voice the recording required.`,
+      estimatedValue: '$1,200–2,200 (full Sabian AAX setup, 2003 era)'
+    },
+    hardware: {
+      title: 'DW Hardware and Vater: The Foundation of Larkin\'s Technique',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'DW',
+          model: 'DW 9000 Series Double Bass Pedal',
+          notes: 'Chain-drive, adjustable cam — the professional double pedal behind Faceless\' driving double-kick patterns',
+          description: "Shannon Larkin's DW 9000 double bass pedal was the mechanical foundation for the driving double-kick patterns across Faceless. The DW 9000's chain-drive mechanism delivers a consistent, reliable feel that suits Godsmack's groove-first approach — the kick patterns on 'I Stand Alone,' 'Straight Out of Line,' and 'Dead and Broken' are built on deliberate placement and power, not machine-gun speed, and the DW 9000's adjustable cam lets Larkin dial in exactly the power curve and return speed his playing demands. The pedal's robust construction handled the intense touring schedule that followed Faceless's #1 debut without any compromise in feel or performance."
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vater',
+          model: 'Vater Hickory 5B',
+          notes: 'Pre-signature Vater 5B — the stick weight and balance that drove Faceless\'s hard rock grooves',
+          description: "In the Faceless era, Shannon Larkin played Vater Hickory 5B sticks before developing his signature model. The 5B's mass — heavier than the common 5A — suited Larkin's power-first playing philosophy: enough weight to drive through Godsmack's dense guitar production without sacrificing control across long playing sets. Vater's American hickory construction provides excellent durability under the physical demands of hard rock touring and the consistent rebound response that players of Larkin's level require."
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'DW',
+          model: 'DW 9000 Hi-Hat Stand',
+          notes: 'Matched DW hardware for consistency and road durability'
+        },
+        {
+          type: 'Drumheads (Toms, Batter)',
+          brand: 'Remo',
+          model: 'Remo Emperor Coated',
+          notes: 'Two-ply construction for controlled sustain and focused attack — standard for professional hard rock recording'
+        },
+        {
+          type: 'Drumheads (Bass, Batter)',
+          brand: 'Remo',
+          model: 'Remo Powerstroke 3',
+          notes: 'Focused attack and controlled resonance — essential for double-kick clarity in Godsmack\'s mix'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke 3 (batter), Remo Ambassador (resonant, ported)',
+        toms: 'Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)',
+        snare: 'Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)'
+      }
+    },
+    recordingTechniques: {
+      title: "Recording Faceless: Hard Rock at the Commercial Summit",
+      content: `By 2003, Godsmack had developed into one of the tightest hard rock bands in America — two platinum albums and relentless touring had forged the band into a well-oiled unit. Shannon Larkin came into the *Faceless* sessions as a relatively new member but brought with him the professional discipline of a drummer who had spent over a decade recording and touring at a high level.
+
+**The Authentic Live Approach:**
+*Faceless* was recorded with an emphasis on authentic drum sound — real shells, real cymbals, real room. In a period when triggered drum sounds had become the norm in mainstream metal production, Godsmack's approach on *Faceless* prioritized the actual acoustic character of Larkin's Tama Starclassic Maple kit. The result is a drum performance that feels physical and present, with the natural warmth of maple shells and Sabian AAX cymbals captured at their best.
+
+**Kick Drum Definition:**
+With Robbie Merrill's bass guitar occupying significant low-frequency energy in Godsmack's mix, the kick drums on *Faceless* were captured with a focus on the upper-bass punch range (150–250 Hz) that allows the kick to sit alongside the bass rather than competing with it. The Remo Powerstroke 3 batter heads contributed to this — their focused attack and controlled resonance delivered defined kick transients without excessive sub-bass bloom.
+
+**Snare Prominence:**
+The snare on *Faceless* sits prominently in the mix — a production choice that reflects Larkin's role as the rhythmic anchor in Godsmack's arrangements. The steel snare's natural high-frequency character required minimal processing; it simply cuts through the production the way steel shells always do.
+
+**Dynamic Architecture:**
+*Faceless* is a more dynamically varied album than its platinum-certified predecessors suggested. Tracks like "Changes" and "Serenity" required Larkin to demonstrate genuine dynamic restraint — playing at moderate intensity in verse sections before escalating for choruses. The studio capture reflected this: hi-hat and snare work in quieter passages is audibly different in intensity from the full-force moments, showing a drummer comfortable with dynamic expression across the full range of the album's emotional palette.`,
+      keyTechniques: [
+        'Authentic acoustic drum capture — real shells and cymbals, minimal processing',
+        'Kick EQ focused on upper-bass punch to sit alongside Merrill\'s bass guitar',
+        'Steel snare\'s natural high-frequency cut required minimal processing',
+        'Dynamic range capture across Faceless\'s varied arrangements'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'I Stand Alone',
+        bpm: '136',
+        signature: '4/4',
+        highlights: [
+          "Godsmack's most commercially successful track — driven by Larkin's pounding, relentless groove",
+          'Driving quarter-note kick pattern with authoritative snare on 2 and 4 — the definition of hard rock pocket drumming',
+          'Hi-hat work is consistent and aggressive, projecting forward momentum through the entire track',
+          'Fills are economical and powerful — placed at riff transitions, never for display',
+          'Originally written for the film The Chronicles of Riddick (2004); became one of the most-played rock songs of the 2000s'
+        ],
+        gearNotes: "The Tama Starclassic Maple kick's focused punch is at the center of this track's groove — the drum's natural attack provides the mechanical authority the song demands."
+      },
+      {
+        track: 'Straight Out of Line',
+        bpm: '148',
+        signature: '4/4',
+        highlights: [
+          "One of Faceless's heavier tracks — more aggressive tempo and driving double-kick foundation",
+          'Double-bass patterns underpin the verse sections, demonstrating Larkin\'s foot control at driving tempos',
+          'The snare cuts through with maximum authority — steel shell construction at its most effective',
+          'Crash accent placement is deliberate: every hit marks a genuine musical climax',
+          "Demonstrates Larkin's ability to maintain groove at higher BPM without sacrificing pocket feel"
+        ],
+        gearNotes: "The DW 9000's chain-drive consistency is audible at this tempo — the kick pattern stays mechanically precise across the full track length."
+      },
+      {
+        track: 'Changes',
+        bpm: '112',
+        signature: '4/4',
+        highlights: [
+          "Faceless's most dynamically versatile track — demonstrates Larkin's range beyond pure power",
+          'Restrained verse sections with softer hi-hat work and controlled snare dynamics',
+          'Chorus escalation shows Larkin\'s ability to shift from controlled intensity to full power convincingly',
+          'A track that required genuine dynamic sensitivity — Larkin delivers it without losing the hard rock identity',
+          'Shows the breadth of musical vocabulary Larkin brought from his Ugly Kid Joe and Wrathchild America experience'
+        ],
+        gearNotes: "The Sabian AAX hi-hats provide the tonal consistency across dynamics that allows the verse-to-chorus intensity shift to feel musical rather than mechanical."
+      }
+    ],
+    faq: [
+      {
+        question: 'What drums does Shannon Larkin use?',
+        answer: `Shannon Larkin's current touring setup centers on Ddrum Reflex Series drums — a road-grade professional kit he has endorsed for much of his Godsmack career. However, on *Faceless* (2003) — his debut studio album with Godsmack — he recorded with his Tama Starclassic Maple kit, which had been his professional standard through his earlier career with Wrathchild America and Ugly Kid Joe. The Starclassic Maple's all-maple construction delivered the warm, focused tone that defines the drum sound on *Faceless*. He later transitioned to Ddrum endorsement. For his complete gear history, see the [Shannon Larkin drummer profile](/drummer/shannon-larkin).`
+      },
+      {
+        question: "What was Shannon Larkin's setup on Faceless?",
+        answer: `On Godsmack's *Faceless* (2003), Shannon Larkin used a Tama Starclassic Maple kit — double 22" bass drums, 10" and 12" rack toms, 14" and 16" floor toms — paired with Sabian AAX cymbals including 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" Stage Ride, and an 18" Chinese cymbal. His snare was a 14" x 6.5" steel model (Tama era), tuned at medium-high tension for the cutting crack central to Godsmack's backbeat. DW 9000 double bass pedals powered the double-kick patterns that drove tracks like "Straight Out of Line." It was Larkin's first full studio album with Godsmack, recorded after joining the band in 2002 to replace founding drummer Tommy Stewart.`
+      },
+      {
+        question: 'What cymbals does Shannon Larkin use?',
+        answer: `Shannon Larkin is a Sabian endorsee. On *Faceless* (2003), he used the Sabian AAX series — a machine-hammered, bright-voiced line known for its fast-speaking, aggressive character suited to hard rock production. His Faceless-era AAX setup included 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" Stage Ride, and an 18" Chinese cymbal. In later Godsmack albums and current touring, Larkin expanded to a dual AAX/HHX setup, adding the darker, more complex HHX Raw Bell Dry Ride for tonal contrast. The AAX series remains his primary hi-hat and crash choice across his entire Godsmack career. See the [Shannon Larkin drum setup](/articles/shannon-larkin-drum-setup) for his complete current cymbal configuration.`
+      },
+      {
+        question: 'Why did Faceless debut at #1 on the Billboard 200?',
+        answer: `Godsmack's *Faceless* (2003) debuted at #1 on the Billboard 200 on the strength of "I Stand Alone" — one of the most-played rock songs of the 2000s on American radio — combined with Godsmack's established mainstream following built over two previous platinum albums (*Godsmack*, 1998; *Awake*, 2000). The band's combination of accessible hard rock songwriting, heavy production, and Sully Erna's powerful vocal delivery had built a crossover audience that spanned mainstream rock and heavy metal. Shannon Larkin's arrival strengthened the live and studio unit: his powerful groove-first approach suited Godsmack's sound perfectly. "Straight Out of Line" as a follow-up single reinforced the album's commercial momentum. The album ultimately certified 4× Platinum in the US.`
+      },
+      {
+        question: 'When did Shannon Larkin join Godsmack?',
+        answer: `Shannon Larkin joined Godsmack in 2002, replacing founding drummer Tommy Stewart. *Faceless* (2003) was his first full studio album with the band and proved immediately that the transition had strengthened Godsmack's musical foundation. Larkin came to the band with extensive professional experience: Wrathchild America (thrash metal, late 1980s–early 1990s) and Ugly Kid Joe (whose "Everything About You" reached worldwide commercial success in 1992). He has remained Godsmack's drummer through all subsequent releases, including *IV* (2006), *The Oracle* (2010), *1000hp* (2014), *When Legends Rise* (2018), and *Lighting Up the Sky* (2023). See the [Shannon Larkin drummer profile](/drummer/shannon-larkin) for his complete career history.`
+      }
+    ],
+    evolution: {
+      title: "From Faceless to Lighting Up the Sky: Shannon Larkin's Gear Through the Godsmack Years",
+      content: `*Faceless* (2003) was the starting point of Shannon Larkin's Godsmack tenure — and in commercial terms, its peak. The album established the rhythmic template that would define Godsmack's sound for the next two decades while documenting Larkin's Tama Starclassic Maple era before his transition to Ddrum endorsement.
+
+**The Tama Era (2002–mid-2000s):**
+Larkin entered Godsmack with his existing professional Tama Starclassic Maple setup. *Faceless* is the primary document of this era — the maple shells and Sabian AAX cymbal voice define the album's drum sound with natural warmth and brightness. This era captured Larkin at his most direct: powerful groove, steel snare authority, and the confident hard rock approach he had refined over a decade.
+
+**The Ddrum Transition (mid-2000s onward):**
+By the *IV* (2006) era, Larkin had transitioned to Ddrum Reflex Series drums as his primary touring and recording kit. The Ddrum Reflex's basswood/poplar construction delivered a drier, punchier attack compared to the Starclassic Maple's warmer resonance. The cymbal setup evolved from pure AAX to the dual AAX/HHX configuration that became his signature: AAX for hi-hats and crashes, HHX Raw Bell Dry Ride for time-keeping nuance.
+
+**The Current Era:**
+Larkin's current setup — Ddrum Reflex Series, Ddrum Shannon Larkin Signature snare, Sabian AAX/HHX full complement, DW 9000 double pedal, Vater Shannon Larkin Signature sticks — is fully documented in the [Shannon Larkin drum setup guide](/articles/shannon-larkin-drum-setup). The fundamental priorities have not changed since *Faceless*: power, pocket, and consistency for hard rock's biggest stages.`,
+      thenVsNow: [
+        { category: 'Kit', then: 'Tama Starclassic Maple (Faceless era, 2003)', now: 'Ddrum Reflex Series' },
+        { category: 'Snare', then: 'Tama Steel 14" x 6.5"', now: 'Ddrum Shannon Larkin Signature 14" x 6.5" Steel' },
+        { category: 'Cymbals', then: 'Sabian AAX series (pure AAX setup)', now: 'Sabian AAX + HHX dual-series setup' },
+        { category: 'Pedals', then: 'DW 9000 Double Bass Pedal', now: 'DW 9000 Double Bass Pedal (unchanged)' },
+        { category: 'Sticks', then: 'Vater Hickory 5B', now: 'Vater Shannon Larkin Signature' }
+      ]
+    },
+    videos: [],
+    relatedAlbums: ['whats-in-vinnie-pauls-kit', 'cowboys-from-hell-drum-setup'],
+    relatedDrummers: [8, 4, 1],
+    relatedArticles: ['shannon-larkin-drum-setup', 'hard-rock-drum-setups', 'best-double-bass-pedals-metal'],
+    relatedLicks: [],
+    internalLinks: [
+      { text: 'Shannon Larkin drummer profile', url: '/drummer/shannon-larkin' },
+      { text: 'Shannon Larkin complete gear guide', url: '/articles/shannon-larkin-drum-setup' },
+      { text: "What's In Vinnie Paul's Kit", url: '/articles/whats-in-vinnie-pauls-kit' },
+      { text: 'Cowboys from Hell drum breakdown', url: '/articles/cowboys-from-hell-drum-setup' },
+      { text: 'Sabian cymbals brand overview', url: '/gear/sabian' },
+      { text: 'Tama drums brand overview', url: '/gear/tama' }
+    ],
+    schema: {
+      '@context': 'https://schema.org',
+      '@graph': [
+        {
+          '@type': 'Article',
+          headline: "Faceless Drum Setup: Shannon Larkin's Gear on Godsmack's #1 Billboard Album (2003)",
+          description: "Discover the exact drum kit, cymbals, and gear Shannon Larkin used on Godsmack's Faceless (2003) — the #1 Billboard 200 debut, 4× Platinum album.",
+          author: {
+            '@type': 'Organization',
+            name: 'MetalForge Editorial'
+          },
+          datePublished: '2026-06-24',
+          dateModified: '2026-06-24'
+        },
+        {
+          '@type': 'MusicAlbum',
+          name: 'Faceless',
+          byArtist: {
+            '@type': 'MusicGroup',
+            name: 'Godsmack'
+          },
+          datePublished: '2003-04-08',
+          genre: 'Hard Rock',
+          recordLabel: {
+            '@type': 'Organization',
+            name: 'Republic Records'
+          },
+          track: [
+            { '@type': 'MusicRecording', name: 'Straight Out of Line' },
+            { '@type': 'MusicRecording', name: 'Faceless' },
+            { '@type': 'MusicRecording', name: 'Changes' },
+            { '@type': 'MusicRecording', name: 'Make Me Believe' },
+            { '@type': 'MusicRecording', name: 'It\'s All Too Much' },
+            { '@type': 'MusicRecording', name: 'Greed' },
+            { '@type': 'MusicRecording', name: 'Serenity' },
+            { '@type': 'MusicRecording', name: 'The Awakening' },
+            { '@type': 'MusicRecording', name: 'Re-Align' },
+            { '@type': 'MusicRecording', name: 'I Stand Alone' },
+            { '@type': 'MusicRecording', name: 'Releasing the Demons' },
+            { '@type': 'MusicRecording', name: 'Dead and Broken' },
+            { '@type': 'MusicRecording', name: 'I Fucking Hate You' }
+          ]
+        },
+        {
+          '@type': 'Person',
+          name: 'Shannon Larkin',
+          memberOf: {
+            '@type': 'MusicGroup',
+            name: 'Godsmack'
+          },
+          instrument: 'Drums'
+        },
+        {
+          '@type': 'FAQPage',
+          mainEntity: [
+            {
+              '@type': 'Question',
+              name: 'What drums does Shannon Larkin use?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: 'Shannon Larkin currently plays Ddrum Reflex Series drums, but on Faceless (2003) he recorded with a Tama Starclassic Maple kit — double 22" bass drums, 10" and 12" rack toms, 14" and 16" floor toms. He later transitioned to Ddrum endorsement.'
+              }
+            },
+            {
+              '@type': 'Question',
+              name: "What was Shannon Larkin's setup on Faceless?",
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "On Godsmack's Faceless (2003), Shannon Larkin used a Tama Starclassic Maple kit with double 22\" bass drums, Sabian AAX cymbals including 14\" Stage Hi-Hats and 18\"/19\" X-Plosion Crashes, a 14\" x 6.5\" steel snare, and DW 9000 double bass pedals. It was his first studio album with Godsmack after joining the band in 2002."
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'What cymbals does Shannon Larkin use?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: 'Shannon Larkin is a Sabian endorsee. On Faceless (2003) he used the Sabian AAX series — 14\" Stage Hi-Hats, 18\" and 19\" X-Plosion Crashes, 21\" Stage Ride, and 18\" Chinese. His current setup uses a dual AAX/HHX configuration with the HHX Raw Bell Dry Ride added for tonal complexity.'
+              }
+            }
+          ]
+        }
+      ]
+    },
+    conclusion: {
+      title: 'The Groove That Topped the Charts: Faceless and the Larkin Era Begins',
+      content: `*Faceless* (2003) represents Shannon Larkin at the beginning of one of American hard rock's most enduring drummer-band relationships — and simultaneously at its commercial peak. The album that launched his Godsmack career debuted at #1 on the Billboard 200 and eventually certified 4× Platinum, built on the rhythmic foundation Larkin established with his Tama Starclassic Maple kit and Sabian AAX cymbals.
+
+The drum sound on *Faceless* is deceptively straightforward. There are no technical showpieces, no elaborate production tricks, no triggered samples obscuring the acoustic character of real drums in a real room. What there is: authoritative kick placement that makes every groove feel inevitable, a steel snare crack that defines Godsmack's backbeat with absolute clarity, and the dynamic intelligence to serve arrangements that range from the relentless pulse of "I Stand Alone" to the more nuanced arc of "Changes."
+
+**For Drummers Studying Faceless:**
+Start with "I Stand Alone." The quarter-note kick pattern at 136 BPM is deceptively simple — but replicating the weight and authority of Larkin's groove requires more than just the correct pattern. It requires his approach: the deep-pocket timing, the snare that lands with physical authority rather than metronomic precision, the hi-hat that projects forward without overshadowing the kick-snare relationship. Once that groove is under your hands, work through "Straight Out of Line" for the double-kick foundation, and "Changes" for the dynamic control that makes the heavy sections feel genuinely heavy by contrast.
+
+**The Gear Legacy:**
+Tama Starclassic Maple drums remain among the most respected professional maple shells in the industry — a kit choice that ages well because its qualities (warmth, focus, durability) are permanently relevant in hard rock contexts. Sabian AAX cymbals continue as a primary professional choice for hard rock and heavy metal drummers worldwide. A player working toward the *Faceless* drum sound can approach it authentically at multiple price points — the requirements are gear philosophy and playing approach, not a specific vintage kit.
+
+For Shannon Larkin's complete career arc and current setup, see the [Shannon Larkin drummer profile](/drummer/shannon-larkin) and the [full gear breakdown](/articles/shannon-larkin-drum-setup).
+
+For hard rock drumming context in the same commercial crossover tradition, the [Cowboys from Hell drum setup](/articles/cowboys-from-hell-drum-setup) documents Vinnie Paul's approach — the groove-first hard rock philosophy that shaped Larkin's generation.
+
+🤘 *#1 Billboard 200. 4× Platinum. The groove that topped the charts.* 🤘`
+    }
+  },
 
   'hellhammer-drum-setup': {
     slug: 'hellhammer-drum-setup',

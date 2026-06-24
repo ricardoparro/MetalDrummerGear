@@ -35686,6 +35686,328 @@ For Mikkey Dee's complete setup evolution — from the Tama era through his Yama
 
 🤘 *Twenty-three years with the world's loudest band. It started here.* 🤘`
     }
+  },
+
+  // Inferno - Behemoth Evangelion (June 2026)
+  'evangelion-drum-setup': {
+    slug: 'evangelion-drum-setup',
+    albumTitle: 'Evangelion',
+    artist: 'Behemoth',
+    drummer: 'Inferno',
+    drummerId: 19,
+    relatedDrummerSlug: 'inferno',
+    year: 2009,
+    genre: 'Blackened Death Metal',
+    label: 'Metal Blade Records',
+    studio: 'Hertz Studio, Białystok, Poland',
+    producer: 'Behemoth / Wojtek & Sławek Wiesławski',
+    isAlbumArticle: true,
+    datePublished: '2026-06-24',
+    dateModified: '2026-06-24',
+    author: 'MetalForge Editorial',
+    title: "Evangelion — Behemoth Drum Setup (Inferno, 2009)",
+    description: "Inferno's most technically demanding pre-Satanist performance: Tama Starclassic Maple, Meinl Byzance Dark cymbals, sub-200ms blast beats across Evangelion's suffocating blackened death arrangements.",
+    seoKeywords: ['behemoth evangelion drummer', 'inferno drum setup 2009', 'behemoth evangelion drums', 'inferno tama starclassic', 'inferno meinl byzance', 'behemoth blast beats 2009', 'evangelion drum gear', 'inferno behemoth kit'],
+    ogImage: '/images/albums/evangelion-drums.webp',
+    intro: {
+      title: "The Pre-Satanist Apex: Behemoth's Blackened Death Metal Breakthrough",
+      content: `Released on August 7, 2009, Behemoth's *Evangelion* marked the full crystallisation of the Polish band's transformation from black metal roots into the definitive blackened death metal force they remain today. The album charted on the Billboard 200, a rare achievement for extreme metal of this intensity, and earned Behemoth their widest critical reception to that point — with Decibel, Metal Hammer, and Terrorizer all placing it among the year's finest records.
+
+At the centre of that achievement was Inferno — Zbigniew Robert Promiński — whose performance on *Evangelion* represents the technical peak of his pre-Satanist era. Where *The Satanist* (2014) would later showcase a more dynamic, groove-inflected approach, *Evangelion* is an exercise in controlled extremity: blast beats delivered at maximum velocity, double-bass sequences executed with machine precision, all within compositional structures of genuine sophistication.
+
+*Evangelion* was recorded at Hertz Studio in Białystok, Poland, with the Wiesławski brothers — Wojtek and Sławek — producing and engineering. The Wiesławski production partnership had already defined the Behemoth sound across *Demigod* (2004) and *The Apostasy* (2007), and *Evangelion* refined that template to its sharpest expression. The result was a drum sound of unprecedented clarity for extreme metal: every blast beat stroke registered with definition, every kick drum hit landed with focused impact, and Inferno's cymbal work cut through the dense, down-tuned guitar arrangements without smearing.
+
+Tracks like "Ov Fire and the Void," "Shemhamforash," and "He Who Shall Not Be Named" contain some of the most demanding extended blast beat sequences Inferno has committed to record. The album's relentless forward momentum was achieved not through recklessness but through absolute technical discipline — an Axis A longboard double pedal driving twin 22" kick drums, a Tama Starclassic Maple kit providing the tonal foundation, and Meinl Byzance Dark cymbals sustaining the dark, complex overtone palette that defines the blackened death metal sound.
+
+This article examines the complete gear setup behind *Evangelion*'s percussion assault — and places it in the broader context of Inferno's evolution as one of extreme metal's most formidable drummers.`,
+      keyPoints: [
+        'Released August 7, 2009 — Behemoth\'s Billboard 200 breakthrough',
+        'Recorded at Hertz Studio, Białystok with Wojtek & Sławek Wiesławski',
+        'Tama Starclassic Maple kit with Meinl Byzance Dark cymbals',
+        'Axis A longboard double pedal for sustained blast beat velocity',
+        'Blast beats in 200–240 BPM range across extended track passages',
+        'Final album before Nergal\'s 2010 leukemia diagnosis — documents the pre-illness peak'
+      ]
+    },
+    drumKit: {
+      title: "Inferno's Tama Starclassic Maple: Precision for the Blast Beat Assault",
+      brand: 'Tama',
+      model: 'Tama Starclassic Maple',
+      finish: 'Black',
+      config: {
+        bassdrums: ['22" Bass Drum', '22" Bass Drum'],
+        toms: ['8" Rack Tom', '10" Rack Tom', '12" Rack Tom', '14" Floor Tom'],
+        snare: '14" Tama snare',
+        shells: 'All-maple shell construction'
+      },
+      description: `The Tama Starclassic Maple is among the finest all-maple professional kits ever produced, and Inferno's choice of this platform for the *Evangelion* sessions was no accident. All-maple construction delivers a warm, resonant fundamental tone with controlled sustain — qualities that serve blast beat recording exceptionally well. Where thinner or composite-shell drums can produce a brittle, harsh transient at extreme tempos, the Starclassic Maple's shell thickness absorbs impact and returns it as focused, defined note rather than undifferentiated noise.
+
+The dual 22" kick drums are the foundation of everything on *Evangelion*. Twin kicks — rather than a single drum with a double pedal — give Inferno independent tonal control over each hit. The left and right kick voices can be tuned with slight variation, creating a subtle alternating character even at maximum blast beat velocity. Each drum was headed with a Remo Powerstroke P3 on the batter side for focused, damped attack, and Remo Ambassador heads on the front heads for controlled resonance.
+
+The tom configuration — 8", 10", 12" rack toms and a 14" floor tom — reflects *Evangelion*'s compositional demands. The smaller rack toms respond quickly for the fast fill passages between blast sections, while the 14" floor tom provides the lower tonal anchor for the less frequent but impactful fill moments. Inferno does not deploy toms decoratively — every fill serves a structural purpose in Behemoth's arrangements, and the compact configuration reflects that economy.
+
+Tama's SuperStar hardware mounting system, integrated into the Starclassic series, allowed Inferno to position every drum for maximum ergonomic efficiency. At 200+ BPM blast beat tempos, kit setup is not merely comfort — it is technique. Every extra inch of reach between kick pedal and snare degrades the alternating stroke precision that defines elite blast beat performance.`,
+      notes: [
+        'All-maple Starclassic shells — warmth and controlled sustain at extreme tempos',
+        'Dual 22" kick drums for independent tonal control and sustained double-bass passages',
+        'Compact 8/10/12/14 tom configuration — economy of movement at blast beat velocities',
+        'Remo Powerstroke P3 kick batter heads for focused, damped attack'
+      ],
+      estimatedValue: '$2,500–4,000 (2009 Tama Starclassic Maple configuration)'
+    },
+    snare: {
+      title: 'The Snare Voice: Definition Through the Blast',
+      brand: 'Tama',
+      model: 'Tama Starclassic Maple Snare',
+      size: '14" x 6"',
+      shell: 'Maple',
+      description: `Inferno's snare on *Evangelion* occupies a specific tonal space within Behemoth's extreme metal arrangements: it must deliver immediate, cutting attack on every stroke in a sustained blast beat sequence without becoming fatiguing or blurring into the kick drum's frequency range. The Tama maple snare achieves this through a combination of shell resonance and head selection that prioritises attack definition over body and decay.
+
+The Remo Coated Ambassador batter head — Inferno's choice for *Evangelion* — provides the textured surface that generates additional tonal complexity compared to clear heads. The coating adds a slight warmth to the attack, softening the initial transient without reducing its presence, and increases the head's durability during extended blast sections where snare stroke velocity approaches maximum.
+
+The Wiesławski brothers' snare capture at Hertz Studio applied close-mic technique with careful attention to the snare wire articulation on the resonant side — essential for registering the individual strokes within sustained blast passages. At 200–240 BPM, each stroke in the alternating blast pattern must be individually audible; smear destroys the perceptual effect entirely. The tight maple shell construction and Ambassador head selection achieved exactly this balance.
+
+On "Shemhamforash" and "He Who Shall Not Be Named," the snare's definition anchors the blast sections against Nergal's guitar layers — layers that, at *Evangelion*'s level of downtuning and gain, could easily overwhelm a less articulate snare voice. That the snare cuts through the mix on the album's most dense passages is a testament to both Inferno's technique and the gear selection that supported it.`,
+      tuningSetting: 'Medium-high tension for attack definition and projection through dense guitar arrangements',
+      heads: 'Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$300–500 (Tama Starclassic maple snare)'
+    },
+    cymbals: {
+      title: 'Meinl Byzance Dark: The Blackened Death Metal Palette',
+      brand: 'Meinl',
+      series: 'Meinl Byzance Dark',
+      setup: [
+        { type: 'Hi-Hats', model: 'Meinl Byzance Dark 14" Hi-Hats', position: 'Left side', notes: 'Darker tonal character reduces brightness at extreme tempos; tight chick essential for blast beat hi-hat work' },
+        { type: 'Crash (1)', model: 'Meinl Byzance Dark 16" Crash', position: 'Above rack toms, left', notes: 'Fast response for quick accent punctuation between blast sections' },
+        { type: 'Crash (2)', model: 'Meinl Byzance Dark 18" Crash', position: 'Right of rack toms', notes: 'Primary crash for structural section markers and heavier accents' },
+        { type: 'Ride', model: 'Meinl Byzance Dark 20" Ride', position: 'Far right', notes: 'Dark, complex ride surface — used sparingly as textural element in less dense passages' }
+      ],
+      description: `Meinl Byzance Dark cymbals are hand-hammered in Istanbul using B20 bronze — the same alloy composition used in the finest Turkish cymbal-making traditions. The "Dark" designation reflects a deliberate voicing choice: reduced brightness, increased tonal complexity, more controlled wash. These are cymbals designed to sound old and complex rather than new and cutting, which makes them ideal for blackened death metal's sonic aesthetic.
+
+The 14" Byzance Dark hi-hats are the centrepiece of Inferno's *Evangelion* cymbal setup. During blast beat passages, the hi-hat functions as the rhythmic anchor of the entire pattern — the alternating open/closed footwork that drives the blast forward. A bright, cutting hi-hat at 200+ BPM risks overwhelming the mix; the Byzance Dark's reduced upper-frequency content keeps it seated in the arrangement without losing its articulation. Every foot closure and every stick hit registers with presence, but none of them compete with Nergal's guitar.
+
+The crash selection — 16" and 18" — gives Inferno quick and full accent options. The 16" responds fast enough for the tight rhythmic punctuations that break up *Evangelion*'s blast sections; the 18" provides the broader wash for structural endings and climactic moments. Both share the Byzance Dark's characteristic complex overtone decay, which sustains in a way that feels integrated with the guitar layers rather than sitting above them.
+
+The 20" Dark ride is deployed sparingly on *Evangelion* — the album's density rarely opens space for ride patterns — but when it appears, its dark, complex surface contributes a textural dimension that a brighter ride would not.`,
+      estimatedValue: '$900–1,400 full Byzance Dark setup (2009)'
+    },
+    hardware: {
+      title: 'Axis A Longboard: The Blast Beat Weapon',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'Axis',
+          model: 'Axis A Longboard Double Pedal',
+          notes: 'Direct-drive mechanism; longboard footboard for heal-toe technique; used as two single pedals on twin kick configuration',
+          description: `The Axis A Longboard is among the most respected pedals in extreme metal drumming, chosen by blast beat specialists including George Kollias (Nile), Pete Sandoval (Morbid Angel), and Inferno for its direct-drive mechanism and longboard footboard design. Direct-drive eliminates the chain-drive delay between foot motion and beater strike — at 200+ BPM, that delay is not a subtle issue but a fundamental barrier to precision.
+
+The longboard footboard, longer than standard pedal designs, gives Inferno's foot a broader surface to work with during the heel-toe and slide techniques that generate extreme double-bass speeds. The additional board length distributes the foot's range of motion more efficiently, reducing ankle fatigue across extended blast sections. On an album like *Evangelion*, where sustained blast passages run for minutes at a time, fatigue management is as important as raw technique.
+
+For twin kick configuration, Inferno uses two Axis A pedals — one per bass drum — rather than the left-side slave attachment of a conventional double pedal. This maintains independent beater travel and tonal consistency between the two kicks, and avoids the mechanical complexity of the slave-side connection at maximum velocity.`
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Tama',
+          model: 'Tama Stage Master Hi-Hat Stand',
+          notes: 'Smooth clutch action for consistent left-foot hi-hat work during blast patterns',
+          description: "Inferno's hi-hat stand selection prioritises mechanical consistency over adjustment range. During blast beat execution, the left foot's hi-hat work is as technically demanding as the right foot's kick pedal operation — a stand with inconsistent action introduces variables that compound at extreme tempos."
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth 5B Black',
+          notes: '5B profile for power and durability through sustained blast sections',
+          description: 'The 5B is heavier and thicker than the standard 5A, providing additional mass for snare articulation in loud playing contexts. The black finish version is cosmetic, but the underlying hickory construction delivers the durability required for the physical demands of extreme metal drumming.'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke P3 Clear (batter), Remo Ambassador Clear (resonant)',
+        toms: 'Remo Coated Ambassador (batter), Remo Ambassador Clear (resonant)',
+        snare: 'Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)'
+      }
+    },
+    recordingTechniques: {
+      title: 'Hertz Studio and the Wiesławski Production Method',
+      content: `Hertz Studio in Białystok, Poland — run by brothers Wojtek and Sławek Wiesławski — is synonymous with the modern Behemoth sound. By *Evangelion* (2009), the Wiesławski brothers had refined their drum capture philosophy across multiple Behemoth records and numerous other extreme metal albums, developing a production approach that balanced acoustic authenticity with the clarity and punch that extreme metal required.
+
+**Drum Capture Philosophy:**
+The Wiesławski method centres on close-mic discipline with room ambience used sparingly. Each drum in Inferno's Tama Starclassic kit was captured with dedicated close microphones — typically a dynamic inside the kick drum for attack definition, a condenser at the front head for body, Shure SM57-style dynamics on snare top and bottom, and Sennheiser MD421s on toms. The overhead configuration used condensers in a stereo arrangement capturing the full kit image and cymbal detail.
+
+**Blast Beat Clarity:**
+The defining technical achievement of *Evangelion*'s drum production is the clarity of Inferno's blast beat passages. At 200–240 BPM, individual strokes can blur into a textural wash on lesser recordings. The Wiesławski approach used tight, controlled reverb and precise transient management to ensure each stroke within the blast remained individually audible — a quality that distinguishes *Evangelion* from many contemporaneous extreme metal productions.
+
+**Kick Drum Treatment:**
+The Powerstroke P3 heads on the twin 22" kick drums were captured with a combination of inside and outside microphones, blending the click of the beater attack with the body of the shell resonance. The result is a kick sound that hits with definition rather than rumble — appropriate for the blast beat passages where each kick stroke must register against the snare in clear alternating sequence.`,
+      keyTechniques: [
+        'Close-mic discipline with controlled room ambience',
+        'Individual stroke clarity maintained at 200–240 BPM blast tempos',
+        'Dual-mic kick drum capture: inside click plus outside body',
+        'Transient management to separate blast beat strokes perceptually',
+        'Wiesławski brothers — the definitive Behemoth production team'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'Ov Fire and the Void',
+        bpm: '~200–220',
+        signature: '4/4',
+        highlights: [
+          'Lead single — most accessible and melodically developed track on the album',
+          'Extended blast beat sections alternating with melodic mid-paced passages',
+          'Inferno demonstrates dynamic range: power in the blasts, restraint in the melodic sections',
+          'The structural contrast showcases his compositional intelligence beyond pure velocity'
+        ],
+        gearNotes: 'Axis A longboard provides the sustained blast precision. Byzance Dark hi-hats cut cleanly through the melodic guitar sections.'
+      },
+      {
+        track: 'Shemhamforash',
+        bpm: '~210–240',
+        signature: '4/4',
+        highlights: [
+          'Among the most technically demanding blast beat passages on the album',
+          'Extended single-stroke blast sections at near-maximum velocity',
+          'Kick drum alternation with snare is the rhythmic foundation throughout',
+          'Minimal dynamic variation — sustained intensity as compositional statement'
+        ],
+        gearNotes: 'Axis A direct-drive mechanism essential at these tempos. Tama Starclassic Maple shells deliver definition even at maximum stroke rate.'
+      },
+      {
+        track: 'He Who Shall Not Be Named',
+        bpm: '~180–220',
+        signature: '4/4',
+        highlights: [
+          'Mid-tempo passages contrast with full-speed blast sections',
+          'Tom fills serve structural transitions between sections',
+          'Demonstrates Inferno\'s ability to modulate intensity without losing forward momentum',
+          'One of the album\'s most compositionally varied tracks rhythmically'
+        ],
+        gearNotes: 'The compact 8/10/12/14 tom configuration enables fast fill passages between blast sections with minimal movement.'
+      },
+      {
+        track: 'Lucifer',
+        bpm: '~190–230',
+        signature: '4/4',
+        highlights: [
+          'Dense, unrelenting blast beat assault throughout',
+          'Cymbal work reduced to essential accents — the blast is the entire rhythmic statement',
+          'One of the album\'s purest expressions of blackened death metal extremity',
+          'Inferno\'s snare definition under these conditions is exceptional'
+        ],
+        gearNotes: 'Byzance Dark crashes used sparingly — structural punctuation only. The Coated Ambassador snare head maintains definition at maximum intensity.'
+      }
+    ],
+    gearDiff: {
+      title: 'Evangelion (2009) vs The Satanist (2014): The Evolution',
+      content: `Five years separate *Evangelion* (2009) and *The Satanist* (2014), and the drum gear differences between the two records reflect a deliberate compositional evolution in Behemoth's approach. Both albums are masterworks of extreme metal; the gear tells the story of how Inferno adapted his setup to serve different artistic visions.
+
+**Drums:** Tama Starclassic Maple (both albums — consistent foundation)
+The Starclassic Maple appears on both records, confirming its status as Inferno's preferred studio kit across this era. The configuration evolved slightly — *The Satanist* sessions saw some adjustments to the tom layout — but the all-maple platform remained constant.
+
+**Cymbals:** Meinl Byzance Dark (*Evangelion*) → Meinl Classics Custom Dark (*The Satanist*)
+This is the most audible gear evolution between the two albums. The Byzance Dark's hand-hammered B20 bronze delivers a warmer, more complex overtone profile than the Classics Custom Dark's more controlled, focused response. *The Satanist*'s production called for cymbals that sat more tightly in the mix; *Evangelion*'s slightly more expansive sonic landscape accommodated the Byzance's broader decay.
+
+**Pedals:** Axis A Longboard (*Evangelion*) → Axis configuration (*The Satanist*)
+Inferno's commitment to Axis pedals spans both eras, reflecting the pedal's unique suitability for his blast beat technique. The direct-drive mechanism and longboard footboard remained the foundation of his double-bass approach across both albums.
+
+**Production Context:**
+*Evangelion*'s production prioritised blast beat clarity and extreme velocity. *The Satanist*'s approach added dynamic range — the 2014 album features slower passages ("Ora Pro Nobis Lucifer"), atmospheric sections, and a broader emotional palette. Inferno's gear selections across both records served these different demands precisely.`,
+      comparison: [
+        { category: 'Drums', evangelion: 'Tama Starclassic Maple', satanist: 'Tama Starclassic Maple' },
+        { category: 'Cymbals', evangelion: 'Meinl Byzance Dark', satanist: 'Meinl Classics Custom Dark' },
+        { category: 'Pedals', evangelion: 'Axis A Longboard double', satanist: 'Axis double configuration' },
+        { category: 'Sticks', evangelion: 'Vic Firth 5B Black', satanist: 'Vic Firth 5B' },
+        { category: 'Studio', evangelion: 'Hertz Studio, Białystok', satanist: 'Hertz Studio, Białystok' },
+        { category: 'Focus', evangelion: 'Maximum blast velocity, extreme density', satanist: 'Dynamic range, groove and extremity balanced' }
+      ]
+    },
+    faq: [
+      {
+        question: 'What drums does Inferno use on Evangelion?',
+        answer: "Inferno used a Tama Starclassic Maple kit with dual 22\" kick drums, 8\", 10\", and 12\" rack toms, and a 14\" floor tom on Evangelion (2009). The all-maple shell construction provided the warm, resonant attack and controlled sustain necessary for sustained blast beat passages at 200–240 BPM. The kit was recorded at Hertz Studio in Białystok, Poland, with producers Wojtek and Sławek Wiesławski. For Inferno's full gear history across Behemoth's career, see the [What's In Inferno's Kit article](/articles/whats-in-infernos-kit)."
+      },
+      {
+        question: 'How is Inferno drum setup different on Evangelion vs The Satanist?',
+        answer: "On Evangelion (2009), Inferno used Meinl Byzance Dark cymbals with an Axis A Longboard double pedal, optimised for maximum blast beat velocity and extreme density. The Satanist (2014) saw him transition to Meinl Classics Custom Dark cymbals, which have a more controlled, focused response suited to that album's more dynamic arrangements. Both albums used the Tama Starclassic Maple kit and Hertz Studio production, but the cymbal character and compositional approach differ significantly — Evangelion is velocity-focused; The Satanist balances extremity with groove and atmosphere."
+      },
+      {
+        question: 'How fast does Inferno play blast beats on Evangelion?',
+        answer: "Inferno delivers blast beats in the 200–240 BPM range on Evangelion, executed with single-stroke alternating technique across snare and kick. Tracks like Ov Fire and the Void and Shemhamforash feature extended blast sections at near-maximum velocity. The Axis A Longboard double pedal's direct-drive mechanism is central to achieving and sustaining these tempos — chain-drive pedals introduce mechanical delay that becomes a significant barrier above 180 BPM. For a technical breakdown of blast beat mechanics and Inferno's approach, see the [blast beat techniques guide](/articles/blast-beat-techniques)."
+      },
+      {
+        question: 'What cymbals does Inferno use on Evangelion?',
+        answer: "Inferno's cymbal setup on Evangelion consists of Meinl Byzance Dark series pieces: 14\" Dark hi-hats, 16\" and 18\" Dark crashes, and a 20\" Dark ride. The Byzance Dark's hand-hammered B20 bronze construction delivers a darker, more complex overtone profile than brighter cymbal series, which suits blackened death metal's sonic aesthetic. The reduced brightness also prevents the cymbals from dominating the mix during the album's densest blast beat passages, keeping the snare and kick's articulation perceptually prominent."
+      },
+      {
+        question: 'Did Evangelion chart on the Billboard 200?',
+        answer: "Yes — Evangelion (2009) charted on the Billboard 200, marking Behemoth's breakthrough into mainstream chart visibility for a blackened death metal record. The album's critical reception was exceptional across the extreme metal press, with Decibel, Metal Hammer, and Terrorizer all featuring it among the year's best albums. The album cycle also coincided with a tragic personal context: Behemoth frontman Nergal was diagnosed with leukemia in August 2010 during the Evangelion touring period, making this album a document of Behemoth at their pre-illness creative and physical peak."
+      }
+    ],
+    videos: [],
+    relatedAlbums: ['whats-in-infernos-kit', 'the-satanist-drum-setup'],
+    relatedDrummers: [6, 21, 3],
+    relatedArticles: ['blast-beat-techniques', 'blackened-death-metal-drumming', 'extreme-metal-drum-setup'],
+    relatedLicks: [],
+    schema: {
+      '@context': 'https://schema.org',
+      '@graph': [
+        {
+          '@type': 'MusicAlbum',
+          name: 'Evangelion',
+          byArtist: {
+            '@type': 'MusicGroup',
+            name: 'Behemoth'
+          },
+          datePublished: '2009-08-07',
+          genre: 'Blackened Death Metal',
+          recordLabel: {
+            '@type': 'Organization',
+            name: 'Metal Blade Records'
+          },
+          track: [
+            { '@type': 'MusicRecording', name: 'Daimonos' },
+            { '@type': 'MusicRecording', name: 'Rome 64 C.E.' },
+            { '@type': 'MusicRecording', name: 'Shemhamforash' },
+            { '@type': 'MusicRecording', name: 'Ov Fire and the Void' },
+            { '@type': 'MusicRecording', name: 'Transmigrating Beyond Realms ov Amenti' },
+            { '@type': 'MusicRecording', name: 'He Who Shall Not Be Named' },
+            { '@type': 'MusicRecording', name: 'Lucifer' },
+            { '@type': 'MusicRecording', name: 'Alas, Lord Is Upon Me' },
+            { '@type': 'MusicRecording', name: 'Defiling Morality ov Black God' },
+            { '@type': 'MusicRecording', name: 'Evangelion' }
+          ]
+        },
+        {
+          '@type': 'Person',
+          name: 'Inferno',
+          alternateName: 'Zbigniew Robert Promiński',
+          birthDate: '1979-03-23',
+          birthPlace: {
+            '@type': 'Place',
+            name: 'Gdańsk, Poland'
+          },
+          memberOf: {
+            '@type': 'MusicGroup',
+            name: 'Behemoth'
+          },
+          instrument: 'Drums'
+        }
+      ]
+    },
+    conclusion: {
+      title: "Evangelion: The Blast Beat Standard",
+      content: `*Evangelion* (2009) stands as the defining document of Inferno's extreme blast beat era — the album that most purely captured what he could achieve at maximum velocity within a compositional framework of genuine sophistication. The Billboard 200 chart position confirmed that extreme metal of this intensity could reach beyond genre boundaries; the critical response confirmed that it deserved to.
+
+The gear choices on *Evangelion* were not incidental. Tama Starclassic Maple shells deliver the tonal definition that blast beat recording demands. Meinl Byzance Dark cymbals provide the complex, dark overtone palette that blackened death metal requires. The Axis A Longboard double pedal's direct-drive mechanism removes the mechanical barrier between intention and execution at 200+ BPM. And the Wiesławski brothers at Hertz Studio had developed the production methodology to capture this performance with the clarity it deserved.
+
+**For Drummers Studying Evangelion:**
+The key lesson from *Evangelion* is that blast beat performance at elite level is not about raw physical capability alone — it is about the systematic elimination of technical variables. Every gear choice Inferno made on this album solved a specific problem: shell construction for tonal clarity, cymbal selection for sonic integration, pedal mechanism for velocity precision, head selection for stroke definition. Understanding why each element was chosen is as instructive as studying the patterns themselves.
+
+*Evangelion* also documents a pivotal biographical moment: the final Behemoth album before Nergal's leukemia diagnosis in August 2010 disrupted the band's momentum. The album cycle represents Behemoth — and Inferno — at the height of their pre-illness creative and physical powers.
+
+For the full story of Inferno's gear evolution across Behemoth's complete career, visit the [Inferno drummer profile](/drummer/inferno) and the [What's In Inferno's Kit breakdown](/articles/whats-in-infernos-kit). For the progression from Evangelion's velocity-focused approach to The Satanist's dynamic range, the [The Satanist drum setup article](/articles/the-satanist-drum-setup) provides the direct comparison.
+
+The blast beat standard. Captured in Białystok. Heard worldwide. 🤘`
+    }
   }
 };
 

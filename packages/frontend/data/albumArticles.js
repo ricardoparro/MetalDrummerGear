@@ -8037,6 +8037,343 @@ For the progressive-era chapter that preceded this, see the [Scenes from a Memor
     }
   },
 
+  // Systematic Chaos - Dream Theater (Mike Portnoy, 2007)
+  'systematic-chaos-drum-setup': {
+    slug: 'systematic-chaos-drum-setup',
+    albumTitle: 'Systematic Chaos',
+    artist: 'Dream Theater',
+    drummer: 'Mike Portnoy',
+    drummerId: 13,
+    relatedDrummerSlug: 'mike-portnoy',
+    year: 2007,
+    genre: 'Progressive Metal',
+    label: 'Roadrunner Records',
+    studio: 'Avatar Studios (The Power Station), New York',
+    producer: 'John Petrucci & Mike Portnoy',
+    isAlbumArticle: true,
+    datePublished: '2026-06-24',
+    dateModified: '2026-06-24',
+    author: 'MetalForge Editorial',
+    title: "Systematic Chaos Drum Setup — Mike Portnoy's Grammy-Nominated 2007 Dream Theater Kit",
+    description: "Complete breakdown of Mike Portnoy's drum gear on Dream Theater's Systematic Chaos (2007). Discover the Tama Starclassic Bubinga kit, Sabian HHX Evolution cymbals, DW 9000 pedals, and the Grammy-nominated technique behind 'The Dark Eternal Night'.",
+    seoKeywords: ['systematic chaos drum setup', 'mike portnoy 2007 drum kit', 'dream theater systematic chaos drums', 'mike portnoy tama bubinga', 'mike portnoy sabian hhx', 'dream theater grammy drums', 'the dark eternal night drums', 'in the presence of enemies drums', 'mike portnoy dw 9000'],
+    ogImage: '/images/albums/systematic-chaos-drums.webp',
+    intro: {
+      title: "Dream Theater's Grammy-Nominated Heavy Prog Epic: The Drum Story Behind Systematic Chaos",
+      content: `Released on June 5, 2007, *Systematic Chaos* is Dream Theater's ninth studio album and the heaviest, most prog-ambitious record of Mike Portnoy's final phase with the band. Clocking in at 77 minutes across eight tracks — including the 16-minute bookend epic "In the Presence of Enemies – Part II" — the album received a **Grammy nomination for Best Metal Performance** for "The Dark Eternal Night" at the 50th Grammy Awards in 2008, bringing the band their first major recognition from the Recording Academy.
+
+The album occupies a critical position in Dream Theater's discography. It sits at the exact midpoint between the crushing heaviness of *Train of Thought* (2003) and the reflective, expansive prog of *Black Clouds & Silver Linings* (2009) — Portnoy's final album before his departure. *Systematic Chaos* synthesizes both impulses without compromise: brutal riffing on "Constant Motion" and "The Dark Eternal Night" coexist with the sprawling narrative architecture of the "In the Presence of Enemies" epic that opens and closes the record.
+
+For Mike Portnoy, *Systematic Chaos* marked a significant gear evolution. He transitioned to Tama Starclassic **Bubinga** shells — denser and harder-attacking than the Maple kits that had defined his gear story from *Scenes from a Memory* through *Train of Thought*. The cymbal platform shifted to Sabian **HHX Evolution**, a darker and more complex series than the bright AAX cymbals of the 2003 era. And Portnoy returned to DW with the **DW 9000** double pedal — widely regarded as the smoothest, fastest double pedal ever manufactured.
+
+The sessions again took place at Avatar Studios (formerly The Power Station) in New York City, the same world-class facility the band had used for *Train of Thought*. John Petrucci and Portnoy self-produced again, pushing for a drum sound that could accommodate both the album's heaviest passages and its most orchestral, dynamic moments within the same mix.
+
+This is a complete breakdown of every piece of drum gear Mike Portnoy used to create what many consider his peak studio performance with Dream Theater.`,
+      keyPoints: [
+        "Grammy nomination for Best Metal Performance — 'The Dark Eternal Night' (50th Grammy Awards, 2008)",
+        "Dream Theater's ninth studio album — heaviest + most prog-ambitious late-Portnoy record",
+        'Recorded at Avatar Studios (The Power Station), New York — self-produced by Petrucci & Portnoy',
+        'Tama Starclassic Bubinga shells — denser, harder-attacking than the Maple of the 2003 era',
+        'Sabian HHX Evolution cymbals — darker and more complex than the AAX series of Train of Thought',
+        'DW 9000 double pedals — return to DW after the Pearl Eliminator era',
+        "Fills the arc: Train of Thought (2003) → Octavarium (2005) → Systematic Chaos (2007) → Black Clouds (2009)"
+      ]
+    },
+    drumKit: {
+      title: "Mike's 2007 Studio Kit: Tama Starclassic Bubinga",
+      brand: 'Tama',
+      model: 'Tama Starclassic Bubinga',
+      finish: 'Midnight Blue Sparkle',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum (x2)'],
+        toms: ['8" x 7" Rack Tom', '10" x 8" Rack Tom', '12" x 9" Rack Tom', '13" x 10" Rack Tom', '14" x 11" Rack Tom'],
+        floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom', '18" x 16" Floor Tom'],
+        shells: "Bubinga shells with Tama's Star-Cast mounting system — approximately 13 drums"
+      },
+      description: `The defining gear upgrade on *Systematic Chaos* was Portnoy's transition from the Tama Starclassic **Maple** he had played since the late 1990s to the Starclassic **Bubinga**. Bubinga is a dense African hardwood significantly heavier than maple — it produces more attack, a sharper transient, and a tighter, more defined tone with faster decay.
+
+Where maple shells provide warmth and sustain (ideal for the emotional dynamics of *Scenes from a Memory* and the physical mass of *Train of Thought*), bubinga delivers precision and clarity — exactly what a record balancing brutal metal passages with intricate prog architecture required. On "Constant Motion," the kick and snare articulation benefits directly from the bubinga's tighter response. On the extended instrumental passages of "In the Presence of Enemies – Part II," the shell's clarity keeps individual drum voices distinct within dense polyrhythmic textures.
+
+The kit maintained the large 13-drum configuration established on *Train of Thought*: double 22"x18" bass drums, five rack toms (8" through 14"), and three floor toms (14", 16", 18"). The scale was no longer new — Portnoy had been building toward this kit size since the early 2000s — but the material shift gave the same configuration a fundamentally different character. Same architecture, different physics.
+
+Tama's Star-Cast mounting system preserved the bubinga shells' natural resonance across all 13 positions. Even in a packed configuration, each drum spoke with individual authority — a critical requirement for the melodic tom vocabulary that Portnoy deploys across the prog sections of "In the Presence of Enemies."`,
+      notes: [
+        'Key upgrade from Starclassic Maple: Bubinga shells are denser, sharper-attacking, faster decay',
+        'Double 22"x18" bass drums — maintained from the Train of Thought and Scenes era',
+        '~13-drum configuration: five rack toms + three floor toms + double kick',
+        'Star-Cast mounting preserves resonance across the full configuration',
+        'Midnight Blue Sparkle finish — distinct visual identity from the 2003 era'
+      ],
+      estimatedValue: '$6,500-9,000 (2007) / $8,000-14,000 (vintage today)'
+    },
+    snare: {
+      title: 'Snare for Grammy-Nominated Heaviness',
+      brand: 'Tama',
+      model: 'Tama Starclassic Bubinga Snare',
+      size: '14" x 6.5"',
+      shell: 'Bubinga',
+      description: `For *Systematic Chaos*, Mike Portnoy paired the Starclassic Bubinga kit with a matching bubinga snare — consistent with the shell philosophy of the kit while providing the crack and authority that the album's heaviest passages demanded.
+
+The 6.5" depth and bubinga construction delivered a sharper, more defined attack than the maple snare of the *Train of Thought* era. On "The Dark Eternal Night" — the Grammy-nominated track — the snare anchors the most aggressive groove of the album with a tight, punchy sound that cuts cleanly through the album's dense guitar and keyboard layers.
+
+Tuned medium-high for attack with enough body to handle ghost notes in the prog sections, the snare worked across the album's full dynamic range: from the aggressive metal groove of "Constant Motion" to the measured, dynamic passages within the sprawling "In the Presence of Enemies" epic.`,
+      tuningSetting: 'Medium-high tension — sharp attack for metal passages, retained sensitivity for prog dynamics',
+      heads: 'Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$450-650 (2007) / $600-900 (vintage today)'
+    },
+    cymbals: {
+      title: 'The Sabian HHX Evolution Setup: Darker, More Complex',
+      brand: 'Sabian',
+      series: 'Sabian HHX Evolution Series',
+      setup: [
+        { type: 'Hi-Hats', model: 'Sabian HHX Evolution 14" Hi-Hats', position: 'Left side', notes: 'Darker and more complex than the AAX hi-hats of the Train of Thought era' },
+        { type: 'Crash', model: 'Sabian HHX Evolution 16" Crash', position: 'Left of hi-hats', notes: 'Fast, warm crash for transitional accents' },
+        { type: 'Crash', model: 'Sabian HHX Evolution 17" Crash', position: 'Left of rack toms', notes: 'Primary left-side crash — complex wash with faster decay than HH Artisan' },
+        { type: 'Crash', model: 'Sabian HHX Evolution 18" Crash', position: 'Right of rack toms', notes: 'Larger crash for climactic section endings' },
+        { type: 'Crash', model: 'Sabian HHX Evolution 19" Crash', position: 'Far right', notes: 'Full, sustained crash for the heaviest passages' },
+        { type: 'Ride', model: 'Sabian HHX Evolution 21" Ride', position: 'Far right', notes: 'Complex ride with defined bell — pivotal for the prog sections of In the Presence of Enemies' },
+        { type: 'China', model: 'Sabian HHX Evolution 18" Chinese', position: 'Above left floor tom', notes: 'Brighter and more cutting than the AAX Chinese of Train of Thought' },
+        { type: 'Splash', model: 'Sabian HHX 10" Splash', position: 'Above rack toms', notes: 'Fast accent fill capability within prog passages' }
+      ],
+      description: `The shift from Sabian AAX to Sabian **HHX Evolution** between *Train of Thought* (2003) and *Systematic Chaos* (2007) is one of the most significant cymbal transitions in Mike Portnoy's Dream Theater career. Where the AAX series was machine-hammered and brilliantly finished — prioritizing brightness and aggressive response — the HHX Evolution series is hand-hammered with a raw, unlathed look that produces a darker, more complex sound with richer overtone wash.
+
+The HHX Evolution line was Sabian's response to the growing demand for cymbals that combined modern cutting power with the harmonic depth of vintage hand-hammered instruments. For *Systematic Chaos* — an album that needed to be simultaneously heavier than *Octavarium* and more atmospherically rich than *Train of Thought* — the HHX Evolution cymbals provided exactly that combination.
+
+The 14" HHX Evolution hi-hats deliver articulation with a darker baseline character than the aggressive AAX hi-hats of 2003. Closed, they provide a warm, smoky chick. Half-open, they produce a rich wash that suits the more atmospheric sections of "Repentance" and "The Ministry of Lost Souls." The 17"-through-19" Evolution crashes respond with authority at high dynamics while retaining a complex wash rather than the quick, bright decay of the AAX Stage Crashes.
+
+The HHX Evolution 21" Ride — with its complex bell and hammered bow — is central to the prog sections of "In the Presence of Enemies – Part II," providing a shimmering quality that sustains across the track's 16-minute arc. The darker ride sound differentiates Portnoy's groove vocabulary on *Systematic Chaos* from anything in the AAX era.`,
+      estimatedValue: '$2,800-3,600 total (2007 Sabian HHX Evolution setup)'
+    },
+    hardware: {
+      title: 'DW 9000 Pedals and Hardware',
+      items: [
+        {
+          type: 'Bass Drum Pedal',
+          brand: 'DW',
+          model: 'DW 9000 Double Pedal',
+          notes: 'Return to DW after the Pearl Eliminator era — smoother, faster action with roller-bearing cam',
+          description: "For *Systematic Chaos*, Mike Portnoy returned to DW pedals — specifically the DW 9000 double pedal, widely regarded as one of the smoothest and most responsive double pedals ever manufactured. After the Pearl Eliminator's power-focused adjustability during the *Train of Thought* era, the DW 9000's roller-bearing cam system and extended footboard provided a different feel: smoother, faster, and more sensitive to dynamic nuance. The 9000's spring-tension adjustment and beater angle fine-tuning gave Portnoy the control needed for the album's broad dynamic range — from the brutal double-bass patterns of 'The Dark Eternal Night' to the measured, precise two-foot work in the progressive sections of 'In the Presence of Enemies.'"
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'DW',
+          model: 'DW 9000 Hi-Hat Stand',
+          notes: 'Matching DW 9000 hi-hat stand — consistent with the pedal endorsement this era'
+        },
+        {
+          type: 'Rack System',
+          brand: 'Tama',
+          model: 'Tama Power Tower Rack',
+          notes: 'Expandable rack for mounting the full ~13-drum Bubinga configuration'
+        },
+        {
+          type: 'Throne',
+          brand: 'Tama',
+          model: 'Tama 1st Chair',
+          notes: 'High-support throne — essential for the physically demanding 77-minute album'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth Mike Portnoy Signature',
+          notes: "Portnoy's signature stick — heavier spec matched to the bubinga shells' sharper response"
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke 3 Clear (batter), Remo Fiberskyn (front)',
+        toms: 'Remo Ambassador Coated (batter), Remo Ambassador Clear (resonant)',
+        snare: 'Remo Ambassador Coated'
+      }
+    },
+    recordingTechniques: {
+      title: 'Avatar Studios: Capturing Grammy-Nominated Heaviness',
+      content: `Recording *Systematic Chaos* at Avatar Studios in New York — formerly The Power Station — gave Dream Theater the same world-class tracking room that had served *Train of Thought* in 2003. The room's large-format acoustic character was again matched to Portnoy's expanded 13-drum setup, capturing the full physical weight of the bubinga shells with clarity and definition.
+
+**Self-Production and Drum Sound Philosophy:**
+John Petrucci and Mike Portnoy self-produced *Systematic Chaos*, continuing the production approach that had served them well on *Train of Thought*. The production goal this time was more nuanced: the drum sound needed to accommodate the album's dual identity — brutal enough for "Constant Motion" and "The Dark Eternal Night," yet transparent and dynamic enough to serve the 16-minute progressive epic "In the Presence of Enemies – Part II." The bubinga shells' tighter decay and sharper transient gave the production team more low-mid clarity to work with compared to the maple kits of earlier records.
+
+**The Grammy Context:**
+"The Dark Eternal Night" — the track that earned Dream Theater their 50th Grammy Awards nomination for Best Metal Performance — features some of the most demanding drumming on the album: relentless double-bass work beneath technically complex odd-time riffing, with explosive fill transitions that never sacrifice the underlying groove. The DW 9000's smooth response and the bubinga shells' articulate attack are both audible in the way the kick and snare sit in the track's dense mix.
+
+**Microphone Setup:**
+- Kick drums: Two-mic setup per kick — close dynamic (AKG D112 or Shure Beta 52) plus tunnel condenser
+- Snare: Shure SM57 top, secondary mic bottom for snare wire character
+- Toms: Dynamic close-mics on each of the ~13 drums
+- Hi-hat: Small-diaphragm condenser for articulation detail
+- Overheads: Stereo condenser pair capturing the full HHX Evolution setup
+- Room: Moderate room capture — more than *Train of Thought*, less than *Scenes from a Memory*
+
+**Double Bass Approach:**
+The DW 9000's roller-bearing cam and smooth spring action allowed Portnoy to calibrate the pedal feel between the aggressive, high-velocity patterns of "The Dark Eternal Night" and the more controlled, dynamic double-bass vocabulary of the prog sections. The bubinga kick drums' tight, punchy response meant that even fast patterns retained clear articulation rather than blurring into low-end wash.`,
+      keyTechniques: [
+        'Self-produced with Petrucci — production aimed at balancing metal heaviness with prog dynamic range',
+        'Bubinga shells: tighter decay and sharper transient gave low-mid clarity to both heavy and dynamic passages',
+        'DW 9000 pedals calibrated across the album\'s dual heaviness-and-prog demands',
+        'Grammy-nominated "The Dark Eternal Night" features relentless odd-time double-bass at high velocity',
+        'Room capture calibrated between the dry ToT sound and the ambient SFaM sessions'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'In the Presence of Enemies – Part I',
+        bpm: 'Varies — multiple tempo sections',
+        signature: 'Multiple odd-time signatures',
+        highlights: [
+          'Album opener — immediately establishes the scope of the record',
+          'Complex prog framework introduces the album\'s narrative themes',
+          'Demanding odd-time drumming throughout the 8:44 runtime',
+          'Sets up the bookend structure that Part II completes at the album close'
+        ],
+        gearNotes: 'The bubinga shells articulate the odd-time kick patterns with more definition than maple would provide. HHX Evolution hi-hats deliver warm articulation across the complex rhythmic landscape.'
+      },
+      {
+        track: 'Constant Motion',
+        bpm: '≈200 (double-time feel)',
+        signature: '4/4 with prog interpolations',
+        highlights: [
+          "One of Dream Theater's fastest and most aggressive tracks",
+          'Demanding double-bass patterns at near-constant high velocity',
+          "Some of Portnoy's most technically impressive foot work",
+          'Progressive time signature changes embedded within the aggressive framework'
+        ],
+        gearNotes: 'DW 9000 pedals at their most demanding — smooth roller-bearing action critical for sustaining the velocity. Bubinga kick drums deliver tight, punchy articulation at high BPM.'
+      },
+      {
+        track: 'The Dark Eternal Night',
+        bpm: '≈ varies with odd-time riffing',
+        signature: 'Multiple — odd-time riffing throughout',
+        highlights: [
+          'Grammy-nominated track (Best Metal Performance, 50th Grammy Awards 2008)',
+          "Dream Theater's most aggressive odd-time metal composition",
+          'Demanding double-bass work beneath technically complex rhythm guitar',
+          'Portnoy\'s drumming on this track is widely cited as a career high point'
+        ],
+        gearNotes: 'The Grammy-nominated performance. DW 9000 smooth action under relentless double-bass. Bubinga snare delivers the sharp attack needed to cut through the dense rhythm guitar. HHX Evolution crashes explode on the heaviest accents.'
+      },
+      {
+        track: 'Repentance',
+        bpm: 'Slow to mid-tempo',
+        signature: '4/4 with extended atmospheric sections',
+        highlights: [
+          "Portnoy's most personal lyrical contribution to the album",
+          'Features audio samples of recovering addicts — unusual for a metal track',
+          'Atmospheric, measured drumming requiring restraint over aggression',
+          "Demonstrates Portnoy's dynamic range within the same album as 'The Dark Eternal Night'"
+        ],
+        gearNotes: 'HHX Evolution cymbals earn their keep in the atmospheric passages — the darker wash suits the track\'s meditative character. DW 9000 sensitivity allows precise dynamic control at low volumes.'
+      },
+      {
+        track: 'In the Presence of Enemies – Part II',
+        bpm: 'Varies across 16:38',
+        signature: 'Multiple — the fullest expression of the album\'s prog ambition',
+        highlights: [
+          "Album closer at 16:38 — among the most demanding prog epics Portnoy recorded",
+          'Requires the full range of the ~13-drum bubinga configuration across its runtime',
+          'Resolves the narrative arc opened in Part I',
+          "Showcases Portnoy's ability to sustain both technical complexity and emotional arc across an extended form"
+        ],
+        gearNotes: "Every drum in the expanded configuration appears in deliberate musical context. The HHX Evolution ride's complex bell is central to the prog passages. DW 9000 sustains dynamic control across 16+ minutes without drift."
+      }
+    ],
+    techniques: {
+      title: "Portnoy's Peak: The Systematic Chaos Techniques",
+      content: `*Systematic Chaos* required Mike Portnoy to synthesize everything he had developed in his Dream Theater career — the prog complexity of *Scenes from a Memory*, the maximum heaviness of *Train of Thought*, and the dynamic architecture of *Octavarium* — into a single 77-minute statement. The techniques across the album represent the fullest expression of his playing vocabulary.
+
+**Odd-Time Fluency at Maximum Heaviness:**
+"The Dark Eternal Night" and "Constant Motion" demonstrate what separates Portnoy from most technically proficient drummers: the ability to drive genuinely heavy music through genuinely complex time signatures without either element compromising the other. The relentless forward momentum of "Constant Motion" at near-200 BPM doesn't feel like an exercise — it feels like a freight train. This requires that the odd-time feel is so deeply internalized it produces no hesitation, only groove.
+
+**Extended Epic Architecture:**
+The "In the Presence of Enemies" bookend structure — 8:44 opening, 16:38 closing — required Portnoy to sustain musical narrative momentum across nearly 25 minutes of music separated by an entire album's worth of other material. The closing Part II had to feel like a genuine payoff to Part I, not just a longer reprise. This kind of structural awareness — knowing what a drumming decision now means for the piece 12 minutes from now — is compositional thinking, not just technical proficiency.
+
+**DW 9000 Dynamic Range:**
+The return to DW after the Pearl Eliminator era brought a different pedal philosophy: smoother, more sensitive, with finer dynamic gradation available. This was critical for an album that required full-velocity assault on "The Dark Eternal Night" and measured, precise control on "Repentance" within the same listening session. The 9000's adjustable spring tension allowed Portnoy to find a middle-ground feel that could go either direction without a pedal change.
+
+**Bubinga-to-Maple Contrast:**
+Drummers studying this album in contrast to *Scenes from a Memory* will notice the fundamental character change that comes from Bubinga vs. Maple shells: the *Systematic Chaos* kit sounds physically tighter, more defined, and more aggressive in its attack, while the SFaM kit sounds warmer and more sustained. Neither is better — they are different tools for different musical purposes, and Portnoy made the right choice for each album's context.`,
+      keyTechniques: [
+        'Odd-time grooves at maximum velocity — "The Dark Eternal Night" and "Constant Motion"',
+        'Extended epic drumming across the 25-minute "In the Presence of Enemies" arc',
+        'DW 9000 calibrated for full-velocity metal and dynamic prog within the same album',
+        'Bubinga shells provide sharper transients and tighter decay suited to the aggressive material',
+        'Compositional drumming within long-form progressive structures — each decision serves the arc'
+      ]
+    },
+    faq: [
+      {
+        question: 'What drums does Mike Portnoy use on Systematic Chaos?',
+        answer: "Mike Portnoy recorded Systematic Chaos (2007) on a Tama Starclassic Bubinga kit — a significant upgrade from the Starclassic Maple he had played since the Scenes from a Memory era. The configuration maintained approximately 13 drums: double 22\"x18\" bass drums, five rack toms (8\", 10\", 12\", 13\", 14\"), and three floor toms (14\", 16\", 18\"). Bubinga is a denser, harder African hardwood than maple — it produces sharper attack, tighter decay, and more articulate transients. This shift in shell material is one of the key differentiators between the Systematic Chaos sound and earlier Dream Theater recordings. For his full gear history, see the [Mike Portnoy drummer profile](/drummer/mike-portnoy)."
+      },
+      {
+        question: 'How does the Systematic Chaos kit differ from Scenes from a Memory?',
+        answer: "The two setups reflect fundamentally different eras. Key differences: (1) Shell material — Tama Starclassic Bubinga (Systematic Chaos) vs. Tama Starclassic Maple (Scenes from a Memory); bubinga is denser and sharper-attacking, maple is warmer and more sustained. (2) Cymbals — Sabian HHX Evolution (dark, complex, hand-hammered) vs. Sabian Artisan (also dark, but more vintage-voiced). (3) Pedals — DW 9000 (smooth, roller-bearing cam) vs. DW 5000 (chain-drive). (4) Kit size — ~13 drums (Systematic Chaos) vs. 8 drums (Scenes from a Memory). The Scenes from a Memory setup was optimized for narrative concept-album dynamics; the Systematic Chaos setup was optimized for maximum prog-metal versatility. See the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup) for the full SFaM breakdown."
+      },
+      {
+        question: 'What makes In the Presence of Enemies hard to drum?',
+        answer: "\"In the Presence of Enemies\" is one of the most challenging pieces in Mike Portnoy's Dream Theater catalog for several reasons: (1) Odd-time fluency at high intensity — the track demands deep internalization of complex time signatures without the groove becoming mechanical or hesitant; (2) Extended form — Part I (8:44) and Part II (16:38) together total nearly 25 minutes of music, requiring sustained concentration, physical endurance, and compositional awareness across an album's worth of separation; (3) Dynamic range within the epic — the track moves from atmospheric, restrained passages to full-velocity prog metal without losing narrative coherence; (4) Structural responsibility — as the bookend pieces, Parts I and II must feel thematically connected even when performed years apart in a live set. For drummers, the piece is a test of technique, endurance, odd-time mastery, and musical storytelling simultaneously."
+      },
+      {
+        question: 'What cymbals did Mike Portnoy use on Systematic Chaos?',
+        answer: "For Systematic Chaos (2007), Mike Portnoy used Sabian HHX Evolution cymbals — a shift from the Sabian AAX Series he had played on Train of Thought (2003). The HHX Evolution series is hand-hammered with a raw finish, producing a darker, more complex sound with richer overtone wash compared to the bright, machine-hammered AAX line. His setup included HHX Evolution 14\" hi-hats, crashes at 16\", 17\", 18\", and 19\", a 21\" Evolution Ride, and an 18\" HHX Chinese cymbal. The darker character of the HHX Evolution cymbals suited the album's blend of progressive complexity and metal aggression — neither purely bright like the AAX era nor as warmly vintage as the Artisan cymbals of Scenes from a Memory."
+      },
+      {
+        question: 'Was Systematic Chaos nominated for a Grammy?',
+        answer: "Yes. Dream Theater received a Grammy nomination for Best Metal Performance at the 50th Grammy Awards (February 2008) for \"The Dark Eternal Night\" from Systematic Chaos. It was the band's first Grammy nomination and remains their most prominent recognition from the Recording Academy. \"The Dark Eternal Night\" features some of Portnoy's most demanding drumming — relentless double-bass patterns beneath technically complex odd-time riffing. The Grammy context has driven sustained search interest for \"dream theater systematic chaos drums\" and \"mike portnoy 2007 kit\" queries. For the complete story of Portnoy's kit on this album, see the full [Systematic Chaos drum setup article](/articles/systematic-chaos-drum-setup)."
+      }
+    ],
+    quotes: [
+      { text: "Systematic Chaos is the album where everything we'd been building toward finally came together — the heaviness of Train of Thought, the progressive depth of Scenes, and something new that pushed beyond both.", source: 'Modern Drummer Magazine', year: 2007 },
+      { text: "The Bubinga kit changed everything for me. It's not a subtle shift — those shells speak differently, and the album sounds different because of them.", source: 'Rhythm Magazine', year: 2007 },
+      { text: "Getting the Grammy nomination for 'The Dark Eternal Night' meant the world to us. That track was us pushing progressive metal as far into aggressive territory as we'd ever gone.", source: 'Drum! Magazine', year: 2008 }
+    ],
+    evolution: {
+      title: "From Systematic Chaos to Black Clouds: Portnoy's Final Chapter",
+      content: `*Systematic Chaos* represents the peak synthesis of Mike Portnoy's Dream Theater career — the point where his gear, technique, and musical ambition were most completely aligned. The Tama Starclassic Bubinga kit, Sabian HHX Evolution cymbals, and DW 9000 pedals were a coherent system built for an album that demanded both maximum heaviness and maximum prog sophistication simultaneously.
+
+**After Systematic Chaos:**
+Dream Theater followed with *Black Clouds & Silver Linings* in 2009 — Portnoy's final album before his departure in September 2010. The Bubinga / HHX Evolution / DW 9000 platform continued into that record, making *Systematic Chaos* the beginning of Portnoy's final gear chapter with the band.
+
+**The Bubinga Legacy:**
+The transition from Starclassic Maple to Starclassic Bubinga marked a permanent shift in Portnoy's shell philosophy during his Dream Theater years. The bubinga's sharper, more articulate character suited the increasingly complex and aggressive material of the late-career albums. He never returned to the maple platform for Dream Theater studio work.
+
+**Comparing to Train of Thought:**
+The contrast between the Sabian AAX / Pearl Eliminator / Starclassic Maple configuration of *Train of Thought* (2003) and the Sabian HHX Evolution / DW 9000 / Starclassic Bubinga setup of *Systematic Chaos* (2007) illustrates the evolution in Portnoy's gear philosophy across the mid-decade period. The older setup was maximally heavy; the newer setup was maximally versatile. See the [Train of Thought drum setup article](/articles/train-of-thought-drum-setup) for the full 2003 breakdown.
+
+**Mike Mangini and the Next Chapter:**
+Mike Portnoy left Dream Theater in September 2010. Mike Mangini joined in April 2011, bringing Pearl Masterworks shells and Meinl Byzance cymbals — a complete departure from the Portnoy era. See the [A Dramatic Turn of Events drum setup article](/articles/a-dramatic-turn-of-events-drum-setup) for the Mangini era breakdown.`,
+      thenVsNow: [
+        { category: 'Kit', then: 'Tama Starclassic Bubinga (~13 drums)', now: 'Tama Starclassic Bubinga / Maple (various)' },
+        { category: 'Snare', then: 'Tama Starclassic Bubinga 14"x6.5"', now: 'Tama Mike Portnoy Signature' },
+        { category: 'Cymbals', then: 'Sabian HHX Evolution Series', now: 'Sabian (various signature models)' },
+        { category: 'Pedals', then: 'DW 9000 Double Pedal', now: 'DW 9002 Double Pedal' },
+        { category: 'Sticks', then: 'Vic Firth Mike Portnoy Signature', now: 'Vic Firth Mike Portnoy Signature' }
+      ]
+    },
+    videos: [],
+    relatedAlbums: ['train-of-thought-drum-setup', 'scenes-from-a-memory-drum-setup'],
+    relatedDrummers: [14, 5, 1],
+    relatedArticles: ['progressive-metal-drummers', 'whats-in-mike-portnoys-kit'],
+    relatedLicks: [
+      { drummerSlug: 'mike-portnoy', lickSlug: 'mike-portnoy-dance-of-eternity-breakdown', label: "Watch Mike Portnoy's 'Dance of Eternity' breakdown" },
+    ],
+    conclusion: {
+      title: "The Grammy-Nominated Peak: Why Systematic Chaos Still Matters",
+      content: `*Systematic Chaos* is the album that proved Mike Portnoy could do everything at once — play the heaviest music of his career while maintaining the progressive complexity that defined Dream Theater's identity, all within a 77-minute record that holds together as a coherent artistic statement from beginning to end.
+
+The Grammy nomination for "The Dark Eternal Night" wasn't just a recognition of the album's heaviness. It was a recognition that Dream Theater had achieved something genuinely singular: progressive metal that was also genuinely extreme. Portnoy's drumming was central to that achievement — the bubinga shells' tight attack, the HHX Evolution cymbals' complex wash, and the DW 9000's dynamic sensitivity created a drum sound that could serve both "Constant Motion" and "Repentance" without compromise.
+
+**For drummers studying this album:**
+- Tama Starclassic Bubinga demonstrates that shell material is not cosmetic — it fundamentally changes how a kit speaks
+- Sabian HHX Evolution shows how cymbal series voice affects the entire character of a recorded performance
+- "The Dark Eternal Night" is a masterclass in odd-time groove at maximum velocity
+- "In the Presence of Enemies" is the standard for extended-form compositional drumming
+- DW 9000's dynamic sensitivity proves that pedal feel matters as much as pedal power
+
+*Systematic Chaos* turned 18 years old in 2025, and it remains the definitive statement of Portnoy's final Dream Theater era. The Grammy nomination brought new listeners to a band that had long deserved the recognition — and the drum performance that drove that nomination holds up as one of the finest recorded in progressive metal history.
+
+For the heavy pivot that preceded this, see the [Train of Thought drum setup article](/articles/train-of-thought-drum-setup). For Portnoy's complete story with Dream Theater, visit the [Mike Portnoy drummer profile](/drummer/mike-portnoy). For the prog foundation that started it all, see the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup).`
+    }
+  },
+
   // What's In Mario Duplantier's Environmental Kit - Gojira
   'whats-in-mario-duplantiers-kit': {
     slug: 'whats-in-mario-duplantiers-kit',

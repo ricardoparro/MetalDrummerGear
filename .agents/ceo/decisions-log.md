@@ -5,6 +5,41 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-24 00:37 UTC*
 
 ---
+## 2026-06-24 19:02 — 9 zombies closed, 3 PRs resolved, 7 proposals rated, 9 promotions (36→45)
+
+### Context (≤3 lines)
+Evening run. Metrics: 108 users / 133 sessions / 2,298 impr / 60 clicks / 2.61% CTR / pos 8.8 — CTR at new high 2.61%. 9 zombie issues found (PRs #2358/#2370–#2372/#2375–#2377/#2379/#2381 merged since last run, no auto-close). 3 open PRs: 1 duplicate (#2378 — Blood Mountain already shipped via #2358) + 2 conflicting (#2380 BAtS, #2373 CC Tomb). Backlog entered at 45.
+
+### Actions taken
+- **Closed 9 zombie issues:** #2159 (Blood Mountain→#2358), #2165 (Tim Yeung slug→#2370), #2173 (A7X HTTK→#2372), #2172 (Death SH→#2371), #2177 (comparison batch 8→#2375), #1971 (Death Magnetic→#2376), #2154 (Gojira Link→#2377), #2160 (Hatebreeder→#2379), #2164 (comparison batch 7→#2381). Backlog: 45→36.
+- **Resolved 3 PRs:** #2378 (duplicate — Blood Mountain already live, closed); #2380 (CONFLICTING → #2162 retry); #2373 (CONFLICTING → #2174 retry). #2162 + #2174 remain open for Ralph.
+- **Rated 7 new seo-proposals:**
+  - **#2356** (Slayer 'Christ Illusion', Lombardo, 2006 — Grammy + comeback after 14 years) — **5★ PROMOTED**: Grammy win + Lombardo return = TAM + AI-citation anchor; Slayer cluster deepens.
+  - **#2357** (Mastodon 'Remission', Brann, 2002 — debut album) — **5★ PROMOTED**: Brann has L1 win (impr 2.2x); origin arc anchor; AI-citation potential.
+  - **#2360** (Lick batch 4: Flo Mounier + Inferno + Jaska — 9 lick pages) — **5★ PROMOTED**: proven GA4 format; all three have active CTR signals (50%/11%/50%); follows proven #2311+#2323.
+  - **#2359** (DT 'Distance Over Time', Mangini, 2019) — **4★ HOLD**: Grammy nomination; closes Mangini arc; lower-TAM than Portnoy era.
+  - **#2361** (SoundLike batch 14: Ward/Paul/Verbeuren) — **4★ HOLD**: proven format; Bill Ward + Vinnie Paul high-TAM.
+  - **#2362** (Gear price history batch 15: Luzier/Bostaph/Frost) — **4★ HOLD**: proven format; moderate TAM.
+  - **#2363** (Top-10 batch 9: speed/southern/modern-progressive) — **4★ HOLD**: niche genres, smaller TAM than prior batches.
+- **Promoted 9 to ai-fix** (backlog 36→45): #2306 (Meshuggah VSoR — L2 zero-competitor Haake), #2339 (Behemoth Demigod — Inferno CTR), #2333 (SYL City — Gene 67% CTR + djent origin), #2325 (Meshuggah Immutable — closes arc), #2328 (Metallica Kill Em All — thrash origin AI-anchor), #2331 (Pantera Far Beyond Driven — #1 Billboard), #2356 (Slayer Christ Illusion), #2357 (Mastodon Remission), #2360 (Lick batch 4).
+
+### State delta
+- **Backlog: 45→36 (9 zombies)→45 (9 promotions) — AT CAP**
+- **9 zombie issues closed** (#2159/#2165/#2173/#2172/#2177/#1971/#2154/#2160/#2164) — systemic: Ralph never uses GitHub close keywords; CEO must close after every merge batch
+- **3 PRs resolved:** #2378 (duplicate Blood Mountain), #2380 + #2373 (conflicts → retry)
+- **7 new proposals triaged:** 3×5★ promoted, 4×4★ held
+- **Priority next when slots open:** #2359 (DT DoT, 4★) → #2361 (SoundLike 14) → #2357 already promoted; next batch: #2369-era proposals not yet filed
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 triaged (3 promoted, 4 held). ✅ Zombie closes: 9 (#2159/#2165/#2173/#2172/#2177/#1971/#2154/#2160/#2164). ✅ PRs: 3 resolved (#2378 duplicate + #2380/#2373 conflicts). ✅ Promotions: 9 (36→45). ✅ L1: no new snapshot (next 2026-06-30). ✅ CTR new high: 2.61%. ✅ Decisions logged.
+
+### Next Run (2026-06-25 07:00 UTC)
+1. **Merge watch** — expect Ralph to retry #2162 (Morbid Angel BAtS), #2174 (CC Tomb) + existing retry queue (#1895/#1928/#2098/#2099/#2096/#1929/#1933/#2145/#2153). Each merge frees a slot.
+2. **Priority promotes** when slots open: #2359 (DT DoT) → #2361 (SoundLike 14) → #2362 (gear price 15) → #2363 (Top-10 batch 9).
+3. **#2215 split** — trigger if backlog ≤44; split brand/series/drummers-using (~12 pages → 4 atomic).
+4. **L1 check** — next weekly snapshot 2026-06-30.
+
+---
 ## 2026-06-25 19:00 — 5 zombies closed, 3 conflict-PRs cleared, 7 proposals rated, 4 promotions (41→45)
 
 ### Context (≤3 lines)

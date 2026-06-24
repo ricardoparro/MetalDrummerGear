@@ -39,6 +39,14 @@ const PROVIDER_FILTER = argv('providers', '').split(',').filter(Boolean);
 const PER_QUERY_DELAY_MS = parseInt(argv('delay', '1500'), 10);
 const PER_REQUEST_TIMEOUT_MS = parseInt(argv('timeout', '60000'), 10);
 
+// L2 v2: auto-merge GSC top-impressions queries with the hand-curated targets,
+// so we close the loop with L1 (the same queries that get organic traffic also
+// get tested for LLM citation). Flags below tune the merge.
+const GSC_HISTORY_DIR = argv('gsc-history-dir', '.agents/seo/gsc-history');
+const GSC_MIN_IMPRESSIONS = parseInt(argv('gsc-min-impressions', '5'), 10);
+const GSC_MAX_POSITION = parseFloat(argv('gsc-max-position', '20'));
+const TOTAL_CAP = parseInt(argv('cap', '100'), 10);
+
 const US_DOMAIN = 'metalforge.io';
 
 function log(msg) { process.stderr.write(`[llm-citations] ${msg}\n`); }
@@ -125,6 +133,59 @@ function detectInBody(body, needle) {
   return body.toLowerCase().includes(needle.toLowerCase());
 }
 
+// Find the most recent gsc-history JSON and return the eligible queries
+// (impressions ≥ GSC_MIN_IMPRESSIONS, position ≤ GSC_MAX_POSITION) ordered by
+// impressions desc. Returns [] if no history file exists yet.
+function loadGSCDerivedQueries() {
+  if (!fs.existsSync(GSC_HISTORY_DIR)) return [];
+  const files = fs.readdirSync(GSC_HISTORY_DIR)
+    .filter(f => /^\d{4}-\d{2}-\d{2}\.json$/.test(f))
+    .sort();
+  if (files.length === 0) return [];
+  const last = files[files.length - 1];
+  let data;
+  try { data = JSON.parse(fs.readFileSync(path.join(GSC_HISTORY_DIR, last), 'utf8')); }
+  catch (e) { log(`WARN: cannot parse gsc-history/${last}: ${e.message}`); return []; }
+  const queries = data.queries || {};
+  const out = [];
+  for (const [q, m] of Object.entries(queries)) {
+    if ((m.impressions || 0) < GSC_MIN_IMPRESSIONS) continue;
+    if (m.position == null || m.position > GSC_MAX_POSITION) continue;
+    out.push({
+      q,
+      intent: 'gsc-derived',
+      target_entity: '',
+      priority: 'medium',
+      _gsc: { impressions: m.impressions, position: m.position, clicks: m.clicks, ctr: m.ctr },
+    });
+  }
+  out.sort((a, b) => b._gsc.impressions - a._gsc.impressions);
+  log(`gsc-history/${last}: ${out.length} queries pass filter (impr≥${GSC_MIN_IMPRESSIONS}, pos≤${GSC_MAX_POSITION})`);
+  return out;
+}
+
+// Merge hand-curated targets (always kept) with GSC-derived queries, dedupe by
+// normalized query string (lowercase, trimmed), respect the global cap.
+function mergeQueries(curated, gscDerived, cap) {
+  const seen = new Set();
+  const norm = s => s.toLowerCase().trim();
+  const merged = [];
+  // Curated first — always kept (brand, manual overrides, new pages not in GSC yet).
+  for (const t of curated) {
+    if (seen.has(norm(t.q))) continue;
+    seen.add(norm(t.q));
+    merged.push({ ...t, _source: 'curated' });
+  }
+  // Then top GSC-derived, in impressions-desc order, until cap.
+  for (const t of gscDerived) {
+    if (merged.length >= cap) break;
+    if (seen.has(norm(t.q))) continue;
+    seen.add(norm(t.q));
+    merged.push({ ...t, _source: 'gsc' });
+  }
+  return merged;
+}
+
 (async () => {
   let config;
   try {
@@ -133,13 +194,17 @@ function detectInBody(body, needle) {
     log(`FATAL: cannot read targets ${TARGETS_FILE}: ${e.message}`);
     process.exit(1);
   }
-  const queries = Array.isArray(config.queries) ? config.queries : [];
+  const curated = Array.isArray(config.queries) ? config.queries : [];
   const competitors = Array.isArray(config._competitors) ? config._competitors : [];
 
+  const gscDerived = loadGSCDerivedQueries();
+  const queries = mergeQueries(curated, gscDerived, TOTAL_CAP);
+
   if (queries.length === 0) {
-    log('FATAL: targets file has no queries.');
+    log('FATAL: no queries to test (curated empty AND no eligible gsc-history).');
     process.exit(1);
   }
+  log(`queries: ${queries.length} total (curated=${curated.length}, gsc-derived merged=${queries.filter(q => q._source === 'gsc').length}, cap=${TOTAL_CAP})`);
 
   const { usable, skipped } = pickProviders();
   if (usable.length === 0) {
@@ -147,7 +212,7 @@ function detectInBody(body, needle) {
     process.exit(1);
   }
   log(`providers: ${usable.map(p => p.name).join(', ')}${skipped.length ? ` (skipped: ${skipped.map(s => s.name).join(', ')})` : ''}`);
-  log(`queries: ${queries.length}, competitors: ${competitors.length}`);
+  log(`competitors tracked: ${competitors.length}`);
 
   const results = [];
   for (let i = 0; i < queries.length; i++) {

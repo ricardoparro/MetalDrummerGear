@@ -14,8 +14,9 @@ It is the **only loop** in this repo so far that puts an LLM in the verifier sea
 
 | File | Role |
 | --- | --- |
-| `.agents/llm-citation-targets.json` | The query list. Edit freely — re-read every run. Includes a `_competitors` allowlist used to flag which rival sites win the queries we lose. |
-| `.agents/scripts/check-llm-citations.cjs` | Pure crawler. For each query, fires every configured provider, parses body + citations, classifies into `us` / `competitor` / `other`. No GitHub calls. |
+| `.agents/llm-citation-targets.json` | **Hand-curated override list.** Brand queries, new pages not yet in GSC, future bets. Edit freely — re-read every run. Includes a `_competitors` allowlist used to flag which rival sites win the queries we lose. |
+| `.agents/seo/gsc-history/<latest>.json` | **Auto-source.** v2 reads the most recent L1 snapshot and pulls every query with ≥5 impressions AND position ≤20. So queries with real organic traffic are auto-tested for LLM citation — no manual curation. |
+| `.agents/scripts/check-llm-citations.cjs` | Pure crawler. Merges curated + GSC-derived (deduped, capped at 100 total, sorted by impressions desc). For each query, fires every configured provider, parses body + citations, classifies into `us` / `competitor` / `other`. No GitHub calls. |
 | `.agents/scripts/render-llm-citation-issue.cjs` | Pure transform. JSON report → Markdown issue body, split into ❌ Not cited / ✅ Cited / ⚠️ Errored. |
 | `.github/workflows/check-llm-citations.yml` | Mutator. Cron `30 7 * * 1` (Mondays 07:30 UTC) + `workflow_dispatch`. Opens / edits / closes the umbrella issue. |
 
@@ -70,6 +71,20 @@ Flags on the crawler:
 ## Adding more providers
 
 Each provider is a function `(query) -> { body, citations[] }` registered in the `PROVIDERS` table in `.agents/scripts/check-llm-citations.cjs`. To add OpenAI's Responses API with `web_search`, or Claude with web search, follow the same shape. The renderer auto-adapts: every provider becomes a column in the "Not cited" table.
+
+## How the GSC merge works (v2)
+
+L2 closes the loop with L1: any query that's getting Google organic traffic is automatically tested for LLM citation too, so you measure both channels for the same intent. The script:
+
+1. Reads `.agents/llm-citation-targets.json` (curated — always kept).
+2. Reads the most recent file in `.agents/seo/gsc-history/`.
+3. Filters GSC queries: `impressions ≥ 5` AND `position ≤ 20` (configurable via `--gsc-min-impressions` and `--gsc-max-position`).
+4. Sorts GSC-eligible by impressions descending.
+5. Merges curated + GSC-derived, dedupes by lowercase query string, caps at 100 total (`--cap`).
+
+With ~186 queries in a typical week's GSC, ~40 pass the filter. Combined with 25 curated → ~65 queries tested per run.
+
+If the gsc-history directory doesn't exist yet (first time, or L1 hasn't run), the script falls back gracefully to curated-only and logs that it would have merged more.
 
 ## Cost model
 

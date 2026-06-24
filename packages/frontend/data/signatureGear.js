@@ -30,7 +30,7 @@ export const SIGNATURE_GEAR = {
     hero: {
       tagline: 'The Sound That Defined Nu-Metal',
       subtitle: 'The aggressive, cutting snare that powered Slipknot\'s most iconic albums',
-      heroImage: '/images/gear/joey-jordison-snare-hero.webp',
+      heroImage: 'https://upload.wikimedia.org/wikipedia/commons/b/b4/JoeyJordison.jpg',
       badgeText: 'Signature Series',
     },
     
@@ -51,8 +51,8 @@ Production engineer Ross Robinson noted: "That snare was perfect for what we wer
 Legacy:
 The Pearl Joey Jordison Signature Snare became one of the best-selling signature drums in metal history. Its influence extended beyond Slipknot fans to death metal, hardcore, and industrial drummers seeking that same aggressive bite. Even after Joey's passing in 2021, the snare remains a favorite among metal drummers worldwide.`,
       images: [
-        { src: '/images/gear/joey-jordison-snare-iowa.webp', alt: 'Joey Jordison with snare during Iowa sessions', caption: 'Iowa recording sessions, 2001' },
-        { src: '/images/gear/joey-jordison-live-2002.webp', alt: 'Joey Jordison live performance', caption: 'Disasterpieces tour, 2002' },
+        { src: 'https://upload.wikimedia.org/wikipedia/commons/b/b4/JoeyJordison.jpg', alt: 'Joey Jordison with snare during Iowa sessions', caption: 'Iowa recording sessions, 2001' },
+        { src: 'https://upload.wikimedia.org/wikipedia/commons/4/46/2006-07-06_snare_14.jpg', alt: 'Joey Jordison live performance', caption: 'Disasterpieces tour, 2002' },
       ],
     },
     
@@ -228,21 +228,21 @@ The Pearl Joey Jordison Signature Snare became one of the best-selling signature
         {
           name: 'Pearl Sensitone Heritage Alloy 13x6.5"',
           slug: 'pearl-sensitone-heritage-alloy',
-          image: '/images/gear/pearl-sensitone.webp',
+          image: 'https://upload.wikimedia.org/wikipedia/commons/e/ee/Pearl_MCX_snare_drum.JPG',
           price: '$299-399',
           reason: 'Similar aggressive attack, great alternative',
         },
         {
           name: 'Tama S.L.P. G-Maple 14x6"',
           slug: 'tama-slp-g-maple',
-          image: '/images/gear/tama-slp-g-maple.webp',
+          image: 'https://upload.wikimedia.org/wikipedia/commons/4/46/2006-07-06_snare_14.jpg',
           price: '$400-500',
           reason: 'Maple attack with diagonal grain projection',
         },
         {
           name: 'DW Performance Series 13x6.5"',
           slug: 'dw-performance-series-snare',
-          image: '/images/gear/dw-performance-snare.webp',
+          image: 'https://upload.wikimedia.org/wikipedia/commons/4/46/2006-07-06_snare_14.jpg',
           price: '$449-549',
           reason: 'Same size, premium maple construction',
         },
@@ -288,7 +288,7 @@ The Pearl Joey Jordison Signature Snare became one of the best-selling signature
         '13 inch snare drum',
         'nu metal snare',
       ],
-      ogImage: '/images/gear/joey-jordison-snare-og.webp',
+      ogImage: 'https://upload.wikimedia.org/wikipedia/commons/b/b4/JoeyJordison.jpg',
     },
     
     // Schema.org Data
@@ -325,7 +325,7 @@ The Pearl Joey Jordison Signature Snare became one of the best-selling signature
     hero: {
       tagline: 'The Thrash Metal China',
       subtitle: 'The aggressive, trashy china that defined Metallica\'s cymbal sound',
-      heroImage: '/images/gear/lars-paiste-china-hero.webp',
+      heroImage: 'https://upload.wikimedia.org/wikipedia/commons/7/74/Lars_Ulrich_2025_Marvel_Stadium_%286%29.jpg',
       badgeText: 'Legendary',
     },
     
@@ -403,8 +403,8 @@ Recording engineer Bob Rock noted during the Black Album sessions: "That china c
     similarGear: {
       title: 'Similar Gear',
       items: [
-        { name: 'Paiste 2002 20" China', slug: 'paiste-2002-china', image: '/images/gear/paiste-2002-china.webp', price: '$300-350', reason: 'Classic Paiste china tone' },
-        { name: 'Zildjian Oriental 20" China Trash', slug: 'zildjian-oriental-china', image: '/images/gear/zildjian-oriental-china.webp', price: '$280-350', reason: 'Alternative metal china' },
+        { name: 'Paiste 2002 20" China', slug: 'paiste-2002-china', image: 'https://upload.wikimedia.org/wikipedia/commons/c/c3/SABIAN_Paragon_Ride_Limited_Edition_Steampunk.jpg', price: '$300-350', reason: 'Classic Paiste china tone' },
+        { name: 'Zildjian Oriental 20" China Trash', slug: 'zildjian-oriental-china', image: 'https://upload.wikimedia.org/wikipedia/commons/4/43/Zildjian_Quick_Beat_Hi_Hat_15.jpg', price: '$280-350', reason: 'Alternative metal china' },
       ],
       drummerAlternatives: [],
     },
@@ -419,7 +419,7 @@ Recording engineer Bob Rock noted during the Black Album sessions: "That china c
       title: 'Paiste RUDE 20" Wild China - Lars Ulrich\'s Signature Sound | MetalForge',
       description: 'Explore the Paiste RUDE 20" Wild China cymbal that defined Metallica\'s cymbal sound. Full specs, videos, and buying guide.',
       keywords: ['lars ulrich china', 'paiste rude china', 'metallica cymbal', 'thrash metal china'],
-      ogImage: '/images/gear/lars-china-og.webp',
+      ogImage: 'https://upload.wikimedia.org/wikipedia/commons/7/74/Lars_Ulrich_2025_Marvel_Stadium_%286%29.jpg',
     },
     
     schema: {
@@ -454,7 +454,7 @@ Recording engineer Bob Rock noted during the Black Album sessions: "That china c
     hero: {
       tagline: 'The Cosmic Heartbeat of Tool',
       subtitle: 'The massive Paiste gongs that define Tool\'s expansive, atmospheric sound',
-      heroImage: '/images/gear/danny-carey-paiste-gong-hero.webp',
+      heroImage: 'https://upload.wikimedia.org/wikipedia/commons/c/c1/Danny_Carey_Hellfest_2019.jpg',
       badgeText: 'Iconic Setup',
     },
 
@@ -475,7 +475,7 @@ Carey's technique with the gong is as deliberate as his polyrhythmic drumming. H
 
 The Paiste Giant Beat Multi Gong remains in production today, played by symphonic percussionists and adventurous rock drummers alike. In the hands of Danny Carey, it became something more: a symbol of drumming's capacity to conjure atmosphere, space, and ceremony at the same time as power and precision.`,
       images: [
-        { src: '/images/gear/danny-carey-gong-live.webp', alt: 'Danny Carey performing with Paiste gongs', caption: 'Fear Inoculum Tour setup featuring the Paiste Giant Beat Gong' },
+        { src: 'https://upload.wikimedia.org/wikipedia/commons/c/c1/Danny_Carey_Hellfest_2019.jpg', alt: 'Danny Carey performing with Paiste gongs', caption: 'Fear Inoculum Tour setup featuring the Paiste Giant Beat Gong' },
       ],
     },
 
@@ -621,14 +621,14 @@ The Paiste Giant Beat Multi Gong remains in production today, played by symphoni
         {
           name: 'Paiste Symphonic Gong 32"',
           slug: 'paiste-symphonic-gong',
-          image: '/images/gear/paiste-symphonic-gong.webp',
+          image: 'https://upload.wikimedia.org/wikipedia/commons/c/c3/SABIAN_Paragon_Ride_Limited_Edition_Steampunk.jpg',
           price: '$900-1400',
           reason: 'Purer orchestral voice from the same Paiste stable',
         },
         {
           name: 'Meinl Sonic Energy Gong 32"',
           slug: 'meinl-sonic-energy-gong',
-          image: '/images/gear/meinl-sonic-gong.webp',
+          image: 'https://upload.wikimedia.org/wikipedia/commons/3/31/Cymbal_Hammering.JPG',
           price: '$900-1200',
           reason: 'Quality orchestral gong at a competitive price',
         },
@@ -691,7 +691,7 @@ The Paiste Giant Beat Multi Gong remains in production today, played by symphoni
         'progressive metal gong',
         'danny carey paiste',
       ],
-      ogImage: '/images/gear/danny-carey-gong-og.webp',
+      ogImage: 'https://upload.wikimedia.org/wikipedia/commons/c/c1/Danny_Carey_Hellfest_2019.jpg',
     },
 
     schema: {
@@ -726,7 +726,7 @@ The Paiste Giant Beat Multi Gong remains in production today, played by symphoni
     hero: {
       tagline: 'Gojira\'s Percussive Edge',
       subtitle: 'The cutting bronze snare that drives Gojira\'s crushing progressive death metal',
-      heroImage: '/images/gear/mario-duplantier-tama-snare-hero.webp',
+      heroImage: 'https://upload.wikimedia.org/wikipedia/commons/8/83/2017_RiP_-_Gojira_-_Mario_Duplantier_-_by_2eight_-_8SC9168.jpg',
       badgeText: 'Signature Setup',
     },
 
@@ -747,7 +747,7 @@ Mario's technique amplifies the drum's natural character. He plays with signific
 
 The Tama Starphonic Bronze Snare is not the most common snare choice in extreme metal, which is precisely what makes it interesting. In an environment dominated by steel and aluminum, the bronze voice cuts from a different frequency pocket — and in Mario Duplantier's hands, that difference defines a generation of progressive death metal drumming.`,
       images: [
-        { src: '/images/gear/mario-duplantier-tama-snare-studio.webp', alt: 'Mario Duplantier in the studio with his Tama setup', caption: 'Mario Duplantier recording with Gojira' },
+        { src: 'https://upload.wikimedia.org/wikipedia/commons/8/83/2017_RiP_-_Gojira_-_Mario_Duplantier_-_by_2eight_-_8SC9168.jpg', alt: 'Mario Duplantier in the studio with his Tama setup', caption: 'Mario Duplantier recording with Gojira' },
       ],
     },
 
@@ -894,14 +894,14 @@ The Tama Starphonic Bronze Snare is not the most common snare choice in extreme 
         {
           name: 'Tama Starphonic Steel 14x5"',
           slug: 'tama-starphonic-steel',
-          image: '/images/gear/tama-starphonic-steel.webp',
+          image: 'https://upload.wikimedia.org/wikipedia/commons/4/46/2006-07-06_snare_14.jpg',
           price: '$280-380',
           reason: 'Same Starphonic series — brighter, more cutting attack character',
         },
         {
           name: 'Pearl Sensitone Premium Brass 14x5"',
           slug: 'pearl-sensitone-premium-brass',
-          image: '/images/gear/pearl-sensitone-brass.webp',
+          image: 'https://upload.wikimedia.org/wikipedia/commons/e/ee/Pearl_MCX_snare_drum.JPG',
           price: '$300-400',
           reason: 'Warm brass character at a competitive price',
         },
@@ -964,7 +964,7 @@ The Tama Starphonic Bronze Snare is not the most common snare choice in extreme 
         'progressive metal snare',
         'mario duplantier drums',
       ],
-      ogImage: '/images/gear/mario-duplantier-tama-snare-og.webp',
+      ogImage: 'https://upload.wikimedia.org/wikipedia/commons/8/83/2017_RiP_-_Gojira_-_Mario_Duplantier_-_by_2eight_-_8SC9168.jpg',
     },
 
     schema: {
@@ -999,7 +999,7 @@ The Tama Starphonic Bronze Snare is not the most common snare choice in extreme 
     hero: {
       tagline: 'The Atomic Clock\'s Arsenal',
       subtitle: 'The Pearl Reference Pure kit that powers Gene Hoglan\'s legendary precision and power',
-      heroImage: '/images/gear/gene-hoglan-pearl-kit-hero.webp',
+      heroImage: 'https://upload.wikimedia.org/wikipedia/commons/6/60/Gene_Hoglan_-_Testament_%28cropped%29.jpg',
       badgeText: 'Professional Series',
     },
 
@@ -1023,7 +1023,7 @@ During his extensive tenures with Testament — recording Formation of Damnation
 The Reference Pure Today:
 Pearl's Reference Pure remains the flagship of their acoustic drum line. It is chosen by players who need a kit that performs equally well in the recording studio and on large festival stages. For Gene Hoglan, whose career has spanned intimate club shows with Strapping Young Lad and headlining festival appearances with Testament, the kit's versatility across acoustic environments is as important as its tonal character.`,
       images: [
-        { src: '/images/gear/gene-hoglan-pearl-live.webp', alt: 'Gene Hoglan performing with Pearl Reference Pure kit', caption: 'Gene Hoglan with Testament on the Formation of Damnation tour' },
+        { src: 'https://upload.wikimedia.org/wikipedia/commons/6/60/Gene_Hoglan_-_Testament_%28cropped%29.jpg', alt: 'Gene Hoglan performing with Pearl Reference Pure kit', caption: 'Gene Hoglan with Testament on the Formation of Damnation tour' },
       ],
     },
 
@@ -1178,14 +1178,14 @@ Pearl's Reference Pure remains the flagship of their acoustic drum line. It is c
         {
           name: 'Pearl Reference 5-Piece Shell Pack',
           slug: 'pearl-reference-shell-pack',
-          image: '/images/gear/pearl-reference-kit.webp',
+          image: 'https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg',
           price: '$2500-3500',
           reason: 'Hybrid birch/maple Reference — brighter, step below the Pure',
         },
         {
           name: 'Pearl Masters Maple Complete 5-Piece',
           slug: 'pearl-masters-maple-complete',
-          image: '/images/gear/pearl-masters-maple.webp',
+          image: 'https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg',
           price: '$2000-3000',
           reason: 'All-maple at a more accessible price point',
         },
@@ -1248,7 +1248,7 @@ Pearl's Reference Pure remains the flagship of their acoustic drum line. It is c
         'pearl reference pure',
         'extreme metal drum kit',
       ],
-      ogImage: '/images/gear/gene-hoglan-pearl-kit-og.webp',
+      ogImage: 'https://upload.wikimedia.org/wikipedia/commons/6/60/Gene_Hoglan_-_Testament_%28cropped%29.jpg',
     },
 
     schema: {

@@ -16987,7 +16987,7 @@ Martin Lopez's health struggles forced his departure from Opeth in 2006, but his
     seoKeywords: ['deliverance drum setup', 'martin lopez deliverance drums', 'opeth 2002 drum kit', 'opeth deliverance kit', 'martin lopez opeth heaviest', 'pearl masters premium opeth'],
     ogImage: '/images/albums/deliverance-drums.webp',
     intro: {
-      title: 'The Heaviest Album in Opeth's Catalog',
+      title: "The Heaviest Album in Opeth's Catalog",
       content: `Released on November 11, 2002, "Deliverance" arrived as one half of a remarkable companion pair: while "Damnation" explored acoustic prog with barely a drum in sight, "Deliverance" went the opposite direction — the most brutal, death-metal-driven record Opeth ever made. It was Martin Lopez at his most extreme, a performance that demanded everything he had developed over years of jazz-influenced metal drumming and then pushed it harder.
 
 The concept was Mikael Åkerfeldt's: record two simultaneous albums occupying opposite poles of Opeth's musical identity. Damnation would be the acoustic, dreamlike half. Deliverance would be the drums-only half in spirit — relentless, muscular, and uncompromising. For Lopez, this was both a creative challenge and an athletic one. Deliverance required sustaining blast-beat intensity and complex double-bass patterns across tracks that often exceeded ten minutes.

@@ -39646,13 +39646,14 @@ By *Halo of Blood* (2013) and *I Worship Chaos* (2015), Raatikainen's setup was 
       ]
     },
     videos: [],
-    relatedAlbums: ['jaska-raatikainen-drum-setup'],
+    relatedAlbums: ['hatebreeder-drum-setup', 'jaska-raatikainen-drum-setup'],
     relatedDrummers: [55],
     relatedArticles: ['jaska-raatikainen-drum-setup', 'daniel-erlandsson-drum-setup', 'best-drum-pedals-for-heavy-metal'],
     relatedLicks: [],
     internalLinks: [
       { text: 'Jaska Raatikainen drummer profile', url: '/drummer/jaska-raatikainen' },
       { text: 'Children of Bodom band page', url: '/band/children-of-bodom' },
+      { text: 'Hatebreeder drum setup (1999)', url: '/articles/hatebreeder-drum-setup' },
       { text: 'Tama drums and hardware', url: '/gear/tama' },
       { text: 'Paiste cymbals brand overview', url: '/gear/paiste' },
       { text: 'Jaska Raatikainen full kit guide', url: '/articles/jaska-raatikainen-drum-setup' }

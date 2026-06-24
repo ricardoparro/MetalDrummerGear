@@ -287,6 +287,7 @@ const endorsementDrummers = [
 // Inflation-adjusted setup costs over time
 // Issue #1808: Phase 2 — Mike Portnoy, Gene Hoglan, Danny Carey
 // Issue #1818: Phase 3 — Tomas Haake, Pete Sandoval, Vinnie Paul
+// Issue #2100: Phase 4 — Igor Cavalera, Nicko McBrain, Matt Greiner
 const gearPriceHistoryDrummers = [
   'lars-ulrich',     // Kill 'Em All era (1983)
   'joey-jordison',   // Iowa era (2001)
@@ -297,6 +298,9 @@ const gearPriceHistoryDrummers = [
   'tomas-haake',     // Chaosphere era (1998)
   'pete-sandoval',   // Altars of Madness era (1989)
   'vinnie-paul',     // Cowboys from Hell era (1990)
+  'igor-cavalera',   // Roots era (1996)
+  'nicko-mcbrain',   // Powerslave era (1984)
+  'matt-greiner',    // Leveler era (2011)
 ];
 
 // Issue #1473: Individual /battles/<slug> pages — derive slugs from CURATED_MATCHUPS

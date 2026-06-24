@@ -39316,7 +39316,7 @@ At the center of *Hatebreeder*'s relentless momentum was Raatikainen, 19 years o
 
 *Hatebreeder* sits at the origin point of the Children of Bodom discovery cluster: it is the entry album for any listener tracing Jaska Raatikainen's career, the debut record that established the CoB sound, and the session that launched one of Finnish metal's most distinctive drummer-gear combinations. This article breaks down every component of Raatikainen's setup on *Hatebreeder* — the early Tama shells, the Zildjian A Series cymbal selection, the DW 5000 double pedal, and the stylistic approach that launched a career.`,
       keyPoints: [
-        'Recorded at Astia Studio, Imatra — Anssi Kippo's first major CoB production',
+        'Recorded at Astia Studio, Imatra — Anssi Kippo\'s first major CoB production',
         'Jaska Raatikainen, age 19 — early Tama configuration before the Starclassic era',
         'Zildjian A Series cymbals throughout — pre-endorsement, pre-Paiste period',
         'DW 5000 double pedal — chain-drive foundation for the neo-classical double-kick approach',
@@ -41585,7 +41585,8 @@ For the full Lars Ulrich gear story, see the [Lars Ulrich drummer profile](/drum
         }
       ]
     }
-  }
+  },
+
   'blood-mountain-drum-setup': {
     slug: 'blood-mountain-drum-setup',
     albumTitle: 'Blood Mountain',

@@ -5,6 +5,42 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-24 00:37 UTC*
 
 ---
+## 2026-06-25 07:00 — 9 PRs merged, #2150 split (4 atomic), 6 promotions (39→45)
+
+### Context (≤3 lines)
+Morning deep run. Ralph active overnight: 10 MERGEABLE PRs + 5 CONFLICTING opened since 19:00. Backlog entered at 45 (AT CAP); 9 merges opened 6 slots after split accounting (backlog 45→39). 7 new seo-proposals (#2268–#2275 minus #2272) filed 2026-06-24 00:49–00:51 UTC, missed in prior runs.
+
+### Actions taken
+- **Merged 11 PRs:** #2284 (LoG Sacrament/#1865), #2285 (Shannon Larkin Faceless/#2147), #2286 (Jay Weinberg Gray Chapter+WANYK/#1927), #2288 (Matt Greiner Leveler/#1875), #2289 (Jaska CoB Hate Crew/#1874), #2290 (Mikkey Dee Bastards/#1876), #2291 (FAQ 60 articles/#1889), #2294 (SoundLike Jay Weinberg/Mangini/Harrison/#1932), #2295 (broken images snares/#1872), #2301 (Bill Ward debut/#1893), #2296 (Slayer Show No Mercy/#1969). All 11 issues auto-closed ✅. Closed duplicate PR #2302 (Ralph re-filed #1872 already merged).
+- **Closed 7 conflicting PRs** with retry comments: #2292 (Brann CTS), #2293 (Lars St. Anger), #2287 (SoundLike batch 4), #2281 (JP AORT), #2277 (Metallica Hardwired), #2262 (Bostaph GHUA), #2259 (Menza Youthanasia). Issues remain open → Ralph will retry.
+- **Split #2150** (Comparison pairs batch 5 — 4 pairs + 4 LLM files, stale 5 days, 0 watcher activity): closed as not_planned. 4 atomic: #2297 (Gene Hoglan vs Tomas Haake), #2298 (Matt Greiner vs Matt Halpern), #2299 (Igor Cavalera vs Vinnie Paul), #2300 (Brann Dailor vs Gavin Harrison).
+- **Promoted 8 to ai-fix** (backlog held at 45): #2212 (LLM head-term prose gap), #2236 (Tomas Haake Catch 33 — zero-competitor L2), #2234 (Mike Portnoy Train of Thought — L2 gap), #2172 (Death Spiritual Healing), #2173 (A7X Hail to the King), #2268 (Mastodon Emperor of Sand — Grammy, Brann L1 signal), #2269 (DT Systematic Chaos — LLM, Grammy nomination), #2271 (SoundLike batch 12 — proven ✅ pattern).
+- **Rated 7 new proposals — all HOLD (cap AT 45):**
+  - **#2269** DT 'Systematic Chaos' (Portnoy, 2007 Grammy) — **5★ HOLD ⭐ LLM**: sequence after #2234 ToT ships; fills ToT→BC+SIN arc
+  - **#2271** SoundLike batch 12 (Garstka, Mikkey Dee, Reinert) — **5★ HOLD**: proven ✅ pattern; Mikkey Dee article just shipped = perfect timing
+  - **#2270** Iron Maiden AMOLAD (Nicko, 2006) — **4★ HOLD**: arc fill; less iconic than Powerslave/SiT
+  - **#2273** Gear price history batch 12 (Martin Lopez, Gavin Harrison, Flo Mounier) — **4★ HOLD**: proven format, moderate TAM
+  - **#2275** Top-10 batch 7 (djent/groove/modern) — **4★ HOLD**: djent AI-citation potential; proven list format
+  - **#2274** Comparison pairs batch 11 (Bostaph/Dette, Orbin/Koperweis, Mounier/Yeung) — **3★ HOLD**: niche tech-death, lower TAM than prior batches
+  - **#2268** — already promoted above
+
+### State delta
+- **PRs merged: 11** (2 bug fix + 8 article/content + 1 FAQ batch) — content live: LoG Sacrament, Shannon Larkin Faceless, Jay Weinberg Gray Chapter + WANYK ×2, Matt Greiner Leveler, Jaska CoB Hate Crew, Mikkey Dee Bastards, Bill Ward Sabbath debut, Slayer Show No Mercy, FAQ for 60 articles, snares bug fix
+- **Split #2150 closed:** #2297/#2298/#2299/#2300 (net backlog: 45→36 after merges/close→40 after split adds→45 after promotions)
+- **Backlog: 45 — AT CAP** (confirmed)
+- **Conflicting PRs queued for retry:** #1843 (Brann CTS), #1895 (Lars St. Anger), #2099 (SoundLike batch 4), #2098 (JP AORT), #2096 (Metallica Hardwired), #1933 (Bostaph GHUA), #1928 (Menza Youthanasia) — 7 issues remain open for Ralph
+- **Idea bank depth:** ~36 quality proposals parked (3×5★ new: #2269, #2271 + existing)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 new rated (all held — cap; #2268/#2269/#2271 promoted). ✅ PRs: 11 merged + 1 duplicate closed. ✅ Split: #2150 done (5 days stale). ✅ Promotions: 8 (backlog AT CAP throughout). ✅ L1: no new snapshot (next weekly 2026-06-30). ✅ No over-filing (0 L1/L2 ai-fix, splits operational). ✅ Decisions logged.
+
+### Next Run (2026-06-25 13:00 UTC)
+1. **Retry watch** — #1843/#1895/#2099/#2098/#2096/#1933/#1928 all open; expect Ralph to retry from clean main. Merge and close as they arrive.
+2. **Priority promotes** when slots open: #2269 (DT Systematic Chaos — LLM) → #2271 (SoundLike batch 12 — proven ✅) → #2173 already promoted; next: #2174 (CC Tomb) → #2175 (Trivium Shogun) → #2177 (comparison batch 8).
+3. **#2215 split** (brand/series/drummers-using ~12 pages) — needed before promotion; split into ~4 atomic issues when backlog ≤44.
+4. **L1 check** — next weekly snapshot 2026-06-30; note joey-jordison now baselining (impr 84, pos 8.5).
+
+---
 ## 2026-06-24 19:00 — 7 new proposals rated (all held — cap); backlog holds at 45
 
 ### Context (≤3 lines)

@@ -36178,6 +36178,111 @@ The internal links below provide the full context: the [Chris Adler drummer prof
 For any drummer seeking to master groove metal, Sacrament is required listening. Put "Walk with Me in Hell" on repeat. Feel the pocket. Then study how every cymbal choice, every ghost note, every kick pattern was chosen to serve that groove above all else.
 
 🤘 *The Grammy-era benchmark. Billboard #8. The NWOAHM at its peak.* 🤘`
+    },
+    internalLinks: [
+      { text: 'Chris Adler drummer profile', url: '/drummer/chris-adler' },
+      { text: 'Ashes of the Wake drum setup (2004)', url: '/articles/ashes-of-the-wake-drum-setup' },
+      { text: "What's In Chris Adler's Kit", url: '/articles/whats-in-chris-adlers-kit' },
+      { text: 'DW drums brand overview', url: '/gear/dw' },
+      { text: 'Zildjian cymbals brand overview', url: '/gear/zildjian' }
+    ],
+    sitemapPriority: 0.9,
+    schema: {
+      '@context': 'https://schema.org',
+      '@graph': [
+        {
+          '@type': 'Article',
+          headline: "Lamb of God 'Sacrament' Drum Setup — Chris Adler's 2006 Grammy-Era Kit",
+          description: "Explore Chris Adler's drum setup on Lamb of God's Grammy-nominated Sacrament (2006) — DW kit, Zildjian cymbals, groove metal technique.",
+          author: {
+            '@type': 'Organization',
+            name: 'MetalForge Editorial'
+          },
+          datePublished: '2026-06-20',
+          dateModified: '2026-06-20'
+        },
+        {
+          '@type': 'BreadcrumbList',
+          itemListElement: [
+            { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://metalforge.io/' },
+            { '@type': 'ListItem', position: 2, name: 'Articles', item: 'https://metalforge.io/articles' },
+            { '@type': 'ListItem', position: 3, name: "Lamb of God 'Sacrament' Drum Setup", item: 'https://metalforge.io/articles/sacrament-drum-setup' }
+          ]
+        },
+        {
+          '@type': 'MusicAlbum',
+          name: 'Sacrament',
+          byArtist: {
+            '@type': 'MusicGroup',
+            name: 'Lamb of God'
+          },
+          datePublished: '2006-08-22',
+          genre: 'Groove Metal',
+          recordLabel: {
+            '@type': 'Organization',
+            name: 'Epic Records'
+          },
+          track: [
+            { '@type': 'MusicRecording', name: 'Walk with Me in Hell' },
+            { '@type': 'MusicRecording', name: 'Again We Rise' },
+            { '@type': 'MusicRecording', name: 'Redneck' },
+            { '@type': 'MusicRecording', name: 'Pathetic' },
+            { '@type': 'MusicRecording', name: 'Descending' },
+            { '@type': 'MusicRecording', name: 'Blacken the Cursed Sun' },
+            { '@type': 'MusicRecording', name: 'Foot to the Throat' },
+            { '@type': 'MusicRecording', name: 'Request Denied' },
+            { '@type': 'MusicRecording', name: 'More Time to Kill' },
+            { '@type': 'MusicRecording', name: 'Beating on Death\'s Door' },
+            { '@type': 'MusicRecording', name: 'From the Window' }
+          ]
+        },
+        {
+          '@type': 'Person',
+          name: 'Chris Adler',
+          memberOf: {
+            '@type': 'MusicGroup',
+            name: 'Lamb of God'
+          },
+          instrument: 'Drums'
+        },
+        {
+          '@type': 'FAQPage',
+          mainEntity: [
+            {
+              '@type': 'Question',
+              name: 'What kit does Chris Adler use on Sacrament?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "On Sacrament (2006), Chris Adler used a DW Collector's Series drum kit with dual 22\"×18\" bass drums, 10\" and 12\" rack toms, and 14\" and 16\" floor toms. VLT maple shells."
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'What cymbals does Chris Adler use on Sacrament?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: 'Chris Adler used Zildjian A Custom cymbals on Sacrament: 13\" hi-hats, 16\"/17\"/18\" crashes, 20\" ride, 18\" China, and 10\" splash.'
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'Where was Lamb of God Sacrament recorded?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: 'Sacrament was recorded at Capitol Studios in Hollywood, California, produced by Machine (Mark Lewis) in 2006.'
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'What Grammy nomination did Sacrament earn?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: 'Lamb of God\'s "Redneck" from Sacrament was nominated for Grammy Award for Best Metal Performance at the 49th Grammy Awards (2007).'
+              }
+            }
+          ]
+        }
+      ]
     }
   },
 

@@ -267,6 +267,20 @@ The fundamental approach remains similar — punchy, aggressive, and focused —
       { drummerSlug: 'lars-ulrich', lickSlug: 'lars-ulrich-master-of-puppets-gallop', label: "Watch Lars Ulrich's 'Master of Puppets' gallop breakdown" },
     ],
     // Conclusion
+    faq: [
+      {
+        question: 'What drum kit did Lars Ulrich use on Master of Puppets?',
+        answer: 'Lars Ulrich recorded Master of Puppets in 1986 using a Camco Oaklawn Badge drum kit with maple shells and reinforcement rings. The configuration included a 22x14 inch bass drum, 12x8 and 13x9 inch rack toms, and a 16x16 inch floor tom. His snare was a Ludwig Supraphonic LM402 at 14x6.5 inches, a studio-favorite workhorse that contributed heavily to the punchy, cutting snare tone heard throughout the album.',
+      },
+      {
+        question: 'What cymbals did Lars Ulrich use on Master of Puppets?',
+        answer: 'Lars Ulrich used Zildjian A Series cymbals on Master of Puppets. His setup included Zildjian A 14 inch New Beat Hi-Hats, a 16 inch Medium Thin Crash, an 18 inch Medium Crash, a 20 inch Medium Ride, and an 18 inch China Boy. The Zildjian A Series delivered the bright, cutting tones that defined the thrash metal sound of the mid-1980s and remains one of the most iconic cymbal setups in metal history.',
+      },
+      {
+        question: 'How much does Lars Ulrich\'s Master of Puppets kit cost?',
+        answer: 'When Lars Ulrich recorded Master of Puppets in 1986, the Camco Oaklawn Badge kit would have cost approximately $2,000 to $4,000 new. Today, original vintage Camco kits from that era are highly collectible and typically fetch between $8,000 and $15,000 depending on condition. The Ludwig Supraphonic LM402 snare adds another $600 to $800 for a vintage example. It is a historically significant and expensive setup to replicate authentically.',
+      },
+    ],
     conclusion: {
       title: 'The Legacy Lives On',
       content: `Master of Puppets remains the gold standard for thrash metal production, and the drum sound is a crucial part of that legacy. Lars Ulrich's performance — captured on vintage Camco drums through careful engineering — created a template that drummers still study and emulate.
@@ -528,6 +542,20 @@ The fundamentals remain: power, speed, and the Cuban-influenced groove that made
       { drummerSlug: 'dave-lombardo', lickSlug: 'dave-lombardo-angel-of-death-chaos', label: "Watch Dave Lombardo's 'Angel of Death' chaos breakdown" },
       { drummerSlug: 'dave-lombardo', lickSlug: 'dave-lombardo-raining-blood-double-bass', label: "Watch Dave Lombardo's 'Raining Blood' double bass breakdown" },
     ],
+    faq: [
+      {
+        question: 'What drum kit did Dave Lombardo use on Reign in Blood?',
+        answer: 'Dave Lombardo recorded Reign in Blood in 1986 on a Tama Artstar II kit featuring birch shells with die-cast hoops. He ran a double bass configuration with two 22x16 inch bass drums, 10x8 and 12x9 inch rack toms, and 14x14 and 16x16 inch floor toms. His snare was a Tama Superstar Steel at 14x6.5 inches. The birch shells gave the kit an aggressive, cutting attack perfectly suited to Slayer\'s relentless tempo.',
+      },
+      {
+        question: 'What cymbals did Dave Lombardo use on Reign in Blood?',
+        answer: 'Dave Lombardo used a combination of Paiste RUDE and 2002 Series cymbals on Reign in Blood. The setup included Paiste 2002 14 inch Sound Edge Hi-Hats, Paiste RUDE 18 and 19 inch Wild Crashes, a Paiste 2002 20 inch Medium Ride, a Paiste 2002 18 inch China, and a Paiste RUDE 20 inch Wild China. The RUDE series is known for its aggressive, unlathed sound that cuts through dense, high-gain guitar tones.',
+      },
+      {
+        question: 'How much does Dave Lombardo\'s Reign in Blood kit cost?',
+        answer: 'Dave Lombardo\'s Tama Artstar II double bass setup would have cost approximately $2,500 to $3,500 new in 1986. The Tama Superstar Steel snare added another $250 to $350 at the time. Vintage Artstar II kits in good condition now command a premium among collectors. Paiste RUDE cymbals remain in production, so that portion of the setup is more affordable to replicate today, with individual pieces ranging from $150 to $400 depending on size.',
+      },
+    ],
     conclusion: {
       title: 'The Template for Extreme Metal',
       content: `Reign in Blood's drum sound became the template for extreme metal production. The combination of Lombardo's incredible performance and Rubin's stripped-down production created something that countless bands have tried to replicate.
@@ -786,6 +814,20 @@ Today, "sounding like Vulgar Display" is a production reference point. The combi
     relatedArticles: ['most-expensive-drum-setups', 'drummers-with-budget-friendly-kits'],
     relatedLicks: [
       { drummerSlug: 'vinnie-paul', lickSlug: 'vinnie-paul-walk-groove', label: "Watch Vinnie Paul's 'Walk' groove breakdown" },
+    ],
+    faq: [
+      {
+        question: 'What drum kit did Vinnie Paul use on Vulgar Display of Power?',
+        answer: 'Vinnie Paul recorded Vulgar Display of Power in 1992 on a ddrum Custom kit, a precursor to his later Vinnie Paul Signature model. The setup featured maple and birch hybrid shells with two massive 24x18 inch bass drums, four rack toms ranging from 8 to 13 inches, and 16x16 and 18x18 inch floor toms. His snare was a custom ddrum steel prototype at 14x8 inches, contributing the massive, deep crack that became a hallmark of Pantera\'s sound.',
+      },
+      {
+        question: 'What cymbals did Vinnie Paul use on Vulgar Display of Power?',
+        answer: 'Vinnie Paul used Sabian AA and AAX Series cymbals on Vulgar Display of Power. His setup included Sabian AA 14 inch Regular Hats, AA 16 and 18 inch Medium Crashes, an AAX 19 inch Metal Crash, an AA 22 inch Heavy Ride, and an AA 20 inch Chinese. The combination of AA and AAX series gave Vinnie a range of tones from warm and full to bright and cutting, matching the dynamic range of Pantera\'s heaviest record.',
+      },
+      {
+        question: 'How much does Vinnie Paul\'s Vulgar Display of Power kit cost?',
+        answer: 'Vinnie Paul\'s custom ddrum setup cost an estimated $4,000 to $6,000 in 1992. Modern ddrum Vinnie Paul Signature edition kits, which carry his legacy configuration, now range from $8,000 to $12,000. The custom 14x8 inch steel snare would add another $400 to $600 for a comparable piece today. Sabian AA and AAX cymbals remain widely available, with full setups similar to Vinnie\'s running between $1,500 and $2,500 new.',
+      },
     ],
     conclusion: {
       title: 'Defining Heaviness',
@@ -1046,6 +1088,20 @@ The Number of the Beast songs have evolved over 40+ years of touring. Nicko's in
     relatedArticles: ['thrash-metal-drummers', 'most-innovative-drummers'],
     relatedLicks: [
       { drummerSlug: 'nicko-mcbrain', lickSlug: 'nicko-mcbrain-the-number-of-the-beast', label: "Watch Nicko McBrain's 'The Number of the Beast' drum breakdown" },
+    ],
+    faq: [
+      {
+        question: 'What drum kit did Nicko McBrain use on The Number of the Beast?',
+        answer: 'Nicko McBrain recorded The Number of the Beast in 1982 on a Ludwig Classic Maple kit with maple shells and maple reinforcement rings. The configuration included a single 22x14 inch bass drum, 12x8 and 13x9 inch rack toms, and a 16x16 inch floor tom. His snare was a Ludwig Supraphonic LM400 at 14x5 inches. The Ludwig Classic Maple\'s warm, resonant tone provided a strong foundation for Iron Maiden\'s melodic, galloping brand of heavy metal.',
+      },
+      {
+        question: 'What cymbals did Nicko McBrain use on The Number of the Beast?',
+        answer: 'Nicko McBrain used Paiste 2002 Series cymbals throughout The Number of the Beast. His setup included Paiste 2002 14 inch Medium Hi-Hats, 16 and 18 inch Medium Crashes, a 20 inch Medium Ride, and an 18 inch China Type. The Paiste 2002 Series is renowned for its bright, clean, and highly consistent tone, delivering the clear articulation and musical cymbal wash that complemented Iron Maiden\'s twin-guitar harmonies and driving bass lines.',
+      },
+      {
+        question: 'How much does Nicko McBrain\'s Number of the Beast kit cost?',
+        answer: 'Nicko McBrain\'s Ludwig Classic Maple setup would have cost approximately $2,500 to $3,500 new in 1982. Vintage Ludwig Classic Maple kits in good condition are now sought after by collectors and typically sell for considerably more depending on finish and provenance. The Ludwig Supraphonic LM400 snare originally ran $300 to $400 and vintage examples today sell for $400 to $600. Paiste 2002 cymbals remain in production and are priced between $200 and $500 per piece.',
+      },
     ],
     conclusion: {
       title: 'A Drummer\'s Album',
@@ -1883,6 +1939,20 @@ Joey Jordison passed away in July 2021, leaving behind a legacy that continues t
       { drummerSlug: 'joey-jordison', lickSlug: 'joey-jordison-heretic-anthem-intro', label: "Watch Joey Jordison's 'The Heretic Anthem' intro breakdown" },
       { drummerSlug: 'joey-jordison', lickSlug: 'joey-jordison-disasterpiece-chaos', label: "Watch Joey Jordison's 'Disasterpiece' chaos breakdown" },
     ],
+    faq: [
+      {
+        question: 'What drum kit did Joey Jordison use on Iowa?',
+        answer: 'Joey Jordison recorded Iowa in 2001 using a Pearl Masterworks Custom kit with maple and African mahogany hybrid shells. The setup featured two 22x18 inch bass drums, four rack toms from 8 to 14 inches, and 16x16 and 18x16 inch floor toms. His snare was the Pearl Joey Jordison Signature model at 13x6.5 inches. The smaller 13 inch snare diameter gave his backbeat a tight, focused crack that cut through Slipknot\'s dense, layered percussion and guitar wall.',
+      },
+      {
+        question: 'What cymbals did Joey Jordison use on Iowa?',
+        answer: 'Joey Jordison used a combination of Paiste RUDE and 2002 Series cymbals on Iowa. The setup included Paiste 2002 14 inch Wild Hi-Hats, Paiste RUDE Wild Crashes ranging from 16 to 19 inches, a Paiste 2002 22 inch Power Ride, Paiste RUDE 20 and 22 inch Wild Chinas, and a Paiste RUDE 10 inch Splash. The unlathed RUDE cymbals delivered an aggressive, trashy wash that matched the chaotic and extreme nature of the Iowa recording.',
+      },
+      {
+        question: 'How much does Joey Jordison\'s Iowa kit cost?',
+        answer: 'Joey Jordison\'s Pearl Masterworks Custom setup for Iowa would have cost approximately $6,000 to $8,000 in 2001. The Pearl Joey Jordison Signature snare added another $450 to $550 at the time. Pearl Masterworks custom kits today start around $6,000 and can exceed $12,000 depending on configuration and finish. The Paiste RUDE cymbal lineup Jordison used, including multiple crashes and chinas, would cost between $2,000 and $3,500 to replicate new today.',
+      },
+    ],
     conclusion: {
       title: 'The Standard for Extreme Drumming',
       content: `Iowa's drum performances set a standard for extreme metal that few have matched. Joey Jordison's combination of speed, precision, stamina, and musicality created a document of drumming that continues to inspire and intimidate drummers two decades later.
@@ -2176,6 +2246,20 @@ The rotating riser exemplified Joey's approach: if something seemed impossible, 
     relatedDrummers: [10, 11, 6], // Jay Weinberg, Vinnie Paul, George Kollias
     relatedArticles: ['fastest-double-bass-drummers', 'best-metal-snare-drums'],
     // Conclusion
+    faq: [
+      {
+        question: 'What drum kit did Joey Jordison use for his signature setup?',
+        answer: 'Joey Jordison\'s signature setup was built around Pearl Reference Series and MasterWorks Custom drums. He ran two 22x18 inch bass drums, four rack toms from 8 to 14 inches, and 16x14 and 18x16 inch floor toms with 20-ply maple and birch Reference shells. His snare was the Pearl Joey Jordison Signature model, a 13x6.5 inch steel drum designed for tight, punchy response. The combination of deep bass drums and smaller toms gave his kit an aggressive, focused character.',
+      },
+      {
+        question: 'What cymbals did Joey Jordison use on his signature setup?',
+        answer: 'Joey Jordison\'s signature cymbal setup was built entirely from Paiste RUDE and 2002 Series. He used Paiste RUDE 14 inch Wild Hi-Hats, RUDE Wild Crashes from 16 to 19 inches, a RUDE 22 inch Power Ride, and RUDE 20 and 22 inch Wild Chinas. The RUDE Series, with its fully unlathed, raw bronze surface, produces a dark, trashy, extremely loud tone that Jordison credited as essential to cutting through Slipknot\'s layered, high-volume live performances.',
+      },
+      {
+        question: 'How much does Joey Jordison\'s signature kit cost?',
+        answer: 'Joey Jordison\'s Pearl Reference Series custom configuration typically runs between $6,000 and $10,000 depending on finish and shell count. The Pearl Joey Jordison Signature snare is available new for approximately $250 to $350. Replicating his full Paiste RUDE cymbal arsenal, including multiple crashes, wild chinas, and a power ride, adds another $2,500 to $4,000. In total, a faithful recreation of Jordison\'s signature setup would cost between $9,000 and $15,000 fully equipped.',
+      },
+    ],
     conclusion: {
       title: 'The Legacy Lives On',
       content: `Joey Jordison's influence on metal drumming cannot be overstated. He combined speed, precision, showmanship, and musicality in ways that inspired an entire generation of drummers. His technical abilities were matched only by his creativity and willingness to push boundaries.
@@ -2486,6 +2570,20 @@ For drummers interested in exploring electronics, Danny's approach offers a phil
     relatedDrummers: [5, 15, 7], // Tomas Haake, Mario Duplantier, Mike Portnoy
     relatedArticles: ['best-progressive-metal-drummers', 'electronic-drums-metal'],
     // Conclusion
+    faq: [
+      {
+        question: 'What drum kit does Danny Carey use for his current setup?',
+        answer: 'Danny Carey\'s current signature setup is built around a Sonor SQ2 Heavy Beech kit. He uses a single 24x18 inch bass drum with an extensive tom array spanning 6, 8, 10, 12, 13, and 14 inch rack toms, plus 16x14 and 18x16 inch floor toms. His snare is the Danny Carey Signature Sonor model at 14x8 inches. The heavy beech shells are specifically chosen for their thick walls, which produce a powerful, dense attack with exceptional projection suited to Tool\'s complex, dynamic compositions.',
+      },
+      {
+        question: 'What cymbals does Danny Carey use on his current setup?',
+        answer: 'Danny Carey plays Paiste Signature Series cymbals throughout his current kit. His setup includes Paiste Signature 14 inch Sound Edge Hi-Hats, multiple Signature crashes ranging from 16 to 20 inches, a Signature 22 inch Dry Heavy Ride, a Signature 24 inch Big Ride, and Signature 18 and 20 inch Thin Chinas. The Paiste Signature Series is known for its complex, dark, and musical tonal character, which supports Carey\'s melodic and dynamically nuanced approach to playing within Tool\'s intricate arrangements.',
+      },
+      {
+        question: 'How much does Danny Carey\'s current kit cost?',
+        answer: 'Danny Carey\'s Sonor SQ2 Heavy Beech kit is a fully custom instrument and represents one of the most expensive production drum lines available. A configured SQ2 setup comparable to Carey\'s typically runs between $15,000 and $25,000. The Danny Carey Signature Sonor snare adds approximately $800 to $1,200. His extensive Paiste Signature cymbal collection, including a 24 inch Big Ride and multiple crashes and chinas, would add another $5,000 to $9,000, putting the complete rig well above $20,000.',
+      },
+    ],
     conclusion: {
       title: 'The Eternal Student',
       content: `Danny Carey represents everything drumming can be: technical yet musical, powerful yet nuanced, traditional yet innovative. His setup — from the massive Sonor SQ2 kit to the cutting-edge Mandala pads — reflects a musician who constantly pushes boundaries while honoring the fundamentals.
@@ -2810,6 +2908,20 @@ Drummers worldwide have spent years trying to master "Bleed." Most can play shor
     relatedDrummers: [14, 15, 7], // Danny Carey, Mario Duplantier, Mike Portnoy
     relatedArticles: ['best-progressive-metal-drummers', 'djent-drumming-guide'],
     // Conclusion
+    faq: [
+      {
+        question: 'What drum kit does Tomas Haake use for his current setup?',
+        answer: 'Tomas Haake\'s current setup centers on a Sonor SQ2 Heavy Beech kit. He runs a single 24x18 inch bass drum with 10x8, 12x9, and 14x12 inch rack toms, plus 16x16 and 18x18 inch floor toms with heavy beech shells. His snare is the Sonor Tomas Haake Signature model at 14x6.5 inches. The heavy beech construction delivers the focused low-end punch and precise attack that Haake needs to execute Meshuggah\'s highly technical polyrhythmic and polymetric drum patterns cleanly at high tempos.',
+      },
+      {
+        question: 'What cymbals does Tomas Haake use on his current setup?',
+        answer: 'Tomas Haake plays a combination of Sabian HHX and AAX Series cymbals. His setup includes Sabian HHX 14 inch Compression Hi-Hats, an AAX 18 inch X-Plosion Crash, HHX crashes from 18 to 19 inches, an HHX 21 inch Raw Bell Dry Ride, an HHX 18 inch Chinese, and an AAX 19 inch Aero Crash China. The HHX series in particular offers a dark, complex, and controlled tone that suits the precision-focused, groove-heavy approach Haake brings to Meshuggah\'s dense rhythmic landscape.',
+      },
+      {
+        question: 'How much does Tomas Haake\'s current kit cost?',
+        answer: 'Tomas Haake\'s Sonor SQ2 Heavy Beech setup is a high-end custom instrument, with a configuration similar to his typically costing between $8,000 and $15,000 depending on finish and options. The Sonor Tomas Haake Signature snare adds approximately $500 to $700. His Sabian HHX and AAX cymbal collection, including the Raw Bell Dry Ride and multiple crashes and chinas, would cost an additional $2,500 to $4,500. The full setup realistically lands between $11,000 and $20,000 to replicate.',
+      },
+    ],
     conclusion: {
       title: 'The Groove Within the Chaos',
       content: `Tomas Haake has fundamentally changed how drummers think about rhythm. His polyrhythmic approach — complex patterns layered over steady 4/4 foundations — created the template for an entire genre. Yet he insists that underneath it all, Meshuggah is simply a groove band.
@@ -3135,6 +3247,20 @@ Tomas has participated in numerous clinic tours and educational content, helping
     relatedArticles: ['djent-drumming-guide', 'polyrhythm-exercises-metal'],
     relatedLicks: [
       { drummerSlug: 'tomas-haake', lickSlug: 'tomas-haake-bleed-groove', label: "Watch Tomas Haake's 'Bleed' double bass groove breakdown" },
+    ],
+    faq: [
+      {
+        question: 'What drum kit did Tomas Haake use on obZen?',
+        answer: 'Tomas Haake recorded obZen in 2008 on a Sonor Designer Series kit, the model he used before transitioning to the SQ2. The setup featured maple shells with beech reinforcement rings and included two 22x18 inch bass drums, 10x8 and 12x9 inch rack toms, and 14x14 and 16x16 inch floor toms. His snare was a Sonor Designer Series Steel at 14x6 inches. The maple and beech shell combination produced the tight, articulate low-end thud essential to Meshuggah\'s downtuned, groove-driven rhythmic architecture.',
+      },
+      {
+        question: 'What cymbals did Tomas Haake use on obZen?',
+        answer: 'Tomas Haake used Sabian AAX and AA Series cymbals on obZen. His setup included Sabian AA 14 inch Regular Hi-Hats, AAX 18 and 19 inch X-Plosion Crashes, an AA 21 inch Rock Ride, an AAX 19 inch Chinese, and an AAX 10 inch Splash. The AAX X-Plosion Crashes are particularly well regarded for their fast, cutting attack and quick decay, which allowed Haake\'s crash accents to snap precisely within Meshuggah\'s complex and tightly controlled rhythmic framework on obZen.',
+      },
+      {
+        question: 'How much does Tomas Haake\'s obZen kit cost?',
+        answer: 'Tomas Haake\'s Sonor Designer Series setup for obZen would have cost approximately $5,000 to $7,000 new in 2008. The Sonor Designer Series Steel snare added another $400 to $500. The Sonor Designer Series has since been discontinued, making well-maintained examples increasingly desirable among collectors. Sabian AAX and AA cymbals remain in active production and are priced competitively, with a setup comparable to Haake\'s obZen configuration running between $1,500 and $2,500 at current retail prices.',
+      },
     ],
     conclusion: {
       title: 'The Pattern That Changed Everything',
@@ -3475,6 +3601,20 @@ For Dave, the Pantera gig represents full-circle closure. Vinnie was a peer, a c
     relatedDrummers: [1, 3, 11], // Lars Ulrich, Gene Hoglan, Vinnie Paul
     relatedArticles: ['thrash-metal-drummers', 'fastest-double-bass-drummers'],
     // Conclusion
+    faq: [
+      {
+        question: 'What drum kit does Dave Lombardo use for his current 2026 setup?',
+        answer: 'Dave Lombardo\'s current setup in 2026 is built around a Tama Starclassic Walnut and Birch kit. He runs two 24x16 inch bass drums with 10x8 and 12x9 inch rack toms and 14x14 and 16x16 inch floor toms, all featuring walnut and birch hybrid shells. His snare is the Tama S.L.P. G-Maple at 14x6.5 inches. The walnut and birch hybrid construction gives the kit a warm, deep character with natural attack, reflecting Lombardo\'s evolution from his aggressive Slayer-era sound toward a more versatile modern tone.',
+      },
+      {
+        question: 'What cymbals does Dave Lombardo use on his current 2026 setup?',
+        answer: 'Dave Lombardo continues to use Paiste RUDE and 2002 Series cymbals in his current setup, a brand loyalty spanning decades. His configuration includes Paiste 2002 15 inch Sound Edge Hi-Hats, RUDE Wild Crashes from 18 to 20 inches, a Paiste 2002 24 inch Power Ride, RUDE 18 and 20 inch Wild Chinas, and a Paiste 2002 10 inch Splash. The combination of the bright 2002 Series and the aggressive, raw RUDE Series cymbals gives Lombardo a broad tonal palette across loud, dynamic performances.',
+      },
+      {
+        question: 'How much does Dave Lombardo\'s current kit cost?',
+        answer: 'Dave Lombardo\'s Tama Starclassic Walnut and Birch double bass setup currently retails between $5,000 and $8,000 depending on configuration and finish. The Tama S.L.P. G-Maple snare adds approximately $400 to $600. His Paiste RUDE and 2002 cymbal collection, including the large 24 inch Power Ride and multiple crashes and chinas, represents another $2,500 to $4,500 in current retail value. A full recreation of Lombardo\'s 2026 rig would run approximately $8,000 to $13,000 in total.',
+      },
+    ],
     conclusion: {
       title: 'The Standard, Still Setting It',
       content: `Four decades after co-founding Slayer, Dave Lombardo remains the standard for thrash metal drumming. Not because he was the first to play fast double bass (he essentially was), but because he combined that speed with feel, musicality, and constant evolution.
@@ -3826,6 +3966,20 @@ Despite his natural gifts, Gene is known for disciplined practice. He plays to a
     relatedDrummers: [4, 5, 6], // Dave Lombardo, Tomas Haake, George Kollias
     relatedArticles: ['death-metal-drummers', 'fastest-double-bass-drummers'],
     // Conclusion
+    faq: [
+      {
+        question: 'What drum kit does Gene Hoglan use?',
+        answer: 'Gene Hoglan plays a Pearl Reference Pure kit with maple shells. His current setup includes dual 22x18 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The Reference Pure series is Pearl\'s flagship line known for its tonal clarity and resonance, making it a natural fit for Hoglan\'s precise, powerful playing style across metal and thrash contexts.',
+      },
+      {
+        question: 'What cymbals does Gene Hoglan use?',
+        answer: 'Gene Hoglan uses Sabian AAX series cymbals throughout his current setup. Key pieces include 15 inch AAX X-Celerator Hi-Hats, a range of 16 to 19 inch AAX X-Plosion Crashes, a 22 inch AAX Medium Ride, an 18 inch AAX Chinese cymbal, and a 10 inch AAX Splash. The AAX series delivers bright, cutting tones well-suited to the aggressive dynamics required in metal and thrash drumming.',
+      },
+      {
+        question: 'How much does Gene Hoglan\'s drum kit cost?',
+        answer: 'A Pearl Reference Pure kit comparable to Gene Hoglan\'s setup runs approximately $4,500 to $7,000 new, depending on configuration and finish. His Pearl Reference brass snare adds another $500 to $700. Completing the rig with a full Sabian AAX cymbal setup similar to his will add roughly $1,500 to $2,500. Total estimated cost to replicate his current setup is around $6,500 to $10,000.',
+      },
+    ],
     conclusion: {
       title: 'The Clock Still Ticks',
       content: `Four decades after roadying for Slayer, Gene Hoglan remains the standard by which extreme metal drumming is measured. Not because he plays the fastest (though he's up there), but because he combines speed with feel, technicality with musicality, and precision with soul.
@@ -4202,6 +4356,20 @@ Slipknot shows run 90+ minutes in demanding conditions (masks, heat, physical mo
       ]
     },
     // Conclusion
+    faq: [
+      {
+        question: 'What drum kit does Eloy Casagrande use?',
+        answer: 'Eloy Casagrande plays a Tama Starclassic Bubinga kit with bubinga and birch hybrid shells. His setup features dual 22x18 inch bass drums, three rack toms at 10, 12, and 13 inches, and 14 and 16 inch floor toms. The Starclassic Bubinga is prized for its warm low end and cutting midrange attack, qualities that serve Casagrande well across his work with Sepultura and now Slipknot.',
+      },
+      {
+        question: 'What cymbals does Eloy Casagrande use?',
+        answer: 'Eloy Casagrande uses a mix of Paiste RUDE, PST X, and 2002 series cymbals. His setup includes Paiste RUDE 14 inch Hi-Hats, RUDE Wild Crashes from 17 to 20 inches, a Paiste 2002 22 inch Power Ride, RUDE Wild Chinas at 18 and 20 inches, and a PST X 10 inch Splash. The RUDE series in particular delivers the aggressive, raw tone that defines his high-energy playing.',
+      },
+      {
+        question: 'How much does Eloy Casagrande\'s drum kit cost?',
+        answer: 'A Tama Starclassic Bubinga kit matching Casagrande\'s configuration currently costs between $6,000 and $9,000. His Tama S.L.P. Sonic Steel snare adds approximately $400 to $550. A comparable Paiste RUDE and 2002 cymbal setup will run an additional $2,000 to $3,500. Total investment to approximate his full setup is in the range of $8,400 to $13,000.',
+      },
+    ],
     conclusion: {
       title: 'The Right Drummer at the Right Time',
       content: `When Slipknot announced Eloy Casagrande as their new drummer in 2024, some fans wondered if anyone could fill the legacy left by Joey Jordison and Jay Weinberg. After two years of touring, the answer is clear: Eloy isn't just filling those shoes — he's walking his own path while honoring those who came before.
@@ -4543,6 +4711,20 @@ Performing Painkiller-level material requires athlete-level conditioning. Travis
     relatedLicks: [
       { drummerSlug: 'scott-travis', lickSlug: 'scott-travis-painkiller', label: "Watch Scott Travis's 'Painkiller' drum intro breakdown" },
     ],
+    faq: [
+      {
+        question: 'What drum kit did Scott Travis use on Painkiller?',
+        answer: 'Scott Travis recorded Painkiller in 1990 using a Tama Artstar II kit with birch shells and die-cast hoops. The setup featured dual 22x16 inch bass drums, three rack toms at 10, 12, and 13 inches, and 14 and 16 inch floor toms. The Artstar II was Tama\'s top professional line at the time, delivering the tight, punchy attack that powered the album\'s relentless speed and precision.',
+      },
+      {
+        question: 'What cymbals did Scott Travis use on Painkiller?',
+        answer: 'Scott Travis used Paiste Signature and 2002 series cymbals on Painkiller. His setup included Paiste Signature 14 inch Heavy Hi-Hats, Paiste crashes ranging from 16 to 20 inches, a Paiste Signature 22 inch Power Ride, and a Paiste 2002 20 inch Novo China. The Signature series provided the cutting brightness and projection needed to match the ferocity of Judas Priest\'s heaviest recording.',
+      },
+      {
+        question: 'How much does Scott Travis\'s Painkiller drum kit cost?',
+        answer: 'At the time of the 1990 recording, the Tama Artstar II kit was valued at approximately $3,500 to $5,000. Today, vintage Artstar II kits in good condition sell for $800 to $2,500 on the used market. Paiste Signature and 2002 cymbals from that era can add another $500 to $1,500 used. Reproducing the full setup in vintage condition typically costs between $1,300 and $4,000 today.',
+      },
+    ],
     conclusion: {
       title: 'The Standard That Still Stands',
       content: `More than three decades after its release, "Painkiller" remains the benchmark for heavy metal drumming. Scott Travis's performance on this album didn't just showcase technical ability — it redefined what was possible in metal.
@@ -4880,6 +5062,20 @@ Danny still practices daily. He maintains his jazz chops through Volto! and othe
     relatedArticles: ['progressive-metal-drummers', 'best-electronic-drum-pads'],
     relatedLicks: [
       { drummerSlug: 'danny-carey', lickSlug: 'danny-carey-pneuma-groove', label: "Watch Danny Carey's 'Pneuma' main groove breakdown" },
+    ],
+    faq: [
+      {
+        question: 'What drum kit did Danny Carey use on Fear Inoculum?',
+        answer: 'Danny Carey recorded Fear Inoculum in 2019 on a Sonor SQ2 Heavy Beech kit. The expansive setup included a single 24x18 inch bass drum, five rack toms at 8, 10, 12, 13, and 14 inches, and floor toms at 16 and 18 inches. The SQ2 Heavy Beech shells provide deep, resonant low-end and complex overtones that complement Carey\'s polyrhythmic and meditative approach on the album.',
+      },
+      {
+        question: 'What cymbals did Danny Carey use on Fear Inoculum?',
+        answer: 'Danny Carey used Paiste Signature series cymbals on Fear Inoculum. His setup featured 15 inch Signature Sound Edge Hi-Hats, Signature crashes from 17 to 20 inches, a 22 inch Signature Dry Heavy Ride, and Signature Thin Chinas at 18 and 20 inches. The Signature series delivers a complex, washy tone with controlled decay that suits the hypnotic, layered textures throughout the album.',
+      },
+      {
+        question: 'How much does Danny Carey\'s Fear Inoculum drum kit cost?',
+        answer: 'A Sonor SQ2 Heavy Beech kit configured to Carey\'s Fear Inoculum specifications runs between $15,000 and $20,000, as the SQ2 is a fully custom-order instrument. His Sonor Danny Carey Signature Bronze Snare adds approximately $1,800 to $2,000. Paiste Signature cymbals to match his setup add another $3,000 to $5,000. The complete rig is a serious investment, totaling roughly $20,000 to $27,000.',
+      },
     ],
     conclusion: {
       title: 'Worth the Wait',
@@ -5227,6 +5423,20 @@ For progressive metal, Lateralus was a watershed moment. It proved that complexi
     relatedArticles: ['progressive-metal-drummers', 'polyrhythmic-drumming-guide'],
     relatedLicks: [
       { drummerSlug: 'danny-carey', lickSlug: 'danny-carey-schism-intro', label: "Watch Danny Carey's 'Schism' polyrhythm intro breakdown" },
+    ],
+    faq: [
+      {
+        question: 'What drum kit did Danny Carey use on Lateralus?',
+        answer: 'Danny Carey recorded Lateralus in 2001 using a Sonor Designer Series kit, an early prototype precursor to the later SQ2 line, with maple shells and reinforcement rings. The configuration included a 24x18 inch bass drum, rack toms at 8, 10, 12, and 13 inches, and floor toms at 14, 16, and 18 inches. The maple construction gave the kit the warm, open resonance heard throughout the album.',
+      },
+      {
+        question: 'What cymbals did Danny Carey use on Lateralus?',
+        answer: 'Danny Carey used Paiste Signature and Traditional series cymbals on Lateralus. His setup included Paiste Signature 15 inch Heavy Hi-Hats, Signature crashes from 17 to 20 inches, a Paiste Traditional 22 inch Light Ride, a Signature 18 inch Thin China, and a Signature 10 inch Splash. The combination of the darker Traditional ride with the more focused Signature pieces gave his sound a layered, dynamic quality across the record.',
+      },
+      {
+        question: 'How much does Danny Carey\'s Lateralus drum kit cost?',
+        answer: 'At the time of the 2001 recording, the Sonor Designer Series kit was valued at approximately $5,000 to $7,000. Today, comparable vintage Sonor Designer kits sell on the used market for $1,500 to $4,000. The prototype bronze snare Carey used is not commercially available, but a production Sonor Danny Carey Signature Bronze Snare runs $1,800 to $2,000. A matching Paiste cymbal setup adds another $2,000 to $4,000.',
+      },
     ],
     conclusion: {
       title: 'The Spiral Continues',
@@ -5591,6 +5801,20 @@ His drum solos are journeys with verses, choruses, and narrative arcs. They inco
     relatedAlbums: ['lateralus-drum-setup', 'fear-inoculum-drum-setup', 'obzen-drum-setup'],
     relatedDrummers: [14, 5, 15], // Danny Carey, Tomas Haake, Mario Duplantier
     relatedArticles: ['progressive-metal-drummers', 'best-drum-pedals-progressive'],
+    faq: [
+      {
+        question: 'What drum kit does Mike Portnoy use on the Dream Theater 2025 reunion?',
+        answer: 'Mike Portnoy returned to Dream Theater in 2025 playing a Tama Starclassic Maple and Birch hybrid kit. The massive setup includes dual 22x18 inch bass drums, rack toms at 8, 10, 12, and 13 inches plus a set of Octobans, and floor toms at 14, 16, and 18 inches. The Maple and Birch hybrid shells deliver a combination of warmth and attack that supports his melodic yet powerful playing style.',
+      },
+      {
+        question: 'What cymbals does Mike Portnoy use on the Dream Theater 2025 reunion?',
+        answer: 'Mike Portnoy uses Sabian HHX series cymbals for his 2025 Dream Theater reunion kit. Key pieces include HHX 14 inch Evolution Hi-Hats, HHX 13 inch X-Celerator Hi-Hats, multiple HHX crashes from 16 to 20 inches, a 22 inch HHX Raw Bell Dry Ride, a 20 inch HHX Legacy Ride, and HHX chinas at 18 and 20 inches. The HHX line provides the dark, complex overtones that define his modern sound.',
+      },
+      {
+        question: 'How much does Mike Portnoy\'s Dream Theater 2025 reunion kit cost?',
+        answer: 'A Tama Starclassic Maple and Birch kit in Portnoy\'s configuration with Octobans runs approximately $12,000 to $18,000. His Tama Mike Portnoy Signature Melody Master Snare adds $600 to $800. A full Sabian HHX cymbal setup comparable to his adds another $3,500 to $6,000. Total estimated cost for the full 2025 reunion rig is in the range of $16,000 to $25,000.',
+      },
+    ],
     conclusion: {
       title: 'The Return of the King',
       content: `Mike Portnoy's return to Dream Theater isn't just a reunion — it's a homecoming for progressive metal itself. After 13 years of exploring different projects, refining his technique, and expanding his musical vocabulary, he returns to the band he co-founded with decades of additional wisdom.
@@ -5983,6 +6207,20 @@ The real Images and Words sound comes from Mike's technique and musicality. Prac
     relatedArticles: ['progressive-metal-drummers', 'best-double-bass-pedals'],
     relatedLicks: [
       { drummerSlug: 'mike-portnoy', lickSlug: 'mike-portnoy-pull-me-under-groove', label: "Watch Mike Portnoy's 'Pull Me Under' groove breakdown" },
+    ],
+    faq: [
+      {
+        question: 'What drum kit did Mike Portnoy use on Images and Words?',
+        answer: 'Mike Portnoy recorded Images and Words in 1992 using a Tama Artstar II Custom kit with birch shells and Star-Cast mounting. The setup featured dual 22x16 inch bass drums, rack toms at 8, 10, 12, and 13 inches, and 14 and 16 inch floor toms. The Artstar II was Tama\'s flagship professional line at the time, and its birch shells provided the bright, articulate tone heard across Dream Theater\'s breakthrough album.',
+      },
+      {
+        question: 'What cymbals did Mike Portnoy use on Images and Words?',
+        answer: 'Mike Portnoy used Zildjian A Custom and K Custom series cymbals on Images and Words. His setup included A Custom 14 inch Hi-Hats, A Custom crashes from 16 to 19 inches, an A Custom 20 inch Medium Ride, a Zildjian Oriental 18 inch China Trash, and A Custom splashes at 8 and 10 inches. The A Custom series was known for its bright, cutting sound that cut through the progressive arrangements on the album.',
+      },
+      {
+        question: 'How much does Mike Portnoy\'s Images and Words drum kit cost?',
+        answer: 'At the time of the 1992 recording, the Tama Artstar II Custom kit was valued at around $3,500 to $5,000. Today, vintage Artstar II kits in playable condition can be found on the used market for $700 to $2,500. Vintage Zildjian A Custom cymbals from that era add another $400 to $1,200 used. Reproducing the full Images and Words setup with vintage gear typically costs between $1,100 and $3,700 today.',
+      },
     ],
     conclusion: {
       title: 'The Album That Changed Everything',
@@ -6700,6 +6938,20 @@ The connection between visual art and drumming is one of composition and space. 
     relatedDrummers: [5, 14, 7], // Tomas Haake, Danny Carey, Eloy Casagrande
     relatedArticles: ['progressive-metal-drummers', 'best-double-bass-pedals', 'tribal-drumming-in-metal'],
     // Conclusion
+    faq: [
+      {
+        question: 'What drum kit does Mario Duplantier use?',
+        answer: 'Mario Duplantier plays a Tama Starclassic Bubinga kit with bubinga and birch hybrid shells. His current setup includes dual 22x18 inch bass drums, rack toms at 10, 12, and 13 inches, and floor toms at 16 and 18 inches. The Starclassic Bubinga is known for its dense low end and warm attack, qualities that complement Duplantier\'s groove-focused and environmentally themed approach to drumming with Gojira.',
+      },
+      {
+        question: 'What cymbals does Mario Duplantier use?',
+        answer: 'Mario Duplantier uses Zildjian K Custom and A Custom series cymbals. His setup includes Zildjian K 14 inch Sweet Hi-Hats, various Zildjian crashes from 17 to 20 inches, a Zildjian Z Custom 21 inch Mega Bell Ride, a K Custom 18 inch China, and a Zildjian Oriental 20 inch China Trash. The combination of dark K Custom tones and the aggressive Mega Bell Ride delivers the full dynamic range his intricate Gojira compositions demand.',
+      },
+      {
+        question: 'How much does Mario Duplantier\'s drum kit cost?',
+        answer: 'A Tama Starclassic Bubinga kit matching Duplantier\'s configuration currently runs between $8,000 and $12,000. His Tama S.L.P. G-Maple snare adds approximately $500 to $650. A comparable Zildjian K Custom and Z Custom cymbal setup similar to his will add roughly $2,500 to $4,000. Total estimated cost to replicate his full setup is approximately $11,000 to $17,000.',
+      },
+    ],
     conclusion: {
       title: 'The Whale\'s Architect',
       content: `Mario Duplantier has built something rare in extreme metal: a drumming style that's instantly recognizable, technically demanding, and emotionally resonant. His work with Gojira proves that heavy music can be smart, thoughtful, and powerful simultaneously.
@@ -7117,6 +7369,20 @@ Brann's vocal drumming has influenced younger drummers to develop singing abilit
     relatedDrummers: [14, 5, 15], // Danny Carey, Tomas Haake, Mario Duplantier
     relatedArticles: ['progressive-metal-drummers', 'drummers-who-sing', 'melodic-drumming-guide'],
     // Conclusion
+    faq: [
+      {
+        question: 'What drum kit does Brann Dailor use?',
+        answer: 'Brann Dailor plays a DW Collector\'s Series kit with North American Hard Rock Maple shells. His setup features a single 22x18 inch bass drum, rack toms at 10, 12, and 13 inches, and a 16 inch floor tom. The DW Collector\'s Series is fully customizable from the factory and is known for its warm, resonant maple tone, which suits Dailor\'s melodic and technically demanding approach as Mastodon\'s drummer and vocalist.',
+      },
+      {
+        question: 'What cymbals does Brann Dailor use?',
+        answer: 'Brann Dailor uses Meinl Byzance series cymbals across his entire setup. Key pieces include 14 inch Byzance Traditional Medium Hi-Hats, Byzance crashes from 18 to 20 inches, a 22 inch Byzance Traditional Medium Ride, and an 18 inch Byzance Brilliant China. The Byzance series is hand-hammered in Turkey and known for its dark, complex, and expressive tone, which complements Dailor\'s musical and nuanced playing within Mastodon\'s progressive metal framework.',
+      },
+      {
+        question: 'How much does Brann Dailor\'s drum kit cost?',
+        answer: 'A DW Collector\'s Series kit configured to Dailor\'s specifications with Hard Rock Maple shells runs between $6,000 and $9,000. His DW Collector\'s Series aluminum snare drum adds approximately $600 to $900. A matching Meinl Byzance cymbal setup comparable to his will add another $1,500 to $2,500. Total estimated cost to replicate his full Mastodon setup is in the range of $8,100 to $12,400.',
+      },
+    ],
     conclusion: {
       title: 'The Flow State',
       content: `Brann Dailor has achieved something rare in heavy music: complete artistic identity. From the first fill, you know it's him. Not because of a signature sound or a technical gimmick, but because his entire approach to the instrument is unique. He doesn't play drums — he composes with them.
@@ -7478,6 +7744,20 @@ Perhaps Adler's greatest skill was knowing what NOT to play. His parts are memor
       { youtubeId: 'RCh4UAgqn44', title: 'Grace - Live Drum Cam (Chris Adler)', description: 'Live drum cam footage of Chris Adler playing \'Grace\' with Lamb of God' }
     ],
     // Conclusion Section
+    faq: [
+      {
+        question: 'What drum kit does Chris Adler use?',
+        answer: 'Chris Adler plays a Mapex Black Panther Velvetone Series kit with maple and walnut hybrid shells. His setup includes dual 22x18 inch bass drums, rack toms at 10x8 and 12x9 inches, and 14 and 16 inch floor toms. The maple and walnut hybrid construction gives the Black Panther Velvetone a warm yet focused tone, well-matched to the tight, groove-driven aggression that defined his work with Lamb of God.',
+      },
+      {
+        question: 'What cymbals does Chris Adler use?',
+        answer: 'Chris Adler uses Meinl Byzance series cymbals throughout his setup. His configuration includes Meinl 13 inch Byzance Traditional Hi-Hats, Byzance crashes from 18 to 20 inches, a 21 inch Byzance Dark Ride, Byzance chinas at 18 and 20 inches, and a 10 inch splash. The Byzance Dark Ride in particular suits his style, providing a dry, controlled wash that keeps his grooves articulate and cutting without excessive overtones in a dense mix.',
+      },
+      {
+        question: 'How much does Chris Adler\'s drum kit cost?',
+        answer: 'A Mapex Black Panther Velvetone Series kit in Adler\'s dual bass drum configuration costs approximately $4,000 to $6,000. His Mapex Chris Adler Signature Black Panther Warbird snare, a 12 inch by 5.5 inch model, adds around $400 to $500. A full Meinl Byzance cymbal setup matching his will add another $1,500 to $2,500. Total estimated cost to replicate his Lamb of God setup is roughly $5,900 to $9,000.',
+      },
+    ],
     conclusion: {
       title: 'The Legacy of American Groove Metal',
       content: `Chris Adler's 25-year tenure with Lamb of God didn't just establish him as one of metal's great drummers — it redefined what groove metal drumming could achieve. His combination of power, precision, and swing created a template that countless drummers have followed.
@@ -7865,6 +8145,20 @@ Benante never sacrificed groove for speed. Even at blistering tempos, his patter
       { youtubeId: 'OR6rUpbFOk0', title: 'The Iconic Drumming Behind \'Indians\' - Anthrax (Drumeo)', description: 'Charlie Benante breaks down the drum part for Anthrax classic \'Indians\' on Drumeo' }
     ],
     // Conclusion Section
+    faq: [
+      {
+        question: 'What drum kit does Charlie Benante use in Anthrax?',
+        answer: 'Charlie Benante plays a Tama Starclassic Maple kit configured with dual 22x18 inch bass drums, 10, 12, and 13 inch rack toms, and 14 and 16 inch floor toms. The shells are all-maple and mounted using Tama\'s Star-Cast system, which minimizes shell contact for better resonance. He also uses his own signature Tama snare, a 14x6.5 inch model designed to cut through the dense, fast riffing that defines Anthrax\'s sound.',
+      },
+      {
+        question: 'What cymbals does Charlie Benante use in Anthrax?',
+        answer: 'Charlie Benante uses a mixed Paiste setup drawing from the 2002, Signature, and RUDE series. His setup includes Paiste 2002 14 inch Sound Edge hi-hats, a Signature 16 inch Fast Crash, a 2002 18 inch and 22 inch Heavy Ride, a RUDE 19 inch Crash/Ride, a 2002 18 inch China, and a 2002 10 inch Splash. The combination of these series gives him both aggressive attack and nuanced tonal variation across his setup.',
+      },
+      {
+        question: 'How much does Charlie Benante\'s Anthrax drum kit cost?',
+        answer: 'Charlie Benante\'s current Tama Starclassic Maple kit runs approximately $5,000 to $7,000 depending on configuration and finish. His signature Tama snare adds another $400 to $500. The Paiste cymbal setup, mixing 2002, Signature, and RUDE pieces, can add $2,000 to $4,000 or more. All in, replicating his full rig would likely cost between $8,000 and $12,000 for a professional-grade build.',
+      },
+    ],
     conclusion: {
       title: 'The Big Four\'s Unsung Architect',
       content: `In the Big Four of Thrash, Charlie Benante often receives less attention than Lars Ulrich's celebrity or Dave Lombardo's flash. But from a technical and innovative standpoint, Benante may be the most influential of them all.
@@ -8224,6 +8518,20 @@ The M72 Tour also features Lars performing "72 Seasons" material alongside class
     relatedDrummers: [4, 2, 3], // Dave Lombardo, Joey Jordison, Gene Hoglan
     relatedArticles: ['big-four-thrash-drummers', 'tama-vs-pearl', 'best-snare-drums-metal'],
     // Conclusion
+    faq: [
+      {
+        question: 'What drum kit does Lars Ulrich use in 2026?',
+        answer: 'Lars Ulrich currently plays a Tama Starclassic Maple kit configured with a single 22x16 inch bass drum driven by a double pedal, 12 and 13 inch rack toms, and a 16 inch floor tom. The shells are maple with Starclassic hardware. He also uses his Tama LU1465 signature snare, a 14x6.5 inch model that delivers the crisp, punchy tone heard across Metallica\'s catalog since the mid-2000s.',
+      },
+      {
+        question: 'What cymbals does Lars Ulrich use in 2026?',
+        answer: 'Lars Ulrich plays Zildjian A Custom cymbals, a series known for its bright, cutting response suited to large-venue live performance. His setup includes 14 inch A Custom Dyno Beat hi-hats, 17 and 19 inch A Custom Medium Crashes, a 22 inch A Custom Medium Ride, and a Zildjian Oriental 18 inch China. The A Custom series has been central to his sound for decades, delivering the aggressive attack and shimmer that defines Metallica\'s live experience.',
+      },
+      {
+        question: 'How much does Lars Ulrich\'s 2026 drum kit cost?',
+        answer: 'Lars Ulrich\'s Tama Starclassic Maple kit is estimated at $4,000 to $7,000 depending on shell pack configuration and finish. His Tama signature snare adds roughly $350 to $450. The Zildjian A Custom cymbal setup typically runs $1,500 to $2,500 for a full matched configuration. A close replica of his complete rig would cost approximately $6,000 to $10,000, making it achievable for serious gigging drummers.',
+      },
+    ],
     conclusion: {
       title: 'The Drummer Who Built Metal\'s Biggest Band',
       content: `Lars Ulrich may never win a drum-off against Gene Hoglan, Dave Lombardo, or Mike Portnoy. He'll never have a viral "reaction video" moment where drummers praise his impossible speed or jazz-influenced technique. The YouTube comments will continue debating his tempo fluctuations until the internet crumbles to dust.
@@ -8520,6 +8828,20 @@ From Mars to Sirius influenced countless bands and drummers. The album proved th
     relatedArticles: ['progressive-metal-drummers', 'best-double-bass-drummers', 'environmental-metal'],
     relatedLicks: [
       { drummerSlug: 'mario-duplantier', lickSlug: 'mario-duplantier-backbone-groove', label: "Watch Mario Duplantier's 'Backbone' groove breakdown" },
+    ],
+    faq: [
+      {
+        question: 'What drum kit did Mario Duplantier use on From Mars to Sirius?',
+        answer: 'Mario Duplantier recorded Gojira\'s From Mars to Sirius in 2005 on a Tama Starclassic Performer kit. The setup featured dual 22x18 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms, all built with birch and bubinga hybrid shells. This shell combination gave the kit a punchy, controlled low end that complemented Gojira\'s groove-heavy, rhythmically precise approach to technical death metal.',
+      },
+      {
+        question: 'What cymbals did Mario Duplantier use on From Mars to Sirius?',
+        answer: 'Mario Duplantier used Zildjian K Custom and K series cymbals on From Mars to Sirius. His setup included K Custom 14 inch Dark hi-hats, K Custom crashes ranging from 17 to 20 inches, a K Custom 22 inch Dark Ride, and an A Custom 18 inch China. The K Custom Dark series is known for its warm, dry, and complex tonal character, which suits the atmospheric and groove-driven dynamics that define Gojira\'s sound on this landmark album.',
+      },
+      {
+        question: 'How much did Mario Duplantier\'s From Mars to Sirius drum kit cost?',
+        answer: 'At the time of recording in 2005, the Tama Starclassic Performer kit was estimated at $3,000 to $4,500, with the Tama S.L.P. G-Maple snare adding $300 to $400. The Zildjian K Custom cymbal setup would have run approximately $1,500 to $2,500. Today, used Starclassic Performer kits from that era can be found for $1,500 to $2,500 on the vintage market, making this a more accessible setup to replicate.',
+      },
     ],
     conclusion: {
       title: 'Where Technical Meets Primal',
@@ -8833,6 +9155,20 @@ Today, Gene plays:
     relatedLicks: [
       { drummerSlug: 'gene-hoglan', lickSlug: 'gene-hoglan-crystal-mountain-groove', label: "Watch Gene Hoglan's 'Crystal Mountain' groove breakdown" },
       { drummerSlug: 'gene-hoglan', lickSlug: 'gene-hoglan-zero-tolerance-groove', label: "Watch Gene Hoglan's 'Zero Tolerance' groove breakdown" },
+    ],
+    faq: [
+      {
+        question: 'What drum kit did Gene Hoglan use on Symbolic?',
+        answer: 'Gene Hoglan recorded Death\'s Symbolic in 1995 using a Tama Artstar II kit. The configuration included dual 22x16 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The Artstar II shells were birch with maple reinforcement rings, delivering a tight, focused attack well-suited to the technical precision required on Symbolic. His snare was a Tama Mastercraft Steel model at 14x6.5 inches, adding crisp, cutting backbeats throughout the recording.',
+      },
+      {
+        question: 'What cymbals did Gene Hoglan use on Symbolic?',
+        answer: 'Gene Hoglan used a combination of Paiste 2002 and RUDE cymbals on Symbolic. The setup included Paiste 2002 14 inch Sound Edge hi-hats, 2002 16 and 18 inch Crashes, a RUDE 19 inch Wild Crash, a 2002 22 inch Medium Ride, and a 2002 18 inch Novo China. The 2002 series is known for its bright, powerful projection, while the RUDE Wild Crash adds an explosive, trashy texture that cuts through Death\'s dense, layered guitar work on the album.',
+      },
+      {
+        question: 'How much did Gene Hoglan\'s Symbolic drum kit cost?',
+        answer: 'In 1995, the Tama Artstar II shell pack was priced at approximately $2,500 to $3,500, with the Tama Mastercraft Steel snare adding $350 to $450. The Paiste 2002 and RUDE cymbal setup would have cost roughly $1,200 to $2,000 new. Today, vintage Tama Artstar II kits in good condition sell for $1,500 to $3,000 on the used market, making this era setup a compelling and affordable choice for death metal drummers.',
+      },
     ],
     conclusion: {
       title: 'The Perfect Death Metal Drum Performance',
@@ -9496,6 +9832,20 @@ Though Adler departed Lamb of God in 2019, his playing on Ashes of the Wake rema
       { drummerSlug: 'chris-adler', lickSlug: 'chris-adler-laid-to-rest-groove', label: "Watch Chris Adler's 'Laid to Rest' groove breakdown" },
     ],
     // Conclusion
+    faq: [
+      {
+        question: 'What drum kit did Chris Adler use on Ashes of the Wake?',
+        answer: 'Chris Adler recorded Lamb of God\'s Ashes of the Wake in 2004 on a Mapex Pro M Series kit. The configuration included dual 22x18 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms, all built with all-maple shells featuring SONIClear bearing edges. His snare was a Mapex Black Panther Maple at 14x5.5 inches. The Pro M Series delivered the punchy, articulate tone needed to drive Lamb of God\'s aggressive, groove-metal rhythmic attack.',
+      },
+      {
+        question: 'What cymbals did Chris Adler use on Ashes of the Wake?',
+        answer: 'Chris Adler used Meinl Byzance cymbals throughout Ashes of the Wake. His setup included 13 inch Byzance Traditional hi-hats, Byzance crashes from 18 to 20 inches, a 21 inch Byzance Traditional Medium Ride, Byzance 18 and 20 inch Chinas, and a 10 inch Splash. The Byzance series is handcrafted in Turkey and known for its warm, dark, and complex tonal response, which gave Adler\'s playing a rich, musical quality that set Lamb of God apart from their peers at the time.',
+      },
+      {
+        question: 'How much did Chris Adler\'s Ashes of the Wake drum kit cost?',
+        answer: 'At the time of recording in 2004, the Mapex Pro M Series kit was priced at approximately $2,500 to $3,500, with the Mapex Black Panther snare adding $350 to $450. The Meinl Byzance cymbal setup would have cost $1,500 to $2,500. Today, used Mapex Pro M kits sell for $800 to $1,800, making this one of the more affordable setups to replicate among high-profile metal drummers from that era.',
+      },
+    ],
     conclusion: {
       title: 'The Groove Metal Standard',
       content: `Twenty years after its release, Ashes of the Wake remains the definitive groove metal drum recording. Chris Adler's performance isn't just technically impressive — it's musical, dynamic, and perfectly serves the songs' aggressive vision while maintaining the groove that makes audiences move involuntarily.
@@ -9713,6 +10063,20 @@ Cryptopsy's "As Gomorrah Burns" (2023) proved Flo is still at the top of his gam
     relatedAlbums: ['symbolic-drum-setup', 'reign-in-blood-drum-setup', 'iowa-drum-setup'],
     relatedDrummers: [3, 6, 4], // Gene Hoglan, George Kollias, Dave Lombardo
     relatedArticles: ['blast-beat-techniques', 'fastest-metal-drummers', 'technical-death-metal-drumming'],
+    faq: [
+      {
+        question: 'What drum kit does Flo Mounier use?',
+        answer: 'Flo Mounier of Cryptopsy plays a Tama Starclassic Maple kit built around a single 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The all-maple shells are 6mm thick, optimized for the extreme tempo and articulation demands of technical death metal. He pairs this with a Tama S.L.P. Classic Dry Aluminum snare at 14x5.5 inches, which delivers a sharp, cutting crack suited to his explosive playing style.',
+      },
+      {
+        question: 'What cymbals does Flo Mounier use?',
+        answer: 'Flo Mounier plays Sabian cymbals, primarily from the AAX and HHX series. His setup includes 14 inch AAX X-Celerator hi-hats, AAX crashes ranging from 16 to 19 inches, a 20 inch AAX Metal Ride, and an 18 inch AAX X-Treme Chinese. The AAX series is engineered for bright, cutting projection and fast response, making it well-suited to the blistering speeds and complex patterns Mounier executes in Cryptopsy\'s extreme technical death metal context.',
+      },
+      {
+        question: 'How much does Flo Mounier\'s drum kit cost?',
+        answer: 'Flo Mounier\'s Tama Starclassic Maple kit is estimated at $3,500 to $5,000 for the shell pack, with his Tama S.L.P. Classic Dry Aluminum snare adding $350 to $450. The Sabian AAX and HHX cymbal setup typically runs $1,500 to $2,500 for a full configuration. A complete replica of his rig would cost approximately $5,500 to $8,000, placing it in the professional mid-tier range for serious extreme metal drummers.',
+      },
+    ],
     conclusion: {
       title: 'The Standard for Technical Extremity',
       content: `For over three decades, Flo Mounier has defined what's possible in extreme metal drumming. His combination of jazz musicality, physical precision, and brutal intensity created the template for technical death metal that countless drummers have attempted to replicate.
@@ -10010,6 +10374,20 @@ Today, Pete conducts clinics and workshops sharing his techniques with new gener
     relatedAlbums: ['reign-in-blood-drum-setup', 'symbolic-drum-setup'],
     relatedDrummers: [3, 4, 6], // Gene Hoglan, Dave Lombardo, George Kollias
     relatedArticles: ['blast-beat-techniques', 'florida-death-metal-sound', 'gravity-blast-tutorial'],
+    faq: [
+      {
+        question: 'What drum kit does Pete Sandoval use with Morbid Angel?',
+        answer: 'Pete Sandoval has used a combination of Tama Artstar II and Tama Starclassic Performer kits throughout his career with Morbid Angel. His live setup includes dual 22x18 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. Shell materials have varied between birch/basswood and maple/birch configurations. He pairs these with a Tama Metalworks Steel snare at either 14x5.5 or 14x6.5 inches, delivering the sharp, aggressive attack that defines his brutal death metal style.',
+      },
+      {
+        question: 'What cymbals does Pete Sandoval use with Morbid Angel?',
+        answer: 'Pete Sandoval is closely associated with Paiste RUDE cymbals, one of the most iconic cymbal pairings in death metal history. His setup includes RUDE 14 inch hi-hats, RUDE 18 to 20 inch Crash/Rides, a RUDE 20 inch Ride, and a RUDE 18 inch China. The RUDE series is designed for maximum volume and aggression, with a raw, cutting tone that projects powerfully in live settings. This setup has been central to Morbid Angel\'s sonic identity since the late 1980s.',
+      },
+      {
+        question: 'How much does Pete Sandoval\'s Morbid Angel drum kit cost?',
+        answer: 'A vintage Tama Artstar II kit in good condition now sells for $3,000 to $5,000 on the used market, with newer Starclassic Performer equivalents priced similarly new. His Tama Metalworks Steel snare adds $200 to $350. A full Paiste RUDE cymbal setup matching his configuration runs approximately $1,500 to $2,500. A complete replica of his rig would cost $5,000 to $8,000, depending on which era kit you source.',
+      },
+    ],
     conclusion: {
       title: 'The Foundation of Extreme',
       content: `Pete Sandoval's influence on extreme metal drumming is immeasurable. Before "Altars of Madness," there was no template for death metal drumming. Thrash existed, punk existed, but the synthesis of speed, brutality, and technical precision that defined death metal was created in Tampa, Florida, by Pete Sandoval and his contemporaries.
@@ -10309,6 +10687,20 @@ The metronome is non-negotiable. Every speed exercise must be metronomically pre
     relatedAlbums: ['altars-of-madness-drum-setup', 'symbolic-drum-setup', 'reign-in-blood-drum-setup'],
     relatedDrummers: [3, 23, 4], // Gene Hoglan, Pete Sandoval, Dave Lombardo
     relatedArticles: ['blast-beat-techniques', 'heel-toe-technique-guide', 'extreme-metal-drums'],
+    faq: [
+      {
+        question: 'What drum kit does George Kollias use?',
+        answer: 'George Kollias of Nile plays a Pearl Masterworks Stadium Exotic kit with dual 22x18 inch bass drums for live performance, 10 and 12 inch toms, and 14 and 16 inch floor toms. The shells are a maple/birch hybrid, giving the kit both warmth and articulation suited to extreme speed. He uses his Pearl George Kollias Signature snare, a 14x6.5 inch model built to handle the intense physical demands of some of the fastest and most technically demanding drumming in death metal.',
+      },
+      {
+        question: 'What cymbals does George Kollias use?',
+        answer: 'George Kollias plays Zildjian cymbals, mixing K Custom and A Custom series pieces. His setup includes 14 inch K Mastersound hi-hats, K Custom Dark crashes from 17 to 19 inches, a 21 inch A Custom Mega Bell Ride, an 18 inch K Custom China, and a 10 inch A Custom Splash. The K Custom Dark crashes provide a dry, complex response while the A Custom Mega Bell Ride cuts through clearly in dense, fast passages, giving Kollias definition and clarity at extreme tempos.',
+      },
+      {
+        question: 'How much does George Kollias\' drum kit cost?',
+        answer: 'George Kollias\' Pearl Masterworks Stadium Exotic kit is a custom-order instrument estimated at $8,000 to $12,000, placing it firmly in the professional custom tier. His Pearl signature snare adds $400 to $500. The Zildjian K Custom and A Custom cymbal combination runs approximately $2,000 to $3,500 for a complete matched setup. All in, replicating his full rig would likely cost $11,000 to $16,000.',
+      },
+    ],
     conclusion: {
       title: 'The Speed King Continues',
       content: `George Kollias represents something rare in extreme metal: sustained excellence without compromise. Twenty years after joining Nile, he remains at the peak of his abilities, continuing to push boundaries while generously teaching others to follow.
@@ -10642,6 +11034,20 @@ Today, Pete Sandoval's influence is heard in every death metal blast beat. The t
       { drummerSlug: 'pete-sandoval', lickSlug: 'pete-sandoval-chapel-of-ghouls', label: "Watch Pete Sandoval's 'Chapel of Ghouls' breakdown" },
       { drummerSlug: 'pete-sandoval', lickSlug: 'pete-sandoval-immortal-rites', label: "Watch Pete Sandoval's 'Immortal Rites' breakdown" },
     ],
+    faq: [
+      {
+        question: 'What drum kit did Pete Sandoval use on Altars of Madness?',
+        answer: 'Pete Sandoval recorded Morbid Angel\'s debut Altars of Madness in 1989 on an early Tama Superstar kit with dual 22x16 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The shells were birch, providing a punchy, focused tone that sat aggressively in the mix. His snare was a Tama Superstar Steel at 14x6.5 inches. This was a relatively affordable mid-range kit at the time, yet it delivered some of the most ferocious drumming ever committed to tape.',
+      },
+      {
+        question: 'What cymbals did Pete Sandoval use on Altars of Madness?',
+        answer: 'Pete Sandoval used Paiste 2002 cymbals on Altars of Madness, a series well known for its aggressive, powerful projection. His setup included 2002 14 inch Sound Edge hi-hats, 2002 16 and 18 inch Crashes, a 2002 20 inch Medium Ride, and a 2002 18 inch China Type. The 2002 series\' bright, cutting character was ideal for cutting through the dense, fast guitar work on the album, and helped establish the Paiste 2002 as a foundational cymbal choice in early death metal.',
+      },
+      {
+        question: 'How much did Pete Sandoval\'s Altars of Madness drum kit cost?',
+        answer: 'In 1989, the Tama Superstar shell pack was priced at approximately $1,500 to $2,500, making it an accessible professional kit. Today, well-preserved vintage Tama Superstar kits from that era sell for $3,000 to $5,000 among collectors. The Paiste 2002 cymbal setup would have cost around $800 to $1,500 new in 1989. For drummers seeking to replicate this historically significant rig today, the vintage components will represent the largest cost driver.',
+      },
+    ],
     conclusion: {
       title: 'The Foundation of Extreme',
       content: `Altars of Madness didn't just establish Morbid Angel as death metal pioneers — it created the template for extreme metal drumming that every death metal drummer has followed since. Pete Sandoval's performance on this album remains one of the most influential in heavy music history.
@@ -10906,6 +11312,20 @@ Paul's return to Testament proves he's not done. Bringing thirty-plus years of e
     relatedAlbums: ['reign-in-blood-drum-setup', 'master-of-puppets-drum-setup', 'vulgar-display-of-power-drum-setup'],
     relatedDrummers: [4, 1, 3], // Dave Lombardo, Lars Ulrich, Gene Hoglan
     relatedArticles: ['whats-in-dave-lombardos-kit', 'big-four-thrash-drummers', 'bay-area-thrash-scene'],
+    faq: [
+      {
+        question: 'What drum kit does Paul Bostaph use with Slayer?',
+        answer: 'Paul Bostaph plays a DW Collector\'s Series Maple/Mahogany kit configured with dual 22x18 inch bass drums for live performance, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The maple/mahogany hybrid shells produce a warm, powerful tone with strong low-end projection suited to Slayer\'s dense, aggressive sound. He uses a DW Collector\'s Maple snare at 14x6.5 inches, adding a full, resonant crack that cuts through the band\'s wall of guitars.',
+      },
+      {
+        question: 'What cymbals does Paul Bostaph use with Slayer?',
+        answer: 'Paul Bostaph plays Paiste RUDE cymbals, one of the most aggressive and durable series in the Paiste lineup. His setup includes RUDE 14 inch hi-hats, RUDE 17 to 19 inch Crashes, a RUDE 20 inch Ride, and a RUDE 18 inch China. The RUDE series is engineered for extreme volume and maximum attack, making it ideally suited to Slayer\'s relentless live environment. The series\' raw, unprocessed tone has long been a hallmark of thrash and death metal drumming.',
+      },
+      {
+        question: 'How much does Paul Bostaph\'s Slayer drum kit cost?',
+        answer: 'Paul Bostaph\'s DW Collector\'s Series Maple/Mahogany shell pack is estimated at $4,000 to $7,000 depending on finish and configuration. His DW Collector\'s Maple snare adds $500 to $700. A full Paiste RUDE cymbal setup matching his configuration runs approximately $1,500 to $2,500. A complete replica of his rig would cost between $6,000 and $10,000, reflecting DW\'s premium positioning in the drum market.',
+      },
+    ],
     conclusion: {
       title: 'The Unsung Hero of Thrash Metal',
       content: `Paul Bostaph may be the most underrated drummer in thrash metal history. Spending twelve years with Slayer — more than any other drummer — recording four studio albums, and playing the band's final show, his contributions to metal deserve recognition beyond "the guy who replaced Lombardo."
@@ -11173,6 +11593,20 @@ The classic lineup's reunion with "Brave New World" began Iron Maiden's second g
     relatedAlbums: ['number-of-the-beast-drum-setup', 'master-of-puppets-drum-setup', 'painkiller-drum-setup'],
     relatedDrummers: [1, 19, 4], // Lars Ulrich, Scott Travis, Dave Lombardo
     relatedArticles: ['nwobhm-drummers', 'single-vs-double-bass-pedals', 'iron-maiden-gear-guide'],
+    faq: [
+      {
+        question: 'What drum kit does Nicko McBrain use?',
+        answer: 'Nicko McBrain plays a Sonor SQ2 Nicko McBrain Signature kit with birch shells. His current setup features a single 22x14 inch bass drum, rack toms in 10, 12, and 13 inches, and floor toms in 14 and 16 inches. The birch shells deliver the punchy, focused attack that suits Iron Maiden\'s driving rhythmic style. Sonor built this configuration to his exact touring and recording specifications.',
+      },
+      {
+        question: 'What cymbals does Nicko McBrain use?',
+        answer: 'Nicko McBrain is a longtime Paiste endorser, drawing from the Signature, 2002, and RUDE series. His setup includes Paiste Signature 15 inch Sound Edge hi-hats, Signature crashes ranging from 16 to 19 inches, a Signature 22 inch Power Ride, a Signature 18 inch Thin China, and a Signature 10 inch Splash. The Signature series gives him a bright, clear sound that cuts through Iron Maiden\'s layered twin-guitar arrangements.',
+      },
+      {
+        question: 'How much does Nicko McBrain\'s drum kit cost?',
+        answer: 'A Sonor SQ2 Nicko McBrain Signature kit runs approximately $8,000 to $15,000 depending on finish and configuration options, as SQ2 kits are built to order. Add a Sonor Artist or SQ2 custom snare at $600 to $1,000, and a full Paiste Signature cymbal setup can easily add another $3,000 to $5,000. All in, replicating his complete rig would cost between $12,000 and $21,000 or more.',
+      },
+    ],
     conclusion: {
       title: 'The Living Legend of Heavy Metal Drumming',
       content: `Nicko McBrain isn't just a drummer — he's a monument to what's possible with dedication, technique, and an unwillingness to follow trends. In a metal world obsessed with double bass speed and technical complexity, Nicko has proven for over forty years that a single bass drum, proper technique, and musical intelligence can achieve results that no amount of gear can replicate.
@@ -11494,6 +11928,20 @@ The common thread among all these drummers is understanding that groove matters 
     relatedAlbums: ['vulgar-display-of-power-drum-setup', 'reign-in-blood-drum-setup', 'master-of-puppets-drum-setup'],
     relatedDrummers: [4, 22, 7], // Dave Lombardo, Charlie Benante, Eloy Casagrande
     relatedArticles: ['groove-metal-drummers', 'best-snare-drums-for-thrash-metal', 'pantera-gear-guide'],
+    faq: [
+      {
+        question: 'What drum kit did Vinnie Paul use with Pantera?',
+        answer: 'During his Pantera years and beyond, Vinnie Paul became closely associated with his ddrum Vinnie Paul Signature Series kit. The setup featured maple shells with reinforcement rings for extra punch and projection, dual 24x18 inch bass drums for his devastating double-kick work, rack toms in 10, 12, and 13 inches, and floor toms in 16 and 18 inches. The large bass drum diameter was central to his massive, low-end-heavy Pantera tone.',
+      },
+      {
+        question: 'What cymbals did Vinnie Paul use with Pantera?',
+        answer: 'Vinnie Paul was a Sabian endorser, working primarily with the AAX and HHX series. His setup included Sabian AAX 14 inch Metal hi-hats, AAX 18 and 20 inch Metal crashes, an HHX 22 inch Raw Bell Dry Ride for a dark, washy ride tone, and an AAX 20 inch Chinese. The AAX Metal series gave him the aggressive, cutting attack that defined Pantera\'s groove-metal drum sound on records like Vulgar Display of Power.',
+      },
+      {
+        question: 'How much does Vinnie Paul\'s Pantera drum kit cost?',
+        answer: 'The ddrum Vinnie Paul Signature Series kit is estimated at $5,000 to $8,000 for the shell pack. His ddrum Vinnie Paul Signature snare, a deep 14x8 inch model, adds roughly $400 to $600. A matching Sabian AAX and HHX cymbal setup runs approximately $2,000 to $3,500. To assemble a tribute rig close to his Pantera-era setup, expect a total investment in the range of $8,000 to $12,000.',
+      },
+    ],
     conclusion: {
       title: 'Rest in Power: The Groove Metal King',
       content: `On June 22, 2018, the metal world lost one of its most influential drummers. Vinnie Paul Abbott passed away at 54, joining his brother Dimebag in whatever lies beyond. But while the man is gone, his legacy reverberates through every kick drum hit, every half-time groove, every metal drummer who understands that sometimes, less is more.
@@ -11808,6 +12256,20 @@ The Portnoy/Mangini comparison teaches that there are multiple valid approaches 
     relatedAlbums: ['images-and-words-drum-setup', 'lateralus-drum-setup', 'master-of-puppets-drum-setup'],
     relatedDrummers: [13, 5, 14], // Mike Portnoy, Tomas Haake, Danny Carey
     relatedArticles: ['whats-in-mike-portnoys-kit', 'whats-in-tomas-haakes-kit', 'progressive-metal-drummers'],
+    faq: [
+      {
+        question: 'What drum kit does Mike Mangini use with Dream Theater?',
+        answer: 'Mike Mangini plays a Pearl Masterworks Maple kit configured for maximum range and speed. His setup includes dual 22x18 inch bass drums, an unusually wide rack tom spread of 8, 10, 12, 13, and 14 inches, and floor toms at 16x14 and 16x16 inches. The maple shells with optimized bearing edges support his technically demanding playing style. Pearl built this as a custom Masterworks configuration tailored specifically to his ergonomic and tonal requirements.',
+      },
+      {
+        question: 'What cymbals does Mike Mangini use with Dream Theater?',
+        answer: 'Mike Mangini relies on Sabian\'s HHX and AAX lines for his extensive cymbal setup. Key pieces include Sabian HHX 14 inch Evolution hi-hats, a mix of AAX and HHX crashes from 16 to 19 inches, an HHX 21 inch Evolution Ride, an HHX 22 inch Legacy Ride for tonal variety, an AAX 18 inch Chinese, and an AAX 10 inch Splash. Running two rides allows him to switch tonal colors instantly during Dream Theater\'s complex, progressive arrangements.',
+      },
+      {
+        question: 'How much does Mike Mangini\'s Dream Theater kit cost?',
+        answer: 'A Pearl Masterworks Maple shell pack comparable to Mangini\'s configuration ranges from $8,000 to $15,000, with custom finishes and extra toms pushing costs higher. Multiple Pearl Reference Series snares add $600 to $900 each. His expansive Sabian HHX and AAX cymbal rig, featuring two rides and multiple crashes, would cost $4,000 to $6,000 to replicate. A full recreation of his Dream Theater setup is realistically priced between $14,000 and $23,000.',
+      },
+    ],
     conclusion: {
       title: 'The Academic Approach to Greatness',
       content: `Mike Mangini represents something unique in the drumming world: proof that scientific analysis and academic rigor can achieve results on par with raw natural talent. His Guinness World Records, his Berklee professorship, and his Dream Theater tenure all demonstrate that there's more than one path to the top.
@@ -12085,6 +12547,20 @@ Vinnie's work as co-producer on Cowboys from Hell launched his second career as 
     relatedLicks: [
       { drummerSlug: 'vinnie-paul', lickSlug: 'vinnie-paul-cowboys-from-hell-groove', label: "Watch Vinnie Paul's 'Cowboys from Hell' groove breakdown" },
       { drummerSlug: 'vinnie-paul', lickSlug: 'vinnie-paul-domination-double-bass', label: "Watch Vinnie Paul's 'Domination' double bass breakdown" },
+    ],
+    faq: [
+      {
+        question: 'What drum kit did Vinnie Paul use on Cowboys from Hell?',
+        answer: 'On Cowboys from Hell recorded in 1990, Vinnie Paul played a Tama Artstar II kit. The configuration included dual 22x18 inch bass drums, rack toms in 10, 12, and 13 inches, and floor toms in 16 and 18 inches. The Artstar II featured birch shells with die-cast hoops, which contributed to the tight, punchy low-end that became a signature element of Pantera\'s debut major-label sound and set the template for groove metal drumming.',
+      },
+      {
+        question: 'What cymbals did Vinnie Paul use on Cowboys from Hell?',
+        answer: 'For Cowboys from Hell in 1990, Vinnie Paul used Sabian AA and early AAX series cymbals. His setup included Sabian AA 14 inch Regular hi-hats, AA 16 and 18 inch Medium crashes, an AAX 19 inch Metal Crash for extra aggression, an AA 20 inch Heavy Ride, and an AA 18 inch Chinese. The AA series provided the bright, cutting attack that defined the album\'s raw production, pairing well with Dimebag\'s heavily processed guitar tones.',
+      },
+      {
+        question: 'How much does Vinnie Paul\'s Cowboys from Hell kit cost?',
+        answer: 'At the time of recording in 1990, a Tama Artstar II kit was valued at approximately $3,000 to $4,500. Today, vintage Tama Artstar II kits in good condition sell on the used market for roughly $1,500 to $3,000 depending on configuration and condition. The Tama steel snare adds around $200 to $400 on the vintage market. A period-correct Sabian AA cymbal setup would cost another $800 to $1,500, putting a full vintage recreation at $2,500 to $5,000.',
+      },
     ],
     conclusion: {
       title: 'Where Groove Metal Was Born',
@@ -12390,6 +12866,20 @@ Your ego is the enemy of musical growth. Be willing to play less. Be willing to 
     },
     relatedLicks: [
       { drummerSlug: 'igor-cavalera', lickSlug: 'igor-cavalera-roots-bloody-roots-tribal-groove', label: "Watch Igor Cavalera's 'Roots Bloody Roots' tribal groove breakdown" },
+    ],
+    faq: [
+      {
+        question: 'What drum kit did Igor Cavalera use on Roots?',
+        answer: 'On Sepultura\'s Roots recorded in 1996, Igor Cavalera played a Pearl Masters Custom kit with 6-ply maple shells. The setup featured a single 22x18 inch bass drum, rack toms in 10 and 12 inches, and floor toms in 14 and 16 inches. The maple shells provided warmth and sustain that complemented the album\'s tribal, groove-focused compositions, which incorporated indigenous Brazilian percussion alongside the standard drum kit.',
+      },
+      {
+        question: 'What cymbals did Igor Cavalera use on Roots?',
+        answer: 'On Roots in 1996, Igor Cavalera used the Paiste RUDE series exclusively. His setup included Paiste RUDE 14 inch hi-hats, RUDE 18 and 19 inch Crash/Rides, a RUDE 20 inch Ride, and a RUDE 18 inch China. The RUDE series is known for its raw, aggressive character and cutting projection, qualities that suited the album\'s raw, tribal-metal sound and Cavalera\'s hard-hitting, open style.',
+      },
+      {
+        question: 'How much does Igor Cavalera\'s Roots kit cost?',
+        answer: 'At the time of recording in 1996, a Pearl Masters Custom kit was priced at approximately $2,500 to $3,500. Today, used Pearl Masters Custom kits from the mid-1990s can be found for $800 to $2,000 depending on condition. The Pearl Sensitone Steel snare adds roughly $150 to $300 on the used market. A matching set of vintage Paiste RUDE cymbals would cost $1,000 to $2,000, putting a complete replica in the $2,000 to $4,500 range.',
+      },
     ],
     conclusion: {
       title: 'When Metal Found Its Roots',
@@ -12754,6 +13244,20 @@ Songs like "The Art of Dying" and the title track are marathons. Nine minutes of
     relatedLicks: [
       { drummerSlug: 'mario-duplantier', lickSlug: 'mario-duplantier-polyrhythmic-groove', label: "Watch Mario Duplantier's polyrhythmic groove breakdown" },
     ],
+    faq: [
+      {
+        question: 'What drum kit did Mario Duplantier use on The Way of All Flesh?',
+        answer: 'On Gojira\'s The Way of All Flesh recorded in 2008, Mario Duplantier played a Tama Starclassic Bubinga kit. The configuration included dual 22x18 inch bass drums, rack toms in 10 and 12 inches, and floor toms in 14 and 16 inches. The Starclassic Bubinga used a bubinga and birch hybrid shell construction, delivering a dense, powerful tone with excellent attack and sustain that complemented Gojira\'s heavy, rhythmically precise style.',
+      },
+      {
+        question: 'What cymbals did Mario Duplantier use on The Way of All Flesh?',
+        answer: 'On The Way of All Flesh in 2008, Mario Duplantier used Zildjian K Custom and A Custom series cymbals. His setup included Zildjian 14 inch K Sweet hi-hats, crashes ranging from 18 to 20 inches from both series, a Zildjian 21 inch A Custom Mega Bell Ride for its defined bell presence, an A Custom 18 inch China, and an A Custom 10 inch Splash. These cymbals provided a balance of darkness and clarity suited to Gojira\'s dynamic range.',
+      },
+      {
+        question: 'How much does Mario Duplantier\'s The Way of All Flesh kit cost?',
+        answer: 'At the time of recording in 2008, a Tama Starclassic Bubinga kit was valued at approximately $4,500 to $6,500. Today, used Starclassic Bubinga kits from that era sell for $2,000 to $4,000 depending on condition. The Tama SLP G-Maple snare adds $300 to $500 on the used market. A comparable Zildjian K Custom and A Custom cymbal setup runs $2,500 to $4,000 new. A full replica of his 2008 rig costs approximately $5,000 to $9,000.',
+      },
+    ],
     conclusion: {
       title: 'When Death Metal Achieved Art',
       content: `"The Way of All Flesh" stands as proof that extreme metal can achieve genuine artistic significance. It's an album about mortality, consciousness, and transformation — themes that have occupied philosophers for millennia — delivered with the heaviest music ever created. At the center of this achievement sits Mario Duplantier, whose drumming gives physical form to these abstract concepts.
@@ -13089,6 +13593,20 @@ Nearly 30 years after "None So Vile," Cryptopsy's latest album proves Flo is sti
     relatedLicks: [
       { drummerSlug: 'flo-mounier', lickSlug: 'flo-mounier-phobophile-gravity-blast', label: "Watch Flo Mounier's 'Phobophile' gravity blast breakdown" },
       { drummerSlug: 'flo-mounier', lickSlug: 'flo-mounier-slit-your-guts-blast', label: "Watch Flo Mounier's 'Slit Your Guts' blast breakdown" },
+    ],
+    faq: [
+      {
+        question: 'What drum kit did Flo Mounier use on None So Vile?',
+        answer: 'On Cryptopsy\'s None So Vile recorded in 1996, Flo Mounier played a Pearl MX Series kit with maple shells and ISS tom mounting. The configuration included a single 22x18 inch bass drum, rack toms in 10 and 12 inches, and floor toms in 14 and 16 inches. The MX Series was Pearl\'s professional-level offering at the time, providing the shell resonance and durability needed for Mounier\'s extraordinarily fast and precise death metal drumming.',
+      },
+      {
+        question: 'What cymbals did Flo Mounier use on None So Vile?',
+        answer: 'On None So Vile in 1996, Flo Mounier used the Sabian AA series throughout his setup. His configuration included Sabian 14 inch AA Regular hi-hats, a 16 inch AA Crash, an 18 inch AA Crash, a 20 inch AA Metal Ride for cutting projection, and an 18 inch AA Chinese. The AA series delivered the bright, articulate response needed to keep pace with the album\'s relentlessly fast tempos and intricate cymbal patterns that defined brutal death metal drumming.',
+      },
+      {
+        question: 'How much does Flo Mounier\'s None So Vile kit cost?',
+        answer: 'At the time of recording in 1996, a Pearl MX Series kit was valued at approximately $2,000 to $3,000. Today, vintage Pearl MX kits can be found on the used market for $700 to $1,800. The Pearl Steel snare adds another $100 to $250 used. A full set of vintage Sabian AA cymbals matching his setup runs $800 to $1,500. To assemble a complete period-accurate replica of his None So Vile rig, expect to spend roughly $1,600 to $3,500 total.',
+      },
     ],
     conclusion: {
       title: 'The Benchmark That Still Stands',
@@ -13444,6 +13962,20 @@ Igor's approach on "Roots" proved that metal drumming could be more than speed a
     relatedDrummers: [4, 1, 7], // Dave Lombardo, Lars Ulrich, Eloy Casagrande
     relatedArticles: ['tribal-metal-drumming', 'brazilian-metal-drummers', 'groove-vs-thrash-drumming'],
     // Conclusion
+    faq: [
+      {
+        question: 'What drum kit does Igor Cavalera use currently?',
+        answer: 'Igor Cavalera currently uses a hybrid acoustic and electronic setup combining Tama and Pearl acoustic drums with Roland electronic pads. His acoustic configuration includes a 22x18 inch bass drum paired with a 20 inch electronic kick pad, rack toms in 10, 12, and 14 inches, floor toms in 16 and 18 inches, and maple or birch shells. He augments this with traditional Brazilian percussion including atabaque, surdo, timbales, and various hand drums, reflecting his ongoing interest in tribal and world music.',
+      },
+      {
+        question: 'What cymbals does Igor Cavalera use currently?',
+        answer: 'Igor Cavalera continues to use Paiste cymbals, drawing from the RUDE and 2002 series that he favored throughout his Sepultura career. His current setup includes Paiste RUDE 14 inch hi-hats, RUDE crashes ranging from 16 to 19 inches, a Paiste 2002 22 inch Ride, and a RUDE 18 inch China. The RUDE series remains central to his sound, providing the raw, aggressive character that suits his hard-hitting tribal metal approach.',
+      },
+      {
+        question: 'How much does Igor Cavalera\'s current kit cost?',
+        answer: 'Igor Cavalera\'s full hybrid setup is estimated at $5,000 to $12,000 depending on the specific Tama, Pearl, and Roland components chosen. Roland electronic drum pads and modules alone can account for $1,500 to $4,000 of that total. His snare options from Tama or Pearl run $300 to $500. A Paiste RUDE and 2002 cymbal setup adds roughly $2,000 to $3,500. Including tribal percussion instruments, a complete recreation of his current rig could exceed $15,000.',
+      },
+    ],
     conclusion: {
       title: 'The Pioneer\'s Legacy',
       content: `Igor Cavalera's contribution to heavy music extends far beyond his technical abilities. He expanded what metal drumming could be — from pure thrash aggression to tribal polyrhythms to electronic experimentation.
@@ -13812,6 +14344,20 @@ Thrash drumming is athletic. Cardio training, wrist exercises, and core strength
     },
     relatedLicks: [
       { drummerSlug: 'igor-cavalera', lickSlug: 'igor-cavalera-beneath-the-remains-blast', label: "Watch Igor Cavalera's 'Beneath the Remains' blast beat breakdown" },
+    ],
+    faq: [
+      {
+        question: 'What drum kit did Igor Cavalera use on Beneath the Remains?',
+        answer: 'On Sepultura\'s Beneath the Remains recorded in 1989, Igor Cavalera played a Pearl Export Series kit with poplar and basswood shells. The configuration included dual 22x16 inch bass drums, rack toms in 12 and 13 inches, and a single 16 inch floor tom. The Pearl Export was an entry-level to mid-range kit at the time, and its use reflects the band\'s limited budget during that period, though the aggressive recording and mixing helped achieve the album\'s legendary brutal sound.',
+      },
+      {
+        question: 'What cymbals did Igor Cavalera use on Beneath the Remains?',
+        answer: 'On Beneath the Remains in 1989, Igor Cavalera used Paiste 2002 series cymbals. His setup included Paiste 2002 14 inch Heavy hi-hats, 2002 16 and 18 inch Crashes, a 2002 20 inch Ride, and a 2002 18 inch China. The 2002 series was known for its bright, powerful sound and durability under heavy playing, making it a natural choice for the intense thrash and early death metal style Sepultura was developing during this era.',
+      },
+      {
+        question: 'How much does Igor Cavalera\'s Beneath the Remains kit cost?',
+        answer: 'At the time of recording in 1989, a Pearl Export kit was valued at roughly $600 to $900. Today, vintage Pearl Export kits from the late 1980s sell on the used market for $200 to $600 depending on condition. The Pearl Steel Sensitone snare adds $100 to $200 vintage. Vintage Paiste 2002 cymbals matching the album setup run $800 to $1,500 used. A full period-correct replica of the Beneath the Remains rig can be assembled for approximately $1,200 to $2,300.',
+      },
     ],
     conclusion: {
       title: 'When Brazil Stormed the Gates',
@@ -14242,6 +14788,20 @@ Igor's "Chaos A.D." performance isn't about what he plays — it's about what he
     relatedLicks: [
       { drummerSlug: 'igor-cavalera', lickSlug: 'igor-cavalera-refuse-resist-double-bass', label: "Watch Igor Cavalera's 'Refuse/Resist' double-bass groove breakdown" },
     ],
+    faq: [
+      {
+        question: 'What drum kit did Igor Cavalera use on Chaos A.D.?',
+        answer: 'On Sepultura\'s Chaos A.D. recorded in 1993, Igor Cavalera played a Pearl Masters Custom kit with 6-ply maple shells. The setup featured a single 22x16 inch bass drum, rack toms in 10 and 12 inches, and floor toms in 14 and 16 inches. This was a significant upgrade from the Pearl Export used on Beneath the Remains, with the maple Masters Custom providing greater warmth and sustain that suited the album\'s more groove-driven, mid-paced compositions.',
+      },
+      {
+        question: 'What cymbals did Igor Cavalera use on Chaos A.D.?',
+        answer: 'On Chaos A.D. in 1993, Igor Cavalera used a combination of Paiste RUDE and 2002 series cymbals. His setup included Paiste 2002 14 inch Heavy hi-hats, RUDE 18 and 19 inch Crash/Rides, a 2002 20 inch Heavy Ride, and a RUDE 18 inch China. Mixing the two series gave him the raw aggression of the RUDE line alongside the cleaner definition of the 2002, matching the album\'s blend of thrash energy and tribal groove.',
+      },
+      {
+        question: 'How much does Igor Cavalera\'s Chaos A.D. kit cost?',
+        answer: 'At the time of recording in 1993, a Pearl Masters Custom kit was priced at approximately $2,500 to $3,500. Today, mid-1990s Pearl Masters Custom kits sell used for $800 to $2,000. The Pearl Free Floating Steel snare from that era adds roughly $200 to $400 on the vintage market. A matching set of vintage Paiste RUDE and 2002 cymbals runs $1,000 to $2,000. Putting together a complete Chaos A.D.-era replica would cost approximately $2,000 to $4,500.',
+      },
+    ],
     conclusion: {
       title: 'The Album That Changed Everything',
       content: `"Chaos A.D." wasn't just a good album — it was a paradigm shift. When Sepultura slowed down and grooved on "Refuse/Resist," they didn't just write a song; they wrote a template that would influence two decades of heavy music.
@@ -14660,6 +15220,20 @@ Instagram and YouTube feature regular content: practice clips, gear demos, and t
       { text: 'Danny Carey kit article', url: '/articles/whats-in-danny-careys-kit' }
     ],
     // Conclusion
+    faq: [
+      {
+        question: 'What drum kit does Matt Garstka use?',
+        answer: 'Matt Garstka plays a Pearl Masterworks Maple kit configured with a 20x16 inch bass drum, 10x7 and 12x8 inch rack toms, and a 14x14 inch floor tom. The shells feature maple construction with Pearl\'s MasterCast hoops, which provide enhanced resonance and tuning stability. This is a professional-grade custom shell pack that Pearl builds to order, reflecting Garstka\'s demand for precise tonal control across his technically complex Animals as Leaders performances.',
+      },
+      {
+        question: 'What cymbals does Matt Garstka use?',
+        answer: 'Matt Garstka uses Meinl Byzance cymbals across multiple lines. His setup includes Byzance 15 inch Dual Hi-Hats, Byzance crashes in 18 and 20 inch sizes, a Byzance 22 inch Sand Ride, a Byzance 18 inch Vintage Trash Hat used as a China, and various stack effects. The Byzance line\'s handcrafted Turkish feel suits his blend of jazz-fusion sensitivity and progressive metal attack.',
+      },
+      {
+        question: 'How much does Matt Garstka\'s drum kit cost?',
+        answer: 'Matt Garstka\'s Pearl Masterworks Maple shell pack runs approximately $4,000 to $6,000 new, depending on finish and configuration. His Pearl Matt Garstka Signature Snare adds around $400 to $500. His Meinl Byzance cymbal setup can easily exceed $2,500 to $4,000 when factoring in multiple specialty pieces. Total kit cost with hardware and accessories lands in the range of $10,000 to $14,000 for a comparable full setup.',
+      },
+    ],
     conclusion: {
       title: 'The Future of Progressive Drumming',
       content: `Matt Garstka has redefined what's possible in progressive metal drumming. By bringing jazz sophistication to heavy music — traditional grip, ghost note vocabulary, dynamic extremes — he's created an approach that countless drummers now study and emulate.
@@ -15079,6 +15653,20 @@ Derek's YouTube channel and various online lessons continue his educational miss
       { text: 'Flo Mounier kit article', url: '/articles/whats-in-flo-mouniers-kit' }
     ],
     // Conclusion
+    faq: [
+      {
+        question: 'What drum kit does Derek Roddy use?',
+        answer: 'Derek Roddy plays a DW Collector\'s Series Maple kit built with North American Hard Rock Maple shells. His configuration includes a 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The DW Collector\'s Series is DW\'s flagship professional line, known for its consistent shell quality and wide customization options, making it a go-to choice for extreme metal drummers who demand both speed response and tonal depth.',
+      },
+      {
+        question: 'What cymbals does Derek Roddy use?',
+        answer: 'Derek Roddy uses Sabian HHX and AAX series cymbals. His setup includes Sabian HHX 14 inch Stage Hi-Hats, Sabian AAX 18 and 19 inch X-Plosion Crashes, a Sabian HHX 21 inch Raw Bell Dry Ride, a Sabian AAX 19 inch Chinese, and a Sabian AAX 10 inch Splash. The HHX series delivers a darker, more complex wash while the AAX pieces cut through dense metal mixes with focused projection.',
+      },
+      {
+        question: 'How much does Derek Roddy\'s drum kit cost?',
+        answer: 'Derek Roddy\'s DW Collector\'s Series Maple shell pack is estimated at $4,000 to $6,000 new. His DW Collector\'s Series snare in maple or brass adds approximately $600 to $800. The Sabian HHX and AAX cymbal setup runs roughly $1,500 to $2,500 complete. A full comparable setup including hardware and pedals can total between $8,000 and $12,000.',
+      },
+    ],
     conclusion: {
       title: 'The Educator\'s Legacy',
       content: `Derek Roddy changed extreme metal drumming not just through his performances, but through his teaching. Before "The Evolution of Blast Beats," sustained high-speed drumming seemed reserved for a gifted few. After it, drummers worldwide had a roadmap.
@@ -15370,6 +15958,20 @@ What's often overlooked is the physical conditioning required. Inferno maintains
       { text: 'Pete Sandoval kit article', url: '/articles/whats-in-pete-sandovals-kit' }
     ],
     // Conclusion
+    faq: [
+      {
+        question: 'What drum kit does Inferno of Behemoth use?',
+        answer: 'Inferno plays a Pearl Reference Pure Series kit in a double bass configuration, featuring two 22x18 inch bass drums, 10x7 and 12x8 inch rack toms, and 14 and 16 inch floor toms. The Reference Pure shells combine maple and birch for a balanced tone that blends punch with warmth. This configuration supports the relentless double bass work and precise tom patterns that define Behemoth\'s extreme blackened death metal sound.',
+      },
+      {
+        question: 'What cymbals does Inferno of Behemoth use?',
+        answer: 'Inferno uses Meinl Classics Custom Dark and Byzance series cymbals. His setup includes Meinl Classics Custom Dark 14 inch Hi-Hats, Classics Custom Dark crashes from 16 to 19 inches, a Classics Custom Dark 22 inch Ride, a Classics Custom Dark 18 inch China, and a Meinl 10 inch Splash. The Classics Custom Dark series produces a dry, fast, and focused response that cuts through Behemoth\'s dense wall of guitar without adding excessive wash.',
+      },
+      {
+        question: 'How much does Inferno\'s Behemoth drum kit cost?',
+        answer: 'Inferno\'s Pearl Reference Pure Series shell pack is estimated at $5,000 to $8,000 for the double bass configuration. His Pearl Reference brass or steel snare adds $500 to $700. The Meinl Classics Custom Dark cymbal setup typically runs $1,800 to $2,800. Combined with hardware, pedals, and accessories, a full comparable Inferno-spec setup can total between $10,000 and $15,000 at current market prices.',
+      },
+    ],
     conclusion: {
       title: 'The Standard of Extreme Metal Consistency',
       content: `Inferno represents something rare in extreme metal: three decades of consistent excellence. While many extreme drummers burn bright and fade quickly, he has maintained his performance level through 27+ years with Behemoth, countless tours, and nine studio albums.
@@ -15662,6 +16264,20 @@ Sean Reinert passed away in January 2020, but his innovations continue to influe
     relatedAlbums: ['symbolic-drum-setup', 'sound-of-perseverance-drum-setup', 'focus-drum-setup'],
     relatedDrummers: [3, 6, 21], // Gene Hoglan, George Kollias, Pete Sandoval
     relatedArticles: ['progressive-death-metal-drummers', 'jazz-influenced-metal-drummers'],
+    faq: [
+      {
+        question: 'What drum kit did Sean Reinert use on Human in 1991?',
+        answer: 'Sean Reinert recorded Death\'s Human in 1991 using a Tama Artstar II kit with birch shells. His configuration included a 22x16 inch bass drum, 10, 12, and 13 inch rack toms, and a 16 inch floor tom. The Artstar II was Tama\'s top professional line at the time, valued for its attack and sensitivity. Reinert\'s jazz-influenced technique on this kit helped define the album\'s uniquely fluid and technical death metal drumming.',
+      },
+      {
+        question: 'What cymbals did Sean Reinert use on Human in 1991?',
+        answer: 'Sean Reinert used a mix of Zildjian A and K series cymbals on Human. His setup included Zildjian A 14 inch Quick Beat Hi-Hats, Zildjian A 16 and 18 inch Crashes, a Zildjian K 20 inch Custom Dry Ride, a Zildjian 16 inch China, and a Zildjian A 10 inch Splash. The K Custom Dry Ride in particular contributed to the album\'s nuanced, complex cymbal tones that set Human apart from typical death metal productions of the era.',
+      },
+      {
+        question: 'How much does Sean Reinert\'s Human kit cost today?',
+        answer: 'Sean Reinert\'s Tama Artstar II kit retailed for approximately $2,500 to $3,500 when new in 1991. Today, vintage Artstar II shells in good condition sell for $1,500 to $3,000 on the used market depending on configuration and condition. His Zildjian A and K series cymbals are still in production, with a comparable new cymbal setup running $1,200 to $2,000. Collectors seeking the exact vintage pieces can expect a premium for well-preserved examples.',
+      },
+    ],
     conclusion: {
       title: 'The Day Jazz Changed Death Metal',
       content: `Human remains one of the most influential albums in metal history, and Sean Reinert's drumming is a primary reason why. In 1991, he proved that extreme music and sophisticated technique weren't mutually exclusive—that death metal could be virtuosic without sacrificing power, musical without losing aggression.
@@ -15859,6 +16475,20 @@ The 14" Medium Hi-Hats struck a balance between heaviness for chick work and res
     },
     relatedDrummers: [3, 6, 13],
     relatedArticles: ['technical-death-metal-drummers', 'best-double-bass-pedals'],
+    faq: [
+      {
+        question: 'What drum kit does Alex Bent use with Trivium?',
+        answer: 'Alex Bent plays a Pearl Reference Series kit in a double bass configuration, featuring two 22x18 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The Reference Series shells use a maple and birch hybrid construction that delivers a punchy attack with controlled sustain. This setup gives Bent the tonal versatility to move between Trivium\'s melodic passages and aggressive thrash-influenced sections without sacrificing clarity or power.',
+      },
+      {
+        question: 'What cymbals does Alex Bent use with Trivium?',
+        answer: 'Alex Bent uses Meinl Byzance Brilliant series cymbals throughout his kit. His setup includes Byzance Brilliant 14 inch Medium Hi-Hats, Byzance Brilliant crashes from 16 to 19 inches, a Byzance Brilliant 21 inch Medium Ride, a Byzance Brilliant 18 inch China, and a Byzance Brilliant 10 inch Splash. The Brilliant finish adds extra shimmer and projection, complementing Trivium\'s polished, radio-friendly metal production style while maintaining articulation at high tempos.',
+      },
+      {
+        question: 'How much does Alex Bent\'s Trivium drum kit cost?',
+        answer: 'Alex Bent\'s Pearl Reference Series shell pack in a double bass setup is estimated at $5,000 to $8,000 new. His Pearl Reference snare adds approximately $500 to $700. The full Meinl Byzance Brilliant cymbal setup including all crashes, ride, hi-hats, china, and splash can run $2,000 to $3,500. With hardware, double bass pedal, and accessories, a complete comparable setup runs approximately $10,000 to $15,000.',
+      },
+    ],
     conclusion: {
       title: 'Tech Death Precision, Arena-Ready Power',
       content: `Alex Bent's eight years with Trivium represented a perfect marriage of technical death metal precision and accessible modern metal. He proved that you could bring extreme chops to mainstream metal without sacrificing musicality—that speed and groove aren't mutually exclusive.
@@ -16298,6 +16928,20 @@ In interviews, Lopez has emphasized that he never thought of himself as a "death
       { drummerSlug: 'martin-lopez', lickSlug: 'martin-lopez-drapery-falls-dynamics', label: "Watch Martin Lopez's 'The Drapery Falls' dynamics breakdown" },
       { drummerSlug: 'martin-lopez', lickSlug: 'martin-lopez-bleak-ghost-notes', label: "Watch Martin Lopez's 'Bleak' ghost notes breakdown" },
     ],
+    faq: [
+      {
+        question: 'What drum kit did Martin Lopez use on Blackwater Park in 2001?',
+        answer: 'Martin Lopez recorded Opeth\'s Blackwater Park in 2001 using a Sonor Designer Series kit with maple shells. His configuration included a 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The Sonor Designer Series was one of the most respected professional kits of that era, prized for its warm, resonant maple tone that suited Blackwater Park\'s dynamic range from delicate acoustic passages to full progressive metal heaviness.',
+      },
+      {
+        question: 'What cymbals did Martin Lopez use on Blackwater Park in 2001?',
+        answer: 'Martin Lopez used Sabian HH and AAX series cymbals on Blackwater Park. His setup included Sabian HH 14 inch Regular Hi-Hats, a Sabian AAX 16 inch Stage Crash, a Sabian HH 18 inch Medium Crash, Sabian HH rides in 20 and 22 inches, and a Sabian AAX 18 inch Chinese. The HH series provided a warm, complex, hand-hammered tone that blended well with Opeth\'s intricate arrangements and frequent dynamic shifts between clean and heavy sections.',
+      },
+      {
+        question: 'How much does Martin Lopez\'s Blackwater Park kit cost today?',
+        answer: 'Martin Lopez\'s Sonor Designer Series kit retailed for approximately $3,500 to $5,000 when new around 2001. Vintage Sonor Designer Series kits in good condition now sell for $1,500 to $3,500 on the used market. His Sabian HH and AAX cymbals remain available new, with a comparable complete setup costing $1,500 to $2,500 today. Sourcing the original vintage Sonor Designer pieces can be competitive given the model\'s enduring reputation among collectors.',
+      },
+    ],
     conclusion: {
       title: 'The Album That Taught Death Metal to Breathe',
       content: `Blackwater Park stands as one of the most important albums in progressive metal history, and Martin Lopez's drumming is fundamental to its success. In 2001, he proved that extreme metal didn't have to sacrifice dynamics for heaviness—that the two could coexist and enhance each other.
@@ -16651,6 +17295,20 @@ The 18" Byzance Brilliant China delivers the aggressive accent that defines thra
       { youtubeId: 'Sxcwl3qXiDQ', title: 'Dirk Verbeuren\'s Mega Drum Kit Tour (Evans Drumheads)', description: 'Dirk Verbeuren gives a full tour of his Megadeth touring drum kit' }
     ],
     relatedAlbums: ['dystopia-drum-setup', 'rust-in-peace-drum-setup'],
+    faq: [
+      {
+        question: 'What drum kit does Dirk Verbeuren use with Megadeth?',
+        answer: 'Dirk Verbeuren plays a Tama Starclassic Maple kit with all-maple shells and Tama\'s Star-Cast mounting system. His configuration includes a 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The Star-Cast suspension system allows shells to resonate freely without contact dampening, contributing to the warm, open tone Verbeuren brings to Megadeth\'s thrash sound. This is the same professional line Verbeuren used during his years with Soilwork before joining Megadeth.',
+      },
+      {
+        question: 'What cymbals does Dirk Verbeuren use with Megadeth?',
+        answer: 'Dirk Verbeuren uses a mix of Meinl Byzance and Mb20 series cymbals. His setup includes Meinl Byzance Dark 14 inch Hi-Hats, Byzance crashes from 17 to 19 inches, a Meinl Mb20 21 inch Heavy Ride, and a Meinl Byzance Brilliant 18 inch China. The combination of the darker Byzance Dark hats and crashes with the heavier Mb20 ride gives Verbeuren a setup that balances musical nuance with raw cutting power for Megadeth\'s fast thrash riffing.',
+      },
+      {
+        question: 'How much does Dirk Verbeuren\'s Megadeth drum kit cost?',
+        answer: 'Dirk Verbeuren\'s Tama Starclassic Maple shell pack is estimated at $4,500 to $6,500 new. His Tama S.L.P. G-Maple snare adds approximately $350 to $450. The Meinl Byzance and Mb20 cymbal setup runs roughly $1,500 to $2,500. With Tama hardware, Iron Cobra pedals, and accessories, a fully comparable Verbeuren setup can total between $9,000 and $13,000.',
+      },
+    ],
     conclusion: {
       title: 'Thrash Royalty Earned',
       content: `Dirk Verbeuren didn't inherit Megadeth's drum throne — he earned it. When you join a band with the legacy of Gar Samuelson, Nick Menza, and countless other talented drummers, you're not just learning songs. You're becoming a steward of thrash metal history.
@@ -16875,6 +17533,20 @@ For aggressive accents, the AAX Chinese cymbal added trash and cut. Used sparing
       { youtubeId: 'fQ4qrrbwljk', title: 'Richard Christy - Drum Solo (Big Slick 2019)', description: 'Live drum solo performance by Richard Christy' }
     ],
     relatedAlbums: ['sound-of-perseverance-drum-setup'],
+    faq: [
+      {
+        question: 'What drum kit does Richard Christy use?',
+        answer: 'Richard Christy has long been associated with Pearl Masters Custom kits featuring maple shells. His standard configuration includes a 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The Masters Custom line was Pearl\'s flagship professional series through the late 1990s and 2000s, offering consistent maple tone and build quality that Christy relied on through his tenure with Death, Control Denied, and his subsequent career as a performer and educator.',
+      },
+      {
+        question: 'What cymbals does Richard Christy use?',
+        answer: 'Richard Christy uses Sabian AA and AAX series cymbals. His setup includes Sabian 14 inch AA Regular Hi-Hats, Sabian 16 inch AAX and 18 inch AA Crashes, a Sabian 20 inch AA Medium Ride, and a Sabian 18 inch AAX Chinese. The AA series delivers a traditional, bright, and cutting sound while the AAX pieces add a more contemporary focused attack. This combination gave Christy the projection and clarity needed for technically demanding death metal playing.',
+      },
+      {
+        question: 'How much does Richard Christy\'s death metal kit cost?',
+        answer: 'Richard Christy\'s Pearl Masters Custom shell pack originally retailed for approximately $2,500 to $4,000 in the late 1990s. Used Masters Custom shells in good condition today sell for roughly $1,000 to $2,500. His Sabian AA and AAX cymbals remain in production, with a comparable full setup costing between $1,200 and $2,000 new. Building a complete kit matching Christy\'s classic death metal configuration today runs approximately $4,000 to $7,000 depending on hardware and pedal choices.',
+      },
+    ],
     conclusion: {
       title: 'The Sound of Perseverance Legacy',
       content: `Richard Christy's work with Death represents a pinnacle of technical death metal drumming. When Chuck Schuldiner — a notoriously demanding bandleader who had already worked with legends like Sean Reinert and Gene Hoglan — called Christy "one of the best drummers I ever worked with," it wasn't hyperbole.
@@ -17164,6 +17836,20 @@ Unlike some drummers who constantly chase new gear, Travis values reliability. H
       { youtubeId: 'Hw__yFtzuzI', title: 'Painkiller - Live Behind the Kit with Scott Travis', description: 'Drum-cam view of Scott Travis performing the Painkiller intro and groove live' }
     ],
     relatedAlbums: ['painkiller-drum-setup', 'master-of-puppets-drum-setup'],
+    faq: [
+      {
+        question: 'What drum kit does Scott Travis use with Judas Priest?',
+        answer: 'Scott Travis plays a Pearl Reference Series kit with maple and birch hybrid shells and Reference-level bearing edges. His large-format configuration includes a 24x18 inch bass drum, 10, 12, and 13 inch rack toms, and 16 and 18 inch floor toms. The extended sizes and hybrid shell construction give Travis the deep, powerful tone that anchors Judas Priest\'s arena rock and heavy metal sound, while the Reference Series construction provides the durability required for decades of touring.',
+      },
+      {
+        question: 'What cymbals does Scott Travis use with Judas Priest?',
+        answer: 'Scott Travis uses Sabian HHX and AAX series cymbals. His setup includes Sabian HHX 14 inch Power Hi-Hats, Sabian AAX X-Plosion crashes in 18 and 20 inch sizes, a Sabian HHX 22 inch Power Ride, a Sabian AAX 18 inch Chinese, and a Sabian HHX 20 inch X-Treme Crash. The HHX Power series is built for high-volume projection, making it well suited for Travis\'s powerful playing style in large-venue Judas Priest performances.',
+      },
+      {
+        question: 'How much does Scott Travis\'s Judas Priest drum kit cost?',
+        answer: 'Scott Travis\'s Pearl Reference Series shell pack in his large configuration is estimated at $6,000 to $8,000 new. His Pearl Reference Brass or Custom Brass snare adds approximately $600 to $900. The Sabian HHX and AAX cymbal setup including the full array of crashes, ride, hi-hats, and china runs $2,500 to $4,000. Combined with professional hardware, pedals, and accessories, a complete comparable Travis setup can total between $12,000 and $18,000.',
+      },
+    ],
     conclusion: {
       title: 'The Painkiller Legacy Continues',
       content: `Scott Travis's contribution to heavy metal drumming cannot be overstated. When he joined Judas Priest in 1989, speed metal was still finding its footing. By the time "Painkiller" dropped in 1990, the genre had its definitive statement — and its definitive drummer.
@@ -17497,6 +18183,20 @@ The final drum mix balanced clarity with aggression. EQ enhanced the snare's cut
       { drummerSlug: 'richard-christy', lickSlug: 'richard-christy-scavenger-blast', label: "Watch Richard Christy's 'Scavenger of Human Sorrow' blast breakdown" },
       { drummerSlug: 'richard-christy', lickSlug: 'richard-christy-flesh-power-fill', label: "Watch Richard Christy's 'Flesh and the Power It Holds' fill breakdown" },
     ],
+    faq: [
+      {
+        question: 'What drum kit did Richard Christy use on The Sound of Perseverance in 1998?',
+        answer: 'Richard Christy recorded Death\'s The Sound of Perseverance in 1998 using a Pearl Masters Custom kit with maple shells. His configuration included a 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The Pearl Masters Custom was a top-tier professional kit during the late 1990s, known for its warm maple tone and reliable construction. This setup handled the album\'s technically demanding passages and shifting time signatures with the projection and sensitivity the material required.',
+      },
+      {
+        question: 'What cymbals did Richard Christy use on The Sound of Perseverance in 1998?',
+        answer: 'Richard Christy used Sabian AA and AAX series cymbals on The Sound of Perseverance. His setup included Sabian 14 inch AA Regular Hi-Hats, Sabian AAX 16 inch and AA 18 inch Crashes, a Sabian AAX 19 inch X-Plosion Crash, a Sabian 20 inch AA Medium Ride, a Sabian 18 inch AAX Chinese, and a Sabian 10 inch AA Splash. The mix of AA warmth and AAX cutting attack gave Christy the dynamic range needed for Death\'s most technically complex and musically ambitious album.',
+      },
+      {
+        question: 'How much does Richard Christy\'s Sound of Perseverance kit cost today?',
+        answer: 'Richard Christy\'s Pearl Masters Custom kit retailed for approximately $3,000 to $4,500 when new in 1998. Today, used Pearl Masters Custom shells in good condition sell for around $1,200 to $2,800. His Sabian AA and AAX cymbals remain in current production, and a comparable complete setup costs $1,500 to $2,200 new. Building a full replica of Christy\'s 1998 setup with hardware and pedals today costs approximately $5,000 to $8,000.',
+      },
+    ],
     conclusion: {
       title: 'The Final Statement: Legacy of Perseverance',
       content: `"The Sound of Perseverance" wasn't meant to be Death's final album. Chuck Schuldiner was already planning Control Denied's debut and had ideas for future Death material. But fate intervened — Chuck's brain cancer diagnosis in 1999 and his passing in December 2001 made Perseverance the unintended swan song for one of metal's most important bands.
@@ -17790,6 +18490,20 @@ Today, drummers study Rust in Peace as a masterclass in technical thrash drummin
     relatedAlbums: ['master-of-puppets-drum-setup', 'reign-in-blood-drum-setup', 'painkiller-drum-setup'],
     relatedDrummers: [1, 4, 19], // Lars Ulrich, Dave Lombardo, Scott Travis
     relatedArticles: ['whats-in-dirk-verbeurens-kit', 'thrash-metal-drummers', 'big-four-drummers'],
+    faq: [
+      {
+        question: 'What drum kit did Nick Menza use on Rust in Peace?',
+        answer: 'Nick Menza played a Tama Artstar II kit on Rust in Peace, recorded in 1990. The setup featured twin 22x16 inch bass drums, rack toms in 10, 12, and 13 inch sizes, and 16 and 18 inch floor toms. All shells were birch with die-cast hoops, giving the kit a tight, punchy attack that cut through Megadeth\'s aggressive riff-driven arrangements on that album.',
+      },
+      {
+        question: 'What cymbals did Nick Menza use on Rust in Peace?',
+        answer: 'Nick Menza used Zildjian A Custom and A Series cymbals on Rust in Peace. His setup included 14 inch A Custom hi-hats, A Custom crashes ranging from 16 to 19 inches, a 20 inch A Custom Medium Ride, an 18 inch A China Boy High for aggressive accents, and a 10 inch A Custom splash. The A Custom series delivered the bright, cutting tone heard throughout the record.',
+      },
+      {
+        question: 'How much does Nick Menza\'s Rust in Peace kit cost?',
+        answer: 'At the time of recording in 1990, the Tama Artstar II kit was valued at approximately $3,000 to $4,500 new. Today, a vintage Tama Artstar II in good condition can fetch $4,000 to $7,000 depending on configuration and condition. The Tama Artstar II Bell Brass snare he used, originally $350 to $450, now commands $600 to $900 or more on the vintage market.',
+      },
+    ],
     conclusion: {
       title: 'The Pinnacle of Technical Thrash',
       content: `Rust in Peace represents the absolute pinnacle of technical thrash metal drumming. Nick Menza's performances combined jazz-influenced precision with thrash metal aggression, creating a template that influenced everything from progressive metal to modern tech-death.
@@ -18083,6 +18797,20 @@ The dry, punchy drum sound of Justice influenced countless thrash and death meta
     relatedArticles: ['whats-in-lars-ulrichs-kit', 'big-four-drummers', 'thrash-metal-drummers'],
     relatedLicks: [
       { drummerSlug: 'lars-ulrich', lickSlug: 'lars-ulrich-one-intro', label: "Watch Lars Ulrich's 'One' intro breakdown" },
+    ],
+    faq: [
+      {
+        question: 'What drum kit did Lars Ulrich use on ...And Justice for All?',
+        answer: 'Lars Ulrich recorded ...And Justice for All in 1988 on a Tama Artstar II kit. The configuration included a single 22x16 inch bass drum played with a double pedal, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The birch shells with die-cast hoops gave the kit its characteristic dry, punchy sound, though the album\'s production heavily compressed the drum tone.',
+      },
+      {
+        question: 'What cymbals did Lars Ulrich use on ...And Justice for All?',
+        answer: 'Lars Ulrich used Zildjian A and Z Series cymbals on ...And Justice for All. His setup included 14 inch A New Beat hi-hats, A Series 16 and 18 inch crashes, a 20 inch Z Heavy Power Ride for cutting through the dense guitar mix, and an 18 inch A China Boy High. The heavier Z Series ride provided the volume and projection needed for Metallica\'s aggressive live and studio performances.',
+      },
+      {
+        question: 'How much does Lars Ulrich\'s ...And Justice for All kit cost?',
+        answer: 'The Tama Artstar II kit Lars Ulrich used in 1988 originally cost approximately $2,500 to $3,500. Today, a comparable vintage Tama Artstar II in good condition typically sells for $4,000 to $6,000. Complete period-correct setups matching the Justice configuration are rare and can exceed $7,000 when the original hardware and matching snare are included.',
+      },
     ],
     conclusion: {
       title: 'The Technical Peak',
@@ -18432,6 +19160,20 @@ The China cymbal is essential for LOG's aggressive accents — those trashy expl
     relatedDrummers: [8, 4, 3], // Chris Adler, Dave Lombardo, Gene Hoglan
     relatedArticles: ['whats-in-chris-adlers-kit', 'ashes-of-the-wake-drum-setup', 'groove-metal-drummers'],
     relatedAlbums: ['ashes-of-the-wake-drum-setup'],
+    faq: [
+      {
+        question: 'What drum kit does Art Cruz use with Lamb of God?',
+        answer: 'Art Cruz currently plays a Ludwig Classic Maple kit with Lamb of God. His setup centers on a 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The Classic Maple shells deliver a warm, resonant tone that holds up in both recording and high-volume live situations. Ludwig\'s Classic Maple is one of the brand\'s flagship professional lines, favored for its versatile sound across metal and rock.',
+      },
+      {
+        question: 'What cymbals does Art Cruz use with Lamb of God?',
+        answer: 'Art Cruz plays a Zildjian A Custom and K Series hybrid setup. His cymbal rig includes 14 inch A Custom hi-hats, A Custom crashes in 17 and 19 inch sizes, a 21 inch A Custom 20th Anniversary Ride, an 18 inch A Custom China, and a 10 inch A Custom splash. The A Custom line provides the bright, clean attack suited to metal, while the K series adds darker tonal options where needed.',
+      },
+      {
+        question: 'How much does Art Cruz\'s Lamb of God kit cost?',
+        answer: 'A current Ludwig Classic Maple kit configured to Art Cruz\'s specifications runs approximately $4,000 to $6,000 for the shell pack alone. Adding hardware, a Ludwig snare at $400 to $700, and a full Zildjian A Custom and K cymbal setup can bring the total to $8,000 to $12,000 or more. Ludwig Classic Maple is a professional-tier investment but is widely available through authorized dealers.',
+      },
+    ],
     conclusion: {
       title: 'The Torch Carrier',
       content: `Art Cruz faced one of metal's most daunting challenges: replacing Chris Adler in Lamb of God. The expectations were enormous — Adler's drumming was as integral to LOG's sound as Randy Blythe's vocals or Mark Morton's riffs. Cruz didn't just meet those expectations; he exceeded them.
@@ -18723,6 +19465,20 @@ Consider lighter sticks (5A or jazz models) for developing touch sensitivity. Yo
     relatedDrummers: [3, 46, 13], // Gene Hoglan, Richard Christy, Mike Portnoy
     relatedArticles: ['human-drum-setup', 'progressive-metal-drummers', 'jazz-metal-fusion'],
     relatedAlbums: ['human-drum-setup', 'symbolic-drum-setup'],
+    faq: [
+      {
+        question: 'What drum kit did Sean Reinert use throughout his career?',
+        answer: 'Sean Reinert used several kits across his career, including Pearl, Tama, and Mapex setups depending on the project. He favored maple shells for their warm response, working with bass drums in both 20 and 22 inch sizes to suit jazz and death metal contexts. His configurations typically included 10 and 12 inch rack toms and 14 and 16 inch floor toms, balancing melodic sensitivity with the power required for technical death metal.',
+      },
+      {
+        question: 'What cymbals did Sean Reinert use throughout his career?',
+        answer: 'Sean Reinert was closely associated with Sabian cymbals, drawing from the AA, AAX, and HHX lines. His setup typically featured 14 inch AA or HHX Evolution hi-hats, an AA 16 inch crash paired with an AAX 18 inch crash, a large HHX or AA ride between 20 and 22 inches, an 18 inch AAX Chinese, and an 8 or 10 inch splash. Sabian\'s darker, more complex tones complemented his jazz-influenced approach to death metal.',
+      },
+      {
+        question: 'How much does Sean Reinert\'s signature kit cost?',
+        answer: 'Because Sean Reinert used different brands at different points in his career, assembling a representative setup requires flexibility. A quality maple shell pack from Pearl, Tama, or Mapex in a similar configuration runs $3,000 to $5,000. Adding a full Sabian AA, AAX, and HHX cymbal setup brings the total to roughly $7,000 to $10,000. Individual snares in his preferred 14 inch depths range from $300 to $700 each.',
+      },
+    ],
     conclusion: {
       title: 'The Man Who Made Death Metal Swing',
       content: `Sean Reinert left us too soon. His passing on January 24, 2020, robbed music of one of its most innovative drummers — a true pioneer who bridged worlds that seemed unbridgeable.
@@ -19035,6 +19791,20 @@ Double-ply heads (Emperor or G2) on toms and snare provide durability for hard h
     relatedDrummers: [4, 1, 41], // Dave Lombardo, Lars Ulrich, Nicko McBrain
     relatedArticles: ['hard-rock-drummers', 'heavy-metal-drummers', 'whats-in-nicko-mcbrains-kit'],
     relatedAlbums: ['painkiller-drum-setup', 'master-of-puppets-drum-setup'],
+    faq: [
+      {
+        question: 'What drum kit does Mikkey Dee use with Motörhead and Scorpions?',
+        answer: 'Mikkey Dee plays Yamaha Recording Custom and Oak Custom kits. His setup features a large 24x18 inch bass drum, rack toms in 10, 12, and 13 inch sizes, and 16 and 18 inch floor toms. The Recording Custom uses birch shells for a tight, punchy sound, while the Oak Custom variant adds warmth and low-end depth. The large bass drum is central to his powerful, driving style suited to hard rock and heavy metal.',
+      },
+      {
+        question: 'What cymbals does Mikkey Dee use with Motörhead and Scorpions?',
+        answer: 'Mikkey Dee plays Zildjian A Custom and K Custom cymbals. His setup includes 15 inch A New Beat hi-hats, A Custom crashes in 18 and 20 inch sizes, a 22 inch A Custom Medium Ride, an 18 inch A Custom China, and a 10 inch A Custom splash. The A Custom series provides the bright, articulate response that cuts through the high-volume environments typical of Motörhead and Scorpions performances.',
+      },
+      {
+        question: 'How much does Mikkey Dee\'s drum kit cost?',
+        answer: 'A Yamaha Recording Custom shell pack in Mikkey Dee\'s configuration currently retails between $4,000 and $7,000 depending on finish and configuration. The Yamaha Recording Custom Aluminum or Brass snare adds $500 to $800. A matching Zildjian A Custom and K Custom cymbal package can bring the total investment to $10,000 to $14,000, making it a serious professional setup appropriate for touring and studio work.',
+      },
+    ],
     conclusion: {
       title: 'The Locomotive That Never Stops',
       content: `Mikkey Dee is one of rock's true survivors. Twenty-three years powering the loudest band in the world, a Grammy Award, countless tours, and now — at 62 — still thundering across stages with Scorpions. His career is a testament to talent, professionalism, and an unquenchable passion for rock and roll.
@@ -19420,6 +20190,20 @@ This is one area where you shouldn't skimp. Evans G2 Coated or Remo Emperor Coat
     relatedDrummers: [2, 15, 14], // Joey Jordison, Mario Duplantier, Danny Carey
     relatedArticles: ['alternative-metal-drummers', 'best-metal-drum-grooves', 'whats-in-joey-jordisons-kit'],
     relatedAlbums: [],
+    faq: [
+      {
+        question: 'What drum kit does Abe Cunningham use with the Deftones?',
+        answer: 'Abe Cunningham plays a Tama Starclassic Maple/Bubinga hybrid kit. His configuration includes a 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The maple and bubinga shell combination delivers a warm yet punchy tone with enhanced low-end projection, which suits the Deftones\' dynamic range from atmospheric passages to full-on heavy sections. He pairs the kit with a deep 14x8 inch Tama S.L.P. Big Black Steel snare.',
+      },
+      {
+        question: 'What cymbals does Abe Cunningham use with the Deftones?',
+        answer: 'Abe Cunningham uses a Zildjian A Custom and K Custom hybrid setup. His cymbals include 14 inch A New Beat hi-hats, 16 and 18 inch A Custom crashes, a 21 inch K Custom Ride for dark, complex overtones, a 20 inch A Custom Crash/Ride, and an 18 inch A Custom China. This combination of A Custom brightness and K Custom darkness mirrors the Deftones\' blend of aggressive attack and atmospheric texture.',
+      },
+      {
+        question: 'How much does Abe Cunningham\'s Deftones kit cost?',
+        answer: 'A Tama Starclassic Maple/Bubinga shell pack comparable to Abe Cunningham\'s setup costs approximately $3,500 to $5,000. The Tama S.L.P. Big Black Steel snare adds $350 to $450. Completing the rig with a full Zildjian A Custom and K Custom cymbal package brings the total to roughly $8,000 to $11,000. The Starclassic Maple/Bubinga line sits in Tama\'s professional tier and is a long-term investment for serious players.',
+      },
+    ],
     conclusion: {
       title: 'The Heartbeat of Deftones',
       content: `Abe Cunningham represents something increasingly rare in modern music: a drummer who has stayed with the same band for over 35 years, evolving with them while maintaining his core identity. From Sacramento teenagers to Grammy winners to one of the most beloved bands in heavy music, he's been there for all of it.
@@ -19694,6 +20478,20 @@ His bass drum technique reflects his overall philosophy: control over speed. Usi
     relatedDrummers: [14, 5, 13], // Danny Carey, Tomas Haake, Mike Portnoy
     relatedArticles: ['prog-metal-drummers', 'best-polyrhythmic-drumming', 'whats-in-danny-careys-kit'],
     relatedAlbums: ['fear-of-a-blank-planet-drum-setup'],
+    faq: [
+      {
+        question: 'What drum kit does Gavin Harrison use for his prog metal work?',
+        answer: 'Gavin Harrison plays a Sonor SQ2 Series kit, one of Sonor\'s most customizable professional lines. His setup includes a 22x17 inch bass drum, 10 and 12 inch toms, and floor toms at 14x13 and 16x15 inches. The premium maple shells with thin construction give the SQ2 exceptional resonance and dynamic sensitivity, which supports Harrison\'s intricate polyrhythmic playing with Porcupine Tree and King Crimson.',
+      },
+      {
+        question: 'What cymbals does Gavin Harrison use for his prog metal work?',
+        answer: 'Gavin Harrison is closely associated with the Zildjian K Custom Special Dry line. His setup includes 14 inch K Custom Special Dry hi-hats, 16 and 18 inch K Custom Special Dry crashes, a 21 inch K Custom Special Dry Ride, and an 18 inch K Custom Trash China. The Special Dry series is known for its low overtones and quick decay, which allows Harrison\'s complex patterns to remain clear and articulate at any tempo.',
+      },
+      {
+        question: 'How much does Gavin Harrison\'s prog kit cost?',
+        answer: 'The Sonor SQ2 Series is a fully custom-order kit with pricing that typically falls between $6,000 and $9,000 for the shell pack, depending on wood choice, finish, and configuration. His Sonor Gavin Harrison signature snares add $600 to $900 each. A complete Zildjian K Custom Special Dry cymbal setup costs an additional $2,500 to $4,000, bringing the total rig to roughly $10,000 to $14,000.',
+      },
+    ],
     conclusion: {
       title: 'The Polyrhythmic Standard',
       content: `Gavin Harrison represents the highest level of progressive drumming: technical mastery in complete service of music. He doesn't play complex for complexity's sake — every ghost note, every polyrhythmic layer, every dynamic shift serves the song's emotional arc.
@@ -20093,6 +20891,20 @@ Terry Date's approach to White Pony's drums — capturing natural dynamics, usin
     relatedLicks: [
       { drummerSlug: 'abe-cunningham', lickSlug: 'abe-cunningham-digital-bath-groove', label: "Watch Abe Cunningham's 'Digital Bath' groove breakdown" },
     ],
+    faq: [
+      {
+        question: 'What drum kit did Abe Cunningham use on White Pony?',
+        answer: 'Abe Cunningham recorded White Pony in 2000 using a Tama Starclassic Maple kit. The setup featured a 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms, all using all-maple shells with die-cast hoops. This configuration gave the Deftones\' landmark album its warm, resonant low end combined with articulate tom attacks that complemented the record\'s dynamic shifts between ambient and aggressive sections.',
+      },
+      {
+        question: 'What cymbals did Abe Cunningham use on White Pony?',
+        answer: 'Abe Cunningham used a Zildjian A and K Series cymbal setup on White Pony. His rig included 14 inch A New Beat hi-hats, A Custom crashes in 16 and 18 inch sizes, a 20 inch K Custom Dark Ride for smoother, washy overtones, a 19 inch K Dark Thin Crash/Ride, and a 16 inch Oriental China Trash for sharp, aggressive accents. The mix of A and K series tones matched the album\'s tonal contrasts.',
+      },
+      {
+        question: 'How much does Abe Cunningham\'s White Pony kit cost?',
+        answer: 'The Tama Starclassic Maple kit Abe Cunningham used on White Pony was valued at approximately $3,000 to $5,000 new in 2000. A comparable used or new Tama Starclassic Maple setup today costs $3,500 to $5,500 for the shell pack. Adding a period-correct deep steel snare at $300 to $500 and a full Zildjian A and K cymbal setup brings the total to approximately $7,000 to $10,000.',
+      },
+    ],
     conclusion: {
       title: 'The Album That Taught Metal to Breathe',
       content: `Twenty-six years after its release, White Pony remains essential listening for anyone interested in the evolution of heavy music. It proved that metal could be atmospheric, dynamic, and emotionally nuanced without sacrificing heaviness. And Abe Cunningham's drumming was the foundation that made it all possible.
@@ -20377,6 +21189,20 @@ His double bass work is powerful but musical. Rather than constant 16th notes, H
     relatedDrummers: [53, 5, 47], // Matt Garstka, Tomas Haake, Gavin Harrison
     relatedArticles: ['djent-drumming-guide', 'best-drums-for-djent', 'whats-in-matt-garstkas-kit'],
     relatedAlbums: ['obzen-drum-setup'],
+    faq: [
+      {
+        question: 'What drum kit does Matt Halpern use with Periphery?',
+        answer: 'Matt Halpern plays the Mapex Saturn V MH Exotic, a signature-influenced kit built around a maple and walnut hybrid shell with SONIClear bearing edges. His configuration includes a 22x18 inch bass drum, 10x7 and 12x8 inch rack toms, and 14 and 16 inch floor toms. The maple and walnut combination delivers focused attack with extended sustain, and SONIClear edges maximize resonance and tuning stability across Periphery\'s wide dynamic range.',
+      },
+      {
+        question: 'What cymbals does Matt Halpern use with Periphery?',
+        answer: 'Matt Halpern plays Meinl Byzance cymbals, drawing from the Traditional, Extra Dry, Dual, and Pure Alloy lines. His setup includes 14 inch Byzance Dual hi-hats, Byzance Extra Dry 18 inch and Dual 19 inch crashes, a 22 inch Byzance Extra Dry Medium Ride, an 18 inch Byzance Brilliant China, and Meinl Trash Stack effects. The Byzance line\'s handcrafted construction provides the complex, nuanced tones that suit Periphery\'s progressive metal compositions.',
+      },
+      {
+        question: 'How much does Matt Halpern\'s Periphery kit cost?',
+        answer: 'The Mapex Saturn V MH Exotic shell pack retails for approximately $4,500 to $6,000. Adding a Mapex Black Panther Design Lab snare brings in an additional $450 to $800. A full Meinl Byzance cymbal setup across multiple series typically costs $3,000 to $5,000. In total, a complete Matt Halpern-inspired rig runs roughly $9,000 to $12,000.',
+      },
+    ],
     conclusion: {
       title: 'The Groove Revolutionary',
       content: `Matt Halpern represents everything modern metal drumming can be: technical but musical, powerful but dynamic, complex but groovy. He didn't just learn to play djent — he helped create its rhythmic vocabulary.
@@ -29580,6 +30406,20 @@ For death metal speed comparison: [George Kollias drum setup at MetalForge](/art
     relatedAlbums: ['tim-yeung-drum-setup', 'whats-in-george-kollias-kit', 'paul-mazurkiewicz-drum-setup'],
     relatedDrummers: ['kevin-talley'],
     relatedArticles: ['best-metal-double-kick-technique', 'blast-beat-technique'],
+    faq: [
+      {
+        question: 'What drum kit does Kevin Talley use with Dying Fetus?',
+        answer: 'Kevin Talley plays Pearl Masters Custom and Reference Series kits. His setup uses twin 22x18 inch bass drums, 10 and 12 inch rack toms, and 16 and 18 inch floor toms built from a maple and mahogany hybrid shell. The combination of maple\'s clarity and mahogany\'s warmth produces a powerful, full-bodied tone that holds up under the relentless blast beat tempos and technical patterns that define his work with Dying Fetus.',
+      },
+      {
+        question: 'What cymbals does Kevin Talley use with Dying Fetus?',
+        answer: 'Kevin Talley plays Zildjian A Custom and A Series cymbals. His setup includes 14 inch A Custom hi-hats, A Custom crashes in 16 and 18 inch sizes, a 20 inch A Medium Ride for clear articulation at high speeds, and an 18 inch A China for aggressive accents during blast sections. The A Custom series is known for its bright, cutting sound, which ensures individual hits remain defined even at extreme tempos.',
+      },
+      {
+        question: 'How much does Kevin Talley\'s Dying Fetus kit cost?',
+        answer: 'A Pearl Masters Custom or Reference Series shell pack in Kevin Talley\'s double bass configuration currently costs approximately $3,000 to $5,500. The Pearl Free-Floating or Sensitone Steel snare adds $300 to $600. A complete Zildjian A Custom and A Series cymbal setup runs an additional $2,000 to $3,500. The full rig totals roughly $6,000 to $10,000, representing a professional-grade investment capable of handling the demands of technical death metal.',
+      },
+    ],
     conclusion: {
       title: 'Polyrhythmic Brutality: Kevin Talley and the Dying Fetus Standard',
       content: `Kevin Talley occupies a specific and influential position in brutal death metal's drummer hierarchy: the technical innovator who took blast beat drumming beyond simple speed into polyrhythmic complexity. From Dying Fetus's Destroy the Opposition to War of Attrition, from Misery Index's grindcore-influenced death metal to Jungle Rot's groove-oriented brutality, the constant is a technique built for both extreme speed and rhythmic sophistication that most extreme metal drummers don't attempt.

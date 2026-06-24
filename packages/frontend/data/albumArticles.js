@@ -7918,7 +7918,7 @@ Brann's vocal drumming has influenced younger drummers to develop singing abilit
       { text: "Singing while playing was the hardest thing I've ever learned. It took years to get where I could actually do both justice.", source: "Rhythm Magazine", year: 2021 }
     ],
     // Related Content
-    relatedAlbums: ['crack-the-skye-drum-setup', 'leviathan-drum-setup'],
+    relatedAlbums: ['crack-the-skye-drum-setup', 'blood-mountain-drum-setup', 'leviathan-drum-setup'],
     relatedDrummers: [14, 5, 15], // Danny Carey, Tomas Haake, Mario Duplantier
     relatedArticles: ['progressive-metal-drummers', 'drummers-who-sing', 'melodic-drumming-guide'],
     // Conclusion
@@ -40413,8 +40413,8 @@ For drummers building setups influenced by this album, the key takeaway is not a
 
 For the complete picture of Brann Dailor's gear across Mastodon's career, visit the [Brann Dailor drummer profile](/drummer/brann-dailor) and the [Brann Dailor licks breakdowns](/drummer/brann-dailor/licks). For technical context on the polyrhythmic playing that defines this album, the [polyrhythm techniques guide](/techniques/polyrhythms) provides the complete mechanical and musical breakdown. And for a companion study in how a progressive metal drummer approaches a landmark album, see the [obZen drum setup breakdown](/articles/obzen-drum-setup).`
     },
-    relatedAlbums: ['images-and-words-drum-setup', 'obzen-drum-setup'],
-    relatedDrummers: [5, 14, 28],
+    relatedAlbums: ['blood-mountain-drum-setup', 'images-and-words-drum-setup', 'obzen-drum-setup'],
+  relatedDrummers: [5, 14, 28],
     relatedArticles: ['progressive-metal-drummers', 'polyrhythm-techniques'],
     relatedLicks: [
       { drummerSlug: 'brann-dailor', lickSlug: 'brann-dailor-oblivion-tom-melody', label: "Watch Brann Dailor's 'Oblivion' melodic tom breakdown" },
@@ -40519,6 +40519,324 @@ For the complete picture of Brann Dailor's gear across Mastodon's career, visit 
               acceptedAnswer: {
                 '@type': 'Answer',
                 text: "Crack the Skye was recorded at Doppler Studios in Atlanta, Georgia, produced by Brendan O'Brien. The album was released on March 24, 2009 on Reprise Records."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+  'blood-mountain-drum-setup': {
+    slug: 'blood-mountain-drum-setup',
+    albumTitle: 'Blood Mountain',
+    artist: 'Mastodon',
+    drummer: 'Brann Dailor',
+    drummerId: 16,
+    relatedDrummerSlug: 'brann-dailor',
+    year: 2006,
+    genre: 'Progressive Sludge Metal',
+    label: 'Atlantic Records',
+    studio: 'Doppler Studios, Atlanta, Georgia',
+    producer: 'Matt Bayles',
+    isAlbumArticle: true,
+    datePublished: '2026-06-24',
+    dateModified: '2026-06-24',
+    author: 'MetalForge Editorial',
+    title: "Blood Mountain Drum Setup: Brann Dailor's Gear on Mastodon's Breakthrough",
+    description: "Discover the exact drum kit, cymbals, and gear Brann Dailor used to record Mastodon's mainstream breakthrough Blood Mountain (2006). Full breakdown of the DW Collector's Series kit, Zildjian cymbals, DW 9000 double pedal, and the fills-as-lead-instrument approach behind one of progressive metal's most inventive drummers.",
+    seoKeywords: ['brann dailor blood mountain kit', 'mastodon blood mountain drums', 'mastodon 2006 drum setup', 'brann dailor dw drums', 'brann dailor zildjian', 'blood mountain drum setup', 'mastodon atlantic records drums', 'brann dailor fills'],
+    ogImage: '/images/albums/blood-mountain-drums.webp',
+    intro: {
+      title: "Fills as Lead Instrument: Brann Dailor's Mainstream Breakthrough",
+      content: `Released on October 3, 2006, Mastodon's *Blood Mountain* was the album that introduced [Brann Dailor](/drummer/brann-dailor)'s melodic drumming philosophy to a mainstream audience. The band's first record for Atlantic Records debuted at #28 on the US Billboard 200 — a commercial breakthrough for a band that had built its reputation on the underground metal circuit. The album arrived as a creative step forward from the rawer, more abrasive *Leviathan* (2004), with Dailor's fills becoming more prominent, more melodic, and more obviously central to Mastodon's compositional identity.
+
+*Blood Mountain* is a concept album built around creature mythology — a man's journey up a mountain, encountering fantastical beings and forces at each stage. The narrative ambition matched the musical ambition: Brann's drumming on this record functions not as rhythmic support but as a melodic narrator, his fills weaving through the music like an additional voice commenting on the story's progression. This approach — fills as lead instrument — would reach its peak refinement on [Crack the Skye](/articles/crack-the-skye-drum-setup) three years later, but *Blood Mountain* is where the philosophy became unmistakable.
+
+The album was produced by Matt Bayles, whose previous work with Mastodon on *Leviathan* gave him deep familiarity with Dailor's playing style and its demands on the recording process. Where *Leviathan* emphasised density and aggression, Bayles and Mastodon used *Blood Mountain* to bring melodic clarity to the drum sound — allowing Dailor's tom melodies and complex fills to sit higher in the mix than they had on any previous Mastodon record. The result is an album where the drumming is as much a focal point as the guitars.
+
+This article breaks down every piece of gear Dailor used during the *Blood Mountain* sessions: the DW Collector's Series kit that gave his fills their warm, resonant voice, the Zildjian cymbals that defined this specific chapter of his career, and the DW 9000 double pedal that drove the album's rhythmically complex foundation.`,
+      keyPoints: [
+        'Recorded at Doppler Studios, Atlanta with producer Matt Bayles',
+        "Mastodon's Atlantic Records debut — US Billboard 200 #28, mainstream breakthrough",
+        "DW Collector's Series maple shells — warm resonance for fills-as-melody approach",
+        'Zildjian cymbals — bright, cutting top-end that defined Brann\'s pre-Meinl era',
+        'DW 9000 double pedal — foundation for the album\'s complex rhythmic architecture',
+        'Concept album: creature mythology, guest vocals from Cedric Bixler-Zavala (The Mars Volta)'
+      ]
+    },
+    drumKit: {
+      title: "The DW Collector's Series: Dailor's Fill Canvas",
+      brand: 'DW',
+      model: "DW Collector's Series",
+      finish: 'Natural maple / custom finish',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum (double kick configuration)'],
+        toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom', '13" x 10" Rack Tom'],
+        floorToms: ['16" x 16" Floor Tom'],
+        shells: '100% maple shells — warm, resonant, suited to melodic tom playing'
+      },
+      description: `For the *Blood Mountain* sessions, Brann Dailor used a DW Collector's Series kit with maple shells — the same premium shell line he would carry into the [Crack the Skye](/articles/crack-the-skye-drum-setup) sessions three years later. DW's Collector's Series is the company's flagship custom offering, built to spec at their California workshop with shell tolerances and bearing-edge geometry that produce consistent, musical pitches across all drums in the configuration.
+
+The maple shell construction was central to what makes *Blood Mountain*'s drum sound distinctive. Maple resonates with warmth and fundamental tone — the shells produce pitches that register as musical notes, not just percussive noise. This property is essential for Dailor's compositional approach: he uses toms as melodic instruments, cascading through fills that function as melodic phrases rather than rhythmic interjections. On tracks like "The Wolf Is Loose" and "Capillarian Crest," those tom cascades are melodies with harmonic intention.
+
+The three-rack-tom configuration (10", 12", 13") gives Dailor the dense melodic resolution his playing demands — three adjacent pitches close enough to form melodic shapes without large intervallic jumps. Combined with the 16" floor tom, he has a four-voice melodic palette that spans a usable musical range. This configuration is consistent with the setup he used on [Crack the Skye](/articles/crack-the-skye-drum-setup), demonstrating that once Dailor found his melodic tool, he kept it.
+
+The double bass drum configuration on *Blood Mountain* reinforces the album's rhythmically aggressive character — more urgent and driving than the compositionally sophisticated double-kick work of *Crack the Skye*, but establishing the physical foundation that the *Crack the Skye* sessions would build upon. The DW 9000 pedals (detailed below) drove this configuration throughout the recording sessions.`,
+      notes: [
+        "DW Collector's Series — premium custom maple shells for melodic warmth and fill clarity",
+        'Three rack toms (10", 12", 13") — melodic range for fills-as-lead-instrument approach',
+        'Double bass configuration — aggressive rhythmic foundation for the album\'s creature mythology concept',
+        "Consistent shell spec with Crack the Skye — Dailor's gear philosophy stabilised around this era"
+      ],
+      estimatedValue: "$4,000–7,000 (DW Collector's Series shell pack)"
+    },
+    snare: {
+      title: 'The Snare: Cut and Projection in the Mix',
+      brand: 'DW',
+      model: "DW Collector's Series Steel Snare",
+      size: '14" x 6.5"',
+      shell: 'Steel — bright attack, projection to cut through dense guitar arrangements',
+      description: `On *Blood Mountain*, the snare drum serves a dual role: it anchors the groove with authoritative backbeat presence while providing the crack and brightness that Dailor's ghost note work requires to register in Mastodon's dense guitar mix. A steel snare at 14" x 6.5" gives the drum projection without sacrificing sensitivity — essential for a drummer whose ghost notes are rhythmic content rather than mere texture.
+
+The 6.5" depth provides more body than a standard 5.5" snare, giving the backbeat the weight to anchor Mastodon's down-tuned guitar arrangements without getting lost in the low-mid frequency range. The steel shell keeps the response quick and bright — important for the album's more aggressive passages where the snare needs to cut cleanly through the mix.
+
+Ghost notes are woven throughout *Blood Mountain*, most prominently on the album's more progressive passages where Dailor uses them to maintain forward motion and rhythmic density between the larger fills. The snare's medium tension tuning allows these ghost notes to speak clearly without bleeding into noise — a balance that reflects Dailor's jazz-influenced approach to the drum kit as a dynamic instrument.`,
+      tuningSetting: 'Medium tension — balanced attack and sensitivity for ghost note work',
+      heads: 'Evans UV1 Coated (batter), Evans Hazy 300 (resonant)',
+      estimatedValue: '$500–900 (DW Collector\'s Series steel snare)'
+    },
+    cymbals: {
+      title: 'Zildjian: The Bright, Cutting Voice of Blood Mountain',
+      brand: 'Zildjian',
+      series: 'Zildjian A and K Series',
+      setup: [
+        { type: 'Hi-Hats', model: 'Zildjian 14" A Series Hi-Hats', position: 'Left side', notes: 'Bright, responsive — clear attack for intricate hi-hat patterns' },
+        { type: 'Crash', model: 'Zildjian 18" A Medium Thin Crash', position: 'Left crash', notes: 'Fast response, bright crash — suits the album\'s aggressive passages' },
+        { type: 'Crash', model: 'Zildjian 20" A Medium Crash', position: 'Right crash', notes: 'Fuller crash for heavier section accents' },
+        { type: 'Ride', model: 'Zildjian 22" A Medium Ride', position: 'Right side', notes: 'Defined bell, clear bow — marks time with clarity through dense arrangements' },
+        { type: 'China', model: 'Zildjian 18" A China', position: 'Above rack toms', notes: 'Aggressive accent cymbal for the album\'s heavier transitions' }
+      ],
+      description: `Brann Dailor's Zildjian cymbal setup on *Blood Mountain* reflects the sonic priorities of this specific era in his career. Where later Mastodon records would see him move toward the darker, more complex tones of Meinl Byzance — a change most audible on [Crack the Skye](/articles/crack-the-skye-drum-setup) — the Zildjian A and K series cymbals on *Blood Mountain* bring brightness, attack, and cutting power to a record that needed to assert itself on Atlantic Records' mainstream rock radio landscape.
+
+The Zildjian A Series hi-hats provide a clear, responsive top-end that sits well in dense, multi-layered arrangements. Where the album's guitar tones are thick and saturated, the bright Zildjian hi-hats cut through with definition, marking Dailor's intricate patterns without competing with the frequency range of the guitars.
+
+The crashes are fast and articulate — Zildjian's A Series medium-thin cymbals respond quickly and decay cleanly, suiting the album's tempo and the band's tendency to crash on strong beats without letting the cymbal sustain wash over the following measure. The 22" A Medium Ride provides defined bell response for riding passages, and its clear bow tone marks time through even the densest arrangements.
+
+This Zildjian setup represents Dailor's pre-Meinl era — a period where his cymbal choice emphasised attack and clarity. The eventual transition to Meinl Byzance's darker, more atmospheric character would parallel Mastodon's compositional evolution toward the richer, more layered sound of *Crack the Skye*.`,
+      estimatedValue: '$1,200–2,000 (Zildjian A Series setup)'
+    },
+    hardware: {
+      title: 'Pedals, Sticks, and Hardware',
+      items: [
+        {
+          type: 'Double Bass Pedal',
+          brand: 'DW',
+          model: 'DW 9000 Double Pedal',
+          notes: 'Double kick foundation for Blood Mountain\'s aggressive rhythmic architecture',
+          description: "The DW 9000 double bass drum pedal anchored Brann Dailor's *Blood Mountain* setup, providing the smooth, consistent action required for the album's rhythmically demanding bass drum patterns. The DW 9000 series offers adjustable cam drive, multiple footboard angle options, and robust construction that withstands aggressive playing without losing responsiveness. For the double-kick passages throughout the album, the DW 9000's consistent primary-to-secondary pedal feel ensured that the two-footed patterns locked together without the timing drift that can occur with mismatched pedal response."
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'DW',
+          model: 'DW 9000 Series Hi-Hat Stand',
+          notes: 'Matched DW hardware series for consistent action and feel'
+        },
+        {
+          type: 'Throne',
+          brand: 'Roc-N-Soc',
+          model: 'Roc-N-Soc Nitro Throne',
+          notes: 'Comfort and stability for extended studio and live sessions'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth 5A American Classic',
+          notes: 'Standard 5A — Dailor\'s technique delivers the dynamics, not specialised sticks'
+        }
+      ],
+      heads: {
+        bassKick: 'Evans EMAD Clear (front: Evans Resonant Bass)',
+        toms: 'Evans UV1 Coated batter heads — durability with consistent tone across dynamics',
+        snare: 'Evans UV1 Coated'
+      }
+    },
+    trackAnalysis: [
+      {
+        track: 'The Wolf Is Loose',
+        highlights: [
+          'Album opener — immediate statement of Dailor\'s fills-as-lead-instrument philosophy',
+          'Aggressive double-bass foundation beneath cascading tom fills',
+          "Establishes the concept album's narrative urgency from the first measure",
+          'Bright Zildjian crashes punctuate the track\'s hard-hitting section changes'
+        ],
+        gearNotes: "The DW 9000 double pedal drives the relentless opening groove. Zildjian A Series crashes provide sharp, defined accents without wash."
+      },
+      {
+        track: 'Colony of Birchmen',
+        highlights: [
+          'Features guest vocals from Scott Kelly of Neurosis',
+          'One of the album\'s most accessible and commercially successful tracks',
+          'Dailor\'s melodic tom patterns weave through the verse grooves',
+          "Demonstrates how Dailor's fills integrate as compositional elements, not interruptions"
+        ],
+        gearNotes: "DW Collector's maple toms bring melodic warmth to the fills. Zildjian 22\" ride marks the verses with clear, defined bow tone."
+      },
+      {
+        track: 'Capillarian Crest',
+        highlights: [
+          'Complex progressive structure showcases Dailor\'s full compositional range',
+          'Dense fill sequences function as inter-section melodic commentary',
+          'Double-kick patterns provide rhythmic momentum beneath melodic tom work',
+          'Studied by drummers for the balance of aggression and melodic sophistication'
+        ],
+        gearNotes: "The DW Collector's shell resonance allows the fills to sing through Mastodon's dense guitar texture."
+      },
+      {
+        track: 'Siberian Divide',
+        highlights: [
+          'Features guest vocals from Cedric Bixler-Zavala of The Mars Volta',
+          'More atmospheric, progressive character — contrast to the album\'s heavier tracks',
+          "Dailor's restraint on this track is as impressive as his complexity elsewhere",
+          'Dynamic range from sparse to full-kit demonstrates his musical intelligence'
+        ],
+        gearNotes: 'Zildjian crashes used sparingly to preserve the track\'s atmospheric character. Snare ghost notes provide texture through the quieter passages.'
+      }
+    ],
+    faq: [
+      {
+        question: 'What drums does Brann Dailor use on Blood Mountain?',
+        answer: "Brann Dailor recorded Mastodon's Blood Mountain (2006) using a DW Collector's Series drum kit with maple shells. The configuration featured a double bass drum setup with two 22 inch kick drums, three rack toms (10, 12, and 13 inch), and a 16 inch floor tom. The DW Collector's Series maple shells provide the warm, resonant tone that allows Dailor's cascading fill sequences to function as melodic phrases rather than purely rhythmic punctuation — the central quality of his contribution to Blood Mountain's sound.",
+      },
+      {
+        question: 'What cymbals does Brann Dailor use on Blood Mountain?',
+        answer: "On Blood Mountain (2006), Brann Dailor used Zildjian A and K Series cymbals. His setup included 14 inch A Series hi-hats, an 18 inch A Medium Thin Crash, a 20 inch A Medium Crash, a 22 inch A Medium Ride, and an 18 inch A China. The Zildjian A Series' bright, cutting character defined this era of Dailor's career before he transitioned to Meinl Byzance's darker, more atmospheric tones on Crack the Skye (2009).",
+      },
+      {
+        question: 'What makes Brann Dailor\'s drumming unique on Blood Mountain?',
+        answer: "On Blood Mountain, Brann Dailor established his 'fills as lead instrument' philosophy for a mainstream audience. Rather than using fills as rhythmic transitions between groove sections, Dailor constructs fills as melodic phrases — tom patterns with harmonic intention that comment on the song's structure. The DW Collector's Series maple shells give these fills musical pitch and warmth. Blood Mountain was Mastodon's Atlantic Records debut and the album where this compositional approach became unmistakable to a wider listening public.",
+      },
+      {
+        question: 'What double pedal does Brann Dailor use on Blood Mountain?',
+        answer: "On Blood Mountain (2006), Brann Dailor used a DW 9000 double bass drum pedal. The DW 9000 provided smooth chain drive action with consistent primary-to-secondary pedal response, essential for the album's double-kick bass drum patterns. Dailor later moved to a single bass drum setup on subsequent Mastodon albums, but the double-kick foundation of Blood Mountain and Crack the Skye represents an important era of his rhythmic vocabulary.",
+      },
+      {
+        question: 'Where was Blood Mountain recorded?',
+        answer: "Blood Mountain was recorded at Doppler Studios in Atlanta, Georgia, and produced by Matt Bayles, who also produced Mastodon's previous album Leviathan (2004). The album was released on October 3, 2006 on Atlantic Records in the United States, debuting at number 28 on the US Billboard 200 — Mastodon's mainstream commercial breakthrough.",
+      }
+    ],
+    conclusion: {
+      title: "Blood Mountain: The Album That Made Brann Dailor's Approach Undeniable",
+      content: `*Blood Mountain* occupies a pivotal position in Brann Dailor's career arc — the album where his fills-as-lead-instrument philosophy moved from cult fascination to mainstream recognition. The DW Collector's Series kit, Zildjian cymbals, and DW 9000 double pedal combination he used for these sessions was chosen to serve a record that needed to be simultaneously commercially accessible and musically adventurous, and the result holds up as one of the most distinctive drum performances in 2000s metal.
+
+The album's gear choices tell a coherent story: DW Collector's maple shells tuned for melodic warmth and fill clarity; Zildjian A Series cymbals providing bright, cutting top-end that separates Dailor's patterns from Mastodon's dense guitar arrangements; DW 9000 double pedal providing the rhythmic foundation for a concept album about creatures, mountains, and mythological encounters. Each choice serves the music's specific demands.
+
+For the complete arc of Brann Dailor's gear evolution, see the [Brann Dailor drummer profile](/drummer/brann-dailor). For how his setup evolved three years after Blood Mountain into the DW Collector's / Meinl Byzance combination of *Crack the Skye* — considered by many the peak of progressive metal drumming — see the [Crack the Skye drum setup breakdown](/articles/crack-the-skye-drum-setup). Blood Mountain is the bridge between Mastodon's raw underground beginnings and the compositional sophistication that would follow: Dailor's playing at its most aggressive, its most commercial, and its most clearly itself.`
+    },
+    relatedAlbums: ['crack-the-skye-drum-setup', 'whats-in-brann-dailors-kit'],
+    relatedDrummers: [16],
+    relatedArticles: ['progressive-metal-drummers', 'polyrhythm-techniques'],
+    schema: {
+      '@context': 'https://schema.org',
+      '@graph': [
+        {
+          '@type': 'Article',
+          headline: "Blood Mountain Drum Setup: Brann Dailor's Gear on Mastodon's Breakthrough",
+          description: "Discover the exact drum kit, cymbals, and gear Brann Dailor used to record Mastodon's mainstream breakthrough Blood Mountain (2006). Full breakdown of the DW Collector's Series kit, Zildjian cymbals, DW 9000 double pedal, and the fills-as-lead-instrument approach behind progressive metal's most inventive drummer.",
+          author: {
+            '@type': 'Organization',
+            name: 'MetalForge Editorial'
+          },
+          datePublished: '2026-06-24',
+          dateModified: '2026-06-24'
+        },
+        {
+          '@type': 'BreadcrumbList',
+          itemListElement: [
+            { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://metalforge.io/' },
+            { '@type': 'ListItem', position: 2, name: 'Articles', item: 'https://metalforge.io/articles' },
+            { '@type': 'ListItem', position: 3, name: 'Blood Mountain Drum Setup', item: 'https://metalforge.io/articles/blood-mountain-drum-setup' }
+          ]
+        },
+        {
+          '@type': 'MusicAlbum',
+          name: 'Blood Mountain',
+          byArtist: {
+            '@type': 'MusicGroup',
+            name: 'Mastodon'
+          },
+          datePublished: '2006-10-03',
+          genre: 'Progressive Sludge Metal',
+          recordLabel: {
+            '@type': 'Organization',
+            name: 'Atlantic Records'
+          },
+          track: [
+            { '@type': 'MusicRecording', name: 'The Wolf Is Loose' },
+            { '@type': 'MusicRecording', name: 'Colony of Birchmen' },
+            { '@type': 'MusicRecording', name: 'The Blood and the Rooster' },
+            { '@type': 'MusicRecording', name: 'Sleeping Giant' },
+            { '@type': 'MusicRecording', name: 'Capillarian Crest' },
+            { '@type': 'MusicRecording', name: 'Circle of Cysquatch' },
+            { '@type': 'MusicRecording', name: 'Bladecatcher' },
+            { '@type': 'MusicRecording', name: 'Siberian Divide' },
+            { '@type': 'MusicRecording', name: 'Pendulous Skin' }
+          ]
+        },
+        {
+          '@type': 'Person',
+          name: 'Brann Dailor',
+          birthDate: '1975-03-19',
+          birthPlace: {
+            '@type': 'Place',
+            name: 'Rochester, New York, USA'
+          },
+          memberOf: {
+            '@type': 'MusicGroup',
+            name: 'Mastodon'
+          },
+          instrument: 'Drums'
+        },
+        {
+          '@type': 'FAQPage',
+          mainEntity: [
+            {
+              '@type': 'Question',
+              name: 'What drums does Brann Dailor use on Blood Mountain?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "Brann Dailor recorded Mastodon's Blood Mountain (2006) using a DW Collector's Series drum kit with maple shells. The configuration featured a double bass drum setup with two 22\" kick drums, three rack toms (10\", 12\", and 13\"), and a 16\" floor tom. The maple shells provide the warm, resonant tone that allows Dailor's melodic fill sequences to function as pitched phrases rather than purely rhythmic punctuation."
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'What cymbals does Brann Dailor use on Blood Mountain?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "On Blood Mountain (2006), Brann Dailor used Zildjian A and K Series cymbals. His setup included 14\" A Series hi-hats, an 18\" A Medium Thin Crash, a 20\" A Medium Crash, a 22\" A Medium Ride, and an 18\" A China. The Zildjian A Series' bright, cutting character defined this era of Dailor's career before his later transition to Meinl Byzance."
+              }
+            },
+            {
+              '@type': 'Question',
+              name: "What makes Brann Dailor's drumming unique on Blood Mountain?",
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "On Blood Mountain, Brann Dailor established his 'fills as lead instrument' philosophy for a mainstream audience. Tom patterns function as melodic phrases with harmonic intention — commenting on the song's narrative structure rather than simply marking rhythmic transitions. Blood Mountain was Mastodon's Atlantic Records debut and the album that made this compositional approach unmistakable to a wider audience."
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'What double pedal does Brann Dailor use on Blood Mountain?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "On Blood Mountain (2006), Brann Dailor used a DW 9000 double bass drum pedal with smooth chain drive action. The DW 9000's consistent primary-to-secondary pedal response was essential for the album's double-kick bass drum patterns. Dailor later moved to a single bass drum setup on subsequent Mastodon albums."
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'Where was Blood Mountain recorded?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "Blood Mountain was recorded at Doppler Studios in Atlanta, Georgia, produced by Matt Bayles. Released October 3, 2006 on Atlantic Records, the album debuted at number 28 on the US Billboard 200 — Mastodon's mainstream commercial breakthrough."
               }
             }
           ]

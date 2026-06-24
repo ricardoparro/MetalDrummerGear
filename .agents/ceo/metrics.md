@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-24 16:53 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-24 19:30 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 109 |
-| Sessions | 134 |
-| Page views | 320 |
-| Engagement rate | 58.96% |
-| Avg session (s) | 603 |
+| Active users | 111 |
+| Sessions | 136 |
+| Page views | 323 |
+| Engagement rate | 58.09% |
+| Avg session (s) | 597 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -22,18 +22,18 @@
 | /drummers | 28 | 4 |
 | /tools | 18 | 2 |
 | /drummers/igor-cavalera/licks/igor-cavalera-refuse-resist-double-bass | 9 | 1 |
-| /drummer/shannon-larkin | 7 | 4 |
+| /drummer/shannon-larkin | 7 | 5 |
 | /drummer/inferno | 6 | 4 |
+| /drummer/mario-duplantier | 6 | 6 |
 | /drummers/igor-cavalera/licks/igor-cavalera-roots-bloody-roots-tribal-groove | 6 | 1 |
 | /gear/drums | 6 | 2 |
-| /tools/setup-builder | 6 | 1 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 76 | 69 |
+| Organic Search | 77 | 70 |
 | Direct | 51 | 33 |
-| Unassigned | 18 | 17 |
+| Unassigned | 20 | 19 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

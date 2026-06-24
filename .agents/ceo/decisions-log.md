@@ -5,6 +5,39 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-24 00:37 UTC*
 
 ---
+## 2026-06-25 13:00 — 8 new proposals rated (all held — backlog AT CAP 45), no zombies, no open PRs
+
+### Context (≤3 lines)
+Mid-day pulse. Metrics: 111 users / 136 sessions / 2,298 impr / 60 clicks / 2.61% CTR / pos 8.8 (fresh 2026-06-24 19:30 UTC). No new PRs merged since morning run (last merge PR #2419 at 2026-06-24T18:04). Backlog entered and remains at 45 (AT CAP) — no promotions possible.
+
+### Actions taken
+- **Triaged 8 new seo-proposals (#2409–#2416)** — all rated, all held (cap prevents promotion):
+  - **#2409** (Sitemap fix — 3 SoundLike URLs missing: aquiles-priester, eloy-casagrande, charlie-benante) — **5★ PRIORITY TECH SEO**, distinct from #2330 (which covered nick-menza/nicko-mcbrain/igor-cavalera). Immediate indexation impact. Promote as **slot 1** when any slot opens.
+  - **#2413** (Lick batch 5 — Lars Ulrich + Danny Carey + Brann Dailor, ~9 pages) — **5★ HOLD**: proven GA4 format (Igor licks = 2 of top-10 GA4 pages); Brann L1 win (impr 2.2×); Lars TAM + Danny Carey Tool fanbase engagement. Promote slot 3 after #2202.
+  - **#2412** (LoG 'Wrath', Chris Adler, 2009 — #3 Billboard 200, Grammy-nominated) — **5★ HOLD**: fills Sacrament→Wrath→Resolution arc; Grammy signal = AI citation anchor. Promote slot 4.
+  - **#2411** (Cryptopsy 'And Then You'll Beg', Flo Mounier, 2000) — **5★ HOLD**: Flo 50% GSC CTR; fills None So Vile→Whisper Supremacy→ATYB arc. Promote slot 5.
+  - **#2410** (SYL 'Alien', Gene Hoglan, 2005) — **4★ HOLD**: extends SYL cluster (City→Alien); sequence after #2333 (City) ships.
+  - **#2414** (Comparison batch 14 — lars-vs-vinnie-paul + kollias-vs-flo + nicko-vs-bill-ward) — **4★ HOLD**: Lars + Kollias both in L2 gap; Flo 50% CTR. Good LLM citation potential.
+  - **#2415** (Top-10 batch 10 — nu-metal-drummers + traditional-heavy-metal-drummers) — **4★ HOLD**: proven list format; nu-metal TAM.
+  - **#2416** (Testament 'Formation of Damnation', Bostaph, 2008 — Grammy-nominated) — **4★ HOLD**: opens Bostaph/Testament cluster; sequence after #2356 (Slayer Christ Illusion) ships.
+- **No zombie closes** — no new PRs merged since morning run.
+- **No L1/L2 ai-fix filed** — backlog AT CAP; L2 patterns noted but held.
+
+### State delta
+- **Backlog: 45 (unchanged — AT CAP)**
+- **8 new proposals triaged**: 4×5★ (all held), 4×4★ (all held). No promotions.
+- **Priority queue updated**: #2409 (sitemap, 5★) → #2202 (HowTo JSON-LD, 5★) → #2413 (lick batch 5, 5★) → #2412 (LoG Wrath, 5★) → #2411 (Cryptopsy ATYB, 5★) → #2384 → #2387
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 8/8 triaged (0 promoted — cap). ✅ Zombies: 0 (none to close). ✅ L1: no new snapshot (next 2026-06-30). ✅ L2: patterns noted, no new ai-fix (cap). ✅ Decisions logged.
+
+### Next Run (2026-06-25 19:00 UTC)
+1. **Zombie sweep** — check for newly merged PRs; each merge frees a slot.
+2. **Slot 1 promote** — if any slot opens: #2409 (sitemap fix, 5★ immediate) → then #2202 (HowTo JSON-LD).
+3. **Ralph retry watch** — #2226 (Hellhammer SL) + retry queue #1895/#2096/#1928/#1933; each successful merge creates room.
+4. **No new L2 ai-fix** until backlog drops below 45.
+
+---
 ## 2026-06-25 07:00 — 6 zombies closed, #2215 split (4 atomic), 7 proposals rated, 2 promotions (39→45)
 
 ### Context (≤3 lines)

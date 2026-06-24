@@ -8,7 +8,7 @@ const gearItems = [
     category: 'hardware',
     brand: 'Tama',
     description: 'The Tama Iron Cobra 900 is one of the most popular double bass pedals in metal drumming. Known for its smooth Power Glide cam, quick response, and durability, it has been the pedal of choice for many legendary drummers. The Iron Cobra features a rolling glide design that provides a linear feel throughout the stroke.',
-    image: 'https://www.tama.com/usa/products/images/HP900PTWN_main.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg',
     specs: {
       camType: 'Power Glide',
       beaterType: 'Dual-surface (felt/plastic)',
@@ -26,7 +26,7 @@ const gearItems = [
     category: 'cymbals',
     brand: 'Meinl',
     description: 'Meinl Byzance cymbals are hand-hammered in Turkey using traditional B20 bronze alloy. The series offers a wide range of sounds from dark and trashy to bright and cutting. Popular with progressive and extreme metal drummers for their complex overtones and dynamic response.',
-    image: 'https://meinlcymbals.com/images/products/cymbal_byzance.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/3/31/Cymbal_Hammering.JPG',
     specs: {
       material: 'B20 Bronze',
       finish: 'Traditional/Brilliant/Extra Dry',
@@ -44,7 +44,7 @@ const gearItems = [
     category: 'cymbals',
     brand: 'Paiste',
     description: 'Paiste RUDE cymbals are designed specifically for heavy hitting drummers. Made from CuSn8 bronze (2002 Bronze), they deliver cutting, aggressive tones that cut through the loudest stage volumes. A staple in thrash and death metal drumming since the 1980s.',
-    image: 'https://www.paiste.com/images/products/rude.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/c/c3/SABIAN_Paragon_Ride_Limited_Edition_Steampunk.jpg',
     specs: {
       material: 'CuSn8 Bronze (2002 Bronze)',
       finish: 'Colored finish (various)',
@@ -62,7 +62,7 @@ const gearItems = [
     category: 'cymbals',
     brand: 'Zildjian',
     description: 'The Zildjian A Custom series delivers bright, cutting tones with a quick response. Created with a proprietary process that includes machine hammering and brilliant finishing, A Customs have become a standard in rock and metal drumming for their projection and clarity.',
-    image: 'https://zildjian.com/images/products/a-custom.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/4/43/Zildjian_Quick_Beat_Hi_Hat_15.jpg',
     specs: {
       material: 'B20 Bronze',
       finish: 'Brilliant',
@@ -80,7 +80,7 @@ const gearItems = [
     category: 'sticks',
     brand: 'Vic Firth',
     description: 'The Vic Firth American Classic 5B is one of the most popular drumstick models in the world. Slightly larger than a 5A with a bold sound and full feel, the 5B offers excellent balance and durability. The tear drop tip produces a rich, full tone on cymbals.',
-    image: 'https://vicfirth.zildjian.com/images/products/5b.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/2/2b/Plain_wooden_drumsticks.JPG',
     specs: {
       length: '16"',
       diameter: '.595"',
@@ -98,7 +98,7 @@ const gearItems = [
     category: 'hardware',
     brand: 'Pearl',
     description: 'The Pearl Demon Drive is an advanced double bass pedal featuring the innovative NiNjA Bearing technology for ultra-smooth action. With interchangeable cams and click-lock spring tension, it offers unparalleled customization for demanding drummers.',
-    image: 'https://pearldrum.com/images/products/demon-drive.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg',
     specs: {
       camType: 'Interchangeable (Direct/Standard)',
       beaterType: 'Demon Beater (switchable)',
@@ -116,7 +116,7 @@ const gearItems = [
     category: 'drums',
     brand: 'Tama',
     description: 'Tama Starclassic Walnut/Birch drums combine the warmth and low-end of walnut with the attack and projection of birch. This hybrid shell construction delivers a versatile sound suitable for studio and stage, favored by many professional metal drummers.',
-    image: 'https://www.tama.com/images/products/starclassic-wb.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg',
     specs: {
       shells: 'Walnut/Birch hybrid',
       plies: '6mm (5-ply)',
@@ -134,7 +134,7 @@ const gearItems = [
     category: 'drums',
     brand: 'Pearl',
     description: 'Pearl Reference drums feature the innovative Reference Shell construction with birch, maple, and mahogany plies. Each shell size is specifically designed with optimal wood combinations for that drum\'s role, delivering focused tone and maximum projection.',
-    image: 'https://pearldrum.com/images/products/reference.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg',
     specs: {
       shells: 'Birch/Maple/Mahogany hybrid',
       plies: 'Size-specific',
@@ -152,7 +152,7 @@ const gearItems = [
     category: 'drums',
     brand: 'Sonor',
     description: 'Sonor SQ2 drums with Heavy Beech shells are custom-built in Germany. The dense beech wood delivers powerful projection and sustain, making them ideal for heavy music. The SQ2 system allows complete customization of shell configurations.',
-    image: 'https://www.sonor.com/images/products/sq2.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg',
     specs: {
       shells: 'Heavy Beech',
       plies: '9mm (7-ply)',
@@ -170,7 +170,7 @@ const gearItems = [
     category: 'cymbals',
     brand: 'Sabian',
     description: 'Sabian HHX cymbals combine hand-hammering with modern manufacturing for a dark, complex sound. The HHX line offers excellent dynamic range and musical warmth, making them popular with progressive and modern metal drummers.',
-    image: 'https://www.sabian.com/images/products/hhx.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/8/8f/Avedis_Zildjian_Cymbal.jpg',
     specs: {
       material: 'B20 Bronze',
       finish: 'Natural/Brilliant',

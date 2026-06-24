@@ -28,6 +28,10 @@ Rules:
 
 ---
 
+`lick-pages` + `/drummers/<slug>/licks/<slug>` route with specific technique name + video + notation → GA4 2026-06-24 (Igor Cavalera lick pages = 2 of top-10 GA4 pages: 9 + 6 views, outperforming all non-homepage routes). Long-form lick content drives engaged sessions (611s avg). **Replicate to:** Gene Hoglan, Dave Lombardo, Tomas Haake, Matt Greiner, Joey Jordison. Pattern confirmed: #2311 promoted + #2323 promoted (both same route format).
+
+`comparative-list` + Top-10 drummer list page with JSON-LD ItemList schema + LLM FAQ block → L2 #2211 (2026-06-23) · "best death metal drummer", "most innovative metal drummers" — drummagazine/drumeo/loudwire winning with no metalforge.io citation. First-mover opportunity on "djent/groove/modern metal drummer" sub-niches (#2344). Replicate via Top-10 batch pages with strong opinionated prose + FAQ blocks.
+
 ## ❌ Do-not-promote patterns
 
 *(Format: `<intent type> + <on-page format> → <verdict source> · <reason>`)*

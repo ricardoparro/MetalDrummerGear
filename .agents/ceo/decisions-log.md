@@ -5,6 +5,44 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-24 00:37 UTC*
 
 ---
+## 2026-06-25 19:00 — 5 zombies closed, 3 conflict-PRs cleared, 7 proposals rated, 4 promotions (41→45)
+
+### Context (≤3 lines)
+Evening run. Metrics fresh (2026-06-24 10:58 UTC). No new founder ideas. 5 zombie-open issues found (merged PRs #2352/#2350/#2349/#2348/#2345 did not auto-close issues). 3 conflicting PRs (#2353/#2351/#2346) needed manual close for Ralph retry. 7 new seo-proposals (#2338–#2344) filed since 13:00.
+
+### Actions taken
+- **Closed 5 zombie issues:** #1843 (CTS→PR #2345), #2152 (LLM companion→PR #2352), #2100 (gear price batch 4→PR #2350), #2097 (Opeth Deliverance→PR #2349), #2016 (genre gear guides→PR #2348). All content live. Backlog: 46→41.
+- **Closed 3 conflicting PRs** for retry: #2353 (→#2153 Joey Jordison AHIG), #2351 (→#2145 soundLike slug fixes), #2346 (→#1970 Arch Enemy WOTS). Issues remain open; Ralph retries from clean main.
+- **Rated 7 new seo-proposals:**
+  - **#2341** (Eloy Casagrande M72 World Tour, 2023-24 — Metallica live drummer) — **5★ PROMOTED**: highest-TAM uncovered angle; Eloy at 5.26% CTR / 19 impr in GSC; "what drum kit does Metallica use live" LLM query cluster; first-mover.
+  - **#2342** (SoundLike batch 13: Erlandsson/Bostaph/Grossmann) — **5★ PROMOTED**: proven ✅ format; Arch Enemy WOTS (#1970) just retried = Erlandsson timing.
+  - **#2344** (Top-10 batch 8: avant-garde/metalcore/extreme-metal) — **5★ PROMOTED**: L2 gap — "best death metal drummer" + "most innovative" uncited; djent sub-niche first-mover.
+  - **#2338** (Maiden 'Brave New World', Nicko, 2000) — **4★ HOLD**: solid arc fill; sequence after AMOLAD (#2270) ships.
+  - **#2339** (Behemoth 'Demigod', Inferno, 2004) — **4★ HOLD** (high-4): Inferno 8.33% CTR signal; promote after #2339 retries ship.
+  - **#2340** (DT 'The Astonishing', Mangini, 2016) — **4★ HOLD**: DT arc fill; sequence after ToT→SC→BC&SL ships.
+  - **#2343** (Gear price batch 14: Bill Ward/Bittner/Roddy) — **4★ HOLD**: proven format, moderate TAM.
+- **Promoted from existing idea bank** (4th slot): **#2323** (Lick batch: Hoglan/Lombardo/Haake) — **5★**: proven GA4 format (Igor lick pages = top 2 GA4 routes after homepage + /drummers). Backlog: 41→45.
+- **Updated learned-patterns.md:** added `lick-pages` route pattern (GA4-verified) and `comparative-list` Top-10 pattern (L2-verified).
+- **#2215 split deferred:** backlog AT CAP; split goes net +3 → 48. Trigger when backlog ≤44.
+
+### State delta
+- **Backlog: 46→41 (zombies)→45 (4 promotions) — AT CAP**
+- **5 zombie issues closed** (#1843/#2152/#2100/#2097/#2016) — all content live since recent merges; Ralph close-keyword not triggering (systemic)
+- **3 PRs closed for retry** (#2353/#2351/#2346) — issues #2153/#2145/#1970 remain open
+- **4 promoted:** #2341 (Eloy M72), #2342 (SoundLike 13), #2344 (Top-10 batch 8), #2323 (Lick batch Hoglan/Lombardo/Haake)
+- **Idea bank:** ~55+ quality proposals (7 new 4★ added; 3 new 5★ promoted); priority next: #2339 (Inferno Demigod, 4★ high) → #2306 (Meshuggah VSoR, 5★ L2) → #2333 (SYL City, 5★) → #2325 (Meshuggah Immutable, 5★)
+- **learned-patterns.md:** 2 new entries (lick-pages GA4, comparative-list L2)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 new rated (3 promoted, 4 held). ✅ Zombie closes: 5 (#1843/#2152/#2100/#2097/#2016). ✅ Conflict PRs: 3 cleared (#2353/#2351/#2346). ✅ Promotions: 4 (41→45). ✅ L1: no new snapshot (next 2026-06-30). ✅ Learned-patterns updated. ✅ No over-filing (0 L1/L2 ai-fix issues). ✅ Decisions logged.
+
+### Next Run (2026-06-26 07:00 UTC)
+1. **Merge watch** — expect Ralph to retry #2153 (Joey Jordison AHIG), #2145 (soundLike slugs), #1970 (Arch Enemy WOTS) + existing retry queue (#1895/#2099/#2098/#2096/#1933/#1928). Each merge frees a slot.
+2. **Priority promotes** when slots open: #2339 (Behemoth Demigod, Inferno CTR signal) → #2306 (Meshuggah VSoR, L2 zero-competitor) → #2333 (SYL City, Gene 67% CTR).
+3. **#2215 split** — trigger if backlog ≤44; split into 4 atomic brand/series/drummers-using pages.
+4. **L1 check** — next weekly snapshot 2026-06-30; joey-jordison now baselining (impr 84/85, pos 8.5).
+
+---
 ## 2026-06-25 07:00 — 9 PRs merged, #2150 split (4 atomic), 6 promotions (39→45)
 
 ### Context (≤3 lines)

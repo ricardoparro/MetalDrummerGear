@@ -671,6 +671,7 @@ export default function handler(req, res) {
     })),
     // Issue #1795: high-value drummer comparison LLM files not in drummerComparisons data.
     // Hardcoded to match the 8 files shipped in public/llms/vs/ by this issue.
+    // Issue #2101: 3 additional pairs added (art-cruz-vs-chris-adler, aquiles-priester-vs-jaska-raatikainen, matt-garstka-vs-mike-mangini).
     ...([
       'tomas-haake-vs-george-kollias',
       'brann-dailor-vs-danny-carey',
@@ -680,6 +681,9 @@ export default function handler(req, res) {
       'vinnie-paul-vs-dave-lombardo',
       'travis-orbin-vs-matt-halpern',
       'pete-sandoval-vs-george-kollias',
+      'art-cruz-vs-chris-adler',
+      'aquiles-priester-vs-jaska-raatikainen',
+      'matt-garstka-vs-mike-mangini',
     ].map(slug => ({
       loc: `/llms/vs/${slug}.md`,
       priority: '0.5',

@@ -41793,7 +41793,7 @@ The album's gear choices tell a coherent story: DW Collector's maple shells tune
 
 For the complete arc of Brann Dailor's gear evolution, see the [Brann Dailor drummer profile](/drummer/brann-dailor). For how his setup evolved three years after Blood Mountain into the DW Collector's / Meinl Byzance combination of *Crack the Skye* — considered by many the peak of progressive metal drumming — see the [Crack the Skye drum setup breakdown](/articles/crack-the-skye-drum-setup). Blood Mountain is the bridge between Mastodon's raw underground beginnings and the compositional sophistication that would follow: Dailor's playing at its most aggressive, its most commercial, and its most clearly itself.`
     },
-    relatedAlbums: ['crack-the-skye-drum-setup', 'whats-in-brann-dailors-kit'],
+    relatedAlbums: ['crack-the-skye-drum-setup', 'brann-dailor-mastodon-drum-setup', 'whats-in-brann-dailors-kit'],
     relatedDrummers: [16],
     relatedArticles: ['progressive-metal-drummers', 'polyrhythm-techniques'],
     schema: {

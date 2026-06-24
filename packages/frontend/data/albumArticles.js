@@ -40525,6 +40525,395 @@ For the complete picture of Brann Dailor's gear across Mastodon's career, visit 
         }
       ]
     }
+  },
+
+  'death-magnetic-drum-setup': {
+    slug: 'death-magnetic-drum-setup',
+    albumTitle: 'Death Magnetic',
+    artist: 'Metallica',
+    drummer: 'Lars Ulrich',
+    drummerId: 1,
+    relatedDrummerSlug: 'lars-ulrich',
+    year: 2008,
+    genre: 'Thrash Metal / Heavy Metal',
+    label: 'Warner Bros. Records',
+    studio: 'HQ Studios, San Rafael, CA; Sound City Studios, Los Angeles',
+    producer: 'Rick Rubin',
+    isAlbumArticle: true,
+    datePublished: '2026-06-24',
+    dateModified: '2026-06-24',
+    author: 'MetalForge Editorial',
+    title: "Lars Ulrich's Drum Setup on Metallica's Death Magnetic (2008)",
+    description: "Lars Ulrich's return to thrash — how Rick Rubin and a Tama Starclassic Birch kit helped Metallica recapture the aggression of their classic era. Full gear breakdown including the loudness war controversy.",
+    seoKeywords: ['lars ulrich death magnetic drum setup', 'metallica death magnetic drums', 'death magnetic drum sound rick rubin', 'lars ulrich 2008 kit', 'tama starclassic birch lars ulrich', 'death magnetic loudness war', 'death magnetic clipping'],
+    ogImage: '/images/albums/death-magnetic-drums.webp',
+    intro: {
+      title: "Metallica's Return to Thrash",
+      content: `Released on September 12, 2008, "Death Magnetic" was Metallica's ninth studio album and their most deliberate attempt to recapture the aggressive thrash sound of their 1980s peak. After the polarizing "St. Anger" (2003) — infamous for its unsnared snare and raw, stripped-down production — Death Magnetic arrived as a course correction. Producer Rick Rubin pushed the band back toward the long songs, complex arrangements, and full-throttle playing that defined albums like "Master of Puppets" and "...And Justice for All."
+
+For Lars Ulrich, Death Magnetic meant returning to his roots as a thrash drummer. Gone was the St. Anger snare — Lars re-embraced his Tama Starclassic Birch kit and Zildjian A Custom cymbals for a sound that felt both familiar and fresh. The result was the most direct, aggressive drum sound on a Metallica album since the early 1990s.
+
+The album is equally famous — or infamous — for its place in the Loudness War. Death Magnetic was mastered so hot that it clipped extensively on the CD and iTunes releases, producing audible distortion. Notably, the Guitar Hero III version of the album (sourced from game audio stems before final mastering) sounds dramatically different — more dynamic, with intact transients. The controversy generated significant audiophile and music production discussion, and "death magnetic clipping" and "death magnetic GH vs CD" remain highly-searched terms years after release.
+
+This article covers the gear Lars used to make Death Magnetic, the Rick Rubin recording philosophy, and how this album fits in the broader Lars Ulrich story.`,
+      keyPoints: [
+        'Deliberate return to thrash after St. Anger controversy',
+        'Rick Rubin replaced Bob Rock as producer for the first time since 1988',
+        'Tama Starclassic Birch kit — more attack and punch than the maple-shell Black Album setup',
+        'Zildjian A Custom cymbals replaced the older A Series from earlier albums',
+        'Death Magnetic became one of the most debated albums in the Loudness War'
+      ]
+    },
+    drumKit: {
+      title: "Lars's Studio Kit: Tama Starclassic Birch",
+      brand: 'Tama',
+      model: 'Tama Starclassic Birch',
+      finish: 'Mirage White Pearl',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum'],
+        toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
+        floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom'],
+        shells: 'Birch shells with StarCast Mounting System'
+      },
+      description: `For Death Magnetic, Lars Ulrich used his Tama Starclassic Birch kit — a step up from the Artstar II birch shells of the Justice era and distinct from the Artist Maple kit used on the Black Album. The Starclassic Birch offered the tight, punchy attack that birch shells are known for, giving the album its aggressive, forward-pushing drum character.
+
+The Starclassic line represented Tama's professional-tier offering at the time, featuring thinner shells than earlier Tama pro kits, Tama's proprietary StarCast mounting system (which allows the shells to vibrate freely), and superior hardware precision. These refinements translated directly to the recording: shells that resonated fully, toms that decayed cleanly, and a kick drum with sharp transient attack ideal for Rick Rubin's punchy production.
+
+Lars ran a single 22" bass drum with an Iron Cobra double pedal — a configuration he had settled into since the Justice era. The double-bass work throughout Death Magnetic is among his most sustained since the late '80s, with tracks like "That Was Just Your Life" and "Broken, Beat & Scarred" featuring extended galloping patterns that recall his classic-era playing.
+
+The birch shell's inherently brighter, more focused character versus maple directly served Rick Rubin's production philosophy: punch first, warmth second. Where the Black Album's maple shells produced wide, warm tones suited to Bob Rock's room-heavy approach, the Starclassic Birch snapped and attacked, cutting through even the most compressed final master.`,
+      notes: [
+        'Starclassic Birch chosen for its attack-forward tonal character',
+        'StarCast mounting system allows full shell resonance',
+        'Single kick with Iron Cobra double pedal — Lars\'s standard since Justice',
+        'More aggressive tone profile than the Black Album\'s maple shells',
+        'This kit marked the beginning of Lars\'s Starclassic era'
+      ],
+      estimatedValue: '$3,500-4,500 (2008) / $2,500-4,000 (used today)'
+    },
+    snare: {
+      title: "The LU1465: Lars's Signature Returns",
+      brand: 'Tama',
+      model: 'Tama LU1465 Lars Ulrich Signature Snare',
+      size: '14" x 6.5"',
+      shell: 'Steel with die-cast hoops',
+      description: `The snare drum on Death Magnetic is a stark contrast to the St. Anger recording — where St. Anger featured a snare with the wires disengaged, producing that distinctive metallic ring, Death Magnetic brought Lars back to the Tama LU1465 Lars Ulrich Signature snare he had used across his Tama career.
+
+The LU1465 is a 14" x 6.5" steel-shell snare with die-cast hoops. The steel construction delivers a bright, cutting attack with a focused crack — exactly what the aggressive thrash passages on Death Magnetic demanded. Die-cast hoops contribute to tuning stability and add a subtle brightness boost compared to stamped hoops.
+
+Rick Rubin's approach to the snare was to capture a natural, direct sound — close-miked with a Shure SM57 and a secondary mic under the shell to capture snare wire response. The result was a snare that cracked hard on backbeats and cut through James Hetfield's detuned rhythm guitars without disappearing into the mix. The LU1465 tuned medium-high provided the right balance of attack and body for the album's aggressive character.
+
+The LU1465 had been Lars's go-to snare for years before St. Anger's deliberate deviation. Returning to it for Death Magnetic was itself a statement — a sonic signifier that Metallica was back on familiar ground.`,
+      tuningSetting: 'Medium-high tension for attack and clarity',
+      heads: 'Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$250-350 (2008) / $300-450 (today)'
+    },
+    cymbals: {
+      title: 'The Zildjian A Custom Arsenal',
+      brand: 'Zildjian',
+      series: 'Zildjian A Custom',
+      setup: [
+        { type: 'Hi-Hats', model: 'Zildjian A Custom 14" Hi-Hats', position: 'Left side', notes: 'Bright, cutting hi-hats with excellent stick definition for fast patterns' },
+        { type: 'Crash', model: 'Zildjian A Custom 16" Crash', position: 'Left of hi-hats', notes: 'Fast, crisp crash for accents and transitions' },
+        { type: 'Crash', model: 'Zildjian A Custom 18" Crash', position: 'Right of toms', notes: 'Primary crash position — fuller and louder for section endings' },
+        { type: 'Ride', model: 'Zildjian A Custom 20" Ride', position: 'Far right', notes: 'Bright, projecting ride with clear bell definition' },
+        { type: 'China', model: 'Zildjian A Custom 18" China', position: 'Above floor tom', notes: 'Aggressive, cutting accents for riff punctuation' }
+      ],
+      description: `Lars's cymbal setup for Death Magnetic centered on the Zildjian A Custom series — the "modern" successor to the A Series cymbals he had used from the Master of Puppets era through the late 1990s. The A Custom features a brilliant finish and a different alloy treatment than the traditional A, producing a brighter, more focused sound with faster response.
+
+The 14" A Custom hi-hats were a natural fit for the album's demanding 16th-note patterns. Their tight, cutting character kept Lars's hi-hat work audible even in the most compressed sections of the final master — no small feat given how aggressively Death Magnetic was mastered.
+
+The crash configuration (16" and 18") mirrored the setups Lars had used since the Justice era: a smaller, faster crash for quick accents and a larger crash for section endings. The A Custom's brilliant finish gave both cymbals extra projection and a slightly more aggressive attack than the traditional A Series crashes.
+
+The 20" A Custom Ride provided clear bell definition for the riding passages throughout tracks like "The Unforgiven III" and "Cyanide," while the 18" China supplied the explosive, trashy accents that punctuated riff endings — a Metallica signature going back to Master of Puppets.`,
+      estimatedValue: '$1,500-1,800 total (2008)'
+    },
+    hardware: {
+      title: 'Pedals and Hardware',
+      items: [
+        {
+          type: 'Bass Drum Pedal',
+          brand: 'Tama',
+          model: 'Tama Iron Cobra 900 Double Pedal',
+          notes: 'Lars\'s long-time pedal choice — smooth, consistent action for demanding double-bass patterns',
+          description: 'The Iron Cobra 900 double pedal was Lars\'s primary pedal throughout the 2000s and Death Magnetic sessions. Its Power Glide cam provides a smooth, consistent feel across the pedal stroke\'s full range, and the robust construction handles the demands of aggressive thrash drumming without mechanical noise.'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Tama',
+          model: 'Tama Roadpro Hi-Hat Stand',
+          notes: 'Heavy-duty stand suited to aggressive footwork'
+        },
+        {
+          type: 'Throne',
+          brand: 'Roc-N-Soc',
+          model: 'Roc-N-Soc Nitro Original',
+          notes: 'Hydraulic-style seat for long tracking sessions'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Ahead',
+          model: 'Ahead Lars Ulrich Signature Sticks',
+          notes: 'Aluminum-core sticks with urethane coating — Lars\'s signature model since the late 1990s'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke 3 Clear with Evans EQ Pad muffling',
+        toms: 'Remo Ambassador Clear (batter), Ambassador Clear (resonant)',
+        snare: 'Remo Ambassador Coated'
+      }
+    },
+    recordingTechniques: {
+      title: 'Rick Rubin and the Return to Punch',
+      content: `Rick Rubin's approach to recording Death Magnetic was a direct response to what he perceived as the over-produced, sonically cluttered direction Metallica had traveled since the Black Album. Rubin wanted drums that hit hard, breathed naturally, and felt like a live band in a room — not tracks processed to perfection.
+
+**Rubin's Core Philosophy:**
+Where Bob Rock used extensive compression, layering, and room-heavy processing on the Black Album, Rubin stripped things back. He emphasized natural room sound, closer mic placement for attack, and a performance-first mentality. Lars spent considerable time during pre-production rehearsals to ensure his performances had the stamina and aggression the material demanded.
+
+**Microphone Setup:**
+- Kick drum: Shure Beta 52A inside, AKG D112 outside for low-end body
+- Snare: Shure SM57 top, AKG C451 bottom
+- Toms: Sennheiser MD421 on each tom
+- Hi-hat: AKG C451
+- Overheads: Neumann U87s in spaced pair configuration
+- Room mics: Neumann U47s for ambience — used more prominently than on Justice
+
+**The Loudness War Context:**
+Death Magnetic's recording was not the source of its controversy — the mastering was. The album was mixed by Vlado Meller and mastered aggressively hot, resulting in extensive clipping on the CD release. The Guitar Hero III version of the album, sourced from pre-mastering stems, is widely considered to sound dramatically better: more dynamic, cleaner transients, audible snare sustain. This became one of the most-discussed examples of Loudness War damage in the 2000s. The actual drum performances and recording quality were not the issue — it was post-production compression applied in mastering.
+
+**Performance Context:**
+Lars tracked Death Magnetic after an intensive rehearsal period that represented a significant return to form physically. The double-bass patterns on tracks like "That Was Just Your Life" required sustained stamina he had not demanded of himself in years.`,
+      keyTechniques: [
+        'Rick Rubin prioritized performance feel and natural room sound over studio polish',
+        'Closer mic placement versus Black Album era emphasized attack and punch',
+        'Loud mastering caused controversy — GH version is widely preferred by audiophiles',
+        'Lars prepared extensively in pre-production for the thrash demands'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'That Was Just Your Life',
+        bpm: '200',
+        signature: '4/4',
+        highlights: [
+          'Album opener designed to announce the return to thrash',
+          'Double-bass gallop throughout the verse sections',
+          'Snare crack on every backbeat demonstrates Lars\'s LU1465 tuning',
+          'Most direct throwback to 1980s Metallica drumming style'
+        ],
+        gearNotes: 'Iron Cobra double pedal essential for sustained 200bpm galloping. A Custom hi-hats provide cutting definition throughout.'
+      },
+      {
+        track: 'The End of the Line',
+        bpm: '195',
+        signature: '4/4',
+        highlights: [
+          'Aggressive verse patterns with syncopated kick drum accents',
+          'China cymbal accents punctuate riff transitions',
+          'Extended instrumental section showcases full kit dynamics',
+          'Second-longest track on the album'
+        ],
+        gearNotes: 'China cymbal prominent on riff punches. Starclassic Birch toms cut through in fills.'
+      },
+      {
+        track: 'Broken, Beat & Scarred',
+        bpm: '180',
+        signature: '4/4',
+        highlights: [
+          'Half-time feel in verses contrasts with double-time chorus',
+          'Snare work in the chorus demonstrates the LU1465\'s dynamic range',
+          'Groove-forward track that shows Death Magnetic\'s range',
+          'One of the album\'s more rhythmically interesting arrangements'
+        ],
+        gearNotes: 'Kick drum groove in verses benefits from Iron Cobra\'s consistent stroke. Ride cymbal carries the rhythmic weight in instrumental passages.'
+      },
+      {
+        track: 'All Nightmare Long',
+        bpm: '178',
+        signature: '4/4',
+        highlights: [
+          'One of the album\'s most compositionally ambitious tracks',
+          'Extended tempo shift in middle section',
+          'Driving double bass throughout verse sections',
+          'Fan favorite that regularly appears in live sets'
+        ],
+        gearNotes: 'Double bass work rivals Justice-era intensity. Crash cymbal use increases dramatically in the dynamic final third.'
+      }
+    ],
+    evolution: {
+      title: "Death Magnetic in Lars's Gear Timeline",
+      content: `Death Magnetic sits at a pivotal point in Lars Ulrich's gear evolution — the album where his Tama Starclassic Birch kit fully replaced the Artist Maple shells of the Black Album era, and where the Zildjian A Custom series became his established choice over the traditional A Series.
+
+**Before Death Magnetic:**
+The Black Album (1991) used Tama Artist Maple shells and traditional Zildjian A Series cymbals, with Bob Rock's warm, room-heavy production. St. Anger (2003) famously used the LU1465 snare with the wires removed — a deliberate raw aesthetic. Death Magnetic reversed the St. Anger experiment entirely.
+
+**The Starclassic Birch Era:**
+Lars used the Starclassic Birch through the Death Magnetic touring cycle (2008–2010), including the famous Orion Music + More festival sets. The kit delivered the attack the thrash material required in large venues.
+
+**Modern Setup:**
+For the Hardwired... to Self-Destruct album (2016) and beyond, Lars evolved further:
+- Tama Starclassic Maple (warmer than birch, suited to the slightly more varied Hardwired sound)
+- Tama LU1465 Signature Snare (same as Death Magnetic)
+- Zildjian A Custom cymbals (consistent since Death Magnetic)
+- Tama Iron Cobra 900 pedals (consistent since early 2000s)
+- Ahead Lars Ulrich Signature sticks (consistent since late 1990s)`,
+      thenVsNow: [
+        { category: 'Kit', then: 'Tama Starclassic Birch', now: 'Tama Starclassic Maple' },
+        { category: 'Snare', then: 'Tama LU1465 Lars Ulrich Signature', now: 'Tama LU1465 Lars Ulrich Signature' },
+        { category: 'Cymbals', then: 'Zildjian A Custom', now: 'Zildjian A Custom' },
+        { category: 'Sticks', then: 'Ahead Lars Ulrich Signature', now: 'Ahead Lars Ulrich Signature' },
+        { category: 'Pedals', then: 'Tama Iron Cobra 900 Double', now: 'Tama Iron Cobra 900 Double' }
+      ]
+    },
+    videos: [
+      { youtubeId: 'WM8bTdBs-cw', title: 'Metallica - That Was Just Your Life (Official)', description: 'Official music video for the Death Magnetic opener' },
+      { youtubeId: 'sBLt5ULbLs0', title: 'Metallica - All Nightmare Long (Official)', description: 'Official music video featuring Death Magnetic drum sound' }
+    ],
+    relatedAlbums: ['master-of-puppets-drum-setup', 'and-justice-for-all-drum-setup'],
+    relatedDrummers: [4, 12, 3],
+    relatedArticles: ['thrash-metal-drummers', 'big-four-drummers'],
+    relatedLicks: [],
+    faq: [
+      {
+        question: 'What drums did Lars Ulrich use on Death Magnetic?',
+        answer: 'Lars Ulrich recorded Death Magnetic in 2008 using a Tama Starclassic Birch drum kit. The configuration included a single 22x18 inch bass drum with an Iron Cobra 900 double pedal, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The birch shells, known for their attack-forward tonal character, suited Rick Rubin\'s punchy production philosophy and the album\'s return to thrash aggression.',
+      },
+      {
+        question: 'Why does Death Magnetic sound so loud and distorted?',
+        answer: 'Death Magnetic was mastered extremely hot by Vlado Meller, resulting in extensive digital clipping on both the CD and original digital releases. This was one of the most high-profile examples of Loudness War mastering damage in the 2000s. The Guitar Hero III version of the album, sourced from pre-mastering audio stems, sounds dramatically different — more dynamic and without the clipping artifacts. The actual recording and drum performances are not the source of the problem; the distortion was introduced in the mastering stage.',
+      },
+      {
+        question: 'What snare did Lars Ulrich use on Death Magnetic?',
+        answer: 'Lars Ulrich used his Tama LU1465 Lars Ulrich Signature snare drum on Death Magnetic — a 14x6.5 inch steel-shell snare with die-cast hoops. This was a deliberate return to form after the St. Anger album (2003), where Lars had removed the snare wires from his drum to produce an infamous metallic ring. The LU1465 tuned medium-high delivered the crisp, cutting snare crack that defines the Death Magnetic sound.',
+      },
+      {
+        question: 'What cymbals did Lars Ulrich use on Death Magnetic?',
+        answer: 'Lars Ulrich used Zildjian A Custom cymbals on Death Magnetic. His setup included 14 inch A Custom hi-hats, 16 and 18 inch A Custom crashes, a 20 inch A Custom ride, and an 18 inch A Custom China. The A Custom series, with its brilliant finish and bright, focused character, had become Lars\'s standard setup by the 2000s, replacing the traditional Zildjian A Series he used on earlier Metallica albums.',
+      },
+      {
+        question: 'How does the Death Magnetic drum sound compare to Master of Puppets?',
+        answer: 'Death Magnetic is a deliberate sonic callback to the Master of Puppets era, but with 2008-era gear and production. Both albums feature a punchy, attack-forward drum sound with clear snare crack and aggressive double-bass work. Master of Puppets used vintage Camco drums and a Ludwig Supraphonic snare captured at Sweet Silence Studios in Copenhagen; Death Magnetic used Tama Starclassic Birch shells and the LU1465 signature snare recorded with Rick Rubin. The Death Magnetic sound is cleaner and more modern, but the playing approach — technical, stamina-demanding thrash drumming — consciously mirrors the 1986 performances.',
+      }
+    ],
+    conclusion: {
+      title: "Death Magnetic: The Comeback Kit",
+      content: `Death Magnetic represents a decisive moment in Lars Ulrich's career: the decision to recommit to the thrash drumming that made his reputation. The Tama Starclassic Birch kit, Zildjian A Custom cymbals, and Rick Rubin's production created a drum sound that acknowledged the Black Album era without being trapped by it — punchy and direct where the Justice era was dry and technical, aggressive and forward-pushing where St. Anger was intentionally raw.
+
+The album's Loudness War controversy is inseparable from its legacy. The irony is that the actual drum performances — Lars playing with more double-bass stamina than he had shown in two decades — are among his strongest. The mastering-stage compression that generated so much controversy obscured rather than enhanced what was captured in the studio.
+
+For drummers interested in the Death Magnetic sound, the kit is modern and accessible: the Tama Starclassic Birch remains in production in various configurations, the LU1465 signature snare is available new, and Zildjian A Custom cymbals are among the most widely available professional cymbals on the market. The gear is achievable; what's less replicable is the context — the deliberate return to form, the Rubin philosophy, and the specific chapter in one of metal's longest-running stories.
+
+For the full Lars Ulrich gear story, see the [Lars Ulrich drummer profile](/drummer/lars-ulrich), the [Master of Puppets drum setup](/articles/master-of-puppets-drum-setup), and the [...And Justice for All drum setup](/articles/and-justice-for-all-drum-setup). For production context, the [Rick Rubin production techniques guide](/articles/rick-rubin-metal-production) covers his approach across Slayer, Metallica, and other metal recordings. And for the broader Metallica band context, see the [Metallica band page](/band/metallica).`
+    },
+    schema: {
+      '@context': 'https://schema.org',
+      '@graph': [
+        {
+          '@type': 'Article',
+          headline: "Lars Ulrich's Drum Setup on Metallica's Death Magnetic (2008)",
+          description: "Lars Ulrich's return to thrash — how Rick Rubin and a Tama Starclassic Birch kit helped Metallica recapture the aggression of their classic era. Full gear breakdown including the loudness war controversy.",
+          author: {
+            '@type': 'Organization',
+            name: 'MetalForge Editorial'
+          },
+          datePublished: '2026-06-24',
+          dateModified: '2026-06-24'
+        },
+        {
+          '@type': 'BreadcrumbList',
+          itemListElement: [
+            { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://metalforge.io/' },
+            { '@type': 'ListItem', position: 2, name: 'Articles', item: 'https://metalforge.io/articles' },
+            { '@type': 'ListItem', position: 3, name: 'Death Magnetic Drum Setup', item: 'https://metalforge.io/articles/death-magnetic-drum-setup' }
+          ]
+        },
+        {
+          '@type': 'MusicAlbum',
+          name: 'Death Magnetic',
+          byArtist: {
+            '@type': 'MusicGroup',
+            name: 'Metallica'
+          },
+          datePublished: '2008-09-12',
+          genre: 'Thrash Metal',
+          recordLabel: {
+            '@type': 'Organization',
+            name: 'Warner Bros. Records'
+          },
+          track: [
+            { '@type': 'MusicRecording', name: 'That Was Just Your Life' },
+            { '@type': 'MusicRecording', name: 'The End of the Line' },
+            { '@type': 'MusicRecording', name: 'Broken, Beat & Scarred' },
+            { '@type': 'MusicRecording', name: 'The Day That Never Comes' },
+            { '@type': 'MusicRecording', name: 'All Nightmare Long' },
+            { '@type': 'MusicRecording', name: 'Cyanide' },
+            { '@type': 'MusicRecording', name: 'The Unforgiven III' },
+            { '@type': 'MusicRecording', name: 'The Judas Kiss' },
+            { '@type': 'MusicRecording', name: 'Suicide & Redemption' },
+            { '@type': 'MusicRecording', name: 'My Apocalypse' }
+          ]
+        },
+        {
+          '@type': 'Person',
+          name: 'Lars Ulrich',
+          birthDate: '1963-12-26',
+          birthPlace: {
+            '@type': 'Place',
+            name: 'Gentofte, Denmark'
+          },
+          memberOf: {
+            '@type': 'MusicGroup',
+            name: 'Metallica'
+          },
+          instrument: 'Drums'
+        },
+        {
+          '@type': 'FAQPage',
+          mainEntity: [
+            {
+              '@type': 'Question',
+              name: 'What drums did Lars Ulrich use on Death Magnetic?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: 'Lars Ulrich recorded Death Magnetic in 2008 using a Tama Starclassic Birch drum kit with a single 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. He used a Tama Iron Cobra 900 double pedal.'
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'Why does Death Magnetic sound so loud and distorted?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: 'Death Magnetic was mastered extremely hot, resulting in extensive digital clipping on the CD and digital releases. This made it one of the most prominent examples of Loudness War mastering damage. The Guitar Hero III version, sourced from pre-mastering stems, sounds significantly more dynamic and is preferred by audiophiles.'
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'What snare did Lars Ulrich use on Death Magnetic?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: 'Lars Ulrich used his Tama LU1465 Lars Ulrich Signature snare — a 14x6.5 inch steel-shell drum with die-cast hoops — on Death Magnetic. This was a return to his signature snare after the controversial St. Anger album where he removed the snare wires.'
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'What cymbals did Lars Ulrich use on Death Magnetic?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: 'Lars Ulrich used Zildjian A Custom cymbals on Death Magnetic, including 14 inch hi-hats, 16 and 18 inch crashes, a 20 inch ride, and an 18 inch China.'
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'How does the Death Magnetic drum sound compare to Master of Puppets?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: 'Death Magnetic consciously callbacks to the Master of Puppets era thrash sound, though with modern gear. Master of Puppets used vintage Camco drums and a Ludwig Supraphonic snare; Death Magnetic used Tama Starclassic Birch and the LU1465 signature snare. Both albums feature punchy, attack-forward drums with aggressive double-bass work, but Death Magnetic has a cleaner, more modern character.'
+              }
+            }
+          ]
+        }
+      ]
+    }
   }
 };
 
@@ -40533,6 +40922,8 @@ For the complete picture of Brann Dailor's gear across Mastodon's career, visit 
 export function getAlbumArticleBySlug(slug) {
   return ALBUM_ARTICLES[slug] || null;
 }
+
+
 
 export function getAllAlbumArticles() {
   return Object.values(ALBUM_ARTICLES);

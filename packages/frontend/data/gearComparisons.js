@@ -18,7 +18,7 @@ export const gearComparisons = {
       {
         brand: 'Tama',
         model: 'Starclassic Walnut/Birch',
-        image: 'https://www.tama.com/images/products/starclassic-wb.jpg',
+        image: 'https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg',
         priceRange: '€3,500 - €4,500',
         pros: [
           'Hybrid shell delivers warmth and attack',
@@ -43,7 +43,7 @@ export const gearComparisons = {
       {
         brand: 'Pearl',
         model: 'Reference Series',
-        image: 'https://pearldrum.com/images/products/reference.jpg',
+        image: 'https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg',
         priceRange: '€3,200 - €4,200',
         pros: [
           'Reference Shell construction - optimized wood per drum size',
@@ -86,7 +86,7 @@ export const gearComparisons = {
       {
         brand: 'Meinl',
         model: 'Byzance Series',
-        image: 'https://meinlcymbals.com/images/products/cymbal_byzance.jpg',
+        image: 'https://upload.wikimedia.org/wikipedia/commons/3/31/Cymbal_Hammering.JPG',
         priceRange: '€2,000 - €3,000',
         pros: [
           'Hand-hammered Turkish craftsmanship',
@@ -111,7 +111,7 @@ export const gearComparisons = {
       {
         brand: 'Zildjian',
         model: 'A Custom Series',
-        image: 'https://zildjian.com/images/products/a-custom.jpg',
+        image: 'https://upload.wikimedia.org/wikipedia/commons/4/43/Zildjian_Quick_Beat_Hi_Hat_15.jpg',
         priceRange: '€1,800 - €2,600',
         pros: [
           'Bright, cutting projection',
@@ -154,7 +154,7 @@ export const gearComparisons = {
       {
         brand: 'Tama',
         model: 'Iron Cobra 900 Power Glide',
-        image: 'https://www.tama.com/usa/products/images/HP900PTWN_main.jpg',
+        image: 'https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg',
         priceRange: '€400 - €500',
         pros: [
           'Rolling Glide cam for linear feel',
@@ -179,7 +179,7 @@ export const gearComparisons = {
       {
         brand: 'Pearl',
         model: 'Demon Drive',
-        image: 'https://pearldrum.com/images/products/demon-drive.jpg',
+        image: 'https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg',
         priceRange: '€500 - €600',
         pros: [
           'NiNjA Bearing for ultra-smooth action',
@@ -222,7 +222,7 @@ export const gearComparisons = {
       {
         brand: 'Paiste',
         model: 'RUDE Series',
-        image: 'https://www.paiste.com/images/products/rude.jpg',
+        image: 'https://upload.wikimedia.org/wikipedia/commons/c/c3/SABIAN_Paragon_Ride_Limited_Edition_Steampunk.jpg',
         priceRange: '€1,800 - €2,400',
         pros: [
           'Designed for heavy hitting',
@@ -247,7 +247,7 @@ export const gearComparisons = {
       {
         brand: 'Sabian',
         model: 'HHX Series',
-        image: 'https://www.sabian.com/images/products/hhx.jpg',
+        image: 'https://upload.wikimedia.org/wikipedia/commons/8/8f/Avedis_Zildjian_Cymbal.jpg',
         priceRange: '€1,900 - €2,500',
         pros: [
           'Hand-hammered warmth',
@@ -290,7 +290,7 @@ export const gearComparisons = {
       {
         brand: 'Tama',
         model: 'SLP Steel',
-        image: 'https://www.tama.com/images/products/slp-steel.jpg',
+        image: 'https://upload.wikimedia.org/wikipedia/commons/4/46/2006-07-06_snare_14.jpg',
         priceRange: '€350 - €450',
         pros: [
           'Cutting steel attack',
@@ -315,7 +315,7 @@ export const gearComparisons = {
       {
         brand: 'Pearl',
         model: 'Sensitone Elite Bronze',
-        image: 'https://pearldrum.com/images/products/sensitone.jpg',
+        image: 'https://upload.wikimedia.org/wikipedia/commons/e/ee/Pearl_MCX_snare_drum.JPG',
         priceRange: '€300 - €400',
         pros: [
           'Warm, complex bronze tone',
@@ -645,7 +645,7 @@ Both companies have earned their place on the world's biggest stages. You can't 
       {
         brand: 'Sonor',
         model: 'SQ2 Heavy Beech',
-        image: 'https://www.sonor.com/images/products/sq2.jpg',
+        image: 'https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg',
         priceRange: '€5,000 - €7,000',
         pros: [
           'German precision manufacturing',
@@ -670,7 +670,7 @@ Both companies have earned their place on the world's biggest stages. You can't 
       {
         brand: 'DW',
         model: 'Collector\'s Series Maple',
-        image: 'https://www.dwdrums.com/images/collectors-maple.jpg',
+        image: 'https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg',
         priceRange: '€4,500 - €6,500',
         pros: [
           'Timbre-Matched shell selection',

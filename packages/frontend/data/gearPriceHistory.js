@@ -1819,6 +1819,426 @@ export const GEAR_PRICE_HISTORY = {
       keywords: ['vinnie paul 1990 setup', 'pantera drum kit cost', 'cowboys from hell drums', 'vinnie paul drum kit by album', 'pantera drummer gear history'],
     },
   },
+
+  // ==========================================
+  // CHARLIE BENANTE - 1987 Among the Living Era
+  // Issue #2238: Gear Price History Batch 11
+  // Tama Artstar II + Sabian HH Setup
+  // ==========================================
+  'charlie-benante': {
+    slug: 'charlie-benante',
+    name: 'Charlie Benante',
+    band: 'Anthrax',
+    iconicYear: 1987,
+    era: 'Among the Living Era',
+    albumReference: 'Among the Living (1987)',
+    profileImage: '/images/drummers/charlie-benante.webp',
+
+    summary: "Charlie Benante's 1987 thrash metal setup during Anthrax's commercial breakthrough. Built around a Tama Artstar II shell pack with Sabian HH cymbals, this rig defined the tightly controlled yet explosive thrash sound that placed Anthrax at the forefront of the Big 4. Benante was already noted for his clean technique and speed — skills that translated into a setup prizing clarity and projection over sheer volume. The Artstar II's birch shells delivered the bright, punchy attack that made tracks like 'Indians' and 'I Am the Law' instantly recognisable.",
+
+    setup: {
+      drums: {
+        item: 'Tama Artstar II',
+        model: '7-piece shell pack',
+        specs: '22"x18" kick, 8"x8" rack, 10"x9" rack, 12"x10" rack, 14"x14" floor, 16"x16" floor',
+        originalPrice: 1400,
+        year: 1987,
+        source: 'Tama Artstar II professional catalog MSRP 1987, Modern Drummer archive estimates',
+        notes: "Tama Artstar II was the top-of-line Tama offering in the mid-1980s, favoured by many thrash players for its punchy birch shells. Benante's endorsement helped cement Tama's thrash credibility alongside Lars Ulrich.",
+        vintageValue2026: 2000,
+        modernEquivalent: {
+          item: 'Tama Starclassic Walnut/Birch',
+          price: 3200,
+          link: 'tama-starclassic-walnut-birch',
+        },
+      },
+      snare: {
+        item: 'Pearl Free-Floating Steel 14"x5"',
+        model: 'Free-Floating steel snare',
+        specs: '14"x5" steel shell, free-floating strainer',
+        originalPrice: 200,
+        year: 1987,
+        source: 'Pearl catalog pricing 1987, estimated from free-floating series retail',
+        notes: 'The free-floating design eliminated snare-basket contact with the shell for a more open, resonant crack — perfect for the crisp backbeat Benante needed in thrash settings.',
+        vintageValue2026: 400,
+        modernEquivalent: {
+          item: 'Pearl Free-Floating Brass 14"x5"',
+          price: 550,
+          link: 'pearl-free-floating-brass',
+        },
+      },
+      cymbals: {
+        item: 'Sabian HH Series',
+        model: 'Hand Hammered mixed setup',
+        specs: '14" HH Hi-Hats, 16" HH Crash, 18" HH Crash, 20" HH Ride',
+        originalPrice: 450,
+        year: 1987,
+        source: 'Sabian HH series 1987 catalog pricing',
+        notes: 'Benante was an early Sabian endorser after the Sabian/Zildjian split in 1981. The hand-hammered B20 bronze delivered complex, trashy overtones suited to the chaotic energy of thrash.',
+        vintageValue2026: 700,
+        modernEquivalent: {
+          item: 'Sabian HHX Evolution Set',
+          price: 1100,
+          link: 'sabian-hhx-evolution',
+        },
+      },
+      hardware: {
+        item: 'Tama Hardware + DW 5000 Double Pedal',
+        model: 'Mixed hardware with DW double kick pedal',
+        specs: 'Hi-hat stand, 3 boom stands, snare stand, DW 5000 double pedal',
+        originalPrice: 350,
+        year: 1987,
+        source: 'DW 5000 double pedal MSRP 1987, hardware pack estimates',
+        notes: "The DW 5000 double pedal was the choice for thrash drummers needing reliable double-kick performance. Benante's double-kick work on 'Among the Living' and 'A.I.R.' was a defining feature of Anthrax's sound.",
+        vintageValue2026: 500,
+        modernEquivalent: {
+          item: 'DW 9000 Hardware Pack + Double Pedal',
+          price: 950,
+          link: 'dw-9000-hardware',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth 5B Hickory',
+        model: 'American Classic 5B',
+        specs: 'Hickory, wood tip, 16"',
+        originalPrice: 8,
+        year: 1987,
+        source: 'Standard retail price',
+        notes: 'Standard 5B sticks suited to thrash aggression — heavier than 5A for more attack without sacrificing speed.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth 5B American Classic',
+          price: 14,
+          link: 'vic-firth-5b',
+        },
+      },
+      heads: {
+        item: 'Remo Ambassador',
+        model: 'Clear Ambassador (toms), Coated Ambassador (snare), Powerstroke P3 (kick)',
+        specs: 'Clear ambassador toms, coated snare batter, Powerstroke P3 kick batter',
+        originalPrice: 70,
+        year: 1987,
+        source: 'Remo retail pricing 1987',
+        notes: 'Ambassador heads provided the open, punchy attack that thrash required — not too dampened but controlled enough for fast playing at extended tempos.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Ambassador Pro Pack',
+          price: 100,
+          link: 'remo-ambassador-pack',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 2478,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 3600,
+      modernEquivalentTotal: 5914,
+    },
+
+    priceEvolution: [
+      { year: 1987, price: 2478, label: 'Original Purchase', event: 'Among the Living recording' },
+      { year: 1990, price: 2700, label: 'Persistence of Time era', event: 'Anthrax matures thrash sound' },
+      { year: 1994, price: 3200, label: 'Sound of White Noise', event: 'Benante transitions to Pearl' },
+      { year: 2000, price: 4500, label: 'Vintage appreciation', event: 'Tama Artstar II gains collector status' },
+      { year: 2010, price: 5500, label: 'Collector interest', event: 'Big 4 reunion boosts Anthrax nostalgia' },
+      { year: 2020, price: 6500, label: 'Pandemic premium', event: 'Home studio demand for vintage gear' },
+      { year: 2026, price: 7147, label: 'Current adjusted', event: 'Inflation-adjusted value' },
+    ],
+
+    sources: [
+      { title: 'Tama Artstar II Professional Catalog', year: 1987, type: 'catalog' },
+      { title: 'Modern Drummer — Charlie Benante Interview', year: 1988, type: 'interview' },
+      { title: 'Sabian Artist Profiles — Benante Era', year: 1987, type: 'manufacturer' },
+      { title: 'Reverb Price Guide — Vintage Tama Artstar II', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Charlie Benante 1987 Anthrax Drum Setup Cost | Among the Living Era Gear Prices",
+      description: "How much did Charlie Benante's 1987 Anthrax drum kit cost? Original ~$2,478, inflation-adjusted to ~$7,147 today. Complete Tama Artstar II breakdown from the Among the Living era.",
+      keywords: ['charlie benante drum kit', 'anthrax drummer gear history', 'among the living drums', 'charlie benante 1987 setup', 'anthrax drum kit cost'],
+    },
+  },
+
+  // ==========================================
+  // NICK MENZA - 1990 Rust in Peace Era
+  // Issue #2238: Gear Price History Batch 11
+  // Tama Swingstar Stripped Thrash Setup
+  // ==========================================
+  'nick-menza': {
+    slug: 'nick-menza',
+    name: 'Nick Menza',
+    band: 'Megadeth',
+    iconicYear: 1990,
+    era: 'Rust in Peace Era',
+    albumReference: 'Rust in Peace (1990)',
+    profileImage: '/images/drummers/nick-menza.webp',
+
+    summary: "Nick Menza's iconic Rust in Peace-era setup — the stripped-down thrash weapon behind Megadeth's technical masterpiece. Built around a Tama Swingstar with Zildjian A cymbals, Menza's minimalist approach proved that raw speed and precision mattered more than gear prestige. The tight, dry drum sound on Rust in Peace is widely cited as a benchmark for thrash drum production. Menza's machine-gun double-kick on 'Holy Wars' and 'Tornado of Souls' showcased what a working drummer's kit could achieve with good engineering.",
+
+    setup: {
+      drums: {
+        item: 'Tama Swingstar',
+        model: '5-piece shell pack',
+        specs: '22"x16" kick, 12"x10" rack, 13"x11" rack, 16"x16" floor',
+        originalPrice: 900,
+        year: 1990,
+        source: 'Tama Swingstar retail pricing 1990, Music Trades Magazine archive',
+        notes: "The Tama Swingstar was a mid-range kit — not the budget bottom of the line, but a working drummer's practical choice. Its poplar shells gave a tight, punchy tone well-suited to thrash. Menza's choice of an affordable kit over a prestige endorsement reflected the practical sensibility that defined his playing.",
+        vintageValue2026: 1200,
+        modernEquivalent: {
+          item: 'Tama Imperialstar 5-piece',
+          price: 800,
+          link: 'tama-imperialstar-5piece',
+        },
+      },
+      snare: {
+        item: 'Tama Steel Snare 14"x5.5"',
+        model: 'Steel shell snare drum',
+        specs: '14"x5.5" steel shell, 8-lug',
+        originalPrice: 150,
+        year: 1990,
+        source: 'Tama catalog pricing 1990',
+        notes: "A steel snare complemented the poplar toms with additional brightness and crack — essential for cutting through Megadeth's dense guitar arrangements on Rust in Peace.",
+        vintageValue2026: 300,
+        modernEquivalent: {
+          item: "Tama S.L.P. Sonic Steel 14\"x5.5\"",
+          price: 400,
+          link: 'tama-slp-sonic-steel',
+        },
+      },
+      cymbals: {
+        item: 'Zildjian A Series',
+        model: 'Mixed A Series setup',
+        specs: '14" A Hi-Hats, 16" A Crash, 18" A Crash, 20" A Ride',
+        originalPrice: 500,
+        year: 1990,
+        source: '1990 Zildjian A series catalog pricing',
+        notes: "Standard Zildjian A setup — versatile and durable, delivering the balanced attack needed across Rust in Peace's technical passages. Menza's cymbal work on 'Holy Wars' is a clinic in controlled aggression.",
+        vintageValue2026: 700,
+        modernEquivalent: {
+          item: 'Zildjian A Series Cymbal Pack',
+          price: 1100,
+          link: 'zildjian-a-series-pack',
+        },
+      },
+      hardware: {
+        item: 'Mixed Hardware + DW 5000 Double Pedal',
+        model: 'Various stands and DW double pedal',
+        specs: 'Hi-hat stand, 2 boom stands, snare stand, DW 5000 double pedal',
+        originalPrice: 280,
+        year: 1990,
+        source: 'DW 5000 double pedal MSRP 1990, hardware pack estimates',
+        notes: "The DW 5000 double pedal was the standard for thrash drummers in 1990. Menza's bass drum work on Rust in Peace demanded reliability under punishing extended show conditions.",
+        vintageValue2026: 500,
+        modernEquivalent: {
+          item: 'DW 5000 Series Double Pedal + Hardware Pack',
+          price: 750,
+          link: 'dw-5000-hardware',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth 5B Hickory',
+        model: 'American Classic 5B',
+        specs: 'Hickory, wood tip',
+        originalPrice: 8,
+        year: 1990,
+        source: 'Standard retail price',
+        notes: "The 5B was Menza's choice for its balance between speed and attack — heavier than 5A but not as fatiguing as 2B for extended live sets.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth 5B American Classic',
+          price: 14,
+          link: 'vic-firth-5b',
+        },
+      },
+      heads: {
+        item: 'Remo Ambassador',
+        model: 'Clear Ambassador (toms), Powerstroke P3 (kick)',
+        specs: 'Clear ambassador toms, coated snare batter, Powerstroke P3 kick batter',
+        originalPrice: 60,
+        year: 1990,
+        source: 'Remo retail pricing 1990',
+        notes: 'Clear Ambassador heads on toms for open, articulate thrash playing. The Powerstroke P3 kick batter gave focused low-end punch without excessive sustain.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Emperor Pro Pack',
+          price: 95,
+          link: 'remo-emperor-pack',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 1898,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 2700,
+      modernEquivalentTotal: 3159,
+    },
+
+    priceEvolution: [
+      { year: 1990, price: 1898, label: 'Original Purchase', event: 'Rust in Peace recording' },
+      { year: 1992, price: 2100, label: 'Countdown era', event: 'Menza upgrades to Tama Artstar' },
+      { year: 1994, price: 2400, label: 'Youthanasia era', event: 'Premier Signia endorsement begins' },
+      { year: 1999, price: 3000, label: 'Reunion tour', event: 'Classic kit nostalgia grows' },
+      { year: 2010, price: 4200, label: 'Collector interest', event: 'Rust in Peace 20th anniversary' },
+      { year: 2020, price: 5200, label: 'Pandemic spike', event: 'Home studio demand drives vintage prices' },
+      { year: 2026, price: 4757, label: 'Current adjusted', event: 'Inflation-adjusted value' },
+    ],
+
+    sources: [
+      { title: 'Tama Swingstar Retail Catalog', year: 1990, type: 'catalog' },
+      { title: 'Modern Drummer — Nick Menza Feature', year: 1991, type: 'interview' },
+      { title: 'Metal Hammer — Megadeth Rust in Peace Gear Profile', year: 1990, type: 'interview' },
+      { title: 'Reverb Price Guide — Vintage Tama Swingstar', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Nick Menza 1990 Megadeth Drum Setup Cost | Rust in Peace Era Gear Prices",
+      description: "How much did Nick Menza's 1990 Megadeth drum kit cost? Original ~$1,898, inflation-adjusted to ~$4,757 today. Complete Tama Swingstar breakdown from the Rust in Peace era.",
+      keywords: ['nick menza drum kit', 'megadeth rust in peace drums', 'nick menza 1990 setup', 'rust in peace drummer gear', 'megadeth drummer drum cost'],
+    },
+  },
+
+  // ==========================================
+  // INFERNO - 2004 Demigod Era (Behemoth)
+  // Issue #2238: Gear Price History Batch 11
+  // Pearl Reference Custom + Meinl Byzance Setup
+  // ==========================================
+  'inferno': {
+    slug: 'inferno',
+    name: 'Inferno',
+    band: 'Behemoth',
+    iconicYear: 2004,
+    era: 'Demigod Era',
+    albumReference: 'Demigod (2004)',
+    profileImage: '/images/drummers/inferno.webp',
+
+    summary: "Inferno's extreme black/death metal setup from Behemoth's Demigod era — one of the most technically demanding drum rigs in extreme metal. Built around a Pearl Reference Custom with Meinl Byzance cymbals, this setup supported Inferno's blistering blast-beat work at extreme tempos. The crystal clarity of the Pearl Reference Custom allowed each individual stroke to cut through Behemoth's dense, layered production. Inferno's combination of speed, power, and consistent accuracy across marathon live sets made this kit one of the most respected extreme metal rigs of the 2000s.",
+
+    setup: {
+      drums: {
+        item: 'Pearl Reference Custom',
+        model: '6-piece shell pack',
+        specs: '22"x18" kick, 10"x8" rack, 12"x9" rack, 14"x14" floor, 16"x16" floor',
+        originalPrice: 3000,
+        year: 2004,
+        source: 'Pearl Reference Custom catalog MSRP 2004, adjusted for custom configuration',
+        notes: "The Pearl Reference Custom featured a multi-wood shell construction optimised for projection at extreme volumes. Its balanced low-end and crisp attack were ideal for Inferno's double-kick blast work on Demigod.",
+        vintageValue2026: 3500,
+        modernEquivalent: {
+          item: 'Pearl Reference Pure 6-piece',
+          price: 5500,
+          link: 'pearl-reference-pure',
+        },
+      },
+      snare: {
+        item: 'Pearl Free-Floating Steel 14"x5.5"',
+        model: 'Free-Floating steel snare',
+        specs: '14"x5.5" steel shell, free-floating strainer',
+        originalPrice: 500,
+        year: 2004,
+        source: 'Pearl Free-Floating catalog pricing 2004',
+        notes: "The free-floating design gave Inferno's snare a wide-open crack with minimal shell contact. Critical for cutting through Behemoth's guitar density on Demigod's extreme metal production.",
+        vintageValue2026: 600,
+        modernEquivalent: {
+          item: 'Pearl Free-Floating Steel 14"x5.5"',
+          price: 650,
+          link: 'pearl-free-floating-steel',
+        },
+      },
+      cymbals: {
+        item: 'Meinl Byzance Series',
+        model: 'Traditional and Dark mixed setup',
+        specs: '14" Byzance Traditional Hi-Hats, 16" Byzance Dark Crash, 18" Byzance Dark Crash, 20" Byzance Traditional Ride',
+        originalPrice: 700,
+        year: 2004,
+        source: 'Meinl Byzance series MSRP 2004, estimated from catalog pricing',
+        notes: 'Meinl Byzance cymbals were chosen for their complex, dark overtones that blend into extreme metal without piercing harshness. The Turkish-hammered B20 bronze gives sustained complexity at blast-beat tempos.',
+        vintageValue2026: 800,
+        modernEquivalent: {
+          item: 'Meinl Byzance Dark Cymbal Set',
+          price: 1400,
+          link: 'meinl-byzance-dark',
+        },
+      },
+      hardware: {
+        item: 'Pearl Eliminator Double Pedal + Pearl Hardware',
+        model: 'Pearl Eliminator P2002B and boom stands',
+        specs: 'Pearl Eliminator P2002B double pedal, hi-hat stand, 3 boom stands, snare stand',
+        originalPrice: 500,
+        year: 2004,
+        source: 'Pearl Eliminator P2002B MSRP 2004, hardware pack estimates',
+        notes: "The Pearl Eliminator double pedal's cam system allowed Inferno to achieve extremely fast, consistent double-kick patterns. Its lightweight feel and adjustable cam made it ideal for extreme metal's extended blast-beat sections.",
+        vintageValue2026: 700,
+        modernEquivalent: {
+          item: 'Pearl Eliminator Redline P2002BL',
+          price: 900,
+          link: 'pearl-eliminator-redline',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth 5B Hickory',
+        model: 'American Classic 5B',
+        specs: 'Hickory, wood tip',
+        originalPrice: 10,
+        year: 2004,
+        source: 'Standard retail price',
+        notes: "The 5B's balance between mass and control was critical for Inferno's extreme tempos — lighter sticks fatigue quickly; heavier sticks sacrifice speed.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth 5B American Classic',
+          price: 14,
+          link: 'vic-firth-5b',
+        },
+      },
+      heads: {
+        item: 'Evans Drumheads',
+        model: 'G2 Clear (toms), EC2 Coated (snare), EMAD2 (kick)',
+        specs: 'Evans G2 clear tom batters, EC2 coated snare batter, EMAD2 kick batter',
+        originalPrice: 90,
+        year: 2004,
+        source: 'Evans retail pricing 2004',
+        notes: "Evans heads were chosen for their consistent response and durability under extreme playing. The EMAD2 kick batter's built-in dampening ring focused the low-end punch critical for Behemoth's death metal production.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Evans Drumhead Performance Pack',
+          price: 140,
+          link: 'evans-performance-pack',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 4800,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 5600,
+      modernEquivalentTotal: 8604,
+    },
+
+    priceEvolution: [
+      { year: 2004, price: 4800, label: 'Original Purchase', event: 'Demigod recording' },
+      { year: 2007, price: 5200, label: 'Apostasy era', event: 'Behemoth grows international fanbase' },
+      { year: 2009, price: 5500, label: 'Evangelion era', event: 'Behemoth enters mainstream metal' },
+      { year: 2012, price: 6200, label: 'Reference Pure switch', event: 'Inferno transitions to Pearl Reference Pure' },
+      { year: 2014, price: 6800, label: 'The Satanist era', event: 'Behemoth reaches commercial peak' },
+      { year: 2020, price: 7800, label: 'Pandemic premium', event: 'Vintage Pearl Reference Custom values rise' },
+      { year: 2026, price: 8329, label: 'Current adjusted', event: 'Inflation-adjusted value' },
+    ],
+
+    sources: [
+      { title: 'Pearl Reference Custom Professional Catalog', year: 2004, type: 'catalog' },
+      { title: 'Modern Drummer — Inferno Behemoth Feature', year: 2007, type: 'interview' },
+      { title: 'Metal Hammer — Demigod Drum Setup Rundown', year: 2004, type: 'interview' },
+      { title: 'Reverb Price Guide — Pearl Reference Custom', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Inferno 2004 Behemoth Drum Setup Cost | Demigod Era Gear Prices",
+      description: "How much did Inferno's 2004 Behemoth drum kit cost? Original ~$4,800, inflation-adjusted to ~$8,329 today. Complete Pearl Reference Custom breakdown from the Demigod era.",
+      keywords: ['inferno drum kit', 'behemoth drummer gear', 'demigod drums', 'inferno behemoth 2004 setup', 'behemoth drum kit cost'],
+    },
+  },
 };
 
 // ==========================================

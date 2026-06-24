@@ -305,6 +305,9 @@ const gearPriceHistoryDrummers = [
   'igor-cavalera',   // Roots era (1996)
   'nicko-mcbrain',   // Powerslave era (1984)
   'matt-greiner',    // Leveler era (2011)
+  'charlie-benante', // Among the Living era (1987) — Issue #2238
+  'nick-menza',      // Rust in Peace era (1990) — Issue #2238
+  'inferno',         // Demigod era (2004) — Issue #2238
 ];
 
 // Issue #1473: Individual /battles/<slug> pages — derive slugs from CURATED_MATCHUPS

@@ -37764,6 +37764,292 @@ Tama Starclassic Maple kits remain among the most respected professional drums a
 
 For Jaska Raatikainen's complete career gear evolution — from the Tama era through his Pearl Masters years — see the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen) and the [full kit guide](/articles/jaska-raatikainen-drum-setup).`
     }
+  },
+
+  'st-anger-drum-setup': {
+    slug: 'st-anger-drum-setup',
+    albumTitle: 'St. Anger',
+    artist: 'Metallica',
+    drummer: 'Lars Ulrich',
+    drummerId: 1,
+    relatedDrummerSlug: 'lars-ulrich',
+    year: 2003,
+    genre: 'Heavy Metal / Alternative Metal',
+    label: 'Elektra Records',
+    studio: 'HQ Studios, San Rafael, California',
+    producer: 'Bob Rock',
+    isAlbumArticle: true,
+    datePublished: '2026-06-24',
+    dateModified: '2026-06-24',
+    author: 'MetalForge Editorial',
+    title: "St. Anger Drum Setup: Lars Ulrich's 'Trash Can' Snare Explained",
+    description: "Why does the St. Anger snare sound so weird? Discover the exact drum kit, steel snare with no wires, and recording choices Lars Ulrich and Bob Rock made for Metallica's most controversial album.",
+    seoKeywords: ['st anger snare sound', 'lars ulrich st anger drum setup', 'st anger snare no wires', 'lars ulrich 2003 kit', 'why does st anger snare sound weird', 'metallica st anger drums', 'st anger trash can snare', 'bob rock metallica 2003'],
+    ogImage: '/images/albums/st-anger-drums.webp',
+    intro: {
+      title: "The Most Controversial Snare in Metal History",
+      content: `Released on June 5, 2003, Metallica's "St. Anger" became one of the most polarizing albums in metal history — and at the center of the debate was a single piece of gear: Lars Ulrich's snare drum. The sharp, clanging, almost tinny sound that punctuates every track on the record set off a wave of debate that has never fully quieted. Was it a mistake? An artistic statement? The sound of a band in crisis? The answer, as always with Metallica, is complicated.
+
+St. Anger was recorded at HQ, Metallica's own studio facility in San Rafael, California, during one of the most turbulent periods in the band's history. James Hetfield entered alcohol rehabilitation mid-recording. Lars Ulrich was navigating a public divorce. Bassist Jason Newsted had quit the band in 2001. The documentary film "Some Kind of Monster" (2004) captured the therapy sessions, arguments, and creative struggles that shaped the record — and became, for many fans, as important a document of the era as the album itself.
+
+Producer Bob Rock, who had shepherded Metallica through the Black Album (1991), Load (1996), ReLoad (1997), and S&M (1999), pushed for a raw, unprocessed aesthetic that deliberately rejected the polished production that had defined Metallica's output since 1991. The result was an album with long, unedited songs, no guitar solos, and a drum sound that sounded like nothing else in mainstream metal.
+
+That drum sound — and particularly that snare — continues to generate online discussion more than two decades later. This article breaks down exactly what Lars used, why it sounds the way it does, and what the gear choices reveal about where Metallica was in 2003.`,
+      keyPoints: [
+        'Recorded at HQ Studios, Metallica\'s own facility in San Rafael, California',
+        'Producer Bob Rock made his final Metallica album after a 12-year partnership',
+        'Lars used a steel snare shell with no snare wires — the source of the infamous "trash can" sound',
+        'The "Some Kind of Monster" documentary (2004) documented the recording sessions in unprecedented detail',
+        'No guitar solos on the album; the raw aesthetic extended to every production decision',
+        'The album debuted at #1 in 30 countries despite (or because of) its divisive sound'
+      ]
+    },
+    drumKit: {
+      title: "Lars's Studio Kit: The Tama Star Classic Maple",
+      brand: 'Tama',
+      model: 'Tama Star Classic Maple',
+      finish: 'Black wrap',
+      config: {
+        bassdrums: ['22" Bass Drum'],
+        toms: ['10" Rack Tom', '12" Rack Tom'],
+        floorToms: ['14" Floor Tom', '16" Floor Tom'],
+        shells: 'Maple shells, black wrap finish'
+      },
+      description: `For St. Anger, Lars Ulrich played a Tama Star Classic Maple kit in a black wrap finish. The Star Classic Maple was Tama's professional flagship at the time — a series known for its warm maple tone and consistent build quality. Lars had been a Tama endorser since the late 1980s, and by 2003 the partnership had produced multiple signature products.
+
+The configuration was relatively straightforward: a single 22" kick drum played with a double pedal, 10" and 12" rack toms, and 14" and 16" floor toms. This setup was broadly similar to what Lars had been using since the Justice era — a compact, four-tom configuration that prioritized power and feel over the elaborate riser setups common among late-90s metal drummers.
+
+The notable departure from previous albums was in the head choices and — critically — in the snare. Where earlier Metallica records had featured carefully tuned, well-muffled drums with a controlled, punchy character, the St. Anger sessions embraced the raw ring of open, lightly muffled drumheads. The toms were tuned to allow significant sustain, contributing to the album's loose, live-in-a-room aesthetic.
+
+Bob Rock and Lars deliberately chose not to gate the drums in the mix. On ...And Justice for All (1988), heavy gating had created the famously dry, machine-gun snare sound. On the Black Album, sophisticated compression and subtle room ambience had produced a polished, powerful result. St. Anger did neither — the drums ring, bleed, and decay naturally, creating a texture that listeners either find energetically raw or genuinely unpleasant, depending on their production preferences.
+
+The maple shells of the Star Classic contributed warmth in the kick and toms that balanced somewhat against the harsh snare. Lars's playing on the record is physically aggressive — the tempos are demanding, and many tracks run seven or eight minutes without the structural variety that characterized earlier Metallica epics.`,
+      notes: [
+        'Tama Star Classic Maple — same shell line as Lars\'s endorsement throughout the era',
+        'Black wrap finish chosen for the back-to-basics aesthetic',
+        'Drums were left to ring openly — no gating in the final mix',
+        'Evans drumheads used throughout (a departure from Lars\'s previous Remo use)',
+        'Single 22" kick with Iron Cobra double pedal, same configuration as the Justice era'
+      ],
+      estimatedValue: '$3,500-5,000 (2003) / $2,500-4,000 (used today)'
+    },
+    snare: {
+      title: "The Snare Heard Round the Metal World",
+      brand: 'Tama',
+      model: 'Tama Steel Snare (14" x 8")',
+      size: '14" x 8"',
+      shell: 'Steel shell, no snare wires attached during recording',
+      description: `The St. Anger snare is the most discussed single piece of drum gear in metal history. It is a 14-inch by 8-inch steel-shelled snare drum from Tama — a deep, heavy shell that would typically produce a powerful, cutting sound. On St. Anger, it produces something closer to a detuned steel bucket or, as critics and fans have called it, a "trash can lid" or "cardboard box."
+
+The reason is twofold. First, the snare wires — the metal coils stretched across the resonant (bottom) head that create the characteristic "sna" in a snare drum's sound — were loosened or completely removed for many of the recording sessions. Without active snare wires, the drum loses its crisp response and instead produces a thick, decaying "clunk" or "bonk" that hangs in the air.
+
+Second, the resonant head was tuned unusually loose, allowing the steel shell to ring freely at its natural frequency. Steel shells produce a distinctive metallic overtone when allowed to sustain — this overtone is what listeners describe as the "tin can" quality. A properly tuned steel snare with tight heads and active wires sounds bright and cutting (see Lars's snare on ...And Justice for All for comparison). The St. Anger snare sounds like neither that album nor any other major-label metal record of the period.
+
+The decision was intentional. Bob Rock has stated in multiple interviews that he and Lars wanted the snare to sound different — to break from the expectation that a Metallica drum sound would be polished and professional. Lars himself has defended the choice, arguing that the raw, unprocessed quality matched the emotional rawness of the material. Whether the artistic intent justifies the execution remains the central debate.
+
+The 8-inch depth of the shell (compared to the more common 5" or 6.5") contributed to the drum's heavy, slow decay. Deeper shells generally produce lower-pitched sounds with more body — in the St. Anger context, this amplified the hanging, unresolved quality of each snare hit rather than providing the punch deeper shells typically offer.
+
+For drummers who have tried to recreate the sound: the combination of a steel shell, loose or absent wires, and a light batter head tuned to low-medium tension is the starting point. The exact character depends heavily on the room and microphone placement — the St. Anger sessions used close-miking that captured every ring and decay in full detail.`,
+      tuningSetting: 'Low to medium batter head tension; snare wires loosened or absent; resonant head loose',
+      heads: 'Evans G1 Coated (batter); Evans Hazy 300 (resonant)',
+      estimatedValue: '$200-350 (2003) / $150-300 (used today)'
+    },
+    cymbals: {
+      title: 'The Zildjian A Custom Setup',
+      brand: 'Zildjian',
+      series: 'Zildjian A Custom',
+      setup: [
+        { type: 'Hi-Hats', model: 'Zildjian A Custom 13" Hi-Hats', position: 'Left side', notes: 'Tighter, faster response than the 14" New Beats used on earlier albums' },
+        { type: 'Crash', model: 'Zildjian A Custom 18" Medium Crash', position: 'Left of hi-hats', notes: 'Bright, cutting crash with fast response' },
+        { type: 'Ride', model: 'Zildjian A Custom 20" Medium Ride', position: 'Far right', notes: 'Clear bell definition for the album\'s driving ride patterns' },
+        { type: 'China', model: 'Zildjian A Custom 18" China', position: 'Above floor tom', notes: 'Present in live setup; used minimally in the album mix' }
+      ],
+      description: `Lars's cymbal setup for St. Anger was built around the Zildjian A Custom series, which he had adopted following its introduction in the mid-1990s. The A Custom cymbals feature a brilliant finish (rather than the traditional A series' hand-hammered, unlathed surface) and a brighter, more cutting tone profile.
+
+The move to 13" hi-hats (from the 14" New Beat hi-hats of earlier albums) gave Lars a faster, tighter hi-hat sound suited to the album's driving eighth-note and sixteenth-note patterns. The smaller diameter means quicker response and a more closed, cutting "chick" — useful when the snare sound is as dominant as it is on this record.
+
+The 18" Medium Crash provided the bright, fast attack that cut through even the dense, raw production. A Custom crashes are known for their quick response and clean decay — characteristics that remained audible even in the deliberately unprocessed St. Anger mix.
+
+The 20" Medium Ride's clear bell definition is noticeable on several tracks where Lars rides rather than crashes through sections. The A Custom ride's brilliant finish produces a clear, defined ping that worked well for the album's extended song structures.
+
+Interestingly, the china cymbal — a staple of Lars's setups since the Master of Puppets era — is largely absent from the St. Anger mix, even though it appeared in his live rig. The production choices emphasized the snare and kick drum to the point where peripheral cymbal voices were reduced.`,
+      estimatedValue: '$1,200-1,600 total (2003)'
+    },
+    hardware: {
+      title: 'Pedals, Sticks, and Hardware',
+      items: [
+        {
+          type: 'Bass Drum Pedal',
+          brand: 'Tama',
+          model: 'Tama Iron Cobra Power Glide Double Pedal',
+          notes: 'Lars\'s long-running choice; Power Glide cam for a driving, consistent feel',
+          description: 'The Tama Iron Cobra Power Glide double pedal provided the consistent, powerful stroke Lars needed for the demanding tempos and extended song lengths on St. Anger. The Power Glide cam produces a linear, consistent acceleration — different from the Flexi-Glide cam\'s variable feel — suited to Lars\'s direct, powerful foot technique.'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Ahead',
+          model: 'Ahead Lars Ulrich Signature',
+          notes: 'Aluminum core with composite outer sleeve; heavier than wood, extremely durable',
+          description: 'Lars switched to Ahead sticks — aluminum-core drumsticks with a hard composite sleeve — in the late 1990s and used them throughout the St. Anger sessions. The Ahead sticks are significantly heavier than comparable wood sticks, which contributes to the forceful, blunt attack audible on the record. They are also nearly indestructible, a practical consideration for the aggressive playing style of this period.'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Tama',
+          model: 'Tama Iron Cobra Hi-Hat Stand',
+          notes: 'Heavy-duty stand; left foot closed hi-hat used for timekeeping throughout'
+        },
+        {
+          type: 'Throne',
+          brand: 'Roc-N-Soc',
+          model: 'Roc-N-Soc Nitro',
+          notes: 'Lars\'s preferred throne for extended studio and live sessions'
+        }
+      ],
+      heads: {
+        bassKick: 'Evans EMAD (Externally Mounted Adjustable Dampener) Clear',
+        toms: 'Evans G2 Clear (batter), Evans G1 Clear (resonant)',
+        snare: 'Evans G1 Coated (batter)'
+      }
+    },
+    recordingTechniques: {
+      title: 'Raw by Design: The St. Anger Recording Approach',
+      content: `The recording philosophy for St. Anger was a deliberate rejection of the polished, layered production that had defined Metallica's studio work since 1991. Bob Rock, working alongside the band at their own HQ facility, pushed for a live, unvarnished aesthetic: minimal overdubs, no guitar solos, long unedited performances, and drums that were captured as-heard rather than processed into the tightly controlled sounds of earlier records.
+
+**Studio Environment:**
+HQ gave Metallica complete control over the recording environment and schedule, which was both an asset and a complication. The band could record at any time, but they were also recording in the middle of personal crises — James Hetfield's rehabilitation imposed a limited daily work schedule on the sessions, and the tensions captured in "Some Kind of Monster" were present throughout. The studio's large room provided a natural ambience that was allowed into the drum sound rather than gated out.
+
+**Microphone and Signal Chain:**
+The drums were close-miked, with the snare given particular prominence in the mix. Unlike Justice's dry, gated approach or the Black Album's subtle room ambience, St. Anger used a semi-live drum sound with full ring and natural decay. The snare microphone was positioned to capture every harmonic overtone of the steel shell — a choice that maximized the controversial character of the drum.
+
+**No Editing, No Gating:**
+The absence of drum gating is one of the most technically noticeable production choices. On every previous Metallica album, gates or careful editing had created tight, separated drum sounds where the kick, snare, and toms each spoke cleanly. On St. Anger, bleed between instruments, natural decay, and room ambience were left intact. This contributed to the organic, live-in-a-room quality that Bob Rock was pursuing.
+
+**Performance Style:**
+Lars's playing on the record is physically direct and consistent but lacks the intricate subdivision work of earlier albums. The songs are built around driving eighth-note patterns, forceful backbeats, and occasional fills. The complexity of the Justice-era patterns is absent — deliberately, as the band was consciously simplifying to focus on riff and feel rather than technicality.`,
+      keyTechniques: [
+        'No drum gating — full ring and natural decay captured in the mix',
+        'Close-miking emphasized the overtones of the steel snare shell',
+        'Large studio room ambience left in the drum sound',
+        'Minimal editing — performances recorded in extended takes',
+        'Evans heads selected for their open, musical tone in contrast to tightly muffled Remo choices on earlier albums'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'Frantic',
+        bpm: '186',
+        signature: '4/4',
+        highlights: [
+          'Album opener; establishes the raw drum sound immediately',
+          'Driving eighth-note hi-hat pattern throughout verses',
+          'The snare\'s ring is immediately audible on first listen',
+          'Double-kick pattern in the chorus demonstrates Lars\'s physical stamina at this tempo'
+        ],
+        gearNotes: 'The opening snare hits of "Frantic" are the first thing most listeners hear of the St. Anger drum sound. The steel shell ring is fully exposed in the mix with no processing to soften it.'
+      },
+      {
+        track: 'St. Anger',
+        bpm: '196',
+        signature: '4/4',
+        highlights: [
+          'Title track; one of the album\'s most direct and aggressive performances',
+          'Relentless double-kick through extended sections',
+          'The chorus snare pattern became the sonic symbol of the album\'s aesthetic',
+          'No guitar solo — the instrumental void puts extra weight on the drums and riff'
+        ],
+        gearNotes: 'Arguably the track where the snare sound is most prominent and most controversial. The combination of high tempo and low snare sustain creates the "bonging" quality that defined the album\'s reception.'
+      },
+      {
+        track: 'Some Kind of Monster',
+        bpm: '163',
+        signature: '4/4',
+        highlights: [
+          'Shares its name with the 2004 documentary about the recording sessions',
+          'More mid-tempo, allowing the drum\'s ring to sustain between hits',
+          'Extended 8+ minute length with several distinct sections',
+          'Lars navigates tempo and feel changes with minimal fills'
+        ],
+        gearNotes: 'The lower tempo makes the snare\'s decay between hits more audible. The documentary\'s use of this track contributed to its cultural resonance.'
+      },
+      {
+        track: 'The Unnamed Feeling',
+        bpm: '142',
+        signature: '4/4',
+        highlights: [
+          'One of the album\'s slower, more atmospheric tracks',
+          'Dynamic contrast between verse and chorus drumming',
+          'Demonstrates that the drum sound reads differently at slower tempos',
+          'Hi-hat work provides forward motion through extended verse sections'
+        ],
+        gearNotes: 'At this tempo, the Iron Cobra\'s consistent feel is evident. The A Custom hi-hats provide clear articulation against the raw snare character.'
+      }
+    ],
+    evolution: {
+      title: "From St. Anger to Death Magnetic: Lars's Course Correction",
+      content: `St. Anger represents the lowest point in critical assessment of Lars Ulrich's recorded work, which makes the subsequent Death Magnetic (2008) all the more interesting as a document of artistic recalibration.
+
+**The Death Magnetic Correction:**
+Rick Rubin replaced Bob Rock as producer for Death Magnetic, and the contrast in drum production is immediate. The snare returned to a conventional tuned setup with active wires. Gating and close-miking restored the tight, punchy character of earlier Metallica records. Lars has never publicly repudiated the St. Anger snare decision, but the departure from it speaks clearly.
+
+**The Hardwired Era:**
+Hardwired… to Self-Destruct (2016) and 72 Seasons (2023) show Lars with a more refined but physically consistent setup. The Tama Starclassic Maple kit remained his platform, and his signature snare — the Tama LU1465 — represents the polar opposite of the St. Anger approach: a tuned, conventional steel snare with full snare wire tension designed for maximum crack and cut.
+
+**The Some Kind of Monster Legacy:**
+The documentary has, in many ways, overtaken the album as the cultural artifact of this period. Footage of Lars and James in therapy, the acquisition and dismissal of bassist Rob Trujillo (who ultimately joined), and the raw behind-the-scenes tension have made it a reference point for discussions of band dynamics and creative process. For drummers, the footage of Lars recording at HQ provides a rare window into the St. Anger sessions.
+
+**What Lars Said:**
+In various interviews over the years, Lars has maintained that the drum sound was intentional and fit the album's aesthetic, while also acknowledging that it is not universally loved. "We were going for something raw and unpolished," he told Revolver in 2004. "Maybe we went too far with the snare, but that's what felt right at the time."`,
+      thenVsNow: [
+        { category: 'Kit', then: 'Tama Star Classic Maple (black wrap)', now: 'Tama Starclassic Maple (signature)' },
+        { category: 'Snare', then: 'Tama Steel 14x8" (no snare wires)', now: 'Tama LU1465 Lars Ulrich Signature Steel' },
+        { category: 'Cymbals', then: 'Zildjian A Custom 13" hats, 18" crash, 20" ride', now: 'Zildjian A Custom (expanded setup)' },
+        { category: 'Sticks', then: 'Ahead Lars Ulrich Signature', now: 'Ahead Lars Ulrich Signature (updated model)' },
+        { category: 'Pedals', then: 'Tama Iron Cobra Power Glide Double', now: 'Tama Iron Cobra 900 Double' }
+      ]
+    },
+    videos: [],
+    relatedAlbums: ['master-of-puppets-drum-setup', 'and-justice-for-all-drum-setup', 'whats-in-lars-ulrichs-kit'],
+    relatedDrummers: [4, 3, 12],
+    relatedArticles: ['whats-in-lars-ulrichs-kit', 'big-four-drummers', 'thrash-metal-drummers'],
+    faq: [
+      {
+        question: 'Why does the St. Anger snare sound so different?',
+        answer: 'The St. Anger snare sounds different because Lars Ulrich used a Tama 14x8 inch steel snare drum with the snare wires loosened or completely removed during recording. Without the snare wires, the drum loses its characteristic "crack" and instead produces a thick, hanging metallic ring — what critics described as a "trash can lid" or "cardboard box" sound. The resonant head was also tuned loosely, allowing the steel shell to ring at its natural frequency. Producer Bob Rock and Lars made this choice deliberately as part of the album\'s raw, unprocessed aesthetic. The drums were also left ungated in the mix, meaning the snare\'s full ring and decay were captured rather than edited out. The result is the most controversial drum sound in mainstream metal history.',
+      },
+      {
+        question: 'What drum kit did Lars Ulrich use on St. Anger?',
+        answer: 'Lars Ulrich recorded St. Anger on a Tama Star Classic Maple kit in a black wrap finish. The configuration included a 22 inch kick drum played with a Tama Iron Cobra Power Glide double pedal, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. He used Evans drumheads throughout — a departure from his previous Remo use — with G2 Clear heads on the toms and a G1 Coated head on the snare. The kit was played at HQ Studios, Metallica\'s own facility in San Rafael, California, during sessions documented in the "Some Kind of Monster" film. For a complete breakdown of Lars\'s current setup, see the [Lars Ulrich gear guide](/articles/whats-in-lars-ulrichs-kit).',
+      },
+      {
+        question: 'Did Lars Ulrich use triggers on St. Anger?',
+        answer: 'No. Lars Ulrich did not use electronic drum triggers on St. Anger. The album was recorded with an entirely acoustic kit, which is part of why the drum sound is so different from the tightly processed recordings of the 1990s metal mainstream. The decision to forgo triggers — and, crucially, to forgo the gating and compression that typically tighten acoustic drum recordings — was central to producer Bob Rock\'s raw, live-in-a-room approach. The kick drum sound on St. Anger is acoustic with no sample replacement, which was increasingly unusual for high-budget metal productions of that era. Compare this to Lars\'s [Master of Puppets setup](/articles/master-of-puppets-drum-setup) and [...And Justice for All setup](/articles/and-justice-for-all-drum-setup), both of which used sophisticated studio processing to achieve their respective sounds.',
+      },
+      {
+        question: 'Is the St. Anger snare sound actually a mistake?',
+        answer: 'No — the St. Anger snare sound was a deliberate artistic choice, not a recording error. Lars Ulrich and producer Bob Rock intentionally loosened or removed the snare wires and left the steel shell free to ring, then captured that sound without gating or heavy processing. Both Lars and Bob Rock have confirmed this in interviews. Lars defended the decision as matching the emotional rawness of the material — the album was recorded during one of the most turbulent periods in Metallica\'s history, including James Hetfield\'s rehabilitation and the internal tensions documented in "Some Kind of Monster" (2004). Whether the execution serves the intent is a matter of taste that continues to divide listeners and drummers. What is not in question is that the sound was chosen, not accidental. Lars subsequently returned to a conventional snare setup for Death Magnetic (2008), which suggests the St. Anger choice was context-specific rather than a permanent aesthetic preference.',
+      },
+      {
+        question: 'What cymbals did Lars Ulrich use on St. Anger?',
+        answer: 'Lars Ulrich used Zildjian A Custom cymbals on St. Anger. His setup included 13 inch A Custom hi-hats, an 18 inch A Custom Medium Crash, a 20 inch A Custom Medium Ride, and an 18 inch A Custom China. The A Custom series features a brilliant finish and a brighter, more cutting tone than the traditional A series Lars used on earlier albums. The 13 inch hi-hats were smaller than the 14 inch New Beat hi-hats he had used on records like Master of Puppets and ...And Justice for All, giving a faster, tighter response. In the St. Anger mix, the cymbals are somewhat de-emphasized in favor of the drums and guitar, but the A Custom clarity is audible in the hi-hat patterns throughout.',
+      },
+    ],
+    conclusion: {
+      title: "The Snare That Divided a Generation",
+      content: `St. Anger (2003) occupies a unique place in Metallica's catalog and in metal history. No other major album has generated as much discussion about a single piece of drum gear as this one — and that conversation, more than two decades later, shows no sign of ending.
+
+**What the Album Proves:**
+Production choices matter enormously. The St. Anger snare is not exceptional gear — it is a Tama steel snare, a competent professional instrument. What makes it the most controversial snare in metal history is not what it is, but how it was used: detuned, de-wired, un-gated, and placed at the front of the mix on one of the world's most scrutinized albums. The lesson for drummers and producers is not to avoid steel snares or open tuning — it is to understand that every production decision compounds, and that raw does not automatically mean authentic.
+
+**The Documentary Effect:**
+"Some Kind of Monster" transformed how fans relate to this album. What might have been dismissed as a botched production became a window into creative struggle, personal crisis, and the complicated reality of a band trying to survive its own mythology. The snare sound became shorthand for all of that — for the imperfection, the rawness, the willingness to put something genuinely unpolished into the world.
+
+**For Drummers:**
+If you want to understand St. Anger's drum setup, the most useful exercise is not to recreate the snare sound — it is to listen to how Lars plays throughout the record. The patterns are direct, physical, and consistent across very long songs. The complexity of the Justice era is absent; the groove orientation of the Black Album is present but more aggressive. Whatever one thinks of the production, the performances are committed and technically competent. Lars was playing through one of the most difficult periods of his life, and that is audible in the music — in a way that a more polished recording might have obscured.
+
+The St. Anger snare remains, after everything, the most discussed drum in metal. No other piece of gear in the genre's history has generated as much debate about intent, execution, and the relationship between sound and authenticity. For that alone, it earns its place in any serious study of metal drum production.
+
+For more on Lars Ulrich's complete gear history, see the [Lars Ulrich drummer profile](/drummer/lars-ulrich), the [what's in Lars Ulrich's kit guide](/articles/whats-in-lars-ulrichs-kit), the [Master of Puppets drum setup](/articles/master-of-puppets-drum-setup), and the [And Justice for All drum setup](/articles/and-justice-for-all-drum-setup).`
+    }
   }
 };
 

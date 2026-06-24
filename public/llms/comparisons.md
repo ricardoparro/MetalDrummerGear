@@ -3,7 +3,7 @@
 > Side-by-side gear, technique, and influence comparisons between legendary metal drummers.
 > Optimised for AI crawlers answering "X vs Y drummer" and "who has heavier gear" queries.
 >
-> Last updated: 2026-06-17 · 24 curated comparisons
+> Last updated: 2026-06-24 · 25 curated comparisons
 
 ---
 ## Brann Dailor vs Mario Duplantier
@@ -507,3 +507,24 @@ Pantera's Vinnie Paul vs Lamb of God's Art Cruz. Groove metal drumming legacy co
 
 [vinnie-paul profile](https://metalforge.io/drummer/vinnie-paul)
 [art-cruz profile](https://metalforge.io/drummer/art-cruz)
+
+---
+
+## Gene Hoglan vs Tomas Haake
+
+**Category:** Progressive Metal · **URL:** https://metalforge.io/vs/gene-hoglan-vs-tomas-haake
+
+Gene "The Atomic Clock" Hoglan (Death/Testament) vs Tomas Haake (Meshuggah). Death metal precision vs djent polyrhythms. Gear, technique, and extreme metal legacy compared.
+
+**Playing style:** Gene brings atomic-clock precision to death and thrash metal across Death, Dark Angel, and Testament — power and timing honed over 40+ years. Tomas invented the djent drumming template with Meshuggah's polyrhythmic math-metal, playing 4/4 patterns while guitars operate in entirely different meters.
+
+**Technique:** Gene is known for his gravity blast, metronomic timing without a click track, and the ability to memorize and execute albums of extreme complexity. Tomas uses two independent single pedals instead of a double pedal for unprecedented foot independence, sustaining machine-like precision across Meshuggah's labyrinthine compositions.
+
+**Gear:** Gene plays Pearl Reference Pure drums with Sabian AAX cymbals and Pearl Demon Drive pedals for power and projection. Tomas uses Sonor SQ2 Heavy Beech drums with Sabian HHX & AAX cymbals and twin Tama Speed Cobra single pedals for Meshuggah's signature dry, focused sound.
+
+**Influence:** Gene influenced three decades of extreme metal through Death, Dark Angel, Testament, and Dethklok — a living encyclopedia of every major subgenre. Tomas pioneered the djent movement that reshaped modern progressive and extreme metal, inspiring countless drummers to explore polyrhythmic complexity.
+
+**Verdict:** Gene Hoglan and Tomas Haake represent two faces of extreme precision — Gene's atomic clockwork refined across death, thrash, and progressive metal; Tomas's mathematical polyrhythmic architecture that redefined metal's rhythmic vocabulary. Both are living legends who expanded the ceiling of what precision drumming can achieve.
+
+[gene-hoglan profile](https://metalforge.io/drummer/gene-hoglan)
+[tomas-haake profile](https://metalforge.io/drummer/tomas-haake)

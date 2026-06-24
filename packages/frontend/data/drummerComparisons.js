@@ -582,6 +582,23 @@ export const drummerComparisons = {
     },
     verdict: 'Mario Duplantier brings atmospheric, eco-conscious tribal power to extreme metal — his drumming breathes with the music. George Kollias brings ancient-world ferocity and machine-like speed to death metal — his drumming overwhelms with precision. Both are the defining modern voices of extreme metal drumming, each operating at the peak of their chosen approach.',
   },
+
+  // Issue #2297: Gene Hoglan vs Tomas Haake — Atomic Clock meets Djent Architect
+  'gene-hoglan-vs-tomas-haake': {
+    slug: 'gene-hoglan-vs-tomas-haake',
+    title: 'Gene Hoglan vs Tomas Haake',
+    metaTitle: 'Gene Hoglan vs Tomas Haake - Precision Extreme Metal Drumming | MetalForge',
+    metaDescription: 'Gene "The Atomic Clock" Hoglan (Death/Testament) vs Tomas Haake (Meshuggah). Death metal precision vs djent polyrhythms. Gear, technique, and extreme metal legacy compared.',
+    category: 'progressive',
+    drummers: ['gene-hoglan', 'tomas-haake'],
+    comparison: {
+      style: 'Gene brings atomic-clock precision to death and thrash metal across Death, Dark Angel, and Testament — power and timing honed over 40+ years. Tomas invented the djent drumming template with Meshuggah\'s polyrhythmic math-metal, playing 4/4 patterns while guitars operate in entirely different meters.',
+      technique: 'Gene is known for his gravity blast, metronomic timing without a click track, and the ability to memorize and execute albums of extreme complexity. Tomas uses two independent single pedals instead of a double pedal for unprecedented foot independence, sustaining machine-like precision across Meshuggah\'s labyrinthine compositions.',
+      gear: 'Gene plays Pearl Reference Pure drums with Sabian AAX cymbals and Pearl Demon Drive pedals for power and projection. Tomas uses Sonor SQ2 Heavy Beech drums with Sabian HHX & AAX cymbals and twin Tama Speed Cobra single pedals for Meshuggah\'s signature dry, focused sound.',
+      influence: 'Gene influenced three decades of extreme metal through Death, Dark Angel, Testament, and Dethklok — a living encyclopedia of every major subgenre. Tomas pioneered the djent movement that reshaped modern progressive and extreme metal, inspiring countless drummers to explore polyrhythmic complexity.',
+    },
+    verdict: 'Gene Hoglan and Tomas Haake represent two faces of extreme precision — Gene\'s atomic clockwork refined across death, thrash, and progressive metal; Tomas\'s mathematical polyrhythmic architecture that redefined metal\'s rhythmic vocabulary. Both are living legends who expanded the ceiling of what precision drumming can achieve.',
+  },
 };
 
 /**

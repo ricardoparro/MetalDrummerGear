@@ -567,6 +567,23 @@ export const drummerComparisons = {
     verdict: 'Danny Carey is the shaman-mathematician who turned Tool\'s albums into percussive spiritual experiences. Gavin Harrison is the craftsman-musician who makes impossible polyrhythms feel like conversation. Both own the deepest technical vocabularies in progressive drumming — Danny\'s draws from sacred geometry, Gavin\'s from decades of refined musicality.',
   },
 
+  // Issue #2300: Brann Dailor vs Gavin Harrison (split 4/4 of #2150)
+  'brann-dailor-vs-gavin-harrison': {
+    slug: 'brann-dailor-vs-gavin-harrison',
+    title: 'Brann Dailor vs Gavin Harrison',
+    metaTitle: 'Brann Dailor vs Gavin Harrison - Mastodon vs Porcupine Tree Prog Drumming | MetalForge',
+    metaDescription: 'Mastodon\'s Brann Dailor vs Porcupine Tree\'s Gavin Harrison. Prog-vs-Prog: Mastodon\'s jazz-chaos oddity vs King Crimson complexity. Gear, technique, and legacy compared.',
+    category: 'progressive',
+    drummers: ['brann-dailor', 'gavin-harrison'],
+    comparison: {
+      style: 'Brann Dailor brings jazz-informed, free-flowing chaos to Mastodon\'s progressive sludge — relentless fills that overflow every bar and melodic tom runs that sing over the riffs. Gavin Harrison constructs sophisticated polyrhythmic grooves for Porcupine Tree and King Crimson with restrained precision and masterful ghost note work.',
+      technique: 'Brann treats the entire kit as a melodic instrument, using his snare and toms to carry melody lines through constant motion fills that define Mastodon\'s sound. Gavin weaves intricate polyrhythmic patterns through odd time signatures with economy and sophistication, prioritizing musical feel over spectacle.',
+      gear: 'Brann plays Tama Starclassic Performer B/B with Meinl Byzance cymbals and Vater 5B sticks. Gavin uses Sonor SQ2 Series drums with Zildjian K Custom Special Dry cymbals and Vic Firth signature sticks.',
+      influence: 'Brann helped define progressive sludge metal with Mastodon, influencing a generation to treat drum fills as melodic statements. Gavin elevated Porcupine Tree, King Crimson, and The Pineapple Thief — earning multiple Modern Drummer awards and a reputation as the prog drummer\'s drummer.',
+    },
+    verdict: 'Brann Dailor is jazz chaos personified — his fills are the melody and his kit is a second lead instrument. Gavin Harrison is refined polyrhythmic mastery — subtle, sophisticated, and deeply musical. The contrast between Mastodon\'s dense oddity and Porcupine Tree\'s intellectual complexity makes this the ultimate Prog-vs-Prog drumming debate.',
+  },
+
   'mario-duplantier-vs-george-kollias': {
     slug: 'mario-duplantier-vs-george-kollias',
     title: 'Mario Duplantier vs George Kollias',

@@ -35339,6 +35339,353 @@ For any drummer seeking to master groove metal, Sacrament is required listening.
 
 🤘 *The Grammy-era benchmark. Billboard #8. The NWOAHM at its peak.* 🤘`
     }
+  },
+
+  // Mikkey Dee - Motörhead Bastards (June 2026)
+  'bastards-drum-setup': {
+    slug: 'bastards-drum-setup',
+    albumTitle: 'Bastards',
+    artist: 'Motörhead',
+    drummer: 'Mikkey Dee',
+    drummerId: 20,
+    relatedDrummerSlug: 'mikkey-dee',
+    year: 1993,
+    genre: 'Heavy Metal / Hard Rock',
+    label: 'ZYX Music',
+    studio: 'Los Angeles, California',
+    producer: 'Howard Benson',
+    isAlbumArticle: true,
+    datePublished: '2026-06-23',
+    dateModified: '2026-06-23',
+    author: 'MetalForge Editorial',
+    title: "Bastards Drum Setup: Mikkey Dee's Gear on Motörhead's 1993 Album",
+    description: "Discover the exact drum kit, cymbals, and gear Mikkey Dee used on Motörhead's Bastards (1993) — his studio debut with the band. Complete breakdown of the Tama kit, Paiste cymbals, and the Swedish powerhouse's debut Motörhead performance.",
+    seoKeywords: ['mikkey dee drum kit', 'motorhead bastards drums', 'mikkey dee motorhead setup', 'motorhead drummer gear', 'bastards 1993 drums', 'mikkey dee tama', 'mikkey dee paiste', 'mikkey dee motorhead 1993'],
+    ogImage: '/images/albums/bastards-drums.webp',
+    intro: {
+      title: "The New Motörhead Engine: Mikkey Dee's Studio Debut",
+      content: `Released on November 1, 1993, *Bastards* marked a pivotal moment in Motörhead history — the first studio album to feature Mikkey Dee behind the kit. When Phil "Philthy Animal" Taylor departed Motörhead for the second time in early 1992 due to health issues, the band faced a genuine crisis. Taylor had been one-third of the classic Motörhead lineup alongside Lemmy Kilmister and "Fast" Eddie Clarke, and his chaotic, thundering style was deeply embedded in the band's DNA.
+
+The decision to recruit Mikkey Dee — a Gothenburg-born Swede who had already impressed the metal world with King Diamond's *Abigail* (1987) and subsequent albums — was inspired. Where Taylor brought barely-controlled fury, Dee brought precision power: the ability to deliver devastating volume with technical discipline, maintaining pocket-locked grooves even at extreme tempos. Lemmy recognized immediately that Dee could not only replicate what Motörhead needed but elevate it. "Mikkey can do anything," Lemmy once said. "He's the best drummer I ever played with."
+
+*Bastards* served as Mikkey Dee's audition tape to the world. The album showcased tracks like the relentless "Burner," the funk-metal experiment "Born to Raise Hell" (featuring Ice-T and Ugly Kid Joe vocalist Whitfield Crane), and the thundering "Death or Glory." What unified every track was a drum foundation that was simultaneously heavier and more controlled than anything in Motörhead's previous decade.
+
+This article examines the Tama drum kit, Paiste cymbals, and Tama Iron Cobra pedals that powered Dee's debut Motörhead studio performance — the gear behind rock's loudest band's most significant lineup transition.`,
+      keyPoints: [
+        'First Motörhead studio album featuring Mikkey Dee, released November 1, 1993',
+        'Mikkey Dee joined Motörhead in early 1992, replacing Phil "Philthy Animal" Taylor',
+        '"Born to Raise Hell" featured Ice-T and Whitfield Crane (Ugly Kid Joe) — most commercially visible track',
+        "Dee's Tama/Paiste setup represented a significant tonal departure from Taylor's era"
+      ]
+    },
+    drumKit: {
+      title: "Mikkey Dee's Tama Arsenal: Precision for the World's Loudest Band",
+      brand: 'Tama',
+      model: 'Tama Artstar II / Swingstar',
+      finish: 'Black',
+      config: {
+        bassdrums: ['22" Bass Drum'],
+        toms: ['10" Rack Tom', '12" Rack Tom', '13" Rack Tom'],
+        floorToms: ['16" Floor Tom', '18" Floor Tom'],
+        shells: 'Maple shells, professional series construction'
+      },
+      description: `During the early Motörhead years, Mikkey Dee built his arsenal around Tama drums — specifically the Artstar II and Swingstar series, which were among the finest professional kits available in the early 1990s. Tama's Japanese engineering brought a level of consistency and durability that suited the punishing demands of Motörhead's touring and recording schedule.
+
+The 22" bass drum was the foundation of Dee's Tama setup on *Bastards*. Unlike the oversized bass drums popular among death and thrash metal drummers of the era, Dee kept to the classic 22" configuration. This choice delivered the focused, punchy low-end thump that Motörhead's hard rock approach demanded — a drum sound that locked with Lemmy's bass guitar without competing with it.
+
+The multi-tom setup provided Dee with the tonal range to navigate both Motörhead's straightforward rock tracks and more complex arrangements. Three rack toms (10", 12", 13") and dual floor toms (16", 18") gave him options for dramatic fills without overwhelming the song-focused arrangements that defined the *Bastards* material.
+
+Tama's Artstar II shells were prized for their even sustain and attack — qualities that worked in the studio environment of the *Bastards* sessions. Where Motörhead's rawness had sometimes masked kit limitations in earlier recordings, Dee's Tama setup delivered a drum sound with genuine definition and character. Every stroke registered.
+
+The transition from Taylor's setup to Dee's Tama arsenal represented a quiet revolution in Motörhead's drum sound — more controlled, more consistent, but no less powerful.`,
+      notes: [
+        'Tama Artstar II series used by Dee in his early Motörhead years — later transitioning to Yamaha',
+        '22" bass drum: classic hard rock size, punchy and focused rather than overwhelming',
+        'Multi-tom configuration gave Dee options for the varied material on Bastards',
+        'Maple shells provided warm attack and even sustain suited to studio capture'
+      ],
+      estimatedValue: '$1,500–3,000 (1993) / $800–2,000 (vintage Tama today)'
+    },
+    snare: {
+      title: "The Snare That Launched Mikkey's Motörhead Era",
+      brand: 'Tama',
+      model: 'Tama Artstar II Steel Snare',
+      size: '14" x 6.5"',
+      shell: 'Steel',
+      description: `The snare sound on *Bastards* is one of the most immediately identifiable aspects of Mikkey Dee's early Motörhead work. Crisp, cutting, with a steel-shell brightness that sliced through Lemmy's legendarily massive stage and studio volume — the snare announced that something had changed in Motörhead's rhythm section.
+
+Dee's preference for steel-shell snares dated back to his King Diamond years. The steel construction delivers an attack and projection that aluminum and wood cannot match at high volumes. In the Motörhead context — where Lemmy's bass often occupied a "third guitar" frequency range — the snare needed to find its own sonic space and claim it emphatically.
+
+The 6.5" depth provided the body and sustain to fill the sonic picture, while the tight steel shell kept the high-frequency attack prominent. Dee tuned the drum on the higher side of medium — enough crack for live volumes without sacrificing the musicality that distinguishes his playing from simpler battering.
+
+On tracks like "Burner" and "Death or Glory," the snare's articulation is remarkable. Ghost notes emerge between primary hits, giving the groove a pocket that Taylor's more chaotic approach rarely provided. Dee brought a jazz-drummer's snare sensitivity to the hardest rock context imaginable.`,
+      tuningSetting: 'Medium-high tension for crack and projection through high-volume mix',
+      heads: 'Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$250–450 (1993)'
+    },
+    cymbals: {
+      title: 'Paiste Power: Giant Beat and 2002 for the World\'s Loudest Band',
+      brand: 'Paiste',
+      series: 'Paiste Giant Beat / Paiste 2002',
+      setup: [
+        { type: 'Hi-Hats', model: 'Paiste Giant Beat 15" Hi-Hats', position: 'Left side', notes: 'Larger 15" size for projection at Motörhead volumes; tight chick for fast patterns' },
+        { type: 'Ride', model: 'Paiste 2002 22" Ride', position: 'Right side', notes: 'Primary ride cymbal; full bell and complex bow for varied playing surfaces' },
+        { type: 'Crash (1)', model: 'Paiste 2002 18" Crash', position: 'Above rack toms', notes: 'Fast-response crash for quick accent punctuation' },
+        { type: 'Crash (2)', model: 'Paiste 2002 20" Crash', position: 'Right side', notes: 'Larger crash for dramatic endings and heavier accents' },
+        { type: 'China', model: 'Paiste 2002 18" China', position: 'Left opposite hi-hat', notes: 'Trash accent for Motörhead\'s heaviest section punctuations' }
+      ],
+      description: `Mikkey Dee's cymbal setup during the *Bastards* era represented a transitional moment in his endorsement history — combining Paiste's Giant Beat line (a throwback to classic rock and jazz heritage) with the more aggressive Paiste 2002 series. Both share Paiste's signature CuSn8 bronze alloy, but the Giant Beat's warmer, darker character contrasts with the 2002's brighter, more cutting attack.
+
+The Giant Beat hi-hats — at 15" rather than the standard 14" — provided more body and volume. When you're playing next to Lemmy Kilmister's bass rig, a setup legendary engineers described as a physical assault on the eardrums, you need cymbals that can hold their own in the mix without simply becoming louder. The Giant Beat's fuller low-frequency response allowed the hi-hats to function as a musical element, not merely a high-frequency texture.
+
+The Paiste 2002 series handled crashes and ride duties. The 2002 has been a fixture in rock and heavy metal since the 1970s — Lars Ulrich used it on *Kill 'Em All* (1983), and Dave Lombardo on *Reign in Blood* (1986). Its combination of cutting attack and warm sustain made it ideal for Dee's role in Motörhead's mix: assertive enough to be heard, musical enough to serve the songs.
+
+The 18" China cymbal added the trashy, aggressive accent that Motörhead's heaviest moments demanded. Dee deployed it sparingly — a punctuation mark rather than a constant texture — giving each hit maximum impact.`,
+      estimatedValue: '$1,000–1,800 full setup (1993)'
+    },
+    hardware: {
+      title: 'Tama Iron Cobra: The Pedal Behind Dee\'s Devastating Kick',
+      items: [
+        {
+          type: 'Bass Drum Pedal',
+          brand: 'Tama',
+          model: 'Tama Iron Cobra',
+          notes: 'Chain-drive pedal; Dee also employed double pedal setup for heavier passages',
+          description: `The Tama Iron Cobra was among the most respected bass drum pedals of the early 1990s, and Mikkey Dee's choice reflected his preference for mechanical precision. The Iron Cobra's chain-drive mechanism delivered a consistent feel suited to rock drumming applications. For the *Bastards* sessions, Dee's kick technique emphasized placement over speed: heavy, deliberate hits that anchored the groove rather than machine-gun double-bass runs.`
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Tama',
+          model: 'Tama Iron Cobra Hi-Hat Stand',
+          notes: 'Matched hardware to his pedal choice; heavy-duty construction for Motörhead touring demands'
+        },
+        {
+          type: 'Throne',
+          brand: 'Roc-N-Soc',
+          model: 'Roc-N-Soc Nitro Throne',
+          notes: 'Ergonomic throne favored by Dee for intensive touring and long sessions'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth 5B',
+          notes: '5B diameter and weight suited Dee\'s powerful playing style — more mass than the 5A for heavier attack'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke 3 (focused attack, controlled resonance)',
+        toms: 'Remo Emperor Coated',
+        snare: 'Remo Emperor Coated'
+      }
+    },
+    recordingTechniques: {
+      title: "Recording Bastards: Motörhead's Controlled Ferocity",
+      content: `By 1993, Motörhead had been making records for nearly two decades. The *Bastards* sessions benefited from that experience — and from Mikkey Dee's willingness to be recorded with precision rather than simply captured in the room.
+
+**The New Discipline:**
+Where Phil Taylor's Motörhead recordings often captured barely-controlled energy — the drums sounding like they might fall apart at any moment, which was part of the charm — Dee's approach on *Bastards* was more studied. He had internalized the rawness that Motörhead required but applied it with a professional's control over dynamics and placement. The result was a drum performance that was simultaneously more powerful and more precise than any previous Motörhead record.
+
+**Microphone Approach:**
+The production aimed for a direct, powerful sound without excessive processing. Dee's Tama drums were miked closely to capture the attack of each shell, with overheads providing the cymbal wash. The Paiste cymbals — particularly the Giant Beat hi-hats and 2002 crashes — cut through the mix naturally, requiring less processing than many competing cymbal alloys.
+
+**Kick Drum in Context:**
+Lemmy's bass occupied the low-frequency range with unusual aggression — his mid-heavy bass sound left less headroom than a conventional bassist would. Dee's kick was captured with focus on the upper-bass punch (200–300 Hz) that could sit alongside rather than below Lemmy's bass frequencies. This kept the kick audible and groove-defining without muddying the fundamental low-end.
+
+**Live Band Performance:**
+Like most Motörhead recordings, *Bastards* was built from live band takes with overdubs added later. Dee played with Lemmy and Phil Campbell live in the studio, establishing the foundation in real time. This approach suited Dee's playing style — he was always at his best responding to the music around him rather than tracking to a fixed click track.`,
+      keyTechniques: [
+        'Close-miking of Tama shells for attack definition and mix clarity',
+        'Paiste cymbals captured with minimal processing — natural cut through dense mix',
+        'Live band recording approach: drums tracked simultaneously with bass and guitar',
+        'Kick EQ focused on punch (200–300 Hz) to sit alongside Lemmy\'s mid-heavy bass'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'Burner',
+        bpm: '145',
+        signature: '4/4',
+        highlights: [
+          "High-tempo track that established Dee's Motörhead credentials immediately",
+          'Driving eighth-note hi-hat pattern with precise backbeat placement — more controlled than Taylor\'s approach',
+          "Kick drum locks with Lemmy's bass on the downbeat — the pocket feel Dee brought to Motörhead",
+          'Fills are economical: short, precise, and placed to emphasize riff changes'
+        ],
+        gearNotes: "The Iron Cobra pedal's precision is evident in the kick placement — deliberate and locked-in at this tempo."
+      },
+      {
+        track: 'Born to Raise Hell',
+        bpm: '128',
+        signature: '4/4',
+        highlights: [
+          'Mid-tempo groove track featuring Ice-T and Whitfield Crane — most commercially recognizable Bastards cut',
+          'Dee adapts his playing for a more funk-adjacent feel, demonstrating versatility beyond pure metal',
+          'Snare on 2 and 4 with ghost notes throughout — funk-influenced technique applied to hard rock',
+          'The groove is more important than power here; Dee demonstrates restraint as a creative tool'
+        ],
+        gearNotes: "The steel snare's articulation is crucial — ghost notes on steel cut through where a wood snare might disappear in the mix."
+      },
+      {
+        track: 'Death or Glory',
+        bpm: '160',
+        signature: '4/4',
+        highlights: [
+          "One of the faster tracks on the album — Dee's feet move with precision that Taylor rarely achieved at this tempo",
+          'Consistent double bass pattern throughout the verses — controlled power across the full track',
+          'Crash cymbal use is deliberate: only at genuine musical climax points, not on every measure',
+          'Shows how Dee maintains full groove at high tempo without losing the rock feel'
+        ],
+        gearNotes: 'The Paiste 2002 crashes land with authority — the CuSn8 alloy\'s cutting attack is audible even at this BPM.'
+      }
+    ],
+    faq: [
+      {
+        question: 'What drums did Mikkey Dee use on Bastards?',
+        answer: `On *Bastards* (1993), Mikkey Dee used a Tama drum kit — specifically the Artstar II / Swingstar series that he relied on during his early Motörhead years. The configuration centered on a 22" bass drum for focused, punchy low-end, with three rack toms (10", 12", 13") and dual floor toms (16", 18"). This was Dee's first studio album with Motörhead — he had joined the band in early 1992, replacing Phil "Philthy Animal" Taylor. Dee would later transition to Yamaha drums, but his Tama era produced some of his most visceral Motörhead recordings. For his complete career gear evolution, see the [Mikkey Dee drummer profile](/drummer/mikkey-dee).`
+      },
+      {
+        question: 'When did Mikkey Dee join Motörhead?',
+        answer: `Mikkey Dee joined Motörhead in January 1992, replacing Phil "Philthy Animal" Taylor for the second time. Taylor's departure was health-related; Dee came to the band with impressive credentials from his work with King Diamond on albums like *Abigail* (1987) and *Them* (1988). Lemmy Kilmister famously called Dee "the best drummer I ever played with" — a significant endorsement from a man who had worked with Taylor and other notable players. *Bastards* (1993) was Dee's first full studio album with Motörhead, demonstrating that the band hadn't simply replaced their drummer — they had upgraded their rhythmic foundation. See the [Mikkey Dee drummer profile](/drummer/mikkey-dee) for his complete history with Motörhead and subsequent move to Scorpions.`
+      },
+      {
+        question: "How did Mikkey Dee's style differ from Phil Taylor?",
+        answer: `Phil Taylor's drumming was characterized by barely-controlled fury — enormous energy delivered with a looseness that sometimes threatened to overwhelm the groove. His performances on classic Motörhead albums like *Overkill* (1979) and *Ace of Spades* (1980) have enduring charm precisely because they sound dangerous. Mikkey Dee brought a fundamentally different approach: Swedish precision combined with equal power. Where Taylor might flam accidentally and make it work through momentum, Dee placed every stroke deliberately. His ghost note technique, visible on *Bastards* tracks like "Born to Raise Hell," demonstrates a snare sensitivity Taylor never developed. Dee's fills are also more controlled — shorter, more musical, placed to serve the song rather than express the moment. Neither approach is definitively superior; they represent two legitimate creative philosophies applied to the same band. For the evolution of Motörhead's drum sound across eras, see the [heavy metal drumming history](/techniques/history-of-metal-drumming) article.`
+      },
+      {
+        question: 'What cymbals did Mikkey Dee use on Bastards?',
+        answer: `During the *Bastards* (1993) sessions, Mikkey Dee used a Paiste setup combining Giant Beat and Paiste 2002 series cymbals. The Giant Beat 15" hi-hats provided more body and projection than standard 14" hi-hats — essential when playing next to Lemmy's legendary bass volume. Paiste 2002 crashes (18" and 20") and a 22" ride handled accent and time-keeping duties, with an 18" China cymbal for trashy accents on Motörhead's heaviest moments. Paiste's CuSn8 bronze alloy — shared by both the Giant Beat and 2002 series — delivers a warm, complex sound that cuts through dense mixes naturally. Dee would later move toward Zildjian cymbals as his endorsement relationships evolved.`
+      }
+    ],
+    evolution: {
+      title: "From Bastards to Inferno: Mikkey Dee's Gear Through the Motörhead Years",
+      content: `*Bastards* (1993) captured Mikkey Dee at the start of what would become a 23-year tenure with Motörhead — the longest any drummer would serve alongside Lemmy Kilmister. His setup evolved significantly across those years while retaining the fundamental characteristics established in this debut: power, precision, and the ability to fill any room in the world.
+
+**The Tama Era (1992–late 1990s):**
+The *Bastards* sessions were part of Dee's Tama period — Artstar II and Swingstar series kits paired with Paiste cymbals. This setup toured extensively and proved its durability through the punishing demands of Motörhead's relentless schedule.
+
+**The Yamaha Transition (late 1990s onward):**
+Dee gradually transitioned to Yamaha drums and Zildjian cymbals — a shift that gave his sound a different tonal character. The Yamaha Recording Custom's birch shells produced a more focused, studio-optimized attack compared to the Tama maple's warmer resonance. The change is audible across albums: *We Are Motörhead* (2000) and *Inferno* (2004) have a distinctly different drum character than *Bastards*.
+
+**The Scorpions Chapter:**
+After Lemmy's death in December 2015, Dee joined Scorpions in 2016, bringing his Yamaha/Zildjian setup to a new band context. His work on Scorpions' *Rock Believer* (2022) demonstrates the same fundamental approach — massive power with technical precision — adapted for arena rock's more melodic demands.`,
+      thenVsNow: [
+        { category: 'Kit', then: 'Tama Artstar II / Swingstar (maple)', now: 'Yamaha Recording Custom / Oak Custom' },
+        { category: 'Snare', then: 'Tama Artstar II Steel 14" x 6.5"', now: 'Yamaha Recording Custom Aluminum / Brass 14" x 6.5"' },
+        { category: 'Cymbals', then: 'Paiste Giant Beat + Paiste 2002', now: 'Zildjian A Custom / K Custom' },
+        { category: 'Pedals', then: 'Tama Iron Cobra', now: 'Yamaha FP9 / Flying Dragon' },
+        { category: 'Sticks', then: 'Vic Firth 5B', now: 'Vic Firth 2B or Custom' }
+      ]
+    },
+    videos: [],
+    relatedAlbums: ['whats-in-mikkey-dees-kit'],
+    relatedDrummers: [20, 1, 4],
+    relatedArticles: ['whats-in-mikkey-dees-kit', 'history-of-metal-drumming', 'best-drum-pedals-for-heavy-metal'],
+    relatedLicks: [],
+    internalLinks: [
+      { text: 'Mikkey Dee drummer profile', url: '/drummer/mikkey-dee' },
+      { text: "What's In Mikkey Dee's Kit", url: '/articles/whats-in-mikkey-dees-kit' },
+      { text: 'Heavy metal drumming history', url: '/techniques/history-of-metal-drumming' },
+      { text: 'Tama drums brand overview', url: '/gear/tama' },
+      { text: 'Paiste cymbals brand overview', url: '/gear/paiste' }
+    ],
+    schema: {
+      '@context': 'https://schema.org',
+      '@graph': [
+        {
+          '@type': 'Article',
+          headline: "Bastards Drum Setup: Mikkey Dee's Gear on Motörhead's 1993 Album",
+          description: "Discover the exact drum kit, cymbals, and gear Mikkey Dee used on Motörhead's Bastards (1993) — his studio debut with the band.",
+          author: {
+            '@type': 'Organization',
+            name: 'MetalForge Editorial'
+          },
+          datePublished: '2026-06-23',
+          dateModified: '2026-06-23'
+        },
+        {
+          '@type': 'MusicAlbum',
+          name: 'Bastards',
+          byArtist: {
+            '@type': 'MusicGroup',
+            name: 'Motörhead'
+          },
+          datePublished: '1993-11-01',
+          genre: 'Heavy Metal',
+          recordLabel: {
+            '@type': 'Organization',
+            name: 'ZYX Music'
+          },
+          track: [
+            { '@type': 'MusicRecording', name: 'On Your Feet or on Your Knees' },
+            { '@type': 'MusicRecording', name: 'Burner' },
+            { '@type': 'MusicRecording', name: 'Death or Glory' },
+            { '@type': 'MusicRecording', name: 'I Am the Sword' },
+            { '@type': 'MusicRecording', name: 'Born to Raise Hell' },
+            { '@type': 'MusicRecording', name: "Don't Let Daddy Kiss Me" },
+            { '@type': 'MusicRecording', name: 'Bad Religion' },
+            { '@type': 'MusicRecording', name: 'Jack the Ripper' },
+            { '@type': 'MusicRecording', name: "I'm Your Witch Doctor" },
+            { '@type': 'MusicRecording', name: 'Liar' },
+            { '@type': 'MusicRecording', name: 'Lost in the Ozone' },
+            { '@type': 'MusicRecording', name: 'Heaven/Hell' }
+          ]
+        },
+        {
+          '@type': 'Person',
+          name: 'Mikkey Dee',
+          memberOf: {
+            '@type': 'MusicGroup',
+            name: 'Motörhead'
+          },
+          instrument: 'Drums'
+        },
+        {
+          '@type': 'FAQPage',
+          mainEntity: [
+            {
+              '@type': 'Question',
+              name: 'What drums did Mikkey Dee use on Bastards?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: 'On Bastards (1993), Mikkey Dee used a Tama drum kit — specifically the Artstar II / Swingstar series with a 22" bass drum, three rack toms (10", 12", 13"), and dual floor toms (16", 18"). This was his first studio album with Motörhead.'
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'When did Mikkey Dee join Motörhead?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: 'Mikkey Dee joined Motörhead in January 1992, replacing Phil "Philthy Animal" Taylor. Bastards (1993) was his first full studio album with the band.'
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'What cymbals did Mikkey Dee use on Bastards?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: 'Mikkey Dee used Paiste cymbals on Bastards — Giant Beat 15" hi-hats combined with Paiste 2002 crashes, ride, and China cymbal.'
+              }
+            }
+          ]
+        }
+      ]
+    },
+    conclusion: {
+      title: 'The New Motörhead Standard: Bastards and the Dee Era Begins',
+      content: `*Bastards* (1993) is the sound of Motörhead recalibrating. Phil Taylor's chaotic thunder had defined the band through its classic period, and replacing him was an impossible task in the minds of devoted fans. Mikkey Dee didn't attempt to replicate Taylor — he brought something different, and arguably better: the same raw power delivered with Swedish precision and professional control.
+
+The Tama/Paiste setup that powered *Bastards* was the right tool for this moment. The Artstar II shells produced a drum tone with genuine character and definition. The Giant Beat hi-hats provided the body to be heard next to Lemmy's legendary volume. The Iron Cobra pedals delivered the mechanical precision that Dee's placement-focused kick technique required.
+
+**For Drummers Studying Bastards:**
+The most important lesson is the transition from Taylor to Dee — how a band with deeply embedded sonic identity can integrate a fundamentally different drummer while retaining its essential character. Study "Burner" for Dee's high-tempo groove approach: the kick placement, the ghost note density, the way fills end cleanly on the downbeat. Then compare it to classic Taylor tracks on *Overkill* or *Ace of Spades*. Two legitimate approaches to the same band context, separated by entirely different philosophies.
+
+**The Gear Legacy:**
+Tama Iron Cobra pedals remain among the most respected chain-drive pedals in rock drumming. Paiste's Giant Beat series — revived and continuously available — is the authentic classic-rock cymbal choice. A drummer who wants to approximate the *Bastards* drum sound doesn't need an enormous budget, just the right gear philosophy: power through placement, not volume alone.
+
+For Mikkey Dee's complete setup evolution — from the Tama era through his Yamaha years with both Motörhead and Scorpions — see the [Mikkey Dee drummer profile](/drummer/mikkey-dee) and the [full kit breakdown](/articles/whats-in-mikkey-dees-kit).
+
+🤘 *Twenty-three years with the world's loudest band. It started here.* 🤘`
+    }
   }
 };
 

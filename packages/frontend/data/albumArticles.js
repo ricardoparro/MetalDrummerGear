@@ -35339,6 +35339,245 @@ For any drummer seeking to master groove metal, Sacrament is required listening.
 
 🤘 *The Grammy-era benchmark. Billboard #8. The NWOAHM at its peak.* 🤘`
     }
+  },
+
+  'the-gray-chapter-drum-setup': {
+    slug: 'the-gray-chapter-drum-setup',
+    albumTitle: '.5: The Gray Chapter',
+    artist: 'Slipknot',
+    band: 'Slipknot',
+    drummer: 'Jay Weinberg',
+    drummerId: 10,
+    relatedDrummerSlug: 'jay-weinberg',
+    year: 2014,
+    genre: 'Nu-Metal / Alternative Metal',
+    label: 'Roadrunner Records',
+    studio: 'Shangri-La Recording Studio, Malibu, CA',
+    producer: 'Greg Fidelman',
+    isAlbumArticle: true,
+    datePublished: '2026-06-23',
+    dateModified: '2026-06-23',
+    author: 'MetalForge Editorial',
+    title: 'The Gray Chapter — Slipknot Drum Setup (Jay Weinberg, 2014)',
+    description: "Jay Weinberg's Slipknot debut: custom Pearl Reference Pure kit, Evans heads, Zildjian cymbals.",
+    seoKeywords: ['jay weinberg drum setup', 'slipknot gray chapter drums', 'jay weinberg pearl kit', 'slipknot 2014 drummer', 'the gray chapter drum gear', 'jay weinberg zildjian'],
+    ogImage: '/images/albums/the-gray-chapter-drums.webp',
+    intro: {
+      title: 'Jay Weinberg\'s Slipknot Debut: The Gray Chapter (2014)',
+      content: `When Slipknot announced Jay Weinberg as their new drummer in 2013, the metal world held its breath. Replacing Joey Jordison — a co-founder and one of the most celebrated drummers in modern heavy music — was a near-impossible task. Jay was just 22 years old. What he delivered on .5: The Gray Chapter, released October 17, 2014, silenced every doubter.
+
+Jay Matthew Weinberg was born September 26, 1990, in New Jersey. His father, Max Weinberg, is the legendary drummer for Bruce Springsteen's E Street Band — meaning Jay grew up surrounded by professional drumming at the highest level. By his teens he was gigging seriously; he toured with his own band and understudied for his father before catching the attention of Slipknot's management during their 2013 drummer search.
+
+The audition process was exhaustive. Jay learned Slipknot's back catalogue — more than a decade of technically demanding material — in a matter of weeks. He was announced as the new drummer in December 2013, making his live debut at Download Festival in June 2014.
+
+Recording for The Gray Chapter took place at the iconic Shangri-La Recording Studio in Malibu, California, with producer Greg Fidelman, who had previously worked with Slipknot on Vol. 3: (The Subliminal Verses). Fidelman's production captures a massive, dense drum sound while retaining the raw edge the band demanded. The album reached #3 on the US Billboard 200 and #1 in the UK — a commercial triumph that validated Jay's position in the band.
+
+For the sessions, Jay played a Pearl Reference Pure kit in natural finish. The Reference Pure line is Pearl's flagship all-maple shell kit, designed for superior resonance and dynamic response. The natural finish configuration gave the drums an organic warmth that complemented Fidelman's recording approach. Jay paired the kit with a DW 9000 double pedal for his characteristic double bass work, Evans EC2 batter heads across the toms for controlled attack with reduced overtones, and Evans EMAD heads on both kick drums for punchy, defined low-end.
+
+Cymbal duties fell to Zildjian's A series — bright, versatile cymbals that cut through Slipknot's dense arrangement of three guitars, bass, turntables, and additional percussion without becoming harsh. Jay also adopted Vic Firth's Jay Weinberg signature sticks for the sessions, a tool matched to his grip and stroke weight.
+
+Standout drum performances on the album include The Devil in I, with its driving double bass groove and complex hi-hat patterns; Custer, which showcases Jay's ability to sustain relentless intensity at high tempos; and Killpop, where dynamic restraint proves he can serve a song as easily as he can demolish it. Sarcastrophe opens the album with a blistering drum introduction that announced Jay Weinberg to the world on his own terms.`,
+      keyPoints: [
+        'Jay joined Slipknot at age 22, replacing founding drummer Joey Jordison',
+        'Recorded at Shangri-La Studio, Malibu, with producer Greg Fidelman',
+        'Pearl Reference Pure (natural finish) — all-maple flagship kit',
+        'Album reached US #3 and UK #1, validating the new lineup',
+        'First Slipknot studio album with a drummer other than Joey Jordison'
+      ]
+    },
+    drumKit: {
+      title: "Jay's Pearl Reference Pure Setup",
+      brand: 'Pearl',
+      model: 'Pearl Reference Pure',
+      finish: 'Natural',
+      config: {
+        bassdrums: ['22" kick drums (x2)'],
+        toms: ['8"', '10"', '12"', '14" rack toms'],
+        floorToms: ['16" floor tom'],
+        shells: 'All-maple Reference Pure shells'
+      },
+      description: `Jay Weinberg chose the Pearl Reference Pure for his Slipknot studio debut — Pearl's premium all-maple shell series, engineered for superior resonance and articulate attack. The natural finish configuration allows the maple grain to breathe acoustically, producing a warm, full tone that translates well in studio environments.
+
+The dual 22" kick setup mirrors Slipknot tradition while giving Jay the low-end power needed to anchor the band's dense arrangements. The expanded rack tom configuration — spanning from 8" to 16" — provides the full range required for the complex fills and tom patterns that characterize Slipknot's drum writing. Each shell is Pearl's seamless maple construction, chosen for consistency and tonal clarity across the kit.`,
+      notes: [
+        'All-maple Reference Pure shells for warm, resonant studio tone',
+        'Dual 22" kick drums — Slipknot tradition continued',
+        'Natural finish allows full acoustic resonance from the maple grain',
+        'DW 9000 double pedal for double bass work'
+      ]
+    },
+    cymbals: {
+      title: 'Zildjian A Series: Bright and Cutting',
+      brand: 'Zildjian',
+      series: 'A Series',
+      setup: [
+        { type: 'Hi-Hats', model: 'Zildjian A 14" Hi-Hats', position: 'Left side', notes: 'Fast, articulate response for high-tempo patterns' },
+        { type: 'Crash', model: 'Zildjian A Crash (multiple sizes)', position: 'Left and right', notes: 'Bright, quick decay for accent work' },
+        { type: 'Ride', model: 'Zildjian A Ride', position: 'Right side', notes: 'Clear bell definition through dense mix' },
+        { type: 'China', model: 'Zildjian A China', position: 'Above floor tom', notes: 'Aggressive accents on breakdown sections' }
+      ],
+      description: `Jay Weinberg's Zildjian A series setup on The Gray Chapter delivers the brightness and articulation needed to cut through Slipknot's layered sound. The A series cymbals have a traditional American sound — immediate attack, clear definition, and a shimmer that sits high in dense mixes without becoming harsh.
+
+The 14" hi-hats provide the crisp, defined response Jay's fast footwork and hand patterns demand. The crash configuration gives multiple accent points across the kit, each with Zildjian's characteristic quick decay that keeps the mix from becoming congested during intense passages.`
+    },
+    gear: {
+      drums: ['Pearl Reference Pure (natural finish)', '22" kick drums x2', '14" snare', '8,10,12,14,16" toms'],
+      cymbals: ['Zildjian A series', '14" hi-hats', 'Multiple crashes/ride'],
+      hardware: ['DW 9000 double pedal', 'Pearl hardware'],
+      sticks: ['Vic Firth Jay Weinberg signature'],
+      heads: ['Evans EC2 batter', 'Evans EMAD kick']
+    },
+    faq: [
+      {
+        question: 'What drums does Jay Weinberg use on The Gray Chapter?',
+        answer: 'Jay Weinberg played a Pearl Reference Pure kit in natural finish on The Gray Chapter (2014). The setup included dual 22" kick drums, rack toms from 8" to 14", a 16" floor tom, and a 14" snare, paired with a DW 9000 double pedal and Evans heads throughout.'
+      },
+      {
+        question: 'When did Jay Weinberg join Slipknot?',
+        answer: 'Jay Weinberg joined Slipknot in 2013, replacing founding drummer Joey Jordison who departed the band in late 2013. Jay was 22 years old when he was announced as the new drummer in December 2013, and his studio debut with the band was .5: The Gray Chapter, released October 17, 2014.'
+      },
+      {
+        question: 'What cymbals does Jay Weinberg use on The Gray Chapter?',
+        answer: "Jay endorses Zildjian and used the A series on The Gray Chapter sessions. His setup included 14\" A series hi-hats for fast, articulate patterns and multiple A series crash and ride cymbals positioned across the kit to provide accent points through Slipknot's dense three-guitar arrangements."
+      },
+      {
+        question: 'Where was The Gray Chapter recorded?',
+        answer: 'Slipknot recorded .5: The Gray Chapter at Shangri-La Recording Studio in Malibu, California, with producer Greg Fidelman. Fidelman had previously worked with Slipknot on Vol. 3: (The Subliminal Verses) and brought a production style that blended raw power with sonic clarity.'
+      }
+    ],
+    videos: [],
+    relatedAlbums: ['whats-in-jay-weinbergs-kit', 'iowa-drum-setup', 'we-are-not-your-kind-drum-setup'],
+    relatedDrummers: [10, 2, 1],
+    relatedArticles: ['whats-in-jay-weinbergs-kit', 'iowa-drum-setup'],
+    relatedLicks: [],
+    conclusion: {
+      title: 'Jay Weinberg\'s Gray Chapter Legacy',
+      content: `The Gray Chapter (2014) stands as one of the most pressure-tested studio debuts in modern metal. Jay Weinberg stepped into an impossible situation — replacing a beloved, irreplaceable drummer at 22 years old — and delivered an album that reached #1 in the UK and proved he belonged on the world's biggest metal stages.
+
+His Pearl Reference Pure setup, paired with Zildjian A series cymbals and Evans heads, gave The Gray Chapter a massive, defined drum sound that honored Slipknot's sonic identity while establishing Jay's own voice within the band. The Devil in I, Custer, and Sarcastrophe remain benchmarks for studio drumming in modern heavy music.
+
+The [We Are Not Your Kind drum setup article](/articles/we-are-not-your-kind-drum-setup) documents how Jay's rig evolved between 2014 and 2019, and the [Iowa drum setup article](/articles/iowa-drum-setup) provides the Joey Jordison-era context that makes Jay's transition so significant.`
+    }
+  },
+
+  'we-are-not-your-kind-drum-setup': {
+    slug: 'we-are-not-your-kind-drum-setup',
+    albumTitle: 'We Are Not Your Kind',
+    artist: 'Slipknot',
+    band: 'Slipknot',
+    drummer: 'Jay Weinberg',
+    drummerId: 10,
+    relatedDrummerSlug: 'jay-weinberg',
+    year: 2019,
+    genre: 'Nu-Metal / Alternative Metal',
+    label: 'Roadrunner Records',
+    studio: 'Henson Recording Studios, Hollywood, CA',
+    producer: 'Greg Fidelman',
+    isAlbumArticle: true,
+    datePublished: '2026-06-23',
+    dateModified: '2026-06-23',
+    author: 'MetalForge Editorial',
+    title: 'We Are Not Your Kind — Slipknot Drum Setup (Jay Weinberg, 2019)',
+    description: "Grammy-winning WANYK (2019): Pearl Reference Pure evolution, Zildjian A+K Custom hybrid, denser polyrhythmic writing.",
+    seoKeywords: ['jay weinberg wanyk drum setup', 'slipknot 2019 drummer gear', 'we are not your kind drums', 'jay weinberg pearl reference pure', 'slipknot grammy drums', 'jay weinberg zildjian k custom'],
+    ogImage: '/images/albums/we-are-not-your-kind-drums.webp',
+    intro: {
+      title: 'Grammy-Winning Drums: Jay Weinberg on We Are Not Your Kind (2019)',
+      content: `Five years after silencing skeptics with The Gray Chapter, Jay Weinberg returned to the studio with Slipknot to record We Are Not Your Kind — and the result was the most commercially and critically successful album of his tenure with the band. Released August 9, 2019, on Roadrunner Records, WANYK debuted at #1 on both the US Billboard 200 and the UK Albums Chart. In March 2021, it earned Slipknot the Grammy Award for Best Metal Performance for the track "Nero Forte" at the 63rd Annual Grammy Awards — the first Grammy win for the band.
+
+Jay's drumming on WANYK represents a clear evolution from The Gray Chapter sessions. Five years of relentless touring had refined his technique, deepened his understanding of Slipknot's live dynamics, and given him the confidence to write more complex, compositionally adventurous drum parts. The album features some of the most polyrhythmic, texturally dense drumming of his career, with tracks like Nero Forte and Birth of the Cruel showcasing intricate cross-rhythms layered beneath the band's signature wall of sound.
+
+Production duties once again fell to Greg Fidelman, who had helmed The Gray Chapter. Working this time primarily at Henson Recording Studios in Hollywood, Fidelman pushed the drum sound into new territory — bigger and more defined, with a presence that befits an album written to dominate arenas. The sessions were reportedly meticulous; Jay has spoken about the care taken to capture every nuance of his expanded setup.
+
+At the core of that setup was an evolution of the Pearl Reference Pure kit Jay had used on The Gray Chapter. The same all-maple flagship shell series, but with configuration changes and tonal refinements developed over five years of live performance. The kick drum heads upgraded to Evans EMAD2 — a double-ply variant offering additional durability and a slightly tighter, more controlled attack suited to WANYK's production.
+
+The most significant gear development between albums was the cymbal transition. Where The Gray Chapter relied entirely on Zildjian's A series, WANYK saw Jay adopt a hybrid approach: Zildjian A Custom and K Custom cymbals mixed across the setup. The A Custom series offers the bright, cutting character of the original A series but with modern manufacturing and a slightly fuller midrange. The K Custom cymbals bring darkness and complexity — trashy, layered overtones that add depth to accent work without sacrificing the cut Jay needs to be heard over three guitars.
+
+Tracks that showcase his expanded WANYK approach include Unsainted, which opens with a orchestral introduction before Jay drives the band's heaviest mid-tempo groove; Nero Forte, the Grammy winner, built on a relentless polyrhythmic pattern that locks into a devastating pocket; Solway Firth, notable for its dynamic tension and Jay's ability to build intensity across a long compositional arc; and Birth of the Cruel, where double bass complexity reaches its WANYK peak.
+
+Jay Weinberg remained with Slipknot through extensive global touring in support of WANYK before departing the band in November 2023. We Are Not Your Kind stands as the apex of his recorded output with the band — a Grammy-winning document of five years of artistic growth.`,
+      keyPoints: [
+        'Grammy Award — Best Metal Performance (Nero Forte, 63rd Grammy Awards 2021)',
+        'Debuted at #1 in both the US Billboard 200 and UK Albums Chart',
+        'Cymbal upgrade: Zildjian A+K Custom hybrid vs. A series only on Gray Chapter',
+        'Evans EMAD2 kick heads — dual-ply upgrade from EMAD for tighter attack',
+        'Most compositionally complex Slipknot drum writing of Jay\'s tenure'
+      ]
+    },
+    drumKit: {
+      title: "Jay's Pearl Reference Pure (WANYK Evolution)",
+      brand: 'Pearl',
+      model: 'Pearl Reference Pure',
+      finish: 'Custom',
+      config: {
+        bassdrums: ['22" kick drums (x2)'],
+        toms: ['8"', '10"', '12"', '14" rack toms', 'Expanded vs. Gray Chapter configuration'],
+        floorToms: ['16" floor tom'],
+        shells: 'All-maple Reference Pure shells'
+      },
+      description: `Jay Weinberg continued with Pearl Reference Pure shells for We Are Not Your Kind, the same all-maple flagship series he had used on The Gray Chapter. Five years of touring with the kit gave Jay an intimate understanding of its tonal characteristics, and the WANYK sessions reflected that familiarity — more confident, more dynamic, and more sonically refined than the 2014 debut.
+
+The dual 22" kick configuration remained constant, maintaining the Slipknot double bass tradition. The expanded tom setup allowed for the more ambitious fill writing that characterizes WANYK's drumming, with Jay exploiting the full tom range across the album's more compositionally adventurous passages.`,
+      notes: [
+        'Same Pearl Reference Pure shell series as The Gray Chapter, refined through 5 years of touring',
+        'Evans EMAD2 kick heads — double-ply upgrade for tighter, more controlled attack',
+        'Dual 22" kick drums maintained from 2014 setup',
+        'Expanded tom configuration to support more complex fill writing'
+      ]
+    },
+    cymbals: {
+      title: 'Zildjian A Custom + K Custom Hybrid',
+      brand: 'Zildjian',
+      series: 'A Custom / K Custom Hybrid',
+      setup: [
+        { type: 'Hi-Hats', model: 'Zildjian A Custom 14" Hi-Hats', position: 'Left side', notes: 'Bright, modern response for fast patterns' },
+        { type: 'Crash', model: 'Zildjian A Custom Crashes (multiple)', position: 'Left and center', notes: 'Cutting, bright crash for accent work' },
+        { type: 'Crash', model: 'Zildjian K Custom Crashes (multiple)', position: 'Right side', notes: 'Dark, complex overtones for texture' },
+        { type: 'Ride', model: 'Zildjian A Custom Ride', position: 'Far right', notes: 'Defined bell, clear wash for ride patterns' },
+        { type: 'China', model: 'Zildjian K Custom China', position: 'Above floor tom', notes: 'Trashy, aggressive accent with dark character' }
+      ],
+      description: `The most significant gear change between The Gray Chapter and We Are Not Your Kind was Jay's adoption of a Zildjian A Custom and K Custom hybrid cymbal setup. This combination gave him a broader tonal palette — the A Custom's bright, modern attack for cutting through dense arrangements, and the K Custom's darker, more complex character for adding textural depth to accent work and fill punctuation.
+
+The hybrid approach reflects the more compositionally nuanced drumming on WANYK. Where The Gray Chapter demanded brightness and clarity above all else, WANYK's denser polyrhythmic writing benefits from the added darkness of K Custom crashes, which layer overtones without obscuring the rhythmic structure beneath.`
+    },
+    gear: {
+      drums: ['Pearl Reference Pure', '22" kick drums x2', 'Expanded tom setup vs Gray Chapter'],
+      cymbals: ['Zildjian A Custom + K Custom hybrid', '14" hi-hats', 'Multiple crashes'],
+      hardware: ['DW 9000 double pedal', 'Pearl Demon Drive triggers'],
+      sticks: ['Vic Firth Jay Weinberg signature'],
+      heads: ['Evans EC2 batter', 'Evans EMAD2 kick']
+    },
+    faq: [
+      {
+        question: 'What drum kit does Jay Weinberg use on We Are Not Your Kind?',
+        answer: 'Jay Weinberg played a Pearl Reference Pure kit on We Are Not Your Kind (2019), the same all-maple flagship series he used on The Gray Chapter but with configuration refinements developed over five years of touring. The setup included dual 22" kick drums with Evans EMAD2 heads, Evans EC2 batter heads on toms, and a DW 9000 double pedal for his double bass work.'
+      },
+      {
+        question: 'Did Jay Weinberg win a Grammy for We Are Not Your Kind?',
+        answer: 'Yes — Slipknot won the Grammy Award for Best Metal Performance at the 63rd Annual Grammy Awards (March 2021) for the track "Nero Forte" from We Are Not Your Kind. It was the first Grammy win in the band\'s career and recognized Jay Weinberg\'s drumming on one of the album\'s most rhythmically complex tracks.'
+      },
+      {
+        question: 'How does Jay Weinberg\'s setup differ between The Gray Chapter and We Are Not Your Kind?',
+        answer: "The most significant change was the cymbal upgrade: on WANYK, Jay moved from an all-Zildjian A series setup to a Zildjian A Custom and K Custom hybrid, adding darker, more complex overtones to complement the album's denser polyrhythmic writing. The kick heads also upgraded from Evans EMAD to Evans EMAD2 (double-ply) for a tighter attack suited to WANYK's production."
+      },
+      {
+        question: 'What are the standout drum tracks on We Are Not Your Kind?',
+        answer: "Nero Forte (the Grammy winner) is built on a relentless polyrhythmic pattern that demonstrates Jay's most sophisticated rhythmic thinking. Unsainted showcases dynamic range across a long compositional arc. Birth of the Cruel reaches WANYK's peak double bass complexity. Solway Firth demonstrates Jay's ability to build and sustain tension across a slow-burning structure."
+      }
+    ],
+    videos: [],
+    relatedAlbums: ['whats-in-jay-weinbergs-kit', 'the-gray-chapter-drum-setup', 'iowa-drum-setup'],
+    relatedDrummers: [10, 2, 1],
+    relatedArticles: ['whats-in-jay-weinbergs-kit', 'the-gray-chapter-drum-setup'],
+    relatedLicks: [],
+    conclusion: {
+      title: 'We Are Not Your Kind: Jay Weinberg\'s Defining Statement',
+      content: `We Are Not Your Kind (2019) represents Jay Weinberg at his peak with Slipknot. The Grammy win for Best Metal Performance confirmed what five years of relentless touring had made clear: Jay hadn't just replaced Joey Jordison — he had built something distinct, something unmistakably his own within Slipknot's framework.
+
+The Pearl Reference Pure evolution, Zildjian A+K Custom hybrid setup, and Evans EMAD2 kick heads gave the album a drum sound that is simultaneously massive and refined — exactly what WANYK's ambitious production demanded. Nero Forte, Unsainted, and Birth of the Cruel stand as benchmarks for modern heavy metal drumming.
+
+For the full picture of Jay's time with Slipknot, the [The Gray Chapter drum setup article](/articles/the-gray-chapter-drum-setup) documents his 2014 debut, and the [Iowa drum setup article](/articles/iowa-drum-setup) provides the Joey Jordison context that frames Jay's entire tenure with the band.`
+    }
   }
 };
 

@@ -40148,6 +40148,377 @@ Both approaches are valid. Both produce exceptional recordings. Understanding *E
 
 For the complete picture of Inferno's gear across Behemoth's career, visit the [What's In Inferno's Kit breakdown](/articles/whats-in-infernos-kit) and the [Inferno drummer profile](/drummer/inferno). For the technical foundations of the blast beat technique central to this album, the [blast beat techniques guide](/articles/blast-beat-techniques) provides the complete mechanical breakdown. And for the remarkable follow-up that *Evangelion* made possible, see the [The Satanist drum setup breakdown](/articles/the-satanist-drum-setup).`
     }
+  },
+
+  'constellations-drum-setup': {
+    slug: 'constellations-drum-setup',
+    articleType: 'drummer-kit',
+    drummer: 'Matt Greiner',
+    drummerId: 32,
+    relatedDrummerSlug: 'matt-greiner',
+    band: 'August Burns Red',
+    bands: ['August Burns Red'],
+    genre: 'Metalcore',
+    country: 'USA',
+    isAlbumArticle: true,
+    isDrummerKit: true,
+    datePublished: '2026-06-24',
+    dateModified: '2026-06-24',
+    author: 'MetalForge Editorial',
+    title: "August Burns Red 'Constellations' Drum Setup — Matt Greiner's 2009 Kit Breakdown",
+    description: "Discover Matt Greiner's drum setup on August Burns Red's landmark 2009 album 'Constellations.' Pearl kit, Meinl cymbals, Pearl Eliminator pedals — the early-era gear behind metalcore's most musical breakthrough record.",
+    seoKeywords: ['constellations drum setup', 'matt greiner constellations', 'august burns red constellations drums', 'matt greiner 2009 kit', 'august burns red drum setup', 'matt greiner pearl drums', 'constellations album drummer', 'metalcore drum setup 2009'],
+    ogImage: '/images/drummers/matt-greiner.webp',
+    intro: {
+      title: "The Record That Defined Metalcore Drumming",
+      content: `August Burns Red's *Constellations* (June 2, 2009, Metal Blade Records) is the album that crystallized Matt Greiner's reputation as metalcore's most musical drummer. Recorded at Audiohammer Studios in DeLand, Florida with producer Jason Suecof, *Constellations* pushed the technical and dynamic ceiling of the genre — every track demanding the combination of precision, dynamic range, and compositional imagination that Greiner had been developing since ABR's 2005 debut.
+
+The record arrived three years into Greiner's career with August Burns Red, and the jump in sophistication from *Messengers* (2007) is audible in almost every bar. Tracks like "Composure," "White Washed," and "Indonesia" don't just demonstrate technical proficiency — they demonstrate a drummer thinking about arrangement, dynamics, and how the kit can serve a song's emotional arc. That compositional maturity, combined with Suecof's aggressive, clarity-focused production, made *Constellations* a landmark.
+
+For the *Constellations* sessions, Greiner was working with early Pearl endorsement gear — production-level drums that served as the platform before the flagship Reference Pure kit he plays today. The sound on the album reflects both his developing gear and the Audiohammer studio approach: tight, punchy, aggressively gated in sections, with the ghost notes and dynamic fills that would become his signature still clearly present in the production.
+
+This breakdown covers the gear Matt Greiner used on *Constellations*, why the choices suited the album's production, and how this era connects to his current setup. For the complete picture of his modern rig, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup).`,
+      keyPoints: [
+        'August Burns Red "Constellations" released June 2, 2009 on Metal Blade Records',
+        'Recorded at Audiohammer Studios with producer Jason Suecof',
+        'Pearl production kit — early endorsement era before Reference Pure',
+        'Meinl cymbals (developing endorsement)',
+        'Pearl Eliminator double pedal for ABR\'s demanding double-kick patterns',
+        'Tracks "Composure", "White Washed", and "Indonesia" showcase peak early-era Greiner'
+      ]
+    },
+    drumKit: {
+      title: "Early Pearl Era: Production Kit for a Breakthrough Record",
+      brand: 'Pearl',
+      model: 'Pearl Export / Pearl Vision (early endorsement configuration)',
+      finish: 'Standard production finishes',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum (x2 — double kick)'],
+        toms: ['10" x 7" Rack Tom', '12" x 8" Rack Tom', '14" x 14" Floor Tom', '16" x 14" Floor Tom'],
+        shells: 'Poplar/maple hybrid shells (Pearl Export series construction)'
+      },
+      description: `At the time of *Constellations*, Matt Greiner was developing his relationship with Pearl, working with production-level instruments that formed the foundation of the endorsement he would deepen over the following years.
+
+The Pearl Export and Pearl Vision series — the instruments in this era — use poplar/maple hybrid shell construction optimized for consistent, punchy tone in production contexts. For metalcore, where the drum sound is heavily shaped in the recording and mixing stage, these shells provide a reliable acoustic platform: enough attack and fundamental for Suecof's aggressive production to work with, without excessive sustain that would clutter the dense guitar arrangements.
+
+Greiner ran the same double-kick configuration he carries today — two 22" kick drums providing the independent-feel foot work that ABR's patterns demand. The four-tom spread (10", 12", 14", 16") enabled the melodic fill language that distinguishes "Indonesia" and "Composure" from straight-ahead metalcore drumming: these aren't accent drums, they're compositional instruments.
+
+What's notable about the *Constellations* drum sound is how Suecof's production shaped the Pearl shells. The gated, punchy drum tone on the album — particularly on the snare and kick — reflects a recording philosophy prioritizing definition and impact over natural sustain. The production amplified exactly what Greiner's playing demanded: clarity in complex patterns, definition in ghost notes, and power in the backbeat.`,
+      notes: [
+        'Pearl production kit (Export/Vision era) — pre-Reference Pure endorsement configuration',
+        'Double 22" kick drums for independent feel across demanding ABR double-bass patterns',
+        'Four-tom spread enables melodic fill work characteristic of Greiner\'s compositional approach',
+        'Suecof production at Audiohammer shaped the acoustic kit into the iconic Constellations sound',
+        'Same fundamental configuration carried forward to the Reference Pure era'
+      ],
+      estimatedValue: '$1,200–2,200 (Pearl Export/Vision shell pack, 2009 pricing)'
+    },
+    snare: {
+      title: 'Crack and Definition: Pearl Free-Floating Era',
+      brand: 'Pearl',
+      model: 'Pearl Free-Floating Snare (early endorsement rotation)',
+      size: '14" x 6.5"',
+      shell: 'Steel (primary) / Maple (alternate)',
+      description: `The snare on *Constellations* is one of the most recognizable elements of the record's drum sound. Greiner's snare voice during this era — bright, cracking, immediately cutting — reflects the Pearl Free-Floating system: a design that isolates the shell from the lugs, allowing the shell to resonate freely and produce a more pure, focused fundamental.
+
+The Free-Floating's steel shell configuration produces the bright, aggressive crack that cuts through ABR's dense guitar arrangements. In Suecof's production context, this translates to a snare that projects with authority in the mix without requiring excessive processing to achieve presence — the shell is doing the fundamental tonal work before compression and EQ touch it.
+
+Greiner's ghost note technique is already central to his identity on *Constellations*. The Free-Floating's dynamic sensitivity — its ability to register near-silent strokes and translate them into musically present tones — makes patterns like the verse groove on "Indonesia" and the pre-chorus builds on "Composure" work at their most subtle dynamic level. The same snare that cracks on the downbeat ghost-notes beneath it with equal precision.
+
+This era directly preceded the development of his Pearl Matt Greiner Signature snare — a collaboration that took the Free-Floating architecture's core principles (steel shell, focused fundamental, wide dynamic range) and refined them into a purpose-built metalcore instrument. See the [Matt Greiner complete drum setup](/articles/matt-greiner-complete-drum-setup) for the signature model breakdown.`,
+      tuningSetting: 'Medium-bright — balanced for ghost note sensitivity and backbeat authority in Suecof\'s aggressive production',
+      heads: 'Remo Controlled Sound Coated (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$300–500 (Pearl Free-Floating models, 2009 era)'
+    },
+    cymbals: {
+      title: 'Meinl Developing Endorsement: Early Byzance Era',
+      brand: 'Meinl',
+      series: 'Meinl Byzance (early endorsement — developing series relationship)',
+      setup: [
+        { type: 'Hi-Hats', model: 'Meinl 14" Byzance Hi-Hats', position: 'Left side', notes: 'Complex, articulate tone for rapid metalcore hi-hat patterns' },
+        { type: 'Crash', model: 'Meinl 18" Byzance Crash', position: 'Left crash', notes: 'Fast response, controlled decay for dense ABR arrangements' },
+        { type: 'Crash', model: 'Meinl 19" Byzance Crash', position: 'Right crash', notes: 'Slightly fuller accent crash' },
+        { type: 'Ride', model: 'Meinl 20"/21" Byzance Ride', position: 'Right', notes: 'Versatile ride surface for dynamic range from delicate to driven' },
+        { type: 'China', model: 'Meinl 18" Byzance China', position: 'Over rack toms', notes: 'Aggressive accent for ABR\'s heaviest passages' },
+        { type: 'Splash', model: 'Meinl 10" Byzance Splash', position: 'Effects', notes: 'Quick accent tool for textural moments' }
+      ],
+      description: `The *Constellations* era coincides with Greiner deepening his relationship with Meinl — developing the Byzance endorsement that would become central to his sound on all subsequent ABR records. The Byzance series, handcrafted in Turkey using traditional methods, delivered the dark, complex, musical tone that distinguished Greiner's cymbal voice from the brighter alternatives common in early-2000s metalcore.
+
+The Byzance hi-hats provide the articulate, layered tone that Greiner's intricate hi-hat patterns demand. On "Composure" and "Meddler," the hi-hat work functions as a melodic voice within the groove — not just timekeeping. The Byzance's complex harmonics give these patterns depth without excess wash that would blur the rapid single-stroke work.
+
+The crash setup's fast attack and controlled decay serve the *Constellations* production's rhythmic precision requirements. Suecof's mix prioritized definition — cymbals that linger create problems in dense arrangements; Byzance crashes speak and resolve quickly, leaving space for the next rhythmic event.
+
+The developing Meinl relationship visible on *Constellations* evolved through the Byzance Extra Dry and Dual series that Greiner uses in his current configuration. The fundamental philosophy — dark, articulate, controlled cymbals suited for production-forward metalcore — remained constant while the specific models became more refined. For the current full Byzance setup breakdown, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup).`,
+      notes: [
+        'Byzance series — handcrafted Turkish construction for complex, dark tone',
+        'Developing endorsement that deepened through the Leveler and Rescue & Restore cycles',
+        'Fast-decaying character essential for Suecof\'s definition-focused Constellations production',
+        'Hi-hat patterns on "Composure" and "Indonesia" treat the cymbals as melodic voices',
+        'Early foundation for the full Extra Dry / Dual setup Greiner plays today'
+      ],
+      estimatedValue: '$1,500–2,500 (full Byzance setup, 2009 era)'
+    },
+    hardware: {
+      title: 'Pearl Eliminator and Standard Hardware',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'Pearl',
+          model: 'Pearl Eliminator Double Pedal',
+          notes: 'Direct-drive option on Eliminator for precise double-kick metalcore patterns',
+          description: "The Pearl Eliminator is the double pedal Greiner used in the pre-Demon Drive era. The Eliminator's interchangeable cam system and direct-drive option provided the mechanical precision ABR's double-kick patterns demand. The Constellations recording features some of Greiner's most demanding double-bass work — the Eliminator's consistent action across extended playing is essential for delivering that performance at recorded quality."
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth 5B / early Greiner prototype',
+          notes: 'Standard 5B dimensions with custom taper development beginning',
+          description: "During the Constellations era, Greiner was working with standard Vic Firth 5B sticks as his Vic Firth signature model was still in development. The 5B's heavier construction suited the power demands of Suecof's production-forward recording while maintaining the control needed for ghost note work."
+        },
+        {
+          type: 'Drumheads (Toms, Batter)',
+          brand: 'Remo',
+          model: 'Remo Emperor Coated',
+          notes: 'Two-ply warm attack with controlled sustain'
+        },
+        {
+          type: 'Drumheads (Bass, Batter)',
+          brand: 'Remo',
+          model: 'Remo Powerstroke 3',
+          notes: 'Focused attack and controlled low-end for metalcore production'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke 3 (batter), Remo Powerstroke 3 ported (resonant)',
+        toms: 'Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)',
+        snare: 'Remo Controlled Sound Coated (batter), Remo Ambassador Snare Side (resonant)'
+      }
+    },
+    faq: [
+      {
+        question: 'What drums does Matt Greiner use on Constellations?',
+        answer: "On August Burns Red's *Constellations* (2009), Matt Greiner played a Pearl production kit in the Export/Vision tier — the early-endorsement Pearl configuration before his current Pearl Reference Pure. His setup included double 22\" bass drums, 10\" and 12\" rack toms, and 14\" and 16\" floor toms. The recording at Audiohammer Studios with producer Jason Suecof shaped the Pearl shells into the tight, punchy drum sound the album is known for. For Greiner's current full kit breakdown, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup)."
+      },
+      {
+        question: "What is Matt Greiner's Constellations-era setup worth?",
+        answer: "Matt Greiner's Constellations-era Pearl production kit (Export/Vision tier) would have retailed for approximately $1,200 to $2,200 as a shell pack in 2009. His Pearl Free-Floating snare added $300 to $500. A developing Meinl Byzance cymbal setup in that era ran approximately $1,500 to $2,500. Pearl Eliminator double pedal approximately $350 to $500. Total rig: roughly $3,500 to $5,700 — significantly less than his current Reference Pure setup, which runs $6,000 to $12,000 fully equipped. The Constellations sound was achieved on professional but not flagship gear, which speaks to Greiner's playing ability rather than the instrument budget."
+      },
+      {
+        question: "How does Matt Greiner's 2009 Constellations setup differ from his current kit?",
+        answer: "The most significant differences between Greiner's 2009 Constellations era and his current setup are the drum shells and snare. On Constellations, he played Pearl Export/Vision production kits — poplar/maple shells at Pearl's mid-tier level. His current setup is the Pearl Reference Pure in Piano Black — maple/mahogany flagship shells with free-floating shell architecture. His snare has evolved from the Pearl Free-Floating models of the Constellations era to his purpose-built Pearl Matt Greiner Signature 14\"x6\" steel shell. His Meinl Byzance cymbal relationship has deepened from a developing endorsement into the full Extra Dry and Dual series configuration. His double pedal evolved from the Pearl Eliminator to the Pearl Demon Drive direct-drive system. The musical philosophy and setup architecture remained constant; the hardware moved upward through Pearl's lineup as the endorsement deepened."
+      }
+    ],
+    videos: [],
+    relatedAlbums: ['matt-greiner-complete-drum-setup'],
+    relatedDrummers: [18, 5, 14],
+    relatedArticles: ['metalcore-drummer-gear', 'best-crash-cymbals-metal'],
+    relatedLicks: [],
+    conclusion: {
+      title: "Constellations: The Record That Proved the Approach",
+      content: `*Constellations* is the record where Matt Greiner's compositional approach to metalcore drumming crystallized from potential into landmark achievement. The combination of Suecof's aggressive production, Greiner's already-developed dynamic vocabulary, and ABR's increasingly sophisticated songwriting produced an album that still serves as a genre benchmark seventeen years later.
+
+The gear story of *Constellations* is instructive in its own right: Greiner achieved that benchmark on production-level Pearl instruments, a developing Meinl Byzance endorsement, and Pearl Eliminator pedals. The Reference Pure kit, signature snare, and Demon Drive system came later — but the musical foundation that made those endorsement upgrades meaningful was built on the *Constellations* sessions.
+
+For drummers studying Greiner's approach, *Constellations* is essential listening precisely because it captures the playing before the flagship equipment arrived. "Composure" is built on ghost notes and syncopation that no drum shell upgrades. "Indonesia" is built on melodic tom thinking that no cymbal endorsement automates. The *Constellations* sound is Matt Greiner's musicianship operating at early-career peak — and that's not a limitation, it's a demonstration.
+
+For the complete current setup, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup). For the drummer profile and technique context, visit the [Matt Greiner profile at MetalForge](/drummer/matt-greiner). For the August Burns Red discography from a drumming perspective, the *Constellations* era is the essential starting point — the record that made everything that followed possible.`
+    }
+  },
+
+  'periphery-self-titled-drum-setup': {
+    slug: 'periphery-self-titled-drum-setup',
+    articleType: 'drummer-kit',
+    drummer: 'Travis Orbin',
+    drummerId: 21,
+    relatedDrummerSlug: 'travis-orbin',
+    band: 'Periphery',
+    bands: ['Periphery'],
+    genre: 'Progressive Metal / Djent',
+    country: 'USA',
+    isAlbumArticle: true,
+    isDrummerKit: true,
+    datePublished: '2026-06-24',
+    dateModified: '2026-06-24',
+    author: 'MetalForge Editorial',
+    title: "Periphery Self-Titled Drum Setup — Travis Orbin's Debut Album Kit Breakdown",
+    description: "Travis Orbin's complete drum setup on Periphery's genre-defining 2010 self-titled debut. DW Collector's Series, Zildjian K Custom cymbals, Roland SPD-SX electronic integration — the full rig behind djent's founding recording.",
+    seoKeywords: ['periphery self-titled drum setup', 'travis orbin periphery debut', 'periphery 2010 drum setup', 'travis orbin dw drums', 'periphery djent drums', 'travis orbin zildjian', 'djent founding album drums', 'icarus lives drum setup', 'periphery debut album drummer'],
+    ogImage: '/images/drummers/travis-orbin.webp',
+    intro: {
+      title: "The Album That Named a Genre",
+      content: `Periphery's self-titled debut (July 27, 2010, Sumerian Records) didn't just launch a band — it provided the name and the sonic template for djent as a genre. Misha Mansoor had been developing the djent guitar sound through years of online activity and home recording, but *Periphery* was the record that assembled those ideas into a complete, produced, commercially available statement. And at the center of that statement was Travis Orbin's drumming.
+
+Orbin (born July 5, 1985, in Baltimore, Maryland) brought to *Periphery* a technical vocabulary that matched the album's guitar architecture in every dimension. Where Mansoor's riffs operated in layered polyrhythmic systems and dissonant extended chords, Orbin constructed drum parts that were equally complex — not mimicking the guitars, but interacting with them as a full compositional participant. "Icarus Lives!" became the album's canonical track: a demonstration of how djent drumming could combine ghost note density, polyrhythmic bass drum independence, and linear patterns into something that sounded simultaneously technical and musical.
+
+The gear behind that performance was Orbin's DW Collector's Series kit, Zildjian K Custom Dark and A Custom cymbals, DW 9000 double pedal, and — critically — a Roland SPD-SX sampling pad integration that became a defining element of the album's hybrid drum sound. The SPD-SX allowed Orbin to trigger electronic layers and samples from within his acoustic performance, giving the album a textural dimension that pure acoustic drumming cannot replicate.
+
+This breakdown covers the equipment Travis Orbin used on Periphery's self-titled debut, why those choices suited the album's production demands, and how this recording established the technical parameters that define djent drumming. For Orbin's complete career gear guide, see the [Travis Orbin drum setup breakdown](/articles/travis-orbin-drum-setup). For the Matt Halpern era that followed, see [What's In Matt Halpern's Kit](/articles/whats-in-matt-halperns-kit).`,
+      keyPoints: [
+        'Periphery self-titled released July 27, 2010 on Sumerian Records',
+        'Travis Orbin — founding drummer, recorded the debut and "Icarus" EP before departing in 2012',
+        'DW Collector\'s Series — flagship DW custom shell construction',
+        'Zildjian K Custom Dark hi-hats and A Custom crashes — versatile tonal palette for djent',
+        'Roland SPD-SX electronic integration — central to the album\'s hybrid drum sound',
+        '"Icarus Lives!" became the canonical showcase of djent drumming technique'
+      ]
+    },
+    drumKit: {
+      title: "DW Collector's Series: The Foundation of Djent's Debut",
+      brand: 'DW',
+      model: "DW Collector's Series",
+      finish: 'Custom configuration',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum (x2 — double kick configuration)'],
+        toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
+        floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom'],
+        shells: "North American maple — DW Collector's custom ply and bearing edge construction"
+      },
+      description: `Travis Orbin's DW Collector's Series kit is the acoustic foundation beneath Periphery's self-titled. The Collector's Series is DW's flagship custom production line — shells built to exacting specifications from North American maple with bearing edge profiles and ply counts chosen for the precise acoustic outcome each application requires.
+
+For Orbin's djent application on the debut, DW Collector's maple delivers the combination of midrange warmth and high-frequency articulation that progressive metal production demands. Maple's natural brightness preserves definition in complex polyrhythmic patterns — ghost notes, linear passages, dense two-footed bass drum sequences — without allowing individual strokes to blur in dense guitar mixes. The custom bearing edge construction lets Orbin tune for the focused, punchy tone that djent production requires: enough sustain for musical body, controlled enough that rapid patterns don't smear.
+
+The double bass configuration — two 22" x 18" kick drums — provides the physical symmetry and acoustic consistency that Orbin's two-footed djent patterns demand. Both kicks are treated identically in head selection, tuning, and dampening, ensuring each foot delivers the same attack and decay. At the pattern densities and rhythmic independence levels Orbin's music operates at, consistency between kicks isn't aesthetic preference — it's structural.
+
+The four-tom layout (10", 12", 14", 16") covers the melodic range Periphery's arrangements require. Orbin's fill work on the debut isn't transitional decoration — it's melodic commentary on the guitar arrangement. The DW Collector's tuning precision makes melodic tom approaches reliable in a recording context.
+
+The acoustic kit was designed from the ground up to work with Orbin's electronic trigger and Roland SPD-SX integration — the acoustic drums providing the organic foundation that electronic samples layer over and extend.`,
+      notes: [
+        "DW Collector's — custom ply and bearing edge construction for maximum acoustic control",
+        'Double 22" kicks for symmetrical, consistent two-footed djent pattern execution',
+        'Four-tom spread (10", 12", 14", 16") enabling melodic fill work in Periphery\'s harmonic context',
+        'North American maple shells for articulate attack through dense guitar arrangements',
+        'Acoustic foundation designed to integrate with Roland SPD-SX electronic layer'
+      ],
+      estimatedValue: "$4,000–7,500 (DW Collector's shell pack, custom configuration)"
+    },
+    snare: {
+      title: "DW Collector's Snare: Ghost Note Sensitivity and Backbeat Crack",
+      brand: 'DW',
+      model: "DW Collector's Series Snare",
+      size: '14" x 6"',
+      shell: 'North American maple (primary)',
+      description: `The snare on Periphery's self-titled is one of the most-discussed elements of the album's drum production: that combination of crack, ghost note sensitivity, and electronic processing that defines tracks like "Icarus Lives!" and "Racecar."
+
+Orbin's DW Collector's 14" x 6" maple snare provides the acoustic foundation. The 6" depth — deeper than the standard 5.5" — gives the drum additional body and projection without crossing into the sustained-ringing territory that would cause problems in fast djent patterns. At the speeds and ghost note densities Orbin's playing operates at, a snare that rings too long creates sonic clutter; the DW Collector's 6" maple model sits precisely at the balance point.
+
+The ghost note sensitivity of the Collector's snare is central to Orbin's linear drumming approach on the debut. His left hand operates at near-constant ghost note activity throughout complex passages — the snare must register these touches at controlled velocities that are present without dominating. The DW Collector's dynamic range, from whisper to crack, is what makes the layered patterns in "Buttersnips" and "Jetpacks Was Yes!" work acoustically.
+
+Electronic trigger processing and studio treatment complete the picture in recorded contexts — but Orbin's philosophy is acoustic first, electronic as extension. The DW Collector's snare provides the genuine acoustic character that makes that extension credible.`,
+      tuningSetting: 'Medium-high — ghost note sensitivity at the top of the dynamic range without sacrificing backbeat crack in djent mixes',
+      heads: 'Evans UV1 Coated (batter), Evans Hazy 300 (resonant)',
+      estimatedValue: "$400–700 (DW Collector's Snare)"
+    },
+    cymbals: {
+      title: 'Zildjian K Custom Dark and A Custom: Djent Tonal Architecture',
+      brand: 'Zildjian',
+      series: 'K Custom Dark and A Custom',
+      setup: [
+        { type: 'Hi-Hats', model: 'Zildjian 14" K Custom Dark Hi-Hats', position: 'Left side', notes: 'Complex, dark, articulate — defines the hi-hat voice on the debut' },
+        { type: 'Crash', model: 'Zildjian 18" A Custom Crash', position: 'Left crash', notes: 'Fast attack, controlled decay for rapid djent accent work' },
+        { type: 'Crash', model: 'Zildjian 19" A Custom Crash', position: 'Right crash', notes: 'Larger accent crash for section-ending emphasis' },
+        { type: 'Ride', model: 'Zildjian 21" K Custom Dark Ride', position: 'Right side', notes: 'Controlled wash — defined ping without buildup in high-gain guitar context' },
+        { type: 'China', model: 'Zildjian 18" A Custom China', position: 'Over rack toms', notes: 'Sharp, immediate rhythmic punctuation for djent accents' },
+        { type: 'Splash', model: 'Zildjian 10" A Custom Splash', position: 'Effects position', notes: 'Quick accent transitions and rhythmic detail' }
+      ],
+      description: `Travis Orbin's Zildjian setup on Periphery's debut reflects the dual demands of djent cymbal work: hi-hats must produce articulate, clearly defined strokes at very high pattern densities, while crash and ride cymbals need the dynamic range to serve Periphery's compositional contrast from ambient to crushing.
+
+The 14" K Custom Dark Hi-Hats are the foundational choice. K Custom Dark cymbals produce a complex, layered tone with a lower fundamental than bright alternatives — placing them naturally in djent's mid-frequency guitar landscape without competing for sonic space. Orbin's hi-hat patterns on "Icarus Lives!" and "The Walk" operate at high density with constant open-closed variation; the K Custom Dark's character keeps each stroke defined through that density without accumulating harsh high-frequency buildup.
+
+The crash setup uses Zildjian A Custom models for their fast-responding, bright character. A Custom crashes speak immediately on impact and decay quickly — essential when crashes accent within fast-moving djent patterns where the next rhythmic event is milliseconds away. The 18" provides the primary quick-decay crash voice; the 19" covers larger dynamic accents.
+
+The 21" K Custom Dark Ride provides controlled sustain with defined bell presence for riding patterns in heavier sections. The K Custom Dark's controlled wash prevents buildup against Periphery's high-gain guitar density — a clear riding surface that doesn't accumulate against itself.
+
+The 18" A Custom China delivers the sharp, upward-projecting rhythmic punctuation that djent's accent architecture requires: immediate impact, fast decay, and then completely clear for the next rhythmic event.`,
+      notes: [
+        'K Custom Dark Hi-Hats — dark, articulate tone works within djent guitar frequencies without competing',
+        'A Custom crashes for fast attack and quick decay essential in dense djent arrangements',
+        'K Custom Dark Ride for controlled wash in Periphery\'s high-gain guitar context',
+        'A Custom China for immediate djent rhythmic punctuation with fast decay',
+        'Dual series approach: K Custom darkness for sustained cymbal work, A Custom brightness for accents'
+      ],
+      estimatedValue: '$2,000–3,200 (full Zildjian K Custom Dark / A Custom setup)'
+    },
+    hardware: {
+      title: 'DW 9000, Roland SPD-SX, and Electronic Integration',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'DW',
+          model: 'DW 9000 Series Double Pedal',
+          notes: 'Chain-drive with adjustable cam — primary pedal for djent two-footed pattern work',
+          description: "The DW 9000 double pedal provides the feel and adjustability Travis Orbin's djent bass drum technique demands. The 9000's floating rotor mechanism, adjustable cam, and dual-chain drive deliver a consistent, tunable response across extended technical playing. For the complex syncopated bass drum patterns that define Periphery's debut — where kick patterns function as independent melodic voices interacting with the hand patterns — the DW 9000's consistent action and immediate return speed are critical."
+        },
+        {
+          type: 'Electronic Trigger Pad',
+          brand: 'Roland',
+          model: 'Roland SPD-SX Sampling Pad',
+          notes: 'Sample triggering and electronic layering — defining element of the debut\'s hybrid drum sound',
+          description: "The Roland SPD-SX is arguably the most important piece of Orbin's debut-era setup beyond the acoustic kit itself. On Periphery's self-titled, the SPD-SX allows Orbin to trigger samples, electronic layers, and processed sounds that give the album its distinctive hybrid drum texture. This isn't supplemental — the electronic layer from the SPD-SX is compositionally integrated into the arrangement. Tracks like 'Icarus Lives!' and 'Racecar' use the hybrid drum approach as a fundamental element of their sonic identity, not as production polish added after the fact. Orbin positions the pad for right-hand access without disrupting acoustic playing flow."
+        },
+        {
+          type: 'Bass Drum Triggers',
+          brand: 'Roland / DDrum',
+          model: 'Bass Drum Trigger System',
+          notes: 'Electronic triggers on acoustic kick drums for consistent sample layering and recording definition',
+          description: "Bass drum triggers mounted on the batter heads convert each physical kick stroke into a consistent electronic signal. For Orbin's two-footed djent patterns at complex polyrhythmic densities, trigger consistency is critical: each bass drum note must register with equal attack regardless of the physical variation inherent in extended technical playing. The trigger system feeds sample layering that reinforces the acoustic kick attack and ensures recording consistency across long takes."
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth American Classic 5B',
+          notes: 'Balanced weight for technical djent playing with both explosive accents and ghost note sensitivity',
+          description: "Vic Firth 5B sticks provide Orbin the balance of mass and control his playing requires. The 5B is slightly heavier than a standard 5A — appropriate for a player whose music demands both explosive accent work and extremely delicate ghost note sensitivity within the same phrase. Hickory construction handles the demands of extended technical playing while maintaining the response that subtle ghost note work requires."
+        },
+        {
+          type: 'Drumheads (Toms, Batter)',
+          brand: 'Evans',
+          model: 'Evans G2 Coated',
+          notes: 'Two-ply for controlled sustain and focused attack in djent production'
+        },
+        {
+          type: 'Drumheads (Bass, Batter)',
+          brand: 'Evans',
+          model: 'Evans EMAD',
+          notes: 'External Muffle Attack Design for focused, consistent kick attack when triggering'
+        }
+      ],
+      heads: {
+        bassKick: 'Evans EMAD (batter), Evans EQ3 Resonant ported (resonant)',
+        toms: 'Evans G2 Coated (batter), Evans G1 Clear (resonant)',
+        snare: 'Evans UV1 Coated (batter), Evans Hazy 300 (resonant)'
+      }
+    },
+    faq: [
+      {
+        question: "What drums did Travis Orbin use on Periphery's self-titled debut?",
+        answer: "Travis Orbin played a DW Collector's Series drum kit on Periphery's self-titled debut (2010). The Collector's Series is DW's flagship custom production line — North American maple shells built to precise ply and bearing edge specifications. His configuration included double 22\"x18\" kick drums for his two-footed djent patterns, 10\" and 12\" rack toms, and 14\" and 16\" floor toms. The DW Collector's maple construction provided the articulate attack and controlled sustain that djent's dense guitar frequency environment demands. For the complete career gear guide, see the [Travis Orbin drum setup breakdown](/articles/travis-orbin-drum-setup)."
+      },
+      {
+        question: "What cymbals did Travis Orbin use on Periphery's debut album?",
+        answer: "Travis Orbin played Zildjian cymbals across his Periphery debut setup, using the K Custom Dark and A Custom series. His hi-hats were Zildjian 14\" K Custom Dark — providing complex, articulate tone within djent's guitar frequency landscape without competing for sonic space. His crashes were Zildjian A Custom (18\" and 19\") for fast attack and quick decay essential in dense rhythmic arrangements. His ride was a Zildjian 21\" K Custom Dark for controlled wash in high-gain contexts. A Zildjian 18\" A Custom China and 10\" A Custom Splash rounded out the setup for rhythmic punctuation and accent transitions."
+      },
+      {
+        question: "How did Periphery's drum setup change after Travis Orbin departed?",
+        answer: "When Matt Halpern joined Periphery in 2012 following Travis Orbin's departure, the drum setup shifted considerably. Orbin's DW Collector's Series / Zildjian K Custom and A Custom / Roland SPD-SX hybrid approach gave way to Halpern's Mapex Saturn V / Meinl Byzance setup — a different tonal philosophy prioritizing groove and musical warmth over Orbin's analytical precision framework. Orbin's Roland SPD-SX electronic integration was a defining element of the debut's sound; Halpern's acoustic-forward approach produced a different hybrid character. Both approaches are valid and produce exceptional results — they represent complementary philosophies about what djent drumming can be. For the full Halpern era breakdown, see [What's In Matt Halpern's Kit](/articles/whats-in-matt-halperns-kit)."
+      }
+    ],
+    videos: [],
+    relatedAlbums: ['travis-orbin-drum-setup', 'whats-in-matt-halperns-kit'],
+    relatedDrummers: [18, 5, 47],
+    relatedArticles: ['djent-drumming-guide', 'best-drums-for-djent'],
+    relatedLicks: [],
+    conclusion: {
+      title: "The Self-Titled: Where Djent Got Its Name and Its Technical Benchmark",
+      content: `Periphery's self-titled debut is one of those rare records where the drummer's contribution is inseparable from the genre definition the album created. Travis Orbin didn't just play on *Periphery* — he co-authored the technical language that djent drumming has been working from ever since.
+
+The DW Collector's Series kit, Zildjian K Custom Dark and A Custom cymbals, DW 9000 pedal, and Roland SPD-SX integration are not just the instruments on this record — they are a coherent design philosophy made physical. Every choice reflects Orbin's understanding of what djent's musical demands require: acoustic precision as the foundation, electronic consistency as the recording layer, cymbal choices optimized for articulation within dense guitar arrangements, and a hybrid approach that treats samples as compositional elements rather than production cosmetics.
+
+"Icarus Lives!" remains the canonical introduction to djent drumming for a reason: it demonstrates, in four and a half minutes, every element of what Travis Orbin brought to Periphery's debut. The ghost note density. The polyrhythmic bass drum independence. The linear pattern vocabulary. The electronic integration. The dynamic range from barely audible to explosive. All of it present, all of it serving the song, all of it recorded with the DW Collector's kit and Zildjian setup documented here.
+
+Orbin departed Periphery in 2012, and Matt Halpern has been the band's drummer since — bringing his own exceptional musicianship to the role and producing some of the finest progressive metal drumming of the last decade. But the *self-titled* belongs to Orbin: it's the record that proved djent could translate from a bedroom guitar tone experiment into a fully realized genre with a technical ceiling that the drumming had to reach up to match.
+
+For the complete picture of Travis Orbin's gear across his career, see the [Travis Orbin drum setup breakdown](/articles/travis-orbin-drum-setup). For the Matt Halpern era, see [What's In Matt Halpern's Kit](/articles/whats-in-matt-halperns-kit). For the djent technique foundation that both drummers built on, see the [djent drumming guide](/articles/djent-drumming-guide).`
+    }
   }
 };
 

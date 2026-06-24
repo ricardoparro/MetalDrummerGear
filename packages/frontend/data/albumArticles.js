@@ -7160,6 +7160,347 @@ For the earlier chapter of Portnoy's Dream Theater story, see the [Images and Wo
     }
   },
 
+  'train-of-thought-drum-setup': {
+    slug: 'train-of-thought-drum-setup',
+    albumTitle: 'Train of Thought',
+    artist: 'Dream Theater',
+    drummer: 'Mike Portnoy',
+    drummerId: 13,
+    relatedDrummerSlug: 'mike-portnoy',
+    year: 2003,
+    genre: 'Progressive Metal',
+    label: 'Roadrunner Records',
+    studio: 'Avatar Studios (The Power Station), New York',
+    producer: 'John Petrucci & Mike Portnoy',
+    isAlbumArticle: true,
+    datePublished: '2026-06-24',
+    dateModified: '2026-06-24',
+    author: 'MetalForge Editorial',
+    title: "Train of Thought Drum Setup — Mike Portnoy's Heaviest Dream Theater Kit (2003)",
+    description: "Complete breakdown of Mike Portnoy's drum gear on Dream Theater's Train of Thought (2003). Discover the expanded Tama Starclassic Maple kit, Sabian AAX cymbals, Pearl Eliminator pedals, and the Metallica/Pantera-influenced technique behind DT's heaviest album.",
+    seoKeywords: ['train of thought drum setup', 'mike portnoy 2003 drum kit', 'dream theater heavy album drums', 'mike portnoy pearl eliminator', 'dream theater train of thought gear', 'mike portnoy sabian aax', 'dream theater metal album drummer'],
+    ogImage: '/images/albums/train-of-thought-drums.webp',
+    intro: {
+      title: "Dream Theater's Heavy Pivot: The Drum Story Behind Train of Thought",
+      content: `Released on November 3, 2003, *Train of Thought* is Dream Theater's most deliberately heavy record — a full-throttle plunge into Metallica and Pantera territory that shocked fans accustomed to the melodic complexity of *Metropolis Pt. 2* and *Six Degrees of Inner Turbulence*. The album marked the band's first release on Roadrunner Records, a label synonymous with extreme metal, and the gear and playing style Mike Portnoy brought to the sessions reflected that new context completely.
+
+The sessions took place at Avatar Studios (formerly The Power Station) in New York City — a world-class facility that had hosted recordings by Frank Sinatra, Bruce Springsteen, and dozens of heavy acts. Dream Theater self-produced the album alongside John Petrucci, stripping away the orchestral layers and prog complexity of the previous two records in favor of raw, crushing heaviness. The decision was deliberate: before recording began, the band immersed themselves in Metallica and Pantera records, absorbing the directness and aggression that had defined heavy metal's mainstream peak in the 1990s.
+
+For Mike Portnoy, *Train of Thought* represented the largest, heaviest, and most powerful kit configuration of his Dream Theater career to that point. The expanded Tama Starclassic Maple setup — stretched to approximately 13 drums — gave him a broader sonic palette for the album's relentless double-bass patterns and tom-driven riffs. The switch from his previous cymbal configuration to Sabian AAX — a brighter, more aggressive series than the Artisan cymbals of the *Scenes from a Memory* era — matched the album's harder edge. And the adoption of Pearl Eliminator double pedals brought a new mechanical authority to his already formidable two-foot vocabulary.
+
+*Train of Thought* is the hinge between Dream Theater's reflective prog period and the more aggressive work that followed. This article breaks down every piece of equipment Mike Portnoy used to record the heaviest album of his Dream Theater tenure.`,
+      keyPoints: [
+        "Dream Theater's first Roadrunner Records album — heaviest of the Portnoy era",
+        'Recorded at Avatar Studios (The Power Station), New York City',
+        'Expanded Tama Starclassic Maple to ~13 drums — largest kit of his DT career to this point',
+        'Sabian AAX cymbals: brighter, more aggressive than the Artisan series of Scenes from a Memory',
+        'Pearl Eliminator double pedals — primary endorsement this era',
+        'Deliberate Metallica/Pantera influence: heaviest technique of any Dream Theater album',
+        "First DT album since Portnoy's heavier playing style fully emerged"
+      ]
+    },
+    drumKit: {
+      title: "Mike's 2003 Studio Kit: The Expanded Tama Starclassic Maple",
+      brand: 'Tama',
+      model: 'Tama Starclassic Maple',
+      finish: 'Black Sparkle',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum (x2)'],
+        toms: ['8" x 7" Rack Tom', '10" x 8" Rack Tom', '12" x 9" Rack Tom', '13" x 10" Rack Tom', '14" x 11" Rack Tom'],
+        floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom', '18" x 16" Floor Tom'],
+        shells: "Maple shells with Tama's Star-Cast mounting system — expanded to approximately 13 drums"
+      },
+      description: `By 2003, Mike Portnoy had been playing Tama Starclassic Maple kits for several years, but the *Train of Thought* cycle saw him push the configuration to its largest and heaviest expression. The setup expanded to approximately 13 drums — more rack toms, an added 18" floor tom, and the same double 22"x18" bass drum foundation that had powered *Scenes from a Memory*. This was the most complete expression of Portnoy's "maximal" kit philosophy.
+
+The Starclassic Maple shell construction, with its warm, resonant tone, might seem counterintuitive for an album aimed at Metallica-level heaviness. But Portnoy understood that maple's fullness and sustain creates a different kind of heavy than birch's punchy attack — it's heavy the way a freight train is heavy, with mass and momentum rather than snap. The result is a drum sound on *Train of Thought* that feels physically dense, as though the toms are physically displacing air.
+
+The expanded tom array gave Portnoy the ability to execute the sweeping, multi-drum cascades that characterize the album's most aggressive passages. "In the Name of God," the album's 24-minute closer, uses the full kit range across its extended instrumental sequences — the additional drums weren't decoration, they were architectural.
+
+The Star-Cast mounting system ensured that each drum in the expanded configuration could breathe freely, with no shell contact dampening the maple's natural resonance. Even with 13 drums mounted, each piece retained its individual voice.`,
+      notes: [
+        'Largest kit configuration of the Portnoy Dream Theater era to this point (~13 drums)',
+        'Double 22"x18" bass drums maintained from the Scenes from a Memory era',
+        'Added 18" floor tom for additional low-end range',
+        'Fifth rack tom expanded the cascade fill vocabulary',
+        'Starclassic Maple provided mass and weight suited to the heaviest DT album'
+      ],
+      estimatedValue: '$5,500-8,000 (2003) / $6,000-11,000 (vintage today)'
+    },
+    snare: {
+      title: 'Snare for the Heaviest DT Album',
+      brand: 'Tama',
+      model: 'Tama Starclassic Maple Snare',
+      size: '14" x 6.5"',
+      shell: 'Maple',
+      description: `For the *Train of Thought* sessions, Mike Portnoy continued with a maple snare from the Starclassic series — matching the tonal profile of the expanded kit while tuned for more aggressive attack than the concept-album sensitivity of *Scenes from a Memory*.
+
+The 6.5" depth provided the body and crack needed to cut through Dream Theater's heaviest guitar tones. Where the SFaM era prioritized ghost-note sensitivity and dynamic nuance, *Train of Thought* demanded a snare that could deliver authoritative, Bonham-level backbeats — the kind that anchor "As I Am" and "This Dying Soul" to their Metallica-influenced grooves.
+
+Engineer Doug Oberkircher captured the snare with a close-mic batter-head approach that emphasized attack, consistent with the album's overall production aesthetic of directness over ambience. The snare sits high in the mix on *Train of Thought* — a deliberate departure from the more blended, atmospheric drum sound of the previous record.
+
+Tuned higher and tighter than the SFaM configuration, the snare on *Train of Thought* cuts with more authority, matching the album's heavier playing context without losing the stick sensitivity Portnoy needed for his intricate cross-stick and ghost-note passages within the progressive sections.`,
+      tuningSetting: 'Medium-high tension for aggressive crack with retained sensitivity',
+      heads: 'Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$400-600 (2003) / $500-800 (vintage today)'
+    },
+    cymbals: {
+      title: 'The Sabian AAX Setup: Brighter, More Aggressive',
+      brand: 'Sabian',
+      series: 'Sabian AAX / AA Series',
+      setup: [
+        { type: 'Hi-Hats', model: 'Sabian AAX 14" Hi-Hats', position: 'Left side', notes: 'Bright, cutting hi-hats suited to aggressive playing' },
+        { type: 'Crash', model: 'Sabian AA 16" Medium Crash', position: 'Left of hi-hats', notes: 'Fast, bright crash for quick accents' },
+        { type: 'Crash', model: 'Sabian AAX 17" Stage Crash', position: 'Left of rack toms', notes: 'Primary crash position — high-volume, bright response' },
+        { type: 'Crash', model: 'Sabian AAX 18" Stage Crash', position: 'Right of rack toms', notes: 'Larger crash for climactic hits' },
+        { type: 'Crash', model: 'Sabian AAX 19" Stage Crash', position: 'Far right of toms', notes: 'Full, sustained crash for section endings' },
+        { type: 'Ride', model: 'Sabian AAX 21" Raw Bell Ride', position: 'Far right', notes: 'Defined bell for riding, bright bow for crash-riding' },
+        { type: 'China', model: 'Sabian AAX 18" Chinese', position: 'Above left floor tom', notes: 'Aggressive, cutting china for heavy accents' },
+        { type: 'Splash', model: 'Sabian AAX 10" Splash', position: 'Above rack toms', notes: 'Fast accent capability' }
+      ],
+      description: `The shift from Sabian Artisan to Sabian AAX for the *Train of Thought* sessions was one of the most consequential gear changes Portnoy made in this period. The Artisan series — with its dark, complex, hand-hammered voice — had served the meditative emotional depth of *Metropolis Pt. 2* perfectly. But *Train of Thought* needed something fundamentally different: brightness, projection, and aggressive response.
+
+The AAX series delivered exactly that. Machine-hammered with a brilliant finish, AAX cymbals produce a bright, cutting sound with fast response and high-volume capability. Where the Artisan cymbals whispered and swelled, the AAX stage crashes explode on contact. For an album where the entire goal was maximizing heaviness, this was the right tool.
+
+The AAX Stage Crash series — deployed at 17", 18", and 19" across the kit — provided the aggressive accent capability that tracks like "As I Am" and "Honor Thy Father" demanded. Each crash responds instantly and decays quickly enough not to blur the dense riffing underneath. The Sabian AA 16" crash (from the non-AAX but closely related AA line) added a slightly warmer small crash option for transitional passages.
+
+The AAX Raw Bell Ride's defined bell cut through the album's dense low-midrange density, providing clear rhythmic delineation during the extended instrumental passages of "In the Name of God" and "Endless Sacrifice."
+
+The AAX Chinese cymbal — noticeably more aggressive than the HH Chinese of the SFaM era — matched the Pantera-influenced heaviness of the album's most brutal passages. Its trashy, cutting decay was well-suited to the downtuned, syncopated riffing that Dream Theater deployed across the record.`,
+      estimatedValue: '$2,200-2,900 total (2003 Sabian AAX setup)'
+    },
+    hardware: {
+      title: 'Pearl Eliminator Pedals and Hardware',
+      items: [
+        {
+          type: 'Bass Drum Pedal',
+          brand: 'Pearl',
+          model: 'Pearl Eliminator Double Pedal',
+          notes: 'Pearl Eliminator — primary endorsement this era, replacing the DW 5000',
+          description: "For *Train of Thought*, Mike Portnoy had transitioned from DW 5000 double pedals to the Pearl Eliminator — one of the most technically advanced double pedal systems available in the early 2000s. The Eliminator's multi-cam system (interchangeable cams for different response curves) gave Portnoy the ability to fine-tune his pedal feel to match the album's demanding double-bass requirements. The heavier, more aggressive playing style on *Train of Thought* demanded a pedal that could keep pace with relentless machine-gun patterns — and the Eliminator's power-to-weight ratio and adjustable tension made it ideal for this purpose."
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Tama',
+          model: 'Tama Iron Cobra Hi-Hat Stand',
+          notes: 'Heavy-duty hi-hat stand for stable performance under aggressive playing'
+        },
+        {
+          type: 'Rack System',
+          brand: 'Tama',
+          model: 'Tama Power Tower Rack',
+          notes: 'Expandable rack system — essential for mounting the expanded ~13-drum configuration'
+        },
+        {
+          type: 'Throne',
+          brand: 'Tama',
+          model: 'Tama 1st Chair',
+          notes: 'High-support throne for the physically demanding sessions'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth Mike Portnoy Signature',
+          notes: "Portnoy's signature stick — heavier spec for increased power on the heaviest DT album"
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke 3 Clear (batter), Remo Fiberskyn (front)',
+        toms: 'Remo Ambassador Coated (batter), Remo Ambassador Clear (resonant)',
+        snare: 'Remo Ambassador Coated'
+      }
+    },
+    recordingTechniques: {
+      title: 'Avatar Studios: Capturing the Heaviest DT Album',
+      content: `Recording *Train of Thought* at Avatar Studios in New York — formerly The Power Station, one of the most storied recording rooms in American music history — gave Dream Theater access to a large-format tracking room capable of capturing the full weight of Portnoy's expanded kit. The room's live, natural acoustic character contributed significantly to the album's raw, heavy sound.
+
+**Self-Production Philosophy:**
+Dream Theater self-produced *Train of Thought* alongside John Petrucci, working with engineer Doug Oberkircher. Self-production gave the band total control over the drum sound — and they used it to push for maximum heaviness without the softening instincts an outside producer might have applied. The decision to make the album "the heaviest thing we've ever done" (Portnoy's description in contemporary interviews) was built into the production approach from day one.
+
+**Metallica/Pantera-Influenced Technique:**
+Before entering the studio, the band deliberately immersed themselves in Metallica's *Master of Puppets* and Pantera's *Vulgar Display of Power* — the definitive documents of heavy metal drumming aggression. Portnoy absorbed the physics of Lars Ulrich's machine-like consistency and Vinnie Paul's sheer physical power, then applied both to the progressive structures that Dream Theater couldn't abandon even in their heaviest mode.
+
+**Microphone Setup:**
+- Kick drums: Two-mic setup per kick — close dynamic plus tunnel condenser
+- Snare: Shure SM57 top, secondary mic bottom for snare wire character
+- Toms: Dynamic close-mics on each of the 13 drums, minimal bleed
+- Hi-hat: Small-diaphragm condenser for articulation detail
+- Overheads: Stereo condenser pair in ORTF configuration
+- Room: Minimal room mics relative to the SFaM sessions — drier, more focused sound
+
+**Double Bass Programming:**
+The double bass work on *Train of Thought* is the most consistently demanding of Portnoy's DT discography. Tracks like "This Dying Soul" and "In the Name of God" deploy extended double-bass patterns at high velocity that would challenge any drummer. The Pearl Eliminator pedals, with their adjustable response curves, were critical to maintaining consistency across the full 75-minute album.`,
+      keyTechniques: [
+        "Self-produced alongside Petrucci — full creative control over drum sound direction",
+        'Deliberate Metallica/Pantera influence: Lars-style consistency + Vinnie Paul physical power',
+        'Drier, tighter drum sound compared to the room-aware SFaM sessions',
+        'Pearl Eliminator pedals tuned for sustained high-velocity double bass patterns',
+        'Largest kit configuration gave full tom-cascade range for extended instrumental passages'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'As I Am',
+        bpm: '156',
+        signature: '4/4',
+        highlights: [
+          'Album opener — most direct Dream Theater track since Images and Words',
+          'Metallica-influenced main riff groove: power and simplicity',
+          'Portnoy drives with a stripped-back, authoritative approach',
+          'Demonstrates how much impact comes from restraint within a heavy framework'
+        ],
+        gearNotes: 'Pearl Eliminator double pedal locks in the verse double-bass pattern. AAX Stage Crashes accent each chorus entry with aggressive, quick response.'
+      },
+      {
+        track: 'This Dying Soul',
+        bpm: '148',
+        signature: '4/4 with prog interpolations',
+        highlights: [
+          'Extended track with personal lyrical themes (Portnoy addressing his relationship with his father)',
+          'Some of the album\'s most intense double-bass passages',
+          'Progressive time-signature sections within a generally heavy framework',
+          'Builds to a cathartic, high-velocity climax'
+        ],
+        gearNotes: 'The 22"x18" bass drums deliver the low-end mass needed for the high-velocity patterns. AAX Chinese cymbal punctuates the most aggressive transitions.'
+      },
+      {
+        track: 'Endless Sacrifice',
+        bpm: '140',
+        signature: '4/4 / 7/8 alternating sections',
+        highlights: [
+          'Features some of the album\'s most complex rhythmic interplay',
+          'Extended instrumental section showcases the expanded kit range',
+          'Tom cascades across the full 13-drum setup',
+          "One of Portnoy's strongest compositional drum performances on the record"
+        ],
+        gearNotes: "The expanded 13-drum kit earns its keep in the instrumental section's sweeping tom lines. Star-Cast mounting preserves resonance across the full tom range."
+      },
+      {
+        track: 'Honor Thy Father',
+        bpm: '132',
+        signature: '4/4',
+        highlights: [
+          'Heaviest, most Pantera-influenced track on the album',
+          'Portnoy at his most physically aggressive',
+          'Down-tuned, syncopated groove requires Vinnie Paul-level commitment',
+          'Contains some of the hardest-hitting drum passages in the Dream Theater catalog'
+        ],
+        gearNotes: 'Heavier-tuned snare delivers the authoritative crack needed for the groove. AAX Stage Crashes respond instantly at the highest playing dynamics.'
+      },
+      {
+        track: 'In the Name of God',
+        bpm: 'Varies dramatically',
+        signature: 'Multiple — extended progressive sections',
+        highlights: [
+          'Album closer at over 24 minutes — the longest Dream Theater studio track at that time',
+          'Requires the full range of the 13-drum expanded configuration',
+          "Showcases Portnoy's ability to sustain intensity across an ultra-long form",
+          'Ends the album at maximum scale after 75 minutes of accumulated heaviness'
+        ],
+        gearNotes: "Every drum in the expanded setup appears across the track's 24 minutes. Pearl Eliminator sustains high-velocity double-bass patterns across extended passages without fatigue-induced drift."
+      }
+    ],
+    techniques: {
+      title: "Portnoy's Heavy Pivot: The Train of Thought Techniques",
+      content: `*Train of Thought* required Mike Portnoy to apply his progressive metal technique to a fundamentally different playing philosophy — one driven by physical heaviness rather than compositional complexity. The techniques showcased across the album represent a deliberate recalibration toward the end of the power spectrum.
+
+**Metallica-Influenced Consistency:**
+Lars Ulrich's great contribution to heavy metal drumming was the demonstration that machine-like consistency — the same pattern executed identically for four minutes — could be as powerful as technical complexity. Portnoy absorbed this lesson for *Train of Thought*, deploying extended grooves with unwavering commitment. "As I Am" is the prime example: it doesn't need complexity to be devastating.
+
+**Vinnie Paul's Physical Power:**
+From Pantera's percussionist, Portnoy took the lesson of playing at maximum physical intensity — hitting through the drums rather than to them. The snare on *Train of Thought* sounds like it's been struck with conviction rather than precision, even when the playing is technically exact. This distinction — power over finesse without sacrificing accuracy — was the key adjustment from the SFaM playing style.
+
+**Sustained Double Bass at Velocity:**
+The Pearl Eliminator's multi-cam system allowed Portnoy to calibrate his pedal feel for extended high-velocity passages. "This Dying Soul" and "In the Name of God" both deploy double-bass patterns that last longer than anything on previous DT albums. Sustaining this intensity across a 75-minute recording session required both physical conditioning and pedal optimization.
+
+**Progressive Heaviness — Not Either/Or:**
+Despite the heavy pivot, *Train of Thought* doesn't abandon progressive time signatures — it just puts them in a heavier container. The 7/8 sections of "Endless Sacrifice" still require internalized odd-time fluency. The album proves that Metallica-level heaviness and Portnoy-level progressive complexity are not mutually exclusive. The combination is uniquely Dream Theater.
+
+**Expanded Kit as Compositional Resource:**
+The additional drums in the expanded setup weren't cosmetic. The 18" floor tom adds low-end tom weight for the heaviest passages. The fifth rack tom extends the cascade range. Portnoy used the full range compositionally — each drum appeared in deliberate musical context rather than as random visual excess.`,
+      keyTechniques: [
+        'Lars Ulrich-influenced machine consistency: power through repetition, not complexity',
+        "Vinnie Paul's physical authority: striking through the drums at maximum conviction",
+        'Pearl Eliminator multi-cam system calibrated for sustained high-velocity double bass',
+        'Progressive time signatures embedded within a heavy context — not either/or',
+        'Expanded 13-drum setup used compositionally across the album\'s extended passages'
+      ]
+    },
+    faq: [
+      {
+        question: 'What drum kit did Mike Portnoy use on Train of Thought?',
+        answer: "Mike Portnoy recorded Train of Thought (2003) on an expanded Tama Starclassic Maple kit — approximately 13 drums, including double 22\"x18\" bass drums, five rack toms (8\", 10\", 12\", 13\", 14\"), and three floor toms (14\", 16\", 18\"). This was the largest kit configuration of his Dream Theater career to that point, reflecting the album's maximal, heaviest-possible aesthetic. The Starclassic Maple's warm, resonant tone provided mass and physical weight suited to DT's most metal-influenced record. For more on his gear history, see the [Mike Portnoy drummer profile](/drummer/mike-portnoy)."
+      },
+      {
+        question: 'What cymbals did Mike Portnoy use on Train of Thought?',
+        answer: "For Train of Thought, Portnoy used Sabian AAX and AA cymbals — a significant shift from the darker, hand-hammered Sabian Artisan series he had used on Metropolis Pt. 2: Scenes from a Memory. His setup included Sabian AAX 14\" hi-hats, AAX Stage Crashes at 17\", 18\", and 19\", an AA 16\" crash, an AAX 21\" Raw Bell Ride, and an AAX 18\" Chinese cymbal. The AAX series — brighter and more aggressively voiced than the Artisan line — matched the album's deliberate Metallica/Pantera-influenced heaviness. See the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup) for the Artisan-era cymbal comparison."
+      },
+      {
+        question: 'Why is Train of Thought Dream Theater\'s heaviest album?',
+        answer: "Train of Thought is Dream Theater's heaviest album by deliberate design. Before recording, the band immersed themselves in Metallica's Master of Puppets and Pantera's Vulgar Display of Power, choosing to apply that level of heaviness to their progressive structures. It was also their first Roadrunner Records album — a label synonymous with extreme metal — and they wanted to match the label's aesthetic while staying true to their prog identity. Mike Portnoy's expanded 13-drum kit, Pearl Eliminator pedals, and Sabian AAX cymbals were all selected to support the heavier playing style. The album abandoned the orchestral complexity of Six Degrees of Inner Turbulence in favor of direct, aggressive, riff-driven heaviness."
+      },
+      {
+        question: 'What pedals did Mike Portnoy use on Train of Thought?',
+        answer: "For Train of Thought, Mike Portnoy used Pearl Eliminator double pedals — his primary endorsement during this era, replacing the DW 5000 pedals he had used on Scenes from a Memory. The Pearl Eliminator features an interchangeable multi-cam system that allows drummers to adjust the response curve and power-to-stroke ratio. This tunability was critical for sustaining the album's high-velocity double-bass patterns across tracks like 'This Dying Soul' and 'In the Name of God' (which runs over 24 minutes). The Eliminator's power and adjustability made it well-suited to the heaviest double-bass demands of Portnoy's Dream Theater career."
+      },
+      {
+        question: 'How does the Train of Thought drum setup differ from Scenes from a Memory?',
+        answer: "The two setups reflect fundamentally different albums. Key differences: (1) Kit size — Train of Thought expanded to ~13 drums vs. Scenes from a Memory's 8-drum configuration; (2) Cymbals — Sabian AAX (bright, aggressive) vs. Sabian Artisan (dark, hand-hammered, warm); (3) Pedals — Pearl Eliminator (multi-cam, power-focused) vs. DW 5000 (chain-drive, smooth); (4) Playing philosophy — Metallica/Pantera-influenced maximum heaviness vs. narrative-serving concept-album dynamics. The Starclassic Maple shell platform was shared between both eras, but everything built on top of it shifted dramatically. See the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup) for the full SFaM breakdown."
+      }
+    ],
+    quotes: [
+      { text: "Train of Thought was us saying: how heavy can we actually go? And then going there, completely, with no apologies.", source: 'Modern Drummer Magazine', year: 2004 },
+      { text: "I listened to nothing but Metallica and Pantera for months before we went into the studio. I wanted that brutality in my arms when I played.", source: 'Rhythm Magazine', year: 2004 },
+      { text: "The expanded kit on that tour was the biggest I'd ever played. Every drum was there for a reason — we used all of them.", source: 'Drum! Magazine', year: 2004 }
+    ],
+    evolution: {
+      title: "From Train of Thought to What Came Next: Portnoy's Progression",
+      content: `*Train of Thought* represents the apex of Mike Portnoy's maximal, heavy phase with Dream Theater. The Pearl Eliminator endorsement, expanded Starclassic Maple kit, and Sabian AAX configuration defined this specific moment in his gear history.
+
+**After Train of Thought:**
+Dream Theater followed *Train of Thought* with *Octavarium* (2005) — a deliberate pendulum swing back toward melody and prog complexity, completing an arc from *Scenes from a Memory* through *Six Degrees* and *Train of Thought* to a more balanced statement. Portnoy's setup evolved again for that record, adjusting back toward the more nuanced dynamics that the prog context demanded.
+
+**The Pearl Eliminator Legacy:**
+The Pearl Eliminator pedals introduced during the *Train of Thought* cycle represented a significant chapter in Portnoy's pedal history. Coming after the DW 5000 of the SFaM era, the Eliminator brought a different mechanical philosophy — more adjustable, more power-focused — that matched the album's needs precisely.
+
+**Looking Back at Scenes from a Memory:**
+The contrast between the Sabian Artisan / DW 5000 / 8-drum configuration of *Scenes from a Memory* (1999) and the Sabian AAX / Pearl Eliminator / 13-drum setup of *Train of Thought* (2003) illustrates the full range of Mike Portnoy's gear vocabulary. Both setups were optimal for their albums — the changes were always driven by musical context. See the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup) for the 1999 breakdown.
+
+**Mike Mangini and the Next Chapter:**
+Mike Portnoy left Dream Theater in September 2010. Mike Mangini joined in April 2011, bringing Pearl Masterworks shells and Meinl Byzance cymbals — a complete departure from everything in the Portnoy era. See the [A Dramatic Turn of Events drum setup article](/articles/a-dramatic-turn-of-events-drum-setup) for the Mangini era breakdown.`,
+      thenVsNow: [
+        { category: 'Kit', then: 'Tama Starclassic Maple (~13 drums)', now: 'Tama Starclassic Bubinga / Maple (various)' },
+        { category: 'Snare', then: 'Tama Starclassic Maple 14"x6.5"', now: 'Tama Mike Portnoy Signature' },
+        { category: 'Cymbals', then: 'Sabian AAX / AA Series', now: 'Sabian (various signature models)' },
+        { category: 'Pedals', then: 'Pearl Eliminator Double Pedal', now: 'DW 9002 Double Pedal' },
+        { category: 'Sticks', then: 'Vic Firth Mike Portnoy Signature', now: 'Vic Firth Mike Portnoy Signature' }
+      ]
+    },
+    videos: [],
+    relatedAlbums: ['scenes-from-a-memory-drum-setup', 'images-and-words-drum-setup'],
+    relatedDrummers: [14, 5, 1],
+    relatedArticles: ['progressive-metal-drummers', 'whats-in-mike-portnoys-kit'],
+    relatedLicks: [
+      { drummerSlug: 'mike-portnoy', lickSlug: 'mike-portnoy-dance-of-eternity-breakdown', label: "Watch Mike Portnoy's 'Dance of Eternity' breakdown" },
+    ],
+    conclusion: {
+      title: "The Heavy Chapter: Why Train of Thought Still Matters",
+      content: `*Train of Thought* is the Dream Theater album that fans who came for the heaviness never wanted to end — and the one that surprised listeners who thought they knew exactly what Dream Theater was. It's a record that demonstrates something important: progressive complexity and maximum heaviness are not opposites. They can coexist, and when they do, the result is unique.
+
+Mike Portnoy's contribution was central. The expanded 13-drum Starclassic Maple kit, Sabian AAX cymbals, and Pearl Eliminator pedals weren't just gear choices — they were a statement of intent. He was prepared to play the heaviest music of his career with the most powerful setup he'd ever assembled.
+
+**For drummers studying this album:**
+- The Metallica/Pantera influence teaches that heaviness is about conviction and consistency, not just speed
+- The Pearl Eliminator's adjustability demonstrates that pedal tuning is as important as pedal brand
+- Extended double-bass passages require physical conditioning — the body has to sustain what the mind demands
+- A 13-drum kit is only useful if you know what each drum is for compositionally
+- Maximum heaviness within a progressive framework is harder than either alone
+
+*Train of Thought* turned 20 years old in 2023, and it sounds as brutal and direct as the day it was released. For a band associated primarily with melodic complexity, that longevity is the strongest possible endorsement of the decision to go heavy.
+
+For the progressive-era chapter that preceded this, see the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup). For the full career arc, visit the [Mike Portnoy drummer profile](/drummer/mike-portnoy).`
+    }
+  },
+
   // What's In Mario Duplantier's Environmental Kit - Gojira
   'whats-in-mario-duplantiers-kit': {
     slug: 'whats-in-mario-duplantiers-kit',

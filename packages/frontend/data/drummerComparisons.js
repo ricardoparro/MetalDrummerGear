@@ -482,6 +482,55 @@ export const drummerComparisons = {
     },
     verdict: 'Two different paths to drumming greatness. Joey Jordison brought extreme metal to the masses. Mike Portnoy elevated progressive metal to new heights. Both are essential to understanding modern metal drumming.',
   },
+
+  // Issue #2164: Batch 7 — Prog/Tech Metal Comparisons
+  'brann-dailor-vs-mike-portnoy': {
+    slug: 'brann-dailor-vs-mike-portnoy',
+    title: 'Brann Dailor vs Mike Portnoy',
+    metaTitle: 'Brann Dailor vs Mike Portnoy - Mastodon vs Dream Theater Drummers | MetalForge',
+    metaDescription: 'Mastodon\'s Brann Dailor vs Dream Theater\'s Mike Portnoy. Two iconic American progressive drummers — texture-as-fills vs technique-as-spectacle. Gear, style, and legacy compared.',
+    category: 'progressive',
+    drummers: ['brann-dailor', 'mike-portnoy'],
+    comparison: {
+      style: 'Brann Dailor uses drumming as a melodic texture, weaving flowing fills and jazz-influenced patterns into Mastodon\'s sludge metal. Mike Portnoy delivers technique-as-spectacle progressive metal with theatrical fills and dramatic arrangement complexity.',
+      technique: 'Brann\'s constant motion style treats fills as melodic lines, blending jazz vocabulary with heavy metal energy. Mike masters rapid-fire transitions, complex time signatures, and endurance across marathon compositions on his massive multi-bass drum kit.',
+      gear: 'Brann plays Tama Starclassic Performer B/B with Meinl Byzance cymbals and Vater 5B sticks. Mike uses Tama Starclassic Maple/Birch with Sabian HHX cymbals on his iconic multi-bass-drum signature setup.',
+      influence: 'Brann helped define progressive sludge metal and influenced a generation of drummers who treat fills as melodic statements rather than technical showcases. Mike co-founded Dream Theater and shaped 1990s progressive metal through instructional DVDs and YouTube presence.',
+    },
+    verdict: 'Brann Dailor represents the organic, melody-driven approach to progressive metal drumming — his fills are the song. Mike Portnoy represents the theatrical, technically overpowering approach — his fills are the spectacle. Both are quintessentially American visions of what progressive metal drumming can be.',
+  },
+
+  'danny-carey-vs-gavin-harrison': {
+    slug: 'danny-carey-vs-gavin-harrison',
+    title: 'Danny Carey vs Gavin Harrison',
+    metaTitle: 'Danny Carey vs Gavin Harrison - Tool vs Porcupine Tree Drummers | MetalForge',
+    metaDescription: 'Tool\'s Danny Carey vs Porcupine Tree\'s Gavin Harrison. Math rock meets progressive rock — two of the deepest technical vocabularies in metal drumming compared.',
+    category: 'progressive',
+    drummers: ['danny-carey', 'gavin-harrison'],
+    comparison: {
+      style: 'Danny Carey creates hypnotic, spiritually charged progressive metal with polyrhythmic patterns built on Fibonacci sequences and sacred geometry. Gavin Harrison constructs intricate progressive rock grooves with masterful ghost notes and odd-time navigation that rewards close listening.',
+      technique: 'Danny integrates Mandala electronic pads with acoustic drumming, using mathematical structures to build Tool\'s labyrinthine compositions. Gavin weaves polyrhythmic patterns through complex odd time signatures with restrained sophistication, prioritizing groove and musicality over spectacle.',
+      gear: 'Danny plays Sonor SQ2 Heavy Beech drums with Paiste Signature cymbals and custom Mandala pads. Gavin uses Sonor SQ2 Series drums with Paiste Signature & 2002 cymbals — both sharing a Sonor/Paiste foundation with different approaches.',
+      influence: 'Danny defined Tool\'s unique sonic universe and influenced an entire generation of prog drummers toward mathematical, spiritual approaches. Gavin elevated Porcupine Tree, King Crimson, and The Pineapple Thief with multiple Modern Drummer award wins and a reputation as the prog drummer\'s drummer.',
+    },
+    verdict: 'Danny Carey is the shaman-mathematician who turned Tool\'s albums into percussive spiritual experiences. Gavin Harrison is the craftsman-musician who makes impossible polyrhythms feel like conversation. Both own the deepest technical vocabularies in progressive drumming — Danny\'s draws from sacred geometry, Gavin\'s from decades of refined musicality.',
+  },
+
+  'mario-duplantier-vs-george-kollias': {
+    slug: 'mario-duplantier-vs-george-kollias',
+    title: 'Mario Duplantier vs George Kollias',
+    metaTitle: 'Mario Duplantier vs George Kollias - Modern Extreme Metal Drumming | MetalForge',
+    metaDescription: 'Gojira\'s Mario Duplantier vs Nile\'s George Kollias. Eco-metal atmospheric power vs ancient Egyptian death metal speed. Two modern extreme metal drumming giants compared.',
+    category: 'extreme',
+    drummers: ['mario-duplantier', 'george-kollias'],
+    comparison: {
+      style: 'Mario Duplantier combines tribal, atmospheric drumming with progressive death metal for Gojira\'s "environmental metal" sound. George Kollias delivers relentless ancient-Egyptian-themed technical brutality with Nile, sustaining extreme blast beats at speeds that redefine human limits.',
+      technique: 'Mario uses tribal power, explosive accents, and stamina-driven endurance across Gojira\'s massive, atmospheric compositions. George employs heel-toe technique for sustained blast beats at 280+ BPM, combining mechanical precision with technical death metal complexity.',
+      gear: 'Mario endorses Tama Starclassic Bubinga drums with Zildjian K Sweet and A Custom cymbals and Tama signature sticks. George plays Pearl Reference drums with Pearl Demon Drive pedals specifically engineered for extreme-tempo double bass.',
+      influence: 'Mario pioneered the environmental metal drumming style and influences modern prog-death drummers worldwide, with 20%+ organic search CTR on Gojira-related queries. George raised the ceiling for technical death metal speed and precision, inspiring a generation of extreme drummers.',
+    },
+    verdict: 'Mario Duplantier brings atmospheric, eco-conscious tribal power to extreme metal — his drumming breathes with the music. George Kollias brings ancient-world ferocity and machine-like speed to death metal — his drumming overwhelms with precision. Both are the defining modern voices of extreme metal drumming, each operating at the peak of their chosen approach.',
+  },
 };
 
 /**

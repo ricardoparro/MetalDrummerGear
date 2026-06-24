@@ -353,7 +353,7 @@ export const gearComparisons = {
     title: 'Zildjian vs Sabian Cymbals',
     metaTitle: 'Zildjian vs Sabian Cymbals for Metal - Complete Comparison Guide | MetalForge',
     metaDescription: 'The ultimate Zildjian vs Sabian comparison for metal drummers. A/K series vs AAX/HHX, sound profiles, durability, pricing, and which cymbals top metal drummers actually use.',
-    ogImage: '/images/gear/zildjian-vs-sabian-metal.webp',
+    ogImage: 'https://upload.wikimedia.org/wikipedia/commons/4/43/Zildjian_Quick_Beat_Hi_Hat_15.jpg',
     datePublished: '2026-03-14',
     dateModified: '2026-03-14',
     author: 'MetalForge Editorial',
@@ -363,7 +363,7 @@ export const gearComparisons = {
       {
         brand: 'Zildjian',
         models: ['A Custom', 'K Custom', 'K Series', 'Z Custom'],
-        image: '/images/gear/zildjian-a-custom.webp',
+        image: 'https://upload.wikimedia.org/wikipedia/commons/4/43/Zildjian_Quick_Beat_Hi_Hat_15.jpg',
         priceRange: '€1,500 - €2,500 (full setup)',
         founded: 1623,
         headquarters: 'Norwell, Massachusetts, USA',
@@ -411,7 +411,7 @@ export const gearComparisons = {
       {
         brand: 'Sabian',
         models: ['AAX', 'HHX', 'HH', 'AA'],
-        image: '/images/gear/sabian-hhx.webp',
+        image: 'https://upload.wikimedia.org/wikipedia/commons/8/8f/Avedis_Zildjian_Cymbal.jpg',
         priceRange: '€1,400 - €2,300 (full setup)',
         founded: 1981,
         headquarters: 'Meductic, New Brunswick, Canada',

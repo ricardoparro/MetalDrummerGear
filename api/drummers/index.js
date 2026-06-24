@@ -12,6 +12,7 @@ const drummers = [
     country: 'Denmark',
     image: '/images/drummers/lars-ulrich.webp',
     bio: 'Lars Ulrich is a Danish musician and co-founder of Metallica, one of the most influential thrash metal bands in history. Born in 1963, he moved to Los Angeles to pursue his drumming career and formed Metallica with James Hetfield in 1981. Known for his aggressive style and iconic drum fills, Lars has been instrumental in shaping the sound of heavy metal.',
+    kitOverview: 'Lars Ulrich plays a Tama Starclassic Maple kit with his signature LU1465 snare (14x6.5"), topped with Zildjian A Custom cymbals — including 14" Dyno Beat Hi-Hats, 16"/17"/18" Rock Crashes, 20" Z Custom China, and a 22" Ride. His Tama Iron Cobra 900 Power Glide double pedal drives the thunderous low-end that has powered Metallica albums from the Black Album through 72 Seasons.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Lars_Ulrich',
       'https://www.instagram.com/larsulrich/',
@@ -145,6 +146,7 @@ const drummers = [
     country: 'USA',
     image: '/images/drummers/joey-jordison.webp',
     bio: 'Joey Jordison (1975-2021) was an American musician best known as the original drummer of Slipknot. His blistering speed, technical precision, and theatrical stage presence made him one of the most influential metal drummers of his generation. He also played guitar for Murderdolls and drums for various other projects.',
+    kitOverview: 'Joey Jordison built his legendary Slipknot sound on a Tama Starclassic Performer kit configured with a 22" bass drum and 12", 13", and 16" toms, paired with his signature Pearl 13x6.5" snare. His Paiste RUDE and 2002 Series cymbals — Wild Hi-Hats, Power Crashes, and Wild China cymbals — gave him the aggressive cut needed for the Iowa era\'s brutal performances. Axis A Longboard double pedals powered his extreme double kick technique on Slipknot\'s rotating drum riser.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Joey_Jordison',
       'https://www.discogs.com/artist/355738-Joey-Jordison',
@@ -306,6 +308,7 @@ const drummers = [
     country: 'USA',
     image: '/images/drummers/gene-hoglan.webp',
     bio: 'Gene Hoglan, nicknamed "The Atomic Clock" for his precise timing, is one of the most respected drummers in extreme metal. Born in 1967, he has played with Death, Dark Angel, Testament, Strapping Young Lad, Fear Factory, and Dethklok. His combination of speed, power, and musicality has influenced countless metal drummers.',
+    kitOverview: 'Gene "The Atomic Clock" Hoglan plays a Pearl Reference Pure kit with a Pearl Reference Brass snare (14x6.5"), backed by Sabian AAX cymbals — 15" Hi-Hats, 18" and 20" Crashes, a 22" Ride, and a 20" China. Pearl Demon Drive double pedals fuel his metronomic precision across death and thrash metal projects including Death, Testament, and Dethklok.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Gene_Hoglan',
       'https://www.instagram.com/gene_hoglan/',
@@ -424,6 +427,7 @@ const drummers = [
     country: 'Cuba/USA',
     image: '/images/drummers/dave-lombardo.webp',
     bio: 'Dave Lombardo, born in Cuba in 1965, is widely regarded as one of the greatest drummers in metal history. As the original drummer of Slayer, he pioneered the double bass drumming style that defined thrash metal. His work on albums like "Reign in Blood" is considered groundbreaking. He has also played with Fantomas, Suicidal Tendencies, and Dead Cross.',
+    kitOverview: 'Dave Lombardo plays a Tama Starclassic Maple kit with his Tama S.L.P. G-Maple snare (14x6.5"), paired with Paiste RUDE and 2002 Series cymbals — 15" Sound Edge Hi-Hats, 18" and 19" Crashes, a 22" Reign Power Ride, and an 18" China. His Tama Iron Cobra 900 double pedal delivers the ferocious double kick patterns that redefined thrash metal on Slayer\'s Reign in Blood and South of Heaven.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Dave_Lombardo',
       'https://www.instagram.com/davelombardo/',
@@ -542,6 +546,7 @@ const drummers = [
     country: 'Sweden',
     image: '/images/drummers/tomas-haake.webp',
     bio: 'Tomas Haake, born in 1971, is the drummer and primary lyricist for Swedish extreme metal band Meshuggah. His polyrhythmic drumming style, characterized by complex time signatures and intricate patterns, has been hugely influential in the development of djent and progressive metal. He is known for his metronomic precision and innovative approach.',
+    kitOverview: 'Tomas Haake plays a Sonor SQ2 Heavy Beech kit with a massive 24x18" bass drum, 10", 12", 13", 16", and 18" toms, and dual Sonor Signature snares (14x6.5"). His Sabian HHX and AAX cymbals — 14" HHX Compression Hi-Hats, multiple Stage Crashes, a 22" Legacy Ride, and an AAXtreme China — support Meshuggah\'s intricate polyrhythmic compositions. Notably, Haake uses two independent single pedals rather than a double pedal for greater foot independence.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Tomas_Haake',
       'https://www.discogs.com/artist/281578-Tomas-Haake',
@@ -661,6 +666,7 @@ const drummers = [
     country: 'Greece',
     image: '/images/drummers/george-kollias.webp',
     bio: 'George Kollias, born in 1977, is a Greek drummer known for his extreme speed and technical proficiency. As the drummer for Nile since 2004, he has pushed the boundaries of death metal drumming with his incredible blast beats and double bass technique. He is also an educator and has released instructional materials.',
+    kitOverview: 'George Kollias plays a Pearl Masterworks Stadium Exotic kit (Piano Black with Gold Hardware) featuring his co-designed Pearl Demon XR double pedal and signature Pearl 14x6.5" snare. His Zildjian cymbal setup includes 14" K Mastersound Hi-Hats, 17" and 18" K Custom Dark Crashes, a 21" A Custom Mega Bell Ride, and an 18" China — a configuration refined for Nile\'s extreme technical death metal demands since 2004.',
     sameAs: [
       'https://en.wikipedia.org/wiki/George_Kollias_(drummer)',
       'https://www.instagram.com/george_kollias/',
@@ -964,6 +970,7 @@ const drummers = [
     country: 'USA',
     image: '/images/drummers/mike-portnoy.webp',
     bio: 'Mike Portnoy, born in 1967 in Long Beach, New York, is one of the most influential progressive metal drummers of all time. He co-founded Dream Theater in 1985 and was the band\'s drummer and lyricist for 25 years, helping define the progressive metal genre. A recipient of over 30 Drummer of the Year awards from Modern Drummer magazine, Portnoy is known for his technical proficiency, complex time signatures, and theatrical live performances. After leaving Dream Theater in 2010, he has played with numerous projects including Avenged Sevenfold, Adrenaline Mob, The Winery Dogs, Flying Colors, Sons of Apollo, and Liquid Tension Experiment. In 2023, he rejoined Dream Theater for their reunion tour. His drumming style combines jazz fusion influences with heavy metal power, featuring intricate double bass patterns and creative use of electronics.',
+    kitOverview: 'Mike Portnoy plays a Tama Starclassic Maple/Birch kit anchored by his signature Melody Master snare (14x5.5"), with Sabian HHX Evolution cymbals including 14" Evolution Hi-Hats, 18" and 19" Evolution Crashes, a 21" Raw Bell Dry Ride, and Evolution Splashes. His Tama Iron Cobra Power Glide double pedal and 1st Chair Ergo-Rider throne complete a setup refined over decades of progressive metal innovation with Dream Theater and beyond.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Mike_Portnoy',
       'https://www.instagram.com/mikeportnoycom/',
@@ -1012,6 +1019,7 @@ const drummers = [
     country: 'USA',
     image: '/images/drummers/danny-carey.webp',
     bio: 'Danny Carey, born in 1961 in Lawrence, Kansas, is widely regarded as one of the greatest drummers in rock and metal history. As the drummer for Tool since the band\'s formation in 1990, he has developed a unique style that blends complex polyrhythmic patterns with influences from jazz, world music, and progressive rock. His technical proficiency and creative approach to rhythm have earned him numerous accolades, including being voted the best drummer by readers of Modern Drummer magazine. Carey\'s drumming incorporates unusual time signatures, intricate subdivisions, and the use of electronic percussion. Beyond Tool, he has collaborated with artists like Pigface, Zaum, and Volto! His towering presence behind his massive Sonor kit and his dedication to expanding the boundaries of rock drumming have made him an icon in the drumming community.',
+    kitOverview: 'Danny Carey\'s legendary kit centers on a Sonor SQ2 Heavy Beech shell set with his oversized signature bronze snare (14x8"), complemented by Paiste Signature Series cymbals — 15" Sound Edge Hi-Hats, 18" and 19" Power Crashes, a 22" Dry Heavy Ride, and multiple China cymbals. A Sonor Giant Step Twin Effect double pedal and Mandala Drum electronic pads augment his sacred-geometry-inspired polyrhythmic compositions throughout Tool\'s catalog from Undertow through Fear Inoculum.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Danny_Carey',
       'https://www.instagram.com/dannycareyofficial/',
@@ -1240,6 +1248,7 @@ const drummers = [
     country: 'USA',
     image: '/images/drummers/brann-dailor.webp',
     bio: 'Brann Dailor, born in 1975 in Rochester, New York, is the drummer and vocalist for progressive sludge metal band Mastodon. His drumming style is characterized by complex fills, jazz-influenced patterns, and an almost melodic approach to the drums that sets him apart from traditional metal drummers. Dailor\'s work on albums like "Leviathan," "Blood Mountain," and "Crack the Skye" has earned him widespread acclaim. He began singing lead vocals on Mastodon\'s later albums, adding another dimension to the band\'s sound. His technical proficiency combined with his musical creativity has made him one of the most influential drummers in modern metal.',
+    kitOverview: 'Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare (14x6.5"), topped with Meinl Byzance Series cymbals — 14" Dark Hi-Hats, 18" and 19" Brilliant Heavy Hammered Crashes, a 21" Ghost Ride, and an 18" Extra Dry China. His Tama Speed Cobra double pedal and jazz-influenced approach to fills define Mastodon\'s progressive sludge metal sound across albums like Leviathan and Crack the Skye.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Brann_Dailor',
       'https://www.instagram.com/branndailor/',
@@ -2843,6 +2852,7 @@ const drummers = [
     country: 'USA',
     image: '/images/drummers/mike-mangini.webp',
     bio: 'Mike Mangini (born April 18, 1963) is an American drummer who joined Dream Theater in 2010. A former Berklee College of Music professor, Mangini holds multiple world records for drumming speed. Before Dream Theater, he played with Steve Vai, Extreme, and Annihilator. His technical approach incorporates odd time signatures, complex polyrhythms, and innovative use of hybrid acoustic/electronic setups.',
+    kitOverview: 'Mike Mangini plays a Pearl Reference Series kit with multiple snare options — a 14x5" and 14x6.5" Pearl Reference Brass snare — complemented by Sabian HHX and AAX cymbals including 14" HHX Evolution Hi-Hats, 17"/18"/19" Evolution Crashes, and a 21" HHX Raw Bell Dry Ride. A Roland SPD-SX sampling pad integrates electronics into his hybrid setup, driven by Pearl Demon Drive double pedals — a configuration built for Dream Theater\'s complex progressive metal landscapes.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Mike_Mangini',
       'https://www.discogs.com/artist/257048-Mike-Mangini'

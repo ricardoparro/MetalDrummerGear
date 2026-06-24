@@ -26,6 +26,10 @@ Tomas Haake's drum kit and gear setup. Tomas Haake is a professional metal drumm
 | Signature snare | Sonor Tomas Haake Signature 14x6.5" & Artist Series Bronze |
 | Sticks | Wincent Tomas Haake Signature |
 
+## Kit Overview
+
+Tomas Haake plays a Sonor SQ2 Heavy Beech kit with a massive 24x18" bass drum, 10", 12", 13", 16", and 18" toms, and dual Sonor Signature snares (14x6.5"). His Sabian HHX and AAX cymbals — 14" HHX Compression Hi-Hats, multiple Stage Crashes, a 22" Legacy Ride, and an AAXtreme China — support Meshuggah's intricate polyrhythmic compositions. Notably, Haake uses two independent single pedals rather than a double pedal for greater foot independence.
+
 ## Biography
 
 Tomas Haake, born in 1971, is the drummer and primary lyricist for Swedish extreme metal band Meshuggah. His polyrhythmic drumming style, characterized by complex time signatures and intricate patterns, has been hugely influential in the development of djent and progressive metal. He is known for his metronomic precision and innovative approach.

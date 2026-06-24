@@ -4926,6 +4926,20 @@ function updateDocumentMeta(drummer, drummers = [], filters = {}) {
       }
     ];
 
+    // kitOverview prose FAQ — head-term citation gap (Issue #2212)
+    // LLMs extract from prose paragraphs for "{drummer} drum kit" head-terms;
+    // this FAQ entry provides a structured, citable prose answer.
+    if (drummer.kitOverview) {
+      faqItems.unshift({
+        "@type": "Question",
+        "name": `What drum kit does ${drummer.name} use?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": drummer.kitOverview
+        }
+      });
+    }
+
     // Query-matched FAQ entries for the proven "<drummer> drum kit / drum set" GSC
     // template (Issue #1162). The existing "What drums does..." question never uses
     // the literal "drum kit"/"drum set" phrasing people search, so these verbatim
@@ -6768,6 +6782,16 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
               <Text style={styles.compareWithAnotherButtonText}>View Price History →</Text>
             </TouchableOpacity>
           )}
+        </View>
+      )}
+
+      {/* Kit Overview prose section — LLM head-term citation (Issue #2212) */}
+      {drummer.kitOverview && (
+        <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">
+            Complete Drum Kit Overview
+          </Text>
+          <Text style={[styles.bioText, { color: theme.secondaryText }]}>{drummer.kitOverview}</Text>
         </View>
       )}
 

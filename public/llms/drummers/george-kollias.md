@@ -27,6 +27,10 @@ George Kollias's drum kit and gear setup. George Kollias is a professional metal
 | Signature snare | Pearl George Kollias Signature 14x6.5" |
 | Sticks | Vic Firth George Kollias Signature SGK |
 
+## Kit Overview
+
+George Kollias plays a Pearl Masterworks Stadium Exotic kit (Piano Black with Gold Hardware) featuring his co-designed Pearl Demon XR double pedal and signature Pearl 14x6.5" snare. His Zildjian cymbal setup includes 14" K Mastersound Hi-Hats, 17" and 18" K Custom Dark Crashes, a 21" A Custom Mega Bell Ride, and an 18" China — a configuration refined for Nile's extreme technical death metal demands since 2004.
+
 ## Biography
 
 George Kollias, born in 1977, is a Greek drummer known for his extreme speed and technical proficiency. As the drummer for Nile since 2004, he has pushed the boundaries of death metal drumming with his incredible blast beats and double bass technique. He is also an educator and has released instructional materials.

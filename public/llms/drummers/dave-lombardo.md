@@ -27,6 +27,10 @@ Dave Lombardo's drum kit and gear setup. Dave Lombardo is a professional metal d
 | Signature snare | Tama S.L.P. 14x6.5" G-Maple |
 | Sticks | Promark Dave Lombardo Signature 2Bx |
 
+## Kit Overview
+
+Dave Lombardo plays a Tama Starclassic Maple kit with his Tama S.L.P. G-Maple snare (14x6.5"), paired with Paiste RUDE and 2002 Series cymbals — 15" Sound Edge Hi-Hats, 18" and 19" Crashes, a 22" Reign Power Ride, and an 18" China. His Tama Iron Cobra 900 double pedal delivers the ferocious double kick patterns that redefined thrash metal on Slayer's Reign in Blood and South of Heaven.
+
 ## Biography
 
 Dave Lombardo, born in Cuba in 1965, is widely regarded as one of the greatest drummers in metal history. As the original drummer of Slayer, he pioneered the double bass drumming style that defined thrash metal. His work on albums like "Reign in Blood" is considered groundbreaking. He has also played with Fantomas, Suicidal Tendencies, and Dead Cross.

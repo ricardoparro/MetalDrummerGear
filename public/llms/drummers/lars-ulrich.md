@@ -26,6 +26,10 @@ Lars Ulrich's drum kit and gear setup. Lars Ulrich is a professional metal drumm
 | Signature snare | Tama LU1465 Lars Ulrich Signature 14x6.5" |
 | Sticks | Ahead Lars Ulrich Signature Drumsticks |
 
+## Kit Overview
+
+Lars Ulrich plays a Tama Starclassic Maple kit with his signature LU1465 snare (14x6.5"), topped with Zildjian A Custom cymbals — including 14" Dyno Beat Hi-Hats, 16"/17"/18" Rock Crashes, 20" Z Custom China, and a 22" Ride. His Tama Iron Cobra 900 Power Glide double pedal drives the thunderous low-end that has powered Metallica albums from the Black Album through 72 Seasons.
+
 ## Biography
 
 Lars Ulrich is a Danish musician and co-founder of Metallica, one of the most influential thrash metal bands in history. Born in 1963, he moved to Los Angeles to pursue his drumming career and formed Metallica with James Hetfield in 1981. Known for his aggressive style and iconic drum fills, Lars has been instrumental in shaping the sound of heavy metal.

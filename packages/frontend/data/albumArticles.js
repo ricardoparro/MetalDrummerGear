@@ -11623,6 +11623,317 @@ Thirty-five years after its release, Altars of Madness remains essential listeni
     }
   },
 
+  // Blessed Are the Sick Drum Setup — Pete Sandoval / Morbid Angel (1991)
+  'blessed-are-the-sick-drum-setup': {
+    slug: 'blessed-are-the-sick-drum-setup',
+    albumTitle: 'Blessed Are the Sick',
+    artist: 'Morbid Angel',
+    drummer: 'Pete Sandoval',
+    drummerId: 21,
+    relatedDrummerSlug: 'pete-sandoval',
+    year: 1991,
+    genre: 'Death Metal',
+    label: 'Earache Records',
+    studio: 'Morrisound Recording, Tampa, Florida',
+    producer: 'Tom Morris',
+    isAlbumArticle: true,
+    datePublished: '2026-06-24',
+    dateModified: '2026-06-24',
+    author: 'MetalForge Editorial',
+    title: "Blessed Are the Sick Drum Setup: Pete Sandoval's Egyptian Death Metal Evolution",
+    description: "Complete drum gear breakdown for Morbid Angel's Blessed Are the Sick. Discover Pete Sandoval's 1991 transitional kit, Egyptian-influenced rhythms, and the double bass evolution that bridged Altars of Madness and Covenant.",
+    seoKeywords: ['blessed are the sick drums', 'pete sandoval 1991 drum setup', 'morbid angel 1991 kit', 'pete sandoval double bass evolution', 'morbid angel drum setup history', 'death metal egyptian rhythms drums'],
+    ogImage: '/images/albums/altars-of-madness-drums.webp',
+    intro: {
+      title: 'The Album Where Death Metal Grew Ancient Roots',
+      content: `When Morbid Angel released "Blessed Are the Sick" on May 21, 1991, they did something nobody expected: they slowed down and got stranger. After the relentless fury of "Altars of Madness," Trey Azagthoth and company pulled back the tempo ceiling and let Egyptian musical scales, Middle Eastern modes, and ritualistic atmosphere breathe through the death metal framework.
+
+For Pete Sandoval, this was the pivotal album. Not the fastest. Not the most celebrated. But the record where his double bass mastery moved from raw aggression toward architectural precision — the transition that made "Covenant" (1993) possible.
+
+Recorded again at Morrisound Recording with producer Tom Morris and engineer Scott Burns, "Blessed Are the Sick" found Pete pushing his gear configuration further toward the full double-kick dominance that would define his legend. The Tama kit expanded, the Paiste cymbal selection deepened, and the playing found a new groove-to-blast ratio that matched the album's denser compositional ambitions.
+
+David Vincent's lyrical partnership with Trey Azagthoth reached its lyrical peak here — the "Ancient Ones" mythology, the Egyptian mysticism, the slow-building ceremonial tracks like "Doomsday Celebrations" demanded drumming that could conjure atmosphere as effectively as it could destroy. Pete delivered both.
+
+This article breaks down the gear Pete Sandoval used on "Blessed Are the Sick," explores the techniques that made it the critical bridge between Morbid Angel's debut and their commercial peak, and examines why this transitional album holds a unique place in death metal history.`,
+      keyPoints: [
+        'Second Morbid Angel album — bridges Altars of Madness (1989) and Covenant (1993)',
+        'Egyptian and Middle Eastern musical influences created new rhythmic demands',
+        'Pete Sandoval expanded toward full double-kick configuration',
+        'Recorded at Morrisound with Scott Burns — same team as Altars of Madness',
+        'David Vincent lyrics + Trey Azagthoth riffs created unprecedented atmosphere',
+        'Slow-burning ritualistic tracks contrasted with peak-velocity blast sections'
+      ]
+    },
+    drumKit: {
+      title: "Pete's 1991 Setup: The Transitional Arsenal",
+      brand: 'Tama',
+      model: 'Tama Superstar (expanded configuration)',
+      finish: 'Black',
+      config: {
+        bassdrums: ['22" x 16" Bass Drum (x2)'],
+        toms: ['10" x 10" Rack Tom', '12" x 10" Rack Tom', '13" x 11" Rack Tom'],
+        floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom'],
+        shells: 'Birch shells — same Tama Superstar line as Altars, expanded tom configuration'
+      },
+      description: `For "Blessed Are the Sick," Pete Sandoval retained the core Tama Superstar platform from "Altars of Madness" while expanding the configuration to handle the album's wider dynamic range. The addition of a third rack tom gave Pete more tonal variety for the slower, atmosphere-driven passages that Trey Azagthoth's Egyptian-influenced compositions demanded.
+
+The dual 22" x 16" bass drums remained the foundation, but Pete's approach shifted. Where "Altars of Madness" relied on constant double-bass velocity, "Blessed Are the Sick" asked for more nuanced deployment — sustained rolls punctuating grooves, controlled single-kick patterns underpinning slower ritualistic tracks, and explosive bursts reserved for peak moments like "Fall from Grace" and "Brainstorm."
+
+This transitional period is the most interesting in Pete's development. The gear remained largely the same; the evolution was in how he used it. More dynamic range. More rhythmic vocabulary. More willingness to let a groove breathe before detonating it.
+
+The birch shells continued to provide the punchy, focused attack that Morrisound's close-miking technique demanded. Scott Burns had refined his approach from "Altars" — the drum sound on "Blessed Are the Sick" has slightly more room character while retaining the dry, direct impact of its predecessor.`,
+      notes: [
+        'Expanded to three rack toms for increased melodic vocabulary',
+        'Dual bass drums increasingly configured for independent use',
+        'Same Tama Superstar birch construction as Altars of Madness',
+        'Transitional period toward full double-kick mastery',
+        'This era immediately precedes Pete\'s move toward Pearl endorsement'
+      ],
+      estimatedValue: '$1,800-2,800 (1991) / $3,500-5,500 (vintage today)'
+    },
+    snare: {
+      title: 'Refined Crack: The 1991 Snare Voice',
+      brand: 'Tama',
+      model: 'Tama Superstar Steel Snare',
+      size: '14" x 6.5"',
+      shell: 'Steel',
+      description: `Pete maintained his Tama steel snare from the Altars era, but the tuning approach evolved to match the album's wider dynamic palette. On "Altars of Madness," the snare was cranked for maximum cut during relentless blast beats. On "Blessed Are the Sick," Pete pulled the tension back slightly on slower tracks, giving the snare a fatter crack that suited mid-tempo grooves.
+
+The 14" x 6.5" dimensions remained ideal — deep enough for body on the slower ceremonial passages, bright enough to cut through the blast sections. On "Doomsday Celebrations" and "The Ancient Ones," the snare's tone becomes almost ritualistic, a measured crack marking time against Trey's Arabic-influenced riffs.
+
+Scott Burns maintained his close-mic philosophy (Shure SM57, tight to the head) but the final drum mix reflects slightly more body in the low-mids compared to Altars. This gives "Blessed Are the Sick" a heavier, more ominous weight — befitting an album that was deliberately slower and darker than its predecessor.`,
+      tuningSetting: 'Medium-high tension — slightly looser than Altars of Madness for dynamic range',
+      heads: 'Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$200-300 (1991)'
+    },
+    cymbals: {
+      title: 'Paiste Through the Egyptian Lens',
+      brand: 'Paiste',
+      series: 'Paiste 2002 / RUDE Series',
+      setup: [
+        { type: 'Hi-Hats', model: 'Paiste 2002 14" Sound Edge Hi-Hats', position: 'Left side', notes: 'Essential articulation for mid-tempo grooves and blast transitions' },
+        { type: 'Crash', model: 'Paiste 2002 16" Medium Crash', position: 'Left of hi-hats', notes: 'Quick punctuation for riff accents' },
+        { type: 'Crash', model: 'Paiste 2002 18" Medium Crash', position: 'Right of toms', notes: 'Primary crash, wider wash for atmospheric sections' },
+        { type: 'Crash', model: 'Paiste RUDE 17" Crash/Ride', position: 'Between crashes', notes: 'Added for expanded tonal options vs Altars of Madness setup' },
+        { type: 'Ride', model: 'Paiste 2002 20" Medium Ride', position: 'Far right', notes: 'More prominent use on mid-tempo tracks' },
+        { type: 'China', model: 'Paiste 2002 18" China Type', position: 'Above floor tom', notes: 'Explosive transitions and riff punctuation' }
+      ],
+      description: `"Blessed Are the Sick" pushed Pete's cymbal use in new directions. The Paiste 2002 setup from "Altars of Madness" expanded with the addition of a RUDE Crash/Ride, giving him a more aggressive mid-range option for tracks that demanded controlled chaos rather than pure blast.
+
+The hi-hats took on greater compositional importance in 1991. Where "Altars" demanded hi-hats that could survive constant blast beat punishment, the slower passages of "Blessed Are the Sick" required Pete to actually play patterns — melodic hi-hat work that sat over churning bass drum grooves and Trey's Egyptian-scale riffs. The 2002 Sound Edge's articulation proved ideal for both demands.
+
+The China cymbal became central to Pete's accent vocabulary on this album. The slower tempos gave him room to deploy it more deliberately — a punctuation mark rather than a rapid-fire spray. On tracks like "Fall from Grace" and "Brainstorm," China accents frame Trey's most angular riff transitions with precision that the faster Altars tempos didn't allow.
+
+The ride cymbal, used sparingly on "Altars of Madness," gained prominence on "Blessed Are the Sick." The album's atmospheric passages and mid-tempo grooves demanded sustained texture, and the 2002 20" Medium Ride provided the sustained shimmer that slower sections required without washing out like a crash.`,
+      estimatedValue: '$1,200-1,600 total (1991)'
+    },
+    hardware: {
+      title: 'Iron Foundation: 1991 Hardware',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'Tama',
+          model: 'Tama Iron Cobra (early version) / Camco-style Chain Drive',
+          notes: 'Transitional period — Pete was refining his double bass pedal approach',
+          description: 'By 1991, Pete was experimenting with improved pedal options as the Tama Iron Cobra line was beginning to develop. The focus on independent double bass rather than connected double pedals remained, giving each foot maximum power and independence.'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Tama',
+          model: 'Tama Titan',
+          notes: 'Heavy-duty for aggressive footwork during blast sections'
+        },
+        {
+          type: 'Throne',
+          brand: 'Tama',
+          model: 'Tama 1st Chair',
+          notes: 'Standard professional throne for long Morrisound sessions'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Pro-Mark',
+          model: 'Pro-Mark 5B Wood Tip',
+          notes: 'Same stick as Altars of Madness — balance of speed and durability'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke 3 Clear',
+        toms: 'Remo Emperor Clear',
+        snare: 'Remo Ambassador Coated'
+      }
+    },
+    recordingTechniques: {
+      title: 'Morrisound Refined: The 1991 Sessions',
+      content: `Returning to Morrisound Recording for "Blessed Are the Sick," the Morbid Angel / Scott Burns partnership had learned from "Altars of Madness" and deliberately refined the drum sound to match the new album's expanded dynamic range.
+
+**The Evolution from Altars:**
+The 1989 sessions had proven the close-miking approach could capture extreme metal with unprecedented clarity. For 1991, Burns adjusted the philosophy: the same isolation and directness, but with slightly more low-mid body in the kick and toms. "Blessed Are the Sick" sounds heavier and more atmospheric than "Altars" — and the drum treatment was central to that shift.
+
+**Accommodating Slower Tempos:**
+The slower passages demanded a different drum mix balance. On pure blast tracks like "Fall from Grace," the same dry, attack-forward approach from "Altars" worked perfectly. But on "The Ancient Ones" and "Doomsday Celebrations," Burns dialed in more sustain and body, allowing Pete's controlled patterns to breathe and create atmosphere.
+
+**Kick Drum Character:**
+The dual 22" bass drums received particular attention. Burns positioned the AKG D112s for maximum attack while preserving the low-frequency weight that slower tempos require. The result is a kick sound that feels physically heavier than the Altars recording — appropriate for an album that sometimes moves at half the predecessor's tempo.
+
+**The Egyptian Sonic Challenge:**
+Trey Azagthoth's Arabic and Egyptian scale work created an unprecedented production challenge: how do you make death metal drums sound ancient? Burns' solution was restraint — less compression on Pete's playing in the atmospheric sections, letting the natural acoustic character of the kit create space for Trey's unusual scales.`,
+      keyTechniques: [
+        'Refined close-miking from Altars of Madness sessions',
+        'More low-mid body in kick and toms vs predecessor',
+        'Dynamic mix approach — drier on blast tracks, more body on slower passages',
+        'Reduced compression on atmospheric sections to create space',
+        'Same Morrisound / Scott Burns team ensured sonic continuity'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'Fall from Grace',
+        bpm: '185-210',
+        signature: '4/4',
+        highlights: [
+          'Album opener demonstrates full Sandoval blast capability',
+          'Direct spiritual successor to Altars of Madness opening fury',
+          'Showcases how Pete\'s blast beats evolved in precision from 1989',
+          'Transition to slower passages previews the album\'s dynamic range'
+        ],
+        gearNotes: 'Double bass attack front and center. Hi-hat articulation cleaner than Altars equivalent passages.'
+      },
+      {
+        track: 'Brainstorm',
+        bpm: '190-200',
+        signature: '4/4',
+        highlights: [
+          'One of the album\'s most direct death metal tracks',
+          'Pete\'s double bass lockstep with Trey\'s riff patterns',
+          'Demonstrates mature groove-to-blast transitions',
+          'China cymbal work particularly prominent'
+        ],
+        gearNotes: 'Expanded cymbal setup pays dividends — RUDE Crash/Ride adds texture absent on Altars.'
+      },
+      {
+        track: 'Doomsday Celebrations',
+        bpm: '100-140',
+        signature: '4/4 / irregular',
+        highlights: [
+          'Egyptian instrumental passage — Pete restrains to serve atmosphere',
+          'Demonstrates musical maturity beyond pure speed',
+          'Polyrhythmic interaction with Trey\'s Arabic-scale guitar work',
+          'Single-kick patterns create hypnotic ritualistic pulse'
+        ],
+        gearNotes: 'Ride cymbal featured prominently. Single kick patterns show Pete\'s groove vocabulary beyond blast beats.'
+      },
+      {
+        track: 'The Ancient Ones',
+        bpm: '120-160',
+        signature: '4/4',
+        highlights: [
+          'Slow-burn opener builds to devastating release',
+          'Pete\'s controlled restraint makes the peak moments more impactful',
+          'Egyptian influence most prominent — demands rhythmic precision',
+          'Showcases Pete as musician, not just speed machine'
+        ],
+        gearNotes: 'Floor toms and ride define the early atmosphere. Blast entry at peak demonstrates perfect dynamic control.'
+      },
+      {
+        track: 'Day of Suffering',
+        bpm: '175-195',
+        signature: '4/4',
+        highlights: [
+          'Mid-album intensity anchor',
+          'Pete\'s double bass drives the riff machine',
+          'Groove sections showcase expanded rhythmic vocabulary',
+          'One of the album\'s most replay-worthy drum performances'
+        ],
+        gearNotes: 'Full kit workout. Third rack tom appears in signature fills not possible on Altars configuration.'
+      },
+      {
+        track: 'Blessed Are the Sick / Leading the Rats',
+        bpm: '130-180',
+        signature: '4/4',
+        highlights: [
+          'Title track dynamics — from slow ceremony to full blast',
+          'Pete\'s pacing across the full track arc is masterful',
+          'Demonstrates why this album is the Pete Sandoval masterclass',
+          'Album closer leaves on intensity — no fade-to-ambient ending'
+        ],
+        gearNotes: 'Every piece of gear earns its place. Expanded cymbal range essential for the track\'s dynamic journey.'
+      }
+    ],
+    evolution: {
+      title: "The Bridge: How Blessed Are the Sick Made Covenant Possible",
+      content: `"Blessed Are the Sick" occupies a unique position in Pete Sandoval's development because it demanded something "Altars of Madness" never required: versatility. The debut was a 40-minute blast at maximum velocity. The sophomore effort asked Pete to play fast, slow, atmospheric, ritualistic, and devastating — sometimes within the same song.
+
+**The Dynamic Expansion:**
+On "Altars of Madness," Pete's dynamic range was approximately blast-to-slightly-less-blast. By 1991, he had developed genuine musical patience — the ability to sit in a slow groove without rushing, to let atmosphere develop, and then to devastate when the moment arrived. This skill made "Covenant" (1993) possible.
+
+**The Egyptian Influence:**
+Trey Azagthoth's incorporation of Egyptian and Arabic musical scales fundamentally changed the rhythmic demands on Pete. Western death metal uses Western rhythmic subdivisions. Egyptian and Middle Eastern music employs different metric patterns, different accent placements, different groove feels. Pete absorbed these new patterns and incorporated them into his vocabulary — a musical evolution that extended well beyond pure technical speed.
+
+**The Double Bass Architecture:**
+By the end of the "Blessed Are the Sick" cycle, Pete had moved from double bass as a weapon to double bass as an architectural element. The foundations he laid on this album — controlled deployment, dynamic contrast, independent foot technique — formed the blueprint for his peak period work on "Covenant" and "Domination."
+
+**The Legacy:**
+Death metal historians often skip straight from "Altars of Madness" to "Covenant" when discussing Pete Sandoval's arc. "Blessed Are the Sick" is the missing chapter — the album where the blast beat pioneer learned to be a complete drummer.`,
+      thenVsNow: [
+        { category: 'Kit', then: 'Tama Superstar Birch (expanded)', now: 'Pearl Masterworks (Covenant era onward)' },
+        { category: 'Configuration', then: 'Transitional single/double kick', now: 'Full double bass architecture' },
+        { category: 'Dynamic range', then: 'Blast → groove → blast expanded', now: 'Full spectrum — ceremony to destruction' },
+        { category: 'Snare', then: 'Tama Steel 14x6.5" (medium-high tension)', now: 'Pearl Reference Steel (Covenant)' },
+        { category: 'Cymbals', then: 'Paiste 2002 + expanded RUDE selection', now: 'Paiste RUDE series exclusively (later)' }
+      ]
+    },
+    videos: [],
+    relatedAlbums: ['altars-of-madness-drum-setup', 'whats-in-pete-sandovals-kit', 'symbolic-drum-setup'],
+    relatedDrummers: [3, 6, 4],
+    relatedArticles: ['blast-beat-techniques', 'fastest-double-bass-drummers', 'tampa-death-metal-sound'],
+    relatedLicks: [
+      { drummerSlug: 'pete-sandoval', lickSlug: 'pete-sandoval-chapel-of-ghouls', label: "Watch Pete Sandoval's 'Chapel of Ghouls' breakdown" },
+      { drummerSlug: 'pete-sandoval', lickSlug: 'pete-sandoval-immortal-rites', label: "Watch Pete Sandoval's 'Immortal Rites' breakdown" },
+    ],
+    faq: [
+      {
+        question: 'What drum kit did Pete Sandoval use on Blessed Are the Sick?',
+        answer: 'Pete Sandoval recorded Morbid Angel\'s second album "Blessed Are the Sick" (1991) on a Tama Superstar kit with dual 22x16 inch bass drums, three rack toms (10, 12, and 13 inch), and two floor toms (14 and 16 inch). This was an expansion of his "Altars of Madness" configuration — the same birch Superstar line but with an added rack tom for the greater melodic range the Egyptian-influenced compositions demanded. The kit was again recorded at Morrisound Recording in Tampa by engineer Scott Burns.',
+      },
+      {
+        question: 'How did Pete Sandoval\'s drumming evolve between Altars of Madness and Blessed Are the Sick?',
+        answer: 'Between "Altars of Madness" (1989) and "Blessed Are the Sick" (1991), Pete Sandoval\'s drumming evolved from single-gear maximum velocity to a full dynamic range. The debut was primarily sustained blast beats at extreme tempos. The sophomore album introduced Egyptian and Arabic musical scale influences, slower ritualistic passages, mid-tempo grooves, and more compositionally complex structures. Pete had to develop genuine musical patience — the ability to build atmosphere and restrain himself — alongside his existing speed. This dynamic expansion made the refined aggression of "Covenant" (1993) possible.',
+      },
+      {
+        question: 'What cymbals did Pete Sandoval use on Blessed Are the Sick?',
+        answer: 'Pete Sandoval used an expanded Paiste setup on "Blessed Are the Sick" compared to "Altars of Madness." His cymbal configuration included Paiste 2002 14-inch Sound Edge hi-hats, 2002 16 and 18-inch Medium Crashes, a RUDE 17-inch Crash/Ride (new addition), a 2002 20-inch Medium Ride, and a 2002 18-inch China Type. The expanded selection — particularly the added RUDE Crash/Ride — gave Pete more tonal options for the album\'s wider dynamic range, from atmospheric mid-tempo passages to full blast assault sections.',
+      },
+      {
+        question: 'Why is Blessed Are the Sick important in death metal drumming history?',
+        answer: '"Blessed Are the Sick" (1991) is the pivotal transition record in Pete Sandoval\'s career and in death metal drumming history. It bridges the raw blast supremacy of "Altars of Madness" (1989) with the refined, nuanced power of "Covenant" (1993). By incorporating Egyptian and Middle Eastern rhythmic influences, slower atmospheric passages, and a wider dynamic vocabulary, the album pushed Pete from pure speed specialist to complete death metal drummer. It introduced polyrhythmic patterns and groove-based structures that influenced the entire Tampa death metal scene and created a template for death metal albums that wanted to sound ancient and atmospheric as well as brutal.',
+      },
+      {
+        question: 'Was Blessed Are the Sick recorded with triggers or acoustic drums?',
+        answer: 'Like "Altars of Madness," "Blessed Are the Sick" was recorded with pure acoustic drums — no triggers. Engineer Scott Burns at Morrisound Recording used the same close-miking philosophy developed for the debut, with AKG D112s on the kick drums, Shure SM57 on the snare, and Sennheiser MD421s on the toms. For 1991, Burns refined the approach slightly: more low-mid body in the kick and toms to accommodate the album\'s slower, heavier passages, and reduced compression on atmospheric sections to allow natural dynamics. The result sounds heavier than "Altars of Madness" while maintaining the dry, direct character that defined Morrisound\'s contribution to death metal.',
+      },
+    ],
+    conclusion: {
+      title: 'The Missing Chapter in Pete Sandoval\'s Story',
+      content: `Death metal histories tend to jump straight from "Altars of Madness" to "Covenant" when telling Pete Sandoval's story. "Blessed Are the Sick" is the missing chapter — the record where a blast beat pioneer became a complete death metal musician.
+
+The gear story is one of evolution within continuity. The Tama Superstar platform remained, but expanded. The Paiste cymbal selection deepened. The Scott Burns / Morrisound partnership refined rather than replaced. What changed was how Pete deployed his tools — with more patience, more dynamic intelligence, more willingness to serve strange and ancient musical demands.
+
+Trey Azagthoth's Egyptian and Arabic scale compositions forced Pete into rhythmic territory no death metal drummer had mapped before. The slow-burning ritualistic passages, the irregular accent placements, the patience required for tracks like "The Ancient Ones" and "Doomsday Celebrations" — these demanded a different kind of mastery than "Immortal Rites" or "Suffocation" had required.
+
+For drummers studying the Pete Sandoval arc, "Blessed Are the Sick" is the essential lesson:
+
+- **Speed is a tool, not a goal**: The best blast is the one that serves the music
+- **Restraint requires practice**: Knowing when not to play is a skill
+- **Dynamic range amplifies impact**: The slow passages make the fast ones devastating
+- **Ancient influences expand the vocabulary**: Egyptian and Arabic scales created new rhythmic demands that made Pete a better drummer
+- **Transitions are the art**: Moving between ceremony and destruction within a single track is the real challenge
+
+Thirty-five years on, "Blessed Are the Sick" remains the most underrated death metal drum performance in Morbid Angel's catalog. Where "Altars" proves Pete could go fastest, "Blessed Are the Sick" proves he could go anywhere.
+
+🤘 *The blast beat pioneer learned to play ancient music. The result was death metal's most complete performance.* 🤘`
+    }
+  },
+
   // What's In Paul Bostaph's Slayer Arsenal
   'whats-in-paul-bostaphs-kit': {
     slug: 'whats-in-paul-bostaphs-kit',

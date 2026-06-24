@@ -1041,7 +1041,7 @@ The Number of the Beast songs have evolved over 40+ years of touring. Nicko's in
       { youtubeId: '7QU1nvuxaMA', title: 'Nicko McBrain Drum Solo - Flight of Icarus', description: 'Nicko\'s live interpretation showing his technique' },
       { youtubeId: 'WxnN05vOuSM', title: 'Hallowed Be Thy Name - Live', description: 'Live performance of the epic track' }
     ],
-    relatedAlbums: ['powerslave-drum-setup', 'piece-of-mind-drum-setup'],
+    relatedAlbums: ['powerslave-drum-setup', 'piece-of-mind-drum-setup', 'seventh-son-drum-setup'],
     relatedDrummers: [1, 4, 12], // Lars Ulrich, Dave Lombardo, Charlie Benante
     relatedArticles: ['thrash-metal-drummers', 'most-innovative-drummers'],
     relatedLicks: [
@@ -35685,6 +35685,339 @@ Tama Iron Cobra pedals remain among the most respected chain-drive pedals in roc
 For Mikkey Dee's complete setup evolution — from the Tama era through his Yamaha years with both Motörhead and Scorpions — see the [Mikkey Dee drummer profile](/drummer/mikkey-dee) and the [full kit breakdown](/articles/whats-in-mikkey-dees-kit).
 
 🤘 *Twenty-three years with the world's loudest band. It started here.* 🤘`
+    }
+  },
+
+  'seventh-son-drum-setup': {
+    slug: 'seventh-son-drum-setup',
+    albumTitle: 'Seventh Son of a Seventh Son',
+    artist: 'Iron Maiden',
+    drummer: 'Nicko McBrain',
+    drummerId: 41,
+    relatedDrummerSlug: 'nicko-mcbrain',
+    year: 1988,
+    genre: 'Heavy Metal / Progressive Metal',
+    label: 'EMI',
+    studio: 'Musicland Studios, Munich, Germany',
+    producer: 'Martin Birch',
+    isAlbumArticle: true,
+    datePublished: '2026-06-24',
+    dateModified: '2026-06-24',
+    author: 'MetalForge Editorial',
+    title: "Nicko McBrain's Drum Setup on Iron Maiden's Seventh Son of a Seventh Son (1988)",
+    description: "Nicko McBrain's most dynamic pre-90s performance — a Ludwig kit adapted for Iron Maiden's most ambitious concept album. Complete gear breakdown covering the 1988 setup, Musicland Studios recording, and how Nicko balanced power with space across Iron Maiden's prog-metal masterpiece.",
+    seoKeywords: ['nicko mcbrain 1988 kit', 'iron maiden seventh son drums', 'seventh son of a seventh son drum setup', 'nicko mcbrain late 80s setup', 'iron maiden concept album drums'],
+    ogImage: '/images/drummers/nicko-mcbrain.webp',
+    intro: {
+      title: 'The Concept Album That Demanded Everything',
+      content: `Released on April 11, 1988, *Seventh Son of a Seventh Son* is Iron Maiden's most ambitious record — a fully realized concept album built around a supernatural narrative, and the closest the band ever came to progressive rock. It is also home to Nicko McBrain's most sophisticated drumming of the 1980s.
+
+By 1988, Nicko had established himself as one of heavy metal's premier drummers through *Piece of Mind* (1983), *Powerslave* (1984), and *Somewhere in Time* (1986). Each album pushed his playing forward. *Seventh Son* pushed it further, and in a new direction: where Powerslave had demanded raw speed and endurance, the concept album required dynamic sensitivity, rhythmic patience, and the discipline to leave space for layers of keyboard synthesizers, vocal harmonies, and complex song structures stretching past nine minutes.
+
+Producer Martin Birch recorded the album at Musicland Studios in Munich, Germany — a storied facility that had hosted Black Sabbath, Deep Purple, and Led Zeppelin. The studio's live room acoustics and Birch's production philosophy gave the drums warmth and presence without sacrificing the power Iron Maiden required.
+
+Tracks like "Infinite Dreams," "The Evil That Men Do," and the nine-minute title track demonstrate a drummer at the height of his expressive range — capable of thundering full-band passages and intimate, space-conscious accompaniment within the same song. This article examines the Ludwig kit, Paiste cymbals, and recording approach that powered Iron Maiden's prog-metal statement.`,
+      keyPoints: [
+        "Iron Maiden's first concept album — the most progressive and demanding record of Nicko's 1980s era",
+        'Recorded at Musicland Studios, Munich with producer Martin Birch',
+        'Ludwig drums and Paiste 2002 cymbals — proven 1980s setup in a new creative context',
+        'Synthesizer arrangements required Nicko to develop new dynamic discipline',
+        '"Infinite Dreams" and "The Evil That Men Do" represent the peak of his pre-1990s studio work'
+      ]
+    },
+    drumKit: {
+      title: "Nicko McBrain's Ludwig Setup for the Concept Album Era",
+      brand: 'Ludwig',
+      model: 'Ludwig Classic Maple',
+      finish: 'Natural Maple',
+      config: {
+        bassdrums: ['22" x 14" Bass Drum (single)'],
+        toms: ['12" x 8" Rack Tom', '13" x 9" Rack Tom'],
+        floorToms: ['16" x 16" Floor Tom', '18" x 16" Floor Tom'],
+        shells: 'Maple shells — warm tone with controlled resonance'
+      },
+      description: `Nicko McBrain recorded *Seventh Son of a Seventh Son* on the same Ludwig maple platform he had used throughout the 1980s Iron Maiden studio run. The Ludwig Classic Maple configuration — single 22" bass drum, two rack toms, two floor toms — was the proven professional setup that had produced the drum sounds on *Powerslave* and *Somewhere in Time*.
+
+What changed on *Seventh Son* was not the gear but the musical context. The album's synthesizer arrangements, written primarily by Steve Harris and keyboardist Michael Kenney, occupied frequency space that had been reserved for guitar-driven power on earlier albums. Nicko adapted accordingly: more space in his playing, greater dynamic contrast, and a heightened awareness of texture.
+
+The Ludwig maple shells' natural warmth proved ideal for a production requiring musical rather than purely aggressive drums. On the quieter passages of "Infinite Dreams" and "The Prophecy," the shells' resonance gave Nicko's lighter playing body and presence. When the songs demanded full power — the climactic sections of "Seventh Son of a Seventh Son," the driving verses of "The Evil That Men Do" — the Ludwig kit delivered the same authoritative punch that had powered "Aces High" four years earlier.
+
+The two floor toms gave Nicko the tonal range essential for long-form compositions. The cascading descending fill — from hi-hat to rack toms to floor toms — became a signature device across the album's epic tracks, providing emotional crescendos within complex arrangements.`,
+      notes: [
+        'Single bass drum throughout — single-pedal mastery across the full dynamic range of a concept album',
+        'Same Ludwig configuration as Powerslave and Somewhere in Time, different musical application',
+        'Two floor toms critical for melodic descending fills in epic arrangements',
+        'Maple warmth suited the album\'s musical (rather than purely aggressive) production'
+      ],
+      estimatedValue: '$2,800-3,800 (1988)'
+    },
+    snare: {
+      title: 'The Snare That Balanced Crack and Musicality',
+      brand: 'Ludwig',
+      model: 'Ludwig Supraphonic LM400',
+      size: '14" x 5"',
+      shell: 'Seamless aluminum "Ludalloy"',
+      description: `Nicko McBrain's Ludwig Supraphonic on *Seventh Son* faced a different challenge than on *Powerslave*: it needed to assert itself in arrangements featuring synthesizer pads and orchestral-adjacent keyboard textures without sounding out of place.
+
+The LM400 (14" x 5") delivered the bright aluminum crack that Nicko required for musical authority, while its shallower shell (5" versus the deeper 6.5" variants) kept the tone focused and precise. In Martin Birch's production, the snare sits clearly in the mix — present on every backbeat, defined in the ghost notes that pepper "Infinite Dreams" — without overwhelming the album's more textured passages.
+
+The aluminum shell's wide dynamic range was essential on a concept album where Nicko played everything from near-whispered cross-stick to full-force rim shots within a single track. The Supraphonic responded accurately at both extremes, giving Birch a consistent recorded sound across the album's enormous dynamic spectrum.
+
+The medium-high tension tuning Nicko favored gave the drum its characteristic snap — identifiable across Iron Maiden's 1980s discography as a consistent, musical sound rather than the processed, gated snare sounds common in late-1980s metal production.`,
+      tuningSetting: 'Medium-high tension for clarity across dynamic extremes',
+      heads: 'Remo Ambassador Coated (batter), Remo Ambassador Snare Side',
+      estimatedValue: '$300-450 (1988)'
+    },
+    cymbals: {
+      title: 'Paiste 2002: Bright and Articulate for Prog-Metal Architecture',
+      brand: 'Paiste',
+      series: 'Paiste 2002',
+      setup: [
+        { type: 'Hi-Hats', model: 'Paiste 2002 14" Medium Hi-Hats', position: 'Left side', notes: 'Engine room of the gallop — essential for the rhythmic precision the concept album demanded' },
+        { type: 'Crash', model: 'Paiste 2002 16" Medium Crash', position: 'Left of hi-hats', notes: 'Fast-responding crash for quick musical accents in complex arrangements' },
+        { type: 'Crash', model: 'Paiste 2002 18" Medium Crash', position: 'Right of toms', notes: 'Primary crash for section transitions and emotional climaxes' },
+        { type: 'Ride', model: 'Paiste 2002 20" Medium Ride', position: 'Far right', notes: 'Critical for the extended atmospheric sections — clear bell cut through synthesizer layers' },
+        { type: 'China', model: 'Paiste 2002 18" China Type', position: 'Above floor tom', notes: 'Aggressive accent for the album\'s harder-driving passages' }
+      ],
+      description: `The Paiste 2002 series was Nicko McBrain's consistent cymbal choice throughout the 1980s Iron Maiden studio albums, and on *Seventh Son of a Seventh Son* the series' bright, articulate character proved especially valuable in a production that included synthesizers.
+
+The 14" Medium hi-hats remained the rhythmic foundation — driving the gallop on energetic tracks and providing controlled texture on atmospheric passages. Paiste 2002's clear attack meant that even at quieter dynamic levels, the hi-hat spoke intelligently rather than washing into the keyboard layers.
+
+The 20" ride became more prominent on *Seventh Son* than on previous Maiden albums. The extended song structures — particularly the nine-minute title track — featured long sections where Nicko used the ride to maintain momentum without the density of constant hi-hat patterns. The Paiste 2002 Medium Ride's bell cut cleanly through synthesizer arrangements, providing clear rhythmic definition in the mix.
+
+Crash use on *Seventh Son* was more deliberate than ever. The album's prog-metal architecture rewarded restraint — an 18" crash landed with greater impact after a passage of controlled ride-and-hi-hat work than it would if deployed constantly. Nicko's dynamic judgment in placing crashes served the concept album narrative as much as the technical execution.`,
+      estimatedValue: '$1,400-1,800 total (1988)'
+    },
+    hardware: {
+      title: 'Single Pedal Precision in a Synthesizer Landscape',
+      items: [
+        {
+          type: 'Bass Drum Pedal',
+          brand: 'Ludwig',
+          model: 'Ludwig Speed King',
+          notes: "Single pedal — Iron Maiden's galloping rhythm demands feel, not two pedals",
+          description: "The Speed King single pedal powered Nicko's bass drum work across the full dynamic range of Seventh Son. On energetic tracks like 'Moonchild' and 'The Evil That Men Do,' the pedal delivered the galloping kick patterns at full power. On more restrained passages, the Speed King's direct feel allowed precise single-note placement without mechanical excess."
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Ludwig',
+          model: 'Ludwig Atlas',
+          notes: 'Stable platform for demanding hi-hat work across complex time signatures'
+        },
+        {
+          type: 'Throne',
+          brand: 'Ludwig',
+          model: 'Ludwig Standard',
+          notes: 'Functional stability for the precise, dynamic playing required'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Pro-Mark',
+          model: 'Pro-Mark 5B',
+          notes: 'Balanced weight for the blend of technical precision and raw power'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Ambassador Clear',
+        toms: 'Remo Ambassador Coated',
+        snare: 'Remo Ambassador Coated'
+      }
+    },
+    recordingTechniques: {
+      title: "Martin Birch at Musicland: Recording a Concept Album",
+      content: `Musicland Studios in Munich was one of Europe's premier recording facilities in the late 1980s. Located in the basement of the Arabella Hochhaus hotel, it had hosted legendary sessions from Black Sabbath (*Heaven and Hell*), Deep Purple (*Machine Head*, *Burn*), and Led Zeppelin — a track record that placed it among the world's elite studios.
+
+Martin Birch's approach to *Seventh Son* differed from his Powerslave methodology in one key respect: the album required room for synthesizers and vocal harmonies to breathe. Where Powerslave's drum sound was designed to power a guitar-forward metal record, *Seventh Son* needed drums that could serve both explosive metal passages and more atmospheric, keyboard-driven arrangements.
+
+**Microphone Setup:**
+- Kick drum: AKG D12 inside, Neumann U47 outside for warmth
+- Snare: Shure SM57 top, AKG C414 bottom
+- Toms: Sennheiser MD421 on each tom
+- Hi-hat: AKG C451 for high-frequency clarity within dense arrangements
+- Overheads: Neumann U87s in spaced pair configuration
+- Room mics: Neumann U47s capturing Musicland's natural ambience
+
+**Dynamic Range as a Production Tool:**
+Birch used the full dynamic range of Nicko's playing as a production device. Quieter passages — particularly in "Infinite Dreams" and "The Prophecy" — were recorded at genuine low levels, allowing the synth and vocal layers to fill the sonic space. This was not artificial volume automation but actual playing dynamics captured cleanly.
+
+**Single Takes, Musical Integrity:**
+Like Powerslave before it, *Seventh Son* was recorded primarily in complete takes. Nicko's ability to navigate from atmospheric restraint to metal power and back — within a single track, across nine minutes — required the concentration and musicality of a complete performance. The integrity of those takes is audible in the album's emotional arc.`,
+      keyTechniques: [
+        "Musicland's natural acoustics captured by spaced U87 overhead pair and U47 room mics",
+        'Dynamic recording philosophy matched the concept album\'s narrative arc',
+        'Complete takes preserved Nicko\'s musical transitions across long-form compositions',
+        'Drum balance adjusted to leave space for synthesizer and vocal harmony layers'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'Moonchild',
+        bpm: '150',
+        signature: '4/4',
+        highlights: [
+          'Album opener: atmospheric intro gives way to full-band metal',
+          'Nicko navigates the shift from controlled restraint to Iron Maiden power',
+          'Hi-hat patterns drive the gallop with clean definition at full speed',
+          'Opening track that immediately establishes the album\'s dynamic range'
+        ],
+        gearNotes: 'The Ludwig kit transitions from quiet atmospheric support to full-band attack. The Paiste 2002 crashes mark the structural shift from intro to main body.'
+      },
+      {
+        track: 'Infinite Dreams',
+        bpm: '120',
+        signature: '4/4 and 12/8',
+        highlights: [
+          'Nicko\'s most nuanced performance on the album — wide dynamic range within a single track',
+          'Shifts between half-time feel and driving full-time without losing the narrative thread',
+          'Ghost notes on the snare throughout — understated technique serving the song',
+          'One of the most demanding performances in terms of musical judgment rather than physical speed'
+        ],
+        gearNotes: 'The Ludwig Supraphonic\'s aluminum shell brings ghost notes through clearly at low dynamic levels. The Paiste ride sustains across the reflective middle section.'
+      },
+      {
+        track: 'The Evil That Men Do',
+        bpm: '145',
+        signature: '4/4',
+        highlights: [
+          'Iron Maiden\'s most commercially successful single of the era',
+          'Classic NWOBHM gallop elevated by the concept album\'s more refined production',
+          'Driving snare pattern on the chorus cuts through the synthesizer wall cleanly',
+          'Nicko\'s most direct, confident performance on the album'
+        ],
+        gearNotes: 'The Ludwig snare crack on the chorus is the album\'s most identifiable drum sound. The Paiste 2002 crashes punctuate section changes with authority.'
+      },
+      {
+        track: 'Seventh Son of a Seventh Son',
+        bpm: 'Variable (70-155)',
+        signature: '4/4 and variable',
+        highlights: [
+          'Nine-minute title track — the concept album\'s centerpiece',
+          'Multiple distinct sections requiring complete dynamic versatility',
+          'Extended synthesizer-dominated passages demand rhythmic support without dominance',
+          'Final escalation to full-band metal showcases everything Nicko had developed across the 1980s'
+        ],
+        gearNotes: 'The full kit is utilized over nine minutes. The Paiste 20" ride carries extended atmospheric sections. The Ludwig floor toms power the cascading fills at the climax.'
+      }
+    ],
+    faq: [
+      {
+        question: 'What kit did Nicko McBrain use on Seventh Son of a Seventh Son?',
+        answer: `Nicko McBrain recorded *Seventh Son of a Seventh Son* (1988) on a Ludwig Classic Maple kit — the same proven configuration he had used on *Powerslave* (1984) and *Somewhere in Time* (1986). The setup featured a single 22"x14" bass drum, two rack toms (12" and 13"), and two floor toms (16" and 18"). The maple shells provided warm, resonant tone that suited the concept album's wide dynamic range and Martin Birch's recording approach at Musicland Studios in Munich. For a complete look at Nicko's career-spanning setup, see the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain).`
+      },
+      {
+        question: 'How did Nicko McBrain adapt his drumming for a concept album?',
+        answer: `*Seventh Son of a Seventh Son* required Nicko McBrain to develop a new dimension of his playing: dynamic discipline in the presence of synthesizers and complex song structures. Where earlier Iron Maiden albums like [Powerslave](/articles/powerslave-drum-setup) demanded raw speed and endurance, the concept album asked for restraint, space, and musical sensitivity across songs stretching past nine minutes. Nicko reduced his playing density on keyboard-heavy passages, used the ride cymbal more extensively in long-form sections, and developed a more sophisticated ghost-note approach — most audible on "Infinite Dreams." The result was a drummer who could serve both atmospheric prog-metal and crushing heavy metal within the same composition.`
+      },
+      {
+        question: 'What cymbals did Nicko McBrain use on Seventh Son?',
+        answer: `Nicko McBrain used Paiste 2002 series cymbals on *Seventh Son of a Seventh Son* — the same series he had used throughout the 1980s Iron Maiden albums. His setup included 14" Medium Hi-Hats, 16" and 18" Medium Crashes, a 20" Medium Ride, and an 18" China Type. The 2002's bright, articulate character was particularly valuable in a production featuring synthesizer layers: the hi-hats spoke clearly without washing into the keyboard arrangements, and the 20" ride provided definition during the extended atmospheric sections of the title track and "Infinite Dreams."`
+      },
+      {
+        question: 'How does Seventh Son compare to Powerslave for drum performance?',
+        answer: `*Powerslave* (1984) and *Seventh Son of a Seventh Son* (1988) represent complementary peaks of Nicko McBrain's 1980s work. *Powerslave* is a test of speed, endurance, and physical power — "Aces High" at 170 BPM for over five minutes on a single bass drum pedal is one of the great endurance performances in heavy metal. *Seventh Son* tests musical judgment: the ability to navigate dynamic extremes, serve synthesizer-led arrangements without disappearing, and sustain musical concentration across nine-minute compositions. Neither is easier — they demand different strengths. Read the [Powerslave drum setup article](/articles/powerslave-drum-setup) for a direct comparison of Nicko's approach across both albums.`
+      },
+      {
+        question: 'Where was Seventh Son of a Seventh Son recorded?',
+        answer: `*Seventh Son of a Seventh Son* was recorded at Musicland Studios in Munich, Germany — one of Europe's premier recording facilities, located in the basement of the Arabella Hochhaus hotel. The studio had previously hosted Black Sabbath, Deep Purple, and Led Zeppelin. Producer Martin Birch brought his established approach to drum recording, capturing Nicko's Ludwig kit in the facility's live room with AKG, Neumann, and Sennheiser microphones. The Munich studio's acoustic character contributed to the album's slightly warmer, more expansive drum sound compared to the earlier Compass Point Studio recordings.`
+      }
+    ],
+    evolution: {
+      title: "The Concept Album Era: Where Nicko's 1980s Journey Led",
+      content: `*Seventh Son of a Seventh Son* (1988) closes Nicko McBrain's first chapter with Iron Maiden — a six-year run of studio albums that progressed from the raw energy of [*Piece of Mind* (1983)](/articles/piece-of-mind-drum-setup) through *Powerslave*'s physical peak to the musical sophistication of the concept album.
+
+The Ludwig + Paiste 2002 platform remained consistent across this entire run. What evolved was Nicko's application of that platform: more ghost notes, greater dynamic range, increased use of the ride cymbal for extended sections, and a developed sense of when not to play.
+
+**The 1980s progression:**
+- **1983 (*Piece of Mind*):** Debut — establishing identity and proving himself
+- **1984 (*Powerslave*):** Peak physical power — speed and endurance, the World Slavery Tour
+- **1986 (*Somewhere in Time*):** Guitar synthesizers introduced, Nicko begins adapting to technology in the arrangements
+- **1988 (*Seventh Son*):** Full concept album — maximum musical sophistication of the decade
+
+**What *Seventh Son* revealed:**
+The concept album demonstrated that Nicko McBrain was not simply a power drummer — he was a musical drummer with the range to serve any creative context Iron Maiden chose to explore. This versatility would carry him into the following decades as the band's sound continued to evolve.
+
+**What followed:**
+The *No Prayer for the Dying* (1990) era brought a rawer, back-to-basics approach. Nicko's setup remained centered on Ludwig drums, but the production philosophy shifted dramatically — shorter songs, less synthesizer, more direct aggression. The contrast with *Seventh Son* makes both albums more interesting.`,
+      thenVsNow: [
+        { category: 'Kit', then: 'Ludwig Classic Maple (Seventh Son, 1988)', now: 'Sonor SQ1 (current)' },
+        { category: 'Snare', then: 'Ludwig Supraphonic 14x5"', now: 'Sonor Nicko McBrain Signature 14x6.5"' },
+        { category: 'Cymbals', then: 'Paiste 2002', now: 'Paiste Signature' },
+        { category: 'Sticks', then: 'Pro-Mark 5B', now: 'Vic Firth Nicko McBrain Signature' },
+        { category: 'Pedal', then: 'Ludwig Speed King single', now: 'Sonor single pedal (still single!)' }
+      ]
+    },
+    videos: [],
+    relatedAlbums: ['number-of-the-beast-drum-setup', 'powerslave-drum-setup', 'piece-of-mind-drum-setup'],
+    relatedDrummers: [1, 4, 12],
+    relatedArticles: ['thrash-metal-drummers', 'most-innovative-drummers'],
+    relatedLicks: [
+      { drummerSlug: 'nicko-mcbrain', lickSlug: 'nicko-mcbrain-the-number-of-the-beast', label: "Watch Nicko McBrain's drum breakdown" },
+    ],
+    jsonLd: [
+      {
+        '@context': 'https://schema.org',
+        '@type': 'MusicAlbum',
+        name: 'Seventh Son of a Seventh Son',
+        byArtist: {
+          '@type': 'MusicGroup',
+          name: 'Iron Maiden',
+          url: '/band/iron-maiden'
+        },
+        datePublished: '1988-04-11',
+        genre: ['Heavy Metal', 'Progressive Metal'],
+        recordLabel: 'EMI',
+        description: "Iron Maiden's seventh studio album and first concept album, featuring Nicko McBrain's most dynamic drumming of the 1980s."
+      },
+      {
+        '@context': 'https://schema.org',
+        '@type': 'Person',
+        name: 'Nicko McBrain',
+        url: '/drummer/nicko-mcbrain',
+        jobTitle: 'Drummer',
+        memberOf: {
+          '@type': 'MusicGroup',
+          name: 'Iron Maiden'
+        },
+        description: "Iron Maiden's drummer since 1982, renowned for single bass drum mastery and the galloping rhythms that define the band's sound."
+      },
+      {
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        mainEntity: [
+          {
+            '@type': 'Question',
+            name: 'What kit did Nicko McBrain use on Seventh Son of a Seventh Son?',
+            acceptedAnswer: {
+              '@type': 'Answer',
+              text: 'Nicko McBrain used a Ludwig Classic Maple kit on Seventh Son of a Seventh Son (1988) — single 22" bass drum, two rack toms (12" and 13"), and two floor toms (16" and 18"), with Paiste 2002 cymbals.'
+            }
+          },
+          {
+            '@type': 'Question',
+            name: 'How did Nicko McBrain adapt for concept album drumming?',
+            acceptedAnswer: {
+              '@type': 'Answer',
+              text: 'Nicko McBrain adapted to Seventh Son of a Seventh Son by developing greater dynamic discipline — leaving space for synthesizer arrangements, using the ride cymbal more in extended sections, and emphasizing musical judgment over physical power.'
+            }
+          },
+          {
+            '@type': 'Question',
+            name: 'What cymbals did Nicko McBrain use on Seventh Son?',
+            acceptedAnswer: {
+              '@type': 'Answer',
+              text: 'Nicko McBrain used Paiste 2002 series cymbals on Seventh Son of a Seventh Son — 14" Medium Hi-Hats, 16" and 18" Medium Crashes, a 20" Medium Ride, and an 18" China Type.'
+            }
+          }
+        ]
+      }
+    ],
+    conclusion: {
+      title: "The Album That Completed the 1980s Nicko McBrain Story",
+      content: `*Seventh Son of a Seventh Son* is the final proof of Nicko McBrain's 1980s mastery. It demonstrated that a drummer who could power the relentless gallop of "Aces High" could also serve the nuanced dynamics of a nine-minute concept piece — and that both demands could be met with the same Ludwig and Paiste 2002 platform, the same single bass drum pedal, and the same musical intelligence applied in different directions.
+
+The album occupies a special place in Iron Maiden's discography precisely because it is the most musically adventurous record of the classic era. For drummers, it offers a different kind of education than *Powerslave*: not speed and endurance but restraint and space. The lesson is that knowing when to hold back is as valuable as knowing how to drive.
+
+For the complete picture of Nicko McBrain's drumming across the Iron Maiden catalog, see the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain), the [Number of the Beast drum setup](/articles/number-of-the-beast-drum-setup), and the [Powerslave drum setup](/articles/powerslave-drum-setup).`
     }
   }
 };

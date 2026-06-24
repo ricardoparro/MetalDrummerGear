@@ -41592,6 +41592,314 @@ For the complete arc of Brann Dailor's gear evolution, see the [Brann Dailor dru
         }
       ]
     }
+  },
+
+  'shogun-drum-setup': {
+    slug: 'shogun-drum-setup',
+    albumTitle: 'Shogun',
+    artist: 'Trivium',
+    drummer: 'Nick Augusto',
+    drummerId: 26,
+    relatedDrummerSlug: 'nick-augusto',
+    year: 2008,
+    genre: 'Progressive Thrash Metal',
+    label: 'Roadrunner Records',
+    studio: 'Audiohammer Studio, Sanford, Florida',
+    producer: 'Jason Suecof',
+    isAlbumArticle: true,
+    datePublished: '2026-06-24',
+    dateModified: '2026-06-24',
+    author: 'MetalForge Editorial',
+    title: "Shogun Drum Setup: Nick Augusto's Gear on Trivium's Magnum Opus (2008)",
+    description: "Discover the exact drum kit, cymbals, and gear Nick Augusto used to record Trivium's progressive thrash masterpiece Shogun (2008). Full breakdown of the DW Performance Series kit, Meinl Byzance cymbals, DW 9000 pedals, and the technical demands behind one of modern metal's most ambitious drum performances.",
+    seoKeywords: ['nick augusto shogun drums', 'trivium shogun drum setup', 'nick augusto drum kit 2008', 'nick augusto dw drums', 'nick augusto meinl byzance', 'shogun drum setup', 'trivium drummer 2008', 'nick augusto trivium gear'],
+    ogImage: '/images/albums/shogun-drums.webp',
+    intro: {
+      title: "Trivium's Magnum Opus: Nick Augusto's Technical Peak",
+      content: `Released on September 30, 2008, Trivium's *Shogun* is widely regarded as the band's defining artistic statement — a 70-minute progressive thrash epic that topped metal publication year-end lists globally and cemented Trivium's position among the genre's elite acts. Nick Augusto joined Trivium just before recording began, stepping into one of modern metal's most technically demanding drummer seats at the peak of the band's compositional ambition.
+
+*Shogun* features the most technically demanding drum work of Trivium's entire catalog. Odd-time signatures weave through aggressive thrash passages, 180+ BPM blast sections erupt without warning, and extended jazz-influenced sequences unfold across epic tracks like "The Calamity" (9:55) and the 11:39 title track — the longest song Trivium has ever recorded. The album demanded a drummer with the technical vocabulary to match Trivium's most complex writing, and Augusto delivered a performance that stands as his career benchmark.
+
+The album was produced by Jason Suecof at Audiohammer Studio in Sanford, Florida — the same production team that had overseen much of Trivium's sonic development. Suecof's production captured Augusto's DW Performance Series kit with clarity and punch, allowing every nuance of his double-kick patterns and intricate hi-hat work to cut through the album's dense, layered arrangements.
+
+This article breaks down every piece of gear Augusto used during the *Shogun* sessions: the DW Performance Series kit in Natural Lacquer, the Meinl Byzance cymbals that marked the band's first major endorsement with the brand, and the DW 9000 pedals that powered the album's relentless double-kick foundation.`,
+      keyPoints: [
+        'Recorded at Audiohammer Studio, Sanford, Florida with producer Jason Suecof',
+        "Trivium's most ambitious record — 70 minutes, topped global metal year-end lists",
+        'DW Performance Series in Natural Lacquer — 22" kick, extensive tom configuration',
+        "Meinl Byzance debut for Trivium — band's first major Meinl pairing",
+        'DW 9000 Series pedals — foundation for the album\'s extreme double-kick demands',
+        'Title track (11:39) is Trivium\'s longest song — extended double-kick architecture throughout'
+      ]
+    },
+    drumKit: {
+      title: "The DW Performance Series: Augusto's Shogun Foundation",
+      brand: 'DW',
+      model: 'DW Performance Series',
+      finish: 'Natural Lacquer',
+      config: {
+        bassdrums: ['22" Bass Drum'],
+        toms: ['10" Rack Tom', '12" Rack Tom', '14" Rack Tom'],
+        floorToms: ['16" Floor Tom', '18" Floor Tom'],
+        shells: 'Maple/poplar hybrid shells — projection and attack suited to thrash metal production'
+      },
+      description: `For the *Shogun* sessions, Nick Augusto used a DW Performance Series kit in Natural Lacquer — DW's mid-range professional offering that delivers the company's engineering quality at a configuration suited to aggressive, technically demanding metal. The Performance Series uses maple/poplar hybrid shell construction, combining maple's warmth with poplar's weight and projection to produce a kit that punches through dense metal production without sacrificing tonal character.
+
+The five-tom configuration — three rack toms (10", 12", 14") and two floor toms (16", 18") — gave Augusto the expansive melodic and rhythmic range that *Shogun*'s writing demanded. Across an album featuring songs that span jazz-influenced passages, death metal blast sections, and extended progressive sequences, the full tom spread allowed Augusto to move between sonic registers: tight, aggressive rack tom fills for the thrash passages; deep, resonant floor tom work for the album's more atmospheric sections.
+
+The Natural Lacquer finish on the Performance Series shells maintained consistent resonance across the configuration — the lacquer seal prevents humidity-driven shell flex, preserving the tuning stability that Augusto's precise, technically demanding playing required across extended recording sessions. Tracks like "Torn Between Scylla and Charybdis" and the 11:39 title track demanded sustained technical precision over long running times, and the Performance Series' tuning stability was central to capturing those performances cleanly.
+
+The single 22" kick drum powered *Shogun*'s double-kick architecture through the DW 9000 double pedal — detailed below. This single-kick configuration with double pedal approach gave Augusto clean mechanical action for the album's 180+ BPM passages while maintaining the tonal consistency of a single resonant head.`,
+      notes: [
+        'DW Performance Series maple/poplar hybrid — projection and warmth for progressive thrash production',
+        'Five-tom spread (10", 12", 14" rack; 16", 18" floor) — full sonic range for album\'s epic scope',
+        'Natural Lacquer finish — tuning stability across extended studio sessions',
+        'Single 22" kick with DW 9000 double pedal — precise action for 180+ BPM double-kick passages'
+      ],
+      estimatedValue: '$2,500–4,500 (DW Performance Series shell pack)'
+    },
+    snare: {
+      title: 'The DW Edge: Power Snare for Dense Production',
+      brand: 'DW',
+      model: 'DW Edge Snare',
+      size: '14" x 6.5"',
+      shell: 'Steel — cutting attack and projection through Shogun\'s dense, layered production',
+      description: `On *Shogun*, the snare drum serves as the rhythmic anchor for some of Trivium's most complex writing. The DW Edge 14×6.5 — a power snare configured for maximum attack and projection — was chosen to cut through the album's dense, heavily layered production without getting buried in the low-mid frequency range that Trivium's down-tuned guitar arrangements occupied.
+
+The 6.5" depth provides more shell resonance and backbeat body than a standard 5.5" snare, giving the drum the authoritative crack that aggressive thrash passages demand. Jason Suecof's production for *Shogun* emphasised punch and clarity in the drum sound, and the DW Edge's steel shell delivers the brightness and articulation that Suecof's mix required — every backbeat registers as a definitive event regardless of the complexity surrounding it.
+
+The snare's power configuration also suited the album's ghost note demands. Extended passages in tracks like "The Calamity" require sustained ghost note patterns beneath melodic sequences, and the Edge's medium-to-high tension tuning allowed those ghost notes to speak clearly without competing with the album's lower-pitched instruments. For an album where the drumming is as compositionally central as the guitar work, snare sensitivity and projection were equally important qualities.`,
+      tuningSetting: 'Medium-high tension — attack and projection for dense progressive thrash production',
+      heads: 'Evans UV1 Coated (batter), Evans Hazy 300 (resonant)',
+      estimatedValue: '$400–700 (DW Edge steel snare)'
+    },
+    cymbals: {
+      title: 'Meinl Byzance: The Band\'s First Major Meinl Pairing',
+      brand: 'Meinl',
+      series: 'Meinl Byzance Series',
+      setup: [
+        { type: 'Hi-Hats', model: 'Meinl Byzance Traditional 14" Hi-Hats', position: 'Left side', notes: 'Dark, complex top-end — cuts through dense arrangement without brittleness' },
+        { type: 'Crash', model: 'Meinl Byzance Medium 16" Crash', position: 'Left crash', notes: 'Fast response, warm decay — suits the album\'s dynamic range' },
+        { type: 'Crash', model: 'Meinl Byzance Medium 18" Crash', position: 'Right crash', notes: 'Fuller crash for heavy section accents and climactic moments' },
+        { type: 'Ride', model: 'Meinl Byzance Traditional 20" Ride', position: 'Right side', notes: 'Defined bell with dark bow — marks time through dense progressive passages' },
+        { type: 'China', model: 'Meinl Byzance 18" China', position: 'Above rack toms', notes: 'Aggressive accent cymbal for thrash section transitions' }
+      ],
+      description: `The *Shogun* sessions marked Trivium's first major endorsement pairing with Meinl — a departure from the brighter, more aggressive cymbal voices that had characterised the band's earlier records. Nick Augusto's Meinl Byzance Traditional series cymbals brought a darker, more complex top-end to *Shogun*'s production, one that suited the album's progressive, multi-layered character while still delivering the cutting power that thrash metal demands.
+
+The Byzance Traditional series is hand-hammered B20 bronze, a process that produces a dark, warm, complex cymbal voice that differs fundamentally from the brighter, more overtly aggressive character of Zildjian A or Sabian AA cymbals. For *Shogun* — an album that moves between death metal blast sections, jazz-influenced passages, and melodic progressive sequences — the Byzance's darker, more versatile tone provided a cymbal voice that served the full range of the album's writing.
+
+The 14" Byzance Traditional hi-hats deliver a complex, slightly dark top-end that sits well in *Shogun*'s multi-layered arrangements. Where brighter hi-hats can compete with the upper-frequency range of Trivium's guitar arrangements, the Byzance Traditional's more restrained top-end sits alongside the guitars rather than fighting them.
+
+The 16" and 18" Byzance Medium crashes provide fast attack and warm decay — essential for an album where section changes are frequent and the crash cymbal needs to punctuate transitions without sustaining into the following section. This Meinl Byzance pairing was a distinct shift from the band's earlier cymbal choices, and it defines the sonic character of the *Shogun* drum sound as clearly as any other element of the setup.`,
+      estimatedValue: '$1,400–2,200 (Meinl Byzance Traditional series setup)'
+    },
+    hardware: {
+      title: 'Pedals, Sticks, and Hardware',
+      items: [
+        {
+          type: 'Double Bass Pedal',
+          brand: 'DW',
+          model: 'DW 9000 Series Double Pedal',
+          notes: "Double kick foundation for Shogun's 180+ BPM passages and extended title track",
+          description: "The DW 9000 Series double pedal powered Nick Augusto's *Shogun* double-kick architecture — one of the most technically demanding bass drum performances on any Trivium record. The DW 9000's direct-drive action delivers fast, consistent primary-to-secondary response across rapid alternating passages, essential for the 180+ BPM blast sections that appear throughout the album. The adjustable cam and footboard geometry allowed Augusto to dial in the feel required for both the album's explosive thrash passages and the more measured double-kick patterns in longer tracks like the 11:39 title song."
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'DW',
+          model: 'DW 9000 Series Hi-Hat Stand',
+          notes: 'Matched DW hardware series — consistent feel and stability across the kit'
+        },
+        {
+          type: 'Throne',
+          brand: 'Roc-N-Soc',
+          model: 'Roc-N-Soc Nitro Throne',
+          notes: 'Support and stability for the album\'s technically demanding, extended recording sessions'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth 5A American Classic',
+          notes: "Standard 5A — Augusto's technique delivers the dynamics and power, not a heavier stick"
+        }
+      ],
+      heads: {
+        bassKick: 'Evans EMAD Clear (front: Evans Resonant Bass)',
+        toms: 'Evans UV1 Coated batter heads — consistent tone and durability across the full five-tom configuration',
+        snare: 'Evans UV1 Coated'
+      }
+    },
+    trackAnalysis: [
+      {
+        track: 'Kirisute Gomen',
+        highlights: [
+          'Album opener — immediate statement of thrash intensity and technical precision',
+          'Double-kick foundation establishes the DW 9000\'s role across the record',
+          'Odd-time signature work in the verse sections demonstrates Augusto\'s progressive vocabulary',
+          'Meinl Byzance crashes punctuate section changes with dark, defined accents'
+        ],
+        gearNotes: "DW 9000 double pedal drives the opening thrash assault. Byzance Traditional hi-hats cut through Trivium's dense guitar arrangement with controlled, dark top-end."
+      },
+      {
+        track: 'Torn Between Scylla and Charybdis',
+        highlights: [
+          'One of the album\'s most technically demanding tracks for drums',
+          'Complex odd-time signatures woven through aggressive double-kick sections',
+          'Showcases Augusto\'s ability to maintain pocket and feel in irregular meter',
+          'Widely studied by drummers for its metric complexity within a metal framework'
+        ],
+        gearNotes: "DW Performance Series tom configuration provides the range needed for the track's rhythmic complexity. DW 9000 pedal delivers consistent action across varying bass drum patterns."
+      },
+      {
+        track: 'The Calamity',
+        highlights: [
+          '9:55 epic — the album\'s most extended progressive statement before the title track',
+          'Jazz-influenced passages in the middle section contrast aggressive thrash bookends',
+          'Ghost note patterns demonstrate Augusto\'s dynamic range and dynamic intelligence',
+          'Extended double-kick sequences in the climactic sections push the album\'s technical peak'
+        ],
+        gearNotes: "DW Edge snare sensitivity enables the jazz-influenced ghost note passages. Byzance cymbals' dark, complex voice serves the atmospheric mid-section without overstatement."
+      },
+      {
+        track: 'Shogun',
+        highlights: [
+          "Trivium's longest song at 11:39 — the album's compositional and emotional climax",
+          'Extended double-kick architecture across the full running time',
+          'Progressive sections featuring time signature changes demand sustained focus and precision',
+          'Final minutes feature climactic full-kit passages that represent the album\'s technical apex'
+        ],
+        gearNotes: "DW 9000 double pedal's stamina and consistency were critical across the 11:39 title track. Natural Lacquer Performance Series shells maintained tuning stability throughout the extended take."
+      }
+    ],
+    faq: [
+      {
+        question: 'What drums did Nick Augusto use on Shogun?',
+        answer: "Nick Augusto recorded Trivium's Shogun (2008) using a DW Performance Series kit in Natural Lacquer. The configuration featured a 22 inch single kick drum with DW 9000 double pedal, three rack toms (10, 12, and 14 inch), and two floor toms (16 and 18 inch). The DW Performance Series maple/poplar hybrid shells provided the projection and tonal consistency required for Shogun's technically demanding, wide-ranging drum parts — from aggressive thrash double-kick passages to the jazz-influenced sequences in The Calamity (9:55) and the 11:39 title track.",
+      },
+      {
+        question: 'Is Shogun the hardest Trivium album to play on drums?',
+        answer: "Shogun is widely regarded as the most technically demanding Trivium album for drums. The record spans 180+ BPM blast sections, extended odd-time signature passages, jazz-influenced ghost note sequences, and marathon extended tracks — the 9:55 The Calamity and 11:39 title track both demand sustained technical precision over running times that few metal songs match. Nick Augusto's performance on Shogun stands as his career benchmark, combining aggressive thrash technique with the progressive metric vocabulary the album's writing required.",
+      },
+      {
+        question: 'What time signature is the Shogun title track?',
+        answer: "The Shogun title track (11:39) moves through multiple time signatures across its running time — sections in 4/4 alternate with passages in 7/8, 5/4, and compound meters that reflect the album's progressive thrash ambitions. The track's structural complexity was one of the reasons Shogun was received as Trivium's compositional peak: it demonstrated a band willing to sustain extended compositional architecture across nearly twelve minutes without sacrificing energy or engagement.",
+      },
+      {
+        question: 'Did Nick Augusto play all drums on the Shogun album?',
+        answer: "Yes, Nick Augusto performed all drum parts on Trivium's Shogun (2008), recorded at Audiohammer Studio in Sanford, Florida with producer Jason Suecof. Augusto's performance across the album's ten tracks — including the 9:55 The Calamity and 11:39 title track — represents the full technical range of his contributions to the record. The DW Performance Series kit, Meinl Byzance cymbals, and DW 9000 double pedal he used in these sessions are the gear that defines the Shogun drum sound.",
+      }
+    ],
+    conclusion: {
+      title: "Shogun: Nick Augusto's Career Benchmark and Trivium's Masterpiece",
+      content: `*Shogun* occupies a singular position in both Trivium's catalog and the broader landscape of 2000s progressive thrash metal. Nick Augusto's performance across its 70 minutes — supported by the DW Performance Series kit, Meinl Byzance cymbals, and DW 9000 double pedal — stands as his most complete statement as a drummer: technically precise, dynamically intelligent, and capable of sustaining compositional engagement across the album's most demanding running times.
+
+The gear choices reflect the album's demands precisely: the DW Performance Series' five-tom configuration gave Augusto the sonic range the album's writing required across multiple genre modes; the Meinl Byzance Traditional series brought a darker, more complex top-end than the band had used previously, matching *Shogun*'s more sophisticated production character; the DW 9000 double pedal provided the mechanical precision and consistency that 180+ BPM passages and 11-minute title tracks both require.
+
+For the complete picture of Nick Augusto's gear across his Trivium tenure, see the [Nick Augusto drum setup guide](/articles/nick-augusto-drum-setup), which covers his In Waves and Vengeance Falls era Tama Starclassic rig. For genre context, see the [ashes of the wake drum setup](/articles/ashes-of-the-wake-drum-setup) and [thrash metal genre overview](/genre/thrash-metal). *Shogun* is the album that defines what Trivium could accomplish at full compositional stretch — and Nick Augusto's performance is inseparable from that achievement.`
+    },
+    relatedAlbums: ['nick-augusto-drum-setup', 'ashes-of-the-wake-drum-setup'],
+    relatedDrummers: [26],
+    relatedArticles: ['thrash-metal-drummers', 'double-bass-drumming-for-metal'],
+    schema: {
+      '@context': 'https://schema.org',
+      '@graph': [
+        {
+          '@type': 'Article',
+          headline: "Shogun Drum Setup: Nick Augusto's Gear on Trivium's Magnum Opus (2008)",
+          description: "Discover the exact drum kit, cymbals, and gear Nick Augusto used to record Trivium's progressive thrash masterpiece Shogun (2008). Full breakdown of the DW Performance Series kit, Meinl Byzance cymbals, DW 9000 pedals, and the technical demands behind one of modern metal's most ambitious drum performances.",
+          author: {
+            '@type': 'Organization',
+            name: 'MetalForge Editorial'
+          },
+          datePublished: '2026-06-24',
+          dateModified: '2026-06-24'
+        },
+        {
+          '@type': 'BreadcrumbList',
+          itemListElement: [
+            { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://metalforge.io/' },
+            { '@type': 'ListItem', position: 2, name: 'Articles', item: 'https://metalforge.io/articles' },
+            { '@type': 'ListItem', position: 3, name: 'Shogun Drum Setup', item: 'https://metalforge.io/articles/shogun-drum-setup' }
+          ]
+        },
+        {
+          '@type': 'MusicAlbum',
+          name: 'Shogun',
+          byArtist: {
+            '@type': 'MusicGroup',
+            name: 'Trivium'
+          },
+          datePublished: '2008-09-30',
+          genre: 'Progressive Thrash Metal',
+          recordLabel: {
+            '@type': 'Organization',
+            name: 'Roadrunner Records'
+          },
+          track: [
+            { '@type': 'MusicRecording', name: 'Kirisute Gomen' },
+            { '@type': 'MusicRecording', name: 'Torn Between Scylla and Charybdis' },
+            { '@type': 'MusicRecording', name: 'Down from the Sky' },
+            { '@type': 'MusicRecording', name: 'Into the Mouth of Hell We March' },
+            { '@type': 'MusicRecording', name: 'Throes of Perdition' },
+            { '@type': 'MusicRecording', name: 'Insurrection' },
+            { '@type': 'MusicRecording', name: 'The Calamity' },
+            { '@type': 'MusicRecording', name: 'He Who Spawned the Fates' },
+            { '@type': 'MusicRecording', name: 'Of All These Yesterdays' },
+            { '@type': 'MusicRecording', name: 'Shogun' }
+          ]
+        },
+        {
+          '@type': 'Person',
+          name: 'Nick Augusto',
+          birthDate: '1988-04-16',
+          birthPlace: {
+            '@type': 'Place',
+            name: 'Orlando, Florida, USA'
+          },
+          memberOf: {
+            '@type': 'MusicGroup',
+            name: 'Trivium'
+          },
+          instrument: 'Drums'
+        },
+        {
+          '@type': 'FAQPage',
+          mainEntity: [
+            {
+              '@type': 'Question',
+              name: 'What drums did Nick Augusto use on Shogun?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "Nick Augusto recorded Trivium's Shogun (2008) using a DW Performance Series kit in Natural Lacquer. The configuration featured a 22\" single kick drum with DW 9000 double pedal, three rack toms (10\", 12\", and 14\"), and two floor toms (16\" and 18\"). The DW Performance Series maple/poplar hybrid shells provided the projection and tonal consistency required for Shogun's technically demanding drum parts — from 180+ BPM thrash passages to the jazz-influenced sequences in The Calamity (9:55) and the 11:39 title track."
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'Is Shogun the hardest Trivium album to play on drums?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "Shogun is widely regarded as the most technically demanding Trivium album for drums. The record spans 180+ BPM blast sections, odd-time signature passages, jazz-influenced ghost note sequences, and extended tracks — The Calamity (9:55) and the title track (11:39) both demand sustained technical precision over running times that few metal songs match."
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'What time signature is the Shogun title track?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "The Shogun title track (11:39) moves through multiple time signatures across its running time — sections in 4/4 alternate with passages in 7/8, 5/4, and compound meters that reflect the album's progressive thrash ambitions. The track's structural complexity is one reason Shogun is received as Trivium's compositional peak."
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'Did Nick Augusto play all drums on the Shogun album?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "Yes, Nick Augusto performed all drum parts on Trivium's Shogun (2008), recorded at Audiohammer Studio in Sanford, Florida with producer Jason Suecof. The DW Performance Series kit, Meinl Byzance cymbals, and DW 9000 double pedal he used define the Shogun drum sound across all ten tracks."
+              }
+            }
+          ]
+        }
+      ]
+    }
   }
 };
 

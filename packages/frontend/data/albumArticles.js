@@ -35686,6 +35686,386 @@ For Mikkey Dee's complete setup evolution — from the Tama era through his Yama
 
 🤘 *Twenty-three years with the world's loudest band. It started here.* 🤘`
     }
+  },
+
+  'black-sabbath-debut-drum-setup': {
+    slug: 'black-sabbath-debut-drum-setup',
+    albumTitle: 'Black Sabbath',
+    artist: 'Black Sabbath',
+    drummer: 'Bill Ward',
+    drummerId: 30,
+    relatedDrummerSlug: 'bill-ward',
+    year: 1970,
+    genre: 'Heavy Metal / Doom Metal',
+    label: 'Vertigo Records',
+    studio: 'Regent Sound Studios, London',
+    producer: 'Rodger Bain',
+    isAlbumArticle: true,
+    datePublished: '2026-06-24',
+    dateModified: '2026-06-24',
+    author: 'MetalForge Editorial',
+    title: "Black Sabbath Debut Drum Setup: Bill Ward's Kit on the Album That Started Heavy Metal (1970)",
+    description: "Discover the exact drum kit, cymbals, and gear Bill Ward used to record Black Sabbath's self-titled debut (1970). Complete breakdown of the Ludwig and Paiste setup behind the 12-hour recording session that invented heavy metal.",
+    seoKeywords: ['bill ward drum kit 1970', 'black sabbath debut album drums', 'black sabbath first album drum setup', 'bill ward gear 1970', 'black sabbath recording 1969', 'regent sound studios drums', 'paiste giant beat bill ward', 'ludwig super classic black sabbath'],
+    ogImage: '/images/drummers/bill-ward.webp',
+    intro: {
+      title: 'Twelve Hours That Changed Music Forever',
+      content: `On October 16, 1969, four young men from Birmingham, England walked into Regent Sound Studios on Denmark Street, London. Twelve hours later, they walked out having recorded the album that would invent heavy metal. The band was Black Sabbath. The drummer was Bill Ward.
+
+Released on Friday the 13th of February, 1970 on Vertigo Records, *Black Sabbath* was a record unlike anything that had come before. Tony Iommi's downtuned tritone riffs, Geezer Butler's grinding bass, Ozzy Osbourne's wailing vocals, and Bill Ward's jazz-inflected rhythms combined to create a sound that terrified critics, thrilled audiences, and spawned an entire genre.
+
+Bill Ward was twenty years old when he recorded the Black Sabbath debut. His drumming background was rooted in jazz and blues — Tony Williams, Ginger Baker, and Gene Krupa were his gods. That foundation is audible everywhere on the debut: in the swinging fill that opens "The Wizard," in the loose, swinging groove beneath the title track "Black Sabbath," in the dynamic range he brings to the ten-minute "Warning." This was not a rock drummer playing metal. This was a jazz drummer playing music heavier than anything jazz had ever attempted.
+
+The kit Ward used for these sessions was a Ludwig Super Classic — a compact professional setup typical of late-1960s British touring musicians. His cymbal choice was Paiste Giant Beat, the Swiss-made series that became his first endorsement deal and the defining sound of early Sabbath. The Ludwig Speed King pedal completed the setup, its direct-drive feel perfectly matched to Ward's single-foot technique developed from years of jazz study.
+
+What makes the debut distinct from *Paranoid* (recorded just eight months later) is the rawness. The Regent Sound environment was sparse, the budget was minimal, and Rodger Bain's production philosophy was capture-and-go. There were no overdubs to smooth over the edges, no click tracks to tighten the timing. What you hear is four musicians recording live in a room, finding the sound of heavy metal in real time.
+
+The title track "Black Sabbath" — with its tritone rain-and-thunder intro, its grinding 3/4 groove, Ward's ominous tom patterns descending through the darkness — is widely cited as the moment heavy metal was born. That performance came from a twenty-year-old jazz drummer with a compact Ludwig kit and twelve hours on the clock. This article breaks down every piece of gear that made it happen.`,
+      keyPoints: [
+        'Recorded in 12 hours at Regent Sound Studios, London, October 1969',
+        'Released February 13, 1970 — the first heavy metal album',
+        'Bill Ward\'s jazz influences (Tony Williams, Ginger Baker) shaped every fill and groove',
+        'Paiste Giant Beat cymbals — Ward\'s first major endorsement',
+        'Compact Ludwig Super Classic kit, more minimal than his later touring rigs',
+        '"Black Sabbath" (the song) is the founding document of doom metal and heavy metal'
+      ]
+    },
+    drumKit: {
+      title: "Bill Ward's Ludwig Super Classic: The Kit That Started Heavy Metal",
+      brand: 'Ludwig',
+      model: 'Ludwig Super Classic',
+      finish: 'Silver Sparkle / Natural finish',
+      config: {
+        bassdrums: ['20" x 14" Bass Drum'],
+        toms: ['12" x 8" Rack Tom', '13" x 9" Rack Tom'],
+        floorToms: ['16" x 16" Floor Tom'],
+        shells: 'Maple shells, vintage 1969 construction with reinforcement rings'
+      },
+      description: `Bill Ward's kit on the Black Sabbath debut was a Ludwig Super Classic — the same American-made maple-shell professional line that had become the standard for serious British rock drummers in the late 1960s. Ludwig's dominance in the era was near-total: Ringo Starr had put the brand on every television set in Britain, and every aspiring rock drummer in Birmingham followed.
+
+The Super Classic configuration Ward used was compact by any standard: a 20" kick drum, two rack toms (12" and 13"), and a single 16" floor tom. No double bass, no extra floor toms, no sprawling percussion additions. The setup reflected Ward's jazz background — he had absorbed Tony Williams and Max Roach, both of whom generated maximum musical content from minimal kit configurations.
+
+The 20" bass drum deserves particular attention. By 1969, some rock drummers were already pushing toward 22" and 24" kick drums for maximum low-end. Ward's 20" was a jazz-derived choice — more responsive, quicker to attack, with a tighter fundamental pitch that sat more precisely in the mix. On "Black Sabbath" and "N.I.B.," the kick drum doesn't thunder beneath the riff: it articulates with it, matching the rhythmic subdivision of Iommi's guitar in a way a larger, slower drum couldn't achieve.
+
+The maple shells were tuned for resonance rather than dampened for attack. Rodger Bain's minimal microphone approach — close-miking with limited room treatment — captured the natural character of the wood, giving the debut's drums a warm, woody quality that contrasts notably with the drier, more processed sounds that would develop through the 1970s. When the snare cracks on "Evil Woman," it rings into the room. When the toms cascade through "Warning," they sustain naturally. This is what drums sound like when no one has tried to engineer the life out of them.
+
+The hardware was Ludwig's standard professional touring spec: P85 snare throw-off, 1461 tom mounts, memory locks. Built for a working musician who needed equipment that survived nightly loading and unloading. The Super Classic was a workhorse, not a boutique instrument. That utility-first character contributed to the debut's stripped, unvarnished sound.`,
+      notes: [
+        'Compact 20" bass drum — jazz-derived choice for responsiveness over raw power',
+        'Two rack toms and one floor tom — Ward\'s jazz economy applied to metal',
+        'Maple shells tuned to ring naturally, no dampening',
+        'Single bass drum throughout — no double pedal',
+        'Ludwig Super Classic was the dominant British professional kit of the era'
+      ],
+      estimatedValue: '$600–1,200 (1969) / $5,000–14,000 (vintage today)'
+    },
+    snare: {
+      title: "The Ludwig Supra-Phonic: Heavy Metal's Original Crack",
+      brand: 'Ludwig',
+      model: 'Ludwig Supra-Phonic 400',
+      size: '14" x 5"',
+      shell: 'Seamless aluminum (Ludalloy)',
+      description: `The snare drum on the Black Sabbath debut is a Ludwig Supra-Phonic — the aluminum-shell professional snare that Ludwig introduced in the late 1950s and that became the industry standard by the mid-1960s. Its seamless Ludalloy shell produces a bright, sensitive response with a cutting attack that slices through even the densest guitar arrangements.
+
+Ward's Supra-Phonic on the debut carries more body than the Acrolite he would use on subsequent recordings. At 5" depth, the drum has enough shell length to produce a full, round fundamental beneath the attack — audible on the slower groove of "Black Sabbath" where each snare hit needs to hold its own against Iommi's cavernous riff. The aluminum shell also responds quickly to ghost notes, and Ward's jazz background made him a ghost-note player: listen closely to his snare patterns on "The Wizard" and "Behind the Wall of Sleep" for the quiet notes between the loud ones.
+
+Bain's close-mic approach on the debut captured the Supra-Phonic with minimal processing. The result is a snare sound that feels immediate — every hit arrives in the room rather than through a layer of production. The crack on the 2 and 4 throughout "Evil Woman" is one of the most direct snare sounds on any early metal recording.
+
+Ward played with moderate tension — the drum was tuned for projection and crack rather than extreme tightness. Coated Remo Ambassador heads were standard for the era: the coating adds a degree of warmth to the attack, reducing the pure brightness of the aluminum shell to something slightly more organic.`,
+      tuningSetting: 'Medium tension for crack and projection with natural sustain',
+      heads: 'Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$80–120 (1969) / $200–450 (vintage today)'
+    },
+    cymbals: {
+      title: 'Paiste Giant Beat: The Swiss Bronze Behind the Birth of Metal',
+      brand: 'Paiste',
+      series: 'Giant Beat',
+      setup: [
+        { type: 'Hi-Hats', model: 'Paiste Giant Beat 15" Hi-Hats', position: 'Left side', notes: "Ward's first endorsement — heavier and darker than the Zildjian alternatives, perfect for swung jazz feel" },
+        { type: 'Ride', model: 'Paiste Giant Beat 22" Ride', position: 'Right side', notes: 'Primary time-keeping surface — warm, complex Swiss bronze with a washy, sustained character' },
+        { type: 'Crash', model: 'Paiste Giant Beat 18" Crash', position: 'Above rack toms', notes: 'Mid-weight crash for accent and fill punctuation' },
+        { type: 'Crash', model: 'Paiste Giant Beat 20" Crash', position: 'Left side', notes: 'Larger crash for dramatic accents — used sparingly on the debut' }
+      ],
+      description: `The cymbal choice on the Black Sabbath debut is Paiste Giant Beat — the Swiss-made series that became Bill Ward's first major endorsement and the defining cymbal sound of early Black Sabbath. The Giant Beat's character is distinctive: heavier than typical American bronze, with a full, warm, slightly dark sound profile that sits between a jazz cymbal and a hard-rock crash. For the music Sabbath was making in 1969, it was the perfect choice.
+
+The 15" hi-hats are central to Ward's playing on the debut. His jazz background made him a hi-hat player first — his primary rhythmic expression came from the open/close motion and the varied pressure of his left hand rather than the bass drum patterns that rock drummers typically led with. On "Black Sabbath" and "N.I.B.," the hi-hat's heavy, slightly dark character provides a textural foundation beneath the riff that a lighter Zildjian would not have achieved. The Giant Beat's weight required Ward to play deliberately — there was no accidental articulation from these cymbals.
+
+The 22" ride was Ward's primary time-keeping surface for longer sections. Giant Beat rides of the era have a unique quality: enough body to project over loud guitar, but with a warmth that never became harsh. Ward exploited this by playing in the bow with varying pressure — a jazz technique that gives the ride a musical, breathing quality rather than the mechanical, metronomic surface that later metal drummers would favor.
+
+The crash configuration — 18" and 20" — gave Ward two different options for accenting fills and song climaxes. His crash technique was reserved and musical, rooted in jazz principles: cymbals arrived at moments of genuine musical meaning rather than on every downbeat. "Warning" is the clearest example of this — an extended improvisational track where Ward's crashes land at dramatic points rather than by formula.`,
+      estimatedValue: '$400–700 total (1969) / $2,500–5,000 (vintage today)'
+    },
+    hardware: {
+      title: "Ludwig Speed King and Standard Hardware: Single-Pedal Jazz Philosophy",
+      items: [
+        {
+          type: 'Bass Drum Pedal',
+          brand: 'Ludwig',
+          model: 'Ludwig Speed King',
+          notes: 'Single pedal — Ward\'s jazz single-foot technique throughout the debut sessions',
+          description: `The Ludwig Speed King was the bass drum pedal of choice for British professional drummers in the late 1960s. Its direct-drive mechanism and reliable spring tension suited Ward's foot technique — developed from years of jazz listening rather than rock power drumming. The Speed King's direct feel allowed Ward to place kick drum hits with the same precision he applied to his snare and hi-hat, locking the bass drum into the groove rather than simply providing a rhythmic foundation beneath it. On "Black Sabbath" and "The Wizard," the kick drum placement is melodic, following the contour of the riff with jazz drummer's attention to note placement.`
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Ludwig',
+          model: 'Ludwig Atlas Hi-Hat Stand',
+          notes: 'Standard Ludwig hardware — Ward positioned hats at jazz height, slightly higher than rock convention'
+        },
+        {
+          type: 'Throne',
+          brand: 'Ludwig',
+          model: 'Ludwig Standard Throne',
+          notes: 'Basic throne — the 12-hour session left no time for ergonomic experimentation'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Ludwig',
+          model: 'Ludwig 2B Hickory',
+          notes: 'Heavier than a standard 5A — Ward needed the mass for projection without a PA-era monitor setup'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Fiberskyn (period-typical) or Remo Ambassador Clear',
+        toms: 'Remo Ambassador Coated',
+        snare: 'Remo Ambassador Coated'
+      }
+    },
+    recordingTechniques: {
+      title: 'Twelve Hours at Regent Sound: How Heavy Metal Was Born in a Single Session',
+      content: `The Black Sabbath debut was recorded in a single extended session on October 16, 1969. Twelve hours. Regent Sound Studios on Denmark Street — a modest facility that had previously hosted the Rolling Stones and the Kinks — was not a prestigious booking. It was what Sabbath's manager Jim Simpson could afford.
+
+**The Recording Philosophy:**
+Producer Rodger Bain was twenty years old, making the Black Sabbath debut one of his first significant productions. His approach was born of necessity as much as philosophy: minimal overdubs, live band recording, close-miking, and quick decisions. There was no budget for extensive experimentation. What Sabbath played is what the album contains.
+
+**The 12-Hour Constraint:**
+The compressed timeline created a performance document rather than a constructed recording. Ward couldn't replace individual fills or re-record specific sections. When the take was captured, it moved on. This urgency is audible throughout the debut — particularly on "Warning," the ten-minute extended improvisation that closes the original Side Two, where Ward's playing has the responsive, reactive quality of live jazz because it was, effectively, live jazz in a studio context.
+
+**Microphone Setup (period-typical):**
+- Kick drum: Shure SM57 or equivalent dynamic mic, placed inside the drum
+- Snare: Shure SM57 top only — no bottom mic for snare resonance
+- Toms: Single dynamic mic per tom, positioned close
+- Overheads: AKG C12 or similar large-diaphragm condenser pair
+- No dedicated room mics — room ambience entered through overhead bleed
+
+**The Sound of the Room:**
+Regent Sound's live room was small by later standards. The acoustic character of that space — slight reverb, natural ambience, the bleed between instruments — is part of the debut's sound. Guitar bled into the overheads. Bass resonated in the kick drum. When you hear the debut album, you hear a band in a room, which is precisely what it was.
+
+**Ward's Improvisational Approach:**
+Without click tracks, without charts, Ward played by feel and by response. His jazz background made him an ensemble listener — he didn't play a predetermined drum part so much as react to what Iommi, Butler, and Osbourne were doing in real time. "Warning" is the clearest expression of this: a ten-minute performance in which Ward makes spontaneous decisions about fill placement, tempo variation, and dynamic level based on what the music demands, not what a part dictates.`,
+      keyTechniques: [
+        'Live band recording with natural instrument bleed — no isolation booth separation',
+        'Minimal close-miking without elaborate multi-mic overhead rigs',
+        'No click track — Ward\'s internal feel drives the session',
+        'Single-take captures throughout — the 12-hour budget allowed no extensive do-overs',
+        'Improvisational jazz approach to fill placement and dynamic control'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'Black Sabbath',
+        bpm: '64–68 (main groove), slower in 3/4 intro section',
+        signature: '3/4 (intro) / 4/4 (main)',
+        highlights: [
+          'The opening tom pattern in 3/4 descends through the toms with a doom-metal gravity that defined an entire subgenre',
+          'Ward navigates a time signature change from 3/4 to 4/4 with jazz-trained ease',
+          'The main groove is locked to Iommi\'s tritone riff — one of the earliest riff-locked drum performances in metal',
+          'Dynamic restraint throughout: Ward plays less rather than more, letting the riff breathe'
+        ],
+        gearNotes: 'The Paiste Giant Beat ride provides a dark, washy foundation beneath the 3/4 intro. The Supra-Phonic snare cuts through the dense riff on the main groove.'
+      },
+      {
+        track: 'The Wizard',
+        bpm: '120–124',
+        signature: '4/4',
+        highlights: [
+          'The opening fill — swinging, triplet-based, descending through the toms — announces Ward\'s jazz identity immediately',
+          'Hi-hat pattern throughout has a subtle swing that gives the track its driving but human feel',
+          'Ghost notes on the snare are audible between primary hits — a jazz technique in a blues-metal context',
+          'Ward\'s fill vocabulary here is the most overtly jazz-derived moment on the debut'
+        ],
+        gearNotes: 'The Giant Beat 15" hi-hats are central to "The Wizard" — their heavy, dark character gives the swung pattern its weight. The 20" kick drum responds quickly to Ward\'s triplet-influenced foot patterns.'
+      },
+      {
+        track: 'N.I.B.',
+        bpm: '90–96',
+        signature: '4/4',
+        highlights: [
+          'Bass intro by Geezer Butler is followed by Ward\'s entry — a textbook example of how a jazz drummer enters a groove',
+          'The main groove is deceptively simple: kick on 1, snare on 2 and 4, hi-hat in eighths. Its power comes from placement precision.',
+          'The riff change at the chorus demonstrates Ward\'s ability to anticipate harmonic movement and adjust groove texture accordingly',
+          'One of the most groove-focused performances on the debut — restraint over complexity'
+        ],
+        gearNotes: 'The Supra-Phonic snare\'s aluminum clarity cuts through Butler\'s bass on the 2 and 4 without fighting for frequency space. The 22" Paiste ride provides the sustained ride texture on the verse.'
+      },
+      {
+        track: 'Warning',
+        bpm: '76–90 (variable — improvised)',
+        signature: '4/4',
+        highlights: [
+          'Ten-minute improvisation based on a Aynsley Dunbar composition — Ward\'s most extended and jazz-rooted performance on the debut',
+          'Tempo fluctuates naturally as the band responds to each other — no click track, no rigidity',
+          'Fill placement is entirely improvisational: Ward reacts to Iommi\'s guitar in real time',
+          'The longest single performance on the debut demonstrates Ward\'s stamina and musical intelligence under sustained improvisation'
+        ],
+        gearNotes: 'The Giant Beat crash cymbals (18" and 20") provide dramatic punctuation at Ward\'s chosen moments throughout "Warning." The 22" ride sustains beneath long improvised sections.'
+      }
+    ],
+    faq: [
+      {
+        question: "What was Bill Ward's drum kit on Black Sabbath (1970)?",
+        answer: `Bill Ward recorded the Black Sabbath debut album (released February 1970) on a Ludwig Super Classic drum kit — a compact professional setup with a 20" bass drum, 12" and 13" rack toms, and a 16" floor tom with maple shells. His snare was a Ludwig Supra-Phonic 400 aluminum-shell drum in 14" x 5" configuration. The entire session took place at Regent Sound Studios, London, over approximately 12 hours in October 1969. For the complete breakdown of Ward's career gear including his later Ludwig Vistalite setup, see the [Bill Ward kit guide](/articles/whats-in-bill-wards-kit).`
+      },
+      {
+        question: 'How long did it take to record Black Sabbath?',
+        answer: `The Black Sabbath debut album was recorded in approximately 12 hours in a single extended session on October 16, 1969 at Regent Sound Studios on Denmark Street, London. Producer Rodger Bain's approach was deliberately minimal: live band performance with close-miking, no click tracks, and limited overdubs. The compressed timeline meant Ward could not re-record individual fills or extensively refine drum parts — what he played is what the album contains. The album was released on February 13, 1970 on Vertigo Records, making the gap between recording and release approximately four months. The 12-hour recording constraint is part of what gives the debut its raw, immediate character compared to the more polished sound of *Paranoid*, recorded eight months later.`
+      },
+      {
+        question: "What makes Bill Ward's drumming on the debut album unique?",
+        answer: `Bill Ward's drumming on the Black Sabbath debut (1970) is unique for several reasons that separate it from both the rock drumming of the era and his own later work on *Paranoid*. First, the jazz influence is most audible here: Ward was twenty years old and his vocabulary was built primarily from Tony Williams, Ginger Baker, and Gene Krupa. The swinging fills on "The Wizard," the responsive improvisation on "Warning," and the dynamic restraint throughout all reflect jazz sensibility before the heavier groove fully locked in. Second, Ward uses Paiste Giant Beat cymbals — his first endorsement — which give the debut a darker, heavier cymbal character than the Zildjian bronze of later recordings. Third, the 12-hour recording constraint forced Ward to commit to improvisational decisions rather than refine them across multiple sessions, giving the debut a spontaneity that later Sabbath recordings don't match. See the [Bill Ward drummer profile](/drummer/bill-ward) for the complete exploration of his technique across all eras, and [Black Sabbath's *Paranoid* drum setup](/articles/paranoid-drum-setup) for how his approach evolved eight months later.`
+      },
+      {
+        question: "What cymbals did Bill Ward use on Black Sabbath's debut album?",
+        answer: `Bill Ward used Paiste Giant Beat cymbals on the Black Sabbath debut — 15" hi-hats, an 18" crash, a 20" crash, and a 22" ride. The Giant Beat series was Ward's first major cymbal endorsement. Swiss-made Paiste bronze has a heavier, darker character than American Zildjian or Sabian, which contributed to the debut's dense, ominous cymbal texture. The 15" hi-hats — larger than the standard 14" that most rock drummers used — gave Ward's swung jazz patterns more body and projection in Regent Sound's small live room. The Giant Beat series is still available today, revived by Paiste, and remains the most historically accurate cymbal choice for anyone attempting to recreate the debut's drum sound.`
+      }
+    ],
+    evolution: {
+      title: "From the Debut to Paranoid: Bill Ward's Setup Evolution in 1970",
+      content: `The Black Sabbath debut and *Paranoid* were recorded just eight months apart — both at Regent Sound Studios, both produced by Rodger Bain, both with Bill Ward behind the kit. But the two recordings sound different, and the gear differences contribute to that distinction.
+
+**The Debut vs. Paranoid:**
+The debut used Paiste Giant Beat cymbals; *Paranoid* featured Avedis Zildjian bronze. The Giant Beat's heavier, darker character suits the debut's slower, more doom-oriented material — "Black Sabbath" and "N.I.B." benefit from the weight of Swiss bronze. The Zildjian's warmer, more complex sound profile suited *Paranoid*'s faster, more dynamic material. Ward's snare also changed between recordings: the Supra-Phonic on the debut gave way to the Acrolite on *Paranoid*, shifting from a warmer aluminum crack to a brighter, more cutting one.
+
+**What Stayed the Same:**
+The Ludwig Super Classic kit configuration (20" kick, two rack toms, one floor tom), the Ludwig Speed King pedal, and the fundamental playing philosophy — jazz sensibility applied to the heaviest music being made — remained constant. The biggest continuity between the two albums is Bill Ward himself: a drummer whose approach didn't change between sessions because his musical identity was already fully formed at twenty years old.
+
+**The Broader Evolution:**
+After *Paranoid*, Ward's kit grew with Sabbath's success and touring demands. By the mid-1970s, he was using larger Ludwig Vistalite acrylic shells in larger configurations, a 24" bass drum for arena projection, and an expanded cymbal setup. But the jazz-rooted philosophy remained. The complete career arc is documented in the [Bill Ward kit guide](/articles/whats-in-bill-wards-kit).`,
+      thenVsNow: [
+        { category: 'Kit', then: 'Ludwig Super Classic (vintage maple, 1969)', now: 'Modern equivalent: Ludwig Classic Maple' },
+        { category: 'Snare', then: 'Ludwig Supra-Phonic 14" x 5" aluminum', now: 'Ludwig Supra-Phonic still in production — nearly identical to 1969 original' },
+        { category: 'Cymbals', then: 'Paiste Giant Beat (vintage Swiss bronze)', now: 'Paiste Giant Beat series — revived and currently available' },
+        { category: 'Pedal', then: 'Ludwig Speed King (single)', now: 'Ludwig Speed King still available — classic single-pedal choice' },
+        { category: 'Sticks', then: 'Ludwig 2B Hickory', now: 'Vic Firth 2B or Pro-Mark 2B equivalent' }
+      ]
+    },
+    videos: [],
+    relatedAlbums: ['whats-in-bill-wards-kit', 'paranoid-drum-setup'],
+    relatedDrummers: [1, 4, 12],
+    relatedArticles: ['groove-drumming', 'history-of-metal-drumming'],
+    relatedLicks: [
+      { drummerSlug: 'bill-ward', lickSlug: 'bill-ward-iron-man-groove', label: "Watch Bill Ward's riff-locked groove breakdown" }
+    ],
+    internalLinks: [
+      { text: 'Bill Ward drummer profile', url: '/drummer/bill-ward' },
+      { text: "Bill Ward kit guide — full career setup", url: '/articles/whats-in-bill-wards-kit' },
+      { text: 'Black Sabbath Paranoid drum setup', url: '/articles/paranoid-drum-setup' },
+      { text: 'Groove drumming techniques', url: '/techniques/groove-drumming' }
+    ],
+    schema: {
+      '@context': 'https://schema.org',
+      '@graph': [
+        {
+          '@type': 'Article',
+          headline: "Black Sabbath Debut Drum Setup: Bill Ward's Kit on the Album That Started Heavy Metal (1970)",
+          description: "Discover the exact drum kit, cymbals, and gear Bill Ward used to record Black Sabbath's self-titled debut (1970). Complete breakdown of the Ludwig and Paiste setup behind the 12-hour recording session that invented heavy metal.",
+          author: {
+            '@type': 'Organization',
+            name: 'MetalForge Editorial'
+          },
+          datePublished: '2026-06-24',
+          dateModified: '2026-06-24'
+        },
+        {
+          '@type': 'MusicAlbum',
+          name: 'Black Sabbath',
+          byArtist: {
+            '@type': 'MusicGroup',
+            name: 'Black Sabbath'
+          },
+          datePublished: '1970-02-13',
+          genre: 'Heavy Metal',
+          recordLabel: {
+            '@type': 'Organization',
+            name: 'Vertigo Records'
+          },
+          track: [
+            { '@type': 'MusicRecording', name: 'Black Sabbath' },
+            { '@type': 'MusicRecording', name: 'The Wizard' },
+            { '@type': 'MusicRecording', name: 'Behind the Wall of Sleep' },
+            { '@type': 'MusicRecording', name: "N.I.B." },
+            { '@type': 'MusicRecording', name: 'Evil Woman' },
+            { '@type': 'MusicRecording', name: 'Sleeping Village' },
+            { '@type': 'MusicRecording', name: 'Warning' },
+            { '@type': 'MusicRecording', name: 'Wicked World' }
+          ]
+        },
+        {
+          '@type': 'Person',
+          name: 'Bill Ward',
+          memberOf: {
+            '@type': 'MusicGroup',
+            name: 'Black Sabbath'
+          },
+          instrument: 'Drums'
+        },
+        {
+          '@type': 'FAQPage',
+          mainEntity: [
+            {
+              '@type': 'Question',
+              name: "What was Bill Ward's drum kit on Black Sabbath (1970)?",
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "Bill Ward recorded the Black Sabbath debut on a Ludwig Super Classic with a 20\" bass drum, 12\" and 13\" rack toms, a 16\" floor tom, and a Ludwig Supra-Phonic 400 snare. The session took place at Regent Sound Studios, London in October 1969 over approximately 12 hours."
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'How long did it take to record Black Sabbath?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: 'The Black Sabbath debut was recorded in approximately 12 hours in a single session on October 16, 1969 at Regent Sound Studios, London. The album was released on February 13, 1970 on Vertigo Records.'
+              }
+            },
+            {
+              '@type': 'Question',
+              name: "What makes Bill Ward's drumming on the debut album unique?",
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "Bill Ward's debut drumming is uniquely raw and jazz-influenced. His Paiste Giant Beat cymbals, improvisational approach on tracks like 'Warning,' and the spontaneity forced by the 12-hour session create a document of a jazz drummer inventing heavy metal in real time — before the Paranoid groove fully locked in."
+              }
+            },
+            {
+              '@type': 'Question',
+              name: "What cymbals did Bill Ward use on Black Sabbath's debut album?",
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "Bill Ward used Paiste Giant Beat cymbals on the Black Sabbath debut — 15\" hi-hats, 18\" and 20\" crashes, and a 22\" ride. The Giant Beat was Ward's first major cymbal endorsement, and its heavier Swiss bronze character contributed to the debut's dense, dark cymbal texture."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    conclusion: {
+      title: 'Twelve Hours, One Album, One Genre',
+      content: `The Black Sabbath debut is the origin document of heavy metal. Not the most technically sophisticated, not the most polished, not the most commercially successful — but the first. And Bill Ward's drumming is inseparable from what that origin moment sounds like.
+
+A twenty-year-old jazz drummer with a compact Ludwig Super Classic and a set of Paiste Giant Beat cymbals walked into a twelve-hour session and played the rhythmic foundation of a genre. Every fill on "The Wizard" carries Tony Williams. Every groove on "N.I.B." carries Gene Krupa. Every improvised passage on "Warning" carries Ginger Baker. But the music that came out of Regent Sound on October 16, 1969 sounded like nothing that had come before.
+
+**For Drummers Studying the Debut:**
+Begin with "Black Sabbath" the song. Learn the 3/4 intro tom pattern and the transition to 4/4 when the main riff enters. This is the moment the genre was born, and Ward's navigation of the time signature change is effortless. Then study "The Wizard" for his hi-hat work — the subtle swing in the eighth-note pattern that separates jazz-trained drummers from rock players. Finally, listen to all ten minutes of "Warning" without stopping, paying attention to what Ward chooses not to play as much as what he plays.
+
+**The Gear Legacy:**
+The Ludwig Supra-Phonic snare Ward used on the debut is still in production, nearly identical to the 1969 original. Paiste's Giant Beat series has been revived and is readily available. A drummer who wants to approximate the debut's drum sound has achievable targets — both sonically and financially.
+
+**The Bill Ward Cluster:**
+The debut sits at the beginning of a distinct arc: [Bill Ward's kit guide](/articles/whats-in-bill-wards-kit) covers his full career setup, and [the *Paranoid* drum breakdown](/articles/paranoid-drum-setup) documents how his approach evolved just eight months after these sessions. Three articles, three eras, one of the most influential drummers in music history.
+
+For the complete exploration of Bill Ward's technique, see the [Bill Ward drummer profile](/drummer/bill-ward). The man who invented heavy metal drumming did it in twelve hours with a compact Ludwig kit and Swiss cymbals — and that is one of the most remarkable facts in the history of music.
+
+🥁 *Twelve hours. Regent Sound. February 13, 1970. The day heavy metal was born.* 🥁`
+    }
   }
 };
 

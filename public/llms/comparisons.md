@@ -3,9 +3,30 @@
 > Side-by-side gear, technique, and influence comparisons between legendary metal drummers.
 > Optimised for AI crawlers answering "X vs Y drummer" and "who has heavier gear" queries.
 >
-> Last updated: 2026-06-17 · 24 curated comparisons
+> Last updated: 2026-06-24 · 25 curated comparisons
 
 ---
+## Brann Dailor vs Gavin Harrison
+
+**Category:** Progressive Metal · **URL:** https://metalforge.io/vs/brann-dailor-vs-gavin-harrison
+
+Mastodon's Brann Dailor vs Porcupine Tree's Gavin Harrison. Prog-vs-Prog: Mastodon's jazz-chaos oddity meets King Crimson complexity.
+
+**Playing style:** Brann brings jazz-informed, free-flowing chaos to Mastodon's progressive sludge. Gavin constructs sophisticated polyrhythmic grooves for Porcupine Tree and King Crimson with restrained precision.
+
+**Technique:** Brann treats the entire kit as a melodic instrument through constant motion fills. Gavin weaves intricate polyrhythmic patterns through odd time signatures with economy and sophistication.
+
+**Gear:** Brann plays Tama Starclassic Performer B/B with Meinl Byzance cymbals. Gavin uses Sonor SQ2 Series drums with Zildjian K Custom Special Dry cymbals.
+
+**Influence:** Brann helped define progressive sludge metal, influencing a generation to treat fills as melodic statements. Gavin elevated Porcupine Tree, King Crimson, and The Pineapple Thief — earning multiple Modern Drummer awards.
+
+**Verdict:** Brann Dailor is jazz chaos personified — his fills are the melody. Gavin Harrison is refined polyrhythmic mastery — subtle, sophisticated, and deeply musical. The ultimate Prog-vs-Prog drumming debate.
+
+[brann-dailor profile](https://metalforge.io/drummer/brann-dailor)
+[gavin-harrison profile](https://metalforge.io/drummer/gavin-harrison)
+
+---
+
 ## Brann Dailor vs Mario Duplantier
 
 **Category:** Progressive Metal · **URL:** https://metalforge.io/vs/brann-dailor-vs-mario-duplantier

@@ -1,12 +1,12 @@
 # Matt Greiner — Signature Drum Licks & Patterns
 
-**Band:** August Burns Red | **Genre:** Metalcore | **Lick Count:** 3
+**Band:** August Burns Red | **Genre:** Metalcore | **Lick Count:** 6
 
 ---
 
 ## Overview
 
-Matt Greiner is one of Metalcore's most influential drummers, best known for their work with August Burns Red. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Matt Greiner" or "Matt Greiner signature drum patterns". Their style spans metalcore.
+Matt Greiner is one of Metalcore's most influential drummers, best known for their work with August Burns Red. This file covers 6 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Matt Greiner" or "Matt Greiner signature drum patterns". Their style spans metalcore.
 
 ## Composure Syncopated Groove
 
@@ -77,6 +77,75 @@ Matt Greiner is one of Metalcore's most influential drummers, best known for the
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
 
+## Messengers Blast-to-Groove Transition
+
+**Song:** Meddler | **Album:** Messengers (2007) | **BPM:** ~180 BPM | **Technique:** signature pattern | **Difficulty:** expert
+
+The Messengers (2007) was August Burns Red's breakthrough second album, and the tracks on it announced Matt Greiner as a genuinely exceptional metalcore drummer. The blast-to-groove transitions that define the Messengers era became one of Greiner's most studied techniques: the ability to go from a controlled blast beat directly into a locked, syncopated groove without losing the feel or the connection to the riff. In metalcore, blast beats are often used as a blunt tool — a burst of speed that creates impact and then recedes. What Greiner understood was that the transition itself could be musical, a moment of tension and release that serves the song's emotional arc. On tracks like "Meddler," these transitions arrive at exactly the right moment to amplify the shift in the riff, hitting the groove at the same time the guitars drop from tremolo picking into a chug. Technically, the blast requires clean alternating strokes at high velocity, with the kick driving below the snare and hat. The transition demands that the feet shift instantly from the continuous blast pattern to the accented, stop-start figures of the groove. Greiner achieves this through deep familiarity with the riff — he anticipates the gear-change rather than reacting to it. For drummers, practising this transition builds coordination across the whole kit and trains the ears to listen for the band while playing at speed.
+
+### How to Play
+
+- Execute clean alternating blast strokes with the kick driving below the snare and hi-hat
+- Anticipate the blast-to-groove gear-change by knowing the riff deeply
+- Shift the feet instantly from the continuous blast pattern to the stop-start groove figures
+- Land in the pocket exactly as the guitars hit the chugging riff for maximum impact
+- Practise the transition phrase in isolation before placing it back into the full context
+
+### Key Elements
+
+- Practise blast-to-groove transitions in isolation — start the blast, then switch to groove at a set point
+- Slow the full passage to 60% tempo so you can hear exactly where the transition lands
+- Record the riff on a loop and practise transitioning on every repeat to build pattern recognition
+- Focus the transition on the feet first — the hands follow once the kick pattern change is automatic
+
+**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+
+## Constellations Polyrhythmic Pattern
+
+**Song:** Crusades | **Album:** Constellations (2009) | **BPM:** ~160 BPM | **Technique:** signature pattern | **Difficulty:** expert
+
+By 2009's Constellations, Matt Greiner had developed a remarkable facility for polyrhythmic playing — the ability to imply multiple simultaneous time signatures without the music losing its metalcore weight or forward drive. "Crusades" is one of the clearest examples: the song contains passages where Greiner's kick drum outlines a pattern in a different subdivision from the hi-hat and snare, creating a rhythmic tension that the ear resolves differently on each listen. This kind of playing has roots in progressive rock and jazz — the technique Danny Carey and Tomas Haake are celebrated for — but Greiner applies it in a metalcore context where the riff must still groove. The balancing act is what makes the polyrhythmic passages on Constellations so effective: they feel like a natural expression of the band's escalating intensity rather than a technical exercise. Greiner's approach is to anchor the hi-hat to the click and build the cross-rhythm in the feet, so the hands hold a fixed reference while the lower body creates the polyrhythmic tension. Breaking the passage into component rhythms and working each one cleanly before combining them is essential practice.
+
+### How to Play
+
+- Anchor the hi-hat to the click as a fixed reference while the feet create the cross-rhythm
+- Break the polyrhythmic pattern into individual rhythmic layers and practise each separately
+- Combine the layers slowly, feeling how they intersect before building to full tempo
+- Keep the metalcore groove weight intact — polyrhythm should add tension, not sacrifice the pocket
+- Record and check that each rhythmic layer is clear and deliberate rather than blurred
+
+### Key Elements
+
+- Clap the cross-rhythm away from the kit until it feels natural before moving to the drums
+- Use a polyrhythm app or two-metronome setup to hear both rhythmic layers simultaneously
+- Build up from one bar of the polyrhythm at a time until the full passage is secure
+- Practise the return to the main pulse at the end of each polyrhythmic phrase
+
+**Core Techniques:** [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+
+## Leveler Double-Bass Run
+
+**Song:** Empire | **Album:** Leveler (2011) | **BPM:** ~175 BPM | **Technique:** main groove | **Difficulty:** expert
+
+Released in 2011, August Burns Red's Leveler is widely regarded as the band's creative peak, and Matt Greiner's drumming is a sustained masterclass in combining technical complexity with genuine groove. "Empire," the album's extended centerpiece, contains some of the most demanding sustained double-bass playing of Greiner's career: long passages of continuous, even kick-drum patterns that must maintain punch and clarity across a near-eight-minute arrangement. What is instructive about Greiner's double-bass playing on the Leveler is that it is never just a velocity showcase — each figure is chosen to serve the song, with density increasing as tension builds and the kick reducing to accents when the arrangement opens up. On the Leveler, Greiner used a DW 9000 double pedal, and the mechanical directness is audible in the evenness of the kick attack: no roll or delay between the two feet, just clean alternating strokes of equal force. Building that evenness across the full tempo range is the central challenge this lick presents. Greiner's advice — from his drum clinics — is to work on single-foot endurance before combining the feet, and to prioritise the quality of each stroke over raw speed.
+
+### How to Play
+
+- Prioritise evenness of each foot stroke over raw speed — both feet must hit with identical force
+- Work single-foot endurance first, combine the feet only once each is stable independently
+- Lock the kick density deliberately to the arrangement — more drive in climactic sections, space in melodic parts
+- Practise at the Leveler's tempos with a metronome until evenness holds through the full song duration
+- Record and listen for each individual kick stroke — inconsistency between feet is immediately audible
+
+### Key Elements
+
+- Develop double-bass evenness with a relaxed ankle technique — let the pedal rebound do the work
+- Practise single-foot 16th notes at full song tempo before combining both feet
+- Use a click track and record your playing — the waveform reveals unevenness between feet
+- Build endurance in 30-second blocks, then 60-second blocks, working toward the full song duration
+
+**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+
 ## Teaching Points
 
 Matt Greiner's style is defined by precision, timing, and genre-defining grooves. Key practice principles across all their licks: Tap the guitar riff with your hands away from the kit until the syncopation is internalised; Practise the double-bass bursts slowly so every stroke speaks evenly; Loop one section with a metronome before stringing the parts together. Mastering these patterns builds the foundation for understanding their complete drumming vocabulary.
@@ -90,4 +159,4 @@ Matt Greiner's style is defined by precision, timing, and genre-defining grooves
 
 ---
 
-*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-24 · Source: [MetalForge.io](https://metalforge.io)*

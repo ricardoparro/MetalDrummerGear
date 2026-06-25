@@ -6,6 +6,7 @@
 // lives in data/gearIndex.js; this module turns it into page-ready content.
 
 import { GEAR_INDEX } from './gearIndex';
+import { DRUMMERS_BY_KIT } from './drummersByKit';
 import { GEAR_PRICES, EUR_TO_USD, formatPrice } from '../gearPrices';
 import { getThomannLink, getSweetwaterLink } from '../affiliateLinks';
 
@@ -23,10 +24,26 @@ export function slugifySeries(str) {
 
 // Build a deterministic lookup: brandSlug -> seriesSlug -> { brand, series, drummers }.
 // Built once (module-level) since GEAR_INDEX is a static generated file.
+// Curated DRUMMERS_BY_KIT entries take priority over the auto-generated index.
 let _slugMap = null;
 function getSlugMap() {
   if (_slugMap) return _slugMap;
   const map = {};
+
+  // Curated flagship entries load first so they win slug collisions.
+  for (const [brand, seriesObj] of Object.entries(DRUMMERS_BY_KIT)) {
+    const brandSlug = slugifySeries(brand);
+    if (!map[brandSlug]) map[brandSlug] = {};
+    for (const [series, drummers] of Object.entries(seriesObj)) {
+      if (!Array.isArray(drummers) || drummers.length < 2) continue;
+      const seriesSlug = slugifySeries(series);
+      if (!map[brandSlug][seriesSlug]) {
+        map[brandSlug][seriesSlug] = { brand, series, drummers };
+      }
+    }
+  }
+
+  // Auto-generated index fills in the rest; curated entries above already win.
   for (const [brand, seriesObj] of Object.entries(GEAR_INDEX)) {
     const brandSlug = slugifySeries(brand);
     if (!map[brandSlug]) map[brandSlug] = {};
@@ -41,6 +58,7 @@ function getSlugMap() {
       }
     }
   }
+
   _slugMap = map;
   return map;
 }

@@ -17,6 +17,9 @@ import { getAllTechniqueSlugs } from '../packages/frontend/data/techniques.js';
 // helpers) and mirror that module's slug + dedupe logic verbatim so the URLs
 // emitted here resolve 1:1 with the live routes.
 import { GEAR_INDEX } from '../packages/frontend/data/gearIndex.js';
+// Issue #2404 (split 2/4 of #2215): curated flagship kit pages — 3 brand+series entries
+// that take priority over GEAR_INDEX for their slugs.
+import { DRUMMERS_BY_KIT } from '../packages/frontend/data/drummersByKit.js';
 // Issue #1056: derive the signature-lick page + hub URLs directly from the
 // composed SIGNATURE_LICKS data (now modularized under data/licks/) instead of
 // hand-maintaining two parallel arrays here. New lick batches add a per-drummer
@@ -167,6 +170,10 @@ const gearComparisons = [
   { slug: 'tama-slp-vs-pearl-sensitone', name: 'Tama SLP vs Pearl Sensitone' },
   { slug: 'sonor-vs-dw', name: 'Sonor vs DW Drums' },
   { slug: 'zildjian-vs-sabian', name: 'Zildjian vs Sabian Cymbals' },
+  // Issue #2404 (split 2/4 of #2215): flagship drummers-using LLM files.
+  { slug: 'drummers-using-tama-star-classic-maple', name: 'Tama Star Classic Maple Drummers' },
+  { slug: 'drummers-using-dw-collectors-maple', name: "DW Collector's Maple Drummers" },
+  { slug: 'drummers-using-pearl-reference-pure', name: 'Pearl Reference Pure Drummers' },
 ];
 
 // Issue #558, #598, #650: Drummer vs Drummer comparison pages for SEO
@@ -424,15 +431,18 @@ function slugifyGearSeries(str) {
 function getGearSeriesUrls() {
   const seen = new Set();
   const urls = [];
-  for (const [brand, seriesObj] of Object.entries(GEAR_INDEX)) {
-    const brandSlug = slugifyGearSeries(brand);
-    for (const [series, drummers] of Object.entries(seriesObj)) {
-      if (!Array.isArray(drummers) || drummers.length < 2) continue;
-      const seriesSlug = slugifyGearSeries(series);
-      const key = `${brandSlug}/${seriesSlug}`;
-      if (seen.has(key)) continue; // first series wins a given slug
-      seen.add(key);
-      urls.push(`/gear/${brandSlug}/${seriesSlug}/drummers-using`);
+  // Curated flagship entries first so they win slug collisions (mirrors gearSeriesPages.js).
+  for (const source of [DRUMMERS_BY_KIT, GEAR_INDEX]) {
+    for (const [brand, seriesObj] of Object.entries(source)) {
+      const brandSlug = slugifyGearSeries(brand);
+      for (const [series, drummers] of Object.entries(seriesObj)) {
+        if (!Array.isArray(drummers) || drummers.length < 2) continue;
+        const seriesSlug = slugifyGearSeries(series);
+        const key = `${brandSlug}/${seriesSlug}`;
+        if (seen.has(key)) continue; // first series wins a given slug
+        seen.add(key);
+        urls.push(`/gear/${brandSlug}/${seriesSlug}/drummers-using`);
+      }
     }
   }
   return urls;

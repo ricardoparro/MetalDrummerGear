@@ -3076,6 +3076,302 @@ Joey Jordison's work on Iowa ensures his place among metal's greatest drummers. 
     }
   },
 
+  'vol3-subliminal-verses-drum-setup': {
+    slug: 'vol3-subliminal-verses-drum-setup',
+    albumTitle: 'Vol. 3: (The Subliminal Verses)',
+    artist: 'Slipknot',
+    drummer: 'Joey Jordison',
+    drummerId: 2,
+    relatedDrummerSlug: 'joey-jordison',
+    year: 2004,
+    genre: 'Nu Metal / Alternative Metal',
+    label: 'Roadrunner Records',
+    studio: 'Henson Recording Studios, Los Angeles',
+    producer: 'Rick Rubin, Slipknot',
+    isAlbumArticle: true,
+    datePublished: '2026-06-25',
+    dateModified: '2026-06-25',
+    author: 'MetalForge Editorial',
+    title: "Vol. 3: (The Subliminal Verses) Drum Setup — Joey Jordison's Gear Breakdown (2004)",
+    description: "Complete breakdown of Joey Jordison's drum setup on Slipknot's Vol. 3: (The Subliminal Verses). Pearl Masterworks kit, Pearl Free-Floating steel snare, Paiste cymbals — Rick Rubin's production reveals the kit's true character on Slipknot's 3× Platinum #1 album.",
+    seoKeywords: [
+      'vol 3 subliminal verses drums',
+      'joey jordison drum setup 2004',
+      'slipknot vol 3 gear',
+      'joey jordison pearl kit subliminal verses',
+      'joey jordison rick rubin drums',
+      'slipknot 2004 drum setup',
+      'joey jordison drum kit vol 3'
+    ],
+    ogImage: '/images/albums/vol3-subliminal-verses-drums.webp',
+    intro: {
+      title: "Rick Rubin's Clean Lens: The Kit That Made Vol. 3 Sound Different from Iowa",
+      content: `Released on May 25, 2004, *Vol. 3: (The Subliminal Verses)* marked a pivotal turn in Slipknot's career. After the deliberately abrasive chaos of *Iowa* (2001) — recorded with producer Ross Robinson in a state of psychological extremity — the band enlisted Rick Rubin for a production philosophy that prized clarity over noise. The result debuted at #1 on the US Billboard 200, charted at #2 in the UK, and went on to be certified 3× Platinum in the United States. "Before I Forget" won the Grammy Award for Best Hard Rock Performance in 2006.
+
+At the center of this transformation was Joey Jordison, whose drum performances on Vol. 3 reveal a player operating in a fundamentally different context from Iowa. Where Ross Robinson's raw capture buried the kit in a wall of noise, Rick Rubin's approach at Henson Recording Studios stripped away the surface aggression and exposed the underlying musicality — the swing within the blast beats, the precision behind the fills, the dynamics that Iowa's extreme recording environment had compressed into a single crushing mass.
+
+Jordison expanded his kit configuration for the Vol. 3 sessions, moving to a five-piece tom setup to serve the album's wider dynamic range. The Pearl Free-Floating steel snare — a technically distinct instrument from his Iowa-era signature model — gave the snare a more open, sustained crack that sits in Rubin's mix differently from the triggered-and-tight Iowa sound.
+
+This article breaks down the specific gear Joey Jordison used to record *Vol. 3: (The Subliminal Verses)* and examines how Rubin's production philosophy revealed dimensions of his playing that Iowa's extreme recording environment had obscured.`,
+      keyPoints: [
+        'Rick Rubin production replaced Ross Robinson — cleaner, more dynamic approach',
+        'Recorded at Henson Recording Studios, Los Angeles',
+        'Debuted #1 US Billboard 200, #2 UK — 3× Platinum US certification',
+        '"Before I Forget" won Grammy Award for Best Hard Rock Performance 2006',
+        'Expanded five-piece tom configuration vs Iowa\'s setup',
+        'Pearl Free-Floating steel snare — distinct from Iowa-era signature model'
+      ]
+    },
+    drumKit: {
+      title: "Pearl Masterworks: Expanded for the Subliminal Verses",
+      brand: 'Pearl',
+      model: 'Pearl Masterworks Custom',
+      finish: 'Custom finish',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum (x2)'],
+        toms: ['8" x 7" Rack Tom', '10" x 8" Rack Tom', '12" x 10" Rack Tom', '14" x 12" Rack Tom', '16" x 14" Rack Tom'],
+        floorToms: ['16" x 16" Floor Tom', '18" x 16" Floor Tom'],
+        shells: 'Maple/African Mahogany hybrid shells'
+      },
+      description: `Joey Jordison's Pearl Masterworks setup for *Vol. 3* built on the foundation of his Iowa configuration with a key expansion: a fifth rack tom at 16" added to the standard four-rack spread. This gave Jordison a fuller tonal range for the fills and dynamic passages that Rubin's production philosophy demanded. Where Iowa's six toms were often lost in the mix's wall of noise, the five-rack plus two-floor-tom spread on Vol. 3 is audible and orchestrated — each tom's contribution to a fill carries identifiable pitch and character.
+
+The Pearl Masterworks' maple and African mahogany hybrid shells retained the attack and warmth that defined Jordison's sound across the Iowa era, but Rick Rubin's recording approach at Henson Studios allowed these shell characteristics to express themselves more fully. The mahogany content in particular — responsible for the lower-mid warmth that distinguishes the Masterworks from pure maple kits — is more audible on Vol. 3's recordings than on Iowa, where aggressive production choices compressed these tonal details into the overall sonic mass.
+
+The double 22" x 18" bass drums remained the Slipknot standard, tuned for maximum low-end impact. Rubin's production treated the kick drums with more space in the mix than Iowa's approach, making the natural boom of the large shells more present in the final recording. The balance between triggered attack and acoustic resonance shifted toward the acoustic side under Rubin's guidance — a deliberate choice to expose the instrument rather than replace it.
+
+The overall kit configuration for Vol. 3 reflects a player preparing for an album that needed to function at multiple dynamic levels: from the crushing double-bass aggression of "The Blister Exists" to the more restrained and melodic passages of "Vermilion Pt. 2" and "Circle."`,
+      notes: [
+        'Five rack toms (8" to 16") plus two floor toms — expanded from Iowa configuration',
+        'Maple/mahogany hybrid shells — warmth more audible under Rubin\'s cleaner production',
+        'Double 22" x 18" bass drums with more acoustic character in the mix',
+        'Rubin\'s production philosophy shifted balance toward natural drum tone'
+      ],
+      estimatedValue: '$6,500-9,000 (2004)'
+    },
+    snare: {
+      title: 'The Open Crack: Pearl Free-Floating Steel Snare',
+      brand: 'Pearl',
+      model: 'Pearl Free-Floating Steel Snare',
+      size: '14" x 6.5"',
+      shell: 'Steel shell with free-floating suspension system',
+      description: `The snare choice for *Vol. 3* represented a departure from the Pearl Joey Jordison Signature model used on Iowa. Jordison used a Pearl Free-Floating snare in 14" x 6.5" steel for these sessions — an instrument with a fundamentally different acoustic character from his signature model.
+
+Pearl's Free-Floating shell system suspends the drum shell between the top and bottom hoops without direct contact, allowing the steel shell to resonate freely without interference from the hardware mounting. The result is a more open, longer-sustaining crack than a conventionally mounted snare — and on Rick Rubin's Vol. 3 production, this openness is audible. The snare on tracks like "Duality" and "Before I Forget" has a rounder, more complex character than the tight, triggered snap of Iowa's snare sound.
+
+The 14" diameter provided a fuller fundamental pitch than Joey's 13" Iowa signature snare — a broader sound appropriate to an album with more midtempo and melodic content. At 6.5" depth, the shell retained substantial body without adding the boominess of deeper drums.
+
+Rubin's approach to the snare in the mix was to feature it as a musical element rather than a purely percussive weapon. The ghost notes and dynamics of Jordison's left hand — partly obscured on Iowa's recordings — are more audible on Vol. 3, made possible in part by the Free-Floating's more even response across stroke intensities.`,
+      tuningSetting: 'Medium tension with moderate snare wire pressure — more open than Iowa tuning',
+      heads: 'Evans Genera HD (batter), Evans Hazy 300 (resonant)',
+      estimatedValue: '$400-500 (2004)'
+    },
+    cymbals: {
+      title: 'Paiste Refined: RUDE and 2002 Under Rick Rubin',
+      brand: 'Paiste',
+      series: 'Paiste RUDE & 2002',
+      setup: [
+        { type: 'Hi-Hats', model: 'Paiste 2002 14" Wild Hi-Hats', position: 'Left side', notes: 'Carrying over from Iowa — aggressive articulation' },
+        { type: 'Crash', model: 'Paiste RUDE 16" Wild Crash', position: 'Left', notes: 'Fast crash for tight section accents' },
+        { type: 'Crash', model: 'Paiste RUDE 17" Wild Crash', position: 'Above left toms', notes: 'Primary crash — featured on "Before I Forget" and "Duality"' },
+        { type: 'Crash', model: 'Paiste RUDE 18" Wild Crash', position: 'Above right toms', notes: 'Mid-weight crash for heavier section accents' },
+        { type: 'Crash', model: 'Paiste RUDE 19" Wild Crash', position: 'Right side', notes: 'Largest crash — maximum sustain for album\'s heaviest moments' },
+        { type: 'Ride', model: 'Paiste 2002 22" Power Ride', position: 'Far right', notes: 'More prominent on Vol. 3 than Iowa due to midtempo material' },
+        { type: 'China', model: 'Paiste RUDE 20" Wild China', position: 'Left side, high', notes: 'Nu-metal accent China' },
+        { type: 'China', model: 'Paiste RUDE 22" Wild China', position: 'Right side, high', notes: 'Secondary China for heavier section emphasis' },
+        { type: 'Splash', model: 'Paiste RUDE 10" Splash', position: 'Above hi-hats', notes: 'Quick accent cymbal for lighter passages' }
+      ],
+      description: `Joey Jordison retained his Paiste RUDE and 2002 series cymbal setup for *Vol. 3*, but the different production environment changed how these instruments appear on the record. Under Rick Rubin's production at Henson Studios, the RUDE cymbals' raw, unlathed character comes through with more definition than on Iowa — the trash and shimmer of the Wild series is more audible as a distinct sonic element rather than merging into a general wash of noise.
+
+The 2002 Power Ride plays a more prominent role on Vol. 3 than it did on Iowa, reflecting the album's broader range of tempos and the presence of sections where riding patterns are compositionally significant. Tracks like "The Nameless" and "Vermilion" feature ride cymbal work that Rick Rubin's production preserves as a melodic and textural element — something that Iowa's wall-of-noise approach rarely afforded.
+
+The crash array (16" through 19") provides the same dynamic hierarchy as the Iowa setup, but the individual character of each cymbal is more audible on Vol. 3's recordings. Jordison's selective use of different crash sizes for different dramatic intensities — a technique already present on Iowa but less perceptible in that recording — is clearer on the Rubin production.
+
+The dual China cymbals (20" and 22") continued to function as Slipknot's signature percussive punctuation. On "Pulse of the Maggots" and "The Blister Exists," the China accents cut through the arrangement with the same authority as on Iowa, but their tonal character is more defined in the mix.`,
+      estimatedValue: '$2,500-3,200 total (2004)'
+    },
+    hardware: {
+      title: 'Pearl Hardware, Icon Rack, Demon Drive',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'Pearl',
+          model: 'Pearl Demon Drive Double Pedal',
+          notes: 'Jordison\'s primary pedal throughout his Pearl endorsement — refined for Vol. 3 sessions',
+          description: "The Pearl Demon Drive double pedal remained Jordison's standard for the Vol. 3 sessions. The Demon Drive's cam-driven mechanism and light action allowed the speed and precision that Slipknot's double-bass demands require. At the tempos of 'The Blister Exists' and 'Three Nil,' the Demon Drive's quick rebound and adjustable cam profile were essential."
+        },
+        {
+          type: 'Rack System',
+          brand: 'Pearl',
+          model: 'Pearl Icon Rack System',
+          notes: 'Full rack configuration supporting the expanded five-tom setup'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Pearl',
+          model: 'Pearl H-2000 Hi-Hat Stand',
+          notes: 'Remote configuration for rack-integrated setup'
+        },
+        {
+          type: 'Throne',
+          brand: 'Pearl',
+          model: 'Pearl D-2000 Throne',
+          notes: 'Saddle-style for stability at sustained high tempos'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Promark',
+          model: 'Promark Joey Jordison Signature TX515W',
+          notes: 'Long, lightweight sticks — unchanged from Iowa era'
+        }
+      ],
+      heads: {
+        bassKick: 'Evans EMAD with controlled muffling for defined kick attack',
+        toms: 'Evans EC2S Clear',
+        snare: 'Evans Genera HD (batter)'
+      }
+    },
+    recordingTechniques: {
+      title: "Rick Rubin's Clarity Doctrine at Henson Studios",
+      content: `Rick Rubin's production philosophy for *Vol. 3* was fundamentally different from Ross Robinson's approach on Iowa — and the difference is legible in every aspect of the drum sound. Where Robinson pushed the band toward psychological extremity and captured the result in an environment of deliberate sonic chaos, Rubin brought Slipknot to Henson Recording Studios in Los Angeles and applied his characteristic discipline: clarity, space, and the authentic sound of real instruments captured without excessive processing.
+
+**Recording Environment:**
+Henson Recording Studios (formerly A&M Studios) is one of Hollywood's legendary rooms, known for its large live tracking space and excellent natural acoustics. The room gave Rubin and engineer Greg Fidelman a neutral, controlled environment to capture Jordison's kit with minimal acoustic interference.
+
+**Microphone Philosophy:**
+Rubin's approach favored fewer microphones with better placement over the dense multi-mic arrays of Robinson's Iowa sessions. The result is a drum sound with more physical space in the stereo field — each element (kick, snare, toms, cymbals) occupies its own acoustic zone rather than competing in a compressed wall of sound.
+
+**Trigger Integration:**
+While bass drum triggers remained standard for mix consistency, the trigger blend on Vol. 3 is more conservative than Iowa's. The acoustic character of the Pearl Masterworks kick drums is audible in the mix alongside the triggered attack — Rubin's preference for natural sounds influenced the trigger-to-acoustic ratio throughout the sessions.
+
+**Dynamic Range:**
+Vol. 3's drum sound has significantly more dynamic range than Iowa's. Jordison's ghost notes, press rolls, and quieter passages on tracks like "Vermilion" and "Circle" are preserved in the final mix — a direct result of Rubin's refusal to compress everything to maximum impact.`,
+      keyTechniques: [
+        'Henson Studios large tracking room for natural acoustic capture',
+        'Fewer microphones with superior placement vs Iowa\'s dense array',
+        'Conservative trigger integration preserving acoustic kick character',
+        'Rubin\'s dynamic range philosophy — ghost notes and soft passages preserved'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'The Blister Exists',
+        bpm: '185',
+        signature: '4/4',
+        highlights: [
+          'Album opener — establishes the Iowa-to-Vol.3 transition immediately',
+          'Blast beats and double bass at Iowa-level intensity under cleaner production',
+          'Expanded tom fills audible in Rubin\'s mix for the first time',
+          'Demonstrates Jordison can maintain Iowa aggression in a disciplined production'
+        ],
+        gearNotes: 'Demon Drive double pedal at its highest sustained tempo on the album. RUDE crashes punctuate each major section change.'
+      },
+      {
+        track: 'Duality',
+        bpm: '140',
+        signature: '4/4',
+        highlights: [
+          'Lead single and commercial breakthrough — Slipknot\'s biggest hit',
+          'Groove-first drumming that serves a radio-friendly arrangement',
+          'Snare pattern in the verse became a landmark nu-metal groove',
+          'Shows Jordison\'s ability to lock into melodic, accessible arrangements'
+        ],
+        gearNotes: 'Free-Floating snare crack defines the song\'s backbeat identity. Power Ride features on verse sections — more audible than in Iowa material.'
+      },
+      {
+        track: 'Before I Forget',
+        bpm: '132',
+        signature: '4/4',
+        highlights: [
+          'Grammy Award for Best Hard Rock Performance 2006',
+          'Anthemic arrangement with groove-focused drum part',
+          'Chorus double bass locks with the guitar rhythm tightly',
+          'One of Jordison\'s most compositionally disciplined recorded performances'
+        ],
+        gearNotes: 'The Grammy-winning performance — Free-Floating snare and Paiste RUDE crashes across a mid-tempo arrangement that prioritizes the song over the drummer.'
+      },
+      {
+        track: 'Vermilion',
+        bpm: '112',
+        signature: '4/4',
+        highlights: [
+          'Dynamic range demands that Iowa never required',
+          'Quiet verse sections with controlled ghost notes and light hi-hat work',
+          'Explosive chorus transitions test Jordison\'s dynamic control',
+          'Shows the full range of what Rubin\'s production philosophy unlocked'
+        ],
+        gearNotes: 'Demonstrates why Rubin\'s approach was transformative — quiet passages audible and musical, explosive sections hitting harder by contrast.'
+      },
+      {
+        track: 'Pulse of the Maggots',
+        bpm: '145',
+        signature: '4/4',
+        highlights: [
+          'Anthemic singalong — live concert staple',
+          'Straight-ahead groove prioritizes crowd interaction over complexity',
+          'China cymbal accents on the chorus peaks are signature Jordison',
+          'Simpler pattern than Iowa but more effective in this production context'
+        ],
+        gearNotes: 'RUDE China cymbals carry the anthem energy. Kick and snare pattern locks with Corey Taylor\'s vocal delivery across the chorus.'
+      }
+    ],
+    evolution: {
+      title: 'The Arc: Iowa → Vol. 3 → All Hope Is Gone',
+      content: `*Vol. 3: (The Subliminal Verses)* occupies a critical position in Joey Jordison's recorded legacy — the bridge between the ferocious extremity of Iowa and the groove-focused sophistication that would define his final Slipknot studio album, *All Hope Is Gone* (2008).
+
+**What Vol. 3 Established:**
+The record proved that Jordison's drumming could serve multiple contexts — that the Iowa blast-beat machine was also a nuanced, dynamics-conscious musician capable of delivering Grammy-winning performances within disciplined commercial arrangements. Rick Rubin's production made this visible for the first time on record.
+
+**Gear Continuity:**
+The Pearl Masterworks / Paiste RUDE combination that defined the Iowa era carried through to Vol. 3 with incremental refinements. The switch to a Free-Floating snare was the most significant gear change, and its impact on the drum character is audible across the album. The expanded five-piece tom configuration became standard for subsequent Slipknot-era setups.
+
+**Production Influence:**
+Working with Rubin reshaped how Jordison thought about his recorded sound. The Iowa approach — maximum impact through maximum aggression — gave way to an understanding that clarity and dynamics could produce equally powerful results. This lesson informed his work on *All Hope Is Gone* and his broader approach to studio recording.
+
+**Commercial Peak:**
+Vol. 3 was the commercial apex of Jordison's Slipknot career — 3× Platinum, #1 US, Grammy winner. The album introduced his playing to the broadest audience he would ever reach.`,
+      thenVsNow: [
+        { category: 'Kit', then: 'Pearl Masterworks Custom (5-piece tom config)', now: '(Joey passed in 2021)' },
+        { category: 'Snare', then: 'Pearl Free-Floating Steel 14x6.5"', now: 'Free-Floating series still in production' },
+        { category: 'Cymbals', then: 'Paiste RUDE & 2002', now: 'RUDE series remains a metal standard' },
+        { category: 'Pedals', then: 'Pearl Demon Drive', now: 'Demon Drive still Pearl\'s flagship' },
+        { category: 'Production', then: 'Rick Rubin at Henson Studios', now: 'Grammy-winning approach' }
+      ]
+    },
+    relatedAlbums: ['iowa-drum-setup', 'slipknot-self-titled-drum-setup', 'the-gray-chapter-drum-setup'],
+    relatedDrummers: [10, 6, 35],
+    relatedArticles: ['fastest-double-bass-drummers', 'most-brutal-drum-solos'],
+    faq: [
+      {
+        question: 'What drum kit did Joey Jordison use on Vol. 3: The Subliminal Verses?',
+        answer: 'Joey Jordison used a Pearl Masterworks Custom kit on Vol. 3: (The Subliminal Verses), recorded at Henson Recording Studios in Los Angeles in 2003 with producer Rick Rubin. The setup featured double 22 x 18 inch bass drums and an expanded tom configuration compared to the Iowa sessions, with five rack toms from 8 to 16 inches plus two floor toms. The Pearl Masterworks maple and African mahogany hybrid shells provided the warmth and attack that Rubin\'s cleaner production philosophy made more audible than on Iowa.',
+      },
+      {
+        question: 'What snare did Joey Jordison use on Vol. 3?',
+        answer: 'Joey Jordison used a Pearl Free-Floating steel snare drum in 14 x 6.5 inches on Vol. 3: (The Subliminal Verses). This was a different snare from the Pearl Joey Jordison Signature 13 x 6.5 inch model used on Iowa. The Free-Floating design suspends the shell between the hoops without contact, allowing freer resonance and a more open, sustained crack. Rick Rubin\'s production approach on Vol. 3 made this more open snare character clearly audible in the mix — particularly on tracks like Duality and Before I Forget.',
+      },
+      {
+        question: 'How does the drum sound on Vol. 3 differ from Iowa?',
+        answer: 'The fundamental difference is producer: Ross Robinson recorded Iowa through deliberate psychological pressure at Sound City Studios, compressing everything into a wall of noise where individual drum characteristics were secondary to overall intensity. Rick Rubin recorded Vol. 3 at Henson Studios with clarity and space as priorities. The result on Vol. 3 is a drum sound where individual elements — snare character, tom pitch, cymbal sustain, ghost notes — are audible and compositionally present. Jordison\'s dynamic range, partly obscured on Iowa, is fully exposed on Vol. 3. The gear was largely similar; the production philosophy was the opposite.',
+      },
+      {
+        question: 'What cymbals did Joey Jordison use on Vol. 3: The Subliminal Verses?',
+        answer: 'Joey Jordison used Paiste RUDE and 2002 series cymbals on Vol. 3: (The Subliminal Verses), continuing his Paiste endorsement from the Iowa era. The setup included Paiste 2002 14 inch Wild Hi-Hats, Paiste RUDE Wild Crashes from 16 to 19 inches, a Paiste 2002 22 inch Power Ride, Paiste RUDE 20 and 22 inch Wild China cymbals, and a Paiste RUDE 10 inch Splash. Under Rick Rubin\'s production at Henson Studios, the RUDE cymbals\' raw unlathed character is more distinctly audible on Vol. 3 than in Iowa\'s compressed, wall-of-noise production.',
+      },
+    ],
+    conclusion: {
+      title: 'Vol. 3: The Album That Revealed What Iowa Buried',
+      content: `*Vol. 3: (The Subliminal Verses)* is the definitive proof that Joey Jordison was more than an extreme drumming machine. Iowa established his credentials as one of metal's most ferocious players. Vol. 3 established that he was also a musician — that the speed and intensity were tools in service of something larger, deployable at will and equally capable of being set aside when the song required restraint.
+
+Rick Rubin's production contribution cannot be overstated. The gear was largely the same. The player was the same. The difference between Iowa's impenetrable wall of drum sound and Vol. 3's clear, dynamic, Grammy-winning performances was a production philosophy — one that Rubin imposed and Jordison embraced.
+
+The Pearl Masterworks / Paiste RUDE combination that had defined the Iowa era proved just as capable of delivering commercial accessibility as extreme aggression. The Pearl Free-Floating snare opened up the drum's character in ways the Iowa sessions had closed down. The Demon Drive double pedal remained the foundation of everything, enabling the sustained high-tempo double-bass passages that anchored even Vol. 3's more melodic material.
+
+For drummers studying Jordison's work, Vol. 3 offers something Iowa cannot: clarity. You can hear the choices — the ghost notes, the selective use of different crash sizes, the transition from a blast beat to a groove mid-song — in a way that Iowa's production makes impossible. Vol. 3 is the essential study record for understanding what Joey Jordison was actually doing behind the kit.
+
+See the [Iowa drum setup article](/articles/iowa-drum-setup) for the extreme recording that preceded this, and the [Slipknot self-titled drum setup](/articles/slipknot-self-titled-drum-setup) for the original gear foundation. For how the drum chair evolved after Jordison's departure, see the [Gray Chapter drum setup article](/articles/the-gray-chapter-drum-setup).`
+    }
+  },
+
   'whats-in-joey-jordisons-kit': {
     slug: 'whats-in-joey-jordisons-kit',
     articleType: 'drummer-kit',

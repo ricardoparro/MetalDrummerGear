@@ -3310,6 +3310,18 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
                 </Text>
               </TouchableOpacity>
             ))}
+            {list.relatedBandSlug && Platform.OS === 'web' && (
+              <TouchableOpacity
+                key={list.relatedBandSlug}
+                style={[styles.relatedContentLink, { backgroundColor: theme.background, borderColor: theme.border }]}
+                onPress={() => { window.location.href = `/bands/${list.relatedBandSlug}`; }}
+              >
+                <Text style={styles.relatedContentEmoji}>🎸</Text>
+                <Text style={[styles.relatedContentLinkText, { color: theme.text }]}>
+                  {list.artist || list.band} Band Page
+                </Text>
+              </TouchableOpacity>
+            )}
           </View>
         </View>
 

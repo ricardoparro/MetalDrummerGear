@@ -6493,6 +6493,7 @@ Groove is everything. Complexity serves the song. The polyrhythms are not math e
 Tomas Haake on *Immutable*: the Atomic Clock, still running.`
     },
     relatedAlbums: ['obzen-drum-setup', 'violent-sleep-of-reason-drum-setup'],
+    relatedBandSlug: 'meshuggah',
     relatedDrummers: [14, 9, 16],
     relatedArticles: ['whats-in-tomas-haakes-kit', 'djent-drumming-guide'],
     relatedLicks: [

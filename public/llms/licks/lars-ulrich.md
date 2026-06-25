@@ -6,7 +6,7 @@
 
 ## Overview
 
-Lars Ulrich is one of Thrash Metal's most influential drummers, best known for their work with Metallica. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Lars Ulrich" or "Lars Ulrich signature drum patterns". Their style spans thrash-metal, heavy-metal.
+Lars Ulrich is one of Thrash Metal's most influential drummers, best known for their work with Metallica. This file covers 5 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Lars Ulrich" or "Lars Ulrich signature drum patterns". Their style spans thrash-metal, heavy-metal.
 
 ## One Intro Pattern
 
@@ -73,8 +73,6 @@ The relentless thrash gallop that drives metal's greatest song. Lars's double ba
 - Focus on keeping the ride cymbal consistent
 
 **Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Gallop](https://metalforge.io/technique/gallop), [Stamina](https://metalforge.io/technique/stamina)
-
-## Teaching Points
 
 ## One Building Thrash Section
 

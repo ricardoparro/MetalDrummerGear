@@ -6,7 +6,7 @@
 
 ## Overview
 
-Danny Carey is one of Progressive Metal / Art Rock's most influential drummers, best known for their work with Tool. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Danny Carey" or "Danny Carey signature drum patterns". Their style spans progressive-metal.
+Danny Carey is one of Progressive Metal / Art Rock's most influential drummers, best known for their work with Tool. This file covers 6 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Danny Carey" or "Danny Carey signature drum patterns". Their style spans progressive-metal.
 
 ## Pneuma Main Groove
 
@@ -76,8 +76,6 @@ The climax of Forty Six & 2 is one of the most celebrated drum moments in progre
 - Focus on smooth hand-foot linear runs rather than maximum speed
 
 **Core Techniques:** [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Polyrhythms](https://metalforge.io/technique/polyrhythms), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
-
-## Teaching Points
 
 ## Schism Odd Meter Groove
 

@@ -1,12 +1,12 @@
 # Matt Halpern — Signature Drum Licks & Patterns
 
-**Band:** Periphery | **Genre:** Progressive Metal / Djent | **Lick Count:** 3
+**Band:** Periphery | **Genre:** Progressive Metal / Djent | **Lick Count:** 6
 
 ---
 
 ## Overview
 
-Matt Halpern is one of Progressive Metal / Djent's most influential drummers, best known for their work with Periphery. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Matt Halpern" or "Matt Halpern signature drum patterns". Their style spans djent, progressive-metal.
+Matt Halpern is one of Progressive Metal / Djent's most influential drummers, best known for their work with Periphery. This file covers 6 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Matt Halpern" or "Matt Halpern signature drum patterns". Their style spans djent, progressive-metal.
 
 ## Icarus Lives! Djent Groove
 
@@ -77,6 +77,75 @@ Matt Halpern is one of Progressive Metal / Djent's most influential drummers, be
 
 **Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
 
+## Scarlet Syncopated Djent Groove
+
+**Song:** Scarlet | **Album:** Periphery II: This Time It's Personal (2012) | **BPM:** ~158 BPM | **Technique:** main groove | **Difficulty:** advanced
+
+"Scarlet" from Periphery II presents one of Matt Halpern's most detailed groove performances — a track where djent's characteristic staccato riff-locking is woven together with an intricate ghost-note framework that gives the groove a conversational quality beneath the heavy surface. The syncopated hi-hat pattern is the foundation of the groove's character: rather than a straight 8th or 16th note ride, Halpern opens and closes the hat in response to the guitar's syncopated articulation, so the hi-hat becomes a rhythmic voice in dialogue with the riff. Ghost notes layer into this framework at precise points in the 16th-note grid, typically between the main kick and snare hits, creating a density of rhythmic information that rewards close study. For drummers, the value of learning this groove is the development of ghost-note integration in a djent context, which demands a different control profile from jazz or funk ghost notes. The djent riff creates a strong rhythmic pulse that the ghost notes have to complement without muddying, which means the left hand must stay genuinely soft while the right hand locks the hi-hat pattern to the guitar.
+
+### How to Play
+
+- Layer ghost notes at precise 16th-note positions between kick and snare hits — keep them genuinely soft
+- React to the guitar's syncopated articulation with matching hi-hat opens and closes
+- Treat ghost notes as structural voices, not decoration — they create the groove's density
+- Maintain strict dynamic separation between ghost strokes and primary hits throughout
+- Lock kick accents to the staccato guitar hits so drums and riff read as a single rhythmic organism
+
+### Key Elements
+
+- Practise the ghost-note layer alone with a metronome before adding kick and snare
+- Record yourself and listen back for dynamic separation — ghost notes that feel soft often disappear on playback
+- Tap the guitar riff on your thigh while playing to internalise the riff-locking logic
+- Build the hi-hat reactive pattern in isolation before combining it with the full groove
+
+**Core Techniques:** [Ghost Notes](https://metalforge.io/technique/ghost-notes), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass)
+
+## Ragnarok Hybrid Blast Groove
+
+**Song:** Ragnarok | **Album:** Periphery II: This Time It's Personal (2012) | **BPM:** ~200 BPM (blast passages) | **Technique:** blast section | **Difficulty:** expert
+
+"Ragnarok" from Periphery II contains the most aggressive drumming on the album — a track where Matt Halpern deploys blast beat technique in a distinctly djent context, producing a hybrid approach that does not exist anywhere in traditional death or black metal. The blast sections are not pure symmetrical blasts but are woven into a groove-oriented framework where Halpern's characteristic riff-locking instincts persist even at maximum intensity. The defining characteristic of his hybrid blast approach is the retention of groove elements inside the blast pattern itself: syncopated kick displacement and variable hat work break up the symmetry and introduce djent's stop-start articulation into the blast context. The transitions between the blast passages and the song's groove sections are equally instructive — Halpern shifts between the two modes without a breakdown or reset, dropping directly from blast into syncopated djent groove and back again within a single bar. This demands that the blast pattern be internally organised enough to exit cleanly without losing tempo, which is a different skill from sustaining a blast through a long passage.
+
+### How to Play
+
+- Retain riff-locking instincts inside the blast — syncopate the kick rather than driving symmetrically
+- Introduce variable hi-hat work in the blast to break up symmetry and maintain djent articulation
+- Exit the blast directly into a syncopated groove without a reset bar — the blast must be internally organised
+- Build endurance for clean blast technique at ~200 BPM with short-burst exercises before full-song attempts
+- Track guitar accents with the hands even during the blast to keep the hybrid quality intact
+
+### Key Elements
+
+- Build pure blast technique at a slower tempo before adding the syncopated kick displacement
+- Practise the blast-to-groove transition point in isolation — just the last two bars of blast into the first two bars of groove
+- Use a drum-only track or isolation headphones to study Halpern's kick placement during the blast
+- Develop foot speed with short bursts at tempo rather than long sustained blasts to preserve technique
+
+**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+
+## Masamune Ghost-Note Density Pattern
+
+**Song:** Masamune | **Album:** Periphery III: Select Difficulty (2016) | **BPM:** ~145 BPM | **Technique:** signature pattern | **Difficulty:** expert
+
+"Masamune" from Periphery III represents Matt Halpern's ghost-note technique at its most demanding and fully realized — a track where ghost-note density reaches a level that places it in conversation with the finest jazz and funk snare-drum work, while the surrounding djent guitar context makes the technical achievement even more remarkable. The ghost-note pattern operates at a 16th-note grid density, meaning there are up to four ghost strokes per beat, most of them at a dynamic level that sits just above inaudible. Halpern places these strokes with extraordinary precision — they land exactly on the 16th-note subdivisions without rushing or dragging, creating a continuous sub-pulse that functions like a second rhythmic voice. The challenge is not just executing the ghost notes but maintaining their dynamic consistency: any stroke that inadvertently crosses into audible territory breaks the layered effect. The interaction between the ghost-note layer and Halpern's kick pattern is particularly instructive — the kick locks to the djent guitar accents in the characteristic riff-lock style, meaning the foot pattern changes regularly while the left hand maintains its continuous ghost-note stream, requiring each limb to operate on its own autonomous programme.
+
+### How to Play
+
+- Maintain ghost notes at a 16th-note grid density, staying just above inaudible throughout
+- Keep dynamic consistency across the full ghost-note pattern — no accidental accents, no disappearing strokes
+- Run the left-hand ghost-note stream autonomously while the kick pattern changes to follow guitar accents
+- Practise the ghost layer at half tempo with a metronome, monitoring volume with in-ear monitoring or recording
+- Add kick complexity incrementally: ghost-note-only first, then add backbeat, then add the shifting kick pattern
+
+### Key Elements
+
+- Use a practice pad before the kit — ghost-note control develops faster in total isolation of other sounds
+- Record every practice session and listen back for dynamic consistency across the ghost-note layer
+- Practise the ghost pattern with a metronome at 80 BPM to establish control before raising tempo
+- Separate right-hand hi-hat and left-hand ghost notes into a coordination exercise before adding kick
+
+**Core Techniques:** [Ghost Notes](https://metalforge.io/technique/ghost-notes), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+
 ## Teaching Points
 
 Matt Halpern's style is defined by precision, timing, and genre-defining grooves. Key practice principles across all their licks: Tap the guitar riff first so you know exactly where each kick accent lands; Build double-bass speed and evenness slowly with a metronome before full tempo; Practise the polymetric sections in isolation, counting out loud. Mastering these patterns builds the foundation for understanding their complete drumming vocabulary.
@@ -90,4 +159,4 @@ Matt Halpern's style is defined by precision, timing, and genre-defining grooves
 
 ---
 
-*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*

@@ -36,6 +36,8 @@ import { SIGNATURE_GEAR } from '../../packages/frontend/data/signatureGear.js';
 import { getAllQuotes } from '../quotes-data.js';
 // Issue #1794: genre gear guide pages — /guides/best-[gear]-for-[genre]
 import { GENRE_GEAR_GUIDES } from '../../packages/frontend/data/genreGearGuides.js';
+// Issue #2403: kit-level /gear/:brand/:series/drummers-using pages.
+import { DRUMMERS_BY_KIT } from '../../packages/frontend/data/drummersByKit.js';
 
 const BASE_URL = 'https://metalforge.io';
 const SITE_NAME = 'MetalForge';
@@ -2804,6 +2806,80 @@ function getMetaForPath(pathname) {
             },
           ],
         }),
+      };
+    }
+  }
+
+  // Issue #2403: kit-level /gear/:brand/:series/drummers-using pages (drummersByKit.js).
+  // Checked before the GEAR_INDEX handler so kit slugs get the purchase-intent title format.
+  const kitDrummersMatch = path.match(/^\/gear\/([a-z0-9-]+)\/([a-z0-9-]+)\/drummers-using$/);
+  if (kitDrummersMatch) {
+    const [, brandSlug, seriesSlug] = kitDrummersMatch;
+    const kitKey = `${brandSlug}/${seriesSlug}`;
+    if (Object.prototype.hasOwnProperty.call(DRUMMERS_BY_KIT, kitKey)) {
+      const toName = s => s.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+      const brandName = toName(brandSlug);
+      const seriesName = toName(seriesSlug);
+      const kitDrummers = DRUMMERS_BY_KIT[kitKey];
+      const firstDrummer = kitDrummers[0]?.name || 'professional metal drummers';
+      const firstBand = kitDrummers[0]?.band;
+      const descDrummer = firstBand ? `${firstDrummer} (${firstBand})` : firstDrummer;
+      const nameList = kitDrummers.length > 1
+        ? kitDrummers.map(d => d.name).join(', ')
+        : firstDrummer;
+      return {
+        title: `${seriesName} Drummers — Which Metal Drummers Use ${brandName} ${seriesName}? | ${SITE_NAME}`,
+        description: `See which pro metal drummers use the ${brandName} ${seriesName}. ${descDrummer} and more — full gear configs and endorsement history.`,
+        image: DEFAULT_IMAGE,
+        type: 'website',
+        url: `${BASE_URL}/gear/${brandSlug}/${seriesSlug}/drummers-using`,
+        articleSchema: JSON.stringify([
+          {
+            '@context': 'https://schema.org',
+            '@type': 'ItemList',
+            name: `Metal Drummers Who Use ${brandName} ${seriesName}`,
+            description: `Professional metal drummers who play the ${brandName} ${seriesName} drum kit.`,
+            url: `${BASE_URL}/gear/${brandSlug}/${seriesSlug}/drummers-using`,
+            numberOfItems: kitDrummers.length,
+            itemListElement: kitDrummers.map((d, i) => ({
+              '@type': 'ListItem',
+              position: i + 1,
+              name: d.name,
+              url: `${BASE_URL}/drummers/${d.slug}`,
+            })),
+          },
+          {
+            '@context': 'https://schema.org',
+            '@type': 'FAQPage',
+            mainEntity: [
+              {
+                '@type': 'Question',
+                name: `Which metal drummers use the ${brandName} ${seriesName}?`,
+                acceptedAnswer: { '@type': 'Answer', text: nameList ? `${nameList} use the ${brandName} ${seriesName}.` : `Drummer data is being compiled.` },
+              },
+              {
+                '@type': 'Question',
+                name: `Is the ${brandName} ${seriesName} good for metal?`,
+                acceptedAnswer: { '@type': 'Answer', text: `Yes — the ${brandName} ${seriesName} is trusted by professional metal artists for its projection and durability under heavy playing.` },
+              },
+              {
+                '@type': 'Question',
+                name: `Where can I buy the ${brandName} ${seriesName}?`,
+                acceptedAnswer: { '@type': 'Answer', text: `The ${brandName} ${seriesName} is available at major music retailers. See the ${brandName} brand page on MetalForge for retailer links.` },
+              },
+            ],
+          },
+          {
+            '@context': 'https://schema.org',
+            '@type': 'BreadcrumbList',
+            itemListElement: [
+              { '@type': 'ListItem', position: 1, name: 'Home', item: BASE_URL },
+              { '@type': 'ListItem', position: 2, name: 'Gear', item: `${BASE_URL}/gear` },
+              { '@type': 'ListItem', position: 3, name: brandName, item: `${BASE_URL}/gear/${brandSlug}` },
+              { '@type': 'ListItem', position: 4, name: `${brandName} ${seriesName} Drummers`, item: `${BASE_URL}/gear/${brandSlug}/${seriesSlug}/drummers-using` },
+            ],
+          },
+        ]),
       };
     }
   }

@@ -679,6 +679,25 @@ function getGearSeriesFromURL() {
   return { brandSlug: match[1].toLowerCase(), seriesSlug: match[2].toLowerCase() };
 }
 
+// Kit-level "drummers using" pages (Issue #2403, split 1/4 of #2215).
+// Separate data layer (drummersByKit.js) from the GEAR_INDEX-derived pages above;
+// checked first so kit-specific slugs take priority over any GEAR_INDEX overlap.
+import { DRUMMERS_BY_KIT } from './data/drummersByKit';
+const LazyDrummersUsingKitPage = lazy(() => import('./pages/DrummersUsingKitPage').then(m => ({ default: m.DrummersUsingKitPage })));
+const KIT_DRUMMERS_RE = /^\/gear\/([a-z0-9-]+)\/([a-z0-9-]+)\/drummers-using\/?$/i;
+function isKitDrummersPage() {
+  if (typeof window === 'undefined') return false;
+  const match = window.location.pathname.match(KIT_DRUMMERS_RE);
+  if (!match) return false;
+  return Object.prototype.hasOwnProperty.call(DRUMMERS_BY_KIT, `${match[1].toLowerCase()}/${match[2].toLowerCase()}`);
+}
+function getKitDrummersFromURL() {
+  if (typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(KIT_DRUMMERS_RE);
+  if (!match) return null;
+  return { brandSlug: match[1].toLowerCase(), seriesSlug: match[2].toLowerCase() };
+}
+
 // Extended bios for drummer detail pages (Issue #305)
 // Loaded dynamically for code splitting (~9KB of text data) - TBT optimization #460
 // Fix for #541: Added Promise caching and listeners for reliable async loading
@@ -27284,6 +27303,26 @@ setShowList(false);
       );
     }
     
+    // Kit-level drummers-using pages (Issue #2403, split 1/4 of #2215).
+    // Uses drummersByKit.js data; checked before isGearSeriesPage() so kit slugs win.
+    if (isKitDrummersPage()) {
+      const kitInfo = getKitDrummersFromURL();
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyDrummersUsingKitPage
+            brandSlug={kitInfo?.brandSlug}
+            seriesSlug={kitInfo?.seriesSlug}
+            onBack={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/gear');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+          />
+        </Suspense>
+      );
+    }
+
     // Gear Series Page (Issue #996, split 2/4 of #871) - /gear/<brand>/<series>/drummers-using
     // SEO landing pages listing the pro drummers who use a brand+series. Routed off the
     // live URL (the regex is unambiguous vs the single-segment /gear/:brand brand pages).

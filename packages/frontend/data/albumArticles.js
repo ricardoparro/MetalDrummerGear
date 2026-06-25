@@ -44828,6 +44828,386 @@ For further exploration:
 - **Thrash metal drumming context**: [Ashes of the Wake drum setup at MetalForge](/articles/ashes-of-the-wake-drum-setup)
 - **Genre overview**: [Thrash metal drummers at MetalForge](/genre/thrash-metal)`
     }
+  },
+
+  'remission-drum-setup': {
+    slug: 'remission-drum-setup',
+    albumTitle: 'Remission',
+    artist: 'Mastodon',
+    drummer: 'Brann Dailor',
+    drummerId: 16,
+    relatedDrummerSlug: 'brann-dailor',
+    year: 2002,
+    genre: 'Sludge Metal',
+    label: 'Relapse Records',
+    studio: 'Studio Fredman, Gothenburg, Sweden',
+    producer: 'Matt Bayles',
+    isAlbumArticle: true,
+    datePublished: '2026-06-25',
+    dateModified: '2026-06-25',
+    author: 'MetalForge Editorial',
+    title: "Brann Dailor's Drum Setup on Mastodon's Remission (2002)",
+    description: "Brann Dailor recorded Remission — Mastodon's debut full-length on Relapse Records — on a DW kit before the band's Tama endorsement era. Discover the raw Southern sludge drum sound, jazz-influenced tom patterns, and gear behind Mastodon's origin point.",
+    seoKeywords: ['brann dailor remission drums', 'mastodon debut drums', 'mastodon first album drums', 'brann dailor 2002 kit', 'mastodon remission drum setup', 'mastodon relapse records drums', 'brann dailor debut recording', 'mastodon sludge metal drums', 'remission drum setup', 'brann dailor early career'],
+    ogImage: '/images/albums/remission-drums.webp',
+    intro: {
+      title: "The Origin Point: Brann Dailor's First Full LP Recording",
+      content: `Released on June 25, 2002, Mastodon's *Remission* is the debut full-length that launched one of heavy metal's most important careers — both for the band and for [Brann Dailor](/drummer/brann-dailor) individually. Recorded for Relapse Records, *Remission* introduced the world to a drummer whose jazz-schooled fluidity and relentless melodic instinct were immediately distinguishable from the technical brutality dominating extreme metal at the turn of the millennium.
+
+*Remission* occupies a unique position in Mastodon's discography. Where later albums like [Blood Mountain](/articles/blood-mountain-drum-setup) (2006) and [Crack the Skye](/articles/crack-the-skye-drum-setup) (2009) would expand the band's progressive ambitions into mainstream acclaim, *Remission* is a rawer, more ferocious record rooted in Southern sludge metal tradition — the heritage of Melvins, Eyehategod, and the Atlanta underground scene that produced the band. The production is deliberately unpolished, with Dailor's kit sitting close and physical in the mix rather than the more melodically sculpted drum sounds of subsequent releases.
+
+Yet even here, at the very beginning, Dailor's signature characteristics are unmistakable. His tom patterns across tracks like "March of the Fire Ants," "Crusher Destroyer," and "Ol'e Nessie" already demonstrate the jazz-influenced melodic approach — fills as phrases, not just rhythmic punctuation — that would mature into one of progressive metal's defining drum voices. The difference is context: on *Remission*, those jazz instincts are pressed into a sludge metal framework of massive tuned-down riffs, slow-to-mid tempos, and maximal physical aggression.
+
+The gear Dailor used for these sessions reflects the early-career reality: a DW Collector's Series kit acquired before any endorsement relationship, Zildjian A series cymbals, and a Pearl Eliminator double pedal that served the album's more straightforward rhythmic demands before Dailor's transition to single-kick playing on later records. This is the foundational setup — the instrument that began the entire [Brann Dailor arc](/drummer/brann-dailor) at MetalForge.`,
+      keyPoints: [
+        "Mastodon's debut full-length — origin of the entire Mastodon discography",
+        'Recorded on Relapse Records — Southern sludge metal with jazz-influenced drum vocabulary',
+        "DW Collector's Series kit, pre-Tama endorsement era",
+        'Pearl Eliminator double pedal — early period before transition to single kick',
+        'Zildjian A series cymbals: bright, aggressive top-end suited to sludge metal aggression',
+        'Raw, physical drum production — less polished than Blood Mountain or Crack the Skye'
+      ]
+    },
+    drumKit: {
+      title: "The DW Collector's Series: Before the Tama Era",
+      brand: 'DW',
+      model: "DW Collector's Series",
+      finish: 'Natural maple finish',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum (double kick configuration)'],
+        toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom', '14" x 12" Rack Tom'],
+        floorToms: ['16" x 16" Floor Tom'],
+        shells: '100% maple shells — pre-endorsement DW Collector\'s Series configuration'
+      },
+      description: `For the *Remission* sessions, Brann Dailor used a DW Collector's Series drum kit — the premium American custom line he would carry through the early Mastodon recording years before transitioning to Tama Starclassic Maple for the later progressive era. DW's Collector's Series builds shells to spec in California from premium hardwoods, with the bearing-edge geometry and shell-prep tolerances that give the kit its consistent, musical tuning range.
+
+The choice of maple shells was formative for Dailor's sound even on this early record. Maple resonates with warmth and fundamental tone — producing pitched notes rather than pure percussive noise — and even in the dense, crushing context of *Remission*'s sludge riffs, Dailor's toms ring with melodic presence. This is not accidental: even at Mastodon's rawest, Dailor was already approaching the kit as a melodic instrument, tuning his drums to produce musical intervals across the configuration.
+
+The double bass drum configuration on *Remission* reflects the album's sludge metal demands — heavy, driving bass drum patterns that underpin the massive tuned-down guitar work. Dailor's bass drum playing here is more straightforwardly rhythmic than the polyrhythmic architectures he would develop on [Crack the Skye](/articles/crack-the-skye-drum-setup), serving the groove and forward momentum of the songs rather than functioning as a compositional element in its own right.
+
+For the broader context of how this setup fits into Dailor's gear evolution across the Mastodon catalogue, visit the [Brann Dailor drummer profile](/drummer/brann-dailor). And for the next chapter in the DW Collector's Series story — where the fills-as-melody approach fully emerged — see the [Blood Mountain drum setup](/articles/blood-mountain-drum-setup).`,
+      notes: [
+        "DW Collector's Series — pre-Tama endorsement, Dailor's early-career flagship",
+        'Natural maple finish — warm, fundamental-rich shell resonance',
+        'Double bass drum configuration for sludge metal rhythmic demands',
+        'Used across the Remission recording sessions and early touring',
+        'Same DW line carried forward to Blood Mountain and Crack the Skye sessions'
+      ],
+      estimatedValue: "$3,500–6,000 (DW Collector's Series shell pack)"
+    },
+    snare: {
+      title: 'The Snare: Raw Authority in the Sludge Mix',
+      brand: 'DW',
+      model: 'DW 14x6.5 Black Nickel over Steel',
+      size: '14" x 6.5"',
+      shell: 'Black nickel over steel — matched to DW Collector\'s Series aesthetic',
+      description: `The snare on *Remission* is present, authoritative, and deliberately raw — a character shaped both by the DW Black Nickel over Steel shell and by the production approach Matt Bayles used to record the album. Unlike the more sculpted snare sounds on later Mastodon records, *Remission*'s snare hits with a directness that suits the sludge metal context: this is a snare designed to assert itself through massive downtuned guitars, not to blend with melodic arrangements.
+
+At 14" x 6.5", the deeper shell produces more body and projection than a standard 5.5" snare, with the steel construction adding brightness and crack at the attack. The Black Nickel over Steel finish gives the drum a focused, aggressive character — less warm than a brass or bronze snare, with a cutting top-end that cuts through the album's dense guitar production. Dailor's ghost note work appears throughout *Remission* even in this rawer context, and the snare's sensitivity at medium-to-medium-high tension allows quiet notes to register without disappearing.
+
+For drummers studying this album, the snare tone is one of the key elements that distinguishes *Remission*'s drum sound from the more polished approach Dailor would develop on [Blood Mountain](/articles/blood-mountain-drum-setup) and beyond. This is Mastodon before refinement — raw, physical, and powerful.`,
+      tuningSetting: 'Medium-high tension — brightness and attack for the sludge metal context',
+      heads: 'Evans UV1 Coated (batter), Evans Hazy 300 (resonant)',
+      estimatedValue: '$400–700 (DW Black Nickel over Steel snare)'
+    },
+    cymbals: {
+      title: 'Zildjian A Series: Early Career Brightness',
+      brand: 'Zildjian',
+      series: 'Zildjian A Series',
+      setup: [
+        { type: 'Hi-Hats', model: 'Zildjian A 14" New Beat Hi-Hats', position: 'Left side', notes: 'Clear, responsive top-end that cuts through the dense sludge guitar arrangements' },
+        { type: 'Crash', model: 'Zildjian A 18" Medium Thin Crash', position: 'Left crash', notes: 'Fast, bright crash with quick decay — suited to the album\'s aggressive attack' },
+        { type: 'Crash', model: 'Zildjian A 20" Medium Crash', position: 'Right crash', notes: 'Fuller crash for heavier accents; bright Zildjian A character throughout' },
+        { type: 'Ride', model: 'Zildjian A 22" Medium Ride', position: 'Right side', notes: 'Defined bell and body for riding passages through the sludge riffing' },
+        { type: 'China', model: 'Zildjian A 18" China', position: 'Above rack toms', notes: 'Aggressive, cutting China for heavy accents and section transitions' }
+      ],
+      description: `Brann Dailor's Zildjian A series setup on *Remission* represents his early-career cymbal language — bright, cutting, and aggressive in a way that suits the album's sludge metal context. The Zildjian A series is the flagship American-made cymbal line: B8 bronze alloy, machine-lathed to tight tolerances, producing a clear, penetrating sound with consistent attack and defined decay.
+
+On *Remission*, that Zildjian brightness works in the music's favour. The album features massive, downtuned guitar riffs playing in the low-mid register, creating a sonic density that requires cymbals with genuine high-frequency presence to cut through. The A series hi-hats provide a crisp, responsive top-end that asserts itself in the mix without requiring artificial emphasis, and the crashes attack quickly and decay cleanly — suiting the album's tempos and Mastodon's tendency to crash hard on structural accents.
+
+This Zildjian A setup is notably different from the darker Meinl Byzance palette Dailor would adopt for [Crack the Skye](/articles/crack-the-skye-drum-setup) and subsequent Mastodon records. The Byzance's dark, complex, Turkish-forged character would suit the more atmospheric and melodically sophisticated albums of the progressive era. On *Remission*, the Zildjian A's brightness is the right tool: aggressive, unambiguous, and well-matched to the album's sludge metal directness.`,
+      estimatedValue: '$900–1,400 (Zildjian A series setup)'
+    },
+    hardware: {
+      title: 'Pedals, Sticks, and Hardware',
+      items: [
+        {
+          type: 'Double Bass Pedal',
+          brand: 'Pearl',
+          model: 'Pearl Eliminator Double Pedal',
+          notes: 'Early career double pedal — before transition to DW hardware and eventual single-kick approach',
+          description: "The Pearl Eliminator double bass drum pedal was Brann Dailor's early-period choice for the *Remission* sessions, providing the double-kick foundation for the album's sludge metal rhythmic demands. The Pearl Eliminator is known for its versatility — multiple cam drive settings, interchangeable options for feel, and robust construction that handles aggressive playing. On *Remission*, the double-kick configuration drives the heavy, grinding bass drum patterns that anchor the album's sludge foundation."
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'DW',
+          model: 'DW 9000 Series Hi-Hat Stand',
+          notes: 'DW hardware matched to the Collector\'s Series kit'
+        },
+        {
+          type: 'Throne',
+          brand: 'Roc-N-Soc',
+          model: 'Roc-N-Soc Nitro Throne',
+          notes: 'Stability and comfort for extended studio and live performance'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth 5A American Classic',
+          notes: 'Dailor\'s early-career stick choice — consistent with his pre-endorsement era across all early Mastodon recordings'
+        }
+      ],
+      heads: {
+        bassKick: 'Evans EMAD Clear (front head: Evans Resonant Bass)',
+        toms: 'Evans UV1 Coated batter heads — consistent tone across configurations',
+        snare: 'Evans UV1 Coated'
+      }
+    },
+    recordingTechniques: {
+      title: 'Matt Bayles and the Raw Sludge Sound of Remission',
+      content: `*Remission* was recorded with producer Matt Bayles — the same producer who would work with Mastodon again on [Blood Mountain](/articles/blood-mountain-drum-setup) in 2006. Bayles understood the band's sludge metal foundation and captured Dailor's kit with a directness and physicality that suited the album's aesthetic: less room ambience, more close-miked attack, a drum sound that hits the listener with immediate physical force.
+
+**Production Philosophy:**
+Where O'Brien's work on *Crack the Skye* opened up the drum sound with room ambience and natural reverberation, Bayles on *Remission* kept the kit close and aggressive. The result is a drum sound that reflects the album's sludge metal lineage — rooted in the physical, dense approach of bands like Melvins and Eyehategod rather than the expansive prog production that Mastodon would explore later.
+
+**Performance Context:**
+Many of *Remission*'s drum tracks were recorded live with the band, capturing the ensemble energy that characterises sludge metal performance. This approach — as opposed to isolated drum tracking with click tracks — contributes to the album's raw, urgent feeling: the drums breathe with the riffs, push and pull with the band's collective intensity.
+
+**Early Career Context:**
+*Remission* captures Dailor at the beginning of his professional career as a recording drummer. The jazz influences are already present — the tom patterns and fill language are unmistakably his — but the context is stripped back to essentials: big riffs, physical groove, maximum sludge.`,
+      keyTechniques: [
+        "Matt Bayles' close-miked, direct production approach — raw physicality over atmospheric ambience",
+        'Live-ensemble recording approach preserving band energy',
+        'Sludge metal context: heavy, low-mid guitar density requiring assertive drum sound',
+        'Foundation session for the Mastodon/Bayles working relationship continued on Blood Mountain'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'March of the Fire Ants',
+        bpm: '120-132',
+        signature: '4/4 with rhythmic displacement',
+        highlights: [
+          'Quintessential Remission track — jazz-influenced tom patterns within a sludge metal framework',
+          'Dailor\'s fill language already demonstrates the melodic phrase approach he\'ll refine over the next decade',
+          'Driving double-kick foundation anchors the massive downtuned riff',
+          'One of the album\'s most recognisable drum performances'
+        ],
+        gearNotes: "The DW Collector's toms ring with warm fundamentals even in the dense sludge mix. The Zildjian A hi-hats cut clearly through the guitar density."
+      },
+      {
+        track: 'Crusher Destroyer',
+        bpm: '108-120',
+        signature: '4/4 with irregular accents',
+        highlights: [
+          'Aggressive sludge groove with Dailor\'s characteristic unexpected fills',
+          'Bass drum pattern drives the song\'s crushing momentum',
+          'Snare accents land with maximum physical authority in the dense mix',
+          'Early demonstration of Dailor\'s ability to play hard without sacrificing musical intention'
+        ],
+        gearNotes: "The Pearl Eliminator double pedal provides the driving bass drum foundation. The DW Black Nickel over Steel snare hits hard and clean through the arrangement."
+      },
+      {
+        track: "Ol'e Nessie",
+        bpm: '96-112',
+        signature: '4/4 with sludge metal groove',
+        highlights: [
+          'Mid-tempo sludge groove showcasing Dailor\'s feel-forward approach',
+          'Tom patterns weave melodic content into a rhythmically simpler framework',
+          'Ghost notes appear in the verse grooves — early marker of Dailor\'s jazz influence',
+          'Dynamic range from restrained groove to full-kit assault'
+        ],
+        gearNotes: "The Zildjian A China accents the section transitions with aggressive cutting character. The DW maple toms provide warm resonance that lifts the groove above pure rhythmic function."
+      },
+      {
+        track: 'Workhorse',
+        bpm: '112-128',
+        signature: '4/4 driving sludge metal',
+        highlights: [
+          'Driving, forward-momentum groove — one of the album\'s most straightforward sludge performances',
+          'Demonstrates the Pearl Eliminator double pedal in sustained driving patterns',
+          'Fills serve the song\'s forward motion rather than diverting from it',
+          'Album closer that builds to the full-band intensity characteristic of Mastodon\'s live shows'
+        ],
+        gearNotes: "The Vic Firth 5A sticks give defined articulation on the Zildjian A hi-hats through the driving verse grooves."
+      }
+    ],
+    evolution: {
+      title: "From Remission to Crack the Skye: The Gear Arc Begins Here",
+      content: `*Remission* is the starting point of the Brann Dailor gear story — the debut full-length where every subsequent development was seeded. The DW Collector's Series kit that defined *Remission* would carry forward to [Blood Mountain](/articles/blood-mountain-drum-setup) (2006) and [Crack the Skye](/articles/crack-the-skye-drum-setup) (2009), while the Zildjian A series cymbals would eventually give way to the darker, more atmospheric Meinl Byzance palette. The Pearl Eliminator double pedal would be replaced by DW hardware as Mastodon's resources grew and, eventually, Dailor's single-kick approach would become one of his most distinctive professional choices.
+
+**DW to Tama:**
+The DW Collector's Series setup of the early albums gave way to a Tama Starclassic Maple configuration in the later Mastodon years — most fully documented in the [Emperor of Sand drum setup](/articles/emperor-of-sand-drum-setup) (2017). The transition reflected Mastodon's growing commercial profile and Dailor's developing endorsement relationships, but the maple shell philosophy — warm, resonant, melodically capable — remained constant across the change.
+
+**Double Kick to Single:**
+*Remission* features Dailor's most straightforwardly double-kick playing. Through [Crack the Skye](/articles/crack-the-skye-drum-setup)'s complex polyrhythmic bass drum architecture and into the later Mastodon era, he gradually stripped back to single kick — redirecting the rhythmic energy into groove, feel, and melodic conversation. The single-kick commitment on *Emperor of Sand* is in many ways the philosophical endpoint of a journey that began with the Pearl Eliminator driving sludge riffs on *Remission*.
+
+**Zildjian to Meinl:**
+The Zildjian A series brightness of *Remission* suits the album's sludge metal aggression. As Mastodon's music became more atmospheric and melodically complex, Dailor moved toward the darker, more complex tonal character of Meinl Byzance — a transition already underway by the time of [Blood Mountain](/articles/blood-mountain-drum-setup) (2006) and fully established on [Crack the Skye](/articles/crack-the-skye-drum-setup).`,
+      thenVsNow: [
+        { category: 'Kit', then: "DW Collector's Series (natural maple)", now: 'Tama Starclassic Maple (various custom finishes)' },
+        { category: 'Snare', then: "DW 14\" x 6.5\" Black Nickel over Steel", now: 'Tama Starphonic or Artstar snare' },
+        { category: 'Cymbals', then: 'Zildjian A series (bright, aggressive)', now: 'Meinl Byzance (dark, complex, atmospheric)' },
+        { category: 'Pedal', then: 'Pearl Eliminator double pedal', now: 'Single 22" bass drum, single pedal approach' },
+        { category: 'Sticks', then: 'Vic Firth 5A American Classic', now: 'Meinl Stick & Brush (post-endorsement)' }
+      ]
+    },
+    faq: [
+      {
+        question: 'What kit did Brann Dailor use on Remission?',
+        answer: "Brann Dailor recorded Mastodon's Remission (2002) on a DW Collector's Series drum kit, before the band's later Tama endorsement era. The DW Collector's Series is the American brand's flagship custom line, built with maple shells that produce the warm, resonant tone that would characterise Dailor's drum sound across the early Mastodon albums. The configuration featured a double bass drum setup with a 22\" kick, rack toms at 10\", 12\", and 14\", and a 16\" floor tom.",
+      },
+      {
+        question: "Is Remission Mastodon's first album?",
+        answer: "Yes — Remission (2002) is Mastodon's debut full-length album, released on Relapse Records on June 25, 2002. It is the origin point of the entire Mastodon discography and Brann Dailor's first full LP recording with the band. Before Remission, Mastodon released the Lifesblood EP (2001), also on Relapse Records. Remission established the band's Southern sludge metal identity before their progressive evolution on Leviathan (2004) and Blood Mountain (2006).",
+      },
+      {
+        question: "How does Brann Dailor's drumming on Remission differ from later Mastodon albums?",
+        answer: "Remission has a rawer, more direct drum sound compared to the polished productions of Blood Mountain (2006) and Crack the Skye (2009). The album is rooted in Southern sludge metal rather than progressive metal, so the drum patterns are more straightforwardly groove-oriented — less polyrhythmic complexity, more physical forward momentum. Dailor's jazz influences and melodic tom approach are already present but pressed into a heavier, less refined framework. The production is also more close-miked and dense versus the room-ambient approaches used on later records.",
+      },
+      {
+        question: 'What cymbals does Brann Dailor use on Remission?',
+        answer: "On Remission (2002), Brann Dailor used Zildjian A series cymbals — bright, cutting, aggressive cymbals from Zildjian's flagship American-made line. This included 14\" New Beat hi-hats, 18\" and 20\" crashes, a 22\" medium ride, and an 18\" China. The bright Zildjian A character suited the album's sludge metal density, where cymbals needed to cut through massive downtuned guitars. Dailor would later transition to the darker Meinl Byzance series for Crack the Skye (2009) and subsequent Mastodon records.",
+      },
+      {
+        question: 'What double pedal does Brann Dailor use on Remission?',
+        answer: "On Remission (2002), Brann Dailor used a Pearl Eliminator double bass drum pedal — his early-career choice before transitioning to DW hardware and, eventually, a single-kick approach on later Mastodon albums. The Pearl Eliminator is a highly regarded professional double pedal known for versatility and robust construction, well-suited to the double-bass demands of Remission's sludge metal grooves.",
+      },
+      {
+        question: 'Who produced Remission?',
+        answer: "Remission (2002) was produced by Matt Bayles — the same producer who worked with Mastodon again on Blood Mountain (2006). Bayles captured the album's raw, physical sludge metal sound with a close-miked drum approach that emphasised attack and directness over atmospheric ambience. His familiarity with the band's early sound and his close working relationship with Brann Dailor informed the production decisions that gave Remission its distinctive aggressive character.",
+      }
+    ],
+    conclusion: {
+      title: "Remission: Where the Brann Dailor Story Begins",
+      content: `*Remission* is not just Mastodon's debut — it is the starting point for one of heavy music's most important drumming careers. Every element that would make [Brann Dailor](/drummer/brann-dailor) one of progressive metal's defining voices was already present in 2002: the jazz-influenced tom language, the fills-as-phrases approach, the melodic instinct that treats the kit as a compositional instrument rather than a rhythmic machine. *Remission* simply placed those instincts inside a Southern sludge metal framework, where the raw production and massive downtuned riffs provided a visceral context for Dailor's already-distinctive approach.
+
+The DW Collector's Series kit, Zildjian A series cymbals, and Pearl Eliminator double pedal combination of these sessions was chosen — as all of Dailor's gear choices would be — to serve the music's needs. Raw, direct, physically aggressive: a drum setup that suited Relapse Records sludge metal and the underground touring circuit where Mastodon built their early reputation.
+
+Understanding *Remission* is essential for understanding the full arc of Dailor's development. The progression from the sludge grooves of this debut through the fills-as-melody breakthrough of [Blood Mountain](/articles/blood-mountain-drum-setup) to the polyrhythmic masterclass of [Crack the Skye](/articles/crack-the-skye-drum-setup) is one of the most compelling evolutionary stories in modern drumming. *Remission* is where that story begins — and where the DW maple shells, even in their rawest configuration, first revealed the melodic intelligence that would come to define Brann Dailor's legacy.
+
+For the complete picture of Dailor's gear across Mastodon's career, visit the [Brann Dailor drummer profile](/drummer/brann-dailor). For the next chapter in the studio arc, see the [Blood Mountain drum setup](/articles/blood-mountain-drum-setup) and [Crack the Skye drum setup](/articles/crack-the-skye-drum-setup).`
+    },
+    relatedAlbums: ['blood-mountain-drum-setup', 'crack-the-skye-drum-setup', 'emperor-of-sand-drum-setup'],
+    relatedDrummers: [16, 5, 14],
+    relatedArticles: ['brann-dailor-mastodon-drum-setup', 'whats-in-brann-dailors-kit'],
+    schema: {
+      '@context': 'https://schema.org',
+      '@graph': [
+        {
+          '@type': 'Article',
+          headline: "Brann Dailor's Drum Setup on Mastodon's Remission (2002)",
+          description: "Brann Dailor recorded Remission — Mastodon's debut full-length on Relapse Records — on a DW kit before the band's Tama endorsement era. Discover the raw Southern sludge drum sound, jazz-influenced tom patterns, and gear behind Mastodon's origin point.",
+          author: {
+            '@type': 'Organization',
+            name: 'MetalForge Editorial'
+          },
+          datePublished: '2026-06-25',
+          dateModified: '2026-06-25'
+        },
+        {
+          '@type': 'BreadcrumbList',
+          itemListElement: [
+            { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://metalforge.io/' },
+            { '@type': 'ListItem', position: 2, name: 'Articles', item: 'https://metalforge.io/articles' },
+            { '@type': 'ListItem', position: 3, name: 'Remission Drum Setup', item: 'https://metalforge.io/articles/remission-drum-setup' }
+          ]
+        },
+        {
+          '@type': 'MusicAlbum',
+          name: 'Remission',
+          byArtist: {
+            '@type': 'MusicGroup',
+            name: 'Mastodon'
+          },
+          datePublished: '2002-06-25',
+          genre: 'Sludge Metal',
+          recordLabel: {
+            '@type': 'Organization',
+            name: 'Relapse Records'
+          },
+          track: [
+            { '@type': 'MusicRecording', name: 'Crusher Destroyer' },
+            { '@type': 'MusicRecording', name: 'March of the Fire Ants' },
+            { '@type': 'MusicRecording', name: 'Where Strides the Behemoth' },
+            { '@type': 'MusicRecording', name: "Ol'e Nessie" },
+            { '@type': 'MusicRecording', name: 'Workhorse' },
+            { '@type': 'MusicRecording', name: 'Burning Man' },
+            { '@type': 'MusicRecording', name: 'Trainman' },
+            { '@type': 'MusicRecording', name: 'Trilobite' },
+            { '@type': 'MusicRecording', name: 'Elephant Man' },
+            { '@type': 'MusicRecording', name: 'Juggernaut' }
+          ]
+        },
+        {
+          '@type': 'Person',
+          name: 'Brann Dailor',
+          birthDate: '1975-03-19',
+          birthPlace: {
+            '@type': 'Place',
+            name: 'Rochester, New York, USA'
+          },
+          memberOf: {
+            '@type': 'MusicGroup',
+            name: 'Mastodon'
+          },
+          instrument: 'Drums'
+        },
+        {
+          '@type': 'FAQPage',
+          mainEntity: [
+            {
+              '@type': 'Question',
+              name: 'What kit did Brann Dailor use on Remission?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "Brann Dailor recorded Mastodon's Remission (2002) on a DW Collector's Series drum kit, before the band's later Tama endorsement era. The configuration featured a double bass drum setup with maple shells."
+              }
+            },
+            {
+              '@type': 'Question',
+              name: "Is Remission Mastodon's first album?",
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "Yes — Remission (2002) is Mastodon's debut full-length album, released on Relapse Records on June 25, 2002. It is the origin point of the entire Mastodon discography and Brann Dailor's first full LP recording with the band."
+              }
+            },
+            {
+              '@type': 'Question',
+              name: "How does Brann Dailor's drumming on Remission differ from later Mastodon albums?",
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "Remission has a rawer, more direct drum sound compared to Blood Mountain (2006) and Crack the Skye (2009). The album is rooted in Southern sludge metal with more straightforward groove-oriented patterns, less polyrhythmic complexity, and a close-miked production aesthetic versus the room-ambient approaches on later records."
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'What cymbals does Brann Dailor use on Remission?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "On Remission (2002), Brann Dailor used Zildjian A series cymbals — 14\" New Beat hi-hats, 18\" and 20\" crashes, a 22\" medium ride, and an 18\" China. The bright Zildjian A character suited the album's sludge metal density before his later transition to Meinl Byzance."
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'What double pedal does Brann Dailor use on Remission?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "On Remission (2002), Brann Dailor used a Pearl Eliminator double bass drum pedal — his early-career choice before transitioning to DW hardware and, eventually, a single-kick approach on later Mastodon albums."
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'Who produced Remission?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "Remission (2002) was produced by Matt Bayles, who also produced Blood Mountain (2006). Bayles captured the album's raw, physical sludge metal sound with a close-miked drum approach emphasising attack and directness."
+              }
+            }
+          ]
+        }
+      ]
+    }
   }
 };
 

@@ -8644,6 +8644,108 @@ The Grammy nomination for "The Dark Eternal Night" wasn't just a recognition of 
 *Systematic Chaos* turned 18 years old in 2025, and it remains the definitive statement of Portnoy's final Dream Theater era. The Grammy nomination brought new listeners to a band that had long deserved the recognition — and the drum performance that drove that nomination holds up as one of the finest recorded in progressive metal history.
 
 For the heavy pivot that preceded this, see the [Train of Thought drum setup article](/articles/train-of-thought-drum-setup). For Portnoy's complete story with Dream Theater, visit the [Mike Portnoy drummer profile](/drummer/mike-portnoy). For the prog foundation that started it all, see the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup).`
+    },
+    schema: {
+      '@context': 'https://schema.org',
+      '@graph': [
+        {
+          '@type': 'Article',
+          headline: "Systematic Chaos Drum Setup — Mike Portnoy's Grammy-Nominated 2007 Dream Theater Kit",
+          description: "Complete breakdown of Mike Portnoy's drum gear on Dream Theater's Systematic Chaos (2007). Discover the Tama Starclassic Bubinga kit, Sabian HHX Evolution cymbals, DW 9000 pedals, and the Grammy-nominated technique behind 'The Dark Eternal Night'.",
+          author: {
+            '@type': 'Organization',
+            name: 'MetalForge Editorial'
+          },
+          datePublished: '2026-06-24',
+          dateModified: '2026-06-24'
+        },
+        {
+          '@type': 'BreadcrumbList',
+          itemListElement: [
+            { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://metalforge.io' },
+            { '@type': 'ListItem', position: 2, name: 'Articles', item: 'https://metalforge.io/articles' },
+            { '@type': 'ListItem', position: 3, name: 'Systematic Chaos Drum Setup', item: 'https://metalforge.io/articles/systematic-chaos-drum-setup' }
+          ]
+        },
+        {
+          '@type': 'MusicAlbum',
+          name: 'Systematic Chaos',
+          byArtist: {
+            '@type': 'MusicGroup',
+            name: 'Dream Theater'
+          },
+          datePublished: '2007-06-05',
+          genre: 'Progressive Metal',
+          recordLabel: {
+            '@type': 'Organization',
+            name: 'Roadrunner Records'
+          },
+          track: [
+            { '@type': 'MusicRecording', name: 'In the Presence of Enemies – Part I' },
+            { '@type': 'MusicRecording', name: 'Forsaken' },
+            { '@type': 'MusicRecording', name: 'Constant Motion' },
+            { '@type': 'MusicRecording', name: 'The Dark Eternal Night' },
+            { '@type': 'MusicRecording', name: 'Repentance' },
+            { '@type': 'MusicRecording', name: 'The Ministry of Lost Souls' },
+            { '@type': 'MusicRecording', name: 'Prophets of War' },
+            { '@type': 'MusicRecording', name: 'In the Presence of Enemies – Part II' }
+          ]
+        },
+        {
+          '@type': 'Person',
+          name: 'Mike Portnoy',
+          memberOf: {
+            '@type': 'MusicGroup',
+            name: 'Dream Theater'
+          },
+          instrument: 'Drums'
+        },
+        {
+          '@type': 'FAQPage',
+          mainEntity: [
+            {
+              '@type': 'Question',
+              name: 'What drums does Mike Portnoy use on Systematic Chaos?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "Mike Portnoy recorded Systematic Chaos (2007) on a Tama Starclassic Bubinga kit — a significant upgrade from the Starclassic Maple he had played since the Scenes from a Memory era. The configuration maintained approximately 13 drums: double 22\"x18\" bass drums, five rack toms (8\", 10\", 12\", 13\", 14\"), and three floor toms (14\", 16\", 18\"). Bubinga is a denser, harder African hardwood than maple — it produces sharper attack, tighter decay, and more articulate transients."
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'How does the Systematic Chaos kit differ from Scenes from a Memory?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "Key differences: (1) Shell material — Tama Starclassic Bubinga (Systematic Chaos) vs. Tama Starclassic Maple (Scenes from a Memory); bubinga is denser and sharper-attacking, maple is warmer and more sustained. (2) Cymbals — Sabian HHX Evolution (dark, complex, hand-hammered) vs. Sabian Artisan (also dark, but more vintage-voiced). (3) Pedals — DW 9000 (smooth, roller-bearing cam) vs. DW 5000 (chain-drive). (4) Kit size — ~13 drums (Systematic Chaos) vs. 8 drums (Scenes from a Memory)."
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'What makes In the Presence of Enemies hard to drum?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: '"In the Presence of Enemies" demands odd-time fluency at high intensity across nearly 25 minutes of music (Part I: 8:44, Part II: 16:38), sustained physical endurance and compositional focus across an album\'s worth of separation, dynamic range from atmospheric restraint to full-velocity prog metal, and structural responsibility as bookend pieces that must feel thematically connected.'
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'What cymbals did Mike Portnoy use on Systematic Chaos?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "For Systematic Chaos (2007), Mike Portnoy used Sabian HHX Evolution cymbals — a shift from the Sabian AAX Series of Train of Thought (2003). His setup included HHX Evolution 14\" hi-hats, crashes at 16\", 17\", 18\", and 19\", a 21\" Evolution Ride, and an 18\" HHX Chinese cymbal. The HHX Evolution series is hand-hammered with a raw finish, producing a darker, more complex sound than the bright machine-hammered AAX line."
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'Was Systematic Chaos nominated for a Grammy?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: 'Yes. Dream Theater received a Grammy nomination for Best Metal Performance at the 50th Grammy Awards (February 2008) for "The Dark Eternal Night" from Systematic Chaos. It was the band\'s first Grammy nomination and remains their most prominent recognition from the Recording Academy. "The Dark Eternal Night" features relentless double-bass patterns beneath technically complex odd-time riffing.'
+              }
+            }
+          ]
+        }
+      ]
     }
   },
 

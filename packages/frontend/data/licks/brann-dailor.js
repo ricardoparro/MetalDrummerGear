@@ -218,6 +218,222 @@ export const licks = {
         "odd time signatures"
       ]
     }
+  },
+  "brann-dailor-blood-and-thunder-shuffle": {
+    "slug": "brann-dailor-blood-and-thunder-shuffle",
+    "name": "Blood and Thunder Swung Quasi-Blast",
+    "shortName": "Blood & Thunder Shuffle",
+    "drummerId": 16,
+    "drummerName": "Brann Dailor",
+    "drummerSlug": "brann-dailor",
+    "band": "Mastodon",
+    "song": "Blood and Thunder",
+    "album": "Leviathan (2004)",
+    "category": "signature-pattern",
+    "style": "progressive-metal",
+    "difficulty": "advanced",
+    "difficultyRating": 4,
+    "bpm": 168,
+    "bpmDisplay": "~168 BPM",
+    "timeSignature": "4/4 (swing feel)",
+    "description": "Within Blood and Thunder's runtime, Brann Dailor deploys a swung quasi-blast groove that is fundamentally different from the melodic lead-groove approach he takes elsewhere in the song. Where the main verse groove is about melodic tom commentary and carefully placed fills, this pattern is about raw propulsion: Dailor swings the hi-hat and ride in a way that gives the beat an almost shuffle character even at 168 BPM, creating a groove that sits somewhere between a traditional thrash beat and a full blast. The swing comes from a slight lean on the upbeat strokes — rather than placing the subdivision exactly on the mathematical midpoint, Dailor leans back ever so slightly, giving the groove a muscular, lurching quality that makes the riff feel heavier than a straight pattern would at the same tempo. The kick drives in a near-continuous gallop under this swing, and the snare lands on beats two and four with enough authority to cut through the guitar's low-end thunder. What makes this pattern instructive is the way it demonstrates how feel can transform the character of a metal groove without changing the underlying time signature or tempo. The same 168 BPM pulse can feel light and mechanical if played perfectly straight, or heavy and slightly dangerous when the subdivision is bent just enough to create swing. Mastering this distinction is one of the deeper lessons in metal drumming — understanding that groove is as much about where you place each note within the beat as about the pattern itself. Drummers learning this part should focus on loosening the wrists rather than tensing them, allowing the swing to emerge naturally rather than being imposed mechanically. Practise the hi-hat pattern alone at half tempo, feeling for the swing before adding snare and kick, then gradually bring the tempo up while maintaining that loose, swung character. Related licks: [Blood and Thunder Lead Groove](/drummers/brann-dailor/licks/brann-dailor-blood-and-thunder-groove) and [Colony of Birchmen Funky Groove](/drummers/brann-dailor/licks/brann-dailor-colony-of-birchmen-funky-groove).",
+    "techniques": [
+      "groove-drumming",
+      "linear-drumming",
+      "stamina"
+    ],
+    "techniqueDetails": [
+      "Loosen the wrists to let the swing emerge naturally rather than imposing it mechanically",
+      "Practice the hi-hat pattern alone at half tempo to feel the slight subdivision lean",
+      "Drive the kick in a near-continuous gallop underneath the swung hi-hat pattern",
+      "Land the snare on beats 2 and 4 with authority to anchor the groove against the swing",
+      "Gradually increase tempo from 84 BPM to 168 BPM while preserving the swung feel"
+    ],
+    "tutorial": {
+      "youtubeId": null,
+      "startTime": 0,
+      "title": "Brann Dailor - Blood and Thunder Swung Groove",
+      "description": "Breakdown of the swung quasi-blast feel in Blood and Thunder"
+    },
+    "gearUsed": [
+      {
+        "name": "Tama Starclassic Kit",
+        "type": "drums",
+        "link": null
+      },
+      {
+        "name": "Meinl Cymbals",
+        "type": "cymbals",
+        "link": null
+      },
+      {
+        "name": "Tama Speed Cobra Pedals",
+        "type": "pedals",
+        "link": null
+      }
+    ],
+    "learningTips": [
+      "Listen for the slight swing in the hi-hat — it is subtle but defines the whole groove feel",
+      "Keep shoulders and wrists completely loose so the swing flows rather than being forced",
+      "Work on the kick gallop separately with a metronome before adding the swung hi-hat",
+      "Record yourself and compare to the track to gauge how much swing is correct"
+    ],
+    "seo": {
+      "title": "Brann Dailor Blood and Thunder Shuffle - Swung Quasi-Blast Tutorial | MetalForge",
+      "description": "Learn Brann Dailor's swung quasi-blast groove from Mastodon's Blood and Thunder. Shuffle feel, technique, and practice tips.",
+      "keywords": [
+        "brann dailor shuffle",
+        "blood and thunder drum shuffle",
+        "mastodon swung groove",
+        "quasi blast beat",
+        "brann dailor lick",
+        "mastodon leviathan drums"
+      ]
+    }
+  },
+  "brann-dailor-crack-the-skye-melodic-fill": {
+    "slug": "brann-dailor-crack-the-skye-melodic-fill",
+    "name": "Crack the Skye Melodic Fill",
+    "shortName": "Crack the Skye Fill",
+    "drummerId": 16,
+    "drummerName": "Brann Dailor",
+    "drummerSlug": "brann-dailor",
+    "band": "Mastodon",
+    "song": "Crack the Skye",
+    "album": "Crack the Skye (2009)",
+    "category": "signature-fill",
+    "style": "progressive-metal",
+    "difficulty": "advanced",
+    "difficultyRating": 4,
+    "bpm": 115,
+    "bpmDisplay": "~115 BPM",
+    "timeSignature": "shifting",
+    "description": "The title track of Mastodon's 2009 psychedelic prog opus Crack the Skye contains some of Brann Dailor's most melodically sophisticated fill work — a series of tom and cymbal phrases that operate across the song's shifting metric landscape with the fluency of a lead instrument. Unlike the relentless gallop of the Leviathan era, this fill section demonstrates Dailor's fully mature voice: patient, musical, and deeply attentive to the emotional arc of the song rather than its technical demands. The odd-time framework of the section means the fills cannot rely on predictable four-bar phrase structures; instead, Dailor must feel when each fill should begin and end based on the song's momentum and the riff's contour, which requires a level of musical intuition that goes beyond mere technique. The fills themselves are orchestrated across the kit in long, flowing phrases that treat the toms as melodic pitches — moving from high to low and back again in patterns that answer the guitar's harmonic shifts. This melodic thinking is Dailor's most distinctive contribution to metal drumming: the conviction that a fill should sing, not just fill space. The prog and psychedelic influences that Mastodon absorbed making Crack the Skye are fully audible here, with Dailor drawing on the rolling, hypnotic tom patterns of classic prog drummers while keeping the underlying pulse anchored by a steady foot on the hi-hat pedal. For drummers, this fill section is a masterclass in melodic orchestration over odd time — the ability to move fluently around the kit without losing the phrase's internal logic. Work on the fills in small looped sections, focusing on the melodic shape each phrase draws across the toms before worrying about speed or precision. Related licks: [Ghost of Karelia Prog Groove](/drummers/brann-dailor/licks/brann-dailor-ghost-of-karelia-groove) and [Hearts Alive Melodic Fills](/drummers/brann-dailor/licks/brann-dailor-hearts-alive-fills).",
+    "techniques": [
+      "fill-techniques",
+      "odd-time-signatures",
+      "groove-drumming"
+    ],
+    "techniqueDetails": [
+      "Learn the melodic shape of each fill phrase by singing it before playing it on the kit",
+      "Move across the toms as melodic pitches — high to low and back, answering the guitar harmony",
+      "Keep the hi-hat foot steady as the harmonic anchor while the hands roam melodically",
+      "Loop small sections individually at half tempo before connecting them in sequence",
+      "Prioritise the musical arc of the fill over technical precision — feel the phrase shape first"
+    ],
+    "tutorial": {
+      "youtubeId": null,
+      "startTime": 0,
+      "title": "Brann Dailor - Crack the Skye Melodic Fill",
+      "description": "Analysis of Brann Dailor's melodic fill work in the Crack the Skye title track"
+    },
+    "gearUsed": [
+      {
+        "name": "Tama Starclassic Kit",
+        "type": "drums",
+        "link": null
+      },
+      {
+        "name": "Meinl Cymbals",
+        "type": "cymbals",
+        "link": null
+      },
+      {
+        "name": "Tama Speed Cobra Pedals",
+        "type": "pedals",
+        "link": null
+      }
+    ],
+    "learningTips": [
+      "Sing the melodic contour of each fill phrase before attempting it on the kit",
+      "Map the shifting time signatures section by section before playing at tempo",
+      "Work on hi-hat foot independence so the hands can roam freely over a steady foot pulse",
+      "Listen to the full album repeatedly to internalise the psychedelic atmosphere and phrasing"
+    ],
+    "seo": {
+      "title": "Brann Dailor Crack the Skye Melodic Fill - Mastodon Drum Tutorial | MetalForge",
+      "description": "Learn Brann Dailor's prog melodic fill from Mastodon's Crack the Skye. Odd-time orchestration, tom melodies, and practice tips.",
+      "keywords": [
+        "brann dailor crack the skye",
+        "mastodon melodic drum fill",
+        "crack the skye drums",
+        "brann dailor progressive fill",
+        "mastodon odd time drums",
+        "prog metal drum fill"
+      ]
+    }
+  },
+  "brann-dailor-colony-of-birchmen-funky-groove": {
+    "slug": "brann-dailor-colony-of-birchmen-funky-groove",
+    "name": "Colony of Birchmen Funky Groove",
+    "shortName": "Colony of Birchmen",
+    "drummerId": 16,
+    "drummerName": "Brann Dailor",
+    "drummerSlug": "brann-dailor",
+    "band": "Mastodon",
+    "song": "Colony of Birchmen",
+    "album": "Blood Mountain (2006)",
+    "category": "main-groove",
+    "style": "progressive-metal",
+    "difficulty": "intermediate",
+    "difficultyRating": 3,
+    "bpm": 120,
+    "bpmDisplay": "~120 BPM",
+    "timeSignature": "4/4",
+    "description": "Colony of Birchmen from Mastodon's Blood Mountain (2006) reveals a side of Brann Dailor's playing that surprises listeners who know him primarily from the blast-and-fill vocabulary of Leviathan: a deeply funky pocket groove that owes as much to soul and R&B drumming as to metal. The track's main groove sits at a comfortable mid-tempo that lets Dailor breathe and place every note with intention, creating a feel that is tight, elastic, and full of the subtle ghost notes and hi-hat ornamentation that define classic funk drumming. Rather than filling every available sixteenth-note with something, he leans back into the pocket, letting the kick and snare interact with the riff in a call-and-response conversation that gives the song a swagger most metal drummers never attempt. The funk influence is most audible in Dailor's ghost-note work: soft, barely-audible snare taps that fill the space between the main beats and give the groove a rolling, continuous texture without adding weight or cluttering the riff. His hi-hat technique here is characteristically loose — slightly open strokes mixed with tight closed hits to create a nuanced rhythmic surface beneath the main pattern. Colony of Birchmen is one of the most important tracks for understanding how Dailor built his vocabulary: by drawing from sources far outside the metal genre and integrating those influences into a style that sounds completely organic in a heavy context. For drummers developing their own voices, this groove is an invitation to investigate funk drumming seriously — not as a genre exercise but as a way to develop the pocket, ghost-note sensitivity, and dynamic control that separates good groove drumming from great groove drumming. Start by learning the kick and snare pattern at tempo, then layer in the ghost notes before adding hi-hat nuances, listening carefully to how each addition contributes to the overall feel. Related licks: [Blood and Thunder Lead Groove](/drummers/brann-dailor/licks/brann-dailor-blood-and-thunder-groove) and [Blood and Thunder Shuffle](/drummers/brann-dailor/licks/brann-dailor-blood-and-thunder-shuffle).",
+    "techniques": [
+      "groove-drumming",
+      "ghost-notes",
+      "hi-hat-control"
+    ],
+    "techniqueDetails": [
+      "Lock in the kick and snare pattern first at ~120 BPM before adding any ornamentation",
+      "Add ghost notes on the snare between main hits — keep them barely audible to maintain pocket",
+      "Mix slightly open and closed hi-hat strokes to create rhythmic texture beneath the groove",
+      "Lean back into the beat rather than rushing — the funk pocket lives slightly behind the pulse",
+      "Let the kick and snare interact with the guitar riff in a call-and-response conversation"
+    ],
+    "tutorial": {
+      "youtubeId": null,
+      "startTime": 0,
+      "title": "Brann Dailor - Colony of Birchmen Groove",
+      "description": "Brann Dailor's funky pocket groove from Colony of Birchmen"
+    },
+    "gearUsed": [
+      {
+        "name": "Tama Starclassic Kit",
+        "type": "drums",
+        "link": null
+      },
+      {
+        "name": "Meinl Cymbals",
+        "type": "cymbals",
+        "link": null
+      },
+      {
+        "name": "Tama Speed Cobra Pedals",
+        "type": "pedals",
+        "link": null
+      }
+    ],
+    "learningTips": [
+      "Study funk drumming — James Brown recordings and Clyde Stubblefield — to understand ghost-note pocket",
+      "Practice ghost notes in isolation: aim for notes that are felt more than heard",
+      "Work on hi-hat nuance with open and closed strokes to build the textured hi-hat surface",
+      "Record yourself and listen back — the groove should feel relaxed and elastic, not stiff"
+    ],
+    "seo": {
+      "title": "Brann Dailor Colony of Birchmen Funky Groove - Mastodon Drum Tutorial | MetalForge",
+      "description": "Learn Brann Dailor's funk-influenced groove from Mastodon's Colony of Birchmen. Ghost notes, pocket playing, and practice tips.",
+      "keywords": [
+        "brann dailor funky groove",
+        "colony of birchmen drums",
+        "mastodon blood mountain",
+        "brann dailor ghost notes",
+        "funk metal drumming",
+        "mastodon groove drumming"
+      ]
+    }
   }
 };
 

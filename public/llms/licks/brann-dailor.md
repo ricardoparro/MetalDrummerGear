@@ -1,6 +1,6 @@
 # Brann Dailor — Signature Drum Licks & Patterns
 
-**Band:** Mastodon | **Genre:** Progressive / Sludge Metal | **Lick Count:** 3
+**Band:** Mastodon | **Genre:** Progressive / Sludge Metal | **Lick Count:** 6
 
 ---
 
@@ -79,6 +79,77 @@ Brann Dailor is one of Progressive / Sludge Metal's most influential drummers, b
 
 ## Teaching Points
 
+## Blood and Thunder Swung Quasi-Blast
+
+**Song:** Blood and Thunder | **Album:** Leviathan (2004) | **BPM:** ~168 BPM | **Technique:** signature pattern | **Difficulty:** advanced
+
+Within Blood and Thunder's runtime, Brann Dailor deploys a swung quasi-blast groove that is fundamentally different from the melodic lead-groove approach he takes elsewhere in the song. Dailor swings the hi-hat and ride in a way that gives the beat an almost shuffle character even at 168 BPM, creating a groove that sits somewhere between a traditional thrash beat and a full blast. The swing comes from a slight lean on the upbeat strokes — giving the groove a muscular, lurching quality that makes the riff feel heavier than a straight pattern at the same tempo. Mastering this distinction is one of the deeper lessons in metal drumming: groove is as much about where you place each note within the beat as about the pattern itself.
+
+### How to Play
+
+- Loosen the wrists to let the swing emerge naturally rather than imposing it mechanically
+- Practice the hi-hat pattern alone at half tempo to feel the slight subdivision lean
+- Drive the kick in a near-continuous gallop underneath the swung hi-hat pattern
+- Land the snare on beats 2 and 4 with authority to anchor the groove against the swing
+- Gradually increase tempo from 84 BPM to 168 BPM while preserving the swung feel
+
+### Key Elements
+
+- Listen for the slight swing in the hi-hat — it is subtle but defines the whole groove feel
+- Keep shoulders and wrists completely loose so the swing flows rather than being forced
+- Work on the kick gallop separately with a metronome before adding the swung hi-hat
+- Record yourself and compare to the track to gauge how much swing is correct
+
+**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Linear Drumming](https://metalforge.io/technique/linear-drumming), [Stamina](https://metalforge.io/technique/stamina)
+
+## Crack the Skye Melodic Fill
+
+**Song:** Crack the Skye | **Album:** Crack the Skye (2009) | **BPM:** ~115 BPM | **Technique:** signature fill | **Difficulty:** advanced
+
+The title track of Mastodon's 2009 psychedelic prog opus contains some of Brann Dailor's most melodically sophisticated fill work — tom and cymbal phrases that operate across the song's shifting metric landscape with the fluency of a lead instrument. Unlike the relentless gallop of the Leviathan era, this fill section demonstrates Dailor's fully mature voice: patient, musical, and deeply attentive to the emotional arc of the song. The fills are orchestrated across the kit in long, flowing phrases that treat the toms as melodic pitches — moving from high to low and back in patterns that answer the guitar's harmonic shifts. This melodic thinking is Dailor's most distinctive contribution to metal drumming: the conviction that a fill should sing, not just fill space.
+
+### How to Play
+
+- Learn the melodic shape of each fill phrase by singing it before playing it on the kit
+- Move across the toms as melodic pitches — high to low and back, answering the guitar harmony
+- Keep the hi-hat foot steady as the harmonic anchor while the hands roam melodically
+- Loop small sections individually at half tempo before connecting them in sequence
+- Prioritise the musical arc of the fill over technical precision — feel the phrase shape first
+
+### Key Elements
+
+- Sing the melodic contour of each fill phrase before attempting it on the kit
+- Map the shifting time signatures section by section before playing at tempo
+- Work on hi-hat foot independence so the hands can roam freely over a steady foot pulse
+- Listen to the full album repeatedly to internalise the psychedelic atmosphere and phrasing
+
+**Core Techniques:** [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+
+## Colony of Birchmen Funky Groove
+
+**Song:** Colony of Birchmen | **Album:** Blood Mountain (2006) | **BPM:** ~120 BPM | **Technique:** main groove | **Difficulty:** intermediate
+
+Colony of Birchmen reveals a side of Brann Dailor's playing that surprises listeners who know him primarily from the blast-and-fill vocabulary of Leviathan: a deeply funky pocket groove that owes as much to soul and R&B drumming as to metal. The track's main groove lets Dailor breathe and place every note with intention, creating a feel that is tight, elastic, and full of the subtle ghost notes and hi-hat ornamentation that define classic funk drumming. Rather than filling every available sixteenth-note, he leans back into the pocket, letting the kick and snare interact with the riff in a call-and-response conversation that gives the song a swagger most metal drummers never attempt. This groove is an invitation to investigate funk drumming seriously — as a way to develop the pocket, ghost-note sensitivity, and dynamic control that separates good groove drumming from great.
+
+### How to Play
+
+- Lock in the kick and snare pattern first at ~120 BPM before adding any ornamentation
+- Add ghost notes on the snare between main hits — keep them barely audible to maintain pocket
+- Mix slightly open and closed hi-hat strokes to create rhythmic texture beneath the groove
+- Lean back into the beat rather than rushing — the funk pocket lives slightly behind the pulse
+- Let the kick and snare interact with the guitar riff in a call-and-response conversation
+
+### Key Elements
+
+- Study funk drumming — James Brown recordings and Clyde Stubblefield — to understand ghost-note pocket
+- Practice ghost notes in isolation: aim for notes that are felt more than heard
+- Work on hi-hat nuance with open and closed strokes to build the textured hi-hat surface
+- Record yourself and listen back — the groove should feel relaxed and elastic, not stiff
+
+**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Ghost Notes](https://metalforge.io/technique/ghost-notes), [Hi Hat Control](https://metalforge.io/technique/hi-hat-control)
+
+## Teaching Points
+
 Brann Dailor's style is defined by precision, timing, and genre-defining grooves. Key practice principles across all their licks: Practise the verse fills slowly so each single stroke is even before adding speed; Keep your shoulders and wrists loose — this part is a three-minute endurance test; Lock the kick to a metronome first, then layer the ornamentation on top. Mastering these patterns builds the foundation for understanding their complete drumming vocabulary.
 
 ## More Resources
@@ -90,4 +161,4 @@ Brann Dailor's style is defined by precision, timing, and genre-defining grooves
 
 ---
 
-*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*

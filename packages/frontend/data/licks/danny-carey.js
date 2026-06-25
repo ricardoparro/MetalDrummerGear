@@ -218,6 +218,222 @@ export const licks = {
         "polyrhythm drumming"
       ]
     }
+  },
+  "danny-carey-schism-odd-meter-groove": {
+    "slug": "danny-carey-schism-odd-meter-groove",
+    "name": "Schism Odd Meter Groove",
+    "shortName": "Schism Odd Groove",
+    "drummerId": 14,
+    "drummerName": "Danny Carey",
+    "drummerSlug": "danny-carey",
+    "band": "Tool",
+    "song": "Schism",
+    "album": "Lateralus (2001)",
+    "category": "main-groove",
+    "style": "progressive-metal",
+    "difficulty": "expert",
+    "difficultyRating": 5,
+    "bpm": 134,
+    "bpmDisplay": "134 BPM",
+    "timeSignature": "5/4 + 4/4 alternating",
+    "description": "The main body groove of Tool's Schism is one of the most searched drum patterns in progressive metal, and for good reason — it captures the essence of Danny Carey's approach to odd time in a concentrated, teachable form. While the intro pattern uses alternating 5/8 and 7/8 groupings, the central groove of the song settles into a 5/4 plus 4/4 alternating cycle that locks with Justin Chancellor's famous bass riff in a way that feels hypnotic rather than academic. The 5/4 bar sets up a slight off-balance expectation, and the return to 4/4 resolves it — then the cycle repeats, creating a perpetual tension-and-release that gives Schism its hypnotic, slightly anxious character. Carey plays the groove with the same authority as a straight backbeat, riding the ride cymbal with steady quarter notes while the snare and kick define the phrase boundaries within each time signature. Ghost notes on the snare fill the space between the primary hits, adding a conversational layer that keeps the groove from feeling mechanical. The key pedagogical insight here is that Carey does not slow down or hesitate at the bar line where the time signature changes — he commits to each grouping fully, so the listener follows naturally rather than being jarred by the switch. This is the fundamental skill that studying Schism builds: metric confidence across multiple time signatures without losing groove or feel. Drummers approaching this groove should start by internalising the 5/4 bar alone at slow tempo, then add the 4/4 return, counting the combined nine-beat phrase before attempting to place the snare and kick precisely. Played correctly, the groove sounds effortless — a sophisticated pattern worn so lightly that most casual listeners simply feel the unusual pull without being able to name its source. Related licks: [Schism Intro Pattern](/drummers/danny-carey/licks/danny-carey-schism-intro) and [Forty Six & 2 Steady Groove](/drummers/danny-carey/licks/danny-carey-forty-six-and-2-steady-groove).",
+    "techniques": [
+      "odd-time-signatures",
+      "polyrhythms",
+      "groove-drumming"
+    ],
+    "techniqueDetails": [
+      "Internalise the 5/4 bar alone at slow tempo before adding the 4/4 return",
+      "Count the combined nine-beat phrase (5+4) until it becomes a body memory",
+      "Ride steady quarter notes throughout to maintain a continuous pulse reference",
+      "Add ghost notes on the snare between primary hits for a conversational feel",
+      "Commit fully to each time grouping without hesitating at the bar line transitions"
+    ],
+    "tutorial": {
+      "youtubeId": null,
+      "startTime": 0,
+      "title": "Danny Carey - Schism Main Groove Breakdown",
+      "description": "Breakdown of Danny Carey's 5/4 + 4/4 alternating groove from Schism"
+    },
+    "gearUsed": [
+      {
+        "name": "Sonor Designer Series Kit",
+        "type": "drums",
+        "link": null
+      },
+      {
+        "name": "Paiste Signature Ride Cymbal",
+        "type": "cymbals",
+        "link": null
+      },
+      {
+        "name": "DW 9000 Bass Drum Pedals",
+        "type": "pedals",
+        "link": null
+      }
+    ],
+    "learningTips": [
+      "Start by clapping the 5+4 = nine-beat phrase repeatedly until it feels natural",
+      "Practice with the bassline recording — Chancellor's riff locks to the groove perfectly",
+      "Slow to 60 BPM and count aloud before gradually building to 134 BPM",
+      "Treat the combined nine-beat cycle as one phrase, not two separate time signatures"
+    ],
+    "seo": {
+      "title": "Danny Carey Schism Odd Meter Groove - 5/4 + 4/4 Tutorial | MetalForge",
+      "description": "Learn Danny Carey's 5/4 + 4/4 alternating groove from Tool's Schism. Odd-time breakdown, ghost notes, gear, and practice tips.",
+      "keywords": [
+        "danny carey schism groove",
+        "schism 5/4 4/4 drums",
+        "tool odd time drumming",
+        "danny carey lateralus",
+        "odd meter groove tutorial",
+        "schism drum pattern"
+      ]
+    }
+  },
+  "danny-carey-lateralus-polyrhythm": {
+    "slug": "danny-carey-lateralus-polyrhythm",
+    "name": "Lateralus Fibonacci Polyrhythm",
+    "shortName": "Lateralus Polyrhythm",
+    "drummerId": 14,
+    "drummerName": "Danny Carey",
+    "drummerSlug": "danny-carey",
+    "band": "Tool",
+    "song": "Lateralus",
+    "album": "Lateralus (2001)",
+    "category": "signature-pattern",
+    "style": "progressive-metal",
+    "difficulty": "expert",
+    "difficultyRating": 5,
+    "bpm": 99,
+    "bpmDisplay": "~99 BPM",
+    "timeSignature": "9/8 — 8/8 — 7/8 Fibonacci cycle",
+    "description": "Lateralus represents the pinnacle of Tool's compositional ambition and Danny Carey's most celebrated polyrhythmic achievement. The drum part in the verse section is built around a Fibonacci-based phrase structure where groupings of nine, eight, and seven eighth notes cycle through each verse, reflecting the mathematical sequence (1-1-2-3-5-8-13) embedded in the song's lyrical syllable count. This means the groove never repeats at a predictable interval from the listener's perspective — it shifts and breathes through different metric resolutions before finally settling into a wider common pulse. Carey navigates this sequence by treating each grouping as a complete unit with its own feel rather than constantly recounting the metric structure, which is why his playing sounds organic and inevitable rather than mathematically calculated. The ride cymbal provides a continuous thread through the changing groupings, acting as a steady eighth-note reference while the bass drum and snare redefine where the downbeat feels within each phrase. This creates the signature floating, disorienting quality that makes Lateralus feel simultaneously unstable and deeply groovy. The interplay between the 9/8, 8/8, and 7/8 cycles means the kick pattern lands at different points relative to the bar each time, building a polyrhythmic tension that finally releases when all the cycles align. For drummers, this is the most demanding odd-time study in the Tool catalogue — it requires both intellectual understanding of the Fibonacci structure and the physical ability to feel and maintain each grouping at tempo without reverting to a simpler common pulse. Begin by counting and clapping each grouping separately (9, then 8, then 7) before ever attempting to play along with the recording. Build each section at 50% tempo until the transitions between groupings feel natural, and only then bring the tempo up incrementally toward the recording speed. Related licks: [Pneuma Main Groove](/drummers/danny-carey/licks/danny-carey-pneuma-groove) and [Schism Odd Meter Groove](/drummers/danny-carey/licks/danny-carey-schism-odd-meter-groove).",
+    "techniques": [
+      "odd-time-signatures",
+      "polyrhythms",
+      "groove-drumming"
+    ],
+    "techniqueDetails": [
+      "Clap each Fibonacci grouping (9, then 8, then 7) separately until each feels natural",
+      "Use the ride cymbal as a continuous eighth-note thread through all metric changes",
+      "Treat each grouping as a complete unit with its own downbeat rather than a modified 4/4",
+      "Practice the 9-8-7 cycle at 50% tempo before increasing toward recording speed",
+      "Let the bass drum placement shift naturally as the groupings change — do not force a fixed kick pattern"
+    ],
+    "tutorial": {
+      "youtubeId": null,
+      "startTime": 0,
+      "title": "Danny Carey - Lateralus Fibonacci Polyrhythm Breakdown",
+      "description": "Analysis of the 9-8-7 Fibonacci grouping structure in Lateralus"
+    },
+    "gearUsed": [
+      {
+        "name": "Sonor Designer Series Kit",
+        "type": "drums",
+        "link": null
+      },
+      {
+        "name": "Paiste Signature Cymbals",
+        "type": "cymbals",
+        "link": null
+      },
+      {
+        "name": "DW 9000 Bass Drum Pedals",
+        "type": "pedals",
+        "link": null
+      }
+    ],
+    "learningTips": [
+      "Study the Fibonacci sequence (1-1-2-3-5-8-13) to understand the musical structure",
+      "Clap and count the full 9-8-7 cycle repeatedly away from the kit first",
+      "Start at 50 BPM with just hi-hat, then add snare, then kick over several practice sessions",
+      "Record yourself and compare to the track — trust your ears over your count"
+    ],
+    "seo": {
+      "title": "Danny Carey Lateralus Fibonacci Polyrhythm - Tool Drum Tutorial | MetalForge",
+      "description": "Learn Danny Carey's 9-8-7 Fibonacci polyrhythm from Tool's Lateralus. Odd-time breakdown, math-rock drum concept, and practice tips.",
+      "keywords": [
+        "danny carey lateralus",
+        "lateralus polyrhythm drums",
+        "fibonacci drumming tool",
+        "9 8 7 time signature",
+        "tool math rock drums",
+        "lateralus drum pattern"
+      ]
+    }
+  },
+  "danny-carey-forty-six-and-2-steady-groove": {
+    "slug": "danny-carey-forty-six-and-2-steady-groove",
+    "name": "Forty Six & 2 Steady Groove",
+    "shortName": "46 & 2 Groove",
+    "drummerId": 14,
+    "drummerName": "Danny Carey",
+    "drummerSlug": "danny-carey",
+    "band": "Tool",
+    "song": "Forty Six & 2",
+    "album": "Ænima (1996)",
+    "category": "main-groove",
+    "style": "progressive-metal",
+    "difficulty": "advanced",
+    "difficultyRating": 4,
+    "bpm": 110,
+    "bpmDisplay": "~110 BPM",
+    "timeSignature": "13/8 modular",
+    "description": "While Forty Six & 2's drum solo outro is the moment that attracts most attention in drum circles, it is the song's main verse groove that best illustrates Danny Carey's gift for making genuinely unusual time feel completely natural. The central groove operates on a 13-beat modular cycle — a pattern that never quite resolves where a listener expecting 4/4 or even 6/8 would predict, yet flows with such authority and steadiness that the odd measure feels like the most inevitable thing in the world. Carey constructs the groove around a steady ride pattern that emphasises the pulse of each 13-beat phrase, with the snare and kick defining specific landing points within the cycle that create a feeling of groove and forward motion rather than metric confusion. The bass drum in particular is carefully placed to anchor the groove at key points in the phrase, giving the pattern a physical drive that works even for listeners who cannot count the underlying structure. This is the lesson that makes studying this groove so valuable for developing players: metre does not have to be audible to be effective. Carey's commitment to the groove's internal logic — its own sense of downbeat and pulse — is what makes it feel compelling rather than academic. The 13-beat cycle means the pattern shifts gradually relative to any external pulse grid, creating a slowly evolving, modular feel before it finally resolves to a common phrase ending. Drumming students should approach this by first clapping the full 13-beat phrase repeatedly until it becomes a body memory rather than an intellectual count, then slowly adding hi-hat before bringing in snare, and finally the kick. The goal is to feel the phrase as one complete unit — thirteen beats that breathe together — so the groove drives hard precisely because it refuses to compromise its unusual pulse for the comfort of common time. Related licks: [Forty Six & 2 Outro Solo](/drummers/danny-carey/licks/danny-carey-forty-six-and-2-outro) and [Schism Odd Meter Groove](/drummers/danny-carey/licks/danny-carey-schism-odd-meter-groove).",
+    "techniques": [
+      "odd-time-signatures",
+      "groove-drumming",
+      "polyrhythms"
+    ],
+    "techniqueDetails": [
+      "Clap the 13-beat phrase repeatedly until it becomes body memory rather than an intellectual count",
+      "Add hi-hat first, then snare, then kick — building the groove one limb at a time",
+      "Anchor the ride pattern to the phrase's own internal downbeat, not an external 4/4 reference",
+      "Place the kick at the same structural points within each 13-beat cycle for consistency",
+      "Feel the complete 13-beat unit as one phrase — let it breathe rather than subdivide it mentally"
+    ],
+    "tutorial": {
+      "youtubeId": null,
+      "startTime": 0,
+      "title": "Danny Carey - Forty Six & 2 Main Groove",
+      "description": "Breakdown of the 13/8 modular groove that drives Forty Six & 2"
+    },
+    "gearUsed": [
+      {
+        "name": "Sonor SQ2 Drum Kit",
+        "type": "drums",
+        "link": null
+      },
+      {
+        "name": "Paiste Signature Cymbals",
+        "type": "cymbals",
+        "link": null
+      },
+      {
+        "name": "DW 9000 Bass Drum Pedals",
+        "type": "pedals",
+        "link": null
+      }
+    ],
+    "learningTips": [
+      "Clap the 13-beat phrase with a metronome set to dotted-eighth pulses to feel the grouping",
+      "Practice at 80 BPM, adding one limb per session until all four are locked in",
+      "Record yourself to verify the kick lands at the same point each 13-beat cycle",
+      "Trust the groove's internal logic — stop thinking in 4/4 entirely while playing it"
+    ],
+    "seo": {
+      "title": "Danny Carey Forty Six & 2 Steady Groove - 13/8 Drum Tutorial | MetalForge",
+      "description": "Learn Danny Carey's 13/8 modular verse groove from Tool's Forty Six & 2. Odd-time breakdown, gear, and practice tips.",
+      "keywords": [
+        "danny carey forty six and 2",
+        "tool 46 and 2 drums",
+        "13/8 drum groove",
+        "tool drum pattern",
+        "odd time groove tutorial",
+        "aenima drums"
+      ]
+    }
   }
 };
 

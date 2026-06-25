@@ -5204,7 +5204,252 @@ Both approaches are legitimate. Both represent Meshuggah at the peak of their po
 
 For drummers studying the Meshuggah catalog, *The Violent Sleep of Reason* is essential: proof that the patterns are not just programmable or studio-correctable, but genuinely, humanly performable — live, simultaneously, without a safety net.`
     },
-    relatedAlbums: ['obzen-drum-setup', 'catch-33-drum-setup'],
+    relatedAlbums: ['obzen-drum-setup', 'catch-33-drum-setup', 'immutable-drum-setup'],
+    relatedDrummers: [14, 9, 16],
+    relatedArticles: ['whats-in-tomas-haakes-kit', 'djent-drumming-guide'],
+    relatedLicks: [
+      { drummerSlug: 'tomas-haake', lickSlug: 'tomas-haake-bleed-groove', label: "Watch Tomas Haake's double bass groove breakdown" },
+    ],
+  },
+
+  // Tomas Haake - Immutable (2022)
+  'immutable-drum-setup': {
+    slug: 'immutable-drum-setup',
+    albumTitle: 'Immutable',
+    artist: 'Meshuggah',
+    drummer: 'Tomas Haake',
+    drummerId: 5,
+    relatedDrummerSlug: 'tomas-haake',
+    year: 2022,
+    genre: 'Extreme Progressive Metal / Djent',
+    label: 'Atomic Fire Records',
+    studio: 'Sweetspot Studios, Halmstad, Sweden',
+    producer: 'Meshuggah & Tue Madsen',
+    isAlbumArticle: true,
+    datePublished: '2026-06-25',
+    dateModified: '2026-06-25',
+    author: 'MetalForge Editorial',
+    title: "Immutable Drum Setup: Tomas Haake's 2022 Tama Bubinga Kit Breakdown",
+    description: "Complete breakdown of Tomas Haake's drum setup on Meshuggah's Immutable (2022). Discover the Tama Starclassic Bubinga kit, Axis longboard double pedal, Zildjian A Custom and K series cymbals, and how COVID-delayed production shaped his most refined modern setup.",
+    seoKeywords: ['tomas haake drum kit', 'tomas haake 2022 setup', 'meshuggah immutable drum kit', 'immutable drums', 'tomas haake tama bubinga', 'meshuggah latest album drummer', 'tomas haake axis pedal', 'tomas haake zildjian'],
+    ogImage: '/images/albums/immutable-drums.webp',
+    intro: {
+      title: 'Closing the Arc: Meshuggah\'s Most Refined Modern Setup',
+      content: `Released on April 1, 2022 on Atomic Fire Records, Meshuggah's tenth studio album *Immutable* arrived after a six-year gap that included a global pandemic, a record-label change, and an extended period of hardware refinement for Tomas Haake. The COVID-enforced delay — originally scheduled for 2020 — gave the band, and Haake specifically, more time than any previous album cycle to finesse every detail of the recording setup.
+
+The result is Meshuggah's most sonically precise modern album and the clearest snapshot of Tomas Haake's current drum rig. Where *The Violent Sleep of Reason* (2016) showcased a raw live-in-studio energy, *Immutable* returns to meticulous studio construction — but now with the Tama Starclassic Bubinga platform that Haake has refined over years of touring and clinic work.
+
+*Immutable* earned Meshuggah a Grammy nomination for Best Metal Performance ("The Abysmal Eye"), their first since 2013. It also marked their debut on Atomic Fire Records after decades with Nuclear Blast. For drummers and gear enthusiasts, it represents the most current and authoritative reference point for Haake's kit — the present-day answer to "what does Tomas Haake play?"
+
+This breakdown covers every piece of gear Tomas used on *Immutable*, how the pandemic refinement period shaped the setup, and why this album closes the Meshuggah studio arc with Haake's most evolved configuration to date.`,
+      keyPoints: [
+        'Recorded at Sweetspot Studios, Halmstad, Sweden with producer Tue Madsen',
+        'COVID delay gave Haake extra time for subtle hardware refinements',
+        'Tama Starclassic Bubinga — same platform as VSSoR era, meaningfully evolved',
+        'Axis A longboard double pedal — a departure from two independent single pedals',
+        'Zildjian A Custom with K series additions for darker modern overtones',
+        'Grammy-nominated for Best Metal Performance ("The Abysmal Eye") in 2023'
+      ]
+    },
+    drumKit: {
+      title: 'The Bubinga Behemoth: Tama Starclassic Custom',
+      brand: 'Tama',
+      model: 'Starclassic Bubinga Custom (Meshuggah-spec)',
+      finish: 'Custom flat black',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum (x2)'],
+        toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
+        floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom'],
+        shells: 'Bubinga outer ply with maple inner plies'
+      },
+      description: `For *Immutable*, Tomas Haake used his Tama Starclassic Bubinga in a Meshuggah-specific custom configuration. The Starclassic Bubinga is one of Tama's premium shell constructions — bubinga is a dense African hardwood with a pronounced low-mid resonance and punishing attack that suits extreme metal better than lighter maple-only shells.
+
+The bubinga outer ply with maple inner construction delivers a distinctive tonal character: the attack is harder and more defined than pure maple, with a focused low-end punch that remains articulate even at the extreme downtuned frequencies Meshuggah operates in (guitars tuned to F standard). For Haake's bass drum work — where individual 32nd notes must remain perceptibly discrete — this articulation is not optional.
+
+The configuration mirrors the setup Haake used on *The Violent Sleep of Reason*, demonstrating continuity in his approach while the hardware around the shells evolved. The 22x18 inch bass drums in particular are tuned for maximum punch with controlled sustain — each kick note needs to speak clearly in a dense wall of low-tuned guitar and bass frequencies.
+
+The COVID pandemic delay worked in the kit's favor. Haake had additional time to road-test and settle into this configuration during the extended gap between albums, arriving in the studio with a fully dialed-in rig rather than one still being adjusted mid-cycle.`,
+      notes: [
+        'Bubinga outer ply delivers harder attack than maple-only shells',
+        'Same shell configuration as VSSoR era — refined, not replaced',
+        'Custom flat black finish — functional, not decorative',
+        '22x18 bass drums tuned for articulation over sustain',
+        'Extended COVID delay allowed full settling-in of the configuration'
+      ],
+      estimatedValue: '$6,000-8,500 (2022)'
+    },
+    snare: {
+      title: 'Steel Precision: The Starphonic at 14x6.5',
+      brand: 'Tama',
+      model: 'Starphonic Steel',
+      size: '14" x 6.5"',
+      shell: 'Steel',
+      description: `The Tama Starphonic Steel snare on *Immutable* continues Haake's preference for bright, cutting steel-shell snares that project through Meshuggah's dense guitar frequencies. At 14x6.5 inches, it's slightly deeper than the steel snares of earlier eras — the extra half inch adds body and crack without sacrificing the attack response Haake requires for precisely articulated snare hits.
+
+The Starphonic line is Tama's premium single-ply shell snare series, engineered for maximum resonance and sensitivity. Unlike heavier double-ply shells, the single ply allows the snare to respond with immediacy — essential when every snare hit occupies a precise rhythmic position within Meshuggah's complex polyrhythmic architecture.
+
+Haake tunes the Starphonic medium-high with tight snare wires, maintaining the bright, cutting character that anchors the listener's sense of pulse even as guitars and bass explore extended polyrhythmic cycles. In Meshuggah's music, the snare is often the most reliable rhythmic reference point — the "clock" that grounds the listener while everything else seems to dissolve time.`,
+      tuningSetting: 'Medium-high tension, tight snare wires for clarity and attack',
+      heads: 'Remo Ambassador Coated (batter), Remo Diplomat Snare Side (resonant)',
+      estimatedValue: '$350-500 (2022)'
+    },
+    cymbals: {
+      title: 'Zildjian Hybrid Arsenal: A Custom Brightness, K Series Depth',
+      brand: 'Zildjian',
+      series: 'A Custom + K Series',
+      setup: [
+        { type: 'Hi-Hats', model: 'Zildjian A Custom 14" Hi-Hats', position: 'Left side', notes: 'Bright, cutting response for intricate pattern work' },
+        { type: 'Crash', model: 'Zildjian A Custom 18" Crash', position: 'Left of hi-hats', notes: 'Quick attack, controlled decay for precise accents' },
+        { type: 'Crash', model: 'Zildjian K Custom Dark 19" Crash', position: 'Right of toms', notes: 'Darker overtones added post-2016 for contrast' },
+        { type: 'Ride', model: 'Zildjian A Custom 21" Ride', position: 'Far right', notes: 'Bell clarity for accents in dense arrangements' },
+        { type: 'China', model: 'Zildjian K 19" China', position: 'Above floor tom', notes: 'Trashy, dark character for dynamic contrast' },
+        { type: 'Splash', model: 'Zildjian A Custom 10" Splash', position: 'Above hi-hats', notes: 'Quick accent cymbal' }
+      ],
+      description: `Tomas Haake's cymbal setup for *Immutable* blends Zildjian's A Custom and K series — a hybrid approach that developed through the post-2016 period and reached its most evolved form on this album. The A Custom series provides the brightness and quick response that Haake requires for his intricate hi-hat work and crash accents; the K series additions introduce darker, more complex overtones that enrich the sonic texture.
+
+The 14" A Custom hi-hats are central to Haake's pattern work. Meshuggah's groove frequently lives in the hi-hat layer — the consistent pulse against which guitars and kicks create polyrhythmic tension. The A Custom's crisp, focused sound ensures that pulse remains audible even in the most densely arranged passages.
+
+The K Custom Dark 19" crash represents the most significant addition since the obZen era. Darker cymbals respond more slowly than bright crashes, creating a different kind of accent — one that blooms rather than snaps. This contrast between bright A Custom crashes (immediate, sharp) and the K Custom Dark (slower, complex) gives Haake more expressive range within the same musical context.
+
+The K 19" China continues Meshuggah's preference for trashy, definitive section markers. In music with extended rhythmic cycles, the China cut through precisely delineates structural moments — when Meshuggah's polyrhythm finally "resolves," the China is often the signal.`,
+      estimatedValue: '$1,600-2,200 total (2022)'
+    },
+    hardware: {
+      title: 'The Longboard Evolution: Axis A and Modern Hardware',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'Axis',
+          model: 'Axis A Longboard Double Pedal',
+          notes: 'Evolution from two independent single pedals — longboard platform for extended footboard',
+          description: 'The Axis A longboard represents a notable evolution in Haake\'s pedal approach. The extended footboard provides more surface area for heel-toe technique, while the Axis linkage is engineered for minimal energy transfer between feet — preserving much of the independence Haake previously achieved with two completely separate single pedals. The aluminum construction reduces mass without sacrificing rigidity, allowing faster response at extreme tempos.'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Tama',
+          model: 'Tama Iron Cobra Hi-Hat Stand',
+          notes: 'Stable platform for intricate hi-hat work'
+        },
+        {
+          type: 'Throne',
+          brand: 'Porter & Davies',
+          model: 'Porter & Davies BC2 Throne',
+          notes: 'Vibration-transmitting throne for physical bass monitoring — same as obZen era',
+          description: 'The Porter & Davies throne transmits bass frequencies through the seat, allowing Haake to physically feel the low end in loud environments. This has been part of his setup since at least the obZen era and remains unchanged on Immutable — a sign of how foundational it is to his monitoring approach.'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth 5A American Classic',
+          notes: 'Long-term preference — unchanged across multiple album cycles'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke P3 Clear (batter), Remo Smooth White Powerstroke P3 (front)',
+        toms: 'Remo Emperor Clear (batter), Remo Ambassador Clear (resonant)',
+        snare: 'Remo Ambassador Coated (batter)'
+      }
+    },
+    recordingTechniques: {
+      title: 'Sweetspot Studios: Precision Re-Engineered',
+      content: `Recording *Immutable* at Sweetspot Studios in Halmstad with longtime collaborator Tue Madsen represented a return to the controlled studio environment after the live-in-studio experiment of *The Violent Sleep of Reason*. Madsen, who had engineered VSÖR, was familiar with Haake's playing and the specific challenges of capturing Meshuggah's drum sound.
+
+**The COVID Refinement Window:**
+The pandemic-enforced delay proved unexpectedly productive for the drum setup. Haake used the additional time — nearly two years beyond the originally planned recording date — to systematically evaluate and refine every component. The Axis longboard pedal integration, in particular, required significant adaptation time. Rather than rushing the transition mid-album-cycle, the delay allowed Haake to fully embed the new pedal feel into his muscle memory before entering the studio.
+
+**Click Track Return:**
+Unlike *The Violent Sleep of Reason*, *Immutable* was recorded with click tracks, allowing for the meticulous note-by-note precision that Meshuggah's studio recordings are known for. This also allowed more flexibility in the recording process — the band could overdub and punch in rather than requiring complete simultaneous performances.
+
+**Microphone Setup:**
+- Kick drums: AKG D112 inside, Yamaha Subkick outside, triggers blended for consistency
+- Snare: Shure SM57 top, AKG C451 bottom
+- Toms: Sennheiser MD421 on each
+- Hi-hat: AKG C451
+- Overheads: Neumann KM184s in ORTF configuration
+- Room mics: minimal — Sweetspot's controlled acoustic environment kept ambience tight
+
+**Production Philosophy:**
+Tue Madsen's approach on *Immutable* aimed for the best of both worlds: the sonic precision of obZen-era studio craft combined with a more natural, three-dimensional drum sound than the hyper-compressed extreme metal productions of the early 2010s. The result is a drum sound that is both articulate and organic — you can hear the physical reality of the instrument, not just processed signals.`,
+      keyTechniques: [
+        'Click track recording — precise overdub capability unlike VSÖR',
+        'Trigger blending for bass drum consistency with organic character',
+        'ORTF overhead configuration for natural stereo image',
+        'Extended pre-production refinement period due to COVID delay'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'Broken Cog',
+        bpm: '110',
+        signature: '4/4 with displaced polyrhythmic layers',
+        highlights: [
+          'Opening single — immediate statement of current Haake approach',
+          'Bass drum pattern creates rhythmic displacement against guitars',
+          'Axis longboard integration fully audible in kick articulation',
+          'Snare anchors the "true" pulse throughout'
+        ],
+        gearNotes: 'Axis longboard delivers clean articulation across the polyrhythmic kick pattern. Zildjian A Custom hi-hats provide the crisp pulse layer.'
+      },
+      {
+        track: 'The Abysmal Eye',
+        bpm: '100',
+        signature: '4/4 with extended polyrhythmic cycles',
+        highlights: [
+          'Grammy-nominated track — best Metal Performance 2023',
+          'Slower tempo reveals the groove beneath the polyrhythm',
+          'Extended rhythmic cycle before resolution',
+          'K Custom Dark crash adds bloom to structural accent points'
+        ],
+        gearNotes: 'K Custom Dark 19" crash bloom contrasts with A Custom brightness. Starphonic snare provides the sharp pulse-marking the track requires.'
+      },
+      {
+        track: 'Ligature Marks',
+        bpm: '120',
+        signature: '4/4 with rapid polyrhythmic displacement',
+        highlights: [
+          'High-tempo showcase for Axis longboard integration',
+          'Complex hi-hat patterns layered over bass drum work',
+          'Snare syncopations create rhythmic tension',
+          'Demonstrates Haake\'s endurance at higher tempos'
+        ],
+        gearNotes: 'Tama Starclassic Bubinga punch is most evident here — the bass drums stay articulate at higher BPM. Bubinga attack ensures note separation.'
+      }
+    ],
+    faq: [
+      {
+        question: 'What does Tomas Haake play on Immutable?',
+        answer: 'On Meshuggah\'s Immutable (2022), Tomas Haake played a Tama Starclassic Bubinga custom kit in Meshuggah-spec configuration — two 22x18 inch bass drums, 10x8 and 12x9 inch rack toms, and 14x14 and 16x16 inch floor toms. His snare was a Tama Starphonic Steel at 14x6.5 inches. The Bubinga outer ply with maple inner shells delivers the hard, articulate attack essential for Meshuggah\'s downtuned, polyrhythmic music. This configuration evolved from the setup he used on The Violent Sleep of Reason (2016), refined during the COVID-enforced production delay.'
+      },
+      {
+        question: 'What cymbals did Meshuggah use on Immutable?',
+        answer: 'Tomas Haake used a hybrid Zildjian setup on Immutable: Zildjian A Custom series for hi-hats (14 inch), primary crash (18 inch), ride (21 inch), and splash (10 inch), supplemented by K series additions for darker overtones — including a K Custom Dark 19 inch crash and a K 19 inch China. The A Custom series provides the bright, fast-responding sound Haake needs for intricate hi-hat patterns and precise crash accents, while the K series additions introduced after 2016 add darker, more complex overtones for tonal contrast. This hybrid approach replaced his earlier Sabian AAX/AA setup.'
+      },
+      {
+        question: 'How does Immutable differ from obZen gear-wise?',
+        answer: 'Immutable (2022) and obZen (2008) represent fourteen years of gear evolution for Tomas Haake. On obZen, Haake played Sonor Designer Series maple/beech shells with Sabian AAX/AA cymbals and two independent Sonor Perfect Balance single pedals. By Immutable, the kit was Tama Starclassic Bubinga (harder attack, denser shell), cymbals had shifted to Zildjian A Custom and K series (brighter hi-hats, darker crash options), and the pedal approach evolved to an Axis A longboard double pedal. The Porter & Davies BC2 throne and Remo head selection remain consistent across both albums — anchors in an otherwise significantly evolved setup.'
+      },
+      {
+        question: 'Did Tomas Haake change his pedal setup for Immutable?',
+        answer: 'Yes — Immutable marks a notable transition in Haake\'s pedal approach. For most of his career, including obZen and earlier albums, Haake used two completely independent single pedals rather than a double pedal, prioritizing absolute foot independence. For Immutable, he adopted the Axis A longboard double pedal — a connected double pedal with an extended footboard and a linkage engineered to minimize energy transfer between feet. The COVID production delay provided additional time to fully integrate this change before entering the studio, ensuring the new pedal feel was fully embedded in his muscle memory.'
+      },
+      {
+        question: 'What album is Immutable on and when was it released?',
+        answer: 'Immutable is Meshuggah\'s tenth studio album, released on April 1, 2022 on Atomic Fire Records — their first album on the label after decades with Nuclear Blast. The album was originally planned for release around 2020 but was delayed by the COVID-19 pandemic, which inadvertently gave Tomas Haake additional time to refine his drum setup and integrate new hardware. The album earned a Grammy nomination for Best Metal Performance for the track "The Abysmal Eye" at the 2023 Grammy Awards.'
+      }
+    ],
+    conclusion: {
+      title: 'The Present-Day Blueprint: Haake\'s Most Evolved Modern Setup',
+      content: `*Immutable* closes the Meshuggah studio arc as the definitive reference point for Tomas Haake's current drum configuration. From the Sonor Designer Series that powered obZen's genre-defining polyrhythms, through the DW Collector's Series of the live-in-studio *Violent Sleep of Reason*, to the Tama Starclassic Bubinga that anchors *Immutable* — each iteration has been a deliberate evolution, not a random gear change.
+
+The COVID delay, frustrating as it was, produced an unexpected dividend: Haake arrived at Sweetspot Studios with the most thoroughly prepared and settled drum rig of any album in the band's catalog. The Axis longboard integration was complete. The Zildjian hybrid cymbal setup was dialed in. The Starphonic snare tuning was established. Everything was ready.
+
+For drummers studying the Meshuggah catalog, *Immutable* is the essential final chapter — the present-day answer to "what does Tomas Haake actually play?" It's also proof that after more than three decades with Meshuggah, his evolution continues: new pedal platform, evolved cymbal philosophy, refined snare dimensions, all in service of the same foundational principle that has defined his playing since "Bleed."
+
+Groove is everything. Complexity serves the song. The polyrhythms are not math exercises — they are music.
+
+Tomas Haake on *Immutable*: the Atomic Clock, still running.`
+    },
+    relatedAlbums: ['obzen-drum-setup', 'violent-sleep-of-reason-drum-setup'],
     relatedDrummers: [14, 9, 16],
     relatedArticles: ['whats-in-tomas-haakes-kit', 'djent-drumming-guide'],
     relatedLicks: [

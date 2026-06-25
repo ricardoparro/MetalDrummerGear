@@ -44,6 +44,8 @@ import { CURATED_MATCHUPS } from '../packages/frontend/data/battles.js';
 import { GENRE_GEAR_GUIDES } from '../packages/frontend/data/genreGearGuides.js';
 // Issue #1799: Genre hub + 8 genre landing pages
 import { getAllGenreSlugs } from '../packages/frontend/data/genres.js';
+// Issue #2403: kit-level /gear/:brand/:series/drummers-using pages (12 scaffold slugs).
+import { DRUMMERS_BY_KIT } from '../packages/frontend/data/drummersByKit.js';
 
 // Issue #623: Content Scale Sprint - All 62 drummers now in sitemap
 const drummers = [
@@ -559,6 +561,8 @@ export default function handler(req, res) {
     ...Object.keys(DRUMMER_EVOLUTION).map(slug => ({ loc: `/llms/evolution/${slug}.md`, priority: '0.5', changefreq: 'monthly' })),
     // Issue #871/#997: gear/series "drummers-using" SEO pages (≥2 drummers each)
     ...getGearSeriesUrls().map(loc => ({ loc, priority: '0.8', changefreq: 'monthly' })),
+    // Issue #2403: kit-level "drummers-using" pages (12 purchase-intent scaffold slugs).
+    ...Object.keys(DRUMMERS_BY_KIT).map(key => ({ loc: `/gear/${key}/drummers-using`, priority: '0.85', changefreq: 'monthly' })),
     // Issue #1021 (split 3/4 of #1017): LLM-facing Markdown surface (public/llms/*.md).
     { loc: '/llms/index.md', priority: '0.6', changefreq: 'monthly' },
     { loc: '/llms/faq.md', priority: '0.6', changefreq: 'monthly' },

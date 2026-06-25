@@ -5,6 +5,41 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-25 00:42 UTC*
 
 ---
+## 2026-06-25 13:00 — 6 zombies closed, 7 proposals triaged, 6 promotions (39→45)
+
+### Context (≤3 lines)
+Mid-day pulse. Metrics current as of 2026-06-25 01:43 UTC (108 users / 130 sessions / 2,083 impr / 56 clicks / 2.69% CTR / pos 8.7). L1 first-run baseline (all 43 new queries, 186 total; no wins/losses — next actionable 2026-07-01). L2 #2211: 52/65 uncited, 13 cited (12 Joey Jordison variants + matt-halpern-drum-setup + mario-duplantier-cymbals).
+
+### Actions taken
+- **Closed 6 zombie issues** (PRs merged ~2026-06-25T01:22-01:23Z, not caught by earlier runs): #2403 (→PR#2489 DrummersUsingKit), #2383 (→PR#2488 Slipknot Vol.3), #2344 (→PR#2486 Top-10 batch 8), #2356 (→PR#2479 Christ Illusion), #2342 (→PR#2476 SoundLike batch 13), #2337 (→PR#2472 broken YouTube videos). Backlog: 45→39.
+- **Triaged 7 new seo-proposals (#2477–#2484):**
+  - **#2477** (Slayer 'South of Heaven', Lombardo, 1988 — 🔴 broken refs ×2) — **5★ PROMOTED**: critical broken-relatedAlbum fix on 2 live articles; Lombardo high GSC TAM; auto-5★ per broken-ref rule.
+  - **#2478** (Meshuggah 'Nothing' + 'Koloss', Haake, 2002+2012 — 🔴 broken refs) — **5★ PROMOTED**: critical fixes; Haake = zero-competitor L2 gap; completes Meshuggah cluster for LLM coherence.
+  - **#2480** (Opeth 'Still Life', Martin Lopez, 1999 — 🔴 broken ref in blackwater-park) — **5★ PROMOTED**: critical fix; deepens Opeth/Lopez cluster.
+  - **#2451** (Behemoth 'Zos Kia Cultus', Inferno, 2002) — **5★ PROMOTED**: priority queue #1 from 07:00 run; Inferno GSC signal (12 impr pos 7.4); arc continuation.
+  - **#2484** (Top-10 batch 13 — 80s/90s/most-decorated metal drummers) — **5★ PROMOTED**: decade lists = high-volume navigational queries; Grammy/award angle = AI Overview eligibility; no current MF coverage.
+  - **#2483** (Comparison batch 16 — Portnoy/Mangini + Lombardo/Sandoval + Kollias/Haake) — **5★ PROMOTED**: Portnoy = L2 gap (drummagazine winning); Kollias/Haake both zero-competitor L2 gap; DT succession narrative = high-volume prog metal.
+  - **#2481** (Slayer 'Seasons in the Abyss', Lombardo, 1990) — **5★ HOLD**: strong; but depends on #2477 shipping first (relatedAlbums cross-reference south-of-heaven). Priority queue slot 1.
+  - **#2482** (Morbid Angel 'Covenant', Sandoval, 1993) — **5★ HOLD**: arc completion; Pete 50% GSC CTR signal. Priority queue slot 2. AT CAP.
+- **Promoted 6 to ai-fix** (backlog 39→45): #2477, #2478, #2480, #2451, #2484, #2483.
+- **Updated `learned-patterns.md`:** added `multi-variant drummer query` pattern (Joey Jordison 12-of-13 cite sweep from single profile page) and `broken-relatedAlbum fix` auto-5★ rule.
+
+### State delta
+- **Zombies closed (6):** #2403, #2383, #2344, #2356, #2342, #2337
+- **Promoted (6):** #2477, #2478, #2480, #2451, #2484, #2483
+- **Backlog: 45→39 (zombies)→45 (AT CAP)**
+- **Priority queue for next slots:** #2481 (Slayer Seasons, 5★ — wait for #2477) → #2482 (Morbid Angel Covenant, 5★) → #2450 (Behemoth Satanica, 5★) → #2440 (Dimmu Borgir DCA, 5★) → #2412 (LoG Wrath, 5★)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 triaged (6 promoted, 1 held). ✅ Zombies: 6 closed. ✅ L1: first-run baseline — no wins/losses; next actionable 2026-07-01. ✅ L2: 52/65 uncited, 13 cited — pattern logged in `learned-patterns.md` (no ai-fix from L2: AT CAP). ✅ Decisions logged.
+
+### Next Run (2026-06-25 19:00 UTC)
+1. **Zombie sweep** — check for overnight/afternoon merges before counting backlog.
+2. **Priority promotes** when slots open: #2481 (Seasons — after #2477 ships) → #2482 (Morbid Angel Covenant) → #2450 (Behemoth Satanica) → #2440 (Dimmu Borgir DCA).
+3. **Joey Jordison CTR gap** — 300+ impressions at pos 7-11 with ~0 CTR. Flag title/meta optimization for /drummer/joey-jordison page when a backlog slot opens.
+4. **Stale retry watch** — #1895/#1928/#1929/#1933/#2096 now >5 days; investigate at 19:00 if still no activity.
+
+---
 ## 2026-06-26 07:00 — 8 zombies closed, 10 proposals triaged, 8 promotions (37→45)
 
 ### Context (≤3 lines)

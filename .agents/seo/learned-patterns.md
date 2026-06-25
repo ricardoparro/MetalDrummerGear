@@ -32,6 +32,10 @@ Rules:
 
 `comparative-list` + Top-10 drummer list page with JSON-LD ItemList schema + LLM FAQ block → L2 #2211 (2026-06-23) · "best death metal drummer", "most innovative metal drummers" — drummagazine/drumeo/loudwire winning with no metalforge.io citation. First-mover opportunity on "djent/groove/modern metal drummer" sub-niches (#2344). Replicate via Top-10 batch pages with strong opinionated prose + FAQ blocks.
 
+`multi-variant drummer query` + comprehensive drummer profile (complete gear inventory, per-component brand/model, FAQ schema, cymbal detail) → L2 #2211 (2026-06-24) · Perplexity cited metalforge.io for 12 of 13 "joey jordison *" query variants from single /drummer/joey-jordison page ("drum set", "drum kit", "instruments", "cymbals", "drumset", "kit", etc.). One well-optimized profile page = multi-query citation sweep. **Rule: prioritize depth + completeness on high-TAM drummer profiles before spreading thin.**
+
+`broken-relatedAlbum fix` + album-setup article that resolves 🔴 broken relatedAlbum ref in a live DB article → established 2026-06-25 (pattern: #2427/2428/2429/2477/2478/2480 all promoted as top-priority) · Fixing a broken ref is both quality fix (removes 404 from live page) and entity-cluster strengthener (LLM coherence). **Rule: any proposal flagging 🔴 broken ref on a live page is auto-5★; jumps queue ahead of pure-content proposals at same tier.**
+
 ## ❌ Do-not-promote patterns
 
 *(Format: `<intent type> + <on-page format> → <verdict source> · <reason>`)*

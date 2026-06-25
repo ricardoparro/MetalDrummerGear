@@ -3339,6 +3339,99 @@ The debut's 5× Platinum success proved the market existed for what Slipknot was
 For drummers studying Joey Jordison's development, the debut reveals something the Iowa mythology sometimes obscures: he arrived already fully formed. The Iowa performances are more extreme, more technically demanding, more sonically refined — but the musician executing them was already present on the 1999 debut, playing a mid-range Tama kit with the same ferocity and intelligence.
 
 For the gear evolution that followed, see the [Iowa drum setup article](/articles/iowa-drum-setup) — the Pearl and Paiste era that the debut made possible. For Joey's complete gear history, see [We Are Not Your Kind drum setup](/articles/we-are-not-your-kind-drum-setup) and the [Joey Jordison drummer profile](/drummer/joey-jordison).`
+    },
+    schema: {
+      '@context': 'https://schema.org',
+      '@graph': [
+        {
+          '@type': 'Article',
+          headline: "Slipknot Self-Titled Drum Setup: Joey Jordison's 1999 Debut Gear Breakdown",
+          description: "Complete breakdown of Joey Jordison's drum setup on Slipknot's 1999 self-titled debut. Tama Rockstar kit, Zildjian A Custom cymbals, Tama Iron Cobra pedals — the pre-endorsement rig that launched one of metal's greatest drum careers.",
+          author: {
+            '@type': 'Organization',
+            name: 'MetalForge Editorial'
+          },
+          datePublished: '2026-06-25',
+          dateModified: '2026-06-25'
+        },
+        {
+          '@type': 'BreadcrumbList',
+          itemListElement: [
+            { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://metalforge.io' },
+            { '@type': 'ListItem', position: 2, name: 'Articles', item: 'https://metalforge.io/articles' },
+            { '@type': 'ListItem', position: 3, name: 'Slipknot Self-Titled Drum Setup', item: 'https://metalforge.io/articles/slipknot-self-titled-drum-setup' }
+          ]
+        },
+        {
+          '@type': 'MusicAlbum',
+          name: 'Slipknot',
+          byArtist: {
+            '@type': 'MusicGroup',
+            name: 'Slipknot'
+          },
+          datePublished: '1999-06-29',
+          genre: 'Nu Metal',
+          recordLabel: {
+            '@type': 'Organization',
+            name: 'Roadrunner Records'
+          },
+          track: [
+            { '@type': 'MusicRecording', name: '(sic)' },
+            { '@type': 'MusicRecording', name: 'Eyeless' },
+            { '@type': 'MusicRecording', name: 'Wait and Bleed' },
+            { '@type': 'MusicRecording', name: 'Surfacing' },
+            { '@type': 'MusicRecording', name: 'Spit It Out' },
+            { '@type': 'MusicRecording', name: 'Tattered & Torn' },
+            { '@type': 'MusicRecording', name: 'Scissors' }
+          ]
+        },
+        {
+          '@type': 'Person',
+          name: 'Joey Jordison',
+          memberOf: {
+            '@type': 'MusicGroup',
+            name: 'Slipknot'
+          },
+          instrument: 'Drums'
+        },
+        {
+          '@type': 'FAQPage',
+          mainEntity: [
+            {
+              '@type': 'Question',
+              name: 'What drums did Joey Jordison use on the Slipknot debut?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "Joey Jordison recorded Slipknot's 1999 self-titled debut on a Tama Rockstar kit with poplar shells, in the pre-Pearl endorsement era. The configuration included double 22-inch bass drums and a standard tom spread with rack toms at 10, 12, and 14 inches plus a 16-inch floor tom. This was a mid-range Tama setup rather than a custom artist kit — the performances that launched Slipknot's career came from a drummer playing the best gear he had access to, not a corporate-backed custom specification. Joey would transition to Pearl Masterworks for the Iowa sessions in 2001."
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'How did the Slipknot debut kit differ from the Iowa kit?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "The key differences between Joey Jordison's debut (1999) and Iowa (2001) setups were the drum brand and construction, the cymbal brand, and the pedals. On the debut, Joey used a Tama Rockstar with poplar shells and Zildjian A Custom cymbals driven by a Tama Iron Cobra double pedal. For Iowa, he had transitioned to a Pearl Masterworks Custom with maple and African mahogany hybrid shells, Paiste RUDE and 2002 series cymbals, and Pearl Demon Drive pedals. The Iowa kit also featured a more extensive six-tom configuration compared to the debut's four-tom spread."
+              }
+            },
+            {
+              '@type': 'Question',
+              name: "What was Joey Jordison's first endorsement deal?",
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "Joey Jordison's first major endorsements came through the commercial success of Slipknot's 1999 self-titled debut. The debut was recorded with pre-endorsement gear — a Tama Rockstar kit, Zildjian A Custom cymbals, and a Tama Iron Cobra double pedal. After the album went Platinum and Slipknot became a mainstream phenomenon, Joey secured endorsement relationships with Pearl drums, Paiste cymbals, and Promark sticks. By the time the band recorded Iowa in 2001, Joey was fully endorsed by Pearl and Paiste."
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'What cymbals did Joey Jordison use on the Slipknot self-titled album?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "Joey Jordison used Zildjian A Custom cymbals on Slipknot's 1999 debut — the pre-Paiste era of his career. The A Custom setup included 14-inch hi-hats, crashes in 16 and 18 inches, a 20-inch ride, an 18-inch China, and a 10-inch splash. The Zildjian A Custom series delivered a bright, articulate sound with fast response — notably different from the raw, unlathed aggression of the Paiste RUDE series Joey would adopt for Iowa in 2001."
+              }
+            }
+          ]
+        }
+      ]
     }
   },
 

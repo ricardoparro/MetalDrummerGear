@@ -444,6 +444,7 @@ August Burns Red's Matt Greiner vs Periphery's Matt Halpern. Metalcore vs djent:
 
 [matt-greiner profile](https://metalforge.io/drummer/matt-greiner)
 [matt-halpern profile](https://metalforge.io/drummer/matt-halpern)
+[Full Q&A comparison](/llms/comparisons/matt-greiner-vs-matt-halpern.md)
 
 ---
 

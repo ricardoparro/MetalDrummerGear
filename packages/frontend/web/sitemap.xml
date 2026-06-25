@@ -293,6 +293,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <!-- Drummer Comparisons (Issue #2299) -->
+  <url>
+    <loc>https://metalforge.io/vs/igor-cavalera-vs-vinnie-paul</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
   <!-- Drummer Comparisons batch 7 (Issue #2164) -->
   <url>
     <loc>https://metalforge.io/vs/brann-dailor-vs-mike-portnoy</loc>

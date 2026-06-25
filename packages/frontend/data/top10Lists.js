@@ -631,6 +631,47 @@ As drumming technique continues to evolve and new generations push boundaries ev
       17: { rank: 10, highlight: 'NWOAHM groove architect', reason: 'Lamb of God\'s precision and power defined the nu-metal era\'s technical evolution and legacy' },
     },
   },
+  // Issue #2423: Best-of-all-time and most-underrated anchor list pages
+  'best-metal-drummers-of-all-time': {
+    slug: 'best-metal-drummers-of-all-time',
+    title: 'Top 10 Best Metal Drummers of All Time',
+    emoji: '🏆',
+    description: 'The definitive ranking of metal drumming\'s greatest legends. These ten drummers didn\'t just play metal — they shaped it. From Lars Ulrich co-founding the biggest metal band in history to Bill Ward laying the foundation of heavy music itself, each entry on this list represents a career of genre-defining performances, technical mastery, and lasting influence that no other drummer has matched.',
+    seoDescription: 'The best metal drummers of all time, definitively ranked. Lars Ulrich, Dave Lombardo, Gene Hoglan, Danny Carey, Tomas Haake and more — the greatest metal drummers in history with career highlights, gear, and lasting impact.',
+    drummerIds: [1, 4, 3, 14, 5, 13, 16, 11, 41, 30],
+    rankings: {
+      1: { rank: 1, highlight: 'Co-founder of metal\'s biggest band', reason: 'Lars Ulrich built Metallica from a garage band to the most commercially successful metal act in history — selling 125+ million records, pioneering thrash metal, and introducing the genre to a global mainstream audience' },
+      4: { rank: 2, highlight: 'The thrash drumming standard-bearer', reason: 'Dave Lombardo\'s work on Slayer\'s Reign in Blood redefined what was possible in metal drumming — his Latin-influenced double bass fury combined technical innovation with pure aggression that has never been surpassed in thrash metal' },
+      3: { rank: 3, highlight: 'The Atomic Clock — precision without equal', reason: 'Gene Hoglan\'s nickname says everything. Death, Dark Angel, Testament, Dethklok — he brought metronomic perfection at extreme speeds to every project, and his body of work spans more influential metal recordings than almost any drummer alive' },
+      14: { rank: 4, highlight: 'Sacred geometry made rhythmic reality', reason: 'Danny Carey\'s mathematical approach to drumming — Fibonacci sequences, polyrhythms, odd time signatures — elevated Tool\'s music to art. The Pneuma viral drum cam alone has introduced millions of people to what metal drumming can truly be' },
+      5: { rank: 5, highlight: 'The architect of djent and polymetric metal', reason: 'Tomas Haake invented a genre. Meshuggah\'s simultaneous use of multiple time signatures — crystallised on tracks like Bleed — birthed the entire djent movement and changed how an entire generation of drummers think about rhythm and heaviness' },
+      13: { rank: 6, highlight: 'Progressive metal\'s technical patriarch', reason: 'Mike Portnoy built progressive metal\'s drumming vocabulary across 25 years with Dream Theater, winning 30+ consecutive Modern Drummer awards and demonstrating that technical complexity and emotional power are not mutually exclusive' },
+      16: { rank: 7, highlight: 'Jazz vocabulary meets sludge metal fury', reason: 'Brann Dailor redefined what melodic drumming could mean in heavy music. His jazz-influenced fills, melodic phrasing, and creative freedom within Mastodon\'s progressive sludge metal changed how drummers approach fills and musical expression' },
+      11: { rank: 8, highlight: 'The groove that defined groove metal', reason: 'Vinnie Paul\'s thunderous power and impeccable feel built the foundation of Pantera\'s sound. Cowboys From Hell and Vulgar Display of Power are groove metal benchmarks, and Vinnie\'s half-time heaviness influenced every down-tuned band that followed' },
+      41: { rank: 9, highlight: 'The Iron Maiden engine across five decades', reason: 'Nicko McBrain has powered Iron Maiden through 40+ years of global touring, bringing technically precise NWOBHM drumming to arenas and stadiums across the world — a consistency of excellence across decades that few can match' },
+      30: { rank: 10, highlight: 'The original heavy metal drummer', reason: 'Bill Ward didn\'t just play in the band that invented heavy metal — he helped invent it. Black Sabbath\'s lurching, jazz-influenced rhythms under Iommi\'s riffs created the genre\'s DNA, and Ward\'s swing-meets-doom approach has never been successfully replicated' },
+    },
+  },
+  'most-underrated-metal-drummers': {
+    slug: 'most-underrated-metal-drummers',
+    title: 'Top 10 Most Underrated Metal Drummers',
+    emoji: '💎',
+    description: 'The unsung architects of metal\'s greatest moments. While mainstream lists obsess over the usual suspects, these ten drummers deliver technical mastery, creative innovation, and genre-defining performances that rarely receive the recognition they deserve. From George Kollias holding world speed records to Richard Christy\'s death metal perfection with Chuck Schuldiner\'s Death, this is the list that fills the gaps.',
+    seoDescription: 'The most underrated metal drummers you need to know. George Kollias, Flo Mounier, Morgan Ågren, Aquiles Priester, Martin Lopez and more — the overlooked legends of metal drumming.',
+    drummerIds: [6, 35, 28, 50, 38, 60, 39, 33, 49, 44],
+    rankings: {
+      6: { rank: 1, highlight: '280+ BPM and the world\'s most technical death metal kit', reason: 'George Kollias holds documented speed records exceeding 280 BPM, co-designed the Pearl Demon XR pedal, and has powered Nile\'s Egyptian-themed technical death metal for 20+ years — yet rarely appears on mainstream "best of" lists outside extreme metal circles' },
+      35: { rank: 2, highlight: 'The gravity blast innovator whose benchmark still stands', reason: 'Flo Mounier\'s performance on Cryptopsy\'s None So Vile is studied by drummers worldwide as the extreme drumming gold standard, yet he remains largely unknown outside death metal — his gravity blast innovation alone earns lifetime underrated status' },
+      28: { rank: 3, highlight: 'Frank Zappa\'s handpicked prodigy and Sweden\'s secret weapon', reason: 'Morgan Ågren was personally recruited by Frank Zappa at age 17 and has produced some of the most rhythmically complex recordings in any genre — his work with the Mats/Morgan Band crosses jazz, avant-garde, and metal with virtuosity that places him among the world\'s greatest living drummers' },
+      50: { rank: 4, highlight: 'South America\'s most explosive technical metal drummer', reason: 'Aquiles Priester\'s blistering precision with Angra brought Brazilian progressive power metal to global stages, but his speed, technique, and musicality have never received the international recognition they warrant — a crime considering his influence across South American metal' },
+      38: { rank: 5, highlight: 'The greatest dynamic range in metal history', reason: 'Martin Lopez\'s Opeth catalogue — Blackwater Park through Ghost Reveries — demonstrates the widest dynamic range in metal drumming history, shifting from brushed jazz whispers to thunderous death metal in a single bar. His Soen work continues that legacy yet he remains chronically underrated' },
+      60: { rank: 6, highlight: 'Grindcore precision meets brutal death metal groove', reason: 'Kevin Talley\'s work with Dying Fetus and Misery Index represents extreme metal drumming at its most punishing and grooviest simultaneously — a combination most drummers can\'t manage at half the speed, yet he operates largely under the mainstream radar' },
+      39: { rank: 7, highlight: 'Technical polyrhythmic mastery in melodic metalcore', reason: 'Travis Orbin\'s drumming with Darkest Hour and Periphery showcases a rare combination of technical death metal chops, polyrhythmic sophistication, and metalcore groove — his YouTube drum covers alone reveal an artist who transcends any single genre categorisation' },
+      33: { rank: 8, highlight: 'Progressive metal\'s boundary-dissolving technician', reason: 'Blake Richardson has pushed Between the Buried and Me\'s progressive metal ambition to its limits across six studio albums, executing technical death metal complexity, odd-time signatures, and jazz-influenced fills in compositions that challenge virtually every living drummer' },
+      49: { rank: 9, highlight: 'The final recordings with Chuck Schuldiner — perfection', reason: 'Richard Christy\'s drumming on Death\'s The Sound of Perseverance — Chuck Schuldiner\'s final album — is widely considered the apex of technical death metal drum performance, yet his name rarely surfaces in conversations about the genre\'s greatest practitioners' },
+      44: { rank: 10, highlight: '"One take" extreme metal discipline and swivel technique pioneer', reason: 'Derek Roddy\'s reputation for recording entire death metal albums in single takes without punch-ins, combined with his 260+ BPM swivel technique speed and educational contributions through Drumeo, make him one of extreme metal\'s most disciplined and overlooked practitioners' },
+    },
+  },
 };
 
 // Get list of all top 10 lists

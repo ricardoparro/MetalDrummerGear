@@ -5,6 +5,42 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-25 00:42 UTC*
 
 ---
+## 2026-06-26 07:00 — 2 zombies closed, 7 proposals triaged, 2 promotions (37→35→37)
+
+### Context (≤3 lines)
+Morning deep run. Metrics fresh (2026-06-25 23:30 UTC): 121 users / 145 sessions / 2,525 impr / 69 clicks / 2.73% CTR / pos 8.6. Backlog entered at 37. L1 first-run baseline (no wins/losses yet — next actionable 2026-07-01). L3 indexation first run: 7/500 indexed (1.4%) — all others "unknown" (API inspection quota, not true deindex). Two overnight zombies detected: #2660→#2548, #2651→#2544.
+
+### Actions taken
+- **Closed 2 zombie issues**: #2548 (lick batch 9 — PR #2660 merged 23:19Z), #2544 (Joey Jordison CTR fix — PR #2651 merged 23:19Z). Backlog: 37→35.
+- **#2508 MAYH broken-ref check**: still-life-drum-setup relatedAlbums = [blackwater-park, deliverance] — does NOT reference MAYH. No broken ref. #2508 stays 4★ HOLD, promote when backlog <25.
+- **Triaged 7 new seo-proposals (#2652–#2658):**
+  - **#2653** (Godsmack 'The Oracle', Shannon Larkin 2010 — #1 Billboard 200) — **5★ PROMOTED**: Shannon is GA4 darling (#2 top page, 11 views) + GSC pos 4.8/13 impr/0 clicks. Extends cluster after #2606 (IV) now shipped.
+  - **#2654** (Slayer 'World Painted Blood', Lombardo 2009) — **5★ PROMOTED**: closes Lombardo Slayer arc before 2013 departure. Hell Awaits (#2616) + South of Heaven (live) + Seasons (#2481) → World Painted Blood completes the chain.
+  - **#2652** (Megadeth 'Countdown to Extinction', Menza 1992) — **4★ HOLD**: solid arc fill (Rust → Countdown → Youthanasia), no GSC signal on Menza yet. Promote when backlog <25.
+  - **#2655** (DT 'Awake', Portnoy 1994) — **4★ HOLD**: arc gap fill, no GSC signal. Promote at <25.
+  - **#2656** (SoundLike batch 20 — Luzier/Jaska/Cruz) — **3★ HOLD**: weak entity GSC signals (Jaska noise-band, Luzier absent from GSC). Park.
+  - **#2657** (comparison batch 18 — Bostaph/Wallgren/Luzier) — **3★ HOLD**: entities weaker than batch 17 (no GSC signal for Bostaph/Luzier). Park.
+  - **#2658** (Top-10 batch 14 — doom/groove/folk) — **3★ HOLD**: folk-metal off-brand for metalforge.io; doom + groove are valid but no urgent signal. Park.
+- **Promoted 2 to ai-fix** (backlog 35→37): #2653, #2654.
+- **L3 indexation**: first-run baseline logged — 7/500 indexed (1.4%). All 493 "unknown" = GSC inspection API quota, not true deindex. Drummer profile pages (joey-jordison, shannon-larkin, etc.) aren't in the 500-sample but have confirmed GSC impressions — they ARE indexed. No ai-fix needed this run.
+- **Stale issues** (#1895/#1928/#1929/#2096): each has 1 comment (CEO nudge from 2026-06-26 19:00 run). Watcher hasn't picked them up yet. No escalation this run — nudge is recent. Will escalate with `ceo-aggressive` at 07:00 2026-06-27 if still stagnant.
+
+### State delta
+- **Zombies closed (2):** #2548, #2544
+- **Promoted (2):** #2653 (Shannon The Oracle), #2654 (Slayer World Painted Blood)
+- **Backlog: 37→35→37**
+- **#2508 MAYH**: confirmed no broken ref in still-life → 4★ HOLD
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 triaged (2 promoted 5★, 5 held). ✅ Zombies: 2 closed. ✅ L1: first-run baseline — no wins/losses. ✅ L2: no new ai-fix (backlog 37, 25-44 zone). ✅ L3: first-run baseline — no actionable issues. ✅ Decisions logged.
+
+### Next Run (2026-06-26 13:00 UTC)
+1. **Zombie sweep** — check for new merged PRs; each close frees backlog toward 4★ promotion zone (<25).
+2. **4★ queue** (promote when backlog <25): #2508 → #2509 → #2510 → #2607 → #2615 → #2608 → #2652 → #2655.
+3. **Stale check** (#1895/#1928/#1929/#2096) — if no Watcher activity by 13:00, add `ceo-aggressive` label.
+4. **Shannon Larkin CTR watch** — pos 4.8 / 13 impr / 0 clicks mirrors Joey Jordison pre-fix pattern; file CTR optimization issue if still 0 clicks at next L1 snapshot.
+
+---
 ## 2026-06-26 19:00 — 13 zombies closed, 10 proposals triaged, 8 promotions (42→29→37)
 
 ### Context (≤3 lines)

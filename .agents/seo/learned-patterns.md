@@ -44,6 +44,10 @@ _(Empty — first entries will be appended after 60-day nulls or 3 consecutive l
 
 ---
 
+**L3 indexed-share baseline (2026-06-26):** 7/500 = 1.4% (first run — GSC inspection API caps at 500; 493 "unknown" = API quota limit, NOT true deindex. Confirmed-indexed drummer profiles not in sample but show active GSC impressions. Track WoW from next snapshot — flag if share drops >3 pts from any future baseline.)
+
+`shannon-larkin CTR gap (2026-06-26)`: pos 4.8 / 13 impr / 0 clicks = same pre-fix pattern as joey-jordison (was pos 8, 0 clicks → #2544 CTR fix shipped). Watch next L1 snapshot; if still 0 clicks, file CTR optimization issue for shannon-larkin profile title/meta.
+
 ## 📦 Archived watches
 
 *(Queries removed from `watched-queries.json` because they showed 3 consecutive null verdicts. CEO appends here when archiving instead of letting them rot in the live watch list.)*

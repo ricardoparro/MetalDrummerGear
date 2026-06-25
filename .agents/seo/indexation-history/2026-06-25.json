@@ -1,0 +1,3008 @@
+{
+  "generatedAt": "2026-06-25T23:24:54.124Z",
+  "site": "https://metalforge.io/",
+  "sitemapUrlCount": 3264,
+  "inspectedCount": 500,
+  "byUrl": {
+    "https://metalforge.io/": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-23T04:22:47Z"
+    },
+    "https://metalforge.io/bpm": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guess-the-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/beginner-metal-drummer-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-death-metal": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/best-snare-drums-for-thrash-metal": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/budget-metal-drum-setup-1000": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/budget-metal-drum-setup-2000": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/budget-metal-drum-setup-500": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/metal-drummer-name-generator": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/a-dramatic-turn-of-events-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/aenima-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/altars-of-madness-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/and-justice-for-all-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/aquiles-priester-drum-kit-guide": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/aquiles-priester-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/arin-ilejay-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/ashes-of-the-wake-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/ben-koller-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/beneath-the-remains-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/black-album-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/blackwater-park-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/blake-richardson-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-24T01:56:42Z"
+    },
+    "https://metalforge.io/articles/brann-dailor-mastodon-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/breakdown-beat-guide": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/chaos-ad-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/charlie-benante-among-the-living-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/chris-turner-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/cowboys-from-hell-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/daniel-erlandsson-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/daray-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/derek-roddy-hate-eternal-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/double-bass-drumming-for-metal": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/dystopia-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/fastest-double-bass-drummers": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/fear-inoculum-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/from-mars-to-sirius-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/frost-satyricon-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/gavin-harrison-porcupine-tree-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/gene-hoglan-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/george-kollias-nile-annihilation-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/hannes-grossmann-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/hellhammer-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-20T10:17:22Z"
+    },
+    "https://metalforge.io/articles/how-to-play-blast-beats": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/how-to-play-polyrhythm-drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/how-to-tune-drums-for-metal": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/human-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/images-and-words-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/iowa-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/isaac-lamb-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/jaska-raatikainen-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/jason-bittner-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/jay-weinberg-complete-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/jocke-wallgren-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/joey-jordison-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/joey-jordison-signature-gear-guide": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/john-otto-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/jon-dette-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/kevin-talley-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/lateralus-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/lenfant-sauvage-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/mario-duplantier-gear": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/martin-lopez-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/master-of-puppets-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/matt-greiner-complete-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/morgan-agren-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/most-brutal-drum-solos": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/most-expensive-drum-setups": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/nick-augusto-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/nick-menza-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/none-so-vile-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/number-of-the-beast-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/obzen-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/painkiller-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/paul-mazurkiewicz-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/piece-of-mind-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/powerslave-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/raymond-herrera-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/reign-in-blood-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/roots-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/rust-in-peace-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/ryan-van-poederooyen-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/scenes-from-a-memory-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/shannon-larkin-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/sound-of-perseverance-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/symbolic-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/the-satanist-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/the-way-of-all-flesh-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/tim-yeung-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/travis-orbin-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/vulgar-display-of-power-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-abe-cunninghams-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-alex-bents-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-art-cruzs-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-bill-wards-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-brann-dailors-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-charlie-benantes-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-chris-adlers-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-danny-careys-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-dave-lombardos-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-derek-roddys-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-dirk-verbeurens-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-eloy-casagrandes-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-flo-mouniers-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-gavin-harrisons-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-gene-hoglans-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-george-kollias-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-igor-cavaleras-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-infernos-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-joey-jordisons-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-lars-ulrichs-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-mario-duplantiers-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-matt-garstkas-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-matt-halperns-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-mike-manginis-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-mike-portnoys-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-mikkey-dees-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-navene-koperweiss-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-nicko-mcbrains-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-paul-bostaphs-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-pete-sandovals-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-ray-luziers-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-richard-christys-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-scott-travis-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-sean-reinerts-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-tomas-haakes-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-vinnie-pauls-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/white-pony-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/bands": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/battles": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/birthdays": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/bpm-tap": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/brands": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/compare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-22T03:39:19Z"
+    },
+    "https://metalforge.io/drummers/abe-cunningham/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/alex-bent/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/aquiles-priester/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/arin-ilejay/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/art-cruz/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/ben-koller/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/bill-ward/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/blake-richardson/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/brann-dailor/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/charlie-benante/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/chris-adler/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/chris-turner/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/daniel-erlandsson/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/danny-carey/gear-history": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/danny-carey/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/daray/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/dave-lombardo/gear-history": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/dave-lombardo/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/derek-roddy/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/dirk-verbeuren/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/eloy-casagrande/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/flo-mounier/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/frost/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/gavin-harrison/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/gene-hoglan/gear-history": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/gene-hoglan/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/george-kollias/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/hannes-grossmann/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/hellhammer/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/igor-cavalera/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/inferno/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/isaac-lamb/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/jaska-raatikainen/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/jason-bittner/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/jay-weinberg/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/jocke-wallgren/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/joey-jordison/gear-history": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/joey-jordison/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/john-otto/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/jon-dette/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/kevin-talley/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/lars-ulrich/gear-history": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/lars-ulrich/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/mario-duplantier/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/martin-lopez/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/matt-garstka/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/matt-greiner/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/matt-halpern/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/mike-mangini/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/mike-portnoy/gear-history": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/mike-portnoy/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/mikkey-dee/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/morgan-agren/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/navene-koperweis/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/nick-augusto/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/nicko-mcbrain/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/paul-bostaph/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/paul-mazurkiewicz/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/pete-sandoval/gear-history": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/pete-sandoval/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/ray-luzier/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/raymond-herrera/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/richard-christy/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/ryan-van-poederooyen/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/scott-travis/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/shannon-larkin/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/tim-yeung/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/tomas-haake/gear-history": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/tomas-haake/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/travis-orbin/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/vinnie-paul/gear-history": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/vinnie-paul/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/endorsement-news": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/gear": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/gear-by-budget": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/gear-news": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/gear/cymbals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-05-28T19:09:12Z"
+    },
+    "https://metalforge.io/gear/drums": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-22T18:03:04Z"
+    },
+    "https://metalforge.io/gear/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/gear/pedals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/gear/snares": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/gear/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/genres": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-05T11:51:19Z"
+    },
+    "https://metalforge.io/guides/how-to-sound-like-brann-dailor": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/how-to-sound-like-chris-adler": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/how-to-sound-like-danny-carey": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/how-to-sound-like-dave-lombardo": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/how-to-sound-like-flo-mounier": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/how-to-sound-like-gene-hoglan": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/how-to-sound-like-george-kollias": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/how-to-sound-like-joey-jordison": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/how-to-sound-like-lars-ulrich": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/how-to-sound-like-mario-duplantier": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/how-to-sound-like-matt-greiner": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/how-to-sound-like-matt-halpern": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/how-to-sound-like-tomas-haake": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/how-to-sound-like-travis-orbin": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/history": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/kit-builder": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/kit-quiz": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/lists": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/quiz": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/quotes": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/stats": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/stats/gear-insights": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/techniques": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare/brann-dailor-vs-mario-duplantier": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare/charlie-benante-vs-dave-lombardo": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare/chris-adler-vs-brann-dailor": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare/danny-carey-vs-tomas-haake": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare/dave-lombardo-vs-gene-hoglan": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare/eloy-casagrande-vs-joey-jordison": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare/gene-hoglan-vs-pete-sandoval": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare/george-kollias-vs-flo-mounier": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare/hellhammer-vs-inferno": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare/inferno-vs-george-kollias": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare/joey-jordison-vs-george-kollias": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare/joey-jordison-vs-lars-ulrich": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare/joey-jordison-vs-vinnie-paul": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare/lars-ulrich-vs-dave-lombardo": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare/mario-duplantier-vs-tomas-haake": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare/matt-garstka-vs-matt-halpern": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare/matt-halpern-vs-alex-bent": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare/mike-portnoy-vs-danny-carey": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare/mike-portnoy-vs-mike-mangini": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare/nicko-mcbrain-vs-vinnie-paul": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/vs": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/battles/brann-dailor-vs-chris-adler": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/battles/danny-carey-vs-mike-portnoy": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/battles/gene-hoglan-vs-george-kollias": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/battles/inferno-vs-hellhammer": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/battles/joey-jordison-vs-eloy-casagrande": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/battles/lars-ulrich-vs-dave-lombardo": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/battles/tomas-haake-vs-mario-duplantier": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/battles/vinnie-paul-vs-dave-lombardo": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/beginner-guide": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/abe-cunningham/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/abe-cunningham/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/abe-cunningham/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/abe-cunningham/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/abe-cunningham/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/alex-bent/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/alex-bent/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/alex-bent/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/alex-bent/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/alex-bent/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/aquiles-priester/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/aquiles-priester/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/aquiles-priester/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/aquiles-priester/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/aquiles-priester/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/arin-ilejay/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/arin-ilejay/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/arin-ilejay/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/arin-ilejay/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/arin-ilejay/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/art-cruz/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/art-cruz/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/art-cruz/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/art-cruz/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/art-cruz/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/ben-koller/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/ben-koller/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/ben-koller/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/ben-koller/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/ben-koller/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/bill-ward/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/bill-ward/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/bill-ward/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/bill-ward/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/bill-ward/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/blake-richardson/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/blake-richardson/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/blake-richardson/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/blake-richardson/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/blake-richardson/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/brann-dailor/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/brann-dailor/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/brann-dailor/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/brann-dailor/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/brann-dailor/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/charlie-benante/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/charlie-benante/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/charlie-benante/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/charlie-benante/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/charlie-benante/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/chris-adler/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/chris-adler/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/chris-adler/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/chris-adler/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/chris-adler/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/chris-turner/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/chris-turner/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/chris-turner/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/chris-turner/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/chris-turner/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/daniel-erlandsson/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/daniel-erlandsson/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/daniel-erlandsson/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/daniel-erlandsson/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/daniel-erlandsson/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/danny-carey/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/danny-carey/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/danny-carey/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/danny-carey/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/danny-carey/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/daray/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/daray/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/daray/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/daray/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/daray/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/dave-lombardo/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/dave-lombardo/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/dave-lombardo/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/dave-lombardo/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/dave-lombardo/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/derek-roddy/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/derek-roddy/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/derek-roddy/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/derek-roddy/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/derek-roddy/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/dirk-verbeuren/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/dirk-verbeuren/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/dirk-verbeuren/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/dirk-verbeuren/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/dirk-verbeuren/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/eloy-casagrande/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/eloy-casagrande/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/eloy-casagrande/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/eloy-casagrande/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/eloy-casagrande/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/flo-mounier/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/flo-mounier/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/flo-mounier/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/flo-mounier/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/flo-mounier/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/frost/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/frost/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/frost/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/frost/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/frost/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/gavin-harrison/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/gavin-harrison/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/gavin-harrison/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/gavin-harrison/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/gavin-harrison/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/gene-hoglan/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/gene-hoglan/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/gene-hoglan/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/gene-hoglan/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/gene-hoglan/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/george-kollias/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/george-kollias/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/george-kollias/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/george-kollias/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/george-kollias/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/hannes-grossmann/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/hannes-grossmann/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/hannes-grossmann/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/hannes-grossmann/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/hannes-grossmann/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/hellhammer/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/hellhammer/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/hellhammer/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/hellhammer/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/hellhammer/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/igor-cavalera/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/igor-cavalera/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/igor-cavalera/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/igor-cavalera/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/igor-cavalera/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/inferno/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/inferno/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/inferno/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/inferno/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/inferno/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/isaac-lamb/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/isaac-lamb/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/isaac-lamb/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/isaac-lamb/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/isaac-lamb/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jaska-raatikainen/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jaska-raatikainen/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jaska-raatikainen/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jaska-raatikainen/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jaska-raatikainen/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jason-bittner/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jason-bittner/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jason-bittner/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jason-bittner/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jason-bittner/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jay-weinberg/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jay-weinberg/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jay-weinberg/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jay-weinberg/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jay-weinberg/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jocke-wallgren/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jocke-wallgren/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jocke-wallgren/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jocke-wallgren/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jocke-wallgren/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/joey-jordison/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/joey-jordison/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/joey-jordison/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/joey-jordison/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/joey-jordison/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/john-otto/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/john-otto/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/john-otto/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/john-otto/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/john-otto/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/kevin-talley/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/kevin-talley/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/kevin-talley/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/kevin-talley/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/kevin-talley/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/lars-ulrich/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/lars-ulrich/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/lars-ulrich/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/lars-ulrich/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/lars-ulrich/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/mario-duplantier/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/mario-duplantier/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/mario-duplantier/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/mario-duplantier/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/mario-duplantier/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/martin-lopez/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/martin-lopez/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/martin-lopez/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/martin-lopez/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/martin-lopez/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/matt-garstka/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/matt-garstka/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/matt-garstka/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/matt-garstka/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/matt-garstka/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/matt-greiner/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/matt-greiner/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/matt-greiner/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/matt-greiner/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/matt-greiner/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/matt-halpern/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/matt-halpern/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/matt-halpern/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/matt-halpern/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/matt-halpern/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/mike-mangini/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/mike-mangini/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/mike-mangini/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/mike-mangini/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/mike-mangini/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/mike-portnoy/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/mike-portnoy/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/mike-portnoy/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/mike-portnoy/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/mike-portnoy/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/mikkey-dee/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/mikkey-dee/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/mikkey-dee/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/mikkey-dee/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    }
+  }
+}

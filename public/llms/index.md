@@ -223,6 +223,7 @@ Clean Markdown gear breakdowns for every album drum-setup and "what's in <drumme
 | What's In Dave Lombardo's Kit in 2026: The Godfather of Double Bass | Dave Lombardo | [Markdown](https://metalforge.io/llms/articles/whats-in-dave-lombardos-kit.md) |
 | What's In Gene Hoglan's Atomic Arsenal: Complete Gear Breakdown | Gene Hoglan | [Markdown](https://metalforge.io/llms/articles/whats-in-gene-hoglans-kit.md) |
 | What's In Eloy Casagrande's Kit in 2026: From Sepultura to Slipknot | Eloy Casagrande | [Markdown](https://metalforge.io/llms/articles/whats-in-eloy-casagrandes-kit.md) |
+| Eloy Casagrande M72 Drum Setup: What He Played with Metallica on the World Tour (2023–2024) | Eloy Casagrande | [Markdown](https://metalforge.io/llms/articles/eloy-casagrande-m72-drum-setup.md) |
 | Painkiller Drum Setup: Scott Travis's Speed Metal Revolution | Scott Travis | [Markdown](https://metalforge.io/llms/articles/painkiller-drum-setup.md) |
 | Fear Inoculum Drum Setup: Danny Carey's Grammy-Winning Sound | Danny Carey | [Markdown](https://metalforge.io/llms/articles/fear-inoculum-drum-setup.md) |
 | Lateralus Drum Setup: Danny Carey's Progressive Masterpiece | Danny Carey | [Markdown](https://metalforge.io/llms/articles/lateralus-drum-setup.md) |

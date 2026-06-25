@@ -6885,24 +6885,34 @@ export function getAllGuideSlugs() {
  */
 export function generateGuideSchema(guide) {
   if (!guide) return null;
-  
+
   const steps = [];
-  
-  // Add technique steps
+
+  // Step 1: Grip and stick control (issue #2202: aligns with Google HowTo example schema)
+  if (guide.technique?.stickGrip) {
+    steps.push({
+      "@type": "HowToStep",
+      "name": `Grip and Stick Control: ${guide.technique.stickGrip.type}`,
+      "text": guide.technique.stickGrip.description,
+      "position": 1
+    });
+  }
+
+  // Add signature technique steps
   if (guide.technique?.signaturePatterns) {
-    guide.technique.signaturePatterns.forEach((pattern, index) => {
+    guide.technique.signaturePatterns.forEach((pattern) => {
       steps.push({
         "@type": "HowToStep",
         "name": `Learn ${pattern.name}`,
         "text": pattern.description,
-        "position": index + 1
+        "position": steps.length + 1
       });
     });
   }
-  
+
   // Add practice exercise steps
   if (guide.practice?.exercises) {
-    guide.practice.exercises.forEach((exercise, index) => {
+    guide.practice.exercises.forEach((exercise) => {
       steps.push({
         "@type": "HowToStep",
         "name": exercise.name,

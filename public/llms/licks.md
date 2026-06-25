@@ -318,6 +318,44 @@ Profile: [https://metalforge.io/drummers/gene-hoglan](https://metalforge.io/drum
 **Tutorial:** https://www.youtube.com/watch?v=2JicEpsOgfI
 **Page:** https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-zero-tolerance-groove
 
+### Dark Angel 220 BPM Blast Beat — "Darkness Descends", Darkness Descends (1986)
+- **BPM:** ~220 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **Techniques:** blast-beat, wrist-technique, single-bass
+
+**How to play it:**
+1. Drive the blast with wrist power at the ride or crash — hands carry the velocity burden
+2. Lock the snare with a near-simultaneous backbeat on the left hand
+3. Use a single bass drum pedal with a consistent pumping pattern underneath
+4. Build wrist endurance through short blast bursts before extending duration
+5. Focus on clarity and evenness of each stroke rather than raw maximum speed
+
+**Practice tips:**
+- Practice short blast bursts at moderate speed before pushing the BPM — evenness beats raw velocity
+- Focus on wrist relaxation and rebound; tension at these speeds causes injury and kills endurance
+- Use a single kick pedal to develop this specific technique before switching to double bass
+- Record yourself to monitor stroke evenness — both hands should sound identical in volume
+
+**Page:** https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-dark-angel-220bpm-blast-beat
+
+### Symbolic Groove-to-Blast Switch — "Symbolic", Symbolic (1995)
+- **BPM:** ~195 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **Techniques:** groove-drumming, blast-beat, fill-techniques
+
+**How to play it:**
+1. Isolate the groove section and the blast section separately before practising the transitions
+2. Use compact, barline-landing fills to bridge between groove and blast without disruption
+3. Maintain a unified internal pulse so the feel shifts but the tempo lock never wavers
+4. Execute the half-time snare with authority in groove sections — wide and breathing, not rushed
+5. Build each fill from slow speed to tempo before inserting it into the full passage
+
+**Practice tips:**
+- Practice the groove and blast sections as separate modules before combining them
+- Work on the fill bridging each transition in isolation at half speed first
+- Record the full passage to check that each section feels genuinely different in density and feel
+- Keep fills short and decisive — the transition should happen in two to four strokes maximum
+
+**Page:** https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-death-symbolic-groove-blast-combo
+
 ## Tomas Haake (Meshuggah)
 
 Profile: [https://metalforge.io/drummers/tomas-haake](https://metalforge.io/drummers/tomas-haake) · All licks: [https://metalforge.io/drummers/tomas-haake/licks](https://metalforge.io/drummers/tomas-haake/licks)
@@ -381,6 +419,44 @@ Profile: [https://metalforge.io/drummers/tomas-haake](https://metalforge.io/drum
 
 **Tutorial:** https://www.youtube.com/watch?v=4A_tSyJBsRQ
 **Page:** https://metalforge.io/drummers/tomas-haake/licks/tomas-haake-new-millennium-cyanide-christ-groove
+
+### obZen Polyrhythm Ostinato — "Bleed", obZen (2008)
+- **BPM:** 116 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **Techniques:** polyrhythms, ostinato, limb-independence
+
+**How to play it:**
+1. Map where each snare and cymbal accent falls against the 4/4 sixteenth-note grid before playing
+2. Count the full resolution cycle — how many bars before the accent pattern returns to beat one
+3. Layer the ostinato one limb at a time: feet first, then hi-hat pulse, then snare displacement
+4. Listen to the two layers simultaneously rather than treating them as a coordination obstacle
+5. Practice at a fraction of recorded tempo until the polyrhythmic logic is fully internalised
+
+**Practice tips:**
+- Write out the accent pattern on paper before touching the kit — understanding it intellectually is 50% of the work
+- Count aloud to identify the resolution cycle length; this proves you have truly mapped the polyrhythm
+- Keep the feet completely relaxed and even while focusing mental attention on the hand pattern
+- Study this polyrhythmic aspect alongside the endurance aspect — they are complementary, not the same skill
+
+**Page:** https://metalforge.io/drummers/tomas-haake/licks/tomas-haake-obzen-polyrhythm-groove
+
+### Koloss I Am Colossus Groove — "I Am Colossus", Koloss (2012)
+- **BPM:** ~100 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **Techniques:** polyrhythms, groove-drumming, odd-time-signatures
+
+**How to play it:**
+1. Count the guitar riff grouping cycle length and track how many bars before the pattern resets
+2. Establish a steady hi-hat pulse as your anchor before adding the displaced kick and snare
+3. Lock the displaced snare hits to the guitar accent figures rather than to the metronome grid
+4. Practice at a tempo slow enough that the groove feels natural before building speed
+5. Use this lick as your Meshuggah entry point before tackling faster tracks like Bleed
+
+**Practice tips:**
+- This is the most approachable Meshuggah lick — slower tempo gives the polyrhythm room to click
+- Count the riff cycle length until you can predict the resolution without consciously tracking it
+- Learn I Am Colossus before New Millennium Cyanide Christ and before Bleed — build the vocabulary in order
+- Play along with the album recording to feel how the groove locks against the guitars in full context
+
+**Page:** https://metalforge.io/drummers/tomas-haake/licks/tomas-haake-koloss-groove-ostinato
 
 ## Joey Jordison (Slipknot)
 
@@ -548,6 +624,44 @@ Profile: [https://metalforge.io/drummers/dave-lombardo](https://metalforge.io/dr
 - Use dynamics to build tension
 - Great song for developing pocket and feel
 **Page:** https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-seasons-thrash
+
+### Reign in Blood Double-Bass Pump — "Postmortem", Reign in Blood (1986)
+- **BPM:** ~190 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **Techniques:** double-bass, riff-lock, groove-drumming
+
+**How to play it:**
+1. Build the sixteenth-note pump pattern on a practice pad with equal weight between both feet
+2. Add the snare backbeat only after the feet are fully solid and even
+3. Lock the kick pattern tightly to the guitar riff's accent contour, not just a generic grid
+4. Maintain a forward-leaning, slightly forceful quality — push the riff rather than underline it
+5. Build tempo gradually, checking evenness at each increment before pushing higher
+
+**Practice tips:**
+- Evenness between feet is the entire skill — record at slow tempo and check both feet sound identical
+- Practice the pump pattern isolated from the hands before adding the full groove
+- Use the riff recording to develop lock — your kick should amplify the guitar's accent structure
+- Build stamina with short focused sets rather than long exhausted sessions
+
+**Page:** https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-slayer-reign-in-blood-double-bass
+
+### Show No Mercy Speed Tom Cascade — "The Antichrist", Show No Mercy (1983)
+- **BPM:** ~220 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **Techniques:** fill-techniques, tom-work, groove-drumming
+
+**How to play it:**
+1. Execute the tom descent with a tight RLRLL sticking — loose strokes, not stiff chops
+2. Practise lateral position changes from high tom to floor tom slowly before increasing speed
+3. Land the crash at the end of each cascade on the structural downbeat — the fill marks the moment
+4. Keep the strokes flowing and rebound-driven rather than forced — tension kills speed
+5. Build from slow individual fills to full-song context only once each cascade is clean at tempo
+
+**Practice tips:**
+- Practice the sticking pattern away from the kit on a pad before attempting kit position changes
+- Record the fill from multiple tempos to compare where position changes start to lag
+- Focus on the crash landing — the fill has no value if it misses the structural downbeat
+- Listen to the Show No Mercy album and Reign in Blood back to back to hear the evolution in control
+
+**Page:** https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-show-no-mercy-tom-run
 
 ## George Kollias (Nile)
 

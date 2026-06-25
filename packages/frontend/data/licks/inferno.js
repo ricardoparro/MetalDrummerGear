@@ -1,5 +1,5 @@
 // Signature licks — Inferno (slug: inferno)
-// Per-drummer module. Issue #1187 (SEO batch: extreme/black metal tier).
+// Per-drummer module. Issue #1187 (SEO batch: extreme/black metal tier). Lick batch 4 added in #2360 (6 total).
 
 export const licks = {
   "inferno-conquer-all-blast": {

@@ -1,5 +1,5 @@
 // Signature licks — Flo Mounier (slug: flo-mounier)
-// Per-drummer module. Issue #1128 (split 1/2 of #1123). New-file op — no shared-file conflict (#1056).
+// Per-drummer module. Issue #1128 (split 1/2 of #1123). Lick batch 4 added in #2360 (6 total). New-file op — no shared-file conflict (#1056).
 
 export const licks = {
   "flo-mounier-sire-of-sin-blast": {

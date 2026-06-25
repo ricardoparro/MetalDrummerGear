@@ -1,6 +1,6 @@
 // Signature licks — Jaska Raatikainen (slug: jaska-raatikainen)
 // Per-drummer module extracted from the former monolithic signatureLicks.js.
-// Adding a drummer's licks is now a new-file op — no shared-file append conflict. Issue #1056.
+// Adding a drummer's licks is now a new-file op — no shared-file append conflict. Issue #1056. Lick batch 4 added in #2360 (6 total).
 
 export const licks = {
   "jaska-raatikainen-sixpounder-double-bass": {

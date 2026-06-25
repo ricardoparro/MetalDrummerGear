@@ -46080,6 +46080,285 @@ See also: [Lars Ulrich's full drummer profile](/drummer/lars-ulrich) for the com
 
 🥁 *The Tama Imperial Star that started it all — thrash metal's year zero.* 🥁`
     }
+  },
+
+  'demigod-drum-setup': {
+    slug: 'demigod-drum-setup',
+    albumTitle: 'Demigod',
+    artist: 'Behemoth',
+    drummer: 'Inferno',
+    drummerId: 19,
+    relatedDrummerSlug: 'inferno',
+    year: 2004,
+    genre: 'Blackened Death Metal',
+    label: 'Regain Records',
+    studio: 'Hertz Studio, Białystok, Poland',
+    producer: 'Behemoth / Wojtek & Sławek Wiesławski',
+    isAlbumArticle: true,
+    datePublished: '2026-06-25',
+    dateModified: '2026-06-25',
+    author: 'MetalForge Editorial',
+    title: 'Demigod — Behemoth Drum Setup (Inferno, 2004)',
+    description: "Inferno's commercial breakthrough performance: Pearl Masters BRX maple/birch shells, Paiste Signature Dark Energy cymbals, Pearl Eliminator double pedal — 240+ BPM blast beats that put Behemoth on the US Billboard Heatseekers chart for the first time.",
+    seoKeywords: ['behemoth demigod drummer', 'inferno drum setup 2004', 'demigod behemoth drums', 'inferno pearl masters brx', 'behemoth demigod drum kit', 'inferno paiste signature 2004', 'behemoth blast beats 2004', 'inferno drum kit 2004', 'demigod behemoth drum setup'],
+    ogImage: '/images/albums/demigod-drums.webp',
+    intro: {
+      title: 'The Album That Broke Behemoth Internationally',
+      content: `*Demigod* (2004) is the sixth studio album by Polish blackened death metal band Behemoth, released on October 4, 2004 through Regain Records. It was the album that transformed Behemoth from a cult underground act into an internationally recognized force in extreme metal — reaching #16 on the US Billboard Heatseekers chart, the band's first American chart entry. Produced by Behemoth alongside Wojtek and Sławek Wiesławski at Hertz Studio in Białystok, Poland, *Demigod* was also the first album Behemoth recorded at what would become their permanent studio home — a partnership with the Wiesławski brothers that would define the band's sound through *Evangelion* (2009) and *The Satanist* (2014).
+
+At the rhythmic center of *Demigod*'s devastation is Inferno — Zbigniew Robert Promiński — delivering blast beats at 240+ BPM across some of the most technically demanding arrangements in extreme metal's recorded history. *Demigod* marked a pivotal gear transition: Inferno's first album after switching to Pearl Masters BRX shells, a maple/birch hybrid construction that would define his studio sound throughout the mid-2000s. The Paiste Signature Dark Energy cymbal series paired with the BRX kit to produce the crisp, powerful attack audible on tracks like "Conquer All" and "Slaves Shall Serve."
+
+The album fills the essential gap in the Behemoth discography arc: *Thelema.6* (2000) → *Zos Kia Cultus* (2002) → *Demigod* (2004) → *The Apostasy* (2007) → *Evangelion* (2009). Understanding *Demigod* is prerequisite knowledge for tracing how Inferno's gear and technique evolved toward the landmark performances of *Evangelion* and *The Satanist*. This article documents every piece of gear Inferno used on *Demigod*, the recording context that made this album possible, and why this 2004 breakthrough remains one of extreme metal's definitive drum recordings.`,
+      keyPoints: [
+        'First Behemoth album recorded at Hertz Studio, Białystok — established their permanent studio home with the Wiesławski brothers',
+        'Inferno\'s first album on Pearl Masters BRX maple/birch hybrid shells',
+        'Paiste Signature Dark Energy cymbal series — crisp, fast attack suited to 240+ BPM blast work',
+        'Pearl Eliminator double pedal for high-velocity independent kick control',
+        'Reached #16 on US Billboard Heatseekers — Behemoth\'s first American chart entry',
+        'Blast beats at 240+ BPM — among the fastest documented for a major extreme metal release of the era'
+      ]
+    },
+    drumKit: {
+      title: "Inferno's Pearl Masters BRX: Demigod Configuration",
+      brand: 'Pearl',
+      model: 'Pearl Masters BRX',
+      finish: 'Custom (studio configuration)',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum (x2)'],
+        toms: ['10" x 8" Rack Tom', '13" x 9" Rack Tom'],
+        floorToms: ['16" x 14" Floor Tom'],
+        shells: 'Maple/birch hybrid — Pearl Masters BRX construction'
+      },
+      description: `For *Demigod*, Inferno made the transition to Pearl Masters BRX shells — a maple/birch hybrid construction that became his studio instrument of choice throughout the mid-2000s. The BRX designation refers to Pearl's six-ply maple/birch hybrid shell recipe: the maple layers contribute warmth and tonal sustain, while the birch plies add focused attack and projection — a combination that serves extreme metal's conflicting demands for both tonal definition and raw power.
+
+The double 22" bass drum configuration was unchanged from Inferno's previous setups: two independent bass drums rather than a double pedal on a single drum. This remained a consistent technical choice throughout his career, providing independent control over each drum's pitch, resonance, and mechanical response. At the 240+ BPM blast tempos that characterize *Demigod*, the Pearl Eliminator double pedal's precision was essential — but the choice of separate bass drums reflects a preference for symmetrical mechanical independence on each foot.
+
+The compact tom configuration — two rack toms and a single floor tom — mirrors the streamlined approach that would carry forward through the *Evangelion* sessions five years later. *Demigod*'s arrangements, while technically demanding, prioritize relentless rhythmic drive over melodic tom fills, and the tight three-tom setup served this philosophy efficiently. The Wiesławski brothers' recording approach at Hertz Studio captured the BRX shells' balanced character — the maple warmth audible in the toms, the birch attack prominent in the kick and snare articulation.`,
+      notes: [
+        'Pearl Masters BRX maple/birch hybrid — Inferno\'s first album on this shell series',
+        'Double 22" kick drums for independent mechanical control at extreme blast tempos',
+        'Compact three-tom configuration matched to Demigod\'s drive-forward arrangements',
+        'Hertz Studio recording debut — Wojtek and Sławek Wiesławski capture BRX shell character',
+        'Same core kit architecture carried forward through the Evangelion sessions (2009)'
+      ],
+      estimatedValue: '$2,500–4,000 (Pearl Masters BRX professional configuration)'
+    },
+    snare: {
+      title: 'The Blast Beat Foundation',
+      brand: 'Pearl',
+      model: 'Pearl Free-Floating 14" x 6.5"',
+      size: '14" x 6.5"',
+      shell: 'Steel',
+      description: `The Pearl Free-Floating snare on *Demigod* carried the rhythmic weight of one of extreme metal's most technically demanding records. Pearl's Free-Floating system suspends the snare shell independently of both hoops — the shell resonates freely without the dampening effect of fixed hardware contact. At 240+ BPM blast beat tempos, this mechanical independence translates to maximum sensitivity across the head surface: every stroke, from center to edge, produces consistent response.
+
+The 14" x 6.5" dimensions represented a deeper shell than many snare choices of the period, contributing additional body and mid-frequency weight to the snare's voice. On *Demigod*, the snare needed to cut through Nergal and Seth's heavily distorted, down-tuned guitar arrangements without losing articulation — the Free-Floating's sensitivity ensured each stroke registered as a distinct event even during extended blast sequences.
+
+The Wiesławski brothers' production at Hertz Studio placed the snare prominently in *Demigod*'s mix — an approach that became a signature of their work with Behemoth. The steel shell's cutting attack, combined with medium-high tension tuning, gave the snare the crack and presence that drives the album's rhythmic intensity on tracks like "Conquer All" and "Slaves Shall Serve."`,
+      tuningSetting: 'Medium-high tension for attack and articulation at 240+ BPM blast tempos',
+      heads: 'Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$400–600 (Pearl Free-Floating steel snare)'
+    },
+    cymbals: {
+      title: 'Paiste Signature Dark Energy: Controlled Power',
+      brand: 'Paiste',
+      series: 'Paiste Signature Dark Energy',
+      setup: [
+        { type: 'Hi-Hats', model: 'Paiste Signature Dark Energy 14" Hi-Hats', position: 'Left side', notes: 'Controlled, dark attack — fast decay for definition at extreme tempos' },
+        { type: 'Crash', model: 'Paiste Signature Dark Energy 16" Crash', position: 'Far left', notes: 'Quick accent cymbal — explosive with rapid decay' },
+        { type: 'Crash', model: 'Paiste Signature Dark Energy 18" Crash', position: 'Over rack toms', notes: 'Primary crash — dark, focused character within dense arrangements' },
+        { type: 'Ride', model: 'Paiste Signature Dark Energy 20" Ride', position: 'Right side', notes: 'Dark, controlled definition — limited wash for rhythmic clarity' },
+        { type: 'China', model: 'Paiste Signature Dark Energy 18" China', position: 'Left side, inverted', notes: 'Trashy, explosive accent for riff transitions' }
+      ],
+      description: `Inferno's cymbal selection for *Demigod* centered on the Paiste Signature Dark Energy series — a premium handcrafted line produced from Paiste's proprietary 2002 bronze alloy, then treated to suppress brightness and extend dark, complex overtones. The Dark Energy's character was a deliberate match for *Demigod*'s dense, downtuned arrangements: where bright cymbals would clash with the album's wall of distortion, the Dark Energy series blended its tonal contribution within the mix rather than competing against it.
+
+The Dark Energy Hi-Hats were central to Inferno's blast beat architecture on *Demigod*. At 240+ BPM, the hi-hat must deliver fast, repeatable response with minimal residual wash — the Dark Energy's controlled decay made each closure register as a precise rhythmic event rather than a sustained smear. This was critical for the single-stroke alternating blast patterns that dominate tracks like "Conquer All" and "The Nephilim Rising."
+
+The 16" and 18" crashes provided the explosive punctuation that marks Behemoth's structural transitions, with the Dark Energy character keeping each accent focused and quickly settling — essential for maintaining the forward momentum that drives *Demigod*'s arrangements. The 18" China, positioned on the left in Inferno's traditional configuration, delivered the trashy, aggressive accents that became a signature of the Behemoth sound throughout this era.`,
+      notes: [
+        'Paiste Signature Dark Energy — premium 2002 bronze alloy, controlled dark character',
+        'Dark Energy Hi-Hats deliver fast decay and precise response at 240+ BPM blast tempos',
+        'Crashes accent transitions without excessive sustain in dense downtuned arrangements',
+        '18" China maintains the aggressive accent role established in earlier Behemoth recordings',
+        'Transitioned to Meinl Byzance Dark series by the Evangelion sessions (2009)'
+      ],
+      estimatedValue: '$2,000–3,200 (Paiste Signature Dark Energy setup)'
+    },
+    hardware: {
+      title: 'Pearl Eliminator: High-Velocity Kick Control',
+      pedals: [
+        {
+          brand: 'Pearl',
+          model: 'Pearl Eliminator Double Pedal',
+          description: `The Pearl Eliminator double pedal was Inferno's drive mechanism of choice for *Demigod*'s extreme kick drum requirements. The Eliminator's chain-drive mechanism offered a smooth, responsive feel suited to the high-velocity double bass passages that characterize *Demigod*'s most demanding sections. At 240+ BPM, the Eliminator's adjustable cam system allowed Inferno to tune the pedal's mechanical response — controlling the ratio of footboard travel to beater movement for optimal efficiency at maximum velocity.
+
+The double pedal configuration, combined with two independent 22" bass drums, gave Inferno full mechanical independence on each foot. This approach — favoring two complete drums over a single drum with double pedal — provided symmetrical response across both feet and avoided the tonal inconsistency that can arise when a single resonant head handles double-pedal stress. For Behemoth's extreme arrangements, the consistency of each kick attack was essential to maintaining rhythmic clarity through dense production.`
+        }
+      ],
+      sticks: {
+        brand: 'Vic Firth',
+        model: '5B',
+        description: 'Vic Firth 5B — the increased mass versus 5A provided additional authority for Inferno\'s driving stroke at high tempos without sacrificing stick speed.'
+      },
+      heads: {
+        batter: 'Remo Coated Ambassador',
+        resonant: 'Remo Ambassador',
+        kick: 'Remo Powerstroke P3 (batter), Remo Ambassador (resonant)'
+      }
+    },
+    trackAnalysis: [
+      {
+        track: 'Conquer All',
+        bpm: '220–240',
+        signature: '4/4',
+        highlights: [
+          'One of Demigod\'s most-cited tracks — full-speed blast from the opening bar',
+          'Inferno\'s hi-hat work at 240 BPM demonstrates the Paiste Dark Energy\'s fast-decay precision',
+          'Double kick patterns lock with Nergal\'s riff for maximum rhythmic impact',
+          'Became a live set staple — the Behemoth crowd anthem from this era'
+        ],
+        gearNotes: 'Paiste Signature Dark Energy hi-hats provide controlled articulation at maximum blast velocity. Pearl Eliminator double pedal drives the kick drum\'s relentless precision throughout.'
+      },
+      {
+        track: 'Slaves Shall Serve',
+        bpm: '200–230',
+        signature: '4/4',
+        highlights: [
+          'Demigod\'s other essential live track — combines blast intensity with mid-tempo groove passages',
+          'Snare crack from the Pearl Free-Floating cuts through the downtuned guitar density',
+          'Dynamic transitions showcase Inferno\'s ability to shift between full-blast and controlled groove',
+          'Became one of Behemoth\'s longest-running setlist entries'
+        ],
+        gearNotes: 'Pearl Free-Floating 14x6.5 snare\'s fast-decay character maintains articulation across the track\'s tempo variations. Dark Energy crashes accent the arrangement\'s structural transitions.'
+      },
+      {
+        track: 'Demigod',
+        bpm: '~180–220',
+        signature: '4/4',
+        highlights: [
+          'Title track — mid-paced opening builds to full blast intensity',
+          'Inferno\'s dynamic control is audible across the track\'s varied tempo sections',
+          'Pearl Masters BRX tom warmth features during the arrangement\'s transitional passages',
+          'Demonstrates the BRX kit\'s full tonal range, not just blast-oriented character'
+        ],
+        gearNotes: 'Pearl Masters BRX maple/birch warmth audible in tom passages. Paiste Signature Dark Energy crashes drive the track\'s key dynamic transitions.'
+      }
+    ],
+    faq: [
+      {
+        question: 'What drums did Inferno use on Demigod?',
+        answer: "Inferno recorded Demigod (2004) on a Pearl Masters BRX kit — his first album using this maple/birch hybrid shell series. The configuration featured double 22\" x 18\" bass drums, 10\" and 13\" rack toms, and a 16\" floor tom. The BRX shells' maple/birch construction delivered a balanced combination of warmth and attack that served Demigod's extreme arrangements at Hertz Studio in Białystok. This was also Behemoth's first recording at Hertz, establishing the partnership with Wojtek and Sławek Wiesławski that would continue through Evangelion (2009) and The Satanist (2014). For Inferno's current live setup, see the [What's In Inferno's Kit breakdown](/articles/whats-in-infernos-kit)."
+      },
+      {
+        question: 'What cymbals did Inferno use on Demigod?',
+        answer: "Inferno used the Paiste Signature Dark Energy series on Demigod — including 14\" Dark Energy Hi-Hats, 16\" and 18\" Crashes, a 20\" Ride, and an 18\" China. The Paiste Signature Dark Energy line is produced from Paiste's 2002 bronze alloy with additional processing to produce darker, more controlled tonal characteristics. For Demigod's 240+ BPM blast beat sections, the Dark Energy's fast-decay character was critical: excessive cymbal wash at those tempos obscures the kick-snare interplay that drives Behemoth's rhythmic architecture. Inferno later transitioned to Meinl Byzance Dark cymbals by the Evangelion era (2009)."
+      },
+      {
+        question: 'How fast are the blast beats on Demigod?',
+        answer: "Inferno delivers blast beats at 240+ BPM on Demigod, sustained across extended sections of tracks like \"Conquer All\" and \"Slaves Shall Serve.\" These were among the fastest sustained blast beat performances documented on a major extreme metal release in 2004. The Pearl Eliminator double pedal and Paiste Signature Dark Energy Hi-Hats were both essential tools for maintaining velocity and rhythmic clarity at these tempos. The Pearl Free-Floating snare's sensitivity at high tension ensured each stroke remained distinct even during maximum-speed blast sequences."
+      },
+      {
+        question: 'What double pedal did Inferno use on Demigod?',
+        answer: "Inferno used a Pearl Eliminator double pedal during the Demigod sessions. The Eliminator's chain-drive mechanism with adjustable cam system allowed precise control of footboard-to-beater response — essential for the sustained high-velocity double bass patterns that characterize Demigod's fastest sections. Unlike the direct-drive Axis A Longboard he would later use on Evangelion, the Eliminator's chain-drive offered a specific feel that suited his playing during this period. The pedal was paired with two independent 22\" bass drums rather than a single drum."
+      },
+      {
+        question: 'What was significant about Demigod for Behemoth?',
+        answer: "Demigod (2004) was Behemoth's international commercial breakthrough on multiple fronts: it was their first album to chart in the United States (reaching #16 on the Billboard Heatseekers chart), their first recording at Hertz Studio in Białystok, and the album that firmly established the 'blackened death metal' identity the band had been developing since Satanica (1999). For Inferno specifically, it was his first album on Pearl Masters BRX shells. The album's critical and commercial success validated the extreme production philosophy Behemoth and the Wiesławski brothers had developed, setting the template for Evangelion (2009) and The Satanist (2014). See the [Evangelion drum setup](/articles/evangelion-drum-setup) for how the gear and technique evolved five years later."
+      },
+      {
+        question: 'Where was Demigod recorded?',
+        answer: "Demigod was recorded at Hertz Studio in Białystok, Poland — Behemoth's home city and the studio run by brothers Wojtek and Sławek Wiesławski. This was the first Behemoth album recorded at Hertz, establishing a working relationship with the Wiesławski brothers that continued through Evangelion (2009) and The Satanist (2014). The Wiesławski brothers' recording approach prioritized rhythmic articulation — Inferno's drum tracks on Demigod are mixed prominently, with the snare and kick attacks clearly defined within the dense, downtuned guitar arrangements."
+      }
+    ],
+    videos: [],
+    relatedAlbums: ['whats-in-infernos-kit', 'evangelion-drum-setup'],
+    relatedDrummers: [6, 21, 3],
+    relatedArticles: ['blast-beat-techniques', 'blackened-death-metal-drumming', 'extreme-metal-drum-setup'],
+    relatedLicks: [],
+    schema: {
+      '@context': 'https://schema.org',
+      '@graph': [
+        {
+          '@type': 'MusicAlbum',
+          name: 'Demigod',
+          byArtist: {
+            '@type': 'MusicGroup',
+            name: 'Behemoth'
+          },
+          datePublished: '2004-10-04',
+          genre: 'Blackened Death Metal',
+          recordLabel: {
+            '@type': 'Organization',
+            name: 'Regain Records'
+          },
+          track: [
+            { '@type': 'MusicRecording', name: 'Sculpting the Throne ov Seth' },
+            { '@type': 'MusicRecording', name: 'Demigod' },
+            { '@type': 'MusicRecording', name: 'Conquer All' },
+            { '@type': 'MusicRecording', name: 'The Nephilim Rising' },
+            { '@type': 'MusicRecording', name: 'Towards Babylon' },
+            { '@type': 'MusicRecording', name: 'Before Aeons Came' },
+            { '@type': 'MusicRecording', name: 'Mysterium Coniunctionis (Hermanubis)' },
+            { '@type': 'MusicRecording', name: 'Xul' },
+            { '@type': 'MusicRecording', name: 'Slaves Shall Serve' },
+            { '@type': 'MusicRecording', name: 'The Reign ov Shugal' }
+          ]
+        },
+        {
+          '@type': 'Person',
+          name: 'Inferno',
+          alternateName: 'Zbigniew Robert Promiński',
+          birthDate: '1979-03-23',
+          birthPlace: {
+            '@type': 'Place',
+            name: 'Gdańsk, Poland'
+          },
+          memberOf: {
+            '@type': 'MusicGroup',
+            name: 'Behemoth'
+          },
+          instrument: 'Drums'
+        },
+        {
+          '@type': 'FAQPage',
+          mainEntity: [
+            {
+              '@type': 'Question',
+              name: 'What drums did Inferno use on Demigod?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: 'Inferno recorded Demigod (2004) on a Pearl Masters BRX kit — double 22" bass drums, 10" and 13" rack toms, and a 16" floor tom. The maple/birch BRX shells delivered a balanced combination of warmth and attack at Hertz Studio in Białystok. This was both Inferno\'s first album on Pearl Masters BRX and Behemoth\'s first recording at Hertz Studio.'
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'What cymbals did Inferno use on Demigod?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: 'Inferno used Paiste Signature Dark Energy cymbals on Demigod — 14" Hi-Hats, 16" and 18" Crashes, a 20" Ride, and an 18" China. The Dark Energy series\' fast-decay character was essential for maintaining rhythmic clarity during 240+ BPM blast beat passages.'
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'How fast are the blast beats on Demigod?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: 'Inferno delivers blast beats at 240+ BPM on Demigod, sustained across extended sections of tracks like "Conquer All" and "Slaves Shall Serve" — among the fastest documented blast beat performances on a major extreme metal release in 2004.'
+              }
+            }
+          ]
+        }
+      ]
+    },
+    conclusion: {
+      title: "Demigod: The Album That Defined the Arc",
+      content: `*Demigod* occupies a specific and irreplaceable position in Behemoth's catalog: the album that transformed the band from cult underground act to internationally recognized extreme metal force, and the recording that established the Hertz Studio partnership that would define the band's sound for the next decade.
+
+For drummers studying Inferno's career, *Demigod* is essential listening for two distinct reasons. First, it documents the Pearl Masters BRX era — the setup Inferno used during Behemoth's commercial breakthrough, before the Tama Starclassic Maple transition of the *Evangelion* sessions. Second, it captures blast beat performance at 240+ BPM in a major-label recording context, documented by the Wiesławski brothers' meticulous approach at Hertz Studio, where the rhythmic architecture is given priority in the mix.
+
+The arc that *Demigod* anchors — *Thelema.6* → *Zos Kia Cultus* → *Demigod* → *The Apostasy* → *Evangelion* → *The Satanist* — traces one of extreme metal's most consistent and purposeful evolutions. Each step brought refinements to both Behemoth's compositions and Inferno's gear selection. Understanding *Demigod* means understanding the foundation on which *Evangelion*'s technical peak and *The Satanist*'s emotional depth were built.
+
+For the complete picture of how Inferno's gear evolved from *Demigod* through the present day, visit the [What's In Inferno's Kit breakdown](/articles/whats-in-infernos-kit) and the [Inferno drummer profile](/drummer/inferno). For the *Evangelion* follow-up where the Hertz Studio partnership reached its pre-*Satanist* apex, see the [Evangelion drum setup breakdown](/articles/evangelion-drum-setup).`
+    }
   }
 };
 

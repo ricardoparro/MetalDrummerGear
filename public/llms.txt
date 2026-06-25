@@ -29,6 +29,7 @@
 - [Metal Bands](/llms/bands.md): 19 curated bands with drummer lineups and gear
 - [Comparisons Overview](/llms/comparisons.md): Side-by-side drummer gear comparisons
 - [Per-Comparison Pages](/llms/vs/): 59 individual drummer-vs-drummer comparisons
+- [Per-Comparison Q&A](/llms/comparisons/): Structured Q&A files for drummer comparisons (gene-hoglan-vs-tomas-haake + more)
 
 ## Content Articles
 

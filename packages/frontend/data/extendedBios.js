@@ -7170,7 +7170,8 @@ Inferno's drumming combines blistering speed with surgical precision, delivering
           { name: 'Pearl Drums', url: 'https://pearldrum.com' },
           { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
           { name: 'Behemoth Official', url: 'https://behemoth.pl' },
-          { name: 'Wikipedia: Inferno (musician)', url: 'https://en.wikipedia.org/wiki/Inferno_(musician)' }
+          { name: 'Wikipedia: Inferno (musician)', url: 'https://en.wikipedia.org/wiki/Inferno_(musician)' },
+          { name: 'Demigod Drum Setup (2004)', url: '/articles/demigod-drum-setup' }
         ]
       }
     }

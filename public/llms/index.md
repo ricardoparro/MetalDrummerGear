@@ -204,7 +204,7 @@ Optimised for AI retrieval on queries like "what kit does Lars Ulrich play?" or 
 
 ---
 
-## Articles (61 total)
+## Articles (65 total)
 
 Clean Markdown gear breakdowns for every album drum-setup and "what's in <drummer>'s kit" article, ingestible in one request.
 
@@ -273,6 +273,8 @@ Clean Markdown gear breakdowns for every album drum-setup and "what's in <drumme
 | What's In Gavin Harrison's Prog Metal Arsenal: Complete Gear Breakdown | Gavin Harrison | [Markdown](https://metalforge.io/llms/articles/whats-in-gavin-harrisons-kit.md) |
 | White Pony Drum Setup: Abe Cunningham's Atmospheric Masterpiece | Abe Cunningham | [Markdown](https://metalforge.io/llms/articles/white-pony-drum-setup.md) |
 | What's In Matt Halpern's Periphery Kit: Complete Gear Breakdown | Matt Halpern | [Markdown](https://metalforge.io/llms/articles/whats-in-matt-halperns-kit.md) |
+| Matt Greiner — Signature Drum Licks & Technique Guide (6 lick pages: blast-to-groove, polyrhythm, double bass) | Matt Greiner | [Markdown](https://metalforge.io/llms/articles/matt-greiner-licks.md) |
+| Joey Jordison — Signature Drum Licks & Technique Guide (6 lick pages: Iowa double bass, snare displacement, blast beat) | Joey Jordison | [Markdown](https://metalforge.io/llms/articles/joey-jordison-licks.md) |
 
 ---
 
